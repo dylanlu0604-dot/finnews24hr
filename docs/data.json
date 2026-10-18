@@ -1,7 +1,758 @@
 {
-  "updated": "2026-10-19 07:00:47",
-  "count": 12531,
+  "updated": "2026-10-19 07:50:15",
+  "count": 12557,
   "items": [
+    {
+      "id": "5152712",
+      "time": "2026-10-19 07:49:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本議員聯盟拜鬼 】今天（10月19日），日本跨黨派國會議員聯盟“大家一起參拜靖國神社”集體參拜。此外，執政黨自民黨總務會長梶山弘志、參議院預算委員長有村治子參拜靖國神社。"
+    },
+    {
+      "id": "5152711",
+      "time": "2026-10-19 07:49:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度財政部長尼爾瑪拉·西塔拉曼將股市表現不佳歸咎於退出機制過於容易和流動性過剩。"
+    },
+    {
+      "id": "5152710",
+      "time": "2026-10-19 07:48:52",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【華泰證券：柴油價格或仍將位於高位 預計將繼續溫和推高美國通脹】華泰證券研報指出，往前看，美伊衝突仍未解決，全球原油煉化能力難以明顯改善，全球柴油供需缺口短期較難緩解，柴油價格或仍將位於高位，預計將繼續溫和推高美國通脹。"
+    },
+    {
+      "id": "5152709",
+      "time": "2026-10-19 07:48:48",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲肯特：對月度就業資料持謹慎態度，但勞動力市場已變得不那麼緊張。"
+    },
+    {
+      "id": "mkt:01a1516a-e8a4-7ee0-a8d4-474834d38d51",
+      "time": "2026-10-19 07:48:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Huatai Securities says the US-Iran conflict remains unresolved, global crude refining capacity is unlikely to improve materially in the near term, and a persistent global diesel supply shortfall will keep diesel prices elevated — likely continuing to exert modest upward pressure on US inflation."
+    },
+    {
+      "id": "5152708",
+      "time": "2026-10-19 07:48:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "今天（10月19日），日本首相高市早苗向靖國神社供奉“玉串料”（祭祀費）。所謂“靖國神社”是日本軍國主義的精神工具和象徵，供奉有對侵略戰爭負有直接罪責的14名甲級戰犯。10月17日，高市早苗還曾供奉名為“真榊”的祭品。（CCTV國際時訊）"
+    },
+    {
+      "id": "5152707",
+      "time": "2026-10-19 07:47:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本國土交通大臣參拜靖國神社】今天（10月19日），日本國土交通大臣井林辰憲參拜靖國神社。所謂“靖國神社”是日本軍國主義的精神工具和象徵，供奉有對侵略戰爭負有直接罪責的14名甲級戰犯。（CCTV國際時訊）"
+    },
+    {
+      "id": "5152706",
+      "time": "2026-10-19 07:45:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.2點。"
+    },
+    {
+      "id": "5152705",
+      "time": "2026-10-19 07:45:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數期貨早盤下跌2.2%。"
+    },
+    {
+      "id": "5152704",
+      "time": "2026-10-19 07:44:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "今天（10月19日），日本國土交通大臣井林辰憲參拜靖國神社。"
+    },
+    {
+      "id": "5152703",
+      "time": "2026-10-19 07:44:25",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券A股策略：關注三季報盈利環比加速板塊】華泰證券A股策略指出，寬基ETF放量為低位指數提供託底，但歷史上此類放量更可能是左側訊號，建議防守為主，並在三季報中尋找盈利環比加速的板塊。上週A股先跌後穩、整體縮量，AI硬體領跌。AI鏈回撥是全球現象，AI業績彈性與融資可持續性受質疑；避險情緒仍強，食飲、銀行逆勢收漲。三季報披露尚早，但市場對單季盈利環比加速的個股定價偏積極，可作為短期交易線索。配置上，保持低波紅利等防禦底倉；AI鏈關注PCB環節及光器件、半導體裝置中的個股，AI鏈外關注通用及專用裝置、風電與電網裝置、航運、玻纖化纖、醫療服務等板塊。"
+    },
+    {
+      "id": "5152702",
+      "time": "2026-10-19 07:44:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【動力煤價格重返千元上方 上市煤企業績有望繼續增長】受冬儲補庫需求以及供給偏緊影響，近期動力煤價格時隔3年再度重返千元上方。“煤炭行業成本相對穩定，煤炭價格上漲可以直接改善煤炭企業的盈利預期，對業績改善形成支撐。”廣東華輝創富投資管理有限公司總經理袁華明對記者表示。受今年以來煤價上行影響，上半年已有八成動力煤行業上市公司業績同比改善。進入三季度，煤價進一步上行，繼續增厚上市公司利潤。（證券日報）"
+    },
+    {
+      "id": "5152701",
+      "time": "2026-10-19 07:42:14",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "在利雅得發生襲擊事件後，摩根大通和花旗集團的高管正在考慮退出沙特投資峰會。"
+    },
+    {
+      "id": "5152700",
+      "time": "2026-10-19 07:41:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星將在英偉達下一代HBM中採用臺積電技術】韓國《首爾經濟日報》援引未具名業內人士訊息報道，三星電子計劃使用臺積電3奈米工藝，為英偉達下一代定製高頻寬記憶體生產基底裸片。英偉達已要求三星、SK海力士和美光，在其定製NVHBM產品的基底裸片生產上統一採用臺積電3奈米工藝。英偉達希望各供應商統一製造流程，保障產品效能一致。此舉是三星首次在HBM製造環節與臺積電開展合作。NVHBM基於第七代HBM4E架構開發。"
+    },
+    {
+      "id": "mkt:01a15163-fed0-7ee0-a8d4-3e9961baf62e",
+      "time": "2026-10-19 07:41:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBA's Kent says direction of housing tax adjustments supports monetary policy transmission."
+    },
+    {
+      "id": "5152699",
+      "time": "2026-10-19 07:40:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【新股提示：皇冠新材今日申購】今日可申購深市主機板皇冠新材。皇冠新材發行總數56304768股，發行市盈率25.87倍，申購程式碼為：001381，申購價格：16.98元，申購上限13500股。"
+    },
+    {
+      "id": "5152698",
+      "time": "2026-10-19 07:39:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【供給提速資產擴圍，公募REITs長期配置價值漸顯】近期，公募REITs市場可以概括為兩條主線：一是公募REITs二級市場從深度調整到逐漸回暖；二是供給端加速擴容、資產型別多點突破。 二級市場今年經歷大幅回撤後，於9月中下旬出現反彈，市場逐步回暖並企穩；一級市場註冊發行節奏創下歷史同期新高，資產型別持續向商業不動產、燃煤發電、二三線城市保租房等延伸。 當前時點，機構對低估值+高分紅的配置價值討論明顯升溫，公募REITs長期配置價值凸顯。（中國證券報）"
+    },
+    {
+      "id": "5152697",
+      "time": "2026-10-19 07:39:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星將在英偉達下一代HBM晶片中使用臺積電技術。"
+    },
+    {
+      "id": "5152696",
+      "time": "2026-10-19 07:39:11",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲肯特：住房稅收改革對貨幣政策而言是朝著有益的方向發展。"
+    },
+    {
+      "id": "5152695",
+      "time": "2026-10-19 07:37:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨漲幅擴大至0.4%，納斯達克指數期貨上漲0.7%。"
+    },
+    {
+      "id": "5152694",
+      "time": "2026-10-19 07:37:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特直升機在葉門附近墜毀 與胡塞武裝的衝突短期內無望結束】沙烏地阿拉伯的一架偵察直升機在該國與葉門的邊境附近墜毀，造成兩人死亡。這是與胡塞武裝的最新一輪衝突爆發以來，沙特首次報告這類人員傷亡事件。與此同時，沙烏地阿拉伯其他地區也攔截了導彈，利雅得連夜拉響了空襲警報。利雅得主要機場大約一週前已因一波致命襲擊而關閉。對抗胡塞武裝的沙特主導聯軍表示，一架AH-6i直升機因技術故障在納季蘭市附近墜毀，兩名機組人員死亡。這與有伊朗支援的胡塞武裝早些時候聲稱擊落一架這種飛機的說法不符。沙特民防部門隨後表示，胡塞武裝發射的一枚炮彈擊中該市居民區，造成六人受傷，三棟房屋和三輛汽車亦受損。這些接連發生的事件顯示，沙特與葉門胡塞武裝的最新一輪對抗短期內不會結束，並給沙特造成重大損失。"
+    },
+    {
+      "id": "5152693",
+      "time": "2026-10-19 07:36:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【利比亞西部發生爆炸 至少8人死亡】當地時間10月18日晚，利比亞首都的黎波里以西約60公里扎維耶地區一處營地發生炮彈爆炸，造成至少8人死亡、8人受傷。據利比亞方面訊息，訊息人士稱，爆炸發生時，這處隸屬於民族統一政府內政部的營地在進行演習。目前，傷者已被送往當地醫院。有訊息稱，死亡人數可能進一步增加。"
+    },
+    {
+      "id": "5152692",
+      "time": "2026-10-19 07:36:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“女性服兵役”討論在韓國升溫】韓國《每日經濟》18日報道稱，低出生率導致兵源持續減少，韓國關於女性是否應服兵役的討論再度升溫。韓國多名議員近日在國會國防委員會對兵務廳的國政監察中要求政府著手研究女性徵兵制度。兵務廳則表示，目前並未考慮引入，應先開展社會討論、形成國民共識。"
+    },
+    {
+      "id": "5152691",
+      "time": "2026-10-19 07:36:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【供給提速資產擴圍 公募REITs長期配置價值漸顯】近期，公募REITs市場可以概括為兩條主線：一是公募REITs二級市場從深度調整到逐漸回暖；二是供給端加速擴容、資產型別多點突破。二級市場今年經歷大幅回撤後，於9月中下旬出現反彈，市場逐步回暖並企穩；一級市場註冊發行節奏創下歷史同期新高，資產型別持續向商業不動產、燃煤發電、二三線城市保租房等延伸。當前時點，機構對低估值+高分紅的配置價值討論明顯升溫，公募REITs長期配置價值凸顯。（中國證券報）"
+    },
+    {
+      "id": "5152690",
+      "time": "2026-10-19 07:35:32",
+      "tags": [
+        "資料",
+        "央行"
+      ],
+      "text": "澳洲聯儲肯特：現行現金利率估算顯示政策具有一定緊縮性。"
+    },
+    {
+      "id": "5152689",
+      "time": "2026-10-19 07:35:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【黃金理財發行“遇冷” 業績分化拷問“含金量”】10月16日，倫敦現貨黃金收報4165.175美元/盎司，近期走勢雖相對企穩，但較年初歷史峰值回撤逾25%。與金價低迷期相呼應，理財公司黃金主題產品的發行也沉寂了3個月。Wind資料顯示，9月16日，北銀理財“春謀定止盈43號黃金主題方向A”成立，成為打破空窗期的首隻黃金主題“固收+”產品。發行端幾近“冰封”與業績端分化並存。受訪人士表示，業績分化源於倉位結構、固收底倉質量與期權設計三重差異，後續此類產品發行大機率將延續謹慎、低頻特徵。（上證報）"
+    },
+    {
+      "id": "5152688",
+      "time": "2026-10-19 07:34:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【證券時報2026年三季度經濟學家問卷調查顯示：三季度經濟執行平穩 受訪者看好四季度出口投資形勢】近期，證券時報發起“時報經濟眼：2026年三季度經濟學家問卷調查”，邀請來自政府部門、研究機構、知名院校的權威經濟學家分享對三季度經濟執行的感受，並前瞻四季度中國經濟走勢。截至10月18日，共收集到60份有效答卷。人員構成上，受訪者有35人來自金融機構，7人來自政府部門，18人來自高校、智庫以及非金融企業。本期調查顯示，多數受訪經濟學家認為三季度國民經濟穩定執行。展望四季度，受訪者看好出口延續較快增長、物價繼續溫和回升，預計跨境資本流動平穩有序。相較於三季度，受訪者對四季度股市表現有更樂觀的期待，跨境資金流動、人民幣匯率有望繼續保持基本穩定。受訪者看好四季度增量政策發力見效，貨幣政策重在用好結構性貨幣政策工具，增量財政資金應優先“投資於人”。"
+    },
+    {
+      "id": "5152687",
+      "time": "2026-10-19 07:34:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【收到威脅，特拉維夫起飛航班緊急備降】奧地利航空表示，一架從特拉維夫飛往維也納、機上搭載 57 人的航班因收到威脅，在保加利亞緊急降落。就在數週前，迪拜航空一名飛行員曾試圖劫持一架飛往以色列的航班。奧地利航空發言人週日發表宣告稱：“我們確認，由特拉維夫飛往維也納的 OS82 航班收到威脅，因此需要在索菲亞經停備降。” 宣告沒有說明威脅的具體性質。奧地利航空表示，客機降落在保加利亞首都後，目前正在接受搜查。發言人介紹，這架空客 A320 客機上共有 51 名乘客以及 6 名機組人員。奧地利航空發言人表示，該維也納航班的乘客將被重新安排至其他航班出行。"
+    },
+    {
+      "id": "mkt:01a1515d-f072-7ee0-a8d4-361c5d34d3ad",
+      "time": "2026-10-19 07:34:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【People's Daily: Why large-denomination CDs are being relaunched】People's Daily reports large-denomination certificates of deposit (minimum 200,000 yuan) — principal-and-interest guaranteed, typically paying slightly above comparable-term regular deposit rates and eligible for transfer or early withdrawal under rules — are being relaunched after issuance had contracted. Deposit holders are focused on offered rates, allocation limits and sales channels. Multiple banks have restarted these products; analysts cite a mix of factors including the low-rate, low-risk-appetite market environment, bank funding considerations and interest-rate liberalization. With volatility in wealth management products, funds and equities and abundant idle household liquidity, demand for capital-preserving, high-certainty products has risen, creating renewed market demand for large-denomination CDs, Qingdao Bank chief economist Liu Xiaoshu said."
+    },
+    {
+      "id": "mkt:01a1515d-97a8-7ee0-a8d4-28f617206a83",
+      "time": "2026-10-19 07:34:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "RBA'S KENT: Household demand is weakening, while corporate credit remains strong."
+    },
+    {
+      "id": "5152686",
+      "time": "2026-10-19 07:34:03",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【印度財政部長將股市表現不佳歸咎於資金易撤出與流動性過剩】印度財政部長尼爾瑪拉・西塔拉曼表示，印度股票市場流動性過剩是股市表現疲軟的誘因，並且這一因素可能持續產生影響。週五，在曼谷舉辦的國際貨幣基金組織—世界銀行會議間隙，西塔拉曼接受採訪時稱：“資金獲取門檻低、流動性充足，也使得投資者可以輕易從股市撤資。”不過她同時表示，印度經濟基本面“狀況良好”。資料顯示，儘管在貿易不確定性與地緣衝擊下印度經濟增長保持韌性，但今年1月以來，印度主要基準股指已下跌近12%。印度股市遭遇外資創紀錄規模的資金流出，西塔拉曼稱，持續的資本外流將是印度2027年面臨的最大風險之一。印度存管機構NSDL的資料顯示，今年迄今為止，外國組合投資者已經拋售超330億美元的印度直接股票資產。印度市場如今被視作規避AI賽道的交易標的；反觀擁有AI龍頭企業的韓國市場，則吸引了大量投資流入。不過西塔拉曼認為，全球AI熱潮已經顯現裂痕，就算AI泡沫破裂，印度也不會受到連鎖衝擊。她說，印度並沒有像其他經濟體那樣，迎來大規模AI相關投資。"
+    },
+    {
+      "id": "mkt:01a1515d-7bd7-7ee0-a8d4-23248595c940",
+      "time": "2026-10-19 07:34:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "RBA's Kent said there are grounds to view current monetary policy as somewhat restrictive, but the key question is whether that restrictiveness is sufficiently strong."
+    },
+    {
+      "id": "5152685",
+      "time": "2026-10-19 07:32:39",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲肯特：我們看到家庭需求走弱，但企業信貸強勁。"
+    },
+    {
+      "id": "te:markets:592899",
+      "time": "2026-10-19 07:31:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Slips After Sharp Weekly Rise — Brent crude fell below $109 per barrel on Monday but retained most of last week’s gains, as escalating hostilities in the Middle East and Eastern Europe kept supply risks elevated. Clashes between Saudi Arabia and Iran-backed Houthi rebels showed little sign of abating, with a Saudi helicopter crashing near the border with Yemen and the Houthis targeting Yanbu, a key oil export hub. Three tankers were also damaged in the Strait of Hormuz over the weekend as Iran’s IRGC navy maintained that the waterway remained closed and vessels could pass only with its authorization. In Europe, Ukrainian attacks sparked fires at an oil export terminal and a storage depot in St. Petersburg on Sunday, as Kyiv launched more than 1,000 drones at Russia in one of the war’s largest aerial assaults. Meanwhile, US President Donald Trump said he had reached a diesel export agreement with Russia and postponed additional sanctions to avoid jeopardizing peace negotiations with Ukraine."
+    },
+    {
+      "id": "5152684",
+      "time": "2026-10-19 07:31:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經期貨在新加坡交易所開盤下跌1615點，報63990點。"
+    },
+    {
+      "id": "5152683",
+      "time": "2026-10-19 07:31:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特 ：對政策具有一定限制性抱有信心，問題在於，限制性是否足夠。"
+    },
+    {
+      "id": "5152682",
+      "time": "2026-10-19 07:30:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI與漲價雙輪驅動 逾130家A股公司三季報預喜】據上證報，Wind資料顯示，截至10月18日18時，已有159家A股公司釋出三季度業績預告，其中132家公司預喜，包括98家預增、13家扭虧、21家略增，整體預喜佔比達83.02%。恆力石化、聯訊儀器、復旦微電、翰宇藥業等61家公司預計歸母淨利潤同比增幅超過100%，其中7家預增幅度逾10倍。梳理業績增長動因，主要集中於兩條主線：一是AI產業鏈持續高景氣，算力、伺服器、光模組、PCB、半導體等環節需求旺盛，帶動相關公司訂單和盈利改善；二是化工等週期品價格回升，部分細分品種供需格局改善，推動企業毛利率修復。此外，海外業務保持較快增長，也為電子、化工、醫藥、計算機等行業提供增量支撐。"
+    },
+    {
+      "id": "5152681",
+      "time": "2026-10-19 07:30:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：家庭淨債務遠低於總債務。"
+    },
+    {
+      "id": "5152679",
+      "time": "2026-10-19 07:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：面臨消費者物價指數和失業率之間的艱難抉擇。"
+    },
+    {
+      "id": "5152678",
+      "time": "2026-10-19 07:29:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報98.02美元/桶。"
+    },
+    {
+      "id": "5152677",
+      "time": "2026-10-19 07:29:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【私募後市策略瞄準“結構最佳化”】近期A股市場持續震盪，市場情緒有所波動。AI等科技成長主線調整較為明顯，通訊、電子等泛AI行業出現回撤，而低擁擠度、低估值的部分公用事業板塊以及具有較強避險屬性的銀行、煤炭等板塊表現相對佔優。記者近日採訪多傢俬募機構後發現，一線私募普遍認為本輪市場調整並非中期趨勢逆轉，而是外部擾動、籌碼結構變化與資金再平衡共同作用的結果。機構人士表示，短期市場仍處震盪分化階段，目前的策略重心正從賽道貝塔轉向個股阿爾法，從倉位擇時轉向組合的結構最佳化。（中國證券報）"
+    },
+    {
+      "id": "5152676",
+      "time": "2026-10-19 07:28:55",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【中證報：增量政策逐步發力，基建投資提速有支撐】9月經濟資料即將公佈。專家認為，隨著多路資金加快落地，9月基建投資增速有望回升，投資結構持續向新向優。近期，抵押補充貸款（PSL）降利率拓範圍、用好地方政府債務結存限額等增量政策陸續出臺，將對基建投資形成有力支撐，疊加多方合力激發民間投資活力，民間投資信心也有望進一步提升。"
+    },
+    {
+      "id": "5152675",
+      "time": "2026-10-19 07:27:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【證券時報：公募基金應當好資本市場穩定器】衡量一家機構是否具備真正的專業投資能力，分水嶺不在於資金規模有多大、研究團隊有多強，而在於面對市場情緒的狂熱與恐慌時，能否保持獨立判斷與投資定力。公募基金之所以被寄予資本市場“穩定器”的厚望，不僅因為其管理著規模龐大的資金，更因為其具備專業研究、價值發現和長期投資的能力。廣大基民將資金交由專業機構管理，期盼的是基金經理能夠依託專業的深入研究和風險管理能力，擺脫短期市場噪聲，依據企業內在價值作出獨立判斷，而不是像個人投資者一樣追漲殺跌。市場從不缺少追逐行情的資金，真正稀缺的是波動面前的理性判斷。公募基金不能只有機構的規模，卻缺少機構的定力；不能一邊倡導長期投資，一邊被短期規模和業績排名牽著走。讓專業機構真正迴歸專業，讓長期資金真正著眼長期，公募基金才能減少自身順週期行為對市場波動的放大效應，更好地發揮A股市場“穩定器”的作用。"
+    },
+    {
+      "id": "5152674",
+      "time": "2026-10-19 07:27:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北交所三家公司率先披露三季報：盈利表現分化 經營現金流改善】日前，華密新材、同惠電子、民士達三家北交所上市公司披露2026年三季報。前三季度，三家公司營業收入均同比增長，利潤表現有所分化，經營活動現金流量淨額均同比增加。隨著三季報陸續披露，企業經營成色成為機構關注重點。業內人士認為，市場關注點或將從題材轉向業績。行業景氣度延續及業績環比改善的公司有望受到增量資金關注。可圍繞產業景氣度與三季報業績驗證篩選投資機會，重點觀察企業營收、毛利率及經營性現金流變化。（中國證券報）"
+    },
+    {
+      "id": "te:markets:592898",
+      "time": "2026-10-19 07:26:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Slips After Sharp Weekly Rise — Crude oil prices fell to around $101 per barrel on Monday but retained most of last week’s 10% surge, as escalating hostilities in the Middle East and Eastern Europe kept supply risks elevated. Clashes between Saudi Arabia and Iran-backed Houthi rebels showed little sign of abating, with a Saudi helicopter crashing near the border with Yemen and the Houthis targeting Yanbu, a key oil export hub. Three tankers were also damaged in the Strait of Hormuz over the weekend as Iran’s IRGC navy maintained that the waterway remained closed and vessels could pass only with its authorization. In Europe, Ukrainian attacks sparked fires at an oil export terminal and a storage depot in St. Petersburg on Sunday, as Kyiv launched more than 1,000 drones at Russia in one of the war’s largest aerial assaults. Meanwhile, US President Donald Trump said he had reached a diesel export agreement with Russia and postponed additional sanctions to avoid jeopardizing peace negotiations with Ukraine."
+    },
+    {
+      "id": "5152673",
+      "time": "2026-10-19 07:26:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "狗狗幣上漲3.3%，以太幣上漲2.1%。"
+    },
+    {
+      "id": "5152672",
+      "time": "2026-10-19 07:25:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI賦能向全鏈路演進 多家機構看好影視產業重塑機會】近期，A股影視傳媒板塊走強。多家機構認為，AI對影視行業的賦能正由單點特效、素材生成等區域性技術應用，向全鏈路工業化生產演進。技術迭代有望重塑影視產業鏈，推動製作成本下行、IP資產複用效率提升，並持續拓展內容形態與商業化邊界。在AI技術的驅動下，影視板塊的結構性機會值得關注。（上海證券報）"
+    },
+    {
+      "id": "5152671",
+      "time": "2026-10-19 07:24:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【印尼將股票交易跌幅下限調整至7%，該措施將持續至12月31日】週一早間，印尼證券交易所發表宣告稱，將股票交易跌幅下限從15%下調至7%，該措施將實施至年底。宣告表示：“此次調整旨在為投資者提供評估和消化現有資訊的機會，從而有助於他們基於印尼經濟的基本面狀況做出更明智的投資決策。”後續將根據市場發展情況對這些限制措施進行調整。"
+    },
+    {
+      "id": "5152670",
+      "time": "2026-10-19 07:24:07",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【把握市場震盪中的“擊球機會” 年內私募自購近16億元】私募排排網統計資料顯示，截至10月18日，年內宣佈自購的私募超過30家，合計自購金額接近16億元。其中，百億級私募合計自購金額超過10億元，成為今年私募自購的“主力軍”。在多家頭部私募看來，美聯儲加息預期升溫、美債收益率持續上行等因素，在短期內對市場情緒形成一定壓制。不過，產業發展趨勢與企業成長訊號仍是資本市場結構性行情持續演繹的重要支撐，市場短期波動也創造了“擊球機會”。接下來，業績持續兌現的AI產業優質標的以及具備全球競爭力的製造業龍頭值得關注。（上海證券報）"
+    },
+    {
+      "id": "5152669",
+      "time": "2026-10-19 07:23:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【5家新設外資公募中，已有3家發行量化相關產品】近年來，外資公募產品線持續豐富，量化賽道正成為外資公募深耕國內市場的重要方向。10月，外資公募路博邁基金旗下紅利量化選股基金正式成立。Wind資料顯示，5家新設外資公募中，已有貝萊德基金、路博邁基金、聯博基金3家發行量化相關產品。從以跟蹤指數為主的“穩中求進”，到紅利、行業輪動等策略的主動出擊，外資公募的量化版圖正加速擴容，多資產配置等更多元策略的探索也已啟動。"
+    },
+    {
+      "id": "5152668",
+      "time": "2026-10-19 07:23:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：  澳元可能略高於均衡水平。"
+    },
+    {
+      "id": "5152667",
+      "time": "2026-10-19 07:22:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【資金避險需求升溫 債基扎堆限購】權益市場震盪，資金避險需求升溫，股債“蹺蹺板”效應再度顯現。近期，場內債券型ETF迎來資金流入盛況，而博時基金、華寶基金、天弘基金等多家基金公司紛紛收緊旗下場外債基的大額申購額度。業內人士認為，四季度債市整體具備支撐因素，但行情節奏的把握仍是關鍵。（上海證券報）"
+    },
+    {
+      "id": "5152666",
+      "time": "2026-10-19 07:22:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐元下跌 俄烏局勢與法國國內騷亂打壓市場情緒】受烏克蘭局勢升級以及法國大範圍抗議活動影響，市場對歐元的信心受挫，歐元兌大多數 G10 貨幣走低。週一亞洲早盤，歐元兌美元一度下跌 0.5%。此前烏克蘭總統澤連斯基指責特朗普試圖向基輔施壓，逼迫烏克蘭向俄羅斯投降。法國多個城市爆發抗議，示威者與警方發生衝突，出現該國多年來最嚴重的街頭暴力事件。歐元最低跌至 1.1183 美元，隨後部分收復跌幅，交投於 1.1212 美元附近。澳大利亞聯邦銀行策略師 Carol Kong 表示：“市場或將持續為歐元計入風險溢價。本週歐元兌美元可能測試 1.1130 支撐位，尤其是在地緣緊張進一步推高美元的情況下。”"
+    },
+    {
+      "id": "5152665",
+      "time": "2026-10-19 07:21:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【搭建橋樑共促互鑑創新 2026世界傳統醫藥大會閉幕】2026世界傳統醫藥大會昨天在北京閉幕。大會發布多項倡議和共識，同時成立全球傳統醫學聯盟，為傳統醫藥發展提供了重要交流平臺。本屆大會發布了《傳統藥用植物資源保護與可持續利用北京倡議》《人工智慧賦能全球傳統醫學發展報告》，以及“新時代神農嘗百草”行動等內容；同時成立了全球傳統醫學聯盟。這是全球首個傳統醫藥領域非營利、非政府國際科技組織，秘書處設在中國北京。目前，已吸納來自19個國家和地區的117家單位和個人。"
+    },
+    {
+      "id": "5152663",
+      "time": "2026-10-19 07:19:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【EQT 同意以 65 億美元收購澳大利亞 Cleanaway Waste】EQT AB 旗下子公司達成收購澳大利亞 Cleanaway Waste Management Ltd. 的協議，這筆交易對該公司估值約 93 億澳元（摺合 65 億美元）。在經歷一段股價低迷期後，Cleanaway 成為又一家轉入私募控股的澳洲本土企業。週一提交的交易所檔案顯示，EQT 旗下主體 Sedum Group Pty Ltd 將以每股 3.095 澳元的現金價格收購 Cleanaway 全部股份，金額需扣除後續派發股息對應的現金。這家廢棄物管理企業的董事會還計劃，在交易落地前向股東派發全額抵稅特別股息，每股股息區間為 0.145 至 0.190 澳元。"
+    },
+    {
+      "id": "5152662",
+      "time": "2026-10-19 07:18:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【基金“長不大”難題迎轉機 “突圍”還得靠業績】證監會近日釋出了《公開募集證券投資基金運作管理辦法（徵求意見稿）》，下調股票基金成立門檻並取消發起式基金“三年”清盤規定，這給很多基金產品解決“長不大”的難題帶來轉機。證券時報記者統計的資料顯示，2023年以來“踩線”成立的基金佔比和發起式基金的清盤數量佔比均在顯著提升。特別是2026年以來，股票ETF“踩線”成立比例從不足50%提升到了70%以上，發起式基金清盤數量佔比從不足20%提升到了45%以上。受訪人士表示，放寬約束為解決“長不大”難題提供了必要條件，但要做大規模，基金公司依然要回歸到自身造血能力上來，需要合理評估市場需求，加強逆週期產品佈局，在保持風格穩定性等方面同步發力。《徵求意見稿》給了部分在生存線上的發起式基金喘息之機，當清盤門檻放鬆，運營成本轉移，“保殼”就不再是唯一目的，將業績做強、規模做大才是“突圍”的唯一方向。"
+    },
+    {
+      "id": "5152661",
+      "time": "2026-10-19 07:17:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【環球時報社評：高市政權越來越像個極端邪教】正是在高市政權的放縱、推動下，日本政壇右翼勢力的猖狂正在走向一個新的高點。他們甚至編織出“歷史聖戰”敘事，試圖把軍國主義的幽靈重新包裝成值得日本國民驕傲的“精神遺產”。一個越來越危險的日本，早已被周邊鄰國覺察並警惕。10月17日，日本首相高市早苗以“內閣總理大臣”名義，向靖國神社供奉祭品。這是高市今年以來第四次向這處“戰犯神社”獻祭或供奉祭祀費，頻率之高在日本歷任首相中也不多見。同日還有多名內閣大臣、國會議員前往參拜，對“戰犯神社”搞“首相送禮、部下進門”，正在成為高市早苗內閣的固定套路。 高市內閣的閣僚、議員頻繁出入與戰犯相關的場所，就是在用手中的政治權力為這套“歷史聖戰”敘事背書，為擴軍備戰大造輿論。他們妄圖透過持續不斷的供奉、參拜和輿論渲染，一點點抹去東京審判的正義結論，把軍國主義的幽靈重新包裝成值得日本國民驕傲的“精神遺產”。 更值得警惕的是，這套“歷史聖戰”敘事與高市政權修改和平憲法、大肆擴軍備戰的程序深度繫結。它恰恰暴露出高市政權如邪教般的極端性質。"
+    },
+    {
+      "id": "5152658",
+      "time": "2026-10-19 07:15:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：很難確定中性利率在哪裡，不確定性太大。"
+    },
+    {
+      "id": "5152657",
+      "time": "2026-10-19 07:15:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日媒民調：高市內閣支援率跌至新低】日本共同社18日公佈的最新民調結果顯示，高市早苗內閣支援率降至49.1%，創下該機構自高市內閣成立以來民調結果的新低，也是首次跌破50%。此次調查於17日至18日以電話問詢方式開展。與上月調查相比，高市內閣支援率下降4.3個百分點。（新華社）"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610193899220654",
+      "time": "2026-10-19 07:15:28",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【先行指標釋放暖意 經濟執行有望延續向好態勢】國家統計局將於10月19日釋出前三季度經濟執行資料。機構普遍預測，在工業生產和服務業保持韌性、出口強勁及低基數影響下，三季度經濟執行有望延續向好態勢。"
+    },
+    {
+      "id": "5152656",
+      "time": "2026-10-19 07:15:03",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：市場認為長期CPI預期錨定良好。"
+    },
+    {
+      "id": "5152655",
+      "time": "2026-10-19 07:14:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.3%，報8,836.80點。"
+    },
+    {
+      "id": "5152654",
+      "time": "2026-10-19 07:14:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加拿大軍事基地火災4死39傷】加拿大官員當地時間10月18日下午表示，此前一天發生在艾伯塔省韋恩賴特軍事基地的一場火災造成至少4名軍人死亡、39人受傷入院，其中19人情況危急。據稱，這場“悶燃的草地火災”發生於當地時間10月17日下午4點，時速高達每小時60英里（96公里）的大風助長了火勢蔓延。 加拿大總理卡尼早些時候表示，這場火災是“加拿大武裝部隊在本土和平時期遭遇的最嚴重悲劇之一”。他已下令全國聯邦建築降半旗誌哀。 公開資料顯示，截至2021年，韋恩溫賴特基地駐紮有1310名軍人和文職人員。該基地是加拿大機動訓練中心的所在地，負責為陸軍實施訓練演習和場景模擬。卡尼表示，火災中受影響的人員來自全國各地的軍事基地。"
+    },
+    {
+      "id": "5152653",
+      "time": "2026-10-19 07:13:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新股提示：皇冠新材今日申購】今日可申購皇冠新材，皇冠新材發行市盈率25.87倍，申購程式碼為：001381，申購價格：16.98元，單一賬戶申購上限1.35萬股。"
+    },
+    {
+      "id": "5152652",
+      "time": "2026-10-19 07:13:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、“廣大人民群眾是長征勝利的力量源泉”\n2、甘肅慶陽推動革命老區振興發展——黃土塬上通山海\n3、李強同塔吉克總理拉蘇爾佐達會談\n4、福建、山東、湖南等地加力提振消費 “加減乘除”促消費\n5、四個故事看西藏七十五載滄桑鉅變\n6、全國秋糧收穫超七成 秋糧旺季收購有序開展，已收購中晚稻1800萬噸\n7、前三季度全國鐵路傳送旅客37.1億人次 同比增長4.8%\n8、導讀"
+    },
+    {
+      "id": "5152651",
+      "time": "2026-10-19 07:12:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川宜賓警方通報“女子打砸店鋪商品”：其已被送往醫療機構診斷治療】10月18日晚，四川宜賓市公安局三江新區分局釋出警情通報：2026年10月17日18時許，我局接群眾報警稱，轄區一店鋪內的商品被人打砸。接警後，民警迅速趕赴現場處置，當場將嫌疑人控制。經查，鍾某（女，21歲）在與店員交談過程中，突然情緒失控，打砸店內商品，造成店內財物損毀。目前，鍾某已被送往醫療機構進行診斷治療，案件正在進一步辦理中。"
+    },
+    {
+      "id": "5152650",
+      "time": "2026-10-19 07:12:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：全球經濟增長表現好於大多數人的預期。"
+    },
+    {
+      "id": "5152649",
+      "time": "2026-10-19 07:12:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：有合理證據表明，國內外中性利率正在上升。"
+    },
+    {
+      "id": "5152648",
+      "time": "2026-10-19 07:11:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【本週多家科技龍頭將“交卷” 回應市場對AI投入回報的質疑】美東時間10月21日，Meta、特斯拉、IBM、德州儀器將集中披露最新業績，西部資料則於次日公佈財報。市場人士分析稱，本輪財報的關注重點已不只是科技巨頭是否繼續增加AI投資，還包括盈利增長能否跟上資本開支擴張，以及企業對未來需求的判斷。對於上游供應商而言，雲廠商的投資計劃也關係到後續訂單和產能安排。"
+    },
+    {
+      "id": "5152647",
+      "time": "2026-10-19 07:11:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼將股票交易跌幅下限調整至7%，該措施將持續至12月31日。"
+    },
+    {
+      "id": "5152646",
+      "time": "2026-10-19 07:09:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子和SK海力士在Nextrade盤前交易中下跌超過5%。"
+    },
+    {
+      "id": "5152644",
+      "time": "2026-10-19 07:08:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首批基金2026年三季報披露 基金經理看好權益資產長期表現】據上證報，公募基金2026年三季報披露大幕正式拉開。近日，金信基金、南方基金、東財基金等基金公司率先披露旗下部分基金三季報。整體來看，在三季度的震盪行情中，多隻基金調整了持倉結構，部分次新基金則快速建倉。在季報中，多位基金經理對權益資產持樂觀態度，看好企業盈利質量向好與產業長期發展空間廣闊的公司。"
+    },
+    {
+      "id": "5152643",
+      "time": "2026-10-19 07:08:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙烏地阿拉伯與葉門胡塞武裝繼續互相襲擊】18日，沙烏地阿拉伯與葉門胡塞武裝繼續互相襲擊。受衝突加劇影響，沙特一地標建築要求全員遠端辦公。當地時間18日，葉門胡塞武裝釋出宣告稱，過去24小時內，沙特向葉門首都薩那、塔伊茲、薩達等省發動了110次空襲及導彈襲擊，造成人員傷亡。根據胡塞武裝的訊息，葉門北部薩達省的一處民宅當天遭到沙特方面的空襲，造成至少9人死亡。沙烏地阿拉伯民防部門18日釋出訊息稱，沙特的奈季蘭遭到葉門胡塞武裝襲擊。沙特民防部門表示，胡塞武裝發射的一枚投射物落入一處居民區，造成人員受傷，車輛和建築物受損。另據法新社報道，沙特首都利雅得地標建築王國中心大廈當天要求樓內所有辦公人員遠端辦公，直至另行通知。（央視新聞）"
+    },
+    {
+      "id": "5152642",
+      "time": "2026-10-19 07:08:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【具身智慧資料產業爆發 資料資產迎來價值重估】由於具身智慧機器人訓練的需要，具身智慧資料產業近年來迎來爆發。從具身智慧實訓場內不間斷作業的機器人“學員”，到動捕籠中全身穿戴感測器的人類採集員，再到虛擬世界中以一條資料生成百條資料的模擬訓練場，具身智慧資料產業正不斷吸引參與者加入這場物理AI浪潮。其中，真機資料、無本體採集資料、模擬資料成為具身智慧訓練的三大類資料養料，對應著不同生產方式和生產侷限。行業快速擴充資料規模的同時，從業者認為，資料質量和資料評測標準至關重要。（中證報）"
+    },
+    {
+      "id": "5152641",
+      "time": "2026-10-19 07:07:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果產業鏈“小巨人”，又一龍頭今日申購】10月19日，有一隻新股可申購，為深交所主機板的皇冠新材（001381.SZ）。皇冠新材主要從事工業級膠粘材料、電子級膠粘材料及功能性薄膜材料等功能性複合材料的研發、生產及銷售，產品應用範圍覆蓋輕工業、家用電器、汽車製造、新能源電池、消費電子、智慧物聯網、半導體等領域。皇冠新材或其子公司被認定為國家級專精特新“小巨人”企業、省級專精特新中小企業、省級製造業單項冠軍企業、省級功能性複合新材料工程研究中心等，是中國膠粘劑和膠粘帶工業協會理事單位。目前，皇冠新材的產品進入了曾由國際龍頭公司主導的材料領域，實現在OPPO、vivo、華為、蘋果、谷歌、亞馬遜、比亞迪、特斯拉、寧德時代、國軒高科、中創新航、格力、格蘭仕、得力等知名終端企業中的應用。"
+    },
+    {
+      "id": "5152640",
+      "time": "2026-10-19 07:06:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【10月以來五家北交所公司獲機構調研 訂單交付與業務拓展受關注】10月以來，方正閥門、九菱科技、國航遠洋、鴻仕達、科創新材五家北交所上市公司陸續透過開展現場調研、線上交流等方式與機構投資者溝通，參與機構涵蓋券商、基金、保險及資產管理機構等。從披露的投資者關係活動記錄看，訂單交付、收入結構、盈利水平及新業務進展成為機構關注的重點。"
+    },
+    {
+      "id": "5152639",
+      "time": "2026-10-19 07:04:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股分紅回購增持熱潮湧動】Wind資料顯示，截至10月18日，今年以來已有3734家A股上市公司實施分紅，現金分紅總額已超過2萬億元。與此同時，上市公司回購增持動作密集，回饋投資者意識顯著增強。監管部門近期明確，將引導上市公司透過股權激勵、分紅回購等提高自身價值，大力督促引導上市公司強化投資者回報意識，增強投資者回報的持續性、及時性和可預期性，更好維護廣大中小投資者合法權益。市場人士認為，更多上市公司及股東有望持續加大分紅、回購與增持力度，在提升市值管理能力與意願的同時，形成股東權益、上市公司市值與股東結構最佳化的正向迴圈。 (中證報)"
+    },
+    {
+      "id": "mkt:01a15141-c514-7ee0-a8d4-1c2d9a3357f0",
+      "time": "2026-10-19 07:03:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran denies reports of explosions in eastern Tehran】State media reported the Tehran province Seyyedal-Shohada Corps press office said social-media claims of explosions in eastern Tehran were unfounded and that, so far, no explosions or security incidents have been reported."
+    },
+    {
+      "id": "mkt:01a15141-a8cc-7ee0-a8d4-17f984dc23ed",
+      "time": "2026-10-19 07:03:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK Rightmove average asking price index rose 1.0% MoM in October, versus 0.7% previously."
+    },
+    {
+      "id": "mkt:01a15140-f3c7-7ee0-a8d4-0ea53ff0f4c6",
+      "time": "2026-10-19 07:02:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK October Rightmove average asking-price index YoY -0.1% (prior -0.8%)."
+    },
+    {
+      "id": "5152638",
+      "time": "2026-10-19 07:02:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4180美元/盎司，日內漲0.38%。"
+    },
+    {
+      "id": "5152637",
+      "time": "2026-10-19 07:02:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本第一生命保險給出44億美元收購要約，受該收購訊息刺激，澳洲年金資管企業Challenger股價大漲15%。"
+    },
+    {
+      "id": "5152636",
+      "time": "2026-10-19 07:02:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4200美元/盎司，日內漲0.45%。"
+    },
+    {
+      "id": "te:markets:592894",
+      "time": "2026-10-19 07:02:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Extends Losses to Start the Week — The NZX 50 fell 44 points, or 0.3%, to 13,710 in Monday morning deals, extending losses from the previous session and touching its lowest level since October 8. The index tracked a decline on Wall Street on Friday amid a continued tech sell-off. Traders were cautious ahead of the release of Q3 inflation, along with a slew of Chinese data, including GDP growth, due this week. Fresh data also pressured sentiment, as New Zealand's trade deficit widened sharply in September, with imports rising more than exports. However, private sector figures for September capped the fall, as private sector growth hit a three-month high, with manufacturing sector growth accelerating while the services sector continued to expand. The financials, technology, real estate, and energy sectors mainly weighed on the index, with notable losses from Mainfreight (-3.0%), Henderson Far East Income (-1.8%), Infratil (-1.6%), Gentrack Group (-1.5%), Channel Infrastructure (-0.9%), and F&C Investment (-0.8%)."
+    },
+    {
+      "id": "mkt:01a15140-27ef-7ee0-a8d4-042b7c9afdde",
+      "time": "2026-10-19 07:02:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Rightmove House Price Index (YoY) (Oct) | actual -0.1% | previous -0.80%"
+    },
+    {
+      "id": "mkt:01a15140-1495-7ee0-a8d3-f89e6c20f528",
+      "time": "2026-10-19 07:01:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Rightmove House Price Index (MoM) (Oct) | actual 1% | previous 0.70%"
+    },
+    {
+      "id": "5152635",
+      "time": "2026-10-19 07:01:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10月份房價環比上漲1%。"
+    },
     {
       "id": "mkt:01a1513b-b75f-7ee0-a8d3-f61a2f1db40c",
       "time": "2026-10-19 06:57:10",
@@ -114142,537 +114893,6 @@
         "其他"
       ],
       "text": "【馬克·古爾曼：蘋果將推出智慧家居中樞HomeView，聯手LG完善產品線】當地時間10月11日，知名科技記者馬克·古爾曼發文稱，蘋果計劃於10月13日釋出新一代智慧家居產品，包括搭載A18晶片、配備顯示屏的智慧家居中樞HomeView，以及搭載S10晶片的新款HomePod mini和搭載A19晶片的Apple TV。HomeView提供桌面和壁掛兩種版本，預計11月中旬上市；後兩款產品預計10月30日開售。古爾曼稱，蘋果還與LG電子合作開發智慧門鈴、門鎖、恆溫器及安防攝像頭等裝置，並計劃以“Apple Home Collection”品牌推出，相關產品預計最早於今年晚些時候上市。蘋果此次佈局旨在完善智慧家居生態，透過整合硬體、Siri人工智慧功能及Matter、Thread連線標準，提升裝置相容性，增強使用者對蘋果生態的依賴。"
-    },
-    {
-      "id": "5138136",
-      "time": "2026-10-12 07:50:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "油價回落，標普500股指期貨上漲0.2%，納斯達克股指期貨攀升0.5%。"
-    },
-    {
-      "id": "te:markets:590990",
-      "time": "2026-10-12 07:48:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Rise Ahead of Bank Earnings — US stock futures edged higher on Monday as investors prepared for a busy week of major bank earnings, marking the start of the third-quarter reporting season. JPMorgan, Goldman Sachs, Citigroup and Wells Fargo are scheduled to report on Tuesday, followed by Bank of America and Morgan Stanley on Wednesday. Investors are also awaiting key inflation data, with the September consumer and producer price indexes due on Wednesday and Thursday, respectively. Last week, all three major US stock indexes closed higher as a rally in technology shares helped offset concerns over rising oil prices and bond yields. Meanwhile, energy market concerns resurfaced after President Donald Trump told reporters over the weekend that he was considering joining Saudi Arabia in its campaign against Iran-backed Houthi militants in Yemen following another deadly attack on Riyadh’s international airport."
-    },
-    {
-      "id": "5138135",
-      "time": "2026-10-12 07:48:13",
-      "tags": [
-        "央行"
-      ],
-      "text": "【本週央行公開市場有3020億元7天期和14天期逆回購到期】本週中國央行公開市場有3020億元7天期和14天期逆回購到期（其中週一和週五分別有3000億和20億元到期），並有5000億元6個月期買斷式逆回購到期（週四到期）。"
-    },
-    {
-      "id": "5138134",
-      "time": "2026-10-12 07:47:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "本週有3020億元公開市場7天和14天期逆回購到期，並有5000億元6個月期買斷式逆回購到期。"
-    },
-    {
-      "id": "5138133",
-      "time": "2026-10-12 07:47:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "根據美國國土安全部（DHS）和海關與邊境保護局（CBP）官員提交給法庭的檔案，由美國納稅人出資、用於宣傳總統特朗普及其政績的爭議性電視廣告於 2026 年 10 月 11 日（週日）正式停播。政府已指示廣告代理商停止購買後續時段，並且沒有繼續追加投放的計劃。這批引發廣泛抨擊的廣告總預算高達 2000 萬美元，直接劃撥自海關與邊境保護局（CBP）的專項賬戶（原本擬用於邊境安全及殉職官員紀念活動等）。截至停播前，廣告已在各大主流電視網播放數千次，實際花費超過 1200 萬至 1900 萬美元。"
-    },
-    {
-      "id": "mkt:01a12d5a-583a-7ee0-a82c-e75485575d61",
-      "time": "2026-10-12 07:44:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense said the threat to ABHA has been eliminated."
-    },
-    {
-      "id": "mkt:01a12d5a-2303-7ee0-a82c-d997a2adfa7f",
-      "time": "2026-10-12 07:44:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "South Korea's finance minister said the government will implement market-stabilization measures if global yields continue to rise."
-    },
-    {
-      "id": "5138132",
-      "time": "2026-10-12 07:43:55",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：TLVR晶片電感單位價值量提升 行業空間極速擴容】中信建投證券研報稱，多相TLVR電感是大勢所趨。AI晶片電感未來三大產業趨勢：1.單相電感走向多相電感，密度提升；2.水平供電轉向VPD垂直供電，供電效率提升；3.NON-TTLVR轉向TLVR電感，價值量提升。多相TLVR電感將成為必須。AI晶片電感從2025年到2028年市場規模擴容10倍以上。未來晶片電感面臨多重驅動，隨著AI晶片出貨增加、晶片功率上升、電感效能升級，AI晶片電感市場規模將快速擴容，規模增速=晶片出貨倍數×功率提升倍數×單顆價值提升倍數。"
-    },
-    {
-      "id": "te:markets:590989",
-      "time": "2026-10-12 07:43:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Extend Gains as Week Begins — Australian shares rose 24 points or 0.3% to 8,740 in early Monday trade, sustaining prior gains as U.S. futures firmed after Wall Street closed higher last week ahead of a busy run of earnings and inflation data. Locally, investors awaited the Reserve Bank's latest meeting minutes later this week, alongside September labor market, business confidence, and leading index figures. Focus in China, Australia's largest trading partner, turned to CPI/PPI and trade performance. However, gains were tempered by geopolitical risks after reports that U.S. President Donald Trump may join Saudi Arabia in retaliating against Iran-backed Houthis in Yemen. Tech, manufacturing, and consumer durables led advances, though steep losses in communications capped momentum. Notable movers included BHP Group (2.3%), Bluescope Steel (3.2%), South32 (2.8%), and Fortescue Ltd. (1.6%), while three of the four major banks added between 0.2% and 0.8%."
-    },
-    {
-      "id": "5138131",
-      "time": "2026-10-12 07:42:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部：在全球收益率高企的背景下，必要時將出臺市場穩定措施。"
-    },
-    {
-      "id": "mkt:01a12d58-cd22-7ee0-a82c-d380065f7e92",
-      "time": "2026-10-12 07:42:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense issued an alert over a possible threat to Abha."
-    },
-    {
-      "id": "mkt:01a12d56-4b25-7ee0-a82c-cbc958f165e6",
-      "time": "2026-10-12 07:39:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports a U.S. judge has ordered an immediate halt to taxpayer-funded advertisements supporting Trump."
-    },
-    {
-      "id": "5138130",
-      "time": "2026-10-12 07:38:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【我國萬噸級深遠海工程綜合勘測船完成技術研發】11日從中交公路規劃設計院有限公司獲悉，由該院牽頭研發的中交集團特大研發專案“基於北斗的深遠海智慧綜合勘測系統研發及應用（二期）”第一階段研究成果順利透過專家組評審。這標誌著我國萬噸級深遠海工程綜合勘測船已順利完成技術研發，為下一階段的建造打下堅實基礎。（科技日報）"
-    },
-    {
-      "id": "5138129",
-      "time": "2026-10-12 07:37:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【提醒】今日日本股市因公共假期休市一日。"
-    },
-    {
-      "id": "mkt:01a12d53-d2f9-7ee0-a82c-c38b9579ff43",
-      "time": "2026-10-12 07:37:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【New Zealand governing National Party says now is not the time for tax cuts】New Zealand's governing National Party said high debt and budget deficits make now the wrong time for tax cuts. Finance spokeswoman Nicola Willis said the immediate priority is reducing debt and investing in frontline services, especially health and infrastructure. The party's policy paper says tax cuts will be considered only once finances return to surplus and surpluses are increasing; the current focus is achieving a fiscal surplus and lowering debt."
-    },
-    {
-      "id": "5138128",
-      "time": "2026-10-12 07:34:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國臺灣阿波羅電力採購特斯拉 Megapack 儲能裝置】根據中國臺灣證券交易所週日披露的公告，綜合能源服務商阿波羅電力於 10 月 8 日簽署採購協議，購入 260 套特斯拉 Megapack 2XL 儲能系統，總容量約 1 吉瓦時。受保密協議約束，合同金額未對外披露。裝置預計在 2027 年底前完成交付，專案計劃 2028 年投入運營。專案時間表取決於裝置交付、工程施工與電網接入進度。"
-    },
-    {
-      "id": "5138127",
-      "time": "2026-10-12 07:31:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國泰海通：新質生產力頂層設計落地 推動AI技術在各行業加速落地】國泰海通釋出研報稱，《關於發展新質生產力的意見》從技術創新、產業培育、場景應用及要素保障等維度提供系統性支援，有望推動人工智慧等前沿技術加速產業化落地，促進數字經濟與實體經濟深度融合。建議關注國產算力晶片、AIDC、大模型及AI應用、工業軟體、工業網際網路、資料要素等細分方向，以及具身智慧、腦機介面、量子科技、商業航天等前沿科技領域。"
-    },
-    {
-      "id": "5138126",
-      "time": "2026-10-12 07:31:17",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中泰證券26Q3食飲前瞻：白酒加速築底 零食新渠道與健康化共振】中泰證券釋出研報稱，2026年Q3白酒行業呈現顯著結構性分化，行業整體加速築底，軟飲料大盤景氣承壓，內部品類分化明顯。白酒消費迴歸理性，消費者囤貨意願減弱，隨用隨買成為主流消費特徵，雙節旺季市場表現呈現啞鈴型格局，高階酒整體表現佔優，次高階板塊承壓，地產酒依託宴席、返鄉場景實現結構性修復。零食健康化趨勢延續，線下零食需求整體承壓，堅果炒貨品類韌性延續，重口味、高油高鹽品類降幅較大，傳統商超客流持續向量販零食等新興渠道遷移。"
-    },
-    {
-      "id": "mkt:01a12d4d-ded3-7ee0-a82c-bc414820541a",
-      "time": "2026-10-12 07:30:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI and Brent's early roughly 1% gains were erased; both are now down 0.3%."
-    },
-    {
-      "id": "5138125",
-      "time": "2026-10-12 07:29:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【沙特首都機場週日再遭襲擊 而該市即將舉辦重大活動】沙烏地阿拉伯的主要機場週日再次遭到胡塞武裝的襲擊。此前一天，該機場遭到襲擊，造成12人死亡，給這個中東最大經濟體帶來巨大壓力，因為該國正準備舉辦旨在促進外國投資的大型活動。沙特領導的聯軍在一份宣告中表示，週日一枚不明射彈擊中了利雅得的哈立德國王國際機場的一座客運航站樓，當局正在撲滅火災。聯軍正在葉門與伊朗支援的胡塞武裝作戰。胡塞武裝迅速宣稱對此次襲擊負責，稱這是對“沙特侵略”的回應，其中包括對葉門首都薩那機場的襲擊。沙特民航局稱，此次襲擊造成1人死亡，11人受傷。聯軍方面也表示，防空部隊在沙特首都同一地點附近攔截了一枚導彈。此前在哈立德國王國際機場週六遭到的襲擊中，還有300多人受傷，這是自2月伊朗戰爭爆發以來沙烏地阿拉伯境內傷亡最慘重的單次事件。另外，沙特民航局在社交媒體平臺X上發帖稱，達曼的法赫德國王國際機場週日晚間遭到襲擊。當局已表示，原定於週日至10月15日舉行的第25屆世界石油大會及相關活動將如期舉行。此外，利雅得還計劃於本月晚些時候舉辦未來投資倡議活動，這是利雅得最重要的投資者盛會。"
-    },
-    {
-      "id": "mkt:01a12d4c-2700-7ee0-a82c-b258b766e6ec",
-      "time": "2026-10-12 07:28:47",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100"
-      ],
-      "text": "【IFS: Chancellor must raise £35bn to deliver spending plans】London-based Institute for Fiscal Studies said ahead of the budget later this month that Chancellor John Healey must raise about £35bn to deliver Labour’s ambitious spending plans. The IFS added Healey may have more fiscal headroom than expected, but the plans’ credibility is at risk; unless the government intervenes, inf will squeeze public spending and leave departments underfunded. IFS director Helen Miller said: If you want to increase spending and do not want to cut public services, you must consider tax rises."
-    },
-    {
-      "id": "mkt:01a12d4b-bafd-7ee0-a82c-ac6d2bd814fc",
-      "time": "2026-10-12 07:28:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N"
-      ],
-      "text": "【TSMC pushes for US advanced packaging start in 1H2028】TSMC is targeting US advanced-packaging production in 1H2028 after GlobalFoundries said it signed a $2bn manufacturing agreement to mass-produce COWOS silicon interposers in the US in 1H2028. Amkor’s Arizona plant is also slated to begin production in early 2028, aligning supply-chain timing. Industry estimates TSMC’s first Arizona advanced-packaging fab could start operations as early as 1H2028; market focus is on whether trial production will begin ahead of commercial output."
-    },
-    {
-      "id": "5138123",
-      "time": "2026-10-12 07:27:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國首相伯納姆將於週二與商界高管舉行招待會】據英國《金融時報》援引知情人士的訊息報道，英國首相安迪·伯納姆預計將於週二在唐寧街10號出席三場獨立會議，與會者包括科技企業家、風險投資家、富時指數（FTSE）大型企業負責人以及商界遊說團體。"
-    },
-    {
-      "id": "5138122",
-      "time": "2026-10-12 07:25:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【汽車行業監管再升級，車企迅速掀起學習、自查熱潮】直擊“速成造車”的痛點，汽車行業監管再升級。10月10日，工業和資訊化部等四部門聯合公開發布《關於進一步加強汽車產品創新設計和研發測試驗證有關管理工作的通知（徵求意見稿）》（以下簡稱《徵求意見稿》），對汽車制動系統等關鍵結構件、可靠性與耐久性驗證以及隱藏式門把手、零重力座椅創新設計等提出了要求。記者瞭解到，《徵求意見稿》釋出後，整車企業迅速掀起學習、自查熱潮。多家車企相關負責人告訴記者，週末期間就對《徵求意見稿》組織開展了學習，後續將在全公司範圍傳達；還有一些車企向記者確認，地方相關部門也在組織學習和落實。受訪企業和專家普遍認為，此次監管精準糾偏行業“重創新噱頭、輕安全驗證”的偽創新亂象，倒逼產業告別快消式造車邏輯，全面開啟從搶快迭代到深耕品質、穩質長跑的全新發展階段。（人民財訊）"
-    },
-    {
-      "id": "te:markets:590986",
-      "time": "2026-10-12 07:25:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Edges Higher on Saudi Airport Attack — Brent crude prices rose toward $105 per barrel on Monday, marking a third consecutive session of gains as Houthi attacks on Saudi Arabia’s main airport raised fears of a wider conflict that could disrupt energy flows further. Riyadh’s King Khalid International Airport was targeted again on Sunday by Iran-backed Houthi militants, a day after an earlier strike killed 12 people and injured more than 300, making it Saudi Arabia’s deadliest single incident since the Iran war began. Meanwhile, a drone struck a tanker near the Sohar anchorage off Oman over the weekend, just outside the Strait of Hormuz, underscoring still-elevated supply risks. Separately, US President Donald Trump said Russia and Ukraine had agreed to an “energy ceasefire” that would take effect immediately. In the US, the Department of Energy announced approval of an emergency exchange involving up to 4 million barrels of crude oil from strategic reserves to help mitigate supply disruptions caused by Hurricane Isaias."
-    },
-    {
-      "id": "5138121",
-      "time": "2026-10-12 07:24:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【7月以來均衡基金超八成下跌 首尾業績相差近54個百分點】近期，伴隨市場波動加劇，主動權益基金新發產品中，均衡類產品成為公募佈局的重要方向。比如，平安均衡精選、中歐均衡增長等產品均定於10月開啟認購。資料顯示，截至2026年10月9日，年內成立的均衡主動權益基金（以名稱中帶“均衡”的基金為統計口徑）數量達14只，年度成立數量創2022年以來新高。均衡類產品的設計初衷，是依靠更廣域的選股佈局，透過多行業分散配置來平滑組合波動，減少單一板塊劇烈波動給淨值帶來的衝擊，儘可能改善持有人的持有體驗。不過，從已成立的均衡基金來看，7月以來業績表現分化明顯，下跌產品多達69只，佔比超85%，首尾業績相差近54個百分點。短期不抗跌，究竟是策略失效，還是風格極致分化下的暫時失色？據證券時報基金研究院統計，截至10月9日，在50餘隻成立滿3年的均衡基金中，85.5%的基金近3年取得正收益，這一比例高於主動權益基金81.2%的整體水平。其中華商均衡成長A等20只產品收益率超31.5%，跑贏同期萬得偏股混合型基金指數。"
-    },
-    {
-      "id": "5138120",
-      "time": "2026-10-12 07:24:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【證券日報：政策加碼，四季度增量資金入市可期】進入四季度，在政策持續加碼、基本面修復的背景下，多路增量資金持續流入。一方面，保險資金、社保基金等中長期資金加速入場，成為市場穩定的“壓艙石”；另一方面，融資融券等交易型資金不斷流入。同時，外資正開啟增配通道。"
-    },
-    {
-      "id": "te:markets:590985",
-      "time": "2026-10-12 07:24:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Edges Higher on Saudi Airport Attack — Crude oil prices rose above $92 per barrel on Monday, marking a third consecutive session of gains as Houthi attacks on Saudi Arabia’s main airport raised fears of a wider conflict that could disrupt energy flows further. Riyadh’s King Khalid International Airport was targeted again on Sunday by Iran-backed Houthi militants, a day after an earlier strike killed 12 people and injured more than 300, making it Saudi Arabia’s deadliest single incident since the Iran war began. Meanwhile, a drone struck a tanker near the Sohar anchorage off Oman over the weekend, just outside the Strait of Hormuz, underscoring still-elevated supply risks. Separately, US President Donald Trump said Russia and Ukraine had agreed to an “energy ceasefire” that would take effect immediately. In the US, the Department of Energy announced approval of an emergency exchange involving up to 4 million barrels of crude oil from strategic reserves to help mitigate supply disruptions caused by Hurricane Isaias."
-    },
-    {
-      "id": "5138119",
-      "time": "2026-10-12 07:24:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上市公司密集佈局一級市場 逾260家公司出資超150億元】一級市場迎來A股公司新一輪資金注入。據證券時報記者不完全統計，8月1日至10月7日，共有262家A股上市公司披露與專業投資機構共同投資、認購基金份額或參與設立產業基金、私募基金的公告，相關公告超過420條。其中188家公司披露了具體出資金額，合計認繳規模約156億元；單筆出資中位數為4000萬元，47家公司出資超過1億元，7家公司出資額達到或超過5億元。部分公司未披露金額，實際規模應高於上述數字。一位滬市上市公司董秘接受記者採訪時表示，“上市公司+PE”模式一直都存在，嚴格意義上，過往已形成了三輪浪潮。上海偕灃資產管理有限公司合夥人馮煌認為，此番上市公司密集佈局一級市場，是戰略轉型、資本週期與政策紅利三重因素共振的結果。投資熱潮之下，一些潛在風險也值得警惕。"
-    },
-    {
-      "id": "5138118",
-      "time": "2026-10-12 07:23:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【馬斯克稱Terafab工廠有望造出最好的晶片】埃隆·馬斯克表示，憑藉在定製裝置製造方面的專長，他認為自己的公司大機率會“找到比任何人都更好的晶片製造方法”。馬斯克在得克薩斯州奧斯汀特斯拉超級工廠外的一場客戶與投資者聚會上表示，雖然他現在“完全不知道如何製造微晶片，但我們會搞定的”。週六，他透過直播參加了“XTakeover”活動。他提到，在參觀競爭對手的工廠時，他發現對方很少使用定製裝置，而這正是他的公司非常擅長的領域，這使他們能夠改進製造工藝。“我認為準確地說，這是世界上最難做的事情之一，”馬斯克說，“我不想自滿或覺得理所當然，但我認為我們大機率能找出比任何人都更好的晶片製造方法。真的。我不知道這需要多長時間，可能需要好幾年的時間。”馬斯克正準備在得克薩斯州格萊姆斯縣建設一座Terafab工廠。該專案由他旗下的特斯拉和SpaceX公司與英特爾公司合資，初期投資超過150億美元。"
-    },
-    {
-      "id": "5138117",
-      "time": "2026-10-12 07:22:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“中國天眼”捕獲“三體”】近期，中國科學院國家天文臺（以下簡稱國家天文臺）研究員韓金林帶領國內多家單位的研究人員，結合“中國天眼”（FAST）射電觀測資料與國際上光學和伽馬射線望遠鏡的多波段天文資料，揭示FAST發現的脈衝星J0435+3233屬於首例尚在演化階段的原生三體，這是迄今第二例被確認的脈衝星三體系統。相關成果10月9日發表於《天體物理學雜誌快報》。與此同時，由德國、荷蘭、法國、英國4個國家的科學家組成了歐洲團隊，獨立分析類似的檔案資料，獲得了同樣的結論。"
-    },
-    {
-      "id": "5138116",
-      "time": "2026-10-12 07:20:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼哥倫打洛省發生5.7級地震】據印尼氣象、氣候和地球物理局訊息，當地時間10月12日4時34分，印尼哥倫打洛省波胡瓦託縣西北29公里處發生5.7地震，震中位於北緯0.64度，東經121.75度，震源深度76公里。"
-    },
-    {
-      "id": "5138115",
-      "time": "2026-10-12 07:19:37",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、截至8月底，郵政兜底實現“快遞進村”建制村達2939個 越來越多村民足不出村、快捷收件（經濟新方位）；\n2、持續培育“這麼近，那麼美，週末到河北”文旅品牌 讓“輕旅遊”“微度假”更有趣更省心（培育更多“中國服務”品牌）；\n3、中歐要做彼此穩定、平衡的關鍵貿易伙伴（鐘聲）；\n4、明德戰略對話：中國經濟韌性與活力給世界帶來新機遇；\n5、經營者集中簡易案件平均審查時間縮短至18.6天；\n6、提升首發經濟的能級（微觀）；\n7、市場監管總局——生產銷售無CCC認證充電寶已得到明顯遏制；\n8、全國統一的資料產權登記制度正式實施 資料流通交易“有證可依”（經濟聚焦）；\n9、以科技自立自強築牢汽車強國根基；\n10、內容豐富、體驗多元 工業遊成出行新選擇（財米油鹽）；\n11、證監會修訂公募基金運作管理辦法；\n12、廣東單月用電量連續超千億千瓦時 最佳化電力保障 服務產業發展；\n13、湖南省營商環境訴求辦理平臺升級；\n14、織密城市地下管網 築牢民生安全基底 四川綿陽完成102公里老舊燃氣管網改造；\n15、聯合國秘書長譴責葉門胡塞武裝襲擊沙特機場；\n16、聯合國《2026年全球風險報告》顯示，大規模戰爭和地緣緊張局勢風險明顯加大——多邊合作是應對全球風險的最有效方式；\n17、抓民生也是抓發展（每週經濟評論）；\n18、全鏈條護航“米袋子”“菜籃子”“果盤子” 金融創新託舉秋日豐盈（財經深一度）；\n19、千年靈渠的治水興邦智慧（跟著歷史學經濟）。"
-    },
-    {
-      "id": "5138114",
-      "time": "2026-10-12 07:19:26",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、夯實中國式現代化的健康根基——習近平總書記引領健康中國建設；\n2、中華全國歸國華僑聯合會成立70年來團結僑胞接續奮鬥——奮進新徵程 同心向復興；\n3、王滬寧會見越南國會主席陳青敏；\n4、拱北—關閘口岸年內客流突破1億人次；\n5、“半條被子”和“半截皮帶”——長征中兩則故事照見新長征路。"
-    },
-    {
-      "id": "5138113",
-      "time": "2026-10-12 07:18:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【皇崗口岸煥新開通，今早6:30正式啟用】今日6時30分，重建後的皇崗口岸正式開通，提供24小時通關服務。新口岸實行\"一地兩檢\"及\"合作查驗、一次放行\"新模式，自助通道最快20秒即可完成通關，整體時長由30分鐘縮短至約5分鐘。"
-    },
-    {
-      "id": "5138112",
-      "time": "2026-10-12 07:18:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【專案荒疊加薪酬改革 保代人數跌破8000人】保薦代表人（簡稱“保代”），這個曾經被視為投行“金飯碗”的職業，正經歷著持續的減員。最新資料顯示，保代人數已跌破8000人關口，回到2023年水平。“大幕只是剛剛開始，現在保代嚴重過剩。”某中小券商一名投行人士向證券時報記者表示。“專案荒”是明擺著的現實。目前，“頭部通吃”現象仍在加劇，近一半保代陷入了“無米下鍋”的困境。今年前三季度，前三券商更是包攬了40%的IPO專案份額，創下歷史新高。即便有專案可做，收入預期也不斷被改寫。投行收費持續走低，遞延支付、追索扣回等制度相繼落地，保代的離場不再是意外，而是一種結構性的淘汰。證券時報記者在採訪中瞭解到，多名擁有多年專案經驗的投行人士跳槽情緒濃厚，正在多方打聽工作崗位，計劃向上市公司陣營轉型，或從事股權投資領域。"
-    },
-    {
-      "id": "5138111",
-      "time": "2026-10-12 07:16:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【A股市場兩隻巴西ETF雙雙重新整理階段高點】國慶假期後的兩個交易日，A股市場兩隻巴西ETF持續走強，雙雙重新整理階段高點，在同期跨境ETF中表現居前。10月8日，兩隻巴西ETF開盤雙雙大幅走高：巴西ETF易方達大漲10.02%，巴西ETF華夏上漲9.96%，吸引大量資金關注。10月9日，上述兩隻ETF維持強勁勢頭，巴西ETF易方達大漲6.61%，收報1.323元，距離前期最高點1.364元僅一步之遙；巴西ETF華夏同樣大漲6.66%，收報1.330元。截至10月9日，巴西ETF華夏年初至今收益達36.13%，巴西ETF易方達年初至今收益已達35.83%，在跨境QDII品種中表現突出，分別位列跨境ETF年內收益榜第五位和第六位。"
-    },
-    {
-      "id": "5138110",
-      "time": "2026-10-12 07:16:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國首批國家公園建設成效顯著】記者12日從國家林業和草原局獲悉，自2021年我國正式設立三江源、大熊貓、東北虎豹、海南熱帶雨林、武夷山5個國家公園以來，首批國家公園建設取得豐碩成果。中國特色國家公園制度體系基本建成，重點區域自然生態系統質量持續向好，旗艦物種種群數量穩步增長。評估顯示，首批國家公園生態效益評估指標優秀比例達75%，水源涵養、固碳釋氧、水土保持等核心生態服務功能有效提升。（新華社）"
-    },
-    {
-      "id": "5138109",
-      "time": "2026-10-12 07:16:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【紐西蘭國家黨：將等預算實現盈餘後再減稅】紐西蘭執政黨國家黨表示，該國債務負擔與財政赤字現狀意味著當下並非減稅時機。財政事務發言人妮可拉・威利斯週一在惠靈頓稱，當前首要任務是削減債務，並投入資金保障一線公共服務，尤其是醫療與基礎設施領域。國家黨在11月7日大選前釋出財政方案，同時發表了上述言論。該黨在政策檔案中寫道：“一旦財政賬目重回盈利、盈餘持續增長，國家黨政府才會考慮減稅。但當前優先目標是兌現預期，實現財政盈餘並降低債務。”"
-    },
-    {
-      "id": "5138108",
-      "time": "2026-10-12 07:15:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華夏基金顧鑫峰：北交所投資要避開“荒漠” 也要規避AI熱潮中的估值風險】從2021年至今，成立滿五週年的北交所市值已超過8000億元。北交所專精特新成色凸顯，離不開公募基金等增量資金的助力。華夏基金股票投資部總監顧鑫峰近日接受證券時報記者採訪時表示，在公募基金持續投資的過程中，北交所的政策預期正從“改革敘事”逐步進入落地兌現階段。顧鑫峰認為，北交所的高彈性行情通常發生在“低估值或深度調整、政策或產業主題催化、成交額和換手率顯著放大”三項條件同時出現時。基金投資要重點研究行業景氣度和邊際變化，既要回避投資“荒漠”，也要規避AI熱潮中的估值風險。"
-    },
-    {
-      "id": "5138107",
-      "time": "2026-10-12 07:15:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭國家黨將在預算盈餘後才會考慮減稅。"
-    },
-    {
-      "id": "5138106",
-      "time": "2026-10-12 07:14:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【內地公募赴港佈局迎來收穫期】近年來，內地公募赴港佈局迎來收穫期。伴隨港交所ETF發行熱度升溫，中資公募香港子公司已成為離岸指數工具供給的中堅力量；互聯互通相關規則紅利進一步開啟產品創新空間，一大批新型ETF接連落地。乘著制度東風，內地公募藉助ETF實現海外資管版圖持續擴張，離岸業務正成長為公募行業不可忽視的“第二增長曲線”。"
-    },
-    {
-      "id": "5138105",
-      "time": "2026-10-12 07:14:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【首批通關旅客進入皇崗口岸查驗區域】歷時七年升級改造，連線深圳、香港兩地的新皇崗口岸落成。今天6時30分正式開通執行，為旅客和客運車輛提供24小時通關服務。"
-    },
-    {
-      "id": "5138104",
-      "time": "2026-10-12 07:13:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【7月以來均衡基金超八成下跌 首尾業績相差近54個百分點】近期，伴隨市場波動加劇，主動權益基金新發產品中，均衡類產品成為公募佈局的重要方向。比如，平安均衡精選、中歐均衡增長等產品均定於10月開啟認購。資料顯示，截至2026年10月9日，年內成立的均衡主動權益基金（以名稱中帶“均衡”的基金為統計口徑）數量達14只，年度成立數量創2022年以來新高。均衡類產品的設計初衷，是依靠更廣域的選股佈局，透過多行業分散配置來平滑組合波動，減少單一板塊劇烈波動給淨值帶來的衝擊，儘可能改善持有人的持有體驗。不過，從已成立的均衡基金來看，7月以來業績表現分化明顯，首尾業績相差近54個百分點。短期不抗跌，究竟是策略失效，還是風格極致分化下的暫時失色？據證券時報基金研究院統計，截至10月9日，在50餘隻成立滿3年的均衡基金中，85.5%的基金近3年取得正收益，這一比例高於主動權益基金81.2%的整體水平。其中華商均衡成長A等20只產品收益率超31.5%，跑贏同期萬得偏股混合型基金指數。"
-    },
-    {
-      "id": "mkt:01a12d3d-a08c-7ee0-a82c-a20499dd14ae",
-      "time": "2026-10-12 07:12:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Europe & UK",
-        "CNH",
-        "Impact bullish",
-        "EURUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【People's Daily: China, EU should be stabilising, balancing key trade partners】People's Daily said China and the EU should act as stabilising, balancing trade partners. Beijing said differences exist but can be managed by mutual respect, equality and addressing each other's legitimate concerns, and that dialogue and consultation are the preferred tools to control frictions. China said it is willing to work with the EU, within WTO rules and while taking account of each side's core interests, to resolve disputes, expand cooperation and help safeguard global growth and supply‑chain stability."
-    },
-    {
-      "id": "5138103",
-      "time": "2026-10-12 07:12:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【明德戰略對話：中國經濟韌性與活力給世界帶來新機遇】以“韌性與活力：中國發展給世界帶來的新機遇”為主題的明德戰略對話（2026）主論壇11日在京舉行。20餘位各國前政要、專家學者等圍繞中國高質量發展與全球經濟增長、完善全球經濟治理與產供鏈穩定、人工智慧賦能產業創新等議題展開戰略對話，為全球經濟復甦與可持續發展貢獻智慧。（人民日報）"
-    },
-    {
-      "id": "5138102",
-      "time": "2026-10-12 07:11:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【人民日報鐘聲：中歐要做彼此穩定、平衡的關鍵貿易伙伴】當前，單邊主義、保護主義持續蔓延，國際經貿秩序面臨衝擊。作為多邊貿易體制的堅定支持者和積極貢獻者，中歐雙方均強調以規則為基礎的多邊貿易體制的價值，支援世貿組織改革，並強調遵守世貿組織規則的重要性。中歐這一共識和立場，不僅有利於維護雙方經貿關係的穩定發展，更具有超越雙邊關係的重要意義，有助於維護全球貿易秩序、推動世界經濟朝著更加開放、包容、普惠、平衡、共贏的方向發展。 對話協商是管控分歧的最優路徑，互利合作是共同發展的最大公約數。面向未來，中方願同歐方一道，在遵守世貿組織規則、照顧彼此核心利益的基礎上，持續透過對話磋商化解摩擦分歧，不斷挖掘合作新潛力、拓展合作新空間，共同為促進全球經濟增長、維護全球產業鏈供應鏈安全穩定貢獻中歐力量。"
-    },
-    {
-      "id": "5138101",
-      "time": "2026-10-12 07:11:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聚焦熱點行業與關鍵進展 10月以來逾80家上市公司獲機構調研】Wind資料顯示，截至10月11日記者發稿時，10月以來，82家A股上市公司獲機構調研。從調研內容看，投資者對於核心產品的研發進展、原材料價格變動對毛利率影響、業務出口情況較為關注。從獲機構調研數量看，艾力斯、航天南湖、菲利華、泰鴻萬立、中國重汽等公司排名居前。從行業角度看，電氣裝置、汽車零部件、應用軟體、化工、電子元件等行業上市公司獲機構關注度高。（中國證券報）"
-    },
-    {
-      "id": "5138100",
-      "time": "2026-10-12 07:10:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱願促成沙特與葉門胡塞武裝對話 】伊朗外交部長阿拉格齊11日表示，伊朗願提供一切必要協助，以促成沙烏地阿拉伯與葉門胡塞武裝對話，為實現衝突“政治解決”鋪平道路。據伊朗伊斯蘭共和國通訊社報道，阿拉格齊是在與沙特外交大臣費薩爾通電話時作出上述表態。雙方討論了地區最新局勢。阿拉格齊對沙特與胡塞武裝之間局勢升級表示嚴重關切，指出堅持採取軍事手段而無視政治解決方案，只會使現狀變得更加複雜。同日，沙特外交部發布訊息說，費薩爾與阿拉格齊在通話中討論了近期地區局勢升級以及為促其緩和所作努力。"
-    },
-    {
-      "id": "mkt:01a12d3b-777e-7ee0-a82c-9bb14e6996ac",
-      "time": "2026-10-12 07:10:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened 24.60 points higher (+0.28%) at 8,741.20 on Monday, Oct. 12."
-    },
-    {
-      "id": "te:economy:590982",
-      "time": "2026-10-12 07:09:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Senegal",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Senegal Inflation Rate Eases to 1% in September — Senegal’s annual inflation rate slowed to 1.0% in September 2026 from August’s three-month high of 1.2%. The deceleration came as food and beverages inflation, the largest component of the inflation basket, eased to 0.9% from a four-month high of 1.4% in August. Inflation also moderated for transport (1.2% vs 1.7% in August), alcoholic beverages and tobacco (12.0% vs 12.6%), and financial services (1.0% vs 1.1%). On a monthly basis, consumer prices rose 1.2%, slowing from a 2.0% gain in the prior month, which was the highest level since July 2023."
-    },
-    {
-      "id": "5138099",
-      "time": "2026-10-12 07:09:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國財政研究所：希利需籌措 350 億英鎊，才能落實英國支出計劃】英國財政研究所（IFS）在本月晚些時候預算案公佈前發出警告：英國財政大臣約翰・希利必須籌措 350 億英鎊（合 460 億美元）資金，才能兌現工黨政府的支出願景。這家備受關注的智庫表示，儘管希利在財政規則方面的可操作空間或將高於預期，但政府支出計劃的可信度仍懸而未決。該機構稱，通脹將擠壓公共開支，若政府不採取干預措施，各部門將面臨資金不足的困境。英國財政研究所所長海倫・米勒表示：“如果想要增加支出，同時不壓縮公共服務，那就必須考慮加稅。”與此同時，希利重申了恪守財政紀律的承諾。他即將前往泰國出席 2026 年國際貨幣基金組織年會，並將呼籲盟友協同行動，以減輕中東戰爭等全球衝擊帶來的影響。希利在一份郵件宣告中稱：“我將與國際夥伴合作，保障貿易暢通，幫扶家庭與企業，增強英國經濟實力。我的預算案將延續這一方針，依靠財政紀律打造經濟韌性。”"
-    },
-    {
-      "id": "5138098",
-      "time": "2026-10-12 07:08:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【防禦配置需求升溫 紅利基金密集限購】近期，公募紅利主題產品熱度全面攀升。一方面，多隻存量紅利基金髮布限購公告，也有新產品提前結束募集；另一方面，多款紅利主題新品接連申報、啟動發行，行業擴容節奏顯著提速。部分機構認為，在當前較為震盪的市場環境中，盈利確定性強、現金流充沛的紅利資產或成為資金相對穩健的選擇，有望在成長與價值風格的再平衡中走強。（上海證券報）"
-    },
-    {
-      "id": "5138097",
-      "time": "2026-10-12 07:06:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【外部擾動不改A股內在韌性 機構建議聚焦業績確定性標的】國慶假期後，A股市場出現一定幅度調整。但在10月9日，A股上演“V”形反轉，滬指3800點關口失而復得，多隻寬基ETF迎來成交大幅放量行情。本週多家券商在策略展望報告中研判，經歷連續調整後，當前市場悲觀情緒已得到較充分消化，疊加國內政策持續託底，短期擾動不改A股內在韌性。後續隨著三季報披露視窗開啟，10月A股仍存在結構性修復機會，業績兌現將成為市場定價的核心錨點。（上海證券報）"
-    },
-    {
-      "id": "5138096",
-      "time": "2026-10-12 07:06:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“A+H”上市公司數量持續增加】近日，港股上市公司力勤資源在深圳證券交易所主機板正式掛牌上市，成為全面註冊制實施以來深市主機板首家“H回A”上市企業。除力勤資源外，近期，包括映恩生物在內的多家港股公司更新A股上市“進度條”。此外，Wind資料顯示，今年以來已經有38家A股上市公司成功實現H股上市，“A+H”上市公司數量持續增加。(中證報)"
-    },
-    {
-      "id": "5138095",
-      "time": "2026-10-12 07:06:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆將舉辦招待會，邀請商界高管參加。"
-    },
-    {
-      "id": "5138094",
-      "time": "2026-10-12 07:05:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國首相伯納姆將於週二出席會議，與會者包括科技公司高管。"
-    },
-    {
-      "id": "5138093",
-      "time": "2026-10-12 07:04:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數上漲0.3%，報8,742.70點、"
-    },
-    {
-      "id": "5138092",
-      "time": "2026-10-12 07:03:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆將舉辦招待會，邀請商界高管參加。"
-    },
-    {
-      "id": "5138091",
-      "time": "2026-10-12 07:02:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【經濟日報：基金髮行重“量”更應重“質”】萬得資料顯示，截至9月29日，年內新發基金數量達1344只，同比增長近22%；新發基金總規模8898.02億元，同比下降超3%。一升一降的背離資料，恰恰折射出行業當下的發展困境：一邊是基金公司加速上新、擴充產品線，創新產品持續落地，市場供給源源不斷；另一邊是投資者認購意願降溫，上百隻指數基金髮布延長募集期公告，行業發行內卷、募資乏力。"
-    },
-    {
-      "id": "5138090",
-      "time": "2026-10-12 07:01:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼蘇拉威西島發生5.3級地震】中國地震臺網正式測定：10月12日5時34分在印尼蘇拉威西島（北緯0.50度，東經121.85度）發生5.3級地震，震源深度110千米。"
     }
   ]
 }
