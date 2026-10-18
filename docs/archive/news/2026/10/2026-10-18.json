@@ -1,7 +1,18 @@
 {
   "date": "2026-10-18",
-  "count": 513,
+  "count": 514,
   "items": [
+    {
+      "id": "mkt:01a14eaa-9451-7ee0-a8d0-57b902cf6ba9",
+      "time": "2026-10-18 18:59:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Pakistan says it struck Afghan armed border posts and barracks】Pakistani security sources said on the 17th that Afghan armed personnel opened fire without provocation in the Pakistan-Afghanistan border area of Khyber Pakhtunkhwa in northwest Pakistan; Pakistani security forces returned fire."
+    },
     {
       "id": "5152389",
       "time": "2026-10-18 18:56:47",
