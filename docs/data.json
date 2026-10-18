@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-19 04:17:48",
-  "count": 12495,
+  "updated": "2026-10-19 04:21:42",
+  "count": 12494,
   "items": [
+    {
+      "id": "5152579",
+      "time": "2026-10-19 04:20:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：眼下，大選前這段時日充滿變數。我最新提出的方案是我們不再打擊俄羅斯柴油相關設施，而你們（美國）向我們提供愛國者導彈，用來保護我方設施。但他們只想讓我們停止打擊柴油設施。一旦我們發起這類打擊，他們就會切斷我們某方面的供給。"
+    },
+    {
+      "id": "mkt:01a150ab-87d7-7ee0-a8d2-fc9febb2bbc7",
+      "time": "2026-10-19 04:19:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi forces say Saudi airstrike in Yemen's Saada province kills 9, wounds 11】Houthi forces said on the 18th a Saudi airstrike on a house in Yemen's Saada province, which is controlled by the Houthis, killed 9 and wounded 11, including women and children."
+    },
     {
       "id": "5152578",
       "time": "2026-10-19 04:11:29",
@@ -114329,40 +114345,6 @@
         "國際"
       ],
       "text": "美國特使威特科夫和賈裡德·庫什納已暫緩原定前往莫斯科的行程，直到他們確定烏克蘭和歐洲國家是否願意支援一項提交給普京的新統一和平方案。"
-    },
-    {
-      "id": "mkt:01a12c9f-e99a-7ee0-a82b-e6e6b417099e",
-      "time": "2026-10-12 04:20:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Canada's prime minister Carney's office said he supports an energy ceasefire between Ukraine and Russia."
-    },
-    {
-      "id": "mkt:01a12c9f-dffe-7ee0-a82b-df046b2749bd",
-      "time": "2026-10-12 04:20:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Office of Canadian Prime Minister Carney said he spoke with U.S. President Trump."
-    },
-    {
-      "id": "mkt:01a12c9d-ca5d-7ee0-a82b-d11b7233b75c",
-      "time": "2026-10-12 04:18:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Market sources: Several U.S. senators issued statements urging President Trump to reverse a decision allowing imports of Russian diesel."
     }
   ]
 }
