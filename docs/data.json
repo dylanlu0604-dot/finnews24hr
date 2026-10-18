@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-18 18:50:53",
-  "count": 12544,
+  "updated": "2026-10-18 18:54:39",
+  "count": 12545,
   "items": [
+    {
+      "id": "mkt:01a14ea2-6946-7ee0-a8d0-486323d665c2",
+      "time": "2026-10-18 18:50:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Market correction nearing end】CITIC Securities research note: The recent correction in China’s AI core names, in both magnitude and duration, now parallels the new‑energy core pullback from late‑2021 to April‑2022. The first round of hardware valuation re‑rating amid a downshift in the super‑cycle’s acceleration (second derivative) appears close to completion. For long‑term investors focused on AI’s growth rate (first derivative) rather than its acceleration, the current adjustment is insufficient to alter the trend. Memory prices, GPU rental rates and CSPs’ (cloud service providers’) profit margins are the key variables to watch for direction of underlying AI demand."
+    },
     {
       "id": "5152387",
       "time": "2026-10-18 18:48:29",
