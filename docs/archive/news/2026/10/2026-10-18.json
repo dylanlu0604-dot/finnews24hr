@@ -1,7 +1,26 @@
 {
   "date": "2026-10-18",
-  "count": 318,
+  "count": 320,
   "items": [
+    {
+      "id": "mkt:01a14d9e-f581-7ee0-a8cf-0241f1623258",
+      "time": "2026-10-18 14:07:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【FT: Suspected coordinated AIS spoofing used to hide Russian shadow-fleet Black Sea movements】Financial Times reports that, as Russia tightens control of its shadow fleet to shield vessels from attacks, ships in the Black Sea are using an unusual, apparently coordinated AIS spoofing system to conceal voyages. UCL shadow-fleet tracker Ollie Ballinger says at least 12 sanctioned tankers appear to use identical equipment, transmitting fixed false positions even when the vessels are hundreds of miles away; six of the 12 simultaneously broadcast two AIS position sets, appearing in two locations at once. Lloyd’s List Intelligence research director Bridget Diakun says this likely forms part of a broader Russian effort to protect assets as the EU increases interventions against sanctioned ships and Ukraine steps up attempts to disrupt Russian oil exports."
+    },
+    {
+      "id": "5152218",
+      "time": "2026-10-18 14:06:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【粉筆將全面取消線下模考認證服務】10月18日，粉筆釋出《關於粉筆模考的宣告》。其中提到，從即日起，粉筆將全面取消線下模考認證服務。同時，為維護模考生態，後續85分以上的模考成績將不予展示、不計入排名。"
+    },
     {
       "id": "5152217",
       "time": "2026-10-18 14:03:02",
