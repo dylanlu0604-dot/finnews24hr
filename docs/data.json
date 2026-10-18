@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-19 03:50:13",
-  "count": 12505,
+  "updated": "2026-10-19 03:54:12",
+  "count": 12502,
   "items": [
+    {
+      "id": "5152574",
+      "time": "2026-10-19 03:51:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國大範圍騷亂之際，伊朗向馬克龍發出警告：險惡聯盟終將引火燒身】法國爆發大規模騷亂，伊朗外交部發言人巴加埃發文警告法國總統馬克龍，險惡聯盟終將自食惡果。他指責馬克龍在示威問題上實行雙重標準：此前稱受外部勢力煽動襲擊伊朗公共部門的人員可免於處罰，但對法國本土騷亂中的破壞行為主張嚴懲。巴加埃還援引戰前馬克龍向美方表態“可在伊朗問題上成就大事”一事，批評法國參與針對伊朗的侵略行動。"
+    },
     {
       "id": "mkt:01a1508f-ca40-7ee0-a8d2-f492993fa1ea",
       "time": "2026-10-19 03:49:22",
@@ -114430,46 +114438,6 @@
         "其他"
       ],
       "text": "比利時首相因預算協議未達成取消國情諮文演講。"
-    },
-    {
-      "id": "mkt:01a12c86-fb12-7ee0-a82b-9cd0a7950961",
-      "time": "2026-10-12 03:53:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "UK Prime Minister Burnham spoke by phone with US President Trump today to discuss immediately launching a sustained energy ceasefire between Russia and Ukraine."
-    },
-    {
-      "id": "5138020",
-      "time": "2026-10-12 03:53:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相伯納姆：今日與特朗普通話，討論立即啟動俄羅斯與烏克蘭之間的持續效能源停火。"
-    },
-    {
-      "id": "5138018",
-      "time": "2026-10-12 03:51:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普強推俄烏停火，俄烏訴求分歧顯著】白宮一名官員表示，特朗普週日宣佈俄羅斯與烏克蘭之間達成“能源停火”，指的是一項潛在協議，內容包括雙方停止攻擊煉油廠，並且他期望澤連斯基遵守該協議。該官員稱，如果對煉油廠的攻擊停止，接下來可能達成一項停止打擊發電廠和電網的協議。特朗普似乎正試圖單槍匹馬促成一項部分停火。但目前俄羅斯尚未接受任何形式的停火，而烏克蘭希望達成一項禁止攻擊發電廠的停火協議。白宮官員表示：“俄羅斯正在考慮此事。我們很快就能知道他們是否準備好了。”"
-    },
-    {
-      "id": "mkt:01a12c84-d885-7ee0-a82b-9496e3301c5b",
-      "time": "2026-10-12 03:51:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Axios reported White House officials said Trump's Sunday announcement of an \"energy ceasefire\" between Russia and Ukraine referred to a potential agreement and that Trump expects Zelensky to comply; officials added Ukrainian strikes on Russian refineries have damaged Zelensky's relationship with Trump more than they have hurt Russia."
     }
   ]
 }
