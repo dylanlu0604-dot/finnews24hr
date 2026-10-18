@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-19 04:29:24",
-  "count": 12495,
+  "updated": "2026-10-19 04:33:16",
+  "count": 12492,
   "items": [
+    {
+      "id": "5152585",
+      "time": "2026-10-19 04:31:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都基輔響起強烈爆炸聲】當地時間18日23時許，新華社記者聽到烏克蘭首都基輔市不同方向傳出多次強烈爆炸聲，看到一枚導彈落在該市東郊方向並爆炸。（新華社）"
+    },
+    {
+      "id": "5152584",
+      "time": "2026-10-19 04:28:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：當前美方每月供應12枚愛國者攔截彈，僅為拜登時期的四分之一；烏克蘭已為這批追加武器付款，部分供貨獲批、其餘仍卡在審批環節，問題不在於技術原因。"
+    },
     {
       "id": "5152583",
       "time": "2026-10-19 04:27:59",
@@ -114300,59 +114316,6 @@
         "MKT News"
       ],
       "text": "Saudi Energy Ministry said Saudi Minister of Industry and Mineral Resources and Kuwait's Minister of Electricity, Water and Renewable Energy signed a memorandum of understanding on cooperation in the power and renewables sector."
-    },
-    {
-      "id": "mkt:01a12caa-97e5-7ee0-a82b-f8728b1498b6",
-      "time": "2026-10-12 04:32:19",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's foreign minister told Saudi Arabia's foreign minister Tehran is ready to assist in facilitating dialogue between Riyadh and Yemeni parties."
-    },
-    {
-      "id": "5138060",
-      "time": "2026-10-12 04:32:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長稱，已告知沙特外交大臣，德黑蘭方面已準備好提供協助，推動沙特與葉門展開對話。"
-    },
-    {
-      "id": "5138059",
-      "time": "2026-10-12 04:32:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【亞馬遜正洽談70億美元收購人工智慧初創公司Decart】亞馬遜正洽談收購人工智慧初創公司Decart，交易估值可能約為70億美元。如果談判不破裂或沒有其他競購方出現，交易可能很快就會達成。據PitchBook資料，Decart已從紅杉資本、Benchmark和Radical Ventures等投資者處籌集了超過4億美元的風險投資資金，其在5月的估值接近40億美元。該公司由三位以色列工程師於2023年創立，分別是Dean Leitersdorf和Orian Leitersdorf兄弟以及Moshe Shalev。Decart還在開發名為Lucy和Oasis的世界模型。"
-    },
-    {
-      "id": "mkt:01a12ca8-9fb1-7ee0-a82b-f79be93b8358",
-      "time": "2026-10-12 04:30:10",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Market Themes",
-        "AI Revolution",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "The Wall Street Journal, citing people familiar with the matter, reports Amazon (AMZN.O) is in talks to acquire AI startup Decart for about $7 billion, a deal that would value Decart at roughly $7 billion."
-    },
-    {
-      "id": "mkt:01a12ca7-f04d-7ee0-a82b-e972669d06cf",
-      "time": "2026-10-12 04:29:25",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Wall Street Journal, citing sources, says Amazon (AMZN.O) is in talks to acquire AI startup Decart."
     }
   ]
 }
