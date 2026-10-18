@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-19 01:22:51",
+  "updated": "2026-10-19 01:26:43",
   "count": 12533,
   "items": [
+    {
+      "id": "5152536",
+      "time": "2026-10-19 01:25:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談內塔尼亞胡：也許我能與另一位候選人合作，也許不能。但我為什麼要冒這個險？"
+    },
+    {
+      "id": "5152535",
+      "time": "2026-10-19 01:23:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：三菱重工生產線將為日本防衛省建造補給艦。"
+    },
     {
       "id": "5152534",
       "time": "2026-10-19 01:19:55",
@@ -114725,27 +114741,6 @@
         "Brent"
       ],
       "text": "【FT: Trump administration threatens to cut Ukraine weapons procurement, intelligence sharing to press Kyiv to halt strikes on Russian refineries】The Financial Times, citing European officials, reports the Trump administration is threatening to suspend use of the Priority Ukraine Requirements List (PURL) — the US mechanism for procuring weapons for Ukraine — and to curtail intelligence sharing to pressure Kyiv to stop strikes on Russian refineries and other energy infrastructure. US officials have been lobbying European capitals and Kyiv; several European officials and Zelenskiy military adviser Pavlo Palisa said they received calls, and others were briefed on the outreach."
-    },
-    {
-      "id": "5137934",
-      "time": "2026-10-12 01:24:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國一直在遊說歐洲各國與烏克蘭，試圖結束針對俄羅斯煉油廠的襲擊。"
-    },
-    {
-      "id": "mkt:01a12bfd-ee93-7ee0-a82a-d4d96994850e",
-      "time": "2026-10-12 01:23:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Financial Times, citing European officials, reports the Trump administration is threatening to suspend the procurement mechanism that supplies arms to Ukraine to pressure Kyiv to stop deep strikes on Russian energy infrastructure. U.S. officials have been lobbying European governments and Kyiv to deter attacks on Russian refineries; some European officials said they received calls from U.S. counterparts or were briefed on such calls over the weekend."
     }
   ]
 }
