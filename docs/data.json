@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-19 02:11:38",
+  "updated": "2026-10-19 02:15:20",
   "count": 12521,
   "items": [
+    {
+      "id": "5152555",
+      "time": "2026-10-19 02:12:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：國家需要秩序與冷靜，而非局勢升級。"
+    },
     {
       "id": "5152554",
       "time": "2026-10-19 02:10:40",
@@ -114604,14 +114612,6 @@
         "Precious Metals"
       ],
       "text": "【Airstrike on gold mine in northern Sudan kills 72】A local civil society group said on Oct 11 local time that a large-scale airstrike on Oct 10 at a gold mine in the North Wadi region near the Egyptian border killed 72 miners. The group accused the Egyptian air force of carrying out the strike and said casualty figures are still being tallied. Egypt and Sudan have not commented."
-    },
-    {
-      "id": "5137956",
-      "time": "2026-10-12 02:14:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【蘇丹北部礦區遇襲 已致72人死亡】當地時間10月11日，蘇丹一個民間組織發表宣告稱，蘇丹北部靠近埃及邊境的北瓦迪地區一處金礦礦區10日遭遇大規模空襲，造成72名礦工死亡。（央視新聞）"
     }
   ]
 }
