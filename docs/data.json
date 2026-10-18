@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-18 22:37:25",
-  "count": 12527,
+  "updated": "2026-10-18 22:41:24",
+  "count": 12525,
   "items": [
+    {
+      "id": "mkt:01a14f73-b35d-7ee0-a8d1-84c4f743bd41",
+      "time": "2026-10-18 22:39:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's foreign minister Lavrov will visit Tehran on Monday, continuing high-level consultations between the two countries."
+    },
+    {
+      "id": "5152477",
+      "time": "2026-10-18 22:39:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐洲多國爆發示威活動 法國2000多人被捕】法國、義大利、葡萄牙、比利時等歐洲多國17日爆發示威活動，抗議生活成本高企、公共服務不足、教育資源短缺及政府財政緊縮措施等問題。法國和義大利部分城市的示威演變為嚴重騷亂，造成大量人員受傷、公共設施受損。法國17日爆發全國性示威，遍及巴黎、里昂、里爾、馬賽、波爾多、斯特拉斯堡等多座城市。法國政府估計，全國約55萬人參加示威，組織方則稱人數達到80萬。部分城市的示威活動演變為暴力衝突。巴黎多處出現焚燒車輛、打砸商鋪等亂象，里昂旅遊局一分支機構當天遭縱火和搶劫，馬賽、里爾的市政廳遭抗議者闖入和破壞。法國內政部長努內茲18日在社交媒體上說，據初步統計，在17日抗議活動期間全法有2000多人被捕，超過600名警察、憲兵和消防員在暴力事件中受傷，數百家商戶遭受嚴重財產損失。（新華社）"
+    },
+    {
+      "id": "mkt:01a14f72-1a08-7ee0-a8d1-7daad713742e",
+      "time": "2026-10-18 22:37:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian Defence Ministry says forces struck dry cargo ship 50 km southwest of Odesa】The Russian Defence Ministry said on October 18 Russian forces continued drone strikes on vessels allegedly transporting military supplies to Ukraine. It said a dry cargo ship carrying military and dual-use goods was struck about 50 km southwest of Odesa port while underway."
+    },
     {
       "id": "5152476",
       "time": "2026-10-18 22:36:35",
@@ -114681,53 +114706,6 @@
         "其他"
       ],
       "text": "【巴布亞紐幾內亞發生6.2級地震】格林尼治時間11日14時7分（北京時間11日22時7分），巴布亞紐幾內亞潘古納附近發生6.2級地震，震中位於南緯7.01度、東經155.7度，震源深度53.5公里。（新華社）"
-    },
-    {
-      "id": "5137749",
-      "time": "2026-10-11 22:40:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯國家原子能公司（Rosatom）表示，預計很快將就第聶伯羅夫斯卡輸電線路部分部件的維修達成協議。"
-    },
-    {
-      "id": "5137748",
-      "time": "2026-10-11 22:40:27",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯國家原子能公司（Rosatom）表示，預計很快將達成能源停火協議，以便對扎波羅熱熱電站的裝置進行維修。"
-    },
-    {
-      "id": "5137747",
-      "time": "2026-10-11 22:40:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第八次全國科技援疆工作會議召開】據科技日報訊息，10月10日，第八次全國科技援疆工作會議在新疆烏魯木齊市召開。會上，上海市、浙江省、山東省、湖南省、新疆維吾爾自治區和兵團科技部門主要負責同志，中國科學院、國家自然科學基金委員會有關同志作了交流發言，介紹科技援疆工作經驗成果，展望下一步援疆工作新圖景。會議現場還舉行了援疆科技成果轉化專案簽約儀式。"
-    },
-    {
-      "id": "mkt:01a12b66-c670-7ee0-a82a-07e50d19e7af",
-      "time": "2026-10-11 22:38:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "A Saudi-led coalition said its air defense system intercepted a missile near Riyadh airport."
-    },
-    {
-      "id": "5137745",
-      "time": "2026-10-11 22:37:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特領導的聯軍稱防空系統在首都利雅得機場附近攔截了一枚導彈。"
     }
   ]
 }
