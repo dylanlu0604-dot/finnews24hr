@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-10-19 04:33:16_
-_本檔包含 2403 則快訊，約 476842 字_
+_更新時間：2026-10-19 06:34:15_
+_本檔包含 2409 則快訊，約 477902 字_
+
+---
+
+### 2026-10-14 16:22:29  #公司
+
+【招商證券：獲證監會同意發行不超480億元短期公司債】招商證券公告稱，公司收到中國證監會批覆，同意向專業投資者公開發行短期公司債券，本次債券面值餘額不超過480億元，批覆自同意註冊之日起24個月內有效，公司可在註冊有效期內分期發行。本次發行應嚴格按照報送上海證券交易所的募集說明書進行，發行結束前如發生重大事項，公司需及時報告並按規定處理。
+
+---
+
+### 2026-10-14 16:22:08  #Trading Economics #Markets #Germany #Government Bond 10Y #Importance 1
+
+Bund Yields Ease Ahead of US Inflation Data — Germany’s 10-year Bund yield slipped to 3.45%, near its lowest level since September 9, as investors awaited US inflation data for clues on the Federal Reserve’s rate path. September’s CPI, the final reading before the Fed’s October meeting, is expected to show annual inflation rising to 3.6%. Bond markets have shown tentative signs of stabilization in recent days, with volatility easing following a global sell-off in late September and early October. Concerns over surging energy prices, persistent inflation and rising borrowing costs fueled the earlier surge in yields, while fiscal pressures added to the strain on more heavily indebted countries. Meanwhile, ECB President Christine Lagarde said elevated energy-driven inflation has yet to spread across the euro-area economy, supporting a wait-and-see approach. However, persistent inflation surprises and the ongoing US-Iran conflict have prompted markets to price in another ECB rate hike in December, following two increases this year.
+
+---
+
+### 2026-10-14 16:21:57  #公司 #國際
+
+【德國商業銀行執行長：德國貸款需求未見回升】德國商業銀行執行長貝蒂娜·奧羅普向彭博電視表示，該行看到的德國投資類貸款需求低於預期。她在接受彭博電視Lisa Abramowicz採訪時稱：“總體來看，尤其是在我們的核心客戶群體——德國中小企業中，目前完全沒有看到貸款需求回升。”基礎設施、國防、一定程度上的可再生能源以及機械裝置領域屬於例外。德商銀行的貸款增長主要由國際業務、德國客戶在美國和亞洲的投資帶動。利率並非主要制約因素，能源成本、行政手續、人力成本與資源瓶頸構成壓力。當前整體市場情緒正在改善。
+
+---
+
+### 2026-10-14 16:21:34  #其他
+
+葡萄牙政府預計將於週三就葡萄牙航空作出決議，漢莎航空是收購葡萄牙航空少數股權的首選競標方。
+
+---
+
+### 2026-10-14 16:21:23  #其他
+
+【遠洋船舶綠氨船對船加註在舟山順利完成】13日下午，在浙江舟山秀山東錨地，隨著最後一方燃料注入完畢，我國遠洋船舶綠氨船對船海上加註作業順利完成。液氨加註船“盛航永樂”以船對船方式，成功為21萬噸級遠洋散貨船“Mineral Europa”輪注入1000噸國產綠氨。該船加註後將跨越太平洋駛向澳大利亞。（新華社）
+
+---
+
+### 2026-10-14 16:21:17  #Trading Economics #Economy #Czech Republic #Current Account #Importance 1
+
+Czechia Current Account Deficit Widens in August — The Czech Republic’s current account deficit widened to CZK 17.2 billion in August 2026 from CZK 8.8 billion in August 2025, marking the fourth consecutive month of deficit after five straight months of surplus. The secondary income account deficit increased to CZK 11.1 billion from CZK 6.4 billion. Meanwhile, the goods surplus narrowed to CZK 10.7 billion from CZK 14.3 billion, while the services surplus fell to CZK 8.7 billion from CZK 10.8 billion. At the same time, the primary income account deficit eased to CZK 25.4 billion from CZK 27.6 billion.
+
+---
+
+### 2026-10-14 16:20:16  #公司
+
+【飛龍股份：目前公司液冷泵在手訂單交付週期約3-5個月】10月14日，飛龍股份（002536.SZ）在互動平臺表示，目前公司液冷泵在手訂單交付週期約3-5個月。
+
+---
+
+### 2026-10-14 16:20:08  #MKT News #Important #Market Regions #Europe & UK
+
+ECB President Lagarde will speak in 10 minutes on Europe’s digital future.
+
+---
+
+### 2026-10-14 16:19:24  #公司
+
+【ST龍元：2026年前三季度新承接業務21.13億元】ST龍元公告稱，2026年第三季度公司新承接業務量9.01億元，對應專案24個，均為單一施工合同模式；其中房屋建設專案13個、金額1.62億元，基建工程專案5個、金額7.19億元，專業工程專案5個、金額1940.17萬元，其他專案1個、金額96.00萬元。2026年1-9月公司累計新承接業務21.13億元，對應專案66個。
+
+---
+
+### 2026-10-14 16:19:20  #公司
+
+【許繼電氣：聘任胡四全為公司總經理】許繼電氣公告稱，公司九屆四十二次董事會審議透過議案，聘任胡四全為公司總經理，任期同第九屆董事會，董事長季侃不再代行總經理職責。同時會議審議透過調整內部組織機構方案，增設安全質量監察部，將安全生產部（工程管理部）更名為生產部（工程管理部），調整後公司本部機構由12個增至13個；還審議透過了穿透式監管體系建設方案。截至公告披露日，胡四全未持有公司股份，符合相關任職資格要求。
+
+---
+
+### 2026-10-14 16:19:16  #公司
+
+【廣州市算力產發公司成立 由穗恆運、南方電網等持股】企查查APP顯示，近日，廣州市算力產業發展有限公司成立，經營範圍包含：人工智慧硬體銷售；計算機軟硬體及輔助裝置零售；計算機軟硬體及輔助裝置批發等。企查查股權穿透顯示，該公司由穗恆運A、南方電網數字電網集團有限公司等共同持股。
+
+---
+
+### 2026-10-14 16:19:08  #MKT News
+
+Venezuelan economic adviser said dollarization "is not the right path for Venezuela".
+
+---
+
+### 2026-10-14 16:18:51  #MKT News #EURUSD #Impact bearish #DAX
+
+【Rising yields raise Austria's debt service costs; government raises 2027 deficit forecast】Austria's finance minister said rising interest rates have increased debt servicing costs and forced the government to raise its 2027 fiscal deficit forecast to 3.6% of GDP from 3.5%. The government had aimed to cut the deficit to the EU 3% limit by 2028; deficits in the past two years were slightly above 4%. Austria's 10-year benchmark bond yield has risen about 70bps in recent months, which will boost next year's interest costs by roughly €500m. The revised 2027 deficit rate will be included in next year's fiscal forecast to the EU.
+
+---
+
+### 2026-10-14 16:18:34  #其他
+
+肯亞法院解除凍結丹格特拉穆煉油廠建設的禁令。
+
+---
+
+### 2026-10-14 16:18:15  #其他
+
+【葛蘭素史克裁員計劃或波及比利時約1200個崗位】據報道，葛蘭素史克向比利時工會通報，其裁員方案預計影響1217個崗位。擬裁減崗位中，735個為管理崗，482個為行政內勤崗。勞資談判即將啟動，目標儘可能縮減裁員規模。
+
+---
+
+### 2026-10-14 16:17:41  #其他
+
+委內瑞拉首席經濟顧問卡利斯托表示，美元化“並非委內瑞拉的正確解決方案”。
+
+---
+
+### 2026-10-14 16:17:41  #MKT News
+
+Venezuela's economic adviser said the country aims to achieve double-digit inflation as soon as possible and is prioritizing reconnecting Venezuela to the international financial system.
+
+---
+
+### 2026-10-14 16:17:27  #國際
+
+高市早苗：令人遺憾，日本農林水產大臣目前的解釋缺乏說服力。
+
+---
+
+### 2026-10-14 16:16:40  #其他
+
+委內瑞拉經濟顧問卡利克斯託表示，該國希望"儘快而非拖延"實現兩位數通脹率。
+
+---
+
+### 2026-10-14 16:16:31  #其他
+
+委內瑞拉首席經濟顧問卡利克斯託表示，當前重點是讓委內瑞拉重新融入國際金融體系。
+
+---
+
+### 2026-10-14 16:16:26  #公司
+
+【華寶新能：公司相關光充產品可用於星鏈終端供電 但目前不直接向SpaceX星鏈專案供貨】10月14日，華寶新能在互動平臺表示，公司相關光充產品可用於星鏈終端供電，但目前不直接向SpaceX星鏈專案供貨。
+
+---
+
+### 2026-10-14 16:16:24  #Trading Economics #Economy #Bulgaria #Inflation Rate #Importance 1
+
+Bulgaria Inflation Rate Rises in September — Bulgaria’s annual inflation rate rose to 5.7% in September 2026 from 5.1% in the previous month, slightly above the preliminary estimate of 5.6% and marking the highest reading in four months. The acceleration was driven mainly by price growth for transport (25.9% vs 21.5% in August), food and non-alcoholic beverages (1.6% vs 0.8%), and housing and utilities (5.4% vs 5.1%), information and communication (1.6% vs 1.5%), and recreation, sport, and culture (8.5% vs 7.6%). In contrast, prices moderated in health (3.1% vs 3.3%), education (7.7% vs 9.1%), restaurants and accommodation services (9.5% vs 9.6%), and personal care, social protection, and miscellaneous goods and services (5.2% vs 5.6%), while prices declined for furnishings, household equipment, and routine household maintenance (-0.5% vs 0.3%). On a monthly basis, consumer prices fell 0.2% in September, from a 0.6% increase in the previous month.
+
+---
+
+### 2026-10-14 16:16:05  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+【IEA: Russia September crude output edges up to 8.43 mln bpd but remains about 870,000 bpd below year-ago】The IEA said Russia’s September crude production rose 65,000 bpd from August to 8.43 mln bpd, still roughly 870,000 bpd below a year earlier. Russian crude exports rose 60,000 bpd to 5.30 mln bpd. The agency said recent easing of Russian diesel export curbs is unlikely to materially change global diesel balances because refinery throughput remains constrained; Ukrainian attacks have kept Russian refinery runs low for a second month. Kazakhstan’s September crude output was stable at about 1.90 mln bpd.
+
+---
+
+### 2026-10-14 16:15:54  #Trading Economics #Economy #Palestine #Inflation Rate #Importance 0
+
+Palestine Consumer Prices Fall Further in September — Consumer prices in Palestine fell 25.18% year-on-year in September 2026, following a 34.25% decline in the previous month. The overall drop was driven by a 46.43% plunge in the Gaza Strip, while prices continued to rise in the West Bank (+3.34%) and Jerusalem J1 (+2.83%). On a monthly basis, the CPI rose 4.69%, accelerating from a 0.09% increase in August. Prices surged 11.36% in the Gaza Strip, compared with increases of 0.53% in the West Bank and 0.44% in Jerusalem J1. The monthly increase was led by higher prices for imported cigarettes (+28.95%), white flour (+11.96%), and fresh vegetables (+8.57%). Additional upward pressure came from education services (+2.97%), passenger transport by road (+2.79%), and eggs (+1.24%).
+
+---
+
+### 2026-10-14 16:15:49  #公司 #其他 #焦點
+
+傳音控股(02636.HK)暗盤跌超4%。
+
+---
+
+### 2026-10-14 16:15:45  #其他
+
+【拓荊科技釋出非晶碳薄膜沉積技術Flowable Carbon】在今日舉行的2026灣芯展開幕式暨半導體產業發展峰會上，拓荊科技釋出非晶碳薄膜沉積技術Flowable Carbon，目前已應用於NF-300M Supra-H裝置，該技術系列透過對前驅體的選擇和工藝條件的控制，穩定地實現了兩種填充效能不同的可流動碳膜工藝，分別為Capi-Carbon和Sedi-Carbon。
+
+---
+
+### 2026-10-14 16:15:43  #MKT News #Important #02636.HK #Impact bearish
+
+Transsion Holdings (02636.HK) fell more than 4% in off-exchange trading.
+
+---
+
+### 2026-10-14 16:15:17  #MKT News #EURUSD #Impact bearish #DAX
+
+Germany's Economy Ministry says industrial activity outlook remains subdued.
+
+---
+
+### 2026-10-14 16:14:58  #MKT News #Commodities #Energy #EURUSD #Impact bearish #DAX
+
+Germany's Economy Ministry said higher energy prices have reduced purchasing power and, combined with uncertainty and higher financing costs, the domestic economy is unlikely to provide significant momentum in the near term.
 
 ---
 
@@ -14372,143 +14546,5 @@ Hungary Construction Output Jumps to 4-Year High — Hungary’s construction ou
 ### 2026-10-13 14:49:29  #MKT News #WTI #Impact bullish #Brent
 
 【Egypt vows full support for Saudi campaign against Houthi rebels, does not rule out military aid】At the IMF annual meetings in Bangkok, Egyptian Foreign Minister Badr Abdelatty said when asked whether Egypt might provide military assistance to Saudi Arabia: “Whatever the Saudis request, we will of course respond.” He added Egypt is “providing all forms of support without reservation” and is “seriously considering” joining a regional Mecca Defense Agreement.
-
----
-
-### 2026-10-13 14:49:00  #公司 #市場 #國際
-
-【年內9925億元資金離場，韓股遭遇外資大撤退，三星、SK海力士遭拋售】受人工智慧融資擔憂和油價上漲加劇避險情緒的影響，韓國綜合股價指數(KOSPI)已連續五個交易日下跌。曾在全球AI投資熱潮中被捧為“最牛股市”的韓國股市，正遭遇外資大撤退。13日，韓國KOSPI指數收跌5.46%報6035.35點，創8月份以來收盤新低。其中SK海力士跌超10%。韓國《首爾經濟》報道稱，13日上午韓國股市暴跌，外國投資者繼續拋售三星電子和SK海力士股票。韓國《朝鮮日報》13日報道，據韓國交易所13日公佈的資料，從年初首個交易日 (1月2日) 到10月12日，外資在KOSPI市場累計淨賣出199.10萬億韓元（約合人民幣9925億元）。其中，淨賣出三星電子86.06萬億韓元（約合人民幣4290億元）、SK海力士87.14萬億韓元（約合人民幣4344億元），合計173.20萬億韓元（約合人民幣8634億元），這兩支股票的淨賣出總額佔KOSPI淨賣出總額的87%。（中新經緯）
-
----
-
-### 2026-10-13 14:48:44  #其他
-
-【雅湖直流累計輸送電量突破1000億千瓦時】截至2026年10月11日，雅中—江西±800千伏特高壓直流輸電工程（雅湖直流）累計向江西電網輸送清潔水電突破1000億千瓦時。這條“電力大動脈”已成為全省能源保供與綠色轉型的關鍵支撐，標誌著國家“西電東送”戰略在贛落地見效。（新華財經）
-
----
-
-### 2026-10-13 14:48:07  #MKT News #Commodities #Energy
-
-【Yahu DC cumulative deliveries exceed 100 billion kWh】As of Oct 11, 2026, the Yazhong–Jiangxi ±800 kV UHVDC project (Yahu DC) has transmitted over 100 billion kWh of clean hydropower into the Jiangxi grid. The line is cited as a key support for provincial energy security and the green transition and signals implementation of China’s West-to-East power transmission strategy in Jiangxi.
-
----
-
-### 2026-10-13 14:48:06  #公司 #國際
-
-【華安證券：首予中國石油“買入”評級，煉化板塊有望價值重估】華安證券日前研報指出，中國石油頁岩油氣產量高增，煉化板塊有望價值重估。油價高位震盪，公司勘探板塊充分受益。美國頁岩油邊際成本持續抬升，高產量難以持續；歐佩克+自2025年4月起由減產轉向漸進式增產但節奏溫和剋制；中東地緣衝突頻發，原油重要運輸通路關閉導致斷供風險升高。在地緣衝突頻發、全球石油投資縮減、美國原油產量增幅有限的三重作用下，認為原油基本面仍將維持中高位寬幅震盪。頁岩油氣逐步起量，有望成為未來增量來源；海外煉廠加速退出，供給格局持續最佳化，景氣度有望提升。天然氣順價帶來盈利彈性，消費稅改革加強公司煉銷一體化優勢；消費稅改革深入，公司油品煉銷一體化優勢顯著。此外，公司重視股東回報，持續提高分紅率和股息率。預計公司2026-2028年歸母淨利潤分別為1839.41、1938.54、1972.16億元，對應PE分別為12、11、11倍，首次覆蓋給予“買入”評級。
-
----
-
-### 2026-10-13 14:46:59  #行業 #觀點 #國際
-
-【美國華盛頓州議員：人工智慧不在乎你來自哪個國家，美中需要加強合作】“人工智慧並不在乎你來自哪個國家。”在接受採訪時，美國華盛頓州眾議員、美國全國州議會會議外事顧問委員會主席羅傑·古德曼說道，當前各方圍繞人工智慧的主導權、經濟主導地位和全球市場展開競爭，但人工智慧帶來的風險並不受國界限制，美國和中國需要加強合作，確保AI真正造福人類。（澎湃新聞）
-
----
-
-### 2026-10-13 14:46:34  #國際
-
-【韓國大學入學考試首現AI眼鏡作弊】在上週末剛結束的韓國延世大學2027學年自主招生論述考試中，有學生藉助人工智慧（AI）眼鏡作弊，當場被抓。這是這種作弊方式首次在韓國大學入學考試中出現，引發各界擔憂。(新華社)
-
----
-
-### 2026-10-13 14:46:22  #市場 #央行 #國際
-
-【天然氣價格上漲對歐元區債券的利空影響減弱】德國短端國債收益率對能源衝擊的韌性正在增強，這意味著其長期來看更有可能下行。過去一週歐洲天然氣價格持續走高，突破9月創下的多年高位。但德國收益率曲線短端波動微弱。事實上，德國兩年期國債收益率與天然氣價格的相關性，已降至伊朗衝突爆發以來最低水平。歐元區收益率曲線短端走勢愈發穩定。法國局勢動盪，且市場認為政策利率已處於中性區間上限，交易員不願加碼押注歐洲央行收緊貨幣政策。冬季來臨前庫存偏低，伊朗與烏克蘭衝突暫無明顯解決跡象，天然氣價格存在進一步上行空間。
-
----
-
-### 2026-10-13 14:45:48  #其他
-
-【趙增連任福建省委常委、省政府黨組副書記】2026年10月13日，新福建客戶端釋出訊息，日前，中共中央批准：趙增連同志任福建省委委員、常委；福建省委決定：趙增連同志任省政府黨組副書記。（澎湃新聞）
-
----
-
-### 2026-10-13 14:45:25  #其他
-
-【上海都市旅遊“十五五”規劃釋出：2030年旅遊收入力爭突破9000億元】在“開局起步‘十五五’”系列主題市政府新聞釋出會上，上海市文旅局黨組書記、局長趙勇介紹了最新印發實施的《上海市都市旅遊創新發展“十五五”規劃》。《規劃》錨定建設中國入境旅遊第一站、中國都市旅遊首選地、文旅深度融合示範區三大目標，提出到2030年上海旅遊收入力爭突破9000億元，入境遊客達1000萬人次以上，旅遊產業增加值佔全市GDP比重達到5%，力爭躋身全球旅遊第一方陣。
-
----
-
-### 2026-10-13 14:45:03  #MKT News #Market Themes #AI Revolution #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-【US, European bank regulators step up AI risk checks, warn of autonomous-agent and cyberattack threats】US and European bank regulators are stepping up scrutiny of AI risks, warning that autonomous agents and AI-enabled cyberattacks could threaten global financial stability, sources said. Regulators say advances in frontier AI may force banks to make large investments in cyber-resilience, increase scrutiny of third-party tech vendors, and lead some jurisdictions to issue formal guidance. In the US, three major regulators including the Federal Reserve have queried banks about their use of advanced AI models; in Europe the Bank of England and European Central Bank are pressuring banks to strengthen recovery plans. Regulators warned the rapid pace of AI development could cause serious market disruption sooner than previously expected.
-
----
-
-### 2026-10-13 14:45:02  #公司
-
-【阿里巴巴宋剛：AI硬體開啟互動革命，千問AI硬體已成為你的另一雙眼睛和耳朵】今日舉辦的千問AI硬體2026新品釋出會上，千問AI眼鏡N1、N1 Pro等多款新品釋出，阿里巴巴千問事業部副總裁宋剛分享指出，“AI硬體會開啟AI時代的人機互動革命，今天我們看到這個預判已經從暢想落地成為產品。”他以千問AI眼鏡新增的一系列健康運動感測器、實現眼動互動和虹膜支付等能力指出，千問AI硬體已經成為了你的另外一雙眼睛和耳朵。在他看來，千問AI的目標是成為每個人的Personal AI助理，AI穿戴是千問在物理世界的延伸，也是Personal AI技術的重要組成部分，無論你從哪裡發起需求，背後都是同一個千問，理解同一個人，延續同一個目標。（新浪科技）
-
----
-
-### 2026-10-13 14:44:55  #MKT News
-
-【China-EU talks: 'half cut' claim on Chinese hybrid car exports reflects EU projection, not negotiation basis】China-EU talks on hybrid and electric vehicle trade used a 2025 baseline of 302,000 Chinese hybrid cars imported into the EU. The EU’s claim that China’s hybrid exports to the bloc will fall “by more than half” over four years comes from the EU extrapolating recent export growth, not from the bilateral negotiation baseline. That projected path was not the agreed reference in negotiations. Forecasts are uncertain and recent export figures were influenced by short-term market factors, so linearly extending a volatile period to predict the next four years is not reliable.
-
----
-
-### 2026-10-13 14:44:44  #其他
-
-村田製作所正考慮追加投資，擴大多層陶瓷電容器產能，應對 AI 伺服器帶來的爆發式需求。
-
----
-
-### 2026-10-13 14:43:50  #公司
-
-當地政府表示，三星電機將再投資18.4億美元，擴大其位於越南太原省的半導體基板產能。
-
----
-
-### 2026-10-13 14:43:26  #MKT News #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #Treasury Yields #XAUUSD #Impact bullish
-
-【UBS: most bad news for gold already priced in】Sharon Ding, UBS head of China basic materials research, said most negative news for gold has been priced in. Gold has dropped about 5% since early September as renewed inf concerns re‑ignited bets on further Fed hikes; she said prices now reflect a clear hawkish repricing and the headwind may ease as market odds of an October Fed rate rise recede. Ding added that if upcoming data no longer supports further upward revisions to the expected policy path, there is greater room for gold to stabilize, and a continued fall in US Treasury yields could bolster a recovery.
-
----
-
-### 2026-10-13 14:43:13  #國際
-
-【韓國開發研究院：韓國經濟復甦尚未廣泛惠及普通家庭】韓國國有智庫韓國開發研究院（KDI）週一表示，韓國經濟復甦的紅利還未廣泛傳導至家庭部門，居民購買力的修復幅度依舊有限。韓國開發研究院在月度經濟評估報告中稱：“受基礎薪資增長乏力、油價持續高企等供給端通脹壓力影響，居民購買力的復甦受到制約。”研究院指出，儘管當前韓國經濟由人工智慧產業拉動復甦，但紅利尚未普惠家庭。不過該智庫同時表示，韓國經濟整體仍保持復甦勢頭，製造業產出持續穩健增長。報告稱：“全球對 AI 基礎設施投資需求旺盛，帶動 AI 相關領域出口與裝置投資保持強勁增長。”
-
----
-
-### 2026-10-13 14:43:00  #MKT News
-
-Qatar's Emir said commitment to dialogue and peaceful solutions does not imply compromise when defending the country.
-
----
-
-### 2026-10-13 14:42:23  #宏觀 #行業 #其他
-
-【一線城市十月賣地進入冷靜期，開發商重算拿地賬】8·28現房銷售新政後，地方和房企都在調整土拍節奏。 公開的掛牌資訊顯示，今年10月，一線城市供地進入階段性“冷靜期”，截至目前，本月北京、上海、深圳暫無宅地出讓安排，僅廣州有少量地塊入市。此前9月，土拍市場溢價率也在降低。 業內表示，現房銷售新政對土地供需雙方都將產生較大影響。 在供應端，地方政府有望最佳化地塊出讓安排，幫助房企平衡現金流壓力。房企拿地也不能只算“麵粉”和“麵包”的差價，還要算資金佔用週期、回款節奏這本更復雜的賬。（第一財經）
-
----
-
-### 2026-10-13 14:41:37  #公司 #觀點
-
-【小摩：國泰海通獲新華保險增持支援股價表現，維持“增持”評級】摩根大通發表研報指，國泰海通近期股價跑贏同業，獲新華保險增持或為重要推動因素，惟該行對國泰海通即將公佈的2026年第三季業績持審慎態度，因公司股票投資敞口相對較高，投資收益或較同業更受近期市場疲弱影響。該行認為，資金流帶動的買盤或可維持近端跑贏，但第三季業績公佈後，盈利相關憂慮或成為更大焦點，近期股價跑贏幅度或有所收斂。該行維持國泰海通H股“增持”評級及目標價18港元。
-
----
-
-### 2026-10-13 14:40:25  #MKT News
-
-Qatar's Emir said maintaining the security and sovereignty of Gulf states is non-negotiable.
-
----
-
-### 2026-10-13 14:40:18  #Trading Economics #Markets #commodity #Importance 0
-
-UK Gas Hits Near 4-year High — UK Gas increased to 211.26 GBp/thm, the highest since December 2022. Over the past 4 weeks, Natural Gas UK gained 2.77%, and in the last 12 months, it increased 159.41%.
-
----
-
-### 2026-10-13 14:39:47  #公司 #觀點
-
-花旗為靛藍航空8架空客飛機安排3.28億美元融資。
-
----
-
-### 2026-10-13 14:38:21  #央行 #市場
-
-【哈薩克央行官員：堅戈走強令外資興趣降溫】哈薩克央行副行長阿莉婭·莫爾達別科娃稱，堅戈兌美元漲幅位居全球前列，市場對哈薩克資產的外資吸引力隨之下降。莫爾達別科娃表示，堅戈走強降低了該國對機構投資者的吸引力，機構稱若堅戈小幅走弱，將考慮追加投資。今年以來堅戈兌美元升值近13%，躋身全球表現最佳貨幣之列，僅次於巴拉圭瓜拉尼與哥倫比亞比索。
 
 ---

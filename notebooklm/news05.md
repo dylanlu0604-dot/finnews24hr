@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-10-19 04:33:16_
-_本檔包含 2372 則快訊，約 476792 字_
+_更新時間：2026-10-19 06:34:15_
+_本檔包含 2356 則快訊，約 477220 字_
+
+---
+
+### 2026-10-13 14:49:00  #公司 #市場 #國際
+
+【年內9925億元資金離場，韓股遭遇外資大撤退，三星、SK海力士遭拋售】受人工智慧融資擔憂和油價上漲加劇避險情緒的影響，韓國綜合股價指數(KOSPI)已連續五個交易日下跌。曾在全球AI投資熱潮中被捧為“最牛股市”的韓國股市，正遭遇外資大撤退。13日，韓國KOSPI指數收跌5.46%報6035.35點，創8月份以來收盤新低。其中SK海力士跌超10%。韓國《首爾經濟》報道稱，13日上午韓國股市暴跌，外國投資者繼續拋售三星電子和SK海力士股票。韓國《朝鮮日報》13日報道，據韓國交易所13日公佈的資料，從年初首個交易日 (1月2日) 到10月12日，外資在KOSPI市場累計淨賣出199.10萬億韓元（約合人民幣9925億元）。其中，淨賣出三星電子86.06萬億韓元（約合人民幣4290億元）、SK海力士87.14萬億韓元（約合人民幣4344億元），合計173.20萬億韓元（約合人民幣8634億元），這兩支股票的淨賣出總額佔KOSPI淨賣出總額的87%。（中新經緯）
+
+---
+
+### 2026-10-13 14:48:44  #其他
+
+【雅湖直流累計輸送電量突破1000億千瓦時】截至2026年10月11日，雅中—江西±800千伏特高壓直流輸電工程（雅湖直流）累計向江西電網輸送清潔水電突破1000億千瓦時。這條“電力大動脈”已成為全省能源保供與綠色轉型的關鍵支撐，標誌著國家“西電東送”戰略在贛落地見效。（新華財經）
+
+---
+
+### 2026-10-13 14:48:07  #MKT News #Commodities #Energy
+
+【Yahu DC cumulative deliveries exceed 100 billion kWh】As of Oct 11, 2026, the Yazhong–Jiangxi ±800 kV UHVDC project (Yahu DC) has transmitted over 100 billion kWh of clean hydropower into the Jiangxi grid. The line is cited as a key support for provincial energy security and the green transition and signals implementation of China’s West-to-East power transmission strategy in Jiangxi.
+
+---
+
+### 2026-10-13 14:48:06  #公司 #國際
+
+【華安證券：首予中國石油“買入”評級，煉化板塊有望價值重估】華安證券日前研報指出，中國石油頁岩油氣產量高增，煉化板塊有望價值重估。油價高位震盪，公司勘探板塊充分受益。美國頁岩油邊際成本持續抬升，高產量難以持續；歐佩克+自2025年4月起由減產轉向漸進式增產但節奏溫和剋制；中東地緣衝突頻發，原油重要運輸通路關閉導致斷供風險升高。在地緣衝突頻發、全球石油投資縮減、美國原油產量增幅有限的三重作用下，認為原油基本面仍將維持中高位寬幅震盪。頁岩油氣逐步起量，有望成為未來增量來源；海外煉廠加速退出，供給格局持續最佳化，景氣度有望提升。天然氣順價帶來盈利彈性，消費稅改革加強公司煉銷一體化優勢；消費稅改革深入，公司油品煉銷一體化優勢顯著。此外，公司重視股東回報，持續提高分紅率和股息率。預計公司2026-2028年歸母淨利潤分別為1839.41、1938.54、1972.16億元，對應PE分別為12、11、11倍，首次覆蓋給予“買入”評級。
+
+---
+
+### 2026-10-13 14:46:59  #行業 #觀點 #國際
+
+【美國華盛頓州議員：人工智慧不在乎你來自哪個國家，美中需要加強合作】“人工智慧並不在乎你來自哪個國家。”在接受採訪時，美國華盛頓州眾議員、美國全國州議會會議外事顧問委員會主席羅傑·古德曼說道，當前各方圍繞人工智慧的主導權、經濟主導地位和全球市場展開競爭，但人工智慧帶來的風險並不受國界限制，美國和中國需要加強合作，確保AI真正造福人類。（澎湃新聞）
+
+---
+
+### 2026-10-13 14:46:34  #國際
+
+【韓國大學入學考試首現AI眼鏡作弊】在上週末剛結束的韓國延世大學2027學年自主招生論述考試中，有學生藉助人工智慧（AI）眼鏡作弊，當場被抓。這是這種作弊方式首次在韓國大學入學考試中出現，引發各界擔憂。(新華社)
+
+---
+
+### 2026-10-13 14:46:22  #市場 #央行 #國際
+
+【天然氣價格上漲對歐元區債券的利空影響減弱】德國短端國債收益率對能源衝擊的韌性正在增強，這意味著其長期來看更有可能下行。過去一週歐洲天然氣價格持續走高，突破9月創下的多年高位。但德國收益率曲線短端波動微弱。事實上，德國兩年期國債收益率與天然氣價格的相關性，已降至伊朗衝突爆發以來最低水平。歐元區收益率曲線短端走勢愈發穩定。法國局勢動盪，且市場認為政策利率已處於中性區間上限，交易員不願加碼押注歐洲央行收緊貨幣政策。冬季來臨前庫存偏低，伊朗與烏克蘭衝突暫無明顯解決跡象，天然氣價格存在進一步上行空間。
+
+---
+
+### 2026-10-13 14:45:48  #其他
+
+【趙增連任福建省委常委、省政府黨組副書記】2026年10月13日，新福建客戶端釋出訊息，日前，中共中央批准：趙增連同志任福建省委委員、常委；福建省委決定：趙增連同志任省政府黨組副書記。（澎湃新聞）
+
+---
+
+### 2026-10-13 14:45:25  #其他
+
+【上海都市旅遊“十五五”規劃釋出：2030年旅遊收入力爭突破9000億元】在“開局起步‘十五五’”系列主題市政府新聞釋出會上，上海市文旅局黨組書記、局長趙勇介紹了最新印發實施的《上海市都市旅遊創新發展“十五五”規劃》。《規劃》錨定建設中國入境旅遊第一站、中國都市旅遊首選地、文旅深度融合示範區三大目標，提出到2030年上海旅遊收入力爭突破9000億元，入境遊客達1000萬人次以上，旅遊產業增加值佔全市GDP比重達到5%，力爭躋身全球旅遊第一方陣。
+
+---
+
+### 2026-10-13 14:45:03  #MKT News #Market Themes #AI Revolution #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+【US, European bank regulators step up AI risk checks, warn of autonomous-agent and cyberattack threats】US and European bank regulators are stepping up scrutiny of AI risks, warning that autonomous agents and AI-enabled cyberattacks could threaten global financial stability, sources said. Regulators say advances in frontier AI may force banks to make large investments in cyber-resilience, increase scrutiny of third-party tech vendors, and lead some jurisdictions to issue formal guidance. In the US, three major regulators including the Federal Reserve have queried banks about their use of advanced AI models; in Europe the Bank of England and European Central Bank are pressuring banks to strengthen recovery plans. Regulators warned the rapid pace of AI development could cause serious market disruption sooner than previously expected.
+
+---
+
+### 2026-10-13 14:45:02  #公司
+
+【阿里巴巴宋剛：AI硬體開啟互動革命，千問AI硬體已成為你的另一雙眼睛和耳朵】今日舉辦的千問AI硬體2026新品釋出會上，千問AI眼鏡N1、N1 Pro等多款新品釋出，阿里巴巴千問事業部副總裁宋剛分享指出，“AI硬體會開啟AI時代的人機互動革命，今天我們看到這個預判已經從暢想落地成為產品。”他以千問AI眼鏡新增的一系列健康運動感測器、實現眼動互動和虹膜支付等能力指出，千問AI硬體已經成為了你的另外一雙眼睛和耳朵。在他看來，千問AI的目標是成為每個人的Personal AI助理，AI穿戴是千問在物理世界的延伸，也是Personal AI技術的重要組成部分，無論你從哪裡發起需求，背後都是同一個千問，理解同一個人，延續同一個目標。（新浪科技）
+
+---
+
+### 2026-10-13 14:44:55  #MKT News
+
+【China-EU talks: 'half cut' claim on Chinese hybrid car exports reflects EU projection, not negotiation basis】China-EU talks on hybrid and electric vehicle trade used a 2025 baseline of 302,000 Chinese hybrid cars imported into the EU. The EU’s claim that China’s hybrid exports to the bloc will fall “by more than half” over four years comes from the EU extrapolating recent export growth, not from the bilateral negotiation baseline. That projected path was not the agreed reference in negotiations. Forecasts are uncertain and recent export figures were influenced by short-term market factors, so linearly extending a volatile period to predict the next four years is not reliable.
+
+---
+
+### 2026-10-13 14:44:44  #其他
+
+村田製作所正考慮追加投資，擴大多層陶瓷電容器產能，應對 AI 伺服器帶來的爆發式需求。
+
+---
+
+### 2026-10-13 14:43:50  #公司
+
+當地政府表示，三星電機將再投資18.4億美元，擴大其位於越南太原省的半導體基板產能。
+
+---
+
+### 2026-10-13 14:43:26  #MKT News #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #Treasury Yields #XAUUSD #Impact bullish
+
+【UBS: most bad news for gold already priced in】Sharon Ding, UBS head of China basic materials research, said most negative news for gold has been priced in. Gold has dropped about 5% since early September as renewed inf concerns re‑ignited bets on further Fed hikes; she said prices now reflect a clear hawkish repricing and the headwind may ease as market odds of an October Fed rate rise recede. Ding added that if upcoming data no longer supports further upward revisions to the expected policy path, there is greater room for gold to stabilize, and a continued fall in US Treasury yields could bolster a recovery.
+
+---
+
+### 2026-10-13 14:43:13  #國際
+
+【韓國開發研究院：韓國經濟復甦尚未廣泛惠及普通家庭】韓國國有智庫韓國開發研究院（KDI）週一表示，韓國經濟復甦的紅利還未廣泛傳導至家庭部門，居民購買力的修復幅度依舊有限。韓國開發研究院在月度經濟評估報告中稱：“受基礎薪資增長乏力、油價持續高企等供給端通脹壓力影響，居民購買力的復甦受到制約。”研究院指出，儘管當前韓國經濟由人工智慧產業拉動復甦，但紅利尚未普惠家庭。不過該智庫同時表示，韓國經濟整體仍保持復甦勢頭，製造業產出持續穩健增長。報告稱：“全球對 AI 基礎設施投資需求旺盛，帶動 AI 相關領域出口與裝置投資保持強勁增長。”
+
+---
+
+### 2026-10-13 14:43:00  #MKT News
+
+Qatar's Emir said commitment to dialogue and peaceful solutions does not imply compromise when defending the country.
+
+---
+
+### 2026-10-13 14:42:23  #宏觀 #行業 #其他
+
+【一線城市十月賣地進入冷靜期，開發商重算拿地賬】8·28現房銷售新政後，地方和房企都在調整土拍節奏。 公開的掛牌資訊顯示，今年10月，一線城市供地進入階段性“冷靜期”，截至目前，本月北京、上海、深圳暫無宅地出讓安排，僅廣州有少量地塊入市。此前9月，土拍市場溢價率也在降低。 業內表示，現房銷售新政對土地供需雙方都將產生較大影響。 在供應端，地方政府有望最佳化地塊出讓安排，幫助房企平衡現金流壓力。房企拿地也不能只算“麵粉”和“麵包”的差價，還要算資金佔用週期、回款節奏這本更復雜的賬。（第一財經）
+
+---
+
+### 2026-10-13 14:41:37  #公司 #觀點
+
+【小摩：國泰海通獲新華保險增持支援股價表現，維持“增持”評級】摩根大通發表研報指，國泰海通近期股價跑贏同業，獲新華保險增持或為重要推動因素，惟該行對國泰海通即將公佈的2026年第三季業績持審慎態度，因公司股票投資敞口相對較高，投資收益或較同業更受近期市場疲弱影響。該行認為，資金流帶動的買盤或可維持近端跑贏，但第三季業績公佈後，盈利相關憂慮或成為更大焦點，近期股價跑贏幅度或有所收斂。該行維持國泰海通H股“增持”評級及目標價18港元。
+
+---
+
+### 2026-10-13 14:40:25  #MKT News
+
+Qatar's Emir said maintaining the security and sovereignty of Gulf states is non-negotiable.
+
+---
+
+### 2026-10-13 14:40:18  #Trading Economics #Markets #commodity #Importance 0
+
+UK Gas Hits Near 4-year High — UK Gas increased to 211.26 GBp/thm, the highest since December 2022. Over the past 4 weeks, Natural Gas UK gained 2.77%, and in the last 12 months, it increased 159.41%.
+
+---
+
+### 2026-10-13 14:39:47  #公司 #觀點
+
+花旗為靛藍航空8架空客飛機安排3.28億美元融資。
+
+---
+
+### 2026-10-13 14:38:21  #央行 #市場
+
+【哈薩克央行官員：堅戈走強令外資興趣降溫】哈薩克央行副行長阿莉婭·莫爾達別科娃稱，堅戈兌美元漲幅位居全球前列，市場對哈薩克資產的外資吸引力隨之下降。莫爾達別科娃表示，堅戈走強降低了該國對機構投資者的吸引力，機構稱若堅戈小幅走弱，將考慮追加投資。今年以來堅戈兌美元升值近13%，躋身全球表現最佳貨幣之列，僅次於巴拉圭瓜拉尼與哥倫比亞比索。
 
 ---
 
@@ -14120,239 +14258,5 @@ New Zealand Stocks Start the Week Muted — The NZX 50 was almost flat, trading 
 ### 2026-10-12 06:36:46  #其他
 
 10月12日6時30分，重建後的皇崗口岸正式開通，實施“一地兩檢”安排及“合作查驗、一次放行”全新通關模式，旅客出入境更加便利。（新華社）
-
----
-
-### 2026-10-12 06:31:58  #公司 #國際
-
-【美聯邦航空局提醒美航空公司注意沙特領空安全威脅】當地時間10月11日，美國聯邦航空管理局（FAA）通知美國各航空公司，在飛往或飛越沙烏地阿拉伯時務必保持謹慎，理由是持續的軍事活動及導航系統干擾構成了安全威脅。（央視新聞）
-
----
-
-### 2026-10-12 06:31:53  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Hang Seng Index #DXY #Impact bearish
-
-【Shenzhen–Hong Kong Huanggang port opens, begins 24-hour passenger and vehicle clearance】At 06:30 on the 12th, Shenzhen–Hong Kong Huanggang port officially opened, offering 24-hour border clearance for passengers and passenger vehicles. Passenger inspection at the Shenzhen Huanggang temporary inspection facility and at Hong Kong’s Lok Ma Chau control point has been suspended.
-
----
-
-### 2026-10-12 06:22:12  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
-
-WTI crude extends early-session gains to 1.00%, trading at $91.88/bbl.
-
----
-
-### 2026-10-12 06:21:30  #市場 #焦點
-
-紐約期金失守4210美元/盎司，日內跌0.15%。
-
----
-
-### 2026-10-12 06:18:11  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Saudi General Authority of Civil Aviation said Riyadh's King Khalid International Airport was attacked on Sunday, killing one and injuring 11.
-
----
-
-### 2026-10-12 06:16:51  #其他
-
-沙特民航部門表示，週日利雅得哈立德國王國際機場遇襲事件造成1人死亡、11人受傷。
-
----
-
-### 2026-10-12 06:16:12  #宏觀 #國際
-
-美國國務院：美國公民應注意沙烏地阿拉伯航班可能被取消以及領空關閉的可能性。
-
----
-
-### 2026-10-12 06:15:46  #國際
-
-伊朗革命衛隊發言人侯賽因·穆赫比周日在時間平臺釋出了一張導彈陣地瞄準一艘航空母艦的圖片，並配文“我們正在等待”。此前，美國“西奧多·羅斯福”號航母打擊群正駛向中東。“羅斯福”號於9月27日從聖迭戈出發，預計將部署至該地區，目前“喬治·華盛頓”號正在該地區活動。
-
----
-
-### 2026-10-12 06:07:40  #市場 #焦點 #國際
-
-【納斯達克期貨走高，原油小幅上漲】週一早盤，美國股指期貨小幅走高，原油合約溫和上漲。費城半導體指數上週末收跌，亞洲晶片企業相關資產或將走弱。
-
----
-
-### 2026-10-12 06:07:01  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
-
-Former U.S. Vice President Harris said the surge in U.S. diesel and gasoline prices is driven by Trump and his war on Iran. She called his latest ploy, selling fuel‑supply solutions to ally Putin, an act of weakness that funnels funds to Russia's military while doing nothing to ease cost burdens on U.S. households.
-
----
-
-### 2026-10-12 06:03:48  #MKT News
-
-CENC reported a M5.3 earthquake struck Indonesia’s Sulawesi island at 05:34 on Oct 12; hypocenter depth 110 km.
-
----
-
-### 2026-10-12 06:02:29  #宏觀 #國際
-
-美國國務院敦促，使用沙特機場時需“高度謹慎”。
-
----
-
-### 2026-10-12 06:01:58  #MKT News #Commodities #Precious Metals #XAUUSD
-
-Spot gold opened slightly lower on Monday, trading at $4,193/oz. Spot silver opened slightly higher, at $60.85/oz.
-
----
-
-### 2026-10-12 06:01:40  #國際
-
-特朗普表示，他將在俄亥俄州之後前往阿拉斯加。
-
----
-
-### 2026-10-12 06:01:25  #國際
-
-中國地震臺網正式測定：10月12日05時34分在印尼蘇拉威西島（北緯0.50度，東經121.85度）發生5.3級地震，震源深度110千米。
-
----
-
-### 2026-10-12 06:01:18  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI and Brent opened 0.3% higher on Monday at $91.28/bbl and $103.06/bbl, respectively.
-
----
-
-### 2026-10-12 06:00:19  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-U.S. stock index futures opened marginally higher on Monday.
-
----
-
-### 2026-10-12 05:59:11  #國際
-
-【特朗普宣佈凱蒂·扎卡里亞將正式出任白宮新聞秘書】當地時間10月11日，美國總統特朗普在社交媒體平臺“真實社交”上表示，他很高興地宣佈，凱蒂·扎卡里亞將於12日正式出任白宮新聞秘書，並於13日上午9時30分在白宮新聞簡報室舉行首次新聞釋出會。據瞭解，扎卡里亞曾任國土安全部發言人兼公共事務副助理部長，經常在福克斯新聞頻道、大全新聞網等保守派媒體擔任評論員。白宮新聞秘書這一職務在萊維特8月底離職後一直空缺。（央視新聞）
-
----
-
-### 2026-10-12 05:58:19  #國際
-
-特朗普：明天將前往俄亥俄州揚斯敦參加（選舉）集會。
-
----
-
-### 2026-10-12 05:40:05  #MKT News
-
-Trump said Katie Zacharia will formally become White House press secretary tomorrow (12th ET), Columbus Day, and will hold her first briefing Tuesday at 9:30 a.m. ET in the White House press briefing room. He said she has been with him from the start and will do an outstanding job.
-
----
-
-### 2026-10-12 05:39:25  #公司 #國際
-
-美國聯邦航空管理局敦促美國航空公司飛往沙烏地阿拉伯或在沙烏地阿拉伯上空飛行時保持警惕。
-
----
-
-### 2026-10-12 05:39:13  #MKT News
-
-The FAA urged U.S. carriers to exercise caution when flying to Saudi Arabia or over Saudi airspace.
-
----
-
-### 2026-10-12 05:38:28  #國際
-
-特朗普：扎卡里亞將於週二舉行首場介紹性新聞簡報會。
-
----
-
-### 2026-10-12 05:37:43  #國際
-
-特朗普：扎卡里亞將於明日就任新聞秘書。
-
----
-
-### 2026-10-12 05:33:49  #MKT News #DXY #Impact bullish #NZDUSD #Impact bearish
-
-At the FX open, the dollar index (DXY) rose 0.1% to 102.3. NZD/USD fell 0.25% to just below 0.56.
-
----
-
-### 2026-10-12 05:27:15  #國際
-
-伊朗革命衛隊海軍表示，一艘載有75萬桶原油的油輪週日觸雷起火，成為當天在霍爾木茲海峽觸雷的第三艘油輪。
-
----
-
-### 2026-10-12 05:23:53  #MKT News #Brent #Impact bullish #WTI #DXY
-
-【Tanker struck by drone off Sohar, Oman, UKMTO says】On Oct 11 local time the UK Maritime Trade Operations (UKMTO) reported a tanker at an anchorage off Sohar, Oman, was struck by an unmanned aerial vehicle. UKMTO initially received a report of a security incident and has formally classified it as an attack. Local authorities are assisting crew evacuation. The extent of damage to the vessel and any environmental impact are unclear; the incident is under investigation.
-
----
-
-### 2026-10-12 05:23:21  #其他
-
-【一油輪在阿曼附近海域遭無人機襲擊】當地時間10月11日，英國海上貿易行動辦公室（UKMTO）釋出通報稱，一艘油輪在阿曼蘇哈爾港附近錨地遭到無人機襲擊。通報稱，UKMTO最初接到一艘油輪發生安全事件的報告。隨後，經確認，該油輪遭到一架無人駕駛航空器襲擊，UKMTO已將事件正式歸類為“襲擊事件”。目前，當地有關部門正在協助船員撤離。油輪受損程度及事件可能造成的環境影響尚不清楚，事件仍在調查中。（央視新聞）
-
----
-
-### 2026-10-12 05:20:29  #其他
-
-英國駐沙烏地阿拉伯大使館在社交平臺平臺發帖建議英國公民，除必要出行外，避免前往沙烏地阿拉伯吉達和達曼，並避免前往除麥地那機場外的所有沙特機場。
-
----
-
-### 2026-10-12 05:20:07  #MKT News #Copper #Impact bullish
-
-【Mudslide traps two at Codelco's El Teniente mine】Codelco said a mudslide driven by severe weather in central Chile struck the open‑pit Cráter Norte area of its El Teniente mine at about 1400 local time on Sunday, trapping two workers. Three workers were in the area; one was rescued and taken to hospital, the locations of the other two have been identified and rescue operations are ongoing. The incident follows a fatal accident at another Codelco‑operated mine less than two weeks ago. The episode is the latest setback for Chile, the world’s largest copper producer, which is contending with output declines, operational disruptions and rising labour tensions while copper trades near record highs.
-
----
-
-### 2026-10-12 05:17:29  #其他
-
-英國建議不要前往達曼以及沙烏地阿拉伯的大部分機場。
-
----
-
-### 2026-10-12 05:05:42  #MKT News #Brent #Impact bullish #WTI
-
-UKMTO reclassifies the incident at the Sohar anchorage in Oman as an attack. A tanker was struck by a drone; local authorities are assisting with crew evacuation.
-
----
-
-### 2026-10-12 05:02:57  #其他
-
-阿斯利康Efzimfotase alfa銷售峰值預測有望達到50億美元，高管認為這款骨病藥物有望獲批。
-
----
-
-### 2026-10-12 05:00:15  #其他
-
-英國石油退出利雅得能源會議，此前沙特發生機場襲擊事件。
-
----
-
-### 2026-10-12 04:59:35  #國際
-
-【伊朗外長：願為政治解決葉門衝突提供一切幫助】當地時間11日晚，伊朗外長阿拉格齊與沙特外交大臣費薩爾通電話，就當前地區局勢交換意見。阿拉格齊對地區緊張局勢升級表示關切，並強調堅持軍事手段而忽視政治解決只會使當前局勢更加複雜。阿拉格齊強調，該地區危機沒有軍事解決途徑，伊朗願提供一切幫助，旨在促成沙特和葉門之間的對話和最終達成政治解決方案。（央視新聞）
-
----
-
-### 2026-10-12 04:59:28  #MKT News
-
-【Iran foreign minister offers assistance to broker political settlement in Yemen】On the evening of the 11th local time, Iranian Foreign Minister Araghchi spoke by phone with Saudi Foreign Minister Faisal about the regional situation. Araghchi expressed concern at rising tensions, warned that relying on military measures rather than political solutions would complicate the situation, said there is no military solution to the crisis, and offered Iran's full assistance to facilitate dialogue between Saudi Arabia and Yemen toward a political settlement.
-
----
-
-### 2026-10-12 04:56:14  #國際
-
-【英國：不支援美俄就俄提供柴油達成一致】英國國防大臣韋斯·斯特里廷說，英國不支援美俄兩國領導人就俄羅斯向美國及全球市場提供柴油達成一致。（新華社）
-
----
-
-### 2026-10-12 04:47:15  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-Iranian Foreign Minister Araghchi told Saudi Arabia’s foreign minister in a call that military action rather than diplomacy would further complicate the situation and said Iran is willing to help facilitate dialogue between Riyadh and the Houthi movement to seek a political settlement.
-
----
-
-### 2026-10-12 04:45:22  #MKT News
-
-Saudi Energy Ministry said Saudi Minister of Industry and Mineral Resources and Kuwait's Minister of Electricity, Water and Renewable Energy signed a memorandum of understanding on cooperation in the power and renewables sector.
 
 ---
