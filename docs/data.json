@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-19 01:30:28",
-  "count": 12533,
+  "updated": "2026-10-19 01:34:16",
+  "count": 12532,
   "items": [
+    {
+      "id": "5152540",
+      "time": "2026-10-19 01:33:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄稱打擊烏軍用設施 烏稱襲擊俄石油碼頭】俄羅斯國防部18日釋出戰報稱，過去24小時，俄軍打擊了烏軍的交通基礎設施、軍事技術物資倉庫、無人機組裝車間、儲存和發射點等。俄國防部表示，俄軍當天還精準打擊了一艘大型乾貨船，並在黑海水域摧毀一艘敵方無人艇。同一天，聖彼得堡市市長別格洛夫說，該市遭大規模無人機襲擊，已造成1人死亡，5人受傷。烏空軍18日表示，從17日18時至18日8時，已擊落或壓制152架俄軍無人機。烏防務企業“燃點”公司18日表示，烏軍使用無人機襲擊了俄聖彼得堡市的石油碼頭、一處油庫和一個資料中心，油庫和碼頭區域發生火災，資料中心遭到嚴重破壞。此外，烏總統澤連斯基18日稱，俄軍17日晚對文尼察州、日托米爾州等地的變電站發動襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a15012-2eba-7ee0-a8d2-af5064c519ab",
+      "time": "2026-10-19 01:32:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Houthi movement says Saudi carried out 110 airstrikes in 24 hours, causing more than 30 casualties】Houthi military spokesman Yahya Saree said Saudi warplanes launched 110 airstrikes and missile strikes in the past 24 hours, striking civilian targets in Sanaa and the provinces of Hodeidah, Taiz, Amran, Hajjah, Saada, Jawf, Dhale and Marib. He said Riyadh deployed F-15s and Typhoon jets from Khamis Mushait and Taif and fired missiles from Najran, causing more than 30 killed or wounded, mostly women and children. Saree said the total number of air and missile strikes since Saudi Arabia's latest escalation has reached 2,652."
+    },
     {
       "id": "5152539",
       "time": "2026-10-19 01:26:40",
@@ -114696,34 +114717,6 @@
         "國際"
       ],
       "text": "北約一名將軍表示，對烏克蘭的援助將遏制普京對歐洲的威脅，俄羅斯必須認識到其目標“無法實現”。"
-    },
-    {
-      "id": "5137938",
-      "time": "2026-10-12 01:33:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：特朗普發表停火宣告後，俄羅斯襲擊了烏克蘭發電廠。"
-    },
-    {
-      "id": "mkt:01a12c04-f849-7ee0-a82a-f6d4d9adc8fe",
-      "time": "2026-10-12 01:31:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【IRGC says another supertanker struck a mine in Strait of Hormuz】Iran’s Islamic Revolutionary Guard Corps (IRGC) navy public relations said a second supertanker struck a sea mine in the southern Strait of Hormuz. The IRGC said the vessel, carrying crude and preparing to exit the strait, hit a mine this evening, causing an engine-room explosion and fire. The statement accused the tanker of shutting all navigation systems and entering an unauthorized channel in violation of transit rules. Since yesterday, the IRGC said this is the third tanker alleged to have struck a mine and caught fire after transiting unauthorized waters."
-    },
-    {
-      "id": "5137937",
-      "time": "2026-10-12 01:31:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：一艘違規巨型油輪在霍爾木茲海峽南部觸雷後發生爆炸並起火。"
     }
   ]
 }
