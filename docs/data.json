@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-18 13:40:22",
-  "count": 12538,
+  "updated": "2026-10-18 13:44:16",
+  "count": 12535,
   "items": [
+    {
+      "id": "mkt:01a14d86-2ac1-7ee0-a8ce-e89083125188",
+      "time": "2026-10-18 13:40:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【St. Petersburg oil terminal hit by Ukrainian drones, fire: mayor】St. Petersburg's oil terminal was struck by Ukrainian drones in the early hours, igniting a fire, Mayor Beglov said on social media. No casualties have been reported. Beglov said civilian infrastructure fires occurred across four city districts and emergency services are working on scene. For security reasons, operations at Pulkovo airport have been restricted and mobile internet in St. Petersburg may be interrupted. RIA reported the data center for the Russian social platform 'Kontakt' in Leningrad region was also attacked."
+    },
     {
       "id": "5152211",
       "time": "2026-10-18 13:39:18",
@@ -114774,43 +114786,6 @@
         "其他"
       ],
       "text": "【利太智藥完成近5000萬元種子輪融資】10月10日，利太智藥宣佈已完成近5000萬元種子輪融資。本輪融資由訊飛創投、L2F光源創業者基金及知名產業方聯合投資，光源資本擔任獨家財務顧問。本輪資金將主要用於核心管線研發、算力投入、專利佈局、人才招募及日常運營。"
-    },
-    {
-      "id": "mkt:01a1297d-4726-7ee0-a827-ab0e34cf3f5b",
-      "time": "2026-10-11 13:43:58",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Russian Defence Ministry says drones struck Ukrainian data center in Odesa】The Russian Defence Ministry said on Oct. 11 that Russian drones in the early hours struck a Ukrainian military data center in Odesa used to process, transmit and store information, and hit a cargo ship carrying military supplies at the port of Chernomorsk."
-    },
-    {
-      "id": "5137436",
-      "time": "2026-10-11 13:43:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱擊中烏克蘭南部一資料中心】俄羅斯國防部10月11日通報，俄軍無人機當天凌晨擊中烏克蘭南部敖德薩市1處烏軍用於處理、傳輸和儲存資訊的資料中心以及切爾諾莫爾斯克港1艘運送軍用物資的貨船。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a1297a-5f61-7ee0-a827-a57dd8bce54a",
-      "time": "2026-10-11 13:40:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwait Peninsula Airlines said its flights to Riyadh were affected after King Khalid International Airport suspended operations."
-    },
-    {
-      "id": "5137435",
-      "time": "2026-10-11 13:40:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【馬斯克親自演示用Grok網購】馬斯克：我剛剛讓Grok去查詢最適合低齡小朋友、趣味性最高的樂高星球大戰套裝，並且直接下單。就這麼簡單。（馬斯克釋出的截圖顯示，Grok稱樂高訂單提交成功，已使用美國運通卡支付，收據會傳送到郵箱，商品發貨後會同步物流單號。）"
     }
   ]
 }

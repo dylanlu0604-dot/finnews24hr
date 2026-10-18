@@ -1,7 +1,19 @@
 {
   "date": "2026-10-18",
-  "count": 309,
+  "count": 310,
   "items": [
+    {
+      "id": "mkt:01a14d86-2ac1-7ee0-a8ce-e89083125188",
+      "time": "2026-10-18 13:40:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【St. Petersburg oil terminal hit by Ukrainian drones, fire: mayor】St. Petersburg's oil terminal was struck by Ukrainian drones in the early hours, igniting a fire, Mayor Beglov said on social media. No casualties have been reported. Beglov said civilian infrastructure fires occurred across four city districts and emergency services are working on scene. For security reasons, operations at Pulkovo airport have been restricted and mobile internet in St. Petersburg may be interrupted. RIA reported the data center for the Russian social platform 'Kontakt' in Leningrad region was also attacked."
+    },
     {
       "id": "5152211",
       "time": "2026-10-18 13:39:18",
