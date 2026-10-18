@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-19 06:56:49",
+  "updated": "2026-10-19 07:00:47",
   "count": 12531,
   "items": [
+    {
+      "id": "mkt:01a1513b-b75f-7ee0-a8d3-f61a2f1db40c",
+      "time": "2026-10-19 06:57:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【COP17 to the Convention on Biological Diversity opens in Yerevan】The 17th meeting of the Conference of the Parties to the Convention on Biological Diversity (COP17) opened on the 18th in Yerevan, Armenia and will conduct the first global collective review of implementation of the Kunming-Montreal Global Biodiversity Framework, seeking to drive progress toward its 2030 targets."
+    },
     {
       "id": "5152634",
       "time": "2026-10-19 06:53:11",
@@ -114665,19 +114673,6 @@
         "國際"
       ],
       "text": "【印尼蘇拉威西島發生5.3級地震】中國地震臺網正式測定：10月12日5時34分在印尼蘇拉威西島（北緯0.50度，東經121.85度）發生5.3級地震，震源深度110千米。"
-    },
-    {
-      "id": "mkt:01a12d2f-8208-7ee0-a82c-951fca7f04b5",
-      "time": "2026-10-12 06:57:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Attacks on Saudi airport, tanker near Strait of Hormuz raise supply concerns; oil up in early trade】Attacks on a Saudi airport and a tanker near the Strait of Hormuz heightened supply-risk concerns, pushing oil higher in early trade. WTI rose as much as 1.0% to $91.88/bbl; Brent climbed to $103.70/bbl. Year-to-date global benchmark oil prices have gained over 70% amid sustained US-Iran hostilities with no clear resolution. Although Gulf producers have largely restored exports via the Strait to near pre-conflict levels, a surge in tanker attacks and rising regional tensions could threaten flows. Traders also monitored Hurricane Isaias, which caused power outages across three US states and at least four deaths; the US Department of Energy said it will approve emergency swaps of up to 4 mln barrels from the Strategic Petroleum Reserve to ease hurricane-related supply disruptions."
     }
   ]
 }

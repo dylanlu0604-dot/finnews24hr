@@ -1,7 +1,15 @@
 {
   "date": "2026-10-19",
-  "count": 190,
+  "count": 191,
   "items": [
+    {
+      "id": "mkt:01a1513b-b75f-7ee0-a8d3-f61a2f1db40c",
+      "time": "2026-10-19 06:57:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【COP17 to the Convention on Biological Diversity opens in Yerevan】The 17th meeting of the Conference of the Parties to the Convention on Biological Diversity (COP17) opened on the 18th in Yerevan, Armenia and will conduct the first global collective review of implementation of the Kunming-Montreal Global Biodiversity Framework, seeking to drive progress toward its 2030 targets."
+    },
     {
       "id": "5152634",
       "time": "2026-10-19 06:53:11",
