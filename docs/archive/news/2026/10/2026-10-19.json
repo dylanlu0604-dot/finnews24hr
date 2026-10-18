@@ -1,7 +1,157 @@
 {
   "date": "2026-10-19",
-  "count": 72,
+  "count": 90,
   "items": [
+    {
+      "id": "5152573",
+      "time": "2026-10-19 03:28:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗武裝部隊總參謀長對美國和以色列政權領導人稱：我們正倒數計時，等待你們做出愚蠢決定。"
+    },
+    {
+      "id": "5152572",
+      "time": "2026-10-19 03:27:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "奧地利航空公司從特拉維夫飛往維也納的航班在飛機上發現可疑物體後改變航線，並降落在保加利亞索非亞。"
+    },
+    {
+      "id": "5152571",
+      "time": "2026-10-19 03:19:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧表示，特朗普會利用最長60天時間評估對俄製裁及關稅帶來的經濟影響。"
+    },
+    {
+      "id": "mkt:01a15065-73ca-7ee0-a8d2-db54af90a340",
+      "time": "2026-10-19 03:03:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy says Trump is pressuring Ukraine to surrender to Russia】Ukrainian President Zelenskiy accused U.S. President Trump of pressing Kyiv to surrender to Russia, saying Trump has conditioned additional Patriot air-defense missiles on Kyiv stopping strikes on Russian oil refineries. Zelenskiy said Washington has also taken unfriendly steps including deliberate throttling of Starlink bandwidth used by Ukrainian forces and delays in delivery of scarce Patriot interceptors. He said he believes measures have been taken to persuade Ukraine to capitulate and that it appears some U.S. partners may favor ending the war faster even at Ukraine’s expense."
+    },
+    {
+      "id": "mkt:01a15058-a8b5-7ee0-a8d2-d68a0c7de566",
+      "time": "2026-10-19 02:49:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Civil Defense said the danger alert in Abha has been lifted."
+    },
+    {
+      "id": "5152569",
+      "time": "2026-10-19 02:48:57",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【黑山總理斯帕伊奇會見王毅】18日，黑山總理斯帕伊奇在波德戈裡察會見中共中央政治局委員、外交部長王毅。斯帕伊奇請王毅轉達對中國領導人的誠摯問候，表示今年6月赴華參會得到中方熱情接待，今天中國外長來訪，都體現了中方對黑中關係的重視。黑中兩國有著共同的歷史記憶和傳統友誼，第二次世界大戰期間都曾抵抗法西斯和外來侵略。黑方高度重視中國的大國地位和影響，讚賞中國在中東戰事中以負責任態度抑制全球油價上漲，幫助黑山等中小國家渡過能源危機，體現了大國責任與擔當。（新華社）"
+    },
+    {
+      "id": "5152568",
+      "time": "2026-10-19 02:45:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門稱阿卜哈的危險已解除。"
+    },
+    {
+      "id": "mkt:01a15053-f73a-7ee0-a8d2-cd005baefc99",
+      "time": "2026-10-19 02:44:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an alert about a possible threat in Abha."
+    },
+    {
+      "id": "5152567",
+      "time": "2026-10-19 02:44:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門警告阿卜哈存在潛在危險。"
+    },
+    {
+      "id": "mkt:01a15050-6bf0-7ee0-a8d2-c7a723646af6",
+      "time": "2026-10-19 02:40:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Macron condemns violence across multiple French cities】On Oct 18 local time President Macron, in a televised address, condemned violent incidents that occurred across multiple French cities on Oct 17, saying no justification exists for the actions. He said Prime Minister Le Cornu will chair a crisis response meeting on Oct 19 to coordinate rapid aid for affected businesses and residents."
+    },
+    {
+      "id": "5152566",
+      "time": "2026-10-19 02:35:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國總統譴責該國多地發生的暴力事件】當地時間10月18日，法國總統馬克龍發表電視講話時，譴責17日法國多地發生的暴力事件。他強調，任何理由都不能為這些行為開脫。此外，馬克龍在講話中稱，法國總理勒科爾尼將於19日主持危機應對會議，協調儘快提供援助，幫助受影響的商戶及民眾。（央視新聞）"
+    },
+    {
+      "id": "5152565",
+      "time": "2026-10-19 02:34:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍在法國發生暴力騷亂後表示：我們都感到憤怒和羞恥，那些試圖推翻共和國的人將付出代價。"
+    },
+    {
+      "id": "5152564",
+      "time": "2026-10-19 02:28:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【江西宜春成立核查調查組 對涉“產品溯源遊”問題開展調查】10月18日，總檯《財經調查》欄目曝光老年人保健品虛假宣傳、會議營銷等“坑老騙老”問題。一些機構打著“產品溯源活動”的旗號，精準鎖定老年群體，以參觀生產企業、產品溯源為噱頭，在封閉場景下辦起了“會銷”活動，把普通產品包裝成“神藥”高價兜售。其中涉及江西省宜春市溫湯鎮以及樟樹市。節目播出後，宜春市成立由市文廣旅局、市市場監管局、市公安局及屬地政府等組成的核查調查組，連夜開展核查調查等工作。（央視新聞）"
+    },
+    {
+      "id": "5152563",
+      "time": "2026-10-19 02:26:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國《生物多樣性公約》第十七次締約方大會開幕】當地時間10月18日傍晚，《生物多樣性公約》第十七次締約方大會開幕式在亞美尼亞首都埃裡溫舉行。大會將於19日正式開啟，預計將於30日結束。此次會議將對“昆明-蒙特利爾全球生物多樣性框架”，也就是“昆蒙框架”的落實情況，開展審查工作。（央視新聞）"
+    },
+    {
+      "id": "5152562",
+      "time": "2026-10-19 02:25:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍通報，海法地區將於週一上午開啟軍事演習，演習持續至週二晚間。演習期間預計會出現部隊、車輛及海軍活動增多的情況，並伴有槍聲與爆破聲響。"
+    },
+    {
+      "id": "5152561",
+      "time": "2026-10-19 02:23:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【澤連斯基：特朗普正逼迫烏克蘭向俄羅斯投降】烏克蘭總統澤連斯基指責特朗普試圖向基輔施壓，迫使其向俄羅斯投降，這場與美國總統之間持續一週的爭執進一步升級。澤連斯基提出一項新提議：停止打擊俄羅斯煉油廠，以此換取更多“愛國者”防空導彈的交付。他表示，“我們已經為這些武器付過錢了”，但美方遲遲不交貨。澤連斯基稱，美國中期選舉結束後，烏美關係可能改善，他表示“選舉期間政治非常具有攻擊性”，“選舉結束後生活還要繼續，我相信局面會平靜下來”。"
+    },
+    {
+      "id": "5152560",
+      "time": "2026-10-19 02:20:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：如果美國提供更多攔截彈，將不會打擊煉油廠。"
+    },
+    {
+      "id": "5152559",
+      "time": "2026-10-19 02:20:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "澤連斯基稱，特朗普正推動烏克蘭向俄羅斯投降。"
+    },
     {
       "id": "5152558",
       "time": "2026-10-19 02:17:09",
