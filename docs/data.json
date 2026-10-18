@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-19 01:26:43",
+  "updated": "2026-10-19 01:30:28",
   "count": 12533,
   "items": [
+    {
+      "id": "5152539",
+      "time": "2026-10-19 01:26:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩副總理塔裡克·米特里表示，各方已就以軍逐步撤出黎巴嫩領土達成一致，但該安排尚未得到落實。"
+    },
+    {
+      "id": "5152538",
+      "time": "2026-10-19 01:26:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩副總理塔裡克·米特里表示，華盛頓尚未對以色列施加足夠壓力，以促使其履行義務。"
+    },
+    {
+      "id": "5152537",
+      "time": "2026-10-19 01:26:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列對黎巴嫩南部瓦迪薩盧基地區郊區發動空襲。"
+    },
     {
       "id": "5152536",
       "time": "2026-10-19 01:25:42",
@@ -114700,47 +114724,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊：一艘違規巨型油輪在霍爾木茲海峽南部觸雷後發生爆炸並起火。"
-    },
-    {
-      "id": "mkt:01a12c03-4f83-7ee0-a82a-ea0942f846d3",
-      "time": "2026-10-12 01:29:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Ukrainian President Zelenskiy said Ukraine is preparing to open EU accession negotiation clusters and aims to start talks on all remaining chapters by the end of this year."
-    },
-    {
-      "id": "mkt:01a12c03-29bb-7ee0-a82a-e17e79e7babd",
-      "time": "2026-10-12 01:29:27",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Ukrainian President Zelenskiy said he held detailed talks with European Commission President von der Leyen, thanked her for a recent €1.24bn defense aid payment Ukraine has received, and said she confirmed roughly €3bn in military assistance could be disbursed as early as next week. Both sides will send teams to discuss next joint actions and coordination."
-    },
-    {
-      "id": "mkt:01a12c02-11ae-7ee0-a82a-d9c9c2cc789c",
-      "time": "2026-10-12 01:28:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【FT: Trump administration threatens to cut Ukraine weapons procurement, intelligence sharing to press Kyiv to halt strikes on Russian refineries】The Financial Times, citing European officials, reports the Trump administration is threatening to suspend use of the Priority Ukraine Requirements List (PURL) — the US mechanism for procuring weapons for Ukraine — and to curtail intelligence sharing to pressure Kyiv to stop strikes on Russian refineries and other energy infrastructure. US officials have been lobbying European capitals and Kyiv; several European officials and Zelenskiy military adviser Pavlo Palisa said they received calls, and others were briefed on the outreach."
     }
   ]
 }
