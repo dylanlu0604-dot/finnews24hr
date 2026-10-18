@@ -1,7 +1,42 @@
 {
   "date": "2026-10-18",
-  "count": 323,
+  "count": 327,
   "items": [
+    {
+      "id": "mkt:01a14db4-29be-7ee0-a8cf-0e2b0690c7a4",
+      "time": "2026-10-18 14:30:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Lithuania's National Crisis Management Centre reported discovery of suspected drone wreckage near Juodžionys village; the device may have entered Lithuanian airspace from the direction of Poland."
+    },
+    {
+      "id": "5152224",
+      "time": "2026-10-18 14:29:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【雀巢、聯合利華因虛假健康宣傳面臨印度監管調查】印度食品監管機構向印度雀巢公司、印度斯坦聯合利華公司下發通知，指控二者在營養補充劑方面存在誤導性宣傳，繼續推進全國食品安全專項整治行動。印度食品安全與標準管理局在 X 平臺發文稱，雀巢的 “Resource 腎力香草味粉劑” 本是用於輔助調理病症的膳食補充劑，但該產品既未事先取得審批，也未標註產品是否為素食適用。監管機構表示，兩家企業均違反相關法規，要求廠商作出回應。"
+    },
+    {
+      "id": "5152223",
+      "time": "2026-10-18 14:28:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟取消與Nscale的英國資料中心交易。"
+    },
+    {
+      "id": "5152222",
+      "time": "2026-10-18 14:27:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "立陶宛國家危機管理中心表示，在尤奧迪奧尼斯村附近發現可能的無人機殘骸，該無人機可能是從波蘭進入立陶宛的。"
+    },
     {
       "id": "5152221",
       "time": "2026-10-18 14:19:11",
