@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-18 14:46:22",
-  "count": 12532,
+  "updated": "2026-10-18 14:50:17",
+  "count": 12533,
   "items": [
+    {
+      "id": "mkt:01a14dc3-c0cb-7ee0-a8cf-30cf13e5c4b2",
+      "time": "2026-10-18 14:47:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "OZON.O",
+        "Impact bearish"
+      ],
+      "text": "Russian e-commerce platform Ozon said a logistics hub in St. Petersburg caught fire after a drone attack."
+    },
     {
       "id": "mkt:01a14dc2-77db-7ee0-a8cf-2e0515d60a3d",
       "time": "2026-10-18 14:45:52",
