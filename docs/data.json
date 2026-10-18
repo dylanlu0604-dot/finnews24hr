@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-19 06:45:29",
+  "updated": "2026-10-19 06:49:17",
   "count": 12530,
   "items": [
+    {
+      "id": "te:economy:592893",
+      "time": "2026-10-19 06:45:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "New Zealand Imports Grow 17.7% in September — Imports to New Zealand rose 17.7% year-on-year to NZD 8.44 billion in September 2026, following a downwardly revised 13.2% increase in the previous month."
+    },
     {
       "id": "5152632",
       "time": "2026-10-19 06:43:59",
@@ -114654,14 +114666,6 @@
         "其他"
       ],
       "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 17:45 2026年諾貝爾經濟學獎公佈；\n② 可能釋出 中國9月金融資料；\n③ 全天 國際貨幣基金組織(IMF)與世界銀行年會在曼谷舉行，至18日；\n④ 次日00:10 2026年FOMC票委、克利夫蘭聯儲主席哈瑪克發表講話。"
-    },
-    {
-      "id": "5138088",
-      "time": "2026-10-12 06:48:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "塞爾維亞前總統亞歷山大·武契奇表示，莫斯科與華盛頓就俄羅斯柴油出口達成的協議，將在全球事務中帶來戰略性變革。"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "date": "2026-10-19",
-  "count": 185,
+  "count": 186,
   "items": [
+    {
+      "id": "te:economy:592893",
+      "time": "2026-10-19 06:45:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "New Zealand Imports Grow 17.7% in September — Imports to New Zealand rose 17.7% year-on-year to NZD 8.44 billion in September 2026, following a downwardly revised 13.2% increase in the previous month."
+    },
     {
       "id": "5152632",
       "time": "2026-10-19 06:43:59",
