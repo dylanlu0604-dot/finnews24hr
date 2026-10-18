@@ -1,7 +1,387 @@
 {
-  "updated": "2026-10-19 04:44:46",
-  "count": 12501,
+  "updated": "2026-10-19 05:48:52",
+  "count": 12522,
   "items": [
+    {
+      "id": "mkt:01a150fb-2d7a-7ee0-a8d3-b2e8461d6493",
+      "time": "2026-10-19 05:46:40",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "New Zealand's 12-month trade deficit widened to NZD 6.18 bln in September, from a prior reading revised to NZD 5.61 bln (previously reported NZD 5.442 bln)."
+    },
+    {
+      "id": "mkt:01a150fa-3eed-7ee0-a8d3-aacc59ff20f4",
+      "time": "2026-10-19 05:45:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand September exports NZ$6.47 bln; prior figure revised from NZ$6.66 bln to NZ$6.48 bln."
+    },
+    {
+      "id": "mkt:01a150fa-3b8f-7ee0-a8d3-a1fb51d8766d",
+      "time": "2026-10-19 05:45:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand September imports NZ$8.44 bln; prior estimate revised from NZ$8.00 bln to NZ$8.02 bln."
+    },
+    {
+      "id": "mkt:01a150fa-3b77-7ee0-a8d3-9b8725e9aa4f",
+      "time": "2026-10-19 05:45:38",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "New Zealand September trade balance: NZD 1.971 billion deficit. August balance revised to a NZD 1.536 billion deficit from NZD 1.349 billion."
+    },
+    {
+      "id": "mkt:01a150f9-a919-7ee0-a8d3-961d83103db3",
+      "time": "2026-10-19 05:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Exports (Sep) | actual 6470000000B | previous 6659999999.999999B"
+    },
+    {
+      "id": "mkt:01a150f9-a871-7ee0-a8d3-7c1a5db27ff2",
+      "time": "2026-10-19 05:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Imports (Sep) | actual 8440000000.000001B | previous 8000000000B"
+    },
+    {
+      "id": "mkt:01a150f9-a895-7ee0-a8d3-8bd5f81a15eb",
+      "time": "2026-10-19 05:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | 12-Month Trade Balance (Sep) | actual -6180000000B | previous -5442000000B"
+    },
+    {
+      "id": "mkt:01a150f9-a88d-7ee0-a8d3-80020dc2cc23",
+      "time": "2026-10-19 05:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Trade Balance (Sep) | actual -1971000000B | previous -1349000000B"
+    },
+    {
+      "id": "5152613",
+      "time": "2026-10-19 05:42:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國抗議2397人被捕】法國多地17日發生遊行示威和抗議活動，部分地區出現暴力行為。據法國媒體報道，抗議活動聚集了農民、氣候活動人士和學生等群體，部分工會也參與其中，涉及訴求包括燃油價格、生活成本、教育和公共服務等。據法國內政部統計，當天全法抗議人數達55萬，其中巴黎有11萬，全國範圍內有2397人被捕，997名警察和憲兵受傷，其中7人傷勢嚴重。（新華社）"
+    },
+    {
+      "id": "mkt:01a150f5-8cf3-7ee0-a8d3-731baf77506a",
+      "time": "2026-10-19 05:40:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Opposition wins landslide in Czech Senate runoffs】The Czech Statistical Office said the opposition won an overwhelming victory in second-round Senate runoffs on the 17th; the ruling ANO movement (Action of Dissatisfied Citizens) failed to secure any seats in the partial Senate renewal. The Czech Senate has 81 seats, with one-third renewed every two years."
+    },
+    {
+      "id": "5152612",
+      "time": "2026-10-19 05:39:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【捷克參議院改選反對黨取得壓倒性勝利】捷克統計局公佈計票結果顯示，反對黨在17日結束的捷克參議院改選第二輪投票中取得壓倒性勝利，執政黨“不滿公民行動”黨在此次參議院部分改選中未能獲得任何席位。捷克參議院共有81個議席，每兩年改選三分之一席位。（新華社）"
+    },
+    {
+      "id": "5152611",
+      "time": "2026-10-19 05:38:31",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲多地爆發大規模抗議後，歐元兌主要貨幣下跌】亞洲早盤交易時段，受歐洲週末大範圍抗議活動以及俄烏衝突升級影響，歐元兌G10集團貨幣走低。歐元兌美元下跌0.5%，報1.1186。受歐元走弱拖累，東歐貨幣表現弱於其他新興市場貨幣。美元兌波蘭茲羅提上漲0.5%，報3.9071；美元兌匈牙利福林上漲0.5%，報324.88；美元兌保加利亞列弗上漲0.5%，報1.7485。法國多個城市的抗議演變為警方與示威者之間的衝突，爆發該國多年來最嚴重的街頭暴力事件，出現搶劫、地標建築遭縱火情況。歐洲多國接連發生示威活動，法國的抗議規模最大，比利時、義大利、葡萄牙也受到波及。"
+    },
+    {
+      "id": "5152610",
+      "time": "2026-10-19 05:32:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大拉特蘭少將通報，軍方基地訓練場發生草原火情，強風助推火勢快速擴散，事故起火原因目前仍在調查階段。"
+    },
+    {
+      "id": "mkt:01a150ec-e66a-7ee0-a8d3-6b75c789e964",
+      "time": "2026-10-19 05:31:05",
+      "tags": [
+        "MKT News",
+        "NZDUSD",
+        "Impact bearish"
+      ],
+      "text": "New Zealand services performance index for September 50.9, down from prior 51.2 and remaining marginally above the 50 expansion threshold."
+    },
+    {
+      "id": "5152609",
+      "time": "2026-10-19 05:31:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元下跌0.5%。"
+    },
+    {
+      "id": "mkt:01a150ec-c17a-7ee0-a8d3-65bfa7dca40c",
+      "time": "2026-10-19 05:30:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Performance of Services Index (Sep) | actual 50.9 | previous 51.2"
+    },
+    {
+      "id": "5152608",
+      "time": "2026-10-19 05:30:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱一艘違規油輪在霍爾木茲海峽南部觸雷爆炸起火】當地時間19日凌晨，伊朗伊斯蘭革命衛隊海軍宣佈，一艘違規油輪在霍爾木茲海峽南部觸雷，導致機艙爆炸起火。伊朗伊斯蘭革命衛隊海軍強調，任何在霍爾木茲海峽和波斯灣航行的船隻，如果關閉導航和識別系統，都將受到嚴厲的處罰。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a150ea-f423-7ee0-a8d3-5bce32eb9467",
+      "time": "2026-10-19 05:28:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Turkey will commission a second floating gas production platform in Q1 2028, lifting Black Sea gas output to about 45 mln cubic meters per day, the energy minister said on Sunday."
+    },
+    {
+      "id": "5152607",
+      "time": "2026-10-19 05:27:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部宣佈，向生物科技企業Antheia提供總額8000萬美元附條件貸款承諾。"
+    },
+    {
+      "id": "mkt:01a150e9-d683-7ee0-a8d3-52175a524e0d",
+      "time": "2026-10-19 05:27:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "SANA reports Turkey will secure part of Russia's diesel supplies and plans to build a second offshore natural-gas platform in the Black Sea."
+    },
+    {
+      "id": "mkt:01a150e8-bd0a-7ee0-a8d3-4f2d2ceab8c6",
+      "time": "2026-10-19 05:26:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Council to hold two press briefings on national economy and tech-driven commerce Oct 19】The State Council Information Office will hold two press briefings on Oct 19. At 10:00 the National Bureau of Statistics deputy head and spokesman Mao Shengyong will present 2026 Q1–Q3 national economic performance; at 15:00 MOFCOM assistant minister Yuan Xiaoming, alongside officials from the Ministry of Industry and Information Technology and the Ministry of Culture and Tourism, will outline measures to accelerate tech-driven commerce."
+    },
+    {
+      "id": "mkt:01a150e7-7e21-7ee0-a8d3-474487ec9995",
+      "time": "2026-10-19 05:25:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Pro-Iran Iraqi group says six US MQ-9 Reapers violated Iraqi airspace】A pro-Iran Iraqi Islamic Resistance group said six U.S. MQ-9 Reaper drones violated Iraqi airspace on Saturday and flew over Anbar, Baghdad, Karbala and Salahaddin provinces, according to a social media post."
+    },
+    {
+      "id": "mkt:01a150e7-7d5f-7ee0-a8d3-3beb9a3a4b73",
+      "time": "2026-10-19 05:25:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【GCC calls on Iran, US to resume dialogue】IRNA reported the Gulf Cooperation Council urged Iran and the United States to return to dialogue and diplomacy to defuse the current crisis. The statement was issued at the close of the GCC's 168th ministerial council in Manama, chaired by Bahrain foreign minister Abdullatif al-Zayani; Russian foreign minister Sergey Lavrov attended."
+    },
+    {
+      "id": "5152606",
+      "time": "2026-10-19 05:24:37",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【事關國民經濟執行與科技興商 今天舉辦兩場重要釋出會】今天將舉辦兩場重要釋出會，聚焦國民經濟執行與推進科技興商有關情況。\n\n國務院新聞辦公室將於10月19日（星期一）上午10時舉行新聞釋出會，請國家統計局新聞發言人、副局長毛盛勇介紹2026年前三季度國民經濟執行情況，並答記者問。\n\n國務院新聞辦公室將於10月19日（星期一）下午3時舉行新聞釋出會，請商務部部長助理袁曉明和工業和資訊化部、文化和旅遊部有關負責人介紹加快推進科技興商有關情況，並答記者問。（央視新聞）"
+    },
+    {
+      "id": "5152605",
+      "time": "2026-10-19 05:23:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大阿爾伯塔省省長：加拿大軍事基地火災發生後，有39名患者住院，其中至少19人情況危急。"
+    },
+    {
+      "id": "mkt:01a150e2-1560-7ee0-a8d3-329882a482f4",
+      "time": "2026-10-19 05:19:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Four senior Chinese financial regulators to speak as Financial Street Forum opens in Beijing】The 2026 Financial Street Forum annual meeting opens in Beijing Oct. 19-22, hosting more than 400 delegates from over 40 countries and regions. PBOC's Pan, NFSA head Ding Xiangqun, CSRC chair Wu Qing and SAFE director Zhu Hexin are scheduled to deliver keynote speeches."
+    },
+    {
+      "id": "5152604",
+      "time": "2026-10-19 05:16:19",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【四家金融監管部門負責人將發聲！金融街論壇年會今日開幕】2026金融街論壇年會於10月19日至22日在北京金融街舉辦，全球40多個國家和地區的400餘位重要嘉賓將出席年會。本屆論壇年會以“開放·合作·包容——共築全球金融發展新生態”為主題。論壇年會包含主論壇（含開、閉幕式）、平行論壇、專題大會和配套活動四種形式，計劃舉辦主論壇、平行論壇共21場議題活動及3場專題大會。中國人民銀行行長潘功勝、國家金融監督管理總局局長丁向群、中國證券監督管理委員會主席吳清、國家外匯管理局局長朱鶴新將出席2026金融街論壇年會並作主題演講。（央視新聞）"
+    },
+    {
+      "id": "5152603",
+      "time": "2026-10-19 05:15:27",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【AI雲企業Nscale IPO估值遭遇投資者反對】Nscale公司約300億美元的IPO估值目標遭到投資者牴觸，部分投資者認為合理估值區間應為160億至190億美元。該公司計劃中的IPO面臨多重難題，包括與微軟的英國資料中心交易終止，以及潛在投資者與其在估值方面存在巨大分歧。Nscale尚未正式啟動IPO推介路演，正在回應美國證券交易委員會對其招股檔案提出的意見，相關商討仍在進行，暫未形成最終決議。"
+    },
+    {
+      "id": "5152602",
+      "time": "2026-10-19 05:13:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "投資者敦促Nscale下調300億美元的IPO估值目標。"
+    },
+    {
+      "id": "mkt:01a150da-1eaf-7ee0-a8d3-28b098af00f0",
+      "time": "2026-10-19 05:10:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran, Egypt foreign ministers hold phone call】Iranian Foreign Minister Abbas Araghchi spoke by phone with Egyptian Foreign Minister Badr Abdelatty on Sunday afternoon; they reviewed recent regional developments and discussed diplomatic initiatives aimed at easing tensions and maintaining regional stability."
+    },
+    {
+      "id": "5152601",
+      "time": "2026-10-19 05:09:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【萬斯：伊朗試圖切斷全球能源供應，衝突結束後油價將下跌】美國副總統萬斯警告伊朗正試圖切斷全球能源供應，並預測戰爭結束後汽油價格將會下跌。萬斯稱：“我們從未遇到過這樣的局面，伊朗正試圖徹底掐斷全球能源供應。”他提出觀點，如果美軍撤離，任由伊朗掌控霍爾木茲海峽航運，汽油價格將會大幅走高。他表示：“這場衝突結束後，我們將會看到油價回落。”"
+    },
+    {
+      "id": "mkt:01a150d9-0e32-7ee0-a8d3-209167cca3a5",
+      "time": "2026-10-19 05:09:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EUR/GBP touched 0.84, down 0.38% on the day."
+    },
+    {
+      "id": "mkt:01a150d7-a630-7ee0-a8d3-184e83a0b246",
+      "time": "2026-10-19 05:07:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Euro drops sharply in early session】Early FX session: dollar index (DXY) +0.25% at 102.04; EUR/USD -0.4% at 1.1190."
+    },
+    {
+      "id": "5152600",
+      "time": "2026-10-19 05:07:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國騷亂後，歐元下跌0.4%，至1.1191美元。"
+    },
+    {
+      "id": "5152599",
+      "time": "2026-10-19 05:01:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：內塔尼亞胡為逃避牢獄之災，正把美國拖入另一場戰爭，無論這會給以色列帶來何種後果，更不用說對美國總統造成的影響。"
+    },
+    {
+      "id": "mkt:01a150d1-19d1-7ee0-a8d3-101d2a5ba68b",
+      "time": "2026-10-19 05:00:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran foreign minister says Iran has 'unfinished business' with NETANYAHU】Iran's foreign minister responded to Israeli premier NETANYAHU's threatening remarks, saying \"the last time you tried to 'finish the job', Iran became stronger\" and warning Israel to \"be careful, we also have unfinished business to settle.\" He accused NETANYAHU of pushing the United States toward another war to avoid prison and of ignoring the consequences for Israel and the US president."
+    },
+    {
+      "id": "5152598",
+      "time": "2026-10-19 04:58:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基與美國特使威特科夫、庫什納進行了40分鐘通話。"
+    },
+    {
+      "id": "5152597",
+      "time": "2026-10-19 04:47:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普發文：正斡旋俄烏和平談判，批評澤連斯基不願停戰】特朗普發文表示，他關於俄羅斯的相關決策思路很明確。他正在斡旋俄烏戰爭的和平談判，不願採取任何魯莽行動導致俄羅斯退出談判。目前談判取得重大進展，人質相關談判也在推進。他稱當下簽署相關檔案會破壞談判局面，這份檔案他可以延後，或在任意合適時間簽署。\n\n他還提到，俄羅斯幾乎沒有向伊朗提供援助，遠低於其有能力提供的規模。他希望維持這一現狀，只要沒有不明智之人從中阻撓。特朗普指出，澤連斯基將俄羅斯柴油煉油廠作為打擊目標，澤連斯基清楚這類襲擊會嚴重衝擊全球柴油市場，美國市場同樣受到波及，美國農民、牧場主以及各類企業都承受巨大損失。即便如此，俄羅斯仍以低價向全球供應數百萬桶柴油。\n\n特朗普認為，澤連斯基並不關心由此帶來的影響。在他看來，依託歐洲持續提供的大量資金以及前總統拜登過往給予的援助，澤連斯基並不想結束這場戰爭，或許從來就沒有停戰的想法。特朗普稱，澤連斯基兩年前本可以爭取到比現在更有利的協議；烏克蘭如今滿目瘡痍，丟失大片領土，海上相關權益受損，國內男性人口大量負傷、陣亡或人口基數下降。特朗普表示，他希望這場戰爭能夠結束。"
+    },
+    {
+      "id": "mkt:01a150c2-d437-7ee0-a8d3-0920249cd629",
+      "time": "2026-10-19 04:45:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Trump: I don't want to push Russia off the negotiating table; Zelensky not seeking to end war】President Trump said he is negotiating to end the Russia-Ukraine war and will avoid actions that would remove Russia from the negotiating table. He said talks are making significant progress, including hostage negotiations, and that he can delay signing any agreement — warning that signing the document Zelensky reportedly proposed (US air‑defense missile aid in exchange for a pledge not to strike Russian diesel facilities) would produce adverse outcomes and can be done later at his discretion. Trump added that Russia has offered little help to Iran and he intends to keep it that way unless others interfere. He accused Zelensky of targeting Russian diesel refineries, saying those strikes are severely disrupting global diesel markets including the US, while Russia continues to supply millions of barrels at low prices. He reiterated he wants the war to end."
+    },
+    {
+      "id": "5152596",
+      "time": "2026-10-19 04:45:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：任何針對伊朗能源基礎設施的襲擊，都將使被佔領土永久化為焦土。"
+    },
+    {
+      "id": "5152595",
+      "time": "2026-10-19 04:44:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤突破3.4美元，日內漲幅0.6%。"
+    },
     {
       "id": "5152594",
       "time": "2026-10-19 04:43:06",
@@ -114212,184 +114592,6 @@
         "國際"
       ],
       "text": "特朗普：明天將前往俄亥俄州揚斯敦參加（選舉）集會。"
-    },
-    {
-      "id": "mkt:01a12ce8-a15f-7ee0-a82c-459cd8d18aef",
-      "time": "2026-10-12 05:40:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said Katie Zacharia will formally become White House press secretary tomorrow (12th ET), Columbus Day, and will hold her first briefing Tuesday at 9:30 a.m. ET in the White House press briefing room. He said she has been with him from the start and will do an outstanding job."
-    },
-    {
-      "id": "5138075",
-      "time": "2026-10-12 05:39:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局敦促美國航空公司飛往沙烏地阿拉伯或在沙烏地阿拉伯上空飛行時保持警惕。"
-    },
-    {
-      "id": "mkt:01a12ce7-d55b-7ee0-a82c-3c80d9f14989",
-      "time": "2026-10-12 05:39:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The FAA urged U.S. carriers to exercise caution when flying to Saudi Arabia or over Saudi airspace."
-    },
-    {
-      "id": "5138074",
-      "time": "2026-10-12 05:38:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：扎卡里亞將於週二舉行首場介紹性新聞簡報會。"
-    },
-    {
-      "id": "5138073",
-      "time": "2026-10-12 05:37:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：扎卡里亞將於明日就任新聞秘書。"
-    },
-    {
-      "id": "mkt:01a12ce2-e481-7ee0-a82c-3052a16b5e99",
-      "time": "2026-10-12 05:33:49",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "NZDUSD",
-        "Impact bearish"
-      ],
-      "text": "At the FX open, the dollar index (DXY) rose 0.1% to 102.3. NZD/USD fell 0.25% to just below 0.56."
-    },
-    {
-      "id": "5138072",
-      "time": "2026-10-12 05:27:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊海軍表示，一艘載有75萬桶原油的油輪週日觸雷起火，成為當天在霍爾木茲海峽觸雷的第三艘油輪。"
-    },
-    {
-      "id": "mkt:01a12cd9-cb84-7ee0-a82c-28a8a664dfe3",
-      "time": "2026-10-12 05:23:53",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Tanker struck by drone off Sohar, Oman, UKMTO says】On Oct 11 local time the UK Maritime Trade Operations (UKMTO) reported a tanker at an anchorage off Sohar, Oman, was struck by an unmanned aerial vehicle. UKMTO initially received a report of a security incident and has formally classified it as an attack. Local authorities are assisting crew evacuation. The extent of damage to the vessel and any environmental impact are unclear; the incident is under investigation."
-    },
-    {
-      "id": "5138071",
-      "time": "2026-10-12 05:23:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一油輪在阿曼附近海域遭無人機襲擊】當地時間10月11日，英國海上貿易行動辦公室（UKMTO）釋出通報稱，一艘油輪在阿曼蘇哈爾港附近錨地遭到無人機襲擊。通報稱，UKMTO最初接到一艘油輪發生安全事件的報告。隨後，經確認，該油輪遭到一架無人駕駛航空器襲擊，UKMTO已將事件正式歸類為“襲擊事件”。目前，當地有關部門正在協助船員撤離。油輪受損程度及事件可能造成的環境影響尚不清楚，事件仍在調查中。（央視新聞）"
-    },
-    {
-      "id": "5138070",
-      "time": "2026-10-12 05:20:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國駐沙烏地阿拉伯大使館在社交平臺平臺發帖建議英國公民，除必要出行外，避免前往沙烏地阿拉伯吉達和達曼，並避免前往除麥地那機場外的所有沙特機場。"
-    },
-    {
-      "id": "mkt:01a12cd6-59ee-7ee0-a82c-23c9762e3c10",
-      "time": "2026-10-12 05:20:07",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Mudslide traps two at Codelco's El Teniente mine】Codelco said a mudslide driven by severe weather in central Chile struck the open‑pit Cráter Norte area of its El Teniente mine at about 1400 local time on Sunday, trapping two workers. Three workers were in the area; one was rescued and taken to hospital, the locations of the other two have been identified and rescue operations are ongoing. The incident follows a fatal accident at another Codelco‑operated mine less than two weeks ago. The episode is the latest setback for Chile, the world’s largest copper producer, which is contending with output declines, operational disruptions and rising labour tensions while copper trades near record highs."
-    },
-    {
-      "id": "5138069",
-      "time": "2026-10-12 05:17:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國建議不要前往達曼以及沙烏地阿拉伯的大部分機場。"
-    },
-    {
-      "id": "mkt:01a12cc9-2686-7ee0-a82c-1fb600c1a197",
-      "time": "2026-10-12 05:05:42",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "UKMTO reclassifies the incident at the Sohar anchorage in Oman as an attack. A tanker was struck by a drone; local authorities are assisting with crew evacuation."
-    },
-    {
-      "id": "5138068",
-      "time": "2026-10-12 05:02:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿斯利康Efzimfotase alfa銷售峰值預測有望達到50億美元，高管認為這款骨病藥物有望獲批。"
-    },
-    {
-      "id": "5138067",
-      "time": "2026-10-12 05:00:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國石油退出利雅得能源會議，此前沙特發生機場襲擊事件。"
-    },
-    {
-      "id": "5138066",
-      "time": "2026-10-12 04:59:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長：願為政治解決葉門衝突提供一切幫助】當地時間11日晚，伊朗外長阿拉格齊與沙特外交大臣費薩爾通電話，就當前地區局勢交換意見。阿拉格齊對地區緊張局勢升級表示關切，並強調堅持軍事手段而忽視政治解決只會使當前局勢更加複雜。阿拉格齊強調，該地區危機沒有軍事解決途徑，伊朗願提供一切幫助，旨在促成沙特和葉門之間的對話和最終達成政治解決方案。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a12cc3-712c-7ee0-a82c-12caeb6b5d70",
-      "time": "2026-10-12 04:59:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran foreign minister offers assistance to broker political settlement in Yemen】On the evening of the 11th local time, Iranian Foreign Minister Araghchi spoke by phone with Saudi Foreign Minister Faisal about the regional situation. Araghchi expressed concern at rising tensions, warned that relying on military measures rather than political solutions would complicate the situation, said there is no military solution to the crisis, and offered Iran's full assistance to facilitate dialogue between Saudi Arabia and Yemen toward a political settlement."
-    },
-    {
-      "id": "5138065",
-      "time": "2026-10-12 04:56:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國：不支援美俄就俄提供柴油達成一致】英國國防大臣韋斯·斯特里廷說，英國不支援美俄兩國領導人就俄羅斯向美國及全球市場提供柴油達成一致。（新華社）"
-    },
-    {
-      "id": "mkt:01a12cb8-4288-7ee0-a82c-0c7656953494",
-      "time": "2026-10-12 04:47:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian Foreign Minister Araghchi told Saudi Arabia’s foreign minister in a call that military action rather than diplomacy would further complicate the situation and said Iran is willing to help facilitate dialogue between Riyadh and the Houthi movement to seek a political settlement."
-    },
-    {
-      "id": "mkt:01a12cb6-8b29-7ee0-a82c-05f1bdc01dba",
-      "time": "2026-10-12 04:45:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Energy Ministry said Saudi Minister of Industry and Mineral Resources and Kuwait's Minister of Electricity, Water and Renewable Energy signed a memorandum of understanding on cooperation in the power and renewables sector."
     }
   ]
 }
