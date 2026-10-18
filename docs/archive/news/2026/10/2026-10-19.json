@@ -1,7 +1,39 @@
 {
   "date": "2026-10-19",
-  "count": 179,
+  "count": 182,
   "items": [
+    {
+      "id": "te:economy:592891",
+      "time": "2026-10-19 06:40:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "New Zealand Trade Gap Tops Forecasts — New Zealand's trade deficit widened to NZD 1.97 billion in September 2026, up from NZD 1.41 billion in the same month a year earlier and surpassing estimates of a NZD 0.78 billion gap. Exports rose 12.3% year-on-year to NZD 6.47 billion, following a downwardly revised 12.4% increase in August. Meanwhile, imports grew 17.7% year-on-year to NZD 8.44 billion, following a downwardly revised 13.21% rise in August."
+    },
+    {
+      "id": "te:economy:592890",
+      "time": "2026-10-19 06:38:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Composite PMI",
+        "Importance 0"
+      ],
+      "text": "New Zealand Private Sector Growth Hits 3-Month High — The BusinessNZ Performance of Composite Index increased to 53.4 in September 2026 from a marginally revised 52.4 in the previous month, marking the fourth straight month of expansion. It was the highest reading since June, with manufacturing sector growth accelerating while the services sector continued to expand. Manufacturing activity expanded at a stronger pace despite pressure from high fuel prices and ahead of the general election. Meanwhile, services sector growth eased slightly as growth in new orders slowed."
+    },
+    {
+      "id": "5152630",
+      "time": "2026-10-19 06:38:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【佩斯科夫：烏克蘭對俄羅斯的襲擊無法改變事態走向】俄羅斯總統新聞秘書佩斯科夫當地時間18日在回答媒體關於俄方對烏克蘭大規模襲擊聖彼得堡將作何回應時表示，烏克蘭正處於垂死掙扎之中，並試圖進行抵抗，但對俄羅斯的襲擊無法改變事態走向。佩斯科夫稱，俄羅斯一直在回應烏克蘭的行動，系統性、大規模的打擊正在實施，並且正在取得效果。 (央視新聞)"
+    },
     {
       "id": "te:economy:592889",
       "time": "2026-10-19 06:36:37",
