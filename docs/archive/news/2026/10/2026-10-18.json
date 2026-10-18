@@ -1,7 +1,46 @@
 {
   "date": "2026-10-18",
-  "count": 663,
+  "count": 667,
   "items": [
+    {
+      "id": "mkt:01a14f8a-45cc-7ee0-a8d1-cdee8038dd0c",
+      "time": "2026-10-18 23:03:44",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "S&P500"
+      ],
+      "text": "【Protests sweep several European countries; France reports over 2,000 arrests】Mass demonstrations over cost of living, public services and fiscal austerity erupted on the 17th across France, Italy, Portugal, Belgium and other European countries. In France protests were nationwide — including Paris, Lyon, Lille, Marseille, Bordeaux and Strasbourg — and organisers estimated up to 800,000 participants (government estimate ~550,000). Demonstrations in France and Italy turned violent in some cities, with arson, looting and damage to public facilities; a Lyon tourist office branch was set on fire and looted, and municipal buildings in Marseille and Lille were breached and damaged. Interior Minister Nunez said on social media preliminary counts showed more than 2,000 people arrested nationwide, over 600 police, gendarmes and firefighters injured, and hundreds of businesses sustaining significant property damage."
+    },
+    {
+      "id": "mkt:01a14f89-bc52-7ee0-a8d1-c6ea3ed86a54",
+      "time": "2026-10-18 23:03:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Novak says Russian diesel could reach US in 15-20 days after contracts signed】Russian Deputy Prime Minister Novak said on Oct. 18 that, once contracts are signed, Russian diesel could reach the US market within 15-20 days. He said the US Department of Energy has identified companies to act as counterparties and buyers and that commercial terms are still being negotiated; deliveries to nearer countries would be faster."
+    },
+    {
+      "id": "5152493",
+      "time": "2026-10-18 23:01:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄副總理：俄柴油將在簽署合同後15-20天進入美市場】10月18日，分管能源工作的俄羅斯副總理諾瓦克表示，俄羅斯柴油燃料將在合同簽署後15至20天內進入美國市場。諾瓦克稱，美國能源部已經確定了將作為交易方和買方的公司。目前正在就商業條款進行談判，實際上就是在談簽署合同的事。合同一簽，燃料將在15-20天內送達美國市場。對於更近的國家，時間會更短。（央視新聞）"
+    },
+    {
+      "id": "5152492",
+      "time": "2026-10-18 23:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大一軍事基地發生火災，造成七人死亡。"
+    },
     {
       "id": "mkt:01a14f86-ef4c-7ee0-a8d1-bea0e68ab498",
       "time": "2026-10-18 23:00:05",

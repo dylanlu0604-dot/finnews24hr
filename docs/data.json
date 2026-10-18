@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-18 23:01:10",
-  "count": 12535,
+  "updated": "2026-10-18 23:05:05",
+  "count": 12538,
   "items": [
+    {
+      "id": "mkt:01a14f8a-45cc-7ee0-a8d1-cdee8038dd0c",
+      "time": "2026-10-18 23:03:44",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "S&P500"
+      ],
+      "text": "【Protests sweep several European countries; France reports over 2,000 arrests】Mass demonstrations over cost of living, public services and fiscal austerity erupted on the 17th across France, Italy, Portugal, Belgium and other European countries. In France protests were nationwide — including Paris, Lyon, Lille, Marseille, Bordeaux and Strasbourg — and organisers estimated up to 800,000 participants (government estimate ~550,000). Demonstrations in France and Italy turned violent in some cities, with arson, looting and damage to public facilities; a Lyon tourist office branch was set on fire and looted, and municipal buildings in Marseille and Lille were breached and damaged. Interior Minister Nunez said on social media preliminary counts showed more than 2,000 people arrested nationwide, over 600 police, gendarmes and firefighters injured, and hundreds of businesses sustaining significant property damage."
+    },
+    {
+      "id": "mkt:01a14f89-bc52-7ee0-a8d1-c6ea3ed86a54",
+      "time": "2026-10-18 23:03:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Novak says Russian diesel could reach US in 15-20 days after contracts signed】Russian Deputy Prime Minister Novak said on Oct. 18 that, once contracts are signed, Russian diesel could reach the US market within 15-20 days. He said the US Department of Energy has identified companies to act as counterparties and buyers and that commercial terms are still being negotiated; deliveries to nearer countries would be faster."
+    },
+    {
+      "id": "5152493",
+      "time": "2026-10-18 23:01:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄副總理：俄柴油將在簽署合同後15-20天進入美市場】10月18日，分管能源工作的俄羅斯副總理諾瓦克表示，俄羅斯柴油燃料將在合同簽署後15至20天內進入美國市場。諾瓦克稱，美國能源部已經確定了將作為交易方和買方的公司。目前正在就商業條款進行談判，實際上就是在談簽署合同的事。合同一簽，燃料將在15-20天內送達美國市場。對於更近的國家，時間會更短。（央視新聞）"
+    },
+    {
+      "id": "5152492",
+      "time": "2026-10-18 23:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大一軍事基地發生火災，造成七人死亡。"
+    },
     {
       "id": "mkt:01a14f86-ef4c-7ee0-a8d1-bea0e68ab498",
       "time": "2026-10-18 23:00:05",
@@ -114779,14 +114818,6 @@
         "國際"
       ],
       "text": "【澤連斯基稱對俄烏能源停火不知情】據美國“阿克西奧斯新聞網（Axios）”報道，烏克蘭總統澤連斯基稱，他對特朗普稍早前宣佈的“俄烏已同意能源停火”一事並不知情。他同時表示，如果俄方同意這一停火，烏方也將接受。美國總統特朗普今天（10月11日）在“真實社交”平臺上發文稱，俄烏已達成一致，同意即刻開始實施能源停火。（CCTV國際時訊）"
-    },
-    {
-      "id": "5137775",
-      "time": "2026-10-11 23:02:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【招商策略：未來3—6個月依次把握三類機會】招商策略研報認為，綜合來看，未來3—6個月依次把握三類機會：一是10Y美債利率確認轉跌後的科技寬度修復，率先受益的是算力晶片、儲存、半導體裝置與材料、PCB、液冷等配套環節；二是內外共振下的內需與順週期擴散，關注食品飲料、家電、商貿零售、工程機械、化工；三是若指數先行出現較大幅度回撤，則重點關注低PB、併購重組主線下的券商。"
     }
   ]
 }
