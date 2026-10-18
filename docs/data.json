@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-19 06:34:15",
+  "updated": "2026-10-19 06:38:00",
   "count": 12524,
   "items": [
+    {
+      "id": "te:economy:592889",
+      "time": "2026-10-19 06:36:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "New Zealand Services Growth Eases in September, — New Zealand’s BusinessNZ Performance of Services Index edged down to 50.9 in September 2026 from a downwardly revised 51.0 in August, marking the fourth consecutive month of expansion in the sector. The latest reading was down from an eight-month high in August, as growth in new orders eased (52.6 vs 54.8). Meanwhile, the sub-indices for stocks expanded faster (52.3 vs 50.9), while activity/sales returned to expansion (50.2 vs 49.2). By contrast, contractions were seen in supplier deliveries (49.4 vs 48.9) and employment (49.8 vs 49.4)."
+    },
     {
       "id": "5152629",
       "time": "2026-10-19 06:30:49",
@@ -114589,14 +114601,6 @@
         "國際"
       ],
       "text": "塞爾維亞前總統亞歷山大·武契奇表示，莫斯科與華盛頓就俄羅斯柴油出口達成的協議，將在全球事務中帶來戰略性變革。"
-    },
-    {
-      "id": "5138087",
-      "time": "2026-10-12 06:36:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "10月12日6時30分，重建後的皇崗口岸正式開通，實施“一地兩檢”安排及“合作查驗、一次放行”全新通關模式，旅客出入境更加便利。（新華社）"
     }
   ]
 }

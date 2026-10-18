@@ -1,7 +1,19 @@
 {
   "date": "2026-10-19",
-  "count": 178,
+  "count": 179,
   "items": [
+    {
+      "id": "te:economy:592889",
+      "time": "2026-10-19 06:36:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "New Zealand Services Growth Eases in September, — New Zealand’s BusinessNZ Performance of Services Index edged down to 50.9 in September 2026 from a downwardly revised 51.0 in August, marking the fourth consecutive month of expansion in the sector. The latest reading was down from an eight-month high in August, as growth in new orders eased (52.6 vs 54.8). Meanwhile, the sub-indices for stocks expanded faster (52.3 vs 50.9), while activity/sales returned to expansion (50.2 vs 49.2). By contrast, contractions were seen in supplier deliveries (49.4 vs 48.9) and employment (49.8 vs 49.4)."
+    },
     {
       "id": "5152629",
       "time": "2026-10-19 06:30:49",
