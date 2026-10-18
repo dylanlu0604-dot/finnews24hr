@@ -1,7 +1,20 @@
 {
   "date": "2026-10-19",
-  "count": 56,
+  "count": 57,
   "items": [
+    {
+      "id": "mkt:01a1502a-417b-7ee0-a8d2-b170702fcc10",
+      "time": "2026-10-19 01:58:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US Energy Secretary wright: diesel deal intended to incentivize Russia to de‑escalate Ukraine conflict】In a Sunday interview, US Energy Secretary wright said allowing Russian diesel into global markets is meant to push Moscow to reduce hostilities in Ukraine, not to provide economic support to Russia. He said if Russia cuts back on the conflict and diesel exports resume, the US will permit those energy flows, calling the deal a \"carrot to end the war,\" not \"Russia's economic lifeline.\""
+    },
     {
       "id": "5152544",
       "time": "2026-10-19 01:55:34",

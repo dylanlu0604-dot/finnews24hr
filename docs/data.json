@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-19 01:56:48",
-  "count": 12528,
+  "updated": "2026-10-19 02:00:31",
+  "count": 12521,
   "items": [
+    {
+      "id": "mkt:01a1502a-417b-7ee0-a8d2-b170702fcc10",
+      "time": "2026-10-19 01:58:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US Energy Secretary wright: diesel deal intended to incentivize Russia to de‑escalate Ukraine conflict】In a Sunday interview, US Energy Secretary wright said allowing Russian diesel into global markets is meant to push Moscow to reduce hostilities in Ukraine, not to provide economic support to Russia. He said if Russia cuts back on the conflict and diesel exports resume, the US will permit those energy flows, calling the deal a \"carrot to end the war,\" not \"Russia's economic lifeline.\""
+    },
     {
       "id": "5152544",
       "time": "2026-10-19 01:55:34",
@@ -114609,74 +114622,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：美國總統發表宣告稱，能源停火已經達成。這對所有人來說都是好訊息，重要的是必須落到實處。"
-    },
-    {
-      "id": "5137949",
-      "time": "2026-10-12 01:58:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：和澤連斯基討論了對烏克蘭防空系統的支援。"
-    },
-    {
-      "id": "5137948",
-      "time": "2026-10-12 01:58:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：美俄柴油協議將為俄羅斯帶來額外收入。"
-    },
-    {
-      "id": "mkt:01a12c1d-1a6f-7ee0-a82b-1c3eb37c56e1",
-      "time": "2026-10-12 01:57:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The local mayor said a Russian strike on Ivano-Frankivsk in western Ukraine killed two people."
-    },
-    {
-      "id": "5137947",
-      "time": "2026-10-12 01:57:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭西部伊萬諾-弗蘭科夫斯克遭襲擊致兩人死亡。"
-    },
-    {
-      "id": "mkt:01a12c1c-efa0-7ee0-a82b-15dfb3e0c412",
-      "time": "2026-10-12 01:57:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian strike near a grocery store in Kharkiv, Ukraine's second-largest city, killed 3 and injured 9, officials said."
-    },
-    {
-      "id": "5137946",
-      "time": "2026-10-12 01:57:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭官員稱，俄羅斯對烏克蘭第二大城市哈爾科夫的一家雜貨店附近發動襲擊，造成3人死亡、9人受傷。"
-    },
-    {
-      "id": "5137945",
-      "time": "2026-10-12 01:57:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：和澤連斯基討論了美俄柴油協議。"
-    },
-    {
-      "id": "mkt:01a12c1c-ab25-7ee0-a82b-09719afcc896",
-      "time": "2026-10-12 01:57:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【i24News: Netanyahu held multiple calls with Trump this week】i24News, citing Israeli sources, says Prime Minister Netanyahu spoke multiple times with US President Trump over the past week and is holding a restricted security briefing tonight. Sources say tensions with Iran are elevated and Trump may consider resuming military action against Tehran; the US president \"will decide independently\" and \"when ready,\" and Israel and the US have no differences on their objectives. Sources added Iran, Hezbollah and Hamas are seeking to overturn the Netanyahu government and trying to disrupt Israeli elections. Israeli public reaction to recent Houthi attacks is unusually strong given their severity, and Saudi Arabia is reported to be facing similar pressure."
     }
   ]
 }
