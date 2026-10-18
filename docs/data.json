@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-19 02:04:15",
-  "count": 12517,
+  "updated": "2026-10-19 02:07:56",
+  "count": 12514,
   "items": [
+    {
+      "id": "5152548",
+      "time": "2026-10-19 02:04:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：抗議活動中實施破壞的肇事者必須付出代價。"
+    },
     {
       "id": "5152547",
       "time": "2026-10-19 02:03:10",
@@ -114544,43 +114552,6 @@
         "國際"
       ],
       "text": "【蘇丹北部礦區遇襲 已致72人死亡】當地時間10月11日，蘇丹一個民間組織發表宣告稱，蘇丹北部靠近埃及邊境的北瓦迪地區一處金礦礦區10日遭遇大規模空襲，造成72名礦工死亡。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a12c25-b45a-7ee0-a82b-42f03db88dd6",
-      "time": "2026-10-12 02:07:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Polish central bank governor says there is a high probability interest rates will remain unchanged through year-end."
-    },
-    {
-      "id": "mkt:01a12c23-ea2c-7ee0-a82b-39a9ebfa38e5",
-      "time": "2026-10-12 02:05:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【IRGC navy says vessels disabling navigation and identification systems in Strait of Hormuz will be treated as \"hostile targets\"】On the 11th (local time), the Islamic Revolutionary Guard Corps navy announced any vessels disabling navigation and identification systems in the Strait of Hormuz will be treated as \"hostile targets\" and will face harsh, decisive action."
-    },
-    {
-      "id": "5137955",
-      "time": "2026-10-12 02:04:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "波蘭央行行長：今年年底前利率維持穩定的機率很高。"
-    },
-    {
-      "id": "5137954",
-      "time": "2026-10-12 02:04:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍方：在霍爾木茲海峽關閉導航識別系統船隻將被視為敵對目標】當地時間11日，伊朗伊斯蘭革命衛隊海軍宣佈，所有在霍爾木茲海峽關閉導航和識別系統的船隻將被視為“敵對目標”，並將受到嚴厲而果斷的處置。（央視新聞）"
     }
   ]
 }
