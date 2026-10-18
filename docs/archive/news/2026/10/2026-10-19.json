@@ -1,7 +1,123 @@
 {
   "date": "2026-10-19",
-  "count": 160,
+  "count": 172,
   "items": [
+    {
+      "id": "5152624",
+      "time": "2026-10-19 06:03:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4170美元/盎司，日內漲0.12%。"
+    },
+    {
+      "id": "5152623",
+      "time": "2026-10-19 06:03:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4190美元/盎司，日內漲0.22%。"
+    },
+    {
+      "id": "mkt:01a1510a-15df-7ee0-a8d3-d1e64586df26",
+      "time": "2026-10-19 06:02:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver slipped after the open then rebounded; currently trading at $57/oz."
+    },
+    {
+      "id": "mkt:01a15109-de39-7ee0-a8d3-ca07a9077198",
+      "time": "2026-10-19 06:02:36",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. stock-index futures opened steady on Monday."
+    },
+    {
+      "id": "mkt:01a15109-c7b0-7ee0-a8d3-c3063c792610",
+      "time": "2026-10-19 06:02:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At Monday open spot gold briefly fell more than $10 before trimming losses, trading at $4,161/oz."
+    },
+    {
+      "id": "5152622",
+      "time": "2026-10-19 06:02:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債期貨上漲9個點，30年期國債期貨上漲13個點。"
+    },
+    {
+      "id": "5152621",
+      "time": "2026-10-19 06:01:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨下跌0.1%，納斯達克期貨下跌0.2%。"
+    },
+    {
+      "id": "mkt:01a15108-6ab5-7ee0-a8d3-bff9be52405b",
+      "time": "2026-10-19 06:01:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude and Brent crude opened about 0.4% lower on Monday, trading at $98.54/bbl and $106.93/bbl respectively."
+    },
+    {
+      "id": "5152620",
+      "time": "2026-10-19 06:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：對伊朗能源基礎設施的任何攻擊都將引發對以色列的毀滅性回應。"
+    },
+    {
+      "id": "5152619",
+      "time": "2026-10-19 06:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破99美元/桶，日內跌0.22%。"
+    },
+    {
+      "id": "5152618",
+      "time": "2026-10-19 06:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破57美元/盎司，日內跌0.71%。"
+    },
+    {
+      "id": "5152617",
+      "time": "2026-10-19 06:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4180美元/盎司，日內持平。"
+    },
     {
       "id": "5152616",
       "time": "2026-10-19 05:56:20",

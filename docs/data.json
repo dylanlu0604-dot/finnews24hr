@@ -1,7 +1,123 @@
 {
-  "updated": "2026-10-19 06:00:26",
-  "count": 12522,
+  "updated": "2026-10-19 06:04:12",
+  "count": 12528,
   "items": [
+    {
+      "id": "5152624",
+      "time": "2026-10-19 06:03:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4170美元/盎司，日內漲0.12%。"
+    },
+    {
+      "id": "5152623",
+      "time": "2026-10-19 06:03:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4190美元/盎司，日內漲0.22%。"
+    },
+    {
+      "id": "mkt:01a1510a-15df-7ee0-a8d3-d1e64586df26",
+      "time": "2026-10-19 06:02:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver slipped after the open then rebounded; currently trading at $57/oz."
+    },
+    {
+      "id": "mkt:01a15109-de39-7ee0-a8d3-ca07a9077198",
+      "time": "2026-10-19 06:02:36",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. stock-index futures opened steady on Monday."
+    },
+    {
+      "id": "mkt:01a15109-c7b0-7ee0-a8d3-c3063c792610",
+      "time": "2026-10-19 06:02:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At Monday open spot gold briefly fell more than $10 before trimming losses, trading at $4,161/oz."
+    },
+    {
+      "id": "5152622",
+      "time": "2026-10-19 06:02:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債期貨上漲9個點，30年期國債期貨上漲13個點。"
+    },
+    {
+      "id": "5152621",
+      "time": "2026-10-19 06:01:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨下跌0.1%，納斯達克期貨下跌0.2%。"
+    },
+    {
+      "id": "mkt:01a15108-6ab5-7ee0-a8d3-bff9be52405b",
+      "time": "2026-10-19 06:01:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude and Brent crude opened about 0.4% lower on Monday, trading at $98.54/bbl and $106.93/bbl respectively."
+    },
+    {
+      "id": "5152620",
+      "time": "2026-10-19 06:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：對伊朗能源基礎設施的任何攻擊都將引發對以色列的毀滅性回應。"
+    },
+    {
+      "id": "5152619",
+      "time": "2026-10-19 06:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破99美元/桶，日內跌0.22%。"
+    },
+    {
+      "id": "5152618",
+      "time": "2026-10-19 06:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破57美元/盎司，日內跌0.71%。"
+    },
+    {
+      "id": "5152617",
+      "time": "2026-10-19 06:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4180美元/盎司，日內持平。"
+    },
     {
       "id": "5152616",
       "time": "2026-10-19 05:56:20",
@@ -114532,64 +114648,6 @@
         "Brent"
       ],
       "text": "Former U.S. Vice President Harris said the surge in U.S. diesel and gasoline prices is driven by Trump and his war on Iran. She called his latest ploy, selling fuel‑supply solutions to ally Putin, an act of weakness that funnels funds to Russia's military while doing nothing to ease cost burdens on U.S. households."
-    },
-    {
-      "id": "mkt:01a12cfe-56e1-7ee0-a82c-64e910adc1b2",
-      "time": "2026-10-12 06:03:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC reported a M5.3 earthquake struck Indonesia’s Sulawesi island at 05:34 on Oct 12; hypocenter depth 110 km."
-    },
-    {
-      "id": "5138080",
-      "time": "2026-10-12 06:02:29",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院敦促，使用沙特機場時需“高度謹慎”。"
-    },
-    {
-      "id": "mkt:01a12cfc-a88b-7ee0-a82c-5ad15672b0c4",
-      "time": "2026-10-12 06:01:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "Spot gold opened slightly lower on Monday, trading at $4,193/oz. Spot silver opened slightly higher, at $60.85/oz."
-    },
-    {
-      "id": "5138079",
-      "time": "2026-10-12 06:01:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普表示，他將在俄亥俄州之後前往阿拉斯加。"
-    },
-    {
-      "id": "5138078",
-      "time": "2026-10-12 06:01:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國地震臺網正式測定：10月12日05時34分在印尼蘇拉威西島（北緯0.50度，東經121.85度）發生5.3級地震，震源深度110千米。"
-    },
-    {
-      "id": "mkt:01a12cfc-0df3-7ee0-a82c-5044039eb15d",
-      "time": "2026-10-12 06:01:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI and Brent opened 0.3% higher on Monday at $91.28/bbl and $103.06/bbl, respectively."
     }
   ]
 }
