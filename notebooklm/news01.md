@@ -1,7 +1,265 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-10-18 07:22:03_
-_本檔包含 2556 則快訊，約 479234 字_
+_更新時間：2026-10-18 09:28:01_
+_本檔包含 2500 則快訊，約 477165 字_
+
+---
+
+### 2026-10-18 09:26:53  #其他
+
+【曙光8000釋出十大前沿成果】10月18日，中科曙光在2026 CCF全國高效能運算學術大會（CCF HPC 2026）釋出曙光8000十大前沿應用成果，覆蓋從微觀粒子到宏觀宇宙的科學探索，橫跨天文學、地球科學、生命科學及材料模擬、工程研發等多個領域。相關成果在模擬規模、計算精度和應用時效等方面取得關鍵進展，多項成果更實現“全球首次”的突破。
+
+---
+
+### 2026-10-18 09:20:12  #其他
+
+【五年貨物傳送量突破6億噸 國鐵廣州局加快推動貨運提質】國鐵廣州局17日介紹，五年來，該局推動貨運業務告別傳統生產型運輸模式，向著現代服務型物流跨越。全域性貨物傳送量突破6億噸，較上一個五年增長26%，單日裝車20次突破8000車，多項核心指標接連重新整理歷史紀錄。（中國新聞網）
+
+---
+
+### 2026-10-18 09:19:27  #其他
+
+【臺官方統計：今年1至8月赴大陸民眾較去年同期增長近20%】臺灣官方最新統計顯示，今年1至8月，赴大陸的臺灣民眾累計249.2萬人次，相較於去年同期的208.3萬人次增長約19.63%。記者17日查詢臺交通事務主管部門觀光統計資料發現，1至8月，臺灣民眾出境總數為1453.2萬人次，其中赴大陸人次佔比約17.1%；赴香港115.75萬人次，佔比約8%；赴澳門44.7萬人次，佔比約3.1%。赴大陸與港澳總計逾409萬人次，佔臺灣民眾出境總數的28.2%。單月統計顯示，從今年3月開始，每月赴大陸的臺灣民眾數量均超過30萬人次。去年全年赴大陸臺灣民眾總計逾323.7萬人次，今年總人數可望大幅增加。近期有臺灣學者指出，臺當局釋出臺灣居民赴大陸及港澳旅遊“橙色”警示逾兩年，對民眾的說服效果有限。(中國新聞網)
+
+---
+
+### 2026-10-18 09:04:25  #公司
+
+【瑞銀：預估谷歌TPU的HBM消耗量2027年將大增】瑞銀預測，谷歌 TPU 的 HBM 消耗量 2027 年預估將達到 192.4 億 Gb，較 2026 年預估的 58.5 億 Gb 同比大增 229%。TPU 對應的 HBM 需求從 2025 年的 18.1 億 Gb 快速攀升，2027 年預計將達到 240.48 萬 GB。谷歌這種自研晶片規模擴張會佔用專屬記憶體晶圓產能，推動高頻寬記憶體（HBM）採購向雲廠商定製 ASIC 晶片傾斜。瑞銀測算，2027 年 TPU v8i 雙裸片 AX 將消耗 115.2 萬 GB 的 HBM3E；TPU v8t 消耗 95.04 萬 GB；TPU v7 消耗 28.8 萬 GB。整體 AI 加速器 HBM 總需求同比大增 91%，達到 615.2 億 Gb。核心風險來自先進封裝的組裝產能吞吐量；一旦臺積電 CoWoS 封裝產能受限，會造成系統整合進度延後，記憶體廠商將出現成品 HBM 堆疊晶片庫存過剩。
+
+---
+
+### 2026-10-18 09:03:17  #其他
+
+【瑞銀：預計 2027 年其佔全球 HBM 總需求比重將達到 39%】瑞銀預測，HBM4 架構將成為主流記憶體標準，預計 2027 年其佔全球 HBM 總需求比重將達到 39%，高於 2026 年預估的 17%。隨著新一代 AI 加速器陸續落地，HBM3E 12‑Hi 的市場佔比將從 2026 年預期的 65% 收縮至 2027 年的 30%。本輪技術迭代帶動先進封裝、定製化邏輯基片進入量產，推升晶圓廠的實際成交價格。瑞銀測算，HBM3E 8‑Hi 的需求佔比將從 2026 年的 8% 回升至 2027 年的 17%；新一代 HBM4E 將拿到 9% 份額，老款 HBM3 則萎縮至 5%。英偉達 VR300 加速器採用 8‑Hi 堆疊方案，體現行業選擇性降低視訊記憶體堆疊規格的現象。主要執行風險來自晶圓廠的基片製造與基板良率；一旦出現產能瓶頸，會阻滯 HBM4 的落地程序，同時造成舊款 HBM3E 產能過剩。
+
+---
+
+### 2026-10-18 09:00:14  #市場
+
+【飛天茅臺零售均價上漲 青花郎創月新高 五糧液普五八代、古井貢古20齊漲5元 洋河夢之藍M6+、習酒君品重跌】新浪財經“酒價內參”過去24小時收集的資料顯示，10月18日中國白酒業12大單品的終端零售均價五漲四跌三平，上漲品種數量略佔優勢，累計漲幅也小幅超過下跌端，整體價盤繼續溫和上行。上漲端，飛天茅臺上漲2元至1795元，止住此前二連跌，價格重新向1800元關口靠攏；五糧液普五八代上漲5元至806元，昨日回撥後快速反彈，繼續穩守800元大關上方；古井貢古20上漲5元至535元，連續兩日大幅上漲，短線跌勢明顯緩解；青花郎上漲3元至705元，二連陽繼續走高，站穩700元之上，並創下近一個月價格新高；水晶劍南春上漲2元至413元，三連陽穩步抬升，近期價盤持續回暖。下跌端，精品茅臺下跌2元至2460元，二連跌繼續回探，價格滑向近期低位；青花汾20下跌3元至394元，短暫回升後再度走低，價格重返近期低位區間；洋河夢之藍M6+下跌4元至615元，連續兩日上漲後轉跌；習酒君品下跌4元至641元，昨日重新整理近30天高點後迎來回撥。持平方面，茅臺1935維持685元不變，連續第二日平盤；五糧液1618保持831元，平30天最高價，高臺走勢穩健；國窖1573維持892元不變，昨日創近一個月高位後進入橫盤修整。今日12大單品的終端零售總價連續第三日走高，雖然漲跌品種數量較為接近，但上漲端累計漲幅略勝一籌，推動整體價盤繼續小幅抬升。如果12大單品各取一瓶整體打包售賣，今日總售價為10772元，較昨日小幅上漲4元，連續第三日上行，並創下11天以來新高。
+
+---
+
+### 2026-10-18 08:52:06  #其他
+
+【巴基斯坦安全部門稱擊斃數名阿富汗武裝人員】巴基斯坦安全部門訊息人士17日稱，阿富汗武裝人員當天在巴基斯坦西北部開伯爾－普什圖省巴阿邊境地帶無端開火，巴安全部隊對此作出有效回應。訊息人士稱，阿富汗武裝人員在該省古勒姆地區巴阿邊境地帶無端開火，企圖為恐怖分子越境提供便利。作為回應，巴安全部隊打擊了阿富汗武裝的一處邊境哨所和一處軍事營地，打死數名阿富汗武裝人員。阿武裝人員放棄哨所撤離，其營地被摧毀。訊息人士表示，該地區的交火仍在持續。巴安全部隊將保持高度警惕，堅定捍衛國家邊境並保障國家安全。(新華社)
+
+---
+
+### 2026-10-18 08:49:43  #其他
+
+【委內瑞拉預計未來五年石油領域將獲得近760億美元投資】委內瑞拉代總統德爾西・羅德里格斯週六表示，該國預計未來五年油氣行業將吸引近 760 億美元投資，委內瑞拉正積極引入私人資本，推動能源增產。這位代總統稱，政府依託修訂後的油氣框架，已簽署 61 項合作協議，另有 44 項協議正在談判。羅德里格斯表示，相關專案將融合外資、委內瑞拉本土資本與勞動力。她稱，這筆規劃中的投資將創造超 32.4 萬個直接、間接及衍生就業崗位。羅德里格斯還提到，蘇利亞州石油產量提升後，該州有望生產液化石油氣，先滿足國內需求，後續再出口。
+
+---
+
+### 2026-10-18 08:47:34  #其他
+
+市場訊息：沙特部隊在利雅得及東部省附近攔截多架無人機。
+
+---
+
+### 2026-10-18 08:42:08  #其他
+
+【英國海上貿易行動辦公室：亞丁灣海域發生一起海上襲擊事件】據英國海上貿易行動辦公室收到的報告，葉門亞丁灣海域17日發生一起針對液化天然氣運輸船的襲擊事件。報告稱，事發地距離亞丁灣沿岸的葉門港口城市穆卡拉大約140海里。一艘載有7人的小型快艇駛近一艘液化天然氣運輸船，並向該船開槍。船上武裝安保人員向快艇鳴槍警告，迫使其改變航向。（央視新聞）
+
+---
+
+### 2026-10-18 08:41:21  #國際
+
+【伊拉克總理呼籲伊斯蘭合作組織成員國促進地區和平】17日，伊斯蘭合作組織外長理事會第52次會議在伊拉克首都巴格達開幕。伊拉克總理扎伊迪在開幕致辭中呼籲該組織成員國加強合作、尊重差異，以促進地區穩定與和平。扎伊迪說，巴勒斯坦問題是地區衝突的核心，確保巴勒斯坦人民獲得公正並保障其各項權利，對於實現地區安全與穩定至關重要。伊拉克外交部17日發表宣告說，伊拉克正式接任伊斯蘭合作組織外長理事會輪值主席國。本次會議為期兩天，將探討一系列議題，重點包括巴勒斯坦問題、加沙地帶局勢以及更廣泛的地區和國際事務。（央視新聞）
+
+---
+
+### 2026-10-18 08:36:00  #國際
+
+【上調企業稅或成為增加日本防衛開支的備選方案】知情人士週六透露，日本首相高市早苗政府內部正在討論一項方案，擬上調企業稅，以此為防衛開支擴容籌措資金。日本計劃在年底前修訂三份核心安保政策檔案，落實後日本年度防衛支出或將突破 10 萬億日元。在地區安全威脅不斷上升的背景下，日本持續推進防衛能力強化工作。企業稅收入有望作為穩定資金來源。政府也會考慮支出改革，但目前尚不確定能否籌措足額資金覆蓋防衛開支。不過商界或反對上調企業稅，擔心此舉會抑制加薪、削弱日本國際競爭力，這將讓防衛增支的資金籌措討論變得更加複雜。一名政府高階官員表示，根據防衛省所需裝備與防衛能力粗略測算，相關支出 “可能膨脹至 70 萬億至 80 萬億日元”。一名政府訊息人士稱，進一步上調企業稅 “是備選方案”；執政聯盟相關人士也表示，“大中型企業留存收益豐厚，很難反對上調企業稅”。
+
+---
+
+### 2026-10-18 08:35:08  #其他
+
+【沙特聯軍稱在東部省攔截並摧毀一架無人機】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基18日在社交媒體上表示，聯軍在東部省攔截並摧毀了一架無人機。近日，胡塞武裝與沙特持續互襲。葉門胡塞武裝17日稱，沙烏地阿拉伯當天空襲葉門西南部塔伊茲省，造成包括婦女和兒童在內至少9人死亡，另有16人受傷。沙烏地阿拉伯主導的多國聯軍17日稱，當天在沙特利雅得省、東部省和南部地區攔截並摧毀4架無人機。（央視新聞）
+
+---
+
+### 2026-10-18 08:33:39  #宏觀 #國際
+
+【美敦促以色列打擊定居者暴力】美國國務卿魯比奧當地時間10月17日晚對媒體表示，美國希望以色列採取更多措施來遏制約旦河西岸猶太人定居者的暴力襲擊。10月16日，美國《華盛頓郵報》資深攝影記者海蒂·萊文在約旦河西岸報道巴勒斯坦農民採摘橄欖的情況時，遭數十名蒙面猶太人定居者圍攻毆打，並被搶走相機、護照和其他財物。 魯比奧說：“我們對那些畫面和我們所看到的情況深感不安。我們已經要求並且繼續要求以色列方面打擊此類行為。”他說，美國國務院已就包括萊文遇襲在內的事件進行了詢問，他預計週日之前會收到美國使館的回覆。 （CCTV國際時訊）
+
+---
+
+### 2026-10-18 08:33:10  #國際
+
+市場訊息：日本考慮提高企業稅，為國防開支提供資金。
+
+---
+
+### 2026-10-18 08:29:50  #國際
+
+【伊朗外長：伊朗支援透過政治程序解決葉門衝突】伊朗外長阿拉格齊17日在巴格達參加伊斯蘭合作組織外長理事會會議期間表示，伊朗政府支援透過“政治程序”解決沙烏地阿拉伯與葉門胡塞武裝之間的衝突。阿拉格齊說，伊朗支援“包容和全面的政治程序”，並表示這是解決葉門問題的“唯一可行且可持續的途徑”。近期伊朗方面已經多次表示，有意在沙特與胡塞武裝之間展開斡旋，願提供一切幫助結束雙方的敵對行動。（央視新聞）
+
+---
+
+### 2026-10-18 08:29:26  #市場
+
+【景順亞太區投資解決方案客戶總監：人工智慧基礎設施蘊藏投資機遇】10月17日，在上海舉辦的“全球財富管理論壇·2026上海蘇河灣大會”上，景順亞太區投資解決方案客戶總監Christopher Hamilton強調，過去十年行之有效的投資方法，未必足以應對未來十年。投資者可能需要拓寬機會範圍，分散回報來源，並以更一體化的方式構建投資組合。Hamilton提醒，當市場對貨幣購買力、主權信用或金融體系穩定性的關注上升時，黃金可能獲得更多關注。地緣政治不確定性及儲備多元化需求，也可能影響部分機構投資者的資產配置選擇。因此，黃金的表現並非僅受通脹或大宗商品價格影響，也可能反映市場對貨幣體系、實際利率及風險情緒等因素的綜合判斷。Hamilton表示，人工智慧相關的長期影響可能延伸至科技行業之外，基礎設施、公用事業、能源和工業供應鏈等領域也可能受到其發展及資本開支需求的影響。人工智慧是一項需要實體基礎設施支撐的數字化變革。（21財經）
+
+---
+
+### 2026-10-18 08:25:59  #其他
+
+【航行警告：南海海域實彈射擊】據中國海事局網站訊息，珠海海事局釋出航行警告，10月20日9時至16時，南海部分海域進行實彈射擊，禁止駛入。
+
+---
+
+### 2026-10-18 08:24:02  #宏觀 #央行 #國際
+
+【美國財政部官員：對日本的財政紀律抱有充分信心】美國財政部負責國際事務的副部長艾琳・布朗尼週五接受專訪時，稱讚日本退出再通脹政策的相關努力，稱日本 “通脹正處在良性發展軌道”。布朗尼在曼谷出席國際貨幣基金組織年會期間表示：“日本目前通脹走勢向好，多項改革已經落地並持續推進，首相向日本民眾闡明的財政紀律值得肯定。我們看好首相的政策，對日本首相及日本政府抱有充分信心。”談及貝森特此前有關再通脹政策的言論，布朗尼稱：“我認為貝森特部長並非要為日本央行制定貨幣政策。日本推行的一系列改革，以及擺脫長期通縮取得的經濟進展，都令他感到鼓舞與認可。”布朗尼表示，日本是美國最大的海外債主，日本外匯市場保持穩定對美國而言至關重要。當被問到美國財政整頓舉措時，她表示：“降低債務佔 GDP 比重有兩條路徑，一是依靠經濟增長消化債務，二是削減支出開展財政整頓，我們兩條路線都在推進。”談及當前區域經濟形勢，布朗尼說：“亞洲國家槓桿水平沒有亞洲金融危機時期那麼高，相比當年，亞洲市場與全球市場的抗風險能力更強。”她補充道：“各國對霍爾木茲海峽持續衝突的抵禦能力較強。”
+
+---
+
+### 2026-10-18 08:21:47  #宏觀 #國際
+
+市場訊息：美國財政部布朗尼稱讚日本恪守財政紀律。
+
+---
+
+### 2026-10-18 08:14:18  #其他
+
+沙特領導的聯軍稱，在東部省攔截並摧毀了一架無人機。
+
+---
+
+### 2026-10-18 08:14:03  #國際
+
+美國國務卿魯比奧表示：我們已就此事向美國駐以色列大使館詢問，預計今天晚些時候或明天會收到一份電報，包含他們掌握的所有相關資訊。但這看起來確實不妙，整件事令人非常不安。
+
+---
+
+### 2026-10-18 08:13:38  #國際
+
+美國國務卿魯比奧表示：美國總統特朗普的態度非常明確，他已多次表態。他不希望看到約旦河西岸出現摩擦或危機。總統不希望看到新的衝突爆發。
+
+---
+
+### 2026-10-18 08:13:12  #國際
+
+美國國務卿魯比奧在啟程訪問印度前表示，特朗普政府繼續敦促以色列政府打擊約旦河西岸的定居者暴力行為。
+
+---
+
+### 2026-10-18 08:11:19  #其他
+
+【21世紀海上絲綢之路地方政府合作暨國際友好城市對話會在榕開幕】據福建日報，10月17日，21世紀海上絲綢之路地方政府合作暨國際友好城市對話會在福州開幕。福建省委書記趙龍出席並致辭，中國人民對外友好協會會長楊萬明到會祝賀並致辭，福建省委副書記、福州市委書記郭寧寧主持。“海絲”共建國家地方政府和友好組織約100名外賓參會。
+
+---
+
+### 2026-10-18 08:11:00  #國際
+
+市場訊息：MS&AD 將參與日本人工智慧專案，開發新產品。
+
+---
+
+### 2026-10-18 08:07:38  #其他
+
+加拿大總理卡尼：韋恩賴特加拿大軍事基地發生重大事故，引發大規模火災。
+
+---
+
+### 2026-10-18 08:06:09  #公司 #市場 #觀點 #國際
+
+【AI融資風暴來襲，亞洲AI明星企業風險凸顯】美國科技股持續遭拋售，暴露了亞洲 AI 產業鏈新的風險點：不斷走高的融資成本，或將掐斷維持 AI 繁榮所需資本開支，威脅整條供應鏈企業盈利，而這條供應鏈正是本輪亞洲股市上漲的核心動力。高盛編制的亞洲 AI 硬體股籃子上週大跌 11%，為 7 月中旬以來最大單週跌幅。儘管臺積電釋出樂觀營收展望，拋售勢頭仍未見放緩，反映市場對 AI 資本開支的擔憂正向硬體全產業鏈擴散。GAM 投資管理駐蘇黎世基金經理簡・史・科爾特西表示：“融資成本就像引力，壓制著 AI 繁榮。借貸成本上行，會增加基建專案融資難度，推遲資本支出。哪怕僅僅是延期，也會下調亞洲供應商盈利預期與估值。”市場擔憂的焦點，已經不再只是 AI 晶片需求能否維持，而是超大規模雲廠商、新型雲服務商能否持續融資部署算力基礎設施，以及預期回報能否匹配龐大投資規模。臺積電、SK 海力士、三星電子供應 AI 計算所需晶片與記憶體，但它們的盈利最終依賴下游持續投入基建採購產品。元器件、裝置供應商面臨同樣底層風險，而且對各個專案落地時間的能見度更低。巴黎 Financiere de l’Echiquier 基金經理凱文・內特稱：“相比核心算力生態，下游受益企業承受更大的 AI 融資壓力。簡單來說，距離晶片主業越遠，專案延期的風險越高。”高德納預警，到 2030 年，超 3.5 萬億美元 AI 基建投資或面臨減值風險，投資規模或將超過能夠支撐回報的營收水平。
+
+---
+
+### 2026-10-18 08:04:10  #市場
+
+【iPhone Duo預售次日市場價格明顯回落，部分版本加價空間縮水過半】記者注意到，預售開啟後的第二天，iPhone Duo首批貨源在電商平臺的市場價格已明顯回落。得物App 顯示，截至10月17日19時，iPhone Duo多個版本市場成交均價較此前明顯下降，部分版本的加價空間已縮水近半。以白色256GB版本為例，市場成交均價由21170元回落至18666元，上漲空間由此前的5171元縮小至2667元，縮水約48%；黑色512GB版本成交均價由24468元下降3319元至21149元，以17999元官方售價計算，其上漲空間由6469元收窄至3150元，縮水超過五成；黑色1TB成交均價由29679元降至25343元，一度回落4336元，降幅約14.6%，上漲空間也由8180元縮小至3844元；白色1TB則由28039元降至26000元，回落2039元。
+
+---
+
+### 2026-10-18 08:02:29  #公司
+
+【皇冠新材明日申購】按照目前發行安排，10月19日（週一）可申購深市主機板新股皇冠新材。皇冠新材股票程式碼為001381，中籤繳款日為10月21日。根據發行公告，皇冠新材本次公開發行股票數量為5630.48萬股，約佔發行後公司總股本的12.01%，全部為公開發行新股，不設老股轉讓；本次發行後公司總股本約為4.69億股。皇冠新材本次發行價格16.98 元/股，對應發行人2025年扣非歸母淨利潤的攤薄後靜態市盈率25.87倍。
+
+---
+
+### 2026-10-18 08:01:30  #其他
+
+【老年旅客購票折上折來了】老年人坐火車，票價還能再省一折。10月18日起，60歲及以上老人坐火車，在10月18日到12月30日期間，不再限定週中時段，買帶“敬”字的車次享受折上折。除了年齡，持有殘疾軍人證、傷殘人民警察證、國家綜合性消防救援隊伍殘疾人員證的旅客，在享受原有優待票價的基礎上，可再享受9折優惠。此外，成功購票出行的老年常旅客會員，還能享受3倍積分優惠，積分既可以兌換火車票，也能在車上辦理座位升席。（央視財經）
+
+---
+
+### 2026-10-18 07:59:33  #國際
+
+美國國務卿魯比奧：星鏈是商業產品，按商業產品進行監管和處理。星盾是國防產品，是軍事產品，是美國軍方使用的東西。它目前不向烏克蘭提供，目前正在討論他們希望如何使用它。
+
+---
+
+### 2026-10-18 07:58:23  #市場
+
+【澳大利亞住房拍賣活動減少，加息抑制了市場活躍度】受 15 年高位利率拖累住房市場活躍度，澳大利亞上週房屋拍賣數量下滑。房產研究機構 Cotality 的資料顯示，澳大利亞首府城市僅有 1423 套住宅參與拍賣，環比上週下降 18.6%，較去年同期減少約 46%。該機構稱，資料預示下週市場活躍度或將繼續走低。資料顯示，拍賣成交率小幅上行，從前一週的 48.8% 升至 51.2%。不過 Cotality 表示，澳大利亞春季至今初步拍賣成交率為 52.0%，低於冬季 52.3% 的均值。Cotality 資料顯示，墨爾本推出保留價新披露規定後，市場拍賣活動大幅降溫，共有 500 套房源進入拍賣，環比下跌 28.9%。拍賣是澳大利亞主流售房方式，在悉尼、墨爾本兩大核心城市尤為普遍，成熟社群優質房源往往會吸引大量買家。但高昂借貸成本正削弱拍賣這種賣房方式的吸引力。
+
+---
+
+### 2026-10-18 07:55:08  #觀點 #國際
+
+【對沖基金正在加速撤離AI交易】持續近兩年的AI多頭交易，正在遭遇一場猛烈逆轉。高盛Prime經紀業務資料顯示，10月8日至14日，對沖基金連續五個交易日淨賣出全球AI股票，自2025年初以來的累計淨買入在短短一週內被悉數抹去。與此同時，截至最新，全球市值最高的20只AI和半導體股票合計蒸發超過1萬億美元市值。 這場拋售已從AI板塊蔓延至全球市場。韓國股市跌入熊市區間，首爾市場觸發熔斷機制。更值得警惕的是，對沖基金整體槓桿率仍處於高位，AI交易的集中平倉會否引發新一輪去槓桿，正成為市場關注的焦點。（券商中國）
+
+---
+
+### 2026-10-18 07:53:55  #國際
+
+【法國近年來最嚴重暴力騷亂】法國內政部稱，全法大約55萬人參加了當天的抗議活動。法國總工會提供的人數是80萬人。抗議者稱大多數人都是和平遊行，並將大部分暴力行為歸咎於“蓄意破壞並與警察發生衝突的搗亂分子”。 法國總統馬克龍強調，法國絕不容忍暴力。總理勒科爾尼表示，政府不會受到暴力的恐嚇。法國內政部稱，將盡一切可能追查暴力事件的肇事者。（CCTV國際時訊）
+
+---
+
+### 2026-10-18 07:50:20  #國際
+
+【魯比奧：白宮無人下令降低烏克蘭接入“星鏈”的速度】當地時間10月17日，美國國務卿魯比奧談到烏克蘭接入“星鏈”時表示，白宮無人下令降低速度。（央視新聞）
+
+---
+
+### 2026-10-18 07:49:35  #公司
+
+【北部灣港集團自平陸運河通航以來完成運河貨物過貨量突破100萬噸】據北部灣港集團訊息，截至10月16日24時，北部灣港集團在平陸運河通航一個月整的時間內，累計完成運河貨物過貨量超97萬噸。2026年10月17日9時許，隨著“貴港海通6688”輪上行駛出馬道樞紐，平陸運河累計過貨量突破100萬噸。
+
+---
+
+### 2026-10-18 07:42:45  #國際
+
+【伊朗海軍稱“違規”穿越海峽而受損的油輪增多】伊朗海軍17日說，試圖穿越霍爾木茲海峽相關禁航區而受損的“違規”油輪近期數量呈上升趨勢。伊朗海軍在其網站釋出宣告說，當天早些時候，持續監視與管控霍爾木茲海峽東部入口的海軍監測團隊發現，一艘“違規”油輪在阿曼灣、靠近海峽東部入口處起火，失去航行能力。同一天，伊朗革命衛隊海軍釋出宣告說，兩艘超級油輪在霍爾木茲海峽觸雷後發生爆炸並起火，其中一艘載有超過200萬桶原油，在關閉所有導航和雷達系統後，試圖在美軍的支援下透過霍爾木茲海峽。伊朗海軍稱，其部隊對霍爾木茲海峽東部、阿拉伯海和阿曼灣擁有全面情報監視能力，霍爾木茲海峽並非處於“開放”狀態，各國不應被美國方面散佈的謊言矇蔽，相關方必須與伊朗武裝力量進行協調，以確保航行安全。(新華社)
+
+---
+
+### 2026-10-18 07:42:23  #國際
+
+特朗普：對俄製裁決定對美國有利。
+
+---
+
+### 2026-10-18 07:39:37  #公司 #市場
+
+【法國多地抗議引發騷亂】10月17日，法國數十萬人走上街頭，抗議物價上漲和公共服務惡化。巴黎、里昂、馬賽、圖盧茲、斯特拉斯堡、南特、里爾等多地爆發警察與抗議者的激烈衝突，發生涉及蒙面人員的暴力事件，大約1200人被捕，超過150名警察受傷。#法國抗議者與警方衝突1200人被捕#據當地媒體報道，這是法國近幾年來發生的破壞性最強的騷亂之一。在巴黎市中心的著名地標，包括香榭麗舍大街、協和廣場、共和國廣場等，都發生了抗議活動。許多商店和餐館被砸，汽車和垃圾桶被縱火焚燒。 在里昂，抗議者燒燬了旅遊辦公室。在馬賽、多爾多，多家商鋪被搶。在利摩日，有著140多年曆史的市政廳遭到焚燒。（CCTV國際時訊）
+
+---
+
+### 2026-10-18 07:35:40  #其他
+
+【“薔琵”加強為超強颱風 未來或將繼續加強 最新路徑】今年第30號颱風“薔琵”已於昨天（17日）夜間由強颱風級加強為超強颱風級，其中心今天（18日）早晨5點鐘位於關島西偏南方向約90公里的西北太平洋洋麵上，就是北緯13.0度，東經144.1度，中心附近最大風力17級（62米/秒），中心最低氣壓為915百帕，七級風圈半徑250—350公里，十級風圈半徑100—120公里，十二級風圈半徑40公里。預計，“薔琵”將以每小時10—15公里的速度繼續向西偏北方向移動，逐漸向臺灣以東洋麵靠近，強度還將有所加強。（央視新聞）
+
+---
+
+### 2026-10-18 07:33:42  #其他
+
+【胡塞武裝稱擊落一架沙特“卡里亞爾”武裝偵察無人機】葉門當地時間18日凌晨，葉門胡塞武裝對外發布資訊稱，胡塞武裝在葉門哈傑省上空擊落一架沙特“卡里亞爾”型武裝偵察無人機。這是近期局勢升級以來被擊落的第四架該型號無人機。（央視新聞）
+
+---
+
+### 2026-10-18 07:31:29  #其他
+
+【中國傳統醫藥經驗可供全球借鑑，多項重要成果將釋出】昨天（17日），2026世界傳統醫藥大會在北京開幕。大會以“科技賦能 融合發展：推動人人享有傳統醫藥”為主題，匯聚了來自97個國家和地區的代表，共同圍繞各國傳統醫藥產業的發展進行深入交流，推動中外傳統醫藥交流互鑑。大會設定的8個平行學術論壇，涵蓋循證研究、國際標準、藥物監管、人工智慧等諸多領域，專家學者聚焦以中醫藥為代表的傳統醫學發展關鍵領域展開深入交流，為全球傳統醫藥傳承創新發展提供學術支撐與實踐參考。大會期間將釋出多項重要成果檔案，包括《傳統藥用植物資源保護與可持續利用北京倡議》《全球人工智慧賦能傳統醫學發展報告》，以及“新時代神農嘗百草”行動等內容，各平行論壇也將圍繞各自領域釋出系列成果，進一步豐富大會成果內容。（央視新聞）
 
 ---
 
@@ -14875,599 +15133,5 @@ Kevin Warsh, chair of the Federal Reserve, said the Fed's authority rests on its
 ### 2026-10-16 11:55:45  #MKT News #Macro & Rates #The Fed (FOMC)
 
 KEVIN WARSH said the Federal Reserve chair must exercise comprehensive leadership across the Fed's departments.
-
----
-
-### 2026-10-16 11:55:37  #國際
-
-韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化買入。
-
----
-
-### 2026-10-16 11:55:26  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Kevin Warsh, chair of the Federal Reserve, said 75% of the Fed’s staff do not work on monetary policy.
-
----
-
-### 2026-10-16 11:55:14  #MKT News #Important
-
-【About magnitude 7.2 earthquake near Russia's Kamchatka Peninsula】China Earthquake Networks Center (CENC) automatically determined a roughly M7.2 earthquake occurred near Russia's Kamchatka Peninsula at 11:35 on Oct 16, located at 51.88°N, 157.11°E.
-
----
-
-### 2026-10-16 11:54:41  #MKT News #Macro & Rates
-
-Federal Reserve Chair Kevin Warsh said the Fed has many talented staff but needs to foster the right culture.
-
----
-
-### 2026-10-16 11:53:47  #MKT News #Market Regions #Greater China #03301.HK #Impact bullish #00960.HK #02202.HK
-
-Hong Kong-listed property stocks rose amid choppy trading; Ronshine China (03301.HK) gained more than 10%, with Longfor Group (00960.HK), China Vanke (02202.HK), Xincheng Development Holdings (01030.HK), China Jinmao (00817.HK) and CHINA RES LAND (01109.HK) also higher.
-
----
-
-### 2026-10-16 11:53:05  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chairman Kevin Warsh said he would be hesitant to introduce new ideas if he had not previously worked at the Fed.
-
----
-
-### 2026-10-16 11:52:57  #央行 #國際
-
-美元指數短線走低10多個點，美聯儲主席沃什正在講話。
-
----
-
-### 2026-10-16 11:52:34  #其他
-
-沃什：認為人工智慧可以提高經濟生產率，增加財富。
-
----
-
-### 2026-10-16 11:52:24  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rose about $20 intraday to touch $4,180/oz, up 0.25% on the day.
-
----
-
-### 2026-10-16 11:52:06  #MKT News #Commodities #Precious Metals
-
-New York silver futures hit an intraday high of $58/oz, up 1.48% on the day.
-
----
-
-### 2026-10-16 11:52:04  #MKT News
-
-Fed Chair Kevin Warsh said the question is whether policymakers can address "negative tail risks".
-
----
-
-### 2026-10-16 11:51:49  #其他
-
-沃什：需要問的是，“是否存在決策者可以採取措施應對的負面尾部風險”。
-
----
-
-### 2026-10-16 11:51:36  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Kevin Warsh, Federal Reserve chair, said the Fed needs to consider financial-stability risks when setting policy.
-
----
-
-### 2026-10-16 11:51:21  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said the U.S. is advancing new technologies through private-sector investment and the Fed is not trying to judge who is right or wrong.
-
----
-
-### 2026-10-16 11:51:05  #MKT News #Important #DXY #Impact bearish #XAUUSD #Impact bullish #USDJPY
-
-Dollar index (DXY) slipped about 0.15 points in intraday trade to 101.86.
-
----
-
-### 2026-10-16 11:51:00  #央行 #國際
-
-美聯儲主席沃什：人工智慧將從根本上改變貨幣政策的實施方式。目前還不清楚人工智慧未來對就業的影響。
-
----
-
-### 2026-10-16 11:50:50  #市場 #焦點
-
-紐約期銀突破58美元/盎司，日內漲1.50%。
-
----
-
-### 2026-10-16 11:50:32  #央行 #國際
-
-沃什：美國正透過私營部門投資於新技術，美聯儲不會試圖判斷誰對誰錯。
-
----
-
-### 2026-10-16 11:50:30  #MKT News #Macro & Rates #The Fed (FOMC)
-
-KEVIN WARSH said Fed working groups are tasked with creating new intellectual capital to support the Federal Open Market Committee (FOMC).
-
----
-
-### 2026-10-16 11:50:25  #市場 #焦點
-
-現貨黃金突破4180美元/盎司，日內漲0.23%。
-
----
-
-### 2026-10-16 11:49:47  #央行 #國際
-
-美聯儲主席沃什：美聯儲工作組肩負著創造新智力資本以協助聯邦公開市場委員會的重任。
-
----
-
-### 2026-10-16 11:49:25  #MKT News #Market Themes #AI Revolution
-
-Federal Reserve Chair Kevin Warsh said it remains unclear how artificial intelligence will affect the unemployment rate going forward.
-
----
-
-### 2026-10-16 11:49:11  #國際
-
-中國地震臺網自動測定：10月16日11時35分在俄羅斯堪察加半島附近（北緯51.88度，東經157.11度）發生7.2級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-10-16 11:48:37  #MKT News #Market Themes #AI Revolution #S&P500 #Impact bullish #Nasdaq100 #DXY #Impact bearish
-
-Federal Reserve Chair Kevin Warsh said AI is a positive supply shock over the medium term.
-
----
-
-### 2026-10-16 11:48:30  #國際
-
-最新訊息：據歐洲地中海地震中心報告，俄羅斯堪察加半島地區今天（10月16日）發生7.0級地震。
-
----
-
-### 2026-10-16 11:48:15  #央行 #國際
-
-美聯儲沃什：人工智慧在中長期內是積極的供給衝擊。
-
----
-
-### 2026-10-16 11:48:09  #央行 #國際
-
-美聯儲的沃什：人工智慧將先出現在經濟的需求側，而非供給側。
-
----
-
-### 2026-10-16 11:47:53  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said the Fed will hold an in-person hearing on AI on Nov. 16 in the San Francisco Bay Area.
-
----
-
-### 2026-10-16 11:47:29  #央行 #國際
-
-美聯儲理事沃什：美聯儲將於11月16日在舊金山灣區舉行關於人工智慧的現場聽證會。
-
----
-
-### 2026-10-16 11:47:16  #MKT News #Market Themes #AI Revolution
-
-Fed Chair Kevin Warsh said AI may be the most significant change to the U.S. and global economy.
-
----
-
-### 2026-10-16 11:47:11  #MKT News #Market Themes #AI Revolution #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Nasdaq100 #DXY #Impact bearish
-
-Federal Reserve chair Kevin Warsh said artificial intelligence will boost productivity and create more wealth, but the path to that outcome will be bumpy.
-
----
-
-### 2026-10-16 11:46:49  #MKT News #Macro & Rates #The Fed (FOMC) #Market Themes #AI Revolution
-
-Fed chair Kevin Warsh said artificial intelligence will transform the real economy, but its short-term impact on employment remains uncertain.
-
----
-
-### 2026-10-16 11:46:35  #MKT News #Market Themes #AI Revolution #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve chairman Kevin Warsh said artificial intelligence will help central banks boost confidence in data and monetary policy.
-
----
-
-### 2026-10-16 11:46:17  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
-
-Federal Reserve Chair Kevin Warsh said the Fed tightened monetary policy in September.
-
----
-
-### 2026-10-16 11:46:14  #央行 #國際
-
-美聯儲主席沃什：人工智慧將提高經濟生產力，創造更多財富，但通往目標的道路並非一帆風順。
-
----
-
-### 2026-10-16 11:46:02  #其他
-
-沃什：人工智慧將改變實體經濟，但對就業的近期影響尚不確定。
-
----
-
-### 2026-10-16 11:45:53  #央行 #其他
-
-沃什：人工智慧將幫助各國央行對資料和貨幣政策更有信心。
-
----
-
-### 2026-10-16 11:45:51  #MKT News #Market Themes #AI Revolution
-
-Federal Reserve chair Kevin Warsh said in the U.S. we now call artificial intelligence (AI) "superintelligence (SI)".
-
----
-
-### 2026-10-16 11:45:43  #Trading Economics #Markets #India #stocks #Importance 0
-
-Bharti Airtel Shares Hit 4-week High — Bharti Airtel shares increased to 1871.00 INR, the highest since September 2026. Over the past 4 weeks, Bharti Airtel gained 1.83%, and in the last 12 months, it decreased 5.03%.
-
----
-
-### 2026-10-16 11:45:42  #國際
-
-沃什：人工智慧在未來將極大地造福美國經濟。
-
----
-
-### 2026-10-16 11:45:36  #MKT News #Market Regions #Greater China
-
-【MIIT says new battery industry must avoid blind rapid expansion】At the 2026 World Energy Storage Conference in Ningde, Fujian on Oct. 15, Yang Xudong, director of the Electronic Information Department at the Ministry of Industry and Information Technology, said China’s new battery industry should maintain steady growth during the 15th Five-Year Plan period but avoid blind rapid capacity expansion that could produce unnecessary supply‑demand imbalances; national top-level design will prioritize supply‑demand matching.
-
----
-
-### 2026-10-16 11:45:30  #央行 #國際
-
-美聯儲主席沃什：人工智慧是我一生中最具深遠影響的經濟變革。
-
----
-
-### 2026-10-16 11:45:09  #其他
-
-沃什表示，他不認同提前說明自己在未來會議上會怎麼做。
-
----
-
-### 2026-10-16 11:44:47  #其他
-
-【工信部：新型電池產業絕不能盲目地大幹快上】“在‘十五五’時期，新型電池產業規模要保持穩步增長的態勢，但這個穩步增長也要考慮到現實承受和發展基礎，絕不能盲目的大幹快上，造成不必要的供需矛盾。”在10月15日於福建省寧德市舉行的2026世界儲能大會上，工信部電子資訊司司長楊旭東強調，國家頂層設計“突出供需適配”。（澎湃新聞）
-
----
-
-### 2026-10-16 11:44:38  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said artificial intelligence will affect economic demand before producing supply-side effects.
-
----
-
-### 2026-10-16 11:44:31  #其他
-
-沃什：人工智慧將先衝擊經濟的需求端，然後才是供給衝擊。
-
----
-
-### 2026-10-16 11:44:15  #MKT News
-
-EMSC reports a magnitude-7.0 earthquake on Russia's Kamchatka Peninsula.
-
----
-
-### 2026-10-16 11:44:07  #其他
-
-沃什：我們已經非常明確地表示，我們將實現價格穩定。
-
----
-
-### 2026-10-16 11:43:51  #國際
-
-沃什：在美國，我們現在將人工智慧（AI）稱為“SI”。
-
----
-
-### 2026-10-16 11:43:29  #央行 #國際
-
-交易員稱，印度央行在外匯市場拋售美元以支撐盧比。
-
----
-
-### 2026-10-16 11:43:25  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said not to believe claims about what he might do at the Fed's remaining meetings in 2026.
-
----
-
-### 2026-10-16 11:42:49  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed Chair Kevin Warsh urged against pre-judging the Fed's policy meeting outcome.
-
----
-
-### 2026-10-16 11:42:28  #其他
-
-沃什：我們在 9 月份取消了一定程度的通融。
-
----
-
-### 2026-10-16 11:42:09  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-KEVIN WARSH said the Fed has been clear it will achieve price stability and he does not favor drawing premature conclusions about the meeting outcome.
-
----
-
-### 2026-10-16 11:42:06  #央行 #國際
-
-美聯儲沃什：不認同在2026年剩餘時間的會議上提前透露可能採取的行動。
-
----
-
-### 2026-10-16 11:41:34  #央行 #國際
-
-沃什：在美聯儲，我們已明確表示將實現價格穩定，我不認同預先判斷會議結果的做法。
-
----
-
-### 2026-10-16 11:41:20  #MKT News
-
-Fed chair Kevin Warsh said a surge in investment is the single most important factor driving the global economic upswing.
-
----
-
-### 2026-10-16 11:41:14  #MKT News #S&P500 #Impact bullish #DXY
-
-Federal Reserve Chair Kevin Warsh said the surge in investment stems from sound policy.
-
----
-
-### 2026-10-16 11:41:12  #央行 #國際
-
-美聯儲沃什：投資激增是全球經濟上行中最重要的事件。
-
----
-
-### 2026-10-16 11:41:02  #央行 #國際
-
-美聯儲主席沃什表示，他看到了美國經濟的結構性增長。
-
----
-
-### 2026-10-16 11:41:02  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said the Fed's policy clearly affects other regions globally, and other countries' policies, in turn, affect the United States.
-
----
-
-### 2026-10-16 11:40:49  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Chair KEVIN WARSH said the Fed will make judgments at the October and December meetings.
-
----
-
-### 2026-10-16 11:40:37  #央行 #國際
-
-美聯儲沃什：投資激增得益於良好的政策。
-
----
-
-### 2026-10-16 11:40:30  #央行 #國際
-
-美聯儲主席沃什：顯然，美聯儲的政策會外溢到世界其他地區，但他們的政策也會反過來影響我們。
-
----
-
-### 2026-10-16 11:40:22  #央行 #國際
-
-美聯儲沃什：將在10月和12月會議上做出判斷。
-
----
-
-### 2026-10-16 11:40:18  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #S&P500 #Impact bullish #Copper
-
-Fed Chair KEVIN WARSH said the U.S. economy is currently experiencing structural growth and investment is surging.
-
----
-
-### 2026-10-16 11:40:16  #央行 #國際
-
-美聯儲沃什：目前我們擁有結構性增長，以及投資激增。
-
----
-
-### 2026-10-16 11:40:07  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed chair Kevin Warsh said the Fed will clarify changes in output, employment and inflation.
-
----
-
-### 2026-10-16 11:39:50  #央行 #國際
-
-美聯儲沃什：今年我們還將再舉行幾次會議，那將是關鍵的時刻。
-
----
-
-### 2026-10-16 11:39:49  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed chair Kevin Warsh said the Fed will meet several more times this year and those meetings will be key moments.
-
----
-
-### 2026-10-16 11:39:43  #央行 #國際
-
-美聯儲主席沃什：將明確產出、就業和通脹的走向。
-
----
-
-### 2026-10-16 11:39:15  #MKT News #Macro & Rates #The Fed (FOMC)
-
-KEVIN WARSH: Since the September FOMC meeting, global developments have broadly aligned with our expectations.
-
----
-
-### 2026-10-16 11:39:08  #央行 #國際
-
-美聯儲主席沃什表示：自9月聯邦公開市場委員會會議以來，世界形勢基本符合我們的預期。
-
----
-
-### 2026-10-16 11:38:20  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed chair Kevin Warsh said he may have been overly sensitive to the lingering effects of the global financial crisis.
-
----
-
-### 2026-10-16 11:38:16  #央行 #國際
-
-美聯儲沃什：我可能對全球金融危機過度恐懼。
-
----
-
-### 2026-10-16 11:37:57  #央行 #國際
-
-格奧爾基耶娃稱沃什“對金融市場有著令人印象深刻的深刻理解”，並稱贊他是美聯儲主席的“絕佳人選”。
-
----
-
-### 2026-10-16 11:36:13  #MKT News
-
-U.S. Treasury official Brown said the U.S. will continue working with Vietnam to explore deeper integration and cooperation opportunities.
-
----
-
-### 2026-10-16 11:35:56  #MKT News #Market Regions
-
-U.S. Treasury official Brown said the U.S. is working with Indo-Pacific trade partners to build more resilient and secure supply chains.
-
----
-
-### 2026-10-16 11:35:55  #宏觀 #國際
-
-美國財政部官員布朗：美國將繼續與越南合作，探索更深層次一體化與合作的機會。
-
----
-
-### 2026-10-16 11:35:42  #MKT News #Market Regions #Europe & UK #EURUSD
-
-【ECB Governing Council member Rehn: current policy stance is working; December will bring more economic data】Rehn said in Bangkok at the IMF annual meeting that the ECB will receive additional economic data ahead of its final rate decision of the year and will publish comprehensive macro projections in December to better assess growth and inflation prospects. He described the current prudent, measured policy stance as appropriate, noting energy prices are pushing up inflation but there are not yet clear second‑round effects or broad-based spillovers; the ECB will remain vigilant to prevent inflation from becoming more entrenched.
-
----
-
-### 2026-10-16 11:35:27  #宏觀 #國際
-
-美國財政部官員布朗：美國正與印太地區的貿易伙伴合作，以建立更具彈性和更安全的供應鏈。
-
----
-
-### 2026-10-16 11:35:20  #MKT News #Commodities #Precious Metals #Market Regions #Greater China #SSE Composite #Impact bullish #CSI300 #XAUUSD
-
-【China A-share midday: Shanghai Composite +0.95% as defense sector spikes】At midday Shanghai Composite +0.95%, Shenzhen Composite +1.19%, ChiNext +0.96%. Defense names led gains, with multiple stocks hitting daily limit-up, including Shengnan Technology, Huali Chuangtong and Chenxi Aviation. Speed-reducer/industrial components stocks also rallied; Yuhuan CNC, Xiangyang Bearing and Zhongding Co reached limit-up. Precious metals climbed, Zhaojin Gold +6%+. Outperformers included property developers, controlled nuclear fusion, power-grid equipment, plantation, winter-sports and innovative drugs; components, gaming, brokerages, batteries and cinema chains lagged. Combined Shanghai/Shenzhen turnover ~962.6 bln yuan, down ~19.2 bln yuan vs. yesterday; advancing stocks ~4,600, declining ~600.
-
----
-
-### 2026-10-16 11:34:49  #央行 #歐洲央行
-
-【德國央行行長Nagel：歐洲央行可能不得不再次加息】德國央行行長JoachimNagel表示，歐洲央行可能不得不再次加息。Nagel在曼谷出席國際貨幣基金組織(IMF)年會時對記者表示：“我們已經兩次上調政策利率。如果當前形勢沒有改變，我們不排除可能還需要再次行動。”歐洲央行在本輪緊縮週期中已兩次加息，普遍預計該行將在12月政策會議上再次加息25個基點。
-
----
-
-### 2026-10-16 11:34:44  #宏觀 #國際
-
-美國財政部官員布朗：美國財政部正與柬埔寨政府就打擊實施欺詐的犯罪網路進行對話。
-
----
-
-### 2026-10-16 11:34:02  #MKT News #Market Regions #Greater China
-
-【China Index Academy: Q4 housing rental market to enter seasonal lull; rents in key cities still face adjustment pressure】China Index Academy Q3 2026 review: residential rental market in major Chinese cities was broadly stable; downward pressure on rents eased, rental yields improved and the sector’s institutional framework continued to strengthen. Outlook for Q4: market to enter the traditional off‑season, rents in key cities remain under adjustment pressure, overall movements likely to be narrow, while prime, well‑located stock retains structural support.
-
----
-
-### 2026-10-16 11:33:39  #其他
-
-【中指研究院：四季度住房租賃市場將進入傳統淡季 重點城市租金仍存在調整壓力】中指研究院釋出2026三季度中國住房租賃市場總結稱，2026年三季度，國內重點城市住房租賃市場整體執行平穩，租金下行壓力有所緩解，租賃資產回報水平改善，行業制度框架持續完善。展望四季度，住房租賃市場將進入傳統淡季，重點城市租金仍存在調整壓力，預計整體將以窄幅波動為主，優質區位房源具備結構性支撐。
-
----
-
-### 2026-10-16 11:33:03  #MKT News #DXY #Impact mixed
-
-U.S. Treasury official Brown warned that sharp, disorderly currency moves could have broader consequences and trigger market volatility.
-
----
-
-### 2026-10-16 11:32:36  #宏觀 #國際
-
-美國財政部官員布朗：劇烈、無序的貨幣波動可能造成更廣泛的後果，並導致整個市場波動。
-
----
-
-### 2026-10-16 11:32:28  #央行 #國際
-
-美聯儲主席凱文·沃什在曼谷發表講話。
-
----
-
-### 2026-10-16 11:31:58  #MKT News #Market Regions #Japan & APAC
-
-Treasury official Brown said the United States and Japan are maintaining close, multi-level communication and cooperation to support market stability and orderly functioning.
-
----
-
-### 2026-10-16 11:31:55  #MKT News
-
-【China government bond futures morning session close】2-year (TS) most-active contract +0.02%, 5-year (TF) +0.03%, 10-year (T) +0.03%, 30-year (TL) -0.18% at morning close.
-
----
-
-### 2026-10-16 11:31:49  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-【Equity index futures morning session close】China's CSI 300 index futures (IF) front-month contract rose 1.35%; SSE 50 index futures (IH) up 1.04%; CSI 500 futures (IC) up 2.29%; CSI 1000 futures (IM) up 2.16% at the morning session close.
-
----
-
-### 2026-10-16 11:31:38  #公司 #市場 #A股
-
-【A股午評：滬指半日漲近1%，軍工裝備、航空航天板塊全線爆發】A股三大指數早盤集體上漲，截至午盤，上證指數漲0.95%，深證成指漲1.19%，創業板指漲0.96%，北證50漲1.3%，科創50指數漲1.64%。全市場成交額9709億元，較上日縮量187億元，全市場超4800只個股上漲。板塊題材上，軍工裝備、飛行汽車、貴金屬、房地產、風電裝置、電機、豬肉板塊漲幅居前；元件、遊戲、證券、電池、保險、AI影片板塊表現相對落後。盤面上，2026年珠海航展規模創新高，軍工裝備、航空發動機板塊大幅拉昇，晟楠科技30cm漲停，晨曦航空、中科海訊20cm漲停，長城軍工、甘化科工等20餘股封板。房地產板塊盤中走高，新城控股、深物業A、粵宏遠A漲停，此前一線城市商品住房銷售制度改革細則全面落地。豬肉養殖板塊同樣表現活躍，天康生物、東瑞股份領漲。此外，風電裝置、貴金屬、電機等板塊均有異動。另一方面，遊戲板塊區域性調整，電魂網路、冰川網路、富春股份等股下挫。部分PCB概念股同樣回撥，四會富仕跌超10%，威爾高、金百澤、天津普林跌幅居前。
-
----
-
-### 2026-10-16 11:31:35  #MKT News #Important #Commodities #Precious Metals #Industrial Metals
-
-By morning close, Chinese main futures contracts were mixed. Palladium, polysilicon, butadiene rubber, Shanghai tin, industrial silicon and Shanghai silver rose more than 2%; alumina and platinum gained nearly 2%. Benzene and styrene (EB) fell over 2%.
-
----
-
-### 2026-10-16 11:31:28  #MKT News
-
-【Rail service numbers to be revised; new X prefix for EMUs above 350 km/h】China State Railway Group will adjust nationwide train numbers in two batches in late November and late December, adding a new X prefix for Fuxing EMUs with maximum operating speeds above 350 km/h. The X prefix (read “Xin”) will cover X1–X9998. The change will be implemented alongside a revised Train Numbering Regulations, increasing EMU passenger-train letter prefixes from four to seven and raising available train-number capacity by nearly 40%. Operating sections and published timetables will remain governed by the current operating diagram.
-
----
-
-### 2026-10-16 11:31:17  #宏觀 #國際
-
-美國財政部官員布朗：美日密切溝通，各層面攜手合作，以支援穩定、運轉良好的市場。
-
----
-
-### 2026-10-16 11:31:17  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-U.S. Treasury official Brown said Japan is no longer in a deflationary environment and that the yen’s level and Japanese monetary policy must adjust accordingly.
-
----
-
-### 2026-10-16 11:31:05  #宏觀 #國際
-
-美國財政部官員布朗：日本不再面臨通縮環境，日元匯率和貨幣政策必須隨之改變。
-
----
-
-### 2026-10-16 11:30:58  #公司
-
-【動車字頭4個變7個 鐵路車次編排改革啟動】近日，國鐵集團啟動全國鐵路列車車次編排改革工作，將在11月下旬、12月下旬分2批對現行列車車次的字頭字母、數字號段編排進行全面最佳化調整，拓展車次編排可使用的號段資源。與2014版列車車次的編排相比，新版列車車次做了全面系統最佳化調整，其中動車組旅客列車車次的字頭字母由原來的4個增加至7個，可編排的列車車次數量增長近40%。
 
 ---

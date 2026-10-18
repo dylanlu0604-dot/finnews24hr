@@ -1,7 +1,601 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-10-18 07:22:03_
-_本檔包含 2581 則快訊，約 478960 字_
+_更新時間：2026-10-18 09:28:01_
+_本檔包含 2622 則快訊，約 477308 字_
+
+---
+
+### 2026-10-16 11:55:37  #國際
+
+韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化買入。
+
+---
+
+### 2026-10-16 11:55:26  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Kevin Warsh, chair of the Federal Reserve, said 75% of the Fed’s staff do not work on monetary policy.
+
+---
+
+### 2026-10-16 11:55:14  #MKT News #Important
+
+【About magnitude 7.2 earthquake near Russia's Kamchatka Peninsula】China Earthquake Networks Center (CENC) automatically determined a roughly M7.2 earthquake occurred near Russia's Kamchatka Peninsula at 11:35 on Oct 16, located at 51.88°N, 157.11°E.
+
+---
+
+### 2026-10-16 11:54:41  #MKT News #Macro & Rates
+
+Federal Reserve Chair Kevin Warsh said the Fed has many talented staff but needs to foster the right culture.
+
+---
+
+### 2026-10-16 11:53:47  #MKT News #Market Regions #Greater China #03301.HK #Impact bullish #00960.HK #02202.HK
+
+Hong Kong-listed property stocks rose amid choppy trading; Ronshine China (03301.HK) gained more than 10%, with Longfor Group (00960.HK), China Vanke (02202.HK), Xincheng Development Holdings (01030.HK), China Jinmao (00817.HK) and CHINA RES LAND (01109.HK) also higher.
+
+---
+
+### 2026-10-16 11:53:05  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh said he would be hesitant to introduce new ideas if he had not previously worked at the Fed.
+
+---
+
+### 2026-10-16 11:52:57  #央行 #國際
+
+美元指數短線走低10多個點，美聯儲主席沃什正在講話。
+
+---
+
+### 2026-10-16 11:52:34  #其他
+
+沃什：認為人工智慧可以提高經濟生產率，增加財富。
+
+---
+
+### 2026-10-16 11:52:24  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold rose about $20 intraday to touch $4,180/oz, up 0.25% on the day.
+
+---
+
+### 2026-10-16 11:52:06  #MKT News #Commodities #Precious Metals
+
+New York silver futures hit an intraday high of $58/oz, up 1.48% on the day.
+
+---
+
+### 2026-10-16 11:52:04  #MKT News
+
+Fed Chair Kevin Warsh said the question is whether policymakers can address "negative tail risks".
+
+---
+
+### 2026-10-16 11:51:49  #其他
+
+沃什：需要問的是，“是否存在決策者可以採取措施應對的負面尾部風險”。
+
+---
+
+### 2026-10-16 11:51:36  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Kevin Warsh, Federal Reserve chair, said the Fed needs to consider financial-stability risks when setting policy.
+
+---
+
+### 2026-10-16 11:51:21  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the U.S. is advancing new technologies through private-sector investment and the Fed is not trying to judge who is right or wrong.
+
+---
+
+### 2026-10-16 11:51:05  #MKT News #Important #DXY #Impact bearish #XAUUSD #Impact bullish #USDJPY
+
+Dollar index (DXY) slipped about 0.15 points in intraday trade to 101.86.
+
+---
+
+### 2026-10-16 11:51:00  #央行 #國際
+
+美聯儲主席沃什：人工智慧將從根本上改變貨幣政策的實施方式。目前還不清楚人工智慧未來對就業的影響。
+
+---
+
+### 2026-10-16 11:50:50  #市場 #焦點
+
+紐約期銀突破58美元/盎司，日內漲1.50%。
+
+---
+
+### 2026-10-16 11:50:32  #央行 #國際
+
+沃什：美國正透過私營部門投資於新技術，美聯儲不會試圖判斷誰對誰錯。
+
+---
+
+### 2026-10-16 11:50:30  #MKT News #Macro & Rates #The Fed (FOMC)
+
+KEVIN WARSH said Fed working groups are tasked with creating new intellectual capital to support the Federal Open Market Committee (FOMC).
+
+---
+
+### 2026-10-16 11:50:25  #市場 #焦點
+
+現貨黃金突破4180美元/盎司，日內漲0.23%。
+
+---
+
+### 2026-10-16 11:49:47  #央行 #國際
+
+美聯儲主席沃什：美聯儲工作組肩負著創造新智力資本以協助聯邦公開市場委員會的重任。
+
+---
+
+### 2026-10-16 11:49:25  #MKT News #Market Themes #AI Revolution
+
+Federal Reserve Chair Kevin Warsh said it remains unclear how artificial intelligence will affect the unemployment rate going forward.
+
+---
+
+### 2026-10-16 11:49:11  #國際
+
+中國地震臺網自動測定：10月16日11時35分在俄羅斯堪察加半島附近（北緯51.88度，東經157.11度）發生7.2級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-10-16 11:48:37  #MKT News #Market Themes #AI Revolution #S&P500 #Impact bullish #Nasdaq100 #DXY #Impact bearish
+
+Federal Reserve Chair Kevin Warsh said AI is a positive supply shock over the medium term.
+
+---
+
+### 2026-10-16 11:48:30  #國際
+
+最新訊息：據歐洲地中海地震中心報告，俄羅斯堪察加半島地區今天（10月16日）發生7.0級地震。
+
+---
+
+### 2026-10-16 11:48:15  #央行 #國際
+
+美聯儲沃什：人工智慧在中長期內是積極的供給衝擊。
+
+---
+
+### 2026-10-16 11:48:09  #央行 #國際
+
+美聯儲的沃什：人工智慧將先出現在經濟的需求側，而非供給側。
+
+---
+
+### 2026-10-16 11:47:53  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the Fed will hold an in-person hearing on AI on Nov. 16 in the San Francisco Bay Area.
+
+---
+
+### 2026-10-16 11:47:29  #央行 #國際
+
+美聯儲理事沃什：美聯儲將於11月16日在舊金山灣區舉行關於人工智慧的現場聽證會。
+
+---
+
+### 2026-10-16 11:47:16  #MKT News #Market Themes #AI Revolution
+
+Fed Chair Kevin Warsh said AI may be the most significant change to the U.S. and global economy.
+
+---
+
+### 2026-10-16 11:47:11  #MKT News #Market Themes #AI Revolution #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Nasdaq100 #DXY #Impact bearish
+
+Federal Reserve chair Kevin Warsh said artificial intelligence will boost productivity and create more wealth, but the path to that outcome will be bumpy.
+
+---
+
+### 2026-10-16 11:46:49  #MKT News #Macro & Rates #The Fed (FOMC) #Market Themes #AI Revolution
+
+Fed chair Kevin Warsh said artificial intelligence will transform the real economy, but its short-term impact on employment remains uncertain.
+
+---
+
+### 2026-10-16 11:46:35  #MKT News #Market Themes #AI Revolution #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chairman Kevin Warsh said artificial intelligence will help central banks boost confidence in data and monetary policy.
+
+---
+
+### 2026-10-16 11:46:17  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+Federal Reserve Chair Kevin Warsh said the Fed tightened monetary policy in September.
+
+---
+
+### 2026-10-16 11:46:14  #央行 #國際
+
+美聯儲主席沃什：人工智慧將提高經濟生產力，創造更多財富，但通往目標的道路並非一帆風順。
+
+---
+
+### 2026-10-16 11:46:02  #其他
+
+沃什：人工智慧將改變實體經濟，但對就業的近期影響尚不確定。
+
+---
+
+### 2026-10-16 11:45:53  #央行 #其他
+
+沃什：人工智慧將幫助各國央行對資料和貨幣政策更有信心。
+
+---
+
+### 2026-10-16 11:45:51  #MKT News #Market Themes #AI Revolution
+
+Federal Reserve chair Kevin Warsh said in the U.S. we now call artificial intelligence (AI) "superintelligence (SI)".
+
+---
+
+### 2026-10-16 11:45:43  #Trading Economics #Markets #India #stocks #Importance 0
+
+Bharti Airtel Shares Hit 4-week High — Bharti Airtel shares increased to 1871.00 INR, the highest since September 2026. Over the past 4 weeks, Bharti Airtel gained 1.83%, and in the last 12 months, it decreased 5.03%.
+
+---
+
+### 2026-10-16 11:45:42  #國際
+
+沃什：人工智慧在未來將極大地造福美國經濟。
+
+---
+
+### 2026-10-16 11:45:36  #MKT News #Market Regions #Greater China
+
+【MIIT says new battery industry must avoid blind rapid expansion】At the 2026 World Energy Storage Conference in Ningde, Fujian on Oct. 15, Yang Xudong, director of the Electronic Information Department at the Ministry of Industry and Information Technology, said China’s new battery industry should maintain steady growth during the 15th Five-Year Plan period but avoid blind rapid capacity expansion that could produce unnecessary supply‑demand imbalances; national top-level design will prioritize supply‑demand matching.
+
+---
+
+### 2026-10-16 11:45:30  #央行 #國際
+
+美聯儲主席沃什：人工智慧是我一生中最具深遠影響的經濟變革。
+
+---
+
+### 2026-10-16 11:45:09  #其他
+
+沃什表示，他不認同提前說明自己在未來會議上會怎麼做。
+
+---
+
+### 2026-10-16 11:44:47  #其他
+
+【工信部：新型電池產業絕不能盲目地大幹快上】“在‘十五五’時期，新型電池產業規模要保持穩步增長的態勢，但這個穩步增長也要考慮到現實承受和發展基礎，絕不能盲目的大幹快上，造成不必要的供需矛盾。”在10月15日於福建省寧德市舉行的2026世界儲能大會上，工信部電子資訊司司長楊旭東強調，國家頂層設計“突出供需適配”。（澎湃新聞）
+
+---
+
+### 2026-10-16 11:44:38  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said artificial intelligence will affect economic demand before producing supply-side effects.
+
+---
+
+### 2026-10-16 11:44:31  #其他
+
+沃什：人工智慧將先衝擊經濟的需求端，然後才是供給衝擊。
+
+---
+
+### 2026-10-16 11:44:15  #MKT News
+
+EMSC reports a magnitude-7.0 earthquake on Russia's Kamchatka Peninsula.
+
+---
+
+### 2026-10-16 11:44:07  #其他
+
+沃什：我們已經非常明確地表示，我們將實現價格穩定。
+
+---
+
+### 2026-10-16 11:43:51  #國際
+
+沃什：在美國，我們現在將人工智慧（AI）稱為“SI”。
+
+---
+
+### 2026-10-16 11:43:29  #央行 #國際
+
+交易員稱，印度央行在外匯市場拋售美元以支撐盧比。
+
+---
+
+### 2026-10-16 11:43:25  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said not to believe claims about what he might do at the Fed's remaining meetings in 2026.
+
+---
+
+### 2026-10-16 11:42:49  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh urged against pre-judging the Fed's policy meeting outcome.
+
+---
+
+### 2026-10-16 11:42:28  #其他
+
+沃什：我們在 9 月份取消了一定程度的通融。
+
+---
+
+### 2026-10-16 11:42:09  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+KEVIN WARSH said the Fed has been clear it will achieve price stability and he does not favor drawing premature conclusions about the meeting outcome.
+
+---
+
+### 2026-10-16 11:42:06  #央行 #國際
+
+美聯儲沃什：不認同在2026年剩餘時間的會議上提前透露可能採取的行動。
+
+---
+
+### 2026-10-16 11:41:34  #央行 #國際
+
+沃什：在美聯儲，我們已明確表示將實現價格穩定，我不認同預先判斷會議結果的做法。
+
+---
+
+### 2026-10-16 11:41:20  #MKT News
+
+Fed chair Kevin Warsh said a surge in investment is the single most important factor driving the global economic upswing.
+
+---
+
+### 2026-10-16 11:41:14  #MKT News #S&P500 #Impact bullish #DXY
+
+Federal Reserve Chair Kevin Warsh said the surge in investment stems from sound policy.
+
+---
+
+### 2026-10-16 11:41:12  #央行 #國際
+
+美聯儲沃什：投資激增是全球經濟上行中最重要的事件。
+
+---
+
+### 2026-10-16 11:41:02  #央行 #國際
+
+美聯儲主席沃什表示，他看到了美國經濟的結構性增長。
+
+---
+
+### 2026-10-16 11:41:02  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the Fed's policy clearly affects other regions globally, and other countries' policies, in turn, affect the United States.
+
+---
+
+### 2026-10-16 11:40:49  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair KEVIN WARSH said the Fed will make judgments at the October and December meetings.
+
+---
+
+### 2026-10-16 11:40:37  #央行 #國際
+
+美聯儲沃什：投資激增得益於良好的政策。
+
+---
+
+### 2026-10-16 11:40:30  #央行 #國際
+
+美聯儲主席沃什：顯然，美聯儲的政策會外溢到世界其他地區，但他們的政策也會反過來影響我們。
+
+---
+
+### 2026-10-16 11:40:22  #央行 #國際
+
+美聯儲沃什：將在10月和12月會議上做出判斷。
+
+---
+
+### 2026-10-16 11:40:18  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #S&P500 #Impact bullish #Copper
+
+Fed Chair KEVIN WARSH said the U.S. economy is currently experiencing structural growth and investment is surging.
+
+---
+
+### 2026-10-16 11:40:16  #央行 #國際
+
+美聯儲沃什：目前我們擁有結構性增長，以及投資激增。
+
+---
+
+### 2026-10-16 11:40:07  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said the Fed will clarify changes in output, employment and inflation.
+
+---
+
+### 2026-10-16 11:39:50  #央行 #國際
+
+美聯儲沃什：今年我們還將再舉行幾次會議，那將是關鍵的時刻。
+
+---
+
+### 2026-10-16 11:39:49  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said the Fed will meet several more times this year and those meetings will be key moments.
+
+---
+
+### 2026-10-16 11:39:43  #央行 #國際
+
+美聯儲主席沃什：將明確產出、就業和通脹的走向。
+
+---
+
+### 2026-10-16 11:39:15  #MKT News #Macro & Rates #The Fed (FOMC)
+
+KEVIN WARSH: Since the September FOMC meeting, global developments have broadly aligned with our expectations.
+
+---
+
+### 2026-10-16 11:39:08  #央行 #國際
+
+美聯儲主席沃什表示：自9月聯邦公開市場委員會會議以來，世界形勢基本符合我們的預期。
+
+---
+
+### 2026-10-16 11:38:20  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said he may have been overly sensitive to the lingering effects of the global financial crisis.
+
+---
+
+### 2026-10-16 11:38:16  #央行 #國際
+
+美聯儲沃什：我可能對全球金融危機過度恐懼。
+
+---
+
+### 2026-10-16 11:37:57  #央行 #國際
+
+格奧爾基耶娃稱沃什“對金融市場有著令人印象深刻的深刻理解”，並稱贊他是美聯儲主席的“絕佳人選”。
+
+---
+
+### 2026-10-16 11:36:13  #MKT News
+
+U.S. Treasury official Brown said the U.S. will continue working with Vietnam to explore deeper integration and cooperation opportunities.
+
+---
+
+### 2026-10-16 11:35:56  #MKT News #Market Regions
+
+U.S. Treasury official Brown said the U.S. is working with Indo-Pacific trade partners to build more resilient and secure supply chains.
+
+---
+
+### 2026-10-16 11:35:55  #宏觀 #國際
+
+美國財政部官員布朗：美國將繼續與越南合作，探索更深層次一體化與合作的機會。
+
+---
+
+### 2026-10-16 11:35:42  #MKT News #Market Regions #Europe & UK #EURUSD
+
+【ECB Governing Council member Rehn: current policy stance is working; December will bring more economic data】Rehn said in Bangkok at the IMF annual meeting that the ECB will receive additional economic data ahead of its final rate decision of the year and will publish comprehensive macro projections in December to better assess growth and inflation prospects. He described the current prudent, measured policy stance as appropriate, noting energy prices are pushing up inflation but there are not yet clear second‑round effects or broad-based spillovers; the ECB will remain vigilant to prevent inflation from becoming more entrenched.
+
+---
+
+### 2026-10-16 11:35:27  #宏觀 #國際
+
+美國財政部官員布朗：美國正與印太地區的貿易伙伴合作，以建立更具彈性和更安全的供應鏈。
+
+---
+
+### 2026-10-16 11:35:20  #MKT News #Commodities #Precious Metals #Market Regions #Greater China #SSE Composite #Impact bullish #CSI300 #XAUUSD
+
+【China A-share midday: Shanghai Composite +0.95% as defense sector spikes】At midday Shanghai Composite +0.95%, Shenzhen Composite +1.19%, ChiNext +0.96%. Defense names led gains, with multiple stocks hitting daily limit-up, including Shengnan Technology, Huali Chuangtong and Chenxi Aviation. Speed-reducer/industrial components stocks also rallied; Yuhuan CNC, Xiangyang Bearing and Zhongding Co reached limit-up. Precious metals climbed, Zhaojin Gold +6%+. Outperformers included property developers, controlled nuclear fusion, power-grid equipment, plantation, winter-sports and innovative drugs; components, gaming, brokerages, batteries and cinema chains lagged. Combined Shanghai/Shenzhen turnover ~962.6 bln yuan, down ~19.2 bln yuan vs. yesterday; advancing stocks ~4,600, declining ~600.
+
+---
+
+### 2026-10-16 11:34:49  #央行 #歐洲央行
+
+【德國央行行長Nagel：歐洲央行可能不得不再次加息】德國央行行長JoachimNagel表示，歐洲央行可能不得不再次加息。Nagel在曼谷出席國際貨幣基金組織(IMF)年會時對記者表示：“我們已經兩次上調政策利率。如果當前形勢沒有改變，我們不排除可能還需要再次行動。”歐洲央行在本輪緊縮週期中已兩次加息，普遍預計該行將在12月政策會議上再次加息25個基點。
+
+---
+
+### 2026-10-16 11:34:44  #宏觀 #國際
+
+美國財政部官員布朗：美國財政部正與柬埔寨政府就打擊實施欺詐的犯罪網路進行對話。
+
+---
+
+### 2026-10-16 11:34:02  #MKT News #Market Regions #Greater China
+
+【China Index Academy: Q4 housing rental market to enter seasonal lull; rents in key cities still face adjustment pressure】China Index Academy Q3 2026 review: residential rental market in major Chinese cities was broadly stable; downward pressure on rents eased, rental yields improved and the sector’s institutional framework continued to strengthen. Outlook for Q4: market to enter the traditional off‑season, rents in key cities remain under adjustment pressure, overall movements likely to be narrow, while prime, well‑located stock retains structural support.
+
+---
+
+### 2026-10-16 11:33:39  #其他
+
+【中指研究院：四季度住房租賃市場將進入傳統淡季 重點城市租金仍存在調整壓力】中指研究院釋出2026三季度中國住房租賃市場總結稱，2026年三季度，國內重點城市住房租賃市場整體執行平穩，租金下行壓力有所緩解，租賃資產回報水平改善，行業制度框架持續完善。展望四季度，住房租賃市場將進入傳統淡季，重點城市租金仍存在調整壓力，預計整體將以窄幅波動為主，優質區位房源具備結構性支撐。
+
+---
+
+### 2026-10-16 11:33:03  #MKT News #DXY #Impact mixed
+
+U.S. Treasury official Brown warned that sharp, disorderly currency moves could have broader consequences and trigger market volatility.
+
+---
+
+### 2026-10-16 11:32:36  #宏觀 #國際
+
+美國財政部官員布朗：劇烈、無序的貨幣波動可能造成更廣泛的後果，並導致整個市場波動。
+
+---
+
+### 2026-10-16 11:32:28  #央行 #國際
+
+美聯儲主席凱文·沃什在曼谷發表講話。
+
+---
+
+### 2026-10-16 11:31:58  #MKT News #Market Regions #Japan & APAC
+
+Treasury official Brown said the United States and Japan are maintaining close, multi-level communication and cooperation to support market stability and orderly functioning.
+
+---
+
+### 2026-10-16 11:31:55  #MKT News
+
+【China government bond futures morning session close】2-year (TS) most-active contract +0.02%, 5-year (TF) +0.03%, 10-year (T) +0.03%, 30-year (TL) -0.18% at morning close.
+
+---
+
+### 2026-10-16 11:31:49  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【Equity index futures morning session close】China's CSI 300 index futures (IF) front-month contract rose 1.35%; SSE 50 index futures (IH) up 1.04%; CSI 500 futures (IC) up 2.29%; CSI 1000 futures (IM) up 2.16% at the morning session close.
+
+---
+
+### 2026-10-16 11:31:38  #公司 #市場 #A股
+
+【A股午評：滬指半日漲近1%，軍工裝備、航空航天板塊全線爆發】A股三大指數早盤集體上漲，截至午盤，上證指數漲0.95%，深證成指漲1.19%，創業板指漲0.96%，北證50漲1.3%，科創50指數漲1.64%。全市場成交額9709億元，較上日縮量187億元，全市場超4800只個股上漲。板塊題材上，軍工裝備、飛行汽車、貴金屬、房地產、風電裝置、電機、豬肉板塊漲幅居前；元件、遊戲、證券、電池、保險、AI影片板塊表現相對落後。盤面上，2026年珠海航展規模創新高，軍工裝備、航空發動機板塊大幅拉昇，晟楠科技30cm漲停，晨曦航空、中科海訊20cm漲停，長城軍工、甘化科工等20餘股封板。房地產板塊盤中走高，新城控股、深物業A、粵宏遠A漲停，此前一線城市商品住房銷售制度改革細則全面落地。豬肉養殖板塊同樣表現活躍，天康生物、東瑞股份領漲。此外，風電裝置、貴金屬、電機等板塊均有異動。另一方面，遊戲板塊區域性調整，電魂網路、冰川網路、富春股份等股下挫。部分PCB概念股同樣回撥，四會富仕跌超10%，威爾高、金百澤、天津普林跌幅居前。
+
+---
+
+### 2026-10-16 11:31:35  #MKT News #Important #Commodities #Precious Metals #Industrial Metals
+
+By morning close, Chinese main futures contracts were mixed. Palladium, polysilicon, butadiene rubber, Shanghai tin, industrial silicon and Shanghai silver rose more than 2%; alumina and platinum gained nearly 2%. Benzene and styrene (EB) fell over 2%.
+
+---
+
+### 2026-10-16 11:31:28  #MKT News
+
+【Rail service numbers to be revised; new X prefix for EMUs above 350 km/h】China State Railway Group will adjust nationwide train numbers in two batches in late November and late December, adding a new X prefix for Fuxing EMUs with maximum operating speeds above 350 km/h. The X prefix (read “Xin”) will cover X1–X9998. The change will be implemented alongside a revised Train Numbering Regulations, increasing EMU passenger-train letter prefixes from four to seven and raising available train-number capacity by nearly 40%. Operating sections and published timetables will remain governed by the current operating diagram.
+
+---
+
+### 2026-10-16 11:31:17  #宏觀 #國際
+
+美國財政部官員布朗：美日密切溝通，各層面攜手合作，以支援穩定、運轉良好的市場。
+
+---
+
+### 2026-10-16 11:31:17  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+U.S. Treasury official Brown said Japan is no longer in a deflationary environment and that the yen’s level and Japanese monetary policy must adjust accordingly.
+
+---
+
+### 2026-10-16 11:31:05  #宏觀 #國際
+
+美國財政部官員布朗：日本不再面臨通縮環境，日元匯率和貨幣政策必須隨之改變。
+
+---
+
+### 2026-10-16 11:30:58  #公司
+
+【動車字頭4個變7個 鐵路車次編排改革啟動】近日，國鐵集團啟動全國鐵路列車車次編排改革工作，將在11月下旬、12月下旬分2批對現行列車車次的字頭字母、數字號段編排進行全面最佳化調整，拓展車次編排可使用的號段資源。與2014版列車車次的編排相比，新版列車車次做了全面系統最佳化調整，其中動車組旅客列車車次的字頭字母由原來的4個增加至7個，可編排的列車車次數量增長近40%。
 
 ---
 
@@ -15236,353 +15830,5 @@ Sensex Rebounds on Tech Gains — India’s BSE Sensex rose about 1.1% to 73,552
 ### 2026-10-15 12:41:52  #MKT News
 
 【Tianchen Co.: Energy-storage orders being filled and expanded within existing plant capacity】At its 1H2026 results briefing, Tianchen said its Fanchang production base has two PACK lines — one fully automated and one flexible — compatible with mainstream cell specifications and able to produce utility-scale, commercial & industrial, and residential storage concurrently. The company is executing and seeking to expand energy-storage orders based on current factory capacity.
-
----
-
-### 2026-10-15 12:41:18  #公司
-
-【天宸股份：儲能業務正根據工廠現有產能落實和拓展訂單】天宸股份在2026年半年度業績說明會上表示，截至目前，天宸能科繁昌生產基地具有全自動和柔性兩條PACK生產線，可相容當前市場主流規格電芯，能夠同時生產大型儲能、工商業儲能、戶用儲能等多品類儲能產品。公司正根據工廠現有產能落實和拓展業務訂單。
-
----
-
-### 2026-10-15 12:41:07  #Trading Economics #Economy #Japan #Industrial Production Mom #Importance 1
-
-Japan Industrial Output Falls More than Initially Anticipated — Japan’s industrial production dropped 2.4% month-over-month in August 2026, steeper than flash data of a 1.7% decline and July's 0.2% fall. It was the second straight month of monthly contraction and the steepest pace since January, reflecting weaker output across key manufacturing sectors amid weak export demand. Output contracted for motor vehicles (-6.8% vs 0.8% in July), general-purpose and business-oriented machinery (-6.3% vs 1.9%), and petroleum and coal products (-13.3% vs 8.6%). In contrast, production rose for production machinery (5.9% vs 5.1%), and transport equipment excluding motor vehicles (2.5% vs -4.0%). On an annual basis, industrial output increased 2.7%, down from 3.9% in July, marking a third consecutive month of growth.
-
----
-
-### 2026-10-15 12:40:59  #MKT News #Commodities #Energy #Market Regions #DRX.L #Impact bullish #EURUSD #Impact mixed
-
-【European battery storage set for one of the most profitable winters as intraday power volatility nears 2022 levels】Short-term power-price volatility in Europe is approaching 2022 energy-crisis levels, creating heightened profit opportunities for battery storage operators. Energy-market disruptions linked to the Iran war have pushed natural gas to near four-year highs; when gas-fired plants are dispatched, electricity prices spike. Simultaneously, rapid expansion of wind and solar is producing deeper intraday price troughs, widening daily high-low spreads. About $40 bln of investment in European battery storage since the last crisis has materially expanded capacity, positioning the fleet to arbitrage these spreads this winter — a test of whether storage can cap spikes and reduce consumer bills. Drax commercial chief Paul Sheffield said colder weather and unpredictable wind have intensified intraday volatility, improving market conditions for battery storage.
-
----
-
-### 2026-10-15 12:40:52  #MKT News #XAUUSD #Impact bullish
-
-TASS reported the Russian Defence Ministry said Russian forces struck Ukraine's Izmail port.
-
----
-
-### 2026-10-15 12:40:52  #MKT News #Market Regions #Greater China #Commodities #Energy
-
-【Huayin Electric Power sees H2 thermal generation improving; profitability exposed to coal prices and other external factors】At its 2026 interim results briefing, Huayin Electric Power said a June 2026 increase in Hunan thermal capacity tariffs supports its thermal business. With changes in water inflows in H2, thermal generation volumes are likely to improve, but profitability remains exposed to coal costs, electricity load and power-market prices, creating uncertainty. The company said it will tighten fuel-cost control, optimize power trading and pursue cost and efficiency measures to lift operating quality.
-
----
-
-### 2026-10-15 12:40:16  #公司
-
-【華銀電力：下半年火電發電空間有望改善 但盈利水平仍受煤價等外部因素影響】華銀電力在2026年半年度業績說明會上表示，2026年6月起湖南火電容量電價上調，對火電業務形成支撐。下半年隨著來水形勢變化，火電發電空間有望改善，但盈利水平仍受煤價、用電負荷、電力市場價格等外部因素影響，存在不確定性。公司將強化燃料成本管控，最佳化電力交易，深挖降本增效潛力，全力提升經營質量。
-
----
-
-### 2026-10-15 12:39:19  #其他
-
-【海南省跨度最長、噸位最大的鋼桁梁順利完成頂推落梁 】10月14日，海南省臨高金牌港開發區港口及配套工程專案2號引橋鋼桁梁順利完成頂推及落梁施工。該鋼桁梁長110米、重2005噸，重新整理了海南省鋼桁梁施工單跨跨度、單體重量兩項紀錄，為同型別大跨度橋樑施工積累了技術經驗。
-
----
-
-### 2026-10-15 12:39:01  #MKT News
-
-【Takaichi to appoint Takebe as agriculture, forestry and fisheries minister】NHK on the 15th reported Prime Minister Takaichi told reporters at the prime minister’s residence she will formally appoint LDP lawmaker Takebe Arata to replace the agriculture, forestry and fisheries minister who resigned amid a remarks-related scandal. The move would mark Takebe’s first cabinet post.
-
----
-
-### 2026-10-15 12:38:51  #央行 #市場 #國際
-
-【印尼盾走低，印尼央行入市干預匯市】印尼央行在外匯市場實施干預，印尼盾兌美元回吐部分早前跌幅。美元兌印尼盾上漲 0.2%，報 17940，盤中最大漲幅曾達 0.3%；該匯率連續兩日走高，誘因是美國通脹資料高於預期，美元隔夜走強。 亞洲主要新興市場貨幣兌美元走勢分化。印尼央行貨幣與證券管理執行總監埃爾溫・胡塔佩在宣告中表示：“印尼央行持續在市場操作，確保市場機制有效運轉，維持印尼盾匯率穩定，貼合基本面水平。”干預操作覆蓋離岸無本金交割遠期（NDF）、即期市場、境內無本金交割遠期（DNDF）市場，同時也在二級市場買入政府債券。
-
----
-
-### 2026-10-15 12:38:11  #公司
-
-【裕興股份：暫未涉及濺射載體銅箔超平PET基膜相關產品】裕興股份(300305)在互動平臺表示，公司生產的功能聚酯薄膜產品厚度介於12~500μm，產品主要包括反射膜、OCA光學膠用離型膜保護膜基膜、汽車窗膜、彩色離型膜保護膜基膜等細分品種。濺射載體銅箔超平PET基膜目前市場主流厚度4~8μm，公司及子公司目前尚未涉及所述相關產品。
-
----
-
-### 2026-10-15 12:37:13  #國際
-
-【高市早苗將任命武部新接任農林水產大臣 】據日本廣播協會15日報道，日本首相高市早苗當天在首相官邸接受媒體採訪時表示，將正式任命自民黨眾議員武部新接替因自身失言等醜聞辭職的梁和生出任農林水產大臣。這是武部新首次入閣。武部新現年56歲，來自眾議院北海道第12選區，已6次當選眾議員，歷任農林水產副大臣、自民黨農林部會會長等職務，曾隸屬於自民黨原派閥“二階派”。其父親武部勤曾擔任農林水產大臣、自民黨幹事長等職務。前任農林水產大臣梁和生因聲稱未在選舉中支援自己的地方自治體被大幅削減道路預算等言論引發爭議，隨後又被曝出涉嫌違反日本《公職選舉法》等問題，他於14日向高市遞交辭呈。
-
----
-
-### 2026-10-15 12:36:45  #其他
-
-【深圳：APEC會議期間公交地鐵票價打五折，倡議市民自願申報停駛私家車】10月15日，深圳市政府新聞辦舉行APEC會議“綠色出行、暢通有我”主題新聞釋出會。深圳市交通運輸局副局長徐煒在會上介紹，APEC會議期間，深圳將實施公交、地鐵票價五折優惠，並透過增加公共交通運力、增設公交接駁專線等措施，保障市民出行。
-
----
-
-### 2026-10-15 12:36:45  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Interfax reports Russian forces struck two merchant vessels en route to Ukraine's port of Odesa.
-
----
-
-### 2026-10-15 12:36:14  #MKT News #WTI #Impact bullish #Brent
-
-An IMF official said inventory levels have fallen and idle capacity is tighter; another supply disruption could trigger larger price adjustments.
-
----
-
-### 2026-10-15 12:35:59  #MKT News
-
-An IMF official urged countries to rebuild buffers, prioritize price stability, and adopt tighter monetary policy alongside prudent fiscal policy.
-
----
-
-### 2026-10-15 12:35:45  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-IMF official said oil-exporting countries directly affected by the war will see a sharp output decline in 2026, a rebound in 2027, but production will remain below pre-war forecast levels.
-
----
-
-### 2026-10-15 12:35:08  #MKT News #WTI #Brent
-
-IMF official: pre-war inventories, alternative supply routes and demand adjustments can help mitigate an oil production shock, but the available buffer is limited.
-
----
-
-### 2026-10-15 12:35:00  #其他
-
-【寧德時代成功註冊“寧的易購”商標】企查查APP顯示，近日，寧德時代成功註冊一枚“寧的易購”商標，國際分類為37類 建築修理，已申請商品/服務包括：修復磨損或部分損壞的機器；機械安裝、保養和修理；運載工具保養服務；電動運載工具充電服務等。
-
----
-
-### 2026-10-15 12:34:52  #MKT News
-
-An IMF official said the Middle East, North Africa and Pakistan region is expected to see a strong but uneven recovery in 2027, with economic growth projected at 6.6%.
-
----
-
-### 2026-10-15 12:34:33  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-An IMF official said the greatest risk is further prolongation of the conflict.
-
----
-
-### 2026-10-15 12:34:27  #公司
-
-【新加坡制定預案：若霧霾加劇將啟動航班應急措施】新加坡民航局與樟宜機場集團表示，一旦霧霾進一步惡化，已準備實施相關舉措保障航班執行安全。應對措施包括加大起降航班之間的間隔，以及在白天開啟機場場地照明，提升飛行員對機場地面的能見度。監管機構與機場運營方稱，正與航司及工會協同，保障新加坡主要門戶樟宜機場與實裡達機場持續安全高效運營。10 月 5 日至 11 日期間，共有 16 架航班從實裡達機場備降改道；部分航司根據現場情況選擇調整或取消航班。新加坡航空在郵件回覆中稱，“安全是首要考量”，並表示 “目前運營暫未受到影響”。
-
----
-
-### 2026-10-15 12:34:22  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-An IMF official said the Middle East war has inflicted highly uneven economic shocks across the region and placed severe strain on directly affected countries.
-
----
-
-### 2026-10-15 12:34:14  #MKT News
-
-IMF official expects the Middle East, North Africa and Pakistan region to contract 1.3% in 2026 after expanding 3.3% in 2025.
-
----
-
-### 2026-10-15 12:33:46  #其他
-
-北歐聯合銀行：關注近期遠期利率的急劇上升，以及未來幾個月利率走高可能對消費者信心產生的影響。
-
----
-
-### 2026-10-15 12:32:41  #市場
-
-【新加坡新房銷量從2024年以來低點回升】新加坡9月新房銷量從兩年多低點反彈，開發商短暫停推後重新推出樓盤。新加坡市區重建局週四公佈的資料顯示，開發商上月售出296套私人新房。8月僅成交153套，為2024年2月以來最低；去年同期成交255套。本次小幅回升，是因為農曆中元節（8月中旬至9月10日）結束後新盤重新入市。中元節普遍被認為不適宜購房。在利率逐步上行的背景下，未來數月將更清晰地展現，這輪歷經多項政府調控仍持續多年的樓市繁榮能否重拾上漲動能。
-
----
-
-### 2026-10-15 12:32:33  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225
-
-Japan August equipment utilization index 103.2, previous 107.7.
-
----
-
-### 2026-10-15 12:32:27  #MKT News #Economic Calendar #Important
-
-Japan | Operating Ratio Index (Aug) | actual 103.2 | previous 107.7
-
----
-
-### 2026-10-15 12:32:01  #MKT News
-
-Japan August final inventories MoM -0.6% (prior -0.5%).
-
----
-
-### 2026-10-15 12:31:57  #經濟數據 #日本
-
-日本8月工業產值終值同比增長2.7%，環比下降2.4%。
-
----
-
-### 2026-10-15 12:31:56  #MKT News #Economic Calendar #Important
-
-Japan | Inventories Final (MoM) (Aug) | actual -0.6% | previous -0.5%
-
----
-
-### 2026-10-15 12:31:43  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #DXY #Impact bullish #US10Y
-
-【HSBC executive warns AI financing will face tighter scrutiny, higher returns demanded】Michael Roberts, head of corporate and institutional banking at HSBC, said banks and investors are becoming more selective and demanding higher returns as large-scale AI infrastructure buildouts proceed. He noted “considerable cautious scepticism” in the market. A sharp sell-off in chipmakers has weighed on global equities and started to reverse prior AI-sector gains. Rising interest rates and multi-decade highs in global bond yields are pushing up capital costs for AI infrastructure. PwC estimates related investment in Asia alone could reach $8.2 trillion by 2050. Roberts said lenders will increasingly require appropriate financing structures and clearer return expectations, and that the large scale of these deals makes them harder to complete.
-
----
-
-### 2026-10-15 12:31:24  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed #Nikkei 225 #Impact bearish
-
-Japan capacity utilization index, Aug MoM -4.2% versus +0.50% in July.
-
----
-
-### 2026-10-15 12:31:18  #MKT News #Economic Calendar #Important
-
-Japan | Operating Ratio Index (MoM) (Aug) | actual -4.2% | previous 0.50%
-
----
-
-### 2026-10-15 12:31:13  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #Nikkei 225 #Impact bearish
-
-Japan August industrial production final YoY +2.7% vs prior +3.4%.
-
----
-
-### 2026-10-15 12:31:08  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #Nikkei 225 #Impact bearish
-
-Japan August industrial production (final) MoM -2.4%, prior -1.7%.
-
----
-
-### 2026-10-15 12:31:07  #MKT News #Economic Calendar #Important
-
-Japan | Industrial Production Final (YoY) (Aug) | actual 2.7% | previous 3.40%
-
----
-
-### 2026-10-15 12:31:02  #MKT News #Economic Calendar #Important
-
-Japan | Industrial Production Final (MoM) (Aug) | actual -2.4% | previous -1.70%
-
----
-
-### 2026-10-15 12:30:22  #國際
-
-日本8月工業產出環比終值 -2.4%，初值 -1.7%；同比終值 2.7%，初值 3.4%。
-
----
-
-### 2026-10-15 12:30:17  #國際
-
-日本8月裝置利用指數環比 -4.2%，前值 0.5%。
-
----
-
-### 2026-10-15 12:30:01  #MKT News #Market Regions #Greater China
-
-【Preview: State Council Information Office to hold press briefing on China's Q1–Q3 2026 economic performance on Oct. 19】The State Council Information Office will hold a press briefing at 10:00 a.m. Beijing time on Monday, 19 October 2026. National Bureau of Statistics spokesperson and vice director Mao Shengyong will present China's economic performance for the first three quarters of 2026 and take questions.
-
----
-
-### 2026-10-15 12:29:24  #其他
-
-【前9個月福建泉州港外貿集裝箱增長超三成 創同期歷史新高】從泉州海關獲悉，今年前9個月，泉州海關共監管外貿集裝箱16.38萬標箱，同比增長30.61%，創同期歷史新高，增幅列全省各港口第一位。今年以來，泉州港多措並舉，外貿國際集裝箱業務全面提速，為泉州外貿高質量發展注入強勁動能。
-
----
-
-### 2026-10-15 12:29:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Palm Oil Falls as Record Stocks Weigh on Sentiment — Malaysian palm oil futures retreated after recent gains, slipping below MYR 4,700 per tonne amid weaker edible oils on China’s Dalian exchange and lower crude oil prices, which reduced palm oil’s appeal as a biodiesel feedstock. Sentiment was also weighed down by renewed concerns over record-high inventories, which climbed to 3.51 million tonnes in September amid peak seasonal production, according to the Malaysian Palm Oil Board (MPOB). Meanwhile, China’s strong September trade surplus and import growth have been supported largely by robust industrial activity and global technology demand, rather than a broad-based recovery in domestic consumption, limiting optimism over demand prospects. However, losses were partly cushioned by signs of stronger export demand, with cargo surveyors estimating palm oil shipments rose 33.5%–37.7% in the first 10 days of October from the same period in September. Expectations of sustained festive buying from top importer India also provided support.
-
----
-
-### 2026-10-15 12:28:52  #國際
-
-【挪威斯瓦爾巴種子庫新增逾1.6萬份樣本】挪威政府14日釋出訊息說，來自世界各地21家基因庫的超過1.6萬份種子樣本日前被存入位於挪威北部的斯瓦爾巴全球種子庫，以保護全球農作物遺傳多樣性，助力糧食安全。挪威農業與食品部表示，此次種子儲存活動於13日舉行，參與機構包括多個國家的農業研究機構和國際基因庫。其中，國際農業研究磋商小組（CGIAR）旗下6家基因庫共存入8917份種子樣本，涵蓋小麥、玉米、水稻等農作物。義大利農業研究與經濟委員會首次參與，存入包括傳統小麥和水稻品種在內的種子樣本。此外，烏克蘭向該種子庫存入773份種子樣本，包括蕎麥等農作物品種，以保護其農業遺傳資源。（新華社）
-
----
-
-### 2026-10-15 12:28:45  #MKT News
-
-India's NIFTY IT index rose 2.5%.
-
----
-
-### 2026-10-15 12:28:29  #其他
-
-【我國太空算力網持續“擴容”】10月14日，全球首個太空計算星座——“星算”計劃的02組算力衛星成功發射升空並完成首次組網。隨著8顆衛星的加入，“星算”星座在軌總算力達到50P，相當於每秒可在太空中進行5億億次運算。該星座採用“雲邊協同”分散式結構，既可分別處理任務，也可協同完成複雜計算，將算力利用效率發揮到極致。未來，“星算”計劃將建成由2800顆計算衛星組成的太空計算網路，覆蓋全球陸海空天。（央視新聞）
-
----
-
-### 2026-10-15 12:28:29  #Trading Economics #Markets #Commodity #Importance 1
-
-Copper Falls for Third Consecutive Session — Copper futures declined toward $6.50 per pound on Thursday, extending losses for a third consecutive session as stronger-than-expected US inflation reinforced expectations of further Federal Reserve rate hikes, dampening the demand outlook for industrial metals. Higher borrowing costs could slow economic growth, potentially weighing on overall copper consumption. However, tightening supply may limit further price declines, as labor strikes and unfavorable weather conditions disrupt mining operations in Chile, the world’s largest copper producer. Worker strikes affected BHP Group’s major Escondida mine and Antofagasta Plc’s Centinela mine, while adverse weather disrupted Codelco’s El Teniente open-pit operations. On the demand side, copper continues to receive support from strong growth prospects in data center infrastructure, semiconductor manufacturing, and battery energy storage systems.
-
----
-
-### 2026-10-15 12:28:21  #MKT News #Commodities #Energy
-
-【Greenland official says large-scale US exploration not imminent】Greenland officials denied Trump’s 14th claim that the US was about to begin large-scale oil, gas and mineral exploration on the island, saying such activity is “still a long way off”. Denmark’s foreign ministry said the September agreement among the US, Denmark and Greenland did not grant the US preferential access to Greenland’s natural resources. Greenland deputy mining minister Jorn Hammeken-Holm told CNN some US firms have conducted small-scale prospecting on the island, but large-scale exploration is not imminent.
-
----
-
-### 2026-10-15 12:26:41  #宏觀
-
-【國新辦釋出會丨介紹2026年前三季度國民經濟執行情況】2026年10月19日，國務院新聞辦公室舉行新聞釋出會，請國家統計局新聞發言人、副局長毛盛勇介紹2026年前三季度國民經濟執行情況，並答記者問。
-
----
-
-### 2026-10-15 12:25:42  #其他
-
-傑富瑞將 微軟  目標股價從575美元上調至650美元。
-
----
-
-### 2026-10-15 12:25:31  #公司
-
-長城證券恢復跟蹤雲鋁股份，評級買進。
-
----
-
-### 2026-10-15 12:24:57  #央行 #其他
-
-英國央行首席經濟學家休·皮爾：英國中性利率可能上升。
-
----
-
-### 2026-10-15 12:24:47  #MKT News #EURUSD
-
-ECB Governing Council member Kocher said the ECB is not yet at the stage of discussing bond-market intervention tools.
-
----
-
-### 2026-10-15 12:24:12  #國際
-
-【馬斯克稱烏克蘭“星盾”使用限制由美國政府決定 】美國太空探索技術公司執行長埃隆·馬斯克14日在社交媒體上說，烏克蘭使用的“星盾”衛星通訊系統由美國政府擁有和控制，任何有關使用速度或用途的限制由美國軍方決定，最終取決於美國總統。馬斯克當天在社交媒體上稱，“星鏈”是由太空探索技術公司擁有和控制的商業衛星通訊服務，僅限於民用或防禦性活動，不得用於進攻性軍事行動。“星盾”是太空探索技術公司面向美國政府和軍方開發的衛星通訊系統，與主要提供商業服務的“星鏈”有所區別，但兩者使用部分相同的衛星技術和基礎設施。
-
----
-
-### 2026-10-15 12:23:58  #市場 #國際
-
-印度SENSEX指數上漲1%，至73,511.06點。
-
----
-
-### 2026-10-15 12:23:28  #MKT News #Star Stocks #Apple #Alibaba #Market Themes #AI Revolution #Magnificent 7 #AAPL.O #Impact bullish #BABA.N #BIDU.O
-
-【Apple to roll out Apple Intelligence in China via iOS 27.3 in December; Alibaba and Baidu named partners】Apple plans to launch Apple Intelligence in China in December through an iOS 27.3 update, initially bringing AI features first released in the US two years ago to iPhone, iPad and Mac; the rollout will not include this year’s new Siri AI assistant. Apple will use a two-partner approach in China: Alibaba will supply model capabilities integrated into Apple Intelligence for text and image understanding and content generation across iOS, iPadOS, macOS and visionOS for Chinese users, while Baidu will provide software services embedded in Siri voice assistant functions and Visual Intelligence.
-
----
-
-### 2026-10-15 12:22:47  #國際
-
-【澤連斯基：烏克蘭將恢復打擊俄羅斯煉油廠】烏克蘭總統澤連斯基向英國《金融時報》稱，烏克蘭將恢復對俄羅斯煉油廠實施打擊。特朗普總統週日宣佈，俄羅斯與烏克蘭已達成即時生效的 “能源停火” 協議。澤連斯基表示，烏方為遵守該協議暫停能源目標打擊行動三天，但俄方仍持續襲擊烏克蘭能源基礎設施。
-
----
-
-### 2026-10-15 12:20:52  #公司
-
-【東方電熱：暫無進入伺服器領域的計劃】東方電熱在互動平臺表示，公司熱管理（溫度控制）技術主要應用於家用電器、新能源汽車、機器人、多晶矽、石油化工、核電、軍工、軌道交通等多個行業。此外，目前為止公司暫沒有進入伺服器領域的計劃。
-
----
-
-### 2026-10-15 12:20:16  #宏觀 #公司 #國際
-
-【韓國加強對外資銀行審查，一筆債券發行遭推遲】據知情人士透露，韓國正考慮出臺限制措施，禁止部分外資銀行安排境外債券發行；在此背景下，監管視窗指導已導致至少一單相關交易延期。韓國最大汽車租賃企業樂天租賃週二表示，推遲首次美元公募債券發行。不願具名的訊息人士稱，該決定部分源於政府視窗指導。訊息人士表示，監管部門對該公司指定凱基亞洲作為承銷安排方一事提出顧慮，原因是這家臺資機構不具備韓國本土證券牌照。本次受阻拉長了交易週期，疊加收益率上行令市場環境轉差，最終促使企業推遲發債。樂天租賃這一案例，是有報道稱韓國監管考量限制無本土證券牌照外資投行代理本土發行人離岸債券業務後，首起已知受阻的交易。此事也凸顯，即便沒有正式發文，非官方的監管意見也能左右交易成敗。
 
 ---
