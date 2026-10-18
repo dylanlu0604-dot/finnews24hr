@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-18 08:07:55",
-  "count": 12590,
+  "updated": "2026-10-18 08:11:42",
+  "count": 12584,
   "items": [
+    {
+      "id": "5152095",
+      "time": "2026-10-18 08:11:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：MS&AD 將參與日本人工智慧專案，開發新產品。"
+    },
+    {
+      "id": "5152094",
+      "time": "2026-10-18 08:07:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：韋恩賴特加拿大軍事基地發生重大事故，引發大規模火災。"
+    },
     {
       "id": "5152093",
       "time": "2026-10-18 08:06:09",
@@ -115201,71 +115217,6 @@
         "WBD.O"
       ],
       "text": "【US DOJ probes major networks' pooled White House interview-sharing model】The US Justice Department is investigating television networks' pooled White House interview‑sharing arrangement, sources said. Targets include ABC, CBS, CNN, NBC and Fox News. DOJ officials contacted the networks on Friday and requested communications and materials related to the White House pool‑sharing mechanism, under which networks take turns filming presidential events and distribute footage to other outlets. Last month, after Trump barred a CNN reporter from White House grounds, the networks suspended pooled coverage for several days, excluding CNN. The probe signals an escalation in the ongoing conflict between the Trump administration and the White House press corps."
-    },
-    {
-      "id": "5136784",
-      "time": "2026-10-11 08:11:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：一艘大型貨輪此前從伊朗港口出發後，正試圖駛過該地區海域。"
-    },
-    {
-      "id": "5136783",
-      "time": "2026-10-11 08:11:26",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美軍癱瘓一艘試圖違反封鎖令的貨船】美國中央司令部（CENTCOM）表示，10月10日，美軍在阿曼灣癱瘓了一艘商用貨船。此前，該船船員無視多次警告，並試圖突破美國針對伊朗持續實施的海上封鎖。一架美軍戰鬥機使用精確制導武器擊中了懸掛巴拿馬國旗的“海洋莫利卡”號貨船（M/V Ocean Molica，又名“Arika Sun”）的船尾，使該船推進系統完全癱瘓，但未造成船員傷亡。這艘大型貨船此前曾駛離伊朗港口，事發時正試圖穿越該地區水域。美軍於7月14日恢復了對所有進出伊朗港口船隻的海上封鎖。在為期三個月的嚴格執法期間，已有4艘商船被癱瘓，135艘船隻被攔截並改變航向。此外，在同一時期，美軍還摧毀了10艘與伊斯蘭革命衛隊數十億美元“影子船隊”網路有關的油輪。美國中央司令部稱，建議所有航海人員注意並聽從美軍中央司令部的封鎖警告。在阿曼灣和霍爾木茲海峽附近水域航行時，船員應繼續留意航海通告廣播，並透過甚高頻16頻道與美國海軍聯絡。"
-    },
-    {
-      "id": "5136781",
-      "time": "2026-10-11 08:10:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱，認為沙特遇襲是“一起駭人聽聞的事件”。"
-    },
-    {
-      "id": "5136780",
-      "time": "2026-10-11 08:10:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：美軍戰鬥機使用精確制導彈藥擊中懸掛巴拿馬國旗的“海洋莫利卡”號商船船尾，徹底癱瘓該船推進系統。"
-    },
-    {
-      "id": "5136779",
-      "time": "2026-10-11 08:09:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：非常樂見費特曼轉為共和黨籍。"
-    },
-    {
-      "id": "5136778",
-      "time": "2026-10-11 08:09:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱，普京告訴他，他希望看到達成和解。"
-    },
-    {
-      "id": "5136777",
-      "time": "2026-10-11 08:09:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：一艘商船在阿曼灣因船員無視警告並試圖突破針對伊朗的海上封鎖而被攔截。"
-    },
-    {
-      "id": "5136776",
-      "time": "2026-10-11 08:08:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：澤連斯基不想達成協議。"
     }
   ]
 }
