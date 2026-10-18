@@ -1,7 +1,54 @@
 {
   "date": "2026-10-18",
-  "count": 642,
+  "count": 647,
   "items": [
+    {
+      "id": "mkt:01a14f78-2717-7ee0-a8d1-9e8d1e4ca893",
+      "time": "2026-10-18 22:43:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said European countries are funding Russia's war machine. The U.S. imports $4 bln of Russian goods, $1.8 bln of which are fertilizer, and European imports exceed the U.S. by more than tenfold."
+    },
+    {
+      "id": "mkt:01a14f77-6ad2-7ee0-a8d1-91dd7a68c1b1",
+      "time": "2026-10-18 22:43:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent, responding to Trump’s claim that U.S. intelligence sharing had been interrupted, said Zelensky should be cautious when making such inaccurate statements."
+    },
+    {
+      "id": "mkt:01a14f77-16e3-7ee0-a8d1-8980de1ac2d3",
+      "time": "2026-10-18 22:42:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Treasury Secretary Bessent, responding to Trump's sanctions exemption for Russia, said no sanctions have been lifted. The exemption was limited to 60 days; currently the only measure removed is the diesel embargo."
+    },
+    {
+      "id": "5152479",
+      "time": "2026-10-18 22:42:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱沙特空襲葉門北部致9死17傷】葉門胡塞武裝控制的馬西拉電視臺18日報道稱，沙烏地阿拉伯當天空襲葉門北部薩達省一處民宅，造成至少9人死亡、17人受傷。（央視新聞）"
+    },
+    {
+      "id": "5152478",
+      "time": "2026-10-18 22:41:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "橋水基金創始人達利歐：許多抱怨要麼沒有考慮全域性，要麼反映了狹隘的觀點。我把這類抱怨稱為“嘰嘰喳喳”，通常最好不予理會。但建設性的抱怨可能帶來重要發現。"
+    },
     {
       "id": "mkt:01a14f73-b35d-7ee0-a8d1-84c4f743bd41",
       "time": "2026-10-18 22:39:04",
