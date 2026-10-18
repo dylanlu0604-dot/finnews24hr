@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-19 06:53:01",
-  "count": 12532,
+  "updated": "2026-10-19 06:56:49",
+  "count": 12531,
   "items": [
+    {
+      "id": "5152634",
+      "time": "2026-10-19 06:53:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星物產：獲得2.27萬億韓元訂單。"
+    },
     {
       "id": "mkt:01a15135-7474-7ee0-a8d3-ee8bd46e50b4",
       "time": "2026-10-19 06:50:18",
@@ -114670,31 +114678,6 @@
         "Brent"
       ],
       "text": "【Attacks on Saudi airport, tanker near Strait of Hormuz raise supply concerns; oil up in early trade】Attacks on a Saudi airport and a tanker near the Strait of Hormuz heightened supply-risk concerns, pushing oil higher in early trade. WTI rose as much as 1.0% to $91.88/bbl; Brent climbed to $103.70/bbl. Year-to-date global benchmark oil prices have gained over 70% amid sustained US-Iran hostilities with no clear resolution. Although Gulf producers have largely restored exports via the Strait to near pre-conflict levels, a surge in tanker attacks and rising regional tensions could threaten flows. Traders also monitored Hurricane Isaias, which caused power outages across three US states and at least four deaths; the US Department of Energy said it will approve emergency swaps of up to 4 mln barrels from the Strategic Petroleum Reserve to ease hurricane-related supply disruptions."
-    },
-    {
-      "id": "te:markets:590979",
-      "time": "2026-10-12 06:54:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Stocks Start the Week Muted — The NZX 50 was almost flat, trading around 13,745 in Monday morning deals, after gaining in the previous two sessions, as gains in energy and healthcare were offset by declines in tech, utilities, and consumer staples. Traders continued to monitor the escalation of the conflict in the Middle East and its impact on oil prices, amid concerns over inflation. Caution mounted ahead of the release of New Zealand's food inflation and business PMI data due later this week. Traders also awaited US inflation data for clues about the Fed's interest rate decision at its upcoming meeting, as well as China's September CPI and PPI data, amid continued weak domestic demand and rising oil prices. Meanwhile, US stock futures were little changed after Wall Street posted a winning week ahead of inflation data and a busy week of earnings. Early gainers included Ebos Group (2.1%), Colonial Motor (1.4%), Freightways Group (0.9%), Fisher & Paykel (0.9%), and Westpac Banking Corp. (0.6%)."
-    },
-    {
-      "id": "mkt:01a12d2c-40cb-7ee0-a82c-8930a254cb7a",
-      "time": "2026-10-12 06:53:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Bipartisan U.S. senators urge Trump to revoke approval for Russian diesel imports】A bipartisan group of U.S. senators urged President Trump on Sunday to rescind his decision allowing imports of Russian diesel, saying it violates a 2022 congressional ban on Russian energy and hands Moscow an economic lifeline amid its military action in Ukraine. The senators said the administration failed to consult Congress or provide a legal explanation as required by the law. Signatories include Republicans Susan Collins, Lisa Murkowski, Thom Tillis and John Curtis, and Democrats Jeanne Shaheen, Richard Blumenthal and Ron Wyden."
     }
   ]
 }
