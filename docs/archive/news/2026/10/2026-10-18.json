@@ -1,7 +1,73 @@
 {
   "date": "2026-10-18",
-  "count": 333,
+  "count": 341,
   "items": [
+    {
+      "id": "mkt:01a14dc2-77db-7ee0-a8cf-2e0515d60a3d",
+      "time": "2026-10-18 14:45:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's VK said a data center in Leningrad Region was hit in a drone attack; services are operating normally and user access is unaffected."
+    },
+    {
+      "id": "mkt:01a14dc2-6739-7ee0-a8cf-22b7fd0cc40c",
+      "time": "2026-10-18 14:45:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Vedanta Ltd will invest $600m to double its zinc production capacity in South Africa."
+    },
+    {
+      "id": "5152234",
+      "time": "2026-10-18 14:45:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄聖彼得堡遭烏無人機襲擊 已致1死5傷】當地時間10月18日早間，據俄羅斯列寧格勒州州長通報，俄防空系統已在該州上空擊落144架烏克蘭無人機。襲擊導致兩座變電站停運，約2萬人斷電，殘骸墜落造成人員受傷。同日，俄聖彼得堡市市長稱無人機襲擊造成當地1人死亡，5人受傷。當天稍早前，俄方通報稱，聖彼得堡市一處電商物流中心遭無人機襲擊，員工已疏散。普爾科沃機場通報基礎設施未受損。（央視新聞）"
+    },
+    {
+      "id": "5152233",
+      "time": "2026-10-18 14:45:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯電商平臺Ozon：無人機襲擊後，聖彼得堡物流中心起火。"
+    },
+    {
+      "id": "5152232",
+      "time": "2026-10-18 14:44:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯VK公司：列寧格勒地區的資料中心遭無人機襲擊，服務對使用者正常可用。"
+    },
+    {
+      "id": "5152231",
+      "time": "2026-10-18 14:44:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "韋丹塔有限公司投資6億美元，將南非鋅產量翻番。"
+    },
+    {
+      "id": "mkt:01a14dbf-3379-7ee0-a8cf-188904369409",
+      "time": "2026-10-18 14:42:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The governor of Russia's St. Petersburg region said a Ukrainian drone attack on St. Petersburg killed one and injured five."
+    },
+    {
+      "id": "5152230",
+      "time": "2026-10-18 14:42:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聖彼得堡州長稱，烏克蘭無人機襲擊聖彼得堡，造成1死5傷。"
+    },
     {
       "id": "5152229",
       "time": "2026-10-18 14:40:10",
