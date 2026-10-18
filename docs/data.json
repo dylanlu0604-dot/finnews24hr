@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-19 01:15:21",
-  "count": 12535,
+  "updated": "2026-10-19 01:19:07",
+  "count": 12534,
   "items": [
+    {
+      "id": "5152532",
+      "time": "2026-10-19 01:18:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "伊朗駐伊拉克大使薩迪克週日表示，美國對該地區航空公司和機場服務實施的制裁違反國際法和民航法規；伊朗與伊拉克邊境的安全對德黑蘭而言是一條紅線，對地區穩定至關重要，尤其是在伊拉克庫爾德斯坦地區。"
+    },
+    {
+      "id": "mkt:01a15004-aff2-7ee0-a8d2-a1cc254632c5",
+      "time": "2026-10-19 01:17:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "The Russian defence ministry said between 08:00 and 20:00 Moscow time on Oct. 18 its air-defence systems intercepted and destroyed 41 Ukrainian drones."
+    },
     {
       "id": "mkt:01a14ffb-6073-7ee0-a8d2-98605e7b7b30",
       "time": "2026-10-19 01:07:16",
@@ -114733,31 +114754,6 @@
         "國際"
       ],
       "text": "特朗普和魯比奧考慮撤換美國駐希臘大使金伯利·吉爾福伊爾。後者系特朗普長子小唐納德·特朗普的未婚妻。"
-    },
-    {
-      "id": "5137929",
-      "time": "2026-10-12 01:18:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤金價突破4200美元/盎司，日內漲幅0.3%。"
-    },
-    {
-      "id": "5137928",
-      "time": "2026-10-12 01:18:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普和美國國務卿魯比奧考慮將美國駐希臘大使解職。"
-    },
-    {
-      "id": "mkt:01a12bf8-67af-7ee0-a82a-ca0927dbcc56",
-      "time": "2026-10-12 01:17:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Arabia, Turkey, Pakistan and Egypt said in a joint statement that Houthi attacks openly violate Saudi Arabia's sovereignty and territorial integrity and that the Houthi militants should bear full responsibility for all consequences of their attacks."
     }
   ]
 }
