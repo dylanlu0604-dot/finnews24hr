@@ -1,7 +1,52 @@
 {
   "date": "2026-10-18",
-  "count": 482,
+  "count": 487,
   "items": [
+    {
+      "id": "mkt:01a14e89-ff8c-7ee0-a8d0-14b1a5499993",
+      "time": "2026-10-18 18:23:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU foreign policy spokesperson strongly condemned the latest violent settler attack in the West Bank, including attacks targeting European diplomats."
+    },
+    {
+      "id": "5152370",
+      "time": "2026-10-18 18:23:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交政策發言人：歐盟強烈譴責約旦河西岸暴力定居者發動的最新襲擊，包括針對歐洲外交官的襲擊。"
+    },
+    {
+      "id": "mkt:01a14e88-971d-7ee0-a8d0-0ef3ed6b2d75",
+      "time": "2026-10-18 18:22:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Novak says Russia consumes 3.5–4.0 mln t of diesel monthly and has roughly equal surplus for export】RIA quoted Russian Deputy Prime Minister Novak saying Russia consumes about 3.5–4.0 mln t of diesel per month and supplies an additional c.3.5 mln t to global markets, leaving a domestic surplus. Novak said the surplus should be exported to prevent refineries from cutting runs for lack of storage and that, under current agreements, exports can include shipments to the United States."
+    },
+    {
+      "id": "5152369",
+      "time": "2026-10-18 18:20:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克曝新進展：得州將為特斯拉 Roadster規劃專屬環形賽道】特斯拉CEO埃隆·馬斯克近日在社交平臺上表示，新款特斯拉Roadster能夠按照車主指令，自主完成產品釋出活動中展示的各類特技動作，同時特斯拉計劃在得州總部建設一條高難度環形賽道。"
+    },
+    {
+      "id": "5152368",
+      "time": "2026-10-18 18:19:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州白雲國際機場 （白雲機場）重回全國第一機場】2020年，白雲機場以4376.8萬人次的旅客吞吐量，終結亞特蘭大機場長達20年的霸主地位，成為中國首個登上全球最繁忙機場榜首的樞紐。此後數年，白雲機場穩居國內第一梯隊，直至2024年，浦東機場國際航線強勢復甦，以7678.7萬人次反超白雲機場，開啟兩年領跑期。隨著T3航站樓、第五跑道在2025年10月投運，白雲機場運力瓶頸被徹底打破，設計容量提升至1.2億人次。最新資料顯示，2026年前三季度廣州白雲國際機場累計旅客吞吐量達6702.9萬人次，同比增長9.7%，旅客吞吐量躍居全國機場首位。（參考訊息）"
+    },
     {
       "id": "5152367",
       "time": "2026-10-18 18:16:33",
