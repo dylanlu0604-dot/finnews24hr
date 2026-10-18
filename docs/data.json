@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-19 04:21:42",
-  "count": 12494,
+  "updated": "2026-10-19 04:25:31",
+  "count": 12498,
   "items": [
+    {
+      "id": "mkt:01a150af-68ca-7ee0-a8d3-06792e0499bf",
+      "time": "2026-10-19 04:23:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk proposed that once Anthropic pledges 5% of its shares to a new charitable fund, those shares should be distributed directly to the public."
+    },
+    {
+      "id": "5152582",
+      "time": "2026-10-19 04:23:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方在10月27日大選前處於高度戒備狀態，擔心伊朗可能發動先發制人打擊，因為伊朗認為以色列和美國正準備襲擊德黑蘭。"
+    },
+    {
+      "id": "5152581",
+      "time": "2026-10-19 04:23:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基談美國：選舉期間政治氛圍非常激烈。我認為現在是痛苦時期，但選舉過後生活將繼續，我相信局勢會平靜下來。"
+    },
+    {
+      "id": "5152580",
+      "time": "2026-10-19 04:22:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬斯克：我建議將股份直接發放給公眾。此前Anthropic宣佈將把5%的股份投入新設立的公共公益基金。"
+    },
     {
       "id": "5152579",
       "time": "2026-10-19 04:20:43",
