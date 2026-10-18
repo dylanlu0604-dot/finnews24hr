@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-18 13:59:53",
-  "count": 12532,
+  "updated": "2026-10-18 14:03:49",
+  "count": 12520,
   "items": [
+    {
+      "id": "5152217",
+      "time": "2026-10-18 14:03:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及考慮支援沙特 僅限“防禦” 】埃及總統塞西17日表示，如果沙特請求支援，埃及“願意採取一切手段保護”對方。塞西稱，埃及無意介入地區戰事，但當沙特“受到傷害或其安全穩定受到威脅時”，埃及無法袖手旁觀。他說，埃及會“全力支援保衛海灣地區兄弟國家的領土”。他同時強調：“我不是說要攻打誰或襲擊哪一方，我們談的只是防禦。”塞西還說，他希望埃及議會召開緊急會議，授予政府在收到沙特請求時提供支援的權力。埃及媒體隨後報道稱，應塞西總統請求，埃及議會定於18日召開緊急會議。埃及是沙特在中東地區的主要盟友，雙方關係密切，沙特長期給予埃及經濟支援。埃及是沙特主導的多國聯軍成員，先前主要參與紅海海域護航事宜，基本不介入作戰行動。（新華社）"
+    },
     {
       "id": "mkt:01a14d96-fc86-7ee0-a8ce-ff4892482e9a",
       "time": "2026-10-18 13:58:22",
@@ -114653,113 +114661,6 @@
         "DXY"
       ],
       "text": "Russian Defence Ministry said it shot down 479 Ukrainian drones overnight."
-    },
-    {
-      "id": "mkt:01a1298e-2583-7ee0-a827-e935665677f9",
-      "time": "2026-10-11 14:02:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NHC: Extremely dangerous Hurricane Simon is approaching Mexico's west-central coast."
-    },
-    {
-      "id": "mkt:01a1298d-fb5f-7ee0-a827-e50a05092d8f",
-      "time": "2026-10-11 14:02:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "World Bank President Banga: initial impact of the Middle East war not as severe as feared, but pressure is mounting again."
-    },
-    {
-      "id": "mkt:01a1298d-9d84-7ee0-a827-df8bd4ef91be",
-      "time": "2026-10-11 14:01:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "World Bank President Banga said more must be done to attract private capital into smaller, fragile or conflict-affected countries."
-    },
-    {
-      "id": "mkt:01a1298d-4d40-7ee0-a827-d45d4b77ece4",
-      "time": "2026-10-11 14:01:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BANGA says the WBG is in talks with 30–40 countries on crisis assistance related to the Middle East war."
-    },
-    {
-      "id": "mkt:01a1298d-2ac7-7ee0-a827-ca105d7576fc",
-      "time": "2026-10-11 14:01:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WBG President Banga said if this year’s super El Nifio causes significant adverse impacts, the bank stands ready to assist affected countries."
-    },
-    {
-      "id": "mkt:01a1298c-fc18-7ee0-a827-c079a386f55f",
-      "time": "2026-10-11 14:01:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NHC: Heavy rain expected tonight across parts of California and the U.S. Southwest."
-    },
-    {
-      "id": "mkt:01a1298c-e986-7ee0-a827-b88e5bf862d0",
-      "time": "2026-10-11 14:01:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BANGA: WBG is advancing 14 or 15 debt-for-development swap projects to replace high-cost legacy debt."
-    },
-    {
-      "id": "5137451",
-      "time": "2026-10-11 14:00:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界銀行行長班加預計，在吸引更多私人資本用於發展專案方面將取得進一步穩步進展。"
-    },
-    {
-      "id": "5137450",
-      "time": "2026-10-11 14:00:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界銀行行長班加表示，需要採取更多措施吸引私人資本流向規模較小、更為脆弱或受衝突影響的國家。"
-    },
-    {
-      "id": "5137449",
-      "time": "2026-10-11 14:00:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "世界銀行行長班加表示，世行正與30至40個國家就與中東戰爭相關的危機援助進行對話。"
-    },
-    {
-      "id": "5137448",
-      "time": "2026-10-11 14:00:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界銀行隨時準備協助各國應對今年超級厄爾尼諾現象可能帶來的重大負面影響。"
-    },
-    {
-      "id": "5137447",
-      "time": "2026-10-11 14:00:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "班加表示，世界銀行目前有14至15筆債務換髮展交易正在籌備中，用於置換成本更高的舊債務。"
-    },
-    {
-      "id": "5137446",
-      "time": "2026-10-11 14:00:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "世界銀行行長班加表示，中東戰爭的初始影響沒有原先擔心的那般嚴重，但目前壓力正在再次上升。"
     }
   ]
 }
