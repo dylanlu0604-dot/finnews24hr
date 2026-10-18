@@ -1,7 +1,15 @@
 {
   "date": "2026-10-19",
-  "count": 40,
+  "count": 41,
   "items": [
+    {
+      "id": "mkt:01a14ffb-6073-7ee0-a8d2-98605e7b7b30",
+      "time": "2026-10-19 01:07:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's foreign minister held a call with Saudi Arabia's foreign minister to discuss regional developments and the importance of de-escalation."
+    },
     {
       "id": "5152531",
       "time": "2026-10-19 01:06:21",
