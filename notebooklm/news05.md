@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-10-19 02:00:31_
-_本檔包含 2405 則快訊，約 477643 字_
+_更新時間：2026-10-19 04:33:16_
+_本檔包含 2372 則快訊，約 476792 字_
+
+---
+
+### 2026-10-13 14:37:58  #其他
+
+廣和通在NetworkX展會展出基於高通平臺的SC153 5G智慧模組，助力加速5G智慧裝置研發。
+
+---
+
+### 2026-10-13 14:37:54  #MKT News
+
+【China wholesale pork price down 0.3% vs yesterday】Ministry of Agriculture and Rural Affairs monitoring at 14:00: Agricultural Wholesale Price 200 Index 113.93, down 0.13 points day-on-day; "vegetable basket" wholesale price index 113.89, down 0.16 points. Nationwide wholesale pork average 15.94 yuan/kg, down 0.3% day-on-day; beef 73.52 yuan/kg, up 2.0%; mutton 67.32 yuan/kg, up 1.3%; eggs 9.73 yuan/kg, down 0.8%; dressed chicken 17.19 yuan/kg, up 0.5%.
+
+---
+
+### 2026-10-13 14:36:39  #MKT News
+
+【China Automotive Engineering Research Institute confirms test report on JAC Zunjie V800 brake pedal; limits liability】China Automotive Engineering Research Institute Co., Ltd. says its testing centre issued report 26-WT-DGJ-N10440 to Anhui Jianghuai Automobile Group (JAC); JAC insiders confirmed this is the report cited over the Zunjie V800 brake-pedal issue. Archive staff confirmed the report exists but said the institute’s reports cover only samples or prototype vehicles submitted by firms and do not guarantee performance of subsequent mass-produced products. The institute’s investor hotline said it currently has no further details.
+
+---
+
+### 2026-10-13 14:36:32  #公司
+
+【三一重工成立裝置服務公司 含電池製造業務】企查查APP顯示，近日，遼寧三一裝置服務有限公司成立，經營範圍包含集中式快速充電站；電池製造；電池銷售；電池零配件銷售等。企查查股權穿透顯示，該公司由三一重工間接全資持股。
+
+---
+
+### 2026-10-13 14:36:16  #其他
+
+【10月13日：“農產品批發價格200指數”比昨天下降0.13個點】據農業農村部監測，10月13日“農產品批發價格200指數”為113.93，比昨天下降0.13個點，“菜籃子”產品批發價格指數為113.89，比昨天下降0.16個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.94元/公斤，比昨天下降0.3%；牛肉73.52元/公斤，比昨天上升2.0%；羊肉67.32元/公斤，比昨天上升1.3%；雞蛋9.73元/公斤，比昨天下降0.8%；白條雞17.19元/公斤，比昨天上升0.5%。重點監測的28種蔬菜平均價格為4.35元/公斤，比昨天上升1.4%；重點監測的6種水果平均價格為6.66元/公斤，比昨天上升0.5%。鯽魚19.74元/公斤，比昨天上升2.2%；鯉魚14.06元/公斤，比昨天上升1.1%；白鰱魚10.13元/公斤，比昨天下降0.8%；大帶魚41.85元/公斤，比昨天上升1.3%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是生菜、西葫蘆、蒜薹、冬瓜和菠蘿，幅度分別為3.4%、3.1%、2.8%、2.8%和2.5%；價格降幅前五名的是鴨梨、香蕉、大黃花魚、平菇和花鰱魚，幅度分別為2.3%、1.4%、1.4%、1.2%和0.9%。
+
+---
+
+### 2026-10-13 14:35:24  #市場 #焦點
+
+新臺幣兌美元下跌1.0%至32.214。
+
+---
+
+### 2026-10-13 14:34:48  #MKT News
+
+Six people with knowledge of the matter said banking regulators are intensifying efforts to curb rising AI risks. Some warned cyberattacks targeting banks or runaway AI agents could threaten global financial stability.
+
+---
+
+### 2026-10-13 14:33:22  #公司 #國際
+
+【英國交易平臺Plus500收購Hedge 助力美國業務擴張】Plus500有限公司同意收購零售交易平臺Hedge Capital Markets，以此開拓美國市場。週二釋出宣告稱，本次收購將豐富這家英國公司面向客戶的產品，新增股票、期權、交易所交易基金以及預測市場等品種。Plus500未披露交易對價，表示將使用現金完成收購。這家英國交易平臺計劃於明年一季度推出一款應用程式，客戶可在該平臺交易各類資產，包含新增的美國市場產品。該應用將率先在美國上線，後續逐步推廣至其他國家。Plus500還表示，作為美國擴張計劃的一環，公司已在紐約設立新辦公室，此前在芝加哥已有佈局。
+
+---
+
+### 2026-10-13 14:33:19  #MKT News
+
+【China responds after Trump says he doesn't believe China and Russia are aiding Iran】At an Oct. 13 regular Foreign Ministry briefing, spokesperson Mao Ning said China has repeatedly stated its position on related issues and will continue working with relevant countries and the international community to make constructive efforts to restore peace, stability and development in the Middle East.
+
+---
+
+### 2026-10-13 14:32:26  #公司 #國際
+
+【美國陸軍時隔20年引進新型火炮，結果是韓國製造】俄烏衝突爆發以來，全世界都重新認識到大口徑火炮在現代大規模衝突中依然佔據核心地位，而此前長期依賴空中支援、忽視火炮建設的美國陸軍就顯得極其尷尬。在現實壓力之下，美國陸軍加快了引進新型火炮的步伐，但據美國《防務新聞》12日報道，美國時隔20年後獲得的第一款新型自行榴彈炮，卻是韓國製造的。 報道稱，美國陸軍負責進攻火力方面的專案管理執行官羅伯特·米克什准將透露，由韓華國防美國公司（韓華集團的美國全資子公司）製造的機動式戰術火炮，已於本月早些時候在國會山舉行的首次“陸軍現代化日”活動中展出，“我們很興奮能擁有它並準備進行測試，同時將獲取我們認為非常重要計程車兵反饋”。 （環球時報）
+
+---
+
+### 2026-10-13 14:32:16  #MKT News #Important #000660.KS #Impact bearish #005930.KS
+
+【KOSPI closes down 5.47%; SK Hynix falls 10.09%】South Korea's KOSPI closed down 348.9 points, or 5.47%, at 6,035.34 on Oct 13 (Tuesday). SK Hynix plunged 10.09% and Samsung Electronics fell 7.38%.
+
+---
+
+### 2026-10-13 14:32:09  #經濟數據 #中國
+
+【外交部：中國經濟基本面是好的 對中國經濟發展有信心】10月13日，外交部發言人毛寧主持例行記者會。有記者就國際貨幣基金組織將中國2026年經濟增長預期下調提問。對此，毛寧表示，我們明確的是，中國經濟基本面是好的，我們對中國經濟發展是有信心的。
+
+---
+
+### 2026-10-13 14:32:08  #公司
+
+【利安隆等在四川成立電子材料公司】企查查APP顯示，近日，利安隆（四川）電子材料有限公司成立，經營範圍包含非金屬礦物製品製造；電子專用材料製造；專用化學產品製造（不含危險化學品）等。企查查股權穿透顯示，該公司由利安隆等共同持股。
+
+---
+
+### 2026-10-13 14:31:25  #市場
+
+卡達埃米爾稱，黃金通道專案取得重大進展。
+
+---
+
+### 2026-10-13 14:31:14  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+At Tuesday's close on Oct 13, Japan's Nikkei 225 index fell 1.82%, down 1,253.40 points, to 67,777.52.
+
+---
+
+### 2026-10-13 14:31:09  #MKT News
+
+【China says it will continue constructive efforts to restore Middle East peace, stability and development】At a regular briefing, foreign ministry spokeswoman Mao Ning, responding to a question about Trump saying he did not believe China and Russia were assisting Iran, said China has repeatedly set out its position and will continue working with relevant countries and the international community to help restore peace, stability and development in the Middle East.
+
+---
+
+### 2026-10-13 14:31:08  #市場 #焦點 #國際
+
+【日韓股市集體收跌】日經225指數收跌1.82%，報67777.52點。韓國綜指收跌5.46%，報6035.34點。
+
+---
+
+### 2026-10-13 14:30:56  #國際
+
+【外交部：將繼續為恢復中東和平穩定與發展作出建設性努力】10月13日，外交部發言人毛寧主持例行記者會。有記者就特朗普表示不相信中俄在幫助伊朗一事提問。對此，毛寧表示，中方多次就相關問題闡明立場。我們將繼續同有關國家和國際社會一道，為恢復中東的和平穩定與發展作出建設性的努力。（央視新聞）
+
+---
+
+### 2026-10-13 14:30:30  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #S&P500
+
+【Blackstone president Jon Gray says European fiscal strain exceeds US; AI investment temporarily eases US debt risk】Blackstone president Jon Gray said France, the U.K. and continental Europe face more urgent fiscal pressure than the United States because U.S. growth is being supported by technology investment and an AI boom. He warned the U.S. will eventually face hard choices but currently some European economies have much lower growth and large fiscal deficits; historically fiscal crises are resolved only when market pressure forces government action. Gray said AI-driven investment is temporarily easing U.S. debt pressures by boosting growth.
+
+---
+
+### 2026-10-13 14:30:30  #經濟數據 #中國
+
+【商務部：1-8月我國服務進出口總額50701.6億元 同比增長7.9%】商務部服貿司負責人介紹2026年1-8月服務貿易發展情況。2026年1-8月，我國服務進出口總額50701.6億元（人民幣，下同），同比增長7.9%。其中，出口19996.1億元，增長14.8%；進口30705.5億元，增長3.8%。服務貿易逆差10709.4億元，同比縮小1451.2億元。
+
+---
+
+### 2026-10-13 14:30:05  #MKT News
+
+South Korea's Lee said Seoul will strictly comply with international rules and sanctions when developing Arctic shipping routes.
+
+---
+
+### 2026-10-13 14:30:00  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+The Nikkei 225 Index Closes 2.03% Lower — The Nikkei 225 Index decreased 1399 points or 2.03 percent on Tuesday to close at 67632 points. The decline was led by Sumco (-9.17%), Softbank (-8.13%) and Resonac Holdings (-7.34%).
+
+---
+
+### 2026-10-13 14:29:44  #國際
+
+韓國總統：在開發北極航道時將嚴格遵守國際規則和制裁原則。
+
+---
+
+### 2026-10-13 14:29:18  #MKT News #CNH #Impact bullish #DXY #Impact bearish
+
+【MOFCOM: Jan-Aug 2026 China services trade total 5.07 tln yuan, +7.9% YoY】MOFCOM said Jan-Aug 2026 China’s services imports and exports totaled 5,070.16 bln yuan, up 7.9% YoY. Exports were 1,999.61 bln yuan, +14.8%; imports 3,070.55 bln yuan, +3.8%. Services trade deficit was 1,070.94 bln yuan, narrowing by 145.12 bln YoY. Travel and transport service exports contributed nearly half of services export growth. Knowledge‑intensive services accounted for over 50% of services exports.
+
+---
+
+### 2026-10-13 14:29:16  #其他
+
+卡達埃米爾稱，北油田擴建專案正在推進。
+
+---
+
+### 2026-10-13 14:28:53  #其他
+
+塔塔諮詢孟買股價漲幅擴大至6.1%。
+
+---
+
+### 2026-10-13 14:28:34  #宏觀 #資料 #其他
+
+【商務部服貿司負責人介紹2026年1-8月服務貿易發展情況】2026年1-8月，我國服務進出口總額50701.6億元（人民幣，下同），同比增長7.9%。其中，出口19996.1億元，增長14.8%；進口30705.5億元，增長3.8%。服務貿易逆差10709.4億元，同比縮小1451.2億元。主要呈現以下特點：旅行和運輸服務出口對整體服務出口增長的貢獻率近50%。1-8月，旅行服務出口2751.7億元，增長15.3%，運輸服務出口4202.6億元，增長28.2%。旅行和運輸服務出口對整體服務出口增長的貢獻率分別為14.1%和35.8%。知識密集型服務出口佔比超過一半。1-8月，知識密集型服務進出口22314億元，增長6.6%，佔服務進出口總額的44%。知識密集型服務出口10744.7億元，增長10.9%，佔服務出口額的53.7%；其中，個人文化和娛樂服務、金融服務增長最快，增速分別為66%和21.6%。知識密集型服務進口11569.3億元，增長2.8%，佔服務進口額的37.7%。
+
+---
+
+### 2026-10-13 14:28:33  #其他
+
+【雅思主辦方致歉：10月14日起全面恢復，19日、20日增設免費場】今天，雅思停考事件持續發酵。繼10月10日至12日中國大陸地區雅思機考連續三天因技術原因取消後，今天（10月13日）的考試再度被取消。英國文化教育協會今天也證實，已向受影響考生全額退還報考費，並將自10月14日起全面恢復考試，同時於10月19日、20日為受影響考生增設兩天免費專場考試。對於異地考生，主辦方還推出交通、住宿費用報銷方案。（上觀新聞）
+
+---
+
+### 2026-10-13 14:27:56  #公司 #市場
+
+歷峰集團股價在瑞士寶盛盤前預估中下跌2.3%。
+
+---
+
+### 2026-10-13 14:27:41  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時放量1701億元。
+
+---
+
+### 2026-10-13 14:27:38  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish
+
+LSEG data showed the Indian rupee hit its strongest level versus the US dollar since Sept. 9.
+
+---
+
+### 2026-10-13 14:27:36  #市場
+
+交易商預計路威酩軒股價將下跌3%至5%，截至目前，該股在Tradegate交易平臺下跌0.6%。
+
+---
+
+### 2026-10-13 14:26:51  #公司
+
+【中際旭創A股成交額超200億元】10月13日下午，中際旭創A股成交額超200億元，現漲1.61%。
+
+---
+
+### 2026-10-13 14:26:50  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+RIA reported Russian armed forces struck a cargo ship transporting military and dual-use supplies bound for Mykolaiv, Ukraine.
+
+---
+
+### 2026-10-13 14:26:34  #國際
+
+俄羅斯武裝部隊襲擊一艘向烏克蘭尼古拉耶夫運送軍用及兩用貨物的貨輪。
+
+---
+
+### 2026-10-13 14:26:29  #市場 #國際
+
+【硫磺供給緊張加劇，全球糧食價格承壓】霍爾木茲海峽航運受阻疊加伊朗戰事，全球硫磺供應大幅收緊。硫磺作為油氣行業副產品，是生產硫酸、磷肥與鍊銅的核心原料，當前價格已飆升至接近每噸1000美元，較戰前漲近十倍。資金實力更強的礦企在硫磺競價中壓過低毛利化肥廠商，化肥企業被迫減產。美盛、摩洛哥OCP等化肥巨頭表示，難以將原料成本完全轉嫁給農戶，警告後續全球農作物單產將受衝擊，推高食品價格。大宗商品報價機構Argus分析師拉加夫・賈恩表示，在這場稀缺資源競價戰中，利潤率較低的化肥行業，處於下風。機構Kpler提示，霍爾木茲海峽船舶滯留問題仍在惡化，硫磺貿易擾動持續。硫磺同時作用於工業製造與農業生產，供應鏈緊張不僅影響電子產品、電網產業鏈，明年麵包等食品價格也或將上漲。
+
+---
+
+### 2026-10-13 14:26:20  #其他
+
+小米汽車：2026年9月，小米SU7位列20萬以上轎車銷量第一。
+
+---
+
+### 2026-10-13 14:26:12  #國際
+
+【美方稱有與中國有關的駭客組織攻擊了斐濟網路，外交部回應】10月13日，外交部發言人毛寧主持例行記者會。路透社記者提問，美國駐斐濟使館稱與中國有關聯的駭客組織攻擊了斐濟的網路，中方對此有何評論？毛寧表示，具體情況我不瞭解。但是我可以告訴你的是，中方一貫堅決反對並依法打擊駭客活動，同時我們也反對借網路安全問題抹黑中國。（北京日報）
+
+---
+
+### 2026-10-13 14:26:08  #市場 #焦點
+
+低硫燃料油連續主力合約日內漲7%，現報6003.00元。
+
+---
+
+### 2026-10-13 14:26:07  #MKT News
+
+Qatar's emir said he has allocated 221 billion Qatari riyals for investments over the next five years.
+
+---
+
+### 2026-10-13 14:24:54  #Trading Economics #Economy #Romania #Inflation Rate #Importance 1
+
+Romania Inflation Edges Higher in September — The annual inflation rate in Romania rose to 6.6% in September 2026 from 6.2% in the previous month, above market expectations of 6.45%. The acceleration was driven by faster price growth in food goods (3.0% vs. 2.6%) and non-food goods (7.1% vs. 6.4%). Among food items, prices increased for bread and bakery products (4.8%), milk and dairy products (4.6%), and meat and meat products (4.1%). Fuel prices remained a key contributor to inflation, with petrol and diesel prices surging by 28.4% and 37.6%, respectively. Meanwhile, services inflation eased slightly to 11.1% from 11.3% in August. On a monthly basis, consumer prices grew by 0.77% in August, accelerating slightly from 0.22% increase in the preceding period. Meanwhile, the HICP-based annual inflation rate rose to 6.5% from 6.3% in August.
+
+---
+
+### 2026-10-13 14:24:35  #其他
+
+卡達埃米爾稱，已劃撥2210億里亞爾用於未來五年投資。
+
+---
+
+### 2026-10-13 14:24:05  #市場
+
+GIVAUDAN SA <GIVN.S>在瑞士寶盛盤前交易中股價上漲4%，此前公佈前九個月銷售業績。
+
+---
+
+### 2026-10-13 14:23:18  #其他
+
+OpenAI ChatGPT Codex產品負責人：我有一個計劃，應該能讓每個人使用得更多。希望能儘快完成。
+
+---
+
+### 2026-10-13 14:22:48  #MKT News
+
+【China backs stronger China-U.S. people-to-people exchanges, foreign ministry says】At a regular briefing, Foreign Ministry spokesperson Mao Ning said China supports strengthening people-to-people and cultural exchanges with the United States to contribute to a constructive, strategically stable bilateral relationship based on respect, fairness and reciprocity.
+
+---
+
+### 2026-10-13 14:21:57  #國際
+
+【印尼總統稱將如家人般保護中方投資者，外交部答澎湃：願持續深化相關利益互利合作】10月13日，外交部發言人毛寧主持例行記者會。澎湃新聞（www.thepaper.cn）記者提問，據報道，近日印尼投資與下游化部與緯達貝工業園合作舉辦中資礦業下游化專案啟動儀式，印尼總統普拉博沃出席並發表講話，感謝中方投資者給予印尼的合作與信任，強調印尼政府將把來到印尼、與印尼合作、幫助印尼的投資者視為兄弟姐妹，像保護家人一樣保護他們。請問中方對此有何評論？毛寧表示，中方讚賞普拉博沃總統的有關表態，中國與印尼的合作給兩國和兩國人民帶來實實在在的利益，在印尼中資企業的成功也是印尼的成功。中方願同印尼一道，以兩國元首戰略共識為遵循，持續深化相關利益互利合作，更好處理印尼將資源優勢轉化為發展動力，促進印尼經濟社會發展，相信印尼政府將繼續保障中資企業的合法權益，提供開放、公平、共贏、友好的營商環境。
 
 ---
 
@@ -14078,479 +14354,5 @@ Iranian Foreign Minister Araghchi told Saudi Arabia’s foreign minister in a ca
 ### 2026-10-12 04:45:22  #MKT News
 
 Saudi Energy Ministry said Saudi Minister of Industry and Mineral Resources and Kuwait's Minister of Electricity, Water and Renewable Energy signed a memorandum of understanding on cooperation in the power and renewables sector.
-
----
-
-### 2026-10-12 04:32:19  #MKT News #Important
-
-Iran's foreign minister told Saudi Arabia's foreign minister Tehran is ready to assist in facilitating dialogue between Riyadh and Yemeni parties.
-
----
-
-### 2026-10-12 04:32:14  #國際
-
-伊朗外長稱，已告知沙特外交大臣，德黑蘭方面已準備好提供協助，推動沙特與葉門展開對話。
-
----
-
-### 2026-10-12 04:32:03  #公司 #國際
-
-【亞馬遜正洽談70億美元收購人工智慧初創公司Decart】亞馬遜正洽談收購人工智慧初創公司Decart，交易估值可能約為70億美元。如果談判不破裂或沒有其他競購方出現，交易可能很快就會達成。據PitchBook資料，Decart已從紅杉資本、Benchmark和Radical Ventures等投資者處籌集了超過4億美元的風險投資資金，其在5月的估值接近40億美元。該公司由三位以色列工程師於2023年創立，分別是Dean Leitersdorf和Orian Leitersdorf兄弟以及Moshe Shalev。Decart還在開發名為Lucy和Oasis的世界模型。
-
----
-
-### 2026-10-12 04:30:10  #MKT News #Star Stocks #Market Themes #AI Revolution #AMZN.O #Impact bullish
-
-The Wall Street Journal, citing people familiar with the matter, reports Amazon (AMZN.O) is in talks to acquire AI startup Decart for about $7 billion, a deal that would value Decart at roughly $7 billion.
-
----
-
-### 2026-10-12 04:29:25  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
-
-Wall Street Journal, citing sources, says Amazon (AMZN.O) is in talks to acquire AI startup Decart.
-
----
-
-### 2026-10-12 04:27:12  #公司
-
-亞馬遜正洽談收購人工智慧初創公司Decart。
-
----
-
-### 2026-10-12 04:26:53  #其他
-
-加拿大總理卡尼：對能源基礎設施和平民的襲擊應該停止。
-
----
-
-### 2026-10-12 04:26:49  #國際
-
-加拿大總理卡尼：支援烏克蘭與俄羅斯達成能源停火協議。
-
----
-
-### 2026-10-12 04:26:13  #國際
-
-美國特使威特科夫和賈裡德·庫什納已暫緩原定前往莫斯科的行程，直到他們確定烏克蘭和歐洲國家是否願意支援一項提交給普京的新統一和平方案。
-
----
-
-### 2026-10-12 04:20:39  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-Canada's prime minister Carney's office said he supports an energy ceasefire between Ukraine and Russia.
-
----
-
-### 2026-10-12 04:20:37  #MKT News
-
-Office of Canadian Prime Minister Carney said he spoke with U.S. President Trump.
-
----
-
-### 2026-10-12 04:18:20  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
-
-Market sources: Several U.S. senators issued statements urging President Trump to reverse a decision allowing imports of Russian diesel.
-
----
-
-### 2026-10-12 04:15:34  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-According to Saudi state news agency SPA, Saudi and Iranian foreign ministers discussed the latest escalation in regional tensions.
-
----
-
-### 2026-10-12 04:14:59  #國際
-
-沙烏地阿拉伯與伊朗兩國外長討論了地區最新局勢升級。
-
----
-
-### 2026-10-12 04:14:52  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-IRNA reported Iran's deputy foreign minister said the Strait of Hormuz is not merely a shipping channel but an integral part of Iran's national security, and Iran reserves the right to take all available measures to protect it.
-
----
-
-### 2026-10-12 04:13:06  #MKT News
-
-【U.S. media: Witkoff and Kushner postpone Moscow trip】Axios reports U.S. special envoy for Middle East affairs Witkoff and Jared Kushner have postponed a planned trip to Moscow, saying the visit will wait at least until Ukraine and European partners are ready to agree on a new unified proposal directed at Vladimir Putin. A Ukrainian official told Axios that during Miami talks Witkoff and Kushner threatened to halt U.S. intelligence sharing if Ukraine continued to ignore Trump’s demands. A U.S. official denied the threat, saying the pair told Ukrainian counterparts the U.S. remains a strong partner and provides ammunition and intelligence, and warned Ukraine against actions that would harm U.S. consumer interests.
-
----
-
-### 2026-10-12 04:11:43  #國際
-
-伊朗副外長加里巴巴迪：對我們而言，霍爾木茲海峽遠不只是船舶通道，它是伊朗國家安全不可或缺的組成部分。不言而喻，我們保留採取一切可用措施加以保護的權利。
-
----
-
-### 2026-10-12 04:08:46  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-【White House says 'energy truce' is a potential deal; strikes on Russian refineries strain Trump‑Zelenskiy ties】A White House official said President Trump's weekend announcement of an 'energy truce' refers to a potential agreement for Russia and Ukraine to halt attacks on refineries, with a possible follow-up to stop strikes on power plants and energy grids. The official described the proposal as a refinery-for-refinery idea but warned it is clearly asymmetric: Ukraine has one refinery that has been repeatedly hit and is not fully operational, while Russia controls a much larger refining network. The official said Ukrainian strikes on Russian refineries have damaged relations between Zelenskiy and Trump more than they have hurt Russia; Trump is reportedly angry and feels Zelenskiy takes the United States for granted. U.S. special envoys Witkoff and Jared Kushner have suspended planned trips to Moscow amid the crisis.
-
----
-
-### 2026-10-12 04:03:25  #MKT News #Commodities #Energy
-
-Saudi state news agency reported Saudi Arabia and Qatar signed a memorandum of understanding to establish a cooperation framework in oil, gas and petrochemicals and to explore joint opportunities to build pipelines for transport and export.
-
----
-
-### 2026-10-12 04:03:08  #其他
-
-沙特媒體：沙特與卡達簽署的諒解備忘錄旨在為石油、天然氣、石化及其他領域合作搭建框架，並探索建設運輸與出口管道的聯合機遇。
-
----
-
-### 2026-10-12 04:02:50  #其他
-
-卡達：和沙烏地阿拉伯簽署能源合作諒解備忘錄，協議將涉及能源行業的各個方面。
-
----
-
-### 2026-10-12 04:01:02  #MKT News #Commodities #Energy
-
-Saudi Energy Minister signed three memoranda of understanding on energy cooperation with Kuwait, Qatar and Egypt, the Saudi Press Agency reported.
-
----
-
-### 2026-10-12 03:55:08  #其他
-
-比利時首相因預算協議未達成取消國情諮文演講。
-
----
-
-### 2026-10-12 03:53:25  #MKT News #WTI #Impact bearish #Brent #DXY
-
-UK Prime Minister Burnham spoke by phone with US President Trump today to discuss immediately launching a sustained energy ceasefire between Russia and Ukraine.
-
----
-
-### 2026-10-12 03:53:14  #國際
-
-英國首相伯納姆：今日與特朗普通話，討論立即啟動俄羅斯與烏克蘭之間的持續效能源停火。
-
----
-
-### 2026-10-12 03:51:40  #國際
-
-【特朗普強推俄烏停火，俄烏訴求分歧顯著】白宮一名官員表示，特朗普週日宣佈俄羅斯與烏克蘭之間達成“能源停火”，指的是一項潛在協議，內容包括雙方停止攻擊煉油廠，並且他期望澤連斯基遵守該協議。該官員稱，如果對煉油廠的攻擊停止，接下來可能達成一項停止打擊發電廠和電網的協議。特朗普似乎正試圖單槍匹馬促成一項部分停火。但目前俄羅斯尚未接受任何形式的停火，而烏克蘭希望達成一項禁止攻擊發電廠的停火協議。白宮官員表示：“俄羅斯正在考慮此事。我們很快就能知道他們是否準備好了。”
-
----
-
-### 2026-10-12 03:51:05  #MKT News #Important #WTI #Impact mixed #Brent
-
-Axios reported White House officials said Trump's Sunday announcement of an "energy ceasefire" between Russia and Ukraine referred to a potential agreement and that Trump expects Zelensky to comply; officials added Ukrainian strikes on Russian refineries have damaged Zelensky's relationship with Trump more than they have hurt Russia.
-
----
-
-### 2026-10-12 03:47:10  #焦點 #國際
-
-美國官員：特朗普非常生氣，他覺得澤連斯基把美國的支援視為理所當然。
-
----
-
-### 2026-10-12 03:46:55  #焦點 #國際
-
-白宮官員警告稱，烏克蘭對俄羅斯煉油廠的打擊對澤連斯基與特朗普關係的損害，比對俄羅斯造成的打擊更大。
-
----
-
-### 2026-10-12 03:46:39  #其他
-
-沙特領導的聯軍稱其在東部省份攔截並摧毀了一架無人機。
-
----
-
-### 2026-10-12 03:46:27  #央行 #公司 #國際
-
-敘利亞央行簽發首份信用證，為敘利亞石油公司與沙特阿美之間的石油產品供應協議提供便利。
-
----
-
-### 2026-10-12 03:46:19  #MKT News
-
-Saudi-led coalition said it intercepted and destroyed a drone in Saudi Arabia's Eastern Province.
-
----
-
-### 2026-10-12 03:46:16  #其他
-
-一位白宮官員：如果煉油廠襲擊停止，發電廠可能是下一個目標。
-
----
-
-### 2026-10-12 03:46:08  #MKT News
-
-Syria's central bank issued its first letter of credit to facilitate petroleum product supply transactions between the Syrian Petroleum Company and ARAMCO.
-
----
-
-### 2026-10-12 03:45:44  #國際
-
-市場資訊：美國特使威特科夫和庫什納前往莫斯科的行程被擱置。
-
----
-
-### 2026-10-12 03:41:03  #焦點 #國際
-
-美國媒體：特朗普所宣佈的停火指的是一項潛在協議。
-
----
-
-### 2026-10-12 03:40:46  #焦點 #國際
-
-美國媒體：俄羅斯尚未接受任何形式的停火。
-
----
-
-### 2026-10-12 03:32:19  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
-
-Kremlin says Russia will smoothly sell diesel on global markets.
-
----
-
-### 2026-10-12 03:31:49  #國際
-
-克里姆林宮：俄羅斯將在全球市場順利銷售柴油。
-
----
-
-### 2026-10-12 03:23:25  #國際
-
-【美國兩黨參議員稱美俄柴油協議違法 要求政府立即改變立場】由美國參議院外交關係委員會成員Jeanne Shaheen領銜的一個由七名參議員組成的兩黨小組發表宣告，稱美國總統特朗普允許進口俄羅斯柴油的決定違法。國會已於2022年明確禁止進口俄羅斯能源，以切斷普京用於戰爭的資金來源這些參議員認為，特朗普的決定與2022年的這項法律直接相沖突。這些參議員要求政府就進口俄羅斯柴油立即改變立場。
-
----
-
-### 2026-10-12 03:19:25  #國際
-
-伊朗外交部副部長：目前正在研究美方對我們提議的回應，並將透過中間方公佈我們的立場。
-
----
-
-### 2026-10-12 03:07:14  #MKT News
-
-【Saudi civil aviation authority: King Fahd International Airport in Dammam attacked】On the evening of Oct. 11 local time, the Saudi General Authority of Civil Aviation said King Fahd International Airport in Dammam was attacked. The authority said attacks on Saudi civil aviation facilities have continued recently. Authorities are coordinating an assessment of airport damage and conducting security inspections of affected facilities.
-
----
-
-### 2026-10-12 03:01:54  #國際
-
-烏克蘭外交部長：願意在俄羅斯停止對能源設施的襲擊的前提下，遵守能源領域的停火；呼籲提供更多軍事援助，並擴大關於加入歐盟的談判。
-
----
-
-### 2026-10-12 02:58:11  #國際
-
-美國參議員要求特朗普撤銷俄燃料進口相關政策，稱白宮未按規定徵詢國會意見。
-
----
-
-### 2026-10-12 02:57:54  #國際
-
-【伊朗軍方公佈一油輪在霍爾木茲海峽觸雷爆炸畫面】當地時間11日，伊朗伊斯蘭革命衛隊公佈一段影片，顯示一艘油輪發生爆炸起火瞬間畫面。革命衛隊稱，這艘油輪原本準備離開霍爾木茲海峽，卻關閉了所有導航系統，違反了霍爾木茲海峽的航行規則，因擅自透過禁航航線而引發事故。革命衛隊稱，這是自當地時間10日以來，第三艘在霍爾木茲海峽擅自透過禁航航線觸雷並起火的油輪。（央視新聞）
-
----
-
-### 2026-10-12 02:46:20  #其他
-
-葉門政府軍：在“黎明”行動中，對胡塞武裝的軍事目標實施了1732次精準、直接的打擊。
-
----
-
-### 2026-10-12 02:43:50  #其他
-
-葉門政府軍：行動已導致胡塞武裝指揮控制系統陷入混亂，並阻止了增援與補給。
-
----
-
-### 2026-10-12 02:41:44  #其他 #焦點
-
-葉門政府軍：我們已動用飛機、無人機和火炮，對胡塞武裝的軍事目標實施打擊。
-
----
-
-### 2026-10-12 02:41:36  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran’s deputy foreign minister said Iran is in a state of war and that no commercial vessel may transit the Strait of Hormuz without prior coordination with Tehran. He said Iran is seeking to register with the IMO an agreement with Oman on transit routes but that registration would not guarantee the strait’s reopening; reopening depends on the United States fulfilling prior commitments it has suspended.
-
----
-
-### 2026-10-12 02:41:29  #國際
-
-伊朗外交部副部長：霍爾木茲海峽的開放取決於美國履行其此前已暫停執行的承諾。
-
----
-
-### 2026-10-12 02:39:45  #國際
-
-伊朗外交部副部長：即便我們與阿曼在國際海事組織備案，也不意味著霍爾木茲海峽將被開放。
-
----
-
-### 2026-10-12 02:39:37  #國際
-
-伊朗外交部副部長：正努力在國際海事組織登記我們與阿曼就霍爾木茲海峽過境航線達成的協議。
-
----
-
-### 2026-10-12 02:39:21  #國際
-
-伊朗外交部副部長：我們正處於戰爭狀態，任何商船均不得未經與我方協調便透過霍爾木茲海峽。
-
----
-
-### 2026-10-12 02:38:32  #國際
-
-印度稱，MT Petro號船舶遭襲擊後，兩名船員失蹤。
-
----
-
-### 2026-10-12 02:37:26  #MKT News #WTI #Impact bearish #Brent
-
-【Zelenskiy backs 'energy ceasefire'; Ukrainian forces have received orders】On Oct. 11 President Zelenskiy said Kyiv supports a “practical, reliable” energy ceasefire and is willing not to strike Russian energy infrastructure if Russia takes reciprocal action. He said U.S. President Trump has announced an energy ceasefire arrangement, which Ukraine welcomes and expects to be implemented. Zelenskiy added Ukrainian armed forces have received the relevant orders and Kyiv is awaiting details of U.S.-Russia talks, expecting President Putin to honor the commitments described by Trump.
-
----
-
-### 2026-10-12 02:37:07  #國際
-
-印度譴責10月11日發生在霍爾木茲海峽的船隻襲擊事件。
-
----
-
-### 2026-10-12 02:31:22  #國際
-
-俄羅斯莫斯科市長：擊落23架正飛往莫斯科的無人機。
-
----
-
-### 2026-10-12 02:29:04  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Saudi civil aviation authority said Dammam airport was attacked on Sunday night and authorities are working to assess the damage.
-
----
-
-### 2026-10-12 02:28:38  #其他
-
-沙特民航局表示，達曼機場週日晚間遭到襲擊。
-
----
-
-### 2026-10-12 02:27:11  #市場
-
-悉尼早盤交易中，美元兌G10主要貨幣匯率保持穩定。
-
----
-
-### 2026-10-12 02:25:29  #國際
-
-伊朗革命衛隊：自週六以來有三艘油輪觸雷。
-
----
-
-### 2026-10-12 02:25:03  #公司
-
-英國首相伯納姆將公佈其與英超曼城、曼城所有者（阿布扎比城市足球集團）所有往來的完整細節，包含所有會談記錄、郵件、會面紀要、相關接待禮遇記錄等。
-
----
-
-### 2026-10-12 02:21:00  #國際
-
-伊朗議員伊斯梅爾·考薩里週日表示，根據一項針對外國影響的擬議法律，計劃出國旅行的伊朗人必須在出發前通知當局，以避免法律糾紛。
-
----
-
-### 2026-10-12 02:18:01  #MKT News
-
-UK Maritime Trade Operations said it received a report of an incident involving a tanker near the Sohar anchorage off Oman. At the time of the report crew status, vessel damage assessment and environmental impact were unclear.
-
----
-
-### 2026-10-12 02:17:25  #其他
-
-英國海事貿易行動辦公室（UKMTO）：船員狀態、受損評估以及環境影響均尚不明確。
-
----
-
-### 2026-10-12 02:17:19  #其他
-
-英國海事貿易行動辦公室（UKMTO）：已收到報告稱阿曼蘇哈爾錨地附近發生一起涉及油輪的安全事件。
-
----
-
-### 2026-10-12 02:17:15  #MKT News #Commodities #Precious Metals
-
-【Airstrike on gold mine in northern Sudan kills 72】A local civil society group said on Oct 11 local time that a large-scale airstrike on Oct 10 at a gold mine in the North Wadi region near the Egyptian border killed 72 miners. The group accused the Egyptian air force of carrying out the strike and said casualty figures are still being tallied. Egypt and Sudan have not commented.
-
----
-
-### 2026-10-12 02:14:58  #國際
-
-【蘇丹北部礦區遇襲 已致72人死亡】當地時間10月11日，蘇丹一個民間組織發表宣告稱，蘇丹北部靠近埃及邊境的北瓦迪地區一處金礦礦區10日遭遇大規模空襲，造成72名礦工死亡。（央視新聞）
-
----
-
-### 2026-10-12 02:07:10  #MKT News
-
-Polish central bank governor says there is a high probability interest rates will remain unchanged through year-end.
-
----
-
-### 2026-10-12 02:05:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【IRGC navy says vessels disabling navigation and identification systems in Strait of Hormuz will be treated as "hostile targets"】On the 11th (local time), the Islamic Revolutionary Guard Corps navy announced any vessels disabling navigation and identification systems in the Strait of Hormuz will be treated as "hostile targets" and will face harsh, decisive action.
-
----
-
-### 2026-10-12 02:04:29  #央行 #國際
-
-波蘭央行行長：今年年底前利率維持穩定的機率很高。
-
----
-
-### 2026-10-12 02:04:20  #國際
-
-【伊朗軍方：在霍爾木茲海峽關閉導航識別系統船隻將被視為敵對目標】當地時間11日，伊朗伊斯蘭革命衛隊海軍宣佈，所有在霍爾木茲海峽關閉導航和識別系統的船隻將被視為“敵對目標”，並將受到嚴厲而果斷的處置。（央視新聞）
-
----
-
-### 2026-10-12 02:03:42  #MKT News
-
-Zelenskiy said Ukraine wants peace but whether Russia does remains the key question. He said the Ukrainian armed forces have received all appropriate orders and Kyiv is awaiting clear details of US-Russia talks; he expects Putin to implement what President Trump announced.
-
----
-
-### 2026-10-12 02:03:29  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #Brent
-
-Ukrainian President Zelenskiy said Ukraine has proposed multiple measures to de-escalate the situation, but Putin's only response was 'no'.
-
----
-
-### 2026-10-12 02:02:56  #MKT News #WTI #Impact mixed #Brent #XAUUSD #Impact bullish
-
-Zelenskiy said the US president announced an energy ceasefire has been reached, calling it welcome news if it is actually implemented. He said Ukrainian airspace was filled all day with Russian Shahed drones; Russia also launched glide-bomb attacks and continued strikes on energy infrastructure, and a power plant in Kharkiv was struck tonight.
-
----
-
-### 2026-10-12 02:01:32  #國際
-
-烏克蘭總統澤連斯基：烏克蘭想要和平。問題在於俄羅斯是否想要。烏克蘭武裝部隊已收到所有相應命令。我們正在等待美俄對話的明確細節，並期待普京落實特朗普總統所說的內容。
-
----
-
-### 2026-10-12 02:01:22  #國際
-
-烏克蘭總統澤連斯基：烏克蘭提出了許多降級步驟。普京對所有這些的回應只有一個——“不”。我們確實希望他最終能對美國、烏克蘭和全世界說出一些有助於實現真正且有尊嚴的和平的話。
-
----
-
-### 2026-10-12 02:01:10  #國際
-
-烏克蘭總統澤連斯基：僅過去一週，俄羅斯就對烏克蘭的發電和輸電設施發動了200多次打擊，本週另有17次打擊針對天然氣和石油設施。他們已造成我方150多人死亡，700多人受傷。
-
----
-
-### 2026-10-12 02:01:03  #國際
-
-烏克蘭總統澤連斯基：美國總統發表宣告稱，能源停火已經達成。這對所有人來說都是好訊息，重要的是必須落到實處。
 
 ---
