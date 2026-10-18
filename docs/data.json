@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-19 04:05:59",
+  "updated": "2026-10-19 04:09:54",
   "count": 12499,
   "items": [
+    {
+      "id": "5152577",
+      "time": "2026-10-19 04:05:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "Evercore任命Nigel Dawn和Naveen Nataraj為聯席總裁，啟動CEO繼任競爭。"
+    },
     {
       "id": "5152576",
       "time": "2026-10-19 04:05:14",
@@ -114396,20 +114404,6 @@
         "國際"
       ],
       "text": "伊朗副外長加里巴巴迪：對我們而言，霍爾木茲海峽遠不只是船舶通道，它是伊朗國家安全不可或缺的組成部分。不言而喻，我們保留採取一切可用措施加以保護的權利。"
-    },
-    {
-      "id": "mkt:01a12c95-065e-7ee0-a82b-b69320113e4c",
-      "time": "2026-10-12 04:08:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【White House says 'energy truce' is a potential deal; strikes on Russian refineries strain Trump‑Zelenskiy ties】A White House official said President Trump's weekend announcement of an 'energy truce' refers to a potential agreement for Russia and Ukraine to halt attacks on refineries, with a possible follow-up to stop strikes on power plants and energy grids. The official described the proposal as a refinery-for-refinery idea but warned it is clearly asymmetric: Ukraine has one refinery that has been repeatedly hit and is not fully operational, while Russia controls a much larger refining network. The official said Ukrainian strikes on Russian refineries have damaged relations between Zelenskiy and Trump more than they have hurt Russia; Trump is reportedly angry and feels Zelenskiy takes the United States for granted. U.S. special envoys Witkoff and Jared Kushner have suspended planned trips to Moscow amid the crisis."
     }
   ]
 }
