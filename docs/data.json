@@ -1,7 +1,88 @@
 {
-  "updated": "2026-10-18 18:01:26",
-  "count": 12517,
+  "updated": "2026-10-18 18:05:16",
+  "count": 12526,
   "items": [
+    {
+      "id": "mkt:01a14e78-a3c9-7ee0-a8d0-04ac0a058958",
+      "time": "2026-10-18 18:04:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Egypt says Saudi security and stability a regional priority】President Sisi chaired a defense committee meeting that reviewed regional developments and what it called escalating, unacceptable attacks against Saudi Arabia. The committee said Saudi national security is closely linked to the security of Egypt and other Arab states; Egypt will stand in full solidarity and provide all necessary and possible support to defend Saudi security, stability, resources and territorial integrity. Egypt also pledged to continue and strengthen political and diplomatic coordination with relevant regional and international parties to promote de‑escalation and a peaceful resolution of the crisis."
+    },
+    {
+      "id": "5152358",
+      "time": "2026-10-18 18:03:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：埃森哲擬以最高15億美元的價格出售其中國業務。"
+    },
+    {
+      "id": "5152357",
+      "time": "2026-10-18 18:02:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及：將沙特的安全與穩定列為地區優先事項】當地時間18日上午，埃及總統塞西在總統府主持召開國防委員會會議。眾議院議長、總理、武裝部隊總司令、內閣多名部長以及各軍種負責人出席會議。埃及總統府發言人在當天發表的一份宣告中說，國防委員會會議審議了當前地區局勢以及該地區正在發生的危險事態發展，特別是針對沙烏地阿拉伯的襲擊事件不斷升級且令人無法接受。本次會議決定如下：沙特國家安全與埃及和阿拉伯國家安全息息相關，埃及將堅定與沙烏地阿拉伯保持全面團結。埃及將向沙烏地阿拉伯提供一切必要和可能的支援，以捍衛其安全與穩定，保護其資源、領土完整。埃及將繼續並加強與相關區域和國際各方協調的政治和外交努力，以促進整個地區緊張局勢的緩和，和平解決當前危機。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a14e75-e7aa-7ee0-a8cf-ff611706a30f",
+      "time": "2026-10-18 18:01:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Central Bureau of Statistics: Q2 exports rose 26.6%, private consumption rose 14.6%, investment rose 4.1% and government spending rose 22.4%."
+    },
+    {
+      "id": "mkt:01a14e75-c6fe-7ee0-a8cf-f6e43709efec",
+      "time": "2026-10-18 18:01:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Central Bureau of Statistics revised Q1 GDP (annualized) to -1.5% from -1.7%. It reported Q2 per-capita GDP annualized growth of 14.1%."
+    },
+    {
+      "id": "5152356",
+      "time": "2026-10-18 18:01:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列統計局：第一季度國內生產總值（GDP）年化修正值為-1.5%，此前為-1.7%。"
+    },
+    {
+      "id": "5152355",
+      "time": "2026-10-18 18:01:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列第二季度出口增長26.6%，私人支出增長14.6%，投資增長4.1%，政府支出增長22.4%。"
+    },
+    {
+      "id": "5152354",
+      "time": "2026-10-18 18:00:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列統計局：以色列第二季度人均GDP年化增長14.1%。"
+    },
+    {
+      "id": "5152353",
+      "time": "2026-10-18 18:00:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "教皇利奧在梵蒂岡宮面向聖彼得廣場的視窗露面，這是他自癌症手術後首次公開露面。"
+    },
+    {
+      "id": "5152352",
+      "time": "2026-10-18 18:00:35",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "以色列統計局：在第三次預估中，以色列第二季度國內生產總值（GDP）環比年率修正為+15.4%，此前預估為+14.9%。"
+    },
     {
       "id": "5152351",
       "time": "2026-10-18 18:00:02",
@@ -114617,14 +114698,6 @@
         "國際"
       ],
       "text": "伊朗總統與阿曼蘇丹通話討論地區問題。"
-    },
-    {
-      "id": "5137580",
-      "time": "2026-10-11 18:02:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【土耳其西部發生嚴重交通事故 已致11人死亡】當地時間10月11日，土耳其西部馬尼薩省阿克希薩爾區發生一起嚴重交通事故，一輛客運大巴與一輛大型貨車在伊斯坦布林-伊茲密爾高速公路上相撞。據初步訊息，事故已造成11人死亡、26人受傷。救援人員已趕赴現場開展救援工作。（央視新聞）"
     }
   ]
 }
