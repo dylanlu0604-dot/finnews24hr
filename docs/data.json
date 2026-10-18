@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19 04:13:54",
-  "count": 12498,
+  "updated": "2026-10-19 04:17:48",
+  "count": 12495,
   "items": [
     {
       "id": "5152578",
@@ -114363,39 +114363,6 @@
         "Brent"
       ],
       "text": "Market sources: Several U.S. senators issued statements urging President Trump to reverse a decision allowing imports of Russian diesel."
-    },
-    {
-      "id": "mkt:01a12c9b-4044-7ee0-a82b-c8ac6a0c1efa",
-      "time": "2026-10-12 04:15:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "According to Saudi state news agency SPA, Saudi and Iranian foreign ministers discussed the latest escalation in regional tensions."
-    },
-    {
-      "id": "5138038",
-      "time": "2026-10-12 04:14:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙烏地阿拉伯與伊朗兩國外長討論了地區最新局勢升級。"
-    },
-    {
-      "id": "mkt:01a12c9a-9bba-7ee0-a82b-c351b2bdcb74",
-      "time": "2026-10-12 04:14:52",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "IRNA reported Iran's deputy foreign minister said the Strait of Hormuz is not merely a shipping channel but an integral part of Iran's national security, and Iran reserves the right to take all available measures to protect it."
     }
   ]
 }
