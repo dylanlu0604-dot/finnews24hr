@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-19 06:30:31",
-  "count": 12525,
+  "updated": "2026-10-19 06:34:15",
+  "count": 12524,
   "items": [
+    {
+      "id": "5152629",
+      "time": "2026-10-19 06:30:49",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 待定 2026金融街論壇年會在京開幕，中國央行、證監會等四家金融監管部門負責人將發聲；\n② 09:30 中國70個大中城市房價報告；\n③ 10:00 中國今年前三季度GDP、社會消費品零售總額、規模以上工業增加值、城鎮固定投資、房地產開發投資等經濟資料，國新辦就國民經濟執行情況舉行新聞釋出會；\n⑥ 15:00 國新辦舉行新聞釋出會，請商務部部長助理袁曉明和工業和資訊化部、文化和旅遊部有關負責人介紹加快推進科技興商有關情況；\n⑦ 20:30 加拿大9月CPI；\n⑧ 22:00 美國10月NAHB房產市場指數；\n⑨ 全天 港股因重陽節假期休市。"
+    },
     {
       "id": "mkt:01a15120-a119-7ee0-a8d3-dec31ec2c522",
       "time": "2026-10-19 06:27:35",
@@ -114587,30 +114597,6 @@
         "其他"
       ],
       "text": "10月12日6時30分，重建後的皇崗口岸正式開通，實施“一地兩檢”安排及“合作查驗、一次放行”全新通關模式，旅客出入境更加便利。（新華社）"
-    },
-    {
-      "id": "5138086",
-      "time": "2026-10-12 06:31:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美聯邦航空局提醒美航空公司注意沙特領空安全威脅】當地時間10月11日，美國聯邦航空管理局（FAA）通知美國各航空公司，在飛往或飛越沙烏地阿拉伯時務必保持謹慎，理由是持續的軍事活動及導航系統干擾構成了安全威脅。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a12d18-0fdf-7ee0-a82c-82c1610463fd",
-      "time": "2026-10-12 06:31:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Hang Seng Index",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Shenzhen–Hong Kong Huanggang port opens, begins 24-hour passenger and vehicle clearance】At 06:30 on the 12th, Shenzhen–Hong Kong Huanggang port officially opened, offering 24-hour border clearance for passengers and passenger vehicles. Passenger inspection at the Shenzhen Huanggang temporary inspection facility and at Hong Kong’s Lok Ma Chau control point has been suspended."
     }
   ]
 }
