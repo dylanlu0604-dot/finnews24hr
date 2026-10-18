@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-18 19:02:23",
-  "count": 12544,
+  "updated": "2026-10-18 19:06:14",
+  "count": 12547,
   "items": [
+    {
+      "id": "mkt:01a14eb0-0a97-7ee0-a8d0-685721acb493",
+      "time": "2026-10-18 19:05:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Guotai Nasdaq ETF said it will suspend trading from market open on Oct. 19, 2026 until 10:30 a.m. that day."
+    },
+    {
+      "id": "mkt:01a14eaf-6dee-7ee0-a8d0-62ba515f44e0",
+      "time": "2026-10-18 19:04:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fullgoal Nasdaq ETF said it will suspend trading from the exchange open on Oct. 19, 2026 until 10:30 on the same day."
+    },
+    {
+      "id": "mkt:01a14ead-dfc9-7ee0-a8d0-5cdafe1d38b6",
+      "time": "2026-10-18 19:03:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【Macron to address nation after violent protests】The Elysée Palace said President Macron will address the nation on Sunday at 20:00 local time (Beijing 02:00 next day). Protests over high prices and public services escalated Saturday into violent clashes, leaving one protester dead, hundreds of police injured and nearly 1,800 people arrested."
+    },
+    {
+      "id": "5152390",
+      "time": "2026-10-18 19:02:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國10月19日電價穩定在208.44歐元/兆瓦時。"
+    },
     {
       "id": "mkt:01a14eaa-9451-7ee0-a8d0-57b902cf6ba9",
       "time": "2026-10-18 18:59:24",
@@ -114860,15 +114899,6 @@
         "MKT News"
       ],
       "text": "【Wang Huning meets Vietnam parliament chair Tran Thanh Man】CPPCC chairman Wang Huning met Vietnam National Assembly chair Tran Thanh Man in Beijing on the 11th. Wang said China will follow top-level strategic guidance, pursue the 'Six More' overall objectives and push high-quality, mutually beneficial cooperation across sectors to deepen China–Vietnam ties. The Chinese People's Political Consultative Conference offered deeper exchanges to support both countries' modernization efforts."
-    },
-    {
-      "id": "5137600",
-      "time": "2026-10-11 19:05:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本報紙訂閱率首次跌破50%】根據日本新聞通訊調查會10日公佈的2026財年調查結果，日本按月訂閱報紙的受訪者比例同比下降了0.3個百分點，跌至49.8%。這是自2008年開始這項調查以來的首次低於50%。據日媒報道，關於獲取新聞渠道的調查始於2008年，當時按月訂閱報紙的受訪者比例為88.6%，意味著近20年來下降了近40%。本次調查於7月至8月期間進行，調查物件為日本全國5000名18歲及以上的民眾，共獲得2676份有效回覆。關於公眾在這一週內獲取新聞所使用的媒體渠道，調查結果顯示，民營電視臺的電視節目排名第一，佔84.2%；其次是網際網路，佔 74.4%；公共廣播機構NHK的電視節目排第三，報紙排第四，廣播電臺節目排第五。（澎湃新聞）"
     }
   ]
 }

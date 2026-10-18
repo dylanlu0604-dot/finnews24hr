@@ -1,7 +1,46 @@
 {
   "date": "2026-10-18",
-  "count": 514,
+  "count": 518,
   "items": [
+    {
+      "id": "mkt:01a14eb0-0a97-7ee0-a8d0-685721acb493",
+      "time": "2026-10-18 19:05:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Guotai Nasdaq ETF said it will suspend trading from market open on Oct. 19, 2026 until 10:30 a.m. that day."
+    },
+    {
+      "id": "mkt:01a14eaf-6dee-7ee0-a8d0-62ba515f44e0",
+      "time": "2026-10-18 19:04:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fullgoal Nasdaq ETF said it will suspend trading from the exchange open on Oct. 19, 2026 until 10:30 on the same day."
+    },
+    {
+      "id": "mkt:01a14ead-dfc9-7ee0-a8d0-5cdafe1d38b6",
+      "time": "2026-10-18 19:03:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【Macron to address nation after violent protests】The Elysée Palace said President Macron will address the nation on Sunday at 20:00 local time (Beijing 02:00 next day). Protests over high prices and public services escalated Saturday into violent clashes, leaving one protester dead, hundreds of police injured and nearly 1,800 people arrested."
+    },
+    {
+      "id": "5152390",
+      "time": "2026-10-18 19:02:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國10月19日電價穩定在208.44歐元/兆瓦時。"
+    },
     {
       "id": "mkt:01a14eaa-9451-7ee0-a8d0-57b902cf6ba9",
       "time": "2026-10-18 18:59:24",
