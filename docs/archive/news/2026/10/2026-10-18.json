@@ -1,7 +1,23 @@
 {
   "date": "2026-10-18",
-  "count": 491,
+  "count": 493,
   "items": [
+    {
+      "id": "5152375",
+      "time": "2026-10-18 18:29:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基表示，與美國的情報共享已恢復運作。"
+    },
+    {
+      "id": "mkt:01a14e8e-cbed-7ee0-a8d0-1b515986dbfd",
+      "time": "2026-10-18 18:29:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU foreign policy spokesperson said the EU welcomed statements by several Israeli representatives condemning the attacks, but expects full accountability."
+    },
     {
       "id": "5152374",
       "time": "2026-10-18 18:25:38",

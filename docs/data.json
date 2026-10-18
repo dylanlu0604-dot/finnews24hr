@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-18 18:28:03",
-  "count": 12532,
+  "updated": "2026-10-18 18:31:46",
+  "count": 12533,
   "items": [
+    {
+      "id": "5152375",
+      "time": "2026-10-18 18:29:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基表示，與美國的情報共享已恢復運作。"
+    },
+    {
+      "id": "mkt:01a14e8e-cbed-7ee0-a8d0-1b515986dbfd",
+      "time": "2026-10-18 18:29:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU foreign policy spokesperson said the EU welcomed statements by several Israeli representatives condemning the attacks, but expects full accountability."
+    },
     {
       "id": "5152374",
       "time": "2026-10-18 18:25:38",
@@ -114748,14 +114764,6 @@
         "公司"
       ],
       "text": "【沙特機場連續遭襲航運受嚴重影響】據正在沙特的總檯記者瞭解，最近幾天，沙特多座機場連續遭到襲擊，嚴重影響當地的航運。沙特民航總局今天（10月11日）公佈的最新資料顯示，利雅得哈立德國王國際機場遇襲事件已造成12人死亡、309人受傷。哈立德國王國際機場和位於沙特西南部的艾卜哈國際機場6日至7日也曾遭到襲擊，共造成3人死亡、36人受傷。沙特東部城市達曼的法赫德國王國際機場附近今天也出現襲擊事件，影響航班起降。中國駐沙特大使館今天再次釋出安全提醒，提醒在沙中國公民密切關注當地安全形勢和航班變化，減少非必要外出，遠離機場等可能存在安全風險的區域，並及時與航空公司保持聯絡。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a12a82-f786-7ee0-a828-bded79b72364",
-      "time": "2026-10-11 18:29:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai Stock Exchange issues regulatory letter to Dongbai Group】The Shanghai Stock Exchange has issued a regulatory letter to Fujian Dongbai Group Co., Ltd. regarding its asset acquisition. The letter addresses the listed company, its directors, senior management, controlling shareholder and actual controller."
     }
   ]
 }
