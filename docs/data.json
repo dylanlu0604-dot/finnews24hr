@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-18 08:19:16",
-  "count": 12579,
+  "updated": "2026-10-18 08:23:07",
+  "count": 12574,
   "items": [
+    {
+      "id": "5152101",
+      "time": "2026-10-18 08:21:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國財政部布朗尼稱讚日本恪守財政紀律。"
+    },
     {
       "id": "5152100",
       "time": "2026-10-18 08:14:18",
@@ -115113,61 +115122,6 @@
         "行業"
       ],
       "text": "【中汽協：支援強化汽車產品創新設計與研發測試驗證管理，推動產業可持續健康發展】10月10日，工業和資訊化部會同公安部、生態環境部、市場監管總局等部門，研究起草了《關於進一步加強汽車產品創新設計和研發測試驗證有關管理工作的通知（徵求意見稿）》，聚焦整治不合理創新設計、健全研發測試驗證管理體系，透過提高汽車產品准入管理要求，壓實企業產品安全主體責任。中國汽車工業協會對此舉措堅決支援，並面向全行業發出倡議，全面提升我國汽車產品安全水平。"
-    },
-    {
-      "id": "5136852",
-      "time": "2026-10-11 08:22:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【微軟CEO稱AI是潛在內部威脅】微軟公司CEO薩提亞·納德拉(Satya Nadella)表示，企業應將強大的AI模型視為潛在的內部威脅，假定它們可能已被攻破，並建立一套“緊急剎車”系統，以防止智慧體模型失控。 納德拉週六在X平臺上發帖稱，部署先進AI的企業不應僅僅依賴AI模型開發商的安全保證。 “我們必須假定模型已被攻破，並從一開始就對其加以限制。可以把它想象成緊急剎車。獲得授權的人員應當始終能夠在模型執行任務的過程中暫停或關閉它。”納德拉表示。 就在納德拉發表上述言論之際，Anthropic和OpenAI近幾個月披露了一系列AI模型出現非預期行為的事件，包括Anthropic的一款模型在一起警方調查的謀殺案中提交虛假線索，以及AI模型多次入侵第三方網站。這些披露加劇了外界對前沿AI安全風險的擔憂，也讓所謂的AI“緊急關閉開關”再次成為討論焦點。"
-    },
-    {
-      "id": "mkt:01a12855-a046-7ee0-a826-e8fc27f0e29c",
-      "time": "2026-10-11 08:21:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "President Trump called the attack on Saudi Arabia terrible, said Riyadh can defend itself, and said the U.S. has contact with the Houthi movement and will see what happens. He described the actions as very bad and unacceptable, and said he has not yet spoken with the Saudi crown prince but will."
-    },
-    {
-      "id": "5136836",
-      "time": "2026-10-11 08:20:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國葉門問題特使：胡塞武裝對沙烏地阿拉伯的襲擊標誌著局勢的危險升級，破壞了地區安全與和平倡議。"
-    },
-    {
-      "id": "mkt:01a12855-035b-7ee0-a826-e3e2b064f1b5",
-      "time": "2026-10-11 08:20:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Russia hopes to reach an agreement on the war in Ukraine."
-    },
-    {
-      "id": "mkt:01a12854-d461-7ee0-a826-df37f1322edb",
-      "time": "2026-10-11 08:20:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said Zelensky does not want to reach a deal and has had multiple opportunities to do so."
-    },
-    {
-      "id": "mkt:01a12854-acaa-7ee0-a826-d28c31d7f4c7",
-      "time": "2026-10-11 08:20:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump: Ukraine should hold elections; Zelenskiy could reach agreements multiple times."
     }
   ]
 }
