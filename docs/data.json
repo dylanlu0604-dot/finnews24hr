@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-19 06:19:15",
+  "updated": "2026-10-19 06:23:02",
   "count": 12524,
   "items": [
+    {
+      "id": "5152628",
+      "time": "2026-10-19 06:22:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "葛蘭素史克的B7-H3靶向抗體藥物偶聯物Ris-Rez在肺癌臨床試驗中取得61%客觀緩解率。"
+    },
+    {
+      "id": "5152627",
+      "time": "2026-10-19 06:20:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯吉達發生數起爆炸，吉達阿卜杜勒-阿齊茲國王機場航班暫停。"
+    },
     {
       "id": "5152626",
       "time": "2026-10-19 06:14:56",
@@ -114583,28 +114599,6 @@
         "Impact bearish"
       ],
       "text": "【Shenzhen–Hong Kong Huanggang port opens, begins 24-hour passenger and vehicle clearance】At 06:30 on the 12th, Shenzhen–Hong Kong Huanggang port officially opened, offering 24-hour border clearance for passengers and passenger vehicles. Passenger inspection at the Shenzhen Huanggang temporary inspection facility and at Hong Kong’s Lok Ma Chau control point has been suspended."
-    },
-    {
-      "id": "mkt:01a12d0f-2f86-7ee0-a82c-7d58420e5a6b",
-      "time": "2026-10-12 06:22:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude extends early-session gains to 1.00%, trading at $91.88/bbl."
-    },
-    {
-      "id": "5138085",
-      "time": "2026-10-12 06:21:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4210美元/盎司，日內跌0.15%。"
     }
   ]
 }
