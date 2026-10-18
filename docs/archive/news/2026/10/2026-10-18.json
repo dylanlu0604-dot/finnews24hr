@@ -1,7 +1,27 @@
 {
   "date": "2026-10-18",
-  "count": 311,
+  "count": 313,
   "items": [
+    {
+      "id": "mkt:01a14d90-7b0c-7ee0-a8ce-f738c41558b3",
+      "time": "2026-10-18 13:51:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WDS.AX",
+        "Impact bearish"
+      ],
+      "text": "【Activists board Scarborough platform; Woodside halts pre-commissioning at WA gas project】Woodside Energy Group said pre-commissioning at its Scarborough offshore gas project in Western Australia remains suspended after Greenpeace protesters boarded the platform. The company said the incident prompted substantial response measures that could incur material costs and said it supports authorities enforcing the law. Greenpeace said protesters stayed overnight, with two erecting hanging tents on the platform and two returning to their vessel, and reiterated that the project threatens marine ecosystems and would raise greenhouse gas emissions."
+    },
+    {
+      "id": "5152213",
+      "time": "2026-10-18 13:50:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克賽義德烈士旅秘書長阿布・阿拉・瓦拉伊：如果伊朗遭遇切實威脅，我們必將參戰。我們與伊朗的關係根基深厚，建立在信仰與鄰里紐帶之上，牢不可破。"
+    },
     {
       "id": "5152212",
       "time": "2026-10-18 13:46:18",
