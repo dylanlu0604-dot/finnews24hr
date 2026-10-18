@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-19 02:00:31",
-  "count": 12521,
+  "updated": "2026-10-19 02:04:15",
+  "count": 12517,
   "items": [
+    {
+      "id": "5152547",
+      "time": "2026-10-19 02:03:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：法國總理將於週一抗議活動後召開危機會議。"
+    },
+    {
+      "id": "5152546",
+      "time": "2026-10-19 02:01:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金融城考慮增稅和削減服務以填補7000萬英鎊預算缺口。"
+    },
+    {
+      "id": "5152545",
+      "time": "2026-10-19 02:01:00",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "市場資訊：Anthropic將部分股份轉入新設立的“公共利益”基金。"
+    },
     {
       "id": "mkt:01a1502a-417b-7ee0-a8d2-b170702fcc10",
       "time": "2026-10-19 01:58:28",
@@ -114556,72 +114581,6 @@
         "國際"
       ],
       "text": "【伊朗軍方：在霍爾木茲海峽關閉導航識別系統船隻將被視為敵對目標】當地時間11日，伊朗伊斯蘭革命衛隊海軍宣佈，所有在霍爾木茲海峽關閉導航和識別系統的船隻將被視為“敵對目標”，並將受到嚴厲而果斷的處置。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a12c22-8765-7ee0-a82b-327eef63ace6",
-      "time": "2026-10-12 02:03:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said Ukraine wants peace but whether Russia does remains the key question. He said the Ukrainian armed forces have received all appropriate orders and Kyiv is awaiting clear details of US-Russia talks; he expects Putin to implement what President Trump announced."
-    },
-    {
-      "id": "mkt:01a12c22-539b-7ee0-a82b-2ecd26698fc6",
-      "time": "2026-10-12 02:03:29",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Ukrainian President Zelenskiy said Ukraine has proposed multiple measures to de-escalate the situation, but Putin's only response was 'no'."
-    },
-    {
-      "id": "mkt:01a12c21-d36a-7ee0-a82b-24d8705144af",
-      "time": "2026-10-12 02:02:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Zelenskiy said the US president announced an energy ceasefire has been reached, calling it welcome news if it is actually implemented. He said Ukrainian airspace was filled all day with Russian Shahed drones; Russia also launched glide-bomb attacks and continued strikes on energy infrastructure, and a power plant in Kharkiv was struck tonight."
-    },
-    {
-      "id": "5137953",
-      "time": "2026-10-12 02:01:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭想要和平。問題在於俄羅斯是否想要。烏克蘭武裝部隊已收到所有相應命令。我們正在等待美俄對話的明確細節，並期待普京落實特朗普總統所說的內容。"
-    },
-    {
-      "id": "5137952",
-      "time": "2026-10-12 02:01:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭提出了許多降級步驟。普京對所有這些的回應只有一個——“不”。我們確實希望他最終能對美國、烏克蘭和全世界說出一些有助於實現真正且有尊嚴的和平的話。"
-    },
-    {
-      "id": "5137951",
-      "time": "2026-10-12 02:01:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：僅過去一週，俄羅斯就對烏克蘭的發電和輸電設施發動了200多次打擊，本週另有17次打擊針對天然氣和石油設施。他們已造成我方150多人死亡，700多人受傷。"
-    },
-    {
-      "id": "5137950",
-      "time": "2026-10-12 02:01:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：美國總統發表宣告稱，能源停火已經達成。這對所有人來說都是好訊息，重要的是必須落到實處。"
     }
   ]
 }
