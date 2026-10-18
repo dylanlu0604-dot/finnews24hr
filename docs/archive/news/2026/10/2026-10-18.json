@@ -1,7 +1,815 @@
 {
   "date": "2026-10-18",
-  "count": 522,
+  "count": 610,
   "items": [
+    {
+      "id": "5152452",
+      "time": "2026-10-18 21:48:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱週日與美國中東特使威特科夫、特朗普女婿庫什納通話。"
+    },
+    {
+      "id": "mkt:01a14f41-fd06-7ee0-a8d1-4c0c0e0f0447",
+      "time": "2026-10-18 21:44:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "US Treasury Secretary BESSENT said the US energy crisis persists and that inflation would ease once the war ends."
+    },
+    {
+      "id": "5152451",
+      "time": "2026-10-18 21:44:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：澤連斯基在評論美國支援問題時應該謹慎。"
+    },
+    {
+      "id": "mkt:01a14f41-4bbb-7ee0-a8d1-46fd75c6f86e",
+      "time": "2026-10-18 21:44:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Europe continues to 'aggressively' purchase Russian energy."
+    },
+    {
+      "id": "5152450",
+      "time": "2026-10-18 21:42:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：魯莽的澤連斯基指責美國拖慢“星盾”專案。"
+    },
+    {
+      "id": "5152449",
+      "time": "2026-10-18 21:40:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特談俄羅斯豁免：可在60天期限內進行審查。"
+    },
+    {
+      "id": "5152448",
+      "time": "2026-10-18 21:39:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：歐洲繼續“大肆”搶購俄羅斯能源。"
+    },
+    {
+      "id": "5152447",
+      "time": "2026-10-18 21:38:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "開羅銀行IPO參考價為每股4.82至5.30埃及鎊。"
+    },
+    {
+      "id": "5152446",
+      "time": "2026-10-18 21:36:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：美國能源危機持續，戰爭結束後通脹將會放緩。"
+    },
+    {
+      "id": "5152445",
+      "time": "2026-10-18 21:35:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯稱奈季蘭的危險已過去。"
+    },
+    {
+      "id": "5152444",
+      "time": "2026-10-18 21:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：希望汽油和柴油價格進一步回落。"
+    },
+    {
+      "id": "5152443",
+      "time": "2026-10-18 21:33:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯：奈季蘭釋出潛在危險警告。"
+    },
+    {
+      "id": "5152442",
+      "time": "2026-10-18 21:32:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長：美國汽油和柴油價格已在幾周前見頂。"
+    },
+    {
+      "id": "mkt:01a14f36-6546-7ee0-a8d1-3fdf970e8b08",
+      "time": "2026-10-18 21:32:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【CHINA'S HE meets China Investment Corporation international advisory committee members】On Oct. 18 CHINA'S HE met members of the China Investment Corporation international advisory committee. He said China’s economy is broadly stable and shifting toward higher-quality growth, and that during the 15th Five-Year Plan period China will unswervingly expand high-level opening-up and deepen financial-system reform. He urged the committee to continue advising CIC’s development and to support China’s economic growth and international cooperation. Committee members said they are confident in China’s economic and financial market prospects and will continue contributing to deeper Sino-foreign cooperation."
+    },
+    {
+      "id": "5152441",
+      "time": "2026-10-18 21:31:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長表示，特朗普所稱的能源停火實際上是在鼓勵實現停火。"
+    },
+    {
+      "id": "5152440",
+      "time": "2026-10-18 21:31:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特表示，反對美國給予俄羅斯豁免的議員全都錯了。"
+    },
+    {
+      "id": "mkt:01a14f34-e4e6-7ee0-a8d1-314c06469f6e",
+      "time": "2026-10-18 21:30:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US Energy Secretary Wright said US exemptions incentivize Russia to implement an energy ceasefire."
+    },
+    {
+      "id": "5152439",
+      "time": "2026-10-18 21:29:52",
+      "tags": [
+        "宏觀",
+        "公司",
+        "焦點"
+      ],
+      "text": "【何立峰會見中投公司國際諮詢委員會委員】中共中央政治局委員、國務院副總理何立峰10月18日晚在釣魚臺國賓館會見中投公司國際諮詢委員會委員。何立峰表示，當前中國經濟總體平穩、向新向優。“十五五”時期，中國將堅定不移擴大高水平對外開放，深化金融體制改革，希望委員們繼續為中國改革開放和中投公司發展建言獻策，持續發揮橋樑紐帶作用，積極支援中國經濟發展和中外交流合作。中投公司國際諮詢委員會委員表示，對中國經濟前景和金融市場發展充滿信心，願繼續發揮自身優勢，為深化中外互利合作貢獻力量。（新華社）"
+    },
+    {
+      "id": "5152438",
+      "time": "2026-10-18 21:28:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼航空與芬蘭航空啟動程式碼共享合作，拓展芬蘭、阿曼與澳大利亞之間的航線連線。"
+    },
+    {
+      "id": "5152437",
+      "time": "2026-10-18 21:28:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：美國豁免激勵俄羅斯實現能源停火。"
+    },
+    {
+      "id": "5152436",
+      "time": "2026-10-18 21:22:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年前三季度雲南蒙自石榴出口超6.5萬噸】眼下，雲南省蒙自市迎來石榴的銷售出口旺季，走進蒙自出口農產品綜合服務中心，成箱的石榴正透過海關工作人員的查檢裝入冷鏈運輸車中。首批應用海關推行的“屬地查檢‘1+N’模式”的出口鮮石榴順利放行。據瞭解，今年前三季度，蒙自海關共監管出口石榴超6.5萬噸，遠銷14個國家和地區。據統計，目前蒙自市石榴種植面積達7.7萬畝，年產量穩定在22萬噸以上，鮮果市場產值超8.8億元。（新華社）"
+    },
+    {
+      "id": "5152435",
+      "time": "2026-10-18 21:21:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐以色列使館提醒中國公民切勿參與非法入境以色列務工】近日，有中國公民持偽造證件試圖從以色列-約旦邊境口岸入境以色列時被查獲。另有中國公民企圖從約旦偷渡入境以色列時被約旦執法部門抓獲，同時其在以色列境內的接應者被拘留，工作簽證被吊銷，現已被遣返回國。近期，一些不法分子聲稱可以透過旅遊或特殊渠道帶人入境以色列打工，搞非法偷渡，多次被以色列警方和移民局查獲。參與者將面臨入獄、遣返和長期禁止入境的嚴重後果。在以色列的合法勞工若參與邊境接應、轉運、提供住宿等協助偷渡行為，即使持有合法工作簽證，亦將被吊銷，同樣面臨拘留和遣返。根據《中華人民共和國刑法》的相關規定，中國公民在境外從事違法犯罪活動，中國司法機關依法享有管轄權並有權追究其法律責任。（環球網）"
+    },
+    {
+      "id": "mkt:01a14f2b-d89c-7ee0-a8d1-2cc880b07547",
+      "time": "2026-10-18 21:20:35",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Egypt's parliament will continue on Monday to discuss support for Saudi Arabia amid Houthi attacks, Egyptian MPs and local media said."
+    },
+    {
+      "id": "5152434",
+      "time": "2026-10-18 21:17:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及議員和當地媒體稱，埃及議會將於週一繼續討論在胡塞武裝襲擊背景下對沙烏地阿拉伯的支援。"
+    },
+    {
+      "id": "5152433",
+      "time": "2026-10-18 21:12:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國監獄人滿為患 獲假釋囚犯人數驟增】韓國政府釋出的最新資料顯示，由於監獄收容能力不足，今年1月至8月，600多名囚犯在所判刑期實際執行不到60%的情況下就獲得假釋，較往年大幅增加。韓國媒體18日報道，應韓國最大在野黨國民力量黨國會議員朱晉佑要求，法務部發布上述資料。資料顯示，2022年至2024年，每年獲假釋的囚犯均不超過40人。最近兩年，獲假釋人員數量激增，2025年共有172人在服刑期不滿60%時獲假釋。今年前8個月，這類獲假釋者達到634人。（新華社）"
+    },
+    {
+      "id": "mkt:01a14f22-ca4c-7ee0-a8d1-23d31b9bf2e5",
+      "time": "2026-10-18 21:10:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Energy Secretary wright said he is uneasy about gasoline prices but pleased they are easing."
+    },
+    {
+      "id": "mkt:01a14f21-b177-7ee0-a8d1-1c5dfa77a3b0",
+      "time": "2026-10-18 21:09:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said Trump's pause on sanctions against Russia was an innovative move."
+    },
+    {
+      "id": "5152432",
+      "time": "2026-10-18 21:09:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：對汽油價格感到不安，但對價格正在回落感到高興。"
+    },
+    {
+      "id": "mkt:01a14f20-3ee0-7ee0-a8d1-15fe011a58ad",
+      "time": "2026-10-18 21:07:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi landmark orders all staff to work remotely as conflict with Houthi rebels escalates】Fighting between Saudi Arabia and Houthi rebels in Yemen has intensified, causing casualties inside Saudi Arabia. Riyadh’s Kingdom Centre on the 18th told all office staff to work remotely until further notice; management described the instruction as mandatory but gave no reason, AFP reported citing an email. The central Riyadh tower, over 300m tall, houses tenants including Merrill Lynch, McKinsey and the IMF."
+    },
+    {
+      "id": "5152431",
+      "time": "2026-10-18 21:07:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：特朗普暫停對俄製裁是創新之舉。"
+    },
+    {
+      "id": "mkt:01a14f1f-baae-7ee0-a8d1-08619c753d22",
+      "time": "2026-10-18 21:07:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary Wright says the only way Russia can help the world is an energy ceasefire."
+    },
+    {
+      "id": "5152430",
+      "time": "2026-10-18 21:05:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：俄羅斯幫助世界的唯一途徑是能源停火。"
+    },
+    {
+      "id": "5152429",
+      "time": "2026-10-18 21:04:46",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：寬基ETF持續淨申購有望為後市核心指數的企穩修復提供支援】中信建投研報指出，截至10月16日，寬基ETF實現連續10日淨流入，區間累計流入金額超過1400億元。短期看，近10個交易日寬基ETF的大額、快速流入已經發揮出穩定市場情緒，保護市場流動性等積極作用。這一作用能否得以延續並形成中長期支撐，需要將資金流向與價格表現結合起來：若滬深300與雙創ETF在市場震盪中繼續獲得淨申購，同時對應指數的回落幅度收窄、調整後的修復更為穩定，市場由調整轉向修復的訊號將更為清晰。對市場投資者而言，大資金持續穩定的增配權益市場與市場表現趨穩相互印證，將有助於改善投資者權益配置意願與投資信心，為後續逐步增加核心寬基及權益資產敞口提供基礎。"
+    },
+    {
+      "id": "5152428",
+      "time": "2026-10-18 21:03:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【衝突加劇 沙特一地標建築要求全員遠端辦公】近日，沙烏地阿拉伯和葉門胡塞武裝衝突加劇，造成沙特境內人員傷亡。沙特首都利雅得地標建築王國中心大廈18日要求樓內所有辦公人員遠端辦公，直至另行通知。 王國中心大廈坐落於利雅得市中心，建築高度超過300米，入駐機構包括金融服務巨頭美林證券公司、麥肯錫諮詢公司和國際貨幣基金組織等。法新社援引一封大廈管理處傳送的電子郵件報道，遠端辦公為“強制”要求，所有辦公人員即日起不得前往辦公室。管理處未說明提出這一要求的確切原因。  （新華社）"
+    },
+    {
+      "id": "mkt:01a14f1b-29c6-7ee0-a8d1-077e052d7d6a",
+      "time": "2026-10-18 21:02:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia, Saudi foreign ministers meet in Manama】Russia’s Foreign Ministry spokeswoman Zakharova told RIA that Foreign Minister Lavrov met Saudi Foreign Minister Faisal bin Farhan Al Saud in Manama during the ninth Russia–GCC strategic dialogue. Zakharova said participants will explore ways to deepen mutually beneficial ties with GCC members, including economic, cultural and humanitarian cooperation. The last foreign‑minister‑level meeting in this format was held in Sochi in Sept 2025."
+    },
+    {
+      "id": "5152427",
+      "time": "2026-10-18 20:59:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱伊朗非常強硬（tough）且邪惡。"
+    },
+    {
+      "id": "5152426",
+      "time": "2026-10-18 20:58:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "立陶宛稱，夜間有人企圖縱火焚燒一家存放烏克蘭所用星鏈通訊裝置的公司。"
+    },
+    {
+      "id": "mkt:01a14f15-38fd-7ee0-a8d0-ff52d724502e",
+      "time": "2026-10-18 20:55:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Ukraine's foreign ministry spokesperson said Kyiv regrets that Russia may have diverted Ukrainian drones toward Latvian and Lithuanian airspace."
+    },
+    {
+      "id": "5152425",
+      "time": "2026-10-18 20:52:54",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：市場情緒變化是近期債市波動主因】中信建投釋出研報指出，近期以長債為代表的債券市場出現了一定幅度的波動，但基本面格局及宏觀政策未觀察到明顯變化，暫未發現推動債市收益率下行的增量結構性因素。因此，判斷市場情緒變化是本次波動的主因，權益市場短期走弱帶來的避險情緒發酵和資金轉移是本輪走強的核心驅動力，央行投放階段性增加帶來的寬鬆預期則同這一主因形成了少許共振，放大了市場波動。向後推演，當前低點位缺少長期支撐，待權益市場轉穩、情緒消化後，長債點位仍將向上一均衡區間靠攏，10Y國債1.65%一線仍值得觀察。"
+    },
+    {
+      "id": "5152424",
+      "time": "2026-10-18 20:51:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外交部發言人表示，烏克蘭對俄羅斯可能將其無人機轉移至拉脫維亞和立陶宛上空表示遺憾。"
+    },
+    {
+      "id": "5152423",
+      "time": "2026-10-18 20:51:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【本週易方達、華夏、華泰柏瑞狂攬800多億元】資料顯示，本週有883.79億元資金借道ETF入場，其中有836.44億元流入寬基ETF。大資金透過買入滬深300、上證50等大盤寬基ETF進行了強有力的“託底”和流動性注入。本週“掃貨王”分別是易方達基金、華夏基金和華泰柏瑞基金，三家基金公司分別淨流入377.24億元、236.17億元、202.88億元。部分賽道遭遇“多殺多”，國泰中證全指通訊裝置ETF流出4.23億元，廣發國證新能源車電池ETF流出4.12億元。（中國基金報）"
+    },
+    {
+      "id": "5152422",
+      "time": "2026-10-18 20:51:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "週日（10月18日），沙特證交所全股指數收漲0.82%，報10189.77點，脫離週四所創2023年3月16日（收報9976.65點）以來收盤最低位10106.54點和週四所創2023年年初以來盤中最低位10034.79點。沙特阿美收漲2.06%，報25.80沙特里亞爾。在沙特上市的Albilad南方東英MSCI香港中國股票ETF收平，報11.30沙特里亞爾。"
+    },
+    {
+      "id": "5152421",
+      "time": "2026-10-18 20:51:06",
+      "tags": [
+        "資料",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：利率擾動加大，價值紅利佔優】中信建投釋出研報指出，本週A股是典型的分母端殺估值，而非盈利惡化。美國9月CPI同比3.7%、核心2.6%雙超預期，美債10Y破5.3%、30Y觸5.73%，費城半導體指數六連跌後傳導至日韓（KOSPI單日−7.57%），高久期成長股被系統性重定價。申萬一級行業2漲29跌，食品飲料+1.89%、銀行+1.52%收正，通訊−10.87%領跌，電子、計算機跌幅居前。配置建議為啞鈴型、迴避中間層：一端高股息防禦鏈（銀行PB0.72x、1.4%分位，股息3.95%、96.0%分位），一端內需消費與三季報確定性；高估值成長（計算機PE90.7%、建材PE94.2%分位）暫時迴避。"
+    },
+    {
+      "id": "5152420",
+      "time": "2026-10-18 20:49:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎泰高科：董事長王馨提議回購公司股份】鼎泰高科公告稱，公司實際控制人之一兼董事長王馨於2026年10月18日提議公司以集中競價方式回購部分A股股份，用於員工持股計劃或股權激勵。回購資金總額不低於5000萬元且不超過1億元，回購價格不高於董事會審議透過回購決議前30個交易日公司股票交易均價的150%，資金來源為公司自有或自籌資金。王馨及其一致行動人在回購期間暫無增減持計劃，本次回購事項尚需履行審批程式，存在不確定性。"
+    },
+    {
+      "id": "5152419",
+      "time": "2026-10-18 20:46:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特資本市場管理局（CMA）批准“SAAF沙特里亞爾伊斯蘭債券基金”公開發行。"
+    },
+    {
+      "id": "5152418",
+      "time": "2026-10-18 20:42:56",
+      "tags": [
+        "行業"
+      ],
+      "text": "【近一週融資資金呈現淨償還態勢 融資資金出逃CPO龍頭、儲存賽道】近一週（10月9日至15日），A股融資餘額持續下行，由2.53萬億元上方降至最新的24741.96億元。據統計，融資資金呈現淨償還態勢，金額合計727.10億元。分行業看，電子融資淨償還額高居榜首，高達288.47億元；通訊板塊居次席，融資淨償還額為138.59億元；機械裝置、電力裝置淨償還額均超過50億元。淨買入方面，綜合、紡織服飾、商貿零售、石油石化獲得融資淨買入。個股方面，近一週，35股融資淨償還額均超過3億元。中際旭創、新易盛融資淨償還額依次為55.41億元、32.81億元；寒武紀、兆易創新、勝宏科技、東山精密、瀾起科技5股融資淨償還額均在10億元以上。 （證券時報）"
+    },
+    {
+      "id": "5152416",
+      "time": "2026-10-18 20:38:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【零跑汽車祝賀德比斯斬獲6個單場冠軍】零跑汽車釋出微博：恭喜零跑Lafa5歐洲首位車主德比斯斬獲6個單場冠軍，本賽季單場奪冠次數領跑全場！"
+    },
+    {
+      "id": "mkt:01a14f04-dfd8-7ee0-a8d0-f48301aeee16",
+      "time": "2026-10-18 20:38:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Lebanon's parliament speaker said Lebanon insists UNIFIL must remain and is committed to implementing UN Security Council Resolution 1701, but Israel continues to violate all provisions of the resolution."
+    },
+    {
+      "id": "mkt:01a14f04-da94-7ee0-a8d0-ee065c06cea3",
+      "time": "2026-10-18 20:38:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen government urges the UN Security Council to condemn Houthi attacks on government facilities and residential areas and to hold the group accountable."
+    },
+    {
+      "id": "mkt:01a14f01-46a3-7ee0-a8d0-e7a24e5c2d00",
+      "time": "2026-10-18 20:34:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SAMR deputy director meets AmCham China president Michael Hart】Oct 12 — SAMR Deputy Director Pan Xiaodong met AmCham China president Michael Hart and member companies to discuss consumer protection, fair competition review and advertising regulation. Pan said SAMR will work with AmCham to implement a recent bilateral leaders' consensus and help create a favorable operating environment for foreign firms, including US companies. Hart said AmCham will continue to act as a bridge to support expanded Sino‑US trade and investment."
+    },
+    {
+      "id": "5152415",
+      "time": "2026-10-18 20:34:04",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【國家市場監督管理總局副局長潘曉東會見中國美國商會會長何邁可一行】10月12日，國家市場監督管理總局副局長潘曉東會見中國美國商會（AmCham China）會長何邁可（Michael Hart）及其會員企業一行。雙方圍繞消費者權益保護、公平競爭審查、廣告監管等方面議題進行了交流。潘曉東表示，市場監管總局願與中國美國商會一道，共同落實好兩國元首近期達成的重要共識，為包括美資企業在內的外企在華投資興業營造良好營商環境。何邁可表示，中國美國商會願繼續發揮橋樑紐帶作用，支援兩國擴大經貿合作。國家市場監督管理總局相關司局負責同志參加會見。（ 國家市場監督管理總局  ）"
+    },
+    {
+      "id": "5152414",
+      "time": "2026-10-18 20:33:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉疫情已致4536人死亡】剛果（金）衛生部18日釋出的最新疫情報告顯示，該國本輪埃博拉疫情已蔓延至第八個省份，累計確診病例升至9415例，死亡4536例。報告說，位於該國西北部的北烏班吉省首次報告兩例確診病例，其中1人死亡。兩名患者均為20歲左右男性。截至16日，疫情已波及該國8個省份的66個衛生區，累計治癒2522人，病死率約為48.2%。其中，東部伊圖裡省仍是疫情“震中”，累計確診6891例，約佔全國病例總數的73.2%。另據肯亞衛生部17日確認，該國新增4例本迪布焦型埃博拉病例，累計確診病例達7例，其中1例死亡。肯亞6日確認首例輸入性埃博拉病例，患者為肯亞公民，此前7年一直在剛果（金）生活。（央視新聞）"
+    },
+    {
+      "id": "te:markets:592888",
+      "time": "2026-10-18 20:28:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Axis Bank earnings below expectations at 22.46 INR — Axis Bank (AXSB) released earnings per share at 22.46 INR, compared to market expectations of 22.53 INR."
+    },
+    {
+      "id": "te:markets:592887",
+      "time": "2026-10-18 20:28:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "ICICI Bank earnings above expectations at 19.54 INR — ICICI Bank (ICICIBC) released earnings per share at 19.54 INR, compared to market expectations of 18.42 INR."
+    },
+    {
+      "id": "te:markets:592886",
+      "time": "2026-10-18 20:28:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "HDFC Bank earnings above expectations at 12.58 INR — HDFC Bank (HDFCB) released earnings per share at 12.58 INR, compared to market expectations of 12.04 INR."
+    },
+    {
+      "id": "5152413",
+      "time": "2026-10-18 20:26:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【張雪機車德比斯年度亞軍】2026世界超級摩托車錦標賽（WSBK）18日在西班牙站迎來賽季收官日，中國摩托車製造商“張雪機車”車手瓦倫丁·德比斯以該組別年度車手亞軍的成績結束本賽季征程。“張雪機車”獲製造商年度第三名。（新華社）"
+    },
+    {
+      "id": "5152412",
+      "time": "2026-10-18 20:20:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週兩融餘額增幅最大：掌閱科技兩融餘額：2.66億元，餘額增幅：77.45%；重慶銀行兩融餘額：0.28億元，餘額增幅：52.78%"
+    },
+    {
+      "id": "5152411",
+      "time": "2026-10-18 20:18:07",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【Deepseek公佈API網頁搜尋與抓取費用：每1000次成功請求5元】10 月 18 日，DeepSeek 釋出公告，DeepSeek API 現已支援網頁搜尋與抓取，按請求次數計費，單價為每 1000 次成功請求 5 元。公告稱，當前使用者在 DeepSeek Harness / Claude Code / Codex 中使用 DeepSeek API 時，已經會透過 Server 端工具呼叫訪問到 Search / Fetch 介面，這部分 Search / Fetch 介面呼叫目前未計費，並將於北京時間 2026 年 11 月 1 日 00:00 起按次收取呼叫費用。DeepSeek 官方於 10 月 17 日宣佈 Search / Fetch API 已正式上線，兩項介面均使用 DeepSeek 自研搜尋引擎，為 Agent 與 RAG 應用提供實時網頁內容。Search 介面按 query 搜尋網頁並返回結構化結果，Fetch 介面則抓取單個網頁，以 Markdown 文字返回標題與正文。兩者均為原始 JSON API，Base URL 為 api.deepseek.com，使用與 DeepSeek API 相同的 Bearer 鑑權。"
+    },
+    {
+      "id": "5152410",
+      "time": "2026-10-18 20:14:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝方面稱沙特空襲葉門薩達省致9死11傷】據葉門胡塞武裝方面18日訊息，當天沙特針對葉門胡塞武裝控制的薩達省一處房屋的空襲造成9人死亡11人受傷，死傷者中包括婦女和兒童。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a14eee-7836-7ee0-a8d0-d9955aed4a00",
+      "time": "2026-10-18 20:13:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump urges France to close borders】U.S. President Trump said France is burning, accused immigrants from a different world of harboring hatred and destroying the once-great country, and urged France to close its borders and retake control immediately."
+    },
+    {
+      "id": "5152409",
+      "time": "2026-10-18 20:12:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國諾丁漢市中心發生槍擊警察事件】英國諾丁漢市中心18日發生一起警察遭槍擊事件，一名警察受傷，正在醫院接受治療，兩名嫌疑人在逃。諾丁漢警方表示，當天凌晨4時50分左右，該名警察在市中心接近兩名嫌疑人，隨後發生槍擊事件。一名男子和一名女子逃離現場，目前尚未被找到。警方已在現場繳獲一槍支，並封鎖街道，現場仍有大量警力。據稱，警方已掌握這兩名嫌疑人的身份資訊，但案件仍在調查中。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a14eed-75df-7ee0-a8d0-d4d110b6f74c",
+      "time": "2026-10-18 20:12:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ebola outbreak in DRC spreads to eighth province】The DRC Ministry of Health said on the 18th the current Ebola outbreak has reached an eighth province, with cumulative confirmed cases at 9,415 and deaths at 4,536."
+    },
+    {
+      "id": "5152408",
+      "time": "2026-10-18 20:11:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普呼籲法國關閉邊境】美國總統特朗普表示，法國正在燃燒！來自一個截然不同世界的移民——這些人心懷仇恨——已經摧毀了那個曾經偉大的國家。趕快關閉邊境、奪回控制權，否則一切都將為時已晚！"
+    },
+    {
+      "id": "5152407",
+      "time": "2026-10-18 20:11:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉疫情蔓延至第八個省份】剛果（金）衛生部18日釋出的最新疫情報告顯示，該國本輪埃博拉疫情已蔓延至第八個省份，累計確診病例升至9415例，死亡4536例。報告說，位於該國西北部的北烏班吉省首次報告兩例確診病例，其中1人死亡。兩名患者均為20歲左右男性。（新華社）"
+    },
+    {
+      "id": "mkt:01a14ee7-0161-7ee0-a8d0-cffe7c5040f0",
+      "time": "2026-10-18 20:05:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed",
+        "TSLA.O",
+        "CNH"
+      ],
+      "text": "【Key events next week: China GDP and LPR, Financial Street Forum, Meta and Tesla results】Monday: China releases Q3 GDP, Sep retail sales and industrial production; Canada Sep CPI; US Oct NAHB. National Bureau publishes monthly large‑city residential price report. Financial Street Forum opens in Beijing (through Oct 22). Hong Kong market closed; north‑ and southbound trading suspended. Tuesday: China 1‑year LPR through Oct 20 released; Germany Sep PPI; UK Sep unemployment; US weekly ADP; US Sep building permits and housing starts. APEC finance ministers meet Oct 20‑21 in Hong Kong. CATL reports results. NSE closed. Wednesday: US weekly API crude stocks; UK Sep CPI and RPI; US weekly EIA crude, SPR and Cushing stocks. Financial Street Forum continues. Bank of England's Bailey speaks. Meta and Tesla report earnings. Thursday: China Sep share of RMB in global SWIFT payments released; US initial jobless claims; Eurozone Oct consumer confidence (prelim); US Sep Conference Board leading indicators; US weekly EIA natural gas stocks. ECB's Lagarde speaks. China Telecom reports. Friday: Japan Sep core CPI; UK Sep seasonally adjusted retail sales; Oct preliminary manufacturing PMIs for France, Germany, UK and Eurozone; US Oct flash S&P Global manufacturing and services PMIs; US Oct U. Michigan final consumer sentiment. Russian Cenbank policy decision. China Unicom reports. Saturday: US weekly oil‑rig count to Oct 23; CFTC weekly commitments report. Sunday: Europe shifts to winter time; European market trading hours and economic release times move one hour later."
+    },
+    {
+      "id": "mkt:01a14ee4-a6b7-7ee0-a8d0-c7ae127d17e7",
+      "time": "2026-10-18 20:02:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan swine fever spreads; about 20,000 pigs culled year-to-date】Japanese media on the 18th and the Ministry of Agriculture, Forestry and Fisheries reported continued spread of swine fever this year, with eight confirmed outbreaks across Ibaraki, Gunma and Ehime prefectures and roughly 20,000 pigs culled. The most recent case was confirmed on the 16th at a pig farm in Kasumigaura, Ibaraki, after an uptick in piglet deaths earlier in the month. It is Ibaraki’s first swine fever outbreak since 2023; authorities are investigating whether it is linked to a rise in infected wild boar in the area."
+    },
+    {
+      "id": "5152406",
+      "time": "2026-10-18 19:59:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本豬瘟疫情擴散 今年累計處置約2萬頭豬 】據日本媒體18日報道，日本豬瘟疫情近期持續擴散，今年已累計出現8起疫情，涉及茨城縣、群馬縣和愛媛縣等，共有約2萬頭涉疫豬遭處置。根據日本農林水產省的通報，最新一起疫情發生在茨城縣霞浦市一家養豬場。本月上旬，這家養豬場出現仔豬死亡增多的情況，隨即向當地衛生部門上報，農林水產省16日確認發生豬瘟疫情。這是茨城縣2023年以來首次出現豬瘟，政府部門正在調查這起疫情是否與當地野豬感染豬瘟病例增多有關。（新華社）"
+    },
+    {
+      "id": "mkt:01a14edf-b03e-7ee0-a8d0-b9fc89cf4dce",
+      "time": "2026-10-18 19:57:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Ukraine says drone attack hit St. Petersburg data centre and two oil facilities】A Ukrainian defence firm said on social media on the 18th that Ukrainian forces used FP-1 drones in the early hours to strike a data centre, the Ruchy oil depot and the St. Petersburg oil terminal. The firm said fires broke out at the depot and terminal and the data centre was severely damaged. The St. Petersburg terminal's annual throughput capacity is about 12.5 mln tonnes."
+    },
+    {
+      "id": "5152405",
+      "time": "2026-10-18 19:56:31",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中金財富買方投顧保有規模突破1800億元】截至2026年9月，買方投顧保有規模突破1800億元，產品保有規模超5500億元。與此同時，7年以來，中金財富客戶數增長300%。"
+    },
+    {
+      "id": "mkt:01a14edd-8146-7ee0-a8d0-b747622e9de2",
+      "time": "2026-10-18 19:55:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "TSM.O",
+        "005930.KS"
+      ],
+      "text": "【Korean media: Samsung to use TSMC 3nm to make NVIDIA next‑gen HBM base wafers】Seoul Economic Daily reports Samsung Electronics will use TSMC's 3nm process to produce base wafers for NVIDIA's next‑generation custom HBM, marking the first Samsung‑TSMC cooperation at the HBM manufacturing stage. Industry sources say NVIDIA has asked Samsung, SK Hynix and Micron to use TSMC's process for NVHBM base wafers and to adopt sixth‑generation DRAM for the core dies. NVHBM, released in August, integrates NVIDIA's custom memory controller into the substrate to standardize implementation across multiple memory suppliers. Samsung accepted the request after internal review but will continue in‑house production for standard HBM and other customers' custom products, and is evaluating whether its foundry could produce NVHBM base wafers if demand exceeds TSMC capacity."
+    },
+    {
+      "id": "5152404",
+      "time": "2026-10-18 19:54:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏稱無人機襲擊聖彼得堡資料中心及兩處石油設施】烏克蘭國防企業18日在社交平臺通報稱，烏軍當天凌晨使用FP-1無人機襲擊了俄羅斯聖彼得堡的一個資料中心、魯奇油庫和聖彼得堡石油碼頭。該公司稱，油庫和碼頭區域發生火災，資料中心遭到嚴重破壞。聖彼得堡石油碼頭年吞吐能力為1250萬噸。（央視新聞）"
+    },
+    {
+      "id": "5152403",
+      "time": "2026-10-18 19:50:54",
+      "tags": [
+        "宏觀",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【10月18日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【新思想引領新徵程】繪就幸福“夕陽紅” 持續增進民生福祉； 2.李強同烏茲別克總理會談； 3.李強會見烏茲別克總統； 4.李強赴杜尚別對塔吉克進行正式訪問並出席上海合作組織成員國政府首腦（總理）理事會第二十五次會議； 5.【賡續長征精神 奮進復興征程】甘肅：長征足跡印沃土 紅色隴原譜新篇； 6.我國已開通104項全國性跨地區社保服務； 7.城鎮供熱“溫暖工程”三年行動啟動； 8.全國鐵路列車車次編排改革啟動； 9.我國首次太空培育兩代水稻取得新突破； 10.第五屆亞殘運會今天開幕； 11.國內聯播快訊： （1）今年1.3萬億元超長期特別國債發行完畢； （2）第四屆“良渚論壇”在浙江杭州開幕； （3）前三季度深圳對APEC經濟體進出口同比增長40%； （4）中國農業發展銀行2000億元信貸資金專項用於秋糧收購； （5）市場監管總局釋出15項氫能國家標準； （6）前三季度全國鐵路傳送旅客37.1億人次； （7）我國確定“十五五”適宜增殖放流水生物種345種； （8）中韓海上執法部門圓滿完成聯合巡航； （9）第二十五屆中國上海國際藝術節開幕； （10）2026長三角國際青年電影周開幕； （11）2026國際武當太極文化節開幕； 12.葉門胡塞武裝稱擊落沙特武裝直升機 沙特主導聯軍稱攔截多架無人機； 13.國際聯播快訊： （1）俄稱擊落上千架無人機 烏稱變電站遭襲； （2）歐洲外交人員遭猶太定居者襲擊； （3）加拿大一軍事基地發生火災； （4）美加州南部多處林火持續燃燒； （5）肯亞新增4例埃博拉確診病例； 14.中國傳統節日·重陽。"
+    },
+    {
+      "id": "5152402",
+      "time": "2026-10-18 19:49:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【石河子大學藥學院調研組一行赴新農開發調研交流】據新農開發公眾號，10月17日下午，石河子大學藥學院黨委書記、分析測試中心主任李鴻彬教授率調研組一行赴新農甘草公司開展調研。下一步，雙方將圍繞南疆甘草種質資源培育與規範化種植、活性成分提取與新產品研發、產品質量檢測與標準提升、本科生和研究生實習實踐基地共建、大型儀器平臺共享等方面建立常態化對接機制。"
+    },
+    {
+      "id": "mkt:01a14ed6-1bf9-7ee0-a8d0-acee43c79582",
+      "time": "2026-10-18 19:46:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran says it has contingency plans for possible new 'adventurist' acts】Mohsen Rezaee, secretary of Iran's Supreme National Security Council, said on the 18th on social media that fevered rhetoric and repeated threats from US and Israeli officials have not changed battlefield realities. He said Iran's armed forces have drawn up contingency plans to respond to any possible new 'adventurist' acts; their destructive power would far exceed previous responses and new operational plans will not follow familiar rules."
+    },
+    {
+      "id": "5152401",
+      "time": "2026-10-18 19:45:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：已針對可能的新“冒險行徑”制定應對方案】伊朗最高國家安全委員會秘書穆赫辛·雷扎伊18日說，伊朗武裝力量已針對任何新的“冒險行徑”制定了應對方案。雷扎伊當天在社交媒體上說，連日來，美國和以色列官員所散佈的狂熱言論與反覆威脅，絲毫改變不了戰場上的現實。面對可能出現的任何新的“冒險行徑”，伊朗武裝力量已制定了應對方案，其破壞力將遠超此前。伊朗全新的作戰計劃將不再遵循對方所熟悉的規則。(新華社)"
+    },
+    {
+      "id": "5152400",
+      "time": "2026-10-18 19:42:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，特魯迪正向西北方向移動，與墨西哥海岸平行，墨西哥西南部和中西部部分地區有暴雨和強風。"
+    },
+    {
+      "id": "5152399",
+      "time": "2026-10-18 19:35:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【今年上海勞力士大師賽總收入5億元，觀眾人數24.8萬】總收入5億元，觀眾總人數24.8萬，覆蓋超160個國家、每年達2萬小時的電視轉播量……10月17日下午，在上海勞力士大師賽接近尾聲之際，上海久事動娛文旅集團有限公司董事長楊亦斌接受媒體群訪，給出了今年賽事運營的各項相關資料。5億元的總收入中，贊助收入約佔50%，票房收入約20%，電視版權分紅約20%。“還有5%來自於現場的紀念品銷售，5%來自於其他的一些ATP相關收入”。楊亦斌表示，上海勞力士大師賽是全國範圍內商業體育賽事中盈利能力最強的，“沒有之一”。（第一財經）"
+    },
+    {
+      "id": "5152398",
+      "time": "2026-10-18 19:35:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大型三甲醫院AI服務升級探索：智元靈犀X2參與門診服務】線上AI就醫服務能力正在向線下醫院場景延伸。澎湃新聞獲悉，智元靈犀X2已以“矽基接待員”的身份參與老牌三甲醫院北京大學人民醫院的門診服務。這是智元與螞蟻阿福合作落地的醫院智慧導診專案，依託螞蟻阿福AI就醫助理多模態智慧問答能力，靈犀X2可為患者及來訪人員提供科室指引、就診流程諮詢、醫保政策答疑、院內點位導航等多元服務。同時，透過對接醫院私有知識庫，靈犀X2能夠結合院內資訊輸出標準化就醫答覆，幫助患者獲取所需資訊，也為導診臺分擔基礎諮詢工作壓力。北京大學人民醫院運營資料顯示，截至9月30日，靈犀X2在門診導航臺工作66個工作日，累計完成互動46686次，平均每日約707次，單日最高互動量達1420次。智元表示，隨著後續應用深化與部署推廣，專案將進一步積累醫院場景下的互動和運營經驗，探索形成可複製、可規模化推廣的智慧醫療服務樣板，為大型三甲醫院的AI服務升級提供示範路徑。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:01a14ec9-e885-7ee0-a8d0-a525e8db9579",
+      "time": "2026-10-18 19:33:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy says U.S.-Ukraine intelligence sharing has resumed."
+    },
+    {
+      "id": "5152397",
+      "time": "2026-10-18 19:30:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：俄軍襲擊烏克蘭多地變電站，數萬家庭斷電】澤連斯基18日在社交媒體發文稱，俄軍17日晚對文尼察州、日托米爾州、赫梅利尼茨基州和敖德薩州等地的變電站發動襲擊，導致數以萬計家庭斷電。此外，俄軍當晚對烏空襲已造成2人死亡、12人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:01a14ec6-1ea0-7ee0-a8d0-9aa25051765c",
+      "time": "2026-10-18 19:29:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Vance: US pullback from Strait of Hormuz would double US gasoline prices】US Vice President Vance told CBS gasoline prices are high but would be roughly twice current levels if the US Navy did not ensure oil and gas transit through the Strait of Hormuz. He warned that if the US were to \"walk away\" energy prices would surge. Vance said Washington seeks two objectives to end the conflict with Iran: a Tehran commitment not to seek restoration of uranium enrichment capacity, and steps to avoid a global energy crisis from scaling back US military presence in the region."
+    },
+    {
+      "id": "mkt:01a14ec3-e81d-7ee0-a8d0-978732028167",
+      "time": "2026-10-18 19:27:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President Pezeshkian said parliament approved the nominee for defence minister."
+    },
+    {
+      "id": "mkt:01a14ec3-3168-7ee0-a8d0-88f6832a5570",
+      "time": "2026-10-18 19:26:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese prime minister's office said the prime minister and France's foreign minister discussed international arrangements after the end of the UN Interim Force in Lebanon (UNIFIL) mission."
+    },
+    {
+      "id": "5152396",
+      "time": "2026-10-18 19:25:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外長達爾與伊朗外長阿拉格齊討論了地區局勢。"
+    },
+    {
+      "id": "5152395",
+      "time": "2026-10-18 19:22:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外長達爾週日與伊朗外長阿拉格齊通話。"
+    },
+    {
+      "id": "5152394",
+      "time": "2026-10-18 19:22:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中俄聯合研發綜合性社交數字平臺“閃訊”在俄上線】中俄聯合研發的綜合性社交與數字平臺“閃訊”近日在俄羅斯莫斯科舉行釋出會。該應用集即時通訊、音視訊通話、頻道釋出及短影片等功能於一體，目前已在俄羅斯應用商店RuStore上線。據介紹，“閃訊”專案於2024年啟動研發，由俄羅斯基礎軟體開發商紅軟公司（RED SOFT）與科技企業派森集團（Passion Group）聯合打造。平臺採用多層級技術架構，旨在打破傳統服務割裂的局面，為使用者提供涵蓋社交與數字生活的統一生態空間。中國駐俄羅斯大使張漢暉在釋出會上致辭，指出近年來中俄數字經濟合作穩步推進，兩國科技企業優勢互補、深化合作，將有力促進歐亞地區數字互聯互通，為雙邊經貿往來和人員交流提供更加安全便捷的數字工具。（新華社）"
+    },
+    {
+      "id": "5152393",
+      "time": "2026-10-18 19:17:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美媒：超40萬億國債終將掏空美國人的錢包】美國《國會山報》網站10月17日發表評論文章稱，美國國債已突破40萬億美元大關，這一數字大到令人難以想象，鉅額國債終將指向美國普通人的錢包。文章稱，當特朗普於2025年1月開啟第二個總統任期時，美國國債已然規模巨大，當時為36.2萬億美元。然而，短短一年多時間，美文章強調，這場大規模財政衝擊的首要受害者，正是聯邦政府預算本身。如今美國政府用於償還歷史借款複利的資金，已經超過國防開支，也超過數百萬民眾醫療保障的撥款。文章認為，華盛頓已經構建起一種金融體系，國家變成了向全球債券持有人支付利息的工具。昨天欠下的賬單，正在吞噬明天的公共開支，實際狀況相當令人擔憂。（央視新聞）"
+    },
+    {
+      "id": "5152392",
+      "time": "2026-10-18 19:15:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【崔東樹：2026年9月乘用車市場價格段跟蹤】崔東樹發文稱，影響價格變化的主要是結構變化和銷量變化，量價關係是相反的價格量跌、價低量增。2025年乘用車均價是16.7萬元，較2024年均價下降1.7萬元。2026年9月乘用車均價17.1萬元，均價較同期提升0.58萬元。其中常規燃油車價格持續上升，市場萎縮在中低端很明顯，而高階萎縮慢，因此從2021年的16.6萬元上升到2024年的18.8萬元。2025年隨著高階燃油車的較快萎縮，2025年的均價降低到17.6萬元，常規燃油車2026年9月均價18.3萬元，燃油車市場全面劇烈萎縮。而新能源車的均價近期逐步下降，從2023年的均價18.4萬元，下降到2024年的均價18.0萬元，新能源車2025年的均價16.0萬元，價格下降明顯。但2026年9月是16.4萬元，漲價0.9萬元，量跌價升，體現新能源車消費的結構性變化，入門級消費被抑制。2026年豪華車均價33萬元，較2025年降0.3萬元；2026年9月豪華車均價33.8萬元，較同期升0.8萬元。2026年合資品牌17.1萬元，較2025年增0.1萬元；2026年9月均價17.0萬元較同期基本持平。2026年新勢力23.2萬元，較2025年降0.9萬元；2026年9月均價22.7萬元，較同期降1.1萬元。2026年自主品牌均價12.8萬元，較同期增0.7萬元；2026年9月自主品牌均價12.7萬元，較同期增0.8萬元。中國汽車普及僅有254臺/千人，而汽車消費普及是未來最重要趨勢，電動化的低成本帶來車價持續下降是趨勢。目前隨著車購稅免稅政策退出後，新能源車免稅技術指標的升級，部分短續航和高耗電車型面臨改款壓力。9月的A00級電動車劇烈萎縮帶來均價的上升，購車門檻提升，可購買群體規模下降，2026年銷量增長壓力較大。"
+    },
     {
       "id": "mkt:01a14eb1-c60c-7ee0-a8d0-80a46cae48af",
       "time": "2026-10-18 19:07:15",
