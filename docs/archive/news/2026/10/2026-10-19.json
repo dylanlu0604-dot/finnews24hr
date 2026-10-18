@@ -1,7 +1,20 @@
 {
   "date": "2026-10-19",
-  "count": 92,
+  "count": 93,
   "items": [
+    {
+      "id": "mkt:01a1508f-ca40-7ee0-a8d2-f492993fa1ea",
+      "time": "2026-10-19 03:49:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【French unrest escalates; Iran warns Macron participants in 'evil alliance' will ultimately face consequences】Iran Foreign Ministry spokesman Baghaei posted on social media on Sunday accusing French President Macron of double standards: Macron backed Iranians' \"peaceful assembly, no need to fear punishment\" in January but now insists on harsh punishment for attacks on French state institutions. Baghaei also said Macron had earlier suggested France and the US could be \"very active\" on Iran before the US and Israel launched a war on Iran, and warned parties in the \"evil alliance\" would ultimately face the consequences."
+    },
     {
       "id": "mkt:01a15084-5e4c-7ee0-a8d2-ecd6b01cb625",
       "time": "2026-10-19 03:36:54",
