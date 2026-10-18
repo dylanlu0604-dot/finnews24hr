@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-19 01:41:47",
-  "count": 12530,
+  "updated": "2026-10-19 01:45:34",
+  "count": 12528,
   "items": [
+    {
+      "id": "5152542",
+      "time": "2026-10-19 01:42:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：如果俄羅斯能向市場增加柴油供應並出口，這將惠及美國消費者，也將惠及全世界。"
+    },
     {
       "id": "5152541",
       "time": "2026-10-19 01:35:09",
@@ -114670,37 +114678,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊海軍：霍爾木茲海峽區域內所有關閉導航和識別系統的船隻將被視為敵對目標，並予以嚴厲果斷處置。"
-    },
-    {
-      "id": "mkt:01a12c11-99a9-7ee0-a82b-0179a0b1e0b4",
-      "time": "2026-10-12 01:45:13",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Pakistan, Saudi Arabia, Egypt and Turkey condemn sustained Houthi attacks on Saudi Arabia】Pakistan, Saudi Arabia, Egypt and Turkey said on the 11th they condemned in the strongest terms the Houthi militants' sustained attacks on Saudi Arabia, which have caused civilian casualties, damaged civilian infrastructure and constitute a blatant violation of international law and Saudi sovereignty. The four countries reaffirmed full support for Saudi Arabia, including backing all legitimate measures to respond, deter the threat and prevent recurrence to defend Saudi security and protect its citizens."
-    },
-    {
-      "id": "5137942",
-      "time": "2026-10-12 01:44:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴沙埃土四國譴責胡塞武裝持續對沙特發動襲擊】巴基斯坦外交部11日表示，巴基斯坦、沙烏地阿拉伯、埃及和土耳其以最強烈的措辭譴責胡塞武裝持續對沙烏地阿拉伯發動襲擊。此類襲擊造成平民死亡和受傷，並對民用基礎設施造成破壞，公然違反國際法。四國重申，這些襲擊公然侵犯沙烏地阿拉伯的主權和領土完整，直接威脅其安全、穩定以及平民安全，是危險的局勢升級，無論以何種藉口都無法為其辯解，也不可接受。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a12c0e-a054-7ee0-a82a-f846e9c30041",
-      "time": "2026-10-12 01:41:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "NHC says the core of extremely dangerous Category 4 hurricane Simon is moving parallel to Mexico's central-west coast."
     }
   ]
 }
