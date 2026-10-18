@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-18 22:57:09",
-  "count": 12534,
+  "updated": "2026-10-18 23:01:10",
+  "count": 12535,
   "items": [
+    {
+      "id": "mkt:01a14f86-ef4c-7ee0-a8d1-bea0e68ab498",
+      "time": "2026-10-18 23:00:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy says held calls with Witkoff and Kushner】Ukrainian President Zelenskiy said he held phone calls with US presidential envoy Witkoff and Kushner to secure a strong US position to advance a peace process excluding Russia. He said his team met in Florida, remains in contact, is preparing next diplomatic steps, and is briefing partners on Russian attacks and Ukraine's air‑defence challenges; he called US support crucial and said Ukraine will remain constructive, honest and pragmatic."
+    },
+    {
+      "id": "mkt:01a14f86-e51c-7ee0-a8d1-b0c56be6d1bd",
+      "time": "2026-10-18 23:00:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Canada says no sign Wainwright base fire was terror-related】On Oct 18 local time, Canada's Department of National Defence said there is no indication the incident at the Wainwright military base was caused by \"any terrorist activity.\" The DND said a fire broke out at about 16:00 on Oct 17 at the Wainwright base and caused casualties. The blaze spread rapidly beyond a training area; military and civilian emergency services responded. The DND said its immediate priority is supporting affected personnel and notifying next of kin and that it will not confirm casualty figures until notifications are complete."
+    },
+    {
+      "id": "5152491",
+      "time": "2026-10-18 22:59:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基表示，美國和烏克蘭談判人員保持著“幾乎不間斷的溝通”。"
+    },
+    {
+      "id": "5152490",
+      "time": "2026-10-18 22:58:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：與美國總統特使史蒂夫·威特科夫和賈裡德·庫什納進行了對話。"
+    },
     {
       "id": "5152489",
       "time": "2026-10-18 22:54:01",
@@ -114755,35 +114787,6 @@
         "市場"
       ],
       "text": "【招商策略：未來3—6個月依次把握三類機會】招商策略研報認為，綜合來看，未來3—6個月依次把握三類機會：一是10Y美債利率確認轉跌後的科技寬度修復，率先受益的是算力晶片、儲存、半導體裝置與材料、PCB、液冷等配套環節；二是內外共振下的內需與順週期擴散，關注食品飲料、家電、商貿零售、工程機械、化工；三是若指數先行出現較大幅度回撤，則重點關注低PB、併購重組主線下的券商。"
-    },
-    {
-      "id": "mkt:01a12b7a-4e8a-7ee0-a82a-1a4b256e95e0",
-      "time": "2026-10-11 22:59:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Poland's interior minister said a man who plotted an attack on the prime minister has been detained."
-    },
-    {
-      "id": "5137774",
-      "time": "2026-10-11 22:59:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會秘書：美國在阿聯酋及霍爾木茲海峽周邊擁有價值極其高昂的資產，而我們尚未將其列入打擊目標清單。若戰火重燃，該地區的大量海底光纜、資料中心、人工智慧基礎設施及其他相關總價值已逾2萬億美元的資產都將化為廢墟。"
-    },
-    {
-      "id": "5137771",
-      "time": "2026-10-11 22:57:55",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲傳聲筒Nick Timiraos釋出文章：美聯儲官員哈馬克傾向於採取“幅度更小、頻率更高”的加息策略，以避免未來被迫進行更大幅度的加息】在克利夫蘭的工業硬體製造商Jergens公司，貝絲·哈馬克（Beth Hammack）瞭解到，在客戶的優先考量清單上，價格已降至第三位，排在質量和交付速度之後。誠然，加息既無法打通霍爾木茲海峽，也無法立即給資料中心的建設熱潮降溫。但加息或許能讓其他企業在當前環境下對擴張計劃“三思而後行”，從而將緊缺的零部件或供應留給資料中心領域，並在邊際上緩解供需壓力。她傾向於採取“幅度更小、頻率更高”的加息策略，以避免未來被迫進行更大幅度的加息。她對中性利率的估算在美聯儲官員中位居前列，而她表示，如果自己的估算是錯的，那也只可能是估低了。此外，她強調，收益率上升“絕對無法”替代美聯儲的加息行動。"
     }
   ]
 }
