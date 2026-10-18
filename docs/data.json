@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-18 18:12:50",
-  "count": 12529,
+  "updated": "2026-10-18 18:16:37",
+  "count": 12528,
   "items": [
+    {
+      "id": "5152366",
+      "time": "2026-10-18 18:15:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“薔琵”繼續向西偏北方向移動 21日前對我國海區無影響】今年第30號颱風“薔琵”（超強颱風級）的中心今天（18日）下午5點鐘位於臺灣台東市東偏南方向約2430公里的西北太平洋洋麵上，就是北緯13.1度，東經141.8度，中心附近最大風力17級（60米/秒），中心最低氣壓為920百帕，七級風圈半徑250~350公里，十級風圈半徑100~120公里，十二級風圈半徑60公里。預計，“薔琵”將以每小時15~20公里的速度繼續向西偏北方向移動，逐漸向臺灣以東洋麵靠近，強度還將有所加強，21日前對我國海區無影響。（央視新聞）"
+    },
     {
       "id": "5152365",
       "time": "2026-10-18 18:11:28",
@@ -114710,22 +114718,6 @@
         "其他"
       ],
       "text": "梵蒂岡教皇檢出早期肺結節，將接受手術治療。"
-    },
-    {
-      "id": "5137584",
-      "time": "2026-10-11 18:12:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一移民船在吉布提沿海傾覆致至少109人死亡】據國際移民組織10月11日訊息，一艘載有350人的移民船在吉布提沿海傾覆，造成至少109人死亡，另有至少116人失蹤。據倖存者稱，這艘船從吉布提駛往葉門，於10月8日至9日夜間在奧博克以北的古赫雷附近傾覆。此次事故中有超過80人倖存，均為衣索比亞國民。國際移民組織正在為倖存者提供援助。吉布提政府與國際移民組織仍在繼續搜救行動。"
-    },
-    {
-      "id": "mkt:01a12a73-6f2f-7ee0-a828-ad14a4f8d76d",
-      "time": "2026-10-11 18:12:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Migrant boat capsizes off Djibouti coast, at least 109 dead】The International Organization for Migration said on Oct 11 a migrant vessel carrying about 350 people capsized off Djibouti, killing at least 109 and leaving at least 116 missing. Survivors—more than 80 people—are all Ethiopian nationals. The boat, en route from Djibouti to Yemen, overturned on the night of Oct 8-9 near Goubet north of Obock. IOM is assisting survivors and Djibouti authorities, together with IOM, are continuing search-and-rescue operations."
     }
   ]
 }
