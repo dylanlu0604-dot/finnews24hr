@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-19 23:09:18",
-  "count": 12881,
+  "updated": "2026-10-19 23:13:14",
+  "count": 12883,
   "items": [
+    {
+      "id": "5154347",
+      "time": "2026-10-19 23:12:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "五角大樓已與 BAE 系統公司達成框架協議，增產經過實戰驗證的先進精確殺傷武器系統。"
+    },
+    {
+      "id": "5154346",
+      "time": "2026-10-19 23:12:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【民調：勒龐將在法國大選首輪投票中取勝 得票率至少31】Cluster 17進行的一項投票意向調查顯示，法國極右翼領導人瑪麗娜·勒龐將在總統選舉首輪投票中領先，得票率至少31%。"
+    },
+    {
+      "id": "5154345",
+      "time": "2026-10-19 23:10:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯：將很快公佈未來投資倡議（FII）的新舉辦日期。"
+    },
+    {
+      "id": "5154344",
+      "time": "2026-10-19 23:09:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯將未來投資倡議（FII）投資大會推遲至 2027 年。"
+    },
+    {
+      "id": "mkt:01a154b6-0c66-7ee0-a8eb-b7d3b7473547",
+      "time": "2026-10-19 23:09:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia has postponed the Future Investment Initiative (FII) conference until 2027."
+    },
+    {
+      "id": "5154343",
+      "time": "2026-10-19 23:09:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合利華據稱同意將Welly創可貼業務出售給一傢俬募股權公司。"
+    },
     {
       "id": "5154342",
       "time": "2026-10-19 23:08:10",
@@ -118132,42 +118180,6 @@
         "國際"
       ],
       "text": "英國首相伯納姆：“歐洲製造” 相關政策對英國製造商構成風險。"
-    },
-    {
-      "id": "te:markets:591214",
-      "time": "2026-10-12 23:12:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "French Bond Yields Climb on Fiscal Concerns, Oil Rebound — France’s 10-year OAT yield rose to 4.9%, approaching the more than two-decade high of 5.03% reached earlier this month, as oil prices rebounded following a deadly attack on Riyadh’s airport in Saudi Arabia, while Ukraine reported continued Russian strikes on its energy infrastructure. French bonds also remained under pressure amid concerns over record-high public debt and political obstacles to fiscal consolidation. The government aims to reduce the budget deficit to 5% of GDP in 2027, but securing parliamentary approval for substantial spending cuts remains uncertain ahead of next year’s presidential election. Last week, EU officials urged Paris to present a credible budget and comply with the EU fiscal framework, with French lawmakers set to begin debating the budget’s revenue measures this week. Investors are also awaiting Wednesday’s US CPI report and remarks from ECB policymakers at the IMF-World Bank annual meetings for further clues on the monetary policy outlook."
-    },
-    {
-      "id": "5139873",
-      "time": "2026-10-12 23:11:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【原糖期貨重拾漲勢 交易員防範厄爾尼諾衝擊】原糖期貨上漲，看漲交易員繼續押注強勁的厄爾尼諾現象將導致主要產糖國供應趨緊。紐約交投最活躍的原糖期貨合約一度上漲3.2%，恢復了上週倫敦糖業周之前開始的漲勢。Green Pool Commodity Specialists週一在一份報告中表示，在創紀錄降雨以及厄爾尼諾預期影響下，市場消化了巴西中南部地區2026-27年度甘蔗產量預估可能“大幅下調”的影響，推動期貨價格走高。預計本週降雨還將增強，可能令收割進一步推遲。與此同時，分析師寫道，投機者“在這輪漲勢中一直積極買入，而生產商顯然也利用價格回升帶來的機會進行賣出”。"
-    },
-    {
-      "id": "5139872",
-      "time": "2026-10-12 23:10:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯：（談及阿斯皮德斯海軍任務）我們至少需要 10 艘軍艦，但目前尚未達到該規模。"
-    },
-    {
-      "id": "5139871",
-      "time": "2026-10-12 23:09:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國外交部發布聯合宣告，美國等逾 25 國簽署，認可英國對伊朗牽涉皇家空軍費爾福德基地事件的定性。"
     }
   ]
 }
