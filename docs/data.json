@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-19 22:53:26",
-  "count": 12878,
+  "updated": "2026-10-19 22:57:17",
+  "count": 12877,
   "items": [
+    {
+      "id": "mkt:01a154aa-55c0-7ee0-a8eb-79dd37f6c5bc",
+      "time": "2026-10-19 22:56:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IRGC spokesman says Iran has emerged as a superpower】An Islamic Revolutionary Guard Corps spokesman said Iran has emerged as a superpower, claiming it has defeated the world’s largest superpower in manpower and military equipment and calling the development a national honor that imposes greater responsibilities."
+    },
+    {
+      "id": "5154330",
+      "time": "2026-10-19 22:55:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，“特魯迪”在墨西哥中西部海岸外保持穩定。"
+    },
+    {
+      "id": "mkt:01a154a8-5b56-7ee0-a8eb-7785159c3b62",
+      "time": "2026-10-19 22:54:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's armed forces chief of staff said Tehran must accurately identify threats, tailor defense upgrades to the characteristics of future warfare, and prioritize R&D in missiles, drones, air defense, naval systems, electronics and communications to improve weapons precision and combat effectiveness."
+    },
+    {
+      "id": "mkt:01a154a8-4f9c-7ee0-a8eb-685870b832ac",
+      "time": "2026-10-19 22:54:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's armed forces chief of staff said future wars will no longer be confined to a single domain; hybrid, technological, information and cognitive warfare will be decisive. He said the military must systematically consolidate lessons learned and develop plans to counter emerging threats."
+    },
+    {
+      "id": "mkt:01a154a8-34d9-7ee0-a8eb-6460239dd68e",
+      "time": "2026-10-19 22:54:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's armed forces chief of staff Abdullahi said Iran has never initiated war and only acts in self‑defense when invaded or attacked."
+    },
+    {
+      "id": "5154329",
+      "time": "2026-10-19 22:54:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股票指數<.GSPTSE>延續跌勢，下跌1%。"
+    },
+    {
+      "id": "5154328",
+      "time": "2026-10-19 22:54:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇丹西南部發生無人機襲擊事件 造成至少80人死亡】當地時間10月19日，總檯記者獲悉，蘇丹西南部西科爾多凡州達巴卜地區18日晚發生無人機襲擊事件，造成至少80人死亡，另有數十人受傷。當地醫療部門訊息人士表示，襲擊發生在當地一個市場附近，傷亡人員大多是當時正準備乘車的當地民眾。截至目前，蘇丹衝突雙方尚未對此次襲擊發布官方宣告。（央視新聞）"
+    },
     {
       "id": "mkt:01a154a4-f583-7ee0-a8eb-58655179750a",
       "time": "2026-10-19 22:50:59",
@@ -118060,74 +118116,6 @@
         "觀點"
       ],
       "text": "EBAY股價上漲，此前摩根士丹利將其列為首選股。"
-    },
-    {
-      "id": "te:markets:591211",
-      "time": "2026-10-12 22:57:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Advances Despite Oil Rebound — Frankfurt’s DAX 40 extended its gains on Monday, rising to around 25,270 points, as optimism over a potential electricity tax cut supported sentiment despite a rebound in oil prices during afternoon trading. Trading activity remained subdued due to a US market holiday, while German politics stayed in focus after Bärbel Bas announced her resignation as Labour Minister and SPD leader. Among individual stocks, Rheinmetall rose 2.4% after Morgan Stanley expressed a more positive outlook for the defense sector. Volkswagen and other automakers remained under pressure following an agreement between the EU and China in their dispute over hybrid vehicle exports. Volkswagen’s latest sales figures also delivered a mixed picture. Investors are now looking ahead to a busy week, with major US banks set to kick off the earnings season, European companies preparing to report quarterly results, and US inflation data expected to provide fresh clues on the Federal Reserve’s monetary policy outlook."
-    },
-    {
-      "id": "5139855",
-      "time": "2026-10-12 22:56:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟-英國峰會將於11月20日在布魯塞爾舉行】根據一份宣告，第二次歐盟-英國峰會將於11月20日在布魯塞爾舉行。歐盟領導人與英國首相安迪·伯納姆將討論雙方關係在防務與安全、能源、農食產品規則、氣候、人員往來、移民及執法等領域取得的進展。此次峰會還將討論英歐關係的下一步發展。預計與會領導人將在峰會結束時發表聯合宣告。"
-    },
-    {
-      "id": "5139854",
-      "time": "2026-10-12 22:56:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國外交大臣米利班德：英國已召見伊朗大使。"
-    },
-    {
-      "id": "5139853",
-      "time": "2026-10-12 22:55:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "EBAY股價上漲5%，創五個月來最大盤中漲幅。"
-    },
-    {
-      "id": "5139852",
-      "time": "2026-10-12 22:55:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "Artisan Partners股價下跌3.7%，此前公佈的9月資產管理規模低於分析師預期。"
-    },
-    {
-      "id": "5139851",
-      "time": "2026-10-12 22:55:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯：烏克蘭的未來在歐盟。"
-    },
-    {
-      "id": "5139850",
-      "time": "2026-10-12 22:54:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡拉斯：如果只有一方遵守停火協議，停火就無法實現。"
-    },
-    {
-      "id": "5139849",
-      "time": "2026-10-12 22:54:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡拉斯：各方明確認為，現在不是放鬆對莫斯科施壓的時候。"
     }
   ]
 }
