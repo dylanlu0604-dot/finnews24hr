@@ -1,7 +1,77 @@
 {
   "date": "2026-10-19",
-  "count": 1844,
+  "count": 1851,
   "items": [
+    {
+      "id": "5154342",
+      "time": "2026-10-19 23:08:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "法德10年期國債收益率利差擴大10個基點，至148個基點。"
+    },
+    {
+      "id": "mkt:01a154b4-0d52-7ee0-a8eb-abfe0fab9a48",
+      "time": "2026-10-19 23:07:28",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Yemen military said government forces have seized the battlefield initiative and expanded the \"Yemen Dawn\" offensive. Over the past 24 hours government aircraft, drones, field artillery, rocket launchers and snipers carried out 1,164 precision strikes against Houthi assembly points, reinforcements and vehicles, destroying defensive positions and cutting fire‑support and supply lines."
+    },
+    {
+      "id": "5154341",
+      "time": "2026-10-19 23:07:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞稱對葉門境內目標發動三輪襲擊】據葉門胡塞武裝向總檯報道員證實，舍卜沃省葉門政府軍營地遭襲是其所為。胡塞武裝稱，今天（10月19日）共進行了三輪軍事行動，目標分別是焦夫省東部、舍卜沃省的阿拉姆軍營和西部拉赫季省的兩個地區。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a154b2-b59f-7ee0-a8eb-a5bfbc1eb5ce",
+      "time": "2026-10-19 23:06:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France's 10-year government bond yield is poised for its biggest one-day jump since March 2025."
+    },
+    {
+      "id": "mkt:01a154b2-ad31-7ee0-a8eb-9ba8f4b584e8",
+      "time": "2026-10-19 23:05:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump, accompanied by First Lady Melania Trump, signed an executive order in the Rose Garden."
+    },
+    {
+      "id": "te:economy:593183",
+      "time": "2026-10-19 23:05:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ecuador",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Ecuador Trade Balance Swings to Deficit — Ecuador recorded a trade deficit of $31.11 million in August 2026, compared with a surplus of $291.02 million in July. Exports fell 5.6% from the previous month to $3.51 billion, as non-oil shipments declined 11.3%, outweighing a 14.8% rise in oil sales. Meanwhile, imports increased 3.3% to $3.54 billion, led by purchases of durable consumer goods (+38.3%) and transport equipment (+10%), while fuels and lubricants purchases decreased 2.7%. Ecuador posted a $1.55 billion trade surplus between January and August 2026."
+    },
+    {
+      "id": "5154340",
+      "time": "2026-10-19 23:04:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普與第一夫人梅拉尼婭·特朗普在玫瑰園活動中籤署行政令。"
+    },
     {
       "id": "5154339",
       "time": "2026-10-19 23:04:09",
