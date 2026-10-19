@@ -1,7 +1,61 @@
 {
   "date": "2026-10-19",
-  "count": 398,
+  "count": 404,
   "items": [
+    {
+      "id": "5152808",
+      "time": "2026-10-19 08:56:23",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【日本國債在AI相關信用債擔憂之際上漲 10年期日本國債收益率下降3個基點】在人工智慧相關信用債擔憂之際，日本國債東京早盤價格上漲。摩根大通日本市場研究的兩名成員在一份研究報告中稱，“我們正關注這些擔憂是否可能成為催化劑，促使投資者不再過度迴避久期風險；此前他們更偏好承擔信用債和收益率差風險，而非久期風險。“他們補充道，“假設最近的信用債擔憂沒有演變成重大避險事件，我們維持這樣的看法：市場對加息預期的過度反映將首先在短端消退，隨後較長期收益率將下降。”10年期日本國債收益率下跌3.0個基點至2.900%。20年期日本國債收益率下跌1.5個基點，至3.790%。"
+    },
+    {
+      "id": "5152807",
+      "time": "2026-10-19 08:56:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌3.0個基點至2.900%。"
+    },
+    {
+      "id": "mkt:01a151a8-3c5c-7ee0-a8d5-1459a7bd91f3",
+      "time": "2026-10-19 08:55:42",
+      "tags": [
+        "MKT News",
+        "000725.SZ",
+        "Impact mixed"
+      ],
+      "text": "【BOE Technology (A-share): Depreciation and capex to decline from 2025】BOE Technology said at an investor-relations event that total depreciation expense will start to fall from a 2025 base as depreciation on existing production lines declines and under-construction lines are capitalized in phases consistent with capacity ramp-up. The company added the industry has shifted from rapid large-scale expansion to a more mature phase, and as its investment scale eases, capital expenditure is expected to gradually decline from the 2025 base."
+    },
+    {
+      "id": "5152806",
+      "time": "2026-10-19 08:54:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東方Ａ：公司總體折舊、資本開支金額將在2025年的基礎上開始下降】 京東方Ａ在投資者關係活動中表示，未來隨著公司存量產線折舊持續減少，在建產線專案綜合考慮產能爬坡情況分階段進行轉固，公司總體折舊金額將在2025年的基礎上開始下降。資本開支方面，顯示行業已從大規模擴產的高速發展階段逐步進入成熟期，未來隨著公司投資規模的下降，公司資本開支金額也將在2025年的基礎上逐漸降低。(21財經)"
+    },
+    {
+      "id": "5152805",
+      "time": "2026-10-19 08:54:46",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【兩大A股券商今日終止上市】10月19日，東興證券、信達證券A股股票將正式摘牌、終止上市。值得注意的是，本次為中金公司換股吸收合併導致的主動退市，不設退市整理期；兩隻標的自9月15日起停牌，9月14日為其在A股最後一個交易日。摘牌後，原股東所持股份將按既定比例轉換為中金公司A股股票。"
+    },
+    {
+      "id": "5152804",
+      "time": "2026-10-19 08:54:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【DeepSeek API已支援網頁搜尋與抓取，按請求次數計費】DeepSeek公告，DeepSeek API現已支援網頁搜尋與抓取，按請求次數計費，單價為每1000次成功請求5元。公告稱，當前使用者在DeepSeek Harness/Claude Code/Codex中使用DeepSeek API時，已經會透過Server端工具呼叫訪問到Search/Fetch介面，這部分Search/Fetch介面呼叫目前未計費，並將於11月1日00:00起按次收取呼叫費用。"
+    },
     {
       "id": "te:markets:592914",
       "time": "2026-10-19 08:51:17",
