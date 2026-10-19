@@ -1,7 +1,19 @@
 {
   "date": "2026-10-19",
-  "count": 1859,
+  "count": 1860,
   "items": [
+    {
+      "id": "te:economy:593190",
+      "time": "2026-10-19 23:16:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Colombia’s Leading Economic Index Contracts — Colombia’s leading economic index fell 0.04% year-over-year in August 2026, following a 1.11% increase in July, marking its first annual contraction since June 2024. The decline was driven by weakness in primary and secondary activities, which fell 3.19% and 3.03%, respectively. In contrast, the tertiary activities index rose 1.10%. On a year-to-date basis, the leading economic index increased 2.27%, while it fell 3.11% month-over-month in August."
+    },
     {
       "id": "5154348",
       "time": "2026-10-19 23:13:55",

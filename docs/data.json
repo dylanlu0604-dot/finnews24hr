@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-19 23:17:12",
-  "count": 12880,
+  "updated": "2026-10-19 23:21:06",
+  "count": 12879,
   "items": [
+    {
+      "id": "te:economy:593190",
+      "time": "2026-10-19 23:16:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Colombia’s Leading Economic Index Contracts — Colombia’s leading economic index fell 0.04% year-over-year in August 2026, following a 1.11% increase in July, marking its first annual contraction since June 2024. The decline was driven by weakness in primary and secondary activities, which fell 3.19% and 3.03%, respectively. In contrast, the tertiary activities index rose 1.10%. On a year-to-date basis, the leading economic index increased 2.27%, while it fell 3.11% month-over-month in August."
+    },
     {
       "id": "5154348",
       "time": "2026-10-19 23:13:55",
@@ -118142,23 +118154,6 @@
         "國際"
       ],
       "text": "惠譽評級：中東北非地區主權評級在美伊戰爭衝擊下展現韌性。"
-    },
-    {
-      "id": "5139880",
-      "time": "2026-10-12 23:20:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門胡塞武裝稱沙特空襲葉門北部致9死7傷】據葉門胡塞武裝控制的馬西拉電視臺12日報道，沙烏地阿拉伯戰機當天空襲了葉門北部焦夫省，造成至少9人死亡、7人受傷。報道說，焦夫省北部靠近沙特邊境的海卜沙夫地區一處政府辦公設施和一棟民宅遭到空襲，9名死者中包括5名兒童和一名婦女。報道說，胡塞武裝指責沙特襲擊民用和政府設施。沙特方面尚未就此次空襲及人員傷亡情況作出回應。（新華社）"
-    },
-    {
-      "id": "5139879",
-      "time": "2026-10-12 23:19:55",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅與俄羅斯總統助理、海事委員會主席帕特魯舍夫舉行會晤】中共中央政治局委員、中央外辦主任王毅12日在北京與俄羅斯總統助理、海事委員會主席帕特魯舍夫舉行會晤。王毅轉達習近平主席對普京總統的親切問候。王毅表示，習近平主席和普京總統保持密切溝通，引領兩國關係向更高質量、更高水平邁進。要發動中俄關系發展的“藍色引擎”，為完善全球海洋治理貢獻中俄力量，推動構建海洋命運共同體。帕特魯舍夫轉達普京總統對習近平主席的誠摯問候，表示俄方願與中方攜手推動構建海洋命運共同體，為俄中全面戰略協作增添新的維度。（新華社）"
     }
   ]
 }
