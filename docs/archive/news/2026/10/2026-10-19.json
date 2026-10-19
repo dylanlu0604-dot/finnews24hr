@@ -1,7 +1,639 @@
 {
   "date": "2026-10-19",
-  "count": 612,
+  "count": 673,
   "items": [
+    {
+      "id": "mkt:01a151e7-5d63-7ee0-a8d7-ffa714d4d3be",
+      "time": "2026-10-19 10:04:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NBS: Goods trade posts rapid growth; trade structure continues to improve】China's goods trade totalled 39.94 tln yuan in Jan–Sep, up 18.8% YoY; exports 23.20 tln yuan, +16.4%; imports 16.74 tln yuan, +22.3%. Trade with Belt and Road countries rose 17.1% YoY. Private enterprises' imports and exports increased 19.1% and accounted for 56.9% of total trade. Mechanical and electrical exports gained 23.7% YoY, comprising 64.3% of exports. In September, goods trade was 5.163 tln yuan, +27.5% YoY and 7.7 ppt faster than August; exports 3.034 tln yuan, +29.6%; imports 2.128 tln yuan, +24.6%."
+    },
+    {
+      "id": "5152969",
+      "time": "2026-10-19 10:04:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：全年糧食有望再獲豐收】國家統計局副局長毛盛勇19日在國新辦新聞釋出會上說，今年全國夏糧早稻產量合計1.7904億噸，比上年增加78萬噸，增長0.4%。秋糧生產形勢良好，全年糧食有望再獲豐收。（新華社）"
+    },
+    {
+      "id": "5152968",
+      "time": "2026-10-19 10:04:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：1—9月全國房地產開發投資同比下降20.6%】國家統計局資料顯示，1—9月份，全國房地產開發投資53364億元，同比下降20.6%；其中，住宅投資41125億元，下降20.5%。1—9月份，房地產開發企業房屋施工面積565221萬平方米，同比下降12.8%。其中，住宅施工面積392558萬平方米，下降13.2%。房屋新開工面積34031萬平方米，下降24.9%。其中，住宅新開工面積24774萬平方米，下降25.4%。房屋竣工面積23271萬平方米，下降25.1%。其中，住宅竣工面積16301萬平方米，下降26.6%。1—9月份，新建商品房銷售面積56483萬平方米，同比下降13.2%；其中住宅銷售面積下降13.8%。新建商品房銷售額53799億元，下降13.9%；其中住宅銷售額下降13.7%。"
+    },
+    {
+      "id": "mkt:01a151e7-2481-7ee0-a8d7-f4ce265c9e7e",
+      "time": "2026-10-19 10:04:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【NBS: September coal decline narrows; crude output growth accelerates】China's industrial enterprises above designated size produced 390 mln t of raw coal in September, down 6.8% YoY, a 0.9 percentage-point narrowing from August; daily average 12.84 mln t. Jan–Sep raw coal output totaled 3.45 bln t, down 3.5% YoY. Crude oil production in September was 18.21 mln t, up 2.2% YoY and accelerating 1.4 percentage points from August; daily average 607 kt. Jan–Sep crude production was 164.6 mln t, up 1.0% YoY. Crude oil processing fell further: September throughput 57.48 mln t, down 8.4% YoY (decline widened 1.5 percentage points vs August); daily average 1.916 mln t. Jan–Sep crude processing totaled 513.6 mln t, down 6.8% YoY."
+    },
+    {
+      "id": "mkt:01a151e7-1270-7ee0-a8d7-ed7ce766ef6a",
+      "time": "2026-10-19 10:04:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China NBS: Jan–Sep retail sales of goods and services rose 2.6% YoY】China National Bureau of Statistics: Jan–Sep retail sales of consumer goods and services rose 2.6% YoY; services retail rose 5.0% while goods retail rose 1.0%. Social consumer goods retail totaled RMB 37.00 trillion in Jan–Sep, up 1.1% YoY; urban retail RMB 31.98 trillion (+0.9%), rural RMB 5.02 trillion (+2.3%). By type, goods retail was RMB 32.80 trillion (+1.0%) and catering revenue RMB 4.20 trillion (+2.4%). Among categories, above‑threshold unit retail of grain/oil/food +6.8%, communications equipment +18.1%, cultural and office supplies +6.2%; within services, telecom/information, travel/leasing and cultural/sports/leisure retail grew faster."
+    },
+    {
+      "id": "mkt:01a151e7-0e6c-7ee0-a8d7-e42aeb85ede9",
+      "time": "2026-10-19 10:04:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesian stocks fell 4.6% intraday, hitting their lowest level since October 2020."
+    },
+    {
+      "id": "5152967",
+      "time": "2026-10-19 10:04:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報57.51美元/盎司。"
+    },
+    {
+      "id": "mkt:01a151e6-fb2e-7ee0-a8d7-dee1a6e8f41f",
+      "time": "2026-10-19 10:04:14",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China's National Bureau of Statistics said online retail sales of goods and services in the first three quarters totaled 15.1471 trillion yuan, up 4.4% YoY. Online goods retail was 9.5060 trillion yuan, up 3.8% YoY; online services retail was 5.6411 trillion yuan, up 5.3% YoY."
+    },
+    {
+      "id": "5152966",
+      "time": "2026-10-19 10:04:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：前三季度社會消費商品和服務零售總額同比增長2.6%】前三季度，社會消費商品和服務零售總額同比增長2.6%，其中服務零售額增長5.0%，商品零售額增長1.0%。在服務零售額中，通訊資訊服務類、旅遊諮詢租賃服務類、文體休閒服務類零售額較快增長。前三季度，社會消費品零售總額370001億元，同比增長1.1%。按經營單位所在地分，城鎮消費品零售額319820億元，同比增長0.9%；鄉村消費品零售額50181億元，增長2.3%。按消費型別分，商品零售額328032億元，同比增長1.0%；餐飲收入41969億元，增長2.4%。基本生活類和部分升級類商品銷售較快增長，限額以上單位糧油食品類、通訊器材類、文化辦公用品類商品零售額同比分別增長6.8%、18.1%、6.2%。"
+    },
+    {
+      "id": "5152965",
+      "time": "2026-10-19 10:03:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽：惠譽評級預計印尼債務資本市場未償餘額將保持增長態勢，到2026年底接近8000億美元。"
+    },
+    {
+      "id": "5152964",
+      "time": "2026-10-19 10:03:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：9月份，規上工業原煤產量3.9億噸，同比下降6.8%】原煤生產降幅收窄。9月份，規上工業原煤產量3.9億噸，同比下降6.8%，降幅比8月份收窄0.9個百分點；日均產量1284萬噸。 原油生產增速加快。9月份，規上工業原油產量1821萬噸，同比增長2.2%，增速比8月份加快1.4個百分點；日均產量60.7萬噸。 1—9月份，規上工業原油產量16460萬噸，同比增長1.0%。 原油加工降幅擴大。9月份，規上工業原油加工量5748萬噸，同比下降8.4%，降幅比8月份擴大1.5個百分點；日均加工量191.6萬噸。 1—9月份，規上工業原油加工量51360萬噸，同比下降6.8%。"
+    },
+    {
+      "id": "te:economy:592939",
+      "time": "2026-10-19 10:03:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "GDP Annual Growth Rate",
+        "Importance 3"
+      ],
+      "text": "China Q3 GDP Growth Beats Estimates — China's economy expanded 4.5% year-on-year in Q6 2026, accelerating from Q2's three-year low of 4.3% and surpassing market expectations of 4.4%. Growth was supported by recent policy loosening."
+    },
+    {
+      "id": "mkt:01a151e6-5df4-7ee0-a8d7-d5c19aa0048b",
+      "time": "2026-10-19 10:03:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【National Bureau of Statistics: China services value-added +5.2% YoY in Jan–Sep】China's services sector value-added rose 5.2% YoY in the first three quarters (Jan–Sep). By subsector, value-added growth was strongest in leasing and business services (+12.3%), information transmission, software and IT services (+10.4%), financial services (+5.8%) and accommodation & catering (+5.5%). In September the national services production index was up 4.8% YoY, accelerating 0.7 ppts from August; September production by subsector rose: information transmission/software/IT +9.8%, leasing and business services +9.5%, transport/warehousing/postal +5.4%, accommodation & catering +5.3%. The services business activity index in September was 50.2, up 0.9 ppts month-on-month; the activity expectations index was 55.5, unchanged. Telecom/broadcasting/satellite transmission, monetary and financial services, and insurance recorded business activity indices above 55.0. Jan–Aug operating revenue of above-designated-size service enterprises grew 6.0% YoY."
+    },
+    {
+      "id": "mkt:01a151e6-3920-7ee0-a8d7-c889c74408c3",
+      "time": "2026-10-19 10:03:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "【China NBS: Jan–Sep housing construction area 5,652.2 mln sqm, down 12.8% YoY】China NBS data: Jan–Sep housing construction area 5,652.2 mln sqm, down 12.8% YoY; residential construction 3,925.6 mln sqm, down 13.2%. New starts 340.31 mln sqm, down 24.9%; residential starts 247.74 mln sqm, down 25.4%. Completions 232.71 mln sqm, down 25.1%; residential completions 163.01 mln sqm, down 26.6%. Jan–Sep new home sales area 564.83 mln sqm, down 13.2%; residential sales area down 13.8%. New home sales value CNY5.38 tln, down 13.9%; residential sales value down 13.7%. Ministry of Housing and Urban‑Rural Development data: Jan–Sep second‑hand transaction signed area 617.46 mln sqm, up 10.7% YoY. End‑September new home inventory 748.25 mln sqm, down 1.5%; of that, inventory under three years 541.97 mln sqm, down 5.0%."
+    },
+    {
+      "id": "mkt:01a151e6-2e6b-7ee0-a8d7-c7c9484094f5",
+      "time": "2026-10-19 10:03:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "China's National Bureau of Statistics: funds available to real estate developers in Jan–Sep totaled 5.68 tln yuan, down 21.6% YoY. Breakdown: domestic loans 762.4 bln yuan (-33.1%); self-raised funds 2,057.2 bln yuan (-21.4%); deposits and advance receipts 1,798.2 bln yuan (-14.8%); individual mortgage loans 767.8 bln yuan (-22.1%)."
+    },
+    {
+      "id": "mkt:01a151e6-2b54-7ee0-a8d7-bd46df943ca6",
+      "time": "2026-10-19 10:03:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "China September urban fixed-asset investment MoM +0.07%; prior -0.50%."
+    },
+    {
+      "id": "5152963",
+      "time": "2026-10-19 10:03:19",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【國家統計局：居民消費價格溫和上漲，工業生產者價格漲幅擴大】前三季度，全國居民消費價格（CPI）同比上漲0.9%。分類別看，食品菸酒及在外餐飲價格同比下降0.4%，衣著價格上漲1.5%，居住價格下降0.2%，生活用品及服務價格上漲1.4%，交通通訊價格上漲2.0%，教育文化娛樂價格上漲1.2%，醫療保健價格上漲2.3%，其他用品及服務價格上漲9.8%。在食品菸酒及在外餐飲價格中，豬肉價格下降12.9%，糧食價格下降0.4%，鮮果價格上漲0.7%，鮮菜價格上漲1.4%。9月份，全國居民消費價格同比上漲0.9%，環比上漲0.2%。前三季度，扣除食品和能源價格後的核心CPI同比上漲1.1%。其中，9月份核心CPI同比上漲1.0%。 前三季度，全國工業生產者出廠價格同比上漲2.3%。其中，9月份同比上漲5.0%，漲幅比上月擴大1.2個百分點；環比上漲1.2%。前三季度，全國工業生產者購進價格同比上漲3.6%。其中，9月份同比上漲6.9%，環比上漲1.2%。"
+    },
+    {
+      "id": "mkt:01a151e6-1c45-7ee0-a8d7-b6fc18e3cc0a",
+      "time": "2026-10-19 10:03:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "Hang Seng Index"
+      ],
+      "text": "【NBS: Industrial value added of above-designated-size enterprises up 5.3% in Jan‑Sep】Industrial value added of enterprises above designated size rose 5.3% YoY in Jan‑Sep, the National Bureau of Statistics said. By sector: mining +2.0% YoY; manufacturing +5.7%; power, heat, gas and water production and supply +5.4%. Equipment manufacturing rose 10.2% and high‑tech manufacturing 14.3%, outperforming overall above‑scale industry by 4.9 and 9.0 percentage points, respectively. By ownership: state‑controlled enterprises +3.8% YoY; joint‑stock companies +5.8%; foreign‑ and HK/Macau/Taiwan‑invested firms +3.2%; private firms +4.3%. Selected product output: 3D printers +62.5%, lithium‑ion batteries +39.5%, industrial robots +29.1% YoY."
+    },
+    {
+      "id": "mkt:01a151e6-031d-7ee0-a8d7-ad07d28d7c59",
+      "time": "2026-10-19 10:03:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Urban Fixed Asset Investment (MoM) (Sep) | actual 0.07% | previous -0.5%"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610193899504659",
+      "time": "2026-10-19 10:02:50",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：1—9月份全國房地產開發投資53364億元 同比下降20.6%】1—9月份，全國房地產開發投資53364億元，同比下降20.6%（按可比口徑計算）；其中，住宅投資41125億元，下降20.5%。"
+    },
+    {
+      "id": "mkt:01a151e5-9f8d-7ee0-a8d7-a3a6b94c8774",
+      "time": "2026-10-19 10:02:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "China's industrial value-added for enterprises above designated size rose 0.61% MoM in September, versus 0.54% previously."
+    },
+    {
+      "id": "mkt:01a151e5-9d50-7ee0-a8d7-997e2411d4eb",
+      "time": "2026-10-19 10:02:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "China's retail sales of consumer goods rose 0.35% MoM in September, versus -0.13% in the prior month."
+    },
+    {
+      "id": "5152962",
+      "time": "2026-10-19 10:02:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：就業形勢總體穩定 城鎮調查失業率下降】國家統計局釋出資料顯示，前三季度，全國城鎮調查失業率平均值為5.2%，與上年同期持平。9月份，全國城鎮調查失業率為5.2%，比上月下降0.1個百分點。本地戶籍勞動力調查失業率為5.2%；外來戶籍勞動力調查失業率為5.1%，其中外來農業戶籍勞動力調查失業率為5.0%。31個大城市城鎮調查失業率為5.2%，比上月下降0.1個百分點。全國企業就業人員周平均工作時間為48.3小時。三季度末，外出務工農村勞動力總量19270萬人，同比增長0.4%。"
+    },
+    {
+      "id": "mkt:01a151e5-8412-7ee0-a8d7-951d344a384f",
+      "time": "2026-10-19 10:02:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Industrial Value Added of Enterprises Above Designated Size (MoM) (Sep) | actual 0.61% | previous 0.54%"
+    },
+    {
+      "id": "mkt:01a151e5-8107-7ee0-a8d7-8f3f1011aba3",
+      "time": "2026-10-19 10:02:37",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Retail Sales (MoM) (Sep) | actual 0.35% | previous -0.13%"
+    },
+    {
+      "id": "5152961",
+      "time": "2026-10-19 10:02:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量141億元。"
+    },
+    {
+      "id": "5152960",
+      "time": "2026-10-19 10:02:31",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【國家統計局：9月份，規模以上工業增加值同比實際增長5.5%】國家統計局：9月份，規模以上工業增加值同比實際增長5.5%，增速比上月加快0.3個百分點。從環比看，9月份，規模以上工業增加值比上月增長0.61%。1—9月份，規模以上工業增加值同比增長5.3%。"
+    },
+    {
+      "id": "5152959",
+      "time": "2026-10-19 10:02:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：前三季度國民經濟頂壓前行、向新向優，主要指標積極變化增多】總的來看，前三季度國民經濟頂壓前行、向新向優，主要指標積極變化增多，高質量發展取得新成效。也要看到，國際環境複雜多變，國內需求不足問題仍較突出，經濟穩中向好基礎尚需鞏固。下階段，要堅持以習近平新時代中國特色社會主義思想為指導，堅持穩中求進工作總基調，完整準確全面貫徹新發展理念，加快構建新發展格局，堅持深化改革開放，強化創新驅動，著力發揮宏觀政策效能，加力擴大內需、最佳化供給，切實保障和改善民生，推動經濟向新向優向好發展。"
+    },
+    {
+      "id": "mkt:01a151e5-5a0b-7ee0-a8d7-826bd7a1805b",
+      "time": "2026-10-19 10:02:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bearish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "China NBS: Electricity generation at industrial enterprises above designated size fell in September. September generation was 829.4 billion kWh, down 1.2% YoY; daily average 27.65 billion kWh. Jan–Sep cumulative generation was 7.492 trillion kWh, up 2.2% YoY."
+    },
+    {
+      "id": "mkt:01a151e5-558f-7ee0-a8d7-7eb6046199b0",
+      "time": "2026-10-19 10:02:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "China NBS: industrial value added of enterprises above designated size rose 5.5% YoY in September 2026."
+    },
+    {
+      "id": "5152958",
+      "time": "2026-10-19 10:02:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：印尼債務資本市場將增長；首隻惠譽評級的印尼盾伊斯蘭債券違約。"
+    },
+    {
+      "id": "5152957",
+      "time": "2026-10-19 10:02:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：居民收入平穩增長，農村居民收入增長快於城鎮居民】前三季度，全國居民人均可支配收入34230元，同比名義增長5.3%，扣除價格因素實際增長4.4%。按常住地分，城鎮居民人均可支配收入44945元，同比名義增長4.5%，實際增長3.6%；農村居民人均可支配收入18809元，同比名義增長6.3%，實際增長5.6%。從收入來源看，全國居民人均工資性收入、經營淨收入、財產淨收入、轉移淨收入分別名義增長5.3%、6.6%、1.6%、5.7%。前三季度，城鄉居民人均可支配收入比值（以農村居民為1）為2.39，同比縮小0.04。"
+    },
+    {
+      "id": "te:markets:592938",
+      "time": "2026-10-19 10:02:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Gains as Fed Rate Hike Bets Ease — Silver climbed toward $54.5 an ounce on Monday, extending its recent gains as dovish remarks from Federal Reserve Chair Kevin Warsh prompted traders to scale back expectations of an October rate hike. Speaking at the IMF’s annual meetings in Bangkok on Friday, Warsh avoided signalling the outcome of this month’s FOMC meeting but noted that hotter-than-expected inflation had not changed his assessment of the US economy. The Fed has since entered its blackout period ahead of the October 27–28 policy meeting, with markets pricing in an approximately 84% probability of rates remaining unchanged. Precious metals also benefited from safe-haven demand as growing concerns over AI-related investments triggered an equity selloff and pushed bond yields lower. Meanwhile, escalating geopolitical tensions in the Middle East and Eastern Europe kept oil prices elevated, while violent protests in France and other European countries added to broader market uncertainty."
+    },
+    {
+      "id": "5152956",
+      "time": "2026-10-19 10:02:09",
+      "tags": [],
+      "text": "國家統計局：1—9月份，社會消費品零售總額370001億元，同比增長1.1％。"
+    },
+    {
+      "id": "5152955",
+      "time": "2026-10-19 10:02:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：就業形勢總體穩定，城鎮調查失業率下降】前三季度，全國城鎮調查失業率平均值為5.2%，與上年同期持平。9月份，全國城鎮調查失業率為5.2%，比上月下降0.1個百分點。本地戶籍勞動力調查失業率為5.2%；外來戶籍勞動力調查失業率為5.1%，其中外來農業戶籍勞動力調查失業率為5.0%。31個大城市城鎮調查失業率為5.2%，比上月下降0.1個百分點。全國企業就業人員周平均工作時間為48.3小時。三季度末，外出務工農村勞動力總量19270萬人，同比增長0.4%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610193899498559",
+      "time": "2026-10-19 10:02:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：9月份規模以上工業增加值增長5.5%】9月份，規模以上工業增加值同比實際增長5.5%（增加值增速均為扣除價格因素的實際增長率），增速比上月加快0.3個百分點。從環比看，9月份，規模以上工業增加值比上月增長0.61%。1—9月份，規模以上工業增加值同比增長5.3%。"
+    },
+    {
+      "id": "mkt:01a151e4-ee12-7ee0-a8d7-77f9fcd0e42a",
+      "time": "2026-10-19 10:01:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Copper",
+        "CNH"
+      ],
+      "text": "China's fixed-asset investment excluding rural households fell 7.2% YoY to 33.412 tln yuan in January-September, the National Bureau of Statistics said. Investment in intellectual property products rose 9.3% YoY."
+    },
+    {
+      "id": "5152954",
+      "time": "2026-10-19 10:01:59",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "國家統計局：1—9月份，全國房地產開發投資53364億元，同比下降20.6%；其中，住宅投資41125億元，下降20.5%。"
+    },
+    {
+      "id": "5152953",
+      "time": "2026-10-19 10:01:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市下跌4.6%，觸及2020年10月以來最低。"
+    },
+    {
+      "id": "mkt:01a151e4-bf37-7ee0-a8d7-68895167f9fd",
+      "time": "2026-10-19 10:01:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Copper",
+        "Impact bearish",
+        "CNH",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "National Bureau of Statistics: Jan-Sep 2026 China real estate development investment totaled 5.3364 tln yuan, down 20.6% YoY; residential investment 4.1125 tln yuan, down 20.5% YoY."
+    },
+    {
+      "id": "mkt:01a151e4-b800-7ee0-a8d7-677d57ad9834",
+      "time": "2026-10-19 10:01:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "China Q3 GDP QoQ 1.2% (est 1.1%; prior 0.9%)."
+    },
+    {
+      "id": "5152952",
+      "time": "2026-10-19 10:01:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：消費市場繼續擴容，服務零售和網上零售較快增長】前三季度，社會消費商品和服務零售總額同比增長2.6%，其中服務零售額增長5.0%，商品零售額增長1.0%。在服務零售額中，通訊資訊服務類、旅遊諮詢租賃服務類、文體休閒服務類零售額較快增長。前三季度，社會消費品零售總額370001億元，同比增長1.1%。按經營單位所在地分，城鎮消費品零售額319820億元，同比增長0.9%；鄉村消費品零售額50181億元，增長2.3%。按消費型別分，商品零售額328032億元，同比增長1.0%；餐飲收入41969億元，增長2.4%。基本生活類和部分升級類商品銷售較快增長，限額以上單位糧油食品類、通訊器材類、文化辦公用品類商品零售額同比分別增長6.8%、18.1%、6.2%。前三季度，全國網上商品和服務零售額151471億元，同比增長4.4%。其中，網上商品零售額95060億元，增長3.8%；網上服務零售額56411億元，增長5.3%。9月份，社會消費品零售總額42433億元，同比增長1.1%，比上月加快0.7個百分點；環比增長0.35%。"
+    },
+    {
+      "id": "5152951",
+      "time": "2026-10-19 10:01:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：9月份，規上工業發電量8294億千瓦時，同比下降1.2%】規上工業電力生產有所下降。9月份，規上工業發電量8294億千瓦時，同比下降1.2%；日均發電276.5億千瓦時。1—9月份，規上工業發電量74916億千瓦時，同比增長2.2%。 分品種看，9月份，規上工業火電降幅收窄，水電由增轉降，核電、風電、太陽能發電增速加快。其中，規上工業火電同比下降1.4%，降幅比8月份收窄2.9個百分點；規上工業水電下降18.1%；規上工業核電增長21.5%，增速加快12.1個百分點；規上工業風電增長10.6%，增速加快2.7個百分點；規上工業太陽能發電增長19.5%，增速加快9.2個百分點。"
+    },
+    {
+      "id": "mkt:01a151e4-a01a-7ee0-a8d7-5af5b57f369a",
+      "time": "2026-10-19 10:01:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | GDP (QoQ) (Q3) | actual 1.2% | consensus 1.1% | previous 0.90%"
+    },
+    {
+      "id": "mkt:01a151e4-82cd-7ee0-a8d7-570cb4a4646a",
+      "time": "2026-10-19 10:01:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's National Bureau of Statistics said nationwide per-capita disposable income was 34,230 yuan in the first three quarters, up 5.3% year-on-year nominally and up 4.4% in real terms after adjusting for price effects."
+    },
+    {
+      "id": "mkt:01a151e4-7da2-7ee0-a8d7-4e4895ae6136",
+      "time": "2026-10-19 10:01:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "China Q3 GDP RMB 37.54 tln; prior RMB 36.15 tln."
+    },
+    {
+      "id": "em:jjsj_zgsj:202610193899494269",
+      "time": "2026-10-19 10:01:26",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：2026年1—9月份社會消費品零售總額增長1.1%】1—9月份，社會消費品零售總額370001億元，同比增長1.1%。其中，除汽車以外的消費品零售額340574億元，增長2.8%。9月份，社會消費品零售總額42433億元，同比增長1.1%。其中，除汽車以外的消費品零售額38792億元，增長3.9%。"
+    },
+    {
+      "id": "mkt:01a151e4-5c0b-7ee0-a8d7-42584a2b8adc",
+      "time": "2026-10-19 10:01:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | GDP (Q3) | actual 37536700000000B | previous 36151100000000B"
+    },
+    {
+      "id": "mkt:01a151e4-5b88-7ee0-a8d7-3bc05ca2c67a",
+      "time": "2026-10-19 10:01:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "National Bureau of Statistics: Jan-Sep retail sales of consumer goods totaled 37.0001 trillion yuan, up 1.1% YoY."
+    },
+    {
+      "id": "5152950",
+      "time": "2026-10-19 10:01:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：服務業平穩增長，現代服務業增勢良好】前三季度，服務業增加值同比增長5.2%。其中，租賃和商務服務業，資訊傳輸、軟體和資訊科技服務業，金融業，住宿和餐飲業增加值分別增長12.3%、10.4%、5.8%、5.5%。9月份，全國服務業生產指數同比增長4.8%，比上月加快0.7個百分點。其中，資訊傳輸、軟體和資訊科技服務業，租賃和商務服務業，交通運輸、倉儲和郵政業，住宿和餐飲業生產指數分別增長9.8%、9.5%、5.4%、5.3%。9月份，服務業商務活動指數為50.2%，比上月上升0.9個百分點；服務業業務活動預期指數為55.5%，與上月持平。其中，電信廣播電視及衛星傳輸服務、貨幣金融服務、保險等行業商務活動指數位於55.0%以上較高景氣區間。1—8月份，規模以上服務業企業營業收入同比增長6.0%。"
+    },
+    {
+      "id": "mkt:01a151e4-41ea-7ee0-a8d7-33eb7ab03947",
+      "time": "2026-10-19 10:01:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "China Q3 GDP YoY 4.5% (consensus 4.4%; prior 4.3%)."
+    },
+    {
+      "id": "mkt:01a151e4-2e38-7ee0-a8d7-2917b9e28cf1",
+      "time": "2026-10-19 10:01:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "China's National Bureau of Statistics: In September, raw coal output at industrial enterprises above designated size recorded a narrower decline; crude oil production growth accelerated; natural gas output was broadly stable; electricity generation declined modestly."
+    },
+    {
+      "id": "te:markets:592937",
+      "time": "2026-10-19 10:01:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rises as Fed Rate Hike Bets Ease — Gold climbed above $4,170 an ounce on Monday, extending its recent gains as dovish remarks from Federal Reserve Chair Kevin Warsh prompted traders to scale back expectations of an October rate hike. Speaking at the IMF’s annual meetings in Bangkok on Friday, Warsh avoided signalling the outcome of this month’s FOMC meeting but noted that hotter-than-expected inflation had not changed his assessment of the US economy. The Fed has since entered its blackout period ahead of the October 27–28 policy meeting, with markets pricing in an approximately 84% probability of rates remaining unchanged. Gold also benefited from safe-haven demand as growing concerns over AI-related investments triggered an equity selloff and pushed bond yields lower. Meanwhile, escalating geopolitical tensions in the Middle East and Eastern Europe kept oil prices elevated, while violent protests in France and other European countries added to broader market uncertainty."
+    },
+    {
+      "id": "mkt:01a151e4-213e-7ee0-a8d7-232dc874966e",
+      "time": "2026-10-19 10:01:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | GDP (YoY) (Q3) | actual 4.5% | consensus 4.40% | previous 4.30%"
+    },
+    {
+      "id": "5152949",
+      "time": "2026-10-19 10:01:01",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【今年前三季度國內生產總值同比增長4.6%】今天，國務院新聞辦召開新聞釋出會，國家統計局公佈了今年前三季度經濟資料。前三季度，我國國民經濟頂住壓力保持平穩執行，呈現動能向新、結構向優的發展態勢，生產供給較快增長，對外貿易增勢良好，就業物價總體穩定，民生保障有力有效，發展韌性和活力持續彰顯。初步核算，前三季度國內生產總值1071071億元，按不變價格計算，同比增長4.6%。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a151e4-05df-7ee0-a8d7-192532dc0ed6",
+      "time": "2026-10-19 10:01:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【China Q1–Q3 GDP up 4.6% YoY】The National Bureau of Statistics, speaking at a State Council press briefing, gave a preliminary estimate that China’s GDP for Jan–Sep was 107.11 trillion yuan at constant prices, up 4.6% YoY. NBS said growth was powered by faster production and robust foreign trade, with employment and consumer prices broadly stable."
+    },
+    {
+      "id": "5152948",
+      "time": "2026-10-19 10:00:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家統計局：工業生產較快增長，裝備製造業和高技術製造業支撐明顯】前三季度，全國規模以上工業增加值同比增長5.3%。分三大門類看，採礦業增加值同比增長2.0%，製造業增長5.7%，電力、熱力、燃氣及水生產和供應業增長5.4%。裝備製造業增加值同比增長10.2%，高技術製造業增加值增長14.3%，分別快於全部規模以上工業增加值4.9和9.0個百分點。分經濟型別看，國有控股企業增加值同比增長3.8%；股份制企業增長5.8%，外商及港澳臺投資企業增長3.2%；私營企業增長4.3%。分產品看，3D列印裝置、鋰離子電池、工業機器人產品產量同比分別增長62.5%、39.5%、29.1%。9月份，規模以上工業增加值同比增長5.5%，比上月加快0.3個百分點；環比增長0.61%。9月份，製造業採購經理指數為50.1%，比上月上升0.3個百分點；企業生產經營活動預期指數為53.8%，與上月持平。1—8月份，全國規模以上工業企業實現利潤總額52720億元，同比增長15.7%。"
+    },
+    {
+      "id": "5152947",
+      "time": "2026-10-19 10:00:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：前三季度國內生產總值同比增長4.6%】國家統計局公佈2026年前三季度國民經濟執行情況，初步核算，前三季度國內生產總值1071071億元，按不變價格計算，同比增長4.6%。分季度看，一季度國內生產總值同比增長5.0%，二季度增長4.3%，三季度增長4.5%。從環比看，三季度國內生產總值增長1.2%。"
+    },
+    {
+      "id": "5152946",
+      "time": "2026-10-19 10:00:53",
+      "tags": [],
+      "text": "【國家統計局：2026年前三季度GDP同比增長4.6％】10月19日，國家統計局釋出資料顯示，初步核算，今年前三季度國內生產總值1071071億元，按不變價格計算，同比增長4.6％。分季度看，今年一季度國內生產總值同比增長5.0％，二季度增長4.3％，三季度增長4.5％。從環比看，三季度國內生產總值增長1.2％。總體看，前三季度經濟執行總體平穩，發展韌性和活力持續彰顯。"
+    },
+    {
+      "id": "5152945",
+      "time": "2026-10-19 10:00:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股票指數<.JKSE>早盤下跌4.5%。"
+    },
     {
       "id": "5152944",
       "time": "2026-10-19 10:00:40",
@@ -110,6 +742,15 @@
         "其他"
       ],
       "text": "中國9月今年迄今城鎮固定資產投資同比 -7.2%，預期-7.30%，前值-7.20%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610193899484879",
+      "time": "2026-10-19 10:00:11",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【統計局：今年前三季度國內生產總值同比增長4.6%】初步核算，前三季度國內生產總值1071071億元，按不變價格計算，同比增長4.6%。分產業看，第一產業增加值58994億元，同比增長3.7%；第二產業增加值383822億元，增長3.8%；第三產業增加值628255億元，增長5.2%。分季度看，一季度國內生產總值同比增長5.0%，二季度增長4.3%，三季度增長4.5%。從環比看，三季度國內生產總值增長1.2%。"
     },
     {
       "id": "5152941",
