@@ -1,7 +1,85 @@
 {
-  "updated": "2026-10-19 08:24:05",
-  "count": 12591,
+  "updated": "2026-10-19 08:27:54",
+  "count": 12596,
   "items": [
+    {
+      "id": "5152773",
+      "time": "2026-10-19 08:26:50",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛稱，MSCI將印尼指數剔除將引發56億美元資金外流。"
+    },
+    {
+      "id": "5152772",
+      "time": "2026-10-19 08:26:36",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：現在談論日本國債的特殊舉措並不合適。"
+    },
+    {
+      "id": "mkt:01a1518d-7f63-7ee0-a8d4-bd94768cb371",
+      "time": "2026-10-19 08:26:29",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【China International Capital Co: Interpreting stronger rate-cut expectations】China International Capital Co says implied rate-cut bets in interest-rate derivatives surged after the October holiday to levels seen before prior PBOC easing. One reason: the rapid fall in government bond yields since late September did not trigger PBOC liquidity tightening. The report judges the PBOC is more likely to ease by shifting the policy-rate anchor—keeping the funding-rate center lower—rather than by blanket cuts to the 7-day reverse repo rate and the LPR. That approach would likely cap further declines in government yields; it probably would not affect outstanding loan rates, though new loan rates could fall modestly. Expectations for next year’s fiscal policy stance remain a key driver of government bond yield direction."
+    },
+    {
+      "id": "5152771",
+      "time": "2026-10-19 08:25:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上週ETF資金整體淨流入1267.45億元】同花順iFinD資料，10月12日-10月16日，ETF資金整體淨流入1267.45億元，股票型淨流入883.79億元，寬基型淨流入836.44億元。當週ETF資金淨流入榜單排名前3依次為：易方達滬深300ETF（510310）淨流入196.92億元，華泰柏瑞滬深300ETF（510300）淨流入176.47億元，易方達創業板ETF（159915）淨流入111.83億元。"
+    },
+    {
+      "id": "mkt:01a1518b-f97d-7ee0-a8d4-b5d051d31044",
+      "time": "2026-10-19 08:24:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Guojin Securities: Worst phase for A‑shares now behind us】Guojin Securities says the worst phase for China A‑shares has likely passed. AI-driven investment initially pushed up interest rates and global cost of capital, but capex is concentrating in US tech; current cracks in US tech investment should support a period of downward pressure on real rates. The market lacks a V‑shaped base, but systemic risk is ebbing and selective non‑AI exposures are becoming tradable. Recommendations: gold — attractive as AI slows and fundamentals diverge, easing real‑rate pressure; energy/chemicals chain — coal, oil and tanker shipping to benefit from global inventory restocking and offering dividend‑like returns; export sectors — exports are no longer AI‑exclusive, and if rates continue to fall, white goods, textiles manufacturing, commercial vehicles and home furnishings could see a recovery and also present dividend attributes."
+    },
+    {
+      "id": "5152770",
+      "time": "2026-10-19 08:24:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日本央行將全面審視市場狀況，以決定是否進行干預，例如長期利率上升的速度是否過快，或者市場功能是否出現不穩定的跡象。"
+    },
+    {
+      "id": "5152769",
+      "time": "2026-10-19 08:24:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：將密切關注長期利率的市場走勢。"
+    },
+    {
+      "id": "5152768",
+      "time": "2026-10-19 08:23:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：提前說明日本央行何時可能在債券市場進行緊急操作是不合適的。"
+    },
     {
       "id": "5152767",
       "time": "2026-10-19 08:23:29",
@@ -115208,31 +115286,6 @@
         "國際"
       ],
       "text": "【中金：“科技+紅利”的啞鈴型配置結構重視程度有望提升】中金公司研報表示，2026年上半年，A股科技成長風格受益於AI產業鏈、高階製造等領域的高景氣，延續結構性行情。7月以來，全球AI產業鏈負面敘事增多，疊加海外流動性預期收緊及中東地緣局勢不確定性上升，A股市場前期表現較強的成長板塊出現明顯調整。在成長風格波動加大、市場風險偏好回落背景下，紅利資產的相對配置價值值得重新審視。綜合來看，在總量增長彈性有限、結構性高景氣與市場風險偏好波動加大並存的環境下，“科技+紅利”的啞鈴型結構有望成為兼顧盈利增長彈性、股東現金回報與組合穩定性的配置選擇。科技端建議關注產業趨勢明確、具備長期競爭優勢及盈利兌現能力的企業；紅利端關注盈利與現金流穩健、分紅可持續且估值合理的優質公司。"
-    },
-    {
-      "id": "5138173",
-      "time": "2026-10-12 08:26:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“十五五”時期國家水網建設投資需求將突破6萬億元】記者從水利部瞭解到，今年以來國家水網建設加速推進，“十五五”時期國家水網建設投資需求將突破6萬億元。今年前三季度全國實施水利專案4.14萬個，新開工重大水利工程28項。"
-    },
-    {
-      "id": "5138172",
-      "time": "2026-10-12 08:25:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【債市拋售減輕央行緊縮壓力 全球主要經濟體加息預期回落】債券市場正開始替全球央行分擔一部分緊縮壓力，透過自行推高借貸成本，減少了央行為控制通脹而需要實施的加息次數。經歷數週拋售後，收益率飆升至多年高位，在決策者沒有采取進一步行動的情況下，金融環境已趨於收緊。交易員們由此下調了加息預期。資料顯示，自9月中旬以來，八個主要經濟體互換市場所計入的加息幅度已合計下降近200個基點。債券拋售潮幾乎沒有減弱的跡象。從美國到日本再到法國，對財政支出的擔憂促使投資者要求更高的風險補償。與此同時，大量與人工智慧(AI)相關的債券發行不斷吸納市場資金。"
-    },
-    {
-      "id": "5138171",
-      "time": "2026-10-12 08:24:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特方面今天（10月12日）釋出多段監控影片，顯示當地時間10月10日下午，沙特首都利雅得的哈立德國王國際機場遭襲瞬間。綜合各方訊息，這次襲擊已造成至少13人死亡、300多人受傷。另據沙特民航總局今天凌晨釋出宣告，哈立德國王國際機場10月11日再次遭襲，造成一名巴基斯坦公民死亡，另有11人受傷。 （ CCTV國際時訊  ）"
     }
   ]
 }
