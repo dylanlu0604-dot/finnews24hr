@@ -1,7 +1,135 @@
 {
   "date": "2026-10-19",
-  "count": 1271,
+  "count": 1284,
   "items": [
+    {
+      "id": "5153434",
+      "time": "2026-10-19 15:34:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數下跌1.1%，至1686.40。"
+    },
+    {
+      "id": "mkt:01a15315-7645-7ee0-a8df-ad121faae1c7",
+      "time": "2026-10-19 15:34:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MOFCOM: drone-related items have clear dual-use attributes; China open to dialogue on export controls】MOFCOM said drone-related items covered by the measures have clear military-civilian dual-use attributes. China has lawfully adjusted export-control measures to safeguard national security and meet non-proliferation obligations, while seeking to maintain global supply-chain stability. Export-license applications will be reviewed under law and approved if they meet requirements. China is willing to engage relevant parties through bilateral export-control dialogue mechanisms to discuss policy and practice, solicit views, and facilitate compliant trade."
+    },
+    {
+      "id": "5153433",
+      "time": "2026-10-19 15:34:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【巴克萊下調戴爾評級至“持股觀望”，警告記憶體漲價推高營收，未來兩年增長或放緩】戴爾此前公佈的2027財年第二季度營收同比增長58%至469.7億美元，AI伺服器收入翻倍至164億美元，AI伺服器在手訂單達到創紀錄的950億美元，但巴克萊認為，強勁的短期業績尚不足以消除對長期增長持續性及估值的擔憂。巴克萊分析師Tim Long將戴爾科技評級由“增持”下調至“持股觀望”，目標價由603美元降至574美元，主要擔憂公司估值偏高、記憶體成本上漲及企業IT支出前景存在不確定性。巴克萊指出，儘管戴爾2027財年指引顯示企業伺服器業務收入預計增長超過100%，儲存和客戶端解決方案業務也有望實現十幾個百分點的增長，但其中相當一部分增長來自記憶體漲價推高產品平均售價，而非實際需求擴張。該機構警告，隨著未來記憶體價格趨於正常化甚至回落，戴爾未來兩年營收增速可能明顯放緩。"
+    },
+    {
+      "id": "5153432",
+      "time": "2026-10-19 15:34:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破83000美元，日內漲1.25%。"
+    },
+    {
+      "id": "mkt:01a15314-d20d-7ee0-a8df-a722b1b25a23",
+      "time": "2026-10-19 15:33:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose above $4,190/oz, up 0.63% on the day."
+    },
+    {
+      "id": "5153431",
+      "time": "2026-10-19 15:33:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4190美元/盎司，日內漲0.62%。"
+    },
+    {
+      "id": "5153430",
+      "time": "2026-10-19 15:33:33",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就盾構機等物項實施出口管制、最佳化調整挖泥船相關物項出口管制措施答記者問】問：2026年10月19日，商務部會同相關部門聯合釋出公告，對盾構機等物項實施出口管制、最佳化調整挖泥船相關物項出口管制措施。請問有何考慮？\n\n答：根據《中華人民共和國出口管制法》等有關法律法規，10月19日，商務部會同相關部門釋出關於對盾構機等物項實施出口管制、最佳化調整挖泥船相關物項出口管制措施的公告，並於11月18日起正式實施。此前，我們已經向與中方建立了出口管制對話機制的有關國家和地區作了通報。\n\n此次措施相關物項具有明顯的軍民兩用屬性，中國依法依規實施出口管制措施，符合國際通行做法，更好地維護了國家安全和利益，更好地履行了防擴散等國際義務。中國作為負責任大國，列管或最佳化調整相關管制措施，體現了堅定維護世界和平與地區穩定的一貫立場。中國政府願與各國一道維護全球產供鏈穩定暢通，中方將依法依規對相關出口許可申請進行審查，對符合規定的申請，中方將予以批准。同時，中方願透過雙邊出口管制對話交流機制，與相關方就出口管制政策和實踐開展溝通對話，共同積極促進、便利合規貿易。"
+    },
+    {
+      "id": "5153429",
+      "time": "2026-10-19 15:33:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4210美元/盎司，日內漲0.69%。"
+    },
+    {
+      "id": "5153428",
+      "time": "2026-10-19 15:33:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就最佳化調整無人機相關物項出口管制措施答記者問】問：2026年10月19日，商務部會同相關部門聯合釋出公告，最佳化調整無人機相關物項出口管制措施。請問有何考慮？\n\n答：根據《中華人民共和國出口管制法》等有關法律法規，10月19日，商務部會同相關部門釋出關於最佳化調整無人機相關物項出口管制措施的公告。相關措施將於11月18日起正式實施。此前，我們已經向與中方建立了出口管制對話機制的有關國家和地區作了通報。\n\n此次措施涉及的無人機相關物項具有明顯的軍民兩用屬性，中方依法依規最佳化調整有關措施，目的是維護國家安全和利益，履行防擴散等國際義務。與此同時，中方致力於維護全球產業鏈供應鏈安全穩定，依法依規對相關出口許可申請進行審查，對符合規定的申請，中方將予以批准。\n\n動態調整出口管制措施是國際通行做法。近年來，全球無人機產業和技術發展迅速，部分原來先進的產品如今已屬於大眾消費類產品。中方在實施出口管制措施過程中，積極聽取各方意見建議，並經認真評估後及時最佳化調整有關措施。本次對無人機出口管制措施的最佳化調整，就是基於業界反映的產業和技術最新情況，這充分反映中方堅決反對無人機被違規用於非和平目的，同時堅定支援中國企業在民用領域開展無人機國際貿易與合作。\n\n中方願透過雙邊出口管制對話交流機制，與相關方就出口管制政策和實踐開展溝通對話，同時聽取各方有關意見建議，進一步認真履行防擴散等國際義務，積極促進、便利合規貿易。"
+    },
+    {
+      "id": "5153426",
+      "time": "2026-10-19 15:32:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創業板人工智慧ETF華寶（159363）探底回升，連續兩天獲淨申購】10月19日，創業板人工智慧ETF華寶（159363）觸底回升，截止收盤跌0.59%，成交額8.73億元位居同類首位。資金流向方面，已連續兩日獲得資金淨申購，最新規模62.07億元。天風證券認為，半導體裝置景氣度有望延續，光模組可插拔方案演進。USFP將可插拔光模組單通道速率進一步推進至400G/lane，體現AI網路對頻寬密度和能效的持續要求，可插拔方案具備進一步演進空間；後續重點關注規範、樣品驗證及DSP、光晶片、聯結器和散熱等配套環節進展。華創證券表示，AI大模型訓練與推理需求爆發式增長，帶動海內外雲廠商持續加碼AI基礎設施資本開支，光模組作為網路端核心環節直接受益。資料顯示，創業板人工智慧ETF華寶（159363）跟蹤指數的一半權重集中在光模組CPO板塊，另一半權重覆蓋國產算力、AI軟體應用領域，形成“硬體+應用”的均衡佈局。全方位把握AI主題機會，關注全市場首隻創業板人工智慧ETF華寶（159363）及場外聯接基金（023407，023408）。"
+    },
+    {
+      "id": "te:markets:593073",
+      "time": "2026-10-19 15:32:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "French Borrowing Costs Rise as Unrest Deepens — France’s 10-year OAT yield climbed to 4.84%, approaching its highest level in more than two decades, as escalating social unrest and persistent political gridlock intensified pressure on the country’s already battered bond market. Mass protests over the rising cost of living and deteriorating school conditions swept across France over the weekend, with violence and looting reported in several cities. The unrest adds to mounting challenges for the government, which is struggling to pass a budget and rein in public debt ahead of next year’s presidential election. Prolonged political uncertainty threatens to keep borrowing costs elevated, further complicating efforts to restore confidence in France’s public finances. French government bonds have been among the hardest hit in a broader global bond selloff driven by renewed inflation concerns, expectations of higher interest rates, and growing worries over government debt levels."
+    },
+    {
+      "id": "mkt:01a15313-9eb1-7ee0-a8df-9950dfb903c9",
+      "time": "2026-10-19 15:32:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Ukraine's energy minister said Russia struck energy infrastructure in 11 regions overnight."
+    },
+    {
+      "id": "te:markets:593072",
+      "time": "2026-10-19 15:32:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.55% Lower — The FTSE 100 Index is losing 60 points. Losses were led by 3i (-4.34%), Barclays (-2.39%) and Kingfisher (-2.02%). Offsetting the fall, top gainers were London Stock Exchange (0.81%), Relx (0.77%) and BP (0.68%)."
+    },
     {
       "id": "5153425",
       "time": "2026-10-19 15:31:45",

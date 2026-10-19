@@ -1,7 +1,135 @@
 {
-  "updated": "2026-10-19 15:32:25",
-  "count": 12975,
+  "updated": "2026-10-19 15:36:19",
+  "count": 12971,
   "items": [
+    {
+      "id": "5153434",
+      "time": "2026-10-19 15:34:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數下跌1.1%，至1686.40。"
+    },
+    {
+      "id": "5153433",
+      "time": "2026-10-19 15:34:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【巴克萊下調戴爾評級至“持股觀望”，警告記憶體漲價推高營收，未來兩年增長或放緩】戴爾此前公佈的2027財年第二季度營收同比增長58%至469.7億美元，AI伺服器收入翻倍至164億美元，AI伺服器在手訂單達到創紀錄的950億美元，但巴克萊認為，強勁的短期業績尚不足以消除對長期增長持續性及估值的擔憂。巴克萊分析師Tim Long將戴爾科技評級由“增持”下調至“持股觀望”，目標價由603美元降至574美元，主要擔憂公司估值偏高、記憶體成本上漲及企業IT支出前景存在不確定性。巴克萊指出，儘管戴爾2027財年指引顯示企業伺服器業務收入預計增長超過100%，儲存和客戶端解決方案業務也有望實現十幾個百分點的增長，但其中相當一部分增長來自記憶體漲價推高產品平均售價，而非實際需求擴張。該機構警告，隨著未來記憶體價格趨於正常化甚至回落，戴爾未來兩年營收增速可能明顯放緩。"
+    },
+    {
+      "id": "mkt:01a15315-7645-7ee0-a8df-ad121faae1c7",
+      "time": "2026-10-19 15:34:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MOFCOM: drone-related items have clear dual-use attributes; China open to dialogue on export controls】MOFCOM said drone-related items covered by the measures have clear military-civilian dual-use attributes. China has lawfully adjusted export-control measures to safeguard national security and meet non-proliferation obligations, while seeking to maintain global supply-chain stability. Export-license applications will be reviewed under law and approved if they meet requirements. China is willing to engage relevant parties through bilateral export-control dialogue mechanisms to discuss policy and practice, solicit views, and facilitate compliant trade."
+    },
+    {
+      "id": "5153432",
+      "time": "2026-10-19 15:34:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破83000美元，日內漲1.25%。"
+    },
+    {
+      "id": "mkt:01a15314-d20d-7ee0-a8df-a722b1b25a23",
+      "time": "2026-10-19 15:33:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose above $4,190/oz, up 0.63% on the day."
+    },
+    {
+      "id": "5153431",
+      "time": "2026-10-19 15:33:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4190美元/盎司，日內漲0.62%。"
+    },
+    {
+      "id": "5153430",
+      "time": "2026-10-19 15:33:33",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就盾構機等物項實施出口管制、最佳化調整挖泥船相關物項出口管制措施答記者問】問：2026年10月19日，商務部會同相關部門聯合釋出公告，對盾構機等物項實施出口管制、最佳化調整挖泥船相關物項出口管制措施。請問有何考慮？\n\n答：根據《中華人民共和國出口管制法》等有關法律法規，10月19日，商務部會同相關部門釋出關於對盾構機等物項實施出口管制、最佳化調整挖泥船相關物項出口管制措施的公告，並於11月18日起正式實施。此前，我們已經向與中方建立了出口管制對話機制的有關國家和地區作了通報。\n\n此次措施相關物項具有明顯的軍民兩用屬性，中國依法依規實施出口管制措施，符合國際通行做法，更好地維護了國家安全和利益，更好地履行了防擴散等國際義務。中國作為負責任大國，列管或最佳化調整相關管制措施，體現了堅定維護世界和平與地區穩定的一貫立場。中國政府願與各國一道維護全球產供鏈穩定暢通，中方將依法依規對相關出口許可申請進行審查，對符合規定的申請，中方將予以批准。同時，中方願透過雙邊出口管制對話交流機制，與相關方就出口管制政策和實踐開展溝通對話，共同積極促進、便利合規貿易。"
+    },
+    {
+      "id": "5153429",
+      "time": "2026-10-19 15:33:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4210美元/盎司，日內漲0.69%。"
+    },
+    {
+      "id": "5153428",
+      "time": "2026-10-19 15:33:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就最佳化調整無人機相關物項出口管制措施答記者問】問：2026年10月19日，商務部會同相關部門聯合釋出公告，最佳化調整無人機相關物項出口管制措施。請問有何考慮？\n\n答：根據《中華人民共和國出口管制法》等有關法律法規，10月19日，商務部會同相關部門釋出關於最佳化調整無人機相關物項出口管制措施的公告。相關措施將於11月18日起正式實施。此前，我們已經向與中方建立了出口管制對話機制的有關國家和地區作了通報。\n\n此次措施涉及的無人機相關物項具有明顯的軍民兩用屬性，中方依法依規最佳化調整有關措施，目的是維護國家安全和利益，履行防擴散等國際義務。與此同時，中方致力於維護全球產業鏈供應鏈安全穩定，依法依規對相關出口許可申請進行審查，對符合規定的申請，中方將予以批准。\n\n動態調整出口管制措施是國際通行做法。近年來，全球無人機產業和技術發展迅速，部分原來先進的產品如今已屬於大眾消費類產品。中方在實施出口管制措施過程中，積極聽取各方意見建議，並經認真評估後及時最佳化調整有關措施。本次對無人機出口管制措施的最佳化調整，就是基於業界反映的產業和技術最新情況，這充分反映中方堅決反對無人機被違規用於非和平目的，同時堅定支援中國企業在民用領域開展無人機國際貿易與合作。\n\n中方願透過雙邊出口管制對話交流機制，與相關方就出口管制政策和實踐開展溝通對話，同時聽取各方有關意見建議，進一步認真履行防擴散等國際義務，積極促進、便利合規貿易。"
+    },
+    {
+      "id": "5153426",
+      "time": "2026-10-19 15:32:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創業板人工智慧ETF華寶（159363）探底回升，連續兩天獲淨申購】10月19日，創業板人工智慧ETF華寶（159363）觸底回升，截止收盤跌0.59%，成交額8.73億元位居同類首位。資金流向方面，已連續兩日獲得資金淨申購，最新規模62.07億元。天風證券認為，半導體裝置景氣度有望延續，光模組可插拔方案演進。USFP將可插拔光模組單通道速率進一步推進至400G/lane，體現AI網路對頻寬密度和能效的持續要求，可插拔方案具備進一步演進空間；後續重點關注規範、樣品驗證及DSP、光晶片、聯結器和散熱等配套環節進展。華創證券表示，AI大模型訓練與推理需求爆發式增長，帶動海內外雲廠商持續加碼AI基礎設施資本開支，光模組作為網路端核心環節直接受益。資料顯示，創業板人工智慧ETF華寶（159363）跟蹤指數的一半權重集中在光模組CPO板塊，另一半權重覆蓋國產算力、AI軟體應用領域，形成“硬體+應用”的均衡佈局。全方位把握AI主題機會，關注全市場首隻創業板人工智慧ETF華寶（159363）及場外聯接基金（023407，023408）。"
+    },
+    {
+      "id": "te:markets:593073",
+      "time": "2026-10-19 15:32:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "French Borrowing Costs Rise as Unrest Deepens — France’s 10-year OAT yield climbed to 4.84%, approaching its highest level in more than two decades, as escalating social unrest and persistent political gridlock intensified pressure on the country’s already battered bond market. Mass protests over the rising cost of living and deteriorating school conditions swept across France over the weekend, with violence and looting reported in several cities. The unrest adds to mounting challenges for the government, which is struggling to pass a budget and rein in public debt ahead of next year’s presidential election. Prolonged political uncertainty threatens to keep borrowing costs elevated, further complicating efforts to restore confidence in France’s public finances. French government bonds have been among the hardest hit in a broader global bond selloff driven by renewed inflation concerns, expectations of higher interest rates, and growing worries over government debt levels."
+    },
+    {
+      "id": "mkt:01a15313-9eb1-7ee0-a8df-9950dfb903c9",
+      "time": "2026-10-19 15:32:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Ukraine's energy minister said Russia struck energy infrastructure in 11 regions overnight."
+    },
+    {
+      "id": "te:markets:593072",
+      "time": "2026-10-19 15:32:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.55% Lower — The FTSE 100 Index is losing 60 points. Losses were led by 3i (-4.34%), Barclays (-2.39%) and Kingfisher (-2.02%). Offsetting the fall, top gainers were London Stock Exchange (0.81%), Relx (0.77%) and BP (0.68%)."
+    },
     {
       "id": "5153425",
       "time": "2026-10-19 15:31:45",
@@ -118785,149 +118913,6 @@
         "其他"
       ],
       "text": "【位元組PineDrama下載破億】移動應用資料分析機構Sensor Tower資料顯示，位元組跳動旗下短劇應用PineDrama累計下載量已突破1億次，日活躍使用者約700萬，2026年9月單月下載量超過1200萬次。這組資料9月中旬在行業內發酵，國慶長假後傳導至A股。"
-    },
-    {
-      "id": "5138860",
-      "time": "2026-10-12 15:36:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【健盛集團：完成回購登出股份 擬減少註冊資本】健盛集團公告稱，公司回購股份實施完畢，截至2026年10月8日，累計回購股份2054.28萬股，佔總股本5.9955%，使用資金總額2.40億元，回購股份用途為減少註冊資本。2026年10月9日公司完成上述回購股份登出，總股本由3.43億股變更為3.22億股，註冊資本相應由3.43億元變更為3.22億元。公司董事會審議透過減少註冊資本及修訂《公司章程》並辦理工商變更登記的議案，該議案尚需股東會審議透過。公司擬於2026年10月29日召開2026年第三次臨時股東會。"
-    },
-    {
-      "id": "5138859",
-      "time": "2026-10-12 15:35:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣州港：2026年中期擬每10股派現0.15元】廣州港公告稱，公司2026年第一次臨時股東會審議2026年度中期利潤分配方案。2026年1-6月公司實現歸屬於上市公司股東的淨利潤5.56億元（未經審計），截至2026年6月30日母公司期末未分配利潤84.95億元。本次利潤分配以實施權益分派股權登記日登記的總股本為基數，每10股派發現金紅利0.15元（含稅），不送紅股、不以公積金轉增股本；以當前總股本75.45億股測算，擬派發現金紅利合計1.13億元（含稅），若股權登記日前總股本變動，將維持每股分配金額不變、相應調整分配總額。"
-    },
-    {
-      "id": "5138858",
-      "time": "2026-10-12 15:35:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【紅塔證券：副總裁楊海燕因到齡退休辭職】紅塔證券10月12日公告，公司董事會於近日收到副總裁楊海燕提交的書面辭呈。因達到法定退休年齡，楊海燕申請辭去公司副總裁職務，其辭呈自送達公司董事會之日起生效。"
-    },
-    {
-      "id": "mkt:01a12f09-276c-7ee0-a835-7b729efac7f5",
-      "time": "2026-10-12 15:34:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【IMF GEORGIEVA warns AI could disrupt jobs and tax revenue】IMF Managing Director GEORGIEVA said on Monday at the IMF–World Bank annual meetings in Bangkok that AI is already reshaping labor markets and could undermine tax systems, urging policymakers to rethink education and take immediate steps to help societies adapt. She said AI is replacing large volumes of repetitive, procedural work and reducing demand for some workers, while expanding low-paid roles in sectors such as construction. GEORGIEVA warned the transition could have deep fiscal consequences: AI may shift income from labor toward capital and weaken government tax bases that depend heavily on labor income."
-    },
-    {
-      "id": "5138857",
-      "time": "2026-10-12 15:34:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "南亞科技表示，其未來產能擴張將主要根據長期協議（LTA）項下客戶的人工智慧專案規劃推進。"
-    },
-    {
-      "id": "5138856",
-      "time": "2026-10-12 15:34:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【維力醫療：膀胱壓測量管獲得歐盟MDR認證】維力醫療公告稱，公司近日收到歐盟公告機構通知，其Ⅰ類滅菌的歐盟MDR CE證書新增膀胱壓測量管產品的歐盟MDR認證，發證機構為TÜV SÜD Product Service GmbH，證書籤批時間為2026年10月9日，到期時間為2028年12月5日。該產品獲得認證後具備歐盟市場準入條件，可在相關海外市場合法銷售，將推動公司產品在相應市場的推廣和銷售，實際銷售情況取決於未來市場推廣效果，暫無法預測對公司未來經營業績的具體影響。"
-    },
-    {
-      "id": "5138855",
-      "time": "2026-10-12 15:34:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "南亞科技表示，封裝測試廠將在2028年底前引入先進3D積體電路技術，包括矽通孔（TSV）和晶圓堆疊技術。"
-    },
-    {
-      "id": "mkt:01a12f08-70fc-7ee0-a835-715938152ad6",
-      "time": "2026-10-12 15:34:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Jinmu Co., Ltd.: 9M net profit up 30.94% YoY】Jinmu Co., Ltd. reported revenue of 12.446 bln yuan in the first nine months of 2026, up 14.34% YoY, and net profit attributable to shareholders of 2.994 bln yuan, up 30.94% YoY. The company said growth was driven mainly by higher molybdenum product prices, along with tighter cost control, improved production‑sales coordination, and expansion into new products and markets."
-    },
-    {
-      "id": "5138854",
-      "time": "2026-10-12 15:34:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寶地礦業：控股子公司備戰礦業取得審查意見書轉入基建期】寶地礦業公告稱，公司持有51%股權的控股子公司備戰礦業，近日取得國家礦山安全監察局關於1000萬噸/年採礦改擴建工程專案建設的安全設施設計審查意見書，其《安全設施設計》符合國家和行業相關標準要求，備戰鐵礦採礦改擴建工程轉入基建期。該專案達產後鐵精礦產量為498.13萬噸/年（TFe品位65%），有利於提升公司長期資源保障能力和核心競爭力。專案建設進度、投產時間存在不確定性風險。"
-    },
-    {
-      "id": "5138853",
-      "time": "2026-10-12 15:33:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長江電力：2026年前三季度總發電量同比降4.28%】長江電力公告稱，2026年前三季度，烏東德水庫來水總量約757.36億立方米，較上年同期偏枯9.29%；三峽水庫來水總量約3018.07億立方米，較上年同期偏豐0.98%。公司境內所屬六座梯級電站總發電量約2250.58億千瓦時，較上年同期減少4.28%；其中第三季度總發電量約923.14億千瓦時，較上年同期減少14.89%。"
-    },
-    {
-      "id": "5138852",
-      "time": "2026-10-12 15:33:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【祥和實業：獲得兩項國家專利證書】祥和實業公告稱，公司近日收到國家智慧財產權局頒發的2項專利證書，分別為發明專利“一種用於軌道扣件的聚醚型聚氨酯組合物及其製備方法”、實用新型專利“一種用於橡膠硫化機自動上下料的夾爪”，專利權人均為祥和實業。發明專利權期限20年，實用新型專利權期限10年，均自申請日起算。本次專利取得不會對公司近期經營產生重大影響，有利於完善智慧財產權保護體系，提升核心競爭力。"
-    },
-    {
-      "id": "5138851",
-      "time": "2026-10-12 15:33:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大名城：股東俞錦辦理股份解除質押及再質押】大名城公告稱，公司控股股東一致行動人俞錦於2026年10月9日解除質押3350萬股，佔其所持股份27.07%，佔公司總股本1.44%；同日將該3350萬股再質押給華夏銀行福州晉安支行，質押期限至2031年9月18日，用途為提供擔保。截至公告日，俞錦累計質押9950萬股，佔其所持股份80.39%，佔公司總股本4.28%；控股股東及其一致行動人累計質押2.19億股，佔其所持股份23.69%，佔公司總股本9.43%。"
-    },
-    {
-      "id": "5138850",
-      "time": "2026-10-12 15:33:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南網儲能：董事長劉國剛因到齡擬離任】南網儲能公告稱，公司董事會於2026年10月10日收到董事長劉國剛遞交的書面辭職報告，劉國剛因達到法定退休年齡，申請辭去公司第九屆董事會董事長、董事、戰略與可持續發展委員會委員及召集人、提名委員會委員職務。其辭職將在公司新任董事長選舉產生之日生效，生效後不再擔任公司任何職務，辭職生效前仍履行相關職務及法定代表人職責。劉國剛持有公司股票70,000股，將遵守股份變動相關規定。本次離任不會影響公司正常生產經營，後續公司將完成新任董事長選舉工作。"
-    },
-    {
-      "id": "5138849",
-      "time": "2026-10-12 15:33:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【半導體繁榮致氮氣供應危機持續 韓國政府介入協調供需】受半導體行業繁榮帶動，工業氮氣供應短缺局面不斷延續，韓國政府將針對氣體生產企業與半導體大型企業開展供需調配工作。聯合會向中小企業監察官辦公室提交的資料顯示，9月初中小型充裝企業的氮氣供貨量較平時銳減70‑80%，本月供貨水平依舊維持該狀態。以往每月可拿到10噸氮氣的企業，如今僅能拿到2‑3噸。供應緊缺主要誘因來自半導體工廠開工率抬升帶來的需求暴漲，同時大型企業擴充安全庫存也加劇了緊張局面。"
-    },
-    {
-      "id": "5138848",
-      "time": "2026-10-12 15:33:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【金鉬股份：前三季度淨利潤同比增長30.94%】金鉬股份(601958.SH)釋出2026年前三季度業績快報，實現營業收入124.46億元，同比增長14.34%；歸屬於上市公司股東的淨利潤29.94億元，同比增長30.94%。業績增長主要系各類鉬產品價格較上年同期上漲，公司狠抓精細管理、強化產銷協同、搶抓產品價格高點、有效壓控成本、積極開拓新產品新市場。公司Q3淨利潤12.53億，Q2淨利潤8.39億，據此計算，Q3淨利潤環比增長49%。"
-    },
-    {
-      "id": "5138847",
-      "time": "2026-10-12 15:33:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "瓦盧瑞克股價上漲4.4%，此前該公司贏得道達爾能源為亞塞拜然Absheron天然氣田提供的合同。"
-    },
-    {
-      "id": "mkt:01a12f07-7d8a-7ee0-a835-6c744f6e7918",
-      "time": "2026-10-12 15:33:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Vietnam's VN Index fell 1% to 1,717.58."
     }
   ]
 }
