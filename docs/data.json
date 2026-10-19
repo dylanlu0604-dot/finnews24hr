@@ -1,7 +1,48 @@
 {
-  "updated": "2026-10-19 23:36:34",
-  "count": 12901,
+  "updated": "2026-10-19 23:40:28",
+  "count": 12896,
   "items": [
+    {
+      "id": "5154368",
+      "time": "2026-10-19 23:39:09",
+      "tags": [
+        "央行",
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗：疲軟的通脹料使加拿大央行保持觀望】花旗集團的分析師Veronica Clark指出，9月加拿大整體通脹率和核心通脹率均低於預期，這使得加拿大央行若在下週加息將難以自圓其說，並將動搖其基於資料的政策制定原則。Clark表示，雖然年通脹率小幅升至3.1%，但這幾乎完全歸因於汽油價格的上漲，而食品價格出人意料地溫和，這可能會讓政策制定者感到鼓舞。這位經濟學家繼續認為，在經濟供過於求的情況下，需求疲軟將使物價壓力得到抑制，利率將在今年剩餘時間內保持不變。"
+    },
+    {
+      "id": "mkt:01a154d0-e476-7ee0-a8ec-5caf83fb3e92",
+      "time": "2026-10-19 23:38:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIGROUP: Weak inflation likely keeps BOC on hold】CITIGROUP economist Veronica Clark says September headline and core CPI undershot expectations, making a near-term BOC rate hike hard to justify and undermining the bank’s data-driven policy stance. Annual CPI rose to 3.1% but the increase was almost entirely due to gasoline; food inflation was unexpectedly muted. Clark expects demand weakness amid excess supply to keep price pressures subdued and forecasts policy rates will remain on hold for the rest of the year."
+    },
+    {
+      "id": "5154367",
+      "time": "2026-10-19 23:38:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：法國曾公開表態支援這場戰爭，還致信特朗普，表示將協助其對伊朗作戰。如今法國面臨社會危機，卻將危機歸咎於一場他們聲稱自己並未參與的戰爭所帶來的後果。"
+    },
+    {
+      "id": "mkt:01a154ce-ff46-7ee0-a8ec-50091f3145ea",
+      "time": "2026-10-19 23:36:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran foreign minister Araghchi said Iran is well aware that European countries are participants in this war. He added that, just weeks ago, the NATO secretary-general announced more than 500 U.S. combat aircraft departed European air bases to carry out military operations against Iran."
+    },
     {
       "id": "5154365",
       "time": "2026-10-19 23:35:44",
@@ -118297,85 +118338,6 @@
         "國際"
       ],
       "text": "美國及其盟友警告，不要代表伊朗實施敵對行動。"
-    },
-    {
-      "id": "5139903",
-      "time": "2026-10-12 23:40:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國9月柴油需求同比下滑7%。"
-    },
-    {
-      "id": "5139902",
-      "time": "2026-10-12 23:40:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安：將於未來數日把麥加防務協議提交議會。"
-    },
-    {
-      "id": "5139901",
-      "time": "2026-10-12 23:39:39",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院釋出聯合宣告，認可英國對伊朗參與針對皇家空軍費爾福德基地未遂恐怖襲擊事件的責任認定。"
-    },
-    {
-      "id": "5139900",
-      "time": "2026-10-12 23:39:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "小鵬汽車董事長何小鵬表示，目標是到2030年底全球年銷量達到100萬輛，其中歐洲佔一半。"
-    },
-    {
-      "id": "5139899",
-      "time": "2026-10-12 23:38:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安：土耳其以最強烈措辭譴責胡塞武裝對沙烏地阿拉伯發動的襲擊。"
-    },
-    {
-      "id": "te:markets:591218",
-      "time": "2026-10-12 23:38:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Sterling Nears Three-Month Low — Sterling slipped towards $1.32, hovering near its lowest level in more than three months, as rising oil prices and renewed inflation concerns weighed on sentiment. Brent crude touched $107 a barrel following a deadly attack on Riyadh’s airport, while Ukraine reported further Russian strikes on its energy infrastructure. Higher energy costs have strengthened expectations for BoE tightening, with markets pricing in four rate hikes over the next 12 months. However, many analysts consider this overly aggressive, as several policymakers already view the current 3.75% rate as above neutral. Meanwhile, investors remain cautious ahead of Chancellor John Healey’s Budget later this month. The Institute for Fiscal Studies has warned that the government needs to find £35 billion to meet its spending commitments, fueling speculation over potential tax increases. Markets are now awaiting US inflation data and this week’s IMF-World Bank meetings for further policy clues."
-    },
-    {
-      "id": "5139898",
-      "time": "2026-10-12 23:38:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "保加利亞尋求歐盟與北約協助，調查遇襲貨輪事件。"
-    },
-    {
-      "id": "5139897",
-      "time": "2026-10-12 23:37:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安：胡塞武裝襲擊沙特機場後，土耳其堅定支援沙烏地阿拉伯。"
-    },
-    {
-      "id": "5139896",
-      "time": "2026-10-12 23:37:22",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：1.7萬億美元回購潮將緩衝股票供給激增衝擊】高盛表示，美國企業有望在2027年透過股票回購向股東返還創紀錄的1.7萬億美元，這可能保護市場估值免受接近歷史高位的股權發行帶來的稀釋影響。該投行預計，明年公開交易股票的供給將大幅上升。雖然此類增加通常會對股價構成壓力，但高盛補充稱，企業回購，加上家庭和外國投資者的強勁需求，應足以吸收新增股份。"
     }
   ]
 }
