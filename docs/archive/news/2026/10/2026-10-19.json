@@ -1,7 +1,54 @@
 {
   "date": "2026-10-19",
-  "count": 1838,
+  "count": 1844,
   "items": [
+    {
+      "id": "5154339",
+      "time": "2026-10-19 23:04:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "英偉達：歐洲廣播聯盟與英偉達展開合作，拓展面向歐洲廣播機構的主權框架。"
+    },
+    {
+      "id": "5154338",
+      "time": "2026-10-19 23:03:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國 10 年期國債收益率進一步走高，上升 16 個基點至 4.94%。"
+    },
+    {
+      "id": "mkt:01a154af-f527-7ee0-a8eb-910b479cbb9b",
+      "time": "2026-10-19 23:02:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "France 10-year bond yield rose further, gaining 16 bps on the day to 4.94%."
+    },
+    {
+      "id": "5154337",
+      "time": "2026-10-19 23:02:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Mesh 與 Visa 達成合作，實現加密貨幣餘額直接消費。"
+    },
+    {
+      "id": "mkt:01a154ae-75ef-7ee0-a8eb-881481327070",
+      "time": "2026-10-19 23:01:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "The Russian Defence Ministry said Russian armed forces struck a cargo ship in the Black Sea bound for the port of Odesa; the shipment was intended to supply Ukrainian armed forces."
+    },
     {
       "id": "mkt:01a154ad-ee5f-7ee0-a8eb-8412bb3740a7",
       "time": "2026-10-19 23:00:47",
@@ -10,6 +57,15 @@
         "Important"
       ],
       "text": "As of the 23:00 close, China’s most-active futures contracts were mostly lower: ethylene glycol (EG) down nearly 4%; synthetic rubber, coking coal and liquefied petroleum gas (LPG) down more than 2%; rapeseed meal and propylene down about 2%; bottle-grade PET flake and methanol down over 1%. Polyvinyl chloride (PVC) rose nearly 1%."
+    },
+    {
+      "id": "5154336",
+      "time": "2026-10-19 23:00:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【對沖基金大佬，預言“AI熱潮”下一波贏家】對沖基金Great Hill Capital董事長海耶斯（Thomas Hayes）最新表示，關注人工智慧（AI）拋售潮的投資者可能找錯了方向，他們沒有找到市場下一個重大走勢。他認為，未來六個月內，標普500指數將出現“巨大的牛市”。他還斷言，推動該指數創下歷史新高的大型科技公司並非永遠的贏家。相反，海耶斯押注於除科技七巨頭以外的其餘493家公司。海耶斯認為人工智慧仍然具有現實意義。而近期拋售的原因在於投資機會正在發生變化。他認為，下一階段的繁榮可能會惠及那些利用人工智慧降低成本、提高生產力並擴大利潤率的公司。那些斥資數十億美元打造晶片、模型和資料中心的公司贏得了第一階段的勝利。"
     },
     {
       "id": "te:markets:593180",
