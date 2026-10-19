@@ -1,7 +1,87 @@
 {
-  "updated": "2026-10-19 15:40:15",
-  "count": 12973,
+  "updated": "2026-10-19 15:44:10",
+  "count": 12969,
   "items": [
+    {
+      "id": "mkt:01a1531d-22dc-7ee0-a8df-cb307ec6eb23",
+      "time": "2026-10-19 15:43:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Ant Group leads AlphaEngine Series C round】Oct 19 — AlphaEngine said it closed a Series C round led by Ant Group, with Dongfang Guoxin and Qiaobei Capital participating. Post-round, Ant Group will deepen cooperation with AlphaEngine on R&D of AI financial agents and on training AI models for financial verticals."
+    },
+    {
+      "id": "5153452",
+      "time": "2026-10-19 15:42:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豫園股份：控股股東一致行動人復地投資解除質押1394萬股】豫園股份公告稱，公司控股股東復星高科技下屬一致行動人復地投資於2026年10月16日解除質押股份1394萬股，佔其所持股份比例1.36%，佔公司總股本比例0.36%。本次解質後，復地投資累計質押股份8.03億股，佔其所持股份比例78.48%，佔公司總股本比例20.64%。復星高科技及其一致行動人合計持有公司股份24.10億股，佔總股本61.93%，本次解質後累計質押股份18.21億股，佔其所持股份比例75.58%。截至公告披露日，本次解除質押股份暫無後續質押計劃。"
+    },
+    {
+      "id": "5153451",
+      "time": "2026-10-19 15:42:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國巨石：成都專案總投資變更為27.48億元】中國巨石公告，公司此前擬實施巨石集團成都有限公司年產20萬噸高效能玻璃纖維生產線建設專案，原總投資為23.48億元。本次董事會審議透過實施方案變更，專案總投資變更為27.48億元，增加4億元，建設期由3年縮短為2年。"
+    },
+    {
+      "id": "mkt:01a1531c-99a7-7ee0-a8df-c34e579c4890",
+      "time": "2026-10-19 15:42:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Elice Inc. to list on KOSDAQ Tuesday in KRW 201 bln IPO, testing AI investor appetite】Seoul-based data-center infrastructure and cloud-services provider Elice Inc. will list on the KOSDAQ on Tuesday, seeking KRW 201 bln (≈$151m) in what would be the exchange’s largest IPO so far this year. The company priced the offering at KRW 90,500 per share — at the top of the marketed range — implying a post-listing market value above KRW 1 tln. The deal follows peer Firmus’s withdrawal of a high-profile IPO earlier this month and will be watched for demand from AI-focused investors."
+    },
+    {
+      "id": "mkt:01a1531c-7736-7ee0-a8df-bbf9f3b0aca1",
+      "time": "2026-10-19 15:42:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KYODO: Survey finds 30% of large Japanese firms have experienced confirmed or suspected data breaches."
+    },
+    {
+      "id": "5153450",
+      "time": "2026-10-19 15:41:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【螞蟻集團領投熵簡科技C輪融資】10月19日，熵簡科技（AlphaEngine）宣佈完成C輪融資。本輪融資由螞蟻集團領投，東方國信與喬貝資本跟投。本輪融資後，螞蟻集團將與熵簡科技在AI金融智慧體研發、AI金融垂域模型訓練等領域展開深度合作。"
+    },
+    {
+      "id": "te:markets:593081",
+      "time": "2026-10-19 15:41:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Moves Toward 4-Month Low — Milan’s FTSE MIB fell 1% to around 49,300 on Monday, moving back toward a four-month low touched earlier this month, mirroring declines across regional peers amid escalating protests across the bloc. Large-scale protests in France, alongside unrest in major cities across Belgium, Italy, and Portugal, weighed on investor sentiment. Geopolitical risks also remained in focus as Moscow and Kyiv continued strikes on energy infrastructure in Eastern Europe. Most blue-chip stocks traded lower, led by Stellantis (-3.35%), Banco BPM (-1.85%), UniCredit (-1.48%), and Leonardo (-1.54%). Meanwhile, IREN Chairman Luca Dal Fabbro called for further consolidation in the utilities sector in an interview published on Monday. Among utilities, Enel fell 0.62%, Snam lost 0.33%, Terna declined 0.27%, Italgas dropped 0.47%, A2A edged up 0.21%, and Hera slid 1.30%."
+    },
+    {
+      "id": "mkt:01a1531a-f9ba-7ee0-a8df-b25eb52b878e",
+      "time": "2026-10-19 15:40:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's Interior and Municipal Affairs Minister Ahmad Hajar met President Michel Aoun to discuss the national security situation. Hajar briefed the president on measures his ministry has taken to shore up nationwide security and stability, saying protecting citizens' safety is a priority and the ministry will not tolerate impunity."
+    },
+    {
+      "id": "5153449",
+      "time": "2026-10-19 15:40:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國務卿魯比奧：會見了哈薩克外長，並重申致力於拓展雙邊經濟與安全領域合作。"
+    },
     {
       "id": "5153446",
       "time": "2026-10-19 15:38:57",
@@ -118800,125 +118880,6 @@
         "Copper"
       ],
       "text": "【Transport Ministry: Monitored ports handled 261.04 mln tonnes of cargo in week of Oct 5-11, down 2.91% WoW】China transport snapshot for week of Oct 5-11: National railway freight 83.57 mln tonnes, down 0.7% WoW. Highway truck passages 50.59 mln vehicles, up 10.99% WoW. Monitored ports cargo throughput 261.04 mln tonnes, down 2.91% WoW; container throughput 6.885 mln TEU, down 5.06% WoW. Civil aviation operated 128,000 flights, including 3,950 cargo flights (2,490 international, 1,460 domestic), down 3.07% WoW. Postal and courier pickup 3.754 bln items, up 11.03% WoW; deliveries 3.626 bln items, up 5.41% WoW."
-    },
-    {
-      "id": "mkt:01a12f11-9c3c-7ee0-a835-b39bc4fc5669",
-      "time": "2026-10-12 15:44:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Baghaei, Iran foreign ministry spokesman, said Tehran is still reviewing the US position and will respond via intermediaries after the review."
-    },
-    {
-      "id": "5138875",
-      "time": "2026-10-12 15:43:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，德黑蘭仍在評估美方立場，評估完成後將透過中間人作出答覆。"
-    },
-    {
-      "id": "mkt:01a12f11-5481-7ee0-a835-abcf6be6cd6d",
-      "time": "2026-10-12 15:43:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Baghaei: US request for Russian assistance shows crisis persists】Iranian foreign ministry spokesman BAGHAEI said decisions based on national interest are every country’s right and Iran acts on its own priorities. On the Strait of Hormuz, he said if the issue were truly resolved as the US claims, Washington would not need to seek Russia’s help; the US request for assistance is clear evidence the problem remains unresolved."
-    },
-    {
-      "id": "5138874",
-      "time": "2026-10-12 15:43:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【今年公司晶片交付進展如何？寒武紀回應】有投資者向寒武紀（688256.SH）提問，今年公司晶片交付進展如何，如何評價公司股價今年以來大跌25%，大幅跌破增發價？有無小作文誘空，麻煩公司正面回應。10月12日，公司回答表示，公司憑藉出色的產品力持續拓展市場，積極助力人工智慧應用落地，2025年度，公司實現營業收入649,719.62萬元，首次實現了全年利潤的扭虧為盈。2026年上半年度，公司實現營業收入599,557.36萬元，較上年同期增長108.13%；本期營業收入實現大幅增長的同時，歸屬於上市公司股東的淨利潤達到231,091.21萬元，較上年同期增長122.61%。未來，在大模型技術革新的背景下，公司將聚焦核心應用場景，強化市場開拓力度，推動公司整體業務的發展和市場份額的提升，鞏固公司在人工智慧晶片領域的領先地位。二級市場股價會受到宏觀經濟、行業政策、市場環境等綜合因素影響，敬請投資者理性看待市場波動並注意投資風險。此外，市場資訊繁雜，敬請投資者提高資訊辨別能力，不傳播、不採信來源不明或未經核實的資訊，以公司釋出在上交所官網的公告或公司官方網站披露的資訊為準。"
-    },
-    {
-      "id": "5138873",
-      "time": "2026-10-12 15:43:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通運輸部：10月5日—10月11日 全國高速公路貨車通行5059.1萬輛，環比增長10.99%】10月5日—10月11日，全國物流保通保暢執行資料：國家鐵路運輸貨物8356.9萬噸，環比下降0.7%；全國高速公路貨車通行5059.1萬輛，環比增長10.99%；監測港口完成貨物吞吐量26104萬噸，環比下降2.91%，完成集裝箱吞吐量688.5萬標箱，環比下降5.06%；民航保障航班12.8萬班（其中貨運航班3950班，包括國際貨運航班2490班，國內貨運航班1460班），環比下降3.07%； 郵政快遞攬收量約37.54億件，環比增長11.03%；投遞量約36.26億件，環比增長5.41%。（交通運輸部）"
-    },
-    {
-      "id": "5138872",
-      "time": "2026-10-12 15:43:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【邦基科技：聘任王辰璐為公司董事會秘書】邦基科技公告稱，公司於2026年10月12日召開第三屆董事會第五次會議，審議透過聘任王辰璐為公司董事會秘書的議案，任期自本次董事會審議透過之日起至第三屆董事會任期屆滿之日止。王辰璐已取得上海證券交易所頒發的董事會秘書資格證明，任職資格已透過上交所稽核備案，現任公司董事長助理、風控部總監。"
-    },
-    {
-      "id": "5138871",
-      "time": "2026-10-12 15:42:53",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "騰訊向投資者表示，其50億美元債券資金主要用於人工智慧資本開支。"
-    },
-    {
-      "id": "5138870",
-      "time": "2026-10-12 15:41:39",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：美股股票供給將創2000年以來最大增幅】高盛策略師表示，美國上市股票的淨供給將迎來2000年以來最大幅度增長。由本·斯奈德牽頭的策略師團隊預測，受經濟增長、股價走高以及人工智慧投資的推動，2027年美國股票發行規模將達到6000億美元。他們在研報中寫道：“我們認為股票供給增加不會終結本輪牛市。”高盛預計，明年股票回購規模將升至約1.7萬億美元，即便股票供給擴張，回購也將為股票需求提供支撐。"
-    },
-    {
-      "id": "mkt:01a12f0f-5056-7ee0-a835-a14f8ab4c94c",
-      "time": "2026-10-12 15:41:35",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "Deputy secretary-general Chen Shihua of the China Association of Automobile Manufacturers said China’s auto exports are expected to continue growing in 2026, with annual shipments likely to exceed 10 mln vehicles."
-    },
-    {
-      "id": "mkt:01a12f0e-b2cb-7ee0-a835-9c5a400a3d03",
-      "time": "2026-10-12 15:40:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China to pursue multilateral dialogue at CICA; Wang Yi visits Azerbaijan】China's foreign ministry said Wang Yi attended the 7th CICA summit and visited Azerbaijan. Beijing said it will engage in full dialogue with other parties, uphold multilateralism, implement four global initiatives, push to improve Asian governance and contribute to building an Asian community of shared future."
-    },
-    {
-      "id": "5138869",
-      "time": "2026-10-12 15:40:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗外交部：美國持續經濟戰將阻礙霍爾木茲海峽恢復安全】伊朗外交部發言人巴加埃表示，美國聲稱伊朗在霍爾木茲海峽的影響力已經失效，但這一說法與實地情況以及市場反應並不相符，包括美國不得不求助其他國家以保障燃料供應。自2月28日以來，伊朗在這條水道採取的行動並非為了將其作為施壓籌碼，而是針對美國和以色列政權濫用行為及軍事侵略、依據國際法作出的合法回應。"
-    },
-    {
-      "id": "5138868",
-      "time": "2026-10-12 15:40:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：中方將同各方充分對話協商 踐行多邊主義】10月12日，外交部發言人毛寧主持例行記者會。發言人毛寧介紹了王毅外長出席亞信第7次峰會並訪問亞塞拜然的有關情況。對此，毛寧表示，亞洲相互協作與信任措施會議是亞洲地區重要的安全對話與合作機制，自成立以來，始終致力於增進各國的互信協作，為促進亞洲地區安全、穩定和發展作出了重要貢獻。當前，國際和地區形勢更加複雜多變，亞洲國家對維護和平安寧、促進經濟增長的願望更加強烈。本次峰會上，中方將同各方充分對話協商，踐行多邊主義，積極落實四大全球倡議，推動完善亞洲治理，為構建亞洲命運共同體作出新貢獻。（央視新聞）"
-    },
-    {
-      "id": "5138867",
-      "time": "2026-10-12 15:40:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中汽協陳士華：2026年我國汽車出口量有望超過1000萬輛】10月12日，中國汽車工業協會副秘書長陳士華對外表示，2026年，我國汽車出口預計保持增長，全年出口量有望超過1000萬輛。（每經）"
     }
   ]
 }

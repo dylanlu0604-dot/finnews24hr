@@ -1,7 +1,87 @@
 {
   "date": "2026-10-19",
-  "count": 1296,
+  "count": 1305,
   "items": [
+    {
+      "id": "mkt:01a1531d-22dc-7ee0-a8df-cb307ec6eb23",
+      "time": "2026-10-19 15:43:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Ant Group leads AlphaEngine Series C round】Oct 19 — AlphaEngine said it closed a Series C round led by Ant Group, with Dongfang Guoxin and Qiaobei Capital participating. Post-round, Ant Group will deepen cooperation with AlphaEngine on R&D of AI financial agents and on training AI models for financial verticals."
+    },
+    {
+      "id": "5153452",
+      "time": "2026-10-19 15:42:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豫園股份：控股股東一致行動人復地投資解除質押1394萬股】豫園股份公告稱，公司控股股東復星高科技下屬一致行動人復地投資於2026年10月16日解除質押股份1394萬股，佔其所持股份比例1.36%，佔公司總股本比例0.36%。本次解質後，復地投資累計質押股份8.03億股，佔其所持股份比例78.48%，佔公司總股本比例20.64%。復星高科技及其一致行動人合計持有公司股份24.10億股，佔總股本61.93%，本次解質後累計質押股份18.21億股，佔其所持股份比例75.58%。截至公告披露日，本次解除質押股份暫無後續質押計劃。"
+    },
+    {
+      "id": "5153451",
+      "time": "2026-10-19 15:42:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國巨石：成都專案總投資變更為27.48億元】中國巨石公告，公司此前擬實施巨石集團成都有限公司年產20萬噸高效能玻璃纖維生產線建設專案，原總投資為23.48億元。本次董事會審議透過實施方案變更，專案總投資變更為27.48億元，增加4億元，建設期由3年縮短為2年。"
+    },
+    {
+      "id": "mkt:01a1531c-99a7-7ee0-a8df-c34e579c4890",
+      "time": "2026-10-19 15:42:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Elice Inc. to list on KOSDAQ Tuesday in KRW 201 bln IPO, testing AI investor appetite】Seoul-based data-center infrastructure and cloud-services provider Elice Inc. will list on the KOSDAQ on Tuesday, seeking KRW 201 bln (≈$151m) in what would be the exchange’s largest IPO so far this year. The company priced the offering at KRW 90,500 per share — at the top of the marketed range — implying a post-listing market value above KRW 1 tln. The deal follows peer Firmus’s withdrawal of a high-profile IPO earlier this month and will be watched for demand from AI-focused investors."
+    },
+    {
+      "id": "mkt:01a1531c-7736-7ee0-a8df-bbf9f3b0aca1",
+      "time": "2026-10-19 15:42:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KYODO: Survey finds 30% of large Japanese firms have experienced confirmed or suspected data breaches."
+    },
+    {
+      "id": "te:markets:593081",
+      "time": "2026-10-19 15:41:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Moves Toward 4-Month Low — Milan’s FTSE MIB fell 1% to around 49,300 on Monday, moving back toward a four-month low touched earlier this month, mirroring declines across regional peers amid escalating protests across the bloc. Large-scale protests in France, alongside unrest in major cities across Belgium, Italy, and Portugal, weighed on investor sentiment. Geopolitical risks also remained in focus as Moscow and Kyiv continued strikes on energy infrastructure in Eastern Europe. Most blue-chip stocks traded lower, led by Stellantis (-3.35%), Banco BPM (-1.85%), UniCredit (-1.48%), and Leonardo (-1.54%). Meanwhile, IREN Chairman Luca Dal Fabbro called for further consolidation in the utilities sector in an interview published on Monday. Among utilities, Enel fell 0.62%, Snam lost 0.33%, Terna declined 0.27%, Italgas dropped 0.47%, A2A edged up 0.21%, and Hera slid 1.30%."
+    },
+    {
+      "id": "5153450",
+      "time": "2026-10-19 15:41:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【螞蟻集團領投熵簡科技C輪融資】10月19日，熵簡科技（AlphaEngine）宣佈完成C輪融資。本輪融資由螞蟻集團領投，東方國信與喬貝資本跟投。本輪融資後，螞蟻集團將與熵簡科技在AI金融智慧體研發、AI金融垂域模型訓練等領域展開深度合作。"
+    },
+    {
+      "id": "mkt:01a1531a-f9ba-7ee0-a8df-b25eb52b878e",
+      "time": "2026-10-19 15:40:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's Interior and Municipal Affairs Minister Ahmad Hajar met President Michel Aoun to discuss the national security situation. Hajar briefed the president on measures his ministry has taken to shore up nationwide security and stability, saying protecting citizens' safety is a priority and the ministry will not tolerate impunity."
+    },
+    {
+      "id": "5153449",
+      "time": "2026-10-19 15:40:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國務卿魯比奧：會見了哈薩克外長，並重申致力於拓展雙邊經濟與安全領域合作。"
+    },
     {
       "id": "5153446",
       "time": "2026-10-19 15:38:57",
