@@ -1,7 +1,79 @@
 {
   "date": "2026-10-19",
-  "count": 800,
+  "count": 807,
   "items": [
+    {
+      "id": "te:markets:592969",
+      "time": "2026-10-19 10:41:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "China 10Y Yield Rebounds from 2025 Low — China’s 10-year government bond yield rose to around 1.66% on Monday, rebounding from a more than one-year low in the previous session even as key economic data pointed to a recovery in growth momentum. China’s economy expanded 4.5% year-on-year in Q3 2026, accelerating from Q2’s three-year low of 4.3% and above market forecasts of 4.4%. Growth for the first nine months reached 4.6%, keeping the economy on track to meet the government’s full-year target of 4.5%-5%. Meanwhile, industrial output accelerated to 5.5% in September from 5.2% in August, while retail sales picked up to 1.1% from 0.4%. The surveyed urban unemployment rate also edged down to 5.2% from August’s five-month high of 5.3%. Investors will look to remarks from China’s top financial regulators at the Financial Street Forum in Beijing later today for fresh policy signals to support the economy, amid speculation about a potential shift in the policy rate benchmark from the current seven-day rate to an overnight rate."
+    },
+    {
+      "id": "5153042",
+      "time": "2026-10-19 10:41:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "宇樹科技漲超10%，成交額超15億元。"
+    },
+    {
+      "id": "te:markets:592968",
+      "time": "2026-10-19 10:40:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Offshore Yuan Hits Fresh 4-Year High — The offshore yuan strengthened to around 6.69 per dollar on Monday, reaching its strongest level since June 2022 as investors welcomed a string of strong economic data. China’s economy grew 4.5% year-on-year in Q3 2026, accelerating from Q2’s three-year low of 4.3% and beating market expectations of 4.4%. Growth in the first nine months reached 4.6%, keeping the economy on track to meet the government’s full-year target of 4.5%-5%. Meanwhile, industrial output growth accelerated to 5.5% in September from 5.2% in August, while retail sales growth picked up to 1.1% from 0.4%. The surveyed urban unemployment rate also edged down to 5.2% from a five-month high of 5.3%. Investors will look to China’s top financial regulators at the Financial Street Forum in Beijing later today for policy signals to further support the economy amid growing speculation about a shift from the seven-day policy rate to an overnight benchmark."
+    },
+    {
+      "id": "5153041",
+      "time": "2026-10-19 10:40:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：新華傳媒淨賣出超8億】截至目前，今日主力資金淨流出177.70億；淨流入上證50、證金匯金、證金持股等板塊，其中上證50板塊淨流入18.20億；淨流出融資融券、轉融券標的、中盤等板塊，其中融資融券板塊淨流出154.96億。\n  \n個股方面，亨通光電淨買入6.27億元位居首位，立訊精密、寒武紀、貴州茅臺主力資金淨流入居前；新華傳媒淨賣出8.65億元位居首位，長鑫科技、天孚通訊、勝宏科技淨流出額居前。"
+    },
+    {
+      "id": "5153040",
+      "time": "2026-10-19 10:40:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【曝原華為ADS核心成員加入理想】據報道，華為ADS創始團隊核心成員楊旭光被曝已加入理想汽車。楊旭光是華為自動駕駛早期研發的關鍵人物，主要負責ADS體系下的預測模組，和動態感知、靜態感知方向的兩位負責人共同組成感知部門的核心力量。"
+    },
+    {
+      "id": "mkt:01a15206-c0ea-7ee0-a8d9-3045bca5aae3",
+      "time": "2026-10-19 10:38:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish",
+        "600519.SS"
+      ],
+      "text": "Shanghai Composite turned positive; Shenzhen Composite Index losses narrowed to 0.23% and ChiNext Index losses to 1.12%. Baijiu and banking sectors led gains."
+    },
+    {
+      "id": "5153039",
+      "time": "2026-10-19 10:38:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：前三季度經濟增量達到5.7萬億元 為過去五年同期最大增量】10月19日，國家統計局新聞發言人、副局長毛盛勇在國新辦新聞釋出會上表示，前三季度國內生產總值超過107萬億元，同比增長4.6%。這符合我國全年經濟預期增長目標。從增量看，前三季度經濟增量達到5.7萬億元，是過去五年同期的最大規模增量。毛盛勇表示，根據一些國際機構預測，4.6%的同比增速在全國主要經濟體中仍然保持領先。特別是三季度GDP同比增速比二季度回升0.2個百分點。一些國際機構對主要經濟體三季度經濟增速預測多數比二季度要低，但我國三季度比二季度回升0.2個百分點，所以成績來之不易、難能可貴。（證券時報）"
+    },
     {
       "id": "mkt:01a15206-19c1-7ee0-a8d9-2eb8c4a41b51",
       "time": "2026-10-19 10:38:13",
