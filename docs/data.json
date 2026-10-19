@@ -1,7 +1,77 @@
 {
-  "updated": "2026-10-19 08:12:46",
-  "count": 12586,
+  "updated": "2026-10-19 08:16:34",
+  "count": 12587,
   "items": [
+    {
+      "id": "mkt:01a15183-e685-7ee0-a8d4-aec962f17630",
+      "time": "2026-10-19 08:16:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 index slipped below 64,000 points, down 2.20% on the day."
+    },
+    {
+      "id": "5152755",
+      "time": "2026-10-19 08:14:28",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【印度財長將股市表現不佳歸咎於資金易撤出與流動性過剩】印度財政部長尼爾馬拉・西塔拉曼（Nirmala Sitharaman）表示，印度股票市場流動性過剩是股市表現疲軟的原因，該因素或將持續產生影響。上週五，在曼谷舉行的國際貨幣基金組織與世界銀行年會間隙，西塔拉曼接受媒體採訪時稱：“資金獲取便利、流動性充足，投資者也可以輕易從股市撤出資金。” 但她表示，印度經濟基本面狀況 “良好”。資料顯示，儘管在貿易不確定性與地緣衝擊下印度經濟增長保持韌性，但今年 1 月以來，印度主要基準股指已下跌近 12%。印度股市遭遇外資創紀錄規模的資金流出，西塔拉曼稱，持續的資本外流是印度 2027 年面臨的最大風險之一。不過，本土資金仍在持續湧入市場。印度基金行業協會本月早些時候釋出的資料顯示，自 2021 年 3 月起，印度股票型共同基金每月均實現資金淨流入。"
+    },
+    {
+      "id": "mkt:01a15181-abb6-7ee0-a8d4-a2b68a5c5a36",
+      "time": "2026-10-19 08:13:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Kyiv mayor says a Russian airstrike damaged a Kyiv metro station."
+    },
+    {
+      "id": "mkt:01a15181-4450-7ee0-a8d4-98a50b621f9d",
+      "time": "2026-10-19 08:13:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI intraday loss narrowed to 1.00% after an earlier decline of over 3%."
+    },
+    {
+      "id": "5152754",
+      "time": "2026-10-19 08:12:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長稱，俄羅斯空襲損壞了烏克蘭基輔的一個地鐵站。"
+    },
+    {
+      "id": "5152753",
+      "time": "2026-10-19 08:12:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數下跌2%，至64,016.82點。"
+    },
+    {
+      "id": "5152752",
+      "time": "2026-10-19 08:12:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日經225指數跌幅擴大至2%。"
+    },
     {
       "id": "5152750",
       "time": "2026-10-19 08:11:58",
@@ -115123,62 +115193,6 @@
         "國際"
       ],
       "text": "歐洲斯托克50指數期貨上漲0.4%，德國DAX指數期貨上漲0.4%，英國富時指數期貨上漲0.3%。"
-    },
-    {
-      "id": "5138162",
-      "time": "2026-10-12 08:16:19",
-      "tags": [
-        "宏觀",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【韓國債券漲勢或將止步 交易員們正為加息預期做準備】策略師表示，隨著韓國政府穩定市場波動舉措的效果逐步消退，市場對進一步收緊貨幣政策的預期升溫，韓國債券的本輪上漲行情可能只是曇花一現。全球債券收益率處於數十年高位，伽馬資產管理、韓亞證券等機構的策略師預計，韓國3年期和10年期國債收益率將再度上行，重新測試上月創下的四年高點。韓元掉期交易定價顯示，韓國央行未來6個月累計加息50個基點的機率約70%，進一步加劇市場看空債市的情緒。受中東戰爭推高油價、引發通脹擔憂影響，疊加美債收益率飆升，交易員押注美聯儲將繼續加息，韓國債券今年持續承壓。儘管通脹仍高於目標水平，半導體與儲存晶片行業蓬勃發展帶動經濟增速超出預期，但韓國政府已承諾出臺措施抑制收益率上行。"
-    },
-    {
-      "id": "5138161",
-      "time": "2026-10-12 08:15:08",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：消費級3D列印裝置放量有望帶動耗材需求持續增長】華泰證券研報稱，消費級3D列印裝置放量有望帶動耗材需求持續增長。新機銷售帶動初始耗材採購，裝置保有量擴大與列印頻次提升則有望增加後續耗材消耗，形成持續復購需求。FDM路線下，PLA、PETG有望率先受益，柔性材料和工程塑膠的應用滲透有望隨列印場景拓展逐步提升；光固化路線則有望依託部分專業場景的需求增長，為丙烯酸酯類配方原料帶來增量需求。"
-    },
-    {
-      "id": "5138160",
-      "time": "2026-10-12 08:15:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：Scale-up光進銅退成為大勢所趨 NPO/CPO驅動無源器件價值重估】中信證券研報稱，銅互聯逼近物理極限，Scale-up光進銅退成為大勢所趨，NPO/CPO驅動無源器件價值重估。用量方面，FAU與光引擎形成1:1剛性配套，用量隨Scale-up純增量放大；價格方面，高通道、工藝、光纖、可插拔四重溢價推動NPO/CPO中FAU價格攀升。國內無源廠商以代工/合作繫結海外頭部客戶，FAU的核心壁壘在於高精度製造與規模化交付。"
-    },
-    {
-      "id": "5138159",
-      "time": "2026-10-12 08:14:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4230美元/盎司，日內漲0.35%。"
-    },
-    {
-      "id": "5138158",
-      "time": "2026-10-12 08:13:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【電信運營商開啟系統性瘦身】近期，中國移動、中國電信、中國聯通三大基礎電信運營商接連落地渠道規範政策，開啟行業系統性“瘦身”。9月底，全面暫停“0元購機”；此前，已叫停第三方網際網路渠道手機號卡辦理業務，將線上售卡渠道統一收口至運營商官方App及官方網站。國研新經濟研究院創始院長朱克力表示，叫停“0元購機”和第三方網際網路售卡，本質上都是運營商告別依靠高額補貼、渠道佣金換使用者規模的粗放增長模式，削減獲客體系裡的成本泡沫。（經濟日報）"
-    },
-    {
-      "id": "te:economy:590992",
-      "time": "2026-10-12 08:13:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Russia Inflation Rate Edges Up in September — Russia’s annual inflation rate edged up to 6.35% in September 2026 from 6.33% in the previous month. Services inflation accelerated to 7.97% from 7.85%, while food price growth eased to 5.05% from 5.08% and non-food inflation slowed to 6.47% from 6.51%. Within food prices, fruit and vegetable prices continued to decline year-on-year, falling 4.24% compared with 5.19% in August, while food products excluding fruits and vegetables rose 5.24% (vs 5.15%). Core inflation increased to 5.47% from 5.37% in the previous month. On a monthly basis, consumer prices rose by 0.35% in September, following a 0.08% decline in August. Average inflation for January–September reached 5.93%, up from 5.87% in the January–August period."
     }
   ]
 }
