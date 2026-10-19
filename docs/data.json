@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-20 05:19:08",
-  "count": 12864,
+  "updated": "2026-10-20 05:23:02",
+  "count": 12863,
   "items": [
+    {
+      "id": "5154547",
+      "time": "2026-10-20 05:19:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國中期選舉廣告支出已突破100億美元。"
+    },
     {
       "id": "5154546",
       "time": "2026-10-20 05:18:10",
@@ -117900,22 +117908,6 @@
         "MKT News"
       ],
       "text": "【Trump: If I say Russia and Ukraine agreed to a ceasefire, they agreed】Asked after both Moscow and Kyiv denied agreeing to a ceasefire, Trump said: \"They agreed, you know why? Because I said 'you agree'. It's that simple.\" On reports that \"Russia violated the ceasefire tonight,\" he said he needed to \"see the situation,\" that both sides had breaches, and that Zelenskiy and Putin \"must sit down\" to end \"that absurd war.\""
-    },
-    {
-      "id": "5140138",
-      "time": "2026-10-13 05:21:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門政府軍稱打死近千名胡塞武裝人員】葉門政府軍發言人馬吉德·努扎伊利12日發表宣告說，政府軍在過去24小時內的軍事行動中打死約950名胡塞武裝人員。（新華社）"
-    },
-    {
-      "id": "mkt:01a131fd-49fa-7ee0-a843-96f330201f86",
-      "time": "2026-10-13 05:20:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yemen government forces say they killed nearly 1,000 Houthi fighters】Government-controlled Saba news agency quoted Yemen government forces spokesman Majid Nuzaily on the 12th saying government forces killed about 950 Houthi fighters in the past 24 hours. He said, as part of \"Operation Yemen Dawn,\" forces carried out 1,879 strikes on Houthi military targets, destroyed about 380 military vehicles, suppressed Houthi firing positions and disrupted their command, control and supply nodes. Airstrikes in Taiz province were said to have hit Houthi reinforcements en route to the front and disrupted attempts to regroup."
     }
   ]
 }
