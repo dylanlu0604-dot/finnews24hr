@@ -1,7 +1,67 @@
 {
   "date": "2026-10-19",
-  "count": 363,
+  "count": 369,
   "items": [
+    {
+      "id": "5152782",
+      "time": "2026-10-19 08:34:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "本週有2760億元公開市場7天期逆回購到期，較上週公開市場逆回購到期小幅減少260億元。"
+    },
+    {
+      "id": "5152781",
+      "time": "2026-10-19 08:34:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國LS Electric贏得美國資料中心訂單。"
+    },
+    {
+      "id": "mkt:01a15192-f754-7ee0-a8d4-e365c43722e3",
+      "time": "2026-10-19 08:32:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "US10Y"
+      ],
+      "text": "Bank of Japan Governor UEDA said if the BOJ fails to adjust policy rates in a timely manner, market concern about an inf overshoot could push up long-term yields."
+    },
+    {
+      "id": "mkt:01a15192-ea4c-7ee0-a8d4-d956298e0235",
+      "time": "2026-10-19 08:32:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Governor UEDA said the BOJ will weigh market conditions—such as whether the pace of long-term yield increases is excessive or there are signs of impaired market functioning—when deciding whether to intervene."
+    },
+    {
+      "id": "mkt:01a15192-d467-7ee0-a8d4-d21ab0155462",
+      "time": "2026-10-19 08:32:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOJ Governor UEDA said appropriate implementation of monetary policy and achieving the 2% inflation target can help stabilize the Japan government bond market."
+    },
+    {
+      "id": "5152780",
+      "time": "2026-10-19 08:32:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朱忠明會見高瓴創始人兼董事長張磊和跨國企業家、海外投資人代表】上海市市長朱忠明10月18日會見了高瓴創始人兼董事長張磊和跨國企業家、海外投資人代表。朱忠明表示，熱忱期待跨國公司和投資機構加大在滬投資佈局力度，推動更多面向全球市場的新技術、新業態、新模式在滬落地，並積極參與“AI+製造”等領域的高水平人才培養。上海正持續打造市場化、法治化、國際化的一流營商環境，歡迎跨國公司積極建言獻策，幫助我們不斷最佳化服務。"
+    },
     {
       "id": "5152779",
       "time": "2026-10-19 08:31:02",

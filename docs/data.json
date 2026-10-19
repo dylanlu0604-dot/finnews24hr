@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-19 08:31:38",
-  "count": 12600,
+  "updated": "2026-10-19 08:35:24",
+  "count": 12603,
   "items": [
+    {
+      "id": "5152782",
+      "time": "2026-10-19 08:34:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "本週有2760億元公開市場7天期逆回購到期，較上週公開市場逆回購到期小幅減少260億元。"
+    },
+    {
+      "id": "5152781",
+      "time": "2026-10-19 08:34:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國LS Electric贏得美國資料中心訂單。"
+    },
+    {
+      "id": "mkt:01a15192-f754-7ee0-a8d4-e365c43722e3",
+      "time": "2026-10-19 08:32:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "US10Y"
+      ],
+      "text": "Bank of Japan Governor UEDA said if the BOJ fails to adjust policy rates in a timely manner, market concern about an inf overshoot could push up long-term yields."
+    },
+    {
+      "id": "mkt:01a15192-ea4c-7ee0-a8d4-d956298e0235",
+      "time": "2026-10-19 08:32:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Governor UEDA said the BOJ will weigh market conditions—such as whether the pace of long-term yield increases is excessive or there are signs of impaired market functioning—when deciding whether to intervene."
+    },
+    {
+      "id": "mkt:01a15192-d467-7ee0-a8d4-d21ab0155462",
+      "time": "2026-10-19 08:32:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOJ Governor UEDA said appropriate implementation of monetary policy and achieving the 2% inflation target can help stabilize the Japan government bond market."
+    },
+    {
+      "id": "5152780",
+      "time": "2026-10-19 08:32:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朱忠明會見高瓴創始人兼董事長張磊和跨國企業家、海外投資人代表】上海市市長朱忠明10月18日會見了高瓴創始人兼董事長張磊和跨國企業家、海外投資人代表。朱忠明表示，熱忱期待跨國公司和投資機構加大在滬投資佈局力度，推動更多面向全球市場的新技術、新業態、新模式在滬落地，並積極參與“AI+製造”等領域的高水平人才培養。上海正持續打造市場化、法治化、國際化的一流營商環境，歡迎跨國公司積極建言獻策，幫助我們不斷最佳化服務。"
+    },
     {
       "id": "5152779",
       "time": "2026-10-19 08:31:02",
@@ -115306,30 +115366,6 @@
         "國際"
       ],
       "text": "【銀河證券：整體煤炭供需偏緊 煤價中樞抬升】銀河證券研報指出，2026年中國整體煤炭供需偏緊，煤價中樞抬升。國內市場方面，經過2025年下半年“反內卷”超產核查、2026年上半年印尼限制出口、美伊衝突推高國際能源價格、山西煤炭事故後安監趨嚴以及後續復產持續不及預期的影響，過去一年煤價中樞逐步抬升。研報認為供給約束依然存在，而電煤、化工煤等需求較去年有望提升，煤價有望繼續抬升。在2026年中期策略報告中，預計2026年全年秦皇島5500大卡動力煤市場價中樞在800—900元/噸，高於2025年年均價（690元/噸），迎峰度冬期間有望進一步衝高。"
-    },
-    {
-      "id": "5138180",
-      "time": "2026-10-12 08:34:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【晶泰科技：開源化學反應產率定量AI模型】10月12日，據晶泰科技訊息，晶泰科技近日在GitHub正式開源化學反應產率定量AI模型lcms2yield，同步開放模型權重、推理程式碼及訓練、評測資料集，面向全球科研社群提供可復現、可呼叫、可擴充套件的AI化學分析工具。"
-    },
-    {
-      "id": "5138179",
-      "time": "2026-10-12 08:33:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國外匯交易中心（CFETS）：10月9日人民幣匯率指數漲0.41至103.61。"
-    },
-    {
-      "id": "5138178",
-      "time": "2026-10-12 08:32:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四川成都至西藏拉薩圖定貨運班列首發 全程約68小時】昨天（11日），四川成都至西藏拉薩的圖定貨運班列正式開行。這趟首發班列共編組25車，貨物總重量超過500噸，貨物品類涵蓋木材、糧食、化工品、金屬製品等十餘類。班列途經寶成、蘭渝、青藏等多條鐵路幹線，全程執行時長約68小時。納入四季度列車執行圖後，四川、西藏兩地間有了固定車次和開行時間，進藏物資運輸更穩定。"
     }
   ]
 }
