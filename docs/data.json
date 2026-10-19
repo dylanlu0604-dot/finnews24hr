@@ -1,7 +1,78 @@
 {
-  "updated": "2026-10-19 07:57:45",
-  "count": 12562,
+  "updated": "2026-10-19 08:01:29",
+  "count": 12561,
   "items": [
+    {
+      "id": "5152728",
+      "time": "2026-10-19 08:00:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加5.13噸】截至2026年10月16日，全球最大的黃金ETF SPDR Gold Trust持倉量為1059.04噸，較前一個交易日增加5.13噸。"
+    },
+    {
+      "id": "5152727",
+      "time": "2026-10-19 08:00:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌3.2%，至5488.41點。"
+    },
+    {
+      "id": "te:markets:592906",
+      "time": "2026-10-19 08:00:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rise Ahead of Busy Earnings Week — US stock futures climbed on Monday as investors prepared for a busy week of corporate earnings while reassessing the outlook for AI-related investments. Nasdaq 100 futures rose 0.7%, while S&P 500 and Dow futures each gained around 0.4%. Market participants are awaiting results from major companies, including Tesla, Meta, Netflix, American Express, and GE Aerospace. Last week, the Nasdaq Composite and S&P 500 fell 4.48% and 1.95%, respectively, as technology stocks came under pressure amid growing concerns over AI financing. CoreWeave, a neocloud company that relies heavily on debt to build data centers leased to technology firms, emerged as a focal point of these concerns, with its shares plunging 25% over the week. Meanwhile, corporate bond investors have begun avoiding CoreWeave’s debt, pushing the company’s credit default swaps to distressed levels."
+    },
+    {
+      "id": "5152726",
+      "time": "2026-10-19 08:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報64819.56點，跌幅0.77%。"
+    },
+    {
+      "id": "5152725",
+      "time": "2026-10-19 08:00:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守108美元/桶，日內跌1.71%。"
+    },
+    {
+      "id": "5152724",
+      "time": "2026-10-19 07:58:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI 企業Nscale投資者敦促公司下調300億美元的IPO估值目標】知情人士稱，在多家人工智慧企業接連遭遇市場挫折後，Nscale 有限公司本次 IPO 尋求的估值目標遭到投資方反對。訊息人士表示，這家由英偉達投資的資料中心開發商原本希望 IPO 估值約 300 億美元。部分知情人士稱，考慮澳大利亞 AI 資料中心企業 Firmus 的上市計劃宣告失敗等因素，不少投資者近期提出，估值設在 160 億至 190 億美元區間才更容易獲得市場認購。 估值分歧令 Nscale 的 IPO 計劃雪上加霜。該公司週日表示，其最大客戶之一微軟已經退出英國資料中心合作專案，該專案此前受電力供應約束影響，工期持續延誤。隨著融資成本走高，疊加市場對 AI 技術長期回報的不確定性上升，市場對晶片廠商、雲端計算企業這類 AI 基礎設施公司的情緒已經轉弱。"
+    },
+    {
+      "id": "5152723",
+      "time": "2026-10-19 07:58:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【經濟日報：華為麒麟走出突圍之路】10月中旬，華為在其終端創新技術溝通會上放出兩個重磅訊息：使用“邏輯摺疊”新技術的麒麟9050系列晶片已順利量產；自2023年8月麒麟迴歸以來，基於麒麟晶片的終端產品累計發貨已經過億。量產，是技術闖關成功；過億，是市場用腳投票。這兩個訊息足夠提氣，說明中國高階晶片在重重約束下走出了一條差異化突圍之路。"
+    },
+    {
+      "id": "5152722",
+      "time": "2026-10-19 07:57:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【法國發生嚴重騷亂 暴力抗議活動在歐洲蔓延 歐元下挫】法國總統馬克龍表示，法國對週末發生的廣泛暴力事件感到憤怒和羞恥，並呼籲恢復秩序。多個城市的抗議活動演變成警察與示威者之間的衝突，引發了法國多年來最嚴重的街頭暴力，包括搶劫和縱火焚燒地標建築。馬克龍在週日晚間的講話中表示，“國家需要秩序與和平，而不是局勢升級。”他還補充說，地區官員將與市長們共同決定如何保護公共建築和企業，包括在必要時禁止遊行。法國是歐洲一系列示威活動中規模最大的，比利時、義大利和葡萄牙也受到影響。歐元走弱，亞洲週一早盤一度下跌0.5%至1.1183美元。烏克蘭局勢也令歐元承壓，澤連斯基指責特朗普正在迫使基輔向莫斯科投降，並表示烏克蘭可以停止打擊俄煉油廠，條件是美國交付更多“愛國者”攔截彈。"
+    },
     {
       "id": "5152721",
       "time": "2026-10-19 07:54:19",
@@ -114861,86 +114932,6 @@
         "國際"
       ],
       "text": "韓國綜合股價指數下跌1％，至6557.84。SK海力士跌逾2%，三星電子跌近1%。日本股市因公共假期休市一日。"
-    },
-    {
-      "id": "5138148",
-      "time": "2026-10-12 08:01:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少2.28噸】截至2026年10月09日，全球最大的黃金ETF SPDR Gold Trust持倉量為1053.13噸，較前一個交易日減少2.28噸。"
-    },
-    {
-      "id": "5138147",
-      "time": "2026-10-12 08:01:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "騰訊：提議發行全球中期票據。"
-    },
-    {
-      "id": "5138146",
-      "time": "2026-10-12 08:00:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.7%，至6578.17點。日本股市因公共假期休市一日。"
-    },
-    {
-      "id": "5138145",
-      "time": "2026-10-12 08:00:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國10月前10天半導體出口同比增長170.9%。"
-    },
-    {
-      "id": "5138144",
-      "time": "2026-10-12 08:00:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國10月1日至10日出口同比增長102%。"
-    },
-    {
-      "id": "mkt:01a12d68-56ad-7ee0-a82c-f3727df66572",
-      "time": "2026-10-12 07:59:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "A Saudi-led coalition spokesman said it intercepted and destroyed a ballistic missile launched by Houthi forces toward Khamis Mushait."
-    },
-    {
-      "id": "5138143",
-      "time": "2026-10-12 07:58:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【面對AI衝擊無需過度焦慮】昨天，丘成桐數學與人工智慧實驗室聯盟在清華大學成立，將向數學科學專用大模型研發、AI輔助數學形式化證明與猜想發現、可解釋人工智慧及交叉領域智慧計算等領域發起攻關，推動AI與數學深度融合。正如數學家所言，面對AI的衝擊，我們無需過度焦慮。“機器創造能力比不上人類，人類有喜怒哀樂，有最前沿的創造能力。人工智慧不懂開創數學的前沿，所以不用怕。”丘成桐說，AI可以生成海量證明，卻無法像人類數學家一樣提出真正有洞察力的新問題，更無法擁有人類在長期研究中沉澱的數學直覺——這種融合了經驗、審美和創造力的獨特能力，始終是人類研究者不可替代的核心優勢。（北京日報）"
-    },
-    {
-      "id": "mkt:01a12d67-6bda-7ee0-a82c-eea52169d560",
-      "time": "2026-10-12 07:58:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's stock market closed today."
-    },
-    {
-      "id": "5138142",
-      "time": "2026-10-12 07:58:02",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：消費級3D列印裝置放量有望帶動耗材需求持續增長】華泰證券研報稱，消費級3D列印裝置放量有望帶動耗材需求持續增長。新機銷售帶動初始耗材採購，裝置保有量擴大與列印頻次提升則有望增加後續耗材消耗，形成持續復購需求。華泰證券認為，FDM路線下，PLA、PETG有望率先受益，柔性材料和工程塑膠的應用滲透有望隨列印場景拓展逐步提升；光固化路線則有望依託部分專業場景的需求增長，為丙烯酸酯類配方原料帶來增量需求。"
     }
   ]
 }
