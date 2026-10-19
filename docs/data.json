@@ -1,7 +1,80 @@
 {
-  "updated": "2026-10-19 22:57:17",
-  "count": 12877,
+  "updated": "2026-10-19 23:01:15",
+  "count": 12876,
   "items": [
+    {
+      "id": "mkt:01a154ad-ee5f-7ee0-a8eb-8412bb3740a7",
+      "time": "2026-10-19 23:00:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "As of the 23:00 close, China’s most-active futures contracts were mostly lower: ethylene glycol (EG) down nearly 4%; synthetic rubber, coking coal and liquefied petroleum gas (LPG) down more than 2%; rapeseed meal and propylene down about 2%; bottle-grade PET flake and methanol down over 1%. Polyvinyl chloride (PVC) rose nearly 1%."
+    },
+    {
+      "id": "te:markets:593180",
+      "time": "2026-10-19 23:00:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Australian Dollar Rises by 0.56% — Top currency gainers are Australian Dollar (0.56%), Canadian Dollar (0.36%), South Korean Won (0.31%) and Dollar Index (0.08%). Biggest losers are Japanese Yen (-0.24%), Euro (-0.18%) and British Pound (-0.07%)."
+    },
+    {
+      "id": "5154335",
+      "time": "2026-10-19 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】乙二醇連續跌3.73%，焦煤連續跌2.26%，液化石油氣連續跌2.22%，燃料油連續跌2.12%，菜粕連續跌1.87%。"
+    },
+    {
+      "id": "5154334",
+      "time": "2026-10-19 22:59:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【保加利亞總統約託娃會見王毅】當地時間2026年10月19日，保加利亞總統約託娃在索非亞會見中共中央政治局委員、外交部長王毅。約託娃請王毅轉達對習近平主席的誠摯問候，表示保中兩國長期友好，保加利亞是第二個承認新中國的國家。2019年保中建立戰略伙伴關係，兩國交往在平等互利基礎上持續發展。保方欽佩中國在人工智慧、科技創新、環境保護及人民生活水平提高等各領域取得的舉世矚目成就。保方將繼續奉行一箇中國政策。去年10月我赴華參加全球婦女峰會，與中方就下階段合作達成廣泛共識。王毅外長此訪是深化保中關係的良機，有助於密切溝通協調，推動未來合作。雙方正加緊規劃明年高層交往，期待雙邊關係能夠邁上新臺階。保新政府有著加快發展對華合作的強烈意願，也得到社會民眾廣泛支援。保方期待儘快同中國開通直航，深化雙方經貿合作，助力兩國人員往來和文化交流。保方希望擴大農業、科技、教育、新能源等領域合作。保方在政治解決衝突矛盾上同中方看法一致，希望中方繼續為維護世界和平發揮重要作用，願就此與中方加強協作。(外交部網站)"
+    },
+    {
+      "id": "5154333",
+      "time": "2026-10-19 22:58:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：美國出口檢驗量（噸）：大豆 2,001,750 噸，小麥 240,308 噸，玉米 672,475 噸。"
+    },
+    {
+      "id": "te:markets:593179",
+      "time": "2026-10-19 22:58:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Breaks 10-Day Losing Run — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, snapped its long ten-day losing sreak on Monday, rising about 1.4% to 2,546 points, mainly due to a rebound in the larger vessel segment. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, advanced by 3.6% to 3,365 points, after ten consecutive sessions of declines, partly tracking higher iron ore prices amid stronger crude steel production and better-than-expected economic growth in China. At the same time, the supramax index rose by 0.2% to 1,868 points. Meanwhile, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell 1.2% to 2,286 points."
+    },
+    {
+      "id": "5154332",
+      "time": "2026-10-19 22:58:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊：伊朗已崛起為超級大國】伊朗伊斯蘭革命衛隊發言人穆赫比表示，伊朗已崛起為一個超級大國。如今的伊朗已今非昔比，成為一股強大的力量，並擊潰了曾在兵力規模和軍事裝備方面自詡世界第一的全球最大超級大國。他強調，這是當今伊朗的偉大榮耀，這一重大成就也意味著每個人都肩負著比以往更重的責任。"
+    },
+    {
+      "id": "5154331",
+      "time": "2026-10-19 22:56:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國國防部技術長：考慮投資微電子企業】美國國防部技術長Emil Michael在接受採訪時表示，五角大樓正在“關注微電子企業”，以及從事目前“只有阿斯麥和臺積電從事”的部分供應鏈環節的公司。Michael在回答五角大樓是否考慮短期內在無人機等行業提供更多貸款或進行股權投資時作上述表示他還說：“我們正在關注無人機零部件，因為有些零部件目前依賴對手國家供應，例如俄羅斯的電機和電池”，他同時提到電池供應、關鍵礦產和航天領域Michael表示，未來12個月，五角大樓將“持續不斷地推進更多交易”"
+    },
     {
       "id": "mkt:01a154aa-55c0-7ee0-a8eb-79dd37f6c5bc",
       "time": "2026-10-19 22:56:51",
@@ -118039,83 +118112,6 @@
         "國際"
       ],
       "text": "歐盟外交與安全政策高階代表卡拉斯：歐盟可能很快擴大與烏克蘭的入盟談判範圍。歐盟外長同意將伊拉克諮詢特派團任期延長兩年。"
-    },
-    {
-      "id": "5139863",
-      "time": "2026-10-12 23:01:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達與思科計劃制定 USFP （新一代可插拔光模組封裝標準）開放行業規範。"
-    },
-    {
-      "id": "te:markets:591212",
-      "time": "2026-10-12 23:00:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Mexican Peso Appreciates by 0.80% — Top currency gainers are Mexican Peso (0.80%), Indian Rupee (0.52%), South Korean Won (0.49%) and Dollar Index (0.24%). Biggest losers are Swiss Franc (-0.50%), New Zealand Dollar (-0.33%), Australian Dollar (-0.29%), Euro (-0.24%), Japanese Yen (-0.23%) and British Pound (-0.15%)."
-    },
-    {
-      "id": "5139862",
-      "time": "2026-10-12 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】低硫燃料油連續漲6.72%，燃料油連續漲4.23%，乙二醇連續跌1.97%，瀝青連續跌1.57%，液化石油氣連續漲1.41%。"
-    },
-    {
-      "id": "5139861",
-      "time": "2026-10-12 22:59:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡拉斯：歐盟正在制定限制俄羅斯簽證的提案。"
-    },
-    {
-      "id": "5139860",
-      "time": "2026-10-12 22:58:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡拉斯：歐盟可能很快擴大與烏克蘭的入盟談判。"
-    },
-    {
-      "id": "5139859",
-      "time": "2026-10-12 22:58:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡拉斯稱，60個國家已釋出宣言，呼籲維護航行自由。"
-    },
-    {
-      "id": "5139858",
-      "time": "2026-10-12 22:58:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "義大利央行：2027至2028年預算赤字超過GDP的3%可能影響義大利退出歐盟超額赤字程式。"
-    },
-    {
-      "id": "5139857",
-      "time": "2026-10-12 22:58:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡拉斯：美國對國際刑事法院的制裁生效前有六個月視窗期，為對話提供了空間。"
-    },
-    {
-      "id": "5139856",
-      "time": "2026-10-12 22:57:45",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "EBAY股價上漲，此前摩根士丹利將其列為首選股。"
     }
   ]
 }
