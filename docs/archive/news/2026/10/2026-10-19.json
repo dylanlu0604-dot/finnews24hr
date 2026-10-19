@@ -1,7 +1,106 @@
 {
   "date": "2026-10-19",
-  "count": 1888,
+  "count": 1899,
   "items": [
+    {
+      "id": "5154365",
+      "time": "2026-10-19 23:35:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：歐洲國家是這場戰爭的參與方。就在幾周前，北約秘書長宣佈，有 500 多架美國戰鬥機從歐洲空軍基地起飛，對伊朗實施軍事行動。"
+    },
+    {
+      "id": "5154364",
+      "time": "2026-10-19 23:35:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滙豐開始為資產管理業務尋找新任執行長 以接替Nicolas Moreau】據知情人士透露，滙豐控股已開始為旗下資產管理業務尋找新任執行長，以接替Nicolas Moreau。知情人士稱，該行代表已開始接觸潛在候選人，瞭解他們對這一職位的興趣。現年61歲的Moreau於2019年加入滙豐並出任該職位。根據其領英資料，他此前曾在德意志銀行任職兩年，擔任資產管理業務負責人，也曾擔任安盛投資管理執行長。"
+    },
+    {
+      "id": "5154363",
+      "time": "2026-10-19 23:34:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【特朗普經濟顧問哈塞特稱通脹仍需關注 尊重美聯儲獨立性】白宮國家經濟委員會主任凱文·哈塞特表示，牛肉和雞蛋等商品價格在下降，但9月消費者價格資料顯示，整體通脹仍需政策關注。哈塞特週一接受採訪時表示：“如果看此前三個月，通脹似乎完全得到控制，但現在看來，似乎又需要下一番功夫了。”哈塞特在採訪中表示：“這要麼意味著下降趨勢出現了某種中斷，要麼只是一次短暫波動。”哈塞特表示，他尊重美聯儲的獨立性，稱沃什會“做他認為正確的事情”。"
+    },
+    {
+      "id": "5154362",
+      "time": "2026-10-19 23:33:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌1.51%，報25236.69點。法國股指初步收跌1.43%，義大利股指初步收跌1.86%、銀行指數跌2.75%，英國股指初步收跌1.29%。"
+    },
+    {
+      "id": "5154361",
+      "time": "2026-10-19 23:33:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌1.07%，報637.81點。歐元區STOXX 50指數初步收跌1.29%，報6125.36點。富時泛歐績優300指數初步收跌1.13%，報2544.26點。"
+    },
+    {
+      "id": "5154360",
+      "time": "2026-10-19 23:32:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行：企業高管調查顯示，當前情緒與預期仍顯著強於 2025 年貿易緊張局勢最嚴峻時期。"
+    },
+    {
+      "id": "5154359",
+      "time": "2026-10-19 23:32:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "另一份加拿大央行三季度商業前景調查（調研大多在貿易談判破裂前完成）顯示，整體企業信心有所改善。"
+    },
+    {
+      "id": "5154358",
+      "time": "2026-10-19 23:32:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行調查：未來銷售指標的景氣淨差值為 + 42，高於二季度的 + 15。"
+    },
+    {
+      "id": "5154357",
+      "time": "2026-10-19 23:32:16",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣三個月期國債，得標利率4.095%，投標倍數2.77。拍賣六個月期國債，得標利率4.220%，投標倍數2.84。"
+    },
+    {
+      "id": "te:markets:593198",
+      "time": "2026-10-19 23:32:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls by Over 1% — The FTSE 100 fell more than 1% on Monday, ending a three-session winning streak as banking and mining stocks led the decline. Barclays dropped 3.5% after reports that the BoE was investigating whether its traders had misrepresented illiquid private-credit loans to understate their risk. The news weighed on the wider banking sector, with HSBC and Lloyds Banking Group losing more than 2%, NatWest falling nearly 3% and Standard Chartered declining 2.5%. Mining shares also came under pressure, as Anglo American fell 4%, Glencore slid more than 3.5%, and Rio Tinto lost almost 2%. Aerospace and defence stocks weakened, with Rolls-Royce and BAE Systems each down around 2%. Investors are now preparing for UK September inflation and retail sales data due this week. Attention is also turning to Finance Minister John Healey’s first budget speech, scheduled for next week. Meanwhile, oil prices eased from five-month highs as traders assessed Middle East tensions and regional supply resilience."
+    },
+    {
+      "id": "5154356",
+      "time": "2026-10-19 23:32:11",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行調查：五年期通脹預期從第二季度的 3.39% 升至 3.91%。 18% 企業稱過去 12 個月銷售額出現明顯下滑，該比例低於二季度的 22%。"
+    },
     {
       "id": "te:markets:593197",
       "time": "2026-10-19 23:32:05",
