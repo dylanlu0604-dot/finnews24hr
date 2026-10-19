@@ -1,7 +1,88 @@
 {
-  "updated": "2026-10-19 23:55:53",
-  "count": 12893,
+  "updated": "2026-10-19 23:59:45",
+  "count": 12900,
   "items": [
+    {
+      "id": "5154380",
+      "time": "2026-10-19 23:58:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦內政部長：美伊談判視窗應當保持開放。"
+    },
+    {
+      "id": "mkt:01a154e1-dede-7ee0-a8ec-82e619eca1cd",
+      "time": "2026-10-19 23:57:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran says it can provide transit facilitation through the Strait of Hormuz for \"friendly countries\"."
+    },
+    {
+      "id": "5154379",
+      "time": "2026-10-19 23:57:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美佛州稱對古巴革命領袖勞爾·卡斯特羅發逮捕令】美國佛羅里達州總檢察長詹姆斯·尤思邁耶19日以所謂“參與一級謀殺”的理由對古巴革命領袖勞爾·卡斯特羅發出逮捕令。今年5月20日，佛州南區聯邦地區法院一個大陪審團同意起訴勞爾·卡斯特羅。這一訴訟被認為是美國對古巴施壓措施的一部分。（新華社）"
+    },
+    {
+      "id": "5154378",
+      "time": "2026-10-19 23:57:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：可為 “友好國家” 提供霍爾木茲海峽通行便利。"
+    },
+    {
+      "id": "mkt:01a154e1-6641-7ee0-a8ec-7904fd35a221",
+      "time": "2026-10-19 23:57:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【Commerzbank: German debt concerns converging with France】Commerzbank economist Joerg Kraemer said in a report that Germany’s debt problem is increasingly converging with France’s. He said Berlin has responded to energy-price shocks with public spending, including two fuel tax cuts that disproportionately benefited wealthier households and reduced incentives to save energy. Against a fragile governing coalition and policy divisions, Kraemer expects Germany’s budget deficit to widen to about 4% of GDP this year—near France’s 5%—and called for prioritizing public finances and raising competitiveness to support growth."
+    },
+    {
+      "id": "mkt:01a154e0-fbf9-7ee0-a8ec-7433d1e6d4c5",
+      "time": "2026-10-19 23:56:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,140/oz, down 0.58% intraday."
+    },
+    {
+      "id": "mkt:01a154e0-e557-7ee0-a8ec-6b83af4c8b5c",
+      "time": "2026-10-19 23:56:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran said it has no choice but to impose control over the Strait of Hormuz."
+    },
+    {
+      "id": "5154377",
+      "time": "2026-10-19 23:55:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊通社（IRNA）：伊朗稱“別無選擇”，只能主張對霍爾木茲海峽的控制權。"
+    },
     {
       "id": "5154376",
       "time": "2026-10-19 23:55:11",
@@ -118314,14 +118395,6 @@
         "Importance 0"
       ],
       "text": "DAX Closes Higher — Frankfurt’s DAX 40 closed 0.8% higher at 25,268 on Monday, extending gains from the previous session amid broad-based advances across sectors. Automakers rose after European manufacturers backed a plan to cap imports of Chinese hybrid vehicles, which have posed increasing competition for the industry. BMW gained 1.8%, while Mercedes-Benz advanced 0.6%. Volkswagen rose 0.7% after reporting a 14.3% decline in global deliveries in the third quarter, its sharpest drop in more than four years. Defense Rheinmetall climbed 3.2%. Utilities RWE (3.5%) and E.ON (0.7%) also advanced after Chancellor Friedrich Merz backed using any available budgetary leeway to reduce electricity taxes. Financial stocks moved higher as Deutsche Bank advanced 2.1% amid progress toward a possible settlement related to Malaysia’s 1MDB financial scandal. Commerzbank added 0.6%. Tech and industrial shares also advanced, led by Siemens (4.4%) and Siemens Energy (3%)."
-    },
-    {
-      "id": "5139916",
-      "time": "2026-10-12 23:57:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海事貿易組織收到霍爾木茲海峽事件的延遲報告：一艘出港油輪於 10 月 11 日遭投射物擊中。"
     }
   ]
 }
