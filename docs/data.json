@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-20 04:33:04",
+  "updated": "2026-10-20 04:36:58",
   "count": 12871,
   "items": [
+    {
+      "id": "te:markets:593227",
+      "time": "2026-10-20 04:35:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Brazilian Stocks Close Lower Amid Election Uncertainty — The Ibovespa edged 0.2% lower to close at 205,079 on Monday, erasing earlier gains as credit-sensitive stocks ended mixed. Brazilian assets traded without a clear direction as investors remained cautious at the start of the week ahead of the presidential runoff. Polls by BTG/Nexus and AtlasIntel showed declining support for Flávio Bolsonaro and rising support for Lula, although Bolsonaro remained ahead in both surveys. The BTG/Nexus poll indicated a statistical tie, while AtlasIntel showed Bolsonaro’s lead exceeding the margin of error. Although Bolsonaro has yet to present detailed policy plans, investors view his candidacy as more likely to bring fiscal reforms, including spending cuts, which are seen as important to lowering interest rates. Financials closed mixed, with Itaú down 0.4% and Bradesco shedding 1.3%, while BB gained 1.3% and B3 rose 1.8%. Utilities were mostly lower, with Axia falling 1.3%. Petrobras also weighed on the index, dropping 2.8%."
+    },
+    {
+      "id": "te:markets:593226",
+      "time": "2026-10-20 04:35:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.07% Lower — The Dow Jones Index dropped 36 points or 0.07 percent on Monday to close at 51966 points. Losses were led by JPMorgan (-1.81%), Amgen (-1.75%) and Merck (-1.64%). Offsetting the fall, top gainers were Amazon (5.00%), IBM (1.84%) and UnitedHealth (1.40%)."
+    },
+    {
+      "id": "te:markets:593225",
+      "time": "2026-10-20 04:33:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Steel Dynamics earnings above expectations at 5.26 USD — Steel Dynamics (STLD) released earnings per share at 5.26 USD, compared to market expectations of 5.08 USD."
+    },
     {
       "id": "5154528",
       "time": "2026-10-20 04:31:29",
@@ -117915,30 +117951,6 @@
         "公司"
       ],
       "text": "Meta將公佈2026年第三季度財報。"
-    },
-    {
-      "id": "5140103",
-      "time": "2026-10-13 04:36:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果股價在智慧家居產品釋出前獲目標價上調。"
-    },
-    {
-      "id": "5140102",
-      "time": "2026-10-13 04:33:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "克羅格：裁減總部崗位以“簡化”運營。"
-    },
-    {
-      "id": "5140101",
-      "time": "2026-10-13 04:33:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "克羅格：本次裁員可保障持續對一線員工投入。"
     }
   ]
 }
