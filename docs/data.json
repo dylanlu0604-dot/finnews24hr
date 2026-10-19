@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-20 04:59:56",
-  "count": 12880,
+  "updated": "2026-10-20 05:03:51",
+  "count": 12873,
   "items": [
+    {
+      "id": "mkt:01a155f9-7ce8-7ee0-a8f0-066b26e1ba1f",
+      "time": "2026-10-20 05:02:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran Persian Gulf Strait Authority says 122 vessels listed for violations】Iran's Persian Gulf Strait Authority said on the 20th that 122 vessels have been placed on a violations list for the Persian Gulf shipping channel. More than 40 vessels have been ordered to rectify breaches; 19 are negotiating with authorities to avoid listing or to seek removal; two agreed to comply and were removed; about 30 warned vessels will be listed if they do not respond. The authority said it may assist vessels that voluntarily correct violations to obtain removal from the list."
+    },
+    {
+      "id": "mkt:01a155f8-cb3d-7ee0-a8ef-ffa52b584e4c",
+      "time": "2026-10-20 05:02:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Cuba's new oil and gas rules take effect, widen private and foreign participation】Cuba’s new oil and gas regulatory framework took effect Oct. 19, establishing a legal basis to broaden domestic private-sector and foreign investor participation in exploration, production, refining, transport, storage and sales. Decree-Law No. 135 and implementing Decree No. 184 were published in the Official Gazette on Oct. 12. The measures relax access rules and allow qualified Cuban and foreign companies and individuals to engage in upstream and midstream activities, subject to required licenses. Subsoil hydrocarbon resources remain state-owned and the state retains priority purchase rights to oil and gas needed for energy security."
+    },
+    {
+      "id": "5154542",
+      "time": "2026-10-20 05:01:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗波斯灣海峽管理局：122艘船舶被列入違規名單】當地時間20日，伊朗波斯灣海峽管理局宣佈，截至目前，已有122艘船舶被列入波斯灣航道管理的違規名單。超過40艘船舶已被責令整改；19艘船舶正在與相關部門協商，以避免被列入名單或希望從名單中移除；2艘船舶已同意履行其義務，並從名單中移除；約30艘船舶在收到警告後若不予回應，將被列入違規名單。該機構表示，如果這些船舶主動糾正違規行為，將考慮協助其從名單中移除。（央視新聞）"
+    },
+    {
+      "id": "5154541",
+      "time": "2026-10-20 05:00:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【古巴石油和天然氣新規正式生效 擴大私營企業和外國投資者參與範圍】當地時間10月19日，古巴石油和天然氣行業新規正式生效，進一步擴大本國私營企業和外國投資者參與石油天然氣產業的範圍，為擴大油氣資源開發提供法律依據。新法規包括古巴第135號《石油和天然氣》法令及其配套的第184號實施法令，於10月12日在古巴《官方公報》上公佈。根據新規，古巴進一步放寬石油和天然氣行業的准入限制，允許符合條件的本國及外國企業和個人參與石油和天然氣的勘探、開採、煉製、運輸、儲存和銷售等活動。不過，相關經營活動仍須依法獲得許可，古巴境內的地下石油和天然氣資源繼續歸全民所有，國家保留對保障能源安全所需油氣的優先購買權。（央視新聞）"
+    },
     {
       "id": "5154540",
       "time": "2026-10-20 04:59:15",
@@ -117938,95 +117977,6 @@
         "國際"
       ],
       "text": "特朗普：與伊朗的戰爭很快結束後，油價將下跌。"
-    },
-    {
-      "id": "5140121",
-      "time": "2026-10-13 05:03:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "芝商所集團：將比預期更早推出首個超低延遲交易的雲端解決方案。"
-    },
-    {
-      "id": "5140120",
-      "time": "2026-10-13 05:01:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：認為普京和澤連斯基都支援能源停火。"
-    },
-    {
-      "id": "5140119",
-      "time": "2026-10-13 05:01:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：澤連斯基和普京不知道如何達成協議。"
-    },
-    {
-      "id": "5140118",
-      "time": "2026-10-13 05:01:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：胡塞武裝行為不端。"
-    },
-    {
-      "id": "5140117",
-      "time": "2026-10-13 05:01:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱，與沙特王儲穆罕默德·本·薩勒曼就襲擊事件進行了交談。"
-    },
-    {
-      "id": "5140116",
-      "time": "2026-10-13 05:01:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：俄烏雙方均存在違反停火的行為。"
-    },
-    {
-      "id": "5140115",
-      "time": "2026-10-13 05:01:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：澤連斯基和普京必須會面，結束衝突。"
-    },
-    {
-      "id": "5140114",
-      "time": "2026-10-13 05:00:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：正考慮是否解僱美國駐希臘大使。"
-    },
-    {
-      "id": "5140113",
-      "time": "2026-10-13 05:00:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【國際金價跌超0.5%，紐約銅漲1%】週一（10月12日）紐約尾盤，現貨黃金跌0.56%，報4170.70美元/盎司，亞太早盤微漲至4217.31美元重新整理日高，隨後持續下挫，過半交易時間低位震盪、北京時間20:38重新整理日低至4154.78美元。現貨白銀跌0.93%，報60.2573美元/盎司。COMEX銅期貨漲1.04%，報6.7615美元/磅，亞太盤初至歐洲中午持續上漲。在美股時段交易的費城金銀指數收跌0.66%，原材料指數收跌0.40%，金屬與礦業指數收跌0.77%。在全球市場全天交易的紐約證交所ARCA金礦開採商指數跌0.48%，報2534.23點。State Street金屬與礦業ETF收跌1.41%，報104.85美元。"
-    },
-    {
-      "id": "5140112",
-      "time": "2026-10-13 05:00:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：胡塞武裝行為極其惡劣，不可接受。"
-    },
-    {
-      "id": "5140111",
-      "time": "2026-10-13 05:00:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談奧馬爾：一切取決於司法部。"
     }
   ]
 }
