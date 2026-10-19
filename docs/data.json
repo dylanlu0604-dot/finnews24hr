@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-20 05:26:54",
-  "count": 12861,
+  "updated": "2026-10-20 05:30:42",
+  "count": 12859,
   "items": [
+    {
+      "id": "5154552",
+      "time": "2026-10-20 05:27:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "必和必拓：仍然預測全年西澳鐵礦石總產量2.9億至3億噸。"
+    },
+    {
+      "id": "5154551",
+      "time": "2026-10-20 05:27:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "必和必拓：第一財季西澳鐵礦石總產量7191萬噸。"
+    },
+    {
+      "id": "5154550",
+      "time": "2026-10-20 05:26:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓：第一財季可歸屬礦石產出6645萬噸。"
+    },
+    {
+      "id": "5154549",
+      "time": "2026-10-20 05:26:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓：第一財季銅產量40.07萬噸。"
+    },
     {
       "id": "5154548",
       "time": "2026-10-20 05:23:13",
@@ -117831,66 +117863,6 @@
         "國際"
       ],
       "text": "美聯儲哈馬克表示，仍需進一步收緊貨幣政策，但對加息步伐保持開放態度。"
-    },
-    {
-      "id": "5140143",
-      "time": "2026-10-13 05:30:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊稱，打擊了一艘試圖穿越霍爾木茲海峽的船隻。"
-    },
-    {
-      "id": "mkt:01a13204-3bbd-7ee0-a843-b317142547fe",
-      "time": "2026-10-13 05:28:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) confirmed the 'Suncatcher' project satellite is operating as expected."
-    },
-    {
-      "id": "mkt:01a13204-069d-7ee0-a843-ab842efd3a79",
-      "time": "2026-10-13 05:28:06",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish",
-        "PL.O"
-      ],
-      "text": "Google (GOOG.O) is partnering with Planet to launch a prototype satellite for Project Suncatcher on SpaceX's Transporter-18 rideshare."
-    },
-    {
-      "id": "5140142",
-      "time": "2026-10-13 05:27:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌證實“追日者”（Project Suncatcher）衛星執行符合預期。"
-    },
-    {
-      "id": "5140141",
-      "time": "2026-10-13 05:27:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌部落格 - 與Planet公司在SpaceX Transporter-18任務中發射Project SunCatcher原型衛星。"
-    },
-    {
-      "id": "5140140",
-      "time": "2026-10-13 05:27:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊總司令艾哈邁德·瓦希迪：任何域外大國都無權威脅、維持霸權存在或干涉霍爾木茲海峽和波斯灣。"
     }
   ]
 }
