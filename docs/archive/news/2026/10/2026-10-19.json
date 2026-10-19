@@ -1,7 +1,143 @@
 {
   "date": "2026-10-19",
-  "count": 1337,
+  "count": 1352,
   "items": [
+    {
+      "id": "5153484",
+      "time": "2026-10-19 15:55:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大名城：股東俞錦辦理股份解除質押及再質押】大名城公告稱，公司控股股東一致行動人俞錦於2026年10月16日解除質押4600萬股，佔其所持股份37.17%、佔公司總股本1.98%；同日再質押5122萬股，佔其所持股份41.38%、佔公司總股本2.20%，質權人為浙江稠州商業銀行福州分行，用途為提供擔保。截至公告日，俞錦累計質押1.05億股，佔其所持股份84.61%、佔公司總股本4.50%；控股股東及其一致行動人累計質押2.25億股，佔其所持股份24.26%、佔公司總股本9.66%，不存在平倉風險。"
+    },
+    {
+      "id": "5153483",
+      "time": "2026-10-19 15:54:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數突破102關口，日內漲0.22%。"
+    },
+    {
+      "id": "te:markets:593086",
+      "time": "2026-10-19 15:54:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Fall on Unrest Concerns — The CAC 40 fell 1.2% to 7,865 on Monday, reversing the previous week’s gains as mounting civil unrest and deepening political turmoil heightened concerns over France’s already strained public finances. The protests began last month in high schools in working-class northern suburbs of Paris, with students voicing concerns over the cost of living and dissatisfaction with the education system. Demands for increased public spending come as France faces mounting pressure to rein in its rapidly growing debt burden, complicating efforts to address social grievances without further straining public finances. The clashes also come at a critical juncture ahead of the presidential election in April. Financial stocks were among the biggest laggards, with BNP Paribas down 2.4%, Crédit Agricole falling 2.3% and Société Générale losing 2.3%. Notable decliners also included L’Oréal (-1%), LVMH (-1.7%) and Airbus (-1.8%)."
+    },
+    {
+      "id": "5153482",
+      "time": "2026-10-19 15:54:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲南能投：色甲光伏發電專案實現全容量併網發電】雲南能投公告稱，公司全資子公司馬龍雲能投新能源開發有限公司投資建設的色甲光伏發電專案於2026年10月17日實現全容量併網發電。該專案位於曲靖市馬龍區，額定容量2萬千瓦，全容量投產後多年平均上網電量3178萬千瓦時，年平均等效滿負荷小時數為1326小時。至此，公司已投產發電的新能源總裝機容量達277.486萬千瓦，其中風電249.386萬千瓦，光伏28.1萬千瓦。該專案運營存在氣候、政策等風險，敬請投資者注意投資風險。"
+    },
+    {
+      "id": "5153481",
+      "time": "2026-10-19 15:54:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聚石化學：控股股東及實控人合計解除質押650萬股】聚石化學公告稱，公司控股股東石磐石、實際控制人陳鋼於2026年10月16日辦理完成部分股份解除質押。其中石磐石解除質押350萬股，佔其所持股份的7.32%、公司總股本的2.88%，解質後累計質押650萬股；陳鋼解除質押300萬股，佔其所持股份的49.52%、公司總股本的2.47%，解質後累計質押0股。二者合計解除質押650萬股，解質後累計質押650萬股，佔合計持股的12.06%、公司總股本的5.36%。"
+    },
+    {
+      "id": "mkt:01a15327-9baa-7ee0-a8e0-2752da7d6ba6",
+      "time": "2026-10-19 15:54:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Drone attack on Khartoum International Airport kills one】On Oct. 19 local time the Sudan Armed Forces said Khartoum International Airport was struck by a drone, killing one person. The SAF said the Rapid Support Forces fired a drone toward the airport; SAF air defenses shot it down and it crashed east of the airport, hitting a building and killing one occupant. The SAF did not report any damage to airport infrastructure."
+    },
+    {
+      "id": "mkt:01a15327-3d2a-7ee0-a8e0-1ffb236877f3",
+      "time": "2026-10-19 15:54:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said next year he will give every child in the United States a share of his SpaceX (SPCX.O) stock, calling it the first step in a planned series of actions."
+    },
+    {
+      "id": "5153480",
+      "time": "2026-10-19 15:54:02",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部：9月份全國共銷售彩票673.89億元 同比增長27.3%】財政部發布資料，9月份，全國共銷售彩票673.89億元，同比增加144.57億元，增長27.3%，主要是足球世界盃對競猜型彩票銷售的啟用效應仍在持續。其中，福利彩票機構銷售165.69億元，同比減少8.69億元，下降5.0%；體育彩票機構銷售508.20億元，同比增加153.25億元，增長43.2%。1-9月累計，全國共銷售彩票5458.20億元，同比增加696.83億元，增長14.6%。其中，福利彩票機構銷售1480.99億元，同比減少116.51億元，下降7.3%；體育彩票機構銷售3977.21億元，同比增加813.34億元，增長25.7%。"
+    },
+    {
+      "id": "5153479",
+      "time": "2026-10-19 15:53:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬斯克：明年，我將向全美每一位孩子贈送一份我的SpaceX股份。這只是未來一系列行動中的第一步。"
+    },
+    {
+      "id": "te:markets:593085",
+      "time": "2026-10-19 15:53:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE 100 Falls on Monday — The FTSE 100 fell more than 0.8% on Monday, retreating after a rally of over 3% last week and tracking declines across European markets amid escalating protests in France, Belgium, Italy and Portugal. Banking stocks led the losses, with Barclays down 2.2%, HSBC falling 1.28%, and Lloyds Banking Group losing 0.9%. NatWest and Standard Chartered each declined 1.5%. Defence and aerospace shares also weakened, as Rolls-Royce dropped 1.6% and BAE Systems fell 2.6%. Mining stocks were lower, with Rio Tinto down more than 1% and Glencore shedding 0.8%. Antofagasta lost over 1.5% despite workers at its Chilean mine agreeing to a revised wage offer that would end a strike. In contrast, Shell and BP rose between 0.5% and 0.8%. Oil prices eased from a five-month high ahead of the European session, as traders weighed renewed Middle East fighting against signs that regional supply flows remain relatively resilient."
+    },
+    {
+      "id": "5153478",
+      "time": "2026-10-19 15:52:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【採納股份：增聘俞小敏為副總經理及陳佳平為證代】採納股份公告稱，公司於2026年10月16日召開第三屆董事會第二十三次會議，審議透過增聘俞小敏為公司副總經理、陳佳平為證券事務代表的議案，二人任期自本次董事會審議透過之日起至第三屆董事會任期屆滿時止。俞小敏間接持有公司股份74947股，陳佳平未持有公司股份，二人任職資格均符合相關法律法規及《公司章程》規定。"
+    },
+    {
+      "id": "mkt:01a15325-1459-7ee0-a8e0-133b8f1252b4",
+      "time": "2026-10-19 15:51:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukrainian President Zelenskiy said attacks have left more than 500,000 people across Ukraine without power."
+    },
+    {
+      "id": "5153477",
+      "time": "2026-10-19 15:51:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【節能風電：2026年第三季度發電量同比增長3.82%】節能風電公告，截至2026年9月30日，公司累計完成發電量879839萬千瓦時，同比下降5.88%（含獨立儲能）；2026年7-9月合計發電量268489萬千瓦時，同比增長3.82%。"
+    },
+    {
+      "id": "5153476",
+      "time": "2026-10-19 15:51:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，由於襲擊，烏克蘭各地有超過 50 萬人斷電。"
+    },
+    {
+      "id": "em:qqyh_ozlc:202610193899893875",
+      "time": "2026-10-19 15:51:27",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "【澳國民銀行經濟學家：澳儲行大機率11月貨幣政策更新中上調失業率預期】澳國民銀行經濟學家表示，澳儲行大機率11月貨幣政策更新中上調失業率預期。目前澳大利亞失業總人數依舊處於低位，招聘廣告、職位空缺等就業先行指標基本持平。"
+    },
     {
       "id": "5153475",
       "time": "2026-10-19 15:51:27",
