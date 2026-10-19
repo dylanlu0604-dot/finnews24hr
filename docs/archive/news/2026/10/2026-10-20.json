@@ -1,7 +1,17 @@
 {
   "date": "2026-10-20",
-  "count": 242,
+  "count": 243,
   "items": [
+    {
+      "id": "mkt:01a155fd-c094-7ee0-a8f0-088d4fd65789",
+      "time": "2026-10-20 05:07:35",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "People familiar with the matter said US Transportation Secretary Duffy is expected to announce certification of the Boeing (BA.N) 737 MAX 10 on Tuesday in Washington state."
+    },
     {
       "id": "5154543",
       "time": "2026-10-20 05:06:55",
