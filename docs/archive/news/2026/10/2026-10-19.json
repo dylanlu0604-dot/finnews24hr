@@ -1,7 +1,199 @@
 {
   "date": "2026-10-19",
-  "count": 1868,
+  "count": 1888,
   "items": [
+    {
+      "id": "te:markets:593197",
+      "time": "2026-10-19 23:32:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "TE Soft Index Hits 6-week High — TE Soft Index increased to 52.54 Index Points, the highest since September 2026. Over the past 4 weeks, TE Soft Index gained 9.35%, and in the last 12 months, it decreased 1.02%."
+    },
+    {
+      "id": "mkt:01a154ca-947d-7ee0-a8ec-4d7e658194f8",
+      "time": "2026-10-19 23:32:04",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 3-month Treasury auction Oct. 19: awards at the accepted yield accounted for 29.44%, versus 36.71% previously."
+    },
+    {
+      "id": "mkt:01a154ca-926e-7ee0-a8ec-424f20df71b7",
+      "time": "2026-10-19 23:32:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 3-month Treasury auction (Oct 19) — stop-out yield 4.095%, prior 4.09%."
+    },
+    {
+      "id": "mkt:01a154ca-9261-7ee0-a8ec-3d7947211ddb",
+      "time": "2026-10-19 23:32:04",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 3-month Treasury auction bid-cover ratio 2.77 on Oct. 19; prior 2.68."
+    },
+    {
+      "id": "mkt:01a154ca-75a3-7ee0-a8ec-31d01300e71a",
+      "time": "2026-10-19 23:31:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Accepted at High (Oct.19) | actual 29.44% | previous 36.71%"
+    },
+    {
+      "id": "mkt:01a154ca-7566-7ee0-a8ec-299640058777",
+      "time": "2026-10-19 23:31:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction High Yield Rate (Oct.19) | actual 4.095% | previous 4.09%"
+    },
+    {
+      "id": "mkt:01a154ca-7561-7ee0-a8ec-23c9557fa52d",
+      "time": "2026-10-19 23:31:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Oct.19) | actual 2.77 | previous 2.68"
+    },
+    {
+      "id": "mkt:01a154ca-6c0b-7ee0-a8ec-1e28a96e6626",
+      "time": "2026-10-19 23:31:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "US 6-month Treasury auction stop-out yield 4.22% on Oct. 19; prior 4.20%."
+    },
+    {
+      "id": "mkt:01a154ca-6a9f-7ee0-a8ec-138fb21536fb",
+      "time": "2026-10-19 23:31:54",
+      "tags": [
+        "MKT News",
+        "US10Y"
+      ],
+      "text": "US 6-month Treasury auction on Oct. 19: 86.09% of allotment awarded at the stop-out rate, prior 78.17%."
+    },
+    {
+      "id": "mkt:01a154ca-67e9-7ee0-a8ec-0f0e955b7aa4",
+      "time": "2026-10-19 23:31:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 6-month Treasury auction Oct. 19: bid-cover ratio 2.84; prior 2.76."
+    },
+    {
+      "id": "mkt:01a154ca-4dfc-7ee0-a8ec-037fcc72f269",
+      "time": "2026-10-19 23:31:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Accepted at High (Oct.19) | actual 86.09% | previous 78.17%"
+    },
+    {
+      "id": "mkt:01a154ca-4df0-7ee0-a8eb-fca57422c7b6",
+      "time": "2026-10-19 23:31:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Oct.19) | actual 2.84 | previous 2.76"
+    },
+    {
+      "id": "mkt:01a154ca-4dba-7ee0-a8eb-f0dd3a1e7dee",
+      "time": "2026-10-19 23:31:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction High Yield Rate (Oct.19) | actual 4.22% | previous 4.20%"
+    },
+    {
+      "id": "mkt:01a154c9-b865-7ee0-a8eb-eb0e6541f763",
+      "time": "2026-10-19 23:31:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC survey: over half of firms expect to recoup higher costs by raising prices."
+    },
+    {
+      "id": "5154355",
+      "time": "2026-10-19 23:31:07",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行調查：超半數企業預計將透過漲價來轉嫁增加的成本。在加美貿易談判破裂後，企業前景惡化，通脹預期上升。6%的企業預計未來一年加拿大將陷入衰退，低於第二季度的17%。5年期通脹預期已從第二季度的3.39%升至3.91%。"
+    },
+    {
+      "id": "mkt:01a154c9-8cde-7ee0-a8eb-e1e58c596666",
+      "time": "2026-10-19 23:30:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC survey: 5-year inf expectations rose to 3.91% from 3.39% in Q2."
+    },
+    {
+      "id": "mkt:01a154c9-63cf-7ee0-a8eb-daa3b978ad9f",
+      "time": "2026-10-19 23:30:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC survey: 6% of firms expect Canada to enter a recession in the next 12 months, down from 17% in Q2."
+    },
+    {
+      "id": "mkt:01a154c9-5114-7ee0-a8eb-d59bb04b89cd",
+      "time": "2026-10-19 23:30:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC survey: After the breakdown of Canada-U.S. trade talks, firms' outlooks deteriorated and inflation expectations rose."
+    },
+    {
+      "id": "te:markets:593196",
+      "time": "2026-10-19 23:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: France 10Y Bond Yield Rises by 15 bps — Majority of government bonds yields are higher on Monday. Top gainers are France 10Y (14.74bps), Italy 10Y (9.64bps), Canada 10Y (8.80bps), US 10Y (4.70bps) and Germany 10Y (4.28bps). Biggest losers are Japan 10Y (-2.10bps)."
+    },
+    {
+      "id": "mkt:01a154c8-09ee-7ee0-a8eb-cb399fbfd679",
+      "time": "2026-10-19 23:29:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Nasdaq-100 gains widened to 2.0%; S&P 500 rose 0.9%."
+    },
     {
       "id": "5154354",
       "time": "2026-10-19 23:27:44",
