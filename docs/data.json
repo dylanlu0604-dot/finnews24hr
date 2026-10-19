@@ -1,7 +1,76 @@
 {
-  "updated": "2026-10-19 08:50:38",
-  "count": 12597,
+  "updated": "2026-10-19 08:54:23",
+  "count": 12600,
   "items": [
+    {
+      "id": "te:markets:592914",
+      "time": "2026-10-19 08:51:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Stocks Slide Amid Tech Selloff — The Nikkei 225 Index fell 2.2% to below 64,000 on Monday, hitting a one-month low as technology shares extended their decline amid mounting pressure on the artificial intelligence trade. Investors are increasingly questioning whether massive spending on AI infrastructure will generate sufficient returns, particularly as Japanese firms remain deeply involved in the global AI expansion. Major decliners included Kioxia (-1.6%), Advantest (-4%), SoftBank Group (-5.3%), Lasertec (-5.2%), and Taiyo Yuden (-6.2%). Kioxia shares also faced additional downside risks after reports showed that outstanding leveraged long positions in the stock reached around ¥920 billion last week, the highest among companies listed on the Tokyo Stock Exchange. Meanwhile, investors are turning their attention to upcoming trade and inflation data for further clues about the health of Japan’s economy."
+    },
+    {
+      "id": "mkt:01a151a3-e0b4-7ee0-a8d5-0d9a6e8cd4cd",
+      "time": "2026-10-19 08:50:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 20-year government bond yield fell 1.5 bps to 3.790%."
+    },
+    {
+      "id": "mkt:01a151a3-d6a4-7ee0-a8d5-03fbcf054f2a",
+      "time": "2026-10-19 08:50:54",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Prime Minister Takaichi said building a stronger economy can bolster market confidence in the yen."
+    },
+    {
+      "id": "5152803",
+      "time": "2026-10-19 08:50:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：希望透過合法手段維護市場信心。"
+    },
+    {
+      "id": "te:markets:592913",
+      "time": "2026-10-19 08:50:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Falls on Prospects for More Russian Fuel — US heating oil futures fell to around $4.80 per gallon as US President Donald Trump's decision to waive key sanctions and tariffs on Russia raised prospects for increased Russian diesel exports. Trump said the move would help facilitate peace talks with Moscow, while Secretary of State Marco Rubio said the administration would assess its economic impact over the next 60 days. However, supply risks remained elevated as attacks on commercial vessels disrupted shipments through the Persian Gulf, with crude flows falling to around 8.5 million barrels per day last week from more than 20 million barrels per day the previous week, according to Kpler. Adding to regional tensions, Egypt said it was ready to support Saudi Arabia against Yemen's Iran-aligned Houthis. Meanwhile, EIA data showed that US distillate inventories fell by 2.5 million barrels in the week ending October 9, leaving stocks 12% below their five-year average and highlighting persistent supply tightness."
+    },
+    {
+      "id": "5152802",
+      "time": "2026-10-19 08:50:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優必選在紹興成立科技公司，含智慧農機裝備業務】 企查查APP顯示，近日，紹興優必選科技有限公司成立，經營範圍包含：智慧農機裝備銷售；安防裝置銷售；人工智慧通用應用系統；智慧家庭消費裝置銷售；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由優必選全資持股。"
+    },
+    {
+      "id": "5152801",
+      "time": "2026-10-19 08:50:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：有人說日元疲軟和利率高企是我的責任，但我堅決否認這一點。"
+    },
     {
       "id": "5152800",
       "time": "2026-10-19 08:49:22",
@@ -115284,43 +115353,6 @@
         "其他"
       ],
       "text": "【冷空氣“加碼”中 今明天東北華北迎降溫降雨】眼下，一股冷空氣正在影響我國北方地區。受其影響，今天（10月12日）多地將迎降雨，明天逐漸減弱停歇。除了降雨，這股冷空氣還將帶來大風降溫天氣。今明天，東北、華北多地氣溫下降明顯，涼意加重，公眾需及時找出厚衣，外出謹防感冒。"
-    },
-    {
-      "id": "5138209",
-      "time": "2026-10-12 08:52:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【三大因素令沙特面臨葉門戰事升級危機】繼10日沙特方面稱利雅得哈立德國王國際機場當天遭葉門胡塞武裝襲擊造成重大人員傷亡後，當地時間11日，沙特首都利雅得再次傳出爆炸聲。沙特方面表示，葉門胡塞武裝再次對哈立德國王國際機場發動打擊。11日晚間，葉門胡塞武裝釋出宣告稱，在過去24小時內，胡塞武裝針對沙特境內的目標發動了四輪導彈和無人機打擊。輿論認為，三大因素令沙特陷入葉門戰事升級危機：一是同阿聯酋的聯盟破裂，導致阿聯酋從葉門匆忙撤軍；二是受伊朗戰事波及，未能為葉門胡塞武裝重啟攻勢做好準備；三是過度信賴同美國的合作。（央視）"
-    },
-    {
-      "id": "mkt:01a12d97-c00b-7ee0-a82d-7e5cc50e78f9",
-      "time": "2026-10-12 08:51:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "South Korea's KOSPI fell as much as 2.00% intraday. SK Hynix dropped 3.2% and Samsung Electronics fell 1.9%."
-    },
-    {
-      "id": "5138208",
-      "time": "2026-10-12 08:51:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌2％，至6492.44。SK海力士跌3.2%、三星電子跌1.9%。"
-    },
-    {
-      "id": "5138207",
-      "time": "2026-10-12 08:50:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【捷豹路虎中國CEO韓少帥：關於模仿 我會把它看作一種尊重】“關於模仿，我會把它看作一種尊重。所有成功的豪華品牌都會被模仿，我反而擔心的是沒人模仿我們的那一天。如果沒人模仿你，說明你的產品可能不夠有吸引力。被模仿，在某種程度上恰恰說明你站在了金字塔尖。”10月10日，在路虎衛士“士在八方”車主大會上，捷豹路虎中國執行長韓少帥（Tim Howard）表示。"
     }
   ]
 }

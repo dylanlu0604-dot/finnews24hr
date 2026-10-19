@@ -1,7 +1,76 @@
 {
   "date": "2026-10-19",
-  "count": 391,
+  "count": 398,
   "items": [
+    {
+      "id": "te:markets:592914",
+      "time": "2026-10-19 08:51:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Stocks Slide Amid Tech Selloff — The Nikkei 225 Index fell 2.2% to below 64,000 on Monday, hitting a one-month low as technology shares extended their decline amid mounting pressure on the artificial intelligence trade. Investors are increasingly questioning whether massive spending on AI infrastructure will generate sufficient returns, particularly as Japanese firms remain deeply involved in the global AI expansion. Major decliners included Kioxia (-1.6%), Advantest (-4%), SoftBank Group (-5.3%), Lasertec (-5.2%), and Taiyo Yuden (-6.2%). Kioxia shares also faced additional downside risks after reports showed that outstanding leveraged long positions in the stock reached around ¥920 billion last week, the highest among companies listed on the Tokyo Stock Exchange. Meanwhile, investors are turning their attention to upcoming trade and inflation data for further clues about the health of Japan’s economy."
+    },
+    {
+      "id": "mkt:01a151a3-e0b4-7ee0-a8d5-0d9a6e8cd4cd",
+      "time": "2026-10-19 08:50:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 20-year government bond yield fell 1.5 bps to 3.790%."
+    },
+    {
+      "id": "mkt:01a151a3-d6a4-7ee0-a8d5-03fbcf054f2a",
+      "time": "2026-10-19 08:50:54",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Prime Minister Takaichi said building a stronger economy can bolster market confidence in the yen."
+    },
+    {
+      "id": "5152803",
+      "time": "2026-10-19 08:50:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：希望透過合法手段維護市場信心。"
+    },
+    {
+      "id": "te:markets:592913",
+      "time": "2026-10-19 08:50:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Falls on Prospects for More Russian Fuel — US heating oil futures fell to around $4.80 per gallon as US President Donald Trump's decision to waive key sanctions and tariffs on Russia raised prospects for increased Russian diesel exports. Trump said the move would help facilitate peace talks with Moscow, while Secretary of State Marco Rubio said the administration would assess its economic impact over the next 60 days. However, supply risks remained elevated as attacks on commercial vessels disrupted shipments through the Persian Gulf, with crude flows falling to around 8.5 million barrels per day last week from more than 20 million barrels per day the previous week, according to Kpler. Adding to regional tensions, Egypt said it was ready to support Saudi Arabia against Yemen's Iran-aligned Houthis. Meanwhile, EIA data showed that US distillate inventories fell by 2.5 million barrels in the week ending October 9, leaving stocks 12% below their five-year average and highlighting persistent supply tightness."
+    },
+    {
+      "id": "5152802",
+      "time": "2026-10-19 08:50:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優必選在紹興成立科技公司，含智慧農機裝備業務】 企查查APP顯示，近日，紹興優必選科技有限公司成立，經營範圍包含：智慧農機裝備銷售；安防裝置銷售；人工智慧通用應用系統；智慧家庭消費裝置銷售；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由優必選全資持股。"
+    },
+    {
+      "id": "5152801",
+      "time": "2026-10-19 08:50:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：有人說日元疲軟和利率高企是我的責任，但我堅決否認這一點。"
+    },
     {
       "id": "5152800",
       "time": "2026-10-19 08:49:22",
