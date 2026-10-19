@@ -1,7 +1,26 @@
 {
-  "updated": "2026-10-19 23:13:14",
-  "count": 12883,
+  "updated": "2026-10-19 23:17:12",
+  "count": 12880,
   "items": [
+    {
+      "id": "5154348",
+      "time": "2026-10-19 23:13:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【高速光模組元件訂單排到2027年底 一片玻璃價值提升超60倍】在江西南昌一家光學元器件企業，一片看似不起眼的小玻璃，正隨AI算力需求增長進入高速光通訊市場。從光纖入戶裡的2.5G PON類濾光片到1.6T光模組產品，經過11年發展，價值從一毛錢漲到了原來的60倍以上。隨著AI大模型與算力中心快速建設，5奈米、10奈米高精度鍍膜產品迎來廣闊市場，如今，這家企業傳統成像與光通訊業務比例從8:2最佳化為5:5。今年上半年通訊光學業務營收增長118.25%，幾乎提前半年完成去年全年利潤，他們的高速光模組元件訂單已排到2027年底。 (央視財經)"
+    },
+    {
+      "id": "te:markets:593186",
+      "time": "2026-10-19 23:13:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Lumber Drops Toward Two-Year Low — Lumber futures fell below $527 per thousand board feet, retreating toward a two-year low amid persistent weakness in the US housing market. Homebuilder confidence has fallen to its lowest level in 14 years, as high mortgage rates, labor shortages and high construction costs continue to weigh on the sector. Mortgage rates have climbed to 7.4%, their highest level in three years, raising borrowing costs, dampening housing demand and weighing on prices. On the other hand, trade tensions with Canada continue to constrain lumber availability and pressuring prices. Although the US Department of Commerce lowered antidumping and countervailing duties on Canadian softwood lumber to 24.75% from 35.16%, a separate 10% US tariff brings total duties to 34.75%, limiting the potential for a supply recovery. The US Lumber Coalition backed the decision, as forestry groups have long accused Canada of dumping lumber in the US. Conversely, the NAHB has called for a pause on building material tariffs."
+    },
     {
       "id": "5154347",
       "time": "2026-10-19 23:12:30",
@@ -118140,46 +118159,6 @@
         "國際"
       ],
       "text": "【王毅與俄羅斯總統助理、海事委員會主席帕特魯舍夫舉行會晤】中共中央政治局委員、中央外辦主任王毅12日在北京與俄羅斯總統助理、海事委員會主席帕特魯舍夫舉行會晤。王毅轉達習近平主席對普京總統的親切問候。王毅表示，習近平主席和普京總統保持密切溝通，引領兩國關係向更高質量、更高水平邁進。要發動中俄關系發展的“藍色引擎”，為完善全球海洋治理貢獻中俄力量，推動構建海洋命運共同體。帕特魯舍夫轉達普京總統對習近平主席的誠摯問候，表示俄方願與中方攜手推動構建海洋命運共同體，為俄中全面戰略協作增添新的維度。（新華社）"
-    },
-    {
-      "id": "5139878",
-      "time": "2026-10-12 23:16:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆：我不會允許兩國方案在我的任期內夭折，外交大臣同樣不會。"
-    },
-    {
-      "id": "5139877",
-      "time": "2026-10-12 23:16:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普被指為中期選舉對俄讓步】美國上週宣佈放鬆對俄羅斯柴油貿易制裁，美國國內民主、共和兩黨對此都有批評之聲，認為美國總統特朗普“出於對中期選舉的考量而單方面對俄讓步”。（CCTV國際時訊）"
-    },
-    {
-      "id": "5139876",
-      "time": "2026-10-12 23:15:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆談及沙烏地阿拉伯：準備考慮後續的援助請求。"
-    },
-    {
-      "id": "5139875",
-      "time": "2026-10-12 23:14:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國政府向約旦捐贈人道主義醫療物資】中國政府向約旦捐贈人道主義醫療物資交接儀式12日在約旦首都安曼舉行。這批醫療物資將主要用於救助加沙地帶來約旦的傷病人員。據瞭解，這批物資包括醫療裝置和醫療耗材，將被分發到約旦多個醫院和醫療機構。（新華社）"
-    },
-    {
-      "id": "5139874",
-      "time": "2026-10-12 23:14:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相伯納姆：“歐洲製造” 相關政策對英國製造商構成風險。"
     }
   ]
 }
