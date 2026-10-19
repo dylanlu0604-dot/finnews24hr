@@ -1,7 +1,54 @@
 {
-  "updated": "2026-10-19 10:27:40",
-  "count": 12729,
+  "updated": "2026-10-19 10:31:26",
+  "count": 12724,
   "items": [
+    {
+      "id": "5153022",
+      "time": "2026-10-19 10:30:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米汽車：小米汽車OTA Xiaomi HyperOS 1.18 已經上線。"
+    },
+    {
+      "id": "5153021",
+      "time": "2026-10-19 10:30:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌2%，現報5102.00元。"
+    },
+    {
+      "id": "5153020",
+      "time": "2026-10-19 10:29:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多明尼加將尼加拉瓜領事服務轉至哥斯大黎加和宏都拉斯】當地時間10月18日，多明尼加外交部宣佈，因該國決定撤回駐尼加拉瓜使團，在尼加拉瓜居住的多明尼加公民今後可透過該國駐哥斯大黎加使館領事部門，以及駐宏都拉斯總領事館辦理領事事務並尋求領事協助。（環球網）"
+    },
+    {
+      "id": "5153019",
+      "time": "2026-10-19 10:28:45",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【印尼股市跌至2020年以來最低 MSCI警告加劇外資流出擔憂】MSCI 警告印尼可能失去新興市場地位，加劇了市場對外資進一步流出的擔憂。印尼股市近日慘烈跌勢進一步加深。週一，基準雅加達綜合指數一度下跌5%，降至2020年以來最低水平。最新跌勢進一步鞏固了印尼作為全球表現最差市場的地位，今年以來累計跌幅達到43%。MSCI上週五表示，正在考慮分兩步下調印尼市場分類，可能將其從新興市場降至獨立市場。這遠超MSCI今年1月因可投資性擔憂而首次提出的潛在調整，當時考慮的是將印尼降至前沿市場。由於全球有數十億美元資金追蹤MSCI指數，事關重大。如果印尼最終被剔除出主要全球基準指數，印尼股市可能面臨進一步資金外流。印尼有關部門正試圖控制衝擊。印尼證券交易所週一收緊個股交易限制，把每日最大跌幅從15%降至7%，相關措施將實施至今年年底。金融服務管理局週日也與分析師、經濟學家和金融意見領袖舉行會議，討論近期市場改革和動態。高盛集團估計，如果印尼股票被完全剔除，可能引發約56億美元的被動資金流出；如果富時羅素跟進，另有27億美元資金可能面臨流出風險。Mirae Asset Sekuritas Indonesia預計，被動資金流出規模約為30億美元；花旗集團則估計，相關金額將處於數十億美元的中段水平。"
+    },
+    {
+      "id": "5153018",
+      "time": "2026-10-19 10:28:17",
+      "tags": [
+        "央行",
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【泰國擬出臺先買後付監管規則，遏制消費者過度借貸】泰國政府擬針對先買後付（BNPL）服務商推出新規，旨在抑制過度借貸，避免消費者在未充分評估長期財務風險的情況下揹負債務。泰國央行公告顯示，提案要求提供 BNPL 服務的數字平臺運營商必須取得牌照。 新規將信貸額度上限設為 2 萬泰銖，年利率上限 15%。 泰國央行與財政部將於 10 月 16 日至 11 月 15 日，就 BNPL 監管草案徵求公眾意見。"
+    },
     {
       "id": "5153017",
       "time": "2026-10-19 10:26:34",
@@ -116570,98 +116617,6 @@
         "公司"
       ],
       "text": "【富信科技：加大通訊、儲能等高景氣度領域資源投入與市場開拓力度】富信科技在10月12日召開的2026年半年度業績說明會上表示，目前，消費電子領域是公司產品的主要應用方向，公司正積極推進產品應用領域的戰略性調整，持續加大在通訊、儲能、汽車等高景氣度領域的資源投入與市場開拓力度。"
-    },
-    {
-      "id": "5138385",
-      "time": "2026-10-12 10:31:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌3%，現報6502.00元。"
-    },
-    {
-      "id": "5138384",
-      "time": "2026-10-12 10:30:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【股票ETF連續5個交易日淨流入774億 10月僅2個交易日流入407億】Wind資料顯示，上週五（10月9日），股票ETF淨流入227.82億元，已連續第5個交易日淨流入。這輪淨流入從9月28日開始，截至目前，區間合計淨流入額已經達到773.97億元。上週2個交易日淨流入額逐日增加，使得10月股票ETF淨流入達到406.89億元，暫時位於年內淨流入第三高的單月。具體到單隻產品，科創50ETF華夏既是上週五淨流入最多的產品（淨流入36.72億元），也是9月28日以來唯一一隻淨流入超百億的（淨流入125.14億元），最新規模969.62億元。創業板ETF易方達近5個交易日淨流入63.9億元，上週五淨流入21.46億元。中證1000ETF南方、科創50ETF易方達、上證指數ETF富國、滬深300ETF華泰柏瑞等淨5個交易日淨流入超20億元。"
-    },
-    {
-      "id": "5138383",
-      "time": "2026-10-12 10:30:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "韓元兌美元一度上漲 0.8%，報 1333.30，隨後漲幅收窄至 0.5%。韓元今年已升值 7.7%。"
-    },
-    {
-      "id": "5138382",
-      "time": "2026-10-12 10:29:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨上漲0.3%，納斯達克100指數期貨上漲0.4%。"
-    },
-    {
-      "id": "mkt:01a12df1-4d1b-7ee0-a82f-9f4588a03d27",
-      "time": "2026-10-12 10:29:10",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "USDJPY",
-        "WTI"
-      ],
-      "text": "【Won hits two-year high as oil slides and corporate dollar sales bolster currency】The South Korean won rallied on Monday to a two-year high, supported by weaker oil prices and heavy dollar selling by domestic corporates. The won rose as much as 0.8% to 1,333.30 per dollar after markets reopened following a three-day holiday, before trimming gains to 0.5%; most Asian currencies also strengthened. Market participants say exporters—particularly semiconductor firms—are continuing to sell dollars, which should keep providing support, though liquidity was light. The won has gained 7.7% YTD, moving from Asia's weakest performer in 1H to one of H2's best performers on the back of strong exports and corporate dollar sales."
-    },
-    {
-      "id": "mkt:01a12df0-62b8-7ee0-a82f-92164ef09f4c",
-      "time": "2026-10-12 10:28:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Yongtai Energy says first‑gen solid cathode material for vanadium flow batteries completes multi‑power system tests】Yongtai Energy told investors on Oct. 12 at its 2026 interim results briefing that its first‑generation, in‑house solid cathode capacity‑enhancing material for vanadium redox flow batteries has completed multi‑power system testing and the company is advancing trial production, pilot runs and preparations for mass production. The company says the material markedly lowers initial electrolyte installation cost and widens system operating temperature range, offering cost and efficiency gains that establish a core technology barrier for its energy-storage business. Separately, Singapore firm Vnergy and a Southwest Chinese chemical group have moved a joint project into the approval stage and are seeking product certification with Singapore’s Agency for Science, Technology and Research (A*STAR)."
-    },
-    {
-      "id": "5138380",
-      "time": "2026-10-12 10:28:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永泰能源：自研釩電池正極固體增容材料已完成多功率系統測試】永泰能源在10月12日召開的2026年半年度業績說明會上表示，公司自主研發的第一代釩電池正極固體增容材料已完成多功率系統測試，目前正在有序推進試生產、中試和量產各項工作。該材料在大幅降低釩電池電解液初裝成本的同時，可有效拓寬系統工作溫度區間，具有顯著的降本增效優勢，形成了公司儲能業務的核心技術壁壘。目前，新加坡Vnergy公司與西南地區有關重點化工集團合作專案進入立項階段，同時聯合新加坡科技研究局等權威機構開展產品認證。"
-    },
-    {
-      "id": "mkt:01a12df0-258a-7ee0-a82f-8f4f5b2920cc",
-      "time": "2026-10-12 10:27:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "300750.SZ",
-        "Impact bullish",
-        "CATL.HK"
-      ],
-      "text": "CATL's A- and H-shares both rose; A-shares up over 1%, H-shares up over 3%."
-    },
-    {
-      "id": "5138379",
-      "time": "2026-10-12 10:27:45",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "財政部就國際會計準則理事會發布的金融工具準則實施後審議意見徵詢稿公開徵求意見。"
-    },
-    {
-      "id": "mkt:01a12def-fc7d-7ee0-a82f-8530f7e1810e",
-      "time": "2026-10-12 10:27:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's Ministry of Finance is seeking public comment on a consultation draft of the International Accounting Standards Board's post-implementation review of the financial instruments standard."
     }
   ]
 }
