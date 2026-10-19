@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-20 05:15:20",
-  "count": 12863,
+  "updated": "2026-10-20 05:19:08",
+  "count": 12864,
   "items": [
+    {
+      "id": "5154546",
+      "time": "2026-10-20 05:18:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "前谷歌執行長Eric Schmidt持有Anthropic約1%的股份。"
+    },
+    {
+      "id": "mkt:01a15605-f6ba-7ee0-a8f0-1c632f83ff70",
+      "time": "2026-10-20 05:16:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【NZ inflation dip likely brief; markets price 25bp RBNZ hike end-October】New Zealand Q3 inflation may ease modestly but the pause is expected to be short-lived. NZD weakness and a spike in oil prices should re-accelerate inflation in Q4; economists now see Q4 CPI as high as 4.7% vs the RBNZ's prior 3.9% projection. Markets say this strengthens the case for further tightening and price a 25bp RBNZ hike at the Oct policy meeting to lift the official cash rate to 3%. BNZ Wellington head of research Stephen Topliss said: \"When the world changes you must change with it. The world now is markedly different from what the RBNZ previously expected, so the central bank should adjust policy accordingly.\""
+    },
+    {
+      "id": "5154545",
+      "time": "2026-10-20 05:15:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.09%，報13332點。"
+    },
     {
       "id": "mkt:01a15602-48d4-7ee0-a8f0-17e3e67a7c3e",
       "time": "2026-10-20 05:12:32",
@@ -117887,22 +117916,6 @@
         "MKT News"
       ],
       "text": "【Yemen government forces say they killed nearly 1,000 Houthi fighters】Government-controlled Saba news agency quoted Yemen government forces spokesman Majid Nuzaily on the 12th saying government forces killed about 950 Houthi fighters in the past 24 hours. He said, as part of \"Operation Yemen Dawn,\" forces carried out 1,879 strikes on Houthi military targets, destroyed about 380 military vehicles, suppressed Houthi firing positions and disrupted their command, control and supply nodes. Airstrikes in Taiz province were said to have hit Houthi reinforcements en route to the front and disrupted attempts to regroup."
-    },
-    {
-      "id": "5140137",
-      "time": "2026-10-13 05:18:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我與俄羅斯的柴油協議對我來說算不上什麼協議，這是為世界其他地區達成的協議。"
-    },
-    {
-      "id": "5140136",
-      "time": "2026-10-13 05:16:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：認為這些集會對共和黨產生了非常積極的推動作用。"
     }
   ]
 }

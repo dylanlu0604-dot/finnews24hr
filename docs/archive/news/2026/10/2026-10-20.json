@@ -1,7 +1,36 @@
 {
   "date": "2026-10-20",
-  "count": 245,
+  "count": 248,
   "items": [
+    {
+      "id": "5154546",
+      "time": "2026-10-20 05:18:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "前谷歌執行長Eric Schmidt持有Anthropic約1%的股份。"
+    },
+    {
+      "id": "mkt:01a15605-f6ba-7ee0-a8f0-1c632f83ff70",
+      "time": "2026-10-20 05:16:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【NZ inflation dip likely brief; markets price 25bp RBNZ hike end-October】New Zealand Q3 inflation may ease modestly but the pause is expected to be short-lived. NZD weakness and a spike in oil prices should re-accelerate inflation in Q4; economists now see Q4 CPI as high as 4.7% vs the RBNZ's prior 3.9% projection. Markets say this strengthens the case for further tightening and price a 25bp RBNZ hike at the Oct policy meeting to lift the official cash rate to 3%. BNZ Wellington head of research Stephen Topliss said: \"When the world changes you must change with it. The world now is markedly different from what the RBNZ previously expected, so the central bank should adjust policy accordingly.\""
+    },
+    {
+      "id": "5154545",
+      "time": "2026-10-20 05:15:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.09%，報13332點。"
+    },
     {
       "id": "mkt:01a15602-48d4-7ee0-a8f0-17e3e67a7c3e",
       "time": "2026-10-20 05:12:32",
