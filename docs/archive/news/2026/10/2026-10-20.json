@@ -1,7 +1,28 @@
 {
   "date": "2026-10-20",
-  "count": 243,
+  "count": 245,
   "items": [
+    {
+      "id": "mkt:01a15602-48d4-7ee0-a8f0-17e3e67a7c3e",
+      "time": "2026-10-20 05:12:32",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish",
+        "LHX.O",
+        "NOC.O"
+      ],
+      "text": "U.S. State Department approved a potential sale of general infrared countermeasure systems to the Netherlands, estimated at $294 mln."
+    },
+    {
+      "id": "5154544",
+      "time": "2026-10-20 05:12:22",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：批准向荷蘭出售通用紅外對抗系統，預計價值 2.94 億美元。"
+    },
     {
       "id": "mkt:01a155fd-c094-7ee0-a8f0-088d4fd65789",
       "time": "2026-10-20 05:07:35",
