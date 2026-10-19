@@ -1,7 +1,78 @@
 {
-  "updated": "2026-10-19 10:20:08",
-  "count": 12732,
+  "updated": "2026-10-19 10:23:53",
+  "count": 12730,
   "items": [
+    {
+      "id": "5153015",
+      "time": "2026-10-19 10:22:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【白酒板塊再度拉昇，順鑫農業漲停】白酒板塊再度拉昇，順鑫農業漲停，古井貢酒、皇臺酒業、山西汾酒、迎駕貢酒、老白乾酒跟漲。"
+    },
+    {
+      "id": "te:markets:592958",
+      "time": "2026-10-19 10:22:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Fall Despite Strong Data — The Shanghai Composite fell 0.5% to 3,699 on Monday, while the Shenzhen Component dropped 0.9% to a two-month low of 11,702, despite signs of improving economic momentum. China’s economy grew 4.5% year-on-year in Q3 2026, from Q2’s three-year low of 4.3% and above market expectations of 4.4%. Growth in the first nine months of the year reached 4.6%, keeping the economy on track to meet the government’s full-year target of 4.5%-5%. Moreover, industrial output picked up to 5.5% in September from 5.2% in August, while retail sales climbed to 1.1% from 0.4%. The surveyed urban unemployment rate also edged down to 5.2% from a five-month high of 5.3%. Both indices fell despite renewed efforts by authorities to support the equity market, including urging companies and state funds to increase share purchases and some investors to curb selling. Notable decliners included SMIC (-3.8%), CATL (-2.8%) and Shennan Circuit (-2.3%)."
+    },
+    {
+      "id": "mkt:01a151f7-352d-7ee0-a8d8-e1b97b6ea2e5",
+      "time": "2026-10-19 10:21:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Chief Cabinet Secretary Kihara said he will not comment on individual cabinet approval polls."
+    },
+    {
+      "id": "mkt:01a151f7-31c8-7ee0-a8d8-ddfab3faede1",
+      "time": "2026-10-19 10:21:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel–Austria flight diverted to Sofia after bomb threat】Austrian Airlines confirmed an A320 operating from Tel Aviv to Vienna was diverted to Sofia late on Oct 18 local time after the crew reported receiving a bomb threat while flying near the Romanian border. An air force fighter jet escorted the aircraft to Sofia, where passengers were evacuated on landing. The flight carried 51 passengers and six crew. Austrian Airlines said the aircraft is being searched and passengers will be rebooked onto alternative flights after the search is completed."
+    },
+    {
+      "id": "5153014",
+      "time": "2026-10-19 10:21:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【全球AI大模型每週Token呼叫榜：階躍星辰Step 5 Preview躋身全球前三，DeepSeek V4 Flash正式版跌出榜單】根據OpenRouter最新資料測算，上週（10月12日至18日）全球AI大模型總呼叫量為164萬億Token，環比下滑4.65%。其中，上榜的AI大模型中，中國AI大模型周呼叫量達79.18萬億Token，環比下滑8.72%；同期美國AI大模型周呼叫量為17.36萬億Token，環比下滑8.49%。中國大模型周呼叫量連續二十五週超過美國，穩居全球首位。上週，全球呼叫量排名前五均為中國AI大模型。其中，DeepSeek V4.1 Flash連續兩週位居第一，周呼叫量達32.8萬億Token，環比下滑20%；智譜GLM 5.3 Flash排名第二，周呼叫量達12.2萬億Token；階躍星辰Step 5 Preview升至第三，周呼叫量達11.5萬億Token，環比增長30%。（每經網）"
+    },
+    {
+      "id": "5153013",
+      "time": "2026-10-19 10:20:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【九部門：深入實施人工智慧中小企業創業支援計劃，推動普惠算力賦能商貿領域人工智慧創業企業】商務部等9部門釋出關於加快推進科技興商的意見。其中提到，夯實數智基礎設施底座。推動商業基礎設施升級改造，加快工業網際網路、雲端計算平臺在商貿領域的應用。深入實施人工智慧中小企業創業支援計劃，推動普惠算力賦能商貿領域人工智慧創業企業。建立一批商貿領域高質量資料集和可信資料空間，推動商業資料、公共資料融合應用與價值釋放。"
+    },
+    {
+      "id": "5153012",
+      "time": "2026-10-19 10:20:10",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【九部門：加速腦機介面、具身智慧等前沿科技成果向市場轉化】商務部等9部門釋出關於加快推進科技興商的意見。其中提到，加快新型顯示、智慧終端等領域關鍵技術研發，拓展典型應用場景、可行商業模式，強化示範推廣。培育建設商業技術應用創新中心。聚焦消費品領域培育一批技術轉移轉化機構，加速腦機介面、具身智慧等前沿科技成果向市場轉化。支援智慧倉儲、數智供應鏈等領域商貿企業申報專精特新企業。"
+    },
+    {
+      "id": "5153011",
+      "time": "2026-10-19 10:19:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【九部門：推廣實施《人工智慧終端智慧化分級》系列國家標準】商務部等9部門釋出關於加快推進科技興商的意見。其中提到，健全商業科技標準體系。推廣實施《人工智慧終端智慧化分級》系列國家標準，加快構建包含各類終端形態的統一標準體系。實施商務領域標準升級行動。開展商貿領域國家標準化試點，探索以標準化支撐商貿創新發展的有效途徑。"
+    },
     {
       "id": "5153010",
       "time": "2026-10-19 10:19:04",
@@ -116585,94 +116656,6 @@
         "國際"
       ],
       "text": "【米爾斯海默：美國在中東沒有制勝戰略】近期，葉門胡塞武裝與支援葉門政府軍的沙烏地阿拉伯之間衝突持續升級，雙方相互發動導彈、無人機襲擊。美國總統特朗普10月10日公開表態“可能會”加入沙特對葉門胡塞武裝的打擊行動，並將“儘快做出決定”。對此，美國芝加哥大學教授約翰·米爾斯海預設為，對葉門胡塞武裝開戰不僅無法破局，反而會讓美國徹底陷入中東雙線泥潭。他指出，美軍2025年春季曾大規模空襲葉門以打擊胡塞武裝，耗時兩個月卻未能擊潰對手，最終只能草草收場、主動撤軍。現在疊加美伊長期對峙、彈藥庫存持續告急的狀況，美國目前完全不具備再度開戰、擊敗胡塞武裝的現實條件。（總檯環球資訊廣播）"
-    },
-    {
-      "id": "5138372",
-      "time": "2026-10-12 10:23:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "之江生物：公司海外收入有望逐步提升。"
-    },
-    {
-      "id": "5138371",
-      "time": "2026-10-12 10:23:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華電新能等成立氫能科技新公司】企查查APP顯示，近日，松原華電康乃爾氫能科技有限公司成立，經營範圍包含新興能源技術研發；儲能技術服務；氣體、液體分離及純淨裝置製造；氣體、液體分離及純淨裝置銷售等。企查查股權穿透顯示，該公司由華電新能等共同持股。"
-    },
-    {
-      "id": "5138370",
-      "time": "2026-10-12 10:23:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【PCB概念股短線拉昇，鵬鼎控股漲停】PCB概念股短線拉昇，鵬鼎控股漲停，弘信電子、威派格、澳弘電子、景旺電子、揚帆新材跟漲。"
-    },
-    {
-      "id": "5138369",
-      "time": "2026-10-12 10:23:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海市產業地圖2026版釋出】10 月 12 日，上海市產業地圖 2026 版在第二十六屆中國國際工業博覽會上正式釋出， 並公佈 30 個 “ 市區協同 ” 千億級產業叢集名單。 產業地圖以上海 “ 十五五 ” 現代化產業體系為骨架， 採用 “ 天地圖 ” 統一空間底圖， 按照 “ 一個產業體系、 一套產業生態、 一組基礎設施 ” 總體架構， 編制總體佈局、 區域佈局、 行業地圖與專題地圖 4 類 4144 組共 100101 張地圖， 涵蓋重點公共平臺近 900 個、 核心專業服務機構近 700 家、 重要政策超 100 個、 產業基礎環節企業超300家。 （第一財經）"
-    },
-    {
-      "id": "mkt:01a12deb-746a-7ee0-a82f-7251e7e019ba",
-      "time": "2026-10-12 10:22:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share helium-related stocks briefly rebounded; Kaimeiteqi hit the daily limit, while Hangyang Co., Zhengfan Technology and Binglun Environment also advanced."
-    },
-    {
-      "id": "5138368",
-      "time": "2026-10-12 10:21:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【半導體裝置概念震盪拉昇 京儀裝備漲近10%】半導體裝置概念震盪拉昇，京儀裝備漲近10%，華峰測控、拓荊科技、託倫斯、中科飛測跟漲。"
-    },
-    {
-      "id": "5138367",
-      "time": "2026-10-12 10:21:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【比亞迪與榮耀戰略合作，共創AI語音融合】比亞迪宣佈，比亞迪與榮耀戰略合作，共創AI語音融合，A2A打通車機與手機語音智慧體，將手機AI能力和服務帶入座艙空間，樹立AI生態融合標杆。"
-    },
-    {
-      "id": "mkt:01a12dea-7247-7ee0-a82f-6f7c798e7b06",
-      "time": "2026-10-12 10:21:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Zhijiang Biological: Overseas revenue expected to rise gradually】At its Oct. 12, 2026 semiannual results briefing, Zhijiang Biological said overseas markets are a strategic priority. In 1H2026 the company secured seven new international certifications. With ongoing deliveries of overseas orders, expanded CE/FDA coverage and deeper distribution channels, it expects overseas revenue to increase gradually, targeting Europe, Africa, the Middle East and Southeast Asia."
-    },
-    {
-      "id": "mkt:01a12de9-fd36-7ee0-a82f-67d684c2d12a",
-      "time": "2026-10-12 10:21:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "【Nomura: Rising US, European yields and credit worries weaken bond investors' risk appetite】Nomura said rising US and European yields and credit‑risk concerns have materially reduced bond investors' risk tolerance. Investors remain willing to bet on higher JGB yields but are cautious about positioning for lower yields or buying duration. After meetings with North American investors Nomura flagged three priorities: the BOJ's terminal rate level, the pace of further tightening, and the risk of Japanese investor fund repatriation; it warned that \"if US and European credit concerns deteriorate further, one must also consider the risk that global rate‑hike expectations could temporarily recede.\""
-    },
-    {
-      "id": "mkt:01a12de9-7055-7ee0-a82f-597ee3ec8730",
-      "time": "2026-10-12 10:20:35",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share semiconductor sector rebounded; Jingyi Equipment rose over 7%, with Helin Weina, Huafeng Cekong, Tuolunsi, Jinhaitong and Fuchuang Precision also gaining."
     }
   ]
 }
