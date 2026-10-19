@@ -1,7 +1,285 @@
 {
   "date": "2026-10-19",
-  "count": 1367,
+  "count": 1397,
   "items": [
+    {
+      "id": "5153511",
+      "time": "2026-10-19 16:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚報告稱其位於伊利諾伊州喬利埃特的煉油廠發生裝置故障。"
+    },
+    {
+      "id": "5153510",
+      "time": "2026-10-19 16:02:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港金融管理局調整高管職能。"
+    },
+    {
+      "id": "mkt:01a1532f-3bc5-7ee0-a8e0-adf1f278830e",
+      "time": "2026-10-19 16:02:46",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) shares rose 3.4% in pre-market trading after JP Morgan upgraded the stock from Underweight to Neutral."
+    },
+    {
+      "id": "5153508",
+      "time": "2026-10-19 16:02:36",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根大通將英特爾股票評級從“減持”上調至“中性”，盤前股價上漲3.4%。"
+    },
+    {
+      "id": "5153507",
+      "time": "2026-10-19 16:02:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正泰電器在呼和浩特成立智算資料服務公司】企查查APP顯示，正泰智算資料服務（呼和浩特）有限公司成立，法定代表人為楊強，註冊資本為1000萬元，經營範圍包含資料處理和儲存支援服務；資訊系統整合服務；智慧控制系統整合；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由正泰電器間接全資持股。"
+    },
+    {
+      "id": "mkt:01a1532e-f1e3-7ee0-a8e0-a3ea8c632f92",
+      "time": "2026-10-19 16:02:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ExxonMobil reported a unit outage at its Joliet, Illinois refinery."
+    },
+    {
+      "id": "5153506",
+      "time": "2026-10-19 16:02:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026金融街論壇年會今日開幕】2026金融街論壇年會10月19日下午在京開幕。本屆年會以“開放•合作•包容——共築全球金融發展新生態”為主題，中國人民銀行行長潘功勝、國家金融監督管理總局局長丁向群、中國證券監督管理委員會主席吳清、國家外匯管理局局長朱鶴新將在開幕式上做主題演講。會議持續到10月22日，將舉辦主論壇、平行論壇等共21場議題活動及金融科技大會、保險大會、投資大會3場專題大會，全球40多個國家和地區的400餘位重要嘉賓出席。此外，本屆論壇年會將實現“3個首次”。首次舉辦非洲分會場活動；首次進行北京、香港、倫敦三地連線；金融監管總局將首次在金融街論壇年會上主辦保險大會。"
+    },
+    {
+      "id": "5153505",
+      "time": "2026-10-19 16:02:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成都發布皮卡車交通管理措施調整徵求意見稿】四川省成都市公安局交通管理局釋出關於徵求《關於調整成都市輕型多用途貨車（皮卡車）交通管理措施的通告（徵求意見稿）》意見的通知。 徵求意見稿提出，機動車行駛證“車輛型別”登記為“輕型多用途貨車”的車輛在成都市行政區域內不受貨車禁、限行措施管控。輕型多用途貨車須按照小型、微型載客汽車“尾號限行”交通管理措施實施尾號限行；高汙染輕型多用途貨車按照高汙染小、微型載客汽車交通管控措施施行禁、限行管控；重汙染天氣預警期間對輕型多用途貨車實施相關尾號限行規定。"
+    },
+    {
+      "id": "mkt:01a1532e-7d0c-7ee0-a8e0-9b56ad0c1451",
+      "time": "2026-10-19 16:01:57",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "S&P 500 E-mini futures rose 0.55%, Nasdaq-100 futures gained 1.11% and Dow Jones futures rose 0.14%."
+    },
+    {
+      "id": "5153504",
+      "time": "2026-10-19 16:01:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500 E-MINI期貨上漲0.55%，納斯達克100期貨上漲1.11%，道指期貨上漲0.14%。"
+    },
+    {
+      "id": "5153503",
+      "time": "2026-10-19 16:01:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前多數上漲，百濟神州漲8%】美股中概股盤前多數上漲，百濟神州漲8%，百度漲0.9%，阿里巴巴漲0.6%，京東漲0.4%，拼多多漲0.2%，百勝中國漲0.1%，網易跌1%。"
+    },
+    {
+      "id": "5153502",
+      "time": "2026-10-19 16:01:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美財長指責澤連斯基散佈不實資訊】針對烏克蘭總統澤連斯基指責美國對烏克蘭軍隊使用的“星鏈”系統實施限速，當地時間10月18日，美國財長貝森特在接受美國全國廣播公司採訪時表示，美國政府沒有任何人下令對烏方使用“星鏈”進行限制，他建議澤連斯基謹慎發言，不要作出這樣的“虛假指控”。美國國務卿魯比奧今天（10月19日）表示，美國並未中斷過與烏克蘭的情報共享。此前，澤連斯基曾表示，美國一度中斷與烏克蘭的情報共享。（CCTV國際時訊）"
+    },
+    {
+      "id": "5153501",
+      "time": "2026-10-19 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤前普跌】禮來跌0.02%，強生跌0.65%，Moderna跌0.34%，諾和諾德跌0.85%，艾伯維跌0.33%，默沙東跌0.13%。"
+    },
+    {
+      "id": "5153500",
+      "time": "2026-10-19 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤前：“七姐妹”普漲】英偉達漲1.54%，蘋果跌0.05%，微軟漲0.47%，谷歌漲0.70%，亞馬遜漲1.17%，Meta漲1.01%，特斯拉漲0.67%。"
+    },
+    {
+      "id": "5153499",
+      "time": "2026-10-19 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前普漲】美光漲2.40%，閃迪漲3.44%，SK海力士漲3.60%，西部資料漲2.03%，希捷科技漲2.18%。"
+    },
+    {
+      "id": "5153498",
+      "time": "2026-10-19 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股盤前普漲】Lumentum漲3.15%，康寧漲2.90%，Coherent漲3.49%，應用光電漲3.99%，Ciena漲4.80%，博通漲2.13%，邁威爾科技漲3.25%。"
+    },
+    {
+      "id": "mkt:01a1532d-6771-7ee0-a8e0-967b3459fb3e",
+      "time": "2026-10-19 16:00:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "London Metal Exchange (LME) inventories — zinc +4,775 tonnes, copper +6,750 tonnes, nickel +120 tonnes; aluminium -1,500 tonnes, lead -1,150 tonnes, tin -50 tonnes."
+    },
+    {
+      "id": "mkt:01a1532d-30af-7ee0-a8e0-8e3d7ee63795",
+      "time": "2026-10-19 16:00:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Germany's DAX and France's CAC 40 fell as much as 1.00% intraday."
+    },
+    {
+      "id": "mkt:01a1532d-306d-7ee0-a8e0-86e146ccd0eb",
+      "time": "2026-10-19 16:00:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME zinc inventory change (Oct.19) | actual 4775 | previous 7225"
+    },
+    {
+      "id": "mkt:01a1532d-2ebb-7ee0-a8e0-7a6e7935c903",
+      "time": "2026-10-19 16:00:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME nickel inventory change (Oct.19) | actual 120 | previous -2076"
+    },
+    {
+      "id": "5153497",
+      "time": "2026-10-19 16:00:32",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行透過傳統方式開啟為期一週的黃金兌里拉賣出側掉期拍賣，規模為7噸。"
+    },
+    {
+      "id": "mkt:01a1532d-13bd-7ee0-a8e0-7093026a19ec",
+      "time": "2026-10-19 16:00:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME aluminum inventory change (Oct.19) | actual -1500 | previous -250"
+    },
+    {
+      "id": "5153496",
+      "time": "2026-10-19 16:00:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鋅庫存增加4775噸，鉛庫存減少1150噸，錫庫存減少50噸，鋁庫存減少1500噸，銅庫存增加6750噸，鎳庫存增加120噸。"
+    },
+    {
+      "id": "mkt:01a1532d-093b-7ee0-a8e0-6a9d9c2b3e60",
+      "time": "2026-10-19 16:00:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME tin inventory change (Oct.19) | actual -50 | previous -95"
+    },
+    {
+      "id": "mkt:01a1532c-f0cd-7ee0-a8e0-60035c087431",
+      "time": "2026-10-19 16:00:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME copper inventory change (Oct.19) | actual 6750 | previous -1175"
+    },
+    {
+      "id": "mkt:01a1532c-ee9d-7ee0-a8e0-5e4bbcd9d5ec",
+      "time": "2026-10-19 16:00:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME lead inventory change (Oct.19) | actual -1150 | previous -525"
+    },
+    {
+      "id": "5153495",
+      "time": "2026-10-19 16:00:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【我國在腦機介面領域實現國際標準新突破】記者今天瞭解到，國際標準化組織（ISO/IEC）釋出了我國牽頭制定的腦機介面參考架構國際標準：《資訊科技 腦機介面 參考架構》。該國際標準由我國專家擔任專案負責人，聯合義大利、韓國、英國、印度、美國、日本、瑞典、芬蘭、澳大利亞、德國等多個國家的專家共同完成制定，是我國在腦機介面國際標準化領域取得的又一項重要成果。隨著腦機介面逐步從科研探索走向醫療、健康消費、工業生產、交通安全等多領域落地應用，統一的基礎架構對於促進技術協同和產業規範發展日益重要。該標準圍繞“腦機介面是什麼、怎麼用、有什麼功能、如何實現”四個核心問題，系統梳理了典型實現模式，形成包括概念、應用、功能和實現的完整技術框架，解決了腦機介面不同技術路線和應用場景在系統組成、功能劃分和實現方式上存在差異的問題。（央視新聞）"
+    },
+    {
+      "id": "te:markets:593088",
+      "time": "2026-10-19 16:00:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Nickel Rebounds From Near 10-Month Low — Nickel traded around $15,400 per tonne, rebounding from its lowest level in nearly ten months as traders closed short positions following the recent decline. At the same time, easing US Treasury yields reduced concerns over tighter financial conditions, offering modest relief to commodity prices. However, high inventories, weak stainless steel demand and increased Indonesian ore supply continued to weigh on the outlook. Indonesia’s lower October nickel ore benchmarks and plans to increase production under supplementary mining quotas reinforced expectations of ample supply. The International Nickel Study Group also projected a 19,000-tonne global surplus in 2026, reversing its previous deficit forecast, with the surplus expected to widen to 70,000 tonnes in 2027. Reduced smelter purchasing further underscored weak underlying demand."
+    },
+    {
+      "id": "te:markets:593087",
+      "time": "2026-10-19 16:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Falls by 2.98% — Top commodity losers are Heating Oil (-2.98%), Brent Oil (-2.46%), Gasoline (-2.40%) and Crude Oil (-1.79%). Gains are led by Natural Gas EU (1.57%) and Natural Gas UK (1.48%)."
+    },
+    {
+      "id": "mkt:01a1532c-cee1-7ee0-a8e0-52d5046e0788",
+      "time": "2026-10-19 16:00:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME aluminum alloy inventory change (Oct.19) | actual 0 | previous 0"
+    },
     {
       "id": "mkt:01a1532b-b1eb-7ee0-a8e0-499f8c4eeef6",
       "time": "2026-10-19 15:58:54",
