@@ -1,7 +1,198 @@
 {
   "date": "2026-10-19",
-  "count": 1419,
+  "count": 1440,
   "items": [
+    {
+      "id": "mkt:01a15337-0385-7ee0-a8e0-f519cdbff477",
+      "time": "2026-10-19 16:11:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS reported a magnitude 5.9 earthquake 185 km northwest of Port-Olry, Vanuatu."
+    },
+    {
+      "id": "5153542",
+      "time": "2026-10-19 16:11:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐派家居：擬1億元-2億元回購股份並登出】歐派家居公告稱，公司擬以集中競價交易方式回購股份，回購資金總額為1.00億元-2.00億元，回購價格上限為46.25元/股，預計回購數量216.21萬股-432.43萬股，佔公司總股本比例為0.36%-0.71%。回購股份將全部用於登出並減少註冊資本，實施期限為股東會及可轉債持有人會議審議透過之日起12個月內，資金來源為自有或自籌資金。本次回購方案尚需公司股東會、可轉換公司債券持有人會議審議透過後方可實施。"
+    },
+    {
+      "id": "5153541",
+      "time": "2026-10-19 16:10:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【大業股份：股票交易異常波動 上半年淨虧損6399.14萬元】大業股份公告稱，公司股票於2026年10月16日、10月19日連續兩個交易日內收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查並問詢控股股東、實際控制人，除已披露事項外，不存在影響公司股票交易異常波動的重大事項，不存在其他應披露而未披露的重大資訊。未發現需要澄清或回應的媒體報道或市場傳聞。公司2026年半年度歸屬於上市公司股東的淨虧損6399.14萬元，提醒投資者注意經營業績虧損及二級市場投資風險。"
+    },
+    {
+      "id": "te:markets:593094",
+      "time": "2026-10-19 16:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Gains by 2.05% — Top commodity gainers are Palm Oil (2.05%), Oat (1.13%) and Rubber (0.67%). Biggest loser is Canola (-0.54%)."
+    },
+    {
+      "id": "mkt:01a15335-d5c7-7ee0-a8e0-eb8737819967",
+      "time": "2026-10-19 16:09:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's prime minister said MP Helen Haines was attacked outside her office today."
+    },
+    {
+      "id": "5153540",
+      "time": "2026-10-19 16:09:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南礦業：執行總裁吳旭春因工作安排離任】海南礦業公告稱，公司董事會於2026年10月19日收到執行總裁吳旭春提交的書面辭職報告，吳旭春因工作安排原因申請辭去執行總裁職務，辭職報告自送達董事會之日起生效，離任後仍擔任公司資深顧問。吳旭春原定任期至2028年11月27日，其直接持有公司股票678670股，佔公司總股本的0.0342%，辭去執行總裁職務不會影響公司正常生產經營和管理。"
+    },
+    {
+      "id": "5153539",
+      "time": "2026-10-19 16:09:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠景能源、粵澳半導體產業投資等成立股權投資合夥企業】企查查APP顯示，近日，浙江遠景潮湧股權投資合夥企業（有限合夥）成立，出資額3億元，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由遠景能源有限公司、廣東粵澳半導體產業投資私募基金管理合夥企業（有限合夥）等共同持股。"
+    },
+    {
+      "id": "5153538",
+      "time": "2026-10-19 16:09:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：萬那杜奧爾里港西北 185 公里處發生 5.9 級地震。"
+    },
+    {
+      "id": "mkt:01a15335-46d6-7ee0-a8e0-e26f94a94cfb",
+      "time": "2026-10-19 16:09:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "UBS now expects the ECB to follow a December rate rise with a 25bp hike in March 2027. The bank had previously forecast the current tightening cycle would end in December."
+    },
+    {
+      "id": "mkt:01a15335-29c1-7ee0-a8e0-da8e6d4fe873",
+      "time": "2026-10-19 16:09:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Association of Communications Enterprises seeks comments on two group standards including IoT AI‑eSIM technical requirements】Oct 19 — The China Association of Communications Enterprises has solicited public comments on two group standards, including IoT AI‑eSIM Technical Requirements (project no. CAICI2026‑15). The draft was prepared with participation from Xingsheng Technology Co., Ltd.; Unicom Huasheng Communications Co., Ltd.; Tianyi IoT Technology Co., Ltd.; China Telecom Co., Ltd. All‑Channel Operations Center; China Mobile Research Institute; China Mobile IoT Co., Ltd.; Huawei Technologies Co., Ltd.; and Ziguang Tongxin Microelectronics Co., Ltd."
+    },
+    {
+      "id": "5153537",
+      "time": "2026-10-19 16:08:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "瑞銀全球研究預計，繼12月加息後，歐洲央行將在2027年3月加息25個基點，此前預測加息週期將於12月結束。"
+    },
+    {
+      "id": "mkt:01a15334-b931-7ee0-a8e0-d199db6f8b8e",
+      "time": "2026-10-19 16:08:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Yushu Technology to host 2026 World Physical AI conference and partner ecosystem event on Oct 22】Yushu Technology will hold the 2026 World Physical AI Conference and a partner ecosystem meeting on Oct 22. On Oct 19 the stock surged as much as 17% intraday, climbed above 500.00 yuan, and closed at 495.92 yuan, restoring market capitalization to roughly CNY200 billion."
+    },
+    {
+      "id": "5153536",
+      "time": "2026-10-19 16:08:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞總理：議員海倫·海恩斯今天在辦公室外遭到襲擊。"
+    },
+    {
+      "id": "5153535",
+      "time": "2026-10-19 16:08:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國通訊企業協會對《物聯網AI-eSIM技術要求》等2項團體標準徵求意見】10月19日，據中國通訊企業協會訊息，協會已對《物聯網AI-eSIM技術要求》等2項團體標準徵求意見。\n標準1：《物聯網AI-eSIM技術要求》（立項編號：CAICI 2026-15），由芯昇科技有限公司、聯通華盛通訊有限公司、天翼物聯科技有限公司、中國電信股份有限公司全渠道運營中心、中國行動通訊有限公司研究院、中移物聯網有限公司、華為技術有限公司、紫光同芯微電子有限公司等單位參與編制。\n標準2：《應急通訊裝備 總體操作及維護規程》（立項編號：CAICI 2025-15），由中國通訊企業協會通訊網路運營專業委員會、中國資訊通訊研究院、浙江郵電職業技術學院、中國鐵塔股份有限公司等單位參與編制。"
+    },
+    {
+      "id": "mkt:01a15333-d8e4-7ee0-a8e0-cdb93a130bef",
+      "time": "2026-10-19 16:07:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Ukraine's Defense Ministry said Russia launched 16 ballistic missiles at Kyiv and the Kyiv region overnight and deployed more than 200 drones across Ukraine, including jet-powered Shahed models. Energy infrastructure was the primary target, but a clinic, a school, a metro station and residential buildings were also struck."
+    },
+    {
+      "id": "5153534",
+      "time": "2026-10-19 16:07:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆通股份：2026年第三季度淨利潤7866.32萬元，同比增長2.74%】恆通股份公告，2026年第三季度營業收入3.13億元，同比下降17.99%；歸母淨利潤7866.32萬元，同比增長2.74%；扣非淨利潤7579.04萬元，同比下降0.35%。2026年前三季度營業收入10.33億元，同比下降1.66%；歸母淨利潤2.63億元，同比增長49.47%；扣非淨利潤2.59億元，同比增長51.00%。前三季度利潤增長主要因裕龍港務碼頭業務量同比增加、運轉效率提高。"
+    },
+    {
+      "id": "5153533",
+      "time": "2026-10-19 16:07:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【宇樹科技將舉辦2026世界物理AI大會暨宇樹合作伙伴生態大會】10月22日，宇樹科技將舉辦2026世界物理AI大會暨宇樹合作伙伴生態大會。公開資料顯示，本次大會主題為“宇十俱進，樹業共生”，將包括3000餘名嘉賓、4000餘平方米主論壇區域、40餘個展示專區。10月19日，宇樹科技盤中漲超17%，一度股價超過500元/股，截至收盤，總市值重回2000億元，報495.92元/股。"
+    },
+    {
+      "id": "5153532",
+      "time": "2026-10-19 16:07:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南山鋁業：控股股東一致行動人完成股份解質押及再質押】南山鋁業公告稱，公司控股股東南山集團的一致行動人怡力電業，於2026年10月15日解除質押給渤海國際信託的2.40億股公司股份，佔公司總股本2.09%；並於2026年10月16日將2.40億股公司股份質押給興業國際信託，佔公司總股本2.09%，質押用途為日常經營，質押到期日為2027年10月19日。本次業務完成後，南山集團累計質押股份10.23億股，佔公司總股本8.91%；怡力電業累計質押股份11.26億股，佔公司總股本9.80%。二者合計質押股份21.49億股，佔公司總股本18.71%，質押風險可控，不會導致公司實際控制權變更。"
+    },
+    {
+      "id": "5153531",
+      "time": "2026-10-19 16:07:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南山鋁業：調整回購股份價格上限至不超7.12元/股】南山鋁業公告稱，因實施2026年半年度權益分派，公司回購股份價格上限由不超過7.38元/股調整為不超過7.12元/股，調整起始日為2026年10月15日。本次回購總金額不低於3億元、不超過6億元，回購期限為2026年1月9日至2027年1月8日，回購股份將用於登出並減少註冊資本，除上述調整外其他回購事項無變化。"
+    },
+    {
+      "id": "5153530",
+      "time": "2026-10-19 16:07:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧浦邁：2026年半年度每10股派發現金紅利2元（含稅）】奧浦邁公告稱，公司2026年半年度權益分派方案已獲2025年年度股東會審議透過。本次分配以方案實施前總股本142,477,399股為基數，每股派發現金紅利0.20元（含稅），共計派發現金紅利2849.55萬元。股權登記日為2026年10月26日，除權（息）日及現金紅利發放日為2026年10月27日。"
+    },
+    {
+      "id": "5153529",
+      "time": "2026-10-19 16:07:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【韓建河山：控股股東所持全部股份被司法凍結】韓建河山公告稱，公司控股股東韓建集團持有公司股份1.34億股，佔公司總股本34.53%。本次韓建集團所持已質押股份新增司法凍結1.15億股，佔其所持股份86.11%、佔公司總股本29.73%；新增輪候凍結1856.50萬股，佔其所持股份13.89%、佔公司總股本4.79%。截至公告日，韓建集團所持公司股份累計司法凍結1.34億股，佔其所持股份100%、佔公司總股本34.53%；累計輪候凍結1856.50萬股。凍結原因系韓建集團未完全履行生效裁判文書義務被申請強制執行。目前公司生產經營正常，該事項暫未對公司產生影響。"
+    },
     {
       "id": "5153528",
       "time": "2026-10-19 16:07:14",
