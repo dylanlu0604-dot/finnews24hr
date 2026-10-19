@@ -1,7 +1,139 @@
 {
-  "updated": "2026-10-19 15:56:02",
-  "count": 12963,
+  "updated": "2026-10-19 15:59:58",
+  "count": 12962,
   "items": [
+    {
+      "id": "mkt:01a1532b-b1eb-7ee0-a8e0-499f8c4eeef6",
+      "time": "2026-10-19 15:58:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin spokesman Peskov said all Russian deputy prime ministers will continue to carry out their duties until President Putin issues the relevant decree."
+    },
+    {
+      "id": "5153494",
+      "time": "2026-10-19 15:58:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽貨運通行量暴跌情況加劇】據報道，霍爾木茲海峽商船遇襲事件表明，這條航道受干擾帶來的影響已經超出能源危機範疇，普通貨輪遭受的衝擊程度不亞於油輪。普通貨輪通行量大幅下滑的現象尤為突出。6月為期90天的停火協議生效後曾短暫出現航運活動回暖，這一短暫復甦慘痛地提醒航運商，航道恢復常態至關重要。擾動持續推高航運成本，不過當前成本水平仍低於疫情後的峰值。風險在於，高昂成本或將成為新常態，進而推高成品商品價格。運價暴漲的主要原因是，波斯灣貿易運輸需要調配更多油輪，同時伊朗發起襲擊帶來的風險持續上升。"
+    },
+    {
+      "id": "mkt:01a1532b-3a8f-7ee0-a8e0-4030e18c4816",
+      "time": "2026-10-19 15:58:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "MOFCOM assistant minister Yuan Xiaoming said at a State Council Information Office briefing that MOFCOM data show sales revenue for smart glasses on major platforms rose 110% in Jan–Sep."
+    },
+    {
+      "id": "5153493",
+      "time": "2026-10-19 15:58:18",
+      "tags": [
+        "市場",
+        "其他"
+      ],
+      "text": "歐元兌瑞郎跌至0.9227，創三個月新低。"
+    },
+    {
+      "id": "5153492",
+      "time": "2026-10-19 15:58:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美伊衝突以來氦氣價格已翻三倍】卡達拉斯拉凡工廠是全球主要的氦氣供應商之一，但其在美伊衝突早期遭遇襲擊並被迫停產，卡達稱該設施至少需要三年才能全面恢復運營。業內人士強調，自衝突爆發以來，氦氣現貨價格已經翻了三倍。"
+    },
+    {
+      "id": "mkt:01a1532a-f286-7ee0-a8e0-3f1c8a457b8e",
+      "time": "2026-10-19 15:58:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EUR/CHF fell to 0.9227, a three-month low."
+    },
+    {
+      "id": "5153491",
+      "time": "2026-10-19 15:57:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏克蘭稱基輔一資料中心遭俄襲擊】烏克蘭Datagroup公司19日通報，俄羅斯使用彈道導彈摧毀了基輔“Datagroup”資料中心。宣告稱襲擊導致裝置及基礎設施全部癱瘓，資料中心已無法修復，也無法繼續運營，沒有員工受傷。該公司表示將繼續透過備用站點向客戶提供服務。（央視新聞）"
+    },
+    {
+      "id": "5153490",
+      "time": "2026-10-19 15:57:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：1—9月重點平臺智慧眼鏡銷售額增長1.1倍】10月19日，商務部部長助理袁曉明在國新辦新聞釋出會上介紹，商務部商務大資料顯示，1—9月重點平臺智慧眼鏡銷售額增長1.1倍。"
+    },
+    {
+      "id": "5153489",
+      "time": "2026-10-19 15:56:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾為電子：多款自研晶片應用於Meta系列產品，艾為方案已覆蓋超90%的AI眼鏡主流品牌】10月19日，艾為電子（688798.SH）在互動平臺表示，艾為作為國內數模混合的龍頭企業，目前，艾為方案已覆蓋包含Meta（META.US）在內的超90%的AI眼鏡主流品牌，憑藉廣泛的品牌覆蓋與全鏈路晶片能力，被業內譽為“AI眼鏡小王子”。"
+    },
+    {
+      "id": "5153488",
+      "time": "2026-10-19 15:56:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "佩斯科夫宣佈，所有俄羅斯副總理將繼續履行職責，直至普京釋出相應的總統令。"
+    },
+    {
+      "id": "5153487",
+      "time": "2026-10-19 15:56:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰勝風能：公司航天廣州基地專案仍在前期籌備階段，尚未開始建設】泰勝風能10月19日在互動平臺表示，泰勝航天東臺基地於2026年6月下旬順利竣工並正式投產，首件火箭貯箱鑑定件同步下線。公司航天廣州基地專案目前已完成前期論證及選址工作，公司將根據市場情況及審批進展，有序推進該專案的落地，廣州基地目前仍在前期籌備階段，尚未開始建設，實際形成產能的具體時間存在不確定性，且該業務佔公司現有在執行訂單的比例較小，請注意投資風險。"
+    },
+    {
+      "id": "mkt:01a15329-00ed-7ee0-a8e0-3424ab322868",
+      "time": "2026-10-19 15:55:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "US dollar index (DXY) breached 102, rising 0.22% intraday."
+    },
+    {
+      "id": "mkt:01a15328-b6bb-7ee0-a8e0-2c085f7ae082",
+      "time": "2026-10-19 15:55:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "UN Secretary-General Guterres said the global financial architecture has failed to adequately support and represent developing countries."
+    },
+    {
+      "id": "5153486",
+      "time": "2026-10-19 15:55:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣深鐵路：累計回購A股股份金額達8999.34萬元】廣深鐵路公告稱，公司擬使用1億元自有資金以集中競價方式回購A股股份，用於登出減少註冊資本，回購價格不超4.53元/股，回購期限為2026年6月10日至2027年6月9日。2026年10月19日，公司回購A股股份958.78萬股，佔總股本0.14%，成交均價區間3.11元/股-3.14元/股，支付金額2999.77萬元。截至2026年10月19日，公司累計回購A股股份2960.01萬股，佔總股本0.42%，成交價格區間2.96元/股-3.14元/股，累計支付金額8999.34萬元。"
+    },
+    {
+      "id": "5153485",
+      "time": "2026-10-19 15:55:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佰仁醫療：微創可預置免縫合主動脈瓣系統進入創新醫療器械特別審查程式】佰仁醫療公告稱，公司自主研發的第三類醫療器械微創可預置免縫合主動脈瓣系統，獲國家藥監局醫療器械技術審評中心同意，進入創新醫療器械特別審查程式。該產品補全公司在微創主動脈瓣置換與免縫瓣領域的佈局，可解決主動脈根部狹小患者的嚴重PPM問題，有望縮短註冊週期，但產品仍需經審評審批後方可上市，對公司近期業績的影響存在不確定性。"
+    },
     {
       "id": "5153484",
       "time": "2026-10-19 15:55:27",
@@ -118668,153 +118800,6 @@
         "其他"
       ],
       "text": "【黃仁勳稱中國AI模型“足夠優秀”，看好開源推動AI效率提升】據報道，在星展銀行（DBS）週一舉辦的一場論壇上，黃仁勳表示，中國AI模型（包括DeepSeek、Kimi和GLM）的表現“已經足夠優秀”。他說：“我是開源的堅定支持者，這是推動效率提升的最佳方式。”他補充稱，市場將決定哪些模型最適合不同應用場景。黃仁勳還表示，量子計算可能在未來3至5年內進入主流應用，而軟體將在推動相關基礎設施高效利用方面發揮重要作用。"
-    },
-    {
-      "id": "5138924",
-      "time": "2026-10-12 15:59:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬泰生物：萬泰滄海RSV疫苗獲准開展60歲及以上人群臨床試驗】萬泰生物公告，公司此前披露，凍乾重組呼吸道合胞病毒疫苗（CHO細胞）臨床試驗申請已於2026年7月獲得受理。近日，子公司萬泰滄海收到國家藥監局核准簽發的《藥物臨床試驗批准通知書》，同意開展預防60歲及以上人群由RSV感染引起的下呼吸道疾病的臨床試驗，通知書編號為2026LP03060。"
-    },
-    {
-      "id": "5138923",
-      "time": "2026-10-12 15:59:42",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "沙烏地阿拉伯延長利雅得機場的停運期限。"
-    },
-    {
-      "id": "5138922",
-      "time": "2026-10-12 15:59:31",
-      "tags": [
-        "行業",
-        "其他"
-      ],
-      "text": "【世界鋼鐵協會：預計2026年全球鋼鐵需求量與2025年基本持平】世界鋼鐵協會今日釋出2026—2027年短期鋼鐵需求預測報告，該報告預計2026年全球鋼鐵需求量與2025年基本持平，為17.22億噸，2027年將恢復性增長1.7%至17.52億噸。"
-    },
-    {
-      "id": "mkt:01a12f1f-98b4-7ee0-a836-4b6be0430843",
-      "time": "2026-10-12 15:59:22",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【Jensen Huang says Chinese AI models 'good enough', backs open source to boost AI efficiency】At a DBS Group forum on Monday, NVIDIA CEO Jensen Huang said Chinese AI models including DeepSeek, Kimi and GLM are \"already good enough\" and called himself a strong supporter of open source as the best way to raise AI efficiency. He said the market will decide which models fit specific applications. Huang added that quantum computing could reach mainstream use within three to five years and that software will be critical to driving efficient use of related infrastructure."
-    },
-    {
-      "id": "5138921",
-      "time": "2026-10-12 15:59:16",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "財政部發布關於就國際會計準則理事會發布的金融工具準則實施後審議意見徵詢稿公開徵求意見的函。"
-    },
-    {
-      "id": "5138920",
-      "time": "2026-10-12 15:59:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "渣打銀行：渣打銀行推出RLUSD託管服務，並加入與瑞波和LMAX集團計劃中的抵押品整合專案。"
-    },
-    {
-      "id": "5138919",
-      "time": "2026-10-12 15:58:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "斯泰蘭蒂斯技術長表示，該集團將在義大利波米利亞諾工廠基於其純電平臺打造小型純電動汽車。"
-    },
-    {
-      "id": "5138918",
-      "time": "2026-10-12 15:58:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【王堅回憶此前不知道杭州有宇樹：機器人行業已處於快速迭代週期，重要的是找到真正能做的事】10月12日，王堅院士在工博會上回憶起此前不知道杭州有宇樹。他表示，機器人行業已處於快速迭代週期，重要的是找到機器人真正能做的事。（澎湃新聞）"
-    },
-    {
-      "id": "mkt:01a12f1e-224a-7ee0-a836-45d444e0150b",
-      "time": "2026-10-12 15:57:46",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "0700.HK",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【Tencent plans roughly $5bn bond sale to fund AI capex, mainly chip purchases】People familiar with the matter told foreign media Tencent told fixed-income investors on Monday it plans to issue about $5bn of bonds to fund AI-related capital expenditure, with proceeds largely earmarked for chip procurement. The deal could price as soon as Tuesday and comprises $1.5–2.0bn of USD notes and 20–25bn yuan of offshore RMB (CNH) bonds, about $3.0–3.7bn. Management said net proceeds will be used for general corporate purposes, including AI capex, most of which will go toward buying chips."
-    },
-    {
-      "id": "mkt:01a12f1e-1420-7ee0-a836-38365dd9c042",
-      "time": "2026-10-12 15:57:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【SAFE: Zhu Hexin to attend 2026 Financial Street Forum opening, deliver keynote】At an Oct. 12 press briefing, Chen Zhiwei, director of SAFE’s Foreign Exchange Research Center, said PBOC Deputy Governor and SAFE Director Zhu Hexin will attend the opening ceremony of the 2026 Financial Street Forum annual meeting on Oct. 22 and deliver a keynote speech. SAFE will host a special session on the morning of Oct. 22. The forum will focus on frontier issues in international trade and economics and feature invited speakers offering diverse perspectives."
-    },
-    {
-      "id": "5138917",
-      "time": "2026-10-12 15:57:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博暉創新：獲得結核分枝桿菌相關檢測試劑盒醫療器械註冊證】博暉創新公告稱，公司近日獲得國家藥品監督管理局頒發的Ⅲ類《醫療器械註冊證（體外診斷試劑）》，產品為結核分枝桿菌複合群及利福平、異煙肼耐藥基因突變檢測試劑盒（晶片雜交法），註冊證有效期為2026年10月9日至2031年10月8日。該註冊證的取得豐富了公司產品種類，有利於提升核心競爭力與市場拓展能力，產品實際銷售情況存在不確定性。"
-    },
-    {
-      "id": "5138916",
-      "time": "2026-10-12 15:57:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【羅牛山：9月生豬銷售收入9190.01萬元 同比降22.28%】羅牛山公告稱，2026年9月銷售生豬8.23萬頭，環比增長14.75%，同比增長31%；銷售收入9190.01萬元，環比下降1.99%，同比下降22.28%。2026年1-9月，累計銷售生豬68.01萬頭，同比增長38.79%；累計銷售收入8.35億元，同比下降8.97%。生豬銷量同比上升主要系部分豬場產能釋放、最佳化出欄節奏、擴大出欄規模。"
-    },
-    {
-      "id": "5138915",
-      "time": "2026-10-12 15:57:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華能水電：2026年前三季度發電量同比增0.08%】華能水電公告稱，截至2026年9月30日，公司2026年前三季度完成發電量963.41億千瓦時，同比增加0.08%；完成上網電量955.28億千瓦時，同比增加0.04%。瀾滄江流域來水整體同比減少近一成，公司透過梯級電站最佳化執行應對，硬梁包水電站全投產、瑞麗江水電站恢復執行、新能源裝機增長帶動發電量提升。"
-    },
-    {
-      "id": "5138914",
-      "time": "2026-10-12 15:57:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中創股份澄清：公司與北京全網數商公司沒有合作關係】有投資者向中創股份（688695.SH）提問，請問公司有跟北京全網數商公司合作嗎？10月12日，公司回答表示，公司與北京全網數商公司沒有合作關係。"
-    },
-    {
-      "id": "5138913",
-      "time": "2026-10-12 15:56:19",
-      "tags": [
-        "焦點"
-      ],
-      "text": "【國家外匯局：朱鶴新將出席2026金融街論壇年會開幕式並發表主旨演講】國家外匯管理局外匯研究中心主任陳之為在10月12日召開的2026金融街論壇年會新聞釋出會上表示，中國人民銀行副行長、國家外匯管理局局長朱鶴新將出席2026金融街論壇年會開幕式並發表主旨演講。按照組委會安排，國家外匯局將於10月22日上午主辦專場活動，為匯聚全球智慧，共商發展大計。此次論壇彙集將當前國際經貿領域前沿性熱點問題，邀請嘉賓從不同角度發表演講。"
-    },
-    {
-      "id": "5138912",
-      "time": "2026-10-12 15:56:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【輝瑞減肥藥埃諾格魯肽在國內獲批2型糖尿病適應證】10月12日，輝瑞宣佈，經國家藥品監督管理局批准，埃諾格魯肽注射液（商品名：先維盈，規格2.0mg/ml, 1.2ml，預填充注射筆）增加成人2型糖尿病適應證。"
     }
   ]
 }
