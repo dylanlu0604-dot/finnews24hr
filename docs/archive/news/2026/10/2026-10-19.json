@@ -1,7 +1,38 @@
 {
   "date": "2026-10-19",
-  "count": 1820,
+  "count": 1823,
   "items": [
+    {
+      "id": "mkt:01a154a4-f583-7ee0-a8eb-58655179750a",
+      "time": "2026-10-19 22:50:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "EURUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spain's IBEX 35 index fell 2.00% intraday."
+    },
+    {
+      "id": "mkt:01a154a4-44ab-7ee0-a8eb-56f0760d3b80",
+      "time": "2026-10-19 22:50:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's defense minister met with the Islamic Revolutionary Guard Corps air force commander to assess requested needs and align them with the defense ministry's ongoing programs."
+    },
+    {
+      "id": "5154326",
+      "time": "2026-10-19 22:50:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "保加利亞就星鏈天線起火事件對兩名德國人提出指控。"
+    },
     {
       "id": "5154325",
       "time": "2026-10-19 22:46:04",
