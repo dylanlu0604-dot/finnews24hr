@@ -1,7 +1,236 @@
 {
-  "updated": "2026-10-19 09:57:32",
-  "count": 12613,
+  "updated": "2026-10-19 10:01:18",
+  "count": 12627,
   "items": [
+    {
+      "id": "5152944",
+      "time": "2026-10-19 10:00:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【種植業與林業板塊重挫，萬向德農跌超8%】種植業與林業板塊重挫，萬向德農跌超8%，新賽股份、敦煌種業、秋樂種業、亞盛集團跟跌。"
+    },
+    {
+      "id": "mkt:01a151e3-77ab-7ee0-a8d7-115df6c083ab",
+      "time": "2026-10-19 10:00:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's GDP grew 4.6% YoY in the first three quarters of 2026, the National Bureau of Statistics reported."
+    },
+    {
+      "id": "mkt:01a151e3-6d54-7ee0-a8d7-0cada66c58c6",
+      "time": "2026-10-19 10:00:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Copper"
+      ],
+      "text": "China year-to-date urban fixed-asset investment YoY -7.2% in September; consensus -7.3%, prior -7.2%."
+    },
+    {
+      "id": "mkt:01a151e3-6c70-7ee0-a8d7-00a31d601e7d",
+      "time": "2026-10-19 10:00:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Saudi: Houthi projectile hits Najran residential area, six injured】Saudi Arabia’s Civil Defense said on the 18th a projectile launched by Yemen’s Houthi group landed in a residential area of Najran in the kingdom’s southwest, injuring six Saudi citizens and damaging three houses and three cars. Saudi forces and Houthi fighters have recently stepped up reciprocal strikes, and clashes between Houthi forces and Yemen government troops have intensified on multiple fronts."
+    },
+    {
+      "id": "5152943",
+      "time": "2026-10-19 10:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國9月城鎮調查失業率 5.2%，預期5.30%，前值5.30%。"
+    },
+    {
+      "id": "mkt:01a151e3-5942-7ee0-a8d6-f829d2bb1eb0",
+      "time": "2026-10-19 10:00:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "China retail sales of consumer goods YoY 1.1% in September, versus expected 0.6% and prior 0.4%."
+    },
+    {
+      "id": "mkt:01a151e3-5912-7ee0-a8d6-f75c699371a2",
+      "time": "2026-10-19 10:00:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "CSI300"
+      ],
+      "text": "China industrial output for enterprises above designated size rose 5.5% YoY in September, matching the 5.5% consensus and up from 5.2% previously."
+    },
+    {
+      "id": "mkt:01a151e3-586f-7ee0-a8d6-ef06b8b72381",
+      "time": "2026-10-19 10:00:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Stock Exchange weighted index fell more than 2%."
+    },
+    {
+      "id": "mkt:01a151e3-581b-7ee0-a8d6-e100182f01e0",
+      "time": "2026-10-19 10:00:16",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "China September urban surveyed unemployment rate 5.2% (consensus 5.3%, August 5.3%)."
+    },
+    {
+      "id": "5152942",
+      "time": "2026-10-19 10:00:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國9月今年迄今城鎮固定資產投資同比 -7.2%，預期-7.30%，前值-7.20%。"
+    },
+    {
+      "id": "5152941",
+      "time": "2026-10-19 10:00:11",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中國9月社會消費品零售總額同比 1.1%，預期0.6%，前值0.40%。"
+    },
+    {
+      "id": "5152940",
+      "time": "2026-10-19 10:00:07",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中國9月規模以上工業增加值同比 5.5%，預期5.5%，前值5.20%。"
+    },
+    {
+      "id": "mkt:01a151e3-1ba4-7ee0-a8d6-d8f46ad19a78",
+      "time": "2026-10-19 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Urban Survey Unemployment Rate (Sep) | actual 5.2% | consensus 5.30% | previous 5.30%"
+    },
+    {
+      "id": "mkt:01a151e3-1b97-7ee0-a8d6-d388acf16f7d",
+      "time": "2026-10-19 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Retail Sales (YoY) (Sep) | actual 1.1% | consensus 0.6% | previous 0.40%"
+    },
+    {
+      "id": "mkt:01a151e3-1b96-7ee0-a8d6-c842eb3a48f6",
+      "time": "2026-10-19 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Urban Fixed Asset Investment YTD (YoY) (Sep) | actual -7.2% | consensus -7.30% | previous -7.20%"
+    },
+    {
+      "id": "mkt:01a151e3-1b5a-7ee0-a8d6-c37181bbc992",
+      "time": "2026-10-19 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Industrial Value Added of Enterprises Above Designated Size (YoY) (Sep) | actual 5.5% | consensus 5.5% | previous 5.20%"
+    },
+    {
+      "id": "5152939",
+      "time": "2026-10-19 09:59:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣股市下跌超過2%。"
+    },
+    {
+      "id": "te:markets:592935",
+      "time": "2026-10-19 09:59:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Extend Advance — European natural gas prices rose further above €88 per megawatt-hour on Monday, the highest since December 2022, as limited Gulf LNG supplies continue to hamper the EU’s efforts to replenish depleted gas storage ahead of winter. Europe’s gas storage levels have risen steadily in recent weeks, reaching 74.31% of capacity as of October 18, but remain below typical levels for this time of year. Ongoing tensions and security threats in the Middle East have fueled concerns about shipping safety and tighter global energy supplies. LNG flows from the region remain about 80% lower than last year’s levels. This sets the stage for intensified competition between Asia and Europe, the world’s two largest LNG-importing regions, for available cargoes as winter approaches. Prices remain vulnerable to further spikes in the event of a colder winter and sustained supply disruptions."
+    },
+    {
+      "id": "5152938",
+      "time": "2026-10-19 09:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東方證券：我國工程機械出海競爭力壁壘高 外部政策擔憂影響有限】東方證券釋出研報稱，中國工程機械企業出海的競爭力持續加強，主要依靠產品優勢和解決方案服務優勢，而非簡單的政策影響。且中國企業持續加強海外屬地化銷售和服務體系建設，該行認為企業競爭力將持續支援市場份額提升，繼續看好板塊出海的中長期投資機會。"
+    },
+    {
+      "id": "5152937",
+      "time": "2026-10-19 09:58:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【新臺幣盤初回貶至一年半來低點 股匯短線續受AI疑慮拖累】市場對AI產業發展的擔憂在上週五衝擊美股，費城半導體指數連跌8天，而彭博美元指數也隨之下跌。臺股週一重拾跌勢至逾一個月低點，新臺幣隨之承壓而回貶至32.53附近，為2025年4月以來最弱水平。短線持續關注上週大舉賣股的外資動向。不過，分析師表示，基本面因素有利於臺幣在年底前反彈。"
+    },
+    {
+      "id": "5152936",
+      "time": "2026-10-19 09:58:12",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金：維持阿里巴巴-W“跑贏行業”評級 目標價172港元】中金髮布研報稱，維持阿里巴巴-W收入和利潤預測，維持“跑贏行業”評級，港股和美股目標價分別為172港元和178美元，較目前股價分別有58%和60%的上行空間。該行看好公司雲端計算和AI成長空間。目前，公司港股和美股分別對應FY27 16倍和16倍、FY28 11倍和11倍非通用準則市盈率。"
+    },
+    {
+      "id": "5152935",
+      "time": "2026-10-19 09:57:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率<JP10YTN=JBTC>下跌3.5個基點，至2.895%。"
+    },
+    {
+      "id": "5152934",
+      "time": "2026-10-19 09:57:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.03%，成分股中，蘅東光跌7.02%，民士達跌6.58%，同惠電子跌4.94%，天力複合跌4.83%。"
+    },
     {
       "id": "mkt:01a151df-ad6c-7ee0-a8d6-bfadf09491ab",
       "time": "2026-10-19 09:56:15",
@@ -115357,82 +115586,6 @@
         "Greater China"
       ],
       "text": "【Supreme People's Court, PBOC, National Financial Regulatory Administration and CSRC publish six model cases on financial consumer and investor protection】Today the Supreme People's Court, the People's Bank of China (PBOC), the National Financial Regulatory Administration and the China Securities Regulatory Commission jointly issued six model cases aimed at protecting financial consumers' and investors' legal rights. The cases cover financial lending, fund and wealth management, digital finance, life insurance and securities investment, and concentrate on: strengthening disclosure obligations for standard-form clauses; enforcing institutional responsibility for suitability management and seller due diligence; removing technical barriers to ensure consumers' choice of remedial procedures; and promoting coordinated governance via multi-track substantive dispute-resolution mechanisms."
-    },
-    {
-      "id": "mkt:01a12dd7-bd59-7ee0-a82f-03b18fe8be4b",
-      "time": "2026-10-12 10:01:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's Premier Li Qiang to deliver keynote at 140th Canton Fair opening】MOFCOM spokesperson He Yadong announced the 140th Canton Fair will run Oct. 15–Nov. 4, 2026, in Guangzhou. China's Premier Li Qiang will attend the opening ceremony and deliver a keynote."
-    },
-    {
-      "id": "5138339",
-      "time": "2026-10-12 10:01:14",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【李強將出席第140屆廣交會開幕式及相關活動】商務部新聞發言人何亞東宣佈：第140屆廣交會將於2026年10月15日至11月4日在廣州舉辦。國務院總理李強將出席開幕式及相關活動並作主旨演講。"
-    },
-    {
-      "id": "5138338",
-      "time": "2026-10-12 10:00:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多部門聯合釋出金融消費者、投資者合法權益保護典型案例】為切實維護金融消費者、投資者合法權益，規範金融機構經營行為，營造良好金融法治環境，今天，最高人民法院、中國人民銀行、國家金融監督管理總局、中國證券監督管理委員會聯合釋出六起金融消費者、投資者合法權益保護典型案例。本次釋出案例覆蓋金融借款、基金理財、數字金融、人身保險、證券投資等多個領域，聚焦格式條款、公平交易、適當性義務、權利救濟、多元解紛等現實熱點和司法難點，集中展現金融審判對金融行業高質量發展的價值引領，彰顯構建公平、透明、誠信、安全的金融市場生態的示範意義。（央視新聞）"
-    },
-    {
-      "id": "5138337",
-      "time": "2026-10-12 10:00:17",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【檢察機關依法對潘良涉嫌受賄、利用影響力受賄案提起公訴】記者今天從最高人民檢察院獲悉，國務院國有資產監督管理委員會原副部長級幹部潘良涉嫌受賄、利用影響力受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。最高人民檢察院依法以涉嫌受賄罪、利用影響力受賄罪對潘良作出逮捕決定，並指定由安徽省淮北市人民檢察院審查起訴。近日，淮北市人民檢察院已向淮北市中級人民法院提起公訴。檢察機關在審查起訴階段，依法告知了被告人潘良享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人潘良利用擔任國務院辦公廳秘書二局助理政務專員、副局長、局長，國有重點大型企業監事會主席，國務院國有資產監督管理委員會副部長級幹部等職務上的便利，為他人謀取利益，以及利用本人職權或者地位形成的便利條件，透過其他國家工作人員職務上的行為，為他人謀取不正當利益，非法收受他人財物，數額特別巨大；離職後，利用原職權或者地位形成的便利條件，透過其他國家工作人員職務上的行為，為他人謀取不正當利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪、利用影響力受賄罪追究其刑事責任。（央視新聞）"
-    },
-    {
-      "id": "5138336",
-      "time": "2026-10-12 10:00:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌1.01%，現報3012.512點；上證指數跌0.15%，現報3808.201點；深證成指跌0.89%，現報12529.545點。"
-    },
-    {
-      "id": "5138335",
-      "time": "2026-10-12 09:59:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中柬加強可持續海洋合作交流】近日，柬埔寨環境部自然保護區總局副局長蒂夫·索帕瑞斯一行訪問國家海洋技術中心，雙方就可持續海洋合作交流達成共識。 國家海洋技術中心主要負責人指出，雙方合作涵蓋海洋空間規劃、海洋觀測、海洋生態保護修復等多個領域，中柬清潔綠色/藍色可持續合作平臺（暨中柬海洋空間規劃聯合實驗室）和中柬海洋聯合觀測站等機制持續發揮作用，合作成果獲柬埔寨環境部高度認可並實際應用。希望雙方未來在瀾湄合作專項資金、亞洲合作資金與援外專案等領域發掘更多合作機遇。（自然資源部）"
-    },
-    {
-      "id": "5138334",
-      "time": "2026-10-12 09:59:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌1%，現報6939.00點。"
-    },
-    {
-      "id": "5138333",
-      "time": "2026-10-12 09:59:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌1%，現報7032.80點。"
-    },
-    {
-      "id": "5138332",
-      "time": "2026-10-12 09:58:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Grok可生成Apple Vision Pro空間互動內容】Grok前端負責人釋出了一條影片，並表示他讓Grok自己開發了一款Apple Vision Pro應用。完成後，他可以在現實公寓裡放置多個可互動的Grok虛擬機器人，並能直接和它們對話。"
     }
   ]
 }
