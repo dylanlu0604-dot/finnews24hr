@@ -1,7 +1,58 @@
 {
-  "updated": "2026-10-19 23:24:58",
-  "count": 12875,
+  "updated": "2026-10-19 23:28:52",
+  "count": 12878,
   "items": [
+    {
+      "id": "5154354",
+      "time": "2026-10-19 23:27:44",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：認為美國增長前景將推動美元進一步走強】隨著美國經濟增長更加強勁，以及市場對美聯儲獨立性的擔憂緩解，美元前景有所改善，Lombard Odier & Cie轉而看漲美元，扭轉了此前的看空立場。該機構將歐元兌美元預期從1.14美元下調至1.09美元，並將美元兌瑞郎預期從0.83瑞郎上調至0.85瑞郎，同時將美元兌新興市場貨幣的觀點調整為中性。這是Lombard Odier進一步淡化美元看空立場的最新舉措；該機構6月已將美元配置建議從低配上調至中性。“過去一個月左右，美聯儲的信譽有所改善，此前市場整整一年都在質疑其獨立性，”Lombard Odier全球外匯策略師Kiran Kowshik在給客戶的報告中表示，並稱“這種逆轉可能還有進一步延續的空間”。"
+    },
+    {
+      "id": "mkt:01a154c5-e1a9-7ee0-a8eb-c1421df13ada",
+      "time": "2026-10-19 23:26:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【loanDepot analyst: US Q4 mortgage rates likely to stay near 7%】loanDepot analyst Jeff DerGurahian says US mortgage rates will likely remain around 7% in Q4 as equity weakness, especially in tech, is drawing buyers back into bonds and capping yields. Rising oil, however, is amplifying inflation concerns and could force the Fed to hike at least once this year; rates should hold near current levels until either equity-driven bond demand or oil-driven inflation pressure predominates."
+    },
+    {
+      "id": "5154353",
+      "time": "2026-10-19 23:26:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "恐慌指數VIX內跌幅達12.5%，報17.47。"
+    },
+    {
+      "id": "mkt:01a154c5-b68b-7ee0-a8eb-b9d66d15c8e5",
+      "time": "2026-10-19 23:26:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【High-speed optical module component orders booked to end-2027; small glass piece unit value up >60-fold】At an optical components firm in Nanchang, Jiangxi, a small glass piece has seen its unit value rise more than 60-fold over 11 years as AI compute demand drives adoption into high-speed optical communications. Products have upgraded from 2.5G PON filters to 1.6T optical modules; 5 nm and 10 nm high-precision coating products are seeing strong demand from AI large-models and compute centers. The company’s mix shifted from roughly 80/20 imaging/optical-communications to about 50/50. Communication optics revenue rose 118.25% in 1H and the firm nearly matched last year’s full-year profit within six months. High-speed optical module assembly orders are booked through end-2027."
+    },
+    {
+      "id": "5154352",
+      "time": "2026-10-19 23:25:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝方面稱沙特空襲造成2名平民死亡】據葉門胡塞武裝方面訊息，當地時間19日，葉門伊卜省西亞尼縣納赫蘭地區杜拉斯一帶的一條道路遭沙特戰機空襲，造成2名平民死亡、1人受傷。（央視新聞）"
+    },
     {
       "id": "5154351",
       "time": "2026-10-19 23:23:23",
@@ -118106,22 +118157,6 @@
         "公司"
       ],
       "text": "【智利礦商Codelco再發致命事故：雪崩襲擊銅礦】隨著極端天氣持續衝擊智利，令這個全球最大產銅國遭遇更多挫折，智利國家銅業公司（Codelco） 旗下巨型El Teniente銅礦遭遇雪崩，造成兩名工人死亡。這家國有企業在一份宣告中表示，兩名分包商員工此前在露天礦區進行巡檢，最初被列為失蹤人員，上週日（10月11日）被發現時已確認死亡。該礦工會負責人Amador Pantoja表示，El Teniente露天礦區週一仍處於停產狀態，但包括大規模地下開採作業和選礦廠在內的其他區域執行正常。露天礦區產量佔該礦總產量不到10%。"
-    },
-    {
-      "id": "5139889",
-      "time": "2026-10-12 23:28:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相伯納姆：我從未聲稱俄羅斯干預了脫歐公投結果。"
-    },
-    {
-      "id": "5139888",
-      "time": "2026-10-12 23:27:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗塔斯尼姆通訊社：伊朗議員稱霍爾木茲海峽相關法案已由國家安全委員會審議，不久將提交議會討論。"
     }
   ]
 }
