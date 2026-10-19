@@ -1,7 +1,80 @@
 {
   "date": "2026-10-19",
-  "count": 807,
+  "count": 814,
   "items": [
+    {
+      "id": "mkt:01a1520d-2bb4-7ee0-a8d9-4c41d0b5bdd7",
+      "time": "2026-10-19 10:45:57",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "WTI"
+      ],
+      "text": "【China NBS: Domestic demand gradually improved in first three quarters】China's National Bureau of Statistics said at an Oct. 19 briefing that domestic demand gradually improved in the first three quarters. Consumption contributed 46.7% of GDP growth in the period, adding 2.1 percentage points. Imports, a key component of domestic demand, rose more than 20% YoY in each quarter, reflecting increases in both volumes and prices. Headline CPI rose 0.9% YoY in the first three quarters; core CPI (ex food and energy) rose 1.1% YoY, indicating mild price increases and an improving supply–demand balance."
+    },
+    {
+      "id": "5153045",
+      "time": "2026-10-19 10:45:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【9月徐州新房價格環比漲幅位居第一】國家統計局的資料顯示，9月，70個大中城市中，新房價格環比上漲城市有17個，比上月增加2個。其中，徐州以0.4%的漲幅位居第一；長春、深圳、南寧、重慶均上漲0.3%，並列第二；大連、上海、南京、合肥、青島、武漢、廣州、宜昌均上漲0.2%，並列第三。"
+    },
+    {
+      "id": "5153044",
+      "time": "2026-10-19 10:45:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨漲1%。"
+    },
+    {
+      "id": "mkt:01a1520c-19b1-7ee0-a8d9-46749a5742c7",
+      "time": "2026-10-19 10:44:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "Futures on the FTSE China A50 rose 1%."
+    },
+    {
+      "id": "5153043",
+      "time": "2026-10-19 10:44:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指跌幅收窄至不到1%，此前一度跌超2%；滬指漲0.2%。"
+    },
+    {
+      "id": "mkt:01a1520b-1875-7ee0-a8d9-3beba0137aeb",
+      "time": "2026-10-19 10:43:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan boosts English outreach to ease fiscal-policy concerns】Prime Minister Takaichi's government is stepping up English-language communications to reassure foreign investors worried about its fiscal policy management. The minister in charge of economic revitalization gave an English speech at an LSEG event in Tokyo last Thursday, and Finance Minister Katayama has addressed FX-market questions in English at recent events. Tokyo rewrote the English version of this year's Basic Policy after an earlier draft stoked concern that the government might shift to a looser fiscal stance, which could accelerate rises in long-term JGB yields and weaken the yen. Officials are considering English releases of Council on Economic and Fiscal Policy documents; some overseas market participants have already noted the change in communications."
+    },
+    {
+      "id": "te:markets:592970",
+      "time": "2026-10-19 10:43:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Gains as Euro Comes Under Pressure — The dollar index rose toward 102 on Monday, benefiting mainly from the euro’s weakness following violent protests in France and other European countries and escalating hostilities between Russia and Ukraine. Investors also kept a close watch on developments in the Middle East, where clashes between Saudi Arabia and Iran-backed Houthi rebels in Yemen showed little sign of easing and tanker attacks in the Strait of Hormuz continued. Meanwhile, the dollar weakened on Friday after Federal Reserve Chair Kevin Warsh refrained from signaling the outcome of this month’s FOMC meeting but said that hotter-than-expected inflation had not altered his assessment of the US economy. The Fed has since entered its blackout period ahead of the October 27–28 policy meeting, with markets currently pricing in an approximately 84% chance of interest rates remaining unchanged."
+    },
     {
       "id": "te:markets:592969",
       "time": "2026-10-19 10:41:43",

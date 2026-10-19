@@ -1,7 +1,80 @@
 {
-  "updated": "2026-10-19 10:42:40",
-  "count": 12718,
+  "updated": "2026-10-19 10:46:24",
+  "count": 12721,
   "items": [
+    {
+      "id": "mkt:01a1520d-2bb4-7ee0-a8d9-4c41d0b5bdd7",
+      "time": "2026-10-19 10:45:57",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "WTI"
+      ],
+      "text": "【China NBS: Domestic demand gradually improved in first three quarters】China's National Bureau of Statistics said at an Oct. 19 briefing that domestic demand gradually improved in the first three quarters. Consumption contributed 46.7% of GDP growth in the period, adding 2.1 percentage points. Imports, a key component of domestic demand, rose more than 20% YoY in each quarter, reflecting increases in both volumes and prices. Headline CPI rose 0.9% YoY in the first three quarters; core CPI (ex food and energy) rose 1.1% YoY, indicating mild price increases and an improving supply–demand balance."
+    },
+    {
+      "id": "5153045",
+      "time": "2026-10-19 10:45:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【9月徐州新房價格環比漲幅位居第一】國家統計局的資料顯示，9月，70個大中城市中，新房價格環比上漲城市有17個，比上月增加2個。其中，徐州以0.4%的漲幅位居第一；長春、深圳、南寧、重慶均上漲0.3%，並列第二；大連、上海、南京、合肥、青島、武漢、廣州、宜昌均上漲0.2%，並列第三。"
+    },
+    {
+      "id": "5153044",
+      "time": "2026-10-19 10:45:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨漲1%。"
+    },
+    {
+      "id": "mkt:01a1520c-19b1-7ee0-a8d9-46749a5742c7",
+      "time": "2026-10-19 10:44:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "Futures on the FTSE China A50 rose 1%."
+    },
+    {
+      "id": "5153043",
+      "time": "2026-10-19 10:44:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指跌幅收窄至不到1%，此前一度跌超2%；滬指漲0.2%。"
+    },
+    {
+      "id": "mkt:01a1520b-1875-7ee0-a8d9-3beba0137aeb",
+      "time": "2026-10-19 10:43:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan boosts English outreach to ease fiscal-policy concerns】Prime Minister Takaichi's government is stepping up English-language communications to reassure foreign investors worried about its fiscal policy management. The minister in charge of economic revitalization gave an English speech at an LSEG event in Tokyo last Thursday, and Finance Minister Katayama has addressed FX-market questions in English at recent events. Tokyo rewrote the English version of this year's Basic Policy after an earlier draft stoked concern that the government might shift to a looser fiscal stance, which could accelerate rises in long-term JGB yields and weaken the yen. Officials are considering English releases of Council on Economic and Fiscal Policy documents; some overseas market participants have already noted the change in communications."
+    },
+    {
+      "id": "te:markets:592970",
+      "time": "2026-10-19 10:43:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Gains as Euro Comes Under Pressure — The dollar index rose toward 102 on Monday, benefiting mainly from the euro’s weakness following violent protests in France and other European countries and escalating hostilities between Russia and Ukraine. Investors also kept a close watch on developments in the Middle East, where clashes between Saudi Arabia and Iran-backed Houthi rebels in Yemen showed little sign of easing and tanker attacks in the Strait of Hormuz continued. Meanwhile, the dollar weakened on Friday after Federal Reserve Chair Kevin Warsh refrained from signaling the outcome of this month’s FOMC meeting but said that hotter-than-expected inflation had not altered his assessment of the US economy. The Fed has since entered its blackout period ahead of the October 27–28 policy meeting, with markets currently pricing in an approximately 84% chance of interest rates remaining unchanged."
+    },
     {
       "id": "te:markets:592969",
       "time": "2026-10-19 10:41:43",
@@ -116549,40 +116622,6 @@
         "其他"
       ],
       "text": "市場訊息：東山精密據悉評估最高30億美元香港上市需求，此前有訊息稱，東山精密已啟動香港上市預推介，可能募資約20億至30億美元。"
-    },
-    {
-      "id": "5138414",
-      "time": "2026-10-12 10:45:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【金賽藥業前列腺癌長效新藥獲批上市】近日，金賽藥業長效抗癌新藥——甲磺酸亮丙瑞林注射液（6M）獲國家藥品監督管理局批准上市，用於需要雄激素去勢治療（ADT）的前列腺癌。據瞭解，這是國內首個獲批上市的亮丙瑞林6個月長效皮下注射製劑，將前列腺癌GnRHa治療的給藥間隔由現有的1個月或3個月延長至6個月，填補了相關領域空白。"
-    },
-    {
-      "id": "5138412",
-      "time": "2026-10-12 10:44:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【漫威影片《復仇者聯盟5：毀滅之日》內地定檔12月16日】漫威影片《復仇者聯盟5：毀滅之日》正式公佈中國內地檔期，影片將於12月16日登陸全國院線，上映時間較北美提前兩天。本片由羅素兄弟迴歸執導，小羅伯特·唐尼在片中飾演反派毀滅博士。（央視財經）"
-    },
-    {
-      "id": "5138411",
-      "time": "2026-10-12 10:44:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國AI大模型周呼叫量環比增長50.96%：階躍星辰Step 5 Preview躋身前四，匿名模型“太空兔”跌出榜單】根據OpenRouter最新資料測算，上週（10月5日至11日）全球AI大模型總呼叫量為172萬億Token，環比增長3.61%。其中，上榜的AI大模型中，中國AI大模型周呼叫量達86.74萬億Token，環比增長50.96%；同期美國AI大模型周呼叫量為18.97萬億Token，環比增長17.1%。中國大模型周呼叫量連續二十四周超過美國，穩居全球首位。 上週，全球呼叫量排名前五均為中國AI大模型。其中，DeepSeek V4.1 Flash升至第一，周呼叫量達41萬億Token，環比增長60%；智譜GLM 5.3 Flash排名第二，周呼叫量達12.2萬億Token，環比增長26%；小米MiMo-V2.6-Flash位居第三，周呼叫量達11.5萬億Token，環比增長19%；階躍星辰Step 5 Preview排在第四，周呼叫量達8.84萬億Token；騰訊Hy4 preview排名第五，周呼叫量達8.28萬億Token，環比增長27%。  （每經）"
-    },
-    {
-      "id": "5138410",
-      "time": "2026-10-12 10:43:23",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓股週一午前續跌，中東局勢推升通脹憂慮】週一上午晚些時候，韓國股市延續跌勢，科技股領跌。高油價與中東緊張局勢升級，引發市場對通脹的擔憂。韓國綜合股價指數（KOSPI）開盤下跌 0.72%；截至上午 9 時 15 分，該基準指數下跌 150.98 點，跌幅 2.28%，報 6474.95 點。外資淨賣出 6992.7 億韓元（合 5.24 億美元）股票，機構與個人投資者則分別淨買入 32.5 億韓元和 4417.4 億韓元。科技股領跌。市場巨頭三星電子下跌 2%，晶片同業 SK 海力士下跌 2.86%。上漲個股方面，韓國第二大車企起亞上漲 0.94%，航運公司 HMM 大漲 5.29%。"
     }
   ]
 }
