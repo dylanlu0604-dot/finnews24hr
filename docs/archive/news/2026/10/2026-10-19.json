@@ -1,7 +1,81 @@
 {
   "date": "2026-10-19",
-  "count": 296,
+  "count": 304,
   "items": [
+    {
+      "id": "5152735",
+      "time": "2026-10-19 08:04:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：企業提高工資的努力開始取得成效。"
+    },
+    {
+      "id": "5152734",
+      "time": "2026-10-19 08:04:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數擴大跌幅至1%。"
+    },
+    {
+      "id": "5152732",
+      "time": "2026-10-19 08:03:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男於當地時間上午9點在國會出席會議。"
+    },
+    {
+      "id": "5152731",
+      "time": "2026-10-19 08:02:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1129.95美元/盎司。"
+    },
+    {
+      "id": "5152730",
+      "time": "2026-10-19 08:02:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第一生命證實向澳大利亞Challenger公司提交非約束性收購提案】第一生命集團10月19日釋出公告，部分媒體報道稱，本公司的澳大利亞子公司 TAL Daiichi Life Australia Pty Limited（以下簡稱“TDA”）已提交收購 Challenger Limited股份的非約束性提案。然而，此類報道並非基於本公司釋出的任何公告。本公司確認，TDA 已向 Challenger 董事會提交了一份非約束性提案。不過，目前本公司尚未就是否推進具有約束力的交易作出任何決定。"
+    },
+    {
+      "id": "mkt:01a15176-bb39-7ee0-a8d4-5d4eeb4f9ee3",
+      "time": "2026-10-19 08:01:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 595.90 points, or 0.91%, at 64,728.39 on Monday, Oct. 19."
+    },
+    {
+      "id": "mkt:01a15176-aac7-7ee0-a8d4-542f7e775c06",
+      "time": "2026-10-19 08:01:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "【KOSPI opens down 3%, breaches 5,600】South Korea's KOSPI opened sharply lower, breaching 5,600 and down 3.17% intraday. SK Hynix fell 4%; Samsung Electronics fell 3%."
+    },
+    {
+      "id": "5152729",
+      "time": "2026-10-19 08:01:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士股價下跌4%，三星電子股價下跌 3%。"
+    },
     {
       "id": "5152728",
       "time": "2026-10-19 08:00:46",
