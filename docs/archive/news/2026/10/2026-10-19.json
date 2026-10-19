@@ -1,7 +1,128 @@
 {
   "date": "2026-10-19",
-  "count": 315,
+  "count": 328,
   "items": [
+    {
+      "id": "5152750",
+      "time": "2026-10-19 08:11:58",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：特斯拉第二代Roadster釋出，看好商業航天、低空經濟主題性機會】中信建投研報表示，當地時間10月15日晚間，特斯拉在美國得州展示了重新設計的第二代Roadster跑車，搭載與SpaceX聯合開發、代號A71的冷氣推進系統。新款roadster體現了航天技術在低空經濟領域的下沉應用，預計將推動商業航天、低空經濟產業的共同發展，看好上述兩大板塊的主題性投資機會。商業航天板塊看好衛星製造、火箭製造、地面裝置和運營服務中的核心細分環節，低空經濟板塊看好無人機/eVTOL製造、輕量化材料、空管及核心細分環節。"
+    },
+    {
+      "id": "5152749",
+      "time": "2026-10-19 08:11:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：多虧了安倍經濟學，日本已經擺脫了通貨緊縮。"
+    },
+    {
+      "id": "mkt:01a1517f-f1d2-7ee0-a8d4-9722290cce2c",
+      "time": "2026-10-19 08:11:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Bank of Japan Governor UEDA said the Middle East conflict has pushed up energy costs and other prices and can be characterised as supply‑driven inflation."
+    },
+    {
+      "id": "te:markets:592909",
+      "time": "2026-10-19 08:11:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Hover at Over 5-Week High — Australian equities advanced 33 points or 0.4% to 8,838 in early Monday trade, extending prior gains and marking their highest level in more than five weeks. Sentiment was buoyed by a rebound in U.S. equity futures after last week’s chip-sector rout, with investors shifting focus to earnings amid mounting pressure on the AI trade. Locally, softer-than-expected labor data cooled bets on a near-term rate hike by the Reserve Bank. Gains were tempered by caution ahead of key Chinese releases later today, including September activity, home prices, and Q3 GDP. Energy minerals and industrial services led the rise, with Nextdc (3.6%), AGL Energy (1.7%), and Whitehaven Coal (1.2%) among notable movers. Challenger Ltf. surged 14.5% after TAL Dai-ichi Life reportedly made a non-binding takeover proposal at AUD 11.80 per share. Meanwhile, the four big banks added between 0.9% and 1.3%. In contrast, BHP Group slipped 0.5%, and Rio Tinto edged down 0.2%."
+    },
+    {
+      "id": "mkt:01a1517e-a3fe-7ee0-a8d4-8bf924493d26",
+      "time": "2026-10-19 08:10:16",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor UEDA said Japan's economy is recovering modestly and a tight labor market is adding upward pressure to inflation."
+    },
+    {
+      "id": "mkt:01a1517e-9c3c-7ee0-a8d4-86cbc16448ea",
+      "time": "2026-10-19 08:10:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's finance minister Nirmala Sitharaman said a lax exit mechanism and excess liquidity are responsible for weak stock market performance."
+    },
+    {
+      "id": "mkt:01a1517e-33c9-7ee0-a8d4-7c64060cd4b5",
+      "time": "2026-10-19 08:09:47",
+      "tags": [
+        "MKT News",
+        "DXY"
+      ],
+      "text": "RBA assistant governor Kent said market moves after the jobs data were reasonable."
+    },
+    {
+      "id": "mkt:01a1517e-3224-7ee0-a8d4-7679aa024278",
+      "time": "2026-10-19 08:09:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBA assistant governor Kent said monthly employment data should be treated with caution, though labour market tightness has eased slightly."
+    },
+    {
+      "id": "mkt:01a1517d-aa0f-7ee0-a8d4-6b07fc007e4f",
+      "time": "2026-10-19 08:09:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan Governor UEDA said stabilizing underlying inflation around 2% has become increasingly important; Japan is entering a virtuous cycle of rising wages and recovering prices."
+    },
+    {
+      "id": "mkt:01a1517d-a9db-7ee0-a8d4-63d70e8e281a",
+      "time": "2026-10-19 08:09:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said underlying inflation is close to the bank's 2% target."
+    },
+    {
+      "id": "5152748",
+      "time": "2026-10-19 08:09:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日本經濟溫和復甦、就業市場趨緊也在推高通脹。"
+    },
+    {
+      "id": "5152747",
+      "time": "2026-10-19 08:08:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：全球對人工智慧的強勁需求正在推高國內資本支出、出口以及各類商品的價格，這可以解釋為需求拉動型通脹。"
+    },
     {
       "id": "5152746",
       "time": "2026-10-19 08:08:12",
@@ -10,6 +131,15 @@
         "國際"
       ],
       "text": "日本央行行長植田和男：中東衝突正在推高能源成本和各類價格，這可以被定義為供給驅動型通脹。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202610193899258994",
+      "time": "2026-10-19 08:07:54",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行行長植田和男稱，基礎通脹接近我們的2%目標。日本正迎來工資上漲、物價回升的良性迴圈。"
     },
     {
       "id": "5152745",
