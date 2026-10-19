@@ -1,7 +1,194 @@
 {
-  "updated": "2026-10-19 15:28:32",
-  "count": 12980,
+  "updated": "2026-10-19 15:32:25",
+  "count": 12975,
   "items": [
+    {
+      "id": "5153425",
+      "time": "2026-10-19 15:31:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭副能源部長表示，俄羅斯夜間襲擊了烏克蘭11個地區的能源設施。"
+    },
+    {
+      "id": "5153424",
+      "time": "2026-10-19 15:31:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鈦虎機器人在天津成立新科技公司 註冊資本1000萬】天眼查App顯示，近日，鈦虎機器人科技（天津）有限公司成立，法定代表人為易港，註冊資本1000萬人民幣，經營範圍包括智慧機器人的研發、智慧機器人銷售、人工智慧硬體銷售等。股東資訊顯示，該公司由鈦虎機器人科技（上海）有限公司全資持股。"
+    },
+    {
+      "id": "te:markets:593071",
+      "time": "2026-10-19 15:31:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.70% Lower — The DAX Index is falling 179 points. Losses were driven by Continental (-2.72%), Rheinmetall (-2.58%) and Vonovia (-2.05%). Biggest rises came from Qiagen NV (1.26%), Symrise (0.64%) and Zalando (0.55%)."
+    },
+    {
+      "id": "mkt:01a15311-a380-7ee0-a8df-9318f52360d0",
+      "time": "2026-10-19 15:30:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.34% at 900.1 yuan/gram on Oct 19 (Monday). Shanghai Gold Exchange silver T+D closed up 0.43% at 13963.0 yuan/kg on Oct 19 (Monday)."
+    },
+    {
+      "id": "mkt:01a15311-7c56-7ee0-a8df-8c3f76952bdc",
+      "time": "2026-10-19 15:30:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley raises PT on Meta Platforms (META.O) to $820 from $775."
+    },
+    {
+      "id": "te:markets:593069",
+      "time": "2026-10-19 15:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 1.23% Lower — The CAC 40 Index is dropping 98 points. Leading the losses are Unibail Rodamco (-3.45%), Stellantis NV (-3.04%) and Carrefour (-2.91%)."
+    },
+    {
+      "id": "mkt:01a15311-4585-7ee0-a8df-85035bb63125",
+      "time": "2026-10-19 15:30:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "NVO.O",
+        "Impact bullish"
+      ],
+      "text": "【Novo Nordisk: NMPA approves up to 48-hour 2°C–30°C storage for semaglutide during distribution in China】Novo Nordisk said on Oct. 19 that China’s National Medical Products Administration (NMPA) has approved an update to product information for its semaglutide injection, allowing the unopened product to be stored at 2°C–30°C for up to 48 hours during distribution to patients prior to first use. Novo Nordisk said this makes the product the first and only GLP-1 weight-management therapy in China with this delivery flexibility."
+    },
+    {
+      "id": "5153423",
+      "time": "2026-10-19 15:30:00",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "SpaceX：獵鷹9號發射時間最早不早於10月20日。"
+    },
+    {
+      "id": "5153422",
+      "time": "2026-10-19 15:29:36",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將Meta目標價從775美元上調至820美元。"
+    },
+    {
+      "id": "5153421",
+      "time": "2026-10-19 15:29:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "上期所：同意江蘇省鑌鑫鋼鐵集團有限公司調整螺紋鋼期貨交割廠庫提貨地。"
+    },
+    {
+      "id": "mkt:01a15310-a2ce-7ee0-a8df-7831c8cee70d",
+      "time": "2026-10-19 15:29:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley raises its price target on Amazon (AMZN.O) to $350 from $335."
+    },
+    {
+      "id": "5153420",
+      "time": "2026-10-19 15:29:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【或將登陸我國？超強颱風“薔琵”移動路徑成懸念】目前，今年第30號颱風“薔琵”在海上發展蓄力，強度已達超強颱風級，並逐漸靠近臺灣以東洋麵。22日之後，“薔琵”可能北上轉向日本，也可能繼續西行登陸我國，未來移動路徑存在較大變數。不論是否登陸我國，對臺灣的風雨影響都不可小覷。颱風“薔琵”自10月15日生成後，強度逐漸增強，17日夜間變身超強颱風。截至19日14時，“薔琵”維持超強颱風強度級別超40小時。目前，“薔琵”仍在海上發展蓄力。中央氣象臺預計，“薔琵”將以每小時20至25公里的速度繼續向西偏北方向移動，逐漸向臺灣以東洋麵靠近，強度還將有所加強，21日前對我國海區無影響。22日起，“薔琵”對我國的影響逐漸展開，將先後給我國東南部海域和沿海地區帶來強風雨天氣。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1530f-e45b-7ee0-a8df-718f66995735",
+      "time": "2026-10-19 15:28:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude slipped below $105.00/bbl, down 2.43% intraday; WTI fell 2.21% to $96.76/bbl."
+    },
+    {
+      "id": "5153419",
+      "time": "2026-10-19 15:28:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守107美元/桶，日內跌2.61%。"
+    },
+    {
+      "id": "5153418",
+      "time": "2026-10-19 15:28:18",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲通訊衛星公司股價下跌 5.7%，位列 SBF 120 指數墊底。"
+    },
+    {
+      "id": "te:markets:593066",
+      "time": "2026-10-19 15:28:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Fall on Monday — Stocks in Europe kicked off the week in the red, with the STOXX 50 falling 0.7% and the STOXX 600 declining 0.6%, with traders coming from a weekend marked with big protests in France. Unrest also spread across major cities in Belgium, Italy, and Portugal, dampening investor sentiment across the region. Meanwhile, markets remained cautious over geopolitical tensions in Eastern Europe as Moscow and Kyiv continued targeting energy infrastructure. Travel and leisure stocks led losses, followed by carmakers and banks. French stocks were also the hardest hit."
+    },
+    {
+      "id": "5153417",
+      "time": "2026-10-19 15:28:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦對涉華布洛芬作出反傾銷初裁】巴基斯坦國家關稅委員會2026年10月15日釋出第ADC78號案件的最新公告，對原產於或進口自中國和美國的布洛芬（Ibuprofen）作出反傾銷肯定性初裁，初步裁定對涉案產品徵收臨時反傾銷稅，其中，中國涉案產品稅率為8.71%、美國涉案產品稅率為7.77%。措施自公告發布之日起生效，有效期為四個月。涉案產品的巴基斯坦稅號為2916.3910。預計本案終裁將於初裁釋出之日起180日內作出。2026年7月25日，巴基斯坦對原產於或進口自中國和美國的布洛芬啟動反傾銷調查。案件傾銷調查期為2025年4月1日至2026年3月31日，損害調查期為2023年4月1日至2026年3月31日。"
+    },
+    {
+      "id": "5153416",
+      "time": "2026-10-19 15:27:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：魯比奧在烏茲別克會見中亞五國的外交部長。"
+    },
     {
       "id": "5153415",
       "time": "2026-10-19 15:27:48",
@@ -118741,231 +118928,6 @@
         "MKT News"
       ],
       "text": "Vietnam's VN Index fell 1% to 1,717.58."
-    },
-    {
-      "id": "5138846",
-      "time": "2026-10-12 15:32:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小米入股初光躍遷 後者含AI及機器人業務】企查查APP顯示，近日，上海初光躍遷智慧科技有限公司發生工商變更，新增小米關聯公司瀚星創業投資有限公司等為股東，同時註冊資本增至60萬元。企查查資訊顯示，該公司成立於2026年5月，經營範圍包含智慧機器人銷售；智慧機器人的研發；人工智慧通用應用系統；人工智慧基礎資源與技術平臺等。"
-    },
-    {
-      "id": "te:markets:591110",
-      "time": "2026-10-12 15:32:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Extends Recent Gains — Frankfurt’s DAX 40 rose more than 0.5% to around 25,220 points on Monday, extending Friday’s gains as softer oil prices and bond yields continued to support market sentiment. Investors are looking ahead to a busy week, with the US earnings season set to begin with results from major banks. Several European companies are also due to release their quarterly results, while US inflation data will be closely watched for clues about the Fed's future monetary policy. German politics is also in focus after Bärbel Bas announced that she would step down as Labour Minister and as leader of the Social Democratic Party. Among individual stocks, Volkswagen gained 1.6% ahead of an investor update and third-quarter sales figures, while Nordex reported a significant year-on-year increase in orders. Goldman Sachs downgraded Aroundtown to “Sell” from “Neutral,” while Nagarro is set to leave the small-cap index after India’s Persistent Systems acquired approximately 94% of its shares."
-    },
-    {
-      "id": "te:markets:591109",
-      "time": "2026-10-12 15:32:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.53% Higher — The FTSE 100 Index is picking up 56 points or 0.53 percent on Monday. Gains are led by HSBC Holdings (2.13%), Standard Chartered (1.89%) and Standard Life (1.71%). Biggest losers are Informa (-2.50%), Vodafone (-1.56%) and BP (-0.85%)."
-    },
-    {
-      "id": "te:markets:591108",
-      "time": "2026-10-12 15:32:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Kick Off the Week Higher — European stocks opened the week higher, with the STOXX 50 gaining 0.8% and the STOXX 600 rising 0.6%, recovering some ground after a weak previous week. Sentiment was supported by falling oil prices, as investors weighed resilient flows through the Middle East against escalating regional tensions, including attacks on Saudi Arabia, and a US claim that Russia and Ukraine had agreed to an “energy ceasefire”. Investors are also preparing for the start of earnings season, with ASML and LVMH set to report quarterly results this week. Banking stocks led the gains, while utilities also advanced, whereas energy shares came under pressure. HSBC rose 2.1%, Banco Santander gained 1.8%, BBVA added 1.6% and BNP Paribas climbed 1.0%. Automakers Renault and Stellantis were among the top performers, advancing 3.1% and 2.5%, respectively. Nordex jumped 3.8% after reporting a 30% year-on-year increase in project intake in the third quarter."
-    },
-    {
-      "id": "5138845",
-      "time": "2026-10-12 15:32:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國製裁國際刑事法院，中方回應】10月12日，外交部發言人毛寧主持例行記者會。 法新社記者提問，美國於上週五對國際刑事法院實施制裁，此舉旨在削弱其運作能力，而就在數小時前，諾貝爾和平獎剛剛授予了一位國際刑事法院前法官。中方對此有何評論？ 毛寧表示，中國不是國際刑事法院《羅馬規約》的締約國，對於有關問題，中方的立場是一貫的。 （北京日報）"
-    },
-    {
-      "id": "5138844",
-      "time": "2026-10-12 15:31:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：對尼泊爾方面表示慰問 願根據尼方需要提供力所能及的幫助】10月12日，外交部發言人毛寧主持例行記者會，有記者就尼泊爾滑坡相關內容提問。毛寧表示，目前我們還不掌握有中國公民在災害中傷亡的情況，我們對尼泊爾方面表示慰問，也願意根據尼方的需要提供力所能及的幫助。（央視新聞）"
-    },
-    {
-      "id": "5138843",
-      "time": "2026-10-12 15:31:14",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根大通：強勁盈利將推動股市年末反彈】摩根大通策略師預計，企業第三季度靚麗盈利將助力股市從近期下跌中回升；策略師表示，國債收益率飆升行情已接近尾聲，企業盈利到2027年仍將保持穩健。由米斯拉夫·馬泰卡領銜的團隊預計，標普500成分股盈利同比增長24%，歐洲企業盈利增幅為19%，盈利表現至少將支撐接下來兩個財報季的股市。策略師團隊認為，隨著債券收益率企穩，股市將在年末前走高；整體看好歐洲股票與新興市場，對發達市場偏好偏弱，維持美股中性觀點。"
-    },
-    {
-      "id": "te:markets:591107",
-      "time": "2026-10-12 15:31:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.61% Higher — The DAX Index is up by 154 points or 0.61 percent on Monday. Top gainers are Rheinmetall (1.64%), Zalando (1.64%) and Commerzbank (1.58%). Biggest losses came from Infineon (-1.80%), BASF (-0.74%) and Brenntag (-0.61%)."
-    },
-    {
-      "id": "te:markets:591106",
-      "time": "2026-10-12 15:31:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Extends Gains for 2nd Session — The FTSE 100 traded more than 0.5% higher on Monday, following a 1.1% rise in the previous session, in line with broader European markets as oil prices continued to retreat. Investors balanced relatively resilient Middle Eastern supply flows against escalating regional tensions and a US claim that Russia and Ukraine had agreed to an energy ceasefire. Banking stocks led the advance, with HSBC and Standard Chartered gaining nearly 2%, while Lloyds Banking Group and NatWest each rose more than 1%. AstraZeneca also climbed over 0.5%, despite reporting that its experimental treatment efzimfotase alfa failed to meet statistical significance in a late-stage trial involving adolescents and adults with hypophosphatasia, a rare bone and muscle disorder. However, the head of the company’s Alexion rare-disease division maintained that the drug could still secure regulatory approval. Energy majors BP and Shell lagged behind the broader market as lower crude prices weighed on their shares."
-    },
-    {
-      "id": "mkt:01a12f05-90ea-7ee0-a835-64856d8cfac2",
-      "time": "2026-10-12 15:30:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed up 0.51% at 902.56 yuan/gram on Monday Oct. 12; silver T+D closed up 1.44% at 14,790 yuan/kg."
-    },
-    {
-      "id": "5138842",
-      "time": "2026-10-12 15:30:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "越南VN指數下跌1%至1717.58。"
-    },
-    {
-      "id": "mkt:01a12f05-38a2-7ee0-a835-5d322f72b8d7",
-      "time": "2026-10-12 15:30:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's State Administration for Market Regulation (SAMR) approved release of 88 national standard samples covering manufacturing, agriculture and other sectors."
-    },
-    {
-      "id": "5138841",
-      "time": "2026-10-12 15:30:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方近期是否會發布關於前往印度的旅行警告？外交部回應】外交部發言人毛寧主持例行記者會。路透社記者提問，上週末，印度德里爆發由青年主導的抗議活動，要求印度選舉委員會主席辭職。中方近期是否會發布針對前往德里或印度旅行的旅遊警告？毛寧表示，中方注意到有關情況，我們將根據形勢的發展研究是否需要採取必要的措施。（北京日報）"
-    },
-    {
-      "id": "mkt:01a12f05-1002-7ee0-a835-5425a8a4a953",
-      "time": "2026-10-12 15:30:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CHINA says it will assess need for travel advisory to Delhi amid protests】CHINA said it is monitoring protests in Delhi and will study whether, as the situation develops, to issue travel warnings or take other necessary measures."
-    },
-    {
-      "id": "5138840",
-      "time": "2026-10-12 15:30:15",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【88項國家標準樣品獲批發布！覆蓋製造業、農業等領域】記者今天瞭解到，市場監管總局批准釋出88項國家標準樣品，覆蓋製造業、農業等領域。（央視新聞）"
-    },
-    {
-      "id": "te:markets:591105",
-      "time": "2026-10-12 15:30:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.35% Higher — The CAC 40 Index is gaining 27 points or 0.35 percent on Monday. Leading the gains are Renault (3.32%), Stellantis NV (2.63%) and Hermes International (1.95%). Top losers are Accor (-1.43%), STMicroelectronics (-0.78%) and ArcelorMittal (-0.56%)."
-    },
-    {
-      "id": "5138839",
-      "time": "2026-10-12 15:29:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【沙特首都機場遭襲 外交部：中方一貫反對針對平民和民用設施的襲擊】10月12日，外交部發言人毛寧主持例行記者會。有記者針對葉門胡塞武裝對沙特利雅得哈立德國王機場襲擊內容提問。毛寧表示，中方一貫反對針對平民和民用設施的襲擊，呼籲有關方面避免採取導致地區緊張局勢升級的行動，透過對話談判解決分歧和爭端，早日實現地區的和平穩定。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a12f04-8c95-7ee0-a835-4d5537bbaad5",
-      "time": "2026-10-12 15:29:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【China reiterates opposition to attacks on civilians and civilian infrastructure】Responding to reports of a Houthi attack on a Saudi airport, CHINA said at a routine press briefing on the 12th it condemned the reported strike that caused significant casualties, expressed serious concern about escalation, reiterated opposition to attacks on civilians and civilian infrastructure, and urged parties to avoid actions that would raise regional tensions and resolve disputes through dialogue to restore regional peace and stability."
-    },
-    {
-      "id": "5138838",
-      "time": "2026-10-12 15:29:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【教育部：已遴選出220所職業院校，打造技能型高校“國家隊”】記者從教育部今天召開的新聞釋出會獲悉，落實分類推進高校改革部署，著眼“辦學能力高水平、產教融合高質量”的“新雙高”理念，教育部已啟動實施第二期“雙高建設計劃”，遴選出220所職業院校，打造技能型高校“國家隊”。（央視新聞）"
-    },
-    {
-      "id": "5138837",
-      "time": "2026-10-12 15:29:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國海軍第48批護航編隊結束對馬來西亞友好訪問】中國海軍第48批護航編隊12日駛離馬來西亞哥打基納巴盧港，結束對馬來西亞為期5天的友好訪問。離港之際，馬來西亞海軍東部艦隊官兵代表、中國駐馬來西亞使領館工作人員、中資機構及華僑華人代表等前往碼頭送行。編隊官兵在甲板上分割槽列隊，向歡送人群揮手告別。訪問期間，編隊指揮員拜會了馬方海軍領導。中馬組織了艦艇相互參觀活動，雙方圍繞海上航行安全、水文氣象、亞丁灣護航行動等開展座談交流、互學互鑑，共敘中馬傳統友誼。（新華社）"
-    },
-    {
-      "id": "5138836",
-      "time": "2026-10-12 15:28:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【常山藥業：尚未完成首例受試者入組】有投資者在互動平臺向常山藥業（300255.SZ）提問，阿貝那肽發補資料既然已經提交，接下來公司會著重點推進艾本那肽減肥藥臨床一期嘛！10月12日，公司回答表示，公司已經提交艾本那肽（阿貝那肽）糖尿病適應症發補資料，並將繼續積極配合CDE審評工作。其用於減重適應症的Ⅰ期臨床試驗，相關工作正在有序籌備中，尚未完成首例受試者入組。公司始終穩步推進相關臨床試驗，新藥研發受多重因素影響，存在不確定性，後續如取得重大研發進展，公司將嚴格按照監管規則及時履行資訊披露義務。"
-    },
-    {
-      "id": "mkt:01a12f03-82df-7ee0-a835-4268aec52fe2",
-      "time": "2026-10-12 15:28:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China rebukes Taiwan leader Lai Ching-te for 'relying on foreign forces for independence' comments】On Oct 12, foreign ministry spokesperson Mao Ning told a regular briefing that Taiwan leader Lai Ching-te's Oct 10 Double Ten speech promoted the 'relying on foreign forces for independence' fallacy and smeared the mainland. Mao reiterated the one-China principle, said Taiwan is part of China's territory, affirmed the PRC as the sole legitimate government representing all China, restated opposition to Taiwan independence and support for reunification, and said Lai's appeal to 'democracy' cannot conceal his separatist intent."
-    },
-    {
-      "id": "mkt:01a12f03-72e1-7ee0-a835-3f65dc9e1359",
-      "time": "2026-10-12 15:28:37",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Kallas said the EU will add nearly 1,600 entries to its sanctions list targeting Russia's military-industrial complex, the largest expansion of EU sanctions since Russia launched its military operation."
     }
   ]
 }
