@@ -1,7 +1,108 @@
 {
   "date": "2026-10-19",
-  "count": 1243,
+  "count": 1253,
   "items": [
+    {
+      "id": "5153415",
+      "time": "2026-10-19 15:27:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小馬智行旗下廣州小馬慧行公司增資至5.29億美元 增幅約23%】天眼查App顯示，近日，廣州小馬慧行科技有限公司發生工商變更，註冊資本由4.29億美元增至5.29億美元，增幅約23%。該公司成立於2018年1月，法定代表人為莫璐怡，經營範圍包括汽車零部件及配件製造、軟體開發、人工智慧應用軟體開發、智慧車載裝置製造等，由香港小馬智行有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a1530d-fbd6-7ee0-a8df-6e6a30c2716b",
+      "time": "2026-10-19 15:26:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India's Nifty 50 fell 1.02%."
+    },
+    {
+      "id": "mkt:01a1530d-714c-7ee0-a8df-6469727f61e3",
+      "time": "2026-10-19 15:25:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Qatar deputy prime minister warns global energy shockwave has not peaked】Qatar’s deputy prime minister and minister of state for defence affairs warned at a Doha global security forum that the economic knock-on from Gulf energy supply disruptions “has not yet reached its peak,” and cautioned of further spillovers “in the coming days and months.” He flagged risks to east‑west global supply chains, potential spillover effects on Gulf investments in Europe and the US, and possible impacts on Gulf countries’ fiscal assistance to other states."
+    },
+    {
+      "id": "5153413",
+      "time": "2026-10-19 15:25:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【諾和諾德：司美格魯肽注射液在中國獲批48小時配送新條件】10月19日，諾和諾德宣佈，中國國家藥品監督管理局（NMPA）已批准更新司美格魯肽注射液（商品名：諾和盈®）產品資訊：在分發給患者的過程中，首次開啟前，諾和盈®可在2°C–30°C的溫度下儲存最長48小時。據諾和諾德介紹，此次批准使諾和盈®成為中國首個且唯一具備這一配送靈活性的GLP-1體重管理治療方案。"
+    },
+    {
+      "id": "5153412",
+      "time": "2026-10-19 15:24:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本海上自衛隊在中東的部署延長一年。"
+    },
+    {
+      "id": "te:economy:593062",
+      "time": "2026-10-19 15:24:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Israel",
+        "GDP Growth Annualized",
+        "Importance 0"
+      ],
+      "text": "Israel Q2 GDP Growth Revised Back to 15.4% — Israel’s economy grew at an annualized rate of 15.4% in the second quarter of 2026, revised upward from 14.9% in the second estimate and returning to the level reported in the initial estimate. This followed a downwardly revised 1.5% contraction in the first quarter. Exports, excluding startups and diamonds, rose by 17.7%, up from 16.6% in the second estimate but below the initial estimate of 25.2%. Growth in government spending was revised upward to 22.4%, compared with 22.2% in the second estimate and 19.5% in the initial estimate. Meanwhile, private consumption growth was revised down to 14.6% from 15.0% in the previous estimate. Investment in fixed assets was also weaker than initially reported, with growth at 4.1% in both the second and latest estimates, compared with 6.3% in the initial estimate. For the first half of 2026, the annualized growth rate was 3.7%, up from 3.5% in the second estimate and 3.2% in the initial estimate."
+    },
+    {
+      "id": "5153411",
+      "time": "2026-10-19 15:24:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY指數下跌1%，至22916.55。"
+    },
+    {
+      "id": "te:markets:593061",
+      "time": "2026-10-19 15:24:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Falls on US Treasury Decline — The yield on India’s 10-year G-Sec fell to around 7.36%, extending losses for another session as a sharp decline in US Treasury yields spurred value buying, offsetting inflation concerns from elevated crude oil prices. Indian yields tracked the US 10-year Treasury yield’s decline to around 5.05% amid expectations that the Federal Reserve may delay its next rate hike until December. Easing oil prices following a potential improvement in Russian supply also supported Indian yields. However, upside inflation risks persist, with September consumer inflation accelerating to 5.54% and potentially exceeding the RBI’s 6% upper tolerance limit in October. Meanwhile, expectations of further RBI tightening, growing bets on a 50-basis-point rate hike in December, and tighter banking-system liquidity continue to weigh on sentiment."
+    },
+    {
+      "id": "mkt:01a1530c-2537-7ee0-a8df-582a9eae7757",
+      "time": "2026-10-19 15:24:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "KYODO reports Japan's Maritime Self-Defense Force will extend its deployment in the Middle East by one year."
+    },
+    {
+      "id": "5153410",
+      "time": "2026-10-19 15:23:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明陽智慧成立新能源公司，含風電場相關係統研發業務】企查查APP顯示，近日，營口明能新能源有限公司成立，經營範圍包含：光伏裝置及元器件製造；太陽能發電技術服務；風電場相關係統研發；海上風電相關係統研發等。企查查股權穿透顯示，該公司由明陽智慧全資持股。"
+    },
     {
       "id": "5153409",
       "time": "2026-10-19 15:23:29",
