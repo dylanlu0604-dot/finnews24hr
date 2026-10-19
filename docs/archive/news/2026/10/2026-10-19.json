@@ -1,7 +1,55 @@
 {
   "date": "2026-10-19",
-  "count": 795,
+  "count": 800,
   "items": [
+    {
+      "id": "mkt:01a15206-19c1-7ee0-a8d9-2eb8c4a41b51",
+      "time": "2026-10-19 10:38:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "【China NBS: First nine months GDP >107 trln yuan; incremental output 5.7 trln yuan, largest in five years】China's National Bureau of Statistics said on Oct. 19 first‑nine‑months GDP exceeded 107 trillion yuan, up 4.6% YoY, in line with the government's full‑year growth target. Economic incremental output for the period totaled 5.7 trillion yuan, the largest first‑nine‑months increase in five years. The NBS spokesman said Q3 YoY growth rose 0.2 percentage point from Q2 and that, by some international agencies' estimates, a 4.6% YoY pace keeps China ahead of other major economies."
+    },
+    {
+      "id": "5153038",
+      "time": "2026-10-19 10:37:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【滬指拉昇翻紅，現漲0.2%】滬指拉昇翻紅，現漲0.2%，兵裝重組概念、白酒、銀行板塊領漲。"
+    },
+    {
+      "id": "5153037",
+      "time": "2026-10-19 10:36:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "三菱重工將於2027財年重啟日本岡山的造船設施。"
+    },
+    {
+      "id": "5153036",
+      "time": "2026-10-19 10:36:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家統計局：前三季度消費對經濟增長的貢獻率達到46.7%。"
+    },
+    {
+      "id": "5153035",
+      "time": "2026-10-19 10:34:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【泰國擬自2027年起將進口電動車消費稅提高至至少30%】據泰國財政部訊息人士透露，該部正準備提議將整車進口電動汽車的消費稅稅率提高至至少30%，新稅率預計於2027年1月1日生效。該提案預計將在兩週內提交內閣審議，針對的是未使用本地生產零部件、以整車形式進口的電動汽車。"
+    },
     {
       "id": "5153034",
       "time": "2026-10-19 10:34:36",
