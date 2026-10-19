@@ -1,7 +1,160 @@
 {
   "date": "2026-10-19",
-  "count": 723,
+  "count": 738,
   "items": [
+    {
+      "id": "5152996",
+      "time": "2026-10-19 10:15:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：促進商品消費供需匹配】商務部等9部門釋出關於加快推進科技興商的意見。其中提到，發展柔性製造，鼓勵企業應用工業大模型、邊緣智慧等技術構建自適應柔性生產系統，推廣按需生產、使用者直連製造（C2M）等新模式。大力發展基於人工智慧的個性化定製，培育一批具有行業影響力的定製品牌，滿足個性化消費需求。"
+    },
+    {
+      "id": "5152995",
+      "time": "2026-10-19 10:15:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.00%，現報11684.341點；上證指數跌0.45%，現報3699.590點；創業板指跌2.08%，現報2714.654點。"
+    },
+    {
+      "id": "5152994",
+      "time": "2026-10-19 10:15:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部： 推動商品供給迭代升級】商務部等9部門釋出關於加快推進科技興商的意見。其中提到，深入實施“人工智慧+製造”專項行動，加快人工智慧技術與產品研發、設計、製造、營銷深度融合，豐富智慧手機、電腦、家居、穿戴裝置、機器人等智慧商品供給。鼓勵基於安全可靠開源作業系統的智慧產品研發和應用。加快歷史經典產業轉型升級，開發經典名品精品。建設中國消費名品方陣，挖掘自主創新、品質高階的消費名品。大力發展科技農業，推動優質特色農產品提質增效。推動老字號守正創新發展，支援老字號企業運用現代生產技術進行產品創新。"
+    },
+    {
+      "id": "5152993",
+      "time": "2026-10-19 10:15:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌1%，現報6517.60點。"
+    },
+    {
+      "id": "te:markets:592951",
+      "time": "2026-10-19 10:15:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Australian Dollar Increases by 0.41% — Top currency gainers are Australian Dollar (0.41%), South Korean Won (0.37%), Japanese Yen (0.08%) and Chinese Yuan (0.07%). Biggest loser is Indian Rupee (-0.30%)."
+    },
+    {
+      "id": "mkt:01a151f0-e6bd-7ee0-a8d8-ae8d3b2e3fc4",
+      "time": "2026-10-19 10:15:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "Chinese A-share major indices opened lower and extended losses: the ChiNext index fell more than 2 pct, the Shenzhen Composite Index dropped 0.84 pct and the Shanghai Composite declined 0.35 pct; PCB, CRO and memory-chip sectors led declines."
+    },
+    {
+      "id": "5152992",
+      "time": "2026-10-19 10:14:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部： 升人工智慧、大資料、物聯網、雲端計算、區塊鏈、數字孿生、具身智慧等新技術應用水平 】商務部等9部門釋出關於加快推進科技興商的意見。其中提到，以習近平新時代中國特色社會主義思想為指導，深入貫徹黨的二十大和二十屆歷次全會精神，認真落實四中全會部署，完整準確全面貫徹新發展理念，堅持以高質量發展為首要任務，以科技創新為動力，以滿足人民日益增長的美好生活需要為出發點和落腳點，統籌推進商品消費提質、服務消費擴容、流通效率提升與場景融合創新，提升人工智慧、大資料、物聯網、雲端計算、區塊鏈、數字孿生、具身智慧等新技術應用水平，推動商貿全鏈條智慧化、綠色化、融合化發展，為建設強大國內市場提供有力支撐。"
+    },
+    {
+      "id": "mkt:01a151f0-ad03-7ee0-a8d8-a141578e2b1b",
+      "time": "2026-10-19 10:14:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "MOFCOM and eight other ministries issued opinions aimed at accelerating technology-driven commercial development."
+    },
+    {
+      "id": "mkt:01a151ef-d47c-7ee0-a8d8-9c1e45256cb0",
+      "time": "2026-10-19 10:13:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "JKSE",
+        "Impact bearish"
+      ],
+      "text": "Indonesian equities extended losses after MSCI announced last week it was considering a standalone market classification; the Jakarta Composite Index fell 4.7% to 4,941.63."
+    },
+    {
+      "id": "5152991",
+      "time": "2026-10-19 10:13:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.00%，現報2716.897點；上證指數跌0.35%，現報3703.367點；深證成指跌0.87%，現報11699.576點。"
+    },
+    {
+      "id": "te:economy:592950",
+      "time": "2026-10-19 10:13:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Capacity Utilization",
+        "Importance 1"
+      ],
+      "text": "China Industrial Capacity Usage Falls to 73.1% in Q3 — The industrial capacity utilization rate in China fell to 73.1% in the third quarter of 2026 from 74.6% in the corresponding period in the previous year. The decline was driven by lower production across the three major categories, such as the mining industry (69.5% vs 72.5% in Q3 2025), manufacturing industry (73.3% vs 74.8%), and electricity, heat, gas, and water supply (72.6% vs 74.3%)."
+    },
+    {
+      "id": "mkt:01a151ef-16a0-7ee0-a8d8-97a5af48e475",
+      "time": "2026-10-19 10:13:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP reports South Korean authorities plan to visit Kazakhstan to strengthen fisheries and aquaculture ties."
+    },
+    {
+      "id": "te:economy:592949",
+      "time": "2026-10-19 10:12:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Fixed Asset Investment",
+        "Importance 1"
+      ],
+      "text": "China Fixed Investment Drops 7.2% in Jan-Sep — China’s fixed-asset investment fell 7.2% year-on-year in the January-September 2026 period, matching the decline recorded in the first eight months of the year but missing market expectations for a 7.3% drop. Property investment remained the biggest drag, plunging 20.6% compared with a 19.9% decline in January–August, amid subdued housing demand, falling home prices, and persistent financing constraints for developers. Infrastructure investment contracted further (-4.2% vs -4%), while manufacturing investment fell at a slower pace (-2.1% vs -2.3%). By industry, investment continued to decline across all three sub-industries: primary industry (-3.9% vs -2.4%), secondary industry (-2.7% vs -2.9%), and tertiary industry (-10% vs -9.9%). On a monthly basis, fixed-asset investment edged up 0.07% in September, following a 0.55% decline in August."
+    },
+    {
+      "id": "5152990",
+      "time": "2026-10-19 10:12:54",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【今年前三季度貨物進出口總額同比增長18.8%】今天，國務院新聞辦召開新聞釋出會，國家統計局公佈了今年前三季度經濟資料。前三季度，貨物進出口總額399399億元，同比增長18.8%。其中，出口231979億元，增長16.4%；進口167420億元，增長22.3%。對共建“一帶一路”國家進出口增長17.1%。民營企業進出口增長19.1%，佔進出口總額的比重為56.9%。機電產品出口增長23.7%，佔出口總額的比重為64.3%。9月份，進出口總額51628億元，同比增長27.5%，比上月加快7.7個百分點。其中，出口30344億元，增長29.6%；進口21284億元，增長24.6%。（央視新聞）"
+    },
+    {
+      "id": "5152989",
+      "time": "2026-10-19 10:12:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼雅加達綜合指數下跌4.7%，至4941.63點。"
+    },
     {
       "id": "mkt:01a151ee-1326-7ee0-a8d8-8879789820b1",
       "time": "2026-10-19 10:11:59",
