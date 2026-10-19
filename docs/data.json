@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-20 05:23:02",
-  "count": 12863,
+  "updated": "2026-10-20 05:26:54",
+  "count": 12861,
   "items": [
+    {
+      "id": "5154548",
+      "time": "2026-10-20 05:23:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【前谷歌CEO所持Anthropic 1%股份有望帶來鉅額收益】前谷歌執行長埃裡克·施密特憑藉對初創企業Anthropic的早期投資，持有該公司約1%股份。隨著Anthropic即將IPO，這筆投資有望為他帶來單筆規模最大的個人鉅額收益之一。施密特在Anthropic A輪融資中投入數千萬美元。目前尚不清楚他在初始投資後是否出售過部分股份。根據公司上一輪融資估值，這家初創企業的7名聯合創始人每人身價已達80億美元。Pitchbook資料顯示，71歲的施密特在2021年首次押注Anthropic時，該公司估值為4.61億美元。上週，有投資者表示，該公司合理估值區間約在1.8萬億至2萬億美元。取該區間上限計算，Anthropic當前估值是其A輪融資時估值的4300倍以上。"
+    },
     {
       "id": "5154547",
       "time": "2026-10-20 05:19:12",
@@ -117883,31 +117891,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊總司令艾哈邁德·瓦希迪：任何域外大國都無權威脅、維持霸權存在或干涉霍爾木茲海峽和波斯灣。"
-    },
-    {
-      "id": "mkt:01a13201-2591-7ee0-a843-a64e3479ab1d",
-      "time": "2026-10-13 05:24:58",
-      "tags": [
-        "MKT News",
-        "KR.N"
-      ],
-      "text": "U.S. supermarket chain Kroger said it will cut about 3,000 corporate positions across multiple functions over the next three years."
-    },
-    {
-      "id": "5140139",
-      "time": "2026-10-13 05:24:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "問：你是否預計共和黨將贏得眾議院？\n\n特朗普：我們會表現得很出色。"
-    },
-    {
-      "id": "mkt:01a131ff-75b4-7ee0-a843-9d04299e5eab",
-      "time": "2026-10-13 05:23:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump: If I say Russia and Ukraine agreed to a ceasefire, they agreed】Asked after both Moscow and Kyiv denied agreeing to a ceasefire, Trump said: \"They agreed, you know why? Because I said 'you agree'. It's that simple.\" On reports that \"Russia violated the ceasefire tonight,\" he said he needed to \"see the situation,\" that both sides had breaches, and that Zelenskiy and Putin \"must sit down\" to end \"that absurd war.\""
     }
   ]
 }
