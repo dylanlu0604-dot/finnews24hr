@@ -1,7 +1,194 @@
 {
   "date": "2026-10-19",
-  "count": 738,
+  "count": 760,
   "items": [
+    {
+      "id": "5153010",
+      "time": "2026-10-19 10:19:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以色列飛奧地利航班接到炸彈威脅】奧地利航空公司證實，一架從以色列特拉維夫起飛、飛往奧地利維也納的奧地利航空客機，在當地時間10月18日深夜因收到炸彈威脅，被迫改道降落在保加利亞首都索非亞。#以色列起飛客機因遭威脅改降# 奧地利航空稱，目前正對這架空客A320飛機進行搜查，搜查完成後乘客將被改簽至其他替代航班。機上共有51名乘客和6名機組人員。 據報道，這架客機“在飛越羅馬尼亞邊境時，機組人員報告收到炸彈威脅，決定緊急降落在索非亞。”一架空軍戰鬥機全程伴飛該飛機直至其在索非亞降落，隨後乘客被疏散下機。 （CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:592953",
+      "time": "2026-10-19 10:19:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Yangtze Power Shares Hit 14-month High — China Yangtze Power shares increased to 29.64 CNY, the highest since July 2025. Over the past 4 weeks, China Yangtze Power gained 3.97%, and in the last 12 months, it increased 5.26%."
+    },
+    {
+      "id": "5153009",
+      "time": "2026-10-19 10:18:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱沙特空襲葉門北部致10死23傷】葉門胡塞武裝控制的馬西拉電視臺18日報道稱，沙烏地阿拉伯當天空襲葉門北部薩達省一處民宅，造成至少10人死亡、23人受傷。報道稱，沙特空襲擊中了薩達省薩哈爾地區塔維拉一帶的居民住宅，傷亡人員大多為婦女和兒童。沙特及沙特主導的多國聯軍尚未對此作出回應。（新華社）"
+    },
+    {
+      "id": "mkt:01a151f4-1c6e-7ee0-a8d8-d0e5e0ba4cc4",
+      "time": "2026-10-19 10:18:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK"
+      ],
+      "text": "【Tencent Cloud to include per-instance \"standard bandwidth\" free from Jan 1, 2027】Tencent Cloud said its distributed cache database bandwidth service has completed a network architecture upgrade. From Jan 1, 2027 the service will provide \"standard bandwidth\" free on a per-instance basis; usage above the free allocation will be billed flexibly based on actual consumption. The related billing item is Tencent Cloud distributed cache database bandwidth."
+    },
+    {
+      "id": "5153008",
+      "time": "2026-10-19 10:18:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊雲：2027年1月1日起正式開啟按例項維度免費贈送“標準頻寬”】為了提供更穩定、彈性與高效的網路傳輸保障，騰訊雲分散式快取資料庫頻寬服務已完成網路架構全面升級，分散式快取資料庫頻寬服務將於2027年1月1日起正式開啟按例項維度免費贈送“標準頻寬”，超額部分按實際用量彈性計費。該計費功能上線後，涉及的計費項是騰訊雲分散式快取資料庫頻寬。（騰訊雲）"
+    },
+    {
+      "id": "5153007",
+      "time": "2026-10-19 10:18:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：不會就個別內閣支援率民調置評。"
+    },
+    {
+      "id": "5153006",
+      "time": "2026-10-19 10:18:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：加推動具身智慧技術在商貿領域落地，拓展家庭服務、商貿物流等應用場景】商務部等9部門釋出關於加快推進科技興商的意見。其中提到，打造智慧化場景。培育商業智慧體新業態，開發智慧導購、智慧運營、智慧物流等專業智慧體。推動具身智慧技術在商貿領域落地，拓展家庭服務、商貿物流等應用場景。發展雲逛街、雲展示等智慧消費場景，支援數字孿生等技術在消費場景中的應用。"
+    },
+    {
+      "id": "5153005",
+      "time": "2026-10-19 10:17:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：加強強制性產品認證（CCC認證）電商平臺聯網核查】商務部等9部門釋出關於加快推進科技興商的意見。其中提到，構建電子商務品質化生態。開展品質電商培育行動，推廣“先鑑別後發貨”模式，提升平臺全鏈路質量管理水平。強化家電、家裝家居、電子產品等重點領域網售商品的質量標準、檢驗和品牌建設。加強強制性產品認證（CCC認證）電商平臺聯網核查。推進重點領域產品CCC認證標誌試點改革，加施CCC追溯二維碼。"
+    },
+    {
+      "id": "mkt:01a151f3-370f-7ee0-a8d8-cb12b9355557",
+      "time": "2026-10-19 10:17:36",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "【MOFCOM, eight ministries call for accelerated R&D in new-display and smart-terminal technologies】MOFCOM and eight other ministries issued guidance to speed technology-driven commerce, prioritizing accelerated R&D and commercialization of key technologies in new displays, smart terminals and related fields and urging expansion of application scenarios and viable business models. The guidance calls for demonstration projects and the creation of commercial technology application innovation centers, the cultivation of tech-transfer institutions in consumer goods to fast-track frontier technologies such as brain–computer interfaces and embodied intelligence to market, and support for trade firms in intelligent warehousing and digital supply chains to apply for 'specialized, refined, distinctive and innovative' enterprise designation."
+    },
+    {
+      "id": "5153004",
+      "time": "2026-10-19 10:17:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：深化批發業和產業數字化協同，推動批發企業線上線下融合發展】商務部等9部門釋出關於加快推進科技興商的意見。其中提到，推動批發零售數智化升級。深化批發業和產業數字化協同，推動批發企業線上線下融合發展。加快農產品批發市場數智化轉型，提升農產品集散流通效能。實施零售業創新提升工程。鼓勵企業應用數字技術最佳化門店佈局、進銷存管理、物流配送、防偽溯源、售後管理等環節。"
+    },
+    {
+      "id": "mkt:01a151f3-250a-7ee0-a8d8-c6398b0b4a3e",
+      "time": "2026-10-19 10:17:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "【MOFCOM and eight ministries push ‘AI+Manufacturing’ action, encourage smart products on secure open-source OS】MOFCOM and eight other ministries issued guidance to accelerate tech-driven commerce, calling for an upgrade in goods supply and deep implementation of an “AI+Manufacturing” special action. The guidance directs faster integration of AI across product R&D, design, manufacturing and marketing to expand smart-product supply — citing smartphones, PCs, home appliances, wearables and robots. It specifically encourages R&D and deployment of smart products built on secure, reliable open-source operating systems. The document also urges transformation and premium upgrading of legacy industries and brands, building a cohort of high-end Chinese consumer goods rooted in homegrown innovation, promotes tech-driven agriculture to raise quality and efficiency of specialty farm products, and supports time-honored brands in adopting modern production technologies for product innovation."
+    },
+    {
+      "id": "mkt:01a151f3-0f53-7ee0-a8d8-b94e7046834e",
+      "time": "2026-10-19 10:17:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【MOFCOM and eight ministries urge flexible manufacturing, promote industrial large models and edge intelligence】MOFCOM and eight other ministries issued guidance to accelerate tech-driven commerce, calling for development of flexible manufacturing and urging firms to deploy industrial large models and edge intelligence to build adaptive, flexible production systems, promote on-demand production and consumer-to-manufacturer (C2M) models, and scale AI-based personalized customization and industry-leading custom brands to meet personalized consumption demand."
+    },
+    {
+      "id": "mkt:01a151f3-020d-7ee0-a8d8-b0b74d2f4852",
+      "time": "2026-10-19 10:17:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【MOFCOM and eight ministries urge upgrades to basic-demand services, encourage smart elderly-care facilities】MOFCOM and eight other ministries issued guidance to accelerate tech-driven commerce and raise basic-demand service standards. Key measures: promote new home-service models by supporting partnerships between housekeeping firms and tech companies to build intelligent home-service platforms; speed restaurant digitalization and publish exemplar digital cases; support qualified localities to pilot AI in health management, pharmacy services and rehabilitation nursing to expand quality medical supply; and improve eldercare and childcare services by encouraging regions with capacity to develop smart elderly-care institutions and fast-track new smart eldercare and childcare business models."
+    },
+    {
+      "id": "5153003",
+      "time": "2026-10-19 10:17:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：實施加快數智供應鏈發展專項行動，深化物聯網、雲端計算、區塊鏈等技術協同創新】商務部等9部門釋出關於加快推進科技興商的意見。其中提到，提升供應鏈整合化效能。實施加快數智供應鏈發展專項行動，深化物聯網、雲端計算、區塊鏈等技術協同創新。推廣智慧立體倉庫、智慧物流裝備、無人配送等設施裝置，推進倉配運智慧一體化。發展綠色供應鏈，推廣綠色技術、綠色採購、綠色產品與綠色包裝。培育一批數智供應鏈領軍企業，賦能鏈上中小企業。"
+    },
+    {
+      "id": "5153002",
+      "time": "2026-10-19 10:17:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【六方半導體完成超億元C1輪融資】近日，六方半導體完成超億元C1輪股權融資，由北京倉廩資本與諸暨產業投資集團聯合出資，資金將用於前沿新品研發及產能擴建。公司佔地100畝的新廠房預計於2026年12月投產。據天眼查顯示，浙江六方半導體科技有限公司申請的“一種CVD-SiC塗層耐金屬汙染腐蝕的檢測評估方法”發明專利於10月16日公佈。摘要顯示，該方法在塗層試樣表面形成金屬汙染膜，經高溫腐蝕後檢測失效情況，再計算金屬腐蝕失效指數，用於量化比較不同批次、工藝和供應商的塗層。該專利尚未獲授權。"
+    },
+    {
+      "id": "5153001",
+      "time": "2026-10-19 10:17:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：支援超高畫質視聽技術研發與產業化，推動沉浸式視聽在商圈、文化娛樂、旅遊、教育培訓等多領域應用】商務部等9部門釋出關於加快推進科技興商的意見。其中提到，做優個性化服務品質。堅持科技向善，培育健康規範的機器人、虛擬數字人陪伴等智慧服務新業態。支援超高畫質視聽技術研發與產業化，推動沉浸式視聽在商圈、文化娛樂、旅遊、教育培訓等多領域應用。運用人工智慧、數字孿生等技術，最佳化文化、旅遊、體育、國潮、歷史經典產業等領域IP研發設計，推動跨界融合。"
+    },
+    {
+      "id": "5153000",
+      "time": "2026-10-19 10:16:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀河航天入股衛星柔性太陽翼研發商昇帆科技】企查查APP顯示，近日，北京昇帆科技有限公司發生工商變更，新增銀河航天（北京）科技集團股份有限公司為股東。企查查資訊顯示，該公司成立於2024年，經營範圍包含：電機及其控制系統研發；軟體開發；高效能纖維及複合材料製造；機械電氣裝置製造等。公開資訊顯示，該公司專注於衛星柔性太陽翼研發與生產。"
+    },
+    {
+      "id": "5152999",
+      "time": "2026-10-19 10:16:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：開展“人工智慧+文化和旅遊”應用試點，推動人工智慧與擴充套件現實等技術融合應用】商務部等9部門釋出關於加快推進科技興商的意見。其中提到，擴大升級類服務供給。升級國家智慧教育平臺，面向社會開放優質教育資源，豐富教育服務場景。開展“人工智慧+文化和旅遊”應用試點，推動人工智慧與擴充套件現實等技術融合應用，開發特色文旅產品與智慧服務，提升文旅服務消費供給。推進“資料要素×體育”行動，發展沉浸式互動式觀賽等體育消費新模式。加快推廣普及一體化電視、插入式微型機頂盒等便捷電視終端，推動視聽電子消費擴量提質。"
+    },
+    {
+      "id": "5152998",
+      "time": "2026-10-19 10:16:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：提升基本需求類服務水平】創新家政服務模式，支援家政企業與科技企業合作，打造智慧家政服務平臺。加快餐飲數字化轉型，釋出一批餐飲數字化典型案例。支援有條件的地方探索人工智慧技術在健康管理、藥學服務、康復護理等場景的普惠化應用，擴大優質醫療健康服務供給。提升養老托育服務品質，鼓勵具備條件的地區建設智慧養老服務機構，加快智慧養老托育新業態發展。"
+    },
+    {
+      "id": "5152997",
+      "time": "2026-10-19 10:16:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：激發商品消費市場活力】商務部等9部門釋出關於加快推進科技興商的意見。其中提到，依託消博會、數貿會、農交會等展會，搭建科技成果展示、交流、交易平臺。培育細分消費熱點，打造科技新品消費場景，釋放細分領域消費潛力。推動智慧消費設施和服務向縣域延伸，完善縣域智慧產品服務網路，激發下沉市場活力。"
+    },
     {
       "id": "5152996",
       "time": "2026-10-19 10:15:31",
@@ -156,6 +343,15 @@
       "text": "印尼雅加達綜合指數下跌4.7%，至4941.63點。"
     },
     {
+      "id": "em:jjsj_zgsj:202610193899589346",
+      "time": "2026-10-19 10:12:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：前三季度貨物進出口總額399399億元 同比增長18.8%】據國家統計局，前三季度，貨物進出口總額399399億元，同比增長18.8%。其中，出口231979億元，增長16.4%；進口167420億元，增長22.3%。對共建“一帶一路”國家進出口增長17.1%。民營企業進出口增長19.1%，佔進出口總額的比重為56.9%。機電產品出口增長23.7%，佔出口總額的比重為64.3%。9月份，進出口總額51628億元，同比增長27.5%，比上月加快7.7個百分點。"
+    },
+    {
       "id": "mkt:01a151ee-1326-7ee0-a8d8-8879789820b1",
       "time": "2026-10-19 10:11:59",
       "tags": [
@@ -247,6 +443,15 @@
         "公司"
       ],
       "text": "半導體晶片股震盪調整，恆運昌、芯朋微跌超10%，和林微納、拓荊科技、先導基電、強一股份、氣派科技等十餘股跌超7%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610193899590661",
+      "time": "2026-10-19 10:10:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：前三季度農業（種植業）增加值同比增長3.6%】據國家統計局，前三季度，農業（種植業）增加值同比增長3.6%。全國夏糧早稻產量合計17904萬噸，比上年增加78萬噸，增長0.4%。秋糧生產形勢良好，全年糧食有望再獲豐收。前三季度，豬牛羊禽肉產量7627萬噸，同比增長4.3%，其中，豬肉、禽肉產量分別增長3.2%、9.3%，牛肉、羊肉產量分別下降0.7%、3.7%；牛奶產量增長2.4%，禽蛋產量下降1.7%。"
     },
     {
       "id": "5152983",
