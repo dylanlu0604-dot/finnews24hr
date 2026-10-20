@@ -1,7 +1,103 @@
 {
   "date": "2026-10-20",
-  "count": 2063,
+  "count": 2073,
   "items": [
+    {
+      "id": "mkt:01a15997-5198-7ee0-a908-4c8d709f4813",
+      "time": "2026-10-20 21:54:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. AI czar Clayton said he will soon submit AI-related recommendations."
+    },
+    {
+      "id": "mkt:01a15997-218b-7ee0-a908-44657b97da0d",
+      "time": "2026-10-20 21:53:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Traders: Argentina's country risk premium topped 700 bps, the highest since October 2025."
+    },
+    {
+      "id": "5156323",
+      "time": "2026-10-20 21:53:49",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "交易員：阿根廷國家風險溢價超過700個基點，為2025年10月以來最高水平。"
+    },
+    {
+      "id": "5156322",
+      "time": "2026-10-20 21:53:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國情報總監兼人工智慧事務負責人傑伊·克萊頓： 很快將釋出人工智慧相關建議 。"
+    },
+    {
+      "id": "mkt:01a15996-3821-7ee0-a908-3b3105d257ec",
+      "time": "2026-10-20 21:52:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "DOE deputy secretary said diesel prices are running above broad expectations and the department is coordinating with refiners to identify ways to raise production."
+    },
+    {
+      "id": "5156321",
+      "time": "2026-10-20 21:52:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【10月20日增減持彙總】10月20日盤後，據不完全統計，捷安高科披露擬減持情況，ST華聞、興發集團披露擬增持情況。"
+    },
+    {
+      "id": "5156320",
+      "time": "2026-10-20 21:52:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部副部長豪斯特維特表示，柴油價格目前高於所有人的預期，正在與煉油商合作尋求增產途徑。"
+    },
+    {
+      "id": "mkt:01a15995-a622-7ee0-a908-3537706bb4b7",
+      "time": "2026-10-20 21:52:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's prime minister's spokesman said the prime minister met US Defense Secretary Hegseth in Israel on Monday."
+    },
+    {
+      "id": "5156319",
+      "time": "2026-10-20 21:51:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡發言人證實，總理週一在以色列會見了美國國防部長赫格塞思。"
+    },
+    {
+      "id": "5156318",
+      "time": "2026-10-20 21:51:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【我國航運金融保險國際影響力持續提升】10月20日，記者從2026北外灘國際航運論壇“金融與保險”主題論壇上獲悉，截至2025年年底，我國融資租賃船隊資產規模佔全球的8.2%，融資租賃船舶3100餘艘、1.8億總噸，規模全球領先；2025年，我國海上貨運險保費居全球首位，船舶險保費居全球第二位；上海出口集裝箱運價指數（歐線）期貨上市三年來，累計成交額超6萬億元，2025年成交量約為境外同類品種總和的5倍……我國航運金融保險國際影響力持續提升。（交通運輸部）"
+    },
     {
       "id": "5156317",
       "time": "2026-10-20 21:50:50",
