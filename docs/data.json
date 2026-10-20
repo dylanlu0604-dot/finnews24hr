@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-21 03:09:18",
-  "count": 13528,
+  "updated": "2026-10-21 03:13:03",
+  "count": 13534,
   "items": [
+    {
+      "id": "mkt:01a15ab9-de83-7ee0-a90f-75bf13c83c4b",
+      "time": "2026-10-21 03:11:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he and Vice President Vance have not discussed a 2028 presidential bid."
+    },
+    {
+      "id": "mkt:01a15ab9-9b33-7ee0-a90f-6c96c1dd1c63",
+      "time": "2026-10-21 03:11:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Somalia is a terrible place and not really a country."
+    },
+    {
+      "id": "mkt:01a15ab8-f96a-7ee0-a90f-6657f8289db0",
+      "time": "2026-10-21 03:10:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said it is too early to say whether he would support Vice President Vance running in the 2028 presidential election."
+    },
+    {
+      "id": "5156836",
+      "time": "2026-10-21 03:10:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普談2028年背書支援副總統萬斯的可能性，稱：一切都還言之太早。"
+    },
+    {
+      "id": "mkt:01a15ab8-acc2-7ee0-a90f-5a59f2105efe",
+      "time": "2026-10-21 03:10:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump: This is still not good enough for me."
+    },
+    {
+      "id": "5156835",
+      "time": "2026-10-21 03:10:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普談美國副總統萬斯2028年參選：我認為我們從未討論過此事。"
+    },
+    {
+      "id": "mkt:01a15ab8-6574-7ee0-a90f-52abc9134bd4",
+      "time": "2026-10-21 03:09:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the US can withdraw from Iran immediately and has done an excellent job."
+    },
     {
       "id": "5156830",
       "time": "2026-10-21 03:08:49",
@@ -123693,14 +123753,6 @@
         "S&P500"
       ],
       "text": "【Dalio: US bond bear market far from over; supply-demand imbalance to push yields higher】Bridgewater founder Ray Dalio said the US bond sell-off is far from over as rising government and corporate funding needs and weaker demand from some traditional buyers intensify pressure on Treasuries. He warned the US is entering a phase in which higher bond supply will push yields up, and rising borrowing costs will further enlarge debt — a cycle that would only end if high rates weaken the economy and financial markets enough to rebalance supply and demand. Dalio said US debt is at its highest level since WWII and is likely to worsen in coming years. He noted the government expects to roll about $10 tln of maturing debt this year and to add roughly $2.1 tln in new borrowing. He cautioned demand from major foreign Treasury holders could weaken while corporate bond and equity issuance to fund AI infrastructure competes with Treasuries for capital. He also said signs in corporate credit show investors are demanding higher returns to absorb new supply. Given rising supply and weakening demand, Dalio said shorting Treasuries remains more attractive than going long."
-    },
-    {
-      "id": "5143041",
-      "time": "2026-10-14 03:09:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普指責胡塞武裝蓄意推高油價】美國總統特朗普10月13日在社交媒體發文，指責葉門胡塞武裝以“非常惡劣”的手段打擊沙烏地阿拉伯，並很可能“蓄意在美國中期選舉前推高油價”。當天早些時候，特朗普在離開白宮前往阿拉斯加州前還對媒體說，他已與沙特王儲兼首相穆罕默德通了話，但拒絕透露是否已決定加入沙特打擊胡塞武裝的行動。他還說，將很快就伊朗問題作出決定。特朗普10月10日曾表示，他正在評估美國是否應該加入沙特對胡塞武裝的打擊行動，並將“儘快做出決定”。 (CCTV國際時訊)"
     }
   ]
 }

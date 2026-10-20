@@ -1,7 +1,67 @@
 {
   "date": "2026-10-21",
-  "count": 342,
+  "count": 349,
   "items": [
+    {
+      "id": "mkt:01a15ab9-de83-7ee0-a90f-75bf13c83c4b",
+      "time": "2026-10-21 03:11:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he and Vice President Vance have not discussed a 2028 presidential bid."
+    },
+    {
+      "id": "mkt:01a15ab9-9b33-7ee0-a90f-6c96c1dd1c63",
+      "time": "2026-10-21 03:11:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Somalia is a terrible place and not really a country."
+    },
+    {
+      "id": "mkt:01a15ab8-f96a-7ee0-a90f-6657f8289db0",
+      "time": "2026-10-21 03:10:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said it is too early to say whether he would support Vice President Vance running in the 2028 presidential election."
+    },
+    {
+      "id": "5156836",
+      "time": "2026-10-21 03:10:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普談2028年背書支援副總統萬斯的可能性，稱：一切都還言之太早。"
+    },
+    {
+      "id": "mkt:01a15ab8-acc2-7ee0-a90f-5a59f2105efe",
+      "time": "2026-10-21 03:10:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump: This is still not good enough for me."
+    },
+    {
+      "id": "5156835",
+      "time": "2026-10-21 03:10:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普談美國副總統萬斯2028年參選：我認為我們從未討論過此事。"
+    },
+    {
+      "id": "mkt:01a15ab8-6574-7ee0-a90f-52abc9134bd4",
+      "time": "2026-10-21 03:09:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the US can withdraw from Iran immediately and has done an excellent job."
+    },
     {
       "id": "5156830",
       "time": "2026-10-21 03:08:49",
