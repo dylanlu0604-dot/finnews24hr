@@ -1,7 +1,44 @@
 {
-  "updated": "2026-10-20 08:53:32",
-  "count": 12806,
+  "updated": "2026-10-20 08:57:16",
+  "count": 12803,
   "items": [
+    {
+      "id": "5154728",
+      "time": "2026-10-20 08:56:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長江中下游仍多降雨 北方多地將度過下半年來最冷一天】今天（10月20日），長江中下游仍有降雨。明天起，中東部將維持降水稀少的格局，新疆北部等地有明顯雨雪天氣。受冷空氣影響，中東部將自北向南陸續出現降溫，北方氣溫會大面積創下半年來新低。"
+    },
+    {
+      "id": "5154727",
+      "time": "2026-10-20 08:54:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟增長戰略擔當大臣木內實：高市內閣充分尊重日本央行的獨立性。"
+    },
+    {
+      "id": "te:markets:593245",
+      "time": "2026-10-20 08:53:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Fall on Tech Weakness — The Nikkei 225 Index fell 1% to around 64,300 on Tuesday, approaching one-month lows as concerns over AI spending and rising borrowing costs continued to weigh on technology stocks. Japanese equities also diverged from Wall Street’s overnight recovery, led by chipmakers, as local companies remain highly vulnerable to AI-related selloffs. Notable decliners included Kioxia Holdings (-2.9%), SoftBank Group (-4.8%), Taiyo Yuden (-3.4%), Fujikura (-4.2%) and Tokyo Electron (-1.7%). Financial stocks also weakened, with Mitsubishi UFJ falling 1.5%, Mizuho Financial declining 2.8% and Sumitomo Mitsui slipping 1.6%. On monetary policy, Bank of Japan Governor Kazuo Ueda said underlying inflation was already nearing the central bank’s 2% target, reinforcing expectations of a potentially tighter policy stance. Meanwhile, investors are awaiting upcoming trade and inflation data for further indications of Japan’s economic outlook."
+    },
+    {
+      "id": "5154726",
+      "time": "2026-10-20 08:53:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普和副總統萬斯將於當地時間20日下午1點30分發表宣告。"
+    },
     {
       "id": "5154725",
       "time": "2026-10-20 08:52:45",
@@ -99,6 +136,14 @@
         "其他"
       ],
       "text": "【厄瓜多持續降雨引發災害已致3死 超2.3萬人受災】當地時間10月19日，厄瓜多國家風險管理秘書處通報，該國多地因持續強降雨出現洪水、河流漫溢等險情。當天公佈的資料顯示，自8月29日全國因厄爾尼諾現象相關風險釋出紅色警戒以來，全國已記錄430起降雨相關災害事件，波及22個省，多個省份出現洪水、滑坡和河流泛濫，超過2.3萬人受到影響，3人死亡。厄瓜多政府同日宣佈，由於持續降雨引發洪水災害，洛斯里奧斯省、聖埃萊娜省和瓜亞斯省暫停教學活動。"
+    },
+    {
+      "id": "5154718",
+      "time": "2026-10-20 08:45:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信維通訊：近期已為客戶的智慧駕駛計程車提供車載星鏈裝置零部件】信維通訊在互動平臺表示，過去五年，公司為北美客戶的地面接收終端提供包括高頻高速類聯結器等產品。隨著客戶全球衛星網路的完善與佈局，近期公司已開始為客戶的智慧駕駛計程車提供車載星鏈裝置零部件。"
     },
     {
       "id": "mkt:01a156c4-2238-7ee0-a8f1-25975d7976d3",
@@ -117185,78 +117230,6 @@
         "其他"
       ],
       "text": "【10月12日202股獲融資買入超億元 中際旭創穫買入12.73億元居首】10月12日共有3527只個股獲融資資金買入，有202股買入金額超億元。其中，中際旭創、長鑫科技、寒武紀融資買入金額排名前三，分別獲買入12.73億元、9.62億元、8.98億元。"
-    },
-    {
-      "id": "5140331",
-      "time": "2026-10-13 08:56:15",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【摩根大通和高盛降低對AI雲初創公司Volta 50億美元貸款交易的風險敞口】隨著投資者對與人工智慧(AI)熱潮相關的高風險債務提出更高收益率要求，摩根大通和高盛在為AI初創公司Volta Infrastructure Holdings Ltd.安排50億美元貸款交易時，罕見地採取措施限制自身風險敞口。這兩家銀行正牽頭為新興AI雲公司Volta安排貸款融資。據知情人士透露，兩家銀行為Volta承銷了其中13億美元的定期貸款，而未承銷另外37億美元晶片貸款，旨在降低潛在風險。Volta的債務融資收益率約為11%，是目前AI融資領域流行的槓桿貸款市場中最高的借貸成本之一。值得注意的是，該交易未獲評級，這通常會讓此類債務的最大買家貸款抵押債券(CLO)卻步。知情人士還表示，為AI熱潮提供融資，尤其是幫助那些新成立或商業模式尚未經過市場檢驗的企業融資時，銀行往往需要在槓桿融資市場採用非常規的承銷結構。他們補充說，銀行正試圖規避潛在風險，確保不會陷入被動局面。"
-    },
-    {
-      "id": "5140330",
-      "time": "2026-10-13 08:55:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟外長會凸顯歐美對俄政策分歧】當地時間12日，歐盟各國外長在盧森堡舉行會議，除加大對俄羅斯制裁之外，美俄“柴油協議”也成為會議焦點。多國外長對該協議表示質疑，歐美在對俄政策和能源供應上的分歧進一步顯現。當天，針對美國計劃進口30萬噸俄羅斯柴油並放鬆相關制裁的決定，立陶宛、瑞典、愛爾蘭等國外長紛紛表達了不滿。立陶宛外長佈德里斯表示，這項協議既無助於降低石油產品價格，也不利於維護跨大西洋團結。歐盟外交與安全政策高階代表卡拉斯則強調，要結束俄烏衝突，就必須繼續加大對俄壓力，而不是放鬆制裁。（央視）"
-    },
-    {
-      "id": "5140329",
-      "time": "2026-10-13 08:55:33",
-      "tags": [],
-      "text": "SK海力士跌超7％，三星電子跌近6％。"
-    },
-    {
-      "id": "mkt:01a132c1-b196-7ee0-a846-156e173be4d8",
-      "time": "2026-10-13 08:55:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets",
-        "000660.KS",
-        "Impact bearish",
-        "005930.KS"
-      ],
-      "text": "【KOSPI plunges 5%】South Korea's KOSPI extended losses to 5% as SK Hynix slid more than 7% and Samsung Electronics fell nearly 6%."
-    },
-    {
-      "id": "5140328",
-      "time": "2026-10-13 08:55:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4180美元/盎司，日內跌0.25%。"
-    },
-    {
-      "id": "5140327",
-      "time": "2026-10-13 08:54:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數下跌1%至270.78點。"
-    },
-    {
-      "id": "5140326",
-      "time": "2026-10-13 08:54:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌5.1%，至6061.82點。"
-    },
-    {
-      "id": "5140325",
-      "time": "2026-10-13 08:54:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【厄爾尼諾持續增強 秋冬旱澇風險要早防】厄爾尼諾是赤道附近太平洋中東部海水持續異常變暖的現象。近日，世界氣象組織釋出最新全球季節性氣候通報，預計今年10月至12月，反映厄爾尼諾強度的測溫區“尼諾3.4區域”，季節平均海表溫度將比平常高出3.7℃，並於12月前後達到峰值。厄爾尼諾會影響空氣流動和水汽輸送，使我國一些地方雨水增多，另一些地方可能出現乾旱。南方部分地區需要警惕雨水集中、河流水位快速上漲。北方地區10至12月仍要防範區域性異常降雨，提前檢查河道、水庫和堤防。（央視）"
     }
   ]
 }
