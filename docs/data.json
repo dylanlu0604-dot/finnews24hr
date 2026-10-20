@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-21 05:35:19",
-  "count": 13515,
+  "updated": "2026-10-21 05:39:08",
+  "count": 13517,
   "items": [
+    {
+      "id": "mkt:01a15b3d-73b8-7ee0-a912-5998d3ae7fa6",
+      "time": "2026-10-21 05:35:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) will offer 10,000 work-experience placements in the UK under a Youth Promise and has pledged to create 30,000 jobs in the UK by 2030. All roles convert to a pro‑rated annual salary above £31,000 and include private health insurance and pension coverage."
+    },
+    {
+      "id": "mkt:01a15b3d-6ece-7ee0-a912-56f51a82c476",
+      "time": "2026-10-21 05:35:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SPCX.O"
+      ],
+      "text": "Musk said it would be prudent for SpaceX (SPCX.O) to sign short-term contracts to lease AI data-center capacity."
+    },
+    {
+      "id": "5156975",
+      "time": "2026-10-21 05:34:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX 目標 2029 年在路易斯安那州實現規模化發射。"
+    },
     {
       "id": "5156974",
       "time": "2026-10-21 05:34:36",
@@ -123466,15 +123499,6 @@
         "Brent"
       ],
       "text": "Saudi Press Agency quoted a Saudi energy ministry official saying ARAMCO's headquarters was attacked, causing a minor fire and no casualties."
-    },
-    {
-      "id": "5143133",
-      "time": "2026-10-14 05:35:47",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【英國央行行長貝利警告稱能源衝擊持續越久 通脹壓力越難抵擋】英國央行行長貝利表示，美伊戰爭引發的能源成本衝擊目前對英國整體通脹的影響仍較有限，但隨著時間推移，避免更廣泛的通脹影響正變得越來越困難。“我們需要重點關注，這種通脹衝擊向間接效應和二輪效應傳導。”貝利在採訪中表示，“目前來看，這種傳導在英國相對溫和，這顯然令我感到鼓舞。但持續時間越長，情況就越難應對。”當被問及英國利率是否很快會上調時，貝利沒有直接作答。他表示，“我們一直以來所依據的分析框架並沒有改變。”上個月，貝利曾警告稱，石油和天然氣成本維持高位的時間越長，就越難抵擋加息壓力。"
     }
   ]
 }
