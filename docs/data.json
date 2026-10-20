@@ -1,7 +1,109 @@
 {
-  "updated": "2026-10-20 10:19:00",
-  "count": 12962,
+  "updated": "2026-10-20 10:22:50",
+  "count": 12973,
   "items": [
+    {
+      "id": "mkt:01a1571d-dcad-7ee0-a8f4-1d310df8f3c8",
+      "time": "2026-10-20 10:22:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan finance minister Katayama says will preserve fiscal prudence when funding defense】Japan finance minister Katayama said Tokyo will factor fiscal sustainability into plans to raise funds for expanded defense spending, responding to local media reports that the government is weighing a corporate tax increase to help finance the buildup. Katayama said ministries are holding pragmatic, detailed discussions on required defense capabilities and attendant spending levels, and that any funding measures will be chosen with fiscal sustainability in mind and to ensure stable funding sources."
+    },
+    {
+      "id": "5154893",
+      "time": "2026-10-20 10:21:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為工程師入駐DeepSeek，雙方合作加速】DeepSeek與華為的合作，正在從軟體適配深入晶片設計。據知情人士透露，華為工程師已在DeepSeek辦公室駐紮較長時間，將大模型訓練中的實際需求納入下一代晶片的設計決策，包括如何分配計算任務，以及如何在處理器之間傳輸資料。雙方合作的下一步，是大規模預訓練。DeepSeek計劃最早於今年年底開始使用華為升騰950DT進行預訓練，相關測試仍在進行，具體時間可能變化。此前，DeepSeek已使用華為晶片執行模型和開展後訓練。"
+    },
+    {
+      "id": "mkt:01a1571c-9925-7ee0-a8f4-16b576c18b7a",
+      "time": "2026-10-20 10:20:54",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【China deputy financial regulator Cong Lin says insurers must align with national strategic priorities】At the Financial Street Forum, Deputy head Cong Lin told insurers to target national strategic priorities and weak links, positioning the sector as an economic shock absorber and social stabilizer. He urged insurers to accelerate development of full-chain, full-cycle insurance products for tech innovation, green transition and six-network construction, expand coverage of technology, green and liability insurance, and improve pilot compensation mechanisms and risk-dispersal models for tech insurance. He said insurers should supply tailored consumer insurance to help stabilize expectations and boost domestic demand, and use insurance funds as patient capital — via equity, debt plans and securitization — to provide more long-term financing for major national strategies, new-type infrastructure and strategic emerging industries."
+    },
+    {
+      "id": "5154892",
+      "time": "2026-10-20 10:20:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代、奇瑞汽車合資新能源公司，註冊資本10億元】企查查APP顯示，近日，寧德時代奇瑞（蕪湖）新能源科技有限公司成立，註冊資本10億元，經營範圍包含：電池製造；電池零配件生產；電池銷售；電池零配件銷售；儲能技術服務等。企查查股權穿透顯示，該公司由寧德時代、奇瑞汽車共同持股。"
+    },
+    {
+      "id": "5154891",
+      "time": "2026-10-20 10:20:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉利控股董事長李書福：吉利已投入運營甲醇電動汽車超過6萬臺】10月20日，2026可持續全球領導者大會在上海舉行。吉利控股集團董事長李書福在致辭時表示，吉利堅定推進電動化、智慧化轉型，其中甲醇電動路線是吉利一直在探索的可持續發展路線。李書福表示，甲醇可以和電能、氫能構建多元互補的新型能源體系。截至目前，吉利已投入運營甲醇電動汽車超過6萬臺，累計行駛里程突破250億公里。"
+    },
+    {
+      "id": "mkt:01a1571b-e59f-7ee0-a8f4-0afd75302d49",
+      "time": "2026-10-20 10:20:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Chongqing Jan–Sep 2026 GDP 2.571 tln yuan, +4.3% YoY】Chongqing GDP in Jan–Sep 2026 was 2.571 trillion yuan, up 4.3% YoY at constant prices. Sector value added: primary 152.664 bln yuan (+3.9% YoY); secondary 857.374 bln yuan (+1.7%); tertiary 1,561.113 bln yuan (+5.8%)."
+    },
+    {
+      "id": "mkt:01a1571b-5929-7ee0-a8f4-04389f9b5d60",
+      "time": "2026-10-20 10:19:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share humanoid-robotics sector extended gains. Changying Precision hit the daily limit; Huami New Materials, Orbbec, Hanwei Technology, Suochen Technology and Huayi Technology rose more than 10%; Fulaixin New Materials, Ningbo Dongli, Zhejiang Rongtai and Quectel earlier hit limit-up."
+    },
+    {
+      "id": "mkt:01a1571a-e338-7ee0-a8f3-f8dc9d74f7ce",
+      "time": "2026-10-20 10:19:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan PM Takaichi says will not use deficit-covering bonds to fund food sales tax cut】Prime Minister Takaichi said on Monday she will not use deficit-covering government bonds to fill revenue gaps from a temporary cut to the food sales tax. She did not rule out issuing bonds to fund the overall national budget, but said the government’s position “remains unchanged” and that earlier Diet comments had been misreported."
+    },
+    {
+      "id": "5154890",
+      "time": "2026-10-20 10:18:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【工程機械板塊走高，天元智慧漲停，】工程機械板塊走高，天元智慧漲停，永達股份此前封板，福事特、萬通液壓、五新智慧、廈工股份、同力股份等跟漲。"
+    },
+    {
+      "id": "5154889",
+      "time": "2026-10-20 10:18:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金融監管總局副局長叢林：保險業要精準對接國家戰略的重點領域和薄弱環節】金融監管總局副局長叢林10月20日在2026金融街論壇年會保險大會上表示，保險業要主動扛起新時代賦予保險業的使命任務，精準對接國家戰略的重點領域和薄弱環節，進一步發揮好經濟“減震器”和社會“穩定器”的功能。一是要全力服務新質生產力發展，圍繞科技創新、綠色轉型、六網建設等，加快建立健全覆蓋全鏈條全週期的保險產品服務體系。提升科技保險、綠色保險、責任保險等相關業務的覆蓋面，最佳化首批次、首版次保險補償機制，完善科技保險風險分散模式；發揮保險穩預期的功能，為消費領域提供適配性的保險產品，支援提振擴大內需；發揮保險資金耐心資本的優勢，透過股權投資、債權計劃、資產證券化等金融工具，為國家重大戰略、新型基礎設施建設、戰略新興產業等提供更多的長期資金支援。二是要持續賦能民生安康和社會治理，積極融入多層次、多支柱社會保障體系建設。大力發展商業養老保險、健康保險、長期護理保險，在滿足人民群眾日益增長的健康養老需求方面發揮更大作用；適應新市民靈活就業群體、低收入群體、中小企業等保險保障需求，不斷擴大普惠保險覆蓋面；穩步健全巨災保險制度，持續提升商業保險補償在重大災害損失中的佔比，為國家災害防治體系建設提供有力的支撐。三是要積極服務高水平對外開放，堅持穩外貿穩外資導向，大力發展出口信用保險，為中國企業走出去提供多方位的保險保障。立足服務國家對外開放大局，積極建立全球化跨境保險服務體系，守護中國企業的海外合法利益，加快發展上海國際再保險中心建設，提升我國在全球航運保險市場的話語權。（上證報）"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610203901025140",
+      "time": "2026-10-20 10:18:18",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【重慶：前三季度全市地區生產總值25711.51億元 同比增長4.3%】據重慶市統計局，根據地區生產總值統一核算結果，2026年前三季度重慶市地區生產總值25711.51億元，按不變價格計算，同比增長4.3%。其中，第一產業增加值1526.64億元，同比增長3.9%；第二產業增加值8573.74億元，同比增長1.7%；第三產業增加值15611.13億元，同比增長5.8%。"
+    },
     {
       "id": "5154888",
       "time": "2026-10-20 10:17:17",
