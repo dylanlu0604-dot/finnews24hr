@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-21 06:33:15",
-  "count": 13519,
+  "updated": "2026-10-21 06:37:05",
+  "count": 13520,
   "items": [
+    {
+      "id": "mkt:01a15b75-13de-7ee0-a912-f0866ff32f98",
+      "time": "2026-10-21 06:36:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【hauser: RESERVE BANK OF AUSTRALIA tightening slowing growth; inf outlook worsens】hauser said on Wednesday RESERVE BANK OF AUSTRALIA tightening is slowing economic growth but the inf outlook has deteriorated, and he is not yet certain whether further rate hikes will be necessary. Speaking at a CITIGROUP event, he said RESERVE BANK OF AUSTRALIA economists are finalizing forecasts and it remains unclear what the RESERVE BANK OF AUSTRALIA C.BANK will decide at the next rate meeting."
+    },
+    {
+      "id": "te:markets:593556",
+      "time": "2026-10-21 06:35:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 1.59% — Top commodity gainers are Silver (1.59%), Platinum (0.92%) and Copper (0.68%). Biggest losers are Silicon (-1.57%), Aluminum Alloy (-0.77%), Lithium Carbonate (-0.58%) and Gold (-0.30%)."
+    },
+    {
+      "id": "5156999",
+      "time": "2026-10-21 06:33:59",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 07:50 日本9月進出口與商品貿易帳；\n② 08:00 韓國10月出口20天；\n③ 時間待定 第十九屆中國—歐盟投資貿易科技合作洽談會，CNCC中國計算機大會，2026世界智慧網聯汽車大會；\n④ 12:15 歐洲央行首席經濟學家Lane在上海講話；\n⑤ 14:00 英國9月CPI；\n⑥ 16:00 歐洲央行執委Cipollone講話；\n⑦ 17:00 黃仁勳將在柏林GTC大會演講；\n⑧ 21:00 英國央行行長貝利參加一場爐邊閒聊；\n⑨ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n⑩ 次日00:00 歐洲央行行長拉加德講話；\n⑪ 美股盤後 Meta、特斯拉、拉姆研究、德州儀器、IBM、德國思愛普Sap等釋出業績報告；\n⑫ 次日05:45 紐西蘭三季度CPI。"
+    },
     {
       "id": "5156998",
       "time": "2026-10-21 06:32:49",
@@ -123510,29 +123540,6 @@
         "國際"
       ],
       "text": "美國司法部長布蘭奇：一名沙特國民針對 OpenAI 發起的襲擊企圖正受到嚴肅對待。"
-    },
-    {
-      "id": "te:economy:591622",
-      "time": "2026-10-14 06:35:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Tourist Arrivals",
-        "Importance 1"
-      ],
-      "text": "New Zealand Tourist Arrivals Rise Least in 3 Months — Visitor arrivals to New Zealand climbed 8.0% year-on-year to 248,714 in August 2026, slowing from an 8.5% rise in July and marking the smallest growth in three months. Arrivals from China increased by 6,500, followed by Australia (up 5,800), the US (up 2,000), and Malaysia (up 1,300). There were record arrivals for an August month of overseas visitors from some markets, including Australia (125,600), Taiwan (5,800), and Singapore (4,600). Overall, overseas visitor arrivals reached 99% of pre-pandemic levels, compared with 251,100 in August 2019. Australians remained the largest source of visitors, accounting for 51% of the total, followed by China (11%), the US (6%), and Japan (4%), highlighting the continued recovery in international tourism demand."
-    },
-    {
-      "id": "te:markets:591621",
-      "time": "2026-10-14 06:35:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 3.25% — Top commodity losers are Lithium Carbonate (-3.25%), Silver (-1.93%), Platinum (-1.44%) and Gold (-0.27%)."
     }
   ]
 }
