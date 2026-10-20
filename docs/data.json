@@ -1,7 +1,159 @@
 {
-  "updated": "2026-10-20 21:31:37",
-  "count": 13535,
+  "updated": "2026-10-20 21:35:32",
+  "count": 13533,
   "items": [
+    {
+      "id": "te:markets:593484",
+      "time": "2026-10-20 21:34:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Amphenol Shares Hit 4-week Low — Amphenol shares decreased to 78.35 USD, the lowest since September 2026. Over the past 4 weeks, Amphenol lost 2.68%, and in the last 12 months, it increased 23.07%."
+    },
+    {
+      "id": "5156282",
+      "time": "2026-10-20 21:34:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "通用汽車股價跌至近三週低點，此前其全年調整後每股收益預測不及預期。"
+    },
+    {
+      "id": "5156281",
+      "time": "2026-10-20 21:34:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺積電高雄楠梓廠釀事故，3死1危】10月20日下午，臺積電高雄楠梓園區F22廠區P4新建工程發生重大安全事故：吊車在進行鋼構吊掛安裝作業時，因螺栓斷裂導致鋼構墜落，造成4名外包商人員被砸落。臺灣地區相關安全管理部門當晚通報，事故已造成3人死亡、1人生命垂危。（看臺海）"
+    },
+    {
+      "id": "5156280",
+      "time": "2026-10-20 21:34:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "雷神技術公司上調全年業績預期後，股價上漲1.2%。"
+    },
+    {
+      "id": "5156279",
+      "time": "2026-10-20 21:34:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "匈牙利央行行長瓦爾加：加入歐洲匯率機制（ERM-2）的程序可能會相當快。"
+    },
+    {
+      "id": "mkt:01a15984-ad82-7ee0-a907-e788ae8a4f5c",
+      "time": "2026-10-20 21:33:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "DXY",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "【MOFCOM spokesperson on US DHS federal procurement exclusion and removal order targeting Chinese AI firms】On Oct. 19 the US Department of Homeland Security announced a ban on US federal civilian agencies procuring products and services developed by Chinese AI firm Shendu Qiusuo and its affiliates, and ordered related products and services removed from affected agencies' information systems. A Ministry of Commerce (MOFCOM) spokesperson urged Washington to respect facts and market rules, immediately correct the measures, stop unreasonable suppression of Chinese firms and withdraw discriminatory restrictions, and called on both sides to implement leaders' consensus, use the China‑US AI dialogue to rebuild trust, manage differences and jointly promote responsible AI."
+    },
+    {
+      "id": "mkt:01a15984-5bdf-7ee0-a907-dcb93b8ffab8",
+      "time": "2026-10-20 21:33:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "RY.TO",
+        "META.O"
+      ],
+      "text": "RBC CEO Dave McKay said the bank is considering blocking Meta’s Muse AI agent."
+    },
+    {
+      "id": "5156278",
+      "time": "2026-10-20 21:33:18",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就美國土安全部發布針對中國企業的聯邦採購排除和移除命令通知答記者問】問：10月19日，美國國土安全部宣佈禁止美聯邦政府民事行政機構採購中國人工智慧企業深度求索及其關聯企業開發的產品和服務，並要求從相關機構的資訊系統中移除相關產品和服務。請問商務部對此有何評論？答：我們注意到有關情況。中方對此強烈不滿、堅決反對。中國政府堅持發展和安全並重，秉持“以人為本、智慧向善”理念，確保人工智慧安全、可控、可靠，推動人工智慧在合規、可信、向善軌道上發展，出臺《網路安全法》《個人資訊保護法》等多部法律法規，依法保護網路安全和資料隱私。中國人工智慧企業一貫致力於為全球使用者提供安全可靠的服務，遵守所在國法律，受到了全球使用者廣泛歡迎。美方罔顧中美元首達成的重要共識，無視中美經貿關係大局，以所謂國家安全為由，對中國人工智慧企業採取歧視性限制措施，是典型的泛化國家安全概念、濫用行政手段打壓中國企業的行為，實質上是將科技經貿問題政治化、工具化，借國家安全之名行打壓遏制之實。這嚴重損害中國企業合法權益，破壞公平競爭的市場環境，干擾中美人工智慧領域正常商業合作。中方敦促美方尊重事實和市場規律，立即糾正錯誤做法，停止對中國企業的無理打壓，撤銷有關歧視性限制措施，為兩國企業正常交流合作創造良好條件。希望美方切實落實兩國元首重要共識，同中方相向而行，用好中美人工智慧對話機制，增進互信、管控分歧，共同推動人工智慧向上向善。中方將密切關注事態進展，對於任何實質性損害中方利益的行為，將採取一切必要措施，堅定維護自身正當合法權益。"
+    },
+    {
+      "id": "5156277",
+      "time": "2026-10-20 21:33:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "哈里伯頓第三季度利潤超預期，股價上漲1.7%。"
+    },
+    {
+      "id": "5156276",
+      "time": "2026-10-20 21:32:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京市城市更新平臺成立，聚焦核心區平房院落保護更新、危舊樓房改建、老舊小區綜合改造等】10月20日，在金融街論壇分論壇——北京市城市更新平臺釋出會暨城市更新主題研討會上，北京市城市更新平臺正式以首開集團為主體成立。首開集團黨委常委、副總經理阮慶革在解釋平臺成立背景時向包括《每日經濟新聞》記者在內的媒體記者表示。北京市住建委副主任馬綮鴻在接受媒體採訪時表示，組建市級平臺，將進一步加強市區統籌和資源整合，發揮統籌實施主體作用，加強與各區平臺、社會資本、專業機構深度合作，統籌政策、資金、產業等各類資源，凝聚各方合力，聚焦城市更新重難點專案協同攻堅，推動城市更新提質增效。“十五五”時期，北京市還將持續深化改革創新，加大激勵力度，聚焦企業和群眾反映較多的政策需求，持續推進城市更新政策激勵工具箱迭代升級，重點支援改革措施在綜合化城市更新組團專案整合落地實施，進一步釋放政策紅利，激發市場活力，著力構建政府引導、市場運作、全社會參與的可持續城市更新模式。"
+    },
+    {
+      "id": "mkt:01a15982-eb9b-7ee0-a907-d11a1841e4e7",
+      "time": "2026-10-20 21:31:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "S&P500"
+      ],
+      "text": "U.S. equities opened mixed on Oct 20 (Tuesday): Dow Jones Industrial Average up 7.45 points (+0.01%) at 51,973.48; S&P 500 down 8.12 points (-0.11%) at 7,682.61; Nasdaq Composite down 107.00 points (-0.41%) at 26,323.89."
+    },
+    {
+      "id": "5156275",
+      "time": "2026-10-20 21:31:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "通用電氣股價下跌5.4%，觸及五個月低點。"
+    },
+    {
+      "id": "5156274",
+      "time": "2026-10-20 21:31:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "通用汽車股價下跌7.5%，創2025年7月以來最大跌幅。"
+    },
+    {
+      "id": "5156273",
+      "time": "2026-10-20 21:31:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "BRAZE股價飆升52%，創歷史新高；賽富時股價下跌2.8%。"
+    },
+    {
+      "id": "te:markets:593483",
+      "time": "2026-10-20 21:31:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Near Multi-Week Lows — Silver prices hovered around $57.20 an ounce on Tuesday, remaining close to recent multi-week lows as rising oil prices fueled inflation concerns and prompted investors to reassess the US interest rate outlook ahead of next week’s Federal Reserve meeting. Brent crude climbed to a five-month high amid renewed Houthi attacks and reports of vessel strikes in the Gulf, heightening concerns over regional supply disruptions and strengthening expectations of tighter monetary policy. While the Fed is widely expected to keep rates unchanged next week, investors will closely monitor its forward guidance for signals on a possible December hike. Markets are currently pricing in a more than 90% chance of a rate increase, according to the CME FedWatch Tool."
+    },
     {
       "id": "5156272",
       "time": "2026-10-20 21:31:04",
@@ -123732,154 +123884,6 @@
         "其他"
       ],
       "text": "中大西洋海嶺發生6.66級地震。"
-    },
-    {
-      "id": "5142547",
-      "time": "2026-10-13 21:35:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【蘋果股價盤初上漲1.74% 再創歷史新高】蘋果股價盤初上漲1.74%，報346.892美元/股，總市值報5.06萬億美元，再創歷史新高。"
-    },
-    {
-      "id": "5142546",
-      "time": "2026-10-13 21:35:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "厄瓜多9月國際儲備降至117.75億美元。"
-    },
-    {
-      "id": "5142545",
-      "time": "2026-10-13 21:34:53",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛執行長表示，美國經濟基本面依然穩固強勁。"
-    },
-    {
-      "id": "5142544",
-      "time": "2026-10-13 21:34:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【競業達與麒麟軟體簽署戰略合作協議】競業達訊息，10月13日，競業達與麒麟軟體戰略合作簽約儀式在京舉辦，雙方將深化技術合作與市場協同，推進作業系統技術適配與人才聯合培養，聯合打造面向新質生產力的信創實驗室，輸出面向高等教育的智慧硬體、數智化軟體應用及智慧體產品。"
-    },
-    {
-      "id": "5142543",
-      "time": "2026-10-13 21:34:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "弗拉維奧·博索納羅：將投票支援縮短每週工作時間。"
-    },
-    {
-      "id": "5142542",
-      "time": "2026-10-13 21:34:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "達美樂披薩股價下跌約5%，因該公司第三季度同店銷售額不及市場預期。"
-    },
-    {
-      "id": "5142541",
-      "time": "2026-10-13 21:33:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "富國銀行三季度淨利息收入和營收不及預期，股價下跌0.56%。"
-    },
-    {
-      "id": "5142540",
-      "time": "2026-10-13 21:33:37",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長戴維·所羅門表示，地緣政治緊張局勢再度升溫，加之能源流動持續受阻，給經濟前景增添了複雜性。"
-    },
-    {
-      "id": "5142539",
-      "time": "2026-10-13 21:33:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列將禁止光纖鏈路及SIM卡控制型無人機】以色列國防部長伊斯雷爾・卡茨辦公室釋出宣告，卡茨預計將於週日簽署一項專項安全指令，禁止在以色列空域使用光纖控制以及 SIM 卡控制的無人機。該措施為臨時禁令，自簽署之日起有效期六個月。此項決定基於確切情報，境內外敵對勢力帶來的威脅持續上升，包括無人機襲擊、針對高階官員的刺殺圖謀、情報蒐集以及走私活動。經過多輪研討，在國家安全委員會牽頭開展大量前期工作後，該舉措已獲總理本雅明・內塔尼亞胡與卡茨在內的安全內閣批准。其他型別無人機仍可按照現行規定正常使用。"
-    },
-    {
-      "id": "5142538",
-      "time": "2026-10-13 21:33:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "沃爾瑪 ：將於2027年1月1日起升級美國員工福利方案。"
-    },
-    {
-      "id": "5142537",
-      "time": "2026-10-13 21:32:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃爾瑪：2027年將為員工推出零費用處方藥檔。"
-    },
-    {
-      "id": "5142536",
-      "time": "2026-10-13 21:32:39",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "花旗集團股價在第三季度利潤超預期後上漲0.6%。"
-    },
-    {
-      "id": "5142535",
-      "time": "2026-10-13 21:32:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數日內跌3%】費城半導體指數日內跌3.02%，現報11867.80點。英偉達跌1.18%，博通跌1.64%，美光跌5.94%，英特爾跌2.95%，AMD跌3.84%，高通跌0.26%，臺積電跌1.39%，阿斯麥跌2.61%。"
-    },
-    {
-      "id": "5142534",
-      "time": "2026-10-13 21:32:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "Applied Intuition尋求以300億美元估值發售股份。"
-    },
-    {
-      "id": "5142533",
-      "time": "2026-10-13 21:32:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "強生股價開盤下跌4.2%，創下自2025年4月以來最大單日跌幅。"
-    },
-    {
-      "id": "te:markets:591540",
-      "time": "2026-10-13 21:31:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Walt Disney Shares Hit 6-week High — Walt Disney shares increased to 109.42 USD, the highest since August 2026. Over the past 4 weeks, Walt Disney gained 0.56%, and in the last 12 months, it decreased 0.97%."
-    },
-    {
-      "id": "5142532",
-      "time": "2026-10-13 21:31:37",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "摩根大通股價在第三季度業績公佈後上漲1.7%。"
     }
   ]
 }
