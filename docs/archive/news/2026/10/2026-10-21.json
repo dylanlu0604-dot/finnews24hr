@@ -1,7 +1,55 @@
 {
   "date": "2026-10-21",
-  "count": 349,
+  "count": 355,
   "items": [
+    {
+      "id": "mkt:01a15abe-270b-7ee0-a90f-9689d17de6bf",
+      "time": "2026-10-21 03:16:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump has concluded his speech."
+    },
+    {
+      "id": "mkt:01a15abd-6fa5-7ee0-a90f-89b230ddc22d",
+      "time": "2026-10-21 03:15:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said speaking at campaign rallies for two hours straight—grandstanding and delivering impassioned remarks—is not easy."
+    },
+    {
+      "id": "5156841",
+      "time": "2026-10-21 03:14:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普在白宮結束講話。"
+    },
+    {
+      "id": "mkt:01a15abc-186b-7ee0-a90f-842af608cadb",
+      "time": "2026-10-21 03:13:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said there has been talk of deporting Democratic Rep. Ilhan Omar, but that she could also face prison time."
+    },
+    {
+      "id": "mkt:01a15abb-9e18-7ee0-a90f-7910b06c207c",
+      "time": "2026-10-21 03:13:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said for some reason presidents always lose in midterm elections."
+    },
+    {
+      "id": "5156839",
+      "time": "2026-10-21 03:13:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：總統所在政黨往往會在中期選舉中失利。"
+    },
     {
       "id": "mkt:01a15ab9-de83-7ee0-a90f-75bf13c83c4b",
       "time": "2026-10-21 03:11:32",
