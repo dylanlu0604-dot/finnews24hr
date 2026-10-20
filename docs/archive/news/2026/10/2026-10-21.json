@@ -1,7 +1,44 @@
 {
   "date": "2026-10-21",
-  "count": 484,
+  "count": 488,
   "items": [
+    {
+      "id": "mkt:01a15b35-4ba6-7ee0-a912-25e1e7d09d33",
+      "time": "2026-10-21 05:26:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Musk says merger of Tesla and SpaceX a good idea】Musk said SpaceX (SPCX.O) and Tesla (TSLA.O) have each formed special committees to discuss a potential merger, and that merging the two companies would be a good idea."
+    },
+    {
+      "id": "5156969",
+      "time": "2026-10-21 05:26:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：由於存在利益衝突，本人不能參與委員會的相關磋商。"
+    },
+    {
+      "id": "5156968",
+      "time": "2026-10-21 05:26:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特主導聯軍稱摧毀胡塞武裝一處導彈發射平臺】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基20日晚在社交媒體上說，聯軍已摧毀葉門胡塞武裝向沙特首都利雅得發射彈道導彈所使用的一處平臺。馬利基當天稍早時說，聯軍攔截了一枚射向利雅得的胡塞武裝彈道導彈，並在利雅得省攔截摧毀一架無人機。新華社記者當天上午在利雅得兩次聽到爆炸聲。當地居民收到經由手機程式釋出的防空警報。（新華社）"
+    },
+    {
+      "id": "5156967",
+      "time": "2026-10-21 05:24:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：特斯拉與SpaceX合併並非板上釘釘，股東得支援，合併有很多優點。"
+    },
     {
       "id": "5156966",
       "time": "2026-10-21 05:23:03",
