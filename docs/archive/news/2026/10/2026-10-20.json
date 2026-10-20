@@ -1,7 +1,156 @@
 {
   "date": "2026-10-20",
-  "count": 1358,
+  "count": 1372,
   "items": [
+    {
+      "id": "mkt:01a1585e-a4b0-7ee0-a8fd-b356470042ba",
+      "time": "2026-10-20 16:12:39",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Riyadh issues alert warning of a hostile aerial threat."
+    },
+    {
+      "id": "mkt:01a1585e-84b8-7ee0-a8fd-a9301f0159b1",
+      "time": "2026-10-20 16:12:31",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong's Hang Seng Index (HSI) closed down 319.09 points (-1.32%) at 23,867.74 on Oct 20 (Tue). The Hang Seng TECH Index fell 62.33 points (-1.52%) to 4,045.91. The H-share (Hang Seng China Enterprises) Index dropped 97.99 points (-1.21%) to 8,030.26, and the Red Chip Index slipped 66.05 points (-1.63%) to 3,991.45."
+    },
+    {
+      "id": "mkt:01a1585e-4122-7ee0-a8fd-a1b71247abf8",
+      "time": "2026-10-20 16:12:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Iranian foreign ministry spokesman Baghaei said US military actions can be regarded as crimes and that, from an international perspective, the US is the lawbreaker, fundamentally disregarding international law norms."
+    },
+    {
+      "id": "5155498",
+      "time": "2026-10-20 16:12:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "網信廣東：截至10月20日，廣東省新增7款已完成登記的生成式人工智慧服務，累計已完成108款生成式人工智慧服務登記。"
+    },
+    {
+      "id": "mkt:01a1585d-d2bf-7ee0-a8fd-9c30e18079f6",
+      "time": "2026-10-20 16:11:46",
+      "tags": [
+        "MKT News",
+        "CRWV.O",
+        "Impact bearish",
+        "NBIS.O"
+      ],
+      "text": "Shares of NeoCloud-linked companies slipped in pre-market trading: CoreWeave (CRWV.O) down 2.8%, Nebius (NBIS.O) down 3.2%."
+    },
+    {
+      "id": "5155495",
+      "time": "2026-10-20 16:10:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "新雲公司股票盤前下跌，COREWEAVE 下跌 2.8%，NEBIUS 下跌 3.2%。"
+    },
+    {
+      "id": "5155494",
+      "time": "2026-10-20 16:10:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年第三季度中國國內遊戲市場實際銷售收入為925.22億元】中國遊戲工委釋出2026年第三季度中國遊戲產業季度報告。報告顯示，2026年第三季度，中國國內遊戲市場實際銷售收入為925.22億元，環比增長1.36%，同比增長5.11%。其中，中國客戶端遊戲市場實際銷售收入達205.47億元，環比增長1.16%，同比增長1.26%;中國移動遊戲市場實際銷售收入達到678.20億元，環比增長0.34%，同比增長5.33%。中國自主研發遊戲海外市場實際銷售收入57.72億美元，環比下降4.46%，同比增長15.58%。"
+    },
+    {
+      "id": "te:economy:593410",
+      "time": "2026-10-20 16:10:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Italy Current Account Surplus Widens in August — Italy’s current account surplus widened to EUR 2,766 million in August 2026 from EUR 2,312 million in the corresponding month a year earlier. The goods surplus increased to EUR 2,280 million from EUR 2,139 million in August 2025, while the primary income surplus rose to EUR 1,798 million from EUR 1,308 million. Meanwhile, the services surplus decreased to EUR 633 million from EUR 735 million, while the secondary income deficit widened to EUR 1,946 million from EUR 1,869 million. The increase in the overall surplus reflected a stronger balance in goods and primary income, despite the wider secondary income deficit."
+    },
+    {
+      "id": "te:economy:593409",
+      "time": "2026-10-20 16:10:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Eurozone Current Account Surplus Narrows Sharply in August — The eurozone current account surplus fell sharply to €7.7 billion in August 2026, down from €18.1 billion a year earlier. The goods surplus declined to €10.5 billion, its lowest level since April 2023, while the primary income account swung to a €2.3 billion deficit from a €2.6 billion surplus. The secondary income deficit also widened to €17.0 billion from €15.1 billion. Meanwhile, the services surplus increased to €16.5 billion from €14.6 billion in August 2025. For the first eight months of 2026, the cumulative current account surplus narrowed to €130.2 billion, down from €148.2 billion over the same period last year."
+    },
+    {
+      "id": "te:markets:593408",
+      "time": "2026-10-20 16:10:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Gains by 1.22% — Top commodity gainer is Palm Oil (1.22%). Biggest losers are Rice (-1.04%) and Oat (-0.50%)."
+    },
+    {
+      "id": "mkt:01a1585c-6b65-7ee0-a8fd-9064e7f31b0b",
+      "time": "2026-10-20 16:10:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Zhou Xiaochuan: prepare contingency plans and reserve policy tools against financial risk from failed AI investments】Former PBOC governor Zhou Xiaochuan said on Oct. 20 at the 2026 Bund Summit roundtable on AI and productivity that AI’s development will produce both successful and failed investments. With very large capital flows into AI and related infrastructure, Zhou warned that a wave of investment failures could trigger financial turbulence and potentially a crisis, requiring large-scale economic support and rescue measures for some financial institutions. He called for research and pre-positioning of policy tools in the toolbox to respond to such shocks."
+    },
+    {
+      "id": "mkt:01a1585b-e775-7ee0-a8fd-882b24df66ee",
+      "time": "2026-10-20 16:09:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "Hang Seng Index",
+        "Impact bearish",
+        "03750.HK"
+      ],
+      "text": "Hong Kong stocks closed lower: the Hang Seng Index fell 1.32% and the Hang Seng Tech Index dropped 1.52%. CATL (03750.HK) slid 6.58%."
+    },
+    {
+      "id": "5155493",
+      "time": "2026-10-20 16:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數跌1.32%，恒生科技指數跌1.52%】地平線機器人-W跌3.95%，泡泡瑪特跌4.43%，MINIMAX-W跌6.59%，洛陽鉬業跌6.71%，寧德時代跌6.85%，智譜跌6.91%，聯想集團跌10.19%。"
+    },
+    {
+      "id": "5155492",
+      "time": "2026-10-20 16:08:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【深交所開展“上市公司全球行——阿聯酋專場”系列活動】\n近日，深交所聯合阿聯酋投資部等合作方，在深圳開展“上市公司全球行——阿聯酋專場”系列活動，組織9家人工智慧算力基礎設施、智慧消費電子等領域深市上市公司，與阿聯酋政府部門、企業及投資機構開展“一對一”對接、走進上市公司等形式交流，深入挖掘跨境投融資及產業合作機遇。\n本次活動在充分摸排阿方產業需求、投資偏好和合作意向的基礎上，立足深市產業特色匹配對接主體，有利於促進上市公司投資價值、技術優勢、產業資源與阿方精準對接，更好支援兩國企業間產業和投融資合作。近年來，深交所持續深化與中東資本市場務實合作，與當地政府部門搭建需求對接機制，與交易所簽署合作諒解備忘錄，與主權基金等長期投資者建立常態化交流渠道，在境內外聯合舉辦市場宣介和專題培訓等活動，逐步形成市場培育、投融資對接、產品開發的多層次合作模式。\n下一步，深交所將在中國證監會領導下，持續推進資本市場高水平對外開放，以2026年APEC會議在深圳舉辦為契機，依託“上市公司全球行”品牌活動，進一步提升跨境服務的針對性和實效性，更好對外宣介中國資本市場和深市上市公司，助力上市公司用好“兩個市場、兩種資源”，實現高質量發展。（深交所釋出）"
+    },
     {
       "id": "mkt:01a1585a-5abd-7ee0-a8fd-813e34512336",
       "time": "2026-10-20 16:07:58",
