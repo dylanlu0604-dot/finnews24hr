@@ -1,7 +1,1241 @@
 {
   "date": "2026-10-21",
-  "count": 355,
+  "count": 484,
   "items": [
+    {
+      "id": "5156966",
+      "time": "2026-10-21 05:23:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "南方銅業公司三季度銷售47億美元，分析師預期44.6億美元。三季度調整後EBITDA為30.4億美元，分析師預期29.1億美元。"
+    },
+    {
+      "id": "5156965",
+      "time": "2026-10-21 05:22:52",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "馬斯克：SpaceX和特斯拉已分別成立特別委員會，商討合併事宜。"
+    },
+    {
+      "id": "mkt:01a15b31-c247-7ee0-a912-1d393961a256",
+      "time": "2026-10-21 05:22:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Copper",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Elon Musk said the main constraints on developing superintelligent AI are power supply, cooling and infrastructure, not chips."
+    },
+    {
+      "id": "mkt:01a15b31-7ef8-7ee0-a912-17d32381efee",
+      "time": "2026-10-21 05:22:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O",
+        "Nasdaq100"
+      ],
+      "text": "Elon Musk said he expects AI agents to drive a 1,000-fold increase in bandwidth demand over the next 3–5 years."
+    },
+    {
+      "id": "mkt:01a15b31-5a48-7ee0-a912-0825479adf2a",
+      "time": "2026-10-21 05:22:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said Starlink revenue will be, at least to some extent, proportional to bandwidth scale."
+    },
+    {
+      "id": "mkt:01a15b31-5943-7ee0-a912-07c5ea229e03",
+      "time": "2026-10-21 05:22:03",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "Musk said SpaceX (SPCX.O) will build a ground communications network."
+    },
+    {
+      "id": "mkt:01a15b30-e7cf-7ee0-a911-f882a853b4ce",
+      "time": "2026-10-21 05:21:34",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "Musk: SpaceX (SPCX.O) expects Starship to achieve weekly launches in H1 next year and at least two launches per week in H2."
+    },
+    {
+      "id": "mkt:01a15b2e-fa9f-7ee0-a911-f62f2cce2cc1",
+      "time": "2026-10-21 05:19:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran says indirect talks with U.S. via mediators continue; will not disclose added U.S. conditions】Iran foreign minister Araqchi said indirect negotiations with the U.S. through mediators including Pakistan and Qatar are ongoing. Iran submitted a seven-day plan that envisaged the Strait of Hormuz being fully reopened on day six; Araqchi said the U.S. told Tehran it accepted those terms but sought to add several clauses and he refused to say whether the additions related to security or economic issues, saying \"we will not negotiate through your channel.\" He said Iran insists the U.S. first honour all commitments in the Islamabad Memorandum of Understanding before talks on other issues proceed and that in a final stage either side could raise any topic for a potential agreement."
+    },
+    {
+      "id": "te:economy:593553",
+      "time": "2026-10-21 05:18:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "South Korea Producer Inflation Eases Slightly — South Korea’s producer prices rose 7.7% year-on-year in September 2026, easing from a 7.9% increase in August. Manufacturing producer prices climbed 12%, driven by a 53.6% surge in coal and petroleum products. Prices for computers, electronic and optical equipment rose 20.5%, while chemical products increased 17.5% and basic metals gained 14.9%. Service prices rose 3.9%, led by a 21.1% increase in financial and insurance service costs. Meanwhile, prices of agricultural, forestry, and marine products advanced 3.3%, while utility prices rose 3.1%. On a monthly basis, the Producer Price Index increased by 0.2% in September."
+    },
+    {
+      "id": "5156964",
+      "time": "2026-10-21 05:15:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：阿斯麥及其他廠商正在加快向 Terafab 交付裝置。"
+    },
+    {
+      "id": "5156963",
+      "time": "2026-10-21 05:15:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.27%，報13315點。"
+    },
+    {
+      "id": "5156962",
+      "time": "2026-10-21 05:13:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX股價在財報電話會議期間漲幅擴大至5.5%。"
+    },
+    {
+      "id": "5156961",
+      "time": "2026-10-21 05:13:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：目標在2027年5月或6月讓首顆測試晶片實現功能可用。"
+    },
+    {
+      "id": "5156960",
+      "time": "2026-10-21 05:11:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "週二（10月20日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.6748元，逼近2022年6月15日最終報價6.6687元、當年6月3日最終報價6.6557元、當年5月4日最終報價6.6223元、以及當年4月27日最終報價6.5868元，較週一紐約尾盤漲74點，日內整體交投於6.6832-6.6734元區間。"
+    },
+    {
+      "id": "5156959",
+      "time": "2026-10-21 05:11:10",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceX首席財務官：目前預計第四季度資本開支區間為350億至400億美元。預計2027財年第一季度營收330億–370億美元。"
+    },
+    {
+      "id": "5156958",
+      "time": "2026-10-21 05:10:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "厄瓜多國家石油公司向秘魯國家石油公司授予兩份原油出口合同，出口量約 1620 萬桶，預估收入 16.5 億美元。"
+    },
+    {
+      "id": "5156957",
+      "time": "2026-10-21 05:10:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SpaceX首席財務官：公司有望在今年年底實現1000億美元年度經常性收入。截至9月30日本季度結束時，公司在手訂單規模達630億美元。"
+    },
+    {
+      "id": "te:economy:593552",
+      "time": "2026-10-21 05:09:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "API Crude Oil Stock Change",
+        "Importance 1"
+      ],
+      "text": "US Crude Inventories Fall More Than Expected — US crude oil inventories fell by 4.93 million barrels in the week ending October 16th, well above market expectations for a 1.3 million-barrel draw. This followed an 11.12 million-barrel decline in the previous week. Gasoline inventories fell by 2 million barrels, while distillate stocks dropped by 2.6 million barrels. Meanwhile, inventories at Cushing, Oklahoma, kept at the delivery hub for the WTI Crude futures contract, rose by 900,000 barrels, following an increase of 1.823 million barrels in the prior week. US oil production slipped to 13.679 million barrels per day in the week ending October 9th, down from 13.979 million barrels per day a week earlier."
+    },
+    {
+      "id": "mkt:01a15b24-49ff-7ee0-a911-e87c9a381f84",
+      "time": "2026-10-21 05:07:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Libya's House of Representatives rescinds resolution to sever political ties with Turkey】On the 20th Libya's House of Representatives said on social media it voted to rescind an earlier resolution to sever political relations with Turkey. The chamber also voted to approve the 2019 memorandum of understanding on Mediterranean maritime jurisdiction signed between the Government of National Accord and Turkey."
+    },
+    {
+      "id": "5156956",
+      "time": "2026-10-21 05:07:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【利比亞國民代表大會廢除其與土耳其斷交決議】利比亞國民代表大會20日在社交媒體宣佈，該機構當天經投票表決，廢除其此前“與土耳其斷絕政治關係的決議”。利國民代表大會同時表示，該機構當天還投票批准了2019年利比亞民族團結政府與土耳其簽署的有關地中海“海事管轄權”的諒解備忘錄。（新華社）"
+    },
+    {
+      "id": "mkt:01a15b22-8a53-7ee0-a911-e682e4998565",
+      "time": "2026-10-21 05:05:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea September PPI MoM 0.2% (prior 0.2%)."
+    },
+    {
+      "id": "mkt:01a15b22-7330-7ee0-a911-d8a925e7ba38",
+      "time": "2026-10-21 05:05:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | PPI (MoM) (Sep) | actual 0.2% | previous 0.2%"
+    },
+    {
+      "id": "mkt:01a15b21-6034-7ee0-a911-d16dc2fb5ef0",
+      "time": "2026-10-21 05:04:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea September PPI YoY 7.7%, versus 7.90% prior."
+    },
+    {
+      "id": "mkt:01a15b21-3a6f-7ee0-a911-cc8564e05635",
+      "time": "2026-10-21 05:04:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | PPI (YoY) (Sep) | actual 7.7% | previous 7.90%"
+    },
+    {
+      "id": "5156955",
+      "time": "2026-10-21 05:03:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊談及美方想要增加的附加條件：我們不會在你們設定的框架內談判。"
+    },
+    {
+      "id": "mkt:01a15b1e-9fb0-7ee0-a911-c3a8394f1b85",
+      "time": "2026-10-21 05:01:35",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "Musk said GrokBot's usage is rising as the bot improves. SpaceX (SPCX.O) will begin large-scale enterprise deployment of GrokBot within weeks."
+    },
+    {
+      "id": "5156954",
+      "time": "2026-10-21 05:01:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：我們透過巴基斯坦、卡達等中間國與美方開展的談判仍在繼續。原計劃在本輪程序的第六天全面開放霍爾木茲海峽。美方告知我們同意相關條款，但希望新增幾項附加條款。"
+    },
+    {
+      "id": "mkt:01a15b1e-02a1-7ee0-a911-b8ee7b21d307",
+      "time": "2026-10-21 05:00:55",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "Musk said SpaceX (SPCX.O) is \"quite confident\" it can bring 10 GW of compute capacity online by 2027; the possibility of exceeding 20 GW by 2027 is not zero."
+    },
+    {
+      "id": "5156953",
+      "time": "2026-10-21 05:00:39",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國9月PPI同比增長7.7%。"
+    },
+    {
+      "id": "5156952",
+      "time": "2026-10-21 05:00:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "SpaceX 營運長：星鏈航空終端產量預計在年底前翻番。  星鏈企業業務收入與政府業務收入未來均有望超過消費者業務收入。星鏈有望承載全球網際網路流量中相當大的一部分。星鏈移動直連手機業務月活使用者已突破2200萬。頻譜交易將讓星鏈成為美國主要移動運營商。"
+    },
+    {
+      "id": "mkt:01a15b1d-5a39-7ee0-a911-b6a8d0540f73",
+      "time": "2026-10-21 05:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk: SpaceX's pace of deploying power, cooling and infrastructure could exceed the combined pace of all other participants."
+    },
+    {
+      "id": "mkt:01a15b1c-c9cf-7ee0-a911-acb3d8b95fb7",
+      "time": "2026-10-21 04:59:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said GrokBot is the fastest-growing product he has seen."
+    },
+    {
+      "id": "mkt:01a15b1c-6803-7ee0-a911-a6e451883bb4",
+      "time": "2026-10-21 04:59:10",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bearish"
+      ],
+      "text": "【Netflix expects revenue growth to slow for fourth consecutive quarter】Netflix reported Q3 profit above Wall Street estimates and Q3 revenue of $12.9 bln in line with consensus. The company guided Q4 revenue to $13.4 bln, below analysts’ forecasts, implying a fourth straight slowdown in revenue growth to about 11.5% YoY from 17.6% a year earlier. Netflix said its ad business will deliver roughly $300 mln less than previously expected. Shares fell about 7% after the release."
+    },
+    {
+      "id": "mkt:01a15b1a-24d3-7ee0-a911-9c482552674b",
+      "time": "2026-10-21 04:56:42",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "Elon Musk said SpaceX (SPCX.O) expects annual recurring revenue of $500 bln to $1 tln by end-2027."
+    },
+    {
+      "id": "5156951",
+      "time": "2026-10-21 04:54:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX營運長：公司有望在明年初實現火箭二級複用發射。"
+    },
+    {
+      "id": "5156950",
+      "time": "2026-10-21 04:54:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX 計劃明年嘗試星艦軌道加註測試。"
+    },
+    {
+      "id": "mkt:01a15b17-92e5-7ee0-a911-978070063729",
+      "time": "2026-10-21 04:53:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said on Iran that authorities have issued a decree making publication of exchange rates punishable by imprisonment."
+    },
+    {
+      "id": "mkt:01a15b17-8561-7ee0-a911-89a15deab86c",
+      "time": "2026-10-21 04:53:50",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bearish"
+      ],
+      "text": "【United Airlines Q4 profit guidance misses as jet fuel surge erodes margins】United Airlines (UAL.O) said it expects fourth-quarter adjusted EPS of $0.50–$1.50, below analyst consensus of $1.88, citing a sharp rise in jet fuel costs. The carrier’s fuel expense jumped 61.6% year-on-year to $4.84 bln in the prior quarter. United’s guidance assumes jet fuel will rise from a Q3 average of $3.90/gal to $4.80/gal in Q4. Despite strong travel demand, elevated fuel costs — and billions of dollars in extra costs tied to the Middle East war — are pressuring margins; carriers are responding with higher fares and schedule cuts but see little sign of near-term relief."
+    },
+    {
+      "id": "mkt:01a15b16-abc2-7ee0-a911-80802743466f",
+      "time": "2026-10-21 04:52:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SPCX.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【SpaceX Q3 revenue beats estimates】SpaceX (SPCX.O) Q3 revenue $14.58bn vs $12.72bn expected; net income $4.4bn vs $1.57bn expected. AI revenue rose more than ninefold to $7.6bn, driven mainly by compute leasing. Capex nearly doubled to $19.6bn, with $16.4bn tied to AI; company expects this capex level to remain broadly unchanged in the near term. Starlink subs 13.6m vs 12.19m expected; monthly ARPU fell to $69 from $99 in 2023 as cheaper plans supported overseas expansion. SpaceX’s own AI software, including XAI’s Grok, remains overshadowed by OpenAI, ANTHROPIC and Google. Shares rose about 3% in after-hours trading."
+    },
+    {
+      "id": "5156949",
+      "time": "2026-10-21 04:51:31",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "馬斯克：SpaceX 預計到 2027 年底年度經常性收入（ARR）可達 5000 億至 1 萬億美元。"
+    },
+    {
+      "id": "mkt:01a15b14-c1d5-7ee0-a911-7af6203e4620",
+      "time": "2026-10-21 04:50:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bullish",
+        "TSLA.O"
+      ],
+      "text": "Musk said he would be surprised if their incremental compute capacity by the end of next year is less than 13 GW."
+    },
+    {
+      "id": "5156948",
+      "time": "2026-10-21 04:50:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：Grok Bot是我見過增長速度最快的產品。隨著 Grok Bot 持續最佳化，使用者使用頻次也在提升。SpaceX 將在幾周內面向企業大規模部署 Grok Bot。"
+    },
+    {
+      "id": "mkt:01a15b14-560d-7ee0-a911-72c35740b5ca",
+      "time": "2026-10-21 04:50:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WSJ: Musk ordered speed limits on Ukraine Starlink; SpaceX sought unified White House message】The Wall Street Journal, citing US officials and people familiar with the matter, reported that last week Elon Musk ordered speed limits on the military-grade Starlink service used by Ukraine, leaving some attack drones and interceptor drones nearly inoperable. Sources said Musk and Trump spoke shortly after the throttling became public; one source said they had discussed the measures before Musk issued the limits. Ukrainian President Zelenskiy publicly protested, prompting questions about who authorized the cuts and triggering an informal White House inquiry. SpaceX representatives called White House staff seeking a single account and later said SpaceX had coordinated with the Trump administration before Musk gave the order; several US officials contend Musk acted unilaterally and Trump did not explicitly order any measures."
+    },
+    {
+      "id": "5156945",
+      "time": "2026-10-21 04:49:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：如果到明年年底上線算力不足13吉瓦，我會感到意外。"
+    },
+    {
+      "id": "5156943",
+      "time": "2026-10-21 04:48:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX計劃在2027年新增20吉瓦的電力與冷卻基礎設施。"
+    },
+    {
+      "id": "5156942",
+      "time": "2026-10-21 04:47:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX部署電力、冷卻及配套基礎設施的速度，有望超過其他所有廠商的總和。SpaceX 相當有信心在 2027 年實現 10 吉瓦算力上線。"
+    },
+    {
+      "id": "mkt:01a15b11-3813-7ee0-a911-68faf1d116eb",
+      "time": "2026-10-21 04:46:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk expects SpaceX's Starlink to reach 100,000 satellites within three years, increasing network capacity roughly 100-fold."
+    },
+    {
+      "id": "5156940",
+      "time": "2026-10-21 04:46:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：（談及航油價格）我們會渡過這一關。我一直在關注航油供應，目前沒有問題。"
+    },
+    {
+      "id": "mkt:01a15b10-91a7-7ee0-a911-634def388f1f",
+      "time": "2026-10-21 04:46:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Elon Musk said SpaceX (SPCX.O) will attempt simultaneous recovery of the booster and the spacecraft on Starship's 15th test flight."
+    },
+    {
+      "id": "mkt:01a15b10-43a6-7ee0-a911-5bf248b553f9",
+      "time": "2026-10-21 04:45:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said the 15th test flight, if successful, would achieve the first complete recovery of an orbital-class launch vehicle."
+    },
+    {
+      "id": "5156939",
+      "time": "2026-10-21 04:45:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：預計人工智慧代理將在3至5年內推動頻寬需求增長1000倍。超級智慧的制約因素更多在於電力、冷卻和基礎設施，而非晶片。"
+    },
+    {
+      "id": "mkt:01a15b0f-ba06-7ee0-a911-545adf22ea03",
+      "time": "2026-10-21 04:45:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said SpaceX's Starship is expected to conduct its 15th test flight next month."
+    },
+    {
+      "id": "5156938",
+      "time": "2026-10-21 04:44:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員：美總統特使將於21日與普京會面】當地時間10月20日，據美國官員透露，美國總統特使威特科夫將於21日與俄羅斯總統普京會面，特朗普女婿庫什納將以影片方式參與。美方表示，此前與烏克蘭及歐洲方面的討論涉及包括安全保障在內的全面和平框架相關內容。烏克蘭提出了新的想法和建議，各方對此進行了詳細討論。目前，美國、烏克蘭和歐洲在工作層面已就下一步行動達成高度共識。美方的目標是在與烏克蘭和歐洲取得的進展基礎上，進一步與俄羅斯討論相關提議。（央視新聞）"
+    },
+    {
+      "id": "5156935",
+      "time": "2026-10-21 04:43:51",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "馬斯克：SpaceX將建設地面網路。"
+    },
+    {
+      "id": "5156934",
+      "time": "2026-10-21 04:43:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：波音的認證流程已持續近10年。"
+    },
+    {
+      "id": "5156933",
+      "time": "2026-10-21 04:43:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：三年內，星鏈頻寬將提升至當前的100倍。"
+    },
+    {
+      "id": "5156930",
+      "time": "2026-10-21 04:41:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX 路易斯安那太空港或將配備 22 座及以上發射塔。"
+    },
+    {
+      "id": "mkt:01a15b0b-c8dd-7ee0-a911-4ab341878471",
+      "time": "2026-10-21 04:41:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq’s Al Ekhbariya TV quoted Iranian Foreign Minister Araghchi saying Iran has not yet received a response from Saudi Arabia or Yemen’s Houthi movement to its mediation initiative."
+    },
+    {
+      "id": "5156929",
+      "time": "2026-10-21 04:40:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星艦將在2027年加快飛行頻次，計劃在明年上半年實現星艦每週發射一次，下半年提升至每週兩次。"
+    },
+    {
+      "id": "5156928",
+      "time": "2026-10-21 04:40:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：第15次試飛未必成功，但可能性較大。"
+    },
+    {
+      "id": "5156925",
+      "time": "2026-10-21 04:39:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：如果成功，第15次飛行將成為史上首次實現軌道運載火箭完全回收。"
+    },
+    {
+      "id": "mkt:01a15b09-ff25-7ee0-a911-40fb1d798daf",
+      "time": "2026-10-21 04:39:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bullish",
+        "GOOGL.O",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【Anthropic IPO filing: 1H revenue $16.3 bln; 1H net loss $80.7 bln, $72 bln from convertible‑note fair‑value swings; infrastructure commitments exceed $600 bln】Anthropic’s IPO filing shows 1H revenue of $16.3 bln versus $1.1 bln a year earlier and a 1H net loss of $80.7 bln, about $72 bln of which stems from fair‑value changes on convertible notes and other financing instruments. 1H compute and infrastructure spend was nearly $9.0 bln; the company expects related 2025 full‑year spending of $7.3 bln. Anthropic disclosed roughly $450 bln of cloud‑contract commitments over 7–10 years and has pledged to pay Google more than $160 bln for leased chips; total infrastructure commitments exceed $600 bln and could rise by up to $150 bln if still‑negotiating deals close. About 20% of 1H revenue came from two customers and the company says future revenue will remain highly concentrated. The filing flags risks that AI models could cause real‑world harms that may be uninsured and that data‑center construction faces growing organized political resistance."
+    },
+    {
+      "id": "5156924",
+      "time": "2026-10-21 04:38:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：將在星艦第15次飛行中嘗試回收助推器和飛船。"
+    },
+    {
+      "id": "5156923",
+      "time": "2026-10-21 04:38:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星艦第15次飛行預計下月進行。"
+    },
+    {
+      "id": "mkt:01a15b09-32e5-7ee0-a911-3fbe31f16797",
+      "time": "2026-10-21 04:38:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "API: U.S. refinery crude runs down 408,000 b/d in week to Oct. 16, previous week +118,000 b/d."
+    },
+    {
+      "id": "5156921",
+      "time": "2026-10-21 04:38:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：特朗普今日簽署多項法案，使其正式生效。"
+    },
+    {
+      "id": "mkt:01a15b09-0b09-7ee0-a911-32835e964e0b",
+      "time": "2026-10-21 04:38:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (Oct.16) | actual -408000M | previous 118000M"
+    },
+    {
+      "id": "mkt:01a15b09-0791-7ee0-a911-2d7f2d3a1193",
+      "time": "2026-10-21 04:38:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "US API refined product imports for week to Oct. 16: 329,000 b/d, versus 30,000 b/d previously."
+    },
+    {
+      "id": "mkt:01a15b08-e991-7ee0-a911-201320bcb6f4",
+      "time": "2026-10-21 04:37:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "US API crude oil imports for the week to Oct 16: 69,000 barrels; prior -1,091,000 barrels."
+    },
+    {
+      "id": "mkt:01a15b08-e559-7ee0-a911-1e8943c21036",
+      "time": "2026-10-21 04:37:51",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports (Oct.16) | actual 329000M | previous 30000M"
+    },
+    {
+      "id": "mkt:01a15b08-c87b-7ee0-a911-1427021fa5b9",
+      "time": "2026-10-21 04:37:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports (Oct.16) | actual 69000M | previous -1091000M"
+    },
+    {
+      "id": "mkt:01a15b08-c39f-7ee0-a911-0f1a4d795056",
+      "time": "2026-10-21 04:37:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US API heating oil inventories for the week to Oct. 16 fell 169,000 barrels; prior week down 70,000 barrels."
+    },
+    {
+      "id": "mkt:01a15b08-a1e7-7ee0-a911-00c4fd704bdb",
+      "time": "2026-10-21 04:37:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Oct.16) | actual -169000M | previous -70000M"
+    },
+    {
+      "id": "mkt:01a15b08-98bb-7ee0-a910-f8985e967379",
+      "time": "2026-10-21 04:37:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. API: Cushing crude stocks rose 936,000 barrels in the week to Oct. 16; prior week +1,823,000 barrels."
+    },
+    {
+      "id": "5156920",
+      "time": "2026-10-21 04:37:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至10月16日當週API原油庫存 -493.1萬桶，預期-110.7萬桶，前值-1112.3萬桶。\n美國至10月16日當週API汽油庫存 -195.4萬桶，預期-68.7萬桶，前值109.1萬桶。\n美國至10月16日當週API精煉油庫存 -257.7萬桶，預期-157.8萬桶，前值-145.8萬桶。"
+    },
+    {
+      "id": "mkt:01a15b08-7f8b-7ee0-a910-f645d48d1a42",
+      "time": "2026-10-21 04:37:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Oct.16) | actual 936000M | previous 1823000M"
+    },
+    {
+      "id": "mkt:01a15b08-72f2-7ee0-a910-efa3e5ae2bc2",
+      "time": "2026-10-21 04:37:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US API reported a 2.577 mln-barrel draw in gasoline stocks for the week to Oct 16, versus an expected draw of 1.578 mln and a prior draw of 1.458 mln."
+    },
+    {
+      "id": "mkt:01a15b08-52dd-7ee0-a910-e49dc27eaa17",
+      "time": "2026-10-21 04:37:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Oct.16) | actual -2577000M | consensus -1578000M | previous -1458000M"
+    },
+    {
+      "id": "mkt:01a15b08-3e4a-7ee0-a910-dd05ac1bff23",
+      "time": "2026-10-21 04:37:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API US gasoline inventories for the week to Oct 16: draw of 1.954 mln barrels vs. expected draw of 0.687 mln; prior was a 1.091 mln-barrel build."
+    },
+    {
+      "id": "mkt:01a15b08-1a82-7ee0-a910-d025f1b929d6",
+      "time": "2026-10-21 04:37:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Oct.16) | actual -1954000M | consensus -687000M | previous 1091000M"
+    },
+    {
+      "id": "5156919",
+      "time": "2026-10-21 04:36:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【威脅在競選集會上刺殺特朗普 美國堪薩斯男子遭逮捕 】美國司法部堪薩斯州聯邦檢察官辦公室說，一名威脅要在該州19日舉行的共和黨集會上刺殺美國總統特朗普的男子已經被捕。（新華社）"
+    },
+    {
+      "id": "mkt:01a15b07-faee-7ee0-a910-c9e6fffce7e9",
+      "time": "2026-10-21 04:36:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API: US crude inventories fell 4.93 mln bbl in the week to Oct 16; expected -1.11 mln; prior -11.12 mln."
+    },
+    {
+      "id": "te:markets:593551",
+      "time": "2026-10-21 04:36:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Jumps on Election Trade — The Ibovespa rose 1.6% to close at 208,296 on Tuesday, supported by a new election poll and a positive external backdrop. A Real Time Big Data poll released on Monday showed Flávio Bolsonaro leading President Lula in a presidential runoff, with 52% of valid votes against 48%. Although Bolsonaro has yet to detail his policy plans, investors view his candidacy as more likely to bring fiscal reforms, including spending cuts, which could help lower interest rates. Meanwhile, easing oil prices provided relief to credit-sensitive sectors pressured by energy-driven inflation. Major banks advanced, with Itaú and Bradesco each gaining around 2.9%. Among other financials, B3 jumped 5.4%. Utilities also rose, with Axia up 0.9%, while retailers posted sharp gains, led by Magazine Luiza, which soared 14.8%. In contrast, Vale fell 1.4% as Chinese iron ore prices declined."
+    },
+    {
+      "id": "mkt:01a15b07-cd3d-7ee0-a910-c0a7550252e4",
+      "time": "2026-10-21 04:36:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Oct.16) | actual -4931000M | consensus -1107000M | previous -11123000M"
+    },
+    {
+      "id": "te:markets:593550",
+      "time": "2026-10-21 04:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.02% Higher — The Dow Jones Index rose 531 points or 1.02 percent on Tuesday to close at 52497 points. Leading the gains are 3M (5.76%), Amgen (3.26%) and Merck (3.18%)."
+    },
+    {
+      "id": "5156914",
+      "time": "2026-10-21 04:32:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "超微電腦美股盤後漲超13%。"
+    },
+    {
+      "id": "5156912",
+      "time": "2026-10-21 04:31:10",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "超微電腦：2027 財年第一季度營收預估 185 億–195 億美元，高於公司原先 145 億–155 億美元的指引區間。2027 財年第一季度毛利率預估為 12.0%-12.5%，高於公司給出的 10.4%-10.8% 指引區間。"
+    },
+    {
+      "id": "5156911",
+      "time": "2026-10-21 04:30:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：特朗普總統特使史蒂夫·威特科夫和賈裡德·庫什納週二與烏克蘭總統澤連斯基、挪威領導人及芬蘭領導人舉行的會談“富有成效且具有建設性”。烏克蘭提出了新的想法和提議，各方對此進行了詳細討論，並表示，各方在協調對俄接觸方式、推進外交程序方面取得了“實質性進展”。美國、烏克蘭和歐洲目前在工作層面已就下一步行動“高度協調一致”，並共同致力於尋找結束戰爭的切實解決方案。週二在奧斯陸舉行的會談涉及全面和平框架的相關要素，包括對烏克蘭的長期安全保障、戰後經濟與繁榮計劃，以及旨在實現持久穩定的“更廣泛的歐洲安全架構”。"
+    },
+    {
+      "id": "5156910",
+      "time": "2026-10-21 04:29:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：馬斯克下令對烏克蘭的星鏈服務實施限速】據美國官員及知情人士披露，SpaceX 創始人馬斯克親自批准對烏克蘭所依賴的軍用版星鏈實施限速，此舉令基輔方面陷入恐慌，也讓特朗普政府內部感到混亂。知情訊息顯示：限速舉措公開前後，馬斯克與特朗普通話討論此事；部分訊息稱，在實施限速之前二人就已經溝透過該議題。但特朗普公開否認自己下令實施限制，表示想查清是誰做出決定。部分美國官員認為是馬斯克單方面行動，總統並未下達報復烏克蘭的指令，但馬斯克在限速前確實和包括特朗普在內的多名政府高層進行過溝通。"
+    },
+    {
+      "id": "mkt:01a15b01-037a-7ee0-a910-bab72921ad15",
+      "time": "2026-10-21 04:29:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "WSJ reports Elon Musk ordered a slowdown of Starlink service speeds in Ukraine."
+    },
+    {
+      "id": "mkt:01a15b00-7df9-7ee0-a910-b7855b6e6a1b",
+      "time": "2026-10-21 04:28:41",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "U.S. officials said talks in Oslo on Tuesday included elements of a comprehensive peace framework: long-term security guarantees for Ukraine, a postwar economic and prosperity plan, and a broader European security architecture aimed at achieving lasting stability."
+    },
+    {
+      "id": "mkt:01a15b00-7232-7ee0-a910-a9a746b1c082",
+      "time": "2026-10-21 04:28:38",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "US official: the US, Ukraine and European partners are currently \"highly coordinated\" at the working level on next steps and are jointly committed to seeking practical solutions to end the war."
+    },
+    {
+      "id": "mkt:01a15b00-476d-7ee0-a910-a353e6127f73",
+      "time": "2026-10-21 04:28:27",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "A U.S. official said Ukraine put forward new proposals; participants held detailed discussions and reported \"substantive progress\" in coordinating approaches to engagement with Russia and advancing the diplomatic process."
+    },
+    {
+      "id": "mkt:01a15b00-2226-7ee0-a910-9cde4a2030f9",
+      "time": "2026-10-21 04:28:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. officials said President Trump's envoys Steve Witkoff and Jared Kushner met Tuesday with Ukrainian President ZELENSKIY and the leaders of Norway and Finland; officials described the talks as productive and constructive."
+    },
+    {
+      "id": "te:markets:593549",
+      "time": "2026-10-21 04:27:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canadian Stocks Advance as Oil Rally Cools — The S&P/TSX Composite Index rose 0.5% to close at 36,108 on Tuesday, supported by gains in the banking sector. RBC advanced 1%, TD Bank gained 1.2%, and Scotiabank and CIBC each added 0.9% as the oil rally lost steam, easing pressure on credit-sensitive sectors hit by energy-driven inflation. Infrastructure and utility-related stocks also advanced, with Enbridge up 1.1%, TC Energy gaining 1.3%, and Waste Connections rising 1.8%. Retailers also posted gains, with Loblaw up 0.5% and ATD adding 1.9%. In technology, Shopify rose 1% and Constellation Software gained 2.6%, despite a selloff in US chipmakers and hyperscalers, while Celestica slipped 0.5%. Energy producers were subdued as crude prices pared gains, with Cenovus down 0.5%. Mining stocks fell alongside gold prices, with Agnico Eagle and WPM each losing 1%."
+    },
+    {
+      "id": "5156904",
+      "time": "2026-10-21 04:25:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：馬斯克下令對烏克蘭的星鏈服務實施限速。"
+    },
+    {
+      "id": "te:markets:593548",
+      "time": "2026-10-21 04:24:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Chubb earnings above expectations at 7.30 USD — Chubb (CB) released earnings per share at 7.30 USD, compared to market expectations of 6.28 USD."
+    },
+    {
+      "id": "5156900",
+      "time": "2026-10-21 04:20:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長接受伊拉克 Al Ekhbariya 電視臺採訪時稱：德黑蘭尚未收到沙烏地阿拉伯以及葉門胡塞武裝對其調解方案的答覆。"
+    },
+    {
+      "id": "mkt:01a15af8-9ed6-7ee0-a910-9075128d4af2",
+      "time": "2026-10-21 04:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "US API weekly crude inventory for the week to Oct 16 due in 10 minutes."
+    },
+    {
+      "id": "5156899",
+      "time": "2026-10-21 04:19:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報道：巴西最快下週首次發行熊貓債，首期規模擬達50億元人民幣】知情人士稱，巴西正籌備首次發行熊貓債，最快可能於下週啟動。訊息人士透露，巴西財政官員目前正在中國敲定這筆人民幣計價債券發行的細節，發行可能在週日總統選舉結束後啟動。巴西政府尋求籌資約100億元人民幣（15億美元），首期發行規模為50億元人民幣。此次發行將使巴西成為首個進入中國熊貓債市場的拉美主權發行人，其價格可能為淡水河谷等巴西企業建立定價基準。淡水河谷也在考慮發行人民幣計價債券。"
+    },
+    {
+      "id": "5156897",
+      "time": "2026-10-21 04:17:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：美國中東問題特使威特科夫將於週三與普京總統會面；特朗普高階顧問庫什納將以影片方式參與會談。目標是在與烏克蘭及歐洲取得的進展基礎上，繼續推進相關工作，並與俄羅斯討論有關提議。"
+    },
+    {
+      "id": "te:markets:593547",
+      "time": "2026-10-21 04:10:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Mostly Higher as Long-Term Yields Fall — US stock indices closed mostly higher on Tuesday as traditional economic sectors rebounded. The S&P 500 gained 0.3%, and the Dow rose 530 points, while the Nasdaq edged 0.1% lower. Long-term Treasury yields declined alongside energy prices, reinforcing expectations that the Fed will refrain from delivering back-to-back rate hikes at its meeting next week. Traditional sectors recovered from Monday’s losses. Banks and asset managers rebounded, Berkshire Hathaway rose 1.4%, while Goldman Sachs gained 1.1%. Healthcare stocks also advanced sharply, with Eli Lilly (+3.5%), Merck (+3.2%), and Johnson & Johnson (+2.2%) posting solid gains. On the earnings front, 3M (+5.8%) beat profit estimates and raised its full-year outlook for the second consecutive quarter. General Motors tumbled 6.8% after narrowing its profit outlook amid declining sales. SpaceX fell 0.1% and Netflix lost 1.7% ahead of their earnings reports after the closing bell."
+    },
+    {
+      "id": "te:markets:593546",
+      "time": "2026-10-21 04:09:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Capital One Financial earnings above expectations at 6.69 USD — Capital One Financial (COF) released earnings per share at 6.69 USD, compared to market expectations of 5.49 USD."
+    },
+    {
+      "id": "te:markets:593545",
+      "time": "2026-10-21 04:08:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Intuitive Surgical earnings above expectations at 3.00 USD — Intuitive Surgical (ISRG) released earnings per share at 3.00 USD, compared to market expectations of 2.59 USD."
+    },
+    {
+      "id": "5156881",
+      "time": "2026-10-21 04:06:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：截至9月30日，Starlink個人使用者訂閱量達到1360萬。"
+    },
+    {
+      "id": "te:markets:593544",
+      "time": "2026-10-21 04:05:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "SpaceX earnings in line with market expectations at 0.35 USD — SpaceX (SPCX) released earnings per share at 0.35 USD."
+    },
+    {
+      "id": "te:markets:593543",
+      "time": "2026-10-21 04:03:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Netflix earnings above expectations at 0.87 USD — Netflix (NFLX) released earnings per share at 0.87 USD, compared to market expectations of 0.84 USD."
+    },
+    {
+      "id": "5156876",
+      "time": "2026-10-21 04:02:05",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceX三季度營收145.8億美元，分析師預期128.7億美元。\n三季度太空收入（Space Rev）為18億美元。\n三季度人工智慧（AI）收入75.6億美元，分析師預期63億美元。\n三季度運營利潤27.9億美元，分析師預期22.4億美元。\n三季度每股收益（EPS）為0.35美元，分析師預期0.15美元。\n三季度淨利潤44億美元，分析師預期18.8億美元。\n三季度調整後EBITDA為88.1億美元，分析師預期65.9億美元。\n三季度資本開支195.9億美元，分析師預期196億美元。\n三季度AI資本開支164.4億美元，分析師預期169億美元。\n三季度總體成本與開支117.8億美元，分析師預期112.3億美元。"
+    },
+    {
+      "id": "5156875",
+      "time": "2026-10-21 04:01:36",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "奈飛三季度營收128.7億美元，預估128.7億美元。\n三季度每股收益0.87美元，預估0.82美元。\n三季度自由現金流28.8億美元，預估32.2億美元。\n預計四季度營收134.4億美元，分析師預期135.1億美元。\n預計第四季度經營利潤35.0億美元，預估37.2億美元。\n預計第四季度營業利益率26％，預估27.6％。\n預計第四季度每股收益0.67美元，預估0.73美元。\n預計全年營收511億美元，此前預計510億美元至514億美元。\n預計全年自由現金流大約120億美元，此前預計大約125億美元。\n仍然預測全年營業利益率31.5％，預估31.7％。"
+    },
+    {
+      "id": "5156874",
+      "time": "2026-10-21 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲1.02%，標普500指數漲0.29%，納指跌0.02%。艾可菲漲11.31%，孩之寶漲11.20%，Moderna漲6.69%，通用汽車跌6.83%，達維塔保健跌6.38%，純正部件跌5.17%。“七姐妹”方面：特斯拉漲1.54%，亞馬遜漲0.07%，英偉達跌0.29%，微軟跌0.31%，蘋果跌1.00%，谷歌跌1.11%，Meta Platforms跌1.59%。"
+    },
+    {
+      "id": "5156873",
+      "time": "2026-10-21 04:00:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "美聯航（UAL）三季度運營收入179億美元，分析師預期179.1億美元。"
+    },
+    {
+      "id": "5156872",
+      "time": "2026-10-21 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.71%】禾賽科技漲8.24%，天演藥業漲8.30%，小鵬汽車漲7.55%，MAAS漲5.89%，理想汽車漲5.58%。"
+    },
+    {
+      "id": "5156871",
+      "time": "2026-10-21 03:58:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗努爾新聞網稱卡達代表團已抵達德黑蘭，暫無官方證實。"
+    },
+    {
+      "id": "5156870",
+      "time": "2026-10-21 03:50:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【富蘭克林鄧普頓：法國債市動盪恐演變為歐債危機2.0版，且情況更嚴重】富蘭克林鄧普頓固定收益投資主管警告，法國債券如果持續遭拋售，可能升級為歐元區債務危機，一旦這種情況發生，嚴重程度可能超過近十幾年前發生的歐債危機。富蘭克林鄧普頓固定收益全球首席投資官Sonal Desai表示：“我認為沒有人真正為歐債危機2.0版做好了準備，如果這場危機真的爆發，情況可能會嚴重得多。”"
+    },
+    {
+      "id": "5156869",
+      "time": "2026-10-21 03:49:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威首相：美國特使威特科夫將前往聖彼得堡，會見俄羅斯總統普京及其團隊。"
+    },
+    {
+      "id": "5156867",
+      "time": "2026-10-21 03:46:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞斯在被問及烏克蘭衛星服務時表示，存在需要遵守的“服務條款”。"
+    },
+    {
+      "id": "5156866",
+      "time": "2026-10-21 03:46:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞斯：我們未撤回對烏克蘭的衛星服務，希望烏克蘭人取得成功。"
+    },
+    {
+      "id": "5156865",
+      "time": "2026-10-21 03:44:21",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【Anthropic S-1 披露：營收爆發式增長、風險叢生、算力開支天量】據新披露檔案，Anthropic 正為一場超大規模 IPO 做準備，其營收增長迅猛，但面臨一長串風險，包括客戶群狹窄、急需的算力供應存不確定性。\n財務情況：IPO草案顯示，2026 上半年營收 163 億美元，去年同期僅 11 億美元；同期淨虧損 807 億美元，遠超 2025 年全年 420 億美元的虧損。其中 720 億是可轉換票據公允價值變動帶來的會計調整，並非現金虧損。算力基礎設施投入持續走高，上半年算力花費近 90 億美元，而 2025 年同期為 23 億美元。公司客戶集中，約兩成營收僅來自兩家客戶。\n算力承諾：未來 7–10 年已有鎖定的雲合約約 4500 億美元，疊加晶片租賃義務，已確定的基建支出超 6000 億美元，還在洽談新訂單，承諾總額最高或增至 7500 億。其中將將斥資1110億美元用於谷歌雲算力協議，斥資1100億美元用於AWS雲端計算協議，斥資310億美元用於微軟雲端計算協議。此外還將斥資至多860億美元租用英偉達晶片。公司嘗試自建資料中心，但合作方運營經驗不足。\n草案顯示Anthropic已將計劃中的 IPO 推遲至 11 月，有望使其估值達到 2 萬億美元。"
+    },
+    {
+      "id": "5156864",
+      "time": "2026-10-21 03:40:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統：談判前提是美方解除施壓、威脅和制裁】當地時間20日，伊朗總統佩澤希齊揚在與巴基斯坦陸軍總參謀長穆尼爾會晤時表示，該地區所有問題，從緊張局勢和衝突升級到霍爾木茲海峽的混亂，都是由於美國的侵略造成的。美方不可能一邊加大制裁和施壓力度、封鎖伊朗，一邊又聲稱要進行對話與談判。伊朗過去和現在都願意對話，但美國必須先解除威脅和制裁，然後才能進行對話。如果他們真的尋求對話與協議，那麼他們現在的行為就與他們的說法完全矛盾，毫無邏輯可言。佩澤希齊揚強調，美國絕對無法透過戰爭實現他們的目標，只會造成破壞和損失，不僅對伊朗，而且對整個地區都是如此，這是伊朗絕不希望看到的。（央視新聞）"
+    },
+    {
+      "id": "5156861",
+      "time": "2026-10-21 03:38:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞斯證實，他探望了在以色列的美軍部隊，但不會討論與以色列總理內塔尼亞胡的私人談話。"
+    },
+    {
+      "id": "5156857",
+      "time": "2026-10-21 03:34:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱過去24小時葉門遭沙特空襲93次】當地時間10月20日，葉門胡塞武裝發言人葉海亞稱，過去24小時內，沙特戰機對葉門焦夫省、塔伊茲省、薩達省、馬裡卜省、哈傑省、拉赫季省、阿姆蘭省和伊卜省的民用目標發動93次空襲及導彈襲擊。葉海亞稱，沙特戰機出動F-15和“颱風”戰鬥機，從海米斯穆謝特、塔伊夫、海爾季等空軍基地及舍魯拉機場起飛，襲擊造成平民傷亡。他還表示，自本輪衝突升級以來，沙特方面發動的空襲及導彈襲擊累計已達2793次。（央視新聞）"
+    },
+    {
+      "id": "5156856",
+      "time": "2026-10-21 03:34:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數20日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.27%，在匯市尾市收於101.701。截至紐約匯市尾市，1歐元兌換1.1237美元，高於前一交易日的1.1212美元；1英鎊兌換1.3383美元，高於前一交易日的1.3305美元。1美元兌換158.20日元，低於前一交易日的158.52日元；1美元兌換0.8248瑞士法郎，低於前一交易日的0.8265瑞士法郎；1美元兌換1.4057加元，低於前一交易日的1.4106加元；1美元兌換9.8979瑞典克朗，低於前一交易日的9.9200瑞典克朗。"
+    },
+    {
+      "id": "5156855",
+      "time": "2026-10-21 03:34:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局稱，已為波音 737 MAX 10 頒發適航認證。"
+    },
+    {
+      "id": "5156854",
+      "time": "2026-10-21 03:34:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Anthropic已釋放訊號，未來幾年可能在獲取更多算力方面投入高達7500億美元。"
+    },
+    {
+      "id": "5156852",
+      "time": "2026-10-21 03:32:45",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：Anthropic在2026年上半年實現收入163億美元，在2026年上半年在算力方面的支出接近90億美元。上半年淨虧損807億美元，主要受會計費用影響。"
+    },
+    {
+      "id": "5156851",
+      "time": "2026-10-21 03:31:35",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：Anthropic將斥資逾6000億美元用於算力。"
+    },
+    {
+      "id": "5156850",
+      "time": "2026-10-21 03:30:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "波音 737 MAX 最大型號獲得美國批准。"
+    },
+    {
+      "id": "5156848",
+      "time": "2026-10-21 03:28:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞斯：我們對烏克蘭的立場沒有任何改變。"
+    },
+    {
+      "id": "5156847",
+      "time": "2026-10-21 03:23:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Claude Opus 5.5和Claude Sonnet 5.5現已在Google Antigravity上線。"
+    },
     {
       "id": "mkt:01a15abe-270b-7ee0-a90f-9689d17de6bf",
       "time": "2026-10-21 03:16:13",
