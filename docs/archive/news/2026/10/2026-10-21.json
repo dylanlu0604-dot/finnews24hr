@@ -1,7 +1,35 @@
 {
   "date": "2026-10-21",
-  "count": 255,
+  "count": 258,
   "items": [
+    {
+      "id": "5156780",
+      "time": "2026-10-21 02:30:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價為每桶 101.79 美元，下跌 1.87 美元，跌幅 1.80%。"
+    },
+    {
+      "id": "te:markets:593539",
+      "time": "2026-10-21 02:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Appreciates by 1.43% — Top crypto gainers are XRP (1.43%), Ether (1.33%) and Bitcoin (0.75%)."
+    },
+    {
+      "id": "5156779",
+      "time": "2026-10-21 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌4.47%，報694.80元人民幣/桶。滬金夜盤收跌0.31%，滬銀收漲1.54%。"
+    },
     {
       "id": "te:markets:593538",
       "time": "2026-10-21 02:25:09",
