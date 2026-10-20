@@ -1,7 +1,51 @@
 {
   "date": "2026-10-21",
-  "count": 328,
+  "count": 333,
   "items": [
+    {
+      "id": "5156826",
+      "time": "2026-10-21 03:04:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：預計美國與加拿大不會在中期選舉之前達成貿易協議。"
+    },
+    {
+      "id": "mkt:01a15ab2-4706-7ee0-a90f-2ee10ed14295",
+      "time": "2026-10-21 03:03:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he has been discussing with President Putin the case of U.S. citizen Hubbard detained in Russia, and that it is time to bring him home."
+    },
+    {
+      "id": "5156825",
+      "time": "2026-10-21 03:02:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達航空將於2027年12月15日起增加飛往西悉尼的航班。"
+    },
+    {
+      "id": "5156824",
+      "time": "2026-10-21 03:02:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【在岸人民幣兌美元夜盤收盤報6.6781，較上一交易日上漲29點】在岸人民幣兌美元夜盤收盤報6.6781，較上一交易日上漲29點。"
+    },
+    {
+      "id": "mkt:01a15ab1-617d-7ee0-a90f-23caca83b153",
+      "time": "2026-10-21 03:02:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.51% at 24,001, trading 133 points above the cash index."
+    },
     {
       "id": "5156822",
       "time": "2026-10-21 03:00:03",
