@@ -1,7 +1,125 @@
 {
   "date": "2026-10-20",
-  "count": 2050,
+  "count": 2063,
   "items": [
+    {
+      "id": "5156317",
+      "time": "2026-10-20 21:50:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元AUD/USD突破0.70，日內漲0.31%。"
+    },
+    {
+      "id": "mkt:01a15994-3479-7ee0-a908-2a879d8f2563",
+      "time": "2026-10-20 21:50:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Taobao payment fault; customer service cites heavy promotion traffic】On Oct 20 a large number of users reported payment failures on Taobao. At order confirmation many saw the message \"Platform discount amount has changed; please return and reconfirm discount information\"; some users could not complete payment and coupon statuses were abnormal. Taobao customer service attributed the issue to heavy traffic during a major promotion, advised users to try again later and apologized for the inconvenience."
+    },
+    {
+      "id": "mkt:01a15993-d4bc-7ee0-a908-272c607c3dc9",
+      "time": "2026-10-20 21:50:22",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "AUD/USD breached 0.7000, trading up 0.31% intraday."
+    },
+    {
+      "id": "mkt:01a15993-8bdf-7ee0-a908-184dd7a57137",
+      "time": "2026-10-20 21:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "US September pending home sales index (MoM) due in 10 minutes."
+    },
+    {
+      "id": "5156316",
+      "time": "2026-10-20 21:49:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【客服回應淘寶出現支付故障】10月20日，大量使用者反饋淘寶出現支付故障，確認訂單時提示“平臺優惠金額髮生變化，請返回重新確認優惠資訊”，部分人無法完成付款、優惠券狀態異常。 對此，詢問淘寶客服，得到回覆：“是因為大促期間活動火爆，建議稍後再試，給您帶來的不便，敬請諒解。”"
+    },
+    {
+      "id": "te:markets:593488",
+      "time": "2026-10-20 21:49:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Parker-Hannifin Shares Hit 4-week Low — Parker-Hannifin shares decreased to 937.61 USD, the lowest since September 2026. Over the past 4 weeks, Parker -Hannifin lost 1.78%, and in the last 12 months, it increased 24.18%."
+    },
+    {
+      "id": "5156315",
+      "time": "2026-10-20 21:48:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：高通將以績效為導向在全球範圍內裁員】高通公司（QCOM）執行長阿蒙（Cristiano Amon）週一在一份備忘錄中向員工表示，公司將在年度員工考核後進行“以績效為導向的裁員”，相關通知將於11月開始發出。阿蒙表示，此次裁員旨在打造“更強大的績效文化”，並解決公司“持續未達預期”的問題。 在裁員過程中將綜合考慮業務優先順序、組織需求、技能和專業知識等因素。“隨著業務的擴充套件，我們所需的能力和技能也在不斷增加，”他寫道。“我們必須讓合適的人擔任合適的職位，這樣他們才能發揮最佳水平，公司才能繼續取得成功。”"
+    },
+    {
+      "id": "5156314",
+      "time": "2026-10-20 21:48:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【羅馬尼亞新一屆政府獲參眾兩院投票批准】當地時間10月20日，羅馬尼亞參眾兩院投票批准成立以盧卡·尼古列斯庫為總理的新一屆政府。新政府設1名副總理兼任內務部長及17名部長。今年5月初，羅馬尼亞參眾兩院聯席會議投票透過對政府的不信任動議，時任總理博洛讓領導的政府下臺。之後，達恩三次委任新總理，但均未實現成功組閣。10月5日，達恩宣佈委任尼古列斯庫為總理進行組閣。（央視新聞）"
+    },
+    {
+      "id": "5156313",
+      "time": "2026-10-20 21:47:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【資訊發展：公司變更為無控股股東、無實控人】資訊發展(300469)10月20日公告，公司控股股東交信北斗（嘉興）股權投資有限公司與公司股東上海中信電子發展有限公司解除《表決權委託協議》，導致公司控股股東發生變化，公司變更為無控股股東、無實控人的狀態。公司處於無控股股東、無實控人狀態不會導致主要業務結構發生變化，不會對公司日常經營活動產生重大不利影響。"
+    },
+    {
+      "id": "5156312",
+      "time": "2026-10-20 21:47:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "3M公司股價上漲5%，創下7月以來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:01a15991-58d5-7ee0-a908-144ca553d9d8",
+      "time": "2026-10-20 21:47:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy met King Harald V of Norway in Oslo and thanked the king, government and people for their support of Ukraine."
+    },
+    {
+      "id": "5156311",
+      "time": "2026-10-20 21:47:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門舍卜瓦省媒體辦公室表示，胡塞武裝對該省一處政府安全部隊訓練營地發動襲擊，造成73人死亡。"
+    },
+    {
+      "id": "5156310",
+      "time": "2026-10-20 21:47:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "加元兌美元上漲0.5%，觸及四周高點，報1.4033加元兌1美元。"
+    },
     {
       "id": "5156309",
       "time": "2026-10-20 21:46:47",

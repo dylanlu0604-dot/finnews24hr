@@ -1,7 +1,125 @@
 {
-  "updated": "2026-10-20 21:47:39",
-  "count": 13523,
+  "updated": "2026-10-20 21:51:34",
+  "count": 13520,
   "items": [
+    {
+      "id": "5156317",
+      "time": "2026-10-20 21:50:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元AUD/USD突破0.70，日內漲0.31%。"
+    },
+    {
+      "id": "mkt:01a15994-3479-7ee0-a908-2a879d8f2563",
+      "time": "2026-10-20 21:50:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Taobao payment fault; customer service cites heavy promotion traffic】On Oct 20 a large number of users reported payment failures on Taobao. At order confirmation many saw the message \"Platform discount amount has changed; please return and reconfirm discount information\"; some users could not complete payment and coupon statuses were abnormal. Taobao customer service attributed the issue to heavy traffic during a major promotion, advised users to try again later and apologized for the inconvenience."
+    },
+    {
+      "id": "mkt:01a15993-d4bc-7ee0-a908-272c607c3dc9",
+      "time": "2026-10-20 21:50:22",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "AUD/USD breached 0.7000, trading up 0.31% intraday."
+    },
+    {
+      "id": "mkt:01a15993-8bdf-7ee0-a908-184dd7a57137",
+      "time": "2026-10-20 21:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "US September pending home sales index (MoM) due in 10 minutes."
+    },
+    {
+      "id": "5156316",
+      "time": "2026-10-20 21:49:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【客服回應淘寶出現支付故障】10月20日，大量使用者反饋淘寶出現支付故障，確認訂單時提示“平臺優惠金額髮生變化，請返回重新確認優惠資訊”，部分人無法完成付款、優惠券狀態異常。 對此，詢問淘寶客服，得到回覆：“是因為大促期間活動火爆，建議稍後再試，給您帶來的不便，敬請諒解。”"
+    },
+    {
+      "id": "te:markets:593488",
+      "time": "2026-10-20 21:49:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Parker-Hannifin Shares Hit 4-week Low — Parker-Hannifin shares decreased to 937.61 USD, the lowest since September 2026. Over the past 4 weeks, Parker -Hannifin lost 1.78%, and in the last 12 months, it increased 24.18%."
+    },
+    {
+      "id": "5156315",
+      "time": "2026-10-20 21:48:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：高通將以績效為導向在全球範圍內裁員】高通公司（QCOM）執行長阿蒙（Cristiano Amon）週一在一份備忘錄中向員工表示，公司將在年度員工考核後進行“以績效為導向的裁員”，相關通知將於11月開始發出。阿蒙表示，此次裁員旨在打造“更強大的績效文化”，並解決公司“持續未達預期”的問題。 在裁員過程中將綜合考慮業務優先順序、組織需求、技能和專業知識等因素。“隨著業務的擴充套件，我們所需的能力和技能也在不斷增加，”他寫道。“我們必須讓合適的人擔任合適的職位，這樣他們才能發揮最佳水平，公司才能繼續取得成功。”"
+    },
+    {
+      "id": "5156314",
+      "time": "2026-10-20 21:48:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【羅馬尼亞新一屆政府獲參眾兩院投票批准】當地時間10月20日，羅馬尼亞參眾兩院投票批准成立以盧卡·尼古列斯庫為總理的新一屆政府。新政府設1名副總理兼任內務部長及17名部長。今年5月初，羅馬尼亞參眾兩院聯席會議投票透過對政府的不信任動議，時任總理博洛讓領導的政府下臺。之後，達恩三次委任新總理，但均未實現成功組閣。10月5日，達恩宣佈委任尼古列斯庫為總理進行組閣。（央視新聞）"
+    },
+    {
+      "id": "5156313",
+      "time": "2026-10-20 21:47:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【資訊發展：公司變更為無控股股東、無實控人】資訊發展(300469)10月20日公告，公司控股股東交信北斗（嘉興）股權投資有限公司與公司股東上海中信電子發展有限公司解除《表決權委託協議》，導致公司控股股東發生變化，公司變更為無控股股東、無實控人的狀態。公司處於無控股股東、無實控人狀態不會導致主要業務結構發生變化，不會對公司日常經營活動產生重大不利影響。"
+    },
+    {
+      "id": "5156312",
+      "time": "2026-10-20 21:47:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "3M公司股價上漲5%，創下7月以來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:01a15991-58d5-7ee0-a908-144ca553d9d8",
+      "time": "2026-10-20 21:47:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy met King Harald V of Norway in Oslo and thanked the king, government and people for their support of Ukraine."
+    },
+    {
+      "id": "5156311",
+      "time": "2026-10-20 21:47:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門舍卜瓦省媒體辦公室表示，胡塞武裝對該省一處政府安全部隊訓練營地發動襲擊，造成73人死亡。"
+    },
+    {
+      "id": "5156310",
+      "time": "2026-10-20 21:47:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "加元兌美元上漲0.5%，觸及四周高點，報1.4033加元兌1美元。"
+    },
     {
       "id": "5156309",
       "time": "2026-10-20 21:46:47",
@@ -123633,149 +123751,6 @@
         "公司"
       ],
       "text": "【胡塞武裝再次警告反擊沙特】最新訊息：葉門胡塞武裝今天（10月13日）再次對外發布資訊，呼籲所有民眾立即撤離並遠離其可能打擊的沙特境內目標。胡塞武裝稱，如果沙特方面對此前宣佈的位於葉門首都薩那的目標進行打擊，那麼作為回應，胡塞武裝將對位於沙特東部城市達曼的沙特阿美公司石油總部、位於沙特首都利雅得的哈立德國王國際機場，以及沙特阿美石油公司旗下的利雅得煉油廠進行打擊。今天早些時候，沙特主導的多國聯軍曾釋出宣告，稱將對葉門石油公司位於薩那的一處石油設施進行打擊。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a13588-20fc-7ee0-a859-909d3d933659",
-      "time": "2026-10-13 21:51:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Handan says first Beijing low‑altitude economy firm relocates to Handan】Handan Investment Promotion Bureau said that after implementation of the capital no‑fly zone policy it matched an outward‑moving low‑altitude economy firm from the Beijing‑Tianjin‑Hebei region with Linzhang County and secured the relocation of Beijing Tianxun Chuangyi Technology Co. to Handan. The project comprises five modules — North China regional headquarters, final assembly/manufacturing, flight testing, operations & maintenance training, and scenario operations — to be rolled out in three phases. The initial phase will occupy a 4,000 sqm factory and targets annual production of 300 vertical take‑off and landing fixed‑wing UAVs. The first batch of equipment arrived on Oct. 12, the bureau said, marking Handan’s first Beijing low‑altitude economy relocation since the capital no‑fly zone policy."
-    },
-    {
-      "id": "mkt:01a13587-f30e-7ee0-a859-8b5ef7066a25",
-      "time": "2026-10-13 21:51:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Republican National Committee said President Trump will hold a midterm rally in Kentucky on Oct. 17."
-    },
-    {
-      "id": "5142592",
-      "time": "2026-10-13 21:50:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "共和黨全國委員會：特朗普將於10月17日在肯塔基州舉行中期選舉集會。"
-    },
-    {
-      "id": "5142591",
-      "time": "2026-10-13 21:50:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【邯鄲市投資促進局：北京首家低空經濟產業轉移企業落戶邯鄲】首都禁飛區政策實施後，市投資促進局搶抓京津冀地區低空經濟企業轉移機遇，“點對點”精準對接意向外遷企業需求，聯合臨漳縣快速承接，成功推動智慧物流與特種作業無人機高新技術企業北京天隼創翼科技有限公司落戶邯鄲。專案主要包括“華北區域總部+總裝製造+試飛測試+運維培訓+場景運營”五個板塊，分三階段實施，先期佔用4000平方米廠房，預計年產垂起固定翼無人機300架。10月12日下午，該專案首批裝置順利進場，成為首都禁飛區政策以來全市首家北京低空經濟產業轉移落地企業。（邯鄲市投資促進局）"
-    },
-    {
-      "id": "5142590",
-      "time": "2026-10-13 21:50:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【協創資料：不存在“通道化自採自銷”或損害公司及股東利益情形】藍鯨新聞10月13日電，有投資者問，今日，媒體報道對貴司提出三點質疑：322億元伺服器採購公告未見對應算力銷售合同；向淨資產不足20萬元、參保1人的麥塔倍斯預計8.5億元關聯銷售（半年已發生1.34億元）；向啟朔科技3億元關聯採購。市場據此懷疑交易呈＂通道化自採自銷＂。協創資料在互動平臺表示，公司伺服器採購主要用於雲算力服務，採購規模根據客戶訂單、專案規劃、資金安排及交付節奏審慎確定，屬於算力基礎設施建設的前置投入；採購預計額度與實際銷售合同不存在一一對應關係，不能據此推導。公司與麥塔倍斯、啟朔科技之間的交易均基於真實經營需要，以市場價格為定價原則，並已履行關聯交易審議、關聯董事迴避及披露程式；截至2026年6月30日，向麥塔倍斯銷售算力服務等累計發生13,412.36萬元，向啟朔科技採購伺服器累計發生9,377.19萬元，均未超過獲批額度，交易價格與市場參考價格不存在較大差異。公司不存在應披露而未披露事項，不存在所謂“通道化自採自銷”或損害公司及股東利益的情形。對於與事實不符的資訊，公司將依法採取必要措施維護公司及投資者合法權益。"
-    },
-    {
-      "id": "5142589",
-      "time": "2026-10-13 21:50:11",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛首席財務官表示，預計監管重心很快將轉向流動性監管改革。"
-    },
-    {
-      "id": "5142588",
-      "time": "2026-10-13 21:50:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "胡塞武裝：石油公司內部訊息人士證實，該公司位於薩巴赫的站點已無石油衍生品，打擊該站點沒有軍事價值。"
-    },
-    {
-      "id": "mkt:01a13587-0481-7ee0-a859-86ed93a2a021",
-      "time": "2026-10-13 21:50:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact mixed",
-        "S&P500",
-        "US10Y"
-      ],
-      "text": "US September existing-home sales (annualized) due in 10 minutes."
-    },
-    {
-      "id": "5142587",
-      "time": "2026-10-13 21:50:01",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "市場訊息：葉門薩那傳出爆炸聲。"
-    },
-    {
-      "id": "5142586",
-      "time": "2026-10-13 21:49:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "聯合健康集團股價抹去了開盤時5%的漲幅。"
-    },
-    {
-      "id": "mkt:01a13586-d01c-7ee0-a859-78a12f4dcf75",
-      "time": "2026-10-13 21:49:49",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Explosions reported in Sanaa, Yemen."
-    },
-    {
-      "id": "5142585",
-      "time": "2026-10-13 21:49:42",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛CEO：資產和財富管理業務仍“處於非常有利的位置，在具吸引力的長期順風下有望持續增長。"
-    },
-    {
-      "id": "5142584",
-      "time": "2026-10-13 21:49:32",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長表示：與此同時，我們也在依靠自身有機增長加快發展步伐，打造實力更強的平臺，為客戶提供更優質的產品服務。"
-    },
-    {
-      "id": "5142583",
-      "time": "2026-10-13 21:49:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黃海南部部分海域進行實彈射擊，禁止駛入】據中國海事局網站訊息，鹽城海事局釋出航行警告，10月15日至11月30日，每日0時至24時，黃海南部部分海域進行實彈射擊，禁止駛入。"
-    },
-    {
-      "id": "mkt:01a13585-a3d2-7ee0-a859-720e64928635",
-      "time": "2026-10-13 21:48:32",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Huachu published a notice for the fifth 2026 central reserve tender of frozen beef and mutton, offering 200 tonnes for procurement."
-    },
-    {
-      "id": "mkt:01a13585-8477-7ee0-a859-6cc648ce1c54",
-      "time": "2026-10-13 21:48:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump will hold campaign rallies in Alaska, Arizona, Montana and Georgia."
     }
   ]
 }
