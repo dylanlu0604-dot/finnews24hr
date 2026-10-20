@@ -1,7 +1,134 @@
 {
   "date": "2026-10-20",
-  "count": 2120,
+  "count": 2134,
   "items": [
+    {
+      "id": "mkt:01a159a6-9925-7ee0-a908-ebdc1f6b77b5",
+      "time": "2026-10-20 22:10:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Nasdaq 100 erased losses after an earlier slide of more than 1%."
+    },
+    {
+      "id": "5156362",
+      "time": "2026-10-20 22:10:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數抹去所有跌幅；此前一度下跌1.1%。"
+    },
+    {
+      "id": "mkt:01a159a6-48ec-7ee0-a908-e296d5bfede5",
+      "time": "2026-10-20 22:10:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Official data show EU corn imports for the 2025/26 marketing year were 6.64 mln tonnes as of Oct 18, up from 4.74 mln tonnes a year earlier."
+    },
+    {
+      "id": "5156361",
+      "time": "2026-10-20 22:10:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【諾和諾德新減肥藥試驗成果：成年女性受試者實現平均減重25%】諾和諾德週二公佈，在一項三期臨床試驗後的新增分析中，其新一代減重藥CagriSema在成年女性受試者身上實現平均減重25%。 這家丹麥藥企表示，還需要進一步研究，來驗證這兩項試驗後分析得出的推論。即便如此，該結果仍是最新佐證：這款在研注射劑，減重效果與其他獲益有望超越諾和諾德現有的GLP‑1類藥物司美格魯肽。司美格魯肽是爆款減重針Wegovy、降糖藥Ozempic的有效成分。 該分析納入約2300名肥胖或超重女性：持續用藥68周後，CagriSema組平均減重25%，安慰劑組僅3%。該資料基於理想假設場景——所有受試者不間斷堅持治療。"
+    },
+    {
+      "id": "mkt:01a159a6-01c2-7ee0-a908-dc05c253cb26",
+      "time": "2026-10-20 22:10:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Official data: as of Oct 18, EU 2025/26 barley exports stood at 2.22 mln tonnes, down from 3.74 mln tonnes a year earlier."
+    },
+    {
+      "id": "mkt:01a159a5-cb22-7ee0-a908-d6c8180d9f54",
+      "time": "2026-10-20 22:09:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Official data show the EU's 2025/26 soft-wheat exports were 8.47 mln tonnes as of Oct 18, unchanged YoY."
+    },
+    {
+      "id": "5156360",
+      "time": "2026-10-20 22:09:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代：預計2027年全球電池市場增速在20%-30%】寧德時代管理層在今日晚間舉行的業績說明會上表示，公司上半年產能利用率飽和，預計2027年全球市場增速在20%-30%區間，公司會持續推進產能建設和市佔率提升。在相關部門對產能合理管控下，鋰電行業的內卷可能會好於之前。"
+    },
+    {
+      "id": "5156359",
+      "time": "2026-10-20 22:09:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：受影響GCP產品的問題對大多數客戶而言已得到緩解。"
+    },
+    {
+      "id": "5156358",
+      "time": "2026-10-20 22:09:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部長：調解德黑蘭與華盛頓之間緊張局勢的工作仍在繼續。"
+    },
+    {
+      "id": "5156357",
+      "time": "2026-10-20 22:09:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報57.66美元/盎司。"
+    },
+    {
+      "id": "mkt:01a159a4-b14f-7ee0-a908-cfd9098517b5",
+      "time": "2026-10-20 22:08:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver extends intraday gains to 1.0%, trading at $57.67/oz."
+    },
+    {
+      "id": "mkt:01a159a4-3501-7ee0-a908-c3c05200281f",
+      "time": "2026-10-20 22:08:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Pakistan foreign minister: mediation efforts to ease tensions between Tehran and Washington remain ongoing."
+    },
+    {
+      "id": "5156356",
+      "time": "2026-10-20 22:08:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【95後“安踏二代”丁少翔進入始祖鳥母公司董事會】近日，始祖鳥母公司亞瑪芬體育更新董事會名單，安踏集團丁世忠之子丁少翔正式入局。當地時間10月16日，始祖鳥、薩洛蒙母公司亞瑪芬體育（NYSE:AS）向美國SEC 提交6-K公告，宣佈董事會人事調整，安踏集團董事局主席丁世忠之子丁少翔獲任董事，任命即時生效。同日，原董事Tak Yan (Dennis) Tao 辭任，公告稱其辭職與公司經營、財務事項不存在分歧；安踏副總裁林偉同步進入亞瑪芬薪酬委員會。丁少翔現任迪桑特中國董事長，並分管 MAIA ACTIVE 業務。該檔案僅公告人事調整。截至10月19日，據公司官網披露，亞瑪芬體育董事會由安踏派駐董事、財務投資方董事及行業獨立董事共11名成員組成。“安踏系” 董事佔據6席，包括安踏體育聯合創始人兼董事局主席丁世忠、安踏體育執行董事兼CFO畢明偉、迪桑特（中國）有限公司董事長丁少翔、擔任亞瑪芬CEO的鄭捷等。（介面）"
+    },
+    {
+      "id": "5156355",
+      "time": "2026-10-20 22:07:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌3%，現報4780.00元。"
+    },
     {
       "id": "te:economy:593489",
       "time": "2026-10-20 22:06:40",

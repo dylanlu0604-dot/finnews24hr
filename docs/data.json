@@ -1,7 +1,134 @@
 {
-  "updated": "2026-10-20 22:07:23",
-  "count": 13501,
+  "updated": "2026-10-20 22:11:17",
+  "count": 13494,
   "items": [
+    {
+      "id": "mkt:01a159a6-9925-7ee0-a908-ebdc1f6b77b5",
+      "time": "2026-10-20 22:10:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Nasdaq 100 erased losses after an earlier slide of more than 1%."
+    },
+    {
+      "id": "5156362",
+      "time": "2026-10-20 22:10:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數抹去所有跌幅；此前一度下跌1.1%。"
+    },
+    {
+      "id": "mkt:01a159a6-48ec-7ee0-a908-e296d5bfede5",
+      "time": "2026-10-20 22:10:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Official data show EU corn imports for the 2025/26 marketing year were 6.64 mln tonnes as of Oct 18, up from 4.74 mln tonnes a year earlier."
+    },
+    {
+      "id": "5156361",
+      "time": "2026-10-20 22:10:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【諾和諾德新減肥藥試驗成果：成年女性受試者實現平均減重25%】諾和諾德週二公佈，在一項三期臨床試驗後的新增分析中，其新一代減重藥CagriSema在成年女性受試者身上實現平均減重25%。 這家丹麥藥企表示，還需要進一步研究，來驗證這兩項試驗後分析得出的推論。即便如此，該結果仍是最新佐證：這款在研注射劑，減重效果與其他獲益有望超越諾和諾德現有的GLP‑1類藥物司美格魯肽。司美格魯肽是爆款減重針Wegovy、降糖藥Ozempic的有效成分。 該分析納入約2300名肥胖或超重女性：持續用藥68周後，CagriSema組平均減重25%，安慰劑組僅3%。該資料基於理想假設場景——所有受試者不間斷堅持治療。"
+    },
+    {
+      "id": "mkt:01a159a6-01c2-7ee0-a908-dc05c253cb26",
+      "time": "2026-10-20 22:10:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Official data: as of Oct 18, EU 2025/26 barley exports stood at 2.22 mln tonnes, down from 3.74 mln tonnes a year earlier."
+    },
+    {
+      "id": "mkt:01a159a5-cb22-7ee0-a908-d6c8180d9f54",
+      "time": "2026-10-20 22:09:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Official data show the EU's 2025/26 soft-wheat exports were 8.47 mln tonnes as of Oct 18, unchanged YoY."
+    },
+    {
+      "id": "5156360",
+      "time": "2026-10-20 22:09:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代：預計2027年全球電池市場增速在20%-30%】寧德時代管理層在今日晚間舉行的業績說明會上表示，公司上半年產能利用率飽和，預計2027年全球市場增速在20%-30%區間，公司會持續推進產能建設和市佔率提升。在相關部門對產能合理管控下，鋰電行業的內卷可能會好於之前。"
+    },
+    {
+      "id": "5156359",
+      "time": "2026-10-20 22:09:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：受影響GCP產品的問題對大多數客戶而言已得到緩解。"
+    },
+    {
+      "id": "5156358",
+      "time": "2026-10-20 22:09:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部長：調解德黑蘭與華盛頓之間緊張局勢的工作仍在繼續。"
+    },
+    {
+      "id": "5156357",
+      "time": "2026-10-20 22:09:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報57.66美元/盎司。"
+    },
+    {
+      "id": "mkt:01a159a4-b14f-7ee0-a908-cfd9098517b5",
+      "time": "2026-10-20 22:08:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver extends intraday gains to 1.0%, trading at $57.67/oz."
+    },
+    {
+      "id": "mkt:01a159a4-3501-7ee0-a908-c3c05200281f",
+      "time": "2026-10-20 22:08:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Pakistan foreign minister: mediation efforts to ease tensions between Tehran and Washington remain ongoing."
+    },
+    {
+      "id": "5156356",
+      "time": "2026-10-20 22:08:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【95後“安踏二代”丁少翔進入始祖鳥母公司董事會】近日，始祖鳥母公司亞瑪芬體育更新董事會名單，安踏集團丁世忠之子丁少翔正式入局。當地時間10月16日，始祖鳥、薩洛蒙母公司亞瑪芬體育（NYSE:AS）向美國SEC 提交6-K公告，宣佈董事會人事調整，安踏集團董事局主席丁世忠之子丁少翔獲任董事，任命即時生效。同日，原董事Tak Yan (Dennis) Tao 辭任，公告稱其辭職與公司經營、財務事項不存在分歧；安踏副總裁林偉同步進入亞瑪芬薪酬委員會。丁少翔現任迪桑特中國董事長，並分管 MAIA ACTIVE 業務。該檔案僅公告人事調整。截至10月19日，據公司官網披露，亞瑪芬體育董事會由安踏派駐董事、財務投資方董事及行業獨立董事共11名成員組成。“安踏系” 董事佔據6席，包括安踏體育聯合創始人兼董事局主席丁世忠、安踏體育執行董事兼CFO畢明偉、迪桑特（中國）有限公司董事長丁少翔、擔任亞瑪芬CEO的鄭捷等。（介面）"
+    },
+    {
+      "id": "5156355",
+      "time": "2026-10-20 22:07:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌3%，現報4780.00元。"
+    },
     {
       "id": "te:economy:593489",
       "time": "2026-10-20 22:06:40",
@@ -123397,198 +123524,6 @@
         "市場"
       ],
       "text": "【Mineros 上調 2026 年黃金產量指引，上限至 24.5 萬盎司】Mineros 公告顯示，受第三季度產量增長拉動，公司將 2026 年黃金產量預期由此前 22 萬–24 萬盎司上調至 23.5 萬–24.5 萬盎司。第三季度黃金產量同比增長 14%，達 62565 盎司；前九個月產量同比上升 11.3%，至 181466 盎司。2026 年第三季度，Hemco 金礦黃金產量 38010 盎司，同比增長 18.5%。Nechí 金礦 2026 年第三季度黃金產量為 24555 盎司。這是 Mineros 本年度第二次上調產量指引。"
-    },
-    {
-      "id": "5142663",
-      "time": "2026-10-13 22:11:14",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長表示，利率波動未來可能帶來更多不利因素。"
-    },
-    {
-      "id": "5142662",
-      "time": "2026-10-13 22:10:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Neocloud廠商Prime Intellect收購初創公司，加速推理業務】各類新雲服務商（neocloud）以及為應用開發者執行開源模型的推理服務商，正在競爭白熱化的市場中尋求差異化優勢。 例如，這類新雲廠商之一Prime Intellect，在7月的一輪股權融資中估值達10億美元。該公司正收購一家初創企業，以求在英偉達伺服器上執行開源模型時，相比競爭對手實現更高速度、更低成本。 Prime Intellect聯合創始人兼執行長文森特·魏瑟介紹，這家總部位於舊金山的公司將收購Moondream。Moondream是一家成立不久的開源模型開發企業，員工不足十人。"
-    },
-    {
-      "id": "5142661",
-      "time": "2026-10-13 22:10:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗媒體：一艘違規油輪在霍爾木茲海峽東部起火。"
-    },
-    {
-      "id": "5142660",
-      "time": "2026-10-13 22:10:11",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長：儘管面臨若干逆風因素，經濟仍保持極強韌性。"
-    },
-    {
-      "id": "5142659",
-      "time": "2026-10-13 22:10:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國財務部：韓國財長與貝森特討論了共同經濟政策任務與合作措施。"
-    },
-    {
-      "id": "5142658",
-      "time": "2026-10-13 22:10:00",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長表示，目前我們確實正處於一個對資本市場和投行業務而言非常良好的經營環境中。"
-    },
-    {
-      "id": "5142657",
-      "time": "2026-10-13 22:09:57",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長：IPO市場狀況仍然“相當不錯”。"
-    },
-    {
-      "id": "mkt:01a13599-3eae-7ee0-a85a-50b9315278a8",
-      "time": "2026-10-13 22:09:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "South Korea's Finance Ministry said the South Korean finance minister and US Treasury Secretary BESSENT discussed joint economic policy tasks and cooperative measures."
-    },
-    {
-      "id": "5142656",
-      "time": "2026-10-13 22:09:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "富國銀行執行長：承保標準已考慮到消費者信貸狀況終將走弱；“我們目前尚未觀察到這一跡象，但我們清楚信貸週期不可避免。”。"
-    },
-    {
-      "id": "mkt:01a13599-1d02-7ee0-a85a-4a54292d2f52",
-      "time": "2026-10-13 22:09:49",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Goldman Sachs CEO Solomon says the IPO market remains quite healthy."
-    },
-    {
-      "id": "mkt:01a13598-afc4-7ee0-a85a-43fbd7f17d6e",
-      "time": "2026-10-13 22:09:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's finance minister and US Treasury Secretary BESSENT reiterated the importance of economic and financial cooperation, the South Korean Finance Ministry said."
-    },
-    {
-      "id": "5142655",
-      "time": "2026-10-13 22:09:20",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "美國財政部外國資產控制辦公室對與“東北卡特爾”有關聯的墨西哥公司實施制裁。"
-    },
-    {
-      "id": "5142654",
-      "time": "2026-10-13 22:09:17",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部：韓國財長與美國財政部長貝森特重申經濟金融合作的重要性。"
-    },
-    {
-      "id": "mkt:01a13598-7c63-7ee0-a85a-3f2b5e54f00d",
-      "time": "2026-10-13 22:09:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "【Microsoft rallies 50% since June, market value up $1.5tn; near record close】Microsoft (MSFT.O) has rallied more than 50% from its June low, adding roughly $1.5 trillion in market value and is poised to close at a record high for the first time in nearly a year. The fourth consecutive monthly advance has accelerated as investor confidence in Microsoft’s AI competitiveness improved. The stock was among the S&P 500’s worst performers in June, plunging 17% in its worst month since 2000 and erasing about $600 billion of market value. The reversal began after the July 29 earnings release, when cloud revenue growth hit its fastest pace in four years; the shares jumped 16% the next day and Microsoft posted its strongest quarterly performance since 1998. At least two firms have since upgraded the stock to buy, citing confidence in Microsoft’s ability to capture rising AI services demand."
-    },
-    {
-      "id": "5142653",
-      "time": "2026-10-13 22:09:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國將部分墨西哥實體列入黑名單。"
-    },
-    {
-      "id": "5142652",
-      "time": "2026-10-13 22:08:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "LG電子推出全新智慧家居配件，該產品為蘋果家居系列打造，系與蘋果合作設計。"
-    },
-    {
-      "id": "5142651",
-      "time": "2026-10-13 22:08:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國華能與東方電氣集團舉行工作會談】中國華能集團有限公司董事長、黨組書記白勇，總經理、黨組副書記鍾國東在集團公司總部與東方電氣集團黨組書記、董事長羅乾宜，總經理、黨組副書記張彥軍一行舉行工作會談。白勇表示，中國華能將持續強化創新驅動、“雙碳”驅動、數智驅動，與東方電氣集團發揮各自優勢，深化產業合作、聯合創新，共同拓展國內外的市場。羅乾宜表示，東方電氣集團與中國華能合作空間巨大，期待雙方共同謀劃發展，在傳統產業升級、戰新產業發展、科技創新協同等方面深化合作，實現互利共贏。"
-    },
-    {
-      "id": "5142650",
-      "time": "2026-10-13 22:08:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "現代汽車集團：將在汽車金融、電動汽車充電基礎設施以及報廢汽車回收領域探索商機。"
-    },
-    {
-      "id": "mkt:01a13597-8edc-7ee0-a85a-35e21c5b0de5",
-      "time": "2026-10-13 22:08:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump administration asks U.S. ambassador to Greece to resign after alleged improper benefits】The Trump administration has asked U.S. ambassador to Greece Kimberly Guilfoyle to resign after The Wall Street Journal reported she is accused of soliciting or accepting money and other benefits and of offering to use her influence and government contacts to secure favors. White House press secretary Katie Zacharia told reporters at a Tuesday briefing, \"She has been a very good member of the team and we wish her well going forward.\""
-    },
-    {
-      "id": "5142649",
-      "time": "2026-10-13 22:07:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "Safe Structure Designs公司獲得價值逾1000萬美元的合同，為美國海軍陸戰隊供應Safe Mule裝置。"
-    },
-    {
-      "id": "5142648",
-      "time": "2026-10-13 22:07:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿達尼旗下孟買機場發言人稱，冬季航班時刻表不會對任何航空公司的時刻進行調整。"
     }
   ]
 }
