@@ -1,7 +1,59 @@
 {
   "date": "2026-10-20",
-  "count": 466,
+  "count": 471,
   "items": [
+    {
+      "id": "5154725",
+      "time": "2026-10-20 08:52:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於美國東部時間週二晚7點在北卡羅來納州發表講話。"
+    },
+    {
+      "id": "mkt:01a156ca-927e-7ee0-a8f1-3d08b9d93cee",
+      "time": "2026-10-20 08:51:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "President Trump says Mexico and the United States are very close to reaching a great deal."
+    },
+    {
+      "id": "5154724",
+      "time": "2026-10-20 08:50:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：墨西哥和美國非常接近達成一項偉大的協議。"
+    },
+    {
+      "id": "mkt:01a156c9-77ff-7ee0-a8f1-3651321824e7",
+      "time": "2026-10-20 08:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "China will publish the one-year Loan Prime Rate (LPR) as of Oct. 20 in 10 minutes."
+    },
+    {
+      "id": "5154723",
+      "time": "2026-10-20 08:49:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【張雪說想成功就要義無反顧】近日，張雪接受專訪。他說想成功就要有足夠的信念，確定自己做的是正確的事，接受一切結果，就能義無反顧、勇往直前。（新華社）"
+    },
     {
       "id": "5154722",
       "time": "2026-10-20 08:49:09",
