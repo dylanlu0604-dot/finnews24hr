@@ -1,7 +1,19 @@
 {
   "date": "2026-10-21",
-  "count": 538,
+  "count": 539,
   "items": [
+    {
+      "id": "mkt:01a15b67-b44e-7ee0-a912-e1a71080d969",
+      "time": "2026-10-21 06:21:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia deputy governor said the September labour report was slightly weaker than expected; unemployment remains low but the labour market is softening."
+    },
     {
       "id": "5156996",
       "time": "2026-10-21 06:21:15",
