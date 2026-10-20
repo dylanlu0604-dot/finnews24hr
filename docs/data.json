@@ -1,7 +1,93 @@
 {
-  "updated": "2026-10-21 02:46:36",
-  "count": 13485,
+  "updated": "2026-10-21 02:50:22",
+  "count": 13491,
   "items": [
+    {
+      "id": "5156801",
+      "time": "2026-10-21 02:48:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普談面向成年人的特朗普賬戶：正在研究替代方案。"
+    },
+    {
+      "id": "mkt:01a15aa4-e52b-7ee0-a90e-b5eba2df7a03",
+      "time": "2026-10-21 02:48:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says weighing how to win on Iran】President Trump said the US now only needs to make a final decision on Iran, asking whether to “win” by a milder approach or a less-mild one, and added that “progress is going very well.”"
+    },
+    {
+      "id": "te:markets:593541",
+      "time": "2026-10-21 02:48:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Falls on Hopes of US-Iran Diplomacy — Brent fell to $109 a barrel on Tuesday amid hopes of diplomatic progress between the US and Iran. Pakistan’s army chief, Field Marshal Asim Munir, met with senior Iranian diplomatic and military officials in Tehran to discuss bilateral relations and the status of talks with the US. Although officials from both sides have said in recent weeks that messages and proposals are being exchanged through mediators, the extent of their differences on key issues remains unclear. US President Trump said earlier this month that US forces would not attack Iran before the midterm elections. Meanwhile, attacks on tankers and strikes targeting Saudi Arabia have escalated. At least 18 vessels have come under fire over the past two weeks. On Tuesday, Iran’s IRGC said two “non-compliant” oil tankers had been struck in the Strait of Hormuz. Foreign Ministry spokesperson Esmaeil Baqaei warned at a weekly news conference that Iran would respond to US attacks “in equal measure, if not more forcefully\"."
+    },
+    {
+      "id": "5156800",
+      "time": "2026-10-21 02:47:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價為每桶108.79美元，下跌76美分，跌幅0.69%。"
+    },
+    {
+      "id": "mkt:01a15aa3-d150-7ee0-a90e-aef347bb7ca2",
+      "time": "2026-10-21 02:47:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude futures settled at $108.79/bbl, down $0.76 or 0.69%."
+    },
+    {
+      "id": "5156799",
+      "time": "2026-10-21 02:47:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普談法國：我從未在法國見過那樣的情況。那不是小規模騷亂，也不是小規模抗議。那是一場全面革命，而且仍在持續。"
+    },
+    {
+      "id": "5156798",
+      "time": "2026-10-21 02:46:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：歐洲必須改變自身行為，否則歐洲將不復存在。"
+    },
+    {
+      "id": "mkt:01a15aa2-ee64-7ee0-a90e-a47e5f67f2f2",
+      "time": "2026-10-21 02:46:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "President Trump said relations with Iran are progressing very smoothly."
+    },
+    {
+      "id": "5156797",
+      "time": "2026-10-21 02:46:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗針對商船的行動，是二戰以來所未見的。"
+    },
     {
       "id": "5156796",
       "time": "2026-10-21 02:46:00",
@@ -123280,31 +123366,6 @@
         "其他"
       ],
       "text": "沙特民防部門：利雅得市的危險已經解除。"
-    },
-    {
-      "id": "5143032",
-      "time": "2026-10-14 02:49:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨結算價報每桶105.69美元，下跌96美分，跌幅0.9%。"
-    },
-    {
-      "id": "5143031",
-      "time": "2026-10-14 02:49:05",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國召回駐尼加拉瓜臨時代辦】當地時間13日，美國國務院宣佈召回駐尼加拉瓜臨時代辦。此前，尼加拉瓜拒絕同意娜塔莎·弗蘭切斯基出任美國駐尼加拉瓜大使。（央視新聞）"
-    },
-    {
-      "id": "5143030",
-      "time": "2026-10-14 02:47:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美以領導人被曝磋商聯手再襲伊朗】當地時間10月13日，據以色列第12頻道電視臺報道，以色列總理內塔尼亞胡近期與美國總統特朗普多次通話，商討在10月27日以色列議會選舉和11月3日美國中期選舉前，對伊朗發動大規模聯合軍事打擊的可能性。（CCTV國際時訊）"
     }
   ]
 }
