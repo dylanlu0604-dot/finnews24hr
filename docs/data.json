@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-21 05:27:41",
-  "count": 13515,
+  "updated": "2026-10-21 05:31:29",
+  "count": 13513,
   "items": [
+    {
+      "id": "mkt:01a15b39-628b-7ee0-a912-306179f4b63e",
+      "time": "2026-10-21 05:30:49",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) CFO expects Q1 2027 revenue of $33-37 bln."
+    },
+    {
+      "id": "mkt:01a15b38-b777-7ee0-a912-2abc9eaa6b81",
+      "time": "2026-10-21 05:30:05",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact mixed"
+      ],
+      "text": "SpaceX (SPCX.O) CFO said Q4 capital expenditure is expected at $35–40 billion."
+    },
+    {
+      "id": "5156971",
+      "time": "2026-10-21 05:29:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "城堡基金肯·格里芬：城堡證券大部分超額收益來自研究員。投資者在佈局人工智慧時正變得更加審慎。部分企業難以從人工智慧業務中兌現價值。"
+    },
+    {
+      "id": "5156970",
+      "time": "2026-10-21 05:28:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "肯·格里芬在全球市場未來大會上表示：AI模型進步“巨大”。"
+    },
     {
       "id": "mkt:01a15b35-4ba6-7ee0-a912-25e1e7d09d33",
       "time": "2026-10-21 05:26:21",
@@ -123422,57 +123457,6 @@
         "The Fed (FOMC)"
       ],
       "text": "【Cook's lawyer condemns Trump's new probe】The New York Times reports Fed Governor Cook is disputing President Trump's latest effort to remove her and has questioned the objectivity of a White House investigation into alleged mortgage fraud. In a letter to the White House, Cook's lawyer Abe Lowell said she cannot attend a hearing scheduled for Nov. 5 because she will be in Europe for a finance and monetary policy meeting, and that any hearing would be held no earlier than after the Fed's Dec. 8-9 policy meeting. Lowell also challenged the probe's neutrality, noting the committee conducting it is composed of Trump-appointed political officials, including White House National Economic Council director Hassett. Trump has long pushed to increase control over the Fed to lower borrowing costs; when asked last Friday about the probe he called Cook \"dishonest\" and said he would \"absolutely\" fire her if the committee found grounds for removal."
-    },
-    {
-      "id": "5143130",
-      "time": "2026-10-14 05:31:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國試圖施壓俄羅斯加入特朗普提出的能源停火協議。"
-    },
-    {
-      "id": "5143129",
-      "time": "2026-10-14 05:31:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相伯納姆將於週三在唐寧街接待澤連斯基。"
-    },
-    {
-      "id": "5143128",
-      "time": "2026-10-14 05:30:50",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛：庫存偏低疊加中東液化天然氣出口環比下滑，支撐 TTF 天然氣價格維持在 80 多歐元 / 兆瓦時區間。"
-    },
-    {
-      "id": "5143127",
-      "time": "2026-10-14 05:30:10",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：冬季天氣的不確定性進一步擴大了今年冬季 TTF 天然氣價格的波動區間。"
-    },
-    {
-      "id": "5143126",
-      "time": "2026-10-14 05:29:22",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛：在供給偏緊、天氣正常情景下，預計 TTF 天然氣冬季峰值價格需上漲至 105 歐元 / 兆瓦時，才足以促使歐洲以外地區削減足夠的液化天然氣需求。"
-    },
-    {
-      "id": "5143125",
-      "time": "2026-10-14 05:27:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "力拓就鐵礦石業務表示：2027、2028 年部分季度，多項重大在建基建專案將影響港口外運能力。"
     }
   ]
 }

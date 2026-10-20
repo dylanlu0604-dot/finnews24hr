@@ -1,7 +1,42 @@
 {
   "date": "2026-10-21",
-  "count": 488,
+  "count": 492,
   "items": [
+    {
+      "id": "mkt:01a15b39-628b-7ee0-a912-306179f4b63e",
+      "time": "2026-10-21 05:30:49",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) CFO expects Q1 2027 revenue of $33-37 bln."
+    },
+    {
+      "id": "mkt:01a15b38-b777-7ee0-a912-2abc9eaa6b81",
+      "time": "2026-10-21 05:30:05",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact mixed"
+      ],
+      "text": "SpaceX (SPCX.O) CFO said Q4 capital expenditure is expected at $35–40 billion."
+    },
+    {
+      "id": "5156971",
+      "time": "2026-10-21 05:29:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "城堡基金肯·格里芬：城堡證券大部分超額收益來自研究員。投資者在佈局人工智慧時正變得更加審慎。部分企業難以從人工智慧業務中兌現價值。"
+    },
+    {
+      "id": "5156970",
+      "time": "2026-10-21 05:28:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "肯·格里芬在全球市場未來大會上表示：AI模型進步“巨大”。"
+    },
     {
       "id": "mkt:01a15b35-4ba6-7ee0-a912-25e1e7d09d33",
       "time": "2026-10-21 05:26:21",
