@@ -1,7 +1,142 @@
 {
   "date": "2026-10-20",
-  "count": 784,
+  "count": 798,
   "items": [
+    {
+      "id": "5154930",
+      "time": "2026-10-20 10:44:57",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【軟銀信用風險升至近四年最高 AI融資及潛在收購引發擔憂】隨著市場對AI相關融資及潛在大型收購交易的擔憂加劇，以信用違約互換衡量的軟銀集團信用風險已升至近四年來最高水平。資料顯示，軟銀五年期信用違約互換(CDS)週二報432個基點，為2022年11月初以來最高。一週前突破400個基點後，這一指標已擴大逾30個基點。軟銀集團股價近期表現疲弱，較6月高點下跌約50%。"
+    },
+    {
+      "id": "mkt:01a15732-91ce-7ee0-a8f4-e27b1c535493",
+      "time": "2026-10-20 10:44:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【NDRC drafting implementation plan to expand domestic demand】The National Development and Reform Commission is preparing an implementation plan to expand domestic demand and will accelerate its issuance and rollout, the agency said. It will coordinate with other departments to deploy stronger, more concrete measures to boost domestic demand."
+    },
+    {
+      "id": "5154929",
+      "time": "2026-10-20 10:44:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達據悉成功從人工智慧初創公司Modal贏得CPU晶片訂單 Modal此前完全依賴英特爾和AMD】據報道，英偉達成功從快速增長的人工智慧初創公司Modal贏得中央處理器(CPU)晶片訂單。Modal此前完全依賴英特爾和AMD晶片，這初步表明，英偉達進軍長期由這兩家競爭對手主導的市場已取得成效。"
+    },
+    {
+      "id": "5154928",
+      "time": "2026-10-20 10:43:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發改委：正在研究制定擴大內需戰略實施方案】國家發展改革委國民經濟綜合司副司長左剛20日在新聞釋出會上表示，正在研究制定擴大內需戰略實施方案，並將加快推動印發實施。下一步國家發展改革委將會同有關部門以更大力度更實舉措有效擴大內需。"
+    },
+    {
+      "id": "mkt:01a15731-0348-7ee0-a8f4-df6a8219f3cc",
+      "time": "2026-10-20 10:43:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "A-share market opened lower then rallied: ChiNext +1.00%, Shenzhen Composite Index +0.63%, Shanghai Composite +0.09%; more than 3,900 stocks advanced."
+    },
+    {
+      "id": "mkt:01a15730-dd76-7ee0-a8f4-d30fd75cff9c",
+      "time": "2026-10-20 10:43:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China lithium carbonate futures contract 2701 rallied intraday, up 1.73% at 101,100 yuan/ton. Turnover was about 18.638 billion yuan. Open interest rose 15,400 contracts intraday, a marked increase in positions."
+    },
+    {
+      "id": "5154927",
+      "time": "2026-10-20 10:42:57",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金： 定匯率政策延續，跨境投融資便利度有望提升】中金研報稱，人民幣匯率政策將保持連續性，下一階段的增量改革將從拓寬完善跨境渠道，進一步深化為提高人民幣跨境投融資和交易的便利程度。這些增量政策可分三類理解，一類是已有工具擬擴大支援範圍，一類是前期部署進一步明確實施安排，還有一類是沿著既有方向補充新的市場功能。短期看，論壇主要增強了政策的可預期性，尚不足以單獨改變人民幣匯率的方向，我們維持此前對明年人民幣匯率溫和走強、斜率放緩、雙向波動增加的基準判斷。中長期看，如果人民幣資產的交易、融資和風險管理條件持續改善，有望降低境外機構的配置成本，對人民幣國際使用和金融市場韌性是積極因素。"
+    },
+    {
+      "id": "mkt:01a15730-aee2-7ee0-a8f4-c9b13cb3efbe",
+      "time": "2026-10-20 10:42:50",
+      "tags": [
+        "MKT News",
+        "06651.HK",
+        "Impact bullish",
+        "02525.HK",
+        "09880.HK"
+      ],
+      "text": "Hong Kong physical-AI stocks rallied: 06651.HK up nearly 25%, 02525.HK up over 10%, 09880.HK up over 9%, 02432.HK up 5.5%."
+    },
+    {
+      "id": "5154926",
+      "time": "2026-10-20 10:42:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.01%，現報2773.953點；上證指數漲0.06%，現報3733.141點；深證成指漲0.62%，現報11890.777點。"
+    },
+    {
+      "id": "mkt:01a15730-8abc-7ee0-a8f4-c3f10be6d014",
+      "time": "2026-10-20 10:42:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "【China unveils first batch of 136 flagship application-scenario projects】China's National Development and Reform Commission (NDRC) on Oct. 20 launched the first batch of 136 flagship application-scenario projects to steer scenario development and open access. NDRC spokesman Li Chao said the projects have three core tasks: verification — accelerate maturation and commercial deployment of new technologies, products and business models; openness — enable diverse market participants to share development opportunities; and demonstration — provide templates for wider adoption. As an example, verification scenarios for brain‑computer interfaces will span diagnosis, treatment, assistive and consumer applications and will finance construction of a BCI data platform, pilot-scale testing platform and scenario application centers to support firms' product validation and market expansion."
+    },
+    {
+      "id": "5154925",
+      "time": "2026-10-20 10:41:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金融監管總局副局長叢林：堅決摒棄規模情結 增強保險的供給適配能力】金融監管總局副局長叢林10月20日在2026金融街論壇年會保險大會上表示，堅持問題導向，持續提升保險業的適應性和競爭力。她分析，對照經濟社會發展需求和金融強國建設目標，保險業在發展理念、經營模式、供給結構、市場秩序、消費者權益保護等方面還存在短板和弱項，必須堅決摒棄規模情結，從追求速度規模向以質量效益為中心轉變，持續深化改革，增強保險的供給適配能力，推進行業自身的高質量發展。（上證報）"
+    },
+    {
+      "id": "5154924",
+      "time": "2026-10-20 10:41:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報6788.60點。"
+    },
+    {
+      "id": "5154923",
+      "time": "2026-10-20 10:41:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金融監管總局副局長叢林：高度警惕長期低利率環境下壽險利差損風險】金融監管總局副局長叢林10月20日在2026金融街論壇年會保險大會上表示，統籌發展與安全，牢牢守住不發生系統性風險的底線。她提到，要高度警惕長期低利率環境下壽險利差損風險，最佳化負債結構與成本，有序消化高成本的存量保單，提升跨週期經營能力。首先，要健全全鏈條的風險防控體系。她表示，保險機構要夯實自身的內控合規防線，完善制度流程，層層壓實責任，建立起常態化的風險監測預警機制；最佳化監測指標，實現風險的早識別、早預警和早暴露，完善各類風險應急處置預案，做到風險發現在早，處置在小。其次，緊盯重點領域的風險防控。她提到，要高度警惕長期低利率環境下壽險利差損風險，最佳化負債結構與成本，有序消化高成本的存量保單，提升跨週期經營能力；強化資產負債聯動管理，健全利率傳導與負債成本調節機制，築牢穩健經營的基礎；嚴密監測資產端的風險，最佳化資產配置結構，強化流動性風險防控，守護保險賠付生命線；還要密切地跟蹤新業態催生的各類新型風險，加強聲譽風險管理。最後，有序穩妥化解中小金融機構風險。“要按照市場化法治化原則，有序推動經營偏弱、定位模糊、風險突出的保險機構實行分類風險處置、結構最佳化與業務轉型，透過綜合施策來穩妥化解存量風險，有效遏制新增風險。”她說。（上證報）"
+    },
     {
       "id": "5154922",
       "time": "2026-10-20 10:41:15",
@@ -18,6 +153,15 @@
         "焦點"
       ],
       "text": "中證1000指數期貨連續主力合約日內漲1%，現報6688.80點。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202610203901083686",
+      "time": "2026-10-20 10:40:33",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【中國人民銀行行長潘功勝會見橋水投資公司創始人瑞·達利歐】2026年10月19日，中國人民銀行行長潘功勝會見了橋水投資公司創始人瑞·達利歐，雙方圍繞全球經濟金融形勢、中國宏觀經濟政策等議題進行了交流。"
     },
     {
       "id": "mkt:01a1572e-8112-7ee0-a8f4-bba9c8c5ed02",
