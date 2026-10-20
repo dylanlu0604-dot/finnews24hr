@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-20 08:11:53",
-  "count": 12830,
+  "updated": "2026-10-20 08:15:40",
+  "count": 12828,
   "items": [
+    {
+      "id": "mkt:01a156a7-5fa9-7ee0-a8f0-eadb915e41e3",
+      "time": "2026-10-20 08:12:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 20-year bond yield rose 1.5 bps to 3.785%."
+    },
+    {
+      "id": "mkt:01a156a7-2bdf-7ee0-a8f0-e1322cd4e5ad",
+      "time": "2026-10-20 08:12:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China hog futures plunge; spot prices near cash cost, supply may decline after Q2 2027 if losses persist】China hog futures main 2701 contract extended losses yesterday, down 2.48% to near 10,000 yuan/ton, marking a record low since listing and a 64% decline from the peak of 28,400 yuan/ton. Nationwide average hog price fell below 10 yuan/kg. GUOTAI JUNAN SECURITIES said spot hog prices have traded near industry cash cost for six months. Key drivers: accelerated industry consolidation has left large, cash-rich producers delaying capacity cuts versus smallholders; recent improvements in breeding and feed-to-meat efficiency have concentrated a capacity dividend this year; when losses began in Q4 last year many producers kept output expecting a cycle turn, leaving supply pressure into Q4. Medium-term, if the sector remains loss-making into Q3, markets will trim forward spot-supply expectations and, with policy guidance, social and corporate capacity exits could accelerate; if losses persist into Q4 the sector could enter an outsized destocking phase, with supply likely to decline gradually after Q2 2027 and support a subsequent price recovery."
+    },
+    {
+      "id": "5154681",
+      "time": "2026-10-20 08:12:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上升1.5個基點至3.785%。"
+    },
     {
       "id": "5154680",
       "time": "2026-10-20 08:10:54",
@@ -117460,57 +117494,6 @@
         "國際"
       ],
       "text": "三星SDI領跌韓國電池股，三星SDI股價早盤交易下跌6.6%，報52.4萬韓元。"
-    },
-    {
-      "id": "5140282",
-      "time": "2026-10-13 08:15:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加2.28噸】截至2026年10月12日，全球最大的黃金ETF SPDR Gold Trust持倉量為1055.41噸，較前一個交易日增加2.28噸。"
-    },
-    {
-      "id": "te:markets:591269",
-      "time": "2026-10-13 08:15:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Sony Shares Hit 4-week High — Sony shares increased to 3829.00 JPY, the highest since September 2026. Over the past 4 weeks, Sony gained 4.78%, and in the last 12 months, it decreased 14.5%."
-    },
-    {
-      "id": "5140280",
-      "time": "2026-10-13 08:14:32",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗認為，受9月季度“積極”的大宗商品價格環境推動，澳大利亞天然氣公司存在上行空間。"
-    },
-    {
-      "id": "mkt:01a1329b-8283-7ee0-a845-2341b0dbc932",
-      "time": "2026-10-13 08:13:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Japan wholesale inflation remains elevated, sustaining Bank of Japan rate‑hike expectations】Data released Tuesday showed Japan wholesale prices rose 6.8% YoY in September, underscoring persistent inflationary pressure as firms pass higher fuel and chemical costs to consumers and reinforcing near‑term rate‑hike expectations for the Bank of Japan. The corporate goods price index came in below the market's 7.6% forecast (August: 7.6%). Import prices in yen jumped 24.5% YoY in September, signalling yen weakness continues to lift raw‑material import costs. The figures will feed into the Bank of Japan's review of quarterly growth and inflation forecasts at this month's policy meeting."
-    },
-    {
-      "id": "5140279",
-      "time": "2026-10-13 08:12:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國綜合指數跌幅擴大；最新跌4.5%，報6096.44點。"
     }
   ]
 }

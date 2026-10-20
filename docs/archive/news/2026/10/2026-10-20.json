@@ -1,7 +1,41 @@
 {
   "date": "2026-10-20",
-  "count": 414,
+  "count": 417,
   "items": [
+    {
+      "id": "mkt:01a156a7-5fa9-7ee0-a8f0-eadb915e41e3",
+      "time": "2026-10-20 08:12:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 20-year bond yield rose 1.5 bps to 3.785%."
+    },
+    {
+      "id": "mkt:01a156a7-2bdf-7ee0-a8f0-e1322cd4e5ad",
+      "time": "2026-10-20 08:12:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China hog futures plunge; spot prices near cash cost, supply may decline after Q2 2027 if losses persist】China hog futures main 2701 contract extended losses yesterday, down 2.48% to near 10,000 yuan/ton, marking a record low since listing and a 64% decline from the peak of 28,400 yuan/ton. Nationwide average hog price fell below 10 yuan/kg. GUOTAI JUNAN SECURITIES said spot hog prices have traded near industry cash cost for six months. Key drivers: accelerated industry consolidation has left large, cash-rich producers delaying capacity cuts versus smallholders; recent improvements in breeding and feed-to-meat efficiency have concentrated a capacity dividend this year; when losses began in Q4 last year many producers kept output expecting a cycle turn, leaving supply pressure into Q4. Medium-term, if the sector remains loss-making into Q3, markets will trim forward spot-supply expectations and, with policy guidance, social and corporate capacity exits could accelerate; if losses persist into Q4 the sector could enter an outsized destocking phase, with supply likely to decline gradually after Q2 2027 and support a subsequent price recovery."
+    },
+    {
+      "id": "5154681",
+      "time": "2026-10-20 08:12:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上升1.5個基點至3.785%。"
+    },
     {
       "id": "5154680",
       "time": "2026-10-20 08:10:54",
