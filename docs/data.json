@@ -1,7 +1,77 @@
 {
-  "updated": "2026-10-21 02:05:16",
-  "count": 13476,
+  "updated": "2026-10-21 02:09:06",
+  "count": 13470,
   "items": [
+    {
+      "id": "mkt:01a15a80-4ffe-7ee0-a90e-0e6eefc34262",
+      "time": "2026-10-21 02:08:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ferry fire off Indonesia; all 460 aboard evacuated】Banten provincial search-and-rescue agency said on the evening of the 20th that a passenger ferry caught fire that afternoon near the western tip of Java and all 460 people on board were safely evacuated. The cause of the blaze remains unknown."
+    },
+    {
+      "id": "mkt:01a15a7f-30b4-7ee0-a90e-035cb3d151db",
+      "time": "2026-10-21 02:07:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "Bank of England monetary policy committee member Greene said the economy will continue to face substantial supply shocks."
+    },
+    {
+      "id": "mkt:01a15a7f-05b3-7ee0-a90d-fe433dda8df3",
+      "time": "2026-10-21 02:07:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England MPC member Greene said inflation becomes noticeable once it exceeds 3%."
+    },
+    {
+      "id": "5156768",
+      "time": "2026-10-21 02:05:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員格林：供應衝擊仍將頻繁出現。"
+    },
+    {
+      "id": "5156767",
+      "time": "2026-10-21 02:05:32",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員格林：通脹率超過3%時人們才會注意到。"
+    },
+    {
+      "id": "mkt:01a15a7d-4cbf-7ee0-a90d-f706361a9841",
+      "time": "2026-10-21 02:05:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "The Times reports former Bank of England chief economist Haldane warned the UK Labour Party's plans could trigger a Truss-style crisis."
+    },
+    {
+      "id": "mkt:01a15a7c-ed5f-7ee0-a90d-e99dded90998",
+      "time": "2026-10-21 02:04:58",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England MPC member Greene said wage growth must fall further to meet the CPI target."
+    },
     {
       "id": "5156766",
       "time": "2026-10-21 02:04:08",
@@ -123084,128 +123154,6 @@
         "焦點"
       ],
       "text": "【沙特東部城市達曼傳出爆炸聲】據目擊者稱，沙烏地阿拉伯東部城市達曼13日晚傳出爆炸聲。（新華社）"
-    },
-    {
-      "id": "5142998",
-      "time": "2026-10-14 02:09:03",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯發表政策評論後，美國國債收益率小幅走低。"
-    },
-    {
-      "id": "5142997",
-      "time": "2026-10-14 02:08:00",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯發表評論後，標普500指數迅速收窄跌幅。"
-    },
-    {
-      "id": "5142996",
-      "time": "2026-10-14 02:07:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：利率路徑將著眼於維持經濟平衡。"
-    },
-    {
-      "id": "5142995",
-      "time": "2026-10-14 02:07:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：9月加息的理由“始於風險管理”。"
-    },
-    {
-      "id": "5142994",
-      "time": "2026-10-14 02:07:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：堅定支援9月加息。"
-    },
-    {
-      "id": "5142993",
-      "time": "2026-10-14 02:07:21",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：人工智慧是我最密切關注的通脹驅動因素。"
-    },
-    {
-      "id": "5142992",
-      "time": "2026-10-14 02:07:10",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：今年再加息一次是合適的。"
-    },
-    {
-      "id": "5142991",
-      "time": "2026-10-14 02:06:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：沒有跡象顯示勞動力市場正在推高通脹。"
-    },
-    {
-      "id": "5142990",
-      "time": "2026-10-14 02:06:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：除人工智慧和能源領域外，未見普遍的價格壓力。"
-    },
-    {
-      "id": "5142989",
-      "time": "2026-10-14 02:06:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：目前的經濟並未過熱。"
-    },
-    {
-      "id": "5142988",
-      "time": "2026-10-14 02:06:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：仍認為通脹下行力量正在發揮作用。"
-    },
-    {
-      "id": "5142987",
-      "time": "2026-10-14 02:06:06",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲的威廉姆斯認為，目前沒有必要在2027年加息。"
-    },
-    {
-      "id": "5142986",
-      "time": "2026-10-14 02:05:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾金：目前來看，衝擊事件（的影響）顯然仍在持續。"
     }
   ]
 }

@@ -1,7 +1,77 @@
 {
   "date": "2026-10-21",
-  "count": 230,
+  "count": 237,
   "items": [
+    {
+      "id": "mkt:01a15a80-4ffe-7ee0-a90e-0e6eefc34262",
+      "time": "2026-10-21 02:08:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ferry fire off Indonesia; all 460 aboard evacuated】Banten provincial search-and-rescue agency said on the evening of the 20th that a passenger ferry caught fire that afternoon near the western tip of Java and all 460 people on board were safely evacuated. The cause of the blaze remains unknown."
+    },
+    {
+      "id": "mkt:01a15a7f-30b4-7ee0-a90e-035cb3d151db",
+      "time": "2026-10-21 02:07:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "Bank of England monetary policy committee member Greene said the economy will continue to face substantial supply shocks."
+    },
+    {
+      "id": "mkt:01a15a7f-05b3-7ee0-a90d-fe433dda8df3",
+      "time": "2026-10-21 02:07:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England MPC member Greene said inflation becomes noticeable once it exceeds 3%."
+    },
+    {
+      "id": "5156768",
+      "time": "2026-10-21 02:05:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員格林：供應衝擊仍將頻繁出現。"
+    },
+    {
+      "id": "5156767",
+      "time": "2026-10-21 02:05:32",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員格林：通脹率超過3%時人們才會注意到。"
+    },
+    {
+      "id": "mkt:01a15a7d-4cbf-7ee0-a90d-f706361a9841",
+      "time": "2026-10-21 02:05:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "The Times reports former Bank of England chief economist Haldane warned the UK Labour Party's plans could trigger a Truss-style crisis."
+    },
+    {
+      "id": "mkt:01a15a7c-ed5f-7ee0-a90d-e99dded90998",
+      "time": "2026-10-21 02:04:58",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England MPC member Greene said wage growth must fall further to meet the CPI target."
+    },
     {
       "id": "5156766",
       "time": "2026-10-21 02:04:08",
