@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-20 08:34:35",
-  "count": 12822,
+  "updated": "2026-10-20 08:38:22",
+  "count": 12812,
   "items": [
+    {
+      "id": "5154711",
+      "time": "2026-10-20 08:37:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼證券交易所：調整是確保交易有序、公平、高效並支援更好價格發現的努力的一部分。"
+    },
+    {
+      "id": "mkt:01a156be-36f9-7ee0-a8f1-1715f5ed01fa",
+      "time": "2026-10-20 08:37:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters survey: all 34 economists expect the Bank of Korea to keep its policy rate at 3.00% at the Oct. 22 meeting."
+    },
+    {
+      "id": "mkt:01a156be-073e-7ee0-a8f1-0fe663ed281f",
+      "time": "2026-10-20 08:37:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters poll of 33 economists found 28 expect the Bank of Korea to raise its policy rate to 3.25% in November 2026."
+    },
+    {
+      "id": "5154710",
+      "time": "2026-10-20 08:37:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼證券交易所：調整股價在11至14印尼盾區間的股票自動拒單下限，由7%改為1印尼盾。"
+    },
+    {
+      "id": "5154709",
+      "time": "2026-10-20 08:36:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中金：速凍食品行業迎來結構性增長機遇】中金認為速凍食品行業在餐飲消費場景及渠道變革趨勢下，迎來結構性增長機遇，速凍小吃、C端新零售渠道逆勢增長，頭部企業自2025下半年經營改善。"
+    },
+    {
+      "id": "5154708",
+      "time": "2026-10-20 08:35:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中船黃埔文衝與越南海安簽署2艘“鴻鵠”1900TEU集裝箱船建造合同】據中船防務訊息，近日，中船黃埔文衝船舶有限公司聯合中國船舶工業貿易有限公司，與越南海安運輸裝卸聯合公司（HAI AN TRANSPORT & STEVEDORING JSC，簡稱HAIAN）成功簽署2艘“鴻鵠”1900TEU集裝箱船建造合同。"
+    },
     {
       "id": "5154707",
       "time": "2026-10-20 08:32:08",
@@ -117269,166 +117317,6 @@
         "Impact bullish"
       ],
       "text": "Reserve Bank of Australia minutes said overseas monetary policy tightening could indirectly ease Australian financial conditions by prompting AUD depreciation."
-    },
-    {
-      "id": "5140310",
-      "time": "2026-10-13 08:38:02",
-      "tags": [
-        "資料",
-        "央行"
-      ],
-      "text": "澳洲聯儲會議紀要：若有必要可能再次上調現金利率。"
-    },
-    {
-      "id": "mkt:01a132b1-a324-7ee0-a845-c873882d103f",
-      "time": "2026-10-13 08:37:44",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of Australia minutes: house price declines exceeded expectations, indicating financial conditions may be relatively tight."
-    },
-    {
-      "id": "mkt:01a132b1-8ff5-7ee0-a845-c460dd4cc6e0",
-      "time": "2026-10-13 08:37:39",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of Australia minutes: a neutral-rate model indicates policy is modestly restrictive; the neutral rate may have risen."
-    },
-    {
-      "id": "te:markets:591279",
-      "time": "2026-10-13 08:37:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "currency",
-        "Importance 0"
-      ],
-      "text": "New Zealand Dollar Hits 18-month Low — NZDUSD decreased to 0.56, the lowest since April 2025. Over the past 4 weeks, New Zealand Dollar US Dollar lost 3.44%, and in the last 12 months, it decreased 2.42%."
-    },
-    {
-      "id": "5140309",
-      "time": "2026-10-13 08:36:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Lloyd S. Miller博士任Ailux首席醫學官】10月13日，據晶泰科技訊息，晶泰科技創立並控股的生物技術公司Ailux宣佈，任命Lloyd S. Miller博士（M.D.,Ph.D.）為首席醫學官（CMO）。"
-    },
-    {
-      "id": "mkt:01a132b0-ba69-7ee0-a845-ba7c054998d2",
-      "time": "2026-10-13 08:36:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia minutes: Board members said employment data should be treated cautiously given changes to the survey methodology."
-    },
-    {
-      "id": "te:economy:591278",
-      "time": "2026-10-13 08:36:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Business Confidence",
-        "Importance 2"
-      ],
-      "text": "Australia Business Sentiment Slips to 4-Month Low — Australia’s NAB Business Confidence Index fell to -13 in September 2026 from -8 in the previous month, marking its lowest reading since May. Confidence remained negative for a seventh consecutive month amid oil price volatility."
-    },
-    {
-      "id": "5140308",
-      "time": "2026-10-13 08:36:12",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金：齒科修復需求穩步增長 低滲透與結構升級共同開啟長期空間】中金公司研報認為，全球口腔醫療市場持續擴容，種植體系統與CAD/CAM修復材料已成為齒科上游主要細分市場。國內缺牙人群規模較大，但修復率和種植體植入密度仍低於成熟市場；集採及價格治理降低患者支付門檻。研報估計未來行業增長將更多來自存量需求釋放及修復方案向種植、全瓷等高價值量方向升級。高階齒科氧化鋯粉體長期由海外少數廠商主導，2025年以來海外高階粉體供應受限，推動全球客戶切換供應商。國產粉體及瓷塊產品效能持續提升，並逐步向中高階規格延伸。建議關注齒科修復產業鏈：全球口腔醫療需求穩步增長，材料供應鏈重構與數字化技術滲透正推動產業鏈競爭格局變化，中國企業有望在修復材料、數字化裝置及義齒加工等環節持續提升全球份額。"
-    },
-    {
-      "id": "5140307",
-      "time": "2026-10-13 08:36:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "四川百茶百道實業股份有限公司在香港暫停交易。"
-    },
-    {
-      "id": "5140306",
-      "time": "2026-10-13 08:36:03",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲會議紀要：中性利率模型暗示政策略顯緊縮，中性利率可能已有所上升。"
-    },
-    {
-      "id": "mkt:01a132b0-1441-7ee0-a845-b46c72f84634",
-      "time": "2026-10-13 08:36:02",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of Australia minutes said Australia is showing signs of technology-sector price pressures tied to the AI boom."
-    },
-    {
-      "id": "mkt:01a132af-f8bf-7ee0-a845-a96582762e30",
-      "time": "2026-10-13 08:35:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Reserve Bank of Australia minutes: If Australian interest rates are not raised, a rise in global neutral rates could put downward pressure on the Australian dollar."
-    },
-    {
-      "id": "mkt:01a132af-ad4a-7ee0-a845-a612ba8c512d",
-      "time": "2026-10-13 08:35:36",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of Australia minutes said liaison contacts show broad domestic cost pressures and rising unit labour costs. Some indicators suggest financial conditions are only mildly restrictive."
-    },
-    {
-      "id": "5140305",
-      "time": "2026-10-13 08:35:18",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲會議紀要：如果澳洲利率不上升，全球中性利率上升可能給澳元帶來下行壓力。"
-    },
-    {
-      "id": "5140304",
-      "time": "2026-10-13 08:35:07",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲會議紀要：所有委員一致同意需升息25個基點。委員會認為通脹持續高企的風險增加。海外加息可能透過澳元貶值導致國內金融環境放鬆。房價跌幅超過預期，表明金融環境可能相當緊縮。委員們認為，由於調查方法發生變化，就業資料需要非常謹慎地對待。"
-    },
-    {
-      "id": "mkt:01a132af-239c-7ee0-a845-9f8d6e8bd329",
-      "time": "2026-10-13 08:35:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "AUDUSD",
-        "Impact mixed"
-      ],
-      "text": "Reserve Bank of Australia minutes: Middle East conflict has escalated and oil prices are far higher than expected."
     }
   ]
 }

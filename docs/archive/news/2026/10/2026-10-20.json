@@ -1,7 +1,55 @@
 {
   "date": "2026-10-20",
-  "count": 447,
+  "count": 453,
   "items": [
+    {
+      "id": "5154711",
+      "time": "2026-10-20 08:37:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼證券交易所：調整是確保交易有序、公平、高效並支援更好價格發現的努力的一部分。"
+    },
+    {
+      "id": "mkt:01a156be-36f9-7ee0-a8f1-1715f5ed01fa",
+      "time": "2026-10-20 08:37:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters survey: all 34 economists expect the Bank of Korea to keep its policy rate at 3.00% at the Oct. 22 meeting."
+    },
+    {
+      "id": "mkt:01a156be-073e-7ee0-a8f1-0fe663ed281f",
+      "time": "2026-10-20 08:37:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters poll of 33 economists found 28 expect the Bank of Korea to raise its policy rate to 3.25% in November 2026."
+    },
+    {
+      "id": "5154710",
+      "time": "2026-10-20 08:37:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼證券交易所：調整股價在11至14印尼盾區間的股票自動拒單下限，由7%改為1印尼盾。"
+    },
+    {
+      "id": "5154709",
+      "time": "2026-10-20 08:36:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中金：速凍食品行業迎來結構性增長機遇】中金認為速凍食品行業在餐飲消費場景及渠道變革趨勢下，迎來結構性增長機遇，速凍小吃、C端新零售渠道逆勢增長，頭部企業自2025下半年經營改善。"
+    },
+    {
+      "id": "5154708",
+      "time": "2026-10-20 08:35:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中船黃埔文衝與越南海安簽署2艘“鴻鵠”1900TEU集裝箱船建造合同】據中船防務訊息，近日，中船黃埔文衝船舶有限公司聯合中國船舶工業貿易有限公司，與越南海安運輸裝卸聯合公司（HAI AN TRANSPORT & STEVEDORING JSC，簡稱HAIAN）成功簽署2艘“鴻鵠”1900TEU集裝箱船建造合同。"
+    },
     {
       "id": "5154707",
       "time": "2026-10-20 08:32:08",
