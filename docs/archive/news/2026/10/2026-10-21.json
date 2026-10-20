@@ -1,7 +1,43 @@
 {
   "date": "2026-10-21",
-  "count": 243,
+  "count": 247,
   "items": [
+    {
+      "id": "5156774",
+      "time": "2026-10-21 02:15:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：Fraud.gov將受理有關腐敗和盜竊的舉報。"
+    },
+    {
+      "id": "5156773",
+      "time": "2026-10-21 02:15:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員格林：通脹預期錨定，但高於常規水平。"
+    },
+    {
+      "id": "te:markets:593536",
+      "time": "2026-10-21 02:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Falls by 2.94% — Top commodity losers are Natural gas (-2.94%), Gasoline (-2.23%), Natural Gas EU (-2.07%), Crude Oil (-1.07%) and Brent Oil (-1%). Gains are led by Germany Natural Gas THE (1.48%)."
+    },
+    {
+      "id": "mkt:01a15a85-a89e-7ee0-a90e-262bb268170b",
+      "time": "2026-10-21 02:14:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he will establish a whistleblower reward program for reporting fraud."
+    },
     {
       "id": "mkt:01a15a83-b438-7ee0-a90e-1f4afd2dead3",
       "time": "2026-10-21 02:12:23",

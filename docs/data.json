@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-21 02:12:54",
-  "count": 13474,
+  "updated": "2026-10-21 02:16:39",
+  "count": 13471,
   "items": [
+    {
+      "id": "5156774",
+      "time": "2026-10-21 02:15:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：Fraud.gov將受理有關腐敗和盜竊的舉報。"
+    },
+    {
+      "id": "5156773",
+      "time": "2026-10-21 02:15:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員格林：通脹預期錨定，但高於常規水平。"
+    },
+    {
+      "id": "te:markets:593536",
+      "time": "2026-10-21 02:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Falls by 2.94% — Top commodity losers are Natural gas (-2.94%), Gasoline (-2.23%), Natural Gas EU (-2.07%), Crude Oil (-1.07%) and Brent Oil (-1%). Gains are led by Germany Natural Gas THE (1.48%)."
+    },
+    {
+      "id": "mkt:01a15a85-a89e-7ee0-a90e-262bb268170b",
+      "time": "2026-10-21 02:14:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he will establish a whistleblower reward program for reporting fraud."
+    },
     {
       "id": "mkt:01a15a83-b438-7ee0-a90e-1f4afd2dead3",
       "time": "2026-10-21 02:12:23",
@@ -123121,74 +123157,6 @@
         "其他"
       ],
       "text": "KKR私募股權合夥人伍德：不同基金管理人之間的收益分化程度處於歷史最高水平。"
-    },
-    {
-      "id": "5143005",
-      "time": "2026-10-14 02:16:08",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯發表講話後，美國國債收益率短時下挫；10年期美國國債收益率最新下跌2.51個基點，報5.219%。"
-    },
-    {
-      "id": "5143004",
-      "time": "2026-10-14 02:16:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國30年期國債收益率下跌3.42個基點，報5.565%。"
-    },
-    {
-      "id": "te:markets:591603",
-      "time": "2026-10-14 02:15:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Bank Of New York Mellon Shares Hit 17-week Low — Bank Of New York Mellon shares decreased to 140.50 USD, the lowest since June 2026. Over the past 4 weeks, Bank Of New York Mellon lost 10.61%, and in the last 12 months, it increased 31.57%."
-    },
-    {
-      "id": "5143003",
-      "time": "2026-10-14 02:15:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙特主導聯軍稱打擊胡塞武裝軍事補給設施】當地時間10月13日，沙特主導的多國聯軍發表宣告稱，聯軍開展了一次針對性軍事行動，旨在削弱胡塞武裝用於支援其軍事行動的關鍵資源和能力。聯軍發言人圖爾基·馬利基表示，聯軍已掌握證據，顯示胡塞武裝利用民用設施和重要資源支援軍事活動，包括位於葉門首都薩那的中央維修站、地下燃油儲備設施，以及位於荷臺達、薩那和扎馬爾的燃油儲存、運輸和解除安裝設施。（央視新聞）"
-    },
-    {
-      "id": "te:markets:591602",
-      "time": "2026-10-14 02:15:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Slumps by 7.78% — Top commodity losers are Methanol (-7.78%), Gasoline (-0.94%) and Brent Oil (-0.78%). Gains are led by Heating Oil (4.65%), Natural gas (3.56%), Natural Gas EU (2.93%) and Crude Oil (0.56%)."
-    },
-    {
-      "id": "5143002",
-      "time": "2026-10-14 02:14:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特東部省份警報解除。"
-    },
-    {
-      "id": "5143001",
-      "time": "2026-10-14 02:13:10",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美元指數在美聯儲威廉姆斯發表講話後擴大跌幅，最新下跌0.36%，報102.17點。"
     }
   ]
 }
