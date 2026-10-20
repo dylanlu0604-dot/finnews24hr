@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-20 08:42:09",
-  "count": 12811,
+  "updated": "2026-10-20 08:45:58",
+  "count": 12807,
   "items": [
+    {
+      "id": "mkt:01a156c4-2238-7ee0-a8f1-25975d7976d3",
+      "time": "2026-10-20 08:44:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI extended losses to 3% as SK Hynix fell 4.6% and Samsung Electronics dropped 2%."
+    },
+    {
+      "id": "5154717",
+      "time": "2026-10-20 08:44:02",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌3%，至5594.58點。SK海力士跌近5%，三星電子跌超2%。"
+    },
+    {
+      "id": "5154716",
+      "time": "2026-10-20 08:42:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱該讓“其他人”代表烏克蘭與俄羅斯談判 】美國總統特朗普19日稱，應該讓“其他人”代表烏克蘭與俄羅斯進行談判。特朗普當天在離開白宮前往堪薩斯州參加競選集會前對媒體說，烏克蘭總統澤連斯基“本來早就該讓這場戰爭得到解決了，如果當初他聽了我的建議，早就能達成一份好得多的協議”，而且烏克蘭也不會有那麼多人喪生。他說，“坦率地說，我認為現在是時候讓其他人代表烏克蘭進行談判了”“也許對澤連斯基來說，是時候讓其他人去談判了”。（新華社）"
+    },
     {
       "id": "5154715",
       "time": "2026-10-20 08:40:59",
@@ -117238,71 +117268,6 @@
         "Brent"
       ],
       "text": "【Oil dips as Russian diesel outlook offsets Gulf attack risk】Oil prices fell slightly on Tuesday as markets balanced supply risk from an attack on Saudi Arabia against the prospect of added Russian diesel exports. President Trump said Russia had agreed to supply diesel to global markets and that his administration would temporarily lift sanctions on Russian fuel; US bipartisan lawmakers said the deal appears to violate a US law banning imports of Russian energy until the Russia‑Ukraine conflict ends. KCM Trade chief analyst Tim Waterer said increased Russian diesel flows and steady Saudi pipeline deliveries have eased some supply pressure, but markets remain concerned about the risk of further attacks on Gulf vessels or pipelines."
-    },
-    {
-      "id": "5140318",
-      "time": "2026-10-13 08:45:43",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【花旗因董事長貸款引發擔憂下調海底撈目標價】花旗銀行下調了海底撈的目標價。此前，這家連鎖餐飲企業同意向其董事長張勇提供1億元人民幣貸款，用於其個人財務安排。花旗表示，此舉可能會重新引發投資者對控股股東資金需求的擔憂。分析師Xiaopo Wei在一份報告中寫道：“鑑於這筆貸款發生在控股股東於9月8日減持股份後僅約五週，考慮到市場重新開始擔憂其控股股東的資金需求，我們預計短期內投資者對海底撈的情緒將趨於負面。”花旗將海底撈的目標價從19.3港元下調至15.5港元。"
-    },
-    {
-      "id": "5140317",
-      "time": "2026-10-13 08:45:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據印度《經濟時報》報道，印度人工智慧初創公司SARVAM尋求2.5億至3億美元的新融資。SARVAM 正在洽談以 30 億美元的估值融資至多 3 億美元。"
-    },
-    {
-      "id": "mkt:01a132b8-5a66-7ee0-a845-eb6416c891de",
-      "time": "2026-10-13 08:45:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02555.HK"
-      ],
-      "text": "Cha Bai Dao (02555.HK) will suspend trading on the Hong Kong market from 09:00 local time on Oct. 13."
-    },
-    {
-      "id": "5140316",
-      "time": "2026-10-13 08:45:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【諾誠健華美托克拉聯合奧布替尼針對邊緣區淋巴瘤獲批開展註冊III期臨床】諾誠健華10月13日宣佈，公司自主研發的新型BCL2抑制劑美托克拉（Mesutocalx，ICP-248）聯合奧布替尼治療復發/難治性邊緣區淋巴瘤（r/r MZL）已經獲國家藥品監督管理局（NMPA）藥品審評中心（CDE）批准開展註冊III期臨床試驗。這是美托克拉獲批開展的第五項註冊臨床試驗。"
-    },
-    {
-      "id": "5140315",
-      "time": "2026-10-13 08:43:24",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗：將海底撈目標價從19.3港元下調至15.5港元。"
-    },
-    {
-      "id": "te:markets:591282",
-      "time": "2026-10-13 08:42:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Drop on Tech Selloff — The Nikkei 225 Index fell 2% to below 68,000 in post-holiday trading on Tuesday, extending its decline to a fourth consecutive session and following an overnight tech-led selloff on Wall Street. Technology stocks faced heavy selling pressure as concerns over the AI trade intensified, with investors reassessing capital spending prospects amid rising borrowing costs. Broadcom CEO Hock Tan said that the AI boom had attracted investors whose strategies resembled gambling, while billionaire Ray Dalio described AI as a “classic bubble” approaching a potential burst as interest rates rise and investors seek to convert wealth into cash. Significant losses were recorded among technology and AI-related stocks, including Kioxia Holdings (-9.3%), Advantest (-5.3%), SoftBank Group (-7%), Taiyo Yuden (-5.6%) and Tokyo Electron (-4.5%)."
-    },
-    {
-      "id": "5140314",
-      "time": "2026-10-13 08:42:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本經濟產業大臣赤澤亮正：中東局勢對亞洲能源的影響極其嚴重】日本經濟產業大臣赤澤亮正表示，中東地區日益加劇的緊張局勢正對亞洲能源市場造成極其嚴重的影響。赤澤亮正在東京告訴記者，鑑於當前的中東局勢，日本內閣已批准三項法案，以增強國家能源供需結構的韌性。由於沙烏地阿拉伯利雅得機場遭到襲擊，赤澤亮正改為以線上方式參加了週日在利雅得舉行的國際能源論壇部長級會議。赤澤亮正表達了對沙烏地阿拉伯的聲援，並向所有受影響的人士致以誠摯的慰問。他表示，將繼續高度關注局勢發展，包括其對日本原油採購造成的影響。"
     }
   ]
 }
