@@ -1,7 +1,64 @@
 {
-  "updated": "2026-10-20 08:27:04",
-  "count": 12833,
+  "updated": "2026-10-20 08:30:50",
+  "count": 12830,
   "items": [
+    {
+      "id": "5154703",
+      "time": "2026-10-20 08:30:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海證交所上日融資餘額上漲0.1%至12,590.5億元。"
+    },
+    {
+      "id": "5154702",
+      "time": "2026-10-20 08:29:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽：進一步的外部壓力可能會增加印尼政府的資金成本。"
+    },
+    {
+      "id": "5154701",
+      "time": "2026-10-20 08:29:40",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【華泰證券：建議關注煤電聯營業務佔比高的煤炭龍頭】 華泰證券看好煤炭板塊系統性重估，煤價中樞上漲增強紅利屬性。建議重點關注煤電聯營業務佔比高的煤炭龍頭，電價拐點進一步增厚業績。"
+    },
+    {
+      "id": "5154700",
+      "time": "2026-10-20 08:29:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽就印尼主權評級風險發表評論：MSCI 本次諮詢徵詢不會給印尼帶來實質性信用層面影響。"
+    },
+    {
+      "id": "mkt:01a156b5-d3bc-7ee0-a8f0-ffbee485738a",
+      "time": "2026-10-20 08:28:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chile resumes consular services in Venezuela】Chile's foreign ministry said on Oct 19 it will resume consular services at its mission in Venezuela effective immediately. Initially the service will focus on issuing passports and national ID cards to Chilean residents in Venezuela and opening appointments for other consular matters. From Oct 26 two consular offices will progressively resume processing passports, ID cards, travel authorizations, notarizations and civil registry services for births, deaths and marriages."
+    },
+    {
+      "id": "5154699",
+      "time": "2026-10-20 08:28:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國銀河證券：白酒行業整體仍處於去庫階段，關注結構性增長投資機會】中國銀河證券研報表示，白酒行業仍處於規模收縮階段，動銷承壓背景下酒企主動去庫存，預計第四季度仍延續調整趨勢。弱β背景下繼續挖掘α機會，可關注三大方向：1. 超高階價格帶，茅臺因其強大品牌力仍然擁有較好的動銷表現；2. 300元價格帶以下以及光瓶酒，以宴席、輕商務與自飲消費場景為核心，受宏觀經濟週期衝擊較小，目前仍有較好增長潛力；3. 仍處於品牌泛區域擴張階段的公司，可部分對沖產業下行週期衝擊。"
+    },
+    {
+      "id": "5154698",
+      "time": "2026-10-20 08:27:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【智利恢復駐委內瑞拉領事服務】當地時間10月19日，智利外交部宣佈，即日起恢復該國駐委內瑞拉的領事服務。智利外交部稱，領事服務恢復初期，主要為居住在委內瑞拉的智利公民發放護照和身份證件，並開放其他領事業務的預約。從10月26日起，兩個領事機構將逐步恢復辦理護照、身份證、旅行授權、公證委託以及出生、死亡、婚姻等領事登記業務。智利外交部長弗朗西斯科·佩雷斯·麥肯納表示，恢復領事機構運作將為居住在委內瑞拉的2.5萬多名智利公民提供必要的服務和保護。"
+    },
     {
       "id": "5154697",
       "time": "2026-10-20 08:26:28",
@@ -77,6 +134,15 @@
         "市場"
       ],
       "text": "東證指數下跌逾1%，一度跌至4026.78。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202610203900590012",
+      "time": "2026-10-20 08:21:42",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【中信證券：央行透過一系列政策改革釋放了較多的寬鬆訊號 預計有助於金融市場穩定和實體經濟修復】中信證券指出，2026年金融街論壇開幕式釋放較多貨幣政策改革訊號，政策利率將擇機從7天逆回購利率換錨至隔夜逆回購利率，料將引導隔夜利率中樞低位執行，且7天、隔夜利差料將擴大；貸款利率基準多元化推進下，廣譜利率降息有望實現；非銀大額贖回流動性支援工具創設、SLF適用範疇擴容，預計將進一步改善非銀流動性環境。"
     },
     {
       "id": "5154691",
@@ -117435,107 +117501,6 @@
         "國際"
       ],
       "text": "2年期日本國債收益率上漲1.0個基點，至1.915%。5年期日本國債收益率上漲1.5個基點，至2.350%。"
-    },
-    {
-      "id": "5140295",
-      "time": "2026-10-13 08:30:47",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券：製冷劑主力牌號配額壓減 邏輯不改價格堅挺】中信證券研報稱，2026年第二次製冷劑配額調整方案公示，總量小幅收縮；主力三代製冷劑配額壓減，部分配套品種配額上調。2026年上半年，製冷劑出口和內需均走弱，但底層邏輯不改，製冷劑價格依舊堅挺，行業有望維持高景氣。順應行業發展趨勢，在手握三代製冷劑配額的同時具有第四代製冷劑乃至混配製冷劑自主生產能力的企業有望進一步鞏固行業地位。"
-    },
-    {
-      "id": "em:jjsj_ozsj:202610133893320596",
-      "time": "2026-10-13 08:30:28",
-      "tags": [
-        "經濟數據",
-        "澳洲"
-      ],
-      "text": "澳大利亞9月NAB商業信心指數為-13，前值-8。"
-    },
-    {
-      "id": "mkt:01a132aa-a1e9-7ee0-a845-64cb6ed69703",
-      "time": "2026-10-13 08:30:05",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Australia September NAB business confidence index -13, prior -8."
-    },
-    {
-      "id": "mkt:01a132aa-a031-7ee0-a845-585745a9bfe7",
-      "time": "2026-10-13 08:30:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia September NAB business confidence index -1, unchanged from prior -1."
-    },
-    {
-      "id": "mkt:01a132aa-8c2b-7ee0-a845-50cffc14b326",
-      "time": "2026-10-13 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | NAB Business conditions Index (Sep) | actual -1 | previous -1"
-    },
-    {
-      "id": "mkt:01a132aa-8c25-7ee0-a845-4cd4012ef5a2",
-      "time": "2026-10-13 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | NAB Business Confidence Index (Sep) | actual -13 | previous -8"
-    },
-    {
-      "id": "5140294",
-      "time": "2026-10-13 08:28:55",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：考慮當前估值和股息率水平 看好家電龍頭後市表現】中信證券研報稱，2026年第三季度家電行業受需求和原材料價格波動影響，經營有所承壓。分板塊看，中信證券認為2026年第三季度白電龍頭業績或有所承壓；黑電龍頭業績或表現較好；小家電和廚電行業整體業績仍等待修復。考慮當前的估值和股息率水平，看好家電龍頭的後市表現。"
-    },
-    {
-      "id": "5140293",
-      "time": "2026-10-13 08:28:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿提哈德航空表示，阿布扎比與利雅得之間的所有航班已取消，停飛期持續至10月19日。"
-    },
-    {
-      "id": "5140292",
-      "time": "2026-10-13 08:27:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋航空表示，因“區域局勢動盪”，已取消阿布扎比往返沙烏地阿拉伯利雅得、吉達以及達曼的航班。"
-    },
-    {
-      "id": "5140291",
-      "time": "2026-10-13 08:27:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智譜推出了基於 GLM-5.3-Flash 底層架構構建的垂直領域法律模型 GLM-Legal】智譜 AI（Z.ai）正式宣佈推出專為法律行業工作流程打造的垂直領域大模型——GLM-Legal。該模型基於智譜最新的 GLM-5.3-Flash 底層架構構建，旨在透過強大的長文字處理能力與深度法律知識推理，全面賦能合同審查、證據分析、合規審查及跨境業務等法律實務場景。"
-    },
-    {
-      "id": "mkt:01a132a8-9550-7ee0-a845-458a6b7e7906",
-      "time": "2026-10-13 08:27:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【China International Capital Co: Continue to favor large Chinese banks vs. overseas peers】China International Capital Co says since August shares of overseas systemically important banks have fallen about 8% on average while large Chinese banks are up roughly 9%, with Chinese banks' YTD average return near 32%, outpacing foreign peers. The firm warns short-term price moves do not confirm a long-term trend reversal, but differences in fiscal policy, interest-rate and credit cycles and a market repricing of banks' future profitability and balance-sheet risk make large Chinese banks relatively attractive on a risk‑return basis. China International Capital Co continues to favor large Chinese banks versus overseas peers."
     }
   ]
 }
