@@ -1,7 +1,113 @@
 {
-  "updated": "2026-10-20 22:03:31",
-  "count": 13511,
+  "updated": "2026-10-20 22:07:23",
+  "count": 13501,
   "items": [
+    {
+      "id": "te:economy:593489",
+      "time": "2026-10-20 22:06:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Pending Home Sales MoM",
+        "Importance 2"
+      ],
+      "text": "US Pending Home Sales Fall to Record Low — US pending home sales sank by 7.3% from the previous month in September of 2026 to the lowest level on record, contrasting with market expectations of a 0.5% decrease, according to data compiled by the National Association of Realtors. The pessimistic data was aligned with soaring mortgage rates as the high inflation outlook, widening federal deficits, and resilient economy lifted long-term Treasury yields to decade-highs. Pending sales fell in all areas of the US, including the West (-9.2%), South (-8.2%), Midwest (-6.5%), and the Northeast (-4.2%). “Market conditions weakened in September due to fast-rising mortgage rates,” said NAR Chief Economist Dr. Lawrence Yun. “Although job growth and income gains can support home purchases, housing affordability is more affected by changes in mortgage rates.”"
+    },
+    {
+      "id": "5156354",
+      "time": "2026-10-20 22:06:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，黎巴嫩與以色列新一輪會談開始。"
+    },
+    {
+      "id": "mkt:01a159a2-2e96-7ee0-a908-bcbbb25bde2f",
+      "time": "2026-10-20 22:06:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon and Israel begin a new round of talks."
+    },
+    {
+      "id": "5156353",
+      "time": "2026-10-20 22:05:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "據信Spotify將把其AI混音工具作為付費附加服務提供。"
+    },
+    {
+      "id": "5156352",
+      "time": "2026-10-20 22:05:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "Believe與Spotify簽署AI混音授權協議。"
+    },
+    {
+      "id": "5156351",
+      "time": "2026-10-20 22:05:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "迦納9月份生產者價格同比上漲4.8%。"
+    },
+    {
+      "id": "5156350",
+      "time": "2026-10-20 22:05:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "Believe與Spotify達成合作。"
+    },
+    {
+      "id": "5156349",
+      "time": "2026-10-20 22:05:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總統府：總統約瑟夫·奧恩在巴卜達宮會見總理納瓦夫·薩拉姆。"
+    },
+    {
+      "id": "5156348",
+      "time": "2026-10-20 22:04:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數上漲0.18%，道瓊斯指數上漲0.74%。"
+    },
+    {
+      "id": "mkt:01a159a0-d6f8-7ee0-a908-b6642c0da9ad",
+      "time": "2026-10-20 22:04:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Most-active oil futures slid intraday: SC crude fell 2.06% to 712.3 yuan/bbl; low-sulfur fuel oil (LU) dropped 1.51% to 5,953 yuan/ton; fuel oil declined 2.54% to 4,803 yuan/ton."
+    },
+    {
+      "id": "5156347",
+      "time": "2026-10-20 22:04:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱已做好準備確保新一屆議會選舉順利進行】以色列國防軍發表宣告稱，以軍加沙師舉行大規模指揮部演習，透過模擬防禦與進攻場景以檢驗該部隊的臨戰準備和作戰計劃執行能力。以軍總參謀長扎米爾在視察演習時強調，以軍已在所有戰線增援了兵力，並採取主動出擊、消除潛在威脅的作戰方針，確保即將舉行的新一屆議會選舉順利進行。 (央視新聞)"
+    },
+    {
+      "id": "5156346",
+      "time": "2026-10-20 22:04:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "寶馬集團、IONNA與Alpitronic演示460千瓦電動汽車充電技術。"
+    },
     {
       "id": "5156345",
       "time": "2026-10-20 22:03:00",
@@ -123483,204 +123589,6 @@
         "公司"
       ],
       "text": "阿達尼旗下孟買機場發言人稱，冬季航班時刻表不會對任何航空公司的時刻進行調整。"
-    },
-    {
-      "id": "5142647",
-      "time": "2026-10-13 22:07:20",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "高盛股價轉跌，此前一度上漲4.1%。"
-    },
-    {
-      "id": "mkt:01a13596-d31a-7ee0-a85a-2d7901d263e8",
-      "time": "2026-10-13 22:07:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【US existing-home sales rise in September; mortgage-rate surge likely to curb year-end activity】US existing-home sales rose 1.5% in September to a seasonally adjusted annual rate of 3.99 mln, the first monthly increase in four months and slightly above economists' 3.95 mln forecast, the National Association of Realtors said; August figures were revised lower. NAR said August and September remain the weakest months this year, and rising mortgage rates plus elevated home prices have reduced the pool of qualified buyers. Realtor.com estimates recent rate repricing over the past five weeks has trimmed buyer purchasing power by just over 6% — roughly double the typical seasonal discount — a move likely to further suppress housing activity through year-end."
-    },
-    {
-      "id": "5142646",
-      "time": "2026-10-13 22:07:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "現代汽車集團：將透過對區域合作伙伴進行戰略投資，強化本土供應鏈並發展供應商體系。"
-    },
-    {
-      "id": "5142645",
-      "time": "2026-10-13 22:07:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "英力士：Buzzard油田在截至10月11日當週北海Forties原油產量中的佔比為18%。"
-    },
-    {
-      "id": "5142644",
-      "time": "2026-10-13 22:06:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮13日表示，已要求美國駐希臘大使金伯莉·吉爾福伊爾辭職。有媒體報道稱，吉爾福伊爾在擔任大使前及任職期間存在接受奢華禮品、試圖利用其在美政府內部影響力換取金錢等不當行為。（新華社）"
-    },
-    {
-      "id": "5142643",
-      "time": "2026-10-13 22:06:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國行業大咖齊聚河南許昌，學習“胖東來經驗”】10月13日下午，許昌市委黨校報告廳座無虛席。由商務部主辦的全國零售業創新轉型培訓正式開班，接下來三天，商務部流通發展司、研究院，各省商務主管部門、行業協會、專家學者，以及胖東來、信譽樓、華潤永珍城、長春“這有山”、北京稻香村等企業負責人百餘人同堂參訓。本次培訓不坐而論道：學員將聽取胖東來發展經驗、企業文化與採購管理，調研天使城、中央廚房或物流中心；同時安排信譽樓講百貨自營、永珍城講商圈運營、“這有山”講場景營造、稻香村講老字號煥新。政企協研同堂，目的不是複製一家“網紅店”，而是把“顧客為什麼願意來、員工為什麼願意幹、商品為什麼值得信”拆成供應鏈、組織架構和服務標準。（河南釋出）"
-    },
-    {
-      "id": "5142642",
-      "time": "2026-10-13 22:06:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "甲骨文將為EPE客戶提供信貸支援，每年最高5500萬美元，為期三年。"
-    },
-    {
-      "id": "5142641",
-      "time": "2026-10-13 22:06:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "甲骨文位於Dona Ana的專案預計每年將產生5.6億美元的直接產出。"
-    },
-    {
-      "id": "mkt:01a13595-c225-7ee0-a85a-25a91f8ee3e6",
-      "time": "2026-10-13 22:06:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Oracle signed an energy services agreement with El Paso Electric Company."
-    },
-    {
-      "id": "te:economy:591552",
-      "time": "2026-10-13 22:06:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Existing Home Sales",
-        "Importance 2"
-      ],
-      "text": "US Existing Home Sales Remain Weak — Existing home sales in the United States rose by 1.5% from the two-year low in the previous month to a seasonally adjusted annualized rate of 3.99 million units in September of 2026, not too far from market expectations of 3.95 million. Total housing inventory reached 1.6 million units with the increase, 1.9% higher than the previous month to represent 4.8 months of supply under the latest sales rate. Sales recovered slightly in the South (2.8% to 1.86 million) and the West (2.8% to 0.73 million), offsetting a drop in the Northeast (-2.1% to 0.47 million) and a stall in the Midwest (at 0.93 million). “Despite the small monthly gain on a seasonally adjusted basis, August and September marked the two slowest months for home sales this year,” said NAR Chief Economist Lawrence Yun. “Further increases in mortgage rates in recent weeks mean fewer buyers can qualify to purchase a home.”"
-    },
-    {
-      "id": "mkt:01a13595-b1ac-7ee0-a85a-1b8ece77f324",
-      "time": "2026-10-13 22:06:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "【Nearly 1mln UK youth unemployed; business leaders say hiring hinges on size of budget tax rises】Business leaders told the chancellor firms’ ability to hire more young workers will depend on the scale of tax increases in the Oct. 28 budget, according to people familiar with the discussions. The prime minister and the chancellor met business leaders on Tuesday; firms have lobbied to avoid further tax rises after recent budgets raised the tax burden. The chancellor held a breakfast with retail, hospitality and leisure executives, including Amazon UK head John Boumphrey, British Retail Consortium chief Helen Dickinson and UKHospitality CEO Allen Simpson, focusing on youth unemployment and measures to get 16–24-year-olds back into work. Businesses also raised concerns about business rates. Nearly 1.0 mln 16–24-year-olds are unemployed, with youth unemployment at its highest level since 2014."
-    },
-    {
-      "id": "5142640",
-      "time": "2026-10-13 22:06:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特強調了美韓關係的重要性。"
-    },
-    {
-      "id": "mkt:01a13595-a703-7ee0-a85a-15252430ab72",
-      "time": "2026-10-13 22:06:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Treasury said Treasury Secretary Bessent emphasized the importance of U.S.-South Korea relations."
-    },
-    {
-      "id": "mkt:01a13595-83fe-7ee0-a85a-0d62827b9391",
-      "time": "2026-10-13 22:05:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hyundai Motor Group plans to invest $15.5 billion in India by 2032."
-    },
-    {
-      "id": "5142639",
-      "time": "2026-10-13 22:05:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "甲骨文與埃爾帕索電力公司簽署能源服務協議。"
-    },
-    {
-      "id": "5142638",
-      "time": "2026-10-13 22:05:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "甲骨文將在EPE電力協議下每年支付1000萬美元，為期10年。"
-    },
-    {
-      "id": "5142637",
-      "time": "2026-10-13 22:04:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟官方資料顯示，截至10月11日，2025/26年度歐盟軟小麥出口量為800萬噸，與去年同期的800萬噸持平。"
-    },
-    {
-      "id": "5142636",
-      "time": "2026-10-13 22:04:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "META：攜手COINBASE、谷歌、微軟、OPENAI、星鏈、ADOBE等科技公司，共同打擊西非詐騙網路。"
-    },
-    {
-      "id": "5142635",
-      "time": "2026-10-13 22:04:04",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【地區緊張局勢持續 花旗允許沙特員工遠端辦公】隨著葉門胡塞武裝相關對抗持續影響沙特地區，花旗集團允許沙特員工居家辦公。再過幾周，該行執行長按計劃將在利雅得舉行的一場重要會議上發表講話。花旗首席財務官Gonzalo Luchetti週二在媒體電話會上表示，根據應急預案，該行已允許沙特員工遠端辦公，並採取措施確保員工安全和福祉。他補充說，花旗繼續為沙特客戶提供服務，同時落實其業務韌性計劃。作為美沙商業委員會聯席主席，花旗執行長範潔恩在連線兩國金融業方面發揮著關鍵作用。她定於10月下旬舉行的沙特未來投資倡議大會上擔任主要演講嘉賓之一。如果航班取消或政府限制措施擾亂企業高管赴沙特的行程，這場會議可能面臨變數。"
-    },
-    {
-      "id": "mkt:01a13593-b8f1-7ee0-a85a-069fab794c0d",
-      "time": "2026-10-13 22:03:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Treasury said Secretary Bessent held an online meeting with his South Korean counterpart."
-    },
-    {
-      "id": "5142634",
-      "time": "2026-10-13 22:03:45",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長在談到人工智慧融資時表示，隨著融資需求增長，利率將會面臨上行壓力，這將影響收益和部分專案的可行性。"
-    },
-    {
-      "id": "5142633",
-      "time": "2026-10-13 22:03:38",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：貝森特與韓國官員舉行視訊通話。"
     }
   ]
 }

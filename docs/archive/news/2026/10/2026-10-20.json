@@ -1,7 +1,113 @@
 {
   "date": "2026-10-20",
-  "count": 2108,
+  "count": 2120,
   "items": [
+    {
+      "id": "te:economy:593489",
+      "time": "2026-10-20 22:06:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Pending Home Sales MoM",
+        "Importance 2"
+      ],
+      "text": "US Pending Home Sales Fall to Record Low — US pending home sales sank by 7.3% from the previous month in September of 2026 to the lowest level on record, contrasting with market expectations of a 0.5% decrease, according to data compiled by the National Association of Realtors. The pessimistic data was aligned with soaring mortgage rates as the high inflation outlook, widening federal deficits, and resilient economy lifted long-term Treasury yields to decade-highs. Pending sales fell in all areas of the US, including the West (-9.2%), South (-8.2%), Midwest (-6.5%), and the Northeast (-4.2%). “Market conditions weakened in September due to fast-rising mortgage rates,” said NAR Chief Economist Dr. Lawrence Yun. “Although job growth and income gains can support home purchases, housing affordability is more affected by changes in mortgage rates.”"
+    },
+    {
+      "id": "mkt:01a159a2-2e96-7ee0-a908-bcbbb25bde2f",
+      "time": "2026-10-20 22:06:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon and Israel begin a new round of talks."
+    },
+    {
+      "id": "5156354",
+      "time": "2026-10-20 22:06:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，黎巴嫩與以色列新一輪會談開始。"
+    },
+    {
+      "id": "5156353",
+      "time": "2026-10-20 22:05:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "據信Spotify將把其AI混音工具作為付費附加服務提供。"
+    },
+    {
+      "id": "5156352",
+      "time": "2026-10-20 22:05:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "Believe與Spotify簽署AI混音授權協議。"
+    },
+    {
+      "id": "5156351",
+      "time": "2026-10-20 22:05:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "迦納9月份生產者價格同比上漲4.8%。"
+    },
+    {
+      "id": "5156350",
+      "time": "2026-10-20 22:05:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "Believe與Spotify達成合作。"
+    },
+    {
+      "id": "5156349",
+      "time": "2026-10-20 22:05:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總統府：總統約瑟夫·奧恩在巴卜達宮會見總理納瓦夫·薩拉姆。"
+    },
+    {
+      "id": "5156348",
+      "time": "2026-10-20 22:04:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數上漲0.18%，道瓊斯指數上漲0.74%。"
+    },
+    {
+      "id": "mkt:01a159a0-d6f8-7ee0-a908-b6642c0da9ad",
+      "time": "2026-10-20 22:04:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Most-active oil futures slid intraday: SC crude fell 2.06% to 712.3 yuan/bbl; low-sulfur fuel oil (LU) dropped 1.51% to 5,953 yuan/ton; fuel oil declined 2.54% to 4,803 yuan/ton."
+    },
+    {
+      "id": "5156347",
+      "time": "2026-10-20 22:04:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱已做好準備確保新一屆議會選舉順利進行】以色列國防軍發表宣告稱，以軍加沙師舉行大規模指揮部演習，透過模擬防禦與進攻場景以檢驗該部隊的臨戰準備和作戰計劃執行能力。以軍總參謀長扎米爾在視察演習時強調，以軍已在所有戰線增援了兵力，並採取主動出擊、消除潛在威脅的作戰方針，確保即將舉行的新一屆議會選舉順利進行。 (央視新聞)"
+    },
+    {
+      "id": "5156346",
+      "time": "2026-10-20 22:04:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "寶馬集團、IONNA與Alpitronic演示460千瓦電動汽車充電技術。"
+    },
     {
       "id": "5156345",
       "time": "2026-10-20 22:03:00",
