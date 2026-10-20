@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-20 08:04:21",
-  "count": 12838,
+  "updated": "2026-10-20 08:08:06",
+  "count": 12834,
   "items": [
+    {
+      "id": "mkt:01a156a2-86b3-7ee0-a8f0-dcad8a6eabc6",
+      "time": "2026-10-20 08:07:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI fell as much as 2.00% intraday."
+    },
+    {
+      "id": "5154677",
+      "time": "2026-10-20 08:05:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【佳華科技中標晉創谷智慧化專案】近日，佳華科技成功中標晉創谷·太原未來和國際智慧產業園區基礎設施建設專案。專案以建築智慧化為基底，核心打造晉創谷·太原智算中心，構建太原國投自主可控的智算底座。這是佳華科技AI技術與智算綜合能力在智慧園區場景的重要落地實踐。"
+    },
+    {
+      "id": "te:markets:593240",
+      "time": "2026-10-20 08:04:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Edge Higher After Tech Rebound — US stock futures edged higher on Tuesday after the major indexes opened the week with gains, supported by a recovery in technology shares. Futures tied to the Dow Jones, S&P 500 and Nasdaq 100 each advanced at least 0.1%. During Monday’s regular session, the S&P 500 and Nasdaq Composite rose 0.41% and 1.11%, respectively, rebounding from last week’s sharp selloff driven by growing concerns over AI financing. Chipmakers and other mega-cap stocks led the recovery, with Micron gaining 3%, Nvidia rising 1.4%, Sandisk climbing 5.5%, Amazon advancing 5% and Tesla adding 3.8%. Investors are now preparing for a busy corporate earnings schedule on Tuesday, with reports expected from General Electric, Netflix, Raytheon Technologies, United Airlines and General Motors, among others. On the economic front, traders will also monitor housing starts and pending home sales data for further signals on the US housing market."
+    },
     {
       "id": "5154676",
       "time": "2026-10-20 08:02:15",
@@ -117518,64 +117547,6 @@
         "公司"
       ],
       "text": "【阿聯酋航空一飛往迪拜的客機因機械故障返航】阿聯酋航空公司一架原定從澳大利亞阿德萊德飛往迪拜的客機，在飛行途中出現機械故障，隨後被迫返航，並於當地時間13日凌晨降落至阿德萊德機場。涉事航班編號為EK441，由空客A350-900客機執飛，12日晚從阿德萊德起飛，在抵達西澳大利亞州前返航。機場發言人表示，旅客已返回家中或被安排入住酒店，並已改簽至13日晚的航班。"
-    },
-    {
-      "id": "5140272",
-      "time": "2026-10-13 08:06:23",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【受晶片拋售潮影響 韓國綜合股價指數下跌4%】韓國綜合股價指數下跌4%，至6128.40。SK海力士跌近5%領跌韓國晶片股，三星電子跌近4%。"
-    },
-    {
-      "id": "mkt:01a13294-df43-7ee0-a845-1396a58ad302",
-      "time": "2026-10-13 08:06:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI fell 4.00% intraday to 6,128.40 points."
-    },
-    {
-      "id": "5140271",
-      "time": "2026-10-13 08:05:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：潛艇維修中心將設在克利夫蘭。"
-    },
-    {
-      "id": "5140270",
-      "time": "2026-10-13 08:05:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【豫皖兩省簽署生態環境共保聯治備忘錄】據河南日報，10月12日，豫皖兩省生態環境共保聯治備忘錄簽約會議在鄭州舉行。此次簽署的備忘錄涵蓋工作會商和聯合監管、大氣汙染聯防聯控、跨界水體共保聯治、固體廢物跨區域監管、突發環境事件應對協作等5個方面17條具體舉措，標誌著豫皖生態共保聯治由點上探索邁向常態化、制度化協同治理新階段。"
-    },
-    {
-      "id": "5140269",
-      "time": "2026-10-13 08:05:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在俄亥俄州的一次集會上發表講話。"
-    },
-    {
-      "id": "5140268",
-      "time": "2026-10-13 08:04:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：涉及美軍人員的事件絕不應該發生。日本和美國已開始討論採取有效措施，防止再次發生涉及美軍士兵的事件。"
-    },
-    {
-      "id": "mkt:01a13293-5e1e-7ee0-a845-08712eca9b87",
-      "time": "2026-10-13 08:04:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Cyberattack on refrigeration systems spoils goods at hundreds of French supermarkets】French authorities said on the 12th that hundreds of supermarkets nationwide suffered a large-scale cyberattack on the night of the 11th, causing widespread spoilage of fresh and frozen products. Hackers exploited a vulnerability in a refrigeration control system used by many retailers, remotely activating a forced-defrost function and setting temperatures to 50°C, leaving equipment heating for several hours and unable to maintain required cold storage. Industry sources estimate nationwide losses could reach several million euros."
     }
   ]
 }

@@ -1,7 +1,36 @@
 {
   "date": "2026-10-20",
-  "count": 408,
+  "count": 411,
   "items": [
+    {
+      "id": "mkt:01a156a2-86b3-7ee0-a8f0-dcad8a6eabc6",
+      "time": "2026-10-20 08:07:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI fell as much as 2.00% intraday."
+    },
+    {
+      "id": "5154677",
+      "time": "2026-10-20 08:05:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【佳華科技中標晉創谷智慧化專案】近日，佳華科技成功中標晉創谷·太原未來和國際智慧產業園區基礎設施建設專案。專案以建築智慧化為基底，核心打造晉創谷·太原智算中心，構建太原國投自主可控的智算底座。這是佳華科技AI技術與智算綜合能力在智慧園區場景的重要落地實踐。"
+    },
+    {
+      "id": "te:markets:593240",
+      "time": "2026-10-20 08:04:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Edge Higher After Tech Rebound — US stock futures edged higher on Tuesday after the major indexes opened the week with gains, supported by a recovery in technology shares. Futures tied to the Dow Jones, S&P 500 and Nasdaq 100 each advanced at least 0.1%. During Monday’s regular session, the S&P 500 and Nasdaq Composite rose 0.41% and 1.11%, respectively, rebounding from last week’s sharp selloff driven by growing concerns over AI financing. Chipmakers and other mega-cap stocks led the recovery, with Micron gaining 3%, Nvidia rising 1.4%, Sandisk climbing 5.5%, Amazon advancing 5% and Tesla adding 3.8%. Investors are now preparing for a busy corporate earnings schedule on Tuesday, with reports expected from General Electric, Netflix, Raytheon Technologies, United Airlines and General Motors, among others. On the economic front, traders will also monitor housing starts and pending home sales data for further signals on the US housing market."
+    },
     {
       "id": "5154676",
       "time": "2026-10-20 08:02:15",
