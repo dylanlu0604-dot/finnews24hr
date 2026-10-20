@@ -1,7 +1,68 @@
 {
   "date": "2026-10-21",
-  "count": 508,
+  "count": 515,
   "items": [
+    {
+      "id": "mkt:01a15b4e-be2e-7ee0-a912-9c5eed06be6c",
+      "time": "2026-10-21 05:54:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia deputy governor said firms list cost pressures as their primary concern."
+    },
+    {
+      "id": "mkt:01a15b4e-a7fa-7ee0-a912-93e682dd3a03",
+      "time": "2026-10-21 05:54:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RESERVE BANK OF AUSTRALIA deputy governor says inf outlook is more severe than previously forecast and is slightly above expectations."
+    },
+    {
+      "id": "mkt:01a15b4d-fa9e-7ee0-a912-883ac6ec84de",
+      "time": "2026-10-21 05:53:19",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "RBA deputy governor says firms rank cost pressures as their primary concern."
+    },
+    {
+      "id": "5156981",
+      "time": "2026-10-21 05:52:27",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲副主席Hauser：貨幣政策正在起效，但通脹前景趨於惡化。"
+    },
+    {
+      "id": "mkt:01a15b4d-0a14-7ee0-a912-826344e8ca00",
+      "time": "2026-10-21 05:52:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Tasnim: Iran's foreign minister Araghchi said if the Strait of Hormuz is to be opened, the corridor agreed between Iran and Oman would be the sole mutually accepted transit route for vessels, not any other route."
+    },
+    {
+      "id": "5156980",
+      "time": "2026-10-21 05:51:59",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲副主席Hauser：通脹已經在高位持續很長一段時間，我們不能允許通脹預期偏離目標區間。勞動力資料和住房相關指標已經出現一定放緩。"
+    },
+    {
+      "id": "5156979",
+      "time": "2026-10-21 05:50:48",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲副主席Hauser：通脹前景較此前預測惡化，略高於預期。"
+    },
     {
       "id": "5156978",
       "time": "2026-10-21 05:48:48",
