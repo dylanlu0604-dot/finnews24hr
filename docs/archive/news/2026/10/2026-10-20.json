@@ -1,7 +1,789 @@
 {
   "date": "2026-10-20",
-  "count": 2173,
+  "count": 2264,
   "items": [
+    {
+      "id": "5156584",
+      "time": "2026-10-20 23:57:40",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "法國議會推進立法，擬對加密資產兌換穩定幣的交易徵收31.4%的資本利得稅。"
+    },
+    {
+      "id": "5156583",
+      "time": "2026-10-20 23:57:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門武裝部隊稱，過去24小時內發動744次打擊，“清除”約200名胡塞武裝人員，摧毀或損壞90輛軍用車輛及軍事裝備。"
+    },
+    {
+      "id": "5156582",
+      "time": "2026-10-20 23:56:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "家樂福股價跌幅擴大至5.4%。"
+    },
+    {
+      "id": "5156580",
+      "time": "2026-10-20 23:55:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：奧科尼1號反應堆功率從97%降至95%。"
+    },
+    {
+      "id": "te:markets:593514",
+      "time": "2026-10-20 23:55:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Down Slightly — The FTSE 100 closed slightly lower on Tuesday but recovered from session lows as sentiment improved through the afternoon, mirroring a broader reduction in losses across other markets. The rebound coincided with a reversal in oil prices, with Brent crude falling below $108 a barrel after approaching $112 earlier in the session. Gains in healthcare stocks AstraZeneca (+1.5%) and GSK (+0.6%) were outweighed by declines across energy, banking, mining and defence shares. Shell and BP fell, while HSBC and Lloyds Banking Group lost around 1% each. NatWest and Standard Chartered dropped approximately 2%, Rio Tinto and Glencore declined by more than 2%, and Rolls-Royce and BAE Systems slipped 0.7% and 0.5%, respectively. Meanwhile, UK payroll employment rose by 13,000 in September, exceeding expectations for a decline of 8,000. The unemployment rate eased to 4.7% in the three months to August, its lowest since July 2025."
+    },
+    {
+      "id": "5156579",
+      "time": "2026-10-20 23:55:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "家樂福預計2026年營業利潤率將增長0至15個基點，此前預期為超過25個基點。"
+    },
+    {
+      "id": "5156578",
+      "time": "2026-10-20 23:53:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊銀行因達到貸款限額，釋放了現金用於對沖基金。"
+    },
+    {
+      "id": "5156576",
+      "time": "2026-10-20 23:51:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "家樂福執行長：消費者支出趨勢存在高度不確定性。"
+    },
+    {
+      "id": "5156575",
+      "time": "2026-10-20 23:51:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "家樂福執行長：集團在法國面臨前所未有的局面。"
+    },
+    {
+      "id": "5156574",
+      "time": "2026-10-20 23:50:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美銀啟動永續債發行 為數日內第二筆發債交易】美國銀行啟動數日內第二筆投資級債券發行，在上週募資80億美元后，將發行永續債。知情人士稱，這批債券最早可在五年後贖回，初步討論的收益率區間為7.5%至7.625%。美國銀行曾於2025年7月發行25億美元同類票據，當時收益率為6.25%。10月16日，美銀罕見地於週五發行80億美元高評級債券，在信用市場經歷動盪一週、眾多借款人的融資計劃受到干擾後，該行仍選擇入市發債。今年以來，美銀已發行250億美元投資級債券。"
+    },
+    {
+      "id": "5156573",
+      "time": "2026-10-20 23:49:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國將部署軍隊反恐力量應對下一輪示威活動】法國內政部長努內茲20日說，為更好應對預計於24日舉行的示威活動可能引發的暴力事件，法國政府將部署法軍反恐力量“哨兵”行動計程車兵增援警察和憲兵。（新華社）"
+    },
+    {
+      "id": "5156572",
+      "time": "2026-10-20 23:49:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "家樂福：2026年展望淨自由現金流略有下降。"
+    },
+    {
+      "id": "5156571",
+      "time": "2026-10-20 23:48:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "家樂福首席財務官：約有50家門店直接受到騷亂衝擊，更多門店被迫暫時關閉作為保護措施。"
+    },
+    {
+      "id": "5156570",
+      "time": "2026-10-20 23:48:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "家樂福首席財務官：騷亂造成的損失高達數千萬歐元，包括商品損毀、被盜以及門店停業導致的銷售額損失。"
+    },
+    {
+      "id": "5156569",
+      "time": "2026-10-20 23:48:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "家樂福執行長表示，法國騷亂影響了城市地區的“大量”門店，並“使團隊處於特別困難的境地”。"
+    },
+    {
+      "id": "5156568",
+      "time": "2026-10-20 23:48:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "家樂福：客流量下降、宵禁導致營業時間縮短、安保和物流運營成本上升將影響經營狀況。"
+    },
+    {
+      "id": "5156567",
+      "time": "2026-10-20 23:48:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "家樂福：2026年展望投資回報率增長，利潤率增長0至15個基點。"
+    },
+    {
+      "id": "5156566",
+      "time": "2026-10-20 23:48:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "家樂福：法國第三季度同口徑銷售額同比增長1.2%，至119億歐元。"
+    },
+    {
+      "id": "5156565",
+      "time": "2026-10-20 23:47:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "家樂福：第三季度銷售額同比增長2.3%，達到226.9億歐元。"
+    },
+    {
+      "id": "5156564",
+      "time": "2026-10-20 23:46:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "米其林集團前九個月營收達192億歐元。"
+    },
+    {
+      "id": "5156563",
+      "time": "2026-10-20 23:46:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "希臘外交部在宣告中表示，希臘將採取一切適當措施來維護其主權權利。"
+    },
+    {
+      "id": "5156562",
+      "time": "2026-10-20 23:45:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚在德黑蘭會見了巴基斯坦陸軍參謀長阿西姆·穆尼爾元帥。"
+    },
+    {
+      "id": "5156561",
+      "time": "2026-10-20 23:45:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "希臘外交部：希臘反對利比亞議會批准與土耳其的海事協議。"
+    },
+    {
+      "id": "5156560",
+      "time": "2026-10-20 23:45:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "家樂福因法國局勢動盪下調2026年財務目標。"
+    },
+    {
+      "id": "5156559",
+      "time": "2026-10-20 23:43:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：信實集團有機會幫助印度繼續實現能源供應鏈多元化。"
+    },
+    {
+      "id": "5156558",
+      "time": "2026-10-20 23:43:12",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：經霍爾木茲海峽的石油運輸量已接近戰前水平。"
+    },
+    {
+      "id": "5156557",
+      "time": "2026-10-20 23:42:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "法國軍工企業泰雷茲執行長：可在雷達、聲吶領域向日本提供防務技術支援。"
+    },
+    {
+      "id": "5156556",
+      "time": "2026-10-20 23:41:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "法國軍工企業泰雷茲執行長：日本市場存在大量機會，泰雷茲希望在防務領域和日本開展合作。"
+    },
+    {
+      "id": "5156555",
+      "time": "2026-10-20 23:40:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【羅馬尼亞議會透過總理尼古列斯庫的組閣方案】羅馬尼亞參眾兩院聯席會議20日投票透過了總理盧卡·尼古列斯庫的組閣方案。據羅通社報道，組閣方案獲透過後，尼古列斯庫對議會的信任表示感謝，“今晚我們將組織首次政府會議。各項優先事項已明確，羅馬尼亞不能再等了”。（新華社）"
+    },
+    {
+      "id": "te:markets:593510",
+      "time": "2026-10-20 23:40:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Arabica Coffee Futures at Near 2-Month High — Arabica coffee futures traded above $3.10 per pound, holding near their highest since late August, amid concerns over tight inventories and weather-related risks in top producer Brazil. Despite a strong 2026 harvest and ample coffee stocks in Brazil’s producing regions, quality concerns persist, while inventories on international exchanges remain critically low. Certified arabica coffee stocks stood at approximately 240,000 bags in the latest report, their lowest level in nearly 27 years. Operators remained concerned that Brazilian shipments may not reach ICE-certified warehouses before the December contract expires. A firmer Brazilian real has provided additional support by reducing producers’ incentives to sell. Meanwhile, weather conditions across key regions continued to be closely monitored, with a strengthening El Niño towards late 2026 and early 2027 posing risks to rainfall patterns and crop development."
+    },
+    {
+      "id": "5156553",
+      "time": "2026-10-20 23:35:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱，俄羅斯襲擊了烏克蘭的貨船和物流樞紐。"
+    },
+    {
+      "id": "5156552",
+      "time": "2026-10-20 23:35:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長表示，美國還在推動關閉的國內煉油廠重新開工。"
+    },
+    {
+      "id": "5156551",
+      "time": "2026-10-20 23:34:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國小企業提起新訴訟，試圖阻止特朗普對加拿大徵收關稅。"
+    },
+    {
+      "id": "5156550",
+      "time": "2026-10-20 23:33:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧就與印度的貿易協議表示：目前只剩下一些需要解決的技術細節。"
+    },
+    {
+      "id": "5156549",
+      "time": "2026-10-20 23:33:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧就與印度的貿易協議表示：預計在幾周內而非幾個月內看到結果。"
+    },
+    {
+      "id": "te:markets:593509",
+      "time": "2026-10-20 23:33:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "European Natural Gas Prices Fall from Peak Levels — European natural gas prices fell more than 3% to €85 per megawatt-hour, retreating from their highest level since December 2022 amid hopes for a diplomatic resolution to the war in Iran. Sentiment improved following an unconfirmed report that Qatar and Pakistan had proposed reviving negotiations to end the conflict. However, supply concerns persist as restricted liquefied natural gas (LNG) shipments from the Gulf complicate Europe’s efforts to replenish storage before winter. European gas inventories reached 74.47% of capacity on October 19, rising steadily in recent weeks but remaining below typical levels for this time of year. Meanwhile, security threats and escalating tensions across the Middle East continue to disrupt energy flows, with regional LNG exports running around 80% below last year’s levels. As colder weather approaches, Europe and Asia, the world’s two largest LNG-importing regions, are likely to compete more intensely for available cargoes."
+    },
+    {
+      "id": "5156548",
+      "time": "2026-10-20 23:32:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴黎警方：週二晚間將繼續實施宵禁，且在週末騷亂過後，只要有必要就會持續實施。"
+    },
+    {
+      "id": "5156547",
+      "time": "2026-10-20 23:32:24",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.975%，投標倍數2.74。"
+    },
+    {
+      "id": "5156546",
+      "time": "2026-10-20 23:32:07",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤漲跌不一】歐洲STOXX 600指數下跌0.1%，歐洲斯托克指數下跌 0.29%，歐元區藍籌股下跌 0.34%。法國CAC40指數下跌0.32%，西班牙IBEX指數上漲0.34%，英國富時100指數下跌0.31%，德國DAX指數下跌0.05%。"
+    },
+    {
+      "id": "5156545",
+      "time": "2026-10-20 23:31:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【保加利亞總理：美國P-8巡邏機已開始在黑海執行任務】當地時間10月20日，保加利亞總理拉德夫表示，一架美國波音P-8“波塞冬”反潛巡邏機已開始在黑海上空執行巡邏任務，旨在進行偵察並探測可能構成風險的活動。拉德夫稱，在他與北約秘書長呂特進行會談並提出援助請求後，一些盟友作出了回應。（央視新聞）"
+    },
+    {
+      "id": "5156544",
+      "time": "2026-10-20 23:30:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：上世紀50年代，內華達州的鎢產量在美國各州中排名第一；如今，這片地區內的老礦區又重新排布鑽機開展勘探。"
+    },
+    {
+      "id": "te:markets:593508",
+      "time": "2026-10-20 23:30:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Falls by 17 bps — Government bonds yields are lower on Tuesday. Top losers are Brazil 10Y (-16.50bps), Spain 10Y (-7.10bps), Canada 10Y (-6.90bps), Germany 10Y (-6bps), US 10Y (-2.80bps) and Japan 10Y (-1.16bps)."
+    },
+    {
+      "id": "5156543",
+      "time": "2026-10-20 23:28:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱擊中了一艘駛往敖德薩的集裝箱船。"
+    },
+    {
+      "id": "5156542",
+      "time": "2026-10-20 23:27:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基在挪威會見美國特使威特科夫。"
+    },
+    {
+      "id": "5156541",
+      "time": "2026-10-20 23:27:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特表示，如果俄羅斯柴油進入美國，很可能會流向新英格蘭地區。"
+    },
+    {
+      "id": "5156540",
+      "time": "2026-10-20 23:24:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長表示，如果歐洲同意協調釋放柴油儲備，柴油價格可能會顯著緩解。"
+    },
+    {
+      "id": "5156539",
+      "time": "2026-10-20 23:24:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國內首個太空算力商城—太空算力交易平臺測試版上線】10月20日，國內首個太空算力商城——由北京太空算力創新中心推出的“太空算力交易平臺”測試版上線。平臺面向太空算力產業鏈的資源供給方與應用需求方，匯聚太空算力、太空資料集、AI模型、及Token服務等資源，探索線上展示與供需對接路徑，促進產業資源流通，為上下游協同提供新的連線渠道。試運營啟動階段，首批入駐企業包括微納星空、天儀研究院、中科衛星、中科西光航天、星火傳明、星鏈元啟、明體科技、中山大學等企業和高校。"
+    },
+    {
+      "id": "5156538",
+      "time": "2026-10-20 23:23:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北約大使會商黑海安全域性勢，強化東翼軍事部署】北約發言人表示，今天北約大使在北大西洋理事會舉行會議，討論黑海安全域性勢。北約已加強東翼態勢，包括部署反無人機能力。北約將向該地區增派資產，包括為監視、偵察和取證提供支援。我們將繼續保持團結，確保做好準備並能夠應對任何威脅，保障我們10億人民的安全。"
+    },
+    {
+      "id": "5156537",
+      "time": "2026-10-20 23:22:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國法官駁回特朗普政府阻止全國有色人種協進會就資料中心問題起訴馬斯克旗下xAI公司的請求。"
+    },
+    {
+      "id": "5156536",
+      "time": "2026-10-20 23:22:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約：這些用於黑海地區的額外資產將包括對監視、偵察和取證的支援。"
+    },
+    {
+      "id": "5156535",
+      "time": "2026-10-20 23:22:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特表示，美國正與印度合作提高煉油產量，以將更多產品推向全球市場。"
+    },
+    {
+      "id": "5156534",
+      "time": "2026-10-20 23:21:57",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "北約將向黑海地區增派軍事力量。"
+    },
+    {
+      "id": "5156533",
+      "time": "2026-10-20 23:21:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約：北約大使在北大西洋理事會舉行會議，討論黑海安全問題。"
+    },
+    {
+      "id": "5156532",
+      "time": "2026-10-20 23:21:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在接受堪薩斯當地電視臺採訪時，被問到如何保住龐巴迪在威奇托的工作崗位，他表示：“我們會好好照顧他們。”"
+    },
+    {
+      "id": "5156531",
+      "time": "2026-10-20 23:21:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長表示，在煉油和《國防生產法》資金方面“還有更多工作要做”。"
+    },
+    {
+      "id": "5156530",
+      "time": "2026-10-20 23:20:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：烏克蘭正在為和平而努力，感謝合作伙伴的支援。"
+    },
+    {
+      "id": "5156529",
+      "time": "2026-10-20 23:20:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約大使召開會議，就黑海安全域性勢展開討論。"
+    },
+    {
+      "id": "5156528",
+      "time": "2026-10-20 23:19:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭運營的全球乳製品交易價格指數上漲2.5%，平均售價為4,021美元/噸。"
+    },
+    {
+      "id": "5156527",
+      "time": "2026-10-20 23:19:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "肯亞衛生部確認新增一例埃博拉病例，累計病例升至9例。"
+    },
+    {
+      "id": "5156526",
+      "time": "2026-10-20 23:17:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "託卡耶夫將於10月28日向哈薩克發表年度國情諮文。"
+    },
+    {
+      "id": "5156525",
+      "time": "2026-10-20 23:15:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "克羅格首席財務官預計，透過新開110家門店將帶來70億美元的額外銷售額。"
+    },
+    {
+      "id": "5156524",
+      "time": "2026-10-20 23:15:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數漲幅迅速收窄至0.3%。"
+    },
+    {
+      "id": "5156523",
+      "time": "2026-10-20 23:15:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞同德國復興信貸銀行簽署一筆2億歐元的貸款。"
+    },
+    {
+      "id": "5156522",
+      "time": "2026-10-20 23:14:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭能源公司DTEK：在遭遇襲擊之後，基輔發生停電。"
+    },
+    {
+      "id": "5156521",
+      "time": "2026-10-20 23:14:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭DTEK公司表示，基輔四個區部分割槽域停電。"
+    },
+    {
+      "id": "5156520",
+      "time": "2026-10-20 23:13:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部將投資9.67億美元用於電網升級。"
+    },
+    {
+      "id": "5156519",
+      "time": "2026-10-20 23:13:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "知情人士：伊朗與美國的談判繼續，有關即將達成協議的報道有誤。"
+    },
+    {
+      "id": "te:markets:593506",
+      "time": "2026-10-20 23:13:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Near 3-Week Low — The dollar index weakened to 101.5 on Tuesday, its lowest level in about three weeks, amid renewed concerns over AI, falling oil prices on hopes for a diplomatic resolution to the war in Iran, and weaker-than-expected housing data. Housing starts fell 5.2% in September, while pending home sales dropped to a record low, highlighting the continued impact of elevated mortgage rates on housing demand. Meanwhile, the Fed is widely expected to leave interest rates unchanged at its meeting next week, although markets anticipate a 25bps rate hike in December. Elsewhere, the euro rebounded as unrest in France eased overnight, while the yen appreciated, snapping a two-day losing streak after an auction of longer-dated Japanese government bonds attracted record demand."
+    },
+    {
+      "id": "5156518",
+      "time": "2026-10-20 23:12:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我們也將與黎巴嫩實現和平，但我們必須完成對伊朗政權的清除。"
+    },
+    {
+      "id": "5156517",
+      "time": "2026-10-20 23:12:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統辛鮑姆：美國貿易代表辦公室和美國商務部對墨西哥貿易協議持“積極”態度。"
+    },
+    {
+      "id": "te:markets:593505",
+      "time": "2026-10-20 23:12:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Falls from 5-Month High — Brent crude fell 1% to nearly $108 a barrel on Tuesday after an unconfirmed report suggested that Qatar and Pakistan presented a new proposal to revive negotiations aimed at ending the Iran war. The news pushed prices down from five-month highs, as fighting intensified across the Middle East and Iran increased attacks on tankers in the Strait of Hormuz. Shipping risks remain a key concern, with maritime tracker Kpler reporting that at least 18 vessels had come under fire over the previous two weeks. Iran’s Revolutionary Guard Corps said on Tuesday that two oil tankers had caught fire after striking mines laid by its naval unit, according to the Tasnim news agency. Separately, Iranian Foreign Ministry spokesperson Esmaeil Baqaei warned that Tehran would respond forcefully to any US attack. US President Donald Trump said earlier this month that American forces would not strike Iran before the November 3 midterm elections."
+    },
+    {
+      "id": "5156516",
+      "time": "2026-10-20 23:11:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以方證實以總理會見美防長 就中東局勢展開密談】當地時間20日自以色列方面獲悉，以色列總理發言人證實，以總理內塔尼亞胡此前一天在以色列會見了到訪的美國國防部長赫格塞思。據悉，赫格塞思與內塔尼亞胡在以色列南部一家空軍基地舉行了未公開的秘密會晤，雙方就應對伊朗等中東安全域性勢展開密談。據知情人士訊息，此次秘密會議在駐紮有美軍戰鬥機和加油機的以色列奧夫達空軍基地舉行。就上述訊息，以色列總理辦公室、美國國防部和以色列駐美大使館均未予置評。（央視新聞）"
+    },
+    {
+      "id": "te:markets:593504",
+      "time": "2026-10-20 23:11:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Pulls Back — Crude oil fell 1% to below $97 a barrel on Tuesday after an unconfirmed report suggested that Qatar and Pakistan presented a new proposal to revive negotiations aimed at ending the Iran war. The news pushed prices down from four-week highs, as fighting intensified across the Middle East and Iran increased attacks on tankers in the Strait of Hormuz. Shipping risks remain a key concern, with maritime tracker Kpler reporting that at least 18 vessels had come under fire over the previous two weeks. Iran’s Revolutionary Guard Corps said on Tuesday that two oil tankers had caught fire after striking mines laid by its naval unit, according to the Tasnim news agency. Separately, Iranian Foreign Ministry spokesperson Esmaeil Baqaei warned that Tehran would respond forcefully to any US attack. US President Donald Trump said earlier this month that American forces would not strike Iran before the November 3 midterm elections."
+    },
+    {
+      "id": "5156515",
+      "time": "2026-10-20 23:10:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "一名官員表示，蘇丹無人機襲擊阿卜耶伊市場，造成150多人死亡。"
+    },
+    {
+      "id": "5156514",
+      "time": "2026-10-20 23:10:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta表示已遵守巴西法院要求平等對待候選人的命令。"
+    },
+    {
+      "id": "5156513",
+      "time": "2026-10-20 23:08:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟釋出新版北極戰略 聚焦安全、經濟和氣候變化】歐盟20日釋出新版北極戰略，提出加強北極地區安全與韌性、應對氣候變化、促進經濟繁榮以及為當地居民創造發展機會四大優先事項。（新華社）"
+    },
+    {
+      "id": "5156512",
+      "time": "2026-10-20 23:07:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隴電入川工程獲核准批覆】記者20日從國網甘肅省電力公司獲悉，甘肅巴丹吉林沙漠基地送電四川特高壓直流工程正式獲國家發展和改革委員會核准批覆，標誌著該工程前期工作取得突破性進展，甘肅再添清潔能源外送“大動脈”。（新華社）"
+    },
+    {
+      "id": "5156511",
+      "time": "2026-10-20 23:07:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "克羅格表示，將投資50億美元為消費者創造價值。"
+    },
+    {
+      "id": "5156510",
+      "time": "2026-10-20 23:07:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普曾一度近乎批准對伊朗實施打擊】訊息人士透露，特朗普政府近期至少有一次幾乎批准對伊朗發動軍事打擊。特朗普承諾在11月3日之前不會發起新的打擊，但伊朗官員表示，他們預計美方轟炸行動最終還會重啟。"
+    },
+    {
+      "id": "5156509",
+      "time": "2026-10-20 23:05:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【朝中社：韓美、日美聯合軍演給東北亞帶來新戰爭烏雲】朝中社20日刊登評論文章，譴責韓國同美國、日本同美國正在進行的聯合軍演，強調軍演給包括朝鮮半島在內的東北亞地區帶來新的戰爭烏雲。（新華社）"
+    },
+    {
+      "id": "5156508",
+      "time": "2026-10-20 23:04:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴黎警方總部表示，巴黎部分城區自週二晚11點至週三早6點實施新的宵禁。"
+    },
+    {
+      "id": "5156507",
+      "time": "2026-10-20 23:03:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國司法部表示，民權部門與平等就業機會委員會已與 Instacart 達成 500 萬美元的聯合和解協議，原因是該公司歧視美國工人。"
+    },
+    {
+      "id": "5156506",
+      "time": "2026-10-20 23:03:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署（USPS）：截至10月9日，97.98%的選票郵件按時送達。"
+    },
+    {
+      "id": "5156504",
+      "time": "2026-10-20 23:03:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌將於2027年把境外金融類廣告核驗機制推廣至美國、加拿大。"
+    },
+    {
+      "id": "5156503",
+      "time": "2026-10-20 23:02:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧在印度表示：21世紀的走向，無論好壞，都將由這一地區所發生的事來決定。"
+    },
+    {
+      "id": "5156502",
+      "time": "2026-10-20 23:01:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部將於10月22日發行1100億美元4週期國庫券，10月27日結算。"
+    },
+    {
+      "id": "5156500",
+      "time": "2026-10-20 23:01:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署（USPS）：不會在2026年大選中執行聯邦選舉郵寄選票相關規定。"
+    },
+    {
+      "id": "te:markets:593501",
+      "time": "2026-10-20 23:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: British Pound Rises by 0.62% — Top currency gainers are British Pound (0.62%), South Korean Won (0.53%), Brazilian Real (0.46%), Japanese Yen (0.32%) and Euro (0.27%). Biggest loser is Dollar Index (-0.33%)."
+    },
+    {
+      "id": "te:markets:593500",
+      "time": "2026-10-20 22:55:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound from Session Lows — US stocks swung higher as a pullback amid rebounds in traditional economic sectors. The S&P 500 and the Nasdaq rose 0.5% while the Dow jumped 1.2%. The yields on long-term Treasury securities declined amid a drop in key energy prices, consolidating bets that the Fed will forgo back-to-back rate hikes in its decision next week. Traditional economic sectors consolidated following yesterday's losses, with banks and asset managers rebounding sharply. A gauge tracking healthcare companies also jumped to a record high, with Eli Lilly, Merck, and J&J adding more than 4% each. Uneasiness over the AI stocks remained after South Korean Elice plunged 32% following its IPO in Seoul, the latest in a series of signals that markets have grown fatigued by the soaring levels of financing that chipmakers and data center operators are asking for. SpaceX was below the flatline ahead of its earnings after the closing bell, which may have been brought forward to enable another capital raise."
+    },
+    {
+      "id": "te:markets:593498",
+      "time": "2026-10-20 22:43:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US Treasury Yields Fall on Tuesday — The yield on the US 10-year Treasury note fell nearly 5 basis points to 5.09% on Tuesday, hovering near one-month lows, as oil prices declined on hopes for a diplomatic resolution to the war in Iran, while weaker housing data added to the downward pressure. Housing starts fell 5.2% in September, while pending home sales dropped to a record low, highlighting the continued impact of elevated mortgage rates on housing demand. Investors also weighed persistent inflationary pressures ahead of the Fed’s interest rate decision next week. The Fed is widely expected to leave rates unchanged, while markets anticipate a 25bps hike in December. Meanwhile, the 2-year Treasury yield, which is particularly sensitive to near-term monetary policy expectations, edged down to 4.76%. The 30-year Treasury yield, which is more sensitive to longer-term inflation expectations and geopolitical risks, also declined to 5.42%."
+    },
+    {
+      "id": "te:markets:593495",
+      "time": "2026-10-20 22:33:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Sugar Futures Remain Above 20 Cents — US sugar futures stayed above 20 cents per pound, close to their highest level since February 2025, amid persistent concerns over tightening supplies and support from elevated oil prices. In top producer Brazil, excessive rainfall linked to El Niño disrupted sugarcane harvesting and crushing operations in the key Center-South region, delaying the harvest and leaving volumes below initial forecasts. Meanwhile, India, the world’s second-largest sugar producer, faces a smaller crop than a year earlier after a powerful El Niño contributed to the weakest monsoon in more than a decade. Insufficient rainfall in key sugarcane-growing regions, particularly Maharashtra and Karnataka, has raised concerns over lower yields. Against this backdrop, the government ordered state-owned fuel retailers to stop procuring ethanol produced from sugar and key sugarcane-based feedstocks from November 1, potentially redirecting more sugarcane supplies towards sugar production."
+    },
     {
       "id": "5156391",
       "time": "2026-10-20 22:22:31",
