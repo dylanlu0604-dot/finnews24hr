@@ -1,7 +1,111 @@
 {
   "date": "2026-10-20",
-  "count": 2018,
+  "count": 2030,
   "items": [
+    {
+      "id": "5156291",
+      "time": "2026-10-20 21:38:43",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：儘管樓市低迷，美國國內生產總值依舊保持強勁】美國 9 月新屋開工數大跌 5.2% 至 122.1 萬套，不及市場預期。獨棟住宅開工下滑 4.6%，多戶住宅開工下跌 6.7%，建築許可環比小幅回落 0.2%。 雖然地產資料疲弱，高盛仍維持美國第三季度 GDP 年化增速 3.3% 的預測不變。"
+    },
+    {
+      "id": "5156290",
+      "time": "2026-10-20 21:38:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【高油價催發抗議 馬克龍赴中東“搞油”】法國多地爆發抗議示威之際，法國總統馬克龍前往中東開展石油外交，以求穩定能源供應、平抑國內油價。法國總統府20日說，阿聯酋和巴林已同意每月向法國額外提供20萬噸柴油。值得一提的是，馬克龍此訪由法國兩大能源巨頭道達爾能源公司和昂吉集團高管陪同。法國總統府20日說，馬克龍從阿聯酋獲得每月10萬噸柴油的額外供應承諾，巴林也將每月再多向法國出口10萬噸柴油，科威特“也作出明確承諾”，將向法國在非洲的海外領地馬約特和留尼汪提供柴油和煤油。法國總統府說，上述燃油將繞過霍爾木茲海峽，透過阿曼中轉，再運到法國及其海外領地。（新華社）"
+    },
+    {
+      "id": "5156289",
+      "time": "2026-10-20 21:37:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【LG電子CEO：冷卻技術為AI資料中心競爭力的核心】LG電子CEO柳在哲將冷卻技術列為AI資料中心競爭力的核心。其邏輯是：減少用於冷卻的電力，就能把相應更多的電力投入AI運算。 柳在哲於20日在領英上表示：“冷卻不僅能減少自身能源消耗，還能透過為人工智慧（AI）運算提供更多電力，帶來有意義的改變。”此前，他於當地時間19日發表了署名文章，提出AI資料中心冷卻戰略。 柳在哲將資料中心面臨的制約歸納為電力、水和空間。他判斷，在資源有限的條件下，能用既有資源產出多少算力，已成為核心問題。 柳在哲將“適應力”列為AI基礎設施的必備競爭力。因為AI硬體的演進速度快於支援它的設施，每當新晶片問世，冷卻裝置也必須隨之改變。"
+    },
+    {
+      "id": "mkt:01a15987-cd0f-7ee0-a907-f0ebaf15a1d5",
+      "time": "2026-10-20 21:37:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index rises as Capesize rates strengthen】Baltic Dry Index rose 47 points (1.85%) to 2,593 on Tuesday, buoyed by stronger Capesize freight rates. The Capesize index (BCI) jumped 157 points (4.67%) to 3,522; Capesize average daily earnings rose $1,427 to $28,442. The Panamax index (BPI) fell 39 points (1.71%) to 2,247, with Panamax daily earnings down $350 to $20,223. The Supramax index (BSI) was unchanged at 1,868."
+    },
+    {
+      "id": "5156288",
+      "time": "2026-10-20 21:37:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西弗拉維奧·博索納羅表示，如果當選總統，他將恢復針對活動行業的稅收減免計劃。"
+    },
+    {
+      "id": "te:markets:593485",
+      "time": "2026-10-20 21:36:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Chip Stocks Resume Declines — US stock indices were mostly lower on Tuesday amid fresh worries about data center financing ahead of key earnings results. The S&P 500 edged lower and the Nasdaq 100 fell almost 1%. South Korean AI-infrastructure provider Elice plunged 32% following its IPO in Seoul, the latest in a series of signals that markets have grown fatigued by the soaring levels of financing that chipmakers and data center operators are asking for. CoreWeave sank 5%following the plunge in its bonds last week. Micron, Marvell, and Arm were nearly 3% lower. Meanwhile, SpaceX dropped 1% ahead of its recently announced earnings results due after the closing bell, which may have been brought forward to enable another capital raise. On the other hand, traditional economic sectors consolidated following losses yesterday, lifting the Dow to a 0.3% gain. Walmart, ExxonMobil, and Eli Lilly rose over 1%."
+    },
+    {
+      "id": "5156287",
+      "time": "2026-10-20 21:36:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長瓦爾加：將在12月的通脹報告中對政府財政計劃進行評估。"
+    },
+    {
+      "id": "5156286",
+      "time": "2026-10-20 21:36:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "孩之寶股價上漲高達9.6%，創下2019年10月以來的最高水平。"
+    },
+    {
+      "id": "mkt:01a15987-44a3-7ee0-a907-ec8f5c59581d",
+      "time": "2026-10-20 21:36:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's Interior Minister Nunes said the government will deploy some military forces to reinforce police ahead of Saturday's demonstrations."
+    },
+    {
+      "id": "5156285",
+      "time": "2026-10-20 21:36:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國內政部長努內茲表示，法國將部署部分軍事力量，以在週六的示威活動中加強警力。"
+    },
+    {
+      "id": "5156284",
+      "time": "2026-10-20 21:35:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "龐巴迪<BBDb.TO>股價上漲2.1%，至9月30日以來最高水平。"
+    },
+    {
+      "id": "5156283",
+      "time": "2026-10-20 21:35:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "3M執行長：擴大光束光學產品的銷售明年可能會翻番。"
+    },
     {
       "id": "te:markets:593484",
       "time": "2026-10-20 21:34:49",
