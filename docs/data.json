@@ -1,7 +1,254 @@
 {
-  "updated": "2026-10-20 15:57:31",
-  "count": 12967,
+  "updated": "2026-10-20 16:01:20",
+  "count": 12974,
   "items": [
+    {
+      "id": "mkt:01a15853-e5d2-7ee0-a8fd-2286f57b8a45",
+      "time": "2026-10-20 16:00:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Euro area August seasonally adjusted current account balance EUR 8.709 bln, prior EUR 27.628 bln."
+    },
+    {
+      "id": "mkt:01a15853-e29b-7ee0-a8fd-1d80ce0c0e0a",
+      "time": "2026-10-20 16:00:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "London Metal Exchange inventories: tin down 25 tonnes, lead down 3,925 tonnes, aluminium down 150 tonnes, nickel up 756 tonnes, copper up 1,625 tonnes, zinc up 3,275 tonnes."
+    },
+    {
+      "id": "mkt:01a15853-b9a7-7ee0-a8fd-10840c3874ec",
+      "time": "2026-10-20 16:00:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Current Account SA (Aug) | actual 8709000000B | previous 27627999999.999996B"
+    },
+    {
+      "id": "mkt:01a15853-aa56-7ee0-a8fd-0aacead07cd6",
+      "time": "2026-10-20 16:00:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME nickel inventory change (Oct.20) | actual 756 | previous 120"
+    },
+    {
+      "id": "mkt:01a15853-9e14-7ee0-a8fd-04bdf2b82fb8",
+      "time": "2026-10-20 16:00:37",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME zinc inventory change (Oct.20) | actual 3275 | previous 4775"
+    },
+    {
+      "id": "5155455",
+      "time": "2026-10-20 16:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所鎳庫存增加756噸，至280866噸。"
+    },
+    {
+      "id": "mkt:01a15853-9094-7ee0-a8fc-fa73e58ee6ec",
+      "time": "2026-10-20 16:00:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME aluminum inventory change (Oct.20) | actual -150 | previous -1500"
+    },
+    {
+      "id": "mkt:01a15853-75a8-7ee0-a8fc-f7008912de92",
+      "time": "2026-10-20 16:00:26",
+      "tags": [
+        "MKT News",
+        "Commodities"
+      ],
+      "text": "Malaysia independent inspection firm AmSpec said Malaysia's palm oil exports from Oct 1-20 rose 78% MoM."
+    },
+    {
+      "id": "mkt:01a15853-729d-7ee0-a8fc-e800875212d2",
+      "time": "2026-10-20 16:00:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME tin inventory change (Oct.20) | actual -25 | previous -50"
+    },
+    {
+      "id": "5155454",
+      "time": "2026-10-20 16:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數收盤上漲0.1%，報1691.97點。"
+    },
+    {
+      "id": "mkt:01a15853-61bc-7ee0-a8fc-e37bc8dd9758",
+      "time": "2026-10-20 16:00:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME copper inventory change (Oct.20) | actual 1625 | previous 6750"
+    },
+    {
+      "id": "5155453",
+      "time": "2026-10-20 16:00:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元區8月季調後經常帳 87.09億歐元，前值 276億歐元。"
+    },
+    {
+      "id": "mkt:01a15853-53df-7ee0-a8fc-de897c06f3df",
+      "time": "2026-10-20 16:00:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME lead inventory change (Oct.20) | actual -3925 | previous -1150"
+    },
+    {
+      "id": "te:markets:593398",
+      "time": "2026-10-20 16:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Falls by 1.75% — Top commodity loser is Natural gas (-1.75%). Gains are led by Heating Oil (1.33%), Brent Oil (0.97%) and Crude Oil (0.95%)."
+    },
+    {
+      "id": "mkt:01a15853-40d0-7ee0-a8fc-d7d69097b3a5",
+      "time": "2026-10-20 16:00:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan export orders YoY 62.4% in September; expected 58.7%; prior 71.4%."
+    },
+    {
+      "id": "mkt:01a15853-23c3-7ee0-a8fc-c988b38fd802",
+      "time": "2026-10-20 16:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME aluminum alloy inventory change (Oct.20) | actual 0 | previous 0"
+    },
+    {
+      "id": "mkt:01a15853-1889-7ee0-a8fc-c67d4b3b2bc9",
+      "time": "2026-10-20 16:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Annual Export Orders (Sep) | actual 62.4% | consensus 58.7% | previous 71.40%"
+    },
+    {
+      "id": "5155452",
+      "time": "2026-10-20 16:00:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《新時代新徵程上海國際航空樞紐戰略規劃》提出：力爭到2035年建成南通新機場】2026北外灘國際航運論壇10月20日開幕。論壇期間，《新時代新徵程上海國際航空樞紐戰略規劃》作為政府引領性成果釋出。《新時代新徵程上海國際航空樞紐戰略規劃》明確了分階段發展目標，其中提到，力爭到2035年進入世界一流航空樞紐前列，建成南通新機場，形成“兩地三場”一體化運營和高效互聯的綜合交通體系；建成具有全球影響力的世界級臨空產業叢集。"
+    },
+    {
+      "id": "5155451",
+      "time": "2026-10-20 15:58:28",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【工信部：堅決防範不合理創新設計和未經充分研發測試驗證的汽車產品進入市場】國務院新聞辦公室今日（10月20日）舉行新聞釋出會。安全是汽車企業的生命線與核心競爭力，任何研發活動都要以安全為第一前提，絕不能以犧牲安全為代價。下一步，工信部將積極研究吸納各方面意見，會同相關部門加快編制印發《通知》，加快制修訂相關標準，強化產品生產一致性監督檢查、檢驗檢測機構檢查，透過事前准入、事中事後監督檢查全鏈條監管，堅決防範不合理創新設計和未經充分研發測試驗證的產品進入市場，堅決守牢汽車產品安全底線，切實維護消費者合法權益，推動汽車產業高質量發展。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a15851-a774-7ee0-a8fc-b98f13d171c4",
+      "time": "2026-10-20 15:58:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran Foreign Ministry spokesman Baghaei said excessive U.S. demands are hindering progress in the talks."
+    },
+    {
+      "id": "mkt:01a15851-a420-7ee0-a8fc-b4012786a3a7",
+      "time": "2026-10-20 15:58:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Italy's FTSE MIB fell as much as 1.00% intraday."
+    },
+    {
+      "id": "5155450",
+      "time": "2026-10-20 15:58:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美銀證券：理想汽車-W(02015)晶片業務引入外部資本 有助拓展非汽車業務】美銀證券釋出研報稱，維持理想汽車-W(02015)“中性”評級及H股目標價58.9港元。該行指出，理想汽車日前宣佈旗下專注晶片及域控制器業務的附屬公司MHX Technology將進行16.25億元人民幣股權融資，引入Hangzhou Jingtao、Lanchi Ventures、Huaye Tiancheng及MiraclePlus等外部投資者。理想汽車將透過全資附屬公司投資10億元人民幣，維持控股股東地位，並繼續將MHX Technology納入合併報表。美銀證券認為，MHX Technology為理想汽車的晶片及域控制器業務提供獨特平臺，有助拓展非汽車領域的機遇，預計可透過外部商業化擴大業務規模。該行未來將持續關注其研發及商業化進展、非汽車應用拓展，以及規模能否轉化為可持續經濟效益。"
+    },
+    {
+      "id": "mkt:01a15851-7bde-7ee0-a8fc-a9b013d322bb",
+      "time": "2026-10-20 15:58:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "MIIT said it will resolutely prevent unreasonable design innovations and automotive products that have not undergone sufficient R&D, testing and validation from entering the market."
+    },
+    {
+      "id": "5155449",
+      "time": "2026-10-20 15:57:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【工信部：持續完善光伏新型儲能等產能監測預警機制】10月20日，國務院新聞辦公室舉行新聞釋出會介紹2026年前三季度工業和資訊化發展情況。工業和資訊化部新聞發言人、執行監測協調局局長陶青表示，工信部將全面落實全國先進製造業大會部署安排，著力做好四方面工作，全力實現年度預期目標，不斷提升工業經濟執行質效。一是著力擴大有效需求，完成新一輪十大重點行業穩增長工作方案年度目標，擴大優質商品和服務供給，加快推進新一代通訊網、算力網建設，部署一批標誌性工程專案，支援出口企業加強品牌建設，提高產品附加值。二是著力打造創新引擎，統籌推進傳統產業升級，新興產業壯大，未來產業培育，促進先進製造業擴容提質，實施新一輪製造業重點產業鏈高質量發展行動計劃，深入開展國家高新區新賽道培育行動，新認定一批專精特新“小巨人”企業和省級創新型產業叢集；三是著力培育增長動能，縱深推進人工智慧+製造行動，新建設一批領航級卓越級智慧工廠，新培育一批國家綠色工廠、綠色工業園區、綠色供應鏈，實施第二批萬兆光網試點，加快算力超市建設，夯實數字技術底座和網路基礎設施體系。四是著力最佳化發展環境，深化重點領域無序非理性競爭綜合整治，持續完善光伏新型儲能等產能監測預警機制，印發實施重點行業標準體系建設指南，以標準提升促進產業升級，加快加力清理拖欠企業賬款。"
+    },
+    {
+      "id": "5155448",
+      "time": "2026-10-20 15:57:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗重申美國的“過分要求”阻礙談判進展。"
+    },
+    {
+      "id": "5155447",
+      "time": "2026-10-20 15:57:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西典新能：2026年第三季度淨利潤7051.93萬元，同比下降1.83%】西典新能公告，2026年第三季度營業收入7.23億元，同比增長3.11%；淨利潤7051.93萬元，同比下降1.83%；扣非淨利潤6991.83萬元，同比下降1.41%。2026年前三季度營業收入19.14億元，同比下降8.59%；淨利潤1.54億元，同比下降26.82%；扣非淨利潤1.51億元，同比下降27.65%。"
+    },
+    {
+      "id": "5155446",
+      "time": "2026-10-20 15:56:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【澤連斯基：烏克蘭與義大利共享武器實測資料，設立合資軍工企業】澤連斯基發文稱：我和焦爾吉婭・梅洛尼關係很好，我對她懷有極大敬意。我們已經在分享實戰經驗。義大利和歐洲製造的武器哪些好用、哪些不好用，以及我們完成了哪些技術改進，都會向他們反饋。我們把這些資訊全部分享給義大利製造商。 我們已經在義大利和烏克蘭設立聯合生產基地，也就是烏意合資企業。我們和萊昂納多公司合作融洽。"
+    },
     {
       "id": "5155445",
       "time": "2026-10-20 15:56:09",
@@ -118682,177 +118929,6 @@
         "其他"
       ],
       "text": "巴基斯坦9月份汽車銷量為10,939輛。"
-    },
-    {
-      "id": "5141580",
-      "time": "2026-10-13 16:01:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大灣區（廣州-香港）首條零碳集裝箱航線正式投入運營】10月13日，華南最大內河集裝箱智慧電動船“穗港電航02”輪，滿載廣東生產的傢俱、日用品等貨物，從廣州港南沙三期碼頭解纜啟航前往香港國際貨櫃碼頭，標誌著大灣區（廣州-香港）首條零碳集裝箱航線正式投入運營。"
-    },
-    {
-      "id": "mkt:01a13447-710e-7ee0-a851-099007b91c51",
-      "time": "2026-10-13 16:00:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish",
-        "Zinc",
-        "Impact bearish",
-        "Tin"
-      ],
-      "text": "LME inventories: copper down 1,625 tonnes, aluminium unchanged, lead down 3,725 tonnes, nickel up 276 tonnes, zinc up 5,550 tonnes, tin down 70 tonnes."
-    },
-    {
-      "id": "mkt:01a13447-5e66-7ee0-a851-0049b5df6a3c",
-      "time": "2026-10-13 16:00:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CHINA meets Togo Council of Ministers chairman Fulei】On the afternoon of Oct. 13, CHINA met Togo Council of Ministers chairman Fulei at the Great Hall of the People in Beijing during his official visit to China."
-    },
-    {
-      "id": "5141579",
-      "time": "2026-10-13 16:00:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其中央銀行透過傳統方式開設規模為5噸的一週期黃金兌換里拉賣方掉薩拍賣。"
-    },
-    {
-      "id": "5141578",
-      "time": "2026-10-13 16:00:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股生物科技板塊盤前普漲】禮來漲1.12%，強生漲1.09%，Moderna漲0.80%，諾和諾德漲0.44%，艾伯維漲0.83%，默沙東漲1.60%。"
-    },
-    {
-      "id": "5141577",
-      "time": "2026-10-13 16:00:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股光通訊股盤前普跌】Lumentum跌1.85%，康寧跌1.64%，Coherent跌1.78%，應用光電跌1.55%，Ciena跌2.04%，博通跌1.38%，邁威爾科技跌3.14%。"
-    },
-    {
-      "id": "5141576",
-      "time": "2026-10-13 16:00:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存板塊盤前普跌】美光跌3.39%，閃迪跌3.56%，SK海力士跌5.37%，西部資料跌4.12%，希捷科技跌3.41%。"
-    },
-    {
-      "id": "5141575",
-      "time": "2026-10-13 16:00:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股盤前：“七姐妹”普跌】英偉達跌0.88%，蘋果漲0.48%，微軟漲0.27%，谷歌跌0.13%，亞馬遜跌0.27%，Meta跌0.94%，特斯拉跌0.87%。"
-    },
-    {
-      "id": "5141573",
-      "time": "2026-10-13 16:00:29",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "市場監管總局公佈7起涉導向違法廣告典型案例。（央視新聞）"
-    },
-    {
-      "id": "5141572",
-      "time": "2026-10-13 16:00:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【習近平會見多哥部長會議主席福雷】10月13日下午，國家主席習近平在北京人民大會堂會見來華進行正式訪問的多哥部長會議主席福雷。（央視新聞）"
-    },
-    {
-      "id": "te:markets:591443",
-      "time": "2026-10-13 16:00:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Rises by 2.49% — Top commodity gainers are Natural Gas UK (2.49%) and Natural Gas EU (2.34%). Biggest losers are Crude Oil (-1.82%), Gasoline (-1.55%) and Brent Oil (-1.50%)."
-    },
-    {
-      "id": "5141571",
-      "time": "2026-10-13 16:00:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦金屬交易所取消的錫合約數量減少85噸至905噸。"
-    },
-    {
-      "id": "5141570",
-      "time": "2026-10-13 15:59:44",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【天風證券：五大雲廠商2026年至今發債2288億美元 而2018-2024年各年均未超過500億美元】天風證券研報顯示，截至2026年10月8日，全球AI產業鏈企業累計發債約10.06萬億美元，存量約3.21萬億美元。美國發行人佔比由2024年的48%升至2026年至今的70%；相比2024年全年，2026年至今發行增量的91%來自美國。雲廠商與新興AI基建主體成為主力。五大雲廠商2026年至今發債2288億美元，佔全市場29%（2025年為17%），而2018-2024年各年均未超過500億美元。"
-    },
-    {
-      "id": "5141569",
-      "time": "2026-10-13 15:58:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "Stellantis執行長：四級自動駕駛技術可透過應用於我們的大型商用車業務板塊實現規模化落地。"
-    },
-    {
-      "id": "mkt:01a13445-6e17-7ee0-a850-fb6bf2d203f9",
-      "time": "2026-10-13 15:58:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Blackstone president Jon Gray said liquidity in the Indian market may be second only to the US, indicating India's economic growth has clearly accelerated versus 20 years ago."
-    },
-    {
-      "id": "5141568",
-      "time": "2026-10-13 15:58:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天陽科技：控股股東歐陽建平解除質押1469萬股】天陽科技公告稱，公司控股股東、實際控制人歐陽建平於2026年10月12日解除質押股份1469萬股，佔其所持股份比例19.95%，佔公司總股本比例3.01%，質權人為雲南國際信託有限公司。截至公告披露日，歐陽建平及其一致行動人皓宏智業合計持股1.13億股，佔公司總股本23.23%；累計質押4274萬股，佔合計持股比例37.70%，佔公司總股本8.76%，質押風險可控，不會導致公司實際控制權變更。"
-    },
-    {
-      "id": "5141567",
-      "time": "2026-10-13 15:58:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【羅牛山：控股股東解除質押5000萬股股份】羅牛山公告稱，公司控股股東羅牛山集團所持5000萬股公司股份完成解除質押登記，該部分股份佔其所持股份比例25.33%，佔公司總股本比例4.34%，質權人為三亞農商行，解除日期為2026年10月9日。截至2026年10月12日，羅牛山集團及其一致行動人合計持股2.47億股，佔公司總股本21.42%，累計質押股份3571.63萬股，佔其所持股份比例14.48%，佔公司總股本比例3.10%。羅牛山集團質押股份不存在平倉風險，不會導致公司實際控制權變更。"
-    },
-    {
-      "id": "5141566",
-      "time": "2026-10-13 15:58:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【威孚高科：選舉黃睿為公司第十一屆董事會董事長】威孚高科公告稱，公司召開第十一屆董事會第二十一次會議，審議透過選舉黃睿擔任公司第十一屆董事會董事長，任期自本次董事會審議透過之日起至第十一屆董事會屆滿之日止。根據公司章程規定，董事長為公司法定代表人，公司法定代表人將變更為黃睿，後續將按程式辦理工商變更登記手續。天風證券作為“25威孚K1”債券受託管理人，就上述事項提醒投資者關注相關風險。"
-    },
-    {
-      "id": "5141565",
-      "time": "2026-10-13 15:57:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貨機衝出跑道墜海致兩人身亡，香港公佈調查進展】據香港特區政府網新聞公報，民航意外調查機構就2025年10月20日一宗涉及ACT航空公司（代表阿聯酋航空貨運公司經營）一架波音747-481 BDSF型貨機（登記標誌TC-ACF）在香港國際機場偏離跑道，導致一輛停放在跑道範圍外的地面機場保安車輛內兩名機場保安人員死亡的意外，發表調查臨時宣告。調查小組已完成主要調查工作，包括回收殘骸，以及收集來自航空公司、氣象服務、航空交通管制、機場等的相關資料和紀錄。相關飛機部件（包括機上記錄系統）已送往製造國進行檢驗。民航意外調查機構亦安排調查人員前往海外，在當地監督重要檢驗工作。調查的其中一個重點是第4發動機推力杆向前移動，以致飛機在著陸滑行過程中向左偏轉並偏離跑道。截至目前的相關飛機部件技術檢驗中，並未發現與意外相關的機件故障。"
-    },
-    {
-      "id": "5141564",
-      "time": "2026-10-13 15:57:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "高市早苗：若農林水產省存在違法行為，將果斷採取行動。"
     }
   ]
 }
