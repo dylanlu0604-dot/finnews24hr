@@ -1,7 +1,94 @@
 {
-  "updated": "2026-10-20 10:45:42",
-  "count": 13034,
+  "updated": "2026-10-20 10:49:28",
+  "count": 13043,
   "items": [
+    {
+      "id": "mkt:01a15736-45ba-7ee0-a8f4-faf60149ce83",
+      "time": "2026-10-20 10:48:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's stock index extended gains to 3%."
+    },
+    {
+      "id": "mkt:01a15736-172e-7ee0-a8f4-f2092fad163b",
+      "time": "2026-10-20 10:48:44",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "Shenzhen Composite Index extended gains to 1%; ChiNext rose 1.6% and the Shanghai Composite was up 0.23%. AI glasses and Apple-related stocks led sector gains."
+    },
+    {
+      "id": "mkt:01a15735-7512-7ee0-a8f4-eee604c5882b",
+      "time": "2026-10-20 10:48:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA reportedly wins CPU order from AI startup Modal】NVIDIA (NVDA.O) has reportedly won CPU chip orders from fast‑growing AI startup Modal, which had previously used only Intel and AMD chips; the move initially suggests NVIDIA is making inroads into a CPU market long dominated by those incumbents."
+    },
+    {
+      "id": "5154935",
+      "time": "2026-10-20 10:47:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.00%，現報11935.964點；上證指數漲0.23%，現報3739.530點；創業板指漲1.55%，現報2788.951點。"
+    },
+    {
+      "id": "5154934",
+      "time": "2026-10-20 10:46:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥概念表現活躍 昭衍新藥逼近漲停】創新藥概念表現活躍，昭衍新藥逼近漲停，三力製藥、石藥創新、和元生物、誠達藥業、三生國健跟漲。"
+    },
+    {
+      "id": "5154933",
+      "time": "2026-10-20 10:46:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念拉昇，迪安診斷20%漲停】CRO概念拉昇，迪安診斷20%漲停，蘭衛醫學、昭衍新藥、美好醫療等衝高。"
+    },
+    {
+      "id": "5154932",
+      "time": "2026-10-20 10:46:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【摺疊屏概念震盪拉昇 精研科技漲超11%】摺疊屏概念震盪拉昇，精研科技漲超11%，此前科森科技漲停，藍思科技、榮旗科技、聯得裝備、統聯精密、宜安科技、福蓉科技、亞世光電跟漲。"
+    },
+    {
+      "id": "te:markets:593275",
+      "time": "2026-10-20 10:46:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Slips as Investors Assess Fed Rate Outlook — The US dollar index edged lower to below 102 on Tuesday as investors evaluated the Federal Reserve’s monetary policy outlook ahead of its October 27–28 meeting. Market participants are also awaiting the latest PCE price index report, the Fed’s preferred measure of inflation. Markets currently assign an 83% probability to the central bank holding interest rates steady next week, while pricing in a 94% chance of a rate hike in December. On Friday, Fed Chair Kevin Warsh declined to indicate the likely outcome of this month’s FOMC meeting but noted that stronger-than-expected inflation had not changed his assessment of the US economy. Elsewhere, the euro recovered modestly as European governments sought to contain widespread unrest that turned violent over the weekend. In Japan, the yen weakened despite hawkish remarks from Bank of Japan Governor Kazuo Ueda, who indicated that underlying inflation was nearing the central bank’s 2% target."
+    },
+    {
+      "id": "5154931",
+      "time": "2026-10-20 10:45:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【四川確定60所試點學校 普高和職高學籍可互轉】10月20日，據四川省教育廳訊息，四川天府新區綜合高階中學等60所學校被確定為四川省綜合高中試點學校，試點週期為3年。試點學校的主要任務是探索普職融通辦學實施路徑，健全招生、學籍、課程、師資、評價、保障一體化制度機制，打通學生多元成長成才通道，形成一批可複製、可推廣的綜合高中辦學模式，推動高中階段教育多樣化特色發展。其中一項重點工作為，推動學籍互轉和證書統一，打通普通高中與職業高中學籍雙向轉換通道，鼓勵試點校推動實現頒發統一的綜合高中畢業證書。"
+    },
     {
       "id": "5154930",
       "time": "2026-10-20 10:44:57",
