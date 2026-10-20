@@ -1,7 +1,151 @@
 {
   "date": "2026-10-20",
-  "count": 2157,
+  "count": 2173,
   "items": [
+    {
+      "id": "5156391",
+      "time": "2026-10-20 22:22:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌5%，現報690.80元。"
+    },
+    {
+      "id": "mkt:01a159b0-72b2-7ee0-a909-240dcf8f9d29",
+      "time": "2026-10-20 22:21:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude is down more than 1.0% intraday at $97.08/bbl."
+    },
+    {
+      "id": "5156390",
+      "time": "2026-10-20 22:20:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守108美元/桶，日內跌1.44%。"
+    },
+    {
+      "id": "5156389",
+      "time": "2026-10-20 22:20:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國9月二手房簽約量指數降至紀錄低點 利率高企打壓購房需求】美國9月二手房簽約量降至紀錄低點，高企的按揭貸款利率繼續壓制購房需求。美國全國房地產經紀人協會(NAR)週二公佈的資料顯示，9月二手房簽約量指數大幅下降7.3%，至66，創2001年有紀錄以來最低。該降幅遠超調查的經濟學家預測。自伊朗戰爭爆發以來，按揭貸款利率持續攀升，目前已升至近三年來最高水平。二手房簽約量低迷表明在借貸成本和房價高企之際，房地產市場難以復甦。未經季節因素調整的二手房簽約量指數同比下降近13%。NAR首席經濟學家Lawrence Yun在宣告中表示：“由於按揭貸款利率快速上升，9月二手房市場狀況惡化。買賣雙方可能只是在等待按揭貸款利率朝有利方向變動。”週二公佈的另一份資料顯示，9月新屋開工放緩至2020年以來最低水平之一。"
+    },
+    {
+      "id": "5156388",
+      "time": "2026-10-20 22:20:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌2%，現報3074.00元。"
+    },
+    {
+      "id": "5156387",
+      "time": "2026-10-20 22:20:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌4%，現報698.00元。"
+    },
+    {
+      "id": "mkt:01a159af-4ced-7ee0-a909-1eddca0df2e2",
+      "time": "2026-10-20 22:20:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "02015.HK",
+        "Impact bullish"
+      ],
+      "text": "【Li Auto launches in-house \"Lianshan\" battery, offers lifetime no-fire guarantees】Li Auto (02015.HK) co-founder, president and chief engineer Ma Donghui announced the Lianshan electric-technology suite covering battery, e-drive, ultra-fast charging equipment and a self-built ultra-fast charging network. The company named its in-house battery Lianshan and rolled out a Lianshan battery protection plan with two lifetime guarantees: the battery will not spontaneously combust and collisions will not cause fire."
+    },
+    {
+      "id": "5156386",
+      "time": "2026-10-20 22:19:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【費城半導體指數轉漲 收復此前2.3%的跌幅】費城半導體指數轉漲收復此前2.3%的跌幅，日內漲0.23%，現報11342點。"
+    },
+    {
+      "id": "5156385",
+      "time": "2026-10-20 22:19:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌5%，現報4681.00元。"
+    },
+    {
+      "id": "5156384",
+      "time": "2026-10-20 22:19:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：土耳其已向議會提交與沙烏地阿拉伯和巴基斯坦的防務協議以供批准。另一名訊息人士週二表示，一個議會委員會最早可能於週五討論該協議。"
+    },
+    {
+      "id": "mkt:01a159ae-53de-7ee0-a909-14748cdcf0b0",
+      "time": "2026-10-20 22:19:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNBC reports Anthropic is in talks with emerging cloud provider Nscale on a second multi-billion-dollar deal."
+    },
+    {
+      "id": "5156383",
+      "time": "2026-10-20 22:19:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內跌1%，現報10181.00元。"
+    },
+    {
+      "id": "5156382",
+      "time": "2026-10-20 22:19:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘇丹和南蘇丹爭議地區遭無人機襲擊死亡人數翻倍至153人，部長稱。"
+    },
+    {
+      "id": "5156381",
+      "time": "2026-10-20 22:18:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "墨西哥航空集團股價下跌 8.8%。"
+    },
+    {
+      "id": "5156380",
+      "time": "2026-10-20 22:18:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列組建太空部隊 】以色列國防部長卡茨20日說，以色列國防軍正在組建一支太空部隊，此舉將提高以軍在太空領域的作戰能力。據以色列媒體報道，以軍19日宣佈任命一名軍官領導新組建的太空部隊，該部隊將負責“監督和協調以色列太空軍事能力的發展”。卡茨20日在社交媒體上發文稱，成立太空部隊將使以方能夠“從太空對敵人進行監視、防禦和打擊”，目標是使以色列成為“太空安全領域的世界領先國家之一”。（新華社）"
+    },
+    {
+      "id": "5156379",
+      "time": "2026-10-20 22:18:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報97.55美元/桶。"
+    },
     {
       "id": "mkt:01a159ad-afef-7ee0-a909-0ea120068732",
       "time": "2026-10-20 22:18:37",
