@@ -1,7 +1,168 @@
 {
   "date": "2026-10-20",
-  "count": 1426,
+  "count": 1442,
   "items": [
+    {
+      "id": "mkt:01a15870-589f-7ee0-a8fe-66b3ac6e8419",
+      "time": "2026-10-20 16:31:59",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【SAFE: Sept banks converted CNY1.99tn into yuan, sold CNY1.61tn; Jan–Sep converted CNY16.30tn, sold CNY13.59tn】State Administration of Foreign Exchange data: In September banks' customer FX conversions into yuan totaled CNY1.99tn (US$294.2bn) versus FX sales of CNY1.61tn (US$238.0bn), a net conversion into yuan of CNY0.38tn (US$56.2bn). Jan–Sep cumulative bank conversions were CNY16.30tn (US$2,377.6bn) against FX sales of CNY13.59tn (US$1,983.5bn), net CNY2.71tn (US$394.1bn). Separately, banks' client foreign‑currency receipts in September were CNY5.64tn (US$833.9bn) and payments CNY5.36tn (US$793.2bn), net receipts CNY0.28tn (US$40.7bn). Jan–Sep client receipts totaled CNY49.22tn (US$7,181.9bn) versus payments CNY46.41tn (US$6,771.8bn), net CNY2.81tn (US$410.1bn)."
+    },
+    {
+      "id": "5155544",
+      "time": "2026-10-20 16:31:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元收盤報6.6791，較上一交易日上漲26點。"
+    },
+    {
+      "id": "mkt:01a1586f-b027-7ee0-a8fe-5a306a6669f5",
+      "time": "2026-10-20 16:31:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Onshore CNY closed at 6.6791 per USD at 16:30 on Oct 20, up 26 pips from the previous trading day."
+    },
+    {
+      "id": "5155543",
+      "time": "2026-10-20 16:31:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市上漲5%，此前該國採取措施應對MSCI相關風險。"
+    },
+    {
+      "id": "5155542",
+      "time": "2026-10-20 16:30:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家外匯管理局公佈2026年9月銀行結售匯和銀行代客涉外收付款資料】國家外匯管理局統計資料顯示，2026年9月，銀行結匯19897億元人民幣，售匯16098億元人民幣。2026年1-9月，銀行累計結匯163007億元人民幣，累計售匯135947億元人民幣。按美元計值，2026年9月，銀行結匯2942億美元，售匯2380億美元。2026年1-9月，銀行累計結匯23776億美元，累計售匯19835億美元。2026年9月，銀行代客涉外收入56398億元人民幣，對外付款53647億元人民幣。2026年1-9月，銀行代客累計涉外收入492245億元人民幣，累計對外付款464127億元人民幣。按美元計值，2026年9月，銀行代客涉外收入8339億美元，對外付款7932億美元。2026年1-9月，銀行代客累計涉外收入71819億美元，累計對外付款67718億美元。（外匯管理局）"
+    },
+    {
+      "id": "mkt:01a1586e-ffab-7ee0-a8fe-503a77a355a7",
+      "time": "2026-10-20 16:30:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Lead",
+        "Impact bullish",
+        "Aluminium",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "【LME on-warrants and canceled warrants daily】LME on-warrants and canceled warrants: Copper on-warrants 150,050 t (+10,175 t); canceled warrants 83,750 t (-1,800 t). Aluminium on-warrants 221,350 t (unchanged); canceled warrants 14,875 t (-1,650 t). Zinc on-warrants 155,675 t (+8,250 t); canceled warrants 10,650 t (-200 t). Nickel on-warrants 259,752 t (+1,812 t); canceled warrants 21,114 t (-936 t). Lead on-warrants 299,325 t (-2,350 t); canceled warrants 34,875 t (-2,725 t). Tin on-warrants 3,575 t (+50 t); canceled warrants 460 t (-125 t)."
+    },
+    {
+      "id": "5155541",
+      "time": "2026-10-20 16:30:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破100美元/桶，日內漲1.49%。"
+    },
+    {
+      "id": "5155540",
+      "time": "2026-10-20 16:30:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破111美元/桶，日內漲1.44%。"
+    },
+    {
+      "id": "mkt:01a1586e-a2f5-7ee0-a8fe-4c0cc81db4d3",
+      "time": "2026-10-20 16:30:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【G42 signs non-binding MoU with Yann LeCun’s AMI Labs to develop physical-world AI】UAE AI firm G42 said it has signed a non-binding memorandum of understanding with Yann LeCun’s AMI Labs to explore AI applications for the physical world. The MoU covers world models, AI infrastructure, a sovereign-enabling cloud and potential platform integration. Proposed collaboration would pair AMI Labs’ advanced machine-learning research with G42’s AI infrastructure, cloud and deployment capabilities."
+    },
+    {
+      "id": "mkt:01a1586e-5157-7ee0-a8fe-47735fc91ba2",
+      "time": "2026-10-20 16:29:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Turkish finance minister Simsek said liquidation of four of seven investment fund management companies will be completed soon."
+    },
+    {
+      "id": "5155539",
+      "time": "2026-10-20 16:29:44",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "土耳其財政部長：七家投資基金公司中的四家即將完成清算。"
+    },
+    {
+      "id": "5155538",
+      "time": "2026-10-20 16:29:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基談美烏關係：支援能源相互停火】澤連斯基發文稱：我們同美國一直保持重要且牢固的戰略關係。全面衝突爆發以來，雙邊關係的發展尤為活躍。我感謝美方給予的所有支援。我方立場十分清晰：我們支援相互能源停火。這個設想是指，當俄方打擊我方燃氣、電力、石油等能源設施之後，我方不再反擊俄方能源設施。俄方正在發起打擊，而美國無法制止俄方。我們姑且相信美國確實想要阻止，但它做不到。那麼作為夥伴，我願意向特朗普總統作出讓步：如果俄方襲擊我們，而我們不能還擊 —— 這並不公平，也不誠實 —— 但如果這是美方的訴求，如果美方無力約束普京，那就向我們提供攔截導彈，讓我能夠保護本國能源基礎設施。美方無法約束普京，但可以向烏克蘭提供幫助。"
+    },
+    {
+      "id": "5155537",
+      "time": "2026-10-20 16:29:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理毛焦爾：可持續預算優先於公共部門加薪訴求。"
+    },
+    {
+      "id": "mkt:01a1586d-a9ab-7ee0-a8fe-38c8c1fbe1e2",
+      "time": "2026-10-20 16:29:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian Foreign Ministry spokesman BAGHAEI said Egypt's role in the Saudi-Houthi conflict has exacerbated the situation."
+    },
+    {
+      "id": "mkt:01a1586d-8c90-7ee0-a8fe-35faaf5ffabf",
+      "time": "2026-10-20 16:28:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "CITIGROUP's UK CEO said he expects the UK chancellor's fiscal space to be eroded."
+    },
+    {
+      "id": "mkt:01a1586d-6070-7ee0-a8fe-2d631ca84917",
+      "time": "2026-10-20 16:28:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "ZELENSKIY said Ukraine supports a reciprocal cessation of attacks on energy infrastructure."
+    },
     {
       "id": "mkt:01a1586c-e8dd-7ee0-a8fe-264259ad8a33",
       "time": "2026-10-20 16:28:14",
