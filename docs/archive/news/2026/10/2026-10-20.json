@@ -1,7 +1,109 @@
 {
   "date": "2026-10-20",
-  "count": 2134,
+  "count": 2145,
   "items": [
+    {
+      "id": "5156369",
+      "time": "2026-10-20 22:14:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大工業部長表示，未來幾天加拿大將就此事發表更多看法。"
+    },
+    {
+      "id": "5156368",
+      "time": "2026-10-20 22:14:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報108.42美元/桶。"
+    },
+    {
+      "id": "5156367",
+      "time": "2026-10-20 22:14:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報57.86美元/盎司。"
+    },
+    {
+      "id": "5156366",
+      "time": "2026-10-20 22:14:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "巴基斯坦陸軍參謀長今天向伊朗高階官員提出的一項方案。該方案部分回應了伊朗要求歸還被凍結資金的需求。方案規定，存放在卡達銀行的60億美元伊朗凍結資金所產生的利息將轉交給伊朗。"
+    },
+    {
+      "id": "te:markets:593494",
+      "time": "2026-10-20 22:13:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Coffee Hits 7-week High — Coffee increased to 317.85 USd/Lbs, the highest since August 2026. Over the past 4 weeks, Coffee gained 14.7%, and in the last 12 months, it decreased 23.34%."
+    },
+    {
+      "id": "mkt:01a159a8-f0b9-7ee0-a908-f063d4601573",
+      "time": "2026-10-20 22:13:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israel's Channel 12 reported today that the Pakistan Army chief submitted a proposal to senior Iranian officials which has U.S. approval and has received preliminary assent from Iran."
+    },
+    {
+      "id": "5156365",
+      "time": "2026-10-20 22:12:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大工業部長表示，加拿大已聘請最優秀的律師，就如何處理克利夫蘭-克利夫斯公司讓安大略省一家鋼厂部分停產的決定提供建議。"
+    },
+    {
+      "id": "5156364",
+      "time": "2026-10-20 22:12:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：巴基斯坦陸軍參謀長今天向伊朗高階官員提出的一項提議已獲得美方批准，並已得到伊朗的初步同意。"
+    },
+    {
+      "id": "te:markets:593491",
+      "time": "2026-10-20 22:11:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises on Banking and Energy Gains — The Ibovespa rose more than 1% on Tuesday, hovering near 208,000, supported by gains in the banking and energy sectors. A Real Time Big Data presidential runoff poll released on Monday showed Flávio Bolsonaro with 52% of valid votes against President Lula, who had 48%. Although Bolsonaro has yet to present detailed policy plans, investors view his candidacy as more likely to bring fiscal reforms, including spending cuts, which are seen as important to lowering interest rates. Major banks traded higher, with Itaú and Bradesco each gaining around 1%. Meanwhile, Petrobras rose nearly 1% as international oil prices remained elevated amid escalating tensions in the Middle East. Elsewhere, utilities were mostly higher, with Sabesp rising nearly 2%. Retailers posted sharp gains, with Magazine Luiza jumping more than 6%. In contrast, Vale fell more than 1% as Chinese iron ore prices declined."
+    },
+    {
+      "id": "5156363",
+      "time": "2026-10-20 22:11:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【理想汽車推自研電池保障計劃，若自燃或賠新車】 10月20日晚，理想汽車在其Power Day上正式釋出“連山”電動技術體系，覆蓋連山電池、連山電驅、超充裝置及自建超充網路。在連山電池方面，據官方介紹，該電池在實現充電10分鐘續航500公里的同時，兼顧長續航、高安全和長壽命。同場，理想汽車還發布“連山電池保障計劃”，推出兩項保障措施，其中包括因理想自研電池本身質量問題引發自燃，且車輛達到報廢標準的，理想汽車將賠付同等配置的新車等。在超充網路方面，理想汽車計劃於2027年春節前將5C超充槍數量提升至8300根，2026年第四季度推出“理想5C優享車位”。另據透露，理想汽車正探索全車位全自動超充，讓使用者無需下車或手動插拔充電槍即可完成充電。（藍鯨新聞）"
+    },
+    {
+      "id": "te:markets:593490",
+      "time": "2026-10-20 22:10:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Higher as Banks Gain — The S&P/TSX Composite Index edged above 36,000 on Tuesday, supported by the banking sector. RBC, TD Bank, BMO and CIBC each rose about 0.5% as the oil rally lost steam, providing some relief to credit-sensitive sectors that have been under pressure from energy-driven inflation. Retailers posted solid gains, with Loblaw up 1.5% and ATD adding more than 2.5%. In the technology sector, Shopify rose 0.5% and Constellation Software gained 2.5%, despite a selloff in Wall Street chipmakers and hyperscalers, while Celestica fell more than 4%. Mining stocks declined amid falling gold prices, with Agnico Eagle and Barrick each down about 1%, while WPM lost more than 1.5%. Energy producers were subdued as crude oil prices pared gains, with Suncor and Cenovus each losing nearly 1%."
+    },
     {
       "id": "mkt:01a159a6-9925-7ee0-a908-ebdc1f6b77b5",
       "time": "2026-10-20 22:10:52",
