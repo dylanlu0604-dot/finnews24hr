@@ -1,7 +1,63 @@
 {
   "date": "2026-10-21",
-  "count": 492,
+  "count": 498,
   "items": [
+    {
+      "id": "5156974",
+      "time": "2026-10-21 05:34:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "城堡投資創始人格里芬：目前人工智慧“幾乎可以肯定”存在泡沫，泡沫與科技的巨大進步同時存在。"
+    },
+    {
+      "id": "5156973",
+      "time": "2026-10-21 05:32:59",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "馬斯克：SpaceX將短期出租算力，SpaceX 推出 AI 資料中心短期租賃合約是明智之舉。"
+    },
+    {
+      "id": "mkt:01a15b3b-4bae-7ee0-a912-4f21377c0ee1",
+      "time": "2026-10-21 05:32:54",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) COO said Starlink still has growth opportunities in enterprise and government segments, and that Starlink's enterprise and government revenues are expected to eventually surpass its consumer business revenue."
+    },
+    {
+      "id": "mkt:01a15b3b-1e21-7ee0-a912-42b8943c35c4",
+      "time": "2026-10-21 05:32:43",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceX (SPCX.O) COO said Starlink's aviation business capacity has quadrupled since the start of the year."
+    },
+    {
+      "id": "5156972",
+      "time": "2026-10-21 05:32:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：亞馬遜青年計劃將在英國為年輕人開放 10000 個實習崗位，到 2030 年在英國為年輕人提供 3 萬個崗位。專案所有崗位按比例折算年薪起薪均超過 31000 英鎊，員工可享受私人醫療保險以及養老金福利。"
+    },
+    {
+      "id": "mkt:01a15b39-bb35-7ee0-a912-38370883570b",
+      "time": "2026-10-21 05:31:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Elon Musk said the Terafab project at Gibbons Creek aims to reach chip mass production around Q3 2028 and expects its first test chip to operate normally in May or June 2027."
+    },
     {
       "id": "mkt:01a15b39-628b-7ee0-a912-306179f4b63e",
       "time": "2026-10-21 05:30:49",
