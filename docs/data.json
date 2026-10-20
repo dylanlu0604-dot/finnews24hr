@@ -1,7 +1,130 @@
 {
-  "updated": "2026-10-20 21:39:32",
-  "count": 13533,
+  "updated": "2026-10-20 21:43:38",
+  "count": 13528,
   "items": [
+    {
+      "id": "mkt:01a1598d-09a5-7ee0-a908-0e6dc58f9914",
+      "time": "2026-10-20 21:42:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Nasdaq-100 extended decline to 1%."
+    },
+    {
+      "id": "mkt:01a1598c-fa82-7ee0-a908-0002bef6d0ed",
+      "time": "2026-10-20 21:42:53",
+      "tags": [
+        "MKT News",
+        "MSCI.O",
+        "Impact bullish"
+      ],
+      "text": "MSCI reported Q3 results that beat expectations; shares rose 5.9%."
+    },
+    {
+      "id": "5156301",
+      "time": "2026-10-20 21:42:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克100指數下跌1%；標普500指數下跌0.3%。"
+    },
+    {
+      "id": "mkt:01a1598c-4c9b-7ee0-a907-fa37198a23ef",
+      "time": "2026-10-20 21:42:09",
+      "tags": [
+        "MKT News",
+        "NEBI.O",
+        "Impact bearish"
+      ],
+      "text": "Nebius shares fell 5.9% to their lowest level since July."
+    },
+    {
+      "id": "5156300",
+      "time": "2026-10-20 21:41:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "Nebius股價下跌5.9%，跌至7月以來的最低水平。"
+    },
+    {
+      "id": "5156299",
+      "time": "2026-10-20 21:41:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "哈里伯頓公司預計完井和生產利潤率將環比提高 75 至 125 個基點。"
+    },
+    {
+      "id": "5156298",
+      "time": "2026-10-20 21:40:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI第三季度業績超預期，股價上漲5.9%。"
+    },
+    {
+      "id": "5156297",
+      "time": "2026-10-20 21:40:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三瑞智慧：公司並不生產人形機器人整機，而是聚焦人形機器人核心動力零部  】10月20日，三瑞智慧（301696.SZ）在互動平臺表示，公司並不生產人形機器人整機，而是聚焦人形機器人核心動力零部件。旗下CubeMars已實現電機、驅動板、行星減速器等核心部件的全部自研自產，並已與部分細分行業頭部整機廠商建立合作、實現批次供貨。"
+    },
+    {
+      "id": "5156296",
+      "time": "2026-10-20 21:40:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌2%】費城半導體指數日內跌2.01%，現報11088.93點。英偉達跌1.66%，博通跌0.74%，美光跌2.23%，英特爾跌3.13%，AMD跌2.19%，高通跌0.47%，臺積電跌0.73%，阿斯麥跌1.59%。"
+    },
+    {
+      "id": "5156295",
+      "time": "2026-10-20 21:40:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【劉偉在上海調研】10月19日至20日，交通運輸部黨組書記、部長劉偉在上海市就深入學習貫徹習近平總書記關於交通強國的重要論述、習近平總書記考察上海重要講話精神，全面推動“十五五”規劃任務落地落實，調研水上交通安全監管和服務保障、船舶建造、長江口航道規劃建設與維護管理、磁懸浮示範線執行等工作。在中國船舶集團滬東中華造船廠，劉偉實地察看在建船舶製造進度，聽取中國船級社上海分社駐廠專案組工作情況彙報。他強調，要搶抓機遇用好用足國家政策，提升LNG船舶建造檢驗質量，加快突破重點領域關鍵核心技術，助力綠色低碳轉型，服務保障國家海運安全發展。（交通運輸部）"
+    },
+    {
+      "id": "te:markets:593486",
+      "time": "2026-10-20 21:40:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.43% Higher — The Dow Jones Index is gaining 225 points or 0.43 percent on Tuesday. Leading the gains are Merck (3.22%), 3M (2.79%) and J&J (2.21%). Top losers are Alphabet (-1.64%), Caterpillar (-1.47%) and Nvidia (-1.19%)."
+    },
+    {
+      "id": "5156294",
+      "time": "2026-10-20 21:40:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股市值前十公司盤初罕見全線下跌 英偉達、蘋果等集體承壓】美股市值前十公司股價全線下跌，英偉達跌1.12%，蘋果跌0.47%，谷歌A、谷歌C均跌0.39%，微軟跌0.30%，亞馬遜跌0.09%，臺積電跌0.20%，SpaceX跌2.22%，Meta跌2.36%，博通跌0.54%。其中，Meta、SpaceX跌幅居前。"
+    },
+    {
+      "id": "5156293",
+      "time": "2026-10-20 21:39:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "Corewave股價下跌6%，至2025年5月以來最低水平。"
+    },
+    {
+      "id": "5156292",
+      "time": "2026-10-20 21:39:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人巴加埃：你們真的相信美國能對伊朗說“我們會打擊你們，而你們必須保持沉默”，然後我們就會欣然接受嗎？打了就跑的時代已經結束。過去兩年，我們已用實際行動證明，我們絕不會對任何攻擊不作回應。如果我們的回應不夠強硬，他們必將遭到同等力度的打擊。"
+    },
     {
       "id": "5156291",
       "time": "2026-10-20 21:38:43",
@@ -123704,179 +123827,6 @@
         "市場"
       ],
       "text": "【君正股份：儲存市場Q4價格繼續有所上漲 預計27年供需仍會比較緊張】有投資者問，Q3已經截止了，那麼Q4的價格是如何上調的？27年Q1如何展望？君正股份在互動平臺表示，目前儲存市場仍然保持了很好的發展趨勢，DRAM仍持續緊缺，Q4價格繼續有所上漲，預計27年供需仍會比較緊張，公司會根據市場情況進行價格調整。"
-    },
-    {
-      "id": "5142573",
-      "time": "2026-10-13 21:43:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其貿易部長表示：我們認同《工業加速法案》的理念，但解決方案不應是將可信合作伙伴排除在外。"
-    },
-    {
-      "id": "5142572",
-      "time": "2026-10-13 21:43:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "費城半導體指數跌幅收窄至1.7%，盤初一度跌超3%。"
-    },
-    {
-      "id": "5142571",
-      "time": "2026-10-13 21:43:18",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長表示，我們對人工智慧相關風險的承保以及所投入的資本都秉持高度審慎的態度，尤其是在客戶融資需求變得更大、更復雜的情況下。"
-    },
-    {
-      "id": "5142570",
-      "time": "2026-10-13 21:43:05",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "倫敦證券交易所集團股價跌幅進一步擴大，目前下跌4.7%。"
-    },
-    {
-      "id": "mkt:01a13580-87d4-7ee0-a859-5cab7524e2cf",
-      "time": "2026-10-13 21:42:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Goldman Sachs CEO Solomon said the firm is highly cautious in underwriting risk and deploying capital to AI, particularly as clients' financing needs grow larger and more complex."
-    },
-    {
-      "id": "5142569",
-      "time": "2026-10-13 21:42:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：烏克蘭利沃夫再次傳出爆炸聲。"
-    },
-    {
-      "id": "5142568",
-      "time": "2026-10-13 21:42:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：債券收益率飆升加劇發達市場財政挑戰。"
-    },
-    {
-      "id": "te:markets:591544",
-      "time": "2026-10-13 21:42:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Mixed for Second Session — US stocks were mixed for a second consecutive session, with the S&P 500 little changed near its record high, the Dow Jones up 0.6%, and the Nasdaq 100 down 0.6%. Chip producers extended yesterday's slump on signs that China's CXMT made progress on a new memory architecture that could threaten Korean and US rivals. To add, Broadcom CEO Tan warned against overdone investments in AI labs that may not deliver returns. Micron, Marvell, and SanDisk sank over 4%. In turn, Goldman Sachs jumped 2.5% after reporting strong results from equity traders. Also, JPMorgan added 1.5% as an upgrade to its net interest income outlook offset losses in fixed-income trading and expenses last quarter. Citigroup was flat despite positive trading results while Wells Fargo dropped after earnings. Outside finance, UNH jumped 2% after raising its profit outlook but Johnson & Johnson slumped 4% on muted sales."
-    },
-    {
-      "id": "5142567",
-      "time": "2026-10-13 21:42:15",
-      "tags": [
-        "宏觀",
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長：樂觀情緒已消退，地緣政治局勢再度緊張給經濟前景增添了不確定性，推高油價，重新引發通脹擔憂，還推動債券收益率走高。"
-    },
-    {
-      "id": "5142566",
-      "time": "2026-10-13 21:42:05",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛執行長：第三季度開局之際，市場對中東戰爭潛在解決方案持樂觀態度。"
-    },
-    {
-      "id": "5142565",
-      "time": "2026-10-13 21:42:00",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長表示：“我們也注意到，圍繞人工智慧技術加速發展以及前沿模型不受監管推進的更廣泛擔憂。”"
-    },
-    {
-      "id": "5142564",
-      "time": "2026-10-13 21:41:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數抹去開盤跌幅，納斯達克100指數下跌0.4%。"
-    },
-    {
-      "id": "5142563",
-      "time": "2026-10-13 21:41:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SK海力士美股上市股份下跌4.8%。"
-    },
-    {
-      "id": "5142562",
-      "time": "2026-10-13 21:41:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股超大規模雲廠商集體上漲 微軟股價再次續刷記錄新高】微軟、谷歌等美股超大規模雲廠商集體上漲。谷歌-A股價上漲1.07%，報356.510美元/股，總市值報4.36萬億美元。微軟股價上漲1.6%，報549.795美元/股，續刷記錄新高，總市值報4.08萬億美元。亞馬遜股價上漲0.93%，報261.950美元/股，總市值報2.83萬億美元。"
-    },
-    {
-      "id": "5142561",
-      "time": "2026-10-13 21:40:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Applied Intuition獲得投資邀約，估值達300億美元】據接觸公司管理層的知情人士透露，Applied Intuition已收到多份投資要約，對應估值至少300億美元。知情人士稱，這些邀約很可能推動公司在未來數月完成至少10億美元的新一輪融資。 該估值相比其6月估值實現翻倍，也印證了這家成立9年的企業戰略選擇的正確性：專注自動駕駛軟體層面，而非自研、運營整車。風投機構安德里森·霍洛維茨（a16z）在7月表示，2024年末，公司年度經常性收入達到4億美元，近年營收保持每年翻倍增長。 這筆新融資也將進一步擴充百億估值初創企業陣營，同類企業還包括程式碼智慧代理公司Cognition以及Perplexity。"
-    },
-    {
-      "id": "5142560",
-      "time": "2026-10-13 21:40:30",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長表示，在我們與客戶的交流中，目前算力需求大幅超過供給。"
-    },
-    {
-      "id": "5142559",
-      "time": "2026-10-13 21:40:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國上市的記憶體與資料儲存相關企業股價下跌，美光科技下跌4.7%，閃迪下跌4.1%，西部資料下跌6.5%，希捷科技下跌6.1%。"
-    },
-    {
-      "id": "te:markets:591543",
-      "time": "2026-10-13 21:40:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.53% Higher — The Dow Jones Index is gaining 275 points or 0.53 percent on Tuesday. Leading the gains are Salesforce (3.00%), UnitedHealth (2.32%) and IBM (1.94%). Top losers are J&J (-3.65%), Caterpillar (-1.74%) and Nvidia (-0.67%)."
-    },
-    {
-      "id": "5142558",
-      "time": "2026-10-13 21:39:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "六旗娛樂股價在佐治亞州過山車事故報道傳出後跌至2009年以來最低點，收盤下跌7.9%。"
     }
   ]
 }
