@@ -1,7 +1,33 @@
 {
   "date": "2026-10-21",
-  "count": 521,
+  "count": 523,
   "items": [
+    {
+      "id": "5156986",
+      "time": "2026-10-21 06:04:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲10月維持利率不變的機率為83.9%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為83.9%，累計加息25個基點的機率為16.1%。美聯儲到12月維持利率不變的機率為9.8%，累計加息25個基點的機率76.1%，累計加息50個基點的機率為14.2%。"
+    },
+    {
+      "id": "mkt:01a15b57-39c7-7ee0-a912-b43aa0b44094",
+      "time": "2026-10-21 06:03:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "Nasdaq100",
+        "Impact bullish",
+        "TSLA.O",
+        "SPCX.O"
+      ],
+      "text": "Nasdaq futures rose 1% in early Wednesday trade. SpaceX (SPCX.O) earnings and reports of a potential merger with Tesla (TSLA.O) lifted U.S. technology stocks in after-hours trading."
+    },
     {
       "id": "5156985",
       "time": "2026-10-21 06:01:30",
