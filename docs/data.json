@@ -1,7 +1,96 @@
 {
-  "updated": "2026-10-20 16:17:12",
-  "count": 13033,
+  "updated": "2026-10-20 16:21:09",
+  "count": 13041,
   "items": [
+    {
+      "id": "5155519",
+      "time": "2026-10-20 16:20:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "波蘭競爭監管機構UOKIK要求蘋果公司在波蘭修改其應用程式跟蹤透明度（ATT）政策和使用者資料訪問規則。"
+    },
+    {
+      "id": "5155518",
+      "time": "2026-10-20 16:20:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東召開三季度經濟形勢分析會：堅定信心，持續鞏固穩中向好態勢】會上，廣東省有關單位彙報了今年以來全省經濟執行及工業、投資、消費、財政、外資外貿等有關情況，並就做好四季度工作提出建議；廣州、深圳、佛山、東莞等地負責同志彙報了前三季度經濟執行情況和下一步工作安排；與會同志圍繞做好四季度經濟工作進行交流研討。會議強調，要加快推動“十五五”規劃落地落實，從中尋找產業先機、深挖發展潛力，奮力搶佔新領域新賽道，為廣東“十五五”高質量發展積聚強大勢能。要抓住風口做強產業，按照全國及全省先進製造業大會部署，統籌傳統產業升級、新興產業培育、未來產業孵化、現代服務業提質，聚力做大“人工智慧+機器人”產業規模，推動人工智慧深度賦能千行百業，不斷培育壯大新質生產力。要密切對接企業，加強涉企服務，幫助企業解決困難，充分激發企業創新創造活力，在助力企業做大做強中夯實產業發展根基。（深圳釋出）"
+    },
+    {
+      "id": "5155517",
+      "time": "2026-10-20 16:20:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百度搭子9月月活977萬，辦公Agent季度增速第一】10月20日訊息，QuestMobile釋出2026年9月典型辦公類Agent資料。榜單顯示，WorkBuddy和百度搭子9月合計月活使用者規模分別達到3235.3萬和977.0萬，位列前二；百度搭子季度環比增長1567.5%，位列榜單增速第一。"
+    },
+    {
+      "id": "5155516",
+      "time": "2026-10-20 16:18:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆達股份：預計2026年前三季度歸母淨利潤同比增長69%至97%】隆達股份公告，預計2026年前三季度歸母淨利潤1.2億元至1.4億元，同比增長69%至97%；扣非淨利潤1.17億元至1.36億元，同比增長76%至105%；營業收入19億元至22億元，同比增長45%到68%。上年同期歸母淨利潤7094.63萬元。公司稱全球航發、燃機行業需求持續向好，高溫合金業務營收增長強勁，多賽道業務收入同比大幅增長，精益化管理落地與降本增效舉措使經營盈利能力顯著改善。"
+    },
+    {
+      "id": "5155515",
+      "time": "2026-10-20 16:18:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人巴加埃在週二的例行記者會上表示，伊朗尚未與美國進行核談判，因此沒有細節可與其他各方分享，包括俄羅斯。"
+    },
+    {
+      "id": "5155514",
+      "time": "2026-10-20 16:17:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【卡拉斯：歐盟正與土耳其、印度等國合作推動黑海航行自由協議】據週二在斯特拉斯堡歐洲議會發表演講的文稿，歐盟外交事務負責人卡婭·卡拉斯表示，歐盟正與國際夥伴，包括土耳其，印度，以及非洲和全球南方的食品進口國攜手，“推動黑海航行自由協議”。卡拉斯說，這樣的協議將保護生命和重要物資供應，“烏克蘭提出了這項提議，但俄羅斯拒絕了”。卡拉斯補充說，自7月以來，經由歐盟-烏克蘭團結通道出口的糧食增加了近200萬噸。"
+    },
+    {
+      "id": "mkt:01a15863-81c2-7ee0-a8fd-e7531926e371",
+      "time": "2026-10-20 16:17:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Saudi civil defense says threat to Riyadh has been lifted."
+    },
+    {
+      "id": "5155513",
+      "time": "2026-10-20 16:17:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏高度依賴美國衛星 歐洲天基情報通訊能力仍難補缺口】烏克蘭抵禦俄羅斯襲擊的能力在很大程度上依賴美國衛星，不僅需要衛星預警來襲導彈，也需要衛星通訊維持無人機和前線部隊運作。歐洲各國正努力在天基情報和通訊領域追趕美國，但仍缺乏支撐烏克蘭作戰行動和導彈防禦系統的許多關鍵能力。"
+    },
+    {
+      "id": "mkt:01a15863-115b-7ee0-a8fd-d8f2318bc983",
+      "time": "2026-10-20 16:17:29",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK traders expect gilt issuance to rise by £3.4 bln as fiscal space narrows."
+    },
+    {
+      "id": "5155511",
+      "time": "2026-10-20 16:17:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南方多地熱到破紀錄】近期南方多地出現炎熱高溫天氣，秋老虎發威。據介紹，今年10月中旬長江以南地區氣溫普遍較常年同期偏高2至4℃，雲南東部、貴州中南部至江南南部、華南北部更是偏高4℃以上，部分地區打破10月中旬最高氣溫紀錄，其中雲南、貴州局地打破10月最高氣溫紀錄。（央視新聞）"
+    },
     {
       "id": "mkt:01a15862-56f1-7ee0-a8fd-d40df5111969",
       "time": "2026-10-20 16:16:42",
@@ -119447,30 +119536,6 @@
         "美聯儲"
       ],
       "text": "【美聯儲理事沃勒：特朗普對美聯儲獨立性的威脅迄今為止尚未成功】美聯儲理事沃勒表示，特朗普對美聯儲獨立性的威脅迄今為止尚未成功；相信國會和法院會保護美聯儲的獨立性。"
-    },
-    {
-      "id": "te:markets:591457",
-      "time": "2026-10-13 16:21:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Hong Kong Stocks Recover After Early Selloff — The Hang Seng Index gained 0.3%, or 74 points, to close at 24,345 on Tuesday after tumbling in the morning, as the market recovered from early losses despite continued pressure on technology stocks. Sentiment remained fragile amid a global selloff in AI-related shares, driven by concerns over intensifying competition in the semiconductor industry, elevated valuations and the returns on heavy AI spending. Rising geopolitical tensions and Brent crude prices near US$105 a barrel also kept inflation and interest-rate concerns in focus. Tencent Holdings drew strong investor demand for its planned bond sale, attracting more than US$15.5 billion in orders for an offering targeting at least US$4.5 billion, even as investors scrutinized technology companies’ AI investment plans. Market participants also awaited upcoming US inflation data and corporate earnings. Notable movers were Xiaomi (2.0%), AIA (2.0%), Meituan (0.6%) and Geely (3.1%)."
-    },
-    {
-      "id": "te:markets:591456",
-      "time": "2026-10-13 16:19:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Treasury Yields Fall — The US 10-year Treasury yield fell 5bps to 5.19% on Tuesday, retreating slightly from the 24-year highs touched earlier this month, as traders returned from a long weekend amid rising safe-haven demand and falling oil prices. Weakness in the tech sector, particularly semiconductor and chip stocks, amid renewed concerns over the AI trade, spread globally, prompting investors to seek safer assets. Meanwhile, oil prices declined after a three-day winning streak, providing additional support to the bond market. Investors are also awaiting key US inflation data this week, including Wednesday’s CPI report, for further clues on the trajectory of inflation and the Fed’s next policy steps. Meanwhile, traders have scaled back bets on another 25bps rate hike this month, with the probability of such a move currently standing at around 19%. For December, markets are pricing in a nearly 72% chance of a 25bps increase in the fed funds rate."
     }
   ]
 }
