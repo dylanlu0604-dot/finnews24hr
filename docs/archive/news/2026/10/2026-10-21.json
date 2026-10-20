@@ -1,7 +1,25 @@
 {
   "date": "2026-10-21",
-  "count": 504,
+  "count": 506,
   "items": [
+    {
+      "id": "5156977",
+      "time": "2026-10-21 05:45:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "城堡投資創始人格里芬：特朗普在解釋伊朗戰爭上做得非常糟糕。"
+    },
+    {
+      "id": "mkt:01a15b45-1191-7ee0-a912-757b4cf23516",
+      "time": "2026-10-21 05:43:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Castle Securities CEO Griffin said the AI sector is almost certainly in a bubble, though bubbles often accompany major technological breakthroughs. Corporates are scrutinizing invoices from ANTHROPIC and OpenAI, and some firms are finding it hard to extract value from AI."
+    },
     {
       "id": "mkt:01a15b43-fcd1-7ee0-a912-6de8531d5d14",
       "time": "2026-10-21 05:42:24",

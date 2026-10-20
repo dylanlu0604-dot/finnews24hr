@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-21 05:43:01",
-  "count": 13517,
+  "updated": "2026-10-21 05:46:50",
+  "count": 13516,
   "items": [
+    {
+      "id": "5156977",
+      "time": "2026-10-21 05:45:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "城堡投資創始人格里芬：特朗普在解釋伊朗戰爭上做得非常糟糕。"
+    },
+    {
+      "id": "mkt:01a15b45-1191-7ee0-a912-757b4cf23516",
+      "time": "2026-10-21 05:43:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Castle Securities CEO Griffin said the AI sector is almost certainly in a bubble, though bubbles often accompany major technological breakthroughs. Corporates are scrutinizing invoices from ANTHROPIC and OpenAI, and some firms are finding it hard to extract value from AI."
+    },
     {
       "id": "mkt:01a15b43-fcd1-7ee0-a912-6de8531d5d14",
       "time": "2026-10-21 05:42:24",
@@ -123471,30 +123489,6 @@
         "其他"
       ],
       "text": "沙特民防部門：兩枚被攔截導彈的殘骸墜落利雅得，造成四人受傷。"
-    },
-    {
-      "id": "5143137",
-      "time": "2026-10-14 05:45:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美中央司令部：霍爾木茲海峽由美軍及地區夥伴掌控】當地時間10月13日，美軍中央司令部在社交平臺上發文回應伊朗伊斯蘭革命衛隊有關霍爾木茲海峽的表態。美軍中央司令部稱，目前霍爾木茲海峽由美軍及地區夥伴掌控。美方還表示，美國軍隊前一天協助海灣地區夥伴將超過1900萬桶原油經霍爾木茲海峽運出。伊朗伊斯蘭革命衛隊海軍司令當天稱，將擊沉任何接近霍爾木茲海峽的美國軍艦。（央視新聞）"
-    },
-    {
-      "id": "5143136",
-      "time": "2026-10-14 05:45:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "Evolution Mining Ltd.（EVN.AU）第一財季黃金產量15.3616萬盎司。第一財季黃金銷量15.5864萬盎司。維持所有財務指標不變，仍然預計全年黃金產量為66萬-73萬盎司。"
-    },
-    {
-      "id": "5143135",
-      "time": "2026-10-14 05:45:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：微軟雲業務總裁要求各負責人削減 20% 成本。"
     }
   ]
 }
