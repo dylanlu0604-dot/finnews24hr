@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-21 06:29:28",
-  "count": 13517,
+  "updated": "2026-10-21 06:33:15",
+  "count": 13519,
   "items": [
+    {
+      "id": "5156998",
+      "time": "2026-10-21 06:32:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【千億級紅利陸續落袋，透視銀行中期分紅新局】10月21日，工商銀行與農業銀行向A股股東派發2026年中期現金紅利，合計約821億元。Wind資料顯示，截至目前已有21家A股上市銀行披露2026年中期分紅方案，擬派息總額超過2600億元，其中國有大行與股份行構成絕對主力，城商行、農商行亦在加速跟進。從方案披露到實際派發，上市銀行中期分紅正從少數銀行的“試水”動作，演變為常態化選擇。這一變化背後，既有行業基本面企穩的支撐，也折射出低利率環境下，銀行板塊正在重塑股東回報體系。（中證報）"
+    },
+    {
+      "id": "5156997",
+      "time": "2026-10-21 06:32:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上市券商前三季度淨利潤有望繼續增長，機構看好頭部券商超額收益機會】日前原東興證券、原信達證券公佈2026年第三季度報告，兩家券商前三季度經營業績表現有所分化。考慮第三季度A股交易量和市場整體表現較二季度有所走弱，業內人士認為，A股上市券商前三季度淨利潤有望在第三季度承壓的情況下仍保持增長。 就券商板塊投資而言，業內人士表示，在估值及ROE（淨資產收益率）錯配情況下，券商板塊的高價效比凸顯，券商槓桿提升與分紅機制完善也有望持續提升股東回報水平。在具體品種上，繼續看好頭部券商超額收益機會。（中證報）"
+    },
+    {
+      "id": "mkt:01a15b71-69cd-7ee0-a912-ee39192c8edd",
+      "time": "2026-10-21 06:32:01",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Zelenskiy says discussed possible US-Russia-Ukraine leaders' meeting with Trump envoy】Ukrainian President Zelenskiy said on the 20th he met in Oslo with Trump envoy Witkoff and European partners to discuss the possibility of a US-Russia-Ukraine leaders' meeting; Jared Kushner participated remotely. Zelenskiy said he backs the US proposal for an \"energy ceasefire\" — conditional on Russia stopping attacks on Ukrainian energy infrastructure, Ukraine would halt strikes on Russian \"sensitive\" energy facilities. He said he expects Witkoff, who visits Russia on the 21st, to present Ukrainian and European peace proposals to Moscow, including a trilateral leaders' summit to resolve issues \"only leaders can resolve.\""
+    },
+    {
+      "id": "te:markets:593555",
+      "time": "2026-10-21 06:30:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Ethanol Falls by 2.22% — Top commodity losers are Ethanol (-2.22%), Methanol (-2.22%), Natural Gas UK (-2.02%), Brent Oil (-0.49%) and Crude Oil (-0.46%). Gains are led by Germany Natural Gas THE (1.48%) and Heating Oil (1.04%)."
+    },
     {
       "id": "mkt:01a15b67-b44e-7ee0-a912-e1a71080d969",
       "time": "2026-10-21 06:21:25",
@@ -123493,27 +123533,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Lithium Carbonate Drops by 3.25% — Top commodity losers are Lithium Carbonate (-3.25%), Silver (-1.93%), Platinum (-1.44%) and Gold (-0.27%)."
-    },
-    {
-      "id": "te:markets:591619",
-      "time": "2026-10-14 06:30:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Slumps by 8.03% — Top commodity losers are Methanol (-8.03%), Ethanol (-1.45%), Gasoline (-1.39%) and Brent Oil (-0.44%). Gains are led by Heating Oil (5.06%), Natural gas (4.72%), Natural Gas UK (3.07%) and Crude Oil (0.93%)."
-    },
-    {
-      "id": "mkt:01a13762-d39e-7ee0-a863-0e7e77b49d8d",
-      "time": "2026-10-14 06:29:45",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact mixed"
-      ],
-      "text": "【Activist Palliser urges Samsung to issue ADRs to fund preferred-share buybacks】Palliser Capital urged Samsung Electronics to issue U.S. depositary receipts (ADRs) at a premium and use proceeds to repurchase and cancel non‑voting preferred shares. Palliser founder and CIO James Smith said the preferreds' discount is a neglected corporate‑governance and capital‑allocation distortion and that addressing it would boost capital efficiency, unlock cross‑class value and strengthen credibility of Korea's market reforms. Samsung's preferreds trade at more than a 20% discount to ordinary stock in Korea. The gap has returned to focus since Samsung's record shareholder‑return plan in August, but any repurchase details remain under board discussion."
     }
   ]
 }
