@@ -1,7 +1,35 @@
 {
   "date": "2026-10-21",
-  "count": 501,
+  "count": 504,
   "items": [
+    {
+      "id": "mkt:01a15b43-fcd1-7ee0-a912-6de8531d5d14",
+      "time": "2026-10-21 05:42:24",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bullish"
+      ],
+      "text": "Netflix (NFLX.O): recent price increases have been effective, but there remains room to raise prices further in the US and Canadian markets."
+    },
+    {
+      "id": "mkt:01a15b43-f4f2-7ee0-a912-63c2b2a9ca6c",
+      "time": "2026-10-21 05:42:22",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bullish"
+      ],
+      "text": "Netflix (NFLX.O) said its strategy is unchanged: original series and films remain core, and the company reported strong performance in APAC, Latin America and EMEA."
+    },
+    {
+      "id": "5156976",
+      "time": "2026-10-21 05:41:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cadillac Mines 在 Galloway 的 Moriss 礦段，於先前鑽孔沿傾向下方約 75 米處鑽遇 4.4 米厚、品位 10.96 克 / 噸的金礦體，並發現第三條剪下帶。"
+    },
     {
       "id": "mkt:01a15b3d-73b8-7ee0-a912-5998d3ae7fa6",
       "time": "2026-10-21 05:35:16",
