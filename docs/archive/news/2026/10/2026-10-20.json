@@ -1,7 +1,76 @@
 {
   "date": "2026-10-20",
-  "count": 819,
+  "count": 826,
   "items": [
+    {
+      "id": "te:markets:593287",
+      "time": "2026-10-20 10:59:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Singapore",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Singapore Stocks Trade at Over 3-Month Low — The Straits Times Index (STI) fell 25 points, or 0.5%, to 5,387 in Tuesday morning trade, extending losses from the previous session, mainly weighed down by the tech, finance, non-energy minerals, and producer manufacturing sectors. The broader index declined to its lowest level since July 8, amid caution ahead of the release of September inflation data due this week, with the market expecting inflation to remain steady at 2.3%, its highest level since July 2024. High inflation has raised expectations of monetary policy tightening, though the Monetary Authority of Singapore left monetary policy unchanged last week after back-to-back moves in April and July. However, an upbeat session on Wall Street overnight capped the decline as the tech selloff eased. Among the biggest laggards were Yangzijiang Shipbuilding Holdings (-2.3%), Hongkong Land (-1.6%), OCBC (-1.2%), Wilmar International (-1.2%), and UOB (-0.7%)."
+    },
+    {
+      "id": "5154945",
+      "time": "2026-10-20 10:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴·哈梅內伊的顧問穆罕默德·莫赫貝爾表示，如果華盛頓恢復對伊朗軍事基地或石化設施的攻擊，德黑蘭將打擊該地區九個美國盟友。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202610203901112616",
+      "time": "2026-10-20 10:58:15",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【不等同降息！權威解讀央行貨幣政策目標利率擇機“換錨”】潘功勝表示，將研究擇機把央行公開市場主要操作品種的期限切換為隔夜，公開市場隔夜回購利率將相應成為主要政策利率。值得注意的是，政策利率從7天過渡至隔夜，是央行自身貨幣政策調控框架的持續完善，不宜和降息劃等號。"
+    },
+    {
+      "id": "mkt:01a1573e-738d-7ee0-a8f5-1d1919de3802",
+      "time": "2026-10-20 10:57:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【Experts: PBOC operational reforms are not equivalent to rate cuts】PBOC'S PAN said the interbank overnight repo rate has become the policy target rate. Market experts said the shift to make overnight repos the main open-market instrument is a monetary-policy framework reform to refine interest-rate control mechanics, not a conventional rate cut. Wang Jian, chief financial analyst at Guosen Securities' Economic Research Institute, said overnight operations may become routine and the policy rate could transition from 7-day to overnight, but this should not be conflated with easing. GF Securities chief economist Guo Lei said the measures follow a move toward a price-based framework and warned markets against treating the operational reform as a rate cut to trade on."
+    },
+    {
+      "id": "5154944",
+      "time": "2026-10-20 10:57:46",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【專家解讀：不宜將央行操作機制改革舉措和降息劃等號】10月19日，中國人民銀行行長潘功勝在2026金融街論壇年會開幕式上，明確銀行間隔夜回購利率已成為貨幣政策調控的目標利率。市場權威專家表示，央行研究切換公開市場操作主力品種，屬於貨幣政策框架改革的一項舉措，不同於通常講的貨幣政策降息加息，重點還是在不斷完善利率調控的操作機制。國信證券經濟研究所金融業首席分析師‌王劍認為，隨著隔夜操作走向常態化，政策利率或從7天過渡至隔夜，但不宜和降息劃等號。廣發證券首席經濟學家郭磊也提到，央行在持續完善自身的貨幣政策調控框架，一系列制度設計是一脈相承的，沿襲了向價格型框架轉型的思路，市場也要避免將央行操作機制改革舉措當作降息來炒作。（一財）"
+    },
+    {
+      "id": "te:markets:593286",
+      "time": "2026-10-20 10:57:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Weakens Despite Hawkish Ueda Remarks — The Japanese yen hovered around 158.5 per dollar on Tuesday after declining in the previous session, struggling to recover despite hawkish remarks from the Bank of Japan’s leadership. Governor Kazuo Ueda indicated that underlying inflation was approaching the central bank’s 2% target, supported by a moderate economic recovery and tight labor market conditions. He also highlighted supply-side price pressures stemming from higher Middle Eastern energy costs, alongside demand-driven inflation fueled by strong AI-related demand. However, the yen remained under pressure from persistent carry trades, as Japan’s relatively low interest rates continued to make the currency less attractive. The BOJ’s gradual pace of monetary tightening is also seen as insufficient to match rate levels in other major economies."
+    },
+    {
+      "id": "5154943",
+      "time": "2026-10-20 10:57:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【螞蟻集團入股物原科技，後者含AI及機器人業務】企查查APP顯示，近日，北京物原科技有限公司發生工商變更，新增螞蟻科技集團股份有限公司全資子公司上海雲瑒企業管理諮詢有限公司等為股東，同時註冊資本增至125萬元。企查查資訊顯示，該公司成立於2026年7月，經營範圍包含：人工智慧公共資料平臺；人工智慧公共服務平臺技術諮詢服務；智慧機器人的研發；智慧機器人銷售等。"
+    },
     {
       "id": "mkt:01a1573c-edc9-7ee0-a8f5-12a25652b0d7",
       "time": "2026-10-20 10:56:13",
