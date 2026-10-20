@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-20 10:30:26",
-  "count": 12987,
+  "updated": "2026-10-20 10:34:17",
+  "count": 12994,
   "items": [
+    {
+      "id": "mkt:01a15727-4e98-7ee0-a8f4-6997c807b465",
+      "time": "2026-10-20 10:32:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【South Korea AI/data-center IPO plunges 28% on debut as investor appetite cools】Elice Group, a Seoul-based AI services firm that plans portable modular data centers, fell 28% on its first day of trading to 65,300 won from an IPO price of 90,500 won. The company raised 201.1 bln won (~$150m) in the offering and saw institutional demand of 388.84x during the IPO. Investors, citing high inflation and elevated borrowing costs, are increasingly skeptical that capital-intensive AI projects will deliver near-term returns and secure follow-on financing, Kiwoom Securities analyst Kim Hak-joon said. The sell-off has cooled sector investment appetite and stalled other firms’ listing plans."
+    },
+    {
+      "id": "5154903",
+      "time": "2026-10-20 10:32:13",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發展改革委：將根據需要及時出臺新的增量政策，確保經濟執行保持在合理區間】10月20日，國家發展改革委召開10月份新聞釋出會。國家發展改革委國民經濟綜合司副司長左剛表示，國家發展改革委將會同有關部門及時出臺實施增量政策，推動存量政策與增量政策協同發力，發揮好宏觀政策整合效應，努力實現“十五五”良好開局。一方面，進一步增強存量政策實施效率，協同推進“十五五”規劃、“六張網”實施方案重大專案開工建設，高質量做好專案準備，為開拓專案前期工作進展加強要素保障，提高審批效率，協調有關方面加快投放新型政策性金融工具資金，激發民間投資活力。在核電、水電、水利重大專案中引入民間資本，進一步最佳化實施全鏈條推動重點產業發展，最佳化算力設施佈局等政策，全面系統推進老舊、水庫排查和改造提升，加快前期實施專案的開工建設，持續推動高標準糧倉建設和向現有廠房升級改造。另一方面及時推出務實管用的增量政策，抓好近期已出臺的降低抵押補充貸款利率、增加再貸款額度、居民住房貸款貼息等金融支援服務業發展的增量政策實施，推動政策落地見效。同時做好經濟監測預警，根據需要及時出臺新的增量政策，確保經濟執行保持在合理區間。"
+    },
+    {
+      "id": "mkt:01a15726-4e35-7ee0-a8f4-614b1ec7694b",
+      "time": "2026-10-20 10:31:30",
+      "tags": [
+        "MKT News",
+        "02259.HK",
+        "Impact bearish"
+      ],
+      "text": "【UBS cuts Zijin Gold International PT 3.4% to HKD196, retains Buy】UBS cut Zijin Gold International (02259.HK) PT by 3.4% to HKD196 and kept a Buy rating. Q3 2026 net profit attributable to shareholders was US$564 mln, down 12% QoQ and below UBS’s US$650 mln forecast and the US$700 mln market consensus, driven by weaker-than-expected gold output. UBS said investors are likely to react negatively as this is the company’s second profit miss in 2026. Management maintained full-year production guidance of 59.2 tonnes, but UBS views delivering roughly 18 tonnes in Q4 as challenging. UBS trimmed its 2026 earnings forecast by 2% and cut its full-year gold production estimate to about 58 tonnes (from 59.2 tonnes)."
+    },
+    {
+      "id": "5154902",
+      "time": "2026-10-20 10:31:16",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【國家發展改革委：前三季度智慧經濟等新動能對經濟增長貢獻率超過40%】10月20日，國家發展改革委召開10月份新聞釋出會。國家發展改革委國民經濟綜合司副司長左剛表示，前三季度，中國經濟頂壓前行，穩中有進，動能向新，結構向優，展現出強大的韌性與活力，可以用“穩、新、韌”三個字來概括。其中，“穩”就是宏觀經濟穩健前行，主要表現在經濟增長保持在合理區間；“新”就是新動能加速成長，帶動作用不斷增強。前三季度，高階製造、智慧經濟、現代服務等新動能對經濟增長的貢獻率超過40%。前三季度創新藥對外技術授權約1300億美元，接近去年全年；“韌”就是經濟韌性鞏固增強，主要表現在糧食、能源採購鏈安全保障有力有效，克服自然災害多發等不利影響。"
+    },
+    {
+      "id": "5154901",
+      "time": "2026-10-20 10:31:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報102450元/噸，較上日16:30價格上漲700元/噸。"
+    },
+    {
+      "id": "mkt:01a15725-a1cf-7ee0-a8f4-5b45831927d8",
+      "time": "2026-10-20 10:30:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Shenwan Hongyuan chief economist Zhao Wei says China to follow N-shaped recovery】China Q3 GDP rose 4.5% YoY. Shenwan Hongyuan chief economist Zhao Wei said the domestic economy will undergo an N-shaped recovery, with Q4 likely characterised by sustained strong exports and marginal domestic-demand repair. September data showed marginal improvement in both external and domestic demand; overall growth is expected to drift modestly higher in Q4. Exports: short-term China‑EU trade disruption is limited; an AI-led capex cycle and a rebound in US imports should support continued high export growth. Investment: developer financing stress will likely continue to weigh on property investment, but faster implementation of existing domestic policy and earlier profit gains should provide lagged support, leaving overall investment on a recovery path in Q4. Consumption: household spending should continue a modest rebound and remain broadly stable."
+    },
     {
       "id": "5154900",
       "time": "2026-10-20 10:28:22",
@@ -9,6 +69,15 @@
         "公司"
       ],
       "text": "【通靈股份等成立汽車部件新公司】企查查APP顯示，近日，江蘇靈珺汽車部件有限公司成立，經營範圍包含：汽車零部件及配件製造；汽車零配件批發；照明器具製造；照明器具銷售等。企查查股權穿透顯示，該公司由通靈股份等共同持股。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610203901041732",
+      "time": "2026-10-20 10:28:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【四川：2026年前三季度GDP5.21萬億元 同比增長4.9%】記者在四川省前三季度經濟形勢新聞釋出會上獲悉，根據地區生產總值統一核算結果，2026年前三季度四川地區生產總值為52121.45億元，按不變價格計算，同比增長4.9%。"
     },
     {
       "id": "te:markets:593270",
