@@ -1,7 +1,259 @@
 {
-  "updated": "2026-10-20 21:59:37",
-  "count": 13514,
+  "updated": "2026-10-20 22:03:31",
+  "count": 13511,
   "items": [
+    {
+      "id": "5156345",
+      "time": "2026-10-20 22:03:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就美以竊取商業秘密為由制裁中國企業答記者問】商務部新聞發言人表示，中方敦促美方正確看待中國企業取得的長足發展，停止抹黑打壓，營造公平競爭的市場環境，維護中美經貿合作大局。中方敦促美方儘快糾正錯誤做法，否則將採取必要措施予以回應，堅定維護中國企業正當合法權益。（商務部）"
+    },
+    {
+      "id": "5156344",
+      "time": "2026-10-20 22:02:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "日立美洲公司與潘世奇車隊延長印地賽車贊助協議。"
+    },
+    {
+      "id": "5156343",
+      "time": "2026-10-20 22:02:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昆明軌道交通集團釋出情況說明】有媒體報道，近日，上海票據交易所網站披露，昆明軌道交通集團有限公司發生票據逾期事件。10月20日，昆明軌道交通集團有限公司釋出情況說明稱，上述訊息不實。公司所有商業承兌匯票均已足額完成現金兌付，不存在拖欠票款、逾期未付的情形。目前票交所逾期清單中剩餘60萬元記錄未移除，核心原因是該筆票據涉及多方持票人之間的清償糾紛，導致逾期記錄無法銷項。針對該事項，公司已依法向屬地人民法院提起訴訟，要求相關持票人履行配合義務，儘快完成票據核銷流程，清除不實公示資訊。（第一財經）"
+    },
+    {
+      "id": "mkt:01a1599f-4b12-7ee0-a908-ab57d004f98f",
+      "time": "2026-10-20 22:02:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【MOFCOM spokesman on US, Israel sanctions over alleged trade-secret theft】A MOFCOM spokesman urged the US to recognize the significant progress of Chinese companies, stop smearing and suppressing them, and ensure a level playing field to safeguard broader Sino‑US trade and economic cooperation. He called on the US to promptly correct its mistaken actions and warned China will take necessary measures to respond, resolutely defending the legitimate rights and interests of Chinese firms."
+    },
+    {
+      "id": "5156342",
+      "time": "2026-10-20 22:02:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國9月份二手房簽約量環比下降7.3%，至紀錄新低。"
+    },
+    {
+      "id": "5156341",
+      "time": "2026-10-20 22:02:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "據Tradeweb資料顯示，CoreWeave以美元計價的債券價格暴跌。"
+    },
+    {
+      "id": "5156340",
+      "time": "2026-10-20 22:01:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其國防部長：土耳其軍隊將留在伊拉克和敘利亞，直到邊境安全得到保障。"
+    },
+    {
+      "id": "5156339",
+      "time": "2026-10-20 22:01:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【外媒：谷歌在倫敦的雲服務中斷，多家銀行與金融公司受影響，谷歌致歉】 綜合英國《每日電訊報》、路透社等媒體20日報道，谷歌公司在英國倫敦的雲服務中斷，多家銀行、金融公司與公共服務提供商的網站和移動應用程式受到影響。 《每日電訊報》還報道稱，谷歌在一份宣告中表示，該公司在“西歐二區”的多項服務出現問題，團隊正在處理。“我們向所有受此次服務中斷影響的人員道歉。”報道還稱，谷歌晚些時候表示，此次服務中斷由“電力問題”造成。另據英國天空新聞網報道，英國首相的發言人稱，首相府已注意到上述訊息，政府正與谷歌公司聯絡，以使服務儘快恢復。（環球網）"
+    },
+    {
+      "id": "mkt:01a1599e-07c8-7ee0-a908-a620576f8541",
+      "time": "2026-10-20 22:01:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's defense minister said Turkish forces will remain in Iraq and Syria until border security is guaranteed."
+    },
+    {
+      "id": "mkt:01a1599d-e815-7ee0-a908-9c388bd93dde",
+      "time": "2026-10-20 22:01:23",
+      "tags": [
+        "MKT News",
+        "LLY.N",
+        "Impact bullish"
+      ],
+      "text": "Eli Lilly (LLY.N) shares rose more than 5% to a record high."
+    },
+    {
+      "id": "5156338",
+      "time": "2026-10-20 22:01:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【LG家電自研AI半導體搭載量兩年增10倍】LG電子正在快速擴大自研半導體在家電產品上的搭載規模。 LG電子系統級晶片（SoC）中心開發的家電專用AI半導體DQ‑C系列去年在家電端的搭載量突破100萬顆；相較於兩年前10萬顆的水平，增幅超10倍。業內預計今年出貨量將達到數百萬顆級別。LG電子計劃持續強化家電、電視所用晶片的自研設計能力，在家電賽道掌握技術主導權，打造競品難以復刻的家電功能，同時保障裝置安全性。"
+    },
+    {
+      "id": "5156337",
+      "time": "2026-10-20 22:01:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "禮來公司股價上漲高達5.2%，創歷史新高。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202610203901617889",
+      "time": "2026-10-20 22:01:05",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國9月成屋簽約銷售環比下降7.3%，跌至歷史最低水平。"
+    },
+    {
+      "id": "5156336",
+      "time": "2026-10-20 22:00:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭議會就放寬墮胎限制進行投票。"
+    },
+    {
+      "id": "mkt:01a1599d-672d-7ee0-a908-95ec2803ec2c",
+      "time": "2026-10-20 22:00:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israel's defense minister KATZ said if Hezbollah coordinates with Iran to attack Israel it would face heavy strikes, and the IDF is prepared to push further into Nabatieh and the Litani River valley."
+    },
+    {
+      "id": "5156335",
+      "time": "2026-10-20 22:00:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "TRACE SYSTEMS贏得美國和平隊後續合同，將提供全天候全球衛星通訊服務。"
+    },
+    {
+      "id": "5156334",
+      "time": "2026-10-20 22:00:39",
+      "tags": [
+        "觀點"
+      ],
+      "text": "SEDA Experts 聘請高盛前合夥人 Richard Campbell-Breeden，併購、私募及企業融資業務版圖擴張。"
+    },
+    {
+      "id": "mkt:01a1599d-2e57-7ee0-a908-8da35447b56f",
+      "time": "2026-10-20 22:00:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. pending home sales index (not seasonally adjusted) down 12.6% YoY in September; consensus -3.9%, prior -4.9%."
+    },
+    {
+      "id": "mkt:01a1599d-112a-7ee0-a908-8577509a3a42",
+      "time": "2026-10-20 22:00:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Pending Home Sales Index NSA (YoY) (Sep) | actual -12.6% | consensus -3.9% | previous -4.90%"
+    },
+    {
+      "id": "5156333",
+      "time": "2026-10-20 22:00:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國9月成屋簽約銷售指數環比 -7.3%，預期 -0.5%，前值 0.3%。\n美國9月成屋簽約銷售指數同比 -12.6%，預期 -3.9%，前值 -4.9%。"
+    },
+    {
+      "id": "mkt:01a1599c-ca5f-7ee0-a908-7ce2705bb6f3",
+      "time": "2026-10-20 22:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US Pending Home Sales Index (MoM) -7.3% in September vs. -0.5% expected; prior +0.3%."
+    },
+    {
+      "id": "mkt:01a1599c-c1b9-7ee0-a908-7654e61773b2",
+      "time": "2026-10-20 22:00:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "U.S. pending home sales index (September) 66, prior 71.2."
+    },
+    {
+      "id": "mkt:01a1599c-a418-7ee0-a908-60e6d9fb76db",
+      "time": "2026-10-20 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Pending Home Sales Index (Sep) | actual 66 | previous 71.2"
+    },
+    {
+      "id": "mkt:01a1599c-a435-7ee0-a908-6992485d4f84",
+      "time": "2026-10-20 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Pending Home Sales Index (MoM) (Sep) | actual -7.3% | consensus -0.50% | previous 0.30%"
+    },
+    {
+      "id": "5156332",
+      "time": "2026-10-20 21:59:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨： 倘若真主黨配合伊朗一同襲擊以色列，它將遭受沉重打擊。以色列國防軍準備向納巴蒂耶、利塔尼河谷更多區域推進 。"
+    },
+    {
+      "id": "5156331",
+      "time": "2026-10-20 21:59:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾和諾德表示，其新一代減肥藥CagriSema在肥胖或超重成年女性中實現了平均25%的體重降幅。"
+    },
     {
       "id": "mkt:01a1599b-0ac5-7ee0-a908-5a9dd870a1e6",
       "time": "2026-10-20 21:58:15",
@@ -123429,274 +123681,6 @@
         "國際"
       ],
       "text": "美國財政部：貝森特與韓國官員舉行視訊通話。"
-    },
-    {
-      "id": "mkt:01a13593-4fc7-7ee0-a859-fa91c6ccdd7b",
-      "time": "2026-10-13 22:03:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Goldman Sachs CEO Solomon said a middle ground exists between stopping AI development and allowing it to proceed without safety guardrails. He said innovation must be advanced while all parties are held accountable."
-    },
-    {
-      "id": "5142632",
-      "time": "2026-10-13 22:03:17",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【葉門首都傳出爆炸聲】最新訊息：據葉門胡塞武裝控制的馬西拉電視臺報道，位於葉門首都薩那的葉門石油公司設施今天（10月13日）遭襲。（CCTV國際時訊）"
-    },
-    {
-      "id": "5142631",
-      "time": "2026-10-13 22:02:53",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長談人工智慧：“我們既要推動創新，也要要求責任擔當。"
-    },
-    {
-      "id": "5142630",
-      "time": "2026-10-13 22:02:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國金融行為監管局（FCA）：目前倫敦和曼徹斯特的警察局中，全部3名嫌疑人正接受FCA問話。"
-    },
-    {
-      "id": "5142629",
-      "time": "2026-10-13 22:02:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際鎳研究小組（INSG）預計，2027年全球鎳需求將增至400萬噸，2026年全球鎳需求預計為385萬噸。"
-    },
-    {
-      "id": "mkt:01a13592-4d81-7ee0-a859-f6c5e8703846",
-      "time": "2026-10-13 22:02:22",
-      "tags": [
-        "MKT News",
-        "Commodities"
-      ],
-      "text": "International Nickel Study Group (INSG) forecasts global nickel production will rise to 4.07 mln tonnes in 2027 from 3.87 mln tonnes in 2026."
-    },
-    {
-      "id": "5142628",
-      "time": "2026-10-13 22:02:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta在西非詐騙打擊行動中移除逾370萬個賬戶。"
-    },
-    {
-      "id": "5142627",
-      "time": "2026-10-13 22:02:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際鎳研究小組（INSG）預計，2027年全球鎳產量將增至407萬噸，2026年全球鎳產量預計為387萬噸。"
-    },
-    {
-      "id": "5142626",
-      "time": "2026-10-13 22:02:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "現代汽車：計劃擴大現代汽車印度公司與起亞印度公司的整體產能。"
-    },
-    {
-      "id": "5142625",
-      "time": "2026-10-13 22:02:06",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長表示：“我們會密切監控市場走勢。目前來看，市場活躍度狀況良好。”"
-    },
-    {
-      "id": "5142624",
-      "time": "2026-10-13 22:01:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "現代汽車集團將斥資約7億美元在印度建設研發中心。"
-    },
-    {
-      "id": "5142623",
-      "time": "2026-10-13 22:01:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta與其他14家科技企業攜手全球執法機構，打擊西非詐騙犯罪網路。"
-    },
-    {
-      "id": "5142622",
-      "time": "2026-10-13 22:01:30",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "摩根大通股價抹去3%的漲幅後轉跌。"
-    },
-    {
-      "id": "5142621",
-      "time": "2026-10-13 22:01:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "盈透證券：符合條件的客戶可質押以太坊。"
-    },
-    {
-      "id": "5142620",
-      "time": "2026-10-13 22:01:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國將保護企業免受遵守阿根廷措施的壓力。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202610133894426436",
-      "time": "2026-10-13 22:01:04",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國9月成屋銷售年化率為399萬套，高於市場預期的395萬套。"
-    },
-    {
-      "id": "5142619",
-      "time": "2026-10-13 22:00:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國金融行為監管局（FCA）：10月13日，FCA與英國國家打擊犯罪局（NCA）開展聯合行動，逮捕了3名個人。"
-    },
-    {
-      "id": "5142618",
-      "time": "2026-10-13 22:00:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "現代汽車集團計劃2026年至2032年期間在印度投資155億美元。"
-    },
-    {
-      "id": "5142617",
-      "time": "2026-10-13 22:00:45",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛首席財務官表示，如果利率波動性進一步大幅上升，可能會帶來逆風因素。"
-    },
-    {
-      "id": "mkt:01a13590-caba-7ee0-a859-eaf2fbae8cee",
-      "time": "2026-10-13 22:00:43",
-      "tags": [
-        "MKT News",
-        "GS.O",
-        "Impact bearish"
-      ],
-      "text": "Goldman Sachs CFO said increased interest-rate volatility could pose headwinds for the firm."
-    },
-    {
-      "id": "5142616",
-      "time": "2026-10-13 22:00:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國航發將攜近90型航空發動機等產品參加第十六屆中國航展，其中近半數為首次亮相】在今日舉辦的第十六屆中國國際航空航天博覽會新聞釋出會上，公司相關人士表示，將攜近90型航空發動機、燃氣輪機以及相關試驗裝備、典型零部件和先進材料等產品參展，其中近半數為首次亮相。"
-    },
-    {
-      "id": "mkt:01a13590-a40e-7ee0-a859-e7786319318b",
-      "time": "2026-10-13 22:00:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Goldman Sachs CEO Solomon acknowledged broader concerns about accelerating AI development and the uncontrolled advancement of frontier models."
-    },
-    {
-      "id": "5142615",
-      "time": "2026-10-13 22:00:11",
-      "tags": [
-        "資料",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國9月成屋銷售折年率升至399萬套，預期為395萬套。"
-    },
-    {
-      "id": "mkt:01a13590-3e82-7ee0-a859-d97bb4d5790f",
-      "time": "2026-10-13 22:00:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. existing home sales (annualized monthly rate) +1.5% in September; prior revised from -2.0% to -3.2%."
-    },
-    {
-      "id": "mkt:01a13590-38ce-7ee0-a859-d6f3358f180a",
-      "time": "2026-10-13 22:00:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "U.S. existing‑home sales in September annualized at 3.99 mln, above consensus 3.95 mln; August revised down to 3.93 mln from 3.98 mln."
-    },
-    {
-      "id": "5142614",
-      "time": "2026-10-13 22:00:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國宣佈對與福克蘭群島有關的企業採取保護措施。"
-    },
-    {
-      "id": "mkt:01a13590-1fd0-7ee0-a859-c4d512c85b59",
-      "time": "2026-10-13 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Existing Home Sales Total SAAR (Sep) | actual 3990000M | consensus 3950000M | previous 3980000M"
-    },
-    {
-      "id": "mkt:01a13590-1fd3-7ee0-a859-cf311f61b2ea",
-      "time": "2026-10-13 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Existing Home Sales SAAR (MoM) (Sep) | actual 1.5% | previous -2.00%"
-    },
-    {
-      "id": "5142613",
-      "time": "2026-10-13 21:59:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門胡塞武裝稱，他們正在應對針對薩那的沙特襲擊。"
     }
   ]
 }
