@@ -1,7 +1,53 @@
 {
-  "updated": "2026-10-21 02:16:39",
-  "count": 13471,
+  "updated": "2026-10-21 02:20:23",
+  "count": 13470,
   "items": [
+    {
+      "id": "5156777",
+      "time": "2026-10-21 02:18:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦陸軍司令及隨行代表團在與伊朗高階官員磋商後，於此前一小時離開德黑蘭。"
+    },
+    {
+      "id": "mkt:01a15a89-63b1-7ee0-a90e-339155cf0d92",
+      "time": "2026-10-21 02:18:35",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "Bank of England MPC member Greene said inflation expectations are anchored but remain above normal levels."
+    },
+    {
+      "id": "5156776",
+      "time": "2026-10-21 02:18:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：從這個國家被竊取的資金規模高達數萬億美元。"
+    },
+    {
+      "id": "5156775",
+      "time": "2026-10-21 02:17:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將安排普京與澤連斯基和特朗普進行面對面會談。"
+    },
+    {
+      "id": "mkt:01a15a88-46a8-7ee0-a90e-2bedb43f486c",
+      "time": "2026-10-21 02:17:22",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Politico reports US Middle East envoy Wittkoff will seek to facilitate direct talks between Russian President Putin, US President Trump and Ukrainian President ZELENSKIY aimed at securing a ceasefire."
+    },
     {
       "id": "5156774",
       "time": "2026-10-21 02:15:37",
@@ -123106,57 +123152,6 @@
         "其他"
       ],
       "text": "蓋亞那考慮縮小液化天然氣專案規模。"
-    },
-    {
-      "id": "te:markets:591604",
-      "time": "2026-10-14 02:20:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 3.25% — Top commodity losers are Lithium Carbonate (-3.25%), Silver (-1.65%), Platinum (-1.22%) and Gold (-0.32%)."
-    },
-    {
-      "id": "5143010",
-      "time": "2026-10-14 02:19:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗海軍：今日下午，一艘關閉追蹤系統、試圖穿越管制區域的違規油輪，在霍爾木茲海峽東部海域起火受損。該船被伊朗海軍監測小隊發現。"
-    },
-    {
-      "id": "5143009",
-      "time": "2026-10-14 02:17:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄再次呼籲日本放棄敵對行動】俄羅斯外交部網站10月13日釋出訊息說，俄外交部發言人扎哈羅娃就“一名日本駐俄記者因涉嫌從事間諜活動被俄拘捕”一事表示，這起事件將進一步給俄日關係蒙上陰影。俄方再次呼籲日本當局醒悟，改弦更張，放棄對俄敵對行動。（CCTV國際時訊）"
-    },
-    {
-      "id": "5143008",
-      "time": "2026-10-14 02:17:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "KKR私募股權合夥人伍德：小型管理公司很難實現價值增長。"
-    },
-    {
-      "id": "5143007",
-      "time": "2026-10-14 02:17:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "KKR私募股權合夥人伍德：預計私募股權退出將迎來創紀錄的一年。"
-    },
-    {
-      "id": "5143006",
-      "time": "2026-10-14 02:16:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "KKR私募股權合夥人伍德：不同基金管理人之間的收益分化程度處於歷史最高水平。"
     }
   ]
 }

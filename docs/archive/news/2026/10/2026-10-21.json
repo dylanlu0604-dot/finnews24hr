@@ -1,7 +1,53 @@
 {
   "date": "2026-10-21",
-  "count": 247,
+  "count": 252,
   "items": [
+    {
+      "id": "5156777",
+      "time": "2026-10-21 02:18:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦陸軍司令及隨行代表團在與伊朗高階官員磋商後，於此前一小時離開德黑蘭。"
+    },
+    {
+      "id": "mkt:01a15a89-63b1-7ee0-a90e-339155cf0d92",
+      "time": "2026-10-21 02:18:35",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "Bank of England MPC member Greene said inflation expectations are anchored but remain above normal levels."
+    },
+    {
+      "id": "5156776",
+      "time": "2026-10-21 02:18:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：從這個國家被竊取的資金規模高達數萬億美元。"
+    },
+    {
+      "id": "5156775",
+      "time": "2026-10-21 02:17:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將安排普京與澤連斯基和特朗普進行面對面會談。"
+    },
+    {
+      "id": "mkt:01a15a88-46a8-7ee0-a90e-2bedb43f486c",
+      "time": "2026-10-21 02:17:22",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Politico reports US Middle East envoy Wittkoff will seek to facilitate direct talks between Russian President Putin, US President Trump and Ukrainian President ZELENSKIY aimed at securing a ceasefire."
+    },
     {
       "id": "5156774",
       "time": "2026-10-21 02:15:37",
