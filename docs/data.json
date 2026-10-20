@@ -1,7 +1,26 @@
 {
-  "updated": "2026-10-21 02:20:23",
-  "count": 13470,
+  "updated": "2026-10-21 02:24:07",
+  "count": 13471,
   "items": [
+    {
+      "id": "5156778",
+      "time": "2026-10-21 02:20:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使威特科夫將向普京提議舉行三國領導人峰會。"
+    },
+    {
+      "id": "te:markets:593537",
+      "time": "2026-10-21 02:20:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silicon Falls by 1.57% — Top commodity losers are Silicon (-1.57%), Aluminum Alloy (-0.77%), Lithium Carbonate (-0.58%) and Gold (-0.38%). Gains are led by Silver (1.43%), Platinum (0.86%) and Copper (0.72%)."
+    },
     {
       "id": "5156777",
       "time": "2026-10-21 02:18:51",
@@ -123144,14 +123163,6 @@
         "其他"
       ],
       "text": "紐約市長馬姆達尼與市議會達成協議，將禁止馬車運營。"
-    },
-    {
-      "id": "5143011",
-      "time": "2026-10-14 02:21:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "蓋亞那考慮縮小液化天然氣專案規模。"
     }
   ]
 }
