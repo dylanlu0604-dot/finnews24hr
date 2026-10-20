@@ -1,7 +1,89 @@
 {
-  "updated": "2026-10-20 09:01:20",
-  "count": 12803,
+  "updated": "2026-10-20 09:05:11",
+  "count": 12801,
   "items": [
+    {
+      "id": "5154743",
+      "time": "2026-10-20 09:04:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱特朗普政府尚未批准向烏轉讓“愛國者”攔截彈 】據美國《華盛頓郵報》19日報道，特朗普政府尚未批准向烏克蘭轉讓“愛國者”導彈防禦系統的攔截彈。報道援引美國官員和多名知情人士的話說，未批准轉讓的部分“愛國者”攔截彈來自與烏克蘭關係友好的國家。根據相關協議，此類轉讓需經美國防部長赫格塞思批准。目前，赫格塞思尚未正式否決這些轉讓，但也未完成批准所需的必要程式。赫格塞思此前批准了美國向烏克蘭提供的部分援助。報道還說，轉讓“愛國者”攔截彈的批准延誤，恰逢美國總統特朗普和烏克蘭總統澤連斯基關係日益緊張之際。特朗普近日多次抨擊澤連斯基，稱澤連斯基“不想解決”烏克蘭危機，不值得美國與之打交道。烏克蘭稱其使用的美國“星鏈”系統遭限速，並且未收到美方針對俄軍彈道導彈襲擊的預警。美方對烏方上述說法均予以否認。（新華社）"
+    },
+    {
+      "id": "5154742",
+      "time": "2026-10-20 09:04:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.3%至32.545。"
+    },
+    {
+      "id": "5154741",
+      "time": "2026-10-20 09:03:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "根據英國金融時報報道，激進對沖基金 Starboard Value 已建立美國特種化學品集團 Solstice Advanced Materials 的股份，並正推動改進措施以提升其股價。此舉旨在幫助該公司在放棄以 145 億美元收購 Element Solutions 的大型交易後，重建股東信任並釋放潛在價值。"
+    },
+    {
+      "id": "5154740",
+      "time": "2026-10-20 09:02:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌4%，現報4916.00元。"
+    },
+    {
+      "id": "5154739",
+      "time": "2026-10-20 09:02:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通與NTT DOCOMO簽署協議，推進私有云發展。"
+    },
+    {
+      "id": "mkt:01a156d4-0a03-7ee0-a8f1-9e57dab2d163",
+      "time": "2026-10-20 09:01:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 0.94% to 890.5 yuan/gram at the open on Tuesday, Oct 20; silver T+D dropped 1.27% to 13,753.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a156d3-aad8-7ee0-a8f1-944a455e76bc",
+      "time": "2026-10-20 09:01:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) opened 235.16 points lower, down 0.5%, at 46,586.92 on Oct 20 (Tuesday)."
+    },
+    {
+      "id": "mkt:01a156d3-a874-7ee0-a8f1-8ce973ce758e",
+      "time": "2026-10-20 09:01:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【October LPR: 1-year and 5-year-plus rates unchanged】China's October loan prime rates: 1-year LPR 3.00% (unchanged from September); 5-year-plus LPR 3.50% (unchanged from September)."
+    },
+    {
+      "id": "5154738",
+      "time": "2026-10-20 09:00:37",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【10月LPR報價出爐：5年期和1年期利率均維持不變】10月貸款市場報價利率（LPR）報價出爐：5年期以上LPR為3.5%，上月為3.5%。1年期LPR為3%，上月為3%。"
+    },
     {
       "id": "5154737",
       "time": "2026-10-20 09:00:31",
@@ -117126,112 +117208,6 @@
         "市場"
       ],
       "text": "布倫特原油日內跌1%，現報105.58美元/桶。"
-    },
-    {
-      "id": "mkt:01a132ca-c0b1-7ee0-a846-5ab18308455e",
-      "time": "2026-10-13 09:05:10",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact mixed"
-      ],
-      "text": "The Information reports Microsoft is reorganizing its Azure cloud division as part of an AI-driven overhaul."
-    },
-    {
-      "id": "te:economy:591284",
-      "time": "2026-10-13 09:04:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Inflation Risks Prompt September Rate Hike: RBA Minutes — Minutes from the Reserve Bank of Australia’s September meeting showed that policymakers unanimously raised the cash rate by 25bps to 4.6%, citing persistent inflation risks. Several upside threats flagged in August had materialised, including Middle East tensions driving oil above forecasts, global cost pressures partly tied to AI demand, and stronger domestic activity. Inflation readings exceeded expectations, with businesses reporting widespread cost pass-throughs. Short-term expectations stayed high, raising concern about medium-term drift. While the labour market eased broadly as anticipated, demand remained firm and capacity pressures stronger than assessed. Members warned that delaying action risked entrenching inflation after a prolonged period above target. They also noted that holding steady could weaken the Australian dollar as other central banks tightened. The priority remained returning inflation to target, with forecasts pointing to a mid-2027 return to the midpoint."
-    },
-    {
-      "id": "5140349",
-      "time": "2026-10-13 09:04:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元下跌0.3%至31.992。"
-    },
-    {
-      "id": "mkt:01a132c9-b0cd-7ee0-a846-55ba1b13841e",
-      "time": "2026-10-13 09:04:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea KOSPI plunges about 4% intraday, triggers sell-side circuit breaker after two months】About one hour after Tuesday's open the KOSPI fell roughly 4% and triggered a sell-side circuit breaker, suspending sell-order quote effectiveness for five minutes amid KOSPI 200 futures volatility. At the trigger KOSPI 200 futures quoted 955.02, down 51.20 points or 5.08% from the prior close. The sell circuit breaches when KOSPI 200 futures drop more than 5% and persist for one minute. This is the first market circuit breaker since Aug. 20 and the first sell-side trigger since Aug. 19."
-    },
-    {
-      "id": "5140348",
-      "time": "2026-10-13 09:03:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：對美國製裁國際刑事法院深表關切。"
-    },
-    {
-      "id": "5140347",
-      "time": "2026-10-13 09:03:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【馬斯克砸3.66億美元助選共和黨】據美國《紐約時報》等媒體當地時間10月12日報道，美國企業家、億萬富翁馬斯克在2026年美國中期選舉週期（2025年1月1日開始）迄今已花費約3.66億美元，其中自今年7月以來投入了2.76億美元，以幫助共和黨保住對國會的控制權。競選財務記錄還顯示，這位世界首富很可能已成為今年美國中期選舉單筆投入最大的政治捐款人。據《紐約時報》報道，馬斯克還透過不披露捐款人資訊的團體捐贈了更多資金。"
-    },
-    {
-      "id": "5140346",
-      "time": "2026-10-13 09:02:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟重組Azure雲端計算部門以推進人工智慧改革。"
-    },
-    {
-      "id": "te:economy:591283",
-      "time": "2026-10-13 09:02:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Foreign Direct Investment",
-        "Importance 1"
-      ],
-      "text": "Philippines FDI Drops 44.1% in July — Net foreign direct investment (FDI) in the Philippines plunged by 44.1% year-on-year to USD 689 million in July 2026. The decline was driven by lower net inflows in net equity capital investments other than reinvestment of earnings and net debt instruments, dropping 55.5% and 49.1%, respectively, which more than offset the 39.9% increase in reinvestment of earnings. In the first seven months of the year, net FDI inflows decreased by 23.9% to USD 4.07 billion, reflecting lower net inflows across all major FDI components, such as net equity capital investments other than reinvestment of earnings (-6.9%), reinvestment of earnings (-14.2%), and net debt instruments (-30.6%).Capital placements came primarily from Japan, the United States, and Singapore. These funds were channeled largely into the manufacturing, financial and insurance, and real estate industries."
-    },
-    {
-      "id": "mkt:01a132c7-8344-7ee0-a846-4beb8d624c87",
-      "time": "2026-10-13 09:01:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan Weighted Index opened down 830.97 points (-1.69%) at 48,470.99 on Oct 13 (Tuesday)."
-    },
-    {
-      "id": "mkt:01a132c7-7f2d-7ee0-a846-438b6d452e3b",
-      "time": "2026-10-13 09:01:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D fell 0.8% in early trade on Tuesday, Oct. 13, to 897.64 yuan/gram; Shanghai Gold Exchange silver T+D fell 1.75% to 14,563.0 yuan/kg."
-    },
-    {
-      "id": "5140345",
-      "time": "2026-10-13 09:01:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1134.08美元/盎司。"
     }
   ]
 }

@@ -1,7 +1,89 @@
 {
   "date": "2026-10-20",
-  "count": 494,
+  "count": 503,
   "items": [
+    {
+      "id": "5154743",
+      "time": "2026-10-20 09:04:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱特朗普政府尚未批准向烏轉讓“愛國者”攔截彈 】據美國《華盛頓郵報》19日報道，特朗普政府尚未批准向烏克蘭轉讓“愛國者”導彈防禦系統的攔截彈。報道援引美國官員和多名知情人士的話說，未批准轉讓的部分“愛國者”攔截彈來自與烏克蘭關係友好的國家。根據相關協議，此類轉讓需經美國防部長赫格塞思批准。目前，赫格塞思尚未正式否決這些轉讓，但也未完成批准所需的必要程式。赫格塞思此前批准了美國向烏克蘭提供的部分援助。報道還說，轉讓“愛國者”攔截彈的批准延誤，恰逢美國總統特朗普和烏克蘭總統澤連斯基關係日益緊張之際。特朗普近日多次抨擊澤連斯基，稱澤連斯基“不想解決”烏克蘭危機，不值得美國與之打交道。烏克蘭稱其使用的美國“星鏈”系統遭限速，並且未收到美方針對俄軍彈道導彈襲擊的預警。美方對烏方上述說法均予以否認。（新華社）"
+    },
+    {
+      "id": "5154742",
+      "time": "2026-10-20 09:04:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.3%至32.545。"
+    },
+    {
+      "id": "5154741",
+      "time": "2026-10-20 09:03:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "根據英國金融時報報道，激進對沖基金 Starboard Value 已建立美國特種化學品集團 Solstice Advanced Materials 的股份，並正推動改進措施以提升其股價。此舉旨在幫助該公司在放棄以 145 億美元收購 Element Solutions 的大型交易後，重建股東信任並釋放潛在價值。"
+    },
+    {
+      "id": "5154740",
+      "time": "2026-10-20 09:02:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌4%，現報4916.00元。"
+    },
+    {
+      "id": "5154739",
+      "time": "2026-10-20 09:02:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通與NTT DOCOMO簽署協議，推進私有云發展。"
+    },
+    {
+      "id": "mkt:01a156d4-0a03-7ee0-a8f1-9e57dab2d163",
+      "time": "2026-10-20 09:01:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 0.94% to 890.5 yuan/gram at the open on Tuesday, Oct 20; silver T+D dropped 1.27% to 13,753.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a156d3-aad8-7ee0-a8f1-944a455e76bc",
+      "time": "2026-10-20 09:01:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) opened 235.16 points lower, down 0.5%, at 46,586.92 on Oct 20 (Tuesday)."
+    },
+    {
+      "id": "mkt:01a156d3-a874-7ee0-a8f1-8ce973ce758e",
+      "time": "2026-10-20 09:01:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【October LPR: 1-year and 5-year-plus rates unchanged】China's October loan prime rates: 1-year LPR 3.00% (unchanged from September); 5-year-plus LPR 3.50% (unchanged from September)."
+    },
+    {
+      "id": "5154738",
+      "time": "2026-10-20 09:00:37",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【10月LPR報價出爐：5年期和1年期利率均維持不變】10月貸款市場報價利率（LPR）報價出爐：5年期以上LPR為3.5%，上月為3.5%。1年期LPR為3%，上月為3%。"
+    },
     {
       "id": "5154737",
       "time": "2026-10-20 09:00:31",
