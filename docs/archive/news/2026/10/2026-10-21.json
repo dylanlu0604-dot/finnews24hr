@@ -1,7 +1,20 @@
 {
   "date": "2026-10-21",
-  "count": 523,
+  "count": 524,
   "items": [
+    {
+      "id": "mkt:01a15b5c-b377-7ee0-a912-be7aad2f30b4",
+      "time": "2026-10-21 06:09:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "REUTERS SURVEY: 65% of respondents expect the Japanese government's new bond issuance in fiscal 2027 to remain below 40 trillion yen."
+    },
     {
       "id": "5156986",
       "time": "2026-10-21 06:04:03",

@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-21 06:06:12",
-  "count": 13516,
+  "updated": "2026-10-21 06:10:13",
+  "count": 13513,
   "items": [
+    {
+      "id": "mkt:01a15b5c-b377-7ee0-a912-be7aad2f30b4",
+      "time": "2026-10-21 06:09:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "REUTERS SURVEY: 65% of respondents expect the Japanese government's new bond issuance in fiscal 2027 to remain below 40 trillion yen."
+    },
     {
       "id": "5156986",
       "time": "2026-10-21 06:04:03",
@@ -123466,43 +123479,6 @@
         "其他"
       ],
       "text": "沙特領導的聯軍：在海爾季地區攔截並摧毀一枚導彈。"
-    },
-    {
-      "id": "mkt:01a13750-9420-7ee0-a862-ed51be6a9834",
-      "time": "2026-10-14 06:09:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "The Information reports OpenAI held early acquisition talks with security technology startup Trail of Bits."
-    },
-    {
-      "id": "5143151",
-      "time": "2026-10-14 06:08:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：OpenAI 正就收購網路安全初創企業 Trail of Bits 展開初步洽談。"
-    },
-    {
-      "id": "5143150",
-      "time": "2026-10-14 06:08:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "現代汽車集團（首爾公告）未來七年將在印度投資155億美元。"
-    },
-    {
-      "id": "mkt:01a1374d-bd9c-7ee0-a862-e4747d6dcde5",
-      "time": "2026-10-14 06:06:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "U.S. Secretary of State Rubio will visit Samarkand, Uzbekistan, and Mumbai and Jamnagar, India, from Oct. 17 to 22."
     }
   ]
 }
