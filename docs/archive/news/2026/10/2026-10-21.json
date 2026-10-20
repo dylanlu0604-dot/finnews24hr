@@ -1,7 +1,67 @@
 {
   "date": "2026-10-21",
-  "count": 321,
+  "count": 328,
   "items": [
+    {
+      "id": "5156822",
+      "time": "2026-10-21 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.52%，報24005.08點，高水137.34點。"
+    },
+    {
+      "id": "mkt:01a15aae-fd2e-7ee0-a90f-1e34f3115f1e",
+      "time": "2026-10-21 02:59:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Israeli military says it killed senior Hamas security official】On the evening of the 20th local time, the Israeli Defense Forces and Shin Bet said in a joint statement that a precision airstrike earlier that day in Gaza City killed senior Hamas security official Yassin."
+    },
+    {
+      "id": "mkt:01a15aae-a6c3-7ee0-a90f-1723ec84f2d5",
+      "time": "2026-10-21 02:59:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Putin and Zelensky do not need to be in the same room to sign a peace agreement."
+    },
+    {
+      "id": "5156821",
+      "time": "2026-10-21 02:58:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱打死哈馬斯安全機構高階成員】當地時間20日晚，以色列國防軍與以色列國家安全域性（辛貝特）發表聯合宣告，稱當天早些時候對加沙城地區發動精準空襲，打死了哈馬斯安全機構高階成員亞辛。（央視新聞）"
+    },
+    {
+      "id": "5156820",
+      "time": "2026-10-21 02:58:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：澤連斯基與普京很難直接會面，可透過其他方式簽署協議。"
+    },
+    {
+      "id": "mkt:01a15aad-f6f8-7ee0-a90f-09ec45e92597",
+      "time": "2026-10-21 02:58:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Russia is a large country; Ukraine is not."
+    },
+    {
+      "id": "5156819",
+      "time": "2026-10-21 02:57:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正與普京交涉，爭取被俄方扣押的美國公民哈伯德獲釋。"
+    },
     {
       "id": "mkt:01a15aac-d52f-7ee0-a90f-0759738ebafa",
       "time": "2026-10-21 02:57:18",
