@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-21 02:24:07",
-  "count": 13471,
+  "updated": "2026-10-21 02:27:52",
+  "count": 13468,
   "items": [
+    {
+      "id": "te:markets:593538",
+      "time": "2026-10-21 02:25:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Gains by 1.97% — Top commodity gainers are Cocoa (1.97%) and Palm Oil (1.07%). Biggest losers are Wheat (-1.92%) and Coffee (-1.77%)."
+    },
     {
       "id": "5156778",
       "time": "2026-10-21 02:20:45",
@@ -123127,42 +123138,6 @@
         "市場"
       ],
       "text": "上期所原油期貨夜盤收漲1.17%，報740.60元人民幣/桶。滬金夜盤收跌0.33%，滬銀收跌1.51%。"
-    },
-    {
-      "id": "5143014",
-      "time": "2026-10-14 02:26:29",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【紐約聯儲行長預計明年無需加息 稱通脹有望大幅放緩】紐約聯儲行長約翰·威廉姆斯表示，他仍認為今年年內再加息一次是合適的，但目前預計明年沒有升息必要。威廉姆斯週二表示：“我沒有改變自己的看法，依然認為再加息一次可能是合適之舉，至於加息之後，我目前預計無需採取更多行動。”"
-    },
-    {
-      "id": "5143013",
-      "time": "2026-10-14 02:25:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約市馬車將從2028年起被禁止上路。"
-    },
-    {
-      "id": "te:markets:591605",
-      "time": "2026-10-14 02:25:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Gains by 2.22% — Top commodity gainers are Cocoa (2.22%) and Sugar (1.25%). Biggest loser is Wheat (-0.54%)."
-    },
-    {
-      "id": "5143012",
-      "time": "2026-10-14 02:24:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約市長馬姆達尼與市議會達成協議，將禁止馬車運營。"
     }
   ]
 }
