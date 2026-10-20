@@ -1,7 +1,30 @@
 {
   "date": "2026-10-21",
-  "count": 506,
+  "count": 508,
   "items": [
+    {
+      "id": "5156978",
+      "time": "2026-10-21 05:48:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "城堡投資創始人格里芬：特朗普對盟友發起的關稅戰是一場災難，特朗普在中期選舉前的成績喜憂參半。"
+    },
+    {
+      "id": "mkt:01a15b48-91bd-7ee0-a912-7941c01d29ed",
+      "time": "2026-10-21 05:47:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【US, Ukraine and Europe reach preliminary consensus on next steps; US envoy Witkoff to meet Putin on Oct. 21】US officials said presidential envoy Witkoff will meet Russian President Putin on Oct. 21; Kushner will join by video. The US said prior consultations with Ukraine and European partners covered a comprehensive peace framework, including security guarantees, and that Ukraine has tabled new proposals which were discussed in detail. At the working level the US, Ukraine and Europe have reached a high degree of consensus on next steps, and the US plans to take those proposals into further discussions with Russia."
+    },
     {
       "id": "5156977",
       "time": "2026-10-21 05:45:52",
