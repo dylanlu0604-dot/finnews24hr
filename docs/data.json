@@ -1,7 +1,57 @@
 {
-  "updated": "2026-10-21 06:17:54",
-  "count": 13515,
+  "updated": "2026-10-21 06:21:44",
+  "count": 13520,
   "items": [
+    {
+      "id": "5156996",
+      "time": "2026-10-21 06:21:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4150美元/盎司，日內漲0.16%。"
+    },
+    {
+      "id": "5156994",
+      "time": "2026-10-21 06:19:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【覆盤三季度波動行情，基金重提再平衡】歷經三季度以來的市場波動之後，在最新披露的基金2026年三季報中，多位基金經理覆盤三季度操作，重點反思持倉集中度與風險控制，從最新投資策略看，均衡持倉成為多數基金經理的策略選擇。在基金經理們看來，市場風格有望再平衡，投資組合在進攻之餘，需要尋求收益風險比更優的平衡。（上證報）"
+    },
+    {
+      "id": "5156993",
+      "time": "2026-10-21 06:18:04",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲副主席Hauser：9 月勞動力報告明顯弱於預期。"
+    },
+    {
+      "id": "5156992",
+      "time": "2026-10-21 06:17:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4130美元/盎司，日內漲0.10%。"
+    },
+    {
+      "id": "5156991",
+      "time": "2026-10-21 06:17:47",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲副主席Hauser：產能約束比預期更為嚴峻。不能以當前通脹為目標，但它仍然重要。"
+    },
+    {
+      "id": "mkt:01a15b64-4472-7ee0-a912-d9e6e66ae1ec",
+      "time": "2026-10-21 06:17:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia deputy governor says current inflation cannot be used as the policy target, but it remains important."
+    },
     {
       "id": "mkt:01a15b64-0e31-7ee0-a912-d2980fc325d8",
       "time": "2026-10-21 06:17:26",
@@ -123489,17 +123539,6 @@
         "國際"
       ],
       "text": "【10月14日隔夜要聞一覽】\n1、美國總統特朗普13日在社交媒體發文，指責葉門胡塞武裝在美國中期選舉前蓄意推高油價。\n2、Meta推出人工智慧工具，讓使用者能夠塑造Facebook資訊流。\n3、沙特阿美公司位於沙特東部宰赫蘭的一棟行政辦公樓遭到襲擊，未造成人員受傷。\n4、美國銀行因反洗錢工作疏漏被處以 12 億美元罰款。\n5、OpenAI發現一臺精密錄音裝置被藏匿在公司一處辦公室內，已將此事移交聯邦調查局（FBI）。\n6、谷歌改版車載應用商店，新增多款娛樂應用。\n7、高通贏得針對安謀的陪審團裁決，安謀被判違反架構許可協議。特拉華州陪審團判定安謀向高通賠付象徵性賠償金2美元。\n8、英偉達執行長黃仁勳表示，公司計劃下週宣佈20億美元的歐洲AI投資，此前一年已投資80億美元。\n9、德國南部紐倫堡市的機場13日因一架客機發出劫機警報，暫停起降，警方出動特種部隊一度封鎖機場。涉事客機最終安全降落。"
-    },
-    {
-      "id": "mkt:01a13759-515d-7ee0-a862-ffad71b3f2b9",
-      "time": "2026-10-14 06:19:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper"
-      ],
-      "text": "【Rio Tinto Q3 copper output steady; iron ore shipments up 3% YoY】Rio Tinto's third-quarter copper production was steady as strong output at Mongolia's Oyu Tolgoi offset declines elsewhere. Copper accounted for more than one-third of Rio's 1H earnings; copper production in the three months to end-September was 205,000 tonnes. Iron ore remains Rio's largest revenue source; as the company gradually increases output from its Simandou JV in Guinea, Q3 iron ore shipments rose 3% YoY to 90.8 million tonnes."
     }
   ]
 }
