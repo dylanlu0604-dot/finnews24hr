@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-21 05:54:27",
-  "count": 13520,
+  "updated": "2026-10-21 05:58:17",
+  "count": 13519,
   "items": [
+    {
+      "id": "5156982",
+      "time": "2026-10-21 05:55:51",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲副主席Hauser：必須對供給衝擊做出反應，錨定通脹預期。"
+    },
+    {
+      "id": "mkt:01a15b4f-674e-7ee0-a912-ade2257e176b",
+      "time": "2026-10-21 05:54:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【SpaceX and Tesla form special committees to explore merger possibility】SpaceX (SPCX.O) and Tesla (TSLA.O) have each formed special committees of independent directors to explore a potential merger, Elon Musk said on SpaceX’s earnings call. Musk said he cannot participate in discussions because of a conflict of interest but called a tie‑up “a good idea.” He cited potential synergies in AI, chips, robotics and communications connectivity, but stressed a deal is not certain and that it would be “overstating” to say it is done. Any transaction would require approval from 50% of Tesla shareholders, which he described as a high threshold."
+    },
+    {
+      "id": "mkt:01a15b4e-fa99-7ee0-a912-a5d4c8770db9",
+      "time": "2026-10-21 05:54:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia deputy governor said the bank is still finalising its economic forecasts and it is uncertain what decision the board will make."
+    },
     {
       "id": "mkt:01a15b4e-be2e-7ee0-a912-9c5eed06be6c",
       "time": "2026-10-21 05:54:09",
@@ -123490,41 +123518,6 @@
         "MKT News"
       ],
       "text": "【Attack on ARAMCO administrative building in eastern Saudi Arabia】Oct. 14 local time — A Saudi energy ministry official said an administrative office building belonging to ARAMCO in Dhahran, eastern Saudi Arabia, was attacked. No injuries were reported. The incident sparked a small fire; authorities have responded and are taking necessary measures."
-    },
-    {
-      "id": "5143143",
-      "time": "2026-10-14 05:57:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沙特阿美公司一行政樓遭襲】當地時間10月14日，據沙特能源部一名負責人訊息，沙特阿美公司位於沙特東部宰赫蘭的一棟行政辦公樓遭到襲擊，未造成人員受傷。訊息稱，此次襲擊引發小範圍火災，相關部門已著手處置事件並採取必要措施。（央視新聞）"
-    },
-    {
-      "id": "5143142",
-      "time": "2026-10-14 05:57:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧將在印度會見高階官員與商界領袖。"
-    },
-    {
-      "id": "5143141",
-      "time": "2026-10-14 05:55:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧將在烏茲別克出席 C5+1 部長級會議。魯比奧將率領由 200 多名商界領袖組成的代表團。"
-    },
-    {
-      "id": "te:markets:591617",
-      "time": "2026-10-14 05:55:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Natural gas is up by 5.19% — Natural gas increased 5.19% to 3.3314 USD/MMBtu"
     }
   ]
 }

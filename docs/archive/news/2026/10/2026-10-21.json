@@ -1,7 +1,35 @@
 {
   "date": "2026-10-21",
-  "count": 515,
+  "count": 518,
   "items": [
+    {
+      "id": "5156982",
+      "time": "2026-10-21 05:55:51",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲副主席Hauser：必須對供給衝擊做出反應，錨定通脹預期。"
+    },
+    {
+      "id": "mkt:01a15b4f-674e-7ee0-a912-ade2257e176b",
+      "time": "2026-10-21 05:54:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【SpaceX and Tesla form special committees to explore merger possibility】SpaceX (SPCX.O) and Tesla (TSLA.O) have each formed special committees of independent directors to explore a potential merger, Elon Musk said on SpaceX’s earnings call. Musk said he cannot participate in discussions because of a conflict of interest but called a tie‑up “a good idea.” He cited potential synergies in AI, chips, robotics and communications connectivity, but stressed a deal is not certain and that it would be “overstating” to say it is done. Any transaction would require approval from 50% of Tesla shareholders, which he described as a high threshold."
+    },
+    {
+      "id": "mkt:01a15b4e-fa99-7ee0-a912-a5d4c8770db9",
+      "time": "2026-10-21 05:54:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia deputy governor said the bank is still finalising its economic forecasts and it is uncertain what decision the board will make."
+    },
     {
       "id": "mkt:01a15b4e-be2e-7ee0-a912-9c5eed06be6c",
       "time": "2026-10-21 05:54:09",
