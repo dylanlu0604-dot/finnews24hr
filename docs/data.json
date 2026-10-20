@@ -1,7 +1,71 @@
 {
-  "updated": "2026-10-20 10:26:37",
-  "count": 12981,
+  "updated": "2026-10-20 10:30:26",
+  "count": 12987,
   "items": [
+    {
+      "id": "5154900",
+      "time": "2026-10-20 10:28:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通靈股份等成立汽車部件新公司】企查查APP顯示，近日，江蘇靈珺汽車部件有限公司成立，經營範圍包含：汽車零部件及配件製造；汽車零配件批發；照明器具製造；照明器具銷售等。企查查股權穿透顯示，該公司由通靈股份等共同持股。"
+    },
+    {
+      "id": "te:markets:593270",
+      "time": "2026-10-20 10:27:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Zinc Holds Rebound — Zinc futures hovered above $3,700 per ton, holding onto a rebound from a more than two-month low of $3,664.9 per ton touched on October 16, amid persistent near-term supply tightness. Tight supply is particularly evident in Western markets, where zinc production fell 3.4% year-on-year in the first half of 2026 amid high energy costs and limited raw material availability. Investors are also watching the outcome of Nyrstar’s strategic review of its loss-making Budel smelter in the Netherlands, with potential operational changes posing a threat to supply. Meanwhile, China’s refined zinc production fell 1.9% month-on-month and 6.4% year-on-year in September. Adding to supply concerns, inventories monitored by the Shanghai Futures Exchange declined 1.5% from the previous week, providing further support for prices."
+    },
+    {
+      "id": "5154899",
+      "time": "2026-10-20 10:27:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天龍集團等成立電子材料新公司】企查查APP顯示，近日，廣東天龍電子材料有限公司成立，經營範圍包含：電子專用材料製造；電子專用材料銷售；電子專用材料研發等。企查查股權穿透顯示，該公司由天龍集團全資持股。"
+    },
+    {
+      "id": "mkt:01a15722-713b-7ee0-a8f4-57a9165374b3",
+      "time": "2026-10-20 10:27:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Indonesia moves to head off possible MSCI downgrade; stocks rebound】Indonesia's stock market rebounded after authorities unveiled measures aimed at averting a potential two-notch downgrade by MSCI. The Jakarta Composite Index rose as much as 2.7%, recouping part of an about 15% decline over the prior two sessions — the steepest sell-off since 1989 and leaving Indonesia the world's worst-performing market. The Indonesia Stock Exchange said after a Monday meeting with MSCI representatives it will exclude companies with highly concentrated ownership from its benchmark sample and expand ownership disclosure, requiring clarity on whether investors holding 1% or more are related parties. MSCI has said it is considering downgrading Indonesia from an emerging to a standalone market — a step more severe than January's warning to possibly reclassify it as a frontier market — citing opaque ownership structures, suspected coordinated trading and insufficient progress on this year's regulatory reforms."
+    },
+    {
+      "id": "5154898",
+      "time": "2026-10-20 10:27:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【申萬宏源趙偉：經濟將實現“N型”修復】2026年三季度GDP同比增長4.5%，對此，申萬宏源首席經濟學家趙偉表示，國內經濟將實現“N型”修復，四季度預計呈現出口保持高增、內需邊際修復的格局。9月經濟資料出現邊際改善，包括外需與內需指標，展望四季度，經濟預計保持溫和回升態勢。出口方面，中歐貿易擾動短期影響有限，AI高景氣與美國進口回升週期支撐下，出口預計保持高增長。投資方面，房企融資壓力或仍拖累地產投資，但國記憶體量政策加快落地，疊加8月以來專項債中化債比例明顯下降、前期盈利改善等因素的滯後支撐，四季度整體投資預計延續修復。消費方面，居民消費有望延續溫和回升態勢，總體消費預計基本平穩。"
+    },
+    {
+      "id": "5154897",
+      "time": "2026-10-20 10:26:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "機器人概念股漲勢擴大，賽摩智慧、長盈精密、愛仕達、寧波東力、新北洋等十餘股漲停，奧比中光、索辰科技、華依科技、漢威科技等多股漲超%。"
+    },
+    {
+      "id": "mkt:01a15721-8be8-7ee0-a8f4-4af32371ce35",
+      "time": "2026-10-20 10:26:18",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Data showed SoftBank's five-year CDS spread rose to 432 bps on Tuesday, the highest since early November 2022. The spread crossed 400 bps the prior week and has widened a further more than 30 bps."
+    },
     {
       "id": "5154896",
       "time": "2026-10-20 10:25:27",
@@ -118832,17 +118896,6 @@
         "Importance 1"
       ],
       "text": "Yen Gains in Post-Holiday Trading — The Japanese yen strengthened toward 158 per dollar on Tuesday, ending a two-session decline as investors returned from an extended holiday weekend. Market sentiment was influenced by data showing Japan’s producer prices rose 6.8% in September, below the expected 7.6% and marking the slowest increase since May. Nevertheless, the figures pointed to persistent inflationary pressures, reinforcing expectations of a potential near-term interest rate hike. Bank of Japan Governor Kazuo Ueda said the timing and pace of future rate increases would depend on how rising wholesale prices feed through to consumer inflation and affect household spending. However, uncertainty remained over whether the central bank would raise rates again this month, although markets continued to anticipate a possible move in December or January."
-    },
-    {
-      "id": "te:markets:591326",
-      "time": "2026-10-13 10:30:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: South Korea 10Y Bond Yield Falls by 6 bps — Government bonds yields are lower on Tuesday. Top losers are South Korea 10Y (-6.10bps), US 10Y (-3.90bps) and Japan 10Y (-1.50bps)."
     }
   ]
 }
