@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-20 08:30:50",
-  "count": 12830,
+  "updated": "2026-10-20 08:34:35",
+  "count": 12822,
   "items": [
+    {
+      "id": "5154707",
+      "time": "2026-10-20 08:32:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4130美元/盎司，日內跌0.26%。"
+    },
+    {
+      "id": "5154706",
+      "time": "2026-10-20 08:32:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽：MSCI對印尼的重新評級可能損害市場情緒。"
+    },
+    {
+      "id": "5154705",
+      "time": "2026-10-20 08:31:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【必和必拓銅產量因智利礦區產出下滑減少近五分之一】必和必拓集團表示，受智利主力礦區遭遇風暴、礦石品位下降影響，公司銅產量大幅下滑，但維持這種能源轉型關鍵金屬的全年產量指引不變。該公司週二在季報中稱，截至 9 月的三個月內，銅產量同比下降 19%。產量下滑源於 “礦石品位按計劃下降、計劃性檢修，疊加智利惡劣天氣帶來的臨時停產”。各大礦業巨頭都面臨老舊礦山礦石品位持續走低的難題，同時新銅礦的勘探難度不斷加大。與此同時，得益於人工智慧、可再生能源推廣與電氣化的強勁需求，銅價進入上漲行情。這種結構性市場態勢催生多起併購嘗試，其中就包括必和必拓去年收購英美資源集團的失敗交易。"
+    },
+    {
+      "id": "mkt:01a156b8-280f-7ee0-a8f1-036758b36999",
+      "time": "2026-10-20 08:31:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Trump criticizes French immigration policy, urges Europe to close borders】US President Trump attacked French and European immigration policies, accusing leaders of admitting millions of immigrants he says are incompatible with Western values and of betraying their countries. He called on Europe to close its borders and to expel people hostile to their host countries, and warned President Macron that France will come to an end unless borders are shut."
+    },
+    {
+      "id": "5154704",
+      "time": "2026-10-20 08:30:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國證監會：將持續提升市場韌性和信心 】 2026金融街論壇年會昨天（19日）在北京開幕，在開幕式上，中國證監會主席吳清表示，將進一步健全投資和融資相協調的資本市場功能，持續提升市場韌性和信心。 吳清表示，要堅持穩字當頭，全力維護資本市場安全穩定。密切跟蹤境內外市場動態，加強風險研判和政策工具儲備。高度警惕境外掛鉤A股個股的槓桿產品等新風險點，持續築牢資本市場風險“防波堤”“防浪堤”。推動進一步健全適配長期投資的長週期考核機制，擴大中長期資金來源、渠道和入市方式，持續深化公募基金改革，壯大市場穩定力量。（央視新聞）"
+    },
     {
       "id": "5154703",
       "time": "2026-10-20 08:30:12",
@@ -117385,122 +117429,6 @@
         "Impact mixed"
       ],
       "text": "Reserve Bank of Australia minutes: Middle East conflict has escalated and oil prices are far higher than expected."
-    },
-    {
-      "id": "mkt:01a132ae-761d-7ee0-a845-967df4de145b",
-      "time": "2026-10-13 08:34:16",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact mixed"
-      ],
-      "text": "RESERVE BANK OF AUSTRALIA minutes: domestic consumption needs to be restrained for a period to allow inf to return to target."
-    },
-    {
-      "id": "5140303",
-      "time": "2026-10-13 08:34:06",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲：國內消費需要在一段時間內保持低迷，才能使通脹迴歸目標。有理由\"及時\"調整利率，以錨定通脹預期。"
-    },
-    {
-      "id": "mkt:01a132ad-dd27-7ee0-a845-8c66da31df4e",
-      "time": "2026-10-13 08:33:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia minutes: interest rates should respond \"in a timely way\" to keep inflation expectations stable."
-    },
-    {
-      "id": "5140302",
-      "time": "2026-10-13 08:33:29",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：穩市訊號明確 銀行板塊資金面樂觀】中信證券研報稱，國慶節後首周，避險資金流入銀行，板塊逆勢跑贏主要指數。週末證監會召開資本市場和金融形勢專家座談會，資本市場穩預期的政策訊號明確。板塊投資上，基本面視角，展望三季度及全年，預計息差和資產質量等核心變數保持穩定，經營格局穩定，盈利趨勢積極。中期視角看，銀行板塊步入風險週期尾部區間，ROE一階導已經改善，預計今明年行業ROE絕對數企穩，區間8%—9%，助力板塊估值提升，有望從“高股息防禦資產”向“高確定性權益資產”重估，銀行板塊仍將演繹估值上行方向，全年絕對收益空間仍將延續。"
-    },
-    {
-      "id": "mkt:01a132ad-b5d8-7ee0-a845-863066fe0116",
-      "time": "2026-10-13 08:33:27",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "RESERVE BANK OF AUSTRALIA minutes said the board discussed upside risks to inflation and factors that may keep inflation elevated; some of those risks have emerged or been building since August."
-    },
-    {
-      "id": "5140301",
-      "time": "2026-10-13 08:33:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "澳洲聯儲：中東衝突升級，油價遠高於假設水平。"
-    },
-    {
-      "id": "mkt:01a132ad-4af2-7ee0-a845-79e0f09a5e92",
-      "time": "2026-10-13 08:32:59",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Reserve Bank of Australia minutes: all board members unanimously agreed a 25bp cash rate increase was needed."
-    },
-    {
-      "id": "5140300",
-      "time": "2026-10-13 08:32:49",
-      "tags": [
-        "市場",
-        "央行"
-      ],
-      "text": "澳元/美元下跌0.1%至0.6953美元，在澳洲聯儲會議記錄公佈後變動不大。"
-    },
-    {
-      "id": "mkt:01a132ad-203e-7ee0-a845-738f61d4fc9b",
-      "time": "2026-10-13 08:32:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia minutes said the board \"briefly\" considered holding the cash rate unchanged, citing recent falls in house prices."
-    },
-    {
-      "id": "mkt:01a132ac-f628-7ee0-a845-6c5feb0a3317",
-      "time": "2026-10-13 08:32:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia minutes: the board saw rising risk of persistent high inflation and judged economic demand had exceeded prior expectations."
-    },
-    {
-      "id": "5140299",
-      "time": "2026-10-13 08:32:25",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲：委員會擔憂經濟中的過度需求大於此前預期。"
-    },
-    {
-      "id": "5140298",
-      "time": "2026-10-13 08:31:55",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：看好AI影視與AI+IP兩條主線】中信證券研報稱，短劇與漫劇加速成為主流內容消費形態，據QuestMobile，2026年7月紅果短劇獨立App日活達1.68億，同比增長107%。海外市場方面，據短劇自習室微信公眾號，GoodShort與DramaBox將戰略合併，行業短期增長承壓疊加AI內容供給擴張，推動頭部平臺整合資源，具備內容製作、投放及使用者運營協同能力的平臺有望強化競爭優勢。同時，AI影視正向長篇、精品內容延伸，AI原生影視公司Utopai的《Space Nation》《Cortés》有望於2027年交付，據福布斯，若按計劃交付版權預售收入合計最高可達約1.1億美元，有望透過專案交付與商業化驗證推動產業持續發展。看好AI影視與AI+IP兩條主線。"
-    },
-    {
-      "id": "5140297",
-      "time": "2026-10-13 08:31:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "2年期日本國債收益率上漲1.0個基點，至1.915%。5年期日本國債收益率上漲1.5個基點，至2.350%。"
     }
   ]
 }

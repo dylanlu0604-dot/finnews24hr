@@ -1,7 +1,51 @@
 {
   "date": "2026-10-20",
-  "count": 442,
+  "count": 447,
   "items": [
+    {
+      "id": "5154707",
+      "time": "2026-10-20 08:32:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4130美元/盎司，日內跌0.26%。"
+    },
+    {
+      "id": "5154706",
+      "time": "2026-10-20 08:32:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽：MSCI對印尼的重新評級可能損害市場情緒。"
+    },
+    {
+      "id": "5154705",
+      "time": "2026-10-20 08:31:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【必和必拓銅產量因智利礦區產出下滑減少近五分之一】必和必拓集團表示，受智利主力礦區遭遇風暴、礦石品位下降影響，公司銅產量大幅下滑，但維持這種能源轉型關鍵金屬的全年產量指引不變。該公司週二在季報中稱，截至 9 月的三個月內，銅產量同比下降 19%。產量下滑源於 “礦石品位按計劃下降、計劃性檢修，疊加智利惡劣天氣帶來的臨時停產”。各大礦業巨頭都面臨老舊礦山礦石品位持續走低的難題，同時新銅礦的勘探難度不斷加大。與此同時，得益於人工智慧、可再生能源推廣與電氣化的強勁需求，銅價進入上漲行情。這種結構性市場態勢催生多起併購嘗試，其中就包括必和必拓去年收購英美資源集團的失敗交易。"
+    },
+    {
+      "id": "mkt:01a156b8-280f-7ee0-a8f1-036758b36999",
+      "time": "2026-10-20 08:31:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Trump criticizes French immigration policy, urges Europe to close borders】US President Trump attacked French and European immigration policies, accusing leaders of admitting millions of immigrants he says are incompatible with Western values and of betraying their countries. He called on Europe to close its borders and to expel people hostile to their host countries, and warned President Macron that France will come to an end unless borders are shut."
+    },
+    {
+      "id": "5154704",
+      "time": "2026-10-20 08:30:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國證監會：將持續提升市場韌性和信心 】 2026金融街論壇年會昨天（19日）在北京開幕，在開幕式上，中國證監會主席吳清表示，將進一步健全投資和融資相協調的資本市場功能，持續提升市場韌性和信心。 吳清表示，要堅持穩字當頭，全力維護資本市場安全穩定。密切跟蹤境內外市場動態，加強風險研判和政策工具儲備。高度警惕境外掛鉤A股個股的槓桿產品等新風險點，持續築牢資本市場風險“防波堤”“防浪堤”。推動進一步健全適配長期投資的長週期考核機制，擴大中長期資金來源、渠道和入市方式，持續深化公募基金改革，壯大市場穩定力量。（央視新聞）"
+    },
     {
       "id": "5154703",
       "time": "2026-10-20 08:30:12",
