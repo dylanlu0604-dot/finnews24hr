@@ -1,7 +1,173 @@
 {
-  "updated": "2026-10-20 08:57:16",
+  "updated": "2026-10-20 09:01:20",
   "count": 12803,
   "items": [
+    {
+      "id": "5154737",
+      "time": "2026-10-20 09:00:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國1年期LPR持平於3.00%; 預估為3.00%。中國5年期LPR持平於3.50%; 預估為3.50%。"
+    },
+    {
+      "id": "mkt:01a156d2-d17f-7ee0-a8f1-86f4909e9487",
+      "time": "2026-10-20 09:00:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures opened down 0.34%."
+    },
+    {
+      "id": "mkt:01a156d2-c4de-7ee0-a8f1-7a789b543df2",
+      "time": "2026-10-20 09:00:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "China five-year loan prime rate (LPR) unchanged at 3.50% as of Oct. 20; market expected 3.50%, prior 3.50%."
+    },
+    {
+      "id": "mkt:01a156d2-c410-7ee0-a8f1-77909122d3de",
+      "time": "2026-10-20 09:00:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's 1-year loan prime rate (LPR) 3.00% as of Oct 20, matching the 3.00% consensus and unchanged from the prior reading of 3.00%."
+    },
+    {
+      "id": "mkt:01a156d2-c277-7ee0-a8f1-6d3efb9c4fba",
+      "time": "2026-10-20 09:00:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SC",
+        "Impact bullish"
+      ],
+      "text": "At the morning open, China's main futures contracts were mostly lower: ethylene glycol (EG) fell over 3%; synthetic rubber and coking coal dropped more than 2%; rapeseed meal and propylene declined about 2%; LPG, bottle flake and methanol were down over 1%. On the upside, Shanghai crude (SC) rose nearly 2%; lithium carbonate, PVC, benzene and SHFE nickel gained more than 1%; eggs were up about 1%."
+    },
+    {
+      "id": "5154736",
+      "time": "2026-10-20 09:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.2%報46,712.57。"
+    },
+    {
+      "id": "mkt:01a156d2-a49a-7ee0-a8f1-595001df6707",
+      "time": "2026-10-20 09:00:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "China | 5-Year Loan Prime Rate (Oct.20) | actual 3.5% | consensus 3.50% | previous 3.50%"
+    },
+    {
+      "id": "mkt:01a156d2-a4a3-7ee0-a8f1-63e8f3ed1e35",
+      "time": "2026-10-20 09:00:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | 1-Year Loan Prime Rate (Oct.20) | actual 3% | consensus 3.00% | previous 3.00%"
+    },
+    {
+      "id": "5154735",
+      "time": "2026-10-20 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌2%，現報1408.00元。"
+    },
+    {
+      "id": "5154734",
+      "time": "2026-10-20 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌3%，現報4944.00元。"
+    },
+    {
+      "id": "5154733",
+      "time": "2026-10-20 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】乙二醇連續跌3.46%，丁二烯橡膠連續跌2.34%，焦煤連續跌2.32%，上海原油連續漲2.03%，菜粕連續跌2.00%。"
+    },
+    {
+      "id": "5154732",
+      "time": "2026-10-20 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.33%。"
+    },
+    {
+      "id": "mkt:01a156d1-d77d-7ee0-a8f1-55279a510091",
+      "time": "2026-10-20 08:59:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan Finance Minister Kiuchi said he never considered requesting the Bank of Japan delay a vote at a policy meeting."
+    },
+    {
+      "id": "5154731",
+      "time": "2026-10-20 08:58:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：10月20日08時56分在新疆巴音郭楞州尉犁縣附近（北緯40.89度，東經84.14度）發生4.3級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:01a156d1-52cd-7ee0-a8f1-4ce9adcbe309",
+      "time": "2026-10-20 08:58:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's minister of finance and economic revitalization Kiuchi said he respects the Bank of Japan's legal independence in setting monetary policy."
+    },
+    {
+      "id": "5154730",
+      "time": "2026-10-20 08:58:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：從未考慮過在央行會議上提交推遲投票的請求。"
+    },
+    {
+      "id": "mkt:01a156d1-347c-7ee0-a8f1-46ee9655e43a",
+      "time": "2026-10-20 08:58:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Kiuchi said he hopes to attend this month's Bank of Japan policy meeting if his schedule permits."
+    },
+    {
+      "id": "5154729",
+      "time": "2026-10-20 08:57:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：若日程允許，希望出席本月日本央行政策會議。"
+    },
     {
       "id": "5154728",
       "time": "2026-10-20 08:56:24",
@@ -117066,170 +117232,6 @@
         "市場"
       ],
       "text": "鈀金期貨日內跌1%，現報1134.08美元/盎司。"
-    },
-    {
-      "id": "5140344",
-      "time": "2026-10-13 09:01:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普聯手普京壓低柴油價格 讓美國共和黨選前出現內部分歧】距離美國中期選舉僅剩數週，而選情正愈發朝有利於民主黨的方向發展，美國總統唐納德·特朗普就俄羅斯柴油出口作出的安排以及他對俄羅斯總統弗拉基米爾·普京的公開讚揚，成為近期一系列涉俄事件中的最新一宗，也引發共和黨人公開批評。特朗普表示，他正與普京合作，推動俄羅斯柴油重新進入全球市場，希望藉此在11月3日中期選舉前緩解燃油價格壓力。這實際上顛覆了持續多年的對俄製裁政策。歐洲官員則警告稱，增加俄羅斯柴油出口將增強莫斯科對烏克蘭作戰的能力。對於一些選情膠著的共和黨候選人而言，總統此舉無異於一場不受歡迎的“十月驚奇”。目前共和黨正艱難維持其在參眾兩院的微弱多數優勢。“我們需要一位能夠領導自由世界的總統，”內布拉斯加州共和黨眾議員Don Bacon在社交媒體上表示。“坦率地說，特朗普過去如此，現在依然如此，在普京問題上態度軟弱。”長期與特朗普意見不合的Bacon即將退休，而其所在的奧馬哈選區預計將轉為民主黨席位。"
-    },
-    {
-      "id": "mkt:01a132c6-db8a-7ee0-a846-38284a825ae1",
-      "time": "2026-10-13 09:00:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: military training in South China Sea】The Qinglan Maritime Safety Administration posted on the China Maritime Safety Administration website that military training will take place in parts of the South China Sea on Oct 13 from 09:00 to 11:00 local time; vessels are prohibited from entering the affected area."
-    },
-    {
-      "id": "5140343",
-      "time": "2026-10-13 09:00:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲4%，現報4651.00元。"
-    },
-    {
-      "id": "mkt:01a132c6-9d0a-7ee0-a846-36266af47d8e",
-      "time": "2026-10-13 09:00:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "China fuel oil front-month futures rose 4.00% intraday to 5,295 yuan/ton."
-    },
-    {
-      "id": "5140342",
-      "time": "2026-10-13 09:00:34",
-      "tags": [],
-      "text": "國內期貨主力合約漲跌不一。低硫燃料油（LU）漲近6％，燃料油漲超3％，SC原油漲超2％。跌幅方面，甲醇跌超5％，碳酸鋰跌超4％，乙二醇（EG）、瀝青、蘋果跌超2％。"
-    },
-    {
-      "id": "5140341",
-      "time": "2026-10-13 09:00:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌1.5%至48,564.60點。"
-    },
-    {
-      "id": "mkt:01a132c6-4974-7ee0-a846-2bfc635870c0",
-      "time": "2026-10-13 09:00:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "FTSE China A50 index futures opened down 0.44%."
-    },
-    {
-      "id": "5140340",
-      "time": "2026-10-13 09:00:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內漲6%，現報5949.00元。"
-    },
-    {
-      "id": "mkt:01a132c6-2b01-7ee0-a846-2754297fb99f",
-      "time": "2026-10-13 09:00:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "At the open, China’s most-active futures were mixed. Low-sulfur fuel oil (LU) jumped nearly 6%, fuel oil rose over 3% and SC crude gained more than 2%; methanol fell over 5%, lithium carbonate dropped more than 4%, and ethylene glycol (EG), asphalt and apples declined over 2%."
-    },
-    {
-      "id": "5140339",
-      "time": "2026-10-13 09:00:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內跌1%，現報4885.00元。"
-    },
-    {
-      "id": "5140338",
-      "time": "2026-10-13 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內漲5%，現報5935.00元。"
-    },
-    {
-      "id": "5140337",
-      "time": "2026-10-13 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌4%，現報104480.00元。"
-    },
-    {
-      "id": "5140336",
-      "time": "2026-10-13 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】低硫燃料油連續漲5.99%，碳酸鋰連續跌4.22%，燃料油連續漲3.73%，上海原油連續漲2.72%，乙二醇連續跌2.23%。"
-    },
-    {
-      "id": "5140335",
-      "time": "2026-10-13 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.43%。"
-    },
-    {
-      "id": "mkt:01a132c5-810b-7ee0-a846-197dfd2a2835",
-      "time": "2026-10-13 08:59:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Reserve Bank of Australia minutes: inflation still upside risk; fifth hike this year not ruled out】Minutes of the Reserve Bank of Australia (RBA) Sep. 28–29 meeting, published Tuesday, show the board briefly considered leaving the cash rate unchanged but then voted unanimously to raise it to 4.6%. The minutes point to stronger-than-expected domestic demand and a spike in oil prices from the Middle East conflict that has increased global cost pressures. The board said timely action was needed to stabilise inflation expectations, noting financial conditions are restrictive but only modestly so. Given excess domestic demand and higher global energy costs, the RBA judged inflation may prove more persistent and said a fifth rate increase this year remains possible if required."
-    },
-    {
-      "id": "5140334",
-      "time": "2026-10-13 08:59:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【豪美新材在佛山成立新材料公司】企查查APP顯示，近日，佛山喜得新材料有限公司成立，經營範圍包含新材料技術研發；新材料技術推廣服務；新型金屬功能材料銷售。企查查股權穿透顯示，該公司由豪美新材全資持股。"
-    },
-    {
-      "id": "5140333",
-      "time": "2026-10-13 08:58:47",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗稱，MSCI可能會維持印尼的新興市場地位，但可能會將指數凍結期延長至明年。"
-    },
-    {
-      "id": "5140332",
-      "time": "2026-10-13 08:58:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【10月12日202股獲融資買入超億元 中際旭創穫買入12.73億元居首】10月12日共有3527只個股獲融資資金買入，有202股買入金額超億元。其中，中際旭創、長鑫科技、寒武紀融資買入金額排名前三，分別獲買入12.73億元、9.62億元、8.98億元。"
     }
   ]
 }

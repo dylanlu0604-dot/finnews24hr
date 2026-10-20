@@ -1,7 +1,173 @@
 {
   "date": "2026-10-20",
-  "count": 476,
+  "count": 494,
   "items": [
+    {
+      "id": "5154737",
+      "time": "2026-10-20 09:00:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國1年期LPR持平於3.00%; 預估為3.00%。中國5年期LPR持平於3.50%; 預估為3.50%。"
+    },
+    {
+      "id": "mkt:01a156d2-d17f-7ee0-a8f1-86f4909e9487",
+      "time": "2026-10-20 09:00:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures opened down 0.34%."
+    },
+    {
+      "id": "mkt:01a156d2-c4de-7ee0-a8f1-7a789b543df2",
+      "time": "2026-10-20 09:00:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "China five-year loan prime rate (LPR) unchanged at 3.50% as of Oct. 20; market expected 3.50%, prior 3.50%."
+    },
+    {
+      "id": "mkt:01a156d2-c410-7ee0-a8f1-77909122d3de",
+      "time": "2026-10-20 09:00:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's 1-year loan prime rate (LPR) 3.00% as of Oct 20, matching the 3.00% consensus and unchanged from the prior reading of 3.00%."
+    },
+    {
+      "id": "mkt:01a156d2-c277-7ee0-a8f1-6d3efb9c4fba",
+      "time": "2026-10-20 09:00:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SC",
+        "Impact bullish"
+      ],
+      "text": "At the morning open, China's main futures contracts were mostly lower: ethylene glycol (EG) fell over 3%; synthetic rubber and coking coal dropped more than 2%; rapeseed meal and propylene declined about 2%; LPG, bottle flake and methanol were down over 1%. On the upside, Shanghai crude (SC) rose nearly 2%; lithium carbonate, PVC, benzene and SHFE nickel gained more than 1%; eggs were up about 1%."
+    },
+    {
+      "id": "5154736",
+      "time": "2026-10-20 09:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.2%報46,712.57。"
+    },
+    {
+      "id": "mkt:01a156d2-a4a3-7ee0-a8f1-63e8f3ed1e35",
+      "time": "2026-10-20 09:00:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | 1-Year Loan Prime Rate (Oct.20) | actual 3% | consensus 3.00% | previous 3.00%"
+    },
+    {
+      "id": "mkt:01a156d2-a49a-7ee0-a8f1-595001df6707",
+      "time": "2026-10-20 09:00:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "China | 5-Year Loan Prime Rate (Oct.20) | actual 3.5% | consensus 3.50% | previous 3.50%"
+    },
+    {
+      "id": "5154735",
+      "time": "2026-10-20 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌2%，現報1408.00元。"
+    },
+    {
+      "id": "5154734",
+      "time": "2026-10-20 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌3%，現報4944.00元。"
+    },
+    {
+      "id": "5154733",
+      "time": "2026-10-20 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】乙二醇連續跌3.46%，丁二烯橡膠連續跌2.34%，焦煤連續跌2.32%，上海原油連續漲2.03%，菜粕連續跌2.00%。"
+    },
+    {
+      "id": "5154732",
+      "time": "2026-10-20 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.33%。"
+    },
+    {
+      "id": "mkt:01a156d1-d77d-7ee0-a8f1-55279a510091",
+      "time": "2026-10-20 08:59:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan Finance Minister Kiuchi said he never considered requesting the Bank of Japan delay a vote at a policy meeting."
+    },
+    {
+      "id": "5154731",
+      "time": "2026-10-20 08:58:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：10月20日08時56分在新疆巴音郭楞州尉犁縣附近（北緯40.89度，東經84.14度）發生4.3級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:01a156d1-52cd-7ee0-a8f1-4ce9adcbe309",
+      "time": "2026-10-20 08:58:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's minister of finance and economic revitalization Kiuchi said he respects the Bank of Japan's legal independence in setting monetary policy."
+    },
+    {
+      "id": "5154730",
+      "time": "2026-10-20 08:58:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：從未考慮過在央行會議上提交推遲投票的請求。"
+    },
+    {
+      "id": "mkt:01a156d1-347c-7ee0-a8f1-46ee9655e43a",
+      "time": "2026-10-20 08:58:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Kiuchi said he hopes to attend this month's Bank of Japan policy meeting if his schedule permits."
+    },
+    {
+      "id": "5154729",
+      "time": "2026-10-20 08:57:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：若日程允許，希望出席本月日本央行政策會議。"
+    },
     {
       "id": "5154728",
       "time": "2026-10-20 08:56:24",
