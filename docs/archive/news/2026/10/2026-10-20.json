@@ -1,7 +1,215 @@
 {
   "date": "2026-10-20",
-  "count": 1492,
+  "count": 1515,
   "items": [
+    {
+      "id": "mkt:01a15882-89c3-7ee0-a8ff-02be22c82873",
+      "time": "2026-10-20 16:51:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SIMSEK said he will reconsider the decision to allow certain funds to trade on the TEFAS fund trading platform."
+    },
+    {
+      "id": "5155597",
+      "time": "2026-10-20 16:51:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華曙高科：鍾青蘭減持計劃期限屆滿，實際減持0股】華曙高科公告，財務總監鍾青蘭此前計劃透過集中競價減持不超過85617股，原計劃減持比例不超過0.0206%。減持期間為2026年7月20日～2026年10月19日，期限屆滿後實際減持0股；截至2026年10月19日，鍾青蘭持有34.25萬股，佔公司總股本0.0823%。公司稱，鍾青蘭基於對公司未來發展信心未減持。"
+    },
+    {
+      "id": "5155596",
+      "time": "2026-10-20 16:51:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部長：將重新考慮在TEFAS平臺上交易的部分基金的決定。"
+    },
+    {
+      "id": "5155595",
+      "time": "2026-10-20 16:51:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特稱攔截摧毀胡塞導彈】沙特主導的聯軍今天（10月20日）稱，攔截並摧毀了葉門胡塞武裝向沙特首都利雅得發射的彈道導彈。據稍早前訊息，利雅得釋出防空警報，隨後傳來劇烈爆炸聲。（CCTV國際時訊）"
+    },
+    {
+      "id": "5155594",
+      "time": "2026-10-20 16:51:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華源控股：回購比例達1.0242%，累計回購340.45萬股，最高成交價26.5元/股、最低成交價20.2元/股，支付7820.62萬元】華源控股公告，公司此前審議透過回購方案，擬使用自有資金及自籌資金回購股份，回購資金總額不低於人民幣5000萬元（含）且不超過人民幣1億元（含），回購價格不超過40元/股，回購股份用於員工持股計劃或者股權激勵。截至2026年10月19日，公司累計回購340.45萬股，佔公司股份總數的比例為1.0242%，最高成交價為人民幣26.5元/股，最低成交價為人民幣20.2元/股，支付總金額為人民幣7820.62萬元（不含交易費用）。"
+    },
+    {
+      "id": "mkt:01a15881-c179-7ee0-a8fe-ff5a13a25f13",
+      "time": "2026-10-20 16:51:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Tuoke Group expects copper supply to increase by 2 million tonnes next year."
+    },
+    {
+      "id": "5155593",
+      "time": "2026-10-20 16:50:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【孚日股份：2026年前三季度營收47.56億元 同比增23.82%】孚日股份公告稱，2026年前三季度實現營業收入47.56億元，同比增長23.82%；歸屬於上市公司股東的淨利潤6.06億元，同比增長135.07%；基本每股收益0.73元，同比增長135.48%。業績增長主要系收入增加所致，其中電解液新增劑產品受益於行業高景氣量價齊升，實現主營業務收入7.09億元，同比增長325.78%；家紡業務實現主營業務收入28.91億元，同比增長6.35%。2026年8月博賽利斯納入公司合併範圍，8-9月實現主營業務收入1.25億元。"
+    },
+    {
+      "id": "5155592",
+      "time": "2026-10-20 16:50:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭議會將於11月下半月就波蘭央行行長格拉平斯基進行投票。"
+    },
+    {
+      "id": "mkt:01a15881-51fb-7ee0-a8fe-f3711cf9f535",
+      "time": "2026-10-20 16:50:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude topped $100/barrel for the first time since Sept. 16, rising 1.98% on the day."
+    },
+    {
+      "id": "5155591",
+      "time": "2026-10-20 16:50:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "托克集團的Van預計，明年銅供應將增加200萬噸。"
+    },
+    {
+      "id": "5155590",
+      "time": "2026-10-20 16:50:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三友化工：預計2026年前三季度淨利潤2.73億元左右，同比增長124%左右】三友化工公告，預計2026年前三季度歸母淨利潤2.73億元左右，較上年同期法定披露資料增加1.51億元左右、同比增長124%左右；較追溯調整後資料增加1.47億元左右、同比增長116%左右。扣非淨利潤預計2.3億元左右，較法定披露資料、追溯調整後資料分別增加1.62億元左右和1.54億元左右，同比增長237%左右和204%左右。化纖、有機矽產品售價同比提升，原材料降價及降本控費對經營利潤形成貢獻。"
+    },
+    {
+      "id": "mkt:01a15880-ea0a-7ee0-a8fe-eb6a2e495268",
+      "time": "2026-10-20 16:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "ZEW economic sentiment indices for Germany and the euro area for October are due for release in 10 minutes."
+    },
+    {
+      "id": "5155589",
+      "time": "2026-10-20 16:49:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "滙豐執行長：對中東的繁榮發展依然“堅定不移”。"
+    },
+    {
+      "id": "5155588",
+      "time": "2026-10-20 16:49:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "滙豐執行長：中東地區的機遇仍然“非常明確”。"
+    },
+    {
+      "id": "mkt:01a15880-479e-7ee0-a8fe-e54489aa7ea7",
+      "time": "2026-10-20 16:49:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "French 10-year sovereign risk premium widened to 150 bps."
+    },
+    {
+      "id": "mkt:01a15880-1763-7ee0-a8fe-db300b3766fa",
+      "time": "2026-10-20 16:49:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey finance minister SIMSEK said he will not delay implementation of fund regulations announced by the Capital Markets Board."
+    },
+    {
+      "id": "mkt:01a1587f-cc88-7ee0-a8fe-d51c010f7c0d",
+      "time": "2026-10-20 16:48:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Lu Kang meets Germany's federal coordinator for transatlantic cooperation】Lu Kang, vice minister of the International Department of the CPC Central Committee, met in Beijing with Germany’s federal coordinator for transatlantic cooperation, an SPD member of the Bundestag. They exchanged views on China–Germany relations, party-level engagement, China–US–EU relations and regional hotspots."
+    },
+    {
+      "id": "5155587",
+      "time": "2026-10-20 16:48:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福耀玻璃：2026年第三季度淨利潤20.36億元，同比下降9.87%】福耀玻璃公告，2026年第三季度營業收入121.52億元，同比增長2.51%；歸屬於上市公司股東的淨利潤20.36億元，同比下降9.87%；扣非淨利潤20億元，同比下降9.71%。2026年前三季度營業收入341.23億元，同比增長2.46%；歸母淨利潤60.06億元，同比下降14.97%；扣非淨利潤58.79億元，同比下降15.06%。"
+    },
+    {
+      "id": "5155586",
+      "time": "2026-10-20 16:48:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "香港交易所：中國海洋集團發展有限公司的股份上市將於10月22日起被取消。"
+    },
+    {
+      "id": "mkt:01a1587f-6280-7ee0-a8fe-cea34cddd8ca",
+      "time": "2026-10-20 16:48:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish Finance Minister SIMSEK said he will step up measures and increase penalties against coordinated trading and market-manipulative activity."
+    },
+    {
+      "id": "5155585",
+      "time": "2026-10-20 16:48:14",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部長：基金指引的實施不會推遲。"
+    },
+    {
+      "id": "5155584",
+      "time": "2026-10-20 16:48:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "法國10年期國債風險溢價升至150個基點。"
+    },
+    {
+      "id": "5155583",
+      "time": "2026-10-20 16:47:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【陸慷會見德國聯邦政府跨大西洋合作事務協調員哈克韋爾迪】中共中央對外聯絡部副部長陸慷在北京會見德國聯邦政府跨大西洋合作事務協調員、社民黨籍聯邦議員哈克韋爾迪, 雙方就中德關係、政黨交往、中美歐關係以及地區熱點問題交換意見。"
+    },
     {
       "id": "5155582",
       "time": "2026-10-20 16:47:37",
