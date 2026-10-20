@@ -1,7 +1,50 @@
 {
   "date": "2026-10-20",
-  "count": 814,
+  "count": 819,
   "items": [
+    {
+      "id": "mkt:01a1573c-edc9-7ee0-a8f5-12a25652b0d7",
+      "time": "2026-10-20 10:56:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanwei Maritime Safety Administration posted a navigation warning on the China MSA website that parts of the South China Sea will be closed for military exercises from Oct. 20 to 23, daily 08:00 to 12:00; vessels are prohibited from entering."
+    },
+    {
+      "id": "5154942",
+      "time": "2026-10-20 10:55:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海海域軍事訓練】據中國海事局網站訊息，汕尾海事局釋出航行警告，10月20日至10月23日，每天8時至12時，南海部分海域進行軍事訓練，禁止駛入。"
+    },
+    {
+      "id": "5154941",
+      "time": "2026-10-20 10:55:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本據悉將把 H3 火箭發射業務交由三菱重工承接。"
+    },
+    {
+      "id": "mkt:01a1573b-efad-7ee0-a8f5-0ee33f03bff6",
+      "time": "2026-10-20 10:55:08",
+      "tags": [
+        "MKT News",
+        "00992.HK",
+        "Impact bullish"
+      ],
+      "text": "【CLSA raises Lenovo target to HK$49.5, lifts FY2027 Q2 adj. net to $1.18bn — 13% above consensus】CLSA raised its forecast for Lenovo Group (00992.HK) adjusted net profit for the fiscal second quarter ending Sept 2027 to $1.18bn from $1.10bn, about 13% above consensus, citing stronger-than-expected server revenue and margins. The broker nudged its target price to HK$49.5 from HK$48.7, implying a forecast FY2028 diluted P/E of 18x, and kept an Outperform rating, retaining Lenovo as a top pick."
+    },
+    {
+      "id": "5154940",
+      "time": "2026-10-20 10:53:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【端側AI概念漲勢擴大 恆玄科技等多股漲停】端側AI概念日內漲勢擴大，恆玄科技20cm漲停，此前美格智慧、移遠通訊、日海智慧、博通整合、龍旗科技漲停，廣和通、樂鑫科技、泰凌微、敏芯股份均漲超10%。"
+    },
     {
       "id": "5154939",
       "time": "2026-10-20 10:52:48",

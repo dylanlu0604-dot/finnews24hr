@@ -1,7 +1,50 @@
 {
-  "updated": "2026-10-20 10:53:19",
-  "count": 13050,
+  "updated": "2026-10-20 10:57:03",
+  "count": 13053,
   "items": [
+    {
+      "id": "mkt:01a1573c-edc9-7ee0-a8f5-12a25652b0d7",
+      "time": "2026-10-20 10:56:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanwei Maritime Safety Administration posted a navigation warning on the China MSA website that parts of the South China Sea will be closed for military exercises from Oct. 20 to 23, daily 08:00 to 12:00; vessels are prohibited from entering."
+    },
+    {
+      "id": "5154942",
+      "time": "2026-10-20 10:55:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海海域軍事訓練】據中國海事局網站訊息，汕尾海事局釋出航行警告，10月20日至10月23日，每天8時至12時，南海部分海域進行軍事訓練，禁止駛入。"
+    },
+    {
+      "id": "5154941",
+      "time": "2026-10-20 10:55:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本據悉將把 H3 火箭發射業務交由三菱重工承接。"
+    },
+    {
+      "id": "mkt:01a1573b-efad-7ee0-a8f5-0ee33f03bff6",
+      "time": "2026-10-20 10:55:08",
+      "tags": [
+        "MKT News",
+        "00992.HK",
+        "Impact bullish"
+      ],
+      "text": "【CLSA raises Lenovo target to HK$49.5, lifts FY2027 Q2 adj. net to $1.18bn — 13% above consensus】CLSA raised its forecast for Lenovo Group (00992.HK) adjusted net profit for the fiscal second quarter ending Sept 2027 to $1.18bn from $1.10bn, about 13% above consensus, citing stronger-than-expected server revenue and margins. The broker nudged its target price to HK$49.5 from HK$48.7, implying a forecast FY2028 diluted P/E of 18x, and kept an Outperform rating, retaining Lenovo as a top pick."
+    },
+    {
+      "id": "5154940",
+      "time": "2026-10-20 10:53:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【端側AI概念漲勢擴大 恆玄科技等多股漲停】端側AI概念日內漲勢擴大，恆玄科技20cm漲停，此前美格智慧、移遠通訊、日海智慧、博通整合、龍旗科技漲停，廣和通、樂鑫科技、泰凌微、敏芯股份均漲超10%。"
+    },
     {
       "id": "5154939",
       "time": "2026-10-20 10:52:48",
@@ -119472,29 +119515,6 @@
         "Importance 1"
       ],
       "text": "South Korean Won Retreats from 2-Year High — The South Korean won traded around 1,342 per dollar, reversing after touching its strongest level since October 2024, as a stronger US dollar and rising oil prices weighed on the currency. The dollar index held near its highest level since April 2025, amid heightened geopolitical uncertainty and concerns over renewed inflationary pressures. Oil prices extended their gains for a third session as fresh attacks on Saudi Arabia followed a deadly strike on Riyadh's airport. Continued Russian strikes raised further questions over the energy truce with Ukraine. Brent crude climbed above USD 106 per barrel, adding to concerns over South Korea's energy import bill. Investors are also awaiting September US CPI data due this week for further clues on the Federal Reserve's policy outlook. Meanwhile, continued dollar selling by local exporters, particularly semiconductor companies converting overseas earnings into won, helped limit the currency's retreat."
-    },
-    {
-      "id": "te:markets:591343",
-      "time": "2026-10-13 10:56:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybean Futures Hit 6-Week Low — Soybean futures fell below $12.8 per bushel, hitting a six-week low as expectations for a record-large US crop and active harvesting weighed on prices. The USDA raised its 2026 soybean production forecast to 4.562 billion bushels from 4.535 billion in September, above expectations of 4.534 billion, while lifting its average yield estimate to 53.1 bushels per acre from 52.8. Mostly dry weather across the Midwest is allowing farmers to accelerate harvesting, with the USDA’s weekly crop progress report due Tuesday. Meanwhile, Brazil’s soybean planting is advancing at a record pace, with favorable rainfall supporting fieldwork. Traders are now monitoring potential Chinese demand following recent talks between Trump and Xi Jinping, although punitive Chinese tariffs continue to discourage private buyers. China also lowered its 2026/27 soybean production forecast to 20.36 million tonnes but kept its import outlook at 95.5 million tonnes, well below the USDA’s 115 million-tonne estimate."
-    },
-    {
-      "id": "te:markets:591340",
-      "time": "2026-10-13 10:55:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "Japan 10-Year Yield Hits Near 3-Week Low — Japan’s 10-year government bond yield declined to around 3% on Tuesday, reaching its lowest level in nearly three weeks and tracking a broader retreat in global bond yields as the recent selloff in government debt lost momentum. Investors also responded to data showing Japan’s producer prices rose 6.8% in September, below market expectations of 7.6% and marking the slowest increase since May. Nevertheless, the figures pointed to persistent inflationary pressures, reinforcing expectations of a potential near-term interest rate hike. Bank of Japan Governor Kazuo Ueda said the timing and pace of future rate increases would depend on how rising wholesale prices pass through to consumer inflation and the resulting impact on consumption. However, uncertainty remained over whether the central bank would raise rates again this month, although markets continued to anticipate a possible move in December or January."
     }
   ]
 }
