@@ -1,7 +1,241 @@
 {
   "date": "2026-10-20",
-  "count": 1976,
+  "count": 2003,
   "items": [
+    {
+      "id": "5156272",
+      "time": "2026-10-20 21:31:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "哈里伯頓公司預計中東地區收入將實現環比和同比增長。"
+    },
+    {
+      "id": "mkt:01a15982-21d7-7ee0-a907-ca235531d842",
+      "time": "2026-10-20 21:31:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. open: Dow down 0.04%, S&P 500 down 0.22%, Nasdaq down 0.49%. Notable movers: SK Hynix -3.0%, SanDisk -1.7%, Micron Technology -1.9%, Western Digital Corp -0.9%, Apple -0.8%, General Motors -6.0%."
+    },
+    {
+      "id": "5156271",
+      "time": "2026-10-20 21:30:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤初普漲】禮來漲2.21%，強生漲1.15%，Moderna漲0.73%，諾和諾德漲1.09%，艾伯維漲1.35%，默沙東持平。"
+    },
+    {
+      "id": "5156270",
+      "time": "2026-10-20 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤初普跌】美光跌1.89%，閃迪跌1.93%，SK海力士跌3.37%，西部資料跌0.91%，希捷科技跌0.95%。"
+    },
+    {
+      "id": "5156269",
+      "time": "2026-10-20 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股算力雲相關股票盤初普跌】甲骨文跌1.18%，CoreWeave跌2.78%，Nebius跌3.16%，IREN跌4.22%，Applied Digital跌2.52%。"
+    },
+    {
+      "id": "5156268",
+      "time": "2026-10-20 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股太空概念股盤初普跌】SpaceX跌1.71%，Rocket Lab跌1.82%，Planet Labs跌1.18%，AST SpaceMobile跌2.46%，Intuitive Machines跌2.14%。"
+    },
+    {
+      "id": "5156267",
+      "time": "2026-10-20 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股開盤普跌】Lumentum跌2.77%，康寧跌2.02%，Coherent跌3.67%，應用光電跌5.06%，Ciena跌2.07%，博通跌0.25%，邁威爾科技跌1.75%。"
+    },
+    {
+      "id": "5156266",
+      "time": "2026-10-20 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.04%，標普500指數跌0.21%，納指跌0.44%。通用汽車跌6.16%，GE航空航天跌4.35%，Steel Dynamics跌3.74%，Coherent Corp跌3.71%，NBIS跌3.31%，Comfort Systems USA跌3.15%，Astera Labs Inc跌2.93%。“七姐妹”方面：亞馬遜漲0.38%，微軟跌0.07%，特斯拉跌0.13%，谷歌跌0.44%，英偉達跌0.63%，蘋果跌0.77%，Meta Platforms跌1.93%。"
+    },
+    {
+      "id": "5156265",
+      "time": "2026-10-20 21:30:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股票指數 .GSPTSE 開盤下跌 88.56 點，或 0.25%，至 35,840.07 點。"
+    },
+    {
+      "id": "5156264",
+      "time": "2026-10-20 21:30:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國公共債務管理機構（AFT）負責人：我們沒有看到日本投資者拋售。"
+    },
+    {
+      "id": "5156263",
+      "time": "2026-10-20 21:30:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長瓦爾加：取消食品價格利潤率管制不太可能對通脹產生實質性影響。"
+    },
+    {
+      "id": "mkt:01a15981-b133-7ee0-a907-c1b01a54264d",
+      "time": "2026-10-20 21:30:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: military activity in parts of Yellow Sea】Qingdao Maritime Safety Administration posted a navigation warning on the China Maritime Safety Administration website saying military activity will prohibit vessels from entering parts of the Yellow Sea during the following Beijing-time intervals: Oct 21 00:00–Oct 23 00:00; Oct 22 08:00–Oct 24 08:00; Oct 24 00:00–Oct 24 18:00."
+    },
+    {
+      "id": "5156262",
+      "time": "2026-10-20 21:30:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美防長貶低盟友在阿富汗“作用” 英國反駁 】英國首相辦公室19日發聲，批評美國國防部長赫格塞思關於美國盟友在阿富汗戰爭中“作用”有限的言論。赫格塞思17日稱，北約駐阿國際安全援助部隊在阿富汗開展行動時，在那些美國的盟軍當中只有少數幾個參與作戰，其餘大部分“只在旁邊看著”。這番言論再度引發輿論譁然，招致盟友批評。英國首相辦公室發言人19日發表宣告，回擊赫格塞思的言論。宣告說：“數以千計英軍和盟軍及其家庭在那場戰爭中扮演重要角色，超過450名英軍人員再也沒有回來……貶低他們的作用不對。”美國總統特朗普先前也發表過類似言論，稱美國盟友在阿富汗戰爭期間“躲在後面，避開前線”。這番言論同樣激起盟友批評。德國防長鮑里斯·皮斯托裡烏斯當時表示，這樣談論盟友在戰爭中死亡計程車兵“是不對的，也缺乏尊重，他們當時都同美國站在一邊”。澳大利亞總理阿爾巴尼斯說，美方說法“完全不恰當，完全不可接受”。美國在“9·11”事件後發動阿富汗戰爭，英國、德國、澳大利亞等國均派兵參與行動。（新華社）"
+    },
+    {
+      "id": "mkt:01a15981-8346-7ee0-a907-bc22f44df8a1",
+      "time": "2026-10-20 21:30:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Head of Agence France Trésor (AFT) said the agency has not seen selling by Japanese investors in French public debt."
+    },
+    {
+      "id": "te:markets:593482",
+      "time": "2026-10-20 21:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "General Electric Aerospace Shares Hit 21-week Low — General Electric Aerospace shares decreased to 295.54 USD, the lowest since May 2026. Over the past 4 weeks, General Electric Aerospace lost 2.42%, and in the last 12 months, it increased 2.84%."
+    },
+    {
+      "id": "5156261",
+      "time": "2026-10-20 21:30:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！黃海海域有軍事活動】據中國海事局網站訊息，青島海事局釋出航行警告，10月21日0時至10月23日0時，10月22日8時至10月24日8時，10月24日0時至10月24日18時，黃海部分海域進行軍事活動，禁止駛入。"
+    },
+    {
+      "id": "5156260",
+      "time": "2026-10-20 21:29:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國里昂：市中心宵禁時間延長，從週二晚9點至週三早6點（省政府）。"
+    },
+    {
+      "id": "mkt:01a15980-eb0f-7ee0-a907-b235dc8df3e4",
+      "time": "2026-10-20 21:29:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lyon municipal authorities said the city-centre curfew has been extended to 9pm Tuesday–6am Wednesday."
+    },
+    {
+      "id": "5156259",
+      "time": "2026-10-20 21:28:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：自今年8月以來，未監測到伊朗哈爾克島石油設施有任何裝油作業。"
+    },
+    {
+      "id": "mkt:01a1597f-f4e0-7ee0-a907-ab053df526f8",
+      "time": "2026-10-20 21:28:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian prime minister wins parliamentary confidence vote."
+    },
+    {
+      "id": "mkt:01a1597f-e80d-7ee0-a907-a3f5569a7c16",
+      "time": "2026-10-20 21:28:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said U.S. monitoring has detected no loading operations at Iran's Kharg Island oil facilities since August this year."
+    },
+    {
+      "id": "5156258",
+      "time": "2026-10-20 21:28:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞總理在議會贏得信任投票。"
+    },
+    {
+      "id": "mkt:01a1597f-bdda-7ee0-a907-9ea1f091cbf3",
+      "time": "2026-10-20 21:28:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. has a once-in-a-generation opportunity in Latin America."
+    },
+    {
+      "id": "te:markets:593481",
+      "time": "2026-10-20 21:28:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Slips as Rising Oil Prices Fuel Rate Hike Expectations — Gold prices edged lower to $4,120 an ounce on Tuesday as rising oil prices stoked inflation concerns, prompting investors to reassess the US interest rate outlook ahead of next week’s Federal Reserve meeting. Brent crude climbed to a five-month high amid renewed Houthi attacks and reports of vessel strikes in the Gulf, heightening concerns over regional supply disruptions and reinforcing expectations of tighter monetary policy. Although the Fed is widely expected to leave rates unchanged next week, investors will closely scrutinize its forward guidance for clues on a potential December hike. Markets now price in a more than 90% chance of a rate increase, according to the CME FedWatch Tool. While gold is traditionally viewed as an inflation hedge, higher interest rates reduce its appeal relative to yield-bearing assets."
+    },
+    {
+      "id": "5156257",
+      "time": "2026-10-20 21:28:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨表示，主權意味著不依賴世界其他大洲。歐洲大陸足夠強大，能夠建立自己的主權。法國總統馬克龍2017年在巴黎索邦大學首次發表演講時就已經說對了。建立歐洲主權是關鍵，德國是其中一部分，而且我敢說德國是其中最大的部分，因為我們是歐洲最大的經濟體，我們必須加快推進。"
+    },
+    {
+      "id": "5156256",
+      "time": "2026-10-20 21:28:04",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長瓦爾加：政府的預算路徑與歐元目標一致。"
+    },
+    {
+      "id": "5156255",
+      "time": "2026-10-20 21:27:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長瓦爾加：需要採取有紀律的財政政策才能實現預算目標。"
+    },
     {
       "id": "mkt:01a1597e-5c46-7ee0-a907-90e4c0e3b7a3",
       "time": "2026-10-20 21:26:55",
