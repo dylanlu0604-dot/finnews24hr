@@ -1,7 +1,350 @@
 {
-  "updated": "2026-10-20 21:20:07",
-  "count": 13503,
+  "updated": "2026-10-20 21:27:43",
+  "count": 13529,
   "items": [
+    {
+      "id": "mkt:01a1597e-5c46-7ee0-a907-90e4c0e3b7a3",
+      "time": "2026-10-20 21:26:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Aziz, chair of Iran's parliamentary National Security and Foreign Policy Commission, said Israel will ultimately be destroyed by the brave Iranian people and the axis of resistance."
+    },
+    {
+      "id": "5156254",
+      "time": "2026-10-20 21:26:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長瓦爾加：政府的財政目標似乎符合加入歐元區的要求。"
+    },
+    {
+      "id": "5156253",
+      "time": "2026-10-20 21:26:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特：尚未收到普京關於參加G20的回覆。"
+    },
+    {
+      "id": "mkt:01a1597e-177d-7ee0-a907-8fe4959f13c5",
+      "time": "2026-10-20 21:26:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he has not yet received a reply from Russian President Putin on the G20."
+    },
+    {
+      "id": "mkt:01a1597e-0844-7ee0-a907-828190acf027",
+      "time": "2026-10-20 21:26:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Iran is beginning to panic and its currency has already collapsed."
+    },
+    {
+      "id": "5156252",
+      "time": "2026-10-20 21:26:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗開始出現恐慌，貨幣已崩潰。"
+    },
+    {
+      "id": "5156251",
+      "time": "2026-10-20 21:26:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特：我們在拉丁美洲擁有一代人一遇的機遇。"
+    },
+    {
+      "id": "5156250",
+      "time": "2026-10-20 21:26:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈里伯頓：委內瑞拉的設施、團隊和裝置均已到位。"
+    },
+    {
+      "id": "5156249",
+      "time": "2026-10-20 21:26:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "參議院民主黨人公佈對德勤和Conduent的調查結果。"
+    },
+    {
+      "id": "mkt:01a1597d-830c-7ee0-a907-7eacba014713",
+      "time": "2026-10-20 21:25:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent said Iran's economy will at some point enter a nonlinear state."
+    },
+    {
+      "id": "5156248",
+      "time": "2026-10-20 21:25:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗經濟將在某一時點出現非線性變化。"
+    },
+    {
+      "id": "5156247",
+      "time": "2026-10-20 21:24:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "哈里伯頓公司預計第四季度鑽井和評估部門的收入將環比下降 3% 至 5%。"
+    },
+    {
+      "id": "5156246",
+      "time": "2026-10-20 21:24:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我認為抵押貸款利率會下降。"
+    },
+    {
+      "id": "mkt:01a1597c-0837-7ee0-a907-747d3d20841a",
+      "time": "2026-10-20 21:24:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said an energy shock has pushed interest rates higher and the housing market has slowed."
+    },
+    {
+      "id": "5156245",
+      "time": "2026-10-20 21:24:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利財政部長卡爾曼表示，匈牙利必須在2027年規劃初步的歐元相關步驟。"
+    },
+    {
+      "id": "mkt:01a1597b-d4a3-7ee0-a907-6db8c28f6c07",
+      "time": "2026-10-20 21:24:09",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said he expects mortgage rates to decline."
+    },
+    {
+      "id": "mkt:01a1597b-c1e7-7ee0-a907-6638c1d9a851",
+      "time": "2026-10-20 21:24:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said ownership issues for Fannie Mae and Freddie Mac could be addressed next year."
+    },
+    {
+      "id": "5156244",
+      "time": "2026-10-20 21:24:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利財長：需要在加入ERM-2前啟動準備工作。"
+    },
+    {
+      "id": "mkt:01a1597b-ae26-7ee0-a907-5addad099d2f",
+      "time": "2026-10-20 21:24:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US Treasury Secretary Bessent said the government will ensure agency bond spreads will not widen regardless of what measures it takes regarding Fannie Mae and Freddie Mac."
+    },
+    {
+      "id": "5156243",
+      "time": "2026-10-20 21:23:54",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特：無論我們對房利美採取何種措施，房地美都將確保機構債務利差不會擴大。"
+    },
+    {
+      "id": "5156242",
+      "time": "2026-10-20 21:23:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國財長貝森特：利率上漲是由於能源衝擊，房地產市場放緩。"
+    },
+    {
+      "id": "5156241",
+      "time": "2026-10-20 21:23:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【C919國產大飛機 聯通中西部空中交通】10月20日17點57分，從湖南長沙起飛的國產大飛機C919平穩降落寧夏銀川河東國際機場。此次執飛的中國南方航空CZ3925航班是C919首次在銀川執飛商業客運航班，標誌著國產大飛機C919助力中部與西北地區互聯互通邁出新步伐。（新華社）"
+    },
+    {
+      "id": "5156240",
+      "time": "2026-10-20 21:23:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超純應材：公司的光學產品已在光刻裝置及量檢測裝置中逐步量產】有投資者向超純應材（301717.SZ）提問，公司光學產品是用於國內的相關公司嗎，國內相關市場空間有多大？10月20日，公司在互動平臺回答表示，公司的光學產品已在光刻裝置及量檢測裝置中逐步量產。"
+    },
+    {
+      "id": "5156239",
+      "time": "2026-10-20 21:22:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "哈里伯頓執行長表示，公司在委內瑞拉“已恢復運營”。"
+    },
+    {
+      "id": "5156238",
+      "time": "2026-10-20 21:22:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌加元跌至4周低點1.4036。"
+    },
+    {
+      "id": "5156237",
+      "time": "2026-10-20 21:21:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞議會投票批准由候任總理盧卡·尼古列斯庫領導的新政府。"
+    },
+    {
+      "id": "5156236",
+      "time": "2026-10-20 21:21:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Waymo計劃明年進入西班牙市場 在馬德里啟動自動駕駛網約車服務】Alphabet旗下自動駕駛公司Waymo當地時間10月20日宣佈，計劃明年進入西班牙市場，在馬德里地區推出自動駕駛網約車服務。該公司稱，計劃分別於今年、明年和2028年在英國倫敦、日本東京和加拿大多倫多啟動自動駕駛網約車服務。"
+    },
+    {
+      "id": "mkt:01a15979-6739-7ee0-a907-542df527dc11",
+      "time": "2026-10-20 21:21:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent said the US is gradually emerging from the shadow of the energy shock."
+    },
+    {
+      "id": "mkt:01a15979-50a9-7ee0-a907-4de14f6cea14",
+      "time": "2026-10-20 21:21:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Treasury Secretary Bessent said the US needs to control spending."
+    },
+    {
+      "id": "5156235",
+      "time": "2026-10-20 21:21:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "Salesforce預計，該交易將稀釋近期盈利能力。"
+    },
+    {
+      "id": "5156234",
+      "time": "2026-10-20 21:21:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用汽車執行長：股票回購計劃反映了“當我們認為股票被低估時，我們承諾將現金返還給股東”。"
+    },
+    {
+      "id": "5156233",
+      "time": "2026-10-20 21:20:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋國民銀行與貝萊德推出兩隻新的收益型基金，分別為FundStar阿聯酋CLO AA基金和阿聯酋系統化收益與增長基金。"
+    },
+    {
+      "id": "mkt:01a15978-a6ff-7ee0-a907-46012dfa4867",
+      "time": "2026-10-20 21:20:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Treasury Secretary Bessent said the US needs to reduce its debt through economic growth."
+    },
+    {
+      "id": "5156232",
+      "time": "2026-10-20 21:20:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們需要透過增長來擺脫債務問題。"
+    },
+    {
+      "id": "5156231",
+      "time": "2026-10-20 21:20:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們正逐漸走出能源衝擊的陰霾。"
+    },
+    {
+      "id": "5156230",
+      "time": "2026-10-20 21:19:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們需要控制支出。"
+    },
+    {
+      "id": "5156229",
+      "time": "2026-10-20 21:19:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們需要透過發展來擺脫債務。"
+    },
+    {
+      "id": "5156228",
+      "time": "2026-10-20 21:19:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "Salesforce：目前對2030財年框架沒有調整。"
+    },
     {
       "id": "5156227",
       "time": "2026-10-20 21:19:29",
@@ -123503,107 +123846,6 @@
         "觀點"
       ],
       "text": "【高盛與摩根大通拒絕承銷利率11%的AI晶片貸款】華爾街兩大投行摩根大通與高盛在一筆面向今年成立的新興雲服務商Volta Infrastructure Holdings的50億美元AI貸款專案中採取“罕見舉措限制自身敞口”，僅承銷13億美元定期貸款，37億美元晶片貸款完全不予承銷以防範潛在風險，整筆貸款打包發售利率約11%，為AI融資槓桿貸款市場最高借貸成本水平之一，發售標的包含3.6萬顆英偉達晶片與一份挪威租賃權。"
-    },
-    {
-      "id": "te:markets:591531",
-      "time": "2026-10-13 21:26:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Prices Steady as Markets Await US Inflation Data — Gold prices were little changed at around $4,180 an ounce on Tuesday as oil prices ended a three-session rally and the US dollar weakened, while expectations of an interest rate hike by the Federal Reserve this month remained subdued ahead of a busy week of US economic data releases. Investors are awaiting September’s US Consumer Price Index report on Wednesday, followed by the Producer Price Index and retail sales data on Thursday. Markets will also be watching Fed Chair Kevin Warsh’s appearance at the IMF-World Bank annual meetings on Friday for further clues on the central bank’s monetary policy outlook. According to CME’s FedWatch tool, traders are pricing in less than a 20% probability of a Fed rate hike this month, while the likelihood of an increase in December exceeds 85%. Meanwhile, Cleveland Fed President Beth Hammack said the central bank should move “relatively quickly” toward a more restrictive monetary policy stance to bring inflation under control."
-    },
-    {
-      "id": "5142517",
-      "time": "2026-10-13 21:26:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天利科技：澄清Token工廠專案相關不實傳聞】天利科技公告稱，近日關注到有媒體釋出“天利科技Token工廠專案，中交基礎設施養護集團中標，投標報價8.47億元”的報道，經核查，截至目前公司並未釋出相關招標資訊，不存在應披露未披露重大資訊，後續若觸及資訊披露標準將依規履行披露義務。上述不實傳聞透過網路平臺、AI智慧體等渠道傳播，已對公司聲譽及正常經營秩序造成不良影響，公司已透過網路平臺舉報通道投訴處理，並保留透過法律途徑追究相關責任的權利。公司提醒投資者所有重大資訊以指定披露平臺公告為準，理性判斷市場資訊，注意投資風險。"
-    },
-    {
-      "id": "5142516",
-      "time": "2026-10-13 21:25:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "XTEND在無人機優勢專案\"挑戰II\"後獲授4,050萬美元訂單，供應6,000套STRIKER系統。"
-    },
-    {
-      "id": "5142515",
-      "time": "2026-10-13 21:25:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東百集團超3億元跨界併購晶片企業：標的公司2025年營收下滑超三成，競業限制糾】10月11日晚，東百集團（SH600693，股價12.30元，市值106.99億元）公告稱，其全資子公司東百創智擬收購杭州快靈光電科技有限公司（以下簡稱快靈光電或標的公司）52.6667%的股權，暫定股權轉讓對價為3.16億元。作為一家處於虧損且年營收不足4000萬元的晶片企業，快靈光電此次獲得超過6億元的估值。記者注意到，東百集團只披露了快靈光電近一年一期的資料，因此從公告中難以看出快靈光電收入變化情況。然而，記者深入調查發現，快靈光電2025年的營業收入下滑超過三成。此外，司法資訊顯示，標的公司目前存在競業限制糾紛，該事項在東百集團對外披露的檔案中也未有體現。（每經）"
-    },
-    {
-      "id": "5142514",
-      "time": "2026-10-13 21:24:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巨灣技研吉瓦時級全固態電池產線正式投產】10月13日，廣州巨灣技研有限公司在其廣州南沙總部基地舉行“全固態電池量產升級竣工投產儀式”。據巨灣技研介紹，這是行業首條透過現有產線技改升級、用於生產符合固態電池國家標準分類（GB/T 48093.1-2026）產品的吉瓦時級固態電池產線。改造後的產線具備固液柔性切換生產能力——可根據市場需求靈活在傳統液態鋰電池與全固態電池之間切換排產。"
-    },
-    {
-      "id": "5142513",
-      "time": "2026-10-13 21:23:42",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【丁薛祥會見清華大學經濟管理學院顧問委員會委員代表】中共中央政治局常委、國務院副總理丁薛祥13日在北京會見清華大學經濟管理學院顧問委員會委員代表。丁薛祥重點圍繞人工智慧發展和治理同各位委員進行交流。他指出，人工智慧是引領新一輪技術革命和產業變革的關鍵力量，要把這項塑造未來的技術發展好、運用好、治理好，更好造福全人類。歡迎大家支援和參與世界人工智慧合作組織建設，促進共同繁榮、維護共同安全。顧問委員會成立26年來，成為中外對話交流合作的重要平臺，希望各位委員為中國教育事業和經濟發展作出更多貢獻。（新華社）"
-    },
-    {
-      "id": "5142512",
-      "time": "2026-10-13 21:23:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【庫克和眾多商界大佬到清華大學開會】10月13日，多名網友拍攝到蘋果董事會執行董事長蒂姆·庫克現身清華校園。其中一位偶遇庫克的網友Lucky告訴極目新聞記者，自己是13日下午兩點多在清華大學經濟管理學院建華樓門口偶遇到庫克，庫克比耶揮手後便直接離開了，這是她第一次見到他。“查了一下，發現這兩天在開經濟管理學院顧問委員會的會議，蘇姿豐和黃仁勳也是委員，不知道他們明天會不會來。”她稱。據清華大學經濟管理學院公眾號內容，清華大學經濟管理學院顧問委員會2026年會議於10月13日、14日在北京召開。（第一財經）"
-    },
-    {
-      "id": "5142511",
-      "time": "2026-10-13 21:22:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元兌美元EUR/USD突破1.12，日內漲0.41%。"
-    },
-    {
-      "id": "5142510",
-      "time": "2026-10-13 21:22:05",
-      "tags": [
-        "國際",
-        "兩會"
-      ],
-      "text": "【趙樂際分別會見波札那總統博科、多哥部長會議主席福雷】全國人大常委會委員長趙樂際10月13日下午在北京分別會見波札那總統博科、多哥部長會議主席福雷。會見博科時，趙樂際表示，波札那是中國在南部非洲的重要夥伴。今天習近平主席將同總統先生舉行會談，共同擘畫中博關係的光明前景。中方願同博方一道，落實好兩國元首達成的重要共識，堅持平等互信、互利共贏，促進民心相通，推動中博關係邁向更高水平。中國全國人大願同波札那議會加強合作，圍繞民主法治建設等開展經驗交流，為兩國務實合作提供法律保障。會見福雷時，趙樂際表示，中多建交50多年來，始終真誠友好、平等互信、合作共贏，成為全球南方團結合作典範。今天習近平主席將同主席先生舉行會見，共同擘畫雙邊關係發展藍圖。中方願同多方一道，以兩國領導人重要共識為引領，深化政治互信，拓展互利合作，密切人文交流。中國全國人大願同多哥議會兩院加強交流互鑑，密切在各國議會聯盟等多邊機制內的協調配合。（新華社）"
-    },
-    {
-      "id": "5142509",
-      "time": "2026-10-13 21:21:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內漲1%，現報4915.00元。"
-    },
-    {
-      "id": "5142508",
-      "time": "2026-10-13 21:21:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【波蘭兩大富豪聯手佈局核能 計劃建設小型模組化核反應堆】波蘭億萬富翁Michal Solowow與Solorz家族已同意聯合建設小型模組化核反應堆。這是雙方第二次嘗試在核能專案上展開合作，正值波蘭著手更新老舊電力設施之際。"
-    },
-    {
-      "id": "5142507",
-      "time": "2026-10-13 21:20:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Truist：上調Meta目標價至華爾街最高的1000美元，看好Muse強勁勢頭】Truist Securities將Meta Platforms的目標價從763美元上調至1000美元，與富國銀行並列華爾街最高，維持“買入”評級，理由是該公司旗下Muse AI智慧體的早期應用勢頭強勁。分析師在遠期預測中新增了Muse的業績貢獻，基準情景下預計到2030年Muse將帶來285億美元的增量收入。他預計Meta Platforms第三季度營收將達到639億美元，同比增長25%，處於管理層610億至640億美元指引區間的高階，也略高於市場普遍預期的633億美元。"
     }
   ]
 }
