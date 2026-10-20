@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-21 02:35:21",
-  "count": 13471,
+  "updated": "2026-10-21 02:39:08",
+  "count": 13472,
   "items": [
+    {
+      "id": "mkt:01a15a99-ec6a-7ee0-a90e-5980e5167b5b",
+      "time": "2026-10-21 02:36:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine talks held in Norway; US envoy Witkoff to brief Russia】US presidential envoy Witkoff met Ukrainian President ZELENSKIY in Oslo on Oct. 20, with leaders from Norway and Finland attending and Jared Kushner joining by video. Norwegian Prime Minister Støre and Finnish President Stubb said the talks aimed to draft a peace plan to submit to Russia; no agreement details were released. Witkoff plans to travel to St. Petersburg on Oct. 21 to meet President Putin and relay parts of the Oslo discussions."
+    },
+    {
+      "id": "5156786",
+      "time": "2026-10-21 02:36:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：以色列針對伊朗的行動最終將恢復，但可能不會在以色列和美國中期選舉之前進行。"
+    },
+    {
+      "id": "5156785",
+      "time": "2026-10-21 02:35:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭問題會談在挪威舉行 美特使將赴俄轉達相關內容】當地時間20日，美國總統特朗普的特使威特科夫和烏克蘭總統澤連斯基在挪威奧斯陸舉行會晤，參會者還包括來自挪威、芬蘭等其他歐洲國家的領導人，特朗普女婿庫什納以影片方式參會。挪威首相斯特勒、芬蘭總統斯圖布和烏克蘭總統澤連斯基舉行聯合新聞釋出會，介紹當天烏克蘭問題會談的情況。此次會談旨在制定一項能夠提交俄羅斯方面討論的和平方案。（央視新聞）"
+    },
     {
       "id": "mkt:01a15a98-6800-7ee0-a90e-5499538594d8",
       "time": "2026-10-21 02:34:59",
@@ -123157,23 +123181,6 @@
         "國際"
       ],
       "text": "美國海岸警衛隊：已將6人從佛羅里達海岸擱淺船隻遣返至古巴。"
-    },
-    {
-      "id": "5143023",
-      "time": "2026-10-14 02:36:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國兩黨參議員致信白宮，敦促重視人工智慧安全問題。"
-    },
-    {
-      "id": "5143022",
-      "time": "2026-10-14 02:35:32",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "訊息人士表示，沙特阿美總部附近的達蘭地區聽到巨大爆炸聲。"
     }
   ]
 }
