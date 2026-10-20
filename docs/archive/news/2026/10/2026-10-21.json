@@ -1,7 +1,29 @@
 {
   "date": "2026-10-21",
-  "count": 524,
+  "count": 526,
   "items": [
+    {
+      "id": "mkt:01a15b5d-6ddb-7ee0-a912-cc6926083525",
+      "time": "2026-10-21 06:10:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Reuters poll: 69% of economists expect the Bank of Japan to raise its policy rate to 1.50% in April, up from 36% in a September poll."
+    },
+    {
+      "id": "mkt:01a15b5d-30ec-7ee0-a912-c06bb604d3e1",
+      "time": "2026-10-21 06:09:56",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Reuters survey: 72% of economists polled said dissenting votes against a Bank of Japan rate hike could weaken the yen."
+    },
     {
       "id": "mkt:01a15b5c-b377-7ee0-a912-be7aad2f30b4",
       "time": "2026-10-21 06:09:24",
