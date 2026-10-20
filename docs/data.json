@@ -1,7 +1,94 @@
 {
-  "updated": "2026-10-20 10:22:50",
-  "count": 12973,
+  "updated": "2026-10-20 10:26:37",
+  "count": 12981,
   "items": [
+    {
+      "id": "5154896",
+      "time": "2026-10-20 10:25:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "三大股指悉數翻紅，創業板指漲0.5%，深證成指漲0.3%，全市場超3700只個股上漲。"
+    },
+    {
+      "id": "mkt:01a15720-9355-7ee0-a8f4-47851fb39d3e",
+      "time": "2026-10-20 10:25:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share benchmarks turned positive: ChiNext +0.5%, Shenzhen Composite Index +0.3%; over 3,700 stocks advanced."
+    },
+    {
+      "id": "mkt:01a15720-830a-7ee0-a8f4-3c425d13639a",
+      "time": "2026-10-20 10:25:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Huawei engineers embedded at DeepSeek as cooperation shifts into chip design】Huawei engineers have been based at DeepSeek for an extended period, incorporating large-model training requirements into next‑generation chip design — including compute-task allocation and inter-processor data transfer. The partnership is moving beyond software adaptation into chip-level co-design. DeepSeek plans to begin large-scale pretraining on Huawei's Ascend 950DT as early as year-end; tests are ongoing and the schedule may change. DeepSeek has previously run models and performed fine‑tuning on Huawei chips."
+    },
+    {
+      "id": "5154895",
+      "time": "2026-10-20 10:25:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葛曉燕：依法嚴厲打擊金融詐騙、非法集資、洗錢等嚴重危害金融安全的違法犯罪行為】最高人民檢察院副檢察長葛曉燕在2026金融街論壇年會“護航普惠包容金融新生態”主題論壇上表示，要依法嚴厲打擊金融詐騙、非法集資、洗錢等嚴重危害金融安全的違法犯罪行為，全力推進相關工作，堅決守住不發生系統性金融風險的底線。（21財經）"
+    },
+    {
+      "id": "te:markets:593267",
+      "time": "2026-10-20 10:24:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Trades Below 5.3% — Australia’s 10-year government bond yield traded below 5.3%, struggling to recover from a recent five-week low as investors awaited further clues on the policy outlook. Focus is on RBA Deputy Governor Andrew Hauser, who is due to speak this week and could provide insight into the prospects for a fifth rate hike this year. An RBA official recently noted that the labor market may be cooling faster than anticipated, though the next inflation report on October 28 remains key to the policy outlook. Core inflation in the third quarter is expected to rise above the RBA’s 2–3% target and its 3.3% forecast. Governor Michele Bullock and other officials will face lawmakers that day, offering an opportunity to address the latest figures. Markets now price in roughly a one-in-three chance of a November hike, rising to 56% for December. Meanwhile, elevated oil prices amid ongoing hostilities in the Middle East and Eastern Europe, heightened inflation concerns and pushed global yields higher."
+    },
+    {
+      "id": "mkt:01a1571f-653e-7ee0-a8f4-3447cb556618",
+      "time": "2026-10-20 10:23:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Supreme People's Procuratorate deputy procurator‑general Ge Xiaoyan urges strict crackdown on financial fraud, illegal fundraising and money laundering】Speaking at the 2026 Financial Street Forum annual meeting’s “Safeguarding Inclusive Finance” forum, Supreme People's Procuratorate deputy procurator‑general Ge Xiaoyan said Chinese authorities must lawfully and severely crack down on financial fraud, illegal fundraising, money‑laundering and other crimes that materially threaten financial security, accelerate related enforcement work and firmly guard against systemic financial risk."
+    },
+    {
+      "id": "mkt:01a1571e-d715-7ee0-a8f4-283857b55dd1",
+      "time": "2026-10-20 10:23:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CSRC legal chief says study underway to add Securities Law amendment to next NPC legislative plan】Cheng Hehong, chief lawyer and head of the CSRC Legal Department, said at the 2026 Financial Street Forum that the CSRC is conducting an implementation review of the Securities Law and advancing revisions to the Securities Investment Fund Law. He noted revisions to the Financial Stability Law, PBOC Law, Commercial Bank Law and Banking Supervision Law are already on the National People’s Congress legislative agenda. Based on an in-depth evaluation and given material changes in markets since the Securities Law’s 2019 amendment, the CSRC will study including a Securities Law amendment in the next NPC legislative plan."
+    },
+    {
+      "id": "mkt:01a1571e-b8b8-7ee0-a8f4-26ab8f67ce27",
+      "time": "2026-10-20 10:23:13",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bearish"
+      ],
+      "text": "The union at Micron Technology's (MU.O) Taoyuan, Taiwan plant said it will launch a strike on Thursday."
+    },
+    {
+      "id": "5154894",
+      "time": "2026-10-20 10:22:32",
+      "tags": [
+        "行業",
+        "焦點"
+      ],
+      "text": "【證監會法制司司長程合紅：研究推進將《證券法》修改納入下一屆全國人大的立法規劃】中國證監會首席律師、法制司司長程合紅在2026金融街論壇年會“護航普惠包容金融新生態”主題論壇上表示，要強化系統觀念，及時對專項金融法律進行配套修改完善。他指出，目前金融領域除了金融法在制定之外，同時金融穩定法、人民銀行法、商業銀行法、銀行業監督管理法等法律的修改制定也已經列入了全國人大的立法議程。證監會正在開展證券法實施效果評估，並推進證券投資基金法修改工作。他表示，有必要以金融法制定為契機，對照其基本原則和制度要求，抓緊修改完善其他相關金融法律。在資本市場領域，證券法於2019年修改，至今已有6年多，期間資本市場經歷深刻重大變化。證監會將在深入評估基礎上，研究推進將《證券法》修改納入下一屆全國人大立法規劃。（21世紀經濟報道）"
+    },
     {
       "id": "mkt:01a1571d-dcad-7ee0-a8f4-1d310df8f3c8",
       "time": "2026-10-20 10:22:17",
@@ -118756,18 +118843,6 @@
         "Importance 1"
       ],
       "text": "Bonds Update: South Korea 10Y Bond Yield Falls by 6 bps — Government bonds yields are lower on Tuesday. Top losers are South Korea 10Y (-6.10bps), US 10Y (-3.90bps) and Japan 10Y (-1.50bps)."
-    },
-    {
-      "id": "te:markets:591324",
-      "time": "2026-10-13 10:24:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "South Korea 10-Year Yield Hits 6-Week Low — South Korea’s 10-year government bond yield fell to around 4.25% in mid-October, its lowest in six weeks, as bonds rebounded following government measures to curb volatility. Authorities warned of intervention and cut planned government bond sales for October by 5 trillion won ($3.74 billion) to contain rising yields. Nevertheless, upward pressure on yields persists amid inflation concerns fueled by elevated oil prices and a broader global bond selloff, while stronger-than-expected economic growth driven by the semiconductor boom adds to price pressures. Won swaps are pricing in about a 70% chance of cumulative 50 bps in Bank of Korea rate hikes over the next six months, following back-to-back increases that lifted the policy rate to 3%. Markets are focused on the October 22 policy meeting, where the central bank may hold rates before potentially resuming tightening in November."
     }
   ]
 }
