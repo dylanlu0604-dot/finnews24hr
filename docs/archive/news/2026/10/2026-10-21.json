@@ -1,7 +1,105 @@
 {
   "date": "2026-10-21",
-  "count": 278,
+  "count": 288,
   "items": [
+    {
+      "id": "5156796",
+      "time": "2026-10-21 02:46:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普談伊朗：我們只需就伊朗做出最終決定。我們想以哪種方式取勝，是溫和的方式還是不溫和的方式？但我們做得非常好。"
+    },
+    {
+      "id": "mkt:01a15aa2-339e-7ee0-a90e-9a7e1bf042fb",
+      "time": "2026-10-21 02:45:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the US needs to decide how to defeat Iran, whether by a mild approach or a less-mild one."
+    },
+    {
+      "id": "te:markets:593540",
+      "time": "2026-10-21 02:45:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Falls on Hopes of US-Iran Diplomacy — Crude oil fell to $98 a barrel on Tuesday amid hopes of diplomatic progress between the US and Iran. Pakistan’s army chief, Field Marshal Asim Munir, met with senior Iranian diplomatic and military officials in Tehran to discuss bilateral relations and the status of talks with the US. Although officials from both sides have said in recent weeks that messages and proposals are being exchanged through mediators, the extent of their differences on key issues remains unclear. US President Trump said earlier this month that US forces would not attack Iran before the midterm elections. Meanwhile, attacks on tankers and strikes targeting Saudi Arabia have escalated. At least 18 vessels have come under fire over the past two weeks. On Tuesday, Iran’s IRGC said two “non-compliant” oil tankers had been struck in the Strait of Hormuz. Foreign Ministry spokesperson Esmaeil Baqaei warned at a weekly news conference that Iran would respond to US attacks “in equal measure, if not more forcefully.”"
+    },
+    {
+      "id": "mkt:01a15aa1-d88f-7ee0-a90e-96459527eb6b",
+      "time": "2026-10-21 02:45:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said Europe does not have much time."
+    },
+    {
+      "id": "mkt:01a15aa1-b8ce-7ee0-a90e-8d8211662053",
+      "time": "2026-10-21 02:45:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said Europe must expel illegal migrants or the European Union will cease to exist."
+    },
+    {
+      "id": "mkt:01a15aa0-ef79-7ee0-a90e-8125f6efdcce",
+      "time": "2026-10-21 02:44:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump on Iran said he must make a final decision on which course of action will deliver victory."
+    },
+    {
+      "id": "5156795",
+      "time": "2026-10-21 02:44:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：與處於強硬派控制下的伊朗達成協議極其困難。"
+    },
+    {
+      "id": "mkt:01a15aa0-1f9c-7ee0-a90e-7e6d849754fb",
+      "time": "2026-10-21 02:43:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "U.S. President Trump said Europe must change its ways."
+    },
+    {
+      "id": "mkt:01a15aa0-01be-7ee0-a90e-7551d2b92e6c",
+      "time": "2026-10-21 02:43:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said France has an immigration problem."
+    },
+    {
+      "id": "5156794",
+      "time": "2026-10-21 02:42:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我必須最終決定以何種方式取勝。"
+    },
     {
       "id": "5156793",
       "time": "2026-10-21 02:42:12",
