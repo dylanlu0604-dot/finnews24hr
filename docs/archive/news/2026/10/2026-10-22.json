@@ -1,7 +1,76 @@
 {
   "date": "2026-10-22",
-  "count": 503,
+  "count": 511,
   "items": [
+    {
+      "id": "5159477",
+      "time": "2026-10-22 07:15:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【西太平洋銀行：通脹資料出爐後紐元的下跌大機率是暫時的】西太平洋銀行稱，在通脹資料低於預期後紐元出現回落，但這一跌勢大機率難以持續，年底消費物價或將再度加速上行。該行駐奧克蘭策略師伊姆雷・斯派澤（Imre Speizer）表示，雖然整體通脹小幅不及預期，但 “本次資料的意外程度不足以引發紐元大幅波動，僅會帶來輕微利空影響”。第三季度通脹放緩大機率只是短暫回落，到年底通脹將再度回升至 4% 以上，並且在明年大部分時間裡高於紐西蘭儲備銀行當前的預測值。紐元兌美元 “初期下跌過後，或將重啟上漲行情，向 0.57 至 0.575 區間靠攏”。"
+    },
+    {
+      "id": "5159476",
+      "time": "2026-10-22 07:14:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "康卡斯特計劃在重組中大幅裁員。"
+    },
+    {
+      "id": "5159475",
+      "time": "2026-10-22 07:14:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "目擊者稱，俄羅斯導彈襲擊了烏克蘭基輔。"
+    },
+    {
+      "id": "5159474",
+      "time": "2026-10-22 07:14:08",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【業內人士：短期內燒鹼供需寬鬆格局難發生實質性扭轉】10月21日，國內燒鹼期貨主力合約進一步下行，收盤跌逾2%，盤中跌破1700元/噸，創出該合約品種掛牌以來新低。行情資料顯示，國內燒鹼主連合約年內累計跌幅已超過30%。近期燒鹼價格“跌跌不休”，產業鏈公司影響不一，上游企業利潤承壓，下游企業利潤則有望邊際修復。燒鹼價格的下跌受行業供需矛盾影響。受訪業內人士認為，短期1—2個月內，燒鹼供需寬鬆格局難發生實質性扭轉。"
+    },
+    {
+      "id": "mkt:01a160be-06bc-7ee0-a933-357f03a30d19",
+      "time": "2026-10-22 07:13:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Teck confirms strike notice at Highland Valley Copper; United Steelworkers may strike from Oct. 24 Beijing time】Teck Resources said it has received a strike notice from United Steelworkers Local 7619 covering its Highland Valley Copper operation in British Columbia. The notice allows the union to commence a strike as early as 08:00 Pacific Time on Oct. 24 (23:00 Beijing time on Oct. 24). Teck said the collective agreement expired on Sept. 30, operations are continuing, and the company has contingency plans to maintain safe production and environmental management while it seeks a fair agreement that supports ongoing operation."
+    },
+    {
+      "id": "5159473",
+      "time": "2026-10-22 07:13:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗媒體稱錫裡克傳出數次爆炸聲 】據伊朗法爾斯通訊社當地時間10月21日報道，伊朗南部霍爾木茲甘省沿海地區、緊鄰霍爾木茲海峽的錫裡克當晚傳出數次爆炸聲，目前這些聲音的性質和來源尚不清楚。"
+    },
+    {
+      "id": "5159472",
+      "time": "2026-10-22 07:13:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "西太平洋銀行表示，受通脹資料低於預期影響，紐西蘭元匯率下跌可能是暫時的，因為消費者成本可能會在年底前再次加速上漲。"
+    },
+    {
+      "id": "5159471",
+      "time": "2026-10-22 07:12:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北交所董事長魯頌賓：引入新股發行市值配售 推進北證50 ETF落地】北京證券交易所董事長魯頌賓10月21日在2026金融街論壇年會“共建服務中小企業資本市場新生態”平行論壇上表示，未來北交所將從打造高質量上市公司群體、鞏固投融資平衡發展格局、夯實新三板培土育苗功能、構建深層次對接合作機制四方面發力，推動主陣地建設再上新臺階。結合北交所發展階段和市場特點，不斷健全北交所市場產品體系，促進投融資兩端協調發展。完善發行承銷制度，推進引入新股發行市值配售，強化一二級市場聯動，提升二級市場投資者獲得感；促進新股發行合理定價，推動更多詢價發行案例落地。豐富市場指數基金產品，推進北證50 ETF落地工作，加大北交所基金產品供給，持續豐富市場指數，暢通中長期資金入市渠道。"
+    },
     {
       "id": "5159470",
       "time": "2026-10-22 07:11:34",
