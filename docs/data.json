@@ -1,7 +1,174 @@
 {
-  "updated": "2026-10-21 18:46:04",
-  "count": 13582,
+  "updated": "2026-10-21 18:49:56",
+  "count": 13600,
   "items": [
+    {
+      "id": "5158521",
+      "time": "2026-10-21 18:49:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英偉達攜歐洲雲服務商擴建AI基礎設施 推進安全自主智慧體部署】英偉達表示，歐洲、北歐、非洲及中亞地區的雲服務商正擴大AI算力基礎設施，建設基於英偉達技術的AI工廠，支援模型訓練、推理及後訓練服務。Nscale計劃部署Vera Rubin基礎設施，並在歐洲五個市場擴張；Crusoe正開發面向Vera Rubin平臺的液冷模組化AI工廠；Nebius則採用英偉達Groq 3 LPX，並透過Spectrum-X乙太網將其與Vera Rubin NVL72整合。此外，Aleria、CoreWeave、Lambda、Nebius、Nscale等雲服務商支援英偉達OpenShell參考架構，為AI智慧體提供訪問許可權控制與安全執行機制。"
+    },
+    {
+      "id": "5158520",
+      "time": "2026-10-21 18:48:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷軍：汽車產業如果沒有安全，其他都是0】小米集團創始人、董事長兼CEO雷軍21日在北京舉行的2026世界智慧網聯汽車大會上表示，小米從造車第一天起就高度重視安全問題。他強調，汽車產業如果沒有安全，其他都是0；沒有安全，所有的智慧效能和創新設計都失去了意義。他提到，智慧網聯汽車的“下半場”比的不僅僅是車有多聰明，而是生態有多強大，這是中國的優勢。中國有全球最完備的產業鏈、最活躍的AI創新氛圍和最大的單一市場，“我們完全有機會讓整個智慧生態連成一體，走出一條中國式的創新之路”。（國是直通車）"
+    },
+    {
+      "id": "mkt:01a15e13-af96-7ee0-a926-6839ea777c32",
+      "time": "2026-10-21 18:48:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine's participation in any meeting is essential and that European participation would be preferable."
+    },
+    {
+      "id": "mkt:01a15e13-a3d0-7ee0-a926-629095eb921b",
+      "time": "2026-10-21 18:48:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine will support freezing the situation along the current front line."
+    },
+    {
+      "id": "5158519",
+      "time": "2026-10-21 18:48:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST卓然：股票交易異常波動 多重退市風險並存】*ST卓然公告稱，公司股票連續2個交易日（2026年10月20日、10月21日）收盤價格跌幅偏離值累計達30%，屬於股票交易異常波動情形。經自查及向實控人核實，除已披露事項外，不存在應披露未披露的重大資訊。公司面臨多重退市風險：因涉嫌信披違法違規可能觸及重大違法強制退市；截至10月21日，股票已連續15個交易日收盤市值低於3億元，且股價自10月12日首次低於1元，若連續20個交易日觸發任一情形將被終止上市，交易類退市不進入退市整理期；2025年年報被出具無法表示意見審計報告，已被實施財務類退市風險警示。截至10月20日，公司逾期債務合計5.75億元，對外擔保逾期9460萬元；截至10月15日，銀行賬戶被凍結資金5948.94萬元，生產經營受較大影響。"
+    },
+    {
+      "id": "mkt:01a15e13-79ba-7ee0-a926-5a355f93cfdf",
+      "time": "2026-10-21 18:48:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy says at least a trilateral meeting is needed."
+    },
+    {
+      "id": "5158518",
+      "time": "2026-10-21 18:48:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基表示，烏克蘭將支援沿當前戰線實現凍結。"
+    },
+    {
+      "id": "5158517",
+      "time": "2026-10-21 18:48:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達推出Confidential Bare Metal 擴充套件AI模型與資料機密計算保護】英偉達推出Confidential Bare Metal部署方案，使前沿模型開發商能夠在第三方專用基礎設施上執行敏感工作負載，同時保留對模型和資料的控制權。該方案透過硬體級隔離、加密驗證及訪問限制，保護模型和資料在執行過程中的安全。英偉達機密計算支援範圍進一步擴充套件至Grace Blackwell NVL72、HGX Rubin NVL8及DGX Rubin NVL8系統，並將整合至DSX OS。谷歌雲將為搭載英偉達GB300 NVL72系統的A4X Max例項提供該方案支援，Cohere計劃將其整合至Cohere Model Vault。"
+    },
+    {
+      "id": "5158516",
+      "time": "2026-10-21 18:47:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭的澤連斯基：至少需要舉行三方會晤。烏克蘭參與任何會議都很重要，歐洲人參與也會更好。"
+    },
+    {
+      "id": "5158515",
+      "time": "2026-10-21 18:47:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外長： 伊朗絕不會向任何強權屈膝】伊朗外長髮出警告：霍爾木茲海峽或中東其他區域任何進一步的局勢升級，都會將平民生命、地區各國福祉以及全球經濟置於巨大風險之中。過往的教訓如此，未來也必將如此。倘若美國再次選擇軍事行動、放棄外交途徑，這將帶來一場更加慘重的戰略失敗。伊朗絕不會向任何強權屈膝。"
+    },
+    {
+      "id": "5158514",
+      "time": "2026-10-21 18:47:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳貝殼研究院：1至9月深圳二手房成交量同比增長4.4%，大體量樓盤表現突出】10月21日從深圳貝殼研究院獲悉，今年深圳二手房市場成交保持活躍。據深圳貝殼研究院資料統計，今年1至9月，深圳二手房成交量為53131套，同比增長4.4%。在一系列政策驅動下，剛需“上車”、改善換房、學區置業等需求有序釋放，推動深圳二手房成交規模穩步上行。從成交活躍的樓盤來看，大體量樓盤表現突出，在深圳二手房成交量榜單中佔據較高比重。（中證金牛座）"
+    },
+    {
+      "id": "mkt:01a15e12-4422-7ee0-a926-5394edfe49e2",
+      "time": "2026-10-21 18:46:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Shenzhen Beike Research Institute: Jan–Sep Shenzhen resale home sales +4.4% YoY; large‑volume projects lead】Shenzhen Beike Research Institute said on Oct 21 Shenzhen’s resale housing market remained active. Jan–Sep resale transactions totaled 53,131 units, up 4.4% YoY. Policy measures have supported an orderly release of first‑time buyer, upgrade and school‑district demand, driving a steady increase in resale volumes. Large‑scale developments accounted for a disproportionately high share of transactions."
+    },
+    {
+      "id": "5158513",
+      "time": "2026-10-21 18:46:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基表示，美國國務卿魯比奧告訴他將著手解決星鏈相關問題。"
+    },
+    {
+      "id": "mkt:01a15e12-08b8-7ee0-a926-4978660bff48",
+      "time": "2026-10-21 18:46:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign minister says Tehran controls Strait of Hormuz shipping, vows to act as guardian】Iran’s foreign minister wrote in the Financial Times that, by geography, Iran has unmatched control over maritime traffic in the Strait of Hormuz and that alternative routes are overhyped; the waterway is indispensable to the region and the global economy. He said Iran is determined to fulfil its historical role as guardian of the strait and of vessels with lawful passage. A solution remains possible only if the US genuinely accepts it has no military option, he added. Any further escalation in or around the Strait of Hormuz would endanger civilian lives, the welfare of all regional states and the global economy. He warned that US military action instead of diplomacy would produce greater strategic failure and said Iran will not yield to any power."
+    },
+    {
+      "id": "5158512",
+      "time": "2026-10-21 18:46:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭方面報道稱：10月20日，俄羅斯的襲擊損壞了GigaCenter的資料中心。因此，客戶可能會遇到該處裝置執行中斷的情況。公司目前正在努力消除此次襲擊造成的後果。"
+    },
+    {
+      "id": "mkt:01a15e11-8a34-7ee0-a926-401a81cb26dd",
+      "time": "2026-10-21 18:46:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY says Ukraine's use of \"Starlink\" remains restricted."
+    },
+    {
+      "id": "5158511",
+      "time": "2026-10-21 18:46:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基表示，“星鏈”服務仍然受限。"
+    },
+    {
+      "id": "mkt:01a15e11-4006-7ee0-a926-3f3029123383",
+      "time": "2026-10-21 18:45:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said any peace deal must be approved by referendum."
+    },
+    {
+      "id": "5158510",
+      "time": "2026-10-21 18:45:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇試試驗：2026年第三季度淨利潤4012.37萬元，同比增長1.44%】蘇試試驗公告，2026年第三季度營業收入5.2億元，同比下降3.93%；歸母淨利潤4012.37萬元，同比增長1.44%；扣非淨利潤3753.68萬元，同比增長6.52%。2026年前三季度營業收入15.99億元，同比增長4.39%；歸母淨利潤1.7億元，同比增長8.12%；扣非淨利潤1.64億元，同比增長9.99%。"
+    },
     {
       "id": "te:markets:593828",
       "time": "2026-10-21 18:45:35",
@@ -12,6 +179,15 @@
         "Importance 2"
       ],
       "text": "Crude Oil Rises to 5-Week High — Crude oil climbed to around $100 a barrel on Wednesday, its highest level since September 17 as continued attacks in the Strait of Hormuz heightened concerns over global supply security. The UK Maritime Trade Operations agency reported that a vessel had been struck near Oman, while Iran’s state-run IRIB News said a supertanker had hit a sea mine in the strait. Tehran has intensified attacks in recent weeks, with more incidents reportedly targeting vessels’ engine rooms and raising risks for maritime traffic. However, oil flows through the strategic waterway have remained relatively strong. US Secretary of State Marco Rubio said Tuesday that shipments through the chokepoint were approaching prewar levels, while data from Kpler and Vortexa showed broader Middle Eastern exports had increased since the summer. Investors are also awaiting US inventory figures due later Wednesday, after the American Petroleum Institute reported a 4.9 million-barrel decline in crude stocks last week."
+    },
+    {
+      "id": "5158509",
+      "time": "2026-10-21 18:45:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基表示，任何和平協議都需要透過全民公投。"
     },
     {
       "id": "5158508",
@@ -123760,30 +123936,6 @@
         "Importance 0"
       ],
       "text": "Italy's BTP Yield Holds at One-Week Low — Italy’s 10-year BTP yield eased to 4.54%, remaining near a one-week low while tracking a broader decline in global bond yields. ECB President Largarde stated that no sign of second-round effects of high energy prices on inflation were seen yet, although caution remains of persistent inflationary pressures. As such, markets continue to expect a ECB hike in December. In Italy, its largest business lobby, Confindustria, has warned of the impact of a worsening energy shock on Italian economic growth. While its forecasts for 2026 match the government's at 1%, growth for 2027 is seen lower at 0.6%, as the phaseout of free EU carbon permits could lead to loss of capacity and further company closures. This adds to concerns over Italy's 2027 budget plan that's set to be above the EU's 3% of GDP limit, on optimistic growth assumptions. Italy’s debt-to-GDP ratio, currently at 138.6%, is also expected to surpass Greece’s this year as the eurozone’s most indebted country."
-    },
-    {
-      "id": "te:markets:591900",
-      "time": "2026-10-14 18:48:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Finishes Lower — India’s BSE Sensex closed about 0.3% down at 72,781.9 on Wednesday, reversing the prior session's rally, partly due to profit-booking. Meanwhile, market sentiment was pressured by the renewed increase in oil prices, geopolitical uncertainties and sustained foreign outflows. Foreign portfolio investors extended their selling streak to 13 sessions on Tuesday, taking year-to-date outflows to a record $32.52 billion. Investors also exerted caution ahead of US inflation data, while also monitoring the ongoing earnings season. Among the major laggards, Bajaj Finance fell 2.6%, M&M lost 2.2%, Bajaj Finserv dropped 2%, Eternal declined 1.7% and ICICI Bank slipped 1.5%. Conversely, tech stocks maintained strong performance, led by Infosys, which rose 2.5%, followed by Tech Mahindra (+2.2%), TCS (+1.5%) and HCLTech (+0.6%). The sector attracted strong investor interest following HCLTech’s quarterly profit, which came in above market expectations. FMGC and oil & gas stocks also advanced."
-    },
-    {
-      "id": "te:markets:591899",
-      "time": "2026-10-14 18:47:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Enel Shares Hit 5-week High — Enel shares increased to 9.07 EUR, the highest since September 2026. Over the past 4 weeks, Enel gained 3.68%, and in the last 12 months, it increased 7.42%."
     }
   ]
 }
