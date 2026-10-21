@@ -1,7 +1,241 @@
 {
   "date": "2026-10-21",
-  "count": 2013,
+  "count": 2040,
   "items": [
+    {
+      "id": "5158540",
+      "time": "2026-10-21 18:52:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Einride擴大與英偉達的合作，為自動駕駛卡車部署AI推理模型。"
+    },
+    {
+      "id": "5158539",
+      "time": "2026-10-21 18:52:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海通發展：擬以4000萬元~8000萬元回購公司股份】海通發展公告，公司擬使用自有資金或自籌資金，透過集中競價交易方式回購股份，回購價格不超過20.31元/股。回購股份將全部用於登出並減少註冊資本，方案尚需提交股東會審議透過。"
+    },
+    {
+      "id": "5158538",
+      "time": "2026-10-21 18:52:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代：10月21日斥資8億元回購348.86萬股】寧德時代釋出翌日披露報表，10月21日，公司回購股份數目為348.86萬股，每股最高回購價為231.38元，每股最低迴購價為227.51元，付出的價格總額為8億元。"
+    },
+    {
+      "id": "5158537",
+      "time": "2026-10-21 18:52:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星電機加入英偉達基板供應鏈 將擴建韓國生產設施】英偉達宣佈，三星電機將加入其基板供應鏈，初期利用韓國現有產能供貨，並推進韓國世宗、釜山工廠升級及新建專案。到2028年，分配給英偉達的產量預計將佔三星電機年度封裝基板總產能的相當大比例。"
+    },
+    {
+      "id": "5158536",
+      "time": "2026-10-21 18:52:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬事達卡閘道器在敘利亞上線，支援國際數字支付。"
+    },
+    {
+      "id": "mkt:01a15e17-2088-7ee0-a926-98547faa83d7",
+      "time": "2026-10-21 18:52:16",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Zelenskiy said a ceasefire is needed first, followed by talks and implementation of US security guarantees."
+    },
+    {
+      "id": "5158535",
+      "time": "2026-10-21 18:51:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國信貸銀行：截至9月末不良貸款總額比率為4%。"
+    },
+    {
+      "id": "5158534",
+      "time": "2026-10-21 18:51:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達：谷歌雲將在多個站點將 Vera Rubin 基礎設施擴充套件至 96 萬個 Rubin GPU。"
+    },
+    {
+      "id": "te:markets:593829",
+      "time": "2026-10-21 18:51:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Nears War-Driven Highs — Brent crude rose toward $111 a barrel, the highest in five months, and close to the peak recorded in early May, shortly after the Middle East conflict began. Continued attacks in the Strait of Hormuz heightened concerns over global supply security, with the UK Maritime Trade Operations agency reporting that a vessel had been struck near Oman. Also, Iran’s state-run IRIB News said a supertanker had hit a sea mine in the strait. Tehran has intensified attacks in recent weeks, with more incidents reportedly targeting vessels’ engine rooms and raising risks for maritime traffic. However, oil flows through the strategic waterway remained relatively strong. US Secretary of State Marco Rubio said that shipments through the chokepoint were approaching prewar levels, while data showed broader Middle Eastern exports increased since the summer. Investors are also awaiting US inventory figures due later Wednesday, after the API reported a 4.9 million-barrel decline in crude stocks last week."
+    },
+    {
+      "id": "5158533",
+      "time": "2026-10-21 18:51:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：需要先停火，然後進行談判，並獲得美國安全保障。"
+    },
+    {
+      "id": "5158532",
+      "time": "2026-10-21 18:51:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【冰山冷熱：2026年第三季度淨利潤1417.08萬元，同比增長16.79%】冰山冷熱公告，2026年第三季度營業收入11.16億元，同比下降9.68%；歸屬於上市公司股東的淨利潤1417.08萬元，同比增長16.79%；扣非淨利潤807.49萬元，同比增長28.63%。2026年前三季度營業收入32.96億元，同比下降8.98%；歸屬於上市公司股東的淨利潤6131.34萬元，同比下降32.38%；扣非淨利潤3880.85萬元，同比下降50.99%。"
+    },
+    {
+      "id": "5158531",
+      "time": "2026-10-21 18:51:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中化裝備：完成股份回購 擬登出142.31萬股減資】中化裝備公告稱，公司完成股份回購，實際回購股份142.31萬股，佔總股本比例0.2063%，回購價格區間為6.89元/股~7.29元/股，累計使用資金1008.91萬元，回購股份將全部用於登出並減少註冊資本。公司將於2026年10月22日登出本次所回購股份，並辦理相關變更登記手續。回購期間公司董事、高管、控股股東及其一致行動人、實控人均不存在買賣公司股票的情況。"
+    },
+    {
+      "id": "5158530",
+      "time": "2026-10-21 18:51:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【9月14家萬億級理財公司規模環比回落，但首個三萬億理財機構呼之欲出】暫別7、8月規模連創新高的走勢，9月14家萬億級理財公司的存續規模有所回落。記者從業內可信渠道彙總的獨家資料顯示，管理規模超過1萬億元的14家理財公司（含6家國有行理財、8家股份行理財公司，約佔市場份額76%）截至9月末的存續規模達到約27.002萬億元，環比8月流出了約3850億元。今年前三個季度，14家主要理財公司存續規模淨增約1.58萬億元。分品類來看，含權產品規模新增約1.97萬億元，囊括1.78萬億固收+（即權益增強產品）、1761億元混合類產品、182億元權益及衍生品產品；現金類產品壓降約3300億元，非現金純債類產品淨流出約493億元。值得一提的是，據記者獲取的可信資料，截至9月末招銀理財的存續規模已經達到了約2.96萬億元，意味著距我國首個三萬億理財機構只有一步之遙。從全市場視角上來看，銀行業理財登記託管中心最新資料顯示，截至今年9月末，全市場5.43萬隻存續產品的規模共計35.37萬億元，較年初的33.29萬億淨增2.08萬億元。（證券時報）"
+    },
+    {
+      "id": "mkt:01a15e16-5fed-7ee0-a926-935d5b82890b",
+      "time": "2026-10-21 18:51:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi"
+      ],
+      "text": "【Lei Jun: Auto industry is nothing without safety】Xiaomi Group (01810.HK) CEO Lei Jun told the World Intelligent Connected Vehicle Conference in Beijing that Xiaomi has prioritized safety since day one of its car project and that without safety other smart features are meaningless. He said the \"second half\" of the intelligent connected vehicle race will be decided by ecosystem strength rather than vehicle intelligence, and that China's complete supply chain, active AI innovation environment and large single market give firms an opportunity to integrate the smart ecosystem and pursue a China-style innovation path."
+    },
+    {
+      "id": "mkt:01a15e16-1ae3-7ee0-a926-893da91d9955",
+      "time": "2026-10-21 18:51:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy says Starlink/Starshield capabilities remain limited; U.S. Secretary of State Rubio says he will address the issue."
+    },
+    {
+      "id": "5158529",
+      "time": "2026-10-21 18:51:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達擴充套件Agent Toolkit智慧體工具包，推出企業資料知識基礎架構】英偉達宣佈擴充套件開源智慧體工具包NVIDIA Agent Toolkit，新增Agent Knowledge Foundation知識基礎架構，幫助企業將內部資料轉化為智慧體可用的業務知識，支援資訊檢索、業務分析、結果預測和決策最佳化，同時無需遷移資料、重建現有工作流或調整治理機制。"
+    },
+    {
+      "id": "mkt:01a15e15-e7d9-7ee0-a926-8158869ae795",
+      "time": "2026-10-21 18:50:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "President Trump said imposing sanctions on Russia would completely halt ongoing negotiations."
+    },
+    {
+      "id": "5158528",
+      "time": "2026-10-21 18:50:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "英偉達：Vera Rubin例項將於下月正式可用，並計劃拓展歐洲市場。"
+    },
+    {
+      "id": "mkt:01a15e15-aa07-7ee0-a926-7f4cd8005505",
+      "time": "2026-10-21 18:50:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA",
+        "Impact bullish",
+        "GOOGL.O"
+      ],
+      "text": "Google Cloud and NVIDIA announced the NVIDIA Vera Rubin infrastructure is now fully available for use."
+    },
+    {
+      "id": "5158527",
+      "time": "2026-10-21 18:50:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達與安靠計劃到2028年將中介層產能提升逾300%。"
+    },
+    {
+      "id": "5158526",
+      "time": "2026-10-21 18:50:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：這些談判本會完全停止。"
+    },
+    {
+      "id": "mkt:01a15e15-70a7-7ee0-a926-7275cc805d47",
+      "time": "2026-10-21 18:50:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said sanctions on Russia could jeopardize prisoner negotiations."
+    },
+    {
+      "id": "5158525",
+      "time": "2026-10-21 18:50:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：對俄羅斯實施制裁會危及囚犯談判。"
+    },
+    {
+      "id": "5158524",
+      "time": "2026-10-21 18:50:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲與英偉達宣佈英偉達 Vera Rubin 基礎設施正式商用。"
+    },
+    {
+      "id": "5158523",
+      "time": "2026-10-21 18:49:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "英偉達與安靠將在韓國擴大先進封裝產能。"
+    },
+    {
+      "id": "5158522",
+      "time": "2026-10-21 18:49:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京與美國特使的會晤仍在進行中。"
+    },
     {
       "id": "5158521",
       "time": "2026-10-21 18:49:26",
@@ -368,6 +602,14 @@
         "MKT News"
       ],
       "text": "President Trump said Russia, out of respect for him, did not request any reciprocal action from the US, an unprecedented stance by Russia, and that the release of US personnel did not require a prisoner exchange."
+    },
+    {
+      "id": "5158493",
+      "time": "2026-10-21 18:39:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達與矽品精密（SPIL）計劃擴大光引擎製造產能，以支援共同封裝光學（CPO）技術及大規模計算基礎設施的連線需求。"
     },
     {
       "id": "mkt:01a15e0b-6b12-7ee0-a926-07a8412fc359",
