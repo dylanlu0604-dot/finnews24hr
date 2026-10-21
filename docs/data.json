@@ -1,7 +1,299 @@
 {
-  "updated": "2026-10-21 17:55:14",
-  "count": 13319,
+  "updated": "2026-10-21 17:59:02",
+  "count": 13350,
   "items": [
+    {
+      "id": "5158348",
+      "time": "2026-10-21 17:58:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港交易所：貝萊德於10月16日將其在海爾智家<6690.HK>的H股多頭持倉從7.26%增至8.34%。"
+    },
+    {
+      "id": "mkt:01a15de5-a9d3-7ee0-a924-0bb9eefc7a1d",
+      "time": "2026-10-21 17:58:14",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bearish"
+      ],
+      "text": "Goldman Sachs cuts Netflix PT to $84 from $90."
+    },
+    {
+      "id": "mkt:01a15de5-a3fc-7ee0-a924-006a11f9c118",
+      "time": "2026-10-21 17:58:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB executive board member Kazaks said he has not seen conditions for excessive wage demands."
+    },
+    {
+      "id": "5158346",
+      "time": "2026-10-21 17:58:12",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛將奈飛的目標價從90美元下調至84美元。"
+    },
+    {
+      "id": "5158345",
+      "time": "2026-10-21 17:57:33",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委拉脫維亞央行行長卡扎克斯：目前未見薪資過度上漲的條件。"
+    },
+    {
+      "id": "5158344",
+      "time": "2026-10-21 17:57:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【爭光股份：可轉債發行稽核問詢相關事項獲補充核查】爭光股份公告稱，國浩律師（杭州）事務所就公司向不特定物件發行可轉換公司債券的稽核問詢函出具補充法律意見書。經核查，經銷商北京爭光與公司合作穩定，不存在報告期內新增大額交易情形，具備商業合理性，且與公司控股股東、實控人及董監高不存在關聯關係；募投專案相關環保、產業政策等核查事項詳見專項核查報告。"
+    },
+    {
+      "id": "mkt:01a15de4-f04d-7ee0-a923-f813bf0c0b3a",
+      "time": "2026-10-21 17:57:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "BofA president of international business said Germany and Europe have a \"real sense of urgency\"."
+    },
+    {
+      "id": "5158343",
+      "time": "2026-10-21 17:57:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達DSX Flex測試中將GPU叢集功耗最多降低40%】英偉達表示，在一項早期試驗中，Emerald AI、EPRI、Nebius、英國國家電網與英偉達合作，在模擬電網事件下，將英偉達Blackwell Ultra GPU叢集的功耗最多降低40%，同時保持關鍵工作負載執行。DSX Flex旨在協調AI工廠用電與電網需求。"
+    },
+    {
+      "id": "5158342",
+      "time": "2026-10-21 17:57:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德石股份：取得解卡螺桿鑽具發明專利證書】德石股份公告稱，公司近日取得國家智慧財產權局頒發的1項發明專利證書，專利名稱為解卡螺桿鑽具，專利號為ZL 2026 1 1171431.3，專利申請日為2026年08月04日，授權公告日為2026年10月20日，專利權人為公司。該專利可用於石油鑽井裝備技術領域，為公司自主創新技術，已在井下卡鑽事故處理中實際應用。該專利取得不會對公司近期生產經營產生重大影響，有利於完善智慧財產權保護體系。"
+    },
+    {
+      "id": "mkt:01a15de4-9770-7ee0-a923-f0787e01584a",
+      "time": "2026-10-21 17:57:04",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "ECB executive board member Kazaks said policymakers should remain cautious as rising yields could slow the economy."
+    },
+    {
+      "id": "mkt:01a15de4-92db-7ee0-a923-e81283d5e4b3",
+      "time": "2026-10-21 17:57:03",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Kazaks said markets are bringing some additional tightening."
+    },
+    {
+      "id": "5158341",
+      "time": "2026-10-21 17:56:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【展芯股份：2026年第三季度淨利潤虧損58.92萬元，同比由盈轉虧】展芯股份公告，2026年第三季度營業收入8438.67萬元，同比下降49.43%；歸母淨利潤虧損58.92萬元，扣非淨利潤虧損195.05萬元。2026年前三季度營業收入4.11億元，同比下降18.94%；歸母淨利潤1.43億元，同比下降27.03%；扣非淨利潤1.39億元，同比下降26.57%。"
+    },
+    {
+      "id": "5158340",
+      "time": "2026-10-21 17:56:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【標普500ETF國泰：二級市場價格大幅溢價 提示投資風險】標普500ETF國泰公告稱，旗下國泰標普500交易型開放式指數證券投資基金（QDII）二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年10月21日，該基金二級市場收盤價為2.072元，當日基金份額參考淨值為1.9236元。若2026年10月22日溢價幅度未有效回落，基金管理人有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。目前基金運作正常，無應披露未披露重大資訊，提醒投資者審慎決策，注意溢價風險。"
+    },
+    {
+      "id": "5158339",
+      "time": "2026-10-21 17:56:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山高環能：航天凱天撤訴獲准，65%股權收購有序推進】山高環能公告，公司此前擬透過下屬公司向山東淄建購買衡陽桑德65%股權，航天凱天因股東優先購買權提起訴訟。公司2026年10月21日收到法院《民事裁定書》，法院准許航天凱天撤訴，訴訟事項已了結，相關收購工作正有序推進。"
+    },
+    {
+      "id": "5158338",
+      "time": "2026-10-21 17:56:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克ETF華安：因交易價格溢價 10月22日起臨時停牌】納斯達克ETF華安公告稱，旗下華安納斯達克100交易型開放式指數證券投資基金（QDII）二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年10月21日，該基金二級市場收盤價為2.502元，收盤時基金份額參考淨值為2.2432元。為保護投資者利益，基金將於2026年10月22日開市起停牌，當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施警示風險。"
+    },
+    {
+      "id": "5158337",
+      "time": "2026-10-21 17:56:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德石股份：2026年第三季度淨利潤1990.48萬元，同比下降60.62%】德石股份公告，2026年第三季度營業收入1.63億元，同比下降1.58%；歸母淨利潤1990.48萬元，同比下降60.62%；扣非淨利潤1968.54萬元，同比下降59.99%。2026年前三季度營業收入4.23億元，同比下降4.49%；歸母淨利潤5152.01萬元，同比下降46.17%；扣非淨利潤4986.55萬元，同比下降43.73%。"
+    },
+    {
+      "id": "5158336",
+      "time": "2026-10-21 17:56:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF廣發：因二級市場溢價 10月22日起臨時停牌】納指ETF廣發公告稱，基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年10月21日，基金二級市場收盤價為1.712元，收盤時基金份額參考淨值為1.4768元。為保護投資者利益，基金將於2026年10月22日開市起停牌，自當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。"
+    },
+    {
+      "id": "5158335",
+      "time": "2026-10-21 17:56:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克100ETF招商：因二級市場溢價將臨停並提示風險】納斯達克100ETF招商公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年10月21日，本基金二級市場收盤價為2.426元，收盤時基金份額參考淨值（IOPV）為2.1338元。為保護投資者利益，本基金將於2026年10月22日開市起停牌，當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，本基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。"
+    },
+    {
+      "id": "5158334",
+      "time": "2026-10-21 17:56:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行國際業務總裁：德國和歐洲有“真正的緊迫感”。"
+    },
+    {
+      "id": "mkt:01a15de3-e345-7ee0-a923-e7d2b125a312",
+      "time": "2026-10-21 17:56:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB executive board member Kazaks said if inflation remains elevated, further policy tightening may be needed."
+    },
+    {
+      "id": "mkt:01a15de3-b4c8-7ee0-a923-d9fdfe2674ca",
+      "time": "2026-10-21 17:56:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "BofA head of international business Bernard Mensah said he is somewhat concerned about sovereign bond yields."
+    },
+    {
+      "id": "mkt:01a15de3-a4c0-7ee0-a923-d66b59649276",
+      "time": "2026-10-21 17:56:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Huaan Nasdaq ETF will be suspended from market open on Oct 22, 2026 and will resume trading at 10:30 on Oct 22, 2026. Redemption requests will be processed normally during the suspension."
+    },
+    {
+      "id": "5158333",
+      "time": "2026-10-21 17:56:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【眾泰汽車：破產處置專戶1956.08萬股股份被司法凍結】眾泰汽車公告稱，公司破產企業財產處置專用賬戶所持19,560,799股公司股票被永康市人民法院司法凍結，佔該專戶持股比例7.76%，佔公司總股本比例0.39%，凍結起始日為2026年10月20日，解凍日為2029年10月19日。凍結原因系公司未履行生效民事判決書義務，被申請強制執行。截至目前，該處置專戶累計被凍結股份85,219,253股，佔其持股比例33.82%，佔公司總股本比例1.69%，累計凍結股份暫無法公開處置，均存在被強制執行風險，不會導致公司第一大股東變更。"
+    },
+    {
+      "id": "5158332",
+      "time": "2026-10-21 17:55:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委拉脫維亞央行行長卡扎克斯：市場層面將出現一些額外的緊縮。"
+    },
+    {
+      "id": "mkt:01a15de3-8d4d-7ee0-a923-cea1079626ed",
+      "time": "2026-10-21 17:55:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President Pezeshkian said the US cannot blockade and threaten Iran while expecting to hold talks."
+    },
+    {
+      "id": "mkt:01a15de3-8d2c-7ee0-a923-c14569c30e77",
+      "time": "2026-10-21 17:55:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Market Regions",
+        "Europe & UK",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA launches DSX POD AI factory to accelerate European infrastructure deployment】NVIDIA launched DSX POD, a factory-integrated AI factory reference design based on the Vera Rubin architecture, targeting faster European AI infrastructure rollouts. Partners build modular container units that are fully integrated and validated in manufacturing; once on site they require only connection to pre-provisioned power, cooling and networking to operate, NVIDIA said, cutting deployment time from about six months to as little as 14 days. The design moves compute, networking, cabling, rack-level power and liquid cooling installation into the factory, reducing on-site planning, construction, skilled labor and logistics and lowering risks from component delays and error-prone field work. NVIDIA said factory-tested containers shorten the path to model training and production inference, enabling customers to start generating tokens and revenue earlier. JENSEN HUANG: AI factory creates value when it starts producing tokens, not when construction finishes."
+    },
+    {
+      "id": "5158331",
+      "time": "2026-10-21 17:55:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平高電氣：2026年第三季度淨利潤4.14億元，同比增長30.50%】平高電氣公告，2026年第三季度營業收入27.78億元，同比增長1.39%；歸屬於上市公司股東的淨利潤4.14億元，同比增長30.50%；扣非淨利潤4.15億元，同比增長31.55%。2026年前三季度營業收入81.53億元，同比下降3.36%；歸屬於上市公司股東的淨利潤12.31億元，同比增長25.34%；扣非淨利潤12.13億元，同比增長24.25%。"
+    },
+    {
+      "id": "5158330",
+      "time": "2026-10-21 17:55:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雙傑電氣等成立新材料科技公司】企查查APP顯示，近日，北京傑投新材料科技有限公司成立，法定代表人為任東強，註冊資本為1000萬元，經營範圍包含非金屬礦物製品製造；高效能纖維及複合材料製造；建築用石加工；建築材料銷售；機械電氣裝置製造等。企查查股權穿透顯示，該公司由雙傑電氣旗下北京北傑新能源有限公司、北京北玄盛強企業管理合夥企業（有限合夥）共同持股。"
+    },
+    {
+      "id": "mkt:01a15de3-66c3-7ee0-a923-be062283b83f",
+      "time": "2026-10-21 17:55:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Guangfa Nasdaq ETF will be suspended from market open on 2026-10-22 and will resume trading at 10:30 on 2026-10-22. Fund redemptions will be processed normally during the suspension."
+    },
+    {
+      "id": "5158329",
+      "time": "2026-10-21 17:55:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委拉脫維亞央行行長卡扎克斯：需保持謹慎，收益率上升可能拖慢經濟。"
+    },
+    {
+      "id": "5158328",
+      "time": "2026-10-21 17:55:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統表示，美國不能一邊封鎖和威脅伊朗，一邊又指望與伊朗對話 。"
+    },
+    {
+      "id": "5158327",
+      "time": "2026-10-21 17:54:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管理委員會成員拉脫維亞央行行長卡扎克斯：如果通脹持續高企，可能還需進一步收緊政策。"
+    },
     {
       "id": "5158326",
       "time": "2026-10-21 17:54:33",
@@ -56,6 +348,14 @@
         "公司"
       ],
       "text": "【通達海：持股5%以上股東63萬股股份將被司法強制執行】通達海公告稱，公司持股5%以上股東辛成海所持63萬股無限售流通股（佔其所持股份的7.81%，佔公司總股本的0.65%），將被江蘇省無錫市新吳區人民法院透過集中競價交易方式強制賣出，所得款項劃付至該院執行賬戶，強制執行期限至2026年11月30日止。本次股份處置系司法強制執行，非股東主動減持，不會導致公司控制權變更，不會對公司治理結構及持續經營產生重大影響。"
+    },
+    {
+      "id": "5158321",
+      "time": "2026-10-21 17:54:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溫氏股份：披露回購股份事項前十大股東持股情況】溫氏股份公告稱，公司董事會於2026年10月16日審議透過回購股份方案，現將董事會公告回購股份決議前一交易日（2026年10月15日）登記在冊的前十名股東及前十名無限售條件股東持股情況予以披露。前十名股東中，溫鵬程持股2.39億股，佔總股本3.59%，為第一大股東；香港中央結算有限公司持股1.23億股，佔總股本1.84%，位列第十。"
     },
     {
       "id": "5158320",
@@ -121343,27 +121643,6 @@
         "Importance 1"
       ],
       "text": "The SENSEX Index Closes 0.34% Lower — The SENSEX Index fell 252 points or 0.34 percent on Wednesday to close at 72782 points. Leading the losses are Bajaj Finance (-2.58%), Bajaj Finserv (-2.47%) and Mahindra & Mahindra (-2.04%). Top gainers were Nestle India (2.70%), Infosys (2.44%) and Tech Mahindra (2.04%)."
-    },
-    {
-      "id": "te:markets:591887",
-      "time": "2026-10-14 17:56:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "French Bond Yields Ease Ahead of US Inflation — France’s 10-year OAT yield eased to 4.82% as investors awaited US inflation data for fresh clues on the Federal Reserve’s rate path. Despite the decline, borrowing costs remain near their highest levels in more than two decades, amid concerns over record public debt and political obstacles to fiscal consolidation. The government aims to reduce the budget deficit to 5% of GDP by 2027, but securing parliamentary support for significant spending cuts remains uncertain ahead of next year’s presidential election. Meanwhile, ECB President Christine Lagarde said elevated energy-driven inflation has yet to spread across the broader euro-area economy, supporting a wait-and-see approach. However, persistent inflation pressures and the ongoing US-Iran conflict have prompted markets to price in another ECB rate hike in December, following two increases earlier this year."
-    },
-    {
-      "id": "em:qqyh_mlc:202610143895561052",
-      "time": "2026-10-14 17:55:35",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲理事鮑曼表示，目前不認為美聯儲有必要進一步調整利率。"
     }
   ]
 }
