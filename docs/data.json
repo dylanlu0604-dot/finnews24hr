@@ -1,7 +1,101 @@
 {
-  "updated": "2026-10-21 13:29:39",
-  "count": 13471,
+  "updated": "2026-10-21 13:33:31",
+  "count": 13481,
   "items": [
+    {
+      "id": "mkt:01a15cf2-f752-7ee0-a91a-1527f17e6550",
+      "time": "2026-10-21 13:33:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rubio says US envoy's meeting with ZELENSKIY was 'positive'】Rubio said US presidential envoy Witkoff is en route to St. Petersburg. He described Witkoff's meeting with ZELENSKIY on the 20th as \"positive\" and said \"nothing unexpected or surprising\" occurred, adding Witkoff can bring those ideas to talks with the Russian side."
+    },
+    {
+      "id": "5157559",
+      "time": "2026-10-21 13:32:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧稱美特使與烏總統會晤是“積極的”】當地時間10月21日，美國國務卿魯比奧表示，美國總統特使威特科夫正前往聖彼得堡。此外，威特科夫20日與烏克蘭總統澤連斯基的會晤是“積極的”，其間“沒有發生任何意料之外”或“令人驚訝”的情況。魯比奧表示，威特科夫可以帶著這些想法前往聖彼得堡，與俄方進行交流。"
+    },
+    {
+      "id": "mkt:01a15cf2-114d-7ee0-a91a-0c61dc0d71f9",
+      "time": "2026-10-21 13:32:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share storage-chip sector rallied in the afternoon; Demingli pushed toward the daily limit, while Hongban Technology, Baiwei Storage, Wantong Development, Dapu Micro and Jiangbolong also jumped higher."
+    },
+    {
+      "id": "5157558",
+      "time": "2026-10-21 13:31:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價回吐早盤漲幅；最新上漲4.7%，報221,500韓元。"
+    },
+    {
+      "id": "mkt:01a15cf1-7c2b-7ee0-a91a-011a0fd3feb5",
+      "time": "2026-10-21 13:31:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rubio: Without U.S. support, Ukraine \"would not exist\"】Senator Rubio defended the Trump administration’s backing of Ukraine, saying the country \"would not exist\" without U.S. support. He made the remarks responding to a Wall Street Journal report that SpaceX CEO Elon Musk ordered a slowdown of Starlink operations, which have been helping Ukraine resist Russian airstrikes. Rubio said he did not know whether the president was informed in advance and added the U.S. cannot control how a private company uses its products. He said a U.S. special envoy will hold \"very tough\" talks with Russian officials in St. Petersburg focused on Donbas, and that both sides have proposed some \"creative ideas\" to bridge gaps."
+    },
+    {
+      "id": "5157557",
+      "time": "2026-10-21 13:31:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊短線拉昇，敏芯股份漲停】半導體板塊短線拉昇，敏芯股份漲停，燦瑞科技、德明利、瀾起科技、艾為電子、恆玄科技等跟漲。"
+    },
+    {
+      "id": "5157556",
+      "time": "2026-10-21 13:31:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【儲存晶片概念震盪反彈 德明利逼近漲停】午後儲存晶片概念震盪反彈，德明利逼近漲停，太極實業、同有科技、佰維儲存、大普微、夏農芯創等快速跟漲。"
+    },
+    {
+      "id": "mkt:01a15cf0-1244-7ee0-a919-fcd2c734ce7f",
+      "time": "2026-10-21 13:29:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS reports U.S. presidential envoy Witkoff arrived in St. Petersburg."
+    },
+    {
+      "id": "5157555",
+      "time": "2026-10-21 13:29:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使威特科夫抵達聖彼得堡。"
+    },
+    {
+      "id": "mkt:01a15cef-f479-7ee0-a919-f6bfa1adf68c",
+      "time": "2026-10-21 13:29:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Indian rupee rose about 0.5% against the US dollar, climbing above 94.50 per dollar to a six-week high."
+    },
     {
       "id": "5157554",
       "time": "2026-10-21 13:29:04",
