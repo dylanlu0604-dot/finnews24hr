@@ -1,7 +1,91 @@
 {
-  "updated": "2026-10-21 23:42:25",
-  "count": 13391,
+  "updated": "2026-10-21 23:46:21",
+  "count": 13398,
   "items": [
+    {
+      "id": "5159081",
+      "time": "2026-10-21 23:45:12",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本壽險公司擬增加購債 為日本國債市場提供支撐】日本壽險公司釋放訊號稱，將在本財年下半年維持或增加對國內債券的購買，這可能為即將進行的日本國債拍賣提供支撐。日本郵政保險表示，計劃增加日元計價債券的購買。Daido Life Insurance Co.則上調了增加國內債券持倉的計劃，增持將主要透過公司債進行。與此同時，明治安田生命保險計劃維持日本國債持倉大致不變，同時賣出收益率較低的債券，轉而配置收益率較高的證券。這些計劃進一步表明，作為日本債市最重要的投資者群體之一，保險公司的債券需求正開始回升。根據日本證券業協會的資料，保險公司過去四個月一直是超長期日本國債的淨買家。策略師表示，這一趨勢可能為接下來的日本國債拍賣提供更穩固的需求支撐。"
+    },
+    {
+      "id": "5159080",
+      "time": "2026-10-21 23:44:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【EBay將裁員9% 為今年第二輪裁員】知情人士稱，eBay Inc.將裁員9%，這是該公司今年第二輪裁員。知情人士表示，此次裁員將涉及約1000名員工。此前援引該公司執行長的內部備忘錄報道了裁員訊息。“隨著我們致力於把握未來的重大機遇，採取這一舉措是為了讓團隊和資源與最優先的戰略事項保持一致，確保公司繼續保持有利的運營地位，”eBay發言人在電郵宣告中表示。"
+    },
+    {
+      "id": "mkt:01a15f22-52e7-7ee0-a92d-940098673179",
+      "time": "2026-10-21 23:44:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran supreme leader meets parliament speaker Ghalibaf】On the 21st, Iran’s supreme leader met parliament speaker Ghalibaf. They reviewed recent US‑Israel developments in military, economic and information/cognitive warfare, and stressed strengthening national capabilities and addressing the population’s economic and livelihood concerns."
+    },
+    {
+      "id": "5159079",
+      "time": "2026-10-21 23:44:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖會見議會議長卡利巴夫】當地時間21日，伊朗最高領袖穆傑塔巴會見伊朗議會議長卡利巴夫。會談中，兩人回顧了美以在軍事、經濟和認知戰方面的最新進展，並重點強調了加強國家力量建設、解決人民的經濟和民生問題等議題。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a15f21-f927-7ee0-a92d-8f3c6817159a",
+      "time": "2026-10-21 23:43:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni armed forces said they launched 835 targeted strikes against Iran-backed Houthi forces in the past 24 hours, causing 285 Houthi fighters killed, wounded or rendered combat ineffective."
+    },
+    {
+      "id": "5159078",
+      "time": "2026-10-21 23:43:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京稱俄羅斯準備好與美國和烏克蘭舉行新一輪和平談判】克里姆林宮表示，俄羅斯總統普京表示，該國準備好恢復與美國和烏克蘭就潛在和平協議舉行三方談判。克里姆林宮外交政策助理Yuri Ushakov對記者表示，普京週三在聖彼得堡與美國總統唐納德·特朗普的特使史蒂夫·威特科夫舉行了三個多小時的會談，並在會談中提出這一建議。Ushakov稱，俄羅斯準備在11月上半月舉行三方會談，但沒有說明參與談判的官員級別。Ushakov表示：“議題涉及衝突結束後為俄羅斯和烏克蘭建立安全體系。”據俄羅斯新聞媒體Vesti報道稱，Ushakov表示不清楚距離結束衝突有多近，但各方正朝著這一方向邁進。此前威特科夫週二在奧斯陸與烏克蘭總統澤連斯基、挪威首相以及芬蘭總統舉行了會談。威特科夫在會談伊始告訴普京，在挪威進行了“富有成效的”討論後，他帶來了解決這場戰爭潛在方案的提案檔案。"
+    },
+    {
+      "id": "mkt:01a15f20-cba1-7ee0-a92d-8186c907ffde",
+      "time": "2026-10-21 23:42:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dutch prime minister said the cabinet is closely monitoring a PHP vulnerability. The National Cyber Security Centre advised immediate patching and taking vulnerable systems offline until remediation is complete. Public services including DigiD and MijnOverheid will be taken offline and restored only after they are secured."
+    },
+    {
+      "id": "5159077",
+      "time": "2026-10-21 23:42:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國航空航天局公佈月球車最新研發進展及任務規劃】美國航空航天局當地時間20日公佈了其月球車的最新研發進展及任務規劃。用於探測月球水資源的“揮發物調查極地探索車”（VIPER）計劃於2027年運抵月球南極地區開展探測，載人月球地形車則計劃於2028年前運抵月球南極地區，為未來載人探月和月球基地建設提供支援。美航空航天局表示，VIPER月球車目前處於休斯敦的約翰遜航天中心，已完成組裝，正在進行最終測試。該月球車計劃於2027年由美國藍色起源公司研製的著陸器運送至月球表面，收集有關月球南極地區的溫度、光照條件和地形等資料。這些資料有助於科學家進一步瞭解月球水資源的來源與分佈，評估月球資源未來用於月球基地建設的潛力。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a15f20-784a-7ee0-a92d-7ea5df7fe561",
+      "time": "2026-10-21 23:42:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 rose 0.5%; Nasdaq-100 gained 1.2%."
+    },
     {
       "id": "mkt:01a15f1e-d6f1-7ee0-a92d-77abc33577c3",
       "time": "2026-10-21 23:40:18",
@@ -121795,22 +121879,6 @@
         "國際"
       ],
       "text": "美國核管理委員會：德累斯頓3號反應堆功率從95%降至94%。"
-    },
-    {
-      "id": "5145193",
-      "time": "2026-10-14 23:44:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "Boost Run股價一度下跌15%，觸及歷史低點。"
-    },
-    {
-      "id": "5145192",
-      "time": "2026-10-14 23:43:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨鈀金下跌近3%，報每盎司1091.50美元。"
     }
   ]
 }
