@@ -1,7 +1,29 @@
 {
   "date": "2026-10-22",
-  "count": 468,
+  "count": 470,
   "items": [
+    {
+      "id": "te:markets:593968",
+      "time": "2026-10-22 06:40:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Drops by 2.25% — Top commodity loser is Wheat (-2.25%). Gains are led by Coffee (1.72%), Cotton (1.29%) and Rice (0.96%)."
+    },
+    {
+      "id": "mkt:01a1609e-36de-7ee0-a932-e0978bbb3381",
+      "time": "2026-10-22 06:39:03",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【New Zealand Q3 inflation drop larger than expected; fuel price retreat gives government short reprieve before election】New Zealand Q3 CPI rose 3.7% YoY, down from 4.1% in Q2 and below economists' 3.8% forecast; CPI was up 0.7% MoM versus a 0.8% estimate, Statistics New Zealand said. A retreat in fuel prices eased inflationary pressure and the NZD slipped after the print. The moderation provides the ruling National Party a brief reprieve ahead of the Nov. 7 election, but some economists warn the relief may be fleeting, expecting Q4 YoY CPI to exceed 4.5% as Middle East tensions and recent sharp fuel cost rises push energy prices higher."
+    },
     {
       "id": "te:markets:593967",
       "time": "2026-10-22 06:35:09",
