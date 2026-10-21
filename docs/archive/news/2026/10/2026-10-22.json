@@ -1,7 +1,23 @@
 {
   "date": "2026-10-22",
-  "count": 488,
+  "count": 490,
   "items": [
+    {
+      "id": "mkt:01a160b1-7605-7ee0-a933-15adfa572028",
+      "time": "2026-10-22 07:00:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. and Israel have post-midterms plan for strikes on Iran; energy, nuclear sites cited】The New York Times, citing U.S. officials and others, reports U.S. and Israeli militaries have drawn up specific plans to strike Iran after the U.S. midterm elections. Preparations include intensified exercises and warplanes flying over Iraqi airspace to rehearse strikes. U.S. Defense Secretary Hegseth met Prime Minister Netanyahu this week to discuss the plans. Potential targets cited include Iranian energy infrastructure, nuclear facilities, and missile and drone stockpiles. Some officials say a further large-scale strike could push Iran’s economy toward collapse and compel concessions in diplomatic talks after nearly eight months of conflict."
+    },
+    {
+      "id": "5159460",
+      "time": "2026-10-22 06:58:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國駐沙特使團：針對沙特的敵對行動或迅速升級】美國駐沙烏地阿拉伯使團21日釋出安全提醒說，葉門胡塞武裝對沙特持續展開敵對行動，襲擊民用機場及其他關鍵基礎設施，造成平民傷亡、嚴重干擾出行，“這些敵對行動可能迅速升級並蔓延”。（新華社）"
+    },
     {
       "id": "5159459",
       "time": "2026-10-22 06:55:42",

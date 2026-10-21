@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-22 06:56:40",
-  "count": 13464,
+  "updated": "2026-10-22 07:01:45",
+  "count": 13462,
   "items": [
+    {
+      "id": "mkt:01a160b1-7605-7ee0-a933-15adfa572028",
+      "time": "2026-10-22 07:00:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. and Israel have post-midterms plan for strikes on Iran; energy, nuclear sites cited】The New York Times, citing U.S. officials and others, reports U.S. and Israeli militaries have drawn up specific plans to strike Iran after the U.S. midterm elections. Preparations include intensified exercises and warplanes flying over Iraqi airspace to rehearse strikes. U.S. Defense Secretary Hegseth met Prime Minister Netanyahu this week to discuss the plans. Potential targets cited include Iranian energy infrastructure, nuclear facilities, and missile and drone stockpiles. Some officials say a further large-scale strike could push Iran’s economy toward collapse and compel concessions in diplomatic talks after nearly eight months of conflict."
+    },
+    {
+      "id": "5159460",
+      "time": "2026-10-22 06:58:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國駐沙特使團：針對沙特的敵對行動或迅速升級】美國駐沙烏地阿拉伯使團21日釋出安全提醒說，葉門胡塞武裝對沙特持續展開敵對行動，襲擊民用機場及其他關鍵基礎設施，造成平民傷亡、嚴重干擾出行，“這些敵對行動可能迅速升級並蔓延”。（新華社）"
+    },
     {
       "id": "5159459",
       "time": "2026-10-22 06:55:42",
@@ -122483,45 +122499,6 @@
         "國際"
       ],
       "text": "三星、SK 海力士在 Nextrade 盤前交易中跌幅均超 6%。"
-    },
-    {
-      "id": "mkt:01a13ca6-3887-7ee0-a886-e91e4de5ffed",
-      "time": "2026-10-15 07:01:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【US source says Russian diesel could reach US market before midterms】A U.S. source told the New York Post that Russian diesel is expected to flow into the U.S. market ahead of the Nov. 3 midterm elections. The source said deliveries could arrive 'within two weeks' if all goes to plan and that Russia has agreed to supply 'substantial' volumes, but gave no details on shipping or logistics. U.S. pump diesel prices hit a record $6.53/gal last month."
-    },
-    {
-      "id": "5145627",
-      "time": "2026-10-15 06:59:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息，Anthropic產生了正自由現金流（FCF）。該公司第三季度調整後毛利潤率為85%，調整後運營利潤率超過11%。"
-    },
-    {
-      "id": "5145626",
-      "time": "2026-10-15 06:58:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國預計俄羅斯柴油將在中期選舉前開始流入市場。"
-    },
-    {
-      "id": "mkt:01a13ca2-2334-7ee0-a886-e5cc8b22aad4",
-      "time": "2026-10-15 06:57:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US expects Russian diesel to start flowing into markets ahead of the midterm elections, the New York Post reports."
     }
   ]
 }
