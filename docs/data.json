@@ -1,7 +1,90 @@
 {
-  "updated": "2026-10-22 06:45:20",
-  "count": 13463,
+  "updated": "2026-10-22 06:49:08",
+  "count": 13469,
   "items": [
+    {
+      "id": "5159458",
+      "time": "2026-10-22 06:48:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓：當前計劃預計將支撐銅產量到2035年實現3%至4%的複合年增長率。"
+    },
+    {
+      "id": "5159457",
+      "time": "2026-10-22 06:47:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特達曼國際機場遭襲致一死8傷】沙烏地阿拉伯民航總局22日凌晨發表宣告說，位於該國東部城市達曼的法赫德國王國際機場21日晚遭到襲擊，造成一人死亡、8人受傷。宣告說，死者為外籍公民。傷者已被送往醫院接受治療。襲擊還造成一些財產損失。（新華社）"
+    },
+    {
+      "id": "5159456",
+      "time": "2026-10-22 06:47:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國國防部長赫格塞斯本週與內塔尼亞胡會面，正在制定計劃，擬在選舉後對伊朗發動打擊。"
+    },
+    {
+      "id": "mkt:01a160a5-ef12-7ee0-a933-096ba2e6b40c",
+      "time": "2026-10-22 06:47:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AWS says the PHP2Shell vulnerability is currently being widely exploited in the wild."
+    },
+    {
+      "id": "mkt:01a160a5-262a-7ee0-a933-01fbb97a7c78",
+      "time": "2026-10-22 06:46:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AWS said the exploitation originated from an IP address associated with a commercial anonymizing network."
+    },
+    {
+      "id": "mkt:01a160a4-94b7-7ee0-a932-fdc3aacea4e3",
+      "time": "2026-10-22 06:46:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AWS says it remains unclear how attackers obtained exploit details prior to the vulnerability's public disclosure."
+    },
+    {
+      "id": "te:markets:593970",
+      "time": "2026-10-22 06:45:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Extends Gains on Easing Inflation — The NZX 50 rose 38 points, or 0.3%, to 13,799 in Thursday morning trade, extending gains from the previous session after fresh data showed that inflation eased in Q3. Inflation slowed to 3.7% in Q3, though it remained above the RBNZ's 1–3% target range. However, the latest figure eased concerns over interest rate hikes after the RBNZ raised interest rates for the second straight time in July and September. The broader index tracked gains on Wall Street overnight, supported by strong earnings from SpaceX and Super Micro Computer, which raised optimism about AI demand. However, traders continued to monitor the Middle East conflict and progress in Russia-Ukraine peace efforts for their impact on oil prices and inflation risks. Financials, industrials, and real estate stocks mainly drove the index, with the top movers including Infratil (3.7%), Auckland International Airport (1.6%), Scales Corporation (1.6%), Skellerup Holdings (1.2%), EBOS Group (0.8%), and Freightways Group (0.8%)."
+    },
+    {
+      "id": "mkt:01a160a4-312d-7ee0-a932-f4951e63edca",
+      "time": "2026-10-22 06:45:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "AWS reported its Amazon Threat Intelligence team detected exploitation of the PHP2Shell vulnerability in MadPot prior to the vulnerability’s public disclosure."
+    },
+    {
+      "id": "te:markets:593969",
+      "time": "2026-10-22 06:45:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Increases by 2.81% — Top crypto gainers are XRP (2.81%), Bitcoin (1.83%) and Ether (1.57%)."
+    },
     {
       "id": "5159455",
       "time": "2026-10-22 06:44:12",
@@ -122495,36 +122578,6 @@
         "國際"
       ],
       "text": "【頂級預測師：美聯儲12月可能加息50個基點】Prestige Economics總裁Jason Schenker表示，FOMC可能會在12月考慮更大幅度、達50個基點的加息。這位較早預測到美聯儲最近一次加息的預測師Schenker如今認為，美聯儲可能在9月加息後“讓政策效果稍作喘息”，再於12月考慮更大幅度加息。Schenker預計，若12月出現更大幅度加息，明年年初可能暫停進一步加息。 在10月和12月會議之間，美聯儲官員還將收到兩份就業報告和另一份CPI資料，可為其未來決策提供依據。Schenker表示：“雖然只需等待6周，但他們將獲得更多資料。如果他們發現25個基點毫無作用，那麼我認為他們可能會推出50個基點的加息。”Schenker預計，更大幅度的加息可能導致明年年初暫停進一步加息；而如果12月僅加息25個基點，則明年第一季度再次加息的可能性較大。"
-    },
-    {
-      "id": "5145623",
-      "time": "2026-10-15 06:46:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱擴大在哈爾科夫的控制區 烏稱在頓涅茨克發動大規模進攻】俄羅斯國防部14日通報稱，過去一天，俄軍擴大了在哈爾科夫地區科托夫卡等三處居民點的控制區。俄軍在146個區域對烏方進行打擊，目標包括生產和儲存無人機的車間及烏軍人員和外國僱傭兵臨時駐紮地點。此外，俄軍當天還利用無人機打擊了烏方一處用於儲存和分發供烏軍所使用物資的物流中心，以及一艘運輸軍民兩用物資的乾貨船。烏克蘭第三軍團指揮官14日表示，在頓涅茨克地區，烏軍阻止了俄軍從側翼迂迴包抄斯拉維揚斯克-克拉馬托爾斯克城市群，仍控制哈爾科夫至斯拉維揚斯克的公路，並發動大規模進攻。整個行動期間，烏軍已將16個居民點重新置於烏克蘭全面控制之下。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a13c98-1672-7ee0-a886-c20bde8a1d43",
-      "time": "2026-10-15 06:46:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "601318.SS",
-        "Impact bearish",
-        "2318.HK",
-        "601628.SS"
-      ],
-      "text": "【Chinese regulators crack down on ‘long-duration’ products; ‘quick-return’ bancassurance offerings halted】Regulators have issued a notice to inspect and rectify 'quick-return' insurance products sold through the bancassurance channel, requiring life-insurance legal entities to conduct self-examinations and strictly implement reporting alignment between insurers and banks. The notice flags products with 3-year premium payment periods and 6-year coverage—ordinary and participating endowment policies—that deliberately compressed actuarial expense assumptions and returned cash value quickly to boost reported scale, creating a risk of treating long-duration insurance as short-term business."
-    },
-    {
-      "id": "mkt:01a13c98-10ac-7ee0-a886-bc9ce7b2cee0",
-      "time": "2026-10-15 06:46:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News reports the U.S. Department of Justice has threatened emergency legal action against California, citing alleged non‑citizen voting."
     }
   ]
 }
