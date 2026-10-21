@@ -1,7 +1,125 @@
 {
   "date": "2026-10-21",
-  "count": 2389,
+  "count": 2402,
   "items": [
+    {
+      "id": "mkt:01a15ef2-dc99-7ee0-a92c-60e179325979",
+      "time": "2026-10-21 22:52:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Hengqin port passenger traffic tops 30 mln this year, 68 days ahead of last year】Zhuhai border inspection’s Hengqin station reported that as of 21:00 on Oct 21, outbound and inbound passenger traffic via Hengqin this year exceeded 30.0 mln, up 27.1% YoY and reaching that level 68 days earlier than last year, a record for the period."
+    },
+    {
+      "id": "5159037",
+      "time": "2026-10-21 22:52:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【提前68天 橫琴口岸出入境旅客年內突破3000萬人次】據珠海邊檢總站橫琴邊檢站統計，截至10月21日21時，今年經橫琴口岸出入境旅客總量已超3000萬人次，同比增長27.1%，較去年達到該客流規模提前68天，創口岸同期客流新高。（央視新聞）"
+    },
+    {
+      "id": "5159036",
+      "time": "2026-10-21 22:51:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮就 PHP 問題發表宣告：聯邦機構正在評估對政府系統和關鍵基礎設施的潛在影響。"
+    },
+    {
+      "id": "mkt:01a15ef2-7f59-7ee0-a92c-5c4b79d576b5",
+      "time": "2026-10-21 22:51:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House: federal agencies are assessing potential impact of a PHP issue on government systems and critical infrastructure."
+    },
+    {
+      "id": "5159035",
+      "time": "2026-10-21 22:51:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其Tarfin Tarim與經紀商Alnus的債券發生違約。"
+    },
+    {
+      "id": "mkt:01a15ef2-5f96-7ee0-a92c-5066083dc1b1",
+      "time": "2026-10-21 22:51:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Nasdaq 100 rose 0.9%, hitting an intraday high; the S&P 500 rose 0.3%."
+    },
+    {
+      "id": "5159034",
+      "time": "2026-10-21 22:51:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數上漲0.9%，創盤中新高；標普500指數上漲0.3%。"
+    },
+    {
+      "id": "5159033",
+      "time": "2026-10-21 22:50:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國聯合公司首席財務官表示，鑑於燃料價格持續上漲，預計第四季度的燃料捕獲量將與第三季度相似。"
+    },
+    {
+      "id": "5159032",
+      "time": "2026-10-21 22:50:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，西班牙Applus+的股東正在探索以10億歐元出售該公司的車輛檢測部門。"
+    },
+    {
+      "id": "5159031",
+      "time": "2026-10-21 22:49:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯合公司首席財務官表示，我們非常有信心能夠完全收回燃料成本的增加，但會有滯後。"
+    },
+    {
+      "id": "mkt:01a15ef0-ab99-7ee0-a92c-4c746787eaec",
+      "time": "2026-10-21 22:49:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House: The US government learned of a PHP security vulnerability on October 16."
+    },
+    {
+      "id": "te:markets:593902",
+      "time": "2026-10-21 22:49:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CIBC Shares Hit 4-week High — CIBC shares increased to 161.20 CAD, the highest since September 2026. Over the past 4 weeks, CIBC lost 0.4%, and in the last 12 months, it increased 41.96%."
+    },
+    {
+      "id": "5159030",
+      "time": "2026-10-21 22:49:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯合航空首席財務官表示，第三季度已收回燃油費用增加額的 72%。"
+    },
     {
       "id": "mkt:01a15eee-d764-7ee0-a92c-4459f637797f",
       "time": "2026-10-21 22:47:53",
