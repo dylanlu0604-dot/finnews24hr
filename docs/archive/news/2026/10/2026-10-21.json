@@ -1,7 +1,39 @@
 {
   "date": "2026-10-21",
-  "count": 2447,
+  "count": 2451,
   "items": [
+    {
+      "id": "5159061",
+      "time": "2026-10-21 23:25:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統府：政府將透過法令實施規模為634.9萬億比索的2027年預算。"
+    },
+    {
+      "id": "mkt:01a15f0f-9a9b-7ee0-a92d-158f168053cd",
+      "time": "2026-10-21 23:23:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market report: A toxic chemical leak occurred in Ohio on Wednesday; authorities ordered partial evacuations and told other residents to shelter in place amid concerns about a possible explosion."
+    },
+    {
+      "id": "5159060",
+      "time": "2026-10-21 23:23:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總統塞西：軍事行動不會越過埃及國境，也不會越過 “埃及承諾維護其安全與穩定的其他兄弟國家” 的國境。"
+    },
+    {
+      "id": "mkt:01a15f0e-e78c-7ee0-a92d-0b00014878fb",
+      "time": "2026-10-21 23:22:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egyptian President Sisi said military operations will not cross Egypt’s borders nor extend beyond the borders of any other 'brother' country whose security and stability Egypt has pledged to defend."
+    },
     {
       "id": "5159059",
       "time": "2026-10-21 23:21:22",

@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-21 23:22:09",
-  "count": 13386,
+  "updated": "2026-10-21 23:26:08",
+  "count": 13387,
   "items": [
+    {
+      "id": "5159061",
+      "time": "2026-10-21 23:25:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統府：政府將透過法令實施規模為634.9萬億比索的2027年預算。"
+    },
+    {
+      "id": "mkt:01a15f0f-9a9b-7ee0-a92d-158f168053cd",
+      "time": "2026-10-21 23:23:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market report: A toxic chemical leak occurred in Ohio on Wednesday; authorities ordered partial evacuations and told other residents to shelter in place amid concerns about a possible explosion."
+    },
+    {
+      "id": "5159060",
+      "time": "2026-10-21 23:23:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總統塞西：軍事行動不會越過埃及國境，也不會越過 “埃及承諾維護其安全與穩定的其他兄弟國家” 的國境。"
+    },
+    {
+      "id": "mkt:01a15f0e-e78c-7ee0-a92d-0b00014878fb",
+      "time": "2026-10-21 23:22:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egyptian President Sisi said military operations will not cross Egypt’s borders nor extend beyond the borders of any other 'brother' country whose security and stability Egypt has pledged to defend."
+    },
     {
       "id": "5159059",
       "time": "2026-10-21 23:21:22",
@@ -121730,35 +121762,6 @@
         "其他"
       ],
       "text": "市場資訊：胡塞武裝軍方訊息人士警告阿美石油股東拋售持股。"
-    },
-    {
-      "id": "5145168",
-      "time": "2026-10-14 23:25:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【以國防部稱美以簽署12架“阿帕奇”直升機採購協議】以色列國防部宣佈，以色列已正式與美國簽署協議，為以空軍採購12架“阿帕奇”武裝直升機。根據協議，美國波音公司將向以色列空軍供應12架AH-64E“阿帕奇”直升機。以國防部稱，該批直升機為最新且最先進的“E型”機。（央視新聞）"
-    },
-    {
-      "id": "5145167",
-      "time": "2026-10-14 23:25:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "共和黨全國委員會：特朗普將於10月20日在北卡羅來納州進行競選活動。"
-    },
-    {
-      "id": "te:markets:592031",
-      "time": "2026-10-14 23:24:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Eli Lilly Shares Hit 7-week High — Eli Lilly shares increased to 1215.00 USD, the highest since August 2026. Over the past 4 weeks, Eli Lilly gained 6.9%, and in the last 12 months, it increased 46.93%."
     }
   ]
 }
