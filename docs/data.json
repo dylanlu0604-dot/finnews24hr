@@ -1,7 +1,71 @@
 {
-  "updated": "2026-10-21 22:53:22",
-  "count": 13368,
+  "updated": "2026-10-21 22:57:39",
+  "count": 13371,
   "items": [
+    {
+      "id": "5159041",
+      "time": "2026-10-21 22:56:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美聯航高管表示，美國聯邦航空管理局對芝加哥奧黑爾機場每日600架次航班的上限可能會一直實施到2028年。"
+    },
+    {
+      "id": "mkt:01a15ef6-53aa-7ee0-a92c-780604473622",
+      "time": "2026-10-21 22:56:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Ukraine's national oil and gas company said its assets have been struck nearly 400 times by Russian forces since the start of the year."
+    },
+    {
+      "id": "5159040",
+      "time": "2026-10-21 22:56:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "奈飛第四季度利潤指引弱於預期，公司下調全年廣告業務預期，股價下跌 4.8%。"
+    },
+    {
+      "id": "5159039",
+      "time": "2026-10-21 22:55:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭國家石油天然氣公司表示，自今年年初以來，該公司資產已遭受近400次俄羅斯襲擊。"
+    },
+    {
+      "id": "5159038",
+      "time": "2026-10-21 22:55:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：江蘇芯德半導體科技股份有限公司透過港交所上市聆訊。"
+    },
+    {
+      "id": "mkt:01a15ef5-1122-7ee0-a92c-72dd7522909f",
+      "time": "2026-10-21 22:54:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "HKEX filings show Jiangsu Xinde Semiconductor Technology Co Ltd has cleared its listing hearing."
+    },
+    {
+      "id": "mkt:01a15ef3-90aa-7ee0-a92c-6b7f0a8054e8",
+      "time": "2026-10-21 22:53:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says federal agencies are coordinating with network operators to prioritise mitigation measures."
+    },
     {
       "id": "5159037",
       "time": "2026-10-21 22:52:16",
@@ -121542,44 +121606,6 @@
         "市場"
       ],
       "text": "【夜盤期貨收盤】焦煤連續跌4.86%，20號膠連續跌3.51%，焦炭連續跌3.14%，天然橡膠連續跌2.84%，純鹼連續跌2.62%。"
-    },
-    {
-      "id": "5145144",
-      "time": "2026-10-14 22:56:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【肯亞確診該國第二例本迪布焦型埃博拉病例】當地時間14日，肯亞衛生部確診該國第二例本迪布焦型埃博拉病例。當地時間10月6日，肯亞衛生部長杜阿萊表示，肯亞衛生部已確認該國首例輸入性本迪布焦型埃博拉病例，患者已於5日在內羅畢一家醫院死亡。剛果（金）5月15日宣佈暴發埃博拉疫情。本輪疫情由本迪布焦型埃博拉病毒引發，目前尚無針對該型病毒的獲批疫苗或特異性療法。（央視新聞）"
-    },
-    {
-      "id": "te:markets:592020",
-      "time": "2026-10-14 22:55:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Palladium Extends Slide to Over 1-Year Low — Palladium futures traded below $1,120 an ounce, extending their decline since September to a more than one-year low amid persistent investment outflows and a bearish long-term outlook. Stronger-than-expected US inflation pushed the odds of a Federal Reserve rate hike in October to nearly 50%, reversing earlier expectations that rates would remain unchanged until December. Higher-for-longer interest rates weigh on non-yielding assets such as palladium by increasing the opportunity cost of holding them. Over the longer term, the growing adoption of electric vehicles continues to pressure demand for palladium used in catalytic converters, although resilient demand for hybrids has helped moderate the decline. Despite this, the drop in demand continues to underpin a bearish outlook for the metal as it outpaces the contraction in supply, with elevated operating costs and power grid instability in South Africa, alongside ongoing trade risks in Russia, constraining production."
-    },
-    {
-      "id": "5145143",
-      "time": "2026-10-14 22:55:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部發布45Z清潔燃料生產稅收抵免的排放值申請（EVR）流程。"
-    },
-    {
-      "id": "te:markets:592017",
-      "time": "2026-10-14 22:54:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Platinum Falls Toward Three-Month Low — Platinum futures traded below $1,630 an ounce, approaching its lowest level in three months amid persistent investment outflows and a bearish long-term outlook. Stronger-than-expected US inflation pushed the odds of a Federal Reserve rate hike in October to nearly 50%, reversing earlier expectations that rates would remain unchanged until December. Higher-for-longer interest rates weigh on non-yielding assets such as platinum by increasing the opportunity cost of holding them. Over the longer term, the WPIC sees total demand falling 18%, including a 32% drop in Chinese jewelry demand and a 4% decline in automotive demand, although resilient demand for hybrids has helped moderate the decline. Despite this, the drop in demand continues to underpin a bearish outlook for the metal as it outpaces the contraction in supply, with elevated operating costs and power grid instability in South Africa, alongside ongoing trade risks in Russia, constraining production."
     }
   ]
 }
