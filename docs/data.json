@@ -1,7 +1,68 @@
 {
-  "updated": "2026-10-21 23:58:25",
-  "count": 13400,
+  "updated": "2026-10-22 00:02:40",
+  "count": 13396,
   "items": [
+    {
+      "id": "mkt:01a15f32-9e27-7ee0-a92d-eea48e40dc50",
+      "time": "2026-10-22 00:01:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NRC: Oconee Unit 1 reactor power reduced from 95% to 94%."
+    },
+    {
+      "id": "mkt:01a15f32-6d42-7ee0-a92d-d972714e9eef",
+      "time": "2026-10-22 00:01:42",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish",
+        "ALK.O"
+      ],
+      "text": "An Alaska Airlines top executive said the airline expects to take delivery of 22 Boeing 737 MAX 10 jets next year."
+    },
+    {
+      "id": "5159088",
+      "time": "2026-10-22 00:00:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯9月生產者價格指數同比增長8.6%，環比增長2.5%。"
+    },
+    {
+      "id": "mkt:01a15f31-a303-7ee0-a92d-d6d06c1be158",
+      "time": "2026-10-22 00:00:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Rosstat: Russia's producer price index rose 8.6% YoY and 2.5% MoM in September."
+    },
+    {
+      "id": "mkt:01a15f31-7425-7ee0-a92d-cf9b5dbe0e64",
+      "time": "2026-10-22 00:00:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat: week-on-week consumer inflation for the week through Oct. 19 was 0.05%, down from 0.11% the prior week."
+    },
+    {
+      "id": "5159087",
+      "time": "2026-10-22 00:00:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局：截至10月19日當週，俄羅斯周度消費者通脹率為0.05%，前一週為0.11%。"
+    },
+    {
+      "id": "5159086",
+      "time": "2026-10-21 23:58:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國總統：堅決杜絕騷亂重演】據法國媒體報道，正在海灣地區訪問的法國總統馬克龍21日在卡達多哈對媒體說，法國政府將對遊行示威中趁機作亂的人嚴懲不貸，堅決杜絕此類情況重演。他同時譴責部分外國領導人相關不實言論。對於預計24日舉行的新一輪遊行示威，馬克龍表示，政府將採取“堅決”態度，“動用一切可用的法律手段”避免17日示威釀成騷亂的情況重演。他說，當前局勢沒有宣佈緊急狀態的必要性，政府將認真對待抗議群體的合理訴求特別是青年的訴求，但任何形式的暴力都沒有合法性。（新華社）"
+    },
     {
       "id": "mkt:01a15f2e-8d87-7ee0-a92d-c3651171ffd0",
       "time": "2026-10-21 23:57:28",
@@ -127,6 +188,14 @@
         "公司"
       ],
       "text": "盟可睞：集團第三季度營收 6.055 億歐元。"
+    },
+    {
+      "id": "mkt:01a15f32-9b5f-7ee0-a92d-e7fc2283e384",
+      "time": "2026-10-21 23:45:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European equity indices closed higher on Wednesday, Oct 21: Germany's DAX +367.95 pts (+1.45%) at 25672.37; UK's FTSE 100 +23.16 pts (+0.22%) at 10756.16; France's CAC 40 +83.19 pts (+1.06%) at 7921.68; EUROSTOXX 50 +91.79 pts (+1.50%) at 6213.45; Spain's IBEX 35 +207.10 pts (+1.08%) at 19299.50; Italy's FTSE MIB +596.13 pts (+1.21%) at 49667.50."
     },
     {
       "id": "5159081",
@@ -121811,112 +121880,6 @@
         "市場"
       ],
       "text": "現貨黃金跌幅進一步擴大，最新下跌近2%，報每盎司4073.73美元。"
-    },
-    {
-      "id": "5145219",
-      "time": "2026-10-15 00:02:28",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "民調顯示：若勒龐與梅朗雄進入法國大選第二輪對決，勒龐將以68%對32%的支援率勝出。"
-    },
-    {
-      "id": "5145218",
-      "time": "2026-10-15 00:01:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客：將德國和瑞典防空力量接入統一的北約防禦體系。"
-    },
-    {
-      "id": "5145217",
-      "time": "2026-10-15 00:01:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌2%，現報4075.30美元/盎司。"
-    },
-    {
-      "id": "5145216",
-      "time": "2026-10-15 00:01:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌6%，現報55.55美元/盎司。"
-    },
-    {
-      "id": "te:markets:592039",
-      "time": "2026-10-15 00:01:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Edges Lower — The FTSE MIB closed 0.6% lower at 49,754 on Wednesday, pressured by heavyweight financials and tech stocks. Sovereign yields climbed after stronger-than-expected US inflation, driven by higher energy prices, fuelled uncertainty over a potential Fed rate hike in October. In Europe, ECB President Lagarde noted no signs of second-round effects from higher energy prices, while markets continue to expect a rate hike in December. BPER Banca led financial losses, falling 2%, while Banco BPM fell 1.6%. AI-related stocks also declined as higher-for-longer rates threaten to raise borrowing costs for the sector’s already elevated AI buildout. Prysmian dropped 5.5%, while STMicroelectronics fell 1.8%. Utilities outperformed as Italy moved closer to an EU agreement on a mechanism to lower gas prices, with Italgas gaining 2.2% and A2A rising 1.2%. Defense Avio surged 5.3%, leading the index, after signing an agreement with Lockheed Martin to produce solid rocket motors in Virginia."
-    },
-    {
-      "id": "5145215",
-      "time": "2026-10-15 00:01:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4100美元/盎司，日內跌1.90%。"
-    },
-    {
-      "id": "5145214",
-      "time": "2026-10-15 00:01:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4080美元/盎司，日內跌1.96%。"
-    },
-    {
-      "id": "5145213",
-      "time": "2026-10-15 00:01:23",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "民調顯示：勒龐和梅朗雄將進入法國總統大選決選。"
-    },
-    {
-      "id": "5145212",
-      "time": "2026-10-15 00:01:01",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "民調顯示：勒龐料將在法國總統決選中以53%比47%的優勢擊敗菲利普。"
-    },
-    {
-      "id": "5145210",
-      "time": "2026-10-15 00:00:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯消費者通脹在截至10月12日當週為0.11%，前一週為0.96%。"
-    },
-    {
-      "id": "5145206",
-      "time": "2026-10-14 23:59:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度航空成立委員會，探討成本節約措施。"
-    },
-    {
-      "id": "5145205",
-      "time": "2026-10-14 23:59:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌6%，現報13563.00元。"
     }
   ]
 }

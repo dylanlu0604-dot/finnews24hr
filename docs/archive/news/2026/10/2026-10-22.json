@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-22",
+  "count": 6,
+  "items": [
+    {
+      "id": "mkt:01a15f32-9e27-7ee0-a92d-eea48e40dc50",
+      "time": "2026-10-22 00:01:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NRC: Oconee Unit 1 reactor power reduced from 95% to 94%."
+    },
+    {
+      "id": "mkt:01a15f32-6d42-7ee0-a92d-d972714e9eef",
+      "time": "2026-10-22 00:01:42",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish",
+        "ALK.O"
+      ],
+      "text": "An Alaska Airlines top executive said the airline expects to take delivery of 22 Boeing 737 MAX 10 jets next year."
+    },
+    {
+      "id": "5159088",
+      "time": "2026-10-22 00:00:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯9月生產者價格指數同比增長8.6%，環比增長2.5%。"
+    },
+    {
+      "id": "mkt:01a15f31-a303-7ee0-a92d-d6d06c1be158",
+      "time": "2026-10-22 00:00:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Rosstat: Russia's producer price index rose 8.6% YoY and 2.5% MoM in September."
+    },
+    {
+      "id": "mkt:01a15f31-7425-7ee0-a92d-cf9b5dbe0e64",
+      "time": "2026-10-22 00:00:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat: week-on-week consumer inflation for the week through Oct. 19 was 0.05%, down from 0.11% the prior week."
+    },
+    {
+      "id": "5159087",
+      "time": "2026-10-22 00:00:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局：截至10月19日當週，俄羅斯周度消費者通脹率為0.05%，前一週為0.11%。"
+    }
+  ]
+}
