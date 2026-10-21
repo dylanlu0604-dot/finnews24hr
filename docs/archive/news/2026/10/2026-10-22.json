@@ -1,7 +1,85 @@
 {
   "date": "2026-10-22",
-  "count": 183,
+  "count": 191,
   "items": [
+    {
+      "id": "mkt:01a15fe5-1f44-7ee0-a930-32bf04fc1a19",
+      "time": "2026-10-22 03:16:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Kyiv mayor says the city is under ballistic missile attack."
+    },
+    {
+      "id": "mkt:01a15fe4-e145-7ee0-a930-2c14e5e66632",
+      "time": "2026-10-22 03:16:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump, on the release of hostages from Russia, said we did not make any exchange."
+    },
+    {
+      "id": "5159209",
+      "time": "2026-10-22 03:16:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：現在可能是我們距離結束衝突最近的一次。"
+    },
+    {
+      "id": "5159208",
+      "time": "2026-10-22 03:15:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談哈伯德從俄羅斯獲釋：我們沒有做出任何交換。"
+    },
+    {
+      "id": "5159207",
+      "time": "2026-10-22 03:15:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：距離解決俄羅斯與烏克蘭的衝突越來越近了。"
+    },
+    {
+      "id": "mkt:01a15fe3-a842-7ee0-a930-26a28b4129b8",
+      "time": "2026-10-22 03:15:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【US suspects Israeli jets sought to provoke Iran; dozens of warplanes neared Iranian border】On Oct. 21 Channel 12, citing US officials, reported that earlier this week dozens of Israeli fighter jets and tankers flew over Syria and Iraq on routes resembling attack profiles and approached the Iranian border before turning back without entering Iranian airspace. US officials suspect the flights were intended to provoke Iran into firing; Israel notified the US in advance, calling the sorties exercises and a show of force, while sources said some Israeli officials may have sought to elicit Iranian return fire to create a pretext for strikes."
+    },
+    {
+      "id": "5159206",
+      "time": "2026-10-22 03:14:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "芝商所執行長：地緣政治緊張局勢對通脹產生了“巨大影響”。"
+    },
+    {
+      "id": "mkt:01a15fe2-4656-7ee0-a930-1d6d1c253aff",
+      "time": "2026-10-22 03:13:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures fell 0.22% in the night session to 23,602, trading 50 points below the cash close."
+    },
     {
       "id": "5159205",
       "time": "2026-10-22 03:12:41",

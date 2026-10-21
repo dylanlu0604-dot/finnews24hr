@@ -1,7 +1,85 @@
 {
-  "updated": "2026-10-22 03:13:47",
-  "count": 13331,
+  "updated": "2026-10-22 03:17:34",
+  "count": 13332,
   "items": [
+    {
+      "id": "mkt:01a15fe5-1f44-7ee0-a930-32bf04fc1a19",
+      "time": "2026-10-22 03:16:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Kyiv mayor says the city is under ballistic missile attack."
+    },
+    {
+      "id": "mkt:01a15fe4-e145-7ee0-a930-2c14e5e66632",
+      "time": "2026-10-22 03:16:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump, on the release of hostages from Russia, said we did not make any exchange."
+    },
+    {
+      "id": "5159209",
+      "time": "2026-10-22 03:16:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：現在可能是我們距離結束衝突最近的一次。"
+    },
+    {
+      "id": "5159208",
+      "time": "2026-10-22 03:15:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談哈伯德從俄羅斯獲釋：我們沒有做出任何交換。"
+    },
+    {
+      "id": "5159207",
+      "time": "2026-10-22 03:15:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：距離解決俄羅斯與烏克蘭的衝突越來越近了。"
+    },
+    {
+      "id": "mkt:01a15fe3-a842-7ee0-a930-26a28b4129b8",
+      "time": "2026-10-22 03:15:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【US suspects Israeli jets sought to provoke Iran; dozens of warplanes neared Iranian border】On Oct. 21 Channel 12, citing US officials, reported that earlier this week dozens of Israeli fighter jets and tankers flew over Syria and Iraq on routes resembling attack profiles and approached the Iranian border before turning back without entering Iranian airspace. US officials suspect the flights were intended to provoke Iran into firing; Israel notified the US in advance, calling the sorties exercises and a show of force, while sources said some Israeli officials may have sought to elicit Iranian return fire to create a pretext for strikes."
+    },
+    {
+      "id": "5159206",
+      "time": "2026-10-22 03:14:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "芝商所執行長：地緣政治緊張局勢對通脹產生了“巨大影響”。"
+    },
+    {
+      "id": "mkt:01a15fe2-4656-7ee0-a930-1d6d1c253aff",
+      "time": "2026-10-22 03:13:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures fell 0.22% in the night session to 23,602, trading 50 points below the cash close."
+    },
     {
       "id": "5159205",
       "time": "2026-10-22 03:12:41",
@@ -121188,68 +121266,6 @@
         "國際"
       ],
       "text": "美聯儲古爾斯比：消費、國內生產總值以及投資資料表現強勁。"
-    },
-    {
-      "id": "5145452",
-      "time": "2026-10-15 03:17:28",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【古巴外長指責美方施壓多國支援其封鎖古巴立場】古巴外長羅德里格斯14日說美國國務卿魯比奧正對多個國家元首和政府首腦施壓，試圖迫使他們在聯合國大會上改變反對封鎖古巴的立場。羅德里格斯在社交媒體上表示，魯比奧企圖掩蓋對古巴人民實施的集體懲罰，並讓國際社會其他成員變成這一野蠻行徑的幫兇。根據美國國務院官網訊息，魯比奧13日與薩爾瓦多總統布克爾通電話時敦促薩爾瓦多和美國及其他夥伴國家一起，在聯合國推進共同優先事項。魯比奧專門提及對古巴的政策考慮。（新華社）"
-    },
-    {
-      "id": "5145451",
-      "time": "2026-10-15 03:17:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：如果通脹維持當前水平，貨幣政策就需要對此作出應對。"
-    },
-    {
-      "id": "5145450",
-      "time": "2026-10-15 03:16:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：不希望預先鎖定貨幣政策前景，束縛自身政策操作空間。"
-    },
-    {
-      "id": "5145449",
-      "time": "2026-10-15 03:16:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國已開通104項全國性跨地區社保服務】記者從人力資源社會保障部瞭解到，截至目前，國家社保公共服務平臺已開通104項全國性、跨地區服務，累計提供服務113.53億人次。全國社保業務線上辦理量已經提升到80%以上。日前，2026年“社保服務進萬家”活動正在全國開展，各級人社部門依託流動服務站、“15分鐘+5公里”服務圈等載體，佈設服務站點、自助終端，推動服務視窗前移，推廣智慧化服務，讓社保服務更便捷。（央視新聞）"
-    },
-    {
-      "id": "5145448",
-      "time": "2026-10-15 03:16:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：如果通脹資料接連數月持續惡化，這是無法接受的。美聯儲會將通脹回落至 2% 目標水平。"
-    },
-    {
-      "id": "5145447",
-      "time": "2026-10-15 03:15:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：需要密切關注服務業通脹情況。"
-    },
-    {
-      "id": "5145446",
-      "time": "2026-10-15 03:14:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：相比其他美聯儲官員，我對經濟前景更為樂觀。越來越多證據顯示，在持續衝擊之下，通脹並非暫時性的。"
     }
   ]
 }
