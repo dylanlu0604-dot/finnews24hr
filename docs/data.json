@@ -1,7 +1,136 @@
 {
-  "updated": "2026-10-21 09:01:17",
-  "count": 13528,
+  "updated": "2026-10-21 09:05:09",
+  "count": 13533,
   "items": [
+    {
+      "id": "mkt:01a15bfc-dc09-7ee0-a914-52c28100c6d3",
+      "time": "2026-10-21 09:04:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Main crude futures saw a short-term rally; SC crude's decline narrowed to 3.01% at 705.4 yuan/bbl. Low-sulfur fuel oil (LU) loss narrowed to 1.46% at 5,956 yuan/ton. Fuel oil loss narrowed to 2.46% at 4,807 yuan/ton. Asphalt rose 1.14% to 4,969 yuan/ton."
+    },
+    {
+      "id": "5157180",
+      "time": "2026-10-21 09:03:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果新 CEO 表態：設計依舊是蘋果第一要務，不盲目追逐 AI 熱點】蘋果現任 CEO 特努斯20日接受採訪表示，設計仍是蘋果首要任務，硬體軟體設計師和工程師互相理解才是蘋果的獨特優勢。不會跟風硬追技術熱點，堅持體驗優先。剛爆火的 iPhone Duo 預定火爆，首批 10 月 23 日交付，晚下單要等到 2027 年 1 月。"
+    },
+    {
+      "id": "5157179",
+      "time": "2026-10-21 09:02:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破110美元/桶，日內漲1.11%。"
+    },
+    {
+      "id": "5157178",
+      "time": "2026-10-21 09:02:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星宸科技、傳音控股等在上海成立私募投資基金】 企查查APP顯示，近日，昆橋三期（上海）私募投資基金合夥企業（有限合夥）成立，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由星宸科技、傳音控股全資子公司上海傳英資訊科技有限公司等共同出資。"
+    },
+    {
+      "id": "te:markets:593593",
+      "time": "2026-10-21 09:02:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Rallies on RBA Hike Bets — The Australian dollar rose above $0.70, extending its rally to a more than three-week high as hawkish comments from a top central bank official boosted the odds of another interest rate hike. RBA Deputy Governor Andrew Hauser said tighter monetary policy was working, but warned that the inflation outlook remained “materially worse” partly due to elevated oil prices. Hauser stressed the need to anchor inflation expectations ahead of the RBA’s November 3 policy meeting, where policymakers will consider whether to raise rates for a fifth time this year. Markets now price in a 44% chance of a November hike, up from 30% at the start of the week, while the probability of a December move has climbed to 64%. Focus now turns to third-quarter inflation data due next week. Core inflation is expected to rise 1.0% quarter-on-quarter, up from 0.9% previously. Annual core inflation is also projected to remain at 3.5%, well above the RBA’s 2%-3% target range."
+    },
+    {
+      "id": "mkt:01a15bfa-e5a8-7ee0-a914-4efc1f100a79",
+      "time": "2026-10-21 09:02:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index (TAIEX) opened 740.74 points higher (+1.6%) at 47,033.67 on Wednesday, Oct. 21."
+    },
+    {
+      "id": "mkt:01a15bfa-a57f-7ee0-a914-41cc7eb262fe",
+      "time": "2026-10-21 09:01:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Container shipping index (Europe route) main contract fell as much as 6.00% intraday, trading at 2482.5 points."
+    },
+    {
+      "id": "mkt:01a15bfa-8995-7ee0-a914-3ddb9bc826be",
+      "time": "2026-10-21 09:01:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude oil futures up more than 1.00% intraday at $98.80/bbl."
+    },
+    {
+      "id": "5157176",
+      "time": "2026-10-21 09:01:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報98.81美元/桶。"
+    },
+    {
+      "id": "5157175",
+      "time": "2026-10-21 09:00:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報109.88美元/桶。"
+    },
+    {
+      "id": "5157174",
+      "time": "2026-10-21 09:00:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌6%，現報2482.50點。"
+    },
+    {
+      "id": "mkt:01a15bf9-9145-7ee0-a914-3654d671e6f4",
+      "time": "2026-10-21 09:00:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Container shipping index (European session) most-active contract fell below 2,500.0 points, down 5.94% intraday."
+    },
+    {
+      "id": "mkt:01a15bf9-739d-7ee0-a914-2f18d9d04843",
+      "time": "2026-10-21 09:00:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D in early trade on Wednesday, Oct. 21 was down 0.43% at 886.0 yuan/gram; silver T+D was up 0.98% at 13,963.0 yuan/kg."
+    },
     {
       "id": "mkt:01a15bf9-4d95-7ee0-a914-24f994f3b81c",
       "time": "2026-10-21 09:00:27",
@@ -123553,74 +123682,6 @@
         "Greater China"
       ],
       "text": "【As of end-September active futures clients stood at 3.148 mln】Wang Ying, deputy director of the futures supervision department at the CSRC, said at an industry conference that China’s futures market has steadily expanded; as of end-September total active clients across the market stood at 3.148 mln and commodity futures trading volume has ranked among the world’s highest for consecutive years."
-    },
-    {
-      "id": "5143324",
-      "time": "2026-10-14 09:05:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福龍馬等成立城市環境服務新公司】企查查APP顯示，近日，福龍馬城市環境服務（海口龍華）有限公司成立，經營範圍包含環境保護專用裝置銷售；二手車經紀；二手車交易市場經營；機械裝置租賃等。企查查股權穿透顯示，該公司由福龍馬等共同持股。"
-    },
-    {
-      "id": "5143323",
-      "time": "2026-10-14 09:04:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中國證監會期貨監管司副司長王穎：今年1-9月公告參與套期保值的A股非金融類上市公司達1892家】中國證監會期貨監管司副司長王穎在第19屆國際油脂油料大會暨農畜產業（衍生品）大會上表示，實體企業已成為參與期貨市場的重要力量。2026年1—9月，全市場產業客戶日均成交、持倉量分別同比增長3.25%、5.81%，公告參與套期保值的A股非金融類上市公司達1892家，參與率較十年前提升27.2個百分點至35.4%。（新華財經）"
-    },
-    {
-      "id": "5143322",
-      "time": "2026-10-14 09:04:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Meta推出AI工具，允許使用者自主定製Facebook資訊流】Meta平臺正在Facebook上推出一系列AI驅動的自定義工具，使用者可以用自然語言直接向演算法說明自己希望在資訊流和Reels短影片中看到的內容。使用者可透過帖子上的三點選單訪問全新的“你的演算法”功能，點選“感興趣”或“不感興趣”選項後，系統會彈出後續問題收集更細化的偏好資訊。該功能由大語言模型提供技術支援，可識別並處理自由輸入文字中的使用者意圖與上下文資訊。"
-    },
-    {
-      "id": "5143321",
-      "time": "2026-10-14 09:03:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內漲3%，現報10762.00元。"
-    },
-    {
-      "id": "5143320",
-      "time": "2026-10-14 09:03:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲3%，現報5280.00元。"
-    },
-    {
-      "id": "5143319",
-      "time": "2026-10-14 09:02:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【現代汽車計劃到2032年在印度投資155億美元】 當地時間10月13日，一份證券交易所檔案顯示，現代汽車集團計劃到2032年在印度投資155億美元。這筆投資將用於現代和起亞兩大品牌的產能擴張、研發、基礎設施建設、本地供應鏈及技術升級。"
-    },
-    {
-      "id": "5143318",
-      "time": "2026-10-14 09:01:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元下跌0.3%至32.182。"
-    },
-    {
-      "id": "5143317",
-      "time": "2026-10-14 09:01:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國窖1573四連陽創月新高 洋河夢之藍M6+、古井貢古20大漲】新浪財經“酒價內參”過去24小時收集的資料顯示，10月14日中國白酒業12大單品的終端零售均價九漲兩跌一平，上漲品種顯著佔優，且累計漲幅大幅領先下跌端，整體價盤在昨日回撥後重新走強。上漲端，精品茅臺上漲2元至2468元，近期始終圍繞2465元附近窄幅振盪，今日價格再次回到階段高位；茅臺1935上漲1元至684元，結束昨日平盤小幅回升；五糧液1618上漲1元，重返830元關口，延續近期窄幅波動行情；國窖1573大漲6元至890元，四連陽持續攀升，創下近一個月價格新高；洋河夢之藍M6+大漲7元至611元，二連陽加速反彈，快速脫離近期低谷上行；古井貢古20大漲6元至540元，再度收復前期失地，近幾日其價格漲跌交錯振幅較大；習酒君品上漲3元至643元，二連陽繼續抬升，穩步站上640元關口；青花郎上漲5元至695元，昨日重挫後明顯修復，再度叩關700元；水晶劍南春上漲3元至411元，結束五連陰。價格下跌端，飛天茅臺下跌2元至1794元，連續第八日執行在1800元關口附近；青花汾20下跌3元至397元，昨日剛收復的400元關口後再度失守。持平方面，五糧液普五八代維持801元不變，昨日急跌後轉入橫盤，800元關口處仍獲支撐。\n\n今日12大單品的終端零售總價明顯回升，九款產品價格上漲，且品種漲幅突出，上漲端推動整體價盤重心明顯上移。如果12大單品各取一瓶整體打包售賣，今日總售價為10764元，較昨日大漲29元，創下7天以來新高。"
     }
   ]
 }
