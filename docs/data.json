@@ -1,7 +1,57 @@
 {
-  "updated": "2026-10-21 13:02:44",
-  "count": 13427,
+  "updated": "2026-10-21 13:06:30",
+  "count": 13431,
   "items": [
+    {
+      "id": "mkt:01a15cd9-5279-7ee0-a919-75c48859e771",
+      "time": "2026-10-21 13:05:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EQNR.O",
+        "Impact bearish"
+      ],
+      "text": "A Norwegian oil and gas company expects full-year production costs of about $11 per barrel of oil equivalent (boe), up from a prior estimate of around $10/boe."
+    },
+    {
+      "id": "5157531",
+      "time": "2026-10-21 13:04:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "物理AI概念反覆走強，午後利亞德封20cm漲停，凡拓數創漲超10%，凌雲光、鼎捷數智、索辰科技、東土科技、奧比中光跟漲。"
+    },
+    {
+      "id": "5157530",
+      "time": "2026-10-21 13:04:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【魯比奧稱若無美國支援，烏克蘭將不復存在】美國國務卿魯比奧為特朗普政府對烏支援政策辯護，表示如果沒有美方援助，烏克蘭將不復存在。魯比奧週三在印度訪問期間對記者表示：“如果沒有美國提供的援助，包括本屆特朗普政府的支援，烏克蘭現在就不會存在。作為主權國家的烏克蘭將不復存在。”魯比奧此番發言，是回應媒體相關報道。報道稱 SpaceX 執行長馬斯克近期下令放緩星鏈衛星系統服務，而烏克蘭依靠星鏈抵禦俄軍空襲。該報道援引多名匿名美籍及其他國家官員訊息：星鏈降速訊息公開後，馬斯克曾就此與特朗普溝通；另有知情人士稱，作為特朗普盟友，馬斯克在該措施落地前，就已經和白宮官員討論過星鏈限流事宜。"
+    },
+    {
+      "id": "te:markets:593669",
+      "time": "2026-10-21 13:04:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Extends Decline to Over 2-Month Low — Wheat fell for a fifth consecutive session to around $6.4 per bushel, remaining at its lowest level since August 18, as renewed hopes for a Russia-Ukraine peace deal weighed on prices following US President Donald Trump’s push for an agreement. Trump said Washington had received nothing back for its support of Ukraine and that it was time to make a deal. US special envoy Steve Witkoff is set to meet Russian President Vladimir Putin on Wednesday to discuss proposals to end the war, following talks with Ukrainian President Volodymyr Zelenskyy. Escalating attacks in the Black Sea since July have damaged shipping infrastructure and disrupted wheat exports from two of the world’s largest producers. Traders are now watching for progress toward a ceasefire, which could ease supply disruptions and bring more Russian and Ukrainian wheat to global markets."
+    },
+    {
+      "id": "mkt:01a15cd7-b738-7ee0-a919-69d5e3853680",
+      "time": "2026-10-21 13:03:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "SRG.L"
+      ],
+      "text": "UK-based Serabi Gold reported quarterly gold production of 11,008 ounces and said it expects gold production in FY26 to be broadly in line with FY25."
+    },
     {
       "id": "5157529",
       "time": "2026-10-21 13:01:13",
@@ -122510,18 +122560,6 @@
         "Importance 1"
       ],
       "text": "NZX 50 Halts Decline, Ends 0.1% Higher — The NZX 50 gained 11 points, or 0.1%, to close at 13,760 on Wednesday, erasing losses from the morning and the previous session, mainly supported by gains in technology, real estate, utilities, and communication services. Fresh data from China, New Zealand's top trading partner, boosted sentiment as export growth in China remained robust, while annual inflation came in below expectations. However, declines in financials and energy limited the gains. Traders also awaited US inflation data for clues about the Fed's interest rate decision at its upcoming meeting, as well as New Zealand's food inflation and business PMI data due later this week. Traders continued to monitor the war in the Middle East, including the Saudi Arabia-Houthi conflict and its impact on oil prices. Notable gainers included Contact Energy (1.8%), Hallenstein Glasson (1.7%), Vulcan Steel (1.5%), Summerset Group (1.2%), Chorus (1.1%), and A2 Milk (0.6%)."
-    },
-    {
-      "id": "te:markets:591754",
-      "time": "2026-10-14 13:03:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Opens Little Changed — India’s BSE Sensex opened largely unchanged to 73,018 on Wednesday, supported by optimism over strong IT earnings, although gains were limited by elevated crude oil prices, persistent foreign fund outflows and geopolitical uncertainties. Meanwhile, Brent crude traded around $107 a barrel as investors assessed supply risks from fighting between Yemen’s Iran-allied Houthis and Saudi Arabia, alongside the prospect of increased diesel supplies from Russia. Among stocks, investors monitored Tata Elxsi following higher quarterly profit, Bharat Electronics after securing orders worth 533 crore rupees, and Transformers & Rectifiers India after more than doubling its quarterly profit year over year. Wipro was also in focus after the company said it does not anticipate a material business impact from the US suspension of the Permanent Labor Certification (PERM) programme. Notable gainers among tech stocks included TCS (2.3%), Infosys (2.2%) and HCL Tech (0.9%)."
     }
   ]
 }
