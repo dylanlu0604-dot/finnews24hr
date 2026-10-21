@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-21 23:38:22",
-  "count": 13398,
+  "updated": "2026-10-21 23:42:25",
+  "count": 13391,
   "items": [
+    {
+      "id": "mkt:01a15f1e-d6f1-7ee0-a92d-77abc33577c3",
+      "time": "2026-10-21 23:40:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Putin agrees in principle to resume Russia‑US‑Ukraine trilateral talks; Abu Dhabi possible】The Kremlin said President Putin told a U.S. special envoy on Wednesday he \"agreed in principle\" to resume trilateral peace talks among Russia, Ukraine and the United States around Nov. 10, possibly in Abu Dhabi, Reuters and Axios reported. The envoy held about three hours of talks with Putin in St. Petersburg and delivered an updated proposal to end the conflict; former Trump adviser Jared Kushner joined by video. The envoy said progress at Oslo talks supports restarting trilateral negotiations and involving technical experts on specific issues, and handed Putin several documents on a peaceful settlement. Putin also proposed discussing a potential Russian mediation role between the U.S. and Iran, citing decades of mutual trust and offering assistance to resolve the current crisis."
+    },
+    {
+      "id": "te:markets:593914",
+      "time": "2026-10-21 23:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rebound on Wednesday — European stocks rebounded on Wednesday after two consecutive sessions of losses, with the Euro Stoxx 50 rising more than 1% and the broader Stoxx 600 gaining less than 1%. Germany, France, Italy and Spain all advanced by over 1%, while the UK market posted a more modest recovery. Technology shares led sector gains, climbing around 2%, followed by energy stocks, which rose more than 1%. Banking, industrial goods and services, healthcare, insurance and utilities also recorded gains of approximately 1%. Automobiles and parts was the weakest-performing sector, falling more than 1.5%. Among individual stocks, EssilorLuxottica surged over 15% after reporting third-quarter revenue that exceeded market expectations. Carrefour, by contrast, plunged more than 10% after cutting its profit outlook and reducing planned capital expenditure. The French retailer cited continued domestic unrest and an energy price shock as factors weighing on consumer confidence and complicating its business outlook."
+    },
+    {
+      "id": "5159076",
+      "time": "2026-10-21 23:37:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨暴跌5%，跌至五週低點。"
+    },
     {
       "id": "5159075",
       "time": "2026-10-21 23:37:07",
@@ -121781,93 +121811,6 @@
         "市場"
       ],
       "text": "現貨鈀金下跌近3%，報每盎司1091.50美元。"
-    },
-    {
-      "id": "5145191",
-      "time": "2026-10-14 23:42:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI基礎設施負責人Katti將卸任。"
-    },
-    {
-      "id": "5145190",
-      "time": "2026-10-14 23:41:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI任命Ruddarraju領導資料中心與計算部門。"
-    },
-    {
-      "id": "5145189",
-      "time": "2026-10-14 23:41:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌3%，現報1093.50美元/盎司。"
-    },
-    {
-      "id": "5145188",
-      "time": "2026-10-14 23:41:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【英特爾在以色列工廠發生爆炸致3人受傷】據以色列媒體14日報道，美國晶片製造商英特爾公司位於以色列南部加特鎮的工廠當天發生爆炸，造成3名工人受傷。（新華社）"
-    },
-    {
-      "id": "5145187",
-      "time": "2026-10-14 23:41:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌6%，現報55.95美元/盎司。"
-    },
-    {
-      "id": "5145186",
-      "time": "2026-10-14 23:40:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守56美元/盎司，日內跌5.94%。"
-    },
-    {
-      "id": "te:markets:592038",
-      "time": "2026-10-14 23:40:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Micron Technology Shares Hit 4-week Low — Micron Technology shares decreased to 928.60 USD, the lowest since September 2026. Over the past 4 weeks, Micron Technology gained 0.37%, and in the last 12 months, it increased 385.08%."
-    },
-    {
-      "id": "5145185",
-      "time": "2026-10-14 23:40:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄總統代表：未來幾天將簽署首批對美柴油供應合同】俄羅斯總統特別代表基里爾·德米特里耶夫14日說，預計未來幾天俄美雙方將簽署首批對美國供應柴油的合同。德米特里耶夫當天出席“俄羅斯能源周”論壇相關活動。在被問及首批合同何時簽署、何時開始交付時，他回答說：“一切都將在未來幾天發生。”德米特里耶夫還說，俄方正與美方保持積極溝通，並就如何儘快落實供應和解決物流等問題進行協商。（新華社）"
-    },
-    {
-      "id": "5145184",
-      "time": "2026-10-14 23:39:32",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【兩艘新加坡籍船隻在霍爾木茲海峽遭襲】新加坡海事及港務管理局14日晚發表宣告說，兩艘在新加坡註冊的集裝箱船據報在透過霍爾木茲海峽時被不明投射物擊中，其中一艘著火後沉沒。 宣告說，一艘船隻於13日遭襲受損併發生火災，隨後沉沒，船上21名船員均已安全撤離。另一艘船隻於14日遭襲後船體受損，隨後依靠自身動力抵達安全錨地，船上22名船員均安全。（新華社）"
-    },
-    {
-      "id": "5145183",
-      "time": "2026-10-14 23:38:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯布良斯克地區遇襲，造成一人死亡。"
     }
   ]
 }

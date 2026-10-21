@@ -1,7 +1,37 @@
 {
   "date": "2026-10-21",
-  "count": 2477,
+  "count": 2480,
   "items": [
+    {
+      "id": "mkt:01a15f1e-d6f1-7ee0-a92d-77abc33577c3",
+      "time": "2026-10-21 23:40:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Putin agrees in principle to resume Russia‑US‑Ukraine trilateral talks; Abu Dhabi possible】The Kremlin said President Putin told a U.S. special envoy on Wednesday he \"agreed in principle\" to resume trilateral peace talks among Russia, Ukraine and the United States around Nov. 10, possibly in Abu Dhabi, Reuters and Axios reported. The envoy held about three hours of talks with Putin in St. Petersburg and delivered an updated proposal to end the conflict; former Trump adviser Jared Kushner joined by video. The envoy said progress at Oslo talks supports restarting trilateral negotiations and involving technical experts on specific issues, and handed Putin several documents on a peaceful settlement. Putin also proposed discussing a potential Russian mediation role between the U.S. and Iran, citing decades of mutual trust and offering assistance to resolve the current crisis."
+    },
+    {
+      "id": "te:markets:593914",
+      "time": "2026-10-21 23:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rebound on Wednesday — European stocks rebounded on Wednesday after two consecutive sessions of losses, with the Euro Stoxx 50 rising more than 1% and the broader Stoxx 600 gaining less than 1%. Germany, France, Italy and Spain all advanced by over 1%, while the UK market posted a more modest recovery. Technology shares led sector gains, climbing around 2%, followed by energy stocks, which rose more than 1%. Banking, industrial goods and services, healthcare, insurance and utilities also recorded gains of approximately 1%. Automobiles and parts was the weakest-performing sector, falling more than 1.5%. Among individual stocks, EssilorLuxottica surged over 15% after reporting third-quarter revenue that exceeded market expectations. Carrefour, by contrast, plunged more than 10% after cutting its profit outlook and reducing planned capital expenditure. The French retailer cited continued domestic unrest and an energy price shock as factors weighing on consumer confidence and complicating its business outlook."
+    },
+    {
+      "id": "5159076",
+      "time": "2026-10-21 23:37:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨暴跌5%，跌至五週低點。"
+    },
     {
       "id": "5159075",
       "time": "2026-10-21 23:37:07",
