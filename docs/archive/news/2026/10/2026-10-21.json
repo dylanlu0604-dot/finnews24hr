@@ -1,7 +1,56 @@
 {
   "date": "2026-10-21",
-  "count": 2428,
+  "count": 2433,
   "items": [
+    {
+      "id": "5159053",
+      "time": "2026-10-21 23:11:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美媒稱馬斯克下令對烏使用星盾限速】美國《華爾街日報》10月20日援引美國官員和知情人士的話報道，美國太空探索技術公司執行長馬斯克上週下令對烏克蘭使用的“星鏈”衛星通訊系統的軍事級版本“星盾”進行限速。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:593910",
+      "time": "2026-10-21 23:10:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Heating Oil Falls as Government Releases Emergency Supplies — Heating oil prices in the US fell toward $4.80 a gallon as the Trump administration moved to release emergency fuel supplies to ease rising costs ahead of the midterm elections. The Energy Department announced plans to loan 315,000 barrels from the 1 million-barrel Northeast Home Heating Oil Reserve, with deliveries expected to be completed by November 13. Energy Secretary Chris Wright described the move as a temporary response to supply disruptions. Around 4% of US households rely on heating oil, particularly in northeastern states, although the release is unlikely to materially affect the broader diesel market, given that the East Coast consumes approximately 1.2 million barrels of diesel and other distillates daily. Established under President Bill Clinton, the reserve is designed to provide the region with roughly 10 days of supply and was previously used following Hurricane Sandy and major snowstorms in 2012."
+    },
+    {
+      "id": "5159052",
+      "time": "2026-10-21 23:10:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普希望烏克蘭總統澤連斯基和俄羅斯總統普京在邁阿密G20峰會上簽署和平協議。"
+    },
+    {
+      "id": "mkt:01a15f03-11bc-7ee0-a92c-cc88e856f3d8",
+      "time": "2026-10-21 23:09:58",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Market sources say Trump hopes Ukrainian President Zelenskiy and Russian President Putin will sign a peace agreement at the Miami G20 summit."
+    },
+    {
+      "id": "mkt:01a15f02-bf4f-7ee0-a92c-c41d91b31487",
+      "time": "2026-10-21 23:09:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said the Iranian people want Israel to win."
+    },
     {
       "id": "5159051",
       "time": "2026-10-21 23:06:31",
