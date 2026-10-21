@@ -1,7 +1,143 @@
 {
-  "updated": "2026-10-21 08:57:08",
-  "count": 13533,
+  "updated": "2026-10-21 09:01:17",
+  "count": 13528,
   "items": [
+    {
+      "id": "mkt:01a15bf9-4d95-7ee0-a914-24f994f3b81c",
+      "time": "2026-10-21 09:00:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Chinese commodity futures opened mixed with most front-month contracts lower. Container-shipping Europe-route futures fell over 5%. Shanghai crude (SC) dropped more than 3%; fuel oil down nearly 3%. Polypropylene monthly-average contract lost over 2%; LPG and low-sulfur fuel oil (LU) off about 2%. 20# rubber and rapeseed meal fell more than 1%. On the upside, SHFE nickel rose nearly 2%; SHFE tin, SHFE silver, lithium carbonate and ethylene glycol (EG) gained over 1%."
+    },
+    {
+      "id": "mkt:01a15bf9-3969-7ee0-a914-185a540f7843",
+      "time": "2026-10-21 09:00:22",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 index futures opened 0.35% higher."
+    },
+    {
+      "id": "5157173",
+      "time": "2026-10-21 09:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.3%至46,872.23點。"
+    },
+    {
+      "id": "5157172",
+      "time": "2026-10-21 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.3%報46,454.33。"
+    },
+    {
+      "id": "5157171",
+      "time": "2026-10-21 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌3%，現報4780.00元。"
+    },
+    {
+      "id": "5157170",
+      "time": "2026-10-21 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲1%，現報5045.00元。"
+    },
+    {
+      "id": "5157169",
+      "time": "2026-10-21 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌5%，現報2520.00點。"
+    },
+    {
+      "id": "5157168",
+      "time": "2026-10-21 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌1%，現報3103.00元。"
+    },
+    {
+      "id": "5157167",
+      "time": "2026-10-21 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.34%。"
+    },
+    {
+      "id": "5157166",
+      "time": "2026-10-21 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】集運指數歐線期貨連續跌4.33%，上海原油連續跌3.52%，燃料油連續跌3.10%，液化石油氣連續跌2.19%，對二甲苯連續跌2.05%。"
+    },
+    {
+      "id": "5157165",
+      "time": "2026-10-21 08:59:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI稱其智慧體曾削弱提示AI不當行為的系統】OpenAI發現了其AI智慧體削弱內部的異常行為監控系統並關閉警報的事件。近幾個月來，同類事件已發生多起。該公司週二在部落格文章中表示，其正在評估此類案例是否表明其AI模型存在更普遍的逃避監控傾向。OpenAI表示，事件發生在旗下智慧體執行兩項內部程式設計任務期間。根據前述文章，事件發生在OpenAI內部，該公司沒有提及任何受影響的外部方。近幾個月來，對於AI“錯位”(misalignment)的擔憂日益加劇。所謂錯位，就是模型沒有按照建造者的意願執行。此前，OpenAI及Anthropic PBC等同行已披露多起先進AI模型出現此類行為的案例。OpenAI表示，未來將開展更多評估，並執行更嚴格的安全要求，以儘量降低發生此類事件的可能性。不過，OpenAI表示，對於旗下智慧體為何出現上述行為，“尚未找到令人滿意的解釋”。"
+    },
+    {
+      "id": "5157164",
+      "time": "2026-10-21 08:59:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【極米科技等成立馬克先生科技公司，含智慧機器人業務】企查查APP顯示，近日，深圳馬克先生科技有限公司成立，經營範圍包含：智慧機器人的研發；智慧機器人銷售；智慧基礎製造裝備製造；智慧基礎製造裝備銷售等。企查查股權穿透顯示，該公司由極米科技等共同持股。"
+    },
+    {
+      "id": "5157163",
+      "time": "2026-10-21 08:59:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【氬氣價格兩週漲超40% 業內：副產品屬性帶來高利潤彈性】記者獲悉，Q4開始氬氣價格快速上行。資料顯示，截至20日，東北、華東地區液氬價格分別漲至約2540元/噸和3057元/噸。較10月8日，兩地價格分別上漲970元/噸和1101元/噸，漲幅高達38.3%和49.4%。業內人士接受採訪時稱，供應端空分裝置開工偏低，疊加高階製造、半導體領域需求持續增長，氬氣供需出現緊張局面。同時，作為空分副產品，氬氣的邊際成本低，漲價帶來的增量收入幾乎可以全部轉化為毛利，從而給相關企業帶來較為可觀的利潤。 (財聯社)"
+    },
+    {
+      "id": "5157162",
+      "time": "2026-10-21 08:58:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月20日188股獲融資買入超億元 長鑫科技獲買入13.67億元居首】10月20日共有3535只個股獲融資資金買入，有188股買入金額超億元。其中，長鑫科技、中際旭創、寧德時代融資買入金額排名前三，分別獲買入13.67億元、11.11億元、10.32億元。"
+    },
+    {
+      "id": "5157161",
+      "time": "2026-10-21 08:57:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中東部大部降水稀少 江南多地降溫如換季】今天（10月21日）起，中東部大部降水稀少，新疆北部雨雪增多。同時，受冷空氣影響，東北、西南、江南、華南等地氣溫下降，江南不少地方降溫猛烈，隔日如換季。明天起，中東部氣溫自北向南開始陸續反彈。"
+    },
+    {
+      "id": "5157160",
+      "time": "2026-10-21 08:57:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三夫戶外：目前部分存貨是前期代理業務遺留庫存，擬一次性或分批次集中處置】10月21日，三夫戶外在最新披露的投資者關係活動中表示，公司透過開設奧萊門店、倉店、特賣等形式持續進行庫存消化，加速清理中長期庫存商品，降低滯銷風險；同時線下門店升級（瀋陽、長春等店）、線下新店拓展以及線上渠道銷售增長等都在加速庫存週轉；2026年新品整體銷售表現良好，減少新品庫存積壓；目前的存貨一部分是前期代理業務遺留庫存，擬一次性或分批次集中處置；另一部分是渠道運營轉型品牌運營後，品牌運營產生的庫存，會透過常規渠道實現常態化健康消化。公司的目標是持續降低庫存水平，爭取進一步改善庫存和週轉率。"
+    },
     {
       "id": "5157159",
       "time": "2026-10-21 08:56:19",
@@ -123485,202 +123621,6 @@
         "市場"
       ],
       "text": "【國窖1573四連陽創月新高 洋河夢之藍M6+、古井貢古20大漲】新浪財經“酒價內參”過去24小時收集的資料顯示，10月14日中國白酒業12大單品的終端零售均價九漲兩跌一平，上漲品種顯著佔優，且累計漲幅大幅領先下跌端，整體價盤在昨日回撥後重新走強。上漲端，精品茅臺上漲2元至2468元，近期始終圍繞2465元附近窄幅振盪，今日價格再次回到階段高位；茅臺1935上漲1元至684元，結束昨日平盤小幅回升；五糧液1618上漲1元，重返830元關口，延續近期窄幅波動行情；國窖1573大漲6元至890元，四連陽持續攀升，創下近一個月價格新高；洋河夢之藍M6+大漲7元至611元，二連陽加速反彈，快速脫離近期低谷上行；古井貢古20大漲6元至540元，再度收復前期失地，近幾日其價格漲跌交錯振幅較大；習酒君品上漲3元至643元，二連陽繼續抬升，穩步站上640元關口；青花郎上漲5元至695元，昨日重挫後明顯修復，再度叩關700元；水晶劍南春上漲3元至411元，結束五連陰。價格下跌端，飛天茅臺下跌2元至1794元，連續第八日執行在1800元關口附近；青花汾20下跌3元至397元，昨日剛收復的400元關口後再度失守。持平方面，五糧液普五八代維持801元不變，昨日急跌後轉入橫盤，800元關口處仍獲支撐。\n\n今日12大單品的終端零售總價明顯回升，九款產品價格上漲，且品種漲幅突出，上漲端推動整體價盤重心明顯上移。如果12大單品各取一瓶整體打包售賣，今日總售價為10764元，較昨日大漲29元，創下7天以來新高。"
-    },
-    {
-      "id": "mkt:01a137ed-7f2c-7ee0-a864-67a1a6acddb9",
-      "time": "2026-10-14 09:01:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index opened up 313.4 points, or 0.65%, at 48,654.71 on Oct. 14 (Wednesday)."
-    },
-    {
-      "id": "5143316",
-      "time": "2026-10-14 09:01:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破107美元/桶，日內漲1.24%。"
-    },
-    {
-      "id": "mkt:01a137ec-f9f1-7ee0-a864-58b82fc8e9b7",
-      "time": "2026-10-14 09:00:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Front-month fuel oil contract rose 4.00% intraday to 5,538.00 yuan/ton."
-    },
-    {
-      "id": "mkt:01a137ec-f3b2-7ee0-a864-50e4bcc84e21",
-      "time": "2026-10-14 09:00:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "In early trade on Wednesday Oct 14, Shanghai Gold Exchange gold T+D fell 0.43% to 896.33 yuan/gram; silver T+D fell 1.77% to 14,380 yuan/kg."
-    },
-    {
-      "id": "5143315",
-      "time": "2026-10-14 09:00:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【南方多地有較強降雨伴強對流 明起新一股冷空氣將登場】今天（10月14日），受冷空氣影響，東北氣溫繼續下降，哈爾濱等地最低氣溫將為下半年來首次跌破冰點。明天起，新一股冷空氣將登場，影響範圍廣泛，本週末至下週初長江以北氣溫將大面積創新低。受冷暖空氣交匯影響，今明兩天南方多地有較強降雨，江淮、江南部分地區降雨的同時還伴有強對流天氣，公眾需關注預警預報資訊，外出帶好雨具。"
-    },
-    {
-      "id": "mkt:01a137ec-c5df-7ee0-a864-4cfa1f5508f1",
-      "time": "2026-10-14 09:00:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "FTSE China A50 index futures opened 0.01% higher."
-    },
-    {
-      "id": "mkt:01a137ec-a572-7ee0-a864-41e275d4bd4a",
-      "time": "2026-10-14 09:00:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals"
-      ],
-      "text": "At the open, China's most-active futures contracts were mixed. Shanghai tin fell over 3% and Shanghai silver dropped more than 2%; platinum, soda ash, SMR20 natural rubber, short polyester fiber, Shanghai zinc and palladium declined over 1%. On the upside, fuel oil and benzene rose over 3%; ethylene glycol (EG) and styrene (EB) gained about 2%; polypropylene (PP), bitumen, LPG, Shanghai lead, Shanghai crude (SC), plastics and PVC advanced more than 1%."
-    },
-    {
-      "id": "5143314",
-      "time": "2026-10-14 09:00:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數開盤變動不大，報48,382.64。"
-    },
-    {
-      "id": "5143313",
-      "time": "2026-10-14 09:00:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲2%，現報3300.00元。"
-    },
-    {
-      "id": "5143312",
-      "time": "2026-10-14 09:00:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內漲4%，現報4627.00元。"
-    },
-    {
-      "id": "5143311",
-      "time": "2026-10-14 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲2%，現報5232.00元。"
-    },
-    {
-      "id": "5143310",
-      "time": "2026-10-14 09:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】瀝青連續漲3.89%，錫連續跌3.41%，純苯連續漲3.11%，燃料油連續漲3.01%，上海原油連續漲2.45%。"
-    },
-    {
-      "id": "5143309",
-      "time": "2026-10-14 09:00:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【嶺南控股：公司商旅出行業務積極開發冰雪旅遊線路 產品供給豐富】嶺南控股(000524)10月14日在互動平臺表示，公司商旅出行業務積極開發冰雪旅遊線路，冰雪旅遊產品目的地涵蓋東北、北疆、河北、湖北、湖南、四川等國內冰雪區域，冰雪旅遊產品供給豐富，涵蓋滑雪、賞雪、娛雪、民俗、康養等多樣玩法。"
-    },
-    {
-      "id": "5143308",
-      "time": "2026-10-14 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內漲3%，現報4621.00元。"
-    },
-    {
-      "id": "5143307",
-      "time": "2026-10-14 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.02%。"
-    },
-    {
-      "id": "5143306",
-      "time": "2026-10-14 08:59:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【真愛美家新設智算科技公司 含多項AI業務】企查查APP顯示，近日，廣東數則智算科技有限公司成立，經營範圍包含人工智慧應用軟體開發；人工智慧基礎軟體開發；智慧控制系統整合；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由真愛美家全資持股。"
-    },
-    {
-      "id": "5143305",
-      "time": "2026-10-14 08:58:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報106.75美元/桶。"
-    },
-    {
-      "id": "mkt:01a137eb-5717-7ee0-a864-3b11cec743f1",
-      "time": "2026-10-14 08:58:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USGS reports a M5.0 earthquake 95 km north-northwest of Coquimbo, Chile."
-    },
-    {
-      "id": "5143304",
-      "time": "2026-10-14 08:58:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貴州加快構建省市兩級雙碳服務體系】日前，貴州六盤水市雙碳服務中心、黔西南州雙碳服務中心分別在南網貴州六盤水供電局、興義供電局揭牌成立。這是繼8月25日貴州省雙碳服務中心揭牌執行後，貴州按照“省統籌、市落地”部署，加快構建省市兩級雙碳服務體系的重要進展，標誌著全省碳排放“一張圖”建設邁出關鍵一步。2026年5月，貴州省發展改革委正式授權貴州電網公司組建省、市兩級雙碳服務中心。按照統一安排，今年9月底前首批試點地州中心掛牌、省地兩級中心聯動試執行；10月底前全部地州中心掛牌；12月底前兩級中心常態化執行，建成全省碳排放“一張圖”，實現資料、監測、預警、服務閉環管理。（經參報）"
-    },
-    {
-      "id": "mkt:01a137ea-a67c-7ee0-a864-36989cba8fe5",
-      "time": "2026-10-14 08:58:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "【Qualcomm says jury found Arm breached license agreement】Oct 14 — Qualcomm said a jury found Arm violated their long‑standing architecture license agreement (ALA), failed to meet commitments and deliberately acted to disrupt Qualcomm’s business; Qualcomm said it was gratified by the finding. On Oct 13 Arm said it was satisfied with the jury verdict, which ruled for Arm on four claims and awarded Qualcomm only $1 on two other claims. On Sept 30 Qualcomm said a U.S. District Court for the District of Delaware judge had earlier ruled for Qualcomm on all claims in Arm’s lawsuit, dismissed Arm’s challenges, and held that Qualcomm and its unit Nuvia did not breach the Nuvia‑Arm license."
-    },
-    {
-      "id": "mkt:01a137ea-84c6-7ee0-a864-2e25688a7ee6",
-      "time": "2026-10-14 08:57:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Galaxy Securities: Super El Niño formed; near-term soybean meal, oils and white sugar likely firmer】Galaxy Securities says a super El Niño has formed and will inject a forward weather premium, supporting near-term strength in soybean meal, rapeseed meal, the three major vegetable oils and white sugar; corn, hogs and cotton are expected to trade sideways. US soybean downside appears fully priced, which should lift import costs and reinforce soybean meal gains alongside temporary domestic supply tightness; rapeseed meal will track soybean meal. Oils receive three supports: weather premium, stronger crude boosting biodiesel demand, and higher bean-derived costs as US soybean weakness is exhausted. White sugar strength is driven by El Niño-triggered global output risk; raw sugar has firmed, domestic-international spreads narrowed, and Zhengzhou sugar is supported by rising import-cost parity. Corn faces a new-crop supply vs. state-procurement tug-of-war — monitor procurement timing and new-crop opening prices. Hog supply remains loose; a sustained rebound likely needs seasonal pickling/curing demand or concentrated second-cycle restocking to catalyze. Cotton faces new-crop pressure offset by procurement-cost floors; direction will depend on seed-cotton purchase prices, collection progress and whether peak-season orders materialize."
     }
   ]
 }
