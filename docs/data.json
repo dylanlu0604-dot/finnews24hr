@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-22 06:26:32",
-  "count": 13467,
+  "updated": "2026-10-22 06:30:19",
+  "count": 13466,
   "items": [
+    {
+      "id": "mkt:01a16093-fb75-7ee0-a932-d8658ec30ffd",
+      "time": "2026-10-22 06:27:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "【Meta signs eight-year residency pact with Zuckerberg amid California wealth-tax threat】Meta Platforms signed an agreement requiring CEO Mark Zuckerberg to reside for eight years in California or the company’s headquarters jurisdiction. Meta will issue Zuckerberg Class C shares; he may immediately sell 20% of those C shares, equal to 10% of his total economic interest, to provide liquidity to cover a potential tax bill if California’s proposed wealth tax (Proposition 40) passes. Meta said the issuance is intended in part to avoid forcing him to sell voting shares to pay the tax. Proposition 40 goes to California voters next month; Zuckerberg had previously said he would consider leaving the state if the wealth tax were enacted."
+    },
     {
       "id": "mkt:01a16092-459c-7ee0-a932-d079a2e09e62",
       "time": "2026-10-22 06:26:01",
@@ -122544,25 +122557,6 @@
         "焦點"
       ],
       "text": "紐約期金突破4130美元/盎司，日內漲0.54%。"
-    },
-    {
-      "id": "te:markets:592071",
-      "time": "2026-10-15 06:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Propane Rises by 2.36% — Top commodity gainers are Propane (2.36%), Crude Oil (0.91%) and Brent Oil (0.18%). Biggest losers are Methanol (-2.34%) and Ethanol (-0.98%)."
-    },
-    {
-      "id": "5145614",
-      "time": "2026-10-15 06:28:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【豐富底層投資工具，公募配置盤蓄勢待發】近日，證監會就《公開募集證券投資基金運作管理辦法（徵求意見稿）》及配套規則公開徵求意見。其中，多項圍繞基金投資範圍的鬆綁條款引發行業關注，如非FOF產品投資其他基金的比例上限擬從10%上調至30%、允許FOF投資ETF聯接基金等。此外，FOF成立門檻擬降至5000萬元。在業內人士看來，這是一組為資產配置型產品“量身定製”的鬆綁條款，將進一步拓寬相關產品的策略空間，提升基金組合的配置效率。未來，公募基金將更加強調多資產組合管理能力，而天然具有資產配置屬性的FOF和“固收+”產品將是各家公募機構競爭的重要方向。（中證報）"
     }
   ]
 }

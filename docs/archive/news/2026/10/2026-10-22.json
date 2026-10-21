@@ -1,7 +1,20 @@
 {
   "date": "2026-10-22",
-  "count": 465,
+  "count": 466,
   "items": [
+    {
+      "id": "mkt:01a16093-fb75-7ee0-a932-d8658ec30ffd",
+      "time": "2026-10-22 06:27:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "【Meta signs eight-year residency pact with Zuckerberg amid California wealth-tax threat】Meta Platforms signed an agreement requiring CEO Mark Zuckerberg to reside for eight years in California or the company’s headquarters jurisdiction. Meta will issue Zuckerberg Class C shares; he may immediately sell 20% of those C shares, equal to 10% of his total economic interest, to provide liquidity to cover a potential tax bill if California’s proposed wealth tax (Proposition 40) passes. Meta said the issuance is intended in part to avoid forcing him to sell voting shares to pay the tax. Proposition 40 goes to California voters next month; Zuckerberg had previously said he would consider leaving the state if the wealth tax were enacted."
+    },
     {
       "id": "mkt:01a16092-459c-7ee0-a932-d079a2e09e62",
       "time": "2026-10-22 06:26:01",
