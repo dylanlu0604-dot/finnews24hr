@@ -1,7 +1,149 @@
 {
   "date": "2026-10-21",
-  "count": 781,
+  "count": 796,
   "items": [
+    {
+      "id": "mkt:01a15c00-78b1-7ee0-a914-7f2bae57f001",
+      "time": "2026-10-21 09:08:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 1.00% intraday to $57.41/oz."
+    },
+    {
+      "id": "mkt:01a15c00-77f3-7ee0-a914-718c45b0d59d",
+      "time": "2026-10-21 09:08:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nomura projects South Korea's Q3 GDP will be stronger than previously forecast, estimating July-September GDP +1.6% QoQ and +4.0% YoY versus earlier forecasts of +0.1% QoQ and +2.4% YoY."
+    },
+    {
+      "id": "mkt:01a15c00-4402-7ee0-a914-69df998ab945",
+      "time": "2026-10-21 09:08:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nomura raised its forecast for South Korea's Q3 GDP growth to 4.0% YoY."
+    },
+    {
+      "id": "5157190",
+      "time": "2026-10-21 09:07:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧將於孟買當地時間上午9點會見塔塔集團執行長。"
+    },
+    {
+      "id": "mkt:01a15bff-5b1e-7ee0-a914-663fe4a333ff",
+      "time": "2026-10-21 09:07:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "【Wall Street Journal: Failed German airport attack an 'opening salvo' in Russia's sabotage campaign against Europe】The Wall Street Journal reports that in early August a large Antonov cargo plane parked at an eastern German airport — previously used to transport military aid to Ukraine — was struck in an attack by explosive-laden drones. German officials say the drones were controlled by Russian military intelligence; one hit the Antonov but failed to detonate, a second struck another aircraft, and a third exploded in the airport perimeter. Investigators said the attack, had it succeeded, could have caused major disruption and casualties at one of Europe’s key air-freight hubs. A European official familiar with the intelligence said U.S. agencies assess the attempted strike at Leipzig-Halle Airport this summer is among the 'opening acts' of an escalating campaign of sabotage and covert operations ordered directly by Putin against NATO states."
+    },
+    {
+      "id": "mkt:01a15bff-51e5-7ee0-a914-5deb1f6d1bf8",
+      "time": "2026-10-21 09:07:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,110/oz, down 0.37% intraday."
+    },
+    {
+      "id": "5157189",
+      "time": "2026-10-21 09:06:47",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：三季度印度智慧手機市場出貨量創近十年同期新低】10月21日，Omdia最新研究顯示，2026年第三季度，印度智慧手機出貨量同比下降26%至3580萬部，創近十年同期新低。手機價格上漲與消費者支出趨於謹慎抑制了換機需求，部分節慶備貨延後進一步拖累當季出貨。三星重回榜首，vivo、OPPO、小米和蘋果分列第二至第五。展望2027年，高企的手機價格和延長的換機週期將繼續制約需求，預計市場出貨量仍將出現低個位數百分比的下滑。"
+    },
+    {
+      "id": "5157188",
+      "time": "2026-10-21 09:06:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "野村稱，韓國經濟第三季度增速可能快於預期。預計7-9月期間GDP環比增長1.6%、同比增長4.0%，遠高於早前預測的環比增長0.1%和同比增長2.4%。"
+    },
+    {
+      "id": "5157187",
+      "time": "2026-10-21 09:05:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "野村將韓國第三季度GDP同比增長預期上調至4.0%。"
+    },
+    {
+      "id": "5157186",
+      "time": "2026-10-21 09:05:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破99美元/桶，日內漲1.21%。"
+    },
+    {
+      "id": "5157185",
+      "time": "2026-10-21 09:05:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【 中方敦促科索沃當局停止加劇緊張局勢 】 聯合國安理會當地時間20日舉行科索沃問題公開會。中方代表敦促科索沃當局停止加劇緊張的單方面行動，保障當地塞爾維亞族民眾安全和合法權益。中方強調，對話談判是解決地區熱點問題的唯一出路。期待有關各方早日恢復高階別對話。科索沃當局應儘快兌現建立塞族城市聯盟的承諾，為推進對話掃除障礙。"
+    },
+    {
+      "id": "5157184",
+      "time": "2026-10-21 09:05:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4110美元/盎司，日內跌0.37%。"
+    },
+    {
+      "id": "5157183",
+      "time": "2026-10-21 09:05:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4130美元/盎司，日內跌0.34%。"
+    },
+    {
+      "id": "5157182",
+      "time": "2026-10-21 09:05:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【白酒12大單品9款下跌 國窖1573、習酒君品大跌7元 洋河夢之藍M6+、五糧液1618逆勢上漲】新浪財經“酒價內參”過去24小時收集的資料顯示，10月21日中國白酒業12大單品的終端零售均價兩漲九跌一平，下跌品種佔據絕對優勢，且累計跌幅明顯超過上漲端，整體價盤在昨日罕見平盤整理後大幅下挫。上漲端，五糧液1618上漲1元至831元，昨日小幅回落後迅速收復失地，重返近期高位；洋河夢之藍M6+上漲3元至614元，結束此前三連陰，短線止跌回升。下跌端，飛天茅臺下跌1元至1790元，來到近期區間下沿；精品茅臺下跌3元至2463元，昨日上漲後小幅回落，重回近期整理區間；五糧液普五八代下跌5元至797元，二連跌累計下挫兩碼，失守800元整數關口；青花汾20下跌5元至395元，昨日短暫回升至400元后迅速回撥，該整數關口阻力頗大；國窖1573大跌7元至887元，連續第二日走低，前期衝高勢頭明顯降溫；古井貢古20下跌6元至535元，四連陽宣告結束，回吐近兩日漲幅；習酒君品大跌7元至633元，昨日平盤後快速走弱，已陷入近期低位；青花郎下跌6元至708元，七連陽戛然而止，昨日創下近30天新高引發回撥；水晶劍南春下跌1元至410元，昨日平盤後小幅回落。持平方面，茅臺1935維持684元不變，連續第三日保持在這一價位。\n\n今日12大單品的終端零售總價明顯回落，九款產品價格下跌，其中青花郎、國窖1573、習酒君品和古井貢古20的跌幅較突出，下跌端對整體價盤形成明顯拖累。如果12大單品各取一瓶整體打包售賣，今日總售價為10747元，較昨日大跌37元，結束此前高位橫盤，創下近6天以來最低紀錄。"
+    },
+    {
+      "id": "5157181",
+      "time": "2026-10-21 09:04:40",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：昨日美伊妥協協議的傳聞一度引發黃金反彈，但是隨後在伊朗澄清的情況下回落】 黃金市場變化不大，走勢較為震盪，其短期波動與油價和美元指數仍密切相關。昨日美伊妥協協議的傳聞一度引發黃金反彈，但是隨後在伊朗澄清的情況下回落，貴金屬市場仍遭受高油價、高美債收益率、強美元和加息預期輪番壓力，維持震盪偏弱的態勢。"
+    },
     {
       "id": "mkt:01a15bfc-dc09-7ee0-a914-52c28100c6d3",
       "time": "2026-10-21 09:04:20",
