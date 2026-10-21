@@ -1,7 +1,45 @@
 {
   "date": "2026-10-21",
-  "count": 2489,
+  "count": 2493,
   "items": [
+    {
+      "id": "te:economy:593916",
+      "time": "2026-10-21 23:48:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Colombia Trade Deficit Widens in August — Colombia’s trade deficit widened to $3.25 billion in August 2026, from $2.10 billion a year earlier. Imports rose 31.7% year-on-year to $7.70 billion, led by manufactured goods, with purchases of machinery and transport equipment increasing 22.8% and chemicals and related products rising 22.2%. Imports of fuels and extractive industry products surged 190.1%, driven by a 262.6% jump in purchases of petroleum, petroleum products, and related materials. Imports of agricultural products, food, and beverages rose 24.8%. Exports increased 15.1% year-on-year to $4.46 billion, mainly driven by a 127% surge in the other sectors category, reflecting higher non-monetary gold sales. Exports of fuels and extractive industry products rose 23.8%, led by increases in coal, coke, and briquettes (99.4%) and petroleum products (12.3%). Manufacturing exports grew 5.6%, supported by chemicals and related products (18.7%) and miscellaneous manufactured articles (1.9%)."
+    },
+    {
+      "id": "5159083",
+      "time": "2026-10-21 23:47:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿拉斯加航空CFO：9月西海岸煉油毛利低於墨西哥灣沿岸煉油毛利。新加坡煉油毛利及燃油定價再度成為該公司供油網路內成本最低的來源。"
+    },
+    {
+      "id": "mkt:01a15f24-4f88-7ee0-a92d-9c1fe83d51f2",
+      "time": "2026-10-21 23:46:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Bailey says defending Powell from Trump’s attacks was right and he would do it again】Bank of England Governor Bailey said he was right to speak up to defend then-Fed Chair Powell from personal attacks by then-US President Trump and that he would do so again. Bailey said he and other central bank governors intervened because the attacks were aimed at Powell as an individual rather than at Fed policy, calling Powell a friend of high integrity. He has previously warned he is very concerned about attacks on Fed officials and cautioned any weakening of central bank independence could have global spillovers."
+    },
+    {
+      "id": "5159082",
+      "time": "2026-10-21 23:46:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "盟可睞：集團第三季度營收 6.055 億歐元。"
+    },
     {
       "id": "5159081",
       "time": "2026-10-21 23:45:12",

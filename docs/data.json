@@ -1,7 +1,45 @@
 {
-  "updated": "2026-10-21 23:46:21",
-  "count": 13398,
+  "updated": "2026-10-21 23:50:26",
+  "count": 13393,
   "items": [
+    {
+      "id": "te:economy:593916",
+      "time": "2026-10-21 23:48:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Colombia Trade Deficit Widens in August — Colombia’s trade deficit widened to $3.25 billion in August 2026, from $2.10 billion a year earlier. Imports rose 31.7% year-on-year to $7.70 billion, led by manufactured goods, with purchases of machinery and transport equipment increasing 22.8% and chemicals and related products rising 22.2%. Imports of fuels and extractive industry products surged 190.1%, driven by a 262.6% jump in purchases of petroleum, petroleum products, and related materials. Imports of agricultural products, food, and beverages rose 24.8%. Exports increased 15.1% year-on-year to $4.46 billion, mainly driven by a 127% surge in the other sectors category, reflecting higher non-monetary gold sales. Exports of fuels and extractive industry products rose 23.8%, led by increases in coal, coke, and briquettes (99.4%) and petroleum products (12.3%). Manufacturing exports grew 5.6%, supported by chemicals and related products (18.7%) and miscellaneous manufactured articles (1.9%)."
+    },
+    {
+      "id": "5159083",
+      "time": "2026-10-21 23:47:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿拉斯加航空CFO：9月西海岸煉油毛利低於墨西哥灣沿岸煉油毛利。新加坡煉油毛利及燃油定價再度成為該公司供油網路內成本最低的來源。"
+    },
+    {
+      "id": "mkt:01a15f24-4f88-7ee0-a92d-9c1fe83d51f2",
+      "time": "2026-10-21 23:46:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Bailey says defending Powell from Trump’s attacks was right and he would do it again】Bank of England Governor Bailey said he was right to speak up to defend then-Fed Chair Powell from personal attacks by then-US President Trump and that he would do so again. Bailey said he and other central bank governors intervened because the attacks were aimed at Powell as an individual rather than at Fed policy, calling Powell a friend of high integrity. He has previously warned he is very concerned about attacks on Fed officials and cautioned any weakening of central bank independence could have global spillovers."
+    },
+    {
+      "id": "5159082",
+      "time": "2026-10-21 23:46:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "盟可睞：集團第三季度營收 6.055 億歐元。"
+    },
     {
       "id": "5159081",
       "time": "2026-10-21 23:45:12",
@@ -121807,78 +121845,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：我們在星鏈方面遇到了一些困難。"
-    },
-    {
-      "id": "5145202",
-      "time": "2026-10-14 23:48:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總統赫爾佐格在巴庫會見亞塞拜然總統阿利耶夫。"
-    },
-    {
-      "id": "5145201",
-      "time": "2026-10-14 23:47:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦調查局局長帕特爾已抵達俄羅斯參加一場會議。"
-    },
-    {
-      "id": "5145200",
-      "time": "2026-10-14 23:47:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本民眾集會抗議駐日美軍暴力犯罪】日本民眾14日晚在東京的美國駐日本大使館附近舉行集會，抗議近日發生的駐日美軍士兵涉嫌搶劫殺害沖繩女性案件，並反對即將舉行的日美聯合軍演。記者在現場看到，抗議者高呼“美軍基地撤出沖繩”“美軍別再殺人”等口號。日本警方出動多輛警車，部署警力維持秩序，其間與抗議者發生推搡。本月4日，沖繩縣警方逮捕隸屬美軍普天間基地的海軍陸戰隊員德文·巴拉德。他涉嫌於3日凌晨在沖繩縣那霸市一家酒店殺害一名當地女性，並搶走錢包等物品。沖繩縣議會9日透過抗議決議和意見書，要求採取有效措施防止類似案件發生，並從根本上修訂日美地位協定。（新華社）"
-    },
-    {
-      "id": "5145199",
-      "time": "2026-10-14 23:47:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國核管理委員會：利默里克1號反應堆功率從62%提高到66%。"
-    },
-    {
-      "id": "5145198",
-      "time": "2026-10-14 23:47:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國核管理委員會：布朗斯費裡1號反應堆功率從94%降至88%。"
-    },
-    {
-      "id": "5145197",
-      "time": "2026-10-14 23:46:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國核管理委員會：沃特福德3號反應堆功率從97%降至91%。"
-    },
-    {
-      "id": "5145196",
-      "time": "2026-10-14 23:46:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國核管理委員會：法利2號反應堆功率從96%降至95%。"
-    },
-    {
-      "id": "5145195",
-      "time": "2026-10-14 23:46:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國核管理委員會：哈奇1號反應堆功率從0%提升至3%。"
-    },
-    {
-      "id": "5145194",
-      "time": "2026-10-14 23:46:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國核管理委員會：德累斯頓3號反應堆功率從95%降至94%。"
     }
   ]
 }
