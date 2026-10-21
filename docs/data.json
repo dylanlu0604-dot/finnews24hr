@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-22 03:47:27",
+  "updated": "2026-10-22 03:51:09",
   "count": 13342,
   "items": [
+    {
+      "id": "mkt:01a16003-38e8-7ee0-a930-85b387e88873",
+      "time": "2026-10-22 03:49:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "United Arab Emirates senior diplomat Lana Nusseibeh has entered the race for UN secretary-general, saying she has suspended her ministerial post to devote herself full-time to the campaign."
+    },
+    {
+      "id": "5159255",
+      "time": "2026-10-22 03:48:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋高階外交官努塞貝：已暫停阿聯酋國務部長職務，全力參選聯合國秘書長。"
+    },
+    {
+      "id": "5159254",
+      "time": "2026-10-22 03:47:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋高階外交官拉娜·努賽貝宣佈加入聯合國秘書長競選。"
+    },
+    {
+      "id": "5159253",
+      "time": "2026-10-22 03:47:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將Netflix目標價從每股115.00美元下調至100.00美元，維持買入評級。"
+    },
     {
       "id": "mkt:01a15fff-ed14-7ee0-a930-79033acdf17a",
       "time": "2026-10-22 03:46:10",
@@ -121332,38 +121364,6 @@
         "Energy"
       ],
       "text": "Columbia Gas announced a force majeure on its MXP natural gas pipeline, effective October 14, 2026."
-    },
-    {
-      "id": "mkt:01a13bf7-ecb1-7ee0-a884-f73af8b30f58",
-      "time": "2026-10-15 03:51:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC said it has suspended accounts involved in policy-violating abuse to prevent coordinated abuse targeting elections, and has strengthened abuse-detection and network protections for election infrastructure."
-    },
-    {
-      "id": "mkt:01a13bf7-553e-7ee0-a884-e9a68ed83648",
-      "time": "2026-10-15 03:50:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yemen government seeks US intelligence and training support, not seeking talks with Houthis】Yemen’s foreign minister Afraa Zuba said Wednesday the government has asked the United States for intelligence and training support for government forces and the coast guard and for continued political, economic and humanitarian assistance, without explicitly requesting US military aid. She urged the US to expand sanctions on the Houthi movement and to strengthen sanctions coordination with the EU. Zuba said the government is not seeking negotiations with the Houthis now, prioritizing military action to end Houthi control; she said such operations are decided, commanded and executed by Yemen, with coalition partners providing air support. On US contacts with the Houthis referenced by former President Trump, Zuba said the outreach was intended to warn the Houthis against further attacks but gave no timing or communication details."
-    },
-    {
-      "id": "5145482",
-      "time": "2026-10-15 03:50:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【土耳其伊斯坦布林強降雨引發城市內澇 交通大面積癱瘓】當地時間14日，土耳其伊斯坦布林遭遇強降雨，引發嚴重城市內澇，多條主幹道積水成河，多地發生路面塌陷，部分地鐵站和公交車進水，交通大面積癱瘓。全市共投入超8000名救援人員、超2000臺車輛和器械投入搶險工作。此次強降雨已造成至少1人死亡，該死者因踩入積水觸電，搶救無效死亡。目前，官方尚未正式通報人員傷亡情況。（央視新聞）"
-    },
-    {
-      "id": "5145481",
-      "time": "2026-10-15 03:50:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "Skydance 披露 SKYD B 類普通股與權證分開獨立交易的相關細則。"
     }
   ]
 }
