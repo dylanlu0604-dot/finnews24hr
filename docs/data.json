@@ -1,7 +1,65 @@
 {
-  "updated": "2026-10-22 03:58:42",
-  "count": 13342,
+  "updated": "2026-10-22 04:02:29",
+  "count": 13344,
   "items": [
+    {
+      "id": "5159262",
+      "time": "2026-10-22 04:01:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta第三季度營收646.0億美元，市場預期633.3億美元。"
+    },
+    {
+      "id": "mkt:01a1600e-07c4-7ee0-a930-943cff3c5044",
+      "time": "2026-10-22 04:01:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) Q3 2026 revenue $64.6 bln, versus $51.242 bln year-ago; market consensus $63.334 bln."
+    },
+    {
+      "id": "5159261",
+      "time": "2026-10-22 04:01:21",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "Meta預計第四季度營收為730億美元至760億美元，此前預估為735.7億美元。"
+    },
+    {
+      "id": "5159260",
+      "time": "2026-10-22 04:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國豁免紅柴油稅務登記要求以吸引採購方，即將釋出指引，豁免條款將在週三公佈的美國國稅局指引中載明。"
+    },
+    {
+      "id": "5159259",
+      "time": "2026-10-22 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.69%，標普500指數漲0.59%，納指漲1.05%。SKYD漲10.63%，超微電腦漲9.55%，查爾斯河實驗室漲9.31%，SpaceX漲7.79%，Strategy漲7.54%，BE漲7.24%，Echo Global Logistics漲7.23%。“七姐妹”方面：特斯拉漲3.41%，英偉達漲2.54%，蘋果漲1.32%，Meta Platforms漲0.47%，微軟漲0.20%，亞馬遜跌0.10%，谷歌跌1.62%。"
+    },
+    {
+      "id": "5159258",
+      "time": "2026-10-22 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌2.32%】好未來跌9.02%，海川證券跌6.93%，DCX跌6.30%，禾賽科技跌5.72%，小鵬汽車跌5.60%。"
+    },
     {
       "id": "5159257",
       "time": "2026-10-22 03:53:33",
@@ -121318,51 +121376,6 @@
         "市場"
       ],
       "text": "COREWEAVE股價收盤下跌15%，創2月27日以來最大單日跌幅。"
-    },
-    {
-      "id": "mkt:01a13c02-2293-7ee0-a885-022b808c8547",
-      "time": "2026-10-15 04:02:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "CRWV.O",
-        "Impact bearish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "【US close: Nasdaq down nearly 2%, CoreWeave plunges ~15%】US shares closed Wednesday; Dow Jones Industrial Average was down 0.09% in preliminary figures, the S&P 500 fell 1.1% and the Nasdaq dropped 1.88%. Micron (MU.O) slid about 4%, SK Hynix (SKHY.O) fell 6%, NVIDIA (NVDA.O) was down 3%, CoreWeave (CRWV.O) plunged over 15% and Dell (DELL.N) fell more than 11%. The Nasdaq Golden Dragon China Index lost 1.39%; Bilibili (09626.HK) and NIO (NIO.N) each dropped over 4%."
-    },
-    {
-      "id": "5145490",
-      "time": "2026-10-15 04:01:18",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "費城半導體指數收盤下跌4.3%。晶片股指數六連跌，創2025年5月以來最長下跌紀錄。"
-    },
-    {
-      "id": "5145489",
-      "time": "2026-10-15 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.09%，標普500指數跌1.10%，納指跌1.85%。SKYD跌22.21%，CoreWeave跌15.29%，戴爾跌11.39%，Ciena科技跌10.28%，NBIS跌10.08%，Everpure跌9.88%，偉創力國際跌9.51%。“七姐妹”方面：蘋果漲0.44%，谷歌跌1.67%，亞馬遜跌1.72%，微軟跌1.76%，特斯拉跌2.15%，英偉達跌3.09%，Meta Platforms跌3.25%。"
-    },
-    {
-      "id": "5145488",
-      "time": "2026-10-15 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌1.37%】世紀互聯跌15.11%，萬國資料跌12.64%，DCX跌11.22%，阿特斯跌7.85%，小馬智行跌7.60%。"
     }
   ]
 }
