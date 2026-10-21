@@ -1,7 +1,148 @@
 {
   "date": "2026-10-21",
-  "count": 1924,
+  "count": 1940,
   "items": [
+    {
+      "id": "mkt:01a15e06-6c37-7ee0-a925-a9c9cc35c285",
+      "time": "2026-10-21 18:34:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【AGIBOT Innovation Day in Shanghai on Oct 29, 2026】Oct 29, 2026 — AGIBOT will hold its 2026 Innovation Day in Shanghai, focusing on deployable humanoid-robot capabilities. The company will present iterative advances across hardware, motion intelligence, task intelligence and interaction intelligence aimed at creating deployable, scalable humanoid units, and will demonstrate breakthroughs in embodied-intelligence deployment."
+    },
+    {
+      "id": "mkt:01a15e06-6063-7ee0-a925-a21b6ba4a559",
+      "time": "2026-10-21 18:33:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi said Iran will always retain influence over shipping through the Strait of Hormuz."
+    },
+    {
+      "id": "te:markets:593826",
+      "time": "2026-10-21 18:33:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "AT&T earnings above expectations at 0.65 USD — AT&T (T) released earnings per share at 0.65 USD, compared to market expectations of 0.61 USD."
+    },
+    {
+      "id": "5158474",
+      "time": "2026-10-21 18:33:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達及其供應鏈合作伙伴擴大產能，以加快人工智慧基礎設施建設。"
+    },
+    {
+      "id": "5158473",
+      "time": "2026-10-21 18:33:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：伊朗將始終對霍爾木茲海峽的交通擁有影響力。"
+    },
+    {
+      "id": "5158471",
+      "time": "2026-10-21 18:33:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026智元創新日將在上海舉行】記者獲悉，10月29日，2026智元創新日（AGIBOT Innovation Day）將在上海舉行。據瞭解，在本次創新日上，智元將圍繞部署態，從硬體本體、運動智慧、作業智慧和互動智慧等核心重點，持續迭代可落地、可規模化上崗的人形機器人能力，展示具身智慧部署態的突破。"
+    },
+    {
+      "id": "5158470",
+      "time": "2026-10-21 18:32:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達推出自動駕駛安全評估框架，賓士、沃爾沃等車企加速佈局L3及L4自動駕駛】10月21日，英偉達宣佈，Bolt、Lucid、梅賽德斯-賓士、沃爾沃汽車、大眾商用車及自動貨運企業Einride等正基於英偉達Hyperion計算平臺推進自動駕駛專案，覆蓋L3、L4級自動駕駛及未來Robotaxi車隊。沃爾沃汽車將採用Hyperion平臺及Alpamayo自動駕駛軟體棧，賓士則將其用於開發L3和L4級自動駕駛能力。英偉達同時釋出Alpamayo 2 Edge推理模型、AlpaJudge駕駛評估模型及新的Cosmos 3 Nano模型版本，以支援車載實時推理、駕駛資料標註、合成資料生成和閉環模擬。Alpamayo Agentic Factory則計劃於2027年初推出，透過AI智慧體串聯資料處理、模型後訓練和模擬評估流程。"
+    },
+    {
+      "id": "5158469",
+      "time": "2026-10-21 18:31:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "AT&T：第三季度營收323億美元，預估317億美元。"
+    },
+    {
+      "id": "5158468",
+      "time": "2026-10-21 18:31:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "富國銀行：將星巴克公司目標價從125美元下調至120美元。將SpaceX(SPCX.O)目標價從214美元上調至274美元。"
+    },
+    {
+      "id": "mkt:01a15e03-9941-7ee0-a925-9b961b336709",
+      "time": "2026-10-21 18:30:56",
+      "tags": [
+        "MKT News",
+        "SBUX.O",
+        "Impact bearish"
+      ],
+      "text": "Wells Fargo cuts Starbucks PT to $120 from $125."
+    },
+    {
+      "id": "5158467",
+      "time": "2026-10-21 18:30:55",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【東吳證券：蘇州國際發展集團有限公司累計增持0.25%】東吳證券公告，控股股東蘇州國際發展集團有限公司此前擬自2026年8月4日起6個月內增持公司股份，增持金額不低於1億元且不超過2億元。2026年8月10日至2026年8月21日，國發集團透過集中競價交易增持1262.84萬股；截至2026年10月21日，累計增持1262.84萬股，佔公司當前總股本的0.25%，累計增持金額1億元。國發集團將繼續按計劃以自有資金安排後續增持。"
+    },
+    {
+      "id": "mkt:01a15e03-81ac-7ee0-a925-964067f3761d",
+      "time": "2026-10-21 18:30:50",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "Wells Fargo raises price target on SpaceX (SPCX.O) to $274 from $214."
+    },
+    {
+      "id": "5158466",
+      "time": "2026-10-21 18:30:46",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【丁薛祥會見2026年國際科學理事會中期會員大會暨北京科學對話部分外賓】中共中央政治局常委、國務院副總理丁薛祥21日在北京會見2026年國際科學理事會中期會員大會暨北京科學對話部分外賓。丁薛祥表示，科學技術是人類共同的財富，開放合作是科技創新的必然選擇。中國願同各方一道，堅守科學初心，弘揚科學精神，以開放包容暢通國際學術交流，以協同攻關破解前沿科技難題，以互利合作促進成果普惠共享，共同推動全球科技事業發展。國際科學理事會主席格魯克曼等發言，讚賞中國科技創新取得的成就，表示堅定支援開放合作，讓科學真正成為全球公共產品，為全人類共同發展進步貢獻更大力量。（新華社）"
+    },
+    {
+      "id": "5158465",
+      "time": "2026-10-21 18:30:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府承諾投入近2.5億美元用於麥肯齊港鐵路基礎設施，以支援阿拉斯加的資源開發，併為Nova Minerals計劃中的關鍵礦產加工和精煉中心提供直接運輸通道。"
+    },
+    {
+      "id": "te:markets:593825",
+      "time": "2026-10-21 18:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.46% Lower — The SENSEX Index fell 339 points or 0.46 percent on Wednesday to close at 73514 points. Leading the losses are Bajaj Finance (-3.45%), Eternal Limited (-3.07%) and Maruti Suzuki (-2.60%). Top gainers were Infosys (3.03%), Tech Mahindra (2.74%) and Tata Consultancy (2.23%)."
+    },
+    {
+      "id": "5158464",
+      "time": "2026-10-21 18:30:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "AT&T第三季度無線後付費電話淨新增37.9萬，預計新增38.741萬。"
+    },
     {
       "id": "5158463",
       "time": "2026-10-21 18:29:55",
