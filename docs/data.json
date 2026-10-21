@@ -1,7 +1,75 @@
 {
-  "updated": "2026-10-22 06:41:34",
-  "count": 13461,
+  "updated": "2026-10-22 06:45:20",
+  "count": 13463,
   "items": [
+    {
+      "id": "5159455",
+      "time": "2026-10-22 06:44:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "AWS：PHP2SHELL 目前正在被廣泛利用於實際攻擊中。"
+    },
+    {
+      "id": "5159454",
+      "time": "2026-10-22 06:44:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "AWS：此次漏洞利用嘗試源自一個與商業匿名化網路相關的IP地址。"
+    },
+    {
+      "id": "5159453",
+      "time": "2026-10-22 06:43:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "AWS關於PHP2SHELL漏洞利用：相關活動由威脅行為者實施。"
+    },
+    {
+      "id": "5159452",
+      "time": "2026-10-22 06:43:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "AWS關於PHP2SHELL漏洞利用：目前尚不清楚攻擊者如何在披露前獲取該漏洞利用資訊。"
+    },
+    {
+      "id": "5159451",
+      "time": "2026-10-22 06:43:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "AWS：亞馬遜威脅情報在MadPot公開披露之前識別出PHP2SHELL漏洞利用。"
+    },
+    {
+      "id": "mkt:01a160a1-c84a-7ee0-a932-eb6984b7ec8f",
+      "time": "2026-10-22 06:42:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bank of Korea likely to pause rate hikes today; experts say tightening cycle not over】A Yonhap survey of six economists found all expect the Bank of Korea to hold rates today after consecutive hikes in July and August. Respondents said the central bank will keep a tightening stance but is more likely to pause to reassess timing than to pursue a rare third straight hike. Strong semiconductor exports are supporting growth while supply- and demand-side pressures are pushing inflation up, leaving scope for the tightening cycle to continue in the near term. Korea’s Jan–Aug current-account surplus was $279.2 bln, roughly four times the $69.7 bln recorded in the same period last year."
+    },
+    {
+      "id": "5159450",
+      "time": "2026-10-22 06:42:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4150美元/盎司，日內持平。"
+    },
+    {
+      "id": "5159449",
+      "time": "2026-10-22 06:42:13",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊提醒（以下均為北京時間）】 \n① 時間待定 宇樹科技將舉辦2026世界物理AI大會；\n② 時間待定 韓國央行公佈利率決議，印尼、菲律賓、土耳其等央行也將舉行議息會議；\n③ 時間待定 歐洲央行進入下次貨幣政策會議之前的噤聲期；\n④ 歐股開盤之前 諾基亞釋出業績報告；\n⑤ 15:30 瑞士央行釋出9月24日利率決議的摘要；\n⑥ 17:30 歐洲央行管委Kocher在維也納講話；\n⑦ 20:30 美國10月17日當週首次申請失業救濟人數；\n⑧ 21:00 英國央行行長貝利講話；\n⑨ 22:00 美國9月諮商會領先指標，歐元區10月消費者信心指數初值；\n⑩ 22:15 歐洲央行管委Fabio Panetta講話；\n⑪ 23:00 美國10月堪薩斯聯儲製造業綜合指數。"
+    },
     {
       "id": "te:markets:593968",
       "time": "2026-10-22 06:40:09",
@@ -122457,64 +122525,6 @@
         "MKT News"
       ],
       "text": "Fox News reports the U.S. Department of Justice has threatened emergency legal action against California, citing alleged non‑citizen voting."
-    },
-    {
-      "id": "te:markets:592074",
-      "time": "2026-10-15 06:45:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Drops by 3.49% — Top crypto losers are Ether (-3.49%), XRP (-2.61%) and Bitcoin (-2.06%)."
-    },
-    {
-      "id": "5145622",
-      "time": "2026-10-15 06:44:42",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【10月15日隔夜要聞一覽】\n1、最新民調顯示，在美國選舉日臨近之際，選民對經濟狀況和總統的表現持負面看法，此時執政黨往往會處於不利地位。\n2、蘋果收盤市值站上5萬億美元，成為第二家市值突破5萬億美元的上市公司‌。\n3、OpenAI因ChatGPT兒童安全擔憂被8個州起訴。\n4、英偉達CEO黃仁勳稱會對開發不安全AI軟體的客戶斷供晶片。\n5、烏克蘭總統澤連斯基不滿SpaceX網路設限，直言有遭特朗普背叛之感，馬斯克在社交媒體發帖稱，對星盾（Starshield）速度或使用的任何限制均由美國軍方決定，並最終由總統決定。\n6、美聯儲褐皮書：能源成本上漲傳導至供應鏈，半數轄區報告價格壓力升溫。\n7、民調顯示勒龐和梅朗雄有望進入法國總統大選的第二輪決選。\n8、美銀聘請1000名承包商，修補Anthropic的Mythos暴露的軟體漏洞。\n9、巴克萊：特斯拉-SpaceX合併訊息可能在年度股東大會前公佈。"
-    },
-    {
-      "id": "5145621",
-      "time": "2026-10-15 06:44:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4110美元/盎司，日內漲0.15%。"
-    },
-    {
-      "id": "5145620",
-      "time": "2026-10-15 06:43:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨下跌0.3%，納斯達克100指數期貨下跌0.7%。"
-    },
-    {
-      "id": "mkt:01a13c95-8e57-7ee0-a886-b41464e86a0f",
-      "time": "2026-10-15 06:43:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Trump says leakers of Middle East operations should be shot】At an Arizona campaign rally on Wednesday, US President Trump said leakers who pass information to the media \"should be shot,\" urged they be dealt with \"very, very harshly\" and called them \"scum.\" He said a planned strike on Iran involving US military assets from Missouri was delayed after key intelligence was leaked. Trump and his allies have long criticized negative media coverage of the Iran conflict; he had earlier said the fighting would last only weeks, but it has now entered its eighth month."
-    },
-    {
-      "id": "mkt:01a13c95-5c8c-7ee0-a886-ac55b23988a5",
-      "time": "2026-10-15 06:43:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Wall Street Journal reports the Trump administration plans to seek the eventual expulsion of Rep. Ilhan Omar."
     }
   ]
 }

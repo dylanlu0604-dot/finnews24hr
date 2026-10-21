@@ -1,7 +1,75 @@
 {
   "date": "2026-10-22",
-  "count": 470,
+  "count": 478,
   "items": [
+    {
+      "id": "5159455",
+      "time": "2026-10-22 06:44:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "AWS：PHP2SHELL 目前正在被廣泛利用於實際攻擊中。"
+    },
+    {
+      "id": "5159454",
+      "time": "2026-10-22 06:44:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "AWS：此次漏洞利用嘗試源自一個與商業匿名化網路相關的IP地址。"
+    },
+    {
+      "id": "5159453",
+      "time": "2026-10-22 06:43:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "AWS關於PHP2SHELL漏洞利用：相關活動由威脅行為者實施。"
+    },
+    {
+      "id": "5159452",
+      "time": "2026-10-22 06:43:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "AWS關於PHP2SHELL漏洞利用：目前尚不清楚攻擊者如何在披露前獲取該漏洞利用資訊。"
+    },
+    {
+      "id": "5159451",
+      "time": "2026-10-22 06:43:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "AWS：亞馬遜威脅情報在MadPot公開披露之前識別出PHP2SHELL漏洞利用。"
+    },
+    {
+      "id": "mkt:01a160a1-c84a-7ee0-a932-eb6984b7ec8f",
+      "time": "2026-10-22 06:42:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bank of Korea likely to pause rate hikes today; experts say tightening cycle not over】A Yonhap survey of six economists found all expect the Bank of Korea to hold rates today after consecutive hikes in July and August. Respondents said the central bank will keep a tightening stance but is more likely to pause to reassess timing than to pursue a rare third straight hike. Strong semiconductor exports are supporting growth while supply- and demand-side pressures are pushing inflation up, leaving scope for the tightening cycle to continue in the near term. Korea’s Jan–Aug current-account surplus was $279.2 bln, roughly four times the $69.7 bln recorded in the same period last year."
+    },
+    {
+      "id": "5159450",
+      "time": "2026-10-22 06:42:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4150美元/盎司，日內持平。"
+    },
+    {
+      "id": "5159449",
+      "time": "2026-10-22 06:42:13",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊提醒（以下均為北京時間）】 \n① 時間待定 宇樹科技將舉辦2026世界物理AI大會；\n② 時間待定 韓國央行公佈利率決議，印尼、菲律賓、土耳其等央行也將舉行議息會議；\n③ 時間待定 歐洲央行進入下次貨幣政策會議之前的噤聲期；\n④ 歐股開盤之前 諾基亞釋出業績報告；\n⑤ 15:30 瑞士央行釋出9月24日利率決議的摘要；\n⑥ 17:30 歐洲央行管委Kocher在維也納講話；\n⑦ 20:30 美國10月17日當週首次申請失業救濟人數；\n⑧ 21:00 英國央行行長貝利講話；\n⑨ 22:00 美國9月諮商會領先指標，歐元區10月消費者信心指數初值；\n⑩ 22:15 歐洲央行管委Fabio Panetta講話；\n⑪ 23:00 美國10月堪薩斯聯儲製造業綜合指數。"
+    },
     {
       "id": "te:markets:593968",
       "time": "2026-10-22 06:40:09",
