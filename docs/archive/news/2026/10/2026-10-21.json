@@ -1,7 +1,87 @@
 {
   "date": "2026-10-21",
-  "count": 1205,
+  "count": 1213,
   "items": [
+    {
+      "id": "5157542",
+      "time": "2026-10-21 13:16:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【固態電池板塊震盪走弱，上海洗霸跌停】固態電池板塊震盪走弱，上海洗霸跌停，寧德時代跌超11%，紫竹高科、蔚藍鋰芯、力王股份、先導智慧、尚太科技等跟跌。"
+    },
+    {
+      "id": "mkt:01a15ce3-422c-7ee0-a919-c5fddbfb5731",
+      "time": "2026-10-21 13:15:59",
+      "tags": [
+        "MKT News",
+        "HAL.N",
+        "Impact bullish"
+      ],
+      "text": "HSBC raises Haliburton (HAL.N) PT to $47 from $45."
+    },
+    {
+      "id": "5157541",
+      "time": "2026-10-21 13:15:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦9月份尿素銷量同比增長42.5%，達到61.1萬噸。"
+    },
+    {
+      "id": "mkt:01a15ce2-ec34-7ee0-a919-bf11e5ecb247",
+      "time": "2026-10-21 13:15:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY: Russian forces struck a merchant vessel in the Black Sea."
+    },
+    {
+      "id": "te:markets:593672",
+      "time": "2026-10-21 13:15:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Rises by 0.28% — Top currency gainer is South Korean Won (0.28%). Biggest loser is Euro (-0.10%). Meanwhile, Dollar Index, Japanese Yen and British Pound were little changed."
+    },
+    {
+      "id": "mkt:01a15ce1-acdc-7ee0-a919-b4d331d59235",
+      "time": "2026-10-21 13:14:16",
+      "tags": [
+        "MKT News",
+        "TLKM.JK",
+        "Impact bearish",
+        "BBCA.JK",
+        "BBRI.JK"
+      ],
+      "text": "【Allspring: Indonesian bank and telecom stocks face exceptional selling pressure】Allspring Global Investments warned Indonesian bank and telecom shares could fall further amid the risk of an MSCI downgrade of the Indonesia market. Banks and telecoms account for roughly 80% of the MSCI Indonesia index. Since MSCI’s initial January warning the index has dropped more than 40%; PT Telkom Indonesia Persero has nearly halved and major lenders PT Bank Central Asia (BCA) and PT Bank Rakyat Indonesia Persero (BRI) are down at least 23%."
+    },
+    {
+      "id": "5157540",
+      "time": "2026-10-21 13:14:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量174億元。"
+    },
+    {
+      "id": "5157539",
+      "time": "2026-10-21 13:13:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄羅斯軍隊在黑海擊中一艘貨船。"
+    },
     {
       "id": "5157538",
       "time": "2026-10-21 13:13:01",

@@ -1,7 +1,87 @@
 {
-  "updated": "2026-10-21 13:14:24",
-  "count": 13446,
+  "updated": "2026-10-21 13:18:14",
+  "count": 13452,
   "items": [
+    {
+      "id": "5157542",
+      "time": "2026-10-21 13:16:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【固態電池板塊震盪走弱，上海洗霸跌停】固態電池板塊震盪走弱，上海洗霸跌停，寧德時代跌超11%，紫竹高科、蔚藍鋰芯、力王股份、先導智慧、尚太科技等跟跌。"
+    },
+    {
+      "id": "mkt:01a15ce3-422c-7ee0-a919-c5fddbfb5731",
+      "time": "2026-10-21 13:15:59",
+      "tags": [
+        "MKT News",
+        "HAL.N",
+        "Impact bullish"
+      ],
+      "text": "HSBC raises Haliburton (HAL.N) PT to $47 from $45."
+    },
+    {
+      "id": "5157541",
+      "time": "2026-10-21 13:15:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦9月份尿素銷量同比增長42.5%，達到61.1萬噸。"
+    },
+    {
+      "id": "mkt:01a15ce2-ec34-7ee0-a919-bf11e5ecb247",
+      "time": "2026-10-21 13:15:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY: Russian forces struck a merchant vessel in the Black Sea."
+    },
+    {
+      "id": "te:markets:593672",
+      "time": "2026-10-21 13:15:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Rises by 0.28% — Top currency gainer is South Korean Won (0.28%). Biggest loser is Euro (-0.10%). Meanwhile, Dollar Index, Japanese Yen and British Pound were little changed."
+    },
+    {
+      "id": "mkt:01a15ce1-acdc-7ee0-a919-b4d331d59235",
+      "time": "2026-10-21 13:14:16",
+      "tags": [
+        "MKT News",
+        "TLKM.JK",
+        "Impact bearish",
+        "BBCA.JK",
+        "BBRI.JK"
+      ],
+      "text": "【Allspring: Indonesian bank and telecom stocks face exceptional selling pressure】Allspring Global Investments warned Indonesian bank and telecom shares could fall further amid the risk of an MSCI downgrade of the Indonesia market. Banks and telecoms account for roughly 80% of the MSCI Indonesia index. Since MSCI’s initial January warning the index has dropped more than 40%; PT Telkom Indonesia Persero has nearly halved and major lenders PT Bank Central Asia (BCA) and PT Bank Rakyat Indonesia Persero (BRI) are down at least 23%."
+    },
+    {
+      "id": "5157540",
+      "time": "2026-10-21 13:14:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量174億元。"
+    },
+    {
+      "id": "5157539",
+      "time": "2026-10-21 13:13:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄羅斯軍隊在黑海擊中一艘貨船。"
+    },
     {
       "id": "5157538",
       "time": "2026-10-21 13:13:01",
@@ -122673,29 +122753,6 @@
         "Importance 1"
       ],
       "text": "ASX Dips 0.6% at Finish — The ASX 200 lost 56 points, or 0.6%, to close at 8,728 on Wednesday, reversing recent gains as financials, consumer durables, and transport weighed. Traders turned cautious ahead of the upcoming labor data, after August unemployment hit 4.6%, the highest since late 2021. Meanwhile, Australia’s leading index slipped 0.1% in September, its first decline since May, due to higher fuel costs and rising borrowing rates. Still, losses were partly offset by firmer U.S.stock futures ahead of a key inflation report amid elevated oil prices. In top trading partner China, September CPI was slightly below forecasts, but producer prices rose more than expected. Meanwhile, Chinese exports and imports hit record highs, driving a solid trade surplus. The big four banks fell between 0.9% and 2.3%, while BHP (-0.9%) and Rio Tinto (-0.3%) also lagged. Other laggards included Genesis Minerals (-3.9%), Evolution Mining (-2.9%), and Qantas Airways (-2.2%)."
-    },
-    {
-      "id": "te:markets:591757",
-      "time": "2026-10-14 13:15:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Appreciates by 0.43% — Top currency gainers are South Korean Won (0.43%), Norwegian Krone (0.27%), Australian Dollar (0.27%), British Pound (0.14%), Japanese Yen (0.10%) and Euro (0.08%). Biggest loser is Dollar Index (-0.10%)."
-    },
-    {
-      "id": "te:markets:591756",
-      "time": "2026-10-14 13:15:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Halts Decline, Ends 0.1% Higher — The NZX 50 gained 11 points, or 0.1%, to close at 13,760 on Wednesday, erasing losses from the morning and the previous session, mainly supported by gains in technology, real estate, utilities, and communication services. Fresh data from China, New Zealand's top trading partner, boosted sentiment as export growth in China remained robust, while annual inflation came in below expectations. However, declines in financials and energy limited the gains. Traders also awaited US inflation data for clues about the Fed's interest rate decision at its upcoming meeting, as well as New Zealand's food inflation and business PMI data due later this week. Traders continued to monitor the war in the Middle East, including the Saudi Arabia-Houthi conflict and its impact on oil prices. Notable gainers included Contact Energy (1.8%), Hallenstein Glasson (1.7%), Vulcan Steel (1.5%), Summerset Group (1.2%), Chorus (1.1%), and A2 Milk (0.6%)."
     }
   ]
 }
