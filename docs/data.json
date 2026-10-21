@@ -1,7 +1,229 @@
 {
-  "updated": "2026-10-22 04:02:29",
-  "count": 13344,
+  "updated": "2026-10-22 04:06:15",
+  "count": 13360,
   "items": [
+    {
+      "id": "mkt:01a16011-ca3c-7ee0-a930-d6d113a84879",
+      "time": "2026-10-22 04:05:40",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities closed higher on Wednesday, Oct. 21: Dow Jones Industrial Average rose 360.98 points (+0.69%) to 52,856.86; S&P 500 rose 44.67 points (+0.58%) to 7,757.24; Nasdaq Composite rose 278.04 points (+1.05%) to 26,702.86."
+    },
+    {
+      "id": "mkt:01a16011-b621-7ee0-a930-ce9f4a7b9c48",
+      "time": "2026-10-22 04:05:35",
+      "tags": [
+        "MKT News",
+        "TSLA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Tesla (TSLA.O) Q3 2026 automotive revenue $20.56 billion, vs $19.83 billion expected."
+    },
+    {
+      "id": "5159275",
+      "time": "2026-10-22 04:05:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：第三季度資本支出為負47.32億美元。"
+    },
+    {
+      "id": "mkt:01a16011-6408-7ee0-a930-c64e582e16e8",
+      "time": "2026-10-22 04:05:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) shares rose more than 4% in after-hours U.S. trading after Q3 revenue beat estimates and Q4 revenue guidance exceeded expectations."
+    },
+    {
+      "id": "5159273",
+      "time": "2026-10-22 04:05:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta：第三季度成本和費用包括與美國州總檢察長協議相關的98.9億美元和解費用。"
+    },
+    {
+      "id": "mkt:01a16010-cf4a-7ee0-a930-b8a317d0ce27",
+      "time": "2026-10-22 04:04:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "Tesla (TSLA.O) Q3 2026 gross margin 19.6%."
+    },
+    {
+      "id": "5159272",
+      "time": "2026-10-22 04:04:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉公司：內華達州已開始生產特斯拉Semi，弗裡蒙特已開始生產Optimus。"
+    },
+    {
+      "id": "5159271",
+      "time": "2026-10-22 04:04:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：計劃到年底達到400兆瓦的SI訓練算力，支援車輛和人形機器人自主軟體的開發。"
+    },
+    {
+      "id": "5159270",
+      "time": "2026-10-22 04:04:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：第三季度自由現金流15.3億美元，預估負49.9億美元。"
+    },
+    {
+      "id": "5159268",
+      "time": "2026-10-22 04:03:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：第三季度經營利潤7.18億美元，預估5.993億美元。"
+    },
+    {
+      "id": "te:markets:593951",
+      "time": "2026-10-22 04:03:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Southern Copper earnings above expectations at 2.15 USD — Southern Copper (SCCO) released earnings per share at 2.15 USD, compared to market expectations of 1.79 USD."
+    },
+    {
+      "id": "te:markets:593950",
+      "time": "2026-10-22 04:03:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Meta earnings below expectations at 3.83 USD — Meta (FB) released earnings per share at 3.83 USD, compared to market expectations of 7.02 USD."
+    },
+    {
+      "id": "mkt:01a16010-0ba6-7ee0-a930-b120f184c357",
+      "time": "2026-10-22 04:03:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Tesla (TSLA.O) Q3 2026 free cash flow $1.53 billion."
+    },
+    {
+      "id": "5159267",
+      "time": "2026-10-22 04:03:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：第三季度汽車部門營收205.6億美元，預估198.3億美元。"
+    },
+    {
+      "id": "mkt:01a1600f-d3f8-7ee0-a930-af6990db6166",
+      "time": "2026-10-22 04:03:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "Tesla (TSLA.O) Q3 2026 revenue $28.0 bln; $28.1 bln a year earlier; consensus $27.883 bln."
+    },
+    {
+      "id": "mkt:01a1600f-9955-7ee0-a930-a49ea99a2b9a",
+      "time": "2026-10-22 04:03:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "Meta Platforms (META.O) guides Q4 revenue of $73.0–76.0 billion, versus consensus $73.73 billion."
+    },
+    {
+      "id": "5159266",
+      "time": "2026-10-22 04:02:57",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "特斯拉：第三季度營收280.5億美元，預估281.3億美元。"
+    },
+    {
+      "id": "5159265",
+      "time": "2026-10-22 04:02:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：第三季度每股收益3.83美元，預估3.57美元。"
+    },
+    {
+      "id": "5159264",
+      "time": "2026-10-22 04:02:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：第三季度經營利潤129.9億美元，同比-37%。"
+    },
+    {
+      "id": "mkt:01a1600e-a05e-7ee0-a930-98d601cf4b96",
+      "time": "2026-10-22 04:02:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) reported free cash flow of negative $2.12 billion in Q3 2026."
+    },
+    {
+      "id": "5159263",
+      "time": "2026-10-22 04:02:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：第三季度廣告收入630.6億美元，同比+26%。"
+    },
     {
       "id": "5159262",
       "time": "2026-10-22 04:01:48",
@@ -121326,56 +121548,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Dip Amid Hot Inflation and Chipmaker Weakness — US stock indices closed lower on Wednesday amid hotter-than-expected inflation data and continued volatility in the AI infrastructure sector. The S&P 500 fell 1.1%, the Nasdaq slipped 2%, and the Dow shed 49 points. Chipmakers extended this week’s losses after ASML said it could not keep pace with demand for semiconductor fabrication equipment, while Chinese competitors introduced improved products approaching the capabilities of US and South Korean firms. Meanwhile, headline and core inflation readings reinforced expectations that the Federal Reserve could deliver another rate hike this year. Nvidia lost 3.2%, Broadcom fell 3.1%, Micron declined 4.1% and AMD tumbled 5.7%. Among financial stocks, Bank of America fell 4.8% after both equity and fixed-income trading revenues missed estimates. Morgan Stanley closed 2.7% lower despite beating forecasts for equity-trading revenue, while BlackRock added 0.7% after stronger asset-management inflows boosted fee revenue."
-    },
-    {
-      "id": "mkt:01a13c05-8fab-7ee0-a885-0a544bd008c3",
-      "time": "2026-10-15 04:05:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "The Dow Jones Industrial Average closed down 47.96 points, or 0.09%, at 51,622.14 on Wednesday, Oct. 14; the S&P 500 closed down 85.95 points, or 1.10%, at 7,719.50; the Nasdaq Composite closed down 511.51 points, or 1.88%, at 26,692.87."
-    },
-    {
-      "id": "5145494",
-      "time": "2026-10-15 04:05:48",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【通脹火爆點燃10月加息預期 沃什曼谷講話或成關鍵風向標】美國9月通脹意外升溫，重新點燃了市場對美聯儲可能在本月加息的預期。此前數週，由於央行官員釋放出他們有時間等待的訊號，一度令本月加息看起來可能性不大。美聯儲主席沃什曾誓言不會以自己對近期貨幣政策前景的看法來引導市場。但這次通脹資料意外走高令外界更加關注紐約時間週四晚間他在曼谷的發言。屆時，他將與國際貨幣基金組織(IMF)總裁格奧爾基耶娃進行爐邊談話。由於議息會議即將到來，美聯儲將在本週六進入所謂的靜默期。這意味著如果央行要就本次會議可能作出的利率決定釋放訊號，或許只能由主席沃什來傳遞。美銀的美國利率策略師Meghan Swiber表示，投資者“等待沃什週四為美聯儲繼續加息開綠燈”。當談到通脹資料時，Swiber表示：“這次物價上漲的範圍相當廣，美聯儲難以對此置之不理。”"
-    },
-    {
-      "id": "5145493",
-      "time": "2026-10-15 04:05:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "羅素2000指數收盤下跌1.9%，進入回撥。"
-    },
-    {
-      "id": "5145492",
-      "time": "2026-10-15 04:04:55",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【王毅會見俄羅斯外長拉夫羅夫】當地時間14日，中共中央政治局委員、外交部長王毅在巴庫會見俄羅斯外長拉夫羅夫。\n王毅祝賀俄方成功舉行國家杜馬選舉，順利完成國內重要政治議程。王毅表示，今年5月和8月，習近平主席同普京總統舉行了富有成果的會晤，引領中俄新時代全面戰略協作夥伴關係持續高水平發展。下個月，亞太經合組織（APEC）領導人非正式會議將在深圳舉行。相信在俄方等各方支援下，APEC“中國年”將取得豐碩成果，攜手重振亞太共同體歷史程序，為亞太地區發展合作注入強勁動力。\n王毅表示，亞歐大陸地域廣袤、文明多元，地區國家期盼維護和平穩定、深化多邊協作。亞信峰會時隔4年再次舉辦，中方願同包括俄方在內的亞信成員國密切協作，踐行真正的多邊主義，為完善全球治理貢獻力量。\n拉夫羅夫表示，俄中在兩國元首戰略引領下，持續推進兩國關係和各領域合作，取得豐碩成果，符合兩國根本利益。俄方全力支援中方辦好APEC領導人非正式會議。俄中在國際事務上立場相近，俄方願同中方進一步增進在聯合國、二十國集團、APEC、金磚機制等多邊框架下的協作，共同維護國際公平正義。\n雙方還就下一步中俄高層交往以及共同關心的國際地區熱點問題協調了各自立場，達成了新的共識。（新華社）"
-    },
-    {
-      "id": "5145491",
-      "time": "2026-10-15 04:02:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "COREWEAVE股價收盤下跌15%，創2月27日以來最大單日跌幅。"
     }
   ]
 }
