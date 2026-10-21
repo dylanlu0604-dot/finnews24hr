@@ -1,7 +1,18 @@
 {
   "date": "2026-10-22",
-  "count": 466,
+  "count": 467,
   "items": [
+    {
+      "id": "te:markets:593966",
+      "time": "2026-10-22 06:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Plunges by 6.45% — Top commodity losers are Natural gas (-6.45%), Heating Oil (-2.68%) and Propane (-2.27%). Gains are led by Methanol (3.43%), Germany Natural Gas THE (2.79%), Natural Gas UK (2.60%), Brent Oil (1.04%) and Crude Oil (0.18%)."
+    },
     {
       "id": "mkt:01a16093-fb75-7ee0-a932-d8658ec30ffd",
       "time": "2026-10-22 06:27:53",
