@@ -1,7 +1,27 @@
 {
   "date": "2026-10-22",
-  "count": 463,
+  "count": 465,
   "items": [
+    {
+      "id": "mkt:01a16092-459c-7ee0-a932-d079a2e09e62",
+      "time": "2026-10-22 06:26:01",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "TSLA.O",
+        "MU.O"
+      ],
+      "text": "Nasdaq futures extended losses to 0.5% as Tesla (TSLA.O) fell 2.3% after saying it will cut its annual capex target from over $25bn to $20bn. Micron Technology (MU.O), SanDisk (SNDK.O) and SK Hynix (SKHY.O) were each down about 1%."
+    },
+    {
+      "id": "5159448",
+      "time": "2026-10-22 06:22:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨下跌0.3%，納斯達克100指數期貨下跌0.5%。"
+    },
     {
       "id": "5159447",
       "time": "2026-10-22 06:19:54",

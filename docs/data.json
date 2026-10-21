@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-22 06:22:42",
+  "updated": "2026-10-22 06:26:32",
   "count": 13467,
   "items": [
+    {
+      "id": "mkt:01a16092-459c-7ee0-a932-d079a2e09e62",
+      "time": "2026-10-22 06:26:01",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "TSLA.O",
+        "MU.O"
+      ],
+      "text": "Nasdaq futures extended losses to 0.5% as Tesla (TSLA.O) fell 2.3% after saying it will cut its annual capex target from over $25bn to $20bn. Micron Technology (MU.O), SanDisk (SNDK.O) and SK Hynix (SKHY.O) were each down about 1%."
+    },
+    {
+      "id": "5159448",
+      "time": "2026-10-22 06:22:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨下跌0.3%，納斯達克100指數期貨下跌0.5%。"
+    },
     {
       "id": "5159447",
       "time": "2026-10-22 06:19:54",
@@ -122543,26 +122563,6 @@
         "其他"
       ],
       "text": "【豐富底層投資工具，公募配置盤蓄勢待發】近日，證監會就《公開募集證券投資基金運作管理辦法（徵求意見稿）》及配套規則公開徵求意見。其中，多項圍繞基金投資範圍的鬆綁條款引發行業關注，如非FOF產品投資其他基金的比例上限擬從10%上調至30%、允許FOF投資ETF聯接基金等。此外，FOF成立門檻擬降至5000萬元。在業內人士看來，這是一組為資產配置型產品“量身定製”的鬆綁條款，將進一步拓寬相關產品的策略空間，提升基金組合的配置效率。未來，公募基金將更加強調多資產組合管理能力，而天然具有資產配置屬性的FOF和“固收+”產品將是各家公募機構競爭的重要方向。（中證報）"
-    },
-    {
-      "id": "5145613",
-      "time": "2026-10-15 06:25:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【本週超過20只紅利基金髮布限購公告】Wind統計資料顯示，10月8日至10月14日，已有超過20只紅利基金髮布限購公告。與此同時，多隻紅利新基金在渠道熱發，包括華夏基金旗下的港股通紅利低波ETF，銀華、廣發、博時等公司旗下的紅利ETF等等，節前申報的9只中證紅利增長ETF也正蓄勢待發，但存量紅利類ETF下半年整體呈資金淨流出態勢，一進一出反差明顯。（上證報）"
-    },
-    {
-      "id": "mkt:01a13c82-f049-7ee0-a886-961e20aebb2f",
-      "time": "2026-10-15 06:22:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 10-year Treasury futures rose 4 points, 30-year futures rose 7 points."
     }
   ]
 }
