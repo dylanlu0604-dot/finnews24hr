@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-21 08:26:29",
-  "count": 13515,
+  "updated": "2026-10-21 08:30:21",
+  "count": 13513,
   "items": [
+    {
+      "id": "5157122",
+      "time": "2026-10-21 08:29:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至263.37點。"
+    },
+    {
+      "id": "te:markets:593587",
+      "time": "2026-10-21 08:28:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Deutsche Boerse earnings above expectations at 3.28 EUR — Deutsche Boerse (DB1) released earnings per share at 3.28 EUR, compared to market expectations of 3.04 EUR."
+    },
+    {
+      "id": "5157121",
+      "time": "2026-10-21 08:28:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊系企業全資收購《莊園合合》開發商 持續加註休閒遊戲】記者10月20日獲悉，騰訊系遊戲企業Supercell完成對芬蘭休閒遊戲廠商Metacore的全資收購；與此同時，騰訊近期連續領投兩家土耳其本土休閒手遊企業，在海外休閒賽道接連落下重要棋子，瞄準全球休閒手遊市場增長機會。"
+    },
+    {
+      "id": "mkt:01a15bdb-b570-7ee0-a913-bea7973f95a5",
+      "time": "2026-10-21 08:28:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "CSI300",
+        "S&P500"
+      ],
+      "text": "【Zhongtai Securities: Maintain medium- to long-term preference for tech-innovation theme】Zhongtai Securities says it remains constructive on the tech-innovation theme medium- to long-term, noting that technology-focused financial support and capital-market financing reforms in China should improve funding conditions for quality tech firms. After a sizeable recent correction in tech-growth stocks, it recommends selective exposure to AI, semiconductors and high-end equipment companies with core technology advantages, visible order growth and stable profitability. The firm cautions sector momentum will depend on overseas interest-rate dynamics, global risk appetite and changes in corporate earnings."
+    },
     {
       "id": "5157120",
       "time": "2026-10-21 08:25:57",
@@ -123460,60 +123502,6 @@
         "Energy"
       ],
       "text": "【Nord Stream pipeline explosion trial to open in Germany】A Hamburg court will open hearings on Oct. 14 (local time) into the 2022 Nord Stream gas pipeline explosions. A Ukrainian national identified as Sergei is charged with co‑planning and carrying out the blasts, accused of attacking civilian infrastructure and of war crimes; this is the first formal trial by German authorities linked to the incident. The court has scheduled 16 hearings from Oct. 14 to Dec. 17, and proceedings are expected to continue into early 2027."
-    },
-    {
-      "id": "5143277",
-      "time": "2026-10-14 08:29:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“北溪”天然氣管道爆炸案即將在德國開庭】德國漢堡的一家法院將於當地時間14日開庭審理2022年“北溪”天然氣管道爆炸案。一名烏克蘭籍嫌疑人將因涉嫌參與策劃和實施管道爆炸行動接受審判。這是德國司法機關首次就“北溪”天然氣管道爆炸事件對相關嫌疑人啟動正式庭審。法院目前已安排從10月14日至12月17日舉行16次庭審，預計審理工作還將延續至2027年初。法院此前稱，根據前期偵查結果，有充分理由懷疑烏克蘭籍嫌疑人謝爾蓋作為共同實施者，參與了炸燬“北溪”天然氣管道，涉嫌襲擊民用設施、犯有戰爭罪等罪行。"
-    },
-    {
-      "id": "5143276",
-      "time": "2026-10-14 08:29:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【年均增速超10%！這一萬億級賽道，與你的安全有關】隨著防災減災能力不斷提升，我國安全應急裝備產業持續擴容。資料顯示，2025年我國安全應急裝備重點領域產業規模突破1萬億元，近三年年均增速保持10%以上。《安全應急裝備產業發展“十五五”規劃》提出，到2030年，安全應急裝備重點領域產業規模目標達到1.4萬億元。（央視）"
-    },
-    {
-      "id": "te:markets:591644",
-      "time": "2026-10-14 08:29:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "HRC Steel Hits 3-1/2-year High — HRC Steel increased to 1334.00 USD/T, the highest since March 2023. Over the past 4 weeks, Hot-Rolled Coil Steel gained 4.26%, and in the last 12 months, it increased 62.48%."
-    },
-    {
-      "id": "5143275",
-      "time": "2026-10-14 08:29:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【與俄羅斯達成柴油交易安排後 特朗普面臨共和黨內部日益強烈的反彈】據報道，美國總統唐納德·特朗普因與俄羅斯總統普京就俄羅斯柴油出口達成的安排，而面臨黨內日益強烈的反對聲浪。就在數週前，他剛剛簽署一項授權對購買俄羅斯石油國家實施嚴厲制裁的法律。包括6名共和黨參議員在內的12名參議員週二致信特朗普，敦促其撤銷上述安排，轉而執行以已故參議員林賽·格雷厄姆命名的新制裁法。議員們寫道：“這項安排損害美國安全利益，也是對烏克蘭人民的背叛。”這封信由康涅狄格州民主黨參議員Richard Blumentha和北卡羅來納州共和黨參議員Thom Tillis牽頭。"
-    },
-    {
-      "id": "5143274",
-      "time": "2026-10-14 08:28:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率上漲1.5個基點，至3.015%。"
-    },
-    {
-      "id": "5143273",
-      "time": "2026-10-14 08:27:18",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【新加坡金管局意外維持政策不變，下調通脹預期】新加坡央行意外維持貨幣政策不變，其預計全球能源緊張與人工智慧帶來的需求熱潮將於明年降溫。新加坡金融管理局不以利率、而以匯率作為主要政策工具。該行週三釋出宣告，維持匯率政策區間的斜率、寬度與中點不變。這是繼4月、7月會議連續多輪緊縮後，首次暫停收緊。媒體調研的20位經濟學家中，僅有3人預測到該決議，多數人原本預期金管局上調政策區間斜率，多數受訪者還預計央行將保留鷹派傾向。該超預期決議公佈後，新加坡元下跌0.1%，報1新元兌1.28美元。澳新銀行亞洲研究主管Khoon Goh表示：“4月與7月連續兩輪緊縮的政策效果仍在傳導，因此央行認為現階段無需進一步收緊。但這不代表緊縮週期結束。若明年通脹上行風險兌現，金管局或將再度收緊政策。”新加坡金管局將今年核心通脹預期區間收窄至1.5%-2%，7月會議的上限預期曾為2.5%；整體通脹預計約2%。"
     }
   ]
 }

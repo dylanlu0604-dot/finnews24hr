@@ -1,7 +1,49 @@
 {
   "date": "2026-10-21",
-  "count": 697,
+  "count": 701,
   "items": [
+    {
+      "id": "5157122",
+      "time": "2026-10-21 08:29:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至263.37點。"
+    },
+    {
+      "id": "te:markets:593587",
+      "time": "2026-10-21 08:28:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Deutsche Boerse earnings above expectations at 3.28 EUR — Deutsche Boerse (DB1) released earnings per share at 3.28 EUR, compared to market expectations of 3.04 EUR."
+    },
+    {
+      "id": "5157121",
+      "time": "2026-10-21 08:28:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊系企業全資收購《莊園合合》開發商 持續加註休閒遊戲】記者10月20日獲悉，騰訊系遊戲企業Supercell完成對芬蘭休閒遊戲廠商Metacore的全資收購；與此同時，騰訊近期連續領投兩家土耳其本土休閒手遊企業，在海外休閒賽道接連落下重要棋子，瞄準全球休閒手遊市場增長機會。"
+    },
+    {
+      "id": "mkt:01a15bdb-b570-7ee0-a913-bea7973f95a5",
+      "time": "2026-10-21 08:28:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "CSI300",
+        "S&P500"
+      ],
+      "text": "【Zhongtai Securities: Maintain medium- to long-term preference for tech-innovation theme】Zhongtai Securities says it remains constructive on the tech-innovation theme medium- to long-term, noting that technology-focused financial support and capital-market financing reforms in China should improve funding conditions for quality tech firms. After a sizeable recent correction in tech-growth stocks, it recommends selective exposure to AI, semiconductors and high-end equipment companies with core technology advantages, visible order growth and stable profitability. The firm cautions sector momentum will depend on overseas interest-rate dynamics, global risk appetite and changes in corporate earnings."
+    },
     {
       "id": "5157120",
       "time": "2026-10-21 08:25:57",
