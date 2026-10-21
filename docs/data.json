@@ -1,7 +1,298 @@
 {
-  "updated": "2026-10-21 18:03:12",
-  "count": 13370,
+  "updated": "2026-10-21 18:07:01",
+  "count": 13398,
   "items": [
+    {
+      "id": "mkt:01a15dec-f1fe-7ee0-a924-78871323882d",
+      "time": "2026-10-21 18:06:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【General Office of the CPC Central Committee and State Council General Office issue plan to implement major manufacturing tech upgrades and large-scale equipment renewal】The General Office of the CPC Central Committee and the General Office of the State Council issued opinions to deepen integration of scientific and industrial innovation. Key measures: use advanced technologies to upgrade traditional industries; implement major technological retrofit and large-scale equipment renewal projects in manufacturing; accelerate industrial internet innovation and deepen integration of the digital economy with the real economy; steer manufacturing toward greater automation, greenization and cross-sector integration. The document calls for intensified R&D in seed technology and agricultural machinery and faster promotion of agricultural tech results. It mandates construction of full-industry-chain technology service systems to develop a higher-quality tech service sector and directs full implementation of the AI+ initiative to extend AI capabilities across industries."
+    },
+    {
+      "id": "5158376",
+      "time": "2026-10-21 18:06:04",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【中辦、國辦：鼓勵國有企業加快建立獨立核算、免於增值保值考核、容錯糾錯的研發準備金制度】中共中央辦公廳、國務院辦公廳釋出關於推動科技創新和產業創新深度融合的意見。其中提出，完善企業常態化參與國家科技和產業發展戰略、規劃、政策制定機制。推動國家自然科學基金試點向民營企業開放，擴大企業創新發展聯合基金範圍和規模。鼓勵國有企業加快建立獨立核算、免於增值保值考核、容錯糾錯的研發準備金制度。鼓勵科技型中小企業加大研發投入，提高研發費用加計扣除比例。支援企業牽頭建設科技創新平臺基地。完善國家重大科技基礎設施、大型科研儀器、國家科學資料中心等向企業開放制度。加大各類科技人才計劃對企業的支援力度，加強企業博士後工作站建設。"
+    },
+    {
+      "id": "te:markets:593816",
+      "time": "2026-10-21 18:05:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Elevance Health earnings above expectations at 6.99 USD — Elevance Health (ANTM) released earnings per share at 6.99 USD, compared to market expectations of 5.09 USD."
+    },
+    {
+      "id": "te:markets:593815",
+      "time": "2026-10-21 18:05:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Danaher earnings above expectations at 2.11 USD — Danaher (DHR) released earnings per share at 2.11 USD, compared to market expectations of 2.03 USD."
+    },
+    {
+      "id": "te:markets:593814",
+      "time": "2026-10-21 18:05:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Thermo Fisher Scientific earnings above expectations at 6.68 USD — Thermo Fisher Scientific (TMO) released earnings per share at 6.68 USD, compared to market expectations of 6.37 USD."
+    },
+    {
+      "id": "mkt:01a15dec-a920-7ee0-a924-765f464ab279",
+      "time": "2026-10-21 18:05:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【China central offices urge SOEs to set up independently accounted, performance-exempt R&D reserve funds with error-tolerance】The CPC Central Committee General Office and State Council General Office issued opinions to deepen integration of technology and industrial innovation. They call for improving mechanisms for enterprises to routinely participate in national technology and industrial strategy, planning and policy-making. The National Natural Science Foundation pilot will be opened to private firms; the scope and size of corporate joint innovation funds will be expanded. The document encourages state-owned enterprises to accelerate establishment of independently accounted R&D reserve funds that are exempt from value-preservation/appreciation performance assessments and that include error-tolerance and correction provisions. It urges technology SMEs to boost R&D spending and raises the preferential R&D super-deduction rate. The guidance backs enterprise-led construction of innovation platforms, opens major national science infrastructure, large research instruments and national scientific data centers to firms, and steps up corporate support under national talent programs while strengthening enterprise postdoctoral stations."
+    },
+    {
+      "id": "5158375",
+      "time": "2026-10-21 18:05:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達擴充套件開放模型組合，覆蓋語言、機器人、生物學和量子計算領域。"
+    },
+    {
+      "id": "mkt:01a15dec-788a-7ee0-a924-6b1097b3d243",
+      "time": "2026-10-21 18:05:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA says its open models will accelerate development of sovereign AI across European industries."
+    },
+    {
+      "id": "5158374",
+      "time": "2026-10-21 18:05:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達公司：英偉達開放模型推動歐洲各行業主權智慧發展。"
+    },
+    {
+      "id": "5158373",
+      "time": "2026-10-21 18:05:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國10年期國債與德國國債收益率利差擴大至159個基點，為2011年末以來最高水平。"
+    },
+    {
+      "id": "mkt:01a15dec-315a-7ee0-a924-613c94a0b1b5",
+      "time": "2026-10-21 18:05:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "LSEG data show the French-German 10-year government bond yield spread widened to 159 bps, the largest since late 2011."
+    },
+    {
+      "id": "5158372",
+      "time": "2026-10-21 18:04:55",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【中辦、國辦：全面實施“人工智慧+”行動，推動人工智慧全方位賦能千行百業】中共中央辦公廳、國務院辦公廳釋出關於推動科技創新和產業創新深度融合的意見。其中提出，以先進技術改造提升傳統產業。深入實施製造業重大技術改造升級和大規模裝置更新工程，加速工業網際網路創新發展，促進數字經濟和實體經濟深度融合，推動製造業智慧化、綠色化、融合化發展。加強種業、農機裝備等科研攻關，加快農業科技成果推廣應用。構建全產業鏈科技服務體系，促進科技服務業優質高效發展。全面實施“人工智慧+”行動，推動人工智慧全方位賦能千行百業。"
+    },
+    {
+      "id": "mkt:01a15deb-a70c-7ee0-a924-5ee8b1d8bdaa",
+      "time": "2026-10-21 18:04:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【General Offices of CPC Central Committee and State Council push full 'AI+' rollout to empower all industries】China's General Office of the CPC Central Committee and the General Office of the State Council issued guidance to deepen integration of technological and industrial innovation. It directs use of advanced technologies to upgrade traditional industries, carry out major manufacturing technology overhauls and large-scale equipment renewal, accelerate industrial internet innovation, and deepen digital-economy and real-economy integration to drive manufacturing toward intelligent, green and integrated development. The guidance calls for stronger R&D in seed breeding and agricultural machinery and faster deployment of agricultural science results, construction of a full industry‑chain technology service system, expansion of high-quality tech services, and comprehensive implementation of an AI+ initiative to extend AI capabilities across sectors."
+    },
+    {
+      "id": "5158371",
+      "time": "2026-10-21 18:04:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國防部長簽署77億印度盧比合同，為陸軍採購雷達。"
+    },
+    {
+      "id": "5158370",
+      "time": "2026-10-21 18:04:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【中辦、國辦：加快新能源、新材料、航空航天等戰略性新興產業發展】中共中央辦公廳、國務院辦公廳釋出關於推動科技創新和產業創新深度融合的意見。其中提出，加強基礎理論研究和底層技術研發，開展顛覆性技術挖掘甄別，加速科學發現和技術突破。實施產業創新工程，一體推進創新設施建設、技術研究開發、產品迭代升級，加快新能源、新材料、航空航天等戰略性新興產業發展，因地制宜建設各具特色、優勢互補的戰略性新興產業叢集，著力打造新興支柱產業。推動低空經濟健康有序發展。在量子科技、生物製造、氫能和核聚變能、腦機介面、具身智慧、第六代行動通訊等前沿領域，探索多元技術路線、典型應用場景、可行商業模式，加快推進前沿技術產業化商業化，培育形成未來產業。"
+    },
+    {
+      "id": "mkt:01a15deb-0dd9-7ee0-a924-57a002936b50",
+      "time": "2026-10-21 18:04:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Copper"
+      ],
+      "text": "【General offices urge faster development of new energy, new materials, aerospace and other strategic emerging industries】The General Office of the CPC Central Committee and the General Office of the State Council issued guidance to deepen integration of scientific and industrial innovation, directing stronger basic-theory and foundational-technology R&D, systematic identification of disruptive technologies, and faster scientific and technological breakthroughs. It mandates an industrial-innovation programme to simultaneously advance innovation infrastructure, tech R&D and product iteration, accelerate new energy, new materials and aerospace development, and promote locally tailored, complementary strategic-emerging-industry clusters to create new pillar sectors. The guidance also calls for orderly development of the low-altitude economy and urges accelerated commercialization and industrialization of frontier fields — quantum technology, biomanufacturing, hydrogen and fusion energy, brain‑machine interfaces, embodied intelligence and 6G — by exploring multiple technical routes, prototype application scenarios and viable business models."
+    },
+    {
+      "id": "5158369",
+      "time": "2026-10-21 18:04:00",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【中辦、國辦：推動積體電路、工業母機、高階儀器、先進材料、生物製造等重點領域關鍵核心技術攻關取得決定性突破】中共中央辦公廳、國務院辦公廳釋出關於推動科技創新和產業創新深度融合的意見。其中提出，推動積體電路、工業母機、高階儀器、先進材料、生物製造等重點領域關鍵核心技術攻關取得決定性突破。深入實施產業基礎再造和重大技術裝備攻關等工程，聚焦重點領域薄弱環節，強化基礎零部件及基礎元器件攻關，突破關鍵基礎軟體，攻克關鍵基礎材料，加強先進基礎工藝和產業技術基礎研發。"
+    },
+    {
+      "id": "5158368",
+      "time": "2026-10-21 18:03:49",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將康寧<GLW.N>的目標價從170美元下調至165美元。"
+    },
+    {
+      "id": "mkt:01a15dea-ad71-7ee0-a924-4d87eaaa7eef",
+      "time": "2026-10-21 18:03:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "【General Offices call for decisive breakthroughs in core tech for chips, machine tools, advanced materials and biomanufacturing】The General Office of the CPC Central Committee and the General Office of the State Council issued guidance to speed integration of scientific and industrial innovation, targeting decisive breakthroughs in core technologies for integrated circuits, industrial machine tools, high‑end instruments, advanced materials and biomanufacturing. The plan deepens industrial‑base reconstruction and major technical‑equipment R&D programmes, directs resources at weak links in priority sectors, ramps up R&D on basic components and foundational devices, pushes breakthroughs in critical basic software and key base materials, and strengthens development of advanced foundational processes and the industrial technology base."
+    },
+    {
+      "id": "5158367",
+      "time": "2026-10-21 18:03:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中船漢光：2026年第三季度淨利潤2839.94萬元，同比下降2.23%】中船漢光公告，2026年第三季度營業收入2.92億元，同比增長3.98%；歸母淨利潤2839.94萬元，同比下降2.23%；扣非淨利潤2817.52萬元，同比下降3.14%。2026年前三季度營業收入8.83億元，同比增長0.87%；歸母淨利潤8376.22萬元，同比下降2.76%；扣非淨利潤8268.07萬元，同比下降3.45%。"
+    },
+    {
+      "id": "5158366",
+      "time": "2026-10-21 18:03:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【派林生物：2026年第三季度淨利潤6600.31萬元，同比下降45.63%】派林生物公告，2026年第三季度營業收入5.73億元，同比下降9.24%；歸母淨利潤6600.31萬元，同比下降45.63%；扣非淨利潤5638.88萬元，同比下降48.12%。2026年前三季度營業收入14.03億元，同比下降13.29%；歸母淨利潤1.5億元，同比下降57.92%；扣非淨利潤1.21億元，同比下降62.52%。"
+    },
+    {
+      "id": "5158365",
+      "time": "2026-10-21 18:03:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【川金諾：2026年第三季度淨利潤4109.26萬元，同比下降67.62%】川金諾公告，2026年第三季度營業收入9.72億元，同比下降8.56%；歸屬於上市公司股東的淨利潤4109.26萬元，同比下降67.62%；扣非淨利潤4223.78萬元，同比下降65.98%。2026年前三季度營業收入30.84億元，同比增長9.87%；歸屬於上市公司股東的淨利潤1.65億元，同比下降45.80%；扣非淨利潤1.61億元，同比下降44.67%。"
+    },
+    {
+      "id": "mkt:01a15dea-3830-7ee0-a924-44f641a6af68",
+      "time": "2026-10-21 18:03:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources say the Trump administration will assess whether to further loan out heating oil from reserves."
+    },
+    {
+      "id": "mkt:01a15de9-edff-7ee0-a924-3c2d06dd3cce",
+      "time": "2026-10-21 18:02:54",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【China central and state offices to leverage whole-of-nation system to tighten coordination of science and industry innovation planning】The General Office of the Communist Party Central Committee and the State Council Office issued opinions to deepen integration of science-and-technology and industrial innovation. They call for a strengthened innovation coordination mechanism that leverages a new-type whole-of-nation system to align strategic planning, major tasks and policy measures for scientific and industrial innovation. Policy will prioritise coordination of major policies, engineering programmes and flagship projects in frontier fields, guided by world science frontiers, China’s core economic battleground, major national needs and public health. The document directs tighter policy coordination across technology, industry, finance, education and talent, and mandates local- and sector-level monitoring and evaluation of deep integration, with explicit emphasis on using tech innovation to lead industrial development and raise industry innovation capacity."
+    },
+    {
+      "id": "5158364",
+      "time": "2026-10-21 18:02:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報99.78美元/桶。"
+    },
+    {
+      "id": "5158363",
+      "time": "2026-10-21 18:02:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【京能熱力：股東趙一波減持1.19%股份 觸及1%整數倍】京能熱力公告稱，公司持股5%以上股東趙一波於2026年9月2日至10月21日，透過大宗交易和盤後固定價格交易方式累計減持公司股份313萬股，佔公司總股本的1.1872%。本次減持後，趙一波持有公司股份比例由9.999995%降至8.8128%，權益變動觸及1%整數倍。本次減持符合此前預披露的減持計劃，不會導致公司控制權變更，不會對公司治理結構及持續經營產生影響。"
+    },
+    {
+      "id": "5158362",
+      "time": "2026-10-21 18:02:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盤龍藥業：本年度累計補繳稅款及滯納金1669.86萬元】盤龍藥業公告稱，經自查，公司及其控股子公司本年度累計補繳稅款1415.08萬元、滯納金254.79萬元，合計補繳稅款及滯納金1669.86萬元，佔公司最近一個會計年度經審計淨利潤的17.34%。本次補繳事項不涉及行政處罰，截至公告披露日，上述稅款及滯納金已全部繳納完畢。該事項不屬於前期會計差錯，不涉及對前期財務資料的追溯調整，相關款項計入2026年當期損益，不會影響公司正常經營。"
+    },
     {
       "id": "mkt:01a15de9-5415-7ee0-a924-35023920fdfe",
       "time": "2026-10-21 18:02:14",
@@ -255,6 +546,15 @@
         "其他"
       ],
       "text": "【英偉達DSX Flex測試中將GPU叢集功耗最多降低40%】英偉達表示，在一項早期試驗中，Emerald AI、EPRI、Nebius、英國國家電網與英偉達合作，在模擬電網事件下，將英偉達Blackwell Ultra GPU叢集的功耗最多降低40%，同時保持關鍵工作負載執行。DSX Flex旨在協調AI工廠用電與電網需求。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202610213902743371",
+      "time": "2026-10-21 17:57:14",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行管委Kazaks：如果通脹居高不下 可能要進一步收緊貨幣政策】歐洲央行管委Kazaks表示，如果通脹居高不下，可能要進一步收緊貨幣政策。"
     },
     {
       "id": "5158342",
