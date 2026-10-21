@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-21 23:26:08",
-  "count": 13387,
+  "updated": "2026-10-21 23:30:14",
+  "count": 13385,
   "items": [
+    {
+      "id": "5159064",
+      "time": "2026-10-21 23:28:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國銀行需就其在南卡羅來納州境內開展的業務向南卡州繳納稅款。"
+    },
+    {
+      "id": "5159063",
+      "time": "2026-10-21 23:27:20",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見吉布提外長奧馬爾】2026年10月21日，中共中央政治局委員、外交部長王毅在京會見吉布提外長奧馬爾。王毅表示，在兩國元首戰略引領下，中吉關係保持健康穩定發展勢頭。雙方政治互信更加深厚，各領域合作惠及吉民眾。中吉關係發展的重要經驗是平等相待、相互信任、相互支援。中方讚賞吉方恪守一箇中國原則，希望吉方繼續在涉及中方核心利益問題上給予堅定支援。王毅說，中方重視中吉全面戰略伙伴關係，願同吉方進一步深化務實合作。雙方要做好兩個“充分發揮”。一是充分發揮零關稅政策利好作用，二是充分發揮吉布提區位優勢。中方鼓勵中資企業赴吉投資興業，以建設亞吉鐵路繁榮帶為契機，幫助吉布提發揮基礎設施綜合配套優勢，助力吉布提打造地區商貿物流和互聯互通樞紐。（外交部網站）"
+    },
+    {
+      "id": "mkt:01a15f11-c0a1-7ee0-a92d-1c87493a88c0",
+      "time": "2026-10-21 23:26:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials said Russia accepted a U.S. proposal for a tripartite meeting with Ukraine."
+    },
+    {
+      "id": "5159062",
+      "time": "2026-10-21 23:25:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國官員：俄方已接受美方提出的與烏克蘭舉行三方會晤的提議。"
+    },
     {
       "id": "5159061",
       "time": "2026-10-21 23:25:31",
@@ -121707,61 +121741,6 @@
         "國際"
       ],
       "text": "澤連斯基的車隊駛入唐寧街。"
-    },
-    {
-      "id": "te:markets:592033",
-      "time": "2026-10-14 23:30:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: Brazil 10Y Bond Yield Gains by 10 bps — Majority of government bonds yields are higher on Wednesday. Top gainers are Brazil 10Y (10bps), Australia 10Y (5.60bps), France 10Y (5.05bps), US 10Y (3.50bps) and Germany 10Y (0.61bps). Biggest losers are Japan 10Y (-0.10bps)."
-    },
-    {
-      "id": "5145172",
-      "time": "2026-10-14 23:29:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數日內跌3%】費城半導體指數日內跌3.00%，現報11842.49點。"
-    },
-    {
-      "id": "5145171",
-      "time": "2026-10-14 23:29:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：外長阿拉格齊與黎巴嫩總統約瑟夫·奧恩於本週三晚間通電話，就黎巴嫩及地區局勢發展交換意見。"
-    },
-    {
-      "id": "te:markets:592032",
-      "time": "2026-10-14 23:28:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Africa",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "South Africa 10-Year Bond Yield Remains High — South Africa’s 10-year government bond yield hovered around 8.91%, staying near its highest since March, as geopolitical risks continued to cloud the outlook for inflation and interest rates. Oil prices extended their gains as escalating hostilities in the Middle East increased the risk of supply disruptions. In South Africa, the latest fuel price hikes are adding to concerns over inflation and growth, given the country's reliance on oil imports. Petrol and diesel prices climbed to unprecedented levels this month, surpassing the peak recorded in June and further complicating the central bank's goal to bring inflation back to 3%. The South African Reserve Bank (SARB) recently warned that the risk of second-round inflation effects had increased amid persistently elevated oil prices and uncertainty surrounding the impact of El Niño. Elsewhere, hotter-than-expected US inflation data prompted markets to reassess the Fed’s rate outlook, with a hike later this month becoming more likely."
-    },
-    {
-      "id": "5145170",
-      "time": "2026-10-14 23:26:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部副部長表示，該國尚未收到在沙烏地阿拉伯和葉門之間進行調解的提議。"
-    },
-    {
-      "id": "5145169",
-      "time": "2026-10-14 23:26:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：胡塞武裝軍方訊息人士警告阿美石油股東拋售持股。"
     }
   ]
 }
