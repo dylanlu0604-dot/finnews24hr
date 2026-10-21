@@ -1,7 +1,187 @@
 {
   "date": "2026-10-21",
-  "count": 1873,
+  "count": 1895,
   "items": [
+    {
+      "id": "5158443",
+      "time": "2026-10-21 18:21:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將MSCI Inc. <MSCI.N>的目標價從662.00美元上調至671.00美元。"
+    },
+    {
+      "id": "5158442",
+      "time": "2026-10-21 18:21:42",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利將通用汽車公司<GM.N>的目標價從101.00美元下調至95.00美元。"
+    },
+    {
+      "id": "mkt:01a15dfb-1a0c-7ee0-a925-4ea9c25d307c",
+      "time": "2026-10-21 18:21:39",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bearish"
+      ],
+      "text": "Morgan Stanley cuts Netflix price target to $77.00 from $80.00."
+    },
+    {
+      "id": "5158441",
+      "time": "2026-10-21 18:21:35",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將Netflix的目標價從80美元下調至77美元。"
+    },
+    {
+      "id": "mkt:01a15dfa-eac0-7ee0-a925-43fbbd305a65",
+      "time": "2026-10-21 18:21:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA upgraded its Isaac general-purpose robotics platform and introduced a new humanoid robot reference design, a development framework, simulation workflows and supporting data assets."
+    },
+    {
+      "id": "5158440",
+      "time": "2026-10-21 18:21:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "SENSING4D AI -：宣佈在美國首次公開發售A類普通股。"
+    },
+    {
+      "id": "mkt:01a15dfa-82ec-7ee0-a925-3abe658ac4bf",
+      "time": "2026-10-21 18:21:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【CSRC vice chairman Liu Haoling: neither ignore risks for AI gains nor halt progress】CSRC vice chairman Liu Haoling said at the 2026 Financial Street Forum that AI should enable high‑quality development of China’s capital markets while balancing development and security. He called for a comprehensive governance framework and full‑lifecycle management—including admission assessment, dynamic monitoring and emergency response—for AI applications in the market. Regulators should design China‑specific AI governance for the capital markets, set clear boundaries and risk‑tolerance for high‑value use cases, and develop credibility/trustworthiness assessment systems aligned with business needs. He also urged active alignment with the national AI agenda and stronger coordination with industry and research institutes."
+    },
+    {
+      "id": "5158439",
+      "time": "2026-10-21 18:20:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達推出全新人形機器人參考模型、框架、模擬流水線和資料，推進 Isaac 平臺在通用機器人領域的應用。"
+    },
+    {
+      "id": "5158438",
+      "time": "2026-10-21 18:20:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川九洲：控股孫公司投資設立的成渝低空公司完成工商註冊】四川九洲公告稱，公司控股孫公司綿陽科技城低空裝備檢驗檢測認證有限責任公司投資設立成渝九洲（四川）低空裝備檢驗檢測認證有限責任公司，註冊資本1.00億元，持股比例100%。近日該公司已完成工商註冊登記並取得營業執照，法定代表人為王磊，經營範圍包含檢驗檢測服務、認證服務等。本次投資在公司董事會審批許可權內，無需提交股東會審議，不構成關聯交易及重大資產重組。"
+    },
+    {
+      "id": "5158437",
+      "time": "2026-10-21 18:20:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行全球研究將eBay的目標價從123美元上調至129美元。"
+    },
+    {
+      "id": "5158436",
+      "time": "2026-10-21 18:20:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【普邦股份：中標三亞灣瑞吉度假酒店景觀工程專案】普邦股份公告稱，公司近日收到海南鉬興商貿有限公司簽發的《合作意向書》，被確定為三亞灣瑞吉度假酒店專案景觀工程的合作單位，專案中標總價為9469.02萬元，計劃於2027年9月30日前交付，具體開工日期以發包人書面發出的開工通知為準。截至公告披露日，公司尚未就該中標專案簽署正式合同，後續合同簽署及具體條款仍存在不確定性。"
+    },
+    {
+      "id": "5158435",
+      "time": "2026-10-21 18:20:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行全球研究部將希捷科技<STX.O>的目標價從1150.00美元上調至1200.00美元。"
+    },
+    {
+      "id": "5158434",
+      "time": "2026-10-21 18:19:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【工大科雅：持股5%以上股東協議轉讓股份完成過戶】工大科雅公告稱，公司持股5%以上股東中國電子系統技術有限公司透過公開徵集轉讓方式，將其持有的1270.50萬股公司股份（約佔總股本10.54%）協議轉讓給北京鴻躍新能企業管理中心（有限合夥），轉讓價格為22.60元/股。本次股份過戶登記手續已於2026年10月20日辦理完畢，過戶後中國系統不再持有公司股份，鴻躍新能持股比例為10.54%，成為公司持股5%以上股東。本次權益變動為國有股權協議轉讓，未觸及要約收購，不涉及公司實際控制人變化。鴻躍新能承諾，自本次權益變動完成之日起18個月內不轉讓本次取得的股份。"
+    },
+    {
+      "id": "5158433",
+      "time": "2026-10-21 18:19:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年前三季度醫保統籌基金支出超1.7萬億元】國家醫保局10月21日釋出資料，2026年1月至9月，我國基本醫療保險（含生育保險）統籌基金總收入23028.33億元，基本醫療保險（含生育保險）統籌基金總支出17515.19億元。"
+    },
+    {
+      "id": "5158432",
+      "time": "2026-10-21 18:19:44",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "花旗銀行將SpaceX列入90天上漲催化劑觀察名單。"
+    },
+    {
+      "id": "5158431",
+      "time": "2026-10-21 18:19:23",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【證監會副主席劉浩凌：既不能因技術紅利漠視風險，也不能因風險止步不前】中國證監會副主席劉浩凌20日在2026金融街論壇年會平行論壇上表示，人工智慧賦能資本市場高質量發展，要統籌好發展與安全，既不能因技術紅利漠視風險，也不能因風險止步不前。要完善綜合治理體系，建立健全准入評估、動態監測、應急處置等全生命週期管理。要積極探索符合我國資本市場實際的人工智慧治理路徑，科學劃定高價值應用場景的邊界和風險容忍尺度，探索建立符合業務實際需求的可信度評估體系。要主動融入國家人工智慧發展大局，強化與產業界、科研院所協同聯動，匯聚發展合力。"
+    },
+    {
+      "id": "5158430",
+      "time": "2026-10-21 18:19:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "INTERTEK資料顯示，印尼9月份棕櫚油出口環比增長18.7%。"
+    },
+    {
+      "id": "5158429",
+      "time": "2026-10-21 18:18:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀禧科技：起訴六被告，合併持股達10.41%】銀禧科技公告，公司以股東資格確認糾紛為由起訴彭某某等六人，東莞市第一人民法院已立案受理，尚未開庭審理。公司請求確認六被告構成一致行動人。截至2026年8月31日，六被告合併持股已達10.41%。本次訴訟對上市公司損益無直接影響。"
+    },
+    {
+      "id": "5158428",
+      "time": "2026-10-21 18:18:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國支付清算協會：審議透過貴州農商聯合銀行等4家單位入會申請】中國支付清算協會披露的公告顯示，根據《中國支付清算協會章程》《中國支付清算協會會員管理辦法》等相關規定，中國支付清算協會（以下簡稱協會）審議透過了貴州農村商業聯合銀行股份有限公司、山西潤農數字科技有限公司、山東匯小寶資訊科技有限公司、北京騰春科技有限公司等4家單位的入會申請，決定準予其加入協會成為普通會員。入會時間自2026年9月16日起計算。"
+    },
+    {
+      "id": "5158427",
+      "time": "2026-10-21 18:18:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：據報道船員安全，且無損壞或環境影響報告。"
+    },
+    {
+      "id": "mkt:01a15df8-2a24-7ee0-a925-368308316bb8",
+      "time": "2026-10-21 18:18:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said an oil tanker captain reported being struck by an unidentified projectile in an incident on Oct. 20."
+    },
     {
       "id": "mkt:01a15df7-fe04-7ee0-a925-2c0b061197b2",
       "time": "2026-10-21 18:18:15",
@@ -9,6 +189,14 @@
         "MKT News"
       ],
       "text": "NVIDIA CEO Jensen Huang said he will leverage tools to interact with the physical world."
+    },
+    {
+      "id": "5158426",
+      "time": "2026-10-21 18:18:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：一艘油輪報告遭不明發射物擊中。"
     },
     {
       "id": "5158425",
