@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-21 23:54:28",
-  "count": 13398,
+  "updated": "2026-10-21 23:58:25",
+  "count": 13400,
   "items": [
+    {
+      "id": "mkt:01a15f2e-8d87-7ee0-a92d-c3651171ffd0",
+      "time": "2026-10-21 23:57:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SPA: Saudi Crown Prince met Egypt's foreign minister in Riyadh to discuss the latest regional situation and coordination efforts."
+    },
+    {
+      "id": "te:markets:593920",
+      "time": "2026-10-21 23:57:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Italian Stocks Rebound from Five-Month Low — Italy’s FTSE MIB closed 1.2% higher at 49,643 on Wednesday, rebounding from a five-month low, lifted by gains in tech and heavyweight financials. Prysmian (2.8%), Technoprobe (2.8%) and STMicroelectronics (2.6%) advanced, tracking optimism across the sector following upbeat results from SpaceX and Super Micro Computer. Financials also outperformed while discussions on the sector’s contribution to Italy’s public finances were postponed until next week. Intesa rose 1.3% aid reports that it's working on significant risk transfers to hedge more than €5 billion in assets, despite concerns over debt and geopolitical tensions. Energy shares gained on a rebound in oil prices, led by Saipem (1.8%) and ENI (1.8%). Utilities also advanced, with Snam rising 1.2%. Stellantis dropped 0.4% amid increased short positions by asset managers. Defense stocks declined as trilateral talks involving the US, Russia and Ukraine on a potential peace deal resumed, with Leonardo dropping 2% to lead losses."
+    },
+    {
+      "id": "mkt:01a15f2e-2bbd-7ee0-a92d-bbf19bbebc50",
+      "time": "2026-10-21 23:57:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SPA: Saudi crown prince met with Egypt's foreign minister in Riyadh."
+    },
+    {
+      "id": "5159085",
+      "time": "2026-10-21 23:56:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特王儲在利雅得會見埃及外交部長。"
+    },
     {
       "id": "te:markets:593917",
       "time": "2026-10-21 23:52:59",
@@ -121881,22 +121917,6 @@
         "焦點"
       ],
       "text": "白銀連續主力合約日內跌6%，現報13563.00元。"
-    },
-    {
-      "id": "5145204",
-      "time": "2026-10-14 23:57:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI計算業務負責人將離職。"
-    },
-    {
-      "id": "5145203",
-      "time": "2026-10-14 23:56:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：我們在星鏈方面遇到了一些困難。"
     }
   ]
 }
