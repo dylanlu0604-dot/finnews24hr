@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-22 03:10:01",
-  "count": 13337,
+  "updated": "2026-10-22 03:13:47",
+  "count": 13331,
   "items": [
+    {
+      "id": "5159205",
+      "time": "2026-10-22 03:12:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【斯洛伐克文化部長希姆科維喬娃將兼任副總理】斯洛伐克總統府21日說，總統佩列格里尼已批准總理菲佐提議，任命文化部長馬丁娜·希姆科維喬娃兼任副總理。（新華社）"
+    },
+    {
+      "id": "5159204",
+      "time": "2026-10-22 03:12:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：釋出賦能網路防禦方的藍圖，該檔案基於此前的網路安全行動計劃與前沿安全藍圖制定。"
+    },
+    {
+      "id": "5159203",
+      "time": "2026-10-22 03:11:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：Storm-0940利用OAuth應用程式，透過Microsoft Graph訪問並竊取郵件及其他資料。"
+    },
     {
       "id": "5159201",
       "time": "2026-10-22 03:09:29",
@@ -121226,99 +121250,6 @@
         "國際"
       ],
       "text": "美聯儲古爾斯比：相比其他美聯儲官員，我對經濟前景更為樂觀。越來越多證據顯示，在持續衝擊之下，通脹並非暫時性的。"
-    },
-    {
-      "id": "5145444",
-      "time": "2026-10-15 03:13:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：美聯儲必須防止經濟過熱情況持續累積。"
-    },
-    {
-      "id": "5145443",
-      "time": "2026-10-15 03:13:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：如果經濟穩健而通脹高企，美聯儲的政策方向將不存在模糊空間。"
-    },
-    {
-      "id": "5145442",
-      "time": "2026-10-15 03:12:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：不贊成在會議前提前釋放美聯儲政策動向訊號。"
-    },
-    {
-      "id": "mkt:01a13bd4-cb42-7ee0-a884-bcfee968156f",
-      "time": "2026-10-15 03:12:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "Goolsbee said he does not like revealing the Fed’s intentions ahead of meetings."
-    },
-    {
-      "id": "mkt:01a13bd4-5428-7ee0-a884-b31d69c33b65",
-      "time": "2026-10-15 03:12:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Fed's GOOLSBEE: September inflation disappointing; more data needed before further hikes】Chicago Fed President GOOLSBEE said US September inflation surprised to the upside: core services inflation remains above 5% and core goods price gains have not eased as expected, implying inflation may be more persistent. He warned that if core inflation stays at a monthly annualized pace near 4% it would be wholly unacceptable and require policy action. GOOLSBEE said it is unclear whether current rates are sufficient to return inflation to the 2% target and he favors waiting for more data before deciding on further hikes, but cautioned that if inflation readings remain at current levels in coming months the Fed cannot stand pat. He highlighted a very tight labor market, strong growth, robust consumer spending and potential additional overheating from AI investment; firms in his district report little recession risk and widespread concern about rising costs and prices. If employment remains firm while inflation stays above target and moves in the wrong direction, the Fed must act to prevent further overheating."
-    },
-    {
-      "id": "5145441",
-      "time": "2026-10-15 03:12:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：在通脹問題上，美國經濟仍有改善空間。"
-    },
-    {
-      "id": "5145440",
-      "time": "2026-10-15 03:11:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：希望能源因素對通脹資料的影響能很快消退。"
-    },
-    {
-      "id": "5145439",
-      "time": "2026-10-15 03:10:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：從受訪物件那裡聽到的反饋集中在成本與物價問題，並未聽到大家擔憂經濟衰退。"
-    },
-    {
-      "id": "5145438",
-      "time": "2026-10-15 03:10:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：重點應當關注通脹的趨勢，不能僅憑單份報告下判斷。"
     }
   ]
 }
