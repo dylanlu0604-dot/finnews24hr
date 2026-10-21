@@ -1,7 +1,111 @@
 {
-  "updated": "2026-10-21 13:41:16",
-  "count": 13504,
+  "updated": "2026-10-21 13:45:03",
+  "count": 13515,
   "items": [
+    {
+      "id": "5157586",
+      "time": "2026-10-21 13:44:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿克蘇諾貝爾執行長：剝離資產系出於合併監管要求。"
+    },
+    {
+      "id": "5157585",
+      "time": "2026-10-21 13:44:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿克蘇諾貝爾執行長：計劃出售歐洲汽車修補漆業務。"
+    },
+    {
+      "id": "5157584",
+      "time": "2026-10-21 13:43:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美總統特使今日抵俄】據俄羅斯塔斯社今天（10月21日）報道，美國總統特使威特科夫抵達俄羅斯聖彼得堡。此前一天，威特科夫和烏克蘭總統澤連斯基在挪威奧斯陸舉行會晤，參會者還包括一些歐洲國家領導人。此次會談旨在制定一項能夠提交俄羅斯方面討論的和平方案。根據挪威首相斯特勒公佈的資訊，威特科夫希望在抵達俄羅斯後，與俄羅斯總統普京會面，並向俄方介紹奧斯陸會談的內容。（CCTV國際時訊）"
+    },
+    {
+      "id": "5157583",
+      "time": "2026-10-21 13:42:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南京現代表面處理科技產業中心首批6棟高標準電鍍廠房正式交付】據南京釋出，近日，南京現代表面處理科技產業中心首批6棟高標準電鍍廠房正式交付。該產業園是南京首個也是唯一一個統一規劃、統一建設、統一運營的表面處理產業園區。"
+    },
+    {
+      "id": "5157582",
+      "time": "2026-10-21 13:42:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟計算機應急響應團隊：強烈建議識別基於 PHP 的應用程式，準備進行補丁修復。"
+    },
+    {
+      "id": "5157581",
+      "time": "2026-10-21 13:42:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南文昌國際航天城投資開發公司更名為海南空天集團】天眼查顯示，10月18日，海南文昌國際航天城投資開發有限責任公司發生工商變更，企業名稱變更為海南空天集團有限公司。該公司登記經營範圍包括海南文昌國際航天城專案的投資建設和運營管理。天眼查股東資訊顯示，海南省國有資產監督管理委員會、文昌國際航天城管理局分別持股40%、26%。其餘三名股東為海南省農墾投資控股集團有限公司、海南海鋼集團有限公司和海南紫貝發展控股集團有限公司，持股比例分別為21%、9%和4%。"
+    },
+    {
+      "id": "mkt:01a15cfb-82f1-7ee0-a91a-5349bfcee346",
+      "time": "2026-10-21 13:42:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "IOC.NS",
+        "Impact bearish"
+      ],
+      "text": "Sources said Indian Oil is losing 500-600 rupees on each sale of a 14.2kg LPG cylinder."
+    },
+    {
+      "id": "5157580",
+      "time": "2026-10-21 13:42:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代、雅礱江水電在四川甘孜成立水電開發公司】企查查APP顯示，近日，雅礱江牙根（甘孜州）水電開發有限公司成立，註冊資本5億元，經營範圍包含：新興能源技術研發；太陽能發電技術服務；風力發電技術服務；儲能技術服務等。企查查股權穿透顯示，該公司由雅礱江流域水電開發有限公司、寧德時代共同持股。"
+    },
+    {
+      "id": "5157579",
+      "time": "2026-10-21 13:42:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟計算機應急響應團隊：PHP 漏洞的 CVSS 評分為 9.2，表明存在未經身份驗證的遠端程式碼執行風險。"
+    },
+    {
+      "id": "5157578",
+      "time": "2026-10-21 13:41:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "訊息人士：印度石油公司每售出一瓶14.2公斤液化石油氣虧損500-600盧比。"
+    },
+    {
+      "id": "5157577",
+      "time": "2026-10-21 13:41:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿迪達斯盤前股價上漲3.3%，此前上調業績展望。"
+    },
+    {
+      "id": "mkt:01a15cfa-50e6-7ee0-a91a-4f513d670f03",
+      "time": "2026-10-21 13:41:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump: data centers must generate their own power】Trump wrote that, as president, he wants new large — in some cases massive — data centers to generate their own electricity and return or sell surplus power to local communities or the grid. He said firms should pay communities “dividends” to win acceptance, that compensation deals have turned previously unwelcome centers into accepted projects, and that mandatory self-generation could lower local electricity prices."
+    },
     {
       "id": "5157576",
       "time": "2026-10-21 13:40:12",
@@ -123211,18 +123315,6 @@
         "公司"
       ],
       "text": "Cox集團與薩爾瓦多政府簽署協議，將在能源與水務領域投資29億美元。"
-    },
-    {
-      "id": "te:economy:591762",
-      "time": "2026-10-14 13:41:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Finland",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Finnish Inflation Rate Highest Since 2024 — Finland’s annual inflation rate rose to 2.5% in September 2026 from 2.2% in the previous month, marking the highest reading since February 2024. Price growth particularly accelerated for food and non-alcoholic beverages (1.9% vs 1.6% in August), housing and utilities (1.6% vs 1.3%), and transport (8.9% vs 7.3%). Costs also rose at a faster pace for alcoholic beverages and tobacco (3.8% vs 3.6%), information and communication (4.5% vs 3.1%), restaurants and accommodation services (2.0% vs 1.4%), and insurance and financial services (1.7% vs 0.4%), while deflation eased for clothing and footwear (-0.9% vs -1.4%). On the other hand, prices slowed for furnishings, household equipment and routine household maintenance (2.9% vs 4.7%), health (2.5% vs 3.0%), recreation and culture (1.5% vs 1.9%), and education (4.2% vs 5.8%). On a monthly basis, consumer prices rebounded by 0.7% after falling 0.2% in the previous month."
     }
   ]
 }
