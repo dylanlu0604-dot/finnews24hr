@@ -1,7 +1,50 @@
 {
-  "updated": "2026-10-22 03:43:43",
-  "count": 13339,
+  "updated": "2026-10-22 03:47:27",
+  "count": 13342,
   "items": [
+    {
+      "id": "mkt:01a15fff-ed14-7ee0-a930-79033acdf17a",
+      "time": "2026-10-22 03:46:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Oil futures mixed at close on the 21st】NYMEX December light sweet crude fell $0.67 to settle at $97.15/bbl, down 0.68%; ICE December Brent rose $0.03 to $108.82/bbl, up 0.03%."
+    },
+    {
+      "id": "5159250",
+      "time": "2026-10-22 03:45:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價21日漲跌不一】截至當天收盤，紐約商品交易所12月交貨的輕質原油期貨價格下跌67美分，收於每桶97.15美元，跌幅為0.68%；12月交貨的倫敦布倫特原油期貨價格上漲3美分，收於每桶108.82美元，漲幅為0.03%。"
+    },
+    {
+      "id": "mkt:01a15ffe-16bb-7ee0-a930-70746ed0309a",
+      "time": "2026-10-22 03:44:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Dollar index up 0.08% at 101.780 at New York close on the 21st】Dollar index rose 0.08% to 101.780 at the New York close on the 21st. EUR/USD 1.1223, down from 1.1237; GBP/USD 1.3384, up from 1.3383; USD/JPY 158.29, up from 158.20; USD/CHF 0.8254, up from 0.8248; USD/CAD 1.4052, down from 1.4057; USD/SEK 9.8985, up from 9.8979."
+    },
+    {
+      "id": "5159248",
+      "time": "2026-10-22 03:44:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數21日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.08%，在匯市尾市收於101.780。截至紐約匯市尾市，1歐元兌換1.1223美元，低於前一交易日的1.1237美元；1英鎊兌換1.3384美元，高於前一交易日的1.3383美元。1美元兌換158.29日元，高於前一交易日的158.20日元；1美元兌換0.8254瑞士法郎，高於前一交易日的0.8248瑞士法郎；1美元兌換1.4052加元，低於前一交易日的1.4057加元；1美元兌換9.8985瑞典克朗，高於前一交易日的9.8979瑞典克朗。"
+    },
     {
       "id": "mkt:01a15ffc-8401-7ee0-a930-6a30a66529a4",
       "time": "2026-10-22 03:42:26",
@@ -121321,18 +121364,6 @@
         "其他"
       ],
       "text": "Skydance 披露 SKYD B 類普通股與權證分開獨立交易的相關細則。"
-    },
-    {
-      "id": "mkt:01a13bf4-8eb8-7ee0-a884-e325008d1568",
-      "time": "2026-10-15 03:47:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said over the past seven months, aside from US Navy vessels, Iran's Islamic Revolutionary Guard Corps has persistently and indiscriminately targeted thousands of civilian mariners transiting regional waters."
     }
   ]
 }
