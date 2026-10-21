@@ -1,7 +1,91 @@
 {
-  "updated": "2026-10-21 13:48:56",
-  "count": 13522,
+  "updated": "2026-10-21 13:52:49",
+  "count": 13533,
   "items": [
+    {
+      "id": "5157597",
+      "time": "2026-10-21 13:52:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "NSCALE執行長表示，旗下專案有長期合同作為支撐。"
+    },
+    {
+      "id": "5157596",
+      "time": "2026-10-21 13:51:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SpaceX股價在Tradegate平臺上漲9.6%，此前公司釋出業績，馬斯克提出與特斯拉合併的設想。"
+    },
+    {
+      "id": "5157595",
+      "time": "2026-10-21 13:50:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "德銀CEO：工業人工智慧是德國的機遇。"
+    },
+    {
+      "id": "mkt:01a15d02-7ce2-7ee0-a91a-87fda42e7750",
+      "time": "2026-10-21 13:50:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share securities sector slid in volatile trading; Jinlong hit its daily limit down, while Xiangcai, Huaxin, Guosheng Securities, Hualin Securities and CITIC Securities also fell."
+    },
+    {
+      "id": "mkt:01a15d02-764b-7ee0-a91a-7ac57d9e7f7c",
+      "time": "2026-10-21 13:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "UK Sept public-sector net borrowing and monthly CPI and RPI (MoM) readings due in 10 minutes."
+    },
+    {
+      "id": "5157594",
+      "time": "2026-10-21 13:49:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "NSCALE執行長表示， 公司已鎖定超 1000 億美元合約收入。"
+    },
+    {
+      "id": "5157593",
+      "time": "2026-10-21 13:49:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "德銀CEO：我們需要更快的審批流程與勞工改革。"
+    },
+    {
+      "id": "5157592",
+      "time": "2026-10-21 13:48:53",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【證券板塊震盪下挫 錦龍股份觸及跌停】午後證券板塊震盪下挫，錦龍股份觸及跌停，湘財股份、華鑫股份、國盛證券、華林證券、中信證券等紛紛跟跌。"
+    },
+    {
+      "id": "mkt:01a15d01-4047-7ee0-a91a-77bb323b7670",
+      "time": "2026-10-21 13:48:45",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Deutsche Bank CEO said he would not characterize France's situation as a 'debt crisis', but said fiscal discipline is crucial."
+    },
     {
       "id": "mkt:01a15d01-0ec1-7ee0-a91a-6fcbe662f313",
       "time": "2026-10-21 13:48:32",
@@ -10,6 +94,23 @@
         "Important"
       ],
       "text": "Container shipping index (Europe route) most-active contract fell 200.0 points intraday to 2,453.0, down 7.54%."
+    },
+    {
+      "id": "5157591",
+      "time": "2026-10-21 13:48:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "德銀CEO：養老金改革是“所有改革之母”。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610213902519476",
+      "time": "2026-10-21 13:48:09",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【31省份前三季度人均可支配收入公佈】前三季度，全國居民人均可支配收入34230元，比上年同期名義增長5.3%，扣除價格因素，實際增長4.4%。分城鄉看，城鎮居民人均可支配收入44945元，比上年同期名義增長4.5%，扣除價格因素，實際增長3.6%；農村居民人均可支配收入18809元，比上年同期名義增長6.3%，扣除價格因素，實際增長5.6%。其中，前三季度，上海全市居民人均可支配收入72175元，位居第一；北京全市居民人均可支配收入70405元，位居第二；浙江位居第三，為57593元。"
     },
     {
       "id": "mkt:01a15d00-a5fc-7ee0-a91a-61ceda6cf4f5",
