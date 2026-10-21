@@ -1,7 +1,54 @@
 {
-  "updated": "2026-10-22 03:24:58",
-  "count": 13338,
+  "updated": "2026-10-22 03:28:42",
+  "count": 13342,
   "items": [
+    {
+      "id": "mkt:01a15fee-cf84-7ee0-a930-589b144f6e6d",
+      "time": "2026-10-22 03:27:28",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. State Department ordered non-emergency U.S. government employees and their dependents in Saudi Arabia to depart."
+    },
+    {
+      "id": "5159225",
+      "time": "2026-10-22 03:26:49",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務院：美國國務院釋出命令，要求駐沙烏地阿拉伯的非緊急美國政府僱員及其家屬撤離。"
+    },
+    {
+      "id": "5159223",
+      "time": "2026-10-22 03:25:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Meta計劃推出新的無投票權股票】知情人士透露，Meta計劃推出一種新的無投票權股票。該計劃將允許Meta在不稀釋扎克伯格控股權的情況下發行新股，最早可能在Meta週三公佈季度業績時宣佈。"
+    },
+    {
+      "id": "5159222",
+      "time": "2026-10-22 03:24:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI的模型即將登陸谷歌雲】OpenAI表示，將把前沿模型和Codex智慧體工作流引入谷歌雲的Model Garden，讓企業能夠在他們已有的構建環境中使用該公司的技術。"
+    },
+    {
+      "id": "mkt:01a15fec-4bd3-7ee0-a930-54d0817ad40e",
+      "time": "2026-10-22 03:24:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "OpenAI to deploy its models on Google Cloud's Model Garden, adding flagship models and CODEX agent workflows to let enterprises run the technology on existing Google Cloud platforms."
+    },
     {
       "id": "mkt:01a15feb-3dad-7ee0-a930-4bc11bd2159f",
       "time": "2026-10-22 03:23:34",
@@ -121313,15 +121360,6 @@
         "DXY"
       ],
       "text": "CBS reports Yemen’s foreign minister has asked the US for training and intelligence support for government forces and the coast guard. The Yemeni government said it is not seeking to open negotiations with Houthi militants."
-    },
-    {
-      "id": "5145463",
-      "time": "2026-10-15 03:26:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美銀聘請1000名承包商 修補Anthropic的Mythos暴露的軟體漏洞】美國銀行已聘請大批外部承包商，幫助修補包括Anthropic的Mythos在內的先進人工智慧模型所暴露的軟體漏洞。在銀行釋出第三季度財報後接受採訪時，該行CEO莫伊尼漢表示，今年早些時候，公司動用數千名員工和外部人員，緊急加固其廣泛的內部和供應商程式碼。"
     }
   ]
 }
