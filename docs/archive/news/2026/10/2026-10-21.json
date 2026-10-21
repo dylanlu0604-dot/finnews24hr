@@ -1,7 +1,291 @@
 {
   "date": "2026-10-21",
-  "count": 1670,
+  "count": 1701,
   "items": [
+    {
+      "id": "5158309",
+      "time": "2026-10-21 17:50:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度 NIFTY 50 指數<.NSEI>指示性水平上漲 1.5%，扭轉了拍賣前 0.66% 的跌幅。"
+    },
+    {
+      "id": "5158308",
+      "time": "2026-10-21 17:50:51",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛集團於10月15日將其在寧德時代<3750.HK> H股中的多頭頭寸從4.54%增加至5.14%。"
+    },
+    {
+      "id": "te:markets:593809",
+      "time": "2026-10-21 17:50:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "German Bunds Remain Supported by Safe-Haven Demand — Germany’s 10-year Bund yield held just above 3.4%, supported by safe-haven demand, while French and other highly indebted euro-area bonds remained under pressure from fiscal concerns and political uncertainty. The spread between French OATs and German Bunds widened beyond 155 basis points, its highest level since the eurozone sovereign debt crisis. Global bond yields have risen this year amid surging energy prices and expectations of tighter monetary policy. France has come under particular pressure, with its 10-year bond yield reaching a fresh 24-year high amid mounting fiscal concerns and social unrest. Anti-government protests and budget negotiations in a deeply divided Parliament have raised doubts about the government’s ability to implement deficit-reduction measures ahead of the 2027 presidential election."
+    },
+    {
+      "id": "mkt:01a15dde-a855-7ee0-a923-82af71bf8990",
+      "time": "2026-10-21 17:50:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he will not meet Witkov in Oslo."
+    },
+    {
+      "id": "5158307",
+      "time": "2026-10-21 17:50:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST智知：與專業投資機構共設合夥企業完成工商登記】ST智知公告稱，公司與華業天成共同投資設立天津華業認知創業投資合夥企業（有限合夥），該合夥企業目標認繳出資總額1.50億元，公司作為有限合夥人認繳出資1.50億元，佔認繳出資總額的99.9334%。近日該合夥企業已完成工商登記手續並取得營業執照，成立日期為2026年10月20日。該合夥企業尚需在中國證券投資基金業協會備案，實施過程存在不確定性。"
+    },
+    {
+      "id": "5158306",
+      "time": "2026-10-21 17:50:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀的Bernard Mensah表示，對主權債券收益率有點擔憂。"
+    },
+    {
+      "id": "5158305",
+      "time": "2026-10-21 17:50:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華安證券：安徽出版集團減持計劃期限屆滿，未減持0股】華安證券公告，安徽出版集團有限責任公司此前擬透過集中競價及大宗交易方式減持不超過5000萬股。減持期間為2026年7月21日至2026年10月21日，期限屆滿未實施減持，原因是市場環境變化；其當前持有公司5.69億股，佔公司總股本11.33%。"
+    },
+    {
+      "id": "5158304",
+      "time": "2026-10-21 17:50:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "港交所：貝萊德於10月16日將其在贛鋒鋰業 <1772.HK> H股的多頭持倉從7.77%增加至9.31%。"
+    },
+    {
+      "id": "5158303",
+      "time": "2026-10-21 17:50:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "HCLTech推出由英偉達提供支援的HCLTech汽車驗證與確認服務，旨在變革軟體定義汽車的驗證方式。"
+    },
+    {
+      "id": "mkt:01a15dde-1e88-7ee0-a923-7f9536c595a9",
+      "time": "2026-10-21 17:50:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Sources: QatarEnergy to offer Shahin crude loaded outside Strait of Hormuz in December】Trade sources said on Wednesday QatarEnergy has issued a tender to sell Shahin crude via ship-to-ship (STS) transfer outside the Strait of Hormuz, with loading planned for early December. The company also offered an alternative FOB pickup in Qatar for mid-to-late November. The tender closes on Wednesday."
+    },
+    {
+      "id": "mkt:01a15ddd-eb6d-7ee0-a923-777ee2c2f2dc",
+      "time": "2026-10-21 17:49:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A German government spokesman said Germany was represented at the Oslo Ukraine talks by its foreign-policy adviser."
+    },
+    {
+      "id": "5158302",
+      "time": "2026-10-21 17:49:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國政府發言人談奧斯陸烏克蘭會談：德國由外交政策顧問代表出席。"
+    },
+    {
+      "id": "mkt:01a15ddd-904b-7ee0-a923-6b0849e6d9fc",
+      "time": "2026-10-21 17:49:23",
+      "tags": [
+        "MKT News",
+        "MPC.O",
+        "Impact bullish"
+      ],
+      "text": "BOFA GLOBAL RESEARCH raised its PT for Marathon Petroleum to $498 from $426."
+    },
+    {
+      "id": "mkt:01a15ddd-82d2-7ee0-a923-6629f657f40d",
+      "time": "2026-10-21 17:49:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB governing council member Kazaks said that, given offsetting factors, policymakers must remain cautious."
+    },
+    {
+      "id": "5158301",
+      "time": "2026-10-21 17:49:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【東方盛虹：30億元債務融資工具獲准註冊】東方盛虹公告稱，公司收到中國銀行間市場交易商協會下發的《接受註冊通知書》，公司債務融資工具註冊金額為30億元，註冊額度自通知書落款之日起2年內有效，由中信銀行股份有限公司主承銷。公司在註冊有效期內可分期發行超短期融資券、短期融資券、中期票據、永續票據，將根據實際資金需求及市場利率情況擇機發行，並及時履行資訊披露義務。"
+    },
+    {
+      "id": "5158300",
+      "time": "2026-10-21 17:49:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基表示，他不會在奧斯陸與威特科夫會面。"
+    },
+    {
+      "id": "5158299",
+      "time": "2026-10-21 17:49:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛旭股份：第三季度淨利潤為4456.66萬元】愛旭股份(600732.SH)公告稱，第三季度營業收入為52.89億元，同比增長67.89%；歸屬於上市公司股東的淨利潤為4456.66萬元。前三季度營業收入為144.72億元，同比增長24.79%；歸屬於上市公司股東的淨利潤為-7.09億元。業績變動原因：本季度元件銷量同比增長，銷售價格上升，收入增加，毛利增加，利潤增加；前三季度元件銷售價格上升，毛利增加；匯率波動，匯兌損失增加。公司Q3淨利潤0.45億，Q2淨利潤-3.14億，據此計算，Q3淨利潤環比扭虧為盈。"
+    },
+    {
+      "id": "mkt:01a15ddd-0240-7ee0-a923-5a5d60b1de34",
+      "time": "2026-10-21 17:48:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) launched the OpenShell reference architecture to ensure the safe operation of AI agents."
+    },
+    {
+      "id": "mkt:01a15ddc-e6c4-7ee0-a923-55a66824970f",
+      "time": "2026-10-21 17:48:40",
+      "tags": [
+        "MKT News",
+        "300750.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Yinwang CEO Jin Yuzhi first discusses battery-swap cooperation with CATL, says platform will benefit automakers】At the 2026 World Intelligent Connected Vehicles Conference, Huawei senior vice‑president and Yinwang CEO Jin Yuzhi publicly addressed the company’s battery‑swap cooperation with CATL for the first time. He said Yinwang will expand ecosystem collaboration with automaker partners on the basis of deeper intelligentization integration. Jin noted the Qiankun Zhijia system has already linked to multiple national charging networks—providing access to roughly one million charging points nationwide—and that adding a battery‑swap platform to this ecosystem would be more advantageous for automakers and end users."
+    },
+    {
+      "id": "5158298",
+      "time": "2026-10-21 17:48:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達推出 OpenShell 參考架構，用於安全 AI 智慧體。"
+    },
+    {
+      "id": "mkt:01a15ddc-d759-7ee0-a923-4e42cc05e44c",
+      "time": "2026-10-21 17:48:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Peel Hunt expects the Bank of England to cut policy rates by 25bp in 2028 to 3.25%, versus its prior projection that rates would remain unchanged."
+    },
+    {
+      "id": "5158297",
+      "time": "2026-10-21 17:48:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【頎中科技：2026年第三季度淨利潤1.49億元，同比增長74.13%】頎中科技公告，2026年第三季度營業收入5.53億元，同比下降9.13%；淨利潤1.49億元，同比增長74.13%；扣非淨利潤6256.56萬元，同比下降22.72%。2026年前三季度營業收入15.15億元，同比下降5.61%；淨利潤虧損1.55億元；扣非淨利潤3307.09萬元，同比下降81.37%。第三季度淨利潤增長主要系火災事故保險理賠款收入增加；前三季度淨利潤虧損主要系火災事故處置資產損失增加。"
+    },
+    {
+      "id": "5158296",
+      "time": "2026-10-21 17:48:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "投行Peel Hunt：維持對英國央行2027年兩次各降息25個基點的看法。預計英國央行將在2028年降息25個基點，將政策利率降至3.25%，而此前預測為維持利率不變。"
+    },
+    {
+      "id": "mkt:01a15ddc-8936-7ee0-a923-4349f582fe09",
+      "time": "2026-10-21 17:48:16",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Peel Hunt maintains view that the Bank of England will cut policy rates twice by 25bp each in 2027."
+    },
+    {
+      "id": "mkt:01a15ddc-63f1-7ee0-a923-38b10de01663",
+      "time": "2026-10-21 17:48:06",
+      "tags": [
+        "MKT News",
+        "OXY.O",
+        "Impact bullish"
+      ],
+      "text": "BofA Global Research raises Occidental Petroleum PT to $67 from $59."
+    },
+    {
+      "id": "mkt:01a15ddc-46ea-7ee0-a923-35fef9b8a721",
+      "time": "2026-10-21 17:47:59",
+      "tags": [
+        "MKT News",
+        "XOM.O",
+        "Impact bullish"
+      ],
+      "text": "BOFA GLOBAL RESEARCH raises Exxon Mobil PT to $181 from $158."
+    },
+    {
+      "id": "5158295",
+      "time": "2026-10-21 17:47:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【截至今年8月底，國內約6100萬輛乘用車搭載組合駕駛輔助功能】據證券時報，10月21日，在2026世界智慧網聯汽車大會上，工業和資訊化部裝備工業一司司長郭守剛表示，車聯網具有鮮明的跨行業屬性，涉及智慧網聯汽車、資訊通訊、智慧交通、車輛智慧管理、電子產品與服務等領域，在國家頂層規劃指導下，已初步建成車聯網標準體系，各領域結合行業特點，開展標準研製400餘項，有力推動汽車產業智慧化、網聯化協同發展。同時，各領域立足自身的業務協同聯動，在多個方向上取得階段性建設成果，截至今年8月底，國內約6100萬輛乘用車搭載組合駕駛輔助功能，其中大約有1500萬輛乘用車具備領航駕駛輔助功能。"
+    },
+    {
+      "id": "5158294",
+      "time": "2026-10-21 17:47:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行全球研究部將埃克森美孚的目標價從158美元上調至181美元。"
+    },
+    {
+      "id": "5158293",
+      "time": "2026-10-21 17:47:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛旭股份：子公司擬向關聯方採購5087萬元光伏裝置】愛旭股份公告稱，公司下屬子公司滁州愛旭擬與關聯方蘇州普伊特簽署裝置採購合同，採購22臺光伏電池片溼法生產裝置，合同總金額5087.00萬元（含稅），構成關聯交易。本次交易已經公司第十屆董事會第八次會議審議透過，關聯董事陳剛回避表決，無需提交股東會審議。蘇州普伊特為公司實控人陳剛間接控制的企業，本次採購用於滁州基地高效光伏電池產能升級改造，定價與前次同款採購一致，不構成重大資產重組，對公司當期業績無重大影響。"
+    },
+    {
+      "id": "5158292",
+      "time": "2026-10-21 17:47:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：我們已經在應對各種困難，我們不需要外國領導人利用我們的問題為他們的競選活動服務。"
+    },
+    {
+      "id": "5158291",
+      "time": "2026-10-21 17:47:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛旭股份：擬11.50億元升級天津基地6GW ABC電池產能】愛旭股份公告稱，公司計劃將天津基地現有PERC電池產能升級改造為6GW ABC電池產能，專案預計總投資11.50億元，其中固定資產投資11.31億元，鋪底及營運流動資金0.19億元。專案計劃2026年四季度啟動，2027年三季度陸續投產，資金將透過自有資金、金融機構融資、產業生態合作等方式籌措。本次技改事項已經公司董事會審議透過，無需提交股東會審議，不構成關聯交易和重大資產重組，尚需辦理專案備案、環評、能評等手續，存在產品銷售不及預期、收益不及預期、專案進展不及預期等風險。"
+    },
     {
       "id": "5158290",
       "time": "2026-10-21 17:47:04",
