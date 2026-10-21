@@ -1,7 +1,179 @@
 {
   "date": "2026-10-21",
-  "count": 2455,
+  "count": 2473,
   "items": [
+    {
+      "id": "mkt:01a15f18-cac4-7ee0-a92d-5d40f11f15a4",
+      "time": "2026-10-21 23:33:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: Iranian parliament speaker Ghalibaf met Supreme Leader Mojtaba Khamenei."
+    },
+    {
+      "id": "5159073",
+      "time": "2026-10-21 23:33:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國廣播電視臺（IRIB）：伊朗議會議長卡利巴夫會見最高領袖穆傑塔巴。"
+    },
+    {
+      "id": "mkt:01a15f18-9944-7ee0-a92d-549d291f5daf",
+      "time": "2026-10-21 23:33:29",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "U.S. 4-month Treasury auction through Oct. 21: share allocated at the stop-out yield 48.24%, prior 83.69%."
+    },
+    {
+      "id": "mkt:01a15f18-7988-7ee0-a92d-4b3a0d1318aa",
+      "time": "2026-10-21 23:33:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "U.S. 4-month Treasury auction settled Oct. 21; stop-out yield 4.155% vs 4.20% prior."
+    },
+    {
+      "id": "mkt:01a15f18-63a7-7ee0-a92d-405cceb8f9b1",
+      "time": "2026-10-21 23:33:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-month Treasury bill auction allotment percentage at the high rate (Oct.21) | actual 48.24% | previous 83.69%"
+    },
+    {
+      "id": "mkt:01a15f18-5a1e-7ee0-a92d-3eb5c944a779",
+      "time": "2026-10-21 23:33:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 4-month Treasury auction bid-cover ratio 2.76 on Oct. 21; prior 2.79."
+    },
+    {
+      "id": "mkt:01a15f18-3e95-7ee0-a92d-333a8a380899",
+      "time": "2026-10-21 23:33:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Oct.21) | actual 4.155% | previous 4.20%"
+    },
+    {
+      "id": "mkt:01a15f18-2ffe-7ee0-a92d-29948ba084d0",
+      "time": "2026-10-21 23:33:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Oct.21) | actual 2.76 | previous 2.79"
+    },
+    {
+      "id": "5159072",
+      "time": "2026-10-21 23:32:53",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率4.155%，投標倍數2.76。"
+    },
+    {
+      "id": "5159071",
+      "time": "2026-10-21 23:32:41",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【銀禧科技：起訴六名股東涉嫌不當獲取公司控制權】銀禧科技(300221.SZ)公告稱，公司以股東資格確認糾紛為由起訴彭某某等六名被告，請求確認其構成一致行動人，其持有的公司股份合併計算，且六被告不得收購原告，超出5%部分股份三十六個月內不得行使表決權等股東權利。公司認為，六被告未披露權益變動過程，擬在隱瞞一致行動關係的前提下收購公司，系不當獲取公司控制權。法院已立案受理，尚未開庭審理。"
+    },
+    {
+      "id": "5159070",
+      "time": "2026-10-21 23:32:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "古巴外長指責美國威脅聯合國成員國，稱若在美國對古巴禁運的聯合國投票前支援古巴，將對這些國家實施制裁。"
+    },
+    {
+      "id": "mkt:01a15f16-8fe9-7ee0-a92d-2286f1698d84",
+      "time": "2026-10-21 23:31:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. crude (WTI) and Brent fell more than $1 intraday, trading at $96.37/bbl and $105.31/bbl respectively."
+    },
+    {
+      "id": "5159069",
+      "time": "2026-10-21 23:30:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲1.01%，現報26691.618點；道指漲0.24%，現報52623.578點；標普500指數漲0.44%，現報7746.730點。"
+    },
+    {
+      "id": "5159068",
+      "time": "2026-10-21 23:30:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲1.23%，報25616.42點。法國股指初步收漲0.92%，義大利股指初步收漲1.09%、銀行指數漲1.22%，英國股指初步收漲0.14%。"
+    },
+    {
+      "id": "5159067",
+      "time": "2026-10-21 23:30:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.83%，報643.95點。歐元區STOXX 50指數初步收漲1.27%，報6200.34點。富時泛歐績優300指數初步收漲0.77%，報2568.80點。"
+    },
+    {
+      "id": "te:markets:593913",
+      "time": "2026-10-21 23:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: France 10Y Bond Yield Gains by 11 bps — Majority of government bonds yields are higher on Wednesday. Top gainers are France 10Y (10.83bps), Portugal 10Y (5.25bps), Italy 10Y (5.24bps) and Germany 10Y (2.44bps). Biggest losers are Brazil 10Y (-6bps), South Korea 10Y (-5.70bps), Japan 10Y (-0.41bps) and US 10Y (-0.20bps)."
+    },
+    {
+      "id": "5159066",
+      "time": "2026-10-21 23:29:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯稱其擊中了一艘駛往烏克蘭喬爾諾莫斯克的船隻。"
+    },
+    {
+      "id": "5159065",
+      "time": "2026-10-21 23:29:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報96.84美元/桶。"
+    },
     {
       "id": "5159064",
       "time": "2026-10-21 23:28:37",
