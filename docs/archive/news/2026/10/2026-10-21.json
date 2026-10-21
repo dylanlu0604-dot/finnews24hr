@@ -1,7 +1,141 @@
 {
   "date": "2026-10-21",
-  "count": 2040,
+  "count": 2055,
   "items": [
+    {
+      "id": "5158549",
+      "time": "2026-10-21 18:57:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【3連板潤建股份：2億美元詞元跨境服務訂單已完成合同簽署】潤建股份(002929.SZ)釋出投資者關係活動記錄表公告，本次2億美元詞元跨境服務訂單，由公司全資子公司五象雲谷與客戶簽訂，訂單已完成合同簽署，標誌著潤建股份依託五象雲谷詞元工廠構建的跨境AI服務模式迎來重大商業化進展，為後續更多業務落地打下範本。本次合同模式為出售AI詞元（Token）呼叫服務，而非算力租賃。公司向客戶出售AI詞元（Token）呼叫服務：客戶開放約定API介面，透過API介面發起大模型推理呼叫，按實際消耗詞元數量進行結算，實現“國內Token海外呼叫、按需使用、按量計費”的業務模式。本次銷售服務合同約定交付週期為一年。"
+    },
+    {
+      "id": "5158548",
+      "time": "2026-10-21 18:56:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浩洋股份：2026年第三季度淨利潤3162.16萬元，同比下降44.04%】浩洋股份公告，2026年第三季度營業收入2.55億元，同比下降8.83%；歸母淨利潤3162.16萬元，同比下降44.04%；扣非淨利潤2972.35萬元，同比下降43.28%。2026年前三季度營業收入8.38億元，同比增長4.58%；歸母淨利潤1.22億元，同比下降9.14%；扣非淨利潤1.16億元，同比下降7.19%。"
+    },
+    {
+      "id": "5158547",
+      "time": "2026-10-21 18:56:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍洲股份：中汽宏遠變更反訴請求2.94億元】龍洲股份公告，控股孫公司東莞中汽宏遠此前因買賣合同糾紛與微宏動力系統（湖州）有限公司互為本訴、反訴當事人；近日，中汽宏遠基於案件事實變化變更反訴請求，六項暫合計2.94億元，案件一審已開庭、待判決。"
+    },
+    {
+      "id": "5158546",
+      "time": "2026-10-21 18:56:23",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將SpaceX <SPCX.O>的目標價從240美元上調至500美元。"
+    },
+    {
+      "id": "mkt:01a15e1a-8f8e-7ee0-a926-c5b076b66a9e",
+      "time": "2026-10-21 18:56:01",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bearish"
+      ],
+      "text": "WEDBUSH lowers Netflix PT to $80 from $90."
+    },
+    {
+      "id": "te:markets:593830",
+      "time": "2026-10-21 18:55:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Finishes Slightly Lower — India’s BSE Sensex reversed early gains to close about 0.2% down at 73,710 on Wednesday, led by losses in financials, while rising oil prices also pressured market sentiment. Meanwhile, investors monitored quarterly earnings and the Jio Platforms IPO. Bajaj Finance dropped 3.3%, making it the top loser, after India's largest non-bank lender fallged early signs of streass in loans against gold despite reporting a strong rise in quarterly profit. Autos and metal stocks also faced pressure. On the upside, tech stocks stood out, with HCL Tech, infosys and Tech Mahindra climbing more than 3% each."
+    },
+    {
+      "id": "mkt:01a15e1a-80a8-7ee0-a926-bad2fb67e27a",
+      "time": "2026-10-21 18:55:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【PBOC deputy governor, SAFE head Zhu Hexin: actively, prudently deepen AI+ and speed release of financial data value】PBOC Deputy Governor and SAFE head Zhu Hexin told the 2026 Financial Street Forum fintech conference that during the 15th Five-Year Plan period China will seize the AI opportunity, make financial digitalization and intelligent transformation the policy focus, and actively but prudently deepen AI+ while orderly advancing the release of financial data elements’ value to push fintech into a new intelligent phase. He set four priorities: drive mutual enablement between AI and finance; accelerate monetization and broader use of financial data elements; keep risks controllable by building a security firewall for new-technology applications; and use standards to strengthen compliant innovation in financial technology."
+    },
+    {
+      "id": "5158545",
+      "time": "2026-10-21 18:55:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【黃仁勳呼籲歐洲加快AI落地】英偉達執行長黃仁勳呼籲歐洲加快人工智慧落地應用。在不少投資者開始質疑AI基礎設施鉅額投入回報的背景下，他對AI前景保持樂觀。這家總部位於加州聖克拉拉的企業，其晶片是本輪AI熱潮的核心硬體支撐。本次柏林GTC大會上，英偉達釋出全新資料中心硬體、軟體、模型，並宣佈和歐洲頭部企業達成多項合作。黃仁勳週三在英偉達柏林GTC大會上表示：“歐洲想要從AI中獲益、搭建AI生態與AI經濟，就必須讓各個終端市場、各行各業擁抱AI。”他舉例提及汽車、金融、醫療領域，“各行各業都要轉型為AI驅動型企業。”"
+    },
+    {
+      "id": "mkt:01a15e1a-349a-7ee0-a926-b4dedd819678",
+      "time": "2026-10-21 18:55:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【French economy minister says weekend riots caused tens to hundreds of millions of euros in damage】French economy minister Roland Lescure estimated on Wednesday that weekend violent unrest caused \"tens of millions, even hundreds of millions\" of euros in damage. He described the incidents as \"extremely serious,\" saying France was hit by two domestic violent currents—anarchists and rioters. The government is coordinating with insurers to support affected shop owners and has pledged to take \"all necessary measures\" to prevent a repeat ahead of planned demonstrations on Saturday."
+    },
+    {
+      "id": "5158544",
+      "time": "2026-10-21 18:54:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行副行長、外匯局局長朱鶴新：穩妥深化“人工智慧+” 加快金融資料要素價值釋放】近日，在以“智慧驅動 融合共生——智慧經濟新形態下的金融科技”為主題的2026金融街論壇年會金融科技大會上，中國人民銀行副行長、國家外匯管理局局長朱鶴新指出，“十四五”時期，兩部金融科技發展規劃圓滿完成實施，金融數字化轉型全面深化，數字技術金融應用縱深推進，金融服務質效顯著提升。“十五五”時期，搶抓人工智慧發展歷史性機遇，以金融數字化、智慧化轉型為主線，積極穩妥深化“人工智慧+”，安全有序推進“資料要素×”，推動金融科技向新向智發展。要重點做好四方面工作：堅持智慧驅動，推動人工智慧與金融雙向賦能；堅持資料築基，加快金融資料要素價值釋放；堅持風險可控，築牢新技術應用安全防火牆；堅持標準引領，提升金融科技守正創新水平。"
+    },
+    {
+      "id": "mkt:01a15e19-4070-7ee0-a926-a98be0c558b0",
+      "time": "2026-10-21 18:54:35",
+      "tags": [
+        "MKT News",
+        "BX.N",
+        "Impact bearish"
+      ],
+      "text": "BMO lowers Blackstone price target to $130 from $150."
+    },
+    {
+      "id": "5158543",
+      "time": "2026-10-21 18:54:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米雷軍：智慧汽車下半場比拼生態 小米未來五年硬核研發擬投超2000億】在2026世界智慧網聯汽車大會上，小米集團創始人雷軍表示，小米汽車兩年半累計交付超80萬輛，均價超26萬元。雷軍強調安全優先，搭建千人級安全團隊。他同時提出，智慧網聯下半場競爭重心轉向生態。小米已開放汽車硬體介面、對外合作生態，過去五年硬核研發投入1055億元，計劃未來五年投入超2000億元。（科創板日報）"
+    },
+    {
+      "id": "5158542",
+      "time": "2026-10-21 18:53:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文推出面向行業應用的AI智慧體工作室。"
+    },
+    {
+      "id": "mkt:01a15e18-7181-7ee0-a926-a43b74f31db9",
+      "time": "2026-10-21 18:53:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【NFRA deputy Xiao Yuanqi: AI in finance must have robust governance framework to ensure safety and control】At the 2026 Financial Street Forum fintech conference, National Financial Regulatory Administration deputy head Xiao Yuanqi said AI+finance is a systemic change across strategy, business models, organization and culture, not just a technical overlay, and urged financial firms to strengthen in‑house R&D and shore up data, model and engineering capabilities. He called for industry–finance ecosystem building, interbank cooperation and international collaboration on governance, and said AI financial applications must adopt full‑lifecycle governance with human‑in‑the‑loop controls, 'AI for good' principles, data and network security and business‑continuity safeguards while regulators accelerate digital, intelligent supervision."
+    },
+    {
+      "id": "5158541",
+      "time": "2026-10-21 18:53:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【佩斯科夫：普京將研究美方新提出的烏克蘭問題解決方案】俄羅斯總統新聞秘書佩斯科夫21日表示，美國總統特朗普及其談判團隊正在積極推動烏克蘭危機的和平解決，當前有關談判存在取得重要進展的可能性。佩斯科夫說，美國總統特使威特科夫此次帶來了一些新的方案和建議。此前，威特科夫還與烏克蘭總統澤連斯基及歐洲國家代表進行了接觸。普京將認真研究美方提出的建議，俄方將根據有關情況決定下一步行動。佩斯科夫同時表示，烏克蘭問題能否實現和平解決，在很大程度上取決於烏克蘭方面的決定。佩斯科夫強調，普京對探索和平解決烏克蘭問題的途徑持開放態度。俄美雙方有關接觸仍在繼續，預計今天的會談將是一次嚴肅、深入的討論，最終結果仍有待觀察。（央視新聞）"
+    },
     {
       "id": "5158540",
       "time": "2026-10-21 18:52:54",
