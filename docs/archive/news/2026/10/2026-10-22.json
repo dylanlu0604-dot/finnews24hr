@@ -1,7 +1,33 @@
 {
   "date": "2026-10-22",
-  "count": 228,
+  "count": 231,
   "items": [
+    {
+      "id": "5159257",
+      "time": "2026-10-22 03:53:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM漲至3.7%。"
+    },
+    {
+      "id": "5159256",
+      "time": "2026-10-22 03:52:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "畢馬威預計加拿大央行下週加息。"
+    },
+    {
+      "id": "mkt:01a16005-a71f-7ee0-a930-8a60a5392724",
+      "time": "2026-10-22 03:52:25",
+      "tags": [
+        "MKT News",
+        "MU.O"
+      ],
+      "text": "【Micron says will not adopt 4F² storage technology, will push 3D DRAM (MU.O)】Micron Technology CTO Scott DeBoer said the company has evaluated 4F² storage technology for more than 20 years and currently has no plans to adopt it. He described 4F² as more complex and costlier with limited practical advantages, and said Micron will continue its current roadmap and focus on next‑generation 3D DRAM development."
+    },
     {
       "id": "mkt:01a16003-38e8-7ee0-a930-85b387e88873",
       "time": "2026-10-22 03:49:46",
