@@ -1,7 +1,18 @@
 {
   "date": "2026-10-22",
-  "count": 467,
+  "count": 468,
   "items": [
+    {
+      "id": "te:markets:593967",
+      "time": "2026-10-22 06:35:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Drops by 1.67% — Top commodity losers are Platinum (-1.67%), Silicon (-1.06%) and Copper (-0.65%). Gains are led by Aluminum Alloy (1.19%) and Gold (0.22%)."
+    },
     {
       "id": "te:markets:593966",
       "time": "2026-10-22 06:30:09",
