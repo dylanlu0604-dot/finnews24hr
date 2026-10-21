@@ -1,7 +1,136 @@
 {
   "date": "2026-10-21",
-  "count": 1251,
+  "count": 1266,
   "items": [
+    {
+      "id": "5157576",
+      "time": "2026-10-21 13:40:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲2%，現報10491.00元。"
+    },
+    {
+      "id": "te:markets:593675",
+      "time": "2026-10-21 13:39:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Hong Kong Hit 15-week Low — HK50 decreased to 23736.00 Index Points, the lowest since July 2026. Over the past 4 weeks, Hong Kong Stock Market Index (HK50) lost 5.36%, and in the last 12 months, it decreased 7.91%."
+    },
+    {
+      "id": "5157575",
+      "time": "2026-10-21 13:39:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：資料中心應該把多餘的電力賣給當地電網。"
+    },
+    {
+      "id": "5157574",
+      "time": "2026-10-21 13:39:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "法軍稱一架戰鬥機墜毀，至少造成一人死亡。"
+    },
+    {
+      "id": "mkt:01a15cf8-cc32-7ee0-a91a-40d7122fee5c",
+      "time": "2026-10-21 13:39:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said companies that want their data centers to be welcomed should pay \"dividends\" to the community or to individuals within it."
+    },
+    {
+      "id": "mkt:01a15cf8-9842-7ee0-a91a-3f869a13e3d2",
+      "time": "2026-10-21 13:39:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PHP will release a security update on Wednesday to fix two serious vulnerabilities."
+    },
+    {
+      "id": "5157573",
+      "time": "2026-10-21 13:39:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果企業想讓自己的資料中心受歡迎，就應該向社群和/或社群內的個人支付“股息”。"
+    },
+    {
+      "id": "mkt:01a15cf8-0354-7ee0-a91a-335bfdd1d3e9",
+      "time": "2026-10-21 13:38:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he would require new large — in some cases giant — data centers to generate their own power and sell or feed surplus back to local communities or the grid, saying this would not raise electricity prices and could substantially lower them."
+    },
+    {
+      "id": "5157572",
+      "time": "2026-10-21 13:38:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇州2宗涉宅用地7.06億元底價成交】10月21日，蘇州2宗涉宅用地出讓，總土地出讓面積66061.90㎡，總規劃建築面積88857.04㎡，總起始價7.06億元。最終2宗地塊均底價成交，總成交金額7.06億元。"
+    },
+    {
+      "id": "5157571",
+      "time": "2026-10-21 13:38:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.04%，成分股中，華密新材跌7.11%，納科諾爾跌6.57%，蘇軸股份跌4.58%，民士達跌4.38%。"
+    },
+    {
+      "id": "5157570",
+      "time": "2026-10-21 13:38:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：資料中心必須自行發電。"
+    },
+    {
+      "id": "5157569",
+      "time": "2026-10-21 13:38:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司據悉在汽油銷售上每升虧損4至5盧比。"
+    },
+    {
+      "id": "mkt:01a15cf7-2a61-7ee0-a91a-28a749556891",
+      "time": "2026-10-21 13:37:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Stock Exchange weighted index (TAIEX) closed up 594.84 points (+1.28%) at 46,887.77 on Wednesday, Oct. 21."
+    },
+    {
+      "id": "5157568",
+      "time": "2026-10-21 13:37:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新石器在無錫成立智駕科技公司】企查查APP顯示，近日，新石器智駕科技（無錫）有限公司成立，法定代表人為李子夷，經營範圍包含：汽車零配件批發；汽車零配件零售；電子產品銷售；人工智慧應用軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由新石器慧通科技股份有限公司間接全資持股。"
+    },
+    {
+      "id": "5157567",
+      "time": "2026-10-21 13:37:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廈門6宗地塊108.7億元底價成交】10月21日，廈門出讓6宗地塊，最終均底價成交，總成交金額108.70億元。其中，思明區1宗涉宅用地和1宗商辦用地由華潤置地分別以48.79億元和12.85億元競得，成交樓面價分別為40692元/㎡和9179元/㎡；湖里區宅地由招商蛇口和象嶼聯合體以25.86億元競得，成交樓面價37940元/㎡；同安區3宗宅地由廈門軌道分別以10.52億元、3.22億元、7.46億元競得，成交樓面價分別為10702元/㎡、8183元/㎡、7897元/㎡。"
+    },
     {
       "id": "5157566",
       "time": "2026-10-21 13:36:17",
