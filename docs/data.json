@@ -1,7 +1,224 @@
 {
-  "updated": "2026-10-21 18:34:24",
-  "count": 13531,
+  "updated": "2026-10-21 18:38:18",
+  "count": 13555,
   "items": [
+    {
+      "id": "mkt:01a15e09-e3a0-7ee0-a925-ebf21a13c880",
+      "time": "2026-10-21 18:37:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NVIDIA is collaborating with AnKao Technology, I-PEX, King Yuan Electronics (KYEC), Samsung Electro-Mechanics, Siliconware Precision (SPIL) and Unimicron Technology."
+    },
+    {
+      "id": "5158488",
+      "time": "2026-10-21 18:37:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級關於巴西的報告：鑑於預算赤字超過國內生產總值的8%，預計明年財政政策將收緊。"
+    },
+    {
+      "id": "5158487",
+      "time": "2026-10-21 18:37:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國電信運營商 Orange 表示，行動網路中斷正在影響法國的客戶，正在努力恢復服務。"
+    },
+    {
+      "id": "5158486",
+      "time": "2026-10-21 18:37:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "上交所召開首批主動ETF市場動員會。"
+    },
+    {
+      "id": "mkt:01a15e09-aeff-7ee0-a925-e0cde70778bd",
+      "time": "2026-10-21 18:37:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions"
+      ],
+      "text": "Shanghai Stock Exchange held a mobilization meeting for the launch of the first batch of active ETFs."
+    },
+    {
+      "id": "5158485",
+      "time": "2026-10-21 18:37:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "VERIZON股價盤前下跌2.1%，T-MOBILE US股價下跌1.4%。"
+    },
+    {
+      "id": "5158484",
+      "time": "2026-10-21 18:37:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "英偉達：京元電子將在美國新建生產設施，英偉達提供11億美元產能預訂預付款支援。"
+    },
+    {
+      "id": "mkt:01a15e08-e9a4-7ee0-a925-d87009cef4a2",
+      "time": "2026-10-21 18:36:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "AMKR.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) said Amkor plans to raise advanced packaging capacity by more than 300% by end-2028."
+    },
+    {
+      "id": "5158483",
+      "time": "2026-10-21 18:36:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達聯合多家供應鏈夥伴擴產，夯實 AI 全棧算力平臺產能】英偉達今日宣佈，將聯合一批供應鏈合作伙伴擴大全球製造產能，以滿足其加速計算與全棧AI工廠平臺持續增長的需求。英偉達將與安靠科技（Amkor Technology）、揖斐電（IBIDEN）、景碩科技（King Yuan Electronics，KYEC）、三星電機（Samsung Electro-Mechanics）、矽品精密（SPIL）以及欣興電子（Unimicron）合作，推動新老供應商擴充基板、先進封裝、測試以及光引擎等關鍵環節制造能力，提升英偉達全球供應鏈的韌性與冗餘備份能力。英偉達創始人兼執行長黃仁勳表示：“我們正處在人類歷史上規模最大的基礎設施建設浪潮當中，需求極其旺盛，而產能是當前的瓶頸。我們的供應鏈夥伴都是全球頂尖製造企業。感謝他們在全球各地擴產，助力我們提升產能，交付支撐這場新工業革命的AI超算系統。”"
+    },
+    {
+      "id": "5158482",
+      "time": "2026-10-21 18:35:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "AT&T股價在第三季度財報公佈後盤前下跌4.2%。"
+    },
+    {
+      "id": "te:markets:593827",
+      "time": "2026-10-21 18:35:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Westinghouse Air Brake Technologies earnings above expectations at 2.83 USD — Westinghouse Air Brake Technologies (WAB) released earnings per share at 2.83 USD, compared to market expectations of 2.74 USD."
+    },
+    {
+      "id": "5158481",
+      "time": "2026-10-21 18:35:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：巴西經濟因實際利率高企而放緩。"
+    },
+    {
+      "id": "5158480",
+      "time": "2026-10-21 18:35:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其、卡達、印度尼西亞和巴基斯坦簽署防務合作諒解備忘錄。"
+    },
+    {
+      "id": "5158479",
+      "time": "2026-10-21 18:35:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達公司將於2027年2月在新加坡啟動大規模試生產。"
+    },
+    {
+      "id": "mkt:01a15e07-6293-7ee0-a925-d5272d9896fc",
+      "time": "2026-10-21 18:35:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's foreign minister said Iran intends to act as guardian of the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a15e07-5626-7ee0-a925-c8349408cb8d",
+      "time": "2026-10-21 18:35:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. special envoy told Russian President Putin that Putin often praises my president, Trump, as humane, and added that Putin himself is likewise humane, a remark the envoy said he respected."
+    },
+    {
+      "id": "5158478",
+      "time": "2026-10-21 18:34:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達公司計劃在2026年至2027年將半導體測試能力提升一倍。"
+    },
+    {
+      "id": "5158477",
+      "time": "2026-10-21 18:34:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達公司 ： 計劃在未來三年內將基板產能提高2.5倍。"
+    },
+    {
+      "id": "5158476",
+      "time": "2026-10-21 18:34:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達公司： KYEC將利用英偉達提供的11億美元預付款在美國建設新設施。"
+    },
+    {
+      "id": "mkt:01a15e06-bea7-7ee0-a925-c733eb2a919c",
+      "time": "2026-10-21 18:34:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) said it plans to boost packaging substrate capacity to 2.5 times current levels within the next three years."
+    },
+    {
+      "id": "5158475",
+      "time": "2026-10-21 18:34:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達公司：到2028年底，安靠將把先進封裝產能提高300%以上。"
+    },
+    {
+      "id": "mkt:01a15e06-794c-7ee0-a925-bc0ed10c9bd7",
+      "time": "2026-10-21 18:34:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA and supply-chain partners are expanding production capacity to accelerate the build-out of AI infrastructure."
+    },
+    {
+      "id": "mkt:01a15e06-754f-7ee0-a925-b7c9daef5a90",
+      "time": "2026-10-21 18:34:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Iran foreign minister says willing to seek diplomatic solution but will defend itself】Iran foreign minister Araghchi wrote in the Financial Times that during meetings with several counterparts at last month’s UN General Assembly he conveyed a consistent message: Iran seeks a just, dignified agreement with the United States, but the White House must show genuine intent and cease aggressive actions. He said Iran is committed to resolving the conflict peacefully and with dignity, but is prepared to defend itself. Araghchi blamed Trump for launching the war based on a fundamental misjudgment of Iran’s strength and said Iran has no confidence in US claims of willingness to coexist peacefully. Given what he described as the White House’s lack of willingness to reach consensus and its threats of further violence, he sees little reason to expect progress, though as a diplomat he will still attempt negotiations despite slim odds of success."
+    },
     {
       "id": "mkt:01a15e06-6c37-7ee0-a925-a9c9cc35c285",
       "time": "2026-10-21 18:34:01",
@@ -45,6 +262,14 @@
         "國際"
       ],
       "text": "伊朗外長：伊朗將始終對霍爾木茲海峽的交通擁有影響力。"
+    },
+    {
+      "id": "5158472",
+      "time": "2026-10-21 18:33:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達升級Isaac機器人平臺 推出人形機器人參考框架與模擬工具】英偉達宣佈升級Isaac通用機器人開發平臺，推出新的人形機器人參考框架、模擬工作流及資料工具，旨在加速通用機器人開發。”通用機器人正以驚人的速度進步——機器人的ChatGPT時刻正快速臨近，”英偉達創始人兼執行長黃仁勳表示。”藉助NVIDIA Isaac這一全棧開放機器人平臺，我們正為開發者提供模型、資料、模擬工具和計算系統，將物理AI帶給全球最大的各個行業。”"
     },
     {
       "id": "5158471",
