@@ -1,7 +1,78 @@
 {
-  "updated": "2026-10-21 13:18:14",
-  "count": 13452,
+  "updated": "2026-10-21 13:22:02",
+  "count": 13459,
   "items": [
+    {
+      "id": "5157545",
+      "time": "2026-10-21 13:21:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "蓋蒂圖片社：預計將透過KED關聯公司提供的高達1.43億美元的融資為重組提供資金。"
+    },
+    {
+      "id": "5157544",
+      "time": "2026-10-21 13:20:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "蓋蒂圖片社：預計在獲得常規監管批准後，將於年底前完成重組。"
+    },
+    {
+      "id": "mkt:01a15ce7-a3d7-7ee0-a919-dac4b596a13b",
+      "time": "2026-10-21 13:20:46",
+      "tags": [
+        "MKT News",
+        "ASX200",
+        "Impact bullish"
+      ],
+      "text": "Australia's S&P/ASX 200 closed up 3.10 points, or 0.04%, at 8,820.00 on Wednesday, Oct. 21."
+    },
+    {
+      "id": "mkt:01a15ce5-920f-7ee0-a919-d5b349b51055",
+      "time": "2026-10-21 13:18:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "A-share solid-state battery sector extended losses; Shanghai Xiba hit the daily down-limit, CATL fell over 11%, and Zizhu Hi-Tech, Kedali and Weilan Lithium also declined."
+    },
+    {
+      "id": "5157543",
+      "time": "2026-10-21 13:18:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦旁遮普省一客運巴士側翻 致9死多傷】當地時間21日，巴基斯坦旁遮普省發生一起客運巴士側翻事故，造成9人死亡、32人受傷。據當地救援部門訊息，事故發生在拉詹普爾地區，一輛高速行駛的客運巴士撞上道路中央隔離設施後側翻。事故造成多死傷，傷者正在接受醫療救治。"
+    },
+    {
+      "id": "mkt:01a15ce5-48e5-7ee0-a919-c8a61b16b87f",
+      "time": "2026-10-21 13:18:12",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russian Defence Ministry said Russian forces struck a power substation in Ukraine."
+    },
+    {
+      "id": "te:markets:593673",
+      "time": "2026-10-21 13:17:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends 1% Higher Ahead of Inflation Data — The NZX 50 advanced 130 points, or 1.0%, to close at 13,761 on Wednesday, erasing losses from the previous three sessions and moving away from its lowest level since September 16, touched a day earlier, ahead of the release of inflation data. Q3 inflation data will be released on Thursday, with the market expecting inflation to ease on both a yearly and quarterly basis. Easing Treasury yields and moderating oil prices also supported sentiment, easing inflation concerns and fears of interest rate hikes after the RBNZ raised interest rates for the second straight time in July and September. The broader index tracked gains in US stock futures as traders assessed earnings reports. Materials, financials, communication services, healthcare, and industrial stocks mainly drove the index, with notable gains from Ebos Group (5.5%), Vulcan Steel (5.2%), Mainfreight (3.2%), Fletcher Building (3.1%), Westpac Banking Corp. (1.9%), ANZ Group (1.3%), Freightways (1.2%), and Fisher & Paykel (0.7%)."
+    },
     {
       "id": "5157542",
       "time": "2026-10-21 13:16:06",
