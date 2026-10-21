@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-21 23:50:26",
-  "count": 13393,
+  "updated": "2026-10-21 23:54:28",
+  "count": 13398,
   "items": [
+    {
+      "id": "te:markets:593917",
+      "time": "2026-10-21 23:52:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Up on Wednesday — The FTSE 100 edged higher on Wednesday, recovering from two sessions of losses but underperforming other European markets. Oil majors provided support, with BP gaining around 2%, while HSBC, Lloyds Banking Group, NatWest and Standard Chartered advanced between 0.5% and 1.1%. Barclays slipped slightly ahead of its corporate results due on Thursday. Fresnillo fell more than 2% after maintaining its annual silver production outlook despite lower output compared with last year. Investors also assessed fresh UK economic data showing persistent inflationary pressure and rising public borrowing. Annual consumer price inflation accelerated to 3.5% in September, above expectations of 3.4%, potentially strengthening the case for tighter monetary policy from the Bank of England. Meanwhile, government borrowing reached £97.8 billion in the April–September period, exceeding the Office for Budget Responsibility’s March forecast by £6 billion, while September borrowing totalled £24.5 billion."
+    },
+    {
+      "id": "mkt:01a15f28-d69c-7ee0-a92d-b351a6824073",
+      "time": "2026-10-21 23:51:14",
+      "tags": [
+        "MKT News",
+        "NET.O",
+        "Impact bullish"
+      ],
+      "text": "Cloudflare co‑founder and CEO said the company developed a new web application firewall (WAF) to mitigate a set of recently discovered security vulnerabilities; it has been enabled by default and provided free to all customers."
+    },
+    {
+      "id": "mkt:01a15f28-5fae-7ee0-a92d-ae266998d87a",
+      "time": "2026-10-21 23:50:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China's Li meets Putin in St. Petersburg】China's Premier Li met Russian President Putin in St. Petersburg on the afternoon of Oct. 21. Li said China is willing to better leverage bilateral economic complementarities and to maintain the current positive momentum in cooperation, with a focus on deepening practical ties in energy and resources, trade and investment, and transport to secure more tangible results and boost mutual prosperity. He also urged closer communication and coordination with Russia on major international issues and stepped-up cooperation within multilateral platforms including the Shanghai Cooperation Organisation and BRICS to rally greater Global South support in defence of shared interests and fairness."
+    },
+    {
+      "id": "5159084",
+      "time": "2026-10-21 23:50:22",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【李強會見俄羅斯總統普京】10月21日下午，國務院總理李強在聖彼得堡會見俄羅斯總統普京。李強首先轉達習近平主席對普京總統的親切問候和良好祝願。李強表示，在國際形勢持續複雜演變的背景下，中俄保持著緊密協作，是變亂交織的世界中難能可貴的穩定力量。今年以來，兩國元首兩度會晤，就深化中俄關系與合作作出進一步規劃。中方願同俄方加強戰略溝通，夯實政治互信，拓展全方位互利合作，持續增進兩國人民福祉。（新華社）"
+    },
+    {
+      "id": "mkt:01a15f27-cbf4-7ee0-a92d-a6740cd7e786",
+      "time": "2026-10-21 23:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde to speak in 10 minutes."
+    },
     {
       "id": "te:economy:593916",
       "time": "2026-10-21 23:48:25",
