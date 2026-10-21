@@ -1,7 +1,20 @@
 {
   "date": "2026-10-22",
-  "count": 219,
+  "count": 220,
   "items": [
+    {
+      "id": "mkt:01a15ffc-8401-7ee0-a930-6a30a66529a4",
+      "time": "2026-10-22 03:42:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US clarifies reports of Gulf embassy evacuations; order limited to Saudi Arabia】The US State Department said reports that it planned to order evacuations of some Gulf embassy staff were inaccurate. An evacuation directive applies only to non-emergency US government employees and their families in Saudi Arabia. The statement cited increasing hostile actions by Houthi forces against Saudi Arabia, including attacks on civilian airports and other critical infrastructure that have caused civilian casualties and major travel disruption. The department said protecting the safety and security of its personnel and families remains a top priority and it will take all necessary measures to protect and support them."
+    },
     {
       "id": "5159245",
       "time": "2026-10-22 03:38:37",

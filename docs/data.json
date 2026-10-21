@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-22 03:39:58",
-  "count": 13341,
+  "updated": "2026-10-22 03:43:43",
+  "count": 13339,
   "items": [
+    {
+      "id": "mkt:01a15ffc-8401-7ee0-a930-6a30a66529a4",
+      "time": "2026-10-22 03:42:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US clarifies reports of Gulf embassy evacuations; order limited to Saudi Arabia】The US State Department said reports that it planned to order evacuations of some Gulf embassy staff were inaccurate. An evacuation directive applies only to non-emergency US government employees and their families in Saudi Arabia. The statement cited increasing hostile actions by Houthi forces against Saudi Arabia, including attacks on civilian airports and other critical infrastructure that have caused civilian casualties and major travel disruption. The department said protecting the safety and security of its personnel and families remains a top priority and it will take all necessary measures to protect and support them."
+    },
     {
       "id": "5159245",
       "time": "2026-10-22 03:38:37",
@@ -121320,31 +121333,6 @@
         "XAUUSD"
       ],
       "text": "CENTCOM said over the past seven months, aside from US Navy vessels, Iran's Islamic Revolutionary Guard Corps has persistently and indiscriminately targeted thousands of civilian mariners transiting regional waters."
-    },
-    {
-      "id": "5145477",
-      "time": "2026-10-15 03:42:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：10 月 6 日，美軍在阿曼灣擊毀一艘關聯伊朗的獨桅帆船，該船當時正對美國海軍艦艇實施監視與瞄準。過去七個月，伊朗伊斯蘭革命衛隊除襲擊美國軍艦外，還持續無差別襲擊數千名在該海域航行的民用船員。船隻被摧毀前，船上人員已安全撤離，遣返工作正在推進。"
-    },
-    {
-      "id": "5145475",
-      "time": "2026-10-15 03:41:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【波音、通用電氣等航空巨頭CEO與美國交通主管會面，討論適航認證改革】多家主要航空航天企業的執行長正在與美國交通部長肖恩·達菲會面，討論如何簡化新飛機及零部件的監管審批流程。美國政府希望加快適航認證流程，以促進創新並與其他國家競爭，行業高管將就當前體系中哪些環節有效、哪些無效分享看法。此次會議凸顯出各方正協同努力尋求前進路徑，因為近年來適航認證已成為製造商及其增長計劃的關鍵障礙，美國聯邦航空管理局（FAA）已提出一項旨在降低審批成本與耗時的新規。"
-    },
-    {
-      "id": "5145473",
-      "time": "2026-10-15 03:40:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic 強化針對選舉基礎設施的濫用檢測與網路防護能力。"
     }
   ]
 }
