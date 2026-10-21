@@ -1,7 +1,69 @@
 {
-  "updated": "2026-10-21 23:13:55",
-  "count": 13381,
+  "updated": "2026-10-21 23:17:54",
+  "count": 13382,
   "items": [
+    {
+      "id": "te:economy:593911",
+      "time": "2026-10-21 23:17:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Colombia Imports Rise the Most in 4 Years — Colombia's imports surged 31.7% year-on-year to $7.7 billion in August 2026, marking the strongest increase since August 2022, following a 22.9% rise in July. Imports of fuels and extractive industry products jumped 190.1% after increasing 77.3% in the previous month, driven by a sharp 262.6% rise in purchases of oil, petroleum products and related goods. Import growth in manufactured goods also accelerated to 18.9% from 16.1%, supported by stronger purchases of machinery and transport equipment (22.8%) and chemical products (22.2%). Meanwhile, imports of agricultural and food products continued to grow, although at a slower pace of 24.8% compared to 27.2% in July."
+    },
+    {
+      "id": "5159056",
+      "time": "2026-10-21 23:17:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "白宮官員：美方已明確要求人工智慧公司改進檢測能力。AI企業發現漏洞而非製造漏洞。"
+    },
+    {
+      "id": "5159055",
+      "time": "2026-10-21 23:16:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮官員：美方於10月16日獲悉PHP漏洞相關情況。"
+    },
+    {
+      "id": "mkt:01a15f08-5fa2-7ee0-a92c-d981ddaf6fa8",
+      "time": "2026-10-21 23:15:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Israeli Prime Minister Netanyahu instructed the IDF, Mossad and security services to eliminate the Iranian regime."
+    },
+    {
+      "id": "mkt:01a15f07-85f7-7ee0-a92c-d6f76eb79a78",
+      "time": "2026-10-21 23:14:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Nasdaq-100 rose 1.0%; S&P 500 gained 0.4%."
+    },
+    {
+      "id": "5159054",
+      "time": "2026-10-21 23:14:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院拒絕允許美國總統特朗普政府針對跨性別聯邦囚犯的性別肯定醫療服務限制措施生效。"
+    },
     {
       "id": "5159053",
       "time": "2026-10-21 23:11:16",
@@ -121652,51 +121714,6 @@
         "國際"
       ],
       "text": "以色列與美國五角大樓簽署協議，為以色列國防軍購買12架先進的波音阿帕奇攻擊直升機。"
-    },
-    {
-      "id": "5145161",
-      "time": "2026-10-14 23:17:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "英鎊兌美元下跌0.9%至1.3137，創2025年11月以來新低。"
-    },
-    {
-      "id": "5145160",
-      "time": "2026-10-14 23:17:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基會見英國國王查爾斯三世。"
-    },
-    {
-      "id": "5145159",
-      "time": "2026-10-14 23:16:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊稱“全天候”監控霍爾木茲海峽】伊朗伊斯蘭革命衛隊海軍司令阿里·阿茲馬伊13日晚在接受伊朗國家廣播電視臺採訪時表示，美國方面關於霍爾木茲海峽處於開放狀態的說法，與實際情況“完全不符”。"
-    },
-    {
-      "id": "5145158",
-      "time": "2026-10-14 23:15:54",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【蘋果與OpenAI就AI商業秘密大案開庭審理】蘋果公司起訴OpenAI，指控這家AI企業合謀竊取其即將推出產品的專有資訊，雙方即將迎來這場高風險訴訟的首次庭審。週三聽證會有兩項核心議題：蘋果請求法院頒佈禁令，要求OpenAI立刻停止使用據稱被盜的商業秘密；同時OpenAI提出動議，要求全盤駁回蘋果的起訴。儘管雙方兩年前達成合作，將ChatGPT整合至蘋果軟體，但兩家企業已經對峙數月。這場糾紛爆發的背景是數百名蘋果員工跳槽至OpenAI。目前OpenAI目標估值1.4萬億美元並籌備上市，本次訴訟給這家初創公司蒙上陰影。"
-    },
-    {
-      "id": "te:markets:592030",
-      "time": "2026-10-14 23:15:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Sugar Hits 19-month High — Sugar increased to 21.28 USd/Lbs, the highest since February 2025. Over the past 4 weeks, Sugar gained 18.01%, and in the last 12 months, it increased 34.94%."
     }
   ]
 }

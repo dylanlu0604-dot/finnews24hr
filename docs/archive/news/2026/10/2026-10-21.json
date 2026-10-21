@@ -1,7 +1,69 @@
 {
   "date": "2026-10-21",
-  "count": 2433,
+  "count": 2439,
   "items": [
+    {
+      "id": "te:economy:593911",
+      "time": "2026-10-21 23:17:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Colombia Imports Rise the Most in 4 Years — Colombia's imports surged 31.7% year-on-year to $7.7 billion in August 2026, marking the strongest increase since August 2022, following a 22.9% rise in July. Imports of fuels and extractive industry products jumped 190.1% after increasing 77.3% in the previous month, driven by a sharp 262.6% rise in purchases of oil, petroleum products and related goods. Import growth in manufactured goods also accelerated to 18.9% from 16.1%, supported by stronger purchases of machinery and transport equipment (22.8%) and chemical products (22.2%). Meanwhile, imports of agricultural and food products continued to grow, although at a slower pace of 24.8% compared to 27.2% in July."
+    },
+    {
+      "id": "5159056",
+      "time": "2026-10-21 23:17:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "白宮官員：美方已明確要求人工智慧公司改進檢測能力。AI企業發現漏洞而非製造漏洞。"
+    },
+    {
+      "id": "5159055",
+      "time": "2026-10-21 23:16:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮官員：美方於10月16日獲悉PHP漏洞相關情況。"
+    },
+    {
+      "id": "mkt:01a15f08-5fa2-7ee0-a92c-d981ddaf6fa8",
+      "time": "2026-10-21 23:15:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Israeli Prime Minister Netanyahu instructed the IDF, Mossad and security services to eliminate the Iranian regime."
+    },
+    {
+      "id": "mkt:01a15f07-85f7-7ee0-a92c-d6f76eb79a78",
+      "time": "2026-10-21 23:14:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Nasdaq-100 rose 1.0%; S&P 500 gained 0.4%."
+    },
+    {
+      "id": "5159054",
+      "time": "2026-10-21 23:14:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院拒絕允許美國總統特朗普政府針對跨性別聯邦囚犯的性別肯定醫療服務限制措施生效。"
+    },
     {
       "id": "5159053",
       "time": "2026-10-21 23:11:16",
