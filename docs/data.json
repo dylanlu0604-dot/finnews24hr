@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-22 03:06:15",
-  "count": 13333,
+  "updated": "2026-10-22 03:10:01",
+  "count": 13337,
   "items": [
+    {
+      "id": "5159201",
+      "time": "2026-10-22 03:09:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：在多家客戶環境中監測到Storm-0940身份驗證活動，暫未確認發生資料訪問。"
+    },
+    {
+      "id": "5159200",
+      "time": "2026-10-22 03:08:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：Storm-0940“密碼噴灑攻擊行動”在10月10日至14日期間，針對8家機構的327個賬號發起攻擊。"
+    },
+    {
+      "id": "5159199",
+      "time": "2026-10-22 03:08:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：評估認為，Storm-0940 是最近披露的多租戶應用程式 Connectwise 供應鏈攻擊事件的幕後黑手。"
+    },
+    {
+      "id": "5159198",
+      "time": "2026-10-22 03:08:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：Storm-0940 Artex驅動的攻擊在多個例項中不到3小時就獲得了特權雲訪問許可權。"
+    },
+    {
+      "id": "5159197",
+      "time": "2026-10-22 03:07:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：2026年9月，駭客組織Storm-0940使用人工智慧框架Artex對全球數百家組織發起自動化攻擊。"
+    },
+    {
+      "id": "5159196",
+      "time": "2026-10-22 03:06:59",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國準備下令撤離駐海灣多國使館部分工作人員】美國官員稱，美國國務院準備釋出指令，安排駐海灣地區各國大使館的部分人員及其家屬撤離。此舉原因是敵對行動可能再度爆發，尤其是與葉門境內親伊朗胡塞武裝之間的衝突。"
+    },
+    {
+      "id": "mkt:01a15fda-e3e0-7ee0-a930-17e5377f76cb",
+      "time": "2026-10-22 03:05:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Saudi Energy Ministry said an attack on the Shaybah oilfield in Saudi Arabia killed two people."
+    },
     {
       "id": "5159194",
       "time": "2026-10-22 03:05:25",
@@ -121256,43 +121319,6 @@
         "國際"
       ],
       "text": "美聯儲古爾斯比：重點應當關注通脹的趨勢，不能僅憑單份報告下判斷。"
-    },
-    {
-      "id": "5145437",
-      "time": "2026-10-15 03:09:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：消費者物價指數裡的服務通脹值得擔憂。"
-    },
-    {
-      "id": "mkt:01a13bd0-61d8-7ee0-a884-ae955a6bd1e0",
-      "time": "2026-10-15 03:07:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "New York Fed plans to conduct about $14.6 billion of reinvestment purchases between Oct 15 and Nov 13 and will not conduct reserve-management purchases during that period."
-    },
-    {
-      "id": "mkt:01a13bcf-b617-7ee0-a884-a173b02a3deb",
-      "time": "2026-10-15 03:07:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Tasnim reported Yemeni Houthi forces attacked ARAMCO's oil distribution facility north of Jeddah, Saudi Arabia."
     }
   ]
 }
