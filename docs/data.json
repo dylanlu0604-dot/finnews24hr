@@ -1,7 +1,126 @@
 {
-  "updated": "2026-10-21 22:57:39",
-  "count": 13371,
+  "updated": "2026-10-21 23:01:40",
+  "count": 13383,
   "items": [
+    {
+      "id": "mkt:01a15efa-edec-7ee0-a92c-a6969e30ec84",
+      "time": "2026-10-21 23:01:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Apple (AAPL.O) rose over 1% and hit an intraday high."
+    },
+    {
+      "id": "mkt:01a15efa-9d6d-7ee0-a92c-993e8f3a159c",
+      "time": "2026-10-21 23:00:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CAS team reports metal- and ligand-free molecular-sieve-catalyzed olefin carbonylation in Nature】A team led by academician Liu Zhongmin at the Dalian Institute of Chemical Physics, Chinese Academy of Sciences reported a new metal- and ligand-free molecular-sieve-catalyzed olefin carbonylation reaction published in Nature on Oct 21. Carbonylation is a foundational industrial reaction used to produce acetic acid, fragrances and pharmaceutical intermediates."
+    },
+    {
+      "id": "mkt:01a15efa-8f69-7ee0-a92c-91ab2e044d86",
+      "time": "2026-10-21 23:00:41",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O): equipment installation underway at Fab 62 wafer fab in Arizona."
+    },
+    {
+      "id": "5159049",
+      "time": "2026-10-21 23:00:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾在多年延誤後工廠擴建取得進展。"
+    },
+    {
+      "id": "5159048",
+      "time": "2026-10-21 23:00:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾在其俄亥俄州晶片基地安裝首根大型屋頂桁架。"
+    },
+    {
+      "id": "5159047",
+      "time": "2026-10-21 23:00:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾表示，亞利桑那州Fab 62工廠的裝置安裝工作正在進行中。"
+    },
+    {
+      "id": "te:markets:593905",
+      "time": "2026-10-21 23:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Mexican Peso Drops by 1.12% — Top currency losers are Mexican Peso (-1.12%) and Euro (-0.12%). Gains are led by Australian Dollar (0.36%), Norwegian Krone (0.30%) and Dollar Index (0.06%). Meanwhile, British Pound and Japanese Yen were little changed."
+    },
+    {
+      "id": "5159046",
+      "time": "2026-10-21 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】液化石油氣連續跌2.30%，苯乙烯連續漲2.06%，純鹼連續跌1.16%，玻璃連續跌1.06%，PVC連續漲0.92%。"
+    },
+    {
+      "id": "mkt:01a15ef9-7e51-7ee0-a92c-8a457058a211",
+      "time": "2026-10-21 22:59:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PHP: Around 23:00 Beijing time on Oct. 20, CVE identifiers for two security vulnerabilities began circulating on online forums and social media."
+    },
+    {
+      "id": "5159045",
+      "time": "2026-10-21 22:59:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉提議將27%的國會修正案資金用於零票價公共交通。"
+    },
+    {
+      "id": "5159044",
+      "time": "2026-10-21 22:58:49",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【聯合國環境署：全球減排有成效但力度仍不足】聯合國環境規劃署21日釋出的《2026年排放差距報告》顯示，發展可再生能源和實施氣候政策使各國在減排方面取得切實成效，但現行政策和減排承諾仍不足以實現《巴黎協定》提出的控溫目標，各方需進一步加快行動。《巴黎協定》提出，到本世紀末，應將全球平均氣溫較工業化前水平升高幅度控制在2攝氏度之內，併為把升溫幅度控制在1.5攝氏度內而努力。這份報告說，2016年至2025年，全球有63個國家或地區的溫室氣體年排放量下降，同期有90個國家或地區電力行業排放下降。研究發現，2000年至2020年間，各國或各相關行業發生過69次大幅減排，其中63次發生在新出臺或強化氣候相關政策的2年內。（新華社）"
+    },
+    {
+      "id": "5159043",
+      "time": "2026-10-21 22:58:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "PHP：10月20日週二約15:00 UTC，兩個CVE編號開始在網路論壇和社交媒體上流傳。"
+    },
+    {
+      "id": "5159042",
+      "time": "2026-10-21 22:57:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏沙科夫：俄羅斯正與美國討論盧克石油的海外資產問題。"
+    },
+    {
+      "id": "mkt:01a15ef7-5941-7ee0-a92c-84bad3f0dcde",
+      "time": "2026-10-21 22:57:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russian presidential aide USHAKOV says Russia and the US are discussing LUKOIL's overseas assets."
+    },
     {
       "id": "5159041",
       "time": "2026-10-21 22:56:09",
@@ -121587,25 +121706,6 @@
         "資料"
       ],
       "text": "克利夫蘭聯儲：9月CPI中位數環比0.2%，前值0.2%。"
-    },
-    {
-      "id": "te:markets:592023",
-      "time": "2026-10-14 23:00:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Swedish Krona Drops by 1.04% — Top currency losers are Swedish Krona (-1.04%), Mexican Peso (-0.98%), Swiss Franc (-0.74%), British Pound (-0.73%), Euro (-0.68%) and Japanese Yen (-0.32%). Gains are led by Dollar Index (0.66%)."
-    },
-    {
-      "id": "5145145",
-      "time": "2026-10-14 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】焦煤連續跌4.86%，20號膠連續跌3.51%，焦炭連續跌3.14%，天然橡膠連續跌2.84%，純鹼連續跌2.62%。"
     }
   ]
 }
