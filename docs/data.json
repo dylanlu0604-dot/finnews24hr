@@ -1,7 +1,96 @@
 {
-  "updated": "2026-10-21 09:20:25",
-  "count": 13547,
+  "updated": "2026-10-21 09:24:15",
+  "count": 13549,
   "items": [
+    {
+      "id": "mkt:01a15c0d-3f46-7ee0-a914-be900ebe82e2",
+      "time": "2026-10-21 09:22:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【PBOC nets CNY15 bln via reverse repos】PBOC conducted CNY80 bln of overnight reverse repos today; with CNY56 bln of 7-day reverse repos maturing, net liquidity injection amounted to CNY15 bln."
+    },
+    {
+      "id": "mkt:01a15c0d-387b-7ee0-a914-b4cba3fadf4d",
+      "time": "2026-10-21 09:22:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bullish",
+        "HSTECH",
+        "HSCEI"
+      ],
+      "text": "Hong Kong's HSI opened 271.37 points higher (+1.14%) at 24,139.11. The Hang Seng Tech Index opened 64.83 points higher (+1.60%) at 4,110.74. The Hang Seng China Enterprises Index (HSCEI) opened 108.91 points higher (+1.36%) at 8,139.17. The Hang Seng China‑Affiliated Corporations Index (HSCCI) opened 16.25 points higher (+0.41%) at 4,007.70."
+    },
+    {
+      "id": "em:qqyh_zgyh:202610213902220253",
+      "time": "2026-10-21 09:22:06",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行：根據公開市場業務一級交易商的需求，2026年10月21日7天期逆回購操作量為零。同時，開展了800億元隔夜逆回購操作。"
+    },
+    {
+      "id": "5157205",
+      "time": "2026-10-21 09:21:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放240.0億元人民幣。"
+    },
+    {
+      "id": "mkt:01a15c0c-69f0-7ee0-a914-a9c753c8f534",
+      "time": "2026-10-21 09:21:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "00992.HK",
+        "03750.HK",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong stocks opened higher: Hang Seng up 1.14% and Hang Seng Tech up 1.6%. CATL (03750.HK) opened down 2.87% after results, touching the HK$400 level. AI hardware and compute names rebounded; Lenovo Group (00992.HK) rose 6% and Shenghong Technology (02476.HK) gained over 4%."
+    },
+    {
+      "id": "5157204",
+      "time": "2026-10-21 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數漲1.14%，恒生科技指數漲1.60%】聯想集團漲6.02%，小鵬集團-W漲3.72%，百濟神州漲3.28%，信達生物漲3.15%，天數智芯漲2.87%，理想汽車-W漲2.59%，MINIMAX-W漲2.57%。"
+    },
+    {
+      "id": "5157203",
+      "time": "2026-10-21 09:20:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：根據公開市場業務一級交易商的需求，2026年10月21日7天期逆回購操作量為零。同時，開展了800億元隔夜逆回購操作。"
+    },
+    {
+      "id": "mkt:01a15c0b-d6fe-7ee0-a914-a2501d331af8",
+      "time": "2026-10-21 09:20:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "PBOC said that, based on primary dealers' demand, the 7-day reverse repo operation on Oct 21, 2026 was zero and it conducted 80 bln yuan of overnight reverse repos."
+    },
     {
       "id": "5157202",
       "time": "2026-10-21 09:19:22",
@@ -123773,57 +123862,6 @@
         "公司"
       ],
       "text": "【陝西省政府與三大石油公司簽署共建西安石油大學戰略合作框架協議】據陝西日報，10月12日上午，陝西省人民政府與中國石油天然氣集團有限公司、中國石油化工集團有限公司、中國海洋石油集團有限公司共建西安石油大學戰略合作框架協議簽署活動在西安舉行。會上，西安石油大學還與陝西延長石油（集團）有限責任公司簽署了合作協議。"
-    },
-    {
-      "id": "5143346",
-      "time": "2026-10-14 09:22:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京利爾：正全力推進矽碳負極材料量產產線投產】北京利爾(002392)10月14日在互動平臺表示，公司正在全力推進矽碳負極材料量產產線投產工作，宜昌基地計劃於年底前投產。當前矽碳負極材料下游應用滲透率提升明顯，公司將努力把握市場機遇。"
-    },
-    {
-      "id": "5143345",
-      "time": "2026-10-14 09:22:37",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放560億元人民幣。"
-    },
-    {
-      "id": "5143344",
-      "time": "2026-10-14 09:22:11",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "央行公告稱，開展560億元人民幣7天期逆回購操作，利率1.40%，持平於此前1.40%的水平。"
-    },
-    {
-      "id": "5143343",
-      "time": "2026-10-14 09:21:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣加權股價指數上漲1%至48,842.11點。"
-    },
-    {
-      "id": "5143342",
-      "time": "2026-10-14 09:21:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股開盤：恒生指數跌0.26%，恒生科技指數跌0.02%】滙豐控股跌1.13%，藥明康德跌1.16%，藥明生物跌1.17%，百濟神州跌1.40%，金沙中國有限公司跌1.40%，紫金礦業跌1.76%，九龍倉置業跌1.87%。"
-    },
-    {
-      "id": "5143341",
-      "time": "2026-10-14 09:20:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【咸亨國際成為中鹽集團電子商城平臺型集貨服務商】據咸亨國際訊息，近日，咸亨國際與中國鹽業集團有限公司（簡稱“中鹽集團”）完成了“中鹽電子商城2025—2027年度平臺型集貨商入圍專案”合同簽訂，正式成為中鹽集團電子商城平臺型集貨服務商。"
     }
   ]
 }
