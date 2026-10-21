@@ -1,7 +1,63 @@
 {
   "date": "2026-10-21",
-  "count": 740,
+  "count": 746,
   "items": [
+    {
+      "id": "5157154",
+      "time": "2026-10-21 08:51:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "深交所：港股通標的證券名單調整，調入力勤資源、調出偉祿科技股份-舊，10月21日起生效。"
+    },
+    {
+      "id": "mkt:01a15bf0-fa13-7ee0-a914-14962a4980b2",
+      "time": "2026-10-21 08:51:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Shenzhen Stock Exchange said it will adjust the list of securities eligible for Hong Kong Stock Connect, adding Liqin Resources and removing Weilu Technology Co., Ltd. (old shares), effective Oct 21."
+    },
+    {
+      "id": "5157153",
+      "time": "2026-10-21 08:50:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【覆蓋範圍很驚人，警方稱是“惡作劇”，歐洲數百所學校遭“炸彈恐嚇”】當地時間19日，英國、義大利、塞爾維亞等歐洲多國同時接收到炸彈威脅資訊，襲擊目標幾乎全部針對當地的中小學。儘管地方執法部門在調查中並未發現實質性的爆炸物威脅，但這場覆蓋面廣泛的惡作劇事件仍然引發了相當程度的民眾恐慌，造成了極其惡劣的社會影響。（環球網）"
+    },
+    {
+      "id": "te:markets:593592",
+      "time": "2026-10-21 08:49:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Equities Subdued — Australian shares were little changed on Wednesday morning, hovering around 8,810 after ending modestly lower in the prior session. Traders awaited appearances by Reserve Bank Governor Michele Bullock and other policymakers before lawmakers Friday, while also looking toward the release of Australia’s flash October PMI data later this week. The subdued tone followed a mixed session on Wall Street overnight. Gains in communication services, healthcare, and commercial services largely offset weakness in logistics, industrial services, and energy-related stocks. Financials provided support, with the four major banks advancing between 0.6% and 1.2%. Among standout performers were Transurban Group (1.8%), Pro Medicus (1.5%), and Brambles Ltd.(1.2%). On the downside, heavyweight miner BHP Group fell 1.3%, along with Fortescue (-1.0%), Sigma Healthcare (-3.2%), and Codan Ltd. (-1.6%)."
+    },
+    {
+      "id": "5157152",
+      "time": "2026-10-21 08:49:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國Elice執行長：今年營收翻番的計劃是最低目標。"
+    },
+    {
+      "id": "5157151",
+      "time": "2026-10-21 08:49:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國Elice執行長：不擔心IPO後第一週的波動。"
+    },
     {
       "id": "5157150",
       "time": "2026-10-21 08:48:32",

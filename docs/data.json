@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-21 08:49:25",
-  "count": 13531,
+  "updated": "2026-10-21 08:53:17",
+  "count": 13530,
   "items": [
+    {
+      "id": "5157154",
+      "time": "2026-10-21 08:51:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "深交所：港股通標的證券名單調整，調入力勤資源、調出偉祿科技股份-舊，10月21日起生效。"
+    },
+    {
+      "id": "mkt:01a15bf0-fa13-7ee0-a914-14962a4980b2",
+      "time": "2026-10-21 08:51:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Shenzhen Stock Exchange said it will adjust the list of securities eligible for Hong Kong Stock Connect, adding Liqin Resources and removing Weilu Technology Co., Ltd. (old shares), effective Oct 21."
+    },
+    {
+      "id": "5157153",
+      "time": "2026-10-21 08:50:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【覆蓋範圍很驚人，警方稱是“惡作劇”，歐洲數百所學校遭“炸彈恐嚇”】當地時間19日，英國、義大利、塞爾維亞等歐洲多國同時接收到炸彈威脅資訊，襲擊目標幾乎全部針對當地的中小學。儘管地方執法部門在調查中並未發現實質性的爆炸物威脅，但這場覆蓋面廣泛的惡作劇事件仍然引發了相當程度的民眾恐慌，造成了極其惡劣的社會影響。（環球網）"
+    },
+    {
+      "id": "te:markets:593592",
+      "time": "2026-10-21 08:49:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Equities Subdued — Australian shares were little changed on Wednesday morning, hovering around 8,810 after ending modestly lower in the prior session. Traders awaited appearances by Reserve Bank Governor Michele Bullock and other policymakers before lawmakers Friday, while also looking toward the release of Australia’s flash October PMI data later this week. The subdued tone followed a mixed session on Wall Street overnight. Gains in communication services, healthcare, and commercial services largely offset weakness in logistics, industrial services, and energy-related stocks. Financials provided support, with the four major banks advancing between 0.6% and 1.2%. Among standout performers were Transurban Group (1.8%), Pro Medicus (1.5%), and Brambles Ltd.(1.2%). On the downside, heavyweight miner BHP Group fell 1.3%, along with Fortescue (-1.0%), Sigma Healthcare (-3.2%), and Codan Ltd. (-1.6%)."
+    },
+    {
+      "id": "5157152",
+      "time": "2026-10-21 08:49:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國Elice執行長：今年營收翻番的計劃是最低目標。"
+    },
+    {
+      "id": "5157151",
+      "time": "2026-10-21 08:49:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國Elice執行長：不擔心IPO後第一週的波動。"
+    },
     {
       "id": "5157150",
       "time": "2026-10-21 08:48:32",
@@ -123600,67 +123656,6 @@
         "公司"
       ],
       "text": "【雲南鍺業：當前磷化銦晶片市場需求旺盛 公司在手訂單充足】有投資者向雲南鍺業（002428）提問， 請問貴公司在磷化銦襯底上有訂單嗎？國內的還是國外的？公司回答表示：公司控股子公司雲南鑫耀半導體材料有限公司的磷化銦晶片（襯底）已批次生產多年，並保持穩定供貨。當前磷化銦晶片市場需求旺盛，公司在手訂單充足，訂單規格涵蓋2—6英寸，客戶涵蓋國內外下游知名廠商。"
-    },
-    {
-      "id": "5143300",
-      "time": "2026-10-14 08:52:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度比哈爾邦船隻傾覆事故死亡人數升至13人】當地時間13日晚，印度比哈爾邦一艘載有15至20人的小船在前往鄰村參加宴會途中傾覆。據當地官員通報，事故已造成13人死亡，另有數名傷者正在醫院接受救治。印度總理莫迪和比哈爾邦部分官員當晚對船隻傾覆事故中的遇難者表示哀悼。"
-    },
-    {
-      "id": "5143299",
-      "time": "2026-10-14 08:51:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【雄安新區首單“保稅+TIR”業務啟運】據雄安釋出，10月13日，一輛國際公路運輸車駛入雄安綜合保稅區完成裝卸後辦結海關手續，從雄安綜合保稅區卡口駛出。車上裝載近29.79萬元的貨物將經滿洲里公路口岸出境，直達俄羅斯符拉迪沃斯託克。這標誌著雄安新區首單“保稅+TIR（國際公路運輸）”業務正式落地，首次實現了綜合保稅區集貨出口功能與TIR國際公路運輸的疊加。“保稅+TIR”模式將綜合保稅區政策優勢與TIR運輸高效便捷深度融合：企業可將貨物提前存入區內保稅倉庫，根據海外訂單靈活排程、按需集拼發運；出口貨物享受入區退稅，進口貨物入區即保稅，暫緩繳納關稅和進口環節稅。車輛憑TIR證啟運後可實現“一次申報、一證通行、一車直達”，途經各締約國原則上無需重複開箱查驗、換車倒裝。"
-    },
-    {
-      "id": "mkt:01a137e3-bd66-7ee0-a864-237eddc7fdc1",
-      "time": "2026-10-14 08:50:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said all necessary permits for the Alaska LNG project have been approved."
-    },
-    {
-      "id": "5143298",
-      "time": "2026-10-14 08:50:30",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國股市KOSPI指數連跌五日後反彈 晶片股上漲】韓國股市基準的KOSPI指數在經歷了五天下跌後上漲，在晶片股反彈的帶動一度上漲2.6%，最近的下跌吸引了逢低買入者。Eugene Investment & Securities分析師Huh Jae-Hwan在談到週二的大跌時說，“股價的反應並不正常”。外國投資者在盤初交易中買入價值390億韓元的KOSPI股票；本地基金也紛紛買入，而散戶投資者則賣出。三星電子、SK海力士和三星電機對指數漲勢貢獻最大。"
-    },
-    {
-      "id": "5143297",
-      "time": "2026-10-14 08:50:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新大正與蒙古國TSAST PROPERTY簽署戰略合作協議】據新大正訊息，10月13日，新大正與蒙古國TSAST PROPERTY LLC簽訂戰略合作框架協議。雙方將圍繞物業管理、智慧運營、城市服務及相關領域建立長期戰略合作關係，共同拓展蒙古國物業服務市場的發展機遇。"
-    },
-    {
-      "id": "5143296",
-      "time": "2026-10-14 08:50:13",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【晉冀魯豫水泥行業減碳降耗穩增長研討會在河北邯鄲舉行】據中國水泥雜誌，10月12日，晉冀魯豫水泥行業減碳降耗穩增長研討會在河北邯鄲舉行。來自晉冀魯豫四省建材行業協會及重點水泥企業共50餘名領導和代表參會。會議明確了下階段重點工作任務，一是對標國家常態化錯峰生產製度要求，四省將加快編制出臺2026—2027年度錯峰生產政策檔案，依據市場供需態勢和大氣管控要求，科學細化年度錯峰生產方案。二是充分發揮錯峰生產調節供需、最佳化生態的制度效能，以剛性生產管控平衡市場供需，紮實推進行業自救落地見效。三是堅決抵制內卷式惡性競爭，恢復水泥行業的合理盈利水平，為2026年的全年工作收好官，為2027年的起步工作開好局。"
-    },
-    {
-      "id": "5143295",
-      "time": "2026-10-14 08:50:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【長春迎來第33屆大冬會火種】14日上午，第33屆世界大學生冬季運動會（簡稱“大冬會”）火種歡迎儀式在長春舉行。第33屆大冬會將於2027年1月15日至25日舉辦，分為長春市主賽區和吉林市分賽區。這是繼2009年哈爾濱大冬會後，該項冬季體育盛會再次落戶中國。（新華社）"
     }
   ]
 }
