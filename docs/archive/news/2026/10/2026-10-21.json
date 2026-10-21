@@ -1,7 +1,64 @@
 {
   "date": "2026-10-21",
-  "count": 1175,
+  "count": 1181,
   "items": [
+    {
+      "id": "te:markets:593666",
+      "time": "2026-10-21 12:58:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Thailand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Thailand Stocks Ease to 3-Week Low — Thailand’s SET50 Index extended losses for a third session by noon Wednesday, slipping toward 1,038 and touching its lowest level since early October. Sentiment weakened after September consumer confidence fell from a six-month high, while headline inflation hit a five-month peak of 2.82%. Still, gains in U.S. stock futures helped limit the downside as markets assessed the latest corporate earnings releases. Locally, Bangkok last week approved a THB 50 billion housing loan program aimed at helping low- and middle-income households access homeownership. The scheme is also designed to support economic activity, with authorities estimating it could generate up to THB 125 billion in property-related output. Sector-wise, industrial services, energy, and transport stocks led the decline, outweighing gains in communications, consumer durables, and financials. Among the laggards, Delta Electronics fell 4.1%, followed by Kiatnakin Phatra Bank (-2.6%), Banpu (-1.4%), and Bangkok Bank (-1.1%)."
+    },
+    {
+      "id": "te:markets:593664",
+      "time": "2026-10-21 12:57:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural gas Hits 4-week Low — Natural gas decreased to 2.95 USD/MMBtu, the lowest since September 2026. Over the past 4 weeks, Natural gas lost 0.49%, and in the last 12 months, it decreased 14.48%."
+    },
+    {
+      "id": "5157524",
+      "time": "2026-10-21 12:56:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Jefferies：將霸王茶姬評級從持有上調至買入】Jefferies將霸王茶姬評級從持有上調至買入，並將其美國存託憑證目標價從11.80美元上調至14.90美元。Jefferies在研報中稱，中國奶茶連鎖企業霸王茶姬的盈利增長可能強於此前預期。中國同店銷售額增長改善增強了該行對管理層執行力的信心。該機構表示：“我們對長期增長的看法轉趨更加樂觀。”"
+    },
+    {
+      "id": "mkt:01a15cd1-4162-7ee0-a919-644a0d2b0808",
+      "time": "2026-10-21 12:56:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Former EU commissioner seeks Trump help to restore Black Sea grain corridor】Phil Hogan, a candidate to lead the UN food agency and former EU agriculture and trade commissioner, said he would seek engagement with U.S. President Trump and other world leaders to help restart the Black Sea grain export corridor as part of a drive to place food security at the center of geopolitics. He cited a recent rise in Russian attacks on Black Sea port vessels that have blocked Ukrainian exports. Under the Black Sea Grain Initiative the corridor enabled about 32 mln tonnes of grain and food exports in 2022-23."
+    },
+    {
+      "id": "mkt:01a15ccf-e1c9-7ee0-a919-5a746c495e2c",
+      "time": "2026-10-21 12:54:49",
+      "tags": [
+        "MKT News",
+        "BP.L",
+        "Impact bullish"
+      ],
+      "text": "BERENBERG raises BP's price target to 715p from 650p."
+    },
+    {
+      "id": "5157523",
+      "time": "2026-10-21 12:54:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【生態環境部：正在會同有關部門編制相關改革檔案 為建設氣候適應型社會提供有力支撐】生態環境部副部長李高21日在國新辦新聞釋出會上透露，目前，生態環境部正在會同有關部門編制相關改革檔案，將進一步加強頂層設計，強化統籌協調，加快構建“觀測預估、風險評估、適應行動、成效反饋、最佳化提升”的全鏈條工作閉環，紮實推進氣候韌性發展，降低氣候變化風險和損害，為建設氣候適應型社會提供有力支撐。"
+    },
     {
       "id": "5157522",
       "time": "2026-10-21 12:54:19",
