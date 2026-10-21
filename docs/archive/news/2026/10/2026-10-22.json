@@ -1,7 +1,46 @@
 {
   "date": "2026-10-22",
-  "count": 210,
+  "count": 214,
   "items": [
+    {
+      "id": "5159236",
+      "time": "2026-10-22 03:31:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯與烏克蘭同意舉行技術層面三方會談。"
+    },
+    {
+      "id": "5159234",
+      "time": "2026-10-22 03:30:33",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務院：撤離令僅針對沙烏地阿拉伯境內部分工作人員，並非整個海灣地區。"
+    },
+    {
+      "id": "5159229",
+      "time": "2026-10-22 03:29:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者：威特科夫稱普京富有同情心。\n\n特朗普：我想可以這麼說，他畢竟放走了一個原本要終身服刑的人。"
+    },
+    {
+      "id": "mkt:01a15ff0-0803-7ee0-a930-651deb046c53",
+      "time": "2026-10-22 03:28:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "WTI crude fell $0.50 intraday; the U.S. State Department ordered non-emergency U.S. government employees and their families to depart Saudi Arabia."
+    },
     {
       "id": "mkt:01a15fee-cf84-7ee0-a930-589b144f6e6d",
       "time": "2026-10-22 03:27:28",
