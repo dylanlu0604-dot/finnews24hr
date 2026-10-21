@@ -1,7 +1,182 @@
 {
-  "updated": "2026-10-21 17:59:02",
-  "count": 13350,
+  "updated": "2026-10-21 18:03:12",
+  "count": 13370,
   "items": [
+    {
+      "id": "mkt:01a15de9-5415-7ee0-a924-35023920fdfe",
+      "time": "2026-10-21 18:02:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DOE says loaned heating oil stocks must be returned before the 2027-28 winter."
+    },
+    {
+      "id": "5158361",
+      "time": "2026-10-21 18:02:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部：特朗普政府提出出借東北部家庭取暖油儲備中最多近三分之一的庫存，該儲備總量為100萬桶。"
+    },
+    {
+      "id": "5158360",
+      "time": "2026-10-21 18:02:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比<INR=IN>收漲0.5%，報94.46盧比兌1美元；前一交易日收盤價為94.9250。"
+    },
+    {
+      "id": "mkt:01a15de9-1ea1-7ee0-a924-28fc8b4da5c6",
+      "time": "2026-10-21 18:02:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "DOE says the Trump administration proposes loaning up to nearly one-third of the 1 mln-barrel Northeast Home Heating Oil Reserve."
+    },
+    {
+      "id": "5158359",
+      "time": "2026-10-21 18:01:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中青旅：擬調整掛牌出售山水酒店股權及債權的價格】中青旅公告稱，公司此前擬公開掛牌轉讓控股子公司中青旅山水酒店集團股份有限公司51%股權及對其享有的債權，截至目前未徵集到符合條件的意向受讓方。公司提請股東會授權董事會及經營層，在股權價格不低於備案後評估結果70%、債權價格不低於備案後評估結果的範圍內，確定後續輪次掛牌價格及交易策略，辦理本次交易相關工作。該議案已經公司第十屆董事會2026年第四次臨時會議審議透過，現提請股東會審議。"
+    },
+    {
+      "id": "mkt:01a15de9-0293-7ee0-a924-229789e87c8b",
+      "time": "2026-10-21 18:01:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【General Office of the CPC Central Committee and General Office of the State Council call for high-quality 'technology board' in bond market】The General Office of the CPC Central Committee and the General Office of the State Council issued opinions urging deeper integration of tech innovation, industrial innovation and finance and promoting a tech–industry–finance virtuous cycle. They call for a tech-finance system aligned with tech firms’ full life-cycle financing needs and for use of the national venture capital guiding fund. Government-backed venture funds and state-capital VC are to prioritise early-stage, smaller-ticket, long-duration and hard‑tech investments and to strengthen long-cycle performance assessment, differentiated supervision and exit mechanisms. The paper promotes an \"innovation points system\" to quantify tech SME innovation capacity, mandates high-quality construction of a bond-market \"technology board\", and seeks to establish a technology insurance policy framework."
+    },
+    {
+      "id": "5158358",
+      "time": "2026-10-21 18:01:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【觀想科技：籌劃重大資產購買暨關聯交易事項進展】觀想科技公告稱，公司擬以支付現金方式購買遼晶電子60%股權，本次交易構成關聯交易，不構成重組上市，交易完成後遼晶電子將成為公司控股子公司。公司已披露本次交易草案，近日收到深交所重組問詢函，正組織相關方落實回覆工作。本次交易尚需公司股東會審議透過、取得軍工事項審查意見及其他所需批准或備案後方可實施，相關審批能否完成及完成時間存在不確定性。"
+    },
+    {
+      "id": "5158357",
+      "time": "2026-10-21 18:01:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【超聲經顱多普勒血流分析儀校準規範釋出 12月25日起正式實施】今天瞭解到，市場監管總局釋出國家計量技術規範《超聲經顱多普勒血流分析儀校準規範》，將自2026年12月25日起正式實施，為超聲經顱多普勒血流分析儀（TCD儀）確立統一計量技術依據，以精準計量守護群眾就醫安全，夯實民生健康保障底線。《規範》落地實施，為裝置研發生產、出廠檢驗、臨床在用儀器計量提供權威標尺，既引導企業貼合臨床實際最佳化產品效能，也為計量監管提供堅實技術支撐，保障醫療裝置量值準確可溯源。（央視新聞）"
+    },
+    {
+      "id": "5158356",
+      "time": "2026-10-21 18:00:39",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【中共中央辦公廳、國務院辦公廳釋出關於推動科技創新和產業創新深度融合的意見】10月21日，中共中央辦公廳、國務院辦公廳對外發布《關於推動科技創新和產業創新深度融合的意見》，要求以發展新質生產力、建設現代化產業體系為目標，以構建企業主導、各主體協同的產學研融通創新體系為重點，推動全鏈條貫通、全領域覆蓋、全要素融通、全方位保障，形成科技創新和產業創新互融共促新格局。意見圍繞促進創新鏈產業鏈無縫對接、以高質量科技供給支撐現代化產業體系建設、加強企業主導的產學研融通創新、提高創新資源統籌配置效能、營造深度融合的良好生態和拓展深度融合的發展空間6個方面作出具體部署。（新華社）"
+    },
+    {
+      "id": "mkt:01a15de7-bb5b-7ee0-a924-1966ec76e59d",
+      "time": "2026-10-21 18:00:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The General Office of the CPC Central Committee and the General Office of the State Council issued opinions to promote deeper integration of technological innovation and industrial innovation in China, Xinhua said."
+    },
+    {
+      "id": "5158355",
+      "time": "2026-10-21 18:00:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超聲經顱多普勒血流分析儀校準規範釋出 12月25日起正式實施】今天瞭解到，市場監管總局釋出國家計量技術規範《超聲經顱多普勒血流分析儀校準規範》，將自2026年12月25日起正式實施，為超聲經顱多普勒血流分析儀（TCD儀）確立統一計量技術依據，以精準計量守護群眾就醫安全，夯實民生健康保障底線。《規範》落地實施，為裝置研發生產、出廠檢驗、臨床在用儀器計量提供權威標尺，既引導企業貼合臨床實際最佳化產品效能，也為計量監管提供堅實技術支撐，保障醫療裝置量值準確可溯源。（央視新聞）"
+    },
+    {
+      "id": "5158354",
+      "time": "2026-10-21 18:00:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劉海星會見盧安達愛國陣線代表團】10月21日，中共中央對外聯絡部部長劉海星在北京會見由總書記巴齊瓦莫率領的盧安達愛國陣線代表團。雙方就共同落實兩國元首重要共識，加強黨際交流合作，推動中盧、中非關係發展等交換意見。（新華社）"
+    },
+    {
+      "id": "5158353",
+      "time": "2026-10-21 18:00:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【飛南資源：在鞏固國內原料市場基礎上，重點開發海外原料市場】飛南資源10月21日在互動平臺表示，目前公司在鞏固國內原料市場的基礎上，重點開發海外原料市場。柬埔寨基地主要採購海外含銅鎳等金屬物料，初步加工為粗銅等中間產品後用於國內基地進行深度資源化，形成海外差異化佈局，增強原料保障能力，進一步提升國內銅鎳等金屬產能。"
+    },
+    {
+      "id": "te:markets:593812",
+      "time": "2026-10-21 17:59:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Weakens Amid French Fiscal Concerns — The euro remained under pressure around $1.122, as rising French borrowing costs and worsening tensions between the US and Europe over Russia’s war in Ukraine weighed on sentiment. France’s 10-year OAT yield climbed above 5%, its highest level since 2002, reflecting mounting concerns over France’s public finances and social unrest. Meanwhile, relations between Washington and European allies have deteriorated as US President Donald Trump deepens his engagement with Russian President Vladimir Putin. Recent moves, including easing sanctions on Moscow and questioning Ukraine’s political leadership, have heightened uncertainty over Western unity and future support for Kyiv. Elsewhere, rising oil prices amid the ongoing Iran war have intensified inflation concerns and increased expectations of tighter monetary policy, weighing on Europe’s growth outlook. Political uncertainty ahead of key elections across major European economies has added to the pressure on the single currency."
+    },
+    {
+      "id": "mkt:01a15de6-cabe-7ee0-a924-113148174a98",
+      "time": "2026-10-21 17:59:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【Franklin Templeton warns markets unprepared for potential eurozone debt crisis 2.0】Franklin Templeton’s fixed-income team, led by global CIO Sonal Desai, warned sustained selling of French government bonds could escalate into a eurozone debt crisis potentially more severe than the crisis of the early 2010s and said markets are unprepared. On Tuesday the 10-year French yield premium to German Bunds topped 150bps for the first time since January 2012. Desai said France — the eurozone’s second-largest economy (GDP ~€3.0t) with roughly €3.6t of debt — would present a far larger stress test for the EU than past sovereign cases; its debt stock is more than ten times Greece’s, making simple bailout options infeasible."
+    },
+    {
+      "id": "5158352",
+      "time": "2026-10-21 17:59:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微芯生物：擬與參股公司合作開發NW001專案 涉關聯交易】微芯生物公告稱，公司及全資子公司成都微芯擬與參股關聯方微芯新域簽訂NW001專案合作開發協議，共同推進該專案從IND申報至上市許可及商業化。NW001為表觀免疫偶聯藥物，其IND申請已於2026年10月16日獲國家藥監局藥審中心批准。協議生效後，公司將分階段向微芯新域支付合計不超過3000萬元研發里程碑款，另涉及對外授權收入、商業化利潤按比例分配。本次交易不構成重大資產重組，無需提交股東會審議。專案研發及商業化存在不確定性，暫無法預測對業績的影響。"
+    },
+    {
+      "id": "5158351",
+      "time": "2026-10-21 17:59:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天潤乳業：收到政府補助762.76萬元】天潤乳業(600419)10月21日公告，公司20日收到政府補助762.76萬元，均為與收益相關的政府補助，佔公司2025年度歸母淨利潤的18.39%，預計將增加公司2026年度歸母淨利潤301.9萬元。"
+    },
+    {
+      "id": "5158350",
+      "time": "2026-10-21 17:58:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "港交所：貝萊德於10月16日將長城汽車<2333.HK>H股的多頭持倉從10.92%增加至11.78%。"
+    },
+    {
+      "id": "5158349",
+      "time": "2026-10-21 17:58:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【佳賢通訊AI-RAN基站將重點拓展海外市場，正與北美客戶溝通談判】10月21日，在通宇通訊與佳賢通訊戰略釋出會上，介面新聞記者就佳賢通訊AI-RAN基站未來主要面向國內還是海外，以及此前傳聞的北美合作伙伴和客戶進展提問。佳賢通訊董事長任恩賢表示，公司目前業務主力仍在國內，未來戰略重心將轉向海外，主要原因之一是海外AI-RAN基站利潤空間較好。目前，公司正與北美客戶進行溝通談判。通宇通訊董事會秘書潘益平也向記者表示，“通宇通訊未來的戰略重心是在海外，北美是我們重要的一個市場，我們也希望未來有可能進入大廠供應鏈。”"
+    },
     {
       "id": "5158348",
       "time": "2026-10-21 17:58:28",
@@ -9,6 +184,15 @@
         "其他"
       ],
       "text": "香港交易所：貝萊德於10月16日將其在海爾智家<6690.HK>的H股多頭持倉從7.26%增至8.34%。"
+    },
+    {
+      "id": "5158347",
+      "time": "2026-10-21 17:58:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【大業股份：股票交易異常波動 澄清人形機器人相關概念】大業股份公告稱，公司股票於2026年10月20日、10月21日連續兩個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形；自2026年10月16日以來累計漲幅達46.39%，存在短期漲幅較大後續下跌風險。公司主營業務為胎圈鋼絲、鋼簾線及膠管鋼絲的研發、生產和銷售，機器人腱繩產品尚未批次生產、未產生實質性收益，相關業務未來存在重大不確定性。公司最近12個月歸母淨利潤為虧損，滾動市盈率為負，與行業平均水平存在顯著差異。經核查，公司及控股股東、實控人不存在應披露而未披露的重大事項。"
     },
     {
       "id": "mkt:01a15de5-a9d3-7ee0-a924-0bb9eefc7a1d",
