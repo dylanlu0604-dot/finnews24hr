@@ -1,7 +1,32 @@
 {
   "date": "2026-10-21",
-  "count": 2423,
+  "count": 2426,
   "items": [
+    {
+      "id": "mkt:01a15efd-34ae-7ee0-a92c-b32e72d7e7e3",
+      "time": "2026-10-21 23:03:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "After two CVE numbers for PHP vulnerabilities circulated online on Oct. 20, no technical details were disclosed."
+    },
+    {
+      "id": "5159050",
+      "time": "2026-10-21 23:01:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "蘋果股價上漲逾1%，創盤中新高。"
+    },
+    {
+      "id": "mkt:01a15efb-186b-7ee0-a92c-ad98ac2fbb5a",
+      "time": "2026-10-21 23:01:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Domestic main futures contracts closed mostly lower at 23:00, with caustic soda and liquefied petroleum gas (LPG) down more than 2%. Polypropylene month-average, soda ash, propylene and glass fell over 1%; short fiber declined about 1%. Styrene (EB) rose more than 2%; PVC, ethylene glycol (EG) and benzene gained near 1%."
+    },
     {
       "id": "mkt:01a15efa-edec-7ee0-a92c-a6969e30ec84",
       "time": "2026-10-21 23:01:05",
