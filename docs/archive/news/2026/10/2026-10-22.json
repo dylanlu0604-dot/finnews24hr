@@ -1,7 +1,42 @@
 {
   "date": "2026-10-22",
-  "count": 201,
+  "count": 205,
   "items": [
+    {
+      "id": "mkt:01a15feb-3dad-7ee0-a930-4bc11bd2159f",
+      "time": "2026-10-22 03:23:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) gains quickly narrowed to 0.85% after earlier rising as much as 2.71%."
+    },
+    {
+      "id": "5159221",
+      "time": "2026-10-22 03:22:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic與HCLTech簽約，合作部署Claude。"
+    },
+    {
+      "id": "5159220",
+      "time": "2026-10-22 03:22:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "Stripe：Anthropic將公司的Link錢包和配置功能整合到Claude Loop應用中。"
+    },
+    {
+      "id": "5159219",
+      "time": "2026-10-22 03:21:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta股價跳水，迅速抹平漲幅。"
+    },
     {
       "id": "mkt:01a15fe8-7e3c-7ee0-a930-4571db7523e7",
       "time": "2026-10-22 03:20:34",
