@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-22 03:32:29",
-  "count": 13346,
+  "updated": "2026-10-22 03:36:13",
+  "count": 13343,
   "items": [
+    {
+      "id": "5159239",
+      "time": "2026-10-22 03:34:08",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人：胡塞武裝加大了對沙烏地阿拉伯的襲擊力度，襲擊目標包括民用機場和關鍵基礎設施。"
+    },
+    {
+      "id": "5159238",
+      "time": "2026-10-22 03:33:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪將推出用於AI購物管控的智慧代理檔案，該工具支援使用者透過應用程式與智慧代理完成購物，允許使用者為AI智慧代理設定消費限額。"
+    },
     {
       "id": "5159236",
       "time": "2026-10-22 03:31:34",
@@ -121349,56 +121366,6 @@
         "國際"
       ],
       "text": "【伊朗議長：目標不是“無休止的戰爭”或“曠日持久的談判”】法爾斯通訊社報道，伊朗議會議長卡利巴夫表示，“我們戰鬥是為了消耗敵人的力量，迫使其接受我們的要求。”卡利巴夫表示，伊朗的目標不是“無休止的戰爭”或“曠日持久的談判”，他重申，為了實現目標，伊朗既戰也談。“民眾關心的一個重要問題是，與美國人談判並簽署一份他們承諾不攻擊伊朗的檔案，能否形成威懾。答案無疑是否定的。”他重申，美國總統曾作出承諾，但又違背了承諾。"
-    },
-    {
-      "id": "mkt:01a13be9-764d-7ee0-a884-d654e5f1f193",
-      "time": "2026-10-15 03:35:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran speaker Ghalibaf says Iran must fight while negotiating to force US to accept demands】Iranian parliament speaker Ghalibaf said negotiating and US promises cannot guarantee Washington will stop attacking Iran. He outlined a two-stage strategy: first win strategic advantage through fighting, then use that leverage to compel the US to accept an understanding, converting military gains into political benefits, resources and time to strengthen deterrence. He said fighting alongside negotiations does not imply endless war but aims to pressure the enemy into accepting Iran’s legitimate demands. Ghalibaf accused the US of breaking prior commitments and said Washington must be punished, change its behavior and ultimately accept Iran’s terms."
-    },
-    {
-      "id": "5145466",
-      "time": "2026-10-15 03:34:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "Anthropic：Claude 將在美國大選之夜及後續數日展示實時選舉結果。"
-    },
-    {
-      "id": "5145465",
-      "time": "2026-10-15 03:34:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：葉門政府外長已請求美國為政府軍和海岸警衛隊提供訓練及情報支援，葉門政府目前不尋求與胡塞武裝啟動談判。"
-    },
-    {
-      "id": "5145464",
-      "time": "2026-10-15 03:34:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "Anthropic ：本月晚些時候，Claude 將為美國使用者接入 Democracy Works 提供的官方投票資訊。"
-    },
-    {
-      "id": "mkt:01a13be8-14ad-7ee0-a884-c925fc31128d",
-      "time": "2026-10-15 03:33:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "CBS reports Yemen’s foreign minister has asked the US for training and intelligence support for government forces and the coast guard. The Yemeni government said it is not seeking to open negotiations with Houthi militants."
     }
   ]
 }
