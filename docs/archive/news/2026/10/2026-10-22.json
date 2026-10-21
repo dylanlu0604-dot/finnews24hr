@@ -1,7 +1,101 @@
 {
   "date": "2026-10-22",
-  "count": 191,
+  "count": 201,
   "items": [
+    {
+      "id": "mkt:01a15fe8-7e3c-7ee0-a930-4571db7523e7",
+      "time": "2026-10-22 03:20:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "Semafor reports Meta Platforms (META.O) may as soon as Wednesday, when it reports quarterly results, formally announce a plan to issue non-voting shares to fund AI investment; the move would not dilute Zuckerberg's control."
+    },
+    {
+      "id": "5159218",
+      "time": "2026-10-22 03:20:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI呼籲加強前沿人工智慧安全保障。"
+    },
+    {
+      "id": "5159217",
+      "time": "2026-10-22 03:20:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta的（無投票權股票）計劃不會稀釋扎克伯格的控制權。"
+    },
+    {
+      "id": "5159216",
+      "time": "2026-10-22 03:19:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta的相關計劃最早可能於週三宣佈。"
+    },
+    {
+      "id": "5159215",
+      "time": "2026-10-22 03:18:56",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "Meta計劃推出新的無投票權股票。"
+    },
+    {
+      "id": "5159214",
+      "time": "2026-10-22 03:18:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "芝商所執行長：能源行業的大型企業希望暫緩推進全天候石油交易。"
+    },
+    {
+      "id": "5159213",
+      "time": "2026-10-22 03:18:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭基輔市區傳出連續爆炸聲】當地時間21日，烏克蘭基輔市區響起連續爆炸聲。基輔市市長克利奇科稱，基輔遭彈道導彈襲擊。"
+    },
+    {
+      "id": "5159212",
+      "time": "2026-10-22 03:17:44",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國國債期貨跌至日內低點 油價再度攀升】美國2年至10年期國債期貨跌至日內低點。美國正準備下令駐海灣地區使館部分職員撤離，油價隨後回升。短端和中段領跌，推動5s30s利差降至日內最窄水平。美國國債短端至中段收益率上漲4-5個基點，而20年期和30年期收益率上漲約2個基點。WTI原油期貨抹去跌幅，轉為上漲，漲幅約0.4%。"
+    },
+    {
+      "id": "mkt:01a15fe5-7c9d-7ee0-a930-3cfd854b2b36",
+      "time": "2026-10-22 03:17:17",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "US President Trump said a resolution to the Russia-Ukraine conflict is increasingly close."
+    },
+    {
+      "id": "5159211",
+      "time": "2026-10-22 03:17:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "芝商所執行長：使用VPN進行的非法石油交易無人監管。"
+    },
     {
       "id": "mkt:01a15fe5-1f44-7ee0-a930-32bf04fc1a19",
       "time": "2026-10-22 03:16:53",
