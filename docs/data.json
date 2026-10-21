@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-21 23:17:54",
-  "count": 13382,
+  "updated": "2026-10-21 23:22:09",
+  "count": 13386,
   "items": [
+    {
+      "id": "5159059",
+      "time": "2026-10-21 23:21:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總統塞西：埃及的軍事參與嚴格限於保衛沙烏地阿拉伯，不涉及對葉門的進攻。"
+    },
+    {
+      "id": "mkt:01a15f0d-269c-7ee0-a92d-005f4d6ba9c9",
+      "time": "2026-10-21 23:20:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Egyptian President Sisi said Egypt's military intervention is strictly limited to defending Saudi Arabia and does not include offensive operations against Yemen."
+    },
+    {
+      "id": "mkt:01a15f0b-da44-7ee0-a92c-faf27f51bde2",
+      "time": "2026-10-21 23:19:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. to lend roughly one-third of heating oil reserve to curb diesel price surge】The DOE said the Trump administration plans to lend nearly one-third of the 1.0 mln-barrel emergency heating oil reserve to ease upward pressure on oil/diesel prices. Heating oil is similar in composition to diesel; diesel has surged above $6.50/gal amid Middle East supply disruption tied to the Iran war. The DOE said it will assess whether further releases are needed and will run a loan bid program for fuel retailers and end holders to direct supply to shortage-hit regions. Energy Secretary Wright said the administration is committed to doing everything possible to lower energy costs."
+    },
+    {
+      "id": "mkt:01a15f0a-fcc2-7ee0-a92c-f38e3545c6df",
+      "time": "2026-10-21 23:18:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. officials say AI firms discovered vulnerabilities rather than created them."
+    },
+    {
+      "id": "5159058",
+      "time": "2026-10-21 23:18:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪拜水電局（DEWA）與華為簽署協議，採購華為軟硬體產品、解決方案以及配套支援與增值服務。"
+    },
+    {
+      "id": "mkt:01a15f0a-4b3a-7ee0-a92c-eb92d99c6659",
+      "time": "2026-10-21 23:17:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. official said Washington has asked AI firms to improve remediation procedures."
+    },
+    {
+      "id": "mkt:01a15f0a-1f64-7ee0-a92c-e68535379988",
+      "time": "2026-10-21 23:17:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "Dubai Electricity and Water Authority (DEWA) signed an agreement with Huawei under which Huawei will supply hardware and software products and solutions, and provide related support and value‑added services."
+    },
+    {
+      "id": "5159057",
+      "time": "2026-10-21 23:17:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員：美國正在評估PHP可能對政府系統造成的影響。"
+    },
     {
       "id": "te:economy:593911",
       "time": "2026-10-21 23:17:17",
@@ -121682,38 +121759,6 @@
         "Importance 1"
       ],
       "text": "Eli Lilly Shares Hit 7-week High — Eli Lilly shares increased to 1215.00 USD, the highest since August 2026. Over the past 4 weeks, Eli Lilly gained 6.9%, and in the last 12 months, it increased 46.93%."
-    },
-    {
-      "id": "5145165",
-      "time": "2026-10-14 23:20:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI在蘋果訴OpenAI一案的法律文書中稱，該員工洩露的檔案還包含裝置製造相關資料。"
-    },
-    {
-      "id": "5145164",
-      "time": "2026-10-14 23:19:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果訴OpenAI案法庭簡報：OpenAI稱蘋果並未保證，其沒有持有、也未使用OpenAI機密資料。"
-    },
-    {
-      "id": "5145163",
-      "time": "2026-10-14 23:19:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果與OpenAI訴訟中，OpenAI提交的簡報稱，洩露的檔案包括未釋出的裝置詳細影象、工程資料及供應商資訊。"
-    },
-    {
-      "id": "5145162",
-      "time": "2026-10-14 23:17:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列與美國五角大樓簽署協議，為以色列國防軍購買12架先進的波音阿帕奇攻擊直升機。"
     }
   ]
 }
