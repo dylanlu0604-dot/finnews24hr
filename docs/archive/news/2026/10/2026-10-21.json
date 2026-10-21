@@ -1,7 +1,84 @@
 {
   "date": "2026-10-21",
-  "count": 721,
+  "count": 729,
   "items": [
+    {
+      "id": "mkt:01a15be7-777a-7ee0-a913-fb39bb4014a2",
+      "time": "2026-10-21 08:40:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【South Korea exports up 105.4% YoY in first 20 days of October; AI-driven semiconductor shipments underpin gains】Korea Customs Service data on Wednesday showed exports in the first 20 days of October rose 105.4% YoY unadjusted, led by semiconductor shipments amid strong global AI demand. Adjusting for working-day differences, exports rose 65.9% YoY, down from September’s 89.8% pace. Imports climbed 42.8% YoY, producing a $14.5bn trade surplus. Exports totaled $61.6bn in the first 20 days of October versus $71.4bn in the same period of September."
+    },
+    {
+      "id": "5157141",
+      "time": "2026-10-21 08:40:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精準打擊違規減持 證監會新規帶來了這些變化】證監會日前釋出《違規轉讓證券案件行政處罰實施規則》，今年12月1日起施行。新規以十八條細則細化了違規減持的認定標準、統一處罰裁量尺度，分類施策、精準定責，向市場清晰地傳遞出了從嚴監管、精準執法的導向。具體看，這份新規最大的亮點，就是告別“模糊裁量”，實現監管的精準化、標準化。以往的案例中，很多時候大家會發現大股東、實控人違規減持的情形非常複雜，在認定的時候就存在彈性空間，裁量尺度上難免有差別，使得市場對於監管預期把握不穩定，震懾違法違規的效果就要打折扣。此次新規將違規轉讓證券行為科學劃分為四大類，區分原始股違規轉讓、突破鎖定期、減持數量與披露不合規、未按要求暫停交易等不同情形；配套差異化的裁量階次，設定“違規轉讓比例+金額”雙指標，從重、一般、從輕梯度清晰，做到“一把尺子量到底”；既避免了處罰上的尺度爭議，又對危害最突出的原始股違規減持設定更高的處罰上限，真正讓違法成本匹配違法危害，也就是剛剛講到的，要體現“從嚴監管、精準執法”的原則導向。（央視）"
+    },
+    {
+      "id": "5157140",
+      "time": "2026-10-21 08:39:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【水利部出臺母親河復甦行動標準】近日，由水利部制定的我國首部河湖復甦行業標準《河湖復甦技術導則》（SL/T 884—2026）正式釋出，將於2026年12月11日起全面實施。此次釋出的導則聚焦因不合理人為活動導致河流斷流、湖泊萎縮、水動力不足以及由此產生水生態損害等問題河湖，明確瞭如何衡量河湖復甦標準，如何確定河湖復甦目標，如何制定河湖復甦措施等技術要求，為指導母親河復甦行動提供技術依據。"
+    },
+    {
+      "id": "te:markets:593590",
+      "time": "2026-10-21 08:39:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Stocks Rally on AI Optimism — The Nikkei 225 Index jumped 2% to above 65,000 on Wednesday, rebounding from one-month lows, with AI-related shares leading the gains as strong results from server manufacturer Super Micro Computer boosted the spending outlook for AI spending. Robust earnings from Elon Musk’s SpaceX, driven by growth in its AI and satellite internet businesses, also supported sentiment towards the sector. Among the top tech performers in Japan were Kioxia Holdings (5.1%), Advantest (4.8%), SoftBank Group (3.5%), Lasertec (3.2%), and Taiyo Yuden (2.7%). Financial stocks also rebounded, with Mitsubishi UFJ rising 1.6% and Sumitomo Mitsui gaining 1.4%. Meanwhile, data showed that Japanese exports increased 16.7% in September, falling short of the 20.1% forecast and marking the slowest growth since April. Still, exports extended their growth streak to 13 consecutive months, supported by strong demand for semiconductors and AI-related products."
+    },
+    {
+      "id": "5157139",
+      "time": "2026-10-21 08:38:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國出口保持強勁增勢 央行利率決議前夕凸顯經濟韌性】韓國10月出口保持強勁增長勢頭，全球對人工智慧的旺盛需求推動半導體出貨量增長，在央行作出利率決定前夕凸顯了經濟的韌性。據海關週三公佈的資料，經工作日差異調整後，10月前20天的出口同比增長65.9%。9月同期增幅為89.8%。未經調整的資料顯示，出口增長105.4%，進口增長42.8%，貿易順差145億美元。本月前20天出口總額616億美元，9月同期出口額為714億美元。由於今年的中秋節假期在9月，去年在10月，因此同比資料存在偏差，經工作日調整後的資料更能反映潛在趨勢。半導體行業依然是經濟增長的主要引擎，晶片出口額較上年同期飆升222.5%，達到275億美元。石油產品出口增長68.3%，汽車出口增長近41%。這些資料進一步印證了經濟由半導體行業驅動，同時也令通脹保持高位。這些資料還將為韓國央行提供重要考量因素，該行將在週四公佈利率決議。市場普遍預期韓國央行將維持政策不變，因為該行正在權衡近期加息的影響。"
+    },
+    {
+      "id": "mkt:01a15be5-25cf-7ee0-a913-f1697b41ed18",
+      "time": "2026-10-21 08:38:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. Commerce Secretary announced new semiconductor manufacturing investment in North Carolina."
+    },
+    {
+      "id": "5157138",
+      "time": "2026-10-21 08:38:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【和譽醫藥Lavengratinib治療軟骨發育不全獲EMA授予孤兒藥資格】10月21日，和譽醫藥宣佈，公司自主研發的選擇性口服小分子FGFR2/3抑制劑lavengratinib（ABSK061）用於治療軟骨發育不全（Achondroplasia，ACH）已獲得歐洲藥品管理局（European Medicines Agency，EMA）授予的孤兒藥資格（Orphan Designation，OD）。"
+    },
+    {
+      "id": "5157137",
+      "time": "2026-10-21 08:37:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國10月出口保持強勁增長勢頭，半導體行業依然是經濟增長的主要引擎，晶片出口額較上年同期飆升222.5%，達到275億美元。石油產品出口增長68.3%，汽車出口增長近41%。"
+    },
     {
       "id": "mkt:01a15be4-6097-7ee0-a913-ed5c68a39d57",
       "time": "2026-10-21 08:37:35",
