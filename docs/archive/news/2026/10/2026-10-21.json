@@ -1,7 +1,25 @@
 {
   "date": "2026-10-21",
-  "count": 2426,
+  "count": 2428,
   "items": [
+    {
+      "id": "5159051",
+      "time": "2026-10-21 23:06:31",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【騰訊雲釋出PHP \"php2shell\" 遠端程式碼執行漏洞風險通告】騰訊雲安全中心監測到，PHP 被披露其存在遠端程式碼執行漏洞，漏洞編號分別為CVE-2026-109618, CVE-2026-109619，代號 \"php2shell\"。可導致未經身份驗證的遠端攻擊者透過傳送特製的 multipart POST 請求，觸發記憶體破壞並最終實現遠端程式碼執行，從而完全控制伺服器等危害。騰訊雲安全建議您及時開展安全自查，如在受影響範圍，請您及時進行更新修復，避免被外部攻擊者入侵。"
+    },
+    {
+      "id": "mkt:01a15eff-3fa0-7ee0-a92c-bc03de217143",
+      "time": "2026-10-21 23:05:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PHP: Mitigation guidance provided on or around Oct. 20 to a small number of critical infrastructure operators may have been leaked."
+    },
     {
       "id": "mkt:01a15efd-34ae-7ee0-a92c-b32e72d7e7e3",
       "time": "2026-10-21 23:03:34",
