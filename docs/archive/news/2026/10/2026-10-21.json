@@ -1,7 +1,67 @@
 {
   "date": "2026-10-21",
-  "count": 1278,
+  "count": 1285,
   "items": [
+    {
+      "id": "mkt:01a15d01-0ec1-7ee0-a91a-6fcbe662f313",
+      "time": "2026-10-21 13:48:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Container shipping index (Europe route) most-active contract fell 200.0 points intraday to 2,453.0, down 7.54%."
+    },
+    {
+      "id": "mkt:01a15d00-a5fc-7ee0-a91a-61ceda6cf4f5",
+      "time": "2026-10-21 13:48:05",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Deutsche Bank CEO says the situation in France is concerning."
+    },
+    {
+      "id": "mkt:01a15d00-a1b0-7ee0-a91a-5bdc0fdf9f4b",
+      "time": "2026-10-21 13:48:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US presidential envoy Witkoff arrives in Russia today】TASS reported Oct 21 that US presidential envoy Witkoff has arrived in St Petersburg. The day before he met Ukrainian President ZELENSKIY in Oslo with several European leaders to draft a peace proposal for submission to Russia. Norwegian Prime Minister Støre said Witkoff hopes to meet Putin after arrival to brief the Kremlin on the Oslo talks."
+    },
+    {
+      "id": "5157590",
+      "time": "2026-10-21 13:47:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "德銀CEO：德國宣佈了不錯的改革舉措，現在是落實的時候了。"
+    },
+    {
+      "id": "5157589",
+      "time": "2026-10-21 13:47:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "德銀CEO：不願將法國局勢稱為“債務危機”，但預算紀律至關重要。"
+    },
+    {
+      "id": "5157588",
+      "time": "2026-10-21 13:46:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "德銀CEO：法國局勢令人擔憂。"
+    },
+    {
+      "id": "5157587",
+      "time": "2026-10-21 13:45:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將馬士基（Maersk）評級下調至“賣出”；目標價為 19,680 丹麥克朗。"
+    },
     {
       "id": "5157586",
       "time": "2026-10-21 13:44:14",
