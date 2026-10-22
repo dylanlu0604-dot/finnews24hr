@@ -1,7 +1,43 @@
 {
   "date": "2026-10-23",
-  "count": 307,
+  "count": 311,
   "items": [
+    {
+      "id": "5162600",
+      "time": "2026-10-23 03:55:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特與巴拉圭總統討論了關鍵礦產問題。"
+    },
+    {
+      "id": "5162599",
+      "time": "2026-10-23 03:53:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮發言人安娜·凱利（Anna Kelly）談下一任白宮新聞秘書：專注於我的工作。"
+    },
+    {
+      "id": "5162598",
+      "time": "2026-10-23 03:52:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：（回應外界稱其親卡達）我轟炸過卡達，你知道的。有人指責我親卡達，可我都襲擊卡達了。（以色列於2025年9月空襲卡達首都多哈，目標是哈馬斯高層，內塔尼亞胡於事後就侵犯卡達主權一事向卡方道歉）"
+    },
+    {
+      "id": "mkt:01a1652b-cd26-7ee0-a94e-cdf5737dccf9",
+      "time": "2026-10-23 03:52:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Netanyahu, responding to claims he is pro‑Qatar, said he had bombed Qatar and that allegations of being pro‑Qatar were misplaced because Israel had attacked Qatar. Israel carried out an airstrike on Doha in September 2025 targeting Hamas leadership; Netanyahu later apologized to Qatar for violating its sovereignty."
+    },
     {
       "id": "5162584",
       "time": "2026-10-23 03:45:53",

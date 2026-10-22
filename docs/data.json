@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-23 03:51:54",
+  "updated": "2026-10-23 03:55:46",
   "count": 13294,
   "items": [
+    {
+      "id": "5162600",
+      "time": "2026-10-23 03:55:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特與巴拉圭總統討論了關鍵礦產問題。"
+    },
+    {
+      "id": "5162599",
+      "time": "2026-10-23 03:53:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮發言人安娜·凱利（Anna Kelly）談下一任白宮新聞秘書：專注於我的工作。"
+    },
+    {
+      "id": "5162598",
+      "time": "2026-10-23 03:52:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：（回應外界稱其親卡達）我轟炸過卡達，你知道的。有人指責我親卡達，可我都襲擊卡達了。（以色列於2025年9月空襲卡達首都多哈，目標是哈馬斯高層，內塔尼亞胡於事後就侵犯卡達主權一事向卡方道歉）"
+    },
+    {
+      "id": "mkt:01a1652b-cd26-7ee0-a94e-cdf5737dccf9",
+      "time": "2026-10-23 03:52:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Netanyahu, responding to claims he is pro‑Qatar, said he had bombed Qatar and that allegations of being pro‑Qatar were misplaced because Israel had attacked Qatar. Israel carried out an airstrike on Doha in September 2025 targeting Hamas leadership; Netanyahu later apologized to Qatar for violating its sovereignty."
+    },
     {
       "id": "5162584",
       "time": "2026-10-23 03:45:53",
@@ -120609,49 +120645,6 @@
         "國際"
       ],
       "text": "美國國務院官員：國務卿魯比奧與黎巴嫩總統奧恩通話，內容涉及從真主黨查獲數百公斤爆炸物一事。"
-    },
-    {
-      "id": "te:markets:592511",
-      "time": "2026-10-16 03:55:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Starbucks Shares Hit 4-week High — Starbucks shares increased to 96.79 USD, the highest since September 2026. Over the past 4 weeks, Starbucks lost 0.66%, and in the last 12 months, it increased 14.65%."
-    },
-    {
-      "id": "mkt:01a14120-e8ca-7ee0-a8a7-890024edaba9",
-      "time": "2026-10-16 03:53:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Ukraine's energy ministry said Russia again struck critical energy infrastructure, causing partial power outages in parts of Kyiv city and Kyiv region."
-    },
-    {
-      "id": "5148392",
-      "time": "2026-10-16 03:53:26",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【阿里巴巴、臺積電在列 美股期權交易時段下週擴容】隨著美股市場實質上進入“24小時交易”，與股票配套的期權也將迎來交易時間的擴容。據芝加哥期權交易所（Cboe）公告，旗下Cboe Options Exchange（C1）將於下週一開始，為指定股票及ETF期權增加早間和收盤後的交易時段。阿里巴巴、臺積電、英偉達、蘋果、特斯拉等熱門公司的期權均在公告覆蓋範圍內。對於投資者而言，最直接的變化是：這些股票期權可以參與美東時間上午7:30至9:25的美股盤前交易，也可以在常規交易結束後繼續交易15分鐘。此次覆蓋範圍包括美股“科技七巨頭”，以及AMD、博通、英特爾、美光、甲骨文、邁威爾科技、閃迪、Palantir、Robinhood等熱門公司，阿里巴巴、臺積電、諾基亞、輝瑞、美國銀行和福特也在公告名單中。"
-    },
-    {
-      "id": "5148391",
-      "time": "2026-10-16 03:53:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐盟據悉擬快速審批歐洲衛星合資專案 打造SpaceX競爭對手】據知情人士透露，歐盟尋求對一項被視為歐洲版SpaceX的衛星合資專案進行快速反壟斷審批，此前歐盟與專案合作方Leonardo SpA、空中客車和泰雷茲進行了密集磋商。知情人士表示，過去一年的討論重點是在專案正式提交審批前，找出並解決任何潛在的競爭問題。這位知情人士表示，雖然這些公司尚未正式申報，但歐盟官員預計將在未來幾周內收到申請。這項名為Project Bromo的合資專案受到歐盟委員會主席馮德萊恩的讚揚，她認為該專案有望成為歐洲的行業龍頭，應該獲得高層支援。不過，歐盟競爭事務負責人Teresa Ribera警告稱，該專案不能指望監管機構直接放行。該計劃旨在成立一家公司，幫助歐洲減少對埃隆·馬斯克旗下SpaceX等美國衛星服務提供商的依賴。這項合資專案也將成為首批檢驗歐盟新版併購審查方式的案例之一。"
     }
   ]
 }
