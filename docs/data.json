@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-23 00:17:26",
-  "count": 13308,
+  "updated": "2026-10-23 00:21:32",
+  "count": 13307,
   "items": [
+    {
+      "id": "mkt:01a1646a-6415-7ee0-a94c-93e5493628b2",
+      "time": "2026-10-23 00:20:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot silver fell below $55/oz, down 5.12% on the day."
+    },
+    {
+      "id": "5162187",
+      "time": "2026-10-23 00:20:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委桑托斯·佩雷拉表示，歐洲必須深化單一市場。"
+    },
+    {
+      "id": "5162186",
+      "time": "2026-10-23 00:20:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守55美元/盎司，日內跌4.71%。"
+    },
+    {
+      "id": "5162185",
+      "time": "2026-10-23 00:19:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克：宣佈得益於美國總統特朗普與日本達成的歷史性貿易協議，將撥款210億美元用於建設兩座新的半導體晶圓廠。這筆資金由日本提供，用於支援這些高科技生產設施的建設。美國與格芯公司的合作將利用這兩座位於紐約州北部的新工廠生產200萬片矽晶圓，進而創造2.7萬個建築及相關崗位，以及1000多個高技能、高薪的製造業崗位。"
+    },
+    {
+      "id": "5162184",
+      "time": "2026-10-23 00:17:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【交易員對沖美債大幅上漲行情的成本正在飆升】美國國債期權的看漲期權溢價已自3月以來首次轉為看漲期權更貴；週四單向資金流顯示，市場正在買入多種看漲期權結構，表明債券交易員正在為長端收益率曲線可能出現更大漲幅支付更高對沖成本，而非押注拋售。"
+    },
+    {
+      "id": "5162183",
+      "time": "2026-10-23 00:17:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【蘋果股價與晶片股走勢高度背離 成為對沖AI概念股的理想選擇】隨著市場對人工智慧(AI)交易的情緒劇烈波動，股市中逐漸形成了一種頗為穩定的交易模式：無論AI概念股怎麼走，蘋果公司往往反向而行。這家iPhone製造商股價2026年以來上漲了28%，成為標普500指數12%漲幅的最大貢獻者。蘋果也是今年“七巨頭”科技股中表現最好的公司，較2025年形成鮮明反差。當時蘋果全年僅上漲8%，在該類股票中接近墊底。這種分化的原因相對直接。多數大型科技公司正大舉投入AI基礎設施，而蘋果基本沒有參與這場資本開支競賽，反而繼續專注於其一貫擅長的領域，即打造能夠吸引消費者關注的產品，例如新推出的摺疊屏iPhone Duo。隨著華爾街對AI資本支出的看法不斷變化，蘋果股票已成為投資者繼續配置大型科技股、同時規避部分波動風險的一種偏好選擇。管理4180億美元資產的Russell Investments高階投資組合經理Jordan McCall表示：“蘋果是對沖AI波動性的一種流動性很高的工具。如果你開始擔心AI，但仍希望保留科技股敞口，蘋果是很不錯的持倉。”他說：“當市場變得緊張時，蘋果會成為資金尋求安全的去處。”"
+    },
+    {
+      "id": "mkt:01a16466-f2bf-7ee0-a94c-8b5f6ca7354b",
+      "time": "2026-10-23 00:17:10",
+      "tags": [
+        "MKT News",
+        "SKYD.N",
+        "Impact bearish"
+      ],
+      "text": "Skydance (SKYD.N) resumed trading; shares down 1.91%."
+    },
     {
       "id": "mkt:01a16466-362d-7ee0-a94c-813759df3849",
       "time": "2026-10-23 00:16:22",
@@ -120713,78 +120776,6 @@
         "XAUUSD"
       ],
       "text": "【Putin says Russia will respond to Ukrainian attacks on energy and logistics facilities】On Oct. 15, Putin said Russia will respond to Ukrainian attacks on Russian refineries and other energy and logistics infrastructure. He said Ukraine has been sabotaging Russian energy facilities; strikes on a series of refineries have so far caused no material damage but have continued. He added that facilities tied to e-commerce platforms were also first targeted by Ukraine and said Ukrainian authorities should consider the consequences before striking such infrastructure."
-    },
-    {
-      "id": "5148187",
-      "time": "2026-10-16 00:21:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：塞內加爾地方債務重組，地區性銀行能夠承受。"
-    },
-    {
-      "id": "5148186",
-      "time": "2026-10-16 00:20:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京：將對烏攻擊俄能源和物流設施作出回應】當地時間10月15日，俄羅斯總統普京在與本國工商界人士交流時表示，俄方將對烏克蘭發起的、針對俄煉油廠及其他物流、能源設施的攻擊作出回應。他說，烏克蘭一直在破壞俄羅斯的能源設施，對系列煉油廠的襲擊雖未造成實質損失，但襲擊未曾停止。針對電商平臺的相關設施，也是烏方首先發起攻擊的。俄方將對上述攻擊進行回應。普京指出，烏克蘭當局在做出打擊俄方電商平臺和其他設施之前，應該考慮到此舉將造成的後果。（央視新聞）"
-    },
-    {
-      "id": "5148185",
-      "time": "2026-10-16 00:20:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列N12電視臺週四援引衛星影象分析報道，伊朗似乎正將部分導彈生產和組裝設施轉移至地下，因其關鍵設施在美以打擊中仍嚴重受損。"
-    },
-    {
-      "id": "te:markets:592497",
-      "time": "2026-10-16 00:19:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rises on Luxury and Industial Gains — The CAC 40 rose 0.8% to close at 7,935 on Thursday, supported by gains in luxury and industrial stocks. Luxury shares rebounded after Chinese trade data showed imports rising 31% year-on-year in September to a record high, suggesting that Chinese consumer demand has not collapsed, contrary to concerns raised by LVMH’s recent results. LVMH rose 2.2%, Hermès gained 3.3%, Kering added 1.3%, and L’Oréal advanced 3.2%. Industrial stocks also gained, with defense contractors leading as the conflict in the Middle East showed no sign of easing. Airbus rose 2.4%, while Thales gained 1.3%. In contrast, Schneider Electric fell 2.4% and STMicroelectronics dropped 3.8%, tracking a selloff in US semiconductor stocks. Financial stocks were mostly lower after French annual inflation rose to 3.4% in September on an EU-harmonized basis, its highest level since January 2024. BNP Paribas fell 0.7%, while Crédit Agricole lost 1%."
-    },
-    {
-      "id": "5148184",
-      "time": "2026-10-16 00:19:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“粵艇南下”今起開始落地實施】記者從廣東海事局瞭解到，今天（10月16日）起，“粵艇南下”開始落地實施。這是今年6月“港澳遊艇北上”落地實施後，粵港澳大灣區又一重要舉措，標誌著粵港澳遊艇自由行開始邁出雙向互通的關鍵一步，將進一步助力粵港澳大灣區海上互聯互通。（央視新聞）"
-    },
-    {
-      "id": "5148183",
-      "time": "2026-10-16 00:19:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟CEO：我們現在已經擁有了3萬億引數規模、處於業界領先水平的預訓練基礎模型。"
-    },
-    {
-      "id": "5148182",
-      "time": "2026-10-16 00:18:08",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "羅馬尼亞總理獲提名人表示，納扎雷將留任財政部長一職。"
-    },
-    {
-      "id": "te:markets:592496",
-      "time": "2026-10-16 00:17:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Close Mixed — European stocks closed mixed on Thursday, reflecting similar developments in North America, as plunges in AI infrastructure and heavyweight lenders offset strong performances elsewhere. The Euro STOXX 50 fell 0.4% and the STOXX Europe 600 rose 0.3% to 640. Industrial production in the Eurozone unexpectedly fell at a sharp pace in August, injecting fresh concerns that the bloc's economy may start to feel a bigger impact from higher energy prices, interest rates, and cheap Chinese exports that drove major economies to campaign in Brussels for tariffs and quotas. ASML sank 4.2% and Infineon dropped 5.2%, tracking the global chip sector following slower revenue growth from Anthropic. Meanwhile, Nordea tanked 7.8% after a quarter of lower profits drove the bank to pause its share buyback. On the other hand, L'Oreal, SAP, Rheinmetall, and Wolters Kluwer rose by up to 4.5%."
     }
   ]
 }
