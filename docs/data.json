@@ -1,7 +1,88 @@
 {
-  "updated": "2026-10-23 07:10:18",
-  "count": 13292,
+  "updated": "2026-10-23 07:14:09",
+  "count": 13295,
   "items": [
+    {
+      "id": "mkt:01a165e4-65f7-7ee0-a950-673a23f5d9b8",
+      "time": "2026-10-23 07:13:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SK Hynix abandons US IPO for Solidigm after shareholder opposition, regulatory review】SK Hynix has abandoned plans to list Solidigm in the United States after strong shareholder opposition and regulatory scrutiny over potential harm to minority shareholders, the company said in a regulatory filing on Friday. SK Hynix also suspended the pre-IPO investment-introduction process that had been proceeding alongside the listing. Solidigm, the group’s flash-memory unit, had appointed Goldman Sachs and Morgan Stanley as joint lead underwriters and targeted a potential US offering next year; South Korean regulators flagged risks of a duplicate listing and dilution of existing shareholders, prompting the reversal."
+    },
+    {
+      "id": "5162828",
+      "time": "2026-10-23 07:13:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼塞梅魯火山噴發 灰柱高約1200米】據印尼火山地質減災中心訊息，當地時間23日5時53分，位於印尼東爪哇省的塞梅魯火山發生噴發，火山灰柱高約1200米，通報稱噴發仍在持續。印尼火山地質減災中心提醒當地民眾和遊客不要進入火山口半徑5公里範圍，並在火山口東南方向13公里範圍內禁止一切活動，同時警惕火山碎屑流、熔岩崩塌及火山泥石流等風險。"
+    },
+    {
+      "id": "5162827",
+      "time": "2026-10-23 07:13:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西部戰區空軍1架無人機飛赴那曲震區進行勘察】西部戰區空軍1架無人機於23日0時許飛赴那曲地震震區，進行空中勘察。22日22時33分，西藏那曲市巴青縣發生7.0級地震。西部戰區空軍迅即啟動搶險救災應急預案，針對高原夜間氣象複雜、地形險峻等特點，認真組織任務研判與航線規劃，23日0時許派出1架無人機飛赴震區。與此同時，西部戰區空軍多型運輸機、直升機及地面救援力量已完成準備，全時待命，隨時可投入抗震救災任務。"
+    },
+    {
+      "id": "5162826",
+      "time": "2026-10-23 07:12:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "LNG液化天然氣運輸船代表造船行業頂尖難度，全球最大27.1萬立方米LNG船訂單，滬東中華一口氣拿下24艘，訂單交付期排到2031年。"
+    },
+    {
+      "id": "te:economy:594363",
+      "time": "2026-10-23 07:11:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "UK Consumer Confidence Posts Biggest Drop Since Pandemic — The UK GfK Consumer Confidence Index plunged 11 points to -24 in October 2026 from -13 in September, marking its sharpest monthly decline since April 2020 and its lowest reading since April. The result was significantly worse than market expectations of -14 as rising inflation, higher energy prices and the ongoing Middle East conflict weighed on household sentiment ahead of Finance Minister John Healey's budget next week. Confidence in the economic outlook deteriorated sharply, while willingness to make major purchases fell to its lowest level in more than two years. Inflation expectations also rose to their highest since April, increasing concerns that the Bank of England could raise interest rates in November. The decline reverses a summer recovery, with other surveys also indicating weakening sentiment despite stronger economic growth in the first half of the year. GfK said confidence fell across income, age and gender groups, reflecting household financial pressures."
+    },
+    {
+      "id": "5162825",
+      "time": "2026-10-23 07:11:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球超八成新船訂單湧向中國】船舶工業最新統計資料，1‑9月我國造船業完工量、新接訂單、手持訂單，全球佔比分別達到63.6%、81.8%、72.4%，實打實全球領跑。（央視）"
+    },
+    {
+      "id": "mkt:01a165e1-fa71-7ee0-a950-5e3771cf7152",
+      "time": "2026-10-23 07:11:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Over 80% of global new ship orders go to China】China’s Ministry of Industry and Information Technology released Jan–Sep 2026 shipbuilding data showing China continued to dominate global shipbuilding. Completed output was 58.05 mln dwt, up 50.7% YoY; new orders were 175.29 mln dwt, up 163.2% YoY; and orderbook stood at 399.13 mln dwt, up 64.8% YoY. China’s shares of the global market were 63.6% of completions, 81.8% of new orders and 72.4% of orderbook. China’s share of international new orders for green-propulsion ships rose to 74.1%, up 5.7 percentage points versus Jan–Jun."
+    },
+    {
+      "id": "mkt:01a165e1-3ade-7ee0-a950-5684575f077f",
+      "time": "2026-10-23 07:10:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 index opened down 30.40 points (-0.35%) at 8,762.80 on Oct 23 (Friday)."
+    },
+    {
+      "id": "5162824",
+      "time": "2026-10-23 07:09:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【第30號颱風“薔琵”向臺灣東北部沿海靠近，強度緩慢減弱】中央氣象臺10月23日6時繼續釋出颱風藍色預警：今年第30號颱風“薔琵”（強颱風級）的中心今天（23日）早晨5時位於臺灣省臺北市東南方向約405公里的洋麵上，就是北緯22.2度，東經124.0度，中心附近最大風力14級（45米/秒），中心最低氣壓為950百帕，七級風圈半徑350-500公里，十級風圈半徑150-210公里，十二級風圈半徑80-90公里。預計，“薔琵”將以每小時20-25公里的速度繼續向西北方向移動，逐漸向臺灣東北部沿海靠近，強度緩慢減弱，不排除23日夜間到24日早晨擦過臺灣島東北部的可能；24日上午移入東海南部後，將向偏北或北偏西方向移動，將於25日前後沿浙江東部近海北上，之後轉向東北方向，趨向日本西南部沿海，尚不排除25日擦過浙江沿海的可能。"
+    },
     {
       "id": "5162823",
       "time": "2026-10-23 07:08:22",
@@ -17,6 +98,15 @@
         "公司"
       ],
       "text": "【A股跨界併購升溫 科技賽道成佈局重點】據證券時報記者統計，近一個多月來，已有新亞製程、華之傑、觀想科技、園林股份、安德利等約10家傳統主業上市公司丟擲跨界半導體、PCB、機器人等熱門科技賽道併購方案。不過，其中不乏失敗案例，例如東百集團在公告擬收購光電資產三天後便宣佈終止。對此，天使投資人、資深人工智慧專家郭濤向證券時報記者分析，政策紅利持續釋放的背景下，A股公司跨界併購科技標的的節奏顯著提速，但跨行業整合的深層壁壘並未消解，過往案例普遍面臨整合難、兌現弱的現實問題。"
+    },
+    {
+      "id": "5162821",
+      "time": "2026-10-23 07:08:15",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、紀念中國工農紅軍長征勝利90週年大會在京隆重舉行 習近平發表重要講話 李強王滬寧蔡奇丁薛祥李希韓正出席 趙樂際主持\n2、在新的長征路上奮力創造新的輝煌——論學習貫徹習近平總書記在紀念中國工農紅軍長征勝利90週年大會上重要講話\n3、李強結束出訪回到北京\n4、趙樂際主持召開十四屆全國人大常委會第七十四次委員長會議 決定十四屆全國人大常委會第二十五次會議11月2日至6日在京舉行。"
     },
     {
       "id": "5162820",
@@ -120547,66 +120637,6 @@
         "公司"
       ],
       "text": "【最佳化消費服務體驗 今年“雙11”呈現新亮點】近期，京東、天貓、抖音等多家電商平臺陸續啟動“雙11”活動。記者從上述平臺瞭解到，今年大促呈現多重新特徵，如活動規則持續簡化、智慧產品與AI購物體驗升級、服務消費品類擴容等。系列變化背後，商務部等7部門新近印發的《關於實施品質電商“五優”行動的通知》，為電商平臺“雙11”定下提質升級的基調。專家認為，平臺簡化促銷規則、聚焦商品品質提升，順應品質電商轉型方向，核心目標是最佳化消費服務體驗。（中國證券報）"
-    },
-    {
-      "id": "5148509",
-      "time": "2026-10-16 07:13:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：SPACEX可能會效仿ANTHROPIC，聘請外部安全評估人員。"
-    },
-    {
-      "id": "5148508",
-      "time": "2026-10-16 07:13:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴黎車展亮點多：中國車企調整歐洲產品佈局 推進本地研發】10月12日，2026年巴黎國際車展啟幕。作為全球汽車產業觀察風向、競逐未來的重要舞臺，本屆展會集中展現全球新能源汽車產業迭代格局。長安、東風、吉利、奇瑞、比亞迪、賽力斯等一批中國車企攜新能源產品與前沿技術登臺亮相。透過本屆巴黎車展不難看到，中國車企不只進行了產品技術的集中展示，更釋放了面向歐洲市場體系化佈局的清晰訊號：結合不同國家能源補能現實條件差異化匯入動力譜系，迭代打磨座艙體驗、完成底盤本地化調校，織密銷售服務網路，深化研發製造領域產業協作。各家企業立足自身發展節奏，穩步推進歐洲市場全鏈條本地化建設。（中國證券報）"
-    },
-    {
-      "id": "5148507",
-      "time": "2026-10-16 07:13:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【投資者考慮調降對Anthropic的IPO估值預期】據報道，四位知情訊息人士表示，在Anthropic披露最新財務資訊後，其部分現有投資者及首次公開發行(IPO)潛在投資者正考慮調降對該公司的估值。目前市場普遍擔憂人工智慧(AI)融資成本激增。其中三位知情人士稱，週三在舊金山參加Anthropic投資者日活動的部分投資者討論的估值為1.5萬億美元左右。這明顯低於投資者此前預計其11月進行股票發行時將達到的約2萬億美元估值。Anthropic在週三的會議上向潛在IPO投資者表示，其第三季營收較前季躍升45%，達到168億美元，且該季度經調整後實現盈利。上述訊息人士補充稱，儘管這些資料部分緩解了對開發AI系統所需鉅額成本的擔憂，但一些投資者對第三季營收環比增速放緩感到失望。Anthropic第二季營收較第一季增長逾一倍，達到116億美元。"
-    },
-    {
-      "id": "mkt:01a141d5-fd71-7ee0-a8a9-5ea57ed18db3",
-      "time": "2026-10-16 07:11:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened up 88.9 points (+1.02%) at 8,808.6 on Friday, Oct 16."
-    },
-    {
-      "id": "5148505",
-      "time": "2026-10-16 07:11:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【TCW將信用風險敞口降至30年來最低 警告CCC級借款人會最先撐不住】面對估值和風險蔓延方面的擔憂，TCW規模1600億美元的固定收益團隊已將投資組合的信用風險敞口降至30年來最低水平。該團隊首席投資官Bryan Whalen在彭博行業研究Credit Edge播客節目中表示，“回顧過去30年 —— 我們對投資級債券和高收益債券的敞口從未像現在這麼低過。”由於市場擔心債務成本上升將迫使更多高槓杆企業違約，CCC評級債券自9月底以來一直處於困境債券水平。與此同時，質量較高的債券利差相對穩定。“這是最弱的借款人，他們會最先撐不住，”Whalen在談到CCC評級債券時表示，“毫無疑問，接下來單B評級借款人會感受到壓力，然後就是雙B評級借款人。”"
-    },
-    {
-      "id": "te:markets:592530",
-      "time": "2026-10-16 07:11:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Australia Hit 5-week High — ASX200 increased to 8809.00 Index Points, the highest since September 2026. Over the past 4 weeks, Australia Stock Market Index (AU200) gained 1.25%, and in the last 12 months, it decreased 2.9%."
-    },
-    {
-      "id": "5148504",
-      "time": "2026-10-16 07:10:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞 S&P/ASX 200指數上漲1%，至8,808點。"
     }
   ]
 }
