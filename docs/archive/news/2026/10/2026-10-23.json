@@ -1,7 +1,79 @@
 {
   "date": "2026-10-23",
-  "count": 360,
+  "count": 367,
   "items": [
+    {
+      "id": "mkt:01a16551-fab8-7ee0-a94f-79bb17923175",
+      "time": "2026-10-23 04:33:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump, asked whether he would withdraw support for Vance’s 2028 presidential bid if Republicans lose their congressional majority, said: \"Where did you get that idea? I never thought about it; it's too early to consider now.\""
+    },
+    {
+      "id": "mkt:01a16551-75e7-7ee0-a94f-7439c0d3e286",
+      "time": "2026-10-23 04:33:19",
+      "tags": [
+        "MKT News",
+        "AER.O",
+        "Impact bearish"
+      ],
+      "text": "Fitch downgrades its 2027 outlook for the aircraft leasing sector to Negative."
+    },
+    {
+      "id": "te:markets:594348",
+      "time": "2026-10-23 04:31:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Drops as Investors Eye Presidential Runoff — The Ibovespa fell 1.1% to close at 204,120 on Thursday amid uncertainty over the presidential race and corporate earnings. On Wednesday, a Quaest poll showed Flávio Bolsonaro’s lead over Lula narrowing to one percentage point, leaving the candidates statistically tied just four days before Sunday’s presidential runoff. Many market participants believe a Flávio administration would be more likely to rein in public spending, although neither the candidate nor his economic advisers have outlined concrete fiscal adjustments. Datafolha is scheduled to release a new presidential voting-intention poll after the market close on Thursday. Financial stocks declined, with Itaú down 1.8%, Itaúsa losing 2.6% and Bradesco shedding 2.1% ahead of its earnings release later in the day. Vale dropped 4% amid falling iron ore prices, with the miner set to report results next week. WEG slipped 2.7% after plunging 7% on Wednesday following disappointing results."
+    },
+    {
+      "id": "mkt:01a1654f-b740-7ee0-a94f-6db548c459dd",
+      "time": "2026-10-23 04:31:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI nearing $30bn pre-IPO round at $1.25tn valuation】CNBC reports OpenAI is nearing a pre-IPO bridge round seeking a $1.25tn pre-money valuation and up to $30bn, with UAE investors and Coatue co-leading. The company told investors it aims to sign agreements by the end of next week, though final size remains undecided. CFO Sarah Friar has informed employees OpenAI may IPO in 2027. OpenAI is also negotiating a commercial deal to secure additional compute capacity from the UAE."
+    },
+    {
+      "id": "mkt:01a1654f-48f9-7ee0-a94f-662cbc62237e",
+      "time": "2026-10-23 04:30:57",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "USDJPY"
+      ],
+      "text": "Foreign official net purchases of U.S. Treasuries in the week to Oct. 16 totaled $21.96 billion, versus -$14.59 billion in the prior week."
+    },
+    {
+      "id": "5162689",
+      "time": "2026-10-23 04:30:57",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至10月16日當週外國央行持有美國國債 219.58億美元，前值-145.88億美元。"
+    },
+    {
+      "id": "mkt:01a1654f-246b-7ee0-a94f-5b2483cb889b",
+      "time": "2026-10-23 04:30:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Oct.16) | actual 21958000000B | previous -14588000000B"
+    },
     {
       "id": "5162685",
       "time": "2026-10-23 04:28:56",
