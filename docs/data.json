@@ -1,7 +1,48 @@
 {
-  "updated": "2026-10-23 00:53:37",
-  "count": 13309,
+  "updated": "2026-10-23 00:57:37",
+  "count": 13306,
   "items": [
+    {
+      "id": "5162240",
+      "time": "2026-10-23 00:56:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【盧浮宮將因示威活動閉館】當地時間10月22日，法國政府表示，由於巴黎本週六（10月24日）將舉行示威活動，盧浮宮、奧賽博物館和畢加索博物館將於當天閉館。（CCTV國際時訊）"
+    },
+    {
+      "id": "5162238",
+      "time": "2026-10-23 00:56:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【比特幣跌破81000美元，日內跌3.75%】比特幣跌破81000美元，日內跌3.75%。"
+    },
+    {
+      "id": "5162236",
+      "time": "2026-10-23 00:55:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "開雲集團首席財務官：公司近期進行了降價。"
+    },
+    {
+      "id": "5162234",
+      "time": "2026-10-23 00:53:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "前白宮新聞秘書卡羅琳·萊維特對其繼任者迅速離開白宮一事發表評論，稱這份工作“並不適合她”。萊維特還透露，她正在為正在物色新任白宮新聞秘書的唐納德·特朗普提供建議，稱“他需要一位強硬的人選”。"
+    },
+    {
+      "id": "5162233",
+      "time": "2026-10-23 00:53:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破81000美元，日內跌3.75%。"
+    },
     {
       "id": "5162232",
       "time": "2026-10-23 00:52:34",
@@ -120734,70 +120775,6 @@
         "Importance 2"
       ],
       "text": "Crude Oil Rises to 1-Month High — Crude oil rose further to over $98 per barrel on Thursday, the highest in one month, as markets continued to focus on mounting risks to supply in the Middle East. Repeated strikes on commercial vessels crossing the Strait of Hormuz resulted in the sinking of a Singapore-flagged container ship, extending the record-high rates for tankers in the Persian Gulf. The events also dimmed prospects that oil exports from GCC countries could pick up, adding further strain to the global supply backdrop. On top of that, Houthi missile and drone attacks on Saudi Arabian energy infrastructure added to export disruptions, with some tankers reportedly avoiding their usual loading areas. Consequently, data from the EIA showed that crude oil stockpiles in the US fell by 8.6 million barrels in the week to October 9th, the sharpest decline since February. In addition, the federal Strategic Petroleum Reserve remained unchanged near its record low."
-    },
-    {
-      "id": "5148226",
-      "time": "2026-10-16 00:57:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在白宮發表講話。"
-    },
-    {
-      "id": "5148225",
-      "time": "2026-10-16 00:56:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "五角大樓稱，特朗普在真相社交平臺上宣佈之前，曾與赫格塞思就不直播胡德堡槍擊案兇手處決一事進行過交談。"
-    },
-    {
-      "id": "5148224",
-      "time": "2026-10-16 00:56:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將前往密歇根州、愛荷華州和堪薩斯州舉行集會，還有很多其他活動。"
-    },
-    {
-      "id": "5148223",
-      "time": "2026-10-16 00:56:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "Semtech股價迅速擴大跌幅，下跌10%。"
-    },
-    {
-      "id": "mkt:01a1407d-e3a1-7ee0-a8a5-9f97836a1545",
-      "time": "2026-10-16 00:55:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ukraine military's Starlink service restored】Kyiv Independent on 15th, citing Ukrainian defense ministry sources, reported the military's Starlink service has returned to normal. The defense ministry said it will continue investigating the causes and circumstances of a Starlink throttling incident on 14th."
-    },
-    {
-      "id": "5148222",
-      "time": "2026-10-16 00:55:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所三個月期鋅收跌54美元，報每噸3664美元。倫敦金屬交易所三個月期銅收跌144美元，報每噸14347美元。"
-    },
-    {
-      "id": "5148221",
-      "time": "2026-10-16 00:54:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國機場集團報告稱，2026年前9個月集團客流量同比增長0.1%，達到2.873億人次。"
-    },
-    {
-      "id": "5148220",
-      "time": "2026-10-16 00:53:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國機場集團將2026年巴黎客流量預期調整為較2025年小幅下降。"
     }
   ]
 }
