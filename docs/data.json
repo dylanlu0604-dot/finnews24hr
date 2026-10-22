@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-22 14:09:51",
-  "count": 13406,
+  "updated": "2026-10-22 14:13:48",
+  "count": 13410,
   "items": [
+    {
+      "id": "mkt:01a1623c-e1cf-7ee0-a93b-e0ec8b3a65b7",
+      "time": "2026-10-22 14:11:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "9984.T",
+        "Impact bearish"
+      ],
+      "text": "【AI investment worries rise; SoftBank market value could halve from June peak】Rising borrowing costs and investor doubts about the sustainability of large-scale AI investment have increased the risk that SoftBank Group’s market value could fall by about half from its June peak. Shares slipped as much as 6.7% on Thursday, leaving them roughly 50% below the June 2 record high. US tech earnings failed to soothe investor concerns. Bonds of US cloud provider CoreWeave fell to levels signaling credit stress, highlighting industry funding risk and amplifying fears over global AI spending. Kazuyuki Muramatsu, head of investments at Nagomi Capital, said SoftBank’s high leverage and rising borrowing costs magnify its vulnerability; if market sentiment on AI growth turns more pessimistic, the Vision Fund could face valuation losses and SoftBank may pay higher premiums on future fundraising."
+    },
+    {
+      "id": "5160624",
+      "time": "2026-10-22 14:11:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【招商證券國際：下調福耀玻璃目標價至76港元，維持“增持”評級】招商證券國際發表報告指，福耀玻璃第三季淨利潤20.36億元，同比及環比均跌9.9%，低於市場預期的20.7億元。剔除匯兌損失、美國工廠火災修復及一次性售後服務費合計約4.32億元后，測算稅前利潤約29.19億元，同比升0.5%，較市場預期低4.4%。該行下調2026至2028年利潤預測11%、8%及9%，以反映匯兌影響、國內車市恢復乏力及其他一次性因素，並將目標價由83港元下調至76港元，相當於2027年財政年度16.2倍市盈率，維持“增持”評級。該行認為，儘管第三季業績低於預期，公司在產業鏈中的地位並未動搖，電動化、智慧化帶來持續產品創新機遇，預期2027年國內車市企穩後，公司有望恢復收入及利潤雙位數增長。"
+    },
+    {
+      "id": "5160623",
+      "time": "2026-10-22 14:11:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率<JP20YTN=JBTC>下降2.5個基點，至3.68%。"
+    },
+    {
+      "id": "mkt:01a1623b-f7b7-7ee0-a93b-db1b70e45d12",
+      "time": "2026-10-22 14:10:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's 20-year bond yield fell 2.5 bps to 3.68%."
+    },
+    {
+      "id": "5160622",
+      "time": "2026-10-22 14:10:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：轉融券標的板塊淨流出超473億】截至目前，今日主力資金淨流出524.99億；淨流入電機Ⅲ、電機Ⅱ、減速器等板塊，其中電機Ⅲ板塊淨流入9.56億；淨流出轉融券標的、融資融券、納入富時羅素等板塊，其中轉融券標的板塊淨流出473.69億。\n  \n個股方面，華天科技淨買入5.62億元位居首位，N通則、沈鼓集團、大洋電機主力資金淨流入居前；中際旭創淨賣出19.80億元位居首位，新易盛、寧德時代、東山精密淨流出額居前。"
+    },
     {
       "id": "mkt:01a16239-7a12-7ee0-a93b-d7371bd1f9fb",
       "time": "2026-10-22 14:08:16",
@@ -121775,18 +121823,6 @@
         "Importance 1"
       ],
       "text": "UK Manufacturing Output Unexpectedly Rises in August — Manufacturing production in the UK grew by 1.2% month-on-month in August 2026, beating market expectations for a 0.1% decline and rebounding from a revised 1.0% increase in July. This marked the fastest growth since March, as output increased in nine of the thirteen manufacturing subsectors, with the largest positive contribution coming from the manufacture of basic pharmaceutical products (5.1% vs 3.4 in July) which contributed over half of the overall monthly growth within manufacturing. Moreover, rubber and plastic products and non-metallic mineral products (2.1% vs. -2.3%), machinery and equipment (2.0% vs. 1.0%), and wood and paper products (3.2% vs. -0.8%) increased. In contrast, food products, beverages and tobacco (-1.0% vs 0.4%) and coke and refined petroleum product (-1.8% vs 0%) declined. On an annual basis, manufacturing activity increased by 3.0% in August, the fastest rise since March 2024, above forecasts of 2.3% and accelerating from a 2.2% gain in the preceding period."
-    },
-    {
-      "id": "te:economy:592198",
-      "time": "2026-10-15 14:13:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "UK Trade Gap Smallest in 7 Months — The United Kingdom’s trade deficit narrowed to £0.92 billion in August 2026, down from a revised £2.32 billion in the previous month. It was the smallest trade gap since January, when the trade balance posted a surplus, as exports grew while imports fell. Exports edged up 0.1% mom to £82.33 billion, while imports fell 1.5% to a seven-month low of £83.25 billion. Goods exports inched down 0.1% to £36.18 billion, despite higher shipments to non-EU countries, which rose 0.9%, mainly due to a £0.3 billion increase in chemical exports. Meanwhile, shipments to the EU fell 7.3%, weighed down by a £0.5 billion decline in exports of machinery and transport equipment. Services exports rose 0.4% to £46.15 billion. On the import side, goods imports fell 2.4% to a seven-month low of £54.19 billion, with imports from non-EU countries declining 6.3%, mainly due to drops in machinery and transport equipment. Meanwhile, imports from EU countries grew 1.6%. Services imports rose 0.2% to £29.06 billion."
     }
   ]
 }
