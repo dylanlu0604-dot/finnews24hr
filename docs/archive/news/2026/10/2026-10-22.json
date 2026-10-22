@@ -1,7 +1,82 @@
 {
   "date": "2026-10-22",
-  "count": 2404,
+  "count": 2413,
   "items": [
+    {
+      "id": "mkt:01a16456-8583-7ee0-a94c-20e964acfb7c",
+      "time": "2026-10-22 23:59:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said this summer it granted METR and Redwood Research three weeks of deep, embedded access to its internal monitoring systems in a pilot assessment. The teams’ findings helped strengthen safety controls during system scaling and will underpin future research cooperation with METR and other third‑party evaluators."
+    },
+    {
+      "id": "5162150",
+      "time": "2026-10-22 23:59:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI：今年夏季，公司邀請METR和Redwood Research對內部監控系統開展嵌入式評估試點，評估期間相關團隊可深度訪問公司基礎設施，試點週期共計三週。評估結果為後續擴充套件該系統時的安全防護強化提供了參考，也將助力公司未來與METR及其他第三方評估機構開展研究合作。"
+    },
+    {
+      "id": "mkt:01a16455-6cae-7ee0-a94c-1837d128521d",
+      "time": "2026-10-22 23:58:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC said a magnitude-3.5 earthquake occurred at 23:52 on Oct. 22 in Zaduo County, Yushu Prefecture, Qinghai (32.51°N, 93.99°E); focal depth 10 km."
+    },
+    {
+      "id": "mkt:01a16454-c53a-7ee0-a94c-17e7fb90f5a2",
+      "time": "2026-10-22 23:57:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York State Department of Financial Services urges regulated entities to promptly identify and remediate known vulnerabilities that have been exploited."
+    },
+    {
+      "id": "5162149",
+      "time": "2026-10-22 23:57:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約州金融服務管理局（NYDFS）發表宣告，敦促受監管實體迅速識別並修復已知被利用的漏洞。"
+    },
+    {
+      "id": "mkt:01a16453-c7c4-7ee0-a94c-0bf1e8842008",
+      "time": "2026-10-22 23:56:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York State Department of Financial Services (NYDFS) issues alert on two critical PHP vulnerabilities."
+    },
+    {
+      "id": "5162148",
+      "time": "2026-10-22 23:55:33",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【兩部門啟動國家地震災害四級應急響應】中國地震臺網測定：10月22日22時33分在西藏那曲市巴青縣（北緯32.40度，東經93.79度）發生7.0級地震，震源深度10千米。據瞭解，震中附近平均海拔約4800米，周邊人口稀少。地震發生後，國務院抗震救災指揮部副總指揮、應急管理部部長張成中立即影片排程當地情況，要求儘快核實災情，全力做好搶險救援、群眾轉移安置和震情監測等工作。部領導宋元明、陳敏、周天、王昆持續排程指導應急處置工作。國務院抗震救災指揮部辦公室、應急管理部啟動國家地震災害四級應急響應，派出工作組趕赴當地指導處置。"
+    },
+    {
+      "id": "5162147",
+      "time": "2026-10-22 23:55:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所11月交貨的英國天然氣期貨收盤價為每熱單位221.98便士。"
+    },
+    {
+      "id": "mkt:01a16453-059c-7ee0-a94c-0236b7d450f7",
+      "time": "2026-10-22 23:55:24",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【State Council earthquake-relief office and Emergency Management Ministry activate national level-4 earthquake emergency response】cenc recorded a M7.0 earthquake at 22:33 Oct 22 (local time) in Baqing County, Nagqu, Tibet (32.40N, 93.79E), depth 10 km; epicentre elevation ~4,800 m and area is sparsely populated. The State Council earthquake-relief command office and the Ministry of Emergency Management have activated a national level-4 earthquake-disaster emergency response and dispatched a working group to the site. Emergency Management Minister Zhang Chengzhong conducted a video briefing, ordering rapid verification of damage, full search-and-rescue efforts, population evacuation and stepped-up seismic monitoring."
+    },
     {
       "id": "mkt:01a16452-3751-7ee0-a94b-fef1ff7396be",
       "time": "2026-10-22 23:54:31",

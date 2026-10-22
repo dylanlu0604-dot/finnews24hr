@@ -1,7 +1,82 @@
 {
-  "updated": "2026-10-22 23:56:15",
-  "count": 13290,
+  "updated": "2026-10-23 00:00:54",
+  "count": 13292,
   "items": [
+    {
+      "id": "mkt:01a16456-8583-7ee0-a94c-20e964acfb7c",
+      "time": "2026-10-22 23:59:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said this summer it granted METR and Redwood Research three weeks of deep, embedded access to its internal monitoring systems in a pilot assessment. The teams’ findings helped strengthen safety controls during system scaling and will underpin future research cooperation with METR and other third‑party evaluators."
+    },
+    {
+      "id": "5162150",
+      "time": "2026-10-22 23:59:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI：今年夏季，公司邀請METR和Redwood Research對內部監控系統開展嵌入式評估試點，評估期間相關團隊可深度訪問公司基礎設施，試點週期共計三週。評估結果為後續擴充套件該系統時的安全防護強化提供了參考，也將助力公司未來與METR及其他第三方評估機構開展研究合作。"
+    },
+    {
+      "id": "mkt:01a16455-6cae-7ee0-a94c-1837d128521d",
+      "time": "2026-10-22 23:58:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC said a magnitude-3.5 earthquake occurred at 23:52 on Oct. 22 in Zaduo County, Yushu Prefecture, Qinghai (32.51°N, 93.99°E); focal depth 10 km."
+    },
+    {
+      "id": "mkt:01a16454-c53a-7ee0-a94c-17e7fb90f5a2",
+      "time": "2026-10-22 23:57:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York State Department of Financial Services urges regulated entities to promptly identify and remediate known vulnerabilities that have been exploited."
+    },
+    {
+      "id": "5162149",
+      "time": "2026-10-22 23:57:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約州金融服務管理局（NYDFS）發表宣告，敦促受監管實體迅速識別並修復已知被利用的漏洞。"
+    },
+    {
+      "id": "mkt:01a16453-c7c4-7ee0-a94c-0bf1e8842008",
+      "time": "2026-10-22 23:56:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York State Department of Financial Services (NYDFS) issues alert on two critical PHP vulnerabilities."
+    },
+    {
+      "id": "5162148",
+      "time": "2026-10-22 23:55:33",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【兩部門啟動國家地震災害四級應急響應】中國地震臺網測定：10月22日22時33分在西藏那曲市巴青縣（北緯32.40度，東經93.79度）發生7.0級地震，震源深度10千米。據瞭解，震中附近平均海拔約4800米，周邊人口稀少。地震發生後，國務院抗震救災指揮部副總指揮、應急管理部部長張成中立即影片排程當地情況，要求儘快核實災情，全力做好搶險救援、群眾轉移安置和震情監測等工作。部領導宋元明、陳敏、周天、王昆持續排程指導應急處置工作。國務院抗震救災指揮部辦公室、應急管理部啟動國家地震災害四級應急響應，派出工作組趕赴當地指導處置。"
+    },
+    {
+      "id": "5162147",
+      "time": "2026-10-22 23:55:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所11月交貨的英國天然氣期貨收盤價為每熱單位221.98便士。"
+    },
+    {
+      "id": "mkt:01a16453-059c-7ee0-a94c-0236b7d450f7",
+      "time": "2026-10-22 23:55:24",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【State Council earthquake-relief office and Emergency Management Ministry activate national level-4 earthquake emergency response】cenc recorded a M7.0 earthquake at 22:33 Oct 22 (local time) in Baqing County, Nagqu, Tibet (32.40N, 93.79E), depth 10 km; epicentre elevation ~4,800 m and area is sparsely populated. The State Council earthquake-relief command office and the Ministry of Emergency Management have activated a national level-4 earthquake-disaster emergency response and dispatched a working group to the site. Emergency Management Minister Zhang Chengzhong conducted a video briefing, ordering rapid verification of damage, full search-and-rescue efforts, population evacuation and stepped-up seismic monitoring."
+    },
     {
       "id": "mkt:01a16452-3751-7ee0-a94b-fef1ff7396be",
       "time": "2026-10-22 23:54:31",
@@ -120573,64 +120648,6 @@
         "Importance 1"
       ],
       "text": "Colombia Consumer Confidence Edges Up in September — Colombia’s Consumer Confidence Index rose by 0.2 percentage points month-over-month to a balance of 15.7% in September 2026. The modest increase came despite a 3.1 percentage point decline in the Economic Conditions Index, which fell to 1.7%. Consumers’ assessments of their households’ current economic conditions deteriorated to -4.8% from 5.4%. In contrast, their willingness to purchase durable goods improved, rising to 8.1% from 4.2%. The overall index was supported by a 2.5 percentage point increase in the Consumer Expectations Index to 25.1%. Expectations for the general economic outlook improved to 21.3% from 16.7%, while expectations for the country’s future economic conditions also rose to 21.3% from 16.7%. However, consumers’ expectations for their households’ economic outlook weakened, declining to 34.1% from 36.4%."
-    },
-    {
-      "id": "5148156",
-      "time": "2026-10-16 00:00:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門官員稱胡塞武裝襲擊亞丁總統府致3人死亡】 亞丁訊息：一名葉門政府官員15日告訴新華社記者，胡塞武裝當天向葉門南部臨時首都亞丁的總統府發射6枚彈道導彈，造成至少3名安保人員死亡、6人受傷。這名官員說，襲擊發生時，葉門總理沙亞·穆赫辛·津達尼正在總統府主持政府會議，大多數內閣成員和其他官員出席。亞丁當地居民告訴新華社記者，他們聽到總統府周邊傳出6次劇烈爆炸聲，隨後該地區升起濃煙。胡塞武裝發言人葉海亞·薩雷亞隨後發表宣告稱，對亞丁“沙特敵方軍事行動指揮部”的襲擊“屬於既定範疇，是合法打擊”。（新華社）"
-    },
-    {
-      "id": "5148155",
-      "time": "2026-10-16 00:00:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至10月9日當週EIA原油庫存 -855.7萬桶，預期-28.8萬桶，前值-318.6萬桶。\n美國至10月9日當週EIA戰略石油儲備庫存 0萬桶，前值-78.4萬桶。\n美國至10月9日當週EIA原油進口 -59.6萬桶，前值-5.3萬桶。\n美國至10月9日當週EIA汽油產量 -11.7萬桶/日，前值-11.7萬桶/日。"
-    },
-    {
-      "id": "5148154",
-      "time": "2026-10-16 00:00:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "房地美稱，美國房貸利率持穩於7.4%。"
-    },
-    {
-      "id": "5148153",
-      "time": "2026-10-15 23:57:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "米其林：9月全球原裝配套乘用車輪胎市場下降3%。"
-    },
-    {
-      "id": "5148152",
-      "time": "2026-10-15 23:57:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【因凡蒂諾在國際足聯理事會會議道歉 仍面臨下臺壓力】當地時間15日，國際足聯理事會會議在蘇黎世舉行，這是國際足聯主席因凡蒂諾推動的世界盃商業計劃曝光後的首次理事會會議。在會議中，向私人資本出售世界盃權益的商業計劃、美國前鋒巴洛貢的紅牌禁賽被緩期執行以及國際足聯成員協會的資金分配等焦點問題都被提及。據與會的歐洲代表透露，因凡蒂諾就其世界盃出售計劃道歉，他對未能早些向理事會通報該計劃表示遺憾，但因凡蒂諾並未提供歐洲方面要求公開的相關檔案、通訊和決策記錄等。（央視新聞）"
-    },
-    {
-      "id": "5148151",
-      "time": "2026-10-15 23:56:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "週四（10月15日）歐市尾盤，ICE英國天然氣期貨跌0.86%，TTF基準荷蘭天然氣期貨跌0.74%，ICE歐盟碳排放交易許可（期貨價格）跌1.17%。"
-    },
-    {
-      "id": "5148150",
-      "time": "2026-10-15 23:56:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英國中長期國債收益率至少跌超5個基點】週四（10月15日）歐市尾盤，英國10年期國債收益率跌5.4個基點，報5.371%，跳空低開之後低位持穩——交投於5.330%附近、北京時間21:00重新整理日低至5.301%，隨後逐步收復失地。兩年期英債收益率跌2.1個基點，報4.882%，歐市盤初重新整理日低至4.812%，21:00以來也持續收復失地。30年期英債收益率跌6.4個基點，50年期英債收益率跌6.4個基點。2/10年期英債收益率利差跌3.308個基點，報+48.716個基點。"
     }
   ]
 }
