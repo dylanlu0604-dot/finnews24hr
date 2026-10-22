@@ -1,7 +1,98 @@
 {
-  "updated": "2026-10-23 07:48:23",
-  "count": 13301,
+  "updated": "2026-10-23 07:52:16",
+  "count": 13298,
   "items": [
+    {
+      "id": "5162890",
+      "time": "2026-10-23 07:51:31",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團表示，儘管海灣地區原油出口有所恢復，但由於航運瓶頸持續導致到岸供應依然緊張，近期油價面臨的風險仍偏向上行。"
+    },
+    {
+      "id": "5162889",
+      "time": "2026-10-23 07:51:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國就韓朝非軍事區地雷爆炸事件致函聯合國安理會】韓國常駐聯合國代表紐約時間22日向聯合國安理會主席致函，要求朝鮮就近期發生在韓朝非軍事區的地雷爆炸事件道歉，並採取負責任的措施。韓方在信函中稱，此次爆炸系朝鮮軍方埋設的地雷所致，違反停戰協定。信函要求朝方道歉並採取負責任的措施，同時敦促朝方開展對話，以防止緊張局勢升級，恢復互信。(新華社)"
+    },
+    {
+      "id": "5162888",
+      "time": "2026-10-23 07:51:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率<JP2YTN=JBTC>下降0.5個基點，至1.895%。"
+    },
+    {
+      "id": "5162887",
+      "time": "2026-10-23 07:50:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元<JPY=EBS>觸及一個月低點，最新下跌0.15%，報156.53。"
+    },
+    {
+      "id": "5162886",
+      "time": "2026-10-23 07:49:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【央企協同建設“六張網” 2萬億年度投資撬動產業新機】近期，國資央企圍繞“六張網”建設靠前謀劃佈局，一批重大專案與標誌性工程迎來關鍵節點。記者瞭解到，與過往建設模式相比，當前央企“六張網”建設更側重在協同組網、共建共享等方面加力，年度計劃安排相關投資規模約2萬億元。業內人士認為，央企“六張網”建設規模化協同推進，將催生大量交叉融合型產業機遇，也為民間投資開啟一片新空間。（經濟參考報）"
+    },
+    {
+      "id": "te:economy:594379",
+      "time": "2026-10-23 07:49:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "Japan Food Prices Rise the Least Since 2022 — Japan’s food prices rose 2.8% year-on-year in September 2026, easing from 3.1% in the previous month and marking the slowest increase since February 2022."
+    },
+    {
+      "id": "mkt:01a16604-a252-7ee0-a950-e16aadf1273a",
+      "time": "2026-10-23 07:49:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan September core inflation above Bank of Japan target, bolstering odds of December rate hike】Japan's September core CPI excluding fresh food rose 2.1% YoY, up from 1.7% in August, a print that could reinforce market expectations of Bank of Japan tightening in December. Markets are pricing a potential 25bps move that would lift the policy rate to about 1.5%, though the BOJ is widely expected to leave rates unchanged at next week's meeting to assess the impact of prior hikes, including September's. A weaker yen and higher international oil prices are raising import costs and keeping upward pressure on consumer prices. With underlying inflation now close to the BOJ's 2% target, Governor UEDA said the bank must pay greater attention to upside inflation risks."
+    },
+    {
+      "id": "5162885",
+      "time": "2026-10-23 07:48:56",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：AI製藥技術及商業突破 溼實驗產業鏈率先受益】中信建投指出，AI製藥領域正經歷著快速的迭代和變革，演算法的更新迭代和算力的支援為AI在製藥領域的應用打下了良好的技術基礎。傳統藥物開發過程花費時間長、成本高，且成功率較低，隨著已有靶點的新藥陸續獲批，新藥開發難度逐漸上升。目前AI在結構預測、靶點篩選、虛擬篩選、分子生成及多引數最佳化等早期環節已體現效率價值，有望縮小候選分子範圍、減少低價值實驗並降低單個合格Hit的發現成本。相關幹實驗投入增加以及溼實驗需求的持續增長有望為下游產業鏈持續帶來增量。"
+    },
+    {
+      "id": "mkt:01a16604-2337-7ee0-a950-dc7081069cda",
+      "time": "2026-10-23 07:48:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said she believes Japanese financial institutions have handled the PHP issue relatively smoothly and expects them to continue taking necessary action."
+    },
+    {
+      "id": "5162884",
+      "time": "2026-10-23 07:48:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【OpenAI融資磋商進入尾聲 估值目標據悉下調至1.25萬億美元】知情人士透露，OpenAI的融資磋商進入最後階段，估值目標下調至1.25萬億美元。這家美國AI巨頭尋求融資約300億美元。因涉及未公開資訊而不願具名的知情人士稱，OpenAI在融資談判中討論的估值已從1.4萬億美元下調了1500億美元。融資談判仍在進行，相關細節仍可能發生變化。OpenAI最近一次融資是在今年3月份，當時以8520億美元的投後估值籌集1220億美元。"
+    },
     {
       "id": "mkt:01a16603-7ceb-7ee0-a950-d0fe1a18b51c",
       "time": "2026-10-23 07:47:46",
@@ -120566,140 +120657,6 @@
         "國際"
       ],
       "text": "【CFTC 工作人員被要求撤回可疑石油交易分析報告】據報道，3 月 23 日，美國總統特朗普放棄打擊伊朗發電廠的威脅，這一訊息引發原油、股票及其他市場的劇烈買賣波動。\n\n交易員早已習慣中東局勢訊息帶動價格大幅震盪，但那一次，部分交易者精準踩中時機。就在特朗普在 Truth 社交平臺發帖宣佈政策轉向前約 15 分鐘，市場出現價值數十億美元的合約押注：看跌原油、看漲標普 500 指數。此事引發廣泛猜測，懷疑有人獲取了不公平的資訊優勢。\n\n美國商品期貨交易委員會（CFTC）負責調查該事件。這家聯邦衍生品監管機構，隨著加密貨幣與預測市場興起，監管範圍與受關注度大幅提升。委員會內一支資深取證分析師團隊按常規流程，整理當日市場盈虧交易資料。\n\n知情人士稱（因涉及政府內部審議，要求匿名），市場監管部門的分析師根據觀測到的交易時點與交易主體資訊，向執法部門提交案件移交材料，由執法部門決定是否針對潛在內幕交易啟動全面調查。知情人士表示，兩個部門的代表還召開會議，研討最佳協作方式。\n\n知情人士稱，接下來發生的事情極不尋常：由特朗普任命的 CFTC 主席邁克爾・塞利格的高階顧問梅爾・古納瓦德納，要求市場監管團隊的一名主管撤回這份案件移交材料。知情人士稱，該團隊當時不知所措。實操層面，他們甚至不清楚該如何執行這項要求，這類操作此前幾乎從未發生過。這件事也在另一方面打破慣例：以往一直由資深專業人員負責收集海量資料、撰寫初步報告這類專業且常規的工作，再由執法部門律師決定是否立案追查。知情人士表示，而如今，政治任命官員塞利格的一名顧問介入，意圖撤銷這份案件移交材料，並親自監督資料收集工作。古納瓦德納是華爾街資深人士，曾在特朗普第一任期任職於 CFTC；幾周前他重返該機構，擔任國際事務辦公室主管兼主席高階市場顧問，外界並不清楚他在本次證據蒐集流程中擁有何種職權。"
-    },
-    {
-      "id": "5148558",
-      "time": "2026-10-16 07:51:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國擬同英偉達簽署AI合作協議，或涉及數億歐元投資】據報道，德國計劃同英偉達達成一項廣泛的合作協議，旨在推動AI在德國工業領域的應用，包括助力開發面向工業領域的高效能AI模型。報道稱，該協議有望下週正式宣佈，涉及的投資額將達數億歐元。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202610163897496762",
-      "time": "2026-10-16 07:51:15",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本至10月9日當週外資買進日債10801億日元，前值由5857億日元修正為6081億日元。"
-    },
-    {
-      "id": "mkt:01a141f9-dd35-7ee0-a8aa-2992bc8bef82",
-      "time": "2026-10-16 07:50:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Foreign investors bought ¥1.0801 trillion of Japanese government bonds in the week through Oct. 9; the prior week's inflow was revised to ¥608.1 billion from ¥585.7 billion."
-    },
-    {
-      "id": "5148557",
-      "time": "2026-10-16 07:50:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本至10月9日當週買進外國債券 -3397億日元，前值由-3476億日元修正為-3457億日元。日本至10月9日當週外資買進日股 35215億日元，前值由21919億日元修正為21997億日元。日本至10月9日當週買進外國股票 35215億日元，前值13246億日元。日本至10月9日當週外資買進日債 10801億日元，前值由5857億日元修正為6081億日元。"
-    },
-    {
-      "id": "mkt:01a141f9-b3e3-7ee0-a8aa-25b0ce03e861",
-      "time": "2026-10-16 07:50:45",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Oct.9) | actual 1080100000000B | previous 585700000000B"
-    },
-    {
-      "id": "5148556",
-      "time": "2026-10-16 07:50:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【MSCI：凍結涉及土耳其股票的部分指數相關調整】MSCI當地時間10月15日表示，即日起對涉及土耳其股票的部分指數相關調整實施凍結措施。MSCI提及對土耳其市場協同交易行為的擔憂，稱機構投資者需要看到針對協同交易採取可信且持續的執法行動。MSCI將不實施外資納入因子或股數的上調，不新增股票納入MSCI土耳其可投資市場指數（MSCI Turkey Investable Market Index），暫停股票向更高市值板塊指數遷移。如果到2027年6月仍未取得進展，MSCI將考慮採取更多措施。"
-    },
-    {
-      "id": "mkt:01a141f9-7a9c-7ee0-a8aa-1db38192b5de",
-      "time": "2026-10-16 07:50:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan bought ¥3.52 trillion of foreign equities in the week to Oct. 9, up from ¥1.32 trillion the prior week."
-    },
-    {
-      "id": "em:jjsj_rbsj:202610163897494795",
-      "time": "2026-10-16 07:50:27",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本至10月9日當週外資買進日股35215億日元，前值由21919億日元修正為21997億日元。"
-    },
-    {
-      "id": "mkt:01a141f9-5398-7ee0-a8aa-15d3b21eebb9",
-      "time": "2026-10-16 07:50:21",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Stocks Buying (Oct.9) | actual -760600000000B | previous 1324600000000B"
-    },
-    {
-      "id": "mkt:01a141f9-3daf-7ee0-a8aa-0cfa0e45e2f1",
-      "time": "2026-10-16 07:50:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "For the week through Oct. 9, foreign investors net purchased JPY 3.522 tln of Japanese equities; the prior week's figure was revised up to JPY 2.200 tln from JPY 2.192 tln."
-    },
-    {
-      "id": "mkt:01a141f9-2f64-7ee0-a8aa-05d01eafafab",
-      "time": "2026-10-16 07:50:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's net purchases of foreign bonds in the week to Oct. 9 were -¥339.7bn; prior reading revised from -¥347.6bn to -¥345.7bn."
-    },
-    {
-      "id": "mkt:01a141f9-081d-7ee0-a8a9-fd977d8b128d",
-      "time": "2026-10-16 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Oct.9) | actual 3521500000000B | previous 2191900000000B"
-    },
-    {
-      "id": "mkt:01a141f9-07f6-7ee0-a8a9-f2a433017566",
-      "time": "2026-10-16 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Bonds Buying (Oct.9) | actual -339700000000B | previous -347600000000B"
     }
   ]
 }

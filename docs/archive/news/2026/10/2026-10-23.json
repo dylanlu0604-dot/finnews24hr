@@ -1,7 +1,98 @@
 {
   "date": "2026-10-23",
-  "count": 544,
+  "count": 554,
   "items": [
+    {
+      "id": "5162890",
+      "time": "2026-10-23 07:51:31",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團表示，儘管海灣地區原油出口有所恢復，但由於航運瓶頸持續導致到岸供應依然緊張，近期油價面臨的風險仍偏向上行。"
+    },
+    {
+      "id": "5162889",
+      "time": "2026-10-23 07:51:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國就韓朝非軍事區地雷爆炸事件致函聯合國安理會】韓國常駐聯合國代表紐約時間22日向聯合國安理會主席致函，要求朝鮮就近期發生在韓朝非軍事區的地雷爆炸事件道歉，並採取負責任的措施。韓方在信函中稱，此次爆炸系朝鮮軍方埋設的地雷所致，違反停戰協定。信函要求朝方道歉並採取負責任的措施，同時敦促朝方開展對話，以防止緊張局勢升級，恢復互信。(新華社)"
+    },
+    {
+      "id": "5162888",
+      "time": "2026-10-23 07:51:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率<JP2YTN=JBTC>下降0.5個基點，至1.895%。"
+    },
+    {
+      "id": "5162887",
+      "time": "2026-10-23 07:50:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元<JPY=EBS>觸及一個月低點，最新下跌0.15%，報156.53。"
+    },
+    {
+      "id": "5162886",
+      "time": "2026-10-23 07:49:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【央企協同建設“六張網” 2萬億年度投資撬動產業新機】近期，國資央企圍繞“六張網”建設靠前謀劃佈局，一批重大專案與標誌性工程迎來關鍵節點。記者瞭解到，與過往建設模式相比，當前央企“六張網”建設更側重在協同組網、共建共享等方面加力，年度計劃安排相關投資規模約2萬億元。業內人士認為，央企“六張網”建設規模化協同推進，將催生大量交叉融合型產業機遇，也為民間投資開啟一片新空間。（經濟參考報）"
+    },
+    {
+      "id": "te:economy:594379",
+      "time": "2026-10-23 07:49:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "Japan Food Prices Rise the Least Since 2022 — Japan’s food prices rose 2.8% year-on-year in September 2026, easing from 3.1% in the previous month and marking the slowest increase since February 2022."
+    },
+    {
+      "id": "mkt:01a16604-a252-7ee0-a950-e16aadf1273a",
+      "time": "2026-10-23 07:49:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan September core inflation above Bank of Japan target, bolstering odds of December rate hike】Japan's September core CPI excluding fresh food rose 2.1% YoY, up from 1.7% in August, a print that could reinforce market expectations of Bank of Japan tightening in December. Markets are pricing a potential 25bps move that would lift the policy rate to about 1.5%, though the BOJ is widely expected to leave rates unchanged at next week's meeting to assess the impact of prior hikes, including September's. A weaker yen and higher international oil prices are raising import costs and keeping upward pressure on consumer prices. With underlying inflation now close to the BOJ's 2% target, Governor UEDA said the bank must pay greater attention to upside inflation risks."
+    },
+    {
+      "id": "5162885",
+      "time": "2026-10-23 07:48:56",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：AI製藥技術及商業突破 溼實驗產業鏈率先受益】中信建投指出，AI製藥領域正經歷著快速的迭代和變革，演算法的更新迭代和算力的支援為AI在製藥領域的應用打下了良好的技術基礎。傳統藥物開發過程花費時間長、成本高，且成功率較低，隨著已有靶點的新藥陸續獲批，新藥開發難度逐漸上升。目前AI在結構預測、靶點篩選、虛擬篩選、分子生成及多引數最佳化等早期環節已體現效率價值，有望縮小候選分子範圍、減少低價值實驗並降低單個合格Hit的發現成本。相關幹實驗投入增加以及溼實驗需求的持續增長有望為下游產業鏈持續帶來增量。"
+    },
+    {
+      "id": "mkt:01a16604-2337-7ee0-a950-dc7081069cda",
+      "time": "2026-10-23 07:48:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said she believes Japanese financial institutions have handled the PHP issue relatively smoothly and expects them to continue taking necessary action."
+    },
+    {
+      "id": "5162884",
+      "time": "2026-10-23 07:48:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【OpenAI融資磋商進入尾聲 估值目標據悉下調至1.25萬億美元】知情人士透露，OpenAI的融資磋商進入最後階段，估值目標下調至1.25萬億美元。這家美國AI巨頭尋求融資約300億美元。因涉及未公開資訊而不願具名的知情人士稱，OpenAI在融資談判中討論的估值已從1.4萬億美元下調了1500億美元。融資談判仍在進行，相關細節仍可能發生變化。OpenAI最近一次融資是在今年3月份，當時以8520億美元的投後估值籌集1220億美元。"
+    },
     {
       "id": "mkt:01a16603-7ceb-7ee0-a950-d0fe1a18b51c",
       "time": "2026-10-23 07:47:46",
