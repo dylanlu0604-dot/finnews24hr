@@ -1,7 +1,125 @@
 {
   "date": "2026-10-22",
-  "count": 1332,
+  "count": 1344,
   "items": [
+    {
+      "id": "5160651",
+      "time": "2026-10-22 14:28:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月22日：“農產品批發價格200指數”比昨天下降0.27個點】據農業農村部監測，10月22日“農產品批發價格200指數”為111.73，比昨天下降0.27個點，“菜籃子”產品批發價格指數為111.32，比昨天下降0.32個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.73元/公斤，比昨天下降0.2%；牛肉72.62元/公斤，比昨天下降0.3%；羊肉67.00元/公斤，比昨天下降0.5%；雞蛋9.39元/公斤，比昨天下降0.9%；白條雞16.92元/公斤，比昨天下降0.6%。重點監測的28種蔬菜平均價格為4.17元/公斤，比昨天下降0.2%；重點監測的6種水果平均價格為6.66元/公斤，比昨天下降1.8%。鯽魚19.54元/公斤，比昨天下降0.1%；鯉魚13.89元/公斤，比昨天下降0.7%；白鰱魚10.34元/公斤，比昨天上升1.4%；大帶魚41.82元/公斤，比昨天下降0.6%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是豆角、黃瓜、西紅柿、白鰱魚和韭菜，幅度分別為1.9%、1.6%、1.4%、1.4%和1.4%；價格降幅前五名的是洋白菜、菠蘿、菜花、蔥頭和生菜，幅度分別為7.0%、5.2%、3.2%、3.0%和2.2%。"
+    },
+    {
+      "id": "mkt:01a1624b-467d-7ee0-a93c-5c4346514736",
+      "time": "2026-10-22 14:27:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Belgium 10-year bond yield spread over Germany widened to 104.08 bps, the highest in 13 years."
+    },
+    {
+      "id": "5160650",
+      "time": "2026-10-22 14:27:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "比利時10年期國債收益率與避險國債<DE10BE10=RR>的利差達到104.08個基點，創下13年新高。"
+    },
+    {
+      "id": "mkt:01a1624b-1011-7ee0-a93c-56aa9c2b1f3e",
+      "time": "2026-10-22 14:27:28",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY fell intraday to 157.11, a three-week low."
+    },
+    {
+      "id": "mkt:01a1624a-aeed-7ee0-a93c-4c6f2c411219",
+      "time": "2026-10-22 14:27:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【eBay denies 80% China layoff claim; says global reduction affects 9% and it remains in China】eBay denied market reports that it cut 80% of staff in China, calling the figure speculative. The company said a global workforce adjustment announced yesterday includes China and that the CEO indicated the reduction impacts about 9% of employees worldwide. eBay said it has not closed its China R&D center, has not exited the Chinese market, and seller-facing activities continue; it plans an annual auto-parts seller event in December."
+    },
+    {
+      "id": "5160647",
+      "time": "2026-10-22 14:26:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元跌至三週低點157.11日元；美元兌瑞士法郎跌至0.8205的四周低點 。"
+    },
+    {
+      "id": "5160646",
+      "time": "2026-10-22 14:26:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯諾瓦泰克公司執行長希望歐盟重新考慮對俄羅斯液化天然氣的禁令。"
+    },
+    {
+      "id": "te:markets:594078",
+      "time": "2026-10-22 14:26:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Dollar Hits 5-week High — The Hong Kong Dollar touched 7.84 against the USD, the highest since September 2026. Over the past 4 weeks, US Dollar Hong Kong Dollar lost 0.01%, and in the last 12 months, it increased 0.92%."
+    },
+    {
+      "id": "5160645",
+      "time": "2026-10-22 14:25:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【eBay回應中國區裁員80%傳聞：系臆測，也未退出中國市場】市場傳聞eBay中國於本週啟動新一輪人員調整，涉及上海等主要辦公點，中國區裁員比例或已達80%。對此，eBay相關負責人獨家回應藍鯨科技記者稱，公司昨日進行了全球人員調整，中國是其中一部分；80%的說法是臆測，CEO表示此次調整影響了全球9%的員工。該負責人還表示，網上有很多相關訊息，但可以肯定的是，eBay並未關閉中國研發中心，也未退出中國市場；我們面向賣家的活動仍在穩步推進，12月還將舉辦年度汽配賣家盛會。（藍鯨新聞）"
+    },
+    {
+      "id": "5160644",
+      "time": "2026-10-22 14:25:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【外媒：特朗普稱美國目前未與伊朗談判，但“很快”會發生“某些事情”】據《以色列時報》等媒體報道，美國總統特朗普當地時間21日表示，美國目前未與伊朗進行談判，但“很快”會發生“某些事情”。報道稱，特朗普當天在安德魯斯空軍基地登上總統專機“空軍一號”前對記者說，“我們沒有與伊朗進行談判”。“不管怎樣，很快就會發生某些事情。”特朗普補充說，“大多數人似乎認為那要等到（中期）選舉之後。”（環球網）"
+    },
+    {
+      "id": "te:markets:594076",
+      "time": "2026-10-22 14:24:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Taiwan Stocks End at 5-Week Low — The TAIEX, Taiwan’s benchmark stock index, fell 846 points, or 1.8%, to 46,041 on Thursday, erasing gains from the previous session and tracking declines in US stock futures as investors digested earnings from Meta and Tesla. Rising oil prices further pressured sentiment, raising concerns over inflation expectations and interest rate hikes amid escalating tensions in the Middle East and the Russia-Ukraine conflict. The broader index fell to its lowest level since September 17, weighed mainly by electronic technology, producer manufacturing, process industries, and commercial services. Electronic technology stocks shed 2.3% amid ongoing concerns over AI investment, with TSMC, the world’s largest contract chipmaker, which accounts for more than 40% of the market’s total value, falling 1.5%. Meanwhile, MediaTek, Delta Electronics, and Hon Hai Precision fell 3.1%, 4.0%, and 2.0%, respectively. Process industries plunged 3.8%, mainly due to a 6.1% slump in Nan Ya Plastics Corporation."
+    },
+    {
+      "id": "5160643",
+      "time": "2026-10-22 14:24:49",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【IMF：受伊朗衝突影響，中東北非及巴基斯坦地區今年經濟產出料將萎縮1.3%】國際貨幣基金組織（IMF）週四預測，受伊朗衝突影響，中東、北非及巴基斯坦地區的經濟產出今年將大幅下滑；預計到2027年，該地區經濟將出現反彈，實現6.6%的增長。同時，該組織警告稱，如果能源生產進一步受阻，經濟前景可能會進一步惡化。IMF表示，由於衝突對能源生產、航運、旅遊、貿易及市場信心的衝擊，預計2026年該地區的經濟產出將收縮1.3%。儘管2027年經濟產出有望大幅增長，但這些經濟體的整體產出水平仍將低於戰前的預測值。IMF表示，其基準假設是衝突將於2027年初緩解，貿易活動也將在該年內逐步恢復正常；但同時指出，由於存在“極高的不確定性”，前景依然不明朗。"
+    },
     {
       "id": "5160642",
       "time": "2026-10-22 14:24:01",
