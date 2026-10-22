@@ -1,7 +1,55 @@
 {
   "date": "2026-10-23",
-  "count": 99,
+  "count": 105,
   "items": [
+    {
+      "id": "5162232",
+      "time": "2026-10-23 00:52:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所3個月期鈷期貨收盤價為每噸34,620美元，與前一交易日持平。\n倫敦金屬交易所3個月期鋅期貨收盤價下跌84美元，至每噸3,671美元。\n倫敦金屬交易所3個月期錫期貨收盤價下跌1,159美元，至每噸50,089美元。\n倫敦金屬交易所3個月期鎳期貨收盤價下跌114美元，至每噸16,120美元。\n倫敦金屬交易所3個月期鉛期貨收盤價下跌12美元，至每噸1,898美元。\n倫敦金屬交易所3個月期銅期貨收盤價下跌278美元，至每噸14,078美元。\n倫敦金屬交易所3個月期鋁期貨收盤價下跌32美元，至每噸3,010美元。"
+    },
+    {
+      "id": "mkt:01a16486-f145-7ee0-a94c-fc3394c63fb7",
+      "time": "2026-10-23 00:52:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni government forces said that in 780 strikes over the past 24 hours they have killed about 512 Houthi fighters and commanders and destroyed or hit more than 330 military and troop-transport vehicles. Government forces said they are continuing advances on multiple fronts against the Iran-backed militia."
+    },
+    {
+      "id": "5162230",
+      "time": "2026-10-23 00:51:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果董事長庫克轉發特努斯微博：重新定義 iPhone 的可能！"
+    },
+    {
+      "id": "5162229",
+      "time": "2026-10-23 00:51:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數跌至盤中低點2.9%。"
+    },
+    {
+      "id": "5162226",
+      "time": "2026-10-23 00:49:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "美醫藥股MODERNA股價持續下跌，跌幅達20%。"
+    },
+    {
+      "id": "5162223",
+      "time": "2026-10-23 00:49:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "葉門武裝部隊表示，他們在過去24小時內進行了780次打擊，擊中了約512名胡塞武裝戰士和指揮官，並摧毀或損壞了超過330輛軍用車輛和部隊運輸車，而政府軍繼續在多個戰線對伊朗支援的民兵發動進攻。"
+    },
     {
       "id": "5162222",
       "time": "2026-10-23 00:48:19",
