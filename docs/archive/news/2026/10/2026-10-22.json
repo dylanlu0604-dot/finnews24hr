@@ -1,7 +1,128 @@
 {
   "date": "2026-10-22",
-  "count": 1407,
+  "count": 1420,
   "items": [
+    {
+      "id": "mkt:01a1625c-0ae6-7ee0-a93d-101ef9126ca8",
+      "time": "2026-10-22 14:46:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil aviation authority says King Fahd International Airport in Dammam has resumed operations."
+    },
+    {
+      "id": "5160696",
+      "time": "2026-10-22 14:45:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工業和資訊化部組織召開未來製造技術重點方向研討會】工業和資訊化部組織召開未來製造技術重點方向研討會。會議聚焦未來製造裝備及技術發展趨勢，聽取專家對前沿技術方向、行業發展需求及科技創新工作的意見建議。工業和資訊化部高新技術司副司長毛俊鋒出席會議。會議認為，未來製造技術及裝備是推動製造業高質量發展、加快建設製造強國的重要支撐。要立足國家戰略需求，把握新一輪科技革命和產業變革趨勢，加強前沿技術研判和原創性探索，強化產業需求牽引，充分發揮企業科技創新主體作用和高校、科研院所的源頭創新優勢，推動科技創新和產業創新深度融合。（工信部）"
+    },
+    {
+      "id": "mkt:01a1625b-9b9b-7ee0-a93d-0d697605dc41",
+      "time": "2026-10-22 14:45:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Nikkei 225 falls to near three-month low as risk-off sentiment dominates】Nikkei 225 fell 2.65% to 62,907.84, its lowest close since July 30, as risk-off sentiment weighed. InTouch Capital Markets said investors are questioning whether the latest round of AI company results are sufficient to support currently elevated valuations and ongoing large-scale investment in computing infrastructure. The firm added that renewed geopolitical concerns are amplifying pressure on growth-sensitive markets."
+    },
+    {
+      "id": "mkt:01a1625b-5632-7ee0-a93d-05f3f697c97f",
+      "time": "2026-10-22 14:45:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil aviation authority says the injured in the Dammam airport attack were nationals of Saudi Arabia, Yemen, India and Nepal."
+    },
+    {
+      "id": "5160695",
+      "time": "2026-10-22 14:45:14",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【奧迪考慮任命首位中國籍總裁】10月22日，知情人士透露，奧迪中國可能迎來首位中國籍最高負責人。知情人士稱，奧迪近期已在內部就這一人事安排進行溝通，但相關決定尚未正式對外公佈。知情人士要求匿名。作為此次調整的另一項依據，現任奧迪中國總裁羅英瀚（Johannes Roscheck）預計將在本月底結束為期兩年多的任期並返回德國。若由中國籍高管執掌中國業務，這將是奧迪在華管理體系的一次重要轉變。在本土新能源汽車品牌持續爭奪傳統豪華汽車企業市場份額之際，這一安排可能意味著奧迪希望進一步強化本土決策能力，加快產品、技術及市場策略的響應速度。截至發稿，奧迪尚未回應。（介面新聞）"
+    },
+    {
+      "id": "mkt:01a1625b-3c71-7ee0-a93c-ffed2ed76599",
+      "time": "2026-10-22 14:45:08",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "France October INSEE manufacturing confidence index 105, forecast 101, prior 101."
+    },
+    {
+      "id": "mkt:01a1625b-3948-7ee0-a93c-f6774ebebf60",
+      "time": "2026-10-22 14:45:07",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France October INSEE business confidence index 97, vs 96 expected and 96 prior."
+    },
+    {
+      "id": "mkt:01a1625b-1b35-7ee0-a93c-e84fff079243",
+      "time": "2026-10-22 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | INSEE Manufacturing Confidence Index (Oct) | actual 105 | consensus 101 | previous 101"
+    },
+    {
+      "id": "mkt:01a1625b-1b29-7ee0-a93c-e389dd14a578",
+      "time": "2026-10-22 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | INSEE Business Confidence (Oct) | actual 97 | consensus 96 | previous 96"
+    },
+    {
+      "id": "5160694",
+      "time": "2026-10-22 14:44:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【亞洲煉廠採購2400萬至2600萬桶11月裝船的美國原油】據交易商訊息，亞洲煉廠已購入2400萬至2600萬桶將於11月裝船的美國原油。結合Kpler與Vortexa歷史船舶追蹤資料來看，下月美國發往亞洲的原油出口量或將創下2019年以來最低水平。11月成交量約為上月交易週期的一半，上月敲定約5600萬桶原油，安排在10月裝船。這批11月裝船原油主要由日本煉廠購入，其次是中國臺灣、韓國以及印度。交易商稱，霍爾木茲海峽等渠道的中東原油供應充足，疊加運費高企，導致亞洲買家減少採購美國原油。部分原油將使用阿芙拉型油輪與蘇伊士型油輪運輸，而非常規的超大型油輪。"
+    },
+    {
+      "id": "5160693",
+      "time": "2026-10-22 14:44:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾基亞執行長：未看到連線需求放緩。"
+    },
+    {
+      "id": "5160692",
+      "time": "2026-10-22 14:44:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "GARWARE HI-TECH FILMS股價延續跌勢，最新下跌12.46%。"
+    },
+    {
+      "id": "5160691",
+      "time": "2026-10-22 14:44:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度券商爭搶Jio平臺IPO打新，印度國家銀行推出相關融資服務】印度國家銀行證券透過母公司印度國家銀行，最高可為投資者提供Jio Platforms Ltd IPO申購資金六成的融資。本次IPO申購開啟兩小時內即售罄，首日認購倍數接近三倍，其中合格機構投資者部分認購倍數達九倍。券商透過預約申購、IPO融資等方式吸引新客戶，並鼓勵老客戶儘早參與Jio的IPO申購。"
+    },
     {
       "id": "5160690",
       "time": "2026-10-22 14:43:44",
