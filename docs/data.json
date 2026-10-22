@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-23 03:55:46",
-  "count": 13294,
+  "updated": "2026-10-23 03:59:40",
+  "count": 13297,
   "items": [
+    {
+      "id": "mkt:01a16531-3af3-7ee0-a94e-df9800e13493",
+      "time": "2026-10-23 03:58:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Sources: QatarEnergy is in advanced talks with Venture Global on a long-term deal to buy at least 3 mln tonnes of LNG per year."
+    },
+    {
+      "id": "5162602",
+      "time": "2026-10-23 03:57:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，卡達能源正與 Venture Global進行初步洽談，擬達成長期協議，每年採購至少 300 萬噸液化天然氣。"
+    },
+    {
+      "id": "5162601",
+      "time": "2026-10-23 03:56:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏那曲巴青7.0級地震 已造成16人遇難 32人受傷】記者從那曲市應急管理局獲悉，截至10月23日2時25分，經初步排查統計，西藏那曲巴青7.0級地震已造成16人遇難，32人受傷，其中重傷11人、輕傷21人；房屋倒塌339戶。目前災情仍在進一步核查，搶險搜救、傷員救治等各項抗震救災工作正在持續推進。（那曲融媒）"
+    },
+    {
+      "id": "mkt:01a1652f-8857-7ee0-a94e-d3e2621fc9c6",
+      "time": "2026-10-23 03:56:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury said Secretary Bessent discussed critical minerals with Paraguayan President Peña."
+    },
     {
       "id": "5162600",
       "time": "2026-10-23 03:55:00",
@@ -120636,15 +120670,6 @@
         "國際"
       ],
       "text": "美國國務院官員：魯比奧敦促奧恩追究下令、資助以及指揮這批貨物運輸相關人員的責任。"
-    },
-    {
-      "id": "5148393",
-      "time": "2026-10-16 03:58:49",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院官員：國務卿魯比奧與黎巴嫩總統奧恩通話，內容涉及從真主黨查獲數百公斤爆炸物一事。"
     }
   ]
 }
