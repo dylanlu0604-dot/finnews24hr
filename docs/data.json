@@ -1,7 +1,102 @@
 {
-  "updated": "2026-10-22 09:48:56",
-  "count": 13476,
+  "updated": "2026-10-22 09:52:47",
+  "count": 13484,
   "items": [
+    {
+      "id": "5159706",
+      "time": "2026-10-22 09:52:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：明年總體及核心通脹率預計將高於8月預測。"
+    },
+    {
+      "id": "5159705",
+      "time": "2026-10-22 09:51:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：今年總體通脹和核心通脹預計將與8月份的預測相符。"
+    },
+    {
+      "id": "5159704",
+      "time": "2026-10-22 09:51:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電機板塊持續拉昇，華陽智慧20%漲停】電機板塊持續拉昇，華陽智慧20%漲停，安乃達、兆威機電、鳴志電器漲停。"
+    },
+    {
+      "id": "5159703",
+      "time": "2026-10-22 09:51:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：隨著提前採購需求減弱 2026年第三季度全球PC出貨量下滑21%】Omdia的最新研究顯示，2026年第三季度，全球桌上型電腦、膝上型電腦和工作站的出貨量大幅下滑，同比下降21.2%，至5810萬臺。桌上型電腦出貨量（包括臺式工作站）下降23.5%，至1170萬臺；膝上型電腦出貨量（包括移動工作站）下降20.6%，至4640萬臺。“在上半年持續的提前採購活動支撐了PC市場之後，出貨量的這一大幅下滑並不令人意外。”Omdia研究總監Ishan Dutt表示。Omdia預測，2026年第四季度PC市場將同比下滑24%，2027年全年預計還將進一步下滑7%。"
+    },
+    {
+      "id": "5159702",
+      "time": "2026-10-22 09:51:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "寧德時代港股跌超5%，現報346.40港元。A股現跌超2%。"
+    },
+    {
+      "id": "5159701",
+      "time": "2026-10-22 09:51:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲1%，現報6462.00元。"
+    },
+    {
+      "id": "mkt:01a1614e-3300-7ee0-a936-308e39741853",
+      "time": "2026-10-22 09:51:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "03750.HK",
+        "Impact bearish",
+        "300750.SZ"
+      ],
+      "text": "CATL H shares (03750.HK) fell more than 5%; CATL A-shares fell 2.7%."
+    },
+    {
+      "id": "5159700",
+      "time": "2026-10-22 09:50:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "Minimax跌幅一度達6.2%，跌破IPO發行價。"
+    },
+    {
+      "id": "5159699",
+      "time": "2026-10-22 09:50:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報3173.00元。"
+    },
+    {
+      "id": "te:markets:593996",
+      "time": "2026-10-22 09:48:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "South Korea 10-Year Yield Lowest Since June — South Korea’s 10-year government bond yield fell to around 4.14% in late October, its lowest since June, as foreign buying of government bond futures lifted bond prices. Concerns over mounting debt at AI infrastructure firms further boosted safe-haven demand for government bonds, while falling US Treasury yields put additional downward pressure on Korean yields. On the monetary policy front, the Bank of Korea held its policy rate at 3% on October 22, pausing after back-to-back 25-basis-point hikes in July and August aimed at containing inflation and addressing financial stability risks, including rising housing prices and household debt. Governor Shin Hyun Song also recently signaled a gradual, data-dependent approach to further tightening but pledged to maintain restrictive policy until inflation converges toward its 2% target. Persistent price pressures and strong semiconductor-led growth have kept expectations of another rate hike in November alive."
+    },
     {
       "id": "mkt:01a1614b-9b38-7ee0-a936-2a0ed18d6a3f",
       "time": "2026-10-22 09:48:27",
@@ -122466,23 +122561,6 @@
         "Importance 1"
       ],
       "text": "Australia 10Y Bond Yield Hits 5-week Low — Australia 10 Year Government Bond Yield decreased to 5.23%, the lowest since September 2026. Over the past 4 weeks, Australia 10Y Bond Yield lost 9.00 basis points, and in the last 12 months, it increased 110.10 basis points."
-    },
-    {
-      "id": "5146260",
-      "time": "2026-10-15 09:52:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國聯邦基金期貨延續漲勢，2027年12月到期上漲9個基點，因市場下調利率峰值預期。"
-    },
-    {
-      "id": "5146256",
-      "time": "2026-10-15 09:52:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國互金協會：15家助貸平臺提交審計結果，不存在資金挪用】10月14日，“中國網際網路金融協會”公眾號釋出的助貸平臺申請加入網際網路貸款自律工作委員會籌備組相關進展情況公告（第一期）顯示，攜程金融科技（上海）有限公司、深圳市分期樂網路科技有限公司等15家助貸公司未發現或不存在佔用或挪用應歸屬金融機構的使用者還款資金的情況。"
     }
   ]
 }
