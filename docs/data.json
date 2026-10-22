@@ -1,7 +1,330 @@
 {
-  "updated": "2026-10-22 09:29:46",
-  "count": 13393,
+  "updated": "2026-10-22 09:33:34",
+  "count": 13427,
   "items": [
+    {
+      "id": "5159667",
+      "time": "2026-10-22 09:32:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：經濟增長面臨的不確定因素包括中東風險。"
+    },
+    {
+      "id": "5159666",
+      "time": "2026-10-22 09:32:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【新亞製程盤初快速跌停，上演“天地板”】新亞製程盤初快速跌停，上演“天地板”，成交額1.69億元。"
+    },
+    {
+      "id": "mkt:01a1613d-1dd3-7ee0-a935-86206c2fadb2",
+      "time": "2026-10-22 09:32:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Xinya Process hit the limit-down shortly after the open and later recorded a limit-up in the same session; turnover 270 mln yuan."
+    },
+    {
+      "id": "5159665",
+      "time": "2026-10-22 09:32:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：與晶片相關的經濟增長不確定性依然存在，並可能波及國內需求。"
+    },
+    {
+      "id": "mkt:01a1613c-ec9f-7ee0-a935-7c6f22398a96",
+      "time": "2026-10-22 09:32:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Bank of Korea says uncertainty remains over chip-driven growth and its spillover effects on domestic demand."
+    },
+    {
+      "id": "5159664",
+      "time": "2026-10-22 09:32:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：預計今年和明年的增長率將顯著高於8月份所預測的3.3%和2.9%。"
+    },
+    {
+      "id": "mkt:01a1613c-d9cc-7ee0-a935-7644fff5aa79",
+      "time": "2026-10-22 09:32:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "09866.HK",
+        "02015.HK"
+      ],
+      "text": "Hong Kong equities opened lower and slid, with the Hang Seng Index down over 1% and the Hang Seng Tech Index down over 2%; auto stocks led losses as NIO-SW (09866.HK), Li Auto (02015.HK) and XPeng (09868.HK) each fell more than 3%."
+    },
+    {
+      "id": "5159663",
+      "time": "2026-10-22 09:32:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：預計出口和投資將保持高增長。"
+    },
+    {
+      "id": "mkt:01a1613c-9e3d-7ee0-a935-6a27c7469520",
+      "time": "2026-10-22 09:32:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: Exports and investment are expected to sustain rapid growth."
+    },
+    {
+      "id": "mkt:01a1613c-96ed-7ee0-a935-61b15ea892d9",
+      "time": "2026-10-22 09:32:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Bank of Korea: Stocks fell sharply on concerns about slowing profitability in the semiconductor sector."
+    },
+    {
+      "id": "5159662",
+      "time": "2026-10-22 09:32:02",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：由於市場擔憂半導體行業盈利能力放緩，股價大幅下跌。"
+    },
+    {
+      "id": "5159661",
+      "time": "2026-10-22 09:31:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：股價波動加劇，反映出市場對人工智慧投資放緩的擔憂。"
+    },
+    {
+      "id": "mkt:01a1613c-45c1-7ee0-a935-5c5e53357db6",
+      "time": "2026-10-22 09:31:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Bank of Korea: rising stock volatility reflects market concern about a slowdown in AI investment."
+    },
+    {
+      "id": "mkt:01a1613c-436a-7ee0-a935-577f052f0269",
+      "time": "2026-10-22 09:31:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea expects inflation to remain above its target for an extended period."
+    },
+    {
+      "id": "mkt:01a1613c-3028-7ee0-a935-489abda8481c",
+      "time": "2026-10-22 09:31:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea said it is necessary to continue monitoring financial imbalance risks related to the real estate market and household debt."
+    },
+    {
+      "id": "mkt:01a1613c-1ae8-7ee0-a935-410149989e68",
+      "time": "2026-10-22 09:31:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea said it is necessary to assess developments in domestic and external risk factors and the impact of the two earlier rate hikes."
+    },
+    {
+      "id": "mkt:01a1613c-14c4-7ee0-a935-38c1203791eb",
+      "time": "2026-10-22 09:31:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea will decide the timing and pace of any further benchmark interest rate increases while assessing trends in inflation, the domestic economy and financial stability."
+    },
+    {
+      "id": "5159660",
+      "time": "2026-10-22 09:31:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超2%，現報3913.850點；恒生指數現跌1.043%。"
+    },
+    {
+      "id": "5159659",
+      "time": "2026-10-22 09:31:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：預計通脹率將在相當長一段時間內高於目標水平。"
+    },
+    {
+      "id": "mkt:01a1613c-0018-7ee0-a935-336024a94ed6",
+      "time": "2026-10-22 09:31:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【China government bond futures morning open】At the morning open, China government bond futures front contracts were higher: 2-year (TS) +0.01%, 5-year (TF) +0.02%, 10-year (T) +0.03%, 30-year (TL) +0.08%."
+    },
+    {
+      "id": "5159658",
+      "time": "2026-10-22 09:31:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報23405.871點；恒生科技指數現跌1.979%。"
+    },
+    {
+      "id": "mkt:01a1613b-f759-7ee0-a935-2fa4bbdb42a6",
+      "time": "2026-10-22 09:31:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【China stock index futures open】Morning open: China stock index futures main contracts: CSI 300 (IF) -0.10%, SSE 50 (IH) -0.07%, CSI 500 (IC) +0.01%, CSI 1000 (IM) -0.04%."
+    },
+    {
+      "id": "mkt:01a1613b-dbe5-7ee0-a935-22b08b44775e",
+      "time": "2026-10-22 09:31:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea said Thursday's policy-rate decision was unanimous."
+    },
+    {
+      "id": "5159657",
+      "time": "2026-10-22 09:31:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：有必要繼續關注與房地產市場和家庭債務相關的金融失衡風險。"
+    },
+    {
+      "id": "5159656",
+      "time": "2026-10-22 09:31:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟統計局資料顯示歐元區和歐盟政府債務率上升】歐盟統計局當地時間21日公佈的資料顯示，2026年第二季度末，歐元區政府債務佔國內生產總值的比重升至88.8%，高於第一季度末的88.4%，歐盟債務率也從82.5%升至82.9%，顯示出公共債務負擔持續加重。在歐盟成員國中，希臘債務率最高，為140.8%；緊隨其後的是義大利和法國，分別為139.9%和119.1%，而比利時和西班牙的債務率也分別超過110%和100%。資料還顯示，2026年第二季度，歐元區各國財政赤字佔國內生產總值的比重從第一季度的3.2%升至3.3%，歐盟成員國的財政赤字率則從3.1%升至3.5%。（央視新聞）"
+    },
+    {
+      "id": "5159655",
+      "time": "2026-10-22 09:30:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：將實施貨幣政策，以使通脹穩定在目標水平。"
+    },
+    {
+      "id": "mkt:01a1613b-89fc-7ee0-a935-1cbeec45f59f",
+      "time": "2026-10-22 09:30:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【Retail short-term cash yield snapshot】Tencent Licaitong (current+7-day) 7-day annualized yield — high 1.3750%, low 0.6720%. WeChat Lingqiantong 7-day annualized yield — high 0.9450%, low 0.8790%. Alipay Yu’e Bao 7-day annualized yield — high 1.0030%, low 0.9010%."
+    },
+    {
+      "id": "5159654",
+      "time": "2026-10-22 09:30:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：理事會將決定進一步加息的時機與步伐。"
+    },
+    {
+      "id": "5159653",
+      "time": "2026-10-22 09:30:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：今日的決定獲得一致透過。"
+    },
+    {
+      "id": "5159652",
+      "time": "2026-10-22 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.07%， 10年期主力合約漲0.01%， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "5159651",
+      "time": "2026-10-22 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.31%， 滬深300指數期貨連續漲0.19%， 中證500指數期貨連續跌0.16%， 上證50指數期貨連續漲0.28%。"
+    },
+    {
+      "id": "mkt:01a1613a-b9e9-7ee0-a935-1217518d4f66",
+      "time": "2026-10-22 09:30:00",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "Moscow mayor says 630 drones flew toward Moscow overnight; most were shot down."
+    },
+    {
+      "id": "5159650",
+      "time": "2026-10-22 09:29:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.06%。賽斯轉債、澳弘轉債、永吉轉債、中崙轉債、山石轉債漲幅居前，分別漲3.00%、2.47%、1.99%、1.80%、1.80%。泰瑞轉債、嚴牌轉債、豪美轉債、華懋轉債、保隆轉債跌幅居前，分別跌1.21%、0.72%、0.68%、0.63%、0.61%。"
+    },
+    {
+      "id": "5159649",
+      "time": "2026-10-22 09:29:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今年前9個月訪韓外國遊客超1700萬人次】據報道，韓國文化體育觀光部10月22日釋出的一份資料顯示，今年1—9月訪韓外國遊客累計達1711萬人次，同比增加21.5%，已達到去年全年（1894萬人次）的90.3%水平，有望在月內超過去年全年紀錄。"
+    },
+    {
+      "id": "5159648",
+      "time": "2026-10-22 09:29:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念股部分高開，新亞製程2連板】人形機器人概念股部分高開，新亞製程2連板，大業股份、利亞德、兆威機電、麒麟信安、同惠電子跟漲。"
+    },
     {
       "id": "5159647",
       "time": "2026-10-22 09:29:11",
@@ -121699,18 +122022,6 @@
         "日本央行"
       ],
       "text": "日本央行委員小枝淳子稱，沒必要在加息問題上過於謹慎。"
-    },
-    {
-      "id": "te:markets:592097",
-      "time": "2026-10-15 09:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in China Hit 13-month Low — SHANGHAI decreased to 3709.00 Index Points, the lowest since August 2025. Over the past 4 weeks, Shanghai Stock Exchange Composite Index lost 3.2%, and in the last 12 months, it decreased 3.8%."
     }
   ]
 }
