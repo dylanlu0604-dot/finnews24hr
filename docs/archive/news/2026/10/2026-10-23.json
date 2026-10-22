@@ -1,7 +1,57 @@
 {
   "date": "2026-10-23",
-  "count": 372,
+  "count": 376,
   "items": [
+    {
+      "id": "5162732",
+      "time": "2026-10-23 04:44:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會批准英特爾豁免申請，使其不受部分外國製造先進機器人進口禁令的限制，這些機器人對英特爾在美國的半導體製造業務至關重要。"
+    },
+    {
+      "id": "mkt:01a1655a-1861-7ee0-a94f-95d8caaf71a9",
+      "time": "2026-10-23 04:42:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Meta Platforms",
+        "Nasdaq100",
+        "Impact bearish",
+        "NVDA.O",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【U.S. stocks reassess AI rally’s sustainability; Nasdaq posts biggest daily drop since June】U.S. tech shares fell as investors questioned the sustainability of rising AI-related spending. The Nasdaq slid 2.6%, its largest single-day drop since June, while the blue‑chip‑heavy Dow rose 0.02%. Major AI-related names weakened: Meta fell 7% after disclosing further large spending commitments and missing profit expectations despite strong revenue growth. Nvidia’s CEO warned capital is insufficient to support growth of so‑called “neoclouds” — new cloud providers that would supply digital infrastructure to large AI customers such as Meta and Amazon — stoking sector capital‑intensity concerns. SpaceX, Nvidia and CoreWeave shares also dropped. The Philadelphia Semiconductor Index plunged 6.7%. Risk‑off flows pushed investors into U.S. Treasuries, driving yields sharply lower."
+    },
+    {
+      "id": "5162724",
+      "time": "2026-10-23 04:42:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普向國防部長赫格塞思傳送有關國防生產法案（DPA）和石油問題的備忘錄。特朗普針對美國石油化工產能簽發DPA 303，要求擴大石化產能。"
+    },
+    {
+      "id": "mkt:01a16559-86c9-7ee0-a94f-8ff45c575b40",
+      "time": "2026-10-23 04:42:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "SPCX.O",
+        "TSLA.O"
+      ],
+      "text": "SpaceX (SPCX.O) said any potential merger with Tesla (TSLA.O) would require further approval from the company’s special committee, board and controlling shareholder."
+    },
     {
       "id": "5162723",
       "time": "2026-10-23 04:41:47",
