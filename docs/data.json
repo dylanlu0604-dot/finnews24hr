@@ -1,7 +1,77 @@
 {
-  "updated": "2026-10-23 03:36:26",
-  "count": 13302,
+  "updated": "2026-10-23 03:40:21",
+  "count": 13305,
   "items": [
+    {
+      "id": "5162570",
+      "time": "2026-10-23 03:39:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國投資公司協會（ICI）資料顯示，美國貨幣市場基金資產規模升至7.94萬億美元。"
+    },
+    {
+      "id": "5162567",
+      "time": "2026-10-23 03:39:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：決定將每輸入100萬Tokens定價在0.10美元，其輸入成本為0.01美元。"
+    },
+    {
+      "id": "mkt:01a1651f-b18c-7ee0-a94e-b5c014f6a70e",
+      "time": "2026-10-23 03:38:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "OpenAI said its Decision API is now generally available."
+    },
+    {
+      "id": "5162565",
+      "time": "2026-10-23 03:37:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：決策 API 正式全面開放。"
+    },
+    {
+      "id": "5162563",
+      "time": "2026-10-23 03:37:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部與貿易代表辦公室將在180天內通報風能貿易談判進展。"
+    },
+    {
+      "id": "5162562",
+      "time": "2026-10-23 03:36:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌7%】費城半導體指數日內跌7.01%，現報10699.11點。英偉達跌4.61%，博通跌4.48%，美光跌6.61%，英特爾跌8.40%，AMD跌8.79%，高通跌3.14%，臺積電跌4.84%，阿斯麥跌6.92%。"
+    },
+    {
+      "id": "5162561",
+      "time": "2026-10-23 03:36:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4040美元/盎司，日內跌2.67%。"
+    },
+    {
+      "id": "5162559",
+      "time": "2026-10-23 03:36:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【法國巴黎部分割槽域宵禁延長至25日早晨】當地時間10月22日，法國巴黎警察總局在社交媒體上宣佈，根據法國總理塞巴斯蒂安·勒科爾尼和內政部長洛朗·努涅斯的要求，巴黎共和國廣場及大堂商業區周邊劃定區域將繼續實施宵禁直至25日早晨6時。根據官方公告，22日開始，每日23時至次日早上6時，相關區域禁止成年人和未成年人進入或停留。這意味著最後一輪宵禁將於24日晚開始，持續至25日早上6時。（央視新聞）"
+    },
     {
       "id": "5162551",
       "time": "2026-10-23 03:35:06",
@@ -120690,50 +120760,6 @@
         "MKT News"
       ],
       "text": "Saudi civil defense says the danger in the Jizan region has been lifted."
-    },
-    {
-      "id": "5148376",
-      "time": "2026-10-16 03:38:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙特稱胡塞武裝襲擊利雅得機場共致17死333傷】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基15日在沙特首都利雅得舉行的新聞釋出會上說，葉門胡塞武裝10月以來對利雅得哈立德國王國際機場的襲擊共造成17人死亡、333人受傷。這是聯軍近期首次舉行新聞釋出會。馬利基重點通報了胡塞武裝針對哈立德國王國際機場及其他多地的襲擊情況，以及聯軍對胡塞武裝的打擊情況。馬利基強調，針對民用機場的襲擊不僅破壞沙特安全，也威脅國際民用航空安全。因此，國際社會有責任應對此類跨境威脅。（新華社）"
-    },
-    {
-      "id": "5148375",
-      "time": "2026-10-16 03:38:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥大豆期貨跌1%】週四（10月15日）紐約尾盤，彭博穀物分類指數跌0.70%，報32.0872點，跌穿100日均線（暫報32.0955點），逼近8月13日底部31.28點。CBOT玉米期貨跌0.52%，報4.7825美元/蒲式耳。CBOT小麥期貨跌0.57%，報6.6925美元/蒲式耳。CBOT大豆期貨跌1%，報12.6425美元/蒲式耳，豆粕期貨跌1.29%，豆油期貨漲0.18%。CBOT瘦肉豬期貨漲0.83%，活牛期貨漲0.92%，飼牛期貨漲1.36%。ICE原糖期貨漲1.44%，ICE白糖期貨漲1.09%。ICE阿拉比卡咖啡期貨漲0.22%，咖啡“C”期貨漲0.57%。羅布斯塔咖啡期貨跌3.20%。紐約可可期貨漲0.63%，報5771美元/噸。倫敦可可期貨漲0.31%。芝加哥WCE雙低油菜籽期貨跌1.26%。ICE棉花期貨跌0.74%。"
-    },
-    {
-      "id": "mkt:01a14112-845e-7ee0-a8a7-4d096fc06918",
-      "time": "2026-10-16 03:38:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran military: Strait of Hormuz remains closed; vows several‑fold retaliation if infrastructure attacked】Oct 15, IRIB reported Iran's commander‑in‑chief Hatami said the Strait of Hormuz remains closed and claims it has reopened are false; it will not reopen until the rights of the Iranian people are respected. He said the IRGC navy controls the western Strait while the army's naval forces control the eastern Strait and the Gulf of Oman. Hatami said Iran has stepped up maritime operations recently, with numerous vessels it deemed in violation struck by mines or attacked. He added Iran used a recent lull to repair wartime damage and has increased equipment numbers, quality and combat readiness, saying forces are prepared for any war. Hatami warned that if Iranian infrastructure is attacked, Iran will retaliate against enemy infrastructure and interests several‑fold and urged adversaries not to attack."
-    },
-    {
-      "id": "mkt:01a14112-27c5-7ee0-a8a7-43fdae7e3654",
-      "time": "2026-10-16 03:37:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense issues early warning of potential threats to the Jizan region."
-    },
-    {
-      "id": "5148374",
-      "time": "2026-10-16 03:37:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門針對吉贊地區潛在威脅釋出預警。"
     }
   ]
 }
