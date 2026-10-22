@@ -1,7 +1,112 @@
 {
-  "updated": "2026-10-22 19:07:41",
-  "count": 13389,
+  "updated": "2026-10-22 19:11:40",
+  "count": 13400,
   "items": [
+    {
+      "id": "te:markets:594224",
+      "time": "2026-10-22 19:10:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yields Ease — The UK 10-year gilt yield slipped below 5.4% as concerns over social unrest and rising debt across the eurozone prompted investors to shift away from regional assets, boosting demand for UK government bonds and sterling. Meanwhile, investors continued to weigh stronger-than-expected inflation and mounting public borrowing ahead of next week’s budget and the Bank of England’s November 5 policy meeting. UK inflation rose to 3.5% in September, exceeding forecasts, while core and services inflation also surprised to the upside. Markets now expect at least three quarter-point rate hikes by April 2027, with the first potentially coming in November. Meanwhile, public borrowing reached £24.5 billion, bringing April–September borrowing to £97.8 billion, £6 billion above the OBR’s projection. Despite the worsening fiscal outlook, some major investors expect the upcoming budget to prioritize fiscal discipline, a move that could help sustain demand for gilts."
+    },
+    {
+      "id": "mkt:01a1634d-ee97-7ee0-a945-49d302c93cc8",
+      "time": "2026-10-22 19:10:13",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "EUR/JPY fell 1% to 175.82, the largest one-day decline since Sept. 7."
+    },
+    {
+      "id": "5161545",
+      "time": "2026-10-22 19:09:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "鄭商所：自2026年10月26日結算時起，PTA期貨2612及2701合約的交易保證金標準調整為9%，漲跌停板幅度調整為8%；甲醇期貨2612及2701合約的交易保證金標準調整為9%，漲跌停板幅度調整為8%；對二甲苯期貨2612及2701合約的交易保證金標準調整為9%，漲跌停板幅度調整為8%。"
+    },
+    {
+      "id": "mkt:01a1634d-a8ec-7ee0-a945-46e0df2b8d39",
+      "time": "2026-10-22 19:09:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Zhengzhou Commodity Exchange said trading margin requirements for PTA, methanol and paraxylene (PX) futures 2612 and 2701 will be adjusted to 9% and daily price limits set at 8%, effective at settlement on Oct. 26, 2026."
+    },
+    {
+      "id": "5161544",
+      "time": "2026-10-22 19:09:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東陽光：2026年第三季度淨利潤2.48億元，同比下降15.15%】東陽光公告，2026年第三季度營業收入52.97億元，同比增長37.70%；歸母淨利潤2.48億元，同比下降15.15%；扣非淨利潤3.35億元，同比增長9.71%。2026年前三季度營業收入146.72億元，同比增長33.74%；歸母淨利潤6.38億元，同比下降29.57%；扣非淨利潤7.01億元，同比下降10.90%。"
+    },
+    {
+      "id": "5161543",
+      "time": "2026-10-22 19:09:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空：2026年第三季度飛機燃料及相關稅費為46億美元，較2025年第三季度增長67.5%。"
+    },
+    {
+      "id": "5161542",
+      "time": "2026-10-22 19:09:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【加拿大頭部礦業公司泰克資源：旗下高地谷銅礦收到罷工行動通知】當地時間10月21日，加拿大頭部礦業公司泰克資源宣佈，旗下高地谷銅礦收到罷工行動通知。"
+    },
+    {
+      "id": "5161541",
+      "time": "2026-10-22 19:09:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌日元下跌1%，至175.82，為9月7日以來最大單日跌幅。"
+    },
+    {
+      "id": "5161540",
+      "time": "2026-10-22 19:08:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "普拉達執行長：第三季度秋冬零售銷售出現明顯的季節性延遲。"
+    },
+    {
+      "id": "5161538",
+      "time": "2026-10-22 19:07:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【又現“公奔私”】今年以來“奔私”浪潮持續洶湧。中基協公示資訊顯示，近日鑫元基金原首席量化投資官LeonLuo（洛里昂）參與創辦的嶺南見樹（上海）私募基金管理有限公司（簡稱“嶺南見樹私募”）完成管理人登記，洛里昂出任法定代表人、總經理。據記者不完全統計，今年以來，有近30位曾就職於公募、券商等機構的投研人士創立或加入私募機構。在業內人士看來，越來越多人“奔私”背後是相關人士對結構性行情的樂觀預期，以及監管引導下私募業生態的持續最佳化。（上海證券報）"
+    },
+    {
+      "id": "mkt:01a1634b-7bcb-7ee0-a945-3979ef65a025",
+      "time": "2026-10-22 19:07:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai to push high-quality urban renewal, implement Housing Quality Improvement Project】Shanghai municipal Party committee Financial and Economic Work Committee met this morning to review progress on a new real estate development model. The committee said it will fully implement central directives, prioritize livable and secure housing, and — given megacity conditions — deepen research and enact foundational systems and long-term mechanisms. It called for accelerating a real-estate model with high-quality supply, efficient delivery and robust operations; advancing high-quality urban renewal; strengthening the housing supply system; vigorously implementing a Housing Quality Improvement Project; and further integrating planning, land-reserve, supply and use mechanisms to promote high-quality real estate development."
+    },
+    {
+      "id": "5161537",
+      "time": "2026-10-22 19:07:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其銀行指數在降息後一度下跌1.3%。"
+    },
     {
       "id": "5161536",
       "time": "2026-10-22 19:07:03",
@@ -121665,18 +121770,6 @@
         "Importance 1"
       ],
       "text": "Sri Lanka Services Activity Slows — Sri Lanka’s Services PMI declined to 60.5 in September 2026 from 65.6 in the previous month, although remaining in expansionary territory for a fifth consecutive month. Business activity continued to expand, albeit at a slower pace, reflecting improvements across several sectors, particularly financial services and with notable contributions from education and professional services. New businesses also increased further, supported by continued improvements across these sectors. Employment rose as firms across several industries stepped up recruitment to meet operational requirements and support business expansion. Meanwhile, backlogs of work continued to decline, although at a slower pace. Looking ahead, business sentiment regarding activity over the next three months remained positive, underpinned by favourable macroeconomic conditions, rising tourist arrivals, and the approaching festive season. Nevertheless, broader global uncertainties continued to pose risks to the outlook."
-    },
-    {
-      "id": "te:economy:592350",
-      "time": "2026-10-15 19:07:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sri Lanka",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Sri Lanka Manufacturing Growth Holds Steady — Sri Lanka’s Manufacturing PMI stood at 53 in September 2026, remaining unchanged from the prior month, indicating a steady pace of growth as all sub-indices remained above the neutral threshold. New orders continued to expand, while production rebounded into positive territory, supported largely by increased activity in the food and beverages and textiles and wearing apparel sectors. Employment continued to grow at a solid pace, although the rate of expansion moderated compared to the previous month (52.6 vs. 54.8). Meanwhile, stocks of purchases moderated towards the neutral threshold, while supplier delivery times continued to lengthen at the same pace as in the previous month. Looking ahead, sentiment regarding manufacturing activity over the next three months remained positive, driven largely by expectations of stronger seasonal demand towards the year-end."
     }
   ]
 }
