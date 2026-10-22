@@ -1,7 +1,104 @@
 {
-  "updated": "2026-10-22 19:15:40",
-  "count": 13406,
+  "updated": "2026-10-22 19:19:32",
+  "count": 13415,
   "items": [
+    {
+      "id": "mkt:01a16356-11e5-7ee0-a945-6b042484d28e",
+      "time": "2026-10-22 19:19:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French 10-year government bond yield spread over German bunds widened a further 16 bps to 176 bps."
+    },
+    {
+      "id": "5161558",
+      "time": "2026-10-22 19:18:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天津港：2026年交易後一致行動人持股達70.79%】天津港公告，公司擬發行股份購買天津港集團持有的天津港第二集裝箱碼頭有限公司、天津港匯盛碼頭有限公司各100%股權。本次權益變動提示性公告披露，交易後顯創公司及天津港集團一致行動人持股比例將由57.22%增至70.79%，公司控股股東及實際控制人不變；交易尚需公司股東會審議及有權監管機構稽核、批准或註冊。"
+    },
+    {
+      "id": "5161557",
+      "time": "2026-10-22 19:18:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港大埔火災委員會提交事故報告】香港大埔宏福苑火災獨立委員會已完成研訊，於22日向特區行政長官李家超提交事故報告。李家超表示，特區政府將仔細研究報告內容、落實相關建議，並於短期內公佈全面改革計劃與問責安排。 這起火災發生於2025年11月26日，特區政府同年12月成立獨立委員會開展審視工作。委員會先後舉行30場聽證會，聽取80名事實及專家證人證供，收集逾百萬份檔案，資料量超兩萬億位元組。 李家超表示，報告將予以公開；因相關人士已被刑事起訴，政府會徵詢法律意見，妥善處理可能影響刑事審訊的內容，以合適方式儘快對外發布報告。 （中新網）"
+    },
+    {
+      "id": "5161556",
+      "time": "2026-10-22 19:17:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國奶業協會周振峰：創新消費場景 推動乳品融入餐飲文旅】10月22日，中國奶業協會副秘書長周振峰在2026新消費產業大會上表示，乳品消費擴容提質要創新變革多措並舉。其中要創新消費場景，融入日常生活。面向茶飲、咖啡、烘焙、西餐等業態，開發定製化的半成品及產品，擴大乳品在現制飲品、餐飲配料中的應用；打造“乳品+餐飲+文旅”融合消費場景，推動乳品由傳統日常食品向體驗型、社交型、文化型消費載體延伸。"
+    },
+    {
+      "id": "5161555",
+      "time": "2026-10-22 19:17:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利透過交通運輸行業緊急援助方案，以緩解抗議活動的影響。"
+    },
+    {
+      "id": "5161554",
+      "time": "2026-10-22 19:16:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元EUR/USD向下觸及1.12，日內跌0.28%。"
+    },
+    {
+      "id": "mkt:01a16353-5071-7ee0-a945-63da46cc2237",
+      "time": "2026-10-22 19:16:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China launches AI solar-radiation model to support ultra-short-term PV forecasting】China Meteorological Administration has released an AI solar-radiation forecast model, Wind Source — Radiation Perception and Forecasting. It is the country’s first end-to-end AI solar-radiation model driven by fusion of geostationary satellite data and a ground, minute-level radiation observation network, enabling real-time monitoring and ultra-short-term forecasts for nationwide surface radiation stations and grid cells and providing technical support for PV ultra-short-term power forecasting."
+    },
+    {
+      "id": "mkt:01a16353-10b3-7ee0-a945-5cf873aed64b",
+      "time": "2026-10-22 19:15:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "EUR/USD fell to 1.12, down 0.28% intraday."
+    },
+    {
+      "id": "mkt:01a16352-ee14-7ee0-a945-522beea36344",
+      "time": "2026-10-22 19:15:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "German 10-year bond yield fell to 3.3486%, its lowest since Sept 4, sliding 6.5 bps on the day."
+    },
+    {
+      "id": "5161553",
+      "time": "2026-10-22 19:15:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【實耐寶美股盤前跌超10%】實耐寶美股盤前跌超10%，現報330.99美元。"
+    },
+    {
+      "id": "5161552",
+      "time": "2026-10-22 19:15:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率跌至9月4日以來最低水平，報3.3486%，最新下跌6.5個基點。"
+    },
     {
       "id": "5161551",
       "time": "2026-10-22 19:14:25",
@@ -121795,30 +121892,6 @@
         "Importance 2"
       ],
       "text": "US Futures Hold Mixed Momentum — Futures tracking US equities extended their mixed momentum this week as pressure on AI infrastructure offset resilience elsewhere. Contracts for the S&P 500 dropped 0.3%, and those for the Nasdaq 100 fell 1.3%. Chip producers and AI hyperscalers sank further after Anthropic disclosed third-quarter sales figures that slowed from the pace earlier this year and missed most estimates, reinforcing skepticism that soaring expenditure in the sector may not translate into returns. Micron, Intel, AMD, and Marvell dropped over 4% premarket, while Seagate and Western Digital tumbled 6%. The Nasdaq 100 was poised to decline for the sixth session in the last seven. Producer prices are expected to have risen sharply in September, aligning with current expectations of another Fed rate hike this year. The Dow edged higher as a rally in Treasuries as markets pivoted from speculative assets into lower-risk alternatives. Walmart added 2.6% and Eli Lilly gained 2%."
-    },
-    {
-      "id": "te:economy:592353",
-      "time": "2026-10-15 19:18:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ethiopia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Ethiopia Inflation Rate Softens for 2nd Month — The annual inflation rate in Ethiopia eased for the second month to 14.9% in September 2026, compared to 15.1% in August. Price growth dipped marginally for food and non-alcoholic beverages, to 14.8% from 14.9% in August, particularly vegetables (11.4% vs 12.1%) and meat (22% vs 22.6%). On the other hand, non-food inflation accelerated to 15.1% from 14.8%. Upward pressure continued to come from prices of alcoholic beverages & tobacco (18.2% vs 18.8%); furnishings & household equipment (16.5% vs 16.7%); restaurants & hotels (15.3% vs 14.6%); clothing & footwear (15% vs 14.7%) and housing & utilities (13.6% sv 13.7%). On a monthly basis, the CPI rose by 1.8% in September, after a 0.9% increase in the prior month."
-    },
-    {
-      "id": "te:economy:592352",
-      "time": "2026-10-15 19:16:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Moldova",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Moldova Trade Deficit Widens as Exports Fall — Moldova’s trade deficit widened to USD 636.2 million in August 2026, up from USD 556.6 million a year earlier, reversing a three-month trend of consecutive narrowing. Imports rose 6.5% year-on-year to USD 947.4 million, while exports fell 6.4% to USD 311.2 million. For the January-August period, the trade gap widened to USD 5,140.9 million from USD 4,631.1 million in the same period last year, as exports rose 14.1% and imports increased 12.0%. Over the period, the European Union accounted for 66.6% of total exports and 53.6% of total imports."
     }
   ]
 }
