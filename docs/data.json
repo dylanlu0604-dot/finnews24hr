@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-22 18:52:17",
-  "count": 13323,
+  "updated": "2026-10-22 18:56:09",
+  "count": 13328,
   "items": [
+    {
+      "id": "mkt:01a16340-99e1-7ee0-a944-cf62b922f4b6",
+      "time": "2026-10-22 18:55:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Houthi movement will issue an important statement at 20:00 Beijing time, disclosing several special military operations conducted deep inside Saudi Arabia and stating its position on Saudi threats against Yemeni tribes."
+    },
+    {
+      "id": "5161489",
+      "time": "2026-10-22 18:55:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：自昨晚以來，俄羅斯已向基輔發射了三波彈道導彈，共使用21枚導彈。在基輔及各地，共有34人受傷，其中包括5名兒童。截至目前，已確認2人死亡。"
+    },
+    {
+      "id": "5161488",
+      "time": "2026-10-22 18:54:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沙特阿美疏散達蘭總部人員 要求員工居家辦公】據知情人士透露，沙特阿美週四疏散了位於達蘭的總部人員，並要求員工居家辦公。知情人士稱，此舉是在總部響起警報後採取的。因討論安全事務，知情人士不願具名。他們表示，警報原因一時不明，員工需要居家辦公多久也尚不清楚。沙特阿美和沙特能源部均未立即回應置評請求。上週，這家全球最大石油出口公司的總部園區內一座塔樓遭葉門胡塞武裝襲擊，造成三層樓受損並引發火災。近幾周來，胡塞武裝加大了對沙烏地阿拉伯的襲擊力度，頻繁襲擊機場和能源基礎設施。"
+    },
+    {
+      "id": "5161487",
+      "time": "2026-10-22 18:53:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正泰電源：2026年第三季度淨利潤2208.8萬元，同比下降43.95%】正泰電源公告，2026年第三季度營業收入10.6億元，同比增長20.25%；歸母淨利潤2208.8萬元，同比下降43.95%；扣非淨利潤1558.46萬元，同比下降21.53%。2026年前三季度營業收入28.64億元，同比增長10.54%；歸母淨利潤9039.98萬元，同比下降33.88%；扣非淨利潤6969.69萬元，同比下降39.30%。"
+    },
+    {
+      "id": "5161486",
+      "time": "2026-10-22 18:52:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "Stifel將IBM的目標價從235美元上調至260美元。"
+    },
+    {
+      "id": "5161485",
+      "time": "2026-10-22 18:52:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "BMO將Meta <META.O>的目標價從580美元上調至685美元。"
+    },
     {
       "id": "mkt:01a1633d-0034-7ee0-a944-c66a36464e51",
       "time": "2026-10-22 18:51:44",
@@ -121101,18 +121149,6 @@
         "Importance 1"
       ],
       "text": "Sensex Posts Biggest Daily Gain in 4 Months — India's BSE Sensex accelerated its gains to close 2.1% higher at 74,316 on Thursday, notching its biggest daily gain since June 12 and recovering from the prior session's decline. Buying was broad-based, led by information technology (IT) and banking stocks, as optimism over corporate earnings lifted investor sentiment. The rally came despite weakness in global technology stocks, as concerns over stretched AI valuations and hotter-than-expected US inflation weighed on overseas markets. Tech Mahindra led gains among stocks, surging 4.6%, ahead of its earnings report, while HCL Tech rose 2.6% and TCS advanced 2.3%. ICICI Bank and HDFC Bank gained 4.2% and 2.5%, respectively, with the lenders set to publish their quarterly earnings over the weekend. Bharti Airtel and Reliance Industries rose 2.9% and 2.8%, respectively, after Reliance unit Jio Platforms unveiled plans for India's largest initial public offering (IPO). BEL, Trent and Hindustan Unilever posted only slight losses."
-    },
-    {
-      "id": "te:economy:592343",
-      "time": "2026-10-15 18:54:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "India Unemployment Rate Holds at 5-Month Low — The unemployment rate in India was at 5.0% in September of 2026, below the median market consensus of 5.2% and unchanged from the five-month low in the previous month to maintain the relative resilience of the Indian labor market. The jobless rate held steady despite slight increases in both rural (4.2% vs 4.1% in August) and urban (6.9% vs 6.8%) unemployment. In the meantime, the labor force participation rate eased by 0.1 percentage point to 55.5%, as a drop in rural participation (58% vs 58.2%) offset a slight increase in urban participation (50.7% vs 50.4%)."
     }
   ]
 }
