@@ -1,7 +1,112 @@
 {
   "date": "2026-10-23",
-  "count": 334,
+  "count": 346,
   "items": [
+    {
+      "id": "mkt:01a16543-dbef-7ee0-a94f-2fe828b00842",
+      "time": "2026-10-23 04:18:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the situation over Starlink access for Ukraine is very interesting and declined to disclose whether he had spoken by phone with Elon Musk."
+    },
+    {
+      "id": "5162646",
+      "time": "2026-10-23 04:18:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI即將完成一輪由阿聯酋投資者領投的融資，規模最高達300億美元。"
+    },
+    {
+      "id": "mkt:01a16543-b262-7ee0-a94f-203618f7a376",
+      "time": "2026-10-23 04:18:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump on Russia and Ukraine said we will wait and see."
+    },
+    {
+      "id": "mkt:01a16543-60ad-7ee0-a94f-18e265ff8a39",
+      "time": "2026-10-23 04:17:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP said Musk has effectively lifted restrictions on Starlink use in Ukraine."
+    },
+    {
+      "id": "te:markets:594346",
+      "time": "2026-10-23 04:17:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Comfort Systems USA earnings above expectations at 13.91 USD — Comfort Systems USA (FIX) released earnings per share at 13.91 USD, compared to market expectations of 10.76 USD."
+    },
+    {
+      "id": "5162645",
+      "time": "2026-10-23 04:17:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：說到底是馬斯克恢復了服務。"
+    },
+    {
+      "id": "5162640",
+      "time": "2026-10-23 04:17:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就烏克蘭使用星鏈一事表示：情況非常有意思，不會評論我是否與埃隆交談過。"
+    },
+    {
+      "id": "5162638",
+      "time": "2026-10-23 04:17:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與馬斯克的關係很好。"
+    },
+    {
+      "id": "5162637",
+      "time": "2026-10-23 04:16:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及給馬斯克打電話：我不想說。"
+    },
+    {
+      "id": "mkt:01a16541-d5f1-7ee0-a94f-12fbb8923b36",
+      "time": "2026-10-23 04:16:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver plunged 6.00% intraday to $54.49/oz."
+    },
+    {
+      "id": "5162636",
+      "time": "2026-10-23 04:16:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌6%，現報54.47美元/盎司。"
+    },
+    {
+      "id": "5162635",
+      "time": "2026-10-23 04:16:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談俄羅斯和烏克蘭：我們拭目以待。"
+    },
     {
       "id": "mkt:01a1653f-f1fa-7ee0-a94f-0954b75f365f",
       "time": "2026-10-23 04:14:11",
