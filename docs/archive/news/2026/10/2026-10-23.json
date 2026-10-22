@@ -1,7 +1,70 @@
 {
   "date": "2026-10-23",
-  "count": 525,
+  "count": 532,
   "items": [
+    {
+      "id": "5162875",
+      "time": "2026-10-23 07:43:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "CNN援引官員的話稱，美國軍方使用“炸彈之母”打擊伊朗能源設施和核設施是一個正在考慮的選項。"
+    },
+    {
+      "id": "5162874",
+      "time": "2026-10-23 07:43:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "CNN援引美國官員的話稱，與伊朗重新爆發衝突的可能性將是短期但激烈的，而且特朗普的顧問們已經準備好與以色列協調的打擊伊朗計劃，一旦總統批准即可立即實施。"
+    },
+    {
+      "id": "mkt:01a165ff-76de-7ee0-a950-bc5be245ccdf",
+      "time": "2026-10-23 07:43:23",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Trump signs order to lower US housing costs; directs FHFA pilot to allow mortgage-insurance cancellation, orders USDA and VA to cut single-family loan rates】President Trump on Thursday signed an executive order directing FHFA Director Bill Purtle to design a pilot allowing borrowers who meet required home-equity thresholds based on current market value to proactively cancel mortgage insurance premiums. The order establishes a Prefabricated Housing Innovation Task Force to promote modern manufacturing technologies aimed at improving build quality and reducing construction costs. It also instructs USDA Secretary Brook Rollins and VA Secretary Doug Collins to lower single-family loan rates issued by their departments."
+    },
+    {
+      "id": "5162873",
+      "time": "2026-10-23 07:42:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法媒：受遊行影響 盧浮宮等場館24日臨時閉館 】法國媒體22日援引法國文化部的一份宣告稱，由於首都巴黎24日預計舉行遊行示威活動，盧浮宮等多家文化場館當天將臨時關閉。報道說，除盧浮宮外，當天計劃關閉的場館還包括奧賽博物館、畢加索博物館和橘園美術館。此外，巴黎大皇宮24日也將關閉，其正在舉辦的巴塞爾藝術展將於23日提前結束。報道稱，法國文化部還呼籲其下屬機構採取一切必要措施，保障參觀者和工作人員安全，並確保藝術作品得到妥善保管。"
+    },
+    {
+      "id": "5162872",
+      "time": "2026-10-23 07:41:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓：新南威爾士州批准阿瑟山煤礦改造計劃。"
+    },
+    {
+      "id": "5162871",
+      "time": "2026-10-23 07:40:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲宣佈.com域名調價】10月22日，阿里雲宣佈，因.com域名上游註冊局成本上調，經慎重考慮，現決定於2026年11月1日零時，將域名調整為以下價格：.com英文域名首年註冊價格為90元，續費價格為99元，轉入價格為90元。"
+    },
+    {
+      "id": "5162870",
+      "time": "2026-10-23 07:40:25",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本關鍵通脹指標升破央行的目標水平 支援年內加息】日本關鍵通脹指標今年以來首次升破央行的目標水平，這為外界普遍預期日本央行將在12月加息提供了支援。日本總務省週五公佈，9月剔除生鮮食品的消費者價格指數(CPI)同比上漲2.1%，符合經濟學家的預測中值。剔除生鮮食品和能源的CPI同比上漲2.4%。日本央行密切關注這一核心通脹指標。整體CPI同比上漲2.1%。"
+    },
     {
       "id": "5162869",
       "time": "2026-10-23 07:39:52",
