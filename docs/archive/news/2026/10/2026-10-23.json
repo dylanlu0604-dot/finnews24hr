@@ -1,7 +1,57 @@
 {
   "date": "2026-10-23",
-  "count": 78,
+  "count": 84,
   "items": [
+    {
+      "id": "mkt:01a1647c-2c8d-7ee0-a94c-d9e861d668d0",
+      "time": "2026-10-23 00:40:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen government forces said Houthi heavy weapons and reinforcement units en route to the Taiz front were destroyed."
+    },
+    {
+      "id": "mkt:01a1647b-3ad2-7ee0-a94c-d6855d75cf6d",
+      "time": "2026-10-23 00:39:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Politico reported the EU trade commissioner signaled the EU may respond to US President Trump's drug-pricing policies."
+    },
+    {
+      "id": "5162203",
+      "time": "2026-10-23 00:39:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "默沙東股價跌幅擴大至2%。"
+    },
+    {
+      "id": "mkt:01a1647a-50fe-7ee0-a94c-cd8895e615ef",
+      "time": "2026-10-23 00:38:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Vice President Vance said sometimes Ukrainians are a bit stubborn and sometimes Russians are; diplomacy's task is to address those issues and work to resolve them."
+    },
+    {
+      "id": "5162202",
+      "time": "2026-10-23 00:37:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐萊雅ADR股價在第三季度銷售額超出預期後上漲8.3%。"
+    },
+    {
+      "id": "5162201",
+      "time": "2026-10-23 00:37:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "默沙東股價轉跌，觸及盤中低點。"
+    },
     {
       "id": "mkt:01a16479-1365-7ee0-a94c-c0e45d267fce",
       "time": "2026-10-23 00:36:58",

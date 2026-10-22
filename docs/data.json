@@ -1,7 +1,57 @@
 {
-  "updated": "2026-10-23 00:37:31",
+  "updated": "2026-10-23 00:41:33",
   "count": 13309,
   "items": [
+    {
+      "id": "mkt:01a1647c-2c8d-7ee0-a94c-d9e861d668d0",
+      "time": "2026-10-23 00:40:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen government forces said Houthi heavy weapons and reinforcement units en route to the Taiz front were destroyed."
+    },
+    {
+      "id": "mkt:01a1647b-3ad2-7ee0-a94c-d6855d75cf6d",
+      "time": "2026-10-23 00:39:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Politico reported the EU trade commissioner signaled the EU may respond to US President Trump's drug-pricing policies."
+    },
+    {
+      "id": "5162203",
+      "time": "2026-10-23 00:39:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "默沙東股價跌幅擴大至2%。"
+    },
+    {
+      "id": "mkt:01a1647a-50fe-7ee0-a94c-cd8895e615ef",
+      "time": "2026-10-23 00:38:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Vice President Vance said sometimes Ukrainians are a bit stubborn and sometimes Russians are; diplomacy's task is to address those issues and work to resolve them."
+    },
+    {
+      "id": "5162202",
+      "time": "2026-10-23 00:37:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐萊雅ADR股價在第三季度銷售額超出預期後上漲8.3%。"
+    },
+    {
+      "id": "5162201",
+      "time": "2026-10-23 00:37:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "默沙東股價轉跌，觸及盤中低點。"
+    },
     {
       "id": "mkt:01a16479-1365-7ee0-a94c-c0e45d267fce",
       "time": "2026-10-23 00:36:58",
@@ -120734,56 +120784,6 @@
         "其他"
       ],
       "text": "法國和德國就汽車產業的未來達成協議。"
-    },
-    {
-      "id": "5148204",
-      "time": "2026-10-16 00:40:58",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部網站：美國發布與伊朗相關的通用許可證，授權逐步結束涉及國際開發投資銀行的交易。"
-    },
-    {
-      "id": "5148203",
-      "time": "2026-10-16 00:40:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "CARGURUS股價漲幅迅速收窄，一度轉跌。"
-    },
-    {
-      "id": "5148202",
-      "time": "2026-10-16 00:40:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約市消費者與勞工保護局起訴Cargurus。"
-    },
-    {
-      "id": "5148200",
-      "time": "2026-10-16 00:38:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國授權逐步終止部分涉及IDB的交易。"
-    },
-    {
-      "id": "5148199",
-      "time": "2026-10-16 00:38:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國製裁伊拉克開發銀行。"
-    },
-    {
-      "id": "5148198",
-      "time": "2026-10-16 00:37:38",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部發放了兩項與Lukoil International GmbH相關的許可證。"
     }
   ]
 }
