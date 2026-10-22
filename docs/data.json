@@ -1,7 +1,50 @@
 {
-  "updated": "2026-10-23 04:19:09",
-  "count": 13306,
+  "updated": "2026-10-23 04:23:03",
+  "count": 13310,
   "items": [
+    {
+      "id": "mkt:01a16547-849b-7ee0-a94f-400876d97eb3",
+      "time": "2026-10-23 04:22:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI intends to sign the agreement before the end of next week, CNBC reports."
+    },
+    {
+      "id": "5162659",
+      "time": "2026-10-23 04:22:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：美國國務卿魯比奧今日與北約秘書長呂特通話。"
+    },
+    {
+      "id": "mkt:01a16547-61e3-7ee0-a94f-3bcd799b9c8b",
+      "time": "2026-10-23 04:22:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNBC reports OpenAI is negotiating a commercial agreement to secure additional compute capacity from the UAE; UAE investors and Coatue are leading a financing round for OpenAI."
+    },
+    {
+      "id": "mkt:01a16545-6318-7ee0-a94f-35c3625febe0",
+      "time": "2026-10-23 04:20:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "CNBC reports OpenAI is set to complete up to $30 bln financing led by a UAE investor, valuing the company at $1.25 trln."
+    },
+    {
+      "id": "5162652",
+      "time": "2026-10-23 04:19:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI正洽談從阿聯酋獲取更多算力。"
+    },
     {
       "id": "mkt:01a16543-dbef-7ee0-a94f-2fe828b00842",
       "time": "2026-10-23 04:18:28",
@@ -120748,21 +120791,6 @@
         "Importance 1"
       ],
       "text": "TSX Rises as Banks and Tech Stocks Rebound — The S&P/TSX Composite Index rose 1.5% to close at 36,137 on Thursday as banking and technology stocks rebounded sharply from earlier losses. Lower global bond yields boosted risk appetite after a selloff in Wall Street chipmakers drove investors toward safe-haven assets such as government bonds. Canada’s benchmark 10-year bond yield fell about 8 basis points, supporting broad-based gains across sectors. Interest-rate-sensitive stocks advanced, with RBC up 1.1%, TD Bank gaining 1.5%, and National Bank rising 1.9%. Retailers also gained, with Loblaw jumping 5% and Dollarama advancing 2.7%. Meanwhile, the selloff in chipmakers slowed sharply, while US hyperscalers mostly closed higher, lending support to Canadian technology stocks. Shopify rose 2.9%, Constellation Software jumped 4.6%. Celestica closed 3.1% lower, trimming losses. Rising gold and silver prices boosted mining shares, with Agnico Eagle gaining 5.7%, Barrick adding 4%, and WPM rising 2.5%."
-    },
-    {
-      "id": "mkt:01a14138-dd1c-7ee0-a8a7-cb39abd0472b",
-      "time": "2026-10-16 04:20:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "2026 FOMC voter and Cleveland Fed President Hamak is scheduled to speak in 10 minutes."
     }
   ]
 }
