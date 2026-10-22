@@ -1,7 +1,72 @@
 {
-  "updated": "2026-10-23 00:41:33",
-  "count": 13309,
+  "updated": "2026-10-23 00:45:31",
+  "count": 13308,
   "items": [
+    {
+      "id": "mkt:01a1647f-919c-7ee0-a94c-e55c077f21b7",
+      "time": "2026-10-23 00:44:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US 5-year Treasury yield fell 15bps to 4.80%."
+    },
+    {
+      "id": "5162214",
+      "time": "2026-10-23 00:42:44",
+      "tags": [
+        "宏觀",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部5年期國債收益率當日下降15個基點，至4.80%。"
+    },
+    {
+      "id": "5162213",
+      "time": "2026-10-23 00:42:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "開雲集團首席財務官：我們目前正處於非常不確定的環境中。"
+    },
+    {
+      "id": "te:economy:594327",
+      "time": "2026-10-23 00:41:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Producer Price Inflation MoM",
+        "Importance 1"
+      ],
+      "text": "Canada Producer Prices Rise the Most in 6 Months — Producer prices in Canada rose 2.0% month-on-month in September 2026, accelerating from a downwardly revised 1.2% gain in August and contrasting with market expectations of a slowdown to 0.9%. This marked the sharpest monthly rise since March, driven primarily by the prolonged US-Iran conflict, which continued to push inflation of energy and petroleum products higher to 12.1% following a 3.7% gain in August. The increase reflected higher prices for refined products (13.7%), particularly diesel (18.4%), followed by finished motor gasoline (7.8%) and light fuel oils (15.4%). Excluding energy and petroleum products, producer prices edged up 0.3%. Chemical and chemical product prices rebounded sharply by 3.8% after falling 0.3% in August, driven by higher prices for dyes and pigments and petrochemicals (9.7%). Plastic resins (11.0%) and fertilizers, pesticides and other chemical products (4.1%) also contributed significantly to the increase."
+    },
+    {
+      "id": "5162212",
+      "time": "2026-10-23 00:41:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌4%，現報13276.00元。"
+    },
+    {
+      "id": "5162211",
+      "time": "2026-10-23 00:41:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國長端國債收益率跌超7個基點】週四（10月22日）歐市尾盤，英國10年期國債收益率跌5.3個基點，報5.325%，日內整體震盪下行。兩年期英債收益率跌3.3個基點，報4.890%，整體呈現出長尾M形走勢。30年期英債收益率跌7.3個基點，報5.715%，整體持續走低；50年期英債收益率跌7.7個基點，報5.122%。2/10年期英債收益率利差跌1.927個基點，報+43.471個基點。"
+    },
+    {
+      "id": "5162204",
+      "time": "2026-10-23 00:41:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "MODERNA恢復交易後下跌16%。"
+    },
     {
       "id": "mkt:01a1647c-2c8d-7ee0-a94c-d9e861d668d0",
       "time": "2026-10-23 00:40:21",
@@ -120713,77 +120778,6 @@
         "國際"
       ],
       "text": "國際紙業確認就出售歐洲、中東和非洲包裝業務進行磋商。"
-    },
-    {
-      "id": "mkt:01a14074-16da-7ee0-a8a5-7174b37149f0",
-      "time": "2026-10-16 00:45:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Variety reports CNN has reached a multi-year partnership with Google (GOOG.O) to advance generative AI applications."
-    },
-    {
-      "id": "5148210",
-      "time": "2026-10-16 00:44:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國和法國達成協議，以保護歐盟汽車產業。"
-    },
-    {
-      "id": "5148209",
-      "time": "2026-10-16 00:44:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "FBI負責人：美國聯邦調查局很自豪能在總統、副總統和白宮欺詐問題特別工作組的領導下，幫助主導這場反欺詐行動。我們與各級執法夥伴合作，在短短3個月內消除了數百億美元計的潛在欺詐損失，包括逮捕6名頭號通緝欺詐犯，涉案欺詐金額超過20億美元。"
-    },
-    {
-      "id": "5148208",
-      "time": "2026-10-16 00:43:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利三年期預算從金融業吸引到107億歐元（投資意向）。"
-    },
-    {
-      "id": "5148207",
-      "time": "2026-10-16 00:43:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "CNN與谷歌達成多年合作伙伴關係，將擁抱生成式人工智慧。"
-    },
-    {
-      "id": "5148206",
-      "time": "2026-10-16 00:43:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "CARGURUS股價持續下跌，跌幅高達2.2%。"
-    },
-    {
-      "id": "mkt:01a14071-420f-7ee0-a8a5-6c71ffc9ae1b",
-      "time": "2026-10-16 00:42:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury issued a general license related to Iran permitting a phased wind-down of transactions involving the International Investment and Financial Development Bank."
-    },
-    {
-      "id": "5148205",
-      "time": "2026-10-16 00:42:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國和德國就汽車產業的未來達成協議。"
     }
   ]
 }
