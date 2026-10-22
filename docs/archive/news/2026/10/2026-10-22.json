@@ -1,7 +1,144 @@
 {
   "date": "2026-10-22",
-  "count": 1260,
+  "count": 1275,
   "items": [
+    {
+      "id": "mkt:01a16233-5dd8-7ee0-a93b-9aadecc8fbfb",
+      "time": "2026-10-22 14:01:35",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "EUROSTOXX 50 futures fell 0.95%, DAX futures fell 0.71% and FTSE futures fell 0.43%."
+    },
+    {
+      "id": "mkt:01a16233-3a14-7ee0-a93b-945824caa33e",
+      "time": "2026-10-22 14:01:26",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "Super Micro Computer (SMCI.O) launched an NVIDIA Vera CPU rack — a rack-level system with 256 CPUs and a 100% liquid-cooled design, compatible with NVIDIA's Vera Rubin platform and targeted at large-scale agent-based AI workloads."
+    },
+    {
+      "id": "5160610",
+      "time": "2026-10-22 14:01:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊第三季度固定收益、外匯及大宗商品收入10.1億英鎊，預估12.8億英鎊。第三季度股票業務收入10.1億英鎊，預估8.422億英鎊。第三季度投行業務手續費收入6.56億英鎊，預估6.611億英鎊。第三季度利潤總額73.7億英鎊，預估76.2億英鎊。第三季度淨利息收入39.1億英鎊，預估39.1億英鎊。第三季度除稅前利潤23.2億英鎊，預估24.4億英鎊。"
+    },
+    {
+      "id": "5160609",
+      "time": "2026-10-22 14:01:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈門國貿稀貴金屬有限公司登記成立 註冊資本1億】天眼查顯示，近日，廈門國貿稀貴金屬有限公司成立，法定代表人為林海宇，註冊資本1億元人民幣，經營範圍包括金屬材料銷售、新型金屬功能材料銷售、有色金屬合金銷售等。股東資訊顯示，該公司由廈門國貿同歆實業有限公司、廈門國貿寶達潤實業有限公司分別持股95%、5%。"
+    },
+    {
+      "id": "5160608",
+      "time": "2026-10-22 14:00:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "新臺幣兌美元下跌0.3%至32.590。"
+    },
+    {
+      "id": "5160607",
+      "time": "2026-10-22 14:00:42",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛：安踏第四季開局穩健，評級“買入”】高盛發表研報指，安踏體育管理層透露第四季開局穩健，國慶假期銷售表現好過高盛的渠道檢查，雙11預售大致符合預期。高盛預料，明年農曆新年較今年提早11日，將進一步利好第四季銷售，管理層仍有信心達致並維持全年指引，目前預測集團明年純利可錄得雙位數增長，並受惠於Puma在中國的潛在協同效應及較早農曆新年的利好，給予目標價105港元，評級“買入”。"
+    },
+    {
+      "id": "5160606",
+      "time": "2026-10-22 14:00:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50期貨<STXEc1>下跌0.95%，德國DAX期貨<FDXc1>下跌0.71%，富時期貨<FFIc1>下跌0.43%。"
+    },
+    {
+      "id": "5160605",
+      "time": "2026-10-22 14:00:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛馬仕第三季度亞太地區營收（按固定匯率計算）增長0%，預計增長1.55%。"
+    },
+    {
+      "id": "5160604",
+      "time": "2026-10-22 14:00:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重慶產投母基金、華潤微電子等成立私募股權基金】企查查APP顯示，近日，重慶潤西芯科私募股權投資基金合夥企業（有限合夥）成立，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由重慶產業投資母基金合夥企業（有限合夥）、央企戰略性新興產業發展基金有限責任公司、華潤微電子控股有限公司等共同出資。"
+    },
+    {
+      "id": "te:markets:594066",
+      "time": "2026-10-22 13:59:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Closes 0.4% Lower — The ASX 200 fell 38 points, or 0.4%, to finish at 8,793 on Thursday, erasing modest gains in the previous session as U.S. stock futures weakened amid higher oil prices and mounting concerns about AI investment. Caution also emerged ahead of Australia’s flash October PMI data due Friday. Meanwhile, Reserve Bank Deputy Governor Hauser said inflation remains more persistent than expected, with September headline CPI at 4%, reinforcing expectations of another rate hike in November. Consumer discretionary, mining, and energy stocks led declines, while gains in logistics, transport, and utilities helped limit losses. BHP Group tumbled 2.3% amid operational disruptions at key assets, including the Escondida mine in Chile. Woodside Energy fell 3.2%, Wesfarmers lost 2.9%, while BlueScope Steel eased 1.4%. Codan Ltd. plunged 7.4% after an off-market block trade worth AUD 312 million, reportedly involving the sale of roughly 23% of the stake held by its largest individual shareholder."
+    },
+    {
+      "id": "5160603",
+      "time": "2026-10-22 13:59:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【斯萊克：金剛石銅複合冷板專案獲階段性成果 將啟動量產前置工作】近日，斯萊克召開熱控專案成果彙報會。經公司基礎效能測試，本次開發的金剛石銅冷板具備超高導熱、低熱膨脹係數優勢，能夠解決高功率AI晶片的熱障難題，適配算力伺服器、大功率半導體器件等高階熱管理場景。公司熱控團隊結合氣壓熔滲法，燒結法和擴散焊等工藝，推進晶片封裝散熱與伺服器散熱冷板兩類產品開發。目前公司金剛石銅複合冷板專案取得階段性成果，熱控團隊已完成樣品開發與效能驗證，將啟動量產前置工作。"
+    },
+    {
+      "id": "5160602",
+      "time": "2026-10-22 13:59:46",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券、國軒高科等入股吉利旗下遠端商用車科技公司】天眼查App顯示，近日，遠端商用車科技有限公司發生工商變更，新增中信證券投資有限公司、合肥國軒高科動力能源有限公司等為股東，同時，註冊資本由約9.57億元人民幣增至約10.6億元人民幣。該公司成立於2021年7月，法定代表人為戴慶，經營範圍含電池製造、電池銷售、新能源汽車整車銷售、新能源汽車換電設施銷售等，現由浙江遠端新能源汽車集團有限公司、李書福及上述新增股東等共同持股。"
+    },
+    {
+      "id": "mkt:01a16231-4bcb-7ee0-a93b-8d7b8857c2e8",
+      "time": "2026-10-22 13:59:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "China A-share memory chip sector surged: Yunhan Xincheng jumped straight to a 20% limit-up, Huatian Technology hit its daily limit, and Dapuwei, Demingli, Dike Co. and Youyan New Materials also rallied."
+    },
+    {
+      "id": "5160601",
+      "time": "2026-10-22 13:59:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體板塊快速反彈，華天科技直線漲停】半導體板塊快速反彈，華天科技直線漲停，大普微、德明利、有研新材、中科儀、炬芯科技跟漲。"
+    },
+    {
+      "id": "5160600",
+      "time": "2026-10-22 13:58:30",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：正積極推進境內券商牌照申請】花旗集團正持續加碼中國機構業務，積極推進境內券商牌照申請，等待境內券商牌照獲批，謀求在中國內地開展本土投行業務。據瞭解，花旗於2021年11月提交全資券商牌照申請，此前與東方證券的合資投行業務已於2019年退出，此後轉為申請設立全資券商，並於2024年2月4日獲得證監會反饋。截至目前，在華展業的外資獨資券商已有7家，分別是摩根大通證券（中國）、高盛（中國）證券、渣打證券（中國）、法巴證券（中國）、瑞銀證券（中國）、瑞穗證券（中國）以及大和證券（中國）。 (財聯社)"
+    },
     {
       "id": "mkt:01a1622e-11d1-7ee0-a93b-833302bfa7f4",
       "time": "2026-10-22 13:55:48",
