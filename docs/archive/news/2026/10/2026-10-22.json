@@ -1,7 +1,104 @@
 {
   "date": "2026-10-22",
-  "count": 815,
+  "count": 826,
   "items": [
+    {
+      "id": "5159693",
+      "time": "2026-10-22 09:44:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中際旭創港股跌超5%】中際旭創港股跌5.12%，報741.00港元。A股現跌近5%。"
+    },
+    {
+      "id": "5159692",
+      "time": "2026-10-22 09:43:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國內最大2.8米直縫焊管機成功投產】據科技日報，10月21日，記者從太原重型機械集團有限公司（簡稱“太重”）獲悉，其自主研發的國內最大2.8米直縫焊管機在使用者現場成功投產，這不僅重新整理國內直縫焊管機規格上限，也鞏固了國產裝備在直縫焊管領域的話語權，更有助於保障油氣管網建設的裝備供應安全與成本可控，降低關鍵裝備對外依賴。"
+    },
+    {
+      "id": "5159691",
+      "time": "2026-10-22 09:43:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電池板塊短線走低，時代萬恆跌停】電池板塊短線走低，時代萬恆跌停，紫竹高科、尚太科技、領湃科技、尚水智慧等跟跌。"
+    },
+    {
+      "id": "mkt:01a16146-b19f-7ee0-a936-052f77f3a6b3",
+      "time": "2026-10-22 09:43:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Ministry of Finance said it will temporarily suspend some website content and services while implementing security measures."
+    },
+    {
+      "id": "te:markets:593993",
+      "time": "2026-10-22 09:43:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Fall on AI Investment Concerns — The benchmark KOSPI fell nearly 2% to around 5,635 on Thursday, reversing gains from the previous session as concerns over the profitability of AI infrastructure investments weighed on technology shares. Samsung Electronics and SK hynix fell more than 1% and 2%, respectively, as investors questioned whether returns from debt-backed AI spending would justify the massive outlays, raising concerns over valuations and future investment. Other notable decliners included LG Energy Solution (-4.3%), SK Innovation (-6.9%), Hyundai Motor (-2.4%), Samsung SDI (-3.1%), Kia Corporation (-1.4%) and HD Hyundai Heavy Industries (-2.0%). Meanwhile, semiconductor exports surged 222.5% year-on-year in the first 20 days of October, highlighting continued chip demand and supporting the earnings outlook for Samsung Electronics and SK hynix."
+    },
+    {
+      "id": "5159690",
+      "time": "2026-10-22 09:42:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "5159689",
+      "time": "2026-10-22 09:42:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數下跌2%，至5620.76點。"
+    },
+    {
+      "id": "mkt:01a16146-0925-7ee0-a935-fb8f68ff5203",
+      "time": "2026-10-22 09:42:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI fell as much as 2.00% intraday."
+    },
+    {
+      "id": "5159688",
+      "time": "2026-10-22 09:42:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省表示，在落實安全措施期間，將暫時暫停部分網站內容及服務。"
+    },
+    {
+      "id": "5159687",
+      "time": "2026-10-22 09:41:53",
+      "tags": [],
+      "text": "恒生科技指數跌超2％，年內下滑近三成。聯想集團、阿里巴巴、小鵬集團、蔚來領跌。"
+    },
+    {
+      "id": "mkt:01a16144-cace-7ee0-a935-f4822d2578ef",
+      "time": "2026-10-22 09:41:00",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share battery sector slipped intraday; Shidai Wanheng fell over 9%, while Zizhu Gaoke, Shangtai Technology, Lingpai Technology and Shangshui Intelligent also traded lower."
+    },
     {
       "id": "mkt:01a16144-2bf7-7ee0-a935-edb000c17749",
       "time": "2026-10-22 09:40:19",
