@@ -1,7 +1,118 @@
 {
-  "updated": "2026-10-23 07:44:37",
-  "count": 13297,
+  "updated": "2026-10-23 07:48:23",
+  "count": 13301,
   "items": [
+    {
+      "id": "mkt:01a16603-7ceb-7ee0-a950-d0fe1a18b51c",
+      "time": "2026-10-23 07:47:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister KATAYAMA said she was unable to comment on restoring gasoline subsidies and that household circumstances would be taken into account."
+    },
+    {
+      "id": "5162883",
+      "time": "2026-10-23 07:47:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受西藏巴青地震影響扣停列車今早恢復執行】來自國鐵青藏集團公司的最新訊息，受昨晚地震影響扣停的部分青藏鐵路列車，今早已陸續恢復執行，並採取限速執行措施。"
+    },
+    {
+      "id": "mkt:01a16603-3640-7ee0-a950-cba6975ea6eb",
+      "time": "2026-10-23 07:47:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said Japanese financial institutions have handled the PHP issue relatively smoothly and he expects institutions will continue to take necessary action."
+    },
+    {
+      "id": "5162882",
+      "time": "2026-10-23 07:47:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：無法就恢復汽油補貼置評，將把家庭狀況納入考量。"
+    },
+    {
+      "id": "5162881",
+      "time": "2026-10-23 07:46:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：尚未決定是否繼續提供補貼。"
+    },
+    {
+      "id": "5162880",
+      "time": "2026-10-23 07:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：到目前為止，汽油補貼確實起到了幫助作用。"
+    },
+    {
+      "id": "5162879",
+      "time": "2026-10-23 07:45:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.6點."
+    },
+    {
+      "id": "5162878",
+      "time": "2026-10-23 07:45:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數期貨在盤前交易中下跌1.5%。"
+    },
+    {
+      "id": "5162877",
+      "time": "2026-10-23 07:45:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：相信日本金融機構已相對平穩地應對了PHP問題，預計它們將繼續採取必要措施。"
+    },
+    {
+      "id": "mkt:01a16601-59e2-7ee0-a950-c567e57787cc",
+      "time": "2026-10-23 07:45:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "GBPUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【UK to Rely More on Gas Imports This Winter; European LNG Competition Could Push Prices Higher】Britain is expected to rely more on gas imports this winter. Despite a recent rise in domestic supply, global market tightness leaves the UK exposed to price spikes. The national gas transmission operator said North Sea output is forecast to fall about 5% in the current heating season; North Sea supplies account for roughly one-third of UK winter gas demand. LNG imports are expected to rise about 5% to cover the shortfall, while Norwegian pipeline flows are forecast to increase about 1%. The operator said even under extreme stress scenarios the UK would have \"adequate gas supply capacity\", but warned that \"strong European LNG demand could intensify competition for cargoes and push up prices.\" UK gas futures have nearly tripled year-to-date, trading at the highest levels since 2022."
+    },
+    {
+      "id": "em:jjsj_rbsj:202610233904792121",
+      "time": "2026-10-23 07:45:23",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "【日本關鍵通脹指標升破央行的目標水平 支援年內加息】日本總務省10月23日公佈，9月剔除生鮮食品的消費者價格指數（CPI）同比上漲2.1%，剔除生鮮食品和能源的CPI同比上漲2.4%，整體CPI同比上漲2.1%。日本關鍵通脹指標今年以來首次升破央行的目標水平，這為外界普遍預期日本央行將在12月加息提供了支援。"
+    },
+    {
+      "id": "5162876",
+      "time": "2026-10-23 07:44:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：金融機構對PHP問題反應順利。"
+    },
     {
       "id": "5162875",
       "time": "2026-10-23 07:43:59",
@@ -120589,89 +120700,6 @@
         "Important"
       ],
       "text": "Japan | Weekly Foreign Bonds Buying (Oct.9) | actual -339700000000B | previous -347600000000B"
-    },
-    {
-      "id": "mkt:01a141f7-635c-7ee0-a8a9-ee79f8dbd6bb",
-      "time": "2026-10-16 07:48:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 10-year government bond yield fell 3.5 bps to 2.885%."
-    },
-    {
-      "id": "mkt:01a141f7-2822-7ee0-a8a9-e3a46b1e450e",
-      "time": "2026-10-16 07:47:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Goolsbee: Inflation data disappointing but I remain hopeful】Chicago Fed President Goolsbee said this week’s consumer and producer price readings came in above expectations and were \"disappointing.\" He said he \"remains somewhat hopeful\": if the factors lifting inflation — whether tariffs or supply disruptions from the Middle East war — fade quickly, that would be the best outcome; if inflation instead reflects overheated demand or a large-scale buildout of AI data centers, it would be more concerning and would require policy action."
-    },
-    {
-      "id": "mkt:01a141f6-3b62-7ee0-a8a9-dd876b4575c7",
-      "time": "2026-10-16 07:46:58",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "SK Hynix and Samsung Electronics rose about 3% in pre-market trade in Seoul."
-    },
-    {
-      "id": "5148555",
-      "time": "2026-10-16 07:46:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債收益率下跌3.5個基點至2.885%。"
-    },
-    {
-      "id": "5148554",
-      "time": "2026-10-16 07:46:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數期貨早盤上漲1.08%。"
-    },
-    {
-      "id": "mkt:01a141f4-cee6-7ee0-a8a9-d4f7e591b1f0",
-      "time": "2026-10-16 07:45:25",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact mixed"
-      ],
-      "text": "According to Nikkei, Japan's Ministry of Health, Labour and Welfare plans to introduce subsidies for childbirth expenses, possibly starting as early as H2 of fiscal 2027."
-    },
-    {
-      "id": "mkt:01a141f4-9f6b-7ee0-a8a9-cdb748d413e0",
-      "time": "2026-10-16 07:45:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "South Korea is considering expanding naval deployments in the Gulf of Oman."
-    },
-    {
-      "id": "5148553",
-      "time": "2026-10-16 07:44:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美俄勒岡州一小學發生槍擊事件 5人死亡 】綜合美國俄勒岡州本德市警方和媒體訊息，本德市一所小學15日發生槍擊事件，嫌犯為一名16歲的男子，截至目前已造成至少5人死亡，其中包括三名兒童。警方表示，最初的報警稱一名身份不明的男子向一輛汽車開槍。隨後多通報警電話稱，一人進入學校並開槍。警方應急人員趕到現場後，發現嫌犯已中彈身亡，對其開槍者可能是一名現場人員。當地媒體稱，尚不清楚目前的死亡人數是否包括嫌犯。根據警方通報，至少有兩人被送往附近醫院救治，傷情不清楚。執法人員正在疏散該校師生。（新華社）"
     }
   ]
 }

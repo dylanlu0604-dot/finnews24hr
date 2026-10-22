@@ -1,7 +1,118 @@
 {
   "date": "2026-10-23",
-  "count": 532,
+  "count": 544,
   "items": [
+    {
+      "id": "mkt:01a16603-7ceb-7ee0-a950-d0fe1a18b51c",
+      "time": "2026-10-23 07:47:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister KATAYAMA said she was unable to comment on restoring gasoline subsidies and that household circumstances would be taken into account."
+    },
+    {
+      "id": "5162883",
+      "time": "2026-10-23 07:47:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受西藏巴青地震影響扣停列車今早恢復執行】來自國鐵青藏集團公司的最新訊息，受昨晚地震影響扣停的部分青藏鐵路列車，今早已陸續恢復執行，並採取限速執行措施。"
+    },
+    {
+      "id": "mkt:01a16603-3640-7ee0-a950-cba6975ea6eb",
+      "time": "2026-10-23 07:47:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said Japanese financial institutions have handled the PHP issue relatively smoothly and he expects institutions will continue to take necessary action."
+    },
+    {
+      "id": "5162882",
+      "time": "2026-10-23 07:47:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：無法就恢復汽油補貼置評，將把家庭狀況納入考量。"
+    },
+    {
+      "id": "5162881",
+      "time": "2026-10-23 07:46:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：尚未決定是否繼續提供補貼。"
+    },
+    {
+      "id": "5162880",
+      "time": "2026-10-23 07:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：到目前為止，汽油補貼確實起到了幫助作用。"
+    },
+    {
+      "id": "5162879",
+      "time": "2026-10-23 07:45:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.6點."
+    },
+    {
+      "id": "5162878",
+      "time": "2026-10-23 07:45:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數期貨在盤前交易中下跌1.5%。"
+    },
+    {
+      "id": "5162877",
+      "time": "2026-10-23 07:45:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：相信日本金融機構已相對平穩地應對了PHP問題，預計它們將繼續採取必要措施。"
+    },
+    {
+      "id": "mkt:01a16601-59e2-7ee0-a950-c567e57787cc",
+      "time": "2026-10-23 07:45:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "GBPUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【UK to Rely More on Gas Imports This Winter; European LNG Competition Could Push Prices Higher】Britain is expected to rely more on gas imports this winter. Despite a recent rise in domestic supply, global market tightness leaves the UK exposed to price spikes. The national gas transmission operator said North Sea output is forecast to fall about 5% in the current heating season; North Sea supplies account for roughly one-third of UK winter gas demand. LNG imports are expected to rise about 5% to cover the shortfall, while Norwegian pipeline flows are forecast to increase about 1%. The operator said even under extreme stress scenarios the UK would have \"adequate gas supply capacity\", but warned that \"strong European LNG demand could intensify competition for cargoes and push up prices.\" UK gas futures have nearly tripled year-to-date, trading at the highest levels since 2022."
+    },
+    {
+      "id": "em:jjsj_rbsj:202610233904792121",
+      "time": "2026-10-23 07:45:23",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "【日本關鍵通脹指標升破央行的目標水平 支援年內加息】日本總務省10月23日公佈，9月剔除生鮮食品的消費者價格指數（CPI）同比上漲2.1%，剔除生鮮食品和能源的CPI同比上漲2.4%，整體CPI同比上漲2.1%。日本關鍵通脹指標今年以來首次升破央行的目標水平，這為外界普遍預期日本央行將在12月加息提供了支援。"
+    },
+    {
+      "id": "5162876",
+      "time": "2026-10-23 07:44:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：金融機構對PHP問題反應順利。"
+    },
     {
       "id": "5162875",
       "time": "2026-10-23 07:43:59",
