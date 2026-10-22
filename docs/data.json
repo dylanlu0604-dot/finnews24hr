@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-23 00:25:36",
-  "count": 13308,
+  "updated": "2026-10-23 00:29:32",
+  "count": 13307,
   "items": [
+    {
+      "id": "mkt:01a16470-6c36-7ee0-a94c-afdb5de4630e",
+      "time": "2026-10-23 00:27:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge ordered President Trump to be deposed by Dec. 11 in his defamation lawsuit against the BBC, the AP said."
+    },
+    {
+      "id": "mkt:01a1646e-d5c3-7ee0-a94c-a06a0d2a0466",
+      "time": "2026-10-23 00:25:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) CEO Ternus: Can't wait."
+    },
     {
       "id": "5162190",
       "time": "2026-10-23 00:24:42",
@@ -120749,37 +120770,6 @@
         "市場"
       ],
       "text": "【10/30年期德債收益率跌幅收窄，但仍然跌超5個基點】週四（10月15日）歐市尾盤，德國10年期國債收益率跌5.3個基點，報3.413%，日內交投於3.353%-3.414%區間，跳空低開之後平緩地持續擴大跌幅、北京時間21:00重新整理日低。兩年期德債收益率跌1.7個基點，報3.112%，日內交投於3.047%-3.112%區間；30年期德債收益率跌5.3個基點，報3.774%。2/10年期德債收益率利差跌3.712個基點，報+29.817個基點。"
-    },
-    {
-      "id": "te:economy:592499",
-      "time": "2026-10-16 00:27:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ecuador",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Ecuador Inflation Rate Rises in September — Ecuador’s annual inflation rate rose to 1.34% in September 2026, the first increase in three months, from 1.12% in August in the same year. Food prices fell 0.12%, a much milder deflation than the 1.32% drop in August. Goods inflation accelerated to 1.06% from 0.74%, while services inflation edged up to 1.69% from 1.60%. Fuel prices surged 18.95%, although the increase was slower than August’s 24.64%. Compared to the previous month, the CPI went up 0.3%. Year-to-date inflation reached 1.65%."
-    },
-    {
-      "id": "5148190",
-      "time": "2026-10-16 00:27:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門政府軍稱，過去24小時內對胡塞武裝據點及作戰能力實施了超過1250次精確打擊。"
-    },
-    {
-      "id": "mkt:01a14063-74dd-7ee0-a8a5-4786762ba5e8",
-      "time": "2026-10-16 00:27:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Yemeni government forces said they carried out more than 1,250 precision strikes against Houthi positions and military capabilities in the past 24 hours."
     }
   ]
 }

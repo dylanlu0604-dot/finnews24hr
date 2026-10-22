@@ -1,7 +1,28 @@
 {
   "date": "2026-10-23",
-  "count": 63,
+  "count": 65,
   "items": [
+    {
+      "id": "mkt:01a16470-6c36-7ee0-a94c-afdb5de4630e",
+      "time": "2026-10-23 00:27:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge ordered President Trump to be deposed by Dec. 11 in his defamation lawsuit against the BBC, the AP said."
+    },
+    {
+      "id": "mkt:01a1646e-d5c3-7ee0-a94c-a06a0d2a0466",
+      "time": "2026-10-23 00:25:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) CEO Ternus: Can't wait."
+    },
     {
       "id": "5162190",
       "time": "2026-10-23 00:24:42",
