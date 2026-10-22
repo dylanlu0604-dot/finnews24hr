@@ -1,7 +1,43 @@
 {
   "date": "2026-10-23",
-  "count": 367,
+  "count": 371,
   "items": [
+    {
+      "id": "mkt:01a16554-0633-7ee0-a94f-815fe23f493c",
+      "time": "2026-10-23 04:36:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch says persistently high jet fuel prices, airspace disruptions and rising borrowing costs could weaken airlines' credit profiles."
+    },
+    {
+      "id": "te:markets:594349",
+      "time": "2026-10-23 04:35:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.02% Higher — The Dow Jones Index gained 12 points or 0.02 percent on Thursday to close at 52868 points. Gains were led by P&G (5.79%), Home Depot (4.27%) and J&J (3.83%). Biggest losers were Caterpillar (-4.99%), Amazon (-4.62%) and Nvidia (-4.46%)."
+    },
+    {
+      "id": "5162706",
+      "time": "2026-10-23 04:35:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：重啟俄美烏三方會談不是僅為短暫停火】俄羅斯總統普京22日表示，俄羅斯和美國就重啟俄美烏三方會談達成一致，三方會談的目標不是僅僅為了短暫的停火。據俄總統新聞網站當天釋出的訊息，普京在接受俄電視節目主持人扎魯賓採訪時說，透過與美國總統特使威特科夫的會晤，俄美就重啟三方會談達成一致。三方會談的目標是討論在和平協議最終達成後如何確保俄羅斯和烏克蘭的安全，而不是僅僅為了短暫的停火。俄方準備恢復接觸，以實現這一目標。普京說，俄羅斯一直主張以和平方式解決俄烏衝突，現在仍然願意以談判的方式尋求解決方案。俄方希望達成和平協議。（央視新聞）"
+    },
+    {
+      "id": "5162703",
+      "time": "2026-10-23 04:34:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽：燃料價格持續高企、空域中斷以及借貸成本上升可能削弱航空公司的信用狀況。"
+    },
     {
       "id": "mkt:01a16551-fab8-7ee0-a94f-79bb17923175",
       "time": "2026-10-23 04:33:53",

@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-23 04:34:40",
-  "count": 13319,
+  "updated": "2026-10-23 04:38:31",
+  "count": 13318,
   "items": [
+    {
+      "id": "mkt:01a16554-0633-7ee0-a94f-815fe23f493c",
+      "time": "2026-10-23 04:36:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch says persistently high jet fuel prices, airspace disruptions and rising borrowing costs could weaken airlines' credit profiles."
+    },
+    {
+      "id": "5162706",
+      "time": "2026-10-23 04:35:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：重啟俄美烏三方會談不是僅為短暫停火】俄羅斯總統普京22日表示，俄羅斯和美國就重啟俄美烏三方會談達成一致，三方會談的目標不是僅僅為了短暫的停火。據俄總統新聞網站當天釋出的訊息，普京在接受俄電視節目主持人扎魯賓採訪時說，透過與美國總統特使威特科夫的會晤，俄美就重啟三方會談達成一致。三方會談的目標是討論在和平協議最終達成後如何確保俄羅斯和烏克蘭的安全，而不是僅僅為了短暫的停火。俄方準備恢復接觸，以實現這一目標。普京說，俄羅斯一直主張以和平方式解決俄烏衝突，現在仍然願意以談判的方式尋求解決方案。俄方希望達成和平協議。（央視新聞）"
+    },
+    {
+      "id": "te:markets:594349",
+      "time": "2026-10-23 04:35:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.02% Higher — The Dow Jones Index gained 12 points or 0.02 percent on Thursday to close at 52868 points. Gains were led by P&G (5.79%), Home Depot (4.27%) and J&J (3.83%). Biggest losers were Caterpillar (-4.99%), Amazon (-4.62%) and Nvidia (-4.46%)."
+    },
+    {
+      "id": "5162703",
+      "time": "2026-10-23 04:34:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽：燃料價格持續高企、空域中斷以及借貸成本上升可能削弱航空公司的信用狀況。"
+    },
     {
       "id": "mkt:01a16551-fab8-7ee0-a94f-79bb17923175",
       "time": "2026-10-23 04:33:53",
@@ -120825,53 +120861,6 @@
         "公司"
       ],
       "text": "明晟公司（MSCI）：凍結 MSCI 土耳其指數。若到 2027 年 6 月仍未見進展，或將土耳其指數從新興市場調整為前沿市場 / 獨立市場類別。"
-    },
-    {
-      "id": "5148430",
-      "time": "2026-10-16 04:38:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "明晟公司（MSCI）：印尼指數調整提案將影響全球及區域綜合指數。"
-    },
-    {
-      "id": "5148428",
-      "time": "2026-10-16 04:38:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "明晟公司（MSCI）：提案擬將 MSCI 印尼指數從新興市場調整為獨立市場類別。"
-    },
-    {
-      "id": "5148427",
-      "time": "2026-10-16 04:37:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌：在美國上線通用購物車，支援跨多店鋪購物。"
-    },
-    {
-      "id": "5148423",
-      "time": "2026-10-16 04:36:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國國務卿魯比奧今日與以色列總理內塔尼亞胡進行了通話。"
-    },
-    {
-      "id": "te:markets:592515",
-      "time": "2026-10-16 04:35:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 1.09% Higher — The Dow Jones Index gained 560 points or 1.09 percent on Thursday to close at 52182 points. Gains were led by Nike (5.30%), Salesforce (4.57%) and Home Depot (4.25%)."
     }
   ]
 }
