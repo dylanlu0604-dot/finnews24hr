@@ -1,7 +1,54 @@
 {
   "date": "2026-10-23",
-  "count": 58,
+  "count": 63,
   "items": [
+    {
+      "id": "5162190",
+      "time": "2026-10-23 00:24:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：勒布朗·詹姆斯在奏國歌時對我國不敬；勒布朗·詹姆斯應當道歉。"
+    },
+    {
+      "id": "5162189",
+      "time": "2026-10-23 00:23:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果CEO特努斯釋出微博：迫不及待。"
+    },
+    {
+      "id": "mkt:01a1646a-dc66-7ee0-a94c-9cb4c1413879",
+      "time": "2026-10-23 00:21:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB executive board member Pereira said Europe must deepen the single market."
+    },
+    {
+      "id": "5162188",
+      "time": "2026-10-23 00:21:09",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【瀋陽和研科技股份有限公司啟動上市輔導】據證監會官網顯示，瀋陽和研科技股份有限公司於2026年10月22日正式啟動上市輔導，中信建投證券擔任輔導機構。"
+    },
+    {
+      "id": "te:markets:594326",
+      "time": "2026-10-23 00:20:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Honeywell International Shares Hit 7-week High — Honeywell International shares increased to 216.16 USD, the highest since August 2026. Over the past 4 weeks, Honeywell International gained 1.56%, and in the last 12 months, it decreased 2.17%."
+    },
     {
       "id": "mkt:01a1646a-6415-7ee0-a94c-93e5493628b2",
       "time": "2026-10-23 00:20:56",

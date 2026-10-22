@@ -1,7 +1,54 @@
 {
-  "updated": "2026-10-23 00:21:32",
-  "count": 13307,
+  "updated": "2026-10-23 00:25:36",
+  "count": 13308,
   "items": [
+    {
+      "id": "5162190",
+      "time": "2026-10-23 00:24:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：勒布朗·詹姆斯在奏國歌時對我國不敬；勒布朗·詹姆斯應當道歉。"
+    },
+    {
+      "id": "5162189",
+      "time": "2026-10-23 00:23:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果CEO特努斯釋出微博：迫不及待。"
+    },
+    {
+      "id": "mkt:01a1646a-dc66-7ee0-a94c-9cb4c1413879",
+      "time": "2026-10-23 00:21:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB executive board member Pereira said Europe must deepen the single market."
+    },
+    {
+      "id": "5162188",
+      "time": "2026-10-23 00:21:09",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【瀋陽和研科技股份有限公司啟動上市輔導】據證監會官網顯示，瀋陽和研科技股份有限公司於2026年10月22日正式啟動上市輔導，中信建投證券擔任輔導機構。"
+    },
+    {
+      "id": "te:markets:594326",
+      "time": "2026-10-23 00:20:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Honeywell International Shares Hit 7-week High — Honeywell International shares increased to 216.16 USD, the highest since August 2026. Over the past 4 weeks, Honeywell International gained 1.56%, and in the last 12 months, it decreased 2.17%."
+    },
     {
       "id": "mkt:01a1646a-6415-7ee0-a94c-93e5493628b2",
       "time": "2026-10-23 00:20:56",
@@ -120733,49 +120780,6 @@
         "Brent"
       ],
       "text": "Yemeni government forces said they carried out more than 1,250 precision strikes against Houthi positions and military capabilities in the past 24 hours."
-    },
-    {
-      "id": "te:markets:592498",
-      "time": "2026-10-16 00:24:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "TE Crack Spread Index Hits 5-week Low — TE Crack Spread Index decreased to 59.09 Index Points, the lowest since September 2026. Over the past 4 weeks, TE Crack Spread Index lost 13.83%, and in the last 12 months, it increased 148.78%."
-    },
-    {
-      "id": "5148189",
-      "time": "2026-10-16 00:24:47",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【花旗策略師預計科技股將貢獻2027年全球絕大部分的盈利增長】花旗集團策略師表示，科技股明年料將貢獻全球近70%的盈利增長，因此如果人工智慧熱潮開始降溫，股市漲勢可能因此面臨風險。花旗的分析顯示，從行業貢獻來看，這一比例將使2027年的盈利增長集中度躋身有記錄以來最高之列。包括David Groman和Beata Manthey在內的團隊表示，過去30年中，貢獻最大的行業板塊平均約佔盈利增長的40%。"
-    },
-    {
-      "id": "5148188",
-      "time": "2026-10-16 00:24:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【CoreWeave暴跌超百億美元市值  德意志銀行：存在買入機會】本週CoreWeave股票遭遇慘烈拋售，受信貸狀況惡化影響，四個交易日內市值蒸發超100億美元。 但德意志銀行認為，對投資者而言這是一次“買入機會”。 分析師布拉德·澤爾尼克週四在客戶研報中寫道：“多重因素疊加，似乎造成過去一週CoreWeave上市股票與債券大幅拋售。”但他補充稱：“我們找不到能夠解釋近期這一波行情的公司自身基本面因素。”"
-    },
-    {
-      "id": "mkt:01a1405f-3783-7ee0-a8a5-38fe269f828d",
-      "time": "2026-10-16 00:22:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Putin says Russia will respond to Ukrainian attacks on energy and logistics facilities】On Oct. 15, Putin said Russia will respond to Ukrainian attacks on Russian refineries and other energy and logistics infrastructure. He said Ukraine has been sabotaging Russian energy facilities; strikes on a series of refineries have so far caused no material damage but have continued. He added that facilities tied to e-commerce platforms were also first targeted by Ukraine and said Ukrainian authorities should consider the consequences before striking such infrastructure."
     }
   ]
 }
