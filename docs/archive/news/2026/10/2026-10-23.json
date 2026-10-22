@@ -1,7 +1,94 @@
 {
   "date": "2026-10-23",
-  "count": 516,
+  "count": 525,
   "items": [
+    {
+      "id": "5162869",
+      "time": "2026-10-23 07:39:52",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本9月全國核心-核心CPI較上年同期增長2.4%】日本政府週五公佈的資料顯示，9月核心消費者物價指數(CPI)較上年同期上漲2.1%，符合市場預期。核心CPI包含石油產品但排除生鮮食品價格。剔除生鮮食品和能源的9月核心-核心CPI同比上漲2.4%。日本整體CPI漲幅自2025年12月以來首度超過2%。日本核心-核心CPI自3月以來首次上漲超過2%。"
+    },
+    {
+      "id": "5162868",
+      "time": "2026-10-23 07:39:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬斯克據報向天空之舞投資約10億美元】10月23日訊息，據報道，埃隆·馬斯克已向天空之舞（Skydance）投資約10億美元，為這家由大衛·埃裡森領導的媒體娛樂公司注入資金。該投資與公司其他投資者的股權投資大致同期完成，其中包括董事會成員勞倫娜·鮑威爾·喬布斯。"
+    },
+    {
+      "id": "te:economy:594377",
+      "time": "2026-10-23 07:39:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Japan Inflation Rate Hits 9-Month High — Japan's annual inflation rate accelerate to 2.1% in September 2026 from 1.9% in the previous two months, marking the highest level since December 2025. Core inflation, which excludes fresh food, climbed to 2.1% from 1.7% in August, pointing to the highest figure in nine months and slightly above the Bank of Japan's 2% target. On a monthly basis, consumer prices were flat, following a 0.1% rise in August"
+    },
+    {
+      "id": "te:economy:594376",
+      "time": "2026-10-23 07:38:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Core Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Japan Core Inflation Rises Above BoJ Target — Japan’s core consumer price index, which excludes fresh food but includes energy, increased 2.1% year-on-year in September 2026, following a 1.7% rise in August. It was the highest reading since December 2025, matching market forecasts. The latest reading pushed inflation above the Bank of Japan’s 2% target for the first time in nine months, though government fuel subsidies helped offset price pressures from higher oil costs linked to the Middle East conflict."
+    },
+    {
+      "id": "5162867",
+      "time": "2026-10-23 07:38:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【莫德納和默克股價重挫，黑色素瘤疫苗資料未能驚豔市場】莫德納和默克股價下跌，兩家公司備受期待的個性化黑色素瘤疫苗資料不足以讓投資者相信癌症治療的新時代已經到來。兩家公司8月宣佈，這款定製疫苗如與默克暢銷藥Keytruda聯合使用，可顯著降低這種致命腫瘤的復發風險，並具有臨床意義。週四洩露的完整試驗資料未能達到華爾街今年早些時候形成的高預期。儘管實驗結果清楚表明疫苗有效，但沒有驚豔到足以讓市場相信莫德納和默克能夠實現更宏大的目標，即開創一種治療多種癌症的新方法。莫德納股價重挫18%，默克下跌1.8%。"
+    },
+    {
+      "id": "5162866",
+      "time": "2026-10-23 07:37:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鋁集團在香港設立企業財資中心】據香港特區政府新聞公報，香港投資推廣署今日（10月23日）宣佈，中國鋁業集團有限公司在港設立企業財資中心——中鋁集團財資管理有限公司（中鋁財資）。中鋁財資是是中鋁集團的離岸資金管理平臺，將負責集團的離岸資金集中管理、離岸融資、匯率及利率風險管理，以及綜合金融服務。投資推廣署署長劉凱旋表示：“我們歡迎中鋁財資落戶香港。香港作為全球最大離岸人民幣樞紐，可為企業提供人民幣跨境結算、多幣種資金管理及風險對沖能力，並正推動人民幣在融資與大宗商品計價中更廣泛使用。配合簡明稅制及資金自由流動，投資推廣署期望中鋁集團以財資中心為起點，進一步在香港佈局大宗商品交易功能，結合香港定價、結算、融資及倉儲網路，與自身產業實力形成互惠協同效應。”"
+    },
+    {
+      "id": "5162865",
+      "time": "2026-10-23 07:37:35",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：由委內瑞拉主導的程序將繼續加強民主制度，為自由、公平和可信的選舉奠定基礎。"
+    },
+    {
+      "id": "5162864",
+      "time": "2026-10-23 07:37:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：繼續敦促立即釋放委內瑞拉所有政治犯。"
+    },
+    {
+      "id": "5162863",
+      "time": "2026-10-23 07:37:11",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：美國歡迎委內瑞拉2015年全國代表大會與臨時政府之間第三輪政治和解談判結束。"
+    },
     {
       "id": "5162861",
       "time": "2026-10-23 07:36:10",
