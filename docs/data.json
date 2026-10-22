@@ -1,7 +1,90 @@
 {
-  "updated": "2026-10-23 00:45:31",
-  "count": 13308,
+  "updated": "2026-10-23 00:49:33",
+  "count": 13310,
   "items": [
+    {
+      "id": "5162222",
+      "time": "2026-10-23 00:48:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4050美元/盎司，日內跌2.41%。"
+    },
+    {
+      "id": "mkt:01a16482-8d40-7ee0-a94c-f545ff368636",
+      "time": "2026-10-23 00:47:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold touched an intraday low of $4,040/oz, down 2.44% on the day."
+    },
+    {
+      "id": "mkt:01a16482-56ab-7ee0-a94c-e99561bccea6",
+      "time": "2026-10-23 00:47:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 30-year Treasury yield falls 10 bps to 5.30%."
+    },
+    {
+      "id": "5162220",
+      "time": "2026-10-23 00:46:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階安全官員稱，在任何軍事升級中，德黑蘭都不會區分內塔尼亞胡和美國總統特朗普。"
+    },
+    {
+      "id": "5162219",
+      "time": "2026-10-23 00:45:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4040美元/盎司，日內跌2.46%。"
+    },
+    {
+      "id": "5162218",
+      "time": "2026-10-23 00:45:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌5%，現報54.82美元/盎司。"
+    },
+    {
+      "id": "5162215",
+      "time": "2026-10-23 00:45:27",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率當日下跌10個基點至5.30%。"
+    },
+    {
+      "id": "te:markets:594328",
+      "time": "2026-10-23 00:45:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Altria Shares Hit 12-week High — Altria shares increased to 75.75 USD, the highest since July 2026. Over the past 4 weeks, Altria gained 9.8%, and in the last 12 months, it increased 17.25%."
+    },
     {
       "id": "mkt:01a1647f-919c-7ee0-a94c-e55c077f21b7",
       "time": "2026-10-23 00:44:04",
@@ -120725,59 +120808,6 @@
         "市場"
       ],
       "text": "【法國10/30年期國債收益率至少跌8個基點】週四（10月15日）歐市尾盤，法國10年期國債收益率跌8.5個基點，報4.796%，整體低開低走，北京時間21:00重新整理日低至4.723%，隨後收復部分失地；兩年期法債收益率跌3個基點，30年期法債收益率跌8.0個基點。義大利10年期國債收益率跌6.7個基點，報4.483%。西班牙10年期國債收益率跌6.3個基點，報4.025%，全天處於下跌狀態，在V形反轉行情中、北京時間21:00重新整理日低至3.958%。希臘10年期國債收益率跌6.5個基點，報4.328%。"
-    },
-    {
-      "id": "mkt:01a14077-0c87-7ee0-a8a5-89504e2ec5de",
-      "time": "2026-10-16 00:48:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury adjusts transaction licenses related to Lukoil."
-    },
-    {
-      "id": "5148213",
-      "time": "2026-10-16 00:47:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【CNN與谷歌達成多年合作，探索生成式AI提升新聞內容觸達】CNN與谷歌簽訂一項多年合作協議，研究谷歌生成式AI產品如何提升其新聞報道的使用者參與度。這項合作尚處於早期階段，雙方尚未披露CNN將具體如何藉助谷歌AI產品把流量導向自身新聞內容。但CNN負責戰略合作與業務拓展的高階副總裁薩姆·費利克斯於週四發表宣告稱，本次合作將開闢“受眾接觸CNN獨家新聞報道的新途徑，同時CNN也將因自身獨特智慧財產權在AI產品中的分發與使用獲得報酬”。費利克斯在宣告中表示：“谷歌在生成式AI領域的創新改變了人們查詢資訊與內容的方式，如今這些工具將幫助我們探索觸達受眾、提升使用者互動的新方法。”CNN在新聞稿中強調，該協議體現出其在人工智慧時代保護新聞作品的努力。就在數月前，CNN曾起訴Perplexity AI侵犯版權，當時雙方未能達成授權協議。"
-    },
-    {
-      "id": "mkt:01a14076-780c-7ee0-a8a5-82c792648ea3",
-      "time": "2026-10-16 00:47:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury says it has added Banco Internacional de Comercio de Cuba to its sanctions list."
-    },
-    {
-      "id": "5148212",
-      "time": "2026-10-16 00:47:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "國際紙業公司：歐洲、中東和非洲地區包裝業務分拆預計將透過倫敦證券交易所上市和紐約證券交易所的二級美國存託憑證實現。"
-    },
-    {
-      "id": "mkt:01a14075-4c83-7ee0-a8a5-7aa59b94d835",
-      "time": "2026-10-16 00:46:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish"
-      ],
-      "text": "Germany and France have agreed on an EU automotive deal to ease the planned 2035 ban on sales of new combustion-engine cars, Handelsblatt reports."
-    },
-    {
-      "id": "5148211",
-      "time": "2026-10-16 00:46:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際紙業確認就出售歐洲、中東和非洲包裝業務進行磋商。"
     }
   ]
 }

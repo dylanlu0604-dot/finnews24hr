@@ -1,7 +1,90 @@
 {
   "date": "2026-10-23",
-  "count": 91,
+  "count": 99,
   "items": [
+    {
+      "id": "5162222",
+      "time": "2026-10-23 00:48:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4050美元/盎司，日內跌2.41%。"
+    },
+    {
+      "id": "mkt:01a16482-8d40-7ee0-a94c-f545ff368636",
+      "time": "2026-10-23 00:47:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold touched an intraday low of $4,040/oz, down 2.44% on the day."
+    },
+    {
+      "id": "mkt:01a16482-56ab-7ee0-a94c-e99561bccea6",
+      "time": "2026-10-23 00:47:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 30-year Treasury yield falls 10 bps to 5.30%."
+    },
+    {
+      "id": "5162220",
+      "time": "2026-10-23 00:46:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階安全官員稱，在任何軍事升級中，德黑蘭都不會區分內塔尼亞胡和美國總統特朗普。"
+    },
+    {
+      "id": "5162219",
+      "time": "2026-10-23 00:45:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4040美元/盎司，日內跌2.46%。"
+    },
+    {
+      "id": "5162218",
+      "time": "2026-10-23 00:45:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌5%，現報54.82美元/盎司。"
+    },
+    {
+      "id": "5162215",
+      "time": "2026-10-23 00:45:27",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率當日下跌10個基點至5.30%。"
+    },
+    {
+      "id": "te:markets:594328",
+      "time": "2026-10-23 00:45:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Altria Shares Hit 12-week High — Altria shares increased to 75.75 USD, the highest since July 2026. Over the past 4 weeks, Altria gained 9.8%, and in the last 12 months, it increased 17.25%."
+    },
     {
       "id": "mkt:01a1647f-919c-7ee0-a94c-e55c077f21b7",
       "time": "2026-10-23 00:44:04",
