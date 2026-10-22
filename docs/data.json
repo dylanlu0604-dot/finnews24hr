@@ -1,7 +1,99 @@
 {
-  "updated": "2026-10-22 23:51:22",
-  "count": 13288,
+  "updated": "2026-10-22 23:56:15",
+  "count": 13290,
   "items": [
+    {
+      "id": "mkt:01a16452-3751-7ee0-a94b-fef1ff7396be",
+      "time": "2026-10-22 23:54:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Qatari prime minister and US Secretary of State Rubio discussed diplomatic efforts to ease tensions."
+    },
+    {
+      "id": "5162146",
+      "time": "2026-10-22 23:54:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達首相與美國國務卿魯比奧討論緩和緊張局勢的外交努力。"
+    },
+    {
+      "id": "mkt:01a16451-9b55-7ee0-a94b-f6eb45056380",
+      "time": "2026-10-22 23:53:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Qatari PM held a phone call with U.S. Secretary of State Rubio."
+    },
+    {
+      "id": "5162145",
+      "time": "2026-10-22 23:52:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達首相與美國國務卿魯比奧通電話。"
+    },
+    {
+      "id": "5162144",
+      "time": "2026-10-22 23:52:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國IPO市場陷入“癱瘓” Anthropic被寄望打破僵局】圍繞人工智慧(AI)的爭議令一些企業被迫按下了IPO暫停鍵，在Anthropic上市一天天迫近之際，數十億美元資金和長達數月的籌備工作陷入停頓。Truist Financial股票資本市場主管West Riggs表示：“一切好像癱瘓了似的。市場必須先理清頭緒。”Nscale、DayOne Data Centers等正在籌備赴美上市的AI基礎設施公司，仍在向投資者強調自身對於AI基礎設施建設的重要性。然而，隨著CoreWeave等同行股價暴跌，投資者承擔風險的意願已經消退。彭博彙總的資料顯示，按美國IPO募資規模計算，10月勢將成為今年最淡的一個月。這與此前的火熱勢頭形成鮮明反差。資料顯示，截至9月底，IPO募資額高達1626億美元。華爾街寄望於Anthropic預計下月進行的IPO，希望藉此獲得創紀錄的承銷費收入。知情人士此前透露，Anthropic的募資規模可能達到甚至超過SpaceX上市。其他正在試探投資者認購意願的公司同樣迫切希望這家公司成功上市，為其他IPO掃清道路。不過，華爾街有不少人和Riggs一樣，除了Anthropic之外，開始將目光轉向明年。"
+    },
+    {
+      "id": "te:markets:594310",
+      "time": "2026-10-22 23:51:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Sink on Thursday — European stocks fell sharply on Thursday, with the Stoxx 50 dropping around 2% to a more than four-month low and the broader Stoxx 600 losing 1% to a one-week low. Italy’s market declined over 2.5%, Spain fell around 2%, while Germany and France lost more than 1% and the UK slipped less than 0.5%. Basic resources plunged over 3.5% as metals prices tumbled, including silver down nearly 5%, copper over 2.5% and gold more than 2%. Banks fell over 3%, while industrial goods and services lost around 2.5% and technology declined 2%. Energy and travel stocks also weakened. In contrast, health care and food, beverage & tobacco each gained around 2%. Among individual stocks, Hermès dropped 5% after reporting flat sales, while Thales and Barclays declined despite raising its outlook and reporting higher profits, respectively. SAP rose over 3.5% after upgrading its full-year outlook, while Nestlé gained 2.3% on strong quarterly sales. Roche was little changed despite better-than-expected sales."
+    },
+    {
+      "id": "mkt:01a1644e-ffcc-7ee0-a94b-ea50fe4b3316",
+      "time": "2026-10-22 23:51:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "HSBC says platinum supply is tightening, but the deficit is narrowing."
+    },
+    {
+      "id": "5162143",
+      "time": "2026-10-22 23:50:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐：鉑金供應缺口正在收窄，儘管礦端供應受限。"
+    },
+    {
+      "id": "te:markets:594309",
+      "time": "2026-10-22 23:50:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Italian Stocks Plunge to May Low — Italy’s FTSE MIB closed 2.5% lower to 48,384 on Thursday, nearing its lowest level since May, as banking and tech stocks led losses. AI-related shares came under pressure amid renewed valuation concerns, with Technopobe (-7.6%), Prysmian (-7.6%) and STMicroelectronics (-5%) dropping sharply. Protests by truck drivers and farmers in southern Italy also added pressure, causing shortages of food and industrial components and prompting the government to approve additional spending to aid diesel purchases. The BTP-Bund spread widened to 126 bps, reflecting a growing risk premium and weighing on banks, with UniCredit down 4.7%. Stellantis was also affected, falling 0.6% after halting production at three regional plants. European gas prices approached a four-year high, pressuring utilities, while Italgas slipped 1%. Energy firms also declined as oil prices edged lower, while Saipem fell 6% while signing a preliminary agreement with Egypt’s MDC to explore offshore drilling projects in Egypt."
+    },
+    {
+      "id": "5162142",
+      "time": "2026-10-22 23:50:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英首相稱批准北海氣田專案是“務實之舉”】英國首相伯納姆21日表示，英國政府當天批准此前因環保爭議擱置多年的北海寒鴉天然氣田專案，有助於增強英國能源安全，是“務實之舉”。 伯納姆當天在社交媒體釋出影片說，雖然英國設定了2050年實現淨零排放目標，但未來幾十年仍需使用油氣。鑑於中東戰事引發全球能源市場動盪，民眾生活成本增加，“只從外國進口油氣說不過去”，將目光投向現有國內能源儲備“是正確的”。 英國能源諮詢公司“康沃爾洞察”預測，普通英國家庭本年度的能源賬單預計將增加276英鎊（約合369美元），漲幅高達16%，達4年來最高。（新華社）"
+    },
     {
       "id": "mkt:01a1644e-66c1-7ee0-a94b-e319bcd0dfcc",
       "time": "2026-10-22 23:50:21",
@@ -1077,6 +1169,14 @@
         "Impact bearish"
       ],
       "text": "【Yonhap: South Korea to recall aid worker from Kyiv on security grounds】Yonhap reported on Thursday that the Korea International Cooperation Agency (KOICA) has decided, after a security meeting, to recall one of its two Kyiv-based staff on security grounds amid intensified Russian drone and missile strikes in recent weeks. KOICA said the other staffer will remain in Kyiv; an agency official declined to comment on a separate prisoners-of-war dispute between Seoul and Kyiv, and South Korea is reported to be engaged in a diplomatic dispute with Ukraine."
+    },
+    {
+      "id": "5162081",
+      "time": "2026-10-22 22:59:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國一汽—廣汽集團聯合工作組成立啟動會召開】據廣汽集團訊息，10月22日，中國一汽黨委書記、董事長邱現東，廣汽集團黨委書記、董事長馮興亞共同出席在廣汽集團總部舉行的雙方聯合工作組成立啟動會，並舉行工作會談。雙方立足國家汽車強國戰略大局，圍繞此前簽署的戰略合作框架協議，就進一步推動重點合作專案落地、深化南北產業協同等事項進行深度交流、凝聚共識。"
     },
     {
       "id": "5162080",
@@ -120531,87 +120631,6 @@
         "市場"
       ],
       "text": "【英國中長期國債收益率至少跌超5個基點】週四（10月15日）歐市尾盤，英國10年期國債收益率跌5.4個基點，報5.371%，跳空低開之後低位持穩——交投於5.330%附近、北京時間21:00重新整理日低至5.301%，隨後逐步收復失地。兩年期英債收益率跌2.1個基點，報4.882%，歐市盤初重新整理日低至4.812%，21:00以來也持續收復失地。30年期英債收益率跌6.4個基點，50年期英債收益率跌6.4個基點。2/10年期英債收益率利差跌3.308個基點，報+48.716個基點。"
-    },
-    {
-      "id": "5148149",
-      "time": "2026-10-15 23:55:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華工科技：3.2T/6.4T NPO產品在國內外頭部AI廠商測試中】華工科技在互動平臺表示，公司已聯合產業鏈率先開發100G/Lane、200G/Lane的3.2T/6.4T NPO產品，目前已在國內和海外頭部AI廠商進行產品測試中。"
-    },
-    {
-      "id": "5148148",
-      "time": "2026-10-15 23:55:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特領導的聯盟稱在哈米斯穆沙伊特攔截了一架無人機。"
-    },
-    {
-      "id": "5148147",
-      "time": "2026-10-15 23:55:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞外長：將繼續呼籲黑海停火。"
-    },
-    {
-      "id": "5148146",
-      "time": "2026-10-15 23:55:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國郵政官員表示，聯邦調查局和美國郵政檢查局正在調查多起可疑郵件事件，其中包括寄給州選舉官員的郵件。"
-    },
-    {
-      "id": "5148145",
-      "time": "2026-10-15 23:54:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞：北約將在未來幾天討論黑海局勢。"
-    },
-    {
-      "id": "5148144",
-      "time": "2026-10-15 23:54:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度證券交易委員會：對收盤集合競價若干方面進行審議。"
-    },
-    {
-      "id": "te:economy:592482",
-      "time": "2026-10-15 23:52:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Israel",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Israel Inflation Rate Edges Up — Israel’s annual inflation rate rose to 1.6% in September 2026 from 1.5% in August, below market expectations of 1.8% and remaining comfortably within the central bank’s 1%-3% target range. Price pressures picked up for food, including vegetables (1.6% vs 1%), dwelling maintenance (1.5% vs 1.4%), and education, culture and entertainment (1% vs 0.8%). Meanwhile, deflation deepened for furnishings (-4.3% vs -3.9%) and clothing and footwear (-5.7% vs -5.2%). Inflation was unchanged for housing (3.8%), while it eased for transport and communication (0.4% vs 0.6%) and health (1.3% vs 1.5%). On a monthly basis, consumer prices fell 0.5%, more than forecast for a 0.3% decrease, reversing a 0.7% rise in August."
-    },
-    {
-      "id": "5148143",
-      "time": "2026-10-15 23:52:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜推出Bee品牌旗下兩款可穿戴AI產品。"
-    },
-    {
-      "id": "te:markets:592481",
-      "time": "2026-10-15 23:51:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil’s 10-Year Yield Rises on Political Risks — Brazil’s 10-year government bond yield rose to around 12.94%, up from the two-year low of 12.60% reached on October 5th, as bonds came under pressure amid a narrowing lead for Flávio Bolsonaro over President Lula in runoff polls. Recent surveys reinforced the perception that the incumbent has gained momentum in recent days, prompting investors to reprice risk premiums across the yield curve. Although Flávio Bolsonaro has yet to present detailed policy plans, investors view him as more likely to pursue fiscal reforms, including spending cuts, which are seen as essential to lowering interest rates. Questions also remain about the fiscal discipline of a potential Flávio administration. Political pressure has already prompted the candidate to change his position and support ending the six-days-on, one-day-off work schedule, which the Senate approved yesterday. In addition, the amendment’s approval is also being viewed as a political victory for Lula’s government."
     }
   ]
 }
