@@ -1,7 +1,62 @@
 {
   "date": "2026-10-22",
-  "count": 1298,
+  "count": 1304,
   "items": [
+    {
+      "id": "mkt:01a16241-62fa-7ee0-a93b-f9e0d9f46c1c",
+      "time": "2026-10-22 14:16:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Ministry of Industry and Information Technology’s National Vulnerability Database (NVDB) issued a risk warning urging mitigation of an extremely critical remote code execution vulnerability in PHP."
+    },
+    {
+      "id": "te:economy:594070",
+      "time": "2026-10-22 14:16:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Danish Consumer Morale Falls to 5-Month Low — Denmark’s consumer confidence fell to -17.2 in October 2026 from -13.7 in the previous month, dropping below the six-month average of -15.7 and marking the lowest reading since May, as all categories deteriorated. Assessments of consumers’ financial situation worsened both over the past 12 months (-11.1 vs -8.6 in September) and over the next year (-5.9 vs -3.7). Perceptions of the country’s economic situation also deteriorated, both for the current period (-27.8 vs -22.5) and the year ahead (-26.1 vs -19.2). Consumers’ willingness to make major purchases became more pessimistic (-15.2 vs -14.3). Among other indicators, assessments of current price growth increased (34 vs 28), while inflation expectations for the next 12 months rose (33.5 vs 31.9). Concerns about unemployment over the next year also increased (22 vs 19.2)."
+    },
+    {
+      "id": "mkt:01a16240-f400-7ee0-a93b-f5d87bcbab55",
+      "time": "2026-10-22 14:16:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Kpler data show Asian LNG arrivals in October are estimated at 23.31 mln tonnes, the strongest since July's 23.38 mln tonnes."
+    },
+    {
+      "id": "5160626",
+      "time": "2026-10-22 14:16:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【工信部NVDB釋出關於防範PHP遠端程式碼執行超危漏洞的風險提示】工業和資訊化部網路安全威脅和漏洞資訊共享平臺（NVDB）監測發現，PHP存在兩個遠端程式碼執行超危漏洞，危害嚴重。PHP是一款廣泛用於Web開發的開源伺服器端指令碼語言。由於其存在兩個超危遠端程式碼執行漏洞，未經身份驗證的攻擊者可利用其遠端執行任意程式碼，造成伺服器受控、敏感資訊洩露、業務中斷等危害。受影響的PHP範圍包括：8.5系列＜8.5.12、8.4系列＜8.4.27、8.3系列＜8.3.36、8.2系列＜8.2.35、8.1系列及更早版本。目前，PHP安全團隊已修復漏洞併發布安全公告（URL連結：https://www.php.net/archive/2026.php#2026-10-21-5）。建議相關單位和使用者立即開展全面排查，及時升級至最新安全版本，或採取臨時下線、關閉會話上傳進度功能、網路隔離、網路訪問限制等臨時防護措施；加強網路安全監測和管理，及時修改賬號、口令和金鑰等憑證，防範網路攻擊風險。（工信部）"
+    },
+    {
+      "id": "mkt:01a1623f-94d1-7ee0-a93b-ea909e4c41e5",
+      "time": "2026-10-22 14:14:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP: South Korean government has raised its cybersecurity alert level, citing a PHP vulnerability."
+    },
+    {
+      "id": "5160625",
+      "time": "2026-10-22 14:14:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國政府因PHP漏洞提高網路安全警報級別。"
+    },
     {
       "id": "mkt:01a1623c-e1cf-7ee0-a93b-e0ec8b3a65b7",
       "time": "2026-10-22 14:11:59",
