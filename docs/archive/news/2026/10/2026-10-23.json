@@ -1,7 +1,51 @@
 {
   "date": "2026-10-23",
-  "count": 554,
+  "count": 559,
   "items": [
+    {
+      "id": "mkt:01a1660a-bd68-7ee0-a950-f2301339addb",
+      "time": "2026-10-23 07:55:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Analysts: Fed repricing, deleveraging push gold and silver lower】Precious metals fell broadly. Short-term moves in the USD index and U.S. Treasury yields will dominate price direction; the October Fed meeting and international oil will be the main upstream drivers. Huishang Futures says the pullback is driven by rising Fed rate-hike expectations and concentrated long liquidations: stronger U.S. jobs and inflation data have repriced a higher-for-longer policy path, lifting real yields and the dollar and raising the carrying cost of non-yielding metals. Fading geopolitical risk premia and weaker industrial demand have amplified silver’s decline. Jinrui Futures attributes the rout to a reversal in the macro rate backdrop and trade-driven deleveraging: deteriorating financial conditions set the common downwards direction, while differences in market liquidity, investor structure and industrial demand explain cross-commodity dispersion. After the prior sharp correction, a technical rebound is possible, but any sustained recovery depends on the subsequent paths of U.S. yields and the USD."
+    },
+    {
+      "id": "5162893",
+      "time": "2026-10-23 07:55:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：希望日本央行根據與政府釋出的聯合宣告，以穩定、可持續的價格穩定需求為基礎，妥善引導政策。"
+    },
+    {
+      "id": "mkt:01a1660a-22ef-7ee0-a950-ef983c13f151",
+      "time": "2026-10-23 07:55:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Finance Minister KIUCHI said the government will decide whether to formally declare an end to deflation after comprehensively weighing CPI, the GDP deflator and underlying inf dynamics."
+    },
+    {
+      "id": "5162892",
+      "time": "2026-10-23 07:53:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：政府是否宣佈正式結束通縮的決定，將在綜合考慮消費者物價指數、GDP平減指數以及潛在通脹走勢背後的背景後作出。"
+    },
+    {
+      "id": "5162891",
+      "time": "2026-10-23 07:53:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐銀行研究報告下調2026年鉑金和鈀金的平均價格預測，稱這是由於市場基本面發生變化以及投資者減持頭寸，但同時補充道，這兩種金屬仍有反彈空間。"
+    },
     {
       "id": "5162890",
       "time": "2026-10-23 07:51:31",

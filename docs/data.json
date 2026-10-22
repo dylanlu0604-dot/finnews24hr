@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-23 07:52:16",
-  "count": 13298,
+  "updated": "2026-10-23 07:56:08",
+  "count": 13294,
   "items": [
+    {
+      "id": "mkt:01a1660a-bd68-7ee0-a950-f2301339addb",
+      "time": "2026-10-23 07:55:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Analysts: Fed repricing, deleveraging push gold and silver lower】Precious metals fell broadly. Short-term moves in the USD index and U.S. Treasury yields will dominate price direction; the October Fed meeting and international oil will be the main upstream drivers. Huishang Futures says the pullback is driven by rising Fed rate-hike expectations and concentrated long liquidations: stronger U.S. jobs and inflation data have repriced a higher-for-longer policy path, lifting real yields and the dollar and raising the carrying cost of non-yielding metals. Fading geopolitical risk premia and weaker industrial demand have amplified silver’s decline. Jinrui Futures attributes the rout to a reversal in the macro rate backdrop and trade-driven deleveraging: deteriorating financial conditions set the common downwards direction, while differences in market liquidity, investor structure and industrial demand explain cross-commodity dispersion. After the prior sharp correction, a technical rebound is possible, but any sustained recovery depends on the subsequent paths of U.S. yields and the USD."
+    },
+    {
+      "id": "5162893",
+      "time": "2026-10-23 07:55:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：希望日本央行根據與政府釋出的聯合宣告，以穩定、可持續的價格穩定需求為基礎，妥善引導政策。"
+    },
+    {
+      "id": "mkt:01a1660a-22ef-7ee0-a950-ef983c13f151",
+      "time": "2026-10-23 07:55:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Finance Minister KIUCHI said the government will decide whether to formally declare an end to deflation after comprehensively weighing CPI, the GDP deflator and underlying inf dynamics."
+    },
+    {
+      "id": "5162892",
+      "time": "2026-10-23 07:53:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：政府是否宣佈正式結束通縮的決定，將在綜合考慮消費者物價指數、GDP平減指數以及潛在通脹走勢背後的背景後作出。"
+    },
+    {
+      "id": "5162891",
+      "time": "2026-10-23 07:53:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐銀行研究報告下調2026年鉑金和鈀金的平均價格預測，稱這是由於市場基本面發生變化以及投資者減持頭寸，但同時補充道，這兩種金屬仍有反彈空間。"
+    },
     {
       "id": "5162890",
       "time": "2026-10-23 07:51:31",
@@ -120569,94 +120613,6 @@
         "國際"
       ],
       "text": "媒體的一項調查發現，自2月28日起，伊朗及其代理人至少對海灣地區的84個基礎設施地點進行了135次精確打擊，目標是關鍵的石油、天然氣、電力和交通設施。 這些襲擊造成了數十億美元的損失，擾亂了全球能源供應，並幫助伊朗抵禦了美國的軍事壓力。 海灣政府經常淡化這些損失，往往將責任歸咎於攔截導彈和無人機墜落的碎片。"
-    },
-    {
-      "id": "5148563",
-      "time": "2026-10-16 07:55:42",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：白酒行業或已處於本輪週期底部】華泰證券研報稱，2026年中秋旺季白酒行業表現雖然承壓，但仍有庫存去化和價盤低位趨穩等亮點，本輪行業調整或已處於底部位置；2027年春節前行業將處於淡季的業績真空期，在籌碼結構、市場預期雙低，政策和資金輪動預期漸強背景下，外部政策提振、基本面邊際最佳化等利好的落地即可顯著提振板塊表現，行業或將沿第一階段（2027年春節前）預期修復+第二階段（2027年春節和中秋旺季）基本面低基數復甦的節奏展開。"
-    },
-    {
-      "id": "te:markets:592541",
-      "time": "2026-10-16 07:54:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Stocks Head for 3rd Straight Weekly Rise — Australian shares jumped 96 points or 1.1% to 8,818 in early Friday trade, rebounding after two sessions of weakness and reaching a five-week high as Wall Street recovered overnight, with tech stocks stabilising after a recent sell-off. In top trading partner China, PBoC Governor Pan Gongsheng reaffirmed a moderately loose policy stance, signaling continued growth support while balancing financial stability. Locally, September employment unexpectedly fell, tempering bets on further RBA tightening. However, gains were capped by caution ahead of China’s Q3 GDP release next week. Nearly all sectors advanced, led by commercial services, non-energy minerals, manufacturing, and logistics. The big four banks rallied sharply, rising 1.9% to 3.3%. Maggie Beer Holdings gained 3.6% after scrapping its hamper sale plan, while Woolworths surged 4.3%, QBE Insurance rose 2.7%, and Computershare added 2.2%. For the week, markets are tracking a third straight weekly gain, up nearly 1% so far."
-    },
-    {
-      "id": "te:markets:592540",
-      "time": "2026-10-16 07:54:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Set for Strong Weekly Gain — Crude oil traded above $97 per barrel on Friday and was on track to gain more than 6% for the week amid mounting supply concerns in the Middle East. The US Central Command confirmed that a Singapore-flagged container ship that sank in the Strait of Hormuz earlier this week was hit by an Iranian projectile, adding uncertainty over the recovery of physical oil flows and pushing tanker rates to record highs. Rising tensions between Saudi Arabia and Iran-backed Houthi forces in Yemen further heightened supply risks. Meanwhile, the IEA agreed to proceed with the release of the remaining 100 million barrels of oil from a coordinated intervention launched in March, following lobbying efforts by US officials. Elsewhere, EIA data revealed that US crude inventories dropped by 8.6 million barrels last week, marking their largest decline since February. WTI was also poised to outperform Brent for the week, supported by lower shipping costs for US crude, which boosted demand for American barrels."
-    },
-    {
-      "id": "5148562",
-      "time": "2026-10-16 07:54:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【伊拉克議會透過3名副總理及11名部長的任命】伊拉克國民議會15日投票透過3名副總理及11名內閣部長的任命，新獲任命人員當天宣誓就職。 據伊拉克國民議會發布宣告，261名議員當天出席投票，穆赫辛·曼達拉維、萊斯·卡扎利和穆罕默德·塔米姆獲任副總理。亞西爾·馬利基獲任內政部長，納伊夫·沙馬裡獲任國防部長。 宣告還說，伊拉克新設立數字經濟、治理與科學技術部，並批准任命穆罕默德·薩希卜·達拉吉為該部部長。 伊拉克總理扎伊迪在會後釋出的宣告中表示，內閣組建完畢，新一屆政府將推進各項施政綱領。 4月27日，伊拉克國民議會最大黨團“協調框架聯盟”推舉的扎伊迪被伊總統提名為候任總理。5月14日，伊國民議會投票透過扎伊迪提交的14名內閣部長人選後，扎伊迪和這14名部長在議會宣誓就職。因各黨派政治分歧，多個部長職位此前一直空缺。(新華社)"
-    },
-    {
-      "id": "5148561",
-      "time": "2026-10-16 07:54:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗海軍：一艘油輪在霍爾木茲海峽東部海域起火 】伊朗海軍15日說，其監測團隊當天在霍爾木茲海峽東部海域發現一艘油輪起火。伊朗海軍當日在軍隊網站上發表宣告說，其監測團隊在對霍爾木茲海峽東部海域進行巡邏和管控時發現這艘油輪。這艘油輪關閉了追蹤系統，試圖穿過“禁區”。宣告說，伊朗海軍部隊對霍爾木茲海峽東部海域擁有“完全的控制權和主導權”。"
-    },
-    {
-      "id": "mkt:01a141fc-a024-7ee0-a8aa-3bb511608999",
-      "time": "2026-10-16 07:53:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iraqi parliament approves three deputy prime ministers and 11 ministers】Iraq's parliament voted on the 15th to approve appointments of three deputy prime ministers and 11 cabinet ministers; the appointees were sworn in the same day."
-    },
-    {
-      "id": "5148560",
-      "time": "2026-10-16 07:53:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國考慮將清海部隊任務範圍從亞丁灣擴大至阿曼灣】據韓國《東亞日報》報道，韓國正在考慮延長其清海部隊的部署期限並擴大其行動範圍。報道未說明訊息來源。討論中的一個方案是將清海部隊的行動範圍從亞丁灣擴大至霍爾木茲海峽附近的阿曼灣；韓國國防部表示，具體細節尚未決定。韓國國防部準備尋求國會批准延長清海部隊的部署期限，理由是亞丁灣周邊海盜活動大增。韓國總統李在明上月表示，韓國不會進行涉及參加或干預戰爭的部署，但他同時承認，政府正在考慮增強清海部隊的活動。"
-    },
-    {
-      "id": "mkt:01a141fb-b0a4-7ee0-a8aa-362df4e5e0d1",
-      "time": "2026-10-16 07:52:56",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft's AI chief said the company outperformed OpenAI in areas where OpenAI excels while using only one-quarter of the compute resources."
-    },
-    {
-      "id": "5148559",
-      "time": "2026-10-16 07:52:42",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【CFTC 工作人員被要求撤回可疑石油交易分析報告】據報道，3 月 23 日，美國總統特朗普放棄打擊伊朗發電廠的威脅，這一訊息引發原油、股票及其他市場的劇烈買賣波動。\n\n交易員早已習慣中東局勢訊息帶動價格大幅震盪，但那一次，部分交易者精準踩中時機。就在特朗普在 Truth 社交平臺發帖宣佈政策轉向前約 15 分鐘，市場出現價值數十億美元的合約押注：看跌原油、看漲標普 500 指數。此事引發廣泛猜測，懷疑有人獲取了不公平的資訊優勢。\n\n美國商品期貨交易委員會（CFTC）負責調查該事件。這家聯邦衍生品監管機構，隨著加密貨幣與預測市場興起，監管範圍與受關注度大幅提升。委員會內一支資深取證分析師團隊按常規流程，整理當日市場盈虧交易資料。\n\n知情人士稱（因涉及政府內部審議，要求匿名），市場監管部門的分析師根據觀測到的交易時點與交易主體資訊，向執法部門提交案件移交材料，由執法部門決定是否針對潛在內幕交易啟動全面調查。知情人士表示，兩個部門的代表還召開會議，研討最佳協作方式。\n\n知情人士稱，接下來發生的事情極不尋常：由特朗普任命的 CFTC 主席邁克爾・塞利格的高階顧問梅爾・古納瓦德納，要求市場監管團隊的一名主管撤回這份案件移交材料。知情人士稱，該團隊當時不知所措。實操層面，他們甚至不清楚該如何執行這項要求，這類操作此前幾乎從未發生過。這件事也在另一方面打破慣例：以往一直由資深專業人員負責收集海量資料、撰寫初步報告這類專業且常規的工作，再由執法部門律師決定是否立案追查。知情人士表示，而如今，政治任命官員塞利格的一名顧問介入，意圖撤銷這份案件移交材料，並親自監督資料收集工作。古納瓦德納是華爾街資深人士，曾在特朗普第一任期任職於 CFTC；幾周前他重返該機構，擔任國際事務辦公室主管兼主席高階市場顧問，外界並不清楚他在本次證據蒐集流程中擁有何種職權。"
     }
   ]
 }
