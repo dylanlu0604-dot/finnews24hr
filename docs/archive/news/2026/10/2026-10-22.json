@@ -1,7 +1,186 @@
 {
   "date": "2026-10-22",
-  "count": 675,
+  "count": 694,
   "items": [
+    {
+      "id": "mkt:01a16121-62c2-7ee0-a934-73eb202140d3",
+      "time": "2026-10-22 09:02:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Apple far-month futures contract 2710 hit the limit-up, rising 16% to 6,712 yuan/ton."
+    },
+    {
+      "id": "mkt:01a16120-ebe3-7ee0-a934-6d00056cad31",
+      "time": "2026-10-22 09:01:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【National Flood Control Headquarters and Ministry of Emergency Management launch level‑IV flood and typhoon response for Shanghai, Zhejiang and Fujian】Typhoon Qiangpi, the 30th storm of the year and classified at super-typhoon strength, was about 750 km southeast of Taipei at 05:00 on Oct. 22 with maximum winds near the center of 55 m/s (198 km/h). China’s Central Meteorological Observatory forecasts Qiangpi will enter the southern East China Sea on the night of Oct. 23, turn northward, then shift northeast near offshore eastern Zhejiang on the night of Oct. 24; a track brushing northeast Taiwan cannot be ruled out. Heavy to very heavy rain, with local extreme totals, is expected in Shanghai, Zhejiang and Fujian from Oct. 23–26. A blue typhoon alert was issued at 06:00 on Oct. 22. Under the national flood‑and‑drought emergency plan, authorities launched a level‑IV flood and typhoon emergency response at 08:00 on Oct. 22 and dispatched a working group to Zhejiang to assist operations."
+    },
+    {
+      "id": "5159611",
+      "time": "2026-10-22 09:01:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於22日8時針對上海、浙江、福建啟動防汛防颱風四級應急響應，並派出工作組赴浙江協助指導防汛防颱風工作。"
+    },
+    {
+      "id": "mkt:01a16120-dcbf-7ee0-a934-6441d31a6f5a",
+      "time": "2026-10-22 09:01:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dalian Maritime Safety Administration said on the China Maritime Safety Administration website that parts of the Bohai Sea will be closed for military operations from 0900 to 1300 on Oct. 22; vessels are prohibited from entering."
+    },
+    {
+      "id": "5159610",
+      "time": "2026-10-22 09:01:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印尼金融服務管理局對一家名為PT SMT的公司處以1.5萬億印尼盾的罰款，原因是該公司操縱與礦業公司相關的股票交易。"
+    },
+    {
+      "id": "mkt:01a16120-5908-7ee0-a934-58ecfb137011",
+      "time": "2026-10-22 09:01:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "On Oct 22 (Thu), the Taiwan Stock Exchange Weighted Index (TAIEX) opened 413.05 points higher, up 0.88%, at 47,300.82."
+    },
+    {
+      "id": "mkt:01a1611f-953f-7ee0-a934-561a954397ce",
+      "time": "2026-10-22 09:00:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "RMB share of global SWIFT payments rose to 3.33% in September from 3.26% in the prior month."
+    },
+    {
+      "id": "mkt:01a1611f-943b-7ee0-a934-4e5cfdf39cfc",
+      "time": "2026-10-22 09:00:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D opened down 0.24% at 884.02 yuan/gram in early trade on Thursday Oct 22; Shanghai Gold Exchange silver T+D opened down 0.35% at 13,863.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a1611f-8f8d-7ee0-a934-44b2c605273b",
+      "time": "2026-10-22 09:00:20",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures opened 0.14% higher."
+    },
+    {
+      "id": "mkt:01a1611f-7f62-7ee0-a934-390c801e7ae4",
+      "time": "2026-10-22 09:00:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals"
+      ],
+      "text": "At the open, China onshore futures main contracts were mixed: polysilicon down over 3 pct; lithium carbonate, caustic soda and LPG down over 2 pct; container freight to Europe down nearly 2 pct; palladium, polypropylene monthly average and alumina down over 1 pct. On the upside, Shanghai nickel was up nearly 3 pct, styrene (EB) rose over 2 pct and stainless steel rose nearly 2 pct."
+    },
+    {
+      "id": "mkt:01a1611f-7857-7ee0-a934-316ddca86384",
+      "time": "2026-10-22 09:00:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "China | SWIFT renminbi share of global payments (Sep) | actual 3.33% | previous 3.26%"
+    },
+    {
+      "id": "5159609",
+      "time": "2026-10-22 09:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國9月Swift人民幣在全球支付中佔比 3.33%，前值 3.26%。"
+    },
+    {
+      "id": "5159608",
+      "time": "2026-10-22 09:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.1%報46,942.75。"
+    },
+    {
+      "id": "5159607",
+      "time": "2026-10-22 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1079.00美元/盎司。"
+    },
+    {
+      "id": "5159606",
+      "time": "2026-10-22 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.13%。"
+    },
+    {
+      "id": "5159605",
+      "time": "2026-10-22 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】鎳連續漲2.83%，多晶矽連續跌2.81%，碳酸鋰連續跌2.74%，苯乙烯連續漲2.38%，燒鹼連續跌2.36%。"
+    },
+    {
+      "id": "5159604",
+      "time": "2026-10-22 08:59:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4130美元/盎司，日內跌0.48%。"
+    },
+    {
+      "id": "te:economy:593988",
+      "time": "2026-10-22 08:59:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "Bank of Korea Holds Rates as Expected — The Bank of Korea (BoK) left its benchmark interest rate unchanged at 3.00% at its October 2026 meeting, in line with market expectations, pausing after back-to-back 25-basis-point hikes in July and August. The decision came as policymakers assessed economic conditions and inflation risks following the recent tightening cycle."
+    },
+    {
+      "id": "5159603",
+      "time": "2026-10-22 08:59:23",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【亞洲軟體安全股因PHP漏洞更新要求而上漲】隨著日本和韓國均敦促對廣泛使用的開源軟體PHP採取應對措施，亞洲網路安全相關軟體股走高。此前，該軟體被曝出存在安全漏洞。負責維護PHP的開發團隊週三表示，已釋出軟體更新以修補這些漏洞，並敦促使用者立即應用這些更改。PHP存在兩個漏洞，可能導致使用該軟體的網站和軟體平臺面臨網路攻擊風險。東洋證券（Toyo Securities）策略師Ryuta Otsuka表示：“趨勢科技（Trend Micro）、NEC、富士通（Fujitsu）和FFRI Security等股票均出現上漲。受PHP漏洞事件影響，網路安全已成為今日市場中吸引投資者關注的主題之一。”他補充說，由於美國企業財報缺乏足以提振市場的催化劑，日本投資者正轉向盈利前景強勁的板塊、利用人工智慧提升盈利能力的公司，以及網路安全相關股票。日本首相高市早苗週三在社交平臺X上發帖，呼籲針對廣泛使用的開源軟體PHP中的安全漏洞採取“緊急行動”。此外，據一份宣告稱，在發現安全漏洞後，韓國網際網路振興院（KISA）建議使用者將PHP軟體更新至最新版本。"
+    },
     {
       "id": "5159601",
       "time": "2026-10-22 08:57:31",
