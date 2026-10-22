@@ -1,7 +1,117 @@
 {
-  "updated": "2026-10-22 13:46:45",
-  "count": 13373,
+  "updated": "2026-10-22 13:50:36",
+  "count": 13375,
   "items": [
+    {
+      "id": "mkt:01a16228-cd68-7ee0-a93b-753f1eec21ad",
+      "time": "2026-10-22 13:50:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Nikkei 225 fell as much as 2.57% intraday to below 63,000 points, its first time under that level since Sept. 14."
+    },
+    {
+      "id": "mkt:01a16227-8af0-7ee0-a93b-6ee6cc32a633",
+      "time": "2026-10-22 13:48:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "China's CSI 500 index futures (IC) most-active contract fell 3.00% intraday to 6,550.0 pts."
+    },
+    {
+      "id": "5160593",
+      "time": "2026-10-22 13:48:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3％，成分股中，睿創微納跌10.05％，源傑科技跌8.40％，中科飛測跌7.81％，生益電子跌7.45％。"
+    },
+    {
+      "id": "5160592",
+      "time": "2026-10-22 13:48:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "羅氏執行長重申：歐洲在製藥創新方面正日益落後。"
+    },
+    {
+      "id": "mkt:01a16226-be4e-7ee0-a93b-639d8c4d1b6f",
+      "time": "2026-10-22 13:47:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's STAR 50 Index fell more than 3%, while the Beijing Stock Exchange 50 Index dropped 1.17%."
+    },
+    {
+      "id": "5160591",
+      "time": "2026-10-22 13:47:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數向下跌破63000點，最新報62963.4點，日內下跌2.57%。"
+    },
+    {
+      "id": "5160590",
+      "time": "2026-10-22 13:47:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數收復了盤中部分跌幅，目前下跌0.2%。"
+    },
+    {
+      "id": "5160589",
+      "time": "2026-10-22 13:47:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌3.01%，現報11352.352點；上證指數跌1.69%，現報3650.404點；創業板指跌4.06%，現報2585.340點。"
+    },
+    {
+      "id": "5160588",
+      "time": "2026-10-22 13:47:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鈀金<XPD=>下跌近3%，至1,056.75美元/盎司。"
+    },
+    {
+      "id": "5160587",
+      "time": "2026-10-22 13:46:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元下跌0.5%至157.34。"
+    },
+    {
+      "id": "5160586",
+      "time": "2026-10-22 13:46:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "羅氏執行長預計診斷業務將於2027年恢復至正常增長水平。"
+    },
+    {
+      "id": "mkt:01a16225-7920-7ee0-a93b-5df611be8e88",
+      "time": "2026-10-22 13:46:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY fell 0.50% intraday to 157.33."
+    },
     {
       "id": "mkt:01a16224-c78d-7ee0-a93b-500331e2afdb",
       "time": "2026-10-22 13:45:39",
@@ -121389,113 +121499,6 @@
         "公司"
       ],
       "text": "【遠端商用車科技有限公司增資至9.57億，增幅約97%】天眼查App顯示，近日，遠端商用車科技有限公司發生工商變更，新增李書福、杭州吉遠一號企業管理合夥企業（有限合夥）、杭州吉控吉遠二號企業管理合夥企業（有限合夥）為股東，同時，註冊資本由約4.86億人民幣增至約9.57億人民幣，增幅約97%。該公司成立於2021年7月，法定代表人為戴慶，經營範圍含電池製造、電池銷售、新能源汽車整車銷售等。股東資訊顯示，該公司由吉利旗下浙江遠端新能源商用車集團有限公司及上述新增股東共同持股。"
-    },
-    {
-      "id": "mkt:01a13e1c-5389-7ee0-a891-9be04a1822e8",
-      "time": "2026-10-15 13:50:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100",
-        "Nasdaq100"
-      ],
-      "text": "UK August three-month GDP m/m, August seasonally adjusted goods trade balance, and August industrial and manufacturing production m/m are due in ten minutes. TSMC will hold an analyst briefing after reporting third-quarter results."
-    },
-    {
-      "id": "5146785",
-      "time": "2026-10-15 13:49:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "迪拜9月消費者價格指數同比上漲5.03%。"
-    },
-    {
-      "id": "5146784",
-      "time": "2026-10-15 13:49:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國KOSPI指數日內重挫9.00%，現報5467.66點。個股方面，SK海力士、三星電子跌超11%。"
-    },
-    {
-      "id": "mkt:01a13e1b-4842-7ee0-a891-96556b352582",
-      "time": "2026-10-15 13:48:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI index plunged 9.00% intraday to 5,467.66."
-    },
-    {
-      "id": "mkt:01a13e1a-3ab9-7ee0-a891-8a345c07e807",
-      "time": "2026-10-15 13:47:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "BANK OF JAPAN policy board member Koeda said underlying inflation is stabilizing around 2%."
-    },
-    {
-      "id": "mkt:01a13e1a-1693-7ee0-a891-874cbba2c16f",
-      "time": "2026-10-15 13:47:39",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of Japan policy board member Koeda said she believes the neutral rate is clearly above 1%."
-    },
-    {
-      "id": "mkt:01a13e19-feae-7ee0-a891-7967c94dd166",
-      "time": "2026-10-15 13:47:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "【EU leaders seek to curb energy-price surge but US‑Iran war leaves few policy options】EU leaders meet for a two-day summit in Brussels starting Thursday to address surging energy costs; the US‑Iran war has left policymakers with limited options and energy inflation is central to debates over European competitiveness. The European Commission will tell heads there is no quick fix. Member states face fiscal constraints: price caps or tax cuts carry heavy budget costs, and higher interest rates raise the fiscal burden. Brussels is considering measures with limited near-term impact — extending joint energy procurement, postponing methane-related climate rules tied to fossil-fuel imports, and prolonging national aid for hard-hit industries. Europe’s reliance on imported oil and gas means these steps are unlikely to prevent short-term energy-price increases."
-    },
-    {
-      "id": "mkt:01a13e19-ef3d-7ee0-a891-735f6449f9ff",
-      "time": "2026-10-15 13:47:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fengfei Aviation wins procurement order from Singapore's JC Aviation】Fengfei Aviation said it has signed a strategic cooperation agreement with Singapore-based JC Aviation to collaborate on eVTOL procurement, airworthiness certification, crew training and local operations support, initially focusing on India and Brazil with later expansion into Latin America. JC Aviation has confirmed orders for two V2000CG Kairiou eVTOLs and one SUNSHIP zero-carbon seaplane terminal; under the agreement it will procure 260 eVTOLs and 10 SUNSHIP terminals from Fengfei over the next five years."
-    },
-    {
-      "id": "5146783",
-      "time": "2026-10-15 13:47:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行小枝：價格走勢在2%左右趨於穩定。"
-    },
-    {
-      "id": "5146782",
-      "time": "2026-10-15 13:46:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【峰飛航空獲新加坡JC航空採購訂單】從峰飛航空獲悉，公司日前已和新加坡JC航空簽署戰略合作協議，雙方將圍繞eVTOL採購、適航認證、人員培訓以及本地運營保障等領域展開深度合作，合作初期聚焦印度和巴西兩大市場，後續逐步拓展至拉丁美洲。截至目前，JC航空已確認訂購2架峰飛航空V2000CG凱瑞鷗eVTOL和1艘SUNSHIP零碳水上機場。根據協議內容，未來五年內，JC航空將向峰飛航空採購260架eVTOL以及10艘SUNSHIP零碳水上機場。"
     }
   ]
 }
