@@ -1,7 +1,80 @@
 {
   "date": "2026-10-23",
-  "count": 476,
+  "count": 484,
   "items": [
+    {
+      "id": "5162838",
+      "time": "2026-10-23 07:21:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "SPACEX表示，下一次星鏈發射機會將在10月23日。"
+    },
+    {
+      "id": "5162837",
+      "time": "2026-10-23 07:21:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "SPACEX公司表示，由於天氣原因，將取消星鏈發射計劃。"
+    },
+    {
+      "id": "5162836",
+      "time": "2026-10-23 07:20:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【特步國際第三季度主品牌零售銷售增長取得中單位數同比下跌】特步國際(01368)釋出公告，截至2026年9月30日止3個月，特步主品牌零售銷售增長(包括線上線下渠道)取得中單位數同比下跌;零售折扣水平為七至七五折;渠道庫存週轉約四個半月至五個月。索康尼零售銷售增長(包括線上線下渠道)取得中單位數同比增長。"
+    },
+    {
+      "id": "mkt:01a165ea-1b26-7ee0-a950-7337bc5d1b8a",
+      "time": "2026-10-23 07:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's September core CPI YoY due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a165e9-4ae6-7ee0-a950-6844b34254ee",
+      "time": "2026-10-23 07:19:10",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【UK consumer confidence posts biggest monthly drop since pandemic as economic worries deepen】UK consumer confidence suffered its largest single-month fall since the start of the COVID-19 crisis, underscoring mounting concern about the economic outlook. GfK said its October index tumbled 11 points to -24, the lowest since April and below all forecasts in a Reuters survey, the biggest monthly decline since April 2020; outside the pandemic the last comparable drop followed the June 2016 Brexit vote. GfK attributed the slide to rising inflation, the Middle East conflict and ongoing household budget pressure, creating an unfavorable backdrop for the chancellor's budget due next week."
+    },
+    {
+      "id": "5162835",
+      "time": "2026-10-23 07:18:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年西太平洋海軍論壇醫學研討會在上海舉辦】2026年西太平洋海軍論壇醫學研討會21日至22日在位於上海的海軍軍醫大學舉辦，有16個西太平洋海軍論壇成員國和觀察員國派代表參加。 研討會以“人工智慧時代下的海上衛勤：挑戰和對策”為主題，百餘名代表圍繞海上災難醫學與應急救援、援潛救生醫學保障、海上衛勤保障及傷員救治、海上衛勤力量培訓4個方面，展開18場專題研討。 其間，各方代表分享了在海上醫療救護、突發海上災害醫學響應、潛水與高氣壓醫學等方面的經驗做法，就智慧診斷、無人化救護、遠端醫療等新興技術在海上場景中的應用展開研討交流，共商人工智慧時代海上醫學救援合作之道。 這次會議旨在進一步加強各方在海上醫學救援領域的交流合作，推動海上醫學救援更加高效、規範、協同，服務構建人類衛生健康共同體。（國防部發布）"
+    },
+    {
+      "id": "5162834",
+      "time": "2026-10-23 07:18:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【境外資產配置成“賣點” 保險業“開門紅”換新打法】記者近日從業內調研瞭解到，已有多家保險公司陸續啟動“開門紅”活動，但總體而言，大部分公司啟動時間在11月之後，比去年偏晚。在產品和服務上，今年險企“開門紅”活動有新打法，境外資產投資成為險企吸引客戶的重要抓手。業內人士認為，險企比拼境外投資能力，既有利於幫助客戶進行全球資產配置，也有利於在低利率環境下促進保險產品銷售。但消費者要區分保險公司資產配置策略與自己購買保險產品之間的關係，配置境外資產並不等於一定能獲得高收益。（上海證券報）"
+    },
+    {
+      "id": "5162832",
+      "time": "2026-10-23 07:18:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【可轉債風險收益比改善 基金調倉佈局結構性機會】近期，可轉債市場迎來一輪調整，產品淨值同步承壓。業內人士認為，可轉債市場風險收益比有所改善，但估值壓力尚未完全出清。不少基金經理已順勢調倉，一邊防範潛在風險，一邊挖掘結構性配置機會。（上海證券報）"
+    },
     {
       "id": "5162831",
       "time": "2026-10-23 07:16:31",
