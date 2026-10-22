@@ -1,7 +1,74 @@
 {
-  "updated": "2026-10-22 09:14:31",
-  "count": 13394,
+  "updated": "2026-10-22 09:18:23",
+  "count": 13389,
   "items": [
+    {
+      "id": "5159631",
+      "time": "2026-10-22 09:16:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前三季度北京GDP同比增長5.2%】昨天，北京市統計局釋出最新資料，前三季度，本市地區生產總值（GDP）同比增長5.2%，經濟執行總體平穩，發展質量穩步提升。北京擁有金融業、資訊服務業、工業三大優勢行業，這三大支柱行業構成了經濟穩定增長的主軸。前三季度，三個行業合計佔地區生產總值的53.9%，對全市經濟增長的貢獻率超過八成。（北京日報）"
+    },
+    {
+      "id": "mkt:01a1612d-b1e4-7ee0-a934-a3569dff8791",
+      "time": "2026-10-22 09:15:46",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.21% at 23,605, trading 47 points below the spot index."
+    },
+    {
+      "id": "5159630",
+      "time": "2026-10-22 09:15:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7195，較上日調低3點】人民幣兌美元中間價報6.7195，較上日調低3點。"
+    },
+    {
+      "id": "5159629",
+      "time": "2026-10-22 09:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7195元。"
+    },
+    {
+      "id": "5159628",
+      "time": "2026-10-22 09:15:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【眾凌科技啟動IPO輔導】證監會網站披露，浙江眾凌科技股份有限公司於2026年10月21日在浙江證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為國泰海通證券。輔導備案報告顯示，彭騫、徐華偉直接持有公司31.52%股份，並透過海寧市眾呈管理諮詢合夥企業（有限合夥）、海寧市眾欣管理諮詢合夥企業（有限合夥）、海寧市眾享管理諮詢合夥企業（有限合夥）間接控制公司7.57%股份，合計控制公司39.10%股份，為公司控股股東。"
+    },
+    {
+      "id": "5159627",
+      "time": "2026-10-22 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.25%，報23597.30點，低水54.57點。"
+    },
+    {
+      "id": "5159626",
+      "time": "2026-10-22 09:14:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【華大基因VISTA™染色體測序產品獲CE-IVDR認證】近日，華大基因自主研發的VISTA™ Chromosome aneuploidy and copy number variants detection kit (Combinatorial Probe-Anchor Synthesis Sequencing Method)（簡稱“VISTA™染色體測序產品”）產品經公告機構稽核與評估，正式獲得TÜV南德意志集團產品服務有限公司（TÜV SÜD Product Service GmbH）頒發的CE-IVDR證書。在臨床產品端，標誌著該產品的安全性、有效性及質量管理體系獲得歐盟權威公告機構正式認可，將進一步提升其在歐盟、EEA市場及其他認可CE-IVDR認證國家和地區的綜合競爭力。"
+    },
+    {
+      "id": "mkt:01a1612c-94b3-7ee0-a934-9ed3ad1a9c63",
+      "time": "2026-10-22 09:14:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc said a magnitude-3.0 earthquake occurred at 09:07 on Oct 22 in Shuanghu County, Nagqu, Tibet (33.96N, 88.59E); focal depth 10 km."
+    },
     {
       "id": "5159625",
       "time": "2026-10-22 09:13:42",
@@ -121613,129 +121680,6 @@
         "公司"
       ],
       "text": "【騰達科技：對304材質產品進行價格下調】 山東騰達緊固科技股份有限公司（簡稱“騰達科技”）10月15日釋出調價函，根據當前原材料及市場行情，公司決定於10月15日對304材質產品進行價格下調，線上騰達優購系統同步執行。"
-    },
-    {
-      "id": "5146068",
-      "time": "2026-10-15 09:18:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌5%，現報709.10元。"
-    },
-    {
-      "id": "mkt:01a13d23-6e49-7ee0-a889-8f41e76016fb",
-      "time": "2026-10-15 09:18:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Tengda Technology cuts prices on 304 stainless-steel products】Shandong Tengda Fastening Technology Co., Ltd (Tengda Technology) said on Oct 15 it will lower prices for 304 stainless-steel products effective the same day, citing current raw-material and market conditions; new prices will be implemented via the company's Tengda Yougou online procurement system."
-    },
-    {
-      "id": "5146067",
-      "time": "2026-10-15 09:17:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元走弱0.5%，至32.234。"
-    },
-    {
-      "id": "5146066",
-      "time": "2026-10-15 09:16:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守94美元/桶，日內跌1.15%。"
-    },
-    {
-      "id": "mkt:01a13d21-d397-7ee0-a889-8329d97bfb47",
-      "time": "2026-10-15 09:16:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude fell below $103/bbl, down 1.42% intraday."
-    },
-    {
-      "id": "5146065",
-      "time": "2026-10-15 09:16:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士股價跌幅擴大至11%，外資拋售加劇。"
-    },
-    {
-      "id": "5146064",
-      "time": "2026-10-15 09:15:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌2%，現報6482.00元。"
-    },
-    {
-      "id": "mkt:01a13d20-ecd0-7ee0-a889-79b2d1002e7b",
-      "time": "2026-10-15 09:15:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures opened down 1.28% at 24,022, trading 292 points below the cash index."
-    },
-    {
-      "id": "mkt:01a13d20-c852-7ee0-a889-73d8ff6a06cd",
-      "time": "2026-10-15 09:15:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "The Saudi-led coalition said it intercepted and shot down a drone in the eastern region."
-    },
-    {
-      "id": "5146060",
-      "time": "2026-10-15 09:15:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7253元，下調4點。"
-    },
-    {
-      "id": "5146059",
-      "time": "2026-10-15 09:15:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌1%，現報94.13美元/桶。"
-    },
-    {
-      "id": "5146057",
-      "time": "2026-10-15 09:15:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【琶洲太空智算星組雙星升空 開啟“天數天算”新階段】14日19時40分，琶洲太空智算星組首批兩顆算力衛星在酒泉衛星發射中心由“朱雀二號”改進型運載火箭搭載發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。此次發射的“琶洲太空智算星組”首批兩顆算力衛星支援在軌7×24小時穩定執行，投運後，將在太空算力載荷常態化執行、鐳射高頻寬星間互聯與星地通訊、跨衛星太空大模型分散式計算三方面實現業界首創，形成全棧軟硬一體化能力。（央視）"
-    },
-    {
-      "id": "5146056",
-      "time": "2026-10-15 09:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌1.22%，報24036.76點，低水277.41點。"
     }
   ]
 }
