@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-23 04:23:03",
-  "count": 13310,
+  "updated": "2026-10-23 04:26:55",
+  "count": 13316,
   "items": [
+    {
+      "id": "5162679",
+      "time": "2026-10-23 04:26:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗：可能會進一步採取行動。"
+    },
+    {
+      "id": "5162677",
+      "time": "2026-10-23 04:25:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet董事會宣佈每股優先股股息15.63美元。"
+    },
+    {
+      "id": "5162673",
+      "time": "2026-10-23 04:25:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Bloom Energy營收超預期，產品銷售創紀錄】燃料電池系統供應商Bloom Energy三季度營收12.4億美元，同比增長138.1%，分析師預期10.8億美元。三季度調整後EBITDA為2.995億美元，分析師預期2.412億美元。三季度調整後每股收益（EPS）為0.94美元，分析師預期0.68美元。公司CFO Simon Edwards稱，公司三季度業績強勁，體現出（整體）業務強有力的執行狀態。預計全年營收44億-46億美元，意味著中位數將較上年增長122%，分析師預期41.1億美元，公司原本預計39億-42億美元。維持全年調整後毛利潤率預期在大約34%不變，分析師預期33.8%。BE美股盤後跌超2.4%。"
+    },
+    {
+      "id": "te:markets:594347",
+      "time": "2026-10-23 04:24:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Drops on Oil Rally and BoC Hike Bets — The S&P/TSX Composite Index fell 1% to close at 35,973 on Thursday as rising oil prices fueled inflation concerns and reinforced expectations for higher-for-longer interest rates. Crude prices climbed amid escalating tensions in the Middle East. Markets are pricing in rate hikes from both the Bank of Canada and the US Federal Reserve this year, keeping credit-sensitive stocks under pressure amid concerns over energy-driven inflation and higher borrowing costs. Major banks declined, with Scotiabank losing 0.9%. Miners posted sharp losses as gold prices fell, with Agnico Eagle down 6.2%, Wheaton Precious Metals shedding 6.8%, Barrick losing 5.5% and Franco-Nevada retreating 5%. Tech stocks also weakened after US megacap earnings failed to impress, reigniting concerns over AI spending. Celestica tumbled 12% ahead of its results due Monday, while Shopify shed 3.5%. Elsewhere, Waste Connections jumped nearly 9.5% after beating profit and revenue estimates and raising its full-year outlook."
+    },
+    {
+      "id": "5162669",
+      "time": "2026-10-23 04:24:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：美國國務卿魯比奧與北約秘書長呂特探討黑海安全問題，雙方還商討推動俄烏達成協議的相關舉措。"
+    },
+    {
+      "id": "mkt:01a16549-1f55-7ee0-a94f-4f2b5b5faedd",
+      "time": "2026-10-23 04:24:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio and NATO Secretary-General Rutte discussed Black Sea security."
+    },
+    {
+      "id": "5162660",
+      "time": "2026-10-23 04:22:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：可能會再增加幾個州進行訪問。"
+    },
     {
       "id": "mkt:01a16547-849b-7ee0-a94f-400876d97eb3",
       "time": "2026-10-23 04:22:28",
@@ -120779,18 +120842,6 @@
         "Important"
       ],
       "text": "United States | US Treasuries held by Foreign Central Banks (Oct.9) | actual -14588000000B | previous -16872999999.999998B"
-    },
-    {
-      "id": "te:markets:592513",
-      "time": "2026-10-16 04:26:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises as Banks and Tech Stocks Rebound — The S&P/TSX Composite Index rose 1.5% to close at 36,137 on Thursday as banking and technology stocks rebounded sharply from earlier losses. Lower global bond yields boosted risk appetite after a selloff in Wall Street chipmakers drove investors toward safe-haven assets such as government bonds. Canada’s benchmark 10-year bond yield fell about 8 basis points, supporting broad-based gains across sectors. Interest-rate-sensitive stocks advanced, with RBC up 1.1%, TD Bank gaining 1.5%, and National Bank rising 1.9%. Retailers also gained, with Loblaw jumping 5% and Dollarama advancing 2.7%. Meanwhile, the selloff in chipmakers slowed sharply, while US hyperscalers mostly closed higher, lending support to Canadian technology stocks. Shopify rose 2.9%, Constellation Software jumped 4.6%. Celestica closed 3.1% lower, trimming losses. Rising gold and silver prices boosted mining shares, with Agnico Eagle gaining 5.7%, Barrick adding 4%, and WPM rising 2.5%."
     }
   ]
 }
