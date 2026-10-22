@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-23 03:59:40",
-  "count": 13297,
+  "updated": "2026-10-23 04:03:29",
+  "count": 13296,
   "items": [
+    {
+      "id": "5162610",
+      "time": "2026-10-23 04:02:09",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "西部資料第一財季淨營收43.8億美元，分析師預期41.5億美元。"
+    },
+    {
+      "id": "mkt:01a16534-ee61-7ee0-a94e-e17858009aa8",
+      "time": "2026-10-23 04:02:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "Nasdaq100",
+        "Impact bearish",
+        "NVDA.O",
+        "SPCX.O"
+      ],
+      "text": "【US close: Tech slump drags Nasdaq down 2.6%】US stocks closed Thursday: Nasdaq fell 2.6%, the S&P 500 dropped 1.2% and the Dow was slightly higher. Tech-led losses: SpaceX (SPCX.O) -9%, Meta Platforms (META.O) ~-7%, NVIDIA (NVDA.O) -4.4%, SK Hynix (SKHY.O) -8%, Moderna (MRNA.O) -17%. Nasdaq Golden Dragon China Index down 1.19%; Alibaba (BABA.N) off >2%, NetEase (NTES.O) off >3%."
+    },
+    {
+      "id": "5162608",
+      "time": "2026-10-23 04:01:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX股價收跌10%，市值蒸發1980億美元。"
+    },
+    {
+      "id": "5162605",
+      "time": "2026-10-23 04:00:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數下跌6.7%，創6月以來最大跌幅。"
+    },
+    {
+      "id": "5162604",
+      "time": "2026-10-23 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.02%，標普500指數跌1.21%，納指跌2.57%。Moderna跌17.57%，Coherent Corp跌12.52%，泛林集團跌11.82%，安朗傑漲11.01%，儒博實業漲9.79%。“七姐妹”方面：蘋果漲1.23%，微軟跌2.19%，特斯拉跌3.04%，谷歌跌3.10%，英偉達跌4.45%，亞馬遜跌4.55%，Meta Platforms跌7.00%。"
+    },
+    {
+      "id": "5162603",
+      "time": "2026-10-23 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.20%】虎虎科技跌11.06%，海川證券跌9.35%，再鼎醫藥跌8.88%，世紀互聯跌8.70%，禾賽科技跌8.00%。"
+    },
     {
       "id": "mkt:01a16531-3af3-7ee0-a94e-df9800e13493",
       "time": "2026-10-23 03:58:07",
@@ -120603,73 +120666,6 @@
         "市場"
       ],
       "text": "費城半導體指數連續第七天下跌。"
-    },
-    {
-      "id": "mkt:01a14129-5a08-7ee0-a8a7-a53beeeb60ab",
-      "time": "2026-10-16 04:03:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "JD.com",
-        "S&P500",
-        "Impact bullish",
-        "NTES.O",
-        "JD.O"
-      ],
-      "text": "【US close: major indexes up; Nasdaq Golden Dragon index +1.96%】US stocks closed Thursday: Dow Jones Industrial Average +1.08%, S&P 500 +0.33%, Nasdaq Composite +0.08%. S&P and Nasdaq opened lower before finishing higher. Notable movers: Micron Technology (MU.O) +1.8%, SK Hynix (SKHY.O) -1%, Dell Technologies (DELL.N) -7%, CoreWeave (CRWV.O) +6%. Nasdaq Golden Dragon China Index +1.96%; NetEase (NTES.O) +2.7%, JD.com (JD.O) +2.6%."
-    },
-    {
-      "id": "mkt:01a14128-7dba-7ee0-a8a7-98000dd27a8f",
-      "time": "2026-10-16 04:02:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "State Dept official: Secretary of State Rubio urged Lebanon and Israeli military forces to establish direct military communication channels to avoid escalation of hostilities."
-    },
-    {
-      "id": "5148397",
-      "time": "2026-10-16 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲1.08%，標普500指數漲0.33%，納指漲0.07%。艾可菲漲7.26%，Reddit漲7.25%，Fair Isaac Corp漲6.98%，國際紙業漲6.85%，APP AppLovin漲6.49%，Coinbase Global漲6.37%。“七姐妹”方面：微軟漲1.01%，谷歌漲0.34%，亞馬遜漲0.27%，Meta Platforms跌0.14%，蘋果跌0.29%，特斯拉跌1.29%，英偉達跌1.88%。"
-    },
-    {
-      "id": "5148396",
-      "time": "2026-10-16 04:00:42",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院官員：魯比奧敦促黎巴嫩與以色列軍方建立直接軍事溝通渠道，以規避衝突。"
-    },
-    {
-      "id": "mkt:01a14126-9813-7ee0-a8a7-95a245a1471f",
-      "time": "2026-10-16 04:00:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A State Dept official said US Secretary of State Rubio spoke with Lebanese President AOUN about Lebanon's seizure of hundreds of kilograms of explosives from Hezbollah."
-    },
-    {
-      "id": "5148395",
-      "time": "2026-10-16 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲1.96%】寶尊電商漲9.70%，海川證券漲9.47%，逸仙電商漲5.60%，信也科技漲5.15%，天演藥業漲5.24%。"
-    },
-    {
-      "id": "5148394",
-      "time": "2026-10-16 03:59:54",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院官員：魯比奧敦促奧恩追究下令、資助以及指揮這批貨物運輸相關人員的責任。"
     }
   ]
 }
