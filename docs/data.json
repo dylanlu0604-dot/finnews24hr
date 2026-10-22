@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-23 04:07:23",
+  "updated": "2026-10-23 04:11:22",
   "count": 13296,
   "items": [
+    {
+      "id": "te:markets:594343",
+      "time": "2026-10-23 04:09:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Bloom Energy Corp earnings above expectations at 0.94 USD — Bloom Energy Corp (BE) released earnings per share at 0.94 USD, compared to market expectations of 0.681 USD."
+    },
+    {
+      "id": "5162613",
+      "time": "2026-10-23 04:08:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫德納收跌18%，創8月20日以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:01a16539-bd51-7ee0-a94e-fb78c76ae3a3",
+      "time": "2026-10-23 04:07:25",
+      "tags": [
+        "MKT News",
+        "WDC.O"
+      ],
+      "text": "Western Digital Corp guides fiscal 2027 second-quarter revenue at $5.1 billion."
+    },
     {
       "id": "te:markets:594342",
       "time": "2026-10-23 04:06:00",
@@ -120647,34 +120676,6 @@
         "DXY"
       ],
       "text": "【US, Israel reported to intensify consultations on plans to strike Iran】On Oct 15 local time Israel’s Channel 12, citing Israeli security officials, reported that Israeli and Western intelligence assess Iran is taking extreme military measures, and that Prime Minister Netanyahu spoke the same day with US Secretary of State Rubio to consult on plans for a military strike. Channel 12 said US and Israeli officials told the station they currently assess the situation has not reached the threshold requiring immediate military action."
-    },
-    {
-      "id": "te:markets:592512",
-      "time": "2026-10-16 04:08:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rebound as Chipmaker Selloff Eases — US stock indices closed higher on Thursday, rebounding from earlier losses as the selloff in AI infrastructure stocks eased. The S&P 500 gained 0.3%, the Nasdaq closed near flat, and the Dow added 557 points. Chipmakers and AI hyperscalers pared losses after Nvidia CEO Jensen Huang pushed back against concerns about CoreWeave (+5.9%), saying he did not believe the company would need a bailout from Nvidia. The data center firm is an important test case for the viability of businesses emerging to meet surging demand for AI computing. Companies like CoreWeave have borrowed heavily with support from suppliers, including Nvidia (-1.8%), fueling concerns that circular financing may be creating artificial demand. Most hyperscalers closed higher, with Microsoft up 1.1% and Oracle gaining 3%. The chip selloff slowed sharply, with Broadcom down 0.6%, AMD losing 1.5%, while Micron rose 1.9%. The Dow was supported by a rally in Treasuries after a rout that had propelled yields to multi-year highs."
-    },
-    {
-      "id": "5148403",
-      "time": "2026-10-16 04:08:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：儘管面臨關稅相關壓力，預計加拿大銀行業將維持穩健表現。"
-    },
-    {
-      "id": "5148401",
-      "time": "2026-10-16 04:07:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：隨著業務量回升、消費者與企業情緒企穩，預計加拿大各大銀行 2027 年盈利將小幅改善。"
     }
   ]
 }
