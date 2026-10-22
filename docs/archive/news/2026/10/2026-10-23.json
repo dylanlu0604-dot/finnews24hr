@@ -1,7 +1,52 @@
 {
   "date": "2026-10-23",
-  "count": 321,
+  "count": 325,
   "items": [
+    {
+      "id": "te:markets:594342",
+      "time": "2026-10-23 04:06:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Western Digital earnings above expectations at 4.64 USD — Western Digital (WDC) released earnings per share at 4.64 USD, compared to market expectations of 3.75 USD."
+    },
+    {
+      "id": "5162611",
+      "time": "2026-10-23 04:05:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：在截至9月30日的三個月及九個月內，分別從特斯拉採購了價值1.51億美元和4.8億美元的Megapack儲能產品。"
+    },
+    {
+      "id": "mkt:01a16537-5cff-7ee0-a94e-f5a0102ab39a",
+      "time": "2026-10-23 04:04:49",
+      "tags": [
+        "MKT News",
+        "WDC.O",
+        "Impact bullish"
+      ],
+      "text": "Western Digital Corp reported FY2027 Q1 revenue $4.38 bln, versus $4.15 bln expected."
+    },
+    {
+      "id": "mkt:01a16536-5dfd-7ee0-a94e-ea79db4ad894",
+      "time": "2026-10-23 04:03:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Thursday Oct. 22 — Dow Jones Industrial Average closed up 11.59 points, or 0.02%, at 52,867.68; S&P 500 fell 93.82 points, or 1.21%, to 7,663.35; Nasdaq Composite fell 694.00 points, or 2.60%, to 26,008.86."
+    },
     {
       "id": "mkt:01a16534-ee61-7ee0-a94e-e17858009aa8",
       "time": "2026-10-23 04:02:09",

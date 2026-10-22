@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-23 04:03:29",
+  "updated": "2026-10-23 04:07:23",
   "count": 13296,
   "items": [
+    {
+      "id": "te:markets:594342",
+      "time": "2026-10-23 04:06:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Western Digital earnings above expectations at 4.64 USD — Western Digital (WDC) released earnings per share at 4.64 USD, compared to market expectations of 3.75 USD."
+    },
+    {
+      "id": "5162611",
+      "time": "2026-10-23 04:05:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：在截至9月30日的三個月及九個月內，分別從特斯拉採購了價值1.51億美元和4.8億美元的Megapack儲能產品。"
+    },
+    {
+      "id": "mkt:01a16537-5cff-7ee0-a94e-f5a0102ab39a",
+      "time": "2026-10-23 04:04:49",
+      "tags": [
+        "MKT News",
+        "WDC.O",
+        "Impact bullish"
+      ],
+      "text": "Western Digital Corp reported FY2027 Q1 revenue $4.38 bln, versus $4.15 bln expected."
+    },
+    {
+      "id": "mkt:01a16536-5dfd-7ee0-a94e-ea79db4ad894",
+      "time": "2026-10-23 04:03:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Thursday Oct. 22 — Dow Jones Industrial Average closed up 11.59 points, or 0.02%, at 52,867.68; S&P 500 fell 93.82 points, or 1.21%, to 7,663.35; Nasdaq Composite fell 694.00 points, or 2.60%, to 26,008.86."
+    },
     {
       "id": "5162610",
       "time": "2026-10-23 04:02:09",
@@ -120630,42 +120675,6 @@
         "其他"
       ],
       "text": "惠譽：隨著業務量回升、消費者與企業情緒企穩，預計加拿大各大銀行 2027 年盈利將小幅改善。"
-    },
-    {
-      "id": "mkt:01a1412b-b31c-7ee0-a8a7-b6ef24ac6ade",
-      "time": "2026-10-16 04:05:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said it is crucial that frozen Russian assets remain frozen."
-    },
-    {
-      "id": "mkt:01a1412a-aacb-7ee0-a8a7-ade824ce5ac3",
-      "time": "2026-10-16 04:04:37",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "Dow Jones Industrial Average closed up 557.51 points, or 1.08%, at 52,178.99 on Thursday, Oct. 15; S&P 500 closed up 25.18 points, or 0.33%, at 7,744.12; Nasdaq Composite closed up 20.16 points, or 0.08%, at 26,713.03."
-    },
-    {
-      "id": "5148400",
-      "time": "2026-10-16 04:04:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國安理會譴責胡塞武裝跨境襲擊民用設施】當地時間10月15日下午，聯合國安理會透過關於葉門局勢的主席宣告，並由本月輪值主席國希臘釋出，以最強烈的措辭譴責胡塞武裝持續對沙烏地阿拉伯發動襲擊，包括針對民用航空和能源基礎設施的襲擊。安理會成員向遇難者家屬以及沙特政府和人民表示最深切的慰問，並祝願所有傷者早日康復。（央視新聞）"
-    },
-    {
-      "id": "5148399",
-      "time": "2026-10-16 04:03:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "費城半導體指數連續第七天下跌。"
     }
   ]
 }
