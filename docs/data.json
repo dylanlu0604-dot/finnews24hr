@@ -1,7 +1,1175 @@
 {
-  "updated": "2026-10-22 07:35:45",
-  "count": 13455,
+  "updated": "2026-10-22 08:51:17",
+  "count": 13421,
   "items": [
+    {
+      "id": "mkt:01a16116-a368-7ee0-a934-200c5ea70529",
+      "time": "2026-10-22 08:50:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Bank of Korea holds policy rate at 3% as expected】The Bank of Korea kept its policy rate at 3.0%, in line with market expectations. The central bank had raised rates at the July and August meetings."
+    },
+    {
+      "id": "5159598",
+      "time": "2026-10-22 08:50:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【為避鉅額財富稅，扎克伯格曾考慮搬離加州】Meta Platforms 在週三提交的一份官方檔案中透露，公司執行長馬克·扎克伯格（Mark Zuckerberg）已承諾，在未來八年內將繼續以公司總部所在地（加利福尼亞州）為主要居住地，除非發生“不可預見的重大突發情況”。檔案同時曝光了扎克伯格此前的“出走”意向。他曾向 Meta 董事會坦言，由於加州即將在 11 月 3 日交由選民投票表決一項開創先例的“財富稅提案”，他此前一直在認真評估是否徹底搬離加州。Meta 解釋稱，一旦該富豪稅提案透過並立法，扎克伯格將面臨一筆因持有 Meta 股份而產生的“高達數十億美元”的鉅額稅單。為了支付這筆天文數字的稅款，扎克伯格可能不得不被迫大量拋售公司股票。這不僅會直接稀釋他的個人資產，更會導致他在 Meta 的投票權比例從現有的 60.6% 驟降至 53% 甚至更低，嚴重動搖其對公司的絕對控制權。"
+    },
+    {
+      "id": "5159597",
+      "time": "2026-10-22 08:50:15",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國央行將基準利率維持在3.00%不變，預估為3.00%。"
+    },
+    {
+      "id": "mkt:01a16116-4e64-7ee0-a934-1aab3039cd5e",
+      "time": "2026-10-22 08:50:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea policy rate unchanged at 3.00% on Oct 22; expected 3.00%, previous 3.00%."
+    },
+    {
+      "id": "mkt:01a16116-35dd-7ee0-a934-11b4d944c94e",
+      "time": "2026-10-22 08:50:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "SWIFT will publish the RMB share of global payments for September in 10 minutes."
+    },
+    {
+      "id": "mkt:01a16116-295c-7ee0-a934-096ff21fb951",
+      "time": "2026-10-22 08:50:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | BOK Base Rate (Oct.22) | actual 3% | consensus 3.00% | previous 3.00%"
+    },
+    {
+      "id": "mkt:01a16114-1938-7ee0-a934-02aa101d7280",
+      "time": "2026-10-22 08:47:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Margin financing balance across both exchanges down 961 mln yuan】As of Oct 21, Shanghai Stock Exchange margin financing balance was 1,257.32 bln yuan, down 657 mln yuan from the previous trading day; Shenzhen Stock Exchange was 1,185.07 bln yuan, down 304 mln yuan; combined 2,442.40 bln yuan, down 961 mln yuan."
+    },
+    {
+      "id": "5159596",
+      "time": "2026-10-22 08:47:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少9.61億元】截至10月21日，上交所融資餘額報12573.21億元，較前一交易日減少6.57億元；深交所融資餘額報11850.74億元，較前一交易日減少3.04億元；兩市合計24423.95億元，較前一交易日減少9.61億元。"
+    },
+    {
+      "id": "5159595",
+      "time": "2026-10-22 08:47:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傑瑞股份：公司正快速採取多種方式提高產能 全力保障訂單交付】傑瑞股份在投資者關係活動中表示，公司正快速採取多種方式提高產能，全力保障訂單交付。在產能建設方面，公司已在中國內外多個地區佈局含燃氣輪機發電裝置在內的多種類裝置本地化裝配生產能力。國內產能方面，公司持續最佳化原有廠房產線佈局，新租賃多個廠房用於配套裝置生產並已正式投產，正積極推進國內新廠房產能建設。"
+    },
+    {
+      "id": "5159594",
+      "time": "2026-10-22 08:46:09",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【原油期貨價格上漲 沙特遭遇致命襲擊加劇中東供應擔憂】原油價格走高，此前沙烏地阿拉伯一處油田遭到致命襲擊，市場更加擔心中東地區不斷升級的敵對行動可能會影響石油供應，儘管近幾個月來，經由霍爾木茲海峽的出口有所加速。布倫特原油期貨價格上漲至每桶110美元附近，此前一個交易日價格波動超過3美元。WTI原油期貨升至每桶98美元附近。沙特阿美公司的Shaybah油田遭到無人機襲擊，造成兩人死亡，但生產未受影響。美國國務院下令非緊急工作人員及其家屬從沙烏地阿拉伯撤離。"
+    },
+    {
+      "id": "5159593",
+      "time": "2026-10-22 08:45:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Meta在新墨西哥州被法庭重判250億美元罰款】美國新墨西哥州一名法官週三裁定Meta Platforms 需支付250億美元罰款。此前陪審團認定，Meta在一樁涉及特朗普2016年總統大選的案件中誤導消費者。該案源於一家政治顧問公司遭控未經同意取得數百萬名Facebook使用者資料。新墨西哥州總檢察長Raúl Torrez表示，這是美國歷史上針對一家公司作出的單州最大規模判決之一，甚至可能是最大的一起。“Facebook多年來的不當行為，且系統性地向公眾傳播，觸及Facebook核心商業模式的根本問題，”法官Francis Mathew在判決書中寫道。Mathew認為，根據州法，Meta應面臨超過2,190億美元罰款，但最終將金額下調至250億美元。Meta首席法務官C.J. Mahoney在宣告中表示，公司有信心在上訴中勝訴。"
+    },
+    {
+      "id": "5159592",
+      "time": "2026-10-22 08:41:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率下跌3個基點，至3.895%。"
+    },
+    {
+      "id": "5159591",
+      "time": "2026-10-22 08:41:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漫步者：近期上市的Comfo Clip Q2搭載海思諦聽晶片】漫步者在互動平臺表示，關於戰略合作，公司始終保持開放態度，積極透過資源協同提升整體解決方案能力。公司近期上市的ComfoClipQ2基於OpenHarmony國產開源鴻蒙作業系統，搭載海思諦聽晶片，實現速率、延時、抗干擾、適配性四大維度全面提升。未來，公司將繼續評估技術路徑與產業協作機會，不斷提升產品競爭力。"
+    },
+    {
+      "id": "5159590",
+      "time": "2026-10-22 08:41:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精鍛科技：機器人關節零部件已向相關客戶送樣、開展驗證測試】精鍛科技在互動平臺表示，公司依託精密鍛造、齒輪零部件的工藝平臺優勢，除汽車領域外，公司產品還可適配工業自動化、工程機械、農業機械、機器人關節、航空、高鐵等領域。機器人客戶驗證包含樣件效能測試、耐久可靠性、工況適配、小批次試產等多個環節，並因客戶、專案不同，驗證週期存有差異。公司機器人關節零部件已向相關客戶送樣、開展驗證測試，當前相關業務暫未貢獻規模營收，敬請注意投資風險。"
+    },
+    {
+      "id": "5159589",
+      "time": "2026-10-22 08:41:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鴻富瀚：機器人相關業務正面向北美客戶小批次打樣】鴻富瀚在互動平臺表示，公司機器人相關業務的主要產品包括有人形機器人關節、減速器、軀幹等金屬精密元件和注塑件。目前公司正面向北美客戶小批次打樣，送樣訂單按客戶需求推進交付中。"
+    },
+    {
+      "id": "mkt:01a1610d-f4db-7ee0-a933-f8ec8fb400c7",
+      "time": "2026-10-22 08:41:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 30-year government bond yield fell 3 bps to 3.895%."
+    },
+    {
+      "id": "5159588",
+      "time": "2026-10-22 08:40:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴克萊亞太區執行長：沙特擴張計劃進展順利。"
+    },
+    {
+      "id": "te:markets:593980",
+      "time": "2026-10-22 08:40:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Gains Despite Soft Inflation Data — The New Zealand dollar edged higher to $0.570, its strongest level in a month, even as inflation eased slightly more than expected in the third quarter. Annual inflation fell to 3.7% from 4.1% in the previous quarter, below market expectations of 3.8%. On a quarterly basis, the CPI rose 0.7%, compared with 1.5% in the second quarter and below the 0.8% estimate. Despite the slowdown, inflation remains above the Reserve Bank of New Zealand’s 1-3% target range, reinforcing expectations of another rate hike next week. The slowdown in price pressures is also expected to be temporary, with some economists anticipating inflation to pick up again in the fourth quarter as escalating tensions in the Middle East drive up fuel costs. Markets are now almost fully pricing in another quarter-point rate hike at the central bank’s upcoming meeting."
+    },
+    {
+      "id": "5159587",
+      "time": "2026-10-22 08:40:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "東京電子股價下跌4%。"
+    },
+    {
+      "id": "5159586",
+      "time": "2026-10-22 08:40:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "巴克萊亞太區執行長：巴克萊看好中東市場機遇。"
+    },
+    {
+      "id": "5159585",
+      "time": "2026-10-22 08:38:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國要求外交官離開沙烏地阿拉伯後，石油期貨上漲；布倫特原油、西德克薩斯中質原油上漲約1%。"
+    },
+    {
+      "id": "5159584",
+      "time": "2026-10-22 08:38:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "方達控股公司在香港暫停交易。"
+    },
+    {
+      "id": "5159583",
+      "time": "2026-10-22 08:38:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天風證券：建議關注酒店、景區、餐飲及零售等方向】天風證券認為，9月商社相關消費品類表現改善，國慶旅遊、住宿及餐飲服務消費保持增長，消費需求呈現一定修復跡象。建議關注酒店、景區、餐飲及零售等方向，重點跟蹤酒店量價、景區客流及客單價、餐飲同店和零售終端銷售變化，關注需求改善向企業收入、利潤及現金流的傳導。"
+    },
+    {
+      "id": "5159582",
+      "time": "2026-10-22 08:37:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【普洛藥業攜手北京大學共建聯合實驗室】21日上午，北京大學與普洛藥業股份有限公司共建“北京大學—普洛藥業核酸藥物與生物製造聯合實驗室”簽約揭牌。雙方將圍繞小核酸原料藥化學與生物合成開展產學研協同攻關，推動高校基礎研究優勢與企業產業化轉化能力深度融合，為普洛藥業CDMO業務在核酸藥物與生物製造領域拓展提供技術支撐。"
+    },
+    {
+      "id": "5159581",
+      "time": "2026-10-22 08:36:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青島入選全國試點，打造“青島—北京”氫能物流走廊】據青島日報，10月21日，京津冀氫能產業協同發展大會暨京津冀氫能綜合應用試點城市群啟動會在北京舉行。青島作為13個參與城市群的城市之一參會，正式開啟相關試點工作。試點期間，青島將以“青島—北京”氫能物流走廊建設為核心，發揮港口物流樞紐、氫能全產業鏈製造優勢，承擔氫燃料電池整車及核心零部件生產、車輛推廣運營、清潔低碳氫供給等任務，同時積極拓展氫能在兩輪車等領域的創新應用，不斷豐富氫能綜合應用生態。"
+    },
+    {
+      "id": "5159580",
+      "time": "2026-10-22 08:36:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列被曝模擬對伊朗打擊 美官員：或為誘伊開火 】據以色列第12頻道電視臺21日報道，數十架以色列戰鬥機和空中加油機本週早些時候飛越敘利亞和伊拉克領空，接近伊朗邊境後折返。報道援引兩名美國高階官員的話說，此次行動發生在19日晚至20日凌晨，以軍戰機按照類似對伊朗實施打擊的編隊和路線飛行。報道稱，以色列事先向美國通報了此次行動，並將其描述為一次旨在威懾伊朗、展示以軍軍事能力的演習。美方官員認為，以色列可能試圖誘使伊朗防空系統向以軍戰機開火，從而獲得對伊發動軍事打擊的藉口。以色列官方尚未對此發表評論。（新華社）"
+    },
+    {
+      "id": "mkt:01a16109-5eee-7ee0-a933-f121306ef392",
+      "time": "2026-10-22 08:36:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver was down 1.0% on the day at $57.39/oz."
+    },
+    {
+      "id": "5159579",
+      "time": "2026-10-22 08:34:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "巴克萊亞太區執行長：巴克萊銀行尤其關注日本市場。"
+    },
+    {
+      "id": "5159578",
+      "time": "2026-10-22 08:33:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "野村證券：網站在PHP檢查後逐步恢復服務，此前因PHP相關問題暫時關閉。"
+    },
+    {
+      "id": "5159577",
+      "time": "2026-10-22 08:32:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江調整防颱風應急響應為Ⅳ級】今年第30號颱風“薔琵”10月22日5時位於臺灣台北市東南方向約750公里的洋麵上，中心附近最大風力16級(超強颱風級)。預計“薔琵”將以每小時15~20公里的速度向西北方向移動，逐漸向臺灣東北部沿海靠近。受其影響，23日至25日，浙江東部地區部分大雨暴雨，區域性大暴雨。根據《浙江省防汛防颱抗旱應急預案》和第30號颱風“薔琵”防禦工作方案，經會商研判，省防指決定於10月22日8時將海上防颱風應急響應調整為防颱風Ⅳ級應急響應。"
+    },
+    {
+      "id": "5159576",
+      "time": "2026-10-22 08:32:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【我國中東部迎升溫過程 東南沿海降雨將增多增強】今天（10月22日），我國中東部地區降水較少，新疆雨雪持續，局地或現特大暴雪。明後天，東南沿海地區降雨將增多、增強，部分地區有暴雨或大暴雨，局地特大暴雨，需注意防範。氣溫方面，今天白天至24日，中東部將迎來升溫過程，多地氣溫將較常年同期偏高。"
+    },
+    {
+      "id": "5159575",
+      "time": "2026-10-22 08:30:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海證交所上日融資餘額下跌0.1%至12,573.2億元。"
+    },
+    {
+      "id": "5159574",
+      "time": "2026-10-22 08:30:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北交所上市公司351家 高新技術企業佔比超九成】21日，記者從2026金融街論壇年會上獲悉，中國證監會將加快健全北交所市場產品體系，加大公募基金供給力度，促進投融資兩端平衡發展。證監會公眾公司監管司一級巡視員商慶軍表示，目前北交所上市公司達到351家，累計服務中小企業融資近900億元。上市公司中，國家級專精特新“小巨人”企業佔比超六成，高新技術企業佔比超九成，戰略性新興產業佔比超八成，在新材料、高階裝備、新一代資訊科技等細分領域湧現出一批有代表性的優質中小企業。未來將進一步加大投資端建設力度，統籌促進一二級市場平衡發展，健全投資和融資相協調的資本市場功能。（央視）"
+    },
+    {
+      "id": "5159573",
+      "time": "2026-10-22 08:29:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【機構：2026年全球可摺疊智慧手機AMOLED顯示屏出貨量有望達到2900萬片 同比增長44%】市場調查機構Omdia釋出研究報告稱，隨著三星、蘋果相繼推出採用更寬螢幕比例的“書本型”摺疊屏手機，2026年全球可摺疊智慧手機AMOLED顯示屏出貨量有望達到2900萬片，同比增長44%。到2027年，隨著更多中國廠商加入，這一比例有望突破60%。"
+    },
+    {
+      "id": "te:markets:593978",
+      "time": "2026-10-22 08:28:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Waste Connections earnings above expectations at 1.58 USD — Waste Connections (WCN) released earnings per share at 1.58 USD, compared to market expectations of 1.51 USD."
+    },
+    {
+      "id": "te:markets:593977",
+      "time": "2026-10-22 08:28:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "SAP earnings above expectations at 1.89 EUR — SAP (SAP) released earnings per share at 1.89 EUR, compared to market expectations of 1.81 EUR."
+    },
+    {
+      "id": "5159572",
+      "time": "2026-10-22 08:28:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta因涉嫌在社交媒體上對兒童造成傷害，在澳大利亞面臨集體訴訟】澳大利亞一家法院已受理一起針對Meta Platforms旗下公司（即Facebook和Instagram）的集體訴訟，指控這些社交媒體平臺使兒童接觸到有害內容，並透過演算法使其沉迷其中。這可能是澳大利亞首例指控社交媒體危害使用者——尤其是兒童和青少年——的訴訟。該集體訴訟代表八名原告提起，他們聲稱自己在18歲以下時曾受到Meta的傷害，並正在尋求賠償。"
+    },
+    {
+      "id": "5159571",
+      "time": "2026-10-22 08:27:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【院線將迎“新面孔” 首部AI電影直面市場檢驗】電影院即將迎來一個“新面孔”。10月23日，電影《三星堆：未來往事》將在全國影院上映，這是國內首部利用AI技術製作並獲得國家電影局公映許可證的院線電影。 突飛猛進的AI技術，推動了許多行業變革，影視行業今年的變化格外明顯。年初至今，先是AI短劇產量出現爆發式增長，再是首部AIGC（人工智慧生成內容）長劇《後西遊記》播出，如今，首部AI院線長片也將上映，AI影視來到了新的發展階段。 “博納影業做過很多實拍大片，但對我而言，這部片子的難度是前所未有的。難點來自方方面面，作為國內首部獲批上映的AI原生院線電影，我們沒有前人的經驗可以借鑑，同時也要考慮觀眾有沒有可能接受這種表現形式。”《三星堆：未來往事》製片人曲吉小江說。 AI短劇是今年內容市場的當紅賽道，根據行業研究機構DataEye公佈的資料，今年1月至9月，抖音端AI劇漫劇上線數量達到36.58萬部，其中9月單月上線達到5.18萬部，創單月新高。（證券時報）"
+    },
+    {
+      "id": "te:markets:593975",
+      "time": "2026-10-22 08:27:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Follow Wall Street Lower — Australian stocks fell 49 points or 0.6% to 8,783 in early Thursday trade, reversing modest gains the day before following a weak Wall Street lead amid a broad selloff in AI and chip-related shares. Traders also turned cautious after RBA Deputy Governor Andrew Hauser warned inflation remains more persistent than expected, with September headline CPI at 4% strengthening expectations of another rate hike at the November board meeting. Losses in energy, consumer durables, and tech outweighed gains in logistics, transport and healthcare. Three of the four major banks slipped 0.4% to 0.7%, while Woodside Energy (-3.7%), Wesfarmers (-2.2%) and Aristocrat Leisure (-1.2%) also fell. In contrast, Nextdc Ltd. climbed 6.4%, rebounding from its sharpest decline in nearly nine years after the company reduced its FY2027 guidance. Attention now turns to Australia’s flash October PMI data and comments from RBA Governor Bullock on Friday before parliament."
+    },
+    {
+      "id": "5159570",
+      "time": "2026-10-22 08:26:02",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：社會服務板塊分化之中尋機遇，行業龍頭經營仍具韌性】中信證券指出，2026年三季度不利天氣、燃油費高企以及行業政策調整等因素預計對社會服務板塊造成一定擾動，各板塊內部或延續分化，但行業龍頭經營仍具韌性。分板塊來看，預計酒店經營整體穩健，免稅盈利保持修復，景區、現制飲品、餐飲表現分化，OTA、博彩短期承壓，人力資源外包業務延續增長。整體來看，建議圍繞結構性需求增長、供給最佳化及龍頭經營改善把握投資機會，中信證券認為部分優質龍頭企業估值已回落至合理區間，推薦三條主線：1.商業模式穩健且分紅回購比率優秀的酒店和餐飲龍頭；2.景氣回升時需求彈性斜率較高的博彩公司和免稅公司；3.順週期休閒板塊中經營穩健、具備成長性的現制飲品和景區龍頭；同時建議關注OTA、人力資源、會展板塊。"
+    },
+    {
+      "id": "5159569",
+      "time": "2026-10-22 08:25:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：旺季與“反內卷”支撐快遞價格修復 建議關注電商快遞】華泰證券研報指出，旺季與“反內卷”支撐快遞價格修復，建議關注電商快遞。9月，上游消費增速小幅回升，社零總額、商品零售額及實物商品網上零售額分別同比+1.1%、+1.0%、+2.9%，但快遞行業件量增速繼續放緩至2.1%。行業件均價同比+3.4%、環比提升約0.15元，價格延續修復。展望四季度，旺季與“反內卷”有望共同支撐單票盈利改善，建議關注旺季漲價行情。"
+    },
+    {
+      "id": "5159568",
+      "time": "2026-10-22 08:24:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星電機MLCC交期已漲到52周 國內廠商有望受益於訂單溢位】業內人士透露，三星電機的MLCC的訂單交付週期已進一步延長至52周。這意味著客戶現在下單後需要等待一年才能收到產品。報道稱，全球主要客戶正爭相簽訂明年的供貨合同，以確保獲得三星電機的MLCC產品。僅三星電機今年迄今為止披露的MLCC相關訂單額就高達約2.4萬億韓元。"
+    },
+    {
+      "id": "5159567",
+      "time": "2026-10-22 08:22:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息稱美以已制定新一輪對伊朗打擊計劃】總檯記者當地時間10月21日獲悉，據美國官員及其他知情人士的訊息，美國和以色列軍方已制定在美國中期選舉結束後再次對伊朗發動軍事打擊的具體計劃。據稱，美以雙方正在籌劃一次時間較短但強度較高的軍事行動，並加強聯合演練，包括派遣軍機飛越伊拉克，進行模擬打擊訓練。美國國防部長赫格塞思本週訪問以色列期間，與以色列總理內塔尼亞胡討論了新一輪對伊朗軍事打擊的有關計劃。相關訊息稱，新一輪打擊目標可能包括伊朗的能源基礎設施、核設施，以及導彈和無人機武器庫。部分美國官員認為，再次發動大規模軍事行動可能進一步衝擊伊朗經濟，迫使伊朗在外交談判中作出讓步。目前，美國尚未正式宣佈實施有關軍事行動。"
+    },
+    {
+      "id": "5159566",
+      "time": "2026-10-22 08:22:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行：批准5億美元貸款，增強墨西哥應對災害和氣候變化的韌性。"
+    },
+    {
+      "id": "5159565",
+      "time": "2026-10-22 08:21:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Anthropic推出Claude Duet預覽版】Anthropic週三宣佈以研究預覽版形式，推出全新應用Claude Duet，定位為可主動工作的AI智慧體。Anthropic表示，Claude Duet面向小企業和專業人士設計。它可以向使用者傳送每日簡報、監控已連線應用，並執行構建儀表盤、安排會議和建立財務預測等一系列任務。"
+    },
+    {
+      "id": "mkt:01a160fc-50c1-7ee0-a933-ee9ec31872dc",
+      "time": "2026-10-22 08:21:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "The Trump Trade",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "【Sources: Tesla and SpaceX target merger announcement in 1H 2027】Sources say Tesla (TSLA.O) and SpaceX (SPCX.O) are targeting a merger announcement in 1H 2027, aiming to complete the transaction during President Trump's current administration. The combined company would have an implied market value of about $3.7 trillion, further consolidating Elon Musk's control of his corporate holdings. With U.S. midterm elections under two weeks away, a Democratic takeover of either chamber could prompt probes or tighter oversight of Musk's businesses; a continued sell-off in chip and AI stocks could also erode investor support and jeopardize the deal. REX Financial research head Bill Birmingham said Musk and his advisers are clearly trying to use this window; the timing is both favorable and critical."
+    },
+    {
+      "id": "5159564",
+      "time": "2026-10-22 08:19:15",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：重視稀缺資料流通及Infra建設機遇】中信證券指出，國家資料集團正式成立，定位為資料資源開發利用的國家級市場化主體，旨在強化央地及跨行業資料資源協同。中信證券認為，掌握醫保等稀缺行業資料資源的應用公司以及既有業務涵蓋可信資料空間、資料交易平臺等Infra建設的相關公司有望率先受益。"
+    },
+    {
+      "id": "5159563",
+      "time": "2026-10-22 08:18:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬斯克試圖在特朗普離任前鎖定特斯拉與SpaceX的合併】埃隆·馬斯克終於把心裡話說了出來：他全力支援SpaceX與特斯拉公司進行歷史性的合併，這兩家公司是他手中最有價值的資產，而此舉也將創下史上最大規模企業併購交易的紀錄。接下來，一場搶時間的賽跑正式拉開帷幕。知情人士透露，目前各方正推動在2027年上半年宣佈交易，以便在本屆政府任期內完成交割。此舉將把兩家總市值約3.7萬億美元的公司合而為一。同時，這也將在未來可能變得不再那麼寬鬆的政治與金融環境到來之前，鞏固馬斯克的企業權力。距離中期選舉已不足兩週。如果民主黨控制了國會任何一院，馬斯克及其旗下企業可能會面臨調查，同時也會削弱這位即將步入“跛腳鴨”（任期即將結束）階段的總統的權力。與此同時，晶片製造商和人工智慧股票的持續拋售，可能會侵蝕完成這一大膽交易所需的投資者支援。REX Financial研究主管比爾·伯明翰（Bill Birmingham）表示：“馬斯克及其顧問無疑希望利用當前的時間視窗。這個時機既有利，又至關重要。”針對合併宣佈的目標時間節點，SpaceX和特斯拉均未回應置評請求。"
+    },
+    {
+      "id": "5159562",
+      "time": "2026-10-22 08:18:44",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：看好機器人產業的量產和應用前景，建議關注產業鏈核心廠商】中信證券指出，當下市場風險偏好、情緒接近冰點，2026年10月中旬，三季報陸續披露，A股市場有望進行主題投資行情風格切換。此外，機器人流動性、估值、政策、技術、鏈主等催化大都符合過去七輪機器人上漲行情特徵，因此，從策略角度來看，中信證券認為機器人主題行情當前已具備啟動條件。同時，GPT-6與Gemini 4在機器人規劃、空間感知及Real-to-Sim建模上的進步，正在拓寬通用大模型參與機器人開發與訓練的空間，硬體上，國產整機廠&Optimus量產爬坡不斷提速，並且特斯拉有望在四季度釋出Optimus V3，將人形機器人產業發展帶入新的階段，基於此，看好機器人產業的量產和應用前景，建議關注產業鏈核心廠商。（人民財訊）"
+    },
+    {
+      "id": "5159561",
+      "time": "2026-10-22 08:16:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4120美元/盎司，日內跌0.53%。"
+    },
+    {
+      "id": "5159560",
+      "time": "2026-10-22 08:16:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.4%，德國DAX指數期貨下跌0.4%，英國富時指數期貨下跌0.5%。"
+    },
+    {
+      "id": "mkt:01a160f6-1940-7ee0-a933-e369d7306cdf",
+      "time": "2026-10-22 08:15:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "Magnificent 7",
+        "Star Stocks",
+        "Tesla",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "Market sources say SpaceX and Tesla plan to complete a merger before the end of Trump's term, targeting a signed merger agreement by 1H 2027."
+    },
+    {
+      "id": "5159559",
+      "time": "2026-10-22 08:14:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 瑪麗亞·科裡娜·馬查多說：“我不配獲得諾貝爾和平獎。世界上只有一個人配得上它。” 事實上，她說：“他比任何獲得過這個獎的人都更配得上它。”"
+    },
+    {
+      "id": "5159558",
+      "time": "2026-10-22 08:14:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【經濟日報金觀平：努力實現發展和安全良性互動】中共中央、國務院印發《關於發展新質生產力的意見》明確提出“統籌發展和安全”。安全是發展的前提，發展是安全的保障。發展和安全統籌得當，二者相得益彰；顧此失彼，則兩頭落空。在發展新質生產力過程中，要以高質量發展促進高水平安全，以高水平安全保障高質量發展，努力實現二者良性互動、動態平衡。"
+    },
+    {
+      "id": "5159557",
+      "time": "2026-10-22 08:13:38",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：國家資料集團成立，重視稀缺資料流通及Infra建設機遇】中信證券研報表示，國家資料集團正式成立，定位為資料資源開發利用的國家級市場化主體，旨在強化央地及跨行業資料資源協同。掌握醫保等稀缺行業資料資源的應用公司，以及既有業務涵蓋可信資料空間、資料交易平臺等Infra建設的相關公司有望率先受益。建議關注兩條投資主線：1. 稀缺資料應用；2. 資料基礎設施建設。"
+    },
+    {
+      "id": "5159556",
+      "time": "2026-10-22 08:13:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星E&A在股票登出計劃後股價上漲14%，至54,400韓元。"
+    },
+    {
+      "id": "5159555",
+      "time": "2026-10-22 08:12:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少2.56噸】截至2026年10月21日，全球最大的黃金ETF SPDR Gold Trust持倉量為1057.62噸，較前一個交易日減少2.56噸。"
+    },
+    {
+      "id": "5159553",
+      "time": "2026-10-22 08:12:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：SPACEX與特斯拉的合併交易計劃在特朗普任期結束前完成。"
+    },
+    {
+      "id": "5159552",
+      "time": "2026-10-22 08:12:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息稱SPACEX和特斯拉將在2027年上半年推動合併交易。"
+    },
+    {
+      "id": "5159551",
+      "time": "2026-10-22 08:10:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 我平定了所有這些戰爭，而他們把和平獎頒給了一個沒人聽說過的年輕女士。"
+    },
+    {
+      "id": "5159550",
+      "time": "2026-10-22 08:08:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰格醫藥：附屬公司方達控股股份短暫停止買賣】泰格醫藥（03347.HK）釋出內幕訊息公告，公司附屬公司方達控股之股份已於2026年10月22日上午9時正起短暫停止買賣，以待發出載有內幕訊息之公告。公司表示，牽涉方達控股之交易不保證落實，公司將適時作出進一步公告。"
+    },
+    {
+      "id": "5159549",
+      "time": "2026-10-22 08:08:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗最高領袖網站訊息，最高領袖穆傑塔巴21日會見了伊朗伊斯蘭議會議長卡利巴夫，評估美國、以色列針對伊朗戰爭引發的最新局勢，並討論瞭如何增強國家韌性。（新華社）"
+    },
+    {
+      "id": "mkt:01a160f0-2340-7ee0-a933-dd073effa20a",
+      "time": "2026-10-22 08:08:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan 10-year government bond yield fell 2 bps to 2.87%."
+    },
+    {
+      "id": "5159548",
+      "time": "2026-10-22 08:08:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率<JP10YTN=JBTC>下跌2個基點，至2.87%。"
+    },
+    {
+      "id": "mkt:01a160ef-a064-7ee0-a933-d5b238dc0132",
+      "time": "2026-10-22 08:07:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【EU advances securitization reform, aims to unlock tens of billions of euros】EU negotiators reached a provisional agreement to overhaul securitization rules. The framework is expected to unlock tens of billions of euros to fund projects in strategic sectors by lowering capital requirements for banks’ low‑risk securitizations and cutting administrative burdens, allowing banks to free capital for lending to households, corporates and infrastructure. The measure is part of the EU Savings and Investment Union plan to channel financial assets to key industries and support growth."
+    },
+    {
+      "id": "5159547",
+      "time": "2026-10-22 08:07:23",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：看好具備技術、產品和市場份額優勢的海風核心裝置龍頭】中信證券指出，國內加碼海風政策規劃支援力度，深遠海專案開發有望加速；歐洲海風供應鏈採購需求蓄力新一輪放量，內外需求有望迎來增長拐點。對於管樁和海纜等核心供應鏈環節，國內深遠海趨勢將帶動產品規格升級和價值量上行，並推動份額向頭部集中；歐洲本土產能結構性趨緊，具備製造優勢與全球化配套能力的龍頭廠商出海空間開啟。預計2027年國內外專案招標和供應鏈訂單有望率先復甦，2028年起或將開啟產品出貨和業績增長兌現的新階段，看好具備技術、產品和市場份額優勢的海風核心裝置龍頭。"
+    },
+    {
+      "id": "5159546",
+      "time": "2026-10-22 08:05:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經平均指數抹去開盤跌幅；最新上漲0.1%，報64677.10點。"
+    },
+    {
+      "id": "5159545",
+      "time": "2026-10-22 08:05:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【風險交織催生套保新需求 期貨公司加速向產業“風險管家”轉型】10月19日，在2026金融街論壇年會上，證監會主席吳清表示：“當前百年變局加速演進，新一輪科技革命和產業變革蓬勃發展，世界政治經濟格局和金融生態面臨深刻調整和重塑，對資本市場產生日益廣泛而深遠的影響。”全球宏觀環境複雜多變，風險因素加速向實體經濟傳導，產業企業的風險管理需求也在發生深刻變化。業內人士表示，產業鏈供應鏈不確定性增加，驅動實體企業套保需求正從單一商品價格對沖向多維度、全鏈條風險管理轉變。隨著我國期貨市場品種體系不斷完善、雙向開放穩步推進，期貨公司正加快突破傳統經紀業務邊界，向覆蓋產業鏈上下游、貫穿企業經營全過程的“風險管家”轉型。（中證報）"
+    },
+    {
+      "id": "5159544",
+      "time": "2026-10-22 08:05:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本鋼鐵公司旗下子公司計劃在2028財年之前將鈦銅產量翻一番。"
+    },
+    {
+      "id": "mkt:01a160ec-389a-7ee0-a933-ce893035bcc8",
+      "time": "2026-10-22 08:04:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CHINA'S LI returns to Beijing after concluding 31st regular China-Russia premier meeting】CHINA'S LI returned to Beijing by charter on the morning of Oct. 22 after concluding the 31st regular China-Russia premier meeting. State Councilor and Secretary-General Wu Zhenglong accompanied him. Russian senior officials and China's ambassador to Russia Zhang Hanhui saw him off at St. Petersburg airport."
+    },
+    {
+      "id": "5159543",
+      "time": "2026-10-22 08:03:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報98.13美元/桶。"
+    },
+    {
+      "id": "5159542",
+      "time": "2026-10-22 08:02:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【擎天租聯合藍色宇宙成立合資公司】近日，擎天租與藍色宇宙正式成立合資公司，雙方將聚焦文旅垂直賽道，重點推動具身智慧機器人在景區、博物館等場景的規模化落地與商業化運營。此次合作將機器人硬體、場景運營與全國化服務能力進一步打通，讓具身智慧從單點展示走向真實文旅場景中的持續運營。"
+    },
+    {
+      "id": "5159541",
+      "time": "2026-10-22 08:02:34",
+      "tags": [
+        "央行",
+        "公司",
+        "市場"
+      ],
+      "text": "【數字貨幣兩大核心成果釋出 15只概念股低估值且大幅回撥】 10月21日，數字人民幣基礎設施服務體系迎來重大升級，數字人民幣運營管理中心對外宣佈，推出央行端數字人民幣系統（DCEPS）、數字人民幣智慧合約生態服務框架（e-CNY SMART Contract）兩大核心成果。數字人民幣概念股今年以來整體下跌，其中中科金財、四方精創、翠微股份年內跌幅超45%，贏時勝、證通電子、京北方、長亮科技等跌超40%。今年以來，有15只概念股獲得機構調研，宇信科技、廣電運通、京北方、天陽科技獲得百家以上機構調研，新開普、中科江南、證通電子獲得40家以上機構調研。年內跌幅超20%個股中，有15股最新市淨率不足3倍，海聯金匯、廣電運通、神州資訊、新開普、南天資訊等不足2倍。"
+    },
+    {
+      "id": "5159540",
+      "time": "2026-10-22 08:02:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國裁軍大使呼籲防止外空軍備競賽和武器化】中國裁軍事務大使李馳江21日在聯大第一委員會關於外空問題作專題發言，指出防止外空軍備競賽和武器化是外空安全治理的最緊迫任務。\n李馳江說，當前，外空軍備競賽與武器化已成為現實威脅。美國將外空界定為“作戰疆域”，公開承認在軌部署太空控制武器，向國際社會釋放出極其危險的訊號。大多數國家維護外空安全願望與一國稱霸外空的矛盾空前尖銳，這是外空安全面臨的最大挑戰。他提出四點中方主張：\n第一，防止外空軍備競賽和武器化是外空安全治理的最緊迫任務。不解決這個根本問題，外空領域的其他規則都將受到衝擊。各國應堅持“外空戰打不贏也打不得”理念，放棄“主導外空”戰略，不在外空搞“大國競爭”和陣營對抗。\n第二，加強談判締結外空軍控條約的國際努力。事實證明，自願性規則無法阻止外空武器化。中俄“防止在外空放置武器、對外空物體使用或威脅使用武力條約”草案是當前唯一的外空軍控法律文書建議，其核心條款能夠從根源上遏制外空武器化、戰場化。中方歡迎各方討論完善該草案文字。\n第三，堅持多邊協商，反對雙重標準。外空規則應由各國共同制定，不能搞“小圈子”、排他性安排。應積極推進和平利用外空國際合作。一邊放任在軌部署武器的行為，一邊搞“選擇性軍控”，無助於維護外空和平與安全。\n第四，重視新興問題治理。深入研究商業航天介入他國武裝衝突帶來的法律爭議和現實問題，在廣泛磋商基礎上探尋可行的治理方案。"
+    },
+    {
+      "id": "mkt:01a160ea-10e9-7ee0-a933-c19d09ab2992",
+      "time": "2026-10-22 08:01:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KOSPI opened down 56.36 points, or 0.98%, at 5,679.3 on Thursday, Oct 22."
+    },
+    {
+      "id": "5159539",
+      "time": "2026-10-22 08:01:46",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【李強結束出訪回到北京】10月22日上午，國務院總理李強在結束中俄總理第三十一次定期會晤後，乘包機回到北京。國務委員兼國務院秘書長吳政隆等陪同人員同機抵達。 離開聖彼得堡時，俄羅斯政府高階官員和中國駐俄羅斯大使張漢暉等到機場送行。(新華社)"
+    },
+    {
+      "id": "5159538",
+      "time": "2026-10-22 08:01:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守109美元/桶，日內漲1.03%。"
+    },
+    {
+      "id": "mkt:01a160e9-814b-7ee0-a933-bacc2e33b43e",
+      "time": "2026-10-22 08:01:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225"
+      ],
+      "text": "Japan's Nikkei 225 index opened down 47.77 points, or 0.07%, at 64,573.47 on Thursday, Oct. 22."
+    },
+    {
+      "id": "5159537",
+      "time": "2026-10-22 08:00:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌1.1%，至5670.11點。"
+    },
+    {
+      "id": "mkt:01a160e8-b1e0-7ee0-a933-b7f4cf33a02c",
+      "time": "2026-10-22 08:00:24",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【UK chancellor plans to cut business costs; first budget to support entrepreneurs】Chancellor John Healey plans to use his first budget, due later this month, to lower firms' operating costs and support entrepreneurs by cutting regulatory burdens. One proposed measure is scrapping certain reporting requirements for small businesses. Healey has ruled out raising capital gains tax and will not pursue a proposed new visa category for wealthy foreign residents."
+    },
+    {
+      "id": "5159536",
+      "time": "2026-10-22 08:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報64539.36點，跌幅0.13%。"
+    },
+    {
+      "id": "5159535",
+      "time": "2026-10-22 08:00:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報110.02美元/桶。"
+    },
+    {
+      "id": "mkt:01a160e7-249d-7ee0-a933-ae229aa7457b",
+      "time": "2026-10-22 07:58:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump abandons plan to rename Atlantic the 'Trump Ocean'】US President Trump said he called Google Maps to request renaming the Atlantic the 'Trump Ocean'. Google CEO Sundar Pichai refused, saying oceans span many countries and asking Google not to proceed; Trump said the change likely won’t go through and the Atlantic name will remain."
+    },
+    {
+      "id": "5159534",
+      "time": "2026-10-22 07:58:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國網路安全機構敦促更新PHP安全補丁】據一份宣告稱，在發現安全漏洞後，韓國網際網路振興院（KISA）建議使用者將PHP軟體更新至最新版本。KISA建議PHP 8.1及更早版本的使用者升級至受支援的版本，因為官方已停止對這些舊版本的安全支援。"
+    },
+    {
+      "id": "5159533",
+      "time": "2026-10-22 07:57:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家海洋預報臺根據《海洋災害應急預案》釋出海浪橙色警報】受今年第30號颱風“薔琵”（超強颱風級）的影響，預計10月22日上午到23日上午，東海南部、釣魚島附近海域、臺灣以東洋麵將出現6到8米的狂浪區，臺灣海峽、南海東北部、巴士海峽將出現4到6米的巨浪到狂浪區，近海海域海浪預警級別為黃色;福建近岸海域將出現4到5米的巨浪，該近岸海域海浪預警級別為橙色，浙江近岸海域將出現3.5到4.4米的大浪到巨浪，該近岸海域海浪預警級別為黃色，上海、廣東東部近岸海域將出現2.5到3.4米的大浪，該近岸海域海浪預警級別為藍色。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。"
+    },
+    {
+      "id": "5159532",
+      "time": "2026-10-22 07:55:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 別忘了，我搞定了格陵蘭。 我的參議員們說：“請不要這樣做，請不要。” 我搞定了，夥計們。好吧，事情發生了。"
+    },
+    {
+      "id": "5159531",
+      "time": "2026-10-22 07:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普： 我打電話給 Google Maps，要求把大西洋改名為特朗普洋。 桑達爾說：“不，不，不。這次我不幹了。”他說：“海洋不一樣，先生。它們覆蓋了很多國家。請不要讓我們做這個。” 所以我們可能過不了這一關。我們還是保持大西洋這個名字吧。"
+    },
+    {
+      "id": "mkt:01a160e3-01ed-7ee0-a933-a1b72b033f7e",
+      "time": "2026-10-22 07:54:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "【Mitsubishi UFJ sees 25bp BoE hike at next meeting】Mitsubishi UFJ expects the Bank of England to raise policy rates by 25bp at its next meeting and again in February, taking the peak to 4.25%. It warns rising energy costs will feed through to household bills and lift UK headline inflation above 4% in coming months. Energy prices have stayed higher for longer and risen further recently; with a stabilising labour market, resilient growth and elevated underlying inflation, the BoE will find it hard to ignore the shock. MUFG forecasts UK Q3 GDP growth of about 0.65% QoQ and expects 2026 and 2027 GDP growth of 1.5% and 1.4% respectively, above IMF projections. Higher borrowing costs may have cut fiscal headroom ahead of the budget to around £15bn."
+    },
+    {
+      "id": "5159529",
+      "time": "2026-10-22 07:52:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：超節點產品密集釋出，伺服器整機、交換晶片等產業環節將率先受益】中信建投研報表示，超節點透過擴大ScaleUp互聯域、統一記憶體編址並提升櫃內互聯效率，以系統工程能力突破傳統八卡伺服器在跨節點通訊上的瓶頸，相比傳統算力叢集，超節點在算力利用率、互聯頻寬、吞吐、時延、MoE適配和單卡有效吞吐等維度均存在顯著優勢。目前國內外廠商當前正密集釋出超節點產品，行業由方案驗證正式進入規模化交付階段。產業鏈細分環節來看，伺服器整機、交換晶片、交換機、聯結器等產業環節有望率先受益。此外，PCB、液冷、電源、CPU及國產算力晶片等環節也將隨超節點滲透率提升而持續受益。"
+    },
+    {
+      "id": "5159528",
+      "time": "2026-10-22 07:52:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率下跌1個基點至2.285%。"
+    },
+    {
+      "id": "5159527",
+      "time": "2026-10-22 07:51:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.17點。"
+    },
+    {
+      "id": "5159526",
+      "time": "2026-10-22 07:51:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數期貨早盤下跌0.7%。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202610223903245887",
+      "time": "2026-10-22 07:51:30",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至10月16日當週外資買進日債14542億日元，前值由10801億日元修正為10802億日元。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202610223903220948",
+      "time": "2026-10-22 07:50:54",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至10月16日當週外資買進日股-665億日元，前值由35215億日元修正為35455億日元。"
+    },
+    {
+      "id": "mkt:01a160df-eec8-7ee0-a933-9b8bc474111c",
+      "time": "2026-10-22 07:50:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan bought JPY128.3bn of foreign equities in the week to Oct. 16; the prior week's net was revised from -JPY760.6bn to -JPY760.7bn."
+    },
+    {
+      "id": "mkt:01a160df-e99e-7ee0-a933-90e12215595a",
+      "time": "2026-10-22 07:50:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Foreign investors bought JGBs worth JPY1.4542 tln in the week through Oct. 16; the prior reading was revised to JPY1.0802 tln from JPY1.0801 tln."
+    },
+    {
+      "id": "mkt:01a160df-b8a8-7ee0-a933-8b411c759a4a",
+      "time": "2026-10-22 07:50:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Stocks Buying (Oct.16) | actual 128300000000B | previous -760600000000B"
+    },
+    {
+      "id": "mkt:01a160df-b3f0-7ee0-a933-8453bee7abb5",
+      "time": "2026-10-22 07:50:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Oct.16) | actual 1454200000000B | previous 1080100000000B"
+    },
+    {
+      "id": "5159525",
+      "time": "2026-10-22 07:50:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本至10月16日當週外資買進日股 -665億日元，前值由35215億日元修正為35455億日元。日本至10月16日當週買進外國債券 -1616億日元，前值由-3397億日元修正為-3399億日元。日本至10月16日當週外資買進日債 14542億日元，前值由10801億日元修正為10802億日元。日本至10月16日當週買進外國股票 1283億日元，前值由-7606億日元修正為-7607億日元。"
+    },
+    {
+      "id": "mkt:01a160df-5abb-7ee0-a933-79b2adee1f6e",
+      "time": "2026-10-22 07:50:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's net purchases of foreign bonds in the week to Oct. 16 were -¥161.6 bln; prior figure revised from -¥339.7 bln to -¥339.9 bln."
+    },
+    {
+      "id": "mkt:01a160df-5a40-7ee0-a933-70b19d9a4d38",
+      "time": "2026-10-22 07:50:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Foreign investors net sold Japanese equities ¥66.5 bln in the week to Oct 16; prior week's net buying revised up to ¥3,545.5 bln from ¥3,521.5 bln."
+    },
+    {
+      "id": "5159524",
+      "time": "2026-10-22 07:50:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶擬追責問責公職人員94人】近期，針對中央安全生產考核巡查組二季度明查暗訪期間反饋的問題隱患，重慶市委、市政府高度重視，堅持追根溯源、邊查邊改、立行立改，以改促治推動全市安全形勢持續穩定向好。截至目前，針對考核巡查組反饋的361項問題隱患，重慶已完成現場整改358項，其中26項重大事故隱患已全部完成現場整改，重大事故隱患調查工作已全面完成。  按照“市級統籌、行業牽頭、區縣配合”的工作模式，重慶市組建專項調查小組，嚴格按照“一案雙查”“一案雙罰”“三責同追”要求開展調查，形成重大事故隱患剖析報告，共行政處罰責任企業38家、罰款190.6萬元，行政處罰涉案企業相關責任人員51人、罰款76.9萬元；擬追責問責單位26家，擬追責問責公職人員94人（處級幹部20人、科級及以下幹部74人）。  （應急管理部）"
+    },
+    {
+      "id": "mkt:01a160df-2b23-7ee0-a933-6834ed02e809",
+      "time": "2026-10-22 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Oct.16) | actual -66500000000B | previous 3521500000000B"
+    },
+    {
+      "id": "mkt:01a160df-2b20-7ee0-a933-60a61e681c45",
+      "time": "2026-10-22 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Bonds Buying (Oct.16) | actual -161600000000B | previous -339700000000B"
+    },
+    {
+      "id": "5159523",
+      "time": "2026-10-22 07:48:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國網路安全部門敦促進行 PHP 安全更新。"
+    },
+    {
+      "id": "5159522",
+      "time": "2026-10-22 07:48:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國總統稱堅決杜絕騷亂重演】據法國媒體報道，正在海灣地區訪問的法國總統馬克龍當地時間10月21日在卡達多哈對媒體表示，法國政府將對國內遊行示威中趁機作亂的人嚴懲不貸，堅決杜絕此類情況重演。馬克龍還說，截至目前未發現17日騷亂有境外勢力干預的證據；但他表示，有關法國抗議的資訊在境外被“操縱”，連部分外國領導人都在發表一些“愚蠢和不可接受”的言論。 馬克龍說，一些所謂法國現狀的畫面實則由人工智慧生成，還有一些“完全錯誤”的言論出現。他說，中東和“大西洋彼岸”的某些領導人為了競選，不惜犧牲法國散佈不實資訊。"
+    },
+    {
+      "id": "mkt:01a160dd-7b5c-7ee0-a933-5ebded9b98d3",
+      "time": "2026-10-22 07:48:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI backs tougher California AI rules】The Information reports OpenAI told California Gov. Gavin Newsom in a letter dated Tuesday it supports strengthening SB53 to require frontier models to have model shutdown mechanisms, submit to mandatory annual independent audits, and adopt tighter cybersecurity measures. The letter, signed by Chan Park, OpenAI's head of US and Canada policy and partnerships, also urges that company safety frameworks explicitly cover frontier models' automated ability to conduct AI research and development; SB53, passed in 2025, currently requires firms to publish safety frameworks and transparency reports and to disclose major security incidents."
+    },
+    {
+      "id": "5159521",
+      "time": "2026-10-22 07:47:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Renk將滑動軸承業務出售給Miba AG】德國變速箱與傳動技術巨頭倫克集團（RENK Group AG）已正式透過其全資子公司與奧地利米巴集團（Miba AG）簽署約束性協議，將其滑動軸承（Slide Bearings）業務全部出售給米巴。"
+    },
+    {
+      "id": "mkt:01a160dd-2a46-7ee0-a933-51f7b251261f",
+      "time": "2026-10-22 07:47:49",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "【Guojin Securities: Low-valuation broker sector offers attractive value】Guojin Securities says the CSRC has made market stability its top priority while pursuing steady progress. Policy steps to bolster resilience include refining stabilization mechanisms, mobilizing mid-to-long-term capital, cracking down on illegal share reductions, and encouraging buybacks and stake increases; complementary financing-side reforms aim to boost market vitality. For brokerages, financing reform, further expansion of mutual market-access schemes and acceleration of building international-class investment banks should create opportunities in domestic and cross-border wealth management, investment banking and investment businesses. Against this stability-focused policy backdrop, Guojin views the low-valuation broker sector as offering attractive value."
+    },
+    {
+      "id": "5159520",
+      "time": "2026-10-22 07:47:23",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金：AI4S重塑新藥研發智慧正規化，建議持續關注三類企業】中金公司研報指出，AI for Science（AI4S，人工智慧驅動科學研究）熱度持續升溫，生物醫藥是核心落地場景。AI製藥的提效能力逐漸顯現，平臺能力與藥物資產價值也在同步接受驗證。資本與產業投入持續增加，平臺競爭更加依賴資料和實驗能力。AI擴大研發探索範圍，產業鏈有望同時受益於驗證需求增長和服務能力升級。建議持續關注三類企業：1. 依託差異化技術平臺、切實提高研發效率的企業；2. 能夠持續產出優質管線、有望取得關鍵臨床進展並具備對外授權潛力的公司；3. 擁有實驗反饋能力和自動化實驗體系、能夠承接新增驗證需求的企業。"
+    },
+    {
+      "id": "5159519",
+      "time": "2026-10-22 07:46:00",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：國內外廠商當前正密集釋出超節點產品 行業由方案驗證正式進入規模化交付階段】中信建投指出，國內外廠商當前正密集釋出超節點產品，行業由方案驗證正式進入規模化交付階段。產業鏈細分環節來看，伺服器整機、交換晶片、交換機、聯結器等產業環節有望率先受益。此外，PCB、液冷、電源、CPU 及國產算力晶片等環節也將隨超節點滲透率提升而持續受益。"
+    },
+    {
+      "id": "5159518",
+      "time": "2026-10-22 07:45:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三菱UFJ銀行因系統維護暫停部分線上服務】三菱日聯金融集團（MUFG）旗下核心銀行機構三菱UFJ銀行宣佈，因進行計劃外系統維護，暫停部分線上服務。此次暫停的服務包括：透過該行網站開設投資信託、NISA（日本免稅投資賬戶）以及iDeCo（個人型確定繳費養老金）賬戶，以及登入房貸賬戶等。媒體就此聯絡該行時，其發言人以網路安全為由，拒絕透露此次服務中斷是否與程式語言PHP的漏洞有關。"
+    },
+    {
+      "id": "5159517",
+      "time": "2026-10-22 07:44:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克：特斯拉計劃於明年5月或6月生產首款測試晶片】當地時間10月21日，據報道，馬斯克透露了公司晶片製造計劃的一些細節。他表示，Terafab在裝置方面的成本將達到“數百億美元”，長期總成本將“超過1000億美元”，由特斯拉和SpaceX共同分擔。馬斯克還表示，特斯拉計劃於明年5月或6月生產出首款測試晶片。"
+    },
+    {
+      "id": "5159516",
+      "time": "2026-10-22 07:43:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：關於資料中心問題，特朗普呼籲選民“要求補償（要錢）”。"
+    },
+    {
+      "id": "5159515",
+      "time": "2026-10-22 07:42:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普總統在南卡羅來納州發表講話。"
+    },
+    {
+      "id": "mkt:01a160d8-0812-7ee0-a933-4db83f935342",
+      "time": "2026-10-22 07:42:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese ambassador to Ukraine meets Ukrainian foreign minister】Oct 21, 2026 — Chinese Ambassador to Ukraine Ma Shengkun met with Ukraine’s foreign minister; both exchanged views on bilateral relations and practical cooperation."
+    },
+    {
+      "id": "5159514",
+      "time": "2026-10-22 07:42:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美使團：針對沙特的敵對行動或迅速升級】美國駐沙烏地阿拉伯使團21日釋出安全提醒說，葉門胡塞武裝對沙特持續展開敵對行動，襲擊民用機場及其他關鍵基礎設施，造成平民傷亡、嚴重干擾出行，“這些敵對行動可能迅速升級並蔓延”。使團說，美國公民應遵循沙特民防部門透過手機發布的全國性警報。鑑於沙特境內機場近期頻頻遭襲，在沙特的美國政府工作人員如需使用沙特境內任何機場，須獲得使團團長特別授權。使團提醒美國公民警惕機場遭襲、領空關閉、航班取消和出行受阻等潛在風險。“如果選擇使用沙特境內機場，請務必格外謹慎。”"
+    },
+    {
+      "id": "em:qqyh_zgyh:202610223903056061",
+      "time": "2026-10-22 07:42:00",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【銀行業要積極適配貸款利率定價基準改革】日前，中國人民銀行行長潘功勝在2026金融街論壇年會上發表主題演講時表示，推動貸款利率定價基準改革，從比較單一地參考貸款市場報價利率（LPR）定價向更加多元的定價基準轉型。未來隨著多元化貸款利率定價基準不斷完善，一些財務能力強的企業，可與金融機構協商後自主選擇銀行間隔夜回購利率或貸款市場報價利率作為浮動利率貸款定價基準。"
+    },
+    {
+      "id": "5159513",
+      "time": "2026-10-22 07:41:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【MSCI面臨投資者施壓 對印尼的警告引發合理性質疑】當MSCI公司官員於雅加達時間週二下午參加電話會議時，在100多名與會者中，許多投資者仍因該指數提供商突然警告印尼可能面臨被連降兩級而感到震驚。他們質疑採取如此激進措施的必要性，並想知道該國是否還有機會保留其新興市場地位。據知情人士透露，MSCI董事總經理Raman Aylur Subramanian在瑞銀集團主辦的電話會議上表示，印尼的情況並非指數問題，而是市場問題。這些知情人士因討論非公開資訊而要求匿名。據上述知情人士稱，他還補充道，有必要進行改革以剔除“不良參與者”。Subramanian的評論明確了一點：印尼正與時間賽跑，力圖避免其地位遭受打擊，而成功與否將取決於是否能讓MSCI和全球投資者相信，印尼能夠有效監管其股市。"
+    },
+    {
+      "id": "5159512",
+      "time": "2026-10-22 07:40:13",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：旺季和“反內卷”支撐快遞價格修復，建議關注電商快遞】華泰證券研報表示，9月，上游消費增速小幅回升，社零總額、商品零售額及實物商品網上零售額分別同比+1.1%、+1.0%、+2.9%，但快遞行業件量增速繼續放緩至2.1%。行業件均價同比+3.4%、環比提升約0.15元，價格延續修復。近期多地推進新一輪提價，義烏等重點產糧區價格調整與總部政策成本上調同步推進，有望支撐旺季價格及單票盈利修復。截至10/19，SW快遞PE TTM處在過去10年0.2%分位數，市場對需求放緩及“反內卷”執行力度的擔憂已有較多反映，後續催化在於旺季漲價落地、價格向盈利傳導及業績兌現，持續關注提價執行和加盟網路盈利改善。"
+    },
+    {
+      "id": "5159511",
+      "time": "2026-10-22 07:39:54",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【科技巨頭財報表現不一疊加油價走高 美股期貨走低】在本週人工智慧相關交易反彈之後，由於科技巨頭們的財報表現參差不齊，市場情緒受到壓制，美國股指期貨隨之走低。同時，中東局勢升溫也推高了原油價格。在亞洲早盤交易中，由於特斯拉下調了資本支出預期，納斯達克100指數期貨下跌了0.6%，標普500指數期貨下跌了0.4%。這家汽車製造商的股價在盤後交易中下跌了3.1%。不過，Meta Platforms Inc.在盤後交易中上漲了2%，因為該公司提高了支出預期，進一步押注人工智慧。亞洲股市的表現同樣漲跌互現，韓國股市期貨顯示將小幅下跌，而日本股市期貨則呈現上漲態勢。"
+    },
+    {
+      "id": "5159510",
+      "time": "2026-10-22 07:39:42",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【國金證券：低估值的券商板塊具備較高價效比】國金證券研報指出，對資本市場而言，證監會將穩市場放在首要位置，堅持穩中求進。透過完善穩市機制、推動中長期資金入市、打擊違規減持、鼓勵回購增持等方式提高資本市場韌性，透過更具包容性的融資端改革提高資本市場活力。對券商而言，投融資端改革、互聯互通再擴容、加快建設國際一流投行等舉措在券商境內、跨境的財富管理、投行、投資等業務方面創造機遇。穩市場背景下，低估值的券商板塊具備較高價效比。"
+    },
+    {
+      "id": "mkt:01a160d4-d132-7ee0-a933-473817a42fa0",
+      "time": "2026-10-22 07:38:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK"
+      ],
+      "text": "Tencent Holdings (00700.HK) completed issuance of $1.8 bln and RMB 26 bln notes."
+    },
+    {
+      "id": "te:markets:593973",
+      "time": "2026-10-22 07:38:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Fall After Tesla, Meta Earnings — US stock futures edged lower on Thursday as investors assessed the latest earnings reports from major technology companies Tesla and Meta Platforms. The tech-driven rally on Wednesday, fueled by strong corporate results that reinforced optimism surrounding artificial intelligence, also lost momentum. Nasdaq 100 and S&P 500 futures fell 0.6% and 0.4%, respectively, while Dow futures slipped 0.3%. In after-hours trading, Tesla shares dropped more than 3% despite beating earnings and revenue expectations, while Meta gained over 2% after reporting stronger-than-expected third-quarter revenue and issuing a positive outlook for the current quarter. During Wednesday’s regular session, the Nasdaq Composite advanced 1.05%, supported by upbeat results from SpaceX and Super Micro Computer that renewed confidence in AI demand. Investors are now turning their attention to Thursday’s earnings releases from companies including P&G, Western Digital, and Lockheed Martin."
+    },
+    {
+      "id": "5159508",
+      "time": "2026-10-22 07:38:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "騰訊控股： 根據全球中期票據計劃完成18億美元、260億元人民幣票據發行。"
+    },
+    {
+      "id": "5159507",
+      "time": "2026-10-22 07:38:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨跌幅擴大至0.5%，納斯達克期貨下跌0.8%。"
+    },
+    {
+      "id": "5159506",
+      "time": "2026-10-22 07:35:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4140美元/盎司，日內跌0.25%。"
+    },
+    {
+      "id": "5159505",
+      "time": "2026-10-22 07:35:28",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【東吳證券：量販零食從“跑馬圈地”轉向效率競爭 重點推薦鳴鳴很忙、萬辰集團】東吳證券釋出研報稱，日本折扣零售發展經驗為理解中國量販零食成長路徑提供重要參考，唐吉訶德和神戶物產均經歷由單點低價優勢向體系化能力升級的過程。中國量販零食行業亦正在從早期“跑馬圈地”進入效率競爭階段，未來競爭重點將由門店數量轉向採購規模、倉配效率、商品開發和加盟管理能力，關注中國量販零食龍頭全國化擴張及效率提升機會，重點推薦鳴鳴很忙(01768)、萬辰集團(300972.SZ)。"
+    },
     {
       "id": "5159504",
       "time": "2026-10-22 07:34:08",
@@ -120819,1613 +121987,6 @@
         "公司"
       ],
       "text": "【蘋果庫克現身愛奇藝北京總部 體驗愛奇藝適配iPhone Duo觀影效果】記者10月14日從愛奇藝獲悉，蘋果公司執行董事長蒂姆·庫克當日到訪愛奇藝北京總部。愛奇藝創始人、CEO龔宇回顧了16年來愛奇藝對蘋果裝置的適配情況，介紹了愛奇藝在音影片技術和AI領域的探索。庫克在最新款iPhoneDuo上體驗了愛奇藝適配觀影效果。"
-    },
-    {
-      "id": "te:markets:592089",
-      "time": "2026-10-15 08:50:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japan’s Nikkei Slumps on Hot US Inflation — The Nikkei 225 Index fell more than 3% toward the 65,000 level on Thursday, extending its losing streak to six consecutive sessions and reaching a two-week low as stronger-than-expected US inflation fueled concerns over higher interest rates. Japanese equities also followed an overnight technology-led selloff on Wall Street, as rising borrowing costs threatened the sector’s credit outlook amid substantial investments in artificial intelligence. AI-related stocks led the declines in Japan, with Kioxia Holdings falling 9.1%, Advantest dropping 7.4%, Lasertec losing 8.8%, SoftBank Group sliding 7.8% and Taiyo Yuden declining 4.5%. Banking stocks also weakened, including Mitsubishi UFJ and Sumitomo Mitsui, both down 1.1%, while Mizuho Financial fell 1.8%. Meanwhile, Japanese data showed that core machinery orders, a key indicator of capital investment, increased more than expected in August."
-    },
-    {
-      "id": "5145920",
-      "time": "2026-10-15 08:50:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西參議院在首輪法定投票中透過了縮短六天工作制的憲法修正案。"
-    },
-    {
-      "id": "em:qqyh_mlc:202610153896145331",
-      "time": "2026-10-15 08:50:04",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲古爾斯比稱通脹形勢令人失望 警告人工智慧基建投資或致經濟過熱】當地時間10月14日，美國芝加哥聯儲主席奧斯坦·古爾斯比表示，9月美國通脹資料令人擔憂，人工智慧相關基礎設施建設和投資也可能導致經濟過熱。他稱，最新消費者價格指數報告顯示，通脹壓力具有廣泛性，尤其是服務業通脹持續，說明價格上漲並非僅由關稅、中東衝突等因素引發的供應衝擊所致。"
-    },
-    {
-      "id": "5145916",
-      "time": "2026-10-15 08:49:35",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲古爾斯比稱通脹形勢令人失望，警告人工智慧基建投資或致經濟過熱】當地時間10月14日，美國芝加哥聯儲主席奧斯坦·古爾斯比表示，9月美國通脹資料令人擔憂，人工智慧相關基礎設施建設和投資也可能導致經濟過熱。他稱，最新消費者價格指數報告顯示，通脹壓力具有廣泛性，尤其是服務業通脹持續，說明價格上漲並非僅由關稅、中東衝突等因素引發的供應衝擊所致。美國勞工統計局當天公佈的資料顯示，美國9月消費者價格漲幅創五個月來最快水平；剔除食品和能源價格的核心CPI環比上漲0.3%。古爾斯比表示，目前判斷利率是否足以將通脹降至美聯儲2%的目標水平仍為時過早。他還指出，人工智慧資料中心建設及相關投資正令他更加擔憂經濟需求過熱，因為需求側過熱一旦形成，往往會持續較長時間且難以消除。"
-    },
-    {
-      "id": "mkt:01a13d08-c6d0-7ee0-a888-d824dfe7ab15",
-      "time": "2026-10-15 08:49:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "【Bolivia revises gold export rules to attract dollar inflows】Bolivia is overhauling gold export rules to boost USD inflows and dollar deposits at domestic banks, ending a three-year central bank-regulated certification regime. Under the new rules exporters must prove to mineral and metals trade regulator SENARECOM that at least 80% of export proceeds are deposited in Bolivian financial institutions; exporters will no longer need a central bank-issued certificate to ship gold. The reform, backed by the president and announced Wednesday, is aimed at increasing foreign-exchange inflows, improving USD availability and tightening oversight of gold exports."
-    },
-    {
-      "id": "mkt:01a13d07-647a-7ee0-a888-d15414021297",
-      "time": "2026-10-15 08:47:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【Margin financing balance across China’s two exchanges falls 10.64 bln yuan】As of Oct 14, Shanghai Stock Exchange margin balance stood at 1,280.08 bln yuan, down 5.99 bln yuan from the previous session; Shenzhen Stock Exchange margin balance was 1,217.41 bln yuan, down 4.65 bln yuan. Combined margin financing across the two exchanges totaled 2,497.49 bln yuan, down 10.64 bln yuan."
-    },
-    {
-      "id": "5145908",
-      "time": "2026-10-15 08:47:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【豪恩機器人雙感知產品獲行業頭部客戶定點】據豪恩汽電訊息，近日，豪恩汽電旗下全資子公司豪恩機器人收到某機器人行業頭部客戶下發的產品定點信，拿下其3M魚眼攝像感知系統與超聲波雷達感知系統兩個專案的獨家供應定點資格。據該定點信披露，上述專案預估營業額逾3000萬元。"
-    },
-    {
-      "id": "5145907",
-      "time": "2026-10-15 08:47:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額較上日減少106.39億元】截至10月14日，上交所融資餘額報12800.77億元，較前一交易日減少59.88億元；深交所融資餘額報12174.08億元，較前一交易日減少46.51億元；兩市合計24974.85億元，較前一交易日減少106.39億元。"
-    },
-    {
-      "id": "em:qqyh_mlc:202610153896143969",
-      "time": "2026-10-15 08:46:43",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲DALY稱可能需要加息，但並非迫在眉睫。"
-    },
-    {
-      "id": "mkt:01a13d06-2e72-7ee0-a888-cd5da1d6cd8f",
-      "time": "2026-10-15 08:46:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Spot gold largely recovers losses since US CPI release】Spot gold rose 1% in the Asian session to $4,146/oz, largely recouping all losses since yesterday’s US CPI report."
-    },
-    {
-      "id": "5145902",
-      "time": "2026-10-15 08:45:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利表示，可能需要加息，但並非迫在眉睫。"
-    },
-    {
-      "id": "5145885",
-      "time": "2026-10-15 08:43:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌5.5個基點，至2.94%，創9月10日以來新低。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202610153896142494",
-      "time": "2026-10-15 08:41:50",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行管委Dolenc：目前尚未看到通脹的第二輪效應】歐洲央行管委Dolenc稱，目前尚未看到通脹的第二輪效應。勞動力市場不再那麼緊俏。必須對通脹資料保持警惕。歐洲央行正在邁向限制性貨幣政策立場。"
-    },
-    {
-      "id": "te:markets:592084",
-      "time": "2026-10-15 08:41:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Tokyo Electron Shares Hit Near 6-year Low — Tokyo Electron shares decreased to 10570.00 JPY, the lowest since November 2020. Over the past 4 weeks, Tokyo Electron lost 79.51%, and in the last 12 months, it decreased 64.99%."
-    },
-    {
-      "id": "mkt:01a13d01-529f-7ee0-a888-c50275735b32",
-      "time": "2026-10-15 08:40:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Governing Council member Dolenc said he currently sees no second-round effects in inflation, the labour market is less tight, and the ECB must remain vigilant on inflation data as it moves toward a restrictive monetary policy stance."
-    },
-    {
-      "id": "mkt:01a13d01-41d8-7ee0-a888-b9c09307abae",
-      "time": "2026-10-15 08:40:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Stocks selloff dents risk appetite; US Treasuries rally across the curve】Thursday Asian morning US Treasuries rallied across the curve: 10-year yield fell 4bps to 5.14%; the policy-sensitive 2-year also eased; 30-year, which had been heavily sold amid inflation and fiscal worries, declined as well. ITC Markets senior analyst Kit Lowe said the market has reverted to a safe‑haven pattern of buying sovereign bonds on equity sell‑offs. Hotter-than-expected US inflation data sparked the stock selloff and renewed demand for bonds. Asset managers including PIMCO have recently advised increasing bond allocations after sell‑offs."
-    },
-    {
-      "id": "5145871",
-      "time": "2026-10-15 08:39:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委、斯洛維尼亞央行行長Primoz Dolenc：勞動力市場不再那麼緊俏。必須對通脹資料保持警惕。我們正在邁向限制性貨幣政策立場。"
-    },
-    {
-      "id": "5145869",
-      "time": "2026-10-15 08:38:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美參議員蒂利斯呼籲國防部監察長調查SpaceX“星盾”斷網事件】美國參議員湯姆·蒂利斯（Thom Tillis）已公開呼籲國防部監察長（DOD Inspector General）對涉及 SpaceX 衛星技術的重大服務中斷事件展開調查。該呼籲源於近兩日對烏克蘭軍隊使用的空間通訊網路施加的重大速度限制事件。蒂利斯指出，最新報告表明該“戰略性失誤”（strategic snafu）可能發生在國防部內部的 “星盾”（Starshield） 系統中，而不是由民用星鏈（Starlink）或 SpaceX 直接造成。由於他對國防部長皮特·海格塞斯主動提供透明度不抱期望，因此將要求國防部監察長介入調查並向國會及美國公眾報告。在此前針對埃隆·馬斯克的 X 貼文中，蒂利斯曾嚴厲警告，在俄軍持續襲擊時實施網路降速，導致了烏克蘭平民以及美國外交與安全人員處於不必要的危險之中。他直言，故意削弱烏克蘭的自衛能力“在最壞的情況下，可能會被解讀為在共謀並協助一場大規模謀殺”。"
-    },
-    {
-      "id": "5145868",
-      "time": "2026-10-15 08:38:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四川省省長施小琳會見中國進出口銀行董事長陳懷宇】據四川日報，10月14日，四川省委副書記、省長施小琳在成都會見中國進出口銀行董事長陳懷宇一行。雙方圍繞把握“十五五”發展機遇，充分發揮政策性銀行優勢，用好新型政策性金融工具，進一步加大在川信貸投放力度，保障重點領域重大專案落地實施，加力支援先進製造業等做大做強，推動更多川企“走出去”參與共建“一帶一路”、拓展國際市場，聯動深化貿產融合、促進外貿穩量提質，加強人才雙向交流培養，以高質量金融服務更好助力四川高質量發展交換了意見、商討了合作重點。"
-    },
-    {
-      "id": "te:economy:592083",
-      "time": "2026-10-15 08:38:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Unemployment Rate",
-        "Importance 3"
-      ],
-      "text": "Australia Jobless Rate Highest in Nearly 5 Years — Australia’s seasonally adjusted unemployment rate stood at 4.7% in September, unchanged from an upwardly revised figure in August and above expectations of 4.6%. It was the highest since October 2021, with the number of unemployed increasing by 8,900 to 732,000, the highest since April 2021. Meanwhile, employment unexpectedly fell by 39,300 to 14.78 million, defying expectations for a rise of 20,000."
-    },
-    {
-      "id": "5145865",
-      "time": "2026-10-15 08:38:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委、斯洛維尼亞央行行長Primoz Dolenc：目前尚未看到通脹的第二輪效應。"
-    },
-    {
-      "id": "te:economy:592082",
-      "time": "2026-10-15 08:37:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Employment Change",
-        "Importance 1"
-      ],
-      "text": "Australia Employment Unexpectedly Falls — Employment in Australia dropped by 39,300 to 14.78 million in September 2026, reversing a downwardly revised 29,300 increase in the previous month and missing market expectations for a 20,000 gain. Part-time employment decreased by 73,700 to 4,550,200 people while full-time employment increased by 34,400 to 10,232,400. The employment-to-population ratio fell to 63.6% from 63.9% in August, and the participation rate eased to 66.8% from 67.0%. Compared with a year earlier, total employment expanded by 168,300, or 1.2%."
-    },
-    {
-      "id": "5145864",
-      "time": "2026-10-15 08:37:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新一股冷空氣攜降雨降溫來襲 北方將迎同期少見強降雨】今天（15日）起至19日，新一股冷空氣將自西向東影響我國，局地降溫幅度可達8℃以上，北方大部氣溫將重新整理今年下半年來新低，寒意逐漸顯現，入冬程序將加快。在冷暖氣流交匯下，今天湖南、湖北、江西、安徽部分地區有暴雨；明天開始，北方降水將增多，過程的影響範圍、累計降水量或為同期少見。"
-    },
-    {
-      "id": "5145863",
-      "time": "2026-10-15 08:36:57",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本股市下跌 受AI投資擔憂和美聯儲加息預期拖累】日本股市走低，日經225指數連續第六個交易日下跌，對人工智慧(AI)投資的擔憂以及美國持續通脹加劇了市場對美聯儲提前加息的預期。東證指數下跌2%至4016.68；日經225指數下跌3.3%，至65,508.36。"
-    },
-    {
-      "id": "mkt:01a13cfd-4fbe-7ee0-a888-b3ecea437a4e",
-      "time": "2026-10-15 08:36:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Senator Tillis has asked the Pentagon inspector general to open an investigation into SpaceX."
-    },
-    {
-      "id": "5145862",
-      "time": "2026-10-15 08:36:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海關總署：最佳化進境糧食企業監管措施及有關事宜】海關總署釋出《關於最佳化進境糧食企業監管措施及有關事宜的公告》。其中明確，進境糧食應當在具備防疫、處理等條件的指定加工企業進行加工使用。海關發現相關企業存在以下違規情形的，除依法追究相關企業責任外，要求其限期整改：（一）未按規定實施植物疫情監測及防除措施；（二）未按規定記錄進境糧食接卸、運輸、存放、加工、下腳料處理、發運流向等資訊；（三）進境糧食未按規定在指定企業加工、存放；（四）未按規定在進境糧食裝卸、運輸等環節採取防止撒漏、密封等防疫措施；（五）未按規定對進境糧食實施有效的除害處理或加工處理；（六）未按規定對下腳料、包裝材料實施無害化處理；（七）拒絕接受海關檢疫監督。如發現指定企業存在上述（四）（五）（六）（七）情形，在整改完成前，對後續擬運往該指定企業的檢疫審批申請，海關不予許可。"
-    },
-    {
-      "id": "mkt:01a13cfd-0d05-7ee0-a888-ac34dba466a1",
-      "time": "2026-10-15 08:36:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS",
-        "ASML.O"
-      ],
-      "text": "【AI financing fears, rising rate worries hit chip shares】Global tech-hardware selloff continued Thursday as rising Fed-hike odds and funding strains in AI weighed on chip names. Asian semiconductor stocks tracked U.S. weakness: Samsung Electronics fell more than 7% and SK Hynix dropped over 8%, dragging the KOSPI down as much as 6%. Japan's Nikkei index slipped more than 3%; Tokyo Electron and Screen Holdings were off about 3%. Investors cited higher rates, stretched valuations and the massive capital required for AI infrastructure; strong results from Samsung and ASML failed to reassure markets. AI cloud provider CoreWeave plunged and its bonds fell to levels typically seen in distressed credits, renewing doubts about the sustainability of large AI-infrastructure outlays. Wednesday data showed U.S. September CPI rose to a five-month high, lifting market expectations for further Fed tightening."
-    },
-    {
-      "id": "5145860",
-      "time": "2026-10-15 08:35:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鵬華“網紅”經理謝添元卸任 曾因工位擺滿Labubu出圈】近日，鵬華基金髮布公告，宣佈謝添元因個人原因離任鵬華優選回報靈活配置混合型證券投資基金（006526）基金經理，新任基金經理為黃奕彬，離任日期為2026年10月9日。這位因工位擺滿Labubu、重倉泡泡瑪特而走紅全網的“95後”基金經理，就此結束了他管理公募產品的短暫生涯。"
-    },
-    {
-      "id": "5145859",
-      "time": "2026-10-15 08:35:53",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：建議重點關注具備全球競爭力的中國家電龍頭】中信證券研報稱，貿易壁壘、成本優勢與本地需求共同推動白電龍頭加快東南亞建廠，中國家電龍頭海外經營由產品出口轉向產能、研發、品牌和渠道協同佈局。面對約3萬億元的全球家電市場，中國企業憑藉供應鏈效率、產品迭代及本土化能力，有望持續搶佔日韓及歐美品牌份額，推動海外收入與盈利中樞穩步提升。建議重點關注具備全球競爭力的中國家電龍頭。"
-    },
-    {
-      "id": "5145846",
-      "time": "2026-10-15 08:33:54",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：深度受益於載板化升級趨勢 國產ABF載板蓄勢待發】中信證券研報稱，ABF封裝基板作為受益於AI成長邏輯最持續的PCB產業環節之一，深度受益於PCB載板化的升級趨勢，有望迎來市場空間和利潤的快速爆發。中信證券判斷行業的產能缺口在短期內或將持續擴大，行業漲價有望持續，此外分別從國產板廠及國產客戶的視角切入研究，判斷當前已成為國產ABF載板全面起量的關鍵節點，看好國產廠商ABF載板業務未來的業績彈性。"
-    },
-    {
-      "id": "5145845",
-      "time": "2026-10-15 08:33:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第140屆廣交會今日開展 展期持續至11月4日】今天（10月15日），第140屆廣交會在廣州開展。今年恰逢廣交會創辦70週年，本屆廣交會展覽規模達155萬平方米，分3期舉辦，展期將持續到11月4日。本屆廣交會展品緊扣“新、綠、智”發展趨勢，吸引來自全球的客商洽談對接。本屆廣交會順應外貿向新趨勢，3.2萬家參展企業當中，專精特新、單項冠軍等優質企業超過1.1萬家。64%的參展企業應用工業網際網路、人工智慧等新技術。展出的新產品和綠色產品佔比分別達到23.2%、26%，都創下歷史新高。本屆廣交會計劃舉辦超700場新品首發活動，釋出產品數增長15%。"
-    },
-    {
-      "id": "mkt:01a13cf9-90c8-7ee0-a888-a77b9c152c16",
-      "time": "2026-10-15 08:32:30",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "USDCHF",
-        "Impact bearish"
-      ],
-      "text": "EUR/USD breached 1.12, up 0.40 pct intraday. USD/CHF fell more than 0.50 pct intraday to 0.8307."
-    },
-    {
-      "id": "5145842",
-      "time": "2026-10-15 08:32:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員蒂利斯要求美國國防部監察長對 SpaceX 展開調查。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202610153896060461",
-      "time": "2026-10-15 08:31:00",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【前三季度居民貸款減少1萬億 9月結束連續兩個月下滑趨勢】10月14日，央行釋出2026年前三季度金融統計資料。資料顯示，前三季度人民幣貸款增加11.52萬億元，其中居民貸款減少1.03萬億元，但9月結束此前連續兩個月減少趨勢，而企（事）單位貸款同比增加12.55萬億元。近年來，隨著國內產業轉型升級，社會融資結構向債券、股票等傾斜，前三季度企業債券淨融資、非金融企業境內股票融資同比多增超1.3萬億元。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202610153896060461",
-      "time": "2026-10-15 08:31:00",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【前三季度居民貸款減少1萬億 9月結束連續兩個月下滑趨勢】10月14日，央行釋出2026年前三季度金融統計資料。資料顯示，前三季度人民幣貸款增加11.52萬億元，其中居民貸款減少1.03萬億元，但9月結束此前連續兩個月減少趨勢，而企（事）單位貸款同比增加12.55萬億元。近年來，隨著國內產業轉型升級，社會融資結構向債券、股票等傾斜，前三季度企業債券淨融資、非金融企業境內股票融資同比多增超1.3萬億元。"
-    },
-    {
-      "id": "mkt:01a13cf7-ee96-7ee0-a888-9ab4e5fc1b06",
-      "time": "2026-10-15 08:30:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "AUDUSD"
-      ],
-      "text": "AUD/USD slid about 20 pips in a short move, now 0.6949."
-    },
-    {
-      "id": "mkt:01a13cf7-d5ac-7ee0-a888-955fbac7a7d9",
-      "time": "2026-10-15 08:30:37",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Australia Sep part-time employment -73,700 (previous +45,800)."
-    },
-    {
-      "id": "5145832",
-      "time": "2026-10-15 08:30:32",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：高階覆銅板迭代，關注佈局化學法矽微粉的龍頭企業】中信證券研報指出，覆銅板迭代路徑下對核心材料的電效能要求持續提升，化學法矽微粉在M8級別以上的高階覆銅板中新增量、價值量均得到顯著提升。且進一步突破樹脂等極限介電效能，需要化學法矽微粉的結構進一步迭代。化學法矽微粉將成為高階覆銅板迭代路徑中的核心材料，重要性隨覆銅板等級提升而提升。海外領先矽微粉企業擴產步伐較慢，國內龍頭企業將承接增量份額，且化學法矽微粉技術路線實現趕超，料將取得高於行業增速的利潤增長。"
-    },
-    {
-      "id": "mkt:01a13cf7-bcfa-7ee0-a888-8b9c98d719e8",
-      "time": "2026-10-15 08:30:31",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Part-Time Employment (Sep) | actual -73700K | previous 45800K"
-    },
-    {
-      "id": "5145831",
-      "time": "2026-10-15 08:30:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞9月份失業率4.7%，預估4.6%。澳大利亞9月份就業人數下降39,300人，預估20,000。"
-    },
-    {
-      "id": "mkt:01a13cf7-7169-7ee0-a888-85bb8bce178a",
-      "time": "2026-10-15 08:30:11",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Australia employment fell 39,300 in September, versus consensus +20,000; August +39,500."
-    },
-    {
-      "id": "mkt:01a13cf7-612e-7ee0-a888-7c3e9bb02d42",
-      "time": "2026-10-15 08:30:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Australia full-time employment rose 34,400 in September; prior -6,300."
-    },
-    {
-      "id": "mkt:01a13cf7-5fff-7ee0-a888-720101287ec5",
-      "time": "2026-10-15 08:30:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Australia Sept seasonally adjusted labour force participation rate 66.8% (expected 67.0%, prior 67.1%)."
-    },
-    {
-      "id": "mkt:01a13cf7-5fa0-7ee0-a888-6ad7759e0ab3",
-      "time": "2026-10-15 08:30:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Australia September seasonally adjusted unemployment rate 4.7% vs 4.6% expected and 4.6% prior."
-    },
-    {
-      "id": "mkt:01a13cf7-4736-7ee0-a888-54f4b50cfbdb",
-      "time": "2026-10-15 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Full-Time Employment (Sep) | actual 34400K | previous -6300K"
-    },
-    {
-      "id": "mkt:01a13cf7-4748-7ee0-a888-5e4cc6a9482a",
-      "time": "2026-10-15 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Labour Force Participation Rate SA (Sep) | actual 66.8% | consensus 67.00% | previous 67.10%"
-    },
-    {
-      "id": "mkt:01a13cf7-474f-7ee0-a888-61bbeaeb3b59",
-      "time": "2026-10-15 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Employment (Sep) | actual -39300K | consensus 20000K | previous 39500K"
-    },
-    {
-      "id": "mkt:01a13cf7-4733-7ee0-a888-4aec2d6a2d12",
-      "time": "2026-10-15 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Unemployment Rate SA (Sep) | actual 4.7% | consensus 4.60% | previous 4.60%"
-    },
-    {
-      "id": "mkt:01a13cf7-1e3f-7ee0-a888-43ecf96575a9",
-      "time": "2026-10-15 08:29:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【CITIC Securities: Still expect Fed to hold in October then hike in December】CITIC Securities says US September CPI exceeded expectations; core month-on-month inflation remained hot and price increases were broad, leaving inflation not falling to target quickly enough. It still expects one more Fed hike this year — a pause in October followed by a 25bps increase in December. With oil prices elevated and inflation sticky, US financial conditions are unlikely to ease materially; dollar liquidity should remain tight, US Treasury yields lack clear downside, and gold sentiment remains fragile. Fundamental resilience matters more than liquidity-driven odds."
-    },
-    {
-      "id": "5145829",
-      "time": "2026-10-15 08:29:39",
-      "tags": [
-        "資料",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信證券：仍預計美聯儲年內再加息一次】中信證券研報稱，美國9月CPI超預期，核心環比再度偏熱，漲價的細項範圍較寬，通脹率未能“以足夠快的速度向目標回落”。中信證券仍預計美聯儲年內再加息一次，即10月按兵不動後於12月進一步加息25bps。在油價居高不下、通脹粘性猶存的環境下，美國金融條件難以有意義地寬鬆，美元流動性料維持偏緊狀態，美債利率尚未具備明確下行空間，黃金情緒仍較脆弱，基本面的韌性比流動性的賠率更重要。"
-    },
-    {
-      "id": "em:qqyh_mlc:202610153896137386",
-      "time": "2026-10-15 08:29:00",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【中信證券：仍預計美聯儲年內再加息一次】中信證券研報稱，美國9月CPI超預期，核心環比再度偏熱，漲價的細項範圍較寬，通脹率未能“以足夠快的速度向目標回落”。中信證券仍預計美聯儲年內再加息一次，即10月按兵不動後於12月進一步加息25bps。在油價居高不下、通脹粘性猶存的環境下，美國金融條件難以有意義地寬鬆，美元流動性料維持偏緊狀態，美債利率尚未具備明確下行空間，黃金情緒仍較脆弱，基本面的韌性比流動性的賠率更重要。"
-    },
-    {
-      "id": "5145822",
-      "time": "2026-10-15 08:28:50",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券：電價週期拐點來臨，核電重拾彈性】中信證券研報表示，沿海供需改善，預計核電即將走出2024~2026年的電價下行週期；核電在建機組投產週期啟動，量價齊升助力核電公司業績進入新一輪釋放週期；當前市場尚未完全計入電價上漲對核電公司的業績催化，板塊估值仍具備較強安全邊際。"
-    },
-    {
-      "id": "5145820",
-      "time": "2026-10-15 08:28:41",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國尚未決定11至12月是否進一步縮減韓國國債發行量】韓國財政部表示，尚未決定是否利用今年的超收稅收，在11月和12月進一步縮減國債發行，也未確定相關縮減規模。此前，韓國News1新聞報道稱，韓國正考慮利用稅收超收，在11、12月合計最多削減10萬億韓元國債發行。注：韓國10月已削減5萬億韓元計劃債券發行，以抑制收益率上行壓力。"
-    },
-    {
-      "id": "mkt:01a13cf5-0dba-7ee0-a888-3fa8a5613833",
-      "time": "2026-10-15 08:27:35",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan's finance minister Satsuki Katayama said the stances expressed by both the U.S. and Japan have not changed since the currency-market intervention, and that Japan will not hesitate to take action in the foreign-exchange market if necessary."
-    },
-    {
-      "id": "5145817",
-      "time": "2026-10-15 08:27:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一次性擴崗補助“免申即享” 深圳用人單位注意查收政務簡訊，回覆確認公示3日即領1000元/人】記者從深圳市人力資源和社會保障局獲悉，2026年一次性擴崗補助開始申領啦，旨在穩就業、促發展、惠民生。只要本年度招用的新員工符合相應條件企業或社會組織就能獲得1000元/人的一次性擴崗補助。此次發放物件主要是企業或社會組織，機關事業單位不適用。對2026年1月1日至2026年12月31日之間招用畢業年度及離校兩年內未就業高校畢業生、16—24歲登記失業青年，簽訂勞動合同併為其足額繳納3個月以上失業、工傷、職工養老保險費的企業或社會組織，按每招用1人1000元的標準發放一次性擴崗補助。（深圳特區報）"
-    },
-    {
-      "id": "5145816",
-      "time": "2026-10-15 08:27:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【湖南釋出暴雨黃色預警】湖南省氣象臺10月15日8時繼續釋出暴雨黃色預警：預計15日8時至16日8時，湘北大部、湘中部分地區將出現暴雨，其中懷化北部、常德西南部、益陽東部、岳陽中南部局地有大暴雨（100~150毫米），並伴有短時強降水（最大小時雨強40~60毫米）、雷雨大風（局地陣風7~9級），請加強防範。黃色預警區域：長沙中北部、湘西州中東部、張家界南部、常德中南部、益陽、岳陽、懷化北部、婁底西北部。"
-    },
-    {
-      "id": "mkt:01a13cf3-c337-7ee0-a888-31a7c211b61a",
-      "time": "2026-10-15 08:26:10",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "EUROSTOXX 50 futures down 0.7%, DAX futures down 0.5%, FTSE 100 futures down 0.4%."
-    },
-    {
-      "id": "5145806",
-      "time": "2026-10-15 08:25:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨下跌0.7%，德國DAX指數期貨下滑0.5%，英國富時指數期貨走低0.4%。"
-    },
-    {
-      "id": "5145802",
-      "time": "2026-10-15 08:24:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：我們與美國進行協調幹預時所傳遞的資訊絲毫沒有改變。"
-    },
-    {
-      "id": "5145801",
-      "time": "2026-10-15 08:24:31",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：AI產業鏈內部輪動加快，建議關注三季報業績能見度較高的PCB、伺服器、液冷、電源等】華泰證券研報表示，9月中旬以來，全球AI資產表現分化加劇。整體來看，市場關注點從“需求確定性”向“回報彈性”切換，資本開支或不再是AI資產單一的定價錨。配置上，短期全球利率上行壓力仍是AI資產分母端的核心約束，隨著AI產業趨勢二階導階段性拐點鄰近，新敘事出現前市場對分子端確定性的要求或顯著上升。當前AI交易或從“堆算力”的粗放貝塔，進入“沿瓶頸與現金流確定性選股”的阿爾法階段，建議關注三季報業績能見度較高的PCB、伺服器、液冷、電源等，繼續規避純題材和高估值品種。"
-    },
-    {
-      "id": "5145800",
-      "time": "2026-10-15 08:24:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：如有必要，我會毫不猶豫地對匯率採取行動。"
-    },
-    {
-      "id": "5145796",
-      "time": "2026-10-15 08:24:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【保障群眾溫暖過冬 新疆北部全面進入供暖季】眼下，北方一些地區的氣溫大幅下降，部分地區甚至已經跌至零下。為了保障群眾溫暖過冬，多地提前開栓供熱。今天（15日）新疆北疆全面進入供暖季。各地提前完成供暖裝置檢修、隱患排查等準備工作，守護居民溫暖過冬。（央視）"
-    },
-    {
-      "id": "mkt:01a13cf1-a3a8-7ee0-a888-2aad248cced6",
-      "time": "2026-10-15 08:23:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. Treasury yields fell across the curve; 10-year down 3bps to 5.15%, 2-year down 3bps to 4.76%, 30-year down 3bps to 5.50%."
-    },
-    {
-      "id": "5145794",
-      "time": "2026-10-15 08:23:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【湖南省委書記沈曉明主持召開推動全省氫能產業發展座談會】據湖南日報，10月14日，湖南省委書記沈曉明主持召開推動全省氫能產業發展座談會，廣泛聽取各方面意見建議。在認真聽取大家發言後，沈曉明指出，要充分認識發展氫能產業的重大意義，積極搶抓國家戰略機遇，立足湖南省在區位條件、政策支撐、產業基礎、技術底座和應用場景等方面的優勢，把氫能作為湖南省未來產業發展的重點領域和主攻方向。要堅持有所為、有所不為，瞄準制氫裝備、氫燃料電池、氫能終端等重點賽道精準發力，確保取得更多標誌性成果。要加大對氫能產業的支援力度，健全產業支援政策，提供更加廣泛的應用場景，推動科技創新和產業創新深度融合。要加強統籌排程，謀劃推進氫能重大專案和基礎設施建設，培育氫能龍頭企業和專精特新企業，推動創新平臺建設和產學研協同創新，在財稅、產業基金、投融資等方面加大支援力度，建立健全氫能安全監管制度和標準規範，形成齊抓共管的工作合力。"
-    },
-    {
-      "id": "5145791",
-      "time": "2026-10-15 08:23:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4140美元/盎司，日內漲0.88%。"
-    },
-    {
-      "id": "mkt:01a13cf0-b4da-7ee0-a888-2614062ae848",
-      "time": "2026-10-15 08:22:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【US weighs easing sanctions on 'shadow fleet' to lower record-high shipping rates】An administration official said Wednesday the Trump administration is considering easing sanctions on so-called 'shadow fleet' vessels that previously carried oil and petroleum products from Russia, Iran and Venezuela, aiming to reduce global shipping rates, which remain at historic highs. The official said discussions focus on whether to allow previously sanctioned ships to transport 'legitimate oil'—crude or products not subject to U.S. sanctions, explicitly excluding sanctioned Russian or Iranian cargoes—to push more crude and refined flows out of the Gulf region. The move follows Trump’s recent temporary waiver of sanctions on Russian diesel, a decision criticized by Ukrainian President Zelenskiy, several European governments and some Republican senators."
-    },
-    {
-      "id": "5145787",
-      "time": "2026-10-15 08:21:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國國債全線上漲 10年期收益率下跌3個基點至5.15%】亞洲交易時段伊始，美國國債價格上漲，收益率曲線全線至少下跌3個基點。10年期國債收益率下降3個基點至5.15%，2年期國債收益率下降3個基點至4.76%。30年期國債收益率下降3個基點至5.50%。"
-    },
-    {
-      "id": "5145785",
-      "time": "2026-10-15 08:21:27",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【華泰證券：電力短期承壓，高氣價利好燃氣資源】華泰證券研報表示，2026年年度長協電價同比下行，7/8月全國火電發電量同比下滑，煤價同環比提升，部分火電公司2026年第三季度歸母淨利或承壓；7/8月全國水電發電量同比增長，不同流域來水分化；核電穩健執行；綠電消納形勢仍較為嚴峻；環保行業化債政策持續推進。展望2026年第四季度，火電關注煤價、煤炭庫存及長協煤佔比；水電盈利主要取決於來水情況；綠電關注電價及消納的拐點；燃氣關注氣溫及採暖需求；環保關注回款情況、垃圾焚燒發電企業出海進展。"
-    },
-    {
-      "id": "mkt:01a13cee-29d3-7ee0-a888-1ee4ec2cee55",
-      "time": "2026-10-15 08:20:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "AUDUSD",
-        "Impact mixed"
-      ],
-      "text": "Australia's September seasonally adjusted unemployment rate due in 10 minutes."
-    },
-    {
-      "id": "5145769",
-      "time": "2026-10-15 08:19:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4160美元/盎司，日內漲1.27%。"
-    },
-    {
-      "id": "5145768",
-      "time": "2026-10-15 08:19:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴拿馬7.6級地震致1人死亡20餘人受傷】當地時間10月14日，巴拿馬官方通報一名68歲女性在地震中受重傷不治身亡，27人受輕傷。此外，根據通報，截至目前本次地震共影響3667個家庭，使11527人被疏散。地震造成3390棟建築物受損，其中727棟完全坍塌。巴拿馬總統穆利諾表示巴拿馬將為地震救援、建築物和基礎設施修復與重建投入1億美元。當地時間10月9日12時56分，巴拿馬發生7.6級地震，首都巴拿馬城等多地震感強烈。地震後不久，該國又發生多次5級以上餘震。巴拿馬多地學校、醫療設施、道路及公共建築因地震受損。"
-    },
-    {
-      "id": "mkt:01a13ced-4489-7ee0-a888-10c5af95aef0",
-      "time": "2026-10-15 08:19:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "China International Capital Co said in a research note it expects the Fed is likely to pause rate hikes in October and resume in December. It said a slower pace of hikes does not imply policy easing, and the Fed may remain in a mildly restrictive stance over the next year."
-    },
-    {
-      "id": "mkt:01a13ceb-c67d-7ee0-a888-0b1aafc898a4",
-      "time": "2026-10-15 08:17:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's TOPIX fell 2%."
-    },
-    {
-      "id": "mkt:01a13ceb-c650-7ee0-a888-0685d4d75ab7",
-      "time": "2026-10-15 08:17:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "【Korean stocks slump 6%, hit near three-month low】A global chip sell-off and renewed doubts about the sustainability of AI-driven investment pushed Asian markets lower. Japan's Nikkei 225 fell more than 3% intraday; Kioxia dropped over 8%. South Korea's KOSPI slid for a seventh straight session, tumbling as much as 6% intraday to its lowest level since July 31. Semiconductor heavyweights led declines: Samsung Electronics down over 7%, SK Hynix down over 8%. The Korea Exchange activated a sidecar mechanism, suspending programmatic selling on the KOSPI."
-    },
-    {
-      "id": "mkt:01a13ceb-c00f-7ee0-a887-fc857796c348",
-      "time": "2026-10-15 08:17:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 10-year government bond yield fell 5bp to 2.945%."
-    },
-    {
-      "id": "5145759",
-      "time": "2026-10-15 08:16:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率下跌5個基點至2.945%。"
-    },
-    {
-      "id": "mkt:01a13cea-89dd-7ee0-a887-f7d0dea78f00",
-      "time": "2026-10-15 08:16:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Nikkei 225",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "South Korea's KOSPI plunged 6.00% intraday to 5,645.85 points."
-    },
-    {
-      "id": "mkt:01a13cea-7cb3-7ee0-a887-eebbe3613306",
-      "time": "2026-10-15 08:16:02",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Korea Exchange activated a program-trading suspension mechanism on KOSDAQ."
-    },
-    {
-      "id": "5145756",
-      "time": "2026-10-15 08:16:00",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國KOSPI指數下跌6％，至5645.85點。SK海力士跌超8%，三星電子跌7%。"
-    },
-    {
-      "id": "mkt:01a13cea-6d78-7ee0-a887-e2507bdf09dc",
-      "time": "2026-10-15 08:15:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold hit $4,130/oz, up 0.62% intraday. Spot silver rose 0.5% to $55.88/oz."
-    },
-    {
-      "id": "5145755",
-      "time": "2026-10-15 08:15:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證指數下跌2%，至4014.63。"
-    },
-    {
-      "id": "5145753",
-      "time": "2026-10-15 08:15:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4130美元/盎司，日內漲0.61%。"
-    },
-    {
-      "id": "5145748",
-      "time": "2026-10-15 08:14:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4150美元/盎司，日內漲1.03%。"
-    },
-    {
-      "id": "5145745",
-      "time": "2026-10-15 08:14:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內漲1%，現報4149.10美元/盎司。"
-    },
-    {
-      "id": "5145744",
-      "time": "2026-10-15 08:13:50",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：國慶假期客流及收入增速符合預期，關注休閒韌性持續性】中信建投研報指出，國慶假期文旅消費延續較高景氣，長線遊、酒店及跨境出行表現較強。國慶7天全國國內出遊8.26億人次，國內出遊總花費7383.75億元，按可比口徑日均分別同比增長6.3%、4.3%。國慶假期中外人員出入境日均為220.9萬人次，同比+6.7%；海南國慶離島免稅購物金額8.55億元；根據商務部大資料監測，10.1~10.6，全國重點監測的78個步行街（商圈）營業額同比+4.7%。假期澳門入境旅客114.3萬人次，日均16.3萬，較2025年國慶假期日均+15.5%。"
-    },
-    {
-      "id": "5145742",
-      "time": "2026-10-15 08:13:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本鎧俠股價下跌8.3%。"
-    },
-    {
-      "id": "5145732",
-      "time": "2026-10-15 08:12:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化賣盤。"
-    },
-    {
-      "id": "mkt:01a13ce7-4bd6-7ee0-a887-dedf8c3cee94",
-      "time": "2026-10-15 08:12:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 fell 3.00% intraday to 65,711.85 points."
-    },
-    {
-      "id": "5145727",
-      "time": "2026-10-15 08:12:02",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "日經225指數跌幅擴大至3%，報65706.40。"
-    },
-    {
-      "id": "5145726",
-      "time": "2026-10-15 08:11:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4120美元/盎司，日內漲0.37%。"
-    },
-    {
-      "id": "5145725",
-      "time": "2026-10-15 08:11:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數下跌超過2000點，人工智慧相關股票暴跌。"
-    },
-    {
-      "id": "mkt:01a13ce6-314d-7ee0-a887-d40b87905258",
-      "time": "2026-10-15 08:11:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's 5-year government bond yield fell 3.5 bps to 2.335%."
-    },
-    {
-      "id": "te:markets:592081",
-      "time": "2026-10-15 08:11:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Futures Decline on Rate Hike Fears — US stock futures extended losses on Thursday as hotter-than-expected consumer inflation strengthened expectations of more aggressive Federal Reserve rate hikes. S&P 500 and Nasdaq 100 futures fell 0.3% and 0.9%, respectively, while Dow futures were flat. During Wednesday’s regular session, the S&P 500 and Nasdaq Composite declined 1.11% and 1.88%, respectively, with technology stocks leading the selloff amid growing concerns over AI-related investments. Data released Wednesday also showed that annual consumer price inflation accelerated to 3.7% in September, its highest level in four months and above market expectations of 3.6%. Investors are now awaiting Thursday’s producer inflation report, along with the latest retail sales data and weekly jobless claims figures. On the corporate front, earnings reports are expected from Charles Schwab, US Bancorp, Freeport-McMoRan, American Airlines, Snap, and other companies."
-    },
-    {
-      "id": "5145719",
-      "time": "2026-10-15 08:11:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率下跌3.5個基點，至2.335%。"
-    },
-    {
-      "id": "5145718",
-      "time": "2026-10-15 08:10:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "軟銀集團股價下跌8%。"
-    },
-    {
-      "id": "mkt:01a13ce4-9db0-7ee0-a887-ce29915b31d1",
-      "time": "2026-10-15 08:09:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI is trading down 4.5%, having recovered from an early decline of more than 5.5% at the open."
-    },
-    {
-      "id": "5145717",
-      "time": "2026-10-15 08:09:19",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：當前乘用車內需悲觀預期已充分定價，建議積極把握中長期週期底部配置買點】中信建投研報指出，本週中歐雙方以符合世貿組織規則的方式就混動汽車貿易達成諒解，並繼續推進電動車反補貼案價格承諾程式。當前乘用車內需悲觀預期已充分定價，短期壓制在於出口退稅退坡、消費稅加徵等政策預期變化，建議積極把握中長期週期底部配置買點。商用車、缺電基本面整體維持穩健，重視低估值強業績龍頭標的階段性回撥配置機會。機器人板塊已進入市場對Optimus量產置信度逐步提升的階段，量產節奏的兌現或催生新一輪產業趨勢拐點。智駕板塊當前關注度仍在低位，預計隨著中期L3/L4的技術及商業化突破，估值有望迎來上修。"
-    },
-    {
-      "id": "te:economy:592080",
-      "time": "2026-10-15 08:08:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Machinery Orders",
-        "Importance 2"
-      ],
-      "text": "Japan Machinery Orders Rebound More than Expected — Japan’s core machine orders, which exclude volatile sectors such as ships and electric utilities, rose by 5.2% month-on-month to JPY 1,069.8 billion in August 2026, reversing a 3.7% decline in the previous month and exceeding market forecasts for a 3% gain. It marked the fourth month of increase so far this year, supported by rebounds in both manufacturing orders (1.6% vs -1.0% in July) to JPY 527.0 billion and non-manufacturing orders (2.9% vs -2.6%) to JPY 541.3 billion. Among manufacturers, non-ferrous metals posted the strongest growth (132.6%), followed by other transport equipment (43.7%), petroleum and coal products (19.6%), and automobiles, parts, and accessories (13.1%). In the non-manufacturing sector, goods leasing (136.0%), wholesale and retail trade (29.2%), and mining and quarrying posted solid rises. On an annual basis, machinery orders increased by 18.6%, up from 11.2% in July and above consensus of 15.7%. It was the fastest yearly growth in six months."
-    },
-    {
-      "id": "mkt:01a13ce3-e424-7ee0-a887-c611fe8b0c08",
-      "time": "2026-10-15 08:08:50",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Korea Exchange activated the sidecar mechanism on the KOSPI index, suspending programmatic sell orders."
-    },
-    {
-      "id": "mkt:01a13ce3-8d4f-7ee0-a887-bdb676ee4a5a",
-      "time": "2026-10-15 08:08:28",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【Kunlun Wanwei launches consumer‑GPU video large-model game and open-sources project】Kunlun Wanwei said on Oct. 15 it released Matrix-Game4.0, which it describes as the world’s first video large-model game running on a single consumer GPU. The company said the product uses a new paradigm: a game engine maintains world state and interaction rules while a video-generation model renders detailed frames in real time, delivering 480p 60FPS gameplay on a single NVIDIA RTX 5090. The project was open-sourced simultaneously."
-    },
-    {
-      "id": "5145716",
-      "time": "2026-10-15 08:08:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化賣盤。"
-    },
-    {
-      "id": "5145715",
-      "time": "2026-10-15 08:07:26",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【隨晶片股拋售潮延續，韓國綜合股價指數跌至7月以來最低】受投資者對人工智慧相關交易的疑慮加劇影響，韓國綜合指數連續七日下跌，盤中最大跌幅達 5.7%。該基準指數觸及 7 月 31 日以來最低點位。SK 海力士、三星為主要拖累個股，跌幅均超 5%。"
-    },
-    {
-      "id": "5145714",
-      "time": "2026-10-15 08:07:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "愛德萬測試股價下跌4.5%。"
-    },
-    {
-      "id": "mkt:01a13ce1-43bc-7ee0-a887-b099b929d48e",
-      "time": "2026-10-15 08:05:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "MSCI Asia Pacific index fell 1% to 266.28."
-    },
-    {
-      "id": "5145713",
-      "time": "2026-10-15 08:05:56",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：AI4S邁向產業化臨界點】中信建投證券研報稱，當前，AI製藥產業鏈已經演化為以平臺和技術中臺為核心，上中下游深度協同的網狀賦能體系，並呈現出多種商業模式相容並進的發展趨勢。AI4S正由模型能力競賽邁向產業化臨界點，技術、產業、需求、政策四重共振，價值錨點由模型能力向科研生產力、資料資產與系統化生物設計升維。"
-    },
-    {
-      "id": "5145712",
-      "time": "2026-10-15 08:05:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4140美元/盎司，日內漲0.78%。"
-    },
-    {
-      "id": "5145711",
-      "time": "2026-10-15 08:04:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "東京電子股價下跌4%。"
-    },
-    {
-      "id": "mkt:01a13ce0-2347-7ee0-a887-ad47b4b4d20b",
-      "time": "2026-10-15 08:04:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei index slid as much as 2.00% intraday."
-    },
-    {
-      "id": "5145710",
-      "time": "2026-10-15 08:03:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "日經225指數跌幅擴大至2%。"
-    },
-    {
-      "id": "5145709",
-      "time": "2026-10-15 08:03:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受人工智慧投資擔憂和美國加息預期的影響，日經平均指數下跌超過1400點。"
-    },
-    {
-      "id": "5145708",
-      "time": "2026-10-15 08:03:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數下跌1%至266.28點。"
-    },
-    {
-      "id": "mkt:01a13cdd-4aa6-7ee0-a887-a7f2a01646ec",
-      "time": "2026-10-15 08:01:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 opened down 935.98 points (-1.38%) at 66,808.31 on Oct. 15 (Thursday)."
-    },
-    {
-      "id": "mkt:01a13cdd-20b1-7ee0-a887-9f17f40d60f3",
-      "time": "2026-10-15 08:01:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bearish",
-        "005930.KS"
-      ],
-      "text": "【South Korea's KOSPI opens down more than 5%】KOSPI fell below 6,000 points, down 5.59% intraday. SK Hynix dropped more than 7%; Samsung Electronics declined over 6%."
-    },
-    {
-      "id": "5145707",
-      "time": "2026-10-15 08:00:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌逾6%。"
-    },
-    {
-      "id": "5145706",
-      "time": "2026-10-15 08:00:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價下跌7％，三星電子股價下跌逾6％。"
-    },
-    {
-      "id": "5145705",
-      "time": "2026-10-15 08:00:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌5.6%，至5673.01點。"
-    },
-    {
-      "id": "5145704",
-      "time": "2026-10-15 08:00:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市開盤】日經225指數上午開盤報66880.37點，跌幅1.28％。韓國綜合股價指數（KOSPI）開盤下跌5.6％，至5673.01點。"
-    },
-    {
-      "id": "5145703",
-      "time": "2026-10-15 08:00:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破106美元/桶，日內跌0.24%。"
-    },
-    {
-      "id": "mkt:01a13cdb-aab8-7ee0-a887-9378a13eb0e2",
-      "time": "2026-10-15 07:59:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 10-year government bond yield fell 4.5 bps to 2.95%."
-    },
-    {
-      "id": "mkt:01a13cdb-0794-7ee0-a887-887a0da27598",
-      "time": "2026-10-15 07:59:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Huatai Securities maintains view Fed will pause in October, hike once in December】Huatai Securities said in a research note September US core CPI was hotter than expected on a MoM basis; an unexpected rise in shelter was the main driver and other components also showed broad-based warming. The firm said the data point to potentially broader inflationary pressure, but given recent Fed officials' comments and already tighter financial conditions, it still expects the Fed to pause in October and deliver one rate hike in December."
-    },
-    {
-      "id": "5145702",
-      "time": "2026-10-15 07:58:49",
-      "tags": [
-        "資料",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【華泰證券：維持美聯儲10月暫緩加息，12月加息1次的判斷】華泰證券研報稱，9月美國核心CPI通脹環比再超預期升溫，除住房分項的意外升溫成為主要推動外，其他分項也出現廣泛升溫。此次CPI資料顯示美國通脹壓力可能較為廣泛，但考慮到近期美聯儲官員表態且金融條件已有所收緊，美聯儲仍有觀望空間，仍維持美聯儲10月暫緩加息，12月加息1次的判斷。"
-    },
-    {
-      "id": "5145701",
-      "time": "2026-10-15 07:58:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌4.5個基點至2.95%。"
-    },
-    {
-      "id": "em:qqyh_mlc:202610153896094996",
-      "time": "2026-10-15 07:58:00",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【華泰證券：維持美聯儲10月暫緩加息 12月加息1次的判斷】華泰證券研報稱，9月美國核心CPI通脹環比再超預期升溫，除住房分項的意外升溫成為主要推動外，其他分項也出現廣泛升溫。此次CPI資料顯示美國通脹壓力可能較為廣泛，但考慮到近期美聯儲官員表態且金融條件已有所收緊，美聯儲仍有觀望空間，仍維持美聯儲10月暫緩加息，12月加息1次的判斷。"
-    },
-    {
-      "id": "mkt:01a13cd9-4768-7ee0-a887-8778c23df256",
-      "time": "2026-10-15 07:57:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "【China's CXMT unveils new memory architecture; foreign memory leaders' monopoly premium faces re-pricing】China's ChangXin Memory Technologies (CXMT) released a new memory architecture, prompting a sharp pullback in global memory stocks. On Oct 13 Samsung Electronics and SK Hynix shares fell over 7%; losses narrowed and stabilized on Oct 14. Analysts say the drop is partly a short-term sentiment overshoot but also reflects a longer-term reappraisal of foreign vendors' monopoly moat, and that the server market may see increasing divergence."
-    },
-    {
-      "id": "em:qqyh_mlc:202610153896090646",
-      "time": "2026-10-15 07:57:08",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲準備金管理購買暫停期延至11月中旬】當地時間10月14日，紐約聯儲公佈的操作安排顯示，10月15日至11月13日期間，美聯儲計劃開展約146億美元的美國國債再投資購買，不進行準備金管理購買，意味著後者的暫停期將延續至11月中旬。"
-    },
-    {
-      "id": "5145700",
-      "time": "2026-10-15 07:56:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外貿資料打破外部抹黑，前三季度進口增速更高，中國是“超級賣家”也是“超級買家”】海關總署14日釋出資料顯示，今年前三季度，我國貨物貿易進出口39.94萬億元，同比增長18.8%，其中9月份進出口5.16萬億元，首次單月突破5萬億元，同比增長27.5%。中國外貿的強勁增勢讓外媒驚呼“超出預期”，並稱中國今年有望實現創紀錄的貿易順差。同樣值得注意的是，中國進口增速高於出口，前三季度出口同比增長16.4%，進口同比增長22.3%。相關學者稱，這些資料打破了外部所謂“中國不進口、不共贏”的抹黑。中國進口規模的不斷擴大，不僅是國內生產消費需求的客觀反映，也充分展現了我國有序擴大自主開放和單邊開放的實際成效。中國是“世界工廠”也是“世界市場”，是“超級賣家”也是“超級買家”，在全球主要消費市場採取貿易保護措施的背景下，中國市場的重要性愈發凸顯。（環球時報）"
-    },
-    {
-      "id": "5145699",
-      "time": "2026-10-15 07:56:07",
-      "tags": [
-        "資料"
-      ],
-      "text": "美元指數抹去CPI報告公佈以來的所有漲幅。"
-    },
-    {
-      "id": "te:markets:592078",
-      "time": "2026-10-15 07:55:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Zambia",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Zambia 10Y Bond Yield Hits Near 14-year Low — Zambia 10 Year Government Bond Yield decreased to 14.76%, the lowest since October 2012. Over the past 4 weeks, Zambia Government Bond 10y lost 102.00 basis points, and in the last 12 months, it decreased 472.00 basis points."
-    },
-    {
-      "id": "5145698",
-      "time": "2026-10-15 07:55:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名官員表示，美國正討論取消針對影子船隊船舶的部分制裁，以圖降低全球海運運費，並提振中東地區石油流量。"
-    },
-    {
-      "id": "mkt:01a13cd7-cd6d-7ee0-a887-7b512d489f31",
-      "time": "2026-10-15 07:55:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. officials said they are discussing lifting sanctions on some vessels in the shadow fleet to reduce global freight rates and boost Middle East oil flows."
-    },
-    {
-      "id": "5145697",
-      "time": "2026-10-15 07:55:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長鑫科技釋出新型技術架構 海外龍頭壟斷壁壘面臨重估】國產儲存龍頭長鑫科技釋出新型技術架構，全球儲存龍頭股價近期明顯回撥。10月13日，三星電子、SK海力士跌幅超過7%，10月14日跌幅收窄企穩。業內人士向證券時報記者分析，國際儲存巨頭暴跌，短期是交易層面的情緒超調，長期來看反映了市場對其壟斷壁壘的重估，而未來伺服器市場會面臨分化。報道顯示，10月10日，長鑫科技總裁曹堪宇博士在第四屆整合晶片和芯粒大會上公佈公司在DRAM器件、4F^[2]架構及混合鍵合等方向進展，並預計年底推出融合新技術的新一代DDR5 RDIMM產品。相比DRAM行業主流6F^[2]架構，4F^[2]意味著每個單元僅佔4倍最小特徵尺寸的平方，因此單位面積內的電晶體數量會增多，實現儲存密度的提升。該技術最核心的特色是在DRAM儲存陣列電晶體上的創新，即自研的VSG（Vertical Surrounded Gate）電晶體。"
-    },
-    {
-      "id": "5145696",
-      "time": "2026-10-15 07:55:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【納斯達克100指數期貨跌超1%】美股納斯達克100指數期貨跌超1%，標普500指數期貨跌0.36%，道瓊斯指數期貨漲0.02%。"
-    },
-    {
-      "id": "mkt:01a13cd7-45c4-7ee0-a887-710101115203",
-      "time": "2026-10-15 07:55:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "GBPUSD"
-      ],
-      "text": "【Dollar index erases all gains since CPI release】DXY slipped in early Asian trade, fully erasing gains recorded after yesterday’s US September CPI release; peak cumulative rise was about 0.70 index points. DXY is at 102.16. GBP/USD and EUR/USD are each about 0.3% higher, trading at 1.3231 and 1.1197 respectively."
-    },
-    {
-      "id": "5145695",
-      "time": "2026-10-15 07:54:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宜信系股權投資基金透視：3家機構管理規模逾170億元】宜信系複雜的股權投資，正逐步露出冰山一角。證券時報記者近日多方梳理發現，宜信系自2013年起即建立私募股權母基金投資團隊，主要透過3家股權機構在一級市場佈局。這3家股權機構分別為北京煜盈資產管理有限公司、北京瀚富資產管理有限公司和深圳普澤眾富資產管理有限公司。中國證券投資基金業協會備案資料顯示，該3家股權機構合計管理規模至少為170億元，根據未清算的管理基金註冊資本統計，規模超260億元。另據執中ZERONE資料，上述3家股權機構以母基金身份投資的子基金超過180只，合作的機構包括IDG資本、啟明創投、禮來亞洲基金、經緯創投等多家頭部普通合夥人（GP)。對這些母基金做股權穿透可見，其最終出資人以個人投資者為主。隨著宜信近日被立案偵查以及實控人唐寧、趙玫夫婦被採取刑事強制措施，這些龐大且複雜的股權投資基金如何清算，目前尚未明朗。"
-    },
-    {
-      "id": "5145694",
-      "time": "2026-10-15 07:54:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞和紐西蘭監管機構表示，聯合壓力測試顯示兩國銀行體系具有韌性。"
-    },
-    {
-      "id": "5145693",
-      "time": "2026-10-15 07:54:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【OpenAI承諾不使用蘋果所稱被竊商業機密，14名員工裝置將接受取證】當地時間10月14日，OpenAI同意在與蘋果公司的商業機密訴訟期間，不使用蘋果指稱被離職員工帶走的機密資訊。根據雙方達成的協議，OpenAI須收集14名員工裝置的取證映象，美國加州北區聯邦地區法院法官愛德華·達維拉將有權執行協議。此前，法官表示很可能支援蘋果並對OpenAI釋出禁令，該協議基本滿足了蘋果希望阻止其機密資訊被用於競爭性技術開發的訴求。蘋果今年7月起訴OpenAI及相關人員，指控其獲取涉及產品設計、製造、零部件技術、測試方法和供應鏈的機密資訊，以推動OpenAI進軍消費硬體市場。OpenAI否認指控，稱無意使用蘋果商業機密，並指蘋果試圖限制員工跳槽。"
-    },
-    {
-      "id": "5145692",
-      "time": "2026-10-15 07:53:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國再添4處世界灌溉工程遺產】據水利部訊息，北京時間10月14日晚，在法國馬賽召開的國際灌排委員會第77屆國際執行理事會會議上，2026年（第十三批）世界灌溉工程遺產名錄正式公佈，我國申報的河南沁河廣利渠（五龍口）、甘肅討賴河綠洲灌溉系統、江西上饒市廣信黃沙渠、福建長泰龍津古陂灌溉工程全部成功入選。至此，中國的世界灌溉工程遺產總數已達46項。"
-    },
-    {
-      "id": "5145691",
-      "time": "2026-10-15 07:51:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "2年期日本國債收益率下跌1個基點至1.91%。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202610153896054996",
-      "time": "2026-10-15 07:50:34",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本8月核心機械訂單同比增長18.6%，預期15.7%，前值11.20%。"
-    },
-    {
-      "id": "5145690",
-      "time": "2026-10-15 07:50:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本8月核心機訂單同比增長18.6%；預計增長15.6%。日本8月核心機械訂單環比增長5.2%；預期增長2.3%。"
-    },
-    {
-      "id": "mkt:01a13cd2-c616-7ee0-a887-6cd9b320a75d",
-      "time": "2026-10-15 07:50:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan August core machinery orders MoM +5.2% (exp +3.0%), prior -3.7%."
-    },
-    {
-      "id": "mkt:01a13cd2-c5b0-7ee0-a887-669de611f8cc",
-      "time": "2026-10-15 07:50:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan core machinery orders YoY +18.6% in August, above consensus +15.7%; July +11.2%."
-    },
-    {
-      "id": "mkt:01a13cd2-a99c-7ee0-a887-5e4fb3795801",
-      "time": "2026-10-15 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Core Machinery Orders (YoY) (Aug) | actual 18.6% | consensus 15.7% | previous 11.20%"
-    },
-    {
-      "id": "mkt:01a13cd2-a860-7ee0-a887-5062abbdac93",
-      "time": "2026-10-15 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Core Machinery Orders (MoM) (Aug) | actual 5.2% | consensus 3% | previous -3.70%"
-    },
-    {
-      "id": "5145689",
-      "time": "2026-10-15 07:49:56",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【證券日報：中國資產對國際資本吸引力持續提升】2026年以來，外資機構對中國資產加強調研、調高評級、加大持倉。這一趨勢背後，折射出國際資本對中國經濟韌性、產業升級成效與科技創新實力的高度認同。外資機構的調研節奏，是觀察其對A股公司興趣的直觀視窗。萬得資料顯示，截至10月14日，年內已有超650家外資機構累計調研A股公司6300餘次。其中，高盛（亞洲）證券以164次調研位居首位，Point72資產管理公司、美銀證券、摩根大通等外資機構的調研次數也均超過100次。 從調研行業分佈看，積體電路、機器視覺、工控自動化、電氣裝置等高階製造領域的上市公司更受外資機構關注。瀾起科技股份有限公司、‌奧比中光科技集團股份有限公司、深圳市匯川技術股份有限公司‌分別被81家、72家、57家外資機構列入自身關注度前三，新業務放量節奏、產線擴產與交付情況、下游業務應用場景等問題被重點關注。"
-    },
-    {
-      "id": "5145688",
-      "time": "2026-10-15 07:48:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年前三季度兩岸進出口貿易額同比增30.3%】海關總署14日公佈的最新統計資料顯示，今年前9個月，大陸與臺灣進出口貿易額同比增長30.3%，內地與香港進出口貿易額同比增長55.6%。資料顯示，今年前9個月兩岸貿易額約3011.8億美元。其中，大陸從臺灣進口約2162.8億美元，同比增長27.8%；大陸向臺灣出口約849億美元，同比增長37.3%。從單月看，9月兩岸貿易額約417.7億美元。其中，大陸從臺灣進口約298.4億美元，向臺灣出口約119.3億美元。（看臺海）"
-    },
-    {
-      "id": "5145687",
-      "time": "2026-10-15 07:46:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【前9個月柳州鐵路港鐵路發貨量超194萬噸】隨著平陸運河建成通航，柳州鐵路港正在加緊完善多式聯運，降低物流運輸成本。最新資料顯示，今年1至9月，柳州鐵路港鐵路傳送貨物194.56萬噸，達2025年全年的1.88倍；集裝箱發運量1.7萬標箱，為2025年全年的22倍。"
-    },
-    {
-      "id": "5145686",
-      "time": "2026-10-15 07:46:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【臺積電財報面臨高門檻 僅超預期或難平息全球AI板塊拋售潮】在全球晶片大廠強勁業績未能提振人工智慧(AI)交易之際，臺積電週四將公佈的財報若要打動投資者，勢將面臨相當高的門檻。受加息、AI基礎設施融資以及晶片景氣週期能否持續等擔憂影響，費城半導體指數連續六個交易日下跌，市值累計蒸發逾1.5萬億美元。臺積電此前已公佈季度營收大增51%。不過，三星電子和阿斯麥近期公佈的穩健業績仍未能緩解市場對晶片股的焦慮。打動投資者的“門檻非常高”，Financiere de L Echiquier投資組合經理Kevin Net表示。“要推動股價出現積極反應，僅僅超出預期還不夠。”他希望看到臺積電維持較高利潤率和資本支出，同時釋放AI和高效能算力需求依然強勁的訊號。"
-    },
-    {
-      "id": "5145685",
-      "time": "2026-10-15 07:46:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤上漲0.26點。"
-    },
-    {
-      "id": "5145684",
-      "time": "2026-10-15 07:46:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經225指數期貨早盤下跌3.1%。"
-    },
-    {
-      "id": "5145682",
-      "time": "2026-10-15 07:45:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“茶百道們”被停牌背後——港股監管亮劍嚴查IPO認購操縱】10月13日，新茶飲品牌茶百道港股交易被緊急停牌。當日，香港證監會給出叫停的理由，該股首次公開招股（IPO）可能曾被人為操縱。監管方面稱，有關可疑集團涉嫌參與茶百道、撥康視雲、天聚地合等IPO欺詐計劃。 在茶百道之前，另外兩隻股票已被停牌。停牌只是表象，更深層是，IPO認購需求被人為製造的問題，正被監管擺在明面重拳整治。專業人士告訴北京日報記者，人為安排製造認購熱度，可能誤導投資者對市場需求和證券價值的判斷。儘管有關問題有待監管進一步調查，但釋放出的訊號已極其明確：對IPO操縱行為“零容忍”。（北京日報）"
-    },
-    {
-      "id": "mkt:01a13cce-1b4f-7ee0-a887-4a16d1db6495",
-      "time": "2026-10-15 07:45:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "U.S. 10-year Treasury yield fell 4 bps to 5.1539%."
-    },
-    {
-      "id": "5145681",
-      "time": "2026-10-15 07:44:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期公債收益率下跌4個基點至5.1539%，受股市下滑和信貸壓力影響。"
-    },
-    {
-      "id": "5145680",
-      "time": "2026-10-15 07:44:13",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際",
-        "原創"
-      ],
-      "text": "【黃仁勳再駁“AI滅絕論”】英偉達CEO黃仁勳在週三的一次採訪中再次駁斥了所謂的“AI滅絕論”。針對多位行業高管發出的“人工智慧可能帶來生存風險”的警告，他表示，這項技術“完全在我們的掌控之中”。黃仁勳說：“我不明白為什麼會有人想要支援某種技術的發展——畢竟這種技術最終可能會導致我們所熟知的人類文明走向終結。所以，如果他們真的相信這一點，那他們確實應該停止相關研發工作。”"
-    },
-    {
-      "id": "5145679",
-      "time": "2026-10-15 07:42:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數期貨在新加坡交易所開盤下跌1,850點，報66,310點。"
-    },
-    {
-      "id": "5145678",
-      "time": "2026-10-15 07:42:02",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【財政部向金融央企注資事項迎新進展】財政部向金融央企注資事項迎來新進展。10月14日晚間，工商銀行、農業銀行、中國人保同步釋出公告，回覆上交所就這三家機構定增申請檔案出具的稽核問詢函。公告顯示，問詢函內容主要關注行政處罰、訴訟仲裁兩大問題。這三家機構的回覆總體一致，認為上述問題不會對此次發行構成障礙。（人民財訊）"
-    },
-    {
-      "id": "5145677",
-      "time": "2026-10-15 07:41:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通用世界模型北京市重點實驗室揭牌 】世界模型作為人工智慧的前沿方向，正成為全球科技競爭的新賽道。日前，在2026世界模型高峰論壇上，通用世界模型北京市重點實驗室揭牌。據悉，這也是國內首個世界模型方向的省部級重點實驗室。通用世界模型北京市重點實驗室依託單位極佳視界創始人兼CEO黃冠表示，通用人工智慧不能只停留在語言智慧，更需要具備在物理三維空間中理解、生成、預測和行動的能力，而這些能力的實現有賴於通用世界模型的突破。"
-    },
-    {
-      "id": "5145676",
-      "time": "2026-10-15 07:41:28",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際",
-        "原創"
-      ],
-      "text": "【黃仁勳與奧特曼唱反調：不應容忍AI引發的任何網路安全事件】英偉達執行長黃仁勳表示，人工智慧行業不應容忍由該技術引發的任何網路安全事件。這一觀點與OpenAI執行長薩姆·奧特曼的看法相左，後者最近聲稱，為了獲得人工智慧帶來的益處，世界或許不得不接受“一些糟糕事件”的發生。黃仁勳在週三的一次採訪中表示：“我無法容忍任何網路安全事件的發生。我們根本不應接受這類事件，我們應當竭盡所能去避免它們。”黃仁勳說，迄今為止發生的這些事件，本都可以透過對AI智慧體實施更嚴格的管控與監測來避免。"
-    },
-    {
-      "id": "5145675",
-      "time": "2026-10-15 07:39:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【前三季度港股IPO募資超3800億港元 前三家承銷商承銷規模合計佔比達42%】2026年前三季度，港股IPO市場交出一份遠超預期的成績單，共有115家企業上市，募資總額3855.66億港元，這一募資規模已超過2011年以來任何一年的全年水平。市場火熱也讓中介機構受益。記者注意到，頭部效應十分明顯，前三家承銷商的承銷規模合計佔比已達42%。不過，保薦機構的資源緊張問題以及執業質量仍然受到監管關注。"
-    },
-    {
-      "id": "5145674",
-      "time": "2026-10-15 07:38:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【科技日報：限制中國無人機，美方無疑是自尋煩惱】據美國全國公共廣播電臺（NPR）10月12日報道，美國對中國無人機的限制正在損害資金短缺的警察部門，由於預算緊張，一些部門不得不四處奔走，尋找途徑來購買更昂貴的本土無人機。報道援引美國執法無人機協會主席喬恩·比爾的觀點稱，中國製造的無人機比美國無人機“領先幾光年”。比爾介紹，大疆創新（DJI）的一款配備高解析度熱成像攝像頭的無人機售價不到1萬美元，美國無人機價格通常在2萬到5萬美元之間，效能還要遜色不少。當前，無人機正在越來越深地嵌入經濟發展、公共安全、城市治理、農業生產、民眾生活等各個領域。限制中國無人機不僅不會成為美國無人機產業發展的“保護傘”，反而會在不同應用場景中帶來種種本不應存在的問題。美方應聽取各行業無人機使用者的意見，一意孤行恐怕將遭受更大的損失。"
-    },
-    {
-      "id": "mkt:01a13cc7-7f9f-7ee0-a887-42bf8c7484f6",
-      "time": "2026-10-15 07:37:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.O",
-        "Impact bullish"
-      ],
-      "text": "【Analysts: TSMC likely to report record profit for sixth straight quarter】Analysts expect TSMC to report on Thursday Q3 net profit up 65% YoY to NT$746.3 bln (about $23.4 bln), driven by a surge in tech infrastructure spending and strong demand for AI-chip manufacturing capacity and CoWoS advanced packaging. If final net profit exceeds NT$706.56 bln, it would be a company single-quarter record and mark 11 consecutive quarters of profit growth."
-    },
-    {
-      "id": "5145673",
-      "time": "2026-10-15 07:37:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "極兔速遞-W(01519)釋出公告，於2026年第三季度，包裹量合計95.84億件，同比增長24.8%。於2026年前三季度，包裹量合計270.87億件，同比增長25%。"
     }
   ]
 }
