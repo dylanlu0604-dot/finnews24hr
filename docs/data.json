@@ -1,7 +1,133 @@
 {
-  "updated": "2026-10-23 00:13:08",
-  "count": 13298,
+  "updated": "2026-10-23 00:17:26",
+  "count": 13308,
   "items": [
+    {
+      "id": "mkt:01a16466-362d-7ee0-a94c-813759df3849",
+      "time": "2026-10-23 00:16:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department said the United States and Denmark signed a memorandum of understanding on maritime cooperation."
+    },
+    {
+      "id": "mkt:01a16466-1612-7ee0-a94c-799dbafdc696",
+      "time": "2026-10-23 00:16:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hugging Face releases OlmoEarth V1.3, an updated satellite-embedding model."
+    },
+    {
+      "id": "mkt:01a16465-e929-7ee0-a94c-723e6f1ceeb5",
+      "time": "2026-10-23 00:16:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance announced the provision of $1.3 billion in domestically produced fertilizer to the state of Nebraska."
+    },
+    {
+      "id": "5162182",
+      "time": "2026-10-23 00:15:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國和丹麥簽署海上合作諒解備忘錄。"
+    },
+    {
+      "id": "5162181",
+      "time": "2026-10-23 00:15:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯宣佈，Talusag將在內布拉斯加州開設兩家制造工廠。"
+    },
+    {
+      "id": "5162180",
+      "time": "2026-10-23 00:15:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SKYDANCE恢復交易，股價下跌約2%。"
+    },
+    {
+      "id": "mkt:01a16465-1f2f-7ee0-a94c-6970f05bc45f",
+      "time": "2026-10-23 00:15:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Interfax: Russian government says gasoline and diesel production has increased and fuel stocks are expanding."
+    },
+    {
+      "id": "5162179",
+      "time": "2026-10-23 00:14:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "Hugging Face釋出最新版衛星嵌入模型OlmoEarth V1.3，該模型屬於尖端技術產品。"
+    },
+    {
+      "id": "5162178",
+      "time": "2026-10-23 00:14:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯宣佈向內布拉斯加州提供價值13億美元的國內化肥。"
+    },
+    {
+      "id": "mkt:01a16464-2482-7ee0-a94c-63c176460c2a",
+      "time": "2026-10-23 00:14:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Rhode Island sues Meta Platforms (META.O), accusing the company of allowing scam advertisements on its platform."
+    },
+    {
+      "id": "5162177",
+      "time": "2026-10-23 00:13:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【挪威主權財富基金稱自己是土耳其基金危機的受害者】挪威主權財富基金表示，自己是土耳其基金危機中受損的投資者之一，並已採取措施審查其在土耳其的股票持倉。“你知道這裡誰是受害者嗎？是那些可能遭到操縱的市場參與者，”副執行長特龍德·格蘭德（Trond Grande）在與記者的電話會議上表示。“我們更像是受害者，而不是肇事者。”"
+    },
+    {
+      "id": "5162176",
+      "time": "2026-10-23 00:13:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱國內燃料市場呈現積極發展態勢。"
+    },
+    {
+      "id": "te:economy:594318",
+      "time": "2026-10-23 00:12:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Rates See First Drop in 9 Weeks — The US 30-year fixed-rate mortgage averaged 7.32% as of October 22, 2026, remaining above the 7% threshold, but seeing a slight decline from its highest level since November 2023 reached over the previous two weeks. This marks the first decline in nine weeks, reflecting the downward trend seen in US Treasury yields over the past two weeks, where expectations of higher-for-longer interest rates lifted safe-haven demand from capital-intensive sectors. Mortgage rates tend to closely track these these sovereign yields. A year ago, the the 30-year fixed-rate mortgage averaged 6.19%. Meanwhile, the 15-year fixed-rate mortgage averaged 6.68%, down from the 6.71% reached a week prior."
+    },
+    {
+      "id": "5162175",
+      "time": "2026-10-23 00:12:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯政府稱正在儲備燃料。"
+    },
     {
       "id": "5162174",
       "time": "2026-10-23 00:12:28",
@@ -120659,41 +120785,6 @@
         "Importance 1"
       ],
       "text": "European Stocks Close Mixed — European stocks closed mixed on Thursday, reflecting similar developments in North America, as plunges in AI infrastructure and heavyweight lenders offset strong performances elsewhere. The Euro STOXX 50 fell 0.4% and the STOXX Europe 600 rose 0.3% to 640. Industrial production in the Eurozone unexpectedly fell at a sharp pace in August, injecting fresh concerns that the bloc's economy may start to feel a bigger impact from higher energy prices, interest rates, and cheap Chinese exports that drove major economies to campaign in Brussels for tariffs and quotas. ASML sank 4.2% and Infineon dropped 5.2%, tracking the global chip sector following slower revenue growth from Anthropic. Meanwhile, Nordea tanked 7.8% after a quarter of lower profits drove the bank to pause its share buyback. On the other hand, L'Oreal, SAP, Rheinmetall, and Wolters Kluwer rose by up to 4.5%."
-    },
-    {
-      "id": "5148181",
-      "time": "2026-10-16 00:16:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟已完成MAI-BASE-2模型的預訓練。"
-    },
-    {
-      "id": "5148180",
-      "time": "2026-10-16 00:14:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【IMF預測日本GDP明年或降至全球第6】據日本多家媒體10月14日報道，國際貨幣基金組織（IMF）的一份最新報告預測，日本國內生產總值（GDP）將在2027年被印度和英國超越，全球排名將由目前的第四位降至第六位。日本媒體分析稱，日本排名下降主要受兩方面因素影響。一方面是日本經濟低迷，增速不及印度和英國；另一方面是日元持續貶值，換算成美元計算國內生產總值時遭到“壓縮”。還有日本網友批評道：“出現這一情況的原因在於，日本政界人士一味追逐私利，從未思考過國家的未來。” （CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:592494",
-      "time": "2026-10-16 00:14:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Crude Oil Hits 4-week High — Crude Oil increased to 98.10 USD/Bbl, the highest since September 2026. Over the past 4 weeks, Crude Oil lost 4.24%, and in the last 12 months, it increased 72.11%."
-    },
-    {
-      "id": "5148179",
-      "time": "2026-10-16 00:13:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱不會直播對胡德堡槍擊案兇手的槍決】美國總統特朗普15日表示，五角大樓不會直播對得克薩斯州胡德堡軍事基地槍擊案兇手尼達爾·哈桑的槍決。此前，美國會兩黨議員紛紛表示反對五角大樓直播行刑過程的計劃。特朗普在社交媒體上發文說，他認為直播哈桑的處決過程或許能起到強有力的威懾作用。然而，許多善良的人不願觀看他的死亡過程，“無論是透過直播還是其他任何影像裝置”。哈桑將按計劃被槍決，但這一過程不會進行直播。（新華社）"
     }
   ]
 }
