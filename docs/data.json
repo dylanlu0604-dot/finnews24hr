@@ -1,7 +1,100 @@
 {
-  "updated": "2026-10-22 13:38:26",
-  "count": 13375,
+  "updated": "2026-10-22 13:42:16",
+  "count": 13372,
   "items": [
+    {
+      "id": "mkt:01a16220-f078-7ee0-a93b-35e4b6c2639c",
+      "time": "2026-10-22 13:41:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slid below $4,080/oz, down 1.5% on the day; spot silver fell through $56/oz, down 3.4%."
+    },
+    {
+      "id": "5160574",
+      "time": "2026-10-22 13:41:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國Kospi指數跌幅擴大至4%，現報5503.73點。個股方面，SK海力士跌超6%，三星電子跌超4%。"
+    },
+    {
+      "id": "mkt:01a16220-6db2-7ee0-a93b-28017ae2c074",
+      "time": "2026-10-22 13:40:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI slid 4.00% intraday to 5503.73."
+    },
+    {
+      "id": "5160573",
+      "time": "2026-10-22 13:40:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守56美元/盎司，日內跌3.36%。"
+    },
+    {
+      "id": "5160572",
+      "time": "2026-10-22 13:40:25",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【野村：亞洲避險情緒明顯 正在影響美國國債和澳元走勢】野村稱，亞洲交易時段避險情緒明顯，美國股指期貨和國債收益率走低；澳元下跌，儘管市場預期澳大利亞央行將在11月加息。 “各個市場都仍在糾結幾大問題 —— 美國科技公司的估值、中東局勢持續動盪之際油價居高不下以及法國面臨的預算挑戰，”野村資深澳大利亞利率策略師Andrew Ticehurst稱。“在固定收益領域，我懷疑許多投資者和交易員都受到了前幾周收益率飆升的衝擊，已選擇觀望。信心似乎非常弱。”"
+    },
+    {
+      "id": "te:markets:594063",
+      "time": "2026-10-22 13:39:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Advantest Shares Hit 4-week Low — Advantest shares decreased to 32410.00 JPY, the lowest since September 2026. Over the past 4 weeks, Advantest gained 1.28%, and in the last 12 months, it increased 97.15%."
+    },
+    {
+      "id": "5160571",
+      "time": "2026-10-22 13:39:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【現貨黃金失守4080美元/盎司】現貨黃金失守4080美元/盎司，日內跌1.51%。國內金價報877.5元/克，現跌1.52%。"
+    },
+    {
+      "id": "5160570",
+      "time": "2026-10-22 13:39:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀集團市值料將較6月高點縮減一半。"
+    },
+    {
+      "id": "te:markets:594062",
+      "time": "2026-10-22 13:39:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Halts Gains, Ends Slightly Lower — The NZX 50 dropped 14 points, or 0.1%, to close at 13,747 on Thursday, halting gains from the morning and the previous session as traders assessed Q3 inflation data. Although annual inflation eased to 3.7% in Q3 from a two-year high in Q2, caution persisted amid expectations that inflation would rise again following a temporary dip in fuel prices. Inflation also remained above the RBNZ's 1–3% target range. Rising oil prices further pressured sentiment, raising concerns over inflation expectations and interest rate hikes amid escalating tensions in the Middle East and the Russia-Ukraine conflict. The broader index tracked declines in US stock futures as investors digested earnings from Meta and Tesla. Healthcare, financials, real estate, and consumer discretionary stocks weighed on the index, with the biggest laggards including Hallenstein Glasson (-3.9%), Mainfreight (-3.0%), Fisher & Paykel (-1.1%), Henderson Far East Income (-1.0%), Infratil (-1.0%), and Port of Tauranga (-0.8%)."
+    },
     {
       "id": "5160569",
       "time": "2026-10-22 13:37:51",
@@ -121397,126 +121490,6 @@
         "國際"
       ],
       "text": "日本央行小枝：日本經濟展現出韌性。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202610153896768263",
-      "time": "2026-10-15 13:42:09",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行委員小枝淳子稱，難以確定中性利率水平；需要及時調整利率。"
-    },
-    {
-      "id": "5146770",
-      "time": "2026-10-15 13:42:03",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "券商板塊午後拉昇，華林證券再度漲停，錦龍股份漲超9%，首創證券、華鑫股份、東方財富、中金公司、湘財股份等個股跟漲。"
-    },
-    {
-      "id": "mkt:01a13e14-ee0b-7ee0-a891-55afa414e993",
-      "time": "2026-10-15 13:42:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "300059.SZ",
-        "Impact bullish"
-      ],
-      "text": "A-share brokerage sector rallied in the afternoon; Hualin Securities hit the daily limit again and Jinlong Shares rose over 9%. Shouchuang Securities, Huaxin Shares, East Money, China International Capital Co and Xiangcai Shares also advanced."
-    },
-    {
-      "id": "5146769",
-      "time": "2026-10-15 13:41:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【染料板塊區域性拉昇，世龍實業、萬豐股份漲停】染料板塊區域性拉昇，世龍實業、萬豐股份漲停，富春染織此前封板，善水科技、亞邦股份、華爾泰跟漲。"
-    },
-    {
-      "id": "5146768",
-      "time": "2026-10-15 13:40:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行委員小枝淳子：難以確定中性利率水平。"
-    },
-    {
-      "id": "mkt:01a13e13-b9c2-7ee0-a891-4b0b70bb60b4",
-      "time": "2026-10-15 13:40:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan policy board member Koeda said monetary conditions have remained accommodative."
-    },
-    {
-      "id": "mkt:01a13e13-b13d-7ee0-a891-41b4d6efb426",
-      "time": "2026-10-15 13:40:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BANK OF JAPAN policy board member Koeda said the basic stance on the neutral rate is that it must be considered as a range."
-    },
-    {
-      "id": "5146767",
-      "time": "2026-10-15 13:40:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行小枝：需要及時調整利率。"
-    },
-    {
-      "id": "mkt:01a13e13-4324-7ee0-a891-3ffb310426ad",
-      "time": "2026-10-15 13:40:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "159915.SZ",
-        "510300.SH",
-        "510050.SH"
-      ],
-      "text": "【Broad-based ETFs surged in afternoon; several funds’ turnover exceeded prior full day】Broad-based A-share ETFs saw a sharp afternoon pickup in turnover. E Fund ChiNext ETF (159915) traded 7.1 bln yuan, ChinaAMC STAR 50 ETF (588000) 5.8 bln yuan, Huatai‑PineBridge CSI 300 ETF (510300) 4.8 bln yuan; E Fund STAR 50 ETF (588080) and ChinaAMC SSE 50 ETF (510050) about 1.6 bln yuan each. All exceeded yesterday’s full-day turnover."
-    },
-    {
-      "id": "5146766",
-      "time": "2026-10-15 13:40:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員小枝：關於中性利率的基本立場是，我們必須在一個區間內進行考量。"
-    },
-    {
-      "id": "5146765",
-      "time": "2026-10-15 13:40:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員小枝：貨幣環境一直保持寬鬆。"
-    },
-    {
-      "id": "mkt:01a13e12-9c5b-7ee0-a891-30a72748b67c",
-      "time": "2026-10-15 13:39:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "TSM.O",
-        "Impact bullish",
-        "SMH",
-        "SOXX"
-      ],
-      "text": "【AI chip demand drives TSMC Q3 net profit up 69% YoY to record, beats estimates】Taiwan Semiconductor Manufacturing Co, the world’s largest contract chipmaker, said Thursday that surging demand for AI processors lifted third-quarter net profit 69% YoY to NT$763.1 billion (US$23.6 billion) for July–September, a record and above institutional estimates of NT$746.3 billion."
     }
   ]
 }
