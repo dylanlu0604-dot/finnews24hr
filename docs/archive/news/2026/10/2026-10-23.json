@@ -1,7 +1,130 @@
 {
   "date": "2026-10-23",
-  "count": 493,
+  "count": 506,
   "items": [
+    {
+      "id": "mkt:01a165f5-adf3-7ee0-a950-a79edb3aa56c",
+      "time": "2026-10-23 07:32:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan nationwide CPI not seasonally adjusted, September MoM 0.0% vs 0.1% in August."
+    },
+    {
+      "id": "mkt:01a165f5-95ca-7ee0-a950-9c73180ca4bc",
+      "time": "2026-10-23 07:32:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | National CPI NSA (MoM) (Sep) | actual 0% | previous 0.1%"
+    },
+    {
+      "id": "5162854",
+      "time": "2026-10-23 07:32:07",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本整體消費者物價指數（CPI）漲幅超過2%，為2025年12月以來首次。"
+    },
+    {
+      "id": "5162853",
+      "time": "2026-10-23 07:31:49",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本核心-核心CPI漲幅超過2%，為3月以來首次。"
+    },
+    {
+      "id": "5162851",
+      "time": "2026-10-23 07:30:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月23日04時36分在青海玉樹州雜多縣（北緯32.49度，東經93.90度）發生3.0級地震，震源深度9千米。"
+    },
+    {
+      "id": "5162850",
+      "time": "2026-10-23 07:30:39",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本9月全國整體消費者物價指數(CPI)較上年同期上升2.1%。日本全國核心、核心-核心和整體 CPI 均上漲超過 2%。"
+    },
+    {
+      "id": "5162849",
+      "time": "2026-10-23 07:30:24",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本9月全國核心消費者物價指數(CPI)較上年同期上升2.1%，調查預估為上升2.1%。"
+    },
+    {
+      "id": "mkt:01a165f3-74fb-7ee0-a950-940cfe6769c0",
+      "time": "2026-10-23 07:30:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan nationwide CPI YoY 2.1% in September, matching expectations of 2.10%; August 1.9%."
+    },
+    {
+      "id": "mkt:01a165f3-612a-7ee0-a950-8c8e3641cf1e",
+      "time": "2026-10-23 07:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan September core CPI YoY 2.1% (est 2.1%; prior 1.7%)."
+    },
+    {
+      "id": "mkt:01a165f3-5b0c-7ee0-a950-808bbb95d951",
+      "time": "2026-10-23 07:30:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | CPI (YoY) (Sep) | actual 2.1% | consensus 2.10% | previous 1.90%"
+    },
+    {
+      "id": "te:markets:594373",
+      "time": "2026-10-23 07:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Up on Heightened Middle East Risks — Brent crude held around $113 per barrel on Friday, trading at its highest level in over five months as escalating Houthi attacks on Saudi targets and reports of possible renewed US strikes against Iran raised supply risks in the Middle East. Iran-backed Houthi militants in Yemen claimed responsibility for recent attacks on Saudi Arabia’s Red Sea port of Yanbu, along with deadly strikes targeting an oil field and an airport in the world's largest crude oil exporter. Meanwhile, US and Israeli militaries have reportedly drawn up plans for renewed attacks after next month’s midterm elections, with Iran’s energy infrastructure likely to be a key target. Despite escalating regional tensions and threats to shipping through the Strait of Hormuz, crude exports from the Persian Gulf have rebounded close to prewar levels. In Europe, Ukraine intensified its attacks on Russian refineries this week amid a US-Russia agreement involving diesel supplies."
+    },
+    {
+      "id": "5162848",
+      "time": "2026-10-23 07:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南“向種圖強” 新品種從實驗室走向田間】“向種圖強”是海南自貿港“十五五”時期重點培育的特色產業鏈之一。在海南，科研單位、種植企業正在共同推動新品種從實驗室走向田間地頭，闖出發展創新路。制度創新成為海南種業高質量發展的新引擎，圍繞種業創新開展“揭榜掛帥”兩年多來，海南審定水稻新品種45個，玉米新品種11個，甘薯、甜瓜、辣椒等作物新品種39個。不斷完善的政策保障體系，正為種業發展鋪就“高速路”。（央視）"
+    },
+    {
+      "id": "mkt:01a165f3-4123-7ee0-a950-7e34f8f7c735",
+      "time": "2026-10-23 07:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core CPI (YoY) (Sep) | actual 2.1% | consensus 2.10% | previous 1.70%"
+    },
     {
       "id": "5162847",
       "time": "2026-10-23 07:28:36",

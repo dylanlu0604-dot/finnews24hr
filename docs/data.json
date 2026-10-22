@@ -1,7 +1,130 @@
 {
-  "updated": "2026-10-23 07:29:21",
-  "count": 13284,
+  "updated": "2026-10-23 07:33:08",
+  "count": 13293,
   "items": [
+    {
+      "id": "mkt:01a165f5-adf3-7ee0-a950-a79edb3aa56c",
+      "time": "2026-10-23 07:32:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan nationwide CPI not seasonally adjusted, September MoM 0.0% vs 0.1% in August."
+    },
+    {
+      "id": "mkt:01a165f5-95ca-7ee0-a950-9c73180ca4bc",
+      "time": "2026-10-23 07:32:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | National CPI NSA (MoM) (Sep) | actual 0% | previous 0.1%"
+    },
+    {
+      "id": "5162854",
+      "time": "2026-10-23 07:32:07",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本整體消費者物價指數（CPI）漲幅超過2%，為2025年12月以來首次。"
+    },
+    {
+      "id": "5162853",
+      "time": "2026-10-23 07:31:49",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本核心-核心CPI漲幅超過2%，為3月以來首次。"
+    },
+    {
+      "id": "5162851",
+      "time": "2026-10-23 07:30:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月23日04時36分在青海玉樹州雜多縣（北緯32.49度，東經93.90度）發生3.0級地震，震源深度9千米。"
+    },
+    {
+      "id": "5162850",
+      "time": "2026-10-23 07:30:39",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本9月全國整體消費者物價指數(CPI)較上年同期上升2.1%。日本全國核心、核心-核心和整體 CPI 均上漲超過 2%。"
+    },
+    {
+      "id": "5162849",
+      "time": "2026-10-23 07:30:24",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本9月全國核心消費者物價指數(CPI)較上年同期上升2.1%，調查預估為上升2.1%。"
+    },
+    {
+      "id": "mkt:01a165f3-74fb-7ee0-a950-940cfe6769c0",
+      "time": "2026-10-23 07:30:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan nationwide CPI YoY 2.1% in September, matching expectations of 2.10%; August 1.9%."
+    },
+    {
+      "id": "mkt:01a165f3-612a-7ee0-a950-8c8e3641cf1e",
+      "time": "2026-10-23 07:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan September core CPI YoY 2.1% (est 2.1%; prior 1.7%)."
+    },
+    {
+      "id": "mkt:01a165f3-5b0c-7ee0-a950-808bbb95d951",
+      "time": "2026-10-23 07:30:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | CPI (YoY) (Sep) | actual 2.1% | consensus 2.10% | previous 1.90%"
+    },
+    {
+      "id": "5162848",
+      "time": "2026-10-23 07:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南“向種圖強” 新品種從實驗室走向田間】“向種圖強”是海南自貿港“十五五”時期重點培育的特色產業鏈之一。在海南，科研單位、種植企業正在共同推動新品種從實驗室走向田間地頭，闖出發展創新路。制度創新成為海南種業高質量發展的新引擎，圍繞種業創新開展“揭榜掛帥”兩年多來，海南審定水稻新品種45個，玉米新品種11個，甘薯、甜瓜、辣椒等作物新品種39個。不斷完善的政策保障體系，正為種業發展鋪就“高速路”。（央視）"
+    },
+    {
+      "id": "te:markets:594373",
+      "time": "2026-10-23 07:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Up on Heightened Middle East Risks — Brent crude held around $113 per barrel on Friday, trading at its highest level in over five months as escalating Houthi attacks on Saudi targets and reports of possible renewed US strikes against Iran raised supply risks in the Middle East. Iran-backed Houthi militants in Yemen claimed responsibility for recent attacks on Saudi Arabia’s Red Sea port of Yanbu, along with deadly strikes targeting an oil field and an airport in the world's largest crude oil exporter. Meanwhile, US and Israeli militaries have reportedly drawn up plans for renewed attacks after next month’s midterm elections, with Iran’s energy infrastructure likely to be a key target. Despite escalating regional tensions and threats to shipping through the Strait of Hormuz, crude exports from the Persian Gulf have rebounded close to prewar levels. In Europe, Ukraine intensified its attacks on Russian refineries this week amid a US-Russia agreement involving diesel supplies."
+    },
+    {
+      "id": "mkt:01a165f3-4123-7ee0-a950-7e34f8f7c735",
+      "time": "2026-10-23 07:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core CPI (YoY) (Sep) | actual 2.1% | consensus 2.10% | previous 1.70%"
+    },
     {
       "id": "5162847",
       "time": "2026-10-23 07:28:36",
@@ -120502,38 +120625,6 @@
         "其他"
       ],
       "text": "【我國清潔能源裝備加速“出海” 提速全球能源轉型】記者15日從中國機械工業聯合會瞭解到，今年以來，我國清潔能源關鍵裝備自主化水平持續提升，產業規模全球領先，產業整體實力實現歷史性躍升。截至8月底，全國累計發電裝機容量達到41.03億千瓦，同比增長11.1%。10月13日，位於四川德陽的東方電機一批氣電、水電、風電裝備集中發運，投入到浙江、山東、河南等地的能源建設專案。記者在採訪中瞭解到，海外市場正成為我國清潔能源裝備產業的重要增長引擎。今年以來，我國發電、輸變電、儲能等裝備出口保持較快增長，高階整機出海實現新突破。專家表示，我國清潔能源裝備出口正從單一產品輸出轉向技術、標準、服務一體化綜合輸出。目前已同100多個國家和地區開展綠色能源專案合作，向全球供應七成風電裝置、八成光伏元件，大批清潔能源裝備產品銷往200多個國家和地區。"
-    },
-    {
-      "id": "5148534",
-      "time": "2026-10-16 07:31:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機器人初創企業扎堆做投資 邊融邊投模式引熱議】一些尚未盈利、成立兩三年的初創公司，賬上躺著幾十億元融資，一邊持續融資，一邊對外投資，這種現象在當下的一級市場越來越普遍。近日，巨蟹智慧和墨現科技兩傢俱身智慧產業鏈企業同步官宣完成融資，兩家企業的投資方中，都出現了一傢俱身智慧百億獨角獸的身影。記者梳理發現，這種初創企業“左手融資、右手投資”的現象主要集中在具身智慧、大模型、AI晶片等領域，其中機器人賽道尤為明顯，而且已經從個別頭部企業延伸到更多企業。今年以來，智元機器人、松延動力、銀河通用等十多家企業也已紛紛下場做投資。受訪人士認為，這類投資大多數是企業提前佈局產業生態。業內人士建議，對於商業模式尚待驗證的初創企業，應審慎考慮對外投資能否真正服務主營業務，且不擠佔研發和商業化所需資金，切勿為了估值敘事而盲目擴張。"
-    },
-    {
-      "id": "5148533",
-      "time": "2026-10-16 07:31:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經期貨在新加坡交易所開盤上漲730點，報65405點。"
-    },
-    {
-      "id": "5148532",
-      "time": "2026-10-16 07:29:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【直擊廣交會：中國製造升級既在展臺上也在產業鏈深處】10月15日，第140屆廣交會第一期開展迎客。本期以“先進製造”為主題，設定了超2.5萬個展位，52萬平方米展覽空間內，超1.2萬家企業集中亮相，展示電子家電、工業自動化、照明電氣、五金工具、新能源汽車及智慧出行等5大板塊、19個展區的產品與技術，成為名副其實的“大Party（聚會）”。從能識別氣味的感測器，到為機器人微型電機校正動平衡的精密裝置；從適配工業生產的機械臂，到整合卡車駐車用電的能源系統，中國製造的升級既在展臺上，也在產業鏈深處。（人民財訊）"
-    },
-    {
-      "id": "5148531",
-      "time": "2026-10-16 07:29:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【迪士尼前高管彼得·賴斯將出任Netflix首席內容官】Netflix當地時間10月15日宣佈，任命迪士尼前電視業務高管彼得·賴斯（Peter Rice）為首席內容官，接替已在公司任職近十年、即將卸任的貝拉·巴賈里亞（Bela Bajaria）。賴斯將於當地時間10月26日起負責Netflix的內容戰略，涵蓋全球各地區的劇集、電影及現場活動。"
     }
   ]
 }
