@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-22 13:54:25",
-  "count": 13372,
+  "updated": "2026-10-22 13:58:20",
+  "count": 13376,
   "items": [
+    {
+      "id": "mkt:01a1622e-11d1-7ee0-a93b-833302bfa7f4",
+      "time": "2026-10-22 13:55:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "601398.SS",
+        "Impact bullish",
+        "601939.SS",
+        "601288.SS"
+      ],
+      "text": "A-share bank stocks saw a localized rebound; Industrial and Commercial Bank of China rose over 2%, extending to a fresh record high, while China Construction Bank, Agricultural Bank of China and Chongqing Rural Commercial Bank also advanced."
+    },
+    {
+      "id": "5160599",
+      "time": "2026-10-22 13:54:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報3204.00元。"
+    },
+    {
+      "id": "5160598",
+      "time": "2026-10-22 13:54:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣立微等成立集芯企管合夥企業】企查查APP顯示，近日，杭州濱廣集芯企業管理合夥企業（有限合夥）成立，經營範圍包含：企業管理；企業管理諮詢。企查查股權穿透顯示，該企業由廣立微等共同出資。"
+    },
+    {
+      "id": "mkt:01a1622c-78e0-7ee0-a93b-79a5912e8158",
+      "time": "2026-10-22 13:54:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Two popular ChiNext and STAR 50 ETFs each exceed CNY10 billion in turnover】In the afternoon session E Fund ChiNext ETF (159915) and Huaxia STAR 50 ETF (588000) each recorded turnover above CNY10 billion. Several other ChiNext and STAR 50 ETFs also registered rising volumes."
+    },
     {
       "id": "5160597",
       "time": "2026-10-22 13:53:28",
