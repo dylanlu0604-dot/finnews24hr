@@ -1,7 +1,119 @@
 {
-  "updated": "2026-10-22 19:31:23",
-  "count": 13459,
+  "updated": "2026-10-22 19:35:26",
+  "count": 13470,
   "items": [
+    {
+      "id": "mkt:01a16364-6fea-7ee0-a945-ac0742b29980",
+      "time": "2026-10-22 19:34:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Saudi-led coalition said it intercepted four drones over Riyadh and Medina."
+    },
+    {
+      "id": "5161604",
+      "time": "2026-10-22 19:34:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯盟稱在利雅得和麥地那攔截4架無人機。"
+    },
+    {
+      "id": "5161603",
+      "time": "2026-10-22 19:34:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澳洋健康：2026年第三季度淨利潤1332.26萬元，同比增長55.68%】澳洋健康公告，2026年第三季度營業收入4.26億元，同比下降6.91%；淨利潤1332.26萬元，同比增長55.68%；扣非淨利潤837.85萬元，同比增長255.89%。2026年前三季度營業收入12.49億元，同比下降8.22%；淨利潤3748.73萬元，同比下降6.55%；扣非淨利潤2762.48萬元，同比下降13.75%。"
+    },
+    {
+      "id": "5161602",
+      "time": "2026-10-22 19:34:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黑石第三季度利潤下降9.2% 總裁稱私人信貸並無“末日危機”】黑石集團第三季度收益下降，能源價格飆升推高通脹，利率上升抑制交易活動。黑石週四在宣告中表示，第三季度可分配收益下降9.2%，至17.2億美元，合每股1.32美元，高於分析師平均預期的1.26美元。黑石總裁Jon Gray在接受採訪時表示，“這個季度市場都出現了相當大的波動，這在一定程度上拖慢了IPO市場，交易活動也較為低迷。”基礎設施再次成為黑石第三季度表現最佳的投資策略，回報率達到6.4%。Gray表示，資料中心租賃、物流和酒店等投資表現強勁，幫助緩解了利率上升對公司部分業務造成的壓力。房地產和私募股權業務第三季度均表現不佳，這兩個業務板塊的可分配收益分別下降10%和7%。黑石管理資產總額增長10%，至1.37萬億美元。"
+    },
+    {
+      "id": "5161601",
+      "time": "2026-10-22 19:34:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "Tucows旗下Ting Fiber將把科羅拉多斯普林斯的暗光纖租賃轉讓給Google Fiber Colorado。"
+    },
+    {
+      "id": "5161600",
+      "time": "2026-10-22 19:33:13",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "上交所釋出通知，將茶百道調出滬港通下港股通標的，自下一港股通交易日起生效。"
+    },
+    {
+      "id": "mkt:01a16362-c6eb-7ee0-a945-a7698714217c",
+      "time": "2026-10-22 19:33:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "German Chancellor Merz said he wants to preserve momentum for EU enlargement."
+    },
+    {
+      "id": "5161599",
+      "time": "2026-10-22 19:32:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【PHP曝嚴重安全問題 研究員：利用漏洞如同進入房子大門】21日，據多方訊息，廣泛應用於網站和網路應用開發的程式語言PHP被曝出存在嚴重網路安全漏洞，需要進行緊急安全更新。PHP開發團隊21日釋出了針對兩項嚴重安全漏洞的修復補丁。PHP的嚴重安全漏洞是由網路安全企業研究人員藉助人工智慧工具發現的。發現漏洞的研究員表示，在網站上利用這個漏洞，本質上就像進入了一座房子的大門，進入後可在內部自由遊走。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a16362-5632-7ee0-a945-9d213d913f4d",
+      "time": "2026-10-22 19:32:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Traders expect Chile's October inf to be 0.5% MoM."
+    },
+    {
+      "id": "5161598",
+      "time": "2026-10-22 19:32:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨在黑山：我們希望保持歐盟擴張的勢頭。"
+    },
+    {
+      "id": "mkt:01a16361-e8a5-7ee0-a945-96ad83e129b1",
+      "time": "2026-10-22 19:32:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Surveyed Chilean traders expect the policy rate to be 4.50% this month and unchanged at 4.50% over the next 24 months."
+    },
+    {
+      "id": "5161597",
+      "time": "2026-10-22 19:31:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "勃林格殷格翰：與微軟的合作將重點共同研究數字患者模型在臨床開發中的潛力。"
+    },
+    {
+      "id": "te:markets:594227",
+      "time": "2026-10-22 19:31:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Turkey",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Turkish Lira Hits New Low — The Turkish lira approached 50 per US dollar in October 2026, hitting a fresh record low as authorities maintained a controlled pace of depreciation while intervening in foreign exchange markets to prevent a sharper decline. The lira remains exposed to carry-trade positioning, with investors borrowing in lower-yielding currencies to invest in Turkish assets offering higher returns. At its October meeting, the Central Bank of Turkey cut its benchmark interest rate by 100 basis points to 36%, as expected, marking its first rate cut since the war with Iran began. The decision followed a further easing in inflation, which slowed to 29.73% in September, its lowest level in nearly five years.. The easing cycle is expected to continue into 2027, with the policy rate forecast to fall to 28% by year-end. Meanwhile, the investment fund sector faced a crisis last month after regulators ordered the liquidation of 131 funds, following concerns over asset managers reporting unusually high returns."
+    },
     {
       "id": "5161596",
       "time": "2026-10-22 19:30:20",
@@ -122251,30 +122363,6 @@
         "Importance 1"
       ],
       "text": "Brazil Retail Sales Miss Forecasts — Brazilian retail sales volume rose 0.1% month-over-month in August 2026, following a 0.8% decline in July and falling short of forecasts for a 0.7% increase. Six of the eight retail categories surveyed recorded gains. Office equipment and supplies, computers and communications equipment posted the strongest increase, rising 6.3%, followed by other personal and household goods (+1.4%) and fuels and lubricants (+1.1%). Pharmaceutical, medical, orthopedic and perfumery products rose 0.7%, fabrics, apparel and footwear increased 0.6%, and books, newspapers, magazines and stationery edged up 0.2%. In contrast, furniture and household appliances fell 4.2%, while hypermarkets, supermarkets, food, beverages and tobacco declined 0.3%. Extended retail sales, which include vehicles, motorcycles, parts and accessories, construction materials, and specialized wholesale trade in food, beverages and tobacco, fell 0.2%. Year-over-year, retail sales rose 0.4%, slowing from a 1.3% increase in July."
-    },
-    {
-      "id": "te:markets:592358",
-      "time": "2026-10-15 19:33:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Charles Schwab earnings above expectations at 1.69 USD — Charles Schwab (SCHW) released earnings per share at 1.69 USD, compared to market expectations of 1.61 USD."
-    },
-    {
-      "id": "te:markets:592356",
-      "time": "2026-10-15 19:31:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Hold Mixed Momentum — Futures tracking US equities extended their mixed momentum this week as pressure on AI infrastructure offset resilience elsewhere. Contracts for the S&P 500 dropped 0.3%, and those for the Nasdaq 100 fell 1.3%. Chip producers and AI hyperscalers sank further after Anthropic disclosed third-quarter sales figures that slowed from the pace earlier this year and missed most estimates, reinforcing skepticism that soaring expenditure in the sector may not translate into returns. Micron, Intel, AMD, and Marvell dropped over 4% premarket, while Seagate and Western Digital tumbled 6%. The Nasdaq 100 was poised to decline for the sixth session in the last seven. Producer prices are expected to have risen sharply in September, aligning with current expectations of another Fed rate hike this year. The Dow edged higher as a rally in Treasuries as markets pivoted from speculative assets into lower-risk alternatives. Walmart added 2.6% and Eli Lilly gained 2%."
     }
   ]
 }
