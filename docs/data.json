@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-23 03:44:13",
-  "count": 13305,
+  "updated": "2026-10-23 03:48:00",
+  "count": 13298,
   "items": [
+    {
+      "id": "5162584",
+      "time": "2026-10-23 03:45:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：美國的銀行正在阻止第三方AI代理訪問客戶賬戶】據兩位知情人士透露，在美國主要銀行有報道稱人工智慧（AI）代理正在訪問銀行賬戶並獨立於使用者指令採取行動後，這些銀行正在阻止第三方 人工智慧代理在 客戶賬戶內操作並進行交易。銀行業越來越擔心，功能強大的AI代理可能會損害銀行體系以及受託保管民眾財富的金融機構。有知情人士稱，部分 AI代理試圖採取 看似獨立於使用者指令的操作。"
+    },
     {
       "id": "mkt:01a16522-827c-7ee0-a94e-c498e23c4d06",
       "time": "2026-10-23 03:42:02",
@@ -120681,83 +120689,6 @@
         "焦點"
       ],
       "text": "現貨黃金突破4170美元/盎司，日內漲1.59%。"
-    },
-    {
-      "id": "te:markets:592510",
-      "time": "2026-10-16 03:46:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Rises as Middle East Tensions Escalate — Brent crude rose near $106 a barrel on Thursday amid mounting supply risks in the Middle East. Attacks on commercial vessels in the Strait of Hormuz sank a Singapore-flagged container ship, pushing tanker rates in the Persian Gulf to record highs. The US military has reportedly drawn up plans for new strikes on Iran, potentially involving the MOAB, the largest non-nuclear explosive device in the US arsenal. Iran said it was “counting the moments” until it could strike US warships. Prices were also supported by an 8-million-barrel US inventory draw in the week ended October 9th. The IEA warned that tight diesel markets could persist into next year, while attacks on Saudi Arabia threatened to disrupt the recovery in oil supply. Meanwhile, the US is reportedly considering easing sanctions on “shadow fleet” vessels transporting Russian oil and petroleum products to help ease global supply pressures."
-    },
-    {
-      "id": "mkt:01a14119-2c5d-7ee0-a8a7-70bd4055682f",
-      "time": "2026-10-16 03:45:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold hit a daily high, breaking above $4,170/oz, up 1.6% intraday."
-    },
-    {
-      "id": "te:markets:592509",
-      "time": "2026-10-16 03:45:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Gains on Renewed Supply Disruptions — Crude oil rose near $98 a barrel on Thursday amid mounting supply risks in the Middle East. Attacks on commercial vessels in the Strait of Hormuz sank a Singapore-flagged container ship, pushing tanker rates in the Persian Gulf to record highs. The US military has reportedly drawn up plans for new strikes on Iran, potentially involving the MOAB, the largest non-nuclear explosive device in the US arsenal. Iran said it was “counting the moments” until it could strike US warships. Prices were also supported by an 8-million-barrel US inventory draw in the week ended October 9th. The IEA warned that tight diesel markets could persist into next year, while attacks on Saudi Arabia threatened to disrupt the recovery in oil supply. Meanwhile, the US is reportedly considering easing sanctions on “shadow fleet” vessels transporting Russian oil and petroleum products to help ease global supply pressures."
-    },
-    {
-      "id": "5148385",
-      "time": "2026-10-16 03:44:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內漲2%，現報4191.20美元/盎司。"
-    },
-    {
-      "id": "5148384",
-      "time": "2026-10-16 03:44:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4190美元/盎司，日內漲2.03%。"
-    },
-    {
-      "id": "5148383",
-      "time": "2026-10-16 03:44:50",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【印度共同基金限制重點黃金ETF產品資金流入】印度部分主要資產管理公司宣佈，限制投資者申購黃金交易所交易基金及相關基金中基金產品。包括塔塔共同基金、ICICI保誠資管、HDFC共同基金、阿迪提亞·比拉太陽生命資管和DSP在內的至少六家公司，在週四晚間分別提交檔案，公佈了上述限制措施。儘管這些資產管理公司未說明做出該決定的原因，但市場普遍認為，此舉背景是印度本幣走弱，以及投資者透過ETF配置貴金屬的需求持續強勁。根據一份宣告，塔塔共同基金自10月16日起對其黃金ETF旗下基金中基金產品的大額申購實施臨時限制；該公司表示：“此次暫停具有臨時性質，僅持續至另行通知為止。”"
-    },
-    {
-      "id": "5148382",
-      "time": "2026-10-16 03:44:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲3%，現報57.56美元/盎司。"
-    },
-    {
-      "id": "5148381",
-      "time": "2026-10-16 03:44:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯總統稱已與委內瑞拉代總統羅德里格斯通電話。"
     }
   ]
 }
