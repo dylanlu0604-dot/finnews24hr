@@ -1,7 +1,224 @@
 {
   "date": "2026-10-22",
-  "count": 1344,
+  "count": 1369,
   "items": [
+    {
+      "id": "5160668",
+      "time": "2026-10-22 14:32:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行：中東緊張局勢再度升溫，推動全球油價走高。"
+    },
+    {
+      "id": "5160667",
+      "time": "2026-10-22 14:32:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行官員：人民幣有望在印尼經濟中發揮更廣泛作用。"
+    },
+    {
+      "id": "5160666",
+      "time": "2026-10-22 14:32:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行：通脹上行風險已經顯現。"
+    },
+    {
+      "id": "5160665",
+      "time": "2026-10-22 14:32:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行：已認識到需要採取強有力的貨幣政策應對措施，以應對不斷擴大的價格壓力。"
+    },
+    {
+      "id": "5160664",
+      "time": "2026-10-22 14:31:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行：預計未來幾個月通脹將進一步加速。"
+    },
+    {
+      "id": "mkt:01a1624f-2bb6-7ee0-a93c-7ace69cc04a1",
+      "time": "2026-10-22 14:31:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan, South Korea stocks close lower; KOSPI down 3.52%】Oct 22 — South Korea's KOSPI closed down 201.9 points (-3.52%) at 5,533.76; SK Hynix -5.48%, Samsung Electronics -4.02%. Japan's Nikkei 225 closed down 1,713.40 points (-2.65%) at 62,907.84."
+    },
+    {
+      "id": "5160663",
+      "time": "2026-10-22 14:31:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行：在財政措施的支援下，國內經濟活動預計將復甦。"
+    },
+    {
+      "id": "5160662",
+      "time": "2026-10-22 14:31:20",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際",
+        "原創"
+      ],
+      "text": "【韓國央行：預計明年起晶片出口強勁勢頭將傳導至私人消費領域】韓國央行週四釋出的一份報告顯示，受全球對AI基礎設施需求增長的推動，韓國半導體出口呈現爆發式增長；預計從明年開始，這將對私人消費產生更為顯著的提振作用。報告列出了四個有助於將半導體行業繁榮轉化為更強勁私人消費的因素：大型企業發放的績效獎金、向股東支付的股息、政府對家庭轉移支付規模的擴大，以及隨著韓元走強而帶來的家庭實際購買力提升。報告稱，隨著半導體行業繁榮帶來的積極效應持續向整個經濟領域傳導，並延續至明年，私人消費的復甦“預計將逐步擴大”。"
+    },
+    {
+      "id": "5160661",
+      "time": "2026-10-22 14:31:10",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市低收 韓股跌超4%】韓國KOSPI指數收盤下跌201.9點，跌幅3.52%，報5533.76點。SK海力士跌5.48%，三星電子跌4.02%。日經225指數收盤下跌1713.40點，跌幅2.65%，報62907.84點。"
+    },
+    {
+      "id": "te:economy:594080",
+      "time": "2026-10-22 14:31:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "Norway Jobless Rate Rises to 13-Month High — Norway's seasonally adjusted unemployment rate rose to 5.0% in September 2026 from 4.6% in the previous month, marking the highest level since June 2025. The number of unemployed persons increased to a fifteen-month high of 156 thousand from 141 thousand in August. The youth unemployment rate, which covers those aged 15 to 24, climbed to 16.7% from 14.2%. Meanwhile, the employment rate remained unchanged at 69.8% in September, while the number of employed persons edged higher to 2.930 million from 2.925 million. The labor force participation rate rose to 73.5% from 73.1%, with the labor force increasing by 21 thousand from a month earlier to 3.086 million. Total man-weeks worked, adjusted to a 37.5-hour workweek, decreased to 2.187 million from 2.239 million in the previous period. Compared with September last year, the jobless rate was 0.3 percentage points lower at 4.7%."
+    },
+    {
+      "id": "5160660",
+      "time": "2026-10-22 14:30:54",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "軟銀集團市值較6月峰值縮水一半。"
+    },
+    {
+      "id": "mkt:01a1624e-213c-7ee0-a93c-762404cd4be1",
+      "time": "2026-10-22 14:30:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine central bank unexpectedly raised its policy rate by 50bps to 5.5%."
+    },
+    {
+      "id": "5160659",
+      "time": "2026-10-22 14:30:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊再度走低，新華都觸及跌停】文化傳媒板塊再度走低，新華都觸及跌停，新經典、內蒙新華、粵傳媒、引力傳媒跌幅居前。"
+    },
+    {
+      "id": "5160658",
+      "time": "2026-10-22 14:30:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國海洋能累計裝機容量達12.3兆瓦】今天（10月22日），自然資源部、國家能源局聯合釋出的《中國海洋能開發利用報告2026》顯示，我國海洋能累計裝機容量達到12.3兆瓦。《報告》顯示，“十四五”以來，我國海洋能示範應用規模穩步擴大，累計裝機容量達到12.3兆瓦，其中，新增裝機容量超3.3兆瓦，佔全球新增裝機30%以上。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1624d-ac6b-7ee0-a93c-6e444b04395f",
+      "time": "2026-10-22 14:30:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Philippine central bank policy rate 5.50% as of Oct. 22; market expected 5.25%, prior 5.00% — up 50bps from prior and 25bps above expectations."
+    },
+    {
+      "id": "te:markets:594079",
+      "time": "2026-10-22 14:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 2.60% Lower — The Nikkei 225 Index dropped 1679 points or 2.60 percent on Thursday to close at 62942 points. Losses were led by Resonac Holdings (-11.06%), Screen Holdings (-8.44%) and Sumco (-7.73%)."
+    },
+    {
+      "id": "5160657",
+      "time": "2026-10-22 14:30:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行關鍵利率上調50基點至5.500%; 預估為5.250%。"
+    },
+    {
+      "id": "mkt:01a1624d-7972-7ee0-a93c-60d868bd60ba",
+      "time": "2026-10-22 14:30:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Philippines | BSP Interest Rate Decision (Oct.22) | actual 5.5% | consensus 5.25% | previous 5.00%"
+    },
+    {
+      "id": "5160656",
+      "time": "2026-10-22 14:30:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行將2027年BANKINTER最低CET1資本充足率設定為9.06%，總資本充足率為13.26%。"
+    },
+    {
+      "id": "5160655",
+      "time": "2026-10-22 14:29:58",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行將2027年銀行間債券價格指數（P2R）從1.50%上調至1.60%。"
+    },
+    {
+      "id": "5160654",
+      "time": "2026-10-22 14:29:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "交易員：愛馬仕第三季度營收不及預期，預計股價將下跌2%-3%。"
+    },
+    {
+      "id": "5160653",
+      "time": "2026-10-22 14:29:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國軟體公司Palantir試圖向歐洲方面保證，其提供給北約使用的軍事人工智慧系統並不具備“緊急開關”（kill switch）。此前，烏克蘭“星鏈”服務出現中斷，加劇了人們對於過度依賴美國科技公司的擔憂。"
+    },
+    {
+      "id": "5160652",
+      "time": "2026-10-22 14:28:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西貝退出天邊燜面60%股權 知情人士：正常經營行為，系激勵放權】10月21日，天眼查App顯示，內蒙古天邊的燜面餐飲有限公司（以下簡稱天邊燜面）近日發生工商變更，西貝旗下天邊品牌管理（北京）有限公司退出股東行列，退出前持股比例為60%。天邊燜面成立於今年4月，註冊資本100萬元，法定代表人為秦勇軍。針對此次變更，10月22日，一位接近西貝的知情人士向記者透露，這是正常的門店股東調整，屬於正常經營行為。該門店原採用內部合夥人制，總部持股60%、秦勇軍持股40%。此次調整旨在激勵秦勇軍承包經營，總部將所持60%股份全部轉讓給其本人，使其實現全資持股。該人士表示，本次股權變更完成後門店仍將繼續運營；餐飲品類探索本身具備複雜性，在探索過程中出現部分門店調整關停屬於行業常態，會持續保障所有在營門店的產品與服務品質，不希望被外界過度解讀。（每經）"
+    },
     {
       "id": "5160651",
       "time": "2026-10-22 14:28:17",
@@ -44,6 +261,15 @@
       "text": "USD/JPY fell intraday to 157.11, a three-week low."
     },
     {
+      "id": "5160649",
+      "time": "2026-10-22 14:27:28",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利：中東原油出口接近戰前水平】包括Martijn Rats在內的分析師週三在報告中稱，上週中東原油出口初步估算為每日1700萬桶（含霍爾木茲以外通道），約為戰前水平的94%。沙特紅海裝油規模達到每日300萬桶，東西輸油管道持續輸送，其中約75%的油量向北輸送至地中海。該統計僅包含原油。Vortexa資料顯示成品油流通量僅恢復至正常水平的50%。霍爾木茲海峽的外運油輪（含液化天然氣、液化石油氣）七日均值為每日8艘，與前一週持平。10月14日有16艘船舶駛出海峽。波斯灣內浮艙儲油減少1500萬桶，降至1.65億桶，體現海灣地區油輪持續大量外運。"
+    },
+    {
       "id": "mkt:01a1624a-aeed-7ee0-a93c-4c6f2c411219",
       "time": "2026-10-22 14:27:03",
       "tags": [
@@ -52,6 +278,14 @@
         "Greater China"
       ],
       "text": "【eBay denies 80% China layoff claim; says global reduction affects 9% and it remains in China】eBay denied market reports that it cut 80% of staff in China, calling the figure speculative. The company said a global workforce adjustment announced yesterday includes China and that the CEO indicated the reduction impacts about 9% of employees worldwide. eBay said it has not closed its China R&D center, has not exited the Chinese market, and seller-facing activities continue; it plans an annual auto-parts seller event in December."
+    },
+    {
+      "id": "5160648",
+      "time": "2026-10-22 14:26:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國電信入股合肥市數算科技公司】天眼查App顯示，近日，合肥市數算科技有限公司發生工商變更，新增中國電信股份有限公司為股東，同時，註冊資本由2000萬元人民幣增至約70.5億元人民幣，增幅約35172%。該公司成立於2024年2月，法定代表人為張雲蕾，經營範圍含雲端計算裝備技術服務、人工智慧公共資料平臺、量子計算技術服務、智慧控制系統整合等，現由合肥市大資料資產運營有限公司及上述新增股東共同持股。"
     },
     {
       "id": "5160647",
