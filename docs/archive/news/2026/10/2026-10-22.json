@@ -1,7 +1,82 @@
 {
   "date": "2026-10-22",
-  "count": 1275,
+  "count": 1283,
   "items": [
+    {
+      "id": "5160614",
+      "time": "2026-10-22 14:03:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：預估2027年伺服器CPU出貨年增破40%，Arm-Based產品市佔持續擴大】根據TrendForce集邦諮詢最新AI伺服器產業研究，隨著各AI服務廠商積極推出AI Agent相關應用，伺服器CPU需求自2025年下半年起穩步成長，預估2026年出貨年增幅將達31%。2027年由於AI推理需求持續成長、Agentic AI服務滲透率提升，伺服器CPU出貨量有望再年增逾40%，不過以x86陣營主導的市場格局可能出現變化。"
+    },
+    {
+      "id": "5160613",
+      "time": "2026-10-22 14:03:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達60億港元。"
+    },
+    {
+      "id": "mkt:01a16234-a9b6-7ee0-a93b-bbc18a71e275",
+      "time": "2026-10-22 14:03:00",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "IMF: 'Very high uncertainty' clouds the economic outlook."
+    },
+    {
+      "id": "mkt:01a16234-44aa-7ee0-a93b-b5632e92f3ae",
+      "time": "2026-10-22 14:02:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IMF: Further disruption to energy production or trade routes could push up energy prices, weaken economic growth and intensify inflationary pressures."
+    },
+    {
+      "id": "mkt:01a16234-2559-7ee0-a93b-aea0c9f9ebed",
+      "time": "2026-10-22 14:02:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF projects economic growth in the Caucasus and Central Asia at 5.2% in 2026, slowing to 5.0% in 2027."
+    },
+    {
+      "id": "5160612",
+      "time": "2026-10-22 14:02:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：預測中東、北非及巴基斯坦地區經濟在2026年將萎縮1.3%，2027年則將反彈，實現6.6%的增長。預計高加索和中亞地區2026年經濟增長率為5.2%，2027年將放緩至5%。"
+    },
+    {
+      "id": "mkt:01a16233-cd32-7ee0-a93b-a7ac8bc1ee57",
+      "time": "2026-10-22 14:02:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "International Monetary Fund forecasts the economies of the Middle East, North Africa and Pakistan will contract 1.3% in 2026, then rebound to 6.6% growth in 2027."
+    },
+    {
+      "id": "5160611",
+      "time": "2026-10-22 14:01:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦推出英偉達Vera CPU機架，這是一款搭載256顆CPU、採用100%液冷設計的機架級解決方案，可與英偉達Vera Rubin平臺配套使用，支援大規模智慧體人工智慧應用。"
+    },
     {
       "id": "mkt:01a16233-5dd8-7ee0-a93b-9aadecc8fbfb",
       "time": "2026-10-22 14:01:35",
