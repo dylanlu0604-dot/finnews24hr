@@ -1,7 +1,96 @@
 {
   "date": "2026-10-22",
-  "count": 1397,
+  "count": 1407,
   "items": [
+    {
+      "id": "5160690",
+      "time": "2026-10-22 14:43:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特方面稱達曼機場已恢復運營。"
+    },
+    {
+      "id": "mkt:01a16259-4246-7ee0-a93c-d8f821753edc",
+      "time": "2026-10-22 14:42:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Philippine benchmark stock index fell 1.1% after the central bank raised its policy rate by 50bps."
+    },
+    {
+      "id": "te:markets:594089",
+      "time": "2026-10-22 14:42:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Mexican Peso Hits 1-Year Low — The Mexican peso weakened to around 18.78 per US dollar in October, reaching its weakest level in nearly a year as a narrowing interest-rate differential with the US, geopolitical uncertainty and stalled USMCA negotiations weighed on sentiment. Expectations of further easing by the Bank of Mexico, alongside the Federal Reserve's September rate hike, have reduced the peso's yield advantage and encouraged investors to unwind carry trades. Meanwhile, uncertainty surrounding the Middle East conflict has dampened risk appetite, while limited progress in the US-Mexico-Canada Agreement review has clouded the trade outlook. Investors are now awaiting Mexico's first-half October inflation data, with headline inflation expected to accelerate for a third consecutive period to 3.60% year-on-year from 3.49%, potentially reinforcing expectations that Banxico will keep interest rates unchanged for an extended period."
+    },
+    {
+      "id": "5160689",
+      "time": "2026-10-22 14:42:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓基準股票指數<.PSI>下跌1.1%，至5,755.07點。"
+    },
+    {
+      "id": "5160688",
+      "time": "2026-10-22 14:42:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【跨境支付板塊尾盤跳水，零點有數跌超10%】跨境支付板塊尾盤跳水，零點有數跌超10%，仁東控股跌超8%，楚天龍、易點天下、吉大正元紛紛下挫。"
+    },
+    {
+      "id": "mkt:01a16257-f731-7ee0-a93c-d6dae98fc9e8",
+      "time": "2026-10-22 14:41:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil aviation authority said an attack on Dammam on Wednesday killed two people."
+    },
+    {
+      "id": "5160687",
+      "time": "2026-10-22 14:41:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【伊拉克擬租用油輪，在霍爾木茲海峽以外運輸燃料油】伊拉克油輪公司刊登檔案稱，伊拉克週四釋出招標，擬租用多艘油輪，將本國燃料油從領海運出霍爾木茲海峽。油輪型別：機動中程油輪、蘇伊士型油輪、超大型油輪（VLCC）。油輪數量視實際需求確定。租期90天，經雙方同意可續期。投標截止日期為10月27日。"
+    },
+    {
+      "id": "5160686",
+      "time": "2026-10-22 14:40:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾基亞執行長：由於供應受限，成本正在上升，我們正在解決這個問題。"
+    },
+    {
+      "id": "5160685",
+      "time": "2026-10-22 14:40:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼東爪哇省塞梅魯火山發生噴發】據印尼火山地質減災中心訊息，當地時間10月22日13時19分，位於印尼東爪哇省的塞梅魯火山發生噴發，火山灰柱高約500米，噴發持續時間約為104秒。印尼火山地質減災中心提醒當地民眾和遊客不要進入火山口半徑5公里範圍，火山口東南方向13公里範圍內禁止一切活動，並警惕火山碎屑流、熔岩崩塌和火山泥石流等風險。（央視新聞）"
+    },
+    {
+      "id": "5160684",
+      "time": "2026-10-22 14:40:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報告：東南亞AI滲透率走高，生成式AI使用者達2.43億】谷歌、淡馬錫、貝恩聯合釋出《東南亞數字經濟報告》顯示，不到三年東南亞生成式AI使用者達2.43億，覆蓋當地58%勞動人口，普及速度是移動網際網路的4倍，但僅1%-2%使用者願意付費訂閱個人AI服務，AI商業化更多依靠企業端落地變現。東南亞消費者對AI接受度高，調查顯示75%的消費者願意交由AI代理比價下單，62%的消費者對AI工具的信任度較去年提升。不過人均AI使用強度僅為美國的10%。同樣AI在企業端的收益也已經顯現：報告顯示，AI可拉高電商轉化率、客單價，Shopee藉助AI客服承接80%諮詢，單客對接成本下降30%，AI廣告投放也顯著帶動點選率與轉化。報告預測，今年東南亞數字經濟GMV同比增17%至3680億美元，2035年有望突破1萬億美元。線上旅遊、數字媒體、網約車外賣等賽道也將保持穩健增長。"
+    },
     {
       "id": "5160683",
       "time": "2026-10-22 14:40:19",
