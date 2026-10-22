@@ -1,7 +1,124 @@
 {
   "date": "2026-10-22",
-  "count": 735,
+  "count": 748,
   "items": [
+    {
+      "id": "5159647",
+      "time": "2026-10-22 09:29:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫斯科市長稱，夜間有630架無人機向莫斯科方向飛來，大部分已被擊落。"
+    },
+    {
+      "id": "mkt:01a16138-e554-7ee0-a935-0f20e9c032a2",
+      "time": "2026-10-22 09:28:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000001.SS",
+        "Impact bullish",
+        "000300.SS",
+        "Impact bearish"
+      ],
+      "text": "On Oct 22, China's Shanghai Composite Index opened up 1.45 pts (0.04%) at 3714.48; Shenzhen Composite opened down 14.02 pts (0.12%) at 11690.34; CSI 300 Index opened down 1.28 pts (0.03%) at 4110.65; ChiNext Index opened down 6.77 pts (0.25%) at 2687.94; STAR 50 Index opened up 3.68 pts (0.27%) at 1346.96."
+    },
+    {
+      "id": "mkt:01a16138-de5f-7ee0-a935-068c995bdfdb",
+      "time": "2026-10-22 09:27:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Malaysia's Ministry of Minerals and Geoscience said it has approved the export of a consignment of unprocessed rare earth elements."
+    },
+    {
+      "id": "5159646",
+      "time": "2026-10-22 09:27:32",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "韓元兌美元在韓國央行維持利率不變後基本持平。"
+    },
+    {
+      "id": "mkt:01a16138-6dc9-7ee0-a934-fbf46232b568",
+      "time": "2026-10-22 09:27:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【19th China-EU Investment, Trade and Technology Cooperation Fair opens in Chengdu】The 19th China-EU Investment, Trade and Technology Cooperation Fair opened in Chengdu on the 22nd, featuring 14 thematic sessions focused on new energy and environmental protection, biopharma, agri-food, intelligent robotics, frontier technologies and vocational education to broaden China‑EU cooperation and investment opportunities."
+    },
+    {
+      "id": "mkt:01a16138-4dba-7ee0-a934-f44ba8345f02",
+      "time": "2026-10-22 09:27:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Shares of Tongze Kangwei surged 190.18% on their market debut. Public filings show the company designs, develops, manufactures and sells proprietary-series broadband connectivity terminal devices."
+    },
+    {
+      "id": "5159645",
+      "time": "2026-10-22 09:27:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "N通則康威上市首日開漲190.18%，公開資料顯示，通則康威主要從事自主型號系列寬頻連線終端裝置的設計、研發、生產和銷售。"
+    },
+    {
+      "id": "5159644",
+      "time": "2026-10-22 09:27:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【第十九屆歐洽會今天在成都開幕】今天（22日），由中國國際商會、中國歐盟商會主辦的第十九屆中國-歐盟投資貿易科技合作洽談會（歐洽會）在成都開幕。本屆歐洽會以“對話合作 互利共贏”為主題。設定包括14場主題交流在內的多場活動，圍繞新能源及環保、生物醫藥、農業食品、智慧機器人、前沿技術、職業教育等重點領域，全方位拓展中歐合作新機遇、新空間。"
+    },
+    {
+      "id": "5159643",
+      "time": "2026-10-22 09:26:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股資料安全板塊高開，星光股份、海量資料、天融信漲停，盛邦安全、綠盟科技、光庭資訊、中新賽克等跟漲。"
+    },
+    {
+      "id": "mkt:01a16137-aada-7ee0-a934-ea29f37fcae5",
+      "time": "2026-10-22 09:26:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Malaysian Palm Oil Council (MPOC) said stronger export demand and seasonal production declines should keep November crude palm oil (CPO) prices above 4,600 Ringgit/tonne. MPOC expects Malaysian palm oil inventories to trend lower from November 2026 through February 2027."
+    },
+    {
+      "id": "mkt:01a16137-a174-7ee0-a934-e3c4c78d865e",
+      "time": "2026-10-22 09:26:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share data-security sector opened higher after reports of a serious PHP security vulnerability. Xingguang, Hailiang Data and Topsec hit daily trading limits; Shengbang Security, NSFOCUS, Guangting Information and Zhongxin Saike also advanced."
+    },
+    {
+      "id": "5159642",
+      "time": "2026-10-22 09:25:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報3142.00元。"
+    },
     {
       "id": "5159641",
       "time": "2026-10-22 09:25:31",
@@ -118,6 +235,15 @@
         "市場"
       ],
       "text": "【寧德時代港股低開3.29%】寧德時代港股低開3.29%，上個交易日收跌超11%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202610223903534711",
+      "time": "2026-10-22 09:22:39",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行公告，根據公開市場業務一級交易商的需求，2026年10月22日7天期逆回購操作量為零。同時，開展了1730億元隔夜逆回購操作。"
     },
     {
       "id": "mkt:01a16133-a413-7ee0-a934-b99721c8b391",
