@@ -1,7 +1,145 @@
 {
   "date": "2026-10-22",
-  "count": 1225,
+  "count": 1240,
   "items": [
+    {
+      "id": "mkt:01a16224-c78d-7ee0-a93b-500331e2afdb",
+      "time": "2026-10-22 13:45:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Musk warns Democrats he will retaliate if they investigate him or his companies】Elon Musk vowed to retaliate if Democrats, having won control of one or both chambers of the U.S. Congress, use oversight to investigate him or his businesses. He was responding to a report that Democrats are considering probes into him and firms including Tesla (TSLA.O) and SpaceX (SPCX.O). On his social platform he wrote: “He who lives by the sword will die by the sword.” He added those who target him should expect him to expose and pursue the real operators behind them, not merely their proxies. Musk has been a major Republican donor and has worked with the Trump administration through an initiative he called the Department of Government Efficiency (DOGE). His companies’ commercial ties with the federal government could face scrutiny if Democrats secure congressional majorities."
+    },
+    {
+      "id": "mkt:01a16224-b4e2-7ee0-a93b-4959270b9f3e",
+      "time": "2026-10-22 13:45:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "New York silver futures slid 3.00% intraday, trading at $55.97/oz."
+    },
+    {
+      "id": "5160585",
+      "time": "2026-10-22 13:45:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4070美元/盎司，日內跌1.72%。"
+    },
+    {
+      "id": "5160584",
+      "time": "2026-10-22 13:45:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "滙豐將歐洲能源股評級上調至中性。"
+    },
+    {
+      "id": "5160583",
+      "time": "2026-10-22 13:45:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報55.97美元/盎司。"
+    },
+    {
+      "id": "5160582",
+      "time": "2026-10-22 13:45:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "資料顯示，9月份印度從俄羅斯進口的石油較8月份下降13.7%。"
+    },
+    {
+      "id": "5160581",
+      "time": "2026-10-22 13:44:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "羅氏執行長：在德國的投資暫緩。"
+    },
+    {
+      "id": "5160580",
+      "time": "2026-10-22 13:44:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守56美元/盎司，日內跌2.96%。"
+    },
+    {
+      "id": "5160579",
+      "time": "2026-10-22 13:44:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4090美元/盎司，日內跌1.45%。"
+    },
+    {
+      "id": "5160578",
+      "time": "2026-10-22 13:44:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以防長說伊朗若襲擊以色列將滅了伊朗】10月21日，以色列國防部長卡茨表示，以色列安全部門發現伊朗正企圖對以色列發動襲擊，而這可能會影響以色列選舉的結果。卡茨說，當前伊朗政權正處於“有史以來最薄弱的時刻”，而這種虛弱可能會促使其採取極端的冒險行動，比如針對以色列發動襲擊。他警告伊朗稱，如果伊朗攻擊以色列，伊朗必將遭到毀滅。此外，卡茨重申以色列國防軍和各安全部門將持續保持高度戒備，在所有必要區域採取行動以捍衛國家安全。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a16223-5d5c-7ee0-a93b-42263bec6104",
+      "time": "2026-10-22 13:44:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "00568.HK",
+        "Impact bullish",
+        "02178.HK"
+      ],
+      "text": "Hong Kong-listed oil and gas equipment and services sector rallied, with Shandong Molong (00568.HK) up more than 8% and Baiqin Oilfield Services (02178.HK) up 7.4%."
+    },
+    {
+      "id": "mkt:01a16221-f13b-7ee0-a93b-3e7931b9a333",
+      "time": "2026-10-22 13:42:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share grain sector weakened in the afternoon; Jinjian Miye hit the daily limit down, Wanxiang Denong fell more than 8%, and Dunhuang Seed, Shennong Seed and Xinsai Co. also declined."
+    },
+    {
+      "id": "5160577",
+      "time": "2026-10-22 13:42:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達50億港元。"
+    },
+    {
+      "id": "5160576",
+      "time": "2026-10-22 13:42:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【糧食概念午後走弱，金健米業觸及跌停】糧食概念午後走弱，金健米業觸及跌停，萬向德農跌超8%，敦煌種業、神農種業、新賽股份跟跌。"
+    },
+    {
+      "id": "5160575",
+      "time": "2026-10-22 13:41:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4080美元/盎司，日內跌1.48%。"
+    },
     {
       "id": "mkt:01a16220-f078-7ee0-a93b-35e4b6c2639c",
       "time": "2026-10-22 13:41:28",
