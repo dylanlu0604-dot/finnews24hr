@@ -1,7 +1,86 @@
 {
   "date": "2026-10-22",
-  "count": 2384,
+  "count": 2393,
   "items": [
+    {
+      "id": "mkt:01a1644e-66c1-7ee0-a94b-e319bcd0dfcc",
+      "time": "2026-10-22 23:50:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HSBC cuts its 2026 average palladium price forecast to $1,436/oz from $1,546/oz; 2027 forecast unchanged at $1,595/oz."
+    },
+    {
+      "id": "mkt:01a1644e-1d59-7ee0-a94b-db7bb43d5cf5",
+      "time": "2026-10-22 23:50:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【DeepSeek and MiniMax complete registration, open-sourcing and overseas licensing】China's Ministry of Commerce (MOFCOM) and Ministry of Science and Technology on Oct. 16 launched a public consultation on revisions to the Catalogue of Technologies Prohibited or Restricted for Export, listing 23 AI-related items including large models, intelligent agents, compute clusters and information-processing technologies. Since the announcement, leading AI firms DeepSeek and MiniMax have completed registration and proceeded with open-source releases and overseas licensing. Some market participants have questioned whether the move signals a shift from China's prior emphasis on technology openness."
+    },
+    {
+      "id": "mkt:01a1644d-9f26-7ee0-a94b-d2ff55c23648",
+      "time": "2026-10-22 23:49:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude 3.0 earthquake at 23:37 on Oct 22 in Zaduo County, Yushu Prefecture, Qinghai (32.52°N, 93.97°E); depth 10 km."
+    },
+    {
+      "id": "mkt:01a1644d-9419-7ee0-a94b-cb754a032512",
+      "time": "2026-10-22 23:49:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia said the danger to NAJRAN has passed."
+    },
+    {
+      "id": "mkt:01a1644c-fcd2-7ee0-a94b-c512ce4a101c",
+      "time": "2026-10-22 23:48:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "HSBC cut its 2026 average platinum price forecast to $1,925/oz; left the 2027 forecast unchanged at $2,195/oz."
+    },
+    {
+      "id": "5162141",
+      "time": "2026-10-22 23:48:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特稱奈季蘭的危險已解除。"
+    },
+    {
+      "id": "5162138",
+      "time": "2026-10-22 23:48:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬喜第三季度同店銷售額增長2.6%。"
+    },
+    {
+      "id": "mkt:01a1644b-a7bc-7ee0-a94b-bf709f514e76",
+      "time": "2026-10-22 23:47:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia issued a warning of a potential threat to Najran."
+    },
+    {
+      "id": "5162137",
+      "time": "2026-10-22 23:46:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英國時隔20年恢復大口徑火炮本土生產】當地時間10月22日，德國軍工企業萊茵金屬公司宣佈，位於英國什羅普郡特爾福德的新建大型武器製造工廠正式啟用。英國國防大臣韋斯·斯特里廷出席啟用儀式。這標誌著英國時隔約20年重新具備在本土生產大口徑火炮武器系統的能力。據萊茵金屬公司介紹，該工廠佔地約11500平方米，主要生產120毫米和155毫米口徑武器系統，包括英國陸軍“挑戰者3”主戰坦克使用的火炮，以及未來火炮平臺所需的武器系統。工廠達到最大產能後，每年可生產最多245根炮管和超過50套炮尾機構。（央視新聞）"
+    },
     {
       "id": "mkt:01a1644a-b268-7ee0-a94b-b7b9a9275f0d",
       "time": "2026-10-22 23:46:19",

@@ -1,7 +1,86 @@
 {
-  "updated": "2026-10-22 23:47:05",
-  "count": 13283,
+  "updated": "2026-10-22 23:51:22",
+  "count": 13288,
   "items": [
+    {
+      "id": "mkt:01a1644e-66c1-7ee0-a94b-e319bcd0dfcc",
+      "time": "2026-10-22 23:50:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HSBC cuts its 2026 average palladium price forecast to $1,436/oz from $1,546/oz; 2027 forecast unchanged at $1,595/oz."
+    },
+    {
+      "id": "mkt:01a1644e-1d59-7ee0-a94b-db7bb43d5cf5",
+      "time": "2026-10-22 23:50:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【DeepSeek and MiniMax complete registration, open-sourcing and overseas licensing】China's Ministry of Commerce (MOFCOM) and Ministry of Science and Technology on Oct. 16 launched a public consultation on revisions to the Catalogue of Technologies Prohibited or Restricted for Export, listing 23 AI-related items including large models, intelligent agents, compute clusters and information-processing technologies. Since the announcement, leading AI firms DeepSeek and MiniMax have completed registration and proceeded with open-source releases and overseas licensing. Some market participants have questioned whether the move signals a shift from China's prior emphasis on technology openness."
+    },
+    {
+      "id": "mkt:01a1644d-9f26-7ee0-a94b-d2ff55c23648",
+      "time": "2026-10-22 23:49:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude 3.0 earthquake at 23:37 on Oct 22 in Zaduo County, Yushu Prefecture, Qinghai (32.52°N, 93.97°E); depth 10 km."
+    },
+    {
+      "id": "mkt:01a1644d-9419-7ee0-a94b-cb754a032512",
+      "time": "2026-10-22 23:49:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia said the danger to NAJRAN has passed."
+    },
+    {
+      "id": "mkt:01a1644c-fcd2-7ee0-a94b-c512ce4a101c",
+      "time": "2026-10-22 23:48:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "HSBC cut its 2026 average platinum price forecast to $1,925/oz; left the 2027 forecast unchanged at $2,195/oz."
+    },
+    {
+      "id": "5162141",
+      "time": "2026-10-22 23:48:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特稱奈季蘭的危險已解除。"
+    },
+    {
+      "id": "5162138",
+      "time": "2026-10-22 23:48:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬喜第三季度同店銷售額增長2.6%。"
+    },
+    {
+      "id": "mkt:01a1644b-a7bc-7ee0-a94b-bf709f514e76",
+      "time": "2026-10-22 23:47:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia issued a warning of a potential threat to Najran."
+    },
+    {
+      "id": "5162137",
+      "time": "2026-10-22 23:46:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英國時隔20年恢復大口徑火炮本土生產】當地時間10月22日，德國軍工企業萊茵金屬公司宣佈，位於英國什羅普郡特爾福德的新建大型武器製造工廠正式啟用。英國國防大臣韋斯·斯特里廷出席啟用儀式。這標誌著英國時隔約20年重新具備在本土生產大口徑火炮武器系統的能力。據萊茵金屬公司介紹，該工廠佔地約11500平方米，主要生產120毫米和155毫米口徑武器系統，包括英國陸軍“挑戰者3”主戰坦克使用的火炮，以及未來火炮平臺所需的武器系統。工廠達到最大產能後，每年可生產最多245根炮管和超過50套炮尾機構。（央視新聞）"
+    },
     {
       "id": "mkt:01a1644a-b268-7ee0-a94b-b7b9a9275f0d",
       "time": "2026-10-22 23:46:19",
@@ -120533,38 +120612,6 @@
         "Importance 1"
       ],
       "text": "Brazil’s 10-Year Yield Rises on Political Risks — Brazil’s 10-year government bond yield rose to around 12.94%, up from the two-year low of 12.60% reached on October 5th, as bonds came under pressure amid a narrowing lead for Flávio Bolsonaro over President Lula in runoff polls. Recent surveys reinforced the perception that the incumbent has gained momentum in recent days, prompting investors to reprice risk premiums across the yield curve. Although Flávio Bolsonaro has yet to present detailed policy plans, investors view him as more likely to pursue fiscal reforms, including spending cuts, which are seen as essential to lowering interest rates. Questions also remain about the fiscal discipline of a potential Flávio administration. Political pressure has already prompted the candidate to change his position and support ending the six-days-on, one-day-off work schedule, which the Senate approved yesterday. In addition, the amendment’s approval is also being viewed as a political victory for Lula’s government."
-    },
-    {
-      "id": "5148142",
-      "time": "2026-10-15 23:50:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普擬撤換蘇茜・懷爾斯：“她得罪了很多人”】據報道，美國總統特朗普一直在致電好友與盟友，詢問是否應當解僱任職時間最長的白宮幕僚長蘇茜・懷爾斯，為白宮權力最高位置換上新人。四名瞭解總統談話內容的訊息人士表示，特朗普已經在物色懷爾斯的繼任人選。懷爾斯是佛羅里達州資深政治操盤手，也是首位擔任白宮幕僚長的女性。報道稱，不少人都勸特朗普把這位忠心幕僚換掉。一名共和黨政治人士表示，懷爾斯執掌特朗普政府期間，“得罪了很多人”。一名總統徵詢過意見的共和黨民選官員稱，特朗普考慮提拔副幕僚長斯蒂芬・米勒，或是聘請紐約洋基隊高管蘭迪・萊文出任首席幕僚主持政務。"
-    },
-    {
-      "id": "5148141",
-      "time": "2026-10-15 23:49:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門總理：胡塞武裝轟炸馬希格宮，是針對民用基礎設施的延伸，企圖破壞國家機構。"
-    },
-    {
-      "id": "5148140",
-      "time": "2026-10-15 23:49:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國向烏克蘭提供更多風暴之影導彈】據彭博社10月15日援引知情人士訊息報道，英國正向烏克蘭追加提供遠端“風暴之影”巡航導彈。烏克蘭總統澤連斯基10月14日在倫敦會見了英國首相伯納姆。在烏克蘭與美國政府關係近期惡化的背景下，英國重申對基輔的支援，並宣佈了進一步的軍事援助。 （CCTV國際時訊）"
-    },
-    {
-      "id": "5148139",
-      "time": "2026-10-15 23:48:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本記者涉間諜活動在俄被捕 俄方駁回日方交涉】俄羅斯駐日本大使館15日在官網釋出訊息說，俄羅斯駐日本大使尼古拉·諾茲德廖夫14日在東京同日本外務省歐洲局長中村仁威舉行會談，駁回日方就一名日本記者因涉嫌間諜活動在俄羅斯被捕一事提出的交涉。（新華社）"
     }
   ]
 }
