@@ -1,7 +1,52 @@
 {
   "date": "2026-10-22",
-  "count": 670,
+  "count": 675,
   "items": [
+    {
+      "id": "5159601",
+      "time": "2026-10-22 08:57:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【領益智造在嘉興新設股權投資合夥企業】企查查APP顯示，近日，嘉興領宇股權投資合夥企業（有限合夥）成立，經營範圍包含：股權投資；創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由領益智造間接全資持股。"
+    },
+    {
+      "id": "5159600",
+      "time": "2026-10-22 08:56:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國央行將基準利率維持在3.00%不變 符合預期】韓國央行在連續兩次加息後維持政策利率不變。通脹雖有所回落，但仍高於目標水平，該央行因而暫停緊縮步伐。韓國央行週四將基準七天期回購利率維持在3.00%，此前該央行已在7月和8月上調這一利率。媒體調查的23位經濟學家均預期利率不變，其中多數預計11月將再次加息。全球人工智慧熱潮和強勁的半導體出口繼續支撐經濟增長。決策者正關注這些增長動力是否會傳導至國內需求並推升通脹，從而增強進一步加息的理由。韓國出口9月份加快增長，首次超過1,200億美元，半導體出口較上年同期增長逾兩倍，創歷史新高。總體通脹率上月降至2.9%，剔除波動較大的食品和能源價格的核心通脹率小幅降至2.8%。兩者仍高於韓國央行2%的目標。韓國央行決策者預計，穩健經濟增長和高於目標的通脹將持續。他們還在關注中東緊張局勢是否會加大成本壓力。韓國央行在本月早些時候的一份政策報告中稱，進一步加息的時機和步伐將取決於通脹、經濟狀況和金融穩定。"
+    },
+    {
+      "id": "te:markets:593986",
+      "time": "2026-10-22 08:56:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Slip as Tech Rally Fades — The Nikkei 225 Index fell 0.4% to around 64,350 on Thursday, giving back some of the previous session’s gains as the recent technology rally, supported by strong earnings and renewed optimism surrounding artificial intelligence, began to lose steam. Japanese equities also tracked a decline in US stock futures after major Wall Street companies delivered mixed results. Investors continued to assess whether substantial AI investments would eventually generate sufficient revenue. Meanwhile, rising oil prices following a deadly attack on a Saudi oil field added to concerns over supply disruptions and inflation. Japan remains particularly exposed to instability in the Middle East due to its heavy dependence on oil imports from the region. Technology stocks mostly traded lower, with notable losses from Kioxia Holdings (-0.9%), Tokyo Electron (-3.7%), SoftBank Group (-0.7%), Ibiden Co (-2.6%) and Fujikura (-2.8%)."
+    },
+    {
+      "id": "5159599",
+      "time": "2026-10-22 08:55:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【工業和資訊化部工業軟體標準化技術委員會成立】10月21日，工業和資訊化部工業軟體標準化技術委員會（以下簡稱“工業軟體標委會”）成立大會在浙江省杭州市召開。工業和資訊化部副部長熊繼軍出席會議並講話。工業和資訊化部有關司局負責同志，工業軟體標委會委員代表、相關行業專家等參加會議。成立工業軟體標委會，是深入貫徹落實黨中央、國務院決策部署，充分發揮標準的基礎性、戰略性、引領性作用，加快科技創新成果落地轉化與推廣應用，引導和推動工業軟體產業高質量發展的重要舉措。工業軟體標委會主要負責關鍵技術、資料互操作、產品服務、融合應用及生態建設等行業標準制修訂工作，秘書處設在工業和資訊化部電子第五研究所。成立大會後，工業軟體標委會第一次全體委員會議召開，審議透過了標委會章程、秘書處工作細則、標準制修訂工作程式等檔案，研究部署了下一階段重點工作。"
+    },
+    {
+      "id": "mkt:01a1611b-0c31-7ee0-a934-2f435cc4e8f4",
+      "time": "2026-10-22 08:55:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MIIT establishes Industrial Software Standardization Technical Committee】Oct 21, Hangzhou — China’s Ministry of Industry and Information Technology (MIIT) held the inaugural meeting to establish the Industrial Software Standardization Technical Committee. Vice Minister Xiong Jijun attended and spoke; relevant MIIT department officials, committee members and industry experts participated."
+    },
     {
       "id": "te:markets:593984",
       "time": "2026-10-22 08:53:26",

@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-22 08:55:11",
-  "count": 13416,
+  "updated": "2026-10-22 08:58:58",
+  "count": 13414,
   "items": [
+    {
+      "id": "5159601",
+      "time": "2026-10-22 08:57:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【領益智造在嘉興新設股權投資合夥企業】企查查APP顯示，近日，嘉興領宇股權投資合夥企業（有限合夥）成立，經營範圍包含：股權投資；創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由領益智造間接全資持股。"
+    },
+    {
+      "id": "5159600",
+      "time": "2026-10-22 08:56:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國央行將基準利率維持在3.00%不變 符合預期】韓國央行在連續兩次加息後維持政策利率不變。通脹雖有所回落，但仍高於目標水平，該央行因而暫停緊縮步伐。韓國央行週四將基準七天期回購利率維持在3.00%，此前該央行已在7月和8月上調這一利率。媒體調查的23位經濟學家均預期利率不變，其中多數預計11月將再次加息。全球人工智慧熱潮和強勁的半導體出口繼續支撐經濟增長。決策者正關注這些增長動力是否會傳導至國內需求並推升通脹，從而增強進一步加息的理由。韓國出口9月份加快增長，首次超過1,200億美元，半導體出口較上年同期增長逾兩倍，創歷史新高。總體通脹率上月降至2.9%，剔除波動較大的食品和能源價格的核心通脹率小幅降至2.8%。兩者仍高於韓國央行2%的目標。韓國央行決策者預計，穩健經濟增長和高於目標的通脹將持續。他們還在關注中東緊張局勢是否會加大成本壓力。韓國央行在本月早些時候的一份政策報告中稱，進一步加息的時機和步伐將取決於通脹、經濟狀況和金融穩定。"
+    },
+    {
+      "id": "te:markets:593986",
+      "time": "2026-10-22 08:56:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Slip as Tech Rally Fades — The Nikkei 225 Index fell 0.4% to around 64,350 on Thursday, giving back some of the previous session’s gains as the recent technology rally, supported by strong earnings and renewed optimism surrounding artificial intelligence, began to lose steam. Japanese equities also tracked a decline in US stock futures after major Wall Street companies delivered mixed results. Investors continued to assess whether substantial AI investments would eventually generate sufficient revenue. Meanwhile, rising oil prices following a deadly attack on a Saudi oil field added to concerns over supply disruptions and inflation. Japan remains particularly exposed to instability in the Middle East due to its heavy dependence on oil imports from the region. Technology stocks mostly traded lower, with notable losses from Kioxia Holdings (-0.9%), Tokyo Electron (-3.7%), SoftBank Group (-0.7%), Ibiden Co (-2.6%) and Fujikura (-2.8%)."
+    },
+    {
+      "id": "5159599",
+      "time": "2026-10-22 08:55:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【工業和資訊化部工業軟體標準化技術委員會成立】10月21日，工業和資訊化部工業軟體標準化技術委員會（以下簡稱“工業軟體標委會”）成立大會在浙江省杭州市召開。工業和資訊化部副部長熊繼軍出席會議並講話。工業和資訊化部有關司局負責同志，工業軟體標委會委員代表、相關行業專家等參加會議。成立工業軟體標委會，是深入貫徹落實黨中央、國務院決策部署，充分發揮標準的基礎性、戰略性、引領性作用，加快科技創新成果落地轉化與推廣應用，引導和推動工業軟體產業高質量發展的重要舉措。工業軟體標委會主要負責關鍵技術、資料互操作、產品服務、融合應用及生態建設等行業標準制修訂工作，秘書處設在工業和資訊化部電子第五研究所。成立大會後，工業軟體標委會第一次全體委員會議召開，審議透過了標委會章程、秘書處工作細則、標準制修訂工作程式等檔案，研究部署了下一階段重點工作。"
+    },
+    {
+      "id": "mkt:01a1611b-0c31-7ee0-a934-2f435cc4e8f4",
+      "time": "2026-10-22 08:55:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MIIT establishes Industrial Software Standardization Technical Committee】Oct 21, Hangzhou — China’s Ministry of Industry and Information Technology (MIIT) held the inaugural meeting to establish the Industrial Software Standardization Technical Committee. Vice Minister Xiong Jijun attended and spoke; relevant MIIT department officials, committee members and industry experts participated."
+    },
     {
       "id": "te:markets:593984",
       "time": "2026-10-22 08:53:26",
@@ -121863,78 +121908,6 @@
         "Greater China"
       ],
       "text": "【China reports record quantum frequency conversion enabling trapped‑ion telecom links】Researchers at the University of Science and Technology of China and the Jinan Quantum Technology Research Institute reported a high‑efficiency, low‑noise quantum frequency conversion from 393 nm (UV) to 1,550 nm (telecom) that enables interfacing trapped‑ion memories with optical fiber. The team led by Pan Jianwei, Zhang Qiang and Zheng Mingyang said the result sets an international record for conversion efficiency and noise in this wavelength range and provides key technology for remote interconnection of trapped‑ion nodes in scalable quantum networks. The findings are published in Physical Review Letters."
-    },
-    {
-      "id": "te:markets:592092",
-      "time": "2026-10-15 08:58:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10Y Bond Yield Hits 4-week Low — Japan 10 Year Government Bond Yield decreased to 2.94%, the lowest since September 2026. Over the past 4 weeks, Japan 10Y Bond Yield lost 5.30 basis points, and in the last 12 months, it increased 129.01 basis points."
-    },
-    {
-      "id": "5145946",
-      "time": "2026-10-15 08:57:41",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信期貨：白銀短線震盪偏弱執行，關注本週美國PPI、零售資料和沃什講話】日內海內外白銀大幅下跌，其中COMEX白銀跌幅超5%、昨夜一度跌至56美元/盎司附近，受美元指數走強及美債收益率高位壓制。美國9月核心CPI同、環比均高於市場預期，表明通脹黏性仍存，推動市場上修美聯儲10月加息機率，美元及美債收益率同步上行，對白銀金融屬性形成進一步壓制。地緣方面，胡塞武裝襲擊沙特能源設施及霍爾木茲海峽周邊航運風險仍存，能源供應不確定性支撐油價高位執行，可能進一步增加後續通脹壓力。現貨層面，內外盤現貨仍寬鬆，倫敦市場白銀租賃利率低位執行。整體來看，白銀金融屬性偏空，工業屬性支撐有限，資金熱度亦偏弱。（中信期貨）"
-    },
-    {
-      "id": "5145945",
-      "time": "2026-10-15 08:57:37",
-      "tags": [
-        "公司",
-        "資料",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中金：預計美聯儲10月仍可能暫停加息 12月再度行動】中金公司研報稱，美國9月CPI季調環比上漲0.6%，同比上漲3.7%；核心CPI環比上漲0.3%，同比上漲2.6%，均較上月反彈，且超出市場預期。漲價來源較廣，能源、核心商品及房租均形成推動。油價高企加劇能源通脹，消費韌性與AI投資需求支撐商品價格，租金粘性則制約服務通脹回落。貨幣政策方面，通脹反彈強化了美聯儲繼續加息的必要性，但由於近期美債收益率上行、美元走強，金融條件已部分收緊，美聯儲或保持耐心。中金預計10月仍可能暫停加息，12月再度行動。不過，加息節奏放緩並不意味著貨幣政策轉向寬鬆，未來一年，美聯儲或仍將維持偏緊的政策立場。"
-    },
-    {
-      "id": "mkt:01a13d10-05ea-7ee0-a888-ee4315c734d0",
-      "time": "2026-10-15 08:57:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSDAQ index fell 7.2%."
-    },
-    {
-      "id": "5145944",
-      "time": "2026-10-15 08:56:42",
-      "tags": [
-        "宏觀",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根大通：並無“審慎理由”促使美國削減20年期國債發行】儘管市場“盛傳”美國財政部官員可能在週五公佈的一份調查問卷中，就削減20年期國債發行徵詢一級交易商意見，但摩根大通策略師認為，財政部“沒有審慎理由”這樣做。該行全球利率策略主管Jay Barry牽頭的團隊寫道，市場參與者“正迫不及待地等待11月季度再融資的一級交易商調查問卷，該問卷定於美國東部時間週五中午釋出”。“過去兩週，我們無數次被問到，財政部是否會藉此機會詢問削減甚至徹底停止發行20年期國債”。“出於多方面原因，我們認為探詢此類舉措並不審慎。”首先，“鑑於預算赤字仍然龐大，加之到期債務增加，財政部未來幾年將面臨顯著的融資缺口”。“其次，目前並不明視訊記憶體在長端市場失衡”。“最後，雖然這樣做可能暫時壓低長期收益率，但參考英國債務管理辦公室和日本財務省削減長端債券發行佔比的經驗，我們並不確定此舉能夠產生持久影響”。"
-    },
-    {
-      "id": "5145943",
-      "time": "2026-10-15 08:55:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國科斯達克指數下跌7.2%。"
-    },
-    {
-      "id": "5145942",
-      "time": "2026-10-15 08:55:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1107.50美元/盎司。"
     }
   ]
 }
