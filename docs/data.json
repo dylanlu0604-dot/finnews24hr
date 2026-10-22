@@ -1,7 +1,119 @@
 {
-  "updated": "2026-10-22 18:48:28",
-  "count": 13307,
+  "updated": "2026-10-22 18:52:17",
+  "count": 13323,
   "items": [
+    {
+      "id": "mkt:01a1633d-0034-7ee0-a944-c66a36464e51",
+      "time": "2026-10-22 18:51:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Saudi Arabia's benchmark stock index fell more than 2%."
+    },
+    {
+      "id": "mkt:01a1633c-c7b6-7ee0-a944-bf40f2393ee1",
+      "time": "2026-10-22 18:51:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezayi said a previous memorandum of understanding failed because the sequencing of parties' commitments was incorrect. He said the new arrangement is clear: Iran's conditions must be met first."
+    },
+    {
+      "id": "5161484",
+      "time": "2026-10-22 18:51:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙烏地阿拉伯基準指數下跌2.5%。"
+    },
+    {
+      "id": "te:markets:594214",
+      "time": "2026-10-22 18:51:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Futures Rebound — US gasoline futures rose to $3.18 per gallon after hitting a seven-week low, as concerns over tight fuel supplies persisted. EIA data showed US gasoline inventories fell by nearly 3 million barrels in the week ending October 16th, reversing previous builds and reinforcing signs of a tightening market. Supplies are expected to remain constrained as refineries prioritise higher-demand diesel ahead of winter, while routine maintenance limits gasoline output despite facilities operating near capacity. Morgan Stanley warned that tight conditions could persist through mid-2027 as planned refinery outages increase. Geopolitical risks added to market concerns, with Russia and Ukraine exchanging heavy air strikes just hours after President Putin agreed to resume peace talks with a US envoy, casting doubt on diplomatic progress. Meanwhile, US-Iran strikes continue in the Middle East, although crude exports through the Strait of Hormuz have recovered towards pre-conflict levels."
+    },
+    {
+      "id": "5161483",
+      "time": "2026-10-22 18:51:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【從玉智農：完成配售1.4億股新股】從玉智農公告，此前公告擬根據一般授權配售最多1.4億股新股。本次公告稱，配售協議所載所有先決條件均已達成，配售事項於2026年10月22日完成，按每股0.24港元向不少於六名承配人配售1.4億股，佔完成後已發行股本約16.7%。配售所得款項淨額約3290萬港元，擬用於償還貸款及一般營運資金。"
+    },
+    {
+      "id": "5161481",
+      "time": "2026-10-22 18:50:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "芬蘭批准Posiva運營核廢料處置庫。"
+    },
+    {
+      "id": "5161480",
+      "time": "2026-10-22 18:50:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永太科技：預計今年底公司VC產能將提升至30000噸/年】永太科技(002326)10月22日在接待機構調研中表示，公司VC（碳酸亞乙烯酯）目前已投產產能為16666噸/年，預計今年年底將提升至30000噸/年，50000噸/年專案計劃明年建成投產。公司將結合下游訂單情況及行業景氣度變化，合理把握專案建設節奏。"
+    },
+    {
+      "id": "5161479",
+      "time": "2026-10-22 18:50:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "陶氏公司：4500 個裁員崗位中約 70% 已落實；預計 2026 年下半年將帶來超 2 億美元收益。"
+    },
+    {
+      "id": "5161478",
+      "time": "2026-10-22 18:49:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高瓴創投聯合領投觀復芯種子輪融資】10月22日，據高瓴創投訊息，南京觀復芯軟體有限公司完成種子輪融資，本輪融資由高瓴創投、力合算芯聯合領投。據介紹，觀復芯已推出多款面向專業工程任務的IC智慧體產品，輔助工程師完成專案解析、方案決策、故障定位、PPA最佳化、自動迭代與流程管控。"
+    },
+    {
+      "id": "5161477",
+      "time": "2026-10-22 18:49:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【常斌任河北省委副書記】近日，中共中央批准：常斌同志任河北省委副書記。（河北日報）"
+    },
+    {
+      "id": "5161476",
+      "time": "2026-10-22 18:49:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東墨龍：擬開展兩筆合計不超1億元售後回租融資業務】山東墨龍公告稱，公司擬作為承租人，以部分生產裝置為租賃標的物，分別與濰坊市國信融資租賃有限公司、江蘇金融租賃股份有限公司開展售後回租融資業務，兩筆業務融資金額均不超過5000萬元，期限均不超過36個月，租賃利率、租金及支付方式等具體內容以實際簽訂的協議為準。本次交易不構成關聯交易及重大資產重組，相關事項已經公司董事會審議透過，無需提交股東會審議。"
+    },
+    {
+      "id": "te:markets:594213",
+      "time": "2026-10-22 18:49:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Finishes Lower — India’s BSE Sensex closed about 0.6% down at 73,249 on Thursday, the lowest in over a week, extending losses for the third session. Investor sentiment remained subdued amid concerns that persistently high crude oil prices could widen India’s import bill, fuel inflation and squeeze corporate margins. Meanwhile, RBI policymakers signalled further rate hikes may be needed but cautioned against aggressive tightening amid growth risks. Tempering market's mood, foreign investors turned net buyers and purchased equities worth bought 10.22 billion rupees on Wednesday, while Jio Platforms’ $3.2 billion IPO was fully subscribed within hours. Reliance Industries was the biggest laggard, falling 2.6%, amid profit-booking following a solid advance the day before. Eternal slipped 2.2% as it reported strong revenue growth and a sharp improvement in operating profitability in Q2 FY27, but its net profit fell short of analyst expectations. HDFC Bank (-1.9%) and Power Grid (-1.9%) also posted declines."
+    },
+    {
+      "id": "5161475",
+      "time": "2026-10-22 18:48:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：司法系統正全力運轉並積極行動，已有數千人被拘留，當然還有數百人被監禁。"
+    },
     {
       "id": "5161474",
       "time": "2026-10-22 18:47:40",
@@ -34,6 +146,22 @@
         "公司"
       ],
       "text": "林賽公司：第四季度營運收入1.616億美元，預估1.475億美元。"
+    },
+    {
+      "id": "5161470",
+      "time": "2026-10-22 18:44:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西交通職業技術學院原院長黃明忠接受審查調查】中央紀委國家監委網站10月22日通報，據江西省紀委監委訊息：江西交通職業技術學院原黨委副書記、院長黃明忠涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受江西省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5161469",
+      "time": "2026-10-22 18:44:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古自治區民政廳原副廳長劉程民接受審查調查】中央紀委國家監委網站10月22日通報，據內蒙古自治區紀委監委訊息：內蒙古自治區民政廳原黨組成員、副廳長劉程民涉嫌嚴重違紀違法，目前正接受內蒙古自治區紀委監委紀律審查和監察調查。"
     },
     {
       "id": "mkt:01a16336-66f9-7ee0-a944-b3d6e10736d4",
@@ -270,6 +398,14 @@
         "其他"
       ],
       "text": "瑞穗將特斯拉目標價從 450 美元上調至 460 美元。"
+    },
+    {
+      "id": "5161442",
+      "time": "2026-10-22 18:38:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：剛剛結束對印度的訪問，此行推進了我們在該地區的經濟和戰略優先事項。繼續建設我們的經濟夥伴關係和能源安全合作，將使兩國更加強大。"
     },
     {
       "id": "5161441",
