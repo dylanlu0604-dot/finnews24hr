@@ -1,7 +1,127 @@
 {
-  "updated": "2026-10-23 00:09:16",
-  "count": 13297,
+  "updated": "2026-10-23 00:13:08",
+  "count": 13298,
   "items": [
+    {
+      "id": "5162174",
+      "time": "2026-10-23 00:12:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯政府稱汽油和柴油產量有所上升。"
+    },
+    {
+      "id": "mkt:01a16462-8498-7ee0-a94c-5a78cf0ffb24",
+      "time": "2026-10-23 00:12:20",
+      "tags": [
+        "MKT News",
+        "SKYD.N"
+      ],
+      "text": "Skydance (SKYD.N) triggered a temporary trading halt; last trade $7.84."
+    },
+    {
+      "id": "te:markets:594317",
+      "time": "2026-10-23 00:12:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 2.54% Lower — The FTSE MIB Index dropped 1260 points or 2.54 percent on Thursday to close at 48384 points. Losses were led by Prysmian (-8.06%), Saipem (-5.66%) and Tenaris (-5.01%)."
+    },
+    {
+      "id": "te:markets:594316",
+      "time": "2026-10-23 00:11:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.07% Lower — The DAX Index decreased 273 points or 1.07 percent on Thursday to close at 25372 points. The decline was led by Siemens Energy (-8.56%), Infineon (-5.84%) and Siemens (-4.05%)."
+    },
+    {
+      "id": "mkt:01a16461-2704-7ee0-a94c-57ad951e7e1e",
+      "time": "2026-10-23 00:10:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Qatar said it is seeking to secure more LNG deals outside the Middle East."
+    },
+    {
+      "id": "5162173",
+      "time": "2026-10-23 00:10:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報道：馬斯克向埃裡森旗下Skydance投資10億美元】據知情人士透露，埃隆·馬斯克已向Skydance投資約10億美元，這筆交易與Skydance其他投資者的股權投資大致同時完成，其中包括董事會成員勞倫·鮑威爾·喬布斯。此前9月有報道稱，派拉蒙正考慮向馬斯克尋求股權注資。馬斯克是派拉蒙CEO大衛·埃裡森考慮合作投資的多位富豪之一。馬斯克與大衛·埃裡森的父親、甲骨文創始人拉里·埃裡森長期關係密切，而正是老埃裡森的部分資金和人脈，使派拉蒙收購華納兄弟成為可能。拉里·埃裡森已親自為派拉蒙收購華納兄弟的股權融資擔保超過400億美元。拉里·埃裡森曾在2022年馬斯克將X私有化的交易中投資10億美元。他還在2018年投資了特斯拉，並曾在特斯拉董事會任職多年。"
+    },
+    {
+      "id": "te:markets:594315",
+      "time": "2026-10-23 00:10:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 1.42% Lower — The CAC 40 Index fell 112 points or 1.42 percent on Thursday to close at 7809 points. Leading the losses are Legrand (-5.85%), Schneider Electric (-5.80%) and BNP Paribas (-4.88%)."
+    },
+    {
+      "id": "te:markets:594314",
+      "time": "2026-10-23 00:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Closes in the Red — Frankfurt's DAX 40 closed about 1.1% down at 25,379 on Thursday, pulling back from one-month highs, tracking other European peers. Rising oil prices, geopolitical risks, concerns over AI infrastructure spending, and uncertainty in France weighed on investor sentiment. Meanwhile, the earnings season continued across both sides of the Atlantic. Technology, industrial, and banking sectors led the declines, while software and telecom stocks outperformed. German companies benefiting from AI, such as Infineon, Hochtief, Siemens Energy Siemens plunged between 3.9%-8.1%. Other top losers included MTU Aero Engines (-3.9%), Commerzbank (-3.8%), Deutsche Bank (-2.8%), RWE (-2.3%) and Airbus (-2.2%). On the upside, shares of Qiagen NV (4.9%) and Scout24 (3.6%) stood out. Software giant SAP gained 3.2%, after quarterly revenue exceeded €10 billion for the first time, supported by 26% growth in cloud revenue, prompting the company to raise its full-year revenue outlook."
+    },
+    {
+      "id": "5162172",
+      "time": "2026-10-23 00:10:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "據稱卡達正在中東以外尋求更多液化天然氣交易。"
+    },
+    {
+      "id": "mkt:01a16460-4959-7ee0-a94c-486426a73ccf",
+      "time": "2026-10-23 00:09:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "UBER.N"
+      ],
+      "text": "OpenAI said Uber (UBER.N) will offer ChatGPT Enterprise to all employees and will access OpenAI’s frontier models via ChatGPT Work."
+    },
+    {
+      "id": "5162171",
+      "time": "2026-10-23 00:09:38",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SKYDANCE因波動性過大暫停交易。此前有訊息稱，馬斯克向埃裡森旗下Skydance投資10億美元，訊息傳出後SKYDANCE暴漲7.5%。"
+    },
+    {
+      "id": "5162170",
+      "time": "2026-10-23 00:09:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏那曲市尼瑪縣發生4.5級地震，震源深度10千米】中國地震臺網正式測定：10月22日23時46分在西藏那曲市尼瑪縣（北緯32.37度，東經87.20度）發生4.5級地震，震源深度10千米。"
+    },
     {
       "id": "5162169",
       "time": "2026-10-23 00:08:21",
@@ -120574,118 +120694,6 @@
         "國際"
       ],
       "text": "【特朗普稱不會直播對胡德堡槍擊案兇手的槍決】美國總統特朗普15日表示，五角大樓不會直播對得克薩斯州胡德堡軍事基地槍擊案兇手尼達爾·哈桑的槍決。此前，美國會兩黨議員紛紛表示反對五角大樓直播行刑過程的計劃。特朗普在社交媒體上發文說，他認為直播哈桑的處決過程或許能起到強有力的威懾作用。然而，許多善良的人不願觀看他的死亡過程，“無論是透過直播還是其他任何影像裝置”。哈桑將按計劃被槍決，但這一過程不會進行直播。（新華社）"
-    },
-    {
-      "id": "5148178",
-      "time": "2026-10-16 00:12:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破98美元/桶，日內漲3.08%。"
-    },
-    {
-      "id": "te:markets:592491",
-      "time": "2026-10-16 00:12:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.72% Lower — The FTSE MIB Index dropped 356 points or 0.72 percent on Thursday to close at 49398 points. Losses were led by Technoprobe (-11.42%), Saipem (-4.34%) and STMicroelectronics (-4.05%). Offsetting the fall, top gainers were Telecom Italia (1.87%), Leonardo SpA (1.79%) and Ferrari NV (1.71%)."
-    },
-    {
-      "id": "te:markets:592490",
-      "time": "2026-10-16 00:11:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Closes Slightly Higher — Frankfurt’s DAX 40 closed 0.3% higher at 25,368 on Thursday, recovering from earlier losses in a choppy trading session. Gains in software, retail and telecom stocks offset declines in technology, banking and industrials. Meanwhile, investors monitored geopolitical developments and the ongoing earnings season ahead of Federal Reserve Chair Kevin Warsh’s speech on Friday. Recent upside surprises in US inflation have reinforced expectations of a prolonged period of elevated interest rates. Scout24 led gains among stocks, rising more than 7%, followed by Rheinmetall (4.4%), Zalando (3.8%), Fresenius Medical Care (3%), SAP (2.2%), Adidas (2.1%) and Airbus (2.1%). On the downside, Infineon Technologies dropped over 5% to the bottom of the index, reflecting the general weakness in the tech sector. Shares of energy technology company Siemens Energy declined by 2.1%. RWE, Deutsche Bank, Siemens and Bayer also posted losses up to 1.8%."
-    },
-    {
-      "id": "te:markets:592489",
-      "time": "2026-10-16 00:11:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.33% Higher — The DAX Index went up by 84 points or 0.33 percent on Thursday to close at 25383 points. The rise was led by Rheinmetall (3.87%), Zalando (3.63%) and Scout24 (2.98%). On the downside, the weakerst performers were Infineon (-5.53%), Hochtief (-2.51%) and Siemens Energy (-2.16%)."
-    },
-    {
-      "id": "5148177",
-      "time": "2026-10-16 00:10:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）表示美國汽油庫存意外增加，美國汽油期貨擴大跌幅。"
-    },
-    {
-      "id": "5148176",
-      "time": "2026-10-16 00:10:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）表示，儘管美國原油庫存增幅高於預期，布倫特原油期貨和美國原油期貨仍保持穩定。"
-    },
-    {
-      "id": "5148175",
-      "time": "2026-10-16 00:10:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）表示，美國超低硫柴油期貨仍保持穩定，儘管美國餾分油庫存降幅超預期。"
-    },
-    {
-      "id": "5148174",
-      "time": "2026-10-16 00:10:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鴻仕達：泛半導體業務收入實現大幅增長 已成為公司營收增長的核心驅動力】鴻仕達釋出投資者關係活動記錄表，近期全球半導體及AI算力裝置市場需求持續釋放，公司依託充足的訂單儲備，各產品線有序交付，整體營業收入保持穩健增長態勢。從業務結構來看，泛半導體業務收入實現大幅增長，已成為公司營收增長的核心驅動力；消費類電子業務需求保持穩定，發揮基本盤支撐作用。公司將持續最佳化業務結構，加大高附加值賽道的資源投入，不斷提升盈利質量。"
-    },
-    {
-      "id": "te:markets:592488",
-      "time": "2026-10-16 00:10:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.66% Higher — The CAC 40 Index rose 52 points or 0.66 percent on Thursday to close at 7925 points. Leading the gains are Capgemini (3.47%), Hermes International (3.09%) and Publicis (3.05%). Top losers were STMicroelectronics (-4.09%), Schneider Electric (-2.45%) and Credit Agricole (-1.01%)."
-    },
-    {
-      "id": "5148173",
-      "time": "2026-10-16 00:10:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲3%，現報97.95美元/桶。"
-    },
-    {
-      "id": "te:economy:592487",
-      "time": "2026-10-16 00:09:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "30 Year Mortgage Rate",
-        "Importance 1"
-      ],
-      "text": "US Mortgage Rates Hold at Highest Since 2023 — The US 30-year fixed-rate mortgage averaged 7.4% as of October 15th, 2026, remaining above 7% and at its highest level since November 2023 and remaning unchanged from the previous week. This marks the eighth consecutive week without a decline. The pause reflects the downward trend seen in US Treasury yields over the week, while expectations of higher-for-longer interest rates lifted safe-haven demand from capital-intensive sectors. Mortgage rates tend to closely track these these sovereign yields. A year ago, the the 30-year fixed-rate mortgage averaged 6.27%. Meanwhile, the 15-year fixed-rate mortgage averaged 6.71%, down from an over two year high of 6.73% reached last week."
     }
   ]
 }
