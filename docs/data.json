@@ -1,7 +1,58 @@
 {
-  "updated": "2026-10-22 18:44:44",
-  "count": 13302,
+  "updated": "2026-10-22 18:48:28",
+  "count": 13307,
   "items": [
+    {
+      "id": "5161474",
+      "time": "2026-10-22 18:47:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華陽智慧：股票交易異常波動 無應披露未披露重大事項】華陽智慧公告稱，公司股票連續3個交易日（2026年10月20日、10月21日、10月22日）內收盤價漲幅偏離值累計超過30%，屬於股票交易異常波動情形。經自查並向控股股東、實控人核實，公司近期經營情況及內外部經營環境未發生重大變化，不存在應披露而未披露的重大事項或處於籌劃階段的重大事項，未發現對股價產生影響的媒體報道或市場傳聞，控股股東及實控人在異常波動期間未買賣公司股票。公司預約於2026年10月28日披露2026年第三季度報告，不存在需披露業績預告或業績快報的情形。"
+    },
+    {
+      "id": "5161473",
+      "time": "2026-10-22 18:46:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "陶氏化學第三季度利潤超預期，盤前股價上漲2.4%。"
+    },
+    {
+      "id": "5161472",
+      "time": "2026-10-22 18:46:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "黑石私人信貸基金：截至2026年9月30日，承諾債務額度為521億美元，93%為浮動利率。"
+    },
+    {
+      "id": "5161471",
+      "time": "2026-10-22 18:46:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "林賽公司：第四季度營運收入1.616億美元，預估1.475億美元。"
+    },
+    {
+      "id": "mkt:01a16336-66f9-7ee0-a944-b3d6e10736d4",
+      "time": "2026-10-22 18:44:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Parliament voted to postpone implementation of EU methane rules by three years."
+    },
+    {
+      "id": "5161468",
+      "time": "2026-10-22 18:44:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲議會投票透過將歐盟甲烷規則推遲三年實施。"
+    },
     {
       "id": "5161467",
       "time": "2026-10-22 18:44:16",
@@ -120926,18 +120977,6 @@
         "Importance 1"
       ],
       "text": "India Unemployment Rate Holds at 5-Month Low — The unemployment rate in India was at 5.0% in September of 2026, below the median market consensus of 5.2% and unchanged from the five-month low in the previous month to maintain the relative resilience of the Indian labor market. The jobless rate held steady despite slight increases in both rural (4.2% vs 4.1% in August) and urban (6.9% vs 6.8%) unemployment. In the meantime, the labor force participation rate eased by 0.1 percentage point to 55.5%, as a drop in rural participation (58% vs 58.2%) offset a slight increase in urban participation (50.7% vs 50.4%)."
-    },
-    {
-      "id": "te:economy:592342",
-      "time": "2026-10-15 18:44:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Romania",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Romania Current Account Deficit Sets Fresh Record — Romania’s current account deficit widened to EUR 3.32 billion in August 2026 from EUR 2.99 billion in the same month a year earlier, setting a new record after reaching a previous record high in July. The goods account deficit widened to EUR 3.10 billion from EUR 2.61 billion, while the primary income shortfall edged up to EUR 1.69 billion from EUR 1.60 billion. Meanwhile, the services account surplus increased to EUR 0.99 billion from EUR 0.80 billion, while the secondary income account recorded a surplus of EUR 0.03 billion, reversing a deficit of EUR 0.03 billion a year earlier. For the January–August period, the current account deficit totaled EUR 19.93 billion, up from EUR 18.98 billion in the same period last year."
     }
   ]
 }
