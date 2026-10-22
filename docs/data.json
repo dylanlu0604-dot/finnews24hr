@@ -1,7 +1,103 @@
 {
-  "updated": "2026-10-23 00:05:11",
-  "count": 13295,
+  "updated": "2026-10-23 00:09:16",
+  "count": 13297,
   "items": [
+    {
+      "id": "5162169",
+      "time": "2026-10-23 00:08:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守55美元/盎司，日內跌5.09%。"
+    },
+    {
+      "id": "5162168",
+      "time": "2026-10-23 00:08:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：ChatGPT在優步的部署將使優步全球員工中超過3萬人能夠使用ChatGPT。"
+    },
+    {
+      "id": "mkt:01a1645e-9de4-7ee0-a94c-446afe2de1d7",
+      "time": "2026-10-23 00:08:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Semafor, Elon Musk has invested $1 billion in Ellison-backed Skydance (SKYD.N)."
+    },
+    {
+      "id": "5162167",
+      "time": "2026-10-23 00:07:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：優步面向全體員工引入ChatGPT企業版。"
+    },
+    {
+      "id": "5162166",
+      "time": "2026-10-23 00:07:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：ChatGPT Work還讓優步能夠使用OpenAI的前沿模型組合。"
+    },
+    {
+      "id": "5162165",
+      "time": "2026-10-23 00:07:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "受馬斯克投資公司的訊息提振，SKYDANCE股價升7.5%，創盤中新高。"
+    },
+    {
+      "id": "te:markets:594312",
+      "time": "2026-10-23 00:07:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.28% Lower — The FTSE 100 Index dropped 30 points or 0.28 percent on Thursday to close at 10722 points. Losses were led by Antofagasta (-6.17%), Fresnillo (-5.66%) and Anglo American (-5.60%). Offsetting the fall, top gainers were Rentokil Initial (8.39%), London Stock Exchange (7.86%) and Smith & Nephew (4.00%)."
+    },
+    {
+      "id": "5162164",
+      "time": "2026-10-23 00:06:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【房利美和房地美飆升 因阿克曼呼籲特朗普任內解除對“兩房”託管】Pershing Square的比爾·阿克曼接受採訪並發表評論後，房利美股價一度上漲18%，房地美最高上漲20%。阿克曼表示，“特朗普任期結束前解除對房利美和房地美的託管在政治上絕對至關重要”。他說：“我們已經提出了一項非常直接的方案，可以更高效地完成這件事”。"
+    },
+    {
+      "id": "5162163",
+      "time": "2026-10-23 00:06:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月23日00時00分在西藏那曲市巴青縣（北緯32.40度，東經94.01度）發生3.2級地震，震源深度10千米。"
+    },
+    {
+      "id": "5162162",
+      "time": "2026-10-23 00:05:30",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "馬斯克向埃裡森旗下Skydance投資10億美元。"
+    },
+    {
+      "id": "5162161",
+      "time": "2026-10-23 00:04:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合銀行前九個月營收22.3億歐元。聯合銀行前九個月總租金收入17.3億歐元。"
+    },
     {
       "id": "5162160",
       "time": "2026-10-23 00:04:07",
@@ -120590,90 +120686,6 @@
         "Importance 1"
       ],
       "text": "US Mortgage Rates Hold at Highest Since 2023 — The US 30-year fixed-rate mortgage averaged 7.4% as of October 15th, 2026, remaining above 7% and at its highest level since November 2023 and remaning unchanged from the previous week. This marks the eighth consecutive week without a decline. The pause reflects the downward trend seen in US Treasury yields over the week, while expectations of higher-for-longer interest rates lifted safe-haven demand from capital-intensive sectors. Mortgage rates tend to closely track these these sovereign yields. A year ago, the the 30-year fixed-rate mortgage averaged 6.27%. Meanwhile, the 15-year fixed-rate mortgage averaged 6.71%, down from an over two year high of 6.73% reached last week."
-    },
-    {
-      "id": "5148172",
-      "time": "2026-10-16 00:08:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務省官員表示，政策制定者確實確認了有必要保持警惕，避免對任何可能引發金融體系危機的隱患置之不理。"
-    },
-    {
-      "id": "te:economy:592485",
-      "time": "2026-10-16 00:08:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Crude Oil Stocks Change",
-        "Importance 1"
-      ],
-      "text": "US Crude Inventories Fall the Most in 8 Months — US crude inventories fell by 8.557 million barrels in the week ended October 9, the most since February and well above market expectations for a 0.3 million-barrel draw. On the other hand, crude stocks at the Cushing, Oklahoma, delivery hub rose by 1.862 million barrels. Meanwhile, refinery crude runs increased by 0.135 million barrels per day. Gasoline stocks rose by 3.518 million barrels, versus expectations for a 0.5 million-barrel decrease. Distillate stockpiles, which include diesel and heating oil, fell by 2.527 million barrels, above estimates for a 1.6 million-barrel draw. Net US crude imports fell by 0.596 million barrels per day."
-    },
-    {
-      "id": "5148171",
-      "time": "2026-10-16 00:08:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【並行科技：子公司擬合計不超1.37億元採購GPU算力伺服器】並行科技公告，公司控股子公司粵雲智算擬向龍思雲採購GPU算力伺服器，合同金額預計不超5,520萬元；控股子公司楚雲智算擬向麥芒智訊採購GPU算力伺服器，合同金額預計不超8,160萬元。"
-    },
-    {
-      "id": "5148170",
-      "time": "2026-10-16 00:07:57",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【烏媒稱烏克蘭愛國者攔截彈庫存耗盡】烏克蘭媒體10月15日報道稱，據知情人士透露，烏克蘭已耗盡美國提供的“愛國者”防空系統攔截彈庫存，這導致俄軍最近一次襲擊中的大多數彈道目標未能被攔截。（CCTV國際時訊）"
-    },
-    {
-      "id": "5148169",
-      "time": "2026-10-16 00:07:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本財務省官員表示，在七國集團（G7）和二十國集團（G20）會議上，各方均未對人工智慧（AI）板塊拋售可能引發金融體系不穩定的風險表達擔憂；更重要的是，全球經濟已展現出抵禦各類衝擊的韌性。"
-    },
-    {
-      "id": "5148168",
-      "time": "2026-10-16 00:07:24",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【英國財政大臣希利擬在10月28日預算案中向英國銀行業加稅】約翰·希利準備在10月28日的預算案中對英國銀行業徵稅，以此緩解中東戰爭給公共財政帶來的損失。這位財政大臣目前身處曼谷。國際貨幣基金組織在當地肯定了英國在財政收支平衡方面取得的進展，並敦促他“堅持現行政策”。面對政府借貸成本攀升，為保證財政部的減赤字計劃按軌道推進，希利決定向金融行業開闢新增收入來源。據悉正在討論的方案之一，是撤銷傑里米·亨特時期下調的銀行附加稅，該舉措每年可增收逾20億英鎊。希利表示，面對能源價格上漲，他希望自己出任財政大臣後的首份預算，能為消費者和企業都提供“喘息空間”。"
-    },
-    {
-      "id": "te:markets:592484",
-      "time": "2026-10-16 00:07:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 1.03% Higher — The FTSE 100 Index gained 110 points or 1.03 percent on Thursday to close at 10835 points. Gains were led by Experian (5.14%), The Sage Group (4.85%) and BT (4.21%)."
-    },
-    {
-      "id": "5148167",
-      "time": "2026-10-16 00:06:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度在期權價格劇烈波動後改革股票拍賣機制。"
-    },
-    {
-      "id": "5148166",
-      "time": "2026-10-16 00:05:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務省官員表示，始終密切關注市場動向，不會對每隻股票、外匯和債券市場的動向發表評論 。"
     }
   ]
 }
