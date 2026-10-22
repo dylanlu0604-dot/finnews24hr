@@ -1,7 +1,56 @@
 {
   "date": "2026-10-22",
-  "count": 861,
+  "count": 867,
   "items": [
+    {
+      "id": "5159719",
+      "time": "2026-10-22 09:59:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指早盤下跌1.5%。"
+    },
+    {
+      "id": "5159718",
+      "time": "2026-10-22 09:57:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統表示，勞拉·雷斯特雷波將辭去內政部長職務，亞歷杭德羅·奧多涅斯將接替她的職位。"
+    },
+    {
+      "id": "5159717",
+      "time": "2026-10-22 09:57:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐萊雅旗下基金投資中國合成生物材料企業柏垠生物】中國合成生物材料企業柏垠生物宣佈完成超2億元人民幣A輪系列融資。歐萊雅集團旗下投資基金參投。其中，沃博聯廣藥基金、歐萊雅BOLD基金領投A輪，富華資本、基石資本、星博生輝、君科丹木共同參與；廣新基金領投A+輪。"
+    },
+    {
+      "id": "5159716",
+      "time": "2026-10-22 09:56:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【寧德時代A股市值跌破1萬億元】10月22日開盤，寧德時代(300750)報價222.11元/股，跌幅達到2.54%，股價創年內新低，最新A股市值9792.83億元，跌破1萬億元。"
+    },
+    {
+      "id": "5159715",
+      "time": "2026-10-22 09:56:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“前所未有”！外媒爆料：五角大樓批准測試熱射線武器，或用於邊境執法行動】據美國有線電視新聞網（CNN）獲得的一份由國防部長赫格塞思上月簽署的備忘錄，五角大樓已批准美國國土安全部測試一種軍用級熱射線武器，並制定可能在南部美墨邊境行動中使用該武器的戰術方案。 據美國軍方介紹，這種熱射線武器正式名稱為“主動拒止系統”，屬於一種非致命性武器，能夠發射肉眼不可見的電磁波束，射程略超過半英里（約800米）。 當這種能量束接觸人體皮膚時會產生灼燒感——五角大樓官員此前將其比作開啟高溫烤箱時撲面而來的熱浪。美軍官員表示，由此產生的“刺痛感”會持續10至15分鐘，同時還會讓人產生“一種本能且不可抗拒的逃離衝動”。（環球網）"
+    },
+    {
+      "id": "mkt:01a16152-d932-7ee0-a936-60b2b6a2c31d",
+      "time": "2026-10-22 09:56:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Protests persist in Greece and Portugal】Protests continued in Greece and Portugal over rising living costs, strained public services, education shortages and fiscal austerity. In Athens on the 21st demonstrators gathered outside the University of Athens and marched to Parliament; authorities deployed about 3,000 police and closed nearby metro stations. In Lisbon protests persisted on the 21st after police earlier cleared a tent camp and arrested 55; thousands had returned to the site on the 20th. The Portuguese president has invited all parliamentary parties to talks at Belem Palace on the 29th to address social issues raised by the protests."
+    },
     {
       "id": "mkt:01a16152-6026-7ee0-a936-5ecb7c8ec95a",
       "time": "2026-10-22 09:55:50",

@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-22 09:56:39",
-  "count": 13484,
+  "updated": "2026-10-22 10:00:27",
+  "count": 13480,
   "items": [
+    {
+      "id": "5159719",
+      "time": "2026-10-22 09:59:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指早盤下跌1.5%。"
+    },
+    {
+      "id": "5159718",
+      "time": "2026-10-22 09:57:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統表示，勞拉·雷斯特雷波將辭去內政部長職務，亞歷杭德羅·奧多涅斯將接替她的職位。"
+    },
+    {
+      "id": "5159717",
+      "time": "2026-10-22 09:57:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐萊雅旗下基金投資中國合成生物材料企業柏垠生物】中國合成生物材料企業柏垠生物宣佈完成超2億元人民幣A輪系列融資。歐萊雅集團旗下投資基金參投。其中，沃博聯廣藥基金、歐萊雅BOLD基金領投A輪，富華資本、基石資本、星博生輝、君科丹木共同參與；廣新基金領投A+輪。"
+    },
+    {
+      "id": "5159716",
+      "time": "2026-10-22 09:56:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【寧德時代A股市值跌破1萬億元】10月22日開盤，寧德時代(300750)報價222.11元/股，跌幅達到2.54%，股價創年內新低，最新A股市值9792.83億元，跌破1萬億元。"
+    },
+    {
+      "id": "5159715",
+      "time": "2026-10-22 09:56:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“前所未有”！外媒爆料：五角大樓批准測試熱射線武器，或用於邊境執法行動】據美國有線電視新聞網（CNN）獲得的一份由國防部長赫格塞思上月簽署的備忘錄，五角大樓已批准美國國土安全部測試一種軍用級熱射線武器，並制定可能在南部美墨邊境行動中使用該武器的戰術方案。 據美國軍方介紹，這種熱射線武器正式名稱為“主動拒止系統”，屬於一種非致命性武器，能夠發射肉眼不可見的電磁波束，射程略超過半英里（約800米）。 當這種能量束接觸人體皮膚時會產生灼燒感——五角大樓官員此前將其比作開啟高溫烤箱時撲面而來的熱浪。美軍官員表示，由此產生的“刺痛感”會持續10至15分鐘，同時還會讓人產生“一種本能且不可抗拒的逃離衝動”。（環球網）"
+    },
+    {
+      "id": "mkt:01a16152-d932-7ee0-a936-60b2b6a2c31d",
+      "time": "2026-10-22 09:56:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Protests persist in Greece and Portugal】Protests continued in Greece and Portugal over rising living costs, strained public services, education shortages and fiscal austerity. In Athens on the 21st demonstrators gathered outside the University of Athens and marched to Parliament; authorities deployed about 3,000 police and closed nearby metro stations. In Lisbon protests persisted on the 21st after police earlier cleared a tent camp and arrested 55; thousands had returned to the site on the 20th. The Portuguese president has invited all parliamentary parties to talks at Belem Palace on the 29th to address social issues raised by the protests."
+    },
     {
       "id": "mkt:01a16152-6026-7ee0-a936-5ecb7c8ec95a",
       "time": "2026-10-22 09:55:50",
@@ -122475,97 +122524,6 @@
         "其他"
       ],
       "text": "國際貨幣基金組織(IMF)警告稱，亞洲經濟增長將放緩，且收益率上升會帶來溢位效應。"
-    },
-    {
-      "id": "5146307",
-      "time": "2026-10-15 10:00:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織表示，亞洲經濟復甦的不均衡韌性面臨壓力測試。"
-    },
-    {
-      "id": "5146306",
-      "time": "2026-10-15 09:59:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達3.02%，成分股中，戈碧迦跌6.85%，惠豐鑽石跌6.44%，科力股份跌5.87%，蘅東光跌5.84%。"
-    },
-    {
-      "id": "5146305",
-      "time": "2026-10-15 09:59:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓8月份海外匯款額為30.35億美元，同比增長1.9%。"
-    },
-    {
-      "id": "5146300",
-      "time": "2026-10-15 09:59:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓基準股指下跌0.9%至5,564.470點，創2020年5月下旬以來新低。"
-    },
-    {
-      "id": "5146299",
-      "time": "2026-10-15 09:58:40",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "【寧德時代曾毓群：儲能在電力系統的作用發生了根本性變化】10月15日，寧德時代董事長曾毓群在2026世界儲能大會開幕式上指出，儲能在電力系統的作用發生了根本性變化，正在從新能源的配套設施，逐步成為電力系統不可或缺的新型基礎設施。他表示，過去十幾年，全球能源轉型成效顯著，風電、光伏裝機規模持續擴張。但是發電測的穩定性和挑戰隨之而來。與此同時，工業、交通領域加速電氣化，疊加算力AIDC等新型領域快速增長，對電力系統的可靠性、靈活性提出了更高要求。“這就意味著儲能行業不能只是追求裝置引數的提升，更要構建滿足電網需要的系統能力和長期的可靠性。”曾毓群說。"
-    },
-    {
-      "id": "5146298",
-      "time": "2026-10-15 09:58:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌3%，現報6601.60點。"
-    },
-    {
-      "id": "5146297",
-      "time": "2026-10-15 09:58:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委佩雷拉：未見通脹範圍擴大至能源以外的領域。"
-    },
-    {
-      "id": "5146292",
-      "time": "2026-10-15 09:57:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "華虹半導體在香港股價下跌8.3%，至76.15港元。"
-    },
-    {
-      "id": "5146290",
-      "time": "2026-10-15 09:57:42",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【上期所理事長田向陽：推動液化天然氣、瓦楞原紙期貨期權上市 推進電力等品種研發】今日，在上期所、中金所合作舉辦的2026上海衍生品市場論壇上，上期所理事長田向陽致辭稱，下一步，上期所一是全力防風險強監管，強化市場風險監測，築牢風險防波堤、防浪堤，提升監管效能，保障市場穩健執行。二是穩步健全品種體系，做強金屬、能源、航運等優勢序列，平穩推動液化天然氣、瓦楞原紙期貨和期權上市，推進電力等戰略性、基礎性品種研發，更好賦能現代化產業體系建設。三是深入創新中國特色業務模式，以更高效的機制工具、更長效的服務體系，精準對接產業風險管理需求。四是全面增強跨境服務能力，穩步擴大平臺、服務、價格等領域開放，深化對外務實合作，推進海外服務延伸，不斷拓展“上海價格”應用場景。五是大力推動期現融合發展，豐富交割資源，創新交割機制，深化用好有色金屬資料系統，綜合提升交割庫質量。"
-    },
-    {
-      "id": "te:markets:592107",
-      "time": "2026-10-15 09:56:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "AUS 10Y Yield Falls on Soft Jobs Report — Australia’s 10-year government bond yield fell to around 5.2%, hitting a five-week low after a surprisingly soft jobs report prompted investors to pare back wagers on further rate hikes. The economy shed 39,300 jobs, the biggest monthly fall since February last year, defying expectations for a 20,000 gain. The jobless rate also stayed at a five-year high of 4.7%, above the 4.6% forecast, with the previous month revised up from an initial 4.6% reading. The figures suggested the labor market may be loosening after the Reserve Bank of Australia raised its cash rate by 1 percentage point to 4.60% this year to rein in inflation, one of the most aggressive tightening cycles among developed economies. Markets now see less than a 10% chance of a November hike, down from 35% earlier, while the odds of a December move fell to 30% from 60%. A May 2027 hike carries the highest probability at 80%. Attention now turns to Q3 CPI data due later this month for further clues on the policy outlook."
     }
   ]
 }
