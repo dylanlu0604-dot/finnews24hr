@@ -1,7 +1,99 @@
 {
-  "updated": "2026-10-22 14:06:00",
-  "count": 13397,
+  "updated": "2026-10-22 14:09:51",
+  "count": 13406,
   "items": [
+    {
+      "id": "mkt:01a16239-7a12-7ee0-a93b-d7371bd1f9fb",
+      "time": "2026-10-22 14:08:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Shanxi unconventional natural gas output in first three quarters hits record high】Shanxi’s unconventional natural gas production totaled 14.99 bcm in the first three quarters, up 10.1% YoY and a record for the period. 1H output exceeded 10.05 bcm; September alone was 1.65 bcm. Authorities say the rise bolsters supply for this winter and next spring’s clean-heating campaign, stabilizes regional energy supply and contributes gas for interregional transfers."
+    },
+    {
+      "id": "5160621",
+      "time": "2026-10-22 14:08:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度9月份從中東進口的石油量回升至戰前水平】船舶追蹤資料顯示，9月份印度從中東進口的原油量大幅增長，已回升至戰前水平；與此同時，由於競爭加劇，印度煉油商削減了對俄羅斯石油的採購。隨著中東產油國和貿易商透過霍爾木茲海峽加大發貨量，印度煉油商紛紛搶購現貨，這緩解了此前因伊朗相關衝突而導致的供應緊張局面。"
+    },
+    {
+      "id": "5160620",
+      "time": "2026-10-22 14:08:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度：小盤股漲勢遇阻，融資買股規模回落】散戶投資者降低風險敞口，印度股市槓桿交易規模將迎來3月以來首次月度下滑。截至10月19日，融資持倉規模為1.56萬億盧比，低於9月創紀錄的1.6萬億盧比。油價高企給印度股市帶來壓力，中小盤股在9月初創出新高後領跌，融資規模隨之回落。"
+    },
+    {
+      "id": "5160619",
+      "time": "2026-10-22 14:07:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：2030年目標年產500萬輛。"
+    },
+    {
+      "id": "5160618",
+      "time": "2026-10-22 14:07:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲4%，現報3236.00元。"
+    },
+    {
+      "id": "5160617",
+      "time": "2026-10-22 14:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前三季度山西非常規天然氣產量創歷史同期新高】今年前三季度山西非常規天然氣累計產量達到149.9億立方米，同比增長10.1%，創歷史同期產量新高，為保障今冬明春清潔供暖、穩定區域能源供應提供了有力支撐。今年以來，山西非常規天然氣增產勢頭明顯。上半年產量突破100.5億立方米，進入9月後，產量繼續保持增長，單月產量達到16.5億立方米。隨著冬季供暖季臨近，山西非常規天然氣穩產保供的意義更加凸顯，山西依託本土資源稟賦持續增產，不僅為省內城鄉居民清潔取暖提供保障，也為跨區域能源調配貢獻了氣源。（新華社）"
+    },
+    {
+      "id": "5160616",
+      "time": "2026-10-22 14:06:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "利比亞管道關停導致哈馬達、塔哈拉油田日產量減少1萬桶。"
+    },
+    {
+      "id": "5160615",
+      "time": "2026-10-22 14:06:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "輸送哈馬達、塔哈拉油田原油的利比亞管道已關閉。"
+    },
+    {
+      "id": "mkt:01a16237-903c-7ee0-a93b-c853fe9daf7f",
+      "time": "2026-10-22 14:06:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【India's September Middle East oil imports rebound to pre-war levels】Ship-tracking data show India's September crude imports from the Middle East rose sharply to pre-war levels. Amid increased competition, Indian refiners reduced purchases of Russian crude. As Middle Eastern producers and traders boosted shipments via the Strait of Hormuz, refiners rushed into the spot market, easing supply tightness that had followed Iran-related conflict."
+    },
+    {
+      "id": "mkt:01a16237-7740-7ee0-a93b-c3edaa1f394e",
+      "time": "2026-10-22 14:06:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukraine's air force said it shot down 181 Russian drones overnight that attacked multiple regions of Ukraine."
+    },
     {
       "id": "5160614",
       "time": "2026-10-22 14:03:39",
@@ -121695,18 +121787,6 @@
         "Importance 1"
       ],
       "text": "UK Trade Gap Smallest in 7 Months — The United Kingdom’s trade deficit narrowed to £0.92 billion in August 2026, down from a revised £2.32 billion in the previous month. It was the smallest trade gap since January, when the trade balance posted a surplus, as exports grew while imports fell. Exports edged up 0.1% mom to £82.33 billion, while imports fell 1.5% to a seven-month low of £83.25 billion. Goods exports inched down 0.1% to £36.18 billion, despite higher shipments to non-EU countries, which rose 0.9%, mainly due to a £0.3 billion increase in chemical exports. Meanwhile, shipments to the EU fell 7.3%, weighed down by a £0.5 billion decline in exports of machinery and transport equipment. Services exports rose 0.4% to £46.15 billion. On the import side, goods imports fell 2.4% to a seven-month low of £54.19 billion, with imports from non-EU countries declining 6.3%, mainly due to drops in machinery and transport equipment. Meanwhile, imports from EU countries grew 1.6%. Services imports rose 0.2% to £29.06 billion."
-    },
-    {
-      "id": "te:economy:592196",
-      "time": "2026-10-15 14:08:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Monthly GDP MoM",
-        "Importance 2"
-      ],
-      "text": "UK Economy Unexpectedly Grows in August — The UK economy expanded 0.1% month-on-month in August 2026, slowing from 0.4% growth in both July and June but defying market expectations of a 0.1% contraction. Growth was driven by a 0.8% increase in production output, led by manufacturing, which rose 1.2%, and mining and quarrying, up 1.4%. These gains were partly offset by a 1.2% decline in water supply, sewerage and waste management. Meanwhile, services output showed no growth, as a 2% rise in wholesale and retail trade was offset by a 1.7% fall in administrative and support services and a 2.7% decline in food and beverage services. Construction output fell 0.2%, marking its fourth consecutive monthly decline, as a 0.7% drop in new work outweighed a 0.4% increase in repair and maintenance. On an annual basis, GDP grew 2.1%, its strongest increase since October 2022, up from 1.8% in July and exceeding forecasts of 1.7% growth."
     }
   ]
 }
