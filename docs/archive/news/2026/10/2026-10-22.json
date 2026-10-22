@@ -1,7 +1,134 @@
 {
   "date": "2026-10-22",
-  "count": 722,
+  "count": 735,
   "items": [
+    {
+      "id": "5159641",
+      "time": "2026-10-22 09:25:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤漲跌不一，上證指數漲0.04%，深證成指跌0.12%，創業板指跌0.25%。"
+    },
+    {
+      "id": "5159640",
+      "time": "2026-10-22 09:25:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股物理AI概念股延續漲勢 五一視界漲超4%】截至發稿，SENASIC(06675.HK)漲6.63%，五一視界(06651.HK)漲4.54%，樂動機器人(01236.HK)漲2.87%。"
+    },
+    {
+      "id": "mkt:01a16136-8bf4-7ee0-a934-dda68fb479e4",
+      "time": "2026-10-22 09:25:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "A-shares opened: Shanghai Composite +0.04%, Shenzhen Composite -0.12%, ChiNext Index -0.25%."
+    },
+    {
+      "id": "5159639",
+      "time": "2026-10-22 09:25:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞棕櫚油理事會：預計從2026年11月至2027年2月，馬來西亞棕櫚油庫存將呈下降趨勢。"
+    },
+    {
+      "id": "5159638",
+      "time": "2026-10-22 09:24:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞棕櫚油理事會：受出口需求增強和季節性產量下降影響，預計11月毛棕櫚油價格將維持在每噸4600林吉特以上。"
+    },
+    {
+      "id": "mkt:01a16135-8866-7ee0-a934-d14acda74176",
+      "time": "2026-10-22 09:24:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【PBOC net withdraws CNY125bn via reverse repos today】PBOC conducted no 7-day reverse repo operations today. CNY45bn of 7-day and CNY80bn of overnight reverse repos matured, producing a net liquidity withdrawal of CNY125bn."
+    },
+    {
+      "id": "mkt:01a16134-f17b-7ee0-a934-cc482b616dda",
+      "time": "2026-10-22 09:23:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,110/oz, down 0.74% on the day."
+    },
+    {
+      "id": "5159637",
+      "time": "2026-10-22 09:23:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放480億元人民幣。"
+    },
+    {
+      "id": "mkt:01a16134-a295-7ee0-a934-c13a4af128a4",
+      "time": "2026-10-22 09:23:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC said it set the 7-day reverse repo amount at zero on Oct 22, 2026, citing demand from open-market primary dealers, and conducted CNY173 bln of overnight reverse repos."
+    },
+    {
+      "id": "5159636",
+      "time": "2026-10-22 09:23:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：根據公開市場業務一級交易商的需求，2026年10月22日7天期逆回購操作量為零。同時，開展了1730億元隔夜逆回購操作。"
+    },
+    {
+      "id": "5159635",
+      "time": "2026-10-22 09:23:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4110美元/盎司，日內跌0.75%。"
+    },
+    {
+      "id": "5159634",
+      "time": "2026-10-22 09:22:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【寧德時代港股低開3.29%】寧德時代港股低開3.29%，上個交易日收跌超11%。"
+    },
+    {
+      "id": "mkt:01a16133-a413-7ee0-a934-b99721c8b391",
+      "time": "2026-10-22 09:22:16",
+      "tags": [
+        "MKT News",
+        "00992.HK",
+        "Impact bearish"
+      ],
+      "text": "Lenovo Group (00992.HK) shares opened about 4% lower after sources said the company is seeking a $2 bln loan to refinance existing debt at a lower cost."
+    },
     {
       "id": "mkt:01a16133-3532-7ee0-a934-b6590afe2203",
       "time": "2026-10-22 09:21:48",
