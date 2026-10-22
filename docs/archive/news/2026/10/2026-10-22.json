@@ -1,7 +1,125 @@
 {
   "date": "2026-10-22",
-  "count": 1369,
+  "count": 1381,
   "items": [
+    {
+      "id": "te:markets:594084",
+      "time": "2026-10-22 14:35:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Prices Slide to 5-Week Low — Copper futures fell toward $6.40 per pound on Thursday, reaching their lowest level in five weeks as a global selloff in artificial intelligence stocks dampened sentiment toward the metal. Copper remains a key beneficiary of AI expansion due to its essential role in data centers and power infrastructure. Prices also faced pressure this week amid speculation that the US may abandon proposed tariffs on refined copper imports. Markets increasingly expect the Trump administration to reconsider the measures ahead of the midterm elections, as global supplies tighten and inflationary pressures persist. Copper prices hit record highs last month after traders redirected shipments to US warehouses in anticipation of potential tariffs, reducing availability in other major markets. Meanwhile, supply concerns remain elevated amid the risk of labor strikes at major mining companies due to ongoing labor disputes."
+    },
+    {
+      "id": "5160674",
+      "time": "2026-10-22 14:35:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【青海落地綠電溯源地方標準 助力產業低碳轉型】記者從國網青海省電力公司獲悉，經過為期三個月的驗證，10月22日青海省正式落地《用電企業綠電溯源方法》專項地方標準，標誌著青海在綠色電力消費量化管控、全流程溯源體系建設方面實現新突破。（新華社）"
+    },
+    {
+      "id": "mkt:01a16251-867b-7ee0-a93c-a4a6b1da16fb",
+      "time": "2026-10-22 14:34:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China A-share property sector slid; Shenzhen Property A hit its daily down-limit, with Rongfeng Holdings, Jingtou Development, Jingneng Real Estate and Shahe Co. among the biggest decliners."
+    },
+    {
+      "id": "mkt:01a16251-4e4b-7ee0-a93c-9876b5e43a9c",
+      "time": "2026-10-22 14:34:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share cultural and media sector slid: Xinhua Media and Yinli Media hit limit-down; Guomai Culture, Zhaoxun Media, Kaipu Cloud and Evergrande High‑tech fell over 10%."
+    },
+    {
+      "id": "mkt:01a16251-235d-7ee0-a93c-9314b2f35555",
+      "time": "2026-10-22 14:34:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Market sources: Iraq is seeking to charter tankers to ship fuel oil to destinations outside the Strait of Hormuz."
+    },
+    {
+      "id": "5160673",
+      "time": "2026-10-22 14:33:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊震盪走低，深物業A觸及跌停】房地產板塊震盪走低，深物業A觸及跌停，榮豐控股、京投發展、京能置業、沙河股份跌幅居前。"
+    },
+    {
+      "id": "mkt:01a16250-da23-7ee0-a93c-8cea0991dba6",
+      "time": "2026-10-22 14:33:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PHILIPPINE C.BANK said it expects inf to accelerate further over the coming months and has acknowledged the need to adopt forceful monetary policy measures to counter widening price pressures."
+    },
+    {
+      "id": "5160672",
+      "time": "2026-10-22 14:33:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【儘管價格高企，亞洲仍增加LNG採購】儘管現貨價格飆升至近四年來的最高水平，但10月份亞洲的液化天然氣（LNG）進口量仍有望升至三個月以來的高點。根據大宗商品分析機構Kpler彙編的資料，10月份該地區的到貨量預計為2331萬噸，為7月份（2338萬噸）以來的最高水平。10月份的進口總量也將成為自中東衝突爆發以來的第二高月度資料——該衝突始於2月28日，當時美國和以色列對伊朗發動了襲擊。"
+    },
+    {
+      "id": "5160671",
+      "time": "2026-10-22 14:33:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴拿馬運河年貨運量創新高】巴拿馬運河管理局20日表示，由於中東戰事導致霍爾木茲海峽關閉，巴拿馬運河上一財年的貨運量創歷史新高。巴拿馬運河承擔約5%的全球海上貿易量。該機構說，去年10月到今年9月這一財年內，近1萬4千艘船經巴拿馬運河運送貨物，貨運量達5.21億噸。此前運河貨運量最高紀錄為2022財年的5.18億噸。（央視新聞）"
+    },
+    {
+      "id": "5160670",
+      "time": "2026-10-22 14:33:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行：將遏制第二輪效應，穩固錨定通脹預期。"
+    },
+    {
+      "id": "5160669",
+      "time": "2026-10-22 14:32:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行：如此果斷的應對將使貨幣政策處於適當的限制性水平。"
+    },
+    {
+      "id": "mkt:01a1624f-f66f-7ee0-a93c-845adef7340f",
+      "time": "2026-10-22 14:32:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Asia increases LNG imports despite near four-year high spot prices】Despite spot prices surging to near four-year highs, Asia’s LNG arrivals in October are expected at 23.31 mln tonnes, the highest since July (23.38 mln tonnes) and the second-highest monthly total since the Middle East conflict began on Feb. 28 when the U.S. and Israel attacked Iran, according to Kpler."
+    },
     {
       "id": "5160668",
       "time": "2026-10-22 14:32:23",
