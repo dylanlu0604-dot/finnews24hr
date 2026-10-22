@@ -1,7 +1,18 @@
 {
   "date": "2026-10-22",
-  "count": 669,
+  "count": 670,
   "items": [
+    {
+      "id": "te:markets:593984",
+      "time": "2026-10-22 08:53:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Prices Rise — Heating oil prices in the US rose above $4.80 per gallon, paring an over 3% loss in the previous session, as concerns over tight distillate supplies persisted despite plans to release emergency fuel stocks. The US Energy Department announced it would loan 315,000 barrels from the 1 million-barrel Northeast Home Heating Oil Reserve, with bids due October 27 and deliveries expected to be completed by November 13. The temporary release aims to ease heating costs ahead of winter, although its impact may be limited, as borrowers must return the fuel plus a premium. Separately, analysts warned that President Donald Trump's deal with Russia to supply diesel to US and global markets is unlikely to significantly ease price pressures, as the promised volumes are too small to alleviate the global supply squeeze. Meanwhile, EIA data showed US distillate inventories rose by 1.7 million barrels in the week ended October 16, but remained around 9% below their five-year average."
+    },
     {
       "id": "mkt:01a16116-a368-7ee0-a934-200c5ea70529",
       "time": "2026-10-22 08:50:35",

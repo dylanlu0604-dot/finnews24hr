@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-22 08:51:17",
-  "count": 13421,
+  "updated": "2026-10-22 08:55:11",
+  "count": 13416,
   "items": [
+    {
+      "id": "te:markets:593984",
+      "time": "2026-10-22 08:53:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Prices Rise — Heating oil prices in the US rose above $4.80 per gallon, paring an over 3% loss in the previous session, as concerns over tight distillate supplies persisted despite plans to release emergency fuel stocks. The US Energy Department announced it would loan 315,000 barrels from the 1 million-barrel Northeast Home Heating Oil Reserve, with bids due October 27 and deliveries expected to be completed by November 13. The temporary release aims to ease heating costs ahead of winter, although its impact may be limited, as borrowers must return the fuel plus a premium. Separately, analysts warned that President Donald Trump's deal with Russia to supply diesel to US and global markets is unlikely to significantly ease price pressures, as the promised volumes are too small to alleviate the global supply squeeze. Meanwhile, EIA data showed US distillate inventories rose by 1.7 million barrels in the week ended October 16, but remained around 9% below their five-year average."
+    },
     {
       "id": "mkt:01a16116-a368-7ee0-a934-200c5ea70529",
       "time": "2026-10-22 08:50:35",
@@ -121924,69 +121935,6 @@
         "市場"
       ],
       "text": "鈀金期貨日內漲1%，現報1107.50美元/盎司。"
-    },
-    {
-      "id": "5145941",
-      "time": "2026-10-15 08:54:51",
-      "tags": [
-        "公司",
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國CPI升溫後 日本片山皋月再度就日元發出警告】美國通脹資料升溫，日元兌美元跌至本月低位，日本財務大臣片山皋月向投機者發出警告，稱必要時準備再度在匯市採取行動。她同時表示，自7月美日聯合干預託底日元以來，華盛頓與東京的立場沒有發生變化。片山皋月週四上午在曼谷二十國集團會議前對記者表示：“兩國實施協同干預時釋放的訊號，代表我們當前外匯立場，完全沒有改變。美國現在與我們站在一起，必要時我們會毫不猶豫出手。”此前美國消費者物價資料顯示通脹創下五個月新高，日元承壓走弱，一度觸及1美元兌158.95日元；隨後美國國債收益率回落，日元跌幅收窄。日本財務大臣正出席一系列國際會議，各國財長預計將討論多項全球性難題，包括債券收益率上行，以及前沿人工智慧帶來的金融風險。"
-    },
-    {
-      "id": "te:markets:592091",
-      "time": "2026-10-15 08:54:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Shares Drop Further on Wall Street Jitters, Jobs Data — Australian stocks fell 42 points or 0.5% to 8,686 in early Thursday trading, extending losses to their weakest level in a week. A sharp Wall Street sell-off hit sentiment after hotter-than-expected U.S. inflation data rattled tech stocks and revived bets on Fed hikes. Locally, September jobs data showed the unemployment rate stuck at a near five-year high of 4.7% as employment unexpectedly declined. In major trading partner China, September CPI quickened but undershot forecasts, while producer prices rose more than expected; exports and imports surged to record highs, driving a strong trade surplus. Sectoral losses were led by tech, non-energy minerals, industrial services, and consumer durables, partly offset by gains in communications, consumer non-durables, and utilities. Heavyweight BHP Group slumped 3.8% despite securing a deal to avert a strike at Chile’s Escondida copper mine. Other major laggards included Goodman Group (-3.8%), Lynas Rare Earths (-3.7%), and Codan Ltd. (-3.4%)."
-    },
-    {
-      "id": "em:qqyh_mlc:202610153896166611",
-      "time": "2026-10-15 08:54:40",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【中金：預計美聯儲10月仍可能暫停加息 12月再度行動】中金公司研報表示，美國9月CPI季調環比上漲0.6%，同比上漲3.7%；核心CPI環比上漲0.3%，同比上漲2.6%，均較上月反彈，且超出市場預期。貨幣政策方面，通脹反彈強化了美聯儲繼續加息的必要性，但由於近期美債收益率上行、美元走強，金融條件已部分收緊，美聯儲或保持耐心。預計10月仍可能暫停加息，12月再度行動。不過，加息節奏放緩並不意味著貨幣政策轉向寬鬆，未來一年，美聯儲或仍將維持偏緊的政策立場。"
-    },
-    {
-      "id": "5145930",
-      "time": "2026-10-15 08:52:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌7％，SK海力士跌10%，三星電子跌近8%。"
-    },
-    {
-      "id": "mkt:01a13d0b-7356-7ee0-a888-e2e8e3610b10",
-      "time": "2026-10-15 08:52:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "【South Korea KOSPI plunges 7%】South Korea's KOSPI fell 7%. SK Hynix dropped 10%; Samsung Electronics fell nearly 8%."
-    },
-    {
-      "id": "5145927",
-      "time": "2026-10-15 08:51:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果庫克現身愛奇藝北京總部 體驗愛奇藝適配iPhone Duo觀影效果】記者10月14日從愛奇藝獲悉，蘋果公司執行董事長蒂姆·庫克當日到訪愛奇藝北京總部。愛奇藝創始人、CEO龔宇回顧了16年來愛奇藝對蘋果裝置的適配情況，介紹了愛奇藝在音影片技術和AI領域的探索。庫克在最新款iPhoneDuo上體驗了愛奇藝適配觀影效果。"
     }
   ]
 }
