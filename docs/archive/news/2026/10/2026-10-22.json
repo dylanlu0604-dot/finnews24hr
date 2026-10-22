@@ -1,7 +1,36 @@
 {
   "date": "2026-10-22",
-  "count": 701,
+  "count": 704,
   "items": [
+    {
+      "id": "mkt:01a16128-5ff6-7ee0-a934-91ff5fa3b75a",
+      "time": "2026-10-22 09:09:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese AI firm Keling launches Kling 4.0 API】Chinese AI firm Keling has launched the Kling 4.0 API and will roll it out progressively to global enterprise customers and developers. Kling 4.0 supports single native generation runs of up to 30 seconds, long takes and continuous narrative with integrated director-thinking capabilities. The model is already live on partner platforms including iQiyi Nadoo Pro, Higgsfield, LibTV, Magnific (Freepik), Meitu, OpenArt, OiiOii, TapNow, Tencent Design Miora and updream."
+    },
+    {
+      "id": "5159619",
+      "time": "2026-10-22 09:09:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【德國企業代表團到訪德馬集團湖州超級未來工廠】據德馬集團公眾號，近日，由德國知名產業叢集it's OWL牽頭，聯合Stratosfare機器人聯盟共同組織的德國企業代表團到訪德馬集團湖州超級未來工廠，圍繞具身智慧人形機器人在工業物流場景中的落地應用，展開了深度交流與實地考察。本次牽頭組織參訪的Stratosfare機器人聯盟匯聚了GEA、Miele、STIHL、BENTELER、HARTING、WAGO、英飛凌等歐洲工業製造業企業。"
+    },
+    {
+      "id": "mkt:01a16125-85d4-7ee0-a934-8934374ba6d1",
+      "time": "2026-10-22 09:06:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "8306.T",
+        "Impact bearish"
+      ],
+      "text": "KYODO reports Mitsubishi UFJ Financial Group suspended some services, possibly to patch a PHP vulnerability."
+    },
     {
       "id": "mkt:01a16124-2d1d-7ee0-a934-838949a2888e",
       "time": "2026-10-22 09:05:23",
