@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-23 06:58:14",
-  "count": 13298,
+  "updated": "2026-10-23 07:05:26",
+  "count": 13293,
   "items": [
+    {
+      "id": "5162812",
+      "time": "2026-10-23 07:01:07",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國10月GfK消費者信心指數 -24，預期 -14，前值 -13。"
+    },
+    {
+      "id": "mkt:01a165d8-c6b7-7ee0-a950-45db1e1d537f",
+      "time": "2026-10-23 07:01:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK October GfK consumer confidence index -24, consensus -15, prior -13."
+    },
+    {
+      "id": "mkt:01a165d8-a9d9-7ee0-a950-3e5405f33886",
+      "time": "2026-10-23 07:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GfK Consumer Confidence Index (Oct) | actual -24 | consensus -15 | previous -13"
+    },
     {
       "id": "5162811",
       "time": "2026-10-23 06:56:13",
@@ -64,6 +96,15 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: XRP Drops by 4.33% — Top crypto losers are XRP (-4.33%), Ether (-3.63%) and Bitcoin (-3.34%)."
+    },
+    {
+      "id": "5162806",
+      "time": "2026-10-23 06:44:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【10月23日隔夜要聞一覽】\n1、特朗普談伊朗：可能會進一步採取行動。我們已經狠狠打擊了他們，可能還會再進一步。\n2、當地時間10月22日，俄羅斯總統普京就此前一天與美國總統特使威特科夫會晤一事接受俄媒採訪。普京表示，俄羅斯願意恢復俄美烏三方接觸，會談的話題應是“結束衝突、達成最終和平協議之後，如何徹底解決烏克蘭和俄羅斯的安全問題”。\n3、SK海力士：決定不推進Solidigm在美國的IPO。基於市場環境與股價走勢，已終止 IPO 稽核。\n4、美國羅得島州在州法院對美國“元”公司（Meta）提起訴訟，指控該公司在旗下社交媒體臉書（Facebook）、照片牆（Instagram）和即時通訊應用WhatsApp上對氾濫的詐騙廣告採取縱容態度。\n5、西部資料第一財季淨營收43.8億美元，同比增長55%，分析師預期41.5億美元。第一財季調整後每股收益（EPS）為4.64美元，分析師預期4.10美元。預計第二財季營收50億-52億美元，同比料增66%-72%，分析師預期48.2億美元。\n6、美國總統特朗普已致電美國太空探索技術公司執行長馬斯克，要求其解除對烏克蘭軍用版“星鏈”衛星通訊服務的限速。 \n7、據知情交易人士透露，OpenAI 即將敲定一輪融資，投前估值 1.25 萬億美元，募資規模最高可達 300 億美元。 \n8、據兩位知情人士透露，在美國主要銀行有報道稱人工智慧（AI）代理正在訪問銀行賬戶並獨立於使用者指令採取行動後，這些銀行正在阻止第三方 人工智慧代理在 客戶賬戶內操作並進行交易。\n9、據外媒援引知情人士透露，SpaceX(SPCX.O)計劃在美國保障至少8萬個蜂窩通訊站址，並正與至少一家大型通訊基礎設施公司展開談判，以實現這一目標。"
     },
     {
       "id": "5162805",
@@ -120582,92 +120623,6 @@
         "宏觀"
       ],
       "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、第140屆廣交會開展 吸引境外採購商約34萬名\n2、李強在中朝新鴨綠江大橋開通儀式上發表影片致辭\n3、何立峰會見美國橋水投資公司創始人達利歐\n4、中老鐵路國際旅客列車運送出入境人員首破100萬人次\n5、從外資流向看中國市場新引力（人民時評）——正確認識中國經濟的階段特徵與長遠趨勢④\n6、四部門聯合調查組釋出嬰幼兒紙尿褲甲醯胺問題核查情況通報\n7、截至9月底，今年已有167個影視劇組來雲南拍攝 天然攝影棚變創作生產地（經濟聚焦）\n8、深入實施全穀物行動計劃 促進節糧減損和營養健康\n9、到2030年 北京新能源貨車比例將提高到30%\n10、新疆出臺條例促進旅遊民宿發展\n11、陝建物流推動資料從“成本項”向“價值項”轉變 構建線上平臺 提升執行效率\n12、亞行報告顯示——亞太地區經濟展現韌性\n13、歐盟推進遏制森林砍伐新規引爭議 環保標準升級與貿易成本控制之間難以平衡。"
-    },
-    {
-      "id": "mkt:01a141cf-b21a-7ee0-a8a9-370118d5c211",
-      "time": "2026-10-16 07:04:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Brent"
-      ],
-      "text": "【Venezuelan opposition leader accuses Trump administration oil partner of 'extreme' corruption】Exiled Venezuelan opposition leader María Corina Machado said in an interview this week that Washington’s newly selected oil partner in Venezuela, Alejandro Betancourt, is implicated in \"extremely serious corruption.\" She said if she returned to power she would not regard Betancourt as a viable commercial partner. Betancourt recently struck a lucrative deal with the Trump administration that gave him control of roughly one-fifth of Venezuela’s oil reserves."
-    },
-    {
-      "id": "5148490",
-      "time": "2026-10-16 07:03:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星在 Nextrade 盤前交易上漲 3.6%，SK 海力士上漲 3.7%。"
-    },
-    {
-      "id": "mkt:01a141cc-e765-7ee0-a8a9-2d8e47f6e7db",
-      "time": "2026-10-16 07:01:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say the order to restrict Ukraine’s access to the Starshield system originated inside the White House."
-    },
-    {
-      "id": "5148489",
-      "time": "2026-10-16 07:01:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：訊息人士稱，限制烏克蘭使用星盾（Starshield）系統的指令源自白宮內部。"
-    },
-    {
-      "id": "5148488",
-      "time": "2026-10-16 07:00:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國統計廳：韓國 9 月就業人數同比增加 11.3 萬人，8 月同比增加 18.4 萬人。"
-    },
-    {
-      "id": "mkt:01a141cb-59eb-7ee0-a8a9-25923232df40",
-      "time": "2026-10-16 07:00:08",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "South Korea September unemployment rate 2.6% vs 2.7% expected; prior 2.7%."
-    },
-    {
-      "id": "mkt:01a141cb-3aba-7ee0-a8a9-1acfb780764c",
-      "time": "2026-10-16 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Unemployment Rate (Sep) | actual 2.6% | consensus 2.70% | previous 2.70%"
-    },
-    {
-      "id": "te:markets:592527",
-      "time": "2026-10-16 06:59:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Poised for Second Straight Weekly Gain — The NZX 50 climbed 24 points, or 0.2%, to 13,857 in Friday morning trade, extending gains from the previous two sessions to reach its highest level since September 22. The index tracked a rise on Wall Street overnight as the tech selloff faded and Treasury yields eased. Fresh data also lifted sentiment, as New Zealand's factory activity growth accelerated in August. However, food inflation hit a three-month high, while electronic card spending continued to fall in September, capping the gains. Traders also looked ahead to the release of Q3 inflation and trade data, along with a slew of Chinese data, including GDP growth, due next week. Healthcare, consumer discretionary, and consumer staples stocks mainly supported the index, with notable gains from Fisher & Paykel (1.1%), South Port of New Zealand (1.1%), Infratil (1.0%), and EBOS Group (0.5%). For the week, the index is heading for a 0.8% rise, which would mark its second straight weekly increase."
-    },
-    {
-      "id": "5148486",
-      "time": "2026-10-16 06:58:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【亞信第七次峰會在巴庫舉行】亞洲相互協作與信任措施會議（亞信）第七次峰會15日在亞塞拜然首都巴庫舉行。與會各方就亞洲安全與發展、落實信任措施和加強務實合作等交換意見，會議透過並發表《亞信第七次峰會宣言》。（新華社）"
     }
   ]
 }
