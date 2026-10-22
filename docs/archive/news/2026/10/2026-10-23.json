@@ -1,7 +1,562 @@
 {
   "date": "2026-10-23",
-  "count": 384,
+  "count": 443,
   "items": [
+    {
+      "id": "5162808",
+      "time": "2026-10-23 06:48:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【地方AMC紓困實體再添工具，市場化債轉股資質擴容進行時】近日，江西省金融資產管理股份有限公司公告稱，已獲批開展市場化債轉股業務。中國證券報記者統計發現，自去年7月金融監管總局明確符合條件的地方AMC可開展該項業務以來，多家地方AMC相繼獲批，部分機構已落地首單專案。股債結合的業務工具，為地方AMC推進投行化轉型、參與區域債務化解及上市公司紓困開啟了新空間。不過，業內人士坦言，當前該項業務整體仍處於試水階段，地方AMC需要在資本、人才、風控、退出機制等方面進行系統效能力建設。（中證報）"
+    },
+    {
+      "id": "5162807",
+      "time": "2026-10-23 06:46:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞提議提高銀行擔保債券發行上限，並就金融業競爭問題啟動意見徵詢。"
+    },
+    {
+      "id": "te:markets:594359",
+      "time": "2026-10-23 06:45:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 4.33% — Top crypto losers are XRP (-4.33%), Ether (-3.63%) and Bitcoin (-3.34%)."
+    },
+    {
+      "id": "5162805",
+      "time": "2026-10-23 06:40:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中小銀行債券投資“攻守換防”，久期策略迴歸審慎】近日，10年期國債收益率持續下行，截至10月22日，已觸及歷史低位1.6414%。機構對長端品種交易態度趨於謹慎。“我們對金融投資規模的控制早已開始，今年以來未新增債券持倉。”西部地區某農商行金融市場部人士坦言。不過，也有中小銀行稱，債券投資業務仍按原有節奏開展。 中小銀行債券投資的底層邏輯正在重塑。過去兩年，不少中小銀行依賴拉長久期、透過交易盤博取波段價差來支撐非息收入。如今，這一模式遭遇三重壓力：監管引導、風控顧慮，以及負債端約束。在此背景下，中小銀行的操作從“賣短買長”切換為“買短賣長”，整體策略由交易主導逐步轉向以票息鎖定和流動性管理為核心的被動配置。（中證報）"
+    },
+    {
+      "id": "te:markets:594358",
+      "time": "2026-10-23 06:40:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Drops by 4.05% — Top commodity losers are Cocoa (-4.05%) and Sugar (-1.56%). Gains are led by Rapeseed (1.25%), Rice (0.90%) and Barley (0.78%)."
+    },
+    {
+      "id": "te:economy:594357",
+      "time": "2026-10-23 06:39:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Services PMI",
+        "Importance 2"
+      ],
+      "text": "Australia Services Activity Shrinks Most in 7 Months — The S&P Global Australia Services PMI Business Activity Index eased to 47.8 in October 2026 from 51.9 in September, marking the first contraction since May, flash data showed. It was the lowest reading since March, though new business remained in growth, with the rate of expansion clearly slowing."
+    },
+    {
+      "id": "5162804",
+      "time": "2026-10-23 06:37:36",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週五重要財經資訊提醒（以下均為北京時間）】\n① 07:30 日本9月CPI；\n② 08:30 日本10月製造業、服務業、綜合PMI初值；\n③ 時間待定 2026全球開發者先鋒大會暨國際具身智慧技能大賽；\n④ 13:00 印度10月製造業、服務業、綜合PMI初值；\n⑤ 14:00 英國9月零售銷售；\n⑥ 15:15 法國10月製造業、服務業、綜合PMI初值；\n⑦ 15:30 德國10月製造業、服務業、綜合PMI初值；\n⑧ 16:00 歐元區10月製造業、服務業、綜合PMI初值；\n⑨ 16:30 英國10月製造業、服務業、綜合PMI初值；\n⑩ 18:30 俄羅斯央行公佈利率決議；\n⑪ 美股盤前 美國運通釋出業績報告；\n⑫ 20:30 加拿大8月零售銷售；\n⑬ 21:45 美國10月標普全球服務業、製造業、綜合PMI初值；\n⑭ 22:00 美國10月密歇根大學消費者信心指數終值，歐洲央行執委Cipollone參加一場爐邊閒聊；\n⑮ 週日 西舉行總統選舉第二輪決選，歐洲多國開始實施冬令時（金融市場交易延後一小時）。"
+    },
+    {
+      "id": "te:economy:594356",
+      "time": "2026-10-23 06:37:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Australia Manufacturing Shrinks for 2nd Straight Month — The S&P Global Australia Manufacturing PMI inched up to 49.7 in October 2026 from a 21-month low of 49.6 in September, preliminary estimates showed. It marked the second straight month of contraction in the manufacturing sector, driven by a steeper fall in new orders, while foreign demand reported a less pronounced decline. Purchasing activity continued to fall in line with new orders, with delivery times worsening further. On the price front, input cost inflation accelerated."
+    },
+    {
+      "id": "5162803",
+      "time": "2026-10-23 06:36:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際貨幣基金組織：預計今年中東地區經濟將萎縮1.3%】國際貨幣基金組織於阿聯酋迪拜釋出《區域經濟展望》。報告指出，受美以伊衝突影響，能源生產、航運、貿易和旅遊等領域受到衝擊，預計2026年中東、北非、阿富汗和巴基斯坦的經濟將萎縮1.3%。國際貨幣基金組織中東和中亞部主任吉哈德·阿祖爾預測，海灣阿拉伯國家合作委員會成員國中，除阿曼外，其餘成員國經濟今年均將出現萎縮。相比之下，石油進口國經濟表現出一定韌性。國際貨幣基金組織預計，如果地區衝突在2027年初緩和，地區貿易逐步恢復正常，中東和北非、阿富汗及巴基斯坦經濟增長水平有望在2027年實現反彈。（央視新聞）"
+    },
+    {
+      "id": "te:economy:594355",
+      "time": "2026-10-23 06:36:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Australia Private Sector Contracts for 1st Time in 5 Months — Australia’s S&P Global Flash Composite PMI declined to 47.7 in October 2026 from 51.3 in September, marking the lowest reading since March, preliminary data showed. It was the first contraction in private-sector activity since May, with the services sector contracting for the first time in five months, while manufacturing continued to contract, though at a softer pace."
+    },
+    {
+      "id": "5162802",
+      "time": "2026-10-23 06:35:24",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "SK海力士：決定不推進Solidigm在美國的IPO。基於市場環境與股價走勢，已終止 IPO 稽核。對 Solidigm 的增長投入需求保持不變，公司將繼續探索提升股東價值的其他方案。"
+    },
+    {
+      "id": "te:markets:594354",
+      "time": "2026-10-23 06:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Plunges by 5.81% — Top commodity losers are Silver (-5.81%), Platinum (-3.61%), Lithium Carbonate (-3.26%) and Gold (-2.70%)."
+    },
+    {
+      "id": "te:markets:594353",
+      "time": "2026-10-23 06:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Ethanol Falls by 4.18% — Top commodity losers are Ethanol (-4.18%) and Methanol (-4.06%). Gains are led by Natural Gas EU (3.88%), Heating Oil (3.75%), Brent Oil (3.72%) and Crude Oil (1.96%)."
+    },
+    {
+      "id": "5162800",
+      "time": "2026-10-23 06:22:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鋰礦三季報業績高增背後隱現預期分歧】10月中下旬以來，鋰礦企業三季報及前三季度業績預告密集報喜。記者注意到，鋰礦企業前三季度同比增長數倍乃至數十倍的“成績單”背後，藏著一個值得關注的細節——高增長未在第三季度延續，單季淨利潤環比普遍回落，盈利增速放緩訊號浮出水面。業績曲線的變化直接反映在碳酸鋰價格走勢上。自9月起碳酸鋰價格持續下行，市場交易邏輯悄然切換，一場產業現實與遠期預期的博弈正在上演。一方面盤面提前計價遠期供給過剩，另一方面現貨端依舊平穩出貨，預期和現實之間的溫差，成為當前鋰市場核心的分歧點。（上證報）"
+    },
+    {
+      "id": "mkt:01a165b1-6992-7ee0-a950-29507a6b890b",
+      "time": "2026-10-23 06:18:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tibet activated a Level-3 emergency response for natural disaster relief."
+    },
+    {
+      "id": "5162799",
+      "time": "2026-10-23 06:17:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普將於11月1日訪問艾奧瓦州。"
+    },
+    {
+      "id": "te:markets:594352",
+      "time": "2026-10-23 06:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Japanese Yen Rises by 0.89% — Top currency gainers are Japanese Yen (0.89%), Swiss Franc (0.48%) and Norwegian Krone (0.33%). Biggest losers are Indian Rupee (-0.68%), Polish Zloty (-0.60%), Brazilian Real (-0.58%), Dollar Index (-0.16%) and Euro (-0.12%). Meanwhile British Pound was little changed."
+    },
+    {
+      "id": "5162797",
+      "time": "2026-10-23 06:14:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普週六在佐治亞發表講話。"
+    },
+    {
+      "id": "5162796",
+      "time": "2026-10-23 06:13:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普週五將在佛羅里達發表講話。"
+    },
+    {
+      "id": "5162795",
+      "time": "2026-10-23 06:12:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏啟動自然災害救助三級應急響應】今天，西藏自治區防災減災救災委員會辦公室釋出通知：2026年10月22日22時33分，西藏那曲市巴青縣發生7.0級地震（北緯32.40度、東經93.79度），震源深度10公里。災害已造成人員傷亡和財產損失。根據《西藏自治區自然災害救助應急預案》（藏政辦函〔2024〕33號）規定，於10月23日緊急啟動西藏自治區自然災害救助三級應急響應。（央視新聞）"
+    },
+    {
+      "id": "5162794",
+      "time": "2026-10-23 06:05:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "Datafolha民調顯示，在巴西總統選舉第二輪投票中，弗拉維奧·博索納羅支援率為47%，巴西總統盧拉為46%。"
+    },
+    {
+      "id": "mkt:01a165a4-38e8-7ee0-a950-23b2cfae04f4",
+      "time": "2026-10-23 06:03:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi-led coalition said it intercepted and destroyed two drones targeting the southern region."
+    },
+    {
+      "id": "5162793",
+      "time": "2026-10-23 06:02:09",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞10月標普全球綜合PMI初值 47.7，前值51.3。澳大利亞10月標普全球服務業PMI初值 47.8，前值51.9。"
+    },
+    {
+      "id": "mkt:01a165a2-9250-7ee0-a950-1d6671ce9b30",
+      "time": "2026-10-23 06:01:55",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "S&P Global flash Australia services PMI 47.8 in October, down from 51.9; reading below 50 indicates sector contraction."
+    },
+    {
+      "id": "mkt:01a165a2-717b-7ee0-a950-128dc630b588",
+      "time": "2026-10-23 06:01:46",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia October S&P Global manufacturing PMI (preliminary) 49.7, prior 49.6."
+    },
+    {
+      "id": "mkt:01a165a2-70b5-7ee0-a950-0c5cb29bb4ad",
+      "time": "2026-10-23 06:01:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | S&P Global Services PMI, preliminary (Oct) | actual 47.8 | previous 51.9"
+    },
+    {
+      "id": "mkt:01a165a2-5e64-7ee0-a950-0479bb334a0d",
+      "time": "2026-10-23 06:01:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia Oct S&P Global Composite PMI preliminary 47.7; prior 51.3."
+    },
+    {
+      "id": "mkt:01a165a2-5964-7ee0-a94f-fe530365336c",
+      "time": "2026-10-23 06:01:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | S&P Global Manufacturing PMI, preliminary (Oct) | actual 49.7 | previous 49.6"
+    },
+    {
+      "id": "mkt:01a165a2-3edb-7ee0-a94f-f014f46165f7",
+      "time": "2026-10-23 06:01:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | S&P Global Composite PMI, preliminary (Oct) | actual 47.7 | previous 51.3"
+    },
+    {
+      "id": "5162792",
+      "time": "2026-10-23 06:00:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱已攔截並摧毀兩架飛向南部地區的無人機。"
+    },
+    {
+      "id": "5162791",
+      "time": "2026-10-23 06:00:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲10月維持利率不變的機率為92.8%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為92.8%，累計加息25個基點的機率為7.2%。美聯儲到12月維持利率不變的機率為19.5%，累計加息25個基點的機率74.8%，累計加息50個基點的機率為5.7%。"
+    },
+    {
+      "id": "te:markets:594351",
+      "time": "2026-10-23 06:00:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper Hits 5-week Low — Copper decreased to 6.35 USD/Lbs, the lowest since September 2026. Over the past 4 weeks, Copper lost 4.69%, and in the last 12 months, it increased 25.5%."
+    },
+    {
+      "id": "5162790",
+      "time": "2026-10-23 05:54:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國羅得島州起訴“元”公司縱容詐騙廣告】美國羅得島州在州法院對美國“元”公司（Meta）提起訴訟，指控該公司在旗下社交媒體臉書（Facebook）、照片牆（Instagram）和即時通訊應用WhatsApp上對氾濫的詐騙廣告採取縱容態度。該訴訟由羅得島州總檢察長提交，指控Meta透過參與制造詐騙廣告非法牟利。這是美國各州針對Meta提起的首起與詐騙相關的訴訟，此前加利福尼亞州聖克拉拉縣曾在5月份提起過類似訴訟。羅得島州的訴狀引用了去年被披露的Meta內部檔案。根據這些檔案，Meta每天向使用者展示約150億條“高風險”詐騙廣告，其2024年收入的約10%來自欺詐性電子商務、可疑保健品和其他被禁的營銷活動。該訴訟要求對Meta涉嫌違反羅得島州法律的每一項行為處以民事罰款，要求向消費者退還損失，追繳其非法所得，並申請法院判令Meta整改平臺上的詐騙廣告，而不是從中獲利。Meta表示將應訴，稱這起訴訟“毫無根據”，並指出該公司定期與執法部門合作以打擊詐騙網路。Meta發言人稱，僅在過去一年裡，Meta就刪除了超過1.59億條詐騙廣告，並推出了新的反欺詐工具。（央視新聞）"
+    },
+    {
+      "id": "5162789",
+      "time": "2026-10-23 05:50:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SpaceX計劃在美國確保至少8萬個蜂窩基站，與大型通訊塔運營商洽談合作】據外媒援引知情人士透露，SpaceX(SPCX.O)計劃在美國保障至少8萬個蜂窩通訊站址，並正與至少一家大型通訊基礎設施公司展開談判，以實現這一目標。知情人士表示，相關協議將進一步鞏固其打造美國第四家全國性無線運營商的計劃。SpaceX正在洽談的公司之一是Crown Castle。該公司與American Tower Corp.、Vertical Bridge Holdings並列為美國最大的通訊塔資產持有者之一。在週三的業績電話會議上，有人問及Crown Castle是否正在與SpaceX、亞馬遜或其他基於衛星的電信服務提供商討論租賃事宜。Crown Castle執行長回答說：“你們可以認為，我們正在與所有相關方進行洽談。”"
+    },
+    {
+      "id": "5162788",
+      "time": "2026-10-23 05:49:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "報道：SK海力士決定，不追求將Solidigm美國IPO。"
+    },
+    {
+      "id": "te:markets:594350",
+      "time": "2026-10-23 05:48:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Sweden",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Atlas Copco earnings above expectations at 1.58 SEK — Atlas Copco (ATCOA) released earnings per share at 1.58 SEK, compared to market expectations of 1.55 SEK."
+    },
+    {
+      "id": "mkt:01a16591-0835-7ee0-a94f-ed59a4396576",
+      "time": "2026-10-23 05:42:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "GM.O",
+        "Impact bearish"
+      ],
+      "text": "SEC filing shows GM canceled a long-term supply agreement for rare-earth magnets at a plant slated to be acquired by Energy Fuels."
+    },
+    {
+      "id": "mkt:01a1658d-c49d-7ee0-a94f-e66742b2f8d7",
+      "time": "2026-10-23 05:39:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump delays tariffs on wind turbines, orders 180-day review with trade partners】Trump signed an executive order on Thursday temporarily suspending planned national-security tariffs on wind turbines and components and directing the U.S. Trade Representative and the Commerce secretary to consult trading partners and submit a report within 180 days. The order notes some turbines and parts remain subject to existing aluminum, copper and steel tariffs, instructs officials to pursue agreements or continue ongoing negotiations to address imports, and says the administration may consider additional remedies depending on the talks' progress or outcomes."
+    },
+    {
+      "id": "5162787",
+      "time": "2026-10-23 05:38:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "Crown Castle Inc.美股盤後漲9%，AT&T則跌5%。"
+    },
+    {
+      "id": "5162786",
+      "time": "2026-10-23 05:34:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "力拓將投資19億美元，開發昆士蘭州約克角半島西部的Kangwinan鋁土礦專案。"
+    },
+    {
+      "id": "mkt:01a16589-6bbf-7ee0-a94f-df98cdfc3b23",
+      "time": "2026-10-23 05:34:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say SpaceX is negotiating access to roughly 80,000 cell sites to build a new network."
+    },
+    {
+      "id": "5162785",
+      "time": "2026-10-23 05:31:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際金價跌2.7%，逼近4000美元整數位心理關口】週四（10月22日）紐約尾盤，現貨黃金跌2.71%，報4028.58美元/盎司，整體持續下跌，交投於4145.82-4021.32美元區間。現貨白銀跌5.87%，報54.5746美元/盎司，交投於57.9753-54.4901美元。COMEX銅期貨跌2.67%，報6.3985美元/磅。現貨鉑金跌3.86%，報1568.54美元/盎司；現貨鈀金跌3.60%，報1054.02美元/盎司。在美股時段交易的費城金銀指數收跌5.53%，報333.96點，大部分時間低位窄幅震盪。"
+    },
+    {
+      "id": "5162784",
+      "time": "2026-10-23 05:30:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX正洽談接入8萬個基站，用於新建網路。"
+    },
+    {
+      "id": "5162783",
+      "time": "2026-10-23 05:20:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國提議將生物技術納入對外投資限制範圍。"
+    },
+    {
+      "id": "5162782",
+      "time": "2026-10-23 05:20:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "Claude：現在，谷歌雲上面可以使用Anthropic旗下Claude平臺。"
+    },
+    {
+      "id": "5162781",
+      "time": "2026-10-23 05:19:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "據知情人士透露，加拿大石油勘探公司Logan Energy探索出售選項。"
+    },
+    {
+      "id": "5162779",
+      "time": "2026-10-23 05:15:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.04%，報12935點。"
+    },
+    {
+      "id": "5162778",
+      "time": "2026-10-23 05:13:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（10月22日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.6721元，繼續逼近2022年6月15日最終報價6.6687元、當年4月27日最終報價6.5868元，較週三紐約尾盤漲27點，日內整體交投於6.6756-6.6715元區間。"
+    },
+    {
+      "id": "mkt:01a16573-a572-7ee0-a94f-d55a699a3018",
+      "time": "2026-10-23 05:10:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O) said it has launched on Google Cloud a deployment option for the Claude model, with deployments to be managed by Anthropic."
+    },
+    {
+      "id": "5162777",
+      "time": "2026-10-23 05:10:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌宣佈，Google Cloud 上由 Anthropic 負責託管部署的 Claude 模型選項正式全面可用。"
+    },
+    {
+      "id": "mkt:01a16572-6b68-7ee0-a94f-cd5883729ec9",
+      "time": "2026-10-23 05:09:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "The U.S. Treasury proposed new rules for foreign investment review and removed Venezuela from its \"countries of concern\" list."
+    },
+    {
+      "id": "5162776",
+      "time": "2026-10-23 05:06:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "“特斯拉勁敵”Rivian 收購Third Dimension AI。"
+    },
+    {
+      "id": "5162775",
+      "time": "2026-10-23 05:06:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果將在App Store推出團體訂閱購買服務。"
+    },
+    {
+      "id": "5162774",
+      "time": "2026-10-23 04:59:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "惠譽：美國非銀行抵押貸款公司面臨利率環境挑戰，槓桿水平上升。"
+    },
+    {
+      "id": "5162773",
+      "time": "2026-10-23 04:58:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽預計，2027年抵押貸款市場規模縮小將限制盈利上行空間，抵押貸款公司僅將實現溫和盈利。"
+    },
+    {
+      "id": "5162772",
+      "time": "2026-10-23 04:57:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "西部資料：預計未來五年資本開支與營收的比率均值將為4%-6%，未來兩年將適度地高於那樣的水平。預計到第二財季，其將佔近線硬碟出貨量的近30%；到第三財季將達到50%。處於日曆年2027年上半年開始發貨的正軌之上。在雲和超大規模雲服務（Hyperscale）之外看到更強勁的需求。進入企業環境和更新的終端市場。40TB EPMR將強勁開局。"
+    },
+    {
+      "id": "mkt:01a16565-be1e-7ee0-a94f-c73edbd12e32",
+      "time": "2026-10-23 04:55:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump invokes Defense Production Act to accelerate US oil capacity expansion】The White House said on Oct. 22 President Trump invoked the Defense Production Act to designate domestic oil exploration and production, pipeline transport, storage, refining and marine terminals as critical national-defense resources. The action authorizes the federal government to use direct procurement, purchase commitments, financing and other financial measures to expand related capacity. The statement cited financing constraints, long project lead times, permitting and infrastructure bottlenecks and supply‑chain limits as reasons U.S. firms have struggled to meet demand, and said Trump waived certain requirements of Section 303 to speed expansion."
+    },
+    {
+      "id": "5162767",
+      "time": "2026-10-23 04:53:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "西部資料：預計到第二財季，其將佔近線硬碟出貨量的近30%到第三財季將達到50%。處於日曆年2027年上半年開始發貨的正軌之上。"
+    },
+    {
+      "id": "5162763",
+      "time": "2026-10-23 04:51:56",
+      "tags": [
+        "宏觀",
+        "市場",
+        "觀點"
+      ],
+      "text": "【大摩看好南非國債，但對蘭特保持謹慎】在南非財政部公佈債券回購計劃後，摩根士丹利對南非政府債券更為樂觀，預計該計劃將支撐較長期債券。財政部計劃包括實施國內債券回購以平滑未來到期兌付，並減少固定利率和通脹掛鉤債券的銷售。摩根士丹利分析師對蘭特較為謹慎，認為其容易受到全球利率、貴金屬和油價波動影響，因此更偏好南非久期資產而非外匯敞口。"
+    },
     {
       "id": "5162748",
       "time": "2026-10-23 04:49:03",
