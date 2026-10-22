@@ -1,7 +1,145 @@
 {
-  "updated": "2026-10-22 14:17:36",
-  "count": 13412,
+  "updated": "2026-10-22 14:21:28",
+  "count": 13424,
   "items": [
+    {
+      "id": "mkt:01a16245-1fc1-7ee0-a93c-2413b5bf8a9e",
+      "time": "2026-10-22 14:20:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The spread between France's and Germany's 10-year government bond yields widened to 161bps, the widest since November 2011."
+    },
+    {
+      "id": "5160634",
+      "time": "2026-10-22 14:20:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "Robinhood：已獲得迪拜金融服務管理局的授權，將在中東推出其零售投資平臺。"
+    },
+    {
+      "id": "mkt:01a16244-aea4-7ee0-a93c-1b97c1fa61a0",
+      "time": "2026-10-22 14:20:30",
+      "tags": [
+        "MKT News",
+        "HOOD.O",
+        "Impact bullish"
+      ],
+      "text": "【Robinhood to launch retail trading platform in Middle East next year】Robinhood (HOOD.O) plans to launch a retail investment platform in the Middle East next year and will base operations in Dubai. The company said it has been authorized by the Dubai Financial Services Authority to provide trading and custody for individual customers across 10 asset classes, including stocks and ETFs."
+    },
+    {
+      "id": "te:economy:594071",
+      "time": "2026-10-22 14:20:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Norway Industrial Confidence Hits Highest Since Q1 2025 — Norway’s industrial confidence rose to 3.4 in Q3 2026 from a downwardly revised 2.5 in the previous quarter, exceeding its long-term average of 2.9. This marked the highest reading since Q1 2025, as total industrial production improved slightly, driven largely by a strong increase in output among intermediate goods manufacturers, particularly non-ferrous metals producers. Consumer goods production also rose moderately, while investment goods output remained unchanged as declining oil and gas investment continued to weigh on the sector. Meanwhile, industrial employment remained broadly flat for a fourth consecutive quarter. On the price front, input costs increased at a faster pace than selling prices. Looking ahead, firms remain optimistic, expecting higher production, employment, order intake, and order backlogs in the fourth quarter."
+    },
+    {
+      "id": "5160633",
+      "time": "2026-10-22 14:20:15",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根大通策略師：投資者降倉，AI板塊拋售潮或將緩和】摩根大通策略師稱，市場對AI基建資金供給的擔憂有些過度，隨著投資者已經大幅減倉，AI相關個股近期的跌勢或將乏力。由Nikolaos Panigirtzoglou帶領的團隊表示，包括對沖基金、趨勢跟蹤型投資者在內，大多已了結此前重倉的半導體頭寸。他們的廣義股票持倉指標也自9月中旬高點顯著回落，這或將限制後續跌幅。報告稱，科技行業今年產生的現金流較其資本開支高出約4000億美元。報告提到，今年上市科技企業合計計劃投入約1.8萬億美元用於投資與研發，其中小型AI基建廠商僅佔800億美元；如果融資困境迫使小企業縮減投入，大型企業可以承接這部分開支。"
+    },
+    {
+      "id": "mkt:01a16244-35f8-7ee0-a93c-1229a607d865",
+      "time": "2026-10-22 14:19:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "France's 10-year bond yield rose 4 bps to 5.039%, a 24-year high."
+    },
+    {
+      "id": "5160632",
+      "time": "2026-10-22 14:19:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "法國10年期國債收益率 觸及5.039%的24年新高，上升4個基點。"
+    },
+    {
+      "id": "5160631",
+      "time": "2026-10-22 14:19:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇寧易購2元轉讓寧祺達完成，標的一起票據糾紛將於11月開庭】近日，蘇寧易購公告，南京寧祺達物流有限公司100%股權轉讓已於10月21日完成工商變更登記，受讓方為無錫世景高匯企業管理有限公司，股權轉讓對價為2元。協議約定，受讓方自交割日起將與目標公司集團共同妥善處理全部應付未付債務；轉讓方集團仍是目標公司集團的重要債權人。據天眼查顯示，一起票據利益返還請求權糾紛定於11月2日在金華市金東區人民法院開庭。南京寧祺達物流有限公司、金華杭騰物流有限公司為被告，馬鞍山則一物流有限公司為原告。"
+    },
+    {
+      "id": "5160630",
+      "time": "2026-10-22 14:19:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【印尼股市反彈 主權財富基金出手託市】印尼股市從早前的跌勢中反彈，該國主權財富基金表示一直在買入本地股票。基準雅加達綜合指數漲幅最大為1.8%，早些時候一度下跌2.7%。反彈走勢延續了此前兩日的上漲勢頭，與亞洲大多數市場的跌勢形成對比。上週五印尼股市遭遇近三十年來最大跌幅，MSCI警告印尼的新興市場地位難保。股市扭轉跌勢是在印尼主權財富基金Danantara表示已出手支撐市場之後。“估值，尤其是大型銀行的估值，正變得越來越有吸引力，但由於MSCI相關的不確定性持續存在，仍然存在進一步拋售的風險，”PT MNC Sekuritas分析師Herditya Wicaksana表示。“這就是投資者目前面臨的困境。”"
+    },
+    {
+      "id": "mkt:01a16243-60df-7ee0-a93c-0bf4da56eb9b",
+      "time": "2026-10-22 14:19:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000001.SS",
+        "Impact bearish",
+        "000300.SS"
+      ],
+      "text": "China A-share low-altitude economy and flying-car concept stocks continued to slide; Shanggong Shenbei hit the daily limit down, Wanfeng Aowei earlier hit limit down, and Guangzhi Technology, Shuzi Zhengtong and Jindun fell over 10%."
+    },
+    {
+      "id": "5160629",
+      "time": "2026-10-22 14:18:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【柏長嶺任南京市委常委、市紀委書記】10月21日，中國共產黨南京市第十五屆紀律檢查委員會第七次全體會議召開。市紀委常委會主持會議。市委常委、市紀委書記柏長嶺作《中共南京市紀律檢查委員會向市第十六次黨代會的工作報告（討論稿）》起草說明。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:01a16242-9de8-7ee0-a93c-046cb08724cc",
+      "time": "2026-10-22 14:18:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "NG.L",
+        "Impact mixed"
+      ],
+      "text": "Ofgem proposes amending the licence of the UK's national gas transmission company."
+    },
+    {
+      "id": "5160628",
+      "time": "2026-10-22 14:18:05",
+      "tags": [
+        "行業",
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【低空經濟、飛行汽車概念股持續走低，上工申貝觸及跌停】低空經濟、飛行汽車概念股持續走低，上工申貝觸及跌停，萬豐奧威此前跌停，光智科技、數字政通、金盾股份跌超10%。"
+    },
+    {
+      "id": "5160627",
+      "time": "2026-10-22 14:17:30",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "【中際旭創A股成交額超200億元】中際旭創A股成交額超200億元，現跌超6%。"
+    },
     {
       "id": "mkt:01a16241-62fa-7ee0-a93b-f9e0d9f46c1c",
       "time": "2026-10-22 14:16:54",
@@ -121806,30 +121944,6 @@
         "Importance 1"
       ],
       "text": "UK Industrial Output Hits 9-Month High — Industrial production in the UK rose 0.8% month-on-month in August 2026, accelerating from an upwardly revised 0.3% increase in the previous month and defying market expectations of a 0.1% decline. It marked the strongest monthly gain since November 2025, driven by faster manufacturing output (1.2% vs 1.0% in July), led by basic pharmaceutical manufacturing (5.1%), which accounted for over half of the overall monthly growth in the sub-sector. Output also rebounded in mining and quarrying (1.4% vs -4.1%) and electricity, gas, steam and air-conditioning supply (0.1% vs -1.8%). In contrast, output in water supply, sewerage and waste management fell 1.2%, reversing a 1.9% increase in July. On a yearly basis, industrial production growth climbed to 1.6% from a downwardly revised 0.8% in July, surpassing market expectations of 0.7%."
-    },
-    {
-      "id": "te:economy:592206",
-      "time": "2026-10-15 14:19:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Norway",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Norway Trade Surplus Rises to Highest Since 2023 — Norway’s trade surplus widened sharply to NOK 105.0 billion in September 2026 from NOK 38.8 billion in the same month a year earlier. This remained the largest surplus since January 2023, as exports jumped by 53.3% year-on-year to NOK 207.7 billion, driven largely by higher shipments of raw materials, excluding fuels (+13.8%), animal and vegetable oils, fats, and waxes (+20.5%), and other goods and transactions (+21.2%), which offset the declines in exports of food and live animals (-0.5%) and beverages and tobacco (-25.6%). Meanwhile, imports rose by 6.2% to NOK 102.7 billion, lifted by increases in purchases of fuels, lubricating oils, and electric power (+74.2%), machinery and means of transport (+13.6%), and different finished products (+2.9%), while processed goods grouped mainly by material (-14.3%) and chemical products (-0.2%) recorded decreases. For the January–September period, the country posted a trade surplus of NOK 713.9 billion, compared to NOK 528.4 billion last year."
-    },
-    {
-      "id": "te:markets:592204",
-      "time": "2026-10-15 14:17:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Set for a Lower Open — European equity markets were poised to open lower on Thursday as the global selloff in technology and artificial intelligence stocks deepened, while stronger-than-expected US inflation heightened concerns over further interest rate hikes. Investors shifted toward safe-haven assets, including government bonds, driving yields sharply lower across global markets. In Europe, attention will turn to UK GDP, French inflation and Eurozone industrial production data. On the corporate front, Swedish telecom giant Ericsson reported better-than-expected third-quarter earnings, supported by solid demand for mobile network equipment. French spirits maker Pernod Ricard also posted a smaller-than-expected sales decline last quarter, as growth in India helped offset persistent weakness in the US and China. Meanwhile, Finland’s Nordea Bank fell short of earnings expectations amid narrower lending margins. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures declined 0.9% and 0.5%, respectively."
     }
   ]
 }
