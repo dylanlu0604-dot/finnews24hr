@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-22 09:18:23",
-  "count": 13389,
+  "updated": "2026-10-22 09:22:12",
+  "count": 13385,
   "items": [
+    {
+      "id": "mkt:01a16133-3532-7ee0-a934-b6590afe2203",
+      "time": "2026-10-22 09:21:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At the open in Hong Kong on Thu Oct 22, the Hang Seng Index (HSI) fell 138.08 pts (-0.58%) to 23,513.79; the Hang Seng TECH Index dropped 45.75 pts (-1.15%) to 3,949.02; the Hang Seng China Enterprises Index (HSCEI) slid 55.90 pts (-0.70%) to 7,887.51; the Red Chip Index eased 8.83 pts (-0.22%) to 3,931.03."
+    },
+    {
+      "id": "mkt:01a16133-19e4-7ee0-a934-aa946e514723",
+      "time": "2026-10-22 09:21:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Hong Kong shares opened lower; Hang Seng Index down 0.58%, Hang Seng Tech Index down 1.15%. CATL (03750.HK) down 3.3%. Tech names opened weak: Tencent Holdings (00700.HK) down 1.7%, Alibaba Group (09988.HK) down over 2%."
+    },
+    {
+      "id": "5159633",
+      "time": "2026-10-22 09:21:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數跌0.58%，恒生科技指數跌1.15%】網易跌1.75%，阿里巴巴-W跌2.03%，京東集團-SW跌2.04%，安踏體育跌2.12%，新東方-S跌2.58%，寧德時代跌4.06%，聯想集團跌4.08%。"
+    },
+    {
+      "id": "5159632",
+      "time": "2026-10-22 09:20:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉政府與反對派結束第三輪會談。"
+    },
     {
       "id": "5159631",
       "time": "2026-10-22 09:16:09",
@@ -121593,93 +121627,6 @@
         "市場"
       ],
       "text": "阿里巴巴港股開盤下跌2.1%，騰訊跌2%。"
-    },
-    {
-      "id": "mkt:01a13d26-c51a-7ee0-a889-a449491dd65a",
-      "time": "2026-10-15 09:21:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong open Oct 15: HSI opened down 195.03 pts (-0.80%) at 24,119.14; Hang Seng Tech opened down 92.41 pts (-2.21%) at 4,082.06; HSCEI opened down 58.95 pts (-0.72%) at 8,124.22; Hang Seng Red Chip opened down 13.65 pts (-0.34%) at 4,050.40."
-    },
-    {
-      "id": "mkt:01a13d26-8df2-7ee0-a889-9cef38542c0c",
-      "time": "2026-10-15 09:21:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "Hang Seng Index",
-        "Impact bearish",
-        "02636.HK"
-      ],
-      "text": "Hong Kong open: HSI down 0.80%, Hang Seng Tech Index down 2.21%. Banks active; chip, AI and leading internet sectors underperformed. New listing Transsion Holdings (02636.HK) down 0.96%."
-    },
-    {
-      "id": "5146074",
-      "time": "2026-10-15 09:21:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股開盤：恒生指數跌0.80%，恒生科技指數跌2.21%】小鵬集團-W跌4.09%，MINIMAX-W跌4.95%，華虹宏力跌5.54%，智譜跌6.47%，寧德時代跌6.98%，聯想集團跌7.89%，天數智芯跌9.52%。"
-    },
-    {
-      "id": "5146073",
-      "time": "2026-10-15 09:21:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "傳音控股開盤報34.96港元, IPO價35.50港元。"
-    },
-    {
-      "id": "te:markets:592095",
-      "time": "2026-10-15 09:21:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Falls to Two-Week Low — The Australian dollar fell below $0.70, hitting a two-week low after higher unemployment and unexpected job cuts in September prompted traders to scale back bets on further rate hikes. The jobless rate came in at 4.7%, above the 4.6% forecast, while the previous month's reading was revised up from an initial 4.6%. The economy also shed 39,300 jobs, compared with expectations for a 20,000 gain, although full-time employment climbed by 34,400. The figures suggested the labor market may be loosening after the Reserve Bank of Australia raised its cash rate by 1 percentage point to 4.60% this year to rein in inflation, marking one of the most aggressive tightening cycles among developed economies. Markets now see less than a 20% chance of a November hike, down from 35% earlier in the day, while the odds of a December move fell to 40% from 60%. Rate markets have also pushed back expectations for further tightening, with May 2027 carrying the highest implied probability of a hike at 80%."
-    },
-    {
-      "id": "mkt:01a13d24-accd-7ee0-a889-9175df13598f",
-      "time": "2026-10-15 09:19:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 is down 4.00% intraday at 65,029.47."
-    },
-    {
-      "id": "5146070",
-      "time": "2026-10-15 09:19:20",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "日經225指數跌4%，晶片相關股票暴跌。"
-    },
-    {
-      "id": "5146069",
-      "time": "2026-10-15 09:18:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【騰達科技：對304材質產品進行價格下調】 山東騰達緊固科技股份有限公司（簡稱“騰達科技”）10月15日釋出調價函，根據當前原材料及市場行情，公司決定於10月15日對304材質產品進行價格下調，線上騰達優購系統同步執行。"
     }
   ]
 }

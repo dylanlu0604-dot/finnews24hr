@@ -1,7 +1,41 @@
 {
   "date": "2026-10-22",
-  "count": 718,
+  "count": 722,
   "items": [
+    {
+      "id": "mkt:01a16133-3532-7ee0-a934-b6590afe2203",
+      "time": "2026-10-22 09:21:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At the open in Hong Kong on Thu Oct 22, the Hang Seng Index (HSI) fell 138.08 pts (-0.58%) to 23,513.79; the Hang Seng TECH Index dropped 45.75 pts (-1.15%) to 3,949.02; the Hang Seng China Enterprises Index (HSCEI) slid 55.90 pts (-0.70%) to 7,887.51; the Red Chip Index eased 8.83 pts (-0.22%) to 3,931.03."
+    },
+    {
+      "id": "mkt:01a16133-19e4-7ee0-a934-aa946e514723",
+      "time": "2026-10-22 09:21:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Hong Kong shares opened lower; Hang Seng Index down 0.58%, Hang Seng Tech Index down 1.15%. CATL (03750.HK) down 3.3%. Tech names opened weak: Tencent Holdings (00700.HK) down 1.7%, Alibaba Group (09988.HK) down over 2%."
+    },
+    {
+      "id": "5159633",
+      "time": "2026-10-22 09:21:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數跌0.58%，恒生科技指數跌1.15%】網易跌1.75%，阿里巴巴-W跌2.03%，京東集團-SW跌2.04%，安踏體育跌2.12%，新東方-S跌2.58%，寧德時代跌4.06%，聯想集團跌4.08%。"
+    },
+    {
+      "id": "5159632",
+      "time": "2026-10-22 09:20:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉政府與反對派結束第三輪會談。"
+    },
     {
       "id": "5159631",
       "time": "2026-10-22 09:16:09",
