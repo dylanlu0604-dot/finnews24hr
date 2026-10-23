@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24 00:26:18",
-  "count": 13238,
+  "updated": "2026-10-24 00:30:08",
+  "count": 13232,
   "items": [
     {
       "id": "mkt:01a16992-7134-7ee0-a95d-7186a121aedb",
@@ -119907,72 +119907,6 @@
         "國際"
       ],
       "text": "谷歌公司：在美國市場推出Universal Cart。"
-    },
-    {
-      "id": "5150388",
-      "time": "2026-10-17 00:28:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破100美元/桶，日內漲2.07%。"
-    },
-    {
-      "id": "5150387",
-      "time": "2026-10-17 00:28:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報99.93美元/桶。"
-    },
-    {
-      "id": "5150386",
-      "time": "2026-10-17 00:28:04",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "房利美股價快速上漲 7.5%，房地美迅速上漲7.8%。"
-    },
-    {
-      "id": "te:markets:592858",
-      "time": "2026-10-17 00:28:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Mexico",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Mexican Peso Approaches 11-Month Low — The Mexican peso weakened to around 18.47 per US dollar in October, testing the lowest in 11 months, as the narrowing interest-rate differential between Mexico and the US reduced the pes’s appeal. In the US, annual producer price inflation reached 6.3%, while consumer price inflation rose to 3.7%, reinforcing expectations that the Federal Reserve will hike rates this year. Meanwhile, minutes from Banxico’s latest monetary policy meeting showed that most members of the Governing Board believe moderating core inflation and weak domestic consumption provide room to continue easing monetary policy into late 2026 and early 2027. Expectations of a narrower interest-rate differential have boosted demand for the dollar by reducing the expected inflow of capital into Mexico as Mexican yields become less attractive to foreign investors. On the other hand, expectations of record exports in 2026, driven by artificial intelligence and industrial relocation, are providing some support for the peso."
-    },
-    {
-      "id": "mkt:01a1458a-9b88-7ee0-a8c1-fa9258536f57",
-      "time": "2026-10-17 00:27:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Bill would revoke OFAC energy licenses, bar future authorizations and DFC investments in Russian energy】House Foreign Affairs Committee Democratic ranking member Gregory W. Meeks introduced a bipartisan Prohibit Corrupt Russian Oil Transactions Act aimed at blocking a reported Trump-Putin deal to buy and import Russian diesel. The bill would prohibit the U.S. International Development Finance Corporation from investing in Russia’s energy sector, revoke existing OFAC general licenses and bar future issuance of such licenses, and require the administration to impose sanctions on Russia’s energy sector."
-    },
-    {
-      "id": "te:markets:592857",
-      "time": "2026-10-17 00:27:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Hits 4-week High — Brent increased to 108.28 USD/Bbl, the highest since September 2026. Over the past 4 weeks, Brent Oil gained 3.22%, and in the last 12 months, it increased 76.52%."
     }
   ]
 }
