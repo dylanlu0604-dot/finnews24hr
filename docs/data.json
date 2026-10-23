@@ -1,7 +1,96 @@
 {
-  "updated": "2026-10-23 08:00:06",
+  "updated": "2026-10-23 08:03:55",
   "count": 13296,
   "items": [
+    {
+      "id": "5162905",
+      "time": "2026-10-23 08:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉澳大利亞和紐西蘭發言人：特斯拉已決定不推進在澳大利亞和紐西蘭生產Cybertruck的計劃。"
+    },
+    {
+      "id": "mkt:01a16610-9bd1-7ee0-a951-1f3ba9f17871",
+      "time": "2026-10-23 08:02:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "【KOSPI opens over 2% lower】South Korea's KOSPI opened lower, probing 5,500 in early trade and down 2.36% intraday. SK Hynix fell 1%, Samsung Electronics dropped 3%."
+    },
+    {
+      "id": "5162903",
+      "time": "2026-10-23 08:01:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "運營商表示，儘管全球局勢動盪，英國天然氣和電網已為冬季做好準備。預計今年冬季英國天然氣日需求峰值為4.93億立方米，而供應峰值為5.92億立方米。"
+    },
+    {
+      "id": "te:markets:594382",
+      "time": "2026-10-23 08:01:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Japanese Yen Hits 5-week High — The Japanese Yen touched 156.37 against the USD, the highest since September 2026. Over the past 4 weeks, US Dollar Japanese Yen lost 1.2%, and in the last 12 months, it increased 2.53%."
+    },
+    {
+      "id": "mkt:01a1660f-c77a-7ee0-a951-10de312a31cb",
+      "time": "2026-10-23 08:01:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 293.25 points (-0.47%) at 62,614.59 on Friday, Oct. 23."
+    },
+    {
+      "id": "5162902",
+      "time": "2026-10-23 08:00:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌 3%。"
+    },
+    {
+      "id": "5162901",
+      "time": "2026-10-23 08:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌2.4%，至5403.17點。"
+    },
+    {
+      "id": "5162900",
+      "time": "2026-10-23 08:00:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報62667.05點，跌幅0.38%。"
+    },
+    {
+      "id": "5162899",
+      "time": "2026-10-23 07:59:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌7.0個基點，至2.810%。"
+    },
     {
       "id": "mkt:01a1660d-ff91-7ee0-a951-0b05473447d0",
       "time": "2026-10-23 07:59:15",
@@ -120549,90 +120638,6 @@
         "國際"
       ],
       "text": "特朗普：我沒有切實理由前往緬因州。"
-    },
-    {
-      "id": "mkt:01a14204-a4d7-7ee0-a8aa-5d2ca7a93540",
-      "time": "2026-10-16 08:02:42",
-      "tags": [
-        "MKT News",
-        "02670.HK",
-        "Impact bullish"
-      ],
-      "text": "Yunji (02670.HK) said members of management have voluntarily extended their share‑sale moratorium."
-    },
-    {
-      "id": "5148573",
-      "time": "2026-10-16 08:02:11",
-      "tags": [],
-      "text": "SK海力士、三星電子均漲超2％。"
-    },
-    {
-      "id": "mkt:01a14203-f581-7ee0-a8aa-57d72b20ba42",
-      "time": "2026-10-16 08:01:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 opened 598.17 points higher (+0.93%) at 65,024.12 on Friday, Oct. 16."
-    },
-    {
-      "id": "mkt:01a14203-7b48-7ee0-a8aa-4f702f2c45da",
-      "time": "2026-10-16 08:01:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "South Korea's KOSPI index opened up 96.45 points on Friday, Oct. 16, rising 1.74% to 5,650.67, with SK Hynix and Samsung Electronics both up more than 2%."
-    },
-    {
-      "id": "5148572",
-      "time": "2026-10-16 08:00:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【經濟日報金觀平：理性看待IMF微調中國經濟增速預期】國際貨幣基金組織（IMF）近日釋出《世界經濟展望報告》，將今年中國經濟增長預期從4.6%調整為4.5%。有外媒依此唱衰中國經濟前景。事實上，讀懂這份報告，既要看預測值的調整方向和幅度，也要結合全球經濟形勢與中國所處的發展階段。將預測值的小幅波動渲染為經濟基本面趨勢性變化，實屬歪曲資料、誤導輿論。"
-    },
-    {
-      "id": "5148571",
-      "time": "2026-10-16 08:00:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）上漲1.8%，至5653.99點。"
-    },
-    {
-      "id": "5148570",
-      "time": "2026-10-16 08:00:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市開盤】日經225指數上午開盤報64925.29點，漲幅0.78％。韓國綜合股價指數（KOSPI）上漲1.8％，至5653.99點。"
-    },
-    {
-      "id": "5148569",
-      "time": "2026-10-16 08:00:12",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【裕信銀行增持德國商業銀行獲歐洲央行批准，為取得控制權鋪平道路】裕信銀行當地時間10月15日釋出宣告稱，對德國商業銀行的增持獲歐洲央行批准，意味著該行可將持股比例提高至30%以上，並可能最終持有德國商業銀行100%的股份。裕信銀行仍需獲得歐盟反壟斷機構、美聯儲和波蘭相關監管機構的批准。德國商業銀行在波蘭擁有一家大型子公司mBank。"
-    },
-    {
-      "id": "5148568",
-      "time": "2026-10-16 08:00:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【鴻海子公司以5.37億美元取得Q-Edge股份】10月15日晚，鴻海在交易所公告，子公司Foxconn Assembly Holding Corporation取得Q-Edge Corporation股份，投資金額5.37億美元，鴻海指出目的為長期投資。鴻海於8月下旬曾公告其子公司增資Q-Edge Corporation約1.88億美元。根據鴻海年報，Q-Edge Corporation於2000年5月在美國得州休斯敦成立。"
     }
   ]
 }

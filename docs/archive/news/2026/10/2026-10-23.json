@@ -1,7 +1,96 @@
 {
   "date": "2026-10-23",
-  "count": 567,
+  "count": 576,
   "items": [
+    {
+      "id": "5162905",
+      "time": "2026-10-23 08:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉澳大利亞和紐西蘭發言人：特斯拉已決定不推進在澳大利亞和紐西蘭生產Cybertruck的計劃。"
+    },
+    {
+      "id": "mkt:01a16610-9bd1-7ee0-a951-1f3ba9f17871",
+      "time": "2026-10-23 08:02:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "【KOSPI opens over 2% lower】South Korea's KOSPI opened lower, probing 5,500 in early trade and down 2.36% intraday. SK Hynix fell 1%, Samsung Electronics dropped 3%."
+    },
+    {
+      "id": "5162903",
+      "time": "2026-10-23 08:01:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "運營商表示，儘管全球局勢動盪，英國天然氣和電網已為冬季做好準備。預計今年冬季英國天然氣日需求峰值為4.93億立方米，而供應峰值為5.92億立方米。"
+    },
+    {
+      "id": "te:markets:594382",
+      "time": "2026-10-23 08:01:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Japanese Yen Hits 5-week High — The Japanese Yen touched 156.37 against the USD, the highest since September 2026. Over the past 4 weeks, US Dollar Japanese Yen lost 1.2%, and in the last 12 months, it increased 2.53%."
+    },
+    {
+      "id": "mkt:01a1660f-c77a-7ee0-a951-10de312a31cb",
+      "time": "2026-10-23 08:01:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 293.25 points (-0.47%) at 62,614.59 on Friday, Oct. 23."
+    },
+    {
+      "id": "5162902",
+      "time": "2026-10-23 08:00:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌 3%。"
+    },
+    {
+      "id": "5162901",
+      "time": "2026-10-23 08:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌2.4%，至5403.17點。"
+    },
+    {
+      "id": "5162900",
+      "time": "2026-10-23 08:00:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報62667.05點，跌幅0.38%。"
+    },
+    {
+      "id": "5162899",
+      "time": "2026-10-23 07:59:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌7.0個基點，至2.810%。"
+    },
     {
       "id": "mkt:01a1660d-ff91-7ee0-a951-0b05473447d0",
       "time": "2026-10-23 07:59:15",
