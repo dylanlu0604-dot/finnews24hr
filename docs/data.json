@@ -1,7 +1,103 @@
 {
-  "updated": "2026-10-23 19:57:43",
-  "count": 13177,
+  "updated": "2026-10-23 20:01:49",
+  "count": 13181,
   "items": [
+    {
+      "id": "mkt:01a168a2-c3ba-7ee0-a957-4ad7aa098e4b",
+      "time": "2026-10-23 20:00:59",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Saudi-led coalition says it intercepted missiles launched toward Khamis Mushait."
+    },
+    {
+      "id": "5164626",
+      "time": "2026-10-23 20:00:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍：攔截射向哈米斯穆沙伊特的導彈。"
+    },
+    {
+      "id": "5164625",
+      "time": "2026-10-23 20:00:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍空襲加沙城西部致2死多傷】當地時間23日，據巴勒斯坦方面訊息，當天以軍對加沙地帶加沙城西部實施空襲，造成兩名巴勒斯坦人死亡，另有多人受傷。（央視新聞）"
+    },
+    {
+      "id": "5164624",
+      "time": "2026-10-23 20:00:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大華股份：下屬子公司擬參與中國移動AI超節點裝置集採專案投標】大華股份(002236.SZ)公告稱，公司第九屆董事會第三次會議審議透過議案，下屬子公司浙江華啟智慧科技擬參與中國移動2026年至2027年新一代人工智慧超節點裝置集中採購專案投標，預計合同金額不超過20.5億元。"
+    },
+    {
+      "id": "5164623",
+      "time": "2026-10-23 19:58:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯與烏克蘭交換540名被俘人員】俄羅斯國防部23日釋出通報說，俄羅斯與烏克蘭當天交換540名被俘人員，雙方各移交270人。通報說，270名俄軍被俘人員23日從烏克蘭武裝部隊控制區返回；作為交換，俄方移交了270名烏軍被俘人員。通報還說，獲釋的俄軍被俘人員目前在白俄羅斯境內，俄羅斯人權事務專員蘭特拉託娃正在與他們開展相關工作。（新華社）"
+    },
+    {
+      "id": "5164622",
+      "time": "2026-10-23 19:58:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "印孚瑟斯下調年度營收增長預期，其美股盤前下跌6.7%。"
+    },
+    {
+      "id": "5164621",
+      "time": "2026-10-23 19:57:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST數源：2026年第三季度淨利潤虧損1183.26萬元】*ST數源公告，2026年第三季度營業收入4779.63萬元，同比下降50.27%；歸母淨利潤虧損1183.26萬元，扣非淨利潤虧損1656.29萬元。2026年前三季度營業收入1.68億元，同比下降30.68%；歸母淨利潤虧損2654.94萬元，扣非淨利潤虧損3997.88萬元。"
+    },
+    {
+      "id": "mkt:01a1689f-890d-7ee0-a957-457320678266",
+      "time": "2026-10-23 19:57:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【SAFE seeks comment on lowering category risk conversion factor to 0.5 for affiliate foreign borrowing】The State Administration of Foreign Exchange (SAFE) published a draft notice seeking comments on measures to further ease cross-border investment and financing facilitation. Under the draft’s macroprudential management framework, qualified foreign‑invested enterprises that borrow foreign debt from overseas affiliates would see their category risk conversion factor reduced from 1 to 0.5. SAFE also proposes a nationwide rollout of a green foreign‑debt policy: under macroprudential management, eligible borrowers using foreign debt for green development or low‑carbon transition projects would likewise have the category risk conversion factor cut from 1 to 0.5."
+    },
+    {
+      "id": "mkt:01a1689f-348a-7ee0-a957-387a9d09d5f6",
+      "time": "2026-10-23 19:57:06",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "【SAFE seeks comments on expanding entities eligible for cross-border financing facilitation】China's State Administration of Foreign Exchange (SAFE) published a draft notice seeking comments to broaden the scope of firms eligible for cross-border financing facilitation. The proposal would permit certain tech and manufacturing firms — including innovative SMEs, manufacturing single‑champion firms, technology-reform demonstration enterprises, national enterprise technology centers, firms graded advanced or above in the intelligent factory development ladder, and firms on the Ministry of Agriculture and Rural Affairs' key laboratory list — to borrow foreign debt up to the equivalent of $10 mln. Firms selected through relevant departments' innovation points system could apply for foreign debt up to the equivalent of $20 mln."
+    },
+    {
+      "id": "5164620",
+      "time": "2026-10-23 19:57:03",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【北京市經信局：打造國際一流的詞元分發交易平臺】北京市工業和資訊軟體業2026年前三季度經濟執行新聞釋出會今日舉行，北京市經濟和資訊化局數字產業處處長張金瑞介紹，“十五五”時期，北京將重點在以下三方面持續發力：一是提升詞元供給能力，制定北京市詞元工廠分級評價標準，建設世界級詞元工廠叢集，提升高質量詞元供給能力；二是暢通流通交易體系，出臺詞元分發平臺評估標準，打造國際一流的詞元分發交易平臺，提升跨模型、跨模態、跨算力平臺接入能力，為開發者提供統一介面、模型聚合、詞元計量與結算服務；建立客觀公正的詞元效能標準，為市場定價、智慧路由等提供參考依據；三是深化場景融合應用，深入實施人工智慧應用示範工程，以場景創新帶動產業集聚。"
+    },
+    {
+      "id": "5164619",
+      "time": "2026-10-23 19:56:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樂通股份：股東優悅美晟以股抵債致持股比例下降】樂通股份公告稱，公司持股5%以下股東深圳市優悅美晟企業管理有限公司及其一致行動人大晟資產，因執行上海市第二中級人民法院已生效《民事調解書》，優悅美晟以所持公司947萬股股份折價抵償大晟資產所欠崔佳、肖詩強的債務。本次權益變動前，優悅美晟持股4.52%，二者合計持股29.35%；變動完成後，優悅美晟持股不足0.01%，二者合計持股24.83%。截至報告書籤署日，相關股份尚未完成過戶，本次交易尚存在不確定性。"
+    },
     {
       "id": "5164618",
       "time": "2026-10-23 19:56:32",
@@ -119530,65 +119626,6 @@
         "MKT News"
       ],
       "text": "Bank of Japan Governor Ueda said the main takeaway from this week’s meeting was exchanging views with other policymakers on how the Middle East conflict and AI-driven demand are affecting global and Japanese economic activity and inflation."
-    },
-    {
-      "id": "em:qqyh_mlc:202610163898560978",
-      "time": "2026-10-16 20:01:27",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【市場對10月會議按兵不動的預期升溫 加息機率從27%左右降至15%以下】市場已削減對美聯儲在10月27日-28日政策會議上加息的預期。在美聯儲主席沃什“鴿派”發言後，相關加息機率從27%左右降至15%以下。"
-    },
-    {
-      "id": "5150076",
-      "time": "2026-10-16 20:00:52",
-      "tags": [
-        "央行"
-      ],
-      "text": "【市場對10月會議按兵不動的預期升溫 加息機率從27%左右降至15%以下】市場已削減對美聯儲在10月27日-28日政策會議上加息的預期。在美聯儲主席沃什“鴿派”發言後，相關加息機率從27%左右降至15%以下。"
-    },
-    {
-      "id": "5150075",
-      "time": "2026-10-16 20:00:47",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【商務部新聞發言人就歐盟峰會提出對華“雙軌”思路答記者問】商務部新聞發言人就歐盟峰會提出對華“雙軌”思路答記者問。問：據媒體報道，歐盟認為其在混動汽車磋商中對華施壓取得成效，擬在更多行業採取限制。近日召開的歐盟峰會提出對華“雙軌”思路，將在繼續開展密集磋商的同時，加大對華限制力度，甚至包括動用“反脅迫”工具。請問中方對此有何評論？ 答：中方注意到有關報道。中歐按照雙方確定的遵守世貿組織規則、基於事實和非歧視的三項原則，就混動汽車達成的諒解是對等互利的，既有力維護了中國企業的實際利益，也回應了歐方關切，避免了中歐貿易摩擦局面升級。所謂“歐方施壓奏效”的說法毫無依據。中歐經貿磋商的目的就是要透過對話協商妥處分歧，照顧彼此關切。雙方都要拿出解決問題的誠意。歐方不能幻想以施壓換取好處，更不要低估中方維護自身利益的決心和能力。我們敦促歐方與中方相向而行，推動中歐經貿關係健康穩定發展。"
-    },
-    {
-      "id": "5150074",
-      "time": "2026-10-16 20:00:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "搭載 NVIDIA RTX Spark 的華碩 ProArt P16 和 P14 現已在加拿大上市。"
-    },
-    {
-      "id": "5150073",
-      "time": "2026-10-16 19:58:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【今日特朗普行程：出席共和黨全國委員會活動】\n10 月 16 日 20:00：在白宮進行行政時間，閉門活動。\n10 月 16 日 21:00：白宮，本地媒體池記者集合待命。\n10 月 16 日 22:00：安德魯斯聯合基地，外埠隨行媒體池記者集合待命。\n10 月 16 日 22:00：在白宮聽取情報簡報，閉門活動。\n時間待定：總統離開白宮，前往佐治亞州多爾頓，媒體開放。\n時間待定：抵達佐治亞州多爾頓市多爾頓市政機場。\n10 月 17 日 02:45：總統在佐治亞州多爾頓市政機場舉辦政治集會，僅限預先認證媒體。\n時間待定：總統離開佐治亞州多爾頓，前往佛羅里達州棕櫚灘，外埠隨行媒體池。\n時間待定：抵達佛羅里達州棕櫚灘海湖莊園，外埠隨行媒體池。\n10 月 17 日 07:30：在海湖莊園出席共和黨全國委員會（RNC）活動，閉門活動。"
-    },
-    {
-      "id": "5150072",
-      "time": "2026-10-16 19:58:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度將與馬爾地夫的3000億印度盧比貨幣互換協議延長3個月。"
-    },
-    {
-      "id": "5150071",
-      "time": "2026-10-16 19:57:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：由於基礎通脹已相當接近2%，將通脹錨定在目標水平附近正變得比以往更加重要。"
     }
   ]
 }
