@@ -1,7 +1,119 @@
 {
-  "updated": "2026-10-23 09:26:00",
-  "count": 13297,
+  "updated": "2026-10-23 09:29:47",
+  "count": 13301,
   "items": [
+    {
+      "id": "5163028",
+      "time": "2026-10-23 09:28:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "三星據悉計劃提升印度的手機出口，或將部分生產線從越南轉移至印度。"
+    },
+    {
+      "id": "5163027",
+      "time": "2026-10-23 09:27:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【元件板塊低開，中京電子觸及跌停】元件板塊低開，中京電子觸及跌停，奧士康、澳弘電子、崇達技術、金祿電子紛紛低開。"
+    },
+    {
+      "id": "mkt:01a1665e-c2be-7ee0-a952-ff053cebd33f",
+      "time": "2026-10-23 09:27:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "China equities opened lower on Oct. 23 (Fri): China's Shanghai Composite down 34.46 pts (-0.94%) at 3,623.57; Shenzhen Composite down 169.77 pts (-1.49%) at 11,187.55; CSI 300 Index down 43.39 pts (-1.08%) at 3,992.90; ChiNext Index down 42.74 pts (-1.66%) at 2,534.16; STAR 50 Index down 18.00 pts (-1.38%) at 1,287.87."
+    },
+    {
+      "id": "mkt:01a1665e-905a-7ee0-a952-f462f6b24924",
+      "time": "2026-10-23 09:27:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense said the danger in the Najran area had been lifted."
+    },
+    {
+      "id": "5163026",
+      "time": "2026-10-23 09:26:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，納季蘭的危險已經解除。"
+    },
+    {
+      "id": "5163025",
+      "time": "2026-10-23 09:26:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【遠大健科上市首日開盤大漲超48%】遠大健科上市首日開盤漲48.82%，現報30.21元，該股發行價為20.3元。遠大健康科技(天津)股份有限公司的主營業務是冰箱濾水器、泳池類濾芯、家用淨水類濾芯、咖啡機濾芯、整機等多品類濾水器件及相關功能材料的研發、生產和銷售。"
+    },
+    {
+      "id": "5163024",
+      "time": "2026-10-23 09:26:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本5年期國債收益率下跌10個基點至2.19%。"
+    },
+    {
+      "id": "mkt:01a1665e-024a-7ee0-a952-ed51b43ad897",
+      "time": "2026-10-23 09:26:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Chip Wars"
+      ],
+      "text": "【Huawei Enjoy 100 series set for Oct. 28 launch】Huawei announced on Oct. 23 that the Enjoy 100 series will debut at an Oct. 28 product event. The phones will use Kirin 8-series chips, include a large-capacity \"Whale\" battery and feature HarmonyOS Star Shield anti-fraud functionality."
+    },
+    {
+      "id": "5163023",
+      "time": "2026-10-23 09:26:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟產業大臣赤澤亮正：日本將在數月內面臨釔短缺的說法並不屬實。"
+    },
+    {
+      "id": "mkt:01a1665d-dea6-7ee0-a952-e5a854af0054",
+      "time": "2026-10-23 09:26:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share CPO sector opened lower; Zhongjing Electronics hit the daily down-limit, while Tianyang New Materials, Aohong Electronics, Shenkeda and Chongda Technology all opened lower."
+    },
+    {
+      "id": "5163022",
+      "time": "2026-10-23 09:25:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國新世界集團會長鄭溶鎮出任易買得執行長。"
+    },
+    {
+      "id": "5163021",
+      "time": "2026-10-23 09:25:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤齊跌，上證指數跌0.94%，深證成指跌1.49%，創業板指跌1.66%。"
+    },
     {
       "id": "mkt:01a1665c-e5a0-7ee0-a952-dc740f2c2305",
       "time": "2026-10-23 09:25:26",
@@ -120728,72 +120840,6 @@
         "市場"
       ],
       "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲1.23%， 滬深300指數期貨連續漲1.22%， 中證500指數期貨連續漲1.65%， 上證50指數期貨連續漲0.76%。"
-    },
-    {
-      "id": "5148715",
-      "time": "2026-10-16 09:29:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲1%，現報6738.00點。"
-    },
-    {
-      "id": "5148714",
-      "time": "2026-10-16 09:29:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲1%，現報6652.00點。"
-    },
-    {
-      "id": "5148713",
-      "time": "2026-10-16 09:28:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【PCB概念股延續活躍，崇達技術2連板】PCB概念股延續活躍，崇達技術2連板，星帥爾、駿亞科技、長陽科技、民爆光電、大族鐳射跟漲。"
-    },
-    {
-      "id": "5148712",
-      "time": "2026-10-16 09:28:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【粵港澳大灣區首個知識型綜保區封關運作】從黃埔海關瞭解到，廣州知識城綜合保稅區今天（16日）正式封關運作，這是粵港澳大灣區首個知識型綜保區，此前已透過國家七部門聯合驗收，將重點佈局智慧算力、精密裝置保稅維修等知識密集型產業，助力大灣區知識型經濟和開放型經濟融合發展。"
-    },
-    {
-      "id": "5148711",
-      "time": "2026-10-16 09:28:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【FF與FFR聯合釋出人形機器人FF Nova，定價2490美元】北京時間10月16日，法拉第未來（NASDAQ: FFAI）與 FF EAI Robotics Ecosystem Inc.（NASDAQ: FFR）聯合舉行系列新品釋出會，宣佈釋出人形機器人FF Nova，定價2490美元，以及Physical AI啟蒙教育人形機器人FF Nova Mini。FF Nova將分三階段釋出：第一階段面向開發者與教育機構限量銷售100臺，首批將即刻交付20臺；第二階段，面向所有開發者和教育機構全面釋出；第三階段，正式推出消費者版本。"
-    },
-    {
-      "id": "5148710",
-      "time": "2026-10-16 09:27:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股人工智慧股走強 愛芯元智漲超5%】截至發稿，愛芯元智(00600.HK)漲5.42%，劍橋科技(06166.HK)漲5.21%，英矽智慧(03696.HK)漲4.04%，芯碁微裝(09630.HK)漲3.57%。"
-    },
-    {
-      "id": "5148709",
-      "time": "2026-10-16 09:26:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "新華傳媒復牌漲停，走出11連板。"
-    },
-    {
-      "id": "5148708",
-      "time": "2026-10-16 09:26:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "新股N南乳開漲104.08%，公開資料顯示，公司是貴州乳業龍頭企業，從事乳製品研發、生產和銷售，形成供產銷一體化經營模式，覆蓋從上游牧場經營至乳製品終端銷售全產業鏈。"
     }
   ]
 }
