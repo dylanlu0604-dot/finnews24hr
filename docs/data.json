@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-24 04:14:36",
-  "count": 13116,
+  "updated": "2026-10-24 04:18:24",
+  "count": 13114,
   "items": [
+    {
+      "id": "5165267",
+      "time": "2026-10-24 04:15:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行存款從前一週的19.772萬億美元增至19.810萬億美元。"
+    },
     {
       "id": "mkt:01a16a65-083e-7ee0-a960-3abeb37acdae",
       "time": "2026-10-24 04:12:48",
@@ -118836,36 +118844,6 @@
         "其他"
       ],
       "text": "【新疆冰雪融水養出三文魚 在養量13萬尾 預計產值超2500萬元】新疆鐵門關市南屯鎮石門水庫的三文魚正陸續捕撈上市。這裡地處崑崙山北麓的群山河谷地帶，利用冰雪融水發展三文魚養殖，順利從試養階段邁入規模化量產階段，在養量達13萬尾。這裡的水源由崑崙山冰雪融水匯聚而成，常年水溫穩定在18℃以下，水質清澈冷涼，經檢測達到直接飲用標準。目前，這批三文魚平均體重2到3公斤，按照常規價格每公斤80元計算，13萬尾產值預計可超過2500萬元，冷水魚變成“熱資源”。（央視財經）"
-    },
-    {
-      "id": "mkt:01a1465c-423d-7ee0-a8c6-138ee1c943da",
-      "time": "2026-10-17 04:16:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Japan & APAC",
-        "Europe & UK",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "【China, Japan cut US Treasury holdings in August; UK holdings rise to $1.01 tln】U.S. Treasury Department data show foreign holdings diverged in August: China held $591.0 bln in U.S. Treasuries, down $27.0 bln from July; Japan held $1.068 tln, down $36.0 bln; the UK held $1.010 tln, up $12.0 bln."
-    },
-    {
-      "id": "5150576",
-      "time": "2026-10-17 04:16:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "週五（10月16日），美股行業ETF多數收跌，網路股指數ETF跌3.43%，半導體ETF跌3.41%，科技行業ETF跌3.02%，全球科技股指數ETF跌2.88%，能源業ETF漲2.52%。"
-    },
-    {
-      "id": "5150575",
-      "time": "2026-10-17 04:15:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行存款從前一週的19.694萬億美元增至19.771萬億美元。"
     }
   ]
 }
