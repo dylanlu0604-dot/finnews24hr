@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-24",
+  "count": 3,
+  "items": [
+    {
+      "id": "5165082",
+      "time": "2026-10-24 00:01:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國10年期國債收益率溢價回撤7個基點，創10月6日以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:01a1697e-9eb8-7ee0-a95d-3647842f6243",
+      "time": "2026-10-24 00:01:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reported the Russian Defence Ministry said a ceasefire in Russia-held Oleshky will begin on Oct. 27."
+    },
+    {
+      "id": "5165081",
+      "time": "2026-10-24 00:01:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "俄國防部：俄方控制的奧列什基將於 10 月 27 日停火。"
+    }
+  ]
+}
