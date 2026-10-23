@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-24 00:14:40",
-  "count": 13247,
+  "updated": "2026-10-24 00:18:33",
+  "count": 13248,
   "items": [
+    {
+      "id": "5165089",
+      "time": "2026-10-24 00:17:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【瑞銀下調CoreWeave目標價至105美元，警告市場對其融資能力的信心可能需要數個季度才能恢復】瑞銀將CoreWeave目標價由120美元下調至105美元，但維持“買入”評級，主要擔憂AI基礎設施企業的融資風險持續加劇，投資者信心短期內難以恢復。CoreWeave股價10月以來累計下跌37%，而同期微軟和亞馬遜股價上漲，瑞銀認為這反映出投資者正轉向財務狀況更穩健的大型科技企業，以降低AI基礎設施投資風險。該機構表示，正在重新評估CoreWeave的信用狀況，預計重建市場信心可能需要數個季度。CoreWeave目前尚有約1290億美元待履行合同，但為滿足已簽約需求，預計仍需額外融資約200億美元。與此同時，公司信用違約互換（CDS）成本升至歷史高位，反映市場對其債務風險的擔憂加劇。"
+    },
+    {
+      "id": "5165088",
+      "time": "2026-10-24 00:16:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基確認烏美俄三方會談將於11月上半月舉行】烏克蘭總統澤連斯基23日表示，他已與美國總統特使威特科夫和女婿庫什納通話，與俄羅斯和美國方面舉行會晤的計劃安排在11月上半月。澤連斯基同時表示，烏方願意在任何一天舉行會晤。俄羅斯總統新聞秘書佩斯科夫10月23日表示，11月上半月，俄、美、烏三方將在阿布扎比開始舉行俄羅斯和烏克蘭安全保障問題的談判。他稱，目前正在討論三方談判形式，但未來不排除歐洲參與。俄羅斯總統普京22日表示，透過與美國總統特使威特科夫的會晤，俄羅斯和美國就重啟俄美烏三方會談達成一致。三方會談的目標是討論在和平協議最終達成後如何確保俄烏的安全，而不是僅僅為了短暫的停火。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1698c-6321-7ee0-a95d-626bc02f5beb",
+      "time": "2026-10-24 00:16:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Russia to halt fire near Oleshky from Oct. 27 for humanitarian operation】Russian General Staff Chief Gerasimov said on Oct. 23 Moscow time that to allow a humanitarian operation in the Oleshky area of Kherson region, Russian forces will stop firing in the Kherson direction and enter a 'silence' from Moscow 04:00 on Oct. 27 (Beijing 09:00). He said Russia will provide security for humanitarian convoys into Oleshky."
+    },
+    {
+      "id": "5165087",
+      "time": "2026-10-24 00:16:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏10月27日起在奧列什基停火】俄羅斯武裝部隊總參謀長格拉西莫夫當地時間10月23日宣佈，“鑑於要在赫爾松州奧列什基地區開展人道主義行動，俄羅斯武裝力量自莫斯科時間2026年10月27日4時（北京時間上午9時）起，在赫爾松方向停止開火併實行‘靜默狀態’。俄方將為人道主義車隊進入奧列什基提供安全通行保障。”（CCTV國際時訊）"
+    },
     {
       "id": "te:markets:594747",
       "time": "2026-10-24 00:13:19",
@@ -120026,40 +120066,6 @@
         "DXY"
       ],
       "text": "【Zelenskiy asks EU for at least €70bln as Ukraine projects €155bln 2027 war bill】At an EU summit in Brussels Zelenskiy requested the EU provide at least €70bln next year, saying Ukraine’s war-related spending for 2027 is expected to reach €155bln and that the funds are needed for defense, weapons and national resilience. He urged a strong 22nd round of sanctions targeting firms and individuals tied to Russian ballistic missile, advanced communications and drone production. Zelenskiy said US restrictions on Starlink use are hampering Ukraine’s ability to intercept Russian drones and that Ukraine and the US expect to schedule a meeting in the coming days. He also criticized a US-Russia “diesel” arrangement, saying it increases Russian revenues that could fund military operations."
-    },
-    {
-      "id": "5150378",
-      "time": "2026-10-17 00:18:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基要求歐盟追加700億歐元援助】烏克蘭總統澤連斯基16日在比利時布魯塞爾舉行的歐盟峰會上要求歐盟明年再提供至少700億歐元援助。他還表示，美國“星鏈”衛星通訊系統的使用限制影響烏軍攔截俄羅斯無人機的能力，烏美預計將在未來幾天安排一定級別的會晤。（新華社）"
-    },
-    {
-      "id": "mkt:01a14580-e148-7ee0-a8c1-d1359b1a8827",
-      "time": "2026-10-17 00:17:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Global oil rally fails to lift Canadian crude; exporters hit by bottlenecks】Despite a global oil rally, Canadian crude is trading well below international peers. In recent weeks heavy Canadian crude has widened its discount to U.S. grades to about $26/bbl. The spread is attributed to multiple effects of Trump-era foreign policy: after Maduro was ousted in January Venezuelan heavy crude increased competitive supply into refiners set up for heavy grades, and a subsequent Iran war pushed tanker freight sharply higher, creating a U.S. heavy crude surplus that damped demand for Canadian barrels. Canada’s sole west-coast export pipeline is at capacity, limiting producers’ ability to obtain higher prices. Mark Carney has backed construction of a new pipeline to the British Columbia coast with 1.0 mln bpd capacity to relieve the bottleneck and allow Alberta crude to price more against Brent."
-    },
-    {
-      "id": "mkt:01a14580-5fbb-7ee0-a8c1-cfb064bd7a86",
-      "time": "2026-10-17 00:16:43",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Ukrainian President Zelenskiy said Kyiv does not use Starlink on Russian territory for retaliatory strikes and uses Starlink to intercept aircraft attacking Ukrainian civilians. He said Starlink has not been shut down but its transmission speed has been reduced, which limits Kyiv’s ability to shoot down a number of aircraft."
     }
   ]
 }
