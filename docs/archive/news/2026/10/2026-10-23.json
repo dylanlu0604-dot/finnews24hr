@@ -1,7 +1,148 @@
 {
   "date": "2026-10-23",
-  "count": 2016,
+  "count": 2032,
   "items": [
+    {
+      "id": "mkt:01a168c5-47c2-7ee0-a958-7c0448818bd2",
+      "time": "2026-10-23 20:38:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A top ENI executive estimates Italy's fuel price cap will have an impact of several hundred million euros per quarter."
+    },
+    {
+      "id": "5164725",
+      "time": "2026-10-23 20:38:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寒武紀：2026年前三季度營業收入同比增長106.76%】寒武紀公告，公司目前經營正常，業務和研發工作有序推進。2026年前三季度，公司實現營業收入95.26億元，同比增長106.76%；歸屬於上市公司股東的淨利潤37.15億元，同比增長131.49%，較2025年全年增長80.38%；研發投入合計12.25億元，同比增長45.35%。"
+    },
+    {
+      "id": "5164724",
+      "time": "2026-10-23 20:38:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國手機訊號塔運營商盤前漲幅擴大，CROWN CASTLE 上漲 12.4%，AMERICAN TOWER 上漲 10.2%，SBA COMMUNICATIONS 上漲 10.4%。"
+    },
+    {
+      "id": "5164723",
+      "time": "2026-10-23 20:38:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光庫科技：購買安捷訊99.97%股份相關事項獲深交所稽核透過】光庫科技(300620)10月23日公告，公司發行股份、可轉債及支付現金購買蘇州安捷訊光電科技股份有限公司（簡稱“安捷訊”）99.97%股份併發行股份募集配套資金事項獲深交所併購重組委稽核透過。此次交易尚需取得中國證監會同意註冊的批覆後方可實施。"
+    },
+    {
+      "id": "5164722",
+      "time": "2026-10-23 20:38:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【帝奧微：2026年第三季度淨利潤虧損2078.03萬元】帝奧微公告，2026年第三季度營業收入1.34億元，同比下降11.10%；歸母淨利潤虧損2078.03萬元，扣非淨利潤虧損3090.7萬元。2026年前三季度營業收入3.63億元，同比下降20.58%；歸母淨利潤1.18億元，扣非淨利潤虧損1.2億元。"
+    },
+    {
+      "id": "5164721",
+      "time": "2026-10-23 20:37:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國運通執行長就貨幣監理署的反洗錢罰款表示，相關指令並未對公司施加資產上限。"
+    },
+    {
+      "id": "5164720",
+      "time": "2026-10-23 20:37:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達盤前轉跌，此前上漲1.5%。"
+    },
+    {
+      "id": "5164718",
+      "time": "2026-10-23 20:37:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長在NDTV峰會上表示：如果沒有金融穩定，就無法實現價格穩定，這兩個目標是相互關聯的。"
+    },
+    {
+      "id": "mkt:01a168c3-fc96-7ee0-a958-748be1329605",
+      "time": "2026-10-23 20:37:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan's security forces have sealed off al-Karak and launched search operations to pursue the attackers."
+    },
+    {
+      "id": "5164717",
+      "time": "2026-10-23 20:37:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長在NDTV峰會上表示：一般來說，貨幣政策並非維護金融穩定的工具。"
+    },
+    {
+      "id": "5164716",
+      "time": "2026-10-23 20:36:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國運通執行長史蒂夫·斯奎裡就貨幣監理署的反洗錢罰款表示，同意令中指出的缺陷本不應該發生。"
+    },
+    {
+      "id": "mkt:01a168c3-32a2-7ee0-a958-6dc980559292",
+      "time": "2026-10-23 20:36:25",
+      "tags": [
+        "MKT News",
+        "AXP.O",
+        "Impact bullish"
+      ],
+      "text": "American Express will eliminate about 5% of roles, roughly 3,500 employees."
+    },
+    {
+      "id": "5164715",
+      "time": "2026-10-23 20:36:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國運通執行長就美國貨幣監理署的反洗錢罰款表示，公司有責任徹底解決這一缺陷。"
+    },
+    {
+      "id": "5164714",
+      "time": "2026-10-23 20:36:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通將裁減5%的崗位，約3500名員工。"
+    },
+    {
+      "id": "te:economy:594663",
+      "time": "2026-10-23 20:35:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Retail Sales MoM",
+        "Importance 2"
+      ],
+      "text": "Canada Retail Sales Rise for 2nd Month — Retail sales in Canada likely increased 0.7% month-over-month in September 2026, extending a 1.2% rise in August, according to preliminary estimates. Meanwhile, data for August was revised down from a preliminary estimate of a 1.3% increase. In August, the largest gain in retail sales was observed at motor vehicle and parts dealers (+1.2%), led by new car dealers (1.5%). In August, gains at automotive parts, accessories and tire retailers (+1.4%) were offset by lower sales at other motor vehicle dealers (-1.4%) and used car dealers (-0.5%). Also, sales at gasoline stations and fuel vendors increased 1.7%, up for the first time in three months. In volume terms however, sales at gasoline stations and fuel vendors decreased 0.5%."
+    },
+    {
+      "id": "5164713",
+      "time": "2026-10-23 20:35:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【莫斯科機場釋出空襲警報】今天（10月23日），俄羅斯莫斯科謝列梅捷沃機場釋出空襲警報。機場方面要求旅客就近前往安全區域和避難場所。謝列梅捷沃機場新聞處在通報中表示，警報期間禁止使用電梯，禁止停留在飛機機艙內，禁止靠近窗戶及玻璃結構，禁止進行影片拍攝和拍照。機場方面還提醒，不得靠近發現的無人機或其殘骸。（CCTV國際時訊）"
+    },
     {
       "id": "5164712",
       "time": "2026-10-23 20:33:59",
