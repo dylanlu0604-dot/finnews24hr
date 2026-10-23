@@ -1,7 +1,34 @@
 {
   "date": "2026-10-23",
-  "count": 2393,
+  "count": 2396,
   "items": [
+    {
+      "id": "te:markets:594736",
+      "time": "2026-10-23 23:56:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "NatGas Prices Fall to Almost 6-Month Low — US natural gas prices fell more than 5% on Friday to nearly $2.65 per MMBtu, approaching their lowest level since late April, as forecasts for milder weather weighed on expectations for heating demand. Above-average temperatures are expected across the Midwest and East through November 5, according to Commodity Weather Group, likely curbing gas consumption. The price decline came despite a smaller-than-usual storage build, strong LNG feedgas demand, and lower production. EIA data showed that US natural gas inventories rose by 77 Bcf in the week ended October 16, below both the 86 Bcf added during the same week last year and the five-year average increase of 87 Bcf. Meanwhile, average feedgas flows to the nine major US LNG export terminals climbed to 18.2 Bcf/d in October, up from 17.9 Bcf/d in September. On the supply side, production across the Lower 48 states averaged 111.4 Bcf/d this month, down from record highs of 113.3 Bcf/d in August and September."
+    },
+    {
+      "id": "5165078",
+      "time": "2026-10-23 23:56:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐土耳其大使湯姆・巴拉克談及伊朗：行動目標並非政權更迭。美國總統已經表明，無意推動政權更迭。美方意在重塑平衡，不再有人質被扣、不再存在威脅，讓局勢緩和、現狀得到保障。"
+    },
+    {
+      "id": "5165077",
+      "time": "2026-10-23 23:53:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐土耳其大使湯姆・巴拉克談及伊朗：本週末是否會發動打擊？完全有可能。總統立場明確，我傳達的是美方政策。總統態度十分明朗，願意達成協議。我們已經持續談判數月之久。"
+    },
     {
       "id": "te:markets:594734",
       "time": "2026-10-23 23:51:25",
