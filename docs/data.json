@@ -1,7 +1,62 @@
 {
-  "updated": "2026-10-24 00:06:44",
-  "count": 13245,
+  "updated": "2026-10-24 00:10:37",
+  "count": 13248,
   "items": [
+    {
+      "id": "mkt:01a16986-4bd8-7ee0-a95d-5e6e0952fc57",
+      "time": "2026-10-24 00:09:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Peskov: military coordinating ceasefire duration in Oleshky, Kherson region】Kremlin spokesman Dmitry Peskov said on Oct. 23 the military is coordinating the duration of a ceasefire in Oleshky in Ukraine's Kherson region; if operational details can be made public they may be announced by the defence ministry. He said US first lady Melania Trump played a leading role in the coordination, and Russia thanked the United States, President Trump and the first lady for their involvement in resolving humanitarian issues."
+    },
+    {
+      "id": "5165085",
+      "time": "2026-10-24 00:08:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【佩斯科夫：軍方正在協調奧列什基停火期限】俄羅斯總統新聞秘書佩斯科夫10月23日在簡報中表示，軍方目前正在協調赫爾松地區奧列什基市的停火期限，行動細節若可公開，或將由國防部通報。他稱，美國總統夫人梅拉尼婭·特朗普在協調程序中發揮了主導作用，俄方感謝美方、美國總統和夫人參與解決人道主義問題。（央視新聞）"
+    },
+    {
+      "id": "te:markets:594743",
+      "time": "2026-10-24 00:07:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.51% Lower — The FTSE 100 Index fell 54 points or 0.51 percent on Friday to close at 10671 points. Leading the losses are Rolls-Royce (-7.28%), Fresnillo (-6.01%) and Diploma (-5.17%). Top gainers were BP (4.16%), Shell (3.68%) and Ithaca Energy (2.12%)."
+    },
+    {
+      "id": "mkt:01a16983-f1f2-7ee0-a95d-52bf7fc611b5",
+      "time": "2026-10-24 00:06:57",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reuters survey: 16 of 29 economists expect the BOC to raise the overnight rate twice by end-March. In an August survey of 34 economists, 17 predicted rates would stay unchanged through mid-2027."
+    },
+    {
+      "id": "mkt:01a16983-bfa6-7ee0-a95d-4ad6210ba4ae",
+      "time": "2026-10-24 00:06:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Of 34 economists surveyed by Reuters, 19 expect the BOC to raise its overnight rate to 2.50% on Oct. 28."
+    },
+    {
+      "id": "5165084",
+      "time": "2026-10-24 00:06:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場調查：29 位經濟學家中有 16 位預計加拿大央行在 3 月底前兩次上調隔夜利率（8 月調查中 34 位經濟學家裡有 17 位預計利率維持不變至 2027 年年中）。"
+    },
     {
       "id": "mkt:01a16980-e911-7ee0-a95d-4124eb7cf83d",
       "time": "2026-10-24 00:03:38",
@@ -120012,42 +120067,6 @@
         "Importance 1"
       ],
       "text": "The DAX Index Closes 0.95% Higher — The DAX Index gained 240 points or 0.95 percent on Friday to close at 25623 points. Gains were led by Rheinmetall (6.53%), BMW (3.52%) and Scout24 (3.40%). Biggest losers were SAP (-1.08%), Continental (-0.34%) and Infineon (-0.29%)."
-    },
-    {
-      "id": "te:markets:592852",
-      "time": "2026-10-17 00:10:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.28% Higher — The CAC 40 Index went up by 22 points or 0.28 percent on Friday to close at 7957 points. The rise was led by Essilor (3.35%), Thales (2.90%) and Pernod Ricard (2.66%). On the downside, the weakerst performers were Schneider Electric (-1.78%), Publicis (-1.18%) and Michelin (-1.17%)."
-    },
-    {
-      "id": "te:markets:592850",
-      "time": "2026-10-17 00:07:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.37% Higher — The FTSE 100 Index rose 40 points or 0.37 percent on Friday to close at 10881 points. Leading the gains are Babcock International (3.58%), Kingfisher (2.80%) and Weir (2.68%). Top losers were Scottish Mortgage (-3.23%), AstraZeneca (-2.09%) and Natwest (-1.69%)."
-    },
-    {
-      "id": "mkt:01a14577-417f-7ee0-a8c1-bc26ded0e4fc",
-      "time": "2026-10-17 00:06:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "ZELENSKIY said Putin currently refuses to negotiate in any form. He said Ukraine cannot accept a diesel deal because it would lead to a gas deal, and said he is convinced that after gas sanctions would be eased in other areas, eventually affecting banks, individuals and the chemicals sector, with frozen assets at risk."
     }
   ]
 }
