@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-24 04:45:13",
-  "count": 13099,
+  "updated": "2026-10-24 04:49:01",
+  "count": 13095,
   "items": [
+    {
+      "id": "5165301",
+      "time": "2026-10-24 04:45:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【委內瑞拉石油部長：委內瑞拉原油產量達 120 萬桶 / 日，創數月新高】委內瑞拉石油部長埃克托・奧夫雷貢在蘇利亞州納貝普油田考察時表示，該國原油日產量達到 125.2 萬桶，為數月以來最高水平，同行人員包括納貝普執行長亞歷杭德羅・貝坦庫爾以及美國政府代表團。委內瑞拉國家石油公司（PDVSA）與美方官員同貝坦庫爾一道視察了蘇利亞州納貝普旗下巴查克羅油田。貝坦庫爾稱，納貝普在蘇利亞州的產量上週五創下紀錄，達到日產 11.5 萬桶。美國駐委內瑞拉大使約翰・巴雷特表示：這是一份意義重大的協議，我們非常榮幸能與各位合作。我們正在重塑能源格局，對當前成果感到滿意。奧夫雷貢透露，委內瑞拉國家石油公司計劃重啟天然氣液加工廠，加工蘇利亞油田產出的油氣用於出口，並提升液化石油氣產量。"
+    },
     {
       "id": "mkt:01a16a80-846b-7ee0-a960-6bf7019d28b7",
       "time": "2026-10-24 04:42:49",
@@ -118663,58 +118672,6 @@
         "MKT News"
       ],
       "text": "U.S. authorities have lifted restrictions, permitting Mexican carriers to launch new routes from two Mexico City international airports to the United States, a joint statement said."
-    },
-    {
-      "id": "5150602",
-      "time": "2026-10-17 04:48:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "聯合宣告稱，美國當局解除了限制墨西哥航空公司從墨西哥首都的兩個國際機場開通飛往美國的新航班的限制。"
-    },
-    {
-      "id": "mkt:01a14679-22b9-7ee0-a8c6-743cdd7fc261",
-      "time": "2026-10-17 04:48:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC's revenue per employee is 2-4 times that of Meta Platforms (META.O) and Google (GOOG.O)."
-    },
-    {
-      "id": "te:markets:592875",
-      "time": "2026-10-17 04:46:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Edges Higher as Energy Gains Offset Tech Selloff — The S&P/TSX Composite Index edged 0.1% higher to close at 36,177 on Friday, trimming earlier gains amid a deepening selloff in the North American tech sector. Shopify tumbled 5.1% as the selloff in Wall Street chipmakers extended into an eighth consecutive session, marking the sector’s longest losing streak since the 2008 financial crisis. Shopify’s partnership with Meta has further increased its exposure to the AI trade. Celestica fell 3.9%, while Constellation Software dropped 3%. In contrast, energy producers lifted the index as oil prices rallied amid mounting supply risks. Canadian Natural Resources rose 3.2%, Suncor and Cenovus each gained 2.7%, and Imperial Oil added 2.9%. Energy infrastructure stocks also helped offset losses, with Enbridge advancing 2.3%. Banking stocks were subdued following hawkish remarks from the Bank of Canada governor. Miners closed mixed as gold and silver prices declined."
-    },
-    {
-      "id": "mkt:01a14677-788d-7ee0-a8c6-6c66a1bb4956",
-      "time": "2026-10-17 04:46:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said the Iran issue will end soon."
-    },
-    {
-      "id": "mkt:01a14677-0b92-7ee0-a8c6-668983c3b218",
-      "time": "2026-10-17 04:46:09",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【NVIDIA CEO Jensen Huang says AI-driven transformation will outlast current market turbulence】NVIDIA (NVDA.O) CEO Jensen Huang said at a Berlin event that current AI market volatility will pass because AI will drive structural change across industries and countries and the sector remains in an early stage. He said shifting headlines do not change industry fundamentals and that large-scale hardware investment will ultimately deliver returns and help calm market unease. Commenting on recent sell-offs in AI chip and infrastructure stocks amid investor concern that higher borrowing costs could curb AI capex, Huang said he remains optimistic and urged investors to focus on first principles, fundamentals and long-term value."
     }
   ]
 }
