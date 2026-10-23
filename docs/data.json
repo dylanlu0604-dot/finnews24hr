@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-24 04:22:16",
+  "updated": "2026-10-24 04:26:08",
   "count": 13115,
   "items": [
+    {
+      "id": "5165277",
+      "time": "2026-10-24 04:24:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在佛羅里達州一場集會上結束講話。"
+    },
+    {
+      "id": "te:markets:594757",
+      "time": "2026-10-24 04:24:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Hits Over 4-Year High — Brent crude rose above $116 a barrel on Friday, reaching an over 4-year high as expectations grew that the US could resume strikes against Iran in the coming weeks. US President Trump said Wednesday that Washington was not negotiating with Tehran and that something would happen “fairly soon.” Reports indicate that the US and Israel are planning fresh strikes on Iran after the midterm elections. Meanwhile, Iran’s army chief said the country’s military was fully prepared for “asymmetric warfare” after strengthening its capabilities. Iran-allied Houthi militants have continued attacks on Saudi Arabia, prompting the US State Department to order non-essential personnel to leave the country. Oil giant Saudi Aramco also instructed staff to evacuate its Dhahran headquarters and work remotely following a series of attacks. On the week, brent crude prices rose more than 6%."
+    },
+    {
+      "id": "5165275",
+      "time": "2026-10-24 04:22:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "Fair Isaac盤後股價快速下跌，跌幅達9%。"
+    },
     {
       "id": "5165273",
       "time": "2026-10-24 04:20:51",
@@ -118825,35 +118852,6 @@
         "MKT News"
       ],
       "text": "Axios reports a Ukrainian official said they remain highly skeptical of Trump's claims and believe someone inside the U.S. government was involved in restricting the systems. Sources who spoke with SpaceX told Axios the WHITE HOUSE participated in the decision."
-    },
-    {
-      "id": "5150580",
-      "time": "2026-10-17 04:24:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲4%，現報101.90美元/桶。"
-    },
-    {
-      "id": "te:markets:592871",
-      "time": "2026-10-17 04:24:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Surges Above $100 on Rising Supply Risks — Crude oil prices surged above $100 a barrel on Friday, rising more than 11% this week amid tightening supply and strong demand for fuel from the shipping industry. Producers are facing higher freight rates and risk premiums to transport cargoes through the Strait of Hormuz, keeping uncertainty over future regional supply elevated. Iranian strikes on tankers in the strait have sharply reduced oil flows. In the week to October 13th, average daily flows fell to 11.62 million barrels from a baseline of 17.15 million barrels. Security risks in the Persian Gulf have contributed significantly to the price rally. Meanwhile, Ukrainian drone attacks on Russian refineries have further constrained fuel supply. Adding to the pressure, US crude inventories fell by 8.56 million barrels in the week ended October 9th."
-    },
-    {
-      "id": "mkt:01a14662-e8df-7ee0-a8c6-1a8ca41e482b",
-      "time": "2026-10-17 04:24:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. bank deposits rose to $19.771 trillion from $19.694 trillion the prior week."
     }
   ]
 }

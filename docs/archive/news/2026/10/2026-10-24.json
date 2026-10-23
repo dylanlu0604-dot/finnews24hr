@@ -1,7 +1,34 @@
 {
   "date": "2026-10-24",
-  "count": 243,
+  "count": 246,
   "items": [
+    {
+      "id": "5165277",
+      "time": "2026-10-24 04:24:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在佛羅里達州一場集會上結束講話。"
+    },
+    {
+      "id": "te:markets:594757",
+      "time": "2026-10-24 04:24:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Hits Over 4-Year High — Brent crude rose above $116 a barrel on Friday, reaching an over 4-year high as expectations grew that the US could resume strikes against Iran in the coming weeks. US President Trump said Wednesday that Washington was not negotiating with Tehran and that something would happen “fairly soon.” Reports indicate that the US and Israel are planning fresh strikes on Iran after the midterm elections. Meanwhile, Iran’s army chief said the country’s military was fully prepared for “asymmetric warfare” after strengthening its capabilities. Iran-allied Houthi militants have continued attacks on Saudi Arabia, prompting the US State Department to order non-essential personnel to leave the country. Oil giant Saudi Aramco also instructed staff to evacuate its Dhahran headquarters and work remotely following a series of attacks. On the week, brent crude prices rose more than 6%."
+    },
+    {
+      "id": "5165275",
+      "time": "2026-10-24 04:22:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "Fair Isaac盤後股價快速下跌，跌幅達9%。"
+    },
     {
       "id": "5165273",
       "time": "2026-10-24 04:20:51",
