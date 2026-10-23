@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-24 03:43:56",
-  "count": 13133,
+  "updated": "2026-10-24 03:47:50",
+  "count": 13134,
   "items": [
+    {
+      "id": "5165225",
+      "time": "2026-10-24 03:47:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數23日上漲】美元指數23日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.2%，在匯市尾市收於101.811。截至紐約匯市尾市，1歐元兌換1.1193美元，低於前一交易日的1.1220美元；1英鎊兌換1.3371美元，低於前一交易日的1.3400美元。1美元兌換156.87日元，高於前一交易日的156.78日元；1美元兌換0.8252瑞士法郎，高於前一交易日的0.8205瑞士法郎；1美元兌換1.4004加元，低於前一交易日的1.4008加元；1美元兌換9.9424瑞典克朗，高於前一交易日的9.9079瑞典克朗。"
+    },
+    {
+      "id": "5165224",
+      "time": "2026-10-24 03:45:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我已經親自致電普京，要求釋放哈伯德（史蒂芬·詹姆斯·哈伯德，美國密歇根州人，退伍軍人。他在2022年俄烏衝突期間被俄軍拘留）。"
+    },
+    {
+      "id": "5165222",
+      "time": "2026-10-24 03:44:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普在政治集會上講話的原文摘錄】特朗普論伊朗： 我們可能會再來一次小小的“史詩之怒”（2026年2月末聯合以色列打擊伊朗）行動，或者他們會同意。 如果他們聰明，他們就會直接說：“讓我們言歸正傳吧。” 但我懷疑他們會這樣做，因為也許他們並不聰明。"
+    },
+    {
+      "id": "mkt:01a16a4a-2dac-7ee0-a95f-df4e33b7d62d",
+      "time": "2026-10-24 03:43:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says two supertankers struck mines, exploded in southern Strait of Hormuz】On the 23rd local time, Iran's Islamic Revolutionary Guard Corps navy said two supertankers attempting to transit the southern Strait of Hormuz illegally struck mines. Explosions and fires disabled their engine rooms and left the vessels stranded; crews abandoned ship. The two tankers were carrying a combined total of over 4.5 mln barrels of crude and remain in the southern Strait of Hormuz."
+    },
     {
       "id": "mkt:01a16a48-eeee-7ee0-a95f-d02120673943",
       "time": "2026-10-24 03:42:06",
@@ -118972,30 +119011,6 @@
         "XAUUSD"
       ],
       "text": "Yemen's Aden security forces said two missiles fired by Houthi militants landed inside Aden airport, the second such incident in under a week."
-    },
-    {
-      "id": "5150538",
-      "time": "2026-10-17 03:47:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西巴西財長：我們將實現不斷增長的盈餘，直到達到佔國內生產總值1.5%的盈餘，但這需要透過循序漸進的努力來實現。"
-    },
-    {
-      "id": "5150537",
-      "time": "2026-10-17 03:45:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：10月17日03時35分在西藏日喀則市拉孜縣（北緯28.85度，東經87.52度）發生3.0級地震，震源深度10千米。"
-    },
-    {
-      "id": "5150536",
-      "time": "2026-10-17 03:44:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴巴西財長：巴西的利率需要下降，需要回歸合理水平。"
     }
   ]
 }
