@@ -1,7 +1,202 @@
 {
-  "updated": "2026-10-23 10:11:59",
-  "count": 13359,
+  "updated": "2026-10-23 10:15:49",
+  "count": 13366,
   "items": [
+    {
+      "id": "mkt:01a1668a-a934-7ee0-a954-738ae9d741c0",
+      "time": "2026-10-23 10:15:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's ChiNext index fell more than 3% and slipped below 2,500 points."
+    },
+    {
+      "id": "te:markets:594440",
+      "time": "2026-10-23 10:15:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Indian Rupee Drops by 0.41% — Top currency losers are Indian Rupee (-0.41%) and Japanese Yen (-0.10%). Gains are led by South Korean Won (0.32%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "mkt:01a1668a-4d72-7ee0-a954-6c5c8d370a62",
+      "time": "2026-10-23 10:15:02",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "【Tech selloff sparks risk-off; yen hits one-month high】A tech-sector selloff drove flows into traditional havens—yen, Japanese and US government bonds—pushing the yen to a one-month high. After weeks of tight trading the yen broke out in the past 24 hours, rising to 156.08 per dollar in Tokyo trade (up 0.4% intraday) and returning to its Sept. 18 level, the day the Bank of Japan hiked rates; it had gained 0.9% on Thursday. Asian equities fell alongside Wall Street. Japan 10-year bond prices jumped, sending yields down about 10bp; US Treasuries largely held Thursday’s gains. Commonwealth Bank strategist Carol Kong said investors prefer the yen to the dollar as a safe haven after US mega-cap earnings dented the AI-driven growth narrative and added that further tech de-risking could push the yen higher."
+    },
+    {
+      "id": "5163148",
+      "time": "2026-10-23 10:14:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌3.01%，現報2499.410點；上證指數跌2.13%，現報3579.944點；深證成指跌2.56%，現報11066.777點。"
+    },
+    {
+      "id": "5163147",
+      "time": "2026-10-23 10:14:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燒鹼連續主力合約日內跌3%，現報1583.00元。"
+    },
+    {
+      "id": "mkt:01a16689-62ef-7ee0-a954-635ad08a363b",
+      "time": "2026-10-23 10:14:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "Shanghai Composite fell over 2%; Shenzhen Composite Index down 2.4% and the ChiNext Index down 2.8%. Lithography-equipment, PCB and CPO concept stocks led the losses."
+    },
+    {
+      "id": "5163146",
+      "time": "2026-10-23 10:13:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準指數上漲1%，至5441.13點。"
+    },
+    {
+      "id": "5163145",
+      "time": "2026-10-23 10:13:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌3%，現報6277.00點。"
+    },
+    {
+      "id": "mkt:01a16688-eee2-7ee0-a954-5ef8ca633b7b",
+      "time": "2026-10-23 10:13:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's CSI 1000 index futures (IM) main contract fell 4.00% intraday to 6,287.0 points. China's CSI 500 index futures (IC) main contract slipped below 6,400 points, down 3.35% intraday."
+    },
+    {
+      "id": "5163144",
+      "time": "2026-10-23 10:13:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "新加坡金融管理局、馬來西亞國家銀行、泰國央行將作為政策制定機構成員加入 BLOOM 倡議。"
+    },
+    {
+      "id": "5163143",
+      "time": "2026-10-23 10:13:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股三大指數均跌超2%】上證指數跌2.01%，現報3584.388點；深證成指跌2.39%，現報11086.197點；創業板指跌2.80%，現報2504.855點。"
+    },
+    {
+      "id": "mkt:01a16688-b787-7ee0-a954-5692bb837665",
+      "time": "2026-10-23 10:13:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng and Hang Seng Tech indices flipped to losses; Hang Seng Tech had earlier been up more than 2%."
+    },
+    {
+      "id": "5163142",
+      "time": "2026-10-23 10:13:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃仁勳：沒有哪個國家在製造業方面比中國更強】當地時間10月22日，英偉達CEO黃仁勳在德國柏林舉辦的英偉達GPU技術大會期間表示，到2029年記憶體供應過剩的可能性不大，“記憶體的一個真正好處是，你總是可以用得更多”。當被問及是否考慮與中國長鑫儲存合作時，黃仁勳回應提到，對此持開放態度。他表示：“我們與中國公司合作，幾乎整個世界都在供應鏈的某個環節與中國公司合作。中國在底層基礎設施技術方面非常出色，沒有哪個國家在製造業方面比中國更強。”（央視財經）"
+    },
+    {
+      "id": "5163141",
+      "time": "2026-10-23 10:12:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【染料塗料板塊走弱，亞邦股份跌停】染料塗料板塊走弱，亞邦股份跌停，福萊蒽特、雅運股份、吉華集團、錦雞股份、藍豐生化等跟跌。"
+    },
+    {
+      "id": "mkt:01a16688-0d4f-7ee0-a954-4a5418955a7c",
+      "time": "2026-10-23 10:12:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Gold set for biggest weekly drop in over four months as Fed rate outlook weighs】Gold eased on Friday and looks set for its largest weekly decline in over four months after oil’s jump and stronger US data pushed expectations that the Fed will keep policy rates higher for longer. Higher energy prices raise the opportunity cost of holding non-yielding bullion; US initial jobless claims fell to a near 57-year low last week, signalling a modest rebound in October employment. Markets are focused on the Fed’s Oct. 27-28 policy meeting and next week’s PCE inflation report, the central bank’s preferred gauge."
+    },
+    {
+      "id": "5163140",
+      "time": "2026-10-23 10:12:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生科技指數回吐漲幅；最新持平於3792.87點。"
+    },
+    {
+      "id": "te:markets:594438",
+      "time": "2026-10-23 10:12:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Extend Sell-Off — The Hang Seng Index fell 0.5% to around 22,822 on Friday, extending losses after Thursday’s sharp sell-off as persistent weakness in technology shares weighed on sentiment. Concerns over the scale and financing of artificial intelligence investment continued to pressure global tech stocks, following a steep overnight decline on Wall Street. Meanwhile, Brent crude surged 4% to US$114 a barrel after Houthi attacks in Saudi Arabia heightened concerns over Middle East supply disruptions, raising inflation risks. On the domestic front, Chinese AI startup DeepSeek had raised about US$15 billion offered a potential positive signal for the domestic AI sector, although it failed to offset broader market weakness. Notable laggards included SMIC (-3.0%), Genscript Biotech (-9.7%), Lenovo (-3.1%), AIA (-0.6%), and Wuxi Biologics (-1.5%). For the week, Hang Seng declined by more than 6%."
+    },
+    {
+      "id": "5163139",
+      "time": "2026-10-23 10:12:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "新加坡金融管理局、馬來西亞國家銀行與泰國銀行就跨境數字貨幣結算展開合作。"
+    },
+    {
+      "id": "5163138",
+      "time": "2026-10-23 10:12:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【意華股份在湖南成立模具加工公司】企查查APP顯示，近日，湖南意華模具加工有限公司成立，經營範圍包含：模具製造；模具銷售；機械零件、零部件加工；機械零件、零部件銷售等。企查查股權穿透顯示，該公司由意華股份全資持股。"
+    },
     {
       "id": "5163137",
       "time": "2026-10-23 10:11:11",
@@ -121327,111 +121522,6 @@
         "Importance 1"
       ],
       "text": "Offshore Yuan Holds at Strongest Since 2022 — The offshore yuan held around 6.69 per dollar on Friday, remaining at its strongest level since July 2022 as China accelerates efforts to establish the currency as a global player. Beijing is broadening the range of available investment products and financial instruments, including derivatives and hedging tools, while easing access to dim sum and panda bond issuance. Progress also includes expanding offshore-yuan investment options, deepening yuan-based financing, and strengthening cross-border clearing and settlement infrastructure. Meanwhile, caution lingered over persistent China-EU trade tensions as the bloc considers new powers to restrict access to its single market and assesses import data for potential surges, a preliminary step toward imposing quotas on additional goods. China has warned of retaliation against any new EU trade measures or discriminatory restrictions targeting Chinese companies or products beyond the hybrid vehicle export cap agreed last week."
-    },
-    {
-      "id": "5148810",
-      "time": "2026-10-16 10:15:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "養殖板塊震盪走高，天馬科技漲超9%，神農集團、立華股份、東瑞股份、牧原股份、溫氏股份、仙壇股份等跟漲。"
-    },
-    {
-      "id": "5148809",
-      "time": "2026-10-16 10:15:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：人工智慧現在面臨的最大問題是公眾信任。"
-    },
-    {
-      "id": "te:markets:592583",
-      "time": "2026-10-16 10:15:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: Indonesian Rupiah Drops by 0.69% — Top currency losers are Indonesian Rupiah (-0.69%), Indian Rupee (-0.28%) and South Korean Won (-0.21%). Meanwhile, Chinese Yuan and Japanese Yen were little changed."
-    },
-    {
-      "id": "5148808",
-      "time": "2026-10-16 10:14:43",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【首發、首展、首秀！ 第九屆進博會多項資料創歷年新高】國務院新聞辦公室今日舉行新聞釋出會，介紹第九屆中國國際進口博覽會籌備情況，並答記者問。釋出會上介紹，第九屆進博會多項資料再創新高：從規模看，企業展面積首次突破37萬平方米。從展商看，世界500強和行業龍頭企業首次超過300家，九屆“全勤”的企業和機構近200家；首次參展的“新面孔”企業超2000家。從展品看，截至目前，全球首發、亞洲首展、中國首秀的代表性展品超過480件，創歷年新高。另一方面，多項舉措首次實施：首次推出主賓國和“出口中國”年度主題國專屬“權益包”，量身打造支援舉措與服務，協同場館周邊商圈開展主賓國主題日活動，創新策劃“館內+館外”展城聯動；首次打造環球國民品牌展示區；全面升級“進博三薈”“精品薈”首次引入“非遺工坊”“美食薈”首次設立環球美食品鑑區，“文藝薈”首次與“中國國際時裝週”聯動。"
-    },
-    {
-      "id": "5148807",
-      "time": "2026-10-16 10:14:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江西金融監管局：同意江投資本受讓澳門國際銀行持有的江西銀行約1.35億股股份】江西金融監管局資訊顯示，該局已批覆同意江西江投資本有限公司受讓澳門國際銀行持有的江西銀行約1.35億股股份。受讓完成後，江投資本合計持有該行約3.15億股股份，持股比例為5.22%。據瞭解，江投資本是江西省投資集團全資控股的國有企業。"
-    },
-    {
-      "id": "5148806",
-      "time": "2026-10-16 10:13:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元下跌0.7%至32.491。"
-    },
-    {
-      "id": "te:markets:592581",
-      "time": "2026-10-16 10:13:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Rebound as Asian Markets Recover — The Hang Seng Index rose 0.9%, or 212 points, to 24,272 on Friday, recovering from the previous session’s losses as Asian equities rebounded following a selloff in technology and semiconductor stocks, with dip buyers stepping in amid easing concerns over global market volatility. Lower yields helped ease pressure on equities, while investors bought beaten-down shares following recent market volatility and tracking gains in Wall Street. The recovery in regional chipmakers also helped lift risk appetite, although uncertainty surrounding the sustainability of artificial intelligence spending continued to weigh on parts of the technology sector. Investors also awaited Federal Reserve Chair Kevin Warsh’s comments for clues on the US interest-rate outlook. Hong Kong’s business confidence data was also due later in the day. Notable movers included Tencent (2.4%), Lenovo (1.7%), Xiaomi (1.8%), AIA (1.0%), and Z.AI Co. (3.3%)."
-    },
-    {
-      "id": "5148805",
-      "time": "2026-10-16 10:13:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克稱，Roadster跑車0至60英里加速目標時間低於1秒，實際測量值最低達到0.81秒，量產版將進一步提升。最高時速已超過230英里，馬斯克表示最終目標為音速的一半，約383英里每小時。"
-    },
-    {
-      "id": "5148804",
-      "time": "2026-10-16 10:12:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【農夫山泉成立飲料公司 含供應鏈管理服務業務】企查查APP顯示，近日，浙江梅山源飲料有限公司成立，法定代表人為胡委軍，註冊資本為3000萬元，經營範圍包含食品新增劑銷售；食用農產品批發；食用農產品零售；初級農產品收購；供應鏈管理服務等。企查查股權穿透顯示，該公司由農夫山泉間接全資持股。"
-    },
-    {
-      "id": "5148803",
-      "time": "2026-10-16 10:12:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第九屆進博會首發首展首秀展品創歷年新高】記者從國新辦16日舉行的新聞釋出會獲悉，第九屆進博會創新動能更強勁，截至目前，全球首發、亞洲首展、中國首秀的代表性展品超480件，創歷年新高（新華社）"
-    },
-    {
-      "id": "5148802",
-      "time": "2026-10-16 10:12:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "貝利：中東方面的訊息是當前影響英國國債收益率走勢的最大因素。"
-    },
-    {
-      "id": "mkt:01a1427b-1119-7ee0-a8ad-a3c41a8fb436",
-      "time": "2026-10-16 10:12:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Record number of global, Asia and China debuts at 9th China International Import Expo】At a State Council Information Office briefing on the 16th, organizers said the ninth China International Import Expo showed stronger innovation momentum, with over 480 representative exhibits making global debuts, first appearances in Asia or first-time showings in China — a record high."
     }
   ]
 }

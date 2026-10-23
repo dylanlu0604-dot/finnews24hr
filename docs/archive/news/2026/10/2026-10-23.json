@@ -1,7 +1,202 @@
 {
   "date": "2026-10-23",
-  "count": 929,
+  "count": 948,
   "items": [
+    {
+      "id": "mkt:01a1668a-a934-7ee0-a954-738ae9d741c0",
+      "time": "2026-10-23 10:15:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's ChiNext index fell more than 3% and slipped below 2,500 points."
+    },
+    {
+      "id": "te:markets:594440",
+      "time": "2026-10-23 10:15:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Indian Rupee Drops by 0.41% — Top currency losers are Indian Rupee (-0.41%) and Japanese Yen (-0.10%). Gains are led by South Korean Won (0.32%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "mkt:01a1668a-4d72-7ee0-a954-6c5c8d370a62",
+      "time": "2026-10-23 10:15:02",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "【Tech selloff sparks risk-off; yen hits one-month high】A tech-sector selloff drove flows into traditional havens—yen, Japanese and US government bonds—pushing the yen to a one-month high. After weeks of tight trading the yen broke out in the past 24 hours, rising to 156.08 per dollar in Tokyo trade (up 0.4% intraday) and returning to its Sept. 18 level, the day the Bank of Japan hiked rates; it had gained 0.9% on Thursday. Asian equities fell alongside Wall Street. Japan 10-year bond prices jumped, sending yields down about 10bp; US Treasuries largely held Thursday’s gains. Commonwealth Bank strategist Carol Kong said investors prefer the yen to the dollar as a safe haven after US mega-cap earnings dented the AI-driven growth narrative and added that further tech de-risking could push the yen higher."
+    },
+    {
+      "id": "5163148",
+      "time": "2026-10-23 10:14:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌3.01%，現報2499.410點；上證指數跌2.13%，現報3579.944點；深證成指跌2.56%，現報11066.777點。"
+    },
+    {
+      "id": "5163147",
+      "time": "2026-10-23 10:14:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燒鹼連續主力合約日內跌3%，現報1583.00元。"
+    },
+    {
+      "id": "mkt:01a16689-62ef-7ee0-a954-635ad08a363b",
+      "time": "2026-10-23 10:14:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "Shanghai Composite fell over 2%; Shenzhen Composite Index down 2.4% and the ChiNext Index down 2.8%. Lithography-equipment, PCB and CPO concept stocks led the losses."
+    },
+    {
+      "id": "5163146",
+      "time": "2026-10-23 10:13:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準指數上漲1%，至5441.13點。"
+    },
+    {
+      "id": "5163145",
+      "time": "2026-10-23 10:13:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌3%，現報6277.00點。"
+    },
+    {
+      "id": "mkt:01a16688-eee2-7ee0-a954-5ef8ca633b7b",
+      "time": "2026-10-23 10:13:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's CSI 1000 index futures (IM) main contract fell 4.00% intraday to 6,287.0 points. China's CSI 500 index futures (IC) main contract slipped below 6,400 points, down 3.35% intraday."
+    },
+    {
+      "id": "5163144",
+      "time": "2026-10-23 10:13:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "新加坡金融管理局、馬來西亞國家銀行、泰國央行將作為政策制定機構成員加入 BLOOM 倡議。"
+    },
+    {
+      "id": "5163143",
+      "time": "2026-10-23 10:13:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股三大指數均跌超2%】上證指數跌2.01%，現報3584.388點；深證成指跌2.39%，現報11086.197點；創業板指跌2.80%，現報2504.855點。"
+    },
+    {
+      "id": "mkt:01a16688-b787-7ee0-a954-5692bb837665",
+      "time": "2026-10-23 10:13:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng and Hang Seng Tech indices flipped to losses; Hang Seng Tech had earlier been up more than 2%."
+    },
+    {
+      "id": "5163142",
+      "time": "2026-10-23 10:13:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃仁勳：沒有哪個國家在製造業方面比中國更強】當地時間10月22日，英偉達CEO黃仁勳在德國柏林舉辦的英偉達GPU技術大會期間表示，到2029年記憶體供應過剩的可能性不大，“記憶體的一個真正好處是，你總是可以用得更多”。當被問及是否考慮與中國長鑫儲存合作時，黃仁勳回應提到，對此持開放態度。他表示：“我們與中國公司合作，幾乎整個世界都在供應鏈的某個環節與中國公司合作。中國在底層基礎設施技術方面非常出色，沒有哪個國家在製造業方面比中國更強。”（央視財經）"
+    },
+    {
+      "id": "5163141",
+      "time": "2026-10-23 10:12:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【染料塗料板塊走弱，亞邦股份跌停】染料塗料板塊走弱，亞邦股份跌停，福萊蒽特、雅運股份、吉華集團、錦雞股份、藍豐生化等跟跌。"
+    },
+    {
+      "id": "mkt:01a16688-0d4f-7ee0-a954-4a5418955a7c",
+      "time": "2026-10-23 10:12:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Gold set for biggest weekly drop in over four months as Fed rate outlook weighs】Gold eased on Friday and looks set for its largest weekly decline in over four months after oil’s jump and stronger US data pushed expectations that the Fed will keep policy rates higher for longer. Higher energy prices raise the opportunity cost of holding non-yielding bullion; US initial jobless claims fell to a near 57-year low last week, signalling a modest rebound in October employment. Markets are focused on the Fed’s Oct. 27-28 policy meeting and next week’s PCE inflation report, the central bank’s preferred gauge."
+    },
+    {
+      "id": "5163140",
+      "time": "2026-10-23 10:12:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生科技指數回吐漲幅；最新持平於3792.87點。"
+    },
+    {
+      "id": "te:markets:594438",
+      "time": "2026-10-23 10:12:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Extend Sell-Off — The Hang Seng Index fell 0.5% to around 22,822 on Friday, extending losses after Thursday’s sharp sell-off as persistent weakness in technology shares weighed on sentiment. Concerns over the scale and financing of artificial intelligence investment continued to pressure global tech stocks, following a steep overnight decline on Wall Street. Meanwhile, Brent crude surged 4% to US$114 a barrel after Houthi attacks in Saudi Arabia heightened concerns over Middle East supply disruptions, raising inflation risks. On the domestic front, Chinese AI startup DeepSeek had raised about US$15 billion offered a potential positive signal for the domestic AI sector, although it failed to offset broader market weakness. Notable laggards included SMIC (-3.0%), Genscript Biotech (-9.7%), Lenovo (-3.1%), AIA (-0.6%), and Wuxi Biologics (-1.5%). For the week, Hang Seng declined by more than 6%."
+    },
+    {
+      "id": "5163139",
+      "time": "2026-10-23 10:12:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "新加坡金融管理局、馬來西亞國家銀行與泰國銀行就跨境數字貨幣結算展開合作。"
+    },
+    {
+      "id": "5163138",
+      "time": "2026-10-23 10:12:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【意華股份在湖南成立模具加工公司】企查查APP顯示，近日，湖南意華模具加工有限公司成立，經營範圍包含：模具製造；模具銷售；機械零件、零部件加工；機械零件、零部件銷售等。企查查股權穿透顯示，該公司由意華股份全資持股。"
+    },
     {
       "id": "5163137",
       "time": "2026-10-23 10:11:11",
