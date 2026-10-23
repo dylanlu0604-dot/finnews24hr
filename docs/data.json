@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-24 04:26:08",
-  "count": 13115,
+  "updated": "2026-10-24 04:29:56",
+  "count": 13114,
   "items": [
+    {
+      "id": "5165285",
+      "time": "2026-10-24 04:28:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "哥倫比亞國家石油公司預計第三季度原油日產量在74萬至75萬桶之間。"
+    },
+    {
+      "id": "5165284",
+      "time": "2026-10-24 04:27:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "哥倫比亞國家石油公司預計第三季度營收為33萬億至36萬億比索。"
+    },
+    {
+      "id": "mkt:01a16a71-feed-7ee0-a960-4b29645c1580",
+      "time": "2026-10-24 04:26:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【China: IAEA should stop reviewing Iran nuclear issue】China’s deputy UN representative Sun Lei told the General Assembly on the 23rd that UN Security Council resolution 2231 has expired and that the Security Council and the IAEA should cease reviewing Iran’s nuclear file; the IAEA director‑general should stop submitting related reports. He said Iran, as an NPT non‑nuclear‑weapon state, must honor its commitment not to develop nuclear weapons and that Iran’s right to peaceful nuclear energy should be respected. Sun warned US‑UK‑Australia nuclear‑powered submarine cooperation contravenes the NPT’s purpose, poses serious proliferation risks and challenges the treaty and IAEA safeguards. China urged an intergovernmental, open, transparent and inclusive process, based on equality and mutual respect, to seek a mutually acceptable diplomatic solution."
+    },
+    {
+      "id": "5165283",
+      "time": "2026-10-24 04:26:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "哥倫比亞國家石油公司（ECOPETROL）預計第三季度淨利潤為4至5萬億比索。"
+    },
     {
       "id": "5165277",
       "time": "2026-10-24 04:24:18",
@@ -118805,53 +118839,6 @@
         "Brent"
       ],
       "text": "According to Axios, CENTCOM commander Admiral Brad Cooper said Friday that Iran-backed regional militias have been funneling funds to the IRGC to offset the economic strain of a nine-month war."
-    },
-    {
-      "id": "mkt:01a14666-e95b-7ee0-a8c6-2f34b606089f",
-      "time": "2026-10-17 04:28:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Yemen government says Houthi missiles hit Aden airport】Yemen's government confirmed on the evening of Oct 16 local time that two missiles fired by Houthi militants struck Aden International Airport in southern Yemen. A correspondent in Aden reported hearing a large explosion. The Houthis said they had hit the Saudi military command and a weapons depot at the Badr military base in Aden province."
-    },
-    {
-      "id": "5150582",
-      "time": "2026-10-17 04:28:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：ChatGPT中的GPT-6 Astra Pro獲得升級，響應速度更快，外掛和工具的使用也得到改進。現在，多個智慧體可以並行處理一項任務的不同部分。你可以跟蹤每個智慧體的進度，並開啟已完成的任務檢視其工作成果。"
-    },
-    {
-      "id": "te:markets:592872",
-      "time": "2026-10-17 04:27:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Rises Near $110 on Increasing Supply Risks — Brent crude prices surged toward $110 a barrel on Friday, rising more than 5% this week amid tightening supply and strong demand for fuel from the shipping industry. Producers are facing higher freight rates and risk premiums to transport cargoes through the Strait of Hormuz, keeping uncertainty over future regional supply elevated. Iranian strikes on tankers in the strait have sharply reduced oil flows. In the week to October 13th, average daily flows fell to 11.62 million barrels from a baseline of 17.15 million barrels. Security risks in the Persian Gulf have contributed significantly to the price rally. Meanwhile, Ukrainian drone attacks on Russian refineries have further constrained fuel supply. Adding to the pressure, US crude inventories fell by 8.56 million barrels in the week ended October 9th."
-    },
-    {
-      "id": "5150581",
-      "time": "2026-10-17 04:27:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門政府稱胡塞武裝襲擊亞丁機場】葉門政府當地時間10月16日晚證實，葉門南部亞丁國際機場被胡塞武裝發射的兩枚導彈擊中。稍早前總檯報道員在亞丁聽到巨大爆炸聲。而胡塞武裝釋出訊息稱“襲擊了亞丁省巴德爾軍事基地內的沙特軍隊指揮部和武器庫”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a14665-3544-7ee0-a8c6-24d9029611cb",
-      "time": "2026-10-17 04:26:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reports a Ukrainian official said they remain highly skeptical of Trump's claims and believe someone inside the U.S. government was involved in restricting the systems. Sources who spoke with SpaceX told Axios the WHITE HOUSE participated in the decision."
     }
   ]
 }
