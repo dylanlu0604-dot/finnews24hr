@@ -1,7 +1,109 @@
 {
-  "updated": "2026-10-23 09:41:15",
+  "updated": "2026-10-23 09:45:03",
   "count": 13327,
   "items": [
+    {
+      "id": "te:markets:594424",
+      "time": "2026-10-23 09:44:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Slide — The benchmark KOSPI slipped nearly 2% to around 5,430 on Friday, extending losses after hitting its lowest closing level since April, as a global AI and semiconductor selloff weighed on Korean chipmakers. The Nasdaq fell 2.6% overnight, with Micron and Nvidia among the major decliners, dragging Samsung Electronics lower by nearly 3% and SK hynix down 1%. Losses also spread to other major stocks, including Hyundai Motor (-3.3%), KB Financial Group (-3.4%), Hanwha Aerospace (-5.3%), Doosan Enerbility (-4.4%), HD Hyundai Heavy Industries (-4.4%), and Kia Corporation (-2.5%). Additionally, Brent crude surged to multi-month highs around $113 per barrel amid escalating Middle East tensions, raising concerns over higher energy costs and inflation. SK hynix also suspended plans for a US listing of its Solidigm subsidiary, citing market conditions and shareholder-value considerations."
+    },
+    {
+      "id": "mkt:01a1666d-3c66-7ee0-a953-a730053558fa",
+      "time": "2026-10-23 09:43:17",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Saudi-led coalition says it intercepted Houthi ballistic missile fired at Riyadh】Turki al-Maliki, spokesman for the Saudi-led coalition, said on Oct. 23 on social media the coalition intercepted and destroyed a ballistic missile launched by Yemen’s Houthi movement toward Riyadh. Riyadh earlier issued an air-defence alert and multiple explosions were reported."
+    },
+    {
+      "id": "5163071",
+      "time": "2026-10-23 09:43:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念集體調整 奧士康逼近跌停】PCB概念集體調整，奧士康逼近跌停，中京電子、澳弘電子、崇達技術、金祿電子、強達電路跟跌。"
+    },
+    {
+      "id": "te:markets:594423",
+      "time": "2026-10-23 09:43:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Languishes to Near One-Year Low — Silver prices fell to around $54 an ounce on Friday, hitting their lowest levels since November 2025 as a deepening selloff in technology and artificial intelligence stocks prompted traders to liquidate precious metals to cover losses in other assets. The broader equity downturn intensified this week after Meta Platforms’ plans to increase capital expenditure reignited concerns that technology companies may take on additional debt to fund the AI buildout. Silver also remained under pressure from rising oil prices, which heightened inflation concerns and strengthened expectations that interest rates could stay elevated for longer. However, growing doubts about the sustainability of AI investments, a key driver of US economic growth, prompted markets to scale back expectations for further Federal Reserve rate hikes, potentially providing some support for precious metals."
+    },
+    {
+      "id": "5163070",
+      "time": "2026-10-23 09:41:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌1%。"
+    },
+    {
+      "id": "mkt:01a1666b-4ec0-7ee0-a953-9aa773967887",
+      "time": "2026-10-23 09:41:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombian government ordered 13.8 trillion pesos (COP) of spending cuts in the 2026 budget."
+    },
+    {
+      "id": "te:markets:594422",
+      "time": "2026-10-23 09:40:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Stocks Set to Post Modest Weekly Drop — Australian shares fell 28 points or 0.3% to 8,763 around noon on Friday, extending prior losses amid weaker U.S. stock futures after tech names on Wall Street sold off overnight on concerns that the AI trade may be faltering. Locally, fears of a fifth interest rate hike this year persisted after Reserve Bank Deputy Gov. Hauser said the inflation outlook \"looks materially worse\" than previous estimates. Meanwhile, flash October PMI was subdued, with both manufacturing and services sectors continuing to drop. Tech, non-energy minerals, and industrial services dragged the benchmark index, partly offset by strength in energy minerals and communications. BHP Group tumbled 3.1% due to lower copper output and softening iron ore prices. Gold stocks also slipped, dragged by Northern Star Resources (-2.5%) and Evolution Mining (-3.1%). In contrast, three of four big banks rallied, all up above 2%. For the week, markets are heading for the first weekly fall in four, down around 0.5% so far."
+    },
+    {
+      "id": "5163069",
+      "time": "2026-10-23 09:40:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞政府下令從2026年預算中削減13.8萬億比索的支出。"
+    },
+    {
+      "id": "mkt:01a1666a-f63b-7ee0-a953-93dc427e8fc3",
+      "time": "2026-10-23 09:40:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CSI300",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures fell 1%."
+    },
+    {
+      "id": "5163068",
+      "time": "2026-10-23 09:40:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率<JP5YTN=JBTC>下跌10.5個基點，至2.185%。"
+    },
     {
       "id": "5163067",
       "time": "2026-10-23 09:40:39",
@@ -121016,90 +121118,6 @@
         "市場"
       ],
       "text": "【低空經濟概念股短線拉昇，萬豐奧威直線漲停】低空經濟概念股短線拉昇，萬豐奧威直線漲停，司南導航漲超15%，廣東宏大、中信海直、東安動力紛紛拉昇。"
-    },
-    {
-      "id": "5148754",
-      "time": "2026-10-16 09:44:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國京畿道一工廠發生火災 3名消防員受傷】據韓國京畿道消防災難本部16日通報，當地時間8時38分左右，富川市一家金屬部件塗裝工廠發生火災。3名消防員在救火時受重傷，其中1人處於心臟驟停狀態，已被送往醫院急救。"
-    },
-    {
-      "id": "5148753",
-      "time": "2026-10-16 09:44:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥概念異動拉昇 泓博醫藥20%漲停】創新藥概念異動拉昇，泓博醫藥20%漲停，譽衡藥業漲停，鍵凱科技、透景生命、萊美藥業、成都先導漲超10%。"
-    },
-    {
-      "id": "5148752",
-      "time": "2026-10-16 09:44:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧德時代港股跌超3%】寧德時代港股跌3.03%，報435.00港元。A股現跌近1%。"
-    },
-    {
-      "id": "5148751",
-      "time": "2026-10-16 09:43:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【氯鹼板塊短線拉昇，亞星化學漲停】氯鹼板塊短線拉昇，亞星化學漲停，中泰化學、氯鹼化工、航錦科技、英力特、君正集團等紛紛走高。"
-    },
-    {
-      "id": "5148750",
-      "time": "2026-10-16 09:43:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元下跌0.6%至32.460。"
-    },
-    {
-      "id": "5148749",
-      "time": "2026-10-16 09:43:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港：探討成立低空經濟產品出海示範區 支援與內地及國際的低空標準銜接】記者獲悉，香港發展低空經濟工作組與業內各方合作探討成立低空經濟產品出海示範區，旨在為低空經濟進出口貿易提供一站式配套服務，進一步支援國家的低空經濟企業出海。另外，國家在低空經濟的發展位居世界前列，在無人機制造、完整產業鏈和應用場景方面的發展尤其突出。由於現時國際尚未就統一低空技術標準達成共識，香港作為國際航空樞紐及國際創科中心，具備優越條件建立一個對標國際、接軌內地的低空經濟標準框架。就此，香港特區政府一直透過低空經濟“監管沙盒”及“監管沙盒X”驗證各項低空經濟技術，以健全本地低空經濟標準。香港特區政府積極推動與內地（尤其是粵港澳大灣區）及海外管轄區加強協作，支援本地與內地及國際的低空標準銜接。（人民財訊）"
-    },
-    {
-      "id": "5148748",
-      "time": "2026-10-16 09:42:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【民爆概念盤初活躍，金奧博漲停】民爆概念盤初活躍，金奧博漲停，廣東宏大、新餘國科、保利聯合、國泰集團、江南化工、高爭民爆等跟漲。"
-    },
-    {
-      "id": "5148747",
-      "time": "2026-10-16 09:42:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【白酒板塊反覆活躍，皇臺酒業觸及漲停】白酒板塊反覆活躍，皇臺酒業觸及漲停，口子窖、金種子酒、迎駕貢酒、瀘州老窖紛紛上漲。"
-    },
-    {
-      "id": "5148746",
-      "time": "2026-10-16 09:42:08",
-      "tags": [
-        "宏觀",
-        "行業",
-        "焦點"
-      ],
-      "text": "【香港《發展低空經濟規劃行動綱領》預計年內完成草擬 研究與內地設立國際低空經濟合作組織】香港首個五年規劃提出打造低空創新應用亞太區樞紐。記者獲悉，香港發展低空經濟工作組全力制訂《發展低空經濟規劃行動綱領》，健全規管框架、標準制定、基礎建設等。據悉，相關行動包括與內地緊密合作，儘快實現跨境低空物流試飛，並逐步拓展大灣區低空跨境物流網路；推展低空基礎設施技術研究，開展智慧低空交通管理系統建設等。目前，香港特區政府已開展有關草擬工作，並會持續徵詢意見，預計在今年內完成草擬。政府會採取多管齊下的策略，一方面支援區域及國際層面的標準建設工作，同時會積極推動政府層面的雙邊合作，與更多管轄區探討簽訂低空經濟合作備忘錄，逐步拓展至多邊與國際合作。同時，推動研究與內地聯合設立國際低空經濟合作組織的工作。（人民財訊）"
-    },
-    {
-      "id": "5148745",
-      "time": "2026-10-16 09:41:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科研人員發現單個神經元也能執行“智慧計算”】由中國科學家完成的研究顯示，單個神經元的樹狀分枝結構（樹突）就可以完成高階認知中的關鍵計算步驟。相關成果16日線上發表於國際學術期刊《科學》。團隊牽頭人、中國科學院腦科學與智慧技術卓越創新中心研究員徐寧龍介紹，這項研究更新了“單個神經元僅是認知計算中的簡單網路節點”這一傳統觀點，表明單個神經元內部即可完成支援靈活行為的認知計算，開闢了從神經細胞層面解析認知靈活性底層機制的研究正規化，有望啟發借鑑樹突多區室計算原理、設計更高效靈活的人工智慧系統。（新華社）"
     }
   ]
 }

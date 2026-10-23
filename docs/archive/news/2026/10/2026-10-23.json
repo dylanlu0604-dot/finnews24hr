@@ -1,7 +1,109 @@
 {
   "date": "2026-10-23",
-  "count": 829,
+  "count": 839,
   "items": [
+    {
+      "id": "te:markets:594424",
+      "time": "2026-10-23 09:44:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Slide — The benchmark KOSPI slipped nearly 2% to around 5,430 on Friday, extending losses after hitting its lowest closing level since April, as a global AI and semiconductor selloff weighed on Korean chipmakers. The Nasdaq fell 2.6% overnight, with Micron and Nvidia among the major decliners, dragging Samsung Electronics lower by nearly 3% and SK hynix down 1%. Losses also spread to other major stocks, including Hyundai Motor (-3.3%), KB Financial Group (-3.4%), Hanwha Aerospace (-5.3%), Doosan Enerbility (-4.4%), HD Hyundai Heavy Industries (-4.4%), and Kia Corporation (-2.5%). Additionally, Brent crude surged to multi-month highs around $113 per barrel amid escalating Middle East tensions, raising concerns over higher energy costs and inflation. SK hynix also suspended plans for a US listing of its Solidigm subsidiary, citing market conditions and shareholder-value considerations."
+    },
+    {
+      "id": "mkt:01a1666d-3c66-7ee0-a953-a730053558fa",
+      "time": "2026-10-23 09:43:17",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Saudi-led coalition says it intercepted Houthi ballistic missile fired at Riyadh】Turki al-Maliki, spokesman for the Saudi-led coalition, said on Oct. 23 on social media the coalition intercepted and destroyed a ballistic missile launched by Yemen’s Houthi movement toward Riyadh. Riyadh earlier issued an air-defence alert and multiple explosions were reported."
+    },
+    {
+      "id": "5163071",
+      "time": "2026-10-23 09:43:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念集體調整 奧士康逼近跌停】PCB概念集體調整，奧士康逼近跌停，中京電子、澳弘電子、崇達技術、金祿電子、強達電路跟跌。"
+    },
+    {
+      "id": "te:markets:594423",
+      "time": "2026-10-23 09:43:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Languishes to Near One-Year Low — Silver prices fell to around $54 an ounce on Friday, hitting their lowest levels since November 2025 as a deepening selloff in technology and artificial intelligence stocks prompted traders to liquidate precious metals to cover losses in other assets. The broader equity downturn intensified this week after Meta Platforms’ plans to increase capital expenditure reignited concerns that technology companies may take on additional debt to fund the AI buildout. Silver also remained under pressure from rising oil prices, which heightened inflation concerns and strengthened expectations that interest rates could stay elevated for longer. However, growing doubts about the sustainability of AI investments, a key driver of US economic growth, prompted markets to scale back expectations for further Federal Reserve rate hikes, potentially providing some support for precious metals."
+    },
+    {
+      "id": "5163070",
+      "time": "2026-10-23 09:41:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌1%。"
+    },
+    {
+      "id": "mkt:01a1666b-4ec0-7ee0-a953-9aa773967887",
+      "time": "2026-10-23 09:41:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombian government ordered 13.8 trillion pesos (COP) of spending cuts in the 2026 budget."
+    },
+    {
+      "id": "te:markets:594422",
+      "time": "2026-10-23 09:40:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Stocks Set to Post Modest Weekly Drop — Australian shares fell 28 points or 0.3% to 8,763 around noon on Friday, extending prior losses amid weaker U.S. stock futures after tech names on Wall Street sold off overnight on concerns that the AI trade may be faltering. Locally, fears of a fifth interest rate hike this year persisted after Reserve Bank Deputy Gov. Hauser said the inflation outlook \"looks materially worse\" than previous estimates. Meanwhile, flash October PMI was subdued, with both manufacturing and services sectors continuing to drop. Tech, non-energy minerals, and industrial services dragged the benchmark index, partly offset by strength in energy minerals and communications. BHP Group tumbled 3.1% due to lower copper output and softening iron ore prices. Gold stocks also slipped, dragged by Northern Star Resources (-2.5%) and Evolution Mining (-3.1%). In contrast, three of four big banks rallied, all up above 2%. For the week, markets are heading for the first weekly fall in four, down around 0.5% so far."
+    },
+    {
+      "id": "5163069",
+      "time": "2026-10-23 09:40:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞政府下令從2026年預算中削減13.8萬億比索的支出。"
+    },
+    {
+      "id": "mkt:01a1666a-f63b-7ee0-a953-93dc427e8fc3",
+      "time": "2026-10-23 09:40:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CSI300",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures fell 1%."
+    },
+    {
+      "id": "5163068",
+      "time": "2026-10-23 09:40:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率<JP5YTN=JBTC>下跌10.5個基點，至2.185%。"
+    },
     {
       "id": "5163067",
       "time": "2026-10-23 09:40:39",
