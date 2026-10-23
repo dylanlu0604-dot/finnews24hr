@@ -1,7 +1,137 @@
 {
   "date": "2026-10-23",
-  "count": 706,
+  "count": 720,
   "items": [
+    {
+      "id": "5162996",
+      "time": "2026-10-23 09:09:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲5%，現報7191.00元。"
+    },
+    {
+      "id": "mkt:01a1664d-e74b-7ee0-a952-72bbac6b3b99",
+      "time": "2026-10-23 09:09:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude up more than 1.00% intraday, trading at 99.66 dlr/bbl."
+    },
+    {
+      "id": "5162995",
+      "time": "2026-10-23 09:08:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲5%，現報5053.00元。"
+    },
+    {
+      "id": "5162994",
+      "time": "2026-10-23 09:08:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲2%，現報6552.00元。"
+    },
+    {
+      "id": "5162993",
+      "time": "2026-10-23 09:08:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破114美元/桶，日內漲0.74%。"
+    },
+    {
+      "id": "5162992",
+      "time": "2026-10-23 09:08:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲5%，現報6228.00元。"
+    },
+    {
+      "id": "5162991",
+      "time": "2026-10-23 09:08:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲3%，現報9544.00元。"
+    },
+    {
+      "id": "te:markets:594414",
+      "time": "2026-10-23 09:08:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Track Wall Street Lower — Asian stocks fell sharply on Friday, mirroring overnight losses on Wall Street as growing concerns over the sustainability of artificial intelligence investments triggered a broad selloff in technology shares. Semiconductor makers, memory chip producers and other AI-related companies recorded significant declines, while investors moved toward safer assets such as government bonds and the yen. Sentiment was further weighed down by escalating tensions in the Middle East, following reports that the US and Israel had drawn up plans for possible renewed strikes against Iran after next month’s midterm elections. Technology-heavy markets in Japan and South Korea led regional losses, with the Nikkei 225 and KOSPI Composite each falling nearly 2%."
+    },
+    {
+      "id": "5162990",
+      "time": "2026-10-23 09:08:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大連前三季度地區生產總值7726.7億元，同比增長5.3%】10月23日，大連市統計局、國家統計局大連調查隊公佈前三季度全市經濟執行情況，根據遼寧省地區生產總值統一核算結果，前三季度，全市地區生產總值7726.7億元，按不變價格計算，同比增長5.3%。分產業看，第一產業增加值384.2億元，同比增長3.2%；第二產業增加值2709.5億元，增長5.0%；第三產業增加值4633.0億元，增長5.6%。"
+    },
+    {
+      "id": "5162989",
+      "time": "2026-10-23 09:07:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部啟動水利抗震救災排程指揮機制】2026年10月22日22時33分，西藏那曲市巴青縣（北緯32.4度，東經93.79度）發生7.0級地震，震源深度10千米。水利部迅即啟動水利抗震救災排程指揮機制，受國家防總副總指揮、水利部部長李國英委託，水利部副部長王寶恩主持專題會商會，分析地震對水利工程和農村供水影響，研判震區雨水情形勢，安排部署水利抗震救災工作。(新華社)"
+    },
+    {
+      "id": "5162988",
+      "time": "2026-10-23 09:07:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報3216.00元。"
+    },
+    {
+      "id": "5162987",
+      "time": "2026-10-23 09:07:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深交所：將茶百道調出港股通標的證券名單】10月23日，深交所公告，根據《深圳證券交易所深港通業務實施辦法》的有關規定，港股通標的證券名單發生調整並自2026年10月23日起生效，調出茶百道。"
+    },
+    {
+      "id": "5162986",
+      "time": "2026-10-23 09:06:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲4%，現報7122.00元。"
+    },
+    {
+      "id": "5162985",
+      "time": "2026-10-23 09:06:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本債券受避險需求推動上漲 日本10年期國債收益率下跌10個基點至2.78%】週四，10年期美國國債價格創下兩年多來最大漲幅，隨後美國國債價格趨於平衡。日本和澳大利亞國債價格大幅上漲。日本10年期國債收益率下跌10個基點至2.78%。澳大利亞10年期國債收益率下降10個基點至5.15%。類似期限的紐西蘭國債收益率下滑10個基點至4.88%。"
+    },
     {
       "id": "5162984",
       "time": "2026-10-23 09:05:54",
