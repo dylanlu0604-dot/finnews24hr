@@ -1,7 +1,20 @@
 {
   "date": "2026-10-24",
-  "count": 25,
+  "count": 26,
   "items": [
+    {
+      "id": "mkt:01a16992-7134-7ee0-a95d-7186a121aedb",
+      "time": "2026-10-24 00:22:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Documents show Germany's oil reserve agency EBV on Friday issued a tender to sell diesel, heating oil and crude from its reserves."
+    },
     {
       "id": "mkt:01a1698f-1473-7ee0-a95d-6d2bbb6f235a",
       "time": "2026-10-24 00:19:06",

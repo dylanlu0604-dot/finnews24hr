@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-24 00:22:20",
-  "count": 13240,
+  "updated": "2026-10-24 00:26:18",
+  "count": 13238,
   "items": [
+    {
+      "id": "mkt:01a16992-7134-7ee0-a95d-7186a121aedb",
+      "time": "2026-10-24 00:22:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Documents show Germany's oil reserve agency EBV on Friday issued a tender to sell diesel, heating oil and crude from its reserves."
+    },
     {
       "id": "mkt:01a1698f-1473-7ee0-a95d-6d2bbb6f235a",
       "time": "2026-10-24 00:19:06",
@@ -119960,30 +119973,6 @@
         "Importance 0"
       ],
       "text": "Brent Hits 4-week High — Brent increased to 108.28 USD/Bbl, the highest since September 2026. Over the past 4 weeks, Brent Oil gained 3.22%, and in the last 12 months, it increased 76.52%."
-    },
-    {
-      "id": "5150385",
-      "time": "2026-10-17 00:25:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【埃塞在北部提格雷州設立臨時政府以實現重建】衣索比亞總理辦公室16日釋出宣告，宣佈在該國北部提格雷州設立臨時政府，以幫助該地區實現重建。宣告表示，“提格雷人民解放陣線”武裝發動的破壞性戰爭已經結束，臨時政府將承擔包括恢復和平與安全、重建政府架構、修復受損基礎設施以及組織地區選舉等工作。（央視新聞）"
-    },
-    {
-      "id": "5150384",
-      "time": "2026-10-17 00:23:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭貨幣政策委員會委員達布羅夫斯基認為沒有必要加息。"
-    },
-    {
-      "id": "mkt:01a14586-8716-7ee0-a8c1-f4ce1be4f9b9",
-      "time": "2026-10-17 00:23:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US Justice Department sues California over voter eligibility ahead of midterms】With Nov. 3 midterms approaching, the U.S. Justice Department on Oct. 15 sued California election officials, asking a court to suspend counting of more than 20,000 mail ballots pending verification of voters' citizenship, saying those individuals may be ineligible. California disputed the accuracy of the list and the legal basis for federal intervention in state election administration. The case highlights a federal-state confrontation over voter eligibility ahead of the midterms."
     }
   ]
 }
