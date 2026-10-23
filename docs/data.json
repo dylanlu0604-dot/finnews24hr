@@ -1,7 +1,144 @@
 {
-  "updated": "2026-10-23 09:48:50",
-  "count": 13333,
+  "updated": "2026-10-23 09:52:41",
+  "count": 13343,
   "items": [
+    {
+      "id": "5163086",
+      "time": "2026-10-23 09:51:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4018.43美元/盎司。"
+    },
+    {
+      "id": "5163085",
+      "time": "2026-10-23 09:51:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4020美元/盎司，日內跌1.00%。"
+    },
+    {
+      "id": "mkt:01a16674-f5f5-7ee0-a953-c8ec18227cc6",
+      "time": "2026-10-23 09:51:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【China Association of Automobile Manufacturers' Fu Bingfeng: Firms must prioritize breakthroughs in key core technologies】China Association of Automobile Manufacturers vice chairman and secretary-general Fu Bingfeng said at the 2026 China Auto Supply Chain Conference that shifting geopolitics and regional trade protectionism have severely disrupted auto supply-chain stability. He said that at the start of the '15th Five-Year' period maintaining volume and improving quality is the development theme and urged industry and firms to prioritize breakthroughs in key core technologies—vehicle-grade chips, in-vehicle operating systems, solid-state batteries, new electronic/electrical architectures and basic industrial software—to shore up supply-chain security. He also called for deeper integration of electrification, intelligence and green development, stronger OEM-supplier coordination and cross-sector cooperation, and co-innovation between vehicle makers and domestic and foreign core suppliers to boost industry resilience and innovation efficiency."
+    },
+    {
+      "id": "mkt:01a16674-a670-7ee0-a953-c735bf8fb43c",
+      "time": "2026-10-23 09:51:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,010/oz, down 0.38% on the day."
+    },
+    {
+      "id": "5163084",
+      "time": "2026-10-23 09:51:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4010美元/盎司，日內跌0.36%。"
+    },
+    {
+      "id": "mkt:01a16674-8b1d-7ee0-a953-bbf29802f12f",
+      "time": "2026-10-23 09:51:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan 2-year bond yield fell 6 bps to 1.840%."
+    },
+    {
+      "id": "mkt:01a16674-5462-7ee0-a953-b727ea64dfa8",
+      "time": "2026-10-23 09:51:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "【Shanghai Composite falls below 3,600】Shanghai Composite fell 1.7%, breaking the 3,600 level and closing at its lowest since August 2025; Shenzhen Component fell 1.7% and the ChiNext Index dropped more than 2%. Photolithography equipment, CPO-related and PCB stocks led declines."
+    },
+    {
+      "id": "5163083",
+      "time": "2026-10-23 09:50:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率下跌6個基點，至1.840%。"
+    },
+    {
+      "id": "5163082",
+      "time": "2026-10-23 09:50:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲1%，現報946.00元。"
+    },
+    {
+      "id": "5163081",
+      "time": "2026-10-23 09:50:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片概念表現活躍 大港股份漲停】儲存晶片概念表現活躍，大港股份漲停，普冉股份、德明利、長鑫科技跟漲。"
+    },
+    {
+      "id": "5163080",
+      "time": "2026-10-23 09:49:38",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "滬指跌破3600點，現跌1.67%，元件、貴金屬、通訊裝置板塊跌幅居前。"
+    },
+    {
+      "id": "5163079",
+      "time": "2026-10-23 09:48:57",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【國泰海通於博：人民幣溫和升值不會影響出口韌性】年初以來，雖然人民幣兌美元匯率整體走強，但出口仍然保持較高景氣。對此，國泰海通首席宏觀分析師於博表示，人民幣兌美元升值不等於對所有貿易伙伴貨幣同步升值，國內弱通脹也在緩衝實際升值壓力。出口向技術含量更高、替代性更低的商品轉移，疊加進口中間品形成的自然對沖，削弱了出口對匯率的敏感性。人民幣結算與外匯套保日益普及，降低了匯率波動向企業經營的傳導。人民幣溫和升值不會影響出口韌性，歷史上的匯率與市場份額同升，更多源於產業競爭力提高。"
+    },
+    {
+      "id": "5163078",
+      "time": "2026-10-23 09:48:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【瑞士9月黃金出口創2025年2月來新高對英出口重新整理2012年以來單月紀錄】瑞士9月黃金出口量升至2025年2月以來最高水平，對英國出口更是創下至少2012年以來的單月新高。英國黃金市場資金流入增加，成為推動瑞士黃金出口增長的重要因素。瑞士海關資料顯示，9月瑞士黃金出口量環比增長6%，達到165.2噸；其中對英國出口量環比增長24%，至126.2噸。（SMM）"
+    },
+    {
+      "id": "5163077",
+      "time": "2026-10-23 09:48:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達30億港元。"
+    },
     {
       "id": "5163076",
       "time": "2026-10-23 09:47:08",
@@ -121143,40 +121280,6 @@
         "原創"
       ],
       "text": "【大盤寬基ETF關注度升溫，滬深300ETF華泰柏瑞（510300）單日吸金逾33億元，中金：估值調整與盈利修復仍有望支撐市場】10月16日，截至發稿，滬深300ETF華泰柏瑞（510300）上漲0.26%，其重倉股中際旭創領漲，新易盛、兆易創新、寒武紀等跟漲。截至10月15日，該ETF當日份額增加7.95億份，近20個交易日累計增加23億份；單日淨流入額為33.55億元，最新規模達1079.69億元，為非貨幣市場規模最大的ETF。中金公司表示，向前看，仍需等待積極訊號，當前位置不必悲觀。中期而言，估值調整與盈利修復仍有望為市場提供支撐。經歷調整後，A股整體估值的中期價效比進一步提升，上半年部分板塊面臨的結構性高估值問題也已明顯改善；全年有望迎來過去五年最佳業績期；全球貨幣秩序重構與科技敘事對A股仍有支撐。整體來看，國內基本面與中期邏輯並未改變，對市場中期走勢不必悲觀。滬深300ETF華泰柏瑞（510300）位居同類產品規模首位，交易活躍，流動性優勢顯著。在產品費率方面，滬深300ETF華泰柏瑞（510300）的管理費率、託管費率分別為0.15%/年、0.05%/年，是當前A股市場權益指數產品中的最低一檔費率結構水平。投資者可借道一鍵佈局A股核心資產。"
-    },
-    {
-      "id": "5148760",
-      "time": "2026-10-16 09:52:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【胖東來招112名技術儲備人員】10 月 16 日，胖東來發布技術崗位人員儲備招聘公告，本次在許昌、新鄉兩地，合計招聘 112 名技術儲備人員，鄭州門店崗位不在本次招聘範圍內。 公告顯示，崗位覆蓋商品研發、烘焙、體系管理、IT 開發、資料工程、財務管理等多類方向。福利方面，帶薪休假不低於 40 天，2027 年 3 月開始實行雙休，薪酬按崗位能力核定。 簡歷投遞將於 10 月 17 日上午 10 點開啟。招聘著重強調，應聘者需要喜歡、認同並深度理解胖東來企業文化理念。"
-    },
-    {
-      "id": "5148759",
-      "time": "2026-10-16 09:51:26",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【遼寧省政協經濟委員會原副主任劉始傑接受紀律審查和監察調查】據遼寧省紀委監委訊息：遼寧省政協經濟委員會原副主任劉始傑涉嫌嚴重違紀違法，目前正接受遼寧省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "5148758",
-      "time": "2026-10-16 09:50:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【遊戲板塊震盪回撥，電魂網路跌停】遊戲板塊震盪回撥，電魂網路跌停，富春股份、冰川網路、遊族網路、凱撒文化跟跌。"
-    },
-    {
-      "id": "5148757",
-      "time": "2026-10-16 09:49:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力晶片概念震盪反彈 復旦微電漲超10%】早盤算力晶片概念震盪反彈，復旦微電漲超10%，沐曦股份、雲天勵飛、摩爾執行緒、禾盛新材、芯原股份跟漲。"
     }
   ]
 }
