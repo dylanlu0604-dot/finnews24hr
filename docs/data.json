@@ -1,7 +1,76 @@
 {
-  "updated": "2026-10-23 10:15:49",
-  "count": 13366,
+  "updated": "2026-10-23 10:19:36",
+  "count": 13365,
   "items": [
+    {
+      "id": "5163156",
+      "time": "2026-10-23 10:19:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達3.00%，成分股中，星圖測控跌7.37%，蘅東光跌6.85%，並行科技跌5.15%，惠豐鑽石跌4.94%。"
+    },
+    {
+      "id": "5163155",
+      "time": "2026-10-23 10:19:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股光通訊股延續跌勢 納真科技跌近7%】截至發稿，納真科技(09856.HK)跌6.72%，匯聚科技(01729.HK)跌5.68%，海光芯正(01191.HK)跌5.52%。"
+    },
+    {
+      "id": "te:markets:594441",
+      "time": "2026-10-23 10:18:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan’s 10-Year Yield Drops on Haven Demand — Japan’s 10-year government bond yield fell by more than 10 basis points to around 2.76% on Friday, reaching its lowest level since early August as a global selloff in technology and artificial intelligence stocks drove investors toward safer assets. During periods of heightened market uncertainty, Japanese investors often repatriate overseas investments, benefiting the yen and Japanese government bonds. Meanwhile, data showed that both headline and core inflation in Japan rose 2.1% year-on-year in September, marking their highest levels in nine months as yen weakness and elevated energy prices increased import costs. With underlying inflation returning above the Bank of Japan’s 2% target, market expectations for another interest rate hike this year have strengthened. The BOJ is widely expected to maintain its current policy rate at its upcoming meeting, with a potential increase in December."
+    },
+    {
+      "id": "5163154",
+      "time": "2026-10-23 10:17:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【真愛美家等投資成立智慧科技公司，含多項AI業務】企查查APP顯示，近日，江西即先冠英智慧科技有限公司成立，經營範圍包含：人工智慧應用軟體開發，人工智慧行業應用系統整合服務，物聯網技術研發，物聯網技術服務等。企查查股權穿透顯示，該公司由真愛美家、江西冠英智慧科技股份有限公司合資公司廣東即先冠英智慧科技有限公司全資持股。"
+    },
+    {
+      "id": "5163153",
+      "time": "2026-10-23 10:16:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【最高檢：兩年來共辦理涉企行政生效裁判監督案件3900餘件】最高人民檢察院今天（10月23日）通報行政生效裁判監督專項活動開展兩年來，檢察機關對行政生效裁判進行監督的有關情況，併發布典型案例。聚焦市場經營主體反映強烈的趨利性執法司法、“過罰不當”、違反“一事不再罰”等問題，全國檢察機關共辦理涉企行政生效裁判監督案件3900餘件，監督糾正侵害各類經營主體的違法行政行為，依法維護市場秩序。北京、山西等地檢察機關聚焦“亂罰款”“亂收費”“行政補償、賠償不到位”等問題開展專項監督。如某資產租賃公司與某縣自然資源局簽訂土地使用權出讓合同，約定土地交付時需達到轉讓宗地紅線外“五通（路、水、電、暖、燃氣）”條件，因“五通”未通構成行政機關違約，該租賃公司提起行政賠償之訴，但法院終審判決未予支援。"
+    },
+    {
+      "id": "5163152",
+      "time": "2026-10-23 10:16:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金飾克價一夜跌超30元】10月23日，現貨黃金一度跌破4000美元/盎司關口，現跌0.31%，報4012.93美元/盎司。國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所調整，老廟黃金報價1208元/克，較前一日跌28元；周生生報價1206元/克，較前一日跌32元；周大福報價1208元/克，較前一日跌29元；老鳳祥報價1212元/克，較前一日跌24元。"
+    },
+    {
+      "id": "5163151",
+      "time": "2026-10-23 10:16:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【平慶鐵路控制性工程上城隧道順利貫通】10月23日，隨著掌子面最後一層黃土被順利鑿開，平慶鐵路全線控制性工程上城隧道順利貫通，這也是全線首座貫通的5公里以上長大隧道。隧道的貫通，標誌著平慶鐵路建設取得階段性重大進展，為工程提質提速、按期通車築牢堅實基礎。"
+    },
+    {
+      "id": "5163150",
+      "time": "2026-10-23 10:16:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數期貨下跌2.0%至3,907.80點。"
+    },
     {
       "id": "mkt:01a1668a-a934-7ee0-a954-738ae9d741c0",
       "time": "2026-10-23 10:15:25",
@@ -121437,91 +121506,6 @@
         "公司"
       ],
       "text": "【寶馬在瀋陽設立技術中心 註冊資本4000萬元】企查查APP顯示，近日，寶馬（瀋陽）技術中心有限公司成立，註冊資本4000萬元，經營範圍包括汽車零部件研發；摩托車及零部件研發；企業管理諮詢；融資諮詢服務；汽車零配件批發；電子專用材料銷售等。企查查股權穿透顯示，該公司由寶馬（中國）投資有限公司全資持股。"
-    },
-    {
-      "id": "5148816",
-      "time": "2026-10-16 10:19:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委Rhen：勞動力市場並不緊張，工資增速放緩仍在繼續。"
-    },
-    {
-      "id": "mkt:01a14281-bb9b-7ee0-a8ad-b566474f02e3",
-      "time": "2026-10-16 10:19:20",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "ECB Governing Council member Rehn said the current economic growth outlook is better than at the start of the year."
-    },
-    {
-      "id": "5148815",
-      "time": "2026-10-16 10:18:51",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【藍佛安出席2026年世界銀行發展委員會第114次會議】10月15日，世界銀行（以下簡稱世行）在泰國曼谷舉行發展委員會第114次會議，審議透過了《私營資本動員和就業》報告、《2025年股權審議理事報告》。會議由發展委員會主席、瑞典財政部部長伊麗莎白·斯萬特松主持，來自世行25個選區的理事代表、世行行長彭安傑、國際貨幣基金組織總裁格奧爾基耶娃、世界貿易組織總幹事伊維拉等出席。財政部部長、世行中國理事藍佛安與會併發言，財政部副部長、世行中國副理事廖岷，部長助理常軍紅陪同參會。  藍佛安表示，當前國際形勢變亂交織，地緣衝突持續蔓延，全球經濟增長動能不足。世行作為全球最具影響力的多邊開發機構，應更好發揮逆週期作用，進一步提升發展融資能力，幫助成員國應對全球發展挑戰；加快構建全球資本動員平臺，創新發展融資工具，撬動更多私營資本，助力成員國私營部門發展；順應世界經濟格局變化，完善治理結構，解決部分成員股權嚴重低估問題，提升發展中成員代表性和發言權。中國是世行的主要股東國和重要發展夥伴，願與世行持續深化互利共贏合作，落實好新一期世行-中國國別夥伴框架，推動合作轉型，為全球減貧和發展事業提供更多公共產品。  藍佛安強調，今年以來，中國經濟頂住壓力穩健前行，呈現動能向新、結構向優的發展態勢，消費市場規模穩步擴大，進口規模實現較快增長，為不確定性增多的世界注入了寶貴的確定性。面向未來，中國將持續推動高質量發展，擴大高水平對外開放，落實全球發展倡議，同世界各國共享機遇、共創繁榮。"
-    },
-    {
-      "id": "5148814",
-      "time": "2026-10-16 10:18:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行Rhen：未見通脹出現第二輪效應."
-    },
-    {
-      "id": "5148813",
-      "time": "2026-10-16 10:18:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行Rhen：目前的經濟增長前景比年初好。"
-    },
-    {
-      "id": "5148812",
-      "time": "2026-10-16 10:17:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝利：要讓公眾信任人工智慧，必須讓他們感到人類掌控著它。"
-    },
-    {
-      "id": "mkt:01a1427f-ddd0-7ee0-a8ad-afca96d722f0",
-      "time": "2026-10-16 10:17:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Lan Fo'an attends 114th WBG Development Committee meeting in Bangkok】Oct 15, 2026, Bangkok — The WBG Development Committee approved reports on Mobilizing Private Capital and Jobs and the 2025 Equity Review. Lan Fo'an said China’s economy has held up this year, shifting toward new growth drivers and a higher-quality structure, with consumption expanding steadily and imports rising rapidly — injecting a rare element of certainty into a more uncertain global outlook. He said China will continue to pursue high-quality development, expand high‑level opening-up and implement the Global Development Initiative."
-    },
-    {
-      "id": "5148811",
-      "time": "2026-10-16 10:17:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI稱其AI智慧體從其線上找到的一個以太坊測試網路錢包中竊取了資金。該智慧體找到了一個公開披露的、與測試網路資金關聯的恢復助記詞，並在未經所有者授權的情況下，使用該賬戶支付了其任務費用。此事發生在 Sepolia 以太坊測試網路上。"
-    },
-    {
-      "id": "te:markets:592584",
-      "time": "2026-10-16 10:16:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Offshore Yuan Holds at Strongest Since 2022 — The offshore yuan held around 6.69 per dollar on Friday, remaining at its strongest level since July 2022 as China accelerates efforts to establish the currency as a global player. Beijing is broadening the range of available investment products and financial instruments, including derivatives and hedging tools, while easing access to dim sum and panda bond issuance. Progress also includes expanding offshore-yuan investment options, deepening yuan-based financing, and strengthening cross-border clearing and settlement infrastructure. Meanwhile, caution lingered over persistent China-EU trade tensions as the bloc considers new powers to restrict access to its single market and assesses import data for potential surges, a preliminary step toward imposing quotas on additional goods. China has warned of retaliation against any new EU trade measures or discriminatory restrictions targeting Chinese companies or products beyond the hybrid vehicle export cap agreed last week."
     }
   ]
 }
