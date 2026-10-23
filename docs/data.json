@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-24 03:47:50",
-  "count": 13134,
+  "updated": "2026-10-24 03:51:42",
+  "count": 13135,
   "items": [
+    {
+      "id": "mkt:01a16a50-0a9c-7ee0-a95f-e2e5748a64eb",
+      "time": "2026-10-24 03:49:52",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.2% to 101.811 on 23rd】The dollar index, measuring the dollar against six major currencies, rose 0.2% to 101.811. At the New York close: EUR/USD 1.1193, down from 1.1220; GBP/USD 1.3371, down from 1.3400; USD/JPY 156.87, up from 156.78; USD/CHF 0.8252, up from 0.8205; USD/CAD 1.4004, down from 1.4008; USD/SEK 9.9424, up from 9.9079."
+    },
     {
       "id": "5165225",
       "time": "2026-10-24 03:47:05",
