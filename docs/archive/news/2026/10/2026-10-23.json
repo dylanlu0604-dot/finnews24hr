@@ -1,7 +1,53 @@
 {
   "date": "2026-10-23",
-  "count": 720,
+  "count": 726,
   "items": [
+    {
+      "id": "5162999",
+      "time": "2026-10-23 09:14:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據蓋洛普韓國民意調查，韓國總統李在明的支援率從上次民調的39%上升至40%。"
+    },
+    {
+      "id": "mkt:01a16652-49a0-7ee0-a952-84aca256fb2a",
+      "time": "2026-10-23 09:13:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhejiang raises maritime typhoon emergency response to Level III】Typhoon Qiangpi (No.30) at 05:00 on Oct 23 was centered about 405 km southeast of Taipei, moving northwest at 20–25 km/h with maximum winds of force 14 (strong typhoon). Zhejiang coastal waters are expected to see gusts of force 9–11 on Oct 23–25, with 11–13 in central and southern coastal sectors on Oct 23–24. Eastern Zhejiang is forecast to receive heavy to torrential rain overnight Oct 23–24, locally extremely heavy. Zhejiang provincial flood control and typhoon headquarters raised the maritime typhoon emergency response to Level III at 09:00 on Oct 23."
+    },
+    {
+      "id": "5162998",
+      "time": "2026-10-23 09:12:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江上調防颱風應急響應為三級】根據《浙江省防汛防颱抗旱應急預案》和第30號颱風“薔琵”防禦工作方案，經會商研判，浙江省防指決定於10月23日9時將海上防颱風應急響應調整為防颱風Ⅲ級應急響應。"
+    },
+    {
+      "id": "5162997",
+      "time": "2026-10-23 09:11:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【青花郎、古井貢古20重挫 普五四連陰跌至789元 飛天茅臺零售均價小幅上漲】新浪財經“酒價內參”過去24小時收集的資料顯示，10月23日中國白酒業12大單品的終端零售均價兩漲七跌三平，下跌品種繼續佔據多數，且跌幅明顯大於上漲端，整體價盤連續第三日下行。上漲端，飛天茅臺小幅上漲1元至1789元，結束此前四連陰，低位小幅修復；國窖1573上漲1元至888元，昨日平盤後微幅回升，短線跌勢暫時緩和。下跌端，精品茅臺下跌2元至2458元，三連陰持續調整，繼續向下尋底；五糧液普五八代下跌5元至789元，四連陰累計下挫18元，跌破800元后弱勢進一步加深；五糧液1618下跌1元至829元，連續第二日小幅回落；青花汾20下跌3元至386元，三連陰持續探底，近三日從400元關口一路下滑；洋河夢之藍M6+下跌2元至605元，連續兩日回落，跌破近期趨勢線；古井貢古20大跌9元至518元，連續第三日大幅走弱，前期反彈漲幅全部回吐還有虧空；青花郎再跌9元至690元，700元關口失守後跌勢繼續擴大，淪為今日跌幅最大單品之一。持平方面，茅臺1935維持684元不變，連續第四日平盤；習酒君品保持632元，兩連跌後轉入橫盤整理；水晶劍南春維持409元不變，連續回落後暫時企穩。\n\n今日12大單品的終端零售總價繼續下探，七款產品價格下跌，其中古井貢古20、青花郎和五糧液普五八代的跌幅較為突出，上漲端僅飛天茅臺和國窖1573小幅回升，未能扭轉整體弱勢。如果12大單品各取一瓶整體打包售賣，今日總售價為10677元，較昨日再跌29元，連續第三日下行，並創下近37天以來最低紀錄。"
+    },
+    {
+      "id": "mkt:01a1664f-221f-7ee0-a952-7d5b7a1f7c24",
+      "time": "2026-10-23 09:10:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "China oil-complex futures rallied: SC crude main contract up 3.16% at 724.2 yuan/barrel; low-sulfur fuel oil (LU) up 4.89% at 6,221 yuan/ton; fuel oil up 4.51% at 5,029 yuan/ton; asphalt (bitumen) up 0.97% at 4,992 yuan/ton. LPG main contract rose 301.00 yuan, or 4.40%, to 7,149 yuan/ton."
+    },
     {
       "id": "5162996",
       "time": "2026-10-23 09:09:09",
@@ -113,6 +159,15 @@
         "公司"
       ],
       "text": "【深交所：將茶百道調出港股通標的證券名單】10月23日，深交所公告，根據《深圳證券交易所深港通業務實施辦法》的有關規定，港股通標的證券名單發生調整並自2026年10月23日起生效，調出茶百道。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610233905062842",
+      "time": "2026-10-23 09:07:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【大連前三季度地區生產總值7726.7億元，同比增長5.3%】10月23日，大連市統計局、國家統計局大連調查隊公佈前三季度全市經濟執行情況，根據遼寧省地區生產總值統一核算結果，前三季度，全市地區生產總值7726.7億元，按不變價格計算，同比增長5.3%。分產業看，第一產業增加值384.2億元，同比增長3.2%；第二產業增加值2709.5億元，增長5.0%；第三產業增加值4633.0億元，增長5.6%。"
     },
     {
       "id": "5162986",
