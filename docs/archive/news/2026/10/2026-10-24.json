@@ -1,7 +1,24 @@
 {
   "date": "2026-10-24",
-  "count": 26,
+  "count": 28,
   "items": [
+    {
+      "id": "mkt:01a1699c-6352-7ee0-a95d-79f2cff34c5b",
+      "time": "2026-10-24 00:33:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cboe Clear U.S., the clearing arm of the Chicago Board Options Exchange (Cboe), received SEC approval to expand its clearing operations."
+    },
+    {
+      "id": "5165093",
+      "time": "2026-10-24 00:31:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "伊朗央行行長：儘管華盛頓施加經濟壓力，伊朗仍有能力為進口提供資金，且這一能力可延續至美國總統特朗普任期之後。"
+    },
     {
       "id": "mkt:01a16992-7134-7ee0-a95d-7186a121aedb",
       "time": "2026-10-24 00:22:47",

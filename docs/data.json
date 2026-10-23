@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-24 00:30:08",
-  "count": 13232,
+  "updated": "2026-10-24 00:34:11",
+  "count": 13231,
   "items": [
+    {
+      "id": "mkt:01a1699c-6352-7ee0-a95d-79f2cff34c5b",
+      "time": "2026-10-24 00:33:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cboe Clear U.S., the clearing arm of the Chicago Board Options Exchange (Cboe), received SEC approval to expand its clearing operations."
+    },
+    {
+      "id": "5165093",
+      "time": "2026-10-24 00:31:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "伊朗央行行長：儘管華盛頓施加經濟壓力，伊朗仍有能力為進口提供資金，且這一能力可延續至美國總統特朗普任期之後。"
+    },
     {
       "id": "mkt:01a16992-7134-7ee0-a95d-7186a121aedb",
       "time": "2026-10-24 00:22:47",
@@ -119878,35 +119895,6 @@
         "Impact bullish"
       ],
       "text": "WTI crude extends intraday gains to 2.00%, trading at $98.03/bbl."
-    },
-    {
-      "id": "5150390",
-      "time": "2026-10-17 00:33:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧與阿根廷總統米萊討論擴大貿易與投資事宜。"
-    },
-    {
-      "id": "mkt:01a1458f-d4ad-7ee0-a8c2-0721f8645a12",
-      "time": "2026-10-17 00:33:36",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Israel Defense Forces said it detected a suspicious aerial object in an area where Israeli troops were operating in southern Lebanon and fired an interceptor. No air-raid sirens were sounded, in line with procedures."
-    },
-    {
-      "id": "5150389",
-      "time": "2026-10-17 00:31:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌公司：在美國市場推出Universal Cart。"
     }
   ]
 }
