@@ -1,7 +1,133 @@
 {
   "date": "2026-10-23",
-  "count": 1418,
+  "count": 1432,
   "items": [
+    {
+      "id": "5163634",
+      "time": "2026-10-23 15:16:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中證指數公司：釋出中證商業航天主題指數等2條指數】中證指數有限公司將於2026年10月26日正式釋出中證商業航天主題指數和中證科創創業軟體服務指數，為市場提供更豐富的投資標的。 中證商業航天主題指數從運載火箭、衛星製造、衛星運營、地面裝置、航天應用等商業航天領域中，選取50只代表性上市公司證券作為指數樣本，以反映商業航天主題證券的整體表現。 中證科創創業軟體服務指數從科創板和創業板的軟體開發、軟體服務等領域中，選取50只代表性上市公司證券作為指數樣本，以反映上述板塊中軟體服務行業上市公司證券的整體表現。"
+    },
+    {
+      "id": "te:markets:594537",
+      "time": "2026-10-23 15:16:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Extends Gains as Oil Prices Surge — The yield on India’s 10-year G-Sec edged higher to around 7.46%, extending gains for another session as surging oil prices weighed on investor sentiment, while falling U.S. Treasury yields limited the increase. Brent crude climbed above USD 114 a barrel to a five-month high following Houthi attacks on Saudi Arabia, raising concerns over supply disruptions. As India imports nearly 90% of its oil requirements, sustained price increases threaten to widen the import bill, fuel inflation, pressure the rupee, and weaken public finances. Meanwhile, investors remained cautious ahead of a INR 330 billion government debt sale, keeping demand subdued. The benchmark 6.94% 2036 bond yield rose, nearing the 7.50% level. However, U.S. Treasury yields fell below 5% amid weaker economic data, an equity selloff, and concerns over the returns on AI spending and its growth implications."
+    },
+    {
+      "id": "5163633",
+      "time": "2026-10-23 15:16:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報6937.76億元 創今年2月以來最高成交額】截至目前，ETF兩市成交額報6937.76億元，較昨日此時放量889.89億元，創2026年2月以來最高ETF成交額。分型別來看，股票型ETF成交額2361.95億元，債券型ETF成交額2822.52億元，貨幣型ETF成交額636.06億元，商品型ETF成交額128.44億元，QDII型ETF成交額988.79億元。 今日創業板ETF易方達成交額近200億，滬深300ETF（159912）華泰柏瑞(510310)、科創50（1B0688）ETF華夏(588000)成交額超150億，多隻寬基ETF顯著放量。"
+    },
+    {
+      "id": "te:markets:594536",
+      "time": "2026-10-23 15:16:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.76% Higher — The Shangai Composite Index went up by 28 points or 0.76 percent on Friday to close at 3686 points. The rise was led by Yonyou Soft (5.72%), BAIC BluePark (3.62%) and Foshan Haitian (3.11%). On the downside, the weakerst performers were Bank Of China (-4.02%), China Construction Bank (-3.34%) and Agricultural Bank of China (-3.24%)."
+    },
+    {
+      "id": "5163632",
+      "time": "2026-10-23 15:15:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電：運營保持正常，無重大影響。"
+    },
+    {
+      "id": "5163631",
+      "time": "2026-10-23 15:15:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電：已在臺灣所有廠區啟動標準颱風應急預案，並根據當地政府指導方針調整人員配置。"
+    },
+    {
+      "id": "5163630",
+      "time": "2026-10-23 15:15:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報6937.76億元 創今年2月以來最高成交額】截至目前，ETF兩市成交額報6937.76億元，較昨日此時放量889.89億元，分型別來看，股票型ETF成交額2361.95億元，債券型ETF成交額2822.52億元，貨幣型ETF成交額636.06億元，商品型ETF成交額128.44億元，QDII型ETF成交額988.79億元。 創2026年2月以來最高ETF成交額。今日創業板ETF易方達成交額近200億，滬深300ETF（159912）華泰柏瑞(510310)、科創50（1B0688）ETF華夏(588000)成交額超150億，多隻寬基ETF顯著放量。"
+    },
+    {
+      "id": "5163629",
+      "time": "2026-10-23 15:15:09",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國10月綜合PMI初值 48.4，預期50.5，前值51.1。法國10月服務業PMI初值 48.4，預期50.7，前值51.2。法國10月製造業PMI初值 49.3，預期50.5，前值50.6。"
+    },
+    {
+      "id": "5163628",
+      "time": "2026-10-23 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.11%， 10年期主力合約跌0.01%， 5年期主力合約漲0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "mkt:01a1679c-ee9c-7ee0-a954-e0c8d53fda74",
+      "time": "2026-10-23 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Manufacturing PMI Flash (Oct) | actual 49.3 | consensus 50.5 | previous 50.6"
+    },
+    {
+      "id": "mkt:01a1679c-ee9a-7ee0-a954-da3ea5e3c1ac",
+      "time": "2026-10-23 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Composite PMI Flash (Oct) | actual 48.4 | consensus 50.5 | previous 51.1"
+    },
+    {
+      "id": "mkt:01a1679c-ee20-7ee0-a954-d09e0cd44c95",
+      "time": "2026-10-23 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Services PMI Flash (Oct) | actual 48.4 | consensus 50.7 | previous 51.2"
+    },
+    {
+      "id": "5163627",
+      "time": "2026-10-23 15:14:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國恢復聯合國合法席位55週年，外交部：將在新歷史起點上繼續發揮負責任大國作用】10月23日，外交部發言人毛寧主持例行記者會。有記者提問，10月25日是新中國恢復聯合國合法席位55週年紀念日，請問中方如何評價55年來的歷程？未來將如何推進同聯合國合作？毛寧表示，1971年10月25日，第二十六屆聯大以壓倒性多數透過第2758號決議，決定恢復中華人民共和國在聯合國的一切權力，這標誌著佔世界人口1/4的中國人民重返聯合國舞臺，對中國、對世界、對聯合國都具有重要而深遠的意義。中國人民銘記為此向我們提供寶貴支援和幫助的友好國家和人士。55年來，中國堅持做世界和平的建設者、全球發展的貢獻者、國際秩序的維護者，我們堅定支援聯合國在國際事務中發揮核心作用，積極參與聯合國各領域工作，忠實履行安理會常任理事國職責。我們立足聯合國平臺，同各國加強團結合作，倡導共同安全，推動共同發展，促進文明對話，改革完善全球治理。站在新的歷史起點上，中國將繼續發揮負責任大國作用，持續深化同聯合國的全方位合作，共同應對全球性挑戰，攜手構建人類命運共同體。（澎湃新聞）"
+    },
+    {
+      "id": "5163626",
+      "time": "2026-10-23 15:13:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏那曲巴青震區受損通訊、電力陸續恢復中】今天（10月23日）15時，西藏那曲市人民政府新聞辦公室舉行西藏那曲市巴青縣7.0級地震第一場新聞釋出會，通報地震災害受災情況，搜尋救援工作、轉移安置、基礎設施搶修、物資供應、醫療救治等最新情況。當地全面啟動山體、水庫、電站、河道、危舊房屋、通訊基站等重點部位24小時監測和緊急維修，震區受損通訊、電力陸續恢復中。地震、氣象、應急等部門滾動會商，及時釋出餘震和天氣預警。公安、交通全力保障救援“生命通道”暢通，已排查道路12條、1700餘公里，橋樑201座、涵洞324座，發現隱患11處，清除落石路段7處。（央視新聞）"
+    },
     {
       "id": "5163625",
       "time": "2026-10-23 15:12:24",
