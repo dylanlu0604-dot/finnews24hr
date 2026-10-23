@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-24 04:29:56",
-  "count": 13114,
+  "updated": "2026-10-24 04:33:47",
+  "count": 13110,
   "items": [
+    {
+      "id": "mkt:01a16a75-95a3-7ee0-a960-53eb612cdc12",
+      "time": "2026-10-24 04:30:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Colombia's state oil company Ecopetrol expects third-quarter oil production of 740,000-750,000 barrels per day."
+    },
     {
       "id": "5165285",
       "time": "2026-10-24 04:28:51",
@@ -118795,50 +118805,6 @@
         "國際"
       ],
       "text": "穆迪將埃及的信用評級上調至B3，維持正面展望。"
-    },
-    {
-      "id": "5150586",
-      "time": "2026-10-17 04:33:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "提示：特朗普在佐治亞州的一次集會上發表講話。"
-    },
-    {
-      "id": "5150585",
-      "time": "2026-10-17 04:33:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尚比亞霍亂疫情致25人死亡 官方緊急啟動疫苗接種】尚比亞政府16日在首都盧薩卡緊急啟動口服霍亂疫苗接種工作，以應對近期該國多地暴發的霍亂疫情。據尚比亞衛生部最新通報，本輪疫情已造成25人死亡，確診病例達966例。本輪疫苗接種將優先覆蓋疫情最嚴重的盧薩卡地區及中央省奇邦博地區。第一階段將在這兩個地區分發至少50萬劑口服霍亂疫苗，後續還將向其他涉疫地區分發48萬劑疫苗。（新華社）"
-    },
-    {
-      "id": "5150584",
-      "time": "2026-10-17 04:32:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長談人工智慧市場動盪：“這一切都會過去。”"
-    },
-    {
-      "id": "5150583",
-      "time": "2026-10-17 04:32:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗支援的民兵組織正向資金短缺的伊朗伊斯蘭革命衛隊輸送資金。"
-    },
-    {
-      "id": "mkt:01a1466a-3ba5-7ee0-a8c6-306c184854af",
-      "time": "2026-10-17 04:32:09",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "According to Axios, CENTCOM commander Admiral Brad Cooper said Friday that Iran-backed regional militias have been funneling funds to the IRGC to offset the economic strain of a nine-month war."
     }
   ]
 }

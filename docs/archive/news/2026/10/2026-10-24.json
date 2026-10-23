@@ -1,7 +1,17 @@
 {
   "date": "2026-10-24",
-  "count": 250,
+  "count": 251,
   "items": [
+    {
+      "id": "mkt:01a16a75-95a3-7ee0-a960-53eb612cdc12",
+      "time": "2026-10-24 04:30:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Colombia's state oil company Ecopetrol expects third-quarter oil production of 740,000-750,000 barrels per day."
+    },
     {
       "id": "5165285",
       "time": "2026-10-24 04:28:51",
