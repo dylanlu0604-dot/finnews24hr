@@ -1,7 +1,58 @@
 {
   "date": "2026-10-23",
-  "count": 1359,
+  "count": 1365,
   "items": [
+    {
+      "id": "te:markets:594527",
+      "time": "2026-10-23 14:52:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Extends Weekly Losses Despite Softer Dollar — The Indonesian rupiah held near IDR 18,080 per U.S. dollar on Friday, remaining above the 18,000 mark for a third session despite broad weakness in the greenback. The dollar index hovered near a three-week low as Treasury yields fell sharply, offering limited relief to the rupiah. Locally, fiscal concerns lingered amid persistently high oil prices near USD 100 per barrel, given Indonesia’s status as a net oil importer. Worries also grew that Bank Indonesia may face a difficult trade-off between defending currency stability and supporting near-term growth. Earlier this week, Bank Indonesia kept its key interest rate unchanged for a fourth month but raised the deposit facility rate by 25bps. It also gradually slashed the reserve requirement ratio for commercial banks effective Nov. 1, adding around IDR 190 trillion to the financial system. For the week, the rupiah was on track for a second consecutive weekly decline, down around 0.7% so far, bringing its year-to-date loss to roughly 8%."
+    },
+    {
+      "id": "5163574",
+      "time": "2026-10-23 14:52:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐韓大使館：請來韓團體遊客遠離低價團消費陷阱】據中國駐韓大使館，近期數箇中國旅遊團來韓旅遊期間，遭遇強制消費，因遊客不願消費或消費額度不達標，遭遇旅行社甩客，部分遊客被迫中斷行程，造成個人損失。上述情況也擾亂兩國正常旅遊秩序。      中國駐韓國大使館特此提醒來韓中國團體遊客：謹慎選擇旅行社和旅遊產品，警惕包含強制消費的不合理低價遊，避免因強制購物陷入旅遊糾紛，影響旅遊體驗和個人安全。      建議中國遊客行前應瞭解組團旅行社資質，具體可參考文化和旅遊部發布的“經營出境旅遊業務旅行社名單”。認真閱讀合同條款，同旅行社確認是否包含消費專案、是否有最低消費金額要求等。抵達韓國後，建議同地接旅行社再次確認上述資訊。"
+    },
+    {
+      "id": "5163573",
+      "time": "2026-10-23 14:51:27",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美債週四重挫 美聯儲下週加息預期暴跌】聯邦基金期貨市場目前預計，美聯儲今年已不會再加息的機率升至了24%。與此前火熱CPI資料出爐後的市場預期相比，這堪稱是一次劇烈轉向。與此同時，債券市場也正經歷一場劇烈的重新定價：2年期美債收益率週四重挫18個基點至4.64%。最新定價顯示，針對下週的美聯儲議息會議，市場目前押注加息的機率僅為7%，創下本月新低；12月加息的機率雖仍有76%，但已不再板上釘釘；而1月份的掉期定價也僅體現了27個基點的利率上調幅度——換言之，市場目前認為美聯儲在未來三次會議上，可能只會加息一次。本輪行情的直接導火索，是AI泡沫疑似破裂的“洩氣聲”——面對維繫龐大算力所需的無底洞式資金規模，投資者的心理防線終於失守。Meta在財報與備案中丟擲資本開支需“數千億美元”的鉅額指引，直接嚇崩了市場情緒，其股價盤中應聲重挫近7%；而管理層試圖透過增設無表決權新股來配資的做法，其帶來的股權稀釋效應也招致了投資者的強烈牴觸。"
+    },
+    {
+      "id": "5163572",
+      "time": "2026-10-23 14:50:56",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗：Prada品牌表現堅韌抵銷Miu Miu下跌影響 維持普拉達“中性”評級】花旗釋出研報稱，普拉達第三季銷售額符合市場預期，該行維持“中性”評級，目標價39.9港元。普拉達(01913)第三季集團銷售額錄14.9億歐元，符合市場預期;撇除Versace後按固定匯率計內生增長1%，對比上季增幅7%，而市場預期為持平。當中Prada零售升1%，符合市場預期，同店銷售大致持平;Miu Miu零售跌3%，對比市場預期升1%，惟撇除中東後持平;批發業務則升12%。該行指出，，Miu Miu春夏2027系列釋出後市場反應強勁，而Versace於2027年計劃加大投資，或限制虧損收窄空間。"
+    },
+    {
+      "id": "5163571",
+      "time": "2026-10-23 14:50:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本能源白皮書：中東局勢暴露日能源體系弱點】日本政府23日釋出的2025財年（2025年4月至2026年3月）能源白皮書指出，隨著中東局勢惡化，日本能源供需結構的脆弱性再次凸顯。白皮書指出，長期以來，日本原油進口超九成依賴中東。今年2月底美國和以色列對伊朗發動軍事打擊後，作為全球能源運輸重要通道的霍爾木茲海峽通航受阻，原油及石油產品供應面臨不確定性，石腦油等部分石油相關產品的流通因此出現阻滯。（央視新聞）"
+    },
     {
       "id": "5163570",
       "time": "2026-10-23 14:49:10",
@@ -36,6 +87,15 @@
         "國際"
       ],
       "text": "【日本9月半導體裝置訂單額同比增長48.2%】日本半導體裝置協會資料顯示，日本9月半導體裝置訂單額同比上漲48.2%。半導體裝置訂單額環比上漲5.2%；訂單額為6290.4億日元。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610233906199221",
+      "time": "2026-10-23 14:46:50",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【深圳：9月份出口3402.58億元 增長40.2%】深圳市統計局釋出資料，前三季度，全市進出口總額46528.17億元，同比增長38.8%。其中，出口24085.03億元，增長18.5%；進口22443.14億元，增長70.1%。高新技術產品出口增長29.3%。9月份，進出口總額6634.79億元，同比增長65.2%。其中，出口3402.58億元，增長40.2%；進口3232.21億元，增長103.5%。"
     },
     {
       "id": "5163564",
