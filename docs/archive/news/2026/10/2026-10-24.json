@@ -1,7 +1,76 @@
 {
   "date": "2026-10-24",
-  "count": 232,
+  "count": 238,
   "items": [
+    {
+      "id": "mkt:01a16a65-083e-7ee0-a960-3abeb37acdae",
+      "time": "2026-10-24 04:12:48",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Scope Ratings: High public debt, weak growth potential and adverse demographics remain the main constraints on Italy's sovereign rating."
+    },
+    {
+      "id": "mkt:01a16a64-e802-7ee0-a960-31f5306e44af",
+      "time": "2026-10-24 04:12:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Scope says expectations of continued fiscal discipline and stronger economic resilience support Italy's positive outlook."
+    },
+    {
+      "id": "mkt:01a16a64-d779-7ee0-a960-2a09ef52d586",
+      "time": "2026-10-24 04:12:35",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Scope Ratings confirmed Italy's sovereign credit rating at BBB+ with a positive outlook."
+    },
+    {
+      "id": "5165263",
+      "time": "2026-10-24 04:10:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "Scope：高公共債務、增長潛力疲弱和不利的人口結構仍是義大利的主要評級制約因素。"
+    },
+    {
+      "id": "5165262",
+      "time": "2026-10-24 04:10:28",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "美國參議員沃倫致函美聯儲、聯邦存款保險公司和貨幣監理署，就銀行監管政策發表意見。"
+    },
+    {
+      "id": "te:markets:594755",
+      "time": "2026-10-24 04:10:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Drop as Oil Rally Fuels Inflation Fears — US stock indices closed lower on Friday as surging oil prices weighed on equities and bonds. The S&P 500 fell 0.5%, the Nasdaq closed flat and the Dow shed 653 points. Escalating Middle East tensions pushed oil higher, stoking inflation concerns ahead of the Federal Reserve’s interest rate decision. Treasury yields rose after the market’s strongest session in over a year. Financial stocks dipped, with JPMorgan down 1.5%, Morgan Stanley falling 2.4% and BlackRock losing 1.7%. American Express dropped 3.7% despite beating earnings expectations and announcing plans to cut 5% of its global workforce. Among AI hyperscalers, Alphabet lost 1.2%, Meta shed 1% and Amazon retreated 0.9%. Concerns over rising debt to finance AI infrastructure pressured tech stocks this week. Most chipmakers recovered on Friday but still posted sharp weekly losses. For the week, the S&P 500 fell 1%, the Nasdaq lost 2.1% and the Dow added 296 points."
+    },
     {
       "id": "5165261",
       "time": "2026-10-24 04:10:07",

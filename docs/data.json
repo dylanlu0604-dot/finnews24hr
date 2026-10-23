@@ -1,7 +1,76 @@
 {
-  "updated": "2026-10-24 04:10:47",
-  "count": 13118,
+  "updated": "2026-10-24 04:14:36",
+  "count": 13116,
   "items": [
+    {
+      "id": "mkt:01a16a65-083e-7ee0-a960-3abeb37acdae",
+      "time": "2026-10-24 04:12:48",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Scope Ratings: High public debt, weak growth potential and adverse demographics remain the main constraints on Italy's sovereign rating."
+    },
+    {
+      "id": "mkt:01a16a64-e802-7ee0-a960-31f5306e44af",
+      "time": "2026-10-24 04:12:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Scope says expectations of continued fiscal discipline and stronger economic resilience support Italy's positive outlook."
+    },
+    {
+      "id": "mkt:01a16a64-d779-7ee0-a960-2a09ef52d586",
+      "time": "2026-10-24 04:12:35",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Scope Ratings confirmed Italy's sovereign credit rating at BBB+ with a positive outlook."
+    },
+    {
+      "id": "5165263",
+      "time": "2026-10-24 04:10:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "Scope：高公共債務、增長潛力疲弱和不利的人口結構仍是義大利的主要評級制約因素。"
+    },
+    {
+      "id": "5165262",
+      "time": "2026-10-24 04:10:28",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "美國參議員沃倫致函美聯儲、聯邦存款保險公司和貨幣監理署，就銀行監管政策發表意見。"
+    },
+    {
+      "id": "te:markets:594755",
+      "time": "2026-10-24 04:10:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Drop as Oil Rally Fuels Inflation Fears — US stock indices closed lower on Friday as surging oil prices weighed on equities and bonds. The S&P 500 fell 0.5%, the Nasdaq closed flat and the Dow shed 653 points. Escalating Middle East tensions pushed oil higher, stoking inflation concerns ahead of the Federal Reserve’s interest rate decision. Treasury yields rose after the market’s strongest session in over a year. Financial stocks dipped, with JPMorgan down 1.5%, Morgan Stanley falling 2.4% and BlackRock losing 1.7%. American Express dropped 3.7% despite beating earnings expectations and announcing plans to cut 5% of its global workforce. Among AI hyperscalers, Alphabet lost 1.2%, Meta shed 1% and Amazon retreated 0.9%. Concerns over rising debt to finance AI infrastructure pressured tech stocks this week. Most chipmakers recovered on Friday but still posted sharp weekly losses. For the week, the S&P 500 fell 1%, the Nasdaq lost 2.1% and the Dow added 296 points."
+    },
     {
       "id": "5165261",
       "time": "2026-10-24 04:10:07",
@@ -118797,78 +118866,6 @@
         "國際"
       ],
       "text": "美國銀行存款從前一週的19.694萬億美元增至19.771萬億美元。"
-    },
-    {
-      "id": "te:markets:592870",
-      "time": "2026-10-17 04:14:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Fall as Chip Selloff Deepens — US stock indices closed lower on Friday as the selloff in chipmakers extended into an eighth consecutive session, marking the sector’s longest losing streak since the 2008 financial crisis. The S&P 500 fell 1.1%, the Dow shed 175 points, and the Nasdaq dropped 2.5%. CoreWeave plunged 11.9%, extending its weekly losses to 23.7% and highlighting renewed credit concerns surrounding AI infrastructure companies. The sector has come under pressure following relatively modest revenue figures from Anthropic and growing concerns about higher interest rates for heavily indebted companies. Economic data released this week showed accelerating consumer inflation and surging producer prices, both at the headline and core levels. Nvidia lost 1.4%, Micron fell 5.6%, and AMD dropped 5.9%. Meanwhile, Tesla declined 2.1% and SpaceX fell 1.7% amid speculation about a potential merger between the ompanies. On the week, the S&P 500 shed 2%, the Nasdaq lost 5% and the Dow added 156 points."
-    },
-    {
-      "id": "5150574",
-      "time": "2026-10-17 04:13:10",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行官員莫伊薩預計，今年經濟增速將在 2.5%至 3%之間，2027 年為 2%；2026年底通脹率為6.5%，2027年底為5%。"
-    },
-    {
-      "id": "5150573",
-      "time": "2026-10-17 04:12:55",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行官員莫伊薩表示，現在加息可能不會像其他時候那樣對通脹產生同樣的影響。"
-    },
-    {
-      "id": "5150572",
-      "time": "2026-10-17 04:12:52",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行官員：哥倫比亞比索升值弊大於利。"
-    },
-    {
-      "id": "5150571",
-      "time": "2026-10-17 04:12:42",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行官員莫伊薩表示，利率將在“相當長一段時間內”保持高位。"
-    },
-    {
-      "id": "5150570",
-      "time": "2026-10-17 04:11:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "晨星DBRS確認歐盟AAA評級，評級展望穩定。"
-    },
-    {
-      "id": "5150569",
-      "time": "2026-10-17 04:10:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：多哥經常賬戶赤字預計將在2026年暫時擴大，隨後逐步收窄。"
-    },
-    {
-      "id": "mkt:01a14656-b843-7ee0-a8c6-0dc05d1da74c",
-      "time": "2026-10-17 04:10:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "DBRS Morningstar affirmed the European Union's AAA rating and maintained a stable outlook."
     }
   ]
 }
