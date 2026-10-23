@@ -1,7 +1,44 @@
 {
   "date": "2026-10-24",
-  "count": 228,
+  "count": 232,
   "items": [
+    {
+      "id": "5165261",
+      "time": "2026-10-24 04:10:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "Scope確認義大利信用評級為BBB+，展望為正面。"
+    },
+    {
+      "id": "5165260",
+      "time": "2026-10-24 04:09:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI總裁布羅克曼：我們一直在圍繞前沿網路模型開發工具，這些工具為我們提供的安全保障遠超無輔助情況下的水平，並且預計將成為防禦者未來保障自身安全的關鍵手段。"
+    },
+    {
+      "id": "mkt:01a16a62-1ccb-7ee0-a960-24880baa9b25",
+      "time": "2026-10-24 04:09:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Venezuela's oil production has reached 1.2 mln bpd, the oil minister said."
+    },
+    {
+      "id": "5165257",
+      "time": "2026-10-24 04:07:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "邁威爾科技達成30億美元迴圈信貸協議。"
+    },
     {
       "id": "mkt:01a16a5e-1877-7ee0-a960-1bbdb3ad904e",
       "time": "2026-10-24 04:05:13",
