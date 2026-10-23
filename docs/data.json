@@ -1,7 +1,44 @@
 {
-  "updated": "2026-10-24 03:51:42",
-  "count": 13135,
+  "updated": "2026-10-24 03:55:34",
+  "count": 13136,
   "items": [
+    {
+      "id": "mkt:01a16a54-e32b-7ee0-a95f-f44be7503988",
+      "time": "2026-10-24 03:55:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he wants to rename New Mexico 'New America'."
+    },
+    {
+      "id": "5165231",
+      "time": "2026-10-24 03:53:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普宣佈，美國政府將投資2.5億美元，在全美養老護理機構中至少新聘5000名護士，佛羅里達州也在其中。"
+    },
+    {
+      "id": "mkt:01a16a51-ddd8-7ee0-a95f-ea8fceea5c76",
+      "time": "2026-10-24 03:51:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says another small-scale \"Epic Fury\" operation possible】US President Trump said the US might carry out another small-scale \"Epic Fury\" operation, or Iran could agree to a deal. He added that if Iran were \"smart\" it would \"get down to business\" on talks, but he doubted they would because they may not be that smart."
+    },
+    {
+      "id": "5165229",
+      "time": "2026-10-24 03:51:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我想把“新墨西哥”改名叫“新美國”（ New America  ）。"
+    },
     {
       "id": "mkt:01a16a50-0a9c-7ee0-a95f-e2e5748a64eb",
       "time": "2026-10-24 03:49:52",
@@ -118996,34 +119033,6 @@
         "國際"
       ],
       "text": "美國地質調查局訊息，厄瓜多海岸附近發生5.2級地震。"
-    },
-    {
-      "id": "5150539",
-      "time": "2026-10-17 03:54:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：我認為市場對弗拉維奧·博索納羅缺乏可信度的計劃做出積極反應是錯誤的。"
-    },
-    {
-      "id": "mkt:01a14647-a249-7ee0-a8c5-a79fa4299378",
-      "time": "2026-10-17 03:54:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen's transport minister said two missiles in an attack on Aden airport landed about 500 meters from an aircraft."
-    },
-    {
-      "id": "mkt:01a14646-a37a-7ee0-a8c5-98a893a2cf14",
-      "time": "2026-10-17 03:53:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Yemen's Aden security forces said two missiles fired by Houthi militants landed inside Aden airport, the second such incident in under a week."
     }
   ]
 }
