@@ -1,7 +1,129 @@
 {
   "date": "2026-10-23",
-  "count": 1256,
+  "count": 1270,
   "items": [
+    {
+      "id": "te:economy:594507",
+      "time": "2026-10-23 14:10:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Danish Business Morale Hits 18-Month High — Denmark’s manufacturing confidence indicator climbed to 102.7 in October 2026 from 100.5 in the previous month. The latest result moved further above the long-term average of 100 and marked the highest reading since April 2025. Production expectations strengthened to 22 from 15, while employment expectations eased to 2 from 5. On the broader front, the business confidence indicator, covering industry, construction, services and retail, fell to 104.5 from 107.1. Construction sentiment weakened, with its gauge declining to 100.6 from 101.5, while the services measure dropped to 104.9 from 107.3 as revenue expectations fell to 8 from 12 and employment expectations slipped to 1 from 4. Retail optimism recorded the sharpest decline, with its indicator plunging to 103.7 from 114.8. Although revenue expectations remained relatively strong at 29, retail employment expectations turned negative, falling to -3 from 9."
+    },
+    {
+      "id": "5163488",
+      "time": "2026-10-23 14:10:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：滬股通板塊淨流出超104億】截至目前，今日主力資金淨流出87.49億；淨流入騰訊概念、數字晶片設計、抖音概念等板塊，其中騰訊概念板塊淨流入44.10億；淨流出滬股通、融資融券、轉融券標的等板塊，其中滬股通板塊淨流出104.04億。\n  \n個股方面，長鑫科技淨買入14.56億元位居首位，中際旭創、天娛數科、寧德時代主力資金淨流入居前；交通銀行淨賣出3.74億元位居首位，工商銀行、紫金礦業、協創資料淨流出額居前。"
+    },
+    {
+      "id": "5163487",
+      "time": "2026-10-23 14:09:50",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "宇樹科技日內漲超16%，股價突破600元關口，本週累漲超40%。"
+    },
+    {
+      "id": "5163486",
+      "time": "2026-10-23 14:09:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【新興市場股市受AI拋售潮與油價拖累繼續下挫】新興市場股市連續第四周收跌，投資者持續撤離AI相關持倉；油價上漲加劇通脹擔憂，進一步打壓風險偏好。明晟新興市場指數一度下跌0.8%，至1562.47點，創三個月新低，延續週四2.5%的跌幅。該指數即將迎來七個月以來持續最久的周線連跌。馬來亞銀行外匯策略師Shaun Lim表示，當前風險資產主要受兩大因素影響：AI板塊情緒轉弱以及油價上行。兩者走勢未必同步，但疊加效應會放大市場波動。週五布倫特原油交投於每桶114美元附近，本週漲幅接近4%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610233906004057",
+      "time": "2026-10-23 14:08:42",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【陝西前三季度GDP增長4.1% 汽車和煤炭是重要支援】隨著汽車產業回升，陝西經濟重回“雙輪驅動”，三季度經濟增長提速。10月23日，陝西省統計局釋出，前三季度，全省實現地區生產總值27119.27億元，按不變價格計算，同比增長4.1%，較上半年加快0.3個百分點。"
+    },
+    {
+      "id": "te:economy:594505",
+      "time": "2026-10-23 14:08:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Retail Sales MoM",
+        "Importance 2"
+      ],
+      "text": "UK Retail Sales Fall More Than Expected — UK retail sales volumes fell 0.4% month-on-month in September 2026, more than the expected 0.1% decline, following an upwardly revised 0.7% rise in August. The drop reflected weaker demand for autumn and winter clothing ranges amid unseasonably warm weather, alongside lower footfall and consumer cutbacks that weighed on non-food retailers. Online clothing sales weakened, while supermarket sales declined after increasing in July and August. Non-food store sales volumes dropped 0.4%, with clothing and footwear, sports equipment and household goods retailers recording declines. In contrast, automotive fuel sales rose despite higher prices. Over the third quarter, retail sales volumes increased 0.7% from the previous quarter and 1.5% year-on-year, supported by higher fuel and food store sales, warm weather, and stronger sales of alcohol and beverages linked to promotions and the World Cup. Annually, retail sales volumes rose 0.8% in September."
+    },
+    {
+      "id": "5163484",
+      "time": "2026-10-23 14:08:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲3％，上證指數漲0.35％，深證成指漲1.87％。"
+    },
+    {
+      "id": "5163483",
+      "time": "2026-10-23 14:08:10",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行：部分企業相對易受原油價格上漲影響。"
+    },
+    {
+      "id": "5163482",
+      "time": "2026-10-23 14:07:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨漲幅擴大至1％。"
+    },
+    {
+      "id": "5163481",
+      "time": "2026-10-23 14:07:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報23164.881點；恒生科技指數現漲2.217%。"
+    },
+    {
+      "id": "5163480",
+      "time": "2026-10-23 14:07:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股空中成像板塊異動拉昇】風語築、創維數字觸及漲停，奧比中光、當虹科技、凱盛科技跟漲。"
+    },
+    {
+      "id": "5163479",
+      "time": "2026-10-23 14:06:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行：期限超過35年的超長抵押貸款數量持續增長。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202610233906061779",
+      "time": "2026-10-23 14:06:11",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行表示，日本金融體系總體保持穩定；有必要繼續密切關注中東局勢、人工智慧相關投資以及非銀領域發展等因素帶來的影響。"
+    },
     {
       "id": "5163478",
       "time": "2026-10-23 14:05:51",
@@ -51,6 +173,15 @@
         "觀點"
       ],
       "text": "摩根士丹利將開雲目標價從 250 歐元下調至 220 歐元。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202610233906056941",
+      "time": "2026-10-23 14:03:03",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國9月季調後零售銷售同比增長0.8%，預期1%，前值由2.4%修正為2.7%。"
     },
     {
       "id": "5163472",
