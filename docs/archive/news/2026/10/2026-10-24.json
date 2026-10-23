@@ -1,7 +1,15 @@
 {
   "date": "2026-10-24",
-  "count": 35,
+  "count": 36,
   "items": [
+    {
+      "id": "mkt:01a169a8-6ff6-7ee0-a95d-8915091a8894",
+      "time": "2026-10-24 00:46:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Democratic Federal Communications Commission commissioner urged the broadcasting industry to more actively resist the Trump administration's 'intimidation' of stations."
+    },
     {
       "id": "5165099",
       "time": "2026-10-24 00:43:38",

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-24 00:46:21",
-  "count": 13224,
+  "updated": "2026-10-24 00:50:41",
+  "count": 13220,
   "items": [
+    {
+      "id": "mkt:01a169a8-6ff6-7ee0-a95d-8915091a8894",
+      "time": "2026-10-24 00:46:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Democratic Federal Communications Commission commissioner urged the broadcasting industry to more actively resist the Trump administration's 'intimidation' of stations."
+    },
     {
       "id": "5165099",
       "time": "2026-10-24 00:43:38",
@@ -119757,55 +119765,6 @@
         "MKT News"
       ],
       "text": "Saudi civil defense says threat in Khamis Mushait has been lifted."
-    },
-    {
-      "id": "mkt:01a1459e-e7ca-7ee0-a8c2-6bba65ea75f5",
-      "time": "2026-10-17 00:50:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "U.S. oil rig count for the week to Oct. 16 due in 10 minutes."
-    },
-    {
-      "id": "te:markets:592860",
-      "time": "2026-10-17 00:49:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The US 100 Tech Index Hit 4-week Low — US100 decreased to 29402.00 Index Points, the lowest since September 2026. Over the past 4 weeks, US 100 Tech Index lost 0.14%, and in the last 12 months, it increased 18.48%."
-    },
-    {
-      "id": "mkt:01a1459d-d084-7ee0-a8c2-66f790f90227",
-      "time": "2026-10-17 00:48:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【ICAO finds safety gaps at Beirut airport; US-Lebanon direct flight resumption impeded】An internal ICAO report says Beirut International Airport lacks effective certification and shows multiple safety-management deficiencies that could delay U.S. plans to restore direct U.S.-Lebanon flights. The report flags firefighting capacity only for single-aisle aircraft (insufficient for widebody long-haul jets), expired temporary certification, no emergency plans, a shortage of qualified inspectors at Lebanon’s civil aviation regulator, and an incomplete accident-investigation body. President Trump previously signed an order to resume direct U.S.-Lebanon services, but the FAA and TSA must complete safety reviews; three U.S. aviation sources say carriers are unlikely to restart Lebanon routes in the near term for security reasons. Lebanon’s transport minister says remediation work has begun, the airport certification process will start Saturday and temporary certification is expected within days, though conflict has slowed progress."
-    },
-    {
-      "id": "mkt:01a1459c-831f-7ee0-a8c2-5cc3ee949bef",
-      "time": "2026-10-17 00:47:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense issued an early warning of a potential threat to Khamis Mushait."
-    },
-    {
-      "id": "5150395",
-      "time": "2026-10-17 00:46:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特方面稱，已針對海米斯穆謝特的潛在危險釋出警報。"
     }
   ]
 }
