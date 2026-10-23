@@ -1,7 +1,64 @@
 {
   "date": "2026-10-24",
-  "count": 15,
+  "count": 20,
   "items": [
+    {
+      "id": "te:markets:594747",
+      "time": "2026-10-24 00:13:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls Ahead of Moody’s France Rating Review — The CAC 40 fell 0.4% to close at 7,783 on Friday ahead of Moody’s review of France’s sovereign credit rating. Moody’s rates France Aa3, its fourth-highest grade, with a negative outlook, and a downgrade is widely expected. The 10-year government bond yield surged to a 24-year high as concerns grew over fragile public finances, rising borrowing costs and mounting social unrest. The minority government faces difficulties passing its budget and reducing the deficit amid parliamentary divisions, widespread protests and uncertainty ahead of the presidential election. Meanwhile, heavyweight companies reported Q3 results this week. Hermès fell after reporting revenue below expectations, while Kering plunged 16.6% following a sales decline. Safran sank 10% despite strong results. In contrast, L’Oréal climbed 5.6% after third-quarter sales beat expectations. On the week, the CAC 40 gained 0.2%."
+    },
+    {
+      "id": "te:markets:594746",
+      "time": "2026-10-24 00:12:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.36% Higher — The FTSE MIB Index rose 175 points or 0.36 percent on Friday to close at 48559 points. Leading the gains are Eni (5.82%), Tenaris (4.45%) and Saipem (3.89%). Top losers were Stellantis N.V. (-6.62%), Moncler (-2.70%) and Brunello Cucinelli (-2.01%)."
+    },
+    {
+      "id": "te:markets:594745",
+      "time": "2026-10-24 00:11:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.75% Lower — The DAX Index dropped 190 points or 0.75 percent on Friday to close at 25182 points. Losses were led by MTU Aero Engines AG (-4.84%), Deutsche Telekom (-3.17%) and Siemens Energy (-2.88%). Offsetting the fall, top gainers were Fresenius Medical Care (3.27%), Beiersdorf (2.41%) and Fresenius (1.75%)."
+    },
+    {
+      "id": "5165086",
+      "time": "2026-10-24 00:10:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【第一量子準備就最高53億美元的銅礦專案申請阿根廷稅收優惠】阿根廷外交部長巴勃羅·基爾諾表示，第一量子礦業公司預計將在今年年底前申請加入阿根廷大型投資激勵制度（RIGI），該銅礦專案投資額最高可達52.5億美元。基爾諾補充稱，第一量子旗下的Taca Taca銅礦是全球最大的未開發銅礦專案之一。該專案計劃於2030年投產，礦山服務年限約35年，投產後前十年年均銅產量約29萬噸。"
+    },
+    {
+      "id": "te:markets:594744",
+      "time": "2026-10-24 00:10:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.49% Lower — The CAC 40 Index decreased 38 points or 0.49 percent on Friday to close at 7773 points. The decline was led by Kering (-15.97%), Safran (-10.35%) and Stellantis NV (-6.24%). On the upside, the strongest performers were L'Oréal (5.40%), TotalEnergies SE (4.69%) and Essilor (2.91%)."
+    },
     {
       "id": "mkt:01a16986-4bd8-7ee0-a95d-5e6e0952fc57",
       "time": "2026-10-24 00:09:31",

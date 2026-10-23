@@ -1,7 +1,64 @@
 {
-  "updated": "2026-10-24 00:10:37",
-  "count": 13248,
+  "updated": "2026-10-24 00:14:40",
+  "count": 13247,
   "items": [
+    {
+      "id": "te:markets:594747",
+      "time": "2026-10-24 00:13:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls Ahead of Moody’s France Rating Review — The CAC 40 fell 0.4% to close at 7,783 on Friday ahead of Moody’s review of France’s sovereign credit rating. Moody’s rates France Aa3, its fourth-highest grade, with a negative outlook, and a downgrade is widely expected. The 10-year government bond yield surged to a 24-year high as concerns grew over fragile public finances, rising borrowing costs and mounting social unrest. The minority government faces difficulties passing its budget and reducing the deficit amid parliamentary divisions, widespread protests and uncertainty ahead of the presidential election. Meanwhile, heavyweight companies reported Q3 results this week. Hermès fell after reporting revenue below expectations, while Kering plunged 16.6% following a sales decline. Safran sank 10% despite strong results. In contrast, L’Oréal climbed 5.6% after third-quarter sales beat expectations. On the week, the CAC 40 gained 0.2%."
+    },
+    {
+      "id": "te:markets:594746",
+      "time": "2026-10-24 00:12:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.36% Higher — The FTSE MIB Index rose 175 points or 0.36 percent on Friday to close at 48559 points. Leading the gains are Eni (5.82%), Tenaris (4.45%) and Saipem (3.89%). Top losers were Stellantis N.V. (-6.62%), Moncler (-2.70%) and Brunello Cucinelli (-2.01%)."
+    },
+    {
+      "id": "te:markets:594745",
+      "time": "2026-10-24 00:11:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.75% Lower — The DAX Index dropped 190 points or 0.75 percent on Friday to close at 25182 points. Losses were led by MTU Aero Engines AG (-4.84%), Deutsche Telekom (-3.17%) and Siemens Energy (-2.88%). Offsetting the fall, top gainers were Fresenius Medical Care (3.27%), Beiersdorf (2.41%) and Fresenius (1.75%)."
+    },
+    {
+      "id": "5165086",
+      "time": "2026-10-24 00:10:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【第一量子準備就最高53億美元的銅礦專案申請阿根廷稅收優惠】阿根廷外交部長巴勃羅·基爾諾表示，第一量子礦業公司預計將在今年年底前申請加入阿根廷大型投資激勵制度（RIGI），該銅礦專案投資額最高可達52.5億美元。基爾諾補充稱，第一量子旗下的Taca Taca銅礦是全球最大的未開發銅礦專案之一。該專案計劃於2030年投產，礦山服務年限約35年，投產後前十年年均銅產量約29萬噸。"
+    },
+    {
+      "id": "te:markets:594744",
+      "time": "2026-10-24 00:10:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.49% Lower — The CAC 40 Index decreased 38 points or 0.49 percent on Friday to close at 7773 points. The decline was led by Kering (-15.97%), Safran (-10.35%) and Stellantis NV (-6.24%). On the upside, the strongest performers were L'Oréal (5.40%), TotalEnergies SE (4.69%) and Essilor (2.91%)."
+    },
     {
       "id": "mkt:01a16986-4bd8-7ee0-a95d-5e6e0952fc57",
       "time": "2026-10-24 00:09:31",
@@ -120003,70 +120060,6 @@
         "Impact bearish"
       ],
       "text": "Ukrainian President Zelenskiy said Kyiv does not use Starlink on Russian territory for retaliatory strikes and uses Starlink to intercept aircraft attacking Ukrainian civilians. He said Starlink has not been shut down but its transmission speed has been reduced, which limits Kyiv’s ability to shoot down a number of aircraft."
-    },
-    {
-      "id": "mkt:01a1457e-6845-7ee0-a8c1-c27b27369165",
-      "time": "2026-10-17 00:14:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Putin ordered the military to continue large-scale coordinated strikes on Ukraine's military-industrial complex facilities and logistics hubs."
-    },
-    {
-      "id": "5150377",
-      "time": "2026-10-17 00:14:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯總統普京下令軍方繼續對烏克蘭軍工設施與物流中心實施大規模叢集打擊。"
-    },
-    {
-      "id": "te:markets:592855",
-      "time": "2026-10-17 00:12:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Closes at 1-Month High — Frankfurt’s DAX 40 extended its gains to close about 1% firmer at 25,622 on Friday, the highest since September 17, in line with regional peers. Defense stocks provided a significant boost to the index. Rheinmetall climbed 6.1%, as European leaders gathered in Brussels to reaffirm their support for President Volodymyr Zelenskiy.amidst the escalating conflict in Ukraine. Autos also advanced solidly, led by BMW (3.1%), Mercedes-Benz Group (3%) and Volkswagen (2.7%), partly buoyed by hopes of greater flexibility in EU emissions. Some easing in concerns over interest rates and AI investment also helped support broader market sentiment, despite prevailing caution. Meanwhile, investors continued to evaluate earnings reports from major companies from both sides of the Atlantic, while also keeping a close watch on geopolitical developments in the Middle East.. For the week, the index rose approximately 2.1%."
-    },
-    {
-      "id": "5150376",
-      "time": "2026-10-17 00:12:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【霍爾木茲船隻遇襲頻次增加範圍擴大】伊朗海軍10月16日表示，又監測到一艘油輪在霍爾木茲海峽東部海域禁航區域內起火。伊朗海軍強調，在禁航區域的無序航行是不安全的，並會給其他船隻帶來危險。近期，霍爾木茲海峽船隻遇襲頻次增加、範圍擴大，其背後反映的是美伊有關海峽控制權的爭奪仍然非常激烈。這種態勢也在推動地區局勢重新趨於緊張，未來該地區軍事衝突再次升級的可能性不容小覷。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:592854",
-      "time": "2026-10-17 00:12:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.93% Higher — The FTSE MIB Index rose 460 points or 0.93 percent on Friday to close at 49857 points. Leading the gains are Leonardo SpA (4.46%), Brunello Cucinelli (4.28%) and Buzzi Unicem (3.93%). Top losers were Technoprobe (-2.58%), Moncler (-2.08%) and Banco BPM SPA (-1.64%)."
-    },
-    {
-      "id": "te:markets:592853",
-      "time": "2026-10-17 00:11:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.95% Higher — The DAX Index gained 240 points or 0.95 percent on Friday to close at 25623 points. Gains were led by Rheinmetall (6.53%), BMW (3.52%) and Scout24 (3.40%). Biggest losers were SAP (-1.08%), Continental (-0.34%) and Infineon (-0.29%)."
     }
   ]
 }
