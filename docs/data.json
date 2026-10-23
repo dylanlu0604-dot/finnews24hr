@@ -1,7 +1,66 @@
 {
-  "updated": "2026-10-23 10:08:10",
-  "count": 13374,
+  "updated": "2026-10-23 10:11:59",
+  "count": 13359,
   "items": [
+    {
+      "id": "5163137",
+      "time": "2026-10-23 10:11:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達50億港元。"
+    },
+    {
+      "id": "5163136",
+      "time": "2026-10-23 10:10:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市早盤交易震盪，最新上漲0.3%，報5,402.967點。"
+    },
+    {
+      "id": "5163135",
+      "time": "2026-10-23 10:10:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生指數轉跌，最新報22811.07點，跌幅0.5%。"
+    },
+    {
+      "id": "5163134",
+      "time": "2026-10-23 10:09:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傳化智聯在荊門投資成立資產運營公司】企查查APP顯示，近日，荊門傳化資產運營有限公司成立，經營範圍包含：自有資金投資的資產管理服務；國內貨物運輸代理；國內集裝箱貨物運輸代理；陸路國際貨物運輸代理等。企查查股權穿透顯示，該公司由傳化智聯旗下傳化物流集團有限公司全資持股。"
+    },
+    {
+      "id": "5163133",
+      "time": "2026-10-23 10:08:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福建人形機器人創新中心完成Pre-A+輪融資】10月23日，福建人形機器人創新中心有限公司正式宣佈完成Pre-A+輪融資。本輪融資由福州市鼓樓區城建投資發展集團有限公司、廈門航智量數未來科技孵化器有限公司加持。"
+    },
+    {
+      "id": "5163132",
+      "time": "2026-10-23 10:07:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3％，成分股中，盛科通訊跌7.12％，芯原股份跌6.88％，源傑科技跌6.48％，國盾量子跌5.50％。"
+    },
+    {
+      "id": "mkt:01a16683-ac05-7ee0-a954-47b711891903",
+      "time": "2026-10-23 10:07:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's Sci-Tech Innovation Board 50 Index (STAR 50) fell more than 3%; Beijing Stock Exchange 50 Index fell 2.6%."
+    },
     {
       "id": "5163131",
       "time": "2026-10-23 10:07:22",
@@ -121373,216 +121432,6 @@
         "MKT News"
       ],
       "text": "【Record number of global, Asia and China debuts at 9th China International Import Expo】At a State Council Information Office briefing on the 16th, organizers said the ninth China International Import Expo showed stronger innovation momentum, with over 480 representative exhibits making global debuts, first appearances in Asia or first-time showings in China — a record high."
-    },
-    {
-      "id": "5148801",
-      "time": "2026-10-16 10:11:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“粵艇南下”今起落地實施 粵港澳遊艇自由行迎新進展】16日上午，多艘廣東籍遊艇分別從廣州、深圳、珠海等地啟程，駛向香港水域，標誌著“粵艇南下”正式落地實施。這是今年6月“港澳遊艇北上”落地實施後又一重要舉措，標誌著粵港澳遊艇自由行邁出雙向互通的關鍵一步，助力粵港澳大灣區海上互聯互通。新政落地後，符合條件的廣東籍遊艇，可按規定從大灣區內地城市的南沙港口岸南沙港區客運碼頭、蛇口港口岸客運碼頭、深圳機場口岸福永客運碼頭、珠海港口岸九洲港區九洲港客運碼頭、珠海港口岸萬山港區桂山客運碼頭、中山港口岸神灣港區盛世遊艇會碼頭六個指定口岸碼頭出境。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a1427a-db50-7ee0-a8ad-980b6516af5f",
-      "time": "2026-10-16 10:11:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【Hana Asset Management: AI boom to spread beyond semiconductors; capacitors and AI-substrate makers set to gain】Lee Wang-seop, head of equity investments and portfolio manager at Hana Asset Management, said the AI upcycle will extend beyond semiconductors and that capacitor manufacturers and AI-substrate producers are likely to benefit next year. He is also constructive on renewables and energy-storage firms, expects continued growth in data-centre service demand, and has broadened allocations from pure semiconductors into other AI supply-chain segments. Lee expects that on a market rebound, semiconductor materials, parts and equipment stocks will outperform large memory-chip makers, and forecasts next-year net-profit growth in several sectors to exceed the KOSPI constituents’ aggregate rate."
-    },
-    {
-      "id": "5148800",
-      "time": "2026-10-16 10:11:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝利：看到中性利率上升的跡象。"
-    },
-    {
-      "id": "em:qqyh_ygyh:202610163898058232",
-      "time": "2026-10-16 10:11:36",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "英國央行行長Bailey稱，現在判斷通脹的第二輪效應還為時尚早。"
-    },
-    {
-      "id": "5148799",
-      "time": "2026-10-16 10:11:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼10年期國債收益率基本持平於7.26%。"
-    },
-    {
-      "id": "mkt:01a1427a-437c-7ee0-a8ad-9702ba4a43b3",
-      "time": "2026-10-16 10:11:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "Bank of England Governor Bailey said Middle East developments are the biggest driver of UK government bond yields."
-    },
-    {
-      "id": "5148798",
-      "time": "2026-10-16 10:10:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "習近平致信祝賀湖南大學建校100週年。（新華社）"
-    },
-    {
-      "id": "mkt:01a14279-f762-7ee0-a8ad-89bd46232681",
-      "time": "2026-10-16 10:10:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Guangdong yachts' southbound scheme launches, advancing Guangdong–Hong Kong–Macao yacht free travel】The Guangdong ‘yachts southbound’ scheme took effect today. On the morning of the 16th several Guangdong-registered yachts departed Guangzhou, Shenzhen and Zhuhai for Hong Kong waters. The move follows June’s implementation of northbound access for Hong Kong and Macau yachts and establishes two-way mutual access for yacht travel in the Guangdong–Hong Kong–Macao Greater Bay Area. Under the new rules eligible Guangdong-registered yachts may depart via six designated passenger terminals: Nansha Port passenger terminal (Nansha port area), Shekou Port passenger terminal, Fuyong passenger terminal at Shenzhen Airport port, Jiuzhou passenger terminal (Jiuzhou port area, Zhuhai), Guishan passenger terminal (Wanshan port area, Zhuhai) and Shengshi Yacht Club terminal (Shenwan port area, Zhongshan)."
-    },
-    {
-      "id": "5148797",
-      "time": "2026-10-16 10:10:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝利：在伊朗衝突爆發之前，我預計今年會降息兩次。"
-    },
-    {
-      "id": "te:markets:592578",
-      "time": "2026-10-16 10:10:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Extends Gains — The New Zealand dollar rose to $0.562 on Friday, extending its rebound from an 18-month low, as the US dollar weakened amid falling Treasury yields. The greenback’s decline came despite strong inflation and spending data, which reinforced expectations that the Federal Reserve could continue raising interest rates. Hawkish remarks from RBNZ Chief Economist Paul Conway on Thursday also supported the kiwi. Conway said the late-October rate decision remains completely open and that the central bank continues to believe that an increase in the OCR is most likely, although the timing remains uncertain. Market attention now turns to next week’s third-quarter inflation data, which could provide fresh insight into the central bank’s policy direction. The report will be the final major data release before the RBNZ’s meeting on October 28. The kiwi has risen 0.3% this week, putting it on track to snap a seven-week losing streak."
-    },
-    {
-      "id": "5148796",
-      "time": "2026-10-16 10:10:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度財長西塔拉曼：希望印美貿易協議儘快達成。"
-    },
-    {
-      "id": "5148795",
-      "time": "2026-10-16 10:09:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝利：看到英國投資與人工智慧相關的跡象。"
-    },
-    {
-      "id": "mkt:01a14279-0add-7ee0-a8ad-801d66a5c965",
-      "time": "2026-10-16 10:09:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Copper",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【Zhongguancun Energy Storage Industry Technology Alliance: China power storage cumulative capacity 252.2 GW】Zhongguancun Energy Storage Industry Technology Alliance deputy secretary-general Li Zhen said at the 2026 World Energy Storage Congress that as of Q3 2026 China’s power storage cumulative installed capacity reached 252.2 GW, up 41.3% YoY and 18.2% since end-2025. Pumped hydro’s share fell 3.4 percentage points versus end-2025 and about 7.3 percentage points YoY. Share of non-lithium new storage technologies rose 0.5 percentage points YoY; long-duration technologies such as flow batteries and compressed air increased 0.4 percentage points YoY."
-    },
-    {
-      "id": "mkt:01a14278-a36c-7ee0-a8ad-7a73f1a2ec69",
-      "time": "2026-10-16 10:09:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Over 4,100 overseas firms to exhibit at 9th China International Import Expo】The State Council Information Office said on the 16th that preparations for the 9th China International Import Expo are essentially complete. The expo will host participants from 162 countries, regions and international organizations and feature over 4,100 overseas exhibitors; total exhibition space has exceeded 440,000 sq m for the first time. U.S., German, British and French companies lead exhibitor space; U.S. firms have ranked first in exhibition space for eight consecutive editions, increasing area by 1,500 sq m versus last year."
-    },
-    {
-      "id": "5148793",
-      "time": "2026-10-16 10:09:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SpaceX執行美太空軍機密任務】美國太空探索技術公司當地時間10月15日在加利福尼亞州的范登堡太空軍基地發射了一枚“獵鷹9”火箭，執行美國太空軍的一項機密任務。該任務的有效載荷及具體目標未向公眾披露。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a14278-7591-7ee0-a8ad-722b964f7fae",
-      "time": "2026-10-16 10:09:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England Governor BAILEY said the UK economy is more resilient than the Bank expected, but not as strong as needed."
-    },
-    {
-      "id": "5148792",
-      "time": "2026-10-16 10:09:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中關村儲能產業技術聯盟：中國電力儲能累計裝機規模達252.2 GW】10月16日，中關村儲能產業技術聯盟副秘書長李臻在2026世界儲能大會儲能價值創新論壇上披露，截至今年三季度，中國電力儲能累計裝機規模達252.2 GW，累計裝機同比增長41.3%，較2025年底增長18.2%。其中，抽水蓄能累計裝機佔比較2025年底下降3.4個百分點，同比下降約7.3個百分點。李臻指出，新型儲能技術路線進一步向多元化、長時化加速發展。非鋰新型儲能技術佔比同比提升0.5個百分點；液流電池、壓縮空氣等長時儲能技術佔比同比提升0.4個百分點。"
-    },
-    {
-      "id": "5148791",
-      "time": "2026-10-16 10:09:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國16歲槍手在小學槍殺4人】美國俄勒岡州中部本德市一所小學當地時間10月15日發生槍擊事件。警方表示，一名16歲的槍手透過向緊鎖的大門開槍闖進這所小學，槍殺了4人，其中包括3名兒童，年齡分別為5歲、8歲和11歲，以及一名教師。一名7歲學生和一名54歲的教師受重傷，已被送往醫院。隨後，一名持槍社群成員追擊槍手進入學校並將其擊斃。"
-    },
-    {
-      "id": "mkt:01a14278-2c96-7ee0-a8ad-6deaa95c35bd",
-      "time": "2026-10-16 10:08:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "Bank of England Governor Bailey said so far signs of second-round effects have weakened and firms are emphasizing cost-cutting."
-    },
-    {
-      "id": "mkt:01a14277-fbf0-7ee0-a8ad-610c8619ae84",
-      "time": "2026-10-16 10:08:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SpaceX launches classified U.S. Space Force mission】On Oct. 15 local time SpaceX launched a \"Falcon 9\" from Vandenberg Space Force Base in California on a classified U.S. Space Force mission; the payload and specific mission objectives were not disclosed."
-    },
-    {
-      "id": "mkt:01a14277-ec5f-7ee0-a8ad-5f4cd5095148",
-      "time": "2026-10-16 10:08:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Bank of England Governor Bailey said it is still too early to draw conclusions on the strength of second-round effects."
-    },
-    {
-      "id": "5148790",
-      "time": "2026-10-16 10:08:15",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：英國經濟比我們預期的更具韌性，但尚未達到我們所需的強勁程度。"
     }
   ]
 }
