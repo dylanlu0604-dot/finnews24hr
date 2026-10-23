@@ -1,7 +1,80 @@
 {
   "date": "2026-10-23",
-  "count": 559,
+  "count": 567,
   "items": [
+    {
+      "id": "mkt:01a1660d-ff91-7ee0-a951-0b05473447d0",
+      "time": "2026-10-23 07:59:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【RBNZ faces inflation rebound; economists expect Oct. 28 rate hike】Economists say the RBNZ will need to hike sharply to rein in a rebound in inflation, even if that requires action 10 days before the election. Q3 CPI eased slightly, but most analysts expect Q4 inflation to accelerate above 4% and remain above the RBNZ’s 1–3% target for longer than the bank had projected. Rising fuel prices and a weaker NZD are the main upside pressures. Most economists expect the official cash rate to be raised to 3% next Wednesday (Oct. 28). ASB senior economist Smith warns sustained higher inflation is a major problem, forecasts CPI above 3% until Q4 2027, and expects the RBNZ on Oct. 28 to acknowledge more work is needed and to retain a conditional bias to tighten further."
+    },
+    {
+      "id": "5162898",
+      "time": "2026-10-23 07:59:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Lycia公司將IPO定價為每股18美元，處於定價區間的上限】美國生物技術公司 Lycia Therapeutics 將其首次公開募股定價為每股 18 美元，處於每股 16-18 美元價格區間的上限。公司透過出售1764萬股股票籌集了3.175億美元資金。股票將於10月23日在納斯達克上市交易，股票程式碼為“LYCA”。Jefferies、TD Cowen、Evercore ISI 和 Guggenheim Securities 擔任此次發行的聯席賬簿管理人；LifeSci Capital 擔任此次發行的被動賬簿管理人。"
+    },
+    {
+      "id": "5162897",
+      "time": "2026-10-23 07:59:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗國家電視臺展示新型無人機】伊朗國家電視臺22日播出一段影片，展示了數十架位於地下設施中的伊朗新型無人機。據該電視臺報道，其中一種新型無人機目前已可搭載重達100公斤的戰鬥部，威力達到先前型號的兩倍。伊朗方面援引伊朗軍隊總司令哈塔米的話稱，伊朗“在無人機和無人系統領域的成熟度已達到相當高的水平”，未來還將推出更多無人機。（央視）"
+    },
+    {
+      "id": "mkt:01a1660c-a4bc-7ee0-a951-02c625b3d394",
+      "time": "2026-10-23 07:57:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan's economic and fiscal minister Kiuchi said conditions are not yet met for the government to officially declare an end to deflation."
+    },
+    {
+      "id": "5162896",
+      "time": "2026-10-23 07:56:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：認為政府宣佈正式結束通縮的條件尚未滿足。"
+    },
+    {
+      "id": "5162895",
+      "time": "2026-10-23 07:56:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "建銀國際恢復跟蹤歌爾股份，評級中性。"
+    },
+    {
+      "id": "5162894",
+      "time": "2026-10-23 07:55:56",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人：將繼續幫助利比亞應對其經濟挑戰。"
+    },
+    {
+      "id": "mkt:01a1660a-e4aa-7ee0-a950-ff43ee42cac9",
+      "time": "2026-10-23 07:55:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Musk adds $76 mln to super PAC; election-cycle donations top $442 mln】Politico reported Elon Musk donated an additional $76 mln to the America PAC super PAC in the first two weeks of October, taking his election-cycle political contributions above $442 mln. America PAC has spent tens of millions on digital ads, mail and SMS targeting competitive House and Senate races. Politico says Musk is the largest individual donor this cycle; his political giving this year far exceeds the roughly $290 mln he spent earlier in 2024, and no individual has donated this much in modern U.S. political history."
+    },
     {
       "id": "mkt:01a1660a-bd68-7ee0-a950-f2301339addb",
       "time": "2026-10-23 07:55:42",
