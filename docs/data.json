@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-24 00:34:11",
-  "count": 13231,
+  "updated": "2026-10-24 00:38:17",
+  "count": 13233,
   "items": [
+    {
+      "id": "5165098",
+      "time": "2026-10-24 00:37:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通：出售GBTG股權的部分收益被投入增效專案，三季度因此產生3.36億美元重組費用。"
+    },
+    {
+      "id": "5165097",
+      "time": "2026-10-24 00:35:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI將漏洞發現“工業化” Anthropic高管警告網路安全風險或進一步惡化】Anthropic PBC一名高管警告稱，大規模網路安全擾動，例如本週多國政府和企業爭相修補兩項關鍵軟體漏洞的情況，在好轉之前可能會“嚴重得多”。本週，全球多家銀行、航空公司和政府出於預防目的下線網站，以避免遭到駭客攻擊。此前，網路安全研究人員藉助AI發現了開源程式語言PHP中的漏洞，而PHP支撐著網際網路相當大的一部分。Anthropic副首席資訊保安官Jason D. Clinton週四在X上發帖稱：“過去4天情況已經很糟，但在好轉之前還會變得嚴重得多。安全負責人，不要浪費任何一場危機，請現在就去找董事會尋求幫助。不是為了AI，而是為了最基礎的安全工作。”"
+    },
+    {
+      "id": "mkt:01a1699d-d6d0-7ee0-a95d-87ceac32a099",
+      "time": "2026-10-24 00:35:14",
+      "tags": [
+        "MKT News",
+        "TM.N",
+        "Impact bearish"
+      ],
+      "text": "Toyota Motor (TM.N) to recall about 68,000 vehicles in the United States."
+    },
+    {
+      "id": "5165096",
+      "time": "2026-10-24 00:34:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一艘油輪在霍爾木茲海峽被不明拋射物擊中】據英國海上貿易行動辦公室（UKMTO）收到的一份報告稱，當地時間10月22日晚在阿曼利馬（Limah）東北方向7海里處發生一起事件。一艘油輪報告稱，其在霍爾木茲海峽向外航行過境時，被一枚不明拋射物擊中。（央視新聞）"
+    },
+    {
+      "id": "5165095",
+      "time": "2026-10-24 00:34:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "芝加哥期權交易所旗下Cboe Clear U.S.獲美國證券交易委員會批准，擴大其清算業務範圍。"
+    },
     {
       "id": "mkt:01a1699c-6352-7ee0-a95d-79f2cff34c5b",
       "time": "2026-10-24 00:33:38",
@@ -9,6 +51,14 @@
         "MKT News"
       ],
       "text": "Cboe Clear U.S., the clearing arm of the Chicago Board Options Exchange (Cboe), received SEC approval to expand its clearing operations."
+    },
+    {
+      "id": "5165094",
+      "time": "2026-10-24 00:33:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐田汽車：召回部分2022至2024款雷克薩斯NX車型，雷克薩斯因顯示屏缺陷召回約 6.8 萬輛 NX 車型。"
     },
     {
       "id": "5165093",
@@ -119850,51 +119900,6 @@
         "The Trump Trade"
       ],
       "text": "Market reports: TRUMP's plan to restart direct US–Lebanon flights has encountered obstacles."
-    },
-    {
-      "id": "mkt:01a14591-5b01-7ee0-a8c2-16ed96779475",
-      "time": "2026-10-17 00:35:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【Fed October rate‑hike odds ease; dollar set for worst week since Sept. 4】The dollar weakened after Fed official Kevin Warsh’s remarks failed to boost the currency, leaving the greenback poised to end a four‑week advance. The Bloomberg Dollar Spot Index fell as much as 0.4% on Friday and was on track for its worst weekly performance since Sept. 4. The dollar slipped versus most major peers while the euro rose, set to snap a five‑week decline. Speaking at the IMF annual meeting in Bangkok, Warsh made no comments on U.S. policy or the economy, prompting investors to trim bets on a Fed rate hike later this month ahead of the Fed’s pre‑meeting blackout period. CIBC capital markets strategist Noah Buffam said Warsh offered no policy guidance, which markets interpreted as a signal that the Fed may not raise rates in October."
-    },
-    {
-      "id": "5150392",
-      "time": "2026-10-17 00:34:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲3%，現報109.10美元/桶。"
-    },
-    {
-      "id": "5150391",
-      "time": "2026-10-17 00:34:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破109美元/桶，日內漲2.99%。"
-    },
-    {
-      "id": "mkt:01a14590-89f5-7ee0-a8c2-0d9c4123371b",
-      "time": "2026-10-17 00:34:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude extends intraday gains to 2.00%, trading at $98.03/bbl."
     }
   ]
 }
