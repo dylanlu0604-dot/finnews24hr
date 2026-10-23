@@ -1,7 +1,67 @@
 {
   "date": "2026-10-24",
-  "count": 251,
+  "count": 257,
   "items": [
+    {
+      "id": "mkt:01a16a7b-1fb1-7ee0-a960-5e957c145610",
+      "time": "2026-10-24 04:36:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moody's affirms Chile's A2 sovereign rating and maintains a stable outlook."
+    },
+    {
+      "id": "te:economy:594760",
+      "time": "2026-10-24 04:36:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Paraguay Central Bank Holds Policy Rate at 5.50% — Paraguay’s central bank kept its policy rate unchanged at 5.50% at it's October 2026 meeting. The decision came as economic activity remained strong, with the central bank revising its 2026 GDP growth forecast upward from 4.5% to 5.0%, supported by services and utilities. Annual inflation stood at 1.7% in September, while core inflation excluding food and energy reached 1.5%. The central bank lowered its year-end inflation forecast from 3.3% to 3.0%, reflecting a more moderate path for non-energy goods prices, and cut its core inflation projection from 2.8% to 2.2%. Inflation expectations remained anchored at 3.5%. Meanwhile, external risks persisted amid elevated oil prices and geopolitical tensions in the Middle East, alongside expectations of higher US interest rates through the remainder of 2026 and into 2027. The central bank reaffirmed its commitment to price stability and its 3.5% inflation target."
+    },
+    {
+      "id": "5165291",
+      "time": "2026-10-24 04:35:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級確認智利A2評級，維持穩定展望。"
+    },
+    {
+      "id": "te:markets:594759",
+      "time": "2026-10-24 04:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.23% Lower — The Dow Jones Index fell 653 points or 1.23 percent on Friday to close at 52215 points. Leading the losses are American Express (-3.69%), Coca-Cola (-2.73%) and P&G (-2.66%)."
+    },
+    {
+      "id": "te:economy:594758",
+      "time": "2026-10-24 04:34:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Unemployment Rate",
+        "Importance 0"
+      ],
+      "text": "Uruguay Unemployment Rate Edged Lower in September — Uruguay’s unemployment rate inched down to 7.1% in September 2026 from 7.2% in August. By region, unemployment was equal in Montevideo and the interior, at 7.1%. The gender gap persisted, with female unemployment at 8.6%, compared with 5.8% for men. Unemployment varied significantly by age, reaching 21.6% among young people aged 14 to 24, the group facing the greatest difficulties entering the labor market. Regarding employment quality, underemployment stood at 8.8%, while the share of workers not registered with social security reached 21%. Both indicators remained broadly stable month-over-month."
+    },
+    {
+      "id": "5165288",
+      "time": "2026-10-24 04:33:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：Roadster的介面受戰鬥機駕駛艙啟發。"
+    },
     {
       "id": "mkt:01a16a75-95a3-7ee0-a960-53eb612cdc12",
       "time": "2026-10-24 04:30:53",
