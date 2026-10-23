@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-24 06:43:17",
-  "count": 13072,
+  "updated": "2026-10-24 06:47:13",
+  "count": 13069,
   "items": [
+    {
+      "id": "te:markets:594774",
+      "time": "2026-10-24 06:45:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Rises by 1.20% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.20% increase."
+    },
     {
       "id": "5165352",
       "time": "2026-10-24 06:40:53",
@@ -118446,42 +118457,6 @@
         "其他"
       ],
       "text": "沙特民防部門就海米斯穆謝特和艾卜哈的潛在危險發出警報。"
-    },
-    {
-      "id": "5150672",
-      "time": "2026-10-17 06:46:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "魯比奧：與馬那瓜臨時代辦鮑曼進行了富有成效的交談。"
-    },
-    {
-      "id": "5150671",
-      "time": "2026-10-17 06:45:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：我們的團隊期待在全球各地的Apple Store迎接顧客，讓他們親身體驗iPhone Duo以及出色的iPhone全系列產品。（該宣告重點說的是“線上”，未提門店是否有貨。）"
-    },
-    {
-      "id": "te:markets:592884",
-      "time": "2026-10-17 06:45:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Drops by 1.85% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -1.85% decrease."
-    },
-    {
-      "id": "5150670",
-      "time": "2026-10-17 06:44:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國交通部確認，已撤銷2025年一項禁止墨西哥航空公司在墨西哥城和聖露西亞機場之間開通新航班的命令。"
     }
   ]
 }
