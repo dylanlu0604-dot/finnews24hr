@@ -1,7 +1,19 @@
 {
   "date": "2026-10-24",
-  "count": 58,
+  "count": 59,
   "items": [
+    {
+      "id": "mkt:01a169be-1695-7ee0-a95d-fad2f04d5abe",
+      "time": "2026-10-24 01:10:27",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Report: Iran has detailed plan to strike Gulf undersea communications cables】Reuters: Two senior Iranian security officials said Iran has drawn up detailed plans to strike undersea communications cables in the Gulf if the US or Israel attacks, and could impede repairs to prolong outages. One official warned that if Iran is attacked \"there will be no red lines\", with submarine cables and military bases potentially at risk. The IRGC deputy for political affairs previously threatened strikes on seven main internet cables under the Strait of Hormuz, and a senior security official warned US-linked data centers and AI facilities in the Gulf could be targeted. Damage to cables could disrupt regional internet access, financial transactions, e‑commerce and cloud services. TeleGeography head of research Alan Mauldin said the Strait of Hormuz carries under 1% of global international bandwidth, so global impact is likely limited, but regional outages and wartime repair difficulties are material. The Red Sea is also a potential risk area, though Iran has not publicly said it would target cables there."
+    },
     {
       "id": "mkt:01a169ba-7a12-7ee0-a95d-f5d900046193",
       "time": "2026-10-24 01:06:30",

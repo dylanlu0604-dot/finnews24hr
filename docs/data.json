@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-24 01:07:16",
-  "count": 13195,
+  "updated": "2026-10-24 01:11:06",
+  "count": 13181,
   "items": [
+    {
+      "id": "mkt:01a169be-1695-7ee0-a95d-fad2f04d5abe",
+      "time": "2026-10-24 01:10:27",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Report: Iran has detailed plan to strike Gulf undersea communications cables】Reuters: Two senior Iranian security officials said Iran has drawn up detailed plans to strike undersea communications cables in the Gulf if the US or Israel attacks, and could impede repairs to prolong outages. One official warned that if Iran is attacked \"there will be no red lines\", with submarine cables and military bases potentially at risk. The IRGC deputy for political affairs previously threatened strikes on seven main internet cables under the Strait of Hormuz, and a senior security official warned US-linked data centers and AI facilities in the Gulf could be targeted. Damage to cables could disrupt regional internet access, financial transactions, e‑commerce and cloud services. TeleGeography head of research Alan Mauldin said the Strait of Hormuz carries under 1% of global international bandwidth, so global impact is likely limited, but regional outages and wartime repair difficulties are material. The Red Sea is also a potential risk area, though Iran has not publicly said it would target cables there."
+    },
     {
       "id": "mkt:01a169ba-7a12-7ee0-a95d-f5d900046193",
       "time": "2026-10-24 01:06:30",
@@ -119430,136 +119442,6 @@
         "國際"
       ],
       "text": "特朗普：拜登政府在烏克蘭問題上做了很多糟糕的事情。"
-    },
-    {
-      "id": "mkt:01a145b1-6c12-7ee0-a8c3-49f8f4960e3c",
-      "time": "2026-10-17 01:10:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Saudi Arabia welcomes support from Israel and the United States."
-    },
-    {
-      "id": "mkt:01a145b1-5418-7ee0-a8c3-4328b8da469b",
-      "time": "2026-10-17 01:10:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said the Biden administration has done many bad things on Ukraine."
-    },
-    {
-      "id": "mkt:01a145b1-2982-7ee0-a8c3-3fe190c813fc",
-      "time": "2026-10-17 01:10:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said White House press secretary Zakaria has been treated unfairly by the media."
-    },
-    {
-      "id": "5150428",
-      "time": "2026-10-17 01:09:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：俄羅斯柴油無法解決全球市場問題。"
-    },
-    {
-      "id": "mkt:01a145b0-b10c-7ee0-a8c3-358928c3f4e6",
-      "time": "2026-10-17 01:09:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "French President Macron said U.S. President Trump’s diesel deal is useless and has sown suspicion and confrontation."
-    },
-    {
-      "id": "5150427",
-      "time": "2026-10-17 01:09:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：沙烏地阿拉伯樂於獲得以色列和美國的支援。"
-    },
-    {
-      "id": "mkt:01a145b0-62ca-7ee0-a8c3-2bebf9bf42fb",
-      "time": "2026-10-17 01:09:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "President Trump said the Abraham Accords have again become an issue for Saudi Arabia."
-    },
-    {
-      "id": "5150426",
-      "time": "2026-10-17 01:09:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：特朗普的柴油協議沒有用處，只會引發質疑和反抗。"
-    },
-    {
-      "id": "mkt:01a145b0-345e-7ee0-a8c3-27b13a7db84b",
-      "time": "2026-10-17 01:08:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said Israel has provided substantial assistance to Saudi Arabia."
-    },
-    {
-      "id": "5150425",
-      "time": "2026-10-17 01:08:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：以色列對沙烏地阿拉伯一直很有幫助。"
-    },
-    {
-      "id": "mkt:01a145af-743f-7ee0-a8c3-1d4effa41713",
-      "time": "2026-10-17 01:08:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he knows details of the Russia-Ukraine conflict and will disclose them at some point, and added he hopes it ends."
-    },
-    {
-      "id": "5150424",
-      "time": "2026-10-17 01:08:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談澤連斯基和烏克蘭：我將在某個時候公佈細節。"
-    },
-    {
-      "id": "5150423",
-      "time": "2026-10-17 01:07:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "標普500指數跌1.00%，現報7666.240點；道指跌0.46%，現報51939.359點；納指跌1.86%，現報26216.172點。"
-    },
-    {
-      "id": "mkt:01a145ae-fff4-7ee0-a8c3-15308f83c234",
-      "time": "2026-10-17 01:07:38",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "S&P 500 losses widen to 1%."
-    },
-    {
-      "id": "5150422",
-      "time": "2026-10-17 01:07:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談澤連斯基：我希望那場衝突結束。"
     }
   ]
 }
