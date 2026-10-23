@@ -1,7 +1,142 @@
 {
   "date": "2026-10-24",
-  "count": 39,
+  "count": 53,
   "items": [
+    {
+      "id": "mkt:01a169b5-e06d-7ee0-a95d-d374b0eb909f",
+      "time": "2026-10-24 01:01:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US natural gas rigs totaled 132 in the week to Oct. 23, down from 133 the previous week."
+    },
+    {
+      "id": "mkt:01a169b5-d441-7ee0-a95d-cb33e804a5df",
+      "time": "2026-10-24 01:01:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US total rig count for week ending Oct 23: 603 rigs, unchanged from prior 603."
+    },
+    {
+      "id": "mkt:01a169b5-c9aa-7ee0-a95d-c05da33c821d",
+      "time": "2026-10-24 01:01:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Oct.23) | actual 132 | previous 133"
+    },
+    {
+      "id": "mkt:01a169b5-ba8c-7ee0-a95d-b9c439fa0eca",
+      "time": "2026-10-24 01:01:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Oct.23) | actual 603 | previous 603"
+    },
+    {
+      "id": "mkt:01a169b5-ab6f-7ee0-a95d-b73501ff9574",
+      "time": "2026-10-24 01:01:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "US oil rigs totaled 460 in the week to Oct. 23, up from 459 the previous week."
+    },
+    {
+      "id": "mkt:01a169b5-927b-7ee0-a95d-a8df350b30ff",
+      "time": "2026-10-24 01:01:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Oct.23) | actual 460 | previous 459"
+    },
+    {
+      "id": "5165107",
+      "time": "2026-10-24 01:01:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國10月23日當週石油鑽井數 460，前值 459。\n美國10月23日當週天然氣鑽井數 132，前值 133。\n美國10月23日當週總鑽井數 603，前值 603。"
+    },
+    {
+      "id": "5165106",
+      "time": "2026-10-24 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲1.34%，滬銅收漲0.99%，滬鋁收漲1.62%，滬鋅收漲1.34%，滬鉛收漲0.09%，滬鎳收跌0.55%，滬錫收漲2.18%。氧化鋁夜盤收跌0.51%，鋁合金收漲1.74%。不鏽鋼夜盤收平。"
+    },
+    {
+      "id": "mkt:01a169b4-8a5f-7ee0-a95d-a3da4712bfd0",
+      "time": "2026-10-24 01:00:01",
+      "tags": [
+        "MKT News",
+        "BP.O",
+        "Impact bullish"
+      ],
+      "text": "BP reached an agreement with the state of Louisiana to settle the \"Deepwater Horizon\" dispute."
+    },
+    {
+      "id": "5165105",
+      "time": "2026-10-24 00:58:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國石油公司與美國路易斯安那州就“深水地平線”號糾紛達成一致意見。"
+    },
+    {
+      "id": "5165104",
+      "time": "2026-10-24 00:56:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【分析師：SK海力士放棄Solidigm美國IPO計劃，或利好美光科技和閃迪】LYNX Equity Strategies分析師KC Rajkumar團隊10月23日表示，SK海力士放棄旗下Solidigm在美國首次公開募股（IPO）的計劃，可能利好美光科技和閃迪，原因是這一決定降低了未來全球NAND快閃記憶體供應過剩的風險。該機構指出，Solidigm原本計劃透過美國上市融資，支援在美國擴大NAND製造產能，潛在專案可能由SK海力士與英特爾合資建設，選址包括英特爾俄亥俄州園區。新增產能預計將在三年或更長時間後進入市場，可能增加全球NAND供應並壓低價格。隨著IPO計劃取消，相關擴產專案失去潛在融資來源，有助於緩解市場對未來產能增長的擔憂。LYNX認為，這通常對美光和閃迪的產品定價及估值構成明顯利好，但當前市場環境可能限制股價上漲空間；英特爾則可能因失去潛在製造專案而受到小幅負面影響。"
+    },
+    {
+      "id": "5165103",
+      "time": "2026-10-24 00:55:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國長端國債收益率本週跌約個基點】週五（10月23日）歐市尾盤，英國10年期國債收益率漲3.1個基點，報5.356%，本週累計下跌1.7個基點，10月20日美股盤前曾漲至5.449%，隨後持續下挫、23日歐股盤初跌至5.310%。兩年期英債收益率累漲3.6個基點，報4.913%。30年期英債收益率累跌8.7個基點，報5.757%；50年期英債收益率累跌9.6個基點，報5.164%。2/10年期英債收益率利差累跌5.058個基點，報+44.257個基點。"
+    },
+    {
+      "id": "mkt:01a169af-fcc2-7ee0-a95d-99a057927a78",
+      "time": "2026-10-24 00:55:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "According to Refinitiv, two senior Iranian security officials said Iran has drawn up detailed plans to target undersea communications cables in the Gulf if the US and Israel strike Iran again."
+    },
+    {
+      "id": "5165102",
+      "time": "2026-10-24 00:54:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官員稱，伊朗已擬定詳細方案，一旦戰火重燃，將打擊海灣海底電纜。"
+    },
     {
       "id": "5165101",
       "time": "2026-10-24 00:53:08",

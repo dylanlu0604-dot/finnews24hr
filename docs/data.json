@@ -1,7 +1,142 @@
 {
-  "updated": "2026-10-24 00:55:18",
-  "count": 13217,
+  "updated": "2026-10-24 01:03:23",
+  "count": 13199,
   "items": [
+    {
+      "id": "mkt:01a169b5-e06d-7ee0-a95d-d374b0eb909f",
+      "time": "2026-10-24 01:01:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US natural gas rigs totaled 132 in the week to Oct. 23, down from 133 the previous week."
+    },
+    {
+      "id": "mkt:01a169b5-d441-7ee0-a95d-cb33e804a5df",
+      "time": "2026-10-24 01:01:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US total rig count for week ending Oct 23: 603 rigs, unchanged from prior 603."
+    },
+    {
+      "id": "mkt:01a169b5-c9aa-7ee0-a95d-c05da33c821d",
+      "time": "2026-10-24 01:01:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Oct.23) | actual 132 | previous 133"
+    },
+    {
+      "id": "mkt:01a169b5-ba8c-7ee0-a95d-b9c439fa0eca",
+      "time": "2026-10-24 01:01:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Oct.23) | actual 603 | previous 603"
+    },
+    {
+      "id": "mkt:01a169b5-ab6f-7ee0-a95d-b73501ff9574",
+      "time": "2026-10-24 01:01:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "US oil rigs totaled 460 in the week to Oct. 23, up from 459 the previous week."
+    },
+    {
+      "id": "mkt:01a169b5-927b-7ee0-a95d-a8df350b30ff",
+      "time": "2026-10-24 01:01:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Oct.23) | actual 460 | previous 459"
+    },
+    {
+      "id": "5165107",
+      "time": "2026-10-24 01:01:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國10月23日當週石油鑽井數 460，前值 459。\n美國10月23日當週天然氣鑽井數 132，前值 133。\n美國10月23日當週總鑽井數 603，前值 603。"
+    },
+    {
+      "id": "5165106",
+      "time": "2026-10-24 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲1.34%，滬銅收漲0.99%，滬鋁收漲1.62%，滬鋅收漲1.34%，滬鉛收漲0.09%，滬鎳收跌0.55%，滬錫收漲2.18%。氧化鋁夜盤收跌0.51%，鋁合金收漲1.74%。不鏽鋼夜盤收平。"
+    },
+    {
+      "id": "mkt:01a169b4-8a5f-7ee0-a95d-a3da4712bfd0",
+      "time": "2026-10-24 01:00:01",
+      "tags": [
+        "MKT News",
+        "BP.O",
+        "Impact bullish"
+      ],
+      "text": "BP reached an agreement with the state of Louisiana to settle the \"Deepwater Horizon\" dispute."
+    },
+    {
+      "id": "5165105",
+      "time": "2026-10-24 00:58:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國石油公司與美國路易斯安那州就“深水地平線”號糾紛達成一致意見。"
+    },
+    {
+      "id": "5165104",
+      "time": "2026-10-24 00:56:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【分析師：SK海力士放棄Solidigm美國IPO計劃，或利好美光科技和閃迪】LYNX Equity Strategies分析師KC Rajkumar團隊10月23日表示，SK海力士放棄旗下Solidigm在美國首次公開募股（IPO）的計劃，可能利好美光科技和閃迪，原因是這一決定降低了未來全球NAND快閃記憶體供應過剩的風險。該機構指出，Solidigm原本計劃透過美國上市融資，支援在美國擴大NAND製造產能，潛在專案可能由SK海力士與英特爾合資建設，選址包括英特爾俄亥俄州園區。新增產能預計將在三年或更長時間後進入市場，可能增加全球NAND供應並壓低價格。隨著IPO計劃取消，相關擴產專案失去潛在融資來源，有助於緩解市場對未來產能增長的擔憂。LYNX認為，這通常對美光和閃迪的產品定價及估值構成明顯利好，但當前市場環境可能限制股價上漲空間；英特爾則可能因失去潛在製造專案而受到小幅負面影響。"
+    },
+    {
+      "id": "5165103",
+      "time": "2026-10-24 00:55:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國長端國債收益率本週跌約個基點】週五（10月23日）歐市尾盤，英國10年期國債收益率漲3.1個基點，報5.356%，本週累計下跌1.7個基點，10月20日美股盤前曾漲至5.449%，隨後持續下挫、23日歐股盤初跌至5.310%。兩年期英債收益率累漲3.6個基點，報4.913%。30年期英債收益率累跌8.7個基點，報5.757%；50年期英債收益率累跌9.6個基點，報5.164%。2/10年期英債收益率利差累跌5.058個基點，報+44.257個基點。"
+    },
+    {
+      "id": "mkt:01a169af-fcc2-7ee0-a95d-99a057927a78",
+      "time": "2026-10-24 00:55:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "According to Refinitiv, two senior Iranian security officials said Iran has drawn up detailed plans to target undersea communications cables in the Gulf if the US and Israel strike Iran again."
+    },
+    {
+      "id": "5165102",
+      "time": "2026-10-24 00:54:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官員稱，伊朗已擬定詳細方案，一旦戰火重燃，將打擊海灣海底電纜。"
+    },
     {
       "id": "5165101",
       "time": "2026-10-24 00:53:08",
@@ -119452,295 +119587,6 @@
         "國際"
       ],
       "text": "特朗普政府釋出限制措施，禁止未經授權的無人機在美墨邊境飛行。"
-    },
-    {
-      "id": "5150416",
-      "time": "2026-10-17 01:03:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：不知道“星盾”命令是誰下達的，不是我們。"
-    },
-    {
-      "id": "mkt:01a145aa-8bb4-7ee0-a8c2-e966f5aef64b",
-      "time": "2026-10-17 01:02:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "President Trump said oil prices will fall soon in comments on inflation."
-    },
-    {
-      "id": "mkt:01a145aa-4259-7ee0-a8c2-e2e17a2e0ca6",
-      "time": "2026-10-17 01:02:28",
-      "tags": [
-        "MKT News",
-        "WTI"
-      ],
-      "text": "Baker Hughes said the US rig count was unchanged this week."
-    },
-    {
-      "id": "5150415",
-      "time": "2026-10-17 01:02:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟理事會主席科斯塔：歐盟領導人已要求歐盟委員會提出提案，以解決烏克蘭2027年的額外融資需求。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202610173898777946",
-      "time": "2026-10-17 01:02:10",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國至10月16日當週石油鑽井總數報459口，前值462口。"
-    },
-    {
-      "id": "mkt:01a145a9-f94c-7ee0-a8c2-dcb3c958bc49",
-      "time": "2026-10-17 01:02:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "COSTA said EU leaders asked the European Commission to draw up proposals to address Ukraine's additional financing needs in 2027."
-    },
-    {
-      "id": "5150414",
-      "time": "2026-10-17 01:01:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至10月16日當週石油鑽井總數 459口，前值462口。\n美國至10月16日當週天然氣鑽井總數 133口，前值132口。\n美國至10月16日當週總鑽井總數 603口，前值603口。"
-    },
-    {
-      "id": "mkt:01a145a9-c8ee-7ee0-a8c2-d06aacd4b694",
-      "time": "2026-10-17 01:01:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI"
-      ],
-      "text": "U.S. total rigs for the week to Oct. 16: 603 rigs, unchanged from 603 the prior week."
-    },
-    {
-      "id": "mkt:01a145a9-adb0-7ee0-a8c2-c86cae7ce42e",
-      "time": "2026-10-17 01:01:50",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Rig Count (Oct.16) | actual 603 | previous 603"
-    },
-    {
-      "id": "mkt:01a145a9-9a4b-7ee0-a8c2-c496da7f166c",
-      "time": "2026-10-17 01:01:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "US natural gas rigs totaled 133 in the week to Oct. 16, up from 132 the prior week."
-    },
-    {
-      "id": "mkt:01a145a9-8419-7ee0-a8c2-bd01fb51357a",
-      "time": "2026-10-17 01:01:39",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Natural Gas Rig Count (Oct.16) | actual 133 | previous 132"
-    },
-    {
-      "id": "mkt:01a145a9-7c9b-7ee0-a8c2-b0f9c3a763ca",
-      "time": "2026-10-17 01:01:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US oil rigs totaled 459 in the week to Oct. 16, down from 462 a week earlier."
-    },
-    {
-      "id": "5150413",
-      "time": "2026-10-17 01:01:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：必須保護化學品和塑膠免受不公平競爭。"
-    },
-    {
-      "id": "mkt:01a145a9-6789-7ee0-a8c2-adc9348d2ca4",
-      "time": "2026-10-17 01:01:32",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Oil Rig Count (Oct.16) | actual 459 | previous 462"
-    },
-    {
-      "id": "5150412",
-      "time": "2026-10-17 01:01:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟理事會主席科斯塔：俄羅斯的行動表明局勢可能升級。"
-    },
-    {
-      "id": "5150411",
-      "time": "2026-10-17 01:00:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普談通脹：油價即將下跌。"
-    },
-    {
-      "id": "mkt:01a145a8-aa46-7ee0-a8c2-a51eacf1214f",
-      "time": "2026-10-17 01:00:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Council President Costa said negotiations on the EU budget need to be completed by end-2026."
-    },
-    {
-      "id": "5150410",
-      "time": "2026-10-17 01:00:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：為馬斯克和特斯拉Roadster感到非常高興。"
-    },
-    {
-      "id": "5150409",
-      "time": "2026-10-17 01:00:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談“星盾”：完全沒有放慢進度。"
-    },
-    {
-      "id": "5150408",
-      "time": "2026-10-17 01:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.12%，滬銅收跌0.03%，滬鋁收漲0.50%，滬鋅收漲0.63%，滬鉛收跌0.12%，滬鎳收漲0.81%，滬錫收跌0.37%。氧化鋁夜盤收漲1.00%，鋁合金收漲0.37%。不鏽鋼夜盤收漲0.42%。"
-    },
-    {
-      "id": "mkt:01a145a7-ec95-7ee0-a8c2-9a6f7ed5b55d",
-      "time": "2026-10-17 00:59:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Council President Costa said EU member states are fully united on trade strategy."
-    },
-    {
-      "id": "5150407",
-      "time": "2026-10-17 00:59:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟理事會主席科斯塔：需要在2026年底前完成歐盟預算談判。"
-    },
-    {
-      "id": "5150406",
-      "time": "2026-10-17 00:59:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普就星鏈限速一事表態：不是我做的。"
-    },
-    {
-      "id": "5150405",
-      "time": "2026-10-17 00:59:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟理事會主席科斯塔：歐盟責成歐委會強化貿易工具庫。"
-    },
-    {
-      "id": "mkt:01a145a7-06e4-7ee0-a8c2-96bed3473f0c",
-      "time": "2026-10-17 00:58:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Council President Costa said EU member states are fully aligned on trade strategy."
-    },
-    {
-      "id": "5150404",
-      "time": "2026-10-17 00:58:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟理事會主席科斯塔：歐盟成員國在貿易戰略上完全一致。"
-    },
-    {
-      "id": "mkt:01a145a6-e007-7ee0-a8c2-8e8ba0394cbc",
-      "time": "2026-10-17 00:58:46",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Houthis accuse Saudi Arabia of using cluster munitions in Yemen strike; 3 killed, 9 injured】On Oct 16 local time the Houthi movement said Saudi Arabia used cluster munitions in a nighttime airstrike on Zamar province, killing three and wounding nine. Saudi authorities had no immediate comment."
-    },
-    {
-      "id": "5150403",
-      "time": "2026-10-17 00:57:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟理事會主席科斯塔：歐盟將於 2 月舉辦聚焦歐盟競爭力的非正式峰會。"
-    },
-    {
-      "id": "5150402",
-      "time": "2026-10-17 00:56:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破101美元/桶，日內漲3.09%。"
-    },
-    {
-      "id": "5150401",
-      "time": "2026-10-17 00:56:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：歐盟需要將協議範圍擴大至塑膠、化學品和鐵合金。"
-    },
-    {
-      "id": "mkt:01a145a4-77f8-7ee0-a8c2-862a8ef560ac",
-      "time": "2026-10-17 00:56:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "French President Macron said the EU needs to extend the agreement to include plastics, chemicals and ferroalloys."
-    },
-    {
-      "id": "5150400",
-      "time": "2026-10-17 00:56:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "恐慌指數VIX波動率日內漲幅達11.0%，報18.29；標普500指數目前跌超0.7%。道指跌120點，跌幅超過0.2%，納指跌超1.5%，生物科技指數跌2.3%，半導體指數跌2.1%，羅素2000指數跌1.2%，特斯拉跌2%。"
     }
   ]
 }
