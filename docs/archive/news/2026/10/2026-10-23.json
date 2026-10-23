@@ -1,7 +1,120 @@
 {
   "date": "2026-10-23",
-  "count": 1313,
+  "count": 1325,
   "items": [
+    {
+      "id": "5163540",
+      "time": "2026-10-23 14:33:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "靛藍航空：往返吉達、達曼和麥地那的航班將繼續取消，直至2026年10月27日。"
+    },
+    {
+      "id": "5163539",
+      "time": "2026-10-23 14:33:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "靛藍航空：往返利雅得的靛藍航班將繼續取消至2026年10月31日。"
+    },
+    {
+      "id": "5163538",
+      "time": "2026-10-23 14:32:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "MSCI亞太指數抹平此前最高1.1%的跌幅。"
+    },
+    {
+      "id": "5163537",
+      "time": "2026-10-23 14:31:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲3%，現報3302.00元。"
+    },
+    {
+      "id": "5163536",
+      "time": "2026-10-23 14:31:34",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日韓股市收盤】日經225指數收盤下跌214.68點，跌幅0.34%，報62693.16點。韓國KOSPI指數收盤上漲16.53點，漲幅0.3%，報5550.3點。SK海力士收漲4.41%，三星電子漲0.46%。"
+    },
+    {
+      "id": "5163535",
+      "time": "2026-10-23 14:30:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "極氪7X在韓國正式開啟交付。"
+    },
+    {
+      "id": "5163534",
+      "time": "2026-10-23 14:30:43",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "【兩隻主動ETF一日售罄 易方達與摩根募集規模雙雙達到20億】主動ETF首日發行，已有產品觸及首募上限。截至今天下午2點30分，摩根基金、易方達基金的募集規模已觸及20億元的首批主動ETF首募上限，富國基金的募集規模也達到15億元。發售首日，首批18主動ETF的合計募集規模應超百億。"
+    },
+    {
+      "id": "te:markets:594520",
+      "time": "2026-10-23 14:30:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Poised to Open Higher — European equity markets were set to open slightly higher on Friday following a sharp decline in the previous session, as investors continued to evaluate the outlook for AI investments. Global equities came under heavy selling pressure on Thursday amid growing concerns over the sustainability of massive AI spending, prompting investors to seek the relative safety of bonds. Rising oil prices, driven by escalating tensions in the Middle East, also kept market sentiment cautious. In Europe, attention will turn to UK retail sales figures and preliminary manufacturing and services activity data from across the region. On the corporate front, Italian energy giant Eni announced plans to increase shareholder returns as the conflict in the Middle East pushed energy prices higher, while Swedish automaker Volvo reported solid third-quarter earnings, supported by improving demand in North America and Europe. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures both gained around 0.1%."
+    },
+    {
+      "id": "te:markets:594519",
+      "time": "2026-10-23 14:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.48% Lower — The Nikkei 225 Index fell 304 points or 0.48 percent on Friday to close at 62604 points. Leading the losses are Murata Manufacturing (-5.72%), TDK (-5.70%) and Takara (-5.23%). Top gainers were AEON (4.51%), Shiseido (3.98%) and Sapporo (2.97%)."
+    },
+    {
+      "id": "5163533",
+      "time": "2026-10-23 14:29:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遠也科技推出兩款消費級髖關節外骨骼，計劃明年1月上市】10月23日，遠也科技在2026⻄岸國際科技消費嘉年華（WTCC）上，釋出並首次展示兩款消費級髖關節外骨骼PowrGo H1和PowrGo H1 Ultra，分別面向日常出行和⾼效能戶外運動場景。兩款產品計劃於2027年1月1日上市，屆時將同步拓展國內外銷售渠道。"
+    },
+    {
+      "id": "te:markets:594518",
+      "time": "2026-10-23 14:29:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Ends Flat, Posts First Weekly Loss in 4 Weeks — The ASX 200 closed nearly flat at 8,795 on Friday, reversing a modest decline in the prior session as traders assessed flash PMI data showing a further contraction in Australian factory activity and a deeper downturn in services in October. Meanwhile, U.S. stock futures fell after the Nasdaq posted its steepest daily decline since June Thursday, as high-profile earnings reignited concerns over AI spending. BHP Group tumbled 3.6% amid a sharp drop in copper production and regulatory concerns over Chinese trade agreements. Goodman Group also shed 3.6% amid mounting regulatory scrutiny and concerns over power-grid capacity for Australia's data center infrastructure. In contrast, the four major banks rose between 0.9%–4.4%, benefiting from a defensive rotation away from materials and tech stocks. For the week, the index eased 0.1%, snapping three straight weekly rises, on concerns over a potential fifth interest rate hike this year following hawkish comments from RBA Deputy Gov. Hauser."
+    },
+    {
+      "id": "5163532",
+      "time": "2026-10-23 14:29:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果近期申請註冊iPhone Duo商標】據媒體報道，10月23日，蘋果首款摺疊屏手機iPhone Duo正式開售。天眼查智慧財產權資訊顯示，近日，APPLE INC.（即蘋果公司）申請註冊“IPHONE DUO”商標，國際分類為科學儀器，當前商標狀態為等待實質審查。"
+    },
     {
       "id": "5163531",
       "time": "2026-10-23 14:29:39",

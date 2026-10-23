@@ -1,7 +1,120 @@
 {
-  "updated": "2026-10-23 14:30:14",
-  "count": 13261,
+  "updated": "2026-10-23 14:34:11",
+  "count": 13264,
   "items": [
+    {
+      "id": "5163540",
+      "time": "2026-10-23 14:33:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "靛藍航空：往返吉達、達曼和麥地那的航班將繼續取消，直至2026年10月27日。"
+    },
+    {
+      "id": "5163539",
+      "time": "2026-10-23 14:33:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "靛藍航空：往返利雅得的靛藍航班將繼續取消至2026年10月31日。"
+    },
+    {
+      "id": "5163538",
+      "time": "2026-10-23 14:32:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "MSCI亞太指數抹平此前最高1.1%的跌幅。"
+    },
+    {
+      "id": "5163537",
+      "time": "2026-10-23 14:31:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲3%，現報3302.00元。"
+    },
+    {
+      "id": "5163536",
+      "time": "2026-10-23 14:31:34",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日韓股市收盤】日經225指數收盤下跌214.68點，跌幅0.34%，報62693.16點。韓國KOSPI指數收盤上漲16.53點，漲幅0.3%，報5550.3點。SK海力士收漲4.41%，三星電子漲0.46%。"
+    },
+    {
+      "id": "5163535",
+      "time": "2026-10-23 14:30:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "極氪7X在韓國正式開啟交付。"
+    },
+    {
+      "id": "5163534",
+      "time": "2026-10-23 14:30:43",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "【兩隻主動ETF一日售罄 易方達與摩根募集規模雙雙達到20億】主動ETF首日發行，已有產品觸及首募上限。截至今天下午2點30分，摩根基金、易方達基金的募集規模已觸及20億元的首批主動ETF首募上限，富國基金的募集規模也達到15億元。發售首日，首批18主動ETF的合計募集規模應超百億。"
+    },
+    {
+      "id": "te:markets:594520",
+      "time": "2026-10-23 14:30:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Poised to Open Higher — European equity markets were set to open slightly higher on Friday following a sharp decline in the previous session, as investors continued to evaluate the outlook for AI investments. Global equities came under heavy selling pressure on Thursday amid growing concerns over the sustainability of massive AI spending, prompting investors to seek the relative safety of bonds. Rising oil prices, driven by escalating tensions in the Middle East, also kept market sentiment cautious. In Europe, attention will turn to UK retail sales figures and preliminary manufacturing and services activity data from across the region. On the corporate front, Italian energy giant Eni announced plans to increase shareholder returns as the conflict in the Middle East pushed energy prices higher, while Swedish automaker Volvo reported solid third-quarter earnings, supported by improving demand in North America and Europe. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures both gained around 0.1%."
+    },
+    {
+      "id": "te:markets:594519",
+      "time": "2026-10-23 14:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.48% Lower — The Nikkei 225 Index fell 304 points or 0.48 percent on Friday to close at 62604 points. Leading the losses are Murata Manufacturing (-5.72%), TDK (-5.70%) and Takara (-5.23%). Top gainers were AEON (4.51%), Shiseido (3.98%) and Sapporo (2.97%)."
+    },
+    {
+      "id": "5163533",
+      "time": "2026-10-23 14:29:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遠也科技推出兩款消費級髖關節外骨骼，計劃明年1月上市】10月23日，遠也科技在2026⻄岸國際科技消費嘉年華（WTCC）上，釋出並首次展示兩款消費級髖關節外骨骼PowrGo H1和PowrGo H1 Ultra，分別面向日常出行和⾼效能戶外運動場景。兩款產品計劃於2027年1月1日上市，屆時將同步拓展國內外銷售渠道。"
+    },
+    {
+      "id": "te:markets:594518",
+      "time": "2026-10-23 14:29:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Ends Flat, Posts First Weekly Loss in 4 Weeks — The ASX 200 closed nearly flat at 8,795 on Friday, reversing a modest decline in the prior session as traders assessed flash PMI data showing a further contraction in Australian factory activity and a deeper downturn in services in October. Meanwhile, U.S. stock futures fell after the Nasdaq posted its steepest daily decline since June Thursday, as high-profile earnings reignited concerns over AI spending. BHP Group tumbled 3.6% amid a sharp drop in copper production and regulatory concerns over Chinese trade agreements. Goodman Group also shed 3.6% amid mounting regulatory scrutiny and concerns over power-grid capacity for Australia's data center infrastructure. In contrast, the four major banks rose between 0.9%–4.4%, benefiting from a defensive rotation away from materials and tech stocks. For the week, the index eased 0.1%, snapping three straight weekly rises, on concerns over a potential fifth interest rate hike this year following hawkish comments from RBA Deputy Gov. Hauser."
+    },
+    {
+      "id": "5163532",
+      "time": "2026-10-23 14:29:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果近期申請註冊iPhone Duo商標】據媒體報道，10月23日，蘋果首款摺疊屏手機iPhone Duo正式開售。天眼查智慧財產權資訊顯示，近日，APPLE INC.（即蘋果公司）申請註冊“IPHONE DUO”商標，國際分類為科學儀器，當前商標狀態為等待實質審查。"
+    },
     {
       "id": "5163531",
       "time": "2026-10-23 14:29:39",
@@ -120287,84 +120400,6 @@
         "日本央行"
       ],
       "text": "【日本央行行長：將繼續根據經濟和物價情況加息】日本央行行長植田和男表示，將繼續根據經濟和物價情況加息，把價格走勢穩定在2%左右變得越來越重要。"
-    },
-    {
-      "id": "5149206",
-      "time": "2026-10-16 14:33:06",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【三部門：分類完善養老服務價格形成機制，滿足多層次多樣化服務需求】發改委等三部門釋出《進一步完善價格形成機制 推動普惠養老服務提質擴面的指導意見》，將養老機構劃分為兜底保障型、普惠支援型、完全市場型三類。養老機構收費包括基本服務費、非基本服務費、上門服務費。其中，基本服務費指養老機構向入住老人收取的床位費、護理費；非基本服務費指養老機構在基本服務費外，向入住老人收取或代收的餐費等其他費用；上門服務費指養老機構為居家老人提供上門服務收取的費用。區分養老機構型別和服務型別，分別實行不同的收費管理方式，其中，實行政府指導價管理的，由省級發展改革部門會同行業主管部門制定基準收費標準和浮動幅度，或經省級人民政府授權地級及以上人民政府制定。"
-    },
-    {
-      "id": "5149205",
-      "time": "2026-10-16 14:32:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：金融環境依然寬鬆。"
-    },
-    {
-      "id": "5149204",
-      "time": "2026-10-16 14:32:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國郵政儲蓄銀行原副行長曲家文接受審查調查】中央紀委國家監委網站10月16日通報，據中央紀委國家監委駐中國郵政集團有限公司紀檢監察組、河北省紀委監委訊息：中國郵政儲蓄銀行原黨委委員、副行長曲家文涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國郵政集團有限公司紀檢監察組紀律審查和河北省監委監察調查。"
-    },
-    {
-      "id": "5149203",
-      "time": "2026-10-16 14:32:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【10月16日：“農產品批發價格200指數”比昨天下降0.44個點】據農業農村部監測，10月16日“農產品批發價格200指數”為112.88，比昨天下降0.44個點，“菜籃子”產品批發價格指數為112.75，比昨天下降0.44個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.70元/公斤，比昨天下降0.6%；牛肉73.61元/公斤，比昨天上升0.7%；羊肉67.82元/公斤，比昨天上升0.2%；雞蛋9.61元/公斤，比昨天下降0.9%；白條雞17.26元/公斤，比昨天上升0.9%。重點監測的28種蔬菜平均價格為4.31元/公斤，比昨天上升0.2%；重點監測的6種水果平均價格為6.66元/公斤，與昨天持平。鯽魚19.43元/公斤，比昨天下降1.3%；鯉魚13.91元/公斤，比昨天下降0.4%；白鰱魚10.09元/公斤，比昨天上升0.3%；大帶魚41.62元/公斤，比昨天下降0.6%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是芹菜、西葫蘆、大白菜、南瓜和茄子，幅度分別為2.7%、2.1%、2.0%、1.3%和1.2%；價格降幅前五名的是巨峰葡萄、鯽魚、平菇、油菜和大蔥，幅度分別為1.6%、1.3%、1.3%、1.2%和0.9%。"
-    },
-    {
-      "id": "5149202",
-      "time": "2026-10-16 14:31:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：將價格走勢穩定在2%左右變得越來越重要。"
-    },
-    {
-      "id": "5149201",
-      "time": "2026-10-16 14:31:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第140屆廣交會採購商聯盟正式成立 創新服務模式】第140屆廣交會迎來一項重要的貿易促進舉措，就是廣交會採購商聯盟正式成立。這項全新機制瞄準全球頭部採購主體，推動展會服務從簡單的接待保障，邁向多方協同、價值共創的新階段。廣交會採購商聯盟在15日舉辦成立儀式。記者在現場瞭解到，聯盟主要面向世界500強、全球零售250強以及各國重點頭部採購商，精準提供專屬服務。目前，已有58家來自全球32個國家和地區的企業確認加入。據瞭解，採購商聯盟將搭建起常態化的溝通平臺，推動成員之間開展資訊互通、資源共享，以互信夯實長期貿易關係。依託聯盟平臺，頭部採購商之間、採購商與廣交會之間可以建立更加穩定的聯絡渠道，挖掘更多跨境合作機遇。（央視新聞）"
-    },
-    {
-      "id": "5149200",
-      "time": "2026-10-16 14:31:12",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【日韓股市集體收漲】日經225指數收漲1.39%，報65324.29點。韓國綜指收漲2.05%，報5668.04點；該指數本週下跌14.5%，為2008年10月以來最大周度跌幅。"
-    },
-    {
-      "id": "5149199",
-      "time": "2026-10-16 14:31:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行植田和男：將繼續根據經濟和物價情況加息。"
-    },
-    {
-      "id": "5149198",
-      "time": "2026-10-16 14:30:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "深陷醜聞的安全氣囊製造商高田前執行長去世，享年60歲。"
     }
   ]
 }
