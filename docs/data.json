@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-24 00:18:33",
-  "count": 13248,
+  "updated": "2026-10-24 00:22:20",
+  "count": 13240,
   "items": [
+    {
+      "id": "mkt:01a1698f-1473-7ee0-a95d-6d2bbb6f235a",
+      "time": "2026-10-24 00:19:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy confirms Russia–US–Ukraine tripartite talks planned for early November】On Oct. 23 Ukrainian President Zelenskiy said after phone calls with U.S. presidential envoy Witkoff and Jared Kushner that meetings with Russia and the United States are scheduled for the first half of November and that Kyiv is willing to meet on any day. Russian presidential press secretary Dmitry Peskov said on Oct. 23 the three-way talks on Russia–Ukraine security guarantees will begin in Abu Dhabi in the first half of November; the tripartite format is under discussion and European participation has not been ruled out."
+    },
     {
       "id": "5165089",
       "time": "2026-10-24 00:17:17",
@@ -119976,96 +119984,6 @@
         "MKT News"
       ],
       "text": "【US Justice Department sues California over voter eligibility ahead of midterms】With Nov. 3 midterms approaching, the U.S. Justice Department on Oct. 15 sued California election officials, asking a court to suspend counting of more than 20,000 mail ballots pending verification of voters' citizenship, saying those individuals may be ineligible. California disputed the accuracy of the list and the legal basis for federal intervention in state election administration. The case highlights a federal-state confrontation over voter eligibility ahead of the midterms."
-    },
-    {
-      "id": "mkt:01a14585-5f18-7ee0-a8c1-ebe6f05c69e7",
-      "time": "2026-10-17 00:22:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Romania's finance ministry said the consolidated budget deficit stood at 3.82% of GDP at end-September, down from 5.39% in the same period of 2025."
-    },
-    {
-      "id": "mkt:01a14584-d380-7ee0-a8c1-e594374f19ae",
-      "time": "2026-10-17 00:21:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude up 2.00% intraday at $106.15/bbl."
-    },
-    {
-      "id": "5150383",
-      "time": "2026-10-17 00:21:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美司法部起訴加州】11月3日中期選舉臨近，美國兩黨圍繞選民身份審查、選舉結果認可等爭鬥接連出現。當地時間10月15日，美國司法部正式起訴加利福尼亞州選舉官員，要求在核實公民身份之前，暫緩統計涉及兩萬多名選民的郵寄選票——司法部認為，這些人可能“不具備投票資格”。而加州方面則質疑相關名單的準確性以及聯邦政府幹預州選舉管理的法律依據。一場圍繞選民資格的爭議將聯邦政府與民主黨主政的加州之間的對立展現了出來。（CCTV國際時訊）"
-    },
-    {
-      "id": "5150382",
-      "time": "2026-10-17 00:20:33",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "羅馬尼亞財政部：截至 9 月底，羅馬尼亞綜合預算赤字佔國內生產總值比重為 3.82%，2025 年 9 月該數值為 5.39%。"
-    },
-    {
-      "id": "te:markets:592856",
-      "time": "2026-10-17 00:20:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Close HIgher — European stocks closed higher on Friday with broad support from all major sectors as markets continued to gauge positive earnings prospects against risks of high inflation. The Euro STOXX 50 added 0.6% to 6,204 and the STOXX Europe 600 rose for a fifth session in six, gaining 0.7% to 644. Banks closed sharply higher as bond yields held their sharp declines from the previous session, easing borrowing costs for debtors. ING and Deutsche Bank rose 1.5%. Also, UniCredit jumped 1.4% as the ECB approved an increase in the Italian lender's stake in Commerzbank, paving the way for an imminent takeover. Meanwhile, AI infrastructure stocks rebounded despite further pressure from the sector's selloff in the US, with ASML adding 1% and Siemens Energy jumping 2%. The Euro STOXX 50 added 0.4% and the STOXX Europe 600 jumped 2.0% on the week."
-    },
-    {
-      "id": "5150381",
-      "time": "2026-10-17 00:19:33",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國財政部徵詢一級交易商：應考慮哪些拍賣調整】美國財政部在其對一級交易商的季度調查中徵詢各方意見，詢問鑑於“投資者需求的結構性變化以及對需求中期演變路徑的預期”，未來應考慮對拍賣規模作出哪些調整。調查還詢問了更大規模的長期國債回購對流動性和市場執行的影響，包括：更大規模回購如何影響交易商中介資金流動的能力？在上述調整後，客戶直接或間接參與回購的興趣是否發生變化？財政部還應考慮哪些額外調整，以提升回購計劃的有效性？此外，交易商還被問及財政部是否應調整其出售短期國庫券和浮息票據的做法，避免在聯邦公開市場委員會會議日進行發售。10年期美債收益率重新漲6.3個基點，收復5.12%；10年期美債收益率漲5.4個基點，兩年期美債收益率轉漲。"
-    },
-    {
-      "id": "5150380",
-      "time": "2026-10-17 00:19:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲2%，現報108.14美元/桶。"
-    },
-    {
-      "id": "5150379",
-      "time": "2026-10-17 00:19:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破108美元/桶，日內漲2.10%。"
-    },
-    {
-      "id": "mkt:01a14582-c7a5-7ee0-a8c1-da7fe24207ec",
-      "time": "2026-10-17 00:19:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Zelenskiy asks EU for at least €70bln as Ukraine projects €155bln 2027 war bill】At an EU summit in Brussels Zelenskiy requested the EU provide at least €70bln next year, saying Ukraine’s war-related spending for 2027 is expected to reach €155bln and that the funds are needed for defense, weapons and national resilience. He urged a strong 22nd round of sanctions targeting firms and individuals tied to Russian ballistic missile, advanced communications and drone production. Zelenskiy said US restrictions on Starlink use are hampering Ukraine’s ability to intercept Russian drones and that Ukraine and the US expect to schedule a meeting in the coming days. He also criticized a US-Russia “diesel” arrangement, saying it increases Russian revenues that could fund military operations."
     }
   ]
 }

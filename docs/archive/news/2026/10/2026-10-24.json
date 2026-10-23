@@ -1,7 +1,15 @@
 {
   "date": "2026-10-24",
-  "count": 24,
+  "count": 25,
   "items": [
+    {
+      "id": "mkt:01a1698f-1473-7ee0-a95d-6d2bbb6f235a",
+      "time": "2026-10-24 00:19:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy confirms Russia–US–Ukraine tripartite talks planned for early November】On Oct. 23 Ukrainian President Zelenskiy said after phone calls with U.S. presidential envoy Witkoff and Jared Kushner that meetings with Russia and the United States are scheduled for the first half of November and that Kyiv is willing to meet on any day. Russian presidential press secretary Dmitry Peskov said on Oct. 23 the three-way talks on Russia–Ukraine security guarantees will begin in Abu Dhabi in the first half of November; the tripartite format is under discussion and European participation has not been ruled out."
+    },
     {
       "id": "5165089",
       "time": "2026-10-24 00:17:17",
