@@ -1,7 +1,250 @@
 {
   "date": "2026-10-23",
-  "count": 1854,
+  "count": 1882,
   "items": [
+    {
+      "id": "5164618",
+      "time": "2026-10-23 19:56:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朗坤科技：完成回購214.61萬股，成交價21.46元/股至27.43元/股，支付5197.66萬元】朗坤科技公告，公司此前審議透過回購方案，擬以自有資金回購股份用於員工持股計劃或股權激勵，回購資金總額不低於人民幣5000萬元（含）、不超過人民幣1億元（含），回購價格不超過41.1元/股（含）。截至2026年10月22日，回購方案已實施完畢，累計回購214.61萬股，佔公司目前總股本的0.89%，成交價為21.46元/股至27.43元/股，成交總金額5197.66萬元。"
+    },
+    {
+      "id": "5164617",
+      "time": "2026-10-23 19:56:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【烏方稱烏軍使用“星盾”衛星通訊系統仍被限速】23日，烏國防部訊息人士稱，截至當天上午，使用“星盾”衛星通訊系統的烏軍終端移動速度仍受到限制。烏國防部訊息人士稱，烏國防軍和國防部一直在監視和記錄“星鏈”和“星盾”衛星通訊系統執行狀況。23日上午，使用“星盾”衛星通訊系統的烏軍終端在時速達到161公里時通訊中斷，因此“目前不能確認（美方）已取消限制”。（央視新聞）"
+    },
+    {
+      "id": "5164616",
+      "time": "2026-10-23 19:56:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【文科股份：2026年第三季度淨利潤虧損1.36億元，同比由盈轉虧】文科股份公告，2026年第三季度營業收入1.38億元，同比下降34.37%；歸母淨利潤虧損1.36億元，扣非淨利潤虧損1.43億元。2026年前三季度營業收入3.57億元，同比下降12.90%；歸母淨利潤虧損1.6億元，扣非淨利潤虧損1.86億元。"
+    },
+    {
+      "id": "5164615",
+      "time": "2026-10-23 19:56:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【本川智慧：2026年第三季度淨利潤6250.93萬元，同比增長438.11%】本川智慧公告，2026年第三季度營業收入5.16億元，同比增長120.52%；淨利潤6250.93萬元，同比增長438.11%；扣非淨利潤6085.95萬元，同比增長414.04%。2026年前三季度營業收入11.27億元，同比增長83.68%；淨利潤1.05億元，同比增長218.09%；扣非淨利潤1.02億元，同比增長237.84%。"
+    },
+    {
+      "id": "5164614",
+      "time": "2026-10-23 19:56:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【幾內亞交通事故易發、高發，中使館提醒在幾中國公民和企業注意交通安全】今年以來，幾內亞發生多起涉中國公民交通事故，造成嚴重人員傷亡。幾內亞交通事故易發、高發，違章駕駛特別是酒駕醉駕極易釀成嚴重後果，造成惡劣影響。駐幾內亞大使館在此鄭重提醒全體在幾中國公民和企業，務必高度重視交通安全，嚴格遵守幾內亞當地法律法規及交通管理規定，牢固樹立安全行車意識。日常駕車出行自覺控制車速、文明駕駛、謹慎駕駛，堅決杜絕超速、闖紅燈、酒駕醉駕等違法行為。途經安檢點位時，請按指示提前減速，配合檢查，保持冷靜，避免與執法人員發生語言衝突，切勿採取強行衝卡闖關等極度危險行為，共同維護海外中國公民和企業安全和遵紀守法的良好形象。"
+    },
+    {
+      "id": "5164613",
+      "time": "2026-10-23 19:56:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大中礦業：2026年第三季度淨利潤1.96億元，同比增長4.12%】大中礦業公告，2026年第三季度營業收入11.06億元，同比增長5.01%；歸母淨利潤1.96億元，同比增長4.12%；扣非淨利潤1.97億元，同比增長2.72%。2026年前三季度營業收入28.84億元，同比下降4.68%；歸母淨利潤5.18億元，同比下降12.76%；扣非淨利潤4.92億元，同比下降16.83%。"
+    },
+    {
+      "id": "mkt:01a1689e-3caf-7ee0-a957-31ae50b5303b",
+      "time": "2026-10-23 19:56:02",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【SAFE consults on draft: overseas-investment standby funds remittable up to $200,000/month, capped at 10% of registered ODI remittance quota】The State Administration of Foreign Exchange (SAFE) published a draft notice seeking comments on measures to further ease cross-border investment and financing. The draft permits domestic institutions to remit funds abroad as overseas-investment standby funds for small, routine operating expenses of overseas investees (rent, utilities, staff costs, office, transport, taxes, petty procurement). Banks may process remittances on presentation of a commitment letter specifying offshore use. Remittances are limited to the equivalent of $200,000 per month and cumulatively may not exceed 10% of the domestic institution’s registered outbound direct investment (ODI) remittance quota. Misuse of standby funds will be investigated and dealt with according to law."
+    },
+    {
+      "id": "5164612",
+      "time": "2026-10-23 19:55:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樂通股份：優悅美晟擬以股抵債947萬股，尚待過戶】樂通股份公告，控股股東一致行動人優悅美晟此前擬以股抵債，向崔佳、肖詩強過戶947萬股，佔公司總股本4.52%。截至公告披露日，相關股份尚未完成過戶登記，交易尚存在不確定性；完成後，大晟資產及優悅美晟合計持股比例將由29.35%降至24.83%，本次權益變動可能觸及5%整數倍。"
+    },
+    {
+      "id": "5164611",
+      "time": "2026-10-23 19:55:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大華股份：2026年第三季度淨利潤5.2億元，同比下降50.91%】大華股份公告，2026年第三季度營業收入84.03億元，同比增長8.69%；歸母淨利潤5.2億元，同比下降50.91%；扣非淨利潤7.53億元，同比下降0.98%。2026年前三季度營業收入251.07億元，同比增長9.58%；歸母淨利潤29.03億元，同比下降17.88%；扣非淨利潤26.97億元，同比增長5.51%。"
+    },
+    {
+      "id": "5164610",
+      "time": "2026-10-23 19:55:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鋒龍股份：董事會透過轉讓孫公司100%股權議案】鋒龍股份公告，子公司昊龍電氣擬向泰碩承遠轉讓孫公司毅闖科技100%股權及債權，交易價格為4266萬元。公司董事會已審議透過該議案，尚需提交股東會審議。"
+    },
+    {
+      "id": "mkt:01a1689d-9dc6-7ee0-a957-2bd9d16d5e6e",
+      "time": "2026-10-23 19:55:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Pakistan's KSE-100 index closed down 0.9% at 162,374.90 points."
+    },
+    {
+      "id": "5164609",
+      "time": "2026-10-23 19:55:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "甲骨文在美國、西班牙和巴西新增多方私募要約功能。"
+    },
+    {
+      "id": "5164608",
+      "time": "2026-10-23 19:55:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數收盤下跌0.9%，報162,374.90點。"
+    },
+    {
+      "id": "5164607",
+      "time": "2026-10-23 19:55:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "大華股份第三季度淨利潤5.203億元人民幣。"
+    },
+    {
+      "id": "5164606",
+      "time": "2026-10-23 19:54:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦國家電視臺：身份不明的槍手在約旦卡拉克省的一座教堂內開槍，造成數人傷亡。"
+    },
+    {
+      "id": "5164605",
+      "time": "2026-10-23 19:54:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "甲骨文將把市場採購業務擴充套件至印度和日本。"
+    },
+    {
+      "id": "mkt:01a1689c-7df6-7ee0-a957-23b80e90b5e2",
+      "time": "2026-10-23 19:54:08",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【SAFE allows overseas direct investment registrations to be processed at alternative locations】The State Administration of Foreign Exchange published a draft notice soliciting comments on further easing cross-border investment and financing procedures. Proposed measures: allow overseas direct investment registrations to be processed at locations other than the registrant's domicile; permit portions of registrations related to loans by domestic banks' offshore units to be handled directly by the banks; and expand the scope of online processing for capital-account transactions. The draft is open for public comment."
+    },
+    {
+      "id": "mkt:01a1689c-79b5-7ee0-a957-190ae9888170",
+      "time": "2026-10-23 19:54:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【SAFE seeks comments on draft easing cross-border financing to support tech innovation】China's State Administration of Foreign Exchange (SAFE) published a draft notice seeking public comment on measures to optimize cross-border investment and financing facilitation. Key proposals: expand the pool of entities eligible for cross-border financing to support technology innovation; lower the risk-conversion factor for related‑party borrowings to give firms greater flexibility in fund allocation; roll out a national green foreign‑debt policy to support green and low‑carbon development; and permit nationwide sharing of foreign‑debt quotas between finance‑leasing parent and subsidiary companies."
+    },
+    {
+      "id": "5164604",
+      "time": "2026-10-23 19:54:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【外匯局：擴大跨境融資便利主體範圍，賦能科技創新發展】《國家外匯管理局關於進一步最佳化跨境投融資便利化政策有關事宜的通知（徵求意見稿）》公開徵求意見。其中提出，擴大跨境融資高水平開放方面，一是擴大跨境融資便利主體範圍，賦能科技創新發展。二是下調關聯企業借款類別風險轉換因子係數，便利企業更靈活地調配資金。三是全國推廣綠色外債政策，支援綠色低碳發展。四是全國推廣融資租賃母子公司共享外債額度。"
+    },
+    {
+      "id": "mkt:01a1689c-7288-7ee0-a957-112e1691169a",
+      "time": "2026-10-23 19:54:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【SAFE publishes draft to allow direct conversion of capital-account receipts to yuan to boost foreign investment efficiency】China’s State Administration of Foreign Exchange published a consultation draft to further ease cross-border investment and financing. Measures include permitting direct conversion of capital‑account receipts into yuan for payments to improve foreign investor efficiency; easing outbound direct investment standby-fund remittances and simplifying procedures for small overseas operating expenses; streamlining documentation for outbound direct‑investment capital remittances to avoid duplicate submissions; and optimizing review of outbound direct‑investment remittances to ensure efficient, convenient use of firms’ operating funds."
+    },
+    {
+      "id": "5164603",
+      "time": "2026-10-23 19:54:04",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【外匯局：便利資本專案收入直接結匯支付，進一步提升外資投資效率】《國家外匯管理局關於進一步最佳化跨境投融資便利化政策有關事宜的通知（徵求意見稿）》公開徵求意見。其中提出，提升直接投資便利化水平方面，一是便利資本專案收入直接結匯支付，進一步提升外資投資效率。二是便利境外直接投資備用金匯出，簡化境外企業日常小額經營開支的匯出手續。三是簡化境外直接投資資金匯出稽核材料，免於企業重複提供單證。四是最佳化境外直接投資資金匯出稽核，保障企業正常經營資金高效便捷使用。"
+    },
+    {
+      "id": "5164602",
+      "time": "2026-10-23 19:53:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【佰維儲存回應近期生產經營情況：積極拓展新興應用市場】佰維儲存(688525)10月23日釋出近期生產經營情況的公告稱，公司近期所處行業發展趨勢及生產經營情況受到市場廣泛關注。2026年以來，受人工智慧算力基礎設施建設持續推進、全球資料中心及雲服務廠商儲存需求增長等因素影響，DRAM、NAND Flash等主要儲存產品價格顯著上漲，行業景氣度提升。公司持續推進“儲存+晶圓級先進封測”雙輪驅動戰略，加快晶圓級先進封測製造專案建設。公司圍繞先進儲存、存算合封及高速光電互聯等領域，持續推進FOMS、CMC、OEC等先進封裝技術研發及產業化應用，積極拓展人工智慧算力基礎設施等新興應用市場。公司看好人工智慧產業發展帶來的中長期儲存市場機遇，將持續發揮在儲存解決方案、晶片設計及先進封裝測試等領域的技術積累和產業協同優勢，積極把握行業發展機會。"
+    },
+    {
+      "id": "mkt:01a1689c-44f6-7ee0-a957-0aa2388754fe",
+      "time": "2026-10-23 19:53:53",
+      "tags": [
+        "MKT News",
+        "ORCL.O"
+      ],
+      "text": "Oracle said it will invest $1 bln in its partner ecosystem over four years."
+    },
+    {
+      "id": "5164601",
+      "time": "2026-10-23 19:53:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文宣佈對Oracle Marketplace進行功能增強。"
+    },
+    {
+      "id": "5164600",
+      "time": "2026-10-23 19:53:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文計劃未來四年向合作伙伴生態系統投資10億美元。"
+    },
+    {
+      "id": "5164599",
+      "time": "2026-10-23 19:53:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文報告向合作伙伴生態系統投資10億美元。"
+    },
+    {
+      "id": "5164598",
+      "time": "2026-10-23 19:52:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車高管：供應方面的限制依然存在。"
+    },
+    {
+      "id": "5164597",
+      "time": "2026-10-23 19:52:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，烏克蘭在與俄羅斯的換俘行動中帶回了270人。"
+    },
     {
       "id": "mkt:01a1689a-3961-7ee0-a957-078a148debfa",
       "time": "2026-10-23 19:51:39",
