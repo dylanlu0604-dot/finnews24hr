@@ -1,7 +1,214 @@
 {
   "date": "2026-10-23",
-  "count": 805,
+  "count": 829,
   "items": [
+    {
+      "id": "5163067",
+      "time": "2026-10-23 09:40:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達20億港元。"
+    },
+    {
+      "id": "mkt:01a1666a-bc86-7ee0-a953-8ebd08386d61",
+      "time": "2026-10-23 09:40:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 5-year government bond yield fell 10.5 bps to 2.185%."
+    },
+    {
+      "id": "mkt:01a1666a-b800-7ee0-a953-8285d534e1be",
+      "time": "2026-10-23 09:40:32",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng TECH Index +1%; Hang Seng Index's gain narrows to 0.1% as tech stocks rebound."
+    },
+    {
+      "id": "5163066",
+      "time": "2026-10-23 09:40:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西前三季度GDP為27597.9億元 同比增長3.5%】江西省統計局、國家統計局江西調查總隊釋出了2026年前三季度全省經濟執行情況。全省經濟保持平穩執行，發展韌性持續彰顯。根據地區生產總值統一核算結果，2026年前三季度全省地區生產總值（GDP）27597.9億元，按不變價格計算，同比增長3.5%。其中，第一產業增加值1565.1億元，增長3.2%；第二產業增加值11306.7億元，增長1.6%；第三產業增加值14726.1億元，增長4.8%。"
+    },
+    {
+      "id": "5163065",
+      "time": "2026-10-23 09:40:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股黃金股走低 靈寶黃金跌超5%】截至發稿，靈寶黃金(03330.HK)跌5.50%，紫金黃金國際(02259.HK)東阿4.57%，潼關黃金(00340.HK)跌4.52%。"
+    },
+    {
+      "id": "5163064",
+      "time": "2026-10-23 09:40:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【基建板塊震盪拉昇 南方路機、北新路橋雙雙2連板】基建板塊震盪拉昇，南方路機、北新路橋雙雙2連板，鐵拓機械漲超12%，山河智慧、柳工跟漲。"
+    },
+    {
+      "id": "5163063",
+      "time": "2026-10-23 09:40:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【物理AI概念區域性回暖 天娛數科直線漲停】早盤物理AI概念區域性回暖，天娛數科直線漲停，能科科技、凡拓數創、鼎捷數智、達實智慧等衝高。"
+    },
+    {
+      "id": "te:markets:594420",
+      "time": "2026-10-23 09:39:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Slides Toward Three-Month Low — Gold prices fell toward $4,000 an ounce on Friday, approaching their lowest levels in nearly three months as a deepening selloff in technology and artificial intelligence stocks prompted traders to liquidate precious metals to cover losses in other assets. The broader equity downturn intensified this week after Meta Platforms’ plans to increase capital expenditure reignited concerns that technology companies may take on additional debt to fund the AI buildout. Gold also remained under pressure from rising oil prices, which heightened inflation concerns and strengthened expectations that interest rates could stay elevated for longer. However, growing doubts about the sustainability of AI investments, a key driver of US economic growth, prompted markets to scale back expectations for further Federal Reserve rate hikes, potentially providing some support for precious metals."
+    },
+    {
+      "id": "5163062",
+      "time": "2026-10-23 09:39:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報3832.100點；恒生指數現漲0.101%。"
+    },
+    {
+      "id": "mkt:01a16669-a93e-7ee0-a953-7ebb1e2ca185",
+      "time": "2026-10-23 09:39:22",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's ChiNext Index slid as much as 2% intraday; the Shenzhen Composite fell 1.7% and the Shanghai Composite fell 1.5%."
+    },
+    {
+      "id": "5163061",
+      "time": "2026-10-23 09:39:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報54.01美元/盎司。"
+    },
+    {
+      "id": "mkt:01a16669-9602-7ee0-a953-74baad177563",
+      "time": "2026-10-23 09:39:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 1.00% intraday to $54.03/oz."
+    },
+    {
+      "id": "mkt:01a16669-7cb0-7ee0-a953-6b3a1232334f",
+      "time": "2026-10-23 09:39:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【CITIGROUP: USD/JPY likely to stay in 155-160 range near term】CITIGROUP strategists say USD/JPY may trade in a 155-160 range in the near term. Recent USD/JPY weakness leaves scope for a short-term rebound, but they warn Japanese monetary policy is becoming increasingly hawkish and expect the dollar to remain broadly firm into the US midterm elections. They add a move toward 160 could prompt fresh yen-buying intervention aimed at pushing the rate back below 155."
+    },
+    {
+      "id": "mkt:01a16669-61bb-7ee0-a953-64929859f9b5",
+      "time": "2026-10-23 09:39:04",
+      "tags": [
+        "MKT News",
+        "09688.HK",
+        "Impact bearish"
+      ],
+      "text": "Zai Lab (09688.HK) shares fell more than 6% intraday after the company proposed a private placement of 11.34 mln American depositary shares (ADS), expected to raise net proceeds of about $241 mln."
+    },
+    {
+      "id": "5163060",
+      "time": "2026-10-23 09:39:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.05%，成分股中，富士達跌3.55%，吉林碳谷跌3.58%，蘅東光跌4.00%，天力複合跌2.87%。"
+    },
+    {
+      "id": "5163059",
+      "time": "2026-10-23 09:38:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.03%，現報2524.573點；上證指數跌1.48%，現報3604.038點；深證成指跌1.70%，現報11164.154點。"
+    },
+    {
+      "id": "5163058",
+      "time": "2026-10-23 09:38:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【軍工板塊震盪走弱 威海廣泰觸及跌停】早盤軍工板塊震盪走弱，威海廣泰觸及跌停，久之洋跌超10%，內蒙一機、甘化科工、北方長龍、長城軍工、江龍船艇等多股跌超6%。"
+    },
+    {
+      "id": "5163057",
+      "time": "2026-10-23 09:38:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本據悉考慮最早從12月開始逐步取消汽油補貼。"
+    },
+    {
+      "id": "5163056",
+      "time": "2026-10-23 09:38:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "mkt:01a16668-3ef2-7ee0-a953-5ea31d96d1c6",
+      "time": "2026-10-23 09:37:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "【Analyst: Japan's 2.4% underlying CPI raises odds of a higher terminal rate】Eamonn Sheridan says Japan's September underlying inflation accelerated. Despite government fuel subsidies, goods and services price gains widened. Core CPI ex‑fresh food but including fuel rose 2.1% YoY (in line); core CPI ex‑fresh food and fuel — the BOJ's preferred gauge — climbed from 1.9% to 2.4% YoY. Goods inflation rose to 2.8% from 2.6% and services inflation to 1.5% from 1.2%, signalling firms are passing higher wages to customers. Rising fuel costs tied to the prolonged Middle East conflict, yen weakness lifting import prices, and robust AI‑related demand have bluntly undermined the subsidy effect. The print reinforces market bets on a BOJ hike in December and shifts attention to how high policy rates could go; BOJ wording in next week's Outlook Report may shape expectations for rates after December as it balances broader inflation against signs of cooling labour market and domestic demand."
+    },
+    {
+      "id": "mkt:01a16667-e1b1-7ee0-a953-54625bb8e073",
+      "time": "2026-10-23 09:37:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan weighs phasing out gasoline subsidies from December as costs climb】Japan is considering cutting gasoline subsidies as early as December, two ruling-party officials said, citing rapidly rising program costs. The emergency measure, introduced in March to blunt fuel-price inflation and keep average regular gasoline around 170 yen per liter (≈$1.09), now costs tens of billions of dollars a month and is quickly depleting a 3.1 trillion yen supplementary budget approved in June. Under a plan being discussed, weekly payments to fuel distributors would be phased down, lifting the national average retail price to about 175 yen/l in December and roughly 180 yen/l in January."
+    },
+    {
+      "id": "5163054",
+      "time": "2026-10-23 09:37:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI漫劇概念震盪回升 慈文傳媒11天7板】早盤AI漫劇概念震盪回升，慈文傳媒11天7板，果麥文化、華策影視、流金科技、掌閱科技、海看股份跟漲。"
+    },
     {
       "id": "mkt:01a16667-7c80-7ee0-a953-4b847cc82474",
       "time": "2026-10-23 09:37:00",
@@ -50,6 +257,24 @@
         "Energy"
       ],
       "text": "Japanese officials say the government is considering scaling back gasoline subsidies as early as December."
+    },
+    {
+      "id": "em:jjsj_zgsj:202610233905168678",
+      "time": "2026-10-23 09:35:17",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【2025年中國創新指數比上年增長6.4%】根據國家統計局社科文司《中國創新指數研究》課題組測算，2025年中國創新指數為185.5（以2015年為100），比上年增長6.4%。分領域看，創新環境指數、創新投入指數、創新產出指數和創新成效指數分別為199.9、172.2、233.0和137.0，分別比上年增長7.5%、5.9%、8.0%和2.9%。結果顯示，2025年中國創新指數呈現穩步增長態勢，創新環境持續最佳化，發展新動能積聚壯大，科技創新能力持續提升，為經濟高質量發展提供有力支撐。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610233905170772",
+      "time": "2026-10-23 09:35:08",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【商務部：前三季度重點平臺智慧眼鏡銷售額增長1.1倍 具身智慧機器人銷售額增長22.6%】商務部消費促進司負責人談2026年前三季度我國消費市場情況，綠色、智慧、健康消費需求旺盛，向新向好特徵明顯。部分升級類商品較快增長，限額以上單位通訊器材、化妝品零售額分別增長18.1%、6.1%。商務部商務大資料顯示，前三季度重點平臺智慧眼鏡銷售額增長1.1倍、外骨骼助力器銷售額增長46.4%、具身智慧機器人銷售額增長22.6%、有機食品銷售額增長6.4%。"
     },
     {
       "id": "5163051",
