@@ -1,7 +1,171 @@
 {
-  "updated": "2026-10-23 09:56:31",
-  "count": 13354,
+  "updated": "2026-10-23 10:00:26",
+  "count": 13370,
   "items": [
+    {
+      "id": "5163110",
+      "time": "2026-10-23 09:59:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【位元組跳動海外短劇平臺PineDrama由TikTok團隊運營，在美國和巴西增長最快】從知情人士處獲悉，位元組跳動海外短劇平臺PineDrama並非紅果團隊運營，而是由TikTok業務旗下的一個獨立團隊管理，短劇製作方可以直接用TikTok登陸。在紅果短劇使用者規模和使用時長暴漲的同時，PineDrama在海外也掀起了下載熱潮。據知情人士透露，PineDrama自從12月上線之後下載量增長一直很快，在美國、巴西、東南亞市場增長尤其明顯。(介面新聞)"
+    },
+    {
+      "id": "5163109",
+      "time": "2026-10-23 09:59:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥、CRO概念震盪下挫 泓博醫藥跌超10%】創新藥、CRO概念震盪下挫，泓博醫藥、百普賽斯跌超10%，普洛藥業觸及跌停，萊美藥業、近岸蛋白、鍵凱科技、藥康生物跌幅靠前。"
+    },
+    {
+      "id": "5163108",
+      "time": "2026-10-23 09:59:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1%至256.10點。"
+    },
+    {
+      "id": "5163107",
+      "time": "2026-10-23 09:58:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中證500股指期貨(IC)主力合約日內跌超3%】中證500股指期貨(IC)主力合約日內跌超3%，現報6420.6點。"
+    },
+    {
+      "id": "mkt:01a1667b-4fb9-7ee0-a954-12cc5d82afd0",
+      "time": "2026-10-23 09:58:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell $1.01 intraday to $53.57/oz, down 1.85%."
+    },
+    {
+      "id": "5163106",
+      "time": "2026-10-23 09:58:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲4%，現報9638.00元。"
+    },
+    {
+      "id": "5163105",
+      "time": "2026-10-23 09:57:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲7%，現報7330.00元。"
+    },
+    {
+      "id": "5163104",
+      "time": "2026-10-23 09:57:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量733億元。"
+    },
+    {
+      "id": "5163103",
+      "time": "2026-10-23 09:57:31",
+      "tags": [
+        "焦點"
+      ],
+      "text": "液化石油氣（LPG）多合約觸及漲停，其中2703、2704、2705、2708合約盤中均觸及漲停，主力合約（2612）漲近7％。"
+    },
+    {
+      "id": "mkt:01a16679-eb4b-7ee0-a954-084dd00f509c",
+      "time": "2026-10-23 09:57:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Multiple onshore LPG futures contracts hit daily limit-up; 2703, 2704, 2705 and 2708 reached limit-up intraday, while the most-active contract 2612 rose nearly 7%."
+    },
+    {
+      "id": "5163102",
+      "time": "2026-10-23 09:56:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB板塊走弱，奧士康跌停】PCB板塊走弱，奧士康跌停，中京電子、東方材料、沃特股份、超聲電子、一博科技、依頓電子等跟跌。"
+    },
+    {
+      "id": "5163101",
+      "time": "2026-10-23 09:56:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報730.20元。"
+    },
+    {
+      "id": "5163100",
+      "time": "2026-10-23 09:56:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌6%，現報13001.00元。"
+    },
+    {
+      "id": "mkt:01a16679-69b0-7ee0-a954-07ab02eaf72b",
+      "time": "2026-10-23 09:56:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude topped $110/barrel for the first time since May 5, up 0.84% on the day."
+    },
+    {
+      "id": "5163099",
+      "time": "2026-10-23 09:56:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報114.33美元/桶。"
+    },
+    {
+      "id": "5163098",
+      "time": "2026-10-23 09:56:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4010美元/盎司，日內跌1.24%。"
+    },
+    {
+      "id": "5163097",
+      "time": "2026-10-23 09:56:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【稀土永磁板塊下挫，閩東電力跌停】稀土永磁板塊下挫，閩東電力跌停，華新科技跌超10%，中鋼天源、華陽新材、萬朗磁塑、龍磁科技、中國瑞林等跟跌。"
+    },
+    {
+      "id": "5163096",
+      "time": "2026-10-23 09:56:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報6339.40點。"
+    },
     {
       "id": "mkt:01a16678-e178-7ee0-a953-f857228e5f4b",
       "time": "2026-10-23 09:56:00",
@@ -628,6 +792,15 @@
         "Nikkei 225"
       ],
       "text": "【Analyst: Japan's 2.4% underlying CPI raises odds of a higher terminal rate】Eamonn Sheridan says Japan's September underlying inflation accelerated. Despite government fuel subsidies, goods and services price gains widened. Core CPI ex‑fresh food but including fuel rose 2.1% YoY (in line); core CPI ex‑fresh food and fuel — the BOJ's preferred gauge — climbed from 1.9% to 2.4% YoY. Goods inflation rose to 2.8% from 2.6% and services inflation to 1.5% from 1.2%, signalling firms are passing higher wages to customers. Rising fuel costs tied to the prolonged Middle East conflict, yen weakness lifting import prices, and robust AI‑related demand have bluntly undermined the subsidy effect. The print reinforces market bets on a BOJ hike in December and shifts attention to how high policy rates could go; BOJ wording in next week's Outlook Report may shape expectations for rates after December as it balances broader inflation against signs of cooling labour market and domestic demand."
+    },
+    {
+      "id": "5163055",
+      "time": "2026-10-23 09:37:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【影視院線板塊區域性走高，慈文傳媒漲停】影視院線板塊區域性走高，慈文傳媒漲停，博納影業、華策影視、上海電影、捷成股份、中國電影跟漲。"
     },
     {
       "id": "mkt:01a16667-e1b1-7ee0-a953-54625bb8e073",
@@ -121362,31 +121535,6 @@
         "國際"
       ],
       "text": "西塔拉曼：印度公共基礎設施投資發揮了乘數作用。"
-    },
-    {
-      "id": "5148766",
-      "time": "2026-10-16 10:00:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度財長西塔拉曼：印度自覺堅持財政審慎。"
-    },
-    {
-      "id": "5148765",
-      "time": "2026-10-16 09:59:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【航天系概念持續走強，航天晨光漲停】航天系概念持續走強，航天晨光漲停，銳科鐳射、航天南湖、航天長峰、中天火箭、航天軟體、航天動力等跟漲。"
-    },
-    {
-      "id": "5148764",
-      "time": "2026-10-16 09:58:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【文化傳媒概念板塊短線拉昇，華陽國際漲停】文化傳媒概念板塊短線拉昇，華陽國際漲停，出版傳媒、讀者傳媒、華媒控股此前封板，果麥文化、海看股份、芒果超媒、榮信文化、廣電網路等跟漲。"
     }
   ]
 }
