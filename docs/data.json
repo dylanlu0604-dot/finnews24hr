@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-24 04:49:01",
-  "count": 13095,
+  "updated": "2026-10-24 04:52:52",
+  "count": 13093,
   "items": [
+    {
+      "id": "5165304",
+      "time": "2026-10-24 04:51:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：10月24日04時48分在臺灣花蓮縣海域附近（北緯23.86度，東經121.91度）發生4.4級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:01a16a88-5681-7ee0-a960-76d9a8a83f1a",
+      "time": "2026-10-24 04:51:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US exempts some Canadian imports from 50% tariffs, raises duties on others】The US administration announced exemptions to a 50% tariff on certain Canadian imports — including blueberries, potatoes, apples, seaweed, plastic crates, packaging materials, refrigeration equipment and packaging machinery — that were imposed after US‑Canada trade talks collapsed at the end of August. The White House simultaneously increased duties on selected valves, carpets and waste products to offset some of the revenue loss. Officials said the adjustment clarifies the scope of Canada‑targeted tariffs. The change comes ahead of the Nov. 3 midterm elections; Maine Senator Susan Collins said she secured exemptions for local agricultural producers."
+    },
+    {
+      "id": "5165303",
+      "time": "2026-10-24 04:51:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國得州就使用者欺騙與兒童安全問題起訴OpenAI及其CEO】美國得克薩斯州總檢察長肯·帕克斯頓對OpenAI Global及其執行長Sam Altman提起訴訟，指控其未能保護使用者免受ChatGPT聊天機器人帶來的風險。訴訟稱，OpenAI違反了得克薩斯州一項法律，該法律要求數字服務提供商實施特定安全功能以保護兒童。訴訟尋求禁令救濟，並要求就每項違反該州反欺騙性貿易保護規定的行為處以1萬美元罰款。"
+    },
+    {
+      "id": "5165302",
+      "time": "2026-10-24 04:50:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪預計法國2027年的赤字佔GDP的5.2%。"
+    },
+    {
+      "id": "te:markets:594761",
+      "time": "2026-10-24 04:49:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Closes Lower as Oil Rally Fuels Inflation Concerns — The S&P/TSX Composite Index fell 0.5% to close at 35,788 on Friday as rising oil prices fueled inflation concerns and technology stocks remained under pressure. Crude prices climbed amid escalating Houthi attacks on Saudi targets and reports of possible renewed US strikes against Iran. Canadian bond yields moved higher, with markets pricing in a Bank of Canada rate hike at its next meeting amid energy-driven inflationary pressures. Major Canadian banks posted losses, with BMO down 0.8% and CIBC falling 0.9%. Technology stocks extended their declines following Thursday’s Wall Street selloff. Celestica fell a further 3.2% after plunging 12% in the previous session. The company is scheduled to report its third-quarter 2026 results on Monday. Meanwhile, lower gold and silver prices weighed on mining stocks, with Agnico Eagle and Barrick each losing 1.3%. For the week, the TSX declined 0.5%."
+    },
     {
       "id": "5165301",
       "time": "2026-10-24 04:45:38",
@@ -118616,62 +118661,6 @@
         "公司"
       ],
       "text": "谷歌合作伙伴Novacore Labs與AIBOTICS完成資產收購，在牙買加擴充套件人工智慧、無人機、測繪和自動化平臺。"
-    },
-    {
-      "id": "5150608",
-      "time": "2026-10-17 04:52:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國五角大樓附近兩家棒約翰門店均稱客流量激增。"
-    },
-    {
-      "id": "5150607",
-      "time": "2026-10-17 04:50:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "宣告稱， 美墨這一決定再次開啟了從墨西哥城國際機場（AICM）和費利佩·安赫萊斯國際機場（AIFA）這兩個機場開闢通往美國市場的航線和增加航班頻次的可能性。"
-    },
-    {
-      "id": "5150606",
-      "time": "2026-10-17 04:50:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國空中交通管制員與聯邦航空管理局達成協議，將加薪2.8%。"
-    },
-    {
-      "id": "5150605",
-      "time": "2026-10-17 04:50:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局與空中交通管制員就薪酬達成協議。"
-    },
-    {
-      "id": "5150604",
-      "time": "2026-10-17 04:50:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通公司執行長克里斯蒂亞諾・阿蒙 (Cristiano Amon) 購入 10,821 股公司股票。"
-    },
-    {
-      "id": "5150603",
-      "time": "2026-10-17 04:49:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普在佐治亞州的演講中再度提起萊肯・萊利遇害案，直接指責民主黨移民政策。"
-    },
-    {
-      "id": "mkt:01a1467a-2d24-7ee0-a8c6-78dcb7c688e7",
-      "time": "2026-10-17 04:49:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. authorities have lifted restrictions, permitting Mexican carriers to launch new routes from two Mexico City international airports to the United States, a joint statement said."
     }
   ]
 }

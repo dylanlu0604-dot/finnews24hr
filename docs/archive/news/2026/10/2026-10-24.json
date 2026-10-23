@@ -1,7 +1,52 @@
 {
   "date": "2026-10-24",
-  "count": 263,
+  "count": 268,
   "items": [
+    {
+      "id": "5165304",
+      "time": "2026-10-24 04:51:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：10月24日04時48分在臺灣花蓮縣海域附近（北緯23.86度，東經121.91度）發生4.4級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:01a16a88-5681-7ee0-a960-76d9a8a83f1a",
+      "time": "2026-10-24 04:51:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US exempts some Canadian imports from 50% tariffs, raises duties on others】The US administration announced exemptions to a 50% tariff on certain Canadian imports — including blueberries, potatoes, apples, seaweed, plastic crates, packaging materials, refrigeration equipment and packaging machinery — that were imposed after US‑Canada trade talks collapsed at the end of August. The White House simultaneously increased duties on selected valves, carpets and waste products to offset some of the revenue loss. Officials said the adjustment clarifies the scope of Canada‑targeted tariffs. The change comes ahead of the Nov. 3 midterm elections; Maine Senator Susan Collins said she secured exemptions for local agricultural producers."
+    },
+    {
+      "id": "5165303",
+      "time": "2026-10-24 04:51:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國得州就使用者欺騙與兒童安全問題起訴OpenAI及其CEO】美國得克薩斯州總檢察長肯·帕克斯頓對OpenAI Global及其執行長Sam Altman提起訴訟，指控其未能保護使用者免受ChatGPT聊天機器人帶來的風險。訴訟稱，OpenAI違反了得克薩斯州一項法律，該法律要求數字服務提供商實施特定安全功能以保護兒童。訴訟尋求禁令救濟，並要求就每項違反該州反欺騙性貿易保護規定的行為處以1萬美元罰款。"
+    },
+    {
+      "id": "5165302",
+      "time": "2026-10-24 04:50:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪預計法國2027年的赤字佔GDP的5.2%。"
+    },
+    {
+      "id": "te:markets:594761",
+      "time": "2026-10-24 04:49:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Closes Lower as Oil Rally Fuels Inflation Concerns — The S&P/TSX Composite Index fell 0.5% to close at 35,788 on Friday as rising oil prices fueled inflation concerns and technology stocks remained under pressure. Crude prices climbed amid escalating Houthi attacks on Saudi targets and reports of possible renewed US strikes against Iran. Canadian bond yields moved higher, with markets pricing in a Bank of Canada rate hike at its next meeting amid energy-driven inflationary pressures. Major Canadian banks posted losses, with BMO down 0.8% and CIBC falling 0.9%. Technology stocks extended their declines following Thursday’s Wall Street selloff. Celestica fell a further 3.2% after plunging 12% in the previous session. The company is scheduled to report its third-quarter 2026 results on Monday. Meanwhile, lower gold and silver prices weighed on mining stocks, with Agnico Eagle and Barrick each losing 1.3%. For the week, the TSX declined 0.5%."
+    },
     {
       "id": "5165301",
       "time": "2026-10-24 04:45:38",
