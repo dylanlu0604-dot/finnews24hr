@@ -1,7 +1,101 @@
 {
   "date": "2026-10-24",
-  "count": 220,
+  "count": 228,
   "items": [
+    {
+      "id": "mkt:01a16a5e-1877-7ee0-a960-1bbdb3ad904e",
+      "time": "2026-10-24 04:05:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "S&P says Greek economic activity remains resilient despite an energy shock from the ongoing Middle East war."
+    },
+    {
+      "id": "5165253",
+      "time": "2026-10-24 04:05:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普：在中東衝突引發的當前能源衝擊下，希臘經濟活動仍保持韌性。"
+    },
+    {
+      "id": "mkt:01a16a5c-dfcd-7ee0-a960-1780318177e6",
+      "time": "2026-10-24 04:03:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities closed lower on Oct. 23 (Fri): Dow Jones Industrial Average fell 653.95 points (-1.24%) to 52,214.03; S&P 500 declined 39.76 points (-0.52%) to 7,623.67; Nasdaq Composite dropped 53.52 points (-0.21%) to 25,955.34."
+    },
+    {
+      "id": "mkt:01a16a5c-c775-7ee0-a960-0c852886fe18",
+      "time": "2026-10-24 04:03:47",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "S&P affirms Greece at BBB/A-2; outlook stable."
+    },
+    {
+      "id": "5165252",
+      "time": "2026-10-24 04:03:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "NABEP執行長表示，委內瑞拉馬拉開波湖的Petrozamora專案日產原油11.5萬桶。"
+    },
+    {
+      "id": "mkt:01a16a5c-6ff4-7ee0-a960-01e122b6155f",
+      "time": "2026-10-24 04:03:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Meta Platforms",
+        "Alphabet",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【U.S. close: major indices lower】U.S. stocks closed lower on Friday: Dow -1.24%, S&P 500 -0.52%, Nasdaq -0.21%. Western Digital (WDC.O) -2.97%, Google (GOOG.O) -1.24%, SanDisk (SNDK.O) -1.82%, Meta Platforms (META.O) -0.96%, Apple (AAPL.O) -0.14%; SK Hynix (SKHY.O) +4.05%, Micron Technology (MU.O) +2.46%. Nasdaq Golden Dragon China Index -0.84%; Baidu (BIDU.O) -1.0%."
+    },
+    {
+      "id": "5165249",
+      "time": "2026-10-24 04:02:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普全球評級確認希臘評級為“BBB/A-2”，展望穩定。"
+    },
+    {
+      "id": "5165248",
+      "time": "2026-10-24 04:02:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國卡車司機工會第110分會已在AbarTa可口可樂發起不公平勞動行為罷工。"
+    },
     {
       "id": "5165244",
       "time": "2026-10-24 04:01:39",
