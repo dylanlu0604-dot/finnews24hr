@@ -1,7 +1,29 @@
 {
   "date": "2026-10-24",
-  "count": 260,
+  "count": 262,
   "items": [
+    {
+      "id": "mkt:01a16a80-846b-7ee0-a960-6bf7019d28b7",
+      "time": "2026-10-24 04:42:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Hedge funds' bearish euro bets rise to highest since March 2020】For the week to Oct 20, leveraged funds increased net short euro positions by 1,305 contracts to 94.1k contracts, the largest since March 2020, equivalent to roughly €11.8bln of bearish exposure. Market concerns tied to French political turmoil, rising debt pressures and protests weighed on the euro. Investors also cited slowing Euro-area growth and limited ECB hiking scope, which could widen US–Europe rate differentials. EUR/USD fell 0.4% on the week."
+    },
+    {
+      "id": "5165296",
+      "time": "2026-10-24 04:41:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝發言人：過去24小時內，沙特戰機對薩那及葉門多個省份的民用區域發動了124次空襲和導彈襲擊。"
+    },
     {
       "id": "mkt:01a16a7e-3cfa-7ee0-a960-6509de0be28f",
       "time": "2026-10-24 04:40:20",
