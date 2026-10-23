@@ -1,7 +1,100 @@
 {
-  "updated": "2026-10-23 20:39:17",
-  "count": 13203,
+  "updated": "2026-10-23 20:43:48",
+  "count": 13190,
   "items": [
+    {
+      "id": "5164735",
+      "time": "2026-10-23 20:41:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所波動率指數<.VIX>上漲0.94點，報19.96。"
+    },
+    {
+      "id": "5164734",
+      "time": "2026-10-23 20:41:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃尼高管：由於客戶需求激增，Plenitude在夏季不得不在現貨市場購電。"
+    },
+    {
+      "id": "5164733",
+      "time": "2026-10-23 20:41:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭稱星鏈限速措施仍未解除】烏克蘭週五表示，軍方使用的星鏈通訊系統依舊存在速度限制，這與特朗普此前聲稱服務限制已經取消的說法相悖。烏總統顧問謝爾希・別斯克列斯特諾夫週五在社交平臺寫道：“目前我們沒有看到星鏈的速度限制被取消。他補充說：“個別情況下，星鏈終端速度可能略高於限速閾值，這大機率是 SpaceX 演算法或者特定使用環境導致的偶然現象。”烏總參謀部週五上午也證實，軍方仍持續收到報告：星鏈 / 星盾終端在達到特定移動速度時會斷連，但烏軍無人機目前依舊可以執行任務。"
+    },
+    {
+      "id": "5164732",
+      "time": "2026-10-23 20:41:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【耐科裝備：前三季度淨利潤8103.12萬元 同比增長22.33%】耐科裝備(688419)10月23日披露三季度，公司2026年前三季度實現營業收入3.21億元，同比增長45.56%；歸母淨利潤8103.12萬元，同比增長22.33%。報告期內，半導體封裝裝備市場需求持續向好，公司半導體封裝裝備相關產品銷售收入增加。"
+    },
+    {
+      "id": "5164731",
+      "time": "2026-10-23 20:40:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平安銀行：2026年第三季度淨利潤134.9億元，同比增長0.2%】平安銀行公告，2026年第三季度營業收入324.83億元，同比增長3.8%；歸屬於本行股東的淨利潤134.9億元，同比增長0.2%；扣非淨利潤134.91億元，同比增長1.1%。2026年前三季度營業收入1031億元，同比增長2.4%；歸屬於本行股東的淨利潤391.86億元，同比增長2.2%；扣非淨利潤391.24億元，同比增長2.2%。"
+    },
+    {
+      "id": "mkt:01a168c7-0c14-7ee0-a958-826014632f19",
+      "time": "2026-10-23 20:40:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Canada retail rebound likely to continue in September】Preliminary Statistics Canada data show retail sales rose 0.7% YoY in September, with growth expected to slow from August's 1.2% increase that was driven by gains across all nine subsectors. Sales by volume also rose 1.2% in August. Economists had warned August's rebound could be temporary after an escalation of US trade tensions. The retail print is the last major data point ahead of next week's BOC policy decision. Overnight swaps traders have pushed the implied probability of a BOC rate hike next week above 80% after several traders and economists flipped to a hawkish stance over the past week."
+    },
+    {
+      "id": "5164730",
+      "time": "2026-10-23 20:40:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【加拿大零售額回升勢頭預計將在9月持續】加拿大零售支出預計將在9月份繼續保持增長，儘管增速可能較8月有所放緩。加拿大統計局的初步資料顯示，9月份零售銷售額同比增長0.7%。此前，受全部九個子行業增長的推動，8月份零售額增長了1.2%。8月份按銷量計算的銷售額也有所回升，增長了1.2%。鑑於9月與美國的貿易戰升級，經濟學家此前曾警告稱，8月份的反彈可能只是暫時的。加拿大經濟似乎已擺脫了第二季度因關稅引發的低迷，但7月和8月的GDP增速趨於平緩。零售資料是加拿大央行決策者在下週利率決議前，關於加拿大經濟狀況所能獲得的最後一條線索。過去一週，多位交易員和經濟學家改變了立場，現在押注加息。隔夜互換市場交易員將下週會議加息的機率推高至80%以上。"
+    },
+    {
+      "id": "5164729",
+      "time": "2026-10-23 20:40:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：堅定致力於確保物價穩定。"
+    },
+    {
+      "id": "5164728",
+      "time": "2026-10-23 20:39:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【約旦河西岸襲擊事件中兩名重傷以軍士兵死亡】當地時間23日，以色列國防軍釋出宣告，證實兩名以軍士兵當天在約旦河西岸城市希伯倫附近的襲擊事件中死亡。以軍在宣告中說，上述兩名士兵是在當天上午希伯倫附近檢查站發生的交火中受重傷，送醫後不治身亡。據以色列方面23日訊息，約旦河西岸南部城市希伯倫附近當天發生襲擊事件，包含上述2名士兵在內的5名以色列人受傷。2名巴勒斯坦襲擊者被以軍開槍打死。據悉，襲擊目標可能是一支以軍預備役部隊。（央視新聞）"
+    },
+    {
+      "id": "5164727",
+      "time": "2026-10-23 20:39:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國平安第三季度淨利潤134.9億元人民幣。"
+    },
+    {
+      "id": "5164726",
+      "time": "2026-10-23 20:38:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：有時貨幣政策會被用於維護金融穩定，是否需要這樣做將由貨幣政策委員會商議決定。"
+    },
     {
       "id": "mkt:01a168c5-47c2-7ee0-a958-7c0448818bd2",
       "time": "2026-10-23 20:38:41",
@@ -119537,233 +119630,6 @@
         "Energy"
       ],
       "text": "Turkey's energy minister said he discussed potential cooperation in liquefied natural gas with the chairman of Russia's Novatek."
-    },
-    {
-      "id": "te:economy:592800",
-      "time": "2026-10-16 20:43:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Housing Starts",
-        "Importance 1"
-      ],
-      "text": "Canada Housing Starts Rise in September — Housing starts in Canada rose 3% month-over-month to a seasonally adjusted annual rate of 248,896 units in September 2026, up from a revised 242,223 units in August and above market expectations of 232,500 units. Rural starts were estimated at 18,094 units. Actual monthly housing starts were down 11% year-on-year in centres with a population of 10,000 or more, with 19,984 units recorded in September 2026. Montréal’s six-month trend fell 8% month-to-month, driven by lower multi-unit starts, while Vancouver rose 6% on higher multi-unit starts. Toronto’s trend was flat. Year-to-date housing starts totaled 170,964 units, down 4% from the same period in 2025. The six-month trend was virtually unchanged at 250,411 units."
-    },
-    {
-      "id": "5150160",
-      "time": "2026-10-16 20:43:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "嘉信理財CEO：投資者對固收產品的興趣達到創紀錄水平。"
-    },
-    {
-      "id": "5150159",
-      "time": "2026-10-16 20:43:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國外交部長：由於俄羅斯在黑海的戰爭威脅，糧食供應岌岌可危。"
-    },
-    {
-      "id": "5150158",
-      "time": "2026-10-16 20:43:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯國家原子能公司：預計土耳其阿庫尤核電站首座反應堆將在新年前實現物理啟動。"
-    },
-    {
-      "id": "5150157",
-      "time": "2026-10-16 20:43:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普將於下週五在佛羅里達舉行集會。"
-    },
-    {
-      "id": "mkt:01a144bc-c1b1-7ee0-a8be-90dd0d65d3a1",
-      "time": "2026-10-16 20:43:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Germany's foreign minister said Russia's wartime actions in the Black Sea have put food supplies at risk."
-    },
-    {
-      "id": "5150156",
-      "time": "2026-10-16 20:42:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "蘋果股價盤前一度上漲2.5%，隨後回落。"
-    },
-    {
-      "id": "mkt:01a144bc-384e-7ee0-a8be-8a7217cf98f8",
-      "time": "2026-10-16 20:42:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CNN reports President Trump will hold a rally in Florida next Friday."
-    },
-    {
-      "id": "5150155",
-      "time": "2026-10-16 20:42:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國外長：在當前形勢下，對普京的遷就將發出絕對錯誤的訊號。"
-    },
-    {
-      "id": "mkt:01a144bb-c280-7ee0-a8be-847e6817c255",
-      "time": "2026-10-16 20:41:58",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Germany's foreign minister said that, in the current circumstances, appeasing Putin would send an absolutely wrong signal."
-    },
-    {
-      "id": "5150154",
-      "time": "2026-10-16 20:41:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將嘉信理財<SCHW.N>的目標價從113美元下調至109美元。"
-    },
-    {
-      "id": "5150153",
-      "time": "2026-10-16 20:41:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海能達：控股股東陳清州解除質押8141.81萬股股份】海能達公告稱，公司近日收到控股股東陳清州通知，其辦理了部分股份解除質押手續，合計解除質押8141.81萬股，佔其所持股份比例為13.09%，佔公司總股本比例為4.47%，質權人分別為高新投保證擔保、華融資產。本次解質押後，陳清州質押股份數量為1.73億股，佔其所持股份比例27.84%，佔公司總股本比例9.52%。控股股東及其一致行動人具備資金償還能力，質押股份風險可控。"
-    },
-    {
-      "id": "mkt:01a144ba-ecad-7ee0-a8be-7f720a6d891b",
-      "time": "2026-10-16 20:41:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Germany's foreign minister said the Mercosur agreement has produced positive results."
-    },
-    {
-      "id": "te:economy:592799",
-      "time": "2026-10-16 20:40:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "NY Fed Services Activity Index",
-        "Importance 1"
-      ],
-      "text": "NY Services Activity Drops the Most in 7 Months — The New York Fed’s Services Business Activity Index fell to -20.7 in October 2026 from -8.7 in September, marking its lowest level since March as business activity contracted at a faster pace. The business climate index was little changed at -35.0, with just over half of respondents describing conditions as worse than normal. Employment was steady, while wage growth remained modest. Supply availability continued to deteriorate, although at a slower pace than in September. Input price increases remained sharp, while selling price increases accelerated to their fastest pace since 2022. Capital spending remained weak. Looking ahead, firms turned pessimistic about the six-month outlook, with the expectations index falling into negative territory for the first time since December 2025. Expectations for future input and selling price increases remained elevated and largely unchanged."
-    },
-    {
-      "id": "mkt:01a144ba-5dae-7ee0-a8be-70f640503ab4",
-      "time": "2026-10-16 20:40:26",
-      "tags": [
-        "MKT News",
-        "EURUSD"
-      ],
-      "text": "Germany's foreign minister said EU budget negotiations must be concluded this year."
-    },
-    {
-      "id": "mkt:01a144ba-3d39-7ee0-a8be-6c00cf5ffb37",
-      "time": "2026-10-16 20:40:18",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "Charles Schwab Wealth Management CEO said investor demand for fixed-income products has reached record highs."
-    },
-    {
-      "id": "mkt:01a144ba-2dd4-7ee0-a8be-64abc1590c2c",
-      "time": "2026-10-16 20:40:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian military spokesman Akraminia said military jurisdiction in the Persian Gulf is split between the Islamic Revolutionary Guard Corps and the regular navy. The IRGC is responsible for operations in the western Strait of Hormuz; the Iranian navy covers the eastern strait and waters extending into the northern Indian Ocean."
-    },
-    {
-      "id": "5150152",
-      "time": "2026-10-16 20:40:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "10月16日，全球基金淨買入117億印度盧比的印度股票。"
-    },
-    {
-      "id": "mkt:01a144ba-10c9-7ee0-a8be-592c35a58c6d",
-      "time": "2026-10-16 20:40:06",
-      "tags": [
-        "MKT News",
-        "NFLX.O",
-        "Impact bearish"
-      ],
-      "text": "WEDBUSH cuts Netflix (NFLX.O) PT to $90 from $105."
-    },
-    {
-      "id": "5150151",
-      "time": "2026-10-16 20:40:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國外長：歐盟預算談判必須在今年內完成。"
-    },
-    {
-      "id": "5150150",
-      "time": "2026-10-16 20:39:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南衛股份：控股股東部分股份解除質押】南衛股份公告稱，公司控股股東李平於2026年10月16日辦理完成部分股份解除質押手續，本次解除質押股份2888萬股，佔其所持股份比例33.26%，佔公司總股本比例9.99%。截至公告披露日，李平持有公司股份8684.10萬股，佔公司總股本30.04%；本次解質後其累計質押股份2900萬股，佔其所持股份33.39%，佔公司總股本10.03%。李平及其一致行動人李永平、李永中合計持有公司股份1.05億股，佔總股本36.17%，累計質押股份3863.93萬股，佔其合計持股36.95%，佔總股本13.37%。"
-    },
-    {
-      "id": "mkt:01a144b9-de89-7ee0-a8be-506f741c666c",
-      "time": "2026-10-16 20:39:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD"
-      ],
-      "text": "Iran military spokesman Akraminia said as its operational plans progress, U.S. warships will be forced to withdraw to more distant waters in the coming days."
-    },
-    {
-      "id": "mkt:01a144b9-9ff3-7ee0-a8be-4fa2cd481ece",
-      "time": "2026-10-16 20:39:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iranian military spokesman Akraminia said US warships have withdrawn to waters more than 500 km (311 miles) off Iran's coast."
-    },
-    {
-      "id": "5150149",
-      "time": "2026-10-16 20:39:35",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【德明利：預計2026年前三季度淨利潤86.50億元-89.50億元 同比扭虧為盈】德明利(001309.SZ)公告稱，預計2026年前三季度歸屬於上市公司股東的淨利潤為86.50億元-89.50億元，同比扭虧為盈。業績變動主要系公司營業收入與淨利潤同比顯著增長，企業級儲存業務收入規模及佔比進一步提升，產品出海力度持續加大，越南生產基地已實現量產交付。公司Q3淨利潤預計26.33億-29.33億，Q2淨利潤26.71億，據此計算，Q3淨利潤預計環比變動-1%-9%。"
     }
   ]
 }
