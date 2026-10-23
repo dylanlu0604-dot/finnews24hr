@@ -1,7 +1,31 @@
 {
   "date": "2026-10-24",
-  "count": 257,
+  "count": 260,
   "items": [
+    {
+      "id": "mkt:01a16a7e-3cfa-7ee0-a960-6509de0be28f",
+      "time": "2026-10-24 04:40:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials said the next U.S.-Ukraine-Russia working-level talks could be held in Abu Dhabi or Switzerland."
+    },
+    {
+      "id": "5165295",
+      "time": "2026-10-24 04:39:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員表示，下一輪美國-烏克蘭-俄羅斯的三方會談可能在阿布扎比或瑞士舉行。"
+    },
+    {
+      "id": "5165294",
+      "time": "2026-10-24 04:38:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特戰機空襲塔伊茲省致3人死亡6人受傷。"
+    },
     {
       "id": "mkt:01a16a7b-1fb1-7ee0-a960-5e957c145610",
       "time": "2026-10-24 04:36:56",
