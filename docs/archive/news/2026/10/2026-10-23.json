@@ -1,7 +1,140 @@
 {
   "date": "2026-10-23",
-  "count": 860,
+  "count": 874,
   "items": [
+    {
+      "id": "mkt:01a16678-e178-7ee0-a953-f857228e5f4b",
+      "time": "2026-10-23 09:56:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold slips below $4,000/oz mark】Spot gold fell below $4,000/oz for the first time since July, down 0.6% on the day."
+    },
+    {
+      "id": "5163094",
+      "time": "2026-10-23 09:55:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【正大天晴LAMA/LABA雙支擴粉霧劑速歡®獲批上市】10月22日，國家藥品監督管理總局（NMPA）官網顯示，中國生物製藥（01177.HK）核心企業正大天晴自主研發的烏美溴銨維蘭特羅吸入粉霧劑——速歡®（TQC3403，LAMA/LABA雙支氣管擴張劑）獲批上市，用於慢性阻塞性肺疾病（COPD）的長期維持治療。"
+    },
+    {
+      "id": "5163093",
+      "time": "2026-10-23 09:55:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4000美元/盎司，日內跌0.60%。"
+    },
+    {
+      "id": "mkt:01a16678-ab31-7ee0-a953-f1bb0d30fb39",
+      "time": "2026-10-23 09:55:46",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share memory chip sector active; Dagang Co. hit limit-up, while Puran, Demingli and Changxin Technology also advanced."
+    },
+    {
+      "id": "5163092",
+      "time": "2026-10-23 09:55:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲6%，現報5102.00元。"
+    },
+    {
+      "id": "5163091",
+      "time": "2026-10-23 09:55:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報100.48美元/桶。"
+    },
+    {
+      "id": "mkt:01a16677-eaca-7ee0-a953-ee7fa9484ecc",
+      "time": "2026-10-23 09:54:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Liquid petroleum gas (LPG) most-active contract rallied 6.0% intraday to 7,260 yuan/ton."
+    },
+    {
+      "id": "mkt:01a16677-b4c5-7ee0-a953-e68197273879",
+      "time": "2026-10-23 09:54:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures down 2.00% intraday, trading at $53.91/oz."
+    },
+    {
+      "id": "5163090",
+      "time": "2026-10-23 09:54:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲6%，現報7260.00元。"
+    },
+    {
+      "id": "5163089",
+      "time": "2026-10-23 09:54:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報53.89美元/盎司。"
+    },
+    {
+      "id": "5163088",
+      "time": "2026-10-23 09:53:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沐曦股份曦雲C系列GPU完成適配MiniMax M3.1 Flash】10月23日，MiniMax新一代面向智慧體場景的前沿模型M3.1 Flash正式開放權重，沐曦股份曦雲C系列GPU同步完成適配。"
+    },
+    {
+      "id": "mkt:01a16676-3fa9-7ee0-a953-d923a3c426a4",
+      "time": "2026-10-23 09:53:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "New York gold futures fell more than 1.0% intraday to $4,019.60/oz."
+    },
+    {
+      "id": "mkt:01a16676-3558-7ee0-a953-d0daa2c40f51",
+      "time": "2026-10-23 09:53:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver slipped below $54/oz, down 1.06% intraday."
+    },
+    {
+      "id": "5163087",
+      "time": "2026-10-23 09:52:41",
+      "tags": [
+        "行業",
+        "觀點"
+      ],
+      "text": "【中汽協付炳鋒：企業要把關鍵核心技術攻關擺在首要位置】日前，中國汽車工業協會副會長兼秘書長付炳鋒在2026中國汽車供應鏈大會上稱，在國際複雜多變的地緣政治因素影響下，區域的貿易保護對汽車產業鏈、供應鏈穩定造成了巨大的衝擊。“站在‘十五五’開局新起點，‘保量提質’成為發展的主旋律。”付炳鋒稱。付炳鋒建議，行業、企業要把關鍵核心技術攻關擺在首要位置，聚焦車規級晶片、車載作業系統、固態電池、新型電子電氣架構、基礎工業軟體等短板持續攻堅，築牢產業鏈供應鏈安全底座。同時，要深化電動化、智慧化、綠色化融合發展，強化整零協同與跨界融合，推動整車企業與內、外資核心零部件供應商構建協同共創體系，以生態化協作提升產業鏈整體韌性與創新效率。"
+    },
     {
       "id": "5163086",
       "time": "2026-10-23 09:51:58",
