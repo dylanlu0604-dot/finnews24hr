@@ -1,7 +1,60 @@
 {
   "date": "2026-10-23",
-  "count": 1270,
+  "count": 1277,
   "items": [
+    {
+      "id": "5163495",
+      "time": "2026-10-23 14:13:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度斯坦石油公司高管：希望從12月起在拉賈斯坦邦煉油廠開始加工高硫原油。"
+    },
+    {
+      "id": "5163494",
+      "time": "2026-10-23 14:13:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.07%，成分股中，沐曦股份漲10.35%，摩爾執行緒漲10.29%，中控技術漲8.28%，影石創新漲6.78%。"
+    },
+    {
+      "id": "5163493",
+      "time": "2026-10-23 14:13:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲2.01%，現報11585.460點；上證指數漲0.35%，現報3670.686點；創業板指漲3.11%，現報2656.955點。"
+    },
+    {
+      "id": "5163491",
+      "time": "2026-10-23 14:11:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行將監測“前沿人工智慧”發展帶來的網路安全風險。"
+    },
+    {
+      "id": "5163490",
+      "time": "2026-10-23 14:11:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：儘管面臨短期挑戰，全球LED顯示面板市場仍將實現高附加值增長】10月23日，Omdia最新研究預測，全球LED顯示面板市場正面臨零部件成本上漲、貿易摩擦以及傳統應用領域需求走弱等多重壓力，增速有所放緩。不過，2026年至2030年間，該市場營收複合年增長率（CAGR）將達到11.6%，這一增長主要得益於新興應用場景的拓展、區域製造產能的擴張，以及產品結構向高附加值方向的轉型。"
+    },
+    {
+      "id": "5163489",
+      "time": "2026-10-23 14:10:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報6674.00點。"
+    },
     {
       "id": "te:economy:594507",
       "time": "2026-10-23 14:10:06",
@@ -60,6 +113,14 @@
         "Importance 2"
       ],
       "text": "UK Retail Sales Fall More Than Expected — UK retail sales volumes fell 0.4% month-on-month in September 2026, more than the expected 0.1% decline, following an upwardly revised 0.7% rise in August. The drop reflected weaker demand for autumn and winter clothing ranges amid unseasonably warm weather, alongside lower footfall and consumer cutbacks that weighed on non-food retailers. Online clothing sales weakened, while supermarket sales declined after increasing in July and August. Non-food store sales volumes dropped 0.4%, with clothing and footwear, sports equipment and household goods retailers recording declines. In contrast, automotive fuel sales rose despite higher prices. Over the third quarter, retail sales volumes increased 0.7% from the previous quarter and 1.5% year-on-year, supported by higher fuel and food store sales, warm weather, and stronger sales of alcohol and beverages linked to promotions and the World Cup. Annually, retail sales volumes rose 0.8% in September."
+    },
+    {
+      "id": "5163485",
+      "time": "2026-10-23 14:08:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國電子技術標準化研究院釋出具身智慧評測體系與工具】2026全球開發者先鋒大會暨國際具身智慧技能大賽10月23日開幕。開幕式上，中國電子技術標準化研究院副院長範科峰釋出了具身智慧評測體系與工具——“求索”EIBench具身智慧評測體系，以及五大評測工具。這套體系和工具，面向具身智慧資料、演算法、模型、機器人系統等，評測真實任務表現、跨場景適應能力與安全水平。"
     },
     {
       "id": "5163484",
