@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-24 00:42:05",
-  "count": 13229,
+  "updated": "2026-10-24 00:46:21",
+  "count": 13224,
   "items": [
+    {
+      "id": "5165099",
+      "time": "2026-10-24 00:43:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會民主黨籍委員致信，敦促廣播行業更主動對抗特朗普政府恐嚇廣播機構的行為。"
+    },
     {
       "id": "5165098",
       "time": "2026-10-24 00:37:00",
@@ -119798,74 +119806,6 @@
         "其他"
       ],
       "text": "沙特方面稱，已針對海米斯穆謝特的潛在危險釋出警報。"
-    },
-    {
-      "id": "mkt:01a14599-a2ec-7ee0-a8c2-565e87a61ba2",
-      "time": "2026-10-17 00:44:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin says a security zone along the border stretches 660 km, of which 450 km are currently under Russian control."
-    },
-    {
-      "id": "mkt:01a14599-797a-7ee0-a8c2-4b18d12e182b",
-      "time": "2026-10-17 00:44:08",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Kremlin: President Putin said about 10% of the Donetsk region remains to be captured by Russian forces."
-    },
-    {
-      "id": "mkt:01a14598-e623-7ee0-a8c2-45a11311ecd6",
-      "time": "2026-10-17 00:43:30",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Kremlin says Russia is creating a security zone that will be excluded from any negotiations with Ukraine."
-    },
-    {
-      "id": "mkt:01a14598-a7ec-7ee0-a8c2-38d0597d9a25",
-      "time": "2026-10-17 00:43:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Barclays says near-term oil price risks remain skewed to the upside."
-    },
-    {
-      "id": "mkt:01a14598-91cf-7ee0-a8c2-318e6b9011dc",
-      "time": "2026-10-17 00:43:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "BARCLAYS maintains Brent crude price forecasts at $100/bbl for 2026 and $85/bbl for 2027."
-    },
-    {
-      "id": "mkt:01a14598-4ab4-7ee0-a8c2-2bcab2910202",
-      "time": "2026-10-17 00:42:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Two sources said one major unit at Russia's Ryazan refinery has been offline since a drone strike on Oct. 15."
     }
   ]
 }
