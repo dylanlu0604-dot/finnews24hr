@@ -1,7 +1,75 @@
 {
-  "updated": "2026-10-24 00:02:44",
-  "count": 13244,
+  "updated": "2026-10-24 00:06:44",
+  "count": 13245,
   "items": [
+    {
+      "id": "mkt:01a16980-e911-7ee0-a95d-4124eb7cf83d",
+      "time": "2026-10-24 00:03:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Meta Platforms (META.O) said it will launch a new tool on its forum."
+    },
+    {
+      "id": "5165083",
+      "time": "2026-10-24 00:03:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：我們將在論壇上推出新工具。"
+    },
+    {
+      "id": "te:markets:594740",
+      "time": "2026-10-24 00:03:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Italian Stocks Edge Higher — Italy's FTSE MIB closed 0.4% higher at 48,559 on Friday but held near a May low, as gains in energy offset losses in AI, auto and luxury. Energy shares rallied as global oil prices continued climbing, with Tenaris (4.5%) and Saipem (4.2%) advancing. Eni surged 5.8% after beating earnings estimates and announcing plans to expand its buyback this year, buoyed by soaring refining margins. A late-session rally in financials lifted Milan further, with Banco BPM (1.1%) and MPS (0.8%) leading gains, although Banca Mediolanum and Unipol each fell 1.1%. Weaker Chinese demand weighed on autos and luxury, reflected in a third-quarter loss at Volvo and declining sales at Gucci. Moncler tumbled 3.2%, Brunello Cucinelli fell 2%, and Ferrari dropped 1.3%. Stellantis plunged 6.3% after announcing a collaboration with Nvidia and Wayve to explore AI-driven driving. AI-related shares remained under pressure, led by Technoprobe (-3.6%). Despite the upside, the benchmark dropped around 2.5% over the week."
+    },
+    {
+      "id": "mkt:01a16980-501a-7ee0-a95d-3f538ef887b3",
+      "time": "2026-10-24 00:02:59",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France's 10-year government bond risk premium fell 7 bps, the largest decline since Oct. 6."
+    },
+    {
+      "id": "te:markets:594739",
+      "time": "2026-10-24 00:02:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Eni earnings above expectations at 0.95 EUR — Eni (ENI) released earnings per share at 0.95 EUR, compared to market expectations of 0.61 EUR."
+    },
+    {
+      "id": "te:markets:594738",
+      "time": "2026-10-24 00:02:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Finishes Lower, Posts Weekly Loss — Frankfurt's DAX 40 fell about 0.8% to close at 25,152 on Friday, its lowest level since October 9 and extending previous session's losses. The continued rise in oil prices amid geopolitical tensions has heightened fears of inflationary pressures, while renewed uncertainty surrounding AI and the instability in France further weighed on investor sentiment. On the data front, flash PMI figures showed that Germany’s private sector continued to expand in October, although growth slowed more than expected. Most sectors recorded declines, particularly telecom, tech, industrials and autos. MTU Aero Engines was the worst performer, slipping nearly 5%, trailing the mixed results of its competitor Safran. Deutsche Telekom followed closely, down 3.2%, on renewed concerns about US competition from SpaceX. Siemens Energy, Infineon Technologies, RWE and Merck also declined sharply, each falling more than 2%. For the week, the index lost around 1.8%."
+    },
     {
       "id": "5165082",
       "time": "2026-10-24 00:01:30",
@@ -119980,59 +120048,6 @@
         "XAUUSD"
       ],
       "text": "ZELENSKIY said Putin currently refuses to negotiate in any form. He said Ukraine cannot accept a diesel deal because it would lead to a gas deal, and said he is convinced that after gas sanctions would be eased in other areas, eventually affecting banks, individuals and the chemicals sector, with frozen assets at risk."
-    },
-    {
-      "id": "5150375",
-      "time": "2026-10-17 00:06:32",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美債收益率上行，美國財政部就國債回購與拍賣規模徵詢交易商意見。"
-    },
-    {
-      "id": "mkt:01a14576-2f73-7ee0-a8c1-b30ea48d7ef9",
-      "time": "2026-10-17 00:05:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Politico reports the Scottish government plans to drop its opposition to new oil and gas fields."
-    },
-    {
-      "id": "mkt:01a14575-9120-7ee0-a8c1-afda63c419c9",
-      "time": "2026-10-17 00:04:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US small-cap benchmark Russell 2000 fell 1%."
-    },
-    {
-      "id": "5150374",
-      "time": "2026-10-17 00:04:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：普京現在不想談判，任何形式都不想。他玩弄 “應由他們負責” 的說辭。這看上去根本不是真心想要結束戰爭，更像是一場鬧劇。我們不能接受柴油相關協議，因為接下來就會出現天然氣協議，這點我完全肯定。天然氣之後，其他領域制裁也會被解除，逐步蔓延至銀行體系、相關個人、化工行業。其中存在被凍結資產的風險。"
-    },
-    {
-      "id": "5150373",
-      "time": "2026-10-17 00:03:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1117.00美元/盎司。"
     }
   ]
 }
