@@ -1,7 +1,66 @@
 {
-  "updated": "2026-10-24 03:59:23",
-  "count": 13134,
+  "updated": "2026-10-24 04:03:10",
+  "count": 13125,
   "items": [
+    {
+      "id": "5165244",
+      "time": "2026-10-24 04:01:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "本週，費城半導體指數累跌3.3%，儲存晶片指數跌3.4%，半導體裝置指數跌2.1%，AI贏家指數跌3.2%、AI軟體先驅指數漲4.7%。費城銀行指數漲1.1%。科技股七巨頭指數跌1.6%，超大市值科技股指數跌1.6%。"
+    },
+    {
+      "id": "5165243",
+      "time": "2026-10-24 04:01:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "通用汽車股價本週下跌9.6%，創下2023年以來最大跌幅。"
+    },
+    {
+      "id": "5165241",
+      "time": "2026-10-24 04:01:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "非官方資料顯示，本週標普500指數下跌0.47%，納斯達克指數下跌0.71%，道瓊斯指數上漲0.41%。"
+    },
+    {
+      "id": "mkt:01a16a5a-2048-7ee0-a95f-fe3d41bc4028",
+      "time": "2026-10-24 04:00:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The White House said the change will take effect at 12:01 a.m. Eastern Time on Oct. 30, 2026 (12:01 p.m. Beijing time) and thereafter."
+    },
+    {
+      "id": "5165240",
+      "time": "2026-10-24 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌1.24%，標普500指數跌0.52%，納指跌0.21%。BE跌11.33%，Comfort Systems USA跌9.33%，GL跌8.08%，美國電話電報跌7.94%，T MOBILE US INC跌7.71%，CBRE Group Inc  Class A跌6.00%。“七姐妹”方面：微軟漲0.66%，蘋果跌0.14%，英偉達跌0.59%，特斯拉跌0.63%，亞馬遜跌0.95%，Meta Platforms跌1.02%，谷歌跌1.10%。"
+    },
+    {
+      "id": "5165239",
+      "time": "2026-10-24 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.82%】虎虎科技跌27.83%，震坤行跌4.75%，360數科跌3.67%，陸金所控股跌3.45%，亞朵集團跌3.35%。"
+    },
+    {
+      "id": "5165238",
+      "time": "2026-10-24 03:59:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普自曝打電話給谷歌CEO皮查伊：我想把大西洋改成美國洋，再把霍爾木茲海峽改成特朗普海峽】特朗普：我打電話給谷歌，我給他發了一張大西洋的照片。這是真的。我說：“桑達爾（谷歌CEO桑達爾·皮查伊），我想把大西洋改名為美國洋，順便說一句，我還想把霍爾木茲海峽改名為特朗普海峽。”桑達爾說：“先生，我再也做不到。我受夠了。我不能改海洋，先生。我不改該死的大西洋，好嗎？”我說：“桑達爾，我只是開個玩笑。”"
+    },
     {
       "id": "5165237",
       "time": "2026-10-24 03:58:15",
@@ -118848,175 +118907,6 @@
         "其他"
       ],
       "text": "標普確認荷蘭“AAA/A-1+”評級；展望穩定。"
-    },
-    {
-      "id": "5150553",
-      "time": "2026-10-17 04:02:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "KBW銀行指數創下2008年以來最長的周連跌。"
-    },
-    {
-      "id": "mkt:01a1464e-aead-7ee0-a8c5-e3eaf3988560",
-      "time": "2026-10-17 04:02:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Alibaba",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Magnificent 7",
-        "S&P500",
-        "Impact bearish",
-        "CRWV.O",
-        "Nasdaq100"
-      ],
-      "text": "【US close: major indexes lower; CoreWeave down ~12%】US stocks closed lower on Friday: Nasdaq -2.14%, S&P 500 -1.09%, Dow -0.34%. Large decliners included CoreWeave (CRWV.O) -11.91%, Arm (ARM.O) -6.94%, SanDisk (SNDK.O) -6.85%, SK Hynix (SKHY.O) -6.58%, Oracle (ORCL.N) -4.64% and Tesla (TSLA.O) -2.13%. The Nasdaq China Golden Dragon Index fell 1.3%; Baidu (BIDU.O) -2.93%, Alibaba (BABA.N) -1.83%."
-    },
-    {
-      "id": "5150552",
-      "time": "2026-10-17 04:01:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "費城半導體指數連續第8個交易日下跌，追平2006年以來最長連跌紀錄。"
-    },
-    {
-      "id": "5150551",
-      "time": "2026-10-17 04:01:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "COREWEAVE本週累計跌幅達25%。"
-    },
-    {
-      "id": "5150550",
-      "time": "2026-10-17 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.34%，標普500指數跌1.09%，納指跌2.14%。NBIS跌12.14%，CoreWeave跌11.90%，Twilio跌10.67%，超微電腦跌9.77%，Strategy跌9.68%，偉創力國際跌8.19%，RKLB跌7.94%。“七姐妹”方面：蘋果漲0.46%，英偉達跌1.41%，微軟跌1.87%，亞馬遜跌1.88%，特斯拉跌2.13%，谷歌跌2.29%，Meta Platforms跌3.66%。"
-    },
-    {
-      "id": "5150549",
-      "time": "2026-10-17 04:00:24",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "日本8月持有美國國債1.068萬億美元，7月為1.104萬億美元。"
-    },
-    {
-      "id": "5150548",
-      "time": "2026-10-17 04:00:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "英國8月持有美國國債1.01萬億美元，7月為9980億美元。"
-    },
-    {
-      "id": "5150547",
-      "time": "2026-10-17 04:00:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國8月國際資本淨流入 1998億美元，前值由837億美元修正為874億美元。\n美國8月長期資本淨流入 2792億美元，前值-279億美元。\n美國8月外資淨買入美國公債 1089億美元，前值-36億美元。"
-    },
-    {
-      "id": "mkt:01a1464c-effd-7ee0-a8c5-d866375ead9d",
-      "time": "2026-10-17 04:00:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US net long-term capital inflows were $279.2 bln in August, versus -$27.9 bln previously."
-    },
-    {
-      "id": "mkt:01a1464c-ec88-7ee0-a8c5-d30df1f42035",
-      "time": "2026-10-17 04:00:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "U.S. net international capital inflows in August were $199.8 bln; prior value revised from $83.7 bln to $87.4 bln."
-    },
-    {
-      "id": "mkt:01a1464c-e97f-7ee0-a8c5-cc34c9cffbb7",
-      "time": "2026-10-17 04:00:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Foreign investors net purchased $108.9bn of US Treasury securities in August; prior reading was net sales of $3.6bn."
-    },
-    {
-      "id": "5150546",
-      "time": "2026-10-17 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌1.37%】DCX跌20.06%，天演藥業跌15.00%，世紀互聯跌11.02%，萬國資料跌8.93%，迅雷跌8.94%。"
-    },
-    {
-      "id": "mkt:01a1464c-cb08-7ee0-a8c5-c6aaa4442a53",
-      "time": "2026-10-17 04:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Net Foreign Purchases of Treasury Securities (Aug) | actual 108900000000B | previous -3600000000B"
-    },
-    {
-      "id": "mkt:01a1464c-cada-7ee0-a8c5-ba1a86200d66",
-      "time": "2026-10-17 04:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Net International Capital Inflows (Aug) | actual 199800000000B | previous 83700000000B"
-    },
-    {
-      "id": "mkt:01a1464c-cacc-7ee0-a8c5-b02fe271abb0",
-      "time": "2026-10-17 04:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Net LongTerm TIC Flows (Aug) | actual 279200000000B | previous -27900000000B"
-    },
-    {
-      "id": "5150545",
-      "time": "2026-10-17 03:59:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列猶太人定居者在約旦河西岸多地發動襲擊 致19人受傷】當地時間16日，巴勒斯坦“隔離牆和定居點抵抗委員會”發表宣告稱，當天在約旦河西岸地區共監測到34起以色列猶太人定居者針對巴勒斯坦農民、土地和農作物的襲擊與侵犯事件，導致至少19名巴勒斯坦人受傷，其中包括兩名分別為8歲和12歲的兒童。另外，兩名外國記者也在衝突中遇襲受傷。（央視新聞）"
     }
   ]
 }
