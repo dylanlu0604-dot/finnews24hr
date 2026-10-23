@@ -1,7 +1,131 @@
 {
-  "updated": "2026-10-23 09:22:09",
-  "count": 13291,
+  "updated": "2026-10-23 09:26:00",
+  "count": 13297,
   "items": [
+    {
+      "id": "mkt:01a1665c-e5a0-7ee0-a952-dc740f2c2305",
+      "time": "2026-10-23 09:25:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "At the open of China’s A-share market, the Shanghai Composite fell 0.94%, the Shenzhen Composite Index fell 1.49% and the ChiNext Index fell 1.66%."
+    },
+    {
+      "id": "mkt:01a1665c-26ef-7ee0-a952-d6d9d3344206",
+      "time": "2026-10-23 09:24:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an early warning in the Najran region."
+    },
+    {
+      "id": "5163020",
+      "time": "2026-10-23 09:24:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門稱，在納季蘭地區釋出預警。"
+    },
+    {
+      "id": "mkt:01a1665b-b52e-7ee0-a952-cc51d28dd847",
+      "time": "2026-10-23 09:24:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Copper",
+        "CNH"
+      ],
+      "text": "【MOFCOM: Final consumption accounted for 46.7% of GDP growth in 1-3Q 2026】MOFCOM said final consumption expenditure accounted for 46.7% of economic growth in 1-3Q 2026, up 0.7 percentage point from 1H and contributing 2.1 percentage points to GDP, remaining the primary growth driver. Demand for green, smart and health-related consumption was strong. Retail sales at above-designated-size units: communications equipment +18.1% YoY, cosmetics +6.1% YoY. MOFCOM commerce data showed platform sales: smart glasses +110% YoY, exoskeleton assistive devices +46.4% YoY, embodied-intelligence robots +22.6% YoY, organic food +6.4% YoY. China Automobile Dealers Association data: September new-energy passenger-car retail penetration 67.0%."
+    },
+    {
+      "id": "5163019",
+      "time": "2026-10-23 09:23:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為暢享100系列定檔10月28日釋出】華為終端宣佈華為暢享100系列將於10月28日華為雙十一煥新季·全場景新品釋出會釋出，其搭載麒麟8系晶片、華為巨鯨大電池、鴻蒙星盾防詐等。"
+    },
+    {
+      "id": "5163018",
+      "time": "2026-10-23 09:23:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股人工智慧股延續弱勢 五一視界跌近4%】截至發稿，五一視界(06651.HK)跌3.77%，瀾起科技(06809.HK)跌3.74%，天數智芯(03986.HK)跌3.01%。"
+    },
+    {
+      "id": "mkt:01a1665b-29ea-7ee0-a952-c1a040c0f545",
+      "time": "2026-10-23 09:23:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【PBOC nets CNY25 bln today, CNY62 bln this week via reverse repos】PBOC conducted CNY258 bln of overnight reverse repos today; CNY60 bln of 7-day and CNY173 bln of overnight reverse repos matured, resulting in a net injection of CNY25 bln. This week the PBOC conducted CNY80 bln of 7-day and CNY511 bln of overnight reverse repos, while CNY276 bln of 7-day and CNY253 bln of overnight reverse repos matured, leaving a weekly net injection of CNY62 bln."
+    },
+    {
+      "id": "5163017",
+      "time": "2026-10-23 09:23:05",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【商務部消費促進司負責人談2026年前三季度我國消費市場情況】前三季度，商務部認真貫徹落實黨中央、國務院決策部署，深入實施提振消費專項行動，出臺一系列促消費政策措施，推動消費市場規模穩步擴大、居民消費結構持續最佳化，為經濟增長髮揮重要作用。一、消費“主引擎”作用持續鞏固，超大規模市場優勢日益凸顯。前三季度，最終消費支出對經濟增長的貢獻率為46.7%，高於上半年0.7個百分點，拉動GDP增長2.1個百分點，持續保持經濟增長第一拉動力。二、“商品+服務”消費並重發展，保持良好增長勢頭。前三季度，社會消費商品和服務零售總額同比（下同）增長2.6%，增速比1-8月快0.1個百分點。其中，服務零售額增長5.0%，增速高於商品零售額4個百分點。全國居民人均消費支出2.2萬元，比上年同期名義增長3.6%，扣除價格因素，實際增長2.7%。三、社會消費品零售總額有所回升，商品消費基本面良好。9月份社會消費品零售總額增長1.1%，增速比8月份快0.7個百分點，除汽車以外消費品零售額增長3.9%。前三季度，社會消費品零售總額增長1.1%，在去年同期高基數情況下實現平穩增長。限額以上單位16大類商品中，9類商品保持增長，其中6類商品增速在5%以上。四、綠色、智慧、健康消費需求旺盛，向新向好特徵明顯。部分升級類商品較快增長，限額以上單位通訊器材、化妝品零售額分別增長18.1%、6.1%。商務部商務大資料顯示，前三季度重點平臺智慧眼鏡銷售額增長1.1倍、外骨骼助力器銷售額增長46.4%、具身智慧機器人銷售額增長22.6%、有機食品銷售額增長6.4%。據汽車流通協會資料，9月份新能源乘用車零售滲透率達67.0%。（商務部）"
+    },
+    {
+      "id": "mkt:01a1665a-a532-7ee0-a952-bc40ae22a4b7",
+      "time": "2026-10-23 09:22:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "02259.HK",
+        "Impact bearish",
+        "06693.HK",
+        "03330.HK"
+      ],
+      "text": "Hong Kong-listed gold stocks opened lower: Zijin Gold International (02259.HK) and Chifeng Gold (06693.HK) down more than 5%, Lingbao Gold (03330.HK) down over 4%; Shandong Gold (01787.HK), Zijin Mining (02899.HK) and Zhaojin Mining (01818.HK) also weaker."
+    },
+    {
+      "id": "5163016",
+      "time": "2026-10-23 09:22:32",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【應急管理部將國家地震災害應急響應提升至三級】記者23日從應急管理部獲悉，針對西藏那曲市巴青縣地震，國務院抗震救災指揮部辦公室、應急管理部將國家地震災害應急響應由四級提升至三級，派出工作組赴震區指導協助。10月22日22時33分，西藏那曲市巴青縣發生7.0級地震，已造成16人遇難，54人受傷。地震發生後，國務院抗震救災指揮部副總指揮、應急管理部有關負責人持續排程指導應急處置工作。應急管理部指導西藏自治區應急管理廳調派翼龍無人機趕赴災區，開展災情偵察任務。據瞭解，國家綜合性消防救援隊伍共調派350人、83車出動救援，截至23日6時30分，已有120人、27車抵達災區，西藏消防救援總隊230人、56車在增援途中，均已行進至那曲境內。（新華社）"
+    },
+    {
+      "id": "5163015",
+      "time": "2026-10-23 09:22:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放250.0億元人民幣。"
+    },
+    {
+      "id": "mkt:01a16659-8c79-7ee0-a952-b47371800eee",
+      "time": "2026-10-23 09:21:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong stocks opened higher on Friday, Oct 23: Hang Seng Index (HSI) up 93.3 pts (0.41%) at 23,027.98; Hang Seng TECH Index up 19.5 pts (0.51%) at 3,813.43; China Enterprises Index (HSCEI) up 55.37 pts (0.72%) at 7,744.56; Red-chip Index up 17.49 pts (0.46%) at 3,852.66."
+    },
     {
       "id": "mkt:01a16659-6fa6-7ee0-a952-afa4e444cda6",
       "time": "2026-10-23 09:21:39",
@@ -120670,56 +120794,6 @@
         "公司"
       ],
       "text": "新股N南乳開漲104.08%，公開資料顯示，公司是貴州乳業龍頭企業，從事乳製品研發、生產和銷售，形成供產銷一體化經營模式，覆蓋從上游牧場經營至乳製品終端銷售全產業鏈。"
-    },
-    {
-      "id": "5148707",
-      "time": "2026-10-16 09:25:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股三大股指開盤齊漲，上證指數漲0.44%，深證成指漲1.26%，創業板指漲1.75%。"
-    },
-    {
-      "id": "5148706",
-      "time": "2026-10-16 09:25:27",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【全球財富管理論壇·2026上海蘇河灣大會今日開幕 靜安全力打造國際財富管理高地】今日，全球財富管理論壇·2026上海蘇河灣大會在上海靜安召開。上海市人民政府副市長賀青，全球財富管理論壇理事長、中國財政部原部長樓繼偉，靜安區人民政府區長翟磊出席會議並發表致辭。翟磊在致辭中表示，經過多年發展，目前靜安集聚證券、資管、期貨、銀行、保險、基金等各類金融市場主體，全區資管機構受託管理資產規模達到7萬億元，金融業增加值規模位居全市前三，是上海首批“股權投資集聚區”、首個“併購集聚區”。踏上“十五五”新徵程，靜安正聚焦資管財管、股權併購、數字金融等核心業態，持續做強金融資源配置功能和服務實體經濟能力，全力打造國際財富管理高地、股權投資創新樞紐、數智金融先鋒標杆，構建“南京西路總部經濟+蘇河灣資管高地”特色金融佈局，聯動陸家嘴金融城、外灘金融集聚帶，共同為上海國際金融中心建設提供重要支撐。"
-    },
-    {
-      "id": "5148705",
-      "time": "2026-10-16 09:24:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉：如今路上行駛的每一輛車都受限於一點：輪胎抓地力。Roadster 的推進系統產生的推力是輪胎抓地力的 4-5 倍。在相同質量下施加更大的推力意味著顯著提升的加速效能——剩下的就交給物理定律了。"
-    },
-    {
-      "id": "5148704",
-      "time": "2026-10-16 09:24:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉：SpaceX 幾十年來一直使用推進器來定位航天器。 讓它們在車輛中而不是真空環境中工作，需要全新的硬體和控制系統。 車內每個可用的空隙都塞滿了碳纖維纏繞壓力容器（COPVs） 。車上更多的壓縮氣體 = 更長的飛行時間。"
-    },
-    {
-      "id": "5148703",
-      "time": "2026-10-16 09:22:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：2028年將開始生產Roadster。"
-    },
-    {
-      "id": "5148702",
-      "time": "2026-10-16 09:22:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉：我們的設計語言自上次釋出以來已發生演變，從 S3XY 到 Cybertruck、Cybercab 和 Optimus Roadster 受到 SR-71 和 F-35 的啟發。"
     }
   ]
 }
