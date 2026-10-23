@@ -1,7 +1,109 @@
 {
   "date": "2026-10-23",
-  "count": 576,
+  "count": 586,
   "items": [
+    {
+      "id": "5162909",
+      "time": "2026-10-23 08:06:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本5年期國債收益率下跌6.5個基點至2.225%。"
+    },
+    {
+      "id": "mkt:01a16614-1b6e-7ee0-a951-449ec7b2b331",
+      "time": "2026-10-23 08:05:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's 10-year government bond yield fell 7.0 bps to 2.810%."
+    },
+    {
+      "id": "mkt:01a16613-3ed2-7ee0-a951-3a8605723b03",
+      "time": "2026-10-23 08:04:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "A Tesla spokesperson for Australia and New Zealand said Tesla (TSLA.O) has decided not to proceed with plans to produce the Cybertruck for Australia and New Zealand."
+    },
+    {
+      "id": "5162908",
+      "time": "2026-10-23 08:04:37",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：中期看好化肥行業景氣上行及格局最佳化】中信建投看好厄爾尼諾驅動糧價上行背景下化肥行業的景氣修復，以及供給端格局最佳化下龍頭的競爭優勢強化：2026年9月超強厄爾尼諾事件正式形成並可能持續至2027年2月，糧價上行有望帶動種植收益回暖、支撐化肥需求。氮肥需求穩步增長且供給增速回落，新增產能集中於具備成本競爭力的龍頭，價格中樞有望穩步上行。磷肥成本修復進行中，單位盈利預計邊際改善，中期看好磷礦景氣持續以及磷肥出口將逐步向牌照類生意轉變，擁有磷礦資源的一體化企業優勢凸顯。鉀肥全球寡頭壟斷格局下預計2027年供需維持緊平衡，行業景氣有望延續。複合肥行業競爭重心轉向產品結構升級，看好擁有品牌、渠道和產品創新能力的龍頭企業持續擴張份額+單位盈利水平。"
+    },
+    {
+      "id": "mkt:01a16612-e480-7ee0-a951-37d2ffdefbea",
+      "time": "2026-10-23 08:04:36",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Japan's minister for finance and economic revitalization Kiuchi said he hopes the Bank of Japan will appropriately guide monetary policy, in line with its joint statement with the government, to achieve stable and sustainable price stability."
+    },
+    {
+      "id": "5162907",
+      "time": "2026-10-23 08:04:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均股價下跌1.18%，報62,168.25點。"
+    },
+    {
+      "id": "mkt:01a16612-6492-7ee0-a951-2fd6fb742746",
+      "time": "2026-10-23 08:04:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell as much as 1.00% intraday."
+    },
+    {
+      "id": "mkt:01a16612-0ccf-7ee0-a951-22c02351e6c3",
+      "time": "2026-10-23 08:03:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Nikkei 225",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "South Korea's KOSPI index extended losses to 3.00%, trading at 5,364.99 points."
+    },
+    {
+      "id": "5162906",
+      "time": "2026-10-23 08:03:30",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數跌幅擴大至3.1%，報5364.99點。"
+    },
     {
       "id": "5162905",
       "time": "2026-10-23 08:02:57",
@@ -9,6 +111,14 @@
         "其他"
       ],
       "text": "特斯拉澳大利亞和紐西蘭發言人：特斯拉已決定不推進在澳大利亞和紐西蘭生產Cybertruck的計劃。"
+    },
+    {
+      "id": "5162904",
+      "time": "2026-10-23 08:02:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉澳大利亞和紐西蘭發言人：特斯拉已決定不再推進為澳大利亞和紐西蘭生產賽博卡車的計劃。"
     },
     {
       "id": "mkt:01a16610-9bd1-7ee0-a951-1f3ba9f17871",
