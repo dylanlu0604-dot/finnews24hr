@@ -1,7 +1,470 @@
 {
   "date": "2026-10-24",
-  "count": 276,
+  "count": 328,
   "items": [
+    {
+      "id": "5165352",
+      "time": "2026-10-24 06:40:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤日內漲超1%，現報6.4875美元。"
+    },
+    {
+      "id": "te:markets:594773",
+      "time": "2026-10-24 06:40:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Butter Falls by 3.59% — Top commodity losers are Butter (-3.59%), Coffee (-2.07%) and Oat (-1.26%). Gains are led by Barley (0.76%) and Sugar (0.59%)."
+    },
+    {
+      "id": "5165351",
+      "time": "2026-10-24 06:38:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "閃迪暗盤跌超4%，現報1238美元。"
+    },
+    {
+      "id": "5165350",
+      "time": "2026-10-24 06:37:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤跌破3.1美元，日內跌幅3.5%。"
+    },
+    {
+      "id": "te:markets:594772",
+      "time": "2026-10-24 06:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.37% — Top commodity losers are Lithium Carbonate (-2.37%), Platinum (-1.34%), Silver (-1.29%) and Gold (-0.77%). Gains are led by Aluminum Alloy (2.35%), Copper (1.60%) and Iron Ore CNY (0.90%)."
+    },
+    {
+      "id": "5165349",
+      "time": "2026-10-24 06:33:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【秘魯中央公路發生多車連環相撞 致2死9傷】當地時間10月23日，秘魯利馬大區瓦羅奇裡省聖巴託洛梅區中央公路第57公里處發生一起多車相撞事故，造成2人死亡、9人受傷，其中2人傷勢嚴重。事故涉及兩輛轎車和一輛半掛卡車。2名死者均為成年人，當時乘坐一輛黑色轎車，目前身份仍在確認中。9名傷者已被送往喬西卡醫院接受治療。目前，事故具體原因尚未公佈。（央視新聞）"
+    },
+    {
+      "id": "te:markets:594771",
+      "time": "2026-10-24 06:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Slumps by 6.08% — Top commodity losers are Natural gas (-6.08%) and Methanol (-0.76%). Gains are led by Germany Natural Gas THE (4.05%), Propane (4.04%), Crude Oil (3.99%) and Brent Oil (3.30%)."
+    },
+    {
+      "id": "5165348",
+      "time": "2026-10-24 06:22:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里米亞官員：塞瓦斯托波爾市因城外能源基礎設施遭襲而陷入停電狀態。"
+    },
+    {
+      "id": "5165347",
+      "time": "2026-10-24 06:20:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國調整多箇中東使館人員配置。"
+    },
+    {
+      "id": "5165346",
+      "time": "2026-10-24 06:19:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國正著手將部分外交官從中東駐地調離。"
+    },
+    {
+      "id": "5165345",
+      "time": "2026-10-24 06:17:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：《經濟學人》過去幾十年一直反人類（anti-human），已不再值得尊重。"
+    },
+    {
+      "id": "te:markets:594770",
+      "time": "2026-10-24 06:15:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Increases by 1.40% — Top currency gainers are Brazilian Real (1.40%), Norwegian Krone (0.75%), Mexican Peso (0.39%) and Dollar Index (0.14%). Biggest losers are Polish Zloty (-0.62%), Indian Rupee (-0.53%), Swiss Franc (-0.46%), British Pound (-0.37%) and Euro (-0.14%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "5165344",
+      "time": "2026-10-24 06:11:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮前新聞秘書扎卡里亞：謝謝您，總統先生。沒有人比美國總統特朗普總統受到媒體更無情的攻擊，而我始終堅定不移地忠誠。"
+    },
+    {
+      "id": "5165343",
+      "time": "2026-10-24 06:08:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊：確保供應的緊迫性正在上升，短期內風險仍偏向於上行。"
+    },
+    {
+      "id": "5165342",
+      "time": "2026-10-24 06:06:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴克萊：對伊朗衝突迅速結束的希望逐漸消退，這使得本已緊張的實物石油市場更加緊迫。"
+    },
+    {
+      "id": "5165341",
+      "time": "2026-10-24 06:06:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊：庫存枯竭、需求復甦令實貨市場收緊，儘管政策努力緩解柴油緊張狀況，但短期石油風險仍堅定偏向上行。"
+    },
+    {
+      "id": "5165340",
+      "time": "2026-10-24 06:05:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【CFTC：對沖基金削減日元空頭 增持澳元多頭】美國商品期貨交易委員會(CFTC)週五公佈的資料顯示，截至10月20日當週，對沖基金削減日元空頭頭寸。日元連續第二週上漲，週五兌美元則小幅走弱。這些基金對歐元的空頭押注升至2020年以來最高水平。它們對英鎊和澳元更加看多，同時進一步看空加元，加元淨空頭頭寸升至8月初以來最高水平。"
+    },
+    {
+      "id": "5165339",
+      "time": "2026-10-24 05:59:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【法國獲得喘息之機 穆迪未下調其信用評級】法國躲過一劫，穆迪未下調該國信用評級，讓這個飽受債券收益率飆升、政治僵局和街頭抗議困擾的國家獲得了喘息之機。穆迪維持這個歐元區第二大經濟體Aa3評級不變，這比垃圾級高七檔，與英國評級相同。評級展望為負面。“經濟增長放緩和赤字擴大，使法國債務負擔略高於我們此前的預期，”穆迪表示，“債券收益率上升速度快於我們的預期，同時爆發了大範圍社會抗議，可能制約財政整頓工作。”穆迪作出上述決定之際，法國即將迎來又一個緊張的週末。法國當局正努力避免再次發生此前曾在多個城市造成嚴重破壞的大規模騷亂。法國仍未找到遏制債務負擔膨脹的辦法，過去幾周，該國因此成為債市焦慮的焦點。本月，法國國債收益率漲幅超過其他所有發達經濟體，並升至24年來最高水平。法國債務規模不斷攀升，今年財政赤字預計將擴大至相當於經濟總量的5.4%。政治僵局、經濟增長低迷以及利息成本上升，令財政整頓努力受挫。"
+    },
+    {
+      "id": "5165338",
+      "time": "2026-10-24 05:58:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【五角大樓“披薩指數”現分化：普通披薩店與酒吧客流走低，達美樂門店高於日常 】據“五角大樓披薩指數”監測，今日五角大樓附近比薩店報告客流量低於往常，五角大樓周邊的Freddies海灘酒吧也報告客流量低於平均水平。然而，五角大樓附近的兩家達美樂門店客流量卻高於日常，餐飲資料呈現分化。此前，當地時間10月23日，美國總統特朗普表示，美國或許會再來一次小規模的“史詩怒火”行動。"
+    },
+    {
+      "id": "5165337",
+      "time": "2026-10-24 05:54:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Allegiant行權購買六架波eing 737 MAX客機，總價值超過7.2億美元】Allegiant Air（ALGT）週五表示，已根據2021年與波音公司簽署的採購協議，行使了購買六架波音737-8飛機的選擇權 。該公司表示，這些計劃於2028年交付的客機， 總目錄價格超過7.2億美元。根據該協議，Allegiant航空已確定採購56架飛機，其中22架已交付，此外還有74架飛機的購買期權尚未行使。據航空分析諮詢公司IBA稱，根據交付年份計算，這些飛機的估算市值約為3.51億美元。"
+    },
+    {
+      "id": "te:economy:594769",
+      "time": "2026-10-24 05:49:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Credit Rating",
+        "Importance 0"
+      ],
+      "text": "France Avoids Moody’s Downgrade — Moody’s maintained France’s long-term foreign-currency sovereign credit rating at Aa3, defying expectations of a downgrade, but kept the outlook negative. The agency cited slower growth and a higher deficit, which have pushed the country’s debt burden above previous projections, as well as rising bond yields and social protests that could hinder fiscal consolidation. French yields have risen more than those of any other developed economy this month, reaching a 24-year high. France’s deficit is projected to reach 5.4% of GDP this year, as political gridlock, sluggish growth and rising interest costs undermine efforts to rein in public debt. Moody’s expects a deficit-reducing 2027 budget to be adopted despite the challenging political and social environment. The rating remains one notch above those of S&P and Fitch, which downgraded France during a budget dispute in autumn 2025. Last month, Scope Ratings also downgraded France, while Morningstar DBRS revised its outlook to negative."
+    },
+    {
+      "id": "5165336",
+      "time": "2026-10-24 05:48:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會宣佈對某些裝置給予有條件批准，批准了部分BLOOM ENERGY和日立能源的裝置。"
+    },
+    {
+      "id": "5165335",
+      "time": "2026-10-24 05:45:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一油輪在霍爾木茲海峽附近遇襲 船舶單週通航量下降】英國海上貿易行動辦公室23日通報，一艘油輪在駛出霍爾木茲海峽途中遭不明發射物擊中，隨後繼續駛往下一停靠港。該辦公室同日釋出週報顯示，15日至21日海峽船舶通航量較前一週下降。通報說，油輪遇襲事件發生於協調世界時22日17時15分（北京時間23日1時15分），地點位於阿曼利邁東北方向約7海里（約13公里）處。通報未披露船名、船籍及人員傷亡情況。通報稱，相關調查正在進行，提醒過往船舶謹慎航行並報告任何可疑活動。英國海上貿易行動辦公室23日釋出的週報顯示，15日至21日，該機構統計的霍爾木茲海峽船舶通航量為241艘次，較前一週的254艘次下降約5.1%，比衝突前水平低約七成。報告援引聯合海上資訊中心的評估說，霍爾木茲海峽海上安全威脅等級仍為“嚴重”，意味著船舶遭襲可能性很高。（新華社）"
+    },
+    {
+      "id": "5165334",
+      "time": "2026-10-24 05:41:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲10月維持利率不變的機率為90.6%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為90.6%，累計加息25個基點的機率為9.4%。美聯儲到12月維持利率不變的機率為25.8%，累計加息25個基點的機率67.5%，累計加息50個基點的機率為6.7%。"
+    },
+    {
+      "id": "te:markets:594768",
+      "time": "2026-10-24 05:36:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Mexican Peso Hits Near One-Year High — The Mexican peso strengthened to around 18.64 per US dollar in October, reaching its highest level in nearly a year. The currency appreciated following strong economic activity data, with the Global Indicator of Economic Activity rising 3.5% year over year through August, its strongest performance since September 2023. The exchange rate was also supported by expectations that Mexico and the US could reach a trade agreement, following comments by President Claudia Sheinbaum and US President Donald Trump indicating that the two countries were close to a deal. Meanwhile, annual mid-month inflation rose to 3.62% in October from 3.42% in September, slightly above forecasts of 3.60%. Persistent inflationary pressures could encourage a more hawkish stance by Banxico, while markets largely expect the US Federal Reserve to hold rates at its next meeting. A wider US-Mexico interest rate differential would strengthen the peso’s yield advantage and potentially encourage carry-trade inflows."
+    },
+    {
+      "id": "5165333",
+      "time": "2026-10-24 05:35:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度駐俄羅斯大使表示，莫斯科和新德里正在籌備莫迪訪問俄羅斯事宜。"
+    },
+    {
+      "id": "5165332",
+      "time": "2026-10-24 05:34:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守112美元/桶，日內漲2.73%。"
+    },
+    {
+      "id": "5165331",
+      "time": "2026-10-24 05:33:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列總理有關應對國際制裁言論引發國內擔憂】以色列總理內塔尼亞胡23日表示，他已下令為以色列可能面臨的國際經濟和金融制裁做好準備。但以國內輿論認為，其相關提議不能解決制裁下該國經濟被孤立等問題。內塔尼亞胡當天在接受以色列第10頻道電視臺採訪時談及以色列受全球性制裁的可能性，他已要求制定相關計劃，準備一個能夠“繞過制裁”的“替代經濟體系”，一旦以色列遭受銀行業制裁，可能使用區塊鏈和加密貨幣網路進行“規避”。（新華社）"
+    },
+    {
+      "id": "5165330",
+      "time": "2026-10-24 05:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴外長駁斥特朗普“順道解決古巴”言論】針對美方所謂“順道解決古巴”言論，古巴外長羅德里格斯23日駁斥說，古巴拒絕美國對其發出的一切威脅。羅德里格斯在社交媒體上表示，古巴海岸有美麗的沙灘，也有犬牙交錯的礁石，對懷有敵意、妄圖征服而來的人不會友善。當天早些時候，美國總統特朗普在佛羅里達州舉行的一場競選集會上稱，美國準備在結束伊朗戰事後“順道”解決古巴問題。他稱，美海軍軍艦從伊朗回美途中將在古巴“稍微停留一下”，“讓其中一艘軍艦停在離海岸約50碼的地方”。美國長期對古巴實施經濟、金融封鎖和貿易禁運。今年對委內瑞拉、伊朗相繼發起軍事行動後，特朗普曾多次威脅稱，“下一個是古巴”。（新華社）"
+    },
+    {
+      "id": "5165329",
+      "time": "2026-10-24 05:33:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西中央銀行：金融機構將被要求向客戶提供一個包含其信貸業務綜合資料的儀表盤。"
+    },
+    {
+      "id": "5165328",
+      "time": "2026-10-24 05:32:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中東局勢緊張推動布倫特油價創5個月新高】受中東局勢緊張和市場擔憂原油供應中斷等因素影響，國際油價10月23日早盤繼續上漲，倫敦布倫特原油期貨價格盤中升至每桶115美元以上，創5個月來新高。（新華社）"
+    },
+    {
+      "id": "5165327",
+      "time": "2026-10-24 05:27:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行批准決議，以強化金融機構在提供和授予信貸方面的責任。"
+    },
+    {
+      "id": "5165326",
+      "time": "2026-10-24 05:24:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬克·沃爾特尋求出售WNBA洛杉磯火花隊。"
+    },
+    {
+      "id": "te:markets:594767",
+      "time": "2026-10-24 05:22:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada’s 10-Year Yield Edges Higher on BoC Rate Hike Bets — Canada’s 10-year government bond yield edged higher to around 3.85% in October as expectations for Bank of Canada policy shifted toward tighter monetary conditions. Markets anticipate a more hawkish tone at the BoC’s next policy decision, scheduled for October 28. Governor Tiff Macklem recently said the central bank expects to significantly raise its quarterly inflation forecast this month, following hawkish remarks last week about energy-driven price pressures. Rising oil prices have added to upward pressure on energy costs amid the escalation of the conflict in the Middle East. Meanwhile, Canadian retail sales are expected to have increased 0.7% month over month in September, extending a 1.2% gain in August, according to preliminary estimates. Stronger retail activity could add to inflation concerns and reinforce expectations for a tighter monetary policy stance."
+    },
+    {
+      "id": "5165325",
+      "time": "2026-10-24 05:22:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【肯亞埃博拉疫情死亡病例增至2例】肯亞衛生部10月23日晚釋出公告說，一名65歲女性埃博拉確診患者當天傍晚死亡。這是肯亞本輪埃博拉疫情中第二例死亡病例。目前，肯亞累計報告9例確診病例，其中2人死亡，其餘7人正在接受隔離治療。公告說，這名患者是肯亞本輪疫情首例死亡患者的密切接觸者及家庭成員。她於10月13日出現症狀，當天被送入傳染病專科病房接受治療。肯亞衛生部表示，患者家屬已獲正式通知，相關部門正與家屬協調，按照公共衛生防疫規程安排妥善安葬，以降低病毒進一步傳播的風險。（央視新聞）"
+    },
+    {
+      "id": "5165324",
+      "time": "2026-10-24 05:21:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（10月23日）紐約尾盤，標普500股指期貨最終跌0.36%，道指期貨跌1.13%，納斯達克100股指期貨漲0.16%。羅素2000股指期貨跌0.21%。"
+    },
+    {
+      "id": "5165323",
+      "time": "2026-10-24 05:17:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普道瓊斯指數：霍華德休斯控股將加入標普小盤股600指數。訊息釋出後，霍華德·休斯控股盤後股價上漲5.4%。"
+    },
+    {
+      "id": "te:economy:594766",
+      "time": "2026-10-24 05:17:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Producer Prices Change",
+        "Importance 0"
+      ],
+      "text": "Paraguay Producer Prices Fall for Eighth Consecutive Month — Paraguay’s Producer Price Index fell 0.8% year-on-year in September 2026, marking its eighth consecutive annual decrease. The decline was mainly driven by negative contributions from domestic agriculture and horticultural products and live animals and animal products, as well as imported metallic products, machinery and equipment, and food, beverages and tobacco, textiles, and leather products. Meanwhile, domestic non-metallic transportable goods and other manufactured products, along with imported non-metallic transportable goods, made positive contributions, helping to mitigate the overall decline. By product grouping, both domestic and imported products contributed negatively to the annual result."
+    },
+    {
+      "id": "5165322",
+      "time": "2026-10-24 05:13:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（10月23日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.6690元，逼近2022年6月15日最終報價6.6687元、當年6月3日最終報價6.6557元、當年5月4日最終報價6.6223元、當年4月27日最終報價6.5868元，較週四紐約尾盤漲37點，日內整體交投於6.6746-6.6686元區間。本週，離岸人民幣累計上漲大約170點，漲幅大約0.26%。"
+    },
+    {
+      "id": "5165321",
+      "time": "2026-10-24 05:11:46",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【我國成功發射遙感五十三號07-09星、遙感五十六號19-21星】10月24日3時25分，我國在酒泉衛星發射中心使用長征四號乙運載火箭，成功將遙感五十三號07-09星、遙感五十六號19-21星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。遙感五十三號07-09星、遙感五十六號19-21星主要用於科學試驗、國土資源普查、農產品估產和防災減災等領域。這次任務是長征系列運載火箭的第673次飛行。"
+    },
+    {
+      "id": "5165320",
+      "time": "2026-10-24 05:09:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【土埃巴沙四國外長：以色列的佔領行為是地區動盪根源】當地時間10月23日晚，土耳其、埃及、巴基斯坦和沙烏地阿拉伯四國外長在伊斯坦布林舉行會議後發表聯合宣告，就巴勒斯坦問題、葉門局勢及霍爾木茲海峽通航等闡明共同立場，並同意就相關問題保持密切磋商。宣告指出，以色列的佔領行為是造成地區內外局勢動盪的根本原因，呼籲根據聯合國相關決議，儘早落實“兩國方案”，支援巴勒斯坦以1967年邊界為基礎、以東耶路撒冷為首都，建立享有主權的獨立國家。四國譴責以色列在約旦河西岸和耶路撒冷開展定居點活動，以及定居者針對巴勒斯坦人的暴力行為，強調必須確保人道主義援助持續進入加沙，推進加沙重建。針對葉門局勢，四國強烈譴責胡塞武裝持續襲擊沙特，特別是針對平民和民用基礎設施的襲擊，以及在紅海和曼德海峽襲擊商船的行為，要求胡塞武裝立即停止一切軍事行動、威脅和襲擊，重返政治程序。（央視新聞）"
+    },
+    {
+      "id": "te:markets:594765",
+      "time": "2026-10-24 05:06:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Closes Higher Ahead of Presidential Runoff — The Ibovespa rose 0.5% to close at 205,083 on Friday in the final session before Brazil’s presidential runoff, recovering from earlier losses. A Datafolha poll showed President Lula and Flávio Bolsonaro tied at 50% each of valid votes. Earlier polls indicated a statistical tie. Some market participants view a potential Flávio Bolsonaro administration as more likely to rein in public spending, which they consider essential to lowering interest rates. However, neither the candidate nor his economic advisers have outlined concrete fiscal adjustments. The Ibovespa rallied to record highs after Flávio Bolsonaro finished ahead of Lula in the first round. Meanwhile, mid-month inflation came in below expectations, supporting equities. Banking stocks advanced, with BB gaining 3.3%. Bradesco added 0.7% following third-quarter earnings in line with market expectations and the announcement of a share buyback program. Petrobras rose 1.7% as oil prices rose. For the week, the Ibovespa fell 1.0%."
+    },
+    {
+      "id": "5165319",
+      "time": "2026-10-24 05:06:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽關於烏克蘭的報告：預計2026年經濟將小幅收縮，2027年增長0.2%。"
+    },
+    {
+      "id": "5165318",
+      "time": "2026-10-24 05:04:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽：在2025年12月GDP認股權證重組後，烏克蘭近期的外債贖回狀況可控。"
+    },
+    {
+      "id": "5165317",
+      "time": "2026-10-24 05:04:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽：由於國內創收能力薄弱，烏克蘭將繼續出現鉅額財政赤字。"
+    },
+    {
+      "id": "5165316",
+      "time": "2026-10-24 05:03:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：預計俄烏衝突將持續至2027年，目前停火勢頭疲弱。"
+    },
+    {
+      "id": "5165315",
+      "time": "2026-10-24 05:02:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認盧森堡信用評級為“AAA”，展望穩定。"
+    },
+    {
+      "id": "5165314",
+      "time": "2026-10-24 05:02:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽維持對烏克蘭的“CCC”評級。"
+    },
+    {
+      "id": "5165313",
+      "time": "2026-10-24 05:02:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認立陶宛評級為“A+”，展望穩定。"
+    },
+    {
+      "id": "5165312",
+      "time": "2026-10-24 05:02:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽維持愛爾蘭“AA”評級；展望穩定。"
+    },
+    {
+      "id": "5165311",
+      "time": "2026-10-24 05:02:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國總理勒科爾尼：穆迪對法國的報告與悲觀預測相悖。"
+    },
+    {
+      "id": "te:markets:594762",
+      "time": "2026-10-24 05:00:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Hits 4-week High — AUDUSD increased to 0.70, the highest since September 2026. Over the past 4 weeks, Australian Dollar US Dollar gained 0.29%, and in the last 12 months, it increased 7.98%."
+    },
     {
       "id": "5165310",
       "time": "2026-10-24 04:55:20",
