@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-24 01:03:23",
-  "count": 13199,
+  "updated": "2026-10-24 01:07:16",
+  "count": 13195,
   "items": [
+    {
+      "id": "mkt:01a169ba-7a12-7ee0-a95d-f5d900046193",
+      "time": "2026-10-24 01:06:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said the real situation in Ukraine is a wide divergence in incentives: elites have become very wealthy from hundreds of billions of dollars flowing into the country, while ordinary citizens' children are being conscripted and sent to die in the trenches."
+    },
+    {
+      "id": "mkt:01a169b8-abe7-7ee0-a95d-eded6d4edf89",
+      "time": "2026-10-24 01:04:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "International Copper Study Group (ICSG) said the global refined copper market recorded a 132,000-tonne surplus in August 2026."
+    },
+    {
+      "id": "5165108",
+      "time": "2026-10-24 01:04:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際銅研究組織（ICSG）：2026年8月全球精煉銅市場供應過剩13.2萬噸。"
+    },
+    {
+      "id": "mkt:01a169b8-5641-7ee0-a95d-e2887def007a",
+      "time": "2026-10-24 01:04:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Sigma Lithium maintains target to raise annualized lithium oxide concentrate production to 330,000 tonnes by end-2027."
+    },
+    {
+      "id": "mkt:01a169b7-aed3-7ee0-a95d-d82987c6da0b",
+      "time": "2026-10-24 01:03:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Baker Hughes: U.S. energy firms held rig count unchanged for a second consecutive week."
+    },
     {
       "id": "mkt:01a169b5-e06d-7ee0-a95d-d374b0eb909f",
       "time": "2026-10-24 01:01:29",
@@ -119512,81 +119560,6 @@
         "國際"
       ],
       "text": "特朗普談澤連斯基：我希望那場衝突結束。"
-    },
-    {
-      "id": "5150421",
-      "time": "2026-10-17 01:06:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談宴會廳：預算控制得當，進度超前。"
-    },
-    {
-      "id": "mkt:01a145ad-1f5d-7ee0-a8c3-089cdc94f08c",
-      "time": "2026-10-17 01:05:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Trump administration imposed restrictions prohibiting any unauthorized drones from flying along the US–Mexico border."
-    },
-    {
-      "id": "5150420",
-      "time": "2026-10-17 01:05:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將與白宮新聞秘書扎卡里亞交談，告訴她應該重新考慮這個角色。"
-    },
-    {
-      "id": "mkt:01a145ac-f0fc-7ee0-a8c3-06ce69f6a9bd",
-      "time": "2026-10-17 01:05:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said he will speak with White House press secretary Zakaria and tell her she should reconsider the role."
-    },
-    {
-      "id": "5150419",
-      "time": "2026-10-17 01:05:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，DCX跌15.25%，天演藥業跌9.58%，萬國資料跌7.58%，震坤行跌6.88%，世紀互聯跌6.70%。"
-    },
-    {
-      "id": "mkt:01a145ac-825f-7ee0-a8c2-f95aa94aa63a",
-      "time": "2026-10-17 01:04:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said the role of White House spokesman may not be suitable for Zakaria."
-    },
-    {
-      "id": "mkt:01a145ac-6940-7ee0-a8c2-f318808d6329",
-      "time": "2026-10-17 01:04:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he will consider whether to retain White House press secretary Zakaria, saying the decision depends on her."
-    },
-    {
-      "id": "5150418",
-      "time": "2026-10-17 01:04:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：白宮發言人這個角色或許不適合扎卡里亞。"
-    },
-    {
-      "id": "5150417",
-      "time": "2026-10-17 01:03:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府釋出限制措施，禁止未經授權的無人機在美墨邊境飛行。"
     }
   ]
 }

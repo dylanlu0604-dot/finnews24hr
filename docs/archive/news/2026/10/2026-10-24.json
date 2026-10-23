@@ -1,7 +1,55 @@
 {
   "date": "2026-10-24",
-  "count": 53,
+  "count": 58,
   "items": [
+    {
+      "id": "mkt:01a169ba-7a12-7ee0-a95d-f5d900046193",
+      "time": "2026-10-24 01:06:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said the real situation in Ukraine is a wide divergence in incentives: elites have become very wealthy from hundreds of billions of dollars flowing into the country, while ordinary citizens' children are being conscripted and sent to die in the trenches."
+    },
+    {
+      "id": "mkt:01a169b8-abe7-7ee0-a95d-eded6d4edf89",
+      "time": "2026-10-24 01:04:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "International Copper Study Group (ICSG) said the global refined copper market recorded a 132,000-tonne surplus in August 2026."
+    },
+    {
+      "id": "5165108",
+      "time": "2026-10-24 01:04:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際銅研究組織（ICSG）：2026年8月全球精煉銅市場供應過剩13.2萬噸。"
+    },
+    {
+      "id": "mkt:01a169b8-5641-7ee0-a95d-e2887def007a",
+      "time": "2026-10-24 01:04:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Sigma Lithium maintains target to raise annualized lithium oxide concentrate production to 330,000 tonnes by end-2027."
+    },
+    {
+      "id": "mkt:01a169b7-aed3-7ee0-a95d-d82987c6da0b",
+      "time": "2026-10-24 01:03:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Baker Hughes: U.S. energy firms held rig count unchanged for a second consecutive week."
+    },
     {
       "id": "mkt:01a169b5-e06d-7ee0-a95d-d374b0eb909f",
       "time": "2026-10-24 01:01:29",
