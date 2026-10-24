@@ -1,7 +1,355 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-10-24 23:10:31_
-_本檔包含 2399 則快訊，約 493258 字_
+_更新時間：2026-10-25 02:24:44_
+_本檔包含 2394 則快訊，約 493289 字_
+
+---
+
+### 2026-10-19 22:11:36  #其他
+
+義大利富時MIB指數日內跌幅達2.00%。
+
+---
+
+### 2026-10-19 22:10:38  #公司 #國際
+
+【科技部國際合作司會見美國心臟協會執行長南希·布朗一行】10月16日，科技部國際合作司司長祝學華在北京會見美國心臟協會執行長南希·布朗（Nancy Brown）一行。雙方就持續深化醫學科研務實合作進行深入交流，並續簽《關於促進心臟健康合作的諒解備忘錄》。
+
+---
+
+### 2026-10-19 22:10:34  #國際
+
+印尼證券交易所負責人：將把所有股權高度集中的股票排除在雅加達主要股票指數之外。致力於推進市場改革，將在股東資訊中披露更多細節。
+
+---
+
+### 2026-10-19 22:09:46  #其他
+
+【葉門一軍事基地遭導彈襲擊致53死200餘傷】亞丁訊息：葉門東南部舍卜沃省政府19日在社交媒體上發表宣告說，該省一處軍事基地遭葉門胡塞武裝的導彈襲擊，已造成53人死亡，另有200餘人受傷。（新華社）
+
+---
+
+### 2026-10-19 22:09:27  #其他
+
+邦飛利傳動首次公開募股（IPO）認購截止時，散戶投資者需求達到46倍。
+
+---
+
+### 2026-10-19 22:09:13  #其他
+
+沙特民防部門表示，哈爾季省的危險已經解除。
+
+---
+
+### 2026-10-19 22:08:58  #公司
+
+【中原證券鄧淑斌：資本市場底層邏輯深刻轉變 “十五五”改革築牢長期向好根基】10月19日，證監會主席吳清在2026金融街論壇年會開幕式上發表主旨講話。中原證券首席經濟學家、證券研究所所長鄧淑斌解讀認為，講話明確資本市場執行底層邏輯已發生深刻變化、中國資產配置價值更加凸顯，圍繞穩市場、引入長錢、嚴監管、擴大開放、建好多層次資本市場，將“十五五”中長期規劃轉化為可落地制度工具、產品創新和監管舉措。鄧淑斌分析，吳清講話釋放出七大積極訊號，一是改革堅持謀長遠、抓當下，邊部署邊落地，政策工具箱持續啟用，著力穩定市場預期、增強內在韌性。二是改革主線轉向投融資雙向協調，構建投融資良性正向迴圈。三是中長期資金入市邁入產品化、機制化落地階段，壯大資本市場“穩定器”。四是法治化建設提速，補齊監管短板，提升市場公信力。五是高水平對外開放穩步推進、開放安全並重。六是多層次資本市場板塊差異化功能持續強化，搭建覆蓋企業全生命週期的股權融資體系。七是風險治理體系與時俱進。鄧淑斌還認為，包容性改革增量集中於發行融資制度、上市公司監管法治和激勵約束機制，將形成“篩選上市—提質增效—價值兌現—吸引科創與資本”閉環。
+
+---
+
+### 2026-10-19 22:08:33  #其他
+
+沙特民防部門表示，利雅得的危險已經解除。
+
+---
+
+### 2026-10-19 22:08:29  #MKT News
+
+Saudi civil defense says the danger in Riyadh has passed.
+
+---
+
+### 2026-10-19 22:07:45  #國際
+
+美國動用4200萬美元戰時法律資金用於憲法管道專案。
+
+---
+
+### 2026-10-19 22:07:30  #公司
+
+【中機認檢：已在低空領域進行佈局，可開展無人裝備系列試驗】中機認檢在互動平臺表示，公司主營業務為汽車整車、軍用裝備、工程機械、特種裝置、民航地面裝置、零部件等產品檢驗檢測服務，以及產品認證、體系認證和服務認證等認證服務。公司已在低空領域進行佈局，可針對無人裝備開展基礎飛行效能、自主飛行、維修性、安全性、高海拔效能、環境適應性、電磁相容性等試驗。
+
+---
+
+### 2026-10-19 22:07:11  #國際
+
+【中期選舉前夕，特朗普政府在核心移民政策上軟化立場】2025年1月以來，特朗普政府陸續剝奪了多國移民的人道主義保護身份：委內瑞拉、海地、阿富汗、敘利亞、南蘇丹。但最近幾周，少數幾個國家的移民得以倖免。約10萬烏克蘭移民原定於週一失去臨時保護身份（TPS），面臨被驅逐出境。但駐華盛頓烏克蘭大使館以及一名參與內部政策研討、要求匿名的特朗普政府官員表示，國土安全部預計將延長這批人的保護資格。大使館發言人哈莉娜?尤蘇皮烏克表示：“根據我們目前掌握的資訊，烏克蘭人的臨時保護身份預計將在10月到期後，再延長6個月。”特朗普官員與國會共和黨人一直在宣傳終止多數臨時保護身份認定。自特朗普重新上臺，該專案覆蓋的17個國家中，已有13國被取消保護資格。但移民權益倡導者認為，在11月3日中期選舉前夕，政府這項標誌性強硬政策正在軟化。
+
+---
+
+### 2026-10-19 22:07:09  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Holds Near $57 as Markets Await Fed Decision — Silver prices hovered around $57 an ounce on Monday as investors weighed easing oil prices and looked ahead to next week’s Federal Reserve meeting. Oil prices pulled back from a five-month high after US President Donald Trump eased sanctions and tariffs on Russia, raising expectations of increased fuel supplies and easing concerns over inflation. Recent US CPI and PPI reports showed stronger-than-expected inflation, partly driven by rising gasoline costs. Investors are now focused on the Fed’s upcoming policy decision and the US PCE price index, the central bank’s preferred measure of inflation. According to CME’s FedWatch Tool, markets see a 15% chance of a rate hike this month, with the probability of an increase in December reaching 89%. Meanwhile, the European Central Bank is expected to deliver at least one additional 25-basis-point rate hike this year to address persistent inflationary pressures.
+
+---
+
+### 2026-10-19 22:06:12  #市場
+
+CoreWeave轉跌，盤初一度漲超7%。
+
+---
+
+### 2026-10-19 22:05:58  #公司 #市場
+
+傑富瑞金融集團股價觸及六個月低點，最新下跌3.4%。
+
+---
+
+### 2026-10-19 22:05:39  #MKT News #DXY #Impact bullish #XAUUSD #WTI
+
+Iran's foreign minister said US military bases not only fail to protect host countries but cannot even protect themselves, and that Iran welcomes initiatives to help establish autonomous regional security mechanisms.
+
+---
+
+### 2026-10-19 22:05:19  #其他
+
+芝加哥期權交易所（Cboe）為部分股票和ETF期權推出延長交易時段。
+
+---
+
+### 2026-10-19 22:05:08  #Trading Economics #Economy #United States #Nahb Housing Market Index #Importance 2
+
+US Homebuilder Sentiment Lowest Since 2012 — The NAHB/Wells Fargo Housing Market Index (HMI), which tracks US homebuilder confidence in the market for newly built single-family homes, fell for a second consecutive month to 29 in October 2026, the lowest since June 2012, from 32 in September and below forecasts of 32. Current sales conditions fell two points to 33, also a 14-year low. Sales expectations in the next six months dropped five points to 32, the lowest since November 2022 while traffic of prospective buyers declined five points to 18. Also, 43% of builders cut prices in October, the highest share during the 2020-2026 period. The average price cut remained at 6% for the seventh consecutive month. “Housing remains squeezed by supply-side constraints and significant affordability challenges. Demand persists, but higher mortgage rates, elevated construction costs and weaker consumer confidence are keeping more buyers on the sidelines”, according to Robert Dietz, NAHB chief economist.
+
+---
+
+### 2026-10-19 22:04:53  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Little Changed as Investors Weigh Fed Outlook — Gold prices hovered around $4,150 an ounce on Monday as investors assessed easing oil prices and awaited next week’s Federal Reserve meeting. Oil retreated from a five-month high after US President Donald Trump eased sanctions and tariffs on Russia, raising hopes of increased fuel supplies and easing inflation pressures. Recent US CPI and PPI data showed stronger-than-expected inflation, partly driven by higher gasoline costs. Investors are now awaiting the Fed’s policy decision and US PCE inflation data, the central bank’s preferred inflation gauge. According to CME’s FedWatch Tool, markets see a 15% chance of a rate hike this month, while the probability of a December increase stands at 89%. Elsewhere, the European Central Bank is likely to deliver at least one more 25-basis-point rate hike this year to combat persistent inflationary pressures. While gold is considered an inflation hedge, higher interest rates tend to pressure the non-yielding metal.
+
+---
+
+### 2026-10-19 22:04:32  #其他 #焦點
+
+納斯達克100指數漲幅收窄至不足1%。
+
+---
+
+### 2026-10-19 22:04:15  #其他
+
+【沙特首都利雅得釋出防空警報】當地時間19日下午，沙特首都利雅得居民收到防空警報。(央視新聞)
+
+---
+
+### 2026-10-19 22:03:24  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Explosion sounds reported in Riyadh, Saudi Arabia.
+
+---
+
+### 2026-10-19 22:03:15  #MKT News
+
+Court filings show a former OpenAI employee is accused of secretly installing recording devices and appears to have received "substantial support" from the Saudi government.
+
+---
+
+### 2026-10-19 22:03:11  #MKT News #Commodities #Energy
+
+【Qatar plans power aid for Lebanon including two plants and 20-year LNG deal】A document seen by Refinitiv shows Qatar plans to build two power plants in Lebanon within three years and sign a 20-year LNG supply agreement as part of a proposal to revive Lebanon's struggling power sector. The draft, titled National Integrated Energy Investment Plan, covers gas-fired generation, LNG supply and regasification, renewables, battery storage and regional power interconnection. The plan is designed to attract private capital or project financing without upfront Lebanese public budget outlays; payment obligations and guarantees remain to be negotiated. Lebanon's state utility currently supplies only a few hours of electricity per day, with the balance met by costly private diesel generators. Qatar's prime minister visited last week and pledged support. The blueprint needs approval from both governments and may be revised; if approvals proceed, implementation is expected to take three years.
+
+---
+
+### 2026-10-19 22:03:04  #MKT News
+
+Washington Post reports the US will extend temporary protected status (TPS) for about 100,000 Ukrainians.
+
+---
+
+### 2026-10-19 22:02:58  #國際
+
+美國將臨時保護身份延長6個月。
+
+---
+
+### 2026-10-19 22:02:56  #MKT News #DAX #Impact bearish #EURUSD #XAUUSD #Impact bullish
+
+Italy's FTSE MIB fell as much as 2.00% intraday.
+
+---
+
+### 2026-10-19 22:02:41  #其他
+
+法庭檔案顯示，被指控安裝錄音裝置的前 OpenAI 員工似乎獲得了沙特政府的“大量支援”。
+
+---
+
+### 2026-10-19 22:02:31  #國際
+
+美國將延長約10萬烏克蘭人的臨時保護身份。
+
+---
+
+### 2026-10-19 22:02:15  #Trading Economics #Markets #Canada #Currency #Importance 1
+
+Canadian Dollar Near One-Month High — The Canadian dollar strengthened to around 1.41 per US dollar in October, reaching a near one-month high following the release of September inflation data. Canada’s annual inflation rate rose to 3.1%, its highest level in four months, driven by higher gasoline prices, but came in below market expectations of 3.2%. While rising energy prices pushed headline inflation higher, underlying measures remained subdued, with CPI-median slowing to 1.9% and CPI-trim easing to 1.8% in September. Despite the downside surprise, the outlook for Bank of Canada policy remained tilted toward tighter conditions, as policymakers flagged upside risks to inflation. Governor Tiff Macklem said on Saturday that the central bank expects to raise its quarterly inflation forecast significantly this month, following hawkish remarks last week about energy-driven price pressures. Expectations of a narrowing US-Canada interest-rate differential have provided further support for the loonie.
+
+---
+
+### 2026-10-19 22:02:14  #MKT News #Market Themes #AI Revolution
+
+The Information reported ANTHROPIC is preparing to launch a model designed to better understand user intent.
+
+---
+
+### 2026-10-19 22:02:01  #其他
+
+Anthropic準備推出推理能力更強的模型。
+
+---
+
+### 2026-10-19 22:02:00  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bearish
+
+US NAHB housing market index fell to 29 in October, the weakest reading since 2012.
+
+---
+
+### 2026-10-19 22:01:44  #經濟數據 #美國
+
+美國10月房屋建築商指數降至29，為2012年以來最低。
+
+---
+
+### 2026-10-19 22:01:32  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bearish #XAUUSD #Impact bullish #US10Y
+
+US NAHB housing market index for October 29, below expected 32 and prior 32.
+
+---
+
+### 2026-10-19 22:01:23  #MKT News
+
+Sources said Saudi Arabia's Future Investment Initiative (FII) conference has cancelled in-person attendance and is considering postponing the event.
+
+---
+
+### 2026-10-19 22:01:06  #公司
+
+KAPITAL同意以3000萬美元收購人工智慧初創公司WOZ，以增強其AI原生銀行平臺的能力。
+
+---
+
+### 2026-10-19 22:00:54  #MKT News #Important #Market Regions #Europe & UK #Greater China #Market Themes #China EV Leaders #GBPUSD #Impact bearish #XAUUSD #Impact mixed #DXY #Impact bullish
+
+【MOFCOM warns of retaliation if UK imposes curbs on Chinese EVs after London signals coordination with EU】UK media reported the UK trade minister said London must coordinate with the EU to address China’s dominant position in the auto sector and is discussing possible tariffs on Chinese electric vehicles with European partners. A MOFCOM spokesperson said Sino‑UK auto cooperation is complementary and mutually beneficial, urged the UK to adhere to WTO rules and reconsider any move, and warned Beijing will closely monitor UK actions and firmly retaliate if the UK implements restrictions or tariffs on Chinese EVs to protect Chinese industry’s legitimate rights.
+
+---
+
+### 2026-10-19 22:00:25  #其他
+
+沙特民防部門警告哈爾季省存在潛在危險。
+
+---
+
+### 2026-10-19 22:00:13  #焦點 #國際
+
+【商務部新聞發言人就英方稱將共同應對中國汽車產業占主導地位事答記者問】問：近日有媒體報道，英國商貿部國務大臣薩瓦爾稱，英國與歐盟必須步調一致，共同應對中國在汽車產業佔據的主導地位，並稱仍在與歐洲夥伴討論對中國的電動汽車加徵關稅問題。請問中方對此有何評論？答：我們注意到相關報道。中英汽車產業合作優勢互補、平等互利。中英互為重要經貿夥伴，中方敦促英方遵守世貿組織規則，並三思而後行，切勿隨歐起舞。中方將密切關注英方動向，如英方執意對中國電動汽車採取限制措施，中方將堅決反制，維護中國產業合法權益。
+
+---
+
+### 2026-10-19 22:00:09  #焦點 #國際
+
+美國10月NAHB房產市場指數 29，預期32，前值32。創2012年以來新低。
+
+---
+
+### 2026-10-19 22:00:02  #MKT News #Economic Calendar #Important
+
+United States | NAHB Housing Market Index (Oct) | actual 29 | consensus 32 | previous 32
+
+---
+
+### 2026-10-19 21:59:55  #MKT News
+
+Saudi Civil Defense issued an alert about a potential danger in Riyadh.
+
+---
+
+### 2026-10-19 21:59:40  #其他
+
+沙特民防部門警告利雅得存在潛在危險。
+
+---
+
+### 2026-10-19 21:59:31  #其他
+
+訊息人士稱，沙特未來投資倡議大會取消現場出席，考慮推遲活動。
+
+---
+
+### 2026-10-19 21:59:25  #國際
+
+俄羅斯訊息：烏克蘭對俄羅斯控制的盧甘斯克地區發動襲擊，造成三人死亡。
+
+---
+
+### 2026-10-19 21:58:13  #MKT News
+
+Iran's foreign minister Araghchi said Tehran welcomes any proposal that can ensure regional security without intervention by external powers.
+
+---
+
+### 2026-10-19 21:57:15  #國際
+
+伊朗外長阿拉格齊表示，德黑蘭歡迎任何能在排除外部因素的情況下保障地區安全的設想。
+
+---
+
+### 2026-10-19 21:56:13  #央行 #市場 #觀點
+
+高盛：持續認為各國央行需求是黃金的結構性支撐。
+
+---
+
+### 2026-10-19 21:56:06  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Goldman Sachs says central-bank demand remains a structural support for gold.
+
+---
+
+### 2026-10-19 21:55:16  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Slips Amid Hawkish BoC Outlook — The S&P/TSX Composite Index fell about 0.5% to below 36,000 on Monday as investors assessed fresh inflation data and the outlook for BoC policy. Canada’s annual inflation rate rose to 3.1% in September, its highest level in four months, driven by higher gasoline prices, but came in below market expectations of 3.2%. Despite the downside surprise, the outlook for the BoC remained tilted toward tighter policy, as policymakers flagged upside risks to inflation. Governor Tiff Macklem said on Saturday that the central bank expects to raise its quarterly inflation forecast significantly this month, following hawkish remarks last week about energy-driven price pressures. Oil prices remained elevated amid attacks on tankers in the Strait of Hormuz, keeping inflation risks in focus. Major banks declined, with RBC, BMO, and Scotiabank each falling 0.5%. Energy producers also posted losses as oil prices retreated from recent highs. Miners likewise fell as gold prices edged lower.
+
+---
+
+### 2026-10-19 21:55:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Goldman Sachs expects global central bank gold purchases in August of 79 tonnes, well above the pre-2022 average of 17 tonnes.
+
+---
+
+### 2026-10-19 21:54:40  #央行 #觀點
+
+高盛：估計8月各國央行購金79噸，遠高於2022年前17噸的平均水平。
+
+---
+
+### 2026-10-19 21:53:50  #國際
+
+伊朗外長：歐洲必須摒棄雙重標準，遵循常理之道。
+
+---
+
+### 2026-10-19 21:53:40  #國際
+
+【被楊立昆質疑，馬斯克“沒繃住”】從馬斯克和楊立昆在海外社交平臺上的互動記錄來看，兩人的爭吵發生在過去的這個週末。馬斯克10月16日在自己的賬號上釋出了一段特斯拉“飛行”汽車的宣傳片後，曾榮獲2018年圖靈獎，還被一些美國媒體譽為“AI教父”的美國知名電腦科學家楊立昆（Yann LeCun，法裔），曾在馬斯克的帖文下留言，問這款車是不是用過氧化氫驅動實現飛行的。楊立昆後來解釋說，他是看到馬斯克的汽車在起飛時產生的大量蒸汽，所以好奇馬斯克用的是不是早在上世紀70年代就已經被用於噴氣動力裝置的過氧化氫。
+
+在得知特斯拉官方披露該車使用壓縮空氣驅動後，楊立昆又在馬斯克的帖文下補了一段留言，表示如果馬斯克的車能“飛”是因為使用了壓縮空氣驅動，那麼這隻能證明這款車“完全沒有實用價值”，因為壓縮空氣“比衝很低”，能維持有效推力的時間很短。“所以這輛車只能是一個空心輕質外殼，裡面裝大型壓縮氣罐。當個趣味演示還行，完全沒有實用價值。”楊立昆寫道。他還在帖文中表示，馬斯克本人應該很清楚這點。
+
+面對楊立昆的質疑，馬斯克顯然有些“沒繃住”。他留言回懟楊立昆說：我是朝你大致的方向排了個氣。
+
+雖然馬斯克的這番回應立刻引發馬斯克支持者對楊立昆的大量圍攻——其中有人認為這位科學家不懂創新，還有人認為他不懂幽默，是那種給魔術師拆臺的“蠢貨”，但楊立昆也沒有示弱，而是繼續回覆馬斯克說：“排氣確實是你的車能飛起來的方式，只是希望味道沒有那麼臭。”目前，馬斯克未再回應楊立昆。（環球時報）
+
+---
+
+### 2026-10-19 21:52:57  #市場
+
+帝亞吉歐下跌 1.8%，保樂力加下跌 1.2%。
+
+---
+
+### 2026-10-19 21:52:39  #MKT News
+
+Iranian foreign minister Araghchi said the only way for the US to resolve the matter is through diplomacy.
 
 ---
 
@@ -14130,377 +14478,5 @@ Lebanon's President Aoun said strengthening and equipping the armed forces is ke
 ### 2026-10-18 02:25:10  #國際
 
 美國總統特朗普在肯塔基州舉辦集會，為中期選舉最後衝刺動員選民。
-
----
-
-### 2026-10-18 02:22:18  #國際
-
-以色列總理內塔尼亞胡：他們想擾亂選舉，或者至少影響選舉。以色列的所有敵人都公開這麼說；從紐約市長馬姆達尼，到伊斯坦布林的埃爾多安，到伊朗的阿亞圖拉們，到黎巴嫩的真主黨，到加沙的哈馬斯，當然還有曼蘇爾·阿巴斯和馬哈茂德·阿巴斯。他們都在說同樣的話，內塔尼亞胡必須輸。他們為什麼這麼說？為什麼他們努力讓我們輸？因為他們不想要對以色列有利的東西。他們想要摧毀以色列。以色列的所有敵人在這一點上是一致的。這是事實。他們公開這麼說。
-
----
-
-### 2026-10-18 02:21:34  #MKT News
-
-Lebanese President AOUN said he welcomes any plan that ensures international forces remain deployed in southern Lebanon and prevents a security vacuum if UNIFIL withdraws.
-
----
-
-### 2026-10-18 02:21:15  #MKT News
-
-Lebanese President AOUN said Lebanon seeks to extend UNIFIL's mandate in any form that ensures international forces remain deployed in southern Lebanon.
-
----
-
-### 2026-10-18 02:20:41  #MKT News
-
-Lebanese President Aoun said Israel has not complied with the framework agreement reached under US mediation.
-
----
-
-### 2026-10-18 02:20:25  #MKT News
-
-Lebanon's President Aoun said a Lebanese military delegation will attend a tripartite meeting in Tampa, Florida next Tuesday, Al Jazeera reported.
-
----
-
-### 2026-10-18 02:17:11  #公司
-
-軟銀集團正就收購聯合環球（Allied Universal）展開初步談判。
-
----
-
-### 2026-10-18 02:15:36  #MKT News
-
-Fars News Agency quoted an IRGC spokesman dismissing reports that the US was considering use of the "Mother of All Bombs" (MOAB), saying only "barbaric civilizations" would use "mother" to name their most powerful bomb.
-
----
-
-### 2026-10-18 02:14:11  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Houthi rebels say they shot down Saudi Apache helicopter near Najran】On the 17th (local time), Houthi rebel spokesman Yahya Saree said the group shot down a Saudi Apache helicopter near Najran, Saudi Arabia. The statement said the helicopter was attempting hostile action against Houthi positions in the border area and was subsequently shot down using appropriate weapons.
-
----
-
-### 2026-10-18 02:13:14  #MKT News #Important #WTI #Impact bullish #Brent
-
-【Iranian forces fire on, intercept vessels attempting "unauthorized" passage in Strait of Hormuz】Iranian armed forces said they fired on and intercepted vessels attempting "unauthorized" passage through the Strait of Hormuz at 18:15 local time on the 17th, firing from an area near Sirik.
-
----
-
-### 2026-10-18 02:11:48  #其他
-
-【胡塞武裝稱擊落沙特直升機】當地時間10月17日晚， 葉門胡塞武裝發言人葉海亞·薩雷亞發表宣告稱，胡塞武裝在沙烏地阿拉伯奈季蘭地區附近擊落一架沙特方面的“阿帕奇”直升機。宣告稱，該直升機當時正試圖對胡塞武裝在邊境地區的陣地“實施敵對行動”。沙特方面對此暫無回應。（CCTV國際時訊）
-
----
-
-### 2026-10-18 02:11:23  #焦點 #國際
-
-【伊朗武裝部隊開火攔截霍爾木茲海峽“違規”通行船隻】當地時間17日18時15分，伊朗武裝部隊從錫裡克地區附近向霍爾木茲海峽試圖“違規”通行的船隻開火，並將其攔截。（央視新聞）
-
----
-
-### 2026-10-18 02:09:01  #國際
-
-伊朗外交部發言人巴加埃：因技術問題和預防性措施，伊朗與巴基斯坦之間的邊境口岸已暫時關閉；兩國有關部門正保持密切溝通，以解決這些未具體說明的問題，儘快恢復正常的邊境通行和貿易。
-
----
-
-### 2026-10-18 02:08:22  #其他
-
-【彈藥堆爆炸致伊拉克民兵武裝5人受傷】伊拉克什葉派民兵武裝“人民動員組織”17日晚釋出宣告說，該組織位於首都巴格達一處基地內的廢棄彈藥堆發生爆炸，造成5人受傷。宣告說，爆炸引發的火災已被控制，專業調查委員會已開始對事故原因及具體情況展開調查。（新華社）
-
----
-
-### 2026-10-18 02:08:18  #MKT News
-
-【Ammunition-dump explosion injures five at Baghdad Popular Mobilization Forces base】Shiite militia Popular Mobilization Forces said on the evening of the 17th an explosion at an abandoned ammunition dump inside one of its Baghdad bases injured five. The fire was brought under control and a specialized investigative committee has opened a probe into the cause and circumstances.
-
----
-
-### 2026-10-18 02:07:52  #MKT News
-
-【MERZ confronted by CDU youth delegate demanding resignation over pensions and government debt】At the CDU youth wing annual delegate conference in Bonn on Saturday, a delegate publicly demanded Chancellor MERZ resign, accusing him of failing younger generations on pensions policy and government debt and saying public trust in him is gone; the delegate urged MERZ to petition the Office of the Federal President to be relieved of his duties. MERZ did not respond to the demand.
-
----
-
-### 2026-10-18 02:07:21  #國際
-
-美國方面提出允許俄羅斯向歐洲出售更多天然氣的設想，該設想將成為與烏克蘭和平協議的一部分；美國特使在9月與歐洲官員的會談中曾推介這一想法。
-
----
-
-### 2026-10-18 02:04:45  #國際
-
-美國提議允許俄羅斯向歐洲出售更多天然氣。
-
----
-
-### 2026-10-18 02:02:32  #MKT News
-
-AFP reported about 800,000 people across France took part in demonstrations protesting rising living costs.
-
----
-
-### 2026-10-18 02:01:58  #MKT News #Market Regions #Europe & UK
-
-French Interior Minister Nunez said 400 people were arrested during protests.
-
----
-
-### 2026-10-18 01:56:15  #MKT News
-
-French Interior Minister Nunez said authorities will do everything possible to find the perpetrators of the violence.
-
----
-
-### 2026-10-18 01:56:08  #MKT News
-
-Macron: France will not tolerate violence.
-
----
-
-### 2026-10-18 01:55:42  #其他
-
-德國總理默茨：他們企圖將這個國家推向極右翼，我們同樣必須對此予以抵制。凡是在我們陣營當中，認為這類人應當當選公職的人，在德國基民盟中完全沒有立足之地。
-
----
-
-### 2026-10-18 01:53:25  #其他
-
-法國內政部長努涅斯：政府將盡一切可能找到暴力事件的肇事者。
-
----
-
-### 2026-10-18 01:52:02  #國際
-
-美國參議員克魯茲：特朗普暫停對俄製裁是一項錯誤舉措。
-
----
-
-### 2026-10-18 01:51:29  #國際
-
-法國總統馬克龍：法國沒有暴力的容身之地。
-
----
-
-### 2026-10-18 01:46:11  #其他
-
-【德國基民盟青年代表在黨代會上要求默茨辭職】德國總理默茨今日在波恩舉行的政黨代表大會上，遭到基民盟青年組織一名代表要求其辭職。這名代表指責默茨的養老金政策與政府債務舉措辜負了年輕一代，稱公眾對他的信任已經崩塌。他表示：“如果你真的如此關心國家和本黨，那就坐上公務車，前往聯邦總統處請求卸任。”默茨沒有回應這項辭職要求。
-
----
-
-### 2026-10-18 01:43:03  #國際
-
-以色列總理內塔尼亞胡：在伊朗問題上仍與特朗普保持一致。
-
----
-
-### 2026-10-18 01:35:28  #MKT News
-
-Iraq's Popular Mobilization Forces said a preliminary investigation found an explosion at one of its headquarters was caused by an internal malfunction and not an external attack.
-
----
-
-### 2026-10-18 01:29:54  #MKT News
-
-Russian Defence Ministry said it shot down 30 Ukrainian drones across multiple regions and over the Black Sea today.
-
----
-
-### 2026-10-18 01:29:46  #國際
-
-【印度加爾各答踩踏事故已致19人死亡】據印度警方和醫院資料，印度西孟加拉邦首府加爾各答17日晚發生的踩踏事故已造成19人死亡。（央視新聞）
-
----
-
-### 2026-10-18 01:29:34  #MKT News #Market Themes #AI Revolution
-
-【China's Li meets Uzbekistan President Mirziyoyev in Tashkent】Oct. 17 in Tashkent, China's Premier Li Qiang met Uzbekistan President Mirziyoyev. Li said China will seek to expand and optimize bilateral trade and deepen cooperation in energy, mining, finance and connectivity, and pledged to ensure high‑quality implementation of the China‑Kyrgyzstan‑Uzbekistan railway. He also flagged intensified tech cooperation in AI, the green economy and aerospace, and said Beijing supports more capable Chinese firms investing in Uzbekistan, urging continuation of a favorable business environment. Both sides agreed to strengthen coordination on major issues and multilateral cooperation through China‑Central Asia mechanisms and the Shanghai Cooperation Organization.
-
----
-
-### 2026-10-18 01:28:49  #國際
-
-俄羅斯國防部：今日在全國多地及黑海區域擊落30架烏克蘭無人機。
-
----
-
-### 2026-10-18 01:27:35  #MKT News
-
-BAGHAEI said Iran and Pakistan are in close contact and negotiating to resolve the issue, aiming to restore normal operation of border crossings as soon as possible.
-
----
-
-### 2026-10-18 01:27:26  #MKT News
-
-Responding to reports that Iran had closed its land border with Pakistan, Iranian foreign ministry spokesman BAGHAEI said crossings and movement are temporarily suspended due to technical problems and as a precaution.
-
----
-
-### 2026-10-18 01:24:38  #其他
-
-市場資訊：阿聯酋同意重返葉門衝突，恢復對反胡塞武裝的資金支援，沙烏地阿拉伯將提供空中掩護，胡塞武裝的推進令海灣國家感到警惕。
-
----
-
-### 2026-10-18 01:23:20  #其他
-
-馬斯克：既然命運總是追求諷刺性的娛樂效果，那麼“Roadster”成為飛行汽車就是不可避免的。
-
----
-
-### 2026-10-18 01:22:34  #宏觀 #國際
-
-【李強會見烏茲別克總統米爾濟約耶夫】10月17日，國務院總理李強在塔什干會見烏茲別克總統米爾濟約耶夫。李強表示，近年來，在習近平主席和米爾濟約耶夫總統的戰略引領下，中烏命運共同體建設不斷取得新成果。面對國際形勢變亂交織，中烏應當更加緊密團結協作，堅定攜手前行。中方願同烏方加強戰略溝通，繼續堅定支援彼此核心利益，拓展互利合作，為兩國人民帶來更多福祉。（新華社）
-
----
-
-### 2026-10-18 01:22:20  #MKT News #WTI #Impact bearish #Brent
-
-【CENTCOM says Strait of Hormuz remains open; roughly 97% of transiting vessels unhit】CENTCOM spokesman Navy Col. Tim Hawkins said the vast majority of Iranian attempts to attack ships in the Strait of Hormuz have failed and the waterway remains open. He said US forces have coordinated protection enabling thousands of vessels to transit and estimated roughly 97% of ships attempting to pass were not struck by Iranian projectiles. Hawkins added the Islamic Revolutionary Guard Corps’ actions are unjustified and have not succeeded in closing the strait; shipping continues to transit.
-
----
-
-### 2026-10-18 01:18:35  #宏觀 #國際
-
-【李強同烏茲別克總理阿里波夫會談】10月17日下午，國務院總理李強在塔什干同烏茲別克總理阿里波夫舉行會談。李強表示，習近平主席和米爾濟約耶夫總統今年8月舉行會晤，為雙邊關係發展進一步指明方向。明年中烏將迎來建交35週年，中方願同烏方以此為契機，賡續傳統友誼，深化政治互信，加強務實合作，推動中烏命運共同體建設不斷走向深入，更好惠及兩國人民。（新華社）
-
----
-
-### 2026-10-18 01:16:24  #公司
-
-【梅賽德斯推出高效能電動SUV】梅賽德斯-賓士集團釋出首款由AMG品牌完全自主研發的電動SUV，入門版AMG GT SUV起售價113050歐元（摺合127060美元），於週二開啟預售，兩款更高配置版本將於明年春季陸續推出。車輛配備三臺軸向磁通電機與800伏電池，最大輸出1169匹馬力。基礎版續航最高668公里（415英里），頂配車型單次充電續航可達700公里。最頂級版本零百加速僅需2.5秒。
-
----
-
-### 2026-10-18 01:15:00  #國際
-
-【墨西哥恰帕斯州近海發生5.2級地震】根據歐洲-地中海地震中心報告，當地時間17日6時59分，墨西哥東南部恰帕斯州近海發生5.2級地震，震源深度10公里。目前暫無海嘯預警報告。
-
----
-
-### 2026-10-18 01:01:53  #國際
-
-【印媒：印度東部踩踏事故致17人死亡】據印度媒體17日報道，印度東部西孟加拉邦首府加爾各答一處印度教節日慶祝活動現場當晚發生踩踏事故，造成至少17人死亡、多人受傷。（央視新聞）
-
----
-
-### 2026-10-18 00:46:55  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Houthi forces say Saudi warplanes carried out 53 airstrikes in Yemen in past 24 hours】Houthi military spokesman Yahya Sarea said Saudi F-15 and Typhoon fighters launched from Khamis Mushait and Taif air bases carried out 53 airstrikes in the past 24 hours on Sanaa and the provinces of Taiz, Ibb, Lahj, Saada and Amran, hitting civilian targets and causing numerous casualties, mostly women and children. He said the total number of Saudi air and missile strikes since Saudi Arabia escalated military operations against Yemen has reached 2,542.
-
----
-
-### 2026-10-18 00:45:27  #MKT News
-
-Houthi military spokesman Yahya Saree said Saudi warplanes carried out 53 airstrikes in the past 24 hours on the capital Sana'a and the provinces of Taiz, Ibb, Lahj, Saada and Amran, targeting civilian infrastructure.
-
----
-
-### 2026-10-18 00:43:26  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Russia says it controls eight settlements; Ukraine says it struck Russian command posts】The Russian Defence Ministry said on the 17th that over the previous day Russian forces seized eight populated localities in Kharkiv and other areas and struck Ukrainian transport infrastructure, UAV storage sites and temporary deployment points. It said air defences shot down 654 Ukrainian fixed-wing drones and one HIMARS rocket; the Black Sea Fleet destroyed one Ukrainian naval drone in the Black Sea. The Ukrainian General Staff said on the 17th that its air force, missile troops and artillery struck Russian troop concentrations and drone command posts, destroying one tank, two armoured vehicles and 1,396 drones.
-
----
-
-### 2026-10-18 00:43:03  #國際
-
-【俄稱控制8個居民點 烏稱襲擊俄指揮所】俄羅斯國防部17日通報稱，過去一天，俄軍在哈爾科夫等地區控制8個居民點。俄軍對烏軍交通基礎設施、無人機儲存設施以及臨時部署點實施打擊。俄軍防空系統擊落654架烏克蘭固定翼無人機和1枚“海馬斯”火箭彈，黑海艦隊還在黑海海域摧毀1艘烏克蘭海軍無人艇。烏克蘭武裝部隊總參謀部17日通報稱，過去一天，烏空軍、導彈部隊和炮兵襲擊了俄方人員集結區、無人機指揮所等目標，摧毀俄軍1輛坦克、2輛裝甲車以及1396架無人機等武器裝備。（央視新聞）
-
----
-
-### 2026-10-18 00:42:45  #MKT News
-
-Iraq prime minister al-Zaidi ordered an investigative committee to probe an explosion at an ammunition depot inside a Popular Mobilization Forces headquarters in Baghdad.
-
----
-
-### 2026-10-18 00:35:47  #MKT News
-
-【Pakistan temporarily suspends border trade with Iran】On Oct. 17 local time, the deputy commissioner of Chagai district in Pakistan's Balochistan province said on social media that border trade with Iran has been temporarily suspended for security reasons. He said the closure is a temporary measure to strengthen border management and support counterterrorism operations and that the border will reopen once effective measures are implemented.
-
----
-
-### 2026-10-18 00:34:14  #國際
-
-【巴基斯坦暫時關閉與伊朗的邊境貿易通道】當地時間10月17日，巴基斯坦俾路支省查蓋地區副專員在社交媒體上表示，出於安全考慮，巴基斯坦與伊朗之間的邊境貿易已暫時中止。該官員表示，暫時關閉巴伊邊境貿易通道是為加強邊境管理、支援反恐行動而採取的臨時措施。一旦相關有效措施落實到位，邊境將重新開放。（央視新聞）
-
----
-
-### 2026-10-18 00:22:48  #MKT News
-
-【U.S. Embassy in Riyadh issues another security alert】On the 16th (local time) the U.S. Embassy in Riyadh issued another security alert to U.S. citizens in Saudi Arabia, urging caution and advising they factor in possible flight cancellations and potential closure of Saudi airspace. Washington has issued multiple warnings on Saudi security in recent weeks.
-
----
-
-### 2026-10-18 00:20:03  #MKT News
-
-【Explosion at munitions depot in Baghdad】Iraqi security sources said on the 17th (local time) a depot storing damaged munitions belonging to the Shia Popular Mobilization Forces east of Baghdad exploded, injuring several people. Cause unknown.
-
----
-
-### 2026-10-18 00:19:26  #其他
-
-【伊拉克首都一彈藥倉庫發生爆炸 】當地時間17日，伊拉克安全部門訊息人士稱，位於該國首都巴格達東部隸屬伊拉克什葉派民兵武裝“人民動員組織”的一處儲存受損彈藥的倉庫發生爆炸，已致多人受傷。爆炸原因不明。（央視新聞）
-
----
-
-### 2026-10-18 00:12:36  #其他
-
-羅馬尼亞國防部稱，羅馬尼亞F-16戰鬥機在羅馬尼亞領海上空擊落兩架無人機。
-
----
-
-### 2026-10-18 00:12:34  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-TASNIM NEWS reported Romanian F-16s shot down two drones over the Black Sea after they entered Romanian airspace.
-
----
-
-### 2026-10-18 00:10:59  #MKT News
-
-France's prime minister said the government will not allow any political agenda to be imposed domestically through violence.
-
----
-
-### 2026-10-18 00:06:41  #MKT News
-
-The Israel Defense Forces said it carried out strikes across multiple areas of the Gaza Strip in recent days, killing four Hamas members.
-
----
-
-### 2026-10-18 00:00:18  #MKT News
-
-【Saudi-led coalition says it intercepted and destroyed four drones over Riyadh, east and south】On Oct 17 local time, Saudi-led coalition spokesman Turki al-Maliki said the coalition intercepted and destroyed four drones over Riyadh and in eastern and southern regions in the past several hours.
-
----
-
-### 2026-10-17 23:55:15  #其他
-
-【沙特聯軍稱在利雅得等多地攔截並摧毀4架無人機 】當地時間10月17日，沙特主導的多國聯軍發言人圖爾基·馬利基表示，過去數小時內，聯軍在沙特首都利雅得、東部地區及南部地區攔截並摧毀了4架無人機。（央視新聞）
-
----
-
-### 2026-10-17 23:47:51  #其他
-
-【巴基斯坦俾路支省20名警察遭武裝分子綁架 】巴基斯坦俾路支省政府官員17日說，該省默斯東地區20名警察16日晚被身份不明的武裝分子綁架。（新華社）
-
----
-
-### 2026-10-17 23:46:44  #其他
-
-兩名安全訊息人士：巴格達北部的人民動員部隊總部內發生爆炸，原因尚不清楚；一名人民動員部隊成員死亡，另有四人受傷。
-
----
-
-### 2026-10-17 23:22:18  #其他
-
-【坦尚尼亞加強入境健康篩查 防止埃博拉病毒輸入】坦尚尼亞衛生部當地時間17日釋出最新旅行健康提示，宣佈加強邊境衛生防控措施，要求所有入境旅客填寫健康監測申報表，並在機場、陸路口岸和海港接受健康篩查，以防止埃博拉等傳染病傳入。（央視新聞）
-
----
-
-### 2026-10-17 23:13:04  #國際
-
-【伊拉克總理呼籲伊斯蘭合作組織成員國促進地區和平】伊斯蘭合作組織外長理事會第52次會議17日在伊拉克首都巴格達開幕。伊拉克總理扎伊迪在開幕致辭中呼籲該組織成員國加強合作、尊重差異，以促進地區穩定與和平。據伊拉克總理新聞辦公室發表的宣告，扎伊迪在致辭中說，巴勒斯坦問題是地區衝突的核心，確保巴勒斯坦人民獲得公正並保障其各項權利，對於實現地區安全與穩定至關重要。伊拉克外交部17日發表的宣告說，伊拉克正式接任該理事會輪值主席國。本次會議為期兩天，主題為“對話與團結：促進和平與可持續發展的兩大支柱”。會議將探討一系列議題，重點包括巴勒斯坦問題、加沙地帶局勢以及更廣泛的地區和國際事務。（新華社）
 
 ---
