@@ -1,7 +1,17 @@
 {
   "date": "2026-10-24",
-  "count": 536,
+  "count": 537,
   "items": [
+    {
+      "id": "mkt:01a16c97-45ea-7ee0-a961-f126b41ba767",
+      "time": "2026-10-24 14:26:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhiyuan fields 110 full-size humanoid robots in synchronized dance, sets Guinness record】Oct 24 — In Jinan, Shandong, Zhiyuan deployed 110 full-size A3 humanoid robots in a synchronized dance, setting a Guinness World Record for most humanoid robots dancing simultaneously. The demonstration used Zhiyuan’s Lingdong LinkBots cluster-control platform and UWB centimeter‑level positioning to coordinate multi-robot synchronization and formation changes. The company said the robots will be gradually deployed in cultural-tourism performances, public-service roles and research and education settings."
+    },
     {
       "id": "5166050",
       "time": "2026-10-24 14:20:20",

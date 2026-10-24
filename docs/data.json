@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-24 14:24:50",
-  "count": 13005,
+  "updated": "2026-10-24 14:28:46",
+  "count": 13002,
   "items": [
+    {
+      "id": "mkt:01a16c97-45ea-7ee0-a961-f126b41ba767",
+      "time": "2026-10-24 14:26:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhiyuan fields 110 full-size humanoid robots in synchronized dance, sets Guinness record】Oct 24 — In Jinan, Shandong, Zhiyuan deployed 110 full-size A3 humanoid robots in a synchronized dance, setting a Guinness World Record for most humanoid robots dancing simultaneously. The demonstration used Zhiyuan’s Lingdong LinkBots cluster-control platform and UWB centimeter‑level positioning to coordinate multi-robot synchronization and formation changes. The company said the robots will be gradually deployed in cultural-tourism performances, public-service roles and research and education settings."
+    },
     {
       "id": "5166050",
       "time": "2026-10-24 14:20:20",
@@ -117788,47 +117798,6 @@
         "GBPUSD"
       ],
       "text": "Bank of England Governor Bailey to speak in ten minutes."
-    },
-    {
-      "id": "mkt:01a1488c-6a4a-7ee0-a8c9-9272615ca7c9",
-      "time": "2026-10-17 14:28:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "UK Maritime Trade Operations (UKMTO) said on Friday an oil tanker was struck by an unidentified projectile in waters northeast of Jubail, Saudi Arabia; all crew are safe and have been evacuated."
-    },
-    {
-      "id": "5151418",
-      "time": "2026-10-17 14:28:22",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "英國海上貿易行動辦公室(UKMTO)稱，週五在沙烏地阿拉伯朱拜勒東北方向，一艘油輪被不明飛行物擊中，船員安全並已撤離。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202610173899039938",
-      "time": "2026-10-17 14:27:28",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行行長拉加德：應採取適度政策舉措遏制通脹】歐洲央行行長拉加德表示，戰爭帶來通脹上行風險。財政可持續性仍是整體經濟穩定的“重要支柱”，各國政府應當確保針對能源衝擊出臺的財政舉措具備臨時性、定向性與適配性。經濟前景下行風險存在，通脹風險上行；應採取適度政策舉措遏制通脹。"
-    },
-    {
-      "id": "mkt:01a1488a-40bb-7ee0-a8c9-8d13b9d3560a",
-      "time": "2026-10-17 14:26:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【IMF managing director warns of risks from nonbank financial firms, cyberattacks and fraud】IMF Managing Director Kristalina Georgieva urged regulators to be vigilant about risks from nonbank financial institutions, cyberattacks and fraud. She said central banks should stay highly focused on maintaining price stability. Delegates at this week’s IMF–World Bank annual meetings in Bangkok flagged signs of fragility as energy and fiscal buffers are depleted and economic resilience begins to show strain."
     }
   ]
 }
