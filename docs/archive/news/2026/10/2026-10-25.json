@@ -1,7 +1,82 @@
 {
   "date": "2026-10-25",
-  "count": 123,
+  "count": 131,
   "items": [
+    {
+      "id": "5166633",
+      "time": "2026-10-25 04:25:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：接連不斷的競選集會讓我嗓子吃不消。"
+    },
+    {
+      "id": "mkt:01a16f96-1d18-7ee0-a967-0827519428b3",
+      "time": "2026-10-25 04:24:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said he may have to completely resolve the Iran issue or may reach an agreement with Iran, and that in either case the U.S. would win."
+    },
+    {
+      "id": "5166632",
+      "time": "2026-10-25 04:24:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：或許必須徹底解決伊朗問題，或許必須達成協議，目前還不確定。"
+    },
+    {
+      "id": "5166631",
+      "time": "2026-10-25 04:23:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普發文聲稱洛杉磯存在選票造假，可能有數十萬張非法選票，聯邦檢察官已發現大量疑點。"
+    },
+    {
+      "id": "mkt:01a16f94-fa84-7ee0-a967-04c9d9922500",
+      "time": "2026-10-25 04:23:16",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "President Trump said if Russia and Ukraine reach an agreement, the US would be able to resume commercial relations with both countries."
+    },
+    {
+      "id": "5166630",
+      "time": "2026-10-25 04:22:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果俄烏達成協議，就能與俄烏做生意。"
+    },
+    {
+      "id": "5166629",
+      "time": "2026-10-25 04:22:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望（烏克蘭星鏈）恢復常態，讓俄羅斯和烏克蘭達成協議。"
+    },
+    {
+      "id": "5166628",
+      "time": "2026-10-25 04:22:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普拒絕透露與馬斯克談話的細節。"
+    },
     {
       "id": "5166627",
       "time": "2026-10-25 04:21:54",
