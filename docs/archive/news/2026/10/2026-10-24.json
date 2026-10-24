@@ -1,7 +1,52 @@
 {
   "date": "2026-10-24",
-  "count": 666,
+  "count": 671,
   "items": [
+    {
+      "id": "mkt:01a16d5f-1f97-7ee0-a963-309c6be447f7",
+      "time": "2026-10-24 18:05:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel denies NETANYAHU ordered diplomats to support Argentina on Falklands】i24News reported Israel denied a Daily Telegraph story that NETANYAHU ordered diplomats to back Argentina’s call for talks on the Falkland Islands (Malvinas) as retaliation for UK sanctions on West Bank settlements. Alex Gandler, spokesperson for Israel’s embassy in London, posted: \"I categorically deny the allegation. There was no such instruction.\""
+    },
+    {
+      "id": "mkt:01a16d5d-413b-7ee0-a963-2af33e74156f",
+      "time": "2026-10-24 18:03:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Oct. 25 — Zhang Xue to attempt Guinness record in Mayang, Hunan】On Oct. 25, Zhang Xue, founder of Zhang Xue Motorcycles, will drive a modified MX450 in Xiaopo Village, Guogongping Town, Mayang Miao Autonomous County, Huaihua, Hunan, attempting a Guinness World Record for farthest distance by a modified motorcycle on open water, targeting a proposed 40 km."
+    },
+    {
+      "id": "5166173",
+      "time": "2026-10-24 18:02:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉疫情已致4727人死亡】根據剛果（金）國家生物醫學研究所10月24日釋出統計資料顯示，截至10月21日，該國第17輪埃博拉疫情累計確診病例升至9765例，死亡4727例，死亡率48.4%。（央視）"
+    },
+    {
+      "id": "5166172",
+      "time": "2026-10-24 18:01:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【位元組AI應用再整合：小云雀併入即夢】從知情人士處獲悉，近期剪映內部完成了一次業務整合，AI短劇創作平臺小云雀併入智慧創作平臺即夢，產品仍保留獨立入口。（36氪）"
+    },
+    {
+      "id": "mkt:01a16d5c-1c1d-7ee0-a963-220d9f38290e",
+      "time": "2026-10-24 18:01:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "China Tech Giants"
+      ],
+      "text": "【ByteDance consolidates AI apps; XiaoYunque merged into Jimeng】People familiar with the matter said Jianying recently completed an internal consolidation, folding AI short-drama creation platform XiaoYunque into intelligent-creation platform Jimeng; the product will retain a standalone entry."
+    },
     {
       "id": "5166171",
       "time": "2026-10-24 18:00:13",
