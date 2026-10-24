@@ -1,7 +1,15 @@
 {
   "date": "2026-10-24",
-  "count": 714,
+  "count": 715,
   "items": [
+    {
+      "id": "mkt:01a16d9c-b973-7ee0-a963-c181ca963250",
+      "time": "2026-10-24 19:12:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE's Ras Al Khaimah closes all beaches until further notice."
+    },
     {
       "id": "5166199",
       "time": "2026-10-24 19:06:39",
