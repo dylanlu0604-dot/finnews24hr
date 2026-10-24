@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-24 23:01:55",
-  "count": 13019,
+  "updated": "2026-10-24 23:06:23",
+  "count": 13022,
   "items": [
+    {
+      "id": "mkt:01a16e70-e602-7ee0-a965-45a7744e09e9",
+      "time": "2026-10-24 23:04:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Israeli forces evict about 1,500 Palestinians in Hebron, seal city access】Israeli forces began operations in the West Bank city of Hebron on the 23rd, evicting about 1,500 Palestinians from their homes and ordering a further 2,500 to be removed. The Hebron governor said the raids displaced more than 200 Palestinian families. The military demolished homes and shops, sealed roads into Hebron and barred residents from entering or leaving. The Israel Defense Forces said it would carry out “precise, targeted, comprehensive” searches to locate and destroy “terrorist” facilities and weapons."
+    },
+    {
+      "id": "5166438",
+      "time": "2026-10-24 23:04:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍將希伯倫1500名巴勒斯坦人驅離住所】據巴勒斯坦通訊社24日報道，以色列軍隊自23日開始在約旦河西岸城市希伯倫展開軍事行動，將當地約1500名巴勒斯坦人驅離住所，還有2500人將被驅離。（新華社）"
+    },
+    {
+      "id": "mkt:01a16e6f-f8f3-7ee0-a965-3be5505085f7",
+      "time": "2026-10-24 23:03:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: the US Embassy in the UAE said it may implement personnel adjustments."
+    },
     {
       "id": "5166437",
       "time": "2026-10-24 23:01:03",
