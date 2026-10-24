@@ -1,7 +1,319 @@
 {
   "date": "2026-10-25",
-  "count": 62,
+  "count": 97,
   "items": [
+    {
+      "id": "mkt:01a16f67-9e3a-7ee0-a966-be188d28492a",
+      "time": "2026-10-25 03:33:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Riyadh Airport said effective Oct. 25 Terminal 1 will serve domestic flights and Terminal 2 will serve international flights."
+    },
+    {
+      "id": "5166608",
+      "time": "2026-10-25 03:33:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯利雅得機場宣告：自10月25日起，1號航站樓將分配給國內航班，2號航站樓分配給國際航班。"
+    },
+    {
+      "id": "mkt:01a16f65-6b95-7ee0-a966-b2fd173ec357",
+      "time": "2026-10-25 03:31:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian foreign ministry spokesman BAGHAEI urged European countries to comply with international law and abandon coercive measures and illegal sanctions against Iran to demonstrate sincerity in pursuing diplomatic solutions."
+    },
+    {
+      "id": "mkt:01a16f65-4f63-7ee0-a966-ac0d350388a4",
+      "time": "2026-10-25 03:31:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Iran foreign ministry spokesperson BAGHAEI said regional talks should probe the root causes of insecurity in the Persian Gulf and the Strait of Hormuz."
+    },
+    {
+      "id": "5166607",
+      "time": "2026-10-25 03:29:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國佐治亞州州長宣佈繼續暫停徵收州汽油稅。"
+    },
+    {
+      "id": "5166606",
+      "time": "2026-10-25 03:28:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊拉克民兵武裝：美軍機一個月內171次侵犯伊領空】伊拉克民兵武裝“伊斯蘭抵抗組織”24日發表宣告稱，9月30日至10月23日，共監測到美國戰鬥機和偵察機171次侵犯伊拉克領空。（新華社）"
+    },
+    {
+      "id": "5166605",
+      "time": "2026-10-25 03:26:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "安全訊息人士稱，載有炸藥的無人機襲擊了伊拉克埃爾比勒東北部的伊朗庫爾德反對派營地。"
+    },
+    {
+      "id": "5166604",
+      "time": "2026-10-25 03:26:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆：看好英國與歐洲深化聯絡。"
+    },
+    {
+      "id": "5166603",
+      "time": "2026-10-25 03:24:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆：呼籲就重新採用歐盟人員流動規則展開討論。"
+    },
+    {
+      "id": "5166602",
+      "time": "2026-10-25 03:23:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "泰克資源：不列顛哥倫比亞省高地谷銅礦發生罷工，礦場降負荷生產，公司啟動應急方案，希望和工會達成公平勞資協議；本次罷工對總產量的影響取決於罷工持續時長。"
+    },
+    {
+      "id": "mkt:01a16f5d-84b0-7ee0-a966-a4138adaaa3c",
+      "time": "2026-10-25 03:22:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Al Arabiya, citing security sources, reported a drone strike on the headquarters of the Iranian opposition Kurdistan Komala Party in Balisan on the outskirts of Erbil, Iraq."
+    },
+    {
+      "id": "mkt:01a16f56-a311-7ee0-a966-993fad8911be",
+      "time": "2026-10-25 03:15:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin spokesman Peskov said that after agreement on a humanitarian mission in Aleksandrovka, Russian President Putin and US President Trump currently have no plans for a new meeting; contacts with the US continue at the working level."
+    },
+    {
+      "id": "5166601",
+      "time": "2026-10-25 03:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部長布蘭奇：司法部起訴阿拉斯加選舉部門並非要阻止投票或結果認證，目的是保全選票供州方研判選民是否遭誤導；案件由司法部獨立起草，未對接任何競選方，僅依據聯邦法律。"
+    },
+    {
+      "id": "5166600",
+      "time": "2026-10-25 03:14:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統新聞秘書佩斯科夫：在達成亞歷山德羅夫卡人道主義行動相關協議後，目前暫無安排普京與特朗普舉行新一輪會談。俄美之間仍在工作層面保持接觸。"
+    },
+    {
+      "id": "5166599",
+      "time": "2026-10-25 03:05:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美光暗盤漲超1%，現報885.335美元。"
+    },
+    {
+      "id": "5166598",
+      "time": "2026-10-25 03:04:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英特爾暗盤漲超1%，現報87.005美元。"
+    },
+    {
+      "id": "5166597",
+      "time": "2026-10-25 03:02:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "訊息人士稱，伊朗已告知巴基斯坦，其願意恢復與華盛頓的談判並重新開放霍爾木茲海峽，以換取美國解除對伊朗港口的封鎖。"
+    },
+    {
+      "id": "5166596",
+      "time": "2026-10-25 03:02:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "Datadog擬斥資近40億美元收購雲安全初創企業Upwind，交易估值達其年度經常性收入的80倍。"
+    },
+    {
+      "id": "5166595",
+      "time": "2026-10-25 02:58:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西總統選舉決選前的最後當面交鋒】巴西現任總統、勞工黨候選人盧拉和自由黨候選人弗拉維奧·博索納羅10月23日晚舉行巴西總統選舉第二輪投票前的最後一次電視辯論，雙方聚焦生活成本、最低工資、公共安全和基礎設施投資等問題。（新華社）"
+    },
+    {
+      "id": "mkt:01a16f44-5e75-7ee0-a966-95d08b5fa02a",
+      "time": "2026-10-25 02:55:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russia's foreign ministry says NATO must abandon its 'containment' policy toward Russia to restore dialogue."
+    },
+    {
+      "id": "mkt:01a16f3f-91c2-7ee0-a966-898deb4ce463",
+      "time": "2026-10-25 02:49:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reports Pakistan faces severe economic strain and has poor relations with neighbors beyond Iran, increasing the risk of confrontation between Pakistan and Iran."
+    },
+    {
+      "id": "5166594",
+      "time": "2026-10-25 02:48:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門武裝部隊通報，過去24小時空襲塔伊茲、焦夫、拉希季以及曼德海峽區域，打擊胡塞武裝指揮點、彈藥庫、陣地、補給線與集結部隊。"
+    },
+    {
+      "id": "mkt:01a16f3e-8513-7ee0-a966-82c9c6d34a41",
+      "time": "2026-10-25 02:48:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemeni government forces said they will continue to apply military pressure on Houthi forces; troop movements and reinforcements are under continuous surveillance to enable further strikes based on operational intelligence."
+    },
+    {
+      "id": "mkt:01a16f3e-706c-7ee0-a966-79d7e998410f",
+      "time": "2026-10-25 02:48:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Yemen government forces said they struck Houthi frontline commanders in Taiz and Al Jawf provinces, and attacked a senior command-and-control center in Lahij province as well as military concentrations in Lahij and the Bab al-Mandeb Strait region."
+    },
+    {
+      "id": "mkt:01a16f3e-6056-7ee0-a966-73aae192f6ba",
+      "time": "2026-10-25 02:48:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen government forces carried out a series of precision strikes over the past 24 hours, hitting Houthi frontline command centers, troop assembly points and military reinforcements."
+    },
+    {
+      "id": "mkt:01a16f3e-4bfc-7ee0-a966-6be39ea9abcd",
+      "time": "2026-10-25 02:48:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen government forces say they continue strikes on Houthi concentrations and military capabilities."
+    },
+    {
+      "id": "mkt:01a16f3d-fd2e-7ee0-a966-638deb2c1791",
+      "time": "2026-10-25 02:48:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS quoted Iran as saying no Pakistani government can afford the risk of confrontation with Iran."
+    },
+    {
+      "id": "5166593",
+      "time": "2026-10-25 02:42:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：政治充滿陣營對立，多數人對己方的問題視而不見，也看不到對手的可取之處。"
+    },
+    {
+      "id": "5166592",
+      "time": "2026-10-25 02:40:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬斯克：商業版星鏈嚴禁用於進攻性無人機作戰，烏軍方曾違規使用】馬斯克發文稱，星鏈作為民用商業服務，絕不允許、也絕不應當被用於操控進攻性無人機實施殺戮行動。星盾是另一套獨立系統，歸美國政府管控，該系統如何使用由美方自行決定。烏克蘭軍方違反星鏈服務條款，將其用於發動造成人員傷亡的進攻性無人機打擊。相關漏洞已於上週封堵。星鏈對烏克蘭的防禦依舊至關重要，至少就目前而言，它是唯一無法被幹擾、也難以被摧毀的通訊系統。倘若關閉星鏈，烏克蘭前線會即刻崩潰。這並非威脅，只是客觀事實。戰爭初期，俄羅斯摧毀或干擾了烏克蘭其他所有通訊手段，星鏈當時同樣起到關鍵作用，阻止俄軍碾壓烏克蘭。SpaceX為烏克蘭防務所做的貢獻，遠超地球上任何一傢俬營企業。即便如此，對於那些鼓吹無休止殺戮、卻拿不出衝突現實解決方案、只顧表演道義姿態的好戰分子，他只有滿腔鄙夷。"
+    },
+    {
+      "id": "mkt:01a16f36-10ba-7ee0-a966-5f3ea8fbfe03",
+      "time": "2026-10-25 02:39:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said SpaceX's contribution to defending Ukraine far exceeds that of any other private company worldwide."
+    },
+    {
+      "id": "mkt:01a16f36-05c9-7ee0-a966-530d533ed318",
+      "time": "2026-10-25 02:39:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said Starlink remains critical to Ukraine's defense because, at least for now, it is the only communications system that cannot be jammed or destroyed. He said if Starlink were turned off the Ukrainian frontline would collapse immediately and added this was not a threat but a statement of fact."
+    },
+    {
+      "id": "mkt:01a16f35-e64e-7ee0-a966-4e18577c10ec",
+      "time": "2026-10-25 02:39:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said the Ukrainian military violated Starlink's terms of service by using the system to launch offensive drone attacks aimed at killing personnel; the loophole was closed last week."
+    },
+    {
+      "id": "mkt:01a16f35-d475-7ee0-a966-466279077b4a",
+      "time": "2026-10-25 02:39:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said using Starlink's civilian commercial service to mount offensive, personnel-targeting drone strikes has never been permitted and should not be permitted."
+    },
+    {
+      "id": "5166591",
+      "time": "2026-10-25 02:25:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【金屬交易商迎來豐厚紅利，連續第二年斬獲創紀錄利潤】金屬交易行業連續第二年迎來火爆行情，交易商賺取數十億美元，多家頭部貿易企業創下利潤新高。托克集團在截至9月的財年中，金屬交易業務利潤約20億美元，創下紀錄；嘉能可也收穫史上最好盈利水平之一。銅、黃金、白銀等金屬價格飆升至歷史高位，不少交易員拿到職業生涯最高收入，同時收到多家競品公司丟擲的工作邀約。"
+    },
+    {
+      "id": "5166590",
+      "time": "2026-10-25 02:25:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國內政部長：警方在示威活動中逮捕近千人】當地時間24日晚，法國內政部長努內茲表示，警方在當天的全國性抗議示威活動中逮捕了近一千人。努內茲表示，當天，執法人員面臨持續的投擲物襲擊和煙火裝置攻擊，部分示威現場暴力程度較高。警方對相關違法行為進行了干預。（央視新聞）"
+    },
     {
       "id": "mkt:01a16f27-588c-7ee0-a966-39806c48d623",
       "time": "2026-10-25 02:23:31",

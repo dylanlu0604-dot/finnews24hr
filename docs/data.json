@@ -1,7 +1,319 @@
 {
-  "updated": "2026-10-25 02:24:44",
-  "count": 13045,
+  "updated": "2026-10-25 03:36:39",
+  "count": 13033,
   "items": [
+    {
+      "id": "mkt:01a16f67-9e3a-7ee0-a966-be188d28492a",
+      "time": "2026-10-25 03:33:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Riyadh Airport said effective Oct. 25 Terminal 1 will serve domestic flights and Terminal 2 will serve international flights."
+    },
+    {
+      "id": "5166608",
+      "time": "2026-10-25 03:33:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯利雅得機場宣告：自10月25日起，1號航站樓將分配給國內航班，2號航站樓分配給國際航班。"
+    },
+    {
+      "id": "mkt:01a16f65-6b95-7ee0-a966-b2fd173ec357",
+      "time": "2026-10-25 03:31:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian foreign ministry spokesman BAGHAEI urged European countries to comply with international law and abandon coercive measures and illegal sanctions against Iran to demonstrate sincerity in pursuing diplomatic solutions."
+    },
+    {
+      "id": "mkt:01a16f65-4f63-7ee0-a966-ac0d350388a4",
+      "time": "2026-10-25 03:31:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Iran foreign ministry spokesperson BAGHAEI said regional talks should probe the root causes of insecurity in the Persian Gulf and the Strait of Hormuz."
+    },
+    {
+      "id": "5166607",
+      "time": "2026-10-25 03:29:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國佐治亞州州長宣佈繼續暫停徵收州汽油稅。"
+    },
+    {
+      "id": "5166606",
+      "time": "2026-10-25 03:28:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊拉克民兵武裝：美軍機一個月內171次侵犯伊領空】伊拉克民兵武裝“伊斯蘭抵抗組織”24日發表宣告稱，9月30日至10月23日，共監測到美國戰鬥機和偵察機171次侵犯伊拉克領空。（新華社）"
+    },
+    {
+      "id": "5166605",
+      "time": "2026-10-25 03:26:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "安全訊息人士稱，載有炸藥的無人機襲擊了伊拉克埃爾比勒東北部的伊朗庫爾德反對派營地。"
+    },
+    {
+      "id": "5166604",
+      "time": "2026-10-25 03:26:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆：看好英國與歐洲深化聯絡。"
+    },
+    {
+      "id": "5166603",
+      "time": "2026-10-25 03:24:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆：呼籲就重新採用歐盟人員流動規則展開討論。"
+    },
+    {
+      "id": "5166602",
+      "time": "2026-10-25 03:23:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "泰克資源：不列顛哥倫比亞省高地谷銅礦發生罷工，礦場降負荷生產，公司啟動應急方案，希望和工會達成公平勞資協議；本次罷工對總產量的影響取決於罷工持續時長。"
+    },
+    {
+      "id": "mkt:01a16f5d-84b0-7ee0-a966-a4138adaaa3c",
+      "time": "2026-10-25 03:22:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Al Arabiya, citing security sources, reported a drone strike on the headquarters of the Iranian opposition Kurdistan Komala Party in Balisan on the outskirts of Erbil, Iraq."
+    },
+    {
+      "id": "mkt:01a16f56-a311-7ee0-a966-993fad8911be",
+      "time": "2026-10-25 03:15:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin spokesman Peskov said that after agreement on a humanitarian mission in Aleksandrovka, Russian President Putin and US President Trump currently have no plans for a new meeting; contacts with the US continue at the working level."
+    },
+    {
+      "id": "5166601",
+      "time": "2026-10-25 03:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部長布蘭奇：司法部起訴阿拉斯加選舉部門並非要阻止投票或結果認證，目的是保全選票供州方研判選民是否遭誤導；案件由司法部獨立起草，未對接任何競選方，僅依據聯邦法律。"
+    },
+    {
+      "id": "5166600",
+      "time": "2026-10-25 03:14:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統新聞秘書佩斯科夫：在達成亞歷山德羅夫卡人道主義行動相關協議後，目前暫無安排普京與特朗普舉行新一輪會談。俄美之間仍在工作層面保持接觸。"
+    },
+    {
+      "id": "5166599",
+      "time": "2026-10-25 03:05:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美光暗盤漲超1%，現報885.335美元。"
+    },
+    {
+      "id": "5166598",
+      "time": "2026-10-25 03:04:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英特爾暗盤漲超1%，現報87.005美元。"
+    },
+    {
+      "id": "5166597",
+      "time": "2026-10-25 03:02:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "訊息人士稱，伊朗已告知巴基斯坦，其願意恢復與華盛頓的談判並重新開放霍爾木茲海峽，以換取美國解除對伊朗港口的封鎖。"
+    },
+    {
+      "id": "5166596",
+      "time": "2026-10-25 03:02:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "Datadog擬斥資近40億美元收購雲安全初創企業Upwind，交易估值達其年度經常性收入的80倍。"
+    },
+    {
+      "id": "5166595",
+      "time": "2026-10-25 02:58:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西總統選舉決選前的最後當面交鋒】巴西現任總統、勞工黨候選人盧拉和自由黨候選人弗拉維奧·博索納羅10月23日晚舉行巴西總統選舉第二輪投票前的最後一次電視辯論，雙方聚焦生活成本、最低工資、公共安全和基礎設施投資等問題。（新華社）"
+    },
+    {
+      "id": "mkt:01a16f44-5e75-7ee0-a966-95d08b5fa02a",
+      "time": "2026-10-25 02:55:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russia's foreign ministry says NATO must abandon its 'containment' policy toward Russia to restore dialogue."
+    },
+    {
+      "id": "mkt:01a16f3f-91c2-7ee0-a966-898deb4ce463",
+      "time": "2026-10-25 02:49:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reports Pakistan faces severe economic strain and has poor relations with neighbors beyond Iran, increasing the risk of confrontation between Pakistan and Iran."
+    },
+    {
+      "id": "5166594",
+      "time": "2026-10-25 02:48:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門武裝部隊通報，過去24小時空襲塔伊茲、焦夫、拉希季以及曼德海峽區域，打擊胡塞武裝指揮點、彈藥庫、陣地、補給線與集結部隊。"
+    },
+    {
+      "id": "mkt:01a16f3e-8513-7ee0-a966-82c9c6d34a41",
+      "time": "2026-10-25 02:48:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemeni government forces said they will continue to apply military pressure on Houthi forces; troop movements and reinforcements are under continuous surveillance to enable further strikes based on operational intelligence."
+    },
+    {
+      "id": "mkt:01a16f3e-706c-7ee0-a966-79d7e998410f",
+      "time": "2026-10-25 02:48:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Yemen government forces said they struck Houthi frontline commanders in Taiz and Al Jawf provinces, and attacked a senior command-and-control center in Lahij province as well as military concentrations in Lahij and the Bab al-Mandeb Strait region."
+    },
+    {
+      "id": "mkt:01a16f3e-6056-7ee0-a966-73aae192f6ba",
+      "time": "2026-10-25 02:48:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen government forces carried out a series of precision strikes over the past 24 hours, hitting Houthi frontline command centers, troop assembly points and military reinforcements."
+    },
+    {
+      "id": "mkt:01a16f3e-4bfc-7ee0-a966-6be39ea9abcd",
+      "time": "2026-10-25 02:48:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen government forces say they continue strikes on Houthi concentrations and military capabilities."
+    },
+    {
+      "id": "mkt:01a16f3d-fd2e-7ee0-a966-638deb2c1791",
+      "time": "2026-10-25 02:48:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS quoted Iran as saying no Pakistani government can afford the risk of confrontation with Iran."
+    },
+    {
+      "id": "5166593",
+      "time": "2026-10-25 02:42:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：政治充滿陣營對立，多數人對己方的問題視而不見，也看不到對手的可取之處。"
+    },
+    {
+      "id": "5166592",
+      "time": "2026-10-25 02:40:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬斯克：商業版星鏈嚴禁用於進攻性無人機作戰，烏軍方曾違規使用】馬斯克發文稱，星鏈作為民用商業服務，絕不允許、也絕不應當被用於操控進攻性無人機實施殺戮行動。星盾是另一套獨立系統，歸美國政府管控，該系統如何使用由美方自行決定。烏克蘭軍方違反星鏈服務條款，將其用於發動造成人員傷亡的進攻性無人機打擊。相關漏洞已於上週封堵。星鏈對烏克蘭的防禦依舊至關重要，至少就目前而言，它是唯一無法被幹擾、也難以被摧毀的通訊系統。倘若關閉星鏈，烏克蘭前線會即刻崩潰。這並非威脅，只是客觀事實。戰爭初期，俄羅斯摧毀或干擾了烏克蘭其他所有通訊手段，星鏈當時同樣起到關鍵作用，阻止俄軍碾壓烏克蘭。SpaceX為烏克蘭防務所做的貢獻，遠超地球上任何一傢俬營企業。即便如此，對於那些鼓吹無休止殺戮、卻拿不出衝突現實解決方案、只顧表演道義姿態的好戰分子，他只有滿腔鄙夷。"
+    },
+    {
+      "id": "mkt:01a16f36-10ba-7ee0-a966-5f3ea8fbfe03",
+      "time": "2026-10-25 02:39:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said SpaceX's contribution to defending Ukraine far exceeds that of any other private company worldwide."
+    },
+    {
+      "id": "mkt:01a16f36-05c9-7ee0-a966-530d533ed318",
+      "time": "2026-10-25 02:39:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said Starlink remains critical to Ukraine's defense because, at least for now, it is the only communications system that cannot be jammed or destroyed. He said if Starlink were turned off the Ukrainian frontline would collapse immediately and added this was not a threat but a statement of fact."
+    },
+    {
+      "id": "mkt:01a16f35-e64e-7ee0-a966-4e18577c10ec",
+      "time": "2026-10-25 02:39:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said the Ukrainian military violated Starlink's terms of service by using the system to launch offensive drone attacks aimed at killing personnel; the loophole was closed last week."
+    },
+    {
+      "id": "mkt:01a16f35-d475-7ee0-a966-466279077b4a",
+      "time": "2026-10-25 02:39:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said using Starlink's civilian commercial service to mount offensive, personnel-targeting drone strikes has never been permitted and should not be permitted."
+    },
+    {
+      "id": "5166591",
+      "time": "2026-10-25 02:25:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【金屬交易商迎來豐厚紅利，連續第二年斬獲創紀錄利潤】金屬交易行業連續第二年迎來火爆行情，交易商賺取數十億美元，多家頭部貿易企業創下利潤新高。托克集團在截至9月的財年中，金屬交易業務利潤約20億美元，創下紀錄；嘉能可也收穫史上最好盈利水平之一。銅、黃金、白銀等金屬價格飆升至歷史高位，不少交易員拿到職業生涯最高收入，同時收到多家競品公司丟擲的工作邀約。"
+    },
+    {
+      "id": "5166590",
+      "time": "2026-10-25 02:25:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國內政部長：警方在示威活動中逮捕近千人】當地時間24日晚，法國內政部長努內茲表示，警方在當天的全國性抗議示威活動中逮捕了近一千人。努內茲表示，當天，執法人員面臨持續的投擲物襲擊和煙火裝置攻擊，部分示威現場暴力程度較高。警方對相關違法行為進行了干預。（央視新聞）"
+    },
     {
       "id": "mkt:01a16f27-588c-7ee0-a966-39806c48d623",
       "time": "2026-10-25 02:23:31",
@@ -117689,415 +118001,6 @@
         "MKT News"
       ],
       "text": "【Explosion at military base in Sudan's capital region】On Oct 17 local time the Sudan Armed Forces said a warehouse storing explosives at a military base in North Khartoum, north of the capital Khartoum, caught fire and detonated. The blaze has been fully contained, and the statement did not disclose any casualties."
-    },
-    {
-      "id": "5152024",
-      "time": "2026-10-18 03:36:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘇丹首都圈地區一軍事基地發生爆炸】當地時間10月17日，蘇丹武裝部隊釋出宣告稱，首都喀土穆市北部的北喀土穆市一座軍事基地當天發生爆炸。宣告稱，該軍事基地內一處用於儲存爆炸物的倉庫發生火災，隨後引發爆炸。目前，火災已得到全面控制。宣告未提及此次事件造成的人員傷亡情況。（央視新聞）"
-    },
-    {
-      "id": "5152023",
-      "time": "2026-10-18 03:35:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【赫格塞思私下被鼓勵競選2028總統，多重短板成參選阻礙】美國防長赫格塞思私下正被親密顧問鼓勵考慮參加2028年總統競選，儘管他公開否認有此雄心。其顧問認為，他好鬥、硬漢的形象可能吸引MAGA選民，尤其是如果JD·萬斯決定不參選的話。然而，赫格塞思面臨重大障礙，包括缺乏政治經驗、捐助關係薄弱、五角大樓爭議以及支援不受歡迎的伊朗戰爭。"
-    },
-    {
-      "id": "5152022",
-      "time": "2026-10-18 03:33:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊發言人批評“炸彈之母”命名，稱美國是野蠻文明】伊朗伊斯蘭革命衛隊發言人侯賽因·穆赫比周六批評美國將其威力最強的非核武器稱作“炸彈之母”，稱這是“野蠻文明”的體現。穆赫比在社交媒體發文表示：“只有野蠻的文明，才會用神聖的‘母親’一詞來命名威力最強的炸彈。”他還稱，未來屬於那些能把敵人的威脅化為日常笑談的國家。此前有美國媒體報道，特朗普政府考慮在針對伊朗的新一輪打擊行動中使用GBU-43/B大型空爆炸彈，也就是俗稱的MOAB“炸彈之母”。"
-    },
-    {
-      "id": "5152019",
-      "time": "2026-10-18 03:31:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國不屬於那些憎恨它的人，美國屬於那些真心熱愛它的人。"
-    },
-    {
-      "id": "mkt:01a14b57-cb58-7ee0-a8ce-02d02e8a68ce",
-      "time": "2026-10-18 03:30:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EMSC: magnitude 4.2 earthquake at the Panama–Costa Rica border region; hypocenter depth 5.0 km."
-    },
-    {
-      "id": "mkt:01a14b56-b3ba-7ee0-a8cd-f8fa244f88e4",
-      "time": "2026-10-18 03:28:55",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Ukrainian foreign minister says towns under Russian control are death traps and residents face starvation."
-    },
-    {
-      "id": "mkt:01a14b55-07fd-7ee0-a8cd-f151290ce086",
-      "time": "2026-10-18 03:27:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Estonia to provide additional €10 mln for US weapons to Ukraine under NATO PURL】Estonia will allocate an additional €10 mln to buy US weapons for Ukraine under the NATO Priority Urgent Replenishment List (PURL), state broadcaster ERR cited Prime Minister Kristen Michal as saying. PURL is scheduled to launch in summer 2025; under the plan European countries and Canada will finance US deliveries of weapons to Ukraine. Michal told Zelensky the EU will continue to support him."
-    },
-    {
-      "id": "5152015",
-      "time": "2026-10-18 03:22:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：過去17個月裡，沒有非法移民透過南部邊境獲准進入美國。"
-    },
-    {
-      "id": "5152014",
-      "time": "2026-10-18 03:21:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：每個使用風力發電機的國家都在走向破產。"
-    },
-    {
-      "id": "mkt:01a14b4f-6491-7ee0-a8cd-ecd43ede523e",
-      "time": "2026-10-18 03:20:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said all countries that use wind power are heading for bankruptcy."
-    },
-    {
-      "id": "mkt:01a14b4d-34b5-7ee0-a8cd-e3334cbbda9d",
-      "time": "2026-10-18 03:18:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Romania shoots down two drones in Black Sea waters】Romania said on Saturday evening it shot down two drones in its territorial waters after radar detected airspace violations; two Romanian Air Force F-16s intercepted and downed the unmanned aircraft minutes apart, the Romanian Defence Ministry said. The drones were jet-powered Geran-class attack UAVs, a model Russia has used in the Ukraine conflict. Romania and Bulgaria have reported a series of drone attacks on merchant ships along their Black Sea coasts that sank vessels and caused fatalities; both countries have blamed Russia and asked NATO for additional air-defence and counter-UAS equipment."
-    },
-    {
-      "id": "mkt:01a14b48-6380-7ee0-a8cd-dbc53858ae41",
-      "time": "2026-10-18 03:13:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said the US took as much as hundreds of billions of dollars from Venezuela."
-    },
-    {
-      "id": "5152007",
-      "time": "2026-10-18 03:12:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：你知道我們從委內瑞拉拿到了多少錢嗎？我們從委內瑞拉拿到了數千億美元。"
-    },
-    {
-      "id": "mkt:01a14b44-317c-7ee0-a8cd-d043e70d71ff",
-      "time": "2026-10-18 03:08:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "President Trump said the government has cut more than 1 million federal employees but total U.S. employment remains at a record high; he added that in the past a single job often required 10 people and that while the U.S. needs federal staff, not every role should have 10 people assigned."
-    },
-    {
-      "id": "mkt:01a14b42-992d-7ee0-a8cd-c975956667cd",
-      "time": "2026-10-18 03:06:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the Pentagon would boost investment in Kentucky's pharmaceutical industry if the Republican Party wins the election."
-    },
-    {
-      "id": "5152006",
-      "time": "2026-10-18 03:05:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：有人對我說“祝你選舉好運”，我說“我已經贏了。”"
-    },
-    {
-      "id": "5152005",
-      "time": "2026-10-18 03:05:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如果共和黨獲勝，五角大樓將投資肯塔基州的製藥業。"
-    },
-    {
-      "id": "mkt:01a14b3e-faf0-7ee0-a8cd-c34fd36d9440",
-      "time": "2026-10-18 03:03:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Russian deputy PM says continued Strait of Hormuz blockade would push oil prices higher】Sputnik quoted Russian Deputy Prime Minister Alexander Novak at Russian Energy Week saying shipments through the Strait of Hormuz have not yet resumed, market volatility is high and prices remain elevated. Novak warned that if the blockade persists, oil prices would climb further."
-    },
-    {
-      "id": "5152003",
-      "time": "2026-10-18 02:59:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普聲稱：如今就業的美國人數量超過歷史上任何時期，儘管我們裁減了超過100萬名聯邦僱員。以前一份工作有十個人在做。我們需要聯邦僱員，但不需要每份工作都配十個人。"
-    },
-    {
-      "id": "mkt:01a14b3a-d78d-7ee0-a8cd-be532ee56149",
-      "time": "2026-10-18 02:58:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hackers breach CDU Heilbronn email accounts; phishing sent to about 6,500 including Chancellor Merz】Heilbronn police said on Oct. 17 hackers accessed email accounts of the ruling CDU’s Heilbronn local organization and sent phishing emails to roughly 6,500 contacts, among them Chancellor Merz, government departments and other political contacts. Police said some recipients work in security‑sensitive areas. Investigation is ongoing and it is unclear whether any material damage occurred."
-    },
-    {
-      "id": "5152002",
-      "time": "2026-10-18 02:57:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國執政黨地方賬戶遭駭客入侵 默茨等數千人收到釣魚郵件】德國海爾布隆警方當地時間10月17日表示，駭客侵入德國執政黨基民盟海爾布隆地方組織的電子郵件賬戶，並向約6500名聯絡人傳送詐騙郵件，其中包括德國總理默茨、政府部門及其他政治領域聯絡人。按照警方發言人的說法，部分收件人涉及安全敏感領域。目前，警方正對此事展開調查，尚不清楚是否造成實際損失。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a14b3a-464f-7ee0-a8cd-b0fe1391f281",
-      "time": "2026-10-18 02:57:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump, referring to Iran, said we routed them."
-    },
-    {
-      "id": "5152001",
-      "time": "2026-10-18 02:57:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我可以站在這裡胡說八道兩個小時。"
-    },
-    {
-      "id": "5152000",
-      "time": "2026-10-18 02:56:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我們把他們打得落花流水。"
-    },
-    {
-      "id": "mkt:01a14b39-20aa-7ee0-a8cd-aa7868a55d8a",
-      "time": "2026-10-18 02:56:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "France's Interior Minister Nunez said 550,000 people participated in demonstrations today, including 110,000 in the capital Paris."
-    },
-    {
-      "id": "5151999",
-      "time": "2026-10-18 02:56:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：10月18日02時50分在新疆巴音郭楞州和靜縣（北緯43.02度，東經84.72度）發生3.2級地震，震源深度13千米。"
-    },
-    {
-      "id": "5151998",
-      "time": "2026-10-18 02:53:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：上次激進民主黨人掌權時，給我們帶來了史上最嚴重的通脹、最高的能源價格和最糟糕的貿易逆差，還讓2500萬非法移民湧入。如果他們再次掌權，還會重蹈覆轍。肯塔基州人民不會讓這種事發生！"
-    },
-    {
-      "id": "5151997",
-      "time": "2026-10-18 02:53:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：他們（民主黨）針對的是購買“MAGA”帽子的人，然後又說我把政府武器化。相比之下，我算是溫和的。"
-    },
-    {
-      "id": "5151996",
-      "time": "2026-10-18 02:52:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：10月18日02時30分在西藏阿里地區改則縣（北緯34.00度，東經86.18度）發生3.8級地震，震源深度10千米。"
-    },
-    {
-      "id": "mkt:01a14b35-5adb-7ee0-a8cd-a60c79c4d534",
-      "time": "2026-10-18 02:52:30",
-      "tags": [
-        "MKT News",
-        "MBG.DE",
-        "Impact bullish"
-      ],
-      "text": "【Mercedes launches first in-house electric SUV to challenge Porsche】AMG, the performance arm of Mercedes‑Benz Group, has launched its first fully in‑house electric SUV, the AMG GT SUV. The entry model is priced at €113,050 (~$127,060) and goes on sale next Tuesday; two higher‑spec versions are scheduled for next spring. AMG markets the car as a performance rival to Porsche’s electric Cayenne launched last November, citing three axial‑flux motors and an 800V battery system with peak output up to 1,169 hp. Range is quoted up to 668 km (415 miles) for the base model and up to 700 km (435 miles) for the top spec; the top variant does 0–100 km/h in 2.5 seconds. The vehicle targets driving‑performance buyers and will compete with Jaguar Land Rover’s forthcoming electric Range Rover and Bentley’s recent electric SUV from the Volkswagen Group."
-    },
-    {
-      "id": "5151994",
-      "time": "2026-10-18 02:45:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：當地時間今日早些時候，法國波爾多的抗議者洗劫了一家路易威登門店。"
-    },
-    {
-      "id": "5151993",
-      "time": "2026-10-18 02:43:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 作為你們的代表，我不想損失900億美元，換來的只是讓加拿大擁有本不該享有的醫療體系以及其他福利。 他們在揮霍我們的資金，資金使用極不明智。"
-    },
-    {
-      "id": "mkt:01a14b2c-fca0-7ee0-a8cd-9c78f274e5ff",
-      "time": "2026-10-18 02:43:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said the US will ultimately reach a significant agreement with Canada."
-    },
-    {
-      "id": "mkt:01a14b2c-6aa4-7ee0-a8cd-94c5f7d36ea4",
-      "time": "2026-10-18 02:42:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said former Canadian prime minister Justin Trudeau \"is not a good person\" and called him \"a loser.\" He said the current prime minister, Kani, \"is a good person\" but \"not friendly\" on trade."
-    },
-    {
-      "id": "mkt:01a14b2b-567a-7ee0-a8cd-8a5ccb7f1d98",
-      "time": "2026-10-18 02:41:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump says he can do unbelievable things."
-    },
-    {
-      "id": "mkt:01a14b2b-4ca3-7ee0-a8cd-82d588f3479a",
-      "time": "2026-10-18 02:41:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact mixed"
-      ],
-      "text": "U.S. President Trump said of Google that it refused to take his calls during his first term and is now courting him."
-    },
-    {
-      "id": "5151992",
-      "time": "2026-10-18 02:40:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總統表示，以色列未遵守在美國主持下達成的框架協議。"
-    },
-    {
-      "id": "5151991",
-      "time": "2026-10-18 02:40:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談加拿大：特魯多不是好人，他是個失敗者，失敗者！現在這位（總理卡尼）是個好人，但在貿易問題上他可不友善。"
-    },
-    {
-      "id": "5151990",
-      "time": "2026-10-18 02:38:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普談谷歌：谷歌在我第一個任期時不會接我的電話，現在他們對我百般討好。"
-    },
-    {
-      "id": "5151989",
-      "time": "2026-10-18 02:36:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：總有一天我們會和加拿大達成一項驚人的協議。"
-    },
-    {
-      "id": "5151988",
-      "time": "2026-10-18 02:33:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：將應對那些製造混亂、阻止和平示威者表達訴求的人。"
-    },
-    {
-      "id": "5151987",
-      "time": "2026-10-18 02:33:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：襲擊商鋪和市政廳者將被起訴並受到懲罰。"
-    },
-    {
-      "id": "mkt:01a14b22-2914-7ee0-a8cd-780886c2116c",
-      "time": "2026-10-18 02:31:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanon's President Aoun said strengthening and equipping the armed forces is key to ensuring they can carry out their assigned tasks."
-    },
-    {
-      "id": "mkt:01a14b1f-9f7b-7ee0-a8cd-72af550dc7c1",
-      "time": "2026-10-18 02:28:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Israeli Prime Minister's Office: Violence Against European Diplomats \"Unacceptable\"】Local time on the 17th, after several European diplomats were attacked by Israeli Jewish settlers in the West Bank, the Israeli Prime Minister's Office said violence against diplomats is \"unacceptable.\" The office urged caution, saying existing footage does not establish the full facts and it is too early to draw conclusions. It said the diplomats entered a sensitive area without coordinating with the IDF and that accompanying personnel included a French official who publicly supports Palestine. The office also expressed concern about coordinated actions to \"smear\" Israeli settlers."
-    },
-    {
-      "id": "5151983",
-      "time": "2026-10-18 02:28:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：（國內）反對派將取消我們所有重大成就，建立巴勒斯坦國，撤出所有安全區，屈服於一切壓力，並且肯定不會一勞永逸地阻止伊朗獲得核武器。"
-    },
-    {
-      "id": "5151982",
-      "time": "2026-10-18 02:27:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以總理辦公室：針對歐洲外交官的暴力行為“不可接受”】當地時間17日，針對當天早些時候多名歐洲外交官在約旦河西岸遭以色列猶太人定居者襲擊事件，以色列總理辦公室發表宣告稱，針對外交官的暴力行為是“不可接受的”。（央視新聞）"
-    },
-    {
-      "id": "5151980",
-      "time": "2026-10-18 02:25:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普在肯塔基州舉辦集會，為中期選舉最後衝刺動員選民。"
     }
   ]
 }
