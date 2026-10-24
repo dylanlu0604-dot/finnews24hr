@@ -1,7 +1,39 @@
 {
   "date": "2026-10-24",
-  "count": 799,
+  "count": 802,
   "items": [
+    {
+      "id": "mkt:01a16e3d-48d0-7ee0-a964-ed0e5f2d1c8f",
+      "time": "2026-10-24 22:07:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthis say Saudi-led strike on Yemen cement plant killed 8, wounded 10】The Houthi health ministry said on the 24th a Saudi-led coalition airstrike on a cement factory in Hamdan, northwest of Sanaa, killed eight and wounded 10, most of them women and children. The Saudi-led coalition had not responded to the claim. Earlier the same day coalition spokesman Turki al-Maliki said the coalition intercepted and destroyed a ballistic missile fired by the Houthis toward Riyadh."
+    },
+    {
+      "id": "mkt:01a16e3c-e42d-7ee0-a964-e056dfefa574",
+      "time": "2026-10-24 22:07:26",
+      "tags": [
+        "MKT News",
+        "NOK.O",
+        "Impact bullish",
+        "ETL.PA"
+      ],
+      "text": "【US allies scramble to cut dependence on SpaceX】US allies are accelerating plans to reduce reliance on SpaceX’s Starlink after Elon Musk abruptly limited Ukrainian access, stoking concern that a built‑in “kill switch” gives Musk unilateral power to disable a critical communications network. Poland, which helped fund Ukrainian use, publicly rebuked Musk after reported Starlink disruptions. Ukraine will join a satellite communications network run by Finland’s Iceye and Nokia as part of a €300m aid package announced Thursday. Canada’s Telesat has pitched its Lightspeed LEO constellation as a more sovereign alternative. The EU has contracted Eutelsat and two partners to build IRIS², a 348‑satellite sovereign network costing about $17.5bn, with first launches slated for 2029."
+    },
+    {
+      "id": "5166356",
+      "time": "2026-10-24 22:06:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱沙特襲擊葉門一水泥廠 已致8死10傷】據葉門胡塞武裝衛生部門24日訊息，沙烏地阿拉伯主導的多國聯軍當天對位於葉門首都薩那西北部哈姆丹地區的一座水泥廠發動空襲，襲擊已造成8人死亡、10人受傷，死傷者中大部分為婦女兒童。"
+    },
     {
       "id": "mkt:01a16e37-b283-7ee0-a964-dbbcd7bb7b14",
       "time": "2026-10-24 22:01:46",
