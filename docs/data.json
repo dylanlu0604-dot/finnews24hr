@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-25 01:53:52",
+  "updated": "2026-10-25 01:57:44",
   "count": 13050,
   "items": [
+    {
+      "id": "mkt:01a16f0e-d447-7ee0-a966-21a8cd34e32b",
+      "time": "2026-10-25 01:56:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said the Oct. 27 election is a contest over Israel’s survival and that his continued leadership is vital to countering the Iranian threat."
+    },
+    {
+      "id": "5166554",
+      "time": "2026-10-25 01:56:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡：伊朗重啟核計劃，以色列大選關乎國家存亡】以色列總理內塔尼亞胡上週六在週二議會選舉前釋出的一段競選影片中表示，伊朗已重啟核計劃，並打算在短時間內摧毀以色列。他將10月27日的以色列選舉描述為一場關乎以色列存亡的較量，並稱他繼續領導以色列對於應對伊朗威脅至關重要。"
+    },
+    {
+      "id": "mkt:01a16f0d-7cd6-7ee0-a966-1ce90fa1d6eb",
+      "time": "2026-10-25 01:55:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Iran has restarted its nuclear program and seeks to eliminate Israel in the near term."
+    },
     {
       "id": "mkt:01a16f0b-3db5-7ee0-a966-173e7c5482fa",
       "time": "2026-10-25 01:52:49",
@@ -118113,30 +118141,6 @@
         "Europe & UK"
       ],
       "text": "French Interior Minister Nunez said 400 people were arrested during protests."
-    },
-    {
-      "id": "mkt:01a14b01-dadc-7ee0-a8cd-17e6c59fdcfa",
-      "time": "2026-10-18 01:56:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "French Interior Minister Nunez said authorities will do everything possible to find the perpetrators of the violence."
-    },
-    {
-      "id": "mkt:01a14b01-c2de-7ee0-a8cd-0b6a2ad27ddd",
-      "time": "2026-10-18 01:56:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Macron: France will not tolerate violence."
-    },
-    {
-      "id": "5151942",
-      "time": "2026-10-18 01:55:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國總理默茨：他們企圖將這個國家推向極右翼，我們同樣必須對此予以抵制。凡是在我們陣營當中，認為這類人應當當選公職的人，在德國基民盟中完全沒有立足之地。"
     }
   ]
 }

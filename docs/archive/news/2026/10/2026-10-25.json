@@ -1,7 +1,35 @@
 {
   "date": "2026-10-25",
-  "count": 45,
+  "count": 48,
   "items": [
+    {
+      "id": "mkt:01a16f0e-d447-7ee0-a966-21a8cd34e32b",
+      "time": "2026-10-25 01:56:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said the Oct. 27 election is a contest over Israel’s survival and that his continued leadership is vital to countering the Iranian threat."
+    },
+    {
+      "id": "5166554",
+      "time": "2026-10-25 01:56:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡：伊朗重啟核計劃，以色列大選關乎國家存亡】以色列總理內塔尼亞胡上週六在週二議會選舉前釋出的一段競選影片中表示，伊朗已重啟核計劃，並打算在短時間內摧毀以色列。他將10月27日的以色列選舉描述為一場關乎以色列存亡的較量，並稱他繼續領導以色列對於應對伊朗威脅至關重要。"
+    },
+    {
+      "id": "mkt:01a16f0d-7cd6-7ee0-a966-1ce90fa1d6eb",
+      "time": "2026-10-25 01:55:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Iran has restarted its nuclear program and seeks to eliminate Israel in the near term."
+    },
     {
       "id": "mkt:01a16f0b-3db5-7ee0-a966-173e7c5482fa",
       "time": "2026-10-25 01:52:49",
