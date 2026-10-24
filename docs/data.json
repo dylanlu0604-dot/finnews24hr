@@ -1,7 +1,492 @@
 {
-  "updated": "2026-10-24 23:10:31",
-  "count": 13023,
+  "updated": "2026-10-25 01:09:10",
+  "count": 13057,
   "items": [
+    {
+      "id": "mkt:01a16ee1-3ee2-7ee0-a965-f6dd8ef63cb2",
+      "time": "2026-10-25 01:06:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Ukrainian drone manufacturer said Ukrainian forces struck a petrochemical plant and an Ozon warehouse in Omsk, Russia."
+    },
+    {
+      "id": "5166525",
+      "time": "2026-10-25 01:06:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭無人機生產商稱，基輔軍方襲擊了俄羅斯鄂木斯克的石化廠和Ozon倉庫。"
+    },
+    {
+      "id": "mkt:01a16edb-02cf-7ee0-a965-ea366c7911d3",
+      "time": "2026-10-25 01:00:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "The governor of Ukraine's Dnipropetrovsk region said a Russian drone strike killed 3 people and injured 8."
+    },
+    {
+      "id": "5166520",
+      "time": "2026-10-25 01:00:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱對沙特機場和石油設施等目標發動襲擊】葉門胡塞武裝24日表示，該組織使用導彈和無人機對沙特境內多處機場、石油設施及一處軍事基地發動了7次襲擊，以回應沙特過去24小時內對胡塞武裝控制區的襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a16eda-29cf-7ee0-a965-e4412257f403",
+      "time": "2026-10-25 00:59:13",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Saudi civil defense said ballistic missiles launched by Houthi militants toward the Mecca and Medina regions were intercepted; debris from the interceptions fell to the ground."
+    },
+    {
+      "id": "5166518",
+      "time": "2026-10-25 00:59:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：胡塞武裝向麥加和麥地那地區發射的彈道導彈被攔截後，碎片墜落。"
+    },
+    {
+      "id": "5166517",
+      "time": "2026-10-25 00:57:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駁斥伊拉克總理顧問有關伊朗越境的相關說法。"
+    },
+    {
+      "id": "mkt:01a16ed3-a7ca-7ee0-a965-df00a07b54f7",
+      "time": "2026-10-25 00:52:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Protests over housing crisis across multiple Portuguese cities】On Oct 24 local time, large protests and rallies occurred in multiple Portuguese cities — including Lisbon, Porto and Coimbra — calling on the government to address the housing crisis. Demonstrators demanded measures such as halting demolitions or evictions without alternative housing, increasing public housing stock, imposing rent caps and repurposing vacant properties for residential use."
+    },
+    {
+      "id": "5166512",
+      "time": "2026-10-25 00:51:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葡萄牙多個城市舉行示威遊行和民眾集會】當地時間10月24日，葡萄牙多個城市繼續舉行示威遊行和民眾集會，要求政府採取措施應對住房危機。里斯本、波爾圖、科英布拉等葡萄牙主要城市均爆發了大規模示威活動。抗議的民眾要求葡萄牙政府採取一系列住房相關措施，例如停止在沒有替代方案的情況下強行拆除房屋或驅逐住客，增加公共住房，實施租金上限，以及將空置房產用作住房等。葡萄牙多地住房相關的抗議活動已經進行了約兩週，部分主要城市的居民還計劃在廣場設立營地，或進行守夜等行動。（央視新聞）"
+    },
+    {
+      "id": "5166511",
+      "time": "2026-10-25 00:51:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱打擊烏能源等設施 烏稱打擊俄集結區】俄羅斯國防部24日釋出通報稱，過去24小時內，俄軍對烏軍使用的能源和交通基礎設施、遠端無人機儲存和發射地點等實施打擊。俄防空系統擊落1枚法國“斯卡普”巡航導彈、4枚“海王星”遠端導彈和1297架固定翼無人機。此外，俄軍還打擊了烏克蘭港口基礎設施和為烏軍服務的船隻。烏克蘭武裝部隊總參謀部24日通報稱，過去一天，前線地區發生181次戰鬥。烏軍打擊了俄軍人員和裝備集結區、無人機指揮所等目標，摧毀俄軍坦克、裝甲車、火炮系統、防空系統等。此外，烏軍還擊落了1855架俄羅斯無人機。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a16ed1-fa71-7ee0-a965-d74eaa8e9f72",
+      "time": "2026-10-25 00:50:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Russia says it struck Ukrainian energy, transport and drone sites; Ukraine reports strikes on Russian concentrations】The Russian Defence Ministry said on the 24th that over the past 24 hours Russian forces struck Ukrainian energy and transport infrastructure, long-range drone storage and launch sites, and port infrastructure and vessels used by Ukrainian forces. It said Russian air defenses shot down one French Scalp cruise missile, four Neptune long-range missiles and 1,297 fixed-wing drones. The Ukrainian General Staff said on the 24th that 181 engagements occurred along the front in the past day; Ukrainian forces struck Russian personnel and equipment concentrations and drone command posts, destroying tanks, armoured vehicles, artillery and air-defence systems, and shot down 1,855 Russian drones."
+    },
+    {
+      "id": "5166509",
+      "time": "2026-10-25 00:46:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國示威活動致多地文化場所臨時關閉】當地時間24日，法國舉行新一輪全國性抗議示威活動，多地文化場所當天被迫臨時關閉。法國文化部此前宣佈，出於安全考慮，位於巴黎的盧浮宮、奧賽博物館、橘園美術館、大皇宮、畢加索博物館等文化場所24日關閉。截至目前，上述場所的官網均已確認24日臨時閉館。部分場所表示，已透過官方渠道預約參觀的遊客將自動獲得退款。（央視新聞）"
+    },
+    {
+      "id": "5166501",
+      "time": "2026-10-25 00:35:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗司法總監埃傑伊會見最高領袖穆傑塔巴，雙方敲定司法改革、反腐、數字化辦案等工作方向，要求追責美以相關侵害行為。"
+    },
+    {
+      "id": "mkt:01a16ec4-019f-7ee0-a965-cb11746f319f",
+      "time": "2026-10-25 00:35:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported Iran’s judiciary chief and Supreme Leader Mojtaba said Iran must seek compensation for material and psychological damage caused by crimes by the US and Israel."
+    },
+    {
+      "id": "mkt:01a16ec3-79d7-7ee0-a965-c68678a423ab",
+      "time": "2026-10-25 00:34:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported Iran's head of the judiciary met with Supreme Leader Mujtaba."
+    },
+    {
+      "id": "mkt:01a16eb6-f728-7ee0-a965-b92902ff084d",
+      "time": "2026-10-25 00:20:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRGC spokesman Muhibbi said the conflict's impact could spill beyond Iran and potentially affect other countries' fates."
+    },
+    {
+      "id": "mkt:01a16eb6-553c-7ee0-a965-b542ee839397",
+      "time": "2026-10-25 00:20:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "IRGC spokesman Muhebi said Trump's exaggerated remarks and threats are baseless."
+    },
+    {
+      "id": "5166495",
+      "time": "2026-10-25 00:19:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆暫不批准價值20億英鎊的國防衛星（Skynet 6）採購協議。"
+    },
+    {
+      "id": "mkt:01a16eb1-5b8b-7ee0-a965-adf5b8ece6d4",
+      "time": "2026-10-25 00:14:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tibet quake: power fully restored; 60,518 relief items dispatched】A magnitude-7.0 earthquake hit Baqing County, Nagqu, Tibet at 22:33 on Oct 22, depth 10 km. The quake affected 13,673 people; 12,489 have been evacuated (7,600 in Maru township, 4,889 in Gangqie township). By 17:00 on Oct 23, central, regional, municipal and county authorities had dispatched 60,518 relief items across 20 categories, including 4,758 tents and 2,000 prefabricated housing units. Main roads were reopened by midday and power to the affected area was fully restored at 20:38 on Oct 23 after repairs to the final low-voltage distribution zone."
+    },
+    {
+      "id": "5166493",
+      "time": "2026-10-25 00:11:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國巴黎警方稱，示威活動結束後爆發衝突，警方動用了催淚瓦斯和高壓水槍。"
+    },
+    {
+      "id": "mkt:01a16eaa-f1c0-7ee0-a965-a12f3cb6e492",
+      "time": "2026-10-25 00:07:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Zelensky: Ukraine will not cede more territory to end conflict】Ukrainian President Volodymyr Zelensky told ABC in an interview on the 23rd that Ukraine is willing to agree a ceasefire and end the conflict quickly but will not cede additional territory to achieve that. He rejected proposals to give up 25% of Ukrainian territory, saying Russian forces currently control about 19.3% and that 25% would require surrendering currently unoccupied parts of Donbass, which Ukraine will not accept."
+    },
+    {
+      "id": "5166491",
+      "time": "2026-10-25 00:06:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【澤連斯基：不會為結束衝突放棄更多領土】據烏克蘭通訊社24日報道，烏總統澤連斯基23日接受美國廣播公司採訪時稱，烏克蘭準備儘快結束同俄羅斯的軍事衝突，但不會為了結束衝突而放棄更多領土。（新華社）"
+    },
+    {
+      "id": "5166490",
+      "time": "2026-10-25 00:06:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特方面尚未立即證實胡塞武裝的宣告。"
+    },
+    {
+      "id": "5166489",
+      "time": "2026-10-25 00:05:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝聲稱對沙特發起七輪打擊】胡塞武裝稱對沙特發起七輪打擊，動用彈道導彈及無人機，目標包括利雅得哈立德國王機場、延布阿美設施、拉比格煉油廠、原油泵站與東西向輸油管道、達曼法赫德國王國際機場（造成機場航班中斷）、奈季蘭機場、海米斯穆謝特空軍基地，全部達成打擊目標。本次行動是為報復沙特過去24小時對葉門薩那等地發動的100次空襲。"
+    },
+    {
+      "id": "5166488",
+      "time": "2026-10-25 00:04:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱襲擊了沙烏地阿拉伯的拉比格煉油廠。"
+    },
+    {
+      "id": "5166487",
+      "time": "2026-10-25 00:04:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱他們襲擊了沙特阿美在延布的一處設施。"
+    },
+    {
+      "id": "mkt:01a16ea7-e831-7ee0-a965-9cb4627ae29f",
+      "time": "2026-10-25 00:04:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Houthi forces say they struck seven Saudi targets including Aramco facility and East‑West oil pipeline】Houthi forces said they carried out seven special operations using ballistic missiles and drones that struck multiple targets inside Saudi Arabia, including an ARAMCO facility in Yanbu, the Rabigh refinery, an oil pumping station and the East‑West crude pipeline. They also said they hit King Khalid International Airport in Riyadh, King Fahd International Airport in Dammam—causing aviation disruption—Najran airport and Khamis Mushait air base, and described the strikes as precise and successful. The group said the actions were in response to Saudi air and missile strikes, which it claimed have totalled 3,123 since the current escalation, and vowed to continue operations until the blockade on Yemen ends."
+    },
+    {
+      "id": "5166486",
+      "time": "2026-10-25 00:04:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱襲擊了沙烏地阿拉伯的利雅得機場。"
+    },
+    {
+      "id": "5166485",
+      "time": "2026-10-25 00:02:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝：過去24小時內沙特對我方發起100次空襲，襲擊首都薩那及各自由省份的民用設施，造成數十人死傷。自局勢升級以來，沙特對我方發動的空襲與導彈打擊累計已達3123次。"
+    },
+    {
+      "id": "mkt:01a16ea5-7cdc-7ee0-a965-908d5dcfd86d",
+      "time": "2026-10-25 00:01:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Houthis said they will continue to carry out deeper military operations inside Saudi Arabia, adhere to the principle \"respond blockade with blockade, escalation with escalation,\" and strike military forces assembled by Saudi Arabia until the aggression stops and the blockade against their country is lifted."
+    },
+    {
+      "id": "mkt:01a16ea5-553b-7ee0-a965-8f6d9d181e81",
+      "time": "2026-10-25 00:01:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Houthi militants said they used multiple ballistic missiles and drones to carry out seven special military operations."
+    },
+    {
+      "id": "5166484",
+      "time": "2026-10-25 00:01:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "以軍在黎巴嫩約赫莫爾沙基夫發動打擊。"
+    },
+    {
+      "id": "mkt:01a16ea5-40a6-7ee0-a965-82c2f22f4462",
+      "time": "2026-10-25 00:01:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Houthi forces said Saudi Arabia carried out 100 airstrikes in the past 24 hours on Sanaa and other provinces' civilian facilities, killing and wounding dozens. The group said Saudi air and missile strikes on Yemen have totaled 3,123 since the current escalation began."
+    },
+    {
+      "id": "5166483",
+      "time": "2026-10-24 23:59:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋總統：阿聯酋聲援約旦，共同抵制一切破壞約旦國家安全與民眾安全的行徑。"
+    },
+    {
+      "id": "5166482",
+      "time": "2026-10-24 23:58:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋總統致電約旦國王，就卡拉克教堂襲擊事件遇難者表達慰問。"
+    },
+    {
+      "id": "mkt:01a16ea2-44a1-7ee0-a965-7dae73d4239f",
+      "time": "2026-10-24 23:58:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said the European public has lost trust in the EU."
+    },
+    {
+      "id": "5166481",
+      "time": "2026-10-24 23:56:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：儘管尚未作出最終決定，特朗普傾向於恢復對伊朗的重大行動。"
+    },
+    {
+      "id": "5166475",
+      "time": "2026-10-24 23:52:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲骨文暗盤跌超2%，現報125.08美元。"
+    },
+    {
+      "id": "mkt:01a16e9c-bbff-7ee0-a965-778b0e2b5312",
+      "time": "2026-10-24 23:52:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Ministry director-general for parliamentary and legal affairs Nourabadi said under Iran's religious doctrine negotiating with an enemy is itself a form of war, and war and negotiation are not opposed but interlinked and mutually complementary tools."
+    },
+    {
+      "id": "mkt:01a16e9c-981c-7ee0-a965-6fd59f328c81",
+      "time": "2026-10-24 23:51:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Foreign Ministry director of parliamentary and legal affairs Nourabadi said the US is trying to force a dichotomy between war and negotiations, sequencing the two to achieve its objectives."
+    },
+    {
+      "id": "5166473",
+      "time": "2026-10-24 23:50:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美屬維爾京群島大面積停電】美屬維爾京群島過去60小時發生大範圍停電。當地政府及水電部門尚未釋出訊息，連續兩日學校停課。多起住宅火災，據稱由發電機引發。當地重要藥品和關鍵食品供應受損。"
+    },
+    {
+      "id": "mkt:01a16e9a-41ea-7ee0-a965-667520f357d4",
+      "time": "2026-10-24 23:49:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House said President Trump is implementing a sweeping crackdown on fraud."
+    },
+    {
+      "id": "5166471",
+      "time": "2026-10-24 23:47:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯能源巨頭秘密出資並掌控250億美元阿拉斯加天然氣專案】Polar LNG前高管指控俄羅斯能源巨頭諾瓦泰克暗中出資控制規劃中的250億美元的阿拉斯加天然氣出口專案，該專案曾由普京與特朗普特使磋商，此事曝光後，凸顯巨大的美國製裁合規風險。知情人士稱，該專案在上月成為普京與美國特使威特科夫、賈裡德·庫什納的討論議題。能源交易是美方試圖和俄方就烏克蘭戰事達成協議的談判內容之一。"
+    },
+    {
+      "id": "mkt:01a16e97-55c0-7ee0-a965-5af236f52837",
+      "time": "2026-10-24 23:46:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Head of an Iran free-trade zone said measures have been introduced to simplify imports of industrial raw materials via streamlined customs procedures, with goods clearance taking at most one week to 10 days."
+    },
+    {
+      "id": "mkt:01a16e96-acc7-7ee0-a965-54527ce0e33f",
+      "time": "2026-10-24 23:45:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian MP Sangar said Iran's control of the Strait of Hormuz is beyond doubt."
+    },
+    {
+      "id": "5166468",
+      "time": "2026-10-24 23:41:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤跌破6.5美元，日內跌幅0.5%。"
+    },
+    {
+      "id": "5166465",
+      "time": "2026-10-24 23:38:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "三項以色列主要民調顯示，內塔尼亞胡陣營預計僅獲50個席位，這加大了出現僵局的可能性，而僵局可能使他以看守總理身份繼續執政。"
+    },
+    {
+      "id": "5166463",
+      "time": "2026-10-24 23:34:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯鄂木斯克的鄂木斯克橡膠化工廠發生大火，此前據報道該廠遭烏克蘭無人機襲擊，該工廠距烏克蘭超過2500公里。"
+    },
+    {
+      "id": "5166461",
+      "time": "2026-10-24 23:33:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度保險監管局（IRDAI）將保險改革方案意見徵集截止日期從10月25日延長至10月31日。"
+    },
+    {
+      "id": "5166460",
+      "time": "2026-10-24 23:32:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱打擊亞丁沙特軍事目標】當地時間24日晚間，葉門胡塞武裝表示，胡塞武裝對沙烏地阿拉伯主導的多國聯軍方面稱為“勝利營”的軍營和位於亞丁的海軍基地實施了打擊。葉門政府內政部當晚證實，葉門亞丁海岸警衛隊總部遭到胡塞武裝三枚彈道導彈襲擊。（央視新聞）"
+    },
+    {
+      "id": "5166448",
+      "time": "2026-10-24 23:24:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議員桑加爾：儘管身處衝突之中，伊朗仍保留導彈庫存以及400公斤濃縮鈾，持續掌控霍爾木茲海峽。"
+    },
+    {
+      "id": "5166447",
+      "time": "2026-10-24 23:21:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "輝瑞：25價肺炎球菌結合疫苗（25vPnC）可對全部25種血清型產生免疫應答。"
+    },
+    {
+      "id": "mkt:01a16e7c-7671-7ee0-a965-4b39f41b3dbe",
+      "time": "2026-10-24 23:16:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "French police said 110,000 people took part in demonstrations in Paris and that the situation remained calm."
+    },
+    {
+      "id": "5166444",
+      "time": "2026-10-24 23:16:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士暗盤跌超2%，現報135.305美元。"
+    },
+    {
+      "id": "5166441",
+      "time": "2026-10-24 23:09:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【青藏鐵路受地震影響區段全面取消限速】記者從中國鐵路青藏集團有限公司獲悉，青藏鐵路格拉段臨時限速措施23日夜間全部取消，經全面排查，線路裝置無異常，列車恢復正常速度執行，運輸秩序平穩有序。（新華社）"
+    },
     {
       "id": "5166439",
       "time": "2026-10-24 23:06:40",
@@ -117714,186 +118199,6 @@
         "國際"
       ],
       "text": "【墨西哥恰帕斯州近海發生5.2級地震】根據歐洲-地中海地震中心報告，當地時間17日6時59分，墨西哥東南部恰帕斯州近海發生5.2級地震，震源深度10公里。目前暫無海嘯預警報告。"
-    },
-    {
-      "id": "5151905",
-      "time": "2026-10-18 01:01:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印媒：印度東部踩踏事故致17人死亡】據印度媒體17日報道，印度東部西孟加拉邦首府加爾各答一處印度教節日慶祝活動現場當晚發生踩踏事故，造成至少17人死亡、多人受傷。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a14ac2-60e0-7ee0-a8cc-d626a39c97b7",
-      "time": "2026-10-18 00:46:55",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Houthi forces say Saudi warplanes carried out 53 airstrikes in Yemen in past 24 hours】Houthi military spokesman Yahya Sarea said Saudi F-15 and Typhoon fighters launched from Khamis Mushait and Taif air bases carried out 53 airstrikes in the past 24 hours on Sanaa and the provinces of Taiz, Ibb, Lahj, Saada and Amran, hitting civilian targets and causing numerous casualties, mostly women and children. He said the total number of Saudi air and missile strikes since Saudi Arabia escalated military operations against Yemen has reached 2,542."
-    },
-    {
-      "id": "mkt:01a14ac1-0937-7ee0-a8cc-c9000447b931",
-      "time": "2026-10-18 00:45:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Houthi military spokesman Yahya Saree said Saudi warplanes carried out 53 airstrikes in the past 24 hours on the capital Sana'a and the provinces of Taiz, Ibb, Lahj, Saada and Amran, targeting civilian infrastructure."
-    },
-    {
-      "id": "mkt:01a14abf-33cd-7ee0-a8cc-c1c921dd57b8",
-      "time": "2026-10-18 00:43:26",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Russia says it controls eight settlements; Ukraine says it struck Russian command posts】The Russian Defence Ministry said on the 17th that over the previous day Russian forces seized eight populated localities in Kharkiv and other areas and struck Ukrainian transport infrastructure, UAV storage sites and temporary deployment points. It said air defences shot down 654 Ukrainian fixed-wing drones and one HIMARS rocket; the Black Sea Fleet destroyed one Ukrainian naval drone in the Black Sea. The Ukrainian General Staff said on the 17th that its air force, missile troops and artillery struck Russian troop concentrations and drone command posts, destroying one tank, two armoured vehicles and 1,396 drones."
-    },
-    {
-      "id": "5151893",
-      "time": "2026-10-18 00:43:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱控制8個居民點 烏稱襲擊俄指揮所】俄羅斯國防部17日通報稱，過去一天，俄軍在哈爾科夫等地區控制8個居民點。俄軍對烏軍交通基礎設施、無人機儲存設施以及臨時部署點實施打擊。俄軍防空系統擊落654架烏克蘭固定翼無人機和1枚“海馬斯”火箭彈，黑海艦隊還在黑海海域摧毀1艘烏克蘭海軍無人艇。烏克蘭武裝部隊總參謀部17日通報稱，過去一天，烏空軍、導彈部隊和炮兵襲擊了俄方人員集結區、無人機指揮所等目標，摧毀俄軍1輛坦克、2輛裝甲車以及1396架無人機等武器裝備。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a14abe-92f5-7ee0-a8cc-bfdf4f3111bd",
-      "time": "2026-10-18 00:42:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq prime minister al-Zaidi ordered an investigative committee to probe an explosion at an ammunition depot inside a Popular Mobilization Forces headquarters in Baghdad."
-    },
-    {
-      "id": "mkt:01a14ab8-3316-7ee0-a8cc-b4f66c459a7d",
-      "time": "2026-10-18 00:35:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pakistan temporarily suspends border trade with Iran】On Oct. 17 local time, the deputy commissioner of Chagai district in Pakistan's Balochistan province said on social media that border trade with Iran has been temporarily suspended for security reasons. He said the closure is a temporary measure to strengthen border management and support counterterrorism operations and that the border will reopen once effective measures are implemented."
-    },
-    {
-      "id": "5151889",
-      "time": "2026-10-18 00:34:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦暫時關閉與伊朗的邊境貿易通道】當地時間10月17日，巴基斯坦俾路支省查蓋地區副專員在社交媒體上表示，出於安全考慮，巴基斯坦與伊朗之間的邊境貿易已暫時中止。該官員表示，暫時關閉巴伊邊境貿易通道是為加強邊境管理、支援反恐行動而採取的臨時措施。一旦相關有效措施落實到位，邊境將重新開放。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a14aac-4dcf-7ee0-a8cc-ac5d85c0c1a7",
-      "time": "2026-10-18 00:22:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. Embassy in Riyadh issues another security alert】On the 16th (local time) the U.S. Embassy in Riyadh issued another security alert to U.S. citizens in Saudi Arabia, urging caution and advising they factor in possible flight cancellations and potential closure of Saudi airspace. Washington has issued multiple warnings on Saudi security in recent weeks."
-    },
-    {
-      "id": "mkt:01a14aa9-cb3b-7ee0-a8cc-a0d21fcdad16",
-      "time": "2026-10-18 00:20:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Explosion at munitions depot in Baghdad】Iraqi security sources said on the 17th (local time) a depot storing damaged munitions belonging to the Shia Popular Mobilization Forces east of Baghdad exploded, injuring several people. Cause unknown."
-    },
-    {
-      "id": "5151884",
-      "time": "2026-10-18 00:19:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【伊拉克首都一彈藥倉庫發生爆炸 】當地時間17日，伊拉克安全部門訊息人士稱，位於該國首都巴格達東部隸屬伊拉克什葉派民兵武裝“人民動員組織”的一處儲存受損彈藥的倉庫發生爆炸，已致多人受傷。爆炸原因不明。（央視新聞）"
-    },
-    {
-      "id": "5151883",
-      "time": "2026-10-18 00:12:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞國防部稱，羅馬尼亞F-16戰鬥機在羅馬尼亞領海上空擊落兩架無人機。"
-    },
-    {
-      "id": "mkt:01a14aa2-f0b0-7ee0-a8cc-99afc14cb339",
-      "time": "2026-10-18 00:12:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "TASNIM NEWS reported Romanian F-16s shot down two drones over the Black Sea after they entered Romanian airspace."
-    },
-    {
-      "id": "mkt:01a14aa1-7e7a-7ee0-a8cc-943ade2af045",
-      "time": "2026-10-18 00:10:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "France's prime minister said the government will not allow any political agenda to be imposed domestically through violence."
-    },
-    {
-      "id": "mkt:01a14a9d-8cb2-7ee0-a8cc-8996e266adc9",
-      "time": "2026-10-18 00:06:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Israel Defense Forces said it carried out strikes across multiple areas of the Gaza Strip in recent days, killing four Hamas members."
-    },
-    {
-      "id": "mkt:01a14a97-b400-7ee0-a8cc-839166e998e4",
-      "time": "2026-10-18 00:00:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Saudi-led coalition says it intercepted and destroyed four drones over Riyadh, east and south】On Oct 17 local time, Saudi-led coalition spokesman Turki al-Maliki said the coalition intercepted and destroyed four drones over Riyadh and in eastern and southern regions in the past several hours."
-    },
-    {
-      "id": "5151882",
-      "time": "2026-10-17 23:55:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙特聯軍稱在利雅得等多地攔截並摧毀4架無人機 】當地時間10月17日，沙特主導的多國聯軍發言人圖爾基·馬利基表示，過去數小時內，聯軍在沙特首都利雅得、東部地區及南部地區攔截並摧毀了4架無人機。（央視新聞）"
-    },
-    {
-      "id": "5151876",
-      "time": "2026-10-17 23:47:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦俾路支省20名警察遭武裝分子綁架 】巴基斯坦俾路支省政府官員17日說，該省默斯東地區20名警察16日晚被身份不明的武裝分子綁架。（新華社）"
-    },
-    {
-      "id": "5151875",
-      "time": "2026-10-17 23:46:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "兩名安全訊息人士：巴格達北部的人民動員部隊總部內發生爆炸，原因尚不清楚；一名人民動員部隊成員死亡，另有四人受傷。"
-    },
-    {
-      "id": "5151834",
-      "time": "2026-10-17 23:22:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【坦尚尼亞加強入境健康篩查 防止埃博拉病毒輸入】坦尚尼亞衛生部當地時間17日釋出最新旅行健康提示，宣佈加強邊境衛生防控措施，要求所有入境旅客填寫健康監測申報表，並在機場、陸路口岸和海港接受健康篩查，以防止埃博拉等傳染病傳入。（央視新聞）"
-    },
-    {
-      "id": "5151820",
-      "time": "2026-10-17 23:13:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊拉克總理呼籲伊斯蘭合作組織成員國促進地區和平】伊斯蘭合作組織外長理事會第52次會議17日在伊拉克首都巴格達開幕。伊拉克總理扎伊迪在開幕致辭中呼籲該組織成員國加強合作、尊重差異，以促進地區穩定與和平。據伊拉克總理新聞辦公室發表的宣告，扎伊迪在致辭中說，巴勒斯坦問題是地區衝突的核心，確保巴勒斯坦人民獲得公正並保障其各項權利，對於實現地區安全與穩定至關重要。伊拉克外交部17日發表的宣告說，伊拉克正式接任該理事會輪值主席國。本次會議為期兩天，主題為“對話與團結：促進和平與可持續發展的兩大支柱”。會議將探討一系列議題，重點包括巴勒斯坦問題、加沙地帶局勢以及更廣泛的地區和國際事務。（新華社）"
     }
   ]
 }

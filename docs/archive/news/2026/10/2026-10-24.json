@@ -1,7 +1,192 @@
 {
   "date": "2026-10-24",
-  "count": 828,
+  "count": 850,
   "items": [
+    {
+      "id": "5166483",
+      "time": "2026-10-24 23:59:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋總統：阿聯酋聲援約旦，共同抵制一切破壞約旦國家安全與民眾安全的行徑。"
+    },
+    {
+      "id": "5166482",
+      "time": "2026-10-24 23:58:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋總統致電約旦國王，就卡拉克教堂襲擊事件遇難者表達慰問。"
+    },
+    {
+      "id": "mkt:01a16ea2-44a1-7ee0-a965-7dae73d4239f",
+      "time": "2026-10-24 23:58:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said the European public has lost trust in the EU."
+    },
+    {
+      "id": "5166481",
+      "time": "2026-10-24 23:56:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：儘管尚未作出最終決定，特朗普傾向於恢復對伊朗的重大行動。"
+    },
+    {
+      "id": "5166475",
+      "time": "2026-10-24 23:52:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲骨文暗盤跌超2%，現報125.08美元。"
+    },
+    {
+      "id": "mkt:01a16e9c-bbff-7ee0-a965-778b0e2b5312",
+      "time": "2026-10-24 23:52:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Ministry director-general for parliamentary and legal affairs Nourabadi said under Iran's religious doctrine negotiating with an enemy is itself a form of war, and war and negotiation are not opposed but interlinked and mutually complementary tools."
+    },
+    {
+      "id": "mkt:01a16e9c-981c-7ee0-a965-6fd59f328c81",
+      "time": "2026-10-24 23:51:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Foreign Ministry director of parliamentary and legal affairs Nourabadi said the US is trying to force a dichotomy between war and negotiations, sequencing the two to achieve its objectives."
+    },
+    {
+      "id": "5166473",
+      "time": "2026-10-24 23:50:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美屬維爾京群島大面積停電】美屬維爾京群島過去60小時發生大範圍停電。當地政府及水電部門尚未釋出訊息，連續兩日學校停課。多起住宅火災，據稱由發電機引發。當地重要藥品和關鍵食品供應受損。"
+    },
+    {
+      "id": "mkt:01a16e9a-41ea-7ee0-a965-667520f357d4",
+      "time": "2026-10-24 23:49:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House said President Trump is implementing a sweeping crackdown on fraud."
+    },
+    {
+      "id": "5166471",
+      "time": "2026-10-24 23:47:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯能源巨頭秘密出資並掌控250億美元阿拉斯加天然氣專案】Polar LNG前高管指控俄羅斯能源巨頭諾瓦泰克暗中出資控制規劃中的250億美元的阿拉斯加天然氣出口專案，該專案曾由普京與特朗普特使磋商，此事曝光後，凸顯巨大的美國製裁合規風險。知情人士稱，該專案在上月成為普京與美國特使威特科夫、賈裡德·庫什納的討論議題。能源交易是美方試圖和俄方就烏克蘭戰事達成協議的談判內容之一。"
+    },
+    {
+      "id": "mkt:01a16e97-55c0-7ee0-a965-5af236f52837",
+      "time": "2026-10-24 23:46:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Head of an Iran free-trade zone said measures have been introduced to simplify imports of industrial raw materials via streamlined customs procedures, with goods clearance taking at most one week to 10 days."
+    },
+    {
+      "id": "mkt:01a16e96-acc7-7ee0-a965-54527ce0e33f",
+      "time": "2026-10-24 23:45:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian MP Sangar said Iran's control of the Strait of Hormuz is beyond doubt."
+    },
+    {
+      "id": "5166468",
+      "time": "2026-10-24 23:41:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤跌破6.5美元，日內跌幅0.5%。"
+    },
+    {
+      "id": "5166465",
+      "time": "2026-10-24 23:38:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "三項以色列主要民調顯示，內塔尼亞胡陣營預計僅獲50個席位，這加大了出現僵局的可能性，而僵局可能使他以看守總理身份繼續執政。"
+    },
+    {
+      "id": "5166463",
+      "time": "2026-10-24 23:34:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯鄂木斯克的鄂木斯克橡膠化工廠發生大火，此前據報道該廠遭烏克蘭無人機襲擊，該工廠距烏克蘭超過2500公里。"
+    },
+    {
+      "id": "5166461",
+      "time": "2026-10-24 23:33:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度保險監管局（IRDAI）將保險改革方案意見徵集截止日期從10月25日延長至10月31日。"
+    },
+    {
+      "id": "5166460",
+      "time": "2026-10-24 23:32:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱打擊亞丁沙特軍事目標】當地時間24日晚間，葉門胡塞武裝表示，胡塞武裝對沙烏地阿拉伯主導的多國聯軍方面稱為“勝利營”的軍營和位於亞丁的海軍基地實施了打擊。葉門政府內政部當晚證實，葉門亞丁海岸警衛隊總部遭到胡塞武裝三枚彈道導彈襲擊。（央視新聞）"
+    },
+    {
+      "id": "5166448",
+      "time": "2026-10-24 23:24:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議員桑加爾：儘管身處衝突之中，伊朗仍保留導彈庫存以及400公斤濃縮鈾，持續掌控霍爾木茲海峽。"
+    },
+    {
+      "id": "5166447",
+      "time": "2026-10-24 23:21:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "輝瑞：25價肺炎球菌結合疫苗（25vPnC）可對全部25種血清型產生免疫應答。"
+    },
+    {
+      "id": "mkt:01a16e7c-7671-7ee0-a965-4b39f41b3dbe",
+      "time": "2026-10-24 23:16:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "French police said 110,000 people took part in demonstrations in Paris and that the situation remained calm."
+    },
+    {
+      "id": "5166444",
+      "time": "2026-10-24 23:16:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士暗盤跌超2%，現報135.305美元。"
+    },
+    {
+      "id": "5166441",
+      "time": "2026-10-24 23:09:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【青藏鐵路受地震影響區段全面取消限速】記者從中國鐵路青藏集團有限公司獲悉，青藏鐵路格拉段臨時限速措施23日夜間全部取消，經全面排查，線路裝置無異常，列車恢復正常速度執行，運輸秩序平穩有序。（新華社）"
+    },
     {
       "id": "5166439",
       "time": "2026-10-24 23:06:40",
