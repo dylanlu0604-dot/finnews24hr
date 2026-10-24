@@ -1,7 +1,25 @@
 {
   "date": "2026-10-24",
-  "count": 421,
+  "count": 423,
   "items": [
+    {
+      "id": "mkt:01a16b93-8dd2-7ee0-a960-f809c17e0f7e",
+      "time": "2026-10-24 09:43:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【NBS: Mid‑October 22 items rose; live hog prices down 4.9%】China's National Bureau of Statistics said its mid‑October monitoring of nine categories covering 50 key producer‑input markets showed 22 items rose, 25 fell and 3 were unchanged versus late September. Liquefied natural gas was 6,749.4 yuan/tonne, up 9.1% versus late September; live hogs (three‑way cross) were 9.8 yuan/kg, down 4.9%."
+    },
+    {
+      "id": "mkt:01a16b92-76b6-7ee0-a960-f2fc6544fa03",
+      "time": "2026-10-24 09:42:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Saudi-led coalition said it intercepted and destroyed a ballistic missile launched by Houthi militants toward Riyadh."
+    },
     {
       "id": "5165733",
       "time": "2026-10-24 09:37:43",
