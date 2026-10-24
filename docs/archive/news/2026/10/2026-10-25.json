@@ -1,7 +1,73 @@
 {
   "date": "2026-10-25",
-  "count": 131,
+  "count": 138,
   "items": [
+    {
+      "id": "5166637",
+      "time": "2026-10-25 04:29:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：美國能否與伊朗達成協議取決於伊朗。"
+    },
+    {
+      "id": "mkt:01a16f9a-5aef-7ee0-a967-25ef03a50572",
+      "time": "2026-10-25 04:29:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Iran hopes to reach an agreement."
+    },
+    {
+      "id": "5166636",
+      "time": "2026-10-25 04:28:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：對伊朗而言，打擊和達成協議兩種可能都存在。"
+    },
+    {
+      "id": "5166635",
+      "time": "2026-10-25 04:28:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我有可能攻擊伊朗。"
+    },
+    {
+      "id": "mkt:01a16f99-50f6-7ee0-a967-1966bb271934",
+      "time": "2026-10-25 04:28:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Trump says he may launch an attack on Iran."
+    },
+    {
+      "id": "5166634",
+      "time": "2026-10-25 04:26:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面：伊朗未向巴基斯坦調解方提出任何新提議。"
+    },
+    {
+      "id": "mkt:01a16f97-8b32-7ee0-a967-1164ec00163d",
+      "time": "2026-10-25 04:26:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said back-to-back campaign rallies have strained his voice."
+    },
     {
       "id": "5166633",
       "time": "2026-10-25 04:25:31",
