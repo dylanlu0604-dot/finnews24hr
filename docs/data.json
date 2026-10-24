@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-24 09:22:33",
-  "count": 13064,
+  "updated": "2026-10-24 09:26:22",
+  "count": 13063,
   "items": [
+    {
+      "id": "mkt:01a16b83-b757-7ee0-a960-e83fb4ce582f",
+      "time": "2026-10-24 09:25:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK to spend £600m on AI safety to counter emerging biological threats】The UK will invest about £600m (about $800m) in AI safety targeting biological, health and cyber threats, the government said. Planned allocations include £100m to build an AI biosecurity laboratory, £65m for pathogen-response R&D, £120m for the existing AI Safety Institute, £130m to strengthen cyber defenses for critical infrastructure and the wider economy, and £60m to support AI-driven robotics, automation and manufacturing firms, alongside funding for AI research, chip design, medical policy innovation and local AI projects. OpenAI and Anthropic will provide up to £200m of model-use credits, and Google DeepMind and other firms will also contribute support."
+    },
+    {
+      "id": "5165696",
+      "time": "2026-10-24 09:24:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【昨日ETF資金整體淨流入647.95億元】資料顯示，2026年10月23日，ETF資金整體淨流入647.95億元，股票型淨流入586.05億元，寬基型淨流入554.60億元。當日ETF資金淨流入榜單排名前3依次為：華泰柏瑞滬深300ETF（510300）淨流入103.19億元，易方達創業板ETF（159915）淨流入63.64億元，華夏滬深300ETF（510330）淨流入59.00億元。"
+    },
     {
       "id": "5165694",
       "time": "2026-10-24 09:20:10",
@@ -17,6 +33,15 @@
         "其他"
       ],
       "text": "【百利天恆倫康依隆妥單抗III期研究登頂《柳葉刀》，重塑HR+HER2-乳腺癌後線治療格局】百利天恆自主研發的全球首創EGFR×HER3雙抗ADC倫康依隆妥單抗（宜澤康®，BL-B01D1/iza-bren），用於後線治療HR+HER2-晚期乳腺癌的III期臨床研究PANKU-Breast01結果，在大會重磅Late-breaking Abstract（LBA）環節公佈，研究成果同步榮登《柳葉刀》（IF:109）主刊並全文發表。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610243907047419",
+      "time": "2026-10-24 09:19:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【海關資料：2026年1—9月我國摩托車進出口繼續呈現增長態勢】據中國摩托車商會訊息，根據海關資料統計分析，2026年1—9月，我國摩托車整車出口量為1516.36萬輛，較去年同期增長11.76%，出口額為102.87億美元，較去年同期增長21.19%。其中：非洲出口量最多，漲幅最大，出口量為572.21萬輛，同比增長32.05%，出口額為31.95億美元，同比增長38.60%。"
     },
     {
       "id": "5165692",
@@ -118369,39 +118394,6 @@
         "其他"
       ],
       "text": "【宇樹科技展示中心在天津建成投用】“天津發布”公眾號訊息，近日，宇樹科技展示中心在天津經開區科技發展中心三號樓正式建成投用。該展廳將作為宇樹機器人專屬產品展示陣地，集中陳列多款系列機器人產品，直觀呈現前沿機器人領域技術成果。"
-    },
-    {
-      "id": "5151030",
-      "time": "2026-10-17 09:26:13",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【量化基金巨頭Two Sigma據悉停止為不動產部門籌資並裁撤高層】據報道，量化基金巨頭Two Sigma Investments削減不動產部門的高階職員並停止為其籌資，，而此舉距其對外部資金開放僅過了兩年。知情人士透露，該部門的合夥人兼首席投資官Rich Gomel將離職。不動產領導團隊的其他成員也會離開。據悉，Two Sigma尋求為該部門籌資約20億美元，但在充滿挑戰的融資環境下最終只完成不到一半的目標。"
-    },
-    {
-      "id": "mkt:01a14776-e59f-7ee0-a8c7-6abbbe9e0a12",
-      "time": "2026-10-17 09:25:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【World Vocational and Technical Education Standards Framework (Beijing Accord) released】Oct 17, 2026 — Forty-five countries jointly released the World Vocational and Technical Education Standards Framework (Beijing Accord) at the closing ceremony of the 2026 World Vocational and Technical Education Development Conference. The framework sets shared values — promoting economic prosperity and social progress, holistic human development, widening social equity, mutual skills learning and future readiness — and recommends policy measures to strengthen vocational school systems; build a national lifelong learning and training system; co-develop curricula and teaching materials with industry; use school-enterprise partnerships to develop teacher capacity; align internships and practical training with actual job requirements; and promote AI-enabled teaching reform. It also outlines governance, safeguards and implementation pathways. The Beijing Accord is the first international vocational education standard developed under Chinese leadership."
-    },
-    {
-      "id": "5151029",
-      "time": "2026-10-17 09:24:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《世界職業技術教育標準框架》釋出】10月17日，《世界職業技術教育標準框架》（《北京協議》）在2026年世界職業技術教育發展大會閉幕式上由45個國家共同釋出。協議將推動經濟繁榮與社會進步、服務人的全面發展、拓寬社會公平通道、深化職業技能互學互鑑、積極應對未來挑戰作為職業教育共同的價值追求；倡議完善職業學校辦學體系、構建全民終身教育培訓體系、產教協同建設教材、校企合作打造教師隊伍、按崗位實際要求開展實習實訓、人工智慧賦能教育教學改革等育人體系；提出相應治理、保障、行動路徑。《北京協議》是我國牽頭推動研製形成的首個國際職業教育標準。（新華社）"
-    },
-    {
-      "id": "5151025",
-      "time": "2026-10-17 09:23:03",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【人民銳評：紙尿褲風波落地，照見維護公眾安全感的啟示】《人民銳評》刊文指出，國家的權威調查，讓無數家庭可以安心使用紙尿褲，延宕數月的輿論風波也塵埃落定。這份通報的分量，遠不止於結論本身，也為維護公眾安全感帶來諸多深刻啟示。一份經得起檢驗的通報，既是對公眾訴求的回應，也是對科學精神的堅守。“回應型治理”，回應的是民情，檢驗的是能力，築牢的是信任。讓監督更有力，讓檢測更規範，讓回應更及時，每一份安心才不會落空，每一份信任才不會被辜負，社會才能在科學與法治的軌道上行穩致遠。"
     }
   ]
 }

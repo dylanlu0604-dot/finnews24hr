@@ -1,7 +1,23 @@
 {
   "date": "2026-10-24",
-  "count": 405,
+  "count": 408,
   "items": [
+    {
+      "id": "mkt:01a16b83-b757-7ee0-a960-e83fb4ce582f",
+      "time": "2026-10-24 09:25:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK to spend £600m on AI safety to counter emerging biological threats】The UK will invest about £600m (about $800m) in AI safety targeting biological, health and cyber threats, the government said. Planned allocations include £100m to build an AI biosecurity laboratory, £65m for pathogen-response R&D, £120m for the existing AI Safety Institute, £130m to strengthen cyber defenses for critical infrastructure and the wider economy, and £60m to support AI-driven robotics, automation and manufacturing firms, alongside funding for AI research, chip design, medical policy innovation and local AI projects. OpenAI and Anthropic will provide up to £200m of model-use credits, and Google DeepMind and other firms will also contribute support."
+    },
+    {
+      "id": "5165696",
+      "time": "2026-10-24 09:24:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【昨日ETF資金整體淨流入647.95億元】資料顯示，2026年10月23日，ETF資金整體淨流入647.95億元，股票型淨流入586.05億元，寬基型淨流入554.60億元。當日ETF資金淨流入榜單排名前3依次為：華泰柏瑞滬深300ETF（510300）淨流入103.19億元，易方達創業板ETF（159915）淨流入63.64億元，華夏滬深300ETF（510330）淨流入59.00億元。"
+    },
     {
       "id": "5165694",
       "time": "2026-10-24 09:20:10",
@@ -17,6 +33,15 @@
         "其他"
       ],
       "text": "【百利天恆倫康依隆妥單抗III期研究登頂《柳葉刀》，重塑HR+HER2-乳腺癌後線治療格局】百利天恆自主研發的全球首創EGFR×HER3雙抗ADC倫康依隆妥單抗（宜澤康®，BL-B01D1/iza-bren），用於後線治療HR+HER2-晚期乳腺癌的III期臨床研究PANKU-Breast01結果，在大會重磅Late-breaking Abstract（LBA）環節公佈，研究成果同步榮登《柳葉刀》（IF:109）主刊並全文發表。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610243907047419",
+      "time": "2026-10-24 09:19:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【海關資料：2026年1—9月我國摩托車進出口繼續呈現增長態勢】據中國摩托車商會訊息，根據海關資料統計分析，2026年1—9月，我國摩托車整車出口量為1516.36萬輛，較去年同期增長11.76%，出口額為102.87億美元，較去年同期增長21.19%。其中：非洲出口量最多，漲幅最大，出口量為572.21萬輛，同比增長32.05%，出口額為31.95億美元，同比增長38.60%。"
     },
     {
       "id": "5165692",
