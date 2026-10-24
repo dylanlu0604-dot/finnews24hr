@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-25 03:59:35",
-  "count": 13035,
+  "updated": "2026-10-25 04:03:23",
+  "count": 13036,
   "items": [
+    {
+      "id": "mkt:01a16f81-d026-7ee0-a966-d9e06dab9814",
+      "time": "2026-10-25 04:02:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Chairman of Iran's parliamentary National Security Committee said any adversary that takes action threatening Iran's security or national interests would see occupied territory rendered uninhabitable in under an hour."
+    },
+    {
+      "id": "5166620",
+      "time": "2026-10-25 04:02:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "閃迪暗盤漲超1%，現報1237.455美元。"
+    },
+    {
+      "id": "5166619",
+      "time": "2026-10-25 04:00:50",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國務院更新中東多國旅行警告 稱胡塞和伊朗襲擊威脅增加】據美國媒體24日報道，因葉門胡塞武裝和伊朗的襲擊威脅增加，美國國務院針對13箇中東國家更新了旅行警告。報道說，此次更新涉及的國家和地區包括巴林、伊朗、伊拉克、以色列、約旦、科威特、黎巴嫩、阿曼、卡達、沙烏地阿拉伯、敘利亞、阿聯酋和葉門。美駐上述國家的大使館日前在其官網上釋出最新旅行警告稱，預警級別及風險指標均未發生變化，但預警摘要已更新。其中，美駐沙特大使館釋出旅行警告稱，“伊朗支援的胡塞武裝發動潛在武裝襲擊的可能性有所增加，同時伊朗正試圖針對該地區的美國政府官員採取行動”。美駐其他國家大使館的旅行警告則只提到胡塞武裝襲擊威脅增加。（新華社）"
+    },
+    {
+      "id": "5166618",
+      "time": "2026-10-25 04:00:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車還將擴建南卡羅來納州工廠。"
+    },
     {
       "id": "5166617",
       "time": "2026-10-25 03:57:35",
@@ -117989,40 +118028,6 @@
         "Brent"
       ],
       "text": "Iran foreign minister Araghchi told Press TV the United States now determines whether navigation in the Strait of Hormuz can return to normal."
-    },
-    {
-      "id": "5152036",
-      "time": "2026-10-18 04:02:31",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外長：霍爾木茲海峽交通能否恢復正常，選擇權現在掌握在美國手中。"
-    },
-    {
-      "id": "mkt:01a14b75-2caf-7ee0-a8ce-2b4dee60abbb",
-      "time": "2026-10-18 04:02:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump reiterates Iran war will end soon, says gasoline prices will fall】Trump told a Kentucky rally the Iran war, now approaching eight months, will end soon and gasoline prices would fall to below pre-war levels. He repeated similar prior assertions. He also revived a contested pledge that if Republicans win control of both chambers each US adult would receive $5,000; the plan is estimated to cost more than $1 trillion, would require congressional approval and could further widen the US annual budget deficit of about $1.8 trillion. He additionally pledged that a Republican victory would prompt the Defense Department to invest in reviving a Kentucky drug manufacturing plant."
-    },
-    {
-      "id": "mkt:01a14b72-d81a-7ee0-a8ce-2457476add91",
-      "time": "2026-10-18 03:59:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Netanyahu backs Trump on Iran policy, warns Tehran threatens US cities】Israeli Prime Minister Netanyahu praised President Trump’s approach to Iran and warned Tehran’s nuclear ambitions and bid to dominate the Middle East — including control of key waterways and oil supplies — pose a direct threat to the United States. He described Hamas, Hezbollah and Yemen’s Houthi rebels as extensions of Iranian leadership and called for sustained military and economic pressure on Tehran. Netanyahu said he met Trump at Mar-a-Lago before the last US presidential election and that Trump had already recognised the Iranian nuclear threat as extending beyond Israel. \"By then, every American city, every city, would be held hostage by these fanatics,\" he said."
     }
   ]
 }
