@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-25 02:20:51",
-  "count": 13042,
+  "updated": "2026-10-25 02:24:44",
+  "count": 13045,
   "items": [
+    {
+      "id": "mkt:01a16f27-588c-7ee0-a966-39806c48d623",
+      "time": "2026-10-25 02:23:31",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Metals trading hits one of most profitable periods; traders report career-high pay】Global metals trading logged a second consecutive year of explosive profit growth, with several major traders recording record results and traders pocketing billions. A rival vying with Glencore for the top global metals-trader spot posted about $2.0bn of metals-trading profit for the fiscal year to September. Glencore also recorded one of its best-ever metals performances but took a $480m provision tied to exposure to iron-ore trader Radiant World. The strong earnings lifted sentiment at LME Week; traders report career-high compensation and increased recruitment by competitors and new entrants. Vitol’s metals business is expected to post profits above $100m this year but remains behind peers such as Mercuria."
+    },
+    {
+      "id": "5166587",
+      "time": "2026-10-25 02:22:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏將為奧列什基人道主義行動同步停火】據塔斯社24日報道，俄羅斯人權事務專員蘭特拉託娃當天說，俄羅斯和烏克蘭正按照已達成的約定，推進在赫爾松地區奧列什基開展人道主義行動的計劃，雙方將為此在當地同步停火。（新華社）"
+    },
+    {
+      "id": "5166586",
+      "time": "2026-10-25 02:22:30",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【伊朗航司外匯供給中斷，機票漲價約40%】伊朗航空協會秘書長馬吉德·阿赫拉吉週六稱，受運營成本上漲、外匯短缺影響，伊朗機票價格上漲約40%。阿赫拉吉表示，航空公司超半數運營開支需要以外幣結算；銀行已經一個多月無法透過官方換匯渠道向航司提供外匯，航司只能接近黑市匯率購匯。"
+    },
+    {
+      "id": "5166584",
+      "time": "2026-10-25 02:21:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府要求加州各縣選舉官員甄別登記在冊的非公民選民。"
+    },
+    {
+      "id": "5166583",
+      "time": "2026-10-25 02:21:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奈及利亞一社群遭武裝分子襲擊 至少37人死亡】當地時間10月24日，奈及利亞塔拉巴州警方對外披露，該州卡里姆-拉米多地方政府區的一個社群於23日下午遭到武裝分子大規模越境襲擊。目前，該事件已造成至少37名平民喪生。（央視新聞）"
+    },
+    {
+      "id": "5166582",
+      "time": "2026-10-25 02:20:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家情報總監克萊頓向國務卿魯比奧通報，伊朗加緊謀劃在海外針對美方官員實施刺殺。"
+    },
     {
       "id": "5166577",
       "time": "2026-10-25 02:13:09",
@@ -118046,30 +118098,6 @@
         "國際"
       ],
       "text": "美國總統特朗普在肯塔基州舉辦集會，為中期選舉最後衝刺動員選民。"
-    },
-    {
-      "id": "5151978",
-      "time": "2026-10-18 02:22:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：他們想擾亂選舉，或者至少影響選舉。以色列的所有敵人都公開這麼說；從紐約市長馬姆達尼，到伊斯坦布林的埃爾多安，到伊朗的阿亞圖拉們，到黎巴嫩的真主黨，到加沙的哈馬斯，當然還有曼蘇爾·阿巴斯和馬哈茂德·阿巴斯。他們都在說同樣的話，內塔尼亞胡必須輸。他們為什麼這麼說？為什麼他們努力讓我們輸？因為他們不想要對以色列有利的東西。他們想要摧毀以色列。以色列的所有敵人在這一點上是一致的。這是事實。他們公開這麼說。"
-    },
-    {
-      "id": "mkt:01a14b19-0904-7ee0-a8cd-6c212ef17ba7",
-      "time": "2026-10-18 02:21:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese President AOUN said he welcomes any plan that ensures international forces remain deployed in southern Lebanon and prevents a security vacuum if UNIFIL withdraws."
-    },
-    {
-      "id": "mkt:01a14b18-c1ac-7ee0-a8cd-61e0169c627e",
-      "time": "2026-10-18 02:21:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese President AOUN said Lebanon seeks to extend UNIFIL's mandate in any form that ensures international forces remain deployed in southern Lebanon."
     }
   ]
 }
