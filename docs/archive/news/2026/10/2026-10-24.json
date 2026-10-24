@@ -1,7 +1,15 @@
 {
   "date": "2026-10-24",
-  "count": 433,
+  "count": 434,
   "items": [
+    {
+      "id": "mkt:01a16bbb-1ed9-7ee0-a961-16aceae49500",
+      "time": "2026-10-24 10:26:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports JFE Steel and India's JSW Steel will jointly build a large blast furnace in India, aiming to double capacity by 2030."
+    },
     {
       "id": "5165911",
       "time": "2026-10-24 10:22:16",

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-24 10:23:09",
-  "count": 13059,
+  "updated": "2026-10-24 10:26:56",
+  "count": 13058,
   "items": [
+    {
+      "id": "mkt:01a16bbb-1ed9-7ee0-a961-16aceae49500",
+      "time": "2026-10-24 10:26:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports JFE Steel and India's JSW Steel will jointly build a large blast furnace in India, aiming to double capacity by 2030."
+    },
     {
       "id": "5165911",
       "time": "2026-10-24 10:22:16",
@@ -118329,24 +118337,6 @@
         "Impact bullish"
       ],
       "text": "【China calls for stronger global climate governance】China's UN ambassador Fu Cong told a UNGA high-level meeting on climate adaptation Beijing seeks stronger global climate governance and faster, fair green transitions. He set out three priorities: reinforce multilateral action to fully implement the UNFCCC and Paris Agreement; accelerate a green, just transition with nationally determined pathways and build a fair, open governance framework for critical minerals to underpin the energy transition; and boost climate-action capacity — developed countries should meet commitments, and multilateral development banks and the private sector must scale up climate finance to help developing countries close funding, technology and capacity gaps. He urged greater international cooperation on early warning, risk assessment and disaster risk reduction, and called for mechanisms to enable rapid disbursement from loss-and-damage funds."
-    },
-    {
-      "id": "5151290",
-      "time": "2026-10-17 10:26:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方呼籲加強全球氣候治理】中國常駐聯合國代表傅聰16日在聯大主席召集的“適應未來的地球：以氣候行動重建信任”高階別會議上發言，呼籲加強全球氣候治理、加快綠色公正轉型。（新華社）"
-    },
-    {
-      "id": "mkt:01a147ad-ec98-7ee0-a8c7-c0921f6ffbd8",
-      "time": "2026-10-17 10:25:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【State Film Administration and General Administration of Sport launch ‘Follow Movies to Exercise’ campaign to deepen film–sport cooperation】China’s State Film Administration and the General Administration of Sport have issued a notice launching the “Follow Movies to Exercise” campaign to boost synergy between the film and sports sectors. Key measures: deepen joint film–sports publicity and encourage sports‑themed film production, targeted screenings and cross‑media collaboration to raise film appreciation and public sports participation; promote coordinated “movie+sports” consumption promotions by cinemas, sports venues, event organizers, internet platforms, commercial banks and payment providers; encourage VR film technology for immersive sports experiences and pilot appropriate sports activities in qualified cinemas; and support coordinated development of film and sports public‑welfare projects."
     }
   ]
 }
