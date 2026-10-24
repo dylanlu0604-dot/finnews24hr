@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-24 22:25:15",
-  "count": 13020,
+  "updated": "2026-10-24 22:29:22",
+  "count": 13019,
   "items": [
+    {
+      "id": "5166398",
+      "time": "2026-10-24 22:27:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破80000美元，日內跌1.54%。"
+    },
+    {
+      "id": "mkt:01a16e4d-2546-7ee0-a965-151d6f785da4",
+      "time": "2026-10-24 22:25:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. updates travel advisories as Houthi attack threat rises】On Oct. 24 local time the U.S. updated travel advisories for Gulf and other Middle East states, citing an increased threat of attacks by Iranian-backed Houthi forces. The advisory names Saudi Arabia, Qatar, the United Arab Emirates, Iraq, Lebanon and Israel."
+    },
     {
       "id": "5166377",
       "time": "2026-10-24 22:21:04",
@@ -117837,30 +117854,6 @@
         "其他"
       ],
       "text": "肯亞政府：衛生部確認新增四例埃博拉病例；確診病例總數升至七例。"
-    },
-    {
-      "id": "5151740",
-      "time": "2026-10-17 22:28:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【孟加拉國一度假村發生火災致10人死亡】據孟加拉國媒體17日報道，該國東南部科克斯巴扎爾地區一海濱度假村當天發生火災，造成10人死亡，多人受傷。（新華社）"
-    },
-    {
-      "id": "5151734",
-      "time": "2026-10-17 22:26:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣汽埃安Ray7啟動預售，全球首搭晶片級驅制融合架構】17日晚，廣汽埃安Ray7純電轎車開啟預售，預售價12.88萬元起。全球首搭晶片級驅制融合架構，首發華為DriveONE EMB全電線控制動，同級首搭華為iTrack動態扭矩分配系統。"
-    },
-    {
-      "id": "5151733",
-      "time": "2026-10-17 22:25:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國提醒在沙特的美國公民遵循沙特國家預警指南。"
     }
   ]
 }

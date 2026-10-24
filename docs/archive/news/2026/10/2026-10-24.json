@@ -1,7 +1,24 @@
 {
   "date": "2026-10-24",
-  "count": 811,
+  "count": 813,
   "items": [
+    {
+      "id": "5166398",
+      "time": "2026-10-24 22:27:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破80000美元，日內跌1.54%。"
+    },
+    {
+      "id": "mkt:01a16e4d-2546-7ee0-a965-151d6f785da4",
+      "time": "2026-10-24 22:25:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. updates travel advisories as Houthi attack threat rises】On Oct. 24 local time the U.S. updated travel advisories for Gulf and other Middle East states, citing an increased threat of attacks by Iranian-backed Houthi forces. The advisory names Saudi Arabia, Qatar, the United Arab Emirates, Iraq, Lebanon and Israel."
+    },
     {
       "id": "5166377",
       "time": "2026-10-24 22:21:04",
