@@ -1,7 +1,31 @@
 {
   "date": "2026-10-25",
-  "count": 142,
+  "count": 145,
   "items": [
+    {
+      "id": "mkt:01a16fa1-8400-7ee0-a967-2a2b7faedb18",
+      "time": "2026-10-25 04:36:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump: When I entered politics the Republican Party was much weaker and smaller, and then I ran and won."
+    },
+    {
+      "id": "5166643",
+      "time": "2026-10-25 04:35:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我剛開始時，共和黨要弱得多，規模更小、實力更弱的共和黨；然後我參選並贏了。"
+    },
+    {
+      "id": "5166642",
+      "time": "2026-10-25 04:34:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱與馬斯克談過烏克蘭局勢】特朗普表示，他已與SpaceX創始人馬斯克就烏克蘭局勢進行了交流。特朗普拒絕透露與馬斯克談話的具體內容。"
+    },
     {
       "id": "5166641",
       "time": "2026-10-25 04:33:11",

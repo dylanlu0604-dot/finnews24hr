@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-25 04:33:46",
-  "count": 13049,
+  "updated": "2026-10-25 04:37:33",
+  "count": 13051,
   "items": [
+    {
+      "id": "mkt:01a16fa1-8400-7ee0-a967-2a2b7faedb18",
+      "time": "2026-10-25 04:36:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump: When I entered politics the Republican Party was much weaker and smaller, and then I ran and won."
+    },
+    {
+      "id": "5166643",
+      "time": "2026-10-25 04:35:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我剛開始時，共和黨要弱得多，規模更小、實力更弱的共和黨；然後我參選並贏了。"
+    },
+    {
+      "id": "5166642",
+      "time": "2026-10-25 04:34:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱與馬斯克談過烏克蘭局勢】特朗普表示，他已與SpaceX創始人馬斯克就烏克蘭局勢進行了交流。特朗普拒絕透露與馬斯克談話的具體內容。"
+    },
     {
       "id": "5166641",
       "time": "2026-10-25 04:33:11",
@@ -118124,14 +118148,6 @@
         "MKT News"
       ],
       "text": "【Iran FM Araghchi meets Turkey's Fidan in Baghdad to discuss Strait of Hormuz, regional tensions】Iranian foreign minister Araghchi met Turkish counterpart Hakan Fidan on Saturday in Baghdad during an OIC meeting to discuss developments in the Persian Gulf, the Strait of Hormuz and wider regional tensions. They discussed bilateral ties and the situations in Gaza and Yemen, both emphasized the importance of diplomatic de-escalation; Araghchi briefed Fidan on recent Persian Gulf/Hormuz developments and related diplomatic moves and urged OIC members to act to stop what he called Israeli genocide and to jointly address Islamophobia."
-    },
-    {
-      "id": "5152047",
-      "time": "2026-10-18 04:34:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲外交官遭以色列定居者襲擊】10月17日，法國北部歐努瓦艾姆裡市市長貝爾納·博杜及多名歐洲外交官在約旦河西岸地區遭到以色列猶太人定居者襲擊。貝爾納·博杜說，他們當時正在巴勒斯坦村莊泰拜附近採摘橄欖，以聲援當地社群，隨後遭到了蒙面定居者的“猛烈攻擊”，他本人被摔倒在地。猶太人定居者包圍了外交官的車輛，不僅要求檢視外交官的身份證件，還砸碎了屬於比利時領事館一輛汽車的車窗。 比利時外交大臣稱，遇襲者中包括比利時的巴勒斯坦被佔領土總領事、法國和波蘭外交官等。 以色列外長薩爾譴責了這次襲擊，稱肇事者為暴徒。他還暗示，歐洲外交官們本應提前與以色列軍方協調此次訪問。 以色列總理辦公室發表宣告稱，針對外交官的暴力行為是“不可接受的”。但宣告同時稱現有影片畫面無法確定完整事實，得出結論還為時過早。（CCTV國際時訊）"
     }
   ]
 }
