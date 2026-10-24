@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-24 10:00:24",
-  "count": 13059,
+  "updated": "2026-10-24 10:04:12",
+  "count": 13060,
   "items": [
+    {
+      "id": "mkt:01a16ba5-ee33-7ee0-a961-02142b8c052d",
+      "time": "2026-10-24 10:03:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【N. KOREA holds 3rd Korean People's Army company commanders' conference】KCNA reported on the 24th that the Korean People's Army held its third company commanders' conference in Pyongyang on the 22nd–23rd, chaired by Workers' Party General Secretary and State Affairs Commission chairman Kim Jong Un. It was the first army-wide military meeting since the 9th Workers' Party Congress."
+    },
     {
       "id": "5165811",
       "time": "2026-10-24 09:52:55",
