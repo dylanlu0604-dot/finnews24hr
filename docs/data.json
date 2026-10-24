@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-25 03:52:01",
-  "count": 13034,
+  "updated": "2026-10-25 03:55:50",
+  "count": 13035,
   "items": [
+    {
+      "id": "5166616",
+      "time": "2026-10-25 03:53:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【大眾計劃在佐治亞新建奧迪工廠】一名美國官員透露，大眾集團將在佐治亞州為奧迪品牌新建一座工廠，同時擴建南卡羅來納州現有設施。這座位於梅肯的新工廠將生產奧迪Q7、Q8、Q9車型，年產能20萬輛。特朗普預計將於週六正式公佈這項投資，美方仍在和大眾協商，為擴大本土生產的車企提供關稅減免。"
+    },
+    {
+      "id": "5166615",
+      "time": "2026-10-25 03:52:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "大眾將在佐治亞州新建奧迪工廠，特朗普將在集會上宣佈這一訊息。"
+    },
     {
       "id": "mkt:01a16f75-b0ec-7ee0-a966-d6478611d8d7",
       "time": "2026-10-25 03:49:06",
@@ -118007,16 +118024,6 @@
         "國際"
       ],
       "text": "【特朗普肯塔基造勢，誇耀本屆權力更強，許下多項中期選舉競選承諾】當地時間週六，美國總統特朗普在肯塔基州舉辦造勢集會，為共和黨拉票，助力該黨在處境艱難的中期選舉中爭取更高投票率。他在白宮期間就宣揚自身權力，稱：“我能做成一些不可思議的事。”特朗普在海蘭海茨市發表講話，為包括競選聯邦眾議員的埃德·加爾雷恩在內的共和黨候選人助選。他談及自己下令，將墨西哥灣的官方稱謂改為美洲灣。“我在首個任期根本做不到這件事。這一屆我的權力大得多。”特朗普稱，“第一任期谷歌根本不會接我的電話。現在，他們對我俯首帖耳。”他接著說：“我還把加拿大的一處湖泊改名為美洲湖”，指的是安大略湖。在肯塔基州的演講中，特朗普話題不斷跳轉，談及油價。他表示，伊朗戰爭很快就會結束，在這場持續近八個月的衝突中，他已經多次做出這一斷言，油價也將回落至更低水平，臺下人群歡呼。特朗普再次提起“特朗普紅利”計劃：如果共和黨拿下參眾兩院，每名美國成年人將獲得5000美元。該計劃總成本大機率超1萬億美元，需要國會批准，還會進一步擴大美國每年近1.8萬億美元的財政赤字。在週六的集會上，特朗普針對肯塔基州新增一項有條件承諾。他稱，如果共和黨勝選，國防部將投入資金，重振該州一處製藥生產基地。"
-    },
-    {
-      "id": "mkt:01a14b6c-ec4e-7ee0-a8ce-1afaa921856e",
-      "time": "2026-10-18 03:53:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump says he'd have greater power in a second term, could do \"incredible things\"】AP: At a Kentucky rally Saturday, Trump told supporters a second presidential term would give him greater power and said he could do \"incredible things,\" citing actions such as renaming the Gulf of Mexico \"American Gulf\" and Lake Ontario \"American Lake\" and claiming tech firms treated him more deferentially than during his first term. AP noted the high-profile campaigning comes as Republicans face midterm pressure and amid voter complaints that tariffs and a war with Iran have pushed up prices and that some voters doubt he prioritizes the national interest over his own."
     }
   ]
 }
