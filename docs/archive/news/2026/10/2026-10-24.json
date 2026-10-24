@@ -1,7 +1,39 @@
 {
   "date": "2026-10-24",
-  "count": 820,
+  "count": 824,
   "items": [
+    {
+      "id": "5166437",
+      "time": "2026-10-24 23:01:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐阿聯酋大使館表示，可能實施人員配置調整。"
+    },
+    {
+      "id": "5166436",
+      "time": "2026-10-24 23:00:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：兩架美國空軍A-10飛機在執行日間例行飛行任務期間，巡邏中東上空。"
+    },
+    {
+      "id": "mkt:01a16e6a-c0b1-7ee0-a965-3012bbc46a7f",
+      "time": "2026-10-24 22:57:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's prime minister said Egypt plans to raise the wheat purchase price next season to 2,650 Egyptian pounds (EGP) per ardeb from 2,500 EGP per ardeb, about $47.96."
+    },
+    {
+      "id": "5166435",
+      "time": "2026-10-24 22:57:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總理表示，埃及計劃將下一季小麥收購價格從每阿德布2500埃及鎊提高至2650埃及鎊（47.96美元）。"
+    },
     {
       "id": "mkt:01a16e69-fd5e-7ee0-a965-289f0c0ab509",
       "time": "2026-10-24 22:56:42",

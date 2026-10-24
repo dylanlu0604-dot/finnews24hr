@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-24 22:57:55",
-  "count": 13016,
+  "updated": "2026-10-24 23:01:55",
+  "count": 13019,
   "items": [
+    {
+      "id": "5166437",
+      "time": "2026-10-24 23:01:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐阿聯酋大使館表示，可能實施人員配置調整。"
+    },
+    {
+      "id": "5166436",
+      "time": "2026-10-24 23:00:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：兩架美國空軍A-10飛機在執行日間例行飛行任務期間，巡邏中東上空。"
+    },
+    {
+      "id": "mkt:01a16e6a-c0b1-7ee0-a965-3012bbc46a7f",
+      "time": "2026-10-24 22:57:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's prime minister said Egypt plans to raise the wheat purchase price next season to 2,650 Egyptian pounds (EGP) per ardeb from 2,500 EGP per ardeb, about $47.96."
+    },
+    {
+      "id": "5166435",
+      "time": "2026-10-24 22:57:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總理表示，埃及計劃將下一季小麥收購價格從每阿德布2500埃及鎊提高至2650埃及鎊（47.96美元）。"
+    },
     {
       "id": "mkt:01a16e69-fd5e-7ee0-a965-289f0c0ab509",
       "time": "2026-10-24 22:56:42",
@@ -117825,19 +117857,6 @@
         "國際"
       ],
       "text": "【伊拉克總理呼籲伊斯蘭合作組織成員國促進地區和平】伊斯蘭合作組織外長理事會第52次會議17日在伊拉克首都巴格達開幕。伊拉克總理扎伊迪在開幕致辭中呼籲該組織成員國加強合作、尊重差異，以促進地區穩定與和平。據伊拉克總理新聞辦公室發表的宣告，扎伊迪在致辭中說，巴勒斯坦問題是地區衝突的核心，確保巴勒斯坦人民獲得公正並保障其各項權利，對於實現地區安全與穩定至關重要。伊拉克外交部17日發表的宣告說，伊拉克正式接任該理事會輪值主席國。本次會議為期兩天，主題為“對話與團結：促進和平與可持續發展的兩大支柱”。會議將探討一系列議題，重點包括巴勒斯坦問題、加沙地帶局勢以及更廣泛的地區和國際事務。（新華社）"
-    },
-    {
-      "id": "mkt:01a14a5f-4931-7ee0-a8cc-7aa109ea40b9",
-      "time": "2026-10-17 22:58:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Israeli Jewish settlers attack European diplomats' vehicles in West Bank】On the 17th Israeli authorities reported diplomats from France, Belgium and Poland taking part in an olive harvest in the West Bank were confronted by seven masked Israeli Jewish settlers who surrounded their vehicle, demanded identification and smashed the window of a car belonging to the Belgian consulate. Israeli police said they will investigate the incident."
     }
   ]
 }
