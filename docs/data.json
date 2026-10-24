@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-24 10:11:46",
-  "count": 13058,
+  "updated": "2026-10-24 10:15:35",
+  "count": 13056,
   "items": [
+    {
+      "id": "5165885",
+      "time": "2026-10-24 10:13:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理稱要在約旦河西岸開展“大規模軍事行動”】以色列總理內塔尼亞胡23日稱，以色列正準備在約旦河西岸地區開展“大規模軍事行動”。（新華社）"
+    },
     {
       "id": "5165859",
       "time": "2026-10-24 10:06:16",
@@ -118315,30 +118323,6 @@
         "國際"
       ],
       "text": "【印財長倒打一耙：中國拒絕我們牛肉】據彭博社10月16日報道，印度財政部長尼爾瑪拉·西塔拉曼（Nirmala Sitharaman）週五臆測，由於北京的非關稅壁壘持續限制印度產品進入中國市場，印度對華貿易失衡問題日益嚴重。 西塔拉曼在曼谷出席國際貨幣基金組織會議期間，接受美國智庫大西洋理事會採訪時表示：“我認為，在與中國的貿易中，我們處於逆差地位，而且逆差正呈指數級增長。” 她倒打一耙，“中國毫不猶豫地使用非關稅壁壘”，這是“印中貿易面臨的最大障礙”。 （觀察者網）"
-    },
-    {
-      "id": "5151242",
-      "time": "2026-10-17 10:15:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京“十五五”交通規劃釋出：2030年軌道超1050公里、45分鐘通勤比例達60%】近日，北京市政府釋出的《北京市“十五五”時期現代綜合交通運輸體系發展規劃》（以下簡稱《規劃》）明確，“十五五”時期，北京將聚焦一體化融合、安全化提升、數智化升級、綠色化轉型四大路徑，對外構建通達可及的綜合立體交通網路，對內完善以慢行交通為主體、軌道交通為骨幹、地面公交為保障、小客車交通為補充的城市綜合交通體系，全力建設“人享其行、物暢其流、安全通達”的首都生命線。 《規劃》設定了多項量化目標，到2030年，北京軌道交通運營里程達到1050公里以上，中心城區綠色出行比例達78%，45分鐘通勤出行比例達60%，50米內公交接駁的軌道站點比例超95%。"
-    },
-    {
-      "id": "mkt:01a147a4-2885-7ee0-a8c7-bc9e6ab2484b",
-      "time": "2026-10-17 10:15:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hefu China and Shanghai University of Traditional Chinese Medicine sign strategic cooperation】Hefu China said on Oct 16 it signed a strategic cooperation framework agreement with Shanghai University of Traditional Chinese Medicine at Hefu’s Shanghai headquarters. The partners will combine the university’s research, talent and clinical strengths with Hefu’s industry deployment and market-commercialization experience to pursue integrated collaboration on traditional Chinese medicine health‑tech innovation and commercialization of research outcomes."
-    },
-    {
-      "id": "5151241",
-      "time": "2026-10-17 10:14:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【合富中國與上海中醫藥大學達成戰略合作】合富中國訊息，10月16日，合富中國與上海中醫藥大學在合富上海總部正式簽署戰略合作框架協議。未來雙方將充分發揮上海中醫藥大學在科研、人才、臨床領域的核心優勢，以及合富中國在產業落地、市場轉化方面的成熟經驗，圍繞中醫藥大健康科技創新與成果轉化展開全維度協同。"
     }
   ]
 }
