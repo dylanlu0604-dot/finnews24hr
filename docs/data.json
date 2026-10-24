@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-24 22:41:26",
+  "updated": "2026-10-24 22:45:26",
   "count": 13018,
   "items": [
+    {
+      "id": "mkt:01a16e5e-2a42-7ee0-a965-22578e1f0e67",
+      "time": "2026-10-24 22:43:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Houthi forces said they struck a Saudi assembly area, the so-called \"Victory Camp\", and a naval base in Aden."
+    },
     {
       "id": "mkt:01a16e56-ec54-7ee0-a965-1f27be28126f",
       "time": "2026-10-24 22:35:52",
@@ -117842,14 +117854,6 @@
         "MKT News"
       ],
       "text": "Yemeni armed forces said they destroyed 190 Houthi armored and combat vehicles in the past 24 hours."
-    },
-    {
-      "id": "5151774",
-      "time": "2026-10-17 22:42:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理毛焦爾將於週一下午1點提交2027年預算。"
     }
   ]
 }
