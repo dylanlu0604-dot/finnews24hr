@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-24 14:20:54",
-  "count": 13009,
+  "updated": "2026-10-24 14:24:50",
+  "count": 13005,
   "items": [
+    {
+      "id": "5166050",
+      "time": "2026-10-24 14:20:20",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【國家電網公司召開2026年第四季度重點工作推進會】10月23日，國家電網公司2026年第四季度重點工作推進會在京召開。會議以習近平新時代中國特色社會主義思想為指導，全面貫徹黨中央、國務院決策部署，總結三季度工作、部署四季度任務，全力以赴做好年末各項工作，確保完成全年目標任務、實現“十五五”良好開局。公司董事長、黨組書記張智剛出席會議並講話。公司總經理、黨組副書記張文峰主持會議並通報綜合監管、成本監審有關情況，公司領導班子成員，公司外部董事出席會議。張智剛強調，衝刺四季度、打好收官戰，要抓實抓細四季度各項重點工作任務，確保全面完成全年工作任務。一要全力抓好安全生產和迎峰度冬工作，壓實安全生產責任，抓好迎峰度冬電力保供，提升供電服務水平；二要確保完成發展建設任務，完成各級規劃收口，足額完成投資任務，完成重點工程建設任務，強化規劃剛性執行；三要確保完成新能源消納和碳達峰年度目標，應並盡並，能發盡發，能交易盡交易，能用盡用，積極助力碳達峰；四要確保完成全年經營目標，強化計劃預算執行，狠抓開源節流，提升產業發展質效；五要深入推進改革創新，聚焦增強核心功能、提升核心競爭力，進一步全面深化改革、加強科技創新；六要持續強化黨建引領，深入學習貫徹習近平黨建思想，持之以恆推進全面從嚴治黨，深化新時代高質量黨建工程；七要超前謀劃明年工作，認真做好全年工作總結，認真抓好今明兩年工作銜接，認真開展調查研究。（國家電網）"
+    },
     {
       "id": "5166049",
       "time": "2026-10-24 14:16:19",
@@ -117820,54 +117829,6 @@
         "Energy"
       ],
       "text": "【IMF managing director warns of risks from nonbank financial firms, cyberattacks and fraud】IMF Managing Director Kristalina Georgieva urged regulators to be vigilant about risks from nonbank financial institutions, cyberattacks and fraud. She said central banks should stay highly focused on maintaining price stability. Delegates at this week’s IMF–World Bank annual meetings in Bangkok flagged signs of fragility as energy and fiscal buffers are depleted and economic resilience begins to show strain."
-    },
-    {
-      "id": "mkt:01a14888-773a-7ee0-a8c9-810dd7481bd7",
-      "time": "2026-10-17 14:24:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The regional governor said a Russian airstrike on Kherson, Ukraine killed one and injured 19."
-    },
-    {
-      "id": "mkt:01a14888-5e88-7ee0-a8c9-788a98bea091",
-      "time": "2026-10-17 14:24:18",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Governing Council member Nagel said the work to combat inf is not finished and he feels more needs to be done."
-    },
-    {
-      "id": "5151417",
-      "time": "2026-10-17 14:23:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "州長稱，俄羅斯空襲烏克蘭赫爾松造成1人死亡，19人受傷。"
-    },
-    {
-      "id": "5151416",
-      "time": "2026-10-17 14:23:18",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "英國海上貿易行動辦公室：收到沙特附近海域事件的遲報，油輪在沙烏地阿拉伯朱拜勒附近遭炮彈擊中。"
-    },
-    {
-      "id": "5151415",
-      "time": "2026-10-17 14:22:40",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "英國海上貿易行動辦公室：收到沙特附近海域事件的遲報。"
     }
   ]
 }
