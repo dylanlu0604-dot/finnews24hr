@@ -1,7 +1,31 @@
 {
   "date": "2026-10-25",
-  "count": 39,
+  "count": 42,
   "items": [
+    {
+      "id": "mkt:01a16f04-84e5-7ee0-a966-0ea8f5e18b00",
+      "time": "2026-10-25 01:45:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian official: \"Hard to judge\" if local ceasefire will affect Ukraine talks】Valery Gerasimov, chief of the Russian General Staff, said on Oct. 23 Russian forces will observe a ceasefire in the Kherson direction and enter a \"silent\" state from 04:00 Moscow time on Oct. 27 to support humanitarian operations in Oleshky district, Kherson region. On Oct. 24, Russian Foreign Ministry ambassador-at-large Miroshnik said it is \"hard to judge\" whether the Oleshky truce will affect negotiations on the Ukraine issue, adding political and military-level talks can proceed separately."
+    },
+    {
+      "id": "5166545",
+      "time": "2026-10-25 01:43:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，攔截兩枚彈道導彈後，部分殘骸墜落在聖城瓦迪馬格馬斯地區。"
+    },
+    {
+      "id": "5166544",
+      "time": "2026-10-25 01:43:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，胡塞武裝發射的導彈被攔截後，碎片落在吉達、塔伊夫和拉比格地區。"
+    },
     {
       "id": "5166535",
       "time": "2026-10-25 01:29:12",
