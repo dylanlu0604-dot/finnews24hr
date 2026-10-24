@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-24 19:05:06",
-  "count": 13044,
+  "updated": "2026-10-24 19:09:03",
+  "count": 13042,
   "items": [
+    {
+      "id": "5166199",
+      "time": "2026-10-24 19:06:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋哈伊馬角（ 拉斯海瑪 ）公共服務部門表示，該酋長國所有海灘將關閉，直至另行通知。"
+    },
     {
       "id": "5166198",
       "time": "2026-10-24 19:02:53",
@@ -118035,34 +118043,6 @@
         "MKT News"
       ],
       "text": "Zelenskiy said Ukraine's drone interceptors cannot operate because Starlink's speed is limited."
-    },
-    {
-      "id": "5151520",
-      "time": "2026-10-17 19:08:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，由於星鏈網速受限，烏克蘭的無人機攔截系統無法正常運作。"
-    },
-    {
-      "id": "mkt:01a1498b-9d94-7ee0-a8cb-0bd7b587a99e",
-      "time": "2026-10-17 19:07:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Hikvision: Growth over coming years to be driven by scene digitalization】At an Oct. 17 Q3 2026 results briefing, Hikvision said growth over the next several years will be driven by scene digitalization and that it will continue to act as a bridge taking AI from the physical world to the digital world. The company said the era of large AI models has raised AI generalization and cognition; multimodal understanding and complex reasoning are becoming viable, enabling new solutions for previously hard-to-solve scene pain points."
-    },
-    {
-      "id": "5151518",
-      "time": "2026-10-17 19:06:17",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "ICICI銀行執行董事巴特拉：預計本輪週期內印度央行還將再加息兩次。"
     }
   ]
 }
