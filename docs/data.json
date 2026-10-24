@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-25 02:05:26",
-  "count": 13052,
+  "updated": "2026-10-25 02:09:15",
+  "count": 13048,
   "items": [
+    {
+      "id": "mkt:01a16f18-17cb-7ee0-a966-30e4e5286d54",
+      "time": "2026-10-25 02:06:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu urged voters to back him, saying a vote for him is necessary to ensure Israel's survival and prevent its destruction."
+    },
     {
       "id": "5166567",
       "time": "2026-10-25 02:01:24",
@@ -118119,46 +118127,6 @@
         "國際"
       ],
       "text": "【伊朗武裝部隊開火攔截霍爾木茲海峽“違規”通行船隻】當地時間17日18時15分，伊朗武裝部隊從錫裡克地區附近向霍爾木茲海峽試圖“違規”通行的船隻開火，並將其攔截。（央視新聞）"
-    },
-    {
-      "id": "5151961",
-      "time": "2026-10-18 02:09:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人巴加埃：因技術問題和預防性措施，伊朗與巴基斯坦之間的邊境口岸已暫時關閉；兩國有關部門正保持密切溝通，以解決這些未具體說明的問題，儘快恢復正常的邊境通行和貿易。"
-    },
-    {
-      "id": "5151958",
-      "time": "2026-10-18 02:08:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【彈藥堆爆炸致伊拉克民兵武裝5人受傷】伊拉克什葉派民兵武裝“人民動員組織”17日晚釋出宣告說，該組織位於首都巴格達一處基地內的廢棄彈藥堆發生爆炸，造成5人受傷。宣告說，爆炸引發的火災已被控制，專業調查委員會已開始對事故原因及具體情況展開調查。（新華社）"
-    },
-    {
-      "id": "mkt:01a14b0c-e676-7ee0-a8cd-33f585507526",
-      "time": "2026-10-18 02:08:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ammunition-dump explosion injures five at Baghdad Popular Mobilization Forces base】Shiite militia Popular Mobilization Forces said on the evening of the 17th an explosion at an abandoned ammunition dump inside one of its Baghdad bases injured five. The fire was brought under control and a specialized investigative committee has opened a probe into the cause and circumstances."
-    },
-    {
-      "id": "mkt:01a14b0c-80b5-7ee0-a8cd-2f38199c20b8",
-      "time": "2026-10-18 02:07:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【MERZ confronted by CDU youth delegate demanding resignation over pensions and government debt】At the CDU youth wing annual delegate conference in Bonn on Saturday, a delegate publicly demanded Chancellor MERZ resign, accusing him of failing younger generations on pensions policy and government debt and saying public trust in him is gone; the delegate urged MERZ to petition the Office of the Federal President to be relieved of his duties. MERZ did not respond to the demand."
-    },
-    {
-      "id": "5151957",
-      "time": "2026-10-18 02:07:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國方面提出允許俄羅斯向歐洲出售更多天然氣的設想，該設想將成為與烏克蘭和平協議的一部分；美國特使在9月與歐洲官員的會談中曾推介這一想法。"
     }
   ]
 }

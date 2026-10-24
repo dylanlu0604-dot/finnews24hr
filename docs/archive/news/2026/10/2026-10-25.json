@@ -1,7 +1,15 @@
 {
   "date": "2026-10-25",
-  "count": 53,
+  "count": 54,
   "items": [
+    {
+      "id": "mkt:01a16f18-17cb-7ee0-a966-30e4e5286d54",
+      "time": "2026-10-25 02:06:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu urged voters to back him, saying a vote for him is necessary to ensure Israel's survival and prevent its destruction."
+    },
     {
       "id": "5166567",
       "time": "2026-10-25 02:01:24",
