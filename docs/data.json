@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-25 03:36:39",
+  "updated": "2026-10-25 03:40:32",
   "count": 13033,
   "items": [
+    {
+      "id": "5166610",
+      "time": "2026-10-25 03:38:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士暗盤漲超1%，現報137.585美元。"
+    },
+    {
+      "id": "5166609",
+      "time": "2026-10-25 03:37:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩真主黨高階發言人：警告內塔尼亞胡，若自身安全和國家利益遭到打擊，可在一小時內讓被佔領土失去宜居條件。"
+    },
     {
       "id": "mkt:01a16f67-9e3a-7ee0-a966-be188d28492a",
       "time": "2026-10-25 03:33:43",
@@ -117984,23 +118001,6 @@
         "國際"
       ],
       "text": "【美國紐約曼哈頓一地鐵站發生槍擊事件 致1人死亡】當地時間10月17日，美國紐約市曼哈頓中城一處地鐵站當天發生槍擊事件，造成1人死亡，部分地鐵列車運營受到影響。（央視新聞）"
-    },
-    {
-      "id": "5152025",
-      "time": "2026-10-18 03:37:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約原油暗盤突破99美元，日內漲超0%。"
-    },
-    {
-      "id": "mkt:01a14b5d-f534-7ee0-a8ce-0a387f5c8502",
-      "time": "2026-10-18 03:36:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Explosion at military base in Sudan's capital region】On Oct 17 local time the Sudan Armed Forces said a warehouse storing explosives at a military base in North Khartoum, north of the capital Khartoum, caught fire and detonated. The blaze has been fully contained, and the statement did not disclose any casualties."
     }
   ]
 }
