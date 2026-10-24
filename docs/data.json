@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-24 18:45:11",
-  "count": 13033,
+  "updated": "2026-10-24 18:49:03",
+  "count": 13034,
   "items": [
+    {
+      "id": "mkt:01a16d85-9369-7ee0-a963-95601cb35772",
+      "time": "2026-10-24 18:47:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "V.O",
+        "Impact bullish",
+        "MA.O",
+        "MAYBANK.KL"
+      ],
+      "text": "【Monetary Authority of Singapore, Bank Negara Malaysia and Bank of Thailand join BLOOM to advance cross-border digital-currency payments】The Monetary Authority of Singapore (MAS) said on the 23rd that Bank Negara Malaysia and the Bank of Thailand have formally joined the BLOOM cross-border digital currency cooperation initiative. The three central banks will work with industry to make cross-border transfers faster and more convenient. Cooperation will focus on: studying cross-border acceptance and settlement of digital currencies; promoting interoperability between national payment systems; and strengthening identity verification, transaction screening and risk management to secure cross-border transactions. Participant list has expanded to include Mastercard, Visa, Ripple, MAYBANK, Airwallex, Monee, Nium, ShopeePay and the World Bank Group (WBG)."
+    },
+    {
+      "id": "5166189",
+      "time": "2026-10-24 18:45:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【趙辰昕任河北省委副書記、省政府黨組書記】近日，中共中央批准：趙辰昕同志任河北省委副書記。河北省委決定：趙辰昕同志任河北省政府黨組書記。（河北日報）"
+    },
     {
       "id": "mkt:01a16d82-f9bd-7ee0-a963-8f15187b9578",
       "time": "2026-10-24 18:44:22",
@@ -117961,14 +117983,6 @@
         "CSI300"
       ],
       "text": "【Top five global humanoid-robot revenues all Chinese; Shenzhen robot exports up 12.2x Jan–Aug】Frost & Sullivan’s 2026 Global Humanoid Robot Market report: 1H sales hit 36,000 units, exceeding full-year 2025 sales of 35,000 units; 1H revenue was $540 mln. By revenue, the global top five humanoid-robot vendors in 1H were all Chinese, with two firms based in Shenzhen. Shenzhen customs: Jan–Aug exports of robots totaled yuan 11.13 bln, up 12.2x YoY, shipped to more than 120 countries and regions."
-    },
-    {
-      "id": "5151508",
-      "time": "2026-10-17 18:46:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【全球人形機器人收入前五全是中國企業 前8個月深圳機器人出口激增超1200%】近日，國際諮詢機構弗若斯特沙利文釋出《2026年全球人形機器人市場研究報告》。今年上半年，全球人形機器人銷量達到3.6萬臺，超過2025年全年的3.5萬臺；市場收入達到5.4億美元。按照收入計算，今年上半年全球人形機器人市場前五名全部由中國企業包攬，其中深圳企業佔據兩席。16日下午，一個美國高階代表團抵達深圳南山“機器人谷”展開考察。在深圳南山“機器人谷”，從核心零部件到整機制造，從軟體演算法到系統整合，一條完整的產業鏈在此高度集聚。深圳拓幾科技創始人劉拓表示，在矽谷打樣要兩個月，因為要去全球採購零部件；但如果來深圳，可能90%的零部件就能在“機器人谷”找到。深圳機器人谷聚集超過200家機器人產業鏈企業，形成了從演算法軟體、感知系統、執行系統到核心部件的供應鏈條。深圳海關資料顯示，今年前8個月，深圳各類單獨列名的機器人合計出口達111.3億元，同比增長12.2倍，產品已銷至全球120多個國家和地區。（央視財經）"
     }
   ]
 }
