@@ -1,7 +1,27 @@
 {
   "date": "2026-10-25",
-  "count": 102,
+  "count": 104,
   "items": [
+    {
+      "id": "mkt:01a16f72-309f-7ee0-a966-cdf9dee5877e",
+      "time": "2026-10-25 03:45:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Former U.S. president Obama said seven months into the war with Iran, hundreds of Americans have been killed or wounded and U.S. missile stockpiles are nearing exhaustion."
+    },
+    {
+      "id": "mkt:01a16f71-f90d-7ee0-a966-c05a0df20ad3",
+      "time": "2026-10-25 03:45:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former U.S. President Obama said Trump has turned the White House into a superficial, ostentatious showplace."
+    },
     {
       "id": "5166613",
       "time": "2026-10-25 03:42:38",
