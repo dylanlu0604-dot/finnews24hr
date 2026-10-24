@@ -1,7 +1,35 @@
 {
   "date": "2026-10-25",
-  "count": 48,
+  "count": 51,
   "items": [
+    {
+      "id": "5166564",
+      "time": "2026-10-25 01:59:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝宣告：葉門武裝部隊強調，敵方沙特散佈有關我方打擊麥加、麥地那聖地的說法純屬明目張膽的謊言。這類虛假說辭已經無法矇蔽任何人，我方行動目標是沙特的石油設施與軍事基地，相關行動都會及時對外公佈。"
+    },
+    {
+      "id": "5166563",
+      "time": "2026-10-25 01:58:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國內政部：今日示威活動結束時，馬賽、里昂、巴黎等城市發生多起騷亂。"
+    },
+    {
+      "id": "mkt:01a16f10-5e46-7ee0-a966-2e5b82ca0e88",
+      "time": "2026-10-25 01:58:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Houthi forces rejected Saudi claims they attacked Mecca and Medina as false, saying the accusations are serious slander. They said their military actions are aimed at Saudi oil facilities and military bases and that they will disclose details of operations promptly."
+    },
     {
       "id": "mkt:01a16f0e-d447-7ee0-a966-21a8cd34e32b",
       "time": "2026-10-25 01:56:45",
