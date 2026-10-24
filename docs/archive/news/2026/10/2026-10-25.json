@@ -1,7 +1,39 @@
 {
   "date": "2026-10-25",
-  "count": 33,
+  "count": 37,
   "items": [
+    {
+      "id": "mkt:01a16ee5-da07-7ee0-a965-ff4454349dc1",
+      "time": "2026-10-25 01:11:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Air India said it and Air India Express will suspend round‑trip flights between Riyadh and Dammam until Nov. 7, 2026."
+    },
+    {
+      "id": "5166529",
+      "time": "2026-10-25 01:09:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "印度航空：往返吉達的航班服務將暫停至2026年10月31日。"
+    },
+    {
+      "id": "5166528",
+      "time": "2026-10-25 01:09:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航空：印度航空及印度航空快運往返利雅得和達曼的航班將暫停運營至2026年11月7日。"
+    },
+    {
+      "id": "5166527",
+      "time": "2026-10-25 01:08:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國FBI正就沙特籍OpenAI嫌疑人開展間諜方向調查。此前，OpenAI和美國司法部發表宣告稱，該員工因被控在辦公室偷裝錄音裝置而遭逮捕。"
+    },
     {
       "id": "mkt:01a16ee1-3ee2-7ee0-a965-f6dd8ef63cb2",
       "time": "2026-10-25 01:06:57",
