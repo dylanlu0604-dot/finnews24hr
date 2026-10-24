@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-25 03:48:09",
+  "updated": "2026-10-25 03:52:01",
   "count": 13034,
   "items": [
+    {
+      "id": "mkt:01a16f75-b0ec-7ee0-a966-d6478611d8d7",
+      "time": "2026-10-25 03:49:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reported that Iraq's closure of border crossings with Iran is tantamount to imposing sanctions on itself."
+    },
     {
       "id": "mkt:01a16f72-309f-7ee0-a966-cdf9dee5877e",
       "time": "2026-10-25 03:45:16",
@@ -118006,14 +118017,6 @@
         "The Trump Trade"
       ],
       "text": "【Trump says he'd have greater power in a second term, could do \"incredible things\"】AP: At a Kentucky rally Saturday, Trump told supporters a second presidential term would give him greater power and said he could do \"incredible things,\" citing actions such as renaming the Gulf of Mexico \"American Gulf\" and Lake Ontario \"American Lake\" and claiming tech firms treated him more deferentially than during his first term. AP noted the high-profile campaigning comes as Republicans face midterm pressure and amid voter complaints that tariffs and a war with Iran have pushed up prices and that some voters doubt he prioritizes the national interest over his own."
-    },
-    {
-      "id": "5152032",
-      "time": "2026-10-18 03:50:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯將利雅得遠端教學安排延長至下週四。"
     }
   ]
 }

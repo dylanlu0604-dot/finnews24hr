@@ -1,7 +1,18 @@
 {
   "date": "2026-10-25",
-  "count": 104,
+  "count": 105,
   "items": [
+    {
+      "id": "mkt:01a16f75-b0ec-7ee0-a966-d6478611d8d7",
+      "time": "2026-10-25 03:49:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reported that Iraq's closure of border crossings with Iran is tantamount to imposing sanctions on itself."
+    },
     {
       "id": "mkt:01a16f72-309f-7ee0-a966-cdf9dee5877e",
       "time": "2026-10-25 03:45:16",
