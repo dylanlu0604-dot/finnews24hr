@@ -1,7 +1,34 @@
 {
   "date": "2026-10-24",
-  "count": 802,
+  "count": 805,
   "items": [
+    {
+      "id": "mkt:01a16e3f-2548-7ee0-a964-f10944151487",
+      "time": "2026-10-24 22:09:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Yemen official says Aden hit by missile strike】A Yemeni security official told reporters on the 24th that the southern port city of Aden was hit by a missile attack and loud explosions were heard."
+    },
+    {
+      "id": "5166364",
+      "time": "2026-10-24 22:09:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門官員稱亞丁遭導彈襲擊】一名葉門安全官員24日告訴新華社記者，南部港口城市亞丁當天遭導彈襲擊，傳出劇烈爆炸聲。（新華社）"
+    },
+    {
+      "id": "5166362",
+      "time": "2026-10-24 22:08:25",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華福證券陳興：A股估值已充分消化謹慎預期，權益資產配置價值逐步凸顯】華福證券宏觀首席分析師陳興表示，當前A股核心資產估值已較充分反映市場謹慎預期，權益市場配置價值逐步凸顯，後續只要盈利端邊際企穩、流動性預期溫和修復，權益資產便具備向上修復彈性。他建議投資者規避短期情緒干擾，避免恐慌式離場，聚焦業績與估值匹配度較好的優質標的，保持理性、耐心佈局。（中證金牛座）"
+    },
     {
       "id": "mkt:01a16e3d-48d0-7ee0-a964-ed0e5f2d1c8f",
       "time": "2026-10-24 22:07:52",

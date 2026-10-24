@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-24 22:08:48",
-  "count": 13018,
+  "updated": "2026-10-24 22:12:57",
+  "count": 13019,
   "items": [
+    {
+      "id": "mkt:01a16e3f-2548-7ee0-a964-f10944151487",
+      "time": "2026-10-24 22:09:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Yemen official says Aden hit by missile strike】A Yemeni security official told reporters on the 24th that the southern port city of Aden was hit by a missile attack and loud explosions were heard."
+    },
+    {
+      "id": "5166364",
+      "time": "2026-10-24 22:09:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門官員稱亞丁遭導彈襲擊】一名葉門安全官員24日告訴新華社記者，南部港口城市亞丁當天遭導彈襲擊，傳出劇烈爆炸聲。（新華社）"
+    },
+    {
+      "id": "5166362",
+      "time": "2026-10-24 22:08:25",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華福證券陳興：A股估值已充分消化謹慎預期，權益資產配置價值逐步凸顯】華福證券宏觀首席分析師陳興表示，當前A股核心資產估值已較充分反映市場謹慎預期，權益市場配置價值逐步凸顯，後續只要盈利端邊際企穩、流動性預期溫和修復，權益資產便具備向上修復彈性。他建議投資者規避短期情緒干擾，避免恐慌式離場，聚焦業績與估值匹配度較好的優質標的，保持理性、耐心佈局。（中證金牛座）"
+    },
     {
       "id": "mkt:01a16e3d-48d0-7ee0-a964-ed0e5f2d1c8f",
       "time": "2026-10-24 22:07:52",
@@ -117824,22 +117851,6 @@
         "MKT News"
       ],
       "text": "【German media: applications to refuse military service nearly triple in 2026】German media, citing data from the Federal Office for Family and Civil Society Affairs, reported 14,977 applications to refuse military service received since January 2026, versus 3,879 such applications in all of 2025, a year-on-year rise described as nearly threefold."
-    },
-    {
-      "id": "5151691",
-      "time": "2026-10-17 22:12:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【臺方統計：臺灣民眾赴大陸人次前8月同比增長近兩成】臺灣觀光部門最新統計資料顯示，今年1至8月，臺灣民眾赴大陸累計249.2萬人次，同比增長19.63%，兩岸人員往來保持相當規模並呈現增長態勢。統計資料顯示，今年1至8月，大陸穩居臺灣民眾出境旅遊第二大目的地。從月度資料看，3至8月單月赴大陸人次均超過30萬，各月同比均實現兩位數增長。其中，3月赴大陸人次同比增長32.34%。值得注意的是，同期臺灣民眾整體出境人次同比增長15.24%，赴大陸人次增幅高於整體出境增幅，顯示出強勁的市場需求。（新華社）"
-    },
-    {
-      "id": "5151689",
-      "time": "2026-10-17 22:09:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Huggingface發榜，中國模型StartLux穩居決策模型SOTA】全球知名AI開源社群Hugging Face上的Decision Index 0.3.2榜單近日更新，中國AI創業公司StartLux（原點星輝）推出的StartLux-Decision-v1.1-27B Instant以69.1分登頂全球第一，在173項公開復現模型中排名榜首，領先第二名近3分，也是榜單中唯一突破69分的模型。繼9月底釋出首代模型後，StartLux僅用十餘天再次重新整理行業最佳成績，穩居全球決策模型SOTA。"
     }
   ]
 }
