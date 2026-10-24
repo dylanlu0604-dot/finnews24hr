@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-25 04:07:13",
-  "count": 13036,
+  "updated": "2026-10-25 04:11:04",
+  "count": 13034,
   "items": [
+    {
+      "id": "5166625",
+      "time": "2026-10-25 04:09:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普完成投票。"
+    },
+    {
+      "id": "mkt:01a16f88-1979-7ee0-a966-ebdd7762fedc",
+      "time": "2026-10-25 04:09:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said President Trump is visionary and turns ideas others call impossible into reality."
+    },
+    {
+      "id": "5166624",
+      "time": "2026-10-25 04:09:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談特朗普：他富有遠見。他能想象出人們認為不可能的事。他會思考那些人們說“我們做不到，因為以前從未有人做過”的事情，然後將其實現。"
+    },
     {
       "id": "5166623",
       "time": "2026-10-25 04:06:16",
@@ -117975,56 +117999,6 @@
         "XAUUSD"
       ],
       "text": "【Japan to tighten customs enforcement to curb gold smuggling and tax-refund abuse】Nikkei reports Japan’s Ministry of Finance plans to strengthen customs powers to curb gold smuggling and exports of potentially tax-evasive gold. Japan’s trade data show declared gold imports of 10 tonnes and exports of 228 tonnes in 2025, implying substantial processed re-exports of inbound metal. The ministry will study revisions to the Customs Act and related ordinances, targeting establishment of a new regulatory framework as early as fiscal 2027. It plans to submit a proposal to an expert panel next month and to compile required amendment text by year-end. Proposed measures would explicitly empower customs to require exporters to provide supplier names, addresses and supply-chain movement records; customs could refuse export permits if exporters fail to supply required information. The reforms are aimed at stemming exports of gold with unclear provenance and cracking down on organized smuggling."
-    },
-    {
-      "id": "mkt:01a14b7c-7c4b-7ee0-a8ce-461f32cfe059",
-      "time": "2026-10-18 04:10:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said the U.S. Navy destroyer Rafael Peralta is operating in regional waters to support maritime blockade operations targeting Iranian ports."
-    },
-    {
-      "id": "mkt:01a14b7c-010d-7ee0-a8ce-3bf2c4261ab8",
-      "time": "2026-10-18 04:09:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said as of Oct. 17 it had guided 138 merchant vessels to alter course to ensure strict enforcement of blockade measures."
-    },
-    {
-      "id": "5152042",
-      "time": "2026-10-18 04:09:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總統：軍方代表團將在10月20日於美國坦帕舉行的三方會議上提出停止以色列升級行動的要求。"
-    },
-    {
-      "id": "5152041",
-      "time": "2026-10-18 04:08:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普宣稱美國摧毀伊朗核能力，預測戰爭很快結束】美國總統特朗普稱，美國已經在軍事上擊敗伊朗並摧毀其核能力。他還表示，美軍或將在中東駐留更長時間，以阻止德黑蘭重建相關能力。特朗普週六在肯塔基州的競選活動上說：“我那次對伊朗採取小規模行動，我們狠狠打擊了他們。在那次行動中，我們摧毀了它的核能力。有人問，這麼做值得嗎？我說，他們不能擁有核武器。”特朗普稱，他已告知顧問，美國可能需要在該地區駐紮更久。“我們必須確保伊朗的核能力不會捲土重來，這就是我們正在做的事。”他還預測這場戰爭將“很快”結束。"
-    },
-    {
-      "id": "5152040",
-      "time": "2026-10-18 04:07:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "市場資訊：為打擊逃稅，日本擬攔截來源無法追溯的黃金。"
     }
   ]
 }

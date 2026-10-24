@@ -1,7 +1,31 @@
 {
   "date": "2026-10-25",
-  "count": 116,
+  "count": 119,
   "items": [
+    {
+      "id": "5166625",
+      "time": "2026-10-25 04:09:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普完成投票。"
+    },
+    {
+      "id": "mkt:01a16f88-1979-7ee0-a966-ebdd7762fedc",
+      "time": "2026-10-25 04:09:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said President Trump is visionary and turns ideas others call impossible into reality."
+    },
+    {
+      "id": "5166624",
+      "time": "2026-10-25 04:09:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談特朗普：他富有遠見。他能想象出人們認為不可能的事。他會思考那些人們說“我們做不到，因為以前從未有人做過”的事情，然後將其實現。"
+    },
     {
       "id": "5166623",
       "time": "2026-10-25 04:06:16",
