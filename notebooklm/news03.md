@@ -1,7 +1,361 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-10-25 02:24:44_
-_本檔包含 2710 則快訊，約 493041 字_
+_更新時間：2026-10-25 04:48:52_
+_本檔包含 2642 則快訊，約 492768 字_
+
+---
+
+### 2026-10-22 07:21:02  #其他
+
+【基金髮行市場冷暖分化 債熱股冷格局顯現】近期，在股市行情震盪的背景下，股票基金髮行再次遇冷。從截至10月21日的統計資料來看，不少新發基金剛好踩著2億元募資門檻成立。剛過去的三季度，新發基金的平均募集規模還創下了2005年以來新低。證券時報記者梳理發現，股票ETF的“踩線”成立數量佔比超過了70%。受訪人士認為，A股科技行情調整是股票基金髮行遇冷的直接原因，與之形成鮮明對比的是，債券基金受到資金追捧。此外，當前基金數量已接近1.5萬隻，投資標的覆蓋了大部分底層資產，產品同質化嚴重，缺乏創新的產品難以持續獲得資金青睞。
+
+---
+
+### 2026-10-22 07:20:56  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Market reports: Russian missile strikes hit Kyiv, Ukraine.
+
+---
+
+### 2026-10-22 07:20:48  #其他
+
+【首趟新疆至四川棉花圖定貨運班列開行】現在正值新疆棉花采收季，為保障棉花等大宗涉農物資外運，21日，首趟新疆至四川方向的棉花圖定貨運班列開行。10月21日，一列滿載1720噸棉花的貨運班列從奎屯市奎屯站駛出，開往四川眉山市青龍場站。該班列為圖定列車，即納入鐵路執行圖、常態化固定開行，這也是新疆首趟開往四川方向的棉花圖定貨運班列。
+
+---
+
+### 2026-10-22 07:20:24  #國際
+
+韓國議員力推電動汽車生產稅收抵免政策。
+
+---
+
+### 2026-10-22 07:20:10  #公司
+
+三星工程公司(SAMSUNG E&A CO LTD)將登出價值6900億韓元的回購股份。
+
+---
+
+### 2026-10-22 07:19:38  #公司 #市場 #觀點
+
+【券商密集把脈三季報成色 宇通客車領跑機構關注度】截至10月21日證券時報記者發稿時，已有超210家A股公司披露三季報，券商針對相關個股業績的最新點評也及時出爐。證券時報記者根據妙想Choice梳理，在券商研報的關注度榜單中，宇通客車居首，衛星化學、金盤科技緊隨其後。另外，東吳證券給予寧德時代431元目標價，較當前股價而言，預期上漲空間可觀。對於後市，多家機構認為A股修復型行情將逐步展開，“科技+紅利”啞鈴型配置成為共識。
+
+---
+
+### 2026-10-22 07:19:11  #公司 #國際
+
+【新墨西哥州重罰Meta 250億美元】新墨西哥州的一名法官週三裁定Meta支付250億美元罰金，指控Meta在使用者資料隱私、內容稽核（仇恨言論、虛假資訊）等方面作出誤導性陳述，源頭是2018年的“劍橋分析”醜聞，該事件涉及8700萬使用者資訊洩露。新墨西哥州總檢察長拉烏爾·託雷斯表示，這是美國歷史上針對該公司單一州份判決之最。
+
+---
+
+### 2026-10-22 07:18:53  #公司 #市場
+
+【Meta加碼押注AI】Meta提高資本支出預期並加大AI押注，股價盤後上漲。Meta Platforms Inc.上調資本支出預期，並宣佈計劃推出一類新的無投票權股票，進一步加碼已極為龐大的人工智慧押注。這家社交媒體巨頭週三釋出季度財報時表示，2026年資本支出預計為1350億至1450億美元，將區間下限從1300億美元上調。與此同時，新類別的股票將透過股票股息的形式發放給現有投資者。Meta表示，持有人每持有一股將獲得一股新股，實質上等同於一次“一拆二”的拆股。公司預計新股將於1月開始交易。這一安排也將成為推動Meta進一步擴張的工具，Meta表示將用於籌集資本、員工薪酬以及潛在收購。Meta股價週三盤後上漲逾3%。截至週三紐約市場收盤，該股今年以來上漲約6%。
+
+---
+
+### 2026-10-22 07:16:51  #公司
+
+【特斯拉第三季度 出大增但仍低於華爾街預期】特斯拉的資本支出在第三季度增長逾一倍，但該金額仍遠低於分析師預期。第三季度資本支出為47.3億美元，低於第二季度支出，也低於分析師預期的近80億美元。特斯拉正在加大對製造其Optimus機器人的投入，該機器人在第三季度開始投產。隨著來自亞馬遜和Waymo等競爭對手的競爭升溫，特斯拉還在試圖快速擴大其無人駕駛計程車業務規模。
+
+---
+
+### 2026-10-22 07:15:33  #市場
+
+【西太平洋銀行：通脹資料出爐後紐元的下跌大機率是暫時的】西太平洋銀行稱，在通脹資料低於預期後紐元出現回落，但這一跌勢大機率難以持續，年底消費物價或將再度加速上行。該行駐奧克蘭策略師伊姆雷・斯派澤（Imre Speizer）表示，雖然整體通脹小幅不及預期，但 “本次資料的意外程度不足以引發紐元大幅波動，僅會帶來輕微利空影響”。第三季度通脹放緩大機率只是短暫回落，到年底通脹將再度回升至 4% 以上，並且在明年大部分時間裡高於紐西蘭儲備銀行當前的預測值。紐元兌美元 “初期下跌過後，或將重啟上漲行情，向 0.57 至 0.575 區間靠攏”。
+
+---
+
+### 2026-10-22 07:14:32  #其他
+
+康卡斯特計劃在重組中大幅裁員。
+
+---
+
+### 2026-10-22 07:14:21  #國際
+
+目擊者稱，俄羅斯導彈襲擊了烏克蘭基輔。
+
+---
+
+### 2026-10-22 07:14:08  #公司 #市場 #國際
+
+【業內人士：短期內燒鹼供需寬鬆格局難發生實質性扭轉】10月21日，國內燒鹼期貨主力合約進一步下行，收盤跌逾2%，盤中跌破1700元/噸，創出該合約品種掛牌以來新低。行情資料顯示，國內燒鹼主連合約年內累計跌幅已超過30%。近期燒鹼價格“跌跌不休”，產業鏈公司影響不一，上游企業利潤承壓，下游企業利潤則有望邊際修復。燒鹼價格的下跌受行業供需矛盾影響。受訪業內人士認為，短期1—2個月內，燒鹼供需寬鬆格局難發生實質性扭轉。
+
+---
+
+### 2026-10-22 07:13:48  #MKT News #Important #Copper #Impact bullish
+
+【Teck confirms strike notice at Highland Valley Copper; United Steelworkers may strike from Oct. 24 Beijing time】Teck Resources said it has received a strike notice from United Steelworkers Local 7619 covering its Highland Valley Copper operation in British Columbia. The notice allows the union to commence a strike as early as 08:00 Pacific Time on Oct. 24 (23:00 Beijing time on Oct. 24). Teck said the collective agreement expired on Sept. 30, operations are continuing, and the company has contingency plans to maintain safe production and environmental management while it seeks a fair agreement that supports ongoing operation.
+
+---
+
+### 2026-10-22 07:13:36  #國際
+
+【伊朗媒體稱錫裡克傳出數次爆炸聲 】據伊朗法爾斯通訊社當地時間10月21日報道，伊朗南部霍爾木茲甘省沿海地區、緊鄰霍爾木茲海峽的錫裡克當晚傳出數次爆炸聲，目前這些聲音的性質和來源尚不清楚。
+
+---
+
+### 2026-10-22 07:13:27  #市場
+
+西太平洋銀行表示，受通脹資料低於預期影響，紐西蘭元匯率下跌可能是暫時的，因為消費者成本可能會在年底前再次加速上漲。
+
+---
+
+### 2026-10-22 07:12:49  #公司
+
+【北交所董事長魯頌賓：引入新股發行市值配售 推進北證50 ETF落地】北京證券交易所董事長魯頌賓10月21日在2026金融街論壇年會“共建服務中小企業資本市場新生態”平行論壇上表示，未來北交所將從打造高質量上市公司群體、鞏固投融資平衡發展格局、夯實新三板培土育苗功能、構建深層次對接合作機制四方面發力，推動主陣地建設再上新臺階。結合北交所發展階段和市場特點，不斷健全北交所市場產品體系，促進投融資兩端協調發展。完善發行承銷制度，推進引入新股發行市值配售，強化一二級市場聯動，提升二級市場投資者獲得感；促進新股發行合理定價，推動更多詢價發行案例落地。豐富市場指數基金產品，推進北證50 ETF落地工作，加大北交所基金產品供給，持續豐富市場指數，暢通中長期資金入市渠道。
+
+---
+
+### 2026-10-22 07:11:34  #國際
+
+【萬斯2028年接班的抱負面臨多重考驗 即將到來的中期選舉首當其衝】JD·萬斯目前看可能是共和黨內有望在2028年接替唐納德·特朗普的領跑者，但總統已經明確表示他還沒有準備好交出權力。昨天，在橢圓形辦公室裡，萬斯就站在他的身後，特朗普也不肯為他的副總統參加下次總統大選背書，只說他是個“非常有才的人”，但同時堅稱現在做決定為時過早。“我們得先熬過中期選舉。我們要看看怎麼樣，” 特朗普說。就目前來看，資料顯示萬斯領先。RealClearPolling平均民調顯示，他在共和黨潛在候選人中以約39%的支援率一馬當先。遠遠超過國務卿馬爾科·盧比奧。押注市場也看好這位副總統。但他的總體受歡迎程度則另當別論，甚至可能構成挑戰：RealClearPolling彙總的資料顯示約一半的美國人對他持負面看法。
+
+---
+
+### 2026-10-22 07:10:40  #其他
+
+委內瑞拉：10月份稅收收入超過政府目標。
+
+---
+
+### 2026-10-22 07:10:20  #MKT News
+
+Australia's S&P/ASX 200 opened down 32.00 points, or 0.36%, at 8,799.30 on Thursday, Oct. 22.
+
+---
+
+### 2026-10-22 07:09:29  #公司
+
+【特斯拉因投資不及預期下調支出目標】由於上季度投資進度落後於預期，特斯拉公司縮減了支出計劃，這給埃隆·馬斯克將這家電動車製造商轉型為人工智慧和機器人公司的努力蒙上了陰影。特斯拉週三在公佈財報後表示，今年的資本支出將在200億美元左右。這與今年早些時候公司將支出目標上調至逾250億美元的情況形成了反轉。特斯拉此前的支出步伐一直未能達到實現其目標所需的進度，尤其是在第三季度僅支出了47.3億美元之後，分析師平均預期為79.5億美元。
+
+---
+
+### 2026-10-22 07:08:10  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、新興領域良性迴圈加快形成
+2、李強同俄羅斯總理米舒斯京共同主持中俄總理第三十一次定期會晤
+3、中俄總理第三十一次定期會晤聯合公報
+4、陝西延川縣永坪鎮聚焦特色農業——產業興旺日子好（賡續長征精神 奮進復興征程·記者再走長征路）
+5、推進應急管理體系和能力現代化建設（權威釋出·開局起步“十五五”）
+6、《中國應對氣候變化的政策與行動二〇二六年度報告》釋出 應對氣候變化 中國持續行動（權威釋出）
+7、讓綠色能源深度增值（現場評論）——開局起步看活力⑭
+8、從廣交會看中國經濟韌性和活力。
+
+---
+
+### 2026-10-22 07:07:53  #MKT News
+
+【Qatar, Indonesia, Pakistan, Turkey sign multilateral defense MoU Badr】Qatar's defense ministry said on the 21st that Qatar, Indonesia, Pakistan and Turkey signed a multilateral memorandum of understanding named Badr in Doha, aimed at strengthening cooperation on defense manufacturing, military capacity building, technical training and R&D.
+
+---
+
+### 2026-10-22 07:07:49  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、中共中央辦公廳國務院辦公廳關於推動科技創新和產業創新深度融合的意見
+2、齊心協力走好新的長征路（社論）——紀念中國工農紅軍長征勝利九十週年
+3、李強會見俄羅斯總統普京
+4、丁薛祥會見2026年國際科學理事會中期會員大會暨北京科學對話部分外賓
+5、在新長征路上闊步前行——寫在長征勝利90週年之際。
+
+---
+
+### 2026-10-22 07:06:25  #國際
+
+【卡達等四國簽署國防合作諒解備忘錄】多哈訊息：卡達國防部21日發表宣告說，卡達、印度尼西亞、巴基斯坦和土耳其當天在多哈簽署名為“巴德爾”的多邊諒解備忘錄，旨在加強四國在國防制造、軍事能力建設、技術培訓及研發等領域的合作。 宣告說，該諒解備忘錄旨在擴大四國在國防制造領域的合作，提升防務能力，推動技術培訓和聯合研發，開發適應現代防務系統發展需要的技術和工業解決方案。 宣告還說，該諒解備忘錄將有助於各參與國發揮各自的國防制造優勢，加強產業協同，提升國防工業能力，更好滿足盟友及友好國家的國防需求。(新華社)
+
+---
+
+### 2026-10-22 07:06:15  #公司 #國際
+
+【阿斯利康：美國食品藥品監督管理局（FDA）批准了一款用於治療成人罕見腎病的藥物】阿斯利康表示，美國食品藥品監督管理局（FDA）已對其用於治療成人免疫球蛋白A腎病的藥物授予加速批准。該病是一種罕見的腎臟疾病，可能導致腎功能衰竭。阿斯利康表示，在該藥物Ultomiris的晚期臨床試驗中期分析中，與安慰劑相比，該藥物在34周後將蛋白尿（尿液中蛋白質含量過高）降低了43.4%。該製藥公司表示，FDA是根據其加速審批途徑批准了該藥物，且正在進行的試驗將持續至106周，以確定“Ultomiris”能否延緩腎功能衰退，從而為獲得傳統批准提供依據。該公司還表示，該藥物是首個且唯一獲批用於治療該疾病的C5抑制劑，其作用機制是針對與腎臟炎症相關的免疫系統通路。
+
+---
+
+### 2026-10-22 07:04:16  #其他
+
+【中國體操女團世錦賽奪冠 鎖定洛杉磯奧運會團體參賽席位】北京時間10月22日，2026年體操世錦賽在荷蘭鹿特丹結束了女子團體決賽的爭奪。由張清穎、柯沁沁、杜思雨、邱祺緣和張怡涵組成的中國隊以165.764分的成績奪得冠軍，鎖定2028年洛杉磯奧運會團體參賽席位。
+
+---
+
+### 2026-10-22 07:01:31  #市場 #焦點
+
+現貨黃金失守4130美元/盎司，日內跌0.27%。
+
+---
+
+### 2026-10-22 07:01:27  #其他
+
+【中國體操女團世錦賽奪冠 鎖定洛杉磯奧運會團體參賽席位】北京時間10月22日，2026年體操世錦賽在荷蘭鹿特丹結束了女子團體決賽的爭奪。由張清穎、柯沁沁、杜思雨、邱祺緣和張怡涵組成的中國隊以165.764分的成績奪得冠軍，鎖定2028年洛杉磯奧運會團體參賽席位。
+
+---
+
+### 2026-10-22 07:00:59  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【U.S. mission in Saudi Arabia warns hostile actions could rapidly escalate and spread】On the 21st the U.S. mission in Saudi Arabia issued a security alert saying Houthi forces have continued attacks on Saudi civilian airports and other critical infrastructure, causing civilian casualties and major travel disruption; the mission warned these hostile actions could rapidly escalate and spread. U.S. citizens were advised to follow nationwide mobile alerts issued by Saudi civil defense. U.S. government personnel in Saudi must obtain special authorization from the mission chief before using any Saudi airport. The mission highlighted risks of airport strikes, airspace closures, flight cancellations and travel disruption and urged extreme caution for anyone using Saudi airports.
+
+---
+
+### 2026-10-22 07:00:05  #MKT News
+
+【U.S. and Israel have post-midterms plan for strikes on Iran; energy, nuclear sites cited】The New York Times, citing U.S. officials and others, reports U.S. and Israeli militaries have drawn up specific plans to strike Iran after the U.S. midterm elections. Preparations include intensified exercises and warplanes flying over Iraqi airspace to rehearse strikes. U.S. Defense Secretary Hegseth met Prime Minister Netanyahu this week to discuss the plans. Potential targets cited include Iranian energy infrastructure, nuclear facilities, and missile and drone stockpiles. Some officials say a further large-scale strike could push Iran’s economy toward collapse and compel concessions in diplomatic talks after nearly eight months of conflict.
+
+---
+
+### 2026-10-22 06:58:23  #國際
+
+【美國駐沙特使團：針對沙特的敵對行動或迅速升級】美國駐沙烏地阿拉伯使團21日釋出安全提醒說，葉門胡塞武裝對沙特持續展開敵對行動，襲擊民用機場及其他關鍵基礎設施，造成平民傷亡、嚴重干擾出行，“這些敵對行動可能迅速升級並蔓延”。（新華社）
+
+---
+
+### 2026-10-22 06:55:42  #其他
+
+康卡斯特計劃進行大規模裁員，作為重組的一部分。
+
+---
+
+### 2026-10-22 06:48:22  #其他
+
+必和必拓：當前計劃預計將支撐銅產量到2035年實現3%至4%的複合年增長率。
+
+---
+
+### 2026-10-22 06:47:49  #其他
+
+【沙特達曼國際機場遭襲致一死8傷】沙烏地阿拉伯民航總局22日凌晨發表宣告說，位於該國東部城市達曼的法赫德國王國際機場21日晚遭到襲擊，造成一人死亡、8人受傷。宣告說，死者為外籍公民。傷者已被送往醫院接受治療。襲擊還造成一些財產損失。（新華社）
+
+---
+
+### 2026-10-22 06:47:29  #國際
+
+市場資訊：美國國防部長赫格塞斯本週與內塔尼亞胡會面，正在制定計劃，擬在選舉後對伊朗發動打擊。
+
+---
+
+### 2026-10-22 06:47:29  #MKT News
+
+AWS says the PHP2Shell vulnerability is currently being widely exploited in the wild.
+
+---
+
+### 2026-10-22 06:46:38  #MKT News
+
+AWS said the exploitation originated from an IP address associated with a commercial anonymizing network.
+
+---
+
+### 2026-10-22 06:46:00  #MKT News
+
+AWS says it remains unclear how attackers obtained exploit details prior to the vulnerability's public disclosure.
+
+---
+
+### 2026-10-22 06:45:56  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Extends Gains on Easing Inflation — The NZX 50 rose 38 points, or 0.3%, to 13,799 in Thursday morning trade, extending gains from the previous session after fresh data showed that inflation eased in Q3. Inflation slowed to 3.7% in Q3, though it remained above the RBNZ's 1–3% target range. However, the latest figure eased concerns over interest rate hikes after the RBNZ raised interest rates for the second straight time in July and September. The broader index tracked gains on Wall Street overnight, supported by strong earnings from SpaceX and Super Micro Computer, which raised optimism about AI demand. However, traders continued to monitor the Middle East conflict and progress in Russia-Ukraine peace efforts for their impact on oil prices and inflation risks. Financials, industrials, and real estate stocks mainly drove the index, with the top movers including Infratil (3.7%), Auckland International Airport (1.6%), Scales Corporation (1.6%), Skellerup Holdings (1.2%), EBOS Group (0.8%), and Freightways Group (0.8%).
+
+---
+
+### 2026-10-22 06:45:35  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7
+
+AWS reported its Amazon Threat Intelligence team detected exploitation of the PHP2Shell vulnerability in MadPot prior to the vulnerability’s public disclosure.
+
+---
+
+### 2026-10-22 06:45:10  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Increases by 2.81% — Top crypto gainers are XRP (2.81%), Bitcoin (1.83%) and Ether (1.57%).
+
+---
+
+### 2026-10-22 06:44:12  #其他
+
+AWS：PHP2SHELL 目前正在被廣泛利用於實際攻擊中。
+
+---
+
+### 2026-10-22 06:44:08  #其他
+
+AWS：此次漏洞利用嘗試源自一個與商業匿名化網路相關的IP地址。
+
+---
+
+### 2026-10-22 06:43:58  #其他
+
+AWS關於PHP2SHELL漏洞利用：相關活動由威脅行為者實施。
+
+---
+
+### 2026-10-22 06:43:54  #其他
+
+AWS關於PHP2SHELL漏洞利用：目前尚不清楚攻擊者如何在披露前獲取該漏洞利用資訊。
+
+---
+
+### 2026-10-22 06:43:46  #公司
+
+AWS：亞馬遜威脅情報在MadPot公開披露之前識別出PHP2SHELL漏洞利用。
+
+---
+
+### 2026-10-22 06:42:57  #MKT News
+
+【Bank of Korea likely to pause rate hikes today; experts say tightening cycle not over】A Yonhap survey of six economists found all expect the Bank of Korea to hold rates today after consecutive hikes in July and August. Respondents said the central bank will keep a tightening stance but is more likely to pause to reassess timing than to pursue a rare third straight hike. Strong semiconductor exports are supporting growth while supply- and demand-side pressures are pushing inflation up, leaving scope for the tightening cycle to continue in the near term. Korea’s Jan–Aug current-account surplus was $279.2 bln, roughly four times the $69.7 bln recorded in the same period last year.
+
+---
+
+### 2026-10-22 06:42:43  #市場 #焦點
+
+紐約期金失守4150美元/盎司，日內持平。
+
+---
+
+### 2026-10-22 06:42:13  #資料 #市場 #央行 #國際
+
+【週四重要財經資訊提醒（以下均為北京時間）】 
+① 時間待定 宇樹科技將舉辦2026世界物理AI大會；
+② 時間待定 韓國央行公佈利率決議，印尼、菲律賓、土耳其等央行也將舉行議息會議；
+③ 時間待定 歐洲央行進入下次貨幣政策會議之前的噤聲期；
+④ 歐股開盤之前 諾基亞釋出業績報告；
+⑤ 15:30 瑞士央行釋出9月24日利率決議的摘要；
+⑥ 17:30 歐洲央行管委Kocher在維也納講話；
+⑦ 20:30 美國10月17日當週首次申請失業救濟人數；
+⑧ 21:00 英國央行行長貝利講話；
+⑨ 22:00 美國9月諮商會領先指標，歐元區10月消費者信心指數初值；
+⑩ 22:15 歐洲央行管委Fabio Panetta講話；
+⑪ 23:00 美國10月堪薩斯聯儲製造業綜合指數。
+
+---
+
+### 2026-10-22 06:40:09  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Wheat Drops by 2.25% — Top commodity loser is Wheat (-2.25%). Gains are led by Coffee (1.72%), Cotton (1.29%) and Rice (0.96%).
+
+---
+
+### 2026-10-22 06:39:03  #MKT News #DXY #Impact bullish #WTI
+
+【New Zealand Q3 inflation drop larger than expected; fuel price retreat gives government short reprieve before election】New Zealand Q3 CPI rose 3.7% YoY, down from 4.1% in Q2 and below economists' 3.8% forecast; CPI was up 0.7% MoM versus a 0.8% estimate, Statistics New Zealand said. A retreat in fuel prices eased inflationary pressure and the NZD slipped after the print. The moderation provides the ruling National Party a brief reprieve ahead of the Nov. 7 election, but some economists warn the relief may be fleeting, expecting Q4 YoY CPI to exceed 4.5% as Middle East tensions and recent sharp fuel cost rises push energy prices higher.
+
+---
+
+### 2026-10-22 06:35:09  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Drops by 1.67% — Top commodity losers are Platinum (-1.67%), Silicon (-1.06%) and Copper (-0.65%). Gains are led by Aluminum Alloy (1.19%) and Gold (0.22%).
+
+---
+
+### 2026-10-22 06:30:09  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural gas Plunges by 6.45% — Top commodity losers are Natural gas (-6.45%), Heating Oil (-2.68%) and Propane (-2.27%). Gains are led by Methanol (3.43%), Germany Natural Gas THE (2.79%), Natural Gas UK (2.60%), Brent Oil (1.04%) and Crude Oil (0.18%).
+
+---
+
+### 2026-10-22 06:27:53  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
+
+【Meta signs eight-year residency pact with Zuckerberg amid California wealth-tax threat】Meta Platforms signed an agreement requiring CEO Mark Zuckerberg to reside for eight years in California or the company’s headquarters jurisdiction. Meta will issue Zuckerberg Class C shares; he may immediately sell 20% of those C shares, equal to 10% of his total economic interest, to provide liquidity to cover a potential tax bill if California’s proposed wealth tax (Proposition 40) passes. Meta said the issuance is intended in part to avoid forcing him to sell voting shares to pay the tax. Proposition 40 goes to California voters next month; Zuckerberg had previously said he would consider leaving the state if the wealth tax were enacted.
 
 ---
 
@@ -15604,764 +15958,5 @@ US API weekly crude inventory for the week to Oct 16 due in 10 minutes.
 ### 2026-10-21 04:10:24  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Stocks Mostly Higher as Long-Term Yields Fall — US stock indices closed mostly higher on Tuesday as traditional economic sectors rebounded. The S&P 500 gained 0.3%, and the Dow rose 530 points, while the Nasdaq edged 0.1% lower. Long-term Treasury yields declined alongside energy prices, reinforcing expectations that the Fed will refrain from delivering back-to-back rate hikes at its meeting next week. Traditional sectors recovered from Monday’s losses. Banks and asset managers rebounded, Berkshire Hathaway rose 1.4%, while Goldman Sachs gained 1.1%. Healthcare stocks also advanced sharply, with Eli Lilly (+3.5%), Merck (+3.2%), and Johnson & Johnson (+2.2%) posting solid gains. On the earnings front, 3M (+5.8%) beat profit estimates and raised its full-year outlook for the second consecutive quarter. General Motors tumbled 6.8% after narrowing its profit outlook amid declining sales. SpaceX fell 0.1% and Netflix lost 1.7% ahead of their earnings reports after the closing bell.
-
----
-
-### 2026-10-21 04:09:49  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Capital One Financial earnings above expectations at 6.69 USD — Capital One Financial (COF) released earnings per share at 6.69 USD, compared to market expectations of 5.49 USD.
-
----
-
-### 2026-10-21 04:08:06  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Intuitive Surgical earnings above expectations at 3.00 USD — Intuitive Surgical (ISRG) released earnings per share at 3.00 USD, compared to market expectations of 2.59 USD.
-
----
-
-### 2026-10-21 04:06:00  #其他
-
-SpaceX：截至9月30日，Starlink個人使用者訂閱量達到1360萬。
-
----
-
-### 2026-10-21 04:05:45  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-SpaceX earnings in line with market expectations at 0.35 USD — SpaceX (SPCX) released earnings per share at 0.35 USD.
-
----
-
-### 2026-10-21 04:03:43  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Netflix earnings above expectations at 0.87 USD — Netflix (NFLX) released earnings per share at 0.87 USD, compared to market expectations of 0.84 USD.
-
----
-
-### 2026-10-21 04:02:05  #公司 #其他 #焦點 #國際
-
-SpaceX三季度營收145.8億美元，分析師預期128.7億美元。
-三季度太空收入（Space Rev）為18億美元。
-三季度人工智慧（AI）收入75.6億美元，分析師預期63億美元。
-三季度運營利潤27.9億美元，分析師預期22.4億美元。
-三季度每股收益（EPS）為0.35美元，分析師預期0.15美元。
-三季度淨利潤44億美元，分析師預期18.8億美元。
-三季度調整後EBITDA為88.1億美元，分析師預期65.9億美元。
-三季度資本開支195.9億美元，分析師預期196億美元。
-三季度AI資本開支164.4億美元，分析師預期169億美元。
-三季度總體成本與開支117.8億美元，分析師預期112.3億美元。
-
----
-
-### 2026-10-21 04:01:36  #公司 #其他 #焦點 #國際
-
-奈飛三季度營收128.7億美元，預估128.7億美元。
-三季度每股收益0.87美元，預估0.82美元。
-三季度自由現金流28.8億美元，預估32.2億美元。
-預計四季度營收134.4億美元，分析師預期135.1億美元。
-預計第四季度經營利潤35.0億美元，預估37.2億美元。
-預計第四季度營業利益率26％，預估27.6％。
-預計第四季度每股收益0.67美元，預估0.73美元。
-預計全年營收511億美元，此前預計510億美元至514億美元。
-預計全年自由現金流大約120億美元，此前預計大約125億美元。
-仍然預測全年營業利益率31.5％，預估31.7％。
-
----
-
-### 2026-10-21 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體漲跌不一】道指漲1.02%，標普500指數漲0.29%，納指跌0.02%。艾可菲漲11.31%，孩之寶漲11.20%，Moderna漲6.69%，通用汽車跌6.83%，達維塔保健跌6.38%，純正部件跌5.17%。“七姐妹”方面：特斯拉漲1.54%，亞馬遜漲0.07%，英偉達跌0.29%，微軟跌0.31%，蘋果跌1.00%，谷歌跌1.11%，Meta Platforms跌1.59%。
-
----
-
-### 2026-10-21 04:00:42  #其他
-
-美聯航（UAL）三季度運營收入179億美元，分析師預期179.1億美元。
-
----
-
-### 2026-10-21 04:00:03  #市場 #焦點
-
-【納斯達克中國金龍指數收漲0.71%】禾賽科技漲8.24%，天演藥業漲8.30%，小鵬汽車漲7.55%，MAAS漲5.89%，理想汽車漲5.58%。
-
----
-
-### 2026-10-21 03:58:44  #國際
-
-伊朗努爾新聞網稱卡達代表團已抵達德黑蘭，暫無官方證實。
-
----
-
-### 2026-10-21 03:50:13  #市場
-
-【富蘭克林鄧普頓：法國債市動盪恐演變為歐債危機2.0版，且情況更嚴重】富蘭克林鄧普頓固定收益投資主管警告，法國債券如果持續遭拋售，可能升級為歐元區債務危機，一旦這種情況發生，嚴重程度可能超過近十幾年前發生的歐債危機。富蘭克林鄧普頓固定收益全球首席投資官Sonal Desai表示：“我認為沒有人真正為歐債危機2.0版做好了準備，如果這場危機真的爆發，情況可能會嚴重得多。”
-
----
-
-### 2026-10-21 03:49:50  #國際
-
-挪威首相：美國特使威特科夫將前往聖彼得堡，會見俄羅斯總統普京及其團隊。
-
----
-
-### 2026-10-21 03:46:52  #國際
-
-美國國防部長赫格塞斯在被問及烏克蘭衛星服務時表示，存在需要遵守的“服務條款”。
-
----
-
-### 2026-10-21 03:46:29  #國際
-
-美國國防部長赫格塞斯：我們未撤回對烏克蘭的衛星服務，希望烏克蘭人取得成功。
-
----
-
-### 2026-10-21 03:44:21  #公司 #焦點 #國際
-
-【Anthropic S-1 披露：營收爆發式增長、風險叢生、算力開支天量】據新披露檔案，Anthropic 正為一場超大規模 IPO 做準備，其營收增長迅猛，但面臨一長串風險，包括客戶群狹窄、急需的算力供應存不確定性。
-財務情況：IPO草案顯示，2026 上半年營收 163 億美元，去年同期僅 11 億美元；同期淨虧損 807 億美元，遠超 2025 年全年 420 億美元的虧損。其中 720 億是可轉換票據公允價值變動帶來的會計調整，並非現金虧損。算力基礎設施投入持續走高，上半年算力花費近 90 億美元，而 2025 年同期為 23 億美元。公司客戶集中，約兩成營收僅來自兩家客戶。
-算力承諾：未來 7–10 年已有鎖定的雲合約約 4500 億美元，疊加晶片租賃義務，已確定的基建支出超 6000 億美元，還在洽談新訂單，承諾總額最高或增至 7500 億。其中將將斥資1110億美元用於谷歌雲算力協議，斥資1100億美元用於AWS雲端計算協議，斥資310億美元用於微軟雲端計算協議。此外還將斥資至多860億美元租用英偉達晶片。公司嘗試自建資料中心，但合作方運營經驗不足。
-草案顯示Anthropic已將計劃中的 IPO 推遲至 11 月，有望使其估值達到 2 萬億美元。
-
----
-
-### 2026-10-21 03:40:37  #國際
-
-【伊朗總統：談判前提是美方解除施壓、威脅和制裁】當地時間20日，伊朗總統佩澤希齊揚在與巴基斯坦陸軍總參謀長穆尼爾會晤時表示，該地區所有問題，從緊張局勢和衝突升級到霍爾木茲海峽的混亂，都是由於美國的侵略造成的。美方不可能一邊加大制裁和施壓力度、封鎖伊朗，一邊又聲稱要進行對話與談判。伊朗過去和現在都願意對話，但美國必須先解除威脅和制裁，然後才能進行對話。如果他們真的尋求對話與協議，那麼他們現在的行為就與他們的說法完全矛盾，毫無邏輯可言。佩澤希齊揚強調，美國絕對無法透過戰爭實現他們的目標，只會造成破壞和損失，不僅對伊朗，而且對整個地區都是如此，這是伊朗絕不希望看到的。（央視新聞）
-
----
-
-### 2026-10-21 03:38:51  #國際
-
-美國國防部長赫格塞斯證實，他探望了在以色列的美軍部隊，但不會討論與以色列總理內塔尼亞胡的私人談話。
-
----
-
-### 2026-10-21 03:34:51  #其他
-
-【胡塞武裝稱過去24小時葉門遭沙特空襲93次】當地時間10月20日，葉門胡塞武裝發言人葉海亞稱，過去24小時內，沙特戰機對葉門焦夫省、塔伊茲省、薩達省、馬裡卜省、哈傑省、拉赫季省、阿姆蘭省和伊卜省的民用目標發動93次空襲及導彈襲擊。葉海亞稱，沙特戰機出動F-15和“颱風”戰鬥機，從海米斯穆謝特、塔伊夫、海爾季等空軍基地及舍魯拉機場起飛，襲擊造成平民傷亡。他還表示，自本輪衝突升級以來，沙特方面發動的空襲及導彈襲擊累計已達2793次。（央視新聞）
-
----
-
-### 2026-10-21 03:34:42  #市場
-
-【美元指數20日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.27%，在匯市尾市收於101.701。截至紐約匯市尾市，1歐元兌換1.1237美元，高於前一交易日的1.1212美元；1英鎊兌換1.3383美元，高於前一交易日的1.3305美元。1美元兌換158.20日元，低於前一交易日的158.52日元；1美元兌換0.8248瑞士法郎，低於前一交易日的0.8265瑞士法郎；1美元兌換1.4057加元，低於前一交易日的1.4106加元；1美元兌換9.8979瑞典克朗，低於前一交易日的9.9200瑞典克朗。
-
----
-
-### 2026-10-21 03:34:27  #國際
-
-美國聯邦航空管理局稱，已為波音 737 MAX 10 頒發適航認證。
-
----
-
-### 2026-10-21 03:34:07  #其他
-
-市場訊息：Anthropic已釋放訊號，未來幾年可能在獲取更多算力方面投入高達7500億美元。
-
----
-
-### 2026-10-21 03:32:45  #公司 #其他 #焦點 #國際
-
-市場訊息：Anthropic在2026年上半年實現收入163億美元，在2026年上半年在算力方面的支出接近90億美元。上半年淨虧損807億美元，主要受會計費用影響。
-
----
-
-### 2026-10-21 03:31:35  #公司 #其他 #焦點 #國際
-
-市場訊息：Anthropic將斥資逾6000億美元用於算力。
-
----
-
-### 2026-10-21 03:30:25  #公司 #國際
-
-波音 737 MAX 最大型號獲得美國批准。
-
----
-
-### 2026-10-21 03:28:44  #國際
-
-美國國防部長赫格塞斯：我們對烏克蘭的立場沒有任何改變。
-
----
-
-### 2026-10-21 03:23:09  #公司
-
-谷歌：Claude Opus 5.5和Claude Sonnet 5.5現已在Google Antigravity上線。
-
----
-
-### 2026-10-21 03:16:13  #MKT News
-
-U.S. President Trump has concluded his speech.
-
----
-
-### 2026-10-21 03:15:26  #MKT News
-
-Trump said speaking at campaign rallies for two hours straight—grandstanding and delivering impassioned remarks—is not easy.
-
----
-
-### 2026-10-21 03:14:05  #國際
-
-美國總統特朗普在白宮結束講話。
-
----
-
-### 2026-10-21 03:13:58  #MKT News
-
-U.S. President Trump said there has been talk of deporting Democratic Rep. Ilhan Omar, but that she could also face prison time.
-
----
-
-### 2026-10-21 03:13:27  #MKT News
-
-US President Trump said for some reason presidents always lose in midterm elections.
-
----
-
-### 2026-10-21 03:13:04  #國際
-
-美國總統特朗普：總統所在政黨往往會在中期選舉中失利。
-
----
-
-### 2026-10-21 03:11:32  #MKT News #Market Themes #The Trump Trade
-
-Trump said he and Vice President Vance have not discussed a 2028 presidential bid.
-
----
-
-### 2026-10-21 03:11:15  #MKT News
-
-US President Trump said Somalia is a terrible place and not really a country.
-
----
-
-### 2026-10-21 03:10:34  #MKT News
-
-U.S. President Trump said it is too early to say whether he would support Vice President Vance running in the 2028 presidential election.
-
----
-
-### 2026-10-21 03:10:32  #國際
-
-美國總統特朗普談2028年背書支援副總統萬斯的可能性，稱：一切都還言之太早。
-
----
-
-### 2026-10-21 03:10:14  #MKT News #Market Themes #The Trump Trade
-
-President Trump: This is still not good enough for me.
-
----
-
-### 2026-10-21 03:10:05  #國際
-
-美國總統特朗普談美國副總統萬斯2028年參選：我認為我們從未討論過此事。
-
----
-
-### 2026-10-21 03:09:56  #MKT News
-
-US President Trump said the US can withdraw from Iran immediately and has done an excellent job.
-
----
-
-### 2026-10-21 03:08:49  #國際
-
-美國總統特朗普：我們現在就可以撤出伊朗，而且我們已經做得非常出色了。
-
----
-
-### 2026-10-21 03:08:23  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
-
-US President Trump said the war with Iran will end soon.
-
----
-
-### 2026-10-21 03:08:21  #市場 #國際
-
-特朗普重申，伊朗戰爭結束後油價將會下跌。
-
----
-
-### 2026-10-21 03:06:38  #國際
-
-美國總統特朗普：無法說明美國國防部長赫格塞斯在以色列與內塔尼亞胡的談話內容。
-
----
-
-### 2026-10-21 03:06:29  #MKT News
-
-President Trump said he could not say what U.S. Defense Secretary Hegseth discussed with Israeli Prime Minister Netanyahu during talks in Israel.
-
----
-
-### 2026-10-21 03:06:12  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
-
-Trump says a US-India trade agreement is close to being reached.
-
----
-
-### 2026-10-21 03:05:59  #MKT News
-
-CBC sources say the U.S. and Canada are not expected to reach a trade agreement before the U.S. midterm elections.
-
----
-
-### 2026-10-21 03:05:45  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Berkshire Hathaway Shares Hit 17-month High — Berkshire Hathaway shares increased to 538.97 USD, the highest since May 2025. Over the past 4 weeks, Berkshire Hathaway gained 7.28%, and in the last 12 months, it increased 9.62%.
-
----
-
-### 2026-10-21 03:05:43  #國際
-
-美國總統特朗普：與印度的貿易協議已相當接近達成。
-
----
-
-### 2026-10-21 03:04:02  #國際
-
-市場訊息：預計美國與加拿大不會在中期選舉之前達成貿易協議。
-
----
-
-### 2026-10-21 03:03:15  #MKT News
-
-President Trump said he has been discussing with President Putin the case of U.S. citizen Hubbard detained in Russia, and that it is time to bring him home.
-
----
-
-### 2026-10-21 03:02:49  #其他
-
-卡達航空將於2027年12月15日起增加飛往西悉尼的航班。
-
----
-
-### 2026-10-21 03:02:23  #市場
-
-【在岸人民幣兌美元夜盤收盤報6.6781，較上一交易日上漲29點】在岸人民幣兌美元夜盤收盤報6.6781，較上一交易日上漲29點。
-
----
-
-### 2026-10-21 03:02:16  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures night session closed up 0.51% at 24,001, trading 133 points above the cash index.
-
----
-
-### 2026-10-21 03:00:03  #市場
-
-恒指期貨夜盤收漲0.52%，報24005.08點，高水137.34點。
-
----
-
-### 2026-10-21 02:59:39  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Israeli military says it killed senior Hamas security official】On the evening of the 20th local time, the Israeli Defense Forces and Shin Bet said in a joint statement that a precision airstrike earlier that day in Gaza City killed senior Hamas security official Yassin.
-
----
-
-### 2026-10-21 02:59:17  #MKT News
-
-US President Trump said Putin and Zelensky do not need to be in the same room to sign a peace agreement.
-
----
-
-### 2026-10-21 02:58:50  #國際
-
-【以軍稱打死哈馬斯安全機構高階成員】當地時間20日晚，以色列國防軍與以色列國家安全域性（辛貝特）發表聯合宣告，稱當天早些時候對加沙城地區發動精準空襲，打死了哈馬斯安全機構高階成員亞辛。（央視新聞）
-
----
-
-### 2026-10-21 02:58:39  #國際
-
-特朗普：澤連斯基與普京很難直接會面，可透過其他方式簽署協議。
-
----
-
-### 2026-10-21 02:58:32  #MKT News
-
-US President Trump said Russia is a large country; Ukraine is not.
-
----
-
-### 2026-10-21 02:57:53  #國際
-
-特朗普：正與普京交涉，爭取被俄方扣押的美國公民哈伯德獲釋。
-
----
-
-### 2026-10-21 02:57:18  #MKT News
-
-President Trump said the US provided massive aid to Ukraine and, in return, only got higher diesel prices.
-
----
-
-### 2026-10-21 02:56:27  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump: It's time to end this war.
-
----
-
-### 2026-10-21 02:56:09  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Trump said Russia is a massive machine, has been steamrolling forward and has occupied a very large swath of territory.
-
----
-
-### 2026-10-21 02:56:05  #焦點 #國際
-
-特朗普：烏克蘭是時候結束這場衝突了。
-
----
-
-### 2026-10-21 02:56:04  #MKT News #Market Themes #The Trump Trade
-
-President Trump said the Russians are continually advancing and have an inexhaustible supply of manpower.
-
----
-
-### 2026-10-21 02:55:13  #國際
-
-惠譽就魁北克、阿爾伯塔獨立信用風險發表評論：當前加拿大獨立風險對信用的影響遠不及近期歐洲先例。
-
----
-
-### 2026-10-21 02:55:10  #MKT News
-
-Prime Minister Carney's government will publish the federal budget on Nov. 5.
-
----
-
-### 2026-10-21 02:54:14  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-US President Trump said he wants to see whether we can reach an agreement on the Ukraine conflict.
-
----
-
-### 2026-10-21 02:54:13  #國際
-
-特朗普：我們給了烏克蘭很多，卻什麼也沒得到。
-
----
-
-### 2026-10-21 02:54:06  #其他
-
-惠譽：並不認為魁北克省、阿爾伯塔省走向獨立構成嚴重風險。
-
----
-
-### 2026-10-21 02:53:54  #MKT News
-
-Trump said the US has given Ukraine a lot but received nothing in return.
-
----
-
-### 2026-10-21 02:53:33  #其他
-
-加拿大總理卡尼領導的政府將於11月5日釋出聯邦預算。
-
----
-
-### 2026-10-21 02:53:23  #國際
-
-特朗普：烏克蘭必須願意達成協議。
-
----
-
-### 2026-10-21 02:53:12  #國際
-
-特朗普：我想看看我們能否就烏克蘭衝突達成協議。
-
----
-
-### 2026-10-21 02:53:03  #國際
-
-特朗普談及俄羅斯：俄軍持續推進，人力供給充足。
-
----
-
-### 2026-10-21 02:52:25  #其他
-
-惠譽評級：支援率較低限制了魁北克和阿爾伯塔分裂主義的信用風險。
-
----
-
-### 2026-10-21 02:52:19  #MKT News
-
-US President Trump said he believes it would be very bad if he does not act.
-
----
-
-### 2026-10-21 02:52:07  #國際
-
-特朗普：如果他不這麼做，我認為這將是一件非常糟糕的事情。
-
----
-
-### 2026-10-21 02:52:02  #國際
-
-特朗普：我們希望澤連斯基達成協議。
-
----
-
-### 2026-10-21 02:52:01  #MKT News #Market Themes #The Trump Trade
-
-Trump said he hopes Ukrainian President Zelenskiy will reach an agreement.
-
----
-
-### 2026-10-21 02:51:54  #國際
-
-美國總統特朗普：烏克蘭必須有意願解決這場戰爭。
-
----
-
-### 2026-10-21 02:51:46  #國際
-
-以色列總理內塔尼亞胡：我們已消滅納斯魯拉，也將消除來自伊朗的威脅。
-
----
-
-### 2026-10-21 02:51:41  #MKT News
-
-President Trump said Ukraine must be willing to resolve the conflict.
-
----
-
-### 2026-10-21 02:51:32  #國際
-
-特朗普稱，在新一輪烏克蘭問題談判後，俄羅斯希望達成協議。
-
----
-
-### 2026-10-21 02:48:54  #國際
-
-美國總統特朗普談面向成年人的特朗普賬戶：正在研究替代方案。
-
----
-
-### 2026-10-21 02:48:38  #MKT News
-
-【Trump says weighing how to win on Iran】President Trump said the US now only needs to make a final decision on Iran, asking whether to “win” by a milder approach or a less-mild one, and added that “progress is going very well.”
-
----
-
-### 2026-10-21 02:48:01  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Falls on Hopes of US-Iran Diplomacy — Brent fell to $109 a barrel on Tuesday amid hopes of diplomatic progress between the US and Iran. Pakistan’s army chief, Field Marshal Asim Munir, met with senior Iranian diplomatic and military officials in Tehran to discuss bilateral relations and the status of talks with the US. Although officials from both sides have said in recent weeks that messages and proposals are being exchanged through mediators, the extent of their differences on key issues remains unclear. US President Trump said earlier this month that US forces would not attack Iran before the midterm elections. Meanwhile, attacks on tankers and strikes targeting Saudi Arabia have escalated. At least 18 vessels have come under fire over the past two weeks. On Tuesday, Iran’s IRGC said two “non-compliant” oil tankers had been struck in the Strait of Hormuz. Foreign Ministry spokesperson Esmaeil Baqaei warned at a weekly news conference that Iran would respond to US attacks “in equal measure, if not more forcefully".
-
----
-
-### 2026-10-21 02:47:34  #市場
-
-布倫特原油期貨結算價為每桶108.79美元，下跌76美分，跌幅0.69%。
-
----
-
-### 2026-10-21 02:47:27  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
-
-Brent crude futures settled at $108.79/bbl, down $0.76 or 0.69%.
-
----
-
-### 2026-10-21 02:47:14  #焦點 #國際
-
-美國總統特朗普談法國：我從未在法國見過那樣的情況。那不是小規模騷亂，也不是小規模抗議。那是一場全面革命，而且仍在持續。
-
----
-
-### 2026-10-21 02:46:56  #國際
-
-美國總統特朗普：歐洲必須改變自身行為，否則歐洲將不復存在。
-
----
-
-### 2026-10-21 02:46:29  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-President Trump said relations with Iran are progressing very smoothly.
-
----
-
-### 2026-10-21 02:46:20  #國際
-
-美國國務卿魯比奧：伊朗針對商船的行動，是二戰以來所未見的。
-
----
-
-### 2026-10-21 02:46:00  #國際
-
-美國總統特朗普談伊朗：我們只需就伊朗做出最終決定。我們想以哪種方式取勝，是溫和的方式還是不溫和的方式？但我們做得非常好。
-
----
-
-### 2026-10-21 02:45:41  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-President Trump said the US needs to decide how to defeat Iran, whether by a mild approach or a less-mild one.
-
----
-
-### 2026-10-21 02:45:22  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Falls on Hopes of US-Iran Diplomacy — Crude oil fell to $98 a barrel on Tuesday amid hopes of diplomatic progress between the US and Iran. Pakistan’s army chief, Field Marshal Asim Munir, met with senior Iranian diplomatic and military officials in Tehran to discuss bilateral relations and the status of talks with the US. Although officials from both sides have said in recent weeks that messages and proposals are being exchanged through mediators, the extent of their differences on key issues remains unclear. US President Trump said earlier this month that US forces would not attack Iran before the midterm elections. Meanwhile, attacks on tankers and strikes targeting Saudi Arabia have escalated. At least 18 vessels have come under fire over the past two weeks. On Tuesday, Iran’s IRGC said two “non-compliant” oil tankers had been struck in the Strait of Hormuz. Foreign Ministry spokesperson Esmaeil Baqaei warned at a weekly news conference that Iran would respond to US attacks “in equal measure, if not more forcefully.”
-
----
-
-### 2026-10-21 02:45:18  #MKT News #Market Regions #Europe & UK #Market Themes #The Trump Trade
-
-US President Trump said Europe does not have much time.
-
----
-
-### 2026-10-21 02:45:10  #MKT News #Market Themes #The Trump Trade
-
-US President Trump said Europe must expel illegal migrants or the European Union will cease to exist.
-
----
-
-### 2026-10-21 02:44:18  #MKT News #WTI #Impact bullish #XAUUSD
-
-U.S. President Trump on Iran said he must make a final decision on which course of action will deliver victory.
-
----
-
-### 2026-10-21 02:44:14  #國際
-
-美國國務卿魯比奧：與處於強硬派控制下的伊朗達成協議極其困難。
-
----
-
-### 2026-10-21 02:43:25  #MKT News #Market Regions #Europe & UK
-
-U.S. President Trump said Europe must change its ways.
-
----
-
-### 2026-10-21 02:43:17  #MKT News
-
-U.S. President Trump said France has an immigration problem.
-
----
-
-### 2026-10-21 02:42:44  #國際
-
-特朗普談伊朗：我必須最終決定以何種方式取勝。
-
----
-
-### 2026-10-21 02:42:12  #國際
-
-特朗普：與伊朗的關係進展非常順利。
-
----
-
-### 2026-10-21 02:41:26  #國際
-
-特朗普：（當被問及是否支援勒龐時）我還沒見過她。
-
----
-
-### 2026-10-21 02:40:42  #國際
-
-美國特使威特科夫在聖彼得堡之行期間將與俄羅斯總統普京會面。
-
----
-
-### 2026-10-21 02:40:18  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump said the U.S. will achieve stronger growth this year.
-
----
-
-### 2026-10-21 02:40:16  #國際
-
-特朗普：歐洲必須改變其方式。
-
----
-
-### 2026-10-21 02:39:23  #國際
-
-特朗普：今年我們將實現更多增長。
-
----
-
-### 2026-10-21 02:39:12  #國際
-
-特朗普重申法國存在移民問題。
-
----
-
-### 2026-10-21 02:39:01  #MKT News #Market Themes #The Trump Trade
-
-President Trump said he will take a hard line on budget issues this year.
-
----
-
-### 2026-10-21 02:38:58  #國際
-
-特朗普：今年在預算問題上將非常強硬。
-
----
-
-### 2026-10-21 02:36:39  #MKT News
-
-【Ukraine talks held in Norway; US envoy Witkoff to brief Russia】US presidential envoy Witkoff met Ukrainian President ZELENSKIY in Oslo on Oct. 20, with leaders from Norway and Finland attending and Jared Kushner joining by video. Norwegian Prime Minister Støre and Finnish President Stubb said the talks aimed to draft a peace plan to submit to Russia; no agreement details were released. Witkoff plans to travel to St. Petersburg on Oct. 21 to meet President Putin and relay parts of the Oslo discussions.
-
----
-
-### 2026-10-21 02:36:04  #國際
-
-市場資訊：以色列針對伊朗的行動最終將恢復，但可能不會在以色列和美國中期選舉之前進行。
-
----
-
-### 2026-10-21 02:35:23  #國際
-
-【烏克蘭問題會談在挪威舉行 美特使將赴俄轉達相關內容】當地時間20日，美國總統特朗普的特使威特科夫和烏克蘭總統澤連斯基在挪威奧斯陸舉行會晤，參會者還包括來自挪威、芬蘭等其他歐洲國家的領導人，特朗普女婿庫什納以影片方式參會。挪威首相斯特勒、芬蘭總統斯圖布和烏克蘭總統澤連斯基舉行聯合新聞釋出會，介紹當天烏克蘭問題會談的情況。此次會談旨在制定一項能夠提交俄羅斯方面討論的和平方案。（央視新聞）
-
----
-
-### 2026-10-21 02:34:59  #MKT News
-
-Business Insider reports Amazon Web Services expects to receive NVIDIA (NVDA.O) GB300 racks worth about $5 billion.
-
----
-
-### 2026-10-21 02:33:11  #國際
-
-美國總統特朗普公佈了一項新的反欺詐計劃，旨在獎勵舉報欺詐行為的人，獎勵金額為所追回資金的1%。
-
----
-
-### 2026-10-21 02:32:42  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-U.S. crude futures settled at $101.79/bbl, down $1.87 or 1.80%.
-
----
-
-### 2026-10-21 02:32:10  #公司
-
-亞馬遜雲計劃購入英偉達GB300 AI整機機架，價值50億美元。
-
----
-
-### 2026-10-21 02:32:02  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI
-
-【Night session main contracts close】At the 02:30 close, SHFE main gold contract fell 0.31% to 890 yuan/gram; SHFE main silver contract rose 1.54% to 14,075 yuan/kg; SC (Shanghai crude) main contract fell 4.47% to 695 yuan/barrel.
-
----
-
-### 2026-10-21 02:31:52  #國際
-
-美國醫保與醫療補助服務中心（CMS）主管奧茲宣佈，將對加州追加暫緩撥付12億美元醫療補助資金，監管方懷疑當地居家護理、臨終關懷專案存在欺詐問題，要求加州補齊合規材料後再放款。
-
----
-
-### 2026-10-21 02:31:44  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D closed down 0.15% at 888.5 yuan/gram in the evening session on Oct. 20; silver T+D closed up 0.98% at 13,963 yuan/kg.
 
 ---
