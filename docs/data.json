@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-25 02:01:37",
-  "count": 13053,
+  "updated": "2026-10-25 02:05:26",
+  "count": 13052,
   "items": [
+    {
+      "id": "5166567",
+      "time": "2026-10-25 02:01:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國內政部長：警方遭遇了極其嚴重的暴力。"
+    },
+    {
+      "id": "5166566",
+      "time": "2026-10-25 02:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國內政部長：全國289場行動共有41萬人參與示威。"
+    },
     {
       "id": "5166564",
       "time": "2026-10-25 01:59:20",
@@ -118143,32 +118159,6 @@
         "國際"
       ],
       "text": "美國方面提出允許俄羅斯向歐洲出售更多天然氣的設想，該設想將成為與烏克蘭和平協議的一部分；美國特使在9月與歐洲官員的會談中曾推介這一想法。"
-    },
-    {
-      "id": "5151954",
-      "time": "2026-10-18 02:04:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國提議允許俄羅斯向歐洲出售更多天然氣。"
-    },
-    {
-      "id": "mkt:01a14b07-9e41-7ee0-a8cd-23c6059fbad8",
-      "time": "2026-10-18 02:02:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AFP reported about 800,000 people across France took part in demonstrations protesting rising living costs."
-    },
-    {
-      "id": "mkt:01a14b07-180a-7ee0-a8cd-1fc791ee000c",
-      "time": "2026-10-18 02:01:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "French Interior Minister Nunez said 400 people were arrested during protests."
     }
   ]
 }
