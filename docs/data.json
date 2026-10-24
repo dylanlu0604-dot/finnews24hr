@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-25 04:14:52",
-  "count": 13035,
+  "updated": "2026-10-25 04:18:36",
+  "count": 13033,
   "items": [
+    {
+      "id": "mkt:01a16f8d-2c19-7ee0-a966-f317d607f58d",
+      "time": "2026-10-25 04:14:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Iraqi militia says US aircraft violated Iraqi airspace 171 times in a month】Iraqi militia Islamic Resistance said on Oct 24 it monitored 171 incursions by US fighter and reconnaissance aircraft into Iraqi airspace between Sept 30 and Oct 23. The group accused the US of persistent violations and alleged Iraq’s closure of routes and border crossings with Iran was carried out at US direction. Iraqi government spokesman Haider al-Abadi said on Oct 21 the Shib border crossing in southern Maysan province was closed for technical reasons. Several Iraqi airports suspended flights to Iran in September amid US sanctions on Iran."
+    },
     {
       "id": "5166626",
       "time": "2026-10-25 04:10:37",
@@ -117976,37 +117987,6 @@
         "國際"
       ],
       "text": "【特朗普政府提議烏和平協議包含歐洲重購俄天然氣，德國明確反對】特朗普政府提議，作為烏克蘭和平協議的一部分，歐洲恢復採購俄羅斯天然氣，這將為莫斯科帶來數百億美元收入並使其重獲經濟影響力。美國特使賈裡德・庫什納與威特科夫已探討重啟途經烏克蘭的俄天然氣管道，還考慮恢復北溪管道。美國投資者也可分得一部分利潤。德國強烈反對該提議，警告再度依賴俄能源將威脅歐洲安全。德國選擇黨（AfD）則支援恢復進口，以此壓低能源價格。"
-    },
-    {
-      "id": "mkt:01a14b83-b278-7ee0-a8ce-55bfb58e25e9",
-      "time": "2026-10-18 04:18:04",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Lebanese President Aoun said a Lebanese military delegation will demand in Tampa meetings with Israel and the United States that Israel stop escalating military operations."
-    },
-    {
-      "id": "5152043",
-      "time": "2026-10-18 04:17:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴訊息人士：巴基斯坦打擊阿富汗武裝邊境哨所和軍營】巴基斯坦安全部門訊息人士17日稱，阿富汗武裝人員當天在巴基斯坦西北部開伯爾－普什圖省巴阿邊境地帶無端開火，巴安全部隊對此作出有效回應。（新華社）"
-    },
-    {
-      "id": "mkt:01a14b82-4ef1-7ee0-a8ce-4e0fee3a37dc",
-      "time": "2026-10-18 04:16:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "【Japan to tighten customs enforcement to curb gold smuggling and tax-refund abuse】Nikkei reports Japan’s Ministry of Finance plans to strengthen customs powers to curb gold smuggling and exports of potentially tax-evasive gold. Japan’s trade data show declared gold imports of 10 tonnes and exports of 228 tonnes in 2025, implying substantial processed re-exports of inbound metal. The ministry will study revisions to the Customs Act and related ordinances, targeting establishment of a new regulatory framework as early as fiscal 2027. It plans to submit a proposal to an expert panel next month and to compile required amendment text by year-end. Proposed measures would explicitly empower customs to require exporters to provide supplier names, addresses and supply-chain movement records; customs could refuse export permits if exporters fail to supply required information. The reforms are aimed at stemming exports of gold with unclear provenance and cracking down on organized smuggling."
     }
   ]
 }

@@ -1,7 +1,18 @@
 {
   "date": "2026-10-25",
-  "count": 120,
+  "count": 121,
   "items": [
+    {
+      "id": "mkt:01a16f8d-2c19-7ee0-a966-f317d607f58d",
+      "time": "2026-10-25 04:14:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Iraqi militia says US aircraft violated Iraqi airspace 171 times in a month】Iraqi militia Islamic Resistance said on Oct 24 it monitored 171 incursions by US fighter and reconnaissance aircraft into Iraqi airspace between Sept 30 and Oct 23. The group accused the US of persistent violations and alleged Iraq’s closure of routes and border crossings with Iran was carried out at US direction. Iraqi government spokesman Haider al-Abadi said on Oct 21 the Shib border crossing in southern Maysan province was closed for technical reasons. Several Iraqi airports suspended flights to Iran in September amid US sanctions on Iran."
+    },
     {
       "id": "5166626",
       "time": "2026-10-25 04:10:37",
