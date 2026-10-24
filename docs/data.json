@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-24 21:52:28",
-  "count": 13010,
+  "updated": "2026-10-24 21:56:38",
+  "count": 13011,
   "items": [
+    {
+      "id": "mkt:01a16e2f-d315-7ee0-a964-d48850ea8625",
+      "time": "2026-10-24 21:53:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Huafu Securities' Chen Xing: A‑share valuations largely price in caution; equity allocation value rising】Huafu Securities macro chief analyst Chen Xing said core A‑share valuations now largely reflect market caution, making equity allocation value increasingly evident. He said equities have upside repair potential provided earnings show marginal stabilization and liquidity expectations modestly recover. He advised against panic selling and recommended focusing on high‑quality names where earnings and valuation align, maintaining rational, patient positioning. After the recent correction, broad and sector indices have dropped to historically low percentiles; some growth subsectors sit near one‑year lows, and financials and cyclical value sectors are near historical troughs. Chen said the negative factors that compressed valuations are largely priced in, limiting downside and improving risk‑reward, so names with high earnings certainty and reasonable valuations could see an attractive allocation window."
+    },
+    {
+      "id": "5166335",
+      "time": "2026-10-24 21:52:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地州長稱，俄羅斯鄂木斯克州北部的一處工業設施遭到了烏克蘭無人機襲擊。"
+    },
     {
       "id": "mkt:01a16e2e-5055-7ee0-a964-cd9257ffc09f",
       "time": "2026-10-24 21:51:31",
@@ -117753,14 +117774,6 @@
         "國際"
       ],
       "text": "美國聯邦住房金融局局長普爾特：預計年底前就貸款層級定價調整（LLPAs）的任何修訂作出決定。"
-    },
-    {
-      "id": "5151664",
-      "time": "2026-10-17 21:53:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“鄭和號+鐵路快通”海公鐵多式聯運班列首發】10月16日，滿載49櫃集裝箱的國際班列由昆明市晉寧區騰俊國際陸港駛出，標誌著“鄭和號+鐵路快通”海公鐵多式聯運班列正式首發。騰俊國際陸港地處昆明南部核心物流樞紐，緊鄰中老鐵路幹線，依託陸港內海關監管作業場所，出口貨物在騰俊國際陸港即可一站式完成申報、查驗、放行全流程作業，抵達邊境口岸後可直接出境。（新華社）"
     }
   ]
 }
