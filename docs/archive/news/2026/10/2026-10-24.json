@@ -1,7 +1,894 @@
 {
   "date": "2026-10-24",
-  "count": 561,
+  "count": 666,
   "items": [
+    {
+      "id": "5166171",
+      "time": "2026-10-24 18:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【張雪將於明日在湖南麻陽挑戰吉尼斯世界紀錄】10月25日，“張雪機車”創始人張雪將駕駛改裝摩托車張雪機車MX450，在湖南省懷化市麻陽苗族自治縣郭公坪鎮小坡村挑戰擬定40公里距離的“改裝摩托車在開闊水域行駛最遠距離”吉尼斯世界紀錄。（央視新聞）"
+    },
+    {
+      "id": "5166170",
+      "time": "2026-10-24 17:55:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智元挑戰110臺遠征A3全尺寸人形機器人同時協同跳舞】記者獲悉，今日，智元遠征A3在山東濟南發起吉尼斯世界紀錄挑戰，創下“最多人形機器人同時跳舞”紀錄。110臺智元遠征A3全尺寸人形機器人同一時間協同起舞，根據指示進行協同舞蹈、波浪狀、倒計時數字等。（證券時報）"
+    },
+    {
+      "id": "mkt:01a16d51-95bd-7ee0-a963-193cf04d2516",
+      "time": "2026-10-24 17:50:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kehlsteinhaus (Eagle's Nest) reportedly burned in suspected arson】On Oct. 23 at about 9:50 p.m. local time a fire broke out at the Kehlsteinhaus (Eagle's Nest) near Berchtesgaden in Bavaria, a site formerly used by Hitler for social receptions. Footage showed the building rapidly engulfed; roughly 200 firefighters were deployed. German police said on Oct. 24 they had detained one suspect and that no one was injured."
+    },
+    {
+      "id": "em:jjsj_oyqsj:202610243907102639",
+      "time": "2026-10-24 17:43:11",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【綜合PMI再度走低 歐元區經濟韌性面臨考驗】標普全球23日公佈的初步調查資料顯示，歐元區10月綜合採購經理指數（PMI）從9月的53.1降至51.9，創四個月新低，表明歐元區私營部門經濟活動擴張放緩。這一變化表明，歐元區經濟雖保持一定韌性，但能源成本上升、通脹壓力加大和融資條件收緊正削弱增長動力，也使歐洲央行面臨更加複雜的政策抉擇。"
+    },
+    {
+      "id": "mkt:01a16d4a-b272-7ee0-a963-17816790df4a",
+      "time": "2026-10-24 17:42:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fifth Asian Para Games close in Nagoya, Japan】The fifth Asian Para Games concluded in Nagoya on the 24th. China’s delegation won 207 gold, 117 silver and 111 bronze medals, topping both the gold and overall medal tables for a fifth consecutive Games and recording its best-ever result at an overseas edition."
+    },
+    {
+      "id": "mkt:01a16d48-b899-7ee0-a963-0cede64712cd",
+      "time": "2026-10-24 17:40:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The United States seeks to expand its involvement in operations targeting Mexican drug cartels."
+    },
+    {
+      "id": "mkt:01a16d46-1b9d-7ee0-a963-0766b9c1bc0c",
+      "time": "2026-10-24 17:37:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NVIDIA discontinuation rumors unsettle Huaqiangbei; RTX 50-series prices spike】Rumors that some consumer NVIDIA GPUs may be discontinued are disrupting Huaqiangbei’s computer-parts market and driving daily price volatility. Dealers say the biggest moves from September into October are concentrated in graphics cards, with rapid channel-price jumps. High-end RTX 50-series: RTX 5090 had an official launch MSRP of ~15,000–16,000 yuan and channel quotes have surged from roughly 30,000 yuan a short time ago to about 50,000–60,000 yuan now. RTX 5080 launched near 8,000 yuan; channel quotes have risen to ~17,000 yuan from ~12,000 yuan two weeks ago (a ~4,000–5,000 yuan increase)."
+    },
+    {
+      "id": "mkt:01a16d40-9a9a-7ee0-a962-f85fa92f0216",
+      "time": "2026-10-24 17:31:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhou Hongyi to sell 12.89929% stake in Beijing Qifei Xiangyi at CNY 219 mln reserve price】Beijing Property Rights Exchange posted on Oct 24 that Zhou Hongyi plans to transfer a 12.89929% stake in Beijing Qifei Xiangyi Business Consulting Co., Ltd. The reserve price is about CNY 219 mln; the public disclosure period is Oct 26–Nov 20, 2026. A shareholder resolution on Mar 13, 2026 approved profit distribution; the transferor received a dividend of about CNY 54.177032 mln. The reserve price has been reduced from the appraisal value by that dividend amount."
+    },
+    {
+      "id": "5166165",
+      "time": "2026-10-24 17:28:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【周鴻禕擬以底價2.19億元轉讓奇飛翔藝12.9%股權】據北京產權交易所網站，周鴻禕擬轉讓北京奇飛翔藝商務諮詢有限公司12.89929％股權，轉讓底價約為2.19億元，披露期為2026年10月26日至11月20日。標的資產已於2026年3月13日形成關於公司利潤分配的股東決議，轉讓方獲得分紅金額為約5417.7032萬元。本次資產轉讓底價已在評估價值基礎上對前述分紅金額進行扣除。"
+    },
+    {
+      "id": "5166164",
+      "time": "2026-10-24 17:27:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國方面據悉謀求更多參與打擊墨西哥販毒集團的行動。"
+    },
+    {
+      "id": "mkt:01a16d3b-a318-7ee0-a962-f41b2f4cace3",
+      "time": "2026-10-24 17:26:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Russia says it struck 147 Ukrainian sites, reports downing missiles and 1,297 UAVs】Russia said its tactical and attack aviation, strike UAVs, missile units and artillery struck 147 Ukrainian sites, hitting energy and transport infrastructure, storage and launch points for long-range drones, and temporary deployment areas for Ukrainian forces and foreign mercenaries. Russian air defenses shot down one Storm Shadow cruise missile, four Neptune missiles and 1,297 fixed‑wing UAVs."
+    },
+    {
+      "id": "5166163",
+      "time": "2026-10-24 17:25:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱打擊烏外國僱傭兵部署點】今天（10月24日），俄羅斯釋出戰報稱，俄軍各部隊叢集的戰役戰術航空兵、攻擊型無人機、導彈部隊和炮兵對147個區域烏克蘭武裝部隊使用的能源和交通基礎設施、遠端無人機的儲存和發射點，以及烏軍部隊和外國僱傭兵的臨時部署點實施了打擊。俄軍防空力量擊落一枚“風暴陰影”巡航導彈、四枚“海王星”導彈和1297架固定翼無人機。 當天，烏克蘭武裝部隊總參謀部釋出資訊稱，過去一天前線地區發生181次戰鬥。過去一天，烏空軍、導彈部隊和炮兵打擊了俄軍2處人員和裝備集結區、3門火炮、1處無人機指揮所和2個重要目標。過去一天，烏軍摧毀俄軍64套火炮系統、8套地面機器人系統、1855架無人機等。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a16d3a-3b0c-7ee0-a962-ec2474796aa2",
+      "time": "2026-10-24 17:24:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bipartisan U.S. lawmakers say AI executives out of touch, urge less talk and more action】Axios, citing sources, reports bipartisan U.S. lawmakers, congressional staff and Washington political figures view leading AI founders and executives as a growing political liability and are urging them to adopt a lower public profile, focus on product development and ensure safety. Officials say industry rhetoric about digital consciousness and global catastrophe has pushed the regulatory debate toward near moral panic; executives have not effectively promoted AI's benefits or prospects for broad-based prosperity and instead repeatedly warn of existential risk. Lawmakers and regulators say messaging that swings between boom and doomsday—sometimes within the same public event—heightens political friction and is intensifying public backlash against the AI industry."
+    },
+    {
+      "id": "5166161",
+      "time": "2026-10-24 17:23:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美航空航天局公佈“阿耳忒彌斯3號”任務最新安排】美國航空航天局23日公佈“阿耳忒彌斯3號”任務最新安排。按計劃，該任務將於2027年把4名宇航員送入近地軌道，先後與美國藍色起源公司和太空探索技術公司研製的登月系統測試飛行器開展交會對接等測試，為後續“阿耳忒彌斯4號”載人登月任務做準備。據介紹，“阿耳忒彌斯3號”任務計劃持續14天，將使用3枚不同的運載火箭，分別將藍色起源公司研發的“藍月Mark 2”號月球著陸器測試版、“獵戶座”載人飛船和“星艦”測試飛行器送入太空。任務旨在驗證不同航天器在軌協同工作的能力，演練交會、對接、艙內操作等關鍵程式，降低未來載人登月的風險。（新華社）"
+    },
+    {
+      "id": "5166160",
+      "time": "2026-10-24 17:23:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總理馬德布利：兩年內糧食倉儲容量將提升至 600 萬噸。"
+    },
+    {
+      "id": "5166157",
+      "time": "2026-10-24 17:21:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總理：埃及糧食倉儲容量已達400萬噸。"
+    },
+    {
+      "id": "5166156",
+      "time": "2026-10-24 17:20:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總理：埃及小麥自給率從43%提升至52%。"
+    },
+    {
+      "id": "5166155",
+      "time": "2026-10-24 17:18:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬那杜維拉港附近海域發生5.9級地震】據歐洲與地中海地震中心測定，當地時間10月24日19時56分，萬那杜維拉港西北510公里處海域發生5.9級地震，震源深度10公里，震中位於南緯13.942度，東經165.647度。"
+    },
+    {
+      "id": "5166151",
+      "time": "2026-10-24 17:11:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告：渤海部分海域執行實彈射擊，禁止駛入】據中國海事局網站訊息，大連海事局釋出航行警告，10月25日1時至6時，渤海部分海域執行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "mkt:01a16d29-b819-7ee0-a962-e639c7ba83d5",
+      "time": "2026-10-24 17:06:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Indonesia cuts pipeline gas exports to Singapore by about 9%】SKKMigas said from Saturday Indonesia cut pipeline gas exports to Singapore by 31 mmscfd (31 million standard cubic feet per day), aiming to redirect the volume to the domestic power sector."
+    },
+    {
+      "id": "5166146",
+      "time": "2026-10-24 17:05:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西總統選舉最終電視辯論結束】當地時間10月23日晚，巴西現任總統、勞工黨候選人盧拉和前總統雅伊爾·博索納羅之子、自由黨候選人弗拉維奧·博索納羅舉行巴西總統選舉第二輪投票前的最後一次電視辯論，雙方聚焦生活成本、最低工資、公共安全和基礎設施投資等問題。辯論過程中，盧拉要求博索納羅就叫他“九指”一事向他道歉，盧拉表示他曾在工作中失去過一根手指，而博索納羅“沒有真正工作過一天”。博索納羅則反問說，他可以就此事向盧拉道歉，但盧拉打算向他執政期間翻倍的無家可歸者道歉嗎？盧拉回應說，巴西的精英階層應該對國家的歷史問題道歉。（CCTV國際時訊）"
+    },
+    {
+      "id": "5166145",
+      "time": "2026-10-24 17:04:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍（IDF）：昨天（週五），在兩起獨立事件中，以色列國防軍部隊在加沙地帶北部和南部發現兩名越過“黃線”的恐怖分子。在確認其身份後，部隊將這些恐怖分子擊斃。"
+    },
+    {
+      "id": "5166144",
+      "time": "2026-10-24 17:03:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月24日16時47分在青海玉樹州雜多縣（北緯32.54度，東經94.00度）發生3.4級地震，震源深度10千米。"
+    },
+    {
+      "id": "5166143",
+      "time": "2026-10-24 17:03:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫光股份：算力基礎設施建設帶動公司網路、伺服器等產品需求持續向好】紫光股份(000938)10月24日在互動平臺回覆投資者稱，算力基礎設施建設帶動公司網路、伺服器、超節點產品需求持續向好，公司將與產業鏈上下游高效協同，依託多元、穩健、可持續的供應鏈體系，保障交付的穩定與連續。海外業務拓展方面，年初至今，已落地多個海外標杆專案。"
+    },
+    {
+      "id": "5166142",
+      "time": "2026-10-24 16:59:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛才發生的5.3級地震（青海玉樹州雜多縣 ）是西藏巴青7.0級地震的一次強餘震，也是目前最大的餘震，兩次震中相距約23公里 。（中國地震臺網）"
+    },
+    {
+      "id": "mkt:01a16d23-2456-7ee0-a962-db222013edce",
+      "time": "2026-10-24 16:59:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Meichen Technology: unit wins contract to supply energy-storage liquid-cooling piping assemblies for leading domestic client】Meichen Technology said on the 24th its unit, Meichen Industrial Group, has won a contract from a leading domestic client to supply energy-storage liquid-cooling piping assemblies. The project covers supply of liquid-cooling pipeline systems and aims to ensure stable, reliable delivery of high-performance heat-dissipation piping to support the client’s compute cooling requirements."
+    },
+    {
+      "id": "5166141",
+      "time": "2026-10-24 16:59:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美晨科技：旗下美晨工業集團中標國內頭部客戶儲能液冷管路總成專案】據美晨科技24日訊息，日前，公司旗下美晨工業集團中標國內頭部客戶儲能液冷管路總成專案。該專案將聚焦液冷管路系統配套，全力保障高效能散熱管路的穩定可靠交付，助力客戶算力散熱需求順利落地。"
+    },
+    {
+      "id": "5166139",
+      "time": "2026-10-24 16:57:24",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【印尼將輸往新加坡的管道天然氣出口量削減約9%】印尼上游油氣監管機構SKK Migas表示，自週六起，印尼削減了每日3100萬標準立方英尺（mmscfd）的管道天然氣對新加坡出口量，旨在將這部分供應轉用於國內電力部門。SKK Migas負責人Djoko Siswanto透露，印尼削減了來自納土納（Natuna）的1500萬標準立方英尺天然氣供應，以及來自蘇門答臘（Sumatra）的1600萬標準立方英尺天然氣供應。印尼對新加坡的天然氣出口絕大多數透過管道輸送，此次削減量約佔該供應總量的9%。Djoko表示：“為保障國內發電用氣的供應可靠性，從即日起，原定輸往新加坡的天然氣將轉供國內使用。”"
+    },
+    {
+      "id": "mkt:01a16d20-7004-7ee0-a962-d534dfdfff78",
+      "time": "2026-10-24 16:56:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Saudi-led coalition said it intercepted and destroyed two ballistic missiles launched by Yemen's Houthi militants toward Taif and Yanbu in Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a16d1f-547f-7ee0-a962-c94496bb31a0",
+      "time": "2026-10-24 16:55:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Indonesia will reduce pipeline natural gas exports to Singapore by about 9%."
+    },
+    {
+      "id": "5166138",
+      "time": "2026-10-24 16:54:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【恆瑞醫藥披露瑞康曲妥珠單抗用於HER2低表達晚期乳腺癌Ⅲ期研究資料】2026年歐洲腫瘤內科學會（ESMO）年會於當地時間10月23日至27日在西班牙馬德里舉辦。期間，恆瑞醫藥自主研發的HER2-ADC瑞康曲妥珠單抗（SHR-A1811）治療HER2低表達晚期乳腺癌的Ⅲ期HORIZON-Breast06研究公佈，研究全文同步發表於頂級期刊《美國醫學會雜誌》。研究證實，無論在晚期階段未接受化療人群還是全人群，瑞康曲妥珠單抗均顯示出統計學顯著性且具有臨床意義的PFS延長。"
+    },
+    {
+      "id": "5166137",
+      "time": "2026-10-24 16:53:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美今年已報告麻疹病例超4500例 實際可能更多】美國疾病控制和預防中心23日公佈的最新資料顯示，截至22日，美國2026年已累計報告4588例麻疹確診病例，已超過2025年全年病例總數的2倍。一些公共衛生專家認為，由於存在病例漏報，美國實際感染人數可能遠高於官方統計。（新華社）"
+    },
+    {
+      "id": "mkt:01a16d1b-ba76-7ee0-a962-c424d0cc24b7",
+      "time": "2026-10-24 16:51:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cenc recorded a magnitude-5.3 earthquake at 16:39 on Oct 24 in Zaduo County, Yushu Prefecture, Qinghai, China (32.54°N, 93.97°E); focal depth 10 km."
+    },
+    {
+      "id": "5166134",
+      "time": "2026-10-24 16:51:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月24日16時39分在青海玉樹州雜多縣（北緯32.54度，東經93.97度）發生5.3級地震，震源深度10千米。"
+    },
+    {
+      "id": "5166132",
+      "time": "2026-10-24 16:50:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津市首宗“土地+地熱”組合供應專案掛牌出讓】10月22日，在天津市規劃資源局政務網站，濱海新區中新生態城中心漁港66581.8平方米國有建設用地使用權與1.2139平方千米地熱勘查探礦權組合供應專案正式掛牌公示，組合掛牌總金額4013萬元，成為天津市首宗“土地+地熱”組合供應專案。此次掛牌出讓的建設用地和地熱探礦權區塊，位於中新生態城中心漁港域內，土地規劃用途為港口用地，混合不高於45%工業用地。"
+    },
+    {
+      "id": "5166131",
+      "time": "2026-10-24 16:49:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬副總裁澄清00後產品經理釋出會“老登”用詞：內部調侃，不指向外部使用者】10月24日，小鵬集團副總裁@托馬斯電火車 釋出長文，還原小鵬MONA產品經理恩塔釋出會“老登”用詞事件全過程。他明確表示，自始至終，“老登”這個稱呼，是產品團隊對內部幾個核心負責人的調侃，完全沒有指向任何外部使用者，“幾位‘老登’沒一個不悅，反而在內部反覆表揚”。“老登並不讓人反感，老登並不讓人反感，有些人的登味兒才讓人厭惡，少一些對00後的口誅筆伐。”他表示，“恩塔依然會站在釋出會上，和產品經理歐陽娜娜，以及‘老登代表’何小鵬一起，聯袂講解。”"
+    },
+    {
+      "id": "mkt:01a16d19-07ed-7ee0-a962-bf5dcfd58d2f",
+      "time": "2026-10-24 16:48:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【China Merchants Securities' Zhang Jingjing: A-shares likely to extend rebound; window for long-term allocations nears】China Merchants Securities macro chief analyst Zhang Jingjing says China’s A-share market is likely to extend the Oct. 23 rebound. She cites continued strong exports since Q3, active policy measures supporting domestic demand, a low probability of a Fed rate hike in October that could ease global liquidity temporarily, and regulatory steps plus expectations of long-term fund inflows. Zhang expects Q4 to be a typical window for insurers and other long-term capital to position for next year, with incremental inflows likely to lift low-valuation names with earnings cushions and growth prospects."
+    },
+    {
+      "id": "5166130",
+      "time": "2026-10-24 16:48:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：10月24日16時39分，在青海玉樹州雜多縣附近（北緯32.59度，東經94.04度）發生5.1級左右地震。最終結果以正式速報為準。"
+    },
+    {
+      "id": "5166129",
+      "time": "2026-10-24 16:47:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德媒：德國旅遊景點、希特勒“老巢”被縱火燒燬】據德媒10月23日報道，納粹德國領導人希特勒的“老巢”、位於德國南部巴伐利亞州貝希特斯加登的凱爾施泰因山莊（被美國人稱作“鷹巢”）當地時間23日晚被縱火燒燬。德國警方拘留一名嫌疑人。 據報道，“鷹巢”建於1938年，1939年，該地被送給希特勒作為其50歲生日的禮物。納粹德國時期，希特勒曾在那裡接待過外交官和其他外國客人。該建築沒有在盟軍的轟炸行動中遭到破壞。這座歷史古蹟現在是一個旅遊景點。 德國警方表示，約200名消防應急人員被部署到現場，消防部門的大規模滅火行動仍在進行中。到目前為止，該建築內沒有發現任何人，目前沒有人因火災而受傷。火災發生後不久，一名嫌疑人引起了執法人員的注意，目前已被拘留。刑事調查正在進行中。（環球網）"
+    },
+    {
+      "id": "5166127",
+      "time": "2026-10-24 16:41:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯奧廖爾州州長稱，烏克蘭對該州一家企業的襲擊造成三人死亡。"
+    },
+    {
+      "id": "5166126",
+      "time": "2026-10-24 16:38:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月24日16時29分在新疆伊犁州鞏留縣（北緯43.33度，東經82.03度）發生4.3級地震，震源深度21千米。"
+    },
+    {
+      "id": "5166125",
+      "time": "2026-10-24 16:34:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "雲南省委主要負責同志職務調整，莫高義任雲南省委書記。（新華社）"
+    },
+    {
+      "id": "mkt:01a16d0b-b5bc-7ee0-a962-b22b152bc79c",
+      "time": "2026-10-24 16:34:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine says Starlink and Starshield restored stable satellite communications】Ukraine's defense ministry said monitoring data show Starlink and Starshield satellite communications have recovered functionality, with terminals maintaining stable links at speeds above 400 km/h. The ministry said the restoration will support frontline mobility, drone missions, military logistics and battlefield communications. It will continue to track both systems and run higher-speed tests to determine maximum operational speed and fully assess the level of communications recovery."
+    },
+    {
+      "id": "5166123",
+      "time": "2026-10-24 16:33:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭防長稱“星鏈”及“星盾”已恢復穩定通訊】當地時間24日，烏克蘭國防部長赫馬拉通報稱，烏國防部監測資料顯示，“星鏈”與“星盾”衛星通訊系統已恢復效能，終端在移動速度超過每小時400公里條件下可保持穩定通訊。赫馬拉表示，該進展對前線作戰意義突出，將支撐部隊機動、無人機任務、軍事後勤及戰場通訊保障。赫馬拉稱，烏方將持續跟蹤記錄兩套系統執行狀態，下一步計劃開展更高速度工況測試，探明系統可承載的速度上限，全面評估通訊能力恢復水平。（央視新聞）"
+    },
+    {
+      "id": "5166122",
+      "time": "2026-10-24 16:32:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：10月24日16時29分在新疆伊犁州鞏留縣附近（北緯43.35度，東經82.01度）發生4.5級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:01a16d07-309a-7ee0-a962-a88acd98eb2a",
+      "time": "2026-10-24 16:29:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense lifted danger alerts for Taif and Jeddah."
+    },
+    {
+      "id": "5166121",
+      "time": "2026-10-24 16:28:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：塔伊夫和吉達的危險已解除。"
+    },
+    {
+      "id": "mkt:01a16d05-9ee5-7ee0-a962-a7999a0b67e9",
+      "time": "2026-10-24 16:27:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Civil Defense: danger alert for Yanbu lifted."
+    },
+    {
+      "id": "mkt:01a16d05-3b99-7ee0-a962-99d7e301ca9d",
+      "time": "2026-10-24 16:27:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense says danger alert for Mecca has been lifted."
+    },
+    {
+      "id": "5166120",
+      "time": "2026-10-24 16:26:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：麥加和延布的危險已解除。"
+    },
+    {
+      "id": "5166119",
+      "time": "2026-10-24 16:25:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【終端需求支撐力度有限，本週國內生豬價格震盪下滑】本週國內生豬價格呈震盪下滑走勢，周均價環比下跌。據中國養豬網的資料，10月23日，生豬（外三元）價格為9.66元/公斤，與上週五（10月16日）的9.88元/公斤相比，下降2.2%。從一週均價來看，本週生豬均價為9.83元/公斤，與上週10.01元/公斤的均價相比，下降1.8%。"
+    },
+    {
+      "id": "mkt:01a16d03-cbb3-7ee0-a962-9164e6d2644c",
+      "time": "2026-10-24 16:25:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu authorises support for Argentina's claim to the Malvinas (Falkland) Islands】Israeli Prime Minister Netanyahu has ordered Israel to back Argentina's sovereignty claim over the Malvinas (Falkland) Islands, instructing diplomats to shift Israel's official stance, join Buenos Aires in calling for direct talks on the islands' future, and acknowledge Argentina's historical ties to the territory. Netanyahu is close to Argentine President Javier Milei. The decision comes after UK foreign minister Ed Miliband last month moved to impose economic sanctions on West Bank settlements; Netanyahu changed his position against that backdrop."
+    },
+    {
+      "id": "5166118",
+      "time": "2026-10-24 16:25:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏巴青7.0級地震已發生餘震834次】記者從西藏那曲市抗震救災指揮部獲悉，截至10月24日9時45分，巴青縣地震受災區域共記錄到餘震834次，其中3.0級以下餘震795次，3.0-3.9級地震31次，4.0-4.9級地震8次，最大餘震為10月23日23時14分青海玉樹州雜多縣4.5級地震，距主震震中18.68公里。（新華社）"
+    },
+    {
+      "id": "5166117",
+      "time": "2026-10-24 16:24:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【科技企業領跑 645家A股上市公司今年已釋出股權激勵計劃】Wind資料顯示，截至10月23日收盤，2026年以來，共有645家A股上市公司對外發布股權激勵計劃，遠超去年全年總量。除半導體、生物醫藥等新興產業外，傳統制造行業2026年以來股權激勵案例明顯增多，留住核心人才意圖明顯。從激勵標的物型別看，主要分為股票增值權、股票期權、限制性股票三大類。其中，限制性股票佔比約八成，第一類限制性股票佔比約三成，第二類限制性股票佔比約五成。釋出第二類限制性股票的上市公司數量明顯增多。（中國證券報）"
+    },
+    {
+      "id": "mkt:01a16d00-4e18-7ee0-a962-89af72540324",
+      "time": "2026-10-24 16:21:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi civil defense issues multiple alerts】Saudi civil defense issued alerts for potential hazards in Taif, Yanbu and Mecca."
+    },
+    {
+      "id": "mkt:01a16cfe-d8a8-7ee0-a962-8505692d42e8",
+      "time": "2026-10-24 16:20:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian military said it struck a leading Russian electro‑optical equipment manufacturer in Oryol."
+    },
+    {
+      "id": "5166116",
+      "time": "2026-10-24 16:19:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【艾迪精密美國公司正式開業】據艾迪精密訊息，當地時間10月23日，艾迪精密美國公司開業儀式在美國芝加哥西北郊紹姆堡市舉辦。依託本地據點，艾迪精密將進一步貼近北美客戶，快速響應市場需求。"
+    },
+    {
+      "id": "mkt:01a16cfd-d805-7ee0-a962-7c8ac675c473",
+      "time": "2026-10-24 16:18:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an alert about a potential danger in Mecca."
+    },
+    {
+      "id": "5166115",
+      "time": "2026-10-24 16:18:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門就麥加的潛在危險發出警報。"
+    },
+    {
+      "id": "mkt:01a16cfd-1d95-7ee0-a962-773abf04a800",
+      "time": "2026-10-24 16:18:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defence issued an alert about a potential threat in Yanbu."
+    },
+    {
+      "id": "5166114",
+      "time": "2026-10-24 16:17:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門就塔伊夫和延布的潛在危險發出警報。"
+    },
+    {
+      "id": "mkt:01a16cfc-c499-7ee0-a962-6e0d7d4a5cec",
+      "time": "2026-10-24 16:17:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an alert over a potential hazard in Taif."
+    },
+    {
+      "id": "5166113",
+      "time": "2026-10-24 16:17:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門就吉達可能存在的危險發出警報。"
+    },
+    {
+      "id": "5166110",
+      "time": "2026-10-24 16:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭無人機製造商稱，烏克蘭軍方襲擊了俄羅斯陶里亞蒂的石化廠。"
+    },
+    {
+      "id": "mkt:01a16cfa-227e-7ee0-a962-677f219139b8",
+      "time": "2026-10-24 16:14:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A Ukrainian drone manufacturer said the Ukrainian military struck a Russian petrochemical plant in Tolyatti."
+    },
+    {
+      "id": "5166109",
+      "time": "2026-10-24 16:13:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新海航航空集團冬春航季日均計劃航班超2300班】據新海航航空集團訊息，10月25日起，全國民航將正式進入冬春航季。新航季，新海航航空集團旗下境內客運航司預計新開、加密境內外航線超150條，日均計劃航班量超2300（含國際）班，將執飛1539條國內航線，覆蓋國內185個城市；超110條國際及地區航線，通達30多個國家及地區。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610243907095140",
+      "time": "2026-10-24 16:13:09",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【加息大訊息！美聯儲，重磅來襲】美聯儲的動向備受市場關注！美聯儲將於10月27日至28日召開議息會議。隨著會議臨近，市場焦點已轉向美聯儲是否會進一步加息，以及本次會議將為12月政策路徑釋放何種訊號。美聯儲曾在9月進行自2023年以來的首次加息，以應對高於目標的通脹。但根據LSEG資料，聯邦基金期貨顯示，美聯儲在10月28日（下週三）釋出政策宣告時再次加息的可能性不到10%。"
+    },
+    {
+      "id": "5166108",
+      "time": "2026-10-24 16:12:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗航空恢復德黑蘭和馬什哈德至喀布林的航班。"
+    },
+    {
+      "id": "mkt:01a16cf7-8d74-7ee0-a962-5af8045cb159",
+      "time": "2026-10-24 16:12:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Philippine training aircraft collide; four air force pilots killed】The Philippine Air Force confirmed on the 24th that two SF-260 training aircraft collided on the 23rd during exercises over Batangas province, Luzon, killing four air force pilots. The aircraft collided at 15:51 and crashed near an airbase in Lipa City. The Air Force has grounded all SF-260s. The SF-260 is an Italian-built light trainer used by the Philippine Air Force. On May 20 an SF-260 crashed in Benguet province, Luzon, killing two."
+    },
+    {
+      "id": "mkt:01a16cf7-3f58-7ee0-a962-55ead9094250",
+      "time": "2026-10-24 16:11:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Wall Street Journal: US pressure is eroding Iran's overland trade routes】The Wall Street Journal reports Iraq and Pakistan have cut or restricted key land corridors into Iran, compounding US naval blockades and strict sanctions on airlines that have already severed most maritime and air links. Iraq on Wednesday closed the Sheeb border crossing, which connects the two countries’ largest oil-producing provinces; Baghdad said the move is aimed at strengthening anti-smuggling enforcement. Over the weekend Pakistan intercepted trucks from Iran at the Gabd and Taftan crossings—previously used as overland routes to Iran’s largest eastern port—and on Friday Pakistan’s foreign ministry said the actions were related to sanctions enforcement. These measures have further intensified economic pressure on Iran."
+    },
+    {
+      "id": "5166107",
+      "time": "2026-10-24 16:11:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【哈爾濱開通國內首條直飛俄羅斯堪察加定期國際客運航線】從黑龍江省交通運輸廳瞭解到，10月24日，哈爾濱至俄羅斯堪察加彼得羅巴甫洛夫斯克定期國際客運航線正式開通，這是國內首條直飛俄羅斯堪察加邊疆區的定期客運航線。該航線由俄羅斯伊爾航空公司執飛，每週六往返1班。（央視新聞）"
+    },
+    {
+      "id": "5166106",
+      "time": "2026-10-24 16:08:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列總理據悉下令改變對馬爾維納斯群島立場】據報道，以色列總理內塔尼亞胡已下令以色列改變對福克蘭群島（馬爾維納斯群島）的立場，轉而支援阿根廷，此舉是在英國對以色列西岸定居點實施制裁之後。以色列外交官已接到指示，要支援英國與阿根廷就群島未來進行直接談判，並承認阿根廷與該領土的“歷史聯絡”。此舉雖未正式支援阿根廷的主權主張，但標誌著以色列與英國關係的惡化。"
+    },
+    {
+      "id": "mkt:01a16cf3-419c-7ee0-a962-4e0ab1201631",
+      "time": "2026-10-24 16:07:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "【Argentine judge drops criminal probe of President Milei in $LIBRA crypto case】A federal judge in Argentina on the 23rd revoked the criminal investigation into President Javier Milei and 10 others over the $LIBRA cryptocurrency project, saying evidence was insufficient to prove fraud or abuse of office. Judge Marcelo Martínez de Giorgi cleared 11 people, including Milei, his sister and presidential chief of staff Karina Milei. Milei posted on social media the same day seeking compensation for reputational damage."
+    },
+    {
+      "id": "5166104",
+      "time": "2026-10-24 16:03:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皖能集團“陝電入皖”配套新能源專案投資運營主體成立】據皖能集團訊息，10月23日，延安皖能寶合新能源有限公司完成註冊設立。該公司作為皖能集團承接“陝電入皖”288萬千瓦配套新能源指標的專案投資運營主體，將負責吳起、安塞、延川等地風光資源的規模化開發。延安皖能寶合公司完成工商註冊，標誌著皖能集團“陝電入皖”配套新能源專案由前期籌備轉入實體化推進階段。目前，皖能吳起鐵邊城500兆瓦光伏發電專案作為該公司首個擬開工建設專案，正在緊鑼密鼓推進中。專案建成投產後，綠色電力將經“陝電入皖”特高壓通道輸送安徽。"
+    },
+    {
+      "id": "5166103",
+      "time": "2026-10-24 16:00:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九號公司將於明年推出賽格威品牌新品】10月23日，九號公司與米其林在九號常州基地舉行戰略合作簽約儀式。九號公司與米其林簽約後，雙方將圍繞輪胎與整車原配、抓地力、耐磨性、舒適性及售後服務展開合作，共同提升智慧電動兩輪車的騎行體驗與安全效能。九號公司中國經營事業部總裁何飛龍還透露，九號明年還將正式推出賽格威品牌的全新產品，並同步開啟中國及全球市場佈局。"
+    },
+    {
+      "id": "5166102",
+      "time": "2026-10-24 15:57:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭方面表示，“星鏈”（Starlink）和“星盾”（Starshield）衛星終端在時速超過161公里時已能正常工作，在時速超過400公里時也能保持連線穩定。烏克蘭國防部正在進行進一步測試，以確認所有限制措施是否已全部解除。"
+    },
+    {
+      "id": "5166101",
+      "time": "2026-10-24 15:54:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國聯通：已在蘋果直營店/授權店安排駐店員，協助iPhone Duo購機使用者開通eSIM】10月23日上午，蘋果首款純eSIM摺疊屏iPhone Duo正式開售。中國聯通現已同步開售。聯通華盛通訊有限公司終端銷售部總經理姚惠華介紹，2009年買過iPhone的老使用者將享有聯通渠道最高優先順序的iPhone Duo購機資格；新機可在中國聯通蘋果授權店、中國聯通APP以及“iPhone Duo優先購”聯通官方購機Skill第一時間預約購買。開通也不難。除中國聯通營業廳外，聯通已在蘋果直營店、APR蘋果授權店等多家門店安排千餘名駐店員，協助使用者現場開通eSIM，全程僅需約3分鐘。"
+    },
+    {
+      "id": "5166099",
+      "time": "2026-10-24 15:50:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海釋出黃浦江高潮位藍色預警】上海市水文總站2026年10月24日15時30分發布黃浦江高潮位藍色預警訊號：受2630號颱風“薔琵”、冷空氣和天文大潮共同影響，預計25日12時15分黃浦江蘇州河口最高潮位達到4.65米左右。市防汛指揮部要求各級防汛機構、沿江沿河各單位檢查落實防範措施。"
+    },
+    {
+      "id": "mkt:01a16ce3-7293-7ee0-a962-47b854f03095",
+      "time": "2026-10-24 15:50:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's defense minister said Starlink/Starshield connectivity has been restored and operates normally at speeds up to 400 km/h."
+    },
+    {
+      "id": "5166098",
+      "time": "2026-10-24 15:49:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國防部長表示，星鏈/星盾連線已恢復，速度達每小時400公里。"
+    },
+    {
+      "id": "5166097",
+      "time": "2026-10-24 15:47:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭稱針對“星鏈”的所有限制均已解除。"
+    },
+    {
+      "id": "mkt:01a16ce0-9742-7ee0-a962-3f80c5f42221",
+      "time": "2026-10-24 15:47:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "0700.HK",
+        "Impact bullish"
+      ],
+      "text": "【Tencent WorkBuddy integrates Kimi K3.1‑Pro model】Tencent's WorkBuddy said it has integrated model Kimi K3.1‑Pro and deployed the high-speed variant Kimi K3.1 Pro Highspeed. The company says the model delivers comparable intelligence with roughly 2–3x output speed. Capacity is currently constrained; access is being prioritised for Enterprise Flagship customers and individual paid subscribers."
+    },
+    {
+      "id": "5166096",
+      "time": "2026-10-24 15:45:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊WorkBuddy接入模型Kimi-K3.1-Pro】騰訊WorkBuddy宣佈已接入模型Kimi-K3.1-Pro。據介紹，WorkBuddy同步接入高速版模型Kimi K3.1 Pro Highspeed，同等智慧，輸出速度約2-3倍。目前資源緊張，現階段僅對“企業旗艦版”及“個人訂閱使用者”優先開放。"
+    },
+    {
+      "id": "5166093",
+      "time": "2026-10-24 15:39:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【企業微信回應少量賬號髮色情資訊】10月24日，少量企業微信賬號向客戶傳送疑似色情引流資訊。 隨後，企業微信釋出公告，“經企業微信安全團隊排查，確認為某第三方外掛軟體服務被攻破，導致使用該外掛服務的賬號受到影響。我們已將受影響的賬號強制下線，並封禁相關引流連結。 此次事件再次敲響警鐘：以“賬號多開”、“群控”等為噱頭的外掛軟體，存在巨大的安全隱患和隱私風險。使用此類服務，可能導致賬號被他人操控、企業資料和客戶資訊洩露，危及企業正常經營，損害客戶權益。所謂的“效率提升”，不能以犧牲安全和信任為代價。 為保護企業和使用者的合法權益，維護安全、健康的平臺生態，企業微信將進一步加大對外掛軟體的打擊力度： 一、持續排查和清理外掛軟體。加強對篡改客戶端、繞過平臺安全機制及使用限制等外掛行為的識別和處置，持續打擊外掛軟體及其開發、銷售行為，並依法追究相關主體的責任。 二、嚴肅處理使用外掛的違規行為。對使用外掛軟體的賬號，企業微信將依據平臺相關協議和規範，視違規情節採取相應處理措施。請正在使用外掛的企業和使用者立即停用相關軟體及服務，排查賬號安全隱患，避免企業經營和客戶服務受到進一步影響。 企業賬號承載著企業長期積累的客戶關係和信任。我們呼籲企業、員工和服務商共同拒絕外掛，安全、規範地使用賬號。 企業微信將堅決、持續打擊外掛軟體，切實維護企業和使用者的合法權益。”"
+    },
+    {
+      "id": "mkt:01a16cd9-75cb-7ee0-a962-375c297c0e0a",
+      "time": "2026-10-24 15:39:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600221.SS",
+        "Impact bullish"
+      ],
+      "text": "【HNA Holdings and Beijing Zero‑G Space sign strategic cooperation to expand aircraft communications】Oct 23 — HNA Holdings (600221) signed a strategic cooperation agreement with Beijing Zero‑G Space Technology Co. to jointly develop aircraft communication services and drive exploration and implementation of related businesses. HNA said the tie-up will also advance its efforts to pursue satellite communications business opportunities."
+    },
+    {
+      "id": "mkt:01a16cd8-c67a-7ee0-a962-2eabf6e16908",
+      "time": "2026-10-24 15:38:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China first marriages rebound to 10.42 mln in 2025】China recorded 6.7651 mln marriage registrations in 2025 (including first and remarriages), up 10.8% YoY, the China Statistical Yearbook 2026 compiled by the National Bureau of Statistics shows. First marriages totaled 10.4233 mln and remarriages 3.1069 mln; first marriages rose by 1.251 mln YoY and topped 10 mln again. Guangdong recorded 1.009 mln first marriages, the only province above 1 mln. First marriages are more closely linked to birth trends than remarriages."
+    },
+    {
+      "id": "5166092",
+      "time": "2026-10-24 15:37:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：歐洲、中東八國外長開會討論美伊局勢，“均不贊成對伊朗發動新打擊”】據卡達半島電視臺、法新社等媒體報道，來自歐洲和中東地區的八個國家外長當地時間23日齊聚土耳其最大城市伊斯坦布林，就美伊衝突、霍爾木茲海峽局勢等地區問題進行討論。會後，與會國家達成共識，均不贊成對伊朗發動任何新一輪襲擊。 報道稱，這些國家包括英國、法國、德國、義大利、土耳其、埃及、巴基斯坦和沙烏地阿拉伯。 （環球網）"
+    },
+    {
+      "id": "mkt:01a16cd4-d3a9-7ee0-a962-20264eed0b80",
+      "time": "2026-10-24 15:34:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pentagon releases new UAP files; matte-black triangle sighting highlighted】The Pentagon on the 23rd released 10 files on unidentified anomalous phenomena (UAP), the seventh batch of such disclosures since May. UAP is the U.S. government's term for unexplained phenomena in air, space, land or sea, including UFOs. According to the released report, three federal agents this year near a U.S. secure facility observed a matte-black triangular object with an estimated 4.5m wingspan. The object rose vertically to about 90m above a ridge without tilting, hovered for roughly 20 seconds, then accelerated horizontally—covering approximately 2.4km in about 3 seconds, a speed the report likened to fighter jets—emitted no sound and disappeared."
+    },
+    {
+      "id": "5166091",
+      "time": "2026-10-24 15:32:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中歐班列 “東通道” 年內通行量突破6000列】10月23日，一列滿載板材、大麥的回程中歐班列駛入綏芬河鐵路口岸。2026年以來，滿洲里站、綏芬河站、同江北站——中歐班列“東通道”三大口岸站持續升級通關保障能力。截至10月20日，通行總量突破6000列，日均班列進出境達83.7列。"
+    },
+    {
+      "id": "mkt:01a16cd2-df62-7ee0-a962-19c703cd8697",
+      "time": "2026-10-24 15:32:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Industrial facilities in Tolyatti, Russia were damaged in an attack."
+    },
+    {
+      "id": "5166090",
+      "time": "2026-10-24 15:31:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【首批俄羅斯柴油已運往美國】據《俄羅斯報》網站10月23日報道，俄羅斯副總理亞歷山大·諾瓦克對媒體表示，首批三艘載有俄羅斯柴油燃料的油輪已啟程前往大西洋西岸。 他表示，根據此前達成的旨在滿足世界燃料市場需求的協議，俄羅斯將向美國和世界市場供應更多柴油。 塔斯社援引諾瓦克的話指出，俄公司僅在10月就可能出口50萬噸柴油燃料，這一出口量是在確保對俄國內市場充分供應的前提下確定的。 俄副總理猜測，出口柴油的主要部分可能來自俄羅斯石油公司的庫存。 此前有報道稱，根據先前達成的協議，俄羅斯10月將向美國和其他國家市場供應逾30萬噸柴油，在11月和11月之後再分別供應50萬噸和100萬噸柴油。俄羅斯在今年年底之前出口的柴油總量可能超過300萬噸。（參考訊息）"
+    },
+    {
+      "id": "5166088",
+      "time": "2026-10-24 15:29:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯陶里亞蒂工業設施遇襲受損。"
+    },
+    {
+      "id": "5166087",
+      "time": "2026-10-24 15:28:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國公佈新一批UFO檔案 神秘“黑三角”引關注】美國國防部23日公佈10份有關“不明飛行物（UFO）”等“不明異常現象（UAP）”的檔案，這是美國政府今年5月以來公佈的第七批此類檔案。其中，一個今年記錄到的大型“啞光黑色三角狀”飛行物引起了特別關注。根據最新公佈的報告，在今年的一個晚上，3名聯邦特工在一處美國安全設施附近看見無法識別的神秘飛行物：一個大型“啞光黑三角”。該飛行物翼展約4.5米，外觀與無人機相似，在山脊線上方垂直上升約90米，沒有傾斜或搖擺，而後懸停，大約20秒後水平飛離，3秒內飛行距離達到2.4公里，速度堪比戰鬥機，且沒有發出任何聲音，最終消失得無影無蹤。（新華社）"
+    },
+    {
+      "id": "5166086",
+      "time": "2026-10-24 15:27:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、特朗普論伊朗： 我們可能會再來一次小小的“史詩之怒”行動，或者他們會同意。 如果他2、們聰明，他們就會直接說：“讓我們言歸正傳吧。” \n3、特朗普稱，美國可以非常迅速地解決伊朗戰爭，只是需要考慮徹底解決伊朗問題還是任伊朗衰敗。美國會在霍爾木茲海峽抽取所有想要的石油。\n4、特朗普稱，俄烏雙方都希望達成停火。\n5、特朗普稱，他不清楚誰給烏克蘭星鏈專案實行了限速，並承諾如果存在問題，他會解決。他還表示可能需要和馬斯克會談。\n6、特朗普稱和英國首相通了電話，討論了北海石油開採問題，還討論了伊朗和烏克蘭相關問題。\n7、特朗普談古巴問題時表示將會派魯比奧去完成協議。\n8、特拉普表示即將於墨西哥達成協議。\n9、特朗普稱加拿大正努力與美國達成協議，對加拿大關稅調整將於10月30日生效。\n10、特朗普稱讚馬斯克才華橫溢，並表示需要保護像馬斯克這樣的天才，認為他這樣的天才不會做錯事。\n11、特朗普稱，他不急於任命新的新聞秘書。\n12、特朗普表示，他想把“新墨西哥”改名叫“新美國”（ New America ）。\n13、特朗普宣佈，美國政府將投資2.5億美元，在全美養老護理機構中至少新聘5000名護士，佛羅里達州也在其中。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610243907091660",
+      "time": "2026-10-24 15:26:51",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【31省份2025年婚姻資料公佈】國家統計局編著出版的《中國統計年鑑2026》顯示，2025年全年全國結婚登記為676.51萬對。根據《中國統計年鑑2026》，2025年結婚登記人數前十的省份分別是廣東、河南、山東、四川、江蘇、河北、浙江、安徽、貴州、雲南。"
+    },
+    {
+      "id": "mkt:01a16cc9-be07-7ee0-a962-14b41b9acb52",
+      "time": "2026-10-24 15:22:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli forces launch operations in the West Bank】Israeli forces began operations in multiple West Bank locations, including Hebron and Jenin, on the 23rd, a news agency reported. The army said the actions were a response to an attack on Israeli soldiers in Hebron that morning. On the evening of the 23rd, forces demolished numerous Palestinian structures in western Hebron, including commercial and industrial buildings, and ordered several Palestinian families to leave their homes. The army also raided a Palestinian neighborhood near Jenin that night and verbally told multiple families to vacate within a week."
+    },
+    {
+      "id": "5166082",
+      "time": "2026-10-24 15:19:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【去年全國結婚登記676萬對。廣東結婚登記人數連續四年第一】國家統計局編著出版的《中國統計年鑑2026》顯示，2025年全年全國結婚登記為676.51萬對。 資料顯示，去年我國結婚人數最多的是廣東省，為61.38萬對，也是全國唯一一個結婚登記人數超過60萬對的省份，且已連續四年位居全國第一。2025年廣東結婚人數比上一年增加了10.19萬對，同比增加了19.9%。"
+    },
+    {
+      "id": "5166081",
+      "time": "2026-10-24 15:18:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列軍隊在約旦河西岸展開軍事行動】據巴勒斯坦通訊社報道，以色列軍隊自23日起在約旦河西岸的希伯倫、傑寧等多地展開軍事行動。以軍稱這是對當天早晨以軍士兵在希伯倫遭襲事件的反制措施。報道稱，以軍23日晚間在希伯倫西部搗毀了大量巴勒斯坦人的建築，其中包括商業建築和工業設施，並要求多個巴勒斯坦家庭離開自己的住所。報道還稱，以軍23日晚間還突襲了傑寧附近的巴勒斯坦人聚居區，並口頭通知多個巴勒斯坦家庭在一週之內搬離住所。以色列國防軍23日發表宣告稱，將在希伯倫地區開展“精準、定向、全面”的搜查行動，定位並摧毀“恐怖分子”的設施和武器。（新華社）"
+    },
+    {
+      "id": "5166080",
+      "time": "2026-10-24 15:18:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小紅書“大城小聚”活動落地北京首鋼園】從10月24日起，為期一週的“大城小聚”將在北京首鋼園及周邊展開，涵蓋互動展、市集、音樂節與線下交流會四大板塊。據悉，這也是小紅書成立13年來首次在北京舉辦的大型城市主題活動。據瞭解，該活動開始前，預熱內容在小紅書站內已有近1億曝光，超過2萬人次參與報名。（新浪科技）"
+    },
+    {
+      "id": "5166079",
+      "time": "2026-10-24 15:14:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海航控股與零重空間將在飛機通訊服務領域開展戰略合作】10月23日，海南航空控股股份有限公司與北京零重空間技術有限公司簽署戰略合作協議。據悉，雙方將在飛機通訊服務領域開展戰略合作，共同推動飛機通訊服務相關業務的探索與落地。本次合作也將推動海航控股進一步探索衛星通訊領域的業務機會。"
+    },
+    {
+      "id": "5166078",
+      "time": "2026-10-24 15:14:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局（NHTSA）：福特在美國召回 3376 輛汽車。此次召回涉及部分防抱死制動系統（ABS）模組，這些 ABS 模組在進行更換時，可能被寫入了錯誤的軟體程式，導致 ABS 功能失效，並影響制動平衡，進而增加車輛的制動距離，提高發生碰撞的風險。"
+    },
+    {
+      "id": "mkt:01a16cc0-edb7-7ee0-a962-0c5178960279",
+      "time": "2026-10-24 15:12:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Death toll from attack on church in Karak, Jordan rises to 8."
+    },
+    {
+      "id": "5166077",
+      "time": "2026-10-24 15:12:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【瑞士股市成為市場AI恐慌下的避風港】在歐洲股市震盪之際，瑞士一眾防禦屬性極強的大型龍頭股成為一抹亮色。瑞士市場指數跟蹤該國20只流動性最好的大盤股，本月累計上漲4.6%；而歐元區對標指數歐洲斯托克50指數同期下跌3.2%。瑞士股指近8個百分點的超額收益，是2020年3月以來最高水平——當年疫情衝擊全球，投資者爭相尋找避險資產。這一漲幅背後，是面對融資成本走高、AI交易行情遭遇質疑，疊加法國、西班牙等國政局動盪，歐洲投資者正在主動降低風險敞口。指數的上漲主要由三大權重股拉動：藥企羅氏控股10月上漲12%，諾華上漲6.7%；全球食品巨頭雀巢上漲10%。本月瑞士指數的全部漲幅，都來自這三隻老牌防禦龍頭。EFG資產管理瑞士股票主管達米安・伯克哈特表示：“投資者看好瑞士個股的防禦屬性，正在主動尋找擁擠的AI交易之外的替代方向。此前醫藥板塊的資金被抽走去追AI，現在這個趨勢正在反轉。”美銀最新基金經理調查同樣顯示，市場對瑞士股票的偏好顯著升溫，淨16%的受訪基金經理將瑞士選為最看好的歐洲股市。"
+    },
+    {
+      "id": "mkt:01a16cc0-ba73-7ee0-a962-02ad7ee84b78",
+      "time": "2026-10-24 15:12:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Industrial Internet OS industry alliance formed in Shenzhen】An Industrial Internet Operating System industry alliance was launched at the CEIC 2026 Consumer Electronics Innovation Conference in Shenzhen. Li Qingxin, researcher at the Shenyang Institute of Automation, Chinese Academy of Sciences, presented the OS architecture and said factories deploying embodied intelligence must connect design-to-manufacturing and management-to-control business chains and integrate human, machine, material, process and environment elements. He set out four core OS requirements: cross-domain and cross-platform design, trustworthy task execution, consistent model migration, and multi-hardware device adaptation."
+    },
+    {
+      "id": "5166076",
+      "time": "2026-10-24 15:12:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局 (NHTSA) ：大眾汽車集團在美國召回 9048 輛汽車，涉及部分 2024-2025 款 Q4 E-Tron 和 Q4 Sportback E-Tron 車型，原因是高壓電池可能發生故障並引發火災。"
+    },
     {
       "id": "5166075",
       "time": "2026-10-24 15:10:40",

@@ -1,7 +1,894 @@
 {
-  "updated": "2026-10-24 15:12:30",
-  "count": 13011,
+  "updated": "2026-10-24 18:01:48",
+  "count": 13020,
   "items": [
+    {
+      "id": "5166171",
+      "time": "2026-10-24 18:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【張雪將於明日在湖南麻陽挑戰吉尼斯世界紀錄】10月25日，“張雪機車”創始人張雪將駕駛改裝摩托車張雪機車MX450，在湖南省懷化市麻陽苗族自治縣郭公坪鎮小坡村挑戰擬定40公里距離的“改裝摩托車在開闊水域行駛最遠距離”吉尼斯世界紀錄。（央視新聞）"
+    },
+    {
+      "id": "5166170",
+      "time": "2026-10-24 17:55:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智元挑戰110臺遠征A3全尺寸人形機器人同時協同跳舞】記者獲悉，今日，智元遠征A3在山東濟南發起吉尼斯世界紀錄挑戰，創下“最多人形機器人同時跳舞”紀錄。110臺智元遠征A3全尺寸人形機器人同一時間協同起舞，根據指示進行協同舞蹈、波浪狀、倒計時數字等。（證券時報）"
+    },
+    {
+      "id": "mkt:01a16d51-95bd-7ee0-a963-193cf04d2516",
+      "time": "2026-10-24 17:50:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kehlsteinhaus (Eagle's Nest) reportedly burned in suspected arson】On Oct. 23 at about 9:50 p.m. local time a fire broke out at the Kehlsteinhaus (Eagle's Nest) near Berchtesgaden in Bavaria, a site formerly used by Hitler for social receptions. Footage showed the building rapidly engulfed; roughly 200 firefighters were deployed. German police said on Oct. 24 they had detained one suspect and that no one was injured."
+    },
+    {
+      "id": "em:jjsj_oyqsj:202610243907102639",
+      "time": "2026-10-24 17:43:11",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【綜合PMI再度走低 歐元區經濟韌性面臨考驗】標普全球23日公佈的初步調查資料顯示，歐元區10月綜合採購經理指數（PMI）從9月的53.1降至51.9，創四個月新低，表明歐元區私營部門經濟活動擴張放緩。這一變化表明，歐元區經濟雖保持一定韌性，但能源成本上升、通脹壓力加大和融資條件收緊正削弱增長動力，也使歐洲央行面臨更加複雜的政策抉擇。"
+    },
+    {
+      "id": "mkt:01a16d4a-b272-7ee0-a963-17816790df4a",
+      "time": "2026-10-24 17:42:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fifth Asian Para Games close in Nagoya, Japan】The fifth Asian Para Games concluded in Nagoya on the 24th. China’s delegation won 207 gold, 117 silver and 111 bronze medals, topping both the gold and overall medal tables for a fifth consecutive Games and recording its best-ever result at an overseas edition."
+    },
+    {
+      "id": "mkt:01a16d48-b899-7ee0-a963-0cede64712cd",
+      "time": "2026-10-24 17:40:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The United States seeks to expand its involvement in operations targeting Mexican drug cartels."
+    },
+    {
+      "id": "mkt:01a16d46-1b9d-7ee0-a963-0766b9c1bc0c",
+      "time": "2026-10-24 17:37:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NVIDIA discontinuation rumors unsettle Huaqiangbei; RTX 50-series prices spike】Rumors that some consumer NVIDIA GPUs may be discontinued are disrupting Huaqiangbei’s computer-parts market and driving daily price volatility. Dealers say the biggest moves from September into October are concentrated in graphics cards, with rapid channel-price jumps. High-end RTX 50-series: RTX 5090 had an official launch MSRP of ~15,000–16,000 yuan and channel quotes have surged from roughly 30,000 yuan a short time ago to about 50,000–60,000 yuan now. RTX 5080 launched near 8,000 yuan; channel quotes have risen to ~17,000 yuan from ~12,000 yuan two weeks ago (a ~4,000–5,000 yuan increase)."
+    },
+    {
+      "id": "mkt:01a16d40-9a9a-7ee0-a962-f85fa92f0216",
+      "time": "2026-10-24 17:31:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhou Hongyi to sell 12.89929% stake in Beijing Qifei Xiangyi at CNY 219 mln reserve price】Beijing Property Rights Exchange posted on Oct 24 that Zhou Hongyi plans to transfer a 12.89929% stake in Beijing Qifei Xiangyi Business Consulting Co., Ltd. The reserve price is about CNY 219 mln; the public disclosure period is Oct 26–Nov 20, 2026. A shareholder resolution on Mar 13, 2026 approved profit distribution; the transferor received a dividend of about CNY 54.177032 mln. The reserve price has been reduced from the appraisal value by that dividend amount."
+    },
+    {
+      "id": "5166165",
+      "time": "2026-10-24 17:28:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【周鴻禕擬以底價2.19億元轉讓奇飛翔藝12.9%股權】據北京產權交易所網站，周鴻禕擬轉讓北京奇飛翔藝商務諮詢有限公司12.89929％股權，轉讓底價約為2.19億元，披露期為2026年10月26日至11月20日。標的資產已於2026年3月13日形成關於公司利潤分配的股東決議，轉讓方獲得分紅金額為約5417.7032萬元。本次資產轉讓底價已在評估價值基礎上對前述分紅金額進行扣除。"
+    },
+    {
+      "id": "5166164",
+      "time": "2026-10-24 17:27:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國方面據悉謀求更多參與打擊墨西哥販毒集團的行動。"
+    },
+    {
+      "id": "mkt:01a16d3b-a318-7ee0-a962-f41b2f4cace3",
+      "time": "2026-10-24 17:26:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Russia says it struck 147 Ukrainian sites, reports downing missiles and 1,297 UAVs】Russia said its tactical and attack aviation, strike UAVs, missile units and artillery struck 147 Ukrainian sites, hitting energy and transport infrastructure, storage and launch points for long-range drones, and temporary deployment areas for Ukrainian forces and foreign mercenaries. Russian air defenses shot down one Storm Shadow cruise missile, four Neptune missiles and 1,297 fixed‑wing UAVs."
+    },
+    {
+      "id": "5166163",
+      "time": "2026-10-24 17:25:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱打擊烏外國僱傭兵部署點】今天（10月24日），俄羅斯釋出戰報稱，俄軍各部隊叢集的戰役戰術航空兵、攻擊型無人機、導彈部隊和炮兵對147個區域烏克蘭武裝部隊使用的能源和交通基礎設施、遠端無人機的儲存和發射點，以及烏軍部隊和外國僱傭兵的臨時部署點實施了打擊。俄軍防空力量擊落一枚“風暴陰影”巡航導彈、四枚“海王星”導彈和1297架固定翼無人機。 當天，烏克蘭武裝部隊總參謀部釋出資訊稱，過去一天前線地區發生181次戰鬥。過去一天，烏空軍、導彈部隊和炮兵打擊了俄軍2處人員和裝備集結區、3門火炮、1處無人機指揮所和2個重要目標。過去一天，烏軍摧毀俄軍64套火炮系統、8套地面機器人系統、1855架無人機等。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a16d3a-3b0c-7ee0-a962-ec2474796aa2",
+      "time": "2026-10-24 17:24:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bipartisan U.S. lawmakers say AI executives out of touch, urge less talk and more action】Axios, citing sources, reports bipartisan U.S. lawmakers, congressional staff and Washington political figures view leading AI founders and executives as a growing political liability and are urging them to adopt a lower public profile, focus on product development and ensure safety. Officials say industry rhetoric about digital consciousness and global catastrophe has pushed the regulatory debate toward near moral panic; executives have not effectively promoted AI's benefits or prospects for broad-based prosperity and instead repeatedly warn of existential risk. Lawmakers and regulators say messaging that swings between boom and doomsday—sometimes within the same public event—heightens political friction and is intensifying public backlash against the AI industry."
+    },
+    {
+      "id": "5166161",
+      "time": "2026-10-24 17:23:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美航空航天局公佈“阿耳忒彌斯3號”任務最新安排】美國航空航天局23日公佈“阿耳忒彌斯3號”任務最新安排。按計劃，該任務將於2027年把4名宇航員送入近地軌道，先後與美國藍色起源公司和太空探索技術公司研製的登月系統測試飛行器開展交會對接等測試，為後續“阿耳忒彌斯4號”載人登月任務做準備。據介紹，“阿耳忒彌斯3號”任務計劃持續14天，將使用3枚不同的運載火箭，分別將藍色起源公司研發的“藍月Mark 2”號月球著陸器測試版、“獵戶座”載人飛船和“星艦”測試飛行器送入太空。任務旨在驗證不同航天器在軌協同工作的能力，演練交會、對接、艙內操作等關鍵程式，降低未來載人登月的風險。（新華社）"
+    },
+    {
+      "id": "5166160",
+      "time": "2026-10-24 17:23:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總理馬德布利：兩年內糧食倉儲容量將提升至 600 萬噸。"
+    },
+    {
+      "id": "5166157",
+      "time": "2026-10-24 17:21:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總理：埃及糧食倉儲容量已達400萬噸。"
+    },
+    {
+      "id": "5166156",
+      "time": "2026-10-24 17:20:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總理：埃及小麥自給率從43%提升至52%。"
+    },
+    {
+      "id": "5166155",
+      "time": "2026-10-24 17:18:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬那杜維拉港附近海域發生5.9級地震】據歐洲與地中海地震中心測定，當地時間10月24日19時56分，萬那杜維拉港西北510公里處海域發生5.9級地震，震源深度10公里，震中位於南緯13.942度，東經165.647度。"
+    },
+    {
+      "id": "5166151",
+      "time": "2026-10-24 17:11:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告：渤海部分海域執行實彈射擊，禁止駛入】據中國海事局網站訊息，大連海事局釋出航行警告，10月25日1時至6時，渤海部分海域執行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "mkt:01a16d29-b819-7ee0-a962-e639c7ba83d5",
+      "time": "2026-10-24 17:06:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Indonesia cuts pipeline gas exports to Singapore by about 9%】SKKMigas said from Saturday Indonesia cut pipeline gas exports to Singapore by 31 mmscfd (31 million standard cubic feet per day), aiming to redirect the volume to the domestic power sector."
+    },
+    {
+      "id": "5166146",
+      "time": "2026-10-24 17:05:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西總統選舉最終電視辯論結束】當地時間10月23日晚，巴西現任總統、勞工黨候選人盧拉和前總統雅伊爾·博索納羅之子、自由黨候選人弗拉維奧·博索納羅舉行巴西總統選舉第二輪投票前的最後一次電視辯論，雙方聚焦生活成本、最低工資、公共安全和基礎設施投資等問題。辯論過程中，盧拉要求博索納羅就叫他“九指”一事向他道歉，盧拉表示他曾在工作中失去過一根手指，而博索納羅“沒有真正工作過一天”。博索納羅則反問說，他可以就此事向盧拉道歉，但盧拉打算向他執政期間翻倍的無家可歸者道歉嗎？盧拉回應說，巴西的精英階層應該對國家的歷史問題道歉。（CCTV國際時訊）"
+    },
+    {
+      "id": "5166145",
+      "time": "2026-10-24 17:04:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍（IDF）：昨天（週五），在兩起獨立事件中，以色列國防軍部隊在加沙地帶北部和南部發現兩名越過“黃線”的恐怖分子。在確認其身份後，部隊將這些恐怖分子擊斃。"
+    },
+    {
+      "id": "5166144",
+      "time": "2026-10-24 17:03:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月24日16時47分在青海玉樹州雜多縣（北緯32.54度，東經94.00度）發生3.4級地震，震源深度10千米。"
+    },
+    {
+      "id": "5166143",
+      "time": "2026-10-24 17:03:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫光股份：算力基礎設施建設帶動公司網路、伺服器等產品需求持續向好】紫光股份(000938)10月24日在互動平臺回覆投資者稱，算力基礎設施建設帶動公司網路、伺服器、超節點產品需求持續向好，公司將與產業鏈上下游高效協同，依託多元、穩健、可持續的供應鏈體系，保障交付的穩定與連續。海外業務拓展方面，年初至今，已落地多個海外標杆專案。"
+    },
+    {
+      "id": "5166142",
+      "time": "2026-10-24 16:59:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛才發生的5.3級地震（青海玉樹州雜多縣 ）是西藏巴青7.0級地震的一次強餘震，也是目前最大的餘震，兩次震中相距約23公里 。（中國地震臺網）"
+    },
+    {
+      "id": "mkt:01a16d23-2456-7ee0-a962-db222013edce",
+      "time": "2026-10-24 16:59:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Meichen Technology: unit wins contract to supply energy-storage liquid-cooling piping assemblies for leading domestic client】Meichen Technology said on the 24th its unit, Meichen Industrial Group, has won a contract from a leading domestic client to supply energy-storage liquid-cooling piping assemblies. The project covers supply of liquid-cooling pipeline systems and aims to ensure stable, reliable delivery of high-performance heat-dissipation piping to support the client’s compute cooling requirements."
+    },
+    {
+      "id": "5166141",
+      "time": "2026-10-24 16:59:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美晨科技：旗下美晨工業集團中標國內頭部客戶儲能液冷管路總成專案】據美晨科技24日訊息，日前，公司旗下美晨工業集團中標國內頭部客戶儲能液冷管路總成專案。該專案將聚焦液冷管路系統配套，全力保障高效能散熱管路的穩定可靠交付，助力客戶算力散熱需求順利落地。"
+    },
+    {
+      "id": "5166139",
+      "time": "2026-10-24 16:57:24",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【印尼將輸往新加坡的管道天然氣出口量削減約9%】印尼上游油氣監管機構SKK Migas表示，自週六起，印尼削減了每日3100萬標準立方英尺（mmscfd）的管道天然氣對新加坡出口量，旨在將這部分供應轉用於國內電力部門。SKK Migas負責人Djoko Siswanto透露，印尼削減了來自納土納（Natuna）的1500萬標準立方英尺天然氣供應，以及來自蘇門答臘（Sumatra）的1600萬標準立方英尺天然氣供應。印尼對新加坡的天然氣出口絕大多數透過管道輸送，此次削減量約佔該供應總量的9%。Djoko表示：“為保障國內發電用氣的供應可靠性，從即日起，原定輸往新加坡的天然氣將轉供國內使用。”"
+    },
+    {
+      "id": "mkt:01a16d20-7004-7ee0-a962-d534dfdfff78",
+      "time": "2026-10-24 16:56:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Saudi-led coalition said it intercepted and destroyed two ballistic missiles launched by Yemen's Houthi militants toward Taif and Yanbu in Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a16d1f-547f-7ee0-a962-c94496bb31a0",
+      "time": "2026-10-24 16:55:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Indonesia will reduce pipeline natural gas exports to Singapore by about 9%."
+    },
+    {
+      "id": "5166138",
+      "time": "2026-10-24 16:54:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【恆瑞醫藥披露瑞康曲妥珠單抗用於HER2低表達晚期乳腺癌Ⅲ期研究資料】2026年歐洲腫瘤內科學會（ESMO）年會於當地時間10月23日至27日在西班牙馬德里舉辦。期間，恆瑞醫藥自主研發的HER2-ADC瑞康曲妥珠單抗（SHR-A1811）治療HER2低表達晚期乳腺癌的Ⅲ期HORIZON-Breast06研究公佈，研究全文同步發表於頂級期刊《美國醫學會雜誌》。研究證實，無論在晚期階段未接受化療人群還是全人群，瑞康曲妥珠單抗均顯示出統計學顯著性且具有臨床意義的PFS延長。"
+    },
+    {
+      "id": "5166137",
+      "time": "2026-10-24 16:53:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美今年已報告麻疹病例超4500例 實際可能更多】美國疾病控制和預防中心23日公佈的最新資料顯示，截至22日，美國2026年已累計報告4588例麻疹確診病例，已超過2025年全年病例總數的2倍。一些公共衛生專家認為，由於存在病例漏報，美國實際感染人數可能遠高於官方統計。（新華社）"
+    },
+    {
+      "id": "mkt:01a16d1b-ba76-7ee0-a962-c424d0cc24b7",
+      "time": "2026-10-24 16:51:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cenc recorded a magnitude-5.3 earthquake at 16:39 on Oct 24 in Zaduo County, Yushu Prefecture, Qinghai, China (32.54°N, 93.97°E); focal depth 10 km."
+    },
+    {
+      "id": "5166134",
+      "time": "2026-10-24 16:51:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月24日16時39分在青海玉樹州雜多縣（北緯32.54度，東經93.97度）發生5.3級地震，震源深度10千米。"
+    },
+    {
+      "id": "5166132",
+      "time": "2026-10-24 16:50:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津市首宗“土地+地熱”組合供應專案掛牌出讓】10月22日，在天津市規劃資源局政務網站，濱海新區中新生態城中心漁港66581.8平方米國有建設用地使用權與1.2139平方千米地熱勘查探礦權組合供應專案正式掛牌公示，組合掛牌總金額4013萬元，成為天津市首宗“土地+地熱”組合供應專案。此次掛牌出讓的建設用地和地熱探礦權區塊，位於中新生態城中心漁港域內，土地規劃用途為港口用地，混合不高於45%工業用地。"
+    },
+    {
+      "id": "5166131",
+      "time": "2026-10-24 16:49:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬副總裁澄清00後產品經理釋出會“老登”用詞：內部調侃，不指向外部使用者】10月24日，小鵬集團副總裁@托馬斯電火車 釋出長文，還原小鵬MONA產品經理恩塔釋出會“老登”用詞事件全過程。他明確表示，自始至終，“老登”這個稱呼，是產品團隊對內部幾個核心負責人的調侃，完全沒有指向任何外部使用者，“幾位‘老登’沒一個不悅，反而在內部反覆表揚”。“老登並不讓人反感，老登並不讓人反感，有些人的登味兒才讓人厭惡，少一些對00後的口誅筆伐。”他表示，“恩塔依然會站在釋出會上，和產品經理歐陽娜娜，以及‘老登代表’何小鵬一起，聯袂講解。”"
+    },
+    {
+      "id": "mkt:01a16d19-07ed-7ee0-a962-bf5dcfd58d2f",
+      "time": "2026-10-24 16:48:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【China Merchants Securities' Zhang Jingjing: A-shares likely to extend rebound; window for long-term allocations nears】China Merchants Securities macro chief analyst Zhang Jingjing says China’s A-share market is likely to extend the Oct. 23 rebound. She cites continued strong exports since Q3, active policy measures supporting domestic demand, a low probability of a Fed rate hike in October that could ease global liquidity temporarily, and regulatory steps plus expectations of long-term fund inflows. Zhang expects Q4 to be a typical window for insurers and other long-term capital to position for next year, with incremental inflows likely to lift low-valuation names with earnings cushions and growth prospects."
+    },
+    {
+      "id": "5166130",
+      "time": "2026-10-24 16:48:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：10月24日16時39分，在青海玉樹州雜多縣附近（北緯32.59度，東經94.04度）發生5.1級左右地震。最終結果以正式速報為準。"
+    },
+    {
+      "id": "5166129",
+      "time": "2026-10-24 16:47:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德媒：德國旅遊景點、希特勒“老巢”被縱火燒燬】據德媒10月23日報道，納粹德國領導人希特勒的“老巢”、位於德國南部巴伐利亞州貝希特斯加登的凱爾施泰因山莊（被美國人稱作“鷹巢”）當地時間23日晚被縱火燒燬。德國警方拘留一名嫌疑人。 據報道，“鷹巢”建於1938年，1939年，該地被送給希特勒作為其50歲生日的禮物。納粹德國時期，希特勒曾在那裡接待過外交官和其他外國客人。該建築沒有在盟軍的轟炸行動中遭到破壞。這座歷史古蹟現在是一個旅遊景點。 德國警方表示，約200名消防應急人員被部署到現場，消防部門的大規模滅火行動仍在進行中。到目前為止，該建築內沒有發現任何人，目前沒有人因火災而受傷。火災發生後不久，一名嫌疑人引起了執法人員的注意，目前已被拘留。刑事調查正在進行中。（環球網）"
+    },
+    {
+      "id": "5166127",
+      "time": "2026-10-24 16:41:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯奧廖爾州州長稱，烏克蘭對該州一家企業的襲擊造成三人死亡。"
+    },
+    {
+      "id": "5166126",
+      "time": "2026-10-24 16:38:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月24日16時29分在新疆伊犁州鞏留縣（北緯43.33度，東經82.03度）發生4.3級地震，震源深度21千米。"
+    },
+    {
+      "id": "5166125",
+      "time": "2026-10-24 16:34:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "雲南省委主要負責同志職務調整，莫高義任雲南省委書記。（新華社）"
+    },
+    {
+      "id": "mkt:01a16d0b-b5bc-7ee0-a962-b22b152bc79c",
+      "time": "2026-10-24 16:34:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine says Starlink and Starshield restored stable satellite communications】Ukraine's defense ministry said monitoring data show Starlink and Starshield satellite communications have recovered functionality, with terminals maintaining stable links at speeds above 400 km/h. The ministry said the restoration will support frontline mobility, drone missions, military logistics and battlefield communications. It will continue to track both systems and run higher-speed tests to determine maximum operational speed and fully assess the level of communications recovery."
+    },
+    {
+      "id": "5166123",
+      "time": "2026-10-24 16:33:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭防長稱“星鏈”及“星盾”已恢復穩定通訊】當地時間24日，烏克蘭國防部長赫馬拉通報稱，烏國防部監測資料顯示，“星鏈”與“星盾”衛星通訊系統已恢復效能，終端在移動速度超過每小時400公里條件下可保持穩定通訊。赫馬拉表示，該進展對前線作戰意義突出，將支撐部隊機動、無人機任務、軍事後勤及戰場通訊保障。赫馬拉稱，烏方將持續跟蹤記錄兩套系統執行狀態，下一步計劃開展更高速度工況測試，探明系統可承載的速度上限，全面評估通訊能力恢復水平。（央視新聞）"
+    },
+    {
+      "id": "5166122",
+      "time": "2026-10-24 16:32:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：10月24日16時29分在新疆伊犁州鞏留縣附近（北緯43.35度，東經82.01度）發生4.5級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:01a16d07-309a-7ee0-a962-a88acd98eb2a",
+      "time": "2026-10-24 16:29:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense lifted danger alerts for Taif and Jeddah."
+    },
+    {
+      "id": "5166121",
+      "time": "2026-10-24 16:28:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：塔伊夫和吉達的危險已解除。"
+    },
+    {
+      "id": "mkt:01a16d05-9ee5-7ee0-a962-a7999a0b67e9",
+      "time": "2026-10-24 16:27:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Civil Defense: danger alert for Yanbu lifted."
+    },
+    {
+      "id": "mkt:01a16d05-3b99-7ee0-a962-99d7e301ca9d",
+      "time": "2026-10-24 16:27:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense says danger alert for Mecca has been lifted."
+    },
+    {
+      "id": "5166120",
+      "time": "2026-10-24 16:26:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：麥加和延布的危險已解除。"
+    },
+    {
+      "id": "5166119",
+      "time": "2026-10-24 16:25:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【終端需求支撐力度有限，本週國內生豬價格震盪下滑】本週國內生豬價格呈震盪下滑走勢，周均價環比下跌。據中國養豬網的資料，10月23日，生豬（外三元）價格為9.66元/公斤，與上週五（10月16日）的9.88元/公斤相比，下降2.2%。從一週均價來看，本週生豬均價為9.83元/公斤，與上週10.01元/公斤的均價相比，下降1.8%。"
+    },
+    {
+      "id": "mkt:01a16d03-cbb3-7ee0-a962-9164e6d2644c",
+      "time": "2026-10-24 16:25:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu authorises support for Argentina's claim to the Malvinas (Falkland) Islands】Israeli Prime Minister Netanyahu has ordered Israel to back Argentina's sovereignty claim over the Malvinas (Falkland) Islands, instructing diplomats to shift Israel's official stance, join Buenos Aires in calling for direct talks on the islands' future, and acknowledge Argentina's historical ties to the territory. Netanyahu is close to Argentine President Javier Milei. The decision comes after UK foreign minister Ed Miliband last month moved to impose economic sanctions on West Bank settlements; Netanyahu changed his position against that backdrop."
+    },
+    {
+      "id": "5166118",
+      "time": "2026-10-24 16:25:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏巴青7.0級地震已發生餘震834次】記者從西藏那曲市抗震救災指揮部獲悉，截至10月24日9時45分，巴青縣地震受災區域共記錄到餘震834次，其中3.0級以下餘震795次，3.0-3.9級地震31次，4.0-4.9級地震8次，最大餘震為10月23日23時14分青海玉樹州雜多縣4.5級地震，距主震震中18.68公里。（新華社）"
+    },
+    {
+      "id": "5166117",
+      "time": "2026-10-24 16:24:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【科技企業領跑 645家A股上市公司今年已釋出股權激勵計劃】Wind資料顯示，截至10月23日收盤，2026年以來，共有645家A股上市公司對外發布股權激勵計劃，遠超去年全年總量。除半導體、生物醫藥等新興產業外，傳統制造行業2026年以來股權激勵案例明顯增多，留住核心人才意圖明顯。從激勵標的物型別看，主要分為股票增值權、股票期權、限制性股票三大類。其中，限制性股票佔比約八成，第一類限制性股票佔比約三成，第二類限制性股票佔比約五成。釋出第二類限制性股票的上市公司數量明顯增多。（中國證券報）"
+    },
+    {
+      "id": "mkt:01a16d00-4e18-7ee0-a962-89af72540324",
+      "time": "2026-10-24 16:21:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi civil defense issues multiple alerts】Saudi civil defense issued alerts for potential hazards in Taif, Yanbu and Mecca."
+    },
+    {
+      "id": "mkt:01a16cfe-d8a8-7ee0-a962-8505692d42e8",
+      "time": "2026-10-24 16:20:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian military said it struck a leading Russian electro‑optical equipment manufacturer in Oryol."
+    },
+    {
+      "id": "5166116",
+      "time": "2026-10-24 16:19:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【艾迪精密美國公司正式開業】據艾迪精密訊息，當地時間10月23日，艾迪精密美國公司開業儀式在美國芝加哥西北郊紹姆堡市舉辦。依託本地據點，艾迪精密將進一步貼近北美客戶，快速響應市場需求。"
+    },
+    {
+      "id": "mkt:01a16cfd-d805-7ee0-a962-7c8ac675c473",
+      "time": "2026-10-24 16:18:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an alert about a potential danger in Mecca."
+    },
+    {
+      "id": "5166115",
+      "time": "2026-10-24 16:18:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門就麥加的潛在危險發出警報。"
+    },
+    {
+      "id": "mkt:01a16cfd-1d95-7ee0-a962-773abf04a800",
+      "time": "2026-10-24 16:18:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defence issued an alert about a potential threat in Yanbu."
+    },
+    {
+      "id": "5166114",
+      "time": "2026-10-24 16:17:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門就塔伊夫和延布的潛在危險發出警報。"
+    },
+    {
+      "id": "mkt:01a16cfc-c499-7ee0-a962-6e0d7d4a5cec",
+      "time": "2026-10-24 16:17:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an alert over a potential hazard in Taif."
+    },
+    {
+      "id": "5166113",
+      "time": "2026-10-24 16:17:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門就吉達可能存在的危險發出警報。"
+    },
+    {
+      "id": "5166110",
+      "time": "2026-10-24 16:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭無人機製造商稱，烏克蘭軍方襲擊了俄羅斯陶里亞蒂的石化廠。"
+    },
+    {
+      "id": "mkt:01a16cfa-227e-7ee0-a962-677f219139b8",
+      "time": "2026-10-24 16:14:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A Ukrainian drone manufacturer said the Ukrainian military struck a Russian petrochemical plant in Tolyatti."
+    },
+    {
+      "id": "5166109",
+      "time": "2026-10-24 16:13:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新海航航空集團冬春航季日均計劃航班超2300班】據新海航航空集團訊息，10月25日起，全國民航將正式進入冬春航季。新航季，新海航航空集團旗下境內客運航司預計新開、加密境內外航線超150條，日均計劃航班量超2300（含國際）班，將執飛1539條國內航線，覆蓋國內185個城市；超110條國際及地區航線，通達30多個國家及地區。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610243907095140",
+      "time": "2026-10-24 16:13:09",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【加息大訊息！美聯儲，重磅來襲】美聯儲的動向備受市場關注！美聯儲將於10月27日至28日召開議息會議。隨著會議臨近，市場焦點已轉向美聯儲是否會進一步加息，以及本次會議將為12月政策路徑釋放何種訊號。美聯儲曾在9月進行自2023年以來的首次加息，以應對高於目標的通脹。但根據LSEG資料，聯邦基金期貨顯示，美聯儲在10月28日（下週三）釋出政策宣告時再次加息的可能性不到10%。"
+    },
+    {
+      "id": "5166108",
+      "time": "2026-10-24 16:12:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗航空恢復德黑蘭和馬什哈德至喀布林的航班。"
+    },
+    {
+      "id": "mkt:01a16cf7-8d74-7ee0-a962-5af8045cb159",
+      "time": "2026-10-24 16:12:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Philippine training aircraft collide; four air force pilots killed】The Philippine Air Force confirmed on the 24th that two SF-260 training aircraft collided on the 23rd during exercises over Batangas province, Luzon, killing four air force pilots. The aircraft collided at 15:51 and crashed near an airbase in Lipa City. The Air Force has grounded all SF-260s. The SF-260 is an Italian-built light trainer used by the Philippine Air Force. On May 20 an SF-260 crashed in Benguet province, Luzon, killing two."
+    },
+    {
+      "id": "mkt:01a16cf7-3f58-7ee0-a962-55ead9094250",
+      "time": "2026-10-24 16:11:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Wall Street Journal: US pressure is eroding Iran's overland trade routes】The Wall Street Journal reports Iraq and Pakistan have cut or restricted key land corridors into Iran, compounding US naval blockades and strict sanctions on airlines that have already severed most maritime and air links. Iraq on Wednesday closed the Sheeb border crossing, which connects the two countries’ largest oil-producing provinces; Baghdad said the move is aimed at strengthening anti-smuggling enforcement. Over the weekend Pakistan intercepted trucks from Iran at the Gabd and Taftan crossings—previously used as overland routes to Iran’s largest eastern port—and on Friday Pakistan’s foreign ministry said the actions were related to sanctions enforcement. These measures have further intensified economic pressure on Iran."
+    },
+    {
+      "id": "5166107",
+      "time": "2026-10-24 16:11:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【哈爾濱開通國內首條直飛俄羅斯堪察加定期國際客運航線】從黑龍江省交通運輸廳瞭解到，10月24日，哈爾濱至俄羅斯堪察加彼得羅巴甫洛夫斯克定期國際客運航線正式開通，這是國內首條直飛俄羅斯堪察加邊疆區的定期客運航線。該航線由俄羅斯伊爾航空公司執飛，每週六往返1班。（央視新聞）"
+    },
+    {
+      "id": "5166106",
+      "time": "2026-10-24 16:08:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列總理據悉下令改變對馬爾維納斯群島立場】據報道，以色列總理內塔尼亞胡已下令以色列改變對福克蘭群島（馬爾維納斯群島）的立場，轉而支援阿根廷，此舉是在英國對以色列西岸定居點實施制裁之後。以色列外交官已接到指示，要支援英國與阿根廷就群島未來進行直接談判，並承認阿根廷與該領土的“歷史聯絡”。此舉雖未正式支援阿根廷的主權主張，但標誌著以色列與英國關係的惡化。"
+    },
+    {
+      "id": "mkt:01a16cf3-419c-7ee0-a962-4e0ab1201631",
+      "time": "2026-10-24 16:07:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "【Argentine judge drops criminal probe of President Milei in $LIBRA crypto case】A federal judge in Argentina on the 23rd revoked the criminal investigation into President Javier Milei and 10 others over the $LIBRA cryptocurrency project, saying evidence was insufficient to prove fraud or abuse of office. Judge Marcelo Martínez de Giorgi cleared 11 people, including Milei, his sister and presidential chief of staff Karina Milei. Milei posted on social media the same day seeking compensation for reputational damage."
+    },
+    {
+      "id": "5166104",
+      "time": "2026-10-24 16:03:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皖能集團“陝電入皖”配套新能源專案投資運營主體成立】據皖能集團訊息，10月23日，延安皖能寶合新能源有限公司完成註冊設立。該公司作為皖能集團承接“陝電入皖”288萬千瓦配套新能源指標的專案投資運營主體，將負責吳起、安塞、延川等地風光資源的規模化開發。延安皖能寶合公司完成工商註冊，標誌著皖能集團“陝電入皖”配套新能源專案由前期籌備轉入實體化推進階段。目前，皖能吳起鐵邊城500兆瓦光伏發電專案作為該公司首個擬開工建設專案，正在緊鑼密鼓推進中。專案建成投產後，綠色電力將經“陝電入皖”特高壓通道輸送安徽。"
+    },
+    {
+      "id": "5166103",
+      "time": "2026-10-24 16:00:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九號公司將於明年推出賽格威品牌新品】10月23日，九號公司與米其林在九號常州基地舉行戰略合作簽約儀式。九號公司與米其林簽約後，雙方將圍繞輪胎與整車原配、抓地力、耐磨性、舒適性及售後服務展開合作，共同提升智慧電動兩輪車的騎行體驗與安全效能。九號公司中國經營事業部總裁何飛龍還透露，九號明年還將正式推出賽格威品牌的全新產品，並同步開啟中國及全球市場佈局。"
+    },
+    {
+      "id": "5166102",
+      "time": "2026-10-24 15:57:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭方面表示，“星鏈”（Starlink）和“星盾”（Starshield）衛星終端在時速超過161公里時已能正常工作，在時速超過400公里時也能保持連線穩定。烏克蘭國防部正在進行進一步測試，以確認所有限制措施是否已全部解除。"
+    },
+    {
+      "id": "5166101",
+      "time": "2026-10-24 15:54:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國聯通：已在蘋果直營店/授權店安排駐店員，協助iPhone Duo購機使用者開通eSIM】10月23日上午，蘋果首款純eSIM摺疊屏iPhone Duo正式開售。中國聯通現已同步開售。聯通華盛通訊有限公司終端銷售部總經理姚惠華介紹，2009年買過iPhone的老使用者將享有聯通渠道最高優先順序的iPhone Duo購機資格；新機可在中國聯通蘋果授權店、中國聯通APP以及“iPhone Duo優先購”聯通官方購機Skill第一時間預約購買。開通也不難。除中國聯通營業廳外，聯通已在蘋果直營店、APR蘋果授權店等多家門店安排千餘名駐店員，協助使用者現場開通eSIM，全程僅需約3分鐘。"
+    },
+    {
+      "id": "5166099",
+      "time": "2026-10-24 15:50:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海釋出黃浦江高潮位藍色預警】上海市水文總站2026年10月24日15時30分發布黃浦江高潮位藍色預警訊號：受2630號颱風“薔琵”、冷空氣和天文大潮共同影響，預計25日12時15分黃浦江蘇州河口最高潮位達到4.65米左右。市防汛指揮部要求各級防汛機構、沿江沿河各單位檢查落實防範措施。"
+    },
+    {
+      "id": "mkt:01a16ce3-7293-7ee0-a962-47b854f03095",
+      "time": "2026-10-24 15:50:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's defense minister said Starlink/Starshield connectivity has been restored and operates normally at speeds up to 400 km/h."
+    },
+    {
+      "id": "5166098",
+      "time": "2026-10-24 15:49:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國防部長表示，星鏈/星盾連線已恢復，速度達每小時400公里。"
+    },
+    {
+      "id": "5166097",
+      "time": "2026-10-24 15:47:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭稱針對“星鏈”的所有限制均已解除。"
+    },
+    {
+      "id": "mkt:01a16ce0-9742-7ee0-a962-3f80c5f42221",
+      "time": "2026-10-24 15:47:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "0700.HK",
+        "Impact bullish"
+      ],
+      "text": "【Tencent WorkBuddy integrates Kimi K3.1‑Pro model】Tencent's WorkBuddy said it has integrated model Kimi K3.1‑Pro and deployed the high-speed variant Kimi K3.1 Pro Highspeed. The company says the model delivers comparable intelligence with roughly 2–3x output speed. Capacity is currently constrained; access is being prioritised for Enterprise Flagship customers and individual paid subscribers."
+    },
+    {
+      "id": "5166096",
+      "time": "2026-10-24 15:45:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊WorkBuddy接入模型Kimi-K3.1-Pro】騰訊WorkBuddy宣佈已接入模型Kimi-K3.1-Pro。據介紹，WorkBuddy同步接入高速版模型Kimi K3.1 Pro Highspeed，同等智慧，輸出速度約2-3倍。目前資源緊張，現階段僅對“企業旗艦版”及“個人訂閱使用者”優先開放。"
+    },
+    {
+      "id": "5166093",
+      "time": "2026-10-24 15:39:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【企業微信回應少量賬號髮色情資訊】10月24日，少量企業微信賬號向客戶傳送疑似色情引流資訊。 隨後，企業微信釋出公告，“經企業微信安全團隊排查，確認為某第三方外掛軟體服務被攻破，導致使用該外掛服務的賬號受到影響。我們已將受影響的賬號強制下線，並封禁相關引流連結。 此次事件再次敲響警鐘：以“賬號多開”、“群控”等為噱頭的外掛軟體，存在巨大的安全隱患和隱私風險。使用此類服務，可能導致賬號被他人操控、企業資料和客戶資訊洩露，危及企業正常經營，損害客戶權益。所謂的“效率提升”，不能以犧牲安全和信任為代價。 為保護企業和使用者的合法權益，維護安全、健康的平臺生態，企業微信將進一步加大對外掛軟體的打擊力度： 一、持續排查和清理外掛軟體。加強對篡改客戶端、繞過平臺安全機制及使用限制等外掛行為的識別和處置，持續打擊外掛軟體及其開發、銷售行為，並依法追究相關主體的責任。 二、嚴肅處理使用外掛的違規行為。對使用外掛軟體的賬號，企業微信將依據平臺相關協議和規範，視違規情節採取相應處理措施。請正在使用外掛的企業和使用者立即停用相關軟體及服務，排查賬號安全隱患，避免企業經營和客戶服務受到進一步影響。 企業賬號承載著企業長期積累的客戶關係和信任。我們呼籲企業、員工和服務商共同拒絕外掛，安全、規範地使用賬號。 企業微信將堅決、持續打擊外掛軟體，切實維護企業和使用者的合法權益。”"
+    },
+    {
+      "id": "mkt:01a16cd9-75cb-7ee0-a962-375c297c0e0a",
+      "time": "2026-10-24 15:39:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600221.SS",
+        "Impact bullish"
+      ],
+      "text": "【HNA Holdings and Beijing Zero‑G Space sign strategic cooperation to expand aircraft communications】Oct 23 — HNA Holdings (600221) signed a strategic cooperation agreement with Beijing Zero‑G Space Technology Co. to jointly develop aircraft communication services and drive exploration and implementation of related businesses. HNA said the tie-up will also advance its efforts to pursue satellite communications business opportunities."
+    },
+    {
+      "id": "mkt:01a16cd8-c67a-7ee0-a962-2eabf6e16908",
+      "time": "2026-10-24 15:38:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China first marriages rebound to 10.42 mln in 2025】China recorded 6.7651 mln marriage registrations in 2025 (including first and remarriages), up 10.8% YoY, the China Statistical Yearbook 2026 compiled by the National Bureau of Statistics shows. First marriages totaled 10.4233 mln and remarriages 3.1069 mln; first marriages rose by 1.251 mln YoY and topped 10 mln again. Guangdong recorded 1.009 mln first marriages, the only province above 1 mln. First marriages are more closely linked to birth trends than remarriages."
+    },
+    {
+      "id": "5166092",
+      "time": "2026-10-24 15:37:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：歐洲、中東八國外長開會討論美伊局勢，“均不贊成對伊朗發動新打擊”】據卡達半島電視臺、法新社等媒體報道，來自歐洲和中東地區的八個國家外長當地時間23日齊聚土耳其最大城市伊斯坦布林，就美伊衝突、霍爾木茲海峽局勢等地區問題進行討論。會後，與會國家達成共識，均不贊成對伊朗發動任何新一輪襲擊。 報道稱，這些國家包括英國、法國、德國、義大利、土耳其、埃及、巴基斯坦和沙烏地阿拉伯。 （環球網）"
+    },
+    {
+      "id": "mkt:01a16cd4-d3a9-7ee0-a962-20264eed0b80",
+      "time": "2026-10-24 15:34:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pentagon releases new UAP files; matte-black triangle sighting highlighted】The Pentagon on the 23rd released 10 files on unidentified anomalous phenomena (UAP), the seventh batch of such disclosures since May. UAP is the U.S. government's term for unexplained phenomena in air, space, land or sea, including UFOs. According to the released report, three federal agents this year near a U.S. secure facility observed a matte-black triangular object with an estimated 4.5m wingspan. The object rose vertically to about 90m above a ridge without tilting, hovered for roughly 20 seconds, then accelerated horizontally—covering approximately 2.4km in about 3 seconds, a speed the report likened to fighter jets—emitted no sound and disappeared."
+    },
+    {
+      "id": "5166091",
+      "time": "2026-10-24 15:32:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中歐班列 “東通道” 年內通行量突破6000列】10月23日，一列滿載板材、大麥的回程中歐班列駛入綏芬河鐵路口岸。2026年以來，滿洲里站、綏芬河站、同江北站——中歐班列“東通道”三大口岸站持續升級通關保障能力。截至10月20日，通行總量突破6000列，日均班列進出境達83.7列。"
+    },
+    {
+      "id": "mkt:01a16cd2-df62-7ee0-a962-19c703cd8697",
+      "time": "2026-10-24 15:32:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Industrial facilities in Tolyatti, Russia were damaged in an attack."
+    },
+    {
+      "id": "5166090",
+      "time": "2026-10-24 15:31:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【首批俄羅斯柴油已運往美國】據《俄羅斯報》網站10月23日報道，俄羅斯副總理亞歷山大·諾瓦克對媒體表示，首批三艘載有俄羅斯柴油燃料的油輪已啟程前往大西洋西岸。 他表示，根據此前達成的旨在滿足世界燃料市場需求的協議，俄羅斯將向美國和世界市場供應更多柴油。 塔斯社援引諾瓦克的話指出，俄公司僅在10月就可能出口50萬噸柴油燃料，這一出口量是在確保對俄國內市場充分供應的前提下確定的。 俄副總理猜測，出口柴油的主要部分可能來自俄羅斯石油公司的庫存。 此前有報道稱，根據先前達成的協議，俄羅斯10月將向美國和其他國家市場供應逾30萬噸柴油，在11月和11月之後再分別供應50萬噸和100萬噸柴油。俄羅斯在今年年底之前出口的柴油總量可能超過300萬噸。（參考訊息）"
+    },
+    {
+      "id": "5166088",
+      "time": "2026-10-24 15:29:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯陶里亞蒂工業設施遇襲受損。"
+    },
+    {
+      "id": "5166087",
+      "time": "2026-10-24 15:28:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國公佈新一批UFO檔案 神秘“黑三角”引關注】美國國防部23日公佈10份有關“不明飛行物（UFO）”等“不明異常現象（UAP）”的檔案，這是美國政府今年5月以來公佈的第七批此類檔案。其中，一個今年記錄到的大型“啞光黑色三角狀”飛行物引起了特別關注。根據最新公佈的報告，在今年的一個晚上，3名聯邦特工在一處美國安全設施附近看見無法識別的神秘飛行物：一個大型“啞光黑三角”。該飛行物翼展約4.5米，外觀與無人機相似，在山脊線上方垂直上升約90米，沒有傾斜或搖擺，而後懸停，大約20秒後水平飛離，3秒內飛行距離達到2.4公里，速度堪比戰鬥機，且沒有發出任何聲音，最終消失得無影無蹤。（新華社）"
+    },
+    {
+      "id": "5166086",
+      "time": "2026-10-24 15:27:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、特朗普論伊朗： 我們可能會再來一次小小的“史詩之怒”行動，或者他們會同意。 如果他2、們聰明，他們就會直接說：“讓我們言歸正傳吧。” \n3、特朗普稱，美國可以非常迅速地解決伊朗戰爭，只是需要考慮徹底解決伊朗問題還是任伊朗衰敗。美國會在霍爾木茲海峽抽取所有想要的石油。\n4、特朗普稱，俄烏雙方都希望達成停火。\n5、特朗普稱，他不清楚誰給烏克蘭星鏈專案實行了限速，並承諾如果存在問題，他會解決。他還表示可能需要和馬斯克會談。\n6、特朗普稱和英國首相通了電話，討論了北海石油開採問題，還討論了伊朗和烏克蘭相關問題。\n7、特朗普談古巴問題時表示將會派魯比奧去完成協議。\n8、特拉普表示即將於墨西哥達成協議。\n9、特朗普稱加拿大正努力與美國達成協議，對加拿大關稅調整將於10月30日生效。\n10、特朗普稱讚馬斯克才華橫溢，並表示需要保護像馬斯克這樣的天才，認為他這樣的天才不會做錯事。\n11、特朗普稱，他不急於任命新的新聞秘書。\n12、特朗普表示，他想把“新墨西哥”改名叫“新美國”（ New America ）。\n13、特朗普宣佈，美國政府將投資2.5億美元，在全美養老護理機構中至少新聘5000名護士，佛羅里達州也在其中。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610243907091660",
+      "time": "2026-10-24 15:26:51",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【31省份2025年婚姻資料公佈】國家統計局編著出版的《中國統計年鑑2026》顯示，2025年全年全國結婚登記為676.51萬對。根據《中國統計年鑑2026》，2025年結婚登記人數前十的省份分別是廣東、河南、山東、四川、江蘇、河北、浙江、安徽、貴州、雲南。"
+    },
+    {
+      "id": "mkt:01a16cc9-be07-7ee0-a962-14b41b9acb52",
+      "time": "2026-10-24 15:22:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli forces launch operations in the West Bank】Israeli forces began operations in multiple West Bank locations, including Hebron and Jenin, on the 23rd, a news agency reported. The army said the actions were a response to an attack on Israeli soldiers in Hebron that morning. On the evening of the 23rd, forces demolished numerous Palestinian structures in western Hebron, including commercial and industrial buildings, and ordered several Palestinian families to leave their homes. The army also raided a Palestinian neighborhood near Jenin that night and verbally told multiple families to vacate within a week."
+    },
+    {
+      "id": "5166082",
+      "time": "2026-10-24 15:19:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【去年全國結婚登記676萬對。廣東結婚登記人數連續四年第一】國家統計局編著出版的《中國統計年鑑2026》顯示，2025年全年全國結婚登記為676.51萬對。 資料顯示，去年我國結婚人數最多的是廣東省，為61.38萬對，也是全國唯一一個結婚登記人數超過60萬對的省份，且已連續四年位居全國第一。2025年廣東結婚人數比上一年增加了10.19萬對，同比增加了19.9%。"
+    },
+    {
+      "id": "5166081",
+      "time": "2026-10-24 15:18:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列軍隊在約旦河西岸展開軍事行動】據巴勒斯坦通訊社報道，以色列軍隊自23日起在約旦河西岸的希伯倫、傑寧等多地展開軍事行動。以軍稱這是對當天早晨以軍士兵在希伯倫遭襲事件的反制措施。報道稱，以軍23日晚間在希伯倫西部搗毀了大量巴勒斯坦人的建築，其中包括商業建築和工業設施，並要求多個巴勒斯坦家庭離開自己的住所。報道還稱，以軍23日晚間還突襲了傑寧附近的巴勒斯坦人聚居區，並口頭通知多個巴勒斯坦家庭在一週之內搬離住所。以色列國防軍23日發表宣告稱，將在希伯倫地區開展“精準、定向、全面”的搜查行動，定位並摧毀“恐怖分子”的設施和武器。（新華社）"
+    },
+    {
+      "id": "5166080",
+      "time": "2026-10-24 15:18:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小紅書“大城小聚”活動落地北京首鋼園】從10月24日起，為期一週的“大城小聚”將在北京首鋼園及周邊展開，涵蓋互動展、市集、音樂節與線下交流會四大板塊。據悉，這也是小紅書成立13年來首次在北京舉辦的大型城市主題活動。據瞭解，該活動開始前，預熱內容在小紅書站內已有近1億曝光，超過2萬人次參與報名。（新浪科技）"
+    },
+    {
+      "id": "5166079",
+      "time": "2026-10-24 15:14:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海航控股與零重空間將在飛機通訊服務領域開展戰略合作】10月23日，海南航空控股股份有限公司與北京零重空間技術有限公司簽署戰略合作協議。據悉，雙方將在飛機通訊服務領域開展戰略合作，共同推動飛機通訊服務相關業務的探索與落地。本次合作也將推動海航控股進一步探索衛星通訊領域的業務機會。"
+    },
+    {
+      "id": "5166078",
+      "time": "2026-10-24 15:14:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局（NHTSA）：福特在美國召回 3376 輛汽車。此次召回涉及部分防抱死制動系統（ABS）模組，這些 ABS 模組在進行更換時，可能被寫入了錯誤的軟體程式，導致 ABS 功能失效，並影響制動平衡，進而增加車輛的制動距離，提高發生碰撞的風險。"
+    },
+    {
+      "id": "mkt:01a16cc0-edb7-7ee0-a962-0c5178960279",
+      "time": "2026-10-24 15:12:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Death toll from attack on church in Karak, Jordan rises to 8."
+    },
+    {
+      "id": "5166077",
+      "time": "2026-10-24 15:12:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【瑞士股市成為市場AI恐慌下的避風港】在歐洲股市震盪之際，瑞士一眾防禦屬性極強的大型龍頭股成為一抹亮色。瑞士市場指數跟蹤該國20只流動性最好的大盤股，本月累計上漲4.6%；而歐元區對標指數歐洲斯托克50指數同期下跌3.2%。瑞士股指近8個百分點的超額收益，是2020年3月以來最高水平——當年疫情衝擊全球，投資者爭相尋找避險資產。這一漲幅背後，是面對融資成本走高、AI交易行情遭遇質疑，疊加法國、西班牙等國政局動盪，歐洲投資者正在主動降低風險敞口。指數的上漲主要由三大權重股拉動：藥企羅氏控股10月上漲12%，諾華上漲6.7%；全球食品巨頭雀巢上漲10%。本月瑞士指數的全部漲幅，都來自這三隻老牌防禦龍頭。EFG資產管理瑞士股票主管達米安・伯克哈特表示：“投資者看好瑞士個股的防禦屬性，正在主動尋找擁擠的AI交易之外的替代方向。此前醫藥板塊的資金被抽走去追AI，現在這個趨勢正在反轉。”美銀最新基金經理調查同樣顯示，市場對瑞士股票的偏好顯著升溫，淨16%的受訪基金經理將瑞士選為最看好的歐洲股市。"
+    },
+    {
+      "id": "5166076",
+      "time": "2026-10-24 15:12:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局 (NHTSA) ：大眾汽車集團在美國召回 9048 輛汽車，涉及部分 2024-2025 款 Q4 E-Tron 和 Q4 Sportback E-Tron 車型，原因是高壓電池可能發生故障並引發火災。"
+    },
+    {
+      "id": "mkt:01a16cc0-ba73-7ee0-a962-02ad7ee84b78",
+      "time": "2026-10-24 15:12:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Industrial Internet OS industry alliance formed in Shenzhen】An Industrial Internet Operating System industry alliance was launched at the CEIC 2026 Consumer Electronics Innovation Conference in Shenzhen. Li Qingxin, researcher at the Shenyang Institute of Automation, Chinese Academy of Sciences, presented the OS architecture and said factories deploying embodied intelligence must connect design-to-manufacturing and management-to-control business chains and integrate human, machine, material, process and environment elements. He set out four core OS requirements: cross-domain and cross-platform design, trustworthy task execution, consistent model migration, and multi-hardware device adaptation."
+    },
     {
       "id": "5166075",
       "time": "2026-10-24 15:10:40",
@@ -116977,890 +117864,6 @@
         "MKT News"
       ],
       "text": "Ukraine's General Staff rejected Russian claims that Russian forces have captured more than 1,800 sq km of Ukrainian territory and 92 settlements since Sept. 1."
-    },
-    {
-      "id": "mkt:01a1494f-7a32-7ee0-a8ca-ac31a6f79e64",
-      "time": "2026-10-17 18:01:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian General Staff says Russian claims of capturing Dobropillia are false; the town remains under Ukrainian control."
-    },
-    {
-      "id": "5151498",
-      "time": "2026-10-17 18:01:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總參謀部駁斥了俄羅斯方面的說法，即自9月1日以來，俄軍已佔領了超過1800平方公里的烏克蘭領土及92個定居點。"
-    },
-    {
-      "id": "5151497",
-      "time": "2026-10-17 18:00:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總參謀部表示，俄方關於已佔領多布羅皮利亞（Dobropillia）的說法不實，該鎮目前仍處於烏克蘭控制之下。"
-    },
-    {
-      "id": "mkt:01a1494b-f57d-7ee0-a8ca-a3e4372e4276",
-      "time": "2026-10-17 17:57:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yiwu cross-border e‑commerce import declarations top 100 million this year】Yiwu Customs, under Hangzhou Customs, said on Oct. 17 that cross-border e‑commerce import declaration volume under its supervision has exceeded 100 million orders year‑to‑date, reaching the milestone more than 40 days earlier than last year and setting a period record. Year‑to‑date imports cover over 70,000 SKUs from more than 90 countries. Yiwu Comprehensive Bonded Zone and Yiwu Bonded Logistics Center host more than 130 cross‑border e‑commerce firms. In the first three quarters, import declaration volume was 96.05 million orders and goods value RMB 23.779 billion, up 25.1% and 28.18% YoY, respectively."
-    },
-    {
-      "id": "mkt:01a1494a-af55-7ee0-a8ca-9a10571d2fdb",
-      "time": "2026-10-17 17:56:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "【Wells Fargo: US September housing starts likely to fall】Wells Fargo on Oct. 16 forecast US September housing starts to fall 2.0% MoM to a 1.25 mln annualized pace; the data are due next Tuesday. The bank said mortgage rates rose above 7% at end-September, worsening purchase affordability, and starts have fallen in four of the past five months. An NAHB survey showed builders' expectations for future sales deteriorated and price cuts increased. Multifamily construction is being weighed down by higher financing costs and limited rent growth. A pullback in building permits is another reason Wells Fargo expects September starts to decline."
-    },
-    {
-      "id": "5151496",
-      "time": "2026-10-17 17:56:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【慧谷新材：2026年全年毛利率預期將保持相對穩定】慧谷新材(301683)近日在機構調研、路演活動中表示，2026年全年毛利率公司預期將保持相對穩定，但不排除單季度受原材料價格大幅異動、產品結構變化、下游客戶訂單結構變動等因素帶來的階段性波動。公司和主要客戶合同設有價格調整條款，當原材料價格大幅上升時，公司會和客戶協商調價。截至目前，已有部分產品價格按最新協議執行。"
-    },
-    {
-      "id": "mkt:01a14949-fa12-7ee0-a8ca-91ff6952c52f",
-      "time": "2026-10-17 17:55:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "ZELENSKIY said Russia is conducting one of the largest attacks on Ukraine's energy sector, using more than 320 drones and missiles."
-    },
-    {
-      "id": "mkt:01a14943-031f-7ee0-a8ca-8dca10d0a4ac",
-      "time": "2026-10-17 17:48:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Saudi interior ministry said it executed five nationals for joining a foreign terrorist organization and attacking security forces."
-    },
-    {
-      "id": "5151495",
-      "time": "2026-10-17 17:47:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯內政部表示，已處決五名本國公民，因其加入外國恐怖組織並襲擊安全部隊。"
-    },
-    {
-      "id": "5151494",
-      "time": "2026-10-17 17:44:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智界將獲獨立造車資質，內部人士確認公司計劃上市】工信部10月16日公示《道路機動車輛生產企業及產品公告》（第412批），公告顯示，安徽智界新能源汽車有限公司列入“擬釋出新准入車輛生產企業”清單，公示期至10月23日。隨後，“智界拿到獨立造車資質”的訊息隨即擴散。10月17日，智界汽車內部人士確認，智界汽車在公示結束獲批後將取得獨立造車資質，“是奇瑞的工廠給到了智界”，該人士還同步確認了智界汽車未來計劃獨立上市的資訊。（第一財經）"
-    },
-    {
-      "id": "5151493",
-      "time": "2026-10-17 17:36:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油暗盤突破106美元，日內漲超4%。"
-    },
-    {
-      "id": "5151492",
-      "time": "2026-10-17 17:35:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安旭生物簽署多項戰略合作協議】10月17日，安旭生物(688075)舉行上市5週年慶暨2026年全球合作伙伴峰會。記者從現場獲悉，圍繞產品創新、市場開拓、渠道建設和原料供應等，安旭生物先後與浙江大學生命科學學院、雲南環和生物、復腦科技等簽署戰略合作協議。（證券時報 ）"
-    },
-    {
-      "id": "mkt:01a14937-66df-7ee0-a8ca-84c4b3645254",
-      "time": "2026-10-17 17:35:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Egyptian President Sisi says Egypt's constitution will not be amended."
-    },
-    {
-      "id": "mkt:01a14937-57c4-7ee0-a8ca-7e68d468eb61",
-      "time": "2026-10-17 17:35:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Egyptian President Sisi said 2030 will be the end of his presidential term."
-    },
-    {
-      "id": "5151491",
-      "time": "2026-10-17 17:33:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "塞西表示，他的任期將於2030年結束的問題“已經解決，不會再討論”。"
-    },
-    {
-      "id": "5151490",
-      "time": "2026-10-17 17:32:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及總統塞西表示，2030年將標誌著他總統任期的結束。"
-    },
-    {
-      "id": "5151489",
-      "time": "2026-10-17 17:31:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "梵蒂岡：教皇利奧已準備出院。"
-    },
-    {
-      "id": "mkt:01a14932-30c1-7ee0-a8ca-70e5aabf1508",
-      "time": "2026-10-17 17:29:48",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Russian Defence Ministry says its forces have taken control of eight Ukrainian settlements."
-    },
-    {
-      "id": "5151488",
-      "time": "2026-10-17 17:29:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部稱，其部隊已控制另外八個烏克蘭定居點。"
-    },
-    {
-      "id": "mkt:01a14930-6a4d-7ee0-a8ca-6a5eaa45b197",
-      "time": "2026-10-17 17:27:51",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【Japan, U.S. to hold large-scale joint exercise; domestic opposition】Kyodo reported on the 17th that Japan and the U.S. will conduct the large-scale joint exercise Keen Sword 27 from the 19th to 29th across multiple Japanese locations, deploying nearly 60,000 personnel — Japan Self-Defense Forces about 45,000 and U.S. forces about 12,000. Australia, Canada, France, Germany, the Netherlands, New Zealand and the Philippines will also participate; the last five are taking part for the first time. The report says the exercise has sparked widespread domestic concern and opposition."
-    },
-    {
-      "id": "5151487",
-      "time": "2026-10-17 17:26:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【渤海、黃海將出現明顯風浪和風暴增水過程】從自然資源部獲悉，今日（10月17日）下午，受氣旋和冷空氣的共同影響，渤海、黃海沿岸仍將出現明顯的風浪和風暴增水過程。海浪方面，預計10月17日下午到18日下午，渤海、黃海將出現3到4.5米的大浪到巨浪區。風暴潮方面，預計10月17日下午至18日下午，遼寧沿海將出現80到150釐米的風暴增水，渤海灣和萊州灣將出現60到140釐米的風暴增水。"
-    },
-    {
-      "id": "mkt:01a1492e-4fda-7ee0-a8ca-63145e8ea947",
-      "time": "2026-10-17 17:25:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "【ECB officials lean toward December rate hike as policy trade-offs grow more complex】ECB officials are preparing for a third rate increase in 2026 that could be the last before policy choices become more challenging next year. Speaking in Bangkok this week they did not rule out an October move but said a December hike is more likely; traders and economists generally expect a December increase. Officials cited rising bond yields, elevated energy costs and a rapid surge in investment in artificial intelligence as growing concerns for policy."
-    },
-    {
-      "id": "5151486",
-      "time": "2026-10-17 17:22:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日美將舉行大規模聯合軍演 引發廣泛擔憂與反對】據日本共同社17日報道，日本和美國將於19日至29日在日本多地開展“利劍27”大規模聯合軍演，投入兵力總計接近6萬人，引發日本國內廣泛擔憂與反對。 報道稱，此次演習是涵蓋陸海空各部隊的綜合性訓練，日本自衛隊和美軍將分別投入約4.5萬人和1.2萬人。此外，澳大利亞、加拿大、法國、德國、荷蘭、紐西蘭和菲律賓等國也將參加，其中後5國為首次參與。 值得關注的是，日本政府今年3月不顧當地民眾反對強行部署於熊本縣的“25式地對艦導彈”將參加此次演習。該導彈將從熊本縣轉移至橫跨長崎縣和佐賀縣的大野原演習場。導彈射程約1000公里，遠超日本領土範圍。 報道稱，美軍也將投入先進軍事裝備，包括首次向日本最西端的沖繩縣與那國島部署“海軍/海軍陸戰隊遠征艦艇攔截系統”“海上防空綜合系統”等。在北海道及日本東北地區近海，日美還將開展應對彈道導彈和軍用飛機的訓練，並在日本多地舉行傘降、兩棲車輛登陸、傷員救治等演練，以及在太空和網路空間支援陸海空部隊的相關訓練。 此次軍演在日本引發廣泛擔憂與反對。綜合日本媒體近日報道，10月以來，沖繩、長崎、大分等地接連爆發民眾抗議活動，要求取消演習、停止在民用設施開展軍事訓練。不少民間團體指出，日美此舉只會加劇地區緊張，將當地民眾置於危險之中。(新華社)"
-    },
-    {
-      "id": "mkt:01a14929-6415-7ee0-a8ca-5c810feb936b",
-      "time": "2026-10-17 17:20:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【Anthropic co-founder: AI could lift US GDP to $44 trillion by 2030】Anthropic co-founder Jack Clark said an internal company economic model projects AI could raise US economic output to about $44 trillion by 2030, from just over $30 trillion today. Speaking at the IMF and World Bank annual meetings in Bangkok, Clark said the estimate \"sounds outlandish\" but argued rapid AI-driven acceleration in scientific discovery could produce such growth. He urged international cooperation to create \"special and strict rules\" for the technology."
-    },
-    {
-      "id": "mkt:01a14928-ab3d-7ee0-a8ca-508352885f78",
-      "time": "2026-10-17 17:19:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC says AI remains under human control, but its capabilities are improving far faster than our intuitive expectations."
-    },
-    {
-      "id": "5151485",
-      "time": "2026-10-17 17:19:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic的克拉克：我們現在掌控著人工智慧，但它的能力提升速度遠超我們的直覺預期。"
-    },
-    {
-      "id": "mkt:01a14926-b8d7-7ee0-a8ca-4ca6649b6b5d",
-      "time": "2026-10-17 17:17:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore Prime Minister Lawrence Wong will visit Qatar Oct 18-20 and the UAE Oct 20-22."
-    },
-    {
-      "id": "5151484",
-      "time": "2026-10-17 17:16:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡總理黃循財將於10月20日至22日訪問阿聯酋。"
-    },
-    {
-      "id": "5151483",
-      "time": "2026-10-17 17:16:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡總理黃循財將於10月18日至20日訪問卡達。"
-    },
-    {
-      "id": "5151482",
-      "time": "2026-10-17 17:12:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：僅在昨天晚上7點至今天早上7點之間，俄方就動用了320多架“沙赫德”無人機，以及巡飛彈、巡航導彈和彈道導彈，對我們的能源部門、城市和社群發動了襲擊。儘管我們擊落了其中相當一部分，但俄方襲擊的巨大規模和持續不斷的攻勢——特別是針對我們能源部門的打擊——不幸造成了嚴重的後果。"
-    },
-    {
-      "id": "5151481",
-      "time": "2026-10-17 17:11:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家公路交通安全管理局 (NHTSA) ：沃爾沃汽車美國公司召回9930輛汽車。"
-    },
-    {
-      "id": "5151480",
-      "time": "2026-10-17 17:09:10",
-      "tags": [
-        "宏觀",
-        "兩會"
-      ],
-      "text": "【王滬寧在四川調研時強調 堅持為推進中國式現代化凝心聚力 紮實做好新時代黨的民族宗教工作】中共中央政治局常委、全國政協主席王滬寧10月13日至16日在四川成都市、德陽市、甘孜藏族自治州調研。他表示，要以習近平新時代中國特色社會主義思想為指導，深入貫徹落實黨的二十屆四中全會精神，著眼為實現“十五五”時期發展、推進中國式現代化凝心聚力，紮實抓好鑄牢中華民族共同體意識、推進中華民族共同體建設工作，紮實抓好系統推進我國宗教中國化、加強宗教事務治理法治化工作，鞏固和發展民族和睦、宗教和順、社會和諧的良好局面。(新華社)"
-    },
-    {
-      "id": "mkt:01a1491f-2976-7ee0-a8ca-433150098876",
-      "time": "2026-10-17 17:09:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Ukrainian President Zelenskiy said Russia struck more than 15 critical Ukrainian energy facilities overnight."
-    },
-    {
-      "id": "5151479",
-      "time": "2026-10-17 17:06:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【韓國政府敦促日本政府高層正視歷史反省過去】韓國外交部發言人17日發表談話說，對於日本政府高層當天向供奉有二戰甲級戰犯的靖國神社獻祭品及前往參拜，韓國政府再次表示“深切失望和遺憾”。談話說，韓國政府敦促日本政府高層正視歷史，以實際行動展現對歷史的虛心反思和真誠反省。韓國政府再次強調，這是構建以國家間和國民間相互信任為基礎、面向未來的韓日關係的重要基石。（新華社）"
-    },
-    {
-      "id": "mkt:01a1491b-a9ed-7ee0-a8ca-3acbdd141309",
-      "time": "2026-10-17 17:05:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Kremlin said President Putin has directed the government to approve a plan to restore trade and logistics infrastructure damaged by Ukrainian strikes, RIA reported."
-    },
-    {
-      "id": "5151478",
-      "time": "2026-10-17 17:04:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮稱，普京已指示政府批准一項計劃，以修復遭烏克蘭襲擊損毀的貿易和物流基礎設施 。"
-    },
-    {
-      "id": "5151477",
-      "time": "2026-10-17 17:04:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“風清”人工智慧全球短中期集合天氣預報系統V1.0投入執行】在今日舉行的2026全國高效能運算學術大會（CCF HPC China 2026）上，國家超算網際網路宣佈，由國家氣象中心牽頭，聯合雄安氣象人工智慧創新研究院、國家氣象資訊中心和國家超算網際網路等共同研製的新一代人工智慧集合預報系統——“風清”人工智慧全球短中期集合天氣預報系統V1.0，順利透過業務化評審並投入執行。“風清”系統全球有效預報時效達11天，綜合預報效果超越歐洲中期天氣預報中心（ECMWF）的人工智慧集合預報系統，標誌著中國AI氣象預報達到世界先進水平。"
-    },
-    {
-      "id": "5151476",
-      "time": "2026-10-17 17:04:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大風來襲！遼寧營口海域實施全域海上交通管制】從營口海事局獲悉，10月17日12時到18日8時，遼寧營口轄區海域東南風7到8級、陣風9到10級，區域性區域可達11級。根據大風發展情況，營口海事部門13時啟動防禦極端天氣三級響應，對全域實施交通管制。（央視新聞）"
-    },
-    {
-      "id": "5151473",
-      "time": "2026-10-17 17:02:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【英國外交部建議本國公民避免前往沙特】英國外交部16日釋出公告，建議本國公民不要前往沙烏地阿拉伯與葉門邊境10公里範圍內的區域，且“除非必要，否則不要前往沙特其他地區”。 公告說，今年7月以來葉門胡塞武裝已向沙特境內多個目標發射導彈和無人機，沙特機場、軍事和國防設施、港口、能源基礎設施和主要城市等“均面臨嚴重威脅”。 公告還說，位於沙特首都利雅得的哈立德國王國際機場本月10日遭到襲擊。預計沙特境內的機場將遭受更多襲擊，航班也很可能被中斷和取消。公告建議，英國公民離開沙特應考慮透過陸路前往鄰國，然後在鄰國搭乘航班。 近期，胡塞武裝頻頻使用導彈和無人機襲擊沙特境內國際機場、石油設施等關鍵目標。沙特主導的多國聯軍發言人圖爾基·馬利基15日說，胡塞武裝10月以來對哈立德國王國際機場的襲擊共造成17人死亡、333人受傷。(新華社)"
-    },
-    {
-      "id": "5151472",
-      "time": "2026-10-17 17:02:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【冀中能源集團董事會原董事陳亞傑接受審查調查】中央紀委國家監委網站10月17日通報，據河北省紀委監委訊息：冀中能源集團有限責任公司董事會原董事，峰峰集團有限公司原黨委書記、董事長陳亞傑涉嫌嚴重違紀違法，目前正接受河北省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "5151471",
-      "time": "2026-10-17 17:02:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：昨天，俄方對烏克蘭能源部門發動了其規模最大的襲擊之一，烏克蘭多個地區的15處以上關鍵電力生產及輸送設施遭到打擊。目前，修復工作正在進行中。盧茨克、羅夫諾、日托米爾、文尼察、舍佩托夫卡、斯拉武塔和涅季申等地的情況最為嚴峻。哈爾科夫、基輔、第聶伯羅及其他地區的能源設施也遭到了打擊。"
-    },
-    {
-      "id": "mkt:01a14914-0613-7ee0-a8ca-33a1fcc1e7ba",
-      "time": "2026-10-17 16:56:51",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "Bank of England said Governor Bailey was among delegates who walked out of an IMF meeting in protest at the Russian representative."
-    },
-    {
-      "id": "5151470",
-      "time": "2026-10-17 16:55:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本自民黨政調會長參拜靖國神社】日本自民黨政調會長小林鷹之今天（10月17日）參拜了靖國神社。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a1490b-93d7-7ee0-a8ca-2f1a2944074f",
-      "time": "2026-10-17 16:47:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "【Ukraine says Russian forces struck energy infrastructure in 10 oblasts】Ukraine's energy ministry said Russian forces carried out sustained strikes on energy infrastructure from the early hours to the morning of Oct 17, damaging facilities and causing power outages across 10 oblasts — Vinnytsia, Volyn, Donetsk, Zaporizhia, Zhytomyr, Odesa, Rivne, Ternopil, Khmelnytskyi and Kharkiv. Some areas have been placed on rolling blackout schedules to manage supply shortfalls. Ukraine's air force said Moscow used various missiles and about 332 UAVs from 18:00 on Oct 16; as of 08:00 on Oct 17 Ukraine's air-defence forces had shot down or suppressed 293 aerial targets, including four Kalibr cruise missiles and 289 UAVs. Russian UAVs were confirmed to have struck 22 locations; wreckage from downed UAVs was found at three additional sites."
-    },
-    {
-      "id": "5151468",
-      "time": "2026-10-17 16:42:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏稱俄軍襲擊烏10州能源設施】烏克蘭能源部今天（10月17日）通報稱，俄羅斯於當日凌晨至上午持續襲擊烏多個地區能源基礎設施，造成部分設施受損、多地供電中斷。此次遭襲涉及文尼察、沃倫、頓涅茨克、扎波羅熱、日托米爾、敖德薩、羅夫諾、捷爾諾波爾、赫梅利尼茨基和哈爾科夫共10個州。受襲擊影響，部分地區已按照停電時間表實施輪流停電，以應對電力供應缺口。 烏克蘭空軍今天通報稱，自16日晚18時起，俄軍使用多種導彈及332架各型別無人機對烏克蘭發動襲擊。根據初步資料，截至17日08:00，烏克蘭防空部隊擊落/壓制293個空中目標，其中包括4枚“口徑”巡航導彈以及289架各型別無人機。俄軍無人機已確認擊中22個地點，另有3個地點發現了被擊落無人機的殘骸。（CCTV國際時訊）"
-    },
-    {
-      "id": "5151467",
-      "time": "2026-10-17 16:41:12",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【上海演藝集團成立，打造全國領先演藝“航空母艦”】10月17日下午，上海演藝集團成立儀式暨《上海戲劇振興三年行動計劃（2026-2028年）》釋出在上海大歌劇院舉行。活動同步推出《上海市級國有文藝院團經典保留作品集萃》，標誌著上海演藝事業改革發展開啟新篇章。目前，上海正在加快建成具有世界影響力的社會主義現代化國際大都市。組建上海演藝集團、出臺戲劇振興專項計劃、系統梳理院團經典劇目家底，三項工作一體謀劃、協同推進，是上海打造全國領先演藝“航空母艦”，厚植“亞洲演藝之都”核心競爭力的關鍵落子。（上觀新聞）"
-    },
-    {
-      "id": "mkt:01a14901-2b99-7ee0-a8ca-22fd52753df5",
-      "time": "2026-10-17 16:36:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC co-founder Jack Clark said we need to jointly establish special, stringent rules for AI."
-    },
-    {
-      "id": "5151466",
-      "time": "2026-10-17 16:35:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【DeepSeek V4.1 Flash新版本釋出 許願式程式設計一鍵成真】DeepSeek訊息，DeepSeek V4.1 Flash現已更新至V4.1-Flash-1017版本，官方網頁端、APP與API模型已同步變更為新模型。DeepSeek V4.1 Flash 1017透過基於自反饋的強化學習（RL）訓練技術，提升了在遊戲開發、3D建模等方面從零開始構建完整專案的能力，能夠支援實現更多“許願式”程式設計任務及專案開發請求。"
-    },
-    {
-      "id": "5151465",
-      "time": "2026-10-17 16:30:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【多名中國公民入境後失蹤失聯、遭非法拘禁並被誘騙轉運至邊境，我駐泰使館提醒】中國駐泰國大使館10月16日發文，近期，泰國發生多起中國公民入境後失蹤失聯、遭非法拘禁並被誘騙轉運至泰緬邊境的案件。部分不法分子以高薪招聘、商務考察、投資合作、專案邀約等為幌子，誘騙中國公民赴泰並實施違法犯罪活動，嚴重威脅中國公民人身和財產安全。近期還出現多起針對國內從事直播、演藝等人員的拍攝演出邀約騙局。中國駐泰國使館提醒廣大赴泰國中國公民提高安全防範意識，謹防上當受騙，切實保護自身安全。一、警惕高薪招聘，謹防求職陷阱。二、警惕高回報、高利潤誘惑，切勿心存僥倖。三、提高出行警惕，謹慎搭乘他人安排的車輛。四、謹慎前往泰緬邊境等安全風險較高地區。五、保持通訊暢通，及時告知行程。中國駐泰國使館再次提醒廣大中國公民，出境前務必充分了解目的地安全形勢和相關法律法規，審慎評估各類風險，切勿輕信高薪、高回報誘惑，不參與來源不明、情況不明的活動，切實增強風險防範意識和自我保護能力。如遇緊急情況，請及時向泰國警方求助，並聯系中國駐泰國使領館。"
-    },
-    {
-      "id": "mkt:01a148f9-7e74-7ee0-a8ca-1b197d03e210",
-      "time": "2026-10-17 16:27:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "Anthropic co-founder Jack Clark said an internal economic model indicates that if AI models permeate the economy within the next year, US GDP could reach $44 trillion by 2030."
-    },
-    {
-      "id": "5151464",
-      "time": "2026-10-17 16:27:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "Anthropic聯合創始人克拉克：一個內部經濟模型顯示，如果AI模型在未來幾年內滲透到經濟中，到2030年美國GDP可能達到44萬億美元。"
-    },
-    {
-      "id": "mkt:01a148f8-8c44-7ee0-a8ca-1419ca54e0e7",
-      "time": "2026-10-17 16:26:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Europe & UK",
-        "Macro & Rates",
-        "Treasury Yields",
-        "EURUSD",
-        "Impact mixed",
-        "DAX",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【ECB President Lagarde: bond sell-off raising borrowing costs, slowing growth and dampening inflation】ECB President Lagarde said in Bangkok that a global bond sell-off has pushed up euro-area borrowing costs, weighing on growth and ultimately reducing inflationary pressure. Rising yields reflect investor concerns about debt and inflation and increased credit competition from AI-related investment; heavily indebted France is among the worst affected. She warned that tighter financing conditions and a marked rise in long-term yields since the last ECB meeting will make it harder for consumers to absorb Iran-war driven fuel-price increases and will slow growth, weakening price pass-through versus the ECB’s September forecast."
-    },
-    {
-      "id": "5151463",
-      "time": "2026-10-17 16:25:22",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行行長拉加德：債券拋售拖累經濟增長並將抑制通脹】歐洲央行行長拉加德週六表示，債券市場的拋售正導致歐元區借貸成本上升，拖累經濟增長，並最終抑制通脹。拉加德表示，這將使消費者更難承受伊朗衝突帶來的燃料價格上漲，情況比歐洲央行上個月的預測更為嚴峻。“儘管經濟增長展現出韌性，但融資條件已趨緊，自我們上次會議以來，長期利率明顯上升，”拉加德在曼谷向與會央行總裁和財長們表示。“這將放緩經濟增長，並使物價傳導效應較我們9月時的預測更弱。”"
-    },
-    {
-      "id": "mkt:01a148f2-522a-7ee0-a8ca-09a43297d09f",
-      "time": "2026-10-17 16:20:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【IMO secretary-general: Strait of Hormuz transit risk remains high】IMO Secretary-General Arsenio Domingues said on Oct. 16 that security in the Strait of Hormuz and adjacent waters is deteriorating and transit risk remains high. He reiterated IMO guidance issued over recent months: vessels should avoid transiting the Strait or conducting trade in the area, and operators should take measures to protect crew, ships and the marine environment. He said shipping should not be used as a pressure tool in conflicts and that only addressing the crisis’s root causes will create conditions for restoring regional navigational safety."
-    },
-    {
-      "id": "5151462",
-      "time": "2026-10-17 16:19:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年浙江義烏跨境電商進口清單量破1億單】杭州海關所屬義烏海關17日公佈最新資料：截至10月17日，今年義烏海關監管的義烏跨境電商進口清單量突破1億單，較去年達成該目標提前40余天，創同期歷史新高。據悉，今年以來，義烏跨境電商進口商品涵蓋食品、化妝品、嬰幼兒奶粉、玩具等7萬多個品類，來自全球90多個國家和地區。"
-    },
-    {
-      "id": "mkt:01a148f1-5db5-7ee0-a8ca-02c3975d7ba6",
-      "time": "2026-10-17 16:18:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China auto association meets Australian FCAI and TIC on EV infrastructure and standards】Oct 16, 2026 — The China Association of Automobile Manufacturers (CAAM) held talks with Australia’s Federal Chamber of Automotive Industries (FCAI) and the Truck Industry Council (TIC). FCAI technical officer James Toll and TIC technical officer Mark Hammond outlined their organisations’ mandates. Discussions centered on new-energy vehicle development, charging and battery-swap infrastructure rollout, and coordination of international technical standards and regulations. The three associations also exchanged views on market characteristics and segment-level trends."
-    },
-    {
-      "id": "5151461",
-      "time": "2026-10-17 16:18:04",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【國際海事組織秘書長：霍爾木茲海峽通行風險仍高】國際海事組織秘書長阿塞尼奧·多明格斯16日表示，霍爾木茲海峽及周邊海域安全形勢持續惡化，船舶通行風險並未降低。他強調，航運不應被用作衝突中的施壓工具，衝突各方只有著手解決危機根源，才能為該地區航運安全恢復創造條件。（新華社）"
-    },
-    {
-      "id": "mkt:01a148ea-b865-7ee0-a8c9-fa8a7652ef0d",
-      "time": "2026-10-17 16:11:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Anthropic co-founder Jack Clark said AI could bring more change than currently expected."
-    },
-    {
-      "id": "5151460",
-      "time": "2026-10-17 16:11:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic聯合創始人傑克·克拉克（Jack Clark）表示，人工智慧有望帶來比我們目前預期更為深遠的變革。"
-    },
-    {
-      "id": "5151459",
-      "time": "2026-10-17 16:10:24",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【澤連斯基要求歐盟追加援助 馮德萊恩：資金缺口“必須填補”】烏克蘭總統澤連斯基16日在比利時布魯塞爾舉行的歐盟峰會上要求歐盟明年再提供至少700億歐元援助。他還表示，美國“星鏈”衛星通訊系統的使用限制影響烏軍攔截俄羅斯無人機的能力，烏美預計將在未來幾天安排一定級別的會晤。澤連斯基在向歐盟領導人發表講話時說，烏克蘭2027年戰爭相關支出預計將達1550億歐元，烏方至少還需要歐盟提供700億歐元，用於國防、武器裝備及增強國家韌性。對此，歐盟委員會主席馮德萊恩同日在布魯塞爾表示，由於俄烏衝突仍在持續且難以預測，烏克蘭700億歐元的資金缺口“必須填補”。澤連斯基呼籲歐盟出臺強有力的第22輪對俄製裁措施，重點針對參與俄羅斯彈道導彈、先進通訊系統和無人機生產的企業和個人。他還批評美國與俄羅斯之間的“柴油協議”，認為相關安排將增加俄方收入，為其繼續開展軍事行動提供資金。（新華社）"
-    },
-    {
-      "id": "5151458",
-      "time": "2026-10-17 16:07:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國加州南部野火迅速蔓延 超萬人被疏散】美國加利福尼亞州南部一場野火迅速蔓延，燒燬多棟房屋。美國加州南部奧蘭治縣消防局稱，這場野火於16日中午在該縣聖克萊門特和聖胡安卡皮斯特拉諾的居民區附近燃起。截至16日晚間，火勢已蔓延至570英畝。奧蘭治縣消防局局長表示，多個區域已釋出疏散令，涉及約4600戶住宅和約16000名居民。當地官員表示，截至16日晚間，滅火工作已取得進展，但警告稱火情仍然不穩定。（央視新聞）"
-    },
-    {
-      "id": "5151457",
-      "time": "2026-10-17 16:06:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基警告歐盟：若戰敗，2000萬烏克蘭難民將湧入歐洲】據俄羅斯《側面》週刊網站10月17日報道，烏克蘭領導人澤連斯基在布魯塞爾表示，烏克蘭若戰敗，可能引發新一輪湧向歐盟的難民潮，人數或多達2000萬。正因如此，基輔才請求歐洲各國加大支援力度。 他在歐洲理事會會議結束後舉行的新聞釋出會上說：“如果我們倒下會發生什麼？我不知道具體會有多少人，可能會有2000萬烏克蘭人湧入歐洲。因為我們將被迫離開自己的國家。正因如此，我懇請你們幫助保衛烏克蘭。” 在回答有關與美國總統特朗普接觸的問題時，澤連斯基用“奇怪”來形容美俄柴油協議導致的局面。但他表示，與美國談判代表的對話仍在繼續。（參考訊息）"
-    },
-    {
-      "id": "5151456",
-      "time": "2026-10-17 16:00:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部稱夜間襲擊了烏克蘭鋼鐵廠和電力基礎設施。"
-    },
-    {
-      "id": "5151455",
-      "time": "2026-10-17 16:00:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱擊落多架烏無人機 烏稱多地能源設施遭襲】俄羅斯國防部當地時間17日通報稱，16日20時至17日8時，俄軍防空系統在莫斯科地區、列寧格勒州及黑海等多個地區和海域上空共攔截並摧毀610架烏克蘭固定翼無人機。17日，烏克蘭能源部通報稱，俄羅斯於當日凌晨至上午持續襲擊烏多個地區能源基礎設施，造成部分設施受損、多地供電中斷，涉及文尼察、沃倫、日托米爾和敖德薩等10個州。受襲擊影響，部分地區已按照停電時間表實施輪流停電，以應對電力供應缺口。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a148df-9e2d-7ee0-a8c9-f25c2082a958",
-      "time": "2026-10-17 15:59:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Critics condemn Prime Minister Takaichi's Yasukuni offering】On the 17th Prime Minister Takaichi Sanae, in her capacity as prime minister, presented a masakaki offering at Yasukuni Shrine, which enshrines Class-A World War II convicted war criminals. Several senior politicians — including the minister responsible for economic and fiscal policy and the speakers of the lower and upper houses — also presented masakaki. Fujita Takakage, chair of the Murayama Statement Inheritance and Development Association, said he strongly opposes politicians visiting or making offerings at Yasukuni, called the acts absurd and wrong, and urged Japanese society to uphold the spirit of the Murayama Statement."
-    },
-    {
-      "id": "mkt:01a148da-12ce-7ee0-a8c9-ecde8a411543",
-      "time": "2026-10-17 15:53:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi civil defense says risk in KHAMIS MUSHAIT and ABHA has been lifted."
-    },
-    {
-      "id": "5151454",
-      "time": "2026-10-17 15:52:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海上大風橙色預警持續 山東多港口實施禁限航】受強冷空氣影響，山東海域風力持續增強，海上大風橙色預警繼續生效。山東海事部門全面加強大風防抗排程，客運航線停航，港口實施禁限航。山東省氣象臺於10月17日11時繼續釋出海上大風橙色預警，氣象預報顯示，17日下午到夜間，渤海、渤海海峽、黃海北部和中部南風將增強到7到8級、陣風9到10級，部分割槽域將達到陣風10到11級。山東海事局於17日8時啟動二級防禦響應，目前，全省客運航線全部停航。港口管制方面，董家口、東營、濱州港口已禁航；日照石臼、嵐山港區實施禁航；煙臺、青島、濰坊、威海實施限航，禁止中小型船舶、施工船等離港。海事部門將持續加強海上交通組織，全力保障船舶航行安全。"
-    },
-    {
-      "id": "5151453",
-      "time": "2026-10-17 15:52:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特稱海米斯穆謝特和艾卜哈的危險已經過去。"
-    },
-    {
-      "id": "5151452",
-      "time": "2026-10-17 15:51:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年來昆明機場口岸入出境外籍人員突破100萬人次】據昆明出入境邊防檢查站統計，截至10月14日，昆明長水國際機場年度入出境外籍人員數量突破100萬人次，同比增長18.23%。其中享受免簽入境外籍人員達34.86萬人次，同比增長16.92%，創歷史同期新高。目前，該機場共開通19個國家和地區38個航點，航線網路覆蓋南亞、東南亞、東亞等多個區域。（新華社）"
-    },
-    {
-      "id": "5151451",
-      "time": "2026-10-17 15:50:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國沿長江及以北地區有降雨過程 國家防總辦公室排程部署防汛工作】應急管理部訊息，10月17日上午，國家防總辦公室、應急管理部組織中國氣象局、水利部、自然資源部等部門聯合會商，研判沿長江及以北地區大範圍降雨過程發展趨勢，研究部署重點地區防汛工作。會商指出，本輪降雨過程影響範圍廣，南方部分地區持續降雨，北方前期少雨地區有明顯降雨，要高度警惕局地強降雨引發山洪和地質災害等風險。"
-    },
-    {
-      "id": "5151450",
-      "time": "2026-10-17 15:50:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華納藥廠原料藥硫酸特布他林、吲哚菁綠獲批上市】近日，華納藥廠全資子公司湖南華納大藥廠手性藥物有限公司相繼收到國家藥品監督管理局簽發的硫酸特布他林、吲哚菁綠《化學原料藥上市申請批准通知書》，與製劑共同審評審批結果為“A”，符合國家相關藥品審評技術標準，已批准在國內製劑中使用。"
-    },
-    {
-      "id": "mkt:01a148d6-c7fe-7ee0-a8c9-e42dafb9bdcc",
-      "time": "2026-10-17 15:49:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Saudi General Directorate of Civil Defense said it has issued early warnings of potential threats to Khamis Mushait and Abha."
-    },
-    {
-      "id": "5151449",
-      "time": "2026-10-17 15:49:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特釋出艾卜哈（ABHA）潛在危險預警。"
-    },
-    {
-      "id": "5151448",
-      "time": "2026-10-17 15:49:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特就海米斯穆謝特 （Khamis Mushait）可能存在的危險釋出警示。"
-    },
-    {
-      "id": "mkt:01a148d5-c010-7ee0-a8c9-d91b2d16f475",
-      "time": "2026-10-17 15:48:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "TASS, citing emergency services, reported a Ukrainian drone strike in Russia's Belgorod region killed one woman."
-    },
-    {
-      "id": "5151447",
-      "time": "2026-10-17 15:43:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委、德國央行行長納格爾(Joachim Nagel)週六表示，歐洲央行的抗通脹任務尚未完成，他認為決策者還需採取更多措施。"
-    },
-    {
-      "id": "5151446",
-      "time": "2026-10-17 15:41:16",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【經濟日報：懂車帝商業模式集“裁判員”和“運動員”於一身，存在利益衝突，很難建立公信力】10月17日，經濟日報釋出文章《“剎車門”不只拷問質量安全》。 文章指出，值得關注的是，此次“剎車門”之所以爭議較大，還在於測試方的“角色衝突”。汽車測評是一門專業且具公信力的活動。國家網信辦和市場監管總局今年6月聯合印發的《網路測評活動規範》明確規定：“從事網路測評活動，涉及對產品功能、效能等專案測試，應當委託具有法定檢驗檢測資質許可的檢驗檢測機構按照相關標準以及技術規範開展測試。”“接受第三方委託、贊助或者與測評樣本相關方存在利益關係的，應當作出顯著提示。”這對測試方資質、方法及利益迴避方式提出了具體要求。 文章提到，懂車帝作為抖音集團旗下的汽車資訊與交易服務平臺，一邊對車企產品展開測評，一邊又靠車企和經銷商廣告投放、線索導流獲利。這樣的商業模式，本質上集“裁判員”和“運動員”於一身，存在利益衝突，很難建立公信力。如果任其濫用非標極限測試，將測評“武器化”，今天受打擊的是某個品牌，明天受打擊的將是一家企業，最終受傷害的是中國汽車產業生態。"
-    },
-    {
-      "id": "5151445",
-      "time": "2026-10-17 15:39:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【甘肅省委：全力“揭蓋子”、“挖根子”，堅決清除“蠅貪蟻腐”】據甘肅日報訊息，10月16日，甘肅省委書記吳曉軍主持召開省委常委會會議。會議強調，要壓緊壓實責任，強化部門協作配合，突出抓好高標準農田建設、農村集體“三資”管理、醫保基金管理、養老服務等領域問題整治。要堅持辦案開路，堅決查辦“窩案”、“串案”，全力“揭蓋子”、“挖根子”，堅決清除“蠅貪蟻腐”，確保整治成果讓人民群眾可感可及。要堅持邊整治邊總結，結合實際建立健全規範管理、常態整治、貫通協調、群眾參與等方面的制度機制，確保取得行風重塑、基層善治、群眾受益的綜合成果。"
-    },
-    {
-      "id": "5151444",
-      "time": "2026-10-17 15:39:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國汽車工業協會與澳大利亞聯邦汽車工業商會、澳大利亞卡車工業理事會舉行交流會談】2026年10月16日，中國汽車工業協會與澳大利亞聯邦汽車工業商會（FCAI）、澳大利亞卡車工業理事會（TIC）舉行座談交流。中汽協會與FCAI和TIC均是國際汽車製造商協會（OICA）的主要會員單位。雙方將在此基礎上進一步加強交流與務實合作，依託 OICA 框架參與聯合國世界車輛法規協調論壇（WP.29）有關活動，共同推動國際標準法規領域的規則銜接。雙方一致表示，願以此次會談為契機，進一步加強交流互訪，深化在中澳兩國智慧網聯新能源汽車產業交流、技術標準與法規協調等。"
-    },
-    {
-      "id": "5151443",
-      "time": "2026-10-17 15:38:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯緊急服務部門訊息：烏克蘭無人機襲擊俄羅斯別爾哥羅德地區，造成一名女性死亡。"
-    },
-    {
-      "id": "5151442",
-      "time": "2026-10-17 15:35:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約原油暗盤突破98美元，日內漲超3.1%。"
-    },
-    {
-      "id": "5151441",
-      "time": "2026-10-17 15:35:48",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【上海財經大學校長劉元春：AI重塑全球金融結構 經濟“新三角”已然形成】在10月17日舉辦的“全球財富管理論壇·2026上海蘇河灣大會”上，上海財經大學校長劉元春表示，傳統全球經濟三角格局已經崩潰，“新三角”已然形成。“‘新三角’指的是美國創新與金融成為孿生體、歐洲儲蓄率飆升、中國板塊呈現革命性變化。在‘新三角’裡看到的投資機會以及金融需求變化，是我們需要高度關注的。”劉元春表示，當前全球經濟的彈性和韌性超出預期，未來經濟的低速增長已成為共識，但學界對於AI將如何作用於全球經濟增長，仍然存在顯著分歧。一部分技術激進主義者認為，AI會快速拉動全球經濟重回4%高增長區間，悲觀陣營則擔憂會遭遇索洛悖論、J曲線效應，甚至迎來結構性衝擊。（上證報）"
-    },
-    {
-      "id": "5151440",
-      "time": "2026-10-17 15:34:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克蘇萊曼尼亞一處油庫發生火災。"
-    },
-    {
-      "id": "5151439",
-      "time": "2026-10-17 15:33:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬斯克：你將能夠要求Roadster自主執行演示中展示的任何特技動作。因為它將具有感知能力。此外，我們將在德克薩斯總部建造一條狂野的迴圈賽道（甚至比 “風火輪”還要瘋狂），你可以在那裡測試你的Roadster。"
-    },
-    {
-      "id": "5151438",
-      "time": "2026-10-17 15:33:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美銅暗盤跌破6.6美元，日內跌幅0.5%。"
-    },
-    {
-      "id": "5151437",
-      "time": "2026-10-17 15:33:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交行副行長周萬阜：銀行經營重心要從“拉存款”轉向“AUM綜合經營”】10月17日，交通銀行副行長周萬阜在全球財富管理論壇.2026上海蘇河灣大會上表示，低利率喚醒了居民和企業的資產配置意識，存款加速向理財、基金、保險等遷移。應對負債端“存款理財化”的變化，銀行需要把經營座標從存款餘額切換為客戶金融資產總量，將負債管理從拉存款轉向AUM(客戶資產規模)綜合經營。（澎湃）"
-    },
-    {
-      "id": "mkt:01a148c7-6dd5-7ee0-a8c9-d59d2e024bd1",
-      "time": "2026-10-17 15:33:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Bank of Communications deputy president Zhou Wanfu says banks should shift focus from deposit gathering to integrated AUM management】On Oct. 17 at the Global Wealth Management Forum 2026 in Shanghai’s Suhewan, Bank of Communications deputy president Zhou Wanfu said low interest rates have prompted households and corporates to reallocate assets, accelerating deposit flows into wealth management, mutual funds and insurance. To address liability-side “deposit financialization,” banks should change operating metrics from deposit balances to total client financial assets and shift liability management from deposit gathering to integrated AUM (client assets under management) operations."
-    },
-    {
-      "id": "5151436",
-      "time": "2026-10-17 15:32:21",
-      "tags": [
-        "央行",
-        "觀點",
-        "其他",
-        "國際"
-      ],
-      "text": "英國央行行長貝利：在支付技術領域開展全球合作至關重要。"
-    },
-    {
-      "id": "5151435",
-      "time": "2026-10-17 15:29:11",
-      "tags": [
-        "央行",
-        "觀點",
-        "國際"
-      ],
-      "text": "英國央行行長貝利：人工智慧將導致支付欺詐問題進一步惡化。"
-    },
-    {
-      "id": "5151434",
-      "time": "2026-10-17 15:28:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【橫跨六省區 甘浙特高壓工程直流系統進入除錯階段】近日，甘肅至浙江特高壓工程迎來關鍵節點，該工程受端的越州換流站接地極在浙江臨安完成驗收。這是該工程直流系統首個透過驗收的核心單元，標誌著甘浙特高壓直流系統進入除錯階段。"
-    },
-    {
-      "id": "5151433",
-      "time": "2026-10-17 15:27:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國際貨幣基金組織總裁：秋季年會達成三項核心共識】當地時間10月17日，國際貨幣基金組織（IMF）總裁克里斯塔利娜·格奧爾基耶娃在泰國曼谷舉行的2026年秋季年會總結髮言中表示，本次會議圍繞全球經濟韌性、人工智慧發展及其風險、全球經濟分化等議題展開深入討論，並達成三項核心共識。格奧爾基耶娃指出，人工智慧已成為推動經濟增長的重要動力，但過度依賴單一增長引擎也會帶來風險。當前全球經濟韌性的基礎正面臨挑戰。其次，全球經濟分化日益加劇。未能參與人工智慧價值鏈的國家，以及受到戰爭衝擊的能源進口國，正面臨更大的發展壓力，全球經濟增長紅利尚未得到均衡分享。第三，人工智慧發展迅速，當下的政策選擇將深刻影響其未來發展方向。各方普遍認為，在充分釋放人工智慧發展紅利的同時，也需要建立必要的防護機制，管控相關風險，並加強政府、企業及國際機構之間的合作。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a148c2-53c4-7ee0-a8c9-cb2afcc0ec8e",
-      "time": "2026-10-17 15:27:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【IMF's Georgieva says autumn meetings reached three core agreements】On Oct. 17 in Bangkok IMF Managing Director Kristalina Georgieva said the 2026 autumn meetings produced three core consensuses: AI is now a key growth driver but overreliance and concentration pose risks and global economic resilience is under pressure; global economic divergence is widening—countries outside the AI value chain and energy-importing economies hit by war face greater development stress and growth gains are unevenly shared; and rapid AI development means current policy choices will shape its future path. Participants agreed to pursue AI’s benefits while building safeguards, risk controls and stronger cooperation among governments, firms and international institutions."
-    },
-    {
-      "id": "mkt:01a148c0-d9a5-7ee0-a8c9-c5ed1844fd57",
-      "time": "2026-10-17 15:26:00",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Hang Seng Index"
-      ],
-      "text": "【Beijing's first-release economy hits new high in first three quarters of 2026】Beijing said it used city–district coordination and three-new pilot construction funds to attract domestic and foreign brands to open first stores and stage debut events. Jan–Sep 2026: 766 new physical first stores opened and 893 debut/launch/exhibit/performance events were held. The city reported an improvement in supply quality toward “new”: technology-enabled new scenarios, national‑chic brands energizing the central axis, and high‑end formats extending into suburban micro‑vacation areas."
-    },
-    {
-      "id": "5151432",
-      "time": "2026-10-17 15:18:32",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：由誰承擔 AI 智慧體相關責任這一問題極具現實意義。"
-    },
-    {
-      "id": "mkt:01a148b8-e6ed-7ee0-a8c9-bb8c231192df",
-      "time": "2026-10-17 15:17:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Bank of England Governor Bailey said the world needs stricter testing standards for AI models."
-    },
-    {
-      "id": "5151431",
-      "time": "2026-10-17 15:15:44",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "英國央行行長貝利：全球需要更嚴格的人工智慧模型測試標準。"
     }
   ]
 }
