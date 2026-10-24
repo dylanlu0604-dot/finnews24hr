@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-24 22:17:11",
-  "count": 13020,
+  "updated": "2026-10-24 22:21:11",
+  "count": 13022,
   "items": [
+    {
+      "id": "mkt:01a16e47-c6ca-7ee0-a965-0d2f124d2334",
+      "time": "2026-10-24 22:19:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【On eve of Brazil runoff, Flavio Bolsonaro and Lula neck‑and‑neck in CNT/MDA poll】CNT/MDA poll published Saturday shows right‑wing senator Flavio Bolsonaro and President Lula virtually tied ahead of Sunday’s runoff: Bolsonaro 46.3%, Lula 45.0%. A week‑earlier poll showed Bolsonaro 46.8% vs Lula 45.9%. CNT/MDA surveyed 2,032 respondents Oct 21–23; margin of error ±2.2 percentage points."
+    },
+    {
+      "id": "5166376",
+      "time": "2026-10-24 22:18:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英特爾暗盤跌超2%，現報85.725美元。"
+    },
     {
       "id": "mkt:01a16e43-f267-7ee0-a965-03990ae4bc11",
       "time": "2026-10-24 22:15:08",
