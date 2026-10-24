@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-25 02:13:08",
-  "count": 13046,
+  "updated": "2026-10-25 02:16:57",
+  "count": 13045,
   "items": [
+    {
+      "id": "5166577",
+      "time": "2026-10-25 02:13:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門武裝部隊稱，襲擊了塔伊茲省胡塞武裝的一處指揮控制中心和重型武器庫。"
+    },
+    {
+      "id": "5166576",
+      "time": "2026-10-25 02:12:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門武裝部隊：過去24小時內實施了736次精確直接打擊行動。"
+    },
     {
       "id": "mkt:01a16f18-17cb-7ee0-a966-30e4e5286d54",
       "time": "2026-10-25 02:06:52",
@@ -118078,38 +118094,6 @@
         "公司"
       ],
       "text": "軟銀集團正就收購聯合環球（Allied Universal）展開初步談判。"
-    },
-    {
-      "id": "mkt:01a14b13-945c-7ee0-a8cd-4b283427e49c",
-      "time": "2026-10-18 02:15:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fars News Agency quoted an IRGC spokesman dismissing reports that the US was considering use of the \"Mother of All Bombs\" (MOAB), saying only \"barbaric civilizations\" would use \"mother\" to name their most powerful bomb."
-    },
-    {
-      "id": "mkt:01a14b12-463b-7ee0-a8cd-42fadf850da8",
-      "time": "2026-10-18 02:14:11",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Houthi rebels say they shot down Saudi Apache helicopter near Najran】On the 17th (local time), Houthi rebel spokesman Yahya Saree said the group shot down a Saudi Apache helicopter near Najran, Saudi Arabia. The statement said the helicopter was attempting hostile action against Houthi positions in the border area and was subsequently shot down using appropriate weapons."
-    },
-    {
-      "id": "mkt:01a14b11-688b-7ee0-a8cd-3a6d661106d3",
-      "time": "2026-10-18 02:13:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iranian forces fire on, intercept vessels attempting \"unauthorized\" passage in Strait of Hormuz】Iranian armed forces said they fired on and intercepted vessels attempting \"unauthorized\" passage through the Strait of Hormuz at 18:15 local time on the 17th, firing from an area near Sirik."
     }
   ]
 }
