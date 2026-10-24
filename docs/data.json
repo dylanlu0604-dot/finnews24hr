@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-24 09:52:50",
-  "count": 13062,
+  "updated": "2026-10-24 09:56:38",
+  "count": 13061,
   "items": [
+    {
+      "id": "5165811",
+      "time": "2026-10-24 09:52:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年海洋產業投融資路演（深圳站）活動舉辦】10月22日至23日，由自然資源部海洋戰略規劃與經濟司主辦的海洋產業投融資路演活動在深圳如期舉辦。來自政研企銀的1400餘人次線上線下參加活動，對接融資需求超15億元。其中，內陸企業加速佈局海洋產業，成為本次活動傳遞的新訊號。截至目前，海洋產業投融資路演系列活動已連續舉辦11年，服務超260家涉海企業和科創團隊，融資需求超410億元。"
+    },
     {
       "id": "5165794",
       "time": "2026-10-24 09:51:10",
@@ -118361,22 +118369,6 @@
         "Important"
       ],
       "text": "The state reserves website posted a notice on the Oct. 22, 2026 central reserve frozen pork rotation procurement auction; the auction offers 13,800 tonnes."
-    },
-    {
-      "id": "5151143",
-      "time": "2026-10-17 09:54:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗中央省民用設施遭襲受損 重建工作進行中】美以伊衝突給伊朗多地造成嚴重破壞，許多學校、體育場館等民用機構在美以的空襲中受損。近日，總檯記者來到伊朗中央省，探訪了在戰爭中遭襲的部分場所，這也是自今年2月戰爭爆發以來，伊朗政府首次允許外媒記者進入該省拍攝。據霍梅恩市市長介紹，除了民用設施外，這座人口不足10萬的小城，共有21名普通民眾在空襲中遇難，13棟民宅被完全摧毀，爆炸波及的受損房屋超過上千處。目前，當地市政部門仍在繼續相關重建和修繕工作。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a14790-dd02-7ee0-a8c7-9aaf4908a552",
-      "time": "2026-10-17 09:53:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Higher vocational colleges account for over half of China's higher education institutions】China has 9,151 secondary vocational schools (including technical schools), 1,554 higher vocational colleges, 124 vocational undergraduate institutions and 52 regular universities offering vocational bachelor programs. Higher vocational institutions comprise more than half of the country's higher education sector. As of end-2025, the Vocational Education Program Catalogue lists 19 major subject groups, 97 subject categories and 1,491 programs, covering sectors across the national economy and fully spanning 41 major industrial categories."
     }
   ]
 }
