@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-24 18:57:01",
+  "updated": "2026-10-24 19:00:58",
   "count": 13040,
   "items": [
+    {
+      "id": "mkt:01a16d8f-0164-7ee0-a963-b3b2c37f9e9e",
+      "time": "2026-10-24 18:57:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【EVE Energy: Q4 production schedule seen rising QoQ; capacity fully booked】EVE Energy said on an Oct. 23 conference call that Q4 production scheduling is expected to rise QoQ and that Q4 capacity is fully booked. Inventory turnover is about 56 days, within normal production and cell storage/delivery cycles; with raw-material prices volatile the company will accelerate inventory turnover and reduce safety stock. Q1 2027 allocations are not final as monthly shipment plans are being refined; the company aims for solid YoY growth."
+    },
+    {
+      "id": "mkt:01a16d8e-6326-7ee0-a963-aa3bfadd2474",
+      "time": "2026-10-24 18:56:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sputnik reported Iran's foreign minister described talks with Russia's foreign minister LAVROV as constructive, saying discussions focused on strengthening strategic ties, expanding political and economic cooperation, and addressing key regional and global issues. He said President Putin and Iran's president PEZESHKIAN will continue consultations in Moscow next week."
+    },
     {
       "id": "5166194",
       "time": "2026-10-24 18:55:02",
@@ -118011,22 +118027,6 @@
         "公司"
       ],
       "text": "【海康威視：未來幾年增長依然來自場景數字化】10月17日，海康威視(002415)舉行2026年三季度業績說明會。公司表示，往前看，公司未來幾年的增長依然來自場景數字化，繼續做好人工智慧從物理世界到數字世界的橋樑。大模型時代，AI泛化能力和認知能力躍升，多模態理解、複雜推理成為現實，對於許多以往難以解決的場景痛點，我們有了新解法。這為場景數字化業務的推進開啟了更大空間，能覆蓋的場景更多、解決的痛點更深，創造的客戶價值更大。"
-    },
-    {
-      "id": "mkt:01a14985-2030-7ee0-a8cb-01c2a652a5f3",
-      "time": "2026-10-17 19:00:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said Ukraine held talks with a U.S. delegation on Friday."
-    },
-    {
-      "id": "5151512",
-      "time": "2026-10-17 18:57:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱烏克蘭與美國團隊於週五舉行會談。"
     }
   ]
 }

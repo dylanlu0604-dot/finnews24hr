@@ -1,7 +1,23 @@
 {
   "date": "2026-10-24",
-  "count": 706,
+  "count": 708,
   "items": [
+    {
+      "id": "mkt:01a16d8f-0164-7ee0-a963-b3b2c37f9e9e",
+      "time": "2026-10-24 18:57:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【EVE Energy: Q4 production schedule seen rising QoQ; capacity fully booked】EVE Energy said on an Oct. 23 conference call that Q4 production scheduling is expected to rise QoQ and that Q4 capacity is fully booked. Inventory turnover is about 56 days, within normal production and cell storage/delivery cycles; with raw-material prices volatile the company will accelerate inventory turnover and reduce safety stock. Q1 2027 allocations are not final as monthly shipment plans are being refined; the company aims for solid YoY growth."
+    },
+    {
+      "id": "mkt:01a16d8e-6326-7ee0-a963-aa3bfadd2474",
+      "time": "2026-10-24 18:56:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sputnik reported Iran's foreign minister described talks with Russia's foreign minister LAVROV as constructive, saying discussions focused on strengthening strategic ties, expanding political and economic cooperation, and addressing key regional and global issues. He said President Putin and Iran's president PEZESHKIAN will continue consultations in Moscow next week."
+    },
     {
       "id": "5166194",
       "time": "2026-10-24 18:55:02",
