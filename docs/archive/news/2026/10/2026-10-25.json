@@ -1,7 +1,23 @@
 {
   "date": "2026-10-25",
-  "count": 37,
+  "count": 39,
   "items": [
+    {
+      "id": "5166535",
+      "time": "2026-10-25 01:29:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：許多伊朗民眾難以獲得食物，呼籲結束“不戰不和的狀態”。"
+    },
+    {
+      "id": "mkt:01a16ef5-7182-7ee0-a966-02cff6993fac",
+      "time": "2026-10-25 01:29:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President Pezeshkian said many Iranians are struggling to obtain food and called for an end to the current 'no-war, no-peace' situation."
+    },
     {
       "id": "mkt:01a16ee5-da07-7ee0-a965-ff4454349dc1",
       "time": "2026-10-25 01:11:59",
