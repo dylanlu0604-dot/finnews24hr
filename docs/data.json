@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-25 04:18:36",
-  "count": 13033,
+  "updated": "2026-10-25 04:22:24",
+  "count": 13032,
   "items": [
+    {
+      "id": "5166627",
+      "time": "2026-10-25 04:21:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭的星鏈限速：我已經和埃隆·馬斯克談過了。"
+    },
+    {
+      "id": "mkt:01a16f92-55bb-7ee0-a966-fefce51a5570",
+      "time": "2026-10-25 04:20:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he had spoken with Elon Musk about Starlink."
+    },
     {
       "id": "mkt:01a16f8d-2c19-7ee0-a966-f317d607f58d",
       "time": "2026-10-25 04:14:45",
@@ -117960,33 +117976,6 @@
         "國際"
       ],
       "text": "美國防長赫格塞思談伊朗：我們不能生活在一個瘋狂之人擁有世界上最具破壞性炸彈和武器的世界裡。"
-    },
-    {
-      "id": "mkt:01a14b85-81fc-7ee0-a8ce-62bdc4cd894a",
-      "time": "2026-10-18 04:20:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RIA quoted the Moscow mayor as saying 25 drones bound for Moscow were destroyed."
-    },
-    {
-      "id": "mkt:01a14b85-2c89-7ee0-a8ce-5be7220ce257",
-      "time": "2026-10-18 04:19:41",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Pakistan says it struck Afghan militant border post and camp】Pakistani security sources said on the 17th Afghan militants fired without provocation in the Pakistan‑Afghanistan border area of Khyber Pakhtunkhwa, apparently to facilitate terrorist crossings. Pakistani forces responded by striking an Afghan border outpost and a military camp in the Ghulam area, killing several militants; the attackers abandoned the outpost and the camp was destroyed."
-    },
-    {
-      "id": "5152044",
-      "time": "2026-10-18 04:19:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普政府提議烏和平協議包含歐洲重購俄天然氣，德國明確反對】特朗普政府提議，作為烏克蘭和平協議的一部分，歐洲恢復採購俄羅斯天然氣，這將為莫斯科帶來數百億美元收入並使其重獲經濟影響力。美國特使賈裡德・庫什納與威特科夫已探討重啟途經烏克蘭的俄天然氣管道，還考慮恢復北溪管道。美國投資者也可分得一部分利潤。德國強烈反對該提議，警告再度依賴俄能源將威脅歐洲安全。德國選擇黨（AfD）則支援恢復進口，以此壓低能源價格。"
     }
   ]
 }

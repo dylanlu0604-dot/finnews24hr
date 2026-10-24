@@ -1,7 +1,23 @@
 {
   "date": "2026-10-25",
-  "count": 121,
+  "count": 123,
   "items": [
+    {
+      "id": "5166627",
+      "time": "2026-10-25 04:21:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭的星鏈限速：我已經和埃隆·馬斯克談過了。"
+    },
+    {
+      "id": "mkt:01a16f92-55bb-7ee0-a966-fefce51a5570",
+      "time": "2026-10-25 04:20:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he had spoken with Elon Musk about Starlink."
+    },
     {
       "id": "mkt:01a16f8d-2c19-7ee0-a966-f317d607f58d",
       "time": "2026-10-25 04:14:45",
