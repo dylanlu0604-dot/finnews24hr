@@ -1,7 +1,15 @@
 {
   "date": "2026-10-24",
-  "count": 553,
+  "count": 554,
   "items": [
+    {
+      "id": "mkt:01a16cac-37d4-7ee0-a961-fbbee10f6841",
+      "time": "2026-10-24 14:49:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Philippine Air Force confirmed on Oct 24 that two aircraft collided on Oct 23 during a training flight over Batangas province on Luzon, killing four air force pilots."
+    },
     {
       "id": "5166066",
       "time": "2026-10-24 14:46:38",
