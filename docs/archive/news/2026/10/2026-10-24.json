@@ -1,7 +1,17 @@
 {
   "date": "2026-10-24",
-  "count": 400,
+  "count": 401,
   "items": [
+    {
+      "id": "mkt:01a16b7a-9786-7ee0-a960-dbdd09db769f",
+      "time": "2026-10-24 09:15:58",
+      "tags": [
+        "MKT News",
+        "NOK.O",
+        "Impact bullish"
+      ],
+      "text": "【CNBC: Ukraine seeks alternatives to Starlink, signs letter of intent with Nokia and ICEYE】CNBC, citing a person familiar, said Kyiv is seeking alternatives after SpaceX limited Starlink and Starshield use in Ukraine, reportedly causing high‑speed drones to lose links and crash. The Ukrainian defense ministry said it has signed a letter of intent with Finland’s Nokia and satellite maker ICEYE to jointly develop new defense and satellite communications capabilities. President ZELENSKIY said, “Modern war has shown reliable communications are a matter of national security. We must rely on capabilities we can control.” He also announced a partnership with Norway to co‑develop air‑defense and communications systems as potential alternatives to Starshield."
+    },
     {
       "id": "5165678",
       "time": "2026-10-24 09:11:57",

@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-24 09:14:55",
-  "count": 13063,
+  "updated": "2026-10-24 09:18:45",
+  "count": 13060,
   "items": [
+    {
+      "id": "mkt:01a16b7a-9786-7ee0-a960-dbdd09db769f",
+      "time": "2026-10-24 09:15:58",
+      "tags": [
+        "MKT News",
+        "NOK.O",
+        "Impact bullish"
+      ],
+      "text": "【CNBC: Ukraine seeks alternatives to Starlink, signs letter of intent with Nokia and ICEYE】CNBC, citing a person familiar, said Kyiv is seeking alternatives after SpaceX limited Starlink and Starshield use in Ukraine, reportedly causing high‑speed drones to lose links and crash. The Ukrainian defense ministry said it has signed a letter of intent with Finland’s Nokia and satellite maker ICEYE to jointly develop new defense and satellite communications capabilities. President ZELENSKIY said, “Modern war has shown reliable communications are a matter of national security. We must rely on capabilities we can control.” He also announced a partnership with Norway to co‑develop air‑defense and communications systems as potential alternatives to Starshield."
+    },
     {
       "id": "5165678",
       "time": "2026-10-24 09:11:57",
@@ -118353,38 +118363,6 @@
         "觀點"
       ],
       "text": "【人民銳評：紙尿褲風波落地，照見維護公眾安全感的啟示】《人民銳評》刊文指出，國家的權威調查，讓無數家庭可以安心使用紙尿褲，延宕數月的輿論風波也塵埃落定。這份通報的分量，遠不止於結論本身，也為維護公眾安全感帶來諸多深刻啟示。一份經得起檢驗的通報，既是對公眾訴求的回應，也是對科學精神的堅守。“回應型治理”，回應的是民情，檢驗的是能力，築牢的是信任。讓監督更有力，讓檢測更規範，讓回應更及時，每一份安心才不會落空，每一份信任才不會被辜負，社會才能在科學與法治的軌道上行穩致遠。"
-    },
-    {
-      "id": "5151024",
-      "time": "2026-10-17 09:17:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國加州獲得聯邦援助，用於處置諾特火災。"
-    },
-    {
-      "id": "5151014",
-      "time": "2026-10-17 09:16:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海康威視與中國電信國際亞太分部簽署合作意向書】海康威視訊息，近日，在海康威視亞太製造業沙龍活動期間，海康威視與中國電信國際亞太分部簽署合作意向書。雙方將以新加坡產業數智化發展為合作重點，結合中國電信國際亞太分部在雲網融合、數字基礎設施及本地化服務等方面的能力，以及海康威視在物聯感知、人工智慧和行業數字化領域的技術積累，面向智慧校園、工業園區、智慧零售、商業建築、智慧教育、資料中心等場景開展交流與合作。"
-    },
-    {
-      "id": "mkt:01a1476e-6e16-7ee0-a8c7-652b08be8014",
-      "time": "2026-10-17 09:16:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CSTO holds joint exercise in Belarus】On the 16th the Collective Security Treaty Organization (CSTO) conducted the \"Unbreakable Brotherhood-2026\" joint exercise in Belarus to test member forces' coordination in complex security environments. The drill involved more than 1,500 personnel and over 300 pieces of equipment, including about 80 unmanned aerial vehicles (UAVs)."
-    },
-    {
-      "id": "5151013",
-      "time": "2026-10-17 09:15:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【集安組織在白俄羅斯舉行聯合演習】16日，集體安全條約組織在白俄羅斯舉行“牢不可破的兄弟情—2026”聯合演習，檢驗成員國部隊在複雜安全環境下的協同行動能力。當前，國際安全形勢複雜多變，地區衝突和非傳統安全威脅持續引發關注。如何提升多國部隊協同處置突發危機的能力，成為軍事合作的重要課題。此次在白俄羅斯境內舉行的演習，共有來自集安組織國家的1500多名軍人、300多臺裝備參加，其中包括約80架各型無人機。（央視新聞）"
     }
   ]
 }
