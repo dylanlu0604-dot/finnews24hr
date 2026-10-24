@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-25 04:41:22",
-  "count": 13055,
+  "updated": "2026-10-25 04:45:08",
+  "count": 13056,
   "items": [
+    {
+      "id": "5166649",
+      "time": "2026-10-25 04:44:36",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "民調顯示，巴西總統決選中弗拉維奧·博索納羅的支援率為47.0%，盧拉為46.0%。"
+    },
+    {
+      "id": "5166648",
+      "time": "2026-10-25 04:44:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：比爾·克林頓不算差，但他捲入了不少醜聞。要不是這些醜聞，他本會是一位不錯的總統。"
+    },
+    {
+      "id": "5166647",
+      "time": "2026-10-25 04:42:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我在2022年贏了（總統選舉），但事情並沒有那樣發展。那是一場被操縱的選舉——我以數百萬票的優勢獲勝。"
+    },
     {
       "id": "mkt:01a16fa4-a79f-7ee0-a967-3fd4a3dfc15f",
       "time": "2026-10-25 04:40:24",
@@ -118171,25 +118196,6 @@
         "國際"
       ],
       "text": "安全訊息人士：週六，有無人機襲擊了位於伊拉克北部埃爾比勒的伊朗庫爾德反對派組織總部。"
-    },
-    {
-      "id": "mkt:01a14b9b-fe24-7ee0-a8ce-73cc8826c673",
-      "time": "2026-10-18 04:44:36",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Extremist group \"Islamic State\" claimed responsibility for a Tuesday attack on a Nigerian military camp that killed multiple people."
-    },
-    {
-      "id": "mkt:01a14b9b-1f33-7ee0-a8ce-6c543c1e508a",
-      "time": "2026-10-18 04:43:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran FM Araghchi meets Turkey's Fidan in Baghdad to discuss Strait of Hormuz, regional tensions】Iranian foreign minister Araghchi met Turkish counterpart Hakan Fidan on Saturday in Baghdad during an OIC meeting to discuss developments in the Persian Gulf, the Strait of Hormuz and wider regional tensions. They discussed bilateral ties and the situations in Gaza and Yemen, both emphasized the importance of diplomatic de-escalation; Araghchi briefed Fidan on recent Persian Gulf/Hormuz developments and related diplomatic moves and urged OIC members to act to stop what he called Israeli genocide and to jointly address Islamophobia."
     }
   ]
 }
