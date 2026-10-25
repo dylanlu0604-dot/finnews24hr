@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-25 10:42:19",
-  "count": 13169,
+  "updated": "2026-10-25 10:46:17",
+  "count": 13170,
   "items": [
+    {
+      "id": "mkt:01a170f0-f19e-7ee0-a968-aacf1e2a46c7",
+      "time": "2026-10-25 10:43:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk says X will add a feature allowing users to long-press the like button to transfer $1 to the recipient via X Money."
+    },
     {
       "id": "5167263",
       "time": "2026-10-25 10:41:27",
