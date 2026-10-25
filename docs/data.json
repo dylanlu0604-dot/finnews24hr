@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-26 06:33:55",
-  "count": 13303,
+  "updated": "2026-10-26 06:37:47",
+  "count": 13307,
   "items": [
+    {
+      "id": "5167920",
+      "time": "2026-10-26 06:36:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "芝加哥商品交易所（CME）交易資料顯示，美元/巴西雷亞爾期貨價格為5.23，此前報5.01。"
+    },
+    {
+      "id": "5167919",
+      "time": "2026-10-26 06:35:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "斯巴魯將退出歐洲汽油車市場。"
+    },
+    {
+      "id": "mkt:01a17533-8e0d-7ee0-a96f-bd774d014f79",
+      "time": "2026-10-26 06:34:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Bulgaria presidential election goes to Nov. 1 runoff】Early parallel counts from multiple Bulgarian pollsters on Oct. 26 show Yotova and former caretaker prime minister Gurov finished first and second in the presidential vote; they and their vice-presidential running mates will contest a Nov. 1 runoff. Under the constitution the president is directly elected to a five-year term, eligible for one re‑election; a candidate must secure an absolute majority and turnout must exceed 50% or a runoff is required."
+    },
+    {
+      "id": "5167918",
+      "time": "2026-10-26 06:34:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中央氣象臺釋出大風預警 西藏內蒙古等地陣風8級】中央氣象臺10月26日6時釋出大風藍色預警，預計，10月26日8時至27日8時，西藏西部、青海南部、內蒙古、河北北部、黑龍江東部、吉林東北部將有5~7級風、陣風8級。"
+    },
+    {
+      "id": "5167917",
+      "time": "2026-10-26 06:34:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【保加利亞總統選舉將於11月1日進行第二輪投票】當地時間10月26日凌晨，根據保加利亞多家民調機構的平行計票結果，保加利亞總統約託娃和前看守政府總理古羅夫在當天的保加利亞總統選舉投票中得票率居前兩位，二人和他們的副總統競選搭檔將參加於11月1日舉行的總統選舉第二輪投票。（央視新聞）"
+    },
     {
       "id": "mkt:01a17531-cc8f-7ee0-a96f-b4ee8d9d718a",
       "time": "2026-10-26 06:32:40",
@@ -120255,18 +120299,6 @@
         "Importance 0"
       ],
       "text": "New Zealand Private Sector Growth Hits 3-Month High — The BusinessNZ Performance of Composite Index increased to 53.4 in September 2026 from a marginally revised 52.4 in the previous month, marking the fourth straight month of expansion. It was the highest reading since June, with manufacturing sector growth accelerating while the services sector continued to expand. Manufacturing activity expanded at a stronger pace despite pressure from high fuel prices and ahead of the general election. Meanwhile, services sector growth eased slightly as growth in new orders slowed."
-    },
-    {
-      "id": "te:economy:592889",
-      "time": "2026-10-19 06:36:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "New Zealand Services Growth Eases in September, — New Zealand’s BusinessNZ Performance of Services Index edged down to 50.9 in September 2026 from a downwardly revised 51.0 in August, marking the fourth consecutive month of expansion in the sector. The latest reading was down from an eight-month high in August, as growth in new orders eased (52.6 vs 54.8). Meanwhile, the sub-indices for stocks expanded faster (52.3 vs 50.9), while activity/sales returned to expansion (50.2 vs 49.2). By contrast, contractions were seen in supplier deliveries (49.4 vs 48.9) and employment (49.8 vs 49.4)."
     }
   ]
 }
