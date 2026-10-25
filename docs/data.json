@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-26 06:15:01",
-  "count": 13295,
+  "updated": "2026-10-26 06:18:47",
+  "count": 13297,
   "items": [
+    {
+      "id": "5167909",
+      "time": "2026-10-26 06:15:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西總統選舉第二輪投票結束】25日舉行的巴西總統選舉第二輪投票於當天巴西利亞時間19時（北京時間26日6時）結束。之前因交通及天氣原因，巴西聯邦最高法院法官作出裁定，將當天二輪投票結束時間延後兩小時。（新華社）"
+    },
+    {
+      "id": "mkt:01a17522-00da-7ee0-a96f-99a35f6bba96",
+      "time": "2026-10-26 06:15:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Brazil presidential runoff ends after two-hour extension】Voting in Brazil's presidential runoff on the 25th concluded at 19:00 Brasília time (06:00 Beijing on the 26th). A Supreme Federal Court judge ordered polling to stay open two hours longer due to traffic and adverse weather."
+    },
     {
       "id": "5167908",
       "time": "2026-10-26 06:13:02",
