@@ -1,7 +1,23 @@
 {
   "date": "2026-10-26",
-  "count": 239,
+  "count": 241,
   "items": [
+    {
+      "id": "mkt:01a17539-1222-7ee0-a96f-c20e066af495",
+      "time": "2026-10-26 06:40:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Brazil count 9.99%: Lula 50.48%, Flavio 49.52%】With 9.99% of votes counted in the presidential runoff, incumbent President Lula leads with 50.48% against Flavio, son of a former president, on 49.52%."
+    },
+    {
+      "id": "5167921",
+      "time": "2026-10-26 06:39:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統決選投票已統計9.99%，盧拉得票率為50.48%，弗拉維奧·博索納羅為49.52%。"
+    },
     {
       "id": "5167920",
       "time": "2026-10-26 06:36:40",
