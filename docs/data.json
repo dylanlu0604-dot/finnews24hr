@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-25 21:15:43",
-  "count": 13267,
+  "updated": "2026-10-25 21:19:40",
+  "count": 13271,
   "items": [
+    {
+      "id": "5167695",
+      "time": "2026-10-25 21:17:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司發表宣告稱，錫爾特公司旗下兩座甲醇裝置在完成檢修後已恢復執行。"
+    },
+    {
+      "id": "5167694",
+      "time": "2026-10-25 21:16:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "眾議院議長約翰遜：魯比奧表示美國將進行三方談判。"
+    },
+    {
+      "id": "mkt:01a17334-9f46-7ee0-a96c-25d7669a7454",
+      "time": "2026-10-25 21:16:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Star Stocks",
+        "Alphabet",
+        "Microsoft",
+        "Apple",
+        "Amazon",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "DXY"
+      ],
+      "text": "【Weekly preview: Super central-bank week, big-tech earnings; China plenum, US core PCE, Israel vote, OPEC+】Week ahead: a packed central-bank calendar and major tech earnings should drive rates, liquidity and risk appetite. China’s 20th CPC Fifth Plenum meets in Beijing Oct 26–29; market participants should watch for policy signals. Monday: Germany IFO and US Dallas Fed business index; Taiwan and New Zealand exchanges closed — limited regional liquidity; Hong Kong/US earnings include Verizon and selected HK small-caps. Tuesday: US ADP, durable goods, FHFA house-price data, Conference Board consumer confidence and Richmond Fed; 900bn yuan 1‑year MLF matures (PBOC operation watch); Israel holds national election; Boeing, Coca‑Cola and UPS report premarket; SK Hynix, Robinhood and NXP report after close. Wednesday: weekly API/EIA crude inventories; Australia CPI; RBNZ rate decision; Bank of Canada rate decision with Governor MACKLEM press briefing; RBA officials testify to Senate; UK chancellor unveils his first budget; Alphabet and Microsoft report after the US close. Thursday: US FOMC decision and KEVIN WARSH press conference; US advance Q3 GDP, core PCE (inflation), personal spending and weekly initial claims — all market-moving for pricing of US rates; ECB decision and LAGARDE press conference; US weekly EIA natural‑gas stocks; China domestic refined-fuel price window opens; Apple event; Amazon, Intel and SanDisk report after the close. Friday: BoJ policy decision and Governor Ueda briefing; US employment‑cost index (Q3) and Chicago PMI; Eurozone and major European GDP/CPI releases; Canada GDP; major oil majors report premarket (BP, Exxon, Chevron). Saturday: US rig count; China official manufacturing PMI (Oct). Sunday: North American clocks roll back one hour (DST end) — US/Canada market open and data schedules shift; seven OPEC+ producers meet to set December output policy."
+    },
+    {
+      "id": "5167693",
+      "time": "2026-10-25 21:15:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "眾議院議長約翰遜：週末與國務卿魯比奧就俄羅斯問題進行了交談。"
+    },
+    {
+      "id": "5167692",
+      "time": "2026-10-25 21:15:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "眾議院議長約翰遜：俄羅斯總統普京不可信任，我們必須以相應方式對待他。"
+    },
     {
       "id": "5167691",
       "time": "2026-10-25 21:14:47",
@@ -119908,14 +119964,6 @@
         "XAUUSD"
       ],
       "text": "Egypt's parliament will continue on Monday to discuss support for Saudi Arabia amid Houthi attacks, Egyptian MPs and local media said."
-    },
-    {
-      "id": "5152434",
-      "time": "2026-10-18 21:17:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及議員和當地媒體稱，埃及議會將於週一繼續討論在胡塞武裝襲擊背景下對沙烏地阿拉伯的支援。"
     }
   ]
 }
