@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-10-25 21:55:31_
-_本檔包含 2726 則快訊，約 498083 字_
+_更新時間：2026-10-26 01:50:07_
+_本檔包含 2626 則快訊，約 497386 字_
+
+---
+
+### 2026-10-23 16:40:02  #Trading Economics #Economy #United Kingdom #Composite PMI #Importance 2
+
+UK Business Activity Growth Picks Up to 8-Month High — The UK private sector continued to expand in October, with the flash Composite PMI Output Index rising to 53.1 from 52 in September, exceeding market expectations of 51.8 and reaching an eight-month high. Growth was supported by the sharpest increase in new business since September 2024. Both manufacturing and services recorded stronger output growth, while manufacturing activity posted its strongest increase in just over two years. Improving demand also helped employment return to growth for the first time since September 2024, ending a two-year period of job cuts, although the increase in staffing remained marginal. However, inflationary pressures intensified, with input costs rising sharply and the overall pace of cost inflation reaching its highest level since June. Business confidence regarding the year ahead edged higher in October, but optimism remained below the survey’s long-term average.
+
+---
+
+### 2026-10-23 16:33:03  #Trading Economics #Economy #Euro area #Inflation Expectations #Importance 1
+
+Euro Area Consumer Inflation Expectations at 4-Month High — Median expectations for price growth over the next 12 months in the Euro Area edged up to 3.1% in September 2026, the most in four months, compared to 3% in August. Consumers also expect the price of their home to increase by 3.5% over the next 12 months, higher than 3.4% in August. Expectations for mortgage interest rates in 12 months’ time remained unchanged at 4.9%. Meanwhile, median expectations for inflation three years ahead and five years ahead were unchanged at 2.9% and 2.5% respectively. Elsewhere, expectations for nominal income growth over the next 12 months increased to 1.1% from 1% and expectations for economic growth over the next 12 months decreased to -1.5% from -1.2% in August. Expectations for the unemployment rate 12 months ahead increased to 11.3% from 11%.
+
+---
+
+### 2026-10-23 16:32:23  #Trading Economics #Economy #Taiwan #Unemployment Rate #Importance 1
+
+Taiwan Jobless Rate at 3.33% in September — Taiwan’s seasonally adjusted unemployment rate edged up by 0.01 percentage point from a month earlier to 3.33% in September 2026, as the number of unemployed people increased by 1 thousand to 401 thousand. Meanwhile, total employment declined by 4 thousand to 11.644 million. The labor force participation rate remained unchanged at 59.59%, with the total labor force falling by just 2 thousand to 12.046 million. Not seasonally adjusted, the unemployment rate ticked lower to 3.36% in September from 3.41% in August, with the number of unemployed people decreasing by 6 thousand to 405 thousand. Meanwhile, the youth unemployment rate among those aged 15-24 fell to 11.59% from 11.74% in the previous month.
+
+---
+
+### 2026-10-23 16:30:28  #經濟數據 #英國
+
+【英國10月製造業PMI初值為52.8 預期51.7】英國10月製造業PMI初值為52.8，預期51.7，前值51.9；10月服務業PMI初值為53.1，預期51.8，前值52.1。
+
+---
+
+### 2026-10-23 16:30:11  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Binance Appreciates by 2.12% — Top crypto gainers are Binance (2.12%), XRP (1.32%), Ether (0.86%) and Bitcoin (0.49%).
+
+---
+
+### 2026-10-23 16:30:00  #MKT News #Economic Calendar #Important
+
+United Kingdom | Manufacturing PMI, preliminary (Oct) | actual 52.8 | consensus 51.7 | previous 51.9
+
+---
+
+### 2026-10-23 16:30:00  #MKT News #Economic Calendar #Important
+
+United Kingdom | Composite PMI, preliminary (Oct) | actual 53.1 | consensus 51.8 | previous 52
+
+---
+
+### 2026-10-23 16:30:00  #MKT News #Economic Calendar #Important
+
+United Kingdom | Services PMI, preliminary (Oct) | actual 53.1 | consensus 51.8 | previous 52.1
+
+---
+
+### 2026-10-23 16:29:40  #Trading Economics #Markets #Euro Area #Currency #Importance 1
+
+Euro Falls on Weak PMI Data and Debt Concerns — The euro dropped to $1.12, remaining close to multi-month lows following the release of weaker-than-expected PMI data, while concerns over social unrest and rising public debt across Europe continued to weigh on the currency. Flash data showed eurozone private-sector growth slowed in October to a four-month low, pressured by rising energy costs, higher interest rates and renewed contraction in France amid political and fiscal uncertainty. Consumer confidence also deteriorated more sharply than expected. Meanwhile, investors remain concerned about rising borrowing costs across Europe, particularly in France, where 10-year government bond yields reached fresh 24-year highs and the risk premium climbed to levels last seen during the 2011 eurozone sovereign debt crisis. Looking ahead, further demonstrations are expected across the region this weekend, while investors await next week’s inflation data and the ECB’s policy meeting, where rates are widely expected to remain unchanged.
+
+---
+
+### 2026-10-23 16:14:15  #Trading Economics #Economy #Euro Area #Composite PMI #Importance 2
+
+Eurozone Business Activity Growth Slows — The S&P Global Eurozone Composite PMI fell to 51.9 in October 2026, down from September’s three-and-a-half-year high of 53.1 and below market expectations of 52.7, according to the preliminary estimate. Although business activity expanded for a fourth consecutive month, growth slowed to its weakest pace in the sequence, partly driven by a renewed contraction in French services activity. While strikes and unrest may have disrupted local economic activity in France, growth also eased across the rest of the eurozone, affecting both manufacturing and services. Meanwhile, new order growth weakened, bringing hiring close to stagnation, while rising energy prices drove input costs higher and prompted firms to increase selling prices. Higher interest rates also dampened demand, reinforcing concerns over slowing growth and persistent inflation that could fuel expectations of further ECB tightening. Finally, business confidence fell to a five-month low.
+
+---
+
+### 2026-10-23 16:12:17  #Trading Economics #Economy #Euro Area #Manufacturing PMI #Importance 1
+
+Euro Area Manufacturing Growth Slows to 3-Month Low — The S&P Global Eurozone Manufacturing PMI edged down to 52.4 in October 2026, its lowest level in three months, from 52.9 in September and below market expectations of 52.7. Manufacturing employment declined slightly following two consecutive months of growth. However, input purchasing continued to expand, with the pace accelerating to its joint-fastest in nearly four-and-a-half years, matching the rate recorded in April amid precautionary stockpiling linked to the ongoing conflict in the Middle East. As a result, manufacturers’ stocks of purchases increased for the first time in almost four years. Meanwhile, supplier lead times lengthened significantly, marking the sharpest deterioration in four months. On the price front, input costs rose sharply in October, driven by higher energy, fuel, and transportation costs. The increase was the steepest since May and exceeded the year-to-date average.
+
+---
+
+### 2026-10-23 16:10:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Rapeseed Gains by 3.11% — Top commodity gainers are Rapeseed (3.11%) and Rice (0.90%). Biggest loser is Rubber (-0.66%).
+
+---
+
+### 2026-10-23 16:10:05  #Trading Economics #Economy #Euro Area #Services PMI #Importance 1
+
+Eurozone Services Activity Growth Slows in October — The S&P Global Eurozone Services PMI fell to 51.7 in October 2026 from 53.0 in the previous month, coming in below market expectations of 52.5. This marked a two-month low, indicating a moderation in services sector growth. The pace of job creation slowed to a five-month low, reflecting weaker growth in new business and reduced pressure on operating capacity. French services activity returned to contraction, while growth also softened elsewhere in the eurozone. Services input cost inflation eased, although firms faced a less favorable business outlook amid slowing activity and persistent inflationary pressures.
+
+---
+
+### 2026-10-23 16:05:09  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Falls by 2.37% — Top commodity losers are Lithium Carbonate (-2.37%), Silver (-1.39%), Titanium (-1.15%) and Gold (-0.32%). Gains are led by Aluminum Alloy (1.20%), Iron Ore CNY (0.82%) and Copper (0.82%).
+
+---
+
+### 2026-10-23 16:02:43  #Trading Economics #Markets #Commodity #Importance 1
+
+Nickel Retreats on Persistent Oversupply — Nickel traded around $15,900 per tonne, reversing recent gains as persistent global oversupply and subdued demand continued to constrain prices. Indonesia’s rapid expansion of nickel production has kept supply ample, while weaker stainless steel demand and the growing use of lithium iron phosphate batteries have limited consumption growth. The International Nickel Study Group expects the global surplus to widen in 2027, reinforcing the longer-term supply overhang. Meanwhile, reports of coordinated production cuts at Chinese-operated Indonesian smelters have raised hopes of tighter supply, with producers reportedly considering halving mixed hydroxide precipitate (MHP) output and cutting nickel pig iron production by 20%. Although the scale and timing of the measures remain uncertain, losses among Indonesian MHP producers strengthen the incentive to curb output, potentially tightening supply if the cuts are implemented.
+
+---
+
+### 2026-10-23 16:01:17  #MKT News #Economic Calendar #Important
+
+Taiwan | Unemployment Rate (Sep) | actual 3.33% | consensus 3.30% | previous 3.32%
+
+---
+
+### 2026-10-23 16:00:45  #經濟數據 #歐元區
+
+【歐元區10月製造業PMI初值為52.4 預期52.7】歐元區10月製造業PMI初值為52.4，預期52.7，前值52.9；10月服務業PMI初值為51.7，預期52.5，前值53。
+
+---
+
+### 2026-10-23 16:00:33  #MKT News #Economic Calendar
+
+United Kingdom | LME zinc inventory change (Oct.23) | actual -50 | previous -750
+
+---
+
+### 2026-10-23 16:00:29  #MKT News #Economic Calendar
+
+United Kingdom | LME tin inventory change (Oct.23) | actual -50 | previous -160
+
+---
+
+### 2026-10-23 16:00:28  #MKT News #Economic Calendar #Important
+
+United Kingdom | LME nickel inventory change (Oct.23) | actual 0 | previous -192
+
+---
+
+### 2026-10-23 16:00:23  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+French Stocks Set for Weekly Decline — The CAC 40 fell 0.7% to 7,758 on Friday, extending losses from the previous session and heading for a weekly decline as investors weighed a batch of corporate earnings alongside PMI data. Luxury stocks were among the laggards, with Kering plunging 11.7% to over one-year low after Q3 2026 revenue came in flat year-on-year and down about 1% on a like-for-like basis. Hermès fell 1.1% to four-year low as its quarterly results disappointed investors amid challenging conditions in China. Safran also dropped 6.7% despite surpassing Q3 revenue growth forecasts. In contrast, L’Oréal climbed 3.5% to a more than two-year high after Q3 sales beat expectations. On the economic front, France’s flash composite PMI fell to 48.4 in October from 51.1 in September, well below forecasts of 50.5. Manufacturing PMI slipped to 49.3 from 50.6, returning to contraction and hitting an 11-month low. Services PMI also fell back into contraction, dropping to 48.4 from 51.2 and missing expectations of 50.7.
+
+---
+
+### 2026-10-23 16:00:22  #MKT News #Economic Calendar
+
+United Kingdom | LME lead inventory change (Oct.23) | actual -1800 | previous -5325
+
+---
+
+### 2026-10-23 16:00:21  #MKT News #Economic Calendar #Important
+
+United Kingdom | LME aluminum inventory change (Oct.23) | actual -225 | previous -100
+
+---
+
+### 2026-10-23 16:00:14  #MKT News #Economic Calendar
+
+United Kingdom | LME aluminum alloy inventory change (Oct.23) | actual 0 | previous 0
+
+---
+
+### 2026-10-23 16:00:12  #MKT News #Economic Calendar #Important
+
+United Kingdom | LME copper inventory change (Oct.23) | actual 800 | previous 27675
+
+---
+
+### 2026-10-23 16:00:09  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas EU Rises by 3.84% — Top commodity gainers are Natural Gas EU (3.84%), Natural Gas UK (3.59%), Heating Oil (1.46%), Crude Oil (1.19%) and Brent Oil (0.88%). Biggest loser is Natural gas (-2.41%).
+
+---
+
+### 2026-10-23 16:00:02  #MKT News #Economic Calendar #Important
+
+Taiwan | Industrial Production (YoY) (Sep) | actual 19.17% | consensus 24.65% | previous 23.47%
+
+---
+
+### 2026-10-23 15:59:10  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX at 2-Week Low — Frankfurt's DAX 40 fell 0.6% to around 25,230 on Friday, hitting a two-week low and extending the previous session’s losses. While the earnings season continues to draw investors’ attention, sentiment remained cautious amid rising oil prices due to escalating tensions in the Middle East. Also, concerns over demonstrations scheduled for Saturday in France and Italy weighed. On the data front, flash PMI figures showed that Germany’s private sector continued to expand in October, though the pace of growth slowed more than expected. Most sectors traded lower, particularly telecom, software and autos, while tech outperformed. Among individual stocks, Deutsche Telekom led the losses, falling more than 3%, followed by MTU Aero Engines, Adidas, Continental and Airbus, which declined between 1.6% and 2.6%. On the upside, Rheinmetall (2.2%), Fresenius Medical Care (1.2%), Infineon Technologies (0.9%) and Vonovia (0.9%) posted the biggest gains. For the week, the index lost around 1.5%.
+
+---
+
+### 2026-10-23 15:53:09  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Extends Losses — Italy’s FTSE MIB extended its losses to around 48,300 on Friday, hovering near its lowest level since May, as losses in luxury stocks offset gains in energy shares. Eni climbed more than 3% after reporting third-quarter adjusted net profit of €2.8 billion, more than double the year-earlier figure, and announcing a €1.3 billion special dividend and an increase in its share buyback programme. Tenaris and Saipem also advanced 1.8% and 1.5%, respectively. On the downside, Moncler fell 2.1% and Brunello Cucinelli dropped 1.9%, as recent disappointing earnings from regional peers dampened hopes for a recovery in the sector. Automotive stock Stellantis also fell 2%. Investors also monitored developments in Italy’s banking sector ahead of an October 29 MPS shareholder meeting on its proposed merger with Mediobanca, amid reports of potential opposition from Banco BPM stakeholders. For the week, the benchmark index was on track to decline around 3%.
+
+---
+
+### 2026-10-23 15:51:41  #Trading Economics #Markets #Commodity #Importance 1
+
+UK Gas Prices Hit Fresh Multi-Year High Amid Tight Supply — UK natural gas prices climbed toward 230 pence per therm, reaching a fresh 2022 high amid tightening global supply. Ongoing disruptions to LNG supplies from the Middle East have driven British gas prices to three times their levels at the start of the year. Adding to concerns, gas output in the North Sea, which accounts for about a third of the nation’s winter demand, is projected to fall by about 5%, according to the UK’s gas-grid operator. To compensate for this, LNG imports are forecast to increase by 5%, while Norwegian pipeline deliveries are expected to rise by 1%. While the gas network operator indicated that the country would have adequate supply capacity even under worse-case scenarios, robust LNG demand could intensify competition for cargoes and push prices even higher. Meanwhile, additional production from the newly approved Jackdaw field may offer some relief, as it is expected to start supplying gas to the UK by the end of this month.
+
+---
+
+### 2026-10-23 15:50:32  #Trading Economics #Economy #Poland #Unemployment Rate #Importance 1
+
+Poland Jobless Rate Unchanged for 3rd Month — Poland’s registered unemployment rate stood at 5.8% in September 2026, in line with market expectations and unchanged for a third consecutive month. The latest result still marked the lowest level since December 2025, as the number of unemployed persons declined by 2.5 thousand from a month earlier to 907 thousand, with women representing 49.5% of the total. The majority of unemployed individuals were not entitled to unemployment benefits, accounting for 87.8% of the total. Meanwhile, 4.5% were out of work due to company-related terminations, while fresh graduates made up 3.4% of all unemployed persons. Additionally, 382.1 thousand had been out of work for more than a year. Compared with September 2025, the jobless rate was 0.2 percentage points higher, having stood at 5.6% a year earlier. Separately, reported job vacancies at the end of the month increased by 2.8 thousand to 47.2 thousand.
+
+---
+
+### 2026-10-23 15:44:30  #Trading Economics #Economy #Germany #Services PMI #Importance 1
+
+Germany Services Sector Growth Slows in October — Germany’s Services PMI fell to 51.7 in October 2026 from 52.9 in September, missing market expectations of 52.5, according to preliminary data. Although activity expanded for a second consecutive month, growth remained modest as demand stagnated amid delayed customer decisions and tighter client budgets. Services firms also reported a renewed decline in outstanding work. Despite easing capacity pressures at the start of the fourth quarter, companies continued to recruit, marking a third consecutive month of employment growth. However, job creation remained marginal and unchanged from September. On the price front, input cost inflation slowed, partly reflecting fuel discounts, while service providers moderated their own price increases amid competitive pressures. Looking ahead, business confidence in the services sector improved to its highest level since February, indicating stronger growth expectations despite subdued demand and limited momentum in current activity.
+
+---
+
+### 2026-10-23 15:43:12  #Trading Economics #Economy #Germany #Composite PMI #Importance 1
+
+German Private Sector Activity Growth Slows — The S&P Global Flash Germany Composite PMI fell to 52.8 in October 2026 from 53.8 in September, below forecasts of 53.3. The reading pointed to sustained, albeit slower, growth in private-sector business activity, amid a slowdown in both the services sector (51.7 vs. 52.9) and manufacturing output (55.1 vs. 56). New business continued to expand, but did so at the weakest rate for three months. Stronger growth expectations among services firms were offset by a notable reduction in confidence in the manufacturing sector, where input cost inflation surged to its highest since May. Amid reports of competitive pressures and discounted fuel prices, however, the overall rate of increase in prices charged for goods and services ticked down to a seven-month low. In addition, the pace of job creation at services firms was unchanged and only marginal. Workforce numbers in the manufacturing sector came close to stabilising, recording only a marginal fall that was the weakest for over three years.
+
+---
+
+### 2026-10-23 15:40:01  #Trading Economics #Economy #Germany #Manufacturing PMI #Importance 1
+
+Germany Manufacturing Sector Growth Beats Forecasts — Germany’s Manufacturing PMI rose to 54.2 in October 2026 from 53.9 in September, exceeding market expectations of 53.5, preliminary estimates showed. This marked a two-month high and signalled a continued improvement in manufacturing business conditions. However, manufacturing output growth eased, with the output index falling to 55.1 from 56.0, its lowest level in three months. Order books continued to expand, albeit at a slower pace, supported by sustained growth in export sales, while manufacturing backlogs recorded another robust rise. Meanwhile, employment edged closer to stabilisation, with job losses slowing to their weakest pace in over three years. On the price front, input-cost inflation accelerated for a second consecutive month to its highest level since May, driven by higher oil prices and rising raw material and component costs. Looking ahead, manufacturers’ business confidence weakened to its lowest level since July amid growing concerns over rising input prices.
+
+---
+
+### 2026-10-23 15:39:54  #Trading Economics #Economy #France #Services PMI #Importance 1
+
+France Services Activity Contracts in October — The S&P Global France Services PMI fell to 48.4 in October 2026 from 51.2 in September, returning to contraction territory, according to preliminary estimates. The reading also came in below market expectations of 50.7. The downturn reflected a sharp decline in demand for services, amid heightened political uncertainty and tighter financial conditions. Business confidence also weakened, with firms' expectations for activity over the next 12 months falling to their lowest level in six and a half years.
+
+---
+
+### 2026-10-23 15:36:55  #央行 #歐洲央行
+
+【經濟學家預計歐洲央行下週按兵不動】經濟學家預計歐洲央行下週按兵不動，並將於12月加息。
+
+---
+
+### 2026-10-23 15:35:44  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Set to End Week Lower — The FTSE 100 traded slightly lower on Friday, extending the previous session’s 0.3% decline and heading for a weekly loss of more than 1.5%. Rolls-Royce shares fell around 2.5% as the company reportedly neared a deal for up to £200 million in UK government subsidies to develop a new short-haul aircraft engine. AstraZeneca dropped over 1%, while GSK declined more than 0.5%. In contrast, Shell and BP gained 1.2% and 1.8%, respectively, as Brent crude headed for a third consecutive weekly advance amid escalating attacks on Saudi Arabia and concerns over potential supply disruptions. Meanwhile, UK consumer confidence deteriorated sharply, with the GfK index falling 11 points to -24, marking its steepest decline since the pandemic. Retail sales also disappointed in September, falling 0.4% including fuel and 0.7% excluding it month-on-month, both worse than expected. However, upward revisions to August’s figures partly offset the latest weakness.
 
 ---
 
@@ -15663,827 +15885,5 @@ ASX 200 Closes 0.4% Lower — The ASX 200 fell 38 points, or 0.4%, to finish at 
 ### 2026-10-22 13:59:49  #公司
 
 【斯萊克：金剛石銅複合冷板專案獲階段性成果 將啟動量產前置工作】近日，斯萊克召開熱控專案成果彙報會。經公司基礎效能測試，本次開發的金剛石銅冷板具備超高導熱、低熱膨脹係數優勢，能夠解決高功率AI晶片的熱障難題，適配算力伺服器、大功率半導體器件等高階熱管理場景。公司熱控團隊結合氣壓熔滲法，燒結法和擴散焊等工藝，推進晶片封裝散熱與伺服器散熱冷板兩類產品開發。目前公司金剛石銅複合冷板專案取得階段性成果，熱控團隊已完成樣品開發與效能驗證，將啟動量產前置工作。
-
----
-
-### 2026-10-22 13:59:46  #公司 #觀點
-
-【中信證券、國軒高科等入股吉利旗下遠端商用車科技公司】天眼查App顯示，近日，遠端商用車科技有限公司發生工商變更，新增中信證券投資有限公司、合肥國軒高科動力能源有限公司等為股東，同時，註冊資本由約9.57億元人民幣增至約10.6億元人民幣。該公司成立於2021年7月，法定代表人為戴慶，經營範圍含電池製造、電池銷售、新能源汽車整車銷售、新能源汽車換電設施銷售等，現由浙江遠端新能源汽車集團有限公司、李書福及上述新增股東等共同持股。
-
----
-
-### 2026-10-22 13:59:20  #MKT News #Important #Market Themes #Chip Wars
-
-China A-share memory chip sector surged: Yunhan Xincheng jumped straight to a 20% limit-up, Huatian Technology hit its daily limit, and Dapuwei, Demingli, Dike Co. and Youyan New Materials also rallied.
-
----
-
-### 2026-10-22 13:59:03  #市場
-
-【半導體板塊快速反彈，華天科技直線漲停】半導體板塊快速反彈，華天科技直線漲停，大普微、德明利、有研新材、中科儀、炬芯科技跟漲。
-
----
-
-### 2026-10-22 13:58:30  #公司 #觀點
-
-【花旗：正積極推進境內券商牌照申請】花旗集團正持續加碼中國機構業務，積極推進境內券商牌照申請，等待境內券商牌照獲批，謀求在中國內地開展本土投行業務。據瞭解，花旗於2021年11月提交全資券商牌照申請，此前與東方證券的合資投行業務已於2019年退出，此後轉為申請設立全資券商，並於2024年2月4日獲得證監會反饋。截至目前，在華展業的外資獨資券商已有7家，分別是摩根大通證券（中國）、高盛（中國）證券、渣打證券（中國）、法巴證券（中國）、瑞銀證券（中國）、瑞穗證券（中國）以及大和證券（中國）。 (財聯社)
-
----
-
-### 2026-10-22 13:55:48  #MKT News #Market Regions #Greater China #601398.SS #Impact bullish #601939.SS #601288.SS
-
-A-share bank stocks saw a localized rebound; Industrial and Commercial Bank of China rose over 2%, extending to a fresh record high, while China Construction Bank, Agricultural Bank of China and Chongqing Rural Commercial Bank also advanced.
-
----
-
-### 2026-10-22 13:54:42  #市場 #焦點
-
-甲醇連續主力合約日內漲3%，現報3204.00元。
-
----
-
-### 2026-10-22 13:54:08  #其他
-
-【廣立微等成立集芯企管合夥企業】企查查APP顯示，近日，杭州濱廣集芯企業管理合夥企業（有限合夥）成立，經營範圍包含：企業管理；企業管理諮詢。企查查股權穿透顯示，該企業由廣立微等共同出資。
-
----
-
-### 2026-10-22 13:54:03  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish #SSE Composite
-
-【Two popular ChiNext and STAR 50 ETFs each exceed CNY10 billion in turnover】In the afternoon session E Fund ChiNext ETF (159915) and Huaxia STAR 50 ETF (588000) each recorded turnover above CNY10 billion. Several other ChiNext and STAR 50 ETFs also registered rising volumes.
-
----
-
-### 2026-10-22 13:53:28  #其他
-
-【銀行板塊區域性回暖 工商銀行漲超2%創歷史新高】午後銀行板塊區域性回暖，工商銀行漲超2%，創歷史新高，A+H股總市值約2.86萬億元，建設銀行漲超1.5%，農業銀行、渝農商行、興業銀行跟漲。
-
----
-
-### 2026-10-22 13:53:19  #其他
-
-【兩隻熱門創業、科創ETF成交均破百億】午後創業板ETF易方達（159915）、科創50ETF華夏（588000）成交額雙雙突破100億元。多隻創業板ETF、科創50ETF隨之放量。
-
----
-
-### 2026-10-22 13:52:08  #其他
-
-【習近平出席紀念中國工農紅軍長征勝利90週年大會並發表重要講話】紀念中國工農紅軍長征勝利90週年大會22日上午在北京人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平發表重要講話強調，銘記歷史方能開創未來。全黨全軍全國各族人民要更加緊密地團結在黨中央周圍，大力弘揚偉大長征精神，接續奮鬥、砥礪前行，把革命前輩開創的偉大事業不斷推向前進，在新的長征路上奮力創造新的輝煌。（央視新聞）
-
----
-
-### 2026-10-22 13:50:28  #公司
-
-羅氏執行長：Xolair明年將繼續成為重要的增長驅動力。
-
----
-
-### 2026-10-22 13:50:03  #MKT News
-
-Japan's Nikkei 225 fell as much as 2.57% intraday to below 63,000 points, its first time under that level since Sept. 14.
-
----
-
-### 2026-10-22 13:48:40  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #Hang Seng Index
-
-China's CSI 500 index futures (IC) most-active contract fell 3.00% intraday to 6,550.0 pts.
-
----
-
-### 2026-10-22 13:48:32  #市場 #焦點
-
-科創50日內跌幅達3％，成分股中，睿創微納跌10.05％，源傑科技跌8.40％，中科飛測跌7.81％，生益電子跌7.45％。
-
----
-
-### 2026-10-22 13:48:20  #公司 #國際
-
-羅氏執行長重申：歐洲在製藥創新方面正日益落後。
-
----
-
-### 2026-10-22 13:47:48  #MKT News
-
-China's STAR 50 Index fell more than 3%, while the Beijing Stock Exchange 50 Index dropped 1.17%.
-
----
-
-### 2026-10-22 13:47:41  #市場
-
-日經225指數向下跌破63000點，最新報62963.4點，日內下跌2.57%。
-
----
-
-### 2026-10-22 13:47:30  #市場 #國際
-
-印度Nifty 50指數收復了盤中部分跌幅，目前下跌0.2%。
-
----
-
-### 2026-10-22 13:47:16  #市場 #焦點
-
-深證成指跌3.01%，現報11352.352點；上證指數跌1.69%，現報3650.404點；創業板指跌4.06%，現報2585.340點。
-
----
-
-### 2026-10-22 13:47:15  #市場
-
-現貨鈀金<XPD=>下跌近3%，至1,056.75美元/盎司。
-
----
-
-### 2026-10-22 13:46:58  #市場
-
-美元/日元下跌0.5%至157.34。
-
----
-
-### 2026-10-22 13:46:36  #公司
-
-羅氏執行長預計診斷業務將於2027年恢復至正常增長水平。
-
----
-
-### 2026-10-22 13:46:25  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-USD/JPY fell 0.50% intraday to 157.33.
-
----
-
-### 2026-10-22 13:45:39  #MKT News
-
-【Musk warns Democrats he will retaliate if they investigate him or his companies】Elon Musk vowed to retaliate if Democrats, having won control of one or both chambers of the U.S. Congress, use oversight to investigate him or his businesses. He was responding to a report that Democrats are considering probes into him and firms including Tesla (TSLA.O) and SpaceX (SPCX.O). On his social platform he wrote: “He who lives by the sword will die by the sword.” He added those who target him should expect him to expose and pursue the real operators behind them, not merely their proxies. Musk has been a major Republican donor and has worked with the Trump administration through an initiative he called the Department of Government Efficiency (DOGE). His companies’ commercial ties with the federal government could face scrutiny if Democrats secure congressional majorities.
-
----
-
-### 2026-10-22 13:45:35  #MKT News #Important
-
-New York silver futures slid 3.00% intraday, trading at $55.97/oz.
-
----
-
-### 2026-10-22 13:45:33  #市場 #焦點
-
-現貨黃金失守4070美元/盎司，日內跌1.72%。
-
----
-
-### 2026-10-22 13:45:29  #國際
-
-滙豐將歐洲能源股評級上調至中性。
-
----
-
-### 2026-10-22 13:45:20  #市場
-
-紐約期銀日內跌3%，現報55.97美元/盎司。
-
----
-
-### 2026-10-22 13:45:00  #國際
-
-資料顯示，9月份印度從俄羅斯進口的石油較8月份下降13.7%。
-
----
-
-### 2026-10-22 13:44:49  #公司
-
-羅氏執行長：在德國的投資暫緩。
-
----
-
-### 2026-10-22 13:44:39  #市場 #焦點
-
-紐約期銀失守56美元/盎司，日內跌2.96%。
-
----
-
-### 2026-10-22 13:44:39  #市場 #焦點
-
-紐約期金失守4090美元/盎司，日內跌1.45%。
-
----
-
-### 2026-10-22 13:44:31  #國際
-
-【以防長說伊朗若襲擊以色列將滅了伊朗】10月21日，以色列國防部長卡茨表示，以色列安全部門發現伊朗正企圖對以色列發動襲擊，而這可能會影響以色列選舉的結果。卡茨說，當前伊朗政權正處於“有史以來最薄弱的時刻”，而這種虛弱可能會促使其採取極端的冒險行動，比如針對以色列發動襲擊。他警告伊朗稱，如果伊朗攻擊以色列，伊朗必將遭到毀滅。此外，卡茨重申以色列國防軍和各安全部門將持續保持高度戒備，在所有必要區域採取行動以捍衛國家安全。（CCTV國際時訊）
-
----
-
-### 2026-10-22 13:44:07  #MKT News #Commodities #Energy #00568.HK #Impact bullish #02178.HK
-
-Hong Kong-listed oil and gas equipment and services sector rallied, with Shandong Molong (00568.HK) up more than 8% and Baiqin Oilfield Services (02178.HK) up 7.4%.
-
----
-
-### 2026-10-22 13:42:33  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-China A-share grain sector weakened in the afternoon; Jinjian Miye hit the daily limit down, Wanxiang Denong fell more than 8%, and Dunhuang Seed, Shennong Seed and Xinsai Co. also declined.
-
----
-
-### 2026-10-22 13:42:11  #市場 #焦點
-
-南向資金淨賣出額達50億港元。
-
----
-
-### 2026-10-22 13:42:07  #公司 #市場
-
-【糧食概念午後走弱，金健米業觸及跌停】糧食概念午後走弱，金健米業觸及跌停，萬向德農跌超8%，敦煌種業、神農種業、新賽股份跟跌。
-
----
-
-### 2026-10-22 13:41:50  #市場 #焦點
-
-現貨黃金失守4080美元/盎司，日內跌1.48%。
-
----
-
-### 2026-10-22 13:41:28  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slid below $4,080/oz, down 1.5% on the day; spot silver fell through $56/oz, down 3.4%.
-
----
-
-### 2026-10-22 13:41:22  #公司 #國際
-
-韓國Kospi指數跌幅擴大至4%，現報5503.73點。個股方面，SK海力士跌超6%，三星電子跌超4%。
-
----
-
-### 2026-10-22 13:40:54  #MKT News #Important #Market Regions #Japan & APAC
-
-South Korea's KOSPI slid 4.00% intraday to 5503.73.
-
----
-
-### 2026-10-22 13:40:28  #市場 #焦點
-
-現貨白銀失守56美元/盎司，日內跌3.36%。
-
----
-
-### 2026-10-22 13:40:25  #公司 #市場 #央行 #國際
-
-【野村：亞洲避險情緒明顯 正在影響美國國債和澳元走勢】野村稱，亞洲交易時段避險情緒明顯，美國股指期貨和國債收益率走低；澳元下跌，儘管市場預期澳大利亞央行將在11月加息。 “各個市場都仍在糾結幾大問題 —— 美國科技公司的估值、中東局勢持續動盪之際油價居高不下以及法國面臨的預算挑戰，”野村資深澳大利亞利率策略師Andrew Ticehurst稱。“在固定收益領域，我懷疑許多投資者和交易員都受到了前幾周收益率飆升的衝擊，已選擇觀望。信心似乎非常弱。”
-
----
-
-### 2026-10-22 13:39:49  #Trading Economics #Markets #Japan #stocks #Importance 1
-
-Advantest Shares Hit 4-week Low — Advantest shares decreased to 32410.00 JPY, the lowest since September 2026. Over the past 4 weeks, Advantest gained 1.28%, and in the last 12 months, it increased 97.15%.
-
----
-
-### 2026-10-22 13:39:29  #市場
-
-【現貨黃金失守4080美元/盎司】現貨黃金失守4080美元/盎司，日內跌1.51%。國內金價報877.5元/克，現跌1.52%。
-
----
-
-### 2026-10-22 13:39:14  #公司
-
-軟銀集團市值料將較6月高點縮減一半。
-
----
-
-### 2026-10-22 13:39:00  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Halts Gains, Ends Slightly Lower — The NZX 50 dropped 14 points, or 0.1%, to close at 13,747 on Thursday, halting gains from the morning and the previous session as traders assessed Q3 inflation data. Although annual inflation eased to 3.7% in Q3 from a two-year high in Q2, caution persisted amid expectations that inflation would rise again following a temporary dip in fuel prices. Inflation also remained above the RBNZ's 1–3% target range. Rising oil prices further pressured sentiment, raising concerns over inflation expectations and interest rate hikes amid escalating tensions in the Middle East and the Russia-Ukraine conflict. The broader index tracked declines in US stock futures as investors digested earnings from Meta and Tesla. Healthcare, financials, real estate, and consumer discretionary stocks weighed on the index, with the biggest laggards including Hallenstein Glasson (-3.9%), Mainfreight (-3.0%), Fisher & Paykel (-1.1%), Henderson Far East Income (-1.0%), Infratil (-1.0%), and Port of Tauranga (-0.8%).
-
----
-
-### 2026-10-22 13:37:51  #公司
-
-【中國駐沙特大使館建議中國公民暫勿乘飛機在沙特旅行】據中國駐沙特大使館訊息，10月22日凌晨，沙特民航總局釋出公告稱：達曼法赫德國王國際機場於10月21日（星期三）晚間遭襲，目前已造成1死8傷，物質損失尚在評估中。另有官方訊息稱，一架亞丁航空客機在本次襲擊中受損，機上1人受傷。連日來，沙特利雅得、達曼等地機場和重要設施持續遭導彈和無人機襲擊。利雅得哈立德國王國際機場和一些南部城市機場目前仍無恢復運營確切資訊，其他城市機場航班經常出現大面積異常。中國駐沙特使領館再次提醒在沙中資機構和中國公民務必提高安全防範意識，減少非必要外出，遠離機場、石油設施、軍事基地等敏感地區，勿拍攝軍事行動和敏感設施。建議近期勿乘飛機在沙特旅行，已購票旅客請與有關航司保持密切聯絡，關注航班變化和有關機場情況。發生爭議時保留好相關證據，理性維權。擬陸路從第三國出入沙特人員請注意有關國家入境規定，攜帶好重要證件。長途行車務必注意交通安全，遵守交通規則。
-
----
-
-### 2026-10-22 13:37:38  #公司
-
-【港股布魯可午後跌超20%】港股布魯可午後跌超20%，公司控股股東透過大宗交易方式減持股份，交易價格較市價折價。
-
----
-
-### 2026-10-22 13:37:26  #公司 #市場
-
-【油氣板塊區域性異動 山東墨龍漲超9%】午後油氣板塊區域性異動，山東墨龍直線拉昇，漲超9%，海默科技、科力股份、通源石油、石化機械、藍科高新等跟漲。
-
----
-
-### 2026-10-22 13:36:02  #MKT News #IBM.N #Impact bullish
-
-Barclays raised its PT on IBM (IBM.N) to $277 from $262.
-
----
-
-### 2026-10-22 13:35:25  #公司
-
-羅氏執行長：匯率影響已趨穩並略有好轉。
-
----
-
-### 2026-10-22 13:35:21  #MKT News
-
-Taiwan's TAIEX closed down 846.34 points, or 1.81%, at 46,041.43 on Thursday, Oct. 22.
-
----
-
-### 2026-10-22 13:35:07  #其他
-
-臺灣證交所加權股價指數收低1.8%報46,041.43。
-
----
-
-### 2026-10-22 13:33:49  #MKT News
-
-CSI 300 Index down as much as 2% intraday; SSE 50 Index down 1.2%.
-
----
-
-### 2026-10-22 13:33:18  #市場 #焦點
-
-紐約期金失守4100美元/盎司，日內跌1.22%。
-
----
-
-### 2026-10-22 13:32:51  #Trading Economics #Markets #Mexico #currency #Importance 0
-
-Mexican Peso Hits 12-month Low — The Mexican Peso touched 18.77 against the USD, the lowest since October 2025. Over the past 4 weeks, US Dollar Mexican Peso gained 7.07%, and in the last 12 months, it increased 1.99%.
-
----
-
-### 2026-10-22 13:32:48  #其他
-
-今天，資訊通訊行業反詐中心通報第二批27款App被不法分子利用實施電信網路詐騙案件活動，具體如下圖。
-
----
-
-### 2026-10-22 13:32:20  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內跌2%，現報3966.60點。
-
----
-
-### 2026-10-22 13:31:45  #市場
-
-美股股指期貨擴大跌幅，其中納指期貨跌1.5%。
-
----
-
-### 2026-10-22 13:31:32  #國際
-
-【美國一化學品儲罐洩漏致千人撤離】據美國媒體10月21日報道，美國俄亥俄州托萊多市一個化學品儲罐20日晚破裂，有毒氣體洩漏，導致近1000名居民被迫撤離，超過5萬人被要求在室內避險。因有毒的甲基丙烯酸縮水甘油酯氣體洩漏到空氣中，至少35人因眼睛或喉嚨灼痛等在醫院接受治療，當地學校停課。 托萊多市長韋德·卡普舒凱維奇在21日舉行的新聞釋出會上表示，一個5500加侖（約合2.1萬升）的儲罐因轉移失誤發生洩漏，由於擔心阻止洩漏可能導致爆炸，目前只能等待化學品從儲罐中自然排出。 （CCTV國際時訊）
-
----
-
-### 2026-10-22 13:31:20  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude futures climbed $2.01 intraday to $99.16/bbl, up 2.07%.
-
----
-
-### 2026-10-22 13:30:31  #市場 #焦點
-
-燃料油連續主力合約日內漲3%，現報4946.00元。
-
----
-
-### 2026-10-22 13:30:09  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Bitcoin Depreciates by 1.34% — Top crypto losers are Bitcoin (-1.34%), XRP (-1.29%) and Ether (-1.08%).
-
----
-
-### 2026-10-22 13:30:06  #市場
-
-WTI原油日內漲2%，現報99.11美元/桶。
-
----
-
-### 2026-10-22 13:30:05  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內跌2%，現報6515.20點。
-
----
-
-### 2026-10-22 13:30:04  #市場
-
-鈀金期貨日內跌3%，現報1057.00美元/盎司。
-
----
-
-### 2026-10-22 13:29:51  #公司 #市場
-
-【PCB板塊震盪走弱，崇達技術跌停】PCB板塊震盪走弱，崇達技術跌停，銀禧科技、威爾高跌超10%，四會富仕、超聲電子、杭電股份、景旺電子等跟跌。
-
----
-
-### 2026-10-22 13:29:40  #MKT News #NET.O
-
-【Exploit attempts surge to mln after PHP vulnerability disclosure, Cloudflare says】Cloudflare (NET.N) CEO Matthew Prince said a disclosed vulnerability in widely used PHP has triggered millions of exploit attempts. Cloudflare detected thousands of attempts across its network within 10 hours before public disclosure, rising to tens of thousands within 45 minutes of publication, hundreds of thousands within 2 hours and now reaching millions. Site operators globally have enacted emergency protections since Wednesday’s disclosure; some government websites in Europe and elsewhere went offline.
-
----
-
-### 2026-10-22 13:29:33  #MKT News
-
-【WMO: Current El Niño could reach unprecedented intensity】The World Meteorological Organization on the 21st released its Global Seasonal Climate Update, saying the current El Niño could reach an unprecedented intensity. It forecasts tropical Pacific sea surface temperatures may be about 3.8°C above average in Nov 2026–Jan 2027. WMO secretary-general Shao Luo said that projection is outside the range of charts monitored over the past 40 years. El Niño is expected to peak late this year, though impacts could persist beyond the peak.
-
----
-
-### 2026-10-22 13:29:32  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bearish #SSE Composite
-
-ChiNext fell 4.0%, the Shenzhen Composite Index slid 2.9% and the Shanghai Composite dropped 1.5%; more than 4,800 A-share stocks declined.
-
----
-
-### 2026-10-22 13:29:12  #公司 #市場
-
-【白酒板塊走弱，皇臺酒業跌停】白酒板塊走弱，皇臺酒業跌停，金種子酒、中恆集團、吉宏股份、天佑德酒、水井坊、酒鬼酒等跟跌。
-
----
-
-### 2026-10-22 13:29:06  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
-
-China's CSI 1000 index futures (IM) main contract slid below 6,500, down 2.85% intraday.
-
----
-
-### 2026-10-22 13:29:01  #市場 #焦點
-
-北證50日內跌幅達1.02%，成分股中，戈碧迦跌8.61%，蘅東光跌5.56%，惠豐鑽石跌4.17%，並行科技跌3.69%。
-
----
-
-### 2026-10-22 13:28:47  #市場 #焦點
-
-創業板指跌4.00%，現報2586.802點；上證指數跌1.50%，現報3657.450點；深證成指跌2.89%，現報11365.892點。
-
----
-
-### 2026-10-22 13:27:24  #其他
-
-【今年前三季度自然災害共造成全國5646萬人次不同程度受災】近日，國家防災減災救災委員會辦公室、應急管理部會同有關成員單位，對2026年前三季度全國自然災害情況進行了會商分析。前三季度，我國自然災害以地質災害、颱風災害、洪澇災害、風雹災害為主，乾旱災害、地震災害、低溫雨雪冰凍和雪災、生物災害、森林草原火災等也有不同程度發生。據初步統計，各種自然災害共造成全國5646萬人次不同程度受災，死亡失蹤1162人，緊急轉移安置和需緊急生活救助504.9萬人次；倒塌房屋1.3萬戶5.2萬間，損壞房屋17.0萬戶43萬間；農作物受災面積4739.7千公頃；直接經濟損失1993.6億元。
-
----
-
-### 2026-10-22 13:26:01  #其他
-
-【火山引擎啟動Seedance 2.5 4K企業試用：首批定向供應20家工作室】火山引擎近期啟動了Seedance 2.5 4K模型的第一批企業使用者試用，與作品繫結、定向供應給全球20家工作室和導演Seedance 2.5 4K模型，探索搬上大熒幕的高階影視需求。 除了畫面細節更清晰，Seedance 2.5 4K主打人物表演更細膩自然、參考生成和編輯的一致性更精細，是Seedance 2.5這一代中的最強模型。
-
----
-
-### 2026-10-22 13:25:20  #MKT News #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
-
-The Russian Defence Ministry said Russian forces carried out a "large-scale strike" overnight on port infrastructure and vessels used by Ukrainian forces in Ukraine's Odesa region.
-
----
-
-### 2026-10-22 13:24:50  #國際
-
-俄羅斯國防部稱，俄羅斯連夜對烏克蘭敖德薩地區的港口基礎設施和烏克蘭軍隊使用的船隻進行了“大規模打擊”。
-
----
-
-### 2026-10-22 13:24:30  #國際
-
-據國際文傳電訊社：俄羅斯夜間對烏克蘭發動大規模打擊。
-
----
-
-### 2026-10-22 13:24:19  #市場 #焦點
-
-南向資金淨賣出額達40億港元。
-
----
-
-### 2026-10-22 13:24:17  #公司
-
-【優必選在廣州成立科技新公司，含多項AI業務】企查查APP顯示，近日，廣州增優科技有限公司成立，經營範圍包含：智慧機器人的研發；人工智慧理論與演算法軟體開發；人工智慧基礎資源與技術平臺；智慧機器人銷售等。企查查股權穿透顯示，該公司由優必選全資持股。
-
----
-
-### 2026-10-22 13:23:36  #公司
-
-【易方達基金將自購旗下首隻主動ETF 金額達2億】首批主動ETF將於週五發行。易方達基金公告稱，基於對中國資本市場長期健康穩定發展的信心，公司將於10月23日募集期首日以固有資金2億元認購旗下易方達品質均衡主動ETF。該產品募集截至日為10月29日，首次募集規模上限為 20 億元人民幣。此前，摩根基金也宣佈類似動作，公司股東將透過關聯方摩根資產管理（亞太），出資7500萬美元（約合5億元人民幣）投向摩根大盤成長主動股票ETF。
-
----
-
-### 2026-10-22 13:23:25  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Following talks with US officials, Ukraine's foreign minister said appeasement, kowtowing and flattery cannot stop the war in response to Russia's attack on Kyiv.
-
----
-
-### 2026-10-22 13:23:01  #市場 #國際
-
-日本東證指數下跌1%，至4003.18。
-
----
-
-### 2026-10-22 13:22:44  #市場
-
-【澳大利亞S&P/ASX 指數下跌0.4% 必和必拓領跌】澳大利亞悉尼股市S&P/ASX 200指數收盤下跌0.4%，收於8793.20點。這是自10月14日下跌0.6%以來的最大跌幅，此前一個交易日該指數上漲了0.2%。必和必拓對指數下跌拖累最大，下跌2.4%。Nick Scali Ltd. 跌幅最大，下跌15.3%。今天，200只股票中有94只下跌，96只上漲；11個板塊中有3個板塊下跌，其中材料類股領跌。
-
----
-
-### 2026-10-22 13:21:23  #MKT News #CSI300 #Impact bearish
-
-CSI 300 stock index futures (IF) most-active contract down over 2.0% intraday at 3,971.0 points.
-
----
-
-### 2026-10-22 13:20:34  #市場 #國際
-
-【印尼股市反彈 主權財富基金出手託市】印尼股市從早前跌勢中回升，該國主權財富基金稱已入場買入本土股票。基準雅加達綜合指數盤中最大漲幅達 1.8%，該指數此前一度下跌 2.7%。本次上漲延續兩日連漲走勢，逆亞洲多數市場走弱的行情。此前明晟（MSCI）警告印尼或失去新興市場地位，上週五印尼股市遭遇近三十年來最猛烈拋售，本次上漲是大跌之後的修復行情。在主權財富基金 Danantara 宣佈入場維穩後，股指扭轉早盤的下跌態勢。MNC 證券分析師 Herditya Wicaksana 表示，估值水平，尤其是大型銀行股的估值正變得更具吸引力，但受 MSCI 相關不確定性影響，市場仍存在繼續拋售的風險，這正是投資者當前面臨的兩難處境。
-
----
-
-### 2026-10-22 13:20:16  #MKT News
-
-Australia's S&P/ASX 200 closed down 39.10 points, or 0.44%, at 8,792.20 on Thursday, Oct. 22.
-
----
-
-### 2026-10-22 13:18:33
-
-恒生科技指數午後跌超5％，失守3800點，恒指跌超3％，聯想集團跌11％領跌藍籌股。
-
----
-
-### 2026-10-22 13:17:38  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時縮量157億元。
-
----
-
-### 2026-10-22 13:16:30  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish #00992.HK
-
-Hang Seng Tech Index fell more than 5% in the afternoon, breaking below 3,800. The Hang Seng Index dropped over 3%; Lenovo Group (00992.HK) led blue chips, down 11%.
-
----
-
-### 2026-10-22 13:16:09  #公司
-
-【滴滴出行在吉林投資成立暢行科技公司】企查查APP顯示，近日，吉林滴滴暢行科技有限公司成立，經營範圍包含：資訊科技諮詢服務；軟體開發；計算機系統服務；網路技術服務等。企查查股權穿透顯示，該公司由滴滴出行關聯公司北京小桔科技集團有限公司間接全資持股。
-
----
-
-### 2026-10-22 13:15:53  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
-
-WTI crude futures rose 1.9% intraday to top $99/bbl.
-
----
-
-### 2026-10-22 13:15:41  #公司
-
-【北汽集團成立元啟物理智慧科技公司】10月22日，北汽集團在2026世界智慧網聯汽車大會上宣佈，成立北京元啟物理智慧科技公司，搭建算力基座、大模型、硬體終端的全棧自研體系。北汽下一代搭載全新“Personal Agent（個人智慧體）”座艙產品將於明年正式上市。
-
----
-
-### 2026-10-22 13:15:10  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver down 3.00% intraday at $56.23/oz.
-
----
-
-### 2026-10-22 13:15:08  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Indian Rupee Depreciates by 0.64% — Top currency losers are Indian Rupee (-0.64%), Mexican Peso (-0.37%) and Dollar Index (-0.09%). Gains are led by South Korean Won (0.36%), Japanese Yen (0.27%) and Euro (0.09%). Meanwhile British Pound was little changed.
-
----
-
-### 2026-10-22 13:14:57  #市場 #焦點
-
-WTI原油突破99美元/桶，日內漲1.92%。
-
----
-
-### 2026-10-22 13:14:19  #市場
-
-現貨白銀日內跌3%，現報56.21美元/盎司。
-
----
-
-### 2026-10-22 13:13:40  #公司 #市場
-
-【諾基亞利潤超預期，資料中心業務拉動增長】總部位於芬蘭埃斯波的諾基亞公佈，受人工智慧基建投資熱潮帶動，資料中心網路裝置需求走高，公司第三季度利潤超出分析師預期。該公司週四公告顯示，當期調整後營業利潤增至 6.05 億歐元（合 6.8 億美元），分析師預期均值為 4.54 億歐元。本次業績增長得益於部分積壓的資料中心裝置訂單完成交付。由於 5G 網路建設放緩，傳統電信客戶需求預計持續低迷，執行長 Justin Hotard 正著力把資料中心打造為諾基亞新的增長支柱。去年，他推出依託 AI 基建熱潮的發展戰略，並同步啟動重組，此後諾基亞剝離了多項業務。諾基亞表示，這些調整有望在未來數年推動營業利潤實現兩位數增長。AI 基建的快速擴張也給裝置廠商帶來挑戰，儲存晶片等零部件供應緊張、價格上漲。
-
----
-
-### 2026-10-22 13:13:28  #公司
-
-【國大藥房與津藥達仁堂集團召開2027年度合作對接洽談會】據津藥達仁堂公眾號，近日，國大藥房與津藥達仁堂集團召開2027年度合作對接洽談會，雙方圍繞2027年戰略合作開展深入磋商，其中達仁堂心腦血管品類-通脈養心丸正式以最高階別進入國大藥房，雙方將深化在心腦血管品類的合作，共同推動通脈養心丸等產品的市場發展。
-
----
-
-### 2026-10-22 13:13:11  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
-
-ChiNext Index slipped below 2,600 in the afternoon, down more than 3.5% intraday; Shenzhen Composite Index down 2.4%, Shanghai Composite down 1.2%.
-
----
-
-### 2026-10-22 13:12:17  #國際
-
-【韓國國防部：為避免意外衝突 朝鮮必須回到對話桌前】韓國國防部22日表示，朝鮮必須回到對話桌前，以避免韓朝雙方因認知分歧發生意外衝突。(新華社)
-
----
-
-### 2026-10-22 13:12:01  #其他
-
-【我國高校未來技術學院初步湧現一批人才培養成果 】記者近日從教育部獲悉，自2021年啟動建設首批未來技術學院以來，目前在校生總規模已突破萬人，初步湧現一批科研與人才培養成果，有力支撐現代化產業體系建設和高水平科技自立自強。據悉，2021年5月，教育部印發通知，在北京大學、清華大學、哈爾濱工業大學、上海交通大學、中國科學技術大學等12所高校建設首批未來技術學院，著力培養具有前瞻性、能夠引領未來發展的技術創新領軍人才。5年多來，首批未來技術學院學科專業建設方向已覆蓋《關於推動未來產業創新發展的實施意見》中提出的六大方向。統計資料顯示，這些學院主動融入未來產業佈局，牽頭或參與建設國家產教融合創新平臺7個，簽約合作企業151家、科研機構117個。
-
----
-
-### 2026-10-22 13:11:48  #MKT News #XAUUSD #Impact bullish #DXY #Hang Seng Index #Impact bearish
-
-【South Korea defense ministry says N. Korea must return to talks to avoid accidental clashes】Seoul's defense ministry said on the 22nd N. Korea must return to the negotiating table to prevent accidental clashes, warning that resuming loudspeaker broadcasts or other actions could raise the risk of miscalculation. A ministry spokesperson said military communication channels are fully cut, with both sides increasingly issuing statements to convey positions, and urged N. Korea to stop behaviors that could trigger such incidents.
-
----
-
-### 2026-10-22 13:09:50  #國際
-
-【米萊訪問西班牙，隔空交鋒桑切斯】阿根廷總統米萊21日在西班牙首都馬德里出席活動時，公開抨擊西班牙首相桑切斯，並呼籲將桑切斯領導的中左翼執政黨工人社會黨趕下臺。此舉引發桑切斯和工人社會黨的反擊。米萊當天出席西班牙新經濟論壇舉辦的早餐會時稱桑切斯為“不可接受的獨裁者”，批評桑切斯及其政府的經濟、住房和移民政策，並表示自己訪問期間不會與桑切斯會面。21日上午，工人社會黨在馬德里總部外懸掛巨幅橫幅予以回擊，橫幅上寫著“你好，米萊。左撇子歡迎你來到西班牙——歐洲經濟增長最快的國家”。桑切斯還將社交媒體賬號頭像改為印有“左撇子，且引以為豪”字樣的圖片。“左撇子”一詞在西班牙政治語境中常被右翼人士用來貶稱左翼支持者。（新華社）
-
----
-
-### 2026-10-22 13:09:38  #其他
-
-羅氏第三季度銷售額161.3億瑞郎，市場預估157.9億瑞郎。
-
----
-
-### 2026-10-22 13:09:33  #其他
-
-諾基亞：2026年重組及相關現金流出預計為8億至9億歐元。
-
----
-
-### 2026-10-22 13:09:02  #公司
-
-貝思半導體執行長：隨著多年期人工智慧產能建設的推進，今年前九個月的良好訂單勢頭應會持續到2026年第四季度。
-
----
-
-### 2026-10-22 13:08:36  #MKT News #Market Regions #Greater China #06127.HK #Impact bearish #02269.HK #03347.HK
-
-Hong Kong CXO stocks extended afternoon losses: 06127.HK fell 10.7%; 02269.HK (WuXi Biologics) dropped more than 8%; 03347.HK (Tigermed) fell over 7%; 02359.HK (WuXi AppTec) and 03759.HK each declined more than 6%.
-
----
-
-### 2026-10-22 13:06:56  #公司
-
-【歌爾股份在廣東成立智芯科技公司】企查查APP顯示，近日，歌爾智芯（廣東）科技有限公司成立，經營範圍包含：電子元器件製造；光電子器件製造；貨物進出口；技術進出口等。企查查股權穿透顯示，該公司由歌爾股份全資持股。
-
----
-
-### 2026-10-22 13:06:51  #公司 #國際
-
-【巴西禽類疫情擾亂供應 泰國卜蜂食品雞肉訂單增加】全球最大雞肉出口國巴西暴發禽類疫情、供應受到擾亂後，泰國最大肉類生產商卜蜂食品的禽肉產品需求有所增加。卜蜂食品執行長Prasit Boondoungprasert週四對記者表示，一些客戶無法從巴西採購雞肉，公司因而收到追加訂單。
-
----
-
-### 2026-10-22 13:06:02  #公司 #國際
-
-【印尼釋出基準指數成分股剔除規則指引】印尼證券交易所公告稱，雅加達綜合指數的評估標準將修訂，新規自11月2日起生效。加速板上市股票以及被劃為股權高度集中類別的股票將不再納入該指數。評估週期由3月、6月、9月、12月調整為1月、4月、7月、10月。指數調整生效日改為2月、5月、8月、11月的首個交易日，不再是1月、4月、7月、10月。在常規評估週期之外調入或調出股權高度集中名單的個股，將即時在雅加達綜合指數中完成調整。
-
----
-
-### 2026-10-22 13:04:11  #MKT News #NESN.SW #Impact bearish
-
-Nestlé said its operations in the Russian Federation will no longer be included in its consolidated financial statements from the end of September 2026 after being placed under temporary external management.
-
----
-
-### 2026-10-22 13:03:56  #其他
-
-【港股CXO概念股午後走弱，昭衍新藥跌超10%】港股CXO概念股午後走弱，昭衍新藥跌超10%，凱萊英跌近9%，藥明生物、泰格醫藥、金斯瑞生物科技、藥明康德跌超5%。
-
----
-
-### 2026-10-22 13:02:30  #市場 #焦點
-
-布倫特原油突破111美元/桶，日內漲2.01%。
-
----
-
-### 2026-10-22 13:02:30  #市場
-
-布倫特原油日內漲2%，現報111.00美元/桶。
-
----
-
-### 2026-10-22 13:02:29  #其他
-
-【臺灣釋出颱風“薔琵”陸上警報 】臺灣地區氣象部門22日上午11時30分發布颱風“薔琵”海上、陸上颱風警報，首波陸上警戒範圍包括宜蘭縣、花蓮縣、臺東縣及屏東恆春半島。 （新華社）
-
----
-
-### 2026-10-22 13:02:07  #其他
-
-雀巢 9個月銷售額658.7億瑞士法郎。
-
----
-
-### 2026-10-22 13:01:29  #其他
-
-雀巢9個月實際內部增長率+1.9％。雀巢仍然預測全年內生性收入+3％至+4％，預估+3.51％。
-
----
-
-### 2026-10-22 13:01:05  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-Brent crude's intraday gain widened to 1.00%, trading at $107.46 per barrel; WTI crude rose nearly 1% to $98.34 per barrel.
-
----
-
-### 2026-10-22 13:01:04  #其他
-
-諾基亞 第三季度銷售淨額51.5億歐元，預估50.6億歐元。
-
----
-
-### 2026-10-22 13:00:42  #公司 #國際
-
-【中國駐沙特大使館：建議中國公民暫勿乘飛機在沙特旅行】據中國駐沙特大使館訊息，10月22日凌晨，沙特民航總局釋出公告稱：達曼法赫德國王國際機場於10月21日（星期三）晚間遭襲，目前已造成1死8傷，物質損失尚在評估中。另有官方訊息稱，一架亞丁航空客機在本次襲擊中受損，機上1人受傷。連日來，沙特利雅得、達曼等地機場和重要設施持續遭導彈和無人機襲擊。利雅得哈立德國王國際機場和一些南部城市機場目前仍無恢復運營確切資訊，其他城市機場航班經常出現大面積異常。中國駐沙特使領館再次提醒在沙中資機構和中國公民務必提高安全防範意識，減少非必要外出，遠離機場、石油設施、軍事基地等敏感地區，勿拍攝軍事行動和敏感設施。建議近期勿乘飛機在沙特旅行，已購票旅客請與有關航司保持密切聯絡，關注航班變化和有關機場情況。發生爭議時保留好相關證據，理性維權。擬陸路從第三國出入沙特人員請注意有關國家入境規定，攜帶好重要證件。長途行車務必注意交通安全，遵守交通規則。
-
----
-
-### 2026-10-22 13:00:41  #MKT News
-
-【Zelenskiy rebuked by U.S. envoy after criticizing Trump】At Ukraine talks in Oslo on the 20th, Ukrainian President Zelenskiy was privately rebuked by a U.S. presidential envoy over his recent public criticism of U.S. President Trump, sources said. Witnesses said Zelenskiy initially disputed the characterization but then appeared to accept the message; he subsequently constrained his public remarks, offered positive comments to reporters and avoided further criticism of Trump.
-
----
-
-### 2026-10-22 13:00:36  #其他
-
-諾基亞 仍然預測全年調整後營業利潤21億歐元至26億歐元。
-
----
-
-### 2026-10-22 12:57:42  #公司 #觀點
-
-【摩根大通上調IBM目標價】摩根大通將IBM目標價從250美元上調至269美元。 訊息面，IBM第三季度營收增長4.7%至171億美元，高於分析師平均預期的168.2億美元。經調整後每股收益為2.95美元，高於市場預期的2.86美元。IBM首席財務官詹姆斯·卡瓦諾表示，上季度曾令投資者感到不安的延遲軟體交易正開始達成，與此同時，該公司上調了該業務的業績預期，並公佈了好於預期的第三季度財報。卡瓦諾在接受採訪時稱，IBM目前預計年度軟體營收增長率約為7%至8%，高於此前預期的6%至8%。
-
----
-
-### 2026-10-22 12:55:43  #國際
-
-【伊朗革命衛隊稱打擊多艘違規船隻 】伊朗革命衛隊海軍今天（10月22日）表示，從21日夜間到22日，有3艘船隻在試圖非法透過霍爾木茲海峽時觸雷起火，另有4艘船隻在波斯灣北部非法運輸石油時被擊中並起火。 伊朗革命衛隊海軍警告美國稱，如果美方繼續鼓勵船隻穿越佈設了水雷的航道，伊朗的回應可能會擴充套件到地區內的美軍基地。
-
----
-
-### 2026-10-22 12:53:30  #公司
-
-【長實集團再發澄清公告：網傳照片不實，李嘉誠健康情況良好】長實集團表示，近日有多個自媒體、網路社交賬號，以歷史圖片或虛假圖片，散播“李澤鉅及李澤楷到慈山寺上香祈福，李嘉誠沒有到場”的內容。其中，有些文章中的照片並非李澤鉅及李澤楷，亦有采用二人於2019年3月27日出席慈山寺開光典禮暨博物館啟用儀式時的照片，訛稱為近日拍攝，事實上，當日李嘉誠、李澤鉅及李澤楷三父子同場。長實集團要求，捏造虛假故事及散播謠言者，立即刪除有關內容，同時將保留法律追究權利。目前李嘉誠健康情況良好。
-
----
-
-### 2026-10-22 12:53:17  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Extends Losing Streak to Third Session — India’s BSE Sensex fell about 0.6% to 73,293 at Thursday’s open, extending losses for a third session as Brent crude above $110 a barrel fueled inflation concerns amid escalating Middle East tensions. Brent rose 1.3% to $110.30 after Houthi attacks in Saudi Arabia prompted the US to evacuate some diplomats and family members. RBI policymakers signalled further rate hikes may be needed but cautioned against aggressive tightening amid growth risks. Foreign investors bought 10.22 billion rupees in Indian shares on Wednesday, while Jio Platforms’ $3.2 billion IPO was fully subscribed within hours. Among stocks, Eternal’s revenue beat estimates, but profit missed on higher Blinkit expansion costs, with faster growth expected from December. M & M Financial Services posted higher quarterly revenue and profit on strong disbursements, while Bharat Electronics secured 10.11 billion rupees in new orders since October 13. Key laggards were HDFC Bank (-1.6%), L&T Tech (-3.6%), and Reliance (-1%).
-
----
-
-### 2026-10-22 12:52:44  #MKT News
-
-Indonesia Stock Exchange says new standards will exclude stocks with highly concentrated share ownership.
-
----
-
-### 2026-10-22 12:52:16  #MKT News #IBM.N #Impact bullish
-
-JP Morgan raises IBM (IBM.N) PT to $269 from $250.
-
----
-
-### 2026-10-22 12:52:05  #MKT News
-
-The Indonesia Stock Exchange will implement new standards for the Jakarta Composite Index effective Nov 2.
-
----
-
-### 2026-10-22 12:51:53  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Mass drone attack on Moscow region】Moscow mayor Sergei Sobyanin said an overnight assault of 630 drones struck the Moscow region from 8:30pm on the 21st to 4:00am on the 22nd. He said the vast majority were destroyed at long range by air-defence systems and a further 163 were intercepted near Moscow. Two people were wounded in the New Moscow district and are receiving medical treatment. Emergency teams are working at sites where drone debris has fallen.
-
----
-
-### 2026-10-22 12:49:51  #其他
-
-【eBay中國啟動大規模人員調整，比例或達80%】據報道，eBay中國於本週啟動新一輪人員調整，涉及上海等主要辦公點。據多個獨立信源透露，中國區裁員比例或已達到80%，“很多eBay員工都開始在社交招聘軟體上線上活躍看機會”。
-
----
-
-### 2026-10-22 12:49:28  #MKT News #IBM.O #Impact bullish
-
-JP Morgan raised its PT on IBM to $269 from $250.
-
----
-
-### 2026-10-22 12:49:25  #MKT News #Market Regions #Greater China #EBAY.O
-
-【eBay China starts mass layoffs; cuts may reach 80%】eBay China has launched a large-scale personnel adjustment this week across major offices including Shanghai; multiple independent sources say reductions could be as high as about 80%. Employees report increased activity on professional recruiting platforms. SignalHire estimates the China R&D center has 500–1,000 staff. Chinese social-insurance records show 2025 insured headcounts of 611 at Yibei Software Engineering (Shanghai) Co., 118 at Shanghai Yibei Network Information Service Co., and 189 employees in 2024 at Yibei Management (Shanghai) Co.
 
 ---

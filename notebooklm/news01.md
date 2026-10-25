@@ -1,7 +1,847 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-10-25 21:55:31_
-_本檔包含 2636 則快訊，約 498965 字_
+_更新時間：2026-10-26 01:50:07_
+_本檔包含 2739 則快訊，約 497603 字_
+
+---
+
+### 2026-10-26 01:49:22  #MKT News
+
+A magnitude 5.8 earthquake struck Afghanistan.
+
+---
+
+### 2026-10-26 01:48:20  #國際
+
+市場資訊：隨著美國和以色列選舉臨近，伊朗民眾擔憂可能重回全面戰爭。
+
+---
+
+### 2026-10-26 01:47:53  #MKT News #Commodities #Energy
+
+【Sri Lanka rescues 40 Iranian crew from offshore international waters】Sri Lanka’s foreign ministry said on Sunday it rescued 40 Iranian seafarers from merchant vessels in offshore international waters after medical emergencies. The operation was conducted at the Iranian embassy’s request via diplomatic channels; crew from 19 ships were brought ashore at Galle, treated and returned to Iran on Sunday morning. Local media identified the vessels as U.S.-sanctioned oil tankers.
+
+---
+
+### 2026-10-26 01:38:55  #國際
+
+【斯里蘭卡：在近海國際水域救起40名伊朗船員】斯里蘭卡外交部發言人週日表示，斯里蘭卡在近海國際水域救起40名出現醫療緊急狀況的伊朗船員，這些船員來自商船。應伊朗大使館透過外交渠道提出的援助請求，這些船員從19艘船上被送至加勒港上岸。他們接受治療後於週日早間返回伊朗。當地媒體認定這些船隻系受美國製裁的油輪。
+
+---
+
+### 2026-10-26 01:37:42  #宏觀
+
+英國財政部和加拿大財政部：已達成一致，最好建立兩個不同但互補的機構，以夥伴關係開展工作。
+
+---
+
+### 2026-10-26 01:37:38  #宏觀
+
+英國財政部和加拿大財政部：將制定合作框架，以維護多邊防禦機制以及國防、安全和韌性銀行的利益。
+
+---
+
+### 2026-10-26 01:35:14  #其他
+
+英國和加拿大將在投資和融資方面相互支援。
+
+---
+
+### 2026-10-26 01:34:20  #國際
+
+【特朗普密歇根拉票，自誇振興汽車業】美國總統特朗普表示，他即將前往密歇根州參加競選集合，還宣稱美國如今是全球熱度最高的地方，這份局面歸功於他。特朗普稱，在他的推動下，美國汽車行業迎來史上最好時期，全美多地新建、擴建工廠，密歇根州表現突出。他還表示，民主黨原本打算關停塞爾弗裡奇空軍基地，是他保住了這座基地，留住數千個崗位，保住基地帶來的影響力，並稱這件事只有他能做到。
+
+---
+
+### 2026-10-26 01:34:00  #其他
+
+英國和加拿大同意制定合作框架。
+
+---
+
+### 2026-10-26 01:33:58  #其他
+
+英國和加拿大重申加強防務融資的承諾。
+
+---
+
+### 2026-10-26 01:32:10  #宏觀
+
+英國財政部與加拿大財政部發布聯合宣告。
+
+---
+
+### 2026-10-26 01:30:47  #MKT News
+
+Trump said he prevented the closure of Selfridge Air National Guard Base, preserving thousands of jobs and the local prestige tied to the facility, and blamed Democrats for planning its shutdown.
+
+---
+
+### 2026-10-26 01:30:21  #MKT News
+
+U.S. President Trump said factories are being built and expanded across the country, especially in Michigan.
+
+---
+
+### 2026-10-26 01:30:20  #MKT News
+
+Trump credited himself, saying the U.S. auto industry is performing better than ever.
+
+---
+
+### 2026-10-26 01:30:06  #MKT News
+
+US President Trump said the United States is now the world's most sought-after country, far surpassing any other place.
+
+---
+
+### 2026-10-26 01:26:04  #國際
+
+伊朗總統：1月份全國性的反政府抗議主要由社會問題引發；如果民眾信任我們，知道我們想要幫助他們、解決他們的問題，他們肯定會與我們合作。
+
+---
+
+### 2026-10-26 01:24:42  #MKT News #XAUUSD #Impact bullish #DXY #WTI #Impact mixed
+
+Houthi forces said the Saudi-led coalition carried out 56 air and missile strikes on civilian targets in Yemen's Hajjah, Lahij, Amran, Saada, Al Jawf, Taiz and Ibb provinces in the past 24 hours.
+
+---
+
+### 2026-10-26 01:24:39  #國際
+
+美國俄勒岡州紐波特一家海產品加工廠的氨儲罐發生爆炸。
+
+---
+
+### 2026-10-26 01:15:39  #MKT News #Market Themes #AI Revolution
+
+Nikkei reports SoftBank plans to invest US$50 billion in Malaysia to develop AI infrastructure.
+
+---
+
+### 2026-10-26 01:14:22  #國際
+
+軟銀計劃在馬來西亞投資500億美元發展人工智慧。
+
+---
+
+### 2026-10-26 01:12:13  #MKT News #WTI #Impact bullish #Brent #DXY
+
+Houthi militants said they will issue an important statement at 0200 Beijing time announcing multiple special military operations in the deep interior of Saudi Arabia.
+
+---
+
+### 2026-10-26 01:12:04  #國際
+
+斯里蘭卡發言人表示，營救了40名伊朗船員。
+
+---
+
+### 2026-10-26 01:08:08  #MKT News
+
+WHITE HOUSE: President Trump says he is protecting US taxpayers and their hard-earned money from fraud and declares the days of cheating taxpayers are over.
+
+---
+
+### 2026-10-26 01:07:15  #其他
+
+【胡塞武裝稱沙特聯軍24小時內對葉門多地發動數十次空襲】當地時間25日晚間，葉門胡塞武裝釋出宣告稱，在過去24小時內，沙特主導的聯軍對葉門哈傑、拉赫季、阿姆蘭、薩達、焦夫、塔伊茲和伊卜等省的民用目標發動了56次空襲及導彈襲擊。胡塞武裝表示，自軍事行動升級以來，沙特主導的聯軍針對葉門的空襲及導彈襲擊總數已達到3179次。（央視新聞）
+
+---
+
+### 2026-10-26 01:06:43  #MKT News
+
+US attorney general says Trump had no intent to seize control of state elections.
+
+---
+
+### 2026-10-26 01:04:46  #國際
+
+美國司法部長表示，特朗普無意接管州級選舉。
+
+---
+
+### 2026-10-26 00:52:52  #市場 #焦點
+
+布倫特原油暗盤跌破111美元，日內跌超1.1%。
+
+---
+
+### 2026-10-26 00:51:31  #國際
+
+特朗普：福克斯新聞給予的支援力度遠遠不夠。
+
+---
+
+### 2026-10-26 00:51:10  #國際
+
+特朗普：福克斯新聞花太多時間邀請（共和黨的）對手上節目。
+
+---
+
+### 2026-10-26 00:50:15  #MKT News #Market Themes #The Trump Trade
+
+Trump said Fox News has given too much airtime to opponents of Republican candidates, drowning out patriotic GOP voices and offering little support, which he blamed as the sole reason the election is so competitive.
+
+---
+
+### 2026-10-26 00:44:33  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【CENTCOM says it has helped Gulf states export more than 1.5 bln barrels of oil since this summer】On Oct. 25 CENTCOM commander Admiral Brad Cooper visited the Strait of Hormuz and said US forces have assisted Gulf partners in exporting over 1.5 billion barrels of oil since this summer. Cooper credited US personnel with clearing the Strait’s main commercial routes of Iran-laid sea mines, keeping them open. He said that despite actions by the IRGC, more than 95% of vessels have transited the Strait safely in recent months, and that CENTCOM will continue coordinating with US interagency partners, the Gulf Cooperation Council and the shipping industry to safeguard freedom of navigation and commercial shipping.
+
+---
+
+### 2026-10-26 00:44:19  #國際
+
+【美軍中央司令部司令走訪霍爾木茲海峽，美助力海灣夥伴原油出口超15億桶】10月25日，美國中央司令部司令到訪霍爾木茲海峽。自夏季以來，美軍協助海灣夥伴出口原油總量突破15億桶。布拉德·庫珀上將搭乘美軍CH-47支奴幹直升機飛越這條國際水道，實地察看當前作戰環境。過去六個月，已有超過3000艘商船在美軍中央司令部的支援下順利透過霍爾木茲海峽。庫珀表示：“我們將繼續與海灣夥伴以及航運業並肩作戰。本次訪問彰顯我們堅定維護霍爾木茲海峽航行自由的承諾。”
+
+---
+
+### 2026-10-26 00:43:51  #國際
+
+市場資訊：美國中央司令部司令到訪霍爾木茲海峽。
+
+---
+
+### 2026-10-26 00:40:40  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+【Trump: US-Russia-Ukraine three-way talks to take place "very soon"】On Oct 25 Trump said US-Russia-Ukraine tripartite talks on Ukraine will take place "very soon" but gave no timetable and said he believes both sides want a deal. Russia and Ukraine on Oct 23 confirmed they agreed to a ceasefire from Oct 27 in Aleshki in Kherson region. A US official said the three-way talks could be held within two weeks in Abu Dhabi or Switzerland. Putin said any talks would focus on how to secure Russia-Ukraine safety after a peace agreement; Zelenskiy said he hopes a leaders' summit will follow.
+
+---
+
+### 2026-10-26 00:39:48  #國際
+
+【特朗普：美俄烏三方會談“很快”就會舉行】當地時間10月25日，美國總統特朗普表示，有關烏克蘭問題的美俄烏三方會談“很快”就會舉行，但未透露具體時間安排。特朗普稱，他認為俄烏雙方都有意達成協議。（央視新聞）
+
+---
+
+### 2026-10-26 00:39:29  #國際
+
+馬斯克：烏克蘭人和俄羅斯人之間無休止的殺戮必須停止。
+
+---
+
+### 2026-10-26 00:38:11  #國際
+
+馬斯克談及烏克蘭：我們也應當同情那些可憐的俄羅斯應徵新兵。這些年輕人別無選擇，只能奔赴戰場，在無人機襲擊中喪生。
+
+---
+
+### 2026-10-26 00:37:51  #國際
+
+俄羅斯布良斯克州州長表示，烏克蘭武裝部隊蓄意襲擊了布良斯克州布良斯克至戈梅利之間行駛的一列貨運列車，導致列車司機死亡。
+
+---
+
+### 2026-10-26 00:37:16  #MKT News
+
+Musk said we should have some sympathy for conscripted Russian soldiers; these young men have no choice but to go to the front and are being killed in drone strikes.
+
+---
+
+### 2026-10-26 00:36:21  #MKT News #Market Themes #The Trump Trade
+
+President Trump said Russia did not supply oil to the United States but to the world, and that is a very good thing.
+
+---
+
+### 2026-10-26 00:33:08  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+US President Trump said negotiations on the Ukraine conflict will be held soon and countries are eager to reach an agreement.
+
+---
+
+### 2026-10-26 00:32:00  #國際
+
+【特朗普週日表態，當日不會對伊朗實施軍事打擊】美國總統特朗普表示，週日不會對伊朗發動軍事打擊。他啟程前往密歇根州前對記者稱：“答案是否定的，今天不會發起打擊。”
+
+---
+
+### 2026-10-26 00:31:04  #國際
+
+特朗普在登上空軍一號前結束對媒體的講話。
+
+---
+
+### 2026-10-26 00:30:51  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. President Trump said the oil agreement reached with Russia is a very good thing.
+
+---
+
+### 2026-10-26 00:28:40  #MKT News #Market Themes #The Trump Trade
+
+President Trump said he expects new developments in the Russia-Ukraine situation.
+
+---
+
+### 2026-10-26 00:28:20  #國際
+
+特朗普：在換囚中未向普京作出任何讓步。
+
+---
+
+### 2026-10-26 00:28:06  #國際
+
+特朗普：與俄羅斯達成的石油協議是件非常好的事。
+
+---
+
+### 2026-10-26 00:28:02  #MKT News #Brent #Impact bullish #XAUUSD
+
+US President Trump said he holds two separate sets of intelligence on Iran.
+
+---
+
+### 2026-10-26 00:27:42  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+U.S. President Trump said the U.S. has very advanced intelligence on Iran.
+
+---
+
+### 2026-10-26 00:27:32  #國際
+
+特朗普：我認為俄烏局勢將出現新變化。
+
+---
+
+### 2026-10-26 00:27:31  #MKT News #Market Themes #The Trump Trade
+
+US President Trump said the United States performed very well in the war with Iran.
+
+---
+
+### 2026-10-26 00:27:18  #國際
+
+特朗普：我收到兩份內容不同的伊朗相關情報。
+
+---
+
+### 2026-10-26 00:26:56  #國際
+
+特朗普：我們掌握關於伊朗的非常先進的情報。
+
+---
+
+### 2026-10-26 00:26:48  #國際
+
+特朗普：我們與伊朗的進展順利。
+
+---
+
+### 2026-10-26 00:25:32  #國際
+
+特朗普：將看看在阿拉斯加的選舉中，法院能做些什麼。
+
+---
+
+### 2026-10-26 00:24:30  #宏觀 #公司 #國際
+
+【美駐沙特大使館釋出安全警報 要求非緊急政府人員撤離】當地時間10月25日，美國駐沙烏地阿拉伯大使館釋出安全警報稱，美國國務院已下令非緊急政府僱員及其家屬撤離沙烏地阿拉伯，原因是當地安全風險上升。公告稱，胡塞武裝近期襲擊沙烏地阿拉伯的民用機場及其他關鍵基礎設施，造成平民傷亡和嚴重交通中斷，相關敵對行動可能迅速升級。公告提醒美國公民，沙烏地阿拉伯機場可能遭到襲擊，並可能出現空域關閉、航班取消等情況，建議旅客直接向航空公司和機場確認航班狀態。（央視新聞）
+
+---
+
+### 2026-10-26 00:22:51  #國際
+
+伊朗高階官員：卡達代表團今日抵達德黑蘭，正在為確保地區安全與穩定進行斡旋談判。此次訪問是兩國在地區緊張局勢加劇的背景下持續接觸的一部分。
+
+---
+
+### 2026-10-26 00:14:22  #MKT News #Market Themes #The Trump Trade
+
+【Iran rejects Trump comment as psychological warfare】Iran said President Trump's remark that he "will not attack Iran tonight" was psychological warfare and called him "America's lying president."
+
+---
+
+### 2026-10-26 00:11:35  #MKT News
+
+Former IDF chief of staff Gadi Eisenkot said Prime Minister Benjamin Netanyahu is undermining the upcoming election and jeopardizing its fairness.
+
+---
+
+### 2026-10-26 00:08:13  #其他
+
+法國極右翼總統候選人勒龐在集會上誓言恢復“法治”。
+
+---
+
+### 2026-10-26 00:07:20  #國際
+
+以色列對加沙地帶南部汗尤尼斯市以東的謝赫納賽爾街區發動空襲，造成人員傷亡。
+
+---
+
+### 2026-10-26 00:07:03  #國際
+
+特朗普談俄羅斯和烏克蘭會談：很快就會舉行一些會談。
+
+---
+
+### 2026-10-26 00:03:04  #其他
+
+【葉門胡塞武裝稱襲擊沙特機場與能源設施】葉門胡塞武裝表示，發起多輪軍事打擊，目標為沙烏地阿拉伯主要機場和能源基礎設施，包括延布的沙特阿美設施、拉比赫煉油廠，以及利雅得、達曼的國際機場。胡塞武裝軍事發言人葉海亞·薩雷稱，本次行動動用彈道導彈與無人機，意在擾亂沙特境內石油運輸以及航空樞紐。沙特官方通報稱攔截了來襲導彈，目標區域附近發現墜落殘骸，暫未確認具體設施受損。
+
+---
+
+### 2026-10-26 00:01:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Yemeni Houthi rebels say they have launched a series of strikes on multiple major Saudi airports and energy facilities, citing ARAMCO's Yanbu site, the Rabigh refinery, and Riyadh and Dammam international airports as targets.
+
+---
+
+### 2026-10-26 00:01:06  #焦點 #國際
+
+特朗普談伊朗：今天不會發動襲擊。
+
+---
+
+### 2026-10-26 00:01:04  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bearish #XAUUSD #DXY
+
+Trump says the US will not strike Iran today.
+
+---
+
+### 2026-10-26 00:00:53  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+President Trump said the US will soon hold trilateral talks with Ukraine and Russia.
+
+---
+
+### 2026-10-26 00:00:31  #國際
+
+特朗普：我認為烏克蘭和俄羅斯都想達成協議。
+
+---
+
+### 2026-10-26 00:00:25  #國際
+
+特朗普談巴西大選：我們正在關注。
+
+---
+
+### 2026-10-26 00:00:07  #國際
+
+特朗普就委內瑞拉反對派領導人馬查多回國一事表示：我不知道這件事，希望她平安。
+
+---
+
+### 2026-10-26 00:00:07  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump said he was unaware of Venezuelan opposition leader Machado's return and hopes she is safe.
+
+---
+
+### 2026-10-25 23:59:51  #MKT News
+
+Israeli military said it earlier struck in Gaza City targeting a member of Hamas's military wing. After discovering unrelated civilians in the area, forces adjusted the direction of fire to reduce civilian harm and said an investigation is under way. Units from the military's Southern Command remain deployed under existing protocols and will continue operations to remove threats.
+
+---
+
+### 2026-10-25 23:58:55  #國際
+
+【烏軍使用風暴陰影導彈打擊俄電子元器件廠】烏克蘭武裝部隊使用風暴陰影/SCALP-EG巡航導彈，襲擊俄羅斯奧廖爾州的Proton-Elektrotex電子工廠，該廠主生產大樓受損。這家工廠生產半導體以及其他電子元器件，用於俄羅斯伊斯坎德爾-M彈道導彈、Kh-101巡航導彈以及鎧甲-S1防空系統。
+
+---
+
+### 2026-10-25 23:56:18  #國際
+
+俄羅斯別爾哥羅德州遭兩次無人機襲擊，四人死亡。
+
+---
+
+### 2026-10-25 23:55:52  #市場 #焦點
+
+布倫特原油暗盤跌破111美元，日內跌超0.9%。
+
+---
+
+### 2026-10-25 23:53:07  #其他
+
+【加彭近海一鑽井平臺沉沒 5人失蹤】當地時間10月25日，加彭石油與天然氣部發布通報稱，24日晚，加彭西南部馬永巴附近海域一座名為“Prospector 5”的海上鑽井平臺發生沉沒事故。事發時平臺上共有115人，目前已有110人確認安全，另有5人失蹤。搜救工作正在進行中。（央視新聞）
+
+---
+
+### 2026-10-25 23:52:52  #MKT News
+
+Israeli Prime Minister Netanyahu said Israel is far stronger than others realize.
+
+---
+
+### 2026-10-25 23:50:16  #國際
+
+【內塔尼亞胡聲稱：伊朗及其盟友或襲擊干擾以色列議會選舉】以色列總理內塔尼亞胡週日表示，以方獲得情報顯示，伊朗及其武裝盟友可能發動襲擊，干擾定於週二舉行的議會選舉，他同時警告以色列將實施力度不對等的軍事回擊。內塔尼亞胡在箭式反導導彈陣地發表講話，稱以色列國防軍已同時做好進攻與防禦作戰準備。“不要試探我們，你們將承受不成比例的打擊，”內塔尼亞胡發出警告，“我們遠比你們想象的更強大。”
+
+---
+
+### 2026-10-25 23:45:09  #MKT News
+
+U.S. Immigration and Customs Enforcement said it intends to save the United States.
+
+---
+
+### 2026-10-25 23:42:59  #公司 #國際
+
+伊朗航空表示，制裁導致其官方網站域名被封，迫使這家國有航空公司將線上服務遷移至新網址。該公司稱已將.com域名替換為伊朗的.ir域名。
+
+---
+
+### 2026-10-25 23:42:37  #其他
+
+委內瑞拉反對派領袖馬查多已抵達委內瑞拉。
+
+---
+
+### 2026-10-25 23:37:41  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+The U.S. Embassy in Saudi Arabia posted a security alert on its official website ordering non-essential personnel at the embassy to evacuate.
+
+---
+
+### 2026-10-25 23:36:42  #國際
+
+美國駐沙特大使館在官網釋出安全警報，下令駐沙特大使館非緊急崗位工作人員撤離。
+
+---
+
+### 2026-10-25 23:29:09  #國際
+
+【以色列議會選舉在即 以軍在約旦河西岸大舉行動】以色列軍隊25日繼續在約旦河西岸地區展開大規模軍事行動，此次行動已致數十名巴勒斯坦人被捕、超過2200名巴勒斯坦人流離失所。兩天前，兩名以色列士兵在約旦河西岸城市希伯倫附近遇襲身亡，以總理內塔尼亞胡聲稱將展開“大規模軍事行動”。（新華社）
+
+---
+
+### 2026-10-25 23:27:53  #其他
+
+【沙特稱攔截胡塞武裝導彈 碎片墜落致2人受傷】沙烏地阿拉伯民防總局25日下午發表宣告說，葉門胡塞武裝當天發射的兩枚彈道導彈被攔截，導彈碎片墜落在沙特南部阿西爾省，造成2人受傷。（新華社）
+
+---
+
+### 2026-10-25 23:27:31  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israeli Prime Minister NETANYAHU said any attempt to attack Israel will be met with a disproportionate response.
+
+---
+
+### 2026-10-25 23:26:49  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israel's Prime Minister Netanyahu said there are signs that Iran and its proxies may launch attacks on Israel to influence the election.
+
+---
+
+### 2026-10-25 23:26:35  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Prime Minister Netanyahu said the Israeli military is prepared for both defensive and offensive operations.
+
+---
+
+### 2026-10-25 23:25:10  #MKT News
+
+The Russian Defence Ministry said Russian forces struck a dry cargo ship in the Black Sea that was en route to the Ukrainian port of Odesa; the vessel was carrying supplies intended for the Ukrainian armed forces.
+
+---
+
+### 2026-10-25 23:23:38  #MKT News
+
+Saudi Crown Prince received the Greek prime minister for talks.
+
+---
+
+### 2026-10-25 23:23:23  #MKT News
+
+White House National Economic Council Director Hassett said the US will soon reach an agreement with Canada.
+
+---
+
+### 2026-10-25 23:21:17  #其他
+
+白宮經濟顧問哈塞特：盧特尼克這週一直在和加拿大同行們溝通。
+
+---
+
+### 2026-10-25 23:21:06  #國際
+
+白宮經濟顧問哈塞特：美國即將與加拿大達成協議。
+
+---
+
+### 2026-10-25 23:20:53  #其他
+
+白宮經濟顧問塞特：與加拿大談判有所進展，商務部長盧特尼克正在發言。
+
+---
+
+### 2026-10-25 23:16:02  #國際
+
+伊朗外交部發言人：只要這種情況持續下去，我們別無選擇，只能採取必要措施保護我們的領土完整、國家安全和人民。
+
+---
+
+### 2026-10-25 23:15:54  #焦點 #國際
+
+伊朗外交部發言人：霍爾木茲海峽並不安全，不是因為伊朗使其不安全，而是因為美國和以色列濫用這一水道，繼續將整個地區用作軍事侵略平臺，並對伊朗持續採取非法侵略行動。
+
+---
+
+### 2026-10-25 23:12:19  #其他
+
+英國倫敦知名購物街牛津街（Oxford Street）禁機動車通行，以期重振商業。
+
+---
+
+### 2026-10-25 23:11:27  #其他
+
+【辛巴威總統呼籲西方國家無條件解除制裁】辛巴威總統姆南加古瓦25日呼籲西方國家無條件解除對辛巴威實施的制裁，表示這些制裁嚴重製約了辛巴威國家經濟發展。（新華社）
+
+---
+
+### 2026-10-25 23:06:46  #國際
+
+加拿大-歐盟峰會將於10月29日至30日舉行，總理卡尼將在蒙特利爾主持該峰會。
+
+---
+
+### 2026-10-25 23:05:59  #MKT News
+
+President Trump, referring to Macron, said he told him at their first meeting: 'You're ruining France.'
+
+---
+
+### 2026-10-25 23:05:50  #國際
+
+伊朗外交部發言人：我們從未離開談判，我們透過中間人與美國交換資訊。問題在於華盛頓似乎堅持其單方面要求且立場強硬。
+
+---
+
+### 2026-10-25 23:05:06  #MKT News
+
+U.S. President TRUMP said, referring to Spain, he had long expected the country to face immigration problems.
+
+---
+
+### 2026-10-25 23:04:45  #MKT News
+
+Trump, referring to Spain, said families who have lived there for centuries are seeing large inflows of people into their country and are very angry.
+
+---
+
+### 2026-10-25 23:03:50  #國際
+
+特朗普談西班牙：一個月前，數十萬人湧入西班牙。我當時說“哦，這會是個問題”。那些在西班牙生活了幾百年的人，看看湧入他們國家的是什麼人。那些是憤怒的人。
+
+---
+
+### 2026-10-25 23:01:13  #公司 #國際
+
+【蒙古國考慮就草原火災向涉事日企索賠】日本媒體25日報道，日本電信運營商凱迪迪愛公司子公司高管在蒙古國自然保護區活動引發大規模草原火災後，蒙古國政府表示將透過調查明確相關責任方，並考慮提出賠償要求。（新華社）
+
+---
+
+### 2026-10-25 22:57:32  #MKT News
+
+Israeli military said it arrested a Palestinian in the West Bank suspected of planning an imminent terror attack.
+
+---
+
+### 2026-10-25 22:55:51  #市場 #焦點
+
+紐約原油暗盤跌破103美元，日內跌超0.8%。
+
+---
+
+### 2026-10-25 22:55:37  #國際
+
+以色列國防軍發言人：以色列國防軍和辛貝特部隊逮捕了一名意圖在比尼亞明旅地區實施襲擊的嫌疑人。
+
+---
+
+### 2026-10-25 22:54:59  #其他
+
+【秘魯政府延長首都等地緊急狀態60天】當地時間10月25日，秘魯政府宣佈將首都利馬大都會區和卡亞俄地區的緊急狀態延長60天，自2026年10月28日起生效，此舉旨在持續打擊當地的犯罪行為並維護社會治安與內部秩序。近年來，秘魯敲詐勒索、兇殺等犯罪問題突出。秘魯內政部資料顯示，今年1月至5月，利馬大都會區和卡亞俄地區共登記3471起敲詐勒索報案、197起兇殺案，同期全國共登記7694起敲詐勒索報案和421起兇殺案。（央視新聞）
+
+---
+
+### 2026-10-25 22:51:50  #國際
+
+【伊朗議長呼籲民眾減少天然氣使用量】伊朗議會議長卡利巴夫週日呼籲開展一項行動，將天然氣消耗量至少削減10%。隨著冬季臨近，官員們預計屆時將出現天然氣短缺。儘管伊朗是主要的天然氣生產國，但長期以來一直面臨天然氣短缺問題——天然氣是供暖系統的關鍵能源。自2月份以來，伊朗與美國及以色列之間的衝突進一步加劇了這一短缺狀況。據德黑蘭方面稱，在持續近40天的最激烈交戰期間，這兩個國家打擊了伊朗的關鍵基礎設施，其中包括天然氣煉化設施。伊朗的冬季氣溫往往會降至冰點以下，尤其是在該國北部地區。卡利巴夫在伊朗媒體釋出的一段影片中表示：“為了度過即將到來的冬天，全國上下必須共同努力……將天然氣消耗量至少削減10%。”“任何節約天然氣的人——無論節約量多少——都能立即在自己的銀行賬戶中收到相應的經濟回報，讓每個人都能切實感受到這種節約行為對家庭預算帶來的影響。”
+
+---
+
+### 2026-10-25 22:51:00  #MKT News #Commodities #Energy
+
+【Iran parliament speaker Ghalibaf urges at least 10% cut in gas consumption ahead of winter】Iran parliament speaker Ghalibaf on Sunday called for a nationwide campaign to reduce natural gas consumption by at least 10% as officials warn of shortages ahead of winter. Although Iran is a major gas producer, it has long faced domestic shortfalls and gas is a key heating fuel. Tehran says intensified conflict with the US and Israel since February has worsened shortages, with nearly 40 days of the heaviest fighting hitting critical infrastructure, including gas processing facilities. Winters often drop below freezing, particularly in northern Iran. In a video released to Iranian media Ghalibaf said: "To get through the coming winter the whole country must work together...cut natural gas consumption by at least 10%." He added: "Anyone who saves gas—regardless of amount—will immediately receive a corresponding financial reward in their bank account so everyone can feel the budgetary benefit."
+
+---
+
+### 2026-10-25 22:49:48  #MKT News
+
+U.S. President Trump said the United States has complete control over Venezuela and has been very fair to it.
+
+---
+
+### 2026-10-25 22:48:34  #MKT News
+
+UAE strongly condemned Houthi militants' attempted attacks on multiple locations inside Saudi Arabia.
+
+---
+
+### 2026-10-25 22:43:45  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed #DAX #Impact bearish #XAUUSD #Impact bullish
+
+【ECB succession to hinge on crisis-handling amid French bond-market turmoil】France's debt stress and a fierce bond sell-off have made the race to succeed ECB President Lagarde, who is set to depart, a test of crisis-management ability. Policymakers and member-state governments are increasingly treating market tensions as a decisive factor in the appointment. Netherlands' Klaas Knot and Spain's Pablo Hernández de Cos are emerging as leading contenders to take charge amid renewed bond-market volatility.
+
+---
+
+### 2026-10-25 22:37:11  #國際
+
+【俄總統助理：普京能否出席邁阿密G20峰會取決於APEC峰會結果】俄羅斯總統助理尤里•烏沙科夫表示，俄羅斯總統普京能否出席邁阿密G20峰會將取決於11月在深圳舉行的亞太經合組織（APEC）峰會的結果。
+
+---
+
+### 2026-10-25 22:35:47  #公司
+
+【受地區局勢影響 2027年達喀爾拉力賽將改地舉辦】當地時間10月25日，國際汽車聯合會（FIA）宣佈，受近期地區局勢發展影響，原定於2027年1月1日至15日在沙烏地阿拉伯舉行的達喀爾拉力賽將改在其他國家或地區舉辦，新的舉辦地將在未來幾天內公佈。國際汽聯表示，這一決定由賽事主辦方阿莫里體育賽事組織公司（A.S.O.）與沙特賽車運動公司（SMC）共同作出，並得到國際汽聯等相關機構支援。此次調整屬於一次性特殊安排，2027年賽事仍將按計劃舉行。（央視新聞）
+
+---
+
+### 2026-10-25 22:35:45  #MKT News
+
+Shangwei New Materials unit Qiyuan Robotics has rolled off its 5,000th personal robot.
+
+---
+
+### 2026-10-25 22:33:48  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Trump: Should I completely eliminate Iran or reach a deal?】President Trump said he is weighing whether to eliminate Iran or reach an agreement, saying “we get everything and they get nothing.” He said the US fully understands what happened at Iran’s “Pickaxe Mountain” facility, that Iranians have not taken any major actions at their nuclear sites, and that Washington is closely monitoring the situation.
+
+---
+
+### 2026-10-25 22:32:51  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Israeli strikes across Gaza kill at least seven】Palestinian sources said on the 25th Israeli forces launched air strikes across the Gaza Strip that killed at least seven people and wounded others. Gaza City’s al-Shifa hospital said it received three bodies from a strike on the Islamic University. In northern Gaza, an Israeli drone strike near Hamad hospital killed one and wounded three, including a child. Deir al-Balah’s Al-Aqsa Martyrs Hospital reported one death from a drone strike. In southern Gaza, Khan Younis’ Nasser Hospital said strikes on the coastal Mawasi area killed two and wounded five.
+
+---
+
+### 2026-10-25 22:27:15  #公司
+
+【但斌美股持倉曝光】東方港灣海外基金掌門人但斌，在科技板塊“大調倉”。私募排排網統計資料顯示，截至2026年三季度末，東方港灣海外基金共持有13只美股標的，持股市值合計約為14.69億美元。從行業分佈來看，AI仍是其佈局重點，截至三季度末谷歌為東方港灣海外基金的第一大重倉股。但從加減倉動作來看，但斌對於AI產業細分賽道的偏好相較於二季度發生明顯變化。據統計，今年三季度，東方港灣海外基金減持了二季度新進買入的超威半導體、博通、Lumentum等標的，同時加倉儲存巨頭美光科技、閃迪以及英偉達、谷歌-C、臺積電等。（上證報）
+
+---
+
+### 2026-10-25 22:27:02  #MKT News
+
+U.S. President Trump said Iranians have not taken any significant action at nuclear facilities and that the U.S. is closely monitoring the situation.
+
+---
+
+### 2026-10-25 22:26:44  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #Alphabet #NVDA.O #Impact bullish #GOOG.O #TSM.O
+
+【Dan Bin US equity holdings disclosed】Oriental Harbor overseas fund held 13 US-listed stocks worth about $1.469 bln at end-Q3 2026; AI remains the primary focus and Alphabet is the largest position. In Q3 the fund rotated within AI-related subsectors, trimming Q2 additions Advanced Micro Devices, Broadcom and Lumentum, while adding to Micron Technology, SanDisk, NVIDIA, Alphabet Class C and TSMC.
+
+---
+
+### 2026-10-25 22:21:54  #MKT News #Market Themes #The Trump Trade
+
+President Trump said the US is fully clear on what happened at Iran's "Pickaxe Mountain" facility.
+
+---
+
+### 2026-10-25 22:21:29  #其他
+
+市場訊息：蘋果正在推廣一款全新的零售工具，能夠掃描未拆封的iPhone包裝盒並執行診斷程式；這不僅有助於防盜，還能避免退回的產品淪為無效庫存。
+
+---
+
+### 2026-10-25 22:21:20  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple is rolling out a new in-store tool that scans unopened iPhone packaging and runs device diagnostics. The feature is intended to deter theft and prevent returned phones from becoming unsellable inventory.
+
+---
+
+### 2026-10-25 22:20:25  #國際
+
+特朗普：我們需要更多建築工人。
+
+---
+
+### 2026-10-25 22:20:11  #國際
+
+特朗普談經濟：我們還有許多訊息要宣佈。
+
+---
+
+### 2026-10-25 22:19:09  #MKT News #Market Themes #The Trump Trade
+
+President Trump said we get everything and they get nothing.
+
+---
+
+### 2026-10-25 22:17:07  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
+
+US President Trump said the question now is whether to make a deal with the Iranians or to totally destroy them.
+
+---
+
+### 2026-10-25 22:16:41  #MKT News
+
+Israeli media, citing security sources, report more than 2,500 residents in Hebron have been evacuated from their homes to date.
+
+---
+
+### 2026-10-25 22:16:19  #國際
+
+特朗普：我們清楚鎬山的情況。
+
+---
+
+### 2026-10-25 22:14:56  #國際
+
+美國總統特朗普：美國對委內瑞拉擁有完全控制權，並正以公平方式對待委內瑞拉。
+
+---
+
+### 2026-10-25 22:14:21  #國際
+
+特朗普：關於伊朗問題的唯一問題是，我是達成協議還是徹底解決它。
+
+---
+
+### 2026-10-25 22:10:47  #MKT News
+
+【Netanyahu urges Trump for public backing as Israeli election tightens】A US source and an Israeli source say Prime Minister Netanyahu, fighting for political survival ahead of Tuesday's election, has pressed US President Trump for increased public support. The US source said the White House views Netanyahu’s aggressive lobbying as a "sign of desperation" and believes it signals he knows he is trailing. The US source said Netanyahu spoke to Trump twice in the past three days and asked him to reinforce last week’s support post on Truth Social, even drafting suggested wording. The Israeli source said Netanyahu proposed Trump call Israeli journalists to express further backing.
+
+---
+
+### 2026-10-25 22:10:38  #國際
+
+內塔尼亞胡在3天內與美國總統特朗普兩次通話，以尋求更多支援。
+
+---
+
+### 2026-10-25 22:09:51  #其他
+
+【招商策略：物理AI有望成為重要增長方向，為算力需求提供新增量】招商策略研報認為，本次英偉達GTC大會圍繞Vera Rubin算力升級與物理AI應用拓展兩大方向展開，進一步明確AI產業發展趨勢。算力端，Vera Rubin持續提升計算效率，配合液冷及模組化部署方案，推動AI基礎設施建設效率與綜合能效提升。應用端，英偉達加快物理AI在機器人、智慧駕駛及工業製造等領域的佈局，推動AI與實體產業深度融合。整體來看，AI產業正呈現算力基礎設施持續升級、應用場景加速拓展的趨勢，物理AI有望成為重要增長方向，為算力需求提供新增量。
+
+---
+
+### 2026-10-25 22:09:04  #其他
+
+達喀爾拉力賽組織方宣告：2027年達喀爾拉力賽將不在沙烏地阿拉伯舉辦。
+
+---
+
+### 2026-10-25 22:08:34  #國際
+
+【以色列空襲加沙多地致至少7人死亡】據巴勒斯坦通訊社25日報道，以軍當天對加沙地帶多地發動空襲，造成至少7人死亡，另有多人受傷。 加沙城希法醫院的訊息人士向新華社記者證實，該院當天接收了3名死者遺體，這些人在以軍針對加沙伊斯蘭大學的一次空襲中死亡。在加沙城北部，一架以軍無人機在哈馬德醫院附近發動襲擊，造成1人死亡，包括1名兒童在內的3人受傷。 代爾拜拉赫市阿克薩烈士醫院的訊息人士稱，以色列當天的無人機襲擊在該市造成1人死亡。 在加沙地帶南部，汗尤尼斯市納賽爾醫院當天在一份宣告中說，以色列對沿海的馬瓦西地區發動空襲，造成2人死亡，另有5人受傷。 加沙地帶衛生部門25日釋出的資料顯示，自2025年10月10日停火協議生效以來，已有1551名巴勒斯坦人在以方軍事行動中死亡，另有5573人受傷。(新華社)
+
+---
+
+### 2026-10-25 22:01:01  #其他
+
+【西藏那曲巴青7.0級地震震區瑪如鄉二村受災群眾安置點活動板房順利通電】10月25日20時，經過連續8小時奮戰，西藏那曲巴青縣瑪如鄉二村受災群眾安置點活動板房順利通電。國網西藏電力接到現場指揮部下達任務後，緊急調配50名應急搶修骨幹人員不間斷作業，新建電杆4基，敷設導線600餘米，安裝變壓器1臺，爭分奪秒推進板房通電工作，全力保障受災群眾溫暖過冬。（央視新聞）
+
+---
+
+### 2026-10-25 21:55:50  #市場 #焦點
+
+美銅暗盤突破6.5美元，日內漲幅0.1%。
 
 ---
 
@@ -15688,227 +16528,5 @@ UK Manufacturing Sector Grows at Faster Pace — The S&P Global UK Manufacturing
 ### 2026-10-23 16:41:07  #Trading Economics #Economy #United Kingdom #Services PMI #Importance 1
 
 UK Services Sector Growth Beats Forecasts — The S&P Global UK Services PMI rose to 53.1 in October 2026 from 52.1 in September, above market forecasts of 51.8, flash estimates showed. The latest data showed that growth in overall service sector accelerated to its highest level in eight months, led by a marked improvement in new orders. A number of firms cited a boost to sales from AI investment spending and rising demand for technology services. Employment growth resumed in October, supported by an influx of new projects and a focus on long-term business expansion, although many firms continued to adopt cautious hiring strategies. Meanwhile, price pressures remained elevated. Lastly, business sentiment improved, with service providers highlighting planned investment in new products and marketing initiatives, alongside a gradual recovery in expectations for broader market conditions.
-
----
-
-### 2026-10-23 16:40:02  #Trading Economics #Economy #United Kingdom #Composite PMI #Importance 2
-
-UK Business Activity Growth Picks Up to 8-Month High — The UK private sector continued to expand in October, with the flash Composite PMI Output Index rising to 53.1 from 52 in September, exceeding market expectations of 51.8 and reaching an eight-month high. Growth was supported by the sharpest increase in new business since September 2024. Both manufacturing and services recorded stronger output growth, while manufacturing activity posted its strongest increase in just over two years. Improving demand also helped employment return to growth for the first time since September 2024, ending a two-year period of job cuts, although the increase in staffing remained marginal. However, inflationary pressures intensified, with input costs rising sharply and the overall pace of cost inflation reaching its highest level since June. Business confidence regarding the year ahead edged higher in October, but optimism remained below the survey’s long-term average.
-
----
-
-### 2026-10-23 16:33:03  #Trading Economics #Economy #Euro area #Inflation Expectations #Importance 1
-
-Euro Area Consumer Inflation Expectations at 4-Month High — Median expectations for price growth over the next 12 months in the Euro Area edged up to 3.1% in September 2026, the most in four months, compared to 3% in August. Consumers also expect the price of their home to increase by 3.5% over the next 12 months, higher than 3.4% in August. Expectations for mortgage interest rates in 12 months’ time remained unchanged at 4.9%. Meanwhile, median expectations for inflation three years ahead and five years ahead were unchanged at 2.9% and 2.5% respectively. Elsewhere, expectations for nominal income growth over the next 12 months increased to 1.1% from 1% and expectations for economic growth over the next 12 months decreased to -1.5% from -1.2% in August. Expectations for the unemployment rate 12 months ahead increased to 11.3% from 11%.
-
----
-
-### 2026-10-23 16:32:23  #Trading Economics #Economy #Taiwan #Unemployment Rate #Importance 1
-
-Taiwan Jobless Rate at 3.33% in September — Taiwan’s seasonally adjusted unemployment rate edged up by 0.01 percentage point from a month earlier to 3.33% in September 2026, as the number of unemployed people increased by 1 thousand to 401 thousand. Meanwhile, total employment declined by 4 thousand to 11.644 million. The labor force participation rate remained unchanged at 59.59%, with the total labor force falling by just 2 thousand to 12.046 million. Not seasonally adjusted, the unemployment rate ticked lower to 3.36% in September from 3.41% in August, with the number of unemployed people decreasing by 6 thousand to 405 thousand. Meanwhile, the youth unemployment rate among those aged 15-24 fell to 11.59% from 11.74% in the previous month.
-
----
-
-### 2026-10-23 16:30:28  #經濟數據 #英國
-
-【英國10月製造業PMI初值為52.8 預期51.7】英國10月製造業PMI初值為52.8，預期51.7，前值51.9；10月服務業PMI初值為53.1，預期51.8，前值52.1。
-
----
-
-### 2026-10-23 16:30:11  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Appreciates by 2.12% — Top crypto gainers are Binance (2.12%), XRP (1.32%), Ether (0.86%) and Bitcoin (0.49%).
-
----
-
-### 2026-10-23 16:30:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | Manufacturing PMI, preliminary (Oct) | actual 52.8 | consensus 51.7 | previous 51.9
-
----
-
-### 2026-10-23 16:30:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | Composite PMI, preliminary (Oct) | actual 53.1 | consensus 51.8 | previous 52
-
----
-
-### 2026-10-23 16:30:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | Services PMI, preliminary (Oct) | actual 53.1 | consensus 51.8 | previous 52.1
-
----
-
-### 2026-10-23 16:29:40  #Trading Economics #Markets #Euro Area #Currency #Importance 1
-
-Euro Falls on Weak PMI Data and Debt Concerns — The euro dropped to $1.12, remaining close to multi-month lows following the release of weaker-than-expected PMI data, while concerns over social unrest and rising public debt across Europe continued to weigh on the currency. Flash data showed eurozone private-sector growth slowed in October to a four-month low, pressured by rising energy costs, higher interest rates and renewed contraction in France amid political and fiscal uncertainty. Consumer confidence also deteriorated more sharply than expected. Meanwhile, investors remain concerned about rising borrowing costs across Europe, particularly in France, where 10-year government bond yields reached fresh 24-year highs and the risk premium climbed to levels last seen during the 2011 eurozone sovereign debt crisis. Looking ahead, further demonstrations are expected across the region this weekend, while investors await next week’s inflation data and the ECB’s policy meeting, where rates are widely expected to remain unchanged.
-
----
-
-### 2026-10-23 16:14:15  #Trading Economics #Economy #Euro Area #Composite PMI #Importance 2
-
-Eurozone Business Activity Growth Slows — The S&P Global Eurozone Composite PMI fell to 51.9 in October 2026, down from September’s three-and-a-half-year high of 53.1 and below market expectations of 52.7, according to the preliminary estimate. Although business activity expanded for a fourth consecutive month, growth slowed to its weakest pace in the sequence, partly driven by a renewed contraction in French services activity. While strikes and unrest may have disrupted local economic activity in France, growth also eased across the rest of the eurozone, affecting both manufacturing and services. Meanwhile, new order growth weakened, bringing hiring close to stagnation, while rising energy prices drove input costs higher and prompted firms to increase selling prices. Higher interest rates also dampened demand, reinforcing concerns over slowing growth and persistent inflation that could fuel expectations of further ECB tightening. Finally, business confidence fell to a five-month low.
-
----
-
-### 2026-10-23 16:12:17  #Trading Economics #Economy #Euro Area #Manufacturing PMI #Importance 1
-
-Euro Area Manufacturing Growth Slows to 3-Month Low — The S&P Global Eurozone Manufacturing PMI edged down to 52.4 in October 2026, its lowest level in three months, from 52.9 in September and below market expectations of 52.7. Manufacturing employment declined slightly following two consecutive months of growth. However, input purchasing continued to expand, with the pace accelerating to its joint-fastest in nearly four-and-a-half years, matching the rate recorded in April amid precautionary stockpiling linked to the ongoing conflict in the Middle East. As a result, manufacturers’ stocks of purchases increased for the first time in almost four years. Meanwhile, supplier lead times lengthened significantly, marking the sharpest deterioration in four months. On the price front, input costs rose sharply in October, driven by higher energy, fuel, and transportation costs. The increase was the steepest since May and exceeded the year-to-date average.
-
----
-
-### 2026-10-23 16:10:10  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Rapeseed Gains by 3.11% — Top commodity gainers are Rapeseed (3.11%) and Rice (0.90%). Biggest loser is Rubber (-0.66%).
-
----
-
-### 2026-10-23 16:10:05  #Trading Economics #Economy #Euro Area #Services PMI #Importance 1
-
-Eurozone Services Activity Growth Slows in October — The S&P Global Eurozone Services PMI fell to 51.7 in October 2026 from 53.0 in the previous month, coming in below market expectations of 52.5. This marked a two-month low, indicating a moderation in services sector growth. The pace of job creation slowed to a five-month low, reflecting weaker growth in new business and reduced pressure on operating capacity. French services activity returned to contraction, while growth also softened elsewhere in the eurozone. Services input cost inflation eased, although firms faced a less favorable business outlook amid slowing activity and persistent inflationary pressures.
-
----
-
-### 2026-10-23 16:05:09  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Falls by 2.37% — Top commodity losers are Lithium Carbonate (-2.37%), Silver (-1.39%), Titanium (-1.15%) and Gold (-0.32%). Gains are led by Aluminum Alloy (1.20%), Iron Ore CNY (0.82%) and Copper (0.82%).
-
----
-
-### 2026-10-23 16:02:43  #Trading Economics #Markets #Commodity #Importance 1
-
-Nickel Retreats on Persistent Oversupply — Nickel traded around $15,900 per tonne, reversing recent gains as persistent global oversupply and subdued demand continued to constrain prices. Indonesia’s rapid expansion of nickel production has kept supply ample, while weaker stainless steel demand and the growing use of lithium iron phosphate batteries have limited consumption growth. The International Nickel Study Group expects the global surplus to widen in 2027, reinforcing the longer-term supply overhang. Meanwhile, reports of coordinated production cuts at Chinese-operated Indonesian smelters have raised hopes of tighter supply, with producers reportedly considering halving mixed hydroxide precipitate (MHP) output and cutting nickel pig iron production by 20%. Although the scale and timing of the measures remain uncertain, losses among Indonesian MHP producers strengthen the incentive to curb output, potentially tightening supply if the cuts are implemented.
-
----
-
-### 2026-10-23 16:01:17  #MKT News #Economic Calendar #Important
-
-Taiwan | Unemployment Rate (Sep) | actual 3.33% | consensus 3.30% | previous 3.32%
-
----
-
-### 2026-10-23 16:00:45  #經濟數據 #歐元區
-
-【歐元區10月製造業PMI初值為52.4 預期52.7】歐元區10月製造業PMI初值為52.4，預期52.7，前值52.9；10月服務業PMI初值為51.7，預期52.5，前值53。
-
----
-
-### 2026-10-23 16:00:33  #MKT News #Economic Calendar
-
-United Kingdom | LME zinc inventory change (Oct.23) | actual -50 | previous -750
-
----
-
-### 2026-10-23 16:00:29  #MKT News #Economic Calendar
-
-United Kingdom | LME tin inventory change (Oct.23) | actual -50 | previous -160
-
----
-
-### 2026-10-23 16:00:28  #MKT News #Economic Calendar #Important
-
-United Kingdom | LME nickel inventory change (Oct.23) | actual 0 | previous -192
-
----
-
-### 2026-10-23 16:00:23  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-French Stocks Set for Weekly Decline — The CAC 40 fell 0.7% to 7,758 on Friday, extending losses from the previous session and heading for a weekly decline as investors weighed a batch of corporate earnings alongside PMI data. Luxury stocks were among the laggards, with Kering plunging 11.7% to over one-year low after Q3 2026 revenue came in flat year-on-year and down about 1% on a like-for-like basis. Hermès fell 1.1% to four-year low as its quarterly results disappointed investors amid challenging conditions in China. Safran also dropped 6.7% despite surpassing Q3 revenue growth forecasts. In contrast, L’Oréal climbed 3.5% to a more than two-year high after Q3 sales beat expectations. On the economic front, France’s flash composite PMI fell to 48.4 in October from 51.1 in September, well below forecasts of 50.5. Manufacturing PMI slipped to 49.3 from 50.6, returning to contraction and hitting an 11-month low. Services PMI also fell back into contraction, dropping to 48.4 from 51.2 and missing expectations of 50.7.
-
----
-
-### 2026-10-23 16:00:22  #MKT News #Economic Calendar
-
-United Kingdom | LME lead inventory change (Oct.23) | actual -1800 | previous -5325
-
----
-
-### 2026-10-23 16:00:21  #MKT News #Economic Calendar #Important
-
-United Kingdom | LME aluminum inventory change (Oct.23) | actual -225 | previous -100
-
----
-
-### 2026-10-23 16:00:14  #MKT News #Economic Calendar
-
-United Kingdom | LME aluminum alloy inventory change (Oct.23) | actual 0 | previous 0
-
----
-
-### 2026-10-23 16:00:12  #MKT News #Economic Calendar #Important
-
-United Kingdom | LME copper inventory change (Oct.23) | actual 800 | previous 27675
-
----
-
-### 2026-10-23 16:00:09  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas EU Rises by 3.84% — Top commodity gainers are Natural Gas EU (3.84%), Natural Gas UK (3.59%), Heating Oil (1.46%), Crude Oil (1.19%) and Brent Oil (0.88%). Biggest loser is Natural gas (-2.41%).
-
----
-
-### 2026-10-23 16:00:02  #MKT News #Economic Calendar #Important
-
-Taiwan | Industrial Production (YoY) (Sep) | actual 19.17% | consensus 24.65% | previous 23.47%
-
----
-
-### 2026-10-23 15:59:10  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX at 2-Week Low — Frankfurt's DAX 40 fell 0.6% to around 25,230 on Friday, hitting a two-week low and extending the previous session’s losses. While the earnings season continues to draw investors’ attention, sentiment remained cautious amid rising oil prices due to escalating tensions in the Middle East. Also, concerns over demonstrations scheduled for Saturday in France and Italy weighed. On the data front, flash PMI figures showed that Germany’s private sector continued to expand in October, though the pace of growth slowed more than expected. Most sectors traded lower, particularly telecom, software and autos, while tech outperformed. Among individual stocks, Deutsche Telekom led the losses, falling more than 3%, followed by MTU Aero Engines, Adidas, Continental and Airbus, which declined between 1.6% and 2.6%. On the upside, Rheinmetall (2.2%), Fresenius Medical Care (1.2%), Infineon Technologies (0.9%) and Vonovia (0.9%) posted the biggest gains. For the week, the index lost around 1.5%.
-
----
-
-### 2026-10-23 15:53:09  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Extends Losses — Italy’s FTSE MIB extended its losses to around 48,300 on Friday, hovering near its lowest level since May, as losses in luxury stocks offset gains in energy shares. Eni climbed more than 3% after reporting third-quarter adjusted net profit of €2.8 billion, more than double the year-earlier figure, and announcing a €1.3 billion special dividend and an increase in its share buyback programme. Tenaris and Saipem also advanced 1.8% and 1.5%, respectively. On the downside, Moncler fell 2.1% and Brunello Cucinelli dropped 1.9%, as recent disappointing earnings from regional peers dampened hopes for a recovery in the sector. Automotive stock Stellantis also fell 2%. Investors also monitored developments in Italy’s banking sector ahead of an October 29 MPS shareholder meeting on its proposed merger with Mediobanca, amid reports of potential opposition from Banco BPM stakeholders. For the week, the benchmark index was on track to decline around 3%.
-
----
-
-### 2026-10-23 15:51:41  #Trading Economics #Markets #Commodity #Importance 1
-
-UK Gas Prices Hit Fresh Multi-Year High Amid Tight Supply — UK natural gas prices climbed toward 230 pence per therm, reaching a fresh 2022 high amid tightening global supply. Ongoing disruptions to LNG supplies from the Middle East have driven British gas prices to three times their levels at the start of the year. Adding to concerns, gas output in the North Sea, which accounts for about a third of the nation’s winter demand, is projected to fall by about 5%, according to the UK’s gas-grid operator. To compensate for this, LNG imports are forecast to increase by 5%, while Norwegian pipeline deliveries are expected to rise by 1%. While the gas network operator indicated that the country would have adequate supply capacity even under worse-case scenarios, robust LNG demand could intensify competition for cargoes and push prices even higher. Meanwhile, additional production from the newly approved Jackdaw field may offer some relief, as it is expected to start supplying gas to the UK by the end of this month.
-
----
-
-### 2026-10-23 15:50:32  #Trading Economics #Economy #Poland #Unemployment Rate #Importance 1
-
-Poland Jobless Rate Unchanged for 3rd Month — Poland’s registered unemployment rate stood at 5.8% in September 2026, in line with market expectations and unchanged for a third consecutive month. The latest result still marked the lowest level since December 2025, as the number of unemployed persons declined by 2.5 thousand from a month earlier to 907 thousand, with women representing 49.5% of the total. The majority of unemployed individuals were not entitled to unemployment benefits, accounting for 87.8% of the total. Meanwhile, 4.5% were out of work due to company-related terminations, while fresh graduates made up 3.4% of all unemployed persons. Additionally, 382.1 thousand had been out of work for more than a year. Compared with September 2025, the jobless rate was 0.2 percentage points higher, having stood at 5.6% a year earlier. Separately, reported job vacancies at the end of the month increased by 2.8 thousand to 47.2 thousand.
-
----
-
-### 2026-10-23 15:44:30  #Trading Economics #Economy #Germany #Services PMI #Importance 1
-
-Germany Services Sector Growth Slows in October — Germany’s Services PMI fell to 51.7 in October 2026 from 52.9 in September, missing market expectations of 52.5, according to preliminary data. Although activity expanded for a second consecutive month, growth remained modest as demand stagnated amid delayed customer decisions and tighter client budgets. Services firms also reported a renewed decline in outstanding work. Despite easing capacity pressures at the start of the fourth quarter, companies continued to recruit, marking a third consecutive month of employment growth. However, job creation remained marginal and unchanged from September. On the price front, input cost inflation slowed, partly reflecting fuel discounts, while service providers moderated their own price increases amid competitive pressures. Looking ahead, business confidence in the services sector improved to its highest level since February, indicating stronger growth expectations despite subdued demand and limited momentum in current activity.
-
----
-
-### 2026-10-23 15:43:12  #Trading Economics #Economy #Germany #Composite PMI #Importance 1
-
-German Private Sector Activity Growth Slows — The S&P Global Flash Germany Composite PMI fell to 52.8 in October 2026 from 53.8 in September, below forecasts of 53.3. The reading pointed to sustained, albeit slower, growth in private-sector business activity, amid a slowdown in both the services sector (51.7 vs. 52.9) and manufacturing output (55.1 vs. 56). New business continued to expand, but did so at the weakest rate for three months. Stronger growth expectations among services firms were offset by a notable reduction in confidence in the manufacturing sector, where input cost inflation surged to its highest since May. Amid reports of competitive pressures and discounted fuel prices, however, the overall rate of increase in prices charged for goods and services ticked down to a seven-month low. In addition, the pace of job creation at services firms was unchanged and only marginal. Workforce numbers in the manufacturing sector came close to stabilising, recording only a marginal fall that was the weakest for over three years.
-
----
-
-### 2026-10-23 15:40:01  #Trading Economics #Economy #Germany #Manufacturing PMI #Importance 1
-
-Germany Manufacturing Sector Growth Beats Forecasts — Germany’s Manufacturing PMI rose to 54.2 in October 2026 from 53.9 in September, exceeding market expectations of 53.5, preliminary estimates showed. This marked a two-month high and signalled a continued improvement in manufacturing business conditions. However, manufacturing output growth eased, with the output index falling to 55.1 from 56.0, its lowest level in three months. Order books continued to expand, albeit at a slower pace, supported by sustained growth in export sales, while manufacturing backlogs recorded another robust rise. Meanwhile, employment edged closer to stabilisation, with job losses slowing to their weakest pace in over three years. On the price front, input-cost inflation accelerated for a second consecutive month to its highest level since May, driven by higher oil prices and rising raw material and component costs. Looking ahead, manufacturers’ business confidence weakened to its lowest level since July amid growing concerns over rising input prices.
-
----
-
-### 2026-10-23 15:39:54  #Trading Economics #Economy #France #Services PMI #Importance 1
-
-France Services Activity Contracts in October — The S&P Global France Services PMI fell to 48.4 in October 2026 from 51.2 in September, returning to contraction territory, according to preliminary estimates. The reading also came in below market expectations of 50.7. The downturn reflected a sharp decline in demand for services, amid heightened political uncertainty and tighter financial conditions. Business confidence also weakened, with firms' expectations for activity over the next 12 months falling to their lowest level in six and a half years.
-
----
-
-### 2026-10-23 15:36:55  #央行 #歐洲央行
-
-【經濟學家預計歐洲央行下週按兵不動】經濟學家預計歐洲央行下週按兵不動，並將於12月加息。
-
----
-
-### 2026-10-23 15:35:44  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Set to End Week Lower — The FTSE 100 traded slightly lower on Friday, extending the previous session’s 0.3% decline and heading for a weekly loss of more than 1.5%. Rolls-Royce shares fell around 2.5% as the company reportedly neared a deal for up to £200 million in UK government subsidies to develop a new short-haul aircraft engine. AstraZeneca dropped over 1%, while GSK declined more than 0.5%. In contrast, Shell and BP gained 1.2% and 1.8%, respectively, as Brent crude headed for a third consecutive weekly advance amid escalating attacks on Saudi Arabia and concerns over potential supply disruptions. Meanwhile, UK consumer confidence deteriorated sharply, with the GfK index falling 11 points to -24, marking its steepest decline since the pandemic. Retail sales also disappointed in September, falling 0.4% including fuel and 0.7% excluding it month-on-month, both worse than expected. However, upward revisions to August’s figures partly offset the latest weakness.
 
 ---
