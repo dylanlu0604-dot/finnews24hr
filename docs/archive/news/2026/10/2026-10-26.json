@@ -1,7 +1,17 @@
 {
   "date": "2026-10-26",
-  "count": 52,
+  "count": 53,
   "items": [
+    {
+      "id": "mkt:01a1740f-90ca-7ee0-a96d-dd25796175ee",
+      "time": "2026-10-26 01:15:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Nikkei reports SoftBank plans to invest US$50 billion in Malaysia to develop AI infrastructure."
+    },
     {
       "id": "5167794",
       "time": "2026-10-26 01:14:22",
