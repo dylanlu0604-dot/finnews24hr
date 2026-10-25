@@ -1,7 +1,48 @@
 {
-  "updated": "2026-10-25 08:47:39",
-  "count": 13133,
+  "updated": "2026-10-25 08:51:48",
+  "count": 13136,
   "items": [
+    {
+      "id": "5166787",
+      "time": "2026-10-25 08:50:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "10月25日9:00開始（北京時間），歐洲多國開始實施冬令時，歐洲金融市場的交易時間和經濟資料的公佈時間將較夏令時延後1個小時。"
+    },
+    {
+      "id": "mkt:01a17089-73ff-7ee0-a968-40ea39454403",
+      "time": "2026-10-25 08:50:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Trump urges voters to check 401(k)s, claims some accounts up 80%】At a rally in Perry, Georgia ahead of the vote, Trump urged voters to \"check your 401(k),\" claiming some retirement accounts have risen as much as 80% and saying \"nobody's ever seen anything like this.\" He also targeted former president Biden, claiming retirement savings fell about 25% during Biden's administration."
+    },
+    {
+      "id": "mkt:01a17089-48d8-7ee0-a968-3807fc0927a6",
+      "time": "2026-10-25 08:50:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "FTSE100"
+      ],
+      "text": "Several European countries have switched to standard time; European financial market trading hours and scheduled economic-data release times will be one hour later than during daylight saving time. The next scheduled release is due in 10 minutes."
+    },
+    {
+      "id": "5166773",
+      "time": "2026-10-25 08:47:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普聲稱退休賬戶漲幅高達80%，並告訴支持者“沒人見過這樣的景象”。他還將矛頭指向前總統拜登，稱拜登執政期間退休儲蓄下降了25%。"
+    },
     {
       "id": "mkt:01a17084-dae6-7ee0-a968-36977941cdd8",
       "time": "2026-10-25 08:45:17",
@@ -118846,14 +118887,6 @@
         "其他"
       ],
       "text": "【巴基斯坦安全部門稱擊斃數名阿富汗武裝人員】巴基斯坦安全部門訊息人士17日稱，阿富汗武裝人員當天在巴基斯坦西北部開伯爾－普什圖省巴阿邊境地帶無端開火，巴安全部隊對此作出有效回應。訊息人士稱，阿富汗武裝人員在該省古勒姆地區巴阿邊境地帶無端開火，企圖為恐怖分子越境提供便利。作為回應，巴安全部隊打擊了阿富汗武裝的一處邊境哨所和一處軍事營地，打死數名阿富汗武裝人員。阿武裝人員放棄哨所撤離，其營地被摧毀。訊息人士表示，該地區的交火仍在持續。巴安全部隊將保持高度警惕，堅定捍衛國家邊境並保障國家安全。(新華社)"
-    },
-    {
-      "id": "5152113",
-      "time": "2026-10-18 08:49:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉預計未來五年石油領域將獲得近760億美元投資】委內瑞拉代總統德爾西・羅德里格斯週六表示，該國預計未來五年油氣行業將吸引近 760 億美元投資，委內瑞拉正積極引入私人資本，推動能源增產。這位代總統稱，政府依託修訂後的油氣框架，已簽署 61 項合作協議，另有 44 項協議正在談判。羅德里格斯表示，相關專案將融合外資、委內瑞拉本土資本與勞動力。她稱，這筆規劃中的投資將創造超 32.4 萬個直接、間接及衍生就業崗位。羅德里格斯還提到，蘇利亞州石油產量提升後，該州有望生產液化石油氣，先滿足國內需求，後續再出口。"
     }
   ]
 }
