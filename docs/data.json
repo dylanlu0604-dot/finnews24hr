@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-25 20:39:51",
-  "count": 13278,
+  "updated": "2026-10-25 20:43:43",
+  "count": 13279,
   "items": [
+    {
+      "id": "mkt:01a17316-1639-7ee0-a96c-17c54c67481b",
+      "time": "2026-10-25 20:43:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Wuwen Xinqiong, Three-Body Universe launch ZhiZi Agent 1.0 after strategic tie-up】Oct 25, 2026 — AI-native infrastructure provider Wuwen Xinqiong and Three-Body Universe announced a strategic partnership and released their first joint product, the AI conversational agent \"ZhiZi Agent 1.0\", built with a ZhiZi persona."
+    },
+    {
+      "id": "5167683",
+      "time": "2026-10-25 20:39:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特電力公司宣佈調整電力服務資費。"
+    },
     {
       "id": "5167682",
       "time": "2026-10-25 20:36:12",
@@ -120011,14 +120029,6 @@
         "其他"
       ],
       "text": "沙特資本市場管理局（CMA）批准“SAAF沙特里亞爾伊斯蘭債券基金”公開發行。"
-    },
-    {
-      "id": "5152418",
-      "time": "2026-10-18 20:42:56",
-      "tags": [
-        "行業"
-      ],
-      "text": "【近一週融資資金呈現淨償還態勢 融資資金出逃CPO龍頭、儲存賽道】近一週（10月9日至15日），A股融資餘額持續下行，由2.53萬億元上方降至最新的24741.96億元。據統計，融資資金呈現淨償還態勢，金額合計727.10億元。分行業看，電子融資淨償還額高居榜首，高達288.47億元；通訊板塊居次席，融資淨償還額為138.59億元；機械裝置、電力裝置淨償還額均超過50億元。淨買入方面，綜合、紡織服飾、商貿零售、石油石化獲得融資淨買入。個股方面，近一週，35股融資淨償還額均超過3億元。中際旭創、新易盛融資淨償還額依次為55.41億元、32.81億元；寒武紀、兆易創新、勝宏科技、東山精密、瀾起科技5股融資淨償還額均在10億元以上。 （證券時報）"
     }
   ]
 }

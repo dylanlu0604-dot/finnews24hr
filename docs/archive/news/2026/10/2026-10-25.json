@@ -1,7 +1,25 @@
 {
   "date": "2026-10-25",
-  "count": 802,
+  "count": 804,
   "items": [
+    {
+      "id": "mkt:01a17316-1639-7ee0-a96c-17c54c67481b",
+      "time": "2026-10-25 20:43:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Wuwen Xinqiong, Three-Body Universe launch ZhiZi Agent 1.0 after strategic tie-up】Oct 25, 2026 — AI-native infrastructure provider Wuwen Xinqiong and Three-Body Universe announced a strategic partnership and released their first joint product, the AI conversational agent \"ZhiZi Agent 1.0\", built with a ZhiZi persona."
+    },
+    {
+      "id": "5167683",
+      "time": "2026-10-25 20:39:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特電力公司宣佈調整電力服務資費。"
+    },
     {
       "id": "5167682",
       "time": "2026-10-25 20:36:12",
