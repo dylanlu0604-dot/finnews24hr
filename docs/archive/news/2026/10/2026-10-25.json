@@ -1,7 +1,15 @@
 {
   "date": "2026-10-25",
-  "count": 823,
+  "count": 824,
   "items": [
+    {
+      "id": "mkt:01a17340-9def-7ee0-a96c-454d5e0756fe",
+      "time": "2026-10-25 21:29:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President Lula said voters must choose between defending Brazil's flag and defending the US flag."
+    },
     {
       "id": "5167697",
       "time": "2026-10-25 21:24:19",
