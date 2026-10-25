@@ -1,7 +1,75 @@
 {
   "date": "2026-10-25",
-  "count": 516,
+  "count": 524,
   "items": [
+    {
+      "id": "5167461",
+      "time": "2026-10-25 15:13:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【野村證券：儲存晶片短缺局面將持續至2028年 板塊估值已被嚴重低估】野村證券表示，市場對人工智慧投資前景的擔憂屬於“反應過度”，儲存晶片短缺局面將持續至2028年，儲存板塊估值已被嚴重低估。"
+    },
+    {
+      "id": "5167460",
+      "time": "2026-10-25 15:12:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙烏地阿拉伯基準指數早盤下跌1.1%。"
+    },
+    {
+      "id": "mkt:01a171e7-b266-7ee0-a96a-08baec0868f9",
+      "time": "2026-10-25 15:12:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Saudi benchmark index fell 1.1% in early trade."
+    },
+    {
+      "id": "mkt:01a171e6-7b77-7ee0-a96a-05c6b6d027fc",
+      "time": "2026-10-25 15:11:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense says the danger alert in Khamis Mushait has been lifted."
+    },
+    {
+      "id": "5167459",
+      "time": "2026-10-25 15:11:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯釋出阿巴哈地區存在潛在危險的警報。"
+    },
+    {
+      "id": "5167458",
+      "time": "2026-10-25 15:11:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯稱哈米斯穆沙伊特的危險局勢已經解除。"
+    },
+    {
+      "id": "mkt:01a171e5-b96e-7ee0-a969-fcfa6fbba97c",
+      "time": "2026-10-25 15:10:42",
+      "tags": [
+        "MKT News",
+        "2222.SR",
+        "Impact bearish"
+      ],
+      "text": "Saudi Aramco shares fell 1.2% in early trade."
+    },
+    {
+      "id": "5167457",
+      "time": "2026-10-25 15:10:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙特阿美股價在早盤交易中下跌1.2%。"
+    },
     {
       "id": "mkt:01a171e4-543b-7ee0-a969-f33a524f933e",
       "time": "2026-10-25 15:09:11",
