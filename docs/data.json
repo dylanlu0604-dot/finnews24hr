@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-26 01:46:03",
-  "count": 13261,
+  "updated": "2026-10-26 01:50:07",
+  "count": 13264,
   "items": [
+    {
+      "id": "mkt:01a1742e-6fae-7ee0-a96e-15239fa11f0e",
+      "time": "2026-10-26 01:49:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A magnitude 5.8 earthquake struck Afghanistan."
+    },
+    {
+      "id": "5167805",
+      "time": "2026-10-26 01:48:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：隨著美國和以色列選舉臨近，伊朗民眾擔憂可能重回全面戰爭。"
+    },
+    {
+      "id": "mkt:01a1742d-1367-7ee0-a96e-088eedaa7662",
+      "time": "2026-10-26 01:47:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Sri Lanka rescues 40 Iranian crew from offshore international waters】Sri Lanka’s foreign ministry said on Sunday it rescued 40 Iranian seafarers from merchant vessels in offshore international waters after medical emergencies. The operation was conducted at the Iranian embassy’s request via diplomatic channels; crew from 19 ships were brought ashore at Galle, treated and returned to Iran on Sunday morning. Local media identified the vessels as U.S.-sanctioned oil tankers."
+    },
     {
       "id": "5167804",
       "time": "2026-10-26 01:38:55",
