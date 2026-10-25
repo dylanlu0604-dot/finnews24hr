@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-25 21:07:33",
-  "count": 13265,
+  "updated": "2026-10-25 21:11:39",
+  "count": 13264,
   "items": [
+    {
+      "id": "mkt:01a1732e-a311-7ee0-a96c-1ade1d9e0ddf",
+      "time": "2026-10-25 21:09:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Qatari mediators arrived in Tehran on Sunday to ease regional tensions, coordinated with the US, an official familiar with the matter said."
+    },
+    {
+      "id": "5167687",
+      "time": "2026-10-25 21:09:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首部AI院線電影，票房過百萬】首部AI院線電影《三星堆：未來往事》在上海舉行了特別放映活動。該片總製片人蔣德富、製片人曲吉小江等主創團隊現身。從《長津湖》《長津湖之水門橋》到《中國機長》《中國醫生》，蔣德富、曲吉小江此前作為製片人，參與過多部知名商業電影的製作。其中，《長津湖》票房接近58億元，至今仍是中國影史票房亞軍。而首部AI院線電影上映已有3天，截至10月25日晚，其票房約115萬元。（證券時報）"
+    },
+    {
+      "id": "5167686",
+      "time": "2026-10-25 21:07:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華測導航：農機導航與機器人板塊前三季度實現良好增長】華測導航日前在機構調研時表示，農機導航與機器人板塊系公司未來幾年的重點發展方向之一，2026年前三季度該板塊實現良好增長，農機自動駕駛產品已遠銷海外數十個國家。該板塊當前收入主要來自農機自動駕駛系統，公司不斷豐富產品矩陣，推出智慧噴霧系統、智慧灌溉、農具導航、收穫機自動對行系統等產品，市場推廣效果良好，預計將逐步貢獻業績。"
+    },
     {
       "id": "5167685",
       "time": "2026-10-25 21:03:20",
@@ -119867,43 +119892,6 @@
         "國際"
       ],
       "text": "【韓國監獄人滿為患 獲假釋囚犯人數驟增】韓國政府釋出的最新資料顯示，由於監獄收容能力不足，今年1月至8月，600多名囚犯在所判刑期實際執行不到60%的情況下就獲得假釋，較往年大幅增加。韓國媒體18日報道，應韓國最大在野黨國民力量黨國會議員朱晉佑要求，法務部發布上述資料。資料顯示，2022年至2024年，每年獲假釋的囚犯均不超過40人。最近兩年，獲假釋人員數量激增，2025年共有172人在服刑期不滿60%時獲假釋。今年前8個月，這類獲假釋者達到634人。（新華社）"
-    },
-    {
-      "id": "mkt:01a14f22-ca4c-7ee0-a8d1-23d31b9bf2e5",
-      "time": "2026-10-18 21:10:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. Energy Secretary wright said he is uneasy about gasoline prices but pleased they are easing."
-    },
-    {
-      "id": "mkt:01a14f21-b177-7ee0-a8d1-1c5dfa77a3b0",
-      "time": "2026-10-18 21:09:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Energy Secretary Wright said Trump's pause on sanctions against Russia was an innovative move."
-    },
-    {
-      "id": "5152432",
-      "time": "2026-10-18 21:09:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：對汽油價格感到不安，但對價格正在回落感到高興。"
-    },
-    {
-      "id": "mkt:01a14f20-3ee0-7ee0-a8d1-15fe011a58ad",
-      "time": "2026-10-18 21:07:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Saudi landmark orders all staff to work remotely as conflict with Houthi rebels escalates】Fighting between Saudi Arabia and Houthi rebels in Yemen has intensified, causing casualties inside Saudi Arabia. Riyadh’s Kingdom Centre on the 18th told all office staff to work remotely until further notice; management described the instruction as mandatory but gave no reason, AFP reported citing an email. The central Riyadh tower, over 300m tall, houses tenants including Merrill Lynch, McKinsey and the IMF."
     }
   ]
 }
