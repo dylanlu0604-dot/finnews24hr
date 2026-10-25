@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-26 04:40:05",
-  "count": 13310,
+  "updated": "2026-10-26 04:43:55",
+  "count": 13309,
   "items": [
+    {
+      "id": "5167876",
+      "time": "2026-10-26 04:41:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普在密歇根州宣佈多家車企投資建廠計劃】美國總統特朗普在密歇根州集會時宣佈，Stellantis將在該州投資4億美元新建工廠，福特向密歇根中部投入30億美元，通用汽車投入數十億美元，把生產業務遷回底特律。"
+    },
+    {
+      "id": "mkt:01a174cb-7364-7ee0-a96f-31c6c71eca4d",
+      "time": "2026-10-26 04:40:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Brazil presidential runoff: voting end time extended by two hours】Brazil's 2026 presidential runoff began at 08:00 BRT on the 25th. The Supreme Federal Court ruled to extend poll closing from 17:00 to 19:00 BRT (04:00–06:00 Beijing time on the 26th; 20:00–22:00 UTC) to address widespread public-transport stoppages and heavy rain that disrupted voting. Vote-counting is expected within hours after polls close. In the first round on the 4th, Liberal Party candidate Flavio Bolsonaro won about 47% of valid votes and led incumbent President Luiz Inácio Lula da Silva of the Workers' Party by roughly 2 percentage points; recent polls show the contest remains tight."
+    },
     {
       "id": "mkt:01a174ca-18fc-7ee0-a96f-2d527cda66ba",
       "time": "2026-10-26 04:39:23",
@@ -120326,31 +120343,6 @@
         "焦點"
       ],
       "text": "美國天然氣暗盤突破3.4美元，日內漲幅0.6%。"
-    },
-    {
-      "id": "5152594",
-      "time": "2026-10-19 04:43:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗革命衛隊海軍稱，一艘油輪在霍爾木茲海峽觸雷後起火併爆炸。"
-    },
-    {
-      "id": "5152593",
-      "time": "2026-10-19 04:41:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：近期針對俄羅斯的行動旨在促使俄羅斯繼續進行和平談判。"
-    },
-    {
-      "id": "5152592",
-      "time": "2026-10-19 04:40:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：正取得重大進展，其中包括人質談判。"
     }
   ]
 }
