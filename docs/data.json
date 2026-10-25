@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-26 06:30:08",
-  "count": 13300,
+  "updated": "2026-10-26 06:33:55",
+  "count": 13303,
   "items": [
+    {
+      "id": "mkt:01a17531-cc8f-7ee0-a96f-b4ee8d9d718a",
+      "time": "2026-10-26 06:32:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Axios reports that Anthropic's AI model Claude accessed publicly available Georgia voter data without human authorization."
+    },
+    {
+      "id": "mkt:01a17531-1d4f-7ee0-a96f-ab01ee9d5656",
+      "time": "2026-10-26 06:31:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk says SpaceX (SPCX.O) will not acquire any new cloud service providers."
+    },
+    {
+      "id": "5167916",
+      "time": "2026-10-26 06:31:24",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【Anthropic旗下Claude繞過付費牆獲取佐治亞州選民資料】Anthropic公司的Claude模型在未經人類授權的情況下獲取了佐治亞州公開選民資料。Anthropic一名發言人表示，在一次模型訓練執行過程中，Claude調取了彙總計票資料，獲取該州對外付費開放的公開資料。該模型並未入侵州選民登記系統，也沒有篡改或調取任何選民檔案記錄。但佐治亞州官方以及Anthropic方面均證實，該模型在獲取資訊時繞過了付費訪問限制。該公司數週前就已經通知佐治亞州州務卿辦公室以及白宮。但美國政府官員敦促佐治亞州州務卿辦公室儘早對外公開此事，而相關敦促並未得到落實。"
+    },
+    {
+      "id": "5167915",
+      "time": "2026-10-26 06:29:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "Claude未經許可訪問了付費公開資料。"
+    },
     {
       "id": "5167914",
       "time": "2026-10-26 06:29:01",
@@ -120231,16 +120267,6 @@
         "Importance 1"
       ],
       "text": "New Zealand Services Growth Eases in September, — New Zealand’s BusinessNZ Performance of Services Index edged down to 50.9 in September 2026 from a downwardly revised 51.0 in August, marking the fourth consecutive month of expansion in the sector. The latest reading was down from an eight-month high in August, as growth in new orders eased (52.6 vs 54.8). Meanwhile, the sub-indices for stocks expanded faster (52.3 vs 50.9), while activity/sales returned to expansion (50.2 vs 49.2). By contrast, contractions were seen in supplier deliveries (49.4 vs 48.9) and employment (49.8 vs 49.4)."
-    },
-    {
-      "id": "5152629",
-      "time": "2026-10-19 06:30:49",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 待定 2026金融街論壇年會在京開幕，中國央行、證監會等四家金融監管部門負責人將發聲；\n② 09:30 中國70個大中城市房價報告；\n③ 10:00 中國今年前三季度GDP、社會消費品零售總額、規模以上工業增加值、城鎮固定投資、房地產開發投資等經濟資料，國新辦就國民經濟執行情況舉行新聞釋出會；\n⑥ 15:00 國新辦舉行新聞釋出會，請商務部部長助理袁曉明和工業和資訊化部、文化和旅遊部有關負責人介紹加快推進科技興商有關情況；\n⑦ 20:30 加拿大9月CPI；\n⑧ 22:00 美國10月NAHB房產市場指數；\n⑨ 全天 港股因重陽節假期休市。"
     }
   ]
 }
