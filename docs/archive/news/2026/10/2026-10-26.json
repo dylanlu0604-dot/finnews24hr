@@ -1,7 +1,25 @@
 {
   "date": "2026-10-26",
-  "count": 127,
+  "count": 129,
   "items": [
+    {
+      "id": "5167842",
+      "time": "2026-10-26 03:34:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：英國財政大臣希利支援在羅斯班克進行石油鑽探，此舉可能引發內閣分裂。"
+    },
+    {
+      "id": "mkt:01a1748b-130c-7ee0-a96e-bc228e854f94",
+      "time": "2026-10-26 03:30:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump spoke at a rally in Michigan."
+    },
     {
       "id": "5167841",
       "time": "2026-10-26 03:29:57",
