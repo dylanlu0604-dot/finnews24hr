@@ -1,7 +1,44 @@
 {
-  "updated": "2026-10-25 16:10:30",
-  "count": 13273,
+  "updated": "2026-10-25 16:14:34",
+  "count": 13271,
   "items": [
+    {
+      "id": "mkt:01a1721f-22fc-7ee0-a96a-5218af6536ee",
+      "time": "2026-10-25 16:13:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【CSC Financial's Xia Fanjie: Earnings improvement underpins economic resilience; Q3 reports' three themes bolster market confidence】With A-share third-quarter results rolling out, CSC Financial chief strategist Xia Fanjie says the market is in a phase of sentiment repair and earnings verification. He attributes the recent adjustment to valuation and trading‑structure shifts from domestic and external factors, not systemic fundamental deterioration, and cites earnings strength in the AI compute chain, resource/commodity names and high‑end export manufacturing as key drivers of market confidence."
+    },
+    {
+      "id": "mkt:01a1721d-c43d-7ee0-a96a-4f42ec54db0a",
+      "time": "2026-10-25 16:11:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Three drivers behind gold's recent decline】Spot gold briefly fell below $4,000/oz in Asian trade on Oct. 23 — the first time since July — and is down more than 3% this week. Wang Jun, chief analyst at Green Dahua Futures, cites three market-moving drivers: (1) high oil prices — Brent topped $114/bbl, reinforcing global and US inflation persistence; (2) firmer Fed December rate-hike expectations, with elevated US inflation lifting the dollar and US Treasury yields and eroding gold’s appeal (Wang calls this the main driver); and (3) global liquidity tightening and deleveraging. He expects international gold to remain under pressure into late October and early November."
+    },
+    {
+      "id": "5167558",
+      "time": "2026-10-25 16:10:33",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投證券首席策略分析師夏凡捷：業績改善支撐經濟韌性，三季報三大主線積蓄市場信心】隨著上市公司三季報披露逐步推進，A股市場正處在情緒修復與盈利驗證交織的階段。日前，中信建投證券首席策略分析師夏凡捷在接記者採訪時指出，當前市場調整主要是內外部因素共振下的估值與交易結構調整，而非基本面系統性惡化，三季報中AI算力鏈、資源品、高階製造出海三大方向的業績亮點，正為市場注入信心。（每經）"
+    },
     {
       "id": "5167557",
       "time": "2026-10-25 16:09:34",
@@ -119960,49 +119997,6 @@
         "公司"
       ],
       "text": "【長芯博創：特定股東自願承諾未來6個月不減持股份】長芯博創公告稱，公司特定股東ZHU WEI及其配偶WANG XIAOHONG合計持有公司股份14,741,577股，佔公司總股本的4.9986%。二人自願承諾自2026年10月19日起6個月內（2026年10月19日至2027年4月18日）不以任何方式減持所直接持有的公司股份，承諾期內因轉增、送股、配股等增加的股份亦遵守該承諾。"
-    },
-    {
-      "id": "5152288",
-      "time": "2026-10-18 16:14:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【國產塗料海外訂單爆發】今年以來，國內多類化工原料價格持續上漲，其中樹脂、溶劑、助劑等塗料核心原材料漲幅明顯。最近，國內多家塗料企業上調產品價格，不少企業也積極開拓海外市場。 廣東惠州的一家塗料企業今年在緬甸組建了本地團隊，加大市場開拓力度，計劃將海外營收佔比從去年的30%提升至60%。企業負責人介紹，同比去年，緬甸市場營收增長四五倍，海外市場增長100%左右。在佛山的另一家企業，工作人員說，公司在2024年開始佈局海外業務，今年在東南亞的業務量增長超200%。  佛山海關資料顯示，今年前九個月，佛山市出口初級形狀合成樹脂5.3億元，同比增長23.5%；非水介質油漆清漆2.03億元，增長50%；水性介質油漆清漆6508.06萬元，增長45.3%；玻璃油灰、嵌縫膠等塗裝配套產品4822.5萬元，增長86.7%，對新興市場的出口增長明顯。（央視財經）"
-    },
-    {
-      "id": "5152287",
-      "time": "2026-10-18 16:13:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本民調顯示，首相高市早苗內閣的支援率降至49.1%。"
-    },
-    {
-      "id": "mkt:01a14e11-b99b-7ee0-a8cf-73d6106bc42d",
-      "time": "2026-10-18 16:12:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's parliament approved Mehdad Ahraki as defense minister, Iranian state media reported."
-    },
-    {
-      "id": "mkt:01a14e11-8fea-7ee0-a8cf-6fcd7cfbf4b6",
-      "time": "2026-10-18 16:12:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Lithuania's defense minister said authorities found possible drone wreckage and have proposed a joint investigation with Poland."
-    },
-    {
-      "id": "5152286",
-      "time": "2026-10-18 16:11:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "立陶宛國防部長：立陶宛發現疑似無人機殘骸，提議與波蘭共同調查。"
     }
   ]
 }
