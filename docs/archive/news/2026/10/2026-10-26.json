@@ -1,7 +1,23 @@
 {
   "date": "2026-10-26",
-  "count": 47,
+  "count": 49,
   "items": [
+    {
+      "id": "mkt:01a17408-afb7-7ee0-a96d-ce19a9ff0c06",
+      "time": "2026-10-26 01:08:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHITE HOUSE: President Trump says he is protecting US taxpayers and their hard-earned money from fraud and declares the days of cheating taxpayers are over."
+    },
+    {
+      "id": "5167792",
+      "time": "2026-10-26 01:07:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱沙特聯軍24小時內對葉門多地發動數十次空襲】當地時間25日晚間，葉門胡塞武裝釋出宣告稱，在過去24小時內，沙特主導的聯軍對葉門哈傑、拉赫季、阿姆蘭、薩達、焦夫、塔伊茲和伊卜等省的民用目標發動了56次空襲及導彈襲擊。胡塞武裝表示，自軍事行動升級以來，沙特主導的聯軍針對葉門的空襲及導彈襲擊總數已達到3179次。（央視新聞）"
+    },
     {
       "id": "mkt:01a17407-636c-7ee0-a96d-c5e3e516aa90",
       "time": "2026-10-26 01:06:43",
