@@ -1,7 +1,32 @@
 {
   "date": "2026-10-26",
-  "count": 261,
+  "count": 264,
   "items": [
+    {
+      "id": "5167941",
+      "time": "2026-10-26 07:05:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西大選第二輪投票已統計25.19%的選票，博索納羅以50.51%的得票率領先。"
+    },
+    {
+      "id": "mkt:01a1754f-1450-7ee0-a96f-ed48087c3f56",
+      "time": "2026-10-26 07:04:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ahead of Tuesday's Israeli election, U.S. President Trump posted a lengthy message expressing support for Israeli Prime Minister Netanyahu."
+    },
+    {
+      "id": "5167940",
+      "time": "2026-10-26 07:04:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "三星SDI與美國Alpha Omega簽署儲能系統供應協議。"
+    },
     {
       "id": "te:economy:594777",
       "time": "2026-10-26 07:04:07",
