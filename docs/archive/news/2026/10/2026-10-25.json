@@ -1,7 +1,27 @@
 {
   "date": "2026-10-25",
-  "count": 529,
+  "count": 532,
   "items": [
+    {
+      "id": "mkt:01a171ef-f12c-7ee0-a96a-19a3454ffe3c",
+      "time": "2026-10-25 15:21:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS reported on Sunday that Iran's military said Iranian air defenses shot down a US \"Lucas\" drone near the southern port city of Bandar Abbas."
+    },
+    {
+      "id": "5167466",
+      "time": "2026-10-25 15:20:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星源材質：MFC壓電陶瓷擴產專案啟動】10月25日，星源材質控股的邦瓷電子科技（鹽城）有限責任公司MFC壓電陶瓷促動器兩百萬件擴產專案在江西景德鎮正式開工。MFC壓電陶瓷促動器是半導體裝備及高階精密製造領域精密流量與運動控制的核心部件，市場需求持續攀升，高階產能長期偏緊。"
+    },
     {
       "id": "mkt:01a171eb-888f-7ee0-a96a-138069ed5acf",
       "time": "2026-10-25 15:17:03",
@@ -382,6 +402,14 @@
         "MKT News"
       ],
       "text": "Russian Defence Ministry said Russian air-defence forces destroyed 532 Ukrainian drones overnight."
+    },
+    {
+      "id": "5167433",
+      "time": "2026-10-25 14:08:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2027羊年央視春晚總導演為於蕾】據總檯“CMG觀察”公眾號訊息，10月22日，中央廣播電視總檯播出紀念中國工農紅軍長征勝利90週年電視文藝晚會《長征頌歌》。在接到領導機關相關任務要求後，總檯立即成立了晚會創作組，並決定由文藝中心黨委副書記、羊年春晚總導演於蕾出任晚會總導演。上述訊息顯示，於蕾出任2027羊年央視春晚總導演。"
     },
     {
       "id": "5167432",
