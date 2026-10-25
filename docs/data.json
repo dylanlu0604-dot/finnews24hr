@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-25 21:03:26",
-  "count": 13269,
+  "updated": "2026-10-25 21:07:33",
+  "count": 13265,
   "items": [
+    {
+      "id": "5167685",
+      "time": "2026-10-25 21:03:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿布扎比王儲將於10月26日至27日訪問渥太華。"
+    },
     {
       "id": "5167684",
       "time": "2026-10-25 21:00:01",
@@ -119896,49 +119904,6 @@
         "MKT News"
       ],
       "text": "【Saudi landmark orders all staff to work remotely as conflict with Houthi rebels escalates】Fighting between Saudi Arabia and Houthi rebels in Yemen has intensified, causing casualties inside Saudi Arabia. Riyadh’s Kingdom Centre on the 18th told all office staff to work remotely until further notice; management described the instruction as mandatory but gave no reason, AFP reported citing an email. The central Riyadh tower, over 300m tall, houses tenants including Merrill Lynch, McKinsey and the IMF."
-    },
-    {
-      "id": "5152431",
-      "time": "2026-10-18 21:07:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：特朗普暫停對俄製裁是創新之舉。"
-    },
-    {
-      "id": "mkt:01a14f1f-baae-7ee0-a8d1-08619c753d22",
-      "time": "2026-10-18 21:07:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US Energy Secretary Wright says the only way Russia can help the world is an energy ceasefire."
-    },
-    {
-      "id": "5152430",
-      "time": "2026-10-18 21:05:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：俄羅斯幫助世界的唯一途徑是能源停火。"
-    },
-    {
-      "id": "5152429",
-      "time": "2026-10-18 21:04:46",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：寬基ETF持續淨申購有望為後市核心指數的企穩修復提供支援】中信建投研報指出，截至10月16日，寬基ETF實現連續10日淨流入，區間累計流入金額超過1400億元。短期看，近10個交易日寬基ETF的大額、快速流入已經發揮出穩定市場情緒，保護市場流動性等積極作用。這一作用能否得以延續並形成中長期支撐，需要將資金流向與價格表現結合起來：若滬深300與雙創ETF在市場震盪中繼續獲得淨申購，同時對應指數的回落幅度收窄、調整後的修復更為穩定，市場由調整轉向修復的訊號將更為清晰。對市場投資者而言，大資金持續穩定的增配權益市場與市場表現趨穩相互印證，將有助於改善投資者權益配置意願與投資信心，為後續逐步增加核心寬基及權益資產敞口提供基礎。"
-    },
-    {
-      "id": "5152428",
-      "time": "2026-10-18 21:03:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【衝突加劇 沙特一地標建築要求全員遠端辦公】近日，沙烏地阿拉伯和葉門胡塞武裝衝突加劇，造成沙特境內人員傷亡。沙特首都利雅得地標建築王國中心大廈18日要求樓內所有辦公人員遠端辦公，直至另行通知。 王國中心大廈坐落於利雅得市中心，建築高度超過300米，入駐機構包括金融服務巨頭美林證券公司、麥肯錫諮詢公司和國際貨幣基金組織等。法新社援引一封大廈管理處傳送的電子郵件報道，遠端辦公為“強制”要求，所有辦公人員即日起不得前往辦公室。管理處未說明提出這一要求的確切原因。  （新華社）"
     }
   ]
 }
