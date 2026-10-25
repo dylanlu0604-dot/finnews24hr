@@ -1,7 +1,15 @@
 {
   "date": "2026-10-26",
-  "count": 73,
+  "count": 74,
   "items": [
+    {
+      "id": "mkt:01a17432-4d8c-7ee0-a96e-1d050ea90633",
+      "time": "2026-10-26 01:53:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President PEZESHKIAN said January's nationwide anti-government protests were primarily driven by social issues, and that citizens would cooperate if they trust the government and believe authorities are committed to helping and resolving their problems."
+    },
     {
       "id": "5167807",
       "time": "2026-10-26 01:52:31",

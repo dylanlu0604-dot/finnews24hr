@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-26 01:53:57",
+  "updated": "2026-10-26 01:57:56",
   "count": 13265,
   "items": [
+    {
+      "id": "mkt:01a17432-4d8c-7ee0-a96e-1d050ea90633",
+      "time": "2026-10-26 01:53:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President PEZESHKIAN said January's nationwide anti-government protests were primarily driven by social issues, and that citizens would cooperate if they trust the government and believe authorities are committed to helping and resolving their problems."
+    },
     {
       "id": "5167807",
       "time": "2026-10-26 01:52:31",
@@ -119966,14 +119974,6 @@
         "Brent"
       ],
       "text": "【US Energy Secretary wright: diesel deal intended to incentivize Russia to de‑escalate Ukraine conflict】In a Sunday interview, US Energy Secretary wright said allowing Russian diesel into global markets is meant to push Moscow to reduce hostilities in Ukraine, not to provide economic support to Russia. He said if Russia cuts back on the conflict and diesel exports resume, the US will permit those energy flows, calling the deal a \"carrot to end the war,\" not \"Russia's economic lifeline.\""
-    },
-    {
-      "id": "5152544",
-      "time": "2026-10-19 01:55:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡談土耳其：希望不要與土耳其走向直接對抗。至少，這是我在努力避免的。"
     }
   ]
 }
