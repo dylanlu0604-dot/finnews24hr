@@ -1,7 +1,1043 @@
 {
-  "updated": "2026-10-25 21:55:31",
+  "updated": "2026-10-26 00:56:00",
   "count": 13256,
   "items": [
+    {
+      "id": "5167787",
+      "time": "2026-10-26 00:52:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破111美元，日內跌超1.1%。"
+    },
+    {
+      "id": "5167786",
+      "time": "2026-10-26 00:51:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：福克斯新聞給予的支援力度遠遠不夠。"
+    },
+    {
+      "id": "5167785",
+      "time": "2026-10-26 00:51:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：福克斯新聞花太多時間邀請（共和黨的）對手上節目。"
+    },
+    {
+      "id": "mkt:01a173f8-4f54-7ee0-a96d-b8a8240c31ad",
+      "time": "2026-10-26 00:50:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said Fox News has given too much airtime to opponents of Republican candidates, drowning out patriotic GOP voices and offering little support, which he blamed as the sole reason the election is so competitive."
+    },
+    {
+      "id": "mkt:01a173f3-1957-7ee0-a96d-b332960e80b8",
+      "time": "2026-10-26 00:44:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【CENTCOM says it has helped Gulf states export more than 1.5 bln barrels of oil since this summer】On Oct. 25 CENTCOM commander Admiral Brad Cooper visited the Strait of Hormuz and said US forces have assisted Gulf partners in exporting over 1.5 billion barrels of oil since this summer. Cooper credited US personnel with clearing the Strait’s main commercial routes of Iran-laid sea mines, keeping them open. He said that despite actions by the IRGC, more than 95% of vessels have transited the Strait safely in recent months, and that CENTCOM will continue coordinating with US interagency partners, the Gulf Cooperation Council and the shipping industry to safeguard freedom of navigation and commercial shipping."
+    },
+    {
+      "id": "5167782",
+      "time": "2026-10-26 00:44:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍中央司令部司令走訪霍爾木茲海峽，美助力海灣夥伴原油出口超15億桶】10月25日，美國中央司令部司令到訪霍爾木茲海峽。自夏季以來，美軍協助海灣夥伴出口原油總量突破15億桶。布拉德·庫珀上將搭乘美軍CH-47支奴幹直升機飛越這條國際水道，實地察看當前作戰環境。過去六個月，已有超過3000艘商船在美軍中央司令部的支援下順利透過霍爾木茲海峽。庫珀表示：“我們將繼續與海灣夥伴以及航運業並肩作戰。本次訪問彰顯我們堅定維護霍爾木茲海峽航行自由的承諾。”"
+    },
+    {
+      "id": "5167781",
+      "time": "2026-10-26 00:43:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國中央司令部司令到訪霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:01a173ef-8bd3-7ee0-a96d-ad2e46450778",
+      "time": "2026-10-26 00:40:40",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Trump: US-Russia-Ukraine three-way talks to take place \"very soon\"】On Oct 25 Trump said US-Russia-Ukraine tripartite talks on Ukraine will take place \"very soon\" but gave no timetable and said he believes both sides want a deal. Russia and Ukraine on Oct 23 confirmed they agreed to a ceasefire from Oct 27 in Aleshki in Kherson region. A US official said the three-way talks could be held within two weeks in Abu Dhabi or Switzerland. Putin said any talks would focus on how to secure Russia-Ukraine safety after a peace agreement; Zelenskiy said he hopes a leaders' summit will follow."
+    },
+    {
+      "id": "5167780",
+      "time": "2026-10-26 00:39:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：美俄烏三方會談“很快”就會舉行】當地時間10月25日，美國總統特朗普表示，有關烏克蘭問題的美俄烏三方會談“很快”就會舉行，但未透露具體時間安排。特朗普稱，他認為俄烏雙方都有意達成協議。（央視新聞）"
+    },
+    {
+      "id": "5167779",
+      "time": "2026-10-26 00:39:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬斯克：烏克蘭人和俄羅斯人之間無休止的殺戮必須停止。"
+    },
+    {
+      "id": "5167778",
+      "time": "2026-10-26 00:38:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬斯克談及烏克蘭：我們也應當同情那些可憐的俄羅斯應徵新兵。這些年輕人別無選擇，只能奔赴戰場，在無人機襲擊中喪生。"
+    },
+    {
+      "id": "5167777",
+      "time": "2026-10-26 00:37:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯布良斯克州州長表示，烏克蘭武裝部隊蓄意襲擊了布良斯克州布良斯克至戈梅利之間行駛的一列貨運列車，導致列車司機死亡。"
+    },
+    {
+      "id": "mkt:01a173ec-6c25-7ee0-a96d-a5b7b89d72a4",
+      "time": "2026-10-26 00:37:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said we should have some sympathy for conscripted Russian soldiers; these young men have no choice but to go to the front and are being killed in drone strikes."
+    },
+    {
+      "id": "mkt:01a173eb-946f-7ee0-a96d-9e279448fcc6",
+      "time": "2026-10-26 00:36:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said Russia did not supply oil to the United States but to the world, and that is a very good thing."
+    },
+    {
+      "id": "mkt:01a173e8-a5af-7ee0-a96d-9041c66de66b",
+      "time": "2026-10-26 00:33:08",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said negotiations on the Ukraine conflict will be held soon and countries are eager to reach an agreement."
+    },
+    {
+      "id": "5167775",
+      "time": "2026-10-26 00:32:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普週日表態，當日不會對伊朗實施軍事打擊】美國總統特朗普表示，週日不會對伊朗發動軍事打擊。他啟程前往密歇根州前對記者稱：“答案是否定的，今天不會發起打擊。”"
+    },
+    {
+      "id": "5167771",
+      "time": "2026-10-26 00:31:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在登上空軍一號前結束對媒體的講話。"
+    },
+    {
+      "id": "mkt:01a173e6-8edb-7ee0-a96d-8a58ca3bd0f6",
+      "time": "2026-10-26 00:30:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said the oil agreement reached with Russia is a very good thing."
+    },
+    {
+      "id": "mkt:01a173e4-8eeb-7ee0-a96d-837d0ebaf08b",
+      "time": "2026-10-26 00:28:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he expects new developments in the Russia-Ukraine situation."
+    },
+    {
+      "id": "5167769",
+      "time": "2026-10-26 00:28:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在換囚中未向普京作出任何讓步。"
+    },
+    {
+      "id": "5167768",
+      "time": "2026-10-26 00:28:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與俄羅斯達成的石油協議是件非常好的事。"
+    },
+    {
+      "id": "mkt:01a173e3-f941-7ee0-a96d-7ab40a5c4fb9",
+      "time": "2026-10-26 00:28:02",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said he holds two separate sets of intelligence on Iran."
+    },
+    {
+      "id": "mkt:01a173e3-abb9-7ee0-a96d-742d177798b6",
+      "time": "2026-10-26 00:27:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said the U.S. has very advanced intelligence on Iran."
+    },
+    {
+      "id": "5167767",
+      "time": "2026-10-26 00:27:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為俄烏局勢將出現新變化。"
+    },
+    {
+      "id": "mkt:01a173e3-800f-7ee0-a96d-6ad5fe1a0aa8",
+      "time": "2026-10-26 00:27:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said the United States performed very well in the war with Iran."
+    },
+    {
+      "id": "5167766",
+      "time": "2026-10-26 00:27:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我收到兩份內容不同的伊朗相關情報。"
+    },
+    {
+      "id": "5167763",
+      "time": "2026-10-26 00:26:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們掌握關於伊朗的非常先進的情報。"
+    },
+    {
+      "id": "5167762",
+      "time": "2026-10-26 00:26:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們與伊朗的進展順利。"
+    },
+    {
+      "id": "5167761",
+      "time": "2026-10-26 00:25:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將看看在阿拉斯加的選舉中，法院能做些什麼。"
+    },
+    {
+      "id": "5167760",
+      "time": "2026-10-26 00:24:30",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美駐沙特大使館釋出安全警報 要求非緊急政府人員撤離】當地時間10月25日，美國駐沙烏地阿拉伯大使館釋出安全警報稱，美國國務院已下令非緊急政府僱員及其家屬撤離沙烏地阿拉伯，原因是當地安全風險上升。公告稱，胡塞武裝近期襲擊沙烏地阿拉伯的民用機場及其他關鍵基礎設施，造成平民傷亡和嚴重交通中斷，相關敵對行動可能迅速升級。公告提醒美國公民，沙烏地阿拉伯機場可能遭到襲擊，並可能出現空域關閉、航班取消等情況，建議旅客直接向航空公司和機場確認航班狀態。（央視新聞）"
+    },
+    {
+      "id": "5167758",
+      "time": "2026-10-26 00:22:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階官員：卡達代表團今日抵達德黑蘭，正在為確保地區安全與穩定進行斡旋談判。此次訪問是兩國在地區緊張局勢加劇的背景下持續接觸的一部分。"
+    },
+    {
+      "id": "mkt:01a173d7-743b-7ee0-a96d-67b9dcdb65f2",
+      "time": "2026-10-26 00:14:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Iran rejects Trump comment as psychological warfare】Iran said President Trump's remark that he \"will not attack Iran tonight\" was psychological warfare and called him \"America's lying president.\""
+    },
+    {
+      "id": "mkt:01a173d4-e98a-7ee0-a96d-5ebb362f9e24",
+      "time": "2026-10-26 00:11:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former IDF chief of staff Gadi Eisenkot said Prime Minister Benjamin Netanyahu is undermining the upcoming election and jeopardizing its fairness."
+    },
+    {
+      "id": "5167755",
+      "time": "2026-10-26 00:08:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國極右翼總統候選人勒龐在集會上誓言恢復“法治”。"
+    },
+    {
+      "id": "5167754",
+      "time": "2026-10-26 00:07:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列對加沙地帶南部汗尤尼斯市以東的謝赫納賽爾街區發動空襲，造成人員傷亡。"
+    },
+    {
+      "id": "5167753",
+      "time": "2026-10-26 00:07:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談俄羅斯和烏克蘭會談：很快就會舉行一些會談。"
+    },
+    {
+      "id": "5167752",
+      "time": "2026-10-26 00:03:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱襲擊沙特機場與能源設施】葉門胡塞武裝表示，發起多輪軍事打擊，目標為沙烏地阿拉伯主要機場和能源基礎設施，包括延布的沙特阿美設施、拉比赫煉油廠，以及利雅得、達曼的國際機場。胡塞武裝軍事發言人葉海亞·薩雷稱，本次行動動用彈道導彈與無人機，意在擾亂沙特境內石油運輸以及航空樞紐。沙特官方通報稱攔截了來襲導彈，目標區域附近發現墜落殘骸，暫未確認具體設施受損。"
+    },
+    {
+      "id": "mkt:01a173cb-b5e3-7ee0-a96d-54a03b689b23",
+      "time": "2026-10-26 00:01:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemeni Houthi rebels say they have launched a series of strikes on multiple major Saudi airports and energy facilities, citing ARAMCO's Yanbu site, the Rabigh refinery, and Riyadh and Dammam international airports as targets."
+    },
+    {
+      "id": "5167751",
+      "time": "2026-10-26 00:01:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗：今天不會發動襲擊。"
+    },
+    {
+      "id": "mkt:01a173cb-46d2-7ee0-a96d-4d7509a3113f",
+      "time": "2026-10-26 00:01:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Trump says the US will not strike Iran today."
+    },
+    {
+      "id": "mkt:01a173cb-1f69-7ee0-a96d-45999c6f8e7c",
+      "time": "2026-10-26 00:00:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the US will soon hold trilateral talks with Ukraine and Russia."
+    },
+    {
+      "id": "5167750",
+      "time": "2026-10-26 00:00:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為烏克蘭和俄羅斯都想達成協議。"
+    },
+    {
+      "id": "5167749",
+      "time": "2026-10-26 00:00:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談巴西大選：我們正在關注。"
+    },
+    {
+      "id": "5167748",
+      "time": "2026-10-26 00:00:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就委內瑞拉反對派領導人馬查多回國一事表示：我不知道這件事，希望她平安。"
+    },
+    {
+      "id": "mkt:01a173ca-6cb5-7ee0-a96d-382b4718a600",
+      "time": "2026-10-26 00:00:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said he was unaware of Venezuelan opposition leader Machado's return and hopes she is safe."
+    },
+    {
+      "id": "mkt:01a173ca-2a57-7ee0-a96d-36f629ad2ac2",
+      "time": "2026-10-25 23:59:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military said it earlier struck in Gaza City targeting a member of Hamas's military wing. After discovering unrelated civilians in the area, forces adjusted the direction of fire to reduce civilian harm and said an investigation is under way. Units from the military's Southern Command remain deployed under existing protocols and will continue operations to remove threats."
+    },
+    {
+      "id": "5167747",
+      "time": "2026-10-25 23:58:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏軍使用風暴陰影導彈打擊俄電子元器件廠】烏克蘭武裝部隊使用風暴陰影/SCALP-EG巡航導彈，襲擊俄羅斯奧廖爾州的Proton-Elektrotex電子工廠，該廠主生產大樓受損。這家工廠生產半導體以及其他電子元器件，用於俄羅斯伊斯坎德爾-M彈道導彈、Kh-101巡航導彈以及鎧甲-S1防空系統。"
+    },
+    {
+      "id": "5167746",
+      "time": "2026-10-25 23:56:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯別爾哥羅德州遭兩次無人機襲擊，四人死亡。"
+    },
+    {
+      "id": "5167745",
+      "time": "2026-10-25 23:55:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破111美元，日內跌超0.9%。"
+    },
+    {
+      "id": "5167743",
+      "time": "2026-10-25 23:53:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加彭近海一鑽井平臺沉沒 5人失蹤】當地時間10月25日，加彭石油與天然氣部發布通報稱，24日晚，加彭西南部馬永巴附近海域一座名為“Prospector 5”的海上鑽井平臺發生沉沒事故。事發時平臺上共有115人，目前已有110人確認安全，另有5人失蹤。搜救工作正在進行中。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a173c3-c5e1-7ee0-a96d-2b808cb0f2e4",
+      "time": "2026-10-25 23:52:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Israel is far stronger than others realize."
+    },
+    {
+      "id": "5167742",
+      "time": "2026-10-25 23:50:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡聲稱：伊朗及其盟友或襲擊干擾以色列議會選舉】以色列總理內塔尼亞胡週日表示，以方獲得情報顯示，伊朗及其武裝盟友可能發動襲擊，干擾定於週二舉行的議會選舉，他同時警告以色列將實施力度不對等的軍事回擊。內塔尼亞胡在箭式反導導彈陣地發表講話，稱以色列國防軍已同時做好進攻與防禦作戰準備。“不要試探我們，你們將承受不成比例的打擊，”內塔尼亞胡發出警告，“我們遠比你們想象的更強大。”"
+    },
+    {
+      "id": "mkt:01a173bc-b5b1-7ee0-a96d-241cfad06920",
+      "time": "2026-10-25 23:45:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Immigration and Customs Enforcement said it intends to save the United States."
+    },
+    {
+      "id": "5167741",
+      "time": "2026-10-25 23:42:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "伊朗航空表示，制裁導致其官方網站域名被封，迫使這家國有航空公司將線上服務遷移至新網址。該公司稱已將.com域名替換為伊朗的.ir域名。"
+    },
+    {
+      "id": "5167740",
+      "time": "2026-10-25 23:42:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉反對派領袖馬查多已抵達委內瑞拉。"
+    },
+    {
+      "id": "mkt:01a173b5-e0d7-7ee0-a96d-1d62e4c94718",
+      "time": "2026-10-25 23:37:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "The U.S. Embassy in Saudi Arabia posted a security alert on its official website ordering non-essential personnel at the embassy to evacuate."
+    },
+    {
+      "id": "5167738",
+      "time": "2026-10-25 23:36:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐沙特大使館在官網釋出安全警報，下令駐沙特大使館非緊急崗位工作人員撤離。"
+    },
+    {
+      "id": "5167736",
+      "time": "2026-10-25 23:29:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列議會選舉在即 以軍在約旦河西岸大舉行動】以色列軍隊25日繼續在約旦河西岸地區展開大規模軍事行動，此次行動已致數十名巴勒斯坦人被捕、超過2200名巴勒斯坦人流離失所。兩天前，兩名以色列士兵在約旦河西岸城市希伯倫附近遇襲身亡，以總理內塔尼亞胡聲稱將展開“大規模軍事行動”。（新華社）"
+    },
+    {
+      "id": "5167735",
+      "time": "2026-10-25 23:27:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特稱攔截胡塞武裝導彈 碎片墜落致2人受傷】沙烏地阿拉伯民防總局25日下午發表宣告說，葉門胡塞武裝當天發射的兩枚彈道導彈被攔截，導彈碎片墜落在沙特南部阿西爾省，造成2人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:01a173ac-902a-7ee0-a96d-17dcca596609",
+      "time": "2026-10-25 23:27:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said any attempt to attack Israel will be met with a disproportionate response."
+    },
+    {
+      "id": "mkt:01a173ab-ecbe-7ee0-a96d-0da400a9e10a",
+      "time": "2026-10-25 23:26:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Israel's Prime Minister Netanyahu said there are signs that Iran and its proxies may launch attacks on Israel to influence the election."
+    },
+    {
+      "id": "mkt:01a173ab-b506-7ee0-a96d-018ce3b5301c",
+      "time": "2026-10-25 23:26:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Prime Minister Netanyahu said the Israeli military is prepared for both defensive and offensive operations."
+    },
+    {
+      "id": "mkt:01a173aa-6a70-7ee0-a96c-fb873f9084e5",
+      "time": "2026-10-25 23:25:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Russian Defence Ministry said Russian forces struck a dry cargo ship in the Black Sea that was en route to the Ukrainian port of Odesa; the vessel was carrying supplies intended for the Ukrainian armed forces."
+    },
+    {
+      "id": "mkt:01a173a9-028b-7ee0-a96c-f7fc695e7d1d",
+      "time": "2026-10-25 23:23:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Crown Prince received the Greek prime minister for talks."
+    },
+    {
+      "id": "mkt:01a173a8-c826-7ee0-a96c-ee4c97aece90",
+      "time": "2026-10-25 23:23:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House National Economic Council Director Hassett said the US will soon reach an agreement with Canada."
+    },
+    {
+      "id": "5167733",
+      "time": "2026-10-25 23:21:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問哈塞特：盧特尼克這週一直在和加拿大同行們溝通。"
+    },
+    {
+      "id": "5167732",
+      "time": "2026-10-25 23:21:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮經濟顧問哈塞特：美國即將與加拿大達成協議。"
+    },
+    {
+      "id": "5167731",
+      "time": "2026-10-25 23:20:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問塞特：與加拿大談判有所進展，商務部長盧特尼克正在發言。"
+    },
+    {
+      "id": "5167730",
+      "time": "2026-10-25 23:16:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：只要這種情況持續下去，我們別無選擇，只能採取必要措施保護我們的領土完整、國家安全和人民。"
+    },
+    {
+      "id": "5167729",
+      "time": "2026-10-25 23:15:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：霍爾木茲海峽並不安全，不是因為伊朗使其不安全，而是因為美國和以色列濫用這一水道，繼續將整個地區用作軍事侵略平臺，並對伊朗持續採取非法侵略行動。"
+    },
+    {
+      "id": "5167728",
+      "time": "2026-10-25 23:12:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國倫敦知名購物街牛津街（Oxford Street）禁機動車通行，以期重振商業。"
+    },
+    {
+      "id": "5167727",
+      "time": "2026-10-25 23:11:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【辛巴威總統呼籲西方國家無條件解除制裁】辛巴威總統姆南加古瓦25日呼籲西方國家無條件解除對辛巴威實施的制裁，表示這些制裁嚴重製約了辛巴威國家經濟發展。（新華社）"
+    },
+    {
+      "id": "5167725",
+      "time": "2026-10-25 23:06:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大-歐盟峰會將於10月29日至30日舉行，總理卡尼將在蒙特利爾主持該峰會。"
+    },
+    {
+      "id": "mkt:01a17398-db55-7ee0-a96c-e2d3c464d5b5",
+      "time": "2026-10-25 23:05:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump, referring to Macron, said he told him at their first meeting: 'You're ruining France.'"
+    },
+    {
+      "id": "5167724",
+      "time": "2026-10-25 23:05:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：我們從未離開談判，我們透過中間人與美國交換資訊。問題在於華盛頓似乎堅持其單方面要求且立場強硬。"
+    },
+    {
+      "id": "mkt:01a17398-0bc0-7ee0-a96c-dbdb1a27cb2e",
+      "time": "2026-10-25 23:05:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President TRUMP said, referring to Spain, he had long expected the country to face immigration problems."
+    },
+    {
+      "id": "mkt:01a17397-bb43-7ee0-a96c-d538af79820c",
+      "time": "2026-10-25 23:04:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump, referring to Spain, said families who have lived there for centuries are seeing large inflows of people into their country and are very angry."
+    },
+    {
+      "id": "5167723",
+      "time": "2026-10-25 23:03:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談西班牙：一個月前，數十萬人湧入西班牙。我當時說“哦，這會是個問題”。那些在西班牙生活了幾百年的人，看看湧入他們國家的是什麼人。那些是憤怒的人。"
+    },
+    {
+      "id": "5167721",
+      "time": "2026-10-25 23:01:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【蒙古國考慮就草原火災向涉事日企索賠】日本媒體25日報道，日本電信運營商凱迪迪愛公司子公司高管在蒙古國自然保護區活動引發大規模草原火災後，蒙古國政府表示將透過調查明確相關責任方，並考慮提出賠償要求。（新華社）"
+    },
+    {
+      "id": "mkt:01a17391-1c5f-7ee0-a96c-c83b3354d79b",
+      "time": "2026-10-25 22:57:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military said it arrested a Palestinian in the West Bank suspected of planning an imminent terror attack."
+    },
+    {
+      "id": "5167720",
+      "time": "2026-10-25 22:55:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤跌破103美元，日內跌超0.8%。"
+    },
+    {
+      "id": "5167719",
+      "time": "2026-10-25 22:55:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍發言人：以色列國防軍和辛貝特部隊逮捕了一名意圖在比尼亞明旅地區實施襲擊的嫌疑人。"
+    },
+    {
+      "id": "5167717",
+      "time": "2026-10-25 22:54:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【秘魯政府延長首都等地緊急狀態60天】當地時間10月25日，秘魯政府宣佈將首都利馬大都會區和卡亞俄地區的緊急狀態延長60天，自2026年10月28日起生效，此舉旨在持續打擊當地的犯罪行為並維護社會治安與內部秩序。近年來，秘魯敲詐勒索、兇殺等犯罪問題突出。秘魯內政部資料顯示，今年1月至5月，利馬大都會區和卡亞俄地區共登記3471起敲詐勒索報案、197起兇殺案，同期全國共登記7694起敲詐勒索報案和421起兇殺案。（央視新聞）"
+    },
+    {
+      "id": "5167716",
+      "time": "2026-10-25 22:51:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議長呼籲民眾減少天然氣使用量】伊朗議會議長卡利巴夫週日呼籲開展一項行動，將天然氣消耗量至少削減10%。隨著冬季臨近，官員們預計屆時將出現天然氣短缺。儘管伊朗是主要的天然氣生產國，但長期以來一直面臨天然氣短缺問題——天然氣是供暖系統的關鍵能源。自2月份以來，伊朗與美國及以色列之間的衝突進一步加劇了這一短缺狀況。據德黑蘭方面稱，在持續近40天的最激烈交戰期間，這兩個國家打擊了伊朗的關鍵基礎設施，其中包括天然氣煉化設施。伊朗的冬季氣溫往往會降至冰點以下，尤其是在該國北部地區。卡利巴夫在伊朗媒體釋出的一段影片中表示：“為了度過即將到來的冬天，全國上下必須共同努力……將天然氣消耗量至少削減10%。”“任何節約天然氣的人——無論節約量多少——都能立即在自己的銀行賬戶中收到相應的經濟回報，讓每個人都能切實感受到這種節約行為對家庭預算帶來的影響。”"
+    },
+    {
+      "id": "mkt:01a1738b-246c-7ee0-a96c-c4f603c71664",
+      "time": "2026-10-25 22:51:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Iran parliament speaker Ghalibaf urges at least 10% cut in gas consumption ahead of winter】Iran parliament speaker Ghalibaf on Sunday called for a nationwide campaign to reduce natural gas consumption by at least 10% as officials warn of shortages ahead of winter. Although Iran is a major gas producer, it has long faced domestic shortfalls and gas is a key heating fuel. Tehran says intensified conflict with the US and Israel since February has worsened shortages, with nearly 40 days of the heaviest fighting hitting critical infrastructure, including gas processing facilities. Winters often drop below freezing, particularly in northern Iran. In a video released to Iranian media Ghalibaf said: \"To get through the coming winter the whole country must work together...cut natural gas consumption by at least 10%.\" He added: \"Anyone who saves gas—regardless of amount—will immediately receive a corresponding financial reward in their bank account so everyone can feel the budgetary benefit.\""
+    },
+    {
+      "id": "mkt:01a1738a-0911-7ee0-a96c-bb8dffcdc37a",
+      "time": "2026-10-25 22:49:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the United States has complete control over Venezuela and has been very fair to it."
+    },
+    {
+      "id": "mkt:01a17388-e796-7ee0-a96c-b3f0e38f113d",
+      "time": "2026-10-25 22:48:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE strongly condemned Houthi militants' attempted attacks on multiple locations inside Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a17384-7e84-7ee0-a96c-aafd65831fc2",
+      "time": "2026-10-25 22:43:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【ECB succession to hinge on crisis-handling amid French bond-market turmoil】France's debt stress and a fierce bond sell-off have made the race to succeed ECB President Lagarde, who is set to depart, a test of crisis-management ability. Policymakers and member-state governments are increasingly treating market tensions as a decisive factor in the appointment. Netherlands' Klaas Knot and Spain's Pablo Hernández de Cos are emerging as leading contenders to take charge amid renewed bond-market volatility."
+    },
+    {
+      "id": "5167715",
+      "time": "2026-10-25 22:37:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統助理：普京能否出席邁阿密G20峰會取決於APEC峰會結果】俄羅斯總統助理尤里•烏沙科夫表示，俄羅斯總統普京能否出席邁阿密G20峰會將取決於11月在深圳舉行的亞太經合組織（APEC）峰會的結果。"
+    },
+    {
+      "id": "5167714",
+      "time": "2026-10-25 22:35:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受地區局勢影響 2027年達喀爾拉力賽將改地舉辦】當地時間10月25日，國際汽車聯合會（FIA）宣佈，受近期地區局勢發展影響，原定於2027年1月1日至15日在沙烏地阿拉伯舉行的達喀爾拉力賽將改在其他國家或地區舉辦，新的舉辦地將在未來幾天內公佈。國際汽聯表示，這一決定由賽事主辦方阿莫里體育賽事組織公司（A.S.O.）與沙特賽車運動公司（SMC）共同作出，並得到國際汽聯等相關機構支援。此次調整屬於一次性特殊安排，2027年賽事仍將按計劃舉行。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1737d-2d27-7ee0-a96c-a5d4547951d4",
+      "time": "2026-10-25 22:35:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shangwei New Materials unit Qiyuan Robotics has rolled off its 5,000th personal robot."
+    },
+    {
+      "id": "mkt:01a1737b-63dc-7ee0-a96c-9d22ff88ab35",
+      "time": "2026-10-25 22:33:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump: Should I completely eliminate Iran or reach a deal?】President Trump said he is weighing whether to eliminate Iran or reach an agreement, saying “we get everything and they get nothing.” He said the US fully understands what happened at Iran’s “Pickaxe Mountain” facility, that Iranians have not taken any major actions at their nuclear sites, and that Washington is closely monitoring the situation."
+    },
+    {
+      "id": "mkt:01a1737a-85ec-7ee0-a96c-935099e35802",
+      "time": "2026-10-25 22:32:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israeli strikes across Gaza kill at least seven】Palestinian sources said on the 25th Israeli forces launched air strikes across the Gaza Strip that killed at least seven people and wounded others. Gaza City’s al-Shifa hospital said it received three bodies from a strike on the Islamic University. In northern Gaza, an Israeli drone strike near Hamad hospital killed one and wounded three, including a child. Deir al-Balah’s Al-Aqsa Martyrs Hospital reported one death from a drone strike. In southern Gaza, Khan Younis’ Nasser Hospital said strikes on the coastal Mawasi area killed two and wounded five."
+    },
+    {
+      "id": "5167713",
+      "time": "2026-10-25 22:27:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【但斌美股持倉曝光】東方港灣海外基金掌門人但斌，在科技板塊“大調倉”。私募排排網統計資料顯示，截至2026年三季度末，東方港灣海外基金共持有13只美股標的，持股市值合計約為14.69億美元。從行業分佈來看，AI仍是其佈局重點，截至三季度末谷歌為東方港灣海外基金的第一大重倉股。但從加減倉動作來看，但斌對於AI產業細分賽道的偏好相較於二季度發生明顯變化。據統計，今年三季度，東方港灣海外基金減持了二季度新進買入的超威半導體、博通、Lumentum等標的，同時加倉儲存巨頭美光科技、閃迪以及英偉達、谷歌-C、臺積電等。（上證報）"
+    },
+    {
+      "id": "mkt:01a17375-3365-7ee0-a96c-8a715363b8c4",
+      "time": "2026-10-25 22:27:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Iranians have not taken any significant action at nuclear facilities and that the U.S. is closely monitoring the situation."
+    },
+    {
+      "id": "mkt:01a17374-ea05-7ee0-a96c-84ec822173a2",
+      "time": "2026-10-25 22:26:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Alphabet",
+        "NVDA.O",
+        "Impact bullish",
+        "GOOG.O",
+        "TSM.O"
+      ],
+      "text": "【Dan Bin US equity holdings disclosed】Oriental Harbor overseas fund held 13 US-listed stocks worth about $1.469 bln at end-Q3 2026; AI remains the primary focus and Alphabet is the largest position. In Q3 the fund rotated within AI-related subsectors, trimming Q2 additions Advanced Micro Devices, Broadcom and Lumentum, while adding to Micron Technology, SanDisk, NVIDIA, Alphabet Class C and TSMC."
+    },
+    {
+      "id": "mkt:01a17370-7cd8-7ee0-a96c-7d6b530b214f",
+      "time": "2026-10-25 22:21:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said the US is fully clear on what happened at Iran's \"Pickaxe Mountain\" facility."
+    },
+    {
+      "id": "5167712",
+      "time": "2026-10-25 22:21:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：蘋果正在推廣一款全新的零售工具，能夠掃描未拆封的iPhone包裝盒並執行診斷程式；這不僅有助於防盜，還能避免退回的產品淪為無效庫存。"
+    },
+    {
+      "id": "mkt:01a1736f-fb72-7ee0-a96c-7446f63294e3",
+      "time": "2026-10-25 22:21:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple is rolling out a new in-store tool that scans unopened iPhone packaging and runs device diagnostics. The feature is intended to deter theft and prevent returned phones from becoming unsellable inventory."
+    },
+    {
+      "id": "5167711",
+      "time": "2026-10-25 22:20:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們需要更多建築工人。"
+    },
+    {
+      "id": "5167710",
+      "time": "2026-10-25 22:20:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談經濟：我們還有許多訊息要宣佈。"
+    },
+    {
+      "id": "mkt:01a1736d-f926-7ee0-a96c-6b8026def4e7",
+      "time": "2026-10-25 22:19:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said we get everything and they get nothing."
+    },
+    {
+      "id": "mkt:01a1736c-1c37-7ee0-a96c-60f410cc78c8",
+      "time": "2026-10-25 22:17:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said the question now is whether to make a deal with the Iranians or to totally destroy them."
+    },
+    {
+      "id": "mkt:01a1736b-b917-7ee0-a96c-5eeccd59b618",
+      "time": "2026-10-25 22:16:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media, citing security sources, report more than 2,500 residents in Hebron have been evacuated from their homes to date."
+    },
+    {
+      "id": "5167709",
+      "time": "2026-10-25 22:16:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們清楚鎬山的情況。"
+    },
+    {
+      "id": "5167708",
+      "time": "2026-10-25 22:14:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：美國對委內瑞拉擁有完全控制權，並正以公平方式對待委內瑞拉。"
+    },
+    {
+      "id": "5167707",
+      "time": "2026-10-25 22:14:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：關於伊朗問題的唯一問題是，我是達成協議還是徹底解決它。"
+    },
+    {
+      "id": "mkt:01a17366-50e0-7ee0-a96c-516e1372c4ba",
+      "time": "2026-10-25 22:10:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu urges Trump for public backing as Israeli election tightens】A US source and an Israeli source say Prime Minister Netanyahu, fighting for political survival ahead of Tuesday's election, has pressed US President Trump for increased public support. The US source said the White House views Netanyahu’s aggressive lobbying as a \"sign of desperation\" and believes it signals he knows he is trailing. The US source said Netanyahu spoke to Trump twice in the past three days and asked him to reinforce last week’s support post on Truth Social, even drafting suggested wording. The Israeli source said Netanyahu proposed Trump call Israeli journalists to express further backing."
+    },
+    {
+      "id": "5167706",
+      "time": "2026-10-25 22:10:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡在3天內與美國總統特朗普兩次通話，以尋求更多支援。"
+    },
+    {
+      "id": "5167705",
+      "time": "2026-10-25 22:09:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【招商策略：物理AI有望成為重要增長方向，為算力需求提供新增量】招商策略研報認為，本次英偉達GTC大會圍繞Vera Rubin算力升級與物理AI應用拓展兩大方向展開，進一步明確AI產業發展趨勢。算力端，Vera Rubin持續提升計算效率，配合液冷及模組化部署方案，推動AI基礎設施建設效率與綜合能效提升。應用端，英偉達加快物理AI在機器人、智慧駕駛及工業製造等領域的佈局，推動AI與實體產業深度融合。整體來看，AI產業正呈現算力基礎設施持續升級、應用場景加速拓展的趨勢，物理AI有望成為重要增長方向，為算力需求提供新增量。"
+    },
+    {
+      "id": "5167704",
+      "time": "2026-10-25 22:09:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "達喀爾拉力賽組織方宣告：2027年達喀爾拉力賽將不在沙烏地阿拉伯舉辦。"
+    },
+    {
+      "id": "5167703",
+      "time": "2026-10-25 22:08:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列空襲加沙多地致至少7人死亡】據巴勒斯坦通訊社25日報道，以軍當天對加沙地帶多地發動空襲，造成至少7人死亡，另有多人受傷。 加沙城希法醫院的訊息人士向新華社記者證實，該院當天接收了3名死者遺體，這些人在以軍針對加沙伊斯蘭大學的一次空襲中死亡。在加沙城北部，一架以軍無人機在哈馬德醫院附近發動襲擊，造成1人死亡，包括1名兒童在內的3人受傷。 代爾拜拉赫市阿克薩烈士醫院的訊息人士稱，以色列當天的無人機襲擊在該市造成1人死亡。 在加沙地帶南部，汗尤尼斯市納賽爾醫院當天在一份宣告中說，以色列對沿海的馬瓦西地區發動空襲，造成2人死亡，另有5人受傷。 加沙地帶衛生部門25日釋出的資料顯示，自2025年10月10日停火協議生效以來，已有1551名巴勒斯坦人在以方軍事行動中死亡，另有5573人受傷。(新華社)"
+    },
+    {
+      "id": "5167702",
+      "time": "2026-10-25 22:01:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏那曲巴青7.0級地震震區瑪如鄉二村受災群眾安置點活動板房順利通電】10月25日20時，經過連續8小時奮戰，西藏那曲巴青縣瑪如鄉二村受災群眾安置點活動板房順利通電。國網西藏電力接到現場指揮部下達任務後，緊急調配50名應急搶修骨幹人員不間斷作業，新建電杆4基，敷設導線600餘米，安裝變壓器1臺，爭分奪秒推進板房通電工作，全力保障受災群眾溫暖過冬。（央視新聞）"
+    },
+    {
+      "id": "5167701",
+      "time": "2026-10-25 21:55:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤突破6.5美元，日內漲幅0.1%。"
+    },
     {
       "id": "5167700",
       "time": "2026-10-25 21:45:22",
@@ -118865,977 +119901,6 @@
         "國際"
       ],
       "text": "伊朗議長卡利巴夫：波斯灣資料管理局即將成立。謹告知本地區各國政府、基金和公司——不得向任何協助入侵或殺害兒童的人工智慧或資料公司提供任何資源，包括資金、股權、土地和能源。若予協助，將面臨我們的執法行動。"
-    },
-    {
-      "id": "mkt:01a14fee-27ad-7ee0-a8d2-8ea6b46f2e56",
-      "time": "2026-10-19 00:52:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iraq says it is pushing to host talks between Iran and Gulf states】The Organization of Islamic Cooperation Council of Foreign Ministers concluded its 52nd meeting in Baghdad on the 18th, Iraq's deputy prime minister and foreign minister Hussein said, announcing adoption of a Baghdad Declaration. Hussein said Iraq is in contact with Iran and Gulf states and is working to convene talks in Baghdad to coordinate positions. He said the Palestinian issue was the meeting's top agenda item; ministers also discussed regional security, the humanitarian situation, economic cooperation and food and water security."
-    },
-    {
-      "id": "5152528",
-      "time": "2026-10-19 00:51:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊拉克外長：正推動伊朗與海灣國家舉行會談】伊斯蘭合作組織外長理事會第52次會議18日在伊拉克首都巴格達閉幕。伊拉克副總理兼外交部長侯賽因當天宣佈，會議已透過《巴格達宣言》。他同時表示，伊拉克正與伊朗及海灣國家保持溝通，努力促成有關各方在巴格達舉行會晤。（央視新聞）"
-    },
-    {
-      "id": "5152527",
-      "time": "2026-10-19 00:51:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "記者：你是否仍然覺得遭到特朗普以及美國的背叛？\n\n澤連斯基：我十分坦誠地說出了我全部的感受。我的感受並未改變。"
-    },
-    {
-      "id": "5152526",
-      "time": "2026-10-19 00:48:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以總理公佈新“國家安全構想” 稱轉向進攻和預警打擊】當地時間18日，以色列總理內塔尼亞胡對外發布了其制定的所謂以色列最新“國家安全構想”。內塔尼亞胡在宣告中宣稱，透過此前從加沙地帶到葉門、從黎巴嫩到伊朗的持續多線戰鬥，以色列已經抵禦了迫在眉睫的“核毀滅危險”，併成功清除了以伊朗為核心的、針對以色列的“絞殺圈”。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a14fe7-85df-7ee0-a8d2-869f4d432ec2",
-      "time": "2026-10-19 00:45:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Syria and the World Bank have agreed to set up a multi-donor trust fund to support recovery and reconstruction, a statement said."
-    },
-    {
-      "id": "5152525",
-      "time": "2026-10-19 00:45:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "宣告顯示：敘利亞與世界銀行同意設立多方捐助者信託基金，用於經濟復甦和重建。"
-    },
-    {
-      "id": "5152524",
-      "time": "2026-10-19 00:44:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大軍事基地火災4死數十重傷】加拿大總理卡尼當地時間10月18日中午發表講話確認，加拿大艾伯塔省一處軍事基地發生火災，4名軍人死亡，另有數十人受重傷。（CCTV國際時訊）"
-    },
-    {
-      "id": "5152523",
-      "time": "2026-10-19 00:44:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大溫賴特軍事基地演習發生事故，官方確認4名軍人遇難】加拿大總理馬克·卡尼證實，阿爾伯塔省溫賴特加拿大軍隊基地週六的一場演習期間發生事故，造成四名加拿大軍人陣亡、數十人重傷。事故引發大火，火情於下午4時左右在基地訓練區域燃起，大風助推火勢，蔓延至基地邊界以外。國防部長戴維·麥金蒂表示，近年記不起曾發生過同類事故；加拿大武裝部隊稱，目前沒有跡象表明事件和恐怖主義相關。"
-    },
-    {
-      "id": "mkt:01a14fe5-7796-7ee0-a8d2-7b224ea7f832",
-      "time": "2026-10-19 00:43:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi defence minister said he and the UAE president discussed ways to strengthen cooperation and joint Gulf work."
-    },
-    {
-      "id": "mkt:01a14fe5-6cae-7ee0-a8d2-7364e6b417dc",
-      "time": "2026-10-19 00:43:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi defense minister said he discussed regional developments with the UAE president."
-    },
-    {
-      "id": "5152522",
-      "time": "2026-10-19 00:42:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "生物科技企業Antheia獲得美國戰爭部戰略資本辦公室8000萬美元附條件融資承諾。"
-    },
-    {
-      "id": "5152521",
-      "time": "2026-10-19 00:39:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：阿爾伯塔省軍事基地火災造成數十人重傷，週日將舉行全面簡報會。"
-    },
-    {
-      "id": "5152520",
-      "time": "2026-10-19 00:33:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼表示，四名加拿大軍人在阿爾伯塔省的一場火災中死亡。"
-    },
-    {
-      "id": "mkt:01a14fd0-44fd-7ee0-a8d2-6e1eb8e9c4c3",
-      "time": "2026-10-19 00:20:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Saudi says Houthi projectile hit residential area in Najran, injuring six】On Oct. 18 local time Saudi civil defense said a projectile fired by Houthi forces struck a residential area in Najran in southern Saudi Arabia, injuring six Saudi nationals. Three houses and three vehicles were damaged and emergency response measures were activated."
-    },
-    {
-      "id": "mkt:01a14fd0-2d3a-7ee0-a8d2-624e8c834bdd",
-      "time": "2026-10-19 00:20:05",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【EU plans to reserve satellite spectrum for domestic firms; US warns of possible retaliation】FT reports US ambassador to the EU Andrew Puzder warned Washington could impose devastating retaliatory measures against European companies if the EU advances plans to reserve satellite spectrum for European firms. The European Commission has proposed allocating part of the spectrum for smartphone direct-to-device satellite services to European operators, restricting frequencies available to non-EU providers, including US firms. Puzder said the size of the US market means European firms should be wary because retaliation would inflict a very serious blow; he acknowledged governments can protect sensitive information but warned against legislation that explicitly favors domestic firms or aims to weaken US competitiveness."
-    },
-    {
-      "id": "mkt:01a14fd0-02c7-7ee0-a8d2-5eccd6c313da",
-      "time": "2026-10-19 00:19:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said the goal is to eliminate the Iranian threat and overthrow the Tehran regime."
-    },
-    {
-      "id": "mkt:01a14fcf-bf11-7ee0-a8d2-542fee6b7dc2",
-      "time": "2026-10-19 00:19:37",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Israel will continue efforts to eliminate Hamas and Hezbollah’s strike capabilities and prevent them from rebuilding their strength."
-    },
-    {
-      "id": "mkt:01a14fcf-b17a-7ee0-a8d2-4d8a03275720",
-      "time": "2026-10-19 00:19:33",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Prime Minister NETANYAHU said Israel will launch a large-scale offensive to eliminate terrorist strongholds in the West Bank and inside Israel."
-    },
-    {
-      "id": "5152519",
-      "time": "2026-10-19 00:19:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡回應特朗普的選舉背書：只有特朗普和我才能摧毀伊朗核計劃。"
-    },
-    {
-      "id": "5152518",
-      "time": "2026-10-19 00:18:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外長拉夫羅夫：特朗普的加沙計劃仍只是一紙空文，倡議中確立的原則未得到遵守。"
-    },
-    {
-      "id": "5152517",
-      "time": "2026-10-19 00:18:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙特稱胡塞武裝投射物落入居民區 致6人受傷】當地時間10月18日，沙烏地阿拉伯民防部門釋出通報稱，當天一枚由胡塞武裝發射的投射物落入沙特南部奈季蘭市一處居民區，造成6名沙特公民受傷。通報稱，事件還造成3棟住宅和3輛汽車不同程度受損。沙特民防部門表示，相關應急處置措施已經啟動。（央視新聞）"
-    },
-    {
-      "id": "5152516",
-      "time": "2026-10-19 00:18:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我們的目標是消除伊朗威脅並推翻德黑蘭政權。"
-    },
-    {
-      "id": "mkt:01a14fce-63f7-7ee0-a8d2-477694e4e99d",
-      "time": "2026-10-19 00:18:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Prime Minister Netanyahu said Israel is working to establish buffer zones and security barriers along its borders with Lebanon, Syria, Jordan, Egypt and the Gaza Strip."
-    },
-    {
-      "id": "5152515",
-      "time": "2026-10-19 00:17:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我們將開展大規模攻勢，清剿約旦河西岸以及以色列境內的敵方據點。"
-    },
-    {
-      "id": "5152514",
-      "time": "2026-10-19 00:17:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我們將繼續行動，消除哈馬斯與真主黨的作戰能力，阻止二者恢復實力。"
-    },
-    {
-      "id": "5152513",
-      "time": "2026-10-19 00:14:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：在情報共享中斷數日後，我們已與華盛頓方面就俄羅斯導彈相關情報共享取得進展。"
-    },
-    {
-      "id": "mkt:01a14fc6-3944-7ee0-a8d2-3c68e07be717",
-      "time": "2026-10-19 00:09:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA reported the Iranian foreign ministry spokesman said the visit is part of ongoing Tehran–Moscow consultations to follow up on implementing bilateral agreements and to exchange views on regional and international developments."
-    },
-    {
-      "id": "5152512",
-      "time": "2026-10-19 00:08:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，俄羅斯外交部長拉夫羅夫將於週一訪問德黑蘭。"
-    },
-    {
-      "id": "mkt:01a14fc5-c2b6-7ee0-a8d2-36ec1a31d5a2",
-      "time": "2026-10-19 00:08:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's foreign minister will visit Tehran on Monday, Iran's foreign ministry spokesman said, IRNA reported."
-    },
-    {
-      "id": "mkt:01a14fc5-8e10-7ee0-a8d2-2c26672e3a11",
-      "time": "2026-10-19 00:08:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China foreign minister Wang Yi holds talks with Montenegro deputy prime minister and foreign minister in Podgorica】China foreign minister Wang Yi met Montenegro’s deputy prime minister and foreign minister in Podgorica on the 18th. Wang said China understands Montenegro’s EU accession efforts and hopes the country will become another Chinese partner within the EU. He described current economic and trade differences as solvable problems that should be addressed through sustained dialogue grounded in mutual respect and compromise. On the China–Central and Eastern Europe cooperation mechanism, Wang said it was created to meet regional development needs, that China has no geopolitical agenda and does not interfere in domestic affairs, and that Beijing expects mutually beneficial outcomes."
-    },
-    {
-      "id": "5152511",
-      "time": "2026-10-19 00:07:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門政府軍方媒體稱，數枚導彈射向馬裡卜地區。"
-    },
-    {
-      "id": "5152510",
-      "time": "2026-10-19 00:06:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄軍用衛星多次變軌抵近美註冊雷達衛星，最近距離或僅48米】荷蘭衛星追蹤人員稱，俄羅斯軍用衛星“宇宙2612號”實施軌道機動，抵近至美國註冊的ICEYE‑X36雷達成像衛星136米範圍內，預計週一將進一步近距離飛越，最近距離約48米。荷蘭衛星追蹤專家馬爾科·朗布魯克表示，自9月30日以來，該衛星開展一系列變軌操作，目的是匹配ICEYE‑X36的軌道。天文學家喬納森·麥克道爾稱，這是已知首例在軌活躍衛星未經許可，在近地軌道近距離抵近另一顆活躍衛星的事件。芬蘭企業ICEYE自2022年起向烏克蘭提供雷達影像，目前尚不清楚這顆衛星是否為烏克蘭提供服務。現階段暫未發現衛星受損跡象，俄方的意圖仍不明朗。"
-    },
-    {
-      "id": "mkt:01a14fc2-8b9c-7ee0-a8d2-22dc06aeedfa",
-      "time": "2026-10-19 00:05:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Financial Times: U.S. ambassador to the EU Puzder warned that if the EU restricts non-EU firms' access to spectrum resources, Brussels would face 'devastating' retaliation."
-    },
-    {
-      "id": "5152509",
-      "time": "2026-10-19 00:03:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國駐歐盟大使普茲德警告稱，如果布魯塞爾繼續推進限制非歐盟公司頻譜接入的計劃，將面臨“毀滅性”報復。"
-    },
-    {
-      "id": "mkt:01a14fbf-318a-7ee0-a8d2-18158a87ba33",
-      "time": "2026-10-19 00:01:32",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish",
-        "RTX.O"
-      ],
-      "text": "【CSIS: U.S. Patriot interceptor stockpile needs at least three years to return to pre-conflict levels】CSIS expert Mark Cancian says U.S. forces expended Patriot interceptors in roughly seven months of fighting with Iran equivalent to about 19 years of prior procurement. CSIS estimates the U.S. held about 2,200–2,330 new Patriot interceptors pre-conflict and used roughly 1,060–1,500, leaving around one-third of the pre-conflict stock. Pre-conflict U.S. procurement averaged about 225 interceptors a year; Lockheed Martin currently produces roughly 600–650 a year for the U.S. and allies. CSIS projects at least three years will be required to restore pre-conflict inventories and warns of a potential vulnerable window if another major conflict occurs during replenishment."
-    },
-    {
-      "id": "5152508",
-      "time": "2026-10-19 00:00:28",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【海關總署釋出風險警示：SWISSE部分產品被檢出鉛超標】近日，海關總署進出口食品安全域性關注到澳大利亞藥品管理局（TGA）釋出通告稱，2批次“SWISSE”品牌“Beauty Skin Regeneration+”產品被檢出鉛含量超出標準限值，企業將召回相關產品。涉事產品編號01-141-20602，批號144520和143217，有效日期2028年7月。目前，國內暫未發現涉事產品透過一般貿易渠道進口。海關總署進出口食品安全域性提醒消費者，核對個人透過跨境電商、攜帶、代購等渠道可能保有的相關產品資訊，立即停止使用涉事產品，並密切關注澳方釋出的資訊及後續進展，安全理性作出消費選擇。（央視新聞）"
-    },
-    {
-      "id": "5152507",
-      "time": "2026-10-18 23:56:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國加州州長紐森呼籲對以色列政權的軍事援助設定條件。"
-    },
-    {
-      "id": "5152506",
-      "time": "2026-10-18 23:54:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡談對伊作戰溝通：以方決意打擊福爾多，美方後續加入】以色列總理內塔尼亞胡談及伊朗問題時表示，他曾找到特朗普，告知對方自己將要採取的行動。他並未請求美方許可，無論如何以色列都會採取行動。他提出請求，希望美方出動 B-2 轟炸機打擊福爾多核設施，如果美方能夠配合，他將表示感謝，但即便美方不參與，以色列也會發起行動。美方最終在行動開展的第十天加入。"
-    },
-    {
-      "id": "5152505",
-      "time": "2026-10-18 23:50:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美軍七個月耗損大量愛國者導彈，補庫至少需三年】美軍在對伊朗約七個月的作戰中，消耗了相當於19年採購量的愛國者防空攔截彈。美國戰略與國際研究中心（CSIS）估算，開戰前美國擁有約2200至2330枚現代化愛國者攔截彈，本次衝突消耗約1060至1500枚，戰前儲備僅剩大約三分之一。戰前，美國年均僅採購約225枚攔截彈；洛克希德·馬丁公司目前每年為美國及其盟友生產約600至650枚。美國戰略與國際研究中心預測，重建至戰前庫存水平至少需要三年，並警告，一旦與中國發生衝突，美國將存在一段“脆弱視窗期”。"
-    },
-    {
-      "id": "5152504",
-      "time": "2026-10-18 23:43:59",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅同黑山副總理兼外長伊布拉希莫維奇會談】當地時間2026年10月18日，中共中央政治局委員、外交部長王毅在波德戈裡察同黑山副總理兼外長伊布拉希莫維奇舉行會談。王毅表示，中黑是不以山海為遠的好朋友。中國是最早承認並同黑山建交的國家，體現了對黑山的尊重、對中黑關係的重視。中黑建交20年來，雙邊關係健康、穩定發展，使兩國人民受益，已經成為不同大小、不同國情、不同社會制度國家間合作共贏的典範。中黑都有反抗法西斯侵略的歷史和堅韌不拔、不畏強暴的民族性格。中國正在幫助修繕前南斯拉夫電影《橋》中的塔拉河大橋，相信這座大橋也將成為溝通兩國民心的橋樑。中方願以建交20週年為契機，同黑方總結成功經驗，在此基礎之上提升兩國關係定位，開闢兩國關係新的更加輝煌的20年。（外交部網站）"
-    },
-    {
-      "id": "mkt:01a14fae-89a1-7ee0-a8d2-150c1f8b6a20",
-      "time": "2026-10-18 23:43:20",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Al Jazeera cited Russian Foreign Minister Lavrov saying Ukrainian President Zelenskiy does not want to negotiate and has repeatedly sabotaged talks."
-    },
-    {
-      "id": "5152503",
-      "time": "2026-10-18 23:42:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大國防部長表示，阿爾伯塔省一處軍事基地發生事件並引發大火，造成人員傷亡。加拿大總理卡尼表示，將在聯邦大樓降半旗致哀。"
-    },
-    {
-      "id": "5152502",
-      "time": "2026-10-18 23:39:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基稱與美方代表討論下一步外交行動】烏克蘭總統澤連斯基18日表示，他已與美國總統特使威特科夫和庫什納通話，討論烏美團隊在美國佛羅里達州會晤的成果及下一步外交行動。澤連斯基說，烏方持續向合作伙伴通報襲擊情況和防空需求，並強調美國的立場對相關程序至關重要。他表示，烏克蘭正在盡一切努力，以確保美國的立場堅定。烏克蘭將繼續以建設性態度推進外交工作，爭取取得切實成果。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a14fab-0994-7ee0-a8d2-0cc9f8479dbf",
-      "time": "2026-10-18 23:39:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemeni sources said Houthi forces fired five missiles toward Marib; three struck the Sahen King military camp."
-    },
-    {
-      "id": "mkt:01a14faa-716f-7ee0-a8d2-064e962e33b3",
-      "time": "2026-10-18 23:38:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy says forces continue to pressure Russian troops on the front line."
-    },
-    {
-      "id": "5152501",
-      "time": "2026-10-18 23:36:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：X的使用量達到歷史新高。"
-    },
-    {
-      "id": "mkt:01a14fa8-0a5b-7ee0-a8d1-fa882346f613",
-      "time": "2026-10-18 23:36:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Elon Musk said X platform usage is at an all-time high."
-    },
-    {
-      "id": "5152500",
-      "time": "2026-10-18 23:35:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會譴責阿爾巴尼亞抗議活動中的暴力行為。"
-    },
-    {
-      "id": "mkt:01a14fa7-18aa-7ee0-a8d1-f6fd6fa260fd",
-      "time": "2026-10-18 23:35:13",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Yemen sources said clashes and airstrikes in Taiz and Lahij left dozens killed and wounded among Yemeni government forces and Houthi militants."
-    },
-    {
-      "id": "5152499",
-      "time": "2026-10-18 23:33:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門訊息人士稱，在塔伊茲和拉赫季發生的衝突和空襲中，政府軍和胡塞武裝雙方有數十人傷亡。"
-    },
-    {
-      "id": "5152498",
-      "time": "2026-10-18 23:32:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：如果伊朗不迅速改變做法，我們將很快完成對其的行動。"
-    },
-    {
-      "id": "5152497",
-      "time": "2026-10-18 23:32:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡感謝特朗普給予的“大力支援”，並表示他們將“共同”完成這項任務。"
-    },
-    {
-      "id": "mkt:01a14fa3-d36c-7ee0-a8d1-ec346311b276",
-      "time": "2026-10-18 23:31:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Civil Defense reported an enemy projectile fell in NAJRAN, injuring 6 Saudi citizens and damaging 3 houses and 3 vehicles."
-    },
-    {
-      "id": "mkt:01a14fa1-64fd-7ee0-a8d1-e517444a22ef",
-      "time": "2026-10-18 23:28:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CBC, citing sources, says an incident at Canadian Forces' Wainwright base on Saturday killed seven."
-    },
-    {
-      "id": "5152496",
-      "time": "2026-10-18 23:28:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門稱，納季蘭遭導彈襲擊後有六人受傷。"
-    },
-    {
-      "id": "mkt:01a14f9a-df15-7ee0-a8d1-de2c9d156804",
-      "time": "2026-10-18 23:21:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【U.S. energy secretary: Trump pauses Russia sanctions but does not lift them】RIA reported Sunday that U.S. Energy Secretary Wright said President Trump has paused Russia-related sanctions but not lifted them. Wright said core sanctions remain in force and the U.S. continues to impose tighter-than-ever restrictions on Russian oil, while the president has issued a narrow exception limited to diesel exports. An earlier executive order deferred sanctions on Russian officials, banks and entities even as a new law would mandate sanctions on those targets. Putin and Trump agreed on Oct. 9 on Russian diesel supply to global markets, and the U.S. Treasury issued a sanctions waiver valid through April 7."
-    },
-    {
-      "id": "mkt:01a14f95-4b94-7ee0-a8d1-d422f42ee54b",
-      "time": "2026-10-18 23:15:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE vice president met in Abu Dhabi with the Saudi defense minister to discuss recent regional developments, the UAE state news agency WAM reported."
-    },
-    {
-      "id": "5152495",
-      "time": "2026-10-18 23:13:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋副總統在阿布扎比與沙特國防部長討論該地區的事態發展。"
-    },
-    {
-      "id": "5152494",
-      "time": "2026-10-18 23:05:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國共和黨參議員凱文·克拉默：希望俄羅斯制裁豁免將是短期的。"
-    },
-    {
-      "id": "mkt:01a14f8a-45cc-7ee0-a8d1-cdee8038dd0c",
-      "time": "2026-10-18 23:03:44",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DAX",
-        "S&P500"
-      ],
-      "text": "【Protests sweep several European countries; France reports over 2,000 arrests】Mass demonstrations over cost of living, public services and fiscal austerity erupted on the 17th across France, Italy, Portugal, Belgium and other European countries. In France protests were nationwide — including Paris, Lyon, Lille, Marseille, Bordeaux and Strasbourg — and organisers estimated up to 800,000 participants (government estimate ~550,000). Demonstrations in France and Italy turned violent in some cities, with arson, looting and damage to public facilities; a Lyon tourist office branch was set on fire and looted, and municipal buildings in Marseille and Lille were breached and damaged. Interior Minister Nunez said on social media preliminary counts showed more than 2,000 people arrested nationwide, over 600 police, gendarmes and firefighters injured, and hundreds of businesses sustaining significant property damage."
-    },
-    {
-      "id": "mkt:01a14f89-bc52-7ee0-a8d1-c6ea3ed86a54",
-      "time": "2026-10-18 23:03:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Novak says Russian diesel could reach US in 15-20 days after contracts signed】Russian Deputy Prime Minister Novak said on Oct. 18 that, once contracts are signed, Russian diesel could reach the US market within 15-20 days. He said the US Department of Energy has identified companies to act as counterparties and buyers and that commercial terms are still being negotiated; deliveries to nearer countries would be faster."
-    },
-    {
-      "id": "5152493",
-      "time": "2026-10-18 23:01:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄副總理：俄柴油將在簽署合同後15-20天進入美市場】10月18日，分管能源工作的俄羅斯副總理諾瓦克表示，俄羅斯柴油燃料將在合同簽署後15至20天內進入美國市場。諾瓦克稱，美國能源部已經確定了將作為交易方和買方的公司。目前正在就商業條款進行談判，實際上就是在談簽署合同的事。合同一簽，燃料將在15-20天內送達美國市場。對於更近的國家，時間會更短。（央視新聞）"
-    },
-    {
-      "id": "5152492",
-      "time": "2026-10-18 23:00:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大一軍事基地發生火災，造成七人死亡。"
-    },
-    {
-      "id": "mkt:01a14f86-ef4c-7ee0-a8d1-bea0e68ab498",
-      "time": "2026-10-18 23:00:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zelenskiy says held calls with Witkoff and Kushner】Ukrainian President Zelenskiy said he held phone calls with US presidential envoy Witkoff and Kushner to secure a strong US position to advance a peace process excluding Russia. He said his team met in Florida, remains in contact, is preparing next diplomatic steps, and is briefing partners on Russian attacks and Ukraine's air‑defence challenges; he called US support crucial and said Ukraine will remain constructive, honest and pragmatic."
-    },
-    {
-      "id": "mkt:01a14f86-e51c-7ee0-a8d1-b0c56be6d1bd",
-      "time": "2026-10-18 23:00:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Canada says no sign Wainwright base fire was terror-related】On Oct 18 local time, Canada's Department of National Defence said there is no indication the incident at the Wainwright military base was caused by \"any terrorist activity.\" The DND said a fire broke out at about 16:00 on Oct 17 at the Wainwright base and caused casualties. The blaze spread rapidly beyond a training area; military and civilian emergency services responded. The DND said its immediate priority is supporting affected personnel and notifying next of kin and that it will not confirm casualty figures until notifications are complete."
-    },
-    {
-      "id": "5152491",
-      "time": "2026-10-18 22:59:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基表示，美國和烏克蘭談判人員保持著“幾乎不間斷的溝通”。"
-    },
-    {
-      "id": "5152490",
-      "time": "2026-10-18 22:58:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：與美國總統特使史蒂夫·威特科夫和賈裡德·庫什納進行了對話。"
-    },
-    {
-      "id": "5152489",
-      "time": "2026-10-18 22:54:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗致全體以色列人的信】\n致偉大的以色列人民： \n本雅明・內塔尼亞胡是一位英勇善戰的總理，更是打擊伊朗的卓越夥伴。伊朗五十一年來一直高喊：“消滅以色列，消滅美國！我們要摧毀小撒旦與大撒旦。” 如果任由這樣的言論傳播，有哪個國家能夠長久存續？這類口號最終往往會付諸行動。伊朗將這句充滿威脅的話語變為現實，本只是時間問題。但如今，伊朗在軍事與經濟層面都已遭到系統性打擊。除非伊朗迅速改弦更張，否則我們很快將徹底完成這項任務。 \n倘若以色列選錯領導人 —— 任何非內塔尼亞胡的人選，美國就必須獨自承擔這項任務，而我並不打算這麼做。面對重重阻力，甚至包括來自以色列國內的反對，內塔尼亞胡表現得堅定、勇敢且富有智慧。儘管困難重重，他堅持了下來，並且實際上越做越好。 \n我目睹過內塔尼亞胡身處最艱難的時刻。普通人處在那樣的重壓之下早已垮掉，但內塔尼亞胡沒有，他反而變得更為強大，至今依舊保有這份力量。這正是美利堅合眾國希望以色列擁有的夥伴，美國為以色列付出了諸多努力。 \n謹以此信，表達我對內塔尼亞胡角逐以色列總理連任的全力支援。 本雅明・內塔尼亞胡絕不會辜負你們！\n感謝各位關注。\n美國總統特朗普"
-    },
-    {
-      "id": "mkt:01a14f80-db85-7ee0-a8d1-aea738b97222",
-      "time": "2026-10-18 22:53:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump backs Netanyahu's bid for re-election as Israeli prime minister】President Trump said he supports Benjamin Netanyahu's bid for re-election, calling him a strong wartime leader and a superior partner against Iran. Trump asserted Iran's military and financial capabilities have been systematically degraded and warned that unless Tehran changes course quickly, the United States will finish the job. He added that if Israel elects a leader other than Netanyahu, the US would have to act directly — which he said he does not want — and reiterated his full support for Netanyahu's re-election."
-    },
-    {
-      "id": "5152488",
-      "time": "2026-10-18 22:51:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：如果以色列選錯了領導人——只要不是內塔尼亞胡，任何人都是錯誤選擇——美國將不得不自己動手做這件事（毀滅伊朗），而我不傾向於這麼做。"
-    },
-    {
-      "id": "5152487",
-      "time": "2026-10-18 22:49:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：內塔尼亞胡在完成針對伊朗的行動中發揮關鍵作用。"
-    },
-    {
-      "id": "5152486",
-      "time": "2026-10-18 22:49:11",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【李強同塔吉克總理拉蘇爾佐達會談】10月18日下午，國務院總理李強在杜尚別同塔吉克總理拉蘇爾佐達舉行會談。李強表示，中國人民和塔吉克人民一向對彼此抱有友好感情。這些年，在習近平主席同拉赫蒙總統戰略引領下，中塔關係保持高水平發展，雙方各領域合作不斷走深走實。明年中塔將迎來建交35週年，中方願同塔方一道深化戰略互信，堅定相互支援，推動中塔全方位合作不斷邁上新臺階，取得更多務實成果，更好造福兩國人民。(新華社)"
-    },
-    {
-      "id": "5152485",
-      "time": "2026-10-18 22:48:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國總統特朗普：伊朗已在軍事和財政上被系統性地摧毀。"
-    },
-    {
-      "id": "5152484",
-      "time": "2026-10-18 22:48:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：伊朗51年來一直高喊“以色列去死，美國去死！我們將摧毀小撒旦和大撒旦”。當一個國家允許此類言論存在時，它怎能存續？"
-    },
-    {
-      "id": "5152483",
-      "time": "2026-10-18 22:46:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：對以色列人民而言，內塔尼亞胡一直是偉大的戰士。"
-    },
-    {
-      "id": "5152482",
-      "time": "2026-10-18 22:46:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普支援內塔尼亞胡競選連任以色列總理。"
-    },
-    {
-      "id": "5152481",
-      "time": "2026-10-18 22:46:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：內塔尼亞胡是一位偉大的總理。"
-    },
-    {
-      "id": "mkt:01a14f7a-16f7-7ee0-a8d1-a2cd13d771eb",
-      "time": "2026-10-18 22:46:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent, responding to Zelensky's allegation that Starlink service was throttled, said Trump and Rubio have both stated no one in the Trump administration ordered such a measure and called Zelensky's accusation very reckless."
-    },
-    {
-      "id": "5152480",
-      "time": "2026-10-18 22:45:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊總司令高階顧問：美軍威脅要投擲“炸彈之母”，但該炸彈重10噸，而敵方在十二日戰爭（2025年6月13日與6月25日期間爆發的美以伊衝突）中投下的炸彈重14噸，其中一半未起作用，被我方繳獲。他還表示，14噸級炸彈僅有兩個國家擁有，一個是伊朗，一個是美國。"
-    },
-    {
-      "id": "mkt:01a14f78-2717-7ee0-a8d1-9e8d1e4ca893",
-      "time": "2026-10-18 22:43:56",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said European countries are funding Russia's war machine. The U.S. imports $4 bln of Russian goods, $1.8 bln of which are fertilizer, and European imports exceed the U.S. by more than tenfold."
-    },
-    {
-      "id": "mkt:01a14f77-6ad2-7ee0-a8d1-91dd7a68c1b1",
-      "time": "2026-10-18 22:43:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent, responding to Trump’s claim that U.S. intelligence sharing had been interrupted, said Zelensky should be cautious when making such inaccurate statements."
-    },
-    {
-      "id": "mkt:01a14f77-16e3-7ee0-a8d1-8980de1ac2d3",
-      "time": "2026-10-18 22:42:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US Treasury Secretary Bessent, responding to Trump's sanctions exemption for Russia, said no sanctions have been lifted. The exemption was limited to 60 days; currently the only measure removed is the diesel embargo."
-    },
-    {
-      "id": "5152479",
-      "time": "2026-10-18 22:42:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝稱沙特空襲葉門北部致9死17傷】葉門胡塞武裝控制的馬西拉電視臺18日報道稱，沙烏地阿拉伯當天空襲葉門北部薩達省一處民宅，造成至少9人死亡、17人受傷。（央視新聞）"
-    },
-    {
-      "id": "5152478",
-      "time": "2026-10-18 22:41:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "橋水基金創始人達利歐：許多抱怨要麼沒有考慮全域性，要麼反映了狹隘的觀點。我把這類抱怨稱為“嘰嘰喳喳”，通常最好不予理會。但建設性的抱怨可能帶來重要發現。"
-    },
-    {
-      "id": "mkt:01a14f73-b35d-7ee0-a8d1-84c4f743bd41",
-      "time": "2026-10-18 22:39:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's foreign minister Lavrov will visit Tehran on Monday, continuing high-level consultations between the two countries."
-    },
-    {
-      "id": "5152477",
-      "time": "2026-10-18 22:39:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐洲多國爆發示威活動 法國2000多人被捕】法國、義大利、葡萄牙、比利時等歐洲多國17日爆發示威活動，抗議生活成本高企、公共服務不足、教育資源短缺及政府財政緊縮措施等問題。法國和義大利部分城市的示威演變為嚴重騷亂，造成大量人員受傷、公共設施受損。法國17日爆發全國性示威，遍及巴黎、里昂、里爾、馬賽、波爾多、斯特拉斯堡等多座城市。法國政府估計，全國約55萬人參加示威，組織方則稱人數達到80萬。部分城市的示威活動演變為暴力衝突。巴黎多處出現焚燒車輛、打砸商鋪等亂象，里昂旅遊局一分支機構當天遭縱火和搶劫，馬賽、里爾的市政廳遭抗議者闖入和破壞。法國內政部長努內茲18日在社交媒體上說，據初步統計，在17日抗議活動期間全法有2000多人被捕，超過600名警察、憲兵和消防員在暴力事件中受傷，數百家商戶遭受嚴重財產損失。（新華社）"
-    },
-    {
-      "id": "mkt:01a14f72-1a08-7ee0-a8d1-7daad713742e",
-      "time": "2026-10-18 22:37:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russian Defence Ministry says forces struck dry cargo ship 50 km southwest of Odesa】The Russian Defence Ministry said on October 18 Russian forces continued drone strikes on vessels allegedly transporting military supplies to Ukraine. It said a dry cargo ship carrying military and dual-use goods was struck about 50 km southwest of Odesa port while underway."
-    },
-    {
-      "id": "5152476",
-      "time": "2026-10-18 22:36:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "記者：美國是否將烏克蘭視為盟友？  \n美財長貝森特：我們向烏克蘭提供援助。這就是你對盟友所做的。我們並沒有向俄羅斯提供這些。 \n記者：這是否意味著美國將烏克蘭視為盟友？你能明確表態嗎？\n美財長貝森特：我不是總統。"
-    },
-    {
-      "id": "5152475",
-      "time": "2026-10-18 22:34:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "記者：澤連斯基說他認為美國放慢星鏈的速度。特朗普總統說他與此無關。你能說特朗普政府中沒有人下令限制嗎？\n美國財長貝森特： 總統特朗普和國務卿魯比奧已經說過，特朗普政府中沒有人做過那樣的事。 而且我認為澤連斯基總統提出這樣的指控是非常魯莽的。"
-    },
-    {
-      "id": "5152474",
-      "time": "2026-10-18 22:33:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特和俄羅斯外長討論葉門和航運路線。"
-    },
-    {
-      "id": "5152473",
-      "time": "2026-10-18 22:33:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心表示，颱風“特魯迪“”預計將於今天下午遠離墨西哥海岸，墨西哥西南部和中西部部分地區將出現暴雨和大風天氣。"
-    },
-    {
-      "id": "5152472",
-      "time": "2026-10-18 22:32:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海關總署釋出風險警示：SWISSE部分產品被檢出鉛超標】近日，海關總署進出口食品安全域性關注到澳大利亞藥品管理局（TGA）釋出通告稱，2批次“SWISSE”品牌“Beauty Skin Regeneration+”產品被檢出鉛含量超出標準限值，企業將召回相關產品。涉事產品編號01-141-20602，批號144520和143217，有效日期2028年7月。目前，國內暫未發現涉事產品透過一般貿易渠道進口。海關總署進出口食品安全域性提醒消費者，核對個人透過跨境電商、攜帶、代購等渠道可能保有的相關產品資訊，立即停止使用涉事產品，並密切關注澳方釋出的資訊及後續進展，安全理性作出消費選擇。（央視新聞）"
-    },
-    {
-      "id": "5152471",
-      "time": "2026-10-18 22:31:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特談俄羅斯：我要指出，英國在5月豁免了對用俄羅斯原油製成的柴油和航空燃油的禁運。然而，澤連斯基總統並不批評他的“歐洲夥伴”。（貝森特此言的潛臺詞是澤連斯基雙標——放鬆對俄油製品的限制並非只有美國。而澤連斯基只公開批評美國，卻對\"歐洲夥伴\"隻字不提、不加指責。）"
-    },
-    {
-      "id": "5152470",
-      "time": "2026-10-18 22:28:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【千餘家影院直播體育賽事】近日，國家電影局、體育總局聯合印發《關於開展“跟著電影去運動”行動 推動電影與體育雙向賦能的通知》。 在促進消費聯動方面，支援電影院、體育場館、體育賽事舉辦方、網際網路平臺企業、商業銀行、支付結算機構等聯合開展“電影+體育”促消費活動，推出觀影與賽事票根聯動、消費滿減等優惠舉措；鼓勵結合電影場景，打造徒步、騎行、自駕等特色戶外運動線路；支援電影、體育衍生產品聯名合作；支援打造電影、運動市集，雙向融入體育、電影元素。今年以來，全國已有千餘家影院嘗試引入體育賽事直播，內容覆蓋足球、網球、籃球、電競、斯諾克等。其中，2026年美加墨世界盃期間，全國累計31個省份、266座城市、超1400家影院轉播賽事60餘場，累計排片超2.8萬場，凌晨的非黃金時段也被啟用。（央視財經）"
-    },
-    {
-      "id": "5152469",
-      "time": "2026-10-18 22:27:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加國防部：暫無跡象顯示武裝部隊基地火災與恐怖活動有關】當地時間18日，加拿大國防部表示，目前沒有跡象表明韋恩賴特武裝部隊基地所發生的事情是由“任何恐怖活動”引起的。加拿大國防部同日發表宣告說，17日16時許，加拿大武裝部隊韋恩賴特基地內發生火災，並造成人員傷亡。火勢迅速蔓延，超出訓練區邊界，軍方和民間應急服務迅速響應。宣告稱，當務之急是支援受影響人員並通知直系親屬，在該程式完成之前，不會確認傷亡情況。（央視新聞）"
-    },
-    {
-      "id": "5152468",
-      "time": "2026-10-18 22:26:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國眾議院議長約翰遜要求白宮就豁免對俄製裁進行對話】美國眾議院議長邁克·約翰遜表示，他已告知白宮，雙方應該討論美國豁免對俄羅斯能源出口制裁的問題。約翰遜表示，應該認真考慮“由此可能產生的意想不到的後果”。他說：“我知道總統正在像評估其他所有事情一樣評估這件事，我認為他最終會做出正確的決定 。”"
-    },
-    {
-      "id": "5152467",
-      "time": "2026-10-18 22:18:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國秋糧收穫進度過七成】農業農村部農情排程顯示，全國秋糧收穫已過七成。在新疆伊犁，當地大力推廣玉米密植高產精準調控技術，持續提升玉米單產。作為農業農村部玉米單產提升的核心技術之一，密植高產精準調控技術已經在全國26個省份推廣落地，累計推廣面積超2.41億畝，畝均增產113公斤。 農業農村部相關負責人介紹：“我們在伊犁測產已經結束，百畝水平達到了1799.1公斤，300萬畝玉米達到噸糧田，這在全球是大面積高產的領先水平。” （央視財經）"
-    },
-    {
-      "id": "mkt:01a14f60-ebd4-7ee0-a8d1-7262c0a300d7",
-      "time": "2026-10-18 22:18:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Ukraine fuel prices up 46.2% YoY in September】Ukraine’s State Statistics Service said fuel and petroleum lubricant prices rose 46.2% YoY in September 2026 versus September 2025. The agency also reported transport services increased year-on-year, with road transport costs up 41.7% YoY."
-    },
-    {
-      "id": "5152466",
-      "time": "2026-10-18 22:14:26",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長斯科特·貝森特表示：“在對俄製裁問題上，沒有人位元朗普總統更強硬。”"
-    },
-    {
-      "id": "5152465",
-      "time": "2026-10-18 22:13:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜：特朗普將就俄羅斯豁免問題作出正確決定。"
-    },
-    {
-      "id": "5152464",
-      "time": "2026-10-18 22:11:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：建築師Tom Fazio為新高爾夫球場制定了方案。"
-    },
-    {
-      "id": "5152463",
-      "time": "2026-10-18 22:11:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：新球場大約15個月後開放，老高爾夫球場將於11月15日關閉。"
-    },
-    {
-      "id": "mkt:01a14f5a-4a2b-7ee0-a8d1-68a059c8e8b5",
-      "time": "2026-10-18 22:11:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he will build a golf course on the East Potomac Golf Course site."
-    },
-    {
-      "id": "mkt:01a14f59-c365-7ee0-a8d1-62d64eb944b1",
-      "time": "2026-10-18 22:10:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Defence Ministry says it struck a cargo ship near Odesa, Ukraine, Interfax reports."
-    },
-    {
-      "id": "5152462",
-      "time": "2026-10-18 22:10:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：新建的高爾夫球場將向公眾開放。"
-    },
-    {
-      "id": "mkt:01a14f59-afdf-7ee0-a8d1-5f27b18c1f77",
-      "time": "2026-10-18 22:10:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's president Zelenskiy is discussing arrangements for a peace conference with US presidential envoy Witkoff and Trump's son-in-law Kushner."
-    },
-    {
-      "id": "5152461",
-      "time": "2026-10-18 22:10:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：將在東波托馬克高爾夫球場建造高爾夫球場。"
-    },
-    {
-      "id": "5152460",
-      "time": "2026-10-18 22:10:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜：應考慮對俄羅斯豁免可能帶來的意外後果。"
-    },
-    {
-      "id": "mkt:01a14f59-2627-7ee0-a8d1-5216efba6d12",
-      "time": "2026-10-18 22:10:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. House Speaker Johnson said he told the White House it needs to discuss a Russia waiver issue."
-    },
-    {
-      "id": "5152459",
-      "time": "2026-10-18 22:09:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜：已告知白宮需要討論俄羅斯豁免問題。"
-    },
-    {
-      "id": "5152458",
-      "time": "2026-10-18 22:05:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部稱，俄聯邦武裝力量在距敖德薩港50公里處擊中一艘載有軍用貨物的乾貨船。"
-    },
-    {
-      "id": "5152457",
-      "time": "2026-10-18 22:05:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：只有美國掌握俄羅斯何時使用彈道導彈的相關情報，我們連續三天沒有收到這類情報。"
-    },
-    {
-      "id": "5152456",
-      "time": "2026-10-18 22:01:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【鈞正平：無論身處哪個國家，為軍國主義張目都是對人類良知的公然冒犯】近日，莫斯科國立大學歷史課堂上曝出一起惡劣事件：一名中國留學生竟當眾身披旭日旗。訊息令人震驚，更令人憤慨。旭日旗，是日本軍國主義侵略歷史的標誌性符號。當年，正是在這面旗幟下，日本軍國主義者發動侵華戰爭和太平洋戰爭，給包括中國在內的亞洲各國人民帶來深重災難。無論身處哪個國家、哪所校園，為軍國主義張目都是對人類良知的公然冒犯，為人所不齒。令人欣慰的是，事發之時，在場的其他中國留學生第一時間挺身而出，當場制止了這一不當行為。這說明，絕大多數海外學子立場鮮明、明辨是非。正如莫斯科大學中國學生學者聯誼會在情況通報中所寫：“歷史有尺，底線不可違背；山河無恙，吾輩當自強。”願每一位走出國門的學子都能牢記這句話，扛起這代中國青年捍衛正義和歷史的責任。（環球網）"
-    },
-    {
-      "id": "5152455",
-      "time": "2026-10-18 21:57:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大國防部：沒有跡象表明加拿大基地火災由恐怖主義所致。"
     }
   ]
 }
