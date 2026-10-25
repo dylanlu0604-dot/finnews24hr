@@ -1,7 +1,47 @@
 {
   "date": "2026-10-26",
-  "count": 165,
+  "count": 170,
   "items": [
+    {
+      "id": "mkt:01a174bb-1170-7ee0-a96f-211dee64e5a8",
+      "time": "2026-10-26 04:22:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's electoral authority said vote counting was suspended after the Supreme Court ruled to extend voting hours."
+    },
+    {
+      "id": "5167870",
+      "time": "2026-10-26 04:22:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西選舉管理機構表示，在最高法院裁定延長投票時間後，計票工作已暫停。"
+    },
+    {
+      "id": "5167869",
+      "time": "2026-10-26 04:22:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：任何希望從丹麥進入美國的人，都全力支援；但對於索馬利亞人，“我已經受夠他們了”；更青睞丹麥。"
+    },
+    {
+      "id": "mkt:01a174b8-e7ee-7ee0-a96f-1a62b412dc81",
+      "time": "2026-10-26 04:20:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: I didn't receive the Nobel Prize, so I don't want any Norwegians. Norway is terrible."
+    },
+    {
+      "id": "5167868",
+      "time": "2026-10-26 04:20:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "Kimi：對於K3.1 Pro訂閱套餐出現的速率限制及不必要的配額消耗問題深表歉意。今天，所有訂閱套餐的使用者都將獲得一次性使用配額重置，恢復25%的月使用額度（已使用額度低於25%的使用者使用量將重置為零），相當於一週的使用額度。"
+    },
     {
       "id": "mkt:01a174b8-bb1f-7ee0-a96f-1788a3178bbb",
       "time": "2026-10-26 04:20:25",

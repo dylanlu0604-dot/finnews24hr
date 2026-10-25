@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-26 04:20:51",
-  "count": 13312,
+  "updated": "2026-10-26 04:24:46",
+  "count": 13313,
   "items": [
+    {
+      "id": "mkt:01a174bb-1170-7ee0-a96f-211dee64e5a8",
+      "time": "2026-10-26 04:22:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's electoral authority said vote counting was suspended after the Supreme Court ruled to extend voting hours."
+    },
+    {
+      "id": "5167870",
+      "time": "2026-10-26 04:22:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西選舉管理機構表示，在最高法院裁定延長投票時間後，計票工作已暫停。"
+    },
+    {
+      "id": "5167869",
+      "time": "2026-10-26 04:22:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：任何希望從丹麥進入美國的人，都全力支援；但對於索馬利亞人，“我已經受夠他們了”；更青睞丹麥。"
+    },
+    {
+      "id": "mkt:01a174b8-e7ee-7ee0-a96f-1a62b412dc81",
+      "time": "2026-10-26 04:20:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: I didn't receive the Nobel Prize, so I don't want any Norwegians. Norway is terrible."
+    },
+    {
+      "id": "5167868",
+      "time": "2026-10-26 04:20:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "Kimi：對於K3.1 Pro訂閱套餐出現的速率限制及不必要的配額消耗問題深表歉意。今天，所有訂閱套餐的使用者都將獲得一次性使用配額重置，恢復25%的月使用額度（已使用額度低於25%的使用者使用量將重置為零），相當於一週的使用額度。"
+    },
     {
       "id": "mkt:01a174b8-bb1f-7ee0-a96f-1788a3178bbb",
       "time": "2026-10-26 04:20:25",
@@ -120336,38 +120376,6 @@
         "國際"
       ],
       "text": "澤連斯基談特朗普與普京：我認為美國總統與普京確實關係良好。但有一點行不通。目前，特朗普無法迫使普京結束衝突。"
-    },
-    {
-      "id": "mkt:01a150af-68ca-7ee0-a8d3-06792e0499bf",
-      "time": "2026-10-19 04:23:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Musk proposed that once Anthropic pledges 5% of its shares to a new charitable fund, those shares should be distributed directly to the public."
-    },
-    {
-      "id": "5152582",
-      "time": "2026-10-19 04:23:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方在10月27日大選前處於高度戒備狀態，擔心伊朗可能發動先發制人打擊，因為伊朗認為以色列和美國正準備襲擊德黑蘭。"
-    },
-    {
-      "id": "5152581",
-      "time": "2026-10-19 04:23:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基談美國：選舉期間政治氛圍非常激烈。我認為現在是痛苦時期，但選舉過後生活將繼續，我相信局勢會平靜下來。"
-    },
-    {
-      "id": "5152580",
-      "time": "2026-10-19 04:22:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "馬斯克：我建議將股份直接發放給公眾。此前Anthropic宣佈將把5%的股份投入新設立的公共公益基金。"
     }
   ]
 }
