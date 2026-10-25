@@ -1,7 +1,27 @@
 {
   "date": "2026-10-25",
-  "count": 821,
+  "count": 823,
   "items": [
+    {
+      "id": "5167697",
+      "time": "2026-10-25 21:24:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，攔截葉門胡塞武裝發射的兩枚彈道導彈時產生的彈片在哈米斯穆謝特和阿哈德·拉菲達村造成兩人受傷。"
+    },
+    {
+      "id": "mkt:01a1733b-a038-7ee0-a96c-38a925a9290a",
+      "time": "2026-10-25 21:24:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi civil defense said two ballistic missiles launched by Yemen’s Houthi movement were intercepted and debris fell in Khamis Mushait and Ahad Rafidah in Saudi Arabia, injuring two people."
+    },
     {
       "id": "mkt:01a17339-e042-7ee0-a96c-32cb03bda483",
       "time": "2026-10-25 21:22:15",
