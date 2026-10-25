@@ -1,7 +1,43 @@
 {
   "date": "2026-10-26",
-  "count": 226,
+  "count": 230,
   "items": [
+    {
+      "id": "5167914",
+      "time": "2026-10-26 06:29:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：Claude繞過付費牆獲取佐治亞州選民資料。"
+    },
+    {
+      "id": "5167913",
+      "time": "2026-10-26 06:28:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：祝賀塞爾維亞學生名單在議會選舉中獲勝。"
+    },
+    {
+      "id": "5167912",
+      "time": "2026-10-26 06:27:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴加埃嘲諷魯比奧，援引特朗普“我們像海盜”言論反擊美方指責】伊朗外交部發言人巴加埃週日就美國國務卿魯比奧指責伊朗襲擊商船一事對其進行嘲諷。巴加埃稱：“魯比奧指責伊朗襲擊船隻，稱‘自二戰和加勒比海盜時期以來，我們從未見過這樣的情形’。”巴加埃將魯比奧的這番言論和特朗普在5月1日談及美方控制船隻及原油貨物的發言做對比。巴加埃援引特朗普當時的話：“我們就像海盜，有點像海盜。”巴加埃稱：“倘若總統得知，他的國務卿這麼快就忘了他自己引以為傲的這番自認如同海盜的表態，恐怕不會太高興。”"
+    },
+    {
+      "id": "mkt:01a1752c-5888-7ee0-a96f-a0c4adc2ec01",
+      "time": "2026-10-26 06:26:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【FTSE World Government Bond Index raises China weight to 11.9%】FTSE Russell's September WGBI profile shows China accounts for 11.9% of the index, making it the second-largest government-bond market by weight after the US. Inclusion in the WGBI marks a milestone in China's financial opening. As China's index weight rises, global investors are increasingly treating Chinese government bonds as a portfolio diversifier. Market observers say the Chinese bond market has shown resilience amid rising international uncertainty, and ongoing deepening of RMB capital-market infrastructure is boosting foreign institutions' willingness to allocate to RMB assets."
+    },
     {
       "id": "5167911",
       "time": "2026-10-26 06:23:05",

@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-26 06:26:16",
-  "count": 13297,
+  "updated": "2026-10-26 06:30:08",
+  "count": 13300,
   "items": [
+    {
+      "id": "5167914",
+      "time": "2026-10-26 06:29:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：Claude繞過付費牆獲取佐治亞州選民資料。"
+    },
+    {
+      "id": "5167913",
+      "time": "2026-10-26 06:28:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：祝賀塞爾維亞學生名單在議會選舉中獲勝。"
+    },
+    {
+      "id": "5167912",
+      "time": "2026-10-26 06:27:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴加埃嘲諷魯比奧，援引特朗普“我們像海盜”言論反擊美方指責】伊朗外交部發言人巴加埃週日就美國國務卿魯比奧指責伊朗襲擊商船一事對其進行嘲諷。巴加埃稱：“魯比奧指責伊朗襲擊船隻，稱‘自二戰和加勒比海盜時期以來，我們從未見過這樣的情形’。”巴加埃將魯比奧的這番言論和特朗普在5月1日談及美方控制船隻及原油貨物的發言做對比。巴加埃援引特朗普當時的話：“我們就像海盜，有點像海盜。”巴加埃稱：“倘若總統得知，他的國務卿這麼快就忘了他自己引以為傲的這番自認如同海盜的表態，恐怕不會太高興。”"
+    },
+    {
+      "id": "mkt:01a1752c-5888-7ee0-a96f-a0c4adc2ec01",
+      "time": "2026-10-26 06:26:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【FTSE World Government Bond Index raises China weight to 11.9%】FTSE Russell's September WGBI profile shows China accounts for 11.9% of the index, making it the second-largest government-bond market by weight after the US. Inclusion in the WGBI marks a milestone in China's financial opening. As China's index weight rises, global investors are increasingly treating Chinese government bonds as a portfolio diversifier. Market observers say the Chinese bond market has shown resilience amid rising international uncertainty, and ongoing deepening of RMB capital-market infrastructure is boosting foreign institutions' willingness to allocate to RMB assets."
+    },
     {
       "id": "5167911",
       "time": "2026-10-26 06:23:05",
@@ -120205,18 +120241,6 @@
         "國際"
       ],
       "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 待定 2026金融街論壇年會在京開幕，中國央行、證監會等四家金融監管部門負責人將發聲；\n② 09:30 中國70個大中城市房價報告；\n③ 10:00 中國今年前三季度GDP、社會消費品零售總額、規模以上工業增加值、城鎮固定投資、房地產開發投資等經濟資料，國新辦就國民經濟執行情況舉行新聞釋出會；\n⑥ 15:00 國新辦舉行新聞釋出會，請商務部部長助理袁曉明和工業和資訊化部、文化和旅遊部有關負責人介紹加快推進科技興商有關情況；\n⑦ 20:30 加拿大9月CPI；\n⑧ 22:00 美國10月NAHB房產市場指數；\n⑨ 全天 港股因重陽節假期休市。"
-    },
-    {
-      "id": "mkt:01a15120-a119-7ee0-a8d3-dec31ec2c522",
-      "time": "2026-10-19 06:27:35",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Peskov: Ukraine attacks on Russia cannot change course】Kremlin spokesman Dmitry Peskov said on the 18th local time that Ukraine is in its death throes and attempting resistance, but its attacks — including a large-scale strike on St. Petersburg — cannot change the course of events. He said Russia has been responding with systematic, large-scale strikes that are being carried out and proving effective."
     }
   ]
 }
