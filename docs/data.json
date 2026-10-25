@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-25 15:22:56",
-  "count": 13220,
+  "updated": "2026-10-25 15:26:53",
+  "count": 13221,
   "items": [
+    {
+      "id": "mkt:01a171f3-df4b-7ee0-a96a-36813562d516",
+      "time": "2026-10-25 15:26:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syria's internal security forces said a road security personnel was killed in an armed attack in Busra al-Sham in rural eastern Daraa."
+    },
+    {
+      "id": "mkt:01a171f1-6075-7ee0-a96a-2e313a1004b9",
+      "time": "2026-10-25 15:23:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's president said any bet that Egypt will accept a fait accompli or concede on its water security is a 'losing bet'."
+    },
+    {
+      "id": "mkt:01a171f1-140e-7ee0-a96a-2087346e200f",
+      "time": "2026-10-25 15:23:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's president said Cairo respects the development rights of Nile Basin countries and supports cooperation grounded in international law."
+    },
     {
       "id": "mkt:01a171ef-f12c-7ee0-a96a-19a3454ffe3c",
       "time": "2026-10-25 15:21:52",
@@ -119586,23 +119610,6 @@
         "國際"
       ],
       "text": "印度跨國礦業公司韋丹塔集團表示，南非鋅產能達到每年50萬噸。"
-    },
-    {
-      "id": "5152244",
-      "time": "2026-10-18 15:24:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國加州南部再起野火 3名消防員受傷】受來自內陸的乾熱強風影響，美國加利福尼亞州南部多地爆發野火，造成3名消防員受傷、多座房屋被燒燬、大量人員疏散。截至當地時間17日，野火依然未被撲滅。據美國有線電視新聞網報道，最新爆發的一起野火位於奧蘭治縣聖克利門蒂和聖胡安-卡皮斯特拉諾地區。大火從16日中午燃起，當晚過火面積達2.31平方公里，相當於323個標準足球場。截至17日上午，只有5%的火勢得到控制。（新華社）"
-    },
-    {
-      "id": "mkt:01a14de5-7c0f-7ee0-a8cf-46c28b8d8712",
-      "time": "2026-10-18 15:24:07",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Gaza Civil Defense spokesman told Al Jazeera the agency urged the international community to pressure authorities to allow urgent relief supplies and aid personnel into Gaza to assist rescue operations."
     }
   ]
 }

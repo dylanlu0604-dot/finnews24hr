@@ -1,7 +1,31 @@
 {
   "date": "2026-10-25",
-  "count": 532,
+  "count": 535,
   "items": [
+    {
+      "id": "mkt:01a171f3-df4b-7ee0-a96a-36813562d516",
+      "time": "2026-10-25 15:26:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syria's internal security forces said a road security personnel was killed in an armed attack in Busra al-Sham in rural eastern Daraa."
+    },
+    {
+      "id": "mkt:01a171f1-6075-7ee0-a96a-2e313a1004b9",
+      "time": "2026-10-25 15:23:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's president said any bet that Egypt will accept a fait accompli or concede on its water security is a 'losing bet'."
+    },
+    {
+      "id": "mkt:01a171f1-140e-7ee0-a96a-2087346e200f",
+      "time": "2026-10-25 15:23:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's president said Cairo respects the development rights of Nile Basin countries and supports cooperation grounded in international law."
+    },
     {
       "id": "mkt:01a171ef-f12c-7ee0-a96a-19a3454ffe3c",
       "time": "2026-10-25 15:21:52",
