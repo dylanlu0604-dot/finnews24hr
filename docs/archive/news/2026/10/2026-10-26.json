@@ -1,7 +1,15 @@
 {
   "date": "2026-10-26",
-  "count": 143,
+  "count": 144,
   "items": [
+    {
+      "id": "mkt:01a1749c-bed3-7ee0-a96e-dd54c422e81d",
+      "time": "2026-10-26 03:49:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said it is too early to say who will run in the 2028 election."
+    },
     {
       "id": "5167853",
       "time": "2026-10-26 03:49:24",
