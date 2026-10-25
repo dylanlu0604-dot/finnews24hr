@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-26 02:01:45",
-  "count": 13264,
+  "updated": "2026-10-26 02:05:32",
+  "count": 13266,
   "items": [
+    {
+      "id": "5167812",
+      "time": "2026-10-26 02:03:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【胡塞武裝：對沙特多地發動三輪導彈打擊作為報復】葉門胡塞武裝釋出武裝部隊宣告稱，針對沙特對葉門的侵略行動，以及昨日沙特在薩那及葉門多地製造、造成數十人死傷（遇難者多為婦女與兒童）的襲擊慘案，葉門武裝部隊實施了三次特種軍事行動，動用數十枚彈道導彈。\n\n首輪行動目標為沙特首都利雅得的哈立德國王國際機場。第二輪打擊哈姆伊斯穆賽特的哈立德國王空軍基地，瞄準機庫、彈藥庫、無人機指揮中心以及多處重要設施。第三輪打擊吉讚的邊境警衛南方海軍基地，造成沙特官兵傷亡。\n\n胡塞武裝表示，葉門武裝部隊將持續保衛本國與民眾。武裝部隊再次警告國際及地區航空公司、工作人員與旅客，避開利雅得哈立德國王國際機場航線，該機場現已不安全；除麥加、麥地那聖地上空空域外，沙特其餘空域均存在風險\n\n胡塞武裝稱，將持續向沙特縱深發起行動，堅持以封鎖反制封鎖、以升級回應升級，持續打擊沙特軍事力量，直至侵略行動停止、解除對葉門的封鎖。"
+    },
+    {
+      "id": "mkt:01a1743a-9249-7ee0-a96e-22f2f5078ef3",
+      "time": "2026-10-26 02:02:37",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Houthi forces say they launched dozens of ballistic missiles at Saudi Arabia in three operations】Houthi forces said they launched dozens of ballistic missiles at Saudi Arabia yesterday in three separate operations, calling the strikes retaliation for Saudi attacks on Sanaa and other Houthi-held provinces that they say killed dozens, mostly women and children. The first operation targeted King Khalid International Airport in Riyadh, which the Houthis said achieved its objectives. The second struck King Khalid Air Base in Khamis Mushait, hitting aircraft hangars, munitions depots, a drone-control centre and other key facilities; the group said missiles precisely struck their targets. The third operation hit a southern naval base of border forces in Jizan; the Houthis said the attack struck its targets and caused Saudi military casualties."
+    },
+    {
+      "id": "5167811",
+      "time": "2026-10-26 02:02:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱襲擊了吉讚的海軍基地。"
+    },
+    {
+      "id": "5167810",
+      "time": "2026-10-26 02:01:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱襲擊了海米斯穆謝特的空軍基地。"
+    },
+    {
+      "id": "5167809",
+      "time": "2026-10-26 02:01:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱襲擊了沙烏地阿拉伯的利雅得機場。"
+    },
     {
       "id": "5167808",
       "time": "2026-10-26 01:57:52",
@@ -119936,30 +119980,6 @@
         "其他"
       ],
       "text": "Anthropic承諾投入2億美元，用於研究人工智慧對勞動力市場帶來的影響。"
-    },
-    {
-      "id": "5152548",
-      "time": "2026-10-19 02:04:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：抗議活動中實施破壞的肇事者必須付出代價。"
-    },
-    {
-      "id": "5152547",
-      "time": "2026-10-19 02:03:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：法國總理將於週一抗議活動後召開危機會議。"
-    },
-    {
-      "id": "5152546",
-      "time": "2026-10-19 02:01:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金融城考慮增稅和削減服務以填補7000萬英鎊預算缺口。"
     }
   ]
 }
