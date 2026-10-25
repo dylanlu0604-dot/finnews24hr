@@ -1,7 +1,408 @@
 {
   "date": "2026-10-26",
-  "count": 80,
+  "count": 127,
   "items": [
+    {
+      "id": "5167841",
+      "time": "2026-10-26 03:29:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：不擔心伊朗會在數月內重建鈾濃縮能力。"
+    },
+    {
+      "id": "5167840",
+      "time": "2026-10-26 03:27:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及新建汽車工廠事宜：今日將宣佈一項建廠計劃。"
+    },
+    {
+      "id": "5167839",
+      "time": "2026-10-26 03:27:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿爾及利亞表決透過，將派遣軍隊保護尼日的石油設施。"
+    },
+    {
+      "id": "5167838",
+      "time": "2026-10-26 03:26:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：加美協議可能在中期選舉前達成。"
+    },
+    {
+      "id": "5167837",
+      "time": "2026-10-26 03:24:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（談及與加拿大的貿易問題）希望達成一份恰當的協議，並不追求短期成效，而是著眼長遠；一旦協議落地，這將會是一份對美國十分有利的協議。"
+    },
+    {
+      "id": "5167836",
+      "time": "2026-10-26 03:24:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（談及伊朗核相關動向）太空部隊能夠看到一切，哪怕對方外套上佩戴標識、名字是穆罕默德，都能清晰識別外套上的名字；所有相關地點都處在美方監控當中。"
+    },
+    {
+      "id": "5167835",
+      "time": "2026-10-26 03:22:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與加拿大即將達成協議。"
+    },
+    {
+      "id": "mkt:01a17483-d486-7ee0-a96e-b251f60a8af3",
+      "time": "2026-10-26 03:22:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Musk: Debt-market strain will force consolidation among 200+ new compute-cloud firms】Musk said pressure in debt markets will force consolidation in the new compute-cloud sector, with more than 200 firms facing consolidation and only a few able to survive."
+    },
+    {
+      "id": "5167834",
+      "time": "2026-10-26 03:21:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人發文嘲諷美國中央司令部司令庫珀上將對霍爾木茲海峽的走訪，配圖是一名美軍軍人在直升機上望向一艘起火油輪的畫面。"
+    },
+    {
+      "id": "5167833",
+      "time": "2026-10-26 03:21:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克：債務市場環境嚴峻，200餘家新型算力雲企業將迎來整合】馬斯克在X平臺發帖，評論新型算力雲企業與債務市場形勢。他表示，受債務市場環境承壓影響，200多家新型算力雲企業將迎來行業整合，僅有少數企業能夠存活下來。"
+    },
+    {
+      "id": "5167832",
+      "time": "2026-10-26 03:19:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國媒體：伊朗領導人認為，美國和以色列正準備在短短16個月內對伊朗發動第三次大規模軍事打擊。"
+    },
+    {
+      "id": "5167831",
+      "time": "2026-10-26 03:18:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國媒體：即便內塔尼亞胡在週二選舉中落敗，他仍可能對伊朗發動新一輪打擊，以色列和美國的政治考量使進一步軍事行動的決定複雜化。"
+    },
+    {
+      "id": "5167830",
+      "time": "2026-10-26 03:18:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏克蘭2027年需要1150億歐元，其中450億歐元已獲分配但尚未收到，另需籌措700億歐元用於國防和預算融資。"
+    },
+    {
+      "id": "5167829",
+      "time": "2026-10-26 03:17:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技執行長表示，由於人工智慧需求激增，其雲容量到2027年已全部預訂一空。"
+    },
+    {
+      "id": "5167828",
+      "time": "2026-10-26 03:17:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙官員稱，一輛客運巴士在巴塞羅那東北部撞上一輛汽車後衝下山坡，造成至少80人受傷。"
+    },
+    {
+      "id": "mkt:01a17478-bd10-7ee0-a96e-aad714926448",
+      "time": "2026-10-26 03:10:32",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Zelenskiy: US, Russia, Ukraine plan trilateral technical talks in November】On Oct 25 Zelenskiy said the US, Russia and Ukraine plan to hold three-party technical working talks in November; parties are still negotiating the venue, with Abu Dhabi, other Middle East locations and European cities under consideration. He described the meeting as working-level, intended to pave the way for higher-level leaders’ talks and to prioritize energy infrastructure and a Black Sea-area ceasefire. Russian presidential aide Ushakov told a TV programme on Oct 25 that Moscow is willing to resume three-way talks after Nov 4."
+    },
+    {
+      "id": "5167827",
+      "time": "2026-10-26 03:10:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我們不是向美方提要求，而是提出建議。這將表明認真態度。但如果這只是政治操弄，我們很快就能在11月看出這是不是花招。"
+    },
+    {
+      "id": "5167826",
+      "time": "2026-10-26 03:09:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：烏美俄擬於11月舉行三方技術層級工作會談】當地時間10月25日，烏克蘭總統澤連斯基證實，美國、俄羅斯、烏克蘭計劃於11月舉行三方技術層級工作會談。目前各方仍在商議會談地點，候選地包括阿聯酋阿布扎比、中東其他地區以及歐洲城市。澤連斯基表示，本次會談屬於工作層面磋商，目的是為後續更高層級的元首對話創造條件，優先圍繞能源設施、黑海相關區域停火議題展開討論。俄羅斯總統助理烏沙科夫在當地時間10月25日播出的一檔電視節目中稱，俄方願意在11月4日之後恢復俄羅斯、美國、烏克蘭三方談判。（央視新聞）"
+    },
+    {
+      "id": "5167825",
+      "time": "2026-10-26 03:08:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：已準備好舉行有技術小組參與的三方談判，談判應取得具體成果。"
+    },
+    {
+      "id": "5167824",
+      "time": "2026-10-26 03:07:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基談談判：領土問題只能由國家元首討論，技術性談判可以討論其他問題。"
+    },
+    {
+      "id": "mkt:01a17471-ca40-7ee0-a96e-a40b5f4eda36",
+      "time": "2026-10-26 03:02:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's president Zelenskiy said he does not want to enter talks with Putin having lost Ukraine's bargaining chips — sanctions, funding or frozen assets — because, as Trump put it, Ukraine would then have few cards left to play."
+    },
+    {
+      "id": "mkt:01a17471-a50f-7ee0-a96e-9aee33c296c0",
+      "time": "2026-10-26 03:02:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said he has long believed Ukraine should not pay such a high price for Russian cooperation, warning that entering trilateral talks after sanctions are lifted could leave Kyiv uncertain about what comes next."
+    },
+    {
+      "id": "mkt:01a17471-6a93-7ee0-a96e-92148b709592",
+      "time": "2026-10-26 03:02:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said sanctions were imposed because Russia launched aggression, not to secure a meeting; if the war is judged to be over, lifting sanctions should follow a specific sequence."
+    },
+    {
+      "id": "5167823",
+      "time": "2026-10-26 03:02:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，在解除對烏克蘭“愛國者”導彈供應的限制方面，進展“非常緩慢”。"
+    },
+    {
+      "id": "mkt:01a17471-429f-7ee0-a96e-8bc36142293e",
+      "time": "2026-10-26 03:02:21",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian President Zelenskiy said he does not want all sanctions on the Russian Federation lifted prior to a trilateral leaders' meeting between Ukraine, the United States and Russia."
+    },
+    {
+      "id": "mkt:01a1746f-db1e-7ee0-a96e-8781e4744332",
+      "time": "2026-10-26 03:00:49",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reuters survey of 23 economists: 13 expect the RBNZ official cash rate (OCR) to remain at 3.00% at year-end; 9 expect a December increase to 3.25%."
+    },
+    {
+      "id": "mkt:01a1746f-9258-7ee0-a96e-789b1145f120",
+      "time": "2026-10-26 03:00:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters survey: 22 of 27 economists expect the RBNZ to hike 25bp on Oct 28, lifting the official cash rate to 3.00%."
+    },
+    {
+      "id": "mkt:01a1746d-52b0-7ee0-a96e-727be71a0b26",
+      "time": "2026-10-26 02:58:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said the Starshield service's operating speed has been restored to a peak of 420 km/h."
+    },
+    {
+      "id": "mkt:01a17468-3f9b-7ee0-a96e-68445aa70171",
+      "time": "2026-10-26 02:52:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Kyiv will not trade anything in exchange but is willing to hold talks; territorial issues must be handled at leaders' level while other matters can be handled by technical working groups, and all can be discussed in November."
+    },
+    {
+      "id": "mkt:01a17468-1e6d-7ee0-a96e-653c9b6414d0",
+      "time": "2026-10-26 02:52:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine must decide its own security guarantees and will not accept Russia dictating terms; proposals to cap the size of Ukrainian forces or to require Ukrainian neutrality are off the table. He said territorial issues are a red line that can only be negotiated at leaders’ level, and that the United States has long proposed territorial exchanges—referred to as \"land swaps\"—though other proposals remain open for discussion."
+    },
+    {
+      "id": "5167822",
+      "time": "2026-10-26 02:51:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "澤連斯基稱11月將舉行美俄烏三方會談。"
+    },
+    {
+      "id": "mkt:01a17467-8e4e-7ee0-a96e-594e5b2aa4a7",
+      "time": "2026-10-26 02:51:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's president ZELENSKIY says a trilateral US-Ukraine-Russia meeting will be held in November."
+    },
+    {
+      "id": "5167821",
+      "time": "2026-10-26 02:50:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "澤連斯基表示，美國關於俄羅斯彈道導彈襲擊預警的情報共享已全面恢復，星盾服務的執行速度已恢復至最高每小時420公里。"
+    },
+    {
+      "id": "mkt:01a17463-66c3-7ee0-a96e-55a70e6ded21",
+      "time": "2026-10-26 02:47:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said air-defence problems remain unresolved. He said supply of missiles for Patriot systems has seen some progress but deliveries are extremely slow—slower than the flight speed of Russian missiles—and that pledging missiles then delaying delivery by one or two months is unacceptable."
+    },
+    {
+      "id": "mkt:01a17463-4f5d-7ee0-a96e-48a24759980a",
+      "time": "2026-10-26 02:47:07",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "ZELENSKIY said that, as of today, two issues with the U.S. — intelligence sharing and restrictions on Starlink and Starshield systems — have been resolved."
+    },
+    {
+      "id": "mkt:01a17463-2d44-7ee0-a96e-4030d5567852",
+      "time": "2026-10-26 02:46:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "President ZELENSKIY said in talks with US officials in Oslo he faces three main challenges: a shortage of air-defense systems; limits on use of Starlink and Starshield; and US restrictions on intelligence sharing."
+    },
+    {
+      "id": "5167820",
+      "time": "2026-10-26 02:46:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "宣告顯示：阿爾及利亞議會投票贊成向尼日派遣軍隊的決議。"
+    },
+    {
+      "id": "mkt:01a17462-5eb8-7ee0-a96e-3a18bc90ffa7",
+      "time": "2026-10-26 02:46:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lula's campaign asked authorities to extend polling hours nationwide in Brazil."
+    },
+    {
+      "id": "mkt:01a1745b-bcb1-7ee0-a96e-3088b07f5b34",
+      "time": "2026-10-26 02:38:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen armed forces spokesman said they will continue to intensify attacks on the Houthi armed group, targeting its capabilities."
+    },
+    {
+      "id": "5167819",
+      "time": "2026-10-26 02:33:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：在黎巴嫩南部行動的區域發現一個可疑空中目標，隨後向其發射了一枚攔截彈。按照規程，未拉響警報。"
+    },
+    {
+      "id": "5167818",
+      "time": "2026-10-26 02:31:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名美國官員表示，美國對伊朗實施打擊已經不是“是否會發生”的問題，而是“何時發生”的問題，特朗普正準備調整相關策略。"
+    },
+    {
+      "id": "5167817",
+      "time": "2026-10-26 02:26:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "五角大樓：赫格塞思將出席東盟防長會議。"
+    },
+    {
+      "id": "5167816",
+      "time": "2026-10-26 02:26:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "五角大樓：防長赫格塞思將訪問菲律賓出席東盟會議。"
+    },
+    {
+      "id": "5167815",
+      "time": "2026-10-26 02:24:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國大型非營利醫療集團Bon Secours即將以60億美元收購上市外科服務公司Surgery Partners。"
+    },
+    {
+      "id": "mkt:01a1744d-df48-7ee0-a96e-2aa64da7681f",
+      "time": "2026-10-26 02:23:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said time has proven the veracity of its late martyred leader's statements."
+    },
+    {
+      "id": "5167814",
+      "time": "2026-10-26 02:21:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉競選團隊將申請延長投票時間。盧拉同時抱怨，巴西多座城市存在公共交通運力不足的問題。"
+    },
+    {
+      "id": "5167813",
+      "time": "2026-10-26 02:12:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞爾維亞國家選舉委員會表示，截至下午6點，塞爾維亞議會選舉的投票率達到64.9%，為1992年南斯拉夫解體以來的最高水平。"
+    },
     {
       "id": "5167812",
       "time": "2026-10-26 02:03:50",

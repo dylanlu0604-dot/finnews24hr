@@ -1,7 +1,408 @@
 {
-  "updated": "2026-10-26 02:09:23",
-  "count": 13264,
+  "updated": "2026-10-26 03:30:58",
+  "count": 13284,
   "items": [
+    {
+      "id": "5167841",
+      "time": "2026-10-26 03:29:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：不擔心伊朗會在數月內重建鈾濃縮能力。"
+    },
+    {
+      "id": "5167840",
+      "time": "2026-10-26 03:27:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及新建汽車工廠事宜：今日將宣佈一項建廠計劃。"
+    },
+    {
+      "id": "5167839",
+      "time": "2026-10-26 03:27:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿爾及利亞表決透過，將派遣軍隊保護尼日的石油設施。"
+    },
+    {
+      "id": "5167838",
+      "time": "2026-10-26 03:26:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：加美協議可能在中期選舉前達成。"
+    },
+    {
+      "id": "5167837",
+      "time": "2026-10-26 03:24:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（談及與加拿大的貿易問題）希望達成一份恰當的協議，並不追求短期成效，而是著眼長遠；一旦協議落地，這將會是一份對美國十分有利的協議。"
+    },
+    {
+      "id": "5167836",
+      "time": "2026-10-26 03:24:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（談及伊朗核相關動向）太空部隊能夠看到一切，哪怕對方外套上佩戴標識、名字是穆罕默德，都能清晰識別外套上的名字；所有相關地點都處在美方監控當中。"
+    },
+    {
+      "id": "5167835",
+      "time": "2026-10-26 03:22:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與加拿大即將達成協議。"
+    },
+    {
+      "id": "mkt:01a17483-d486-7ee0-a96e-b251f60a8af3",
+      "time": "2026-10-26 03:22:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Musk: Debt-market strain will force consolidation among 200+ new compute-cloud firms】Musk said pressure in debt markets will force consolidation in the new compute-cloud sector, with more than 200 firms facing consolidation and only a few able to survive."
+    },
+    {
+      "id": "5167834",
+      "time": "2026-10-26 03:21:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人發文嘲諷美國中央司令部司令庫珀上將對霍爾木茲海峽的走訪，配圖是一名美軍軍人在直升機上望向一艘起火油輪的畫面。"
+    },
+    {
+      "id": "5167833",
+      "time": "2026-10-26 03:21:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克：債務市場環境嚴峻，200餘家新型算力雲企業將迎來整合】馬斯克在X平臺發帖，評論新型算力雲企業與債務市場形勢。他表示，受債務市場環境承壓影響，200多家新型算力雲企業將迎來行業整合，僅有少數企業能夠存活下來。"
+    },
+    {
+      "id": "5167832",
+      "time": "2026-10-26 03:19:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國媒體：伊朗領導人認為，美國和以色列正準備在短短16個月內對伊朗發動第三次大規模軍事打擊。"
+    },
+    {
+      "id": "5167831",
+      "time": "2026-10-26 03:18:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國媒體：即便內塔尼亞胡在週二選舉中落敗，他仍可能對伊朗發動新一輪打擊，以色列和美國的政治考量使進一步軍事行動的決定複雜化。"
+    },
+    {
+      "id": "5167830",
+      "time": "2026-10-26 03:18:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏克蘭2027年需要1150億歐元，其中450億歐元已獲分配但尚未收到，另需籌措700億歐元用於國防和預算融資。"
+    },
+    {
+      "id": "5167829",
+      "time": "2026-10-26 03:17:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技執行長表示，由於人工智慧需求激增，其雲容量到2027年已全部預訂一空。"
+    },
+    {
+      "id": "5167828",
+      "time": "2026-10-26 03:17:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙官員稱，一輛客運巴士在巴塞羅那東北部撞上一輛汽車後衝下山坡，造成至少80人受傷。"
+    },
+    {
+      "id": "mkt:01a17478-bd10-7ee0-a96e-aad714926448",
+      "time": "2026-10-26 03:10:32",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Zelenskiy: US, Russia, Ukraine plan trilateral technical talks in November】On Oct 25 Zelenskiy said the US, Russia and Ukraine plan to hold three-party technical working talks in November; parties are still negotiating the venue, with Abu Dhabi, other Middle East locations and European cities under consideration. He described the meeting as working-level, intended to pave the way for higher-level leaders’ talks and to prioritize energy infrastructure and a Black Sea-area ceasefire. Russian presidential aide Ushakov told a TV programme on Oct 25 that Moscow is willing to resume three-way talks after Nov 4."
+    },
+    {
+      "id": "5167827",
+      "time": "2026-10-26 03:10:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我們不是向美方提要求，而是提出建議。這將表明認真態度。但如果這只是政治操弄，我們很快就能在11月看出這是不是花招。"
+    },
+    {
+      "id": "5167826",
+      "time": "2026-10-26 03:09:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：烏美俄擬於11月舉行三方技術層級工作會談】當地時間10月25日，烏克蘭總統澤連斯基證實，美國、俄羅斯、烏克蘭計劃於11月舉行三方技術層級工作會談。目前各方仍在商議會談地點，候選地包括阿聯酋阿布扎比、中東其他地區以及歐洲城市。澤連斯基表示，本次會談屬於工作層面磋商，目的是為後續更高層級的元首對話創造條件，優先圍繞能源設施、黑海相關區域停火議題展開討論。俄羅斯總統助理烏沙科夫在當地時間10月25日播出的一檔電視節目中稱，俄方願意在11月4日之後恢復俄羅斯、美國、烏克蘭三方談判。（央視新聞）"
+    },
+    {
+      "id": "5167825",
+      "time": "2026-10-26 03:08:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：已準備好舉行有技術小組參與的三方談判，談判應取得具體成果。"
+    },
+    {
+      "id": "5167824",
+      "time": "2026-10-26 03:07:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基談談判：領土問題只能由國家元首討論，技術性談判可以討論其他問題。"
+    },
+    {
+      "id": "mkt:01a17471-ca40-7ee0-a96e-a40b5f4eda36",
+      "time": "2026-10-26 03:02:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's president Zelenskiy said he does not want to enter talks with Putin having lost Ukraine's bargaining chips — sanctions, funding or frozen assets — because, as Trump put it, Ukraine would then have few cards left to play."
+    },
+    {
+      "id": "mkt:01a17471-a50f-7ee0-a96e-9aee33c296c0",
+      "time": "2026-10-26 03:02:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said he has long believed Ukraine should not pay such a high price for Russian cooperation, warning that entering trilateral talks after sanctions are lifted could leave Kyiv uncertain about what comes next."
+    },
+    {
+      "id": "mkt:01a17471-6a93-7ee0-a96e-92148b709592",
+      "time": "2026-10-26 03:02:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said sanctions were imposed because Russia launched aggression, not to secure a meeting; if the war is judged to be over, lifting sanctions should follow a specific sequence."
+    },
+    {
+      "id": "5167823",
+      "time": "2026-10-26 03:02:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，在解除對烏克蘭“愛國者”導彈供應的限制方面，進展“非常緩慢”。"
+    },
+    {
+      "id": "mkt:01a17471-429f-7ee0-a96e-8bc36142293e",
+      "time": "2026-10-26 03:02:21",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian President Zelenskiy said he does not want all sanctions on the Russian Federation lifted prior to a trilateral leaders' meeting between Ukraine, the United States and Russia."
+    },
+    {
+      "id": "mkt:01a1746f-db1e-7ee0-a96e-8781e4744332",
+      "time": "2026-10-26 03:00:49",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reuters survey of 23 economists: 13 expect the RBNZ official cash rate (OCR) to remain at 3.00% at year-end; 9 expect a December increase to 3.25%."
+    },
+    {
+      "id": "mkt:01a1746f-9258-7ee0-a96e-789b1145f120",
+      "time": "2026-10-26 03:00:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters survey: 22 of 27 economists expect the RBNZ to hike 25bp on Oct 28, lifting the official cash rate to 3.00%."
+    },
+    {
+      "id": "mkt:01a1746d-52b0-7ee0-a96e-727be71a0b26",
+      "time": "2026-10-26 02:58:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said the Starshield service's operating speed has been restored to a peak of 420 km/h."
+    },
+    {
+      "id": "mkt:01a17468-3f9b-7ee0-a96e-68445aa70171",
+      "time": "2026-10-26 02:52:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Kyiv will not trade anything in exchange but is willing to hold talks; territorial issues must be handled at leaders' level while other matters can be handled by technical working groups, and all can be discussed in November."
+    },
+    {
+      "id": "mkt:01a17468-1e6d-7ee0-a96e-653c9b6414d0",
+      "time": "2026-10-26 02:52:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine must decide its own security guarantees and will not accept Russia dictating terms; proposals to cap the size of Ukrainian forces or to require Ukrainian neutrality are off the table. He said territorial issues are a red line that can only be negotiated at leaders’ level, and that the United States has long proposed territorial exchanges—referred to as \"land swaps\"—though other proposals remain open for discussion."
+    },
+    {
+      "id": "5167822",
+      "time": "2026-10-26 02:51:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "澤連斯基稱11月將舉行美俄烏三方會談。"
+    },
+    {
+      "id": "mkt:01a17467-8e4e-7ee0-a96e-594e5b2aa4a7",
+      "time": "2026-10-26 02:51:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's president ZELENSKIY says a trilateral US-Ukraine-Russia meeting will be held in November."
+    },
+    {
+      "id": "5167821",
+      "time": "2026-10-26 02:50:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "澤連斯基表示，美國關於俄羅斯彈道導彈襲擊預警的情報共享已全面恢復，星盾服務的執行速度已恢復至最高每小時420公里。"
+    },
+    {
+      "id": "mkt:01a17463-66c3-7ee0-a96e-55a70e6ded21",
+      "time": "2026-10-26 02:47:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said air-defence problems remain unresolved. He said supply of missiles for Patriot systems has seen some progress but deliveries are extremely slow—slower than the flight speed of Russian missiles—and that pledging missiles then delaying delivery by one or two months is unacceptable."
+    },
+    {
+      "id": "mkt:01a17463-4f5d-7ee0-a96e-48a24759980a",
+      "time": "2026-10-26 02:47:07",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "ZELENSKIY said that, as of today, two issues with the U.S. — intelligence sharing and restrictions on Starlink and Starshield systems — have been resolved."
+    },
+    {
+      "id": "mkt:01a17463-2d44-7ee0-a96e-4030d5567852",
+      "time": "2026-10-26 02:46:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "President ZELENSKIY said in talks with US officials in Oslo he faces three main challenges: a shortage of air-defense systems; limits on use of Starlink and Starshield; and US restrictions on intelligence sharing."
+    },
+    {
+      "id": "5167820",
+      "time": "2026-10-26 02:46:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "宣告顯示：阿爾及利亞議會投票贊成向尼日派遣軍隊的決議。"
+    },
+    {
+      "id": "mkt:01a17462-5eb8-7ee0-a96e-3a18bc90ffa7",
+      "time": "2026-10-26 02:46:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lula's campaign asked authorities to extend polling hours nationwide in Brazil."
+    },
+    {
+      "id": "mkt:01a1745b-bcb1-7ee0-a96e-3088b07f5b34",
+      "time": "2026-10-26 02:38:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen armed forces spokesman said they will continue to intensify attacks on the Houthi armed group, targeting its capabilities."
+    },
+    {
+      "id": "5167819",
+      "time": "2026-10-26 02:33:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：在黎巴嫩南部行動的區域發現一個可疑空中目標，隨後向其發射了一枚攔截彈。按照規程，未拉響警報。"
+    },
+    {
+      "id": "5167818",
+      "time": "2026-10-26 02:31:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名美國官員表示，美國對伊朗實施打擊已經不是“是否會發生”的問題，而是“何時發生”的問題，特朗普正準備調整相關策略。"
+    },
+    {
+      "id": "5167817",
+      "time": "2026-10-26 02:26:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "五角大樓：赫格塞思將出席東盟防長會議。"
+    },
+    {
+      "id": "5167816",
+      "time": "2026-10-26 02:26:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "五角大樓：防長赫格塞思將訪問菲律賓出席東盟會議。"
+    },
+    {
+      "id": "5167815",
+      "time": "2026-10-26 02:24:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國大型非營利醫療集團Bon Secours即將以60億美元收購上市外科服務公司Surgery Partners。"
+    },
+    {
+      "id": "mkt:01a1744d-df48-7ee0-a96e-2aa64da7681f",
+      "time": "2026-10-26 02:23:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said time has proven the veracity of its late martyred leader's statements."
+    },
+    {
+      "id": "5167814",
+      "time": "2026-10-26 02:21:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉競選團隊將申請延長投票時間。盧拉同時抱怨，巴西多座城市存在公共交通運力不足的問題。"
+    },
+    {
+      "id": "5167813",
+      "time": "2026-10-26 02:12:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞爾維亞國家選舉委員會表示，截至下午6點，塞爾維亞議會選舉的投票率達到64.9%，為1992年南斯拉夫解體以來的最高水平。"
+    },
     {
       "id": "5167812",
       "time": "2026-10-26 02:03:50",
@@ -119738,231 +120139,6 @@
         "MKT News"
       ],
       "text": "Qatar's foreign ministry said the two sides, in a phone call, reviewed bilateral cooperation and ways to support and strengthen it, discussed recent regional developments and other issues of mutual concern."
-    },
-    {
-      "id": "5152573",
-      "time": "2026-10-19 03:28:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗武裝部隊總參謀長對美國和以色列政權領導人稱：我們正倒數計時，等待你們做出愚蠢決定。"
-    },
-    {
-      "id": "5152572",
-      "time": "2026-10-19 03:27:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "奧地利航空公司從特拉維夫飛往維也納的航班在飛機上發現可疑物體後改變航線，並降落在保加利亞索非亞。"
-    },
-    {
-      "id": "5152571",
-      "time": "2026-10-19 03:19:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧表示，特朗普會利用最長60天時間評估對俄製裁及關稅帶來的經濟影響。"
-    },
-    {
-      "id": "mkt:01a15065-73ca-7ee0-a8d2-db54af90a340",
-      "time": "2026-10-19 03:03:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zelenskiy says Trump is pressuring Ukraine to surrender to Russia】Ukrainian President Zelenskiy accused U.S. President Trump of pressing Kyiv to surrender to Russia, saying Trump has conditioned additional Patriot air-defense missiles on Kyiv stopping strikes on Russian oil refineries. Zelenskiy said Washington has also taken unfriendly steps including deliberate throttling of Starlink bandwidth used by Ukrainian forces and delays in delivery of scarce Patriot interceptors. He said he believes measures have been taken to persuade Ukraine to capitulate and that it appears some U.S. partners may favor ending the war faster even at Ukraine’s expense."
-    },
-    {
-      "id": "mkt:01a15058-a8b5-7ee0-a8d2-d68a0c7de566",
-      "time": "2026-10-19 02:49:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Civil Defense said the danger alert in Abha has been lifted."
-    },
-    {
-      "id": "5152569",
-      "time": "2026-10-19 02:48:57",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【黑山總理斯帕伊奇會見王毅】18日，黑山總理斯帕伊奇在波德戈裡察會見中共中央政治局委員、外交部長王毅。斯帕伊奇請王毅轉達對中國領導人的誠摯問候，表示今年6月赴華參會得到中方熱情接待，今天中國外長來訪，都體現了中方對黑中關係的重視。黑中兩國有著共同的歷史記憶和傳統友誼，第二次世界大戰期間都曾抵抗法西斯和外來侵略。黑方高度重視中國的大國地位和影響，讚賞中國在中東戰事中以負責任態度抑制全球油價上漲，幫助黑山等中小國家渡過能源危機，體現了大國責任與擔當。（新華社）"
-    },
-    {
-      "id": "5152568",
-      "time": "2026-10-19 02:45:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門稱阿卜哈的危險已解除。"
-    },
-    {
-      "id": "mkt:01a15053-f73a-7ee0-a8d2-cd005baefc99",
-      "time": "2026-10-19 02:44:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense issued an alert about a possible threat in Abha."
-    },
-    {
-      "id": "5152567",
-      "time": "2026-10-19 02:44:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門警告阿卜哈存在潛在危險。"
-    },
-    {
-      "id": "mkt:01a15050-6bf0-7ee0-a8d2-c7a723646af6",
-      "time": "2026-10-19 02:40:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Macron condemns violence across multiple French cities】On Oct 18 local time President Macron, in a televised address, condemned violent incidents that occurred across multiple French cities on Oct 17, saying no justification exists for the actions. He said Prime Minister Le Cornu will chair a crisis response meeting on Oct 19 to coordinate rapid aid for affected businesses and residents."
-    },
-    {
-      "id": "5152566",
-      "time": "2026-10-19 02:35:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法國總統譴責該國多地發生的暴力事件】當地時間10月18日，法國總統馬克龍發表電視講話時，譴責17日法國多地發生的暴力事件。他強調，任何理由都不能為這些行為開脫。此外，馬克龍在講話中稱，法國總理勒科爾尼將於19日主持危機應對會議，協調儘快提供援助，幫助受影響的商戶及民眾。（央視新聞）"
-    },
-    {
-      "id": "5152565",
-      "time": "2026-10-19 02:34:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍在法國發生暴力騷亂後表示：我們都感到憤怒和羞恥，那些試圖推翻共和國的人將付出代價。"
-    },
-    {
-      "id": "5152564",
-      "time": "2026-10-19 02:28:41",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【江西宜春成立核查調查組 對涉“產品溯源遊”問題開展調查】10月18日，總檯《財經調查》欄目曝光老年人保健品虛假宣傳、會議營銷等“坑老騙老”問題。一些機構打著“產品溯源活動”的旗號，精準鎖定老年群體，以參觀生產企業、產品溯源為噱頭，在封閉場景下辦起了“會銷”活動，把普通產品包裝成“神藥”高價兜售。其中涉及江西省宜春市溫湯鎮以及樟樹市。節目播出後，宜春市成立由市文廣旅局、市市場監管局、市公安局及屬地政府等組成的核查調查組，連夜開展核查調查等工作。（央視新聞）"
-    },
-    {
-      "id": "5152563",
-      "time": "2026-10-19 02:26:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國《生物多樣性公約》第十七次締約方大會開幕】當地時間10月18日傍晚，《生物多樣性公約》第十七次締約方大會開幕式在亞美尼亞首都埃裡溫舉行。大會將於19日正式開啟，預計將於30日結束。此次會議將對“昆明-蒙特利爾全球生物多樣性框架”，也就是“昆蒙框架”的落實情況，開展審查工作。（央視新聞）"
-    },
-    {
-      "id": "5152562",
-      "time": "2026-10-19 02:25:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍通報，海法地區將於週一上午開啟軍事演習，演習持續至週二晚間。演習期間預計會出現部隊、車輛及海軍活動增多的情況，並伴有槍聲與爆破聲響。"
-    },
-    {
-      "id": "5152561",
-      "time": "2026-10-19 02:23:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【澤連斯基：特朗普正逼迫烏克蘭向俄羅斯投降】烏克蘭總統澤連斯基指責特朗普試圖向基輔施壓，迫使其向俄羅斯投降，這場與美國總統之間持續一週的爭執進一步升級。澤連斯基提出一項新提議：停止打擊俄羅斯煉油廠，以此換取更多“愛國者”防空導彈的交付。他表示，“我們已經為這些武器付過錢了”，但美方遲遲不交貨。澤連斯基稱，美國中期選舉結束後，烏美關係可能改善，他表示“選舉期間政治非常具有攻擊性”，“選舉結束後生活還要繼續，我相信局面會平靜下來”。"
-    },
-    {
-      "id": "5152560",
-      "time": "2026-10-19 02:20:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：如果美國提供更多攔截彈，將不會打擊煉油廠。"
-    },
-    {
-      "id": "5152559",
-      "time": "2026-10-19 02:20:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "澤連斯基稱，特朗普正推動烏克蘭向俄羅斯投降。"
-    },
-    {
-      "id": "5152558",
-      "time": "2026-10-19 02:17:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝稱沙特24小時內發動110次襲擊】當地時間18日晚間，葉門胡塞武裝釋出宣告，稱過去24小時內沙特向葉門首都薩那以及荷臺達、塔伊茲、阿姆蘭、哈傑、薩達、焦夫、達利阿和馬裡卜等省份，發動了110次空襲及導彈襲擊，造成30多人死傷，其中大多數是婦女和兒童。自本輪局勢升級以來，沙特針對葉門的空襲及導彈襲擊總數已達2652次。（央視新聞）"
-    },
-    {
-      "id": "5152557",
-      "time": "2026-10-19 02:16:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：如有必要，地方政府官員可禁止抗議活動。"
-    },
-    {
-      "id": "5152556",
-      "time": "2026-10-19 02:15:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍將於週一出訪海灣國家以確保能源供應。"
-    },
-    {
-      "id": "5152555",
-      "time": "2026-10-19 02:12:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：國家需要秩序與冷靜，而非局勢升級。"
-    },
-    {
-      "id": "5152554",
-      "time": "2026-10-19 02:10:40",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【Anthropic計劃將部分股份轉入新設“公共利益”基金】Anthropic公司表示，計劃將5%的公司股份注入一隻新基金。這家人工智慧企業稱，該基金將支援其開展各類公益捐贈，用於應對公共領域議題，其中包括緩解人工智慧對就業市場造成的影響。公司在週日的宣告中表示：在獲得股東批准的前提下，Anthropic今日承諾劃撥5%股份。公司估值相對既定基準每上漲50%，經董事會酌情決定，可額外追加劃撥2%股份。宣告稱，該基金能夠讓公司以“新方式”踐行自身使命，例如動用部分資金研究“勞動力市場受到的衝擊”。公司表示，Anthropic公共利益基金在獲批後將設立為一家全資有限責任公司，並非非營利組織，基金規模會伴隨企業發展而增長。宣告寫明，該有限責任公司所持有的Anthropic股權，無論在美國境內還是海外，均不得用於遊說活動或政治捐贈。"
-    },
-    {
-      "id": "mkt:01a15034-e3a6-7ee0-a8d2-be81ab27416d",
-      "time": "2026-10-19 02:10:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC pledged to donate 5% of its shares to a charitable foundation and to donate an additional 2% of shares for every 50% increase in the company’s valuation."
-    },
-    {
-      "id": "5152553",
-      "time": "2026-10-19 02:09:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic將在後續報告中披露公益基金的架構與進展情況。"
-    },
-    {
-      "id": "5152552",
-      "time": "2026-10-19 02:09:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic計劃將約20%股份用於公共利益用途，還有追加分配股份的可能性。"
-    },
-    {
-      "id": "5152551",
-      "time": "2026-10-19 02:09:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic設立公益基金，該基金所持股權不得用於遊說或政治捐贈。"
     }
   ]
 }
