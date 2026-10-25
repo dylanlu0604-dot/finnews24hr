@@ -1,7 +1,51 @@
 {
   "date": "2026-10-25",
-  "count": 338,
+  "count": 343,
   "items": [
+    {
+      "id": "mkt:01a170d5-8138-7ee0-a968-8ebb7c49fa2e",
+      "time": "2026-10-25 10:13:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Russia foreign ministry says EU settlement stance effectively excludes Europe from Ukraine talks】Deputy Foreign Minister Grushko said the EU’s position on a final settlement of the Ukraine conflict effectively excludes Europeans from the negotiating process. He referenced reports that European states were discussing envoys to hold talks with President Putin and said, “If you want peace, you should first stop supporting the Kyiv regime.” Grushko said the EU’s stated settlement demands would: restore borders to their 1992 limits; require Russia to pay reparations and punish those responsible; and permit deployment of foreign forces on Ukrainian territory if Ukraine cannot join NATO. He added the EU’s current policy goal is to inflict a strategic defeat on Russia—containing it, depriving it of development resources and cutting strategic transit lines."
+    },
+    {
+      "id": "5167120",
+      "time": "2026-10-25 10:12:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【專家：美國民主黨沒有能力破壞俄羅斯柴油協議】澳大利亞科廷大學全球未來學院院長、政治學家喬·西拉庫薩教授表示，即便民主黨在中期選舉中獲勝，他們也不太可能“透過調查或向企業施壓來阻止或大幅限制俄羅斯柴油進口”。他預測：“他們最多隻能製造噪音、舉行聽證會、試圖恐嚇企業領導層——但那是政治表演，不是政策。”"
+    },
+    {
+      "id": "5167119",
+      "time": "2026-10-25 10:12:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：北約必須放棄對俄“遏制”政策才能恢復對話】俄羅斯代表團副團長、俄羅斯常駐聯合國日內瓦辦事處和其他國際組織副代表娜塔莉婭·富任科娃表示，只要北約不放棄對俄羅斯的“遏制”政策，雙方就無法恢復對話。"
+    },
+    {
+      "id": "5167114",
+      "time": "2026-10-25 10:12:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "克宮：2026年普京不計劃發表國情諮文。"
+    },
+    {
+      "id": "mkt:01a170d4-2d71-7ee0-a968-861c14c08e1c",
+      "time": "2026-10-25 10:11:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kremlin: Putin not planning State of the Nation address in 2026】Kremlin spokesman Dmitry Peskov told RIA Novosti there are no plans for President Vladimir Putin to deliver an address to the Federal Assembly in 2026, saying “No, there is no such plan.” The last address was in February 2024 — the 29th in modern Russian history and Putin’s 19th as head of state."
+    },
     {
       "id": "5167098",
       "time": "2026-10-25 10:07:55",
