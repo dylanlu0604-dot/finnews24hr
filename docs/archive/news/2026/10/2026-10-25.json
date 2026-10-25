@@ -1,7 +1,15 @@
 {
   "date": "2026-10-25",
-  "count": 376,
+  "count": 377,
   "items": [
+    {
+      "id": "mkt:01a17105-bb16-7ee0-a968-c1f526b446ba",
+      "time": "2026-10-25 11:06:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defence issues alert over a potential threat in Riyadh."
+    },
     {
       "id": "5167342",
       "time": "2026-10-25 11:04:33",
