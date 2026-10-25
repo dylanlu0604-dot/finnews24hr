@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-25 21:19:40",
+  "updated": "2026-10-25 21:23:29",
   "count": 13271,
   "items": [
+    {
+      "id": "mkt:01a17339-e042-7ee0-a96c-32cb03bda483",
+      "time": "2026-10-25 21:22:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Local officials said a Ukrainian missile struck an industrial facility in Russia's Lipetsk region, killing one."
+    },
+    {
+      "id": "5167696",
+      "time": "2026-10-25 21:21:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "據利佩茨克州州長表示，烏克蘭導彈襲擊俄羅斯利佩茨克州一處工業設施，造成1人死亡。"
+    },
+    {
+      "id": "mkt:01a17338-76b1-7ee0-a96c-2cd2d73dd3d8",
+      "time": "2026-10-25 21:20:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Libya's Sirte Oil Company said the Brega gas facility, once restarted, will deliver 60 mln cubic feet of gas into the national gas system rather than flare it."
+    },
     {
       "id": "5167695",
       "time": "2026-10-25 21:17:14",
@@ -119937,33 +119965,6 @@
         "國際"
       ],
       "text": "美國能源部長賴特：美國豁免激勵俄羅斯實現能源停火。"
-    },
-    {
-      "id": "5152436",
-      "time": "2026-10-18 21:22:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年前三季度雲南蒙自石榴出口超6.5萬噸】眼下，雲南省蒙自市迎來石榴的銷售出口旺季，走進蒙自出口農產品綜合服務中心，成箱的石榴正透過海關工作人員的查檢裝入冷鏈運輸車中。首批應用海關推行的“屬地查檢‘1+N’模式”的出口鮮石榴順利放行。據瞭解，今年前三季度，蒙自海關共監管出口石榴超6.5萬噸，遠銷14個國家和地區。據統計，目前蒙自市石榴種植面積達7.7萬畝，年產量穩定在22萬噸以上，鮮果市場產值超8.8億元。（新華社）"
-    },
-    {
-      "id": "5152435",
-      "time": "2026-10-18 21:21:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國駐以色列使館提醒中國公民切勿參與非法入境以色列務工】近日，有中國公民持偽造證件試圖從以色列-約旦邊境口岸入境以色列時被查獲。另有中國公民企圖從約旦偷渡入境以色列時被約旦執法部門抓獲，同時其在以色列境內的接應者被拘留，工作簽證被吊銷，現已被遣返回國。近期，一些不法分子聲稱可以透過旅遊或特殊渠道帶人入境以色列打工，搞非法偷渡，多次被以色列警方和移民局查獲。參與者將面臨入獄、遣返和長期禁止入境的嚴重後果。在以色列的合法勞工若參與邊境接應、轉運、提供住宿等協助偷渡行為，即使持有合法工作簽證，亦將被吊銷，同樣面臨拘留和遣返。根據《中華人民共和國刑法》的相關規定，中國公民在境外從事違法犯罪活動，中國司法機關依法享有管轄權並有權追究其法律責任。（環球網）"
-    },
-    {
-      "id": "mkt:01a14f2b-d89c-7ee0-a8d1-2cc880b07547",
-      "time": "2026-10-18 21:20:35",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Egypt's parliament will continue on Monday to discuss support for Saudi Arabia amid Houthi attacks, Egyptian MPs and local media said."
     }
   ]
 }

@@ -1,7 +1,35 @@
 {
   "date": "2026-10-25",
-  "count": 818,
+  "count": 821,
   "items": [
+    {
+      "id": "mkt:01a17339-e042-7ee0-a96c-32cb03bda483",
+      "time": "2026-10-25 21:22:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Local officials said a Ukrainian missile struck an industrial facility in Russia's Lipetsk region, killing one."
+    },
+    {
+      "id": "5167696",
+      "time": "2026-10-25 21:21:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "據利佩茨克州州長表示，烏克蘭導彈襲擊俄羅斯利佩茨克州一處工業設施，造成1人死亡。"
+    },
+    {
+      "id": "mkt:01a17338-76b1-7ee0-a96c-2cd2d73dd3d8",
+      "time": "2026-10-25 21:20:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Libya's Sirte Oil Company said the Brega gas facility, once restarted, will deliver 60 mln cubic feet of gas into the national gas system rather than flare it."
+    },
     {
       "id": "5167695",
       "time": "2026-10-25 21:17:14",
