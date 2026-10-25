@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-26 06:18:47",
-  "count": 13297,
+  "updated": "2026-10-26 06:22:33",
+  "count": 13296,
   "items": [
+    {
+      "id": "5167910",
+      "time": "2026-10-26 06:20:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西大選第二輪已統計2%選票，盧拉得票率51.83%暫時領先。"
+    },
     {
       "id": "5167909",
       "time": "2026-10-26 06:15:26",
@@ -120200,22 +120208,6 @@
         "DXY"
       ],
       "text": "【Peskov: Ukraine attacks on Russia cannot change course】Kremlin spokesman Dmitry Peskov said on the 18th local time that Ukraine is in its death throes and attempting resistance, but its attacks — including a large-scale strike on St. Petersburg — cannot change the course of events. He said Russia has been responding with systematic, large-scale strikes that are being carried out and proving effective."
-    },
-    {
-      "id": "5152628",
-      "time": "2026-10-19 06:22:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "葛蘭素史克的B7-H3靶向抗體藥物偶聯物Ris-Rez在肺癌臨床試驗中取得61%客觀緩解率。"
-    },
-    {
-      "id": "5152627",
-      "time": "2026-10-19 06:20:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯吉達發生數起爆炸，吉達阿卜杜勒-阿齊茲國王機場航班暫停。"
     }
   ]
 }
