@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-10-26 01:50:07_
-_本檔包含 2626 則快訊，約 497386 字_
+_更新時間：2026-10-26 04:43:55_
+_本檔包含 2598 則快訊，約 498360 字_
+
+---
+
+### 2026-10-23 18:19:15  #公司
+
+【粵傳媒：擬開立回購專用證券賬戶接收司法劃轉股份】粵傳媒公告稱，公司董事會審議透過議案，同意向中國證券登記結算有限責任公司深圳分公司申請開立回購專用證券賬戶，用於接收司法執行劃轉的本公司股份，將配合辦理司法非交易過戶，同時授權管理層全權辦理賬戶開立、資料提交、過戶對接等相關事宜。上述股份劃入回購專戶後，公司將依規辦理股份登出、減少註冊資本等事宜，後續相關事項另行履行審議程式及資訊披露義務。
+
+---
+
+### 2026-10-23 18:18:17  #公司
+
+塔塔汽車有限公司：即使下半年的增長率預計將因基數較高而有所放緩，公司在2027財年仍將保持良好的增長態勢。
+
+---
+
+### 2026-10-23 18:18:11  #公司
+
+【迪貝電氣：2026年第三季度淨利潤1893.23萬元，同比下降15.97%】迪貝電氣公告，2026年第三季度營業收入2.45億元，同比增長0.30%；歸母淨利潤1893.23萬元，同比下降15.97%；扣非淨利潤1701.64萬元，同比下降18.92%。2026年前三季度營業收入7.54億元，同比增長1.68%；歸母淨利潤5180.49萬元，同比下降20.30%；扣非淨利潤4794.52萬元，同比下降22.58%。
+
+---
+
+### 2026-10-23 18:18:08  #公司
+
+【首部AI院線電影今起上映 首日場次近1.1萬場】10月23日，由博納影業出品製作的國內首部運用AI技術製作並取得國家電影局公映許可證的院線電影《三星堆：未來往事》正式上映。截至10月23日18時，該片全天排映場次已接近1.1萬場，10月24日排映已超過1.3萬場。（證券時報）
+
+---
+
+### 2026-10-23 18:18:05  #公司
+
+【佰維儲存：獲控股股東提議回購2億元-2.5億元股份】佰維儲存公告稱，2026年以來儲存行業景氣度提升，公司把握機遇拓展AI等應用市場，推進“儲存+晶圓級先進封測”雙輪驅動戰略。2026年以來公司累計派發現金紅利約3億元，於10月19日完成股份回購，累計回購金額約2.5億元，回購股份全部用於登出減資。10月15日，公司控股股東、實控人、董事長孫成思提議公司以2億元至2.5億元回購股份，全部用於登出及減少註冊資本，公司將推進回購方案論證及審議程式。
+
+---
+
+### 2026-10-23 18:17:58  #公司
+
+【ST三木：涉金融借款合同糾紛 涉案金額約4589.22萬元】ST三木公告稱，公司及全資子公司福建武夷山三木自駕遊營地有限公司等因金融借款合同糾紛，被平安銀行股份有限公司福州分行起訴，涉案金額暫計約4589.22萬元。本案已由福州市鼓樓區人民法院立案受理，將於2026年11月12日開庭審理，目前尚未開庭，訴訟最終結果及對公司利潤的影響尚存在不確定性。截至公告披露日，公司及子公司其他未達披露標準的小額訴訟、仲裁事項總金額約8778.22萬元，佔公司最近一期經審計淨資產的72.76%。
+
+---
+
+### 2026-10-23 18:17:44  #公司
+
+【晶存科技港股IPO獲中國證監會備案】中國證監會國際合作司釋出關於深圳市晶存科技股份有限公司境外發行上市及境內未上市股份“全流通”備案通知書，公司擬發行不超過13,053,800股境外上市普通股並在香港聯合交易所上市。公司40名股東擬將所持合計102,160,000股境內未上市股份轉為境外上市股份，並在香港聯合交易所上市流通。
+
+---
+
+### 2026-10-23 18:17:39  #其他
+
+【西藏那曲市巴青縣發生7.0級地震，金融監管總局啟動保險業三級救災應急響應】10月22日22時33分許，西藏那曲市巴青縣發生7.0級地震，造成重大人員傷亡。災害發生後，金融監管總局堅決貫徹習近平總書記重要指示精神，按照李強總理等中央領導同志批示要求，迅速指導保險業和屬地金融監管局全力做好災害應急處置和保險理賠服務等工作，並派員參加有關工作組趕赴災區。根據金融監管總局工作部署，有關保險機構立即啟動應急預案，開展承保情況摸排，配合地方黨委政府和有關部門做好災害應對處置工作。根據災情進展和保險業應對災害事故處置工作機制，金融監管總局啟動保險業三級救災應急響應，同時指導銀行業做好相關金融保障服務工作。
+
+---
+
+### 2026-10-23 18:17:39  #Trading Economics #Markets #Germany #Government Bond 10Y #Importance 1
+
+Bund Yields Near Two-Month Lows — Germany’s 10-year Bund yield eased to around 3.34%, touching its lowest level since August 31, as investors sought safe-haven assets amid mounting fiscal concerns and political uncertainty in France and other highly indebted eurozone economies. Meanwhile, fresh PMI data showed eurozone private-sector growth slowed to a four-month low in October, pressured by rising energy costs, higher interest rates and renewed contraction in France. Consumer confidence also deteriorated more sharply than expected. French bonds remained under particular pressure, with the spread between French OATs and German Bunds widening to around 170 basis points, its highest level since the eurozone sovereign debt crisis. Looking ahead, further demonstrations are expected across the region this weekend, while investors await next week’s inflation data and the ECB’s policy meeting, where officials are widely expected to leave interest rates unchanged.
+
+---
+
+### 2026-10-23 18:17:01  #其他
+
+【2026全球治理論壇（雄安）開幕】2026全球治理論壇（雄安）23日晚在河北雄安新區開幕。本次論壇以“重建信心與合作：百年變局與改革完善全球治理”為主題，邀請90多個國家的政界、戰略界、學界、工商界及青年領袖等近400人參會，共商改革完善全球治理大計。論壇主要活動包括開幕式、大會發言、5個板塊分論壇的22場研討會、多場配套活動等，將持續到25日。（央視新聞）
+
+---
+
+### 2026-10-23 18:05:32  #Trading Economics #Markets #United Kingdom #Government Bond 10Y #Importance 1
+
+UK Gilt Yields Hold Steady as Investors Await Budget — UK 10-year gilt yields held steady around 5.33% as investors assessed mixed economic data ahead of next week’s budget. UK assets, including gilts and sterling, have attracted stronger demand as concerns over social unrest and mounting debt across the eurozone prompted investors to shift away from other regional markets. Flash PMI data showed business activity accelerated to an eight-month high, beating forecasts, while retail sales fell more sharply than expected in September and consumer confidence suffered a steep decline in October. Stronger-than-expected inflation data earlier this week fueled expectations of further monetary tightening, with markets pricing in at least three 25bp rate hikes by April 2027 and the first potentially coming in November. Ahead of next week’s budget, investors appear to be giving Chancellor John Healey the benefit of the doubt, with gilt markets remaining unusually calm despite concerns over ambitious spending plans that have yet to be fully costed.
+
+---
+
+### 2026-10-23 18:00:44  #Trading Economics #Economy #Slovenia #Current Account #Importance 0
+
+Slovenia Tourist Arrivals Hit Record for a September — Tourist arrivals in Slovenia rose by 11.4% year-on-year to 821.8 thousand in September 2026, the highest September level on record, following a 6.0% rise in the previous month. Foreign tourist arrivals increased by 12.8% to 682.8 thousand, with visitors mainly coming from the UK (39.5%), the US (27.5%), the Czech Republic (26.5%), Germany (12.8%), and Austria (9.5%). Meanwhile, domestic tourism grew by 4.7% to 139.0 thousand. Overnight stays went up by 12.4% to 1,994.2 thousand, with most tourists staying in mountain municipalities (22.6%), other municipalities (10.1%), urban municipalities (8.5%), and the capital (7.7%). For the January–September period, tourist arrivals increased by 7.1% year-on-year to 6,212.3 thousand, while overnight stays also rose by 7.1% to 16,072.6 thousand.
+
+---
+
+### 2026-10-23 17:44:12  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
+
+Pound Holds Near One-Month High Helped by Strong PMI Data — The pound traded just below $1.34, hovering near its strongest level in a month as investors assessed a mixed batch of economic data ahead of next week’s budget and the Bank of England’s November 5 policy meeting. Flash PMI data showed UK private-sector activity accelerated to its fastest pace since February, beating expectations across both manufacturing and services. However, retail sales fell more sharply than expected in September, while consumer confidence recorded its steepest monthly decline since the pandemic, reflecting persistent cost-of-living pressures and concerns over the Middle East conflict. Stronger-than-expected inflation data earlier this week prompted markets to increase bets on further monetary tightening, with at least three quarter-point rate hikes priced in by April 2027 and the first potentially coming as early as November 5. Investors now await next week’s budget, where Chancellor John Healey is expected to emphasize fiscal discipline.
+
+---
+
+### 2026-10-23 17:30:14  #Trading Economics #Markets #Bonds #Importance 1
+
+Bonds Update: Japan 10Y Bond Yield Falls by 9 bps — Majority of government bonds yields are lower on Friday. Top losers are Japan 10Y (-8.60bps), South Korea 10Y (-6.20bps) and Germany 10Y (-0.83bps). Gains are led by US 10Y (2.20bps).
+
+---
+
+### 2026-10-23 17:17:49  #Trading Economics #Economy #Macau #Tourist Arrivals #Importance 1
+
+Macau Tourist Arrivals Surge in September — The number of tourist arrivals in Macau climbed 15.9% year-on-year to 3.217 million in September 2026, following a 6.1% gain in the previous month. Despite the sharp increase, the number of tourist arrivals eased from its highest level on record reached in the previous month. Same-day visitors surged 23.8% to 1.933 million, while overnight visitors climbed 5.7% to 1.283 million. The average length of stay for all visitors fell by 0.1 days year-on-year to 1.1 days, while overnight visitors stayed an average of 2.4 days. Arrivals from mainland China, Macau’s largest source market, increased 17.4%. Growth was also recorded in Taiwan (18.7%), Japan (2.7%), Thailand (42.3%), the US (24.7%), India (11.4%) and Australia (15.4%). Arrivals from Russia surged 124.3%. From January to September, total visitor arrivals rose 8.5% year-on-year to 32.181 million.
+
+---
+
+### 2026-10-23 17:14:54  #Trading Economics #Markets #France #stocks #Importance 1
+
+AXA Shares Hit 18-week Low — AXA shares decreased to 41.36 EUR, the lowest since June 2026. Over the past 4 weeks, AXA lost 5.91%, and in the last 12 months, it increased 5%.
+
+---
+
+### 2026-10-23 17:13:01  #央行 #中國央行
+
+【央行：10月26日將開展7000億元MLF操作】為保持銀行體系流動性充裕，2026年10月26日，中國人民銀行將以固定數量、利率招標、多重價位中標方式開展7000億元MLF操作，期限為1年期。
+
+---
+
+### 2026-10-23 17:07:07  #Trading Economics #Economy #Iceland #Producer Prices Change #Importance 1
+
+Iceland Producer Inflation Hits 5-Month Low — Iceland’s producer prices rose by 12.5% year-on-year in September 2026, easing from 13.7% in August and marking the weakest growth in five months. Price growth slowed across marine products (13.3% vs. 16.8% in August), the metal industry (25.1% vs. 27.4%), food production (2.8% vs. 3.4%), exported products (17.4% vs. 19.2%), and exported products excluding marine products (19.9% vs. 20.4%). Meanwhile, price growth accelerated in other manufacturing industries (5.3% vs. 3.8%) and products sold domestically (2.0% vs. 1.9%). On a monthly basis, Iceland’s producer prices fell by 0.1% in September 2026, following a sharp 3.3% decline in August, marking a second consecutive monthly decrease.
+
+---
+
+### 2026-10-23 17:05:45  #Trading Economics #Economy #Macau #Inflation Rate #Importance 1
+
+Macau Inflation Rate Rises for 2nd Month — Macau’s annual inflation rate rose to 1.33% in September 2026, up from 1.29% in August, marking a second consecutive monthly acceleration and its highest level since May. Transportation inflation climbed to 4.39% from 3.08%, largely driven by higher gasoline prices. Price growth also accelerated in health (0.91% vs. 0.83%) and information and communication (2.28% vs. 1.86%). Meanwhile, recreation, sports and culture prices rebounded by 0.7%, following a 0.32% decline in August. In contrast, inflation eased in food (1.25% vs. 1.37%), housing and fuels (0.6% vs. 0.66%), and clothing and footwear (1.96% vs. 2.64%). On a monthly basis, consumer prices increased by 0.14%, slowing from a 0.28% rise in August.
+
+---
+
+### 2026-10-23 17:00:12  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Polish Zloty Depreciates by 0.60% — Top currency losers are Polish Zloty (-0.60%), Indian Rupee (-0.51%), Swiss Franc (-0.33%), Euro (-0.22%) and British Pound (-0.17%). Gains are led by Dollar Index (0.20%). Meanwhile Japanese Yen was little changed.
+
+---
+
+### 2026-10-23 16:41:35  #Trading Economics #Economy #United Kingdom #Manufacturing PMI #Importance 1
+
+UK Manufacturing Sector Grows at Faster Pace — The S&P Global UK Manufacturing PMI rose to 52.8 in October 2026, up from 51.9 in September and above market expectations of 51.7, according to the preliminary estimate. The reading signaled the strongest improvement in manufacturing business conditions since May, supported by the fastest growth in output in just over two years and a solid increase in new orders. However, employment declined slightly during the month. Meanwhile, supplier delivery times lengthened at the fastest pace since May, reflecting shipping delays and supply chain disruptions linked to the Middle East conflict, as well as global shortages of semiconductors and electronic components. Inventories continued to decline, with purchasing stocks falling for a fifth consecutive month. Input costs also rose sharply due to higher energy, raw material and transportation prices. Business confidence improved slightly, supported by hopes for AI investment and defense sector projects to boost future growth.
+
+---
+
+### 2026-10-23 16:41:07  #Trading Economics #Economy #United Kingdom #Services PMI #Importance 1
+
+UK Services Sector Growth Beats Forecasts — The S&P Global UK Services PMI rose to 53.1 in October 2026 from 52.1 in September, above market forecasts of 51.8, flash estimates showed. The latest data showed that growth in overall service sector accelerated to its highest level in eight months, led by a marked improvement in new orders. A number of firms cited a boost to sales from AI investment spending and rising demand for technology services. Employment growth resumed in October, supported by an influx of new projects and a focus on long-term business expansion, although many firms continued to adopt cautious hiring strategies. Meanwhile, price pressures remained elevated. Lastly, business sentiment improved, with service providers highlighting planned investment in new products and marketing initiatives, alongside a gradual recovery in expectations for broader market conditions.
 
 ---
 
@@ -15583,307 +15715,5 @@ Robinhood：已獲得迪拜金融服務管理局的授權，將在中東推出�
 ### 2026-10-22 14:20:20  #Trading Economics #Economy #Norway #Business Confidence #Importance 1
 
 Norway Industrial Confidence Hits Highest Since Q1 2025 — Norway’s industrial confidence rose to 3.4 in Q3 2026 from a downwardly revised 2.5 in the previous quarter, exceeding its long-term average of 2.9. This marked the highest reading since Q1 2025, as total industrial production improved slightly, driven largely by a strong increase in output among intermediate goods manufacturers, particularly non-ferrous metals producers. Consumer goods production also rose moderately, while investment goods output remained unchanged as declining oil and gas investment continued to weigh on the sector. Meanwhile, industrial employment remained broadly flat for a fourth consecutive quarter. On the price front, input costs increased at a faster pace than selling prices. Looking ahead, firms remain optimistic, expecting higher production, employment, order intake, and order backlogs in the fourth quarter.
-
----
-
-### 2026-10-22 14:20:15  #觀點
-
-【摩根大通策略師：投資者降倉，AI板塊拋售潮或將緩和】摩根大通策略師稱，市場對AI基建資金供給的擔憂有些過度，隨著投資者已經大幅減倉，AI相關個股近期的跌勢或將乏力。由Nikolaos Panigirtzoglou帶領的團隊表示，包括對沖基金、趨勢跟蹤型投資者在內，大多已了結此前重倉的半導體頭寸。他們的廣義股票持倉指標也自9月中旬高點顯著回落，這或將限制後續跌幅。報告稱，科技行業今年產生的現金流較其資本開支高出約4000億美元。報告提到，今年上市科技企業合計計劃投入約1.8萬億美元用於投資與研發，其中小型AI基建廠商僅佔800億美元；如果融資困境迫使小企業縮減投入，大型企業可以承接這部分開支。
-
----
-
-### 2026-10-22 14:19:59  #MKT News #Important #EURUSD #Impact mixed #DXY
-
-France's 10-year bond yield rose 4 bps to 5.039%, a 24-year high.
-
----
-
-### 2026-10-22 14:19:50  #市場 #焦點
-
-法國10年期國債收益率 觸及5.039%的24年新高，上升4個基點。
-
----
-
-### 2026-10-22 14:19:37  #公司
-
-【蘇寧易購2元轉讓寧祺達完成，標的一起票據糾紛將於11月開庭】近日，蘇寧易購公告，南京寧祺達物流有限公司100%股權轉讓已於10月21日完成工商變更登記，受讓方為無錫世景高匯企業管理有限公司，股權轉讓對價為2元。協議約定，受讓方自交割日起將與目標公司集團共同妥善處理全部應付未付債務；轉讓方集團仍是目標公司集團的重要債權人。據天眼查顯示，一起票據利益返還請求權糾紛定於11月2日在金華市金東區人民法院開庭。南京寧祺達物流有限公司、金華杭騰物流有限公司為被告，馬鞍山則一物流有限公司為原告。
-
----
-
-### 2026-10-22 14:19:35  #市場 #國際
-
-【印尼股市反彈 主權財富基金出手託市】印尼股市從早前的跌勢中反彈，該國主權財富基金表示一直在買入本地股票。基準雅加達綜合指數漲幅最大為1.8%，早些時候一度下跌2.7%。反彈走勢延續了此前兩日的上漲勢頭，與亞洲大多數市場的跌勢形成對比。上週五印尼股市遭遇近三十年來最大跌幅，MSCI警告印尼的新興市場地位難保。股市扭轉跌勢是在印尼主權財富基金Danantara表示已出手支撐市場之後。“估值，尤其是大型銀行的估值，正變得越來越有吸引力，但由於MSCI相關的不確定性持續存在，仍然存在進一步拋售的風險，”PT MNC Sekuritas分析師Herditya Wicaksana表示。“這就是投資者目前面臨的困境。”
-
----
-
-### 2026-10-22 14:19:05  #MKT News #Market Regions #Greater China #000001.SS #Impact bearish #000300.SS
-
-China A-share low-altitude economy and flying-car concept stocks continued to slide; Shanggong Shenbei hit the daily limit down, Wanfeng Aowei earlier hit limit down, and Guangzhi Technology, Shuzi Zhengtong and Jindun fell over 10%.
-
----
-
-### 2026-10-22 14:18:35  #其他
-
-【柏長嶺任南京市委常委、市紀委書記】10月21日，中國共產黨南京市第十五屆紀律檢查委員會第七次全體會議召開。市紀委常委會主持會議。市委常委、市紀委書記柏長嶺作《中共南京市紀律檢查委員會向市第十六次黨代會的工作報告（討論稿）》起草說明。（澎湃新聞）
-
----
-
-### 2026-10-22 14:18:15  #MKT News #Commodities #Energy #NG.L #Impact mixed
-
-Ofgem proposes amending the licence of the UK's national gas transmission company.
-
----
-
-### 2026-10-22 14:18:05  #行業 #公司 #市場 #焦點
-
-【低空經濟、飛行汽車概念股持續走低，上工申貝觸及跌停】低空經濟、飛行汽車概念股持續走低，上工申貝觸及跌停，萬豐奧威此前跌停，光智科技、數字政通、金盾股份跌超10%。
-
----
-
-### 2026-10-22 14:17:30  #焦點 #A股
-
-【中際旭創A股成交額超200億元】中際旭創A股成交額超200億元，現跌超6%。
-
----
-
-### 2026-10-22 14:16:54  #MKT News #Important
-
-The Ministry of Industry and Information Technology’s National Vulnerability Database (NVDB) issued a risk warning urging mitigation of an extremely critical remote code execution vulnerability in PHP.
-
----
-
-### 2026-10-22 14:16:36  #Trading Economics #Economy #Denmark #Consumer Confidence #Importance 1
-
-Danish Consumer Morale Falls to 5-Month Low — Denmark’s consumer confidence fell to -17.2 in October 2026 from -13.7 in the previous month, dropping below the six-month average of -15.7 and marking the lowest reading since May, as all categories deteriorated. Assessments of consumers’ financial situation worsened both over the past 12 months (-11.1 vs -8.6 in September) and over the next year (-5.9 vs -3.7). Perceptions of the country’s economic situation also deteriorated, both for the current period (-27.8 vs -22.5) and the year ahead (-26.1 vs -19.2). Consumers’ willingness to make major purchases became more pessimistic (-15.2 vs -14.3). Among other indicators, assessments of current price growth increased (34 vs 28), while inflation expectations for the next 12 months rose (33.5 vs 31.9). Concerns about unemployment over the next year also increased (22 vs 19.2).
-
----
-
-### 2026-10-22 14:16:26  #MKT News #Commodities #Energy
-
-Kpler data show Asian LNG arrivals in October are estimated at 23.31 mln tonnes, the strongest since July's 23.38 mln tonnes.
-
----
-
-### 2026-10-22 14:16:05  #公司
-
-【工信部NVDB釋出關於防範PHP遠端程式碼執行超危漏洞的風險提示】工業和資訊化部網路安全威脅和漏洞資訊共享平臺（NVDB）監測發現，PHP存在兩個遠端程式碼執行超危漏洞，危害嚴重。PHP是一款廣泛用於Web開發的開源伺服器端指令碼語言。由於其存在兩個超危遠端程式碼執行漏洞，未經身份驗證的攻擊者可利用其遠端執行任意程式碼，造成伺服器受控、敏感資訊洩露、業務中斷等危害。受影響的PHP範圍包括：8.5系列＜8.5.12、8.4系列＜8.4.27、8.3系列＜8.3.36、8.2系列＜8.2.35、8.1系列及更早版本。目前，PHP安全團隊已修復漏洞併發布安全公告（URL連結：https://www.php.net/archive/2026.php#2026-10-21-5）。建議相關單位和使用者立即開展全面排查，及時升級至最新安全版本，或採取臨時下線、關閉會話上傳進度功能、網路隔離、網路訪問限制等臨時防護措施；加強網路安全監測和管理，及時修改賬號、口令和金鑰等憑證，防範網路攻擊風險。（工信部）
-
----
-
-### 2026-10-22 14:14:56  #MKT News
-
-YONHAP: South Korean government has raised its cybersecurity alert level, citing a PHP vulnerability.
-
----
-
-### 2026-10-22 14:14:05  #國際
-
-市場訊息：韓國政府因PHP漏洞提高網路安全警報級別。
-
----
-
-### 2026-10-22 14:11:59  #MKT News #Market Themes #AI Revolution #9984.T #Impact bearish
-
-【AI investment worries rise; SoftBank market value could halve from June peak】Rising borrowing costs and investor doubts about the sustainability of large-scale AI investment have increased the risk that SoftBank Group’s market value could fall by about half from its June peak. Shares slipped as much as 6.7% on Thursday, leaving them roughly 50% below the June 2 record high. US tech earnings failed to soothe investor concerns. Bonds of US cloud provider CoreWeave fell to levels signaling credit stress, highlighting industry funding risk and amplifying fears over global AI spending. Kazuyuki Muramatsu, head of investments at Nagomi Capital, said SoftBank’s high leverage and rising borrowing costs magnify its vulnerability; if market sentiment on AI growth turns more pessimistic, the Vision Fund could face valuation losses and SoftBank may pay higher premiums on future fundraising.
-
----
-
-### 2026-10-22 14:11:37  #公司 #國際
-
-【招商證券國際：下調福耀玻璃目標價至76港元，維持“增持”評級】招商證券國際發表報告指，福耀玻璃第三季淨利潤20.36億元，同比及環比均跌9.9%，低於市場預期的20.7億元。剔除匯兌損失、美國工廠火災修復及一次性售後服務費合計約4.32億元后，測算稅前利潤約29.19億元，同比升0.5%，較市場預期低4.4%。該行下調2026至2028年利潤預測11%、8%及9%，以反映匯兌影響、國內車市恢復乏力及其他一次性因素，並將目標價由83港元下調至76港元，相當於2027年財政年度16.2倍市盈率，維持“增持”評級。該行認為，儘管第三季業績低於預期，公司在產業鏈中的地位並未動搖，電動化、智慧化帶來持續產品創新機遇，預期2027年國內車市企穩後，公司有望恢復收入及利潤雙位數增長。
-
----
-
-### 2026-10-22 14:11:02  #市場 #國際
-
-20年期日本國債收益率<JP20YTN=JBTC>下降2.5個基點，至3.68%。
-
----
-
-### 2026-10-22 14:10:59  #MKT News #Market Regions #Japan & APAC
-
-Japan's 20-year bond yield fell 2.5 bps to 3.68%.
-
----
-
-### 2026-10-22 14:10:07  #市場
-
-【主力資金：轉融券標的板塊淨流出超473億】截至目前，今日主力資金淨流出524.99億；淨流入電機Ⅲ、電機Ⅱ、減速器等板塊，其中電機Ⅲ板塊淨流入9.56億；淨流出轉融券標的、融資融券、納入富時羅素等板塊，其中轉融券標的板塊淨流出473.69億。
-  
-個股方面，華天科技淨買入5.62億元位居首位，N通則、沈鼓集團、大洋電機主力資金淨流入居前；中際旭創淨賣出19.80億元位居首位，新易盛、寧德時代、東山精密淨流出額居前。
-
----
-
-### 2026-10-22 14:08:16  #MKT News #Commodities #Energy
-
-【Shanxi unconventional natural gas output in first three quarters hits record high】Shanxi’s unconventional natural gas production totaled 14.99 bcm in the first three quarters, up 10.1% YoY and a record for the period. 1H output exceeded 10.05 bcm; September alone was 1.65 bcm. Authorities say the rise bolsters supply for this winter and next spring’s clean-heating campaign, stabilizes regional energy supply and contributes gas for interregional transfers.
-
----
-
-### 2026-10-22 14:08:08  #國際
-
-【印度9月份從中東進口的石油量回升至戰前水平】船舶追蹤資料顯示，9月份印度從中東進口的原油量大幅增長，已回升至戰前水平；與此同時，由於競爭加劇，印度煉油商削減了對俄羅斯石油的採購。隨著中東產油國和貿易商透過霍爾木茲海峽加大發貨量，印度煉油商紛紛搶購現貨，這緩解了此前因伊朗相關衝突而導致的供應緊張局面。
-
----
-
-### 2026-10-22 14:08:04  #國際
-
-【印度：小盤股漲勢遇阻，融資買股規模回落】散戶投資者降低風險敞口，印度股市槓桿交易規模將迎來3月以來首次月度下滑。截至10月19日，融資持倉規模為1.56萬億盧比，低於9月創紀錄的1.6萬億盧比。油價高企給印度股市帶來壓力，中小盤股在9月初創出新高後領跌，融資規模隨之回落。
-
----
-
-### 2026-10-22 14:07:51  #其他
-
-特斯拉：2030年目標年產500萬輛。
-
----
-
-### 2026-10-22 14:07:22  #市場 #焦點
-
-甲醇連續主力合約日內漲4%，現報3236.00元。
-
----
-
-### 2026-10-22 14:07:08  #其他
-
-【前三季度山西非常規天然氣產量創歷史同期新高】今年前三季度山西非常規天然氣累計產量達到149.9億立方米，同比增長10.1%，創歷史同期產量新高，為保障今冬明春清潔供暖、穩定區域能源供應提供了有力支撐。今年以來，山西非常規天然氣增產勢頭明顯。上半年產量突破100.5億立方米，進入9月後，產量繼續保持增長，單月產量達到16.5億立方米。隨著冬季供暖季臨近，山西非常規天然氣穩產保供的意義更加凸顯，山西依託本土資源稟賦持續增產，不僅為省內城鄉居民清潔取暖提供保障，也為跨區域能源調配貢獻了氣源。（新華社）
-
----
-
-### 2026-10-22 14:06:39  #其他
-
-利比亞管道關停導致哈馬達、塔哈拉油田日產量減少1萬桶。
-
----
-
-### 2026-10-22 14:06:28  #其他
-
-輸送哈馬達、塔哈拉油田原油的利比亞管道已關閉。
-
----
-
-### 2026-10-22 14:06:10  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
-
-【India's September Middle East oil imports rebound to pre-war levels】Ship-tracking data show India's September crude imports from the Middle East rose sharply to pre-war levels. Amid increased competition, Indian refiners reduced purchases of Russian crude. As Middle Eastern producers and traders boosted shipments via the Strait of Hormuz, refiners rushed into the spot market, easing supply tightness that had followed Iran-related conflict.
-
----
-
-### 2026-10-22 14:06:04  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Ukraine's air force said it shot down 181 Russian drones overnight that attacked multiple regions of Ukraine.
-
----
-
-### 2026-10-22 14:03:39  #其他
-
-【機構：預估2027年伺服器CPU出貨年增破40%，Arm-Based產品市佔持續擴大】根據TrendForce集邦諮詢最新AI伺服器產業研究，隨著各AI服務廠商積極推出AI Agent相關應用，伺服器CPU需求自2025年下半年起穩步成長，預估2026年出貨年增幅將達31%。2027年由於AI推理需求持續成長、Agentic AI服務滲透率提升，伺服器CPU出貨量有望再年增逾40%，不過以x86陣營主導的市場格局可能出現變化。
-
----
-
-### 2026-10-22 14:03:13  #市場 #焦點
-
-南向資金淨賣出額達60億港元。
-
----
-
-### 2026-10-22 14:03:00  #MKT News #DXY #Impact bullish #XAUUSD #S&P500 #Impact bearish
-
-IMF: 'Very high uncertainty' clouds the economic outlook.
-
----
-
-### 2026-10-22 14:02:34  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-IMF: Further disruption to energy production or trade routes could push up energy prices, weaken economic growth and intensify inflationary pressures.
-
----
-
-### 2026-10-22 14:02:26  #MKT News
-
-IMF projects economic growth in the Caucasus and Central Asia at 5.2% in 2026, slowing to 5.0% in 2027.
-
----
-
-### 2026-10-22 14:02:14  #國際
-
-國際貨幣基金組織：預測中東、北非及巴基斯坦地區經濟在2026年將萎縮1.3%，2027年則將反彈，實現6.6%的增長。預計高加索和中亞地區2026年經濟增長率為5.2%，2027年將放緩至5%。
-
----
-
-### 2026-10-22 14:02:04  #MKT News
-
-International Monetary Fund forecasts the economies of the Middle East, North Africa and Pakistan will contract 1.3% in 2026, then rebound to 6.6% growth in 2027.
-
----
-
-### 2026-10-22 14:01:40  #其他
-
-超微電腦推出英偉達Vera CPU機架，這是一款搭載256顆CPU、採用100%液冷設計的機架級解決方案，可與英偉達Vera Rubin平臺配套使用，支援大規模智慧體人工智慧應用。
-
----
-
-### 2026-10-22 14:01:35  #MKT News #DAX #Impact bearish #FTSE100
-
-EUROSTOXX 50 futures fell 0.95%, DAX futures fell 0.71% and FTSE futures fell 0.43%.
-
----
-
-### 2026-10-22 14:01:26  #MKT News #SMCI.O #Impact bullish #NVDA.O
-
-Super Micro Computer (SMCI.O) launched an NVIDIA Vera CPU rack — a rack-level system with 256 CPUs and a 100% liquid-cooled design, compatible with NVIDIA's Vera Rubin platform and targeted at large-scale agent-based AI workloads.
-
----
-
-### 2026-10-22 14:01:11  #其他
-
-巴克萊第三季度固定收益、外匯及大宗商品收入10.1億英鎊，預估12.8億英鎊。第三季度股票業務收入10.1億英鎊，預估8.422億英鎊。第三季度投行業務手續費收入6.56億英鎊，預估6.611億英鎊。第三季度利潤總額73.7億英鎊，預估76.2億英鎊。第三季度淨利息收入39.1億英鎊，預估39.1億英鎊。第三季度除稅前利潤23.2億英鎊，預估24.4億英鎊。
-
----
-
-### 2026-10-22 14:01:07  #公司
-
-【廈門國貿稀貴金屬有限公司登記成立 註冊資本1億】天眼查顯示，近日，廈門國貿稀貴金屬有限公司成立，法定代表人為林海宇，註冊資本1億元人民幣，經營範圍包括金屬材料銷售、新型金屬功能材料銷售、有色金屬合金銷售等。股東資訊顯示，該公司由廈門國貿同歆實業有限公司、廈門國貿寶達潤實業有限公司分別持股95%、5%。
-
----
-
-### 2026-10-22 14:00:56  #市場
-
-新臺幣兌美元下跌0.3%至32.590。
-
----
-
-### 2026-10-22 14:00:42  #公司 #觀點
-
-【高盛：安踏第四季開局穩健，評級“買入”】高盛發表研報指，安踏體育管理層透露第四季開局穩健，國慶假期銷售表現好過高盛的渠道檢查，雙11預售大致符合預期。高盛預料，明年農曆新年較今年提早11日，將進一步利好第四季銷售，管理層仍有信心達致並維持全年指引，目前預測集團明年純利可錄得雙位數增長，並受惠於Puma在中國的潛在協同效應及較早農曆新年的利好，給予目標價105港元，評級“買入”。
-
----
-
-### 2026-10-22 14:00:38  #市場 #國際
-
-歐洲斯托克50期貨<STXEc1>下跌0.95%，德國DAX期貨<FDXc1>下跌0.71%，富時期貨<FFIc1>下跌0.43%。
-
----
-
-### 2026-10-22 14:00:23  #其他
-
-愛馬仕第三季度亞太地區營收（按固定匯率計算）增長0%，預計增長1.55%。
-
----
-
-### 2026-10-22 14:00:04  #公司
-
-【重慶產投母基金、華潤微電子等成立私募股權基金】企查查APP顯示，近日，重慶潤西芯科私募股權投資基金合夥企業（有限合夥）成立，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由重慶產業投資母基金合夥企業（有限合夥）、央企戰略性新興產業發展基金有限責任公司、華潤微電子控股有限公司等共同出資。
-
----
-
-### 2026-10-22 13:59:57  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-ASX 200 Closes 0.4% Lower — The ASX 200 fell 38 points, or 0.4%, to finish at 8,793 on Thursday, erasing modest gains in the previous session as U.S. stock futures weakened amid higher oil prices and mounting concerns about AI investment. Caution also emerged ahead of Australia’s flash October PMI data due Friday. Meanwhile, Reserve Bank Deputy Governor Hauser said inflation remains more persistent than expected, with September headline CPI at 4%, reinforcing expectations of another rate hike in November. Consumer discretionary, mining, and energy stocks led declines, while gains in logistics, transport, and utilities helped limit losses. BHP Group tumbled 2.3% amid operational disruptions at key assets, including the Escondida mine in Chile. Woodside Energy fell 3.2%, Wesfarmers lost 2.9%, while BlueScope Steel eased 1.4%. Codan Ltd. plunged 7.4% after an off-market block trade worth AUD 312 million, reportedly involving the sale of roughly 23% of the stake held by its largest individual shareholder.
-
----
-
-### 2026-10-22 13:59:49  #公司
-
-【斯萊克：金剛石銅複合冷板專案獲階段性成果 將啟動量產前置工作】近日，斯萊克召開熱控專案成果彙報會。經公司基礎效能測試，本次開發的金剛石銅冷板具備超高導熱、低熱膨脹係數優勢，能夠解決高功率AI晶片的熱障難題，適配算力伺服器、大功率半導體器件等高階熱管理場景。公司熱控團隊結合氣壓熔滲法，燒結法和擴散焊等工藝，推進晶片封裝散熱與伺服器散熱冷板兩類產品開發。目前公司金剛石銅複合冷板專案取得階段性成果，熱控團隊已完成樣品開發與效能驗證，將啟動量產前置工作。
 
 ---

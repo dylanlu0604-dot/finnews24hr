@@ -1,7 +1,655 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-10-26 01:50:07_
-_本檔包含 2739 則快訊，約 497603 字_
+_更新時間：2026-10-26 04:43:55_
+_本檔包含 2824 則快訊，約 498585 字_
+
+---
+
+### 2026-10-26 04:41:37  #國際
+
+【特朗普在密歇根州宣佈多家車企投資建廠計劃】美國總統特朗普在密歇根州集會時宣佈，Stellantis將在該州投資4億美元新建工廠，福特向密歇根中部投入30億美元，通用汽車投入數十億美元，把生產業務遷回底特律。
+
+---
+
+### 2026-10-26 04:40:52  #MKT News #Important
+
+【Brazil presidential runoff: voting end time extended by two hours】Brazil's 2026 presidential runoff began at 08:00 BRT on the 25th. The Supreme Federal Court ruled to extend poll closing from 17:00 to 19:00 BRT (04:00–06:00 Beijing time on the 26th; 20:00–22:00 UTC) to address widespread public-transport stoppages and heavy rain that disrupted voting. Vote-counting is expected within hours after polls close. In the first round on the 4th, Liberal Party candidate Flavio Bolsonaro won about 47% of valid votes and led incumbent President Luiz Inácio Lula da Silva of the Workers' Party by roughly 2 percentage points; recent polls show the contest remains tight.
+
+---
+
+### 2026-10-26 04:39:23  #MKT News
+
+Trump said Canada is willing to give the U.S. anything right now.
+
+---
+
+### 2026-10-26 04:38:55  #國際
+
+特朗普：我阻止了伊朗的核威脅，這一威脅本可能帶來災難性後果。
+
+---
+
+### 2026-10-26 04:38:05  #國際
+
+特朗普談加拿大：加拿大此刻願意給我們任何東西。
+
+---
+
+### 2026-10-26 04:33:20  #其他
+
+塞爾維亞領導人武契奇：學生名單陣營獲得超過200萬張選票。
+
+---
+
+### 2026-10-26 04:32:36  #其他
+
+塞爾維亞領導人武契奇承認在提前選舉中落敗。
+
+---
+
+### 2026-10-26 04:29:46  #其他
+
+【巴西總統選舉第二輪投票結束時間將延後兩小時】巴西聯邦最高法院25日作出裁定，將當天巴西總統選舉第二輪投票結束時間由巴西利亞時間17時（北京時間26日4時）延長至19時（北京時間26日6時），以應對多地公共交通停擺和強降雨對選民投票造成的影響。（新華社）
+
+---
+
+### 2026-10-26 04:22:59  #MKT News
+
+Brazil's electoral authority said vote counting was suspended after the Supreme Court ruled to extend voting hours.
+
+---
+
+### 2026-10-26 04:22:49  #其他
+
+巴西選舉管理機構表示，在最高法院裁定延長投票時間後，計票工作已暫停。
+
+---
+
+### 2026-10-26 04:22:41  #國際
+
+特朗普：任何希望從丹麥進入美國的人，都全力支援；但對於索馬利亞人，“我已經受夠他們了”；更青睞丹麥。
+
+---
+
+### 2026-10-26 04:20:37  #MKT News
+
+TRUMP: I didn't receive the Nobel Prize, so I don't want any Norwegians. Norway is terrible.
+
+---
+
+### 2026-10-26 04:20:30  #其他
+
+Kimi：對於K3.1 Pro訂閱套餐出現的速率限制及不必要的配額消耗問題深表歉意。今天，所有訂閱套餐的使用者都將獲得一次性使用配額重置，恢復25%的月使用額度（已使用額度低於25%的使用者使用量將重置為零），相當於一週的使用額度。
+
+---
+
+### 2026-10-26 04:20:25  #MKT News
+
+Kimi announced a one-time quota reset for K3.1 Pro subscribers effective today after rate-limit and excess-quota consumption issues. All subscribers will receive a restoration equal to 25% of the monthly allowance; subscribers with cumulative usage below 25% will have their used amount reset to zero. The reset is equivalent to roughly one week’s usage.
+
+---
+
+### 2026-10-26 04:19:27  #MKT News
+
+【Advance voting opens for New Zealand 2026 election】Advance voting for New Zealand's 2026 general election opened on Oct. 26 and will run through Nov. 7, the Electoral Commission said. Under the mixed-member proportional system each voter has two votes: one for a party and one for a constituency MP. Nationwide election day is Nov. 7; the commission will operate more than 2,300 polling places, including community centres, schools, shopping centres, tertiary institutions and Māori community sites. The election outcome will determine Parliament's party composition and government formation.
+
+---
+
+### 2026-10-26 04:19:16  #其他
+
+【紐西蘭2026年大選提前投票啟動】紐西蘭2026年大選提前投票於10月26日啟動。根據紐西蘭選舉委員會公佈的日程，提前投票將持續至11月7日，選民可在規定時間內前往指定投票地點投票。根據紐西蘭的混合比例選舉制規定，每位公民有2張選票，一張選擇支援的政黨，另一張選擇支援的本選區議員候選人。大選最終結果將影響下一屆議會的政黨構成及政府組建。紐西蘭選舉委員會此前公佈，11月7日全國大選日將設2300多個投票地點，覆蓋社群活動中心、學校、購物中心、高等教育機構及毛利社群等場所。 (央視新聞)
+
+---
+
+### 2026-10-26 04:17:41  #國際
+
+特朗普：挪威已經變成一個糟糕的國家，挪威很差勁。
+
+---
+
+### 2026-10-26 04:12:37  #MKT News
+
+Brazil presidential runoff: with 0.25% of votes counted, incumbent Lula leads with 57.66% of the vote; Flávio Bolsonaro has 42.34%.
+
+---
+
+### 2026-10-26 04:11:24  #MKT News
+
+Brazil's Supreme Court extended voting hours in the national election by two hours due to transportation disruptions.
+
+---
+
+### 2026-10-26 04:10:51  #其他
+
+巴西大選計票顯示，在已經統計的0.25%選票當中，盧拉得票率57.7%，博索納羅得票率42.3%。
+
+---
+
+### 2026-10-26 04:09:19  #國際
+
+特朗普談索馬利亞：索馬利亞也許是世界上最糟糕的國家。沒有政府，什麼都沒有。他們只會殺人。他們殺人，還襲擊船隻。說實話，我很驚訝他們居然連這個都做得到。他們沒有國家，沒有政府，什麼都沒有。他們沒有警察，只是到處跑來跑去互相開槍。
+
+---
+
+### 2026-10-26 04:08:47  #MKT News
+
+Brazil's Supreme Court ruled to extend voting hours for the presidential election.
+
+---
+
+### 2026-10-26 04:08:43  #其他
+
+巴西最高法院法官裁定，投票時長延長兩小時。
+
+---
+
+### 2026-10-26 04:08:35  #國際
+
+特朗普：希望法國採取更強硬立場。
+
+---
+
+### 2026-10-26 04:06:36  #其他
+
+雷朋繼承人啟動715萬歐元盡職調查，擬收購義大利媒體Fatto。
+
+---
+
+### 2026-10-26 04:05:12  #其他 #焦點
+
+檔案顯示，巴西最高法院裁定延長總統決選投票時間。
+
+---
+
+### 2026-10-26 04:04:37  #國際
+
+以色列總理內塔尼亞胡稱伊朗試圖干預選舉，其與參謀長在此事上不存在分歧。
+
+---
+
+### 2026-10-26 04:01:50  #國際
+
+特朗普：如果民主黨取得選舉勝利，他們將會放開限制，大量聖戰分子湧入美國，暴力與恐怖亂象將蔓延開來，最終美國人連安穩過聖誕節都難以實現。
+
+---
+
+### 2026-10-26 04:00:59  #國際
+
+斯洛伐克政府代表團已抵達莫斯科，代表團由該國外交和歐洲事務部長尤拉伊·布拉納爾率領。
+
+---
+
+### 2026-10-26 04:00:37  #其他
+
+巴西總統選舉第二輪投票結束。
+
+---
+
+### 2026-10-26 04:00:20  #MKT News
+
+A Slovak government delegation led by Foreign and European Affairs Minister Juraj Blanár has arrived in Moscow.
+
+---
+
+### 2026-10-26 03:58:17  #市場
+
+布倫特原油上漲1.8%，市場擔憂美伊和談進展以及霍爾木茲航運受阻風險。
+
+---
+
+### 2026-10-26 03:56:25  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Israel's prime minister NETANYAHU said Iran is like a wounded scorpion and may launch an attack on Israel at the 11th hour.
+
+---
+
+### 2026-10-26 03:54:16  #其他
+
+馬斯克：（400億美元）這主要是用於購買GPU的可贖回債務，將在第一季度和第二季度到位，本季度不是主要因素。
+
+---
+
+### 2026-10-26 03:49:51  #MKT News
+
+President Trump said it is too early to say who will run in the 2028 election.
+
+---
+
+### 2026-10-26 03:49:24  #國際
+
+特朗普提及萬斯和魯比奧，稱他們可能是2028年總統大選的共和黨候選人。
+
+---
+
+### 2026-10-26 03:48:53  #國際
+
+特朗普提到萬斯和魯比奧是2028年大選潛在競爭者。
+
+---
+
+### 2026-10-26 03:48:37  #國際
+
+特朗普：現在說誰將參加2028年競選還為時過早。
+
+---
+
+### 2026-10-26 03:44:32  #國際
+
+以色列總理內塔尼亞胡表示，歐洲正流失寶貴勞動力，民眾從封閉經濟體出走，投向以色列這類開放的經濟體。他認為以色列應當成為這些投資者與企業家的主要目的地。
+
+---
+
+### 2026-10-26 03:44:18  #國際
+
+以色列總理內塔尼亞胡表示，歐洲左翼勢力抬頭，致使大量企業家、商界人士以及企業向外遷移，前往營商環境更友好的國家。
+
+---
+
+### 2026-10-26 03:43:56  #國際
+
+以色列總理內塔尼亞胡表示，他在以色列看到許多歐洲所不具備的景象。他稱歐洲發展日漸落後，以色列隨處可見現代化基礎設施與工程吊機。
+
+---
+
+### 2026-10-26 03:43:10  #MKT News
+
+Musk said SpaceX has completed $40 billion of debt financing to purchase GPUs.
+
+---
+
+### 2026-10-26 03:43:00  #MKT News #Commodities #Energy
+
+NETANYAHU said global electricity prices have surged in some countries by as much as several hundred percent, but Israel has not seen similar increases, saying "we understand economics".
+
+---
+
+### 2026-10-26 03:42:44  #其他
+
+巴西總統盧拉競選團隊請求最高法院在全國範圍內延長投票時間。
+
+---
+
+### 2026-10-26 03:42:32  #其他
+
+英國媒體：英國不會加入加拿大牽頭的防務銀行。
+
+---
+
+### 2026-10-26 03:41:12  #MKT News
+
+US President Trump says he has 99% support in Israel.
+
+---
+
+### 2026-10-26 03:40:56  #其他 #焦點
+
+馬斯克：SpaceX 為購買 GPU 完成了 400 億美元的債務融資。
+
+---
+
+### 2026-10-26 03:39:39  #國際
+
+特朗普稱其在以色列支援率達99%。
+
+---
+
+### 2026-10-26 03:36:03  #其他
+
+巴西大選候選人博索納羅團隊申請巴西兩個州延長投票時間。
+
+---
+
+### 2026-10-26 03:34:13  #其他
+
+市場資訊：英國財政大臣希利支援在羅斯班克進行石油鑽探，此舉可能引發內閣分裂。
+
+---
+
+### 2026-10-26 03:30:33  #MKT News #Market Themes #The Trump Trade
+
+Trump spoke at a rally in Michigan.
+
+---
+
+### 2026-10-26 03:29:57  #國際
+
+特朗普：不擔心伊朗會在數月內重建鈾濃縮能力。
+
+---
+
+### 2026-10-26 03:27:47  #國際
+
+特朗普談及新建汽車工廠事宜：今日將宣佈一項建廠計劃。
+
+---
+
+### 2026-10-26 03:27:15  #其他
+
+阿爾及利亞表決透過，將派遣軍隊保護尼日的石油設施。
+
+---
+
+### 2026-10-26 03:26:36  #國際
+
+特朗普：加美協議可能在中期選舉前達成。
+
+---
+
+### 2026-10-26 03:24:52  #國際
+
+特朗普：（談及與加拿大的貿易問題）希望達成一份恰當的協議，並不追求短期成效，而是著眼長遠；一旦協議落地，這將會是一份對美國十分有利的協議。
+
+---
+
+### 2026-10-26 03:24:21  #國際
+
+特朗普：（談及伊朗核相關動向）太空部隊能夠看到一切，哪怕對方外套上佩戴標識、名字是穆罕默德，都能清晰識別外套上的名字；所有相關地點都處在美方監控當中。
+
+---
+
+### 2026-10-26 03:22:42  #國際
+
+特朗普：與加拿大即將達成協議。
+
+---
+
+### 2026-10-26 03:22:38  #MKT News
+
+【Musk: Debt-market strain will force consolidation among 200+ new compute-cloud firms】Musk said pressure in debt markets will force consolidation in the new compute-cloud sector, with more than 200 firms facing consolidation and only a few able to survive.
+
+---
+
+### 2026-10-26 03:21:44  #國際
+
+伊朗革命衛隊發言人發文嘲諷美國中央司令部司令庫珀上將對霍爾木茲海峽的走訪，配圖是一名美軍軍人在直升機上望向一艘起火油輪的畫面。
+
+---
+
+### 2026-10-26 03:21:06  #其他
+
+【馬斯克：債務市場環境嚴峻，200餘家新型算力雲企業將迎來整合】馬斯克在X平臺發帖，評論新型算力雲企業與債務市場形勢。他表示，受債務市場環境承壓影響，200多家新型算力雲企業將迎來行業整合，僅有少數企業能夠存活下來。
+
+---
+
+### 2026-10-26 03:19:38  #國際
+
+美國媒體：伊朗領導人認為，美國和以色列正準備在短短16個月內對伊朗發動第三次大規模軍事打擊。
+
+---
+
+### 2026-10-26 03:18:51  #國際
+
+美國媒體：即便內塔尼亞胡在週二選舉中落敗，他仍可能對伊朗發動新一輪打擊，以色列和美國的政治考量使進一步軍事行動的決定複雜化。
+
+---
+
+### 2026-10-26 03:18:13  #國際
+
+澤連斯基：烏克蘭2027年需要1150億歐元，其中450億歐元已獲分配但尚未收到，另需籌措700億歐元用於國防和預算融資。
+
+---
+
+### 2026-10-26 03:17:37  #公司
+
+亞馬遜雲科技執行長表示，由於人工智慧需求激增，其雲容量到2027年已全部預訂一空。
+
+---
+
+### 2026-10-26 03:17:16  #其他
+
+西班牙官員稱，一輛客運巴士在巴塞羅那東北部撞上一輛汽車後衝下山坡，造成至少80人受傷。
+
+---
+
+### 2026-10-26 03:10:32  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #Brent
+
+【Zelenskiy: US, Russia, Ukraine plan trilateral technical talks in November】On Oct 25 Zelenskiy said the US, Russia and Ukraine plan to hold three-party technical working talks in November; parties are still negotiating the venue, with Abu Dhabi, other Middle East locations and European cities under consideration. He described the meeting as working-level, intended to pave the way for higher-level leaders’ talks and to prioritize energy infrastructure and a Black Sea-area ceasefire. Russian presidential aide Ushakov told a TV programme on Oct 25 that Moscow is willing to resume three-way talks after Nov 4.
+
+---
+
+### 2026-10-26 03:10:15  #國際
+
+澤連斯基：我們不是向美方提要求，而是提出建議。這將表明認真態度。但如果這只是政治操弄，我們很快就能在11月看出這是不是花招。
+
+---
+
+### 2026-10-26 03:09:44  #國際
+
+【澤連斯基：烏美俄擬於11月舉行三方技術層級工作會談】當地時間10月25日，烏克蘭總統澤連斯基證實，美國、俄羅斯、烏克蘭計劃於11月舉行三方技術層級工作會談。目前各方仍在商議會談地點，候選地包括阿聯酋阿布扎比、中東其他地區以及歐洲城市。澤連斯基表示，本次會談屬於工作層面磋商，目的是為後續更高層級的元首對話創造條件，優先圍繞能源設施、黑海相關區域停火議題展開討論。俄羅斯總統助理烏沙科夫在當地時間10月25日播出的一檔電視節目中稱，俄方願意在11月4日之後恢復俄羅斯、美國、烏克蘭三方談判。（央視新聞）
+
+---
+
+### 2026-10-26 03:08:48  #國際
+
+澤連斯基：已準備好舉行有技術小組參與的三方談判，談判應取得具體成果。
+
+---
+
+### 2026-10-26 03:07:46  #國際
+
+澤連斯基談談判：領土問題只能由國家元首討論，技術性談判可以討論其他問題。
+
+---
+
+### 2026-10-26 03:02:56  #MKT News
+
+Ukraine's president Zelenskiy said he does not want to enter talks with Putin having lost Ukraine's bargaining chips — sanctions, funding or frozen assets — because, as Trump put it, Ukraine would then have few cards left to play.
+
+---
+
+### 2026-10-26 03:02:47  #MKT News
+
+ZELENSKIY said he has long believed Ukraine should not pay such a high price for Russian cooperation, warning that entering trilateral talks after sanctions are lifted could leave Kyiv uncertain about what comes next.
+
+---
+
+### 2026-10-26 03:02:32  #MKT News
+
+Zelenskiy said sanctions were imposed because Russia launched aggression, not to secure a meeting; if the war is judged to be over, lifting sanctions should follow a specific sequence.
+
+---
+
+### 2026-10-26 03:02:27  #國際
+
+澤連斯基表示，在解除對烏克蘭“愛國者”導彈供應的限制方面，進展“非常緩慢”。
+
+---
+
+### 2026-10-26 03:02:21  #MKT News #DXY #Impact bullish #WTI #EURUSD #Impact bearish
+
+Ukrainian President Zelenskiy said he does not want all sanctions on the Russian Federation lifted prior to a trilateral leaders' meeting between Ukraine, the United States and Russia.
+
+---
+
+### 2026-10-26 03:00:49  #MKT News #DXY #Impact bearish
+
+Reuters survey of 23 economists: 13 expect the RBNZ official cash rate (OCR) to remain at 3.00% at year-end; 9 expect a December increase to 3.25%.
+
+---
+
+### 2026-10-26 03:00:31  #MKT News
+
+Reuters survey: 22 of 27 economists expect the RBNZ to hike 25bp on Oct 28, lifting the official cash rate to 3.00%.
+
+---
+
+### 2026-10-26 02:58:03  #MKT News
+
+Ukrainian President Zelenskiy said the Starshield service's operating speed has been restored to a peak of 420 km/h.
+
+---
+
+### 2026-10-26 02:52:31  #MKT News
+
+Ukrainian President Zelenskiy said Kyiv will not trade anything in exchange but is willing to hold talks; territorial issues must be handled at leaders' level while other matters can be handled by technical working groups, and all can be discussed in November.
+
+---
+
+### 2026-10-26 02:52:22  #MKT News #Market Regions #Europe & UK
+
+Ukrainian President Zelenskiy said Ukraine must decide its own security guarantees and will not accept Russia dictating terms; proposals to cap the size of Ukrainian forces or to require Ukrainian neutrality are off the table. He said territorial issues are a red line that can only be negotiated at leaders’ level, and that the United States has long proposed territorial exchanges—referred to as "land swaps"—though other proposals remain open for discussion.
+
+---
+
+### 2026-10-26 02:51:51  #焦點 #國際
+
+澤連斯基稱11月將舉行美俄烏三方會談。
+
+---
+
+### 2026-10-26 02:51:45  #MKT News
+
+Ukraine's president ZELENSKIY says a trilateral US-Ukraine-Russia meeting will be held in November.
+
+---
+
+### 2026-10-26 02:50:15  #焦點 #國際
+
+澤連斯基表示，美國關於俄羅斯彈道導彈襲擊預警的情報共享已全面恢復，星盾服務的執行速度已恢復至最高每小時420公里。
+
+---
+
+### 2026-10-26 02:47:13  #MKT News
+
+ZELENSKIY said air-defence problems remain unresolved. He said supply of missiles for Patriot systems has seen some progress but deliveries are extremely slow—slower than the flight speed of Russian missiles—and that pledging missiles then delaying delivery by one or two months is unacceptable.
+
+---
+
+### 2026-10-26 02:47:07  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+ZELENSKIY said that, as of today, two issues with the U.S. — intelligence sharing and restrictions on Starlink and Starshield systems — have been resolved.
+
+---
+
+### 2026-10-26 02:46:58  #MKT News #XAUUSD #Impact bullish #DXY
+
+President ZELENSKIY said in talks with US officials in Oslo he faces three main challenges: a shortage of air-defense systems; limits on use of Starlink and Starshield; and US restrictions on intelligence sharing.
+
+---
+
+### 2026-10-26 02:46:46  #其他
+
+宣告顯示：阿爾及利亞議會投票贊成向尼日派遣軍隊的決議。
+
+---
+
+### 2026-10-26 02:46:06  #MKT News
+
+Lula's campaign asked authorities to extend polling hours nationwide in Brazil.
+
+---
+
+### 2026-10-26 02:38:51  #MKT News
+
+Yemen armed forces spokesman said they will continue to intensify attacks on the Houthi armed group, targeting its capabilities.
+
+---
+
+### 2026-10-26 02:33:15  #國際
+
+以色列國防軍：在黎巴嫩南部行動的區域發現一個可疑空中目標，隨後向其發射了一枚攔截彈。按照規程，未拉響警報。
+
+---
+
+### 2026-10-26 02:31:12  #國際
+
+一名美國官員表示，美國對伊朗實施打擊已經不是“是否會發生”的問題，而是“何時發生”的問題，特朗普正準備調整相關策略。
+
+---
+
+### 2026-10-26 02:26:54  #其他
+
+五角大樓：赫格塞思將出席東盟防長會議。
+
+---
+
+### 2026-10-26 02:26:18  #國際
+
+五角大樓：防長赫格塞思將訪問菲律賓出席東盟會議。
+
+---
+
+### 2026-10-26 02:24:56  #公司 #國際
+
+美國大型非營利醫療集團Bon Secours即將以60億美元收購上市外科服務公司Surgery Partners。
+
+---
+
+### 2026-10-26 02:23:42  #MKT News
+
+Iran's Islamic Revolutionary Guard Corps said time has proven the veracity of its late martyred leader's statements.
+
+---
+
+### 2026-10-26 02:21:38  #其他
+
+巴西總統盧拉競選團隊將申請延長投票時間。盧拉同時抱怨，巴西多座城市存在公共交通運力不足的問題。
+
+---
+
+### 2026-10-26 02:12:12  #其他
+
+塞爾維亞國家選舉委員會表示，截至下午6點，塞爾維亞議會選舉的投票率達到64.9%，為1992年南斯拉夫解體以來的最高水平。
+
+---
+
+### 2026-10-26 02:03:50  #公司
+
+【胡塞武裝：對沙特多地發動三輪導彈打擊作為報復】葉門胡塞武裝釋出武裝部隊宣告稱，針對沙特對葉門的侵略行動，以及昨日沙特在薩那及葉門多地製造、造成數十人死傷（遇難者多為婦女與兒童）的襲擊慘案，葉門武裝部隊實施了三次特種軍事行動，動用數十枚彈道導彈。
+
+首輪行動目標為沙特首都利雅得的哈立德國王國際機場。第二輪打擊哈姆伊斯穆賽特的哈立德國王空軍基地，瞄準機庫、彈藥庫、無人機指揮中心以及多處重要設施。第三輪打擊吉讚的邊境警衛南方海軍基地，造成沙特官兵傷亡。
+
+胡塞武裝表示，葉門武裝部隊將持續保衛本國與民眾。武裝部隊再次警告國際及地區航空公司、工作人員與旅客，避開利雅得哈立德國王國際機場航線，該機場現已不安全；除麥加、麥地那聖地上空空域外，沙特其餘空域均存在風險
+
+胡塞武裝稱，將持續向沙特縱深發起行動，堅持以封鎖反制封鎖、以升級回應升級，持續打擊沙特軍事力量，直至侵略行動停止、解除對葉門的封鎖。
+
+---
+
+### 2026-10-26 02:02:37  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Houthi forces say they launched dozens of ballistic missiles at Saudi Arabia in three operations】Houthi forces said they launched dozens of ballistic missiles at Saudi Arabia yesterday in three separate operations, calling the strikes retaliation for Saudi attacks on Sanaa and other Houthi-held provinces that they say killed dozens, mostly women and children. The first operation targeted King Khalid International Airport in Riyadh, which the Houthis said achieved its objectives. The second struck King Khalid Air Base in Khamis Mushait, hitting aircraft hangars, munitions depots, a drone-control centre and other key facilities; the group said missiles precisely struck their targets. The third operation hit a southern naval base of border forces in Jizan; the Houthis said the attack struck its targets and caused Saudi military casualties.
+
+---
+
+### 2026-10-26 02:02:04  #其他
+
+葉門胡塞武裝稱襲擊了吉讚的海軍基地。
+
+---
+
+### 2026-10-26 02:01:49  #其他
+
+葉門胡塞武裝稱襲擊了海米斯穆謝特的空軍基地。
+
+---
+
+### 2026-10-26 02:01:46  #其他
+
+葉門胡塞武裝稱襲擊了沙烏地阿拉伯的利雅得機場。
+
+---
+
+### 2026-10-26 01:57:52  #國際
+
+美國國務卿魯比奧：美方希望所有相關方都支援和解談判。
+
+---
+
+### 2026-10-26 01:53:35  #MKT News
+
+Iranian President PEZESHKIAN said January's nationwide anti-government protests were primarily driven by social issues, and that citizens would cooperate if they trust the government and believe authorities are committed to helping and resolving their problems.
+
+---
+
+### 2026-10-26 01:52:31  #國際
+
+美國國務卿魯比奧：允許馬查多安全返回委內瑞拉的條件是美國支援的和解談判的直接結果。
+
+---
+
+### 2026-10-26 01:49:48  #市場
+
+歐元兌美元自10月低點反彈1.4%，在1.1156位置遇阻。
 
 ---
 
@@ -16396,137 +17044,5 @@ Russia | Bank of Russia Interest Rate Decision (Oct.23) | actual 14% | consensus
 ### 2026-10-23 18:19:23  #公司
 
 【帝科股份：股東持股比例被動稀釋降至5%以下】帝科股份公告稱，因公司實施第二類限制性股票歸屬，總股本由14527.97萬股增至14611.91萬股，原持股5%以上股東富海東超專享一號私募證券投資基金持股數量不變，為726.4萬股，持股比例被動稀釋0.03個百分點至4.97%，不再是公司持股5%以上股東。本次權益變動不涉及公司控股股東及實際控制人，不會導致公司控制權發生變更。富海東超承諾在協議轉讓標的股份過戶登記完成後的12個月內不減持本次所受讓的公司股份。
-
----
-
-### 2026-10-23 18:19:15  #公司
-
-【粵傳媒：擬開立回購專用證券賬戶接收司法劃轉股份】粵傳媒公告稱，公司董事會審議透過議案，同意向中國證券登記結算有限責任公司深圳分公司申請開立回購專用證券賬戶，用於接收司法執行劃轉的本公司股份，將配合辦理司法非交易過戶，同時授權管理層全權辦理賬戶開立、資料提交、過戶對接等相關事宜。上述股份劃入回購專戶後，公司將依規辦理股份登出、減少註冊資本等事宜，後續相關事項另行履行審議程式及資訊披露義務。
-
----
-
-### 2026-10-23 18:18:17  #公司
-
-塔塔汽車有限公司：即使下半年的增長率預計將因基數較高而有所放緩，公司在2027財年仍將保持良好的增長態勢。
-
----
-
-### 2026-10-23 18:18:11  #公司
-
-【迪貝電氣：2026年第三季度淨利潤1893.23萬元，同比下降15.97%】迪貝電氣公告，2026年第三季度營業收入2.45億元，同比增長0.30%；歸母淨利潤1893.23萬元，同比下降15.97%；扣非淨利潤1701.64萬元，同比下降18.92%。2026年前三季度營業收入7.54億元，同比增長1.68%；歸母淨利潤5180.49萬元，同比下降20.30%；扣非淨利潤4794.52萬元，同比下降22.58%。
-
----
-
-### 2026-10-23 18:18:08  #公司
-
-【首部AI院線電影今起上映 首日場次近1.1萬場】10月23日，由博納影業出品製作的國內首部運用AI技術製作並取得國家電影局公映許可證的院線電影《三星堆：未來往事》正式上映。截至10月23日18時，該片全天排映場次已接近1.1萬場，10月24日排映已超過1.3萬場。（證券時報）
-
----
-
-### 2026-10-23 18:18:05  #公司
-
-【佰維儲存：獲控股股東提議回購2億元-2.5億元股份】佰維儲存公告稱，2026年以來儲存行業景氣度提升，公司把握機遇拓展AI等應用市場，推進“儲存+晶圓級先進封測”雙輪驅動戰略。2026年以來公司累計派發現金紅利約3億元，於10月19日完成股份回購，累計回購金額約2.5億元，回購股份全部用於登出減資。10月15日，公司控股股東、實控人、董事長孫成思提議公司以2億元至2.5億元回購股份，全部用於登出及減少註冊資本，公司將推進回購方案論證及審議程式。
-
----
-
-### 2026-10-23 18:17:58  #公司
-
-【ST三木：涉金融借款合同糾紛 涉案金額約4589.22萬元】ST三木公告稱，公司及全資子公司福建武夷山三木自駕遊營地有限公司等因金融借款合同糾紛，被平安銀行股份有限公司福州分行起訴，涉案金額暫計約4589.22萬元。本案已由福州市鼓樓區人民法院立案受理，將於2026年11月12日開庭審理，目前尚未開庭，訴訟最終結果及對公司利潤的影響尚存在不確定性。截至公告披露日，公司及子公司其他未達披露標準的小額訴訟、仲裁事項總金額約8778.22萬元，佔公司最近一期經審計淨資產的72.76%。
-
----
-
-### 2026-10-23 18:17:44  #公司
-
-【晶存科技港股IPO獲中國證監會備案】中國證監會國際合作司釋出關於深圳市晶存科技股份有限公司境外發行上市及境內未上市股份“全流通”備案通知書，公司擬發行不超過13,053,800股境外上市普通股並在香港聯合交易所上市。公司40名股東擬將所持合計102,160,000股境內未上市股份轉為境外上市股份，並在香港聯合交易所上市流通。
-
----
-
-### 2026-10-23 18:17:39  #其他
-
-【西藏那曲市巴青縣發生7.0級地震，金融監管總局啟動保險業三級救災應急響應】10月22日22時33分許，西藏那曲市巴青縣發生7.0級地震，造成重大人員傷亡。災害發生後，金融監管總局堅決貫徹習近平總書記重要指示精神，按照李強總理等中央領導同志批示要求，迅速指導保險業和屬地金融監管局全力做好災害應急處置和保險理賠服務等工作，並派員參加有關工作組趕赴災區。根據金融監管總局工作部署，有關保險機構立即啟動應急預案，開展承保情況摸排，配合地方黨委政府和有關部門做好災害應對處置工作。根據災情進展和保險業應對災害事故處置工作機制，金融監管總局啟動保險業三級救災應急響應，同時指導銀行業做好相關金融保障服務工作。
-
----
-
-### 2026-10-23 18:17:39  #Trading Economics #Markets #Germany #Government Bond 10Y #Importance 1
-
-Bund Yields Near Two-Month Lows — Germany’s 10-year Bund yield eased to around 3.34%, touching its lowest level since August 31, as investors sought safe-haven assets amid mounting fiscal concerns and political uncertainty in France and other highly indebted eurozone economies. Meanwhile, fresh PMI data showed eurozone private-sector growth slowed to a four-month low in October, pressured by rising energy costs, higher interest rates and renewed contraction in France. Consumer confidence also deteriorated more sharply than expected. French bonds remained under particular pressure, with the spread between French OATs and German Bunds widening to around 170 basis points, its highest level since the eurozone sovereign debt crisis. Looking ahead, further demonstrations are expected across the region this weekend, while investors await next week’s inflation data and the ECB’s policy meeting, where officials are widely expected to leave interest rates unchanged.
-
----
-
-### 2026-10-23 18:17:01  #其他
-
-【2026全球治理論壇（雄安）開幕】2026全球治理論壇（雄安）23日晚在河北雄安新區開幕。本次論壇以“重建信心與合作：百年變局與改革完善全球治理”為主題，邀請90多個國家的政界、戰略界、學界、工商界及青年領袖等近400人參會，共商改革完善全球治理大計。論壇主要活動包括開幕式、大會發言、5個板塊分論壇的22場研討會、多場配套活動等，將持續到25日。（央視新聞）
-
----
-
-### 2026-10-23 18:05:32  #Trading Economics #Markets #United Kingdom #Government Bond 10Y #Importance 1
-
-UK Gilt Yields Hold Steady as Investors Await Budget — UK 10-year gilt yields held steady around 5.33% as investors assessed mixed economic data ahead of next week’s budget. UK assets, including gilts and sterling, have attracted stronger demand as concerns over social unrest and mounting debt across the eurozone prompted investors to shift away from other regional markets. Flash PMI data showed business activity accelerated to an eight-month high, beating forecasts, while retail sales fell more sharply than expected in September and consumer confidence suffered a steep decline in October. Stronger-than-expected inflation data earlier this week fueled expectations of further monetary tightening, with markets pricing in at least three 25bp rate hikes by April 2027 and the first potentially coming in November. Ahead of next week’s budget, investors appear to be giving Chancellor John Healey the benefit of the doubt, with gilt markets remaining unusually calm despite concerns over ambitious spending plans that have yet to be fully costed.
-
----
-
-### 2026-10-23 18:00:44  #Trading Economics #Economy #Slovenia #Current Account #Importance 0
-
-Slovenia Tourist Arrivals Hit Record for a September — Tourist arrivals in Slovenia rose by 11.4% year-on-year to 821.8 thousand in September 2026, the highest September level on record, following a 6.0% rise in the previous month. Foreign tourist arrivals increased by 12.8% to 682.8 thousand, with visitors mainly coming from the UK (39.5%), the US (27.5%), the Czech Republic (26.5%), Germany (12.8%), and Austria (9.5%). Meanwhile, domestic tourism grew by 4.7% to 139.0 thousand. Overnight stays went up by 12.4% to 1,994.2 thousand, with most tourists staying in mountain municipalities (22.6%), other municipalities (10.1%), urban municipalities (8.5%), and the capital (7.7%). For the January–September period, tourist arrivals increased by 7.1% year-on-year to 6,212.3 thousand, while overnight stays also rose by 7.1% to 16,072.6 thousand.
-
----
-
-### 2026-10-23 17:44:12  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
-
-Pound Holds Near One-Month High Helped by Strong PMI Data — The pound traded just below $1.34, hovering near its strongest level in a month as investors assessed a mixed batch of economic data ahead of next week’s budget and the Bank of England’s November 5 policy meeting. Flash PMI data showed UK private-sector activity accelerated to its fastest pace since February, beating expectations across both manufacturing and services. However, retail sales fell more sharply than expected in September, while consumer confidence recorded its steepest monthly decline since the pandemic, reflecting persistent cost-of-living pressures and concerns over the Middle East conflict. Stronger-than-expected inflation data earlier this week prompted markets to increase bets on further monetary tightening, with at least three quarter-point rate hikes priced in by April 2027 and the first potentially coming as early as November 5. Investors now await next week’s budget, where Chancellor John Healey is expected to emphasize fiscal discipline.
-
----
-
-### 2026-10-23 17:30:14  #Trading Economics #Markets #Bonds #Importance 1
-
-Bonds Update: Japan 10Y Bond Yield Falls by 9 bps — Majority of government bonds yields are lower on Friday. Top losers are Japan 10Y (-8.60bps), South Korea 10Y (-6.20bps) and Germany 10Y (-0.83bps). Gains are led by US 10Y (2.20bps).
-
----
-
-### 2026-10-23 17:17:49  #Trading Economics #Economy #Macau #Tourist Arrivals #Importance 1
-
-Macau Tourist Arrivals Surge in September — The number of tourist arrivals in Macau climbed 15.9% year-on-year to 3.217 million in September 2026, following a 6.1% gain in the previous month. Despite the sharp increase, the number of tourist arrivals eased from its highest level on record reached in the previous month. Same-day visitors surged 23.8% to 1.933 million, while overnight visitors climbed 5.7% to 1.283 million. The average length of stay for all visitors fell by 0.1 days year-on-year to 1.1 days, while overnight visitors stayed an average of 2.4 days. Arrivals from mainland China, Macau’s largest source market, increased 17.4%. Growth was also recorded in Taiwan (18.7%), Japan (2.7%), Thailand (42.3%), the US (24.7%), India (11.4%) and Australia (15.4%). Arrivals from Russia surged 124.3%. From January to September, total visitor arrivals rose 8.5% year-on-year to 32.181 million.
-
----
-
-### 2026-10-23 17:14:54  #Trading Economics #Markets #France #stocks #Importance 1
-
-AXA Shares Hit 18-week Low — AXA shares decreased to 41.36 EUR, the lowest since June 2026. Over the past 4 weeks, AXA lost 5.91%, and in the last 12 months, it increased 5%.
-
----
-
-### 2026-10-23 17:13:01  #央行 #中國央行
-
-【央行：10月26日將開展7000億元MLF操作】為保持銀行體系流動性充裕，2026年10月26日，中國人民銀行將以固定數量、利率招標、多重價位中標方式開展7000億元MLF操作，期限為1年期。
-
----
-
-### 2026-10-23 17:07:07  #Trading Economics #Economy #Iceland #Producer Prices Change #Importance 1
-
-Iceland Producer Inflation Hits 5-Month Low — Iceland’s producer prices rose by 12.5% year-on-year in September 2026, easing from 13.7% in August and marking the weakest growth in five months. Price growth slowed across marine products (13.3% vs. 16.8% in August), the metal industry (25.1% vs. 27.4%), food production (2.8% vs. 3.4%), exported products (17.4% vs. 19.2%), and exported products excluding marine products (19.9% vs. 20.4%). Meanwhile, price growth accelerated in other manufacturing industries (5.3% vs. 3.8%) and products sold domestically (2.0% vs. 1.9%). On a monthly basis, Iceland’s producer prices fell by 0.1% in September 2026, following a sharp 3.3% decline in August, marking a second consecutive monthly decrease.
-
----
-
-### 2026-10-23 17:05:45  #Trading Economics #Economy #Macau #Inflation Rate #Importance 1
-
-Macau Inflation Rate Rises for 2nd Month — Macau’s annual inflation rate rose to 1.33% in September 2026, up from 1.29% in August, marking a second consecutive monthly acceleration and its highest level since May. Transportation inflation climbed to 4.39% from 3.08%, largely driven by higher gasoline prices. Price growth also accelerated in health (0.91% vs. 0.83%) and information and communication (2.28% vs. 1.86%). Meanwhile, recreation, sports and culture prices rebounded by 0.7%, following a 0.32% decline in August. In contrast, inflation eased in food (1.25% vs. 1.37%), housing and fuels (0.6% vs. 0.66%), and clothing and footwear (1.96% vs. 2.64%). On a monthly basis, consumer prices increased by 0.14%, slowing from a 0.28% rise in August.
-
----
-
-### 2026-10-23 17:00:12  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Polish Zloty Depreciates by 0.60% — Top currency losers are Polish Zloty (-0.60%), Indian Rupee (-0.51%), Swiss Franc (-0.33%), Euro (-0.22%) and British Pound (-0.17%). Gains are led by Dollar Index (0.20%). Meanwhile Japanese Yen was little changed.
-
----
-
-### 2026-10-23 16:41:35  #Trading Economics #Economy #United Kingdom #Manufacturing PMI #Importance 1
-
-UK Manufacturing Sector Grows at Faster Pace — The S&P Global UK Manufacturing PMI rose to 52.8 in October 2026, up from 51.9 in September and above market expectations of 51.7, according to the preliminary estimate. The reading signaled the strongest improvement in manufacturing business conditions since May, supported by the fastest growth in output in just over two years and a solid increase in new orders. However, employment declined slightly during the month. Meanwhile, supplier delivery times lengthened at the fastest pace since May, reflecting shipping delays and supply chain disruptions linked to the Middle East conflict, as well as global shortages of semiconductors and electronic components. Inventories continued to decline, with purchasing stocks falling for a fifth consecutive month. Input costs also rose sharply due to higher energy, raw material and transportation prices. Business confidence improved slightly, supported by hopes for AI investment and defense sector projects to boost future growth.
-
----
-
-### 2026-10-23 16:41:07  #Trading Economics #Economy #United Kingdom #Services PMI #Importance 1
-
-UK Services Sector Growth Beats Forecasts — The S&P Global UK Services PMI rose to 53.1 in October 2026 from 52.1 in September, above market forecasts of 51.8, flash estimates showed. The latest data showed that growth in overall service sector accelerated to its highest level in eight months, led by a marked improvement in new orders. A number of firms cited a boost to sales from AI investment spending and rising demand for technology services. Employment growth resumed in October, supported by an influx of new projects and a focus on long-term business expansion, although many firms continued to adopt cautious hiring strategies. Meanwhile, price pressures remained elevated. Lastly, business sentiment improved, with service providers highlighting planned investment in new products and marketing initiatives, alongside a gradual recovery in expectations for broader market conditions.
 
 ---

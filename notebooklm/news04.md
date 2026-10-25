@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-10-26 01:50:07_
-_本檔包含 2618 則快訊，約 497206 字_
+_更新時間：2026-10-26 04:43:55_
+_本檔包含 2615 則快訊，約 498500 字_
+
+---
+
+### 2026-10-21 11:51:23  #Trading Economics #Markets #Commodity #Importance 0
+
+Gasoline Futures Rebound — US gasoline futures rose to around $3.15 per gallon after hitting a seven-week low in the previous session, as persistent supply risks offset prospects for improved fuel availability. Unconfirmed reports of a proposal to revive talks between Iran and the US had pressured prices, while the US Energy Department said it was working with domestic refiners to explore ways to boost fuel output and ease prices. Meanwhile, President Trump's decision to waive key sanctions and tariffs on Russia raised prospects for increased Russian fuel exports. However, Morgan Stanley warned that oil-product markets could remain tight through mid-2027 as planned refinery outages rise sharply, potentially constraining supplies even if war-related disruptions ease. EIA data showed that US gasoline inventories rose by 3.5 million barrels in the week ended October 9, marking a second consecutive weekly build and signaling a recovery in domestic supply.
+
+---
+
+### 2026-10-21 11:51:05  #公司 #國際
+
+TD COWEN： 將美國再保險集團目標價從 235 美元上調至 250 美元。
+
+---
+
+### 2026-10-21 11:50:33  #MKT News #LLY.N #Impact bullish
+
+Leerink Partners raised its PT on Eli Lilly (LLY.N) to $1,316 from $1,309.
+
+---
+
+### 2026-10-21 11:49:50  #市場
+
+信實工業股價在孟買早盤交易中上漲2%。
+
+---
+
+### 2026-10-21 11:48:31  #MKT News #GEA.O #Impact bearish
+
+JP Morgan cut its PT for GE Aerospace to $375 from $400.
+
+---
+
+### 2026-10-21 11:47:52  #公司
+
+Leerink Partners 將禮來公司目標價從 1,309.00 美元上調至 1,316.00 美元。
+
+---
+
+### 2026-10-21 11:47:35  #其他
+
+【武漢盛帆女籃再回應熱身賽爆發群毆：已與高校達成諒解】10月21日，武漢盛帆女籃釋出宣告稱，武漢盛帆職業籃球俱樂部已與某高校就10.13事件中球場上的衝突達成諒解。據南方都市報，近日，武漢盛帆女籃與華中科技大學女籃球員在一場訓練賽中發生肢體衝突，引發關注。現場畫面顯示，多名球員衝入場內，場面失控。10月15日，盛帆職業籃球俱樂部發布13日訓練比賽衝突事件的處罰通報。通報表示，10月13日，盛帆女籃與湖北某知名高校女籃交流訓練賽中，由於對方多次惡意犯規且某隊員動作過大，導致盛帆女籃球員丁奕可情緒失控，與該球員發生衝突。事發後，對方數十名人員衝入賽場，引發群體性肢體衝突，導致丁奕可多處受傷，送醫縫合四針。通報稱，經有關部門核查認定，盛帆女籃管理團隊在事件處置過程中，未能做好球員保護工作，存在管理疏漏，責令俱樂部對相關人員嚴肅追責。
+
+---
+
+### 2026-10-21 11:47:16  #公司
+
+【武漢蔚能電池完成股改】企查查APP顯示，近日，原武漢蔚能電池資產有限公司發生工商變更，企業名稱變更為武漢蔚能電池科技集團股份公司，同時企業型別由有限責任公司（港澳臺投資、非獨資）變更為股份有限公司（港澳臺投資、未上市）。企查查資訊顯示，該公司成立於2020年，經營範圍包含：充電控制裝置租賃；儲能技術服務；電池銷售；電池零配件銷售；電氣裝置修理等，由蔚來控股有限公司等共同持股。
+
+---
+
+### 2026-10-21 11:47:09  #公司 #觀點
+
+摩根大通將通用電氣航空航天公司目標價從400美元下調至375美元。
+
+---
+
+### 2026-10-21 11:46:47  #其他
+
+【上海港—墨爾本港綠色航運走廊實施計劃綱要釋出】2026北外灘國際航運論壇·綠色與低碳論壇10月21日舉行。論壇期間，上海港—墨爾本港綠色航運走廊實施計劃綱要正式釋出。走廊合作伙伴將共同努力，爭取在2035年前在該走廊部署低碳燃料集裝箱船舶，並不斷提升低碳燃料的生產、儲運和加註能力，加快上海至墨爾本航線的脫碳程序。
+
+---
+
+### 2026-10-21 11:46:44  #公司
+
+【渤海汽車增資至約16.2億元，增幅約70%】天眼查App顯示，10月14日，渤海汽車系統股份有限公司發生工商變更，註冊資本由約9.5億人民幣增至約16.2億人民幣，增幅約70%。該公司成立於1999年12月，法定代表人為宋瑋，經營範圍含活塞的生產銷售、機械零部件的生產銷售、汽車銷售等，由北京海納川汽車部件股份有限公司、北京汽車集團有限公司、廣西鐵投創新資本投資有限公司等共同持股。
+
+---
+
+### 2026-10-21 11:46:34  #MKT News #DXY #Impact bullish #USDJPY
+
+Philippine peso weakened to 63.220 per US dollar, a fresh record low.
+
+---
+
+### 2026-10-21 11:46:12  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Goldman Sachs said the Middle East conflict has driven global oil shipping costs roughly sevenfold over the past year.
+
+---
+
+### 2026-10-21 11:46:04  #市場 #國際
+
+菲律賓比索兌美元跌至63.220的歷史新低。
+
+---
+
+### 2026-10-21 11:45:49  #MKT News
+
+Data show President Trump's super PAC spent $277 mln supporting Republican midterm candidates from early September through the first two weeks of October and raised an additional $25 mln.
+
+---
+
+### 2026-10-21 11:45:18  #其他
+
+【騰訊元寶接入Keep技能】騰訊AI助手“元寶”技能中心近日正式上架“Keep”技能。該技能基於使用者運動目標、時間及器械條件，提供課程推薦、跟練與調整服務。目前使用者需在技能包中新增Keep進行問答，支援一鍵跳轉Keep App開練。據悉，Keep於4月公佈自研大模型Keepace.ai，8月完成大模型備案並上線“超級AI會員”。此次接入元寶，是Keep服務向第三方AI生態的延伸。
+
+---
+
+### 2026-10-21 11:44:03  #MKT News
+
+【Indonesia haze threatens pollinating weevils, could tighten palm oil supply — IOPRI】Haze from Indonesian forest fires, by reducing sunlight and producing heavy smoke, may disrupt pollinating weevils that transfer pollen from oil palm male to female flowers, the Indonesian Palm Oil Research Institute (IOPRI) said. IOPRI noted past disruptions have cut palm fruit set by up to 20% and warned supply of the world’s most-used vegetable oil could tighten.
+
+---
+
+### 2026-10-21 11:43:36  #宏觀
+
+【全國溫室氣體自願減排交易市場成交量超2400萬噸，成交額近20億元人民幣】生態環境部副部長李高21日在國務院新聞辦公室舉行的新聞釋出會上表示，全國溫室氣體自願減排交易市場是激勵全社會主動參與碳減排的重要政策工具，與全國碳排放權交易市場共同構成我國碳市場體系。各類社會主體可以透過出售經核證的自願減排量（CCER）來獲取收益。截至上週，自願減排交易市場已經有44個專案、2500多萬噸的減排量完成登記，成交量超過2400萬噸，成交額接近20億元人民幣。（國是直通車）
+
+---
+
+### 2026-10-21 11:43:23  #公司
+
+【深圳人才房政策放寬：社保滿1年，無房記錄降至3年】10月21日，深圳市住房保障署釋出配售公告，記者對比此前批次配售條件發現，本批次申購條件出現明顯放寬：90平以下房源由四個佇列增至五個；社保最低累計1年即可申購，房產交易記錄核查由5年縮短至3年。這意味著，更多社保剛滿1年的新市民家庭將獲得人才房申購資格，曾有過房產交易、但目前無房且滿3年的改善型家庭也重新獲得申購機會。
+
+---
+
+### 2026-10-21 11:42:08  #公司
+
+【招金集團：聘任王建政為公司總經理，孫浩文不再擔任公司總經理】10月21日，山東招金集團有限公司公告，公司已於近日決定聘任王建政為公司總經理，孫浩文不再擔任公司總經理，上述新任人員的任職資格符合《公司法》和公司章程的相關規定。
+
+---
+
+### 2026-10-21 11:41:57  #其他
+
+【上海港—漢堡港綠色航運走廊發展目標和路線圖釋出】2026北外灘國際航運論壇·綠色與低碳論壇10月21日舉行。論壇期間，上海港—漢堡港綠色航運走廊發展目標和路線圖正式釋出。各參與方將積極行動，在2028年至2035年期間於走廊穩步提升雙燃料集裝箱船舶的部署能力和減碳水平，持續提升電力和清潔能源在港口用能中的佔比，加快形成多元穩定的低碳燃料供應格局。
+
+---
+
+### 2026-10-21 11:41:53  #國際
+
+【支援萬斯參選下屆總統？特朗普：現在討論“為時尚早”】美國總統特朗普20日說，現在討論是否支援副總統萬斯2028年參選總統“為時尚早”，並稱兩人此前未就此事進行過討論。特朗普當天在白宮橢圓形辦公室回答記者提問時說，萬斯“很有才幹”，但“現在討論此事還為時尚早，我們必須先度過中期選舉”。（新華社）
+
+---
+
+### 2026-10-21 11:41:46  #公司 #市場 #國際 #原創
+
+【高盛稱中東衝突導致過去一年全球石油運費漲七倍】據高盛集團稱，由於中東衝突，過去一年全球石油運輸成本飆升了約七倍，而且可能仍將居高不下。原油運輸的平均價格已飆升至每桶20美元以上，而一年前僅為每桶3美元。 此次漲價包括霍爾木茲海峽衝突風險溢價增加的7美元，以及燃油成本上漲和船對船轉運影響各增加的4美元。
+
+---
+
+### 2026-10-21 11:40:15  #其他
+
+【今年前三季度浙江省進出口增長9.5%】今年前三季度，浙江省進出口總值4.57萬億元，增長9.5%。其中，出口3.48萬億元，增長10.2%；進口1.09萬億元，增長7.4%。浙江進出口、出口和進口分別佔全國的11.4%、15.0%、6.5%，居全國第3、第3和第6位，增速均創2023年以來同期新高。
+
+---
+
+### 2026-10-21 11:38:51  #MKT News #Important #Market Regions #Greater China #300750.SZ #Impact bearish
+
+【China A-shares midday: ChiNext down 1.07%; CATL off over 10%】China A-shares opened higher then slipped into negative territory by midday: Shanghai Composite down 0.31%, Shenzhen Composite Index down 0.31%, ChiNext down 1.07%. CATL fell more than 10%, pulling the battery sector lower. Pork names led gains, with Dongrui hitting the daily limit; media and publishing stocks were active (Publishing & Media limit up; Zhaoxun Media, Fantuo >10%). Compute-rental plays advanced, Nanwei Software limit up and Huichen hit the 20% limit. Internet insurance, digital-rural and telecom services outperformed; education and energy metals lagged. Market turnover exceeded CNY900 billion and over 2,800 stocks rose.
+
+---
+
+### 2026-10-21 11:38:08  #公司 #市場 #國際
+
+【格里芬稱共和黨去年減稅是個錯誤，與歐洲的關稅戰是災難】城堡投資集團創始人肯·格里芬表示，去年進一步減稅，是美國國會共和黨人和總統唐納德·特朗普犯下的錯誤。格里芬週二在紐約舉行的全球市場未來大會接受採訪稱，美國政府在疫情期間花了很多錢，“我們並沒有延續減稅政策的財政空間”。他指出，美國債務已經突破40萬億美元。格里芬稱，與增加支出相比，共和黨人過去兩年在減稅一事上問題更大。格里芬是共和黨金主，其商業帝國包含對沖基金城堡投資和做市商城堡證券。他表示，解決方案是“讓經濟大力增長”，同時也要讓歐洲人推動經濟增長。“與歐洲的關稅戰是一場災難，”格里芬說。
+
+---
+
+### 2026-10-21 11:35:13  #MKT News
+
+【Democratic groups sue Trump administration, DOJ over alleged interference in state election administration】National Democratic organizations sued President Trump and the U.S. Department of Justice on Tuesday, alleging the administration is coordinating actions intended to undermine public confidence in the upcoming U.S. midterms by pressuring states on ballot handling. The complaint says the government has asked California, Nevada and other states to pause processing ballots suspected of involving non-citizens and to set aside tens of thousands of mailed ballots until citizenship can be verified. Filed in Washington by the Democratic Senatorial Campaign Committee and Democratic Congressional Campaign Committee, the suit argues the federal data the requests rely on is "low-quality" and often erroneous. Plaintiffs ask the court to rule the government’s demands and threats violate separation of powers, infringe states’ authority over elections, and to enjoin the administration from continuing the actions.
+
+---
+
+### 2026-10-21 11:34:19  #宏觀
+
+【天津出臺公積金新規新增提取情形】天津市住房公積金管理中心21日對外發布相關通知，新增自住住房物業費、新購自住住房裝修費和自住住房裝修翻新費提取情形，將住房公積金使用範圍進一步拓展至住房持有期間的相關支出。 根據新政策，在天津市行政區域內持有住房的，職工及其配偶每年12月31日（含當日）前可提取一次住房公積金支付物業費，每年提取金額合計不超過3000元。 對於新購自住住房，在天津市行政區域內購買住房，符合本市購房提取住房公積金條件的，職工及其配偶可在新建住房購房合同確定的交付之日起兩年內、二手住房取得住房產權之日起兩年內就該套住房提取一次住房公積金支付住房裝修費用，提取金額合計不超過每平方米1500元乘以所購住房建築面積，且不超過15萬元。 此外，對於裝修翻新需求，在天津市行政區域內持有同一套住房滿10年且近一年內未提取住房公積金用於購房款、首付款或償還住房貸款本息的，職工及其配偶可就該套住房提取一次住房公積金用於廚衛、門窗、牆面等區域性修繕改造，改善居住條件，提取金額合計不超過3萬元。 為保障職工權益，通知還明確了相關提取業務的辦理期限調整安排。其中，規定新購住房裝修費提取截止日期在2026年9月20日至2026年12月31日期間的，提取截止日期順延6個月；2026年物業費未在2026年12月31日前提取的，提取截止日期順延至2027年6月30日。 通知自2026年10月21日起施行。
+
+---
+
+### 2026-10-21 11:32:29  #市場
+
+臺幣兌美元上漲0.3%至32.518。
+
+---
+
+### 2026-10-21 11:31:44  #MKT News #Market Regions #Greater China
+
+【China government bond futures morning session close】China government bond futures closed the morning session: 2-year (TS) most-active contract down 0.01%, 5-year (TF) down 0.05%, 10-year (T) down 0.07%, 30-year (TL) down 0.30%.
+
+---
+
+### 2026-10-21 11:31:38  #MKT News #Market Regions #Greater China #IF #Impact bearish #IH #Impact bullish #IC
+
+【China index futures morning session close】At the morning close, CSI 300 index futures (IF) front-month contract fell 0.12%; SSE 50 index futures (IH) front-month contract rose 0.20%; CSI 500 index futures (IC) front-month contract rose 0.89%; CSI 1000 index futures (IM) front-month contract rose 1.28%.
+
+---
+
+### 2026-10-21 11:31:35  #其他
+
+【上海：到2030年基本建成亞太領先航空樞紐 實現年客貨吞吐量1.5億人次、470萬噸左右】《新時代新徵程上海國際航空樞紐戰略規劃》近日正式釋出，《規劃》由上海市政府與中國民航局共同謀劃。《規劃》總體目標是全面建成具有世界影響力的全方位門戶複合型國際航空樞紐，成為連線國內航空運輸網路與國際航空運輸通道的核心連線節點，並分三個階段推進：第一階段，到2030年基本建成亞太領先航空樞紐，完成浦東機場四期擴建工程，最佳化上海進近管制區空域結構，實現年客貨吞吐量1.5億人次，470萬噸左右。第二階段，到2035年進入世界一流航空樞紐前列，建成南通新機場，形成“兩地三場”一體化運營的國際航空樞紐體系和高效互聯的綜合交通體系，實現年客貨吞吐量2億人次540萬噸，主樞紐運營人基本建成“超級承運人”。第三階段，到本世紀中葉，全面建成具有世界影響力的全方位門戶複合型國際航空樞紐。
+
+---
+
+### 2026-10-21 11:31:12  #公司 #市場 #A股
+
+【午評：創業板指高開低走跌1.07%，IT服務、養殖業、文化傳媒板塊漲幅居前】A股三大指數早盤集體下跌，截至午盤，上證指數跌0.31%，深證成指跌0.31%，創業板指跌1.07%，北證50跌0.55%，科創50指數漲0.41%。全市場成交額9486億元，較上日放量39億元，全市場超2800只個股上漲。板塊題材上，養殖業、豬肉、影視院線、文化傳媒、算力租賃板塊漲幅居前；電池、能源金屬、風電裝置、教育、汽車整車板塊跌幅居前。盤面上，養殖業板塊表現活躍，東瑞股份漲停，國聯水產、巨星農牧、中水漁業漲幅居前。文化傳媒板塊高開高走，出版傳媒、天威視訊、粵傳媒漲停，兆訊傳媒、凡拓數創、廣電網路漲幅居前。算力租賃板塊亦表現活躍，南威軟體、潤建股份漲停，惠辰股份、利通電子、協創資料漲幅居前。電池板塊持續走低，寧德時代盤中跌超10%，時代萬恆、科達利、紫竹高科均大幅下挫。教育板塊區域性回撥，昂立教育、科德教育、行動教育跌幅居前。
+
+---
+
+### 2026-10-21 11:31:04  #MKT News #Important #Commodities #Industrial Metals #Precious Metals
+
+China's most-active futures closed mixed at the morning session. Container freight rates on the Europe route fell about 7%; lithium carbonate futures dropped over 3%; fuel oil declined more than 2%; palladium and caustic soda fell around 2%. Winners: SHFE nickel, red dates, apples, stainless steel and ethylene glycol rose over 2%; SHFE tin, bitumen and coke gained above 1%.
 
 ---
 
@@ -15631,227 +15835,5 @@ Quectel Wireless Solutions hit the daily limit-up with turnover above CNY1.4 bil
 ### 2026-10-20 10:08:11  #MKT News #Market Regions #Greater China #Copper #Impact bullish #CNH #SSE Composite
 
 【China national railways dispatched 3.05 bln tonnes of freight in first three quarters】China's national railways dispatched 3.05 billion tonnes of freight in the first three quarters, averaging 188,000 loaded freight cars per day, marginally up YoY. Authorities said the volumes provide transport support to help reduce overall logistics costs and underpin stable national economic activity.
-
----
-
-### 2026-10-20 10:08:09  #市場 #國際
-
-印尼股市基準指數上漲2%，至5,095.38點。
-
----
-
-### 2026-10-20 10:07:57  #其他
-
-【山東省淄博市委常委、副市長沙向東接受審查調查】據山東省紀委監委訊息，山東省淄博市委常委、副市長沙向東涉嫌嚴重違紀違法，目前正接受山東省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-10-20 10:07:54  #MKT News
-
-【China issues first five-year plan for cultural heritage protection】Hu Kaihong, executive deputy director of the Central Office for Spiritual Civilization and director of the Office of the Central Cultural Heritage Protection Committee, said at an Oct. 20 State Council Information Office briefing that the General Office of the CPC Central Committee and the General Office of the State Council recently issued the 15th Five-Year Plan for cultural heritage protection and inheritance — China’s first national five-year plan in this field. Centered on systematic protection, the plan aims to build a comprehensive cultural-heritage protection framework, strengthen governance capacity and support measures, and promote that framework based on a nationwide heritage resources survey, inheritance-and-development programs for China’s traditional culture, and legal and regulatory safeguards.
-
----
-
-### 2026-10-20 10:07:30  #其他
-
-【國家統計局：三季度資訊傳輸、軟體和資訊科技服務業同比增長9.8%】國家統計局釋出2026年三季度國內生產總值初步核算結果。三季度我國金融業GDP同比增長4.1%，批發和零售業GDP同比增長5.6%，資訊傳輸、軟體和資訊科技服務業同比增長9.8%。（國家統計局）
-
----
-
-### 2026-10-20 10:07:20  #MKT News #Market Themes #China Tech Giants #01070.HK #Impact bullish
-
-TCL Electronics (01070.HK) shares rose nearly 7% after the company said it expects adjusted net profit attributable to the parent for the first three quarters to increase about 45–55% YoY.
-
----
-
-### 2026-10-20 10:07:19  #宏觀
-
-【我國首次在文化遺產保護領域制定五年規劃】中央精神文明建設辦公室專職副主任、中央文化遺產保護委員會辦公室主任胡凱紅10月20日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上表示，中共中央辦公廳、國務院辦公廳近日印發了《文化遺產保護傳承“十五五”規劃》，這是我國首次在文化遺產保護領域制定五年規劃。圍繞推動文化遺產系統性保護這根主線，規劃將構建文化遺產大保護格局，提升文化遺產治理能力和水平，強化支撐保障。以文化遺產資源普查調查為基礎，以中華優秀傳統文化傳承發展工程等為依託，以法律法規為保障，推動構建大保護格局。
-
----
-
-### 2026-10-20 10:07:17  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-【China NBS: information transmission, software and IT services +9.8% YoY in Q3】China's National Bureau of Statistics released preliminary Q3 2026 GDP figures. Sector GDP YoY: finance +4.1%; wholesale and retail +5.6%; information transmission, software and IT services +9.8%.
-
----
-
-### 2026-10-20 10:07:15  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時縮量479億元。
-
----
-
-### 2026-10-20 10:07:02  #公司 #市場
-
-【移遠通訊觸及漲停】移遠通訊觸及漲停，成交額14.08億元。訊息面上，移遠通訊披露2026年第三季度報告，前三季度公司實現營業總收入237.99億元，同比增長33.13%；歸母淨利潤12.12億元，同比增長65.21%；扣非淨利潤12.17億元，同比增長75.25%
-
----
-
-### 2026-10-20 10:06:04  #市場
-
-【人形機器人概念活躍，福萊新材、寧波東力等漲停】人形機器人概念活躍，福萊新材、寧波東力等漲停，奧比中光、斯菱智驅跟漲。
-
----
-
-### 2026-10-20 10:05:42  #其他
-
-【三季度全國共偵辦妨害國（邊）境管理犯罪案件4432起】從今天國家移民管理局召開的新聞釋出會瞭解到，三季度，全國共偵辦妨害國（邊）境管理犯罪案件4432起，抓獲犯罪嫌疑人1.2萬餘人，打掉重大犯罪團伙100個，掛牌督辦重特大案件66起。依法嚴厲打擊口岸邊境涉槍爆、販毒走私等違法犯罪，破獲毒品案件110起，抓獲犯罪嫌疑人123人，繳獲各類毒品1.88噸，破獲萬克以上案件21起；查繳各類槍支402支，子彈1.3萬餘發。
-
----
-
-### 2026-10-20 10:04:58  #市場 #國際
-
-在採取措施應對MSCI相關風險後，印尼股市上漲1.9%。
-
----
-
-### 2026-10-20 10:04:40  #央行 #中國央行
-
-【中國人民銀行：將在10月21日至11月2日開展隔夜逆回購操作】央行公告，為更好匹配銀行體系短期流動性需求，中國人民銀行將在10月21日至11月2日開展隔夜逆回購操作，採用固定利率、數量招標，每日操作量不超過10000億元。
-
----
-
-### 2026-10-20 10:04:24  #其他
-
-【三季度全國移民管理機構累計查驗出入境交通運輸工具同比上升10.6%】從今天（10月20日）國家移民管理局召開的新聞釋出會瞭解到，三季度，全國移民管理機構累計查驗出入境交通運輸工具1095.5萬架（列、艘、輛）次，同比上升10.6%；其中，飛機25.9萬架次，與去年同期基本持平，列車2.8萬列次、船舶11.7萬艘次、機動車1055.1萬輛次，同比分別上升3.7%、2.6%、11%。共簽發普通護照533.8萬本、內地（大陸）居民往來港澳臺證件簽註2878.9萬張（件）次，簽發港澳臺居民來往內地（大陸）通行證47.3萬張；簽發外國人簽證證件60.3萬證次。國家移民局政務服務平臺為中外出入境人員提供查詢等政務服務2286.3萬人次，為港澳臺居民、海外華僑免費提供身份核驗服務1227.16萬人次；移民管理機構12367服務平臺受理中外人員諮詢等203萬人次，涉及全球100多個國家和地區，平均滿意率達99.03%。
-
----
-
-### 2026-10-20 10:04:09  #焦點 #國際
-
-【三季度1.92億人次出入境 免簽入境外國人同比上升24.1%】國家移民管理局10月20日召開新聞釋出會，釋出2026年三季度移民管理主要資料。三季度，全國移民管理機構累計查驗出入境人員1.92億人次，同比上升7.9%；其中內地（大陸）居民9596萬人次、港澳臺居民7314萬人次、外國人2327.2萬人次，同比分別上升7.4%、6.4%、15.6%。其中，免簽入境外國人達899.2萬人次，佔入境外國人總數的77.5%，同比上升24.1%。入境外籍旅客排名前十位的國家為俄羅斯、韓國、越南、馬來西亞、美國、蒙古國、日本、新加坡、泰國、澳大利亞，佔入境旅客總數的63.9%。
-
----
-
-### 2026-10-20 10:04:02  #市場
-
-物理AI概念走強，凡拓數創20%收穫2連板，索辰科技漲超10%，奧比中光、格靈深瞳、達實智慧、能科科技漲幅靠前。
-
----
-
-### 2026-10-20 10:03:38  #MKT News #DXY #Impact bearish
-
-Indonesia's rupiah strengthened to 18,010 per US dollar.
-
----
-
-### 2026-10-20 10:03:37  #其他
-
-新石器據悉完成近4億美元的E輪融資，推動總投資超過14億美元。
-
----
-
-### 2026-10-20 10:03:20  #MKT News #Important #CNH #Impact bullish
-
-China recorded 192 million entries and exits in Q3; over 70% of inbound foreign visitors were visa-exempt, Xinhua said.
-
----
-
-### 2026-10-20 10:03:05  #央行 #中國央行
-
-【央行：境外央行類機構回購工具的操作物件納入外資人民幣業務清算行】央行公告，為支援外資人民幣業務清算行做好流動性管理、更好服務境外人民幣業務，境外央行類機構回購工具的操作物件納入外資人民幣業務清算行，操作要素按照現行境外央行類機構回購工具執行。
-
----
-
-### 2026-10-20 10:02:57  #市場 #國際
-
-印尼股市基準指數上漲1%，至5047.20點。
-
----
-
-### 2026-10-20 10:02:30  #央行 #其他
-
-中國人民銀行：境外央行類機構回購工具的操作物件納入外資人民幣業務清算行，操作要素按照現行境外央行類機構回購工具執行。
-
----
-
-### 2026-10-20 10:02:24  #市場 #國際
-
-印尼盾<IDR=>兌美元走強至18,010。
-
----
-
-### 2026-10-20 10:02:17  #其他
-
-阿里巴巴據悉參與無人配送車製造商新石器（Neolix）4億美元融資。
-
----
-
-### 2026-10-20 10:02:08  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish
-
-PBOC said counterparties for the repo facility for overseas central-bank-type institutions will include foreign-invested RMB settlement banks; operational parameters will follow the facility’s existing rules.
-
----
-
-### 2026-10-20 10:01:32  #其他
-
-中國人民銀行：將在10月21日至11月2日開展隔夜逆回購操作，採用固定利率、數量招標，每日操作量不超過10000億元。
-
----
-
-### 2026-10-20 10:01:25  #市場
-
-在岸人民幣兌美元早盤漲24點至6.6793元，創2022年6月28日以來新高。
-
----
-
-### 2026-10-20 10:01:14  #MKT News #Important #CNH #Impact bullish
-
-The People's Bank of China (PBOC) will conduct overnight reverse repos from Oct. 21 to Nov. 2 via fixed-rate, quantity tenders, with daily operations capped at 1 trillion yuan.
-
----
-
-### 2026-10-20 10:00:59  #經濟數據 #中國
-
-據國家統計局訊息，經初步核算，我國2026年第三季度金融業GDP同比增長4.1%。
-
----
-
-### 2026-10-20 10:00:30  #MKT News #Market Regions #Japan & APAC
-
-【Japan launches Phobos sample-return probe】Japan launched a Mars probe early on the 20th to study and return samples from Phobos. The mission is led by JAXA with participation from NASA, CNES, DLR and ESA. The spacecraft will take about one year to reach Mars vicinity, enter a quasi-satellite orbit to map and analyze tens of candidate landing sites, and select a touchdown location. It will attempt to land on Phobos, acquire more than 10g of surface regolith and rock, depart in 2030 and deliver samples to Earth in 2031.
-
----
-
-### 2026-10-20 10:00:17  #觀點
-
-花旗預計2026年第四季度東盟併購交易市場將非常活躍。
-
----
-
-### 2026-10-20 09:59:57  #其他
-
-【國家統計局：經初步核算，2026年第三季度金融業GDP同比增長4.1%】據國家統計局訊息，經初步核算，我國2026年第三季度金融業GDP同比增長4.1%。
-
----
-
-### 2026-10-20 09:59:43  #觀點
-
-花旗：今年迄今為止，東盟併購交易量同比增長超過30%。
-
----
-
-### 2026-10-20 09:59:29  #MKT News #006400.KS #Impact bearish
-
-【South Korea Supreme Court upholds 4-year sentence in Hwaseong battery-plant fire】South Korea's Supreme Court on the 20th issued a final ruling sentencing company representative Park Sun‑gwan (phonetic) to four years' imprisonment over the June 2024 Hwaseong battery-plant fire that killed 23.
-
----
-
-### 2026-10-20 09:59:27  #MKT News #CNH #Impact bullish
-
-【Oriental Jincheng: LPR unlikely to be cut in near term】Oct 20, 2026 — The PBOC authorized the National Interbank Funding Center to publish new LPR quotes: 1-year 3.00%; 5-year and above 3.50%. Oriental Jincheng said recent LPR stability reflects Q3 GDP acceleration to 4.5% and faster growth in new productive forces, led by high‑tech manufacturing. Against that backdrop, aggregate monetary policy will remain steady; countercyclical adjustment will emphasize structural tools. After structural growth‑support and property‑stabilization measures roll out, policymakers will enter an effects‑observation phase. Near‑term probability of a broad‑based rate cut is low, so the pricing basis for LPR should remain stable.
-
----
-
-### 2026-10-20 09:58:43  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-China Stocks Fall as Tech Sector Drags — The Shanghai Composite fell 0.3% to 3,721 on Tuesday, while the Shenzhen Component dropped 0.5% to a more than two-month low of 11,761, tracking broader losses across Asian markets and bucking a chip-led rally on Wall Street. Sentiment toward AI-related stocks remained fragile ahead of key earnings from major technology companies this week, as concerns over heavy AI spending and elevated interest rates have recently weighed on the sector. Cambricon Technologies (-1.5%), GigaDevice Semiconductor (-1.9%), Piotech (-1.8%), Zhongji Innolight (-1.5%) and Eoptolink Technology (-1.7%) posted losses. On the monetary policy front, the People’s Bank of China kept its one-year loan prime rate (LPR) unchanged at 3.0%, while the five-year LPR remained at 3.5%. The decision followed strong key economic data, with the GDP expanding 4.5% year-on-year in Q3, accelerating from the previous quarter and keeping China on track to meet the government’s full-year growth target.
-
----
-
-### 2026-10-20 09:58:32  #國際
-
-【日本發射火星衛星探測器】日本火星衛星探測器20日凌晨發射升空。該探測器將對火星的衛星“火衛一”進行詳細觀測，並取樣返回地球。 日本宇宙航空研究開發機構的直播畫面顯示，當地時間20日4時41分（北京時間3時41分），該探測器搭乘H3火箭10號從日本南部鹿兒島縣的種子島宇宙中心升空。發射約1小時11分鐘後，火箭將探測器送入火星轉移軌道並和探測器分離。 火星衛星探測專案由日本宇宙航空研究開發機構主導，美國國家航空航天局、法國國家航天研究中心、德國航空航天中心和歐洲航天局等參與。 探測器將用約一年時間飛抵火星附近，進入環繞火星的“準衛星軌道”。在環繞火星執行期間，探測器將對“火衛一”進行詳細觀測，調查“火衛一”上幾十個地點的地形、化學組成等，並確定在“火衛一”上著陸的地點。此後，探測器將嘗試在“火衛一”著陸並採集10克以上的衛星表面砂子和岩石樣本。按計劃，探測器將於2030年開始返程，並於2031年帶著樣本回到地球。 “火衛一”距離火星約6000公里，是一個土豆樣的不規則天體，其直徑只有月球的約160分之一，表面佈滿大大小小的隕石坑。關於火星衛星的起源，比較主流的有“大撞擊說”和“捕獲說”兩種假說。解開“火衛一”的起源之謎將幫助人們理解太陽系的形成及太陽系內的物質輸送。(新華社)
 
 ---
