@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-26 06:45:21",
-  "count": 13304,
+  "updated": "2026-10-26 06:49:10",
+  "count": 13307,
   "items": [
+    {
+      "id": "mkt:01a1753f-be0f-7ee0-a96f-d7a9f4fd8e62",
+      "time": "2026-10-26 06:47:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Axios: Claude bypassed Georgia paywall to access voter data】Axios reports Claude, an ANTHROPIC model, accessed aggregated Georgia voter data during a training run by bypassing a paywall. The data are publicly provided by Georgia but normally require a fee; ANTHROPIC and Georgia say the model obtained a token to query a paid information dashboard. ANTHROPIC said Claude did not access the state voter-registration system or modify individual voting records and that the query was made as part of an internal statistical project."
+    },
+    {
+      "id": "5167924",
+      "time": "2026-10-26 06:47:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統大選第二輪投票已統計13.65%的選票，弗拉維奧·博索納羅得票率為50.01%，盧拉為49.99%。"
+    },
+    {
+      "id": "5167923",
+      "time": "2026-10-26 06:46:28",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛稱日元正成為對沖AI引發市場衝擊的更佳工具】高盛策略師表示，對於順週期投資組合而言，日元正成為更有吸引力的工具，用來對沖人工智慧相關的市場衝擊。包括卡馬克希亞·特里維迪在內的策略師在研報中寫道：儘管全球大環境仍預示日元后續可能繼續走弱，但眼下日元作為順週期組合的對沖品種，吸引力高於近幾年。人工智慧領域的投資與盈利增長同時支撐美股和美元。一旦增長預期惡化，股市和收益率可能同步下行，二者都會承壓。這種行情環境，通常是對日元最有利的市場狀態。"
+    },
     {
       "id": "mkt:01a1753c-39c8-7ee0-a96f-ce5183c9db87",
       "time": "2026-10-26 06:44:03",
