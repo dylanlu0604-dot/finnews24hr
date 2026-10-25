@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-26 01:03:52",
-  "count": 13254,
+  "updated": "2026-10-26 01:07:43",
+  "count": 13253,
   "items": [
+    {
+      "id": "mkt:01a17407-636c-7ee0-a96d-c5e3e516aa90",
+      "time": "2026-10-26 01:06:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US attorney general says Trump had no intent to seize control of state elections."
+    },
+    {
+      "id": "5167791",
+      "time": "2026-10-26 01:04:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部長表示，特朗普無意接管州級選舉。"
+    },
     {
       "id": "5167787",
       "time": "2026-10-26 00:52:52",
@@ -119859,30 +119875,6 @@
         "WTI"
       ],
       "text": "The Russian defence ministry said between 08:00 and 20:00 Moscow time on Oct. 18 its air-defence systems intercepted and destroyed 41 Ukrainian drones."
-    },
-    {
-      "id": "mkt:01a14ffb-6073-7ee0-a8d2-98605e7b7b30",
-      "time": "2026-10-19 01:07:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Egypt's foreign minister held a call with Saudi Arabia's foreign minister to discuss regional developments and the importance of de-escalation."
-    },
-    {
-      "id": "5152531",
-      "time": "2026-10-19 01:06:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及外交部長表示，在與沙特外交部長的電話通話中討論了地區發展以及緩和局勢的重要性。"
-    },
-    {
-      "id": "mkt:01a14ff8-9b06-7ee0-a8d2-9026105bb89e",
-      "time": "2026-10-19 01:04:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ghalibaf says Persian Gulf Data Management Agency to be set up; warns regional parties against supporting AI/data firms tied to invasions or killing children】Iranian parliament speaker Ghalibaf said a Persian Gulf Data Management Agency will be established. He urged regional governments, funds and companies not to provide resources — including capital, equity, land or energy — to any AI or data firms that support invasions or the killing of children, warning that continued support would trigger enforcement action."
     }
   ]
 }

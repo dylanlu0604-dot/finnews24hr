@@ -1,7 +1,23 @@
 {
   "date": "2026-10-26",
-  "count": 45,
+  "count": 47,
   "items": [
+    {
+      "id": "mkt:01a17407-636c-7ee0-a96d-c5e3e516aa90",
+      "time": "2026-10-26 01:06:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US attorney general says Trump had no intent to seize control of state elections."
+    },
+    {
+      "id": "5167791",
+      "time": "2026-10-26 01:04:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部長表示，特朗普無意接管州級選舉。"
+    },
     {
       "id": "5167787",
       "time": "2026-10-26 00:52:52",
