@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-26 03:34:50",
-  "count": 13286,
+  "updated": "2026-10-26 03:38:38",
+  "count": 13285,
   "items": [
+    {
+      "id": "5167843",
+      "time": "2026-10-26 03:36:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西大選候選人博索納羅團隊申請巴西兩個州延長投票時間。"
+    },
     {
       "id": "5167842",
       "time": "2026-10-26 03:34:13",
@@ -120141,22 +120149,6 @@
         "Impact bearish"
       ],
       "text": "【French unrest escalates; Iran warns Macron participants in 'evil alliance' will ultimately face consequences】Iran Foreign Ministry spokesman Baghaei posted on social media on Sunday accusing French President Macron of double standards: Macron backed Iranians' \"peaceful assembly, no need to fear punishment\" in January but now insists on harsh punishment for attacks on French state institutions. Baghaei also said Macron had earlier suggested France and the US could be \"very active\" on Iran before the US and Israel launched a war on Iran, and warned parties in the \"evil alliance\" would ultimately face the consequences."
-    },
-    {
-      "id": "mkt:01a15084-5e4c-7ee0-a8d2-ecd6b01cb625",
-      "time": "2026-10-19 03:36:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's prime minister and foreign minister Al Thani held a phone call with the UAE's deputy prime minister and foreign minister Al Nahyan, Qatar's foreign ministry said."
-    },
-    {
-      "id": "mkt:01a15084-4c02-7ee0-a8d2-e613cc1e8dc2",
-      "time": "2026-10-19 03:36:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's foreign ministry said the two sides, in a phone call, reviewed bilateral cooperation and ways to support and strengthen it, discussed recent regional developments and other issues of mutual concern."
     }
   ]
 }
