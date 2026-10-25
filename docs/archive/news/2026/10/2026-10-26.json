@@ -1,7 +1,39 @@
 {
   "date": "2026-10-26",
-  "count": 146,
+  "count": 150,
   "items": [
+    {
+      "id": "5167857",
+      "time": "2026-10-26 04:00:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯洛伐克政府代表團已抵達莫斯科，代表團由該國外交和歐洲事務部長尤拉伊·布拉納爾率領。"
+    },
+    {
+      "id": "5167856",
+      "time": "2026-10-26 04:00:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統選舉第二輪投票結束。"
+    },
+    {
+      "id": "mkt:01a174a6-5629-7ee0-a96e-ebe747b70832",
+      "time": "2026-10-26 04:00:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Slovak government delegation led by Foreign and European Affairs Minister Juraj Blanár has arrived in Moscow."
+    },
+    {
+      "id": "5167855",
+      "time": "2026-10-26 03:58:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油上漲1.8%，市場擔憂美伊和談進展以及霍爾木茲航運受阻風險。"
+    },
     {
       "id": "mkt:01a174a2-c095-7ee0-a96e-e047ac85478a",
       "time": "2026-10-26 03:56:25",
