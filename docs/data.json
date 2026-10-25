@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-26 06:56:48",
-  "count": 13312,
+  "updated": "2026-10-26 07:00:49",
+  "count": 13313,
   "items": [
+    {
+      "id": "5167934",
+      "time": "2026-10-26 06:56:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK海力士計劃在週三釋出財報時宣佈特別股息計劃。"
+    },
+    {
+      "id": "5167933",
+      "time": "2026-10-26 06:56:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士這筆16萬億韓元（合120億美元）的特別分紅，相當於出售鎧俠股權所得收益的70%。"
+    },
     {
       "id": "5167932",
       "time": "2026-10-26 06:55:30",
@@ -120314,14 +120330,6 @@
         "市場"
       ],
       "text": "英國10月份房價環比上漲1%。"
-    },
-    {
-      "id": "mkt:01a1513b-b75f-7ee0-a8d3-f61a2f1db40c",
-      "time": "2026-10-19 06:57:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【COP17 to the Convention on Biological Diversity opens in Yerevan】The 17th meeting of the Conference of the Parties to the Convention on Biological Diversity (COP17) opened on the 18th in Yerevan, Armenia and will conduct the first global collective review of implementation of the Kunming-Montreal Global Biodiversity Framework, seeking to drive progress toward its 2030 targets."
     }
   ]
 }
