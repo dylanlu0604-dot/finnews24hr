@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-26 04:09:18",
-  "count": 13307,
+  "updated": "2026-10-26 04:13:05",
+  "count": 13310,
   "items": [
+    {
+      "id": "mkt:01a174b1-9601-7ee0-a96f-01ffc3785c98",
+      "time": "2026-10-26 04:12:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil presidential runoff: with 0.25% of votes counted, incumbent Lula leads with 57.66% of the vote; Flávio Bolsonaro has 42.34%."
+    },
+    {
+      "id": "mkt:01a174b0-7742-7ee0-a96e-fa9935508f8f",
+      "time": "2026-10-26 04:11:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's Supreme Court extended voting hours in the national election by two hours due to transportation disruptions."
+    },
+    {
+      "id": "5167865",
+      "time": "2026-10-26 04:10:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西大選計票顯示，在已經統計的0.25%選票當中，盧拉得票率57.7%，博索納羅得票率42.3%。"
+    },
+    {
+      "id": "5167864",
+      "time": "2026-10-26 04:09:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談索馬利亞：索馬利亞也許是世界上最糟糕的國家。沒有政府，什麼都沒有。他們只會殺人。他們殺人，還襲擊船隻。說實話，我很驚訝他們居然連這個都做得到。他們沒有國家，沒有政府，什麼都沒有。他們沒有警察，只是到處跑來跑去互相開槍。"
+    },
     {
       "id": "mkt:01a174ae-12be-7ee0-a96e-f12538d7a964",
       "time": "2026-10-26 04:08:47",
@@ -120320,14 +120352,6 @@
         "MKT News"
       ],
       "text": "【Houthi forces say Saudi airstrike in Yemen's Saada province kills 9, wounds 11】Houthi forces said on the 18th a Saudi airstrike on a house in Yemen's Saada province, which is controlled by the Houthis, killed 9 and wounded 11, including women and children."
-    },
-    {
-      "id": "5152578",
-      "time": "2026-10-19 04:11:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭首都基輔遭多枚彈道導彈襲擊，市內發生爆炸。空襲警報在導彈落地前數秒拉響。"
     }
   ]
 }
