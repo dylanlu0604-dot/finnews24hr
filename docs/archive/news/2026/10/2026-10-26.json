@@ -1,7 +1,44 @@
 {
   "date": "2026-10-26",
-  "count": 257,
+  "count": 261,
   "items": [
+    {
+      "id": "te:economy:594777",
+      "time": "2026-10-26 07:04:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Fiscal Expenditure",
+        "Importance 0"
+      ],
+      "text": "China's Fiscal Expenditure Growth Slows to 1% in Jan-Sep — China's general public budget expenditure increased 1% year-on-year to CNY 21.02 trillion in the first nine months of 2026, slowing from a rise of 1.2% in the first eight months. Central government expenditure climbed 5.8% to CNY 3.28 trillion, while local government spending increased 0.2% to CNY 17.74 trillion, indicating that fiscal support continued to be led by the central government. Among major spending categories, healthcare recorded the strongest growth, advancing 7.7%, followed by social security and employment (+5.2%), highlighting the country's ongoing policy efforts to improve people's livelihoods. Meanwhile, fiscal revenue grew 5.1% year-on-year to CNY 17.23 trillion, following a gain of 5.7% in the January–August period. During January–September, tax revenue grew 6.1%, while non-tax revenue advanced 1.2%."
+    },
+    {
+      "id": "5167939",
+      "time": "2026-10-26 07:03:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在社交媒體發文重申支援以色列總理內塔尼亞胡。"
+    },
+    {
+      "id": "mkt:01a1754c-dfe0-7ee0-a96f-e5b686462087",
+      "time": "2026-10-26 07:02:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Brazil vote count 21.84% — Flavio leads Lula】In the presidential runoff, with 21.84% of votes counted incumbent President Lula has 49.53% and Flavio, son of a former president, has 50.47%."
+    },
+    {
+      "id": "5167938",
+      "time": "2026-10-26 07:00:45",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "巴西總統選舉第二輪投票已統計13.65%的選票，弗拉維奧·博索納羅得票率為50.01%，盧拉為49.99%。"
+    },
     {
       "id": "5167934",
       "time": "2026-10-26 06:56:58",

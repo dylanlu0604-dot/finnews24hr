@@ -1,7 +1,44 @@
 {
-  "updated": "2026-10-26 07:00:49",
-  "count": 13313,
+  "updated": "2026-10-26 07:04:39",
+  "count": 13306,
   "items": [
+    {
+      "id": "te:economy:594777",
+      "time": "2026-10-26 07:04:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Fiscal Expenditure",
+        "Importance 0"
+      ],
+      "text": "China's Fiscal Expenditure Growth Slows to 1% in Jan-Sep — China's general public budget expenditure increased 1% year-on-year to CNY 21.02 trillion in the first nine months of 2026, slowing from a rise of 1.2% in the first eight months. Central government expenditure climbed 5.8% to CNY 3.28 trillion, while local government spending increased 0.2% to CNY 17.74 trillion, indicating that fiscal support continued to be led by the central government. Among major spending categories, healthcare recorded the strongest growth, advancing 7.7%, followed by social security and employment (+5.2%), highlighting the country's ongoing policy efforts to improve people's livelihoods. Meanwhile, fiscal revenue grew 5.1% year-on-year to CNY 17.23 trillion, following a gain of 5.7% in the January–August period. During January–September, tax revenue grew 6.1%, while non-tax revenue advanced 1.2%."
+    },
+    {
+      "id": "5167939",
+      "time": "2026-10-26 07:03:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在社交媒體發文重申支援以色列總理內塔尼亞胡。"
+    },
+    {
+      "id": "mkt:01a1754c-dfe0-7ee0-a96f-e5b686462087",
+      "time": "2026-10-26 07:02:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Brazil vote count 21.84% — Flavio leads Lula】In the presidential runoff, with 21.84% of votes counted incumbent President Lula has 49.53% and Flavio, son of a former president, has 50.47%."
+    },
+    {
+      "id": "5167938",
+      "time": "2026-10-26 07:00:45",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "巴西總統選舉第二輪投票已統計13.65%的選票，弗拉維奧·博索納羅得票率為50.01%，盧拉為49.99%。"
+    },
     {
       "id": "5167934",
       "time": "2026-10-26 06:56:58",
@@ -120223,113 +120260,6 @@
         "公司"
       ],
       "text": "【10月以來五家北交所公司獲機構調研 訂單交付與業務拓展受關注】10月以來，方正閥門、九菱科技、國航遠洋、鴻仕達、科創新材五家北交所上市公司陸續透過開展現場調研、線上交流等方式與機構投資者溝通，參與機構涵蓋券商、基金、保險及資產管理機構等。從披露的投資者關係活動記錄看，訂單交付、收入結構、盈利水平及新業務進展成為機構關注的重點。"
-    },
-    {
-      "id": "5152639",
-      "time": "2026-10-19 07:04:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【A股分紅回購增持熱潮湧動】Wind資料顯示，截至10月18日，今年以來已有3734家A股上市公司實施分紅，現金分紅總額已超過2萬億元。與此同時，上市公司回購增持動作密集，回饋投資者意識顯著增強。監管部門近期明確，將引導上市公司透過股權激勵、分紅回購等提高自身價值，大力督促引導上市公司強化投資者回報意識，增強投資者回報的持續性、及時性和可預期性，更好維護廣大中小投資者合法權益。市場人士認為，更多上市公司及股東有望持續加大分紅、回購與增持力度，在提升市值管理能力與意願的同時，形成股東權益、上市公司市值與股東結構最佳化的正向迴圈。 (中證報)"
-    },
-    {
-      "id": "mkt:01a15141-c514-7ee0-a8d4-1c2d9a3357f0",
-      "time": "2026-10-19 07:03:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran denies reports of explosions in eastern Tehran】State media reported the Tehran province Seyyedal-Shohada Corps press office said social-media claims of explosions in eastern Tehran were unfounded and that, so far, no explosions or security incidents have been reported."
-    },
-    {
-      "id": "mkt:01a15141-a8cc-7ee0-a8d4-17f984dc23ed",
-      "time": "2026-10-19 07:03:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "UK Rightmove average asking price index rose 1.0% MoM in October, versus 0.7% previously."
-    },
-    {
-      "id": "mkt:01a15140-f3c7-7ee0-a8d4-0ea53ff0f4c6",
-      "time": "2026-10-19 07:02:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "UK October Rightmove average asking-price index YoY -0.1% (prior -0.8%)."
-    },
-    {
-      "id": "5152638",
-      "time": "2026-10-19 07:02:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4180美元/盎司，日內漲0.38%。"
-    },
-    {
-      "id": "5152637",
-      "time": "2026-10-19 07:02:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本第一生命保險給出44億美元收購要約，受該收購訊息刺激，澳洲年金資管企業Challenger股價大漲15%。"
-    },
-    {
-      "id": "5152636",
-      "time": "2026-10-19 07:02:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4200美元/盎司，日內漲0.45%。"
-    },
-    {
-      "id": "te:markets:592894",
-      "time": "2026-10-19 07:02:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Extends Losses to Start the Week — The NZX 50 fell 44 points, or 0.3%, to 13,710 in Monday morning deals, extending losses from the previous session and touching its lowest level since October 8. The index tracked a decline on Wall Street on Friday amid a continued tech sell-off. Traders were cautious ahead of the release of Q3 inflation, along with a slew of Chinese data, including GDP growth, due this week. Fresh data also pressured sentiment, as New Zealand's trade deficit widened sharply in September, with imports rising more than exports. However, private sector figures for September capped the fall, as private sector growth hit a three-month high, with manufacturing sector growth accelerating while the services sector continued to expand. The financials, technology, real estate, and energy sectors mainly weighed on the index, with notable losses from Mainfreight (-3.0%), Henderson Far East Income (-1.8%), Infratil (-1.6%), Gentrack Group (-1.5%), Channel Infrastructure (-0.9%), and F&C Investment (-0.8%)."
-    },
-    {
-      "id": "mkt:01a15140-27ef-7ee0-a8d4-042b7c9afdde",
-      "time": "2026-10-19 07:02:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Rightmove House Price Index (YoY) (Oct) | actual -0.1% | previous -0.80%"
-    },
-    {
-      "id": "mkt:01a15140-1495-7ee0-a8d3-f89e6c20f528",
-      "time": "2026-10-19 07:01:56",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Rightmove House Price Index (MoM) (Oct) | actual 1% | previous 0.70%"
-    },
-    {
-      "id": "5152635",
-      "time": "2026-10-19 07:01:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國10月份房價環比上漲1%。"
     }
   ]
 }
