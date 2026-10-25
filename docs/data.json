@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-25 15:15:05",
-  "count": 13214,
+  "updated": "2026-10-25 15:19:03",
+  "count": 13217,
   "items": [
+    {
+      "id": "mkt:01a171eb-888f-7ee0-a96a-138069ed5acf",
+      "time": "2026-10-25 15:17:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The local governor said a drone attack damaged an industrial facility in Russia's Perm region."
+    },
+    {
+      "id": "5167465",
+      "time": "2026-10-25 15:16:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯彼爾姆地區州長確認，該地區一處工業設施在無人機襲擊中受損。"
+    },
+    {
+      "id": "5167464",
+      "time": "2026-10-25 15:16:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗防空系統在南部城市班達爾阿巴斯附近擊落了一架“洛卡斯”無人機。"
+    },
+    {
+      "id": "5167463",
+      "time": "2026-10-25 15:16:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【晝夜奮戰，西藏巴青首批60套救災安置板房搭建完畢】西藏那曲市巴青縣7.0級地震發生後，各路救援力量馳援災區，參與抗震救災工作。國家隧道應急救援中鐵二局西藏隊聯合中鐵二局、中鐵南投等單位，晝夜接續攻堅，於10月25日凌晨2時10分完成地震災區首批60套救災安置板房搭建。（央視新聞）"
+    },
+    {
+      "id": "5167462",
+      "time": "2026-10-25 15:15:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列大選日限制巴勒斯坦人員出入境】以色列國防軍釋出通告稱，以色列將於 10 月 27 日大選當天，禁止約旦河西岸巴勒斯坦務工人員出入境，並關閉所有陸路口岸。自週日至週一，巴勒斯坦務工人員也不得進入約旦河西岸的以色列定居點，工業區以及部分獲批區域除外。"
+    },
     {
       "id": "5167461",
       "time": "2026-10-25 15:13:16",
@@ -119535,24 +119575,6 @@
         "Important"
       ],
       "text": "Gaza Civil Defense spokesman told Al Jazeera the agency urged the international community to pressure authorities to allow urgent relief supplies and aid personnel into Gaza to assist rescue operations."
-    },
-    {
-      "id": "5152243",
-      "time": "2026-10-18 15:17:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度中部發生卡車撞人事故致14人死亡】據印度媒體18日報道，印度中部中央邦瓜廖爾市當天凌晨發生一起卡車撞人事故，已造成14人死亡、28人受傷。 據印度報業托拉斯和《印度快報》報道，當天1時30分許，一輛裝滿稻穀、懸掛旁遮普邦牌照的卡車在駛經通往一座印度教寺廟的下坡路段時突然失控，隨後衝破警方路障，撞倒路邊民眾並衝撞沿途商鋪，最終撞上寺廟大門，導致部分圍牆倒塌。 當地警方稱，由於印度教節日期間前往寺廟的民眾較多，事發路段此前已對重型車輛實施限行。警方正在調查涉事卡車為何仍會駛入該路段，並搜捕逃逸的卡車司機。 初步調查顯示，涉事卡車可能因剎車失靈而失控。事故具體原因仍在調查中。（新華社）"
-    },
-    {
-      "id": "mkt:01a14dde-554d-7ee0-a8cf-3880614554d8",
-      "time": "2026-10-18 15:16:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Chinese banks roll out retirement-targeted wealth products】Several Chinese banks and wealth managers have launched retirement-specific wealth products with conservative asset mixes—primarily deposits, time deposits and high-grade credit bonds—and tenors of about 1–2 years. Industry participants advise lifecycle-aligned allocation: younger investors should adopt multi-asset, multi-strategy approaches for longer-term growth; investors about 10 years from retirement should gradually shift toward lower-volatility, conservative assets; those near retirement should prioritize yield certainty and stable cash flow."
     }
   ]
 }
