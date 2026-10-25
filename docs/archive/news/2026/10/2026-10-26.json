@@ -1,7 +1,29 @@
 {
   "date": "2026-10-26",
-  "count": 241,
+  "count": 243,
   "items": [
+    {
+      "id": "mkt:01a1753c-39c8-7ee0-a96f-ce5183c9db87",
+      "time": "2026-10-26 06:44:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "Copper",
+        "USDJPY"
+      ],
+      "text": "Yomiuri reports Japan plans to support banks to provide financing for investments aimed at boosting economic growth."
+    },
+    {
+      "id": "5167922",
+      "time": "2026-10-26 06:43:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中緬原油管道累計輸量突破1億噸】記者今天（26日）從國家管網集團獲悉，中緬原油管道累計輸油突破1億噸，為雲南及周邊區域最佳化油氣資源配置、推動經濟社會高質量發展築牢能源根基。中緬原油管道是我國第四大能源進口通道。管道起於緬甸，國內段全長618公里，由雲南瑞麗入境，終點直達雲南石化安寧煉廠，2017年6月正式投產執行。（央視新聞）"
+    },
     {
       "id": "mkt:01a17539-1222-7ee0-a96f-c20e066af495",
       "time": "2026-10-26 06:40:36",

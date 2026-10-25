@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-26 06:41:32",
-  "count": 13306,
+  "updated": "2026-10-26 06:45:21",
+  "count": 13304,
   "items": [
+    {
+      "id": "mkt:01a1753c-39c8-7ee0-a96f-ce5183c9db87",
+      "time": "2026-10-26 06:44:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "Copper",
+        "USDJPY"
+      ],
+      "text": "Yomiuri reports Japan plans to support banks to provide financing for investments aimed at boosting economic growth."
+    },
+    {
+      "id": "5167922",
+      "time": "2026-10-26 06:43:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中緬原油管道累計輸量突破1億噸】記者今天（26日）從國家管網集團獲悉，中緬原油管道累計輸油突破1億噸，為雲南及周邊區域最佳化油氣資源配置、推動經濟社會高質量發展築牢能源根基。中緬原油管道是我國第四大能源進口通道。管道起於緬甸，國內段全長618公里，由雲南瑞麗入境，終點直達雲南石化安寧煉廠，2017年6月正式投產執行。（央視新聞）"
+    },
     {
       "id": "mkt:01a17539-1222-7ee0-a96f-c20e066af495",
       "time": "2026-10-26 06:40:36",
@@ -120242,47 +120264,6 @@
         "DXY"
       ],
       "text": "【Saudi Arabia, Yemeni Houthi forces continue reciprocal attacks】On the 18th local time, Saudi Arabia and Yemen’s Houthi forces continued reciprocal attacks. A Saudi landmark ordered all staff to work remotely after the escalation. The Houthis said Saudi forces carried out about 110 air raids and missile strikes in the past 24 hours against Sanaa, Taiz and Saada provinces, causing casualties; they said an airstrike on a residence in Saada killed at least nine. Saudi civil defence said Najran was hit by a Houthi projectile that landed in a residential area, injuring people and damaging vehicles and buildings."
-    },
-    {
-      "id": "te:economy:592893",
-      "time": "2026-10-19 06:45:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Imports",
-        "Importance 1"
-      ],
-      "text": "New Zealand Imports Grow 17.7% in September — Imports to New Zealand rose 17.7% year-on-year to NZD 8.44 billion in September 2026, following a downwardly revised 13.2% increase in the previous month."
-    },
-    {
-      "id": "5152632",
-      "time": "2026-10-19 06:43:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【澤連斯基稱若烏“被要求”舉行戰時選舉他將競選連任】烏克蘭總統澤連斯基18日接受媒體採訪時稱，若美國和俄羅斯方面要求烏方在戰爭期間舉行選舉，他將競選連任總統。澤連斯基當天在接受美國廣播公司採訪時說，是否舉行總統選舉首先要遵從烏克蘭人民的選擇。如果美國和俄羅斯堅持要求烏在戰爭期間舉行選舉，那麼烏克蘭還需要至少60天的停火。烏克蘭將在停火期間盡最大努力修改法律並準備必要的安全基礎設施。澤連斯基還表示，要確保烏軍人員“能夠而且必須”參加選舉。（新華社）"
-    },
-    {
-      "id": "te:economy:592892",
-      "time": "2026-10-19 06:42:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Exports",
-        "Importance 1"
-      ],
-      "text": "New Zealand Exports Rise 12.3% in September — New Zealand's exports increased 12.3% year-on-year to NZD 6.47 billion in September 2026, following a downwardly revised 12.4% rise in the previous month."
-    },
-    {
-      "id": "5152631",
-      "time": "2026-10-19 06:41:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨上漲0.3%，納斯達克100指數期貨上漲0.6%。"
     }
   ]
 }
