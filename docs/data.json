@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-26 01:23:07",
-  "count": 13255,
+  "updated": "2026-10-26 01:26:59",
+  "count": 13253,
   "items": [
+    {
+      "id": "5167796",
+      "time": "2026-10-26 01:26:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：1月份全國性的反政府抗議主要由社會問題引發；如果民眾信任我們，知道我們想要幫助他們、解決他們的問題，他們肯定會與我們合作。"
+    },
+    {
+      "id": "mkt:01a17417-dbb6-7ee0-a96d-e7af7f24abb9",
+      "time": "2026-10-26 01:24:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "Houthi forces said the Saudi-led coalition carried out 56 air and missile strikes on civilian targets in Yemen's Hajjah, Lahij, Amran, Saada, Al Jawf, Taiz and Ibb provinces in the past 24 hours."
+    },
+    {
+      "id": "5167795",
+      "time": "2026-10-26 01:24:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國俄勒岡州紐波特一家海產品加工廠的氨儲罐發生爆炸。"
+    },
     {
       "id": "mkt:01a1740f-90ca-7ee0-a96d-dd25796175ee",
       "time": "2026-10-26 01:15:39",
@@ -119852,46 +119881,6 @@
         "DXY"
       ],
       "text": "【Houthi movement says Saudi carried out 110 airstrikes in 24 hours, causing more than 30 casualties】Houthi military spokesman Yahya Saree said Saudi warplanes launched 110 airstrikes and missile strikes in the past 24 hours, striking civilian targets in Sanaa and the provinces of Hodeidah, Taiz, Amran, Hajjah, Saada, Jawf, Dhale and Marib. He said Riyadh deployed F-15s and Typhoon jets from Khamis Mushait and Taif and fired missiles from Najran, causing more than 30 killed or wounded, mostly women and children. Saree said the total number of air and missile strikes since Saudi Arabia's latest escalation has reached 2,652."
-    },
-    {
-      "id": "5152539",
-      "time": "2026-10-19 01:26:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩副總理塔裡克·米特里表示，各方已就以軍逐步撤出黎巴嫩領土達成一致，但該安排尚未得到落實。"
-    },
-    {
-      "id": "5152538",
-      "time": "2026-10-19 01:26:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩副總理塔裡克·米特里表示，華盛頓尚未對以色列施加足夠壓力，以促使其履行義務。"
-    },
-    {
-      "id": "5152537",
-      "time": "2026-10-19 01:26:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列對黎巴嫩南部瓦迪薩盧基地區郊區發動空襲。"
-    },
-    {
-      "id": "5152536",
-      "time": "2026-10-19 01:25:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談內塔尼亞胡：也許我能與另一位候選人合作，也許不能。但我為什麼要冒這個險？"
-    },
-    {
-      "id": "5152535",
-      "time": "2026-10-19 01:23:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：三菱重工生產線將為日本防衛省建造補給艦。"
     }
   ]
 }
