@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-26 06:53:00",
-  "count": 13310,
+  "updated": "2026-10-26 06:56:48",
+  "count": 13312,
   "items": [
+    {
+      "id": "5167932",
+      "time": "2026-10-26 06:55:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相辦公室：英國將額外支出4.32億英鎊用於幫助遏制無家可歸問題。"
+    },
+    {
+      "id": "mkt:01a17546-64af-7ee0-a96f-dfc19887cb41",
+      "time": "2026-10-26 06:55:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bearish"
+      ],
+      "text": "South Korea's SK Hynix (SKHY.O) plans a special dividend totaling KRW 16 tln (~$12 bln), the Dong-a Ilbo reports."
+    },
+    {
+      "id": "5167931",
+      "time": "2026-10-26 06:54:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【北交所三季報前瞻：業績分化顯現，回購增持與分紅合力穩信心】隨著10月15日同惠電子率先披露2026年三季報，北交所正式進入業績驗證視窗。Wind統計顯示，截至10月24日17時，已有22家北交所公司交出前三季度成績單，17家實現盈利，11家公司營收與淨利潤實現雙增。與此同時，10月以來，北交所公司回購增持持續升溫，部分公司啟動分紅派現，產業資本與上市公司層面的真金白銀，正在市場波動之外為投資者注入一重信心底色。（中證報）"
+    },
     {
       "id": "5167930",
       "time": "2026-10-26 06:52:09",
@@ -120293,14 +120322,6 @@
         "MKT News"
       ],
       "text": "【COP17 to the Convention on Biological Diversity opens in Yerevan】The 17th meeting of the Conference of the Parties to the Convention on Biological Diversity (COP17) opened on the 18th in Yerevan, Armenia and will conduct the first global collective review of implementation of the Kunming-Montreal Global Biodiversity Framework, seeking to drive progress toward its 2030 targets."
-    },
-    {
-      "id": "5152634",
-      "time": "2026-10-19 06:53:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星物產：獲得2.27萬億韓元訂單。"
     }
   ]
 }
