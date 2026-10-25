@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-26 01:57:56",
-  "count": 13265,
+  "updated": "2026-10-26 02:01:45",
+  "count": 13264,
   "items": [
+    {
+      "id": "5167808",
+      "time": "2026-10-26 01:57:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美方希望所有相關方都支援和解談判。"
+    },
     {
       "id": "mkt:01a17432-4d8c-7ee0-a96e-1d050ea90633",
       "time": "2026-10-26 01:53:35",
@@ -119952,28 +119960,6 @@
         "其他"
       ],
       "text": "倫敦金融城考慮增稅和削減服務以填補7000萬英鎊預算缺口。"
-    },
-    {
-      "id": "5152545",
-      "time": "2026-10-19 02:01:00",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "市場資訊：Anthropic將部分股份轉入新設立的“公共利益”基金。"
-    },
-    {
-      "id": "mkt:01a1502a-417b-7ee0-a8d2-b170702fcc10",
-      "time": "2026-10-19 01:58:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【US Energy Secretary wright: diesel deal intended to incentivize Russia to de‑escalate Ukraine conflict】In a Sunday interview, US Energy Secretary wright said allowing Russian diesel into global markets is meant to push Moscow to reduce hostilities in Ukraine, not to provide economic support to Russia. He said if Russia cuts back on the conflict and diesel exports resume, the US will permit those energy flows, calling the deal a \"carrot to end the war,\" not \"Russia's economic lifeline.\""
     }
   ]
 }
