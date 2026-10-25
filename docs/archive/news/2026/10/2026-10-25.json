@@ -1,7 +1,23 @@
 {
   "date": "2026-10-25",
-  "count": 294,
+  "count": 296,
   "items": [
+    {
+      "id": "mkt:01a17084-dae6-7ee0-a968-36977941cdd8",
+      "time": "2026-10-25 08:45:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi-led coalition says intercepted drone over Riyadh】Early on the 25th local time, a spokesman for the Saudi-led multinational coalition said on social media the coalition intercepted and destroyed a drone in the Riyadh area."
+    },
+    {
+      "id": "5166769",
+      "time": "2026-10-25 08:44:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國前總統奧巴馬：除了翻新裝修，特朗普似乎還專心做一件事，那就是想方設法讓自己、家人和親信發財。"
+    },
     {
       "id": "mkt:01a17082-b4b2-7ee0-a968-2d9d0cb62114",
       "time": "2026-10-25 08:42:56",
