@@ -1,7 +1,23 @@
 {
   "date": "2026-10-25",
-  "count": 535,
+  "count": 537,
   "items": [
+    {
+      "id": "mkt:01a171f7-9c0c-7ee0-a96a-39a9028719be",
+      "time": "2026-10-25 15:30:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Threats to Saudi cities Abha and Khamis Mushait have been lifted."
+    },
+    {
+      "id": "5167468",
+      "time": "2026-10-25 15:28:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯釋出塔努馬地區潛在危險警報。"
+    },
     {
       "id": "mkt:01a171f3-df4b-7ee0-a96a-36813562d516",
       "time": "2026-10-25 15:26:10",
