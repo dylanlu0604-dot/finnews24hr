@@ -1,7 +1,15 @@
 {
   "date": "2026-10-25",
-  "count": 354,
+  "count": 355,
   "items": [
+    {
+      "id": "mkt:01a170dd-549c-7ee0-a968-9cd0da341a47",
+      "time": "2026-10-25 10:21:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A shooting occurred on the 24th at a university in Florida, injuring multiple people."
+    },
     {
       "id": "5167159",
       "time": "2026-10-25 10:21:25",
