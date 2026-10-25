@@ -1,7 +1,380 @@
 {
-  "updated": "2026-10-26 04:43:55",
-  "count": 13309,
+  "updated": "2026-10-26 06:07:30",
+  "count": 13294,
   "items": [
+    {
+      "id": "5167905",
+      "time": "2026-10-26 06:04:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "一名美國官員表示，下一輪美烏俄工作級別會談可能於幾周後在阿布扎比或瑞士舉行，目標是推動最終實現領導人級別會晤，但目前仍有大量工作要做。"
+    },
+    {
+      "id": "mkt:01a17516-296c-7ee0-a96f-91d40c42e99b",
+      "time": "2026-10-26 06:02:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold and silver opened higher Monday, trading at $3,997/oz and $54.17/oz respectively."
+    },
+    {
+      "id": "5167904",
+      "time": "2026-10-26 06:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "在已統計0.29%選票的情況下，巴西總統決選中盧拉得票率為56.70%，弗拉維奧·博索納羅為43.30%。"
+    },
+    {
+      "id": "5167903",
+      "time": "2026-10-26 06:01:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西選舉法院恢復計票。"
+    },
+    {
+      "id": "mkt:01a17515-23e8-7ee0-a96f-8d01c8de45fc",
+      "time": "2026-10-26 06:01:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude opened about 1.2% lower on Monday after reports that Qatari mediators traveled to Tehran to coordinate de-escalation of regional tensions."
+    },
+    {
+      "id": "5167902",
+      "time": "2026-10-26 06:01:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨上漲0.4%，納斯達克100指數期貨上漲0.6%。"
+    },
+    {
+      "id": "5167901",
+      "time": "2026-10-26 06:01:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4000美元/盎司，日內漲0.07%。"
+    },
+    {
+      "id": "mkt:01a17514-7db5-7ee0-a96f-86f248ba7346",
+      "time": "2026-10-26 06:00:39",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "U.S. stock-index futures for the three major benchmarks opened higher on Monday; Nasdaq futures rose 0.6%."
+    },
+    {
+      "id": "5167900",
+      "time": "2026-10-26 06:00:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破54美元/盎司，日內漲0.17%。"
+    },
+    {
+      "id": "5167899",
+      "time": "2026-10-26 06:00:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報102.22美元/桶。"
+    },
+    {
+      "id": "5167898",
+      "time": "2026-10-26 06:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破111美元/桶，日內跌1.03%。"
+    },
+    {
+      "id": "5167897",
+      "time": "2026-10-26 06:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報110.57美元/桶。"
+    },
+    {
+      "id": "5167896",
+      "time": "2026-10-26 05:57:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲本週維持利率不變的機率為90%】據CME“美聯儲觀察”：美聯儲本週維持利率不變的機率為90%，累計加息25個基點的機率為10%。美聯儲到12月維持利率不變的機率為23.8%，累計加息25個基點的機率68.9%，累計加息50個基點的機率為7.3%。"
+    },
+    {
+      "id": "5167895",
+      "time": "2026-10-26 05:55:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "東京燃氣公司因成本問題放棄福島風電專案。"
+    },
+    {
+      "id": "5167894",
+      "time": "2026-10-26 05:54:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤日內跌超1%，現報3.0318美元。"
+    },
+    {
+      "id": "mkt:01a1750d-f476-7ee0-a96f-7d3faab938cb",
+      "time": "2026-10-26 05:53:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Yemen's information minister said two missiles fired by Houthi forces landed near an IDP camp in Aden's al-Salakhidin area, calling the strikes a serious violation of international law."
+    },
+    {
+      "id": "5167893",
+      "time": "2026-10-26 05:52:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲天然氣價格升至2022年以來的最高水平。"
+    },
+    {
+      "id": "mkt:01a1750a-939d-7ee0-a96f-70b1a91c1c46",
+      "time": "2026-10-26 05:49:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Israel's prime minister Netanyahu said the \"alliance between the left and radical Islamism\" is destroying France, Belgium, Italy and Spain, is now attempting to destroy the United States, and could also destroy Israel."
+    },
+    {
+      "id": "5167892",
+      "time": "2026-10-26 05:42:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡談伊朗：我已指示摩薩德和以色列國防軍推翻該政權，因為這是結束這一切的唯一途徑。阿拉伯國家，不是一個兩個，都在排隊觀望我們能否完成這項任務。之後它們就會加入《亞伯拉罕協議》。"
+    },
+    {
+      "id": "5167891",
+      "time": "2026-10-26 05:35:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：民主黨其實也有一些不錯的人，只是很少被人提起，我希望繼續不要談論這些人。"
+    },
+    {
+      "id": "5167890",
+      "time": "2026-10-26 05:29:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "塞爾維亞領導人武契奇在承認選舉失利後表示，相關議案要到3月或者4月才能透過，屆時會出臺針對俄羅斯聯邦的制裁措施。"
+    },
+    {
+      "id": "5167889",
+      "time": "2026-10-26 05:26:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊於當地時間週一凌晨12點42分，從霍爾木茲甘省庫赫斯塔克附近向霍爾木茲海峽方向發射導彈，居民區附近可以聽到發射聲響。"
+    },
+    {
+      "id": "mkt:01a174f4-5678-7ee0-a96f-68563ac73cbd",
+      "time": "2026-10-26 05:25:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【UK to raise tax-free threshold for low-income pensioners】UK Chancellor Healy is set to announce in this week’s budget that the full state pension will rise by £489 to £13,036, a move that would push about 1.0 mln low-income pensioners above the current personal allowance. To preserve the principle that the state pension is non‑taxable, Healy will raise the tax-free threshold for low-income pensioners to £13,036, a measure expected to cost about £200 mln a year by 2030. The threshold will increase in line with state pension upratings during this Parliament, but millions of higher‑income pensioners will still face income tax."
+    },
+    {
+      "id": "5167888",
+      "time": "2026-10-26 05:22:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英國財政大臣約翰·希利預計將宣佈全額國家養老金上漲3.9%。"
+    },
+    {
+      "id": "5167887",
+      "time": "2026-10-26 05:18:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞宣佈擊斃10名反政府武裝成員】哥倫比亞總統德拉埃斯普列亞25日透過社交媒體表示，哥軍方和警方近日在該國西南部考卡省開展聯合軍事行動，擊斃10名反政府武裝“哥倫比亞民族解放武裝”成員，其中包括兩名主要頭目。"
+    },
+    {
+      "id": "mkt:01a174ed-6bea-7ee0-a96f-66024b667c1a",
+      "time": "2026-10-26 05:17:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Serbian student group \"Student List - Students Win\" announced on the 25th that it had won parliamentary elections held that day."
+    },
+    {
+      "id": "5167886",
+      "time": "2026-10-26 05:13:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲五國將發表聯合宣告 指出俄羅斯是最大安全威脅】歐洲國防開支最高的五個國家將警告稱，俄羅斯是歐洲大陸安全面臨的最緊迫、最長期威脅，並承諾堅定不移地支援烏克蘭。法國、德國、義大利、波蘭和英國（E5）五國部長還計劃表示，歐洲“必須為自身安全承擔更大責任”。"
+    },
+    {
+      "id": "5167885",
+      "time": "2026-10-26 05:11:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【塞爾維亞“學生名單－學生獲勝”宣佈議會選舉獲勝】由塞爾維亞學生團體推動的“學生名單－學生獲勝”25日宣佈,在當天舉行的議會選舉中獲勝。（新華社）"
+    },
+    {
+      "id": "mkt:01a174e3-4801-7ee0-a96f-5839f2a523bc",
+      "time": "2026-10-26 05:06:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Europe's five largest defence spenders warn Russia is Europe's most severe long-term security threat】A draft joint statement from France, Germany, Italy, Poland and the UK (E5) says Russia is the most urgent and long-term threat to European security and pledges steadfast support for Ukraine. The draft accuses Russia of continuing the war in Ukraine, repeatedly violating allied airspace, carrying out sabotage and mounting increasingly frequent multi‑domain hybrid attacks. Ministers plan to say Europe must assume greater responsibility for its own security; the statement is expected after a Paris meeting on Monday. It adds the US remains an indispensable ally and that greater European responsibility should begin by strengthening European allies’ capabilities and status within NATO. The draft says EU regulatory and financial tools can help member states build defence capacity but EU efforts should reinforce, not duplicate, NATO and remain open to non‑NATO members."
+    },
+    {
+      "id": "5167884",
+      "time": "2026-10-26 05:06:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX不會收購任何新雲廠商。"
+    },
+    {
+      "id": "5167883",
+      "time": "2026-10-26 04:59:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：為塞爾弗裡奇空軍國民警衛隊基地爭取到21架全新F-15EX鷹II戰鬥機，民主黨原本打算關閉塞爾弗裡奇基地，而我保住了數千個工作崗位，以及這座基地所承載的崇高聲望。"
+    },
+    {
+      "id": "mkt:01a174dc-9423-7ee0-a96f-53dee9bc2fe7",
+      "time": "2026-10-26 04:59:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vucic concedes defeat in Serbian parliamentary election】Former Serbian president Vucic conceded on the 25th (local time) that the electoral alliance led by the Serbian Progressive Party, Aleksandar Vucic — United Serbia, was defeated in the parliamentary election held that day."
+    },
+    {
+      "id": "5167882",
+      "time": "2026-10-26 04:59:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武契奇承認前進黨在塞議會選舉中敗選】塞爾維亞前總統武契奇當地時間25日承認，由塞爾維亞前進黨主導的“亞歷山大·武契奇-團結的塞爾維亞”選舉聯盟在當天舉行的議會選舉中敗選。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a174db-34d9-7ee0-a96f-4a351e42e8f3",
+      "time": "2026-10-26 04:58:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said a one-off $5,000 cash payment will be made shortly after the midterm elections."
+    },
+    {
+      "id": "5167881",
+      "time": "2026-10-26 04:55:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：5000美元紅利將在選舉後不久發放。"
+    },
+    {
+      "id": "5167880",
+      "time": "2026-10-26 04:52:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普聲稱：美國人的收入處於歷史最高水平。今天就業的美國人數量超過歷史上任何時期。貧困率處於歷史最佳、最低水平。出口飆升至美國曆史最高水平。"
+    },
+    {
+      "id": "mkt:01a174d5-378a-7ee0-a96f-43d81ef4ab87",
+      "time": "2026-10-26 04:51:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said the conflict with Iran will \"end soon in some way.\""
+    },
+    {
+      "id": "mkt:01a174d3-56ed-7ee0-a96f-3c5ebefd9917",
+      "time": "2026-10-26 04:49:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "At a hearing, a U.S. appeals court appeared skeptical of the Trump administration's lawsuit against California, which alleges non-U.S. citizens are registered on the state's voter rolls."
+    },
+    {
+      "id": "5167879",
+      "time": "2026-10-26 04:49:28",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：伊朗衝突很快就會以某種方式結束。"
+    },
+    {
+      "id": "5167878",
+      "time": "2026-10-26 04:49:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國上訴法院似乎對特朗普政府針對加州的訴訟持懷疑態度，該訴訟指控非公民在該州選民名冊上。"
+    },
+    {
+      "id": "5167877",
+      "time": "2026-10-26 04:46:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "一架由威尼斯飛往伯明翰的波音737-800客機，在伯明翰機場降落時偏離跑道。"
+    },
     {
       "id": "5167876",
       "time": "2026-10-26 04:41:37",
@@ -119819,530 +120192,6 @@
         "焦點"
       ],
       "text": "布倫特原油期貨下跌1美元，至每桶108.86美元。"
-    },
-    {
-      "id": "5152624",
-      "time": "2026-10-19 06:03:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4170美元/盎司，日內漲0.12%。"
-    },
-    {
-      "id": "5152623",
-      "time": "2026-10-19 06:03:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4190美元/盎司，日內漲0.22%。"
-    },
-    {
-      "id": "mkt:01a1510a-15df-7ee0-a8d3-d1e64586df26",
-      "time": "2026-10-19 06:02:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver slipped after the open then rebounded; currently trading at $57/oz."
-    },
-    {
-      "id": "mkt:01a15109-de39-7ee0-a8d3-ca07a9077198",
-      "time": "2026-10-19 06:02:36",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "U.S. stock-index futures opened steady on Monday."
-    },
-    {
-      "id": "mkt:01a15109-c7b0-7ee0-a8d3-c3063c792610",
-      "time": "2026-10-19 06:02:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "At Monday open spot gold briefly fell more than $10 before trimming losses, trading at $4,161/oz."
-    },
-    {
-      "id": "5152622",
-      "time": "2026-10-19 06:02:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債期貨上漲9個點，30年期國債期貨上漲13個點。"
-    },
-    {
-      "id": "5152621",
-      "time": "2026-10-19 06:01:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨下跌0.1%，納斯達克期貨下跌0.2%。"
-    },
-    {
-      "id": "mkt:01a15108-6ab5-7ee0-a8d3-bff9be52405b",
-      "time": "2026-10-19 06:01:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI crude and Brent crude opened about 0.4% lower on Monday, trading at $98.54/bbl and $106.93/bbl respectively."
-    },
-    {
-      "id": "5152620",
-      "time": "2026-10-19 06:00:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊發言人：對伊朗能源基礎設施的任何攻擊都將引發對以色列的毀滅性回應。"
-    },
-    {
-      "id": "5152619",
-      "time": "2026-10-19 06:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破99美元/桶，日內跌0.22%。"
-    },
-    {
-      "id": "5152618",
-      "time": "2026-10-19 06:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破57美元/盎司，日內跌0.71%。"
-    },
-    {
-      "id": "5152617",
-      "time": "2026-10-19 06:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4180美元/盎司，日內持平。"
-    },
-    {
-      "id": "5152616",
-      "time": "2026-10-19 05:56:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲10月維持利率不變的機率為83.9%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為83.9%，累計加息25個基點的機率為16.1%。美聯儲到12月維持利率不變的機率為8.2%，累計加息25個基點的機率77.3%，累計加息50個基點的機率為14.5%。"
-    },
-    {
-      "id": "5152615",
-      "time": "2026-10-19 05:53:04",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "歐洲天然氣價格開盤上漲2%。"
-    },
-    {
-      "id": "5152614",
-      "time": "2026-10-19 05:52:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "閃迪暗盤漲超1%，現報1277.685美元。"
-    },
-    {
-      "id": "mkt:01a150fb-2d7a-7ee0-a8d3-b2e8461d6493",
-      "time": "2026-10-19 05:46:40",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "New Zealand's 12-month trade deficit widened to NZD 6.18 bln in September, from a prior reading revised to NZD 5.61 bln (previously reported NZD 5.442 bln)."
-    },
-    {
-      "id": "mkt:01a150fa-3eed-7ee0-a8d3-aacc59ff20f4",
-      "time": "2026-10-19 05:45:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand September exports NZ$6.47 bln; prior figure revised from NZ$6.66 bln to NZ$6.48 bln."
-    },
-    {
-      "id": "mkt:01a150fa-3b8f-7ee0-a8d3-a1fb51d8766d",
-      "time": "2026-10-19 05:45:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand September imports NZ$8.44 bln; prior estimate revised from NZ$8.00 bln to NZ$8.02 bln."
-    },
-    {
-      "id": "mkt:01a150fa-3b77-7ee0-a8d3-9b8725e9aa4f",
-      "time": "2026-10-19 05:45:38",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "New Zealand September trade balance: NZD 1.971 billion deficit. August balance revised to a NZD 1.536 billion deficit from NZD 1.349 billion."
-    },
-    {
-      "id": "mkt:01a150f9-a919-7ee0-a8d3-961d83103db3",
-      "time": "2026-10-19 05:45:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Exports (Sep) | actual 6470000000B | previous 6659999999.999999B"
-    },
-    {
-      "id": "mkt:01a150f9-a871-7ee0-a8d3-7c1a5db27ff2",
-      "time": "2026-10-19 05:45:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Imports (Sep) | actual 8440000000.000001B | previous 8000000000B"
-    },
-    {
-      "id": "mkt:01a150f9-a895-7ee0-a8d3-8bd5f81a15eb",
-      "time": "2026-10-19 05:45:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | 12-Month Trade Balance (Sep) | actual -6180000000B | previous -5442000000B"
-    },
-    {
-      "id": "mkt:01a150f9-a88d-7ee0-a8d3-80020dc2cc23",
-      "time": "2026-10-19 05:45:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Trade Balance (Sep) | actual -1971000000B | previous -1349000000B"
-    },
-    {
-      "id": "5152613",
-      "time": "2026-10-19 05:42:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國抗議2397人被捕】法國多地17日發生遊行示威和抗議活動，部分地區出現暴力行為。據法國媒體報道，抗議活動聚集了農民、氣候活動人士和學生等群體，部分工會也參與其中，涉及訴求包括燃油價格、生活成本、教育和公共服務等。據法國內政部統計，當天全法抗議人數達55萬，其中巴黎有11萬，全國範圍內有2397人被捕，997名警察和憲兵受傷，其中7人傷勢嚴重。（新華社）"
-    },
-    {
-      "id": "mkt:01a150f5-8cf3-7ee0-a8d3-731baf77506a",
-      "time": "2026-10-19 05:40:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Opposition wins landslide in Czech Senate runoffs】The Czech Statistical Office said the opposition won an overwhelming victory in second-round Senate runoffs on the 17th; the ruling ANO movement (Action of Dissatisfied Citizens) failed to secure any seats in the partial Senate renewal. The Czech Senate has 81 seats, with one-third renewed every two years."
-    },
-    {
-      "id": "5152612",
-      "time": "2026-10-19 05:39:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【捷克參議院改選反對黨取得壓倒性勝利】捷克統計局公佈計票結果顯示，反對黨在17日結束的捷克參議院改選第二輪投票中取得壓倒性勝利，執政黨“不滿公民行動”黨在此次參議院部分改選中未能獲得任何席位。捷克參議院共有81個議席，每兩年改選三分之一席位。（新華社）"
-    },
-    {
-      "id": "5152611",
-      "time": "2026-10-19 05:38:31",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲多地爆發大規模抗議後，歐元兌主要貨幣下跌】亞洲早盤交易時段，受歐洲週末大範圍抗議活動以及俄烏衝突升級影響，歐元兌G10集團貨幣走低。歐元兌美元下跌0.5%，報1.1186。受歐元走弱拖累，東歐貨幣表現弱於其他新興市場貨幣。美元兌波蘭茲羅提上漲0.5%，報3.9071；美元兌匈牙利福林上漲0.5%，報324.88；美元兌保加利亞列弗上漲0.5%，報1.7485。法國多個城市的抗議演變為警方與示威者之間的衝突，爆發該國多年來最嚴重的街頭暴力事件，出現搶劫、地標建築遭縱火情況。歐洲多國接連發生示威活動，法國的抗議規模最大，比利時、義大利、葡萄牙也受到波及。"
-    },
-    {
-      "id": "5152610",
-      "time": "2026-10-19 05:32:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大拉特蘭少將通報，軍方基地訓練場發生草原火情，強風助推火勢快速擴散，事故起火原因目前仍在調查階段。"
-    },
-    {
-      "id": "mkt:01a150ec-e66a-7ee0-a8d3-6b75c789e964",
-      "time": "2026-10-19 05:31:05",
-      "tags": [
-        "MKT News",
-        "NZDUSD",
-        "Impact bearish"
-      ],
-      "text": "New Zealand services performance index for September 50.9, down from prior 51.2 and remaining marginally above the 50 expansion threshold."
-    },
-    {
-      "id": "5152609",
-      "time": "2026-10-19 05:31:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元兌美元下跌0.5%。"
-    },
-    {
-      "id": "mkt:01a150ec-c17a-7ee0-a8d3-65bfa7dca40c",
-      "time": "2026-10-19 05:30:55",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Performance of Services Index (Sep) | actual 50.9 | previous 51.2"
-    },
-    {
-      "id": "5152608",
-      "time": "2026-10-19 05:30:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱一艘違規油輪在霍爾木茲海峽南部觸雷爆炸起火】當地時間19日凌晨，伊朗伊斯蘭革命衛隊海軍宣佈，一艘違規油輪在霍爾木茲海峽南部觸雷，導致機艙爆炸起火。伊朗伊斯蘭革命衛隊海軍強調，任何在霍爾木茲海峽和波斯灣航行的船隻，如果關閉導航和識別系統，都將受到嚴厲的處罰。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a150ea-f423-7ee0-a8d3-5bce32eb9467",
-      "time": "2026-10-19 05:28:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Turkey will commission a second floating gas production platform in Q1 2028, lifting Black Sea gas output to about 45 mln cubic meters per day, the energy minister said on Sunday."
-    },
-    {
-      "id": "5152607",
-      "time": "2026-10-19 05:27:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部宣佈，向生物科技企業Antheia提供總額8000萬美元附條件貸款承諾。"
-    },
-    {
-      "id": "mkt:01a150e9-d683-7ee0-a8d3-52175a524e0d",
-      "time": "2026-10-19 05:27:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "SANA reports Turkey will secure part of Russia's diesel supplies and plans to build a second offshore natural-gas platform in the Black Sea."
-    },
-    {
-      "id": "mkt:01a150e8-bd0a-7ee0-a8d3-4f2d2ceab8c6",
-      "time": "2026-10-19 05:26:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【State Council to hold two press briefings on national economy and tech-driven commerce Oct 19】The State Council Information Office will hold two press briefings on Oct 19. At 10:00 the National Bureau of Statistics deputy head and spokesman Mao Shengyong will present 2026 Q1–Q3 national economic performance; at 15:00 MOFCOM assistant minister Yuan Xiaoming, alongside officials from the Ministry of Industry and Information Technology and the Ministry of Culture and Tourism, will outline measures to accelerate tech-driven commerce."
-    },
-    {
-      "id": "mkt:01a150e7-7e21-7ee0-a8d3-474487ec9995",
-      "time": "2026-10-19 05:25:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Pro-Iran Iraqi group says six US MQ-9 Reapers violated Iraqi airspace】A pro-Iran Iraqi Islamic Resistance group said six U.S. MQ-9 Reaper drones violated Iraqi airspace on Saturday and flew over Anbar, Baghdad, Karbala and Salahaddin provinces, according to a social media post."
-    },
-    {
-      "id": "mkt:01a150e7-7d5f-7ee0-a8d3-3beb9a3a4b73",
-      "time": "2026-10-19 05:25:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【GCC calls on Iran, US to resume dialogue】IRNA reported the Gulf Cooperation Council urged Iran and the United States to return to dialogue and diplomacy to defuse the current crisis. The statement was issued at the close of the GCC's 168th ministerial council in Manama, chaired by Bahrain foreign minister Abdullatif al-Zayani; Russian foreign minister Sergey Lavrov attended."
-    },
-    {
-      "id": "5152606",
-      "time": "2026-10-19 05:24:37",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【事關國民經濟執行與科技興商 今天舉辦兩場重要釋出會】今天將舉辦兩場重要釋出會，聚焦國民經濟執行與推進科技興商有關情況。\n\n國務院新聞辦公室將於10月19日（星期一）上午10時舉行新聞釋出會，請國家統計局新聞發言人、副局長毛盛勇介紹2026年前三季度國民經濟執行情況，並答記者問。\n\n國務院新聞辦公室將於10月19日（星期一）下午3時舉行新聞釋出會，請商務部部長助理袁曉明和工業和資訊化部、文化和旅遊部有關負責人介紹加快推進科技興商有關情況，並答記者問。（央視新聞）"
-    },
-    {
-      "id": "5152605",
-      "time": "2026-10-19 05:23:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大阿爾伯塔省省長：加拿大軍事基地火災發生後，有39名患者住院，其中至少19人情況危急。"
-    },
-    {
-      "id": "mkt:01a150e2-1560-7ee0-a8d3-329882a482f4",
-      "time": "2026-10-19 05:19:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Four senior Chinese financial regulators to speak as Financial Street Forum opens in Beijing】The 2026 Financial Street Forum annual meeting opens in Beijing Oct. 19-22, hosting more than 400 delegates from over 40 countries and regions. PBOC's Pan, NFSA head Ding Xiangqun, CSRC chair Wu Qing and SAFE director Zhu Hexin are scheduled to deliver keynote speeches."
-    },
-    {
-      "id": "5152604",
-      "time": "2026-10-19 05:16:19",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【四家金融監管部門負責人將發聲！金融街論壇年會今日開幕】2026金融街論壇年會於10月19日至22日在北京金融街舉辦，全球40多個國家和地區的400餘位重要嘉賓將出席年會。本屆論壇年會以“開放·合作·包容——共築全球金融發展新生態”為主題。論壇年會包含主論壇（含開、閉幕式）、平行論壇、專題大會和配套活動四種形式，計劃舉辦主論壇、平行論壇共21場議題活動及3場專題大會。中國人民銀行行長潘功勝、國家金融監督管理總局局長丁向群、中國證券監督管理委員會主席吳清、國家外匯管理局局長朱鶴新將出席2026金融街論壇年會並作主題演講。（央視新聞）"
-    },
-    {
-      "id": "5152603",
-      "time": "2026-10-19 05:15:27",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【AI雲企業Nscale IPO估值遭遇投資者反對】Nscale公司約300億美元的IPO估值目標遭到投資者牴觸，部分投資者認為合理估值區間應為160億至190億美元。該公司計劃中的IPO面臨多重難題，包括與微軟的英國資料中心交易終止，以及潛在投資者與其在估值方面存在巨大分歧。Nscale尚未正式啟動IPO推介路演，正在回應美國證券交易委員會對其招股檔案提出的意見，相關商討仍在進行，暫未形成最終決議。"
-    },
-    {
-      "id": "5152602",
-      "time": "2026-10-19 05:13:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "投資者敦促Nscale下調300億美元的IPO估值目標。"
-    },
-    {
-      "id": "mkt:01a150da-1eaf-7ee0-a8d3-28b098af00f0",
-      "time": "2026-10-19 05:10:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran, Egypt foreign ministers hold phone call】Iranian Foreign Minister Abbas Araghchi spoke by phone with Egyptian Foreign Minister Badr Abdelatty on Sunday afternoon; they reviewed recent regional developments and discussed diplomatic initiatives aimed at easing tensions and maintaining regional stability."
-    },
-    {
-      "id": "5152601",
-      "time": "2026-10-19 05:09:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【萬斯：伊朗試圖切斷全球能源供應，衝突結束後油價將下跌】美國副總統萬斯警告伊朗正試圖切斷全球能源供應，並預測戰爭結束後汽油價格將會下跌。萬斯稱：“我們從未遇到過這樣的局面，伊朗正試圖徹底掐斷全球能源供應。”他提出觀點，如果美軍撤離，任由伊朗掌控霍爾木茲海峽航運，汽油價格將會大幅走高。他表示：“這場衝突結束後，我們將會看到油價回落。”"
-    },
-    {
-      "id": "mkt:01a150d9-0e32-7ee0-a8d3-209167cca3a5",
-      "time": "2026-10-19 05:09:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EUR/GBP touched 0.84, down 0.38% on the day."
-    },
-    {
-      "id": "mkt:01a150d7-a630-7ee0-a8d3-184e83a0b246",
-      "time": "2026-10-19 05:07:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Euro drops sharply in early session】Early FX session: dollar index (DXY) +0.25% at 102.04; EUR/USD -0.4% at 1.1190."
-    },
-    {
-      "id": "5152600",
-      "time": "2026-10-19 05:07:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "法國騷亂後，歐元下跌0.4%，至1.1191美元。"
-    },
-    {
-      "id": "5152599",
-      "time": "2026-10-19 05:01:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：內塔尼亞胡為逃避牢獄之災，正把美國拖入另一場戰爭，無論這會給以色列帶來何種後果，更不用說對美國總統造成的影響。"
-    },
-    {
-      "id": "mkt:01a150d1-19d1-7ee0-a8d3-101d2a5ba68b",
-      "time": "2026-10-19 05:00:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran foreign minister says Iran has 'unfinished business' with NETANYAHU】Iran's foreign minister responded to Israeli premier NETANYAHU's threatening remarks, saying \"the last time you tried to 'finish the job', Iran became stronger\" and warning Israel to \"be careful, we also have unfinished business to settle.\" He accused NETANYAHU of pushing the United States toward another war to avoid prison and of ignoring the consequences for Israel and the US president."
-    },
-    {
-      "id": "5152598",
-      "time": "2026-10-19 04:58:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基與美國特使威特科夫、庫什納進行了40分鐘通話。"
-    },
-    {
-      "id": "5152597",
-      "time": "2026-10-19 04:47:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普發文：正斡旋俄烏和平談判，批評澤連斯基不願停戰】特朗普發文表示，他關於俄羅斯的相關決策思路很明確。他正在斡旋俄烏戰爭的和平談判，不願採取任何魯莽行動導致俄羅斯退出談判。目前談判取得重大進展，人質相關談判也在推進。他稱當下簽署相關檔案會破壞談判局面，這份檔案他可以延後，或在任意合適時間簽署。\n\n他還提到，俄羅斯幾乎沒有向伊朗提供援助，遠低於其有能力提供的規模。他希望維持這一現狀，只要沒有不明智之人從中阻撓。特朗普指出，澤連斯基將俄羅斯柴油煉油廠作為打擊目標，澤連斯基清楚這類襲擊會嚴重衝擊全球柴油市場，美國市場同樣受到波及，美國農民、牧場主以及各類企業都承受巨大損失。即便如此，俄羅斯仍以低價向全球供應數百萬桶柴油。\n\n特朗普認為，澤連斯基並不關心由此帶來的影響。在他看來，依託歐洲持續提供的大量資金以及前總統拜登過往給予的援助，澤連斯基並不想結束這場戰爭，或許從來就沒有停戰的想法。特朗普稱，澤連斯基兩年前本可以爭取到比現在更有利的協議；烏克蘭如今滿目瘡痍，丟失大片領土，海上相關權益受損，國內男性人口大量負傷、陣亡或人口基數下降。特朗普表示，他希望這場戰爭能夠結束。"
-    },
-    {
-      "id": "mkt:01a150c2-d437-7ee0-a8d3-0920249cd629",
-      "time": "2026-10-19 04:45:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Trump: I don't want to push Russia off the negotiating table; Zelensky not seeking to end war】President Trump said he is negotiating to end the Russia-Ukraine war and will avoid actions that would remove Russia from the negotiating table. He said talks are making significant progress, including hostage negotiations, and that he can delay signing any agreement — warning that signing the document Zelensky reportedly proposed (US air‑defense missile aid in exchange for a pledge not to strike Russian diesel facilities) would produce adverse outcomes and can be done later at his discretion. Trump added that Russia has offered little help to Iran and he intends to keep it that way unless others interfere. He accused Zelensky of targeting Russian diesel refineries, saying those strikes are severely disrupting global diesel markets including the US, while Russia continues to supply millions of barrels at low prices. He reiterated he wants the war to end."
-    },
-    {
-      "id": "5152596",
-      "time": "2026-10-19 04:45:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：任何針對伊朗能源基礎設施的襲擊，都將使被佔領土永久化為焦土。"
-    },
-    {
-      "id": "5152595",
-      "time": "2026-10-19 04:44:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣暗盤突破3.4美元，日內漲幅0.6%。"
     }
   ]
 }

@@ -1,7 +1,380 @@
 {
   "date": "2026-10-26",
-  "count": 178,
+  "count": 219,
   "items": [
+    {
+      "id": "5167905",
+      "time": "2026-10-26 06:04:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "一名美國官員表示，下一輪美烏俄工作級別會談可能於幾周後在阿布扎比或瑞士舉行，目標是推動最終實現領導人級別會晤，但目前仍有大量工作要做。"
+    },
+    {
+      "id": "mkt:01a17516-296c-7ee0-a96f-91d40c42e99b",
+      "time": "2026-10-26 06:02:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold and silver opened higher Monday, trading at $3,997/oz and $54.17/oz respectively."
+    },
+    {
+      "id": "5167904",
+      "time": "2026-10-26 06:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "在已統計0.29%選票的情況下，巴西總統決選中盧拉得票率為56.70%，弗拉維奧·博索納羅為43.30%。"
+    },
+    {
+      "id": "5167903",
+      "time": "2026-10-26 06:01:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西選舉法院恢復計票。"
+    },
+    {
+      "id": "mkt:01a17515-23e8-7ee0-a96f-8d01c8de45fc",
+      "time": "2026-10-26 06:01:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude opened about 1.2% lower on Monday after reports that Qatari mediators traveled to Tehran to coordinate de-escalation of regional tensions."
+    },
+    {
+      "id": "5167902",
+      "time": "2026-10-26 06:01:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨上漲0.4%，納斯達克100指數期貨上漲0.6%。"
+    },
+    {
+      "id": "5167901",
+      "time": "2026-10-26 06:01:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4000美元/盎司，日內漲0.07%。"
+    },
+    {
+      "id": "mkt:01a17514-7db5-7ee0-a96f-86f248ba7346",
+      "time": "2026-10-26 06:00:39",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "U.S. stock-index futures for the three major benchmarks opened higher on Monday; Nasdaq futures rose 0.6%."
+    },
+    {
+      "id": "5167900",
+      "time": "2026-10-26 06:00:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破54美元/盎司，日內漲0.17%。"
+    },
+    {
+      "id": "5167899",
+      "time": "2026-10-26 06:00:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報102.22美元/桶。"
+    },
+    {
+      "id": "5167898",
+      "time": "2026-10-26 06:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破111美元/桶，日內跌1.03%。"
+    },
+    {
+      "id": "5167897",
+      "time": "2026-10-26 06:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報110.57美元/桶。"
+    },
+    {
+      "id": "5167896",
+      "time": "2026-10-26 05:57:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲本週維持利率不變的機率為90%】據CME“美聯儲觀察”：美聯儲本週維持利率不變的機率為90%，累計加息25個基點的機率為10%。美聯儲到12月維持利率不變的機率為23.8%，累計加息25個基點的機率68.9%，累計加息50個基點的機率為7.3%。"
+    },
+    {
+      "id": "5167895",
+      "time": "2026-10-26 05:55:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "東京燃氣公司因成本問題放棄福島風電專案。"
+    },
+    {
+      "id": "5167894",
+      "time": "2026-10-26 05:54:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤日內跌超1%，現報3.0318美元。"
+    },
+    {
+      "id": "mkt:01a1750d-f476-7ee0-a96f-7d3faab938cb",
+      "time": "2026-10-26 05:53:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Yemen's information minister said two missiles fired by Houthi forces landed near an IDP camp in Aden's al-Salakhidin area, calling the strikes a serious violation of international law."
+    },
+    {
+      "id": "5167893",
+      "time": "2026-10-26 05:52:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲天然氣價格升至2022年以來的最高水平。"
+    },
+    {
+      "id": "mkt:01a1750a-939d-7ee0-a96f-70b1a91c1c46",
+      "time": "2026-10-26 05:49:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Israel's prime minister Netanyahu said the \"alliance between the left and radical Islamism\" is destroying France, Belgium, Italy and Spain, is now attempting to destroy the United States, and could also destroy Israel."
+    },
+    {
+      "id": "5167892",
+      "time": "2026-10-26 05:42:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡談伊朗：我已指示摩薩德和以色列國防軍推翻該政權，因為這是結束這一切的唯一途徑。阿拉伯國家，不是一個兩個，都在排隊觀望我們能否完成這項任務。之後它們就會加入《亞伯拉罕協議》。"
+    },
+    {
+      "id": "5167891",
+      "time": "2026-10-26 05:35:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：民主黨其實也有一些不錯的人，只是很少被人提起，我希望繼續不要談論這些人。"
+    },
+    {
+      "id": "5167890",
+      "time": "2026-10-26 05:29:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "塞爾維亞領導人武契奇在承認選舉失利後表示，相關議案要到3月或者4月才能透過，屆時會出臺針對俄羅斯聯邦的制裁措施。"
+    },
+    {
+      "id": "5167889",
+      "time": "2026-10-26 05:26:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊於當地時間週一凌晨12點42分，從霍爾木茲甘省庫赫斯塔克附近向霍爾木茲海峽方向發射導彈，居民區附近可以聽到發射聲響。"
+    },
+    {
+      "id": "mkt:01a174f4-5678-7ee0-a96f-68563ac73cbd",
+      "time": "2026-10-26 05:25:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【UK to raise tax-free threshold for low-income pensioners】UK Chancellor Healy is set to announce in this week’s budget that the full state pension will rise by £489 to £13,036, a move that would push about 1.0 mln low-income pensioners above the current personal allowance. To preserve the principle that the state pension is non‑taxable, Healy will raise the tax-free threshold for low-income pensioners to £13,036, a measure expected to cost about £200 mln a year by 2030. The threshold will increase in line with state pension upratings during this Parliament, but millions of higher‑income pensioners will still face income tax."
+    },
+    {
+      "id": "5167888",
+      "time": "2026-10-26 05:22:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英國財政大臣約翰·希利預計將宣佈全額國家養老金上漲3.9%。"
+    },
+    {
+      "id": "5167887",
+      "time": "2026-10-26 05:18:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞宣佈擊斃10名反政府武裝成員】哥倫比亞總統德拉埃斯普列亞25日透過社交媒體表示，哥軍方和警方近日在該國西南部考卡省開展聯合軍事行動，擊斃10名反政府武裝“哥倫比亞民族解放武裝”成員，其中包括兩名主要頭目。"
+    },
+    {
+      "id": "mkt:01a174ed-6bea-7ee0-a96f-66024b667c1a",
+      "time": "2026-10-26 05:17:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Serbian student group \"Student List - Students Win\" announced on the 25th that it had won parliamentary elections held that day."
+    },
+    {
+      "id": "5167886",
+      "time": "2026-10-26 05:13:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲五國將發表聯合宣告 指出俄羅斯是最大安全威脅】歐洲國防開支最高的五個國家將警告稱，俄羅斯是歐洲大陸安全面臨的最緊迫、最長期威脅，並承諾堅定不移地支援烏克蘭。法國、德國、義大利、波蘭和英國（E5）五國部長還計劃表示，歐洲“必須為自身安全承擔更大責任”。"
+    },
+    {
+      "id": "5167885",
+      "time": "2026-10-26 05:11:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【塞爾維亞“學生名單－學生獲勝”宣佈議會選舉獲勝】由塞爾維亞學生團體推動的“學生名單－學生獲勝”25日宣佈,在當天舉行的議會選舉中獲勝。（新華社）"
+    },
+    {
+      "id": "mkt:01a174e3-4801-7ee0-a96f-5839f2a523bc",
+      "time": "2026-10-26 05:06:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Europe's five largest defence spenders warn Russia is Europe's most severe long-term security threat】A draft joint statement from France, Germany, Italy, Poland and the UK (E5) says Russia is the most urgent and long-term threat to European security and pledges steadfast support for Ukraine. The draft accuses Russia of continuing the war in Ukraine, repeatedly violating allied airspace, carrying out sabotage and mounting increasingly frequent multi‑domain hybrid attacks. Ministers plan to say Europe must assume greater responsibility for its own security; the statement is expected after a Paris meeting on Monday. It adds the US remains an indispensable ally and that greater European responsibility should begin by strengthening European allies’ capabilities and status within NATO. The draft says EU regulatory and financial tools can help member states build defence capacity but EU efforts should reinforce, not duplicate, NATO and remain open to non‑NATO members."
+    },
+    {
+      "id": "5167884",
+      "time": "2026-10-26 05:06:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX不會收購任何新雲廠商。"
+    },
+    {
+      "id": "5167883",
+      "time": "2026-10-26 04:59:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：為塞爾弗裡奇空軍國民警衛隊基地爭取到21架全新F-15EX鷹II戰鬥機，民主黨原本打算關閉塞爾弗裡奇基地，而我保住了數千個工作崗位，以及這座基地所承載的崇高聲望。"
+    },
+    {
+      "id": "mkt:01a174dc-9423-7ee0-a96f-53dee9bc2fe7",
+      "time": "2026-10-26 04:59:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vucic concedes defeat in Serbian parliamentary election】Former Serbian president Vucic conceded on the 25th (local time) that the electoral alliance led by the Serbian Progressive Party, Aleksandar Vucic — United Serbia, was defeated in the parliamentary election held that day."
+    },
+    {
+      "id": "5167882",
+      "time": "2026-10-26 04:59:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武契奇承認前進黨在塞議會選舉中敗選】塞爾維亞前總統武契奇當地時間25日承認，由塞爾維亞前進黨主導的“亞歷山大·武契奇-團結的塞爾維亞”選舉聯盟在當天舉行的議會選舉中敗選。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a174db-34d9-7ee0-a96f-4a351e42e8f3",
+      "time": "2026-10-26 04:58:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said a one-off $5,000 cash payment will be made shortly after the midterm elections."
+    },
+    {
+      "id": "5167881",
+      "time": "2026-10-26 04:55:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：5000美元紅利將在選舉後不久發放。"
+    },
+    {
+      "id": "5167880",
+      "time": "2026-10-26 04:52:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普聲稱：美國人的收入處於歷史最高水平。今天就業的美國人數量超過歷史上任何時期。貧困率處於歷史最佳、最低水平。出口飆升至美國曆史最高水平。"
+    },
+    {
+      "id": "mkt:01a174d5-378a-7ee0-a96f-43d81ef4ab87",
+      "time": "2026-10-26 04:51:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said the conflict with Iran will \"end soon in some way.\""
+    },
+    {
+      "id": "mkt:01a174d3-56ed-7ee0-a96f-3c5ebefd9917",
+      "time": "2026-10-26 04:49:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "At a hearing, a U.S. appeals court appeared skeptical of the Trump administration's lawsuit against California, which alleges non-U.S. citizens are registered on the state's voter rolls."
+    },
+    {
+      "id": "5167879",
+      "time": "2026-10-26 04:49:28",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：伊朗衝突很快就會以某種方式結束。"
+    },
+    {
+      "id": "5167878",
+      "time": "2026-10-26 04:49:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國上訴法院似乎對特朗普政府針對加州的訴訟持懷疑態度，該訴訟指控非公民在該州選民名冊上。"
+    },
+    {
+      "id": "5167877",
+      "time": "2026-10-26 04:46:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "一架由威尼斯飛往伯明翰的波音737-800客機，在伯明翰機場降落時偏離跑道。"
+    },
     {
       "id": "5167876",
       "time": "2026-10-26 04:41:37",
