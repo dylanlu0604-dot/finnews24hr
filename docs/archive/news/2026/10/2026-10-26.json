@@ -1,7 +1,27 @@
 {
   "date": "2026-10-26",
-  "count": 144,
+  "count": 146,
   "items": [
+    {
+      "id": "mkt:01a174a2-c095-7ee0-a96e-e047ac85478a",
+      "time": "2026-10-26 03:56:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israel's prime minister NETANYAHU said Iran is like a wounded scorpion and may launch an attack on Israel at the 11th hour."
+    },
+    {
+      "id": "5167854",
+      "time": "2026-10-26 03:54:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：（400億美元）這主要是用於購買GPU的可贖回債務，將在第一季度和第二季度到位，本季度不是主要因素。"
+    },
     {
       "id": "mkt:01a1749c-bed3-7ee0-a96e-dd54c422e81d",
       "time": "2026-10-26 03:49:51",
