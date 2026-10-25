@@ -1,7 +1,39 @@
 {
   "date": "2026-10-26",
-  "count": 59,
+  "count": 63,
   "items": [
+    {
+      "id": "5167799",
+      "time": "2026-10-26 01:34:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國和加拿大同意制定合作框架。"
+    },
+    {
+      "id": "5167798",
+      "time": "2026-10-26 01:33:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國和加拿大重申加強防務融資的承諾。"
+    },
+    {
+      "id": "5167797",
+      "time": "2026-10-26 01:32:10",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "英國財政部與加拿大財政部發布聯合宣告。"
+    },
+    {
+      "id": "mkt:01a1741d-6ac5-7ee0-a96e-021e97cb7ac8",
+      "time": "2026-10-26 01:30:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he prevented the closure of Selfridge Air National Guard Base, preserving thousands of jobs and the local prestige tied to the facility, and blamed Democrats for planning its shutdown."
+    },
     {
       "id": "mkt:01a1741d-07c4-7ee0-a96d-f9cfc025279e",
       "time": "2026-10-26 01:30:21",
