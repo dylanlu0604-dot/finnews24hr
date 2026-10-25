@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-26 04:17:00",
-  "count": 13310,
+  "updated": "2026-10-26 04:20:51",
+  "count": 13312,
   "items": [
+    {
+      "id": "mkt:01a174b8-bb1f-7ee0-a96f-1788a3178bbb",
+      "time": "2026-10-26 04:20:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kimi announced a one-time quota reset for K3.1 Pro subscribers effective today after rate-limit and excess-quota consumption issues. All subscribers will receive a restoration equal to 25% of the monthly allowance; subscribers with cumulative usage below 25% will have their used amount reset to zero. The reset is equivalent to roughly one week’s usage."
+    },
+    {
+      "id": "mkt:01a174b7-d7bb-7ee0-a96f-0b06105be5d2",
+      "time": "2026-10-26 04:19:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Advance voting opens for New Zealand 2026 election】Advance voting for New Zealand's 2026 general election opened on Oct. 26 and will run through Nov. 7, the Electoral Commission said. Under the mixed-member proportional system each voter has two votes: one for a party and one for a constituency MP. Nationwide election day is Nov. 7; the commission will operate more than 2,300 polling places, including community centres, schools, shopping centres, tertiary institutions and Māori community sites. The election outcome will determine Parliament's party composition and government formation."
+    },
+    {
+      "id": "5167867",
+      "time": "2026-10-26 04:19:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紐西蘭2026年大選提前投票啟動】紐西蘭2026年大選提前投票於10月26日啟動。根據紐西蘭選舉委員會公佈的日程，提前投票將持續至11月7日，選民可在規定時間內前往指定投票地點投票。根據紐西蘭的混合比例選舉制規定，每位公民有2張選票，一張選擇支援的政黨，另一張選擇支援的本選區議員候選人。大選最終結果將影響下一屆議會的政黨構成及政府組建。紐西蘭選舉委員會此前公佈，11月7日全國大選日將設2300多個投票地點，覆蓋社群活動中心、學校、購物中心、高等教育機構及毛利社群等場所。 (央視新聞)"
+    },
+    {
+      "id": "5167866",
+      "time": "2026-10-26 04:17:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：挪威已經變成一個糟糕的國家，挪威很差勁。"
+    },
     {
       "id": "mkt:01a174b1-9601-7ee0-a96f-01ffc3785c98",
       "time": "2026-10-26 04:12:37",
@@ -120336,22 +120368,6 @@
         "公司"
       ],
       "text": "馬斯克：我建議將股份直接發放給公眾。此前Anthropic宣佈將把5%的股份投入新設立的公共公益基金。"
-    },
-    {
-      "id": "5152579",
-      "time": "2026-10-19 04:20:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：眼下，大選前這段時日充滿變數。我最新提出的方案是我們不再打擊俄羅斯柴油相關設施，而你們（美國）向我們提供愛國者導彈，用來保護我方設施。但他們只想讓我們停止打擊柴油設施。一旦我們發起這類打擊，他們就會切斷我們某方面的供給。"
-    },
-    {
-      "id": "mkt:01a150ab-87d7-7ee0-a8d2-fc9febb2bbc7",
-      "time": "2026-10-19 04:19:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Houthi forces say Saudi airstrike in Yemen's Saada province kills 9, wounds 11】Houthi forces said on the 18th a Saudi airstrike on a house in Yemen's Saada province, which is controlled by the Houthis, killed 9 and wounded 11, including women and children."
     }
   ]
 }
