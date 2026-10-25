@@ -1,7 +1,23 @@
 {
   "date": "2026-10-25",
-  "count": 370,
+  "count": 372,
   "items": [
+    {
+      "id": "mkt:01a170fc-f800-7ee0-a968-bac5663bda4d",
+      "time": "2026-10-25 10:56:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Seoul municipal government said it will host Seoul FinTech Week 2026 from the 26th to 28th, inviting global fintech firms and experts to discuss the development potential and future competitiveness of Seoul's financial sector."
+    },
+    {
+      "id": "5167313",
+      "time": "2026-10-25 10:55:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI降價搶單成效顯著 多家Anthropic客戶編碼業務轉投OpenAI】OpenAI壓低報價與Anthropic競爭的策略已經初見成效。 人力資源軟體公司Rippling執行長Parker Conrad稱，今年5月，公司數百名工程師的編碼工作中，57%由Anthropic模型承接，OpenAI模型僅承擔16%。此後形勢反轉，如今52%的編碼任務交由OpenAI模型處理，Anthropic模型佔比降至18%。該公司出於降本考量，發現OpenAI的價格更有優勢。知情人士透露，程式碼開發平臺Replit近幾個月把大部分AI預算從Anthropic遷移至OpenAI。部分創始人拿到的官方標價折扣在20%–30%區間，而OpenAI近期丟擲的折扣力度更高。員工約200人、大量採購Anthropic模型的企業培訓服務商DataCamp執行長喬納森·科內利森稱，OpenAI對他們內部產品研發使用的模型給出40%折扣，條件是必須同步使用Codex，而不是OpenCode、Claude Code這類競品。"
+    },
     {
       "id": "5167301",
       "time": "2026-10-25 10:50:56",

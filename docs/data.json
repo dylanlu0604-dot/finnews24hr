@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-25 10:54:19",
+  "updated": "2026-10-25 10:58:22",
   "count": 13171,
   "items": [
+    {
+      "id": "mkt:01a170fc-f800-7ee0-a968-bac5663bda4d",
+      "time": "2026-10-25 10:56:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Seoul municipal government said it will host Seoul FinTech Week 2026 from the 26th to 28th, inviting global fintech firms and experts to discuss the development potential and future competitiveness of Seoul's financial sector."
+    },
+    {
+      "id": "5167313",
+      "time": "2026-10-25 10:55:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI降價搶單成效顯著 多家Anthropic客戶編碼業務轉投OpenAI】OpenAI壓低報價與Anthropic競爭的策略已經初見成效。 人力資源軟體公司Rippling執行長Parker Conrad稱，今年5月，公司數百名工程師的編碼工作中，57%由Anthropic模型承接，OpenAI模型僅承擔16%。此後形勢反轉，如今52%的編碼任務交由OpenAI模型處理，Anthropic模型佔比降至18%。該公司出於降本考量，發現OpenAI的價格更有優勢。知情人士透露，程式碼開發平臺Replit近幾個月把大部分AI預算從Anthropic遷移至OpenAI。部分創始人拿到的官方標價折扣在20%–30%區間，而OpenAI近期丟擲的折扣力度更高。員工約200人、大量採購Anthropic模型的企業培訓服務商DataCamp執行長喬納森·科內利森稱，OpenAI對他們內部產品研發使用的模型給出40%折扣，條件是必須同步使用Codex，而不是OpenCode、Claude Code這類競品。"
+    },
     {
       "id": "5167301",
       "time": "2026-10-25 10:50:56",
@@ -119174,22 +119190,6 @@
         "兩會"
       ],
       "text": "【涉嫌嚴重職務違法 廣西壯族自治區政協原副主席黃日波被查】廣西壯族自治區政協原副主席黃日波涉嫌嚴重職務違法，目前正接受國家監委監察調查。（央視新聞）"
-    },
-    {
-      "id": "5152154",
-      "time": "2026-10-18 10:56:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大軍事基地爆炸起火多人傷亡】加拿大國防部長麥堅迪當地時間10月17日晚證實，在阿爾伯塔省的加拿大武裝部隊溫賴特基地發生嚴重事故，造成了人員傷亡。據加拿大媒體資深軍事記者稱，就其個人過去20年直接負責軍事報道的經歷來看，在訓練演習中“從未發生過此類重大事故”。有訊息稱，事發時該基地正在進行實彈射擊演習，引發火災，火借風勢蔓延至存放有大量彈藥的區域。 加拿大總理卡尼當晚稱，溫賴特基地發生“嚴重事故”，並引發大火。另據一位代表阿爾伯塔省選區的國會議員表示，據他了解，這處基地發生爆炸並起火，造成了嚴重傷亡。（CCTV國際時訊）"
-    },
-    {
-      "id": "5152153",
-      "time": "2026-10-18 10:56:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "廣汽埃安Ray7預售2 小時，訂單6817輛。"
     }
   ]
 }
