@@ -1,7 +1,71 @@
 {
   "date": "2026-10-27",
-  "count": 100,
+  "count": 106,
   "items": [
+    {
+      "id": "mkt:01a17946-bd16-7ee0-a987-21e066ac22b2",
+      "time": "2026-10-27 01:34:01",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UK Maritime Trade Operations (UKMTO) said it received multiple reports of a vessel on fire in waters near Iraq."
+    },
+    {
+      "id": "5170832",
+      "time": "2026-10-27 01:33:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室收到多份報告，稱伊拉克附近一艘船隻起火。"
+    },
+    {
+      "id": "te:markets:595149",
+      "time": "2026-10-27 01:32:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazil’s Real Under Pressure Following Presidential Election — Brazil’s real trimmed losses to around 5.44 per US dollar in late October after weakening to as low as 5.60, near its lowest level since mid-2025, as markets reacted to President Lula’s runoff victory over Flávio Bolsonaro. The selloff reversed gains following the first round, when Bolsonaro outperformed polls and finished ahead of Lula. Investors had viewed a Bolsonaro administration as more likely to curb public spending, seen as a key factor in lowering interest rates. Markets are now reassessing fiscal risks, including persistent primary deficits and rising public debt, alongside institutional uncertainty surrounding the election. Bolsonaro has reportedly refused to concede and challenged the result in court, although Brazil’s Superior Electoral Court has confirmed the outcome."
+    },
+    {
+      "id": "5170831",
+      "time": "2026-10-27 01:32:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI釋出100個國家的ChatGPT Work活動資料。"
+    },
+    {
+      "id": "mkt:01a17944-7fd5-7ee0-a987-1e148b7d1e74",
+      "time": "2026-10-27 01:31:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI published activity data for ChatGPT Work covering 100 countries."
+    },
+    {
+      "id": "mkt:01a17943-eea0-7ee0-a987-17caf42fc88b",
+      "time": "2026-10-27 01:30:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple (AAPL.O) confirms internal-display faults in a minority of iPhone Duo units, says most devices unaffected】Apple said it has observed internal-display failures in a small number of iPhone Duo units and that the issue typically appears shortly after opening the device, while most units remain unaffected. Reports describe a cracking sound on unfolding, a bulge or looseness near the hinge, then internal-screen cracks; some devices also show white spots or abnormal bright lines. Repair site iFixit suggested the fault may result from a failed hinge component compressing the screen. Apple has opened an investigation, with engineers seeking failed units for analysis; some customers have received replacements while others are waiting due to store stock shortages or appointment delays."
+    },
     {
       "id": "5170830",
       "time": "2026-10-27 01:30:23",
