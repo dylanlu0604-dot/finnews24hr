@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-27 01:46:27",
+  "updated": "2026-10-27 01:50:15",
   "count": 13348,
   "items": [
+    {
+      "id": "mkt:01a17951-ec9f-7ee0-a987-3b42c9e1ec91",
+      "time": "2026-10-27 01:46:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said SpaceX's Starlink mobile network build-out will take two to three years."
+    },
     {
       "id": "5170838",
       "time": "2026-10-27 01:44:12",
@@ -120183,14 +120191,6 @@
         "其他"
       ],
       "text": "市場訊息：哥倫比亞Narino地區礦場坍塌事故造成9人喪生。"
-    },
-    {
-      "id": "5154433",
-      "time": "2026-10-20 01:48:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "塔斯尼姆通訊社：巴基斯坦陸軍參謀長將於週二訪問伊朗。"
     }
   ]
 }
