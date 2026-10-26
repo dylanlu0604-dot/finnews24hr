@@ -1,7 +1,99 @@
 {
   "date": "2026-10-26",
-  "count": 461,
+  "count": 471,
   "items": [
+    {
+      "id": "te:markets:594800",
+      "time": "2026-10-26 09:15:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Chinese Yuan Hits 4-year High — The Chinese Yuan touched 6.67 against the USD, the highest since June 2022. Over the past 4 weeks, US Dollar Chinese Yuan lost 0.66%, and in the last 12 months, it decreased 6.2%."
+    },
+    {
+      "id": "mkt:01a175c7-0287-7ee0-a971-1e8043bf5014",
+      "time": "2026-10-26 09:15:38",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.15% at 23,072, trading 21 points below the cash index."
+    },
+    {
+      "id": "5168509",
+      "time": "2026-10-26 09:15:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7162，較上日調高18點】人民幣兌美元中間價報6.7162，較上日調高18點。"
+    },
+    {
+      "id": "5168506",
+      "time": "2026-10-26 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7162元。"
+    },
+    {
+      "id": "5168503",
+      "time": "2026-10-26 09:15:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉在聖保羅發表演講，此前他已成功連任總統。"
+    },
+    {
+      "id": "5168502",
+      "time": "2026-10-26 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.09%，報23093.87點，高水0.50點。"
+    },
+    {
+      "id": "5168501",
+      "time": "2026-10-26 09:14:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國興業銀行預測，盧拉勝選後巴西雷亞爾可能下跌8%至10%。"
+    },
+    {
+      "id": "5168500",
+      "time": "2026-10-26 09:13:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千問App宣佈全面適配iPhone Duo】10月26日，阿里巴巴旗下個人AI助手千問App宣佈，現已全面適配iPhone Duo。"
+    },
+    {
+      "id": "5168499",
+      "time": "2026-10-26 09:13:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【新加坡總理黃循財承諾加大對勞動者扶持，保障能源安全】新加坡總理黃循財表示，在全球不確定性加劇的背景下，新加坡將加大對勞工與家庭的扶持力度，政府會加緊保障能源供應、吸引投資。黃循財週日在執政黨人民行動黨大會上稱，多家大型半導體企業有意在新加坡擴產，人工智慧企業也紛紛落地佈局。他承認經濟增長紅利分配不均，部分勞動者難以應對物價上漲，還有人擔憂就業穩定。黃循財說：“我們的目標不只是維持經濟增長，更要讓增長成果轉化為全體新加坡民眾更好的生活。”"
+    },
+    {
+      "id": "mkt:01a175c3-b6a0-7ee0-a971-1759b2bdccab",
+      "time": "2026-10-26 09:12:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude futures fell 2.0% intraday to $100.73/bbl. Brent crude declined 1.5%."
+    },
     {
       "id": "te:markets:594794",
       "time": "2026-10-26 09:11:56",

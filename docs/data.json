@@ -1,7 +1,99 @@
 {
-  "updated": "2026-10-26 09:12:24",
-  "count": 13267,
+  "updated": "2026-10-26 09:16:09",
+  "count": 13270,
   "items": [
+    {
+      "id": "te:markets:594800",
+      "time": "2026-10-26 09:15:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Chinese Yuan Hits 4-year High — The Chinese Yuan touched 6.67 against the USD, the highest since June 2022. Over the past 4 weeks, US Dollar Chinese Yuan lost 0.66%, and in the last 12 months, it decreased 6.2%."
+    },
+    {
+      "id": "mkt:01a175c7-0287-7ee0-a971-1e8043bf5014",
+      "time": "2026-10-26 09:15:38",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.15% at 23,072, trading 21 points below the cash index."
+    },
+    {
+      "id": "5168509",
+      "time": "2026-10-26 09:15:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7162，較上日調高18點】人民幣兌美元中間價報6.7162，較上日調高18點。"
+    },
+    {
+      "id": "5168506",
+      "time": "2026-10-26 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7162元。"
+    },
+    {
+      "id": "5168503",
+      "time": "2026-10-26 09:15:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉在聖保羅發表演講，此前他已成功連任總統。"
+    },
+    {
+      "id": "5168502",
+      "time": "2026-10-26 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.09%，報23093.87點，高水0.50點。"
+    },
+    {
+      "id": "5168501",
+      "time": "2026-10-26 09:14:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國興業銀行預測，盧拉勝選後巴西雷亞爾可能下跌8%至10%。"
+    },
+    {
+      "id": "5168500",
+      "time": "2026-10-26 09:13:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千問App宣佈全面適配iPhone Duo】10月26日，阿里巴巴旗下個人AI助手千問App宣佈，現已全面適配iPhone Duo。"
+    },
+    {
+      "id": "5168499",
+      "time": "2026-10-26 09:13:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【新加坡總理黃循財承諾加大對勞動者扶持，保障能源安全】新加坡總理黃循財表示，在全球不確定性加劇的背景下，新加坡將加大對勞工與家庭的扶持力度，政府會加緊保障能源供應、吸引投資。黃循財週日在執政黨人民行動黨大會上稱，多家大型半導體企業有意在新加坡擴產，人工智慧企業也紛紛落地佈局。他承認經濟增長紅利分配不均，部分勞動者難以應對物價上漲，還有人擔憂就業穩定。黃循財說：“我們的目標不只是維持經濟增長，更要讓增長成果轉化為全體新加坡民眾更好的生活。”"
+    },
+    {
+      "id": "mkt:01a175c3-b6a0-7ee0-a971-1759b2bdccab",
+      "time": "2026-10-26 09:12:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude futures fell 2.0% intraday to $100.73/bbl. Brent crude declined 1.5%."
+    },
     {
       "id": "te:markets:594794",
       "time": "2026-10-26 09:11:56",
@@ -119810,66 +119902,6 @@
         "其他"
       ],
       "text": "Horizon3在新加坡設立東盟總部。"
-    },
-    {
-      "id": "mkt:01a151ba-d489-7ee0-a8d5-575db15ff59b",
-      "time": "2026-10-19 09:16:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Private multi-asset funds gain favor as risk appetite turns cautious】Investor risk appetite has turned cautious. Filings for private securities products rose over 30% YoY in the first three quarters, but issuance showed signs of cooling late in Q3; filings for multi-asset strategy products grew faster. CTA (managed futures) strategies delivered relatively steady performance. Market participants say investors are prioritizing drawdown control and diversified allocation, and private fund managers will increasingly emphasize multi-strategy configurations to boost portfolio resilience across market regimes."
-    },
-    {
-      "id": "5152842",
-      "time": "2026-10-19 09:15:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.7208，較上日調高12點】人民幣兌美元中間價報6.7208，較上日調高12點。"
-    },
-    {
-      "id": "5152841",
-      "time": "2026-10-19 09:15:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股期指擴大漲幅，納斯達克100指數期貨上漲1%，標普500指數期貨上漲0.5%。"
-    },
-    {
-      "id": "5152840",
-      "time": "2026-10-19 09:15:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7208元。"
-    },
-    {
-      "id": "te:economy:592919",
-      "time": "2026-10-19 09:14:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Inflation Near 2% as AI Demand Adds Pressure: BoJ Gov Ueda — Bank of Japan Governor Kazuo Ueda told parliament Monday that underlying inflation is “quite close” to the 2% target, with strong global AI demand adding to price pressures from a tight labor market. Ueda noted it was increasingly important to anchor inflation around 2%. While rising raw material costs from the Middle East conflict were lifting prices, adding that demand-driven pressures from jobs and recovery were also at play. He further added that raising rates at an appropriate pace would help prevent spikes in bond yields, warning that failing to adjust policy could stoke concern over an inflation overshoot. Asked about fiscal spending, he replied that higher expenditure would spur wages and prices, though boosting supply capacity could moderate inflation longer term. The remarks came ahead of the central bank’s policy meeting later this month, where fresh growth and inflation forecasts will be closely watched for signals on rate-hike timing."
-    },
-    {
-      "id": "5152839",
-      "time": "2026-10-19 09:13:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大軍方：該國西部軍事基地火災由實彈訓練引發】加拿大軍方18日證實，該國西部艾伯塔省韋恩賴特軍事基地17日發生的嚴重火災由實彈訓練引發。事故已造成4名軍人死亡，另有39名傷者在醫院接受治療，其中至少19人情況危急。據軍方通報，17日進行的實彈訓練引發了草原火災。加軍少將韋德·拉特蘭表示，當時士兵們正在手榴彈靶場進行投擲手榴彈等實彈訓練，並進行軍方稱之為“分隊進攻”的戰術演練。"
-    },
-    {
-      "id": "5152838",
-      "time": "2026-10-19 09:12:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【呼和浩特低空經濟再添重磅專案 快輪科技二期開工】據呼和浩特釋出，近日，內蒙古快輪科技未來交通與低空裝備智慧製造基地專案（二期專案）開工儀式在呼和浩特航天經濟開發區低空經濟產業園舉行，專案建成投產後將落地內蒙古首條通用無人機全自動化產線，補齊內蒙古低空經濟核心裝備規模化製造短板。"
     }
   ]
 }
