@@ -1,0 +1,772 @@
+{
+  "date": "2026-10-27",
+  "count": 79,
+  "items": [
+    {
+      "id": "te:markets:595146",
+      "time": "2026-10-27 01:10:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.85% Higher — The CAC 40 Index gained 66 points or 0.85 percent on Monday to close at 7849 points. Gains were led by Stellantis NV (3.56%), Hermes International (3.31%) and STMicroelectronics (2.96%). Biggest losers were Essilor (-3.37%), Edenred (-2.32%) and Publicis (-1.44%)."
+    },
+    {
+      "id": "mkt:01a17930-6021-7ee0-a986-c9969cfc376f",
+      "time": "2026-10-27 01:09:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) said it is aware of an issue affecting the inner display on a small number of iPhone Duo units; affected customers should contact AppleCare to arrange a replacement."
+    },
+    {
+      "id": "5170821",
+      "time": "2026-10-27 01:08:38",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "蘋果：已經注意到少量iPhone Duo存在內屏故障，建議使用者聯絡AppleCare辦理換機。"
+    },
+    {
+      "id": "te:economy:595144",
+      "time": "2026-10-27 01:07:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Strategic Petroleum Reserve Crude Oil Stocks",
+        "Importance 0"
+      ],
+      "text": "US Strategic Petroleum Reserve Drops to Lowest Since 1982 — US Strategic Petroleum Reserve (SPR) crude inventories fell to 282.6 million barrels in the week ending October 23, their lowest level since October 1982. The decline comes as part of a US initiative to release 172 million barrels from the reserve. During the same week, the US Department of Energy authorized an emergency exchange of up to 400,000 barrels of crude oil from the SPR to address a supply disruption affecting Phillips 66’s Lake Charles refinery in Louisiana. Since the US-Israeli war with Iran began in late February, SPR inventories have declined by approximately 132.8 million barrels."
+    },
+    {
+      "id": "te:markets:595143",
+      "time": "2026-10-27 01:07:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.74% Higher — The FTSE 100 Index went up by 79 points or 0.74 percent on Monday to close at 10769 points. The rise was led by Computacenter (11.22%), Babcock International (6.53%) and Rolls-Royce (5.68%). On the downside, the weakerst performers were Experian (-6.50%), Auto Trader (-2.55%) and The Sage Group (-2.02%)."
+    },
+    {
+      "id": "5170820",
+      "time": "2026-10-27 01:06:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會（FTC）與20個州起訴達樂公司（Dollar General），指控其存在欺騙性定價行為，向消費者多收費，攫取了數百萬美元。"
+    },
+    {
+      "id": "5170819",
+      "time": "2026-10-27 01:05:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：德黑蘭與莫斯科的關係正在不斷拓展，將在訪問俄羅斯期間與俄羅斯總統普京討論加強雙邊合作。"
+    },
+    {
+      "id": "mkt:01a1792c-2b50-7ee0-a986-c07153596afc",
+      "time": "2026-10-27 01:05:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "The Times reports UK Chancellor Healy will announce plans to raise the national minimum wage by nearly 4% while slowing increases for younger workers."
+    },
+    {
+      "id": "5170818",
+      "time": "2026-10-27 01:04:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利將宣佈計劃將最低工資提高近4%。"
+    },
+    {
+      "id": "5170817",
+      "time": "2026-10-27 01:02:21",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣690億美元兩年期國債，得標利率4.708%，投標倍數2.59。"
+    },
+    {
+      "id": "mkt:01a17929-9b09-7ee0-a986-bc49c6309f70",
+      "time": "2026-10-27 01:02:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US 2-year Treasury auction on Oct 26: allocation at the winning yield 80.83%, prior 33.42%."
+    },
+    {
+      "id": "mkt:01a17929-98c9-7ee0-a986-b4055e488f7f",
+      "time": "2026-10-27 01:02:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 2-year Treasury auction on Oct. 26 — stop-out yield 4.708%, prior 4.79% (down ~8.2 bps)."
+    },
+    {
+      "id": "mkt:01a17929-93cd-7ee0-a986-abaa80bde5c3",
+      "time": "2026-10-27 01:02:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 2-year Treasury auction on Oct. 26 bid-cover ratio 2.59; previous 2.63."
+    },
+    {
+      "id": "mkt:01a17929-6bb4-7ee0-a986-a379b84a8508",
+      "time": "2026-10-27 01:01:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction Accepted at High (Oct.26) | actual 80.83% | previous 33.42%"
+    },
+    {
+      "id": "mkt:01a17929-6bb4-7ee0-a986-9927cda92b21",
+      "time": "2026-10-27 01:01:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction Bid/Cover Ratio (Oct.26) | actual 2.59 | previous 2.63"
+    },
+    {
+      "id": "mkt:01a17929-6bad-7ee0-a986-950162132b04",
+      "time": "2026-10-27 01:01:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction High Yield Rate (Oct.26) | actual 4.708% | previous 4.79%"
+    },
+    {
+      "id": "5170816",
+      "time": "2026-10-27 01:00:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國2年期國債發行前收益率4.705%，本次拍賣規模690億美元。"
+    },
+    {
+      "id": "5170815",
+      "time": "2026-10-27 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.35%，滬銅收漲0.36%，滬鋁收漲0.21%，滬鋅收漲0.99%，滬鉛收漲0.78%，滬鎳收跌1.18%，滬錫收漲0.96%。氧化鋁夜盤收跌0.59%，鋁合金收漲0.22%。不鏽鋼夜盤收跌1.18%。"
+    },
+    {
+      "id": "te:markets:595142",
+      "time": "2026-10-27 00:58:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rebounds on Monday — The FTSE 100 rose 0.7% on Monday, recovering from two consecutive sessions of losses. Computacenter surged more than 10% after upgrading its guidance, citing sustained demand related to artificial intelligence. Defence stocks also rallied, with Babcock climbing 6.5%, Rolls-Royce gaining 5.7% and BAE Systems advancing 3.5%. Lower oil prices boosted International Airlines Group and InterContinental Hotels Group, both of which rose around 4%, while Shell and BP fell 0.8% and 1.1%, respectively, as crude retreated from six-month highs amid continued US-Iran tensions and limited progress toward easing the conflict. Elsewhere, trading platform Plus500 raised its guidance after reporting continued positive momentum, while Airtel Africa maintained its outlook. Economic data showed October retail CBI survey improved sharply from September, but retailers remained cautious and expected sales to decline at a similar pace in November."
+    },
+    {
+      "id": "te:markets:595141",
+      "time": "2026-10-27 00:57:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Italian Stocks Close Sharply Higher — The FTSE MIB closed 1.3% higher at 49,187 on Monday, lifted by defense, tech and heavyweight financials. Defense Leonardo (1.9%) and Fincantieri (3.5%) rose as Europe's five largest defense spenders warned of Russia's threat to the continent. Avio rose 5.8% after Berenberg raised its target price and rating to \"Buy\". Prysmian gained 3.9% after Citigroup reiterated its \"Buy\" recommendation. Tech stocks advanced amid reports of Anthropic's IPO filing, lifting Technoprobe (5.6%) and STMicroelectronics (2.7%). Financials outperformed as sovereign yields retreated, tracking lower oil prices early in the session. Additionally, Deputy Prime Minister Tajani stated he opposed taxing excess profits, assuring it wouldn't feature in Italy's 2027 budget, although backing a contribution. Banca Mediolanum led sector gains at 2.9%. In turn, ENI fell 1.8%. Attention now turns to Tuesday's cabinet meeting on the 2027–2029 budget, amid reports Italy may consider higher taxes on energy companies."
+    },
+    {
+      "id": "mkt:01a17924-2fcd-7ee0-a986-8c20c1f606bd",
+      "time": "2026-10-27 00:56:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "According to Nikkei, Japanese AI startup Sakana AI said it will train a proprietary large model from scratch."
+    },
+    {
+      "id": "5170814",
+      "time": "2026-10-27 00:54:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本Sakana AI將從零自研本土大模型。"
+    },
+    {
+      "id": "mkt:01a17921-8c73-7ee0-a986-87db94df2eb3",
+      "time": "2026-10-27 00:53:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "EU High Representative for Foreign Affairs and Security Policy Kallas warned there is a serious risk of renewed escalation between Iran and the United States."
+    },
+    {
+      "id": "mkt:01a1791f-d0cd-7ee0-a986-7f177737c143",
+      "time": "2026-10-27 00:51:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU High Representative for Foreign Affairs and Security Policy Kallas said the EU is preparing additional sanctions against Russia."
+    },
+    {
+      "id": "mkt:01a1791f-725c-7ee0-a986-72d497917272",
+      "time": "2026-10-27 00:51:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "Market sources: Apple (AAPL.O) iPhone Duo has received early user complaints of screen cracking."
+    },
+    {
+      "id": "mkt:01a1791e-dbe5-7ee0-a986-6c311ff2ec1c",
+      "time": "2026-10-27 00:50:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen government forces said they carried out 1,276 strikes across multiple fronts in the past 24 hours against Houthi forces, targeting command centers, defensive positions, firebases, reinforcements, transport and supply facilities, and weapons and ammunition depots. The operations reportedly rendered about 382 Houthi commanders and personnel combat-ineffective, destroyed or disabled 140 vehicles and heavy weapons, and destroyed several ammunition depots."
+    },
+    {
+      "id": "te:markets:595136",
+      "time": "2026-10-27 00:50:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Start Week Higher — European stocks started the week higher, with the Euro Stoxx 50 gaining 1% and the broader Stoxx 600 rising 0.8%, as falling oil prices improved sentiment ahead of a busy week of economic releases and central bank decisions. Italy led regional markets with gains exceeding 1%, while Germany, the UK and France advanced between 0.7% and 0.9%. Spain lagged, rising less than 0.5%. Sector performance reflected the decline in energy costs, with travel & leisure climbing more than 1.5%, alongside industrial goods & services, while banks and automobiles & parts each gained over 1%. Basic resources, construction & materials, and personal & household goods also advanced. On the other hand, Banco Santander fell around 3% and Telefónica dropped 7%, amid their significant exposure to Brazil. Galp plunged more than 10% despite strong quarterly results, after negotiations with Moeve to combine their refining, chemicals and fuel retail operations collapsed."
+    },
+    {
+      "id": "5170813",
+      "time": "2026-10-27 00:50:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果iPhone Duo螢幕開裂引發投訴】不少使用者投訴iPhone Duo摺疊屏僅使用數小時或數天就發生開裂，使用者稱展開時會聽到碎裂聲響，摺痕中線位置出現大口裂痕。使用者反饋開啟裝置時聽到類似碎裂的聲響，隨後螢幕右側出現白斑或其他顯示故障，裂痕起始位置的螢幕下方還能摸到凸起。該問題似乎僅出現在部分機型上。蘋果暫未向門店與客服釋出相關官方處理指引，但已有團隊開展調查，部分使用者已經拿到換機。"
+    },
+    {
+      "id": "5170812",
+      "time": "2026-10-27 00:46:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美上訴法院否決美聯儲簽帳金融卡刷卡手續費規則。"
+    },
+    {
+      "id": "mkt:01a1791a-5178-7ee0-a986-627b0ac41bf9",
+      "time": "2026-10-27 00:45:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O): about 60,000 employees globally eligible for voluntary buyouts."
+    },
+    {
+      "id": "mkt:01a17919-d6dd-7ee0-a986-5bdd9393f4e1",
+      "time": "2026-10-27 00:44:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities closed higher on Monday, Oct 26: Germany's DAX 30 +227.23 pts (+0.90%) at 25,408.88; UK's FTSE 100 +73.78 pts (+0.69%) at 10,764.14; France's CAC 40 +64.50 pts (+0.83%) at 7,847.32; EUROSTOXX 50 +44.83 pts (+0.74%) at 6,113.05; Spain's IBEX 35 +34.48 pts (+0.18%) at 19,024.28; Italy's FTSE MIB +616.64 pts (+1.27%) at 49,175.50."
+    },
+    {
+      "id": "5170811",
+      "time": "2026-10-27 00:38:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟就Teams故障問題釋出宣告：服務已恢復至正常水平。"
+    },
+    {
+      "id": "mkt:01a17913-890d-7ee0-a986-527c6b8c5571",
+      "time": "2026-10-27 00:38:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O): Teams service restored to normal levels."
+    },
+    {
+      "id": "mkt:01a17912-cca3-7ee0-a986-48ed14154e2d",
+      "time": "2026-10-27 00:37:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine President Zelenskiy met with Moldova’s prime minister to discuss infrastructure projects, European integration and security cooperation. Ukraine and Moldova signed a military cooperation agreement."
+    },
+    {
+      "id": "5170810",
+      "time": "2026-10-27 00:31:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "荷蘭皇家航空飛往利雅得和達曼的航班已取消，取消措施持續至11月27日。"
+    },
+    {
+      "id": "5170809",
+      "time": "2026-10-27 00:30:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨縮減跌幅，在合約本週晚些時候到期前的震盪交易中價格一度轉漲。"
+    },
+    {
+      "id": "mkt:01a1790c-8843-7ee0-a986-46c38786eead",
+      "time": "2026-10-27 00:30:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "German defense minister says Germany is working with Ukraine to develop a new air-defense system."
+    },
+    {
+      "id": "5170808",
+      "time": "2026-10-27 00:29:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破103美元/桶，日內跌0.25%。"
+    },
+    {
+      "id": "5170807",
+      "time": "2026-10-27 00:29:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "3R GAMES SA與Meta公司達成協議，自2027年1月1日起，將《Besiege VR》納入Meta Horizon+訂閱服務。"
+    },
+    {
+      "id": "5170806",
+      "time": "2026-10-27 00:28:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "費埃哲公司股價跌幅擴大至15%。"
+    },
+    {
+      "id": "te:economy:595133",
+      "time": "2026-10-27 00:27:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Zimbabwe",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Zimbabwe Inflation Quickens to 4-Month High of 4.3% — Zimbabwe’s annual inflation rate rose for a second consecutive month to 4.3% in October 2026, its highest level since June, up from 3.7% in September. The acceleration was driven primarily by housing and utilities (3.6% vs 0.8% in September), reflecting faster price increases for gas (25% vs 19.4%) and water supply and other dwelling-related services (17.6% vs. 16.9%). Prices also rose faster for clothing and footwear (3.5% vs 2.6%). Meanwhile, transportation inflation remained elevated at 12.9%, despite easing slightly from 13.2% in September, with fuel and lubricant prices rising by 15.3% (vs 15.4%). Food and non-alcoholic beverage inflation slowed to 4.9% from 5.6%. On a monthly basis, the CPI rose by 0.2%, after a 0.5% increase in the month before."
+    },
+    {
+      "id": "5170805",
+      "time": "2026-10-27 00:26:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "奧迪：代表團赴佐治亞州推進擬建工廠的相關談判，談判過程中，我方被要求與美國總統特朗普一同對外公佈方案。"
+    },
+    {
+      "id": "mkt:01a17908-03b4-7ee0-a986-3f7dbe297513",
+      "time": "2026-10-27 00:25:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's defense minister said the country's resolve to support Ukraine will not cease."
+    },
+    {
+      "id": "mkt:01a17907-3c8d-7ee0-a986-3280a2bf900e",
+      "time": "2026-10-27 00:24:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Audi spokesperson said a delegation visited Georgia to advance negotiations on a planned plant, and that during those talks the company was asked to publicly present its plans in the presence of President Trump."
+    },
+    {
+      "id": "mkt:01a17907-1a19-7ee0-a986-281994037085",
+      "time": "2026-10-27 00:24:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【German president Steinmeier arrives in Anhui to begin state visit to China】German president Steinmeier arrived at Hefei Xinqiao International Airport early on Oct. 27 to begin a state visit to China running Oct. 27–31 at the invitation of President Xi; it is his first visit to China in nearly eight years."
+    },
+    {
+      "id": "5170804",
+      "time": "2026-10-27 00:23:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國國防部長：堅定支援烏克蘭，這不會停止。"
+    },
+    {
+      "id": "5170803",
+      "time": "2026-10-27 00:23:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國總統抵達安徽開啟訪華行程】應國家主席習近平邀請，德國總統施泰因邁爾於10月27日至31日對中國進行國事訪問。今天（27日）凌晨，施泰因邁爾總統乘機抵達合肥新橋國際機場，開啟訪華行程，這是他時隔近8年再次訪華。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a17905-a082-7ee0-a986-265254d61b5b",
+      "time": "2026-10-27 00:22:54",
+      "tags": [
+        "MKT News",
+        "COP.O"
+      ],
+      "text": "Market sources say ConocoPhillips plans layoffs in Canada on Tuesday."
+    },
+    {
+      "id": "5170802",
+      "time": "2026-10-27 00:21:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "奧迪發言人稱，CEO出席佐治亞州活動的決定是經過慎重考慮後做出的，完全符合公司的最佳利益。"
+    },
+    {
+      "id": "mkt:01a17903-ac36-7ee0-a986-1842055473fe",
+      "time": "2026-10-27 00:20:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Audi spokesman said the decision to attend an event in Georgia, US, was made after careful consideration and is fully in the company’s best interests."
+    },
+    {
+      "id": "mkt:01a17902-e2e4-7ee0-a986-17ba43f90354",
+      "time": "2026-10-27 00:19:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Audi said political neutrality is a core company principle and that it remains committed to upholding it."
+    },
+    {
+      "id": "5170801",
+      "time": "2026-10-27 00:19:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "奧迪發言人表示，政治中立是奧迪的一項重要原則，將繼續堅持這一原則。"
+    },
+    {
+      "id": "5170800",
+      "time": "2026-10-27 00:19:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "荷蘭投資者或將因財富稅豁免條款撤出加密資產。"
+    },
+    {
+      "id": "mkt:01a17901-818b-7ee0-a986-0b29011c7840",
+      "time": "2026-10-27 00:18:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said President Trump’s tax, trade and regulatory policies are removing barriers to firms building plants, investing and hiring in the U.S. Year-to-date manufacturing payrolls are up about 72,000, after a loss of more than 200,000 in President Biden’s final two years. Real weekly pay for blue-collar manufacturing workers has risen 3.5% in inflation-adjusted terms since President Trump took office."
+    },
+    {
+      "id": "mkt:01a17901-03ce-7ee0-a986-073a29325966",
+      "time": "2026-10-27 00:17:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China to add 34 leading-level smart factories】The Ministry of Industry and Information Technology (MIIT) on the 26th published a proposed 2026 list of 34 leading-level smart factory projects, including Xiaomi Automobile Technology Co.'s AI-driven agile manufacturing high-end NEV super smart factory. China classifies smart factories into four tiers—basic, advanced, excellent and leading—and is pursuing tiered cultivation. Leading-level smart factories are intended to pilot future manufacturing models, drive intelligent transformation and serve as global development benchmarks."
+    },
+    {
+      "id": "mkt:01a178ff-2e3c-7ee0-a985-f89749390753",
+      "time": "2026-10-27 00:15:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: Of 31 analysts, 13 expect Colombia's central bank to keep the policy rate at 12.25% in October."
+    },
+    {
+      "id": "mkt:01a178ff-1d64-7ee0-a985-f377c9bcfd20",
+      "time": "2026-10-27 00:15:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "REUTERS SURVEY: Of 31 analysts, 17 expect Colombia's central bank to raise rates 25 bps to 12.50% in October; one expects a 75 bps hike to 13%."
+    },
+    {
+      "id": "mkt:01a178fe-f6c9-7ee0-a985-ee7ccb6672b5",
+      "time": "2026-10-27 00:15:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "REUTERS SURVEY: Colombia's policy rate is expected to reach 12.50% by end-2026 and 11.00% by end-2027."
+    },
+    {
+      "id": "mkt:01a178fe-c699-7ee0-a985-e27a70580a74",
+      "time": "2026-10-27 00:15:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Erdogan said those attempting to exclude Turkey from the eastern Mediterranean must respect the wishes of Turkey and Libya."
+    },
+    {
+      "id": "mkt:01a178fe-b5c4-7ee0-a985-de8b766be5bf",
+      "time": "2026-10-27 00:15:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury: U.S. manufacturing has expanded for nine consecutive months; 72,000 manufacturing jobs added in 2026 through September. Treasury credited President Trump's economic agenda with rebuilding the U.S. industrial base."
+    },
+    {
+      "id": "5170799",
+      "time": "2026-10-27 00:15:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安表示，那些試圖將土耳其排除在地中海東部之外的國家必須尊重土耳其和利比亞的意願。"
+    },
+    {
+      "id": "5170798",
+      "time": "2026-10-27 00:15:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安表示，土耳其無意在地中海東部地區針對任何一方佔上風。"
+    },
+    {
+      "id": "mkt:01a178fd-fbd4-7ee0-a985-d5afc596e824",
+      "time": "2026-10-27 00:14:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan said Turkey has no intention of vying for dominance with any party over the eastern Mediterranean."
+    },
+    {
+      "id": "te:markets:595132",
+      "time": "2026-10-27 00:13:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Rebound Ahead of ECB Meeting — The CAC 40 rose 0.8% to close at 7,846 on Monday, recovering last week’s losses as investors awaited the ECB’s policy decision and a busy earnings calendar. The ECB is expected to hold rates steady while leaving a December hike possible. Banks advanced ahead of earnings, with BNP Paribas up 2.4%, Crédit Agricole 1.2% and Société Générale 2.4%. TotalEnergies added 0.4%, while Airbus rose 0.7%, Sanofi and Dassault Systèmes gained 0.5% each, and Renault added 1.3% ahead of their results. Hermès jumped 3.6% after reporting first-half revenue of €8.2 billion, up 6% year over year. LVMH gained 1% and Kering 1.1%. Moody’s affirmed France’s Aa3 sovereign rating but maintained its negative outlook . The decision offered some relief to the government as it faces persistent social unrest and mounting fiscal pressures."
+    },
+    {
+      "id": "5170797",
+      "time": "2026-10-27 00:13:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國擬新增34家領航級智慧工廠】工業和資訊化部26日釋出通知，公示擬入選2026年度領航級智慧工廠專案培育名單。小米汽車科技有限公司的AI驅動的敏捷製造高階新能源汽車超級智慧工廠等34家工廠名列其中。智慧工廠是智慧製造的主要載體，是製造業數字化轉型、智慧化升級的主戰場。當前，我國分基礎級、先進級、卓越級和領航級四個層級開展智慧工廠梯度培育。其中，領航級智慧工廠探索未來製造模式，實現智慧化變革引領，打造全球領先的發展標杆。截至9月底，我國已累計建成了1.3萬餘家先進級、500餘家卓越級智慧工廠，培育15家領航級智慧工廠。（新華社）"
+    },
+    {
+      "id": "mkt:01a178fb-a66e-7ee0-a985-cfeddbebe13d",
+      "time": "2026-10-27 00:12:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia, Ukraine agree temporary ceasefire in Aleshki; humanitarian corridor to open】Russia and Ukraine agreed a temporary ceasefire in Aleshki, Kherson region, effective 04:00 Moscow time/03:00 Kyiv time on Oct. 27 (09:00 Beijing time), to open a humanitarian corridor for aid deliveries and civilian evacuations. Kremlin spokesman Peskov said on Oct. 26 the Aleshki pause could set a precedent, but warned that resuming Russia–US–Ukraine trilateral talks expected in November does not constrain Russian forces, which will continue to strike Ukrainian targets."
+    },
+    {
+      "id": "5170796",
+      "time": "2026-10-27 00:11:01",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將蔚來汽車的目標股價從每股4.50美元下調至3.70美元，維持蔚來汽車中性評級。"
+    },
+    {
+      "id": "mkt:01a178fa-578b-7ee0-a985-c57b8f701717",
+      "time": "2026-10-27 00:10:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Turkey's President Erdogan said the EU and other parties' reactions to the approval of the Libya maritime agreement have no legal basis."
+    },
+    {
+      "id": "5170795",
+      "time": "2026-10-27 00:10:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安表示，歐盟及其他各方對批准利比亞海事協議的反應沒有合法依據。"
+    },
+    {
+      "id": "mkt:01a178f9-0073-7ee0-a985-bc006a382de7",
+      "time": "2026-10-27 00:09:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FHFA Director Pulte said the agency will not permit firms that abuse dominant market positions to harm consumers in any segment of the U.S. mortgage market."
+    },
+    {
+      "id": "5170794",
+      "time": "2026-10-27 00:06:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦住房金融局局長普爾特：抵押貸款市場不允許濫用壟斷。"
+    },
+    {
+      "id": "5170793",
+      "time": "2026-10-27 00:06:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏今天在阿列什基停火】俄烏日前達成在赫爾松地區阿列什基停火。按照安排，這一停火將從莫斯科時間今天（10月27日）凌晨4點、基輔時間凌晨3點，也就是北京時間上午9點開始生效，屆時將開通人道走廊，運入援助物資並疏散當地居民。俄羅斯總統新聞秘書佩斯科夫10月26日表示，阿列什基的臨時停火可以為未來“樹立一個先例”。對於預計將於11月舉行的俄美烏三方會談，佩斯科夫強調，恢復三方會談“並不限制俄烏雙方敵對行動”，俄武裝部隊將繼續打擊烏方目標。（CCTV國際時訊 ）"
+    },
+    {
+      "id": "5170792",
+      "time": "2026-10-27 00:05:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯謝韋爾鋼鐵公司表示，別爾哥羅德地區的採礦和加工廠在遭到無人機襲擊後部分斷電，礦工已撤離。"
+    },
+    {
+      "id": "5170791",
+      "time": "2026-10-27 00:05:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破112美元/桶，日內漲0.27%。"
+    },
+    {
+      "id": "5170790",
+      "time": "2026-10-27 00:03:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所(ICE)原糖期貨早盤下跌5%，至每噸510.60美元。"
+    },
+    {
+      "id": "te:markets:595125",
+      "time": "2026-10-27 00:01:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Sugar Futures Plunge to Over 3-Week Low — US sugar futures slipped over 6% to trade below 19 cents per pound, their lowest since late September, pressured by lower oil prices and a weaker Brazilian real following the presidential election results. Cheaper oil can make ethanol less competitive, potentially encouraging Brazilian mills to favor sugar production, while a weaker real makes exports more attractive to international buyers. Meanwhile, improved weather in Brazil's key Center-South region has enabled sugarcane harvesting and milling to resume after recent rains disrupted operations, raising expectations of increased short-term supply. Recent UNICA data showed that cumulative cane crushing through August rose 1.8% year-on-year, while sugar production fell 10.3%, as mills allocated a larger share of cane to ethanol. Meanwhile, India, the world’s second-largest sugar producer, is expected to harvest a smaller crop than a year earlier after a powerful El Niño contributed to one of the weakest monsoons in more than a decade."
+    },
+    {
+      "id": "5170789",
+      "time": "2026-10-27 00:01:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦住房金融局普爾特：承諾將進一步採取行動降低抵押貸款成本。"
+    },
+    {
+      "id": "mkt:01a178f1-cd43-7ee0-a985-b534c432b83f",
+      "time": "2026-10-27 00:01:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "FHFA Director Pulte pledged further action to address mortgage borrowing costs."
+    },
+    {
+      "id": "5170788",
+      "time": "2026-10-27 00:00:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數突破102關口，日內漲0.25%。"
+    }
+  ]
+}
