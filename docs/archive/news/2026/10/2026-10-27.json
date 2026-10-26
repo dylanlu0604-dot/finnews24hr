@@ -1,7 +1,15 @@
 {
   "date": "2026-10-27",
-  "count": 118,
+  "count": 119,
   "items": [
+    {
+      "id": "mkt:01a17959-e261-7ee0-a987-428156d6630e",
+      "time": "2026-10-27 01:54:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Multiple Bolsonaro-aligned Brazilian parties recognize Lula victory】Brazilian media reported on the 26th that several right and centre-right parties that had backed Liberal Party candidate Flávio Bolsonaro, son of former president Jair Bolsonaro, announced on the 25th they recognize Workers' Party candidate and incumbent president Lula's victory and will not support the Liberal Party's push to annul the results and call a rerun."
+    },
     {
       "id": "5170840",
       "time": "2026-10-27 01:53:20",

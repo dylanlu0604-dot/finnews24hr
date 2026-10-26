@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-27 01:54:03",
-  "count": 13347,
+  "updated": "2026-10-27 01:57:49",
+  "count": 13346,
   "items": [
+    {
+      "id": "mkt:01a17959-e261-7ee0-a987-428156d6630e",
+      "time": "2026-10-27 01:54:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Multiple Bolsonaro-aligned Brazilian parties recognize Lula victory】Brazilian media reported on the 26th that several right and centre-right parties that had backed Liberal Party candidate Flávio Bolsonaro, son of former president Jair Bolsonaro, announced on the 25th they recognize Workers' Party candidate and incumbent president Lula's victory and will not support the Liberal Party's push to annul the results and call a rerun."
+    },
     {
       "id": "5170840",
       "time": "2026-10-27 01:53:20",
@@ -120167,22 +120175,6 @@
         "其他"
       ],
       "text": "英偉達于于利希超級計算中心完成創紀錄的容錯量子計算模擬。"
-    },
-    {
-      "id": "5154438",
-      "time": "2026-10-20 01:55:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴西政府：需約40億美元預算重組以支援盧拉2027年政策舉措】巴西規劃與預算部週一表示，為落實總統路易斯·伊納西奧·盧拉·達席爾瓦近期宣佈的各項政策舉措，2027年預算需進行約200億雷亞爾（約合39.5億美元）的預算重組。盧拉正尋求在下週日的總統選舉中贏得連任。該部在一份宣告中表示，這一金額僅佔巴西財政框架下受支出上限約束的經常性支出總額的1%多一點，並補充稱相關調整將在維持整體支出上限和政府初級預算目標的前提下進行。"
-    },
-    {
-      "id": "5154437",
-      "time": "2026-10-20 01:55:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：數十至數百艘影子油輪或將完成合規改造。"
     }
   ]
 }
