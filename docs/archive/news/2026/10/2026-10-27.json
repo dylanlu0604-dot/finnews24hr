@@ -1,7 +1,35 @@
 {
   "date": "2026-10-27",
-  "count": 112,
+  "count": 115,
   "items": [
+    {
+      "id": "5170838",
+      "time": "2026-10-27 01:44:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克表示，星鏈行動網路的建設將需要2至3年時間。"
+    },
+    {
+      "id": "5170837",
+      "time": "2026-10-27 01:44:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "天舞（Skydance）向員工提供自願離職買斷方案。"
+    },
+    {
+      "id": "te:markets:595150",
+      "time": "2026-10-27 01:43:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil’s Bonds Pressured as Election Reignites Fiscal Fears — Brazil’s 10-year government bond yield is expected to surge in late October as Brazilian assets sell off following President Lula’s victory over Flávio Bolsonaro in the presidential runoff. The decline reversed optimism after the first round, when Bolsonaro outperformed polls and finished ahead of Lula. Investors had viewed a Bolsonaro administration as more likely to curb public spending, seen as key to lowering interest rates. Markets are now reassessing fiscal risks, including persistent primary deficits and rising public debt, as well as institutional uncertainty surrounding the election. Meanwhile, Brazil’s National Treasury canceled the fixed-rate and inflation-linked bond auctions scheduled for Tuesday and Thursday but maintained Tuesday’s auction of Selic-linked securities."
+    },
     {
       "id": "5170836",
       "time": "2026-10-27 01:39:10",
