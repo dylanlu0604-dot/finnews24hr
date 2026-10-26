@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-27 06:48:25",
-  "count": 13342,
+  "updated": "2026-10-27 06:52:15",
+  "count": 13340,
   "items": [
+    {
+      "id": "5171051",
+      "time": "2026-10-27 06:49:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【實地探訪“北京水貝”黃金市場：首飾金大幅回落，投資金條重返“8”字頭】近期，國際金價大幅震盪。COMEX黃金上週跌幅達到4%。記者多方走訪發現，受國際金價近期回撥影響，國內首飾金、金條、金章等價格相應回落。其中，投資金條每克價格重回“8”字頭，首飾金每克價格則回落至千元左右。從線下成交看，金市關注度較高。（中證報）"
+    },
     {
       "id": "5171050",
       "time": "2026-10-27 06:46:27",
@@ -120144,36 +120152,6 @@
         "國際"
       ],
       "text": "美國特使威特科夫預計本週前往莫斯科。"
-    },
-    {
-      "id": "5154588",
-      "time": "2026-10-20 06:51:23",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【週二重要財經資訊提醒（以下均為北京時間）】 \n① 09:00 中國10月一年期、五年期貸款市場報價利率(LPR)；\n② 時間待定 2026年APEC財長會，首度在中國香港舉行；2026北外灘國際航運論壇10月20日開幕；第九屆半導體大矽片論壇；英偉達GTC大會（柏林）；\n③ 12:15 歐洲央行首席經濟學家Lane在上海舉辦的CF40-Euro50閉門會議上講話；\n④ 14:00 英國9月三個月ILO就業人數、失業率；\n⑤ 17:00 歐元區10月ZEW經濟景氣指數，德國10月ZEW經濟景氣指數；\n⑥ 17:05 歐洲央行管委Rehn講話；\n⑦ 美股盤前 通用汽車、3M等釋出業績報告；\n⑧ 20:30 美國9月營建許可初值，新屋開工；\n⑨ 22:00 美國9月成屋簽約銷售指數。"
-    },
-    {
-      "id": "5154587",
-      "time": "2026-10-20 06:50:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【134家A股公司前三季度業績預告預喜】截至10月19日發稿，已有161家A股公司釋出2026年前三季度業績預告，其中134家公司業績預喜（含121家預計淨利潤同比增長、13家預計淨利潤同比扭虧為盈）。儲能、資訊科技、醫藥等行業的多家業績預喜公司公告顯示，海外業務成為業績增長的重要引擎。（證券日報）"
-    },
-    {
-      "id": "te:markets:593233",
-      "time": "2026-10-20 06:49:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Little Changed in Morning Trade — The NZX 50 was almost flat, trading around 13,657 in Tuesday morning deals, after losses in the previous two sessions, as gains in the tech and healthcare sectors were offset by declines in utilities and real estate. Traders were cautious ahead of the release of Q3 inflation data due this week, which could guide the RBNZ's interest rate decision. Caution also stemmed from rising oil prices, raising concerns about inflation and interest rate hikes amid escalating tensions in the Middle East. The broader index attempted to rebound from its lowest level since September 16, touched a day earlier, tracking an upbeat session on Wall Street overnight, supported by a rebound in the tech sector. F&C Investment rose 1.8%, Infratil climbed 1.3%, Fisher & Paykel gained 0.6%, and Mainfreight increased 0.5%, while Mercury NZ dropped 0.7%, and ANZ Group and A2 Milk each fell 0.5%."
     }
   ]
 }
