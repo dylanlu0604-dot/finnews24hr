@@ -1,7 +1,74 @@
 {
-  "updated": "2026-10-26 13:03:21",
-  "count": 13165,
+  "updated": "2026-10-26 13:07:19",
+  "count": 13168,
   "items": [
+    {
+      "id": "mkt:01a1769a-a4f5-7ee0-a976-03d22ac19cb6",
+      "time": "2026-10-26 13:06:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA cited the Russian Defence Ministry as saying Russian forces struck a cargo ship in the Black Sea."
+    },
+    {
+      "id": "5169031",
+      "time": "2026-10-26 13:06:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍在黑海擊中一艘貨船."
+    },
+    {
+      "id": "te:economy:594891",
+      "time": "2026-10-26 13:06:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Japan Leading Index Confirmed at Over 12-Year High — Japan’s leading economic index, which gauges the outlook for economic activity in the coming months using indicators such as job offers and consumer sentiment, rose to 118.0 in August 2026, matching the preliminary estimate and following a final reading of 117.6 in July. It was the highest level since January 2014, supported by the government’s record fiscal budget, which included comprehensive measures to ease cost-of-living pressures and emergency energy support to cushion the impact of the Middle East conflict."
+    },
+    {
+      "id": "mkt:01a17699-2a32-7ee0-a975-f87f9ab02975",
+      "time": "2026-10-26 13:05:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Fenglong Co. shares hit the daily limit for a second consecutive session; turnover topped 800 million yuan."
+    },
+    {
+      "id": "5169030",
+      "time": "2026-10-26 13:04:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋒龍股份漲停走出2連板】鋒龍股份漲停走出2連板，2天累計漲幅達20.99%。"
+    },
+    {
+      "id": "te:economy:594889",
+      "time": "2026-10-26 13:03:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Coincident Index",
+        "Importance 1"
+      ],
+      "text": "Japan Coincident Index Confirmed at 3-Month Low — Japan’s coincident economic index rose marginally to 118.8 in August 2026 from a flash estimate of 118.7, but fell from 120.6 in July to its lowest level since May. The index, which tracks current economic conditions through indicators such as industrial production, employment and retail sales, reflected the impact of natural disasters and disruptions linked to tensions in the Middle East. Despite the slowdown, Japan’s economy continued to recover moderately, supported by improving employment and income conditions and government measures that boosted private consumption. Business investment also strengthened, although firms remained cautious about the outlook. Meanwhile, the Bank of Japan kept its short-term policy rate at 1.0% in July, its highest level since September 1995, while signaling the possibility of further hikes as underlying inflation moves toward its 2% target and financial conditions remain accommodative."
+    },
+    {
+      "id": "5169029",
+      "time": "2026-10-26 13:03:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "據英國金融時報，德國準備購買在烏克蘭研製的巡航導彈。"
+    },
     {
       "id": "te:markets:594888",
       "time": "2026-10-26 13:02:40",
@@ -13,6 +80,15 @@
         "Importance 1"
       ],
       "text": "Rupee Weakens as Foreign Inflows Fade — The Indian rupee fell to around 95.0 per dollar, retreating from multi-week highs as fading foreign inflows weighed on the currency. Support from foreign inflows linked to the Jio Platforms IPO and position unwinding is expected to fade following the share allotment, leaving the currency more exposed to persistent foreign portfolio outflows. Energy prices also remain a key risk, as Brent crude recently climbed above USD 117 a barrel to a six-month high amid supply concerns following Houthi attacks on Saudi Arabia, raising India's import costs and potentially prompting further hedging by importers. Meanwhile, the Reserve Bank of India's special foreign-exchange window for state-owned oil refiners and market intervention continue to cushion immediate dollar demand. Investors now await the Federal Reserve's decision on Wednesday for signals on the US rate outlook, which could influence dollar demand and emerging-market capital flows."
+    },
+    {
+      "id": "em:jjsj_rbsj:202610263907840272",
+      "time": "2026-10-26 13:02:25",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本8月領先指標月率終值報0.4%，前值0.4%。"
     },
     {
       "id": "mkt:01a17696-07d9-7ee0-a975-f47ad796c697",
@@ -118644,48 +118720,6 @@
         "觀點"
       ],
       "text": "花旗集團將泛歐交易所評級從中性上調至買入；目標價從156歐元上調至200歐元。"
-    },
-    {
-      "id": "5153215",
-      "time": "2026-10-19 13:07:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印尼證券交易所執行長表示，將於週一線上與MSCI公司會面。"
-    },
-    {
-      "id": "5153214",
-      "time": "2026-10-19 13:06:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時縮量110億元。"
-    },
-    {
-      "id": "5153213",
-      "time": "2026-10-19 13:06:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "桑坦德銀行利用英偉達人工智慧基礎設施構建人工智慧能力。"
-    },
-    {
-      "id": "5153212",
-      "time": "2026-10-19 13:05:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吳璟：房地產發展新模式構建取得重大進展】國家統計局19日公佈中國三季度經濟“成績單”。在中新社國是直通車當天舉行的“2026年三季度經濟形勢分析會”上，清華大學房地產研究中心主任吳璟指出，房地產發展新模式構建取得重大進展。他表示，8月28日，構建房地產發展新模式的一系列基礎性檔案同時釋出。房地產發展新模式重要基礎性制度基本上得以成型，不僅為未來很長一段時間裡房地產開發和新房市場執行提供了基礎的制度條件，從短週期角度來講也為購房者提供了更強的保障。9月20日，新修訂的《住房公積金管理條例》正式實施，進一步拓寬公積金提取和使用的範圍。9月29日推出的居民購房貸款貼息政策，在中央層面第一次對購房貸款利息實施貼息。這些政策正從基礎性制度和需求端逐步形成合力，協同生效。（國是直通車）"
-    },
-    {
-      "id": "5153211",
-      "time": "2026-10-19 13:05:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【章俊：外部擾動不改A股核心定價邏輯，聚焦新質生產力長期機遇】“上週美股科技板塊出現顯著回撥，引發全球權益市場情緒走弱。納指單週下跌4.48%，標普500指數回落1.95%。本輪美股調整根源在於海外宏觀預期重構，疊加高估值AI板塊階段性估值消化，並非系統性風險爆發。”中國銀河證券首席經濟學家、研究院院長章俊表示。章俊認為，外部市場波動對A股的影響，主要集中在短期情緒層面，並未改變A股的核心定價邏輯。原因在於，A股的定價錨始終紮根本土——國內經濟的基本面走向、產業結構的升級程序，以及資本市場自身的制度演進，三者共同決定其執行中樞。外部市場的起伏可以影響節奏，卻難以改變方向。（21財經）"
     }
   ]
 }

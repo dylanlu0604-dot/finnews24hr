@@ -1,7 +1,74 @@
 {
   "date": "2026-10-26",
-  "count": 880,
+  "count": 888,
   "items": [
+    {
+      "id": "mkt:01a1769a-a4f5-7ee0-a976-03d22ac19cb6",
+      "time": "2026-10-26 13:06:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA cited the Russian Defence Ministry as saying Russian forces struck a cargo ship in the Black Sea."
+    },
+    {
+      "id": "5169031",
+      "time": "2026-10-26 13:06:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍在黑海擊中一艘貨船."
+    },
+    {
+      "id": "te:economy:594891",
+      "time": "2026-10-26 13:06:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Japan Leading Index Confirmed at Over 12-Year High — Japan’s leading economic index, which gauges the outlook for economic activity in the coming months using indicators such as job offers and consumer sentiment, rose to 118.0 in August 2026, matching the preliminary estimate and following a final reading of 117.6 in July. It was the highest level since January 2014, supported by the government’s record fiscal budget, which included comprehensive measures to ease cost-of-living pressures and emergency energy support to cushion the impact of the Middle East conflict."
+    },
+    {
+      "id": "mkt:01a17699-2a32-7ee0-a975-f87f9ab02975",
+      "time": "2026-10-26 13:05:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Fenglong Co. shares hit the daily limit for a second consecutive session; turnover topped 800 million yuan."
+    },
+    {
+      "id": "5169030",
+      "time": "2026-10-26 13:04:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋒龍股份漲停走出2連板】鋒龍股份漲停走出2連板，2天累計漲幅達20.99%。"
+    },
+    {
+      "id": "te:economy:594889",
+      "time": "2026-10-26 13:03:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Coincident Index",
+        "Importance 1"
+      ],
+      "text": "Japan Coincident Index Confirmed at 3-Month Low — Japan’s coincident economic index rose marginally to 118.8 in August 2026 from a flash estimate of 118.7, but fell from 120.6 in July to its lowest level since May. The index, which tracks current economic conditions through indicators such as industrial production, employment and retail sales, reflected the impact of natural disasters and disruptions linked to tensions in the Middle East. Despite the slowdown, Japan’s economy continued to recover moderately, supported by improving employment and income conditions and government measures that boosted private consumption. Business investment also strengthened, although firms remained cautious about the outlook. Meanwhile, the Bank of Japan kept its short-term policy rate at 1.0% in July, its highest level since September 1995, while signaling the possibility of further hikes as underlying inflation moves toward its 2% target and financial conditions remain accommodative."
+    },
+    {
+      "id": "5169029",
+      "time": "2026-10-26 13:03:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "據英國金融時報，德國準備購買在烏克蘭研製的巡航導彈。"
+    },
     {
       "id": "te:markets:594888",
       "time": "2026-10-26 13:02:40",
@@ -13,6 +80,15 @@
         "Importance 1"
       ],
       "text": "Rupee Weakens as Foreign Inflows Fade — The Indian rupee fell to around 95.0 per dollar, retreating from multi-week highs as fading foreign inflows weighed on the currency. Support from foreign inflows linked to the Jio Platforms IPO and position unwinding is expected to fade following the share allotment, leaving the currency more exposed to persistent foreign portfolio outflows. Energy prices also remain a key risk, as Brent crude recently climbed above USD 117 a barrel to a six-month high amid supply concerns following Houthi attacks on Saudi Arabia, raising India's import costs and potentially prompting further hedging by importers. Meanwhile, the Reserve Bank of India's special foreign-exchange window for state-owned oil refiners and market intervention continue to cushion immediate dollar demand. Investors now await the Federal Reserve's decision on Wednesday for signals on the US rate outlook, which could influence dollar demand and emerging-market capital flows."
+    },
+    {
+      "id": "em:jjsj_rbsj:202610263907840272",
+      "time": "2026-10-26 13:02:25",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本8月領先指標月率終值報0.4%，前值0.4%。"
     },
     {
       "id": "mkt:01a17696-07d9-7ee0-a975-f47ad796c697",
