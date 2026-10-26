@@ -1,7 +1,15 @@
 {
   "date": "2026-10-27",
-  "count": 146,
+  "count": 147,
   "items": [
+    {
+      "id": "mkt:01a17972-de01-7ee0-a987-a674ccd2bb9a",
+      "time": "2026-10-27 02:22:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market note: Iranian president arrived in Moscow, Russia."
+    },
     {
       "id": "te:markets:595152",
       "time": "2026-10-27 02:20:04",
