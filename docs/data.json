@@ -1,7 +1,103 @@
 {
-  "updated": "2026-10-27 02:05:27",
-  "count": 13351,
+  "updated": "2026-10-27 02:09:14",
+  "count": 13362,
   "items": [
+    {
+      "id": "mkt:01a17966-84c7-7ee0-a987-82b6e391c6de",
+      "time": "2026-10-27 02:08:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI has begun rolling out GPT-6.1 Terra to all Plus, Pro, Enterprise and Edu users; available in ChatGPT Work and Codex."
+    },
+    {
+      "id": "mkt:01a17966-2c0a-7ee0-a987-7ee4e29dc7e8",
+      "time": "2026-10-27 02:08:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran Supreme National Security Council secretary Rezai said parties have reached consensus that security in West Asia must rely on regional states’ own capabilities and that external interference must be prevented."
+    },
+    {
+      "id": "mkt:01a17966-0fb9-7ee0-a987-7007351e5d8e",
+      "time": "2026-10-27 02:08:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Axios, the US Federal Trade Commission (FTC) has subpoenaed ANTHROPIC top executives to testify in an investigation."
+    },
+    {
+      "id": "mkt:01a17966-0f53-7ee0-a987-6ab9137331dc",
+      "time": "2026-10-27 02:08:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezai said regional cooperation should have begun earlier and visits by senior officials from Turkey, Pakistan and Saudi Arabia show US threats have had little impact on countries worldwide."
+    },
+    {
+      "id": "mkt:01a17966-0f01-7ee0-a987-6400eb8f7722",
+      "time": "2026-10-27 02:08:13",
+      "tags": [
+        "MKT News",
+        "SKYD.N"
+      ],
+      "text": "CNBC reports Skydance (SKYD.N) is offering voluntary buyout packages to employees and is implementing a five-day in-office workweek."
+    },
+    {
+      "id": "mkt:01a17966-0e47-7ee0-a987-5c56fb2a8127",
+      "time": "2026-10-27 02:08:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezai said parties stressed Israel must withdraw from southern Lebanon, southern Syria, the Gaza Strip and the West Bank, and cease aggressive actions."
+    },
+    {
+      "id": "5170851",
+      "time": "2026-10-27 02:07:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT-6.1 Terra現已開始推送。"
+    },
+    {
+      "id": "5170850",
+      "time": "2026-10-27 02:06:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯表示，對話應保障政治參與。"
+    },
+    {
+      "id": "5170849",
+      "time": "2026-10-27 02:06:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【原油期權釋放中東供應風險上升訊號】WTI原油期權看漲偏斜已升至+7.2%，為9月10日以來最高，反映在中東局勢緊張背景下，市場對上行價格保護的需求上升。胡塞武裝對沙特石油基礎設施及地區航運的襲擊加劇了供應中斷擔憂。與此同時，WTI原油1至2個月價差從5.40美元/桶收窄至2.30美元/桶，顯示近期現貨溢價走弱。儘管近期實物市場緊張狀況緩解，期權交易員仍在計入更大的油價上行風險。"
+    },
+    {
+      "id": "5170848",
+      "time": "2026-10-27 02:05:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗安全委員會秘書雷扎伊：土耳其、巴基斯坦和沙烏地阿拉伯高階官員的訪問表明，美國的威脅對世界各國影響不大。土耳其、巴基斯坦和沙烏地阿拉伯高階官員認為，地區問題的解決之道在於四國合作。我們得出結論，西亞的安全必須由地區內部實現，必須防止任何外國干涉。"
+    },
+    {
+      "id": "5170847",
+      "time": "2026-10-27 02:05:31",
+      "tags": [
+        "央行",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【地緣政治緊張令黃金看漲邏輯複雜化】美國哈特福德黃金公司總裁馬克斯·貝克表示，中東緊張局勢正給黃金帶來混雜訊號。地緣政治不確定性支撐避險需求，但能源價格上漲可能推升通脹、提振美元並壓制金價。各國央行購金量已較2022年前水平大致翻倍，某些國家已連續23個月增持黃金儲備。"
+    },
     {
       "id": "5170846",
       "time": "2026-10-27 02:04:23",
