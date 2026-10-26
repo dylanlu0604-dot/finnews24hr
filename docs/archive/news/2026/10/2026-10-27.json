@@ -1,7 +1,48 @@
 {
   "date": "2026-10-27",
-  "count": 79,
+  "count": 83,
   "items": [
+    {
+      "id": "5170823",
+      "time": "2026-10-27 01:14:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗與沙特、土耳其、巴基斯坦同意未來繼續舉行會談】當地時間26日晚，伊朗與沙特、土耳其、巴基斯坦在伊朗首都德黑蘭舉行了關於區域安全與穩定的四方會議。會後，各方同意未來繼續舉行相關會談，以加強四國在包括地區和平與安全等領域的合作。（央視新聞）"
+    },
+    {
+      "id": "5170822",
+      "time": "2026-10-27 01:13:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "達樂公司股價下跌3.8%。"
+    },
+    {
+      "id": "te:markets:595148",
+      "time": "2026-10-27 01:12:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.33% Higher — The FTSE MIB Index went up by 644 points or 1.33 percent on Monday to close at 49203 points. The rise was led by Technoprobe (5.74%), Avio (5.65%) and Prysmian (4.51%)."
+    },
+    {
+      "id": "te:markets:595147",
+      "time": "2026-10-27 01:11:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.05% Higher — The DAX Index rose 264 points or 1.05 percent on Monday to close at 25446 points. Leading the gains are Siemens Energy (4.35%), Infineon (3.70%) and Hochtief (3.67%)."
+    },
     {
       "id": "te:markets:595146",
       "time": "2026-10-27 01:10:18",
