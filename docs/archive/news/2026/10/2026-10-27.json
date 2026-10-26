@@ -1,7 +1,49 @@
 {
   "date": "2026-10-27",
-  "count": 122,
+  "count": 127,
   "items": [
+    {
+      "id": "5170846",
+      "time": "2026-10-27 02:04:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯表示，希望馬查多糾正錯誤，為國家作出貢獻。"
+    },
+    {
+      "id": "5170845",
+      "time": "2026-10-27 02:03:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會要求Anthropic高管在調查中作證。"
+    },
+    {
+      "id": "5170844",
+      "time": "2026-10-27 02:02:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國內政部長伯古姆：部分新的放牧監管規定將於今日公佈。"
+    },
+    {
+      "id": "mkt:01a17961-2ae8-7ee0-a987-5506f631d159",
+      "time": "2026-10-27 02:01:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC is expanding Claude to nonprofit organizations and has launched a \"Claude for Nonprofits\" plugin."
+    },
+    {
+      "id": "5170843",
+      "time": "2026-10-27 02:01:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "天舞公司推出強制每週五天到崗辦公政策。"
+    },
     {
       "id": "mkt:01a1795f-1268-7ee0-a987-4e7199a13746",
       "time": "2026-10-27 02:00:36",
