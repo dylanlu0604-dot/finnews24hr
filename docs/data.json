@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-26 13:18:56",
-  "count": 13176,
+  "updated": "2026-10-26 13:22:54",
+  "count": 13181,
   "items": [
+    {
+      "id": "5169051",
+      "time": "2026-10-26 13:22:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧德時代成交額超100億元】截至發稿，寧德時代成交額超100億元，漲超1%。"
+    },
+    {
+      "id": "5169050",
+      "time": "2026-10-26 13:22:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥概念午後震盪走強】萊美藥業漲超15%，百洋醫藥漲超11%，我武生物、百誠醫藥、麗珠集團、吳海生科、上海醫藥等跟漲。"
+    },
+    {
+      "id": "5169049",
+      "time": "2026-10-26 13:21:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【澳大利亞S&P/ASX 200 上漲0.2% 必和必拓領漲】澳大利亞S&P/ASX 200 指數連續第二天上漲，收盤上漲 0.2%，或 14.67，至 8,809.90 點。必和必拓集團有限公司對指數上漲貢獻最大，上漲1.0%。Zip公司漲幅最大，上漲11.0%。今日，200 只股票中有 111 只上漲，84 只下跌；11 個板塊中有 5 個板塊上漲，其中材料類股領漲。"
+    },
+    {
+      "id": "mkt:01a176a8-1cdb-7ee0-a976-33e440ed0321",
+      "time": "2026-10-26 13:21:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed up 19.00 points, or 0.22%, at 8,814.20 on Monday, Oct. 26."
+    },
+    {
+      "id": "te:markets:594898",
+      "time": "2026-10-26 13:20:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Extends Losing Streak Despite Dollar Weakness — The Indonesian rupiah weakened past IDR 18,100 per U.S. dollar on Monday, falling for a fourth consecutive session and reaching its lowest level since late July. Domestic pressures continued to weigh on sentiment, with oil prices above USD 100 per barrel raising concerns over fiscal strain given Indonesia’s status as a net oil importer. Inflationary risks also persisted amid rising food prices linked to El Niño. Meanwhile, Bank Indonesia’s latest policy adjustments drew criticism from some market participants for their complexity, as the central bank held its benchmark rate unchanged while raising the deposit facility rate and cutting the reserve requirement ratio (RRR). BI officials said the measures were intended to align interest rates with monetary operations following the government’s placement of funds in commercial banks. The rupiah’s decline came despite a further pullback in the U.S. dollar index, as traders cautiously awaited the Fed’s policy decision later this week."
+    },
+    {
+      "id": "5169048",
+      "time": "2026-10-26 13:19:59",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【各幹各的 英國不加入加拿大牽頭的防務銀行】英國和加拿大兩國財政部25日發表聯合宣告說，英國參與建立的“多邊防務機制”與加拿大牽頭籌建的“防務、安全與韌性銀行”將作為兩個不同但互補的夥伴機制來運營。據英國媒體報道，雙方原本有意將兩個機制合併，但英國隨後決定單幹。宣告說，兩國已共同判定，兩個圍繞新興產業、投資機遇和戰略融資等運營的不同機制，各自運營、相互支援才是最優方案。（新華社）"
+    },
     {
       "id": "5169047",
       "time": "2026-10-26 13:18:16",
@@ -118801,14 +118855,6 @@
         "國際"
       ],
       "text": "埃及外長稱已與伊朗外長討論了緩和局勢的問題。"
-    },
-    {
-      "id": "5153230",
-      "time": "2026-10-19 13:21:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英偉達GTC柏林大會即將開幕 黃仁勳將發表主題演講】當地時間10月20日至22日，英偉達GTC大會將在德國柏林舉行，黃仁勳將在21日發表主題演講。作為英偉達下半年最受關注的技術與生態大會，本屆GTC把重心從“賣GPU”進一步推向“賣AI工廠”，據官方介紹，大會設有100多場專題分享，覆蓋完整人工智慧技術棧，將聚焦加速計算、智慧體AI（Agentic AI）、物理AI（Physical AI）、機器人、開源模型、AI基礎設施等方向。"
     }
   ]
 }
