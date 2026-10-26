@@ -1,7 +1,98 @@
 {
   "date": "2026-10-26",
-  "count": 984,
+  "count": 994,
   "items": [
+    {
+      "id": "5169109",
+      "time": "2026-10-26 14:01:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武漢光谷集電產業投資基金登記成立，出資額16億】天眼查App顯示，10月23日，武漢光谷集電產業投資基金合夥企業（有限合夥）成立，執行事務合夥人為武漢光谷科創投私募股權基金管理有限公司，出資額16億元人民幣。經營範圍為創業投資，以私募基金從事股權投資、投資管理、資產管理等活動，由武漢光谷創業科技投資有限公司、武漢光谷半導體產業投資有限公司、武漢光谷科創投私募股權基金管理有限公司共同出資。"
+    },
+    {
+      "id": "mkt:01a176cb-c9be-7ee0-a976-ce901d56b83f",
+      "time": "2026-10-26 14:00:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi deputy foreign minister said the delegation's visit to Iran aims to underscore the Mecca Agreement signatories' key role in maintaining regional security and stability."
+    },
+    {
+      "id": "5169108",
+      "time": "2026-10-26 14:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "芬蘭9月份生產者價格環比上漲2%。"
+    },
+    {
+      "id": "5169107",
+      "time": "2026-10-26 14:00:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱曾提不打俄煉油廠條件】當地時間10月25日，烏克蘭總統澤連斯基在接受烏克蘭媒體採訪時稱，上週在挪威奧斯陸會晤期間，烏克蘭向美國明確提出了停止襲擊俄羅斯能源設施的三項方案。第一項是俄羅斯必須停止打擊烏克蘭電網；第二項是美國向烏克蘭開放使用“星鏈”系統軍事化版本“星盾”打擊俄羅斯境內縱深目標的授權，定位俄軍彈道導彈發射裝置位置；第三，如果前兩項方案都做不到，那麼美國“至少應該為烏克蘭提供‘愛國者’防空系統的攔截彈”。澤連斯基稱，但目前來看，烏克蘭什麼都沒有得到，不僅沒有得到“愛國者”導彈，反而“星鏈”網路也一度遭限速。 10月20日，澤連斯基在奧斯陸與挪威首相斯特勒、芬蘭總統斯圖布舉行會談，美國總統特使威特科夫與會。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:economy:594908",
+      "time": "2026-10-26 14:00:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Saudi Arabia Trade Surplus Narrows in August — Saudi Arabia’s trade surplus narrowed to SAR 15.6 billion in August 2026 from SAR 19.7 billion in the same month last year. Exports dropped 11.5% year-on-year to SAR 87.2 billion, weighed down by a 12.5% fall in oil exports, which accounted for 70.0% of total exports. Meanwhile, non-oil exports rose 8.5%, driven by an increase in shipments of plastics, rubber, and related articles (7.5%), which accounted for 22.6% of total non-oil exports. The UAE was the leading destination for Saudi exports, accounting for 11.4% of the total, followed by South Korea (11.2%) and India (8.4%). Imports fell 9.1% to SAR 71.6 billion, largely due to a sharp decline in machinery, electrical equipment, and parts thereof (-19.8%), which accounted for 26.2% of total imports. China remained the largest source of imports, accounting for 21.9% of the total, followed by the US (8.4%) and Egypt (5.8%)."
+    },
+    {
+      "id": "5169106",
+      "time": "2026-10-26 13:59:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國地震局：追蹤調查首次發現西藏巴青7.0級地震地表破裂帶】西藏巴青7.0級地震發生後，中國地震局現場工作隊昨天（25日）在距離震中東約15公里處、距離瑪如鄉20公里處，首次發現此次地震的地表破裂帶。"
+    },
+    {
+      "id": "mkt:01a176ca-4246-7ee0-a976-c5e4ba96a475",
+      "time": "2026-10-26 13:58:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Earthquake Administration finds surface rupture after M7.0 Baqing, Tibet quake】China Earthquake Administration field team on Oct. 25 located the surface rupture zone from the M7.0 Baqing, Tibet earthquake about 15 km east of the epicenter and ~20 km from Maru Township. The rupture is dominated by normal faulting with a left-lateral strike-slip component; the rupture plane is near-vertical, maximum rupture depth ~3.5 m, horizontal slip ~0.9 m. Rupture zone width measures about 8–30 m and extends north and south onto snow-covered mountains. Multiple sites of sand/liquefaction and ground fissures were observed, indicating a broad area of seismic geological damage."
+    },
+    {
+      "id": "te:markets:594907",
+      "time": "2026-10-26 13:58:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Turns Early Decline to End Higher — The ASX 200 edged up 15 points, or 0.2%, to close at 8,810 on Monday, reversing early losses as gains in tech, manufacturing, and non-energy minerals lifted sentiment. Stronger U.S. stock futures also supported the market ahead of major central bank decisions, including the Fed, and further U.S. earnings reports. Traders anticipated September inflation data due later this week, after August CPI eased to 4.0%, below the 4.1% forecast but still above the RBA’s 2–3% target. Investors largely looked past RBA Assistant Governor Hunter’s warning that further rate hikes may be needed amid persistent inflation and the risk of imported price pressures becoming entrenched. Mining stocks rose, with BHP Group up 0.9% and Fortescue gaining 0.7% as iron ore prices steadied. Energy shares strengthened, led by Santos (2.2%) and Woodside Energy (1.5%), while Sandfire Resources (4.0%) and BlueScope Steel (2.9%) also gained. PLS Group surged 8.4% on improving lithium sentiment and higher prices."
+    },
+    {
+      "id": "mkt:01a176c9-baf1-7ee0-a976-b9d47cd9e427",
+      "time": "2026-10-26 13:58:14",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Chinese agencies begin drafting mandatory C‑V2X installation standard, industry source says】Relevant Chinese departments have begun work to draft a mandatory standard requiring vehicles to be fitted with C‑V2X (cellular V2X), an anonymous C‑V2X industry practitioner said. A working group has been formed with dozens of organisations participating, and commercial/operational vehicles are being prioritized for early installation. Fan Ju, vice general manager at CITIC Kezhilian Technology Co., Ltd., said further policy and regulatory support could move China’s C‑V2X sector from pilot demonstrations into a phase of rapid growth."
+    },
+    {
+      "id": "5169105",
+      "time": "2026-10-26 13:57:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特、土耳其、巴基斯坦高官將赴德黑蘭會晤伊朗國安高官】沙特、土耳其和巴基斯坦的高階官員預計將在德黑蘭會見伊朗最高國家安全委員會秘書穆赫辛·雷扎伊，祝賀其履新並討論地區安全問題。伊朗最高國家安全委員會副秘書阿里·巴蓋裡·卡尼（Ali Bagheri Kani）於週一對國家媒體表示。他表示：“首要目的是祝賀雷扎伊少將承擔這一重要職責，其次則是就地區安全問題與伊朗最高國家安全委員會秘書進行磋商。”他透露，此次會晤由巴基斯坦陸軍參謀長阿西姆·穆尼爾（Asim Munir）在上週訪問德黑蘭期間提出。沙特國防大臣哈立德·本·薩勒曼親王、穆尼爾以及土耳其情報局局長易卜拉欣·卡倫（Ibrahim Kalin）預計將出席會議。巴蓋裡·卡尼將此次會議描述為邁向由地區國家自主主導的地區安全的一步，且無需外部勢力介入。他表示，德黑蘭方面認為美國和以色列的介入是地區動盪的根源。"
+    },
     {
       "id": "mkt:01a176c8-71fb-7ee0-a976-b14ffc91f387",
       "time": "2026-10-26 13:56:50",
