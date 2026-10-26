@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-26 13:42:20",
-  "count": 13192,
+  "updated": "2026-10-26 13:46:15",
+  "count": 13198,
   "items": [
+    {
+      "id": "mkt:01a176bd-e307-7ee0-a976-7f6aba6f59ee",
+      "time": "2026-10-26 13:45:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "Business Insider reports Elon Musk warned AI cloud service providers face a debt-financing squeeze that could force consolidation or failure of more than 200 firms. NVIDIA says AI compute demand remains strong, but data-center construction delays are increasing industry risk."
+    },
+    {
+      "id": "5169086",
+      "time": "2026-10-26 13:45:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【澳大利亞對涉華玻璃棉啟動雙反傾銷調查】據中國貿易救濟資訊網，2026年10月23日，澳大利亞貿易救濟委員會發布第2026/152號公告稱，應澳大利亞國內企業CSR Building Products Ltd和Fletcher Insulation Pty Ltd提交的申請，對進口自中國和馬來西亞的玻璃棉（Certain Glass Wool）啟動反傾銷和反補貼調查。涉案產品的澳大利亞海關編碼為7019.80.00.80。本案傾銷調查期為2025年7月1日至2026年6月30日，損害調查期自2022年7月1日起。澳大利亞貿易救濟委員會預計將不晚於2027年2月10日完成本案調查的基本事實報告，不晚於2027年3月27日向澳大利亞工業、創新和科學部長提交終裁報告。"
+    },
+    {
+      "id": "5169085",
+      "time": "2026-10-26 13:44:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司高管表示，隨著中東原油供應改善，已逐步恢復從該地區採購。"
+    },
+    {
+      "id": "5169084",
+      "time": "2026-10-26 13:44:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奇瑞風雲A9增程版上市】10月26日，奇瑞汽車宣佈，風雲A9增程版正式上市，上市指導價11.99萬元起。"
+    },
+    {
+      "id": "mkt:01a176bc-7d53-7ee0-a976-7291261e311d",
+      "time": "2026-10-26 13:43:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Saudi government reported August imports down 9.1% YoY; August non-oil exports, including re-exports, down 9.1% YoY."
+    },
+    {
+      "id": "mkt:01a176bb-bdba-7ee0-a976-6deaa9b6fbc9",
+      "time": "2026-10-26 13:42:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi government reported August 2026 commodity exports fell 11.5% YoY; oil exports declined 12.5% YoY."
+    },
+    {
+      "id": "5169083",
+      "time": "2026-10-26 13:42:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯表示將參加週一在德黑蘭舉行的會議。"
+    },
+    {
+      "id": "5169082",
+      "time": "2026-10-26 13:42:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴拉特石油公司高管：莫三比克預計2028年年中實現天然氣生產。"
+    },
+    {
+      "id": "5169081",
+      "time": "2026-10-26 13:42:06",
+      "tags": [],
+      "text": "宇樹科技股價重回700元，本月累計漲幅超56％，總市值突破2850億元。"
+    },
     {
       "id": "mkt:01a176ba-a601-7ee0-a976-64ee2c150831",
       "time": "2026-10-26 13:41:45",
@@ -118915,34 +119003,6 @@
         "市場"
       ],
       "text": "法國燕麥期貨下跌0.4%，因法國正應對多年來最嚴重的騷亂。"
-    },
-    {
-      "id": "5153257",
-      "time": "2026-10-19 13:43:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "韓元兌美元匯率升至2024年10月2日以來最高水平。"
-    },
-    {
-      "id": "5153256",
-      "time": "2026-10-19 13:43:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杭州園林等新設智慧科技公司，含多項AI業務】企查查APP顯示，近日，杭天微（上海）智慧科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧基礎資源與技術平臺；人工智慧行業應用系統整合服務；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由杭州園林旗下杭微天算（上海）智慧科技有限公司等共同持股。"
-    },
-    {
-      "id": "5153255",
-      "time": "2026-10-19 13:43:37",
-      "tags": [
-        "宏觀",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【IMF：如果通脹漲幅超出預期，日本央行可能需要加快緊縮步伐】國際貨幣基金組織支援日本央行推進貨幣政策正常化，並表示如果通脹漲幅超出預期，央行可能需要加快緊縮步伐。IMF 亞太部主任克里希納・斯里尼瓦桑在曼谷 IMF 年會間隙接受採訪時稱，日本央行 “正在採取正確行動”。“如果通脹上漲快於預期，就必須加快收緊政策，避免通脹預期脫錨，” 他表示，“這取決於資料。”斯里尼瓦桑還呼籲日本明確財政支出資金來源，出臺中期財政框架，緩解市場對該國債務風險的擔憂。"
     }
   ]
 }
