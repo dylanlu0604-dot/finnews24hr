@@ -1,7 +1,65 @@
 {
   "date": "2026-10-26",
-  "count": 962,
+  "count": 968,
   "items": [
+    {
+      "id": "mkt:01a176c1-75a1-7ee0-a976-8e5835fda126",
+      "time": "2026-10-26 13:49:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A top executive at Barat Petroleum said the company has gradually resumed purchases from the Middle East as regional crude supply improves and expects Middle East crude supply to increase in November."
+    },
+    {
+      "id": "5169090",
+      "time": "2026-10-26 13:48:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【DeepSeek大模型單週呼叫量全球第一】根據OpenRouter最新資料測算，上週（10月19日至25日）全球AI大模型總呼叫量為188萬億Token，環比增長14.63%。 其中，上榜的AI大模型中，中國AI大模型周呼叫量達93.54萬億Token，環比增長18.14%；同期美國AI大模型周呼叫量為22.47萬億Token，環比增長29.44%。中國大模型周呼叫量連續二十六週超過美國，穩居全球首位。 《每日經濟新聞》注意到，上週，全球呼叫量排名前五均為中國AI大模型。其中，DeepSeek V4.1-Flash-1017位居第一，周呼叫量達33. 6萬億Token，環比增長801%。 10月17日，DeepSeek V4.1-Flash-1017版本官宣更新。本次更新以9月10日釋出的V4.1 Flash為基礎，改善推理、程式設計、自動化及視覺任務表現。DeepSeek稱，新模型在各方面的基準測試中取得了長足的提升，並在多個Harness（控制框架）下達到了新的效能-費用帕累托最優，即最佳價效比。 DeepSeek V4.1 Flash排在第二，周呼叫量達18萬億Token，環比下滑45%；MiniMax M3.1 Flash (free)衝上榜單，位居第三，周呼叫量達13.7萬億Token。（每經）"
+    },
+    {
+      "id": "mkt:01a176c0-ae9b-7ee0-a976-850effd22590",
+      "time": "2026-10-26 13:48:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A Saudi Foreign Ministry official said meetings between Mecca Agreement member states and Iran were held within a framework of actions to reduce tensions."
+    },
+    {
+      "id": "5169089",
+      "time": "2026-10-26 13:47:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司高管表示，由於商業可行性問題，11月份從俄羅斯進口的貨物大幅減少。"
+    },
+    {
+      "id": "5169088",
+      "time": "2026-10-26 13:46:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "宇樹科技大漲超15%。"
+    },
+    {
+      "id": "5169087",
+      "time": "2026-10-26 13:46:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司高管：俄羅斯原油報價良好。"
+    },
     {
       "id": "mkt:01a176bd-e307-7ee0-a976-7f6aba6f59ee",
       "time": "2026-10-26 13:45:18",
