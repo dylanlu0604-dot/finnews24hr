@@ -1,7 +1,77 @@
 {
   "date": "2026-10-26",
-  "count": 369,
+  "count": 376,
   "items": [
+    {
+      "id": "te:markets:594786",
+      "time": "2026-10-26 08:18:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mitsubishi Shares Hit 4-week High — Mitsubishi shares increased to 4842.00 JPY, the highest since September 2026. Over the past 4 weeks, Mitsubishi gained 0.5%, and in the last 12 months, it increased 31.31%."
+    },
+    {
+      "id": "mkt:01a17592-4778-7ee0-a970-802290f2e9e0",
+      "time": "2026-10-26 08:18:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EWZ",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "A Japan-listed Brazil ETF tumbled 11% after President Lula won re-election."
+    },
+    {
+      "id": "mkt:01a17591-deb6-7ee0-a970-7c21bb6a48b6",
+      "time": "2026-10-26 08:17:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution"
+      ],
+      "text": "【CITIC Securities: focus on physical-AI data and simulation, AI security, domestic chips, supernodes and compute services】CITIC Securities research note: Cambricon and CHINA'S CPU MAKER HAIGUANG posted Q3 revenue growth and QoQ gross-margin improvement. Domestic allocations and higher rental rates for overseas high-end GPUs are keeping compute-service demand and pricing firm. Integration of general-purpose large models with execution frameworks is improving robot operational capabilities; leading vendors are expanding capacity, and demand for high-quality interactive data, simulation/synthetic datasets and evaluation systems should broaden physical-AI industry demand. Recent PHP and LiteLLM supply-chain incidents underscore needs for exploit mitigation, credential management and runtime protection; model firms are advancing code verification and execution isolation, accelerating adoption of AI-security products. CITIC highlights physical-AI data and simulation, AI security, domestic chips, supernodes and compute-service providers as key investment focus areas."
+    },
+    {
+      "id": "5168282",
+      "time": "2026-10-26 08:17:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國10年期國債期貨價格上漲，此前穆迪維持法國信用評級不變。"
+    },
+    {
+      "id": "5168280",
+      "time": "2026-10-26 08:16:56",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：關注物理AI資料與模擬、AI安全、國產晶片等方向】中信建投研報稱，寒武紀、海光資訊三季度收入增長，毛利率環比提升；國內部分配置及海外高階GPU租金上行，算力服務景氣延續。通用大模型與執行框架協同提升機器人操作能力，頭部廠商推進產能建設，高質量互動資料、模擬合成及評測體系建設有望擴大物理AI產業需求。PHP漏洞和LiteLLM供應鏈事件凸顯漏洞利用、憑證管理及執行時防護需求，模型公司推進程式碼驗證與執行隔離，推動AI安全產品落地。關注物理AI資料與模擬、AI安全、國產晶片與超節點及算力服務等方向。"
+    },
+    {
+      "id": "5168279",
+      "time": "2026-10-26 08:16:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.2%，德國DAX指數期貨上漲0.1%。"
+    },
+    {
+      "id": "5168276",
+      "time": "2026-10-26 08:16:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本市場上的巴西ETF重挫11%。"
+    },
     {
       "id": "5168275",
       "time": "2026-10-26 08:14:49",
