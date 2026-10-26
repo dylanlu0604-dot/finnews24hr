@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-27 06:36:58",
-  "count": 13353,
+  "updated": "2026-10-27 06:40:48",
+  "count": 13350,
   "items": [
+    {
+      "id": "te:markets:595174",
+      "time": "2026-10-27 06:40:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Sugar Slumps by 5.74% — Top commodity losers are Sugar (-5.74%), Oat (-3.09%) and Coffee (-2.62%). Gains are led by Rubber (1.10%)."
+    },
     {
       "id": "te:markets:595173",
       "time": "2026-10-27 06:35:17",
@@ -120237,48 +120248,6 @@
         "國際"
       ],
       "text": "【Waymo擬利用50億美元融資將自動駕駛車隊規模擴至原來5倍】Waymo計劃使用新近獲得的50億美元貸款，在明年年底前將車隊從現有4000臺擴充至20000臺。Waymo目標在今年年底把車隊規模提升至8000臺，當前車隊為4000臺。Waymo的業務現已覆蓋美國15座城市，並計劃拓展至多倫多、聖迭戈、坦帕與聖安東尼奧。"
-    },
-    {
-      "id": "5154582",
-      "time": "2026-10-20 06:40:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "Waymo計劃在年底前將汽車總數增至8000輛，並在明年年底前增至20000輛。"
-    },
-    {
-      "id": "mkt:01a15652-e77d-7ee0-a8f0-6bdbfea41883",
-      "time": "2026-10-20 06:40:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "Semafor reports Waymo plans to increase its fleet fivefold."
-    },
-    {
-      "id": "te:markets:593231",
-      "time": "2026-10-20 06:40:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Rises by 2.65% — Top commodity gainer is Coffee (2.65%). Biggest losers are Oat (-2.20%), Lumber (-1.88%) and Corn (-1.53%)."
-    },
-    {
-      "id": "5154581",
-      "time": "2026-10-20 06:40:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普政府尚未批准向烏克蘭轉讓攔截導彈。"
     }
   ]
 }

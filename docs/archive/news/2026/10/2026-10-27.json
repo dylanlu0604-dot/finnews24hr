@@ -1,7 +1,18 @@
 {
   "date": "2026-10-27",
-  "count": 353,
+  "count": 354,
   "items": [
+    {
+      "id": "te:markets:595174",
+      "time": "2026-10-27 06:40:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Sugar Slumps by 5.74% — Top commodity losers are Sugar (-5.74%), Oat (-3.09%) and Coffee (-2.62%). Gains are led by Rubber (1.10%)."
+    },
     {
       "id": "te:markets:595173",
       "time": "2026-10-27 06:35:17",
