@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-27 05:58:32",
-  "count": 13358,
+  "updated": "2026-10-27 06:02:39",
+  "count": 13361,
   "items": [
+    {
+      "id": "5171034",
+      "time": "2026-10-27 06:01:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "西班牙針對資料中心放寬能源/電力政策，從而爭取大型科技公司（到該國投資）。"
+    },
+    {
+      "id": "5171033",
+      "time": "2026-10-27 06:00:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲本週維持利率不變的機率為89.5%】據CME“美聯儲觀察”：美聯儲本週維持利率不變的機率為89.5%，累計加息25個基點的機率為10.5%。美聯儲到12月維持利率不變的機率為17.7%，累計加息25個基點的機率73.9%，累計加息50個基點的機率為8.4%。"
+    },
+    {
+      "id": "5171032",
+      "time": "2026-10-27 06:00:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "維珍銀河：第二艘飛船預計於2027年第二季度末至第三季度初啟動太空飛行運營。"
+    },
+    {
+      "id": "5171031",
+      "time": "2026-10-27 06:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破102美元/桶，日內跌0.47%。"
+    },
+    {
+      "id": "5171030",
+      "time": "2026-10-27 05:59:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "維珍銀河定於10月28日，首架德爾塔級飛船抵達美國太空港，標誌飛行測試籌備工作正式啟動。首架飛船預計於 2027 年第二季度初完成首次太空飛行。"
+    },
     {
       "id": "5171029",
       "time": "2026-10-27 05:54:18",
@@ -120308,28 +120350,6 @@
         "國際"
       ],
       "text": "【美聯儲10月維持利率不變的機率為82.8%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為82.8%，累計加息25個基點的機率為17.2%。美聯儲到12月維持利率不變的機率為6.4%，累計加息25個基點的機率77.8%，累計加息50個基點的機率為15.8%。"
-    },
-    {
-      "id": "5154561",
-      "time": "2026-10-20 06:00:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：英國財政大臣約翰·希利或不在10月28日公佈的首份預算案中提高資本利得稅，而是選擇優先推動經濟增長和企業投資。"
-    },
-    {
-      "id": "mkt:01a1562c-6b52-7ee0-a8f0-4ae789f2b4f3",
-      "time": "2026-10-20 05:58:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100",
-        "DXY"
-      ],
-      "text": "【UK chancellor reportedly drops planned CGT rise, to fund gap with bank levy】The Times reported on Monday that Chancellor John Healey has decided not to raise capital gains tax in his first budget on Oct. 28 and will prioritise growth and business investment instead. After warnings that a CGT increase could prompt wealthy residents to emigrate or defer asset disposals—ultimately reducing receipts—Healey abandoned the measure. The new budget’s main revenue-raising measure is expected to be a levy on banks, with proceeds earmarked for a temporary, targeted cost-of-living support package. The Treasury declined to comment. Healey faces pressure to raise billions of pounds to offset higher government borrowing costs and to fund Prime Minister Andy Burnham’s plans to boost defence spending and expand social care."
     }
   ]
 }
