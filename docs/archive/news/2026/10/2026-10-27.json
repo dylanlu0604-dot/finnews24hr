@@ -1,7 +1,40 @@
 {
   "date": "2026-10-27",
-  "count": 143,
+  "count": 146,
   "items": [
+    {
+      "id": "te:markets:595152",
+      "time": "2026-10-27 02:20:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Drops by 1.52% — Top commodity losers are Platinum (-1.52%) and Iron Ore CNY (-0.52%). Gains are led by Lithium Carbonate (1.34%) and Gold (0.65%)."
+    },
+    {
+      "id": "5170858",
+      "time": "2026-10-27 02:19:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員：西亞安全必須依靠自身力量】當地時間26日，伊朗最高國家安全委員會秘書雷扎伊在伊朗、巴基斯坦、土耳其和沙特就地區安全與穩定舉行的四方會談結束後表示，地區合作本應早就啟動，土耳其、巴基斯坦和沙烏地阿拉伯高階官員的訪問表明，美國的威脅對世界各國的影響並不大。各方一致認為，西亞安全必須依靠自身力量，避免任何外國干預。雷扎伊還強調，以色列必須從黎巴嫩南部、敘利亞南部、加沙地帶和約旦河西岸撤軍，停止其侵略行徑。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1796e-1321-7ee0-a987-9b892194a290",
+      "time": "2026-10-27 02:16:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "MSFT.O",
+        "NVDA.O"
+      ],
+      "text": "【OpenAI launches GPT-6.1 Terra; computer-operation speed >3x, API prices cut 50%】OpenAI launched GPT-6.1 Terra, enhancing computer operation, visual understanding and coding capabilities. The model completes computer-operation tasks more than three times faster than the prior generation and OpenAI reduced API prices by 50%. API rates are $1 per mln input tokens, $0.05 per mln cached input tokens and $5 per mln output tokens. Internal tests show low-inference error rate fell from 53.6% to 16.7%; top-tier inference error rate is 4.3%, down 18 percentage points versus the previous generation. In coding tests, top-tier scores rose from the prior published 21.5% to 50.3%. The model is available to ChatGPT Work and CODEX Plus, Pro, Enterprise and Edu users and via API."
+    },
     {
       "id": "te:markets:595151",
       "time": "2026-10-27 02:15:04",
