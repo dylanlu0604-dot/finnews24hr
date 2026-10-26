@@ -1,7 +1,179 @@
 {
-  "updated": "2026-10-26 18:58:51",
-  "count": 13205,
+  "updated": "2026-10-26 19:02:43",
+  "count": 13226,
   "items": [
+    {
+      "id": "5170152",
+      "time": "2026-10-26 19:01:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅欣藥業：擬對四家子公司實施減資】羅欣藥業公告稱，公司於2026年10月26日召開董事會審議透過子公司減資議案，擬對控股子公司上海羅欣減資2.50億元、香港羅欣減資港幣3.51億元（摺合人民幣3.01億元），擬對全資子公司北京健康減資2.24億元、湖南健康減資0.90億元。本次減資完成後，公司對四家子公司持股比例不變，不會導致合併報表範圍變化，對公司財務狀況和經營成果不構成重大影響。本次減資尚需履行法定減資程式。"
+    },
+    {
+      "id": "5170151",
+      "time": "2026-10-26 19:01:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "VERIZON股價盤前上漲3.5%，此前該公司上調了全年調整後每股收益預期。"
+    },
+    {
+      "id": "5170150",
+      "time": "2026-10-26 19:00:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國10月CBI零售銷售差值 -10，前值-55。英國10月CBI零售銷售預期指數 -10，前值-37。"
+    },
+    {
+      "id": "mkt:01a177de-c6dc-7ee0-a97e-088dd532adce",
+      "time": "2026-10-26 19:00:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK CBI retail sales expectations index for October -10; prior -37."
+    },
+    {
+      "id": "mkt:01a177de-aad5-7ee0-a97e-017568123ce0",
+      "time": "2026-10-26 19:00:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | CBI Retail Sales Expectations Index (Oct) | actual -10 | previous -37"
+    },
+    {
+      "id": "mkt:01a177de-9076-7ee0-a97d-fd44fa1e12b6",
+      "time": "2026-10-26 19:00:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU to require member states to draw up plans for 3°C warming scenario】The EU will propose a regulation requiring member states to prepare climate-resilience plans for a global warming scenario of 3°C above pre‑industrial levels. A draft says Europe is warming fastest worldwide and could see average temperatures rise up to 5°C by 2100. All 27 member states must submit national adaptation plans by end‑2030 outlining how they will respond. The European Commission would identify major risks, including potential climate tipping points. The draft warns climate change increasingly threatens Europe’s social and territorial cohesion and may be amended before formal adoption this week."
+    },
+    {
+      "id": "5170149",
+      "time": "2026-10-26 19:00:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Meta美股盤前跌超4%】Meta美股盤前跌超4%，現報616.11美元。"
+    },
+    {
+      "id": "5170148",
+      "time": "2026-10-26 19:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞爾維亞8月實際工資同比增長8.5%。"
+    },
+    {
+      "id": "5170147",
+      "time": "2026-10-26 19:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Verizon預計全年調整後每股收益為5.04至5.06美元，此前預期為4.99至5.04美元。"
+    },
+    {
+      "id": "mkt:01a177de-24eb-7ee0-a97d-f7edd2dfeb1e",
+      "time": "2026-10-26 19:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK October CBI retail sales balance -10, versus -55 previously."
+    },
+    {
+      "id": "5170146",
+      "time": "2026-10-26 19:00:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【事發多日 日本政府首次回應日企活動引發蒙古國草原火災】日本企業活動引發蒙古國自然保護區大規模草原火災一事曝光多日後，日本內閣官房長官木原稔26日首次給予官方回應，稱日本政府“嚴肅看待”火災造成的嚴重損失。木原稔在記者會上表示，日本政府向蒙古國國民表示慰問，願與蒙古國政府保持密切溝通，為受災地區恢復工作提供協助。蒙古國東方省努姆魯格自然保護區8日發生大規模草原火災，據蒙古國方面訊息，明火已於16日被撲滅。日本電信運營商凱迪迪愛公司20日承認，火災與其子公司日本籍高管的活動有關。 (央視新聞)"
+    },
+    {
+      "id": "mkt:01a177de-009b-7ee0-a97d-ee81598a4a61",
+      "time": "2026-10-26 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | CBI Retail Sales Balance (Oct) | actual -10 | previous -55"
+    },
+    {
+      "id": "5170145",
+      "time": "2026-10-26 18:59:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta擬發行225億美元A類普通股。"
+    },
+    {
+      "id": "5170144",
+      "time": "2026-10-26 18:59:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦國家銀行行長：預計2027財年匯款額為450億美元。"
+    },
+    {
+      "id": "5170143",
+      "time": "2026-10-26 18:59:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta計劃為C類普通股設立600億美元ATM發行計劃。"
+    },
+    {
+      "id": "5170142",
+      "time": "2026-10-26 18:59:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇新股份：擬與新宙邦合資建設15萬噸專案】宇新股份公告，公司董事會於2026年10月23日審議透過對外投資議案，擬與新宙邦共同設立合資公司，建設年產15萬噸高純電子級溶劑專案。合資公司註冊資本為2億元，宇新股份出資8000萬元、持股40%，新宙邦出資1.2億元、持股60%；專案總投資額不超過5億元，相關建設手續尚需有關政府部門審批。"
+    },
+    {
+      "id": "5170141",
+      "time": "2026-10-26 18:59:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【強一股份：2026年第三季度淨利潤1.5億元，同比增長34.10%】強一股份公告，2026年第三季度營業收入4.31億元，同比增長58.08%；歸母淨利潤1.5億元，同比增長34.10%；扣非淨利潤1.5億元，同比增長34.01%。2026年前三季度營業收入10.55億元，同比增長63.07%；歸母淨利潤3.72億元，同比增長49.12%；扣非淨利潤3.69億元，同比增長48.81%。"
+    },
+    {
+      "id": "5170140",
+      "time": "2026-10-26 18:58:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【PEEK是否量產？寧波華翔最新回應】近日，有投資者在互動平臺向寧波華翔提問：公司在機器人輕量化上有哪些新進展，PEEK（聚醚醚酮）是否量產？10月26日，寧波華翔回覆稱，公司目前基於PEEK材料可以自研開發一系列的結構件和關節件，並在部分量產專案中應用。"
+    },
+    {
+      "id": "5170139",
+      "time": "2026-10-26 18:58:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴基斯坦央行行長：預計經常賬戶餘額將惡化。"
+    },
     {
       "id": "5170138",
       "time": "2026-10-26 18:58:13",
@@ -50,6 +222,14 @@
         "其他"
       ],
       "text": "【前三季度全國PM2.5平均濃度同比下降3.9%】生態環境部26日公佈的資料顯示，今年前三季度，全國339個地級及以上城市PM2.5平均濃度同比下降3.9%，空氣質量優良天數比例同比上升2.8個百分點。（新華社）"
+    },
+    {
+      "id": "5170134",
+      "time": "2026-10-26 18:56:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧與匈牙利外長阿妮塔·歐爾班將舉行會晤。"
     },
     {
       "id": "5170133",
@@ -1076,6 +1256,14 @@
       "text": "【宇新股份：2026年前三季度淨利潤1.11億元，同比扭虧為盈】宇新股份公告，2026年第三季度營業收入30.64億元，同比增長61.43%；歸母淨利潤241.02萬元，扣非淨利潤196.59萬元。2026年前三季度營業收入87.37億元，同比增長63.54%；歸母淨利潤1.11億元，2025年同期虧損6408.95萬元，同比扭虧為盈；扣非淨利潤1.05億元。"
     },
     {
+      "id": "5170036",
+      "time": "2026-10-26 18:31:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【二十屆中央第八輪巡視完成進駐】根據黨中央關於巡視工作的統一部署，近日，二十屆中央第八輪巡視完成進駐工作。15箇中央巡視組將對教育部和31所中管高校黨組織開展常規巡視。（新華社）"
+    },
+    {
       "id": "5170035",
       "time": "2026-10-26 18:30:43",
       "tags": [
@@ -1332,6 +1520,14 @@
         "國際"
       ],
       "text": "印度糖業協會（ISMA）表示：印度10月1日至25日食糖產量為40萬噸，同比增加6萬噸。"
+    },
+    {
+      "id": "5170009",
+      "time": "2026-10-26 18:24:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【烽火通訊與奇瑞商用車簽署“汽車+光通訊”業務合作協議】據烽火通訊訊息，10月21日，中國信科集團與奇瑞集團在武漢開展合作交流，圍繞技術創新、智慧製造、能源安全、全球化協同等內容進行深度座談。中國信科旗下子公司烽火通訊與奇瑞商用車、理工光科與奇瑞綠能分別簽署“汽車+光通訊”業務合作協議、共建能源安全感知與預警智慧研究院戰略合作協議，全面開啟技術、產業、市場多維度協同發展。"
     },
     {
       "id": "5170008",
@@ -118909,17 +119105,6 @@
         "Importance 0"
       ],
       "text": "Swiss Franc Stays Weak as Rate Gap Widens — The Swiss franc strenghened to near 0.82 per USD, but remains close to its weakest level since May 2025 amid a widening interest rate differential with the US and selling pressure from carry trades. Expectations that borrowing costs in the US will remain elevated while Swiss borrowing costs remain at the world's lowest has added to the Swiss currency's appeal as a funding source for carry trades. The selling pressure of franc-loans weakens the currency as traders seek other higher-yielding currencies. The Swiss National Bank has kept its policy rate unchanged at 0% for over a year, with Chair Martin Schlegel stating no adjustment was currently needed as inflation remains stable. While economists expect rates to remain unchanged through 2027, markets are anticipating a hike in early 2027. Policymakers have also scaled back threats of currency intervention. However, growing safe-haven demand amid concerns over Europe's fiscal position provides an offsetting pressure."
-    },
-    {
-      "id": "te:markets:593123",
-      "time": "2026-10-19 18:59:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Eases from 5-Month High — Brent crude fell 1.5% towards $108 a barrel on Monday, as traders took profits following a 5% rally last week that pushed prices to a five-month high. The market remains caught between escalating geopolitical risks and signs of recovering oil flows from the Middle East. Recent incidents include a Saudi helicopter crash near the Yemen border, Houthi attacks targeting the key export hub of Yanbu, and reports of two tankers being struck in the Persian Gulf. However, US Energy Secretary Chris Wright said regional oil flows had recovered to around 80% of pre-conflict levels. Meanwhile, President Donald Trump said Washington agreed to a diesel export deal with Russia and waived sanctions and tariffs on its energy shipments. Still, US lawmakers are seeking to block the purchases."
     }
   ]
 }
