@@ -1,7 +1,197 @@
 {
-  "updated": "2026-10-26 09:23:43",
-  "count": 13281,
+  "updated": "2026-10-26 09:27:30",
+  "count": 13290,
   "items": [
+    {
+      "id": "5168610",
+      "time": "2026-10-26 09:27:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "盧拉：數字通訊將在我的政府中發揮關鍵作用。"
+    },
+    {
+      "id": "5168607",
+      "time": "2026-10-26 09:26:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "盧拉：巴西人民需要更多地參與決策。"
+    },
+    {
+      "id": "5168606",
+      "time": "2026-10-26 09:26:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國時空：北斗二號短報文使用者請於10月29日前提交實名資訊，完成實名制登記】10月26日，中國時空資訊集團釋出提示：凡當前使用北斗二號短報文服務的使用者，請於2026年10月29日前，透過原北斗二號分理服務單位向中國時空提交實名資訊，完成實名制登記。中國時空將全力做好服務支撐，及時響應大家的業務諮詢及辦理需求。"
+    },
+    {
+      "id": "5168605",
+      "time": "2026-10-26 09:26:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：我們將改變治理國家的方式，我們將讓民眾更多地參與決策過程。"
+    },
+    {
+      "id": "5168604",
+      "time": "2026-10-26 09:26:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西主題ETF大跌，巴西ETF華夏、巴西ETF易方達競價跌停；訊息面上，巴西總統盧拉贏得連任。"
+    },
+    {
+      "id": "5168603",
+      "time": "2026-10-26 09:26:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉的馬查多抵達加拉加斯，與支持者會面。"
+    },
+    {
+      "id": "mkt:01a175d0-72c1-7ee0-a971-42427a109c68",
+      "time": "2026-10-26 09:25:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China-listed Brazil-themed ETFs plunged; Huaxia and E Fund Brazil ETFs hit limit-down in the opening auction after news that President Lula won re-election."
+    },
+    {
+      "id": "5168602",
+      "time": "2026-10-26 09:25:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤齊跌，上證指數跌0.53%，深證成指跌0.97%，創業板指跌1.43%。"
+    },
+    {
+      "id": "5168601",
+      "time": "2026-10-26 09:25:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙農股份：浙江開化的綠色肥料研發生產儲備專案計劃於2026年投產】浙農股份26日在互動平臺表示，公司透過自建及合建形式在浙江、江蘇、安徽、山東等省建立了七家肥料和農藥生產企業。其中，目前浙江開化的綠色肥料研發生產儲備專案一期土建進度達80%以上，計劃於2026年投產；安徽道爾、山東齊豐工廠自營複合肥銷量持續增長；湖北枝江工廠實現硫銨穩步銷售。相關專案建設、業務運營及經營效益總體良好。"
+    },
+    {
+      "id": "mkt:01a175cf-e79d-7ee0-a971-39faacae21c4",
+      "time": "2026-10-26 09:25:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "At the A-share open, the Shanghai Composite fell 0.53%, the Shenzhen Composite fell 0.97% and the ChiNext Index fell 1.43%. CPO, optical-fiber and PET copper-foil sectors led declines."
+    },
+    {
+      "id": "5168600",
+      "time": "2026-10-26 09:25:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "新加坡部長：新加坡此前經歷過供應中斷，印尼出口限制的影響有待觀察。"
+    },
+    {
+      "id": "5168596",
+      "time": "2026-10-26 09:24:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "布拉德斯科BBI在盧拉當選後將巴西股票評級下調至中性。"
+    },
+    {
+      "id": "5168594",
+      "time": "2026-10-26 09:24:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡繼續規劃未來天然氣需求。"
+    },
+    {
+      "id": "5168590",
+      "time": "2026-10-26 09:24:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：巴西不是任何人的後院。"
+    },
+    {
+      "id": "te:markets:594805",
+      "time": "2026-10-26 09:24:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Fall Ahead of Key Earnings — The benchmark KOSPI fell 0.80% to around 5,500 on Monday, extending losses after a 2.08% weekly decline as investors turned cautious ahead of third-quarter earnings from major chipmakers SK hynix and Samsung Electronics, due Wednesday and Thursday, respectively. Market participants also await the US Federal Reserve’s policy decision later this week. Notable losses were recorded in Samsung Electronics (-0.46%), LG Energy Solution (-1.44%), and Hyundai Motor (-1.69%). Sentiment was also weighed down by rising oil prices, concerns over returns on heavy artificial intelligence investments, and continued foreign selling and volatility in semiconductor shares. Meanwhile, investors awaited earnings reports for clues about AI chip demand and memory prices, despite strong semiconductor exports that helped South Korea post a record-high current account surplus of USD 116.63 billion in the second quarter."
+    },
+    {
+      "id": "5168587",
+      "time": "2026-10-26 09:24:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印尼金融監管機構官員：在明晟（MSCI）釋出意外公告後，我國資本市場展現出韌性。"
+    },
+    {
+      "id": "5168586",
+      "time": "2026-10-26 09:24:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡能源部長表示，計劃在幾個月內結束與沙烏地阿拉伯的談判。"
+    },
+    {
+      "id": "5168585",
+      "time": "2026-10-26 09:23:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海石化120萬噸/年乙烯裝置開工】從上海石化獲悉，10月25日，中國石化上海石化全面技術改造和提質升級專案主體裝置——120萬噸/年乙烯裝置正式開工。該專案是上海市重大工程專案，預計2028年10月底建成。同時上海石化將關停現有70萬噸/年乙烯裝置。上海石化投資約200億元建設全面技術改造和提質升級專案，在現有廠區範圍內新建15套裝置，改造5套裝置，關停18套裝置。"
+    },
+    {
+      "id": "5168582",
+      "time": "2026-10-26 09:23:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼金融服務管理局：股市在壓力下展現出韌性。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202610263907458024",
+      "time": "2026-10-26 09:23:39",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展560億元7天期逆回購操作，操作利率為1.40%。同時，開展了3980億元隔夜逆回購操作。"
+    },
+    {
+      "id": "5168580",
+      "time": "2026-10-26 09:23:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡部長：約一半的天然氣以液化天然氣形式進口。"
+    },
+    {
+      "id": "5168579",
+      "time": "2026-10-26 09:23:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "盧拉：我從未見過像上次集會那樣盛況空前的場面。"
+    },
     {
       "id": "5168578",
       "time": "2026-10-26 09:23:15",
@@ -119871,135 +120061,6 @@
         "市場"
       ],
       "text": "【ETF開盤：港股通醫療ETF領漲4.47%，創業板200ETF領跌4.63%】ETF開盤漲跌不一，港股通醫療ETF（158003）領漲4.47%，港股通網際網路ETF（520740）漲3.97%，恒生生物科技ETF（513280）漲3.02%，創業板200ETF（159573）領跌4.63%，科創創業50ETF（159012）跌2.5%，標普生物科技ETF（159502）跌2.34%。"
-    },
-    {
-      "id": "5152864",
-      "time": "2026-10-19 09:27:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "三菱日聯對愛德萬的持股比例降至4.9%。"
-    },
-    {
-      "id": "mkt:01a151ca-d5a1-7ee0-a8d5-bd713332c9ed",
-      "time": "2026-10-19 09:27:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300",
-        "SZSE Component"
-      ],
-      "text": "China's Shanghai Composite Index opened down 22.17 points (-0.6%) at 3,694.12 on Monday, Oct. 19. Shenzhen Composite opened down 59.23 points (-0.5%) at 11,743.22. CSI 300 Index opened down 22.27 points (-0.53%) at 4,148.35. ChiNext Index opened down 12.03 points (-0.43%) at 2,760.35. STAR 50 Index opened down 11.56 points (-0.85%) at 1,347.09."
-    },
-    {
-      "id": "5152863",
-      "time": "2026-10-19 09:26:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華正新材新設子公司，含電子元器件業務】企查查APP顯示，近日，杭州華九新材料有限公司成立，經營範圍包含：電子專用材料製造；電子元器件製造。企查查股權穿透顯示，該公司由華正新材全資持股。"
-    },
-    {
-      "id": "5152862",
-      "time": "2026-10-19 09:26:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "三菱電機公司：與鴻海精密工業股份有限公司達成戰略聯盟，共同運營汽車裝置業務。"
-    },
-    {
-      "id": "mkt:01a151c3-e556-7ee0-a8d5-612a2f01bd85",
-      "time": "2026-10-19 09:25:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "China A-shares opened lower: Shanghai Composite down 0.6%, Shenzhen Composite Index down 0.5%, ChiNext Index down 0.43%."
-    },
-    {
-      "id": "5152861",
-      "time": "2026-10-19 09:25:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股三大股指開盤齊跌，上證指數跌0.60%，深證成指跌0.50%，創業板指跌0.43%。"
-    },
-    {
-      "id": "mkt:01a151ca-ad62-7ee0-a8d5-91b0c21eedd5",
-      "time": "2026-10-19 09:25:29",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "China's Shanghai Composite Index opened down 22.17 points (-0.60%) at 3,694.12 on Monday Oct. 19; Shenzhen Composite Index opened down 59.23 points (-0.50%) at 11,743.22; CSI 300 Index opened down 22.27 points (-0.53%) at 4,148.35; ChiNext Index opened down 12.03 points (-0.43%) at 2,760.35; STAR 50 Index opened down 11.56 points (-0.85%) at 1,347.09."
-    },
-    {
-      "id": "5152860",
-      "time": "2026-10-19 09:25:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "現代樂鐵：將收購現代威亞價值約3580億韓元的國防業務。"
-    },
-    {
-      "id": "5152859",
-      "time": "2026-10-19 09:25:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【匯源集團不再生產匯源商標果汁】19日，匯源集團釋出關於與“匯源”品牌進行切割並全面推出“咱家果源”品牌的嚴正宣告。其中提到：匯源集團及下屬企業，不再生產帶有“匯源”商標的果汁產品，終止相關代工合同，不再開展與該商標的合作。（中國新聞網）"
-    },
-    {
-      "id": "te:markets:592922",
-      "time": "2026-10-19 09:24:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Trades at 3-Week High — The New Zealand dollar hovered around $0.565 on Monday, its highest level in three weeks, as investors looked ahead to this week’s third-quarter inflation report for further clues on the Reserve Bank’s policy outlook. Data released today showed the services sector expanded for a fourth consecutive month in September, albeit modestly, while the trade deficit widened more than expected in, pointing to a mixed economic picture. Markets are largely pricing in a third consecutive rate hike later this month, which would lift the policy rate to 3%. Last week, RBNZ Chief Economist Paul Conway said the late-October decision remained open, adding that the central bank still viewed a higher official cash rate as the most likely next move, but had not decided on the timing. The inflation report will therefore be crucial in assessing whether further tightening is warranted."
-    },
-    {
-      "id": "5152858",
-      "time": "2026-10-19 09:24:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪：方程豹汽車60萬臺銷量達成。"
-    },
-    {
-      "id": "te:markets:592921",
-      "time": "2026-10-19 09:24:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Rises from Multi-Month Lows — The Australian dollar rose toward $0.70, bouncing off multi-month lows after a top central bank official questioned whether rates were restrictive enough. Despite four rate hikes this year, RBA Assistant Governor Christopher Kent questioned whether monetary policy was restrictive enough, citing evidence that neutral interest rates were rising in Australia and abroad. A higher neutral rate could mean the 4.6% cash rate is exerting less pressure on demand and inflation than expected, keeping the door open to further tightening. Kent also acknowledged signs of labor market easing but cautioned against over-interpreting monthly data after unemployment rose to a five-year high of 4.7% in September. Elsewhere, the Aussie also gained some ground against the US dollar after remarks from Fed officials signaled no urgency to tighten policy. Fed Chair Kevin Warsh said at an IMF event that he does not “prejudge” rate decisions, offering no clues ahead of the October 27-28 policy meeting."
-    },
-    {
-      "id": "5152857",
-      "time": "2026-10-19 09:23:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江促進民宿業健康可持續發展】近日，省政府辦公廳印發《關於確定民宿範圍和條件的指導意見》。《指導意見》明確，規範民宿的經營規模，單棟房屋客房數不超過15間，建築層數不超過4層，且總建築面積不超過800平方米。關於民宿的條件，《指導意見》從建築設施、消防安全、治安管理、經營管理4個方面提出15項具體要求。（浙江釋出）"
     }
   ]
 }
