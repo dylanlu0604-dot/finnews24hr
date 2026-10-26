@@ -1,7 +1,35 @@
 {
   "date": "2026-10-27",
-  "count": 119,
+  "count": 122,
   "items": [
+    {
+      "id": "mkt:01a1795f-1268-7ee0-a987-4e7199a13746",
+      "time": "2026-10-27 02:00:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "The IDF carried out multiple airstrikes in northern, central and southern Gaza, killing three militants from the military wings of Hamas and Palestinian Islamic Jihad."
+    },
+    {
+      "id": "5170842",
+      "time": "2026-10-27 01:59:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic拓展面向非營利機構的Claude服務，推出Claude非營利組織專用外掛。"
+    },
+    {
+      "id": "5170841",
+      "time": "2026-10-27 01:59:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖：伊朗進一步強大的關鍵在於，其精英有能力拓展科學知識的邊界，併為該國科學挑戰找到解決方案。"
+    },
     {
       "id": "mkt:01a17959-e261-7ee0-a987-428156d6630e",
       "time": "2026-10-27 01:54:56",
