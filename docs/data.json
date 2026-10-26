@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-27 01:15:48",
-  "count": 13330,
+  "updated": "2026-10-27 01:19:48",
+  "count": 13332,
   "items": [
+    {
+      "id": "mkt:01a17939-12cf-7ee0-a986-ec036b6cb6c7",
+      "time": "2026-10-27 01:19:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran, Saudi Arabia, Turkey and Pakistan agree to hold further talks】On the evening of the 26th local time, Iran hosted a four-way meeting in Tehran with Saudi Arabia, Turkey and Pakistan on regional security and stability. Participants agreed to hold further talks to strengthen cooperation on regional peace and security."
+    },
+    {
+      "id": "mkt:01a17938-70c1-7ee0-a986-e3975651bc45",
+      "time": "2026-10-27 01:18:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Houthi militants claimed Saudi fighter jets carried out 119 airstrikes and missile attacks in the past 24 hours, and said Saudi strikes have reached 3,298 since the group says an escalation against its forces began."
+    },
+    {
+      "id": "5170825",
+      "time": "2026-10-27 01:18:14",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【蘋果回應iPhone Duo螢幕開裂投訴】iPhone Duo收到使用者投訴，稱摺疊屏僅使用數小時或數天就開裂；使用者反映展開時會聽到碎裂聲響，螢幕中間摺痕處出現大口裂痕。蘋果已承認該問題，表示“注意到少量iPhone Duo機型的內屏存在故障”，建議遇到問題的使用者聯絡AppleCare進行換機，稱故障僅出現在部分裝置上。使用者反饋裂痕起始位置的螢幕下方能摸到凸起或鬆動部件；維修平臺iFixit認為故障源於鉸鏈部件失效，進而頂破螢幕。"
+    },
+    {
+      "id": "mkt:01a17937-afed-7ee0-a986-dad0d39f0166",
+      "time": "2026-10-27 01:17:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $200 mln from one counterparty in a fixed-rate reverse repo operation."
+    },
+    {
+      "id": "5170824",
+      "time": "2026-10-27 01:16:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（10月26日），美聯儲隔夜逆回購協議（RRP）使用規模為2億美元（交易對手1家），上個交易日報2億美元。"
+    },
+    {
+      "id": "mkt:01a17936-177f-7ee0-a986-d2622d015247",
+      "time": "2026-10-27 01:15:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's finance minister said Canada and its partners will sign terms to establish a new Defence and Resilience Bank on Nov. 30 local time."
+    },
     {
       "id": "5170823",
       "time": "2026-10-27 01:14:36",
@@ -119985,39 +120041,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：會見了美國洛克希德・馬丁公司代表，雙方探討如何加快愛國者反導系統的供應。"
-    },
-    {
-      "id": "5154423",
-      "time": "2026-10-20 01:19:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "Bitcoin Japan 簽署獨家協議，將優必選人形機器人引入日本。 優必選將透過 Bitcoin Japan 在日本獨家供應指定產品。"
-    },
-    {
-      "id": "5154422",
-      "time": "2026-10-20 01:16:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "塔斯尼姆通訊社：德國駐伊朗大使因受到 “毫無根據的指控” 一事被傳喚至伊朗外交部。"
-    },
-    {
-      "id": "5154421",
-      "time": "2026-10-20 01:16:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週一（10月19日），美聯儲隔夜逆回購協議（RRP）使用規模為3.3億美元（交易對手7家），上個交易日報1億美元。"
-    },
-    {
-      "id": "5154420",
-      "time": "2026-10-20 01:16:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列總理下令推翻伊朗政權】當地時間10月19日晚，以色列總理內塔尼亞胡在接受以色列第14頻道電視臺採訪時稱，他向以軍、以色列情報和特勤局（摩薩德）以及以軍軍事情報局下達了“推翻伊朗政權”的指令。內塔尼亞胡結合此前美國總統特朗普對他的公開支援表示，特朗普的態度“非常明確”，即認為當前的“核心任務是徹底消除伊朗對以色列造成的生存威脅 ”。（CCTV國際時訊）"
     }
   ]
 }
