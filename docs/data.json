@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-26 08:53:12",
+  "updated": "2026-10-26 08:56:58",
   "count": 13264,
   "items": [
+    {
+      "id": "mkt:01a175b4-9dd0-7ee0-a970-be4683fa54ae",
+      "time": "2026-10-26 08:55:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Shenzhen Stock Exchange added Robotech to the Hong Kong Stock Connect eligible securities list, effective Oct. 26."
+    },
+    {
+      "id": "5168410",
+      "time": "2026-10-26 08:55:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "深交所：港股通標的證券名單調入羅博特科，10月26日起生效。"
+    },
+    {
+      "id": "mkt:01a175b3-bfbf-7ee0-a970-b3b080f0b3c9",
+      "time": "2026-10-26 08:54:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense authority says danger alert for Riyadh has been lifted."
+    },
+    {
+      "id": "5168403",
+      "time": "2026-10-26 08:54:00",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士在分紅報道及擱置IPO計劃後延續漲勢】受媒體報道的16萬億韓元特別分紅計劃提振，加之取消美國子公司上市帶來的餘波效應，SK海力士股價上漲高達3%，連續第二個交易日上漲。媒體報道稱，SK海力士計劃將透過減持日本鎧俠控股股份所獲收益的約80%回饋給股東，具體形式為約16萬億韓元（約合120億美元）的特別分紅。Timefolio資產管理公司基金經理Kim Namho表示：“雖然這對短期股價走勢是利好訊息，因為它為股價提供了支撐底線，但這並非能引發股價持續上漲的因素。”他補充稱，基於當前股價，該筆分紅的股息率約為1.8%。 Namho指出：“更重要的是，近期壓制股價的Solidigm雙重上市擔憂已得到解決。目前來看，投資者情緒正在改善。” 同時，競爭對手三星電子股價下跌高達1.9%；韓國綜合股價指數（Kospi）下跌0.6%。"
+    },
+    {
+      "id": "mkt:01a175b3-1f30-7ee0-a970-a8d29f776970",
+      "time": "2026-10-26 08:53:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Analyst: Lula win driven by anti-Bolsonaro sentiment】Insper political scientist Carlos Melo said anti‑Bolsonaro sentiment outweighed voter concerns about a Lula return in the runoff; falling abstention and strong support in the northeast were key to the result. He said both Lula (first round) and Flavio (second round) were overconfident. Melo flagged Lula’s immediate market‑relevant challenge as assembling a team capable of ensuring effective governance and reengaging business leaders, financial markets, agribusiness and the middle class, saying his current team is insufficient and must be reshaped."
+    },
+    {
+      "id": "5168400",
+      "time": "2026-10-26 08:53:08",
+      "tags": [
+        "市場",
+        "焦點",
+        "原創"
+      ],
+      "text": "【古井貢古20零售均價大漲8元 五糧液普五重返800關口 飛天茅臺小幅下跌】新浪財經“酒價內參”過去24小時收集的資料顯示，10月26日中國白酒業12大單品的終端零售均價九漲三跌，上漲品種佔據明顯優勢，累計漲幅也大幅超過下跌端，整體價盤結束連續五日下行後明顯反彈。上漲端，五糧液普五八代上漲5元至801元，二連陽累計上漲12元，重新收復800元整數關口；五糧液1618上漲1元至827元，昨日平盤後小幅抬升，脫離近30天最低點；青花汾20上漲5元至390元，低位連續回升，重新攀上390元一線；國窖1573上漲2元至885元，結束此前連續小幅回撥；洋河夢之藍M6+上漲1元至598元，終結四連陰，下行節奏暫時放緩；古井貢古20大漲8元至526元，反彈力度進一步放大，成為今日漲幅最大單品，此前該酒品遭遇四連跌，累計下挫28元；習酒君品大漲7元至640元，昨日回撥後迅速扳回失地，價格重返前期整理中樞；青花郎上漲6元至691元，結束此前五連陰，價格重新向700元靠近；水晶劍南春上漲3元至412元，昨日回撥後快速反彈。下跌端，飛天茅臺的零售均價下跌3元至1787元，昨日平盤後再度走低，跌至近期低位；精品茅臺下跌2元至2450元，六連陰持續承壓，價格進一步下移至近30天最低位；茅臺1935下跌1元至683元，連續第二日小幅走弱。\n\n今日12大單品的終端零售總價明顯回升，九款產品價格上漲，其中古井貢古20、習酒君品和青花郎的漲幅較突出，上漲端推動整體價盤顯著修復。如果12大單品各取一瓶整體打包售賣，今日總售價為10690元，較昨日大幅上漲32元，結束此前連續五日下行，並創下4天以來新高。"
+    },
     {
       "id": "5168393",
       "time": "2026-10-26 08:51:45",
@@ -119792,60 +119846,6 @@
         "國際"
       ],
       "text": "【 多名日本議員參拜靖國神社 高市早苗供奉祭祀費 】 日本媒體報道，約70名來自日本跨黨派國會議員聯盟“大家一起參拜靖國神社”的成員19日參拜靖國神社。日本首相高市早苗同日向靖國神社供奉“玉串料”（祭祀費）。靖國神社17日至19日舉行秋季大祭。綜合日本媒體報道，大祭期間，高市早苗以“內閣總理大臣”名義向靖國神社供奉名為“真榊”的祭品，日本眾議院議長森英介、參議院議長關口昌一等多名政客也供奉了“真榊”祭品。此外，日本經濟財政政策擔當大臣城內實、國土交通大臣井林辰憲，自民黨政務調查會長小林鷹之、總務會長梶山弘志、選舉對策委員長西村康稔，參議院預算委員會委員長有村治子，以及負責國家安全保障事務的首相輔佐官若宮健嗣等人參拜了靖國神社。靖國神社位於東京千代田區，神社內供奉有包括東條英機在內的14名二戰甲級戰犯。長期以來，日本部分政客堅持參拜靖國神社，遭到日本國內眾多愛好和平人士和國際社會的強烈反對。（新華社）"
-    },
-    {
-      "id": "5152808",
-      "time": "2026-10-19 08:56:23",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【日本國債在AI相關信用債擔憂之際上漲 10年期日本國債收益率下降3個基點】在人工智慧相關信用債擔憂之際，日本國債東京早盤價格上漲。摩根大通日本市場研究的兩名成員在一份研究報告中稱，“我們正關注這些擔憂是否可能成為催化劑，促使投資者不再過度迴避久期風險；此前他們更偏好承擔信用債和收益率差風險，而非久期風險。“他們補充道，“假設最近的信用債擔憂沒有演變成重大避險事件，我們維持這樣的看法：市場對加息預期的過度反映將首先在短端消退，隨後較長期收益率將下降。”10年期日本國債收益率下跌3.0個基點至2.900%。20年期日本國債收益率下跌1.5個基點，至3.790%。"
-    },
-    {
-      "id": "5152807",
-      "time": "2026-10-19 08:56:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌3.0個基點至2.900%。"
-    },
-    {
-      "id": "mkt:01a151a8-3c5c-7ee0-a8d5-1459a7bd91f3",
-      "time": "2026-10-19 08:55:42",
-      "tags": [
-        "MKT News",
-        "000725.SZ",
-        "Impact mixed"
-      ],
-      "text": "【BOE Technology (A-share): Depreciation and capex to decline from 2025】BOE Technology said at an investor-relations event that total depreciation expense will start to fall from a 2025 base as depreciation on existing production lines declines and under-construction lines are capitalized in phases consistent with capacity ramp-up. The company added the industry has shifted from rapid large-scale expansion to a more mature phase, and as its investment scale eases, capital expenditure is expected to gradually decline from the 2025 base."
-    },
-    {
-      "id": "5152806",
-      "time": "2026-10-19 08:54:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【京東方Ａ：公司總體折舊、資本開支金額將在2025年的基礎上開始下降】 京東方Ａ在投資者關係活動中表示，未來隨著公司存量產線折舊持續減少，在建產線專案綜合考慮產能爬坡情況分階段進行轉固，公司總體折舊金額將在2025年的基礎上開始下降。資本開支方面，顯示行業已從大規模擴產的高速發展階段逐步進入成熟期，未來隨著公司投資規模的下降，公司資本開支金額也將在2025年的基礎上逐漸降低。(21財經)"
-    },
-    {
-      "id": "5152805",
-      "time": "2026-10-19 08:54:46",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【兩大A股券商今日終止上市】10月19日，東興證券、信達證券A股股票將正式摘牌、終止上市。值得注意的是，本次為中金公司換股吸收合併導致的主動退市，不設退市整理期；兩隻標的自9月15日起停牌，9月14日為其在A股最後一個交易日。摘牌後，原股東所持股份將按既定比例轉換為中金公司A股股票。"
-    },
-    {
-      "id": "5152804",
-      "time": "2026-10-19 08:54:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【DeepSeek API已支援網頁搜尋與抓取，按請求次數計費】DeepSeek公告，DeepSeek API現已支援網頁搜尋與抓取，按請求次數計費，單價為每1000次成功請求5元。公告稱，當前使用者在DeepSeek Harness/Claude Code/Codex中使用DeepSeek API時，已經會透過Server端工具呼叫訪問到Search/Fetch介面，這部分Search/Fetch介面呼叫目前未計費，並將於11月1日00:00起按次收取呼叫費用。"
     }
   ]
 }
