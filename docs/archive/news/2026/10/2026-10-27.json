@@ -1,7 +1,15 @@
 {
   "date": "2026-10-27",
-  "count": 138,
+  "count": 139,
   "items": [
+    {
+      "id": "mkt:01a17967-684d-7ee0-a987-8e195e89cab4",
+      "time": "2026-10-27 02:09:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interim president Rodriguez said he hopes dialogue can provide space for all voices after opposition leaders return."
+    },
     {
       "id": "mkt:01a17966-84c7-7ee0-a987-82b6e391c6de",
       "time": "2026-10-27 02:08:44",

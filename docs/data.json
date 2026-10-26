@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-27 02:09:14",
+  "updated": "2026-10-27 02:13:02",
   "count": 13362,
   "items": [
+    {
+      "id": "mkt:01a17967-684d-7ee0-a987-8e195e89cab4",
+      "time": "2026-10-27 02:09:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interim president Rodriguez said he hopes dialogue can provide space for all voices after opposition leaders return."
+    },
     {
       "id": "mkt:01a17966-84c7-7ee0-a987-82b6e391c6de",
       "time": "2026-10-27 02:08:44",
@@ -120309,14 +120317,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Crude Oil Gains by 2.50% — Top commodity gainers are Crude Oil (2.50%), Heating Oil (0.91%), Natural Gas UK (0.89%) and Brent Oil (0.13%). Biggest losers are Natural gas (-1.45%) and Gasoline (-0.74%)."
-    },
-    {
-      "id": "5154442",
-      "time": "2026-10-20 02:10:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿根廷對一項最新軍購實施保密制度】阿根廷總統米萊19日簽署法令宣佈對最新一項武器採購實施保密制度。法令宣佈，將此次採購計劃列為軍事機密，相關合同及武器型別、成本、供應商、接收部門等資訊“絕對保密”。阿根廷正在進行近十年來規模最大的軍事改革。阿武裝部隊參謀長聯席會議主席馬塞洛·亞歷杭德羅·達勒·諾加雷17日在布宜諾斯艾利斯出席一場活動時證實，德國和法國將為阿根廷海軍提供約33.55億美元共同融資，用於購買3艘潛艇。另據阿根廷媒體統計，阿政府從2023年12月到去年8月已撥款約4.45億美元購買和更新軍事裝備。（新華社）"
     }
   ]
 }
