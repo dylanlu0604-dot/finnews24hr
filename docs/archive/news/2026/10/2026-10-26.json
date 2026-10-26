@@ -1,7 +1,96 @@
 {
   "date": "2026-10-26",
-  "count": 888,
+  "count": 896,
   "items": [
+    {
+      "id": "mkt:01a1769d-d8f6-7ee0-a976-2bf9bbc88aeb",
+      "time": "2026-10-26 13:10:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Composite turned positive in the afternoon; Shenzhen Component fell 0.58% and ChiNext's decline narrowed to 0.88%. Gaming, brain–computer interface and dairy sectors led gains."
+    },
+    {
+      "id": "mkt:01a1769d-bebd-7ee0-a976-23ad334567bc",
+      "time": "2026-10-26 13:10:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Financial Times reports the EU is considering emulating Trump on measures to secure critical minerals."
+    },
+    {
+      "id": "5169034",
+      "time": "2026-10-26 13:10:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國航發：國內首款4MW級DR40燃氣輪機完成72小時長期試車試驗】據中國航發訊息，10月22日，國內首款4MW級DR40燃氣輪機成功完成72小時長期試車試驗。試驗全程採用熱電聯供的執行模式，整機執行狀態穩定，各項測試引數符合設計預期。DR40燃氣輪機依託中國航發南方自主研發的DR30燃氣輪機成熟核心機開展系列化研製，該產品瞄準應急發電和分散式能源市場，主要面向應急電源車、資料中心備用電源、熱電聯供等應用場景。"
+    },
+    {
+      "id": "mkt:01a1769d-65c9-7ee0-a976-1d2e6e44edce",
+      "time": "2026-10-26 13:09:48",
+      "tags": [
+        "MKT News",
+        "000810.SZ",
+        "Impact bullish"
+      ],
+      "text": "A-share cultural and media stocks rallied in afternoon trade. Nanfang Media, Skyworth Digital and Shengtong Co. hit daily trading limits; Shengtian Network jumped over 16%, Fengshang Culture rose more than 13%, while Shanghai Film and Yuanlong Yatu also advanced."
+    },
+    {
+      "id": "5169033",
+      "time": "2026-10-26 13:09:40",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【印尼股市下跌，此前證券交易所計劃加強監管】印尼基準指數雅加達綜合指數盤中一度下跌1.7%，隨後跌幅有所收窄。指數呈現普遍下跌態勢，全部11個行業板塊均出現回落。主要拖累因素包括中亞銀行（Bank Central Asia）、印尼人民銀行（Bank Rakyat Indonesia）和巴揚資源（Bayan Resources）等。印度尼西亞證券交易所執行長傑弗裡·亨德里克（Jeffrey Hendrik）週一在雅加達的新聞釋出會上表示，印尼計劃透過定向調查和限制交易賬戶等措施，加強對涉嫌股票操縱行為的監管。在同一場釋出會上，資本市場監管主管哈桑·法齊（Hasan Fawzi）表示，在給予相關實體申訴處罰的時間後，金融服務管理局將公佈近期因操縱股市而受到制裁的實體名單。Mirae Asset Sekuritas Indonesia 分析師威爾伯特·阿里芬（Wilbert Arifin）表示，該訊息對市場略偏利空，因為未來的交易監管將更加嚴格。由於市場參與者正在消化近期的事態發展和擬議的政策，指數可能仍將保持波動。"
+    },
+    {
+      "id": "mkt:01a1769c-e3b5-7ee0-a976-16ee6cb53064",
+      "time": "2026-10-26 13:09:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Financial Times reports Germany plans to buy low-cost cruise missiles developed in Ukraine to acquire Ukrainian defense technology."
+    },
+    {
+      "id": "mkt:01a1769c-c8b6-7ee0-a976-0e018d7371f4",
+      "time": "2026-10-26 13:09:08",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share brain–computer interface sector rebounded; Darui Electronics hit a 20% limit-up, Yahui Long rose >8%, EVE Energy gained >7%, Junpu Intelligent climbed >5%; Jointown and Tom Cat also advanced."
+    },
+    {
+      "id": "5169032",
+      "time": "2026-10-26 13:08:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【文化傳媒概念板塊短線拉昇】文化傳媒概念板塊短線拉昇，南方傳媒、創維數字、盛通股份漲停, 盛天網路、鋒尚文化漲超10%，上海電影、元隆雅圖、廣電網路、上海建科、中國出版等跟漲。"
+    },
     {
       "id": "mkt:01a1769a-a4f5-7ee0-a976-03d22ac19cb6",
       "time": "2026-10-26 13:06:48",
