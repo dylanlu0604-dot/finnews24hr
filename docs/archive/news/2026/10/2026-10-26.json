@@ -1,7 +1,206 @@
 {
   "date": "2026-10-26",
-  "count": 1472,
+  "count": 1493,
   "items": [
+    {
+      "id": "te:markets:595027",
+      "time": "2026-10-26 19:05:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Verizon earnings above expectations at 1.31 USD — Verizon (VZ) released earnings per share at 1.31 USD, compared to market expectations of 1.29 USD."
+    },
+    {
+      "id": "mkt:01a177e3-39fa-7ee0-a97e-31fb7097413b",
+      "time": "2026-10-26 19:05:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O) plans to launch a $60 billion at-the-market offering program for Class C common stock in Q1 2027."
+    },
+    {
+      "id": "5170166",
+      "time": "2026-10-26 19:05:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【澤璟製藥：2026年ESMO年會ZG006確認ORR最高91.7%】澤璟製藥公告，公司自主研發的ZG005、ZG006及ZGGS34臨床資料及最新進展將於2026年10月23日至27日召開的歐洲腫瘤內科學會（ESMO）年會發布。ZG006在小細胞肺癌患者中，10 mg、30 mg、60 mg Q2W組經IRC評估的確認ORR分別為75.0%、61.1%、91.7%；ZG005聯合EP治療一線晚期神經內分泌癌的關鍵III期研究已啟動；ZGGS34研究目前在國內開展並持續招募試驗參與者。"
+    },
+    {
+      "id": "5170165",
+      "time": "2026-10-26 19:05:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞豐光電：2026年第三季度淨利潤4611.82萬元，同比增長127.11%】瑞豐光電公告，2026年第三季度營業收入5.74億元，同比增長19.71%；歸母淨利潤4611.82萬元，同比增長127.11%；扣非淨利潤4351.81萬元，同比增長129.50%。2026年前三季度營業收入16.47億元，同比增長24.65%；歸母淨利潤9984.49萬元，同比增長94.97%；扣非淨利潤8820.23萬元，同比增長148.45%。"
+    },
+    {
+      "id": "5170164",
+      "time": "2026-10-26 19:05:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴基斯坦央行行長：預計2027財年GDP增速在3.5%至4.5%區間。"
+    },
+    {
+      "id": "mkt:01a177e2-803b-7ee0-a97e-2bad3117ec7a",
+      "time": "2026-10-26 19:04:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Global Chip LOF will be suspended from market open on 27 Oct 2026 and will resume trading at 10:30 on 27 Oct 2026. Redemption requests will be processed normally during the suspension."
+    },
+    {
+      "id": "5170163",
+      "time": "2026-10-26 19:04:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芭田股份：2026年第三季度淨利潤1737.21萬元，同比下降92.47%】芭田股份公告，2026年第三季度營業收入9.23億元，同比下降27.06%；歸屬於上市公司股東的淨利潤1737.21萬元，同比下降92.47%；扣非淨利潤2633.34萬元，同比下降88.36%。2026年前三季度營業收入35.63億元，同比下降6.45%；歸屬於上市公司股東的淨利潤6.21億元，同比下降9.66%；扣非淨利潤5.94億元，同比下降12.96%。"
+    },
+    {
+      "id": "mkt:01a177e2-4adf-7ee0-a97e-25268d0badf4",
+      "time": "2026-10-26 19:04:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "A German Foreign Ministry spokesman said the Israeli prime minister's remarks about the possibility of a full blockade of the West Bank are worrying."
+    },
+    {
+      "id": "5170162",
+      "time": "2026-10-26 19:04:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇省量子科技產業聯盟在蘇州成立】據“蘇州釋出”，10月26日，江蘇省量子科技產業聯盟成立大會在蘇州舉行。此次揭牌成立的江蘇省量子科技產業聯盟由省科技廳指導、量子科技長三角產業創新中心牽頭組建，將聚焦量子科技領域技術攻關、成果轉化、產業協同的難點卡點，統籌開展資源對接、資訊共享等工作，推動產業規範化、專業化、規模化發展。"
+    },
+    {
+      "id": "te:markets:595022",
+      "time": "2026-10-26 19:04:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Italy's BTP Yield Holds Near 3-Year High — Italy’s 10-year BTP yield held around 4.55%, remaining near its highest level in three years, as traders continue to asses Europe's fiscal position. Scope affirmed Italy’s sovereign credit rating at BBB+, along with a positive outlook, pending clarity on whether the government can maintain fiscal restraint in next year’s budget. This follows a similar decision by DBRS. Additional relief came from a fall in oil prices, while the ECB is seen leaving interest rates unchanged on Thursday. Concerns over mounting fiscal pressures had pushed yields across Europe to multi-year highs, including Italy, where its risk premium against the safe-haven German yield holds at its highest level in more than a year. The draft budget deficit is seen rising to 3.4% of GDP in 2027 from 2.9% this year. Proposed measures include contributions from banks and insurers, although details remain unresolved amid industry opposition, alongside potential household tax relief and increased defence and energy spending."
+    },
+    {
+      "id": "5170161",
+      "time": "2026-10-26 19:04:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "Truist Securities將微軟目標價從575美元上調至600美元。"
+    },
+    {
+      "id": "mkt:01a177e1-d194-7ee0-a97e-1e137d6f2fb9",
+      "time": "2026-10-26 19:04:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O) pre-market losses briefly widened to 4%."
+    },
+    {
+      "id": "5170160",
+      "time": "2026-10-26 19:03:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦國家銀行行長：國內生產總值增長勢頭正在增強。"
+    },
+    {
+      "id": "5170159",
+      "time": "2026-10-26 19:03:46",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【Meta公司將透過普通股和優先股發行籌集約350億美元資金】META將同時透過遠期銷售協議發行約225億美元的A類普通股併發行約125億美元的存托股份。"
+    },
+    {
+      "id": "5170158",
+      "time": "2026-10-26 19:03:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達、AMD和博通對50億美元普通股表示出興趣。"
+    },
+    {
+      "id": "mkt:01a177e1-1f3c-7ee0-a97e-134501762a53",
+      "time": "2026-10-26 19:03:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O) launched a $22.5 billion offering of Class A common stock and a 250 million-share offering of depositary shares representing preferred stock."
+    },
+    {
+      "id": "5170157",
+      "time": "2026-10-26 19:03:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和順科技：2026年第三季度淨利潤虧損474.8萬元】和順科技公告，2026年第三季度營業收入2.04億元，同比增長30.42%；歸母淨利潤虧損474.8萬元，扣非淨利潤虧損507.28萬元。2026年前三季度營業收入5.81億元，同比增長28.49%；歸母淨利潤304.11萬元，扣非淨利潤167.24萬元。"
+    },
+    {
+      "id": "5170156",
+      "time": "2026-10-26 19:02:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta將發行至多2.5億股A類存托股。"
+    },
+    {
+      "id": "5170155",
+      "time": "2026-10-26 19:02:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【掌趣科技：2026年第三季度淨利潤虧損4767.95萬元】掌趣科技公告，2026年第三季度營業收入1.58億元，同比下降10.42%；淨利潤虧損4767.95萬元，扣非淨利潤虧損5225.27萬元。2026年前三季度營業收入4.92億元，同比下降7.96%；淨利潤虧損1142.1萬元，扣非淨利潤虧損8845.33萬元。"
+    },
+    {
+      "id": "5170154",
+      "time": "2026-10-26 19:02:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【日月明：2026年第三季度淨利潤1046.34萬元，同比下降28.30%】日月明公告，2026年第三季度營業收入3627.33萬元，同比下降12.14%；歸屬於上市公司股東的淨利潤1046.34萬元，同比下降28.30%；扣非淨利潤667.78萬元，同比下降32.69%。2026年前三季度營業收入9074.67萬元，同比增長1.13%；歸屬於上市公司股東的淨利潤3014.62萬元，同比下降17.30%；扣非淨利潤2277.42萬元，同比下降11.47%。"
+    },
+    {
+      "id": "5170153",
+      "time": "2026-10-26 19:02:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅欣藥業：轉讓樂康製藥股權及財務資助事項已完成】羅欣藥業公告稱，公司下屬子公司山東羅欣將持有的樂康製藥100%股權轉讓給臨沂君康，轉讓對價6250萬元，股權轉讓後樂康製藥不再納入公司合併報表範圍。此前山東羅欣向樂康製藥提供的借款因本次轉讓被動形成財務資助，約定2026年10月26日內清償。目前臨沂君康已足額支付全部股權轉讓價款，樂康製藥已償還全部借款本金及相應利息，未出現逾期。"
+    },
     {
       "id": "5170152",
       "time": "2026-10-26 19:01:55",
