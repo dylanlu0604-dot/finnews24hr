@@ -1,7 +1,53 @@
 {
   "date": "2026-10-27",
-  "count": 106,
+  "count": 111,
   "items": [
+    {
+      "id": "5170835",
+      "time": "2026-10-27 01:37:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室：收到第三方報告，一艘船隻在伊拉克法奧東南63海里處起火，船員狀況、損害評估及環境影響均不明。"
+    },
+    {
+      "id": "mkt:01a17949-86ee-7ee0-a987-323341604ffe",
+      "time": "2026-10-27 01:37:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations (UKMTO) said crew condition, damage assessment and environmental impact were unknown as of the report."
+    },
+    {
+      "id": "mkt:01a17948-9293-7ee0-a987-2d4a46b39fdb",
+      "time": "2026-10-27 01:36:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "IBM.N",
+        "NVDA.O"
+      ],
+      "text": "IBM (IBM.N) and NVIDIA (NVDA.O) link AI agent identities to runtime access control."
+    },
+    {
+      "id": "5170834",
+      "time": "2026-10-27 01:35:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "由“學生名單”陣營牽頭組建的塞爾維亞新一屆政府，不打算對俄羅斯實施制裁。"
+    },
+    {
+      "id": "5170833",
+      "time": "2026-10-27 01:34:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM與英偉達將AI智慧體身份和執行時訪問控制繫結。"
+    },
     {
       "id": "mkt:01a17946-bd16-7ee0-a987-21e066ac22b2",
       "time": "2026-10-27 01:34:01",
