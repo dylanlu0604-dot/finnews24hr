@@ -1,7 +1,97 @@
 {
   "date": "2026-10-26",
-  "count": 975,
+  "count": 984,
   "items": [
+    {
+      "id": "mkt:01a176c8-71fb-7ee0-a976-b14ffc91f387",
+      "time": "2026-10-26 13:56:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council said its strategy is to ensure regional security and resist any external intervention or influence."
+    },
+    {
+      "id": "5169104",
+      "time": "2026-10-26 13:56:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【風暴襲擊歐洲 影響多國電力供應和交通】兩場風暴25日侵襲歐洲部分地區，影響英國、法國、德國等國的電力供應、手機網路和交通，並造成人員傷亡。據悉，25日，風暴“奧斯汀”和“布洛”在24小時內接連過境期間，帶來大風和降雨。英國蘇格蘭局地記錄下時速高達135公里的強風；大風吹倒樹木、刮落電線，導致蘇格蘭以及英格蘭北部地區道路和鐵路受阻，這兩個地區還面臨洪澇風險。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a176c8-00a5-7ee0-a976-ac95fe76cf90",
+      "time": "2026-10-26 13:56:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Iran's Supreme National Security Council said Monday's meeting with countries party to the Mecca Agreement was initiated by Iran and aimed to bring stability and peace to the region."
+    },
+    {
+      "id": "5169103",
+      "time": "2026-10-26 13:55:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【未來車輛將被強制安裝C-V2X？知情人士稱“相關部門已啟動強標制定工作”，智慧汽車又迎新風口】“相關部門已經在推動車輛安裝C-V2X（蜂窩車聯網）的強標制定工作。相關工作組已經成立，有幾十家單位已經參與進來了。”日前，一位不願透露姓名的C-V2X領域從業者向記者透露了上述資訊。據瞭解，營運車輛已被率先要求安裝C-V2X。今年7月，交通運輸部辦公廳曾釋出由交通運輸部公路科學研究所承擔的國家標準《營運車輛運營安全技術和管理要求》（計劃編號：20254333-Q-348）徵求意見稿。根據此前明確劃定的落地時間表，該標準實施滿25個月後，國內所有新增營運客車、貨車、牽引列車必須出廠搭載LTE-V2X直連車載互動終端。這也意味著C-V2X終端首次以強制國標形式要求前裝量產。中信科智聯科技有限公司副總經理範炬在接受記者採訪時認為，在相關政策法規的進一步推動下，我國C-V2X產業將跨越“試點示範”的鴻溝，進入爆發式增長的新階段。（每日經濟新聞）"
+    },
+    {
+      "id": "5169102",
+      "time": "2026-10-26 13:55:47",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【離岸信託限期申報納稅 多地送達稅務通知書】在財政部、稅務總局《關於離岸信託個人所得稅有關事項的公告》設定的90天申報視窗期最後一日，國家稅務總局北京市懷柔區稅務局10月22日對外發布公告，向晁某哲等21名自然人公告送達《稅務事項通知書》，開展離岸信託個人所得稅涉稅核實、通知申報納稅。 通知書要求相關人員自查本人設立、參與離岸信託的情況，在15日內前往對應稅務所提交全套信託資料。按照政策規定，2023年至2025年置入離岸信託資產產生的應納稅款，只有在10月22日前完成申報，才可享受不加收滯納金的待遇。（上證報）"
+    },
+    {
+      "id": "5169100",
+      "time": "2026-10-26 13:54:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "本週將有約36%的標普500指數成分股公司公佈季度業績，總計179家。"
+    },
+    {
+      "id": "mkt:01a176c6-656b-7ee0-a976-a3c75870cf66",
+      "time": "2026-10-26 13:54:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Alphabet",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact mixed",
+        "GOOGL.O",
+        "MSFT.O"
+      ],
+      "text": "【Over one-third of S&P 500 companies to report earnings this week】About 36% of S&P 500 constituents — 179 companies — will report quarterly results this week, FactSet says. Key names include Amazon, Alphabet and Microsoft, whose weightings have underpinned the index’s gains. Analysts still expect S&P 500 constituents’ Q3 earnings to rise 29.5% YoY, according to FactSet, but investors face headwinds from questions about the durability of AI-driven flows, elevated gasoline prices and bond-market volatility; tolerance for misses has narrowed and even companies that beat Wall Street estimates may not be rewarded."
+    },
+    {
+      "id": "5169098",
+      "time": "2026-10-26 13:54:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三環集團：目前生產經營活動正常有序，訂單飽滿且持續】三環集團：公司緊抓產業變革機遇，堅持以市場和客戶需求為導向，持續強化垂直整合與智慧製造能力，依託電子元件及材料領域技術積累推動業務協同發展，持續增強核心競爭力。公司目前生產經營活動正常有序，訂單飽滿且持續，訂單交付及產能擴充正按業務需求推進。"
+    },
+    {
+      "id": "5169097",
+      "time": "2026-10-26 13:54:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【辛巴威對進口義大利麵啟動保障措施調查】據中國貿易救濟資訊網，2026年10月23日，WTO保障措施委員會發布辛巴威代表團向其提交的保障措施通報。2026年9月18日，辛巴威對進口義大利麵產品（Pasta products）啟動保障措施調查。涉案產品為無論是否煮熟或填充肉類或其他物質的義大利麵產品，涉案產品的辛巴威稅號為1902.11.00、1902.19.00、1902.20.00和1902.30.00。涉案產品的主要進口來源國包括波札那、埃及、莫三比克、奈米比亞和南非。除另行延期（最長2個月）外，預計終裁將於6個月內作出。"
+    },
     {
       "id": "5169095",
       "time": "2026-10-26 13:53:18",
