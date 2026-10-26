@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-27 02:13:02",
-  "count": 13362,
+  "updated": "2026-10-27 02:16:51",
+  "count": 13365,
   "items": [
+    {
+      "id": "te:markets:595151",
+      "time": "2026-10-27 02:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Rallies by 6.20% — Top commodity gainers are Methanol (6.20%), Natural Gas UK (2.92%) and Propane (2.35%). Biggest losers are Heating Oil (-1.46%), Crude Oil (-1.16%), Natural gas (-0.95%) and Brent Oil (-0.51%)."
+    },
+    {
+      "id": "mkt:01a1796c-41c0-7ee0-a987-95bb689d6aa3",
+      "time": "2026-10-27 02:15:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Libya's Ministry of Transport says restrictions and warnings on use of Libyan airspace have been lifted."
+    },
+    {
+      "id": "5170856",
+      "time": "2026-10-27 02:14:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "利比亞交通部表示，對利比亞領空使用的限制和警告已解除。"
+    },
+    {
+      "id": "5170855",
+      "time": "2026-10-27 02:12:34",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【OpenAI推出GPT-6.1 Terra】OpenAI表示，GPT-6.1 Terra正在陸續推出，該模型速度更快、成本更低，並提升了計算機操作能力。該模型能夠識別螢幕內容、在各類應用中導航，並自動完成日常任務。"
+    },
     {
       "id": "mkt:01a17967-684d-7ee0-a987-8e195e89cab4",
       "time": "2026-10-27 02:09:42",
@@ -120306,17 +120342,6 @@
         "國際"
       ],
       "text": "【英偉達于于利希超級計算中心完成創紀錄的容錯量子計算模擬】英偉達研究人員正利用歐洲最大超級計算機——建於德國於利希超級計算中心的JUPITER——進行一項破紀錄的容錯量子計算模擬。此次104量子位元模擬是迄今為止對容錯量子計算系統最全面的模擬，此前沒有任何模擬能以如此完整的細節對量子處理器進行建模。該模擬驗證了一種量子計算方法，該方法所需的物理量子位元數量比此前的方法減少90%，從而加速了量子計算在藥物發現、金融建模和材料科學等領域實現實際應用的程序。JUPITER的模擬為量子產業提供了關於噪聲對容錯量子計算影響的可行洞察，使研究人員能夠在構建硬體之前最佳化設計，將實現可用量子計算機的路徑縮短數年。"
-    },
-    {
-      "id": "te:markets:593216",
-      "time": "2026-10-20 02:15:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Crude Oil Gains by 2.50% — Top commodity gainers are Crude Oil (2.50%), Heating Oil (0.91%), Natural Gas UK (0.89%) and Brent Oil (0.13%). Biggest losers are Natural gas (-1.45%) and Gasoline (-0.74%)."
     }
   ]
 }
