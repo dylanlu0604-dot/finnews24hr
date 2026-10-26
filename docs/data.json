@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-27 05:54:41",
+  "updated": "2026-10-27 05:58:32",
   "count": 13358,
   "items": [
+    {
+      "id": "5171029",
+      "time": "2026-10-27 05:54:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI宣佈AI取得三項科學突破，涉及數學猜想、計算機演算法及千禧年難題】OpenAI宣佈，其AI模型在數學、電腦科學和物理學領域取得三項重大突破，展現出AI獨立發現並證明覆雜科學理論的能力，而不只是回答問題或輔助研究。在數學領域，AI證明了適用於所有維度的區域性平滑猜想（研究波浪等現象的能量集中能持續多久），並由此解決Kakeya猜想（研究一根針在有限空間內轉向所有方向，最少需要多大空間）和Stein限制猜想（研究複雜波動規律的數學問題）。在電腦科學領域，AI推翻了長期被廣泛接受的指數時間假設（認為某些複雜計算問題無法避免計算量隨規模急劇增長），意味著未來可能找到速度更快的演算法。在物理學領域，AI提出量子色動力學（解釋夸克如何結合形成質子、中子等粒子的理論）及楊–米爾斯理論（描述基本粒子之間作用力的數學理論）的嚴格數學存在性證明，涉及世界七大千禧年數學難題之一。OpenAI表示，數學和電腦科學成果已透過Lean數學驗證工具進行形式化驗證，並公開證明材料；物理學成果正由諾貝爾物理學獎得主等專家參與審查。相關成果仍需學術界進一步獨立確認。"
+    },
     {
       "id": "5171028",
       "time": "2026-10-27 05:46:42",
@@ -120322,15 +120330,6 @@
         "DXY"
       ],
       "text": "【UK chancellor reportedly drops planned CGT rise, to fund gap with bank levy】The Times reported on Monday that Chancellor John Healey has decided not to raise capital gains tax in his first budget on Oct. 28 and will prioritise growth and business investment instead. After warnings that a CGT increase could prompt wealthy residents to emigrate or defer asset disposals—ultimately reducing receipts—Healey abandoned the measure. The new budget’s main revenue-raising measure is expected to be a levy on banks, with proceeds earmarked for a temporary, targeted cost-of-living support package. The Treasury declined to comment. Healey faces pressure to raise billions of pounds to offset higher government borrowing costs and to fund Prime Minister Andy Burnham’s plans to boost defence spending and expand social care."
-    },
-    {
-      "id": "5154560",
-      "time": "2026-10-20 05:55:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【五角大樓與BAE系統公司達成框架協議，將量產APKWS精確制導元件】美國國防部與BAE系統公司達成一項框架協議，計劃在七年間每年最多生產25000套APKWS精確制導元件，面向盟國的產能最高可擴充至每年35000套。該元件可將無控火箭彈改造為低成本鐳射制導武器，這類裝備正越來越多地被用於對抗無人機。該交易仍需國會撥付資金，交易金額尚未披露。"
     }
   ]
 }
