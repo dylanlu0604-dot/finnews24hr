@@ -1,7 +1,35 @@
 {
   "date": "2026-10-26",
-  "count": 406,
+  "count": 409,
   "items": [
+    {
+      "id": "mkt:01a175ad-1283-7ee0-a970-a71faa015a0a",
+      "time": "2026-10-26 08:47:18",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【China margin financing across Shanghai and Shenzhen down 24.278 bln yuan】As of Oct 23, margin financing on the Shanghai Stock Exchange was 1.237 tln yuan, down 9.587 bln yuan from the prior trading day. Shenzhen margin financing was 1.157 tln yuan, down 14.691 bln yuan. Combined margin balances across the two exchanges totaled 2.395 tln yuan, down 24.278 bln yuan versus the previous trading day."
+    },
+    {
+      "id": "5168369",
+      "time": "2026-10-26 08:47:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少242.78億元】截至10月23日，上交所融資餘額報12373.51億元，較前一交易日減少95.87億元；深交所融資餘額報11574.71億元，較前一交易日減少146.91億元；兩市合計23948.22億元，較前一交易日減少242.78億元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610263907437179",
+      "time": "2026-10-26 08:45:05",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【通脹資料與官員措辭矛盾 華爾街熱議：美聯儲本週究竟會不會加息？】美聯儲將於北京時間週四凌晨公佈最新利率決議。雖然市場普遍預期美聯儲將在本次會議上“踩剎車”按兵不動，但華爾街專家們似乎仍有疑慮。"
+    },
     {
       "id": "mkt:01a175aa-742c-7ee0-a970-996502ecebc2",
       "time": "2026-10-26 08:44:27",

@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-26 08:45:39",
-  "count": 13272,
+  "updated": "2026-10-26 08:49:26",
+  "count": 13265,
   "items": [
+    {
+      "id": "mkt:01a175ad-1283-7ee0-a970-a71faa015a0a",
+      "time": "2026-10-26 08:47:18",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【China margin financing across Shanghai and Shenzhen down 24.278 bln yuan】As of Oct 23, margin financing on the Shanghai Stock Exchange was 1.237 tln yuan, down 9.587 bln yuan from the prior trading day. Shenzhen margin financing was 1.157 tln yuan, down 14.691 bln yuan. Combined margin balances across the two exchanges totaled 2.395 tln yuan, down 24.278 bln yuan versus the previous trading day."
+    },
+    {
+      "id": "5168369",
+      "time": "2026-10-26 08:47:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少242.78億元】截至10月23日，上交所融資餘額報12373.51億元，較前一交易日減少95.87億元；深交所融資餘額報11574.71億元，較前一交易日減少146.91億元；兩市合計23948.22億元，較前一交易日減少242.78億元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610263907437179",
+      "time": "2026-10-26 08:45:05",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【通脹資料與官員措辭矛盾 華爾街熱議：美聯儲本週究竟會不會加息？】美聯儲將於北京時間週四凌晨公佈最新利率決議。雖然市場普遍預期美聯儲將在本次會議上“踩剎車”按兵不動，但華爾街專家們似乎仍有疑慮。"
+    },
     {
       "id": "mkt:01a175aa-742c-7ee0-a970-996502ecebc2",
       "time": "2026-10-26 08:44:27",
@@ -119836,97 +119864,6 @@
         "國際"
       ],
       "text": "日本首相高市早苗：有人說日元疲軟和利率高企是我的責任，但我堅決否認這一點。"
-    },
-    {
-      "id": "5152800",
-      "time": "2026-10-19 08:49:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本首相高市：計劃將日本國債發行控制在適當水平；透過打造強勁經濟，日本可以提升市場對日元的信任度。"
-    },
-    {
-      "id": "5152799",
-      "time": "2026-10-19 08:48:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Swisse抗糖丸被檢出鉛超標，公司回應：涉及批次僅存在於澳洲，從未進入中國市場】10月19日，Swisse斯維詩釋出關於Swisse Beauty Skin Regeneration+產品相關情況的說明：\n近日，關於澳大利亞治療產品管理局（TGA）釋出的關於“Swisse Beauty Skin Regeneration+”產品的二級召回的資訊，我司高度重視，為消除廣大消費者的疑慮，現將具體情況說明如下：\nSwisse斯維詩澳洲公司發現該產品批次144520、143217存在鉛含量輕微超出標準的情況，基於Swisse高標準質量體系和對消費者安全的高度重視，公司已主動召回相關批次，並且產品在澳洲市場可控環節召回。經核實，本次涉及批次僅存在於澳洲，從未進入中國市場。目前在中國正規渠道銷售的所有產品，均嚴格符合澳大利亞TGA相關要求，品質安全不受影響，請廣大消費者放心選購。\n據TGA披露資訊：“元素雜質檢測發現，兩批已完成包裝的Swisse Beauty Skin Regeneration+產品鉛檢測結果超出標準。按照產品推薦成人每日服用劑量（每日2粒膠囊）計算，該產品鉛暴露量超出口服每日允許暴露限值（PDE）5μg/天，超標幅度為0.24μg。”TGA評估認為：“該額外鉛暴露量約相當於普通膳食鉛攝入量的3%~5%。在持續每日服用的最壞情景下，模型模擬得出的血鉛濃度最大增幅約為0.2μg/dL，該增幅無法檢出，且對所有人群（含孕婦）均不存在臨床意義。”\nSwisse始終將產品質量與消費者安全放在首位，堅守嚴苛的質量底線，對任何質量瑕疵零容忍，以預防性行動守護產品品質。確保為每一位消費者提供安全、優質的健康產品。感謝您的關注與支援！"
-    },
-    {
-      "id": "mkt:01a151a1-be03-7ee0-a8d4-fb14b730227e",
-      "time": "2026-10-19 08:48:36",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 10-year bond yield fell 2.5bps to 2.905%."
-    },
-    {
-      "id": "mkt:01a151a1-23f0-7ee0-a8d4-f4966ffc9041",
-      "time": "2026-10-19 08:47:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【Margin financing across China's two exchanges falls 14.405 bln yuan】As of Oct 16, margin financing balances across the two exchanges fell 14.405 bln yuan to 2,451.756 bln yuan. Shanghai Exchange: 1,258.25 bln yuan, down 7.237 bln yuan from the prior trading day; Shenzhen Exchange: 1,193.506 bln yuan, down 7.168 bln yuan."
-    },
-    {
-      "id": "5152798",
-      "time": "2026-10-19 08:47:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Swisse抗糖丸被檢出鉛超標，公司回應：涉及批次僅存在於澳洲，從未進入中國市場】Swisse公司釋出關於Swisse Beauty Skin Regeneration+產品相關情況的說明，表示近日，關於澳大利亞治療產品管理局（TGA）釋出的關於“Swisse Beauty Skin Regeneration+”產品的二級召回的資訊，公司已主動召回相關批次，並且產品在澳洲市場可控環節召回。經核實，本次涉及批次僅存在於澳洲，從未進入中國市場。目前在中國正規渠道銷售的所有產品，均嚴格符合澳大利亞TGA相關要求，品質安全不受影響，請廣大消費者放心選購。（介面新聞）"
-    },
-    {
-      "id": "5152797",
-      "time": "2026-10-19 08:47:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部18日釋出訊息稱，俄外長拉夫羅夫將於19日對伊朗進行工作訪問，訪問期間將與伊朗總統佩澤希齊揚和伊朗外長阿拉格齊舉行會談。"
-    },
-    {
-      "id": "mkt:01a151a0-5ef7-7ee0-a8d4-ee6ca9f15e4e",
-      "time": "2026-10-19 08:47:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【LAVROV to visit Iran on 19th】Russia's foreign ministry said LAVROV will make a working visit to Iran on the 19th and meet President PEZESHKIAN and Foreign Minister Araghchi. Talks will focus on implementing prior leaders' agreements and expanding cooperation on trade, investment, transport/logistics and energy projects. They will also exchange views on Persian Gulf security and the regional fallout from US and Israeli military actions against Iran, and on closer coordination within the UN, BRICS, SCO and the Eurasian Economic Union."
-    },
-    {
-      "id": "5152796",
-      "time": "2026-10-19 08:47:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交易提示：重陽節假期港股10月19日休市一天】10月19日為香港重陽節假期，港股10月19日(星期一)休市一天，10月20日(星期二)恢復交易。"
-    },
-    {
-      "id": "5152795",
-      "time": "2026-10-19 08:46:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額較上日減少144.05億元】截至10月16日，上交所融資餘額報12582.50億元，較前一交易日減少72.37億元；深交所融資餘額報11935.06億元，較前一交易日減少71.68億元；兩市合計24517.56億元，較前一交易日減少144.05億元。"
-    },
-    {
-      "id": "5152794",
-      "time": "2026-10-19 08:46:21",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國和日本股市下挫 AI融資擔憂令晶片股承壓】韓國股市週一恢復下跌，DeepSeek週末釋出AI模型的更新版本，與此同時，人工智慧融資擔憂仍揮之不去。基準Kospi指數一度下跌3.2%，晶片製造商三星電子和SK海力士均一度下跌超過4%，隨後跌幅有所收窄。日本科技股為主的日經225指數下跌約2%，晶片裝置製造商愛德萬測試跌幅居前。美國晶片股上週五連續第八個交易日下跌，投資者對人工智慧建設成本飆升的擔憂加劇。與此同時，中國公司DeepSeek週末釋出AI模型的更新版本，並稱新版本更快、更精簡，這引發了人們對所需記憶體更少的擔憂。“目前存在太多不確定因素，無法判斷韓國股市是否已經觸底，”Life Asset Management執行長Kang DaeKwun指出，美國公司人工智慧專案資金的不確定性是市場動盪的主要原因。“如果美國公司不繼續投資，韓國公司就無法盈利。”Kospi指數剛剛經歷了2008年10月以來最糟糕的單週表現。儘管如此，在人工智慧領域鉅額支出推動記憶體價格創下歷史新高之後，這個韓國基準股指今年以來仍上漲超過30%。"
     }
   ]
 }
