@@ -1,7 +1,101 @@
 {
   "date": "2026-10-26",
-  "count": 439,
+  "count": 449,
   "items": [
+    {
+      "id": "5168459",
+      "time": "2026-10-26 09:03:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沙特首都利雅得國際機場部分恢復運營】沙特首都利雅得的哈立德國王國際機場的兩個航站樓已於當地時間25日恢復運營。根據此前機場釋出的公告，1號航站樓將負責國內航班，2號航站樓將負責處理由國家航空公司運營的國際航班。葉門胡塞武裝25日發表宣告，警告國際和地區航空公司、航空從業人員及旅客，哈立德國王國際機場並不安全。連日來，葉門胡塞武裝接連對沙特機場及能源設施發動襲擊，造成人員傷亡。受襲擊影響，哈立德國王國際機場此前暫停運營。"
+    },
+    {
+      "id": "5168458",
+      "time": "2026-10-26 09:03:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3980美元/盎司，日內跌0.46%。"
+    },
+    {
+      "id": "5168456",
+      "time": "2026-10-26 09:02:06",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【受網路攻擊影響擔憂，日本GMO Internet 股價下跌】日本IT服務提供商 GMO Internet公司的股票由於對網路攻擊影響的擔憂加劇，股價下跌多達 11%。該公司上週表示，其外匯交易服務遭到未經授權的訪問，客戶資訊被竊取。GMO公司已請求政府部署積極的網路防禦措施，以應對駭客攻擊事件帶來的影響。該公司 10 月 24 日釋出宣告稱，疑似攻擊者已經索要贖金。GMO 將向目前使用該服務的全部客戶賠付 5000 日元，無論客戶是否遭受資金損失。"
+    },
+    {
+      "id": "5168454",
+      "time": "2026-10-26 09:01:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲5%，現報3357.00元。"
+    },
+    {
+      "id": "mkt:01a175b9-eb24-7ee0-a970-f7b4c012be91",
+      "time": "2026-10-26 09:01:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Weighted Index opened down 846.34 points (-1.81%) at 46,041.43 on Monday, Oct 22."
+    },
+    {
+      "id": "5168447",
+      "time": "2026-10-26 09:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國電子與“四郵四電”八所高校簽署戰略合作協議】10月25日，2026年電子資訊特色高校發展大會在杭州電子科技大學下沙校區舉行。中國電子與電子科技大學、北京郵電大學、西安電子科技大學、南京郵電大學、杭州電子科技大學、重慶郵電大學、桂林電子科技大學、西安郵電大學八所高校簽署戰略合作協議。根據戰略合作協議，中國電子與“四郵四電”八所高校將在關鍵核心技術攻關、高能級科研平臺共建、學科建設、科技成果轉化、創新人才培養等方面開展合作。"
+    },
+    {
+      "id": "mkt:01a175b9-2f8c-7ee0-a970-ec2b04d9032a",
+      "time": "2026-10-26 09:00:32",
+      "tags": [
+        "MKT News",
+        "000660.KS"
+      ],
+      "text": "SK Hynix said it is considering various shareholder-return options but has made no decision."
+    },
+    {
+      "id": "mkt:01a175b9-1a1d-7ee0-a970-e173c7cff419",
+      "time": "2026-10-26 09:00:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Domestic commodity futures opened mixed with more gaining than losing. Methanol hit the daily up-limit. P-xylene, polypropylene (monthly average) and styrene (EB) rose over 5 pct; fuel oil, plastics (monthly average) and benzene gained over 4 pct. Shanghai silver and Shanghai gold futures fell more than 1 pct; caustic soda and platinum were down about 1 pct."
+    },
+    {
+      "id": "mkt:01a175b9-116e-7ee0-a970-d83f233ca224",
+      "time": "2026-10-26 09:00:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D fell 1.04% in early trade on Monday, Oct. 26, to 856.0 yuan/gram; Shanghai Gold Exchange Silver T+D fell 0.58% to 13,014.0 yuan/kg."
+    },
+    {
+      "id": "5168443",
+      "time": "2026-10-26 09:00:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK海力士：將在第三季度財報釋出後宣佈額外的股東回報計劃。"
+    },
     {
       "id": "mkt:01a175b8-fcdf-7ee0-a970-d36f3fbeee7e",
       "time": "2026-10-26 09:00:19",
