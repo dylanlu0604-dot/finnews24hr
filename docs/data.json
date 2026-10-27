@@ -1,7 +1,125 @@
 {
-  "updated": "2026-10-27 14:20:59",
-  "count": 13359,
+  "updated": "2026-10-27 14:24:52",
+  "count": 13362,
   "items": [
+    {
+      "id": "5171617",
+      "time": "2026-10-27 14:23:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊斯坦布林證券交易所暫停3 TERA PORTFOY基金的交易。"
+    },
+    {
+      "id": "5171616",
+      "time": "2026-10-27 14:23:54",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【大摩研判：晶片股調整已入尾聲 將於11月中旬結束】儘管隨著AI交易熱情降溫，美股近期面臨的壓力加大，但摩根士丹利首席股市策略師邁克·威爾遜（Mike Wilson）仍堅持標普500指數年底將收於8000點的預測。摩根士丹利設定的標普500指數戰術性下行目標位為7100至7200點，略低於200日移動平均線。不過，該行對標普500指數年底基本預期目標位仍為8000點，並指出包括中期選舉在內的幾個即將發生的清算事件應該標誌著當前股市調整的結束。不過，對於半導體板塊，威爾遜的態度卻相對謹慎，他認為該板塊的支撐位可能遠低於當前水平，但同時指出半導體股票面臨的拋壓可能會在下個月有所緩解。"
+    },
+    {
+      "id": "mkt:01a17c06-3e1b-7ee0-a98d-3bbcd69b396d",
+      "time": "2026-10-27 14:22:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Counterpoint Research says global sales growth would be much weaker without Chinese volumes; sales in the US and Japan declined amid price increases."
+    },
+    {
+      "id": "5171615",
+      "time": "2026-10-27 14:22:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紅果短劇：將進一步加大對低質和同質化內容的治理力度】紅果短劇10月27日釋出公告：將進一步加大對低質和同質化內容的治理力度，重點治理過度情緒渲染和對微短劇劇情結構、核心設定、關鍵橋段、人物關係及視聽表達要素的同質化使用問題。據悉，截至2026年10月27日，紅果短劇已集中處置《別*****女》《敗*****惹》《八******富》《離***攤》《一**起》《潑***家》等存在低質和同質化問題的微短劇共20426部。"
+    },
+    {
+      "id": "mkt:01a17c06-14fd-7ee0-a98d-37311c934a19",
+      "time": "2026-10-27 14:22:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Counterpoint Research: iPhone 18 Pro series posted the strongest sales growth in China, up 29%, driven by improved supply and rivals' price increases."
+    },
+    {
+      "id": "5171614",
+      "time": "2026-10-27 14:22:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "據 Counterpoint Research 資料，若不計中國市場銷量，iPhone全球銷量增長將大幅放緩；美國和日本市場銷量因價格上漲而下滑。"
+    },
+    {
+      "id": "5171613",
+      "time": "2026-10-27 14:21:42",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "據 Counterpoint Research 資料，由於供應改善及競爭對手提價，蘋果 iPhone 18 Pro 系列在中國市場銷量增長 29%，創下最強勁增長紀錄。"
+    },
+    {
+      "id": "5171612",
+      "time": "2026-10-27 14:21:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【約旦內政大臣稱逮捕三名卡拉克省教堂“恐怖襲擊”實施者】當地時間27日，約旦內政大臣馬贊·法拉亞宣佈聯合安全行動已經結束，該行動成功逮捕了三名卡拉克省教堂“恐怖襲擊”的實施者。法拉亞表示，逮捕實施者“並非終點，調查仍在繼續，目前正在對相關人員展開訊問，並正在收集技術證據”。他指出，“行動仍在持續，任何被證實以任何形式參與此次恐怖活動的人都將被追究責任”。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a17c05-424a-7ee0-a98d-2be4ab87aebc",
+      "time": "2026-10-27 14:21:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Counterpoint Research said global sales of Apple's iPhone 18 Pro series in the first three weeks after launch rose 3.1% year-on-year."
+    },
+    {
+      "id": "5171611",
+      "time": "2026-10-27 14:21:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國盛證券：維持大族鐳射“買入”評級，3C創新+AI PCB驅動業績高增】國盛證券研報指出，大族鐳射3C創新+AI PCB驅動業績高增，平臺型公司訂單持續放量。26Q1-Q3歸母淨利潤21.77億元，同比增長152.19%；26Q3歸母淨利潤8.89億元，同比增長137.03%，環比減少4.77%。公司AIPCB、消費電子、鋰電裝置等五大業務齊頭並進，上半年訂單大幅增長。一方面受益於消費電子大客戶產品創新週期，提振鐳射加工、3D列印裝置需求；另一方面，AI驅動帶來PCB供應鏈強勁需求，公司AI算力PCB專用裝置份額提升。由於公司各業務板塊全面快速增長，訂單量高增，疊加在光纖、液冷、玻璃基板等領域的前瞻佈局，有望進一步開啟公司成長空間。預計公司在2026/2027/2028年分別實現營業收入303/409/521億元，同比增長62%/35%/27%，實現歸母淨利潤30/50/72億元，同比增長155%/65%/43%。公司當前股價對應2026/2027/2028年PE分別為21/13/9X，維持“買入”評級。"
+    },
+    {
+      "id": "5171610",
+      "time": "2026-10-27 14:21:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.02%，成分股中，貝特瑞跌6.10%，科力股份跌6.00%，納科諾爾跌5.92%，森萱醫藥跌5.07%。"
+    },
+    {
+      "id": "5171609",
+      "time": "2026-10-27 14:20:46",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "據 Counterpoint Research 資料，蘋果 iPhone 18 Pro 系列上市前三週全球銷量同比增長 3.1%。"
+    },
     {
       "id": "5171608",
       "time": "2026-10-27 14:20:18",
@@ -9,6 +127,14 @@
         "國際"
       ],
       "text": "【俄軍稱打擊烏克蘭基輔交通設施等目標】俄羅斯國防部當地時間10月27日早間通報，俄軍當天凌晨使用陸基高精度武器和無人機對烏克蘭實施大規模打擊，命中生產和儲存巡航導彈及中遠端無人機的烏軍工企業、基輔市交通基礎設施、哈爾科夫州1處物流中心，以及服務烏軍的船隻。（央視新聞）"
+    },
+    {
+      "id": "5171607",
+      "time": "2026-10-27 14:20:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傑富瑞：半導體裝置火爆行情將持續至2028年】華爾街投行傑富瑞公司（Jefferies）預計，儘管人工智慧（AI）投資、資料中心建設和記憶體價格等問題給半導體行業帶來壓力，但半導體裝置市場仍將持續擴張至2028年。但傑富瑞預計，人工智慧的日益普及將維持對圖形處理器、定製晶片、中央處理器、功率半導體以及資料中心其他元件的需求。該行還特別提到，預計記憶體需求將持續增長。"
     },
     {
       "id": "te:markets:595285",
@@ -120096,99 +120222,6 @@
         "國際"
       ],
       "text": "【韓國外交部：將撤回駐烏克蘭使館部分工作人員】韓國外交部當地時間10月20日稱，將從韓國駐烏克蘭大使館撤回部分工作人員。 烏克蘭總統澤連斯基9月下旬對外公佈向韓國移送兩名朝鮮戰俘的訊息。韓國總統李在明10月2日表示，烏方違反了雙方達成的保密協議，要求烏方道歉。韓國外交部此前也表達“強烈遺憾”，認為基輔單方面的行為“嚴重破壞了兩國政府之間的信任”。烏克蘭外交部發言人7日表示，雙方對保密方式的理解存在差異，因而“產生誤會”。韓國外交部8日表示，韓國決定召回駐烏克蘭大使。烏外交部發言人季希8日表示，烏方願與韓方恢復建設性對話。（央視新聞客戶端）"
-    },
-    {
-      "id": "5155236",
-      "time": "2026-10-20 14:24:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中鎢線上：鎢精礦重回30萬關，廢鎢市場惜售探漲】鎢市場在經歷國慶之後的失序急跌後，隨著大型鎢企規模性採購進場，出現明顯情緒轉向與部分底部放量。持貨商挺市意願增強，下游詢盤熱度回升，但實際成交仍以剛需為主、猶豫觀望並存。後市反彈的幅度與速度，將取決於供應端釋放節奏與買盤實質跟進力度的匹配程度。55%鎢精礦價格重回30萬元/標噸支撐位。此前急跌過程中礦端報價一度混亂，當前隨著冶煉端流動性釋放，礦價企穩回升。行業資深人士認為該水平具備較強心理支撐，後續走勢仍需觀察實際成交放量情況。"
-    },
-    {
-      "id": "te:economy:593327",
-      "time": "2026-10-20 14:23:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Saudi Arabia",
-        "House Price Index YoY",
-        "Importance 0"
-      ],
-      "text": "Saudi Real Estate Inflation Slows Slightly in Q3 — Saudi Arabia’s real estate price index rose 1.2% year-on-year in Q3 2026, easing slightly from 1.3% in the previous quarter and marking a second consecutive period of annual growth after two straight quarters of declines. Residential property price growth moderated (2.3% vs. 2.6% in Q2), weighed down by declines in villa prices (-7.7% vs. -9.7%) while growth was recorded in residential plots (4.9% vs. 6.3%), and apartments (1.7% vs. 1.1%). Agricultural land price growth also eased sharply to 3.9% from 11.3%. Meanwhile, price declines in the commercial sector eased (-2.0% vs. -3.2%), with declines seen in commercial plots (-2.1% vs. -3.5%), buildings (-1.4% vs. -0.6%), and galleries or shops (-0.9% vs. 0.4%). Regionally, property prices fell in Al Jouf (-2.8%), Jazan (-1.8%), and Aseer (-4.3%), while prices rose in the Northern Borders (12.0%). On a quarterly basis, the real estate price index fell 1.2% in Q3, reversing a 3.0% rise in the previous quarter."
-    },
-    {
-      "id": "5155235",
-      "time": "2026-10-20 14:23:38",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "保加利亞央行預計，2027年GDP增長2.5%，2028年增長2.7%。"
-    },
-    {
-      "id": "5155234",
-      "time": "2026-10-20 14:23:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理毛焦爾表示，匈牙利的目標是到2030年將赤字率降至2.8%。"
-    },
-    {
-      "id": "te:economy:593326",
-      "time": "2026-10-20 14:23:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Average Earnings Excluding Bonus",
-        "Importance 1"
-      ],
-      "text": "UK Regular Pay Growth Above Forecasts — UK regular pay, excluding bonuses, rose 3.7% year-on-year to GBP 707 per week in the three months to August 2026, up slightly from a marginally revised figure in the previous period and market expectations of 3.6%. This marked the strongest annual growth since the three months to January, as private sector wage growth edged up to 3.0% from 2.9% in the previous three-month period, its fastest pace since the three months to April. Meanwhile, public sector pay growth held steady at 6.3% for a second consecutive period, remaining at its highest rate since the three months to December 2025. By industry, wage growth reached 3.1% in wholesale, retail, hotels and restaurants; 2.9% in manufacturing; 3.9% in services; 3.3% in finance and business services; and 1.1% in construction. After adjusting for inflation, real regular pay grew 0.6%, unchanged for a third consecutive period and remaining at its strongest pace since the three months to November 2025."
-    },
-    {
-      "id": "5155233",
-      "time": "2026-10-20 14:23:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理毛焦爾：目標是在2028年將赤字降至4%，2029年降至3.4%。"
-    },
-    {
-      "id": "te:markets:593325",
-      "time": "2026-10-20 14:23:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Poised to Open Lower — European equity markets were set to open lower on Tuesday, extending the previous session’s losses as renewed selling in global technology and artificial intelligence stocks dampened investor sentiment. Rising oil prices further heightened concerns over inflation and the outlook for interest rates. Meanwhile, investors continued to monitor geopolitical risks across Europe as governments worked to contain widespread unrest over inadequate public services and the rising cost of living, which turned violent over the weekend. European Central Bank President Christine Lagarde also warned that rising bond yields, driven by concerns over government debt, could weigh on economic growth and inflation. In premarket trading, Euro Stoxx 50 futures fell 0.7%, while Stoxx 600 futures declined 0.5%."
-    },
-    {
-      "id": "5155232",
-      "time": "2026-10-20 14:21:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【涉“星鏈”縱火案 保加利亞法院批捕兩名德國人】據多家媒體19日報道，保加利亞一家法院已批准對兩名德國公民簽發歐洲逮捕令，兩人涉嫌縱火焚燒美國“星鏈”衛星網際網路系統在保加利亞的地面天線。檢方檔案顯示，兩人9日駕駛德國牌照車輛，從塞爾維亞經保加利亞邊境村莊卡洛蒂納的口岸進入保加利亞，在保加利亞首都索非亞以南一處衛星通訊設施縱火，數小時後透過同一口岸返回塞爾維亞。大火導致3座天線完全損毀、2座部分受損，另有3座受到波及。檢方已在兩人未到案的情況下提出指控。據保加利亞通訊社報道，如果罪名成立，兩人將面臨3年至12年刑期。（新華社）"
-    },
-    {
-      "id": "5155231",
-      "time": "2026-10-20 14:21:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "據估計，銅礦行業需要約3320億美元的新增投資，以避免未來出現供應衝擊。"
-    },
-    {
-      "id": "5155230",
-      "time": "2026-10-20 14:21:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議員呼籲設立能源行業作戰室與統一指揮中心】伊朗議會能源委員會一名議員週二表示，伊朗能源領域需要設立 “作戰室” 以及單一指揮中心。他稱本國能源短缺問題已不只是季節性難題。穆罕默德・卡巴米爾表示，能源短缺源於過往能源戰略層面的失誤。他補充道：“部分供應受限來自國際制裁，制裁導致伊朗無法獲取先進開採與加工裝置。”"
     }
   ]
 }
