@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-28 06:00:36",
+  "updated": "2026-10-28 06:04:27",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
   "count": 410,
   "history_summary": {
-    "cached": 402,
-    "fetched": 8,
+    "cached": 410,
+    "fetched": 0,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -3223,7 +3223,7 @@
                   "previous": "419.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-28 06:00:30"
             },
             {
@@ -3281,7 +3281,7 @@
                   "previous": "-46.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-28 06:00:30"
             },
             {
@@ -3339,7 +3339,7 @@
                   "previous": "-4.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-28 06:00:30"
             },
             {
@@ -3397,7 +3397,7 @@
                   "previous": "99.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-28 06:00:30"
             },
             {
@@ -3455,7 +3455,7 @@
                   "previous": "25.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-28 06:00:30"
             },
             {
@@ -3513,7 +3513,7 @@
                   "previous": "-8.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-28 06:00:30"
             },
             {
@@ -3571,7 +3571,7 @@
                   "previous": "-320.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-28 06:00:30"
             },
             {
@@ -3629,7 +3629,7 @@
                   "previous": "-45.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-28 06:00:30"
             },
             {
@@ -27077,7 +27077,7 @@
           "previous": "419.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-28 06:00:30"
     },
     {
@@ -27135,7 +27135,7 @@
           "previous": "-46.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-28 06:00:30"
     },
     {
@@ -27193,7 +27193,7 @@
           "previous": "-4.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-28 06:00:30"
     },
     {
@@ -27251,7 +27251,7 @@
           "previous": "99.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-28 06:00:30"
     },
     {
@@ -27309,7 +27309,7 @@
           "previous": "25.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-28 06:00:30"
     },
     {
@@ -27367,7 +27367,7 @@
           "previous": "-8.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-28 06:00:30"
     },
     {
@@ -27425,7 +27425,7 @@
           "previous": "-320.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-28 06:00:30"
     },
     {
@@ -27483,7 +27483,7 @@
           "previous": "-45.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-28 06:00:30"
     },
     {

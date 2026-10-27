@@ -1,7 +1,65 @@
 {
   "date": "2026-10-28",
-  "count": 397,
+  "count": 404,
   "items": [
+    {
+      "id": "mkt:01a17f63-6e5b-7ee0-a9a2-65aa02a091cc",
+      "time": "2026-10-28 06:03:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syria's state news agency SANA said passenger and commercial traffic at the Nassib border crossing with Jordan will resume normal operations from Wednesday morning local time."
+    },
+    {
+      "id": "mkt:01a17f63-5e4c-7ee0-a9a2-5c7c116b1dae",
+      "time": "2026-10-28 06:03:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's far-right national security minister Itamar Ben-Gvir said tonight he had heard talk of forming a unity government with Gadi Eizenkot, calling it the scenario he had previously warned about and a terrible mistake."
+    },
+    {
+      "id": "5173816",
+      "time": "2026-10-28 06:03:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞表示，從週三早上開始，與約旦接壤的納西布邊境口岸的客運和商業交通將恢復正常。"
+    },
+    {
+      "id": "5173815",
+      "time": "2026-10-28 06:01:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果將於週三釋出14英寸和16英寸觸控屏MacBook。"
+    },
+    {
+      "id": "5173814",
+      "time": "2026-10-28 06:01:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果觸控式螢幕Mac將成為該公司價格最高的膝上型電腦。"
+    },
+    {
+      "id": "5173813",
+      "time": "2026-10-28 06:01:34",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "蘋果已討論將新款14英寸觸控Mac定價為2899美元。"
+    },
+    {
+      "id": "5173812",
+      "time": "2026-10-28 05:59:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "以色列利庫德集團訊息人士表示，該黨未預料到阿拉伯裔以色列選民的投票率會如此之高。"
+    },
     {
       "id": "5173811",
       "time": "2026-10-28 05:53:58",
