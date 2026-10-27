@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-28 01:44:57",
-  "count": 13041,
+  "updated": "2026-10-28 01:48:45",
+  "count": 13032,
   "items": [
+    {
+      "id": "5173463",
+      "time": "2026-10-28 01:48:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：我知道汽油價格很高。"
+    },
+    {
+      "id": "5173462",
+      "time": "2026-10-28 01:45:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會批准亞馬遜LEO收購Globalstar。"
+    },
     {
       "id": "mkt:01a17e74-42b4-7ee0-a99e-d7e5376292a9",
       "time": "2026-10-28 01:41:50",
@@ -117128,98 +117145,6 @@
         "Impact bearish"
       ],
       "text": "U.S. Secretary of State Rubio said people underestimate the consequences of sanctions on Russia; they target not only Russia but anyone who does business with Russia, creating a balance that has always existed."
-    },
-    {
-      "id": "5156753",
-      "time": "2026-10-21 01:48:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：至選舉日競選投入將超4億美元】特朗普發帖稱，受歐洲局勢等因素影響，他為本次關鍵中期選舉安排的競選開支到選舉日合計將超過4億美元；其中超3億美元已經投入廣告、選民動員、線下及線上造勢活動、選舉安保相關工作。他稱此舉是為支援共和黨，重申“讓美國再次偉大”口號。"
-    },
-    {
-      "id": "mkt:01a15a6d-2f0a-7ee0-a90d-95c4e67e11d5",
-      "time": "2026-10-21 01:47:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASS cited sources saying a planned Oct. 21 (local time) visit to Russia by US special Middle East envoy Witkoff and Jared Kushner has been confirmed."
-    },
-    {
-      "id": "5156752",
-      "time": "2026-10-21 01:47:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使威特科夫和庫什納計劃於10月21日訪問俄羅斯的行程已獲確認。"
-    },
-    {
-      "id": "5156751",
-      "time": "2026-10-21 01:47:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧談伊朗：與伊朗達成協議很難。"
-    },
-    {
-      "id": "mkt:01a15a6c-9701-7ee0-a90d-8b7d68897c70",
-      "time": "2026-10-21 01:47:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Nigeria confirms first Ebola case】On Oct 20 local time Nigeria's federal government confirmed the country's first laboratory-confirmed Ebola case in Abuja and has activated a nationwide emergency public-health response."
-    },
-    {
-      "id": "5156750",
-      "time": "2026-10-21 01:46:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：我不認為，也從未覺得，美國國內的反印度情緒是普遍或根深蒂固的。和任何龐大而複雜的社會一樣，遺憾的是，我們國家也有一些人愚蠢、無知或心懷仇恨。讓我非常自豪的是，這些社群在事件發生時的反應方式。"
-    },
-    {
-      "id": "mkt:01a15a6c-1ecf-7ee0-a90d-8031398cc78d",
-      "time": "2026-10-21 01:46:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Houthi forces said Saudi warplanes launched 93 air and missile strikes on civilian facilities in Al-Jawf and Taiz provinces over the past 24 hours, bringing the group's claimed total of Saudi air and missile strikes since Riyadh stepped up operations against Yemen to 2,793."
-    },
-    {
-      "id": "5156749",
-      "time": "2026-10-21 01:46:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【奈及利亞確認出現首例埃博拉確診病例】當地時間10月20日，奈及利亞聯邦政府確認，在聯邦首都區阿布賈發現一例埃博拉病毒確診病例，該國已全面啟動緊急公共衛生響應機制。據瞭解，該確診病例為一名女性患者。實驗室檢測結果於10月20日正式確認其感染埃博拉病毒。初步流行病學調查顯示，該患者近期搭乘國際航班自烏干達入境奈及利亞。當地衛生部門目前已追蹤並鎖定至少44名密切接觸者，正嚴密監測其健康狀況並展開隔離篩查。（央視新聞）"
-    },
-    {
-      "id": "5156748",
-      "time": "2026-10-21 01:45:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴拿馬南部太平洋海域發生5.4級地震。"
-    },
-    {
-      "id": "mkt:01a15a6b-1979-7ee0-a90d-7c2ab77d6d6b",
-      "time": "2026-10-21 01:45:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Two men arrested in UK on suspicion of assisting foreign intelligence agencies】On Oct 20 local time, UK counter-terrorism police made further arrests of two men suspected of assisting foreign intelligence agencies and of involvement in an alleged plot linked to RAF Fairford."
-    },
-    {
-      "id": "mkt:01a15a6a-bd7b-7ee0-a90d-76b3cf0e08df",
-      "time": "2026-10-21 01:45:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【5.4-magnitude earthquake off Panama's southern Pacific coast】The Colombian Geological Survey reported a 5.4-magnitude earthquake at 12:05 p.m. local time on the 20th in the southern Pacific off Panama; epicenter 6.32°N, 82.57°W, focal depth under 30 km."
     }
   ]
 }
