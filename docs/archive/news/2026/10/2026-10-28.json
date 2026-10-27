@@ -1,7 +1,15 @@
 {
   "date": "2026-10-28",
-  "count": 384,
+  "count": 385,
   "items": [
+    {
+      "id": "mkt:01a17f48-e789-7ee0-a9a2-40c3fc921e34",
+      "time": "2026-10-28 05:34:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mansour Abbas, leader of an Arab party in Israel, said he will convert the seats won into a new political reality for Israel."
+    },
     {
       "id": "5173770",
       "time": "2026-10-28 05:27:40",
