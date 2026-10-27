@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-28 05:10:30",
-  "count": 12989,
+  "updated": "2026-10-28 05:14:19",
+  "count": 12987,
   "items": [
+    {
+      "id": "te:markets:595541",
+      "time": "2026-10-28 05:13:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Baker Hughes earnings above expectations at 0.70 USD — Baker Hughes (BKR) released earnings per share at 0.70 USD, compared to market expectations of 0.59 USD."
+    },
+    {
+      "id": "te:economy:595540",
+      "time": "2026-10-28 05:12:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Chile Holds Key Interest Rate Amid External Risks — Chile’s central bank kept its benchmark interest rate unchanged at 4.5% at its October 2026 meeting, citing geopolitical tensions, tighter international financial conditions, and rising global inflation risks. The Board noted that escalating tensions in the Middle East had worsened the outlook for energy prices. Meanwhile, an unusually intense El Niño phenomenon had begun to affect international food prices, adding to cost pressures from energy, transportation, and fertilizers associated with armed conflicts. Copper prices, however, remained near the levels recorded at the previous meeting. Against this backdrop, concerns about global inflation continued to mount. Policymakers also highlighted tighter international financial conditions amid expectations of a more restrictive monetary policy stance, falling equity markets, a stronger US dollar, and rising long-term interest rates. The Board left the future path of monetary policy open."
+    },
+    {
+      "id": "5173726",
+      "time": "2026-10-28 05:10:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列選舉最終投票率為77.7%。"
+    },
     {
       "id": "5173723",
       "time": "2026-10-28 05:08:23",
@@ -116647,49 +116679,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收漲0.27%，報13315點。"
-    },
-    {
-      "id": "5156962",
-      "time": "2026-10-21 05:13:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX股價在財報電話會議期間漲幅擴大至5.5%。"
-    },
-    {
-      "id": "5156961",
-      "time": "2026-10-21 05:13:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：目標在2027年5月或6月讓首顆測試晶片實現功能可用。"
-    },
-    {
-      "id": "5156960",
-      "time": "2026-10-21 05:11:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "週二（10月20日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.6748元，逼近2022年6月15日最終報價6.6687元、當年6月3日最終報價6.6557元、當年5月4日最終報價6.6223元、以及當年4月27日最終報價6.5868元，較週一紐約尾盤漲74點，日內整體交投於6.6832-6.6734元區間。"
-    },
-    {
-      "id": "5156959",
-      "time": "2026-10-21 05:11:10",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "SpaceX首席財務官：目前預計第四季度資本開支區間為350億至400億美元。預計2027財年第一季度營收330億–370億美元。"
-    },
-    {
-      "id": "5156958",
-      "time": "2026-10-21 05:10:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "厄瓜多國家石油公司向秘魯國家石油公司授予兩份原油出口合同，出口量約 1620 萬桶，預估收入 16.5 億美元。"
     }
   ]
 }

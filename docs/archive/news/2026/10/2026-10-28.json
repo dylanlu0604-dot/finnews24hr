@@ -1,7 +1,39 @@
 {
   "date": "2026-10-28",
-  "count": 358,
+  "count": 361,
   "items": [
+    {
+      "id": "te:markets:595541",
+      "time": "2026-10-28 05:13:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Baker Hughes earnings above expectations at 0.70 USD — Baker Hughes (BKR) released earnings per share at 0.70 USD, compared to market expectations of 0.59 USD."
+    },
+    {
+      "id": "te:economy:595540",
+      "time": "2026-10-28 05:12:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Chile Holds Key Interest Rate Amid External Risks — Chile’s central bank kept its benchmark interest rate unchanged at 4.5% at its October 2026 meeting, citing geopolitical tensions, tighter international financial conditions, and rising global inflation risks. The Board noted that escalating tensions in the Middle East had worsened the outlook for energy prices. Meanwhile, an unusually intense El Niño phenomenon had begun to affect international food prices, adding to cost pressures from energy, transportation, and fertilizers associated with armed conflicts. Copper prices, however, remained near the levels recorded at the previous meeting. Against this backdrop, concerns about global inflation continued to mount. Policymakers also highlighted tighter international financial conditions amid expectations of a more restrictive monetary policy stance, falling equity markets, a stronger US dollar, and rising long-term interest rates. The Board left the future path of monetary policy open."
+    },
+    {
+      "id": "5173726",
+      "time": "2026-10-28 05:10:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列選舉最終投票率為77.7%。"
+    },
     {
       "id": "5173723",
       "time": "2026-10-28 05:08:23",
