@@ -1,7 +1,126 @@
 {
   "date": "2026-10-27",
-  "count": 1022,
+  "count": 1034,
   "items": [
+    {
+      "id": "5171608",
+      "time": "2026-10-27 14:20:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄軍稱打擊烏克蘭基輔交通設施等目標】俄羅斯國防部當地時間10月27日早間通報，俄軍當天凌晨使用陸基高精度武器和無人機對烏克蘭實施大規模打擊，命中生產和儲存巡航導彈及中遠端無人機的烏軍工企業、基輔市交通基礎設施、哈爾科夫州1處物流中心，以及服務烏軍的船隻。（央視新聞）"
+    },
+    {
+      "id": "te:markets:595285",
+      "time": "2026-10-27 14:20:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Cautious Open — European equity markets were set to open lower on Tuesday as caution prevailed in the region even after Anthropic’s IPO filing spurred a tech-led rebound in other markets. Investors are also bracing for major central bank decisions this week, with the Federal Reserve, European Central Bank, and Bank of Japan all widely expected to keep interest rates unchanged. Meanwhile, oil prices declined after senior officials from Saudi Arabia, Pakistan, and Turkey held talks with Iranian leaders to ease regional tensions and revive US-Iran peace negotiations. Investors will also monitor upcoming economic releases, including unemployment figures from Turkey and Spain, French consumer confidence, and Eurozone lending data. On the corporate front, earnings reports are due from HSBC, Novartis, Orange, Porsche, Logitech, and other major companies. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures both fell around 0.2%."
+    },
+    {
+      "id": "mkt:01a17c03-dfc0-7ee0-a98d-2082c7e1168a",
+      "time": "2026-10-27 14:19:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "Sci-Tech Innovation 50 Index fell more than 3%; constituent stocks Ninebot and Shengmei Shanghai dropped over 7%."
+    },
+    {
+      "id": "mkt:01a17c03-b9f4-7ee0-a98d-1b2fbe8624dc",
+      "time": "2026-10-27 14:19:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000725.SZ",
+        "Impact bullish"
+      ],
+      "text": "【China semiconductor packaging and test annual conference set for Nov 4-6 in Nanjing; major listed firms to attend】The 24th China Semiconductor Packaging & Test Technology and Market Annual Conference will be held Nov 4-6 at Fengda International Hotel, Nanjing. Leading listed firms including Huatian Technology, Changdian Technology, Tongfu Microelectronics, Nanjing TSMC, Biren Technology, BOE and Yuntian Semiconductor — alongside players in chip design, glass substrates and advanced-packaging equipment — will present at the main forum, technical reports and supply-demand sessions. Organizers emphasize that with Moore’s Law nearing physical limits and rapid AI compute growth, advanced packaging and test technologies are evolving into a strategic growth area that supports chip performance gains and industry innovation."
+    },
+    {
+      "id": "5171606",
+      "time": "2026-10-27 14:19:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3％，成分股中，九號公司跌7.93％，盛美上海跌7.20％，晶晨股份跌6.50％，華海清科跌6.27％。"
+    },
+    {
+      "id": "te:economy:595284",
+      "time": "2026-10-27 14:18:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Finland Industrial Confidence Dips to 7-Month Low — Finland’s industrial confidence indicator edged down to 2 in October 2026 from 3 in the previous month, which was the lowest reading in five months. The latest figure marked the lowest level since March but remained above its long-term average of 0. Assessments of stocks of finished products fell to 3 from 5, while assessments of book orders deteriorated further, declining to -9 from -6 in September. Meanwhile, production expectations for the coming months remained unchanged at 19. In contrast, capacity utilization improved, with 67% of companies reporting that they were operating at full capacity, up from 66%. The survey also showed that Finnish industrial confidence remained significantly above the EU average, based on comparative data for September."
+    },
+    {
+      "id": "5171605",
+      "time": "2026-10-27 14:18:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【迪奧下架姆巴佩內容】記者查詢迪奧微博，目前KylianMbappe姆巴佩相關內容已下架。（中國藍新聞）"
+    },
+    {
+      "id": "5171604",
+      "time": "2026-10-27 14:18:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【民營銀行異地存款收緊：部分存量產品限制新增 屬地化整改進入倒計時】近日，“14家民營銀行叫停或限制個人異地存款”相關話題引發網路熱議。某民營銀行內部人士向記者透露道：“存款屬地化管理其實早已開始實施，但各地監管的政策口徑和要求並不一致，因此不同機構的落地時間有早有晚，總體上的要求是在2027年年底實現屬地化管理。”該人士同時表示，現階段相關產品已經不能新增，部分存量產品同樣不能新增。（中國經營報）"
+    },
+    {
+      "id": "mkt:01a17c02-a44f-7ee0-a98d-146cd4e3a565",
+      "time": "2026-10-27 14:18:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan preparing to buy back about 100,000 tonnes of government reserve rice】Nikkei reported on 27 that Japan’s Ministry of Agriculture, Forestry and Fisheries is preparing to repurchase part of the 590,000 tonnes of government reserve rice scheduled for release in 2025. MAFF carried out a 210,000-tonne buyback in September and is expected to add roughly 100,000 tonnes this time. The government views an appropriate reserve at about 1 million tonnes; falling reserves have raised food-security concerns."
+    },
+    {
+      "id": "mkt:01a17c01-c41a-7ee0-a98d-0e6a6d70c8f2",
+      "time": "2026-10-27 14:17:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China ride‑hailing REG system reports 981 mln orders in September】China's ride‑hailing REG information exchange system said that as of Sept 30, 2026, 402 ride‑hailing platform companies held operating licences, unchanged month‑on‑month, and the system recorded 981 million orders in September. Among the top‑10 platforms by order volume, order compliance rates (orders where both driver and vehicle were licensed) ranked highest to lowest: Ruqi Chuxing, Fengyun Chuxing, Xixing Yueche, Xiangdao Chuxing, T3, Caocao, Yangguang Chuxing, Shouqi Yueche, Didi, Huaxiaozhu."
+    },
+    {
+      "id": "5171603",
+      "time": "2026-10-27 14:17:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【標普全球：霍爾木茲風險若持續，亞洲液化天然氣價格或漲至30美元】標普全球能源亞洲液化天然氣高階首席分析師Megan Jenkins稱，如果進入新年後霍爾木茲海峽的運力供給持續緊張，亞洲液化天然氣現貨價格在1月和2月的均價可能升至30美元/百萬英熱單位。Jenkins週二在新加坡國際能源週會議上表示，在該情景下，隨著3月至5月進入需求淡季，價格或將回落至約20美元/百萬英熱單位。如果卡達的供應在1月恢復，明年需求淡季價格將降至約10美元/百萬英熱單位。標普全球預計10月至12月均價約為26美元/百萬英熱單位。"
+    },
+    {
+      "id": "5171602",
+      "time": "2026-10-27 14:16:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府：商品及服務稅法案修正案將於11月1日生效。"
+    },
     {
       "id": "mkt:01a17c00-e8ec-7ee0-a98d-0157c3b21627",
       "time": "2026-10-27 14:16:36",
