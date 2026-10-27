@@ -1,7 +1,73 @@
 {
   "date": "2026-10-28",
-  "count": 109,
+  "count": 116,
   "items": [
+    {
+      "id": "te:markets:595518",
+      "time": "2026-10-28 01:20:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Closes Higher — Frankfurt's DAX 40 rose 0.7% to close at 25,607 on Tuesday, recovering from early losses and posting a second consecutive daily gain. Lower oil prices and stabilizing bond yields supported market sentiment, while attention remained on corporate earnings and the upcoming monetary policy decisions from the Fed and ECB. Tech and AI-related stocks powered the rally, amid optimism surrounding AI investment. Infineon Technologies surged 4.6% after announcing plans to invest around €1.1 billion in its Austrian site in Villach by 2034 to expand production of gallium nitride power semiconductors. Siemens Energy (4.4%), Hochtief (2.8%) and Siemens (1.8%) also advanced firmly."
+    },
+    {
+      "id": "5173449",
+      "time": "2026-10-28 01:20:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "海地安全官員稱，約1000名薩爾瓦多士兵已部署至海地。"
+    },
+    {
+      "id": "mkt:01a17e60-4d93-7ee0-a99e-96c3c4b4cb5b",
+      "time": "2026-10-28 01:20:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Haitian security official said about 1,000 Salvadoran troops have been deployed to Haiti."
+    },
+    {
+      "id": "5173448",
+      "time": "2026-10-28 01:19:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京與卡達埃米爾舉行雙邊會晤。"
+    },
+    {
+      "id": "mkt:01a17e5e-fc9b-7ee0-a99e-8ade5c90ed4e",
+      "time": "2026-10-28 01:18:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports an ally of Brazilian senator Flavio Bolsonaro said he has traveled to the United States."
+    },
+    {
+      "id": "mkt:01a17e5e-cc4a-7ee0-a99e-87152aac6fc5",
+      "time": "2026-10-28 01:18:24",
+      "tags": [
+        "MKT News",
+        "Bitcoin",
+        "Impact bearish",
+        "Ethereum",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Sources: US regulators are probing whether prediction-market operator Polymarket breached a 2022 agreement banning US users. The Commodity Futures Trading Commission is examining Polymarket’s US controls and marketing, and is also reviewing customer onboarding and protection measures on its US platform."
+    },
+    {
+      "id": "5173447",
+      "time": "2026-10-28 01:18:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "訊息人士稱，美國商品期貨交易委員會（CFTC）正在調查 Polymarket 在美國的風控機制以及宣傳推廣活動。美國監管機構正在調查預測市場運營商 Polymarket 是否違反 2022 年達成的禁止美國使用者使用平臺的協議。監管機構同時還在調查 Polymarket 美國平臺的使用者准入流程與防護機制。"
+    },
     {
       "id": "mkt:01a17e5e-2f36-7ee0-a99e-7a2923a0825f",
       "time": "2026-10-28 01:17:43",

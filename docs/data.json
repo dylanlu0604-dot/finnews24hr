@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-28 01:18:22",
-  "count": 13060,
+  "updated": "2026-10-28 01:22:10",
+  "count": 13053,
   "items": [
+    {
+      "id": "te:markets:595518",
+      "time": "2026-10-28 01:20:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Closes Higher — Frankfurt's DAX 40 rose 0.7% to close at 25,607 on Tuesday, recovering from early losses and posting a second consecutive daily gain. Lower oil prices and stabilizing bond yields supported market sentiment, while attention remained on corporate earnings and the upcoming monetary policy decisions from the Fed and ECB. Tech and AI-related stocks powered the rally, amid optimism surrounding AI investment. Infineon Technologies surged 4.6% after announcing plans to invest around €1.1 billion in its Austrian site in Villach by 2034 to expand production of gallium nitride power semiconductors. Siemens Energy (4.4%), Hochtief (2.8%) and Siemens (1.8%) also advanced firmly."
+    },
+    {
+      "id": "5173449",
+      "time": "2026-10-28 01:20:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "海地安全官員稱，約1000名薩爾瓦多士兵已部署至海地。"
+    },
+    {
+      "id": "mkt:01a17e60-4d93-7ee0-a99e-96c3c4b4cb5b",
+      "time": "2026-10-28 01:20:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Haitian security official said about 1,000 Salvadoran troops have been deployed to Haiti."
+    },
+    {
+      "id": "5173448",
+      "time": "2026-10-28 01:19:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京與卡達埃米爾舉行雙邊會晤。"
+    },
+    {
+      "id": "mkt:01a17e5e-fc9b-7ee0-a99e-8ade5c90ed4e",
+      "time": "2026-10-28 01:18:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports an ally of Brazilian senator Flavio Bolsonaro said he has traveled to the United States."
+    },
+    {
+      "id": "mkt:01a17e5e-cc4a-7ee0-a99e-87152aac6fc5",
+      "time": "2026-10-28 01:18:24",
+      "tags": [
+        "MKT News",
+        "Bitcoin",
+        "Impact bearish",
+        "Ethereum",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Sources: US regulators are probing whether prediction-market operator Polymarket breached a 2022 agreement banning US users. The Commodity Futures Trading Commission is examining Polymarket’s US controls and marketing, and is also reviewing customer onboarding and protection measures on its US platform."
+    },
+    {
+      "id": "5173447",
+      "time": "2026-10-28 01:18:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "訊息人士稱，美國商品期貨交易委員會（CFTC）正在調查 Polymarket 在美國的風控機制以及宣傳推廣活動。美國監管機構正在調查預測市場運營商 Polymarket 是否違反 2022 年達成的禁止美國使用者使用平臺的協議。監管機構同時還在調查 Polymarket 美國平臺的使用者准入流程與防護機制。"
+    },
     {
       "id": "mkt:01a17e5e-2f36-7ee0-a99e-7a2923a0825f",
       "time": "2026-10-28 01:17:43",
@@ -117242,123 +117308,6 @@
         "其他"
       ],
       "text": "奈及利亞衛生部長表示，該國首都阿布賈確診一例埃博拉病例。"
-    },
-    {
-      "id": "5156720",
-      "time": "2026-10-21 01:22:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員：所有濃縮核材料都將留在伊朗】當地時間20日，伊朗最高國家安全委員會秘書雷扎伊在會見巴基斯坦陸軍總參謀長穆尼爾時強調，所有濃縮核材料都將留在伊朗，這些材料是伊朗人民的寶貴財富，將在國內使用。雷扎伊稱，伊朗全體人民和官員一致認為，在美方建立信任之前，不會進行任何談判。而建立信任的第一步，就是滿足伊朗提出的條件。穆尼爾則強調了伊朗和巴基斯坦邊境重新開放的訊息。他表示，伊朗和巴基斯坦邊境問題已經解決，邊境已於當天上午重新開放。（央視新聞）"
-    },
-    {
-      "id": "5156719",
-      "time": "2026-10-21 01:21:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：俄羅斯仍站在伊朗一邊。"
-    },
-    {
-      "id": "5156718",
-      "time": "2026-10-21 01:21:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "芬蘭總統表示，讓美國總統特朗普持續參與烏克蘭事務十分重要。"
-    },
-    {
-      "id": "mkt:01a15a55-07ac-7ee0-a90d-341a4724b309",
-      "time": "2026-10-21 01:21:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said he discussed Patriot missiles with US Secretary of State Rubio and expects a positive outcome."
-    },
-    {
-      "id": "mkt:01a15a54-c288-7ee0-a90d-2a5250d56eeb",
-      "time": "2026-10-21 01:21:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said he welcomed the early warning system now functioning again."
-    },
-    {
-      "id": "5156717",
-      "time": "2026-10-21 01:21:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：與美國國務卿魯比奧討論了愛國者導彈問題，我預計會取得積極成果。"
-    },
-    {
-      "id": "mkt:01a15a54-8c53-7ee0-a90d-249744016af5",
-      "time": "2026-10-21 01:20:52",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Ukrainian President Zelenskiy said security guarantees have been written into a document and will be shared with Russia."
-    },
-    {
-      "id": "5156716",
-      "time": "2026-10-21 01:20:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：俄羅斯總統普京在幫助伊朗人。"
-    },
-    {
-      "id": "mkt:01a15a54-5f7d-7ee0-a90d-1a6c413e9edc",
-      "time": "2026-10-21 01:20:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said the U.S. stressed that security guarantees would be robust."
-    },
-    {
-      "id": "mkt:01a15a54-3e32-7ee0-a90d-147b62ff64f9",
-      "time": "2026-10-21 01:20:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Finland's president said continued U.S. engagement is very important."
-    },
-    {
-      "id": "5156715",
-      "time": "2026-10-21 01:20:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：美國現在共享情報。"
-    },
-    {
-      "id": "5156714",
-      "time": "2026-10-21 01:19:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：感謝有關導彈襲擊的情報“現在起作用了”。"
-    },
-    {
-      "id": "5156713",
-      "time": "2026-10-21 01:18:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "芬蘭總統：美國保持參與非常重要。"
-    },
-    {
-      "id": "5156712",
-      "time": "2026-10-21 01:18:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "挪威首相：應當商討歐洲安全秩序，歐洲必須參與談判。"
     }
   ]
 }
