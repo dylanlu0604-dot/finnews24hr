@@ -1,7 +1,97 @@
 {
   "date": "2026-10-27",
-  "count": 1097,
+  "count": 1107,
   "items": [
+    {
+      "id": "5171663",
+      "time": "2026-10-27 14:43:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美圖2026投資者日：Q3付費使用者單季淨增139萬、主營收入增28.2%】10月26日，在美圖2026投資者日活動上，美圖公司管理層透露，公司AI創新產品的探索進入新階段，將聚焦已驗證產品。美圖公司CEO吳欣鴻表示，目前許多AI影像需求已被驗證真偽，基於這一判斷，美圖會將資源傾斜在一批已經驗證PMF的產品上，圍繞行業垂直場景把產品力做深做厚。公司後續會更多參考時尚消費品的商業策略，功能即商品，以獲取付費使用者為目標人群。"
+    },
+    {
+      "id": "5171662",
+      "time": "2026-10-27 14:42:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌8%，現報2225.00點。"
+    },
+    {
+      "id": "te:markets:595290",
+      "time": "2026-10-27 14:41:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Extends Decline as Dollar Gains Strength — Silver fell below $53 an ounce on Tuesday, hitting near one-year lows as the dollar strengthened ahead of key central bank policy decisions this week, weighing on the precious metal. Renewed investor enthusiasm for the AI trade following Anthropic’s IPO filing also bolstered the dollar, reflecting the sector’s contribution to US economic growth. Meanwhile, oil prices declined for a second consecutive session amid diplomatic efforts to ease tensions in the Middle East, although prices remained elevated, keeping inflation concerns in focus and reinforcing expectations of further monetary tightening. The US Federal Reserve is widely expected to hold interest rates steady this week, with investors closely monitoring policymakers’ forward guidance for indications of a possible rate hike in December. Market participants will also scrutinize upcoming US GDP and PCE price index data for further clues about the economic outlook and the Fed’s future policy direction."
+    },
+    {
+      "id": "5171661",
+      "time": "2026-10-27 14:41:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【直面歐盟施壓 俄羅斯與斯洛伐克欲加強合作】俄羅斯駐斯洛伐克大使謝爾蓋·安德烈耶夫26日說，雖然面臨歐盟方面施壓，但俄羅斯與斯洛伐克正努力探索新的合作路徑。俄羅斯和斯洛伐克經濟、科學和技術合作政府間委員會會議當天在莫斯科舉行，這是該委員會近五年來首次召開會議。安德烈耶夫會後告訴媒體記者，俄斯兩國合作程序受到斯洛伐克歐盟成員國身份限制，合作的廣度和深度“尚未達到雙方預期”。安德烈耶夫說：“斯洛伐克是歐盟成員國，受到歐盟制裁措施的限制，必須遵守相關規定。在現有條件允許的範圍內，雙方一直在努力尋求新的合作機會，希望這些努力能夠取得實際成果。”（新華社）"
+    },
+    {
+      "id": "5171660",
+      "time": "2026-10-27 14:41:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保時捷利潤保持穩健，911車型對沖銷量下滑】儘管汽車銷量大幅下滑，得益於911跑車及高價衍生車型的需求，保時捷股份公司盈利水平維持穩定。公司維持全年業績指引：營收350億至360億歐元，集團營業利潤率5.5%至7.5%。保時捷計劃裁員、精簡管理層、削減研發開支，收縮規模以應對艱難環境，之後再向更高階市場發力。"
+    },
+    {
+      "id": "te:markets:595289",
+      "time": "2026-10-27 14:40:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Prices Decline as Dollar Gains Strength — Gold prices fell to around $4,000 per ounce on Tuesday, reversing gains from the previous session as the dollar strengthened ahead of key central bank policy decisions this week, weighing on the precious metal. Renewed investor enthusiasm for the AI trade following Anthropic’s IPO filing also bolstered the dollar, reflecting the sector’s contribution to US economic growth. Meanwhile, oil prices declined for a second consecutive session amid diplomatic efforts to ease tensions in the Middle East, although prices remained elevated, keeping inflation concerns in focus and reinforcing expectations of further monetary tightening. The US Federal Reserve is widely expected to hold interest rates steady this week, with investors closely monitoring policymakers’ forward guidance for indications of a possible rate hike in December. Market participants will also scrutinize upcoming US GDP and PCE price index data for further clues about the economic outlook and the Fed’s future policy direction."
+    },
+    {
+      "id": "mkt:01a17c16-87a3-7ee0-a98d-a595e956ae32",
+      "time": "2026-10-27 14:40:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU securities regulator says market infrastructure remains resilient and is monitoring leveraged funds and margin calls."
+    },
+    {
+      "id": "5171659",
+      "time": "2026-10-27 14:39:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026國際（武漢）智慧建造產業博覽會開幕】10月27日，以“智造引領 聚勢強鏈”為主題的2026國際（武漢）智慧建造產業博覽會在武漢開幕，現場設定“設計之都”“好房子”、城市更新、基礎設施與智慧裝備、綠色低碳工程、新能源工程、數智化、國際化8大展區，來自全球10餘個國家及地區的知名高校、科研院所、建築龍頭企業、專精特新“小巨人”企業等200餘家單位攜1400餘項創新成果參展。（新華社）"
+    },
+    {
+      "id": "5171658",
+      "time": "2026-10-27 14:39:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達證券交易所：歡迎多哈投資將卡達積極資產管理計劃規模擴大至50億卡達里亞爾。"
+    },
+    {
+      "id": "5171657",
+      "time": "2026-10-27 14:39:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國財富科技公司AssetMark在印度海得拉巴開設全球能力中心。"
+    },
     {
       "id": "mkt:01a17c15-3ead-7ee0-a98d-9a7fa33c26cf",
       "time": "2026-10-27 14:38:49",
