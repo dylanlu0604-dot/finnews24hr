@@ -1,7 +1,72 @@
 {
   "date": "2026-10-27",
-  "count": 1003,
+  "count": 1010,
   "items": [
+    {
+      "id": "mkt:01a17bfc-5ce2-7ee0-a98c-eb53eada8a38",
+      "time": "2026-10-27 14:11:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【New rule: cable TV barred from playing startup ads】Oct 27, 2026 — China’s National Radio and Television Administration issued the Regulations on Cable Radio and Television Operation Services, effective Nov. 27. The rules prohibit any organization or individual from altering cable broadcast content or intercepting, interfering with or descrambling transmission signals. Article 12 mandates a live-first principle: cable operators must provide a full-screen live-on-startup function, include a channel replay entry and may not play startup (power-on) advertising. Smart TVs must support priority live-channel display and offer an easy access settings entry."
+    },
+    {
+      "id": "mkt:01a17bfc-3f8e-7ee0-a98c-e0056d286adc",
+      "time": "2026-10-27 14:11:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 30-year government bond yield rose 1.5 bps to 3.820%."
+    },
+    {
+      "id": "mkt:01a17bfb-235a-7ee0-a98c-ddb7dbd97719",
+      "time": "2026-10-27 14:10:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dongyang Guangyao: insulin glargine secures over 18 mln overseas orders】Dongyang Guangyao said its insulin glargine injection, approved by the U.S. FDA in April, began U.S. commercial shipments in July with an initial batch of 1.152 mln units. The company has locked more than 18 mln units in overseas orders; the product is the first Chinese insulin to enter the U.S. market."
+    },
+    {
+      "id": "5171592",
+      "time": "2026-10-27 14:10:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：融資融券板塊淨流出超225億】截至目前，今日主力資金淨流出243.40億；淨流入谷歌概念、銀行、銀行概念等板塊，其中谷歌概念板塊淨流入10.62億；淨流出融資融券、轉融券標的、TMT等板塊，其中融資融券板塊淨流出225.81億。\n  \n個股方面，中際旭創淨買入6.66億元位居首位，雪人集團、大洋電機、藥明康德主力資金淨流入居前；寧德時代淨賣出4.30億元位居首位，德明利、行雲科技、北方華創淨流出額居前。"
+    },
+    {
+      "id": "5171591",
+      "time": "2026-10-27 14:10:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新規出爐：有線電視不得播放開機廣告】國家廣電總局日前正式釋出《有線廣播電視運營服務管理規定》，將自11月27日起施行。《規定》第十二條明確，有線廣播電視運營服務提供者應當堅持直播優先原則，實現開機看全屏直播功能，設定頻道回看入口，不得播放開機廣告。智慧電視機應支援優先呈現直播頻道功能，提供便捷設定入口。"
+    },
+    {
+      "id": "5171590",
+      "time": "2026-10-27 14:09:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【東陽光藥：胰島素已鎖定超1800萬支海外訂單】記者從東陽光藥（06887.HK）獲悉，公司於今年4月獲美國FDA批准上市的甘精胰島素注射液，在7月已實現美國商業化發貨，首批115.2萬支，目前已鎖定超1800萬支海外訂單。該產品也是中國首個登陸美國市場的胰島素產品。"
+    },
+    {
+      "id": "te:markets:595280",
+      "time": "2026-10-27 14:09:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Reverses Early Weakness to Close in the Green — The ASX 200 rose 40 points, or 0.5%, to end at 8,850 on Tuesday, turning early losses and extending gains for a third session. Easing oil prices helped temper inflation concerns ahead of Wednesday’s September CPI release, following August’s slowdown to 4.0%, below the 4.1% forecast but still above the RBA’s 2–3% target. Investors also awaited Governor Michele Bullock’s and other senior officials’ appearances before lawmakers, after Assistant Governor Sarah Hunter said the central bank had “not quite yet” done enough to curb inflation. Meanwhile, futures linked to the Dow Jones strengthened ahead of the Fed’s two-day policy meeting, which begins later today, with a rate decision due Wednesday. While a hold is widely expected, rate-hike expectations for December have increased. Gains in copper and iron ore lifted miners, including BHP Group (3.5%), Rio Tinto (2.5%), and Mineral Resources (2.4%). Lynas Rare Earths (3.5%), Qantas Airways (3.2%), and South32 (2.6%) also advanced."
+    },
     {
       "id": "5171589",
       "time": "2026-10-27 14:08:41",

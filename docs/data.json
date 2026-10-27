@@ -1,7 +1,72 @@
 {
-  "updated": "2026-10-27 14:09:37",
-  "count": 13357,
+  "updated": "2026-10-27 14:13:27",
+  "count": 13354,
   "items": [
+    {
+      "id": "mkt:01a17bfc-5ce2-7ee0-a98c-eb53eada8a38",
+      "time": "2026-10-27 14:11:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【New rule: cable TV barred from playing startup ads】Oct 27, 2026 — China’s National Radio and Television Administration issued the Regulations on Cable Radio and Television Operation Services, effective Nov. 27. The rules prohibit any organization or individual from altering cable broadcast content or intercepting, interfering with or descrambling transmission signals. Article 12 mandates a live-first principle: cable operators must provide a full-screen live-on-startup function, include a channel replay entry and may not play startup (power-on) advertising. Smart TVs must support priority live-channel display and offer an easy access settings entry."
+    },
+    {
+      "id": "mkt:01a17bfc-3f8e-7ee0-a98c-e0056d286adc",
+      "time": "2026-10-27 14:11:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 30-year government bond yield rose 1.5 bps to 3.820%."
+    },
+    {
+      "id": "mkt:01a17bfb-235a-7ee0-a98c-ddb7dbd97719",
+      "time": "2026-10-27 14:10:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dongyang Guangyao: insulin glargine secures over 18 mln overseas orders】Dongyang Guangyao said its insulin glargine injection, approved by the U.S. FDA in April, began U.S. commercial shipments in July with an initial batch of 1.152 mln units. The company has locked more than 18 mln units in overseas orders; the product is the first Chinese insulin to enter the U.S. market."
+    },
+    {
+      "id": "5171592",
+      "time": "2026-10-27 14:10:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：融資融券板塊淨流出超225億】截至目前，今日主力資金淨流出243.40億；淨流入谷歌概念、銀行、銀行概念等板塊，其中谷歌概念板塊淨流入10.62億；淨流出融資融券、轉融券標的、TMT等板塊，其中融資融券板塊淨流出225.81億。\n  \n個股方面，中際旭創淨買入6.66億元位居首位，雪人集團、大洋電機、藥明康德主力資金淨流入居前；寧德時代淨賣出4.30億元位居首位，德明利、行雲科技、北方華創淨流出額居前。"
+    },
+    {
+      "id": "5171591",
+      "time": "2026-10-27 14:10:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新規出爐：有線電視不得播放開機廣告】國家廣電總局日前正式釋出《有線廣播電視運營服務管理規定》，將自11月27日起施行。《規定》第十二條明確，有線廣播電視運營服務提供者應當堅持直播優先原則，實現開機看全屏直播功能，設定頻道回看入口，不得播放開機廣告。智慧電視機應支援優先呈現直播頻道功能，提供便捷設定入口。"
+    },
+    {
+      "id": "5171590",
+      "time": "2026-10-27 14:09:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【東陽光藥：胰島素已鎖定超1800萬支海外訂單】記者從東陽光藥（06887.HK）獲悉，公司於今年4月獲美國FDA批准上市的甘精胰島素注射液，在7月已實現美國商業化發貨，首批115.2萬支，目前已鎖定超1800萬支海外訂單。該產品也是中國首個登陸美國市場的胰島素產品。"
+    },
+    {
+      "id": "te:markets:595280",
+      "time": "2026-10-27 14:09:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Reverses Early Weakness to Close in the Green — The ASX 200 rose 40 points, or 0.5%, to end at 8,850 on Tuesday, turning early losses and extending gains for a third session. Easing oil prices helped temper inflation concerns ahead of Wednesday’s September CPI release, following August’s slowdown to 4.0%, below the 4.1% forecast but still above the RBA’s 2–3% target. Investors also awaited Governor Michele Bullock’s and other senior officials’ appearances before lawmakers, after Assistant Governor Sarah Hunter said the central bank had “not quite yet” done enough to curb inflation. Meanwhile, futures linked to the Dow Jones strengthened ahead of the Fed’s two-day policy meeting, which begins later today, with a rate decision due Wednesday. While a hold is widely expected, rate-hike expectations for December have increased. Gains in copper and iron ore lifted miners, including BHP Group (3.5%), Rio Tinto (2.5%), and Mineral Resources (2.4%). Lynas Rare Earths (3.5%), Qantas Airways (3.2%), and South32 (2.6%) also advanced."
+    },
     {
       "id": "5171589",
       "time": "2026-10-27 14:08:41",
@@ -120061,92 +120126,6 @@
         "其他"
       ],
       "text": "【多人訪問請求異常跳轉至博彩網站，國家網際網路應急中心公佈調查情況】近期，中國多個省份多次發生使用者訪問請求異常跳轉至博彩網站的事件，對廣大人民的財產安全和正常上網權利造成了嚴重危害。經分析，攻擊者利用中國境外自治域AS 402425，主要採取宣告虛假路由、篡改域名解析資料等手段進行攻擊，危害範圍廣泛，特此公佈有關調查情況，為全球相關國家、單位和廣大網民有效發現和防範此類攻擊提供借鑑。"
-    },
-    {
-      "id": "5155211",
-      "time": "2026-10-20 14:13:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【法國總理稱今晚可再次區域性宵禁】法國總理勒科爾尼今天（10月20日）表示，在數日抗議活動演變為暴力衝突後，巴黎部分地區及其他城市實施的“針對性宵禁”有效維持了夜間的秩序。他說，各地方政府今晚將有權在認為必要的區域再次實施“針對性宵禁”。巴黎、里昂、里爾、尼斯等多座城市當地時間10月19日夜間至今天凌晨實施區域性宵禁，以防騷亂重演。法國10月17日爆發全國性示威，遍及巴黎、里昂、里爾、馬賽、波爾多、斯特拉斯堡等多座城市。據政府統計，法國全國至少3000家商鋪遭劫掠。 （CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:593317",
-      "time": "2026-10-20 14:12:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Eases Slightly After Trimming Early Losses — The ASX 200 fell 29 points, or 0.3%, to close at 8,817 on Tuesday, reversing gains in the prior two sessions and retreating from a near five-week high, as weaker U.S. stock futures and mounting concerns over AI spending weighed on sentiment. Locally, Reserve Bank of Australia Assistant Governor Kent cautioned against over-interpreting monthly labor market data but noted easing, with September employment unexpectedly down while the jobless rate stayed at 4.7%, a five-year high. Still, early weakness was cut as China’s Q3 GDP and September activity beat forecasts, buoyed by Golden Week demand. Logistics, tech, energy, and non-energy minerals dragged the index, with BHP Group (-1.6%), South32 (-2.4%), Northern Star Resources (-1.7%), and Ramsay Health Care (-1.6%) among notable laggards. Three of the big four banks fell between 0.8%–1.8%. In contrast, Cochlear Ltd. surged 5.2% as shorter-term fiscal 2027 revenue targets looked achievable despite rising competition."
-    },
-    {
-      "id": "5155210",
-      "time": "2026-10-20 14:11:50",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【摩根大通CEO：已為股市暴跌40%做好準備】當地時間10月19日，摩根大通CEO Jamie Dimon表示已為股市暴跌40%等極端情景做好準備，但他強調這不是預測衰退時點。摩根大通深入分析各類風險，確保無論利率、通脹如何變化都能承受，以在壞時期繼續服務客戶，誠實面對不確定性，用資本與流動性把風險轉化為可承受代價。"
-    },
-    {
-      "id": "5155209",
-      "time": "2026-10-20 14:11:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：財政可持續性完全是一項既定前提。"
-    },
-    {
-      "id": "5155208",
-      "time": "2026-10-20 14:11:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌5%，現報2637.00點。"
-    },
-    {
-      "id": "5155207",
-      "time": "2026-10-20 14:11:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "英美資源集團預計2026年鑽石產量將從2100萬至2600萬克拉增至2500萬至2800萬克拉。"
-    },
-    {
-      "id": "5155206",
-      "time": "2026-10-20 14:10:44",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【七部門：支援有條件的地區打造千億級廣告產業叢集】市場監管總局等七部門印發《廣告產業發展“十五五”規劃》。其中提到，推動區域特色集聚發展。堅持因地制宜，引導各地區立足自身條件走特色化、差異化發展道路。強化東部地區創新策源功能，發展數智廣告、品牌戰略等高階服務。鼓勵中西部及東北地區挖掘本地獨特資源，發展具有地域標識的廣告創意與營銷服務。推動各地廣告產業與支柱產業、主導產業深度融合，打造“一區域一品牌”。支援有條件的地區打造千億級廣告產業叢集。完善廣告產業園區數字基建、智慧運營等公共服務平臺，打造數智時代新型創業社群。"
-    },
-    {
-      "id": "5155205",
-      "time": "2026-10-20 14:10:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：不打算施壓以壓低價格。"
-    },
-    {
-      "id": "5155204",
-      "time": "2026-10-20 14:10:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：融資融券板塊淨流出超163億】截至目前，今日主力資金淨流出175.14億；淨流入機器人概念、人形機器人、MR頭顯等板塊，其中機器人概念板塊淨流入53.77億；淨流出融資融券、轉融券標的、政府控股等板塊，其中融資融券板塊淨流出163.32億。\n  \n個股方面，長盈精密淨買入6.30億元位居首位，瑞芯微、超聲電子、移遠通訊主力資金淨流入居前；長鑫科技淨賣出17.14億元位居首位，寧德時代、洛陽鉬業、新易盛淨流出額居前。"
-    },
-    {
-      "id": "5155203",
-      "time": "2026-10-20 14:09:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：海灣合作委員會引領新興市場ESG美元發行；集中度依然很高。"
     }
   ]
 }
