@@ -1,7 +1,68 @@
 {
   "date": "2026-10-28",
-  "count": 351,
+  "count": 358,
   "items": [
+    {
+      "id": "5173723",
+      "time": "2026-10-28 05:08:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行：強烈的厄爾尼諾現象已影響全球食品價格。"
+    },
+    {
+      "id": "5173721",
+      "time": "2026-10-28 05:07:17",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行：國內投資前景繼續向好。"
+    },
+    {
+      "id": "mkt:01a17f30-2179-7ee0-a9a1-fec650b04940",
+      "time": "2026-10-28 05:07:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A State Dept official said the U.S. will issue visas to Flavio Bolsonaro, who lost Brazil's presidential election, and his family, and permit their entry into the United States."
+    },
+    {
+      "id": "5173720",
+      "time": "2026-10-28 05:06:53",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "智利央行：市場對短期CPI的預期已大幅上升。"
+    },
+    {
+      "id": "5173719",
+      "time": "2026-10-28 05:06:12",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務院高階官員表示，國務院將向弗拉維奧·博索納羅及其家人發放簽證，並允許他們進入美國。"
+    },
+    {
+      "id": "mkt:01a17f2f-4c42-7ee0-a9a1-f240f9fb7813",
+      "time": "2026-10-28 05:06:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of Chile said its C.BANK will closely monitor signs that transmission of inf shocks is intensifying or becoming persistent."
+    },
+    {
+      "id": "5173718",
+      "time": "2026-10-28 05:06:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西博索納羅競選陣營負責人：博索納羅沒有透露任何離境安排。"
+    },
     {
       "id": "mkt:01a17f2e-c083-7ee0-a9a1-ed7c7003f1d5",
       "time": "2026-10-28 05:05:32",

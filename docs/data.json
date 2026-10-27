@@ -1,7 +1,68 @@
 {
-  "updated": "2026-10-28 05:06:35",
-  "count": 12986,
+  "updated": "2026-10-28 05:10:30",
+  "count": 12989,
   "items": [
+    {
+      "id": "5173723",
+      "time": "2026-10-28 05:08:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行：強烈的厄爾尼諾現象已影響全球食品價格。"
+    },
+    {
+      "id": "5173721",
+      "time": "2026-10-28 05:07:17",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行：國內投資前景繼續向好。"
+    },
+    {
+      "id": "mkt:01a17f30-2179-7ee0-a9a1-fec650b04940",
+      "time": "2026-10-28 05:07:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A State Dept official said the U.S. will issue visas to Flavio Bolsonaro, who lost Brazil's presidential election, and his family, and permit their entry into the United States."
+    },
+    {
+      "id": "5173720",
+      "time": "2026-10-28 05:06:53",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "智利央行：市場對短期CPI的預期已大幅上升。"
+    },
+    {
+      "id": "5173719",
+      "time": "2026-10-28 05:06:12",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務院高階官員表示，國務院將向弗拉維奧·博索納羅及其家人發放簽證，並允許他們進入美國。"
+    },
+    {
+      "id": "mkt:01a17f2f-4c42-7ee0-a9a1-f240f9fb7813",
+      "time": "2026-10-28 05:06:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of Chile said its C.BANK will closely monitor signs that transmission of inf shocks is intensifying or becoming persistent."
+    },
+    {
+      "id": "5173718",
+      "time": "2026-10-28 05:06:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西博索納羅競選陣營負責人：博索納羅沒有透露任何離境安排。"
+    },
     {
       "id": "mkt:01a17f2e-c083-7ee0-a9a1-ed7c7003f1d5",
       "time": "2026-10-28 05:05:32",
@@ -116629,43 +116690,6 @@
         "公司"
       ],
       "text": "厄瓜多國家石油公司向秘魯國家石油公司授予兩份原油出口合同，出口量約 1620 萬桶，預估收入 16.5 億美元。"
-    },
-    {
-      "id": "5156957",
-      "time": "2026-10-21 05:10:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "SpaceX首席財務官：公司有望在今年年底實現1000億美元年度經常性收入。截至9月30日本季度結束時，公司在手訂單規模達630億美元。"
-    },
-    {
-      "id": "te:economy:593552",
-      "time": "2026-10-21 05:09:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "API Crude Oil Stock Change",
-        "Importance 1"
-      ],
-      "text": "US Crude Inventories Fall More Than Expected — US crude oil inventories fell by 4.93 million barrels in the week ending October 16th, well above market expectations for a 1.3 million-barrel draw. This followed an 11.12 million-barrel decline in the previous week. Gasoline inventories fell by 2 million barrels, while distillate stocks dropped by 2.6 million barrels. Meanwhile, inventories at Cushing, Oklahoma, kept at the delivery hub for the WTI Crude futures contract, rose by 900,000 barrels, following an increase of 1.823 million barrels in the prior week. US oil production slipped to 13.679 million barrels per day in the week ending October 9th, down from 13.979 million barrels per day a week earlier."
-    },
-    {
-      "id": "mkt:01a15b24-49ff-7ee0-a911-e87c9a381f84",
-      "time": "2026-10-21 05:07:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Libya's House of Representatives rescinds resolution to sever political ties with Turkey】On the 20th Libya's House of Representatives said on social media it voted to rescind an earlier resolution to sever political relations with Turkey. The chamber also voted to approve the 2019 memorandum of understanding on Mediterranean maritime jurisdiction signed between the Government of National Accord and Turkey."
-    },
-    {
-      "id": "5156956",
-      "time": "2026-10-21 05:07:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【利比亞國民代表大會廢除其與土耳其斷交決議】利比亞國民代表大會20日在社交媒體宣佈，該機構當天經投票表決，廢除其此前“與土耳其斷絕政治關係的決議”。利國民代表大會同時表示，該機構當天還投票批准了2019年利比亞民族團結政府與土耳其簽署的有關地中海“海事管轄權”的諒解備忘錄。（新華社）"
     }
   ]
 }
