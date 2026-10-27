@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-28 05:40:55",
+  "updated": "2026-10-28 05:44:46",
   "count": 12986,
   "items": [
+    {
+      "id": "5173804",
+      "time": "2026-10-28 05:43:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "Visa執行長：使用AI代理的消費者“非常少”。"
+    },
+    {
+      "id": "5173803",
+      "time": "2026-10-28 05:42:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "Visa執行長：本季度是AI代理技術的轉折點。"
+    },
+    {
+      "id": "mkt:01a17f50-ee34-7ee0-a9a2-4a42eed729b2",
+      "time": "2026-10-28 05:42:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yisrael Beiteinu leader Lieberman said he was unsure whether polls accurately reflected the actual vote and expected final election results to be announced Friday morning."
+    },
+    {
+      "id": "5173802",
+      "time": "2026-10-28 05:40:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西將於11月4日啟動12月1日到期外匯掉期的展期操作。"
+    },
     {
       "id": "5173797",
       "time": "2026-10-28 05:37:49",
@@ -116599,44 +116631,6 @@
         "國際"
       ],
       "text": "城堡投資創始人格里芬：特朗普在解釋伊朗戰爭上做得非常糟糕。"
-    },
-    {
-      "id": "mkt:01a15b45-1191-7ee0-a912-757b4cf23516",
-      "time": "2026-10-21 05:43:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Castle Securities CEO Griffin said the AI sector is almost certainly in a bubble, though bubbles often accompany major technological breakthroughs. Corporates are scrutinizing invoices from ANTHROPIC and OpenAI, and some firms are finding it hard to extract value from AI."
-    },
-    {
-      "id": "mkt:01a15b43-fcd1-7ee0-a912-6de8531d5d14",
-      "time": "2026-10-21 05:42:24",
-      "tags": [
-        "MKT News",
-        "NFLX.O",
-        "Impact bullish"
-      ],
-      "text": "Netflix (NFLX.O): recent price increases have been effective, but there remains room to raise prices further in the US and Canadian markets."
-    },
-    {
-      "id": "mkt:01a15b43-f4f2-7ee0-a912-63c2b2a9ca6c",
-      "time": "2026-10-21 05:42:22",
-      "tags": [
-        "MKT News",
-        "NFLX.O",
-        "Impact bullish"
-      ],
-      "text": "Netflix (NFLX.O) said its strategy is unchanged: original series and films remain core, and the company reported strong performance in APAC, Latin America and EMEA."
-    },
-    {
-      "id": "5156976",
-      "time": "2026-10-21 05:41:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "Cadillac Mines 在 Galloway 的 Moriss 礦段，於先前鑽孔沿傾向下方約 75 米處鑽遇 4.4 米厚、品位 10.96 克 / 噸的金礦體，並發現第三條剪下帶。"
     }
   ]
 }
