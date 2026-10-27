@@ -1,7 +1,40 @@
 {
   "date": "2026-10-28",
-  "count": 405,
+  "count": 408,
   "items": [
+    {
+      "id": "te:markets:595545",
+      "time": "2026-10-28 06:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 1.13% — Top currency gainers are Brazilian Real (1.13%) and Dollar Index (0.38%). Biggest losers are Mexican Peso (-0.57%), Euro (-0.39%), Japanese Yen (-0.29%) and British Pound (-0.28%)."
+    },
+    {
+      "id": "5173817",
+      "time": "2026-10-28 06:13:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空：與專業航空飛行控制協會簽訂的新合同包含加薪條款，將立即生效。"
+    },
+    {
+      "id": "mkt:01a17f6c-def8-7ee0-a9a2-72919fa53b14",
+      "time": "2026-10-28 06:13:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Gurman: Touchscreen MacBook Pro could start at $2,899, setting new record】Tech reporter Mark Gurman wrote Apple plans to unveil new 14‑ and 16‑inch MacBook Pro models on Wednesday, adding higher‑priced options. The models are expected to feature an OLED XDR touchscreen and Dynamic Island — both firsts for Mac — and to push starting prices to new highs. Insiders told Gurman Apple has discussed pricing a new 14‑inch with the M5 Pro chip at $2,899, about $400 above the current M5 Pro 14‑inch. The existing non‑touch 16‑inch MacBook Pro starts at $2,999; the new 16‑inch would start at least $3,399. A $2,899 base for the 14‑inch would be the highest starting price for a MacBook Pro, surpassing the $2,799 17‑inch model from 2006."
+    },
     {
       "id": "mkt:01a17f65-3736-7ee0-a9a2-6f3e32068a47",
       "time": "2026-10-28 06:05:01",
