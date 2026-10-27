@@ -1,7 +1,167 @@
 {
-  "updated": "2026-10-28 00:59:27",
-  "count": 13091,
+  "updated": "2026-10-28 01:03:13",
+  "count": 13101,
   "items": [
+    {
+      "id": "5173434",
+      "time": "2026-10-28 01:02:37",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣五年期國債，得標利率4.845%，投標倍數2.33。"
+    },
+    {
+      "id": "te:markets:595510",
+      "time": "2026-10-28 01:02:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rise for 2nd Day — European equities rose for a second consecutive session on Tuesday, with the Stoxx 50 gaining 0.8% and the Stoxx 600 advancing 0.5%, supported by lower oil prices. Italy climbed 0.8%, while Germany and Spain added 0.7% and France rose 0.4%; the UK market bucked the trend, falling 0.7%. Mining and technology stocks led gains, while personal care and automakers underperformed. Brent crude declined amid renewed diplomatic efforts to end the US-Iran conflict. However, corporate earnings remained a source of pressure: HSBC fell 5.4% after missing third-quarter profit expectations, while Reckitt dropped 4.9% after lowering its sales outlook due to supply constraints in the US and weaker vitamin sales in China. Porsche gained 3.8%, as profitability proved resilient despite declining vehicle deliveries."
+    },
+    {
+      "id": "mkt:01a17e50-181f-7ee0-a99e-55b7deda2158",
+      "time": "2026-10-28 01:02:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 5-year Treasury auction (Oct. 27) — share of awards at the stop-out yield 98.6%, prior 30.34%."
+    },
+    {
+      "id": "mkt:01a17e50-0fe8-7ee0-a99e-4a4af2a6b936",
+      "time": "2026-10-28 01:02:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 5-year Treasury auction on Oct. 27 — stop-out yield 4.845%, prior 5.03%."
+    },
+    {
+      "id": "mkt:01a17e50-0e28-7ee0-a99e-448a11b4ca96",
+      "time": "2026-10-28 01:02:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 5-year Treasury auction Oct. 27: bid-cover ratio 2.33, prior 2.21."
+    },
+    {
+      "id": "mkt:01a17e4f-ee31-7ee0-a99e-3dd34bb441d6",
+      "time": "2026-10-28 01:02:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction Accepted at High (Oct.27) | actual 98.6% | previous 30.34%"
+    },
+    {
+      "id": "mkt:01a17e4f-ee2f-7ee0-a99e-35e9106d6272",
+      "time": "2026-10-28 01:02:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction Bid/Cover Ratio (Oct.27) | actual 2.33 | previous 2.21"
+    },
+    {
+      "id": "mkt:01a17e4f-edf8-7ee0-a99e-2bc9feb327be",
+      "time": "2026-10-28 01:02:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction High Yield Rate (Oct.27) | actual 4.845% | previous 5.03%"
+    },
+    {
+      "id": "5173433",
+      "time": "2026-10-28 01:02:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美光科技宣佈在美國愛達荷州新增逾6700萬美元社群投資，用於交通、住房和兒童領域。"
+    },
+    {
+      "id": "mkt:01a17e4f-7b8b-7ee0-a99e-22e8df4208ef",
+      "time": "2026-10-28 01:01:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report voter turnout at 66.7% as of 6:00 p.m. local time."
+    },
+    {
+      "id": "5173432",
+      "time": "2026-10-28 01:01:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債5年期收益率在700億美元拍賣前報4.841%。"
+    },
+    {
+      "id": "5173431",
+      "time": "2026-10-28 01:01:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "ASM國際三季度淨利潤3.081億歐元，分析師預期3.023億歐元。三季度運營利潤率32.7%，分析師預期32%。三季度毛利率52%，分析師預期50.8%。"
+    },
+    {
+      "id": "mkt:01a17e4e-7711-7ee0-a99e-1cda67387294",
+      "time": "2026-10-28 01:00:33",
+      "tags": [
+        "MKT News",
+        "MU.O"
+      ],
+      "text": "Micron Technology (MU.O) said it will invest over $67 million in community projects in Idaho, U.S., focused on transportation, housing and children’s programs."
+    },
+    {
+      "id": "5173430",
+      "time": "2026-10-28 01:00:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會起訴，試圖阻止猶他州關停合約交易市場。"
+    },
+    {
+      "id": "5173429",
+      "time": "2026-10-28 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.80%，滬銅收漲0.72%，滬鋁收漲0.79%，滬鋅收漲0.37%，滬鉛收漲0.92%，滬鎳收跌0.14%，滬錫收漲0.49%。氧化鋁夜盤收漲1.73%，鋁合金收漲0.61%。不鏽鋼夜盤收跌0.07%。"
+    },
+    {
+      "id": "mkt:01a17e4d-c604-7ee0-a99e-13ebeaa38179",
+      "time": "2026-10-28 00:59:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France’s army minister said switching from the abandoned European FCAS fighter project to a national independent program would have a \"negligible\" financial impact."
+    },
+    {
+      "id": "5173428",
+      "time": "2026-10-28 00:59:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國武裝部長沃特蘭：從已擱置的歐洲 FCAS 戰機專案轉向本國自研專案，在資金層面幾乎持平。"
+    },
     {
       "id": "mkt:01a17e4c-8287-7ee0-a99e-082df01a8c9f",
       "time": "2026-10-28 00:58:25",
@@ -117538,65 +117698,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基、芬蘭總統斯圖布和挪威首相斯特勒在與美國總統特使威特科夫會晤後舉行記者會。"
-    },
-    {
-      "id": "5156672",
-      "time": "2026-10-21 01:02:56",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行委員格林：經濟展現出驚人的韌性。"
-    },
-    {
-      "id": "5156671",
-      "time": "2026-10-21 01:02:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿卜耶伊遭無人機襲擊事件死亡人數升至226人】當地時間10月20日下午，阿卜耶伊地區代理資訊部長兼政府發言人約哈納·恩戈爾稱，19日無人機襲擊當地阿米耶特市場造成的死亡人數上升至226人。（央視新聞）"
-    },
-    {
-      "id": "5156670",
-      "time": "2026-10-21 01:02:25",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行委員格林：前瞻性資料顯示，薪資增速更接近3.5%。"
-    },
-    {
-      "id": "5156669",
-      "time": "2026-10-21 01:01:45",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行委員格林：第二輪效應的風險比我們想象的要大。"
-    },
-    {
-      "id": "5156668",
-      "time": "2026-10-21 01:00:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部長拉夫羅夫：西方將永遠不會再次成為“主導一切”的主要玩家，世界已經轉向了不同的方向。"
-    },
-    {
-      "id": "5156666",
-      "time": "2026-10-21 01:00:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "奈飛：計劃於2027年將廣告套餐擴充套件至15個新國家。"
-    },
-    {
-      "id": "5156665",
-      "time": "2026-10-21 01:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.53%，滬銅收漲0.61%，滬鋁收跌0.11%，滬鋅收漲0.37%，滬鉛收跌0.15%，滬鎳收漲1.53%，滬錫收漲1.70%。氧化鋁夜盤收漲0.38%，鋁合金收跌0.48%。不鏽鋼夜盤收漲0.07%。"
     }
   ]
 }
