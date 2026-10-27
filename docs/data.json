@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-28 05:48:32",
-  "count": 12985,
+  "updated": "2026-10-28 05:52:22",
+  "count": 12984,
   "items": [
+    {
+      "id": "5173810",
+      "time": "2026-10-28 05:51:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "Coinbase執行長：所有資產類別都在向鏈上遷移。"
+    },
+    {
+      "id": "5173809",
+      "time": "2026-10-28 05:51:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲本週維持利率不變的機率為92.8%】據CME“美聯儲觀察”：美聯儲本週維持利率不變的機率為92.8%，累計加息25個基點的機率為7.2%。美聯儲到12月維持利率不變的機率為16.4%，累計加息25個基點的機率77.7%，累計加息50個基點的機率為5.9%。"
+    },
+    {
+      "id": "mkt:01a17f57-9c2a-7ee0-a9a2-5020b5ff1f24",
+      "time": "2026-10-28 05:50:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yisrael Beiteinu leader Avigdor Lieberman said there must be an internal revolt within Likud to oust Benjamin Netanyahu."
+    },
     {
       "id": "5173806",
       "time": "2026-10-28 05:44:39",
@@ -116581,41 +116606,6 @@
         "央行"
       ],
       "text": "澳洲聯儲副主席Hauser：貨幣政策正在起效，但通脹前景趨於惡化。"
-    },
-    {
-      "id": "mkt:01a15b4d-0a14-7ee0-a912-826344e8ca00",
-      "time": "2026-10-21 05:52:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Tasnim: Iran's foreign minister Araghchi said if the Strait of Hormuz is to be opened, the corridor agreed between Iran and Oman would be the sole mutually accepted transit route for vessels, not any other route."
-    },
-    {
-      "id": "5156980",
-      "time": "2026-10-21 05:51:59",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲副主席Hauser：通脹已經在高位持續很長一段時間，我們不能允許通脹預期偏離目標區間。勞動力資料和住房相關指標已經出現一定放緩。"
-    },
-    {
-      "id": "5156979",
-      "time": "2026-10-21 05:50:48",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲副主席Hauser：通脹前景較此前預測惡化，略高於預期。"
-    },
-    {
-      "id": "5156978",
-      "time": "2026-10-21 05:48:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "城堡投資創始人格里芬：特朗普對盟友發起的關稅戰是一場災難，特朗普在中期選舉前的成績喜憂參半。"
     }
   ]
 }

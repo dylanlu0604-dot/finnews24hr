@@ -1,7 +1,32 @@
 {
   "date": "2026-10-28",
-  "count": 393,
+  "count": 396,
   "items": [
+    {
+      "id": "5173810",
+      "time": "2026-10-28 05:51:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "Coinbase執行長：所有資產類別都在向鏈上遷移。"
+    },
+    {
+      "id": "5173809",
+      "time": "2026-10-28 05:51:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲本週維持利率不變的機率為92.8%】據CME“美聯儲觀察”：美聯儲本週維持利率不變的機率為92.8%，累計加息25個基點的機率為7.2%。美聯儲到12月維持利率不變的機率為16.4%，累計加息25個基點的機率77.7%，累計加息50個基點的機率為5.9%。"
+    },
+    {
+      "id": "mkt:01a17f57-9c2a-7ee0-a9a2-5020b5ff1f24",
+      "time": "2026-10-28 05:50:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yisrael Beiteinu leader Avigdor Lieberman said there must be an internal revolt within Likud to oust Benjamin Netanyahu."
+    },
     {
       "id": "5173806",
       "time": "2026-10-28 05:44:39",
