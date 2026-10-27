@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-28 00:55:37",
-  "count": 13092,
+  "updated": "2026-10-28 00:59:27",
+  "count": 13091,
   "items": [
+    {
+      "id": "mkt:01a17e4c-8287-7ee0-a99e-082df01a8c9f",
+      "time": "2026-10-28 00:58:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "Fars News reported the Iranian and Russian presidents focused talks on energy cooperation—including deeper oil and gas collaboration—expanded trade, and advancing joint projects that leverage mutual complementarities."
+    },
+    {
+      "id": "mkt:01a17e4a-82d3-7ee0-a99e-029ce09d1239",
+      "time": "2026-10-28 00:56:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said bilateral trade between Russia and Iran rose 10.4% YoY through August 2026."
+    },
     {
       "id": "5173427",
       "time": "2026-10-28 00:55:06",
@@ -117577,30 +117597,6 @@
         "市場"
       ],
       "text": "【夜盤期貨收盤】國際銅夜盤收漲0.53%，滬銅收漲0.61%，滬鋁收跌0.11%，滬鋅收漲0.37%，滬鉛收跌0.15%，滬鎳收漲1.53%，滬錫收漲1.70%。氧化鋁夜盤收漲0.38%，鋁合金收跌0.48%。不鏽鋼夜盤收漲0.07%。"
-    },
-    {
-      "id": "5156663",
-      "time": "2026-10-21 00:58:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國網站顯示，Revolut服務在中斷後開始恢復上線。"
-    },
-    {
-      "id": "5156662",
-      "time": "2026-10-21 00:57:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊朗革命衛隊表示，船東和船員需對在波斯灣和阿曼海使用未經授權航線負責，違反霍爾木茲海峽安全規定的行為將受到果斷處置。"
-    },
-    {
-      "id": "5156661",
-      "time": "2026-10-21 00:56:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議會議長會見巴基斯坦陸軍總參謀長 談及伊美局勢】當地時間20日，伊朗議會議長卡利巴夫會見巴基斯坦陸軍總參謀長穆尼爾。卡利巴夫表示，美國長期以來對伊朗的負面行動，使伊朗對美國極度不信任。如今，特朗普政府違反了《伊斯蘭堡諒解備忘錄》，一再的威脅更加劇了這種不信任。美國若不履行伊朗提出的七項條件，便無法贏得伊朗的信任。軍事威脅和行動不能影響伊朗的戰略決策。正是美國誤判形勢，發動對伊朗的戰爭，才使其陷入泥潭，現在他們必須採取必要措施脫身。（央視新聞）"
     }
   ]
 }

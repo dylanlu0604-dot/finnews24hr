@@ -1,7 +1,27 @@
 {
   "date": "2026-10-28",
-  "count": 67,
+  "count": 69,
   "items": [
+    {
+      "id": "mkt:01a17e4c-8287-7ee0-a99e-082df01a8c9f",
+      "time": "2026-10-28 00:58:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "Fars News reported the Iranian and Russian presidents focused talks on energy cooperation—including deeper oil and gas collaboration—expanded trade, and advancing joint projects that leverage mutual complementarities."
+    },
+    {
+      "id": "mkt:01a17e4a-82d3-7ee0-a99e-029ce09d1239",
+      "time": "2026-10-28 00:56:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said bilateral trade between Russia and Iran rose 10.4% YoY through August 2026."
+    },
     {
       "id": "5173427",
       "time": "2026-10-28 00:55:06",
