@@ -1,7 +1,49 @@
 {
   "date": "2026-10-28",
-  "count": 379,
+  "count": 384,
   "items": [
+    {
+      "id": "5173770",
+      "time": "2026-10-28 05:27:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：偷偷出境，說明你有所虧欠。"
+    },
+    {
+      "id": "5173768",
+      "time": "2026-10-28 05:26:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客獲兩份新增伽利略衛星合同。"
+    },
+    {
+      "id": "5173767",
+      "time": "2026-10-28 05:26:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉：博索納羅家族就是這樣的人，巴西是他們的第二祖國，美國才是第一祖國。"
+    },
+    {
+      "id": "mkt:01a17f41-c383-7ee0-a9a2-3bd4366aa137",
+      "time": "2026-10-28 05:26:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President Lula said the Bolsonaro family considers Brazil their second homeland and the United States their first."
+    },
+    {
+      "id": "mkt:01a17f40-ef21-7ee0-a9a2-32611d6819f4",
+      "time": "2026-10-28 05:25:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said since President Trump took office the private sector has added more than 1 mln jobs, while the federal workforce fell by about 328k to its lowest level since the 1960s."
+    },
     {
       "id": "mkt:01a17f40-ca9d-7ee0-a9a2-2d7bef2d6cc1",
       "time": "2026-10-28 05:25:14",

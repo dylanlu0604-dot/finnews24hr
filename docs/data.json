@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-28 05:25:41",
-  "count": 12993,
+  "updated": "2026-10-28 05:29:27",
+  "count": 12994,
   "items": [
+    {
+      "id": "5173770",
+      "time": "2026-10-28 05:27:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：偷偷出境，說明你有所虧欠。"
+    },
+    {
+      "id": "5173768",
+      "time": "2026-10-28 05:26:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客獲兩份新增伽利略衛星合同。"
+    },
+    {
+      "id": "5173767",
+      "time": "2026-10-28 05:26:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉：博索納羅家族就是這樣的人，巴西是他們的第二祖國，美國才是第一祖國。"
+    },
+    {
+      "id": "mkt:01a17f41-c383-7ee0-a9a2-3bd4366aa137",
+      "time": "2026-10-28 05:26:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President Lula said the Bolsonaro family considers Brazil their second homeland and the United States their first."
+    },
+    {
+      "id": "mkt:01a17f40-ef21-7ee0-a9a2-32611d6819f4",
+      "time": "2026-10-28 05:25:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said since President Trump took office the private sector has added more than 1 mln jobs, while the federal workforce fell by about 328k to its lowest level since the 1960s."
+    },
     {
       "id": "mkt:01a17f40-ca9d-7ee0-a9a2-2d7bef2d6cc1",
       "time": "2026-10-28 05:25:14",
@@ -116678,43 +116720,6 @@
         "其他"
       ],
       "text": "城堡基金肯·格里芬：城堡證券大部分超額收益來自研究員。投資者在佈局人工智慧時正變得更加審慎。部分企業難以從人工智慧業務中兌現價值。"
-    },
-    {
-      "id": "5156970",
-      "time": "2026-10-21 05:28:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "肯·格里芬在全球市場未來大會上表示：AI模型進步“巨大”。"
-    },
-    {
-      "id": "mkt:01a15b35-4ba6-7ee0-a912-25e1e7d09d33",
-      "time": "2026-10-21 05:26:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "【Musk says merger of Tesla and SpaceX a good idea】Musk said SpaceX (SPCX.O) and Tesla (TSLA.O) have each formed special committees to discuss a potential merger, and that merging the two companies would be a good idea."
-    },
-    {
-      "id": "5156969",
-      "time": "2026-10-21 05:26:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：由於存在利益衝突，本人不能參與委員會的相關磋商。"
-    },
-    {
-      "id": "5156968",
-      "time": "2026-10-21 05:26:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙特主導聯軍稱摧毀胡塞武裝一處導彈發射平臺】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基20日晚在社交媒體上說，聯軍已摧毀葉門胡塞武裝向沙特首都利雅得發射彈道導彈所使用的一處平臺。馬利基當天稍早時說，聯軍攔截了一枚射向利雅得的胡塞武裝彈道導彈，並在利雅得省攔截摧毀一架無人機。新華社記者當天上午在利雅得兩次聽到爆炸聲。當地居民收到經由手機程式釋出的防空警報。（新華社）"
     }
   ]
 }
