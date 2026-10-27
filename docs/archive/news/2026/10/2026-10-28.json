@@ -1,7 +1,31 @@
 {
   "date": "2026-10-28",
-  "count": 54,
+  "count": 57,
   "items": [
+    {
+      "id": "mkt:01a17e41-0e2b-7ee0-a99d-da310332a720",
+      "time": "2026-10-28 00:45:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US strikes 'drug trafficking vessel' in eastern Pacific, kills five】On Oct. 27 local time US Southern Command said its Western Hemisphere Joint Task Force struck a \"speedboat operating on an established trafficking route\" in the eastern Pacific, killing five \"drug terrorists\". Since early Sept. 2025 the US has conducted multiple strikes in the Caribbean and eastern Pacific against US-claimed, so-called \"drug trafficking boats\", but has not released evidence linking targets to narcotics."
+    },
+    {
+      "id": "5173421",
+      "time": "2026-10-28 00:44:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝宣告：過去24小時內，沙特戰機從海米斯穆謝特和塔伊夫空軍基地出動F-15以及颱風戰機，對首都薩那、塔伊茲、拉赫季、薩達和荷臺達省的民用設施實施81次空襲與導彈打擊，同時從吉贊發動導彈襲擊，造成平民傷亡。自針對我方的衝突升級以來，沙特方面的空襲與導彈攻擊累計已達3379次。"
+    },
+    {
+      "id": "mkt:01a17e3f-2afa-7ee0-a99d-d3632b2bbdf1",
+      "time": "2026-10-28 00:43:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Houthi forces said Saudi warplanes carried out 81 airstrikes and missile attacks in the past 24 hours on the capital Sanaa and the provinces of Taiz and Lahj, bringing total Saudi airstrikes and missile attacks since the start of the escalation against Yemen to 3,379."
+    },
     {
       "id": "mkt:01a17e3e-6d5b-7ee0-a99d-ce8bdefe4983",
       "time": "2026-10-28 00:43:02",
