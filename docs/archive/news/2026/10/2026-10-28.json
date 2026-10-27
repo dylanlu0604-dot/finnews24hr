@@ -1,7 +1,37 @@
 {
   "date": "2026-10-28",
-  "count": 124,
+  "count": 127,
   "items": [
+    {
+      "id": "5173454",
+      "time": "2026-10-28 01:32:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大與阿聯酋簽署防務合作更新諒解備忘錄。"
+    },
+    {
+      "id": "5173453",
+      "time": "2026-10-28 01:30:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利經濟部長：預計評級機構將在未來幾周確認義大利的評級，由於中東局勢動盪，評級上調的可能性不大。"
+    },
+    {
+      "id": "mkt:01a17e69-d79e-7ee0-a99e-b5ccc7d47459",
+      "time": "2026-10-28 01:30:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Italy's economy minister said rating agencies are likely to confirm Italy's sovereign rating in the coming weeks, and an upgrade is unlikely amid turmoil in the Middle East."
+    },
     {
       "id": "mkt:01a17e68-c67b-7ee0-a99e-ad69d1622a6d",
       "time": "2026-10-28 01:29:18",
