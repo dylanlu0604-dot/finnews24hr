@@ -1,7 +1,133 @@
 {
   "date": "2026-10-27",
-  "count": 1542,
+  "count": 1556,
   "items": [
+    {
+      "id": "5172755",
+      "time": "2026-10-27 19:18:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【特力Ａ：2026年第三季度淨利潤3674.14萬元，同比下降7.19%】特力Ａ公告，2026年第三季度營業收入9835.13萬元，同比下降65.92%；淨利潤3674.14萬元，同比下降7.19%；扣非淨利潤3475.12萬元，同比下降13.50%。2026年前三季度營業收入3.91億元，同比下降66.53%；淨利潤1.21億元，同比下降1.76%；扣非淨利潤1.13億元，同比下降3.35%。"
+    },
+    {
+      "id": "5172754",
+      "time": "2026-10-27 19:18:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "Raymond James將微軟目標價從540美元上調至630美元。"
+    },
+    {
+      "id": "mkt:01a17d14-cfa3-7ee0-a995-3bbbb343650d",
+      "time": "2026-10-27 19:17:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Reserve Bank of India deputy governor: Emerging markets must bolster domestic financing capacity】Reserve Bank of India deputy governor Punam Gupta said on Tuesday that external capital flows are highly unstable and emerging markets, including India, need to strengthen domestic financing capacity and build buffers to withstand volatile foreign flows. She urged countries to reduce macro-level reliance on external financing. Despite rapid Indian growth, foreign funding has become less reliable, increasing depreciation pressure on the rupee. Through the fiscal year to March, capital inflows weakened sharply, forcing India to draw on FX reserves to plug external financing gaps. Earlier this month the RBI unveiled a package of measures aimed at curbing market bets on excessive rupee depreciation."
+    },
+    {
+      "id": "te:economy:595419",
+      "time": "2026-10-27 19:17:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Greece",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Greece Credit Growth Slows to Lowest in Over 2 Years — The annual growth of total credit extended to the Greek economy slowed to 2.4% in September 2026, its weakest pace since January 2024, down from 3.5% in August. Despite this deceleration, net lending flows turned positive, reaching €744 million after a €250 million outflow in the previous month. Credit growth to the private sector eased to 6% from 7.3%, although monthly net flows improved markedly to €735 million from €489 million. Meanwhile, credit to the general government contracted at a faster annual pace of 3.6%, compared with 2.7% in August. However, monthly net flows turned marginally positive at €9 million, following a €250 million decline in the previous month."
+    },
+    {
+      "id": "te:economy:595418",
+      "time": "2026-10-27 19:17:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Producer Prices Change",
+        "Importance 0"
+      ],
+      "text": "Ireland Wholesale Inflation Highest Since 2022 — Wholesale prices in Ireland rose 7.4% year-on-year in September 2026, marking the highest level since October 2022, accelerating from a 6.5% increase in August. Domestic prices increased 2.4%, while export producer prices rose 8.1%. Producer prices recorded notable year-on-year increases in chemicals and chemical products (16.5%), other non-metallic mineral products (6.3%), electrical equipment (6.1%), fabricated metal products excluding machinery and equipment (5.5%), and basic metals (5.1%). Food products rose 1.2%, driven by fish and fish products (9.6%) and other food products (6.3%), while meat and meat products fell 9.4%. Meanwhile, energy fuels surged 47.6%, electricity prices jumped 92.8%, and construction products rose 3.8%. On a monthly basis, wholesale prices rose 0.5% in September, reversing a 0.8% decline in August."
+    },
+    {
+      "id": "mkt:01a17d13-c7d1-7ee0-a995-379433cc58e9",
+      "time": "2026-10-27 19:16:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India's 10-year government bond yield fell 5bps to 7.43%."
+    },
+    {
+      "id": "5172752",
+      "time": "2026-10-27 19:16:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【青島食品：華通集團擬向青啤集團轉讓29.24%股份，交易條款磋商中】青島食品公告，公司股票於2026年10月26日、2026年10月27日連續二個交易日收盤價格漲幅偏離值累計達到20%以上。經核查，控股股東華通集團正籌劃以非公開協議方式向青啤集團轉讓5701.76萬股公司股份，佔公司股份總數的29.24%；交易協議尚未簽署，雙方正在論證和磋商交易價格等核心條款。若交易完成，青啤集團將成為公司控股股東。"
+    },
+    {
+      "id": "5172751",
+      "time": "2026-10-27 19:16:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伊拉克首都巴格達傳出多次爆炸聲】當地時間27日，位於伊拉克首都巴格達南部的多拉區和巴格達東部的魯薩法區傳出多次爆炸聲，爆炸原因尚不明確。（央視新聞）"
+    },
+    {
+      "id": "5172750",
+      "time": "2026-10-27 19:16:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度10年期國債收益率下跌5個基點，至7.43%。"
+    },
+    {
+      "id": "mkt:01a17d12-c0f1-7ee0-a995-2e8e9715ffdd",
+      "time": "2026-10-27 19:15:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA reported an attack in Russia's Belgorod region that killed one person."
+    },
+    {
+      "id": "5172748",
+      "time": "2026-10-27 19:15:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石化提前發力為冬供蓄能】供暖季臨近，中國石化各單位按照集團公司黨組部署，以紮實舉措做好天然氣保供準備。從氣田到管網、從儲氣庫到LNG接收站，各單位抓實新井上產與老區穩產，倒排節點組織增產；對裝置設施進行專項檢維修，開展隱患排查治理；最佳化船期安排，提升接卸週轉效率，全力以赴守護千家萬戶溫暖過冬。（上海石油天然氣交易中心）"
+    },
+    {
+      "id": "5172747",
+      "time": "2026-10-27 19:15:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯別爾哥羅德州遭襲致一人死亡。"
+    },
+    {
+      "id": "5172746",
+      "time": "2026-10-27 19:14:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【辰安科技：2026年第三季度淨利潤虧損6724.93萬元】辰安科技公告，2026年第三季度營業收入2.91億元，同比增長38.72%；淨利潤虧損6724.93萬元，扣非淨利潤虧損7056.03萬元。2026年前三季度營業收入8.68億元，同比增長13.09%；淨利潤虧損1.26億元，扣非淨利潤虧損1.38億元。"
+    },
+    {
+      "id": "5172745",
+      "time": "2026-10-27 19:14:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱俄軍對烏克蘭基礎設施襲擊“嚴重升級”】烏克蘭總統澤連斯基27日在社交媒體發文稱，俄羅斯軍隊對烏克蘭基礎設施的襲擊“嚴重升級”。 澤連斯基表示，俄軍26日晚對烏克蘭一所大學及其周邊地區發動襲擊，已造成12人受傷，其中包括5名大學生和校方人員。烏方開展緊急救援工作時，俄軍發動了新一輪彈道導彈襲擊。 澤連斯基還稱，俄軍當天夜間發射了16枚彈道導彈和超過280架無人機。烏克蘭基輔州、文尼察州、扎波羅熱州等地報告遭到襲擊。俄軍的打擊目標為烏能源設施、物流設施和城市基礎設施。(新華社)"
+    },
     {
       "id": "5172743",
       "time": "2026-10-27 19:13:25",
