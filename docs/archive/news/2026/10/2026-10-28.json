@@ -1,7 +1,20 @@
 {
   "date": "2026-10-28",
-  "count": 404,
+  "count": 405,
   "items": [
+    {
+      "id": "mkt:01a17f65-3736-7ee0-a9a2-6f3e32068a47",
+      "time": "2026-10-28 06:05:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Tech reporter Mark Gurman says Apple (AAPL.O) is betting consumers will pay a premium for MacBook Pro models equipped with a touchscreen."
+    },
     {
       "id": "mkt:01a17f63-6e5b-7ee0-a9a2-65aa02a091cc",
       "time": "2026-10-28 06:03:04",
