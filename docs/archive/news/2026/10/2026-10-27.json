@@ -1,7 +1,3120 @@
 {
   "date": "2026-10-27",
-  "count": 1192,
+  "count": 1542,
   "items": [
+    {
+      "id": "5172743",
+      "time": "2026-10-27 19:13:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【股票型ETF連續16個交易日淨流入】10月27日，多隻中證A500ETF成交顯著放量。從近期資金流向看，大量資金借道ETF入市。9月28日以來，截至10月26日，股票型ETF連續16個交易日淨流入，合計淨流入近3500億元。（上海證券報）"
+    },
+    {
+      "id": "mkt:01a17d10-0a58-7ee0-a995-2424274cf329",
+      "time": "2026-10-27 19:12:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PBOC vice governor and SAFE head Zhu Hexin meets Peterson Institute delegation】PBOC vice governor and State Administration of Foreign Exchange (SAFE) head Zhu Hexin met visiting Peterson Institute for International Economics president Adam Posen, former De Nederlandsche Bank governor Klaas Knot and former Bank of Korea governor Lee Chang-yong to discuss the international economic and financial outlook; SAFE deputy governors Li Hongyan and Li Bin attended."
+    },
+    {
+      "id": "5172740",
+      "time": "2026-10-27 19:12:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傑普特：2026年第三季度淨利潤2.33億元，同比增長114.15%】傑普特公告，2026年第三季度營業收入11.43億元，同比增長81.86%；歸母淨利潤2.33億元，同比增長114.15%；扣非淨利潤2.31億元，同比增長114.61%。2026年前三季度營業收入26.3億元，同比增長74.28%；歸母淨利潤4.28億元，同比增長109.99%；扣非淨利潤4.24億元，同比增長112.88%。"
+    },
+    {
+      "id": "5172739",
+      "time": "2026-10-27 19:12:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美企擬培育“超級軍犬”投入戰場】據美國《華爾街日報》網站10月23日報道，美軍長期寄望透過各類新技術，讓士兵在未來戰場上佔據優勢。如今有一家初創企業想讓軍犬也獲得類似優勢：透過對人類“最忠實的朋友”進行基因改造，使其跑得更快、嗅覺更靈敏，同時規避常見的遺傳性疾病。 打造“超級軍犬”的想法，最初由防務技術企業安杜里爾工業公司聯合創始人帕爾默·勒基，與生物工程企業科洛薩爾生物科學公司的聯合創始人本·拉姆共同提出。（參考訊息）"
+    },
+    {
+      "id": "5172738",
+      "time": "2026-10-27 19:11:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【偉測科技：2026年第三季度淨利潤8754.19萬元，同比下降13.63%】偉測科技公告，2026年第三季度營業收入6.09億元，同比增長35.86%；歸母淨利潤8754.19萬元，同比下降13.63%；扣非淨利潤7058.47萬元，同比下降21.73%。2026年前三季度營業收入16.81億元，同比增長55.27%；歸母淨利潤2.47億元，同比增長21.94%；扣非淨利潤2.16億元，同比增長50.34%。"
+    },
+    {
+      "id": "5172736",
+      "time": "2026-10-27 19:11:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【偉測科技：董事會透過10億元總部基地二期投資】偉測科技公告，公司此前已開展上海總部基地專案建設，本次擬投資10億元建設上海總部基地二期專案，包含土地出讓金、廠房建設及裝置購置費等。該事項已獲第三屆董事會第七次會議審議透過，專案目前尚處於准入申請環節，後續將參與土地使用權招拍掛並辦理相關審批或備案。"
+    },
+    {
+      "id": "5172735",
+      "time": "2026-10-27 19:11:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【中國人民銀行副行長、國家外匯管理局局長朱鶴新會見彼得森國際經濟研究所代表團】近日，中國人民銀行副行長、國家外匯管理局局長朱鶴新會見來訪的彼得森國際經濟研究所長亞當·波森、荷蘭央行前行長克拉斯·諾特、韓國央行前行長李昌鏞。雙方就國際經濟金融形勢進行了交流。國家外匯管理局副局長李紅燕、李斌陪同會見。(外管局)"
+    },
+    {
+      "id": "mkt:01a17d0e-95be-7ee0-a995-1d9dd4ba5bc0",
+      "time": "2026-10-27 19:11:10",
+      "tags": [
+        "MKT News",
+        "GLW.N",
+        "Impact bullish"
+      ],
+      "text": "Corning (GLW.N) shares rose 2.9% premarket after the company said it expects fourth-quarter revenue and EPS to exceed expectations."
+    },
+    {
+      "id": "5172733",
+      "time": "2026-10-27 19:11:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德賽西威：惠創投向惠州產投集團轉讓6%股份，剩餘70%價款限10個工作日內支付】德賽西威公告，公司此前披露，持股5%以上股東惠州市創新投資有限公司擬向惠州市產業投資集團有限公司協議轉讓3580.86萬股，佔公司總股本的6%。2026年10月27日，公司收到通知，受讓方已支付股份總轉讓價款30%作為履約保證金；雙方簽署補充協議，約定受讓方在補充協議簽訂之日起10個工作日內支付剩餘70%轉讓款人民幣22.53億元。本次轉讓尚需取得深交所合規性確認並辦理股份過戶登記。"
+    },
+    {
+      "id": "5172732",
+      "time": "2026-10-27 19:10:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "Needham將安靠科技（Amkor Technology）目標價從90美元下調至55美元。"
+    },
+    {
+      "id": "5172731",
+      "time": "2026-10-27 19:10:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立昂技術：2026年第三季度淨利潤357.38萬元，同比增長1,768.69%】立昂技術公告，2026年第三季度營業收入1.56億元，同比下降20.38%；歸母淨利潤357.38萬元，同比增長1,768.69%；扣非淨利潤334.73萬元，同比增長374.84%。2026年前三季度營業收入5.15億元，同比下降9.95%；歸母淨利潤虧損4534.55萬元，扣非淨利潤虧損4984.33萬元。"
+    },
+    {
+      "id": "5172730",
+      "time": "2026-10-27 19:10:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創業慧康：2026年第三季度淨利潤虧損1.14億元】創業慧康公告，2026年第三季度營業收入2.34億元，同比下降18.05%；歸屬於上市公司股東的淨利潤虧損1.14億元，扣非淨利潤虧損1.16億元。2026年前三季度營業收入6.88億元，同比下降20.13%；歸屬於上市公司股東的淨利潤虧損3.11億元，扣非淨利潤虧損3.2億元。"
+    },
+    {
+      "id": "mkt:01a17d0d-35a0-7ee0-a995-167eed699d99",
+      "time": "2026-10-27 19:09:39",
+      "tags": [
+        "MKT News",
+        "ENI.MI"
+      ],
+      "text": "ENI CEO says it's too early to seek additional partners for Venezuela's Perla gas field."
+    },
+    {
+      "id": "5172729",
+      "time": "2026-10-27 19:08:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST諾泰：2026年第三季度淨利潤1.2億元，同比下降10.72%】ST諾泰公告，2026年第三季度營業收入6.08億元，同比增長26.92%；歸母淨利潤1.2億元，同比下降10.72%；扣非淨利潤1.23億元，同比下降6.19%。2026年前三季度營業收入17.47億元，同比增長14.43%；歸母淨利潤3.35億元，同比下降24.61%；扣非淨利潤3.72億元，同比下降14.89%。"
+    },
+    {
+      "id": "5172728",
+      "time": "2026-10-27 19:08:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SOFI TECHNOLOGIES 股價盤前上漲 4.8%，此前公司上調了年度營收預期。"
+    },
+    {
+      "id": "mkt:01a17d0b-5d43-7ee0-a995-0ffdeda556cd",
+      "time": "2026-10-27 19:07:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "【China's Canton Fair Phase II closes with 278,000 overseas buyers; attendance up 13.4%】The 140th Canton Fair's second-phase in-person exhibition closed as of 17:00 on Oct 27. 278,000 overseas buyers from 218 countries and regions attended, up 13.4% versus the previous comparable session. 152 overseas trade bodies and 384 leading buyer firms participated in delegations."
+    },
+    {
+      "id": "5172727",
+      "time": "2026-10-27 19:07:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：家庭信貸不良資產已升至2012年以來的最高水平，且大多數貸款類別均出現這一趨勢。"
+    },
+    {
+      "id": "5172725",
+      "time": "2026-10-27 19:07:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西甲聯盟致歉】西甲聯盟稱：對於基利安·姆巴佩近期言論給中國球迷帶來的冒犯與傷害，西甲聯盟深感遺憾。相關言論屬於球員個人表達，絕不代表西甲聯盟的立場。作為聯賽管理機構，在我們應承擔的責任範圍內，西甲聯盟謹代表聯盟及旗下所有俱樂部，向中國球迷致以誠摯的歉意。 西班牙足球始終秉持尊重、和諧共處的理念，致力於促進不同文化背景的人們團結相連。我們始終對中國、各相關機構及中國人民懷有深切的敬意，也無比珍視數百萬中國球迷每週給予我們的關注與支援。我們在此重申，將一如既往地珍惜並維護多年來與中國建立的深厚關係。 目前，西甲聯盟正與中國的合作伙伴及相關機構共同努力，妥善處理此次事件。此外，我們將攜手各俱樂部及球員，建立並推行文化認知與溝通規範，進一步促進對不同文化的理解與尊重，努力避免類似情況再次發生。 （北京青年報）"
+    },
+    {
+      "id": "te:markets:595417",
+      "time": "2026-10-27 19:06:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "IQVIA Holdings earnings above expectations at 3.34 USD — IQVIA Holdings (IQV) released earnings per share at 3.34 USD, compared to market expectations of 3.24 USD."
+    },
+    {
+      "id": "te:markets:595416",
+      "time": "2026-10-27 19:06:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "PayPal earnings above expectations at 1.45 USD — PayPal (PYPL) released earnings per share at 1.45 USD, compared to market expectations of 1.33 USD."
+    },
+    {
+      "id": "te:markets:595415",
+      "time": "2026-10-27 19:06:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "American Tower earnings above expectations at 1.64 USD — American Tower (AMT) released earnings per share at 1.64 USD, compared to market expectations of 1.59 USD."
+    },
+    {
+      "id": "te:markets:595414",
+      "time": "2026-10-27 19:06:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "HCA earnings below expectations at 7.22 USD — HCA (HCA) released earnings per share at 7.22 USD, compared to market expectations of 7.26 USD."
+    },
+    {
+      "id": "te:markets:595413",
+      "time": "2026-10-27 19:06:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Corning earnings above expectations at 0.91 USD — Corning (GLW) released earnings per share at 0.91 USD, compared to market expectations of 0.85 USD."
+    },
+    {
+      "id": "5172724",
+      "time": "2026-10-27 19:06:27",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲股市收復早盤跌幅，美伊重啟談判預期抵消滙豐財報利空】市場對美伊有望重啟談判以結束衝突的樂觀情緒，抵消了權重股滙豐控股不及預期的財報帶來的負面影響，歐洲股市回吐早前跌幅。倫敦時間上午11:01，斯托克歐洲600指數上漲0.2%。建築股與礦業股表現居前，個人護理板塊和能源板塊跌幅居前。伊朗最高領袖Mojtaba Khamenei表示願按照伊朗官員提出的條件推動結束衝突，布倫特原油下跌1%，報每桶115美元。個股方面，滙豐控股第三季度業績不及預期，且維持剩餘年度業績指引不變，股價下跌6.5%。保時捷股份公司儘管銷量再度大幅下滑，但盈利保持韌性，股價上漲4.5%。"
+    },
+    {
+      "id": "mkt:01a17d09-a29c-7ee0-a995-0599e89decbf",
+      "time": "2026-10-27 19:05:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's central bank says corporate and household debt‑servicing capacity still faces challenges."
+    },
+    {
+      "id": "5172722",
+      "time": "2026-10-27 19:05:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第140屆廣交會第二期線下展今日閉展 27.8萬名境外採購商到會】 今天，第140屆廣交會第二期線下展閉展。截至10月27日17時，共有來自218個國家和地區的27.8萬名境外採購商到會，比上屆同期增長13.4%；152家境外工商機構、384家頭部採購企業組團參會。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a17d09-0dde-7ee0-a994-fd9d6d2b61a1",
+      "time": "2026-10-27 19:05:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Westpac expects RBNZ to hike this week; OCR may reach 3.5% by Feb next year】Westpac expects the RBNZ to raise rates again this week, citing significant upside inflation risks versus the central bank’s prior forecasts and leaving scope for further tightening. Westpac forecasts another 25bps in December and a further hike in February next year that would lift the official cash rate to 3.5%, roughly the RBNZ’s estimate of neutral. Westpac expects the RBNZ to slow the pace of hikes thereafter."
+    },
+    {
+      "id": "mkt:01a17d08-fe52-7ee0-a994-f4ffa004e5e4",
+      "time": "2026-10-27 19:05:03",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Survey: BOC may hike as inflation-rebound risk rises】Most economists in a Wall Street Journal survey expect the BOC to raise rates on Wednesday, the bank's first hike in over three years. Governor MACKLEM has highlighted rising fuel costs that could push up non-energy goods prices, a key driver of market expectations for tightening. The survey and analysts report higher inflation expectations among firms and households, prompting a bias toward earlier action. Despite US trade-policy uncertainty, Canada’s economy remains relatively resilient with retail sales and exports beating forecasts. In the WSJ poll of 15 economists, 11 forecast a 25bp hike to a 2.50% overnight rate target and four expect no change; most still see at least one additional hike later despite some soft patches in the economy."
+    },
+    {
+      "id": "5172721",
+      "time": "2026-10-27 19:04:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "納指ETF國泰：本基金將於2026年10月28日開市起，至當日10:30停牌。\n全球晶片LOF：本基金將於2026年10月28日開市起停牌，自2026年10月28日10:30起復牌，停牌期間本基金贖回業務照常辦理。"
+    },
+    {
+      "id": "mkt:01a17d08-eba5-7ee0-a994-e8bcb4332098",
+      "time": "2026-10-27 19:04:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "NOVAK said Russia could reroute supplies and sell all its natural gas if Europe refuses."
+    },
+    {
+      "id": "mkt:01a17d08-a396-7ee0-a994-e78207521c36",
+      "time": "2026-10-27 19:04:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's central bank says there are no major risks to financial stability."
+    },
+    {
+      "id": "5172720",
+      "time": "2026-10-27 19:04:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：若歐洲拒絕，俄羅斯可改道並售出全部天然氣。"
+    },
+    {
+      "id": "5172719",
+      "time": "2026-10-27 19:04:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【康寧第三季度核心銷售額達50.8億美元，高於預期】康寧第三季度核心銷售額達50.8億美元，高於預期的50.2億美元。康寧盤前漲超5%。"
+    },
+    {
+      "id": "mkt:01a17d08-39b1-7ee0-a994-dc26f116f261",
+      "time": "2026-10-27 19:04:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's central bank said the labor market remains hot, but some indicators show signs of cooling."
+    },
+    {
+      "id": "mkt:01a17d08-2f90-7ee0-a994-d6075b4a54dd",
+      "time": "2026-10-27 19:04:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's central bank said the economy has been expanding at a more moderate pace."
+    },
+    {
+      "id": "5172718",
+      "time": "2026-10-27 19:03:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鈳銳鍶：科創板IPO發行價確定為45.37元/股】鈳銳鍶公告稱，公司首次公開發行股票並在科創板上市，經初步詢價及協商確定發行價格為45.37元/股，對應發行後扣非後市盈率41.86倍，未超出四數孰低值。本次發行股份1712.86萬股，佔發行後總股本25%，預計募集資金總額7.77億元。發行採用戰略配售、網下發行、網上發行結合方式，戰略配售342.572萬股，佔比20%；回撥前網下發行959.238萬股，網上發行411.05萬股。網上、網下申購日均為2026年10月29日，繳款日均為2026年11月2日。"
+    },
+    {
+      "id": "mkt:01a17d07-bad2-7ee0-a994-cdb67ef3ee2b",
+      "time": "2026-10-27 19:03:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Global Chip LOF will be suspended from market open on Oct 28, 2026 and will resume trading at 10:30 on Oct 28, 2026; redemptions will be processed normally during the suspension."
+    },
+    {
+      "id": "5172717",
+      "time": "2026-10-27 19:03:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海正藥業：簽署小核酸授權協議，首付款1000萬元】海正藥業公告，公司與蘇州炫景生物及其全資子公司簽署專利技術平臺及產品授權合作協議，擬引進小核酸開發專利技術平臺及處於臨床前早期開發階段的RGN6669產品，取得合作產品全球權利及獨家開發、註冊、生產和商業化權益。協議約定首付款1000萬元，開發里程碑付款累計不超過3.48億元，銷售里程碑付款累計不超過6.3億元；議案已獲董事會審議透過，尚需提交2026年第四次臨時股東會審議。"
+    },
+    {
+      "id": "5172716",
+      "time": "2026-10-27 19:03:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海正藥業：2026年第三季度淨利潤5.09億元，同比增長214.61%】海正藥業公告，2026年第三季度營業收入20.45億元，同比下降23.47%；歸母淨利潤5.09億元，同比增長214.61%；扣非淨利潤4.68億元，同比增長176.63%。2026年前三季度營業收入65.21億元，同比下降17.70%；歸母淨利潤11.46億元，同比增長148.56%；扣非淨利潤9.82億元，同比增長100.11%。公司稱，利潤總額增長主要受主營業務盈利能力提升與一次性處置收益共同影響。"
+    },
+    {
+      "id": "mkt:01a17d07-7825-7ee0-a994-c48fdf4742d6",
+      "time": "2026-10-27 19:03:23",
+      "tags": [
+        "MKT News",
+        "KO.N",
+        "Impact bullish"
+      ],
+      "text": "Coca-Cola Co (KO.N) shares rose about 1% in premarket trading after the company raised its full-year profit guidance."
+    },
+    {
+      "id": "mkt:01a17d07-6421-7ee0-a994-bc00a212bcfb",
+      "time": "2026-10-27 19:03:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Guotai NASDAQ ETF will suspend trading from market open on Oct. 28, 2026 until 10:30 a.m. that day."
+    },
+    {
+      "id": "5172715",
+      "time": "2026-10-27 19:03:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫銅漲幅擴大，現漲1.0%，最新報14471.05美元/噸。"
+    },
+    {
+      "id": "te:markets:595412",
+      "time": "2026-10-27 19:03:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Sherwin-Williams earnings above expectations at 3.63 USD — Sherwin-Williams (SHW) released earnings per share at 3.63 USD, compared to market expectations of 3.58 USD."
+    },
+    {
+      "id": "5172713",
+      "time": "2026-10-27 19:02:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青茂口岸智慧通關啟用四個月 使用人數創新高】10月27日，記者從珠海出入境邊防檢查總站青茂邊檢站獲悉，青茂口岸智慧通關啟用滿四個月，執行整體平穩有序。使用智慧快捷通道通關人數達到約884萬人次，佔總客流約57%，粵澳往來更加便捷。 該便民舉措實施是在“合作查驗一次放行”通關模式上又一次創新突破，實現“刷臉”代替“刷證”，進一步簡化了粵澳兩地居民及旅客跨境往來流程，提升了通關體驗。截至10月27日，該口岸累計授權備案人數約26萬人次。（大灣區之聲）"
+    },
+    {
+      "id": "5172712",
+      "time": "2026-10-27 19:02:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "COINSHARES：為股票回購做準備，公司早前出售了公司持有的以太坊（1660萬），以及公司持有的50%的Solana。"
+    },
+    {
+      "id": "5172711",
+      "time": "2026-10-27 19:02:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泛亞微透：具身智慧相關產品目前尚處於客戶測試驗證】泛亞微透(688386.SH)釋出異動公告，具身智慧行業尚處於商業化早期，技術成熟度、下游市場需求培育、產業鏈配套能力均存在不確定性。同時，物理AI技術從實驗室演示走向真實場景的規模化落地仍面臨感知精度、運動控制穩定性、資料積累及軟硬體協同等多重挑戰，相關技術路徑與商業模式的成熟尚需時間驗證。在具身智慧行業公司依託ePTFE核心材料平臺主要佈局電子皮膚基材、高耐彎折機器人線纜兩大產品，公司相關產品目前尚處於客戶測試驗證，小批次出貨階段，其技術路線、研發進度、效能表現及商業化應用均需持續驗證，存在較大不確定性。截至本公告日，公司相關產品2026年銷售金額佔2025年度營業收入的比重不超過1.00%，該業務目前對公司整體營業收入和利潤貢獻較小，短期內不會對公司經營業績產生重大影響，敬請關注投資風險。"
+    },
+    {
+      "id": "mkt:01a17d06-79dc-7ee0-a994-b1be08e77ed5",
+      "time": "2026-10-27 19:02:18",
+      "tags": [
+        "MKT News",
+        "PYPL.O",
+        "Impact bearish"
+      ],
+      "text": "PayPal (PYPL.O) is cutting more than 2,000 jobs and reducing management positions by over 25%."
+    },
+    {
+      "id": "5172710",
+      "time": "2026-10-27 19:02:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福元醫藥：2026年第三季度淨利潤8761.94萬元，同比下降18.47%】福元醫藥公告，2026年第三季度營業收入9.13億元，同比增長2.97%；歸母淨利潤8761.94萬元，同比下降18.47%；扣非淨利潤7976.84萬元，同比下降22.99%。2026年前三季度營業收入26.23億元，同比增長4.07%；歸母淨利潤2.74億元，同比下降27.05%；扣非淨利潤2.5億元，同比下降30.87%。"
+    },
+    {
+      "id": "5172709",
+      "time": "2026-10-27 19:02:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "PAYPAL：裁員超2000人；管理崗位縮減超25%。"
+    },
+    {
+      "id": "5172708",
+      "time": "2026-10-27 19:02:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝寶：最佳化外部服務；整合供應商；優先考慮投資國家。"
+    },
+    {
+      "id": "5172707",
+      "time": "2026-10-27 19:01:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝寶（PAYPAL）：在未來2-3年內，目標實現至少15億美元的總執行率節省，到年底實現約7億美元的執行率節省。"
+    },
+    {
+      "id": "5172706",
+      "time": "2026-10-27 19:01:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "PAYPAL股價在第三季度財報釋出後盤前下跌4.4%。"
+    },
+    {
+      "id": "mkt:01a17d05-ebc6-7ee0-a994-a82934478fc0",
+      "time": "2026-10-27 19:01:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Wall Street Journal survey: respondents say the BOC is eager to restore credibility around its 2% inf target; 11 of 15 economists expect a rate hike on Wednesday."
+    },
+    {
+      "id": "5172705",
+      "time": "2026-10-27 19:01:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：（關於俄美柴油交易）第四艘裝載俄羅斯柴油的油輪將於10月28日啟程；目前另有3艘油輪正在途中。"
+    },
+    {
+      "id": "5172704",
+      "time": "2026-10-27 19:01:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST英飛：全資子公司訴訟調解結案，涉7000萬股質押】*ST英飛公告，全資子公司新普互聯此前就掌酷公司逾期債權及劉肇懷提供的質押股份提起訴訟。近日，新普互聯收到深圳市中級人民法院《民事調解書》，各方一審調解結案。掌酷公司確認截至2026年7月28日應償還1.14億元，並按協議分期償還；如未按期足額履行，新普互聯有權申請強制執行並就質押的7000萬股股票行使質權。相關調解事項尚在履行中。"
+    },
+    {
+      "id": "5172703",
+      "time": "2026-10-27 19:01:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦KSE-100指數收漲0.9%，報164,467.20點。"
+    },
+    {
+      "id": "5172702",
+      "time": "2026-10-27 19:01:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華強北商家：記憶體條銷量大降】記者走訪廣東深圳華強北多家記憶體櫃檯，商家告訴記者，近期記憶體價格相比前期高點，出現了回撥，但是幅度都不大，16G、32G記憶體條分別下跌20元到50元，1T硬碟跌20元到30元，整體記憶體價格仍居高位。多位商家反映，10月份以來他們的銷量普遍下滑20%至30%，整個記憶體流通渠道甚至出現了價格倒掛的情況。(央視財經)"
+    },
+    {
+      "id": "5172701",
+      "time": "2026-10-27 19:01:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華天酒店：2026年第三季度歸母淨利潤虧損3611.57萬元】華天酒店公告，2026年第三季度營業收入1.44億元，同比下降0.85%；歸母淨利潤虧損3611.57萬元，扣非淨利潤虧損4091.15萬元。2026年前三季度營業收入3.84億元，同比下降3.44%；歸母淨利潤虧損1.49億元，扣非淨利潤虧損1.6億元。"
+    },
+    {
+      "id": "5172700",
+      "time": "2026-10-27 19:01:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中巖大地：2026年第三季度新簽訂單1.28億元】中巖大地公告，公司2026年第三季度新簽訂單14個，金額1.28億元；截至報告期末累計已簽約未完工訂單90個，金額5.92億元；三季度已中標尚未簽約訂單3個，金額641.77萬元。浙江金七門核電廠1、2號機組陸域形成基地及處理專案已完成專案施工的73.84%。"
+    },
+    {
+      "id": "mkt:01a17d05-1a67-7ee0-a994-a261542cee18",
+      "time": "2026-10-27 19:00:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Novak said on Russia-U.S. diesel shipments the fourth tanker carrying Russian diesel is due to depart on Oct. 28; three other tankers are currently en route."
+    },
+    {
+      "id": "5172699",
+      "time": "2026-10-27 19:00:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華鋒股份：暫緩投資建設2.1億元新疆專案】華鋒股份公告，公司此前擬由全資子公司與關聯方共同投資設立合資公司，建設年產400萬平方米高壓化成箔生產線，專案總投資2.1億元。目前專案建設用地已購置，並已投入部分建設資金。公司於2026年10月27日審議透過暫緩投資建設該專案，後續將根據市場情況及公司經營實際審慎研判是否繼續推進。"
+    },
+    {
+      "id": "5172698",
+      "time": "2026-10-27 19:00:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華鋒股份：2026年前三季度歸母淨利潤虧損3023.82萬元，上年同期虧損992.68萬元】華鋒股份公告，2026年第三季度營業收入3.39億元，同比增長22.86%；歸母淨利潤虧損934.01萬元，扣非淨利潤虧損1134.49萬元。2026年前三季度營業收入9.21億元，同比增長6.85%；歸母淨利潤虧損3023.82萬元，上年同期虧損992.68萬元；扣非淨利潤虧損3143.16萬元。"
+    },
+    {
+      "id": "5172697",
+      "time": "2026-10-27 19:00:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "PAYPAL仍然預測全年資本支出大約10億美元，預估9.441億美元。"
+    },
+    {
+      "id": "5172696",
+      "time": "2026-10-27 19:00:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【眾辰科技：2026年第三季度淨利潤4478.9萬元，同比下降8.44%】眾辰科技公告，2026年第三季度營業收入2.32億元，同比增長14.28%；歸母淨利潤4478.9萬元，同比下降8.44%；扣非淨利潤3628.38萬元，同比下降8.70%。2026年前三季度營業收入6.66億元，同比增長25.60%；歸母淨利潤1.42億元，同比增長1.66%；扣非淨利潤1.12億元，同比增長0.09%。"
+    },
+    {
+      "id": "5172695",
+      "time": "2026-10-27 19:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "PAYPAL預計全年調整後每股收益約為5.60美元，此前約為5.38美元。"
+    },
+    {
+      "id": "5172694",
+      "time": "2026-10-27 18:59:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【衛寧健康：2026年第三季度淨利潤虧損6415.51萬元】衛寧健康公告，2026年第三季度營業收入4.88億元，同比增長6.81%；淨利潤虧損6415.51萬元，扣非淨利潤虧損6147.41萬元。2026年前三季度營業收入14.82億元，同比增長14.38%；淨利潤虧損2.41億元，扣非淨利潤虧損2.47億元。"
+    },
+    {
+      "id": "5172693",
+      "time": "2026-10-27 18:59:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浩物股份：2026年第三季度淨利潤1139.33萬元，同比下降7.70%】浩物股份公告，2026年第三季度營業收入5.07億元，同比下降30.20%；淨利潤1139.33萬元，同比下降7.70%；扣非淨利潤995.67萬元，同比增長21.35%。2026年前三季度營業收入15.15億元，同比下降30.61%；淨利潤3009.39萬元，同比下降29.65%；扣非淨利潤2470.24萬元，同比下降29.27%。"
+    },
+    {
+      "id": "5172692",
+      "time": "2026-10-27 18:59:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金固股份：2026年第三季度淨利潤587.6萬元，同比下降49.93%】金固股份公告，2026年第三季度營業收入9.1億元，同比下降5.46%；歸母淨利潤587.6萬元，同比下降49.93%；扣非淨利潤619.49萬元，同比下降36.72%。2026年前三季度營業收入32億元，同比增長3.72%；歸母淨利潤5014.52萬元，同比增長19.37%；扣非淨利潤4818.8萬元，同比增長36.90%。"
+    },
+    {
+      "id": "te:markets:595410",
+      "time": "2026-10-27 18:59:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Johnson Controls earnings above expectations at 1.59 USD — Johnson Controls (JCI) released earnings per share at 1.59 USD, compared to market expectations of 1.52 USD."
+    },
+    {
+      "id": "5172691",
+      "time": "2026-10-27 18:58:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "卡達表示，伊朗需要開放霍爾木茲海峽，才能實現地區繁榮。"
+    },
+    {
+      "id": "te:markets:595408",
+      "time": "2026-10-27 18:58:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "European Bond Markets Mixed Ahead of Policy Decisions — European government bonds traded mixed, with Germany’s 10-year Bund yield easing to 3.34%, near its lowest level since early September, as renewed concerns over a prolonged Middle East conflict boosted safe-haven demand. Meanwhile, borrowing costs in France and Italy rose as investors took profits following sharp declines on Monday. French 10-year yields fell around 11 basis points on Monday after Moody’s affirmed the country’s sovereign credit rating. Weekend protests also passed without the widespread unrest seen the previous week, easing immediate concerns over domestic instability. Investors now await policy decisions from the European Central Bank and the US Federal Reserve. Both central banks are widely expected to keep interest rates unchanged this week, leaving markets focused on their forward guidance for clues about the future path of monetary policy."
+    },
+    {
+      "id": "5172690",
+      "time": "2026-10-27 18:58:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【八方股份：2026年第三季度淨利潤5103.92萬元，同比增長47.06%】八方股份公告，2026年第三季度營業收入4.6億元，同比增長17.57%；歸屬於上市公司股東的淨利潤5103.92萬元，同比增長47.06%；扣非淨利潤4739.27萬元，同比增長57.25%。2026年前三季度營業收入13.21億元，同比增長27.67%；歸屬於上市公司股東的淨利潤1.58億元，同比增長136.67%；扣非淨利潤1.48億元，同比增長176.70%。"
+    },
+    {
+      "id": "5172689",
+      "time": "2026-10-27 18:58:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華鑫股份：儀電集團擬轉讓26.99%股份，股票復牌】華鑫股份公告，2026年10月27日，儀電集團與國盛集團、國茂控股簽署股份轉讓框架協議，擬轉讓公司2.86億股A股股份，佔公司現有股份總數的26.99%。轉讓完成後，公司控股股東擬由儀電集團變更為國盛集團，實際控制人不變。公司股票自2026年10月28日開市起復牌。"
+    },
+    {
+      "id": "5172688",
+      "time": "2026-10-27 18:58:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天壕能源：2026年第三季度淨利潤5053.06萬元，同比增長89.09%】天壕能源公告，2026年第三季度營業收入6.3億元，同比增長10.66%；歸母淨利潤5053.06萬元，同比增長89.09%；扣非淨利潤4589.5萬元，同比增長51.16%。2026年前三季度營業收入20.37億元，同比增長4.92%；歸母淨利潤1.23億元，同比增長27.99%；扣非淨利潤9348.01萬元，同比增長4.05%。"
+    },
+    {
+      "id": "5172687",
+      "time": "2026-10-27 18:58:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝：葉門武裝部隊用彈道導彈打擊了東部省拉斯坦努拉煉油廠。此次打擊精準，在目標地點引發大火。"
+    },
+    {
+      "id": "5172686",
+      "time": "2026-10-27 18:58:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達：伊朗需展現“誠意”，停止對鄰國的威脅。"
+    },
+    {
+      "id": "te:markets:595407",
+      "time": "2026-10-27 18:57:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Coca-Cola earnings above expectations at 0.91 USD — Coca-Cola (KO) released earnings per share at 0.91 USD, compared to market expectations of 0.88 USD."
+    },
+    {
+      "id": "5172685",
+      "time": "2026-10-27 18:57:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鉑力特：2026年第三季度淨利潤5634.28萬元，同比下降29.07%】鉑力特公告，2026年第三季度營業收入4.9億元，同比下降0.79%；歸母淨利潤5634.28萬元，同比下降29.07%；扣非淨利潤4792.21萬元，同比下降27.26%。2026年前三季度營業收入12.6億元，同比增長8.54%；歸母淨利潤1.07億元，同比下降30.99%；扣非淨利潤6408.82萬元，同比下降41.33%。"
+    },
+    {
+      "id": "mkt:01a17d02-2214-7ee0-a994-9a0474d498c7",
+      "time": "2026-10-27 18:57:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Zelenskiy says he spoke with Finnish, Norwegian leaders; preparing US-Russia-Ukraine trilateral meeting in November】Zelenskiy said he spoke with Finnish President Stubb and Norwegian Prime Minister Støre. He said both leaders had earlier spoken with Russia’s president and conveyed requests that Putin ease strikes on Ukrainian energy and infrastructure. The talks follow Oslo meetings with US, European and NATO representatives and included preparation for a US–Russia–Ukraine trilateral meeting planned for November, plus coordination with European partners to support diplomacy, bolster Ukraine’s defence and maintain shared security."
+    },
+    {
+      "id": "5172684",
+      "time": "2026-10-27 18:57:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列報道：截至中午12點，投票率為31.5%。"
+    },
+    {
+      "id": "5172681",
+      "time": "2026-10-27 18:56:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達表示，該地區需要新的安全安排。"
+    },
+    {
+      "id": "5172680",
+      "time": "2026-10-27 18:56:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "可口可樂預計全年資本支出大約22億美元，此前預計22億美元。"
+    },
+    {
+      "id": "5172679",
+      "time": "2026-10-27 18:56:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗最高領袖會見最高國家安全委員會秘書雷扎伊】當地時間27日，伊朗最高領袖穆傑塔巴會見伊朗最高國家安全委員會秘書雷扎伊。穆傑塔巴表示，制定一份基於對每項行動的全面路線圖，是做出合理穩健決策的先決條件。加強民族凝聚力和團結、增進人民與官員之間的互信；利用憲法，賦予總統和行政機構的權力，協助其促進和加快解決國家問題；透過對霍爾木茲海峽的有效管控來維護國家和地區安全；在可持續和共同利益的基礎上加強與鄰國的關係，是本次會議討論的議題。穆傑塔巴認為，敵人的絕望是伊朗抵抗的成果之一，並強調要積極及時地傳遞資訊，使人民繼續參與保衛國家的鬥爭。同時要透過落實國家官員提出的各項需求，維護伊朗及整個抵抗陣線的權利和利益，以期結束戰爭。會議上，雷扎伊就國家各領域的現狀和正在開展的工作進行了彙報。（央視新聞）"
+    },
+    {
+      "id": "5172678",
+      "time": "2026-10-27 18:56:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【能輝科技：2026年第三季度淨利潤虧損1852.73萬元，同比由盈轉虧】能輝科技公告，2026年第三季度營業收入1.56億元，同比增長30.81%；歸母淨利潤虧損1852.73萬元，扣非淨利潤虧損1964.97萬元。2026年前三季度營業收入4.56億元，同比下降55.26%；歸母淨利潤虧損4176.15萬元，扣非淨利潤虧損4506.83萬元。"
+    },
+    {
+      "id": "5172677",
+      "time": "2026-10-27 18:56:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聚飛光電：2026年第三季度淨利潤3941.41萬元，同比下降54.60%】聚飛光電公告，2026年第三季度營業收入9.45億元，同比增長1.77%；淨利潤3941.41萬元，同比下降54.60%；扣非淨利潤3067.95萬元，同比下降40.49%。2026年前三季度營業收入26.22億元，同比增長1.44%；淨利潤1.25億元，同比下降40.85%；扣非淨利潤7498萬元，同比下降45.17%。"
+    },
+    {
+      "id": "5172676",
+      "time": "2026-10-27 18:56:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萊伯泰科：2026年第三季度淨利潤516.69萬元，同比下降54.89%】萊伯泰科公告，2026年第三季度營業收入9432.5萬元，同比增長1.52%；歸母淨利潤516.69萬元，同比下降54.89%；扣非淨利潤387.21萬元，同比下降55.23%。2026年前三季度營業收入2.84億元，同比下降0.23%；歸母淨利潤1854.06萬元，同比下降43.03%；扣非淨利潤1500.44萬元，同比下降45.50%。"
+    },
+    {
+      "id": "5172675",
+      "time": "2026-10-27 18:55:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "可口可樂公司：2026年第三季度全球單位案例銷量增長5%。"
+    },
+    {
+      "id": "5172674",
+      "time": "2026-10-27 18:55:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬魯蒂鈴木高管：視1月份起的產能擴張計劃而定，我們有信心實現較去年下半年的兩位數增長。"
+    },
+    {
+      "id": "5172673",
+      "time": "2026-10-27 18:55:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "可口可樂展望本財年有機營收增長5%。"
+    },
+    {
+      "id": "5172672",
+      "time": "2026-10-27 18:55:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "可口可樂第三季度可比每股收益0.91美元，預估0.88美元；第三季度單位箱銷量+5％，預估+2.98％。"
+    },
+    {
+      "id": "5172671",
+      "time": "2026-10-27 18:55:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "可口可樂第三季度淨營收134億美元。"
+    },
+    {
+      "id": "5172670",
+      "time": "2026-10-27 18:55:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東南電子：前三季營收3.20億元 淨利同比增14.93%】東南電子公告稱，2026年第三季度實現營業收入1.16億元，同比增長33.23%；歸母淨利潤1608.88萬元，同比增長100.18%。2026年前三季度實現營業收入3.20億元，同比增長32.29%；歸母淨利潤3404.79萬元，同比增長14.93%。截至報告期末，公司股份回購方案已實施完畢，累計回購股份79萬股，佔總股本0.66%，成交總金額1417.29萬元。"
+    },
+    {
+      "id": "5172669",
+      "time": "2026-10-27 18:54:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "會議期間，伊斯蘭革命領袖稱敵人的絕望是國家抵抗的成果之一。"
+    },
+    {
+      "id": "5172668",
+      "time": "2026-10-27 18:54:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康希諾：2026年第三季度淨利潤1701.21萬元，同比下降39.08%】康希諾公告，2026年第三季度營業收入3.32億元，同比增長7.17%；淨利潤1701.21萬元，同比下降39.08%；扣非淨利潤507.14萬元，同比增長66.56%。2026年前三季度營業收入8.82億元，同比增長27.40%；淨利潤1629.13萬元，同比增長12.82%；扣非淨利潤虧損4497.72萬元。"
+    },
+    {
+      "id": "5172667",
+      "time": "2026-10-27 18:54:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朗特智慧：2026年第三季度淨利潤1550.85萬元，同比下降46.26%】朗特智慧公告，2026年第三季度營業收入4.37億元，同比增長4.47%；歸母淨利潤1550.85萬元，同比下降46.26%；扣非淨利潤2215.16萬元。2026年前三季度營業收入11.81億元，同比下降3.57%；歸母淨利潤2131.74萬元，同比下降75.32%；扣非淨利潤1835.32萬元。"
+    },
+    {
+      "id": "5172666",
+      "time": "2026-10-27 18:54:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【逸豪新材：公司具備HVLP1-2製造能力 近期產品已陸續獲得客戶訂單】逸豪新材(301176)10月27日在互動平臺表示，公司HVLP銅箔具備HVLP1-2製造能力，近期產品已陸續獲得客戶訂單。公司積極佈局HVLP3-5的研發，相關產品已向客戶送樣，認證進度按計劃有序推進。"
+    },
+    {
+      "id": "mkt:01a17cfe-c848-7ee0-a994-957ff19ead01",
+      "time": "2026-10-27 18:53:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil's Ministry of Planning said the government's diesel subsidy will be extended for one month."
+    },
+    {
+      "id": "5172665",
+      "time": "2026-10-27 18:53:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國外長：東盟特使將於週三訪問緬甸。"
+    },
+    {
+      "id": "5172664",
+      "time": "2026-10-27 18:53:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“牛散”章建平夫婦買入東材科技、方正科技】10月27日晚，東材科技、方正科技分別釋出2026年三季報。與半年報相比，“牛散”章建平新進成為東材科技第三大股東，持股數量為2974.73萬股，佔公司總股本比例2.94%；章建平之妻方文豔新進成為方正科技第七大股東，持股數量為4069.94萬股，佔公司總股本比例0.92%。(中國證券報)"
+    },
+    {
+      "id": "5172663",
+      "time": "2026-10-27 18:52:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗最高領袖網站27日釋出的宣告，伊朗最高領袖穆傑塔巴當天會見伊朗最高國家安全委員會秘書雷扎伊。（新華社）"
+    },
+    {
+      "id": "5172662",
+      "time": "2026-10-27 18:52:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西規劃部在一份宣告中表示，柴油補貼將延長一個月。"
+    },
+    {
+      "id": "5172661",
+      "time": "2026-10-27 18:51:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陽光電源等在山西成立科技公司 含航空運營相關業務】企查查APP顯示，近日，山西億航科技有限公司成立，法定代表人為蔡長旺，註冊資本為1200萬元，經營範圍包含：大資料服務；資料處理和儲存支援服務；航空商務服務；航空運營支援服務；智慧無人飛行器製造等。企查查股權穿透顯示，該公司由交口縣國有資本運營有限公司、陽光電源旗下合肥靈陽新能源科技有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:01a17cfc-d753-7ee0-a994-8fe00d1e99ba",
+      "time": "2026-10-27 18:51:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran supreme leader urges implementation of conditions to end war】Iran supreme leader Mujtaba Khamenei met with Major General Rezai, secretary of the Supreme National Security Council, and discussed managing the Strait of Hormuz to safeguard national and regional security and deepening mutually beneficial bilateral ties with neighbouring states. Khamenei said Iran's enemies are in trouble due to sustained resistance, urged active, timely information releases to sustain public mobilisation in defence, and called for implementation of conditions set by Iranian officials to protect the rights and interests of the Iranian people and the 'resistance front' as the path to ending the war and the current 'neither war nor peace' status. Rezai said the security council secretariat is advancing strategic policy, including plans to establish regionally led arrangements and order."
+    },
+    {
+      "id": "5172660",
+      "time": "2026-10-27 18:51:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖強調落實伊方條件，推動結束戰爭】伊朗最高國家安全委員會秘書、少將雷扎伊會見了伊朗最高領袖穆傑塔巴·哈梅內伊。會談中討論了透過對霍爾木茲海峽實施管理來維護國家及地區安全，以及基於持久互利鞏固與鄰國的雙邊關係。哈梅內伊表示，敵人陷入困境是伊朗堅持民族抵抗所取得的成果。他強調，應積極、及時地釋出資訊，以維持民眾持續參與保衛國家和體制的行動；同時，應透過落實伊朗官員提出的相關條件，爭取維護伊朗人民及抵抗陣線的權利和利益，以結束戰爭以及“既非戰爭、也非和平”的局面。雷扎伊表示，最高國家安全委員會秘書處正在推進伊朗的戰略政策，其中包括“建立由地區自身主導的地區安排與秩序”。"
+    },
+    {
+      "id": "5172659",
+      "time": "2026-10-27 18:51:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【炬申股份：2026年第三季度淨利潤2828.2萬元，同比增長53.39%】炬申股份公告，2026年第三季度營業收入4.08億元，同比下降36.38%；淨利潤2828.2萬元，同比增長53.39%；扣非淨利潤2782.75萬元，同比增長56.97%。2026年前三季度營業收入13.07億元，同比增長0.31%；淨利潤5765.63萬元，同比下降2.68%；扣非淨利潤5672.13萬元，同比增長5.67%。"
+    },
+    {
+      "id": "5172658",
+      "time": "2026-10-27 18:51:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西上海：2026年第三季度淨利潤1279.5萬元，同比增長60.86%】西上海公告，2026年第三季度營業收入4.89億元，同比增長7.06%；歸母淨利潤1279.5萬元，同比增長60.86%；扣非淨利潤1065.25萬元，同比增長83.25%。2026年前三季度營業收入13.79億元，同比增長7.13%；歸母淨利潤4701.67萬元，同比增長5,365.43%；扣非淨利潤4247.63萬元，同比增長1,870.49%。"
+    },
+    {
+      "id": "5172657",
+      "time": "2026-10-27 18:51:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：萬那杜奧爾里港西北184公里處發生5.0級地震。"
+    },
+    {
+      "id": "5172656",
+      "time": "2026-10-27 18:51:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【瑞達期貨：2026年第三季度淨利潤9736.86萬元，同比下降38.37%】瑞達期貨公告，2026年第三季度營業總收入2.61億元，同比下降20.73%；歸母淨利潤9736.86萬元，同比下降38.37%；扣非淨利潤1.03億元，同比下降33.38%。2026年前三季度營業總收入10.59億元，同比增長28.05%；歸母淨利潤5.07億元，同比增長31.53%；扣非淨利潤5.04億元，同比增長31.60%。"
+    },
+    {
+      "id": "5172655",
+      "time": "2026-10-27 18:51:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中順潔柔：2026年第三季度淨利潤1.42億元，同比增長78.05%】中順潔柔公告，2026年第三季度營業收入20.96億元，同比下降2.43%；淨利潤1.42億元，同比增長78.05%；扣非淨利潤1.42億元，同比增長70.96%。2026年前三季度營業收入65.06億元，同比增長0.43%；淨利潤3.68億元，同比增長59.84%；扣非淨利潤3.66億元，同比增長59.33%。"
+    },
+    {
+      "id": "5172654",
+      "time": "2026-10-27 18:50:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆爍股份：2026年第三季度淨利潤6203.76萬元，前三季度2.02億元】恆爍股份公告，2026年第三季度營業收入2.25億元，同比增長70.78%；歸母淨利潤6203.76萬元，扣非淨利潤6017.89萬元。2026年前三季度營業收入7.53億元，同比增長146.22%；歸母淨利潤2.02億元，扣非淨利潤1.95億元。公司稱，受益於儲存晶片行業景氣度提升，儲存晶片營收規模擴大、毛利率顯著提高。"
+    },
+    {
+      "id": "5172653",
+      "time": "2026-10-27 18:50:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【敦煌種業：2026年第三季度淨利潤虧損2587.73萬元】敦煌種業公告，2026年第三季度營業收入1.24億元，同比增長71.12%；歸母淨利潤虧損2587.73萬元，扣非淨利潤虧損2701.31萬元。2026年前三季度營業收入9.92億元，同比增長25.52%；歸母淨利潤1.19億元，同比增長219.13%；扣非淨利潤1.15億元，同比增長276.45%。"
+    },
+    {
+      "id": "5172652",
+      "time": "2026-10-27 18:50:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇墾農發：2026年第三季度淨利潤9241.32萬元，同比增長1.78%】蘇墾農發公告，2026年第三季度營業收入21.74億元，同比下降2.11%；歸母淨利潤9241.32萬元，同比增長1.78%；扣非淨利潤7038.53萬元，同比增長1.47%。2026年前三季度營業收入65.05億元，同比下降4.46%；歸母淨利潤2.36億元，同比下降22.25%；扣非淨利潤1.86億元，同比下降23.84%。"
+    },
+    {
+      "id": "5172651",
+      "time": "2026-10-27 18:50:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【思瑞浦：Q3淨利潤同比增長402%環比增長49% 光模組等領域訂單與交貨規模穩步提升】思瑞浦(688536.SH)公告稱，前三季度實現營業收入26.92億元，同比增長75.87%；歸屬於上市公司股東的淨利潤6.10億元，同比增長384.33%。第三季度營業收入10.86億元，同比增長86.77%，環比增長20.23%；歸屬於上市公司股東的淨利潤3.03億元，同比增長401.54%，環比增長49.51%。公司單季度營收、淨利潤規模創歷史新高。業績增長主要系公司在光模組、汽車、工業等下游市場業務持續拓展，訂單與交貨規模穩步提升；同時公司持續精細化管控研發、銷售、管理等期間費用，費用增速得到有效控制。公司Q3淨利潤3.03億，Q2淨利潤2.02億，據此計算，Q3淨利潤環比增長49%。"
+    },
+    {
+      "id": "mkt:01a17cfb-dbba-7ee0-a994-819a4d4ea955",
+      "time": "2026-10-27 18:50:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Norwegian Nobel Committee welcomed Nobel Peace Prize laureate María Corina Machado's return to Venezuela."
+    },
+    {
+      "id": "5172650",
+      "time": "2026-10-27 18:50:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海油發展：2026年第三季度淨利潤11.1億元，同比增長8.42%】海油發展公告，2026年第三季度營業收入128.39億元，同比增長13.12%；歸屬於上市公司股東的淨利潤11.1億元，同比增長8.42%；扣非淨利潤10.73億元，同比增長4.52%。2026年前三季度營業收入359.18億元，同比增長5.81%；歸屬於上市公司股東的淨利潤29.78億元，同比增長4.38%；扣非淨利潤28.13億元，同比下降1.65%。"
+    },
+    {
+      "id": "mkt:01a17cfb-1a4e-7ee0-a994-7c780aedffdc",
+      "time": "2026-10-27 18:49:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasuries rose after a speech by Iran's leader."
+    },
+    {
+      "id": "5172649",
+      "time": "2026-10-27 18:49:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "挪威郵輪和嘉年華郵輪的股價抹去跌幅，盤前轉為上漲。"
+    },
+    {
+      "id": "5172648",
+      "time": "2026-10-27 18:49:40",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗領導人發表評論後，油價下跌，美國國債價格上漲。"
+    },
+    {
+      "id": "5172647",
+      "time": "2026-10-27 18:49:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樂山電力：2026年第三季度淨利潤3035.94萬元，同比下降53.24%】樂山電力公告，2026年第三季度營業收入7.56億元，同比下降2.57%；歸母淨利潤3035.94萬元，同比下降53.24%；扣非淨利潤2727.23萬元，同比下降54.54%。2026年前三季度營業收入22.89億元，同比下降4.59%；歸母淨利潤3725.8萬元，同比下降48.84%；扣非淨利潤3170.86萬元，同比下降52.15%。"
+    },
+    {
+      "id": "5172646",
+      "time": "2026-10-27 18:49:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【4連板賽福天：人形機器人腱繩相關產品目前尚處於研發及客戶送樣驗證階段】賽福天(603028.SH)釋出股票交易異常波動公告，公司關注到近期市場上公司涉及“人形機器人概念股”相關內容。公司現有金屬製品類業務以鋼絲繩及索具的研發、生產和銷售為主，公司人形機器人腱繩相關產品目前尚處於研發及客戶送樣驗證階段，尚未實現規模化量產，未形成相應業務收入。該類產品的客戶驗證流程週期較長，驗證結果及後續合作推進存在不確定性，不排除出現技術指標未達客戶要求、客戶終止測試等情形，未來能否落地批次訂單、形成穩定業務規模存在較大不確定性。同時，相關業務後續在技術研發迭代、市場競爭拓展、持續盈利能力兌現等方面均存在重大不確定性。"
+    },
+    {
+      "id": "mkt:01a17cfa-9add-7ee0-a994-74917efbd398",
+      "time": "2026-10-27 18:49:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said the leaders of Finland and Norway told Putin to scale back attacks on Ukraine's energy and infrastructure."
+    },
+    {
+      "id": "mkt:01a17cfa-6847-7ee0-a994-69831de9cd2e",
+      "time": "2026-10-27 18:49:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Stub and Steller briefed him on their calls with Russian President Putin."
+    },
+    {
+      "id": "5172645",
+      "time": "2026-10-27 18:48:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元現貨指數下跌，上漲0.2%，油價下跌。"
+    },
+    {
+      "id": "mkt:01a17cf9-ff77-7ee0-a994-658db3753c87",
+      "time": "2026-10-27 18:48:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said he discussed plans for trilateral talks between the US, Russia and Ukraine scheduled for November."
+    },
+    {
+      "id": "mkt:01a17cf9-ba0a-7ee0-a994-5a0c7405d9f7",
+      "time": "2026-10-27 18:48:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukraine President Zelenskiy said he held calls with Finland's Stubb and Norway's Støre."
+    },
+    {
+      "id": "5172643",
+      "time": "2026-10-27 18:47:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨延續漲勢，觸及盤中高點0.5%。"
+    },
+    {
+      "id": "mkt:01a17cf9-3cc8-7ee0-a994-501e802f63f9",
+      "time": "2026-10-27 18:47:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. equity index futures rose: S&P 500 futures +0.3%, Nasdaq-100 futures +0.5%, Dow Jones futures +0.4%."
+    },
+    {
+      "id": "mkt:01a17cf8-ef12-7ee0-a994-4895e0bc6018",
+      "time": "2026-10-27 18:47:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said they are trying to steal the election from us."
+    },
+    {
+      "id": "5172642",
+      "time": "2026-10-27 18:47:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎通科技：2026年第三季度淨利潤4193.18萬元，同比下降31.46%】鼎通科技公告，2026年第三季度營業收入5.09億元，同比增長36.89%；淨利潤4193.18萬元，同比下降31.46%；扣非淨利潤3329.2萬元，同比下降43.79%。2026年前三季度營業收入15.38億元，同比增長33.01%；淨利潤2.26億元，同比增長27.82%；扣非淨利潤2.08億元，同比增長24.87%。第三季度淨利潤下降主要受研發、市場相關投入增加，以及匯兌損失和利息增加影響。"
+    },
+    {
+      "id": "5172641",
+      "time": "2026-10-27 18:47:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：討論了計劃於11月舉行的團隊級三方會談。"
+    },
+    {
+      "id": "5172640",
+      "time": "2026-10-27 18:47:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科倫藥業：蘆康沙妥珠單抗新適應症上市申請獲受理】科倫藥業(002422.SZ)公告稱，公司控股子公司科倫博泰核心產品TROP2ADC蘆康沙妥珠單抗(佳泰萊®)一項新適應症上市申請獲國家藥監局受理，用於聯合帕博利珠單抗一線治療PD-L1TPS＜1%的EGFR突變陰性和ALK陰性的區域性晚期或轉移性非鱗狀非小細胞肺癌成人患者。該申請為蘆康沙妥珠單抗獲受理的第七項適應症上市申請，基於3期OptiTROP-Lung06研究積極結果，該聯合療法在無進展生存期方面顯示出統計學和臨床意義的顯著改善。截至目前，該產品已有4項適應症在中國獲批上市，其中2項已納入醫保。"
+    },
+    {
+      "id": "5172639",
+      "time": "2026-10-27 18:47:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡：他們正試圖從我們手中偷走選舉。"
+    },
+    {
+      "id": "5172638",
+      "time": "2026-10-27 18:46:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股指期貨走高；標普500 E-mini期貨上漲0.3%，納斯達克100期貨上漲0.5%，道指期貨上漲0.4%。"
+    },
+    {
+      "id": "5172637",
+      "time": "2026-10-27 18:46:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樂奇Rokid釋出全綵AI眼鏡】10月27日，智慧眼鏡公司樂奇Rokid正式釋出全綵AI眼鏡Rokid Color與互動戒指Rokid Ring。其中，全綵AI眼鏡Rokid Color黑色2G+64GB官方售價4999元、玳瑁色4GB+64GB官方售價5499元；互動戒指Rokid Ring官方售價1699元。記者在現場瞭解到，兩款產品以全綵顯示與微手勢互動協同，推動AI眼鏡從單一的資訊提示工具邁向全新的個人AI互動終端。"
+    },
+    {
+      "id": "mkt:01a17cf7-f047-7ee0-a994-4535ace72666",
+      "time": "2026-10-27 18:46:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold recovered from intraday lows, last at $4,015/oz."
+    },
+    {
+      "id": "5172636",
+      "time": "2026-10-27 18:46:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨延續漲勢，觸及盤中高點0.3%。"
+    },
+    {
+      "id": "5172635",
+      "time": "2026-10-27 18:45:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我與芬蘭總統斯圖布和挪威首相斯特勒進行了交談，此前他們與俄羅斯領導人通了電話，這也是我們在奧斯陸與美國、歐洲及北約代表討論的延續。感謝他們詳細通報情況，並積極支援我們的外交努力以及我們與所有夥伴共同推進的和平努力。"
+    },
+    {
+      "id": "5172634",
+      "time": "2026-10-27 18:45:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "芒果超媒第三季度淨利潤1,160萬元人民幣。"
+    },
+    {
+      "id": "5172633",
+      "time": "2026-10-27 18:44:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬魯蒂鈴木公司董事長：儘管今年爆發了戰爭，我們預計出口量仍將超過去年。"
+    },
+    {
+      "id": "5172632",
+      "time": "2026-10-27 18:44:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "據俄羅斯克里姆林宮網站27日訊息，俄羅斯總統普京當天與挪威首相斯特勒、芬蘭總統斯圖布通電話，三方對11月上半月在阿布扎比恢復有美國參與的烏克蘭問題會談表示歡迎。（新華社）"
+    },
+    {
+      "id": "5172631",
+      "time": "2026-10-27 18:44:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高凌資訊：被列入軍隊採購暫停處理名單】高凌資訊公告稱，公司因投標提供虛假材料，於2026年10月27日被軍隊採購網列入全軍範圍軍隊採購暫停處理名單，暫停公司參加軍採網軍隊物資工程服務採購活動資格，同時暫停法定代表人馮志峰等關聯人員相關採購參與資格。本次暫停處理時間暫未明確，涉及業務近3年營收佔比低於5%、毛利額佔比低於3%，對生產經營影響較小。公司將依規提起申訴，申訴結果存在不確定性。"
+    },
+    {
+      "id": "5172629",
+      "time": "2026-10-27 18:44:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀚藍環境：前三季度淨利潤18.46億元，同比增長15.01%】瀚藍環境(600323)10月27日披露2026年三季報，公司第三季度營業收入40.29億元，同比增長1.40%；歸屬於上市公司股東的淨利潤6.40億元，同比增長0.24%。2026年前三季度營業收入117.66億元，同比增長20.84%；歸屬於上市公司股東的淨利潤18.46億元，同比增長15.01%。前三季度業績變動主要由於去年前三季度粵豐環保納入並表4個月（2025年6月—9月），今年前三季度同比新增1—5月份資料並表。粵豐環保2026年1—9月實現營業收入32.08億元，同比增加17.23億元。"
+    },
+    {
+      "id": "te:markets:595406",
+      "time": "2026-10-27 18:43:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Royal Caribbean Cruises earnings above expectations at 6.57 USD — Royal Caribbean Cruises (RCL) released earnings per share at 6.57 USD, compared to market expectations of 6.33 USD."
+    },
+    {
+      "id": "5172626",
+      "time": "2026-10-27 18:43:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正泰電器成立光伏發電公司】企查查APP顯示，近日，健泰（黃岡）光伏發電有限公司成立，法定代表人為朱煩，經營範圍包含：合同能源管理；光伏裝置及元器件製造；太陽能熱發電產品銷售；發電技術服務；電力電子元器件製造等。企查查股權穿透顯示，該公司由正泰電器間接全資持股。"
+    },
+    {
+      "id": "5172625",
+      "time": "2026-10-27 18:42:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "景順（INVESCO）於 2026 年 10 月 26 日簽署了 15 億美元的 5 年期定期貸款協議。"
+    },
+    {
+      "id": "5172624",
+      "time": "2026-10-27 18:42:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科陸電子：董事會透過收購上海東自34.9173%股權】科陸電子公告，公司及全資子公司擬以1.41億元收購上海東自34.9173%股權。公司董事會於2026年10月26日審議透過該議案，交易完成後，公司及全資子公司將合計持有上海東自100%股權。"
+    },
+    {
+      "id": "5172623",
+      "time": "2026-10-27 18:42:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科陸電子：2026年第三季度淨利潤虧損1.84億元】科陸電子公告，2026年第三季度營業收入22.69億元，同比增長124.11%；歸屬於上市公司股東的淨利潤虧損1.84億元，扣非淨利潤虧損2.14億元。2026年前三季度營業收入44.53億元，同比增長24.20%；歸屬於上市公司股東的淨利潤虧損4.03億元，扣非淨利潤虧損4.27億元。"
+    },
+    {
+      "id": "5172622",
+      "time": "2026-10-27 18:42:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【易點天下2026年前三季度營收增長25.38%，AI驅動經營質量持續提升】易點天下（301171.SZ）披露2026年三季度報告。前三季度，公司實現營業收入34.07億元，同比增長25.38%；剔除匯兌損益和股份支付影響後的扣非歸母淨利潤2.05億元，同比增長27.70%；研發費用1.35億元，同比增長24.03%。"
+    },
+    {
+      "id": "mkt:01a17cf4-4bcc-7ee0-a994-3f5255a1992d",
+      "time": "2026-10-27 18:42:27",
+      "tags": [
+        "MKT News",
+        "GM.O"
+      ],
+      "text": "【General Motors to move listing from NYSE to Nasdaq on Nov. 17】General Motors (GM.N) plans to transfer its common stock listing from the New York Stock Exchange to Nasdaq on Nov. 17, seeking to bolster a tech-focused corporate image. The company expects its ticker to remain \"GM\" and says the move will make it eligible for Nasdaq-100 inclusion. Existing shareholders are not required to take any action."
+    },
+    {
+      "id": "5172621",
+      "time": "2026-10-27 18:42:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【彤程新材：2026年第三季度淨利潤1.33億元，同比下降7.09%】彤程新材公告，2026年第三季度營業收入11.28億元，同比增長29.87%；歸母淨利潤1.33億元，同比下降7.09%；扣非淨利潤1.29億元，同比下降8.41%。2026年前三季度營業收入32.64億元，同比增長29.37%；歸母淨利潤5.22億元，同比增長5.66%；扣非淨利潤4.9億元，同比增長4.99%。"
+    },
+    {
+      "id": "5172620",
+      "time": "2026-10-27 18:42:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "美、布兩油短線下挫約0.8美元，最新報100.94美元/桶和110.3美元/桶。"
+    },
+    {
+      "id": "5172619",
+      "time": "2026-10-27 18:42:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "瑞士運動品牌昂跑盤前跌超4%。"
+    },
+    {
+      "id": "mkt:01a17cf3-f181-7ee0-a994-3347fd3d047b",
+      "time": "2026-10-27 18:42:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent briefly slid about $0.80; last at $100.94/bbl and $110.30/bbl."
+    },
+    {
+      "id": "5172618",
+      "time": "2026-10-27 18:41:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科德教育：累計回購股份比例達2.02%】科德教育公告稱，公司回購股份方案已經股東會審議透過，擬使用不低於1億元且不超過2億元資金以集中競價方式回購股份，用於股權激勵或員工持股計劃，回購價格不超過23.27元/股，實施期限為股東會審議透過之日起12個月內。截至2026年10月27日，公司累計回購股份930萬股，佔總股本的2.02%，最高成交價22.50元/股，最低成交價17.18元/股，成交總金額1.80億元（不含交易費用）。後續公司將在回購期限內繼續推進回購計劃。"
+    },
+    {
+      "id": "5172617",
+      "time": "2026-10-27 18:41:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨最新漲幅為0.1%。"
+    },
+    {
+      "id": "5172616",
+      "time": "2026-10-27 18:41:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數抹去了跌幅，交易基本保持不變。"
+    },
+    {
+      "id": "5172615",
+      "time": "2026-10-27 18:41:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【烽雲科技：2026年上半年營收6.83億元 淨利潤3721.70萬元】烽雲科技公告稱，2025年度實現營業收入12.54億元，歸屬於母公司所有者的淨利潤4623.92萬元；2026年1-6月實現營業收入6.83億元，歸屬於母公司所有者的淨利潤3726.72萬元。截至2026年6月30日，公司總資產7.40億元，所有者權益合計1.70億元。"
+    },
+    {
+      "id": "5172614",
+      "time": "2026-10-27 18:41:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "貝萊德策略師表示，美國與伊朗衝突引發的能源價格大幅上漲，將對歐洲經濟產生持久的負面影響，但可能利好能源基礎設施企業。"
+    },
+    {
+      "id": "mkt:01a17cf2-f5de-7ee0-a994-2def7fbbc503",
+      "time": "2026-10-27 18:40:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's supreme leader urged proposals for conditions acceptable to end the war."
+    },
+    {
+      "id": "5172613",
+      "time": "2026-10-27 18:40:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席：歐洲的升溫速度是全球平均水平的兩倍。要真正具備氣候韌性，我們需要在過程中不斷調整和學習。我們的歐洲氣候韌性框架將幫助我們預判、防範和管理氣候風險。具體做法是將氣候韌性納入歐盟各項政策，並支援投資、創新和長期增長。"
+    },
+    {
+      "id": "mkt:01a17cf2-22e6-7ee0-a994-20e2ab919ec4",
+      "time": "2026-10-27 18:40:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【BlackRock: Energy shock to leave long-term scars on European economy】BlackRock strategists said the US–Iran conflict-driven energy price surge will have a persistent negative impact on the European economy, while potentially benefiting energy infrastructure firms. They warned that buffers that absorbed the first-round shock earlier this year are fading and Europe is particularly vulnerable. Rising energy costs have knocked about 0.5% off euro-area GDP relative to a no-price-rise baseline. Strategists expect assets able to withstand future energy shocks—energy infrastructure—to attract increasing investor demand, and note that higher bond yields have depressed equities, leaving US and European utility stocks looking relatively attractive."
+    },
+    {
+      "id": "5172612",
+      "time": "2026-10-27 18:39:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新特電氣：2026年第三季度淨利潤虧損176.01萬元，同比由盈轉虧】新特電氣公告，2026年第三季度營業收入1.5億元，同比增長14.34%；歸母淨利潤虧損176.01萬元，扣非淨利潤虧損337.07萬元。2026年前三季度營業收入4.07億元，同比增長25.88%；歸母淨利潤939.41萬元，同比下降75.10%；扣非淨利潤336.9萬元，同比增長359.67%。"
+    },
+    {
+      "id": "5172611",
+      "time": "2026-10-27 18:39:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九豐能源：前三季度淨利潤13.04億元，同比增長5.08%】九豐能源10月27日披露2026年三季報，公司第三季度營業收入47.80億元，同比下降7.73%；淨利潤3.54億元，同比下降6.97%。2026年前三季度營業收入144.15億元，同比下降7.65%；淨利潤13.04億元，同比增長5.08%。第三季度在國內LNG市場價格震盪上行的環境下，公司實現LNG生產與服務業務單噸毛利同比增長超70%；氦氣方面，公司持續提升終端直接覆蓋比例，銷量同比增長超200%。"
+    },
+    {
+      "id": "5172610",
+      "time": "2026-10-27 18:38:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“罕見直接接觸”，外媒：芬蘭總統和挪威首相與普京通話，討論俄烏衝突】據路透社、法新社報道，芬蘭總統斯圖布辦公室表示，斯圖布和挪威首相斯特勒27日與俄羅斯總統普京進行通話，三方討論了俄烏衝突，並稱這次通話“坦誠且具實質性”。（環球網）"
+    },
+    {
+      "id": "5172609",
+      "time": "2026-10-27 18:38:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【秋田微：2026年第三季度淨利潤671.05萬元，同比下降46.21%】秋田微公告，2026年第三季度營業收入3.49億元，同比增長1.34%；歸母淨利潤671.05萬元，同比下降46.21%；扣非淨利潤435.35萬元，同比下降61.72%。2026年前三季度營業收入9.89億元，同比增長1.48%；歸母淨利潤4120.71萬元，同比下降35.34%，2025年前三季度為6373.17萬元；扣非淨利潤3518.22萬元，同比下降39.61%。"
+    },
+    {
+      "id": "5172608",
+      "time": "2026-10-27 18:38:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國儀公司：2026年第三季度淨利潤虧損7610.94萬元】國儀公司公告，2026年第三季度營業收入1.46億元，同比增長57.65%；淨利潤虧損7610.94萬元，扣非淨利潤虧損7921.28萬元。2026年前三季度營業收入4.04億元，同比增長53.35%；淨利潤虧損1.46億元，扣非淨利潤虧損1.57億元。"
+    },
+    {
+      "id": "5172607",
+      "time": "2026-10-27 18:37:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【先河環保：智新達能擬增持不超過3億元人民幣】先河環保公告，控股股東河北智新達能新能源科技有限公司及董事、副總經理、董事會秘書時若棟擬自本公告披露之日起6個月內增持公司股份。智新達能增持金額不低於1.5億元人民幣（含）、不超過3億元人民幣（含）；時若棟增持金額不低於1000萬元人民幣（含）。二者擬透過集中競價交易、大宗交易等方式增持，資金來源為自有資金或自籌資金。"
+    },
+    {
+      "id": "5172606",
+      "time": "2026-10-27 18:37:49",
+      "tags": [
+        "資料"
+      ],
+      "text": "【債券拋售潮及社會動盪衝擊下 法國消費者信心指數降至13年低點】受債券市場拋售及抗議活動演變為騷亂等多重衝擊影響，法國10月消費者信心指數跌至13年低點。法國統計機構Insee週二表示，這一月度指標下降5點至80，受訪者對自身財務狀況、生活水平和失業問題的擔憂加劇。這一數字低於預估中值85。在通脹反覆抬頭以及政治和預算局勢動盪的背景下，該指標已連續五年徘徊在長期均值100以下。最新資料尚未反映法國當前困局的全部影響，雖然統計截止日期為10月19日，但大多數回覆是在為期三週的調查期開始時收集的。"
+    },
+    {
+      "id": "mkt:01a17cf0-0383-7ee0-a994-18e219752a0c",
+      "time": "2026-10-27 18:37:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme Leader met Supreme National Security Council Secretary Rezaei to discuss war, national unity and management of the Strait of Hormuz."
+    },
+    {
+      "id": "5172605",
+      "time": "2026-10-27 18:37:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四方達：2026年第三季度淨利潤1045.27萬元，同比增長64.74%】四方達公告，2026年第三季度營業收入1.79億元，同比增長21.59%；淨利潤1045.27萬元，同比增長64.74%；扣非淨利潤701.44萬元，同比增長301.58%。2026年前三季度營業收入5.53億元，同比增長35.77%；淨利潤8863.24萬元，同比增長48.80%；扣非淨利潤7697.24萬元，同比增長93.84%。"
+    },
+    {
+      "id": "5172604",
+      "time": "2026-10-27 18:37:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金徽酒：2026年第三季度淨利潤虧損3564.38萬元，同比由盈轉虧】金徽酒公告，2026年第三季度營業收入5.23億元，同比下降4.16%；歸母淨利潤虧損3564.38萬元，同比由盈轉虧；扣非淨利潤虧損2696.32萬元。2026年前三季度營業收入23.39億元，同比增長1.45%；歸母淨利潤1.78億元，同比下降44.90%；扣非淨利潤1.92億元，同比下降39.59%。"
+    },
+    {
+      "id": "5172603",
+      "time": "2026-10-27 18:37:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高領袖提出結束戰爭的會面條件。"
+    },
+    {
+      "id": "5172602",
+      "time": "2026-10-27 18:37:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科陸電子與新加坡ERA簽署合作諒解備忘錄，共拓模組化光儲應用】10月27日，在新加坡國際能源週期間，科陸電子與新加坡可再生能源企業Equator Renewables Asia（ERA）就模組化光伏平臺SolarBox專案簽署合作諒解備忘錄，共同探索儲能與模組化光伏的協同應用。"
+    },
+    {
+      "id": "5172601",
+      "time": "2026-10-27 18:37:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【縱橫通訊：2026年第三季度淨利潤526.08萬元，同比下降72.09%】縱橫通訊公告，2026年第三季度營業收入3.16億元，同比下降38.98%；淨利潤526.08萬元，同比下降72.09%；扣非淨利潤虧損53.42萬元。2026年前三季度營業收入12.99億元，同比下降1.20%；淨利潤2018.49萬元，同比下降34.02%；扣非淨利潤251.13萬元，同比下降73.88%。"
+    },
+    {
+      "id": "5172600",
+      "time": "2026-10-27 18:37:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【均勝電子：2026年第三季度淨利潤2.19億元，同比下降46.98%】均勝電子公告，2026年第三季度營業收入137.96億元，同比下降10.98%；歸屬於上市公司股東的淨利潤2.19億元，同比下降46.98%；扣非淨利潤2.16億元，同比下降48.21%。2026年前三季度營業收入418.87億元，同比下降8.63%；歸屬於上市公司股東的淨利潤9.58億元，同比下降14.51%；扣非淨利潤8.71億元，同比下降22.39%。"
+    },
+    {
+      "id": "5172599",
+      "time": "2026-10-27 18:36:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三力士：2026年第三季度淨利潤虧損1058.6萬元，同比由盈轉虧】三力士公告，2026年第三季度營業收入2.32億元，同比下降15.07%；淨利潤虧損1058.6萬元，同比由盈轉虧。2026年前三季度營業收入7.61億元，同比增長6.59%；淨利潤虧損2215.27萬元，上年同期為2765.11萬元，同比由盈轉虧。"
+    },
+    {
+      "id": "5172597",
+      "time": "2026-10-27 18:36:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【通用汽車將普通股上市地從紐交所遷至納斯達克】據10月27日宣告，通用汽車將把普通股上市地從紐交所遷至納斯達克全球精選市場，繼續沿用“GM”這一股票程式碼。納斯達克交易預計將於當地時間11月17日開始。"
+    },
+    {
+      "id": "5172596",
+      "time": "2026-10-27 18:35:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "通用汽車：股價上漲帶來被納入納斯達克100指數的潛在資格。"
+    },
+    {
+      "id": "5172595",
+      "time": "2026-10-27 18:35:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "皇家加勒比郵輪公司第四季度利潤預測低於預期，盤前股價下跌 2%。"
+    },
+    {
+      "id": "5172594",
+      "time": "2026-10-27 18:35:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣日股份：2026年第三季度淨利潤1.55億元，同比下降11.39%】廣日股份公告，2026年第三季度營業收入17.36億元，同比增長2.10%；淨利潤1.55億元，同比下降11.39%；扣非淨利潤1.41億元，同比下降8.71%。2026年前三季度營業收入48.56億元，同比增長0.81%；淨利潤2.87億元，同比下降28.01%；扣非淨利潤3億元，同比下降10.16%。"
+    },
+    {
+      "id": "5172592",
+      "time": "2026-10-27 18:35:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光莆股份：2026年第三季度淨利潤513.42萬元，同比下降78.73%】光莆股份公告，2026年第三季度營業收入2.05億元，同比下降6.05%；淨利潤513.42萬元，同比下降78.73%；扣非淨利潤虧損2474.87萬元。2026年前三季度營業收入5.88億元，同比下降4.94%；淨利潤虧損1948.24萬元，扣非淨利潤虧損5662.52萬元。"
+    },
+    {
+      "id": "5172591",
+      "time": "2026-10-27 18:35:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽恩斯：2026年第三季度淨利潤2326.02萬元，同比下降6.99%】賽恩斯公告，2026年第三季度營業收入2.91億元，同比增長14.53%；歸母淨利潤2326.02萬元，同比下降6.99%；扣非淨利潤2251.8萬元，同比下降9.01%。2026年前三季度營業收入8.43億元，同比增長24.48%；歸母淨利潤9135.88萬元，同比增長23.40%；扣非淨利潤8903.48萬元，同比增長23.72%。"
+    },
+    {
+      "id": "5172590",
+      "time": "2026-10-27 18:35:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五洲新春：2026年第三季度歸母淨利潤9.22億元，同比增長3,875.18%】五洲新春公告，2026年第三季度營業收入7.16億元，同比下降6.59%；歸母淨利潤9.22億元，同比增長3,875.18%；扣非淨利潤1468.33萬元，同比下降34.88%。2026年前三季度營業收入22.5億元，同比下降15.45%；歸母淨利潤9.83億元，同比增長898.01%；扣非淨利潤7044.11萬元，同比下降22.90%。"
+    },
+    {
+      "id": "5172589",
+      "time": "2026-10-27 18:35:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖哈梅內伊與伊朗最高國家安全委員會秘書雷扎伊討論了團結及霍爾木茲管理問題。"
+    },
+    {
+      "id": "mkt:01a17ced-8b90-7ee0-a994-16ce43b15410",
+      "time": "2026-10-27 18:35:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu urged Israelis to \"vote in the right way\" as he cast his ballot."
+    },
+    {
+      "id": "5172588",
+      "time": "2026-10-27 18:34:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邁為股份：2026年第三季度淨利潤3390.04萬元，同比下降87.41%】邁為股份公告，2026年第三季度營業收入12.37億元，同比下降37.84%；歸母淨利潤3390.04萬元，同比下降87.41%；扣非淨利潤1334.09萬元，同比下降94.13%。2026年前三季度營業收入41.46億元，同比下降33.16%；歸母淨利潤2.86億元，同比下降56.88%；扣非淨利潤1.29億元，同比下降78.22%。"
+    },
+    {
+      "id": "mkt:01a17ced-4bdc-7ee0-a994-0982799b44bf",
+      "time": "2026-10-27 18:34:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kremlin: President Putin said EU and NATO's confrontational policies are prolonging the conflict."
+    },
+    {
+      "id": "5172587",
+      "time": "2026-10-27 18:34:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國際復材：前三季度淨利潤同比增長371.19%】國際復材(301526.SZ)公告稱，第三季度營業收入為30.31億元，同比增長34.10%；歸屬於上市公司股東的淨利潤為6.46億元，同比增長1452.60%。前三季度實現營業收入79.95億元，同比增長24.66%；歸屬於上市公司股東的淨利潤為12.86億元，同比增長371.19%。歸屬於母公司所有者的淨利潤變動主要系報告期內業績同比上升。"
+    },
+    {
+      "id": "mkt:01a17ced-3890-7ee0-a994-02eb3ceefdb3",
+      "time": "2026-10-27 18:34:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said President Putin told the leaders of Norway and Finland that peace is possible only if Russia’s interests are taken fully and unconditionally into account."
+    },
+    {
+      "id": "5172586",
+      "time": "2026-10-27 18:34:21",
+      "tags": [
+        "國際",
+        "兩會"
+      ],
+      "text": "【何維會見歐洲議會左翼黨團代表團】全國人大常委會副委員長何維27日在京會見黨團聯合主席施爾德萬率領的歐洲議會左翼黨團代表團。雙方就鞏固中歐夥伴關係定位，加強立法機構交往和各領域互利合作，推動中歐關係健康穩定發展等交換意見。(新華社)"
+    },
+    {
+      "id": "mkt:01a17cec-c9dd-7ee0-a993-fb6bf0684df7",
+      "time": "2026-10-27 18:34:15",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "BOFA Global Research added SpaceX (SPCX.O) to its list of preferred US stocks."
+    },
+    {
+      "id": "5172585",
+      "time": "2026-10-27 18:33:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：普京表示，歐盟和北約的對抗政策正在延長衝突。"
+    },
+    {
+      "id": "5172584",
+      "time": "2026-10-27 18:33:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【格力電器：京海互聯擬6個月內增持6億元至12億元】格力電器公告，持股5%以上股東京海互聯擬自公告披露之日起6個月內，透過集中競價交易和大宗交易增持公司股份，增持金額不低於人民幣6億元且不超過人民幣12億元。渤海銀行深圳分行承諾提供不超過人民幣9.9億元專項貸款，期限不超過3年。京海互聯目前持有公司4.39億股，佔總股本的7.83%。"
+    },
+    {
+      "id": "mkt:01a17cec-251c-7ee0-a993-f79fdcf77c0c",
+      "time": "2026-10-27 18:33:33",
+      "tags": [
+        "MKT News",
+        "GM.N"
+      ],
+      "text": "GM will move its listing from the New York Stock Exchange to Nasdaq."
+    },
+    {
+      "id": "5172582",
+      "time": "2026-10-27 18:33:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正虹科技：2026年第三季度淨利潤虧損682.25萬元】正虹科技公告，2026年第三季度營業收入3.01億元，同比增長0.84%；歸母淨利潤虧損682.25萬元，扣非淨利潤虧損820.73萬元。2026年前三季度營業收入8.7億元，同比增長9.19%；歸母淨利潤虧損2752.08萬元，扣非淨利潤虧損2988.2萬元。"
+    },
+    {
+      "id": "5172581",
+      "time": "2026-10-27 18:33:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華潤材料：2026年第三季度淨利潤823.7萬元，同比下降68.24%】華潤材料公告，2026年第三季度營業收入53.34億元，同比增長56.88%；歸母淨利潤823.7萬元，同比下降68.24%；扣非淨利潤虧損2354.04萬元。2026年前三季度營業收入124.43億元，同比增長20.85%；歸母淨利潤2.61億元，同比增加3.56億元，實現扭虧為盈。"
+    },
+    {
+      "id": "5172580",
+      "time": "2026-10-27 18:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "新加坡與印度尼西亞同意就森林火災問題組建聯合工作組。"
+    },
+    {
+      "id": "5172579",
+      "time": "2026-10-27 18:33:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大儲蓄保險局將以24.5億加元收購Bell Tower Infrastructure公司的股份。"
+    },
+    {
+      "id": "5172578",
+      "time": "2026-10-27 18:33:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德冠新材：2026年第三季度淨利潤1676.45萬元，同比下降24.80%】德冠新材公告，2026年第三季度營業收入5.05億元，同比增長36.87%；歸母淨利潤1676.45萬元，同比下降24.80%；扣非淨利潤1584.16萬元，同比下降10.43%。2026年前三季度營業收入13.9億元，同比增長25.74%；歸母淨利潤7770.17萬元，同比增長30.60%；扣非淨利潤7210.08萬元，同比增長46.05%。"
+    },
+    {
+      "id": "5172577",
+      "time": "2026-10-27 18:33:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華潤材料：簽訂採購框架協議，2027年上限18.92億元】華潤材料公告，公司於2026年10月27日與華潤飲料（控股）有限公司簽署聚酯瓶片PET採購框架協議，約定華潤飲料及其附屬公司2027年、2028年、2029年向公司採購聚酯瓶片PET的交易金額上限分別為18.92億元、20.82億元、22.9億元。協議已獲雙方董事會審議透過，尚需提交雙方股東會（股東特別大會）審議，具體交易以實際訂單為準。"
+    },
+    {
+      "id": "5172576",
+      "time": "2026-10-27 18:33:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科創達：2026年第三季度淨利潤8989.56萬元，同比增長27.39%】中科創達公告，2026年第三季度營業收入26.64億元，同比增長44.12%；歸母淨利潤8989.56萬元，同比增長27.39%；扣非淨利潤6658.64萬元，同比增長4.66%。2026年前三季度營業收入69.68億元，同比增長35.37%；歸母淨利潤3.35億元，同比增長46.48%；扣非淨利潤3億元，同比增長50.11%。"
+    },
+    {
+      "id": "5172575",
+      "time": "2026-10-27 18:33:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用汽車將把股票上市地點從紐約證券交易所轉至納斯達克。"
+    },
+    {
+      "id": "5172574",
+      "time": "2026-10-27 18:32:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛天網路：2026年第三季度淨利潤2169.07萬元，同比增長200.42%】盛天網路公告，2026年第三季度營業收入3.18億元，同比增長3.97%；歸母淨利潤2169.07萬元，同比增長200.42%；扣非淨利潤607.43萬元，同比增長118.19%。2026年前三季度營業收入8.81億元，同比下降6.03%；歸母淨利潤虧損9684.17萬元，上年同期為3070.53萬元，同比由盈轉虧；扣非淨利潤虧損1.15億元。"
+    },
+    {
+      "id": "5172573",
+      "time": "2026-10-27 18:32:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新疆阿克蘇地區庫車市發生3.6級地震】中國地震臺網正式測定：10月27日18時26分在新疆阿克蘇地區庫車市（北緯41.24度，東經83.74度）發生3.6級地震，震源深度18千米。"
+    },
+    {
+      "id": "5172572",
+      "time": "2026-10-27 18:32:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海航科技：2026年第三季度淨利潤3664.28萬元，同比增長44.61%】海航科技公告，2026年第三季度營業收入3.57億元，同比下降3.72%；歸屬於上市公司股東的淨利潤3664.28萬元，同比增長44.61%；扣非淨利潤6506.87萬元，同比增長368.68%。2026年前三季度營業收入12.71億元，同比增長21.52%；歸母淨利潤8154.16萬元，同比下降15.79%；扣非淨利潤1.08億元，同比增長58.91%。公司稱，全球幹散貨航運市場回暖、運營效率提高，帶動航運業務經營收益提升。"
+    },
+    {
+      "id": "5172571",
+      "time": "2026-10-27 18:32:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙商中拓：2026年前三季度歸母淨利潤2.59億元，同比增長36.43%】浙商中拓公告，2026年第三季度營業收入641.11億元，同比增長1.03%；歸母淨利潤703.43萬元，扣非淨利潤2562萬元。2026年前三季度營業收入1900.15億元，同比增長11.37%；歸母淨利潤2.59億元，同比增長36.43%；扣非淨利潤1.58億元。"
+    },
+    {
+      "id": "5172570",
+      "time": "2026-10-27 18:32:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗安全部長會見最高領袖，討論戰爭問題。"
+    },
+    {
+      "id": "5172569",
+      "time": "2026-10-27 18:31:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿卡邁推出人工智慧推理服務測試版。"
+    },
+    {
+      "id": "5172568",
+      "time": "2026-10-27 18:31:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "挪威郵輪股價下跌1.6%，嘉年華郵輪股價下跌1%。"
+    },
+    {
+      "id": "mkt:01a17cea-574d-7ee0-a993-eb8ad5b5fb96",
+      "time": "2026-10-27 18:31:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Central Elections Committee says, contrary to reports, there is no systemic spoilage or tampering of ballots in the election."
+    },
+    {
+      "id": "5172567",
+      "time": "2026-10-27 18:31:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國外運：2026年第三季度歸母淨利潤9.51億元，同比增長29.88%】中國外運公告，2026年第三季度營業收入255.35億元，同比增長4.16%；歸母淨利潤9.51億元，同比增長29.88%；扣非淨利潤8.85億元，同比增長29.05%。2026年前三季度營業收入719.87億元，同比下降4.07%；歸母淨利潤26.76億元，同比下降0.12%；扣非淨利潤25.25億元，同比增長21.18%。"
+    },
+    {
+      "id": "5172565",
+      "time": "2026-10-27 18:30:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用汽車將把股票上市地點從紐交所轉至納斯達克。"
+    },
+    {
+      "id": "te:markets:595401",
+      "time": "2026-10-27 18:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.01% Lower — The SENSEX Index fell 8 points or 0.01 percent on Tuesday to close at 73599 points. Leading the losses are ITC (-1.52%), Tata Consultancy (-1.37%) and Infosys (-1.27%). Top gainers were Bharti Airtel (2.94%), Power Grid (2.51%) and NTPC (1.78%)."
+    },
+    {
+      "id": "5172562",
+      "time": "2026-10-27 18:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳股交獲批私募股權投資和創業投資基金份額轉讓試點】中國證監會近日正式批覆，同意在深圳前海股權交易中心開展私募股權投資和創業投資基金份額轉讓試點，這是深圳區域性股權市場服務創新資本的關鍵突破。此次試點獲批，標誌著深圳股交具備了開展私募基金份額轉讓及相關配套服務的合規資質。深圳股交現已制定完成“1+N”業務規則體系，明確基金份額轉讓的掛牌條件、材料要求、交易方式及監管機制；同時，已上線業務系統，為私募基金份額交易提供綜合服務。深圳股交將進一步補齊深圳私募創投行業退出環節短板，打通“募投管退”良性迴圈通道，為創新資本“進得來、留得住、退得出”提供堅實的平臺支撐。"
+    },
+    {
+      "id": "5172561",
+      "time": "2026-10-27 18:29:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "港交所檔案：小米於10月27日回購200萬股B類股份，涉資5000萬港元。"
+    },
+    {
+      "id": "mkt:01a17ce8-affa-7ee0-a993-e28828879b27",
+      "time": "2026-10-27 18:29:46",
+      "tags": [
+        "MKT News",
+        "UNH.N",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley raised its target price for UnitedHealth (UNH.N) to $531 from $529."
+    },
+    {
+      "id": "mkt:01a17ce8-65c1-7ee0-a993-dd8c9826789b",
+      "time": "2026-10-27 18:29:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says talks in Abu Dhabi will discuss post-war security issues."
+    },
+    {
+      "id": "5172559",
+      "time": "2026-10-27 18:29:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華新精科：2026年第三季度淨利潤2946.58萬元，同比下降20.94%】華新精科公告，2026年第三季度營業收入4.49億元，同比增長8.69%；淨利潤2946.58萬元，同比下降20.94%；扣非淨利潤2734.34萬元，同比下降27.46%。2026年前三季度營業收入11.62億元，同比下降0.19%；淨利潤9637.41萬元，同比下降28.94%；扣非淨利潤8359.21萬元，同比下降38.41%。"
+    },
+    {
+      "id": "5172558",
+      "time": "2026-10-27 18:29:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中塑股份：2026年第三季度淨利潤2805.4萬元，同比下降20.51%】中塑股份公告，2026年第三季度營業收入2.94億元，同比增長40.44%；歸屬於上市公司股東的淨利潤2805.4萬元，同比下降20.51%；扣非淨利潤2787.12萬元，同比下降17.14%。2026年前三季度營業收入7.37億元，同比增長34.85%；歸屬於上市公司股東的淨利潤8868.91萬元，同比下降6.08%；扣非淨利潤8677.68萬元，同比下降4.53%。"
+    },
+    {
+      "id": "mkt:01a17ce7-ed1a-7ee0-a993-d213e22ad76c",
+      "time": "2026-10-27 18:28:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar Foreign Ministry spokesman said the efforts of Saudi Arabia and the Makkah Alliance countries complement those of Qatar and Pakistan."
+    },
+    {
+      "id": "5172557",
+      "time": "2026-10-27 18:28:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【衛光生物：2026年第三季度淨利潤3684.18萬元，同比下降26.63%】衛光生物公告，2026年第三季度營業收入2.08億元，同比下降23.83%；淨利潤3684.18萬元，同比下降26.63%；扣非淨利潤3793.39萬元，同比下降22.82%。2026年前三季度營業收入6.57億元，同比下降16.95%；淨利潤8122.77萬元，同比下降48.54%；扣非淨利潤8128.17萬元，同比下降47.71%。"
+    },
+    {
+      "id": "5172555",
+      "time": "2026-10-27 18:28:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "新加坡外長：我們對印度尼西亞的未來充滿信心，希望印尼取得成功。"
+    },
+    {
+      "id": "mkt:01a17ce7-2ba5-7ee0-a993-ca5e51aa3f7d",
+      "time": "2026-10-27 18:28:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Kremlin says US-Russia-Ukraine trilateral talks will resume in Abu Dhabi in November."
+    },
+    {
+      "id": "mkt:01a17ce6-cf2f-7ee0-a993-c76e5f4414ae",
+      "time": "2026-10-27 18:27:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Saudi media Hadath reported Houthi forces launched a ballistic missile from south of Sanaa."
+    },
+    {
+      "id": "5172554",
+      "time": "2026-10-27 18:27:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "南亞新材：籌劃發行H股股票並在香港聯交所上市。"
+    },
+    {
+      "id": "5172553",
+      "time": "2026-10-27 18:27:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：俄羅斯總統普京、芬蘭總統斯圖布與挪威首相同意保持直接接觸。"
+    },
+    {
+      "id": "5172552",
+      "time": "2026-10-27 18:26:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【經緯輝開：2026年第三季度歸母淨利潤1090.18萬元，同比增長146.70%】經緯輝開公告，2026年第三季度營業收入8.87億元，同比增長38.55%；歸母淨利潤1090.18萬元，同比增長146.70%；扣非淨利潤1026.24萬元，同比增長142.61%。2026年前三季度營業收入26.55億元，同比增長38.65%；歸母淨利潤虧損3029.04萬元，扣非淨利潤虧損2898.46萬元。收入增長主要因收購中興系統技術有限公司併入報表；利潤受複合銅箔專案終止及觸控顯示板塊毛利下降等因素影響。"
+    },
+    {
+      "id": "5172551",
+      "time": "2026-10-27 18:26:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【升達林業：前三季營收5.16億元 淨利同比增538.73%】升達林業公告稱，2026年第三季度實現營業收入1.17億元，同比下降53.20%；歸母淨利潤3565.98萬元，同比增長545.60%。2026年前三季度實現營業收入5.16億元，同比下降28.00%；歸母淨利潤1.25億元，同比增長538.73%；扣非歸母淨利潤4823.34萬元，同比增長32.91%。業績變動主要系對蔡遠遠案終止確認債務並調整對升達集團應收款項減值準備，及成本、財務費用下降所致。此外，獨立董事何淑靜因任期屆滿辭職，公司已啟動董事會換屆選舉工作。"
+    },
+    {
+      "id": "5172550",
+      "time": "2026-10-27 18:26:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【泰瑞機器：2026年前三季度境外收入佔比達65.2%】泰瑞機器公告稱，公司2026年第三季度業績說明會披露，2026年1-9月公司境外收入佔比提升至65.2%，主要集中在歐洲、南美、北美及亞洲等區域。2026年前三季度公司歸母淨虧損1141.20萬元，主要受營收規模下降導致毛利額減少、匯兌損失大幅增加綜合影響。2026年第三季度公司營業收入2.21億元，同比下降；截至三季度末公司合同負債較上年末增長86.68%。公司國內市場優先將產能傾斜至高毛利外銷市場，未跟進國內行業價格競爭。"
+    },
+    {
+      "id": "5172549",
+      "time": "2026-10-27 18:26:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱文教育：前三季營收2.71億元 淨利同比增94.33%】凱文教育公告稱，2026年第三季度營業收入8736.87萬元，同比增長11.17%；歸母淨利潤85.97萬元，同比增長288.03%。2026年前三季度營業收入2.71億元，同比增長8.44%；歸母淨利潤185.90萬元，同比增長94.33%；扣非歸母淨利潤144.68萬元，同比增長554.43%。業績增長主要系教育服務業務盈利能力提升所致。"
+    },
+    {
+      "id": "5172548",
+      "time": "2026-10-27 18:26:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【展鵬科技：2026年第三季度淨利潤虧損1696.05萬元】展鵬科技公告，2026年第三季度營業收入7454.88萬元，同比下降15.83%；淨利潤虧損1696.05萬元，扣非淨利潤虧損1530.39萬元。2026年前三季度營業收入2.5億元，同比增長10.23%；淨利潤虧損4954.43萬元，扣非淨利潤虧損5243.96萬元。"
+    },
+    {
+      "id": "5172547",
+      "time": "2026-10-27 18:26:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中信出版：2026年前三季度計提資產減值準備4291.73萬元】中信出版公告稱，公司對2026年9月30日存在減值跡象的應收款項、預付款項、存貨等資產進行減值測試，2026年前三季度合計計提資產減值準備4291.73萬元，其中信用減值準備68.91萬元、資產減值準備4222.82萬元。本次計提將減少公司2026年前三季度淨利潤4291.73萬元，相關財務資料未經審計。"
+    },
+    {
+      "id": "mkt:01a17ce5-215b-7ee0-a993-bc4e7b6f131b",
+      "time": "2026-10-27 18:25:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS reports Putin, Norway's prime minister and Finland's president discussed security in the Baltic and Nordic regions."
+    },
+    {
+      "id": "5172546",
+      "time": "2026-10-27 18:25:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡尼稱加美貿易談判“小幅回暖”】加拿大總理卡尼26日透露，加拿大與美國的貿易談判進展情況略有起色。美國總統特朗普日前接受採訪時同樣釋放樂觀訊號，稱美加貿易協議可能於11月3日美國國會改選、即中期選舉投票日前達成。訊息分析認為，美國關稅政策已“反噬”美國內政治、經濟等多個層面，特朗普政府為在中期選舉前提振共和黨選情，不得不重返美加貿易談判桌。(央視新聞)"
+    },
+    {
+      "id": "5172545",
+      "time": "2026-10-27 18:25:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮：阿布扎比會談將討論衝突後的安全安排。"
+    },
+    {
+      "id": "5172544",
+      "time": "2026-10-27 18:25:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【粵桂股份：2026年第三季度歸母淨利潤4.98億元，同比增長137.78%】粵桂股份公告，2026年第三季度營業收入16.01億元，同比增長104.06%；歸母淨利潤4.98億元，同比增長137.78%；扣非淨利潤4.97億元，同比增長140.85%。2026年前三季度營業收入39.43億元，同比增長83.96%；歸母淨利潤11.61億元，同比增長161.53%；扣非淨利潤11.58億元，同比增長164.05%。"
+    },
+    {
+      "id": "mkt:01a17ce4-772e-7ee0-a993-b344ba262851",
+      "time": "2026-10-27 18:25:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu cast his ballot in Israel's election."
+    },
+    {
+      "id": "5172543",
+      "time": "2026-10-27 18:25:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣合科技：2026年第三季度淨利潤5.33億元，同比增長129.29%】廣合科技公告，2026年第三季度營業收入26.01億元，同比增長84.44%；淨利潤5.33億元，同比增長129.29%；扣非淨利潤5.25億元，同比增長132.48%。2026年前三季度營業收入69.9億元，同比增長82.25%；淨利潤14.88億元，同比增長105.59%；扣非淨利潤14.65億元，同比增長108.20%。"
+    },
+    {
+      "id": "5172542",
+      "time": "2026-10-27 18:24:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【夢網科技：2026年第三季度淨利潤虧損4811.07萬元】夢網科技公告，2026年第三季度營業收入5.42億元，同比增長2.76%；淨利潤虧損4811.07萬元，扣非淨利潤虧損5018.22萬元。2026年前三季度營業收入16.65億元，同比下降19.44%；淨利潤虧損1.46億元，扣非淨利潤虧損1.56億元。"
+    },
+    {
+      "id": "5172541",
+      "time": "2026-10-27 18:24:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【數字認證：2026年前三季度淨利潤虧損6475.78萬元】數字認證公告，2026年第三季度營業收入1.76億元，同比下降4.29%；淨利潤虧損1608.91萬元，扣非淨利潤虧損1876.74萬元。2026年前三季度營業收入5.16億元，同比增長1.34%；淨利潤虧損6475.78萬元，扣非淨利潤虧損6828.95萬元。"
+    },
+    {
+      "id": "5172540",
+      "time": "2026-10-27 18:24:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中信出版：2026年第三季度淨利潤2672.67萬元，同比下降32.61%】中信出版公告，2026年第三季度營業收入4.3億元，同比增長2.70%；歸母淨利潤2672.67萬元，同比下降32.61%；扣非淨利潤2492.17萬元，同比下降36.26%。2026年前三季度營業收入12.2億元，同比下降1.66%；歸母淨利潤1.04億元，同比下降35.48%；扣非淨利潤9762.64萬元，同比下降36.65%。"
+    },
+    {
+      "id": "5172539",
+      "time": "2026-10-27 18:24:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "克里姆林宮：俄羅斯-美國-烏克蘭三方會談將於11月在阿布扎比恢復舉行。"
+    },
+    {
+      "id": "5172538",
+      "time": "2026-10-27 18:24:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潤貝航科：前三季度營收8.49億元 淨利同比增32.71%】潤貝航科公告稱，2026年第三季度實現營業收入2.76億元，同比下降2.47%；歸母淨利潤4461.41萬元，同比增長9.71%；扣非歸母淨利潤4398.47萬元，同比增長18.80%。2026年前三季度實現營業收入8.49億元，同比增長12.79%；歸母淨利潤1.56億元，同比增長32.71%；扣非歸母淨利潤1.54億元，同比增長36.47%；經營活動產生的現金流量淨額1.23億元，同比增長40.74%。"
+    },
+    {
+      "id": "mkt:01a17ce3-c54c-7ee0-a993-a87a2e5f1250",
+      "time": "2026-10-27 18:24:24",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "RIA reported that Putin, Norway’s prime minister and Finland’s president discussed a ceasefire in Oleshky."
+    },
+    {
+      "id": "5172536",
+      "time": "2026-10-27 18:23:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長光華芯：2026年第三季度淨利潤2173.8萬元，同比增長81.63%】長光華芯公告，2026年第三季度營業收入2.42億元，同比增長92.86%；歸母淨利潤2173.8萬元，同比增長81.63%；扣非淨利潤1318.39萬元。2026年前三季度營業收入6.33億元，同比增長86.43%；歸母淨利潤5207.58萬元，同比增長148.66%；扣非淨利潤279.95萬元。"
+    },
+    {
+      "id": "5172535",
+      "time": "2026-10-27 18:23:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉峰科技：2026年第三季度淨利潤虧損1265.52萬元】吉峰科技公告，2026年第三季度營業收入8.46億元，同比增長10.90%；歸屬於上市公司股東的淨利潤虧損1265.52萬元，扣非淨利潤虧損1385.09萬元。2026年前三季度營業收入24.5億元，同比增長10.15%；歸屬於上市公司股東的淨利潤虧損716.05萬元，扣非淨利潤虧損1048.42萬元。"
+    },
+    {
+      "id": "5172534",
+      "time": "2026-10-27 18:23:38",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【君正股份：2026年第三季度淨利潤14.19億元，同比增長2,595.49%】君正股份公告，2026年第三季度營業收入31.45億元，同比增長164.85%；歸母淨利潤14.19億元，同比增長2,595.49%；扣非淨利潤14.29億元，同比增長3,436.84%。2026年前三季度營業收入71.02億元，同比增長106.66%；歸母淨利潤26.16億元，同比增長922.95%；扣非淨利潤25.95億元，同比增長1,188.99%。"
+    },
+    {
+      "id": "5172533",
+      "time": "2026-10-27 18:23:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯動科技：2026年第三季度淨利潤1945.79萬元，同比增長729.41%】聯動科技公告，2026年第三季度營業收入1.54億元，同比增長99.61%；歸母淨利潤1945.79萬元，同比增長729.41%；扣非淨利潤1761.08萬元，同比增長7,501.32%。2026年前三季度營業收入3.77億元，同比增長62.02%；歸母淨利潤4285.79萬元，同比增長196.44%；扣非淨利潤3615.52萬元，同比增長382.16%。"
+    },
+    {
+      "id": "5172532",
+      "time": "2026-10-27 18:23:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安宏資本全球基金組合已募資300億美元】10月27日，私募股權投資機構安宏資本宣佈，其全球基金組合已募資300億美元，其中包括第十一隻旗艦基金Advent International GPE XI/安宏十一號全球私募股權基金（GPE XI）募資近270億美元，超過其260億美元的募資目標；以及全新中型市場策略旗下的Advent Mid-Market Private Equity/安宏中型市場私募股權（Mid-Market Fund/中型市場基金）募資超30億美元。"
+    },
+    {
+      "id": "mkt:01a17ce2-e52a-7ee0-a993-a7caff203ac4",
+      "time": "2026-10-27 18:23:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Danish prime minister told DR she is \"very skeptical\" of Norway and Finland engaging in talks with Putin."
+    },
+    {
+      "id": "mkt:01a17ce2-bb92-7ee0-a993-9d771be4276f",
+      "time": "2026-10-27 18:23:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Malaysia palm oil oversupply strains storage in main producing region】Malaysia's palm oil stocks have climbed to record levels, pressuring storage capacity in key producing regions. Industry sources say output in Sarawak on Borneo has exceeded expectations and a surge in freight rates has slowed shipments, leaving local storage tanks nearing capacity. As the world's second-largest palm oil producer, Malaysia's September stocks rose to a record 3.51 mln t and monthly production hit a historic high, with the seasonal October peak not yet arrived. Rising inventories have increased pressure on the government to clear backlogs; officials are considering exempting crude palm oil export tax to boost overseas sales. The supply glut has weighed on prices: Kuala Lumpur benchmark futures fell as much as 2.2% on Tuesday, the largest drop in over a month and trading near a four-month low reached in early October. The price decline has widened palm oil's discount to competing vegetable oils, supporting this month's exports, but elevated stocks limit upside for a sustained rebound."
+    },
+    {
+      "id": "te:economy:595400",
+      "time": "2026-10-27 18:23:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bosnia and Herzegovina",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Bosnia and Herzegovina Inflation at 5-Month High — The annual inflation rate in Bosnia and Herzegovina rose to 6.0% in September 2026, marking the highest level since April, from 4.9% in the previous month. Inflation accelerated for housing and utilities (12.7% vs 11.3% in August), transport (27.6% vs 22.9%), furnishings, household equipment, and routine maintenance (2.2% vs 1.9%), health (5.8% vs 5.5%), education (2.3% vs 1.8%), and other goods and services (2.0% vs 1.4%). Conversely, inflation eased for alcoholic beverages and tobacco (3.8% vs 3.9%), communication (1.7% vs 3.1%), recreation and culture (3.8% vs 3.9%), and restaurants and hotels (4.3% vs 4.8%). Meanwhile, deflation eased for food and non-alcoholic beverages (-0.1% vs -0.9%) and clothing and footwear (-6.9% vs -8.7%). On a monthly basis, consumer prices rose 1.2% in September, following a 1.1% increase in August."
+    },
+    {
+      "id": "5172531",
+      "time": "2026-10-27 18:22:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佛山照明：2026年第三季度淨利潤1093.73萬元，同比下降57.95%】佛山照明公告，2026年第三季度營業收入20.34億元，同比下降5.25%；歸母淨利潤1093.73萬元，同比下降57.95%；扣非淨利潤虧損1256.38萬元。2026年前三季度營業收入61.29億元，同比下降6.17%；歸母淨利潤5264.29萬元，同比下降62.67%；扣非淨利潤1069.05萬元，同比下降91.24%。"
+    },
+    {
+      "id": "5172530",
+      "time": "2026-10-27 18:22:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【思特威：2026年第三季度淨利潤3.11億元，同比增長2.87%】思特威公告，2026年第三季度營業收入29.62億元，同比增長17.03%；歸母淨利潤3.11億元，同比增長2.87%；扣非淨利潤3.69億元，同比增長25.64%。2026年前三季度營業收入75.61億元，同比增長19.70%；歸母淨利潤8.4億元，同比增長20.05%；扣非淨利潤8.71億元，同比增長26.27%。"
+    },
+    {
+      "id": "5172529",
+      "time": "2026-10-27 18:22:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：丹麥首相表示，她對挪威和芬蘭與普京通話持“非常懷疑”態度。"
+    },
+    {
+      "id": "5172528",
+      "time": "2026-10-27 18:22:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多倫科技：前三季度營收3.00億元 淨虧損2771.07萬元】多倫科技公告稱，2026年第三季度實現營業收入7581.66萬元，同比下降32.26%；歸母淨利潤854.96萬元，同比增長159.13%；扣非淨虧損2354.72萬元，同比下降234.35%。2026年前三季度實現營業收入3.00億元，同比下降3.94%；歸母淨虧損2771.07萬元，同比下降39.89%；扣非淨虧損4246.09萬元，同比下降33.18%。業績變動主要系報告期內取得的驗收報告較上年同期減少，及交易性金融資產公允價值變動影響所致。"
+    },
+    {
+      "id": "5172527",
+      "time": "2026-10-27 18:22:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳航信中標深圳邊檢總站快捷通道聯合維保資訊化專案】據航天資訊訊息，近日，深圳航天資訊有限公司中標深圳出入境邊防檢查總站快捷通道及查驗系統外部裝置聯合維保資訊化專案。"
+    },
+    {
+      "id": "5172526",
+      "time": "2026-10-27 18:21:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南機場：前三季營收42.37億元 同比增29.17%】海南機場公告稱，2026年第三季度實現營業收入12.25億元，同比增長26.31%；歸母淨虧損1.33億元。2026年前三季度實現營業收入42.37億元，同比增長29.17%；歸母淨虧損1384.02萬元，同比下降121.51%。營收增長主要系本期合併美蘭空港帶動整體收入增加，利潤下滑主要系美蘭空港客流量處於爬坡期、三亞鳳凰國際機場T3航站樓投運致機場業務成本增加。"
+    },
+    {
+      "id": "5172525",
+      "time": "2026-10-27 18:21:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【郴電國際：2026年第三季度淨利潤5893萬元，同比增長7.04%】郴電國際公告，2026年第三季度營業收入11.3億元，同比增長0.67%；歸屬於上市公司股東的淨利潤5893萬元，同比增長7.04%；扣非淨利潤5459.83萬元，同比下降1.29%。2026年前三季度營業收入31.36億元，同比增長1.84%；歸屬於上市公司股東的淨利潤1.11億元，同比增長36.96%；扣非淨利潤9843.83萬元，同比增長64.59%。"
+    },
+    {
+      "id": "5172524",
+      "time": "2026-10-27 18:21:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京、斯特勒和芬蘭總統斯圖布同意繼續保持接觸。"
+    },
+    {
+      "id": "5172523",
+      "time": "2026-10-27 18:20:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛視科技：前三季度營收12.19億元 淨利同比增221.47%】盛視科技公告稱，2026年前三季度實現營業收入12.19億元，同比增長27.91%；歸屬於上市公司股東的淨利潤1.97億元，同比增長221.47%；扣非淨利潤1.96億元，同比增長304.27%。2026年第三季度實現營業收入4.85億元，同比增長19.99%；歸母淨利潤9041.78萬元，同比增長142.90%。業績增長主要系新增智算業務確認收入6.13億元，且計提資產減值較上年同期減少3340.30萬元。"
+    },
+    {
+      "id": "5172521",
+      "time": "2026-10-27 18:20:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勁嘉股份：2026年第三季度淨利潤2592.62萬元，同比增長17.42%】勁嘉股份公告，2026年第三季度營業收入6.93億元，同比增長5.65%；歸母淨利潤2592.62萬元，同比增長17.42%；扣非淨利潤2846.27萬元，同比增長77.65%。2026年前三季度營業收入22.83億元，同比增長20.52%；歸母淨利潤7419.59萬元，同比下降48.56%；扣非淨利潤6819.23萬元，同比下降41.73%。"
+    },
+    {
+      "id": "5172520",
+      "time": "2026-10-27 18:20:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼外長：已同意加強與新加坡的雙邊關係。"
+    },
+    {
+      "id": "5172519",
+      "time": "2026-10-27 18:19:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【景業智慧：2026年第三季度淨利潤虧損980.12萬元】景業智慧公告，2026年第三季度營業收入3333.51萬元，同比下降0.91%；歸母淨利潤虧損980.12萬元，2025年同期虧損2251.69萬元；扣非淨利潤虧損2213.27萬元，2025年同期虧損2066.07萬元。2026年前三季度營業收入1.36億元，同比下降3.64%；歸母淨利潤虧損2231.01萬元，2025年同期虧損1947.65萬元；扣非淨利潤虧損5775.1萬元，2025年同期虧損1884.48萬元。"
+    },
+    {
+      "id": "5172518",
+      "time": "2026-10-27 18:19:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶利國際：前三季營收10.05億元 同比降5.76%】寶利國際公告稱，2026年前三季度實現營業收入10.05億元，同比下降5.76%；歸屬於上市公司股東的淨利潤312.32萬元，同比增長130.83%，同比扭虧為盈；扣除非經常性損益的淨利潤5074.69萬元，同比增長200.68%。2026年第三季度實現營業收入4.92億元，同比下降10.13%；歸屬於上市公司股東的淨虧損985.96萬元，同比下降203.71%。截至報告期末，公司回購專用證券賬戶持有公司股份600萬股，持股比例為0.65%。"
+    },
+    {
+      "id": "5172516",
+      "time": "2026-10-27 18:18:48",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金嶺南：前三季營收607.50億元 淨利增65.25%】中金嶺南公告稱，2026年第三季度實現營業收入186.17億元，同比增長7.18%；歸母淨利潤2.48億元，同比下降12.25%；扣非歸母淨利潤2.67億元，同比下降5.17%。2026年前三季度實現營業收入607.50億元，同比增長25.36%；歸母淨利潤13.90億元，同比增長65.25%；扣非歸母淨利潤13.86億元，同比增長68.17%。基本每股收益0.31元/股，同比增長40.91%。"
+    },
+    {
+      "id": "5172515",
+      "time": "2026-10-27 18:18:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通則康威：前三季營收16.24億元 淨利同比增189.68%】通則康威公告稱，2026年第三季度實現營業收入4.70億元，同比增長19.58%；歸母淨利潤2919.30萬元，同比增長152.46%；扣非歸母淨利潤2740.09萬元，同比增長424.66%。2026年前三季度實現營業收入16.24億元，同比增長52.63%；歸母淨利潤1.18億元，同比增長189.68%；扣非歸母淨利潤1.16億元，同比增長234.67%。業績增長主要系客戶需求持續放量及新產品推廣帶動，公司業務增長、訂單增加所致。"
+    },
+    {
+      "id": "5172514",
+      "time": "2026-10-27 18:18:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超圖軟體：中標貴州不動產專案，金額1891.5萬元】超圖軟體公告，貴州省公共資源交易中心、黔雲招採電子招標採購交易平臺公示，公司中標貴州省不動產統一登記雲平臺系統重構及GIS引擎採購專案，中標金額1891.5萬元。截至公告披露日，公司尚未收到中標通知書，也尚未簽署正式合同。"
+    },
+    {
+      "id": "5172513",
+      "time": "2026-10-27 18:18:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北投科技：2026年第三季度淨利潤虧損2331.93萬元】北投科技公告，2026年第三季度營業收入4.93億元，同比下降54.94%；歸母淨利潤虧損2331.93萬元，扣非淨利潤虧損2329.54萬元。2026年前三季度營業收入19.05億元，同比下降39.21%；歸母淨利潤2903.36萬元，扣非淨利潤2868.6萬元。公司稱，營業收入下降主要受上年同期收入基數包含原廣電業務及部分專案尚未滿足收入確認條件影響。"
+    },
+    {
+      "id": "5172512",
+      "time": "2026-10-27 18:17:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科銳國際：2026年第三季度淨利潤7444.42萬元，同比下降20.15%】科銳國際公告，2026年第三季度營業收入39.46億元，同比增長7.24%；歸母淨利潤7444.42萬元，同比下降20.15%；扣非淨利潤7342.12萬元，同比增長21.17%。2026年前三季度營業收入120.65億元，同比增長12.18%；歸母淨利潤2.26億元，同比增長2.81%；扣非淨利潤1.95億元，同比增長24.02%。"
+    },
+    {
+      "id": "5172511",
+      "time": "2026-10-27 18:17:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "民調顯示，民主黨人傑克遜在緬因州參議員競選中領先2個百分點。"
+    },
+    {
+      "id": "5172510",
+      "time": "2026-10-27 18:17:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芒果超媒：2026年第三季度淨利潤1155.19萬元，同比下降95.42%】芒果超媒公告，2026年第三季度營業收入31.58億元，同比增長1.87%；歸母淨利潤1155.19萬元，同比下降95.42%；扣非淨利潤234.33萬元，同比下降98.71%。2026年前三季度營業收入93.51億元，同比增長3.18%；歸母淨利潤2.13億元，同比下降79.01%；扣非淨利潤1.83億元，同比下降76.82%。"
+    },
+    {
+      "id": "5172509",
+      "time": "2026-10-27 18:17:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "希爾頓全球酒店集團公佈第三季度業績後，股價下跌3.1%。"
+    },
+    {
+      "id": "5172508",
+      "time": "2026-10-27 18:17:09",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【五糧液：第三季度歸母淨利潤9.58億元，同比下降48.25%】五糧液10月27日公告，2026年第三季度實現營業收入44.42億元，同比下降37.68%；歸母淨利潤9.58億元，同比下降48.25%；基本每股收益0.2475元。前三季度實現營業收入328.58億元，同比增長7.25%；歸母淨利潤97.11億元，同比增長49.98%；基本每股收益2.5043元。報告期內，公司業績主要受到市場需求偏弱，相關產品銷量減少的影響。"
+    },
+    {
+      "id": "5172507",
+      "time": "2026-10-27 18:16:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "索尼網路通訊公司：因未經授權訪問，超過200萬條客戶記錄遭洩露，其中包括姓名和電話號碼。"
+    },
+    {
+      "id": "5172506",
+      "time": "2026-10-27 18:16:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理毛焦爾介紹自2027年起實施的新住房計劃。"
+    },
+    {
+      "id": "5172504",
+      "time": "2026-10-27 18:16:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【影石創新：2026年第三季度淨利潤1742.82萬元，同比下降93.59%】影石創新公告，2026年第三季度營業收入39.19億元，同比增長33.30%；淨利潤1742.82萬元，同比下降93.59%；扣非淨利潤2047.35萬元，同比下降91.82%。2026年前三季度營業收入94.36億元，同比增長42.73%；淨利潤4783.56萬元，同比下降93.96%；扣非淨利潤513.44萬元，同比下降99.31%。"
+    },
+    {
+      "id": "5172503",
+      "time": "2026-10-27 18:16:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎信通訊：2026年第三季度淨利潤虧損7791.2萬元】鼎信通訊公告，2026年第三季度營業收入2.65億元，同比下降26.82%；淨利潤虧損7791.2萬元，扣非淨利潤虧損7664.46萬元。2026年前三季度營業收入7.17億元，同比下降32.76%；淨利潤虧損2.76億元，扣非淨利潤虧損2.79億元。"
+    },
+    {
+      "id": "5172502",
+      "time": "2026-10-27 18:16:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛達資源：2026年第三季度淨利潤2.95億元，同比增長16.64%】盛達資源公告，2026年第三季度營業收入8.65億元，同比增長15.91%；歸母淨利潤2.95億元，同比增長16.64%；扣非淨利潤2.99億元，同比增長16.49%。2026年前三季度營業收入20.17億元，同比增長22.04%；歸母淨利潤6.85億元，同比增長112.20%；扣非淨利潤6.82億元，同比增長105.99%。"
+    },
+    {
+      "id": "5172501",
+      "time": "2026-10-27 18:16:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科曙光：前三季度歸母淨利潤17.25億元，同比增長78.51%】中科曙光公告，2026年前三季度營業收入122.38億元，同比增長38.75%；歸母淨利潤17.25億元，同比增長78.51%；扣非淨利潤15.53億元，同比增長105.02%。第三季度單季營業收入47.73億元，同比增長60.68%；歸母淨利潤7.53億元，同比增長217.19%；扣非淨利潤7.09億元，同比增長275.46%。業績增長主要因國內算力領域市場需求向好，高階計算機等IT裝置產品銷量同比增加，核心產品在重點客戶實現落地，配套軟體等高毛利產品銷售同步增加。"
+    },
+    {
+      "id": "5172500",
+      "time": "2026-10-27 18:15:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兄弟科技：2026年第三季度淨利潤1752.69萬元，同比下降52.50%】兄弟科技公告，2026年第三季度營業收入8.98億元，同比下降1.84%；歸母淨利潤1752.69萬元，同比下降52.50%；扣非淨利潤2432.17萬元，同比下降32.66%。2026年前三季度營業收入29.59億元，同比增長8.56%；歸母淨利潤1.16億元，同比增長13.92%；扣非淨利潤1.14億元，同比增長15.45%。"
+    },
+    {
+      "id": "5172499",
+      "time": "2026-10-27 18:15:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拓邦股份：2026年第三季度淨利潤6936.56萬元，同比下降23.25%】拓邦股份公告，2026年第三季度營業收入32.66億元，同比增長21.63%；歸屬於上市公司股東的淨利潤6936.56萬元，同比下降23.25%；扣非淨利潤6638.49萬元，同比下降22.50%。2026年前三季度營業收入90.75億元，同比增長10.84%；歸屬於上市公司股東的淨利潤1.98億元，同比下降52.87%；扣非淨利潤1.78億元，同比下降55.13%。"
+    },
+    {
+      "id": "5172498",
+      "time": "2026-10-27 18:15:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【農尚環境：前三季營收2.90億元 淨虧損1.40億元】農尚環境公告稱，2026年前三季度實現營業收入2.90億元，同比增長531.41%；歸屬於上市公司股東的淨虧損1.40億元，同比增虧83.07%；扣除非經常性損益的淨虧損1.30億元，同比增虧68.86%。2026年第三季度單季實現營業收入2.45億元，同比增長1261.50%；單季淨虧損1.11億元，同比增虧73.29%。業績變動主要系算力業務收入及成本大幅增長，應收賬款壞賬計提增加所致。"
+    },
+    {
+      "id": "5172497",
+      "time": "2026-10-27 18:15:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泡泡瑪特：公司實施庫存動態管理，減少不必要的商品召回】藍鯨新聞10月27日電，在今日泡泡瑪特三季度財報電話會上，公司管理層談及今年備貨情況時表示，Q4要持續降低整體庫存水位，同時保障新品供給。公司會重點關注頭程調撥的有效性，具體而言，一些國家和地區內部的商品網路具備較大的調撥空間，透過貨品調配（allocation），可以持續補充網路內的缺貨，提高銷售。公司已開始逐步實施動態管理，在初次配貨後持續調整，而不是等到終端售罄率達到較高水平，再開展後續調撥。這有助於減少不必要的商品召回，以及門店間高頻、反覆的調貨。（藍鯨新聞）"
+    },
+    {
+      "id": "5172496",
+      "time": "2026-10-27 18:15:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泡泡瑪特：公司仍以中國為核心生產基地】藍鯨新聞10月27日電，在今日泡泡瑪特三季度財報電話會上，公司管理層表示，目前，公司仍以中國為核心生產基地，國內生產基地正從廣東向內陸地區拓展，以降低部分生產成本。越南是公司嘗試海外生產的第一站，當地生產的效率和質量仍處於爬坡階段，基本達到公司要求。雖然越南生產具有一定成本優勢，但其面向歐美市場的物流時效優勢並不明顯，難以顯著縮短海外訂單交付週期。此外公司也在墨西哥進行了輕量嘗試，但認為墨西哥未來成為主要生產基地的可能性較低。目前解決海外訂單交付問題主要透過前置規劃、多次出貨和結合多種物流方式解決。（藍鯨新聞 ）"
+    },
+    {
+      "id": "5172494",
+      "time": "2026-10-27 18:15:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【知情人士：iPhone Duo鉸鏈找平工藝與OPPO Find N6採用同源方案】藍鯨新聞10月27日電，近日，網上流傳出iPhone Duo拆機影片，影片可見其鉸鏈中板使用膠體填充找平，用於改善內屏平整度。對此，有供應鏈人士向藍鯨科技記者表示，iPhone Duo鉸鏈找平工藝與OPPO Find N6採用同源方案。此外，工藝對應的高分子3D列印技術，由OPPO在今年3月釋出的摺疊旗艦Find N6上首發。（藍鯨新聞）"
+    },
+    {
+      "id": "5172493",
+      "time": "2026-10-27 18:14:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百奧泰：2026年第三季度淨利潤虧損8096.14萬元】百奧泰公告，2026年第三季度營業收入2.79億元，同比增長15.47%；歸母淨利潤虧損8096.14萬元，扣非淨利潤虧損8661.11萬元。2026年前三季度營業收入7.98億元，同比增長16.68%；歸母淨利潤虧損3.33億元，扣非淨利潤虧損3.41億元。"
+    },
+    {
+      "id": "5172492",
+      "time": "2026-10-27 18:14:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美圖RoboNeo新版本釋出 聚焦短劇創作者建立IP】美圖公司旗下AI影像創作平臺RoboNeo釋出新版本，聚焦於短劇創作者建立IP，全新上線IP創作入口、專業劇本工作臺、IP垂類多元創作工作流能力。據介紹，RoboNeo圍繞IP創作推出系列功能，意味AI短劇創作的關注點從“完成作品”延伸到“持續運營IP”，分別從角色建立、故事延展、內容衍生維度為IP的持續創作提供了更多可能。（新浪科技）"
+    },
+    {
+      "id": "5172491",
+      "time": "2026-10-27 18:14:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾迪藥業：1類新藥ACC085片獲批臨床試驗】艾迪藥業公告，公司及全資子公司瀘州艾迪醫藥技術有限公司近日收到國家藥監局核准簽發的《藥物臨床試驗批准通知書》，同意公司自主研發的1類新藥ACC085片開展臨床試驗，用於有HIV-1感染風險的成人和體重至少35kg青少年進行暴露前預防（PrEP）。ACC085片與前期已獲批臨床的ACC085注射液為同一活性成份的不同給藥劑型。"
+    },
+    {
+      "id": "5172490",
+      "time": "2026-10-27 18:14:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯發股份：2026年第三季度淨利潤2378.44萬元，同比下降70.03%】聯發股份公告，2026年第三季度營業收入8.04億元，同比下降15.16%；歸母淨利潤2378.44萬元，同比下降70.03%；扣非淨利潤2851.75萬元，同比下降35.41%。2026年前三季度營業收入25.67億元，同比下降13.69%；歸母淨利潤4315.74萬元，同比下降83.63%；扣非淨利潤1.3億元，同比下降24.83%。"
+    },
+    {
+      "id": "5172489",
+      "time": "2026-10-27 18:14:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【快意電梯：2026年第三季度淨利潤虧損615.35萬元，同比由盈轉虧】快意電梯公告，2026年第三季度營業收入3.43億元，同比增長4.91%；歸母淨利潤虧損615.35萬元，扣非淨利潤虧損558.75萬元。2026年前三季度營業收入9.52億元，同比增長0.06%；歸母淨利潤1144.53萬元，同比下降78.02%；扣非淨利潤虧損689.22萬元。"
+    },
+    {
+      "id": "5172488",
+      "time": "2026-10-27 18:14:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東南網架：2026年第三季度淨利潤316.37萬元，同比下降63.89%】東南網架公告，2026年第三季度營業收入19.36億元，同比下降11.01%；歸母淨利潤316.37萬元，同比下降63.89%。2026年前三季度營業收入58.46億元，同比下降12.92%；歸母淨利潤3186.09萬元，同比下降37.42%；扣非淨利潤3226.4萬元，同比增長12.14%。"
+    },
+    {
+      "id": "5172487",
+      "time": "2026-10-27 18:13:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州輪胎：2026年第三季度淨利潤1.51億元，同比下降25.02%】貴州輪胎公告，2026年第三季度營業收入29.77億元，同比增長7.74%；淨利潤1.51億元，同比下降25.02%；扣非淨利潤1.52億元，同比下降17.82%。2026年前三季度營業收入87.15億元，同比增長9.54%；淨利潤5.1億元，同比增長13.23%；扣非淨利潤5.13億元，同比增長19.96%。"
+    },
+    {
+      "id": "5172486",
+      "time": "2026-10-27 18:13:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中一科技：2026年第三季度淨利潤1.22億元，同比增長421.97%】中一科技公告，2026年第三季度營業收入25.03億元，同比增長64.38%；歸母淨利潤1.22億元，同比增長421.97%；扣非淨利潤1.12億元，同比增長711.27%。2026年前三季度營業收入64.42億元，同比增長53.40%；歸母淨利潤2.89億元，同比增長645.95%；扣非淨利潤2.59億元，同比增長2,872.21%。"
+    },
+    {
+      "id": "5172485",
+      "time": "2026-10-27 18:13:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣生堂：2026年第三季度淨利潤虧損3541.82萬元】廣生堂公告，2026年第三季度營業收入1.09億元，同比增長1.50%；歸母淨利潤虧損3541.82萬元，扣非淨利潤虧損3811.71萬元。2026年前三季度營業收入3.29億元，同比增長4.08%；歸母淨利潤虧損1.04億元，扣非淨利潤虧損1.1億元。"
+    },
+    {
+      "id": "5172484",
+      "time": "2026-10-27 18:13:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "五糧液:第三季度營收44.4億元人民幣。"
+    },
+    {
+      "id": "5172483",
+      "time": "2026-10-27 18:12:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【元祖股份：2026年第三季度淨利潤1.46億元，同比增長12.75%】元祖股份公告，2026年第三季度營業收入7.83億元，同比增長8.84%；淨利潤1.46億元，同比增長12.75%；扣非淨利潤1.45億元，同比增長13.84%。2026年前三季度營業收入15.32億元，同比下降1.06%；淨利潤8319.33萬元，同比下降36.53%；扣非淨利潤7223.98萬元，同比下降19.70%。"
+    },
+    {
+      "id": "5172482",
+      "time": "2026-10-27 18:12:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾為電子：2026年第三季度淨利潤1243.37萬元，同比下降89.57%】艾為電子公告，2026年第三季度營業收入7.66億元，同比下降5.05%；歸母淨利潤1243.37萬元，同比下降89.57%；扣非淨利潤1355.72萬元，同比下降80.77%。2026年前三季度營業收入21.17億元，同比下降2.75%；歸母淨利潤1.07億元，同比下降61.08%；扣非淨利潤2411.33萬元，同比下降87.53%。"
+    },
+    {
+      "id": "5172481",
+      "time": "2026-10-27 18:12:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣匯能源：2026年第三季度淨利潤14.95億元 同比增長842.20%】廣匯能源公告，2026年第三季度營業收入88.42億元，同比增長30.37%；歸母淨利潤14.95億元，同比增長842.20%；扣非淨利潤14.94億元，同比增長1,328.25%。2026年前三季度營業收入230.83億元，同比增長2.45%；歸母淨利潤27.73億元，同比增長174.04%；扣非淨利潤28.26億元，同比增長201.10%。"
+    },
+    {
+      "id": "5172479",
+      "time": "2026-10-27 18:11:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛朋醫療：2026年第三季度淨利潤虧損683.97萬元，同比由盈轉虧】愛朋醫療公告，2026年第三季度營業收入8295.9萬元，同比下降10.30%；淨利潤虧損683.97萬元，扣非淨利潤虧損703.34萬元。2026年前三季度營業收入2.32億元，同比下降7.92%；淨利潤虧損1672.45萬元，扣非淨利潤虧損1561.79萬元。"
+    },
+    {
+      "id": "5172478",
+      "time": "2026-10-27 18:11:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東田微：2026年第三季度淨利潤7326.3萬元，同比增長149.65%】東田微公告，2026年第三季度營業收入3.25億元，同比增長24.70%；歸母淨利潤7326.3萬元，同比增長149.65%；扣非淨利潤7083.2萬元，同比增長146.70%。2026年前三季度營業收入8.26億元，同比增長29.82%；歸母淨利潤1.6億元，同比增長100.20%；扣非淨利潤1.57億元，同比增長99.70%。"
+    },
+    {
+      "id": "5172477",
+      "time": "2026-10-27 18:11:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方盛虹：2026年第三季度淨利潤1.43億元，同比增長155.08%】東方盛虹公告，2026年第三季度營業收入229.19億元，同比下降26.65%；歸母淨利潤1.43億元，同比增長155.08%；扣非淨利潤4271.17萬元，同比增長112.45%。2026年前三季度營業收入928.43億元，同比增長0.74%；歸母淨利潤46.43億元，同比增長3,573.11%；扣非淨利潤43.58億元，同比增長6,200.82%。"
+    },
+    {
+      "id": "5172476",
+      "time": "2026-10-27 18:11:41",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【泡泡瑪特：LABUBU電影目前還在劇本環節】藍鯨新聞10月27日電，在今日泡泡瑪特三季度財報電話會上，公司管理層表示，LABUBU電影目前還在劇本環節，劇本開發的週期會相對長一些，除此以外也在和海外知名公司探索了動畫的可能性。（藍鯨新聞）"
+    },
+    {
+      "id": "5172475",
+      "time": "2026-10-27 18:11:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波聯合：前三季度營收3.96億元 淨利同比降90.51%】寧波聯合公告稱，2026年第三季度實現營業收入1.15億元，同比下降62.05%；淨虧損1196.53萬元，同比轉虧。2026年前三季度實現營業收入3.96億元，同比下降55.56%；歸母淨利潤636.63萬元，同比下降90.51%；扣非歸母淨利潤15.81萬元，同比下降99.71%。業績變動主要系處置投資性房地產收入減少、聯營企業投資收益減少及持有的其他上市公司股票市值下降等所致。"
+    },
+    {
+      "id": "5172474",
+      "time": "2026-10-27 18:11:14",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【音飛儲存：前三季度營收8.63億元 淨利同比增111.23%】音飛儲存公告稱，2026年第三季度實現營業收入2.32億元，同比增長59.89%；淨虧損865.64萬元。2026年前三季度實現營業收入8.63億元，同比增長25.43%；歸屬於上市公司股東的淨利潤1.32億元，同比增長111.23%；扣除非經常性損益的淨利潤5025.04萬元，同比下降8.70%。第三季度營收增長主要系前期承接專案集中達到收入確認節點，前三季度淨利增長主要系全資子公司增資擴股投資收益影響。"
+    },
+    {
+      "id": "5172473",
+      "time": "2026-10-27 18:11:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "鈴木第二季度營業利潤280.4億盧比，市場預期278.8億盧比。"
+    },
+    {
+      "id": "5172472",
+      "time": "2026-10-27 18:10:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭叉集團：2026年第三季度淨利潤5.75億元，同比下降9.76%】杭叉集團公告，2026年第三季度營業收入50.24億元，同比增長7.45%；歸屬於上市公司股東的淨利潤5.75億元，同比下降9.76%；扣非淨利潤5.78億元，同比下降7.24%。2026年前三季度營業收入151.24億元，同比增長8.25%；歸母淨利潤17.9億元，同比增長2.11%；扣非淨利潤17.8億元，同比增長3.81%。"
+    },
+    {
+      "id": "5172470",
+      "time": "2026-10-27 18:10:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【景嘉微：前三季度營收5.53億元 淨虧損1.85億元】景嘉微公告稱，2026年第三季度實現營業收入2.18億元，同比下降27.55%；淨虧損7664.97萬元，同比轉虧。2026年前三季度實現營業收入5.53億元，同比增長11.71%；淨虧損1.85億元，同比轉虧。前三季度研發投入4.41億元，同比增長90.72%，主要系並表範圍增加及子公司業務規模擴大所致。"
+    },
+    {
+      "id": "5172469",
+      "time": "2026-10-27 18:10:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國盛證券：前三季營收13.27億元 淨利同比增3.06%】國盛證券公告稱，2026年第三季度實現營業總收入3.997億元，同比下降19.40%；歸母淨利潤3385.32萬元，同比增長3.21%。2026年前三季度實現營業總收入13.27億元，同比下降6.10%；歸母淨利潤2.49億元，同比增長3.06%。因涉嫌違反賬戶實名制相關規定，公司於2026年7月31日被證監會立案，9月24日收到江西證監局行政處罰事先告知書等相關監管文書。"
+    },
+    {
+      "id": "5172468",
+      "time": "2026-10-27 18:09:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華北製藥：擬不超2.20億元參股增資安源醫藥】華北製藥公告稱，公司擬分三輪參與對安源醫藥科技(上海)有限公司的增資，合計出資不超過2.20億元。本次交易整體分四階段實施：第一階段公司股東華藥集團以2.45億元受讓安源生物持有的安源醫藥47.1154%股權；後續三輪增資華藥集團與公司分別同額出資，第一輪各出9000萬元、第二輪各出7950萬元、第三輪各出5000萬元。本次股權轉讓及第一輪增資完成後，華藥集團持有安源醫藥47.8572%股權，為其控股股東，公司持有安源醫藥12.8571%股權，安源醫藥為公司參股公司。本次交易構成關聯交易，不構成重大資產重組，已經公司董事會審議透過，無需提交股東會審議。"
+    },
+    {
+      "id": "5172467",
+      "time": "2026-10-27 18:09:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金運鐳射：2026年第三季度淨利潤虧損294.14萬元，同比由盈轉虧】金運鐳射公告，2026年第三季度營業收入6042.77萬元，同比下降3.24%；淨利潤虧損294.14萬元，扣非淨利潤虧損309.37萬元。2026年前三季度營業收入1.75億元，同比下降1.71%；淨利潤虧損774.71萬元，扣非淨利潤虧損864.21萬元。"
+    },
+    {
+      "id": "5172466",
+      "time": "2026-10-27 18:09:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萊寶高科：2026年第三季度淨利潤2836.54萬元，同比下降43.72%】萊寶高科公告，2026年第三季度營業收入12.24億元，同比下降20.65%；歸母淨利潤2836.54萬元，同比下降43.72%。2026年前三季度營業收入40.94億元，同比下降12.67%；歸母淨利潤1.24億元，同比下降46.81%；扣非淨利潤8569.87萬元，同比下降62.90%。公司稱，銷售收入下降主要受中大尺寸電容式觸控式螢幕全貼合產品與車載蓋板玻璃產品銷售收入減少影響。"
+    },
+    {
+      "id": "te:markets:595397",
+      "time": "2026-10-27 18:07:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "United Parcel Service earnings below expectations at 1.69 USD — United Parcel Service (UPS) released earnings per share at 1.69 USD, compared to market expectations of 1.72 USD."
+    },
+    {
+      "id": "te:markets:595395",
+      "time": "2026-10-27 18:05:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Hilton Worldwide earnings above expectations at 2.45 USD — Hilton Worldwide (HLT) released earnings per share at 2.45 USD, compared to market expectations of 2.43 USD."
+    },
+    {
+      "id": "te:markets:595394",
+      "time": "2026-10-27 18:01:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Sweden",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Assa Abloy earnings below expectations at 4.24 SEK — Assa Abloy (ASSAB) released earnings per share at 4.24 SEK, compared to market expectations of 4.29 SEK."
+    },
+    {
+      "id": "te:markets:595393",
+      "time": "2026-10-27 18:01:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "French Bond Yields Rebound on Profit-Taking — France’s 10-year OAT yield climbed above 4.95% as investors took profits following its largest daily decline in five months, while concerns over a prolonged Middle East conflict dampened demand for riskier assets. On Monday, the yield fell around 11 basis points after Moody’s affirmed France’s sovereign credit rating, offering temporary relief amid strained public finances, a fragmented parliament and growing political uncertainty ahead of next year’s presidential election. Weekend protests also passed without the widespread unrest seen the previous week, easing immediate concerns over domestic instability. Meanwhile, attention shifted to upcoming policy decisions from the European Central Bank and the US Federal Reserve. Both central banks are widely expected to leave interest rates unchanged this week, leaving investors focused on their forward guidance for clues about the future path of monetary policy."
+    },
+    {
+      "id": "te:markets:595392",
+      "time": "2026-10-27 18:00:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand at Near 1-Month Low — The South African rand traded around 16.7 per USD, its lowest since early October, pressured by a firmer greenback and lower prices of key precious metals such as gold and platinum group metals (PGMs). Elevated oil prices and geopolitical uncertainty added to the headwinds, increasing costs for energy-importing economies such as South Africa and complicating central banks’ policy decisions. However, domestic fiscal developments provided a counterweight to external pressures, with Finance Minister Enoch Godongwana’s Medium-Term Budget Policy Statement (MTBPS) signalling continued progress towards fiscal consolidation and earning a favourable response from major credit rating agencies. Meanwhile, South Africa’s annual inflation edged up to 4.5% in September from 4.4% in August, below expectations of 4.7%, but is expected to rise again in October. Despite improved inflation prospects following November fuel tax relief, persistent price pressures leave the SARB’s next move uncertain."
+    },
+    {
+      "id": "te:economy:595383",
+      "time": "2026-10-27 17:18:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "Spain Unemployment Rate Back Above 10% — Spain’s unemployment rate rose to 10.18% in Q3 2026, up from 9.87% in Q2 and above market expectations of 9.9%. The number of unemployed people increased by 95,900, or 3.8%, from the previous quarter, marking the largest rise for a third quarter since Q3 2020. Nevertheless, the unemployment rate was the lowest recorded for a third quarter since 2007. The number of unemployed people reached 2.591 million. Meanwhile, employment increased by 73,600, or 0.3%, marking the weakest gain for a third quarter since 2019. Despite the modest growth, total employment reached a record high of 22.852 million. The number of employed foreign nationals rose by 75,400, or 2%, while employment among Spanish nationals declined by 1,800. By sector, public employment increased by 89,900, while private-sector employment fell by 16,300. The labour force expanded by 169,500 to a record 25.443 million, pushing the participation rate up to 59.5%."
+    },
+    {
+      "id": "te:economy:595382",
+      "time": "2026-10-27 17:10:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Euro Area Household Credit Growth Steady in September — Bank lending to Eurozone households increased 3.1% year-on-year to €7.276 trillion in September 2026, matching August’s pace rate and market expectations. Growth remained at 3.1% for a third consecutive month, holding at its highest level since February 2023. Lending to businesses also remained steady, rising 4.2% year-on-year, unchanged from August. Meanwhile, overall private-sector credit growth, which includes lending to households and non-financial corporations, held at 4.3% for the second consecutive month."
+    },
+    {
+      "id": "te:markets:595378",
+      "time": "2026-10-27 17:02:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Philippines",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Philippines 10Y Bond Yield Hits 16-1/2-year High — Philippines 10 Year Government Bond Yield increased to 8.21%, the highest since May 2010. Over the past 4 weeks, Philippines 10Y Bond Yield gained 52.00 basis points, and in the last 12 months, it increased 214.20 basis points."
+    },
+    {
+      "id": "te:markets:595377",
+      "time": "2026-10-27 17:00:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Rises by 0.77% — Top currency gainers are Brazilian Real (0.77%) and Dollar Index (0.19%). Biggest losers are Euro (-0.17%), Japanese Yen (-0.14%) and British Pound (-0.14%)."
+    },
+    {
+      "id": "te:economy:595372",
+      "time": "2026-10-27 16:54:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "Money Supply M2",
+        "Importance 0"
+      ],
+      "text": "Taiwan M2 Money Supply Hits Record High — Taiwan’s M2 money supply rose 7.24% year-on-year to a record TWD 71,361 billion in September 2026, accelerating from 6.79% in the previous month. The faster expansion reflected higher annual growth in lending and investment, as well as the temporary repatriation of overseas financing funds by enterprises. On a monthly basis, M2 increased 0.97%, while average growth for the first nine months of the year stood at 6.69%. Meanwhile, lending and investment by all monetary institutions grew 9.79% year-on-year, up from 9.43% in August, driven primarily by increased claims on the private sector, public enterprises, and government debt. Including lending and investment by life insurers and adjusting for bad-debt write-offs transferred by monetary institutions, the broader measure rose 8.06%, accelerating from 7.69% in the previous month."
+    },
+    {
+      "id": "te:markets:595365",
+      "time": "2026-10-27 16:48:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Edges Down — Frankfurt's DAX 40 traded slightly lower around 25,360 on Tuesday, after a positive start to the week, as investors digested corporate earnings and positioned themselves ahead of key policy decisions from the Fed and the ECB. At the same time, political instability in France and broader geopolitical uncertainty kept investors cautious. Among key movers, Beiersdorf plunged over 4% after narrowly missing third-quarter sales growth expectations. Autos also faced pressure, led by Mercedes Benz-Group, which dropped 4% as it lowered its 2026 profit margin outlook for its core cars division, citing tougher market conditions in China and higher costs in Q4..In contrast, Porsche advanced 1.7% in the MDAX after reporting a recovery in profit over the first nine months of the year and reaffirming its 2026 outlook. Technology and AI-related stocks such Siemens Energy, Infineon Technologies, SAP were among the top performers."
+    },
+    {
+      "id": "te:markets:595363",
+      "time": "2026-10-27 16:46:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Fall as ECB Decision Looms — The CAC 40 fell 0.4% to 7,817 on Tuesday, reversing gains from the previous session as investors braced for major central bank decisions later this week. The European Central Bank is due to announce its policy decision on Thursday and is widely expected to leave interest rates unchanged. The decline came despite a tech-led rebound in other markets following Anthropic’s IPO filing and improving hopes for a diplomatic breakthrough in the Middle East. Domestically, France’s consumer confidence indicator fell to 80 in October 2026 from 85 in September, missing expectations and reaching its lowest level since June 2013, amid rising bond yields, austerity disputes and cost-of-living protests. On the corporate front, Orange fell 1.5% despite raising its 2026 core earnings growth target and maintaining solid revenue in Q3. Other notable decliners included ENGIE (-1.8%), Saint-Gobain (-1.3%) and Dassault Systèmes (-1%)."
+    },
+    {
+      "id": "te:markets:595362",
+      "time": "2026-10-27 16:44:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Trades Lower — The FTSE MIB fell around 0.5% to 48,960 on Tuesday, giving back some of the previous session's gains, weighed down by losses in heavyweight financials. Mediobanca dropped 1.5%, while Monte dei Paschi di Siena lost 0.8%, UniCredit fell 0.8% and Intesa Sanpaolo shed 0.7%. European banking sentiment came under pressure after regional peer HSBC's third-quarter revenue missed forecasts. Investors also monitored Italy's 2027 budget plans, including proposed contributions from financial institutions to help fund tax cuts and spending. Luxury stocks remained under pressure, with Moncler down 1.3% and Brunello Cucinelli losing 0.8%. Automakers also traded lower, with Ferrari falling 0.4% and Stellantis dropping 1.7%. In contrast, technology shares gained, led by STMicroelectronics (+1.1%), while Prysmian rose 0.5%. Utilities also advanced, with Snam and Italgas gaining 0.9% and 0.8%, respectively."
+    },
+    {
+      "id": "te:markets:595360",
+      "time": "2026-10-27 16:44:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Zinc Rises to 4-Week High — Zinc futures rose to $3,830 per tonne, the highest level in four weeks, supported by declining inventories, high electricity costs and tight near-term supply. Stocks held on the Shanghai Futures Exchange dropped 5% from the previous week to 137,139 tonnes, marking their lowest level since March, while inventories on the London Metal Exchange stood at 133,700 tonnes. Supply pressures have been particularly pronounced in Western markets, where zinc output declined 3.4% year-on-year in the first half of 2026, weighed down by elevated energy prices and limited raw material availability. Uncertainty over the future of Nyrstar’s loss-making Budel smelter in the Netherlands has also raised some concerns over the supply outlook. Meanwhile, China’s refined zinc output fell 1.9% month-on-month and 6.4% year-on-year in September. However, the prospect of a recovery in Chinese mine production and improved concentrate availability could ease supply tightness and cap further price gains."
+    },
+    {
+      "id": "te:markets:595355",
+      "time": "2026-10-27 16:40:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Stocks Sink 3% in Afternoon Trading — Indonesia’s IDX Composite tumbled 165 points, or 3.1%, to 5,204 on Tuesday afternoon, erasing early gains and extending the prior decline. Persistent rupiah weakness, concerns over foreign fund outflows, and lingering uncertainty surrounding Indonesia’s MSCI status dampened sentiment. Meanwhile, fiscal worries mounted as higher oil prices coincided with government proposals to offer free education from primary school through university, adding to concerns over rising budget spending. Investors also adopted a cautious stance ahead of the Fed’s policy meeting and major U.S. earnings reports, while vigilantly monitoring developments in the Middle East amid renewed diplomatic efforts. Selling pressure was broad-based across sectors, with energy, infrastructure, and consumer cyclicals leading the weakness. Indonesia’s four largest banks fell between 2.4% and nearly 5%. Other biggest laggards included Darma Henwa (-6.9%), Indika Energy (-5.9%), and Telkom Indonesia (-5.3%)."
+    },
+    {
+      "id": "te:markets:595351",
+      "time": "2026-10-27 16:33:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Hovers Near Multi-Month Low Ahead of ECB Decision — The euro weakened to $1.115, hovering near its lowest level since April 2025, as renewed Middle East tensions boosted demand for the US dollar. Sentiment was also pressured by France’s deteriorating fiscal outlook and rising bond-market concerns, while investors awaited the ECB’s policy decision and key eurozone inflation and GDP data. The ECB is widely expected to hold interest rates steady this week amid signs of slowing economic growth, leaving markets focused on its forward guidance. GDP data due Friday are expected to show weaker eurozone growth, reflecting headwinds including summer heat waves, low water levels in major waterways and a surge in global bond yields. Meanwhile, the inflation picture remains mixed, with a German fuel-tax rebate and easing Spanish inflation expected to temper price pressures. In the US, the Federal Reserve is also expected to keep rates unchanged this week, with markets pricing in potential rate hikes from both central banks in December."
+    },
+    {
+      "id": "te:markets:595350",
+      "time": "2026-10-27 16:32:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 1.04% Lower — The FTSE 100 Index is dropping 112 points. Leading the losses are HSBC Holdings (-6.99%), Reckitt Benckiser (-6.09%) and Severn Trent (-1.66%)."
+    },
+    {
+      "id": "te:markets:595349",
+      "time": "2026-10-27 16:31:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.09% Lower — The DAX Index is losing 24 points. Losses were led by Beiersdorf (-3.73%), Henkel (-1.68%) and Volkswagen (-1.44%). Offsetting the fall, top gainers were Siemens Energy (1.72%), Infineon (1.35%) and Zalando (0.56%)."
+    },
+    {
+      "id": "te:markets:595348",
+      "time": "2026-10-27 16:30:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Edge Down — European stocks traded lower on Tuesday, with the STOXX 50 slipping 0.1% and the STOXX 600 declining 0.3%, following gains of 1% and 0.8%, respectively, in the previous session. Investors assessed fresh corporate earnings while awaiting key central bank policy decisions this week, including those from the Fed and the ECB. In addition, concerns over the situation in France continue to weigh on investor sentiment. HSBC plunged more than 6% after reporting disappointing revenue, leading the declines. Reckitt fell 5.8% after cutting its sales outlook. Other notable laggards included Safran (-1.4%), Nestle (-1%) and Inditex (-0.9%). On the upside, Novartis gained 3% after beating earnings expectations and raising its full-year guidance. NXP Semiconductors advanced 4.6% ahead of its quarterly results, while Siemens Energy rose 1% and Rio Tinto added 1.6%."
+    },
+    {
+      "id": "te:markets:595347",
+      "time": "2026-10-27 16:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.35% Lower — The CAC 40 Index is dropping 28 points. Leading the losses are Pernod Ricard (-1.74%), Stellantis NV (-1.72%) and ENGIE (-1.59%). Top gainers were STMicroelectronics (0.99%), Schneider Electric (0.95%) and Sanofi (0.32%)."
+    },
+    {
+      "id": "te:markets:595346",
+      "time": "2026-10-27 16:28:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Weakens Ahead of UK Budget — The British pound weakened further to $1.332 in the final week of October, retreating from more than one-month highs as renewed concerns over a prolonged conflict in the Middle East boosted demand for the US dollar. Investors also remained cautious ahead of Wednesday’s UK Budget, where Chancellor John Healey is expected to raise the national living wage by around 4% and consider measures to ease businesses’ electricity costs. According to the Financial Times, the government plans also to provide an additional £20.4 billion to the National Wealth Fund and British Business Bank through increased borrowing, although borrowing is not expected to begin until 2028–29, limiting immediate concerns for bond markets. Meanwhile, UK shop price inflation accelerated to 2.1% year-on-year in October, its highest level since February 2024 and above expectations of 1.6%."
+    },
+    {
+      "id": "te:markets:595345",
+      "time": "2026-10-27 16:20:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls as HSBC and Reckitt Shares Slide — The FTSE 100 fell more than 1% on Tuesday, underperforming European peers as disappointing results from HSBC and Reckitt weighed on financial and consumer stocks. HSBC dropped over 6% after third-quarter pretax profit rose 32% to $9.6 billion, missing analysts’ $9.7 billion estimate, while the bank left its full-year outlook unchanged. Reckitt also lost more than 6% after lowering its annual sales growth forecast, citing weaker revenue in North America. Adding to concerns over household spending, UK shop price inflation accelerated to 2.1% in October from 1.4% in September, exceeding expectations of 1.6%. Mining stocks offered some support, with Rio Tinto gaining more than 1.5%, Fresnillo rising 1.5% and Antofagasta advancing around 1%. Gold traded near $4,000 an ounce ahead of the Federal Reserve’s policy decision, while oil prices fell for a second session as renewed diplomatic efforts raised hopes of avoiding further escalation between the US and Iran."
+    },
+    {
+      "id": "te:markets:595344",
+      "time": "2026-10-27 16:10:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rice Falls by 2.08% — Top commodity losers are Rice (-2.08%), Palm Oil (-1.96%) and Cotton (-0.70%)."
+    },
+    {
+      "id": "te:markets:595342",
+      "time": "2026-10-27 16:05:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Titanium Falls by 4.65% — Top commodity losers are Titanium (-4.65%), Platinum (-3.23%), Silver (-2.01%) and Gold (-0.45%). Gains are led by Lithium Carbonate (1.07%)."
+    },
+    {
+      "id": "te:markets:595339",
+      "time": "2026-10-27 16:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Iberdrola Shares Hit 15-year High — Iberdrola shares increased to 22.08 EUR, the highest since August 2011. Over the past 4 weeks, Iberdrola gained 8.01%, and in the last 12 months, it increased 28.37%."
+    },
+    {
+      "id": "te:markets:595338",
+      "time": "2026-10-27 16:00:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Falls by 1.21% — Top commodity losers are Natural Gas UK (-1.21%), Natural Gas EU (-1.20%) and Natural gas (-0.88%). Gains are led by Heating Oil (0.60%), Crude Oil (0.59%) and Brent Oil (0.45%)."
+    },
+    {
+      "id": "te:economy:595331",
+      "time": "2026-10-27 15:55:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Consumer Confidence",
+        "Importance 2"
+      ],
+      "text": "French Consumer Morale Lowest Since 2013 — The consumer confidence indicator in France fell to 80 in October 2026, below expectations and September’s 85, reaching its lowest level since June 2013. The decline comes amid rising French bond yields, fiscal uncertainty over austerity measures and protests over the cost of living. Consumers became more pessimistic about their expected (-24 vs -15 in September) and their past (-32 vs -26) financial situation. Major purchase sentiment weakened to -41 from -37, while the opportunity to save declined to 37 from 43 and expected saving capacity fell to 12 from 15. Meanwhile, unemployment expectations rose to 61 from 56, while sentiment toward France’s future standard of living deteriorated to -67 from -61. The assessment of past living standards fell to -85 from -82, its lowest level since the survey began in October 1972. The savings climate index declined to 118 from 120. Perceptions of past price increases rose to 42 from 34, while inflation expectations improved to -7 from -9."
+    },
+    {
+      "id": "te:markets:595327",
+      "time": "2026-10-27 15:48:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Languishes at Four-Year Lows — Iron ore futures declined toward CNY 660 per ton on Tuesday, hitting fresh four-year lows amid signs of abundant global supply and a deteriorating demand outlook. China is entering a seasonally weaker period for steel consumption, while elevated oil prices have heightened concerns about the broader global economic outlook. Deteriorating profitability among Chinese steelmakers has further weighed on demand expectations, with industry data showing that the blast furnace operating rate across 247 Chinese steel mills stood at 80% last week, down 4.3 percentage points from the same period a year earlier. On the supply side, shipments from four major iron ore producers, including Rio Tinto Group and BHP Group, are expected to increase by nearly 20 million tons in the fourth quarter, while Guinea’s Simandou mine continues to expand production."
+    },
+    {
+      "id": "te:economy:595320",
+      "time": "2026-10-27 15:37:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brunei",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Brunei Consumer Prices Fall for First Time Since March — Brunei’s consumer prices edged down 0.1% year-on-year in September 2026, reversing a 0.5% increase in the previous month and marking the first decline in six months. Prices fell for clothing (-6.1% vs 2.4% in August), communication (-3.5% vs -3.5%), recreation (-0.7% vs 0.7%), and miscellaneous goods and services (-0.1% vs 0.3%). Transport prices were muted at 0.02%, after a 0.6% increase in August. Housing costs remained nearly flat (at 0.02%). Meanwhile, inflation eased for food and non-alcoholic beverages (1.3% vs 1.7%) and restaurants and hotels (0.5% vs 0.7%), while education inflation held steady (at 0.3%). In contrast, prices accelerated for furnishings, household equipment and routine maintenance (0.9% vs 0.3%) and health (0.8% vs 0.6%). On a monthly basis, consumer prices fell 0.2%, swinging from a 0.3% increase in August and signaling the fifth monthly decline so far this year."
+    },
+    {
+      "id": "te:economy:595318",
+      "time": "2026-10-27 15:35:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Lithuania",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Lithuania Retail Sales Growth Rises in September — Retail sales in Lithuania rose by 5.6% year-on-year in September, following a revised 3.5% increase in the previous month. Growth accelerated in retail trade, excluding automotive fuel (7.7% vs. 5.5% in August), non-food items (11.9% vs. 8.8%), textiles and clothing (21.2% vs. 9.8%), audio, video, hardware, furniture and lighting (17.1% vs. 13.9%), and pharmaceutical, medical and cosmetic products (11.6% vs. 9.3%). Sales also increased for food, beverages and tobacco (1.4% vs. 0.8%), information and communication technology equipment, cultural and recreational goods, watches, jewelry and other new goods (2.5% vs. 1.8%), and mail-order and online sales (6.2% vs. 3.6%). Meanwhile, automotive fuel sales declined at a slower pace (-1.7% vs. -3.3%). On a monthly basis, retail sales edged up 0.5% in September, rebounding from a revised 0.1% decline in August."
+    },
+    {
+      "id": "te:markets:595313",
+      "time": "2026-10-27 15:26:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "France 10Y Bond Yield Hits 4-week Low — France 10 Year Government Bond Yield decreased to 4.72%, the lowest since September 2026. Over the past 4 weeks, France 10Y Bond Yield gained 13.40 basis points, and in the last 12 months, it increased 149.22 basis points."
+    },
+    {
+      "id": "te:economy:595311",
+      "time": "2026-10-27 15:20:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Swedish Household Lending Growth at Near 4-Year High — Swedish household lending growth edged up to 3.4% year-on-year in September 2026 from 3.3% in the prior month, marking its highest rate since December 2022. Housing loans, which accounted for 83% of household credit, grew 3.6%, while consumer loans, representing 6%, increased 1.6%. Meanwhile, lending to non-financial corporations expanded 4.0%. Borrowing costs were mixed. The average interest rate on new housing loan agreements rose to 2.83% from 2.78%, while the average floating mortgage rate edged down to 2.72% from 2.73%. For housing loans with maturities of over one to five years, the average fixed rate increased to 3.39% from 3.18% in August. The average fixed rate on new agreements with maturities of over three months to one year also climbed to 3.04% from 2.79%. Meanwhile, household deposits edged up to SEK 2,974 billion from SEK 2,970 billion, with demand deposits accounting for 74% of total savings, or SEK 2,200 billion."
+    },
+    {
+      "id": "te:economy:595310",
+      "time": "2026-10-27 15:18:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Sweden Trade Surplus Widens in September — Sweden recorded a trade surplus of SEK 4.1 billion in September 2026, widening from SEK 3.4 billion in the same month a year earlier, with exports and imports rising at the same pace. Exports grew 18.7% year-on-year to a record SEK 206.4 billion, supported by increased sales to EU markets (+19.2% to SEK 116.0 billion) and non-EU markets (+18.0% to SEK 90.4 billion). Imports also rose 18.7% to an all-time high of SEK 202.3 billion, driven by purchases from EU countries (+19.2% to SEK 137.4 billion) and non-EU countries (+17.6% to SEK 64.9 billion). For the first nine months of the year, the country posted a trade deficit of SEK 0.8 billion, shifting from a surplus of SEK 42.4 billion in the previous year, as imports increased 8.6%, outpacing the 5.5% rise in exports. Seasonally adjusted, net trade showed a surplus of SEK 0.5 billion in September, down slightly from SEK 0.6 billion in August."
+    },
+    {
+      "id": "te:economy:595309",
+      "time": "2026-10-27 15:16:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Total Vehicle Sales",
+        "Importance 1"
+      ],
+      "text": "Thailand Car Sales Rise 14.28% in September — Thailand’s domestic vehicle sales rose 14.28% year-on-year to a five-month low of 55,254 units in September 2026, easing from 25.59% in the previous month, according to data from the Federation of Thai Industries (FTI). Still, it marked the seventh straight month of growth, highlighting the continued recovery in domestic demand. Meanwhile, vehicle production declined 6.08% year-on-year to 120,319 units, reversing a 10.93% increase in August. For the full year, car production is expected to reach 1.45 million units in 2026. Thailand, Southeast Asia’s largest automotive production hub, also recorded a 4.55% increase in vehicle exports, rebounding from a 2.04% decline in the previous month."
+    },
+    {
+      "id": "te:markets:595308",
+      "time": "2026-10-27 15:16:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 1.27% Lower — The Shangai Composite Index dropped 47 points or 1.27 percent on Tuesday to close at 3650 points. Losses were led by Sanan Optoelectron (-4.29%), Avic Aviation Engine (-4.05%) and Poly Real Estate (-3.73%)."
+    },
+    {
+      "id": "te:economy:595305",
+      "time": "2026-10-27 15:14:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Lithuania",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Lithuania Industrial Output Accelerates — Industrial production in Lithuania rose 7.4% year-on-year in September 2026, accelerating from a downwardly revised 4.6% increase in the previous month. Growth picked up in manufacturing, reaching 8.0% from 5.2% in August, and in mining and quarrying, rising to 11.8% from 9.3%. The pace of decline also eased in electricity, gas, steam, and air conditioning supply, where output fell 5.6% after an 8.1% drop in August. Meanwhile, the downturn continued in water supply, sewerage, waste management, and remediation services, with output falling 10.1%, compared with a 10.0% contraction in the previous month. On a seasonally adjusted monthly basis, industrial production rose 1.8%, after remaining flat in August."
+    },
+    {
+      "id": "te:economy:595303",
+      "time": "2026-10-27 15:12:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "South Africa Leading Index Hits 5-Month High — South Africa’s composite leading business cycle indicator rose 0.9% month-on-month in August 2026, rebounding from a downwardly revised 0.8% fall in the previous month. It marked the highest reading since March, as six of the ten available component time series increased. The largest positive contributions came from an acceleration in the six-month smoothed growth rate of real M1 money supply and an increase in the number of residential building plans approved. Conversely, the largest negative contributions came from decelerations in the six-month smoothed growth rates of job advertisements and new passenger vehicle sales. Meanwhile, the composite coincident business cycle indicator rose 0.6% in July, supported by increases in the real value of wholesale, retail and motor trade sales, as well as in industrial production. However, the composite lagging business cycle indicator fell 0.4% in the same month."
+    },
+    {
+      "id": "te:economy:595301",
+      "time": "2026-10-27 15:09:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Turkish Jobless Rate Highest in 7 Months — Turkey’s seasonally adjusted unemployment rate rose to 8.4% in September 2026 from an upwardly revised 7.9% in the previous month. This was the highest jobless rate since February, as the number of unemployed individuals increased by 198,000 to 2.97 million. By gender, the jobless rate stood at 6.9% for men and 11.3% for women. Meanwhile, the employment rate edged down to 48.3% from 48.4%, as the number of employed persons fell by 49,000 to 32.45 million. The labor force participation rate inched up to 52.7% from 52.6% in the previous month, with the labor force increasing by 149,000 to 35.41 million. Among youth aged 15–24, the unemployment rate increased to 14.8% from 13.2%, with rates of 10.4% for men and 23.3% for women. Average weekly actual working hours stood at 42.4 hours in September, down by 0.1 hours from the previous month."
+    },
     {
       "id": "5171731",
       "time": "2026-10-27 15:05:52",

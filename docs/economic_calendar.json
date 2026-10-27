@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-27 15:06:57",
+  "updated": "2026-10-27 19:14:58",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 401,
+  "count": 402,
   "history_summary": {
     "cached": 401,
-    "fetched": 0,
+    "fetched": 1,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 210,
+      "count": 211,
       "dates": [
         {
           "date": "2026-10-26",
@@ -1188,7 +1188,7 @@
         },
         {
           "date": "2026-10-27",
-          "count": 31,
+          "count": 32,
           "events": [
             {
               "id": "capital:1186916",
@@ -1724,9 +1724,9 @@
               "title": "法國10月INSEE消費者綜合信心指數",
               "importance": 1,
               "previous": "86",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "85",
+              "actual": "80",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186920",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -1783,7 +1783,7 @@
               "importance": 1,
               "previous": "9.87 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "10.18 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145421",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -1829,6 +1829,64 @@
               "history_checked_at": "2026-10-18 00:30:33"
             },
             {
+              "id": "capital:1145401",
+              "fid": "1145401",
+              "interval": "this_week",
+              "date": "2026-10-27",
+              "time": "16:20",
+              "datetime": "2026-10-27 16:20:00",
+              "display_time": "10/27 16:20",
+              "country": "臺灣",
+              "title": "臺灣9月M2貨幣供應年率",
+              "importance": 1,
+              "previous": "6.79 %",
+              "forecast": "-- %",
+              "actual": "7.24 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145401",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/23",
+                  "actual": "6.79",
+                  "forecast": "-",
+                  "previous": "7.42"
+                },
+                {
+                  "date": "08/24",
+                  "actual": "7.42",
+                  "forecast": "-",
+                  "previous": "8.13"
+                },
+                {
+                  "date": "07/23",
+                  "actual": "8.13",
+                  "forecast": "-",
+                  "previous": "7.83"
+                },
+                {
+                  "date": "06/18",
+                  "actual": "7.83",
+                  "forecast": "-",
+                  "previous": "6.45"
+                },
+                {
+                  "date": "05/22",
+                  "actual": "6.45",
+                  "forecast": "-",
+                  "previous": "5.79"
+                },
+                {
+                  "date": "04/23",
+                  "actual": "5.79",
+                  "forecast": "-",
+                  "previous": "5.38"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-10-27 19:14:56"
+            },
+            {
               "id": "capital:1145422",
               "fid": "1145422",
               "interval": "this_week",
@@ -1840,8 +1898,8 @@
               "title": "歐元區9月貨幣供應M3年率",
               "importance": 1,
               "previous": "3.5 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "3.4 %",
+              "actual": "3.5 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145422",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -25062,9 +25120,9 @@
       "title": "法國10月INSEE消費者綜合信心指數",
       "importance": 1,
       "previous": "86",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "85",
+      "actual": "80",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186920",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -25121,7 +25179,7 @@
       "importance": 1,
       "previous": "9.87 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "10.18 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145421",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -25167,6 +25225,64 @@
       "history_checked_at": "2026-10-18 00:30:33"
     },
     {
+      "id": "capital:1145401",
+      "fid": "1145401",
+      "interval": "this_week",
+      "date": "2026-10-27",
+      "time": "16:20",
+      "datetime": "2026-10-27 16:20:00",
+      "display_time": "10/27 16:20",
+      "country": "臺灣",
+      "title": "臺灣9月M2貨幣供應年率",
+      "importance": 1,
+      "previous": "6.79 %",
+      "forecast": "-- %",
+      "actual": "7.24 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145401",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/23",
+          "actual": "6.79",
+          "forecast": "-",
+          "previous": "7.42"
+        },
+        {
+          "date": "08/24",
+          "actual": "7.42",
+          "forecast": "-",
+          "previous": "8.13"
+        },
+        {
+          "date": "07/23",
+          "actual": "8.13",
+          "forecast": "-",
+          "previous": "7.83"
+        },
+        {
+          "date": "06/18",
+          "actual": "7.83",
+          "forecast": "-",
+          "previous": "6.45"
+        },
+        {
+          "date": "05/22",
+          "actual": "6.45",
+          "forecast": "-",
+          "previous": "5.79"
+        },
+        {
+          "date": "04/23",
+          "actual": "5.79",
+          "forecast": "-",
+          "previous": "5.38"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-10-27 19:14:56"
+    },
+    {
       "id": "capital:1145422",
       "fid": "1145422",
       "interval": "this_week",
@@ -25178,8 +25294,8 @@
       "title": "歐元區9月貨幣供應M3年率",
       "importance": 1,
       "previous": "3.5 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "3.4 %",
+      "actual": "3.5 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145422",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
