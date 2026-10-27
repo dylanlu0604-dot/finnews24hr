@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-28 05:14:19",
-  "count": 12987,
+  "updated": "2026-10-28 05:18:07",
+  "count": 12990,
   "items": [
+    {
+      "id": "5173745",
+      "time": "2026-10-28 05:17:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合宣告稱，約旦外交大臣在與敘利亞外交大臣通話時，對敘利亞境內伊斯蘭國據點遭襲造成平民死亡表示遺憾。"
+    },
+    {
+      "id": "5173737",
+      "time": "2026-10-28 05:15:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.48%，報13093點。"
+    },
+    {
+      "id": "mkt:01a17f37-1eb1-7ee0-a9a2-0b18dbf934d8",
+      "time": "2026-10-28 05:14:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Joint statement: Jordan and Syria foreign ministers agreed to form a joint security committee to probe details of Jordan's recent strikes on \"Islamic State\" targets inside Syria."
+    },
+    {
+      "id": "mkt:01a17f36-f962-7ee0-a9a2-01199ba96632",
+      "time": "2026-10-28 05:14:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media reported the final voter turnout in the election at 77.7%."
+    },
+    {
+      "id": "5173736",
+      "time": "2026-10-28 05:14:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦和敘利亞外交部長同意成立聯合安全委員會，調查約旦最近對敘利亞境內伊斯蘭國目標的襲擊細節。"
+    },
+    {
+      "id": "5173735",
+      "time": "2026-10-28 05:14:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗戰事施壓特朗普 支援率下滑至36%】伊朗戰爭給美國總統特朗普帶來壓力，部分共和黨人也流露擔憂。福克斯新聞民調顯示，特朗普支援率從戰前44%降至36%。85%選民擔憂通脹，83%擔憂汽油價格，75%擔憂戰爭；共和黨正為守住國會控制權苦戰，壓力持續上升。"
+    },
     {
       "id": "te:markets:595541",
       "time": "2026-10-28 05:13:50",
@@ -116651,34 +116699,6 @@
         "Important"
       ],
       "text": "【Iran says indirect talks with U.S. via mediators continue; will not disclose added U.S. conditions】Iran foreign minister Araqchi said indirect negotiations with the U.S. through mediators including Pakistan and Qatar are ongoing. Iran submitted a seven-day plan that envisaged the Strait of Hormuz being fully reopened on day six; Araqchi said the U.S. told Tehran it accepted those terms but sought to add several clauses and he refused to say whether the additions related to security or economic issues, saying \"we will not negotiate through your channel.\" He said Iran insists the U.S. first honour all commitments in the Islamabad Memorandum of Understanding before talks on other issues proceed and that in a final stage either side could raise any topic for a potential agreement."
-    },
-    {
-      "id": "te:economy:593553",
-      "time": "2026-10-21 05:18:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "South Korea Producer Inflation Eases Slightly — South Korea’s producer prices rose 7.7% year-on-year in September 2026, easing from a 7.9% increase in August. Manufacturing producer prices climbed 12%, driven by a 53.6% surge in coal and petroleum products. Prices for computers, electronic and optical equipment rose 20.5%, while chemical products increased 17.5% and basic metals gained 14.9%. Service prices rose 3.9%, led by a 21.1% increase in financial and insurance service costs. Meanwhile, prices of agricultural, forestry, and marine products advanced 3.3%, while utility prices rose 3.1%. On a monthly basis, the Producer Price Index increased by 0.2% in September."
-    },
-    {
-      "id": "5156964",
-      "time": "2026-10-21 05:15:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：阿斯麥及其他廠商正在加快向 Terafab 交付裝置。"
-    },
-    {
-      "id": "5156963",
-      "time": "2026-10-21 05:15:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.27%，報13315點。"
     }
   ]
 }

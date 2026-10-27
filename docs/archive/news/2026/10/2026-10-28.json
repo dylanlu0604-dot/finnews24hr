@@ -1,7 +1,55 @@
 {
   "date": "2026-10-28",
-  "count": 361,
+  "count": 367,
   "items": [
+    {
+      "id": "5173745",
+      "time": "2026-10-28 05:17:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合宣告稱，約旦外交大臣在與敘利亞外交大臣通話時，對敘利亞境內伊斯蘭國據點遭襲造成平民死亡表示遺憾。"
+    },
+    {
+      "id": "5173737",
+      "time": "2026-10-28 05:15:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.48%，報13093點。"
+    },
+    {
+      "id": "mkt:01a17f37-1eb1-7ee0-a9a2-0b18dbf934d8",
+      "time": "2026-10-28 05:14:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Joint statement: Jordan and Syria foreign ministers agreed to form a joint security committee to probe details of Jordan's recent strikes on \"Islamic State\" targets inside Syria."
+    },
+    {
+      "id": "mkt:01a17f36-f962-7ee0-a9a2-01199ba96632",
+      "time": "2026-10-28 05:14:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media reported the final voter turnout in the election at 77.7%."
+    },
+    {
+      "id": "5173736",
+      "time": "2026-10-28 05:14:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦和敘利亞外交部長同意成立聯合安全委員會，調查約旦最近對敘利亞境內伊斯蘭國目標的襲擊細節。"
+    },
+    {
+      "id": "5173735",
+      "time": "2026-10-28 05:14:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗戰事施壓特朗普 支援率下滑至36%】伊朗戰爭給美國總統特朗普帶來壓力，部分共和黨人也流露擔憂。福克斯新聞民調顯示，特朗普支援率從戰前44%降至36%。85%選民擔憂通脹，83%擔憂汽油價格，75%擔憂戰爭；共和黨正為守住國會控制權苦戰，壓力持續上升。"
+    },
     {
       "id": "te:markets:595541",
       "time": "2026-10-28 05:13:50",
