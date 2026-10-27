@@ -1,7 +1,126 @@
 {
-  "updated": "2026-10-27 09:27:30",
-  "count": 13306,
+  "updated": "2026-10-27 09:31:22",
+  "count": 13303,
   "items": [
+    {
+      "id": "5171252",
+      "time": "2026-10-27 09:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報3897.310點；恒生指數現漲0.324%。"
+    },
+    {
+      "id": "5171251",
+      "time": "2026-10-27 09:30:35",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國9月今年迄今規模以上工業企業利潤年率 15.5%，前值15.70%。"
+    },
+    {
+      "id": "5171250",
+      "time": "2026-10-27 09:30:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.05%，現報2665.810點；上證指數漲0.12%，現報3702.132點；深證成指漲0.71%，現報11615.814點。"
+    },
+    {
+      "id": "5171249",
+      "time": "2026-10-27 09:30:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家統計局：1—9月份，全國規模以上工業企業實現利潤總額60337.4億元，同比增長15.5%。"
+    },
+    {
+      "id": "mkt:01a17afa-dc99-7ee0-a989-4967c5f97f00",
+      "time": "2026-10-27 09:30:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Profit Growth of Industrial Enterprises Above Designated Size YTD YoY (Sep) | actual 15.5% | previous 15.70%"
+    },
+    {
+      "id": "5171248",
+      "time": "2026-10-27 09:30:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股人工智慧股走強 劍橋科技漲超6%】截至發稿，劍橋科技(06166.HK)漲6.10%，明略科技-W(02718.HK)漲5.76%，智譜(02513.HK)漲4.06%。"
+    },
+    {
+      "id": "5171247",
+      "time": "2026-10-27 09:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.06%， 10年期主力合約漲0.01%， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "5171246",
+      "time": "2026-10-27 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲1.21%， 滬深300指數期貨連續漲0.62%， 中證500指數期貨連續漲1.16%， 上證50指數期貨連續漲0.33%。"
+    },
+    {
+      "id": "5171245",
+      "time": "2026-10-27 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報6706.80點。"
+    },
+    {
+      "id": "5171244",
+      "time": "2026-10-27 09:29:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.18%。N萊特轉、澳弘轉債、華懋轉債、微導轉債、億田轉債漲幅居前，分別漲30.00%、4.44%、3.92%、3.16%、2.65%。奧普轉債、萬凱轉債、惠城轉債、絲路轉債、隆新轉債跌幅居前，分別跌1.64%、1.54%、1.03%、1.02%、0.97%。"
+    },
+    {
+      "id": "5171243",
+      "time": "2026-10-27 09:29:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "半導體晶片股開盤領漲，天德鈺漲超10%，東芯股份、中晶科技、力芯微、普冉股份、長川科技等紛紛高開。"
+    },
+    {
+      "id": "5171242",
+      "time": "2026-10-27 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報6622.40點。"
+    },
+    {
+      "id": "5171241",
+      "time": "2026-10-27 09:28:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西對外貿易秘書處（Secex）資料顯示，2026年10月截至第4周，巴西累計裝出大豆481.78萬噸，去年10月為672.78萬噸。日均裝運量為30.11萬噸/日，較去年10月的30.58萬噸/日減少1.54%。"
+    },
+    {
+      "id": "5171240",
+      "time": "2026-10-27 09:27:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊低開，慈文傳媒觸及跌停】影視院線板塊低開，慈文傳媒觸及跌停，中廣天擇、博納影業、上海電影、奧飛娛樂、光線傳媒跟跌。"
+    },
     {
       "id": "5171239",
       "time": "2026-10-27 09:25:38",
@@ -119678,170 +119797,6 @@
         "市場"
       ],
       "text": "【豬肉板塊直線拉昇，東瑞股份漲停】豬肉板塊直線拉昇，東瑞股份漲停，大禹生物、得利斯、神農集團、立華股份、羅牛山等紛紛走高。"
-    },
-    {
-      "id": "mkt:01a156ef-3d5d-7ee0-a8f2-779ba81a5a87",
-      "time": "2026-10-20 09:31:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China bond futures morning open】China bond futures opened in the morning session: 2-year futures (TS) most-active contract up 0.01%, 5-year (TF) up 0.04%, 10-year (T) up 0.10%, 30-year (TL) up 0.20%."
-    },
-    {
-      "id": "mkt:01a156ef-308f-7ee0-a8f2-6e2e78d1d7ac",
-      "time": "2026-10-20 09:31:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "002714.SZ",
-        "Impact bullish"
-      ],
-      "text": "China A-share pork producers rallied in early trade; Dongrui hit the daily limit, while Dayu Bio, Tiankang Bio, Shennong Group, Juxing Agribusiness and Muyuan Foods also rose."
-    },
-    {
-      "id": "mkt:01a156ef-264f-7ee0-a8f2-629427dd3195",
-      "time": "2026-10-20 09:31:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "【China equity index futures open lower】China equity index futures most-active contracts opened lower: CSI 300 (IF) -0.56%, SSE 50 (IH) -0.52%, CSI 500 (IC) -1.06%, CSI 1000 (IM) -1.13%."
-    },
-    {
-      "id": "5154791",
-      "time": "2026-10-20 09:31:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿里巴巴港股下跌2%。"
-    },
-    {
-      "id": "5154790",
-      "time": "2026-10-20 09:30:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.15%，成分股中，中科飛測跌4.05%，拓荊科技跌2.80%，睿創微納跌2.37%，翱捷科技跌2.36%。"
-    },
-    {
-      "id": "5154789",
-      "time": "2026-10-20 09:30:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度金融市場10月20日休市。"
-    },
-    {
-      "id": "mkt:01a156ee-55eb-7ee0-a8f2-5a84402edf49",
-      "time": "2026-10-20 09:30:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share flying car sector opened selectively higher; Dong'an Power hit a third straight daily limit-up; Baolong Technology, Parallel Technology and Guoli Electronics also advanced."
-    },
-    {
-      "id": "5154788",
-      "time": "2026-10-20 09:30:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【飛行汽車板塊區域性高開，東安動力三連板】飛行汽車板塊區域性高開，東安動力三連板，保隆科技、並行科技、國立電子跟漲。"
-    },
-    {
-      "id": "5154787",
-      "time": "2026-10-20 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.15%， 10年期主力合約漲0.08%， 5年期主力合約漲0.04%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "5154786",
-      "time": "2026-10-20 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.13%，成分股中，並行科技漲3.90%，同力股份漲3.81%，同惠電子漲3.23%，錦波生物漲2.81%。"
-    },
-    {
-      "id": "5154785",
-      "time": "2026-10-20 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.83%， 滬深300指數期貨連續跌0.47%， 中證500指數期貨連續跌1.19%， 上證50指數期貨連續跌0.44%。"
-    },
-    {
-      "id": "5154784",
-      "time": "2026-10-20 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤下跌0.15%。澳弘轉債、國科轉債、皓元轉債、歐通轉債、嚴牌轉債跌幅居前，分別跌2.50%、2.10%、2.02%、1.86%、1.74%。奧士轉債、精裝轉債、尚太轉債、斯達轉債、牧原轉債漲幅居前，分別漲30.00%、0.93%、0.92%、0.80%、0.74%。"
-    },
-    {
-      "id": "5154783",
-      "time": "2026-10-20 09:29:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【深交所：“奧士轉債”盤中臨時停牌】深交所公告，“奧士轉債”（127117）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
-    },
-    {
-      "id": "5154782",
-      "time": "2026-10-20 09:29:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內漲1%，現報10360.00元。"
-    },
-    {
-      "id": "te:markets:593254",
-      "time": "2026-10-20 09:28:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Holds Firm — The Australian dollar held its recent gains near $0.70, remaining above multi-month lows as investors awaited further clues on the policy outlook. RBA Deputy Governor Andrew Hauser is due to speak on Wednesday, which could provide insight into the prospects for a fifth rate hike this year. An RBA official recently noted that the labor market may be cooling faster than anticipated, though the next inflation report on October 28 remains key to the policy outlook. Core inflation is expected to rise by 0.9–1.0% in the third quarter, potentially lifting the annual rate to 3.5–3.6%, above the RBA’s 2–3% target and its 3.3% forecast. Governor Michele Bullock and other officials will also face lawmakers that day, offering an opportunity to address the latest figures. Markets now price in roughly a one-in-three chance of a November hike, rising to 56% for December. Elsewhere, the Aussie also drew support from a broadly weaker euro as political concerns in France weighed on the single currency."
-    },
-    {
-      "id": "5154781",
-      "time": "2026-10-20 09:28:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【教育板塊高開，昂立教育漲停】教育板塊高開，昂立教育漲停，凱文教育、華圖山鼎、全通教育高開。"
-    },
-    {
-      "id": "te:markets:593253",
-      "time": "2026-10-20 09:27:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Tokyo Electron Shares Hit Near 6-year Low — Tokyo Electron shares decreased to 10105.00 JPY, the lowest since November 2020. Over the past 4 weeks, Tokyo Electron lost 80.95%, and in the last 12 months, it decreased 67.06%."
     }
   ]
 }
