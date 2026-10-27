@@ -1,7 +1,46 @@
 {
   "date": "2026-10-27",
-  "count": 653,
+  "count": 657,
   "items": [
+    {
+      "id": "mkt:01a17b1d-38b1-7ee0-a989-8e5de227fbb9",
+      "time": "2026-10-27 10:07:54",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share CRO sector extended losses: Lingkang Pharmaceutical hit the daily limit, Nearshore Protein plunged more than 12%, and Lanwei Medical, Joinn Laboratories and Jinshi Yiyao also fell."
+    },
+    {
+      "id": "te:markets:595220",
+      "time": "2026-10-27 10:07:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Starts Week Higher, Rebounds from 6-Week Low — The TAIEX, Taiwan’s benchmark stock index, climbed 294 points, or 0.6%, to 46,355 in Tuesday morning trade, erasing losses from the previous session as trading resumed after a two-day market closure. The broader index moved away from its lowest level since September 15, touched last Thursday, tracking gains on Wall Street overnight amid a rebound in AI-related stocks. The technology, financial, and commercial services sectors mainly lifted the index, with electronic technology rising 0.7%. Moderating oil prices also boosted sentiment, easing concerns about inflation risks and interest rate hikes. TSMC, the world’s largest contract chipmaker, which accounts for more than 40% of the market’s total value, recovered, rising 0.8%. Meanwhile, MediaTek, Hon Hai Precision, and ASE Technology Holding gained 0.6%, 1.0%, and 0.9%, respectively. However, gains were limited by traders’ caution ahead of the Fed’s monetary policy decision this week."
+    },
+    {
+      "id": "5171323",
+      "time": "2026-10-27 10:07:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普否認“再次表態支援內塔尼亞胡是應後者要求”：我從未與他談及此事】據《以色列時報》當地時間26日報道，美國總統特朗普表示，以色列總理內塔尼亞胡並未要求自己在週二（27日）舉行的以色列議會選舉前再次公開為其站臺。 此前一天，美方訊息人士向美國阿克西奧斯新聞網透露，內塔尼亞胡近日尋求特朗普對其競選活動展現更多的公開支援。（環球網）"
+    },
+    {
+      "id": "5171322",
+      "time": "2026-10-27 10:06:52",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【瑞銀：降CoreWeave目標價至105美元，維持“買入”評級，長期看法仍偏正面】瑞銀分析師Karl Keirstead在上週五的研報中指出，即使信用市場收緊，CoreWeave仍可透過私募信貸、供應商融資，或出售更大比例股權等方式，降低對外部債務融資的需求。他以Nebius上週取得花旗35億美元授信額度為例，說明新雲端業者仍有機會取得資金，並指出最新科技業財報尚未顯示AI 投資出現放緩跡象。同時，他也承認，重建投資人信心可能需要數季時間，CoreWeave股價短期內仍可能盤整或表現疲弱。該行維持對CoreWeave“買入”評級，但將目標價由120美元下調至105美元，理由是公司基本面尚未出現實質惡化，長期看法仍偏正面。"
+    },
     {
       "id": "5171321",
       "time": "2026-10-27 10:03:30",

@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-27 10:05:53",
-  "count": 13265,
+  "updated": "2026-10-27 10:10:15",
+  "count": 13249,
   "items": [
+    {
+      "id": "mkt:01a17b1d-38b1-7ee0-a989-8e5de227fbb9",
+      "time": "2026-10-27 10:07:54",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share CRO sector extended losses: Lingkang Pharmaceutical hit the daily limit, Nearshore Protein plunged more than 12%, and Lanwei Medical, Joinn Laboratories and Jinshi Yiyao also fell."
+    },
+    {
+      "id": "te:markets:595220",
+      "time": "2026-10-27 10:07:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Starts Week Higher, Rebounds from 6-Week Low — The TAIEX, Taiwan’s benchmark stock index, climbed 294 points, or 0.6%, to 46,355 in Tuesday morning trade, erasing losses from the previous session as trading resumed after a two-day market closure. The broader index moved away from its lowest level since September 15, touched last Thursday, tracking gains on Wall Street overnight amid a rebound in AI-related stocks. The technology, financial, and commercial services sectors mainly lifted the index, with electronic technology rising 0.7%. Moderating oil prices also boosted sentiment, easing concerns about inflation risks and interest rate hikes. TSMC, the world’s largest contract chipmaker, which accounts for more than 40% of the market’s total value, recovered, rising 0.8%. Meanwhile, MediaTek, Hon Hai Precision, and ASE Technology Holding gained 0.6%, 1.0%, and 0.9%, respectively. However, gains were limited by traders’ caution ahead of the Fed’s monetary policy decision this week."
+    },
+    {
+      "id": "5171323",
+      "time": "2026-10-27 10:07:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普否認“再次表態支援內塔尼亞胡是應後者要求”：我從未與他談及此事】據《以色列時報》當地時間26日報道，美國總統特朗普表示，以色列總理內塔尼亞胡並未要求自己在週二（27日）舉行的以色列議會選舉前再次公開為其站臺。 此前一天，美方訊息人士向美國阿克西奧斯新聞網透露，內塔尼亞胡近日尋求特朗普對其競選活動展現更多的公開支援。（環球網）"
+    },
+    {
+      "id": "5171322",
+      "time": "2026-10-27 10:06:52",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【瑞銀：降CoreWeave目標價至105美元，維持“買入”評級，長期看法仍偏正面】瑞銀分析師Karl Keirstead在上週五的研報中指出，即使信用市場收緊，CoreWeave仍可透過私募信貸、供應商融資，或出售更大比例股權等方式，降低對外部債務融資的需求。他以Nebius上週取得花旗35億美元授信額度為例，說明新雲端業者仍有機會取得資金，並指出最新科技業財報尚未顯示AI 投資出現放緩跡象。同時，他也承認，重建投資人信心可能需要數季時間，CoreWeave股價短期內仍可能盤整或表現疲弱。該行維持對CoreWeave“買入”評級，但將目標價由120美元下調至105美元，理由是公司基本面尚未出現實質惡化，長期看法仍偏正面。"
+    },
     {
       "id": "5171321",
       "time": "2026-10-27 10:03:30",
@@ -119174,197 +119213,6 @@
         "國際"
       ],
       "text": "印尼10年期國債收益率下跌1個基點，至7.42%。"
-    },
-    {
-      "id": "te:markets:593264",
-      "time": "2026-10-20 10:10:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Fall as AI Concerns Persist — The Hang Seng Index fell around 1.0%, or 223 points, to about 23,960 on Tuesday as Hong Kong equities resumed trading after Monday’s public holiday, with technology services and retail shares leading losses. Technology stocks remained under pressure amid concerns over the financing of AI infrastructure, elevated borrowing costs and uncertainty over whether heavy investment would deliver sufficient returns. Notable laggards were Lenovo (-5.8%), Tencent fell (-2.0%), Innovent Biologics(-4.4%), MiniMax (-1.4%), and Semiconductor Manufacturing International Corporation (-1.5%). China's decision to keep its benchmark lending rates unchanged at 3.00% and 3.50% offered no additional monetary easing, although stronger-than-expected third-quarter economic growth reduced the immediate pressure for stimulus. Retail trade fell 2.01% and producer manufacturing declined 1.38%, while gains in energy minerals (+0.16%) and electronic technology (+0.34%) provided limited support."
-    },
-    {
-      "id": "mkt:01a15712-9121-7ee0-a8f3-dd4c32d84973",
-      "time": "2026-10-20 10:09:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China handled 4,432 border-management crimes in Q3, National Immigration Administration says】The National Immigration Administration said China investigated and handled 4,432 crimes undermining national/border management in Q3, arresting more than 12,000 suspects, dismantling 100 major criminal gangs and placing 66 major cases under special supervision. Authorities stepped up enforcement at ports and borders against firearms/explosives, drug trafficking and smuggling: 110 drug cases were solved with 123 suspects arrested and 1.88 tonnes of drugs seized, including 21 cases exceeding 10 kg; 402 firearms and over 13,000 rounds of ammunition were confiscated."
-    },
-    {
-      "id": "5154875",
-      "time": "2026-10-20 10:09:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【KeyBanc：iPhone漲價、電信促銷縮減恐壓制換機需求，對蘋果目標價250美元】KeyBanc分析師Brandon Nispel在彙整iPhone使用者調查的報告中指出，iPhone 18上市後的銷售表現，可能不如蘋果預期。從更廣泛的消費群體來看，價格走高、電信業者縮減促銷，以及現有裝置已足以滿足日常需求，都會降低換機意願，最終使銷量降溫。該行給予蘋果250美元目標價，較上週五收盤價低約27%，評級“減持”。"
-    },
-    {
-      "id": "mkt:01a15711-c9fc-7ee0-a8f3-d54ff2ce7fe0",
-      "time": "2026-10-20 10:09:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Taiwan dollar weakened to TWD32.588 per USD, its weakest level since April 2025."
-    },
-    {
-      "id": "te:markets:593263",
-      "time": "2026-10-20 10:09:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Tencent Holdings Shares Hit 20-month Low — Tencent Holdings shares decreased to 406.60 HKD, the lowest since February 2025. Over the past 4 weeks, Tencent Holdings lost 5.35%, and in the last 12 months, it decreased 35.45%."
-    },
-    {
-      "id": "mkt:01a15711-ae4f-7ee0-a8f3-cd7fbd0909aa",
-      "time": "2026-10-20 10:08:58",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Indonesian equities rose as much as 1.9% in early trade after measures were taken to address MSCI-related risks."
-    },
-    {
-      "id": "5154874",
-      "time": "2026-10-20 10:08:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股PCB概念拉昇，勝宏科技漲超8%】港股PCB概念拉昇，勝宏科技漲超8%，廣合科技、建滔積層板漲超5%。"
-    },
-    {
-      "id": "mkt:01a15711-26ec-7ee0-a8f3-c36ba330c834",
-      "time": "2026-10-20 10:08:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Quectel Wireless Solutions hit the daily limit-up with turnover above CNY1.4 billion; it reported Q3 2026 net profit up 132.34% YoY."
-    },
-    {
-      "id": "5154873",
-      "time": "2026-10-20 10:08:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年前三季度國家鐵路傳送貨物30.5億噸】今年前三季度，國家鐵路累計傳送貨物30.5億噸，日均裝車18.8萬車，比去年同期微增，持續保持高位執行，中國鐵路物流產品不斷最佳化完善，品牌影響力、市場競爭力和客戶滿意度顯著提升，為降低全社會物流成本、保障國民經濟平穩執行提供了可靠運輸支撐。（中國鐵路）"
-    },
-    {
-      "id": "mkt:01a15710-f736-7ee0-a8f3-ba9990ca18fb",
-      "time": "2026-10-20 10:08:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish",
-        "CNH",
-        "SSE Composite"
-      ],
-      "text": "【China national railways dispatched 3.05 bln tonnes of freight in first three quarters】China's national railways dispatched 3.05 billion tonnes of freight in the first three quarters, averaging 188,000 loaded freight cars per day, marginally up YoY. Authorities said the volumes provide transport support to help reduce overall logistics costs and underpin stable national economic activity."
-    },
-    {
-      "id": "5154872",
-      "time": "2026-10-20 10:08:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數上漲2%，至5,095.38點。"
-    },
-    {
-      "id": "5154871",
-      "time": "2026-10-20 10:07:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山東省淄博市委常委、副市長沙向東接受審查調查】據山東省紀委監委訊息，山東省淄博市委常委、副市長沙向東涉嫌嚴重違紀違法，目前正接受山東省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:01a15710-b241-7ee0-a8f3-b4df9f512199",
-      "time": "2026-10-20 10:07:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China issues first five-year plan for cultural heritage protection】Hu Kaihong, executive deputy director of the Central Office for Spiritual Civilization and director of the Office of the Central Cultural Heritage Protection Committee, said at an Oct. 20 State Council Information Office briefing that the General Office of the CPC Central Committee and the General Office of the State Council recently issued the 15th Five-Year Plan for cultural heritage protection and inheritance — China’s first national five-year plan in this field. Centered on systematic protection, the plan aims to build a comprehensive cultural-heritage protection framework, strengthen governance capacity and support measures, and promote that framework based on a nationwide heritage resources survey, inheritance-and-development programs for China’s traditional culture, and legal and regulatory safeguards."
-    },
-    {
-      "id": "5154870",
-      "time": "2026-10-20 10:07:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：三季度資訊傳輸、軟體和資訊科技服務業同比增長9.8%】國家統計局釋出2026年三季度國內生產總值初步核算結果。三季度我國金融業GDP同比增長4.1%，批發和零售業GDP同比增長5.6%，資訊傳輸、軟體和資訊科技服務業同比增長9.8%。（國家統計局）"
-    },
-    {
-      "id": "mkt:01a15710-2ddc-7ee0-a8f3-a87eceb185c4",
-      "time": "2026-10-20 10:07:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "01070.HK",
-        "Impact bullish"
-      ],
-      "text": "TCL Electronics (01070.HK) shares rose nearly 7% after the company said it expects adjusted net profit attributable to the parent for the first three quarters to increase about 45–55% YoY."
-    },
-    {
-      "id": "5154869",
-      "time": "2026-10-20 10:07:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【我國首次在文化遺產保護領域制定五年規劃】中央精神文明建設辦公室專職副主任、中央文化遺產保護委員會辦公室主任胡凱紅10月20日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上表示，中共中央辦公廳、國務院辦公廳近日印發了《文化遺產保護傳承“十五五”規劃》，這是我國首次在文化遺產保護領域制定五年規劃。圍繞推動文化遺產系統性保護這根主線，規劃將構建文化遺產大保護格局，提升文化遺產治理能力和水平，強化支撐保障。以文化遺產資源普查調查為基礎，以中華優秀傳統文化傳承發展工程等為依託，以法律法規為保障，推動構建大保護格局。"
-    },
-    {
-      "id": "mkt:01a15710-2457-7ee0-a8f3-a4f02c8cd191",
-      "time": "2026-10-20 10:07:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "【China NBS: information transmission, software and IT services +9.8% YoY in Q3】China's National Bureau of Statistics released preliminary Q3 2026 GDP figures. Sector GDP YoY: finance +4.1%; wholesale and retail +5.6%; information transmission, software and IT services +9.8%."
-    },
-    {
-      "id": "5154868",
-      "time": "2026-10-20 10:07:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量479億元。"
-    },
-    {
-      "id": "5154867",
-      "time": "2026-10-20 10:07:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【移遠通訊觸及漲停】移遠通訊觸及漲停，成交額14.08億元。訊息面上，移遠通訊披露2026年第三季度報告，前三季度公司實現營業總收入237.99億元，同比增長33.13%；歸母淨利潤12.12億元，同比增長65.21%；扣非淨利潤12.17億元，同比增長75.25%"
-    },
-    {
-      "id": "5154866",
-      "time": "2026-10-20 10:06:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人形機器人概念活躍，福萊新材、寧波東力等漲停】人形機器人概念活躍，福萊新材、寧波東力等漲停，奧比中光、斯菱智驅跟漲。"
     }
   ]
 }
