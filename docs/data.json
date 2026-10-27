@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-28 01:07:01",
-  "count": 13095,
+  "updated": "2026-10-28 01:10:49",
+  "count": 13080,
   "items": [
+    {
+      "id": "te:markets:595514",
+      "time": "2026-10-28 01:10:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.51% Higher — The CAC 40 Index rose 40 points or 0.51 percent on Tuesday to close at 7887 points. Leading the gains are STMicroelectronics (7.12%), Essilor (3.77%) and ArcelorMittal (3.26%). Top losers were Carrefour (-3.12%), Edenred (-2.68%) and Pernod Ricard (-1.83%)."
+    },
+    {
+      "id": "5173440",
+      "time": "2026-10-28 01:08:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：我將前往得克薩斯州的科珀斯克里斯蒂，出席一場座無虛席的集會。得益於我們這場大獲成功的軍事行動，美國將在這裡接收 100 萬桶委內瑞拉石油，後續還會達成史上規模最大的石油交易。得益於我們與委內瑞拉重新建立的良好關係，這批石油不需要美國納稅人掏一分錢。這只是數十億桶原油中的首批到貨。從阿拉斯加一直到委內瑞拉，我釋放了能源主導力，讓西半球成為世界能源中心。汽油和柴油價格很快會大幅下跌，拭目以待！"
+    },
+    {
+      "id": "te:markets:595513",
+      "time": "2026-10-28 01:07:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls as Corporate Results Disappoint — The FTSE 100 fell more than 0.5% on Tuesday as disappointing corporate results and weaker energy stocks weighed on the index. HSBC declined 5.4% after reporting third-quarter profits below expectations, while Reckitt dropped 4.9% after cutting its sales outlook amid supply constraints in the US and weaker vitamin sales in China. Oil majors also came under pressure, with Shell losing 1.7% and BP falling 2.8% as Brent crude prices retreated on renewed hopes of a diplomatic resolution to the US-Iran conflict. Mining stocks provided some support, however, as Antofagasta climbed 4.6%, while Endeavour Mining, Fresnillo and Rio Tinto gained around 2.5% each. Anglo American also advanced 2.3%, benefiting from strength across the sector. Meanwhile, UK shop price inflation accelerated to 2.1% year-on-year in October, up from 1.4% in September and above economists’ expectations of 1.6%."
+    },
+    {
+      "id": "te:markets:595512",
+      "time": "2026-10-28 01:07:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.73% Lower — The FTSE 100 Index dropped 79 points or 0.73 percent on Tuesday to close at 10689 points. Losses were led by HSBC Holdings (-5.91%), Reckitt Benckiser (-4.91%) and Pearson (-3.35%). Offsetting the fall, top gainers were Antofagasta (4.60%), Barratt Redrow (3.43%) and Endeavour (2.61%)."
+    },
+    {
+      "id": "5173439",
+      "time": "2026-10-28 01:07:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：博索納羅正在前往美國途中。"
+    },
+    {
+      "id": "te:markets:595511",
+      "time": "2026-10-28 01:06:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Italian Stocks Close Higher — Milan’s FTSE MIB closed 0.9% higher at 49,628 on Tuesday, recovering from early losses as falling oil prices boosted sentiment across sectors. Tech shares led the rally, with STMicroelectronics (7.1%), Technoprobe (3.4%) and Prysmian (3.3%) extending gains from the previous session. Utilities distributors Snam (2.8%), Italgas (2.4%) and Terna (1.1%) gained as European gas prices remained elevated. However, prices eased mid-session, supporting broader utilities, including Hera (0.7%) and Enel (0.6%). Stellantis gained 0.5% as Canada and the US resumed trade talks on Canadian autos. Financials also moved higher as oil prices fell mid-session, while Milan's bank mergers comes back into focus ahead of MPS shareholders meeting on Thursday. Banco BPM led the sector, rising 2.6%, while its board announced it would skip the meeting. On the downside, ENI lost 2.6%. Luxury shares remain under pressure, with Moncler posting the steepest decline at 2.1%."
+    },
     {
       "id": "5173438",
       "time": "2026-10-28 01:06:24",
@@ -117468,188 +117534,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基與芬蘭總統斯圖布舉行聯合記者會。"
-    },
-    {
-      "id": "5156693",
-      "time": "2026-10-21 01:10:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "芬蘭總統：取得的進展包括安全和經濟方面的內容。"
-    },
-    {
-      "id": "mkt:01a15a4a-f48e-7ee0-a90c-a233fa589f84",
-      "time": "2026-10-21 01:10:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP said he has spent, or will have spent in total, more than $400 million by election day."
-    },
-    {
-      "id": "5156692",
-      "time": "2026-10-21 01:10:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：到選舉日，我已經或將要花費超過4億美元。"
-    },
-    {
-      "id": "5156691",
-      "time": "2026-10-21 01:09:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國巴黎部分街區再次實施宵禁】當地時間10月20日，法國巴黎警察總局宣佈，巴黎部分街區將於20日23時起再次實施宵禁，至21日早上6時結束。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a15a4a-3588-7ee0-a90c-9a0acc359c2b",
-      "time": "2026-10-21 01:09:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Macron visits UAE; discusses Middle East developments, energy and maritime security】In Abu Dhabi on the 19th, French President Macron met UAE President ZAYED to discuss deepening strategic ties and expanding economic and technology cooperation. The leaders focused on recent developments in the Middle East, measures to limit the impact of regional tensions on maritime security and global energy supplies, and said they will step up coordination to support regional security and stability."
-    },
-    {
-      "id": "5156690",
-      "time": "2026-10-21 01:09:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：今早與美國國務卿魯比奧進行了良好通話。"
-    },
-    {
-      "id": "5156689",
-      "time": "2026-10-21 01:09:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：如果俄羅斯也停止攻擊，我們準備不對俄能源基礎設施的敏感部分實施打擊。"
-    },
-    {
-      "id": "mkt:01a15a49-c0b1-7ee0-a90c-90dae8da5d79",
-      "time": "2026-10-21 01:09:05",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Ukraine's president Zelenskiy said if Russia also stops strikes, Ukraine is prepared not to target sensitive parts of Russia's energy infrastructure."
-    },
-    {
-      "id": "5156688",
-      "time": "2026-10-21 01:08:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "挪威首相在與烏克蘭總統澤連斯基和美國特使威特科夫會晤後表示：會談良好且富有建設性。"
-    },
-    {
-      "id": "5156687",
-      "time": "2026-10-21 01:08:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基表示，烏克蘭比任何人都更希望和平，是俄羅斯發動了這場衝突。"
-    },
-    {
-      "id": "mkt:01a15a49-5b70-7ee0-a90c-8bc66abe2631",
-      "time": "2026-10-21 01:08:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's President Zelenskiy said Ukraine wants peace more than anyone and that Russia instigated the war."
-    },
-    {
-      "id": "mkt:01a15a49-34f5-7ee0-a90c-8621411afd28",
-      "time": "2026-10-21 01:08:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Ukrainian President Zelenskiy said maintaining communication and cooperation at all levels is essential to jointly work toward ending the war."
-    },
-    {
-      "id": "mkt:01a15a49-2023-7ee0-a90c-7853603675f3",
-      "time": "2026-10-21 01:08:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy says today's talks with the US are very important."
-    },
-    {
-      "id": "5156686",
-      "time": "2026-10-21 01:07:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特領導的聯軍稱，摧毀了葉門胡塞武裝用於向利雅得發射導彈的導彈發射裝置。"
-    },
-    {
-      "id": "5156685",
-      "time": "2026-10-21 01:07:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "挪威首相在與澤連斯基和美國特使威特科夫會晤後表示：我們已達成一致，合作至關重要，我們需要做出切實努力，推動外交程序朝著正確方向發展。"
-    },
-    {
-      "id": "mkt:01a15a48-8cde-7ee0-a90c-723e523b35c3",
-      "time": "2026-10-21 01:07:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi-led coalition says it destroyed Houthi missile launchers used to fire missiles toward Riyadh."
-    },
-    {
-      "id": "5156684",
-      "time": "2026-10-21 01:07:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝稱沙特襲擊葉門多處目標 致8人死亡】據葉門胡塞武裝方面訊息，當地時間20日，沙特戰機對葉門薩達省和塔伊茲省目標發動空襲，造成通訊設施受損，塔伊茲省8人遇難。"
-    },
-    {
-      "id": "mkt:01a15a48-4c70-7ee0-a90c-6961f726c99f",
-      "time": "2026-10-21 01:07:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's foreign ministry said US Secretary of State Rubio and Indian officials welcomed progress in negotiations on a US-India bilateral trade agreement."
-    },
-    {
-      "id": "mkt:01a15a48-3172-7ee0-a90c-623415f128af",
-      "time": "2026-10-21 01:07:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Norway's prime minister said the U.S. Middle East special envoy, Weitekoff, will fly to St. Petersburg tomorrow to meet Russia's leadership."
-    },
-    {
-      "id": "5156683",
-      "time": "2026-10-21 01:07:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度外交部：美國國務卿魯比奧與印度對印美雙邊貿易協定談判取得的進展表示歡迎。"
-    },
-    {
-      "id": "mkt:01a15a47-ff94-7ee0-a90c-5e67d5022437",
-      "time": "2026-10-21 01:07:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Norway's prime minister said talks were constructive and made good progress."
     }
   ]
 }

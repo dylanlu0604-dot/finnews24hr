@@ -1,7 +1,73 @@
 {
   "date": "2026-10-28",
-  "count": 90,
+  "count": 96,
   "items": [
+    {
+      "id": "te:markets:595514",
+      "time": "2026-10-28 01:10:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.51% Higher — The CAC 40 Index rose 40 points or 0.51 percent on Tuesday to close at 7887 points. Leading the gains are STMicroelectronics (7.12%), Essilor (3.77%) and ArcelorMittal (3.26%). Top losers were Carrefour (-3.12%), Edenred (-2.68%) and Pernod Ricard (-1.83%)."
+    },
+    {
+      "id": "5173440",
+      "time": "2026-10-28 01:08:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：我將前往得克薩斯州的科珀斯克里斯蒂，出席一場座無虛席的集會。得益於我們這場大獲成功的軍事行動，美國將在這裡接收 100 萬桶委內瑞拉石油，後續還會達成史上規模最大的石油交易。得益於我們與委內瑞拉重新建立的良好關係，這批石油不需要美國納稅人掏一分錢。這只是數十億桶原油中的首批到貨。從阿拉斯加一直到委內瑞拉，我釋放了能源主導力，讓西半球成為世界能源中心。汽油和柴油價格很快會大幅下跌，拭目以待！"
+    },
+    {
+      "id": "te:markets:595513",
+      "time": "2026-10-28 01:07:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls as Corporate Results Disappoint — The FTSE 100 fell more than 0.5% on Tuesday as disappointing corporate results and weaker energy stocks weighed on the index. HSBC declined 5.4% after reporting third-quarter profits below expectations, while Reckitt dropped 4.9% after cutting its sales outlook amid supply constraints in the US and weaker vitamin sales in China. Oil majors also came under pressure, with Shell losing 1.7% and BP falling 2.8% as Brent crude prices retreated on renewed hopes of a diplomatic resolution to the US-Iran conflict. Mining stocks provided some support, however, as Antofagasta climbed 4.6%, while Endeavour Mining, Fresnillo and Rio Tinto gained around 2.5% each. Anglo American also advanced 2.3%, benefiting from strength across the sector. Meanwhile, UK shop price inflation accelerated to 2.1% year-on-year in October, up from 1.4% in September and above economists’ expectations of 1.6%."
+    },
+    {
+      "id": "te:markets:595512",
+      "time": "2026-10-28 01:07:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.73% Lower — The FTSE 100 Index dropped 79 points or 0.73 percent on Tuesday to close at 10689 points. Losses were led by HSBC Holdings (-5.91%), Reckitt Benckiser (-4.91%) and Pearson (-3.35%). Offsetting the fall, top gainers were Antofagasta (4.60%), Barratt Redrow (3.43%) and Endeavour (2.61%)."
+    },
+    {
+      "id": "5173439",
+      "time": "2026-10-28 01:07:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：博索納羅正在前往美國途中。"
+    },
+    {
+      "id": "te:markets:595511",
+      "time": "2026-10-28 01:06:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Italian Stocks Close Higher — Milan’s FTSE MIB closed 0.9% higher at 49,628 on Tuesday, recovering from early losses as falling oil prices boosted sentiment across sectors. Tech shares led the rally, with STMicroelectronics (7.1%), Technoprobe (3.4%) and Prysmian (3.3%) extending gains from the previous session. Utilities distributors Snam (2.8%), Italgas (2.4%) and Terna (1.1%) gained as European gas prices remained elevated. However, prices eased mid-session, supporting broader utilities, including Hera (0.7%) and Enel (0.6%). Stellantis gained 0.5% as Canada and the US resumed trade talks on Canadian autos. Financials also moved higher as oil prices fell mid-session, while Milan's bank mergers comes back into focus ahead of MPS shareholders meeting on Thursday. Banco BPM led the sector, rising 2.6%, while its board announced it would skip the meeting. On the downside, ENI lost 2.6%. Luxury shares remain under pressure, with Moncler posting the steepest decline at 2.1%."
+    },
     {
       "id": "5173438",
       "time": "2026-10-28 01:06:24",
