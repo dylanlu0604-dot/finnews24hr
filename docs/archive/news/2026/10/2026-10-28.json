@@ -1,7 +1,18 @@
 {
   "date": "2026-10-28",
-  "count": 137,
+  "count": 138,
   "items": [
+    {
+      "id": "mkt:01a17e74-42b4-7ee0-a99e-d7e5376292a9",
+      "time": "2026-10-28 01:41:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) launched the Genie 4 world model with native audio support."
+    },
     {
       "id": "5173461",
       "time": "2026-10-28 01:40:29",
