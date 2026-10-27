@@ -1,7 +1,43 @@
 {
   "date": "2026-10-28",
-  "count": 57,
+  "count": 61,
   "items": [
+    {
+      "id": "5173424",
+      "time": "2026-10-28 00:50:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗與俄羅斯總統討論能源合作與貿易。"
+    },
+    {
+      "id": "5173423",
+      "time": "2026-10-28 00:50:23",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【AI融資焦慮或近頂峰 億萬富豪Novogratz預計信貸市場將趨穩】加密金融服務和人工智慧資料中心運營商Galaxy Digital Inc.的億萬富豪創始人兼執行長Michael Novogratz表示，全球信貸市場對AI支出的焦慮可能已接近緩解的轉折點。Galaxy公佈第三財季業績後，Novogratz週二在電話會議上表示，“信貸市場目前有些‘消化不良’。市場的緊張情緒可能已接近頂峰。走出困境並沒有一條輕鬆的路，但我認為時間會讓情況逐漸好轉。”Novogratz認為，Meta Platforms Inc.進行股權融資以及Anthropic PBC計劃首次公開募股，都是壓力可能緩解的跡象，“可以這樣理解：更多股權融資，更少信貸融資。從某種程度上說，過去一週對信貸市場是件好事，因為我們看到了如此大規模的股權融資。”Novogratz認為，伊朗戰爭可能結束也是認為信貸市場趨穩的另一個原因，因為這可能推動油價下跌，從而減輕美聯儲為遏制通脹而加息的壓力。"
+    },
+    {
+      "id": "mkt:01a17e44-eb8a-7ee0-a99d-e6bc76108f32",
+      "time": "2026-10-28 00:50:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "ECB President Lagarde and the Governing Council will hold an informal dinner with EU Trade Commissioner Šefčovič in ten minutes to exchange views."
+    },
+    {
+      "id": "5173422",
+      "time": "2026-10-28 00:47:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統對俄羅斯總統普京表示，地區問題可以在沒有美國參與的情況下解決。"
+    },
     {
       "id": "mkt:01a17e41-0e2b-7ee0-a99d-da310332a720",
       "time": "2026-10-28 00:45:54",
