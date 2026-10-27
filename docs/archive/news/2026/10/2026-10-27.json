@@ -1,7 +1,53 @@
 {
   "date": "2026-10-27",
-  "count": 603,
+  "count": 610,
   "items": [
+    {
+      "id": "5171285",
+      "time": "2026-10-27 09:41:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念反覆活躍 光洋股份等多股漲停】人形機器人概念反覆活躍，光洋股份2連板，華培動力、東貝集團漲停，此前賽福天4連板，傑克科技觸及漲停，豪恩汽電、中堅科技、福萊新材、上緯新材跟漲。"
+    },
+    {
+      "id": "te:economy:595210",
+      "time": "2026-10-27 09:40:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Corporate Profits",
+        "Importance 2"
+      ],
+      "text": "China Total Industrial Profits Grow 15.5% YoY in Jan-Sept — China’s industrial profits rose 15.5% year-on-year to CNY 6.03 trillion in the first nine months of 2026, easing slightly from a 15.7% increase in the January-August period. Growth remained supported by high-tech and AI-related manufacturing and electronics, although subdued domestic demand continued to weigh on some industries. Profits at state-owned enterprises increased 13.1% to CNY 1.94 trillion, while joint-stock companies recorded a 20.8% gain to CNY 4.67 trillion. Private firms’ profits rose 8.7% to CNY 1.51 trillion. By sector, mining profits surged 38.2%, followed by manufacturing at 17.0%, while utilities fell 14.3%. Among industries, computers and communications led with a 103.8% increase, followed by non-ferrous metal smelting and rolling (79.7%), coal mining (57.0%), and chemicals (49.2%). In September alone, industrial profits grew 14.4% year-on-year, accelerating sharply from 4.2% in August."
+    },
+    {
+      "id": "5171284",
+      "time": "2026-10-27 09:40:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【房地產板塊短線走低，大名城跌超8%】房地產板塊短線走低，大名城跌超8%，華髮股份、中國國貿、中洲控股、中新集團等跟跌。"
+    },
+    {
+      "id": "5171283",
+      "time": "2026-10-27 09:40:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "5年期國債收益率跌至歷史最低。"
+    },
+    {
+      "id": "5171282",
+      "time": "2026-10-27 09:38:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "紡服行業板塊盤初走強，九牧王漲停，匯潔股份、璞源材料、中胤時尚、金春股份、七匹狼、興業科技等跟漲。"
+    },
     {
       "id": "5171281",
       "time": "2026-10-27 09:37:18",
@@ -20,12 +66,30 @@
       "text": "【河南：“十五五”將聚焦散熱等金剛石應用領域，實施超硬材料省級重大專案】記者獲悉，“十五五”時期，河南省將推動超硬材料產業創新能力提升。其中，將積極支援河南超硬材料企業、高校和科研院所爭取承擔國家重大科研任務，聚焦包括散熱在內的金剛石應用重點領域，實施省級重大科技專案，力爭突破一批關鍵核心技術瓶頸。同時，將充分發揮全國重點實驗室等國家級創新平臺作用，加強省重點實驗室、中試基地等創新平臺建設，為金剛石前沿課題研究、產業共性技術攻關提供平臺支撐。另外，將加強對超硬材料創新型企業培育，鼓勵超硬材料企業聯合高校、科研院所和新型研發機構等開展協同攻關和成果轉化。（人民財訊）"
     },
     {
+      "id": "em:jjsj_zgsj:202610273909251048",
+      "time": "2026-10-27 09:37:01",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：1—9月份電子專用材料製造、半導體分立器件製造行業利潤分別增長2.2倍、51.7%】國家統計局工業司首席統計師於衛寧解讀2026年1—9月份工業企業利潤資料。隨著產業升級與技術迭代不斷推進，電子行業發展動能持續釋放，執行質效穩步提升。1—9月份，電子行業利潤同比增長1.0倍，拉動全部規模以上工業企業利潤增長9.6個百分點，是規模以上工業企業利潤較快增長的重要支撐。"
+    },
+    {
       "id": "5171279",
       "time": "2026-10-27 09:36:39",
       "tags": [
         "國際"
       ],
       "text": "當地時間27日，烏克蘭首都基輔市發生多次強烈爆炸。（央視新聞）"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610273909245755",
+      "time": "2026-10-27 09:36:28",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：1—9月份規模以上原材料製造業利潤同比增長44.9%】國家統計局工業司首席統計師於衛寧解讀2026年1—9月份工業企業利潤資料稱，原材料製造業實現較快增長。1—9月份，規模以上原材料製造業利潤同比增長44.9%，拉動全部規模以上工業企業利潤增長5.9個百分點。從行業看，人工智慧、新能源等領域對銅、鋁等基礎金屬產品需求旺盛，帶動有色行業利潤增長79.7%。"
     },
     {
       "id": "5171278",

@@ -1,7 +1,53 @@
 {
-  "updated": "2026-10-27 09:39:03",
-  "count": 13303,
+  "updated": "2026-10-27 09:42:51",
+  "count": 13300,
   "items": [
+    {
+      "id": "5171285",
+      "time": "2026-10-27 09:41:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念反覆活躍 光洋股份等多股漲停】人形機器人概念反覆活躍，光洋股份2連板，華培動力、東貝集團漲停，此前賽福天4連板，傑克科技觸及漲停，豪恩汽電、中堅科技、福萊新材、上緯新材跟漲。"
+    },
+    {
+      "id": "te:economy:595210",
+      "time": "2026-10-27 09:40:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Corporate Profits",
+        "Importance 2"
+      ],
+      "text": "China Total Industrial Profits Grow 15.5% YoY in Jan-Sept — China’s industrial profits rose 15.5% year-on-year to CNY 6.03 trillion in the first nine months of 2026, easing slightly from a 15.7% increase in the January-August period. Growth remained supported by high-tech and AI-related manufacturing and electronics, although subdued domestic demand continued to weigh on some industries. Profits at state-owned enterprises increased 13.1% to CNY 1.94 trillion, while joint-stock companies recorded a 20.8% gain to CNY 4.67 trillion. Private firms’ profits rose 8.7% to CNY 1.51 trillion. By sector, mining profits surged 38.2%, followed by manufacturing at 17.0%, while utilities fell 14.3%. Among industries, computers and communications led with a 103.8% increase, followed by non-ferrous metal smelting and rolling (79.7%), coal mining (57.0%), and chemicals (49.2%). In September alone, industrial profits grew 14.4% year-on-year, accelerating sharply from 4.2% in August."
+    },
+    {
+      "id": "5171284",
+      "time": "2026-10-27 09:40:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【房地產板塊短線走低，大名城跌超8%】房地產板塊短線走低，大名城跌超8%，華髮股份、中國國貿、中洲控股、中新集團等跟跌。"
+    },
+    {
+      "id": "5171283",
+      "time": "2026-10-27 09:40:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "5年期國債收益率跌至歷史最低。"
+    },
+    {
+      "id": "5171282",
+      "time": "2026-10-27 09:38:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "紡服行業板塊盤初走強，九牧王漲停，匯潔股份、璞源材料、中胤時尚、金春股份、七匹狼、興業科技等跟漲。"
+    },
     {
       "id": "5171281",
       "time": "2026-10-27 09:37:18",
@@ -20,12 +66,30 @@
       "text": "【河南：“十五五”將聚焦散熱等金剛石應用領域，實施超硬材料省級重大專案】記者獲悉，“十五五”時期，河南省將推動超硬材料產業創新能力提升。其中，將積極支援河南超硬材料企業、高校和科研院所爭取承擔國家重大科研任務，聚焦包括散熱在內的金剛石應用重點領域，實施省級重大科技專案，力爭突破一批關鍵核心技術瓶頸。同時，將充分發揮全國重點實驗室等國家級創新平臺作用，加強省重點實驗室、中試基地等創新平臺建設，為金剛石前沿課題研究、產業共性技術攻關提供平臺支撐。另外，將加強對超硬材料創新型企業培育，鼓勵超硬材料企業聯合高校、科研院所和新型研發機構等開展協同攻關和成果轉化。（人民財訊）"
     },
     {
+      "id": "em:jjsj_zgsj:202610273909251048",
+      "time": "2026-10-27 09:37:01",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：1—9月份電子專用材料製造、半導體分立器件製造行業利潤分別增長2.2倍、51.7%】國家統計局工業司首席統計師於衛寧解讀2026年1—9月份工業企業利潤資料。隨著產業升級與技術迭代不斷推進，電子行業發展動能持續釋放，執行質效穩步提升。1—9月份，電子行業利潤同比增長1.0倍，拉動全部規模以上工業企業利潤增長9.6個百分點，是規模以上工業企業利潤較快增長的重要支撐。"
+    },
+    {
       "id": "5171279",
       "time": "2026-10-27 09:36:39",
       "tags": [
         "國際"
       ],
       "text": "當地時間27日，烏克蘭首都基輔市發生多次強烈爆炸。（央視新聞）"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610273909245755",
+      "time": "2026-10-27 09:36:28",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：1—9月份規模以上原材料製造業利潤同比增長44.9%】國家統計局工業司首席統計師於衛寧解讀2026年1—9月份工業企業利潤資料稱，原材料製造業實現較快增長。1—9月份，規模以上原材料製造業利潤同比增長44.9%，拉動全部規模以上工業企業利潤增長5.9個百分點。從行業看，人工智慧、新能源等領域對銅、鋁等基礎金屬產品需求旺盛，帶動有色行業利潤增長79.7%。"
     },
     {
       "id": "5171278",
@@ -119652,107 +119716,6 @@
         "Impact bullish"
       ],
       "text": "Uniqlo will raise average selling prices by about 4% due to rising raw-material costs and yen depreciation, KYODO reported."
-    },
-    {
-      "id": "mkt:01a156f9-91f2-7ee0-a8f2-dc1ea1f730b1",
-      "time": "2026-10-20 09:42:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Beijing Stock Exchange 50 Index rose over 4%; Huami New Materials led constituents, gaining more than 11%."
-    },
-    {
-      "id": "5154818",
-      "time": "2026-10-20 09:42:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據一位美國官員透露，白宮特使史蒂夫·威特科夫（Steve Witkoff）目前正前往奧斯陸，並將於週二與烏克蘭總統澤連斯基會晤。 此次在奧斯陸舉行的會談預計將有烏克蘭總統澤連斯基、挪威首相約納斯·加爾·斯特勒（Jonas Gahr Støre），以及“E4”集團、歐盟和北約的代表參加。會談旨在就一項全面方案進一步協調立場，該方案可作為與俄羅斯重啟談判的基礎。"
-    },
-    {
-      "id": "mkt:01a156f9-1d94-7ee0-a8f2-d5ed144ca697",
-      "time": "2026-10-20 09:42:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Market Regions",
-        "02899.HK",
-        "Impact bearish",
-        "01818.HK",
-        "02099.HK"
-      ],
-      "text": "Hong Kong-listed gold miners fell: Zijin Gold International (02259.HK) down over 8%, Tongguan Gold (00340.HK) down 5.3%, China Gold International (02099.HK) down nearly 5%, Zhaojin Mining (01818.HK) down 4%, and Zijin Mining (02899.HK) down 3.6%."
-    },
-    {
-      "id": "5154817",
-      "time": "2026-10-20 09:41:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達4.01%，成分股中，華密新材漲10.96%，同惠電子漲7.39%，萬通液壓漲6.72%，錦波生物漲6.12%。"
-    },
-    {
-      "id": "5154816",
-      "time": "2026-10-20 09:41:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【AI漫劇概念震盪走高 粵傳媒、城市傳媒雙雙漲停】早盤AI漫劇概念震盪走高，粵傳媒、城市傳媒漲停，德才股份、博納影業、流金科技、國脈文化、引力傳媒漲幅靠前。"
-    },
-    {
-      "id": "5154815",
-      "time": "2026-10-20 09:41:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【磨憨公路口岸專案獲1.18億元支援】據昆明發布，日前，磨憨公路口岸進出口查驗貨場專案獲國家開發銀行雲南省分行新型政策性金融工具支援，投放資金1.18億元，這也是落地磨憨的首單新型政策性金融工具。"
-    },
-    {
-      "id": "te:markets:593258",
-      "time": "2026-10-20 09:40:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Remains Under Pressure — Silver prices fell to around $56.5 per ounce on Tuesday, extending recent losses as elevated oil prices heightened inflation concerns and reinforced expectations of tighter monetary policy. The metal also faced pressure from a stronger US dollar and rising bond yields. Oil prices remained firm amid ongoing hostilities in the Middle East and Eastern Europe, while Iran continued to assert its control over the Strait of Hormuz. Meanwhile, the US Federal Reserve is widely expected to keep interest rates unchanged next week, with markets pricing in roughly a 94% probability of a rate hike in December. Elsewhere, the European Central Bank is expected to implement at least one additional 25-basis-point rate increase this year to address persistent inflationary pressures. Bank of Japan Governor Kazuo Ueda also noted that underlying inflation was “quite close” to the central bank’s 2% target, signaling the possibility of further monetary tightening."
-    },
-    {
-      "id": "mkt:01a156f7-0e5c-7ee0-a8f2-c97f8551b0ee",
-      "time": "2026-10-20 09:39:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Where to park spare cash: money-market yield snapshot】Tencent's Licaitong current-account 7‑day annualized yields ranged 1.3200% to 0.6270%. WeChat Lingqiantong 7‑day annualized yields ranged 0.9530% to 0.8740%. Alipay's Yu'ebao 7‑day annualized yields ranged 0.9880% to 0.9030%."
-    },
-    {
-      "id": "5154814",
-      "time": "2026-10-20 09:39:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股鋰電池股走弱 寧德時代跌超6%】截至發稿，寧德時代(03750.HK)跌6.13%，贛鋒鋰業(01772.HK)跌4.51%，中創新航(03931.HK)跌4.54%。"
-    },
-    {
-      "id": "te:markets:593257",
-      "time": "2026-10-20 09:39:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Slides for Third Straight Session — Gold prices fell toward $4,100 per ounce on Tuesday, marking a third straight session of declines as elevated oil prices heightened inflation concerns and reinforced expectations of tighter monetary policy. The metal also faced pressure from a stronger US dollar and rising bond yields. Oil prices remained firm amid ongoing hostilities in the Middle East and Eastern Europe, while Iran continued to assert its control over the Strait of Hormuz. Meanwhile, the US Federal Reserve is widely expected to keep interest rates unchanged next week, with markets pricing in roughly a 94% probability of a rate hike in December. Elsewhere, the European Central Bank is expected to implement at least one additional 25-basis-point rate increase this year to address persistent inflationary pressures. Bank of Japan Governor Kazuo Ueda also noted that underlying inflation was “quite close” to the central bank’s 2% target, signaling the possibility of further monetary tightening."
     }
   ]
 }
