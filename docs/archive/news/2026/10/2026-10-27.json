@@ -1,7 +1,138 @@
 {
   "date": "2026-10-27",
-  "count": 1744,
+  "count": 1758,
   "items": [
+    {
+      "id": "mkt:01a17d4e-6c8f-7ee0-a996-a49321567d7d",
+      "time": "2026-10-27 20:20:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shekel rose 0.9% against the dollar intraday to 3.05 per dlr, a three-week high, after reports of higher voter turnout in Israel's election."
+    },
+    {
+      "id": "5172927",
+      "time": "2026-10-27 20:20:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威首相：我們的觀點與“志願者聯盟”的觀點一致。"
+    },
+    {
+      "id": "5172926",
+      "time": "2026-10-27 20:20:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "據報道以色列大選投票率較高，謝克爾兌美元上漲0.9%，至3周高位3.05。"
+    },
+    {
+      "id": "mkt:01a17d4d-ac8f-7ee0-a996-9d76d5bc4b83",
+      "time": "2026-10-27 20:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "U.S. September durable goods orders (MoM) due in 10 minutes."
+    },
+    {
+      "id": "5172925",
+      "time": "2026-10-27 20:19:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威首相：與俄羅斯總統普京的通話持續了90分鐘。"
+    },
+    {
+      "id": "te:economy:595442",
+      "time": "2026-10-27 20:18:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Building Permits",
+        "Importance 1"
+      ],
+      "text": "US Building Permits Fall for Second Consecutive Month — US building permits declined by 0.4% month-on-month in September 2026, reaching a seasonally adjusted annual rate of 1.398 million. The figure came in slightly below the preliminary estimate of 1.4 million, marking a second consecutive monthly decline and the lowest level since June."
+    },
+    {
+      "id": "5172924",
+      "time": "2026-10-27 20:18:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和順電氣：2026年第三季度淨利潤719.17萬元，同比增長82.36%】和順電氣公告，2026年第三季度營業收入1.42億元，同比下降9.97%；歸母淨利潤719.17萬元，同比增長82.36%；扣非淨利潤610.28萬元，同比增長95.39%。2026年前三季度營業收入4.08億元，同比增長42.68%；歸母淨利潤156.44萬元，同比增長108.23%；扣非淨利潤20.73萬元，同比增長100.96%。"
+    },
+    {
+      "id": "5172923",
+      "time": "2026-10-27 20:18:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "ARTIVA BIOTHERAPEUTICS 公司盤前股價下跌 30%；在兩名患者死亡後，公司停止細胞療法，裁員 94%。"
+    },
+    {
+      "id": "mkt:01a17d4c-601a-7ee0-a996-9312f467b5a3",
+      "time": "2026-10-27 20:18:39",
+      "tags": [
+        "MKT News",
+        "ABTX.O",
+        "Impact bearish"
+      ],
+      "text": "Artiva Biotherapeutics shares fell about 30% in pre-market trading after the company halted its cell therapy program following two patient deaths and cut roughly 94% of its workforce."
+    },
+    {
+      "id": "5172922",
+      "time": "2026-10-27 20:18:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "PAYPAL股價盤前漲幅延續至4%。"
+    },
+    {
+      "id": "mkt:01a17d4b-b8db-7ee0-a996-883653bf9594",
+      "time": "2026-10-27 20:17:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norwegian prime minister said a call with Russian President Putin lasted 90 minutes and that Norway must seek to de‑escalate the war in Ukraine."
+    },
+    {
+      "id": "mkt:01a17d4b-9165-7ee0-a996-83bb504f12f5",
+      "time": "2026-10-27 20:17:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norwegian prime minister said he is under the impression that Moscow is making full preparations for the Abu Dhabi meeting."
+    },
+    {
+      "id": "5172921",
+      "time": "2026-10-27 20:17:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海思科：第三季度歸母淨利潤5.25億元，同比增長207.26%】海思科10月27日公告，2026年第三季度實現營業收入18.75億元，同比增長44.3%；歸母淨利潤5.25億元，同比增長207.26%；基本每股收益0.4671元。前三季度實現營業收入49.7億元，同比增長50.61%；歸母淨利潤13.76億元，同比增長314.01%；基本每股收益1.224元。報告期內，公司業績主要受到BD業務收入增長、成品藥銷量持續提升及合作產品銷售收入增加的影響。"
+    },
+    {
+      "id": "te:economy:595439",
+      "time": "2026-10-27 20:17:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Producer Price Inflation MoM",
+        "Importance 2"
+      ],
+      "text": "Brazil Producer Prices Rise the Most in 5 Months — Brazil’s producer prices rose 1.54% month-on-month in September 2026, marking its highest level since April and accelerating sharply from a 0.34% rise in the prior month. Inflation in the mining and quarrying sector surged to 11.04%, its highest level since March, from 4.34% in the previous month. This reflected higher prices for crude petroleum oils, mined iron and iron concentrates. Price growth in manufacturing accelerated to 1.12% from 0.17% in August. Food price inflation increased to 2.4%, its highest level since September 2024, from 1.99%, while prices in the manufacture of coke, refined petroleum products and biofuels rebounded by 4.88% following a 0.16% decline in the previous month. On an annual basis, producer prices accelerated to 4.34% in September, its highest level since May 2025, up from 2.5% in August."
+    },
     {
       "id": "te:markets:595438",
       "time": "2026-10-27 20:16:48",
