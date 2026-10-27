@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-27 19:50:13",
-  "count": 13276,
+  "updated": "2026-10-27 19:54:08",
+  "count": 13272,
   "items": [
+    {
+      "id": "5172875",
+      "time": "2026-10-27 19:53:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【可口可樂上調業績指引 海外汽水銷售強勁】可口可樂上調2026年全年業績展望，因海外汽水需求強勁，尤其是無糖飲料。這家飲料公司目前預計，今年有機營收至少增長5%，此前預期為增長約5%。可口可樂7月已經上調過業績指引，當時表示對全年業績的信心增強。執行長Henrique Braun在宣告中表示：“本季度業績顯示，我們的業務體系持續保持增長勢頭，這增強了我們對更新後全年指引的信心。”這家總部位於亞特蘭大的公司表示，其碳痠軟飲料銷量增長5%，其中Coca-Cola Zero Sugar增長16%，健怡可樂增長6%。不過在北美，可口可樂汽水的增長被水、運動飲料、咖啡和茶飲銷量下降所抵消。北美銷量持平，低於分析師平均預期的增長2.3%。"
+    },
+    {
+      "id": "mkt:01a17d32-b2fd-7ee0-a996-14cbb7775c84",
+      "time": "2026-10-27 19:50:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi authorities said the danger in Riyadh has been neutralized."
+    },
+    {
+      "id": "5172870",
+      "time": "2026-10-27 19:50:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯稱阿爾卡吉的危險已解除。"
+    },
+    {
+      "id": "5172868",
+      "time": "2026-10-27 19:49:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯稱利雅得市的危險已經過去。"
+    },
     {
       "id": "mkt:01a17d31-c94b-7ee0-a996-09e6af6dc746",
       "time": "2026-10-27 19:49:37",
@@ -84,6 +116,14 @@
         "Important"
       ],
       "text": "Iranian Fars news agency reported explosion sounds were heard in Riyadh, the capital of Saudi Arabia."
+    },
+    {
+      "id": "5172854",
+      "time": "2026-10-27 19:45:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏官員稱阿列什基停火將持續至11月1日】當地時間10月27日，烏克蘭最高拉達人民公僕黨議會黨團領導人阿拉哈米亞在其官方社交平臺發文表示，阿列什基停火將持續至11月1日。俄羅斯國防部於莫斯科時間10月27日4時（北京時間27日9時）釋出宣告稱，赫爾松地區阿列什基停火生效。烏克蘭最高拉達（議會）人權事務專員、烏方談判小組負責人也在社媒發帖確認，烏方已於同一時間停火。（央視新聞）"
     },
     {
       "id": "5172853",
@@ -119237,82 +119277,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧：很高興與印度外交部長蘇傑生和阿聯酋外交部長阿卜杜拉·本·扎耶德會面，討論地區能源安全並推進我們共同的經濟優先事項。"
-    },
-    {
-      "id": "5156059",
-      "time": "2026-10-20 19:53:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳宏芯宇電子股份有限公司透過港交所上市聆訊】據港交所檔案：深圳宏芯宇電子股份有限公司透過港交所上市聆訊。"
-    },
-    {
-      "id": "5156058",
-      "time": "2026-10-20 19:52:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心表示，未來48小時內，美國東海岸附近的風暴有40%的機率發展成氣旋。"
-    },
-    {
-      "id": "5156057",
-      "time": "2026-10-20 19:52:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【杭州灣跨海鐵路大橋北航道橋合龍】10月20日，新建南通至寧波高速鐵路（簡稱通甬高鐵）杭州灣跨海鐵路大橋北航道橋順利合龍，大橋建設進入主體工程衝刺階段。 杭州灣跨海鐵路大橋是通甬高鐵關鍵控制性工程，全長29.2公里，採用時速350公里雙線無砟軌道設計，由北、中、南三座航道橋及海中引橋、淺灘區引橋共同組成。（新華社）"
-    },
-    {
-      "id": "5156056",
-      "time": "2026-10-20 19:51:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "Karman Space & Defense獲得價值2.18億美元的長期薩德系統合同。"
-    },
-    {
-      "id": "5156055",
-      "time": "2026-10-20 19:51:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【順景科技：兩起涉工程糾紛案件取得新進展】順景科技公告稱，公司收到武漢中院送達的二審傳票等材料，華中偉業公司不服一審駁回其全部訴訟請求的判決提起上訴，涉案請求金額合計6983.43萬元，公司為原審第三人，該案尚未開庭，最終結果存在不確定性。此外，公司與鎮江紅星的建設工程施工合同糾紛仲裁已作出終局裁決，鎮江紅星需給付公司折價補償款15萬元及仲裁費1.12萬元，公司對相關工程折價補償款享有3%的財產權利。兩起案件涉案權益均已納入信託計劃底層資產，預計不會對公司本期及期後利潤產生重大影響。"
-    },
-    {
-      "id": "5156054",
-      "time": "2026-10-20 19:51:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山西多管齊下推進復工復產，煤炭穩產穩供成效顯現】山西省深刻汲取事故教訓，統籌高質量發展和高水平安全，截至目前，已有220座煤礦完成整改並順利復工復產，原煤產量持續抬升，穩產穩供向好態勢不斷鞏固。9月26日全省煤炭安全穩產穩供工作推進會召開以來，煤礦復工復產步伐明顯加快，原煤產量持續抬升，9月日均產量較8月提升約22萬噸，10月以來日產量加快恢復，穩產穩供向好態勢持續鞏固。下一步，山西將系統施治、嚴實監管，守牢安全生產底線，扛穩能源保供重任，為夯實今冬明春供暖季煤炭保供貢獻山西力量。（山西省能源局）"
-    },
-    {
-      "id": "5156053",
-      "time": "2026-10-20 19:50:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【兆豐股份：控股子公司預中標機器人創新服務平臺專案】兆豐股份公告稱，公司控股子公司浙江兆聚智慧有限公司為機器人創新服務平臺專案中標候選人，預中標價格2.9992億元，公示截止日期為2026年10月23日。截至公告披露日，該專案尚處於中標候選人公示階段，兆聚智慧尚未收到中標通知書，能否取得中標通知書並簽署正式合同尚存在不確定性，專案最終金額、實施內容以正式合同為準。該專案若順利實施，有助於完善公司在具身智慧產業的佈局，提升核心競爭力。"
-    },
-    {
-      "id": "5156052",
-      "time": "2026-10-20 19:50:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【禮來公佈lebrikizumab在亞洲患者中的新資料】禮來公司在第16屆國際特應性皮炎學術研討會（ISAD 2026）上公佈了lebrikizumab 3期註冊試驗ADvance-Asia的積極結果。研究資料顯示， lebrikizumab在亞洲中重度特應性皮炎患者中16-52周維持治療期內保持良好的安全性和有效性，有望為中重度特應性皮炎長期管理帶來新選擇。"
-    },
-    {
-      "id": "te:markets:593463",
-      "time": "2026-10-20 19:50:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Waver — Futures tracking US stocks were mostly lower on Tuesday as the tech sector remained volatile on fresh worries about data center financing ahead of key earnings results. Contracts for the S&P 500 were slightly down, while those for the Nasdaq 100 fell 0.6% and the Dow was flat. South Korean AI-infrastructure provider Elice plunged 32% following its IPO in Seoul, the latest in a series of signals that markets have grown fatigued by the soaring levels of financing that chipmakers and data center operators are asking for. CoreWeave sank 5% premarket following the plunge in its bonds last week. Micron, Marvell, and Arm were nearly 3% lower. Meanwhile, SpaceX dropped 1% ahead of its recently announced earnings results due after the closing bell, which may have been brought forward to enable another capital raise. On the other hand, traditional economic sectors consolidated following losses yesterday. Walmart, ExxonMobil, and Eli Lilly gained over 1%."
     }
   ]
 }
