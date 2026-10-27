@@ -1,7 +1,43 @@
 {
   "date": "2026-10-28",
-  "count": 367,
+  "count": 371,
   "items": [
+    {
+      "id": "mkt:01a17f3d-63d7-7ee0-a9a2-141c70bee19f",
+      "time": "2026-10-28 05:21:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: Brazilian lawmaker Flavio Bolsonaro arrived in the United States."
+    },
+    {
+      "id": "te:markets:595542",
+      "time": "2026-10-28 05:20:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Drops on Middle East Diplomacy Hopes — Crude oil fell toward $100 a barrel on Tuesday, as renewed diplomatic efforts raised hopes of de-escalating tensions in the Middle East. Iran’s Supreme Leader Mojtaba Khamenei called for an end to the current state of “neither war nor peace,” signaling a possible opening for negotiations. Officials from Saudi Arabia, Pakistan, and Turkey met in Tehran on Monday and agreed to continue discussions, while Russian President Vladimir Putin was expected to meet Iranian President Masoud Pezeshkian and Qatar’s emir in Moscow. These developments improved prospects for de-escalation, although significant risks remain. Meanwhile, US crude inventories fell by 2.031 million barrels in the week ended October 23rd, defying expectations for an increase of 800,000 barrels and extending the previous week’s 4.93 million-barrel draw, adding to supply concerns. Houthi attacks on Saudi energy infrastructure and Iranian strikes on tankers in the Strait of Hormuz continued to support prices."
+    },
+    {
+      "id": "5173748",
+      "time": "2026-10-28 05:19:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "巴西議員弗拉維奧·博爾索納羅抵達美國。"
+    },
+    {
+      "id": "5173747",
+      "time": "2026-10-28 05:18:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名美國官員表示，委內瑞拉第二大私營石油生產商NABEP已向美國交付首批100萬桶免費原油，這批委內瑞拉原油將運往西特戈以及埃克森美孚煉油廠。"
+    },
     {
       "id": "5173745",
       "time": "2026-10-28 05:17:35",

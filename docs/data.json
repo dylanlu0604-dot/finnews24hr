@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-28 05:18:07",
-  "count": 12990,
+  "updated": "2026-10-28 05:21:50",
+  "count": 12992,
   "items": [
+    {
+      "id": "mkt:01a17f3d-63d7-7ee0-a9a2-141c70bee19f",
+      "time": "2026-10-28 05:21:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: Brazilian lawmaker Flavio Bolsonaro arrived in the United States."
+    },
+    {
+      "id": "te:markets:595542",
+      "time": "2026-10-28 05:20:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Drops on Middle East Diplomacy Hopes — Crude oil fell toward $100 a barrel on Tuesday, as renewed diplomatic efforts raised hopes of de-escalating tensions in the Middle East. Iran’s Supreme Leader Mojtaba Khamenei called for an end to the current state of “neither war nor peace,” signaling a possible opening for negotiations. Officials from Saudi Arabia, Pakistan, and Turkey met in Tehran on Monday and agreed to continue discussions, while Russian President Vladimir Putin was expected to meet Iranian President Masoud Pezeshkian and Qatar’s emir in Moscow. These developments improved prospects for de-escalation, although significant risks remain. Meanwhile, US crude inventories fell by 2.031 million barrels in the week ended October 23rd, defying expectations for an increase of 800,000 barrels and extending the previous week’s 4.93 million-barrel draw, adding to supply concerns. Houthi attacks on Saudi energy infrastructure and Iranian strikes on tankers in the Strait of Hormuz continued to support prices."
+    },
+    {
+      "id": "5173748",
+      "time": "2026-10-28 05:19:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "巴西議員弗拉維奧·博爾索納羅抵達美國。"
+    },
+    {
+      "id": "5173747",
+      "time": "2026-10-28 05:18:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名美國官員表示，委內瑞拉第二大私營石油生產商NABEP已向美國交付首批100萬桶免費原油，這批委內瑞拉原油將運往西特戈以及埃克森美孚煉油廠。"
+    },
     {
       "id": "5173745",
       "time": "2026-10-28 05:17:35",
@@ -116680,25 +116716,6 @@
         "SPCX.O"
       ],
       "text": "Musk said SpaceX (SPCX.O) will build a ground communications network."
-    },
-    {
-      "id": "mkt:01a15b30-e7cf-7ee0-a911-f882a853b4ce",
-      "time": "2026-10-21 05:21:34",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "Musk: SpaceX (SPCX.O) expects Starship to achieve weekly launches in H1 next year and at least two launches per week in H2."
-    },
-    {
-      "id": "mkt:01a15b2e-fa9f-7ee0-a911-f62f2cce2cc1",
-      "time": "2026-10-21 05:19:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Iran says indirect talks with U.S. via mediators continue; will not disclose added U.S. conditions】Iran foreign minister Araqchi said indirect negotiations with the U.S. through mediators including Pakistan and Qatar are ongoing. Iran submitted a seven-day plan that envisaged the Strait of Hormuz being fully reopened on day six; Araqchi said the U.S. told Tehran it accepted those terms but sought to add several clauses and he refused to say whether the additions related to security or economic issues, saying \"we will not negotiate through your channel.\" He said Iran insists the U.S. first honour all commitments in the Islamabad Memorandum of Understanding before talks on other issues proceed and that in a final stage either side could raise any topic for a potential agreement."
     }
   ]
 }
