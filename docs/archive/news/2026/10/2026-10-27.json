@@ -1,7 +1,145 @@
 {
   "date": "2026-10-27",
-  "count": 1118,
+  "count": 1134,
   "items": [
+    {
+      "id": "mkt:01a17c20-6a70-7ee0-a98d-ca85de12092d",
+      "time": "2026-10-27 14:51:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine stock index up more than 2%."
+    },
+    {
+      "id": "5171684",
+      "time": "2026-10-27 14:50:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小馬智行在武漢成立新科技公司，註冊資本500萬】天眼查App顯示，近日，武漢小馬智行科技有限公司成立，法定代表人為張寧，註冊資本500萬人民幣，經營範圍包括軟體外包服務、軟體開發、資訊科技諮詢服務等。股東資訊顯示，該公司由北京小馬易行科技有限公司全資持股。"
+    },
+    {
+      "id": "5171683",
+      "time": "2026-10-27 14:50:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "BE Semiconductor在Tradegate交易中較阿姆斯特丹收盤價上漲7.3%。"
+    },
+    {
+      "id": "5171682",
+      "time": "2026-10-27 14:50:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數上漲2.1%，至5761.19點。"
+    },
+    {
+      "id": "mkt:01a17c1f-929c-7ee0-a98d-c0d4879fc5dd",
+      "time": "2026-10-27 14:50:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federation of Thai Industries said domestic car sales rose 14.28% YoY in September, after a 25.59% increase in August."
+    },
+    {
+      "id": "mkt:01a17c1f-7702-7ee0-a98d-bfee826b9f73",
+      "time": "2026-10-27 14:49:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's STAR 50 index fell more than 4%, led by Ninebot, which slid over 8% as the largest constituent laggard."
+    },
+    {
+      "id": "5171681",
+      "time": "2026-10-27 14:49:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東鵬飲料：昨晚12點前關注到姆巴佩相關不妥輿論，第一時間討論決策】今日（10月27日），知名球星姆巴佩涉華言論發酵，東鵬飲料集團（包括旗下電解質飲料“補水啦”）、蒙牛乳業、妙可藍多先後釋出宣告，終止與姆巴佩的全部合作，小紅書釋出宣告稱與姆巴佩合作已於2024年結束，平臺正持續核查並下架相關物料。東鵬飲料解約宣告釋出於今日9點43分，決策之迅速，讓相關話題衝上熱搜。今日中午，東鵬飲料有關負責人獨家回應記者稱：“昨晚11點多發生的事，昨晚12點之前我們就關注到了。關注到的第一時間管理層就召開討論，今天一早就發表了宣告。”（每日經濟新聞）"
+    },
+    {
+      "id": "te:markets:595293",
+      "time": "2026-10-27 14:49:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Gain on AI Boost — The Nikkei 225 Index climbed 1.73% to close at 63,268 on Tuesday, ending a three-day losing streak and tracking a rebound on Wall Street overnight amid renewed optimism for the AI trade after Anthropic’s IPO filing. Investors are also awaiting earnings reports this week from South Korean chipmakers Samsung and SK Hynix, alongside major US technology companies such as Amazon, Alphabet, and Microsoft, for further insight into the outlook for AI demand. Meanwhile, markets are preparing for key central bank decisions this week, with the Federal Reserve, European Central Bank, and Bank of Japan all widely expected to keep interest rates unchanged. Japanese technology and AI-related stocks led the gains, with Advantest surging 9.6%, Ibiden Co. climbing 9.1%, SoftBank Group advancing 5.2%, Lasertec rising 5.1%, and Tokyo Electron gaining 2.6%."
+    },
+    {
+      "id": "5171680",
+      "time": "2026-10-27 14:49:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國行業聯合會：9月國內汽車銷量同比增長14.28%（8月為增長25.59%）。"
+    },
+    {
+      "id": "5171679",
+      "time": "2026-10-27 14:49:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達4％，成分股中，九號公司跌8.59％，盛美上海跌8.54％，華海清科跌7.68％，晶晨股份跌7.54％。"
+    },
+    {
+      "id": "5171678",
+      "time": "2026-10-27 14:48:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紐西蘭大選臨近 國家黨民調領先優勢縮小】在距離大選僅剩11天之際，紐西蘭執政黨國家黨在一項重要民調中的領先優勢有所縮小。1News週二公佈的Verian民調顯示，國家黨支援率從上週的32%下降3個百分點，至29%。主要反對黨、中間偏左的紐西蘭工黨支援率維持在27%不變，仍處於三年來的低點。這一結果將給總理克里斯托弗·拉克森帶來新的擔憂。他正尋求在11月7日的選舉中贏得第二個任期，但經濟增長乏力以及生活成本壓力對家庭收入造成衝擊，令其競選受到掣肘。工黨領袖克里斯·希普金斯則一直難以說服選民相信，他能夠提供一個有吸引力的替代選擇。"
+    },
+    {
+      "id": "5171677",
+      "time": "2026-10-27 14:48:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海航控股投資成立飛機租賃公司】企查查APP顯示，近日，海口雲琛飛機租賃有限公司成立，經營範圍包含航空商務服務；航空運輸裝置銷售；技術進出口；進出口代理等。企查查股權穿透顯示，該公司由海航控股全資持股。"
+    },
+    {
+      "id": "5171676",
+      "time": "2026-10-27 14:48:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺積電A14工藝傳實現全球最小SRAM單元尺寸 有望終結8年微縮技術停滯】臺積電SRAM微縮技術傳在停滯約8年後有望迎來突破。自2020年N5（5奈米）工藝量產以來，其高密度6TSRAM儲存單元的面積一直停留在約0.021平方微米，之後的N3、N2節點雖然在邏輯電晶體上持續迭代，儲存單元尺寸卻幾乎原地踏步。這一局面有望隨著A14節點的到來被打破：臺積電計劃在2028年量產的A14工藝上，將高密度6TSRAM位單元面積縮小至0.017平方微米以下，降幅超過19%。"
+    },
+    {
+      "id": "5171675",
+      "time": "2026-10-27 14:47:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼10年期國債收益率升至2022年11月以來最高水平。"
+    },
+    {
+      "id": "5171674",
+      "time": "2026-10-27 14:47:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1021.00美元/盎司。"
+    },
+    {
+      "id": "5171673",
+      "time": "2026-10-27 14:47:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4010美元/盎司，日內跌0.70%。"
+    },
     {
       "id": "5171672",
       "time": "2026-10-27 14:46:45",

@@ -1,7 +1,145 @@
 {
-  "updated": "2026-10-27 14:47:37",
-  "count": 13389,
+  "updated": "2026-10-27 14:51:23",
+  "count": 13392,
   "items": [
+    {
+      "id": "mkt:01a17c20-6a70-7ee0-a98d-ca85de12092d",
+      "time": "2026-10-27 14:51:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine stock index up more than 2%."
+    },
+    {
+      "id": "5171684",
+      "time": "2026-10-27 14:50:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小馬智行在武漢成立新科技公司，註冊資本500萬】天眼查App顯示，近日，武漢小馬智行科技有限公司成立，法定代表人為張寧，註冊資本500萬人民幣，經營範圍包括軟體外包服務、軟體開發、資訊科技諮詢服務等。股東資訊顯示，該公司由北京小馬易行科技有限公司全資持股。"
+    },
+    {
+      "id": "5171683",
+      "time": "2026-10-27 14:50:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "BE Semiconductor在Tradegate交易中較阿姆斯特丹收盤價上漲7.3%。"
+    },
+    {
+      "id": "5171682",
+      "time": "2026-10-27 14:50:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數上漲2.1%，至5761.19點。"
+    },
+    {
+      "id": "mkt:01a17c1f-929c-7ee0-a98d-c0d4879fc5dd",
+      "time": "2026-10-27 14:50:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federation of Thai Industries said domestic car sales rose 14.28% YoY in September, after a 25.59% increase in August."
+    },
+    {
+      "id": "mkt:01a17c1f-7702-7ee0-a98d-bfee826b9f73",
+      "time": "2026-10-27 14:49:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's STAR 50 index fell more than 4%, led by Ninebot, which slid over 8% as the largest constituent laggard."
+    },
+    {
+      "id": "5171681",
+      "time": "2026-10-27 14:49:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東鵬飲料：昨晚12點前關注到姆巴佩相關不妥輿論，第一時間討論決策】今日（10月27日），知名球星姆巴佩涉華言論發酵，東鵬飲料集團（包括旗下電解質飲料“補水啦”）、蒙牛乳業、妙可藍多先後釋出宣告，終止與姆巴佩的全部合作，小紅書釋出宣告稱與姆巴佩合作已於2024年結束，平臺正持續核查並下架相關物料。東鵬飲料解約宣告釋出於今日9點43分，決策之迅速，讓相關話題衝上熱搜。今日中午，東鵬飲料有關負責人獨家回應記者稱：“昨晚11點多發生的事，昨晚12點之前我們就關注到了。關注到的第一時間管理層就召開討論，今天一早就發表了宣告。”（每日經濟新聞）"
+    },
+    {
+      "id": "te:markets:595293",
+      "time": "2026-10-27 14:49:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Gain on AI Boost — The Nikkei 225 Index climbed 1.73% to close at 63,268 on Tuesday, ending a three-day losing streak and tracking a rebound on Wall Street overnight amid renewed optimism for the AI trade after Anthropic’s IPO filing. Investors are also awaiting earnings reports this week from South Korean chipmakers Samsung and SK Hynix, alongside major US technology companies such as Amazon, Alphabet, and Microsoft, for further insight into the outlook for AI demand. Meanwhile, markets are preparing for key central bank decisions this week, with the Federal Reserve, European Central Bank, and Bank of Japan all widely expected to keep interest rates unchanged. Japanese technology and AI-related stocks led the gains, with Advantest surging 9.6%, Ibiden Co. climbing 9.1%, SoftBank Group advancing 5.2%, Lasertec rising 5.1%, and Tokyo Electron gaining 2.6%."
+    },
+    {
+      "id": "5171680",
+      "time": "2026-10-27 14:49:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國行業聯合會：9月國內汽車銷量同比增長14.28%（8月為增長25.59%）。"
+    },
+    {
+      "id": "5171679",
+      "time": "2026-10-27 14:49:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達4％，成分股中，九號公司跌8.59％，盛美上海跌8.54％，華海清科跌7.68％，晶晨股份跌7.54％。"
+    },
+    {
+      "id": "5171678",
+      "time": "2026-10-27 14:48:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紐西蘭大選臨近 國家黨民調領先優勢縮小】在距離大選僅剩11天之際，紐西蘭執政黨國家黨在一項重要民調中的領先優勢有所縮小。1News週二公佈的Verian民調顯示，國家黨支援率從上週的32%下降3個百分點，至29%。主要反對黨、中間偏左的紐西蘭工黨支援率維持在27%不變，仍處於三年來的低點。這一結果將給總理克里斯托弗·拉克森帶來新的擔憂。他正尋求在11月7日的選舉中贏得第二個任期，但經濟增長乏力以及生活成本壓力對家庭收入造成衝擊，令其競選受到掣肘。工黨領袖克里斯·希普金斯則一直難以說服選民相信，他能夠提供一個有吸引力的替代選擇。"
+    },
+    {
+      "id": "5171677",
+      "time": "2026-10-27 14:48:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海航控股投資成立飛機租賃公司】企查查APP顯示，近日，海口雲琛飛機租賃有限公司成立，經營範圍包含航空商務服務；航空運輸裝置銷售；技術進出口；進出口代理等。企查查股權穿透顯示，該公司由海航控股全資持股。"
+    },
+    {
+      "id": "5171676",
+      "time": "2026-10-27 14:48:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺積電A14工藝傳實現全球最小SRAM單元尺寸 有望終結8年微縮技術停滯】臺積電SRAM微縮技術傳在停滯約8年後有望迎來突破。自2020年N5（5奈米）工藝量產以來，其高密度6TSRAM儲存單元的面積一直停留在約0.021平方微米，之後的N3、N2節點雖然在邏輯電晶體上持續迭代，儲存單元尺寸卻幾乎原地踏步。這一局面有望隨著A14節點的到來被打破：臺積電計劃在2028年量產的A14工藝上，將高密度6TSRAM位單元面積縮小至0.017平方微米以下，降幅超過19%。"
+    },
+    {
+      "id": "5171675",
+      "time": "2026-10-27 14:47:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼10年期國債收益率升至2022年11月以來最高水平。"
+    },
+    {
+      "id": "5171674",
+      "time": "2026-10-27 14:47:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1021.00美元/盎司。"
+    },
+    {
+      "id": "5171673",
+      "time": "2026-10-27 14:47:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4010美元/盎司，日內跌0.70%。"
+    },
     {
       "id": "5171672",
       "time": "2026-10-27 14:46:45",
@@ -120380,121 +120518,6 @@
         "公司"
       ],
       "text": "【小天才手錶回應封閉社交】10月20日，“小天才手錶封閉社交被質疑”登上熱搜，引發網友熱議。有網友表示，小天才小天才手錶社交封閉性強，手錶平臺不與外界互通相容，其他品牌手錶的孩子無法進入小天才的社交圈。\n\n對此，記者諮詢了小天才官方客服。工作人員表示，小天才手錶系統不支援直接新增華為、小米等其他品牌手錶為好友，但可將其他品牌手錶新增到聯絡人中正常聯絡，只是無法使用小天才好友圈等社交功能，不同型號的小天才手錶只要同屬小天才品牌，即可互加好友。\n\n對於後續新品是否會支援新增華為、小米等品牌，客服稱目前尚未收到相關通知，需以新產品釋出後的官網公告或通知為準，現階段無法確定。在家長檢視孩子社交內容方面，工作人員表示家長APP不能直接檢視孩子的好友圈，聊天內容也無法直接檢視，如家長想檢視好友圈，可用另一塊小天才手錶新增孩子為好友後，透過朋友圈檢視。（介面）"
-    },
-    {
-      "id": "5155287",
-      "time": "2026-10-20 14:51:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃尼集團：在埃及西部沙漠啟動梅萊伊哈二期專案的啟動活動。"
-    },
-    {
-      "id": "5155286",
-      "time": "2026-10-20 14:50:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【保沃科電池（大連）有限公司增資至14億】天眼查App顯示，近日，保沃科電池（大連）有限公司發生工商變更，註冊資本由8000萬元人民幣增至14億元人民幣，增幅1650%。該公司成立於2026年8月，法定代表人為羅萊蒙（Raimund Siegfried Roesch），經營範圍包括電池零配件銷售、電池製造、電池銷售等，由PowerCo Holdco Battery S.A.、大眾汽車（中國）投資有限公司共同持股。"
-    },
-    {
-      "id": "5155285",
-      "time": "2026-10-20 14:50:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本金融廳考慮對索尼金融進行現場調查。"
-    },
-    {
-      "id": "5155284",
-      "time": "2026-10-20 14:50:27",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【花旗下調聯想目標價20% 維持買入評級】花旗下調聯想目標價，受可轉換債券與認股權證潛在股權攤薄效應及估值更新影響，聯想股價盤中最多下跌9.8%，跌至8月6日以來最低水平。分析師黃嘉娜等人在研報中表示，花旗仍預期聯想交出“又一份穩健季度業績”，支撐因素包含基礎設施解決方案業務（ISG）持續強勁、智慧裝置業務（IDG）運營穩定，以及方案服務業務（SSG）維持雙位數增長。“儘管近期市場對高槓杆AI基建企業的擔憂，引發整個AI供應鏈股價波動，但我們認為聯想對高風險新型雲客戶的直接敞口仍然有限。”本次花旗將目標價由50港元下調20%至40港元，但維持買入評級。"
-    },
-    {
-      "id": "5155283",
-      "time": "2026-10-20 14:50:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純鹼連續主力合約日內跌2%，現報933.00元。"
-    },
-    {
-      "id": "5155282",
-      "time": "2026-10-20 14:49:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大眾汽車旗下保沃科電池公司增資1650% 大眾汽車旗下保沃科電池公司增資13.2億】天眼查App顯示，近日，保沃科電池（大連）有限公司發生工商變更，註冊資本由8000萬元人民幣增至14億元人民幣，增幅1650%。該公司成立於2026年8月，法定代表人為羅萊蒙（Raimund Siegfried Roesch），經營範圍包括電池零配件銷售、電池製造、電池銷售等，由PowerCo Holdco Battery S.A.、大眾汽車（中國）投資有限公司共同持股。"
-    },
-    {
-      "id": "5155281",
-      "time": "2026-10-20 14:49:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【研究揭示吸菸影響生殖健康的潛在機制】英國諾丁漢大學日前釋出訊息說，研究人員在小鼠實驗中觀察到，在暴露於菸草煙霧環境後，小鼠的卵巢、睪丸組織結構或基因活動呈現出不同變化，這為理解吸菸影響人類生殖健康的潛在機制提供了新線索。 (新華社)"
-    },
-    {
-      "id": "5155280",
-      "time": "2026-10-20 14:49:24",
-      "tags": [
-        "市場",
-        "其他",
-        "焦點"
-      ],
-      "text": "【兩隻寬基ETF顯著放量】截至發稿時間，上證50ETF華夏（510050）顯著放量，成交額突破50億元，科創50ETF華夏（588000）成交額突破90億元。"
-    },
-    {
-      "id": "5155279",
-      "time": "2026-10-20 14:49:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌8%，現報2553.00點。"
-    },
-    {
-      "id": "5155278",
-      "time": "2026-10-20 14:48:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想集團(00992.HK)跌近10%，成交額超30億港元。"
-    },
-    {
-      "id": "5155277",
-      "time": "2026-10-20 14:48:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝稱沙特主導的多國聯軍襲擊葉門薩達省】據葉門胡塞武裝當地時間20日上午釋出的資訊，當天早些時候，沙特主導的多國聯軍對胡塞武裝控制的西北部薩達省發動4次空襲。沙特方面尚未就此作出回應。（央視新聞）"
-    },
-    {
-      "id": "te:markets:593351",
-      "time": "2026-10-20 14:48:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Iron Ore Slips on Signs of Robust Supply — Iron ore futures fell below CNY 680 per ton, sliding back toward four-year lows as rising global shipments and higher arrivals at Chinese ports pointed to ample supply. Industry data showed that global iron ore shipments increased by 3.89 million tons week-on-week to 34.77 million tons in the week ending October 18. Shipments from Australia and Brazil also rose by a combined 4.79 million tons to 29.82 million tons. Meanwhile, iron ore arrivals at 47 Chinese ports climbed by 2.73 million tons to 28.35 million tons over the same period. Adding to the bearish outlook, the World Steel Association revised its 2026 forecast, projecting a 0.1% decline in global steel demand, reversing its earlier estimate of 0.3% growth made in April. Steel consumption continued to face pressure from China’s prolonged property downturn and sluggish construction activity, although exports offered some support."
-    },
-    {
-      "id": "5155276",
-      "time": "2026-10-20 14:48:04",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【油價走高疊加美股AI財報臨近，日本股市收跌】油價高企打擊市場情緒，日本股市走低；在美國 AI 企業財報釋出前夕，投資者心態趨於謹慎。東京時間收盤，東證指數（Topix）下跌 1.4%，報 4009.21 點。日經 225 指數下跌 1.3%，報 64075.42 點。三菱 UFJ 金融集團等銀行股午後繼續下挫，成為拖累東證指數的主要板塊。日本 20 年期國債招標結果向好，市場預期長期國債收益率或已見頂。瑞薩控股（Resonac Holdings）、藤倉等晶片相關個股跌幅超 6%，位列週二日經 225 成分股跌幅榜前列。信金資產管理策略師澤村一樹表示：“財報季來臨前，投資者回避日韓股票，預期這類資產波動將會放大。日經指數對 AI、半導體板塊敞口較高，市場愈發擔憂其股價出現大幅震盪。”"
     }
   ]
 }
