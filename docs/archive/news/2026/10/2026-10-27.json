@@ -1,7 +1,146 @@
 {
   "date": "2026-10-27",
-  "count": 1729,
+  "count": 1744,
   "items": [
+    {
+      "id": "te:markets:595438",
+      "time": "2026-10-27 20:16:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "PACCAR earnings above expectations at 1.61 USD — PACCAR (PCAR) released earnings per share at 1.61 USD, compared to market expectations of 1.52 USD."
+    },
+    {
+      "id": "5172920",
+      "time": "2026-10-27 20:16:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電廣傳媒：2026年第三季度淨利潤虧損9351.34萬元，同比由盈轉虧】電廣傳媒公告，2026年第三季度營業收入9.12億元，同比下降25.42%；歸母淨利潤虧損9351.34萬元，扣非淨利潤虧損9688.6萬元。2026年前三季度營業收入31.28億元，同比下降1.93%；歸母淨利潤虧損1.49億元，上年同期為1.32億元，同比由盈轉虧；扣非淨利潤虧損1.56億元。公司表示，受二級市場股票價格波動影響，所持交易性金融資產公允價值下降，對當期利潤造成較大不利影響。"
+    },
+    {
+      "id": "5172919",
+      "time": "2026-10-27 20:16:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威首相：我的印象是，莫斯科正在為阿布扎比會議做充分準備。"
+    },
+    {
+      "id": "5172918",
+      "time": "2026-10-27 20:16:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "49North與烏克蘭的Unwave建立合作，共同提供反無人機支援。"
+    },
+    {
+      "id": "5172917",
+      "time": "2026-10-27 20:15:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東北證券：前三季度淨利潤10.17億元，同比下降4.63%】東北證券(000686)10月27日披露2026年三季報，公司第三季度營業總收入12.89億元，同比下降28.97%；歸母淨利潤2.53億元，同比下降60.24%。2026年前三季度營業總收入39.37億元，同比增長1.95%；歸母淨利潤10.17億元，同比下降4.63%。"
+    },
+    {
+      "id": "5172916",
+      "time": "2026-10-27 20:15:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【晶科能源簽約中東310.53MW飛虎3分銷訂單】據晶科能源訊息，近日，晶科能源與中東地區核心分銷商正式簽署310.53MW飛虎3（Tiger Neo 3.0）高效元件分銷協議，將專項服務於當地快速增長的工商業分散式光伏市場。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202610273910318262",
+      "time": "2026-10-27 20:15:37",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "ADP資料顯示，截至10月10日的四周內，美國私營部門就業平均每週增加16,750人。"
+    },
+    {
+      "id": "5172915",
+      "time": "2026-10-27 20:15:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "CACI獲美國海軍1.45億美元任務訂單。"
+    },
+    {
+      "id": "mkt:01a17d49-29df-7ee0-a996-7a9cf8a1564e",
+      "time": "2026-10-27 20:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "US ADP weekly employment change for week through Oct 10: +16,750, prior +18,500."
+    },
+    {
+      "id": "5172914",
+      "time": "2026-10-27 20:15:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至10月10日當週ADP就業人數週度變動 1.675萬人，前值1.85萬人。"
+    },
+    {
+      "id": "mkt:01a17d49-07db-7ee0-a996-71bdc6f4fa5f",
+      "time": "2026-10-27 20:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ADP weekly employment change (Oct.10) | actual 16750K | previous 18500K"
+    },
+    {
+      "id": "mkt:01a17d48-de4f-7ee0-a996-6dd7a827a440",
+      "time": "2026-10-27 20:14:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's prime minister said all partners and allies were briefed on the situation before he spoke with Russian President Putin."
+    },
+    {
+      "id": "5172913",
+      "time": "2026-10-27 20:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威首相：在與普京通話前，所有夥伴和盟友都已被告知。"
+    },
+    {
+      "id": "5172912",
+      "time": "2026-10-27 20:14:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【帝奧微：控股股東提議公司以5000萬元-1億元回購股份並登出】帝奧微公告，控股股東、實際控制人、董事長鞠建宏於2026年10月27日提議公司使用首次公開發行普通股取得的超募資金回購股份並依法登出，回購資金總額不低於人民幣5000萬元、不超過人民幣1億元，回購價格不高於董事會透過回購股份決議前30個交易日公司股票交易均價的150%。回購事項尚需履行審批程式，公司將研究制定回購方案。"
+    },
+    {
+      "id": "te:markets:595437",
+      "time": "2026-10-27 20:13:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Gains for 3rd Session — The dollar index strengthened to 102.2 on Tuesday, extending gains for a third consecutive session and reaching its highest level in about two weeks. Investors brace for a busy week of monetary policy decisions from major central banks, with the FOMC meeting kicking off today. The Federal Reserve is widely expected to leave the fed funds rate unchanged, although investors will look for clues on whether a rate hike in December remains a possibility. The European Central Bank, Bank of Japan and Bank of Canada are also due to announce their policy decisions this week. The greenback also drew support from improved stability in equity markets, as sentiment surrounding AI-related stocks steadied following last week’s volatility. Meanwhile, the dollar traded mostly higher against the euro, which remained under pressure from France’s deteriorating fiscal outlook and mounting concerns in the bond market."
+    },
     {
       "id": "mkt:01a17d46-6dcd-7ee0-a996-66851d152be4",
       "time": "2026-10-27 20:12:09",

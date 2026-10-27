@@ -1,7 +1,146 @@
 {
-  "updated": "2026-10-27 20:13:37",
-  "count": 13273,
+  "updated": "2026-10-27 20:17:34",
+  "count": 13279,
   "items": [
+    {
+      "id": "te:markets:595438",
+      "time": "2026-10-27 20:16:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "PACCAR earnings above expectations at 1.61 USD — PACCAR (PCAR) released earnings per share at 1.61 USD, compared to market expectations of 1.52 USD."
+    },
+    {
+      "id": "5172920",
+      "time": "2026-10-27 20:16:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電廣傳媒：2026年第三季度淨利潤虧損9351.34萬元，同比由盈轉虧】電廣傳媒公告，2026年第三季度營業收入9.12億元，同比下降25.42%；歸母淨利潤虧損9351.34萬元，扣非淨利潤虧損9688.6萬元。2026年前三季度營業收入31.28億元，同比下降1.93%；歸母淨利潤虧損1.49億元，上年同期為1.32億元，同比由盈轉虧；扣非淨利潤虧損1.56億元。公司表示，受二級市場股票價格波動影響，所持交易性金融資產公允價值下降，對當期利潤造成較大不利影響。"
+    },
+    {
+      "id": "5172919",
+      "time": "2026-10-27 20:16:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威首相：我的印象是，莫斯科正在為阿布扎比會議做充分準備。"
+    },
+    {
+      "id": "5172918",
+      "time": "2026-10-27 20:16:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "49North與烏克蘭的Unwave建立合作，共同提供反無人機支援。"
+    },
+    {
+      "id": "5172917",
+      "time": "2026-10-27 20:15:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東北證券：前三季度淨利潤10.17億元，同比下降4.63%】東北證券(000686)10月27日披露2026年三季報，公司第三季度營業總收入12.89億元，同比下降28.97%；歸母淨利潤2.53億元，同比下降60.24%。2026年前三季度營業總收入39.37億元，同比增長1.95%；歸母淨利潤10.17億元，同比下降4.63%。"
+    },
+    {
+      "id": "5172916",
+      "time": "2026-10-27 20:15:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【晶科能源簽約中東310.53MW飛虎3分銷訂單】據晶科能源訊息，近日，晶科能源與中東地區核心分銷商正式簽署310.53MW飛虎3（Tiger Neo 3.0）高效元件分銷協議，將專項服務於當地快速增長的工商業分散式光伏市場。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202610273910318262",
+      "time": "2026-10-27 20:15:37",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "ADP資料顯示，截至10月10日的四周內，美國私營部門就業平均每週增加16,750人。"
+    },
+    {
+      "id": "5172915",
+      "time": "2026-10-27 20:15:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "CACI獲美國海軍1.45億美元任務訂單。"
+    },
+    {
+      "id": "mkt:01a17d49-29df-7ee0-a996-7a9cf8a1564e",
+      "time": "2026-10-27 20:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "US ADP weekly employment change for week through Oct 10: +16,750, prior +18,500."
+    },
+    {
+      "id": "5172914",
+      "time": "2026-10-27 20:15:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至10月10日當週ADP就業人數週度變動 1.675萬人，前值1.85萬人。"
+    },
+    {
+      "id": "mkt:01a17d49-07db-7ee0-a996-71bdc6f4fa5f",
+      "time": "2026-10-27 20:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ADP weekly employment change (Oct.10) | actual 16750K | previous 18500K"
+    },
+    {
+      "id": "mkt:01a17d48-de4f-7ee0-a996-6dd7a827a440",
+      "time": "2026-10-27 20:14:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's prime minister said all partners and allies were briefed on the situation before he spoke with Russian President Putin."
+    },
+    {
+      "id": "5172913",
+      "time": "2026-10-27 20:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威首相：在與普京通話前，所有夥伴和盟友都已被告知。"
+    },
+    {
+      "id": "5172912",
+      "time": "2026-10-27 20:14:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【帝奧微：控股股東提議公司以5000萬元-1億元回購股份並登出】帝奧微公告，控股股東、實際控制人、董事長鞠建宏於2026年10月27日提議公司使用首次公開發行普通股取得的超募資金回購股份並依法登出，回購資金總額不低於人民幣5000萬元、不超過人民幣1億元，回購價格不高於董事會透過回購股份決議前30個交易日公司股票交易均價的150%。回購事項尚需履行審批程式，公司將研究制定回購方案。"
+    },
+    {
+      "id": "te:markets:595437",
+      "time": "2026-10-27 20:13:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Gains for 3rd Session — The dollar index strengthened to 102.2 on Tuesday, extending gains for a third consecutive session and reaching its highest level in about two weeks. Investors brace for a busy week of monetary policy decisions from major central banks, with the FOMC meeting kicking off today. The Federal Reserve is widely expected to leave the fed funds rate unchanged, although investors will look for clues on whether a rate hike in December remains a possibility. The European Central Bank, Bank of Japan and Bank of Canada are also due to announce their policy decisions this week. The greenback also drew support from improved stability in equity markets, as sentiment surrounding AI-related stocks steadied following last week’s volatility. Meanwhile, the dollar traded mostly higher against the euro, which remained under pressure from France’s deteriorating fiscal outlook and mounting concerns in the bond market."
+    },
     {
       "id": "mkt:01a17d46-6dcd-7ee0-a996-66851d152be4",
       "time": "2026-10-27 20:12:09",
@@ -119177,101 +119316,6 @@
         "市場"
       ],
       "text": "【機構重申對Meta強力買入評級 看好公司基本面】雷蒙德·詹姆斯（Raymond James）重申對Meta強力買入評級，目標價維持860美元。該股當前報價705.44美元。 該行指出，Meta會早於其他大型雲廠商披露財報。自8月底以來，該股累計漲幅超20%，而同期標普500僅上漲0.3%，市場對本次財報預期已經抬得較高。 雷蒙德·詹姆斯表示，廣告渠道調研反饋向好，市場對其廣告體系帶來的投入回報認知仍不足；針對Meta全新重構的超級智慧訓練叢集的AI訓練相關調研結果同樣樂觀。該行認為，財報前整體預期偏中性，市場一致預期中遠期費用與資本開支預估偏低。公司基本面依舊紮實，過去十二個月毛利率高達81.75%，營收增速27.65%。"
-    },
-    {
-      "id": "5156101",
-      "time": "2026-10-20 20:17:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【今日特朗普行程】\n10月20日20:00：在白宮安排行政時間，閉門進行。\n10月20日21:00：在白宮，本地媒體池記者集合待命。\n10月20日22:00：在白宮參加政策會議，閉門進行。\n10月21日00:30：在白宮橢圓形辦公室參加政策會議，閉門進行。\n10月21日01:30：與副總統萬斯在白宮橢圓形辦公室發表公告，白宮媒體池開放採訪。\n10月21日03:00：在白宮橢圓形辦公室參加政策會議，閉門進行。\n10月21日04:25：在安德魯斯聯合基地，外訪隨行媒體池記者集合待命。\n10月21日04:30：在白宮進行檔案簽署，閉門進行。\n時間待定：從白宮出發，前往北卡羅來納州格林維爾，媒體開放採訪。\n時間待定：抵達北卡羅來納州格林維爾皮特-格林維爾機場，外訪隨行媒體池隨行。\n10月21日07:00：在北卡羅來納州格林維爾皮特-格林維爾機場舉行政治集會，已獲認證媒體可採訪。\n時間待定：離開北卡羅來納州格林維爾，返回白宮，外訪隨行媒體池隨行。\n時間待定：抵達白宮，媒體開放採訪。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202610203901514777",
-      "time": "2026-10-20 20:15:43",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【ADP資料：截至10月3日的四周內 美國私營部門就業平均每週增加18,500個】ADP資料顯示，截至10月3日的四周內，美國私營部門就業平均每週增加18,500個。"
-    },
-    {
-      "id": "mkt:01a1593c-e824-7ee0-a905-ab49bdd3aafc",
-      "time": "2026-10-20 20:15:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "ADP weekly employment report: Private-sector employers added an average of 18,500 jobs per week in the four weeks to Oct. 3, 2026."
-    },
-    {
-      "id": "mkt:01a1593c-a6e8-7ee0-a905-a443e27de082",
-      "time": "2026-10-20 20:15:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US ADP private payrolls, week to Oct 3: +18.5k vs +24.75k prior."
-    },
-    {
-      "id": "5156100",
-      "time": "2026-10-20 20:15:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至10月3日當週ADP就業人數週度變動 1.85萬人，前值2.475萬人。"
-    },
-    {
-      "id": "mkt:01a1593c-8408-7ee0-a905-9bb46b59f4b7",
-      "time": "2026-10-20 20:15:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ADP weekly employment change (Oct.3) | actual 18500K | previous 24750K"
-    },
-    {
-      "id": "5156099",
-      "time": "2026-10-20 20:14:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "理想汽車：釋出連山電池保障計劃。"
-    },
-    {
-      "id": "5156098",
-      "time": "2026-10-20 20:14:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股盤前異動個股一覽】"
-    },
-    {
-      "id": "5156097",
-      "time": "2026-10-20 20:13:48",
-      "tags": [
-        "央行",
-        "觀點"
-      ],
-      "text": "【華福證券任志強：統籌風險防範與金融改革開放】10月19日，2026金融街論壇年會開幕式在北京舉辦。中國人民銀行行長潘功勝，國家金融監督管理總局局長丁向群，中國證監會主席吳清，中國人民銀行副行長、國家外匯管理局局長朱鶴新等金融管理部門負責人出席開幕式並發表主題演講。華福證券總裁助理兼研究所所長任志強接受採訪表示，本次金融街論壇上，央行、金融監管總局、證監會、國家外匯管理局集中釋放協同政策訊號，整體堅持統籌發展和安全的主線。一方面，健全跨領域風險處置與流動性緩衝機制，穩妥化解重點領域風險，築牢資本市場、債券市場風險防線，應對外部輸入性與跨境聯動風險。另一方面，同步推進資本市場制度改革、利率市場化深化、外匯便利化與跨境雙向開放，透過引入長期資金、完善投融資生態、最佳化貨幣政策傳導、便利企業跨境資金運作，持續提升金融市場韌性，更好服務實體經濟、科創產業發展與“十五五”高質量發展大局。"
     }
   ]
 }
