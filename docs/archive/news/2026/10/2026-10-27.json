@@ -1,7 +1,132 @@
 {
   "date": "2026-10-27",
-  "count": 1149,
+  "count": 1162,
   "items": [
+    {
+      "id": "5171708",
+      "time": "2026-10-27 14:58:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾華執行長：瑞布替尼的銷售額仍有可能達到40億美元或更高。"
+    },
+    {
+      "id": "5171707",
+      "time": "2026-10-27 14:58:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "滙豐控股財務總監郭珮瑛：股價下跌源於市場期待更高的業績指引。"
+    },
+    {
+      "id": "5171706",
+      "time": "2026-10-27 14:58:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克：機器人記憶體需求將超越地球上其他所有裝置的總和】Counterpoint Research此前預計人形機器人儲存需求5年增加20倍，馬斯克直接駁斥稱其“荒謬”，並表示，機器人所需的記憶體容量，將會超過地球上其他所有裝置的總和——因為要讓機器人依託物理基底，才能完成原子級塑形。超級智慧的算力需求更是會遠遠超出這個量級，但幾乎全部的超級智慧算力，都將部署在深空計算節點。"
+    },
+    {
+      "id": "te:markets:595298",
+      "time": "2026-10-27 14:57:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum Hits 52-week Low — Platinum decreased to 1499.00 USD/t.oz, the lowest since October 2025. Over the past 4 weeks, Platinum lost 14.07%, and in the last 12 months, it decreased 4.67%."
+    },
+    {
+      "id": "5171705",
+      "time": "2026-10-27 14:56:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Anthropic大型IPO面向渴求AI標的的澳大利亞散戶投資者】Anthropic PBC已向澳大利亞證券和投資委員會提交招股書，將在IPO中向澳大利亞投資者發售股份。本次澳大利亞發售可助力Anthropic觸達澳大利亞養老金行業與散戶群體，預計大量投資者參與本次IPO。澳大利亞是少數散戶可直接申購Anthropic IPO的國家之一；專業及成熟投資者無需等待澳洲監管檔案，可直接參與美國發售。"
+    },
+    {
+      "id": "5171704",
+      "time": "2026-10-27 14:56:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行首席財務官：正在進行“非常嚴格的”繼任者遴選工作。"
+    },
+    {
+      "id": "mkt:01a17c25-432d-7ee0-a98d-eac9ba53fc38",
+      "time": "2026-10-27 14:56:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "ChiNext fell more than 3%; Shanghai Composite dropped 1.19% and Shenzhen Component fell 2.34%. Over 4,900 stocks declined across the Shanghai, Shenzhen and Beijing bourses."
+    },
+    {
+      "id": "te:markets:595296",
+      "time": "2026-10-27 14:56:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Ends Higher but Holds Near 6-Week Low — The TAIEX, Taiwan’s benchmark stock index, climbed 55 points, or 0.1%, to close at 46,096 on Tuesday, paring gains from early trading and halting losses from the previous session as trading resumed after a two-day market closure. The broader index moved away from its lowest level since September 16, touched last Thursday, but remained close to that level as the heavyweight electronic technology sector was nearly flat. The slight gain tracked advances on Wall Street overnight amid a rebound in AI-related stocks. Moderating oil prices also boosted sentiment, easing concerns about inflation risks and interest rate hikes, although gains were limited by traders’ caution ahead of the Fed’s monetary policy decision this week. The technology services and financial sectors mainly lifted the index, with top performers including Nanya Technology Corp. (6.5%), Wiwiynn Corp (6.0%), Yageo Corp. (2.8%), Fubon Financial (2.2%), TSMC (0.6%), and Cathay Financial (0.4%)."
+    },
+    {
+      "id": "mkt:01a17c24-63fd-7ee0-a98d-e5473f23565d",
+      "time": "2026-10-27 14:55:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share semiconductor sector extended losses; Xingchen fell more than 14%, while Shengong, Cambricon, Sanan Optoelectronics and Lihe Micro each dropped over 5%."
+    },
+    {
+      "id": "5171703",
+      "time": "2026-10-27 14:55:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股半導體板塊持續下跌，星宸股份跌超14%，神工股份、寒武紀 、三安光電、力合微均跌超5%。"
+    },
+    {
+      "id": "mkt:01a17c24-4a14-7ee0-a98d-d9bb4c516852",
+      "time": "2026-10-27 14:55:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's insurance regulator said it is engaging all stakeholders to simplify health insurance processes and expects some progress within 3-4 months."
+    },
+    {
+      "id": "5171702",
+      "time": "2026-10-27 14:55:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【臨近尾盤大消費板塊再度異動 新華百貨等多股漲停】臨近尾盤，大消費板塊再度拉昇，新華百貨、百大集團走出3天2板，國芳集團漲停，此前上海九百5連板，陽光乳業、青島食品、桂發祥等多股漲停，東百集團、一鳴食品、中百集團、國光連鎖等快速衝高。"
+    },
+    {
+      "id": "5171701",
+      "time": "2026-10-27 14:55:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度保險監管機構：正與所有利益相關方討論簡化健康保險流程，預計3-4個月內取得一些進展。"
+    },
     {
       "id": "5171700",
       "time": "2026-10-27 14:54:32",

@@ -1,7 +1,132 @@
 {
-  "updated": "2026-10-27 14:55:09",
-  "count": 13402,
+  "updated": "2026-10-27 14:58:57",
+  "count": 13403,
   "items": [
+    {
+      "id": "5171708",
+      "time": "2026-10-27 14:58:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾華執行長：瑞布替尼的銷售額仍有可能達到40億美元或更高。"
+    },
+    {
+      "id": "5171707",
+      "time": "2026-10-27 14:58:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "滙豐控股財務總監郭珮瑛：股價下跌源於市場期待更高的業績指引。"
+    },
+    {
+      "id": "5171706",
+      "time": "2026-10-27 14:58:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克：機器人記憶體需求將超越地球上其他所有裝置的總和】Counterpoint Research此前預計人形機器人儲存需求5年增加20倍，馬斯克直接駁斥稱其“荒謬”，並表示，機器人所需的記憶體容量，將會超過地球上其他所有裝置的總和——因為要讓機器人依託物理基底，才能完成原子級塑形。超級智慧的算力需求更是會遠遠超出這個量級，但幾乎全部的超級智慧算力，都將部署在深空計算節點。"
+    },
+    {
+      "id": "te:markets:595298",
+      "time": "2026-10-27 14:57:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum Hits 52-week Low — Platinum decreased to 1499.00 USD/t.oz, the lowest since October 2025. Over the past 4 weeks, Platinum lost 14.07%, and in the last 12 months, it decreased 4.67%."
+    },
+    {
+      "id": "5171705",
+      "time": "2026-10-27 14:56:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Anthropic大型IPO面向渴求AI標的的澳大利亞散戶投資者】Anthropic PBC已向澳大利亞證券和投資委員會提交招股書，將在IPO中向澳大利亞投資者發售股份。本次澳大利亞發售可助力Anthropic觸達澳大利亞養老金行業與散戶群體，預計大量投資者參與本次IPO。澳大利亞是少數散戶可直接申購Anthropic IPO的國家之一；專業及成熟投資者無需等待澳洲監管檔案，可直接參與美國發售。"
+    },
+    {
+      "id": "5171704",
+      "time": "2026-10-27 14:56:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行首席財務官：正在進行“非常嚴格的”繼任者遴選工作。"
+    },
+    {
+      "id": "mkt:01a17c25-432d-7ee0-a98d-eac9ba53fc38",
+      "time": "2026-10-27 14:56:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "ChiNext fell more than 3%; Shanghai Composite dropped 1.19% and Shenzhen Component fell 2.34%. Over 4,900 stocks declined across the Shanghai, Shenzhen and Beijing bourses."
+    },
+    {
+      "id": "te:markets:595296",
+      "time": "2026-10-27 14:56:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Ends Higher but Holds Near 6-Week Low — The TAIEX, Taiwan’s benchmark stock index, climbed 55 points, or 0.1%, to close at 46,096 on Tuesday, paring gains from early trading and halting losses from the previous session as trading resumed after a two-day market closure. The broader index moved away from its lowest level since September 16, touched last Thursday, but remained close to that level as the heavyweight electronic technology sector was nearly flat. The slight gain tracked advances on Wall Street overnight amid a rebound in AI-related stocks. Moderating oil prices also boosted sentiment, easing concerns about inflation risks and interest rate hikes, although gains were limited by traders’ caution ahead of the Fed’s monetary policy decision this week. The technology services and financial sectors mainly lifted the index, with top performers including Nanya Technology Corp. (6.5%), Wiwiynn Corp (6.0%), Yageo Corp. (2.8%), Fubon Financial (2.2%), TSMC (0.6%), and Cathay Financial (0.4%)."
+    },
+    {
+      "id": "mkt:01a17c24-63fd-7ee0-a98d-e5473f23565d",
+      "time": "2026-10-27 14:55:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share semiconductor sector extended losses; Xingchen fell more than 14%, while Shengong, Cambricon, Sanan Optoelectronics and Lihe Micro each dropped over 5%."
+    },
+    {
+      "id": "5171703",
+      "time": "2026-10-27 14:55:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股半導體板塊持續下跌，星宸股份跌超14%，神工股份、寒武紀 、三安光電、力合微均跌超5%。"
+    },
+    {
+      "id": "mkt:01a17c24-4a14-7ee0-a98d-d9bb4c516852",
+      "time": "2026-10-27 14:55:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's insurance regulator said it is engaging all stakeholders to simplify health insurance processes and expects some progress within 3-4 months."
+    },
+    {
+      "id": "5171702",
+      "time": "2026-10-27 14:55:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【臨近尾盤大消費板塊再度異動 新華百貨等多股漲停】臨近尾盤，大消費板塊再度拉昇，新華百貨、百大集團走出3天2板，國芳集團漲停，此前上海九百5連板，陽光乳業、青島食品、桂發祥等多股漲停，東百集團、一鳴食品、中百集團、國光連鎖等快速衝高。"
+    },
+    {
+      "id": "5171701",
+      "time": "2026-10-27 14:55:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度保險監管機構：正與所有利益相關方討論簡化健康保險流程，預計3-4個月內取得一些進展。"
+    },
     {
       "id": "5171700",
       "time": "2026-10-27 14:54:32",
@@ -120497,119 +120622,6 @@
         "市場"
       ],
       "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.28%， 滬深300指數期貨連續跌0.99%， 中證500指數期貨連續跌0.12%， 上證50指數期貨連續跌0.94%。"
-    },
-    {
-      "id": "5155299",
-      "time": "2026-10-20 14:58:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "速賣通與YouTube宣佈達成全球聯盟營銷戰略合作。"
-    },
-    {
-      "id": "5155298",
-      "time": "2026-10-20 14:58:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海影協發聲：支援文藝工作者依法維權、抵制AI仿冒營銷行為】近日，演員吳越在社交平臺怒斥某影片號用AI仿冒自己肖像與聲音帶貨推銷產品，引發社會關注。2026年10月20日，“上海電影家協會”微信公眾號釋出《關於支援文藝工作者依法維權、抵制AI仿冒營銷行為的宣告》，對此類仿冒營銷行為表示堅決反對。"
-    },
-    {
-      "id": "mkt:01a1581a-e8f5-7ee0-a8fa-d35a6dc9087e",
-      "time": "2026-10-20 14:58:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "EDF.PA",
-        "Impact bullish"
-      ],
-      "text": "LSEG data show French day-ahead baseload power prices rose 28.8% to €173.25/MWh."
-    },
-    {
-      "id": "mkt:01a1581a-d9a8-7ee0-a8fa-ce4325f0f8cb",
-      "time": "2026-10-20 14:58:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【METI to add 400 bln yen to Rapidus; Rapidus targets H2 FY2027 2nm volume production】Japan's METI plans to provide an additional 400 bln yen to advanced semiconductor manufacturer Rapidus through its industrial investment scheme. METI will allocate 150 bln yen in the FY2027 budget and schedule the remaining 250 bln yen across FY2028‑29. Rapidus aims to start volume production of 2nm chips in H2 FY2027. The government previously invested 250 bln yen in Rapidus."
-    },
-    {
-      "id": "5155297",
-      "time": "2026-10-20 14:58:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【2只滬深300ETF尾盤同步放量】滬深300ETF華夏（510330）、滬深300ETF嘉實（159919）尾盤亦大幅放量，成交額分別超40億元、25億元。"
-    },
-    {
-      "id": "5155296",
-      "time": "2026-10-20 14:58:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【汽車之家多次因侵權責任糾紛被起訴】據媒體報道，近日，韓路發影片稱，汽車之家當年沒經過他本人同意，就打著“韓路遊記”的旗號，跟某車企簽了一檔內容合作，總金額在400萬及以上，相關話題引發關注。天眼查App顯示，汽車之家關聯公司北京車之家資訊科技有限公司成立於2006年8月，法定代表人為周生磊，註冊資本1000萬人民幣，經營範圍包括人工智慧基礎軟體開發、軟體銷售、人工智慧應用軟體開發等，由方興、周生磊持股。法律訴訟資訊顯示，該公司曾多次因著作權權屬、侵權糾紛，侵害作品資訊網路傳播權糾紛，侵權責任糾紛等被起訴。"
-    },
-    {
-      "id": "5155295",
-      "time": "2026-10-20 14:57:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "法國日前基本負荷電價上漲28.8%，至173.25歐元/兆瓦時。"
-    },
-    {
-      "id": "te:markets:593354",
-      "time": "2026-10-20 14:57:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Stocks Slide as Tech Selloff Deepens — Japan’s Nikkei 225 Index dropped 1.3% to close at 64,075 on Tuesday, marking a one-month low as concerns over AI spending and higher borrowing costs continued to pressure technology shares. Japanese equities also diverged from Wall Street’s overnight rebound, with local technology firms particularly exposed to renewed selling in AI-related stocks. Major decliners included Kioxia Holdings (-3.4%), SoftBank Group (-6%), Taiyo Yuden (-5.1%), Fujikura (-6.5%) and Tokyo Electron (-2.6%). Financial stocks also suffered significant losses, with Mitsubishi UFJ falling 3.7%, Mizuho Financial declining 5% and Sumitomo Mitsui dropping 3.9%. In corporate developments, credit-default swap spreads linked to SoftBank Group rose to their highest levels in nearly four years, reflecting growing concerns over the company’s AI-related financing needs and the possibility of a major acquisition."
-    },
-    {
-      "id": "mkt:01a15819-1ae5-7ee0-a8fa-c3dfa01f2b8c",
-      "time": "2026-10-20 14:56:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【French grain maize output forecast to drop 49% in 2026 after heatwave】The French grain maize growers association AGPM said on Tuesday that damage from a record heatwave is expected to cut France's grain maize production in 2026 to 7.04 mln t from 13.7 mln t last year, a 49% decline."
-    },
-    {
-      "id": "5155294",
-      "time": "2026-10-20 14:56:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奇瑞V2G功能計劃2027年上車，2029年實現全球佈局2萬座充電站】10月20日，奇瑞汽車副總裁古春山在2026奇瑞全球創新大會上表示，為推動V2G（車網互聯）場景大規模商業化運營，奇瑞計劃於2027年上半年在奇瑞風雲A9純電車型上全球首發V2G功能，今年年底在上海、廣州、合肥和蕪湖等佈局秒充+V2G充電站，並在2029年實現全球佈局2萬座。"
-    },
-    {
-      "id": "5155293",
-      "time": "2026-10-20 14:55:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達10億港元。"
-    },
-    {
-      "id": "5155292",
-      "time": "2026-10-20 14:55:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【南太平洋島國萬那杜附近海域發生6.3級地震】南太平洋島國萬那杜附近海域20日發生6.3級地震。目前暫無人員傷亡或財產損失報告。 據美國地質調查局地震資訊網訊息，地震發生在當地時間20日15時20分（北京時間12時20分），震中位於萬那杜奧爾里港西北197公里處，震源深度16公里。 太平洋海嘯預警中心沒有針對這次地震釋出海嘯預警。萬那杜當地華人告訴記者，首都維拉港沒有震感。（新華社）"
     }
   ]
 }
