@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28 06:08:08",
-  "count": 12981,
+  "updated": "2026-10-28 06:11:56",
+  "count": 12978,
   "items": [
     {
       "id": "mkt:01a17f65-3736-7ee0-a9a2-6f3e32068a47",
@@ -116537,41 +116537,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: British Pound Appreciates by 0.53% — Top currency gainers are British Pound (0.53%), South Korean Won (0.41%), Canadian Dollar (0.34%), Euro (0.16%) and Japanese Yen (0.13%). Biggest loser is Dollar Index (-0.22%)."
-    },
-    {
-      "id": "mkt:01a15b5d-6ddb-7ee0-a912-cc6926083525",
-      "time": "2026-10-21 06:10:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Reuters poll: 69% of economists expect the Bank of Japan to raise its policy rate to 1.50% in April, up from 36% in a September poll."
-    },
-    {
-      "id": "mkt:01a15b5d-30ec-7ee0-a912-c06bb604d3e1",
-      "time": "2026-10-21 06:09:56",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Reuters survey: 72% of economists polled said dissenting votes against a Bank of Japan rate hike could weaken the yen."
-    },
-    {
-      "id": "mkt:01a15b5c-b377-7ee0-a912-be7aad2f30b4",
-      "time": "2026-10-21 06:09:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "REUTERS SURVEY: 65% of respondents expect the Japanese government's new bond issuance in fiscal 2027 to remain below 40 trillion yen."
     }
   ]
 }
