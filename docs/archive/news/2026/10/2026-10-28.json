@@ -1,7 +1,78 @@
 {
   "date": "2026-10-28",
-  "count": 371,
+  "count": 379,
   "items": [
+    {
+      "id": "mkt:01a17f40-ca9d-7ee0-a9a2-2d7bef2d6cc1",
+      "time": "2026-10-28 05:25:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【FT: US, Russia discuss post-war return of US firms to Russian energy sector】FT reports US and Russia have discussed economic incentives to advance peace talks that would permit US firms to re-enter Russia’s energy sector. Proposals cited include restoring Sakhalin oil and gas JVs, resuming Russian oil exports to Europe via the Druzhba pipeline, partial restoration of Nord Stream gas flows, Novatek participation in Alaska LNG, sale of Lukoil’s overseas assets to investors close to the White House, easing potash sanctions, and transferring management of the ZAPORIZHZHIA NUCLEAR PLANT to a US entity. US officials say any cooperation must be part of a comprehensive peace framework and no agreement has been reached. The FT adds Europe opposes sanction relief before the conflict ends and US companies are reportedly cautious, leaving implementation highly uncertain."
+    },
+    {
+      "id": "5173764",
+      "time": "2026-10-28 05:25:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：我很遺憾他（博爾索納羅）離開了巴西，他本可以留下來證明這些指控不實，離開巴西是可恥的。"
+    },
+    {
+      "id": "mkt:01a17f40-2ca2-7ee0-a9a2-25f3b1068a27",
+      "time": "2026-10-28 05:24:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President LULA said leaving Brazil is shameful."
+    },
+    {
+      "id": "mkt:01a17f3f-fcb7-7ee0-a9a2-1d1cb5e04441",
+      "time": "2026-10-28 05:24:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President Lula said he regretted that former president Bolsonaro's son left Brazil, saying the son could have stayed to prove the allegations were false."
+    },
+    {
+      "id": "5173758",
+      "time": "2026-10-28 05:23:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：我剛聽說我的對手離開了這個國家。"
+    },
+    {
+      "id": "te:markets:595544",
+      "time": "2026-10-28 05:22:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Drops on Middle East Diplomacy Hopes — Brent crude fell to around $114 a barrel on Tuesday, as renewed diplomatic efforts raised hopes of de-escalating tensions in the Middle East. Iran’s Supreme Leader Mojtaba Khamenei called for an end to the current state of “neither war nor peace,” signaling a possible opening for negotiations. Officials from Saudi Arabia, Pakistan, and Turkey met in Tehran on Monday and agreed to continue discussions, while Russian President Vladimir Putin was expected to meet Iranian President Masoud Pezeshkian and Qatar’s emir in Moscow. These developments improved prospects for de-escalation, although significant risks remain. Meanwhile, US crude inventories fell by 2.031 million barrels in the week ended October 23rd, defying expectations for an increase of 800,000 barrels and extending the previous week’s 4.93 million-barrel draw, adding to supply concerns. Houthi attacks on Saudi energy infrastructure and Iranian strikes on tankers in the Strait of Hormuz continued to support prices."
+    },
+    {
+      "id": "5173757",
+      "time": "2026-10-28 05:22:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆公佈了應對英國住房危機的計劃，承諾提供更多社會住房、為首次購房者提供幫助，並對出租劣質房產的房東採取更嚴厲的措施。"
+    },
+    {
+      "id": "te:markets:595543",
+      "time": "2026-10-28 05:21:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "ONEOK earnings above expectations at 2.13 USD — ONEOK (OKE) released earnings per share at 2.13 USD, compared to market expectations of 1.48 USD."
+    },
     {
       "id": "mkt:01a17f3d-63d7-7ee0-a9a2-141c70bee19f",
       "time": "2026-10-28 05:21:31",

@@ -1,7 +1,78 @@
 {
-  "updated": "2026-10-28 05:21:50",
-  "count": 12992,
+  "updated": "2026-10-28 05:25:41",
+  "count": 12993,
   "items": [
+    {
+      "id": "mkt:01a17f40-ca9d-7ee0-a9a2-2d7bef2d6cc1",
+      "time": "2026-10-28 05:25:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【FT: US, Russia discuss post-war return of US firms to Russian energy sector】FT reports US and Russia have discussed economic incentives to advance peace talks that would permit US firms to re-enter Russia’s energy sector. Proposals cited include restoring Sakhalin oil and gas JVs, resuming Russian oil exports to Europe via the Druzhba pipeline, partial restoration of Nord Stream gas flows, Novatek participation in Alaska LNG, sale of Lukoil’s overseas assets to investors close to the White House, easing potash sanctions, and transferring management of the ZAPORIZHZHIA NUCLEAR PLANT to a US entity. US officials say any cooperation must be part of a comprehensive peace framework and no agreement has been reached. The FT adds Europe opposes sanction relief before the conflict ends and US companies are reportedly cautious, leaving implementation highly uncertain."
+    },
+    {
+      "id": "5173764",
+      "time": "2026-10-28 05:25:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：我很遺憾他（博爾索納羅）離開了巴西，他本可以留下來證明這些指控不實，離開巴西是可恥的。"
+    },
+    {
+      "id": "mkt:01a17f40-2ca2-7ee0-a9a2-25f3b1068a27",
+      "time": "2026-10-28 05:24:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President LULA said leaving Brazil is shameful."
+    },
+    {
+      "id": "mkt:01a17f3f-fcb7-7ee0-a9a2-1d1cb5e04441",
+      "time": "2026-10-28 05:24:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President Lula said he regretted that former president Bolsonaro's son left Brazil, saying the son could have stayed to prove the allegations were false."
+    },
+    {
+      "id": "5173758",
+      "time": "2026-10-28 05:23:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：我剛聽說我的對手離開了這個國家。"
+    },
+    {
+      "id": "te:markets:595544",
+      "time": "2026-10-28 05:22:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Drops on Middle East Diplomacy Hopes — Brent crude fell to around $114 a barrel on Tuesday, as renewed diplomatic efforts raised hopes of de-escalating tensions in the Middle East. Iran’s Supreme Leader Mojtaba Khamenei called for an end to the current state of “neither war nor peace,” signaling a possible opening for negotiations. Officials from Saudi Arabia, Pakistan, and Turkey met in Tehran on Monday and agreed to continue discussions, while Russian President Vladimir Putin was expected to meet Iranian President Masoud Pezeshkian and Qatar’s emir in Moscow. These developments improved prospects for de-escalation, although significant risks remain. Meanwhile, US crude inventories fell by 2.031 million barrels in the week ended October 23rd, defying expectations for an increase of 800,000 barrels and extending the previous week’s 4.93 million-barrel draw, adding to supply concerns. Houthi attacks on Saudi energy infrastructure and Iranian strikes on tankers in the Strait of Hormuz continued to support prices."
+    },
+    {
+      "id": "5173757",
+      "time": "2026-10-28 05:22:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆公佈了應對英國住房危機的計劃，承諾提供更多社會住房、為首次購房者提供幫助，並對出租劣質房產的房東採取更嚴厲的措施。"
+    },
+    {
+      "id": "te:markets:595543",
+      "time": "2026-10-28 05:21:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "ONEOK earnings above expectations at 2.13 USD — ONEOK (OKE) released earnings per share at 2.13 USD, compared to market expectations of 1.48 USD."
+    },
     {
       "id": "mkt:01a17f3d-63d7-7ee0-a9a2-141c70bee19f",
       "time": "2026-10-28 05:21:31",
@@ -116644,78 +116715,6 @@
         "其他"
       ],
       "text": "【沙特主導聯軍稱摧毀胡塞武裝一處導彈發射平臺】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基20日晚在社交媒體上說，聯軍已摧毀葉門胡塞武裝向沙特首都利雅得發射彈道導彈所使用的一處平臺。馬利基當天稍早時說，聯軍攔截了一枚射向利雅得的胡塞武裝彈道導彈，並在利雅得省攔截摧毀一架無人機。新華社記者當天上午在利雅得兩次聽到爆炸聲。當地居民收到經由手機程式釋出的防空警報。（新華社）"
-    },
-    {
-      "id": "5156967",
-      "time": "2026-10-21 05:24:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：特斯拉與SpaceX合併並非板上釘釘，股東得支援，合併有很多優點。"
-    },
-    {
-      "id": "5156966",
-      "time": "2026-10-21 05:23:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "南方銅業公司三季度銷售47億美元，分析師預期44.6億美元。三季度調整後EBITDA為30.4億美元，分析師預期29.1億美元。"
-    },
-    {
-      "id": "5156965",
-      "time": "2026-10-21 05:22:52",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "馬斯克：SpaceX和特斯拉已分別成立特別委員會，商討合併事宜。"
-    },
-    {
-      "id": "mkt:01a15b31-c247-7ee0-a912-1d393961a256",
-      "time": "2026-10-21 05:22:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Copper",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Elon Musk said the main constraints on developing superintelligent AI are power supply, cooling and infrastructure, not chips."
-    },
-    {
-      "id": "mkt:01a15b31-7ef8-7ee0-a912-17d32381efee",
-      "time": "2026-10-21 05:22:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "NVDA.O",
-        "Impact bullish",
-        "MSFT.O",
-        "Nasdaq100"
-      ],
-      "text": "Elon Musk said he expects AI agents to drive a 1,000-fold increase in bandwidth demand over the next 3–5 years."
-    },
-    {
-      "id": "mkt:01a15b31-5a48-7ee0-a912-0825479adf2a",
-      "time": "2026-10-21 05:22:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Elon Musk said Starlink revenue will be, at least to some extent, proportional to bandwidth scale."
-    },
-    {
-      "id": "mkt:01a15b31-5943-7ee0-a912-07c5ea229e03",
-      "time": "2026-10-21 05:22:03",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "Musk said SpaceX (SPCX.O) will build a ground communications network."
     }
   ]
 }
