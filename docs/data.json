@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-28 01:33:36",
-  "count": 13044,
+  "updated": "2026-10-28 01:37:23",
+  "count": 13043,
   "items": [
+    {
+      "id": "5173459",
+      "time": "2026-10-28 01:36:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用汽車：計劃上市混合動力SUV。"
+    },
+    {
+      "id": "5173458",
+      "time": "2026-10-28 01:36:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及外交部表示，正就一名越過邊境進入以色列後被拘留的埃及公民的遣返事宜採取必要措施。"
+    },
+    {
+      "id": "mkt:01a17e6e-e235-7ee0-a99e-bfd9a6c41a35",
+      "time": "2026-10-28 01:35:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's Foreign Ministry said it is taking necessary measures to arrange the return of an Egyptian citizen detained after crossing the border into Israel."
+    },
+    {
+      "id": "5173457",
+      "time": "2026-10-28 01:34:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "通用汽車：公司與美國能源部正在調整此前獲批的本土製造轉型補助資金，這筆資金將劃撥至蘭辛德爾塔鎮工廠。"
+    },
+    {
+      "id": "5173456",
+      "time": "2026-10-28 01:34:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：巴西的弗拉維奧·博索納羅正乘機前往美國。"
+    },
+    {
+      "id": "5173455",
+      "time": "2026-10-28 01:33:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌2%，現報99.70美元/桶。"
+    },
     {
       "id": "5173454",
       "time": "2026-10-28 01:32:07",
@@ -117181,68 +117230,6 @@
         "AI Revolution"
       ],
       "text": "Market sources: OpenAI CEO Sam Altman has proposed internally consolidating leading AI labs into a single organization to centralize management of frontier AI model risks. However, with OpenAI and Anthropic preparing IPOs, rising commercial pressures are creating resistance to deep cooperation among competitors."
-    },
-    {
-      "id": "5156741",
-      "time": "2026-10-21 01:36:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：利比亞-土耳其的地中海協議侵犯第三國主權權利，不符合海洋法，是無效的。我們重申對希臘和塞普勒斯的聲援。重申歐盟反對任何外部干涉利比亞的眾所周知立場。"
-    },
-    {
-      "id": "mkt:01a15a62-6d10-7ee0-a90d-61f45f2bd5de",
-      "time": "2026-10-21 01:36:02",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Finland's president said over the past week or so Finland has made substantial and technical progress in quietly advancing a peace settlement for the war in Ukraine."
-    },
-    {
-      "id": "5156740",
-      "time": "2026-10-21 01:35:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "芬蘭總統：在過去一週左右的時間裡，我們在實質性和技術層面上，在不引人注目的情況下，為和平解決烏克蘭戰爭取得了很大進展。"
-    },
-    {
-      "id": "5156739",
-      "time": "2026-10-21 01:35:33",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "義大利總理梅洛尼：義大利批准部署軍隊，並在衝突後加重處罰。"
-    },
-    {
-      "id": "5156738",
-      "time": "2026-10-21 01:34:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思：誰控制了海底和地月空間，誰就將控制下一場對抗。"
-    },
-    {
-      "id": "mkt:01a15a61-0b4e-7ee0-a90d-5ee18386278a",
-      "time": "2026-10-21 01:34:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to ABC News, two U.S. officials and a person familiar say the Trump administration is close to a deal with Russia to secure the release of several Americans detained in Russia."
-    },
-    {
-      "id": "5156737",
-      "time": "2026-10-21 01:33:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思：靠舊有關係、靠認識曾經掌管該部門的人來拉合同的時代已經徹底結束。"
     }
   ]
 }
