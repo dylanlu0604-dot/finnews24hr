@@ -1,7 +1,45 @@
 {
   "date": "2026-10-28",
-  "count": 133,
+  "count": 137,
   "items": [
+    {
+      "id": "5173461",
+      "time": "2026-10-28 01:40:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌推出Genie 4世界模型，原生支援音訊。"
+    },
+    {
+      "id": "mkt:01a17e71-6a99-7ee0-a99e-ce036f8283b4",
+      "time": "2026-10-28 01:38:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude oil futures down 2.00% intraday, trading at $99.72/bbl."
+    },
+    {
+      "id": "5173460",
+      "time": "2026-10-28 01:38:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：密歇根州是本週美國最重要的選舉。"
+    },
+    {
+      "id": "mkt:01a17e70-8df0-7ee0-a99e-c64a18781971",
+      "time": "2026-10-28 01:37:47",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bullish"
+      ],
+      "text": "GM (GM.N) plans to launch a hybrid SUV; it is adjusting arrangements with the DOE for previously approved domestic manufacturing transformation grant funds, reallocating those funds to its Lansing Delta Township plant."
+    },
     {
       "id": "5173459",
       "time": "2026-10-28 01:36:31",

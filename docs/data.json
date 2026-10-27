@@ -1,7 +1,45 @@
 {
-  "updated": "2026-10-28 01:37:23",
-  "count": 13043,
+  "updated": "2026-10-28 01:41:09",
+  "count": 13045,
   "items": [
+    {
+      "id": "5173461",
+      "time": "2026-10-28 01:40:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌推出Genie 4世界模型，原生支援音訊。"
+    },
+    {
+      "id": "mkt:01a17e71-6a99-7ee0-a99e-ce036f8283b4",
+      "time": "2026-10-28 01:38:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude oil futures down 2.00% intraday, trading at $99.72/bbl."
+    },
+    {
+      "id": "5173460",
+      "time": "2026-10-28 01:38:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：密歇根州是本週美國最重要的選舉。"
+    },
+    {
+      "id": "mkt:01a17e70-8df0-7ee0-a99e-c64a18781971",
+      "time": "2026-10-28 01:37:47",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bullish"
+      ],
+      "text": "GM (GM.N) plans to launch a hybrid SUV; it is adjusting arrangements with the DOE for previously approved domestic manufacturing transformation grant funds, reallocating those funds to its Lansing Delta Township plant."
+    },
     {
       "id": "5173459",
       "time": "2026-10-28 01:36:31",
@@ -117211,25 +117249,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：威特科夫明天將前往俄羅斯，看看俄羅斯總統普京會怎麼說。"
-    },
-    {
-      "id": "5156742",
-      "time": "2026-10-21 01:38:32",
-      "tags": [
-        "資料",
-        "觀點"
-      ],
-      "text": "花旗調查顯示，墨西哥2027年CPI預期為3.86%，此前預期為3.83%。"
-    },
-    {
-      "id": "mkt:01a15a64-326f-7ee0-a90d-69963bbfc602",
-      "time": "2026-10-21 01:37:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Market sources: OpenAI CEO Sam Altman has proposed internally consolidating leading AI labs into a single organization to centralize management of frontier AI model risks. However, with OpenAI and Anthropic preparing IPOs, rising commercial pressures are creating resistance to deep cooperation among competitors."
     }
   ]
 }
