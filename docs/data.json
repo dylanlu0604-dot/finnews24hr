@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-28 05:52:22",
-  "count": 12984,
+  "updated": "2026-10-28 05:56:19",
+  "count": 12978,
   "items": [
+    {
+      "id": "5173811",
+      "time": "2026-10-28 05:53:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴西自由黨眾議員稱弗拉維奧·博索納羅已前往美國】巴西自由黨聯邦眾議員毛裡西奧·馬爾孔27日稱，在總統選舉中落敗的自由黨候選人弗拉維奧·博索納羅已動身前往美國。馬爾孔當日在社交媒體釋出影片表示，弗拉維奧·博索納羅已乘坐飛機前往美國“流亡”，稱此舉與巴西聯邦最高法院法官亞歷山大·德莫賴斯責令其向警方上交護照有關。（新華社）"
+    },
     {
       "id": "5173810",
       "time": "2026-10-28 05:51:43",
@@ -116544,68 +116552,6 @@
         "國際"
       ],
       "text": "【澤連斯基稱與美特使討論美俄烏領導人會晤可能性】烏克蘭總統澤連斯基20日在社交媒體發文稱，當天他與美國總統特朗普的特使威特科夫和歐洲夥伴在挪威首都奧斯陸舉行會談，討論了美俄烏三方領導人會晤可能性。特朗普的女婿庫什納透過線上方式參加會談。澤連斯基稱，支援美方關於俄烏“能源停火”的提議，只要俄方停止襲擊烏能源設施，烏方也將停止襲擊俄方“敏感”能源設施。澤連斯基表示，期待威特科夫21日訪俄時將烏歐關於實現和平的構想轉達給俄方，其中一個關鍵構想是舉行美俄烏三方領導人會晤以解決“只有領導人才能解決的問題”。（新華社）"
-    },
-    {
-      "id": "5156982",
-      "time": "2026-10-21 05:55:51",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲副主席Hauser：必須對供給衝擊做出反應，錨定通脹預期。"
-    },
-    {
-      "id": "mkt:01a15b4f-674e-7ee0-a912-ade2257e176b",
-      "time": "2026-10-21 05:54:52",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "【SpaceX and Tesla form special committees to explore merger possibility】SpaceX (SPCX.O) and Tesla (TSLA.O) have each formed special committees of independent directors to explore a potential merger, Elon Musk said on SpaceX’s earnings call. Musk said he cannot participate in discussions because of a conflict of interest but called a tie‑up “a good idea.” He cited potential synergies in AI, chips, robotics and communications connectivity, but stressed a deal is not certain and that it would be “overstating” to say it is done. Any transaction would require approval from 50% of Tesla shareholders, which he described as a high threshold."
-    },
-    {
-      "id": "mkt:01a15b4e-fa99-7ee0-a912-a5d4c8770db9",
-      "time": "2026-10-21 05:54:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia deputy governor said the bank is still finalising its economic forecasts and it is uncertain what decision the board will make."
-    },
-    {
-      "id": "mkt:01a15b4e-be2e-7ee0-a912-9c5eed06be6c",
-      "time": "2026-10-21 05:54:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia deputy governor said firms list cost pressures as their primary concern."
-    },
-    {
-      "id": "mkt:01a15b4e-a7fa-7ee0-a912-93e682dd3a03",
-      "time": "2026-10-21 05:54:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RESERVE BANK OF AUSTRALIA deputy governor says inf outlook is more severe than previously forecast and is slightly above expectations."
-    },
-    {
-      "id": "mkt:01a15b4d-fa9e-7ee0-a912-883ac6ec84de",
-      "time": "2026-10-21 05:53:19",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "RBA deputy governor says firms rank cost pressures as their primary concern."
-    },
-    {
-      "id": "5156981",
-      "time": "2026-10-21 05:52:27",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲副主席Hauser：貨幣政策正在起效，但通脹前景趨於惡化。"
     }
   ]
 }
