@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-27 14:05:47",
-  "count": 13361,
+  "updated": "2026-10-27 14:09:37",
+  "count": 13357,
   "items": [
+    {
+      "id": "5171589",
+      "time": "2026-10-27 14:08:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月中國綠證價格指數環比下降6.0%】2026年9月，中國綠證價格指數收於190.5點（以2025年1月為基期100點），環比下降6.0%，同比下降12.3%。"
+    },
+    {
+      "id": "5171588",
+      "time": "2026-10-27 14:07:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪士尼宣佈達成協議，將於2027年初在英國和愛爾蘭的Disney+平臺上推出第4頻道。"
+    },
+    {
+      "id": "mkt:01a17bf8-9997-7ee0-a98c-d17d7a449c56",
+      "time": "2026-10-27 14:07:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【September 2026 China green certificate price index down 6.0% MoM】In September 2026 the China green certificate price index closed at 190.5 (Jan 2025=100), down 6.0% MoM and 12.3% YoY."
+    },
+    {
+      "id": "5171587",
+      "time": "2026-10-27 14:07:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB板塊震盪走弱，華正新材跌停】PCB板塊震盪走弱，華正新材跌停，長榮股份、威派格、東方材料、芯碁微裝、天津普林、本川智慧等跟跌。"
+    },
+    {
+      "id": "te:economy:595279",
+      "time": "2026-10-27 14:06:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Finnish Consumer Mood Falls to 5-Month Low — Finland’s consumer confidence indicator dropped to -9.7 in October 2026 from -4.9 in September, marking its lowest reading since May and falling far below the long-term average of -2.9. The decline came as consumers expected the country’s economy to weaken sharply over the next 12 months (-14.1 vs -4.7 in September). Meanwhile, their assessment of their current personal financial situation became more negative (-4.4 vs -1.9), while confidence in their own financial situation over the next 12 months deteriorated sharply (2.3 vs 8.1)."
+    },
+    {
+      "id": "mkt:01a17bf8-0b32-7ee0-a98c-ce3e1b9b9776",
+      "time": "2026-10-27 14:06:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russian Defence Ministry said Russian forces struck industrial facilities in Kyiv that produce drones."
+    },
+    {
+      "id": "5171586",
+      "time": "2026-10-27 14:06:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報3447.00元。"
+    },
+    {
+      "id": "5171585",
+      "time": "2026-10-27 14:05:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍襲擊了基輔一處生產無人機的工業設施。"
+    },
+    {
+      "id": "mkt:01a17bf6-ce6b-7ee0-a98c-c4be09061ae3",
+      "time": "2026-10-27 14:05:34",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry says Russian forces struck a cargo ship in the Black Sea."
+    },
     {
       "id": "5171584",
       "time": "2026-10-27 14:04:31",
@@ -120059,124 +120147,6 @@
         "其他"
       ],
       "text": "惠譽評級：海灣合作委員會引領新興市場ESG美元發行；集中度依然很高。"
-    },
-    {
-      "id": "te:economy:593314",
-      "time": "2026-10-20 14:09:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Producer Prices Change",
-        "Importance 2"
-      ],
-      "text": "German Producer Inflation Hits 3-1/2-Year High — Germany’s producer prices increased 6.7% year-on-year in September 2026, marking the sixth straight month of producer price growth and accelerating from August’s reading of 4.6%. It was the fastest increase in producer prices since March 2023, mainly driven by rising energy prices (14.9% vs. 8.3% in August), reflecting higher prices for mineral oil, naphtha, heating oil, and motor fuels. Meanwhile, prices for intermediate goods accelerated to 6.4% from 6.1% in August, driven by sharp increases in prices for metals, copper, and semi-finished copper products. Capital goods prices rose 2.4%, reflecting higher prices for machinery and motor vehicles, while durable consumer goods advanced 2.2%. In contrast, non-durable consumer goods prices dropped 1.8%. Excluding energy, producer prices rose 3.2%. On a monthly basis, prices climbed 1.9%, following a 1.1% rise in August, marking the fastest pace in six months and exceeding market estimates of a 0.8% gain."
-    },
-    {
-      "id": "5155202",
-      "time": "2026-10-20 14:08:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普民意支援率創新低】路透社和益普索集團19日釋出的聯合民調結果顯示，美國總統特朗普的民意支援率僅31%，創下他兩屆任期內歷史新低。據路透社報道，這項為期4天的民意調查結果顯示，僅31%的調查物件認可特朗普本屆任期內的表現，相比兩週前的調查結果下降1個百分點，為特朗普兩屆任期內最低水平。當被問及如果現在投票選舉國會議員會支援哪個黨派的候選人，民主黨以12個百分點的優勢領先共和黨，兩黨所獲支援率分別為47%和35%。這是本選舉週期以來，民主黨在民調中所獲支援率領先幅度最大的一次。兩週前的上一次民調結果顯示，民主黨領先共和黨7個百分點，兩黨所獲支援率分別為44%和37%。（新華社）"
-    },
-    {
-      "id": "5155201",
-      "time": "2026-10-20 14:08:38",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【七部門：加強藥品、食品、保健食品、醫療器械、教育培訓、金融理財、醫療等民生領域廣告監管 加大典型案例曝光與信用懲戒力度】市場監管總局等七部門印發《廣告產業發展“十五五”規劃》。其中提到，推動建設現代化廣告監測體系，研發廣告監測智慧體。強化監管人才培養，重點開展資料分類、合規研判、電子固證等技能培訓。強化隱私保護與資料安全監管，規範資料跨境傳輸。構建“事前普法、事中預警、事後懲戒”全流程監管閉環，建立跨境商品和服務廣告監管協同機制，破解跨境廣告監管難題。加強藥品、食品、保健食品、醫療器械、教育培訓、金融理財、醫療等民生領域廣告監管，壓實網際網路平臺主體責任，加大典型案例曝光與信用懲戒力度，淨化市場環境，維護消費者權益。"
-    },
-    {
-      "id": "te:economy:593313",
-      "time": "2026-10-20 14:08:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Non Farm Payrolls",
-        "Importance 1"
-      ],
-      "text": "UK Payroll Employment Rises 13K in September — The number of payrolled employees in the UK increased by 13 thousand, or 0.04%, to 30.3 million in September 2026, after a revised 1 thousand rise in the previous month. This was the largest monthly increase since August 2025. Compared with a year earlier, employment decreased by 0.2%, or 66 thousand. Employment rose the most in the administrative and support services sector, adding 66,000 employees, while the wholesale and retail sector recorded the largest decline, shedding 71,000 employees. Across NUTS3 regions, Derry City and Strabane saw a 1.4% rise in payrolled employees, whereas Camden and City of London registered a 1.7% drop. Meanwhile, median monthly pay rose by 4.4% year-on-year to £2,660. Growth in median pay was highest in the other service activities sector (5.6%) and lowest in the transportation and storage sector (1.8%)."
-    },
-    {
-      "id": "5155200",
-      "time": "2026-10-20 14:08:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國首臺實船應用大功率極地破冰型吊艙推進器在滬下線】10月20日，我國首臺實船應用大功率極地破冰型吊艙推進器在上海長興島正式下線，標誌著我國極地船舶核心裝備自主研製取得重大突破。（央視新聞）"
-    },
-    {
-      "id": "5155199",
-      "time": "2026-10-20 14:07:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "新臺幣兌美元貶至32.666，為2025年4月中旬以來最低水平。"
-    },
-    {
-      "id": "5155198",
-      "time": "2026-10-20 14:07:08",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【事關文化遺產保護 “十五五”時期這樣幹】10月20日，國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹“十五五”時期加強文化遺產保護情況。釋出會上還提出了“十五五”期間一系列文化遺產保護工作目標、任務：我國將著力摸清文化遺產資源家底，建立各類遺產的普查調查制度，及時將保護物件納入法定名錄；我國將建立全國文化遺產資源總目錄，統合形成國家文化遺產資源大資料庫，實現各類遺產“一本賬”；考古工作將控量提質主動性考古發掘專案，強化多學科、跨學科合作，以考古實證進一步講清楚中華文明源流脈絡；“十五五”期間，我國將健全國家級、省級文化生態保護區名錄，實施文化生態保護區建設擴容提升工程，促進非遺更好融入現代生活、服務美好生活；“十五五”時期，博物館事業發展將始終以“辦人民滿意的博物館”作為工作的出發點和落腳點，推動博物館事業高質量發展。（央視新聞）"
-    },
-    {
-      "id": "5155197",
-      "time": "2026-10-20 14:06:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威石油管理局：挪威9月石油、天然氣凝析液和凝析油產量為190萬桶/日。"
-    },
-    {
-      "id": "5155196",
-      "time": "2026-10-20 14:06:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽確認四川發展評級為“A”，展望穩定。"
-    },
-    {
-      "id": "5155195",
-      "time": "2026-10-20 14:06:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數跌幅擴大；最新下跌4.2%，報5525.78點。"
-    },
-    {
-      "id": "te:economy:593312",
-      "time": "2026-10-20 14:06:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Unemployment Rate",
-        "Importance 2"
-      ],
-      "text": "UK Unemployment Rate Surprisingly Falls — The UK unemployment rate fell to 4.7% in the three months to August 2026, defying market expectations that it would remain unchanged at 4.9% for the fifth consecutive period. This marked the lowest reading since the three months to July 2025, as the number of unemployed people declined by 47 thousand from the previous quarter to 1.712 million, driven by decreases in those unemployed for up to 6 months and between 6 and 12 months. Compared with the same period last year, the number of unemployed people fell by 26 thousand. Meanwhile, total employment rose by 102 thousand from the previous period and by 356 thousand from a year earlier to 34.577 million, while the employment rate increased by 0.2 percentage points both quarterly and annually to 75.3%. The number of people with second jobs increased in the latest quarter to 1.294 million, accounting for 3.7% of people in employment. Lastly, the inactivity rate edged down by 0.1 percentage point from the previous quarter to 20.9%."
-    },
-    {
-      "id": "5155194",
-      "time": "2026-10-20 14:06:07",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰降贛鋒鋰業目標價至32.74港元】華泰證券發表研究報告指，考慮到碳酸鋰價格第三季按季下滑疊加市場對2027、2028年需求仍存在擔憂，該行下調贛鋒鋰業(01772.HK)2026至2028年歸母淨利潤至60.4億、73.1億及81.6億元，較前值分別下調22.4%、23.2%及25.7%。贛鋒鋰業H股目標價由54.15港元降至32.74港元。"
-    },
-    {
-      "id": "5155193",
-      "time": "2026-10-20 14:05:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為引望與寧德時代“巧克力”換電首款車型計劃2027年推出】華為引望與寧德時代“巧克力”換電合作的首款車型計劃於2027年推出，為東風與華為合作推出的奕境品牌產品。此前一日，引望與寧德時代、時代電服正式簽署戰略合作框架協議。"
     }
   ]
 }

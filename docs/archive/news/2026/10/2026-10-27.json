@@ -1,7 +1,95 @@
 {
   "date": "2026-10-27",
-  "count": 994,
+  "count": 1003,
   "items": [
+    {
+      "id": "5171589",
+      "time": "2026-10-27 14:08:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月中國綠證價格指數環比下降6.0%】2026年9月，中國綠證價格指數收於190.5點（以2025年1月為基期100點），環比下降6.0%，同比下降12.3%。"
+    },
+    {
+      "id": "5171588",
+      "time": "2026-10-27 14:07:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪士尼宣佈達成協議，將於2027年初在英國和愛爾蘭的Disney+平臺上推出第4頻道。"
+    },
+    {
+      "id": "mkt:01a17bf8-9997-7ee0-a98c-d17d7a449c56",
+      "time": "2026-10-27 14:07:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【September 2026 China green certificate price index down 6.0% MoM】In September 2026 the China green certificate price index closed at 190.5 (Jan 2025=100), down 6.0% MoM and 12.3% YoY."
+    },
+    {
+      "id": "5171587",
+      "time": "2026-10-27 14:07:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB板塊震盪走弱，華正新材跌停】PCB板塊震盪走弱，華正新材跌停，長榮股份、威派格、東方材料、芯碁微裝、天津普林、本川智慧等跟跌。"
+    },
+    {
+      "id": "te:economy:595279",
+      "time": "2026-10-27 14:06:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Finnish Consumer Mood Falls to 5-Month Low — Finland’s consumer confidence indicator dropped to -9.7 in October 2026 from -4.9 in September, marking its lowest reading since May and falling far below the long-term average of -2.9. The decline came as consumers expected the country’s economy to weaken sharply over the next 12 months (-14.1 vs -4.7 in September). Meanwhile, their assessment of their current personal financial situation became more negative (-4.4 vs -1.9), while confidence in their own financial situation over the next 12 months deteriorated sharply (2.3 vs 8.1)."
+    },
+    {
+      "id": "mkt:01a17bf8-0b32-7ee0-a98c-ce3e1b9b9776",
+      "time": "2026-10-27 14:06:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russian Defence Ministry said Russian forces struck industrial facilities in Kyiv that produce drones."
+    },
+    {
+      "id": "5171586",
+      "time": "2026-10-27 14:06:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報3447.00元。"
+    },
+    {
+      "id": "5171585",
+      "time": "2026-10-27 14:05:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍襲擊了基輔一處生產無人機的工業設施。"
+    },
+    {
+      "id": "mkt:01a17bf6-ce6b-7ee0-a98c-c4be09061ae3",
+      "time": "2026-10-27 14:05:34",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry says Russian forces struck a cargo ship in the Black Sea."
+    },
     {
       "id": "5171584",
       "time": "2026-10-27 14:04:31",
