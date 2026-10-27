@@ -1,7 +1,76 @@
 {
   "date": "2026-10-27",
-  "count": 646,
+  "count": 653,
   "items": [
+    {
+      "id": "5171321",
+      "time": "2026-10-27 10:03:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量960億元。"
+    },
+    {
+      "id": "mkt:01a17b18-9719-7ee0-a989-84c7a147cd93",
+      "time": "2026-10-27 10:02:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Indonesia's rupiah weakened against the U.S. dollar to 18,130 per USD."
+    },
+    {
+      "id": "mkt:01a17b18-7dcc-7ee0-a989-7ae657289a56",
+      "time": "2026-10-27 10:02:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Ant Group releases Lingguang 2.0】Ant Group released Lingguang 2.0, adding support for calling MCP and CLI tools in open environments. Lingguang is Ant’s multimodal general AI assistant, launched on Nov. 18, 2025, and currently integrates Alipay billing, membership and travel functions plus connectivity with DingTalk, Feishu, email and Mijia services."
+    },
+    {
+      "id": "5171320",
+      "time": "2026-10-27 10:02:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾兌美元跌至18,130。"
+    },
+    {
+      "id": "mkt:01a17b18-59da-7ee0-a989-73d5f3ac303f",
+      "time": "2026-10-27 10:02:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share PEEK materials sector rose amid choppy trading; Mingyang Technology climbed over 17%, Henghe Precision rose more than 15%, Hengbo Co. gained over 6%, and Changying Precision also advanced."
+    },
+    {
+      "id": "5171319",
+      "time": "2026-10-27 10:02:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行9月份淨買入5.15億紐西蘭元。"
+    },
+    {
+      "id": "5171318",
+      "time": "2026-10-27 10:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大多倫多市長鄒至蕙（Olivia Chow）贏得連任。"
+    },
     {
       "id": "5171317",
       "time": "2026-10-27 10:01:26",

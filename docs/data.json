@@ -1,7 +1,76 @@
 {
-  "updated": "2026-10-27 10:01:57",
-  "count": 13273,
+  "updated": "2026-10-27 10:05:53",
+  "count": 13265,
   "items": [
+    {
+      "id": "5171321",
+      "time": "2026-10-27 10:03:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量960億元。"
+    },
+    {
+      "id": "mkt:01a17b18-9719-7ee0-a989-84c7a147cd93",
+      "time": "2026-10-27 10:02:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Indonesia's rupiah weakened against the U.S. dollar to 18,130 per USD."
+    },
+    {
+      "id": "mkt:01a17b18-7dcc-7ee0-a989-7ae657289a56",
+      "time": "2026-10-27 10:02:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Ant Group releases Lingguang 2.0】Ant Group released Lingguang 2.0, adding support for calling MCP and CLI tools in open environments. Lingguang is Ant’s multimodal general AI assistant, launched on Nov. 18, 2025, and currently integrates Alipay billing, membership and travel functions plus connectivity with DingTalk, Feishu, email and Mijia services."
+    },
+    {
+      "id": "5171320",
+      "time": "2026-10-27 10:02:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾兌美元跌至18,130。"
+    },
+    {
+      "id": "mkt:01a17b18-59da-7ee0-a989-73d5f3ac303f",
+      "time": "2026-10-27 10:02:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share PEEK materials sector rose amid choppy trading; Mingyang Technology climbed over 17%, Henghe Precision rose more than 15%, Hengbo Co. gained over 6%, and Changying Precision also advanced."
+    },
+    {
+      "id": "5171319",
+      "time": "2026-10-27 10:02:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行9月份淨買入5.15億紐西蘭元。"
+    },
+    {
+      "id": "5171318",
+      "time": "2026-10-27 10:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大多倫多市長鄒至蕙（Olivia Chow）贏得連任。"
+    },
     {
       "id": "5171317",
       "time": "2026-10-27 10:01:26",
@@ -119296,143 +119365,6 @@
         "市場"
       ],
       "text": "【人形機器人概念活躍，福萊新材、寧波東力等漲停】人形機器人概念活躍，福萊新材、寧波東力等漲停，奧比中光、斯菱智驅跟漲。"
-    },
-    {
-      "id": "5154865",
-      "time": "2026-10-20 10:05:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【三季度全國共偵辦妨害國（邊）境管理犯罪案件4432起】從今天國家移民管理局召開的新聞釋出會瞭解到，三季度，全國共偵辦妨害國（邊）境管理犯罪案件4432起，抓獲犯罪嫌疑人1.2萬餘人，打掉重大犯罪團伙100個，掛牌督辦重特大案件66起。依法嚴厲打擊口岸邊境涉槍爆、販毒走私等違法犯罪，破獲毒品案件110起，抓獲犯罪嫌疑人123人，繳獲各類毒品1.88噸，破獲萬克以上案件21起；查繳各類槍支402支，子彈1.3萬餘發。"
-    },
-    {
-      "id": "5154864",
-      "time": "2026-10-20 10:04:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "在採取措施應對MSCI相關風險後，印尼股市上漲1.9%。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202610203900997360",
-      "time": "2026-10-20 10:04:40",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【中國人民銀行：將在10月21日至11月2日開展隔夜逆回購操作】央行公告，為更好匹配銀行體系短期流動性需求，中國人民銀行將在10月21日至11月2日開展隔夜逆回購操作，採用固定利率、數量招標，每日操作量不超過10000億元。"
-    },
-    {
-      "id": "5154863",
-      "time": "2026-10-20 10:04:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【三季度全國移民管理機構累計查驗出入境交通運輸工具同比上升10.6%】從今天（10月20日）國家移民管理局召開的新聞釋出會瞭解到，三季度，全國移民管理機構累計查驗出入境交通運輸工具1095.5萬架（列、艘、輛）次，同比上升10.6%；其中，飛機25.9萬架次，與去年同期基本持平，列車2.8萬列次、船舶11.7萬艘次、機動車1055.1萬輛次，同比分別上升3.7%、2.6%、11%。共簽發普通護照533.8萬本、內地（大陸）居民往來港澳臺證件簽註2878.9萬張（件）次，簽發港澳臺居民來往內地（大陸）通行證47.3萬張；簽發外國人簽證證件60.3萬證次。國家移民局政務服務平臺為中外出入境人員提供查詢等政務服務2286.3萬人次，為港澳臺居民、海外華僑免費提供身份核驗服務1227.16萬人次；移民管理機構12367服務平臺受理中外人員諮詢等203萬人次，涉及全球100多個國家和地區，平均滿意率達99.03%。"
-    },
-    {
-      "id": "5154862",
-      "time": "2026-10-20 10:04:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【三季度1.92億人次出入境 免簽入境外國人同比上升24.1%】國家移民管理局10月20日召開新聞釋出會，釋出2026年三季度移民管理主要資料。三季度，全國移民管理機構累計查驗出入境人員1.92億人次，同比上升7.9%；其中內地（大陸）居民9596萬人次、港澳臺居民7314萬人次、外國人2327.2萬人次，同比分別上升7.4%、6.4%、15.6%。其中，免簽入境外國人達899.2萬人次，佔入境外國人總數的77.5%，同比上升24.1%。入境外籍旅客排名前十位的國家為俄羅斯、韓國、越南、馬來西亞、美國、蒙古國、日本、新加坡、泰國、澳大利亞，佔入境旅客總數的63.9%。"
-    },
-    {
-      "id": "5154861",
-      "time": "2026-10-20 10:04:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "物理AI概念走強，凡拓數創20%收穫2連板，索辰科技漲超10%，奧比中光、格靈深瞳、達實智慧、能科科技漲幅靠前。"
-    },
-    {
-      "id": "mkt:01a1570c-cb82-7ee0-a8f3-9d780069551f",
-      "time": "2026-10-20 10:03:38",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Indonesia's rupiah strengthened to 18,010 per US dollar."
-    },
-    {
-      "id": "5154860",
-      "time": "2026-10-20 10:03:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "新石器據悉完成近4億美元的E輪融資，推動總投資超過14億美元。"
-    },
-    {
-      "id": "mkt:01a1570c-8338-7ee0-a8f3-9500ab2ab8f2",
-      "time": "2026-10-20 10:03:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "China recorded 192 million entries and exits in Q3; over 70% of inbound foreign visitors were visa-exempt, Xinhua said."
-    },
-    {
-      "id": "em:qqyh_zgyh:202610203900998031",
-      "time": "2026-10-20 10:03:05",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行：境外央行類機構回購工具的操作物件納入外資人民幣業務清算行】央行公告，為支援外資人民幣業務清算行做好流動性管理、更好服務境外人民幣業務，境外央行類機構回購工具的操作物件納入外資人民幣業務清算行，操作要素按照現行境外央行類機構回購工具執行。"
-    },
-    {
-      "id": "5154859",
-      "time": "2026-10-20 10:02:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數上漲1%，至5047.20點。"
-    },
-    {
-      "id": "5154858",
-      "time": "2026-10-20 10:02:30",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "中國人民銀行：境外央行類機構回購工具的操作物件納入外資人民幣業務清算行，操作要素按照現行境外央行類機構回購工具執行。"
-    },
-    {
-      "id": "5154857",
-      "time": "2026-10-20 10:02:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾<IDR=>兌美元走強至18,010。"
-    },
-    {
-      "id": "5154856",
-      "time": "2026-10-20 10:02:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿里巴巴據悉參與無人配送車製造商新石器（Neolix）4億美元融資。"
-    },
-    {
-      "id": "mkt:01a1570b-6a7e-7ee0-a8f3-8d35cc78e571",
-      "time": "2026-10-20 10:02:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "PBOC said counterparties for the repo facility for overseas central-bank-type institutions will include foreign-invested RMB settlement banks; operational parameters will follow the facility’s existing rules."
     }
   ]
 }
