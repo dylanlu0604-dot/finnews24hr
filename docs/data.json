@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-27 09:46:40",
-  "count": 13290,
+  "updated": "2026-10-27 09:50:28",
+  "count": 13284,
   "items": [
+    {
+      "id": "5171298",
+      "time": "2026-10-27 09:48:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "創新藥概念震盪調整，近岸蛋白跌超10%，粵萬年青、特寶生物、透景生命、眾生藥業、百洋醫藥跌幅居前。"
+    },
+    {
+      "id": "5171297",
+      "time": "2026-10-27 09:48:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股大模型概念股拉昇，智譜漲超10%】港股大模型概念股拉昇，智譜漲超10%，MINIMAX-W漲超%。"
+    },
+    {
+      "id": "te:markets:595215",
+      "time": "2026-10-27 09:48:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Steady Ahead of CPI Data — The Australian dollar was little changed around $0.70, staying near four-week highs as investors braced for the upcoming inflation figures that could boost expectations for another interest rate hike. The third-quarter CPI report is due Wednesday, with underlying inflation expected to rise by a sharp 1.0% quarter-on-quarter, keeping the annual rate at 3.6%. That would leave inflation well above the Reserve Bank of Australia’s 2%–3% target range and could bolster the case for a fifth rate hike this year. RBA Governor Michele Bullock and other senior officials are also scheduled to appear before lawmakers as the data is released, putting them under pressure to respond to the latest inflation figures and their implications for the policy outlook. Markets are currently pricing in a 66% chance of a 25-basis-point RBA rate hike to 4.85% at its November 3 meeting, with the move widely expected to mark the peak of the current tightening cycle."
+    },
+    {
+      "id": "5171296",
+      "time": "2026-10-27 09:48:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【螞蟻靈光2.0全新升級“能管事的AI助理”】10月27日，螞蟻集團釋出靈光2.0。在獲得使用者授權後，靈光能夠結合已接入的資訊與服務，主動識別潛在需求，併發起分析、監測和跟進，並在需要使用者關注的節點及時提醒。AI不再只是等待指令的工具，而開始成為能夠持續管理事務的助手。據介紹，靈光2.0不僅打通了支付寶生態內的資料與服務，還支援在開放環境中呼叫MCP、CLI等工具，拓展跨平臺協同能力。目前，靈光已內建支付寶賬單、會員、出行，以及釘釘、飛書、郵箱、米家等服務能力，管理範圍正從個人資訊與線上事務，延伸至跨平臺工作流和智慧家居裝置控制。"
+    },
+    {
+      "id": "5171295",
+      "time": "2026-10-27 09:47:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊拉昇，粵傳媒漲停】文化傳媒板塊拉昇，粵傳媒漲停，果麥文化、天娛數科、引力傳媒跟漲。"
+    },
+    {
+      "id": "5171294",
+      "time": "2026-10-27 09:47:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【晶片產業鏈震盪反彈 天德鈺20cm漲停】早盤晶片產業鏈震盪反彈，天德鈺、中晶科技漲停，達瑞電子、晶合整合、芯動聯科、波長光電等跟漲。"
+    },
+    {
+      "id": "5171293",
+      "time": "2026-10-27 09:47:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱，其攔截並摧毀了葉門胡塞武裝向南部地區發射的四架無人機"
+    },
     {
       "id": "5171292",
       "time": "2026-10-27 09:45:32",
@@ -119489,133 +119549,6 @@
         "觀點"
       ],
       "text": "【大摩：將亞馬遜列為首選股，目標價升至350美元】摩根士丹利將亞馬遜列為首選股，並將其目標價從335美元上調至350美元，維持“增持”評級。分析師指出，AWS的營收增長軌跡、作為90法則公司的運營能力、Bedrock平臺市場地位的能見度提升，以及亞馬遜零售業務在智慧代理商務領域的佈局，均是支撐其看法的關鍵因素。大摩上調對AWS的增長預期，現預測2027年AWS收入將同比增長47%、2028年增長42%。"
-    },
-    {
-      "id": "5154838",
-      "time": "2026-10-20 09:50:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光纖概念震盪拉昇 長盈通漲超10%】光纖概念震盪拉昇，長盈通漲超10%，亨通光電、特發資訊、永鼎股份、通鼎互聯跟漲。"
-    },
-    {
-      "id": "5154837",
-      "time": "2026-10-20 09:49:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【報告：上海上市公司ESG披露率為61.2%】10月20日，在2026可持續全球領導者大會上，《2026上海ESG發展報告》正式釋出。報告顯示，上海企業ESG披露與評級表現持續領先全市場，但主體間差異明顯。就2025年ESG披露方面，上海上市公司披露率為61.2%，上市國有企業披露率94.9%，上市非國有企業披露率為48.8%。"
-    },
-    {
-      "id": "5154836",
-      "time": "2026-10-20 09:49:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普警告堪薩斯州民眾：若民主黨獲勝，美國將像法國一樣‘燃燒’。"
-    },
-    {
-      "id": "mkt:01a156ff-3b6a-7ee0-a8f3-2c177d52a9f5",
-      "time": "2026-10-20 09:48:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share semiconductor sector staged a brief rally: Yinhe Weidian hit the daily limit, Zhongke Instrument rose over 10%, and Youyan Silicon, Kaide Quartz, Jiehuate, Hualing and Jingyi Equipment also advanced."
-    },
-    {
-      "id": "mkt:01a156ff-1812-7ee0-a8f3-27074b281390",
-      "time": "2026-10-20 09:48:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "CNH"
-      ],
-      "text": "【Wanlian Securities' Long Hongliang: China capital-market reforms deepening, long-term outlook positive】On Oct. 19 CSRC chairman Wu Qing gave the keynote at the 2026 Financial Street Forum. Wanlian Securities chief economist Long Hongliang said the speech set out systematic steps on market-stabilization mechanisms, attracting long-term funds, support for tech innovation and investor protection, signaling a pro-reform policy stance. Long said China’s capital market is pursuing sustained reform to strengthen resilience, broaden value-creation channels and marshal more financial resources for high-quality growth. He highlighted the call to \"further improve capital market functions coordinating investment and financing,\" saying it signals tighter institutional alignment to better serve corporate financing and deliver long-term investor returns, and that regulators are proactively responding to complex conditions to bolster market resilience."
-    },
-    {
-      "id": "mkt:01a156fe-e45e-7ee0-a8f3-1b2f89c4bada",
-      "time": "2026-10-20 09:48:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Axios, a U.S. official said that after talks in Oslo, Witkoff plans to travel to Russia seeking a meeting with President Putin to present a plan developed in close consultation with Ukraine and European partners."
-    },
-    {
-      "id": "5154835",
-      "time": "2026-10-20 09:48:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本自衛隊撞車1死2傷】日本媒體報道稱，據警方訊息，今天（10月20日）早上，在宮城縣利府町，日本自衛隊的車輛與一輛輕型乘用車相撞。據消防部門訊息，輕型乘用車的司機當場死亡，兩名自衛隊隊員受傷並被送往醫院。（CCTV國際時訊）"
-    },
-    {
-      "id": "5154834",
-      "time": "2026-10-20 09:47:50",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【萬聯證券龍紅亮：資本市場改革持續深化 看好長期發展】10月19日，證監會主席吳清出席2026金融街論壇年會開幕式並作主題演講。萬聯證券首席經濟學家龍紅亮認為，演講圍繞穩市機制、中長期資金入市、支援科技創新、投資者保護等作出系統部署，傳遞出非常積極的訊號。中國資本市場正透過持續改革，增強發展韌性，拓展價值創造空間，為經濟高質量發展匯聚更多金融力量，看好長期發展。龍紅亮表示，演講提到“進一步健全投資和融資相協調的資本市場功能”，凸顯服務企業發展與增進投資者獲得感在制度建設中將結合更加緊密。企業依託資本市場成長壯大，投資者也能共享企業成長紅利、獲取長期投資回報，產業實體與資本市場形成良性迴圈。此外，演講內容還體現了監管部門主動應對複雜形勢、持續提升市場韌性的政策導向。"
-    },
-    {
-      "id": "mkt:01a156fe-5061-7ee0-a8f3-11f594188cb5",
-      "time": "2026-10-20 09:47:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Axios, citing a US official, said a US special envoy is traveling to Oslo and will meet Ukrainian President ZELENSKIY on Tuesday. Norway’s prime minister and representatives of the E4 group, the EU and NATO are expected to attend. The meeting aims to coordinate a comprehensive plan to lay groundwork for restarting negotiations with Russia."
-    },
-    {
-      "id": "5154833",
-      "time": "2026-10-20 09:47:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【AI PC概念股拉昇，科森科技漲停】AI PC概念股拉昇，科森科技漲停，長盈精密、龍旗科技、格靈深瞳跟漲。"
-    },
-    {
-      "id": "mkt:01a156fe-2803-7ee0-a8f3-0dd8c40e82f6",
-      "time": "2026-10-20 09:47:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "ChiNext index and the Shenzhen Composite moved into positive territory; ChiNext had earlier slid more than 1%, while the Shanghai Composite was down 0.24%."
-    },
-    {
-      "id": "5154832",
-      "time": "2026-10-20 09:47:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "創業板指拉昇翻紅。"
-    },
-    {
-      "id": "mkt:01a156fd-8168-7ee0-a8f3-06b82263dccd",
-      "time": "2026-10-20 09:46:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Anhui solicits private investors for Inner Mongolia–Anhui UHV DC link; total investment ~21.83 bln yuan】Anhui Energy Bureau is publicly soliciting private enterprises to invest in the Inner Mongolia Kubuqi Desert-to-Anhui ultra‑high‑voltage direct‑current (UHV DC) project (Mengdian‑to‑Anhui) to implement national guidance on introducing private capital into cross‑provincial HVDC corridors and at the request of State Grid Anhui. The project is a national key transmission and clean‑energy export channel: two converter stations, ±800 kV lines of about 1,327 km and 8 GW transmission capacity. Target commercial operation in 2030; estimated total investment about 21.83 bln yuan. Anhui province, the Inner Mongolia government and State Grid are processing long‑term transmission agreements."
     }
   ]
 }
