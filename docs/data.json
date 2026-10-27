@@ -1,7 +1,92 @@
 {
-  "updated": "2026-10-27 09:58:07",
-  "count": 13274,
+  "updated": "2026-10-27 10:01:57",
+  "count": 13273,
   "items": [
+    {
+      "id": "5171317",
+      "time": "2026-10-27 10:01:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "三大指數集體翻綠，滬指跌0.19%，深證成指跌0.05%，創業板指跌0.14%。"
+    },
+    {
+      "id": "5171316",
+      "time": "2026-10-27 10:00:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴西最高法院裁定禁止弗拉維奧·博索納羅離境】巴西聯邦最高法院法官亞歷山大·德莫賴斯26日裁定，禁止前總統雅伊爾·博索納羅之子弗拉維奧·博索納羅離開巴西，責令其24小時內向巴西警方上交護照。 據巴西媒體報道，上述裁決處於司法保密狀態，由弗拉維奧·博索納羅本人在社交媒體公開。這項司法命令涉及最高法院正在調查的一起案件，弗拉維奧·博索納羅及其律師維勒·托馬斯均為調查物件。 弗拉維奧·博索納羅26日在社交媒體上稱，他當天上午去探望被監禁的父親雅伊爾·博索納羅，在離開監禁地時，聯邦警察出現並命令其交出護照，禁止其離開巴西。 根據巴西聯邦警察的初步調查，弗拉維奧·博索納羅涉嫌從阿爾卡薩控股公司獲得資金。該公司註冊於葡萄牙馬德拉群島，目前同樣受到聯邦警察調查。 上週，德莫賴斯曾下令凍結律師維勒·托馬斯高達60億雷亞爾（約合11.2億美元）的資產。托馬斯涉嫌參與同線上博彩業務有關的洗錢活動，目前正接受警方調查。 在25日結束的巴西總統大選中，勞工黨候選人、現任總統盧拉擊敗自由黨候選人弗拉維奧·博索納羅獲得連任。隨後弗拉維奧·博索納羅拒絕承認敗選，並稱將採取法律行動，尋求廢除此次選舉結果。26日，弗拉維奧·博索納羅所在的自由黨已承認大選結果。(新華社)"
+    },
+    {
+      "id": "mkt:01a17b16-5d3d-7ee0-a989-661defbe8100",
+      "time": "2026-10-27 10:00:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A SoftBank Group spokesperson said it is working closely with the Malaysian government and other relevant parties."
+    },
+    {
+      "id": "5171315",
+      "time": "2026-10-27 10:00:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【化學制藥板塊震盪走弱，靈康藥業觸及跌停】化學制藥板塊震盪走弱，靈康藥業觸及跌停，科倫藥業、金石亞藥、聯亞藥業、西點藥業、澤璟製藥-U、向日葵等跟跌。"
+    },
+    {
+      "id": "mkt:01a17b16-1314-7ee0-a989-5d991d879282",
+      "time": "2026-10-27 10:00:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "SoftBank Group spokesperson said the group is exploring AI and digital infrastructure business opportunities in Malaysia."
+    },
+    {
+      "id": "5171314",
+      "time": "2026-10-27 10:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "軟銀發言人表示正與馬來西亞政府及相關各方密切合作。"
+    },
+    {
+      "id": "5171313",
+      "time": "2026-10-27 09:59:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "軟銀集團發言人稱正在馬來西亞探索人工智慧和數字基礎設施商業機會。"
+    },
+    {
+      "id": "5171312",
+      "time": "2026-10-27 09:59:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光學光電子板塊持續走強，弘景光電20cm漲停】光學光電子板塊持續走強，弘景光電20cm漲停，福晶科技、瑞豐光電、波長光電、日久光電、盛洋科技、實益達等跟漲。"
+    },
+    {
+      "id": "5171311",
+      "time": "2026-10-27 09:59:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "東鵬飲料集團釋出關於終止與基利安·姆巴佩合作的宣告。"
+    },
+    {
+      "id": "5171310",
+      "time": "2026-10-27 09:57:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電機板塊異動拉昇，大洋電機漲停】電機板塊異動拉昇，大洋電機漲停，安乃達、方正電機、鳴志電器、中電電機、通達動力、星德勝等跟漲。"
+    },
     {
       "id": "5171309",
       "time": "2026-10-27 09:57:35",
@@ -50,6 +135,18 @@
         "國際"
       ],
       "text": "菲律賓股指上漲1%，至5,698.01點。"
+    },
+    {
+      "id": "mkt:01a17b16-682c-7ee0-a989-6fbf634011dc",
+      "time": "2026-10-27 09:54:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China's ChiNext Index slipped into negative territory after earlier gains of over 1%."
     },
     {
       "id": "5171303",
@@ -119336,116 +119433,6 @@
         "Impact bullish"
       ],
       "text": "PBOC said counterparties for the repo facility for overseas central-bank-type institutions will include foreign-invested RMB settlement banks; operational parameters will follow the facility’s existing rules."
-    },
-    {
-      "id": "5154855",
-      "time": "2026-10-20 10:01:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國人民銀行：將在10月21日至11月2日開展隔夜逆回購操作，採用固定利率、數量招標，每日操作量不超過10000億元。"
-    },
-    {
-      "id": "5154854",
-      "time": "2026-10-20 10:01:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元早盤漲24點至6.6793元，創2022年6月28日以來新高。"
-    },
-    {
-      "id": "mkt:01a1570a-9769-7ee0-a8f3-8063c305daf8",
-      "time": "2026-10-20 10:01:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "The People's Bank of China (PBOC) will conduct overnight reverse repos from Oct. 21 to Nov. 2 via fixed-rate, quantity tenders, with daily operations capped at 1 trillion yuan."
-    },
-    {
-      "id": "em:jjsj_zgsj:202610203900993034",
-      "time": "2026-10-20 10:00:59",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "據國家統計局訊息，經初步核算，我國2026年第三季度金融業GDP同比增長4.1%。"
-    },
-    {
-      "id": "mkt:01a15709-eb17-7ee0-a8f3-7d08b148782d",
-      "time": "2026-10-20 10:00:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Japan launches Phobos sample-return probe】Japan launched a Mars probe early on the 20th to study and return samples from Phobos. The mission is led by JAXA with participation from NASA, CNES, DLR and ESA. The spacecraft will take about one year to reach Mars vicinity, enter a quasi-satellite orbit to map and analyze tens of candidate landing sites, and select a touchdown location. It will attempt to land on Phobos, acquire more than 10g of surface regolith and rock, depart in 2030 and deliver samples to Earth in 2031."
-    },
-    {
-      "id": "5154853",
-      "time": "2026-10-20 10:00:17",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗預計2026年第四季度東盟併購交易市場將非常活躍。"
-    },
-    {
-      "id": "5154852",
-      "time": "2026-10-20 09:59:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：經初步核算，2026年第三季度金融業GDP同比增長4.1%】據國家統計局訊息，經初步核算，我國2026年第三季度金融業GDP同比增長4.1%。"
-    },
-    {
-      "id": "5154851",
-      "time": "2026-10-20 09:59:43",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗：今年迄今為止，東盟併購交易量同比增長超過30%。"
-    },
-    {
-      "id": "mkt:01a15708-fdef-7ee0-a8f3-7450c407c9ab",
-      "time": "2026-10-20 09:59:29",
-      "tags": [
-        "MKT News",
-        "006400.KS",
-        "Impact bearish"
-      ],
-      "text": "【South Korea Supreme Court upholds 4-year sentence in Hwaseong battery-plant fire】South Korea's Supreme Court on the 20th issued a final ruling sentencing company representative Park Sun‑gwan (phonetic) to four years' imprisonment over the June 2024 Hwaseong battery-plant fire that killed 23."
-    },
-    {
-      "id": "mkt:01a15708-f78f-7ee0-a8f3-6f4d8615e84f",
-      "time": "2026-10-20 09:59:27",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【Oriental Jincheng: LPR unlikely to be cut in near term】Oct 20, 2026 — The PBOC authorized the National Interbank Funding Center to publish new LPR quotes: 1-year 3.00%; 5-year and above 3.50%. Oriental Jincheng said recent LPR stability reflects Q3 GDP acceleration to 4.5% and faster growth in new productive forces, led by high‑tech manufacturing. Against that backdrop, aggregate monetary policy will remain steady; countercyclical adjustment will emphasize structural tools. After structural growth‑support and property‑stabilization measures roll out, policymakers will enter an effects‑observation phase. Near‑term probability of a broad‑based rate cut is low, so the pricing basis for LPR should remain stable."
-    },
-    {
-      "id": "te:markets:593262",
-      "time": "2026-10-20 09:58:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Fall as Tech Sector Drags — The Shanghai Composite fell 0.3% to 3,721 on Tuesday, while the Shenzhen Component dropped 0.5% to a more than two-month low of 11,761, tracking broader losses across Asian markets and bucking a chip-led rally on Wall Street. Sentiment toward AI-related stocks remained fragile ahead of key earnings from major technology companies this week, as concerns over heavy AI spending and elevated interest rates have recently weighed on the sector. Cambricon Technologies (-1.5%), GigaDevice Semiconductor (-1.9%), Piotech (-1.8%), Zhongji Innolight (-1.5%) and Eoptolink Technology (-1.7%) posted losses. On the monetary policy front, the People’s Bank of China kept its one-year loan prime rate (LPR) unchanged at 3.0%, while the five-year LPR remained at 3.5%. The decision followed strong key economic data, with the GDP expanding 4.5% year-on-year in Q3, accelerating from the previous quarter and keeping China on track to meet the government’s full-year growth target."
-    },
-    {
-      "id": "5154850",
-      "time": "2026-10-20 09:58:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本發射火星衛星探測器】日本火星衛星探測器20日凌晨發射升空。該探測器將對火星的衛星“火衛一”進行詳細觀測，並取樣返回地球。 日本宇宙航空研究開發機構的直播畫面顯示，當地時間20日4時41分（北京時間3時41分），該探測器搭乘H3火箭10號從日本南部鹿兒島縣的種子島宇宙中心升空。發射約1小時11分鐘後，火箭將探測器送入火星轉移軌道並和探測器分離。 火星衛星探測專案由日本宇宙航空研究開發機構主導，美國國家航空航天局、法國國家航天研究中心、德國航空航天中心和歐洲航天局等參與。 探測器將用約一年時間飛抵火星附近，進入環繞火星的“準衛星軌道”。在環繞火星執行期間，探測器將對“火衛一”進行詳細觀測，調查“火衛一”上幾十個地點的地形、化學組成等，並確定在“火衛一”上著陸的地點。此後，探測器將嘗試在“火衛一”著陸並採集10克以上的衛星表面砂子和岩石樣本。按計劃，探測器將於2030年開始返程，並於2031年帶著樣本回到地球。 “火衛一”距離火星約6000公里，是一個土豆樣的不規則天體，其直徑只有月球的約160分之一，表面佈滿大大小小的隕石坑。關於火星衛星的起源，比較主流的有“大撞擊說”和“捕獲說”兩種假說。解開“火衛一”的起源之謎將幫助人們理解太陽系的形成及太陽系內的物質輸送。(新華社)"
     }
   ]
 }
