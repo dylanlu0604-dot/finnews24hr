@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-28 01:25:56",
-  "count": 13049,
+  "updated": "2026-10-28 01:29:47",
+  "count": 13047,
   "items": [
+    {
+      "id": "mkt:01a17e68-c67b-7ee0-a99e-ad69d1622a6d",
+      "time": "2026-10-28 01:29:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Refinitiv: Russia Baltic, Black Sea crude exports seen down 100,000-200,000 bpd in November】Refinitiv, citing traders, expects crude exports from Russia’s Baltic and Black Sea ports to fall 100,000–200,000 bpd MoM in November. Traders attribute the decline to refineries exiting maintenance and raising runs to increase diesel output for a Russia‑US diesel supply agreement reached on Oct 9; Russia has partly restored diesel export quotas and the US has eased fuel-export sanctions. Risks remain: Ukrainian strikes on energy infrastructure, roughly three-week loading delays at Novorossiysk, and falling Russian crude production that may limit further refinery throughput, leaving November export plans subject to change."
+    },
+    {
+      "id": "mkt:01a17e68-55d8-7ee0-a99e-a60bb6241518",
+      "time": "2026-10-28 01:28:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Canada and the UAE signed an energy cooperation agreement."
+    },
+    {
+      "id": "5173452",
+      "time": "2026-10-28 01:28:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大與阿聯酋簽署能源合作協議。"
+    },
+    {
+      "id": "5173451",
+      "time": "2026-10-28 01:26:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大與阿聯酋簽署全面貿易協定，加拿大總理馬克·卡尼和阿布扎比王儲出席簽約儀式。"
+    },
+    {
+      "id": "mkt:01a17e65-ecee-7ee0-a99e-98a59ae8b7f2",
+      "time": "2026-10-28 01:26:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada and the United Arab Emirates signed a comprehensive trade agreement."
+    },
+    {
+      "id": "em:qqyh_mlc:202610283910634584",
+      "time": "2026-10-28 01:25:22",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週二使用規模為2.26億美元（交易對手2家），上個交易日報2億美元。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202610283910634584",
+      "time": "2026-10-28 01:25:22",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週二使用規模為2.26億美元（交易對手2家），上個交易日報2億美元。"
+    },
     {
       "id": "5173450",
       "time": "2026-10-28 01:25:00",
@@ -117204,79 +117264,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：烏克蘭比任何人都更希望和平，這場衝突是俄羅斯發起的。"
-    },
-    {
-      "id": "5156732",
-      "time": "2026-10-21 01:29:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西據悉最快下週首次發行熊貓債，首期規模擬達50億元人民幣。"
-    },
-    {
-      "id": "mkt:01a15a5b-c71c-7ee0-a90d-42f420803b33",
-      "time": "2026-10-21 01:28:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's prime minister plans to extend energy-related emergency regulations to additional critical sectors, including water supply, heating and data centers."
-    },
-    {
-      "id": "5156731",
-      "time": "2026-10-21 01:28:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【卡達稱美伊核問題談判仍在繼續】當地時間10月20日，卡達首相顧問兼外交部發言人馬吉德·安薩里在多哈舉行的第八屆全球安全論壇上表示，儘管中東地區緊張局勢持續升級，美國與伊朗圍繞伊朗核問題的談判仍在繼續，雙方均保持外交接觸。"
-    },
-    {
-      "id": "5156730",
-      "time": "2026-10-21 01:27:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "交易員已下調CoreWeave債券評級。"
-    },
-    {
-      "id": "5156729",
-      "time": "2026-10-21 01:27:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆計劃最早於4月提出立法。"
-    },
-    {
-      "id": "5156728",
-      "time": "2026-10-21 01:26:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總理將與能源相關的緊急規定擴充套件到其他重要領域，包括供水、供暖、資料中心。"
-    },
-    {
-      "id": "5156727",
-      "time": "2026-10-21 01:26:32",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英國首相伯納姆計劃透過立法削減福利支出法案。"
-    },
-    {
-      "id": "mkt:01a15a59-6dee-7ee0-a90d-3c773a021f3d",
-      "time": "2026-10-21 01:26:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Norwegian prime minister said she was pleased they met today, clarified several issues and agreed it is now important to focus on the future."
-    },
-    {
-      "id": "5156726",
-      "time": "2026-10-21 01:26:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "芬蘭總統：我認為過去一週左右我們在低調推進中取得了不少進展，我相信程序已重回正軌。"
     }
   ]
 }

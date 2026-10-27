@@ -1,7 +1,67 @@
 {
   "date": "2026-10-28",
-  "count": 117,
+  "count": 124,
   "items": [
+    {
+      "id": "mkt:01a17e68-c67b-7ee0-a99e-ad69d1622a6d",
+      "time": "2026-10-28 01:29:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Refinitiv: Russia Baltic, Black Sea crude exports seen down 100,000-200,000 bpd in November】Refinitiv, citing traders, expects crude exports from Russia’s Baltic and Black Sea ports to fall 100,000–200,000 bpd MoM in November. Traders attribute the decline to refineries exiting maintenance and raising runs to increase diesel output for a Russia‑US diesel supply agreement reached on Oct 9; Russia has partly restored diesel export quotas and the US has eased fuel-export sanctions. Risks remain: Ukrainian strikes on energy infrastructure, roughly three-week loading delays at Novorossiysk, and falling Russian crude production that may limit further refinery throughput, leaving November export plans subject to change."
+    },
+    {
+      "id": "mkt:01a17e68-55d8-7ee0-a99e-a60bb6241518",
+      "time": "2026-10-28 01:28:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Canada and the UAE signed an energy cooperation agreement."
+    },
+    {
+      "id": "5173452",
+      "time": "2026-10-28 01:28:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大與阿聯酋簽署能源合作協議。"
+    },
+    {
+      "id": "5173451",
+      "time": "2026-10-28 01:26:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大與阿聯酋簽署全面貿易協定，加拿大總理馬克·卡尼和阿布扎比王儲出席簽約儀式。"
+    },
+    {
+      "id": "mkt:01a17e65-ecee-7ee0-a99e-98a59ae8b7f2",
+      "time": "2026-10-28 01:26:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada and the United Arab Emirates signed a comprehensive trade agreement."
+    },
+    {
+      "id": "em:qqyh_mlc:202610283910634584",
+      "time": "2026-10-28 01:25:22",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週二使用規模為2.26億美元（交易對手2家），上個交易日報2億美元。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202610283910634584",
+      "time": "2026-10-28 01:25:22",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週二使用規模為2.26億美元（交易對手2家），上個交易日報2億美元。"
+    },
     {
       "id": "5173450",
       "time": "2026-10-28 01:25:00",
