@@ -1,7 +1,53 @@
 {
-  "updated": "2026-10-28 01:52:34",
+  "updated": "2026-10-28 01:56:20",
   "count": 13029,
   "items": [
+    {
+      "id": "mkt:01a17e81-2a4e-7ee0-a99e-f10d631ed6c1",
+      "time": "2026-10-28 01:55:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Boeing (BA.N) said disruptions from supplier shortages are expected to continue through 2027 and will generate abnormal production costs, which the company will expense as incurred."
+    },
+    {
+      "id": "mkt:01a17e80-e587-7ee0-a99e-efd56d3da92d",
+      "time": "2026-10-28 01:55:38",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish",
+        "Dow"
+      ],
+      "text": "Boeing (BA.N) encountered supplier shortages in Q3 that halted factory operations and negatively affected its KC-46A tanker and 777 freighter programs."
+    },
+    {
+      "id": "5173468",
+      "time": "2026-10-28 01:55:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音：預計供應商短缺造成的干擾將持續至2027年，並導致異常生產成本，這些成本在發生時計入費用。"
+    },
+    {
+      "id": "mkt:01a17e7d-f69f-7ee0-a99e-e44c2cd5307a",
+      "time": "2026-10-28 01:52:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Vice President Vance said he recalled waiting hours at gas stations as oil prices surged following events in a foreign region, adding he could not even pronounce some of the country names involved."
+    },
+    {
+      "id": "5173467",
+      "time": "2026-10-28 01:52:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲147美元，報14474美元/噸。LME期鋁收漲46美元，報3087美元/噸。LME期鋅收漲28美元，報3842美元/噸。LME期鉛收漲10美元，報1933美元/噸。LME期鎳收漲68美元，報15629美元/噸。LME期錫收漲444美元，報51461美元/噸。LME期鈷收平，報34620美元/噸。"
+    },
     {
       "id": "5173466",
       "time": "2026-10-28 01:51:13",
@@ -117062,51 +117108,6 @@
         "其他"
       ],
       "text": "OpenAI收購生物醫療企業Orchestra Bio。"
-    },
-    {
-      "id": "5156758",
-      "time": "2026-10-21 01:55:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚表示，如果我們進行談判，相信對方會再次發動攻擊。"
-    },
-    {
-      "id": "mkt:01a15a73-bce5-7ee0-a90d-cc4e761c5c50",
-      "time": "2026-10-21 01:54:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Romania's new government sworn in】On Oct. 20 local time, the new government led by Prime Minister Niculescu won a parliamentary confidence vote and was sworn in at the presidential palace."
-    },
-    {
-      "id": "mkt:01a15a73-7274-7ee0-a90d-c1d23e9792bc",
-      "time": "2026-10-21 01:54:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Italian Prime Minister Meloni announced deployment of 500 troops to Milan to assist police in maintaining public order through year-end."
-    },
-    {
-      "id": "mkt:01a15a73-581f-7ee0-a90d-bb702021b7c2",
-      "time": "2026-10-21 01:54:30",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "European Commission President Von der Leyen said the Libya-Turkey Mediterranean agreement infringes third countries' sovereign rights, is inconsistent with the law of the sea and is invalid. The EU reiterated support for Greece and Cyprus and opposed external interference in Libya."
-    },
-    {
-      "id": "5156757",
-      "time": "2026-10-21 01:53:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利總理梅洛尼宣佈向米蘭部署500名軍人，支援警方維持秩序至年底。"
     }
   ]
 }

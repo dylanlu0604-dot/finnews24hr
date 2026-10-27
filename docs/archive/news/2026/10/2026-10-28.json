@@ -1,7 +1,53 @@
 {
   "date": "2026-10-28",
-  "count": 144,
+  "count": 149,
   "items": [
+    {
+      "id": "mkt:01a17e81-2a4e-7ee0-a99e-f10d631ed6c1",
+      "time": "2026-10-28 01:55:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Boeing (BA.N) said disruptions from supplier shortages are expected to continue through 2027 and will generate abnormal production costs, which the company will expense as incurred."
+    },
+    {
+      "id": "mkt:01a17e80-e587-7ee0-a99e-efd56d3da92d",
+      "time": "2026-10-28 01:55:38",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish",
+        "Dow"
+      ],
+      "text": "Boeing (BA.N) encountered supplier shortages in Q3 that halted factory operations and negatively affected its KC-46A tanker and 777 freighter programs."
+    },
+    {
+      "id": "5173468",
+      "time": "2026-10-28 01:55:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音：預計供應商短缺造成的干擾將持續至2027年，並導致異常生產成本，這些成本在發生時計入費用。"
+    },
+    {
+      "id": "mkt:01a17e7d-f69f-7ee0-a99e-e44c2cd5307a",
+      "time": "2026-10-28 01:52:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Vice President Vance said he recalled waiting hours at gas stations as oil prices surged following events in a foreign region, adding he could not even pronounce some of the country names involved."
+    },
+    {
+      "id": "5173467",
+      "time": "2026-10-28 01:52:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲147美元，報14474美元/噸。LME期鋁收漲46美元，報3087美元/噸。LME期鋅收漲28美元，報3842美元/噸。LME期鉛收漲10美元，報1933美元/噸。LME期鎳收漲68美元，報15629美元/噸。LME期錫收漲444美元，報51461美元/噸。LME期鈷收平，報34620美元/噸。"
+    },
     {
       "id": "5173466",
       "time": "2026-10-28 01:51:13",
