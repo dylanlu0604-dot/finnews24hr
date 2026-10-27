@@ -1,7 +1,229 @@
 {
-  "updated": "2026-10-27 19:34:30",
-  "count": 13249,
+  "updated": "2026-10-27 19:38:24",
+  "count": 13267,
   "items": [
+    {
+      "id": "mkt:01a17d26-f263-7ee0-a995-eeda9daf2361",
+      "time": "2026-10-27 19:37:46",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bearish"
+      ],
+      "text": "【Boeing jet production issues weigh on Q3 results】Boeing reported Q3 revenue $24.19bln and GAAP loss per share $0.26; adjusted loss per share $0.34 versus analyst expected loss of $0.21. Commercial Airplanes revenue fell to $10.7bln; operating loss was $697m, with an operating margin of -6.5%. Management attributed the shortfall to weaker delivery profitability and rising production costs, including supply-chain inflation. Boeing said it still cannot lift 737 monthly output from 42 to 47, citing wing production as the bottleneck. Regulators approved the 737-7 and 737-10 models; Boeing also won the US Navy F/A-XX contract and posted a second consecutive quarter of positive free cash flow."
+    },
+    {
+      "id": "5172837",
+      "time": "2026-10-27 19:37:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯還針對阿爾卡吉釋出了潛在危險警報。"
+    },
+    {
+      "id": "mkt:01a17d26-ccb6-7ee0-a995-e265fdc48b4d",
+      "time": "2026-10-27 19:37:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said he discussed cooperating with the US in the Arctic."
+    },
+    {
+      "id": "5172836",
+      "time": "2026-10-27 19:37:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【甬矽電子：2026年第三季度淨利潤虧損896.55萬元，同比由盈轉虧】甬矽電子公告，2026年第三季度營業收入13.71億元，同比增長18.23%；歸母淨利潤虧損896.55萬元，同比由盈轉虧；扣非淨利潤虧損3554.12萬元。2026年前三季度營業收入37.82億元，同比增長19.32%；歸母淨利潤3039.53萬元，同比下降51.85%；扣非淨利潤虧損4591.98萬元。"
+    },
+    {
+      "id": "5172835",
+      "time": "2026-10-27 19:37:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "坦尚尼亞能源部長宣佈，在姆納齊灣發現估計儲量達 2230 億立方英尺的天然氣。"
+    },
+    {
+      "id": "mkt:01a17d26-a2ba-7ee0-a995-dc825c65ff00",
+      "time": "2026-10-27 19:37:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's military said a drone was intercepted near Baghdad's Green Zone."
+    },
+    {
+      "id": "5172834",
+      "time": "2026-10-27 19:37:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：討論與美國在北極的合作。"
+    },
+    {
+      "id": "mkt:01a17d26-3187-7ee0-a995-d1a66cb58a12",
+      "time": "2026-10-27 19:36:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Russian President Putin said Russia is exploring the possibility of cooperation with U.S. partners."
+    },
+    {
+      "id": "5172833",
+      "time": "2026-10-27 19:36:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "普京：我們正在探索與美國合作伙伴合作的可能性。"
+    },
+    {
+      "id": "5172832",
+      "time": "2026-10-27 19:36:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Artiva Bio報告第二例死亡，與試驗治療無關。"
+    },
+    {
+      "id": "5172831",
+      "time": "2026-10-27 19:36:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兩面針：2026年第三季度淨利潤虧損2722.74萬元，同比由盈轉虧】兩面針公告，2026年第三季度營業收入2.38億元，同比下降18.76%；歸母淨利潤虧損2722.74萬元，2025年同期為2857.45萬元，同比由盈轉虧；扣非淨利潤虧損747.26萬元，2025年同期為1069.3萬元，同比由盈轉虧。2026年前三季度營業收入7.12億元，同比下降12.65%；歸母淨利潤虧損3190.86萬元，2025年同期為2349.03萬元，同比由盈轉虧；扣非淨利潤虧損1407.48萬元，2025年同期為1550.43萬元，同比由盈轉虧。"
+    },
+    {
+      "id": "mkt:01a17d25-da81-7ee0-a995-cee6a6d1832b",
+      "time": "2026-10-27 19:36:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Putin says Russia is open to cooperation in the natural gas sector."
+    },
+    {
+      "id": "5172830",
+      "time": "2026-10-27 19:36:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兩面針：2026年第三季度旅遊牙膏均價同比增長11.89%】兩面針公告，2026年第三季度，公司家用牙膏產量630.12萬支、銷量653.92萬支、營業收入2990.64萬元；旅遊牙膏產量3.79億支、銷量3.49億支、營業收入3134.71萬元。家用牙膏、旅遊牙膏平均售價分別為45733.81元/萬支、898.93元/萬支，同比分別增長7.45%、11.89%；二氧化矽、山梨醇平均進價同比分別下降3.46%、1.17%。"
+    },
+    {
+      "id": "mkt:01a17d25-a79b-7ee0-a995-c667acce9019",
+      "time": "2026-10-27 19:36:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russian President Putin said gas-producing countries should strengthen coordination and discuss risks."
+    },
+    {
+      "id": "5172829",
+      "time": "2026-10-27 19:36:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯就利雅得的潛在危險發出警告。"
+    },
+    {
+      "id": "5172828",
+      "time": "2026-10-27 19:36:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：俄羅斯願在天然氣領域開展合作。"
+    },
+    {
+      "id": "5172827",
+      "time": "2026-10-27 19:35:58",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【進出口銀行完成2026年新型政策性金融工具投放】中國進出口銀行堅決貫徹落實黨中央、國務院決策部署，堅守政策性金融職能定位，高標準高質量完成2026年新型政策性金融工具投放任務，為我國穩投資穩預期，推動經濟動能向新、結構向優提供有力支撐。截至10月27日，進出口銀行新型政策性金融工具已支援專案超500個，投放金額1200億元，拉動總投資逾1.7萬億元，槓桿撬動作用顯著。(新華社)"
+    },
+    {
+      "id": "5172826",
+      "time": "2026-10-27 19:35:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：天然氣生產國應協調立場、討論風險。"
+    },
+    {
+      "id": "te:markets:595426",
+      "time": "2026-10-27 19:35:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Eases as Diplomacy Picks Up — Brent crude fell below $115 a barrel on Tuesday, following a 0.8% loss on Monday, as renewed diplomatic efforts raised hopes of ending the US-Iran war and easing pressure on energy markets. Iran’s Supreme Leader Mojtaba Khamenei called for an end to the current state of “neither war nor peace,” signaling a possible opening for negotiations. Officials from Saudi Arabia, Pakistan and Turkey met in Tehran on Monday and agreed to continue discussions, while Russian President Vladimir Putin was expected to meet Iran’s President Masoud Pezeshkian and Qatar’s emir in Moscow. These developments improved prospects for de-escalation, although significant risks remain. A Saudi-led coalition reported intercepting drones and ballistic missiles launched by Iran-backed Houthi rebels, while Hezbollah was reportedly preparing for renewed conflict in Lebanon. Investors are also monitoring upcoming elections, including in Israel, for potential implications for regional stability and oil supply."
+    },
+    {
+      "id": "5172825",
+      "time": "2026-10-27 19:34:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏開始在奧列什基區域性停火 擬撤離受困平民】俄羅斯和烏克蘭27日各自宣佈，在赫爾松地區的奧列什基開始區域性停火，以便人道主義行動的展開。俄美烏三方均未表示誰將監督停火，也沒有介紹相關人道主義行動的細節。（新華社）"
+    },
+    {
+      "id": "5172824",
+      "time": "2026-10-27 19:34:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【標普全球評估Capital IQ等資料業務的未來安排】標普全球已啟動戰略評估，研究針對Capital IQ及相關資料業務的各種方案，包括可能剝離這些業務。這些業務構成標普全球市場財智旗下Kensho Data & Platforms的大部分業務。"
+    },
+    {
+      "id": "5172822",
+      "time": "2026-10-27 19:34:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：我們需要增加天然氣供應。"
+    },
+    {
+      "id": "te:markets:595425",
+      "time": "2026-10-27 19:34:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Falls for 2nd Session — Crude oil fell toward $100 a barrel on Tuesday, following a 1.5% loss on Monday, as renewed diplomatic efforts raised hopes of ending the US-Iran war and easing pressure on energy markets. Iran’s Supreme Leader Mojtaba Khamenei called for an end to the current state of “neither war nor peace,” signaling a possible opening for negotiations. Officials from Saudi Arabia, Pakistan and Turkey met in Tehran on Monday and agreed to continue discussions, while Russian President Vladimir Putin was expected to meet Iran’s President Masoud Pezeshkian and Qatar’s emir in Moscow. These developments improved prospects for de-escalation, although significant risks remain. A Saudi-led coalition reported intercepting drones and ballistic missiles launched by Iran-backed Houthi rebels, while Hezbollah was reportedly preparing for renewed conflict in Lebanon. Investors are also monitoring upcoming elections, including in Israel, for potential implications for regional stability and oil supply."
+    },
+    {
+      "id": "5172821",
+      "time": "2026-10-27 19:33:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金禾實業：2026年第三季度淨利潤1.02億元，同比增長79.97%】金禾實業公告，2026年第三季度營業收入14.66億元，同比增長33.38%；歸母淨利潤1.02億元，同比增長79.97%；扣非淨利潤8718.58萬元，同比增長529.51%。2026年前三季度營業收入45.04億元，同比增長27.11%；歸母淨利潤3.58億元，同比下降8.48%；扣非淨利潤3.24億元，同比下降8.05%。"
+    },
+    {
+      "id": "5172820",
+      "time": "2026-10-27 19:33:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "無人機在巴格達綠區附近被攔截。"
+    },
+    {
+      "id": "5172819",
+      "time": "2026-10-27 19:33:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳永慶出任西藏銀行行長人選，原系交行雲南省分行副行長】西藏銀行資訊顯示，陳永慶已出任該行黨委副書記、副董事長、行長人選。據瞭解，陳永慶原系交通銀行雲南省分行副行長。"
+    },
     {
       "id": "mkt:01a17d23-125c-7ee0-a995-b88f2e807e75",
       "time": "2026-10-27 19:33:32",
@@ -213,6 +435,14 @@
         "公司"
       ],
       "text": "【上海國投先導參與投資的木瀾和聚基金完成備案】10月27日，據上海國投先導基金訊息，其參與投資的上海木瀾和聚私募投資基金合夥企業（有限合夥）完成備案，登記規模25.125億元，管理人為上海木瀾投資管理有限公司。LP陣容包括瀾起投資、中微半導體、聚辰股份三家產業資本以及地方國資平臺。"
+    },
+    {
+      "id": "5172799",
+      "time": "2026-10-27 19:30:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【小米在武漢首個員工住宅開售，備案均價每平1.38萬】近日，小米生態鏈總經理陳波在微博釋出影片稱，小米首個員工住宅專案武漢“光谷夢享家”於10月25日正式開盤。該專案主要面向小米體系內員工銷售。從房管平臺公示資訊來看，專案整體備案均價為13885元/平方米，不同樓棟價格略有差別。1號樓為33層高層，主打三房戶型，備案均價13609元/平方米，房源總價區間為138.8萬元至180萬元；2、3、4號樓為小高層產品，備案均價在13884元/平方米-13892元/平方米，房源總價大多集中在183萬元至213萬元區間。有市場訊息顯示，小米員工內部價預計僅1.2萬元/平方米左右，但小米方面未予以證實。"
     },
     {
       "id": "5172797",
@@ -119005,80 +119235,6 @@
         "公司"
       ],
       "text": "【全球航貿供應鏈服務平臺上線暨“航貿數貸”融資服務首單成果釋出】10月20日，在2026北外灘國際航運論壇開幕式上，上海市虹口區聯合上港集團、中國數聯等鏈主企業啟動建設全球航貿供應鏈管理服務平臺。平臺以“1＋4＋N”體系為核心，整合航貿資料、業務協同、金融賦能、安全合規等功能，旨在打造全球航運貿易供應鏈的資源配置樞紐。"
-    },
-    {
-      "id": "5156033",
-      "time": "2026-10-20 19:37:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【平安證券：外資來華對本土券商既是壓力也是參照系，本土機構立足點仍在深耕產業】10月19日，證監會主席吳清在2026金融街論壇年會開幕式講話中提到，鼓勵外資機構用好母公司專業能力和集團優勢，進一步完善產品佈局、參與創新業務，支援更多外資機構來華投資展業。平安證券表示，外資機構來華展業，對本土券商而言既是壓力，也是參照系。2026年6月陸家嘴論壇上，證監會明確提出積極支援外資在華新設獨資、合資證券基金期貨機構，同時強調“開正門、堵偏門”，開放與安全統籌兼顧。2026金融街論壇年會進一步鼓勵其完善產品佈局、參與創新業務。外資帶來的不只是資金，更有產品設計、風控體系與跨境服務的體系化成熟經驗，財富管理、衍生品、跨境投行這些需要加快補強的環節會因此提速。在平安證券看來，本土券商應對思路十分清晰，即公司治理與風控體系先行對標國際同業補齊短板，跨境服務能力加快構建；真正的立足點仍在本土，對產業結構、客戶需求和監管環境的深刻理解是本土券商的比較優勢，深耕產業服務遠比同質化競爭更具價值。"
-    },
-    {
-      "id": "5156032",
-      "time": "2026-10-20 19:37:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大族數控：前三季度淨利潤同比增長214.03%】大族數控(301200.SZ)公告稱，第三季度營業收入為28.56億元，同比增長87.77%；淨利潤為5.87億元，同比增長157.08%。前三季度營業收入為78.41億元，同比增長100.90%；淨利潤為15.44億元，同比增長214.03%。業績增長主要得益於AI算力需求持續強勁，公司高附加值產品佔比不斷提升，帶動營收顯著增長；同時，新一代機架伺服器算力及交換單元高多層HDI板、N+N結構高多層板，800G及1.6T高速光模組mSAP類載板等高階AIPCB需求增長顯著，公司抓住下游客戶擴產升級的市場機遇，全線產品訂單大幅成長。公司Q3淨利潤5.87億，Q2淨利潤6.34億，據此計算，Q3淨利潤環比下降7%。"
-    },
-    {
-      "id": "5156031",
-      "time": "2026-10-20 19:37:08",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【大摩：微軟AI變現空間拓寬，增長兌現門檻抬高】摩根士丹利10月19日釋出的微軟財報前瞻報告指出，Azure雲服務需求強勁、Microsoft 365商業化改善及運營費用控制，有望支援微軟在2027財年延續增長勢頭。但隨著上一季度較好的業績和全年初步指引推動市場預期與估值回升，公司進一步超越投資者期待的門檻也在抬高。"
-    },
-    {
-      "id": "5156030",
-      "time": "2026-10-20 19:36:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【津膜科技：擬簡易程式定增募資不超過人民幣三億元用於膜專案及補流】津膜科技公告，公司擬以簡易程式向特定物件發行股票，融資總額不超過人民幣三億元且不超過最近一年末淨資產百分之二十。本次發行募集資金總額為人民幣1.06億元，發行物件不超過35名，均以人民幣現金認購。扣除發行費用後，擬投入高效能膜生產車間智慧化升級改造專案4970.41萬元、新型中空纖維膜研發與中試平臺專案4675.31萬元、補充流動資金1000萬元；本次發行尚需深交所稽核透過並經中國證監會同意註冊。"
-    },
-    {
-      "id": "5156029",
-      "time": "2026-10-20 19:36:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【WorkBuddy 多款模型上新、更新公告】WorkBuddy 現已接入 Xiaomi MiMo-V2.6-Pro、MiniMax-M3.1-Flash，並將 DeepSeek-V4.1-Flash 更新至 V4.1-Flash-1017 版本。（騰訊WorkBuddy）"
-    },
-    {
-      "id": "5156028",
-      "time": "2026-10-20 19:36:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌2%，現報1100.05美元/盎司。"
-    },
-    {
-      "id": "5156027",
-      "time": "2026-10-20 19:35:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陽光股份：陽光金匯補充協議將服務費總價上調74.48%】陽光股份公告，控股子公司深圳陽光金匯科技有限公司此前與A公司簽署伺服器租賃綜合服務協議，含稅服務費總價為6.33億元。公告稱，陽光金匯自9月12日起已完成約16.4%的伺服器交付並透過驗收；雙方簽署補充協議，對未交付服務上調單價、增加數量，原協議含稅服務費總價調整為11.04億元，較原總價增幅74.48%。"
-    },
-    {
-      "id": "5156026",
-      "time": "2026-10-20 19:35:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北化股份：2026年第三季度淨利潤8231.34萬元，同比增長0.81%】北化股份公告，2026年第三季度營業收入6.4億元，同比下降9.06%；歸母淨利潤8231.34萬元，同比增長0.81%；扣非淨利潤8180.99萬元，同比增長2.54%。2026年前三季度營業收入19.77億元，同比增長7.72%；歸母淨利潤3.08億元，同比增長63.29%；扣非淨利潤2.81億元，同比增長73.22%。"
-    },
-    {
-      "id": "5156025",
-      "time": "2026-10-20 19:35:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "小米技術：今天，Xiaomi MiMo-V2.6-Pro 正式上線 WorkBuddy。"
     }
   ]
 }
