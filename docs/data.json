@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-28 01:48:45",
-  "count": 13032,
+  "updated": "2026-10-28 01:52:34",
+  "count": 13029,
   "items": [
+    {
+      "id": "5173466",
+      "time": "2026-10-28 01:51:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府獲悉博索納羅即將到美國，博索納羅所乘坐飛機預計將在達拉斯或邁阿密降落。"
+    },
+    {
+      "id": "5173465",
+      "time": "2026-10-28 01:50:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：中東領導人“發脾氣”時，汽油價格就會攀升。"
+    },
+    {
+      "id": "mkt:01a17e7b-51a2-7ee0-a99e-d9a0105140b9",
+      "time": "2026-10-28 01:49:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Vice President Vance said he understands gasoline prices are very high."
+    },
+    {
+      "id": "5173464",
+      "time": "2026-10-28 01:48:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "Anduril Industries Inc.與高通合作，試圖重新在美國設計、裝配膝上型電腦。"
+    },
     {
       "id": "5173463",
       "time": "2026-10-28 01:48:11",
@@ -117073,78 +117107,6 @@
         "其他"
       ],
       "text": "義大利總理梅洛尼宣佈向米蘭部署500名軍人，支援警方維持秩序至年底。"
-    },
-    {
-      "id": "mkt:01a15a70-5401-7ee0-a90d-b663312bc615",
-      "time": "2026-10-21 01:51:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian President PEZESHKIAN told Pakistani mediators that any negotiations require the US to first lift all pressure, threats and sanctions."
-    },
-    {
-      "id": "5156756",
-      "time": "2026-10-21 01:50:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧談巴基斯坦：就巴基斯坦而言，這是一個我們必須與之保持關係的國家。這是一個擁有核武器的國家。從地理角度來看，我們需要能夠與他們互動，就像印度政府必須與伊朗保持關係並會見伊朗領導人一樣。因此，這些是難以平衡的事情，但它們必須成為我們外交政策的一部分。"
-    },
-    {
-      "id": "mkt:01a15a6e-ede3-7ee0-a90d-a81445da48e6",
-      "time": "2026-10-21 01:49:41",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "U.S. Secretary of State Rubio said the U.S. faces a state that openly declares \"we are targeting merchant vessels\", a stance he said has not been seen since World War II."
-    },
-    {
-      "id": "5156755",
-      "time": "2026-10-21 01:49:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚對巴基斯坦調解人表示，任何談判都必須以美國首先解除所有施壓、威脅和制裁為前提。"
-    },
-    {
-      "id": "mkt:01a15a6e-8f04-7ee0-a90d-a7b9a3c5c388",
-      "time": "2026-10-21 01:49:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. Secretary of State Rubio on Iran: reaching an agreement with the Iranian regime is difficult; they do not know how to negotiate and are controlled by radical Shi'ites."
-    },
-    {
-      "id": "5156754",
-      "time": "2026-10-21 01:48:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【羅馬尼亞新一屆政府宣誓就職】當地時間10月20日，羅馬尼亞總理尼古列斯庫領導的新一屆政府透過議會信任投票，隨後在總統府宣誓就職。羅馬尼亞議會當天以280票贊成、58票反對的表決結果透過對新政府的信任投票。新政府由總理尼古列斯庫、1名副總理及其他部長共19人組成。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a15a6e-3f47-7ee0-a90d-9f28fc879c24",
-      "time": "2026-10-21 01:48:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "U.S. Secretary of State Rubio said people underestimate the consequences of sanctions on Russia; they target not only Russia but anyone who does business with Russia, creating a balance that has always existed."
     }
   ]
 }
