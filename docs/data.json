@@ -1,7 +1,66 @@
 {
-  "updated": "2026-10-28 01:14:36",
-  "count": 13070,
+  "updated": "2026-10-28 01:18:22",
+  "count": 13060,
   "items": [
+    {
+      "id": "mkt:01a17e5e-2f36-7ee0-a99e-7a2923a0825f",
+      "time": "2026-10-28 01:17:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister Araghchi phoned Brazil's foreign minister to congratulate Lula on winning Brazil's 2026 presidential election; they exchanged views on key regional issues and recent international developments."
+    },
+    {
+      "id": "mkt:01a17e5d-954c-7ee0-a99e-7183b706ba48",
+      "time": "2026-10-28 01:17:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted dlr 226 mln from two counterparties in fixed-rate reverse repurchase operations."
+    },
+    {
+      "id": "5173446",
+      "time": "2026-10-28 01:16:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（10月27日），美聯儲隔夜逆回購協議（RRP）使用規模為2.26億美元（交易對手2家），上個交易日報2億美元。"
+    },
+    {
+      "id": "mkt:01a17e5c-84a9-7ee0-a99e-6809f1fce622",
+      "time": "2026-10-28 01:15:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Emir has arrived at the venue for talks with Russian President Putin."
+    },
+    {
+      "id": "5173445",
+      "time": "2026-10-28 01:15:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：伊朗外長與巴西外長通電話】伊朗外交部長阿拉格齊於本週二下午同巴西外長通話，祝賀盧拉贏得 2026 年巴西總統選舉。雙方也就重要地區議題以及最新國際局勢交換了意見。"
+    },
+    {
+      "id": "5173444",
+      "time": "2026-10-28 01:14:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達埃米爾抵達會場，準備與普京舉行會談。"
+    },
+    {
+      "id": "mkt:01a17e5b-2ea6-7ee0-a99e-67dc916450e2",
+      "time": "2026-10-28 01:14:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Putin meets Pezeshkian at GECF summit to discuss Middle East】The Kremlin said on Oct. 27 that President Putin met Iranian President Pezeshkian in Moscow during the Gas Exporting Countries Forum summit. They discussed the Middle East and said they hope the situation moves in a positive direction. Putin noted Russia-Iran trade rose 10.4% in the first eight months of the year and that construction of the Bushehr nuclear power plant continues. This was their third meeting this year."
+    },
     {
       "id": "mkt:01a17e5a-361b-7ee0-a99e-5d843e7f3389",
       "time": "2026-10-28 01:13:23",
@@ -117300,158 +117359,6 @@
         "國際"
       ],
       "text": "挪威首相：應當商討歐洲安全秩序，歐洲必須參與談判。"
-    },
-    {
-      "id": "mkt:01a15a52-31ce-7ee0-a90d-0b5a5c04d227",
-      "time": "2026-10-21 01:18:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY said he discussed intelligence and Starlink issues with U.S. presidential envoy Witkoff and hopes connections will be restored within 48 hours."
-    },
-    {
-      "id": "mkt:01a15a51-f76a-7ee0-a90d-0624c9bd09b5",
-      "time": "2026-10-21 01:18:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ZELENSKIY said he is still reviewing an energy ceasefire plan."
-    },
-    {
-      "id": "mkt:01a15a51-d387-7ee0-a90c-f8a662d8ae37",
-      "time": "2026-10-21 01:17:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Norway's prime minister said a discussion on Europe's security order is necessary and that European countries should jointly participate."
-    },
-    {
-      "id": "5156711",
-      "time": "2026-10-21 01:17:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基表示，仍在研究能源停火方案。"
-    },
-    {
-      "id": "5156710",
-      "time": "2026-10-21 01:17:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "關於威特科夫未出席新聞釋出會的原因，芬蘭總統表示，這是政治領導人的新聞釋出會。"
-    },
-    {
-      "id": "mkt:01a15a50-c0da-7ee0-a90c-f04ee9732d82",
-      "time": "2026-10-21 01:16:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $227 million from three counterparties in a fixed-rate reverse repo operation."
-    },
-    {
-      "id": "mkt:01a15a50-6dea-7ee0-a90c-ea19c53add49",
-      "time": "2026-10-21 01:16:22",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Ukrainian President ZELENSKIY said talks today were very positive."
-    },
-    {
-      "id": "5156709",
-      "time": "2026-10-21 01:16:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週二（10月20日），美聯儲隔夜逆回購協議（RRP）使用規模為2.27億美元（交易對手3家），上個交易日報3.3億美元。"
-    },
-    {
-      "id": "mkt:01a15a50-5aba-7ee0-a90c-e44f07979d17",
-      "time": "2026-10-21 01:16:17",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "ZELENSKIY said Ukraine is ready to negotiate and that any gestures toward de-escalation are important to Kyiv."
-    },
-    {
-      "id": "em:qqyh_mlc:202610213901738353",
-      "time": "2026-10-21 01:16:17",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲週三隔夜逆回購協議（RRP）使用規模為2.27億美元。"
-    },
-    {
-      "id": "mkt:01a15a50-3b87-7ee0-a90c-d8259a63ff2a",
-      "time": "2026-10-21 01:16:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said any discussion of territorial issues must be held at the highest leadership level."
-    },
-    {
-      "id": "5156708",
-      "time": "2026-10-21 01:16:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達表示，正在開展外交努力以緩和地區緊張局勢並重新開放霍爾木茲海峽，軍事解決方案不可行，談判是恢復穩定和緩解能源價格的關鍵。"
-    },
-    {
-      "id": "mkt:01a15a50-165f-7ee0-a90c-d5215de0c13f",
-      "time": "2026-10-21 01:16:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said he had discussed security guarantees."
-    },
-    {
-      "id": "5156707",
-      "time": "2026-10-21 01:15:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：與美國國務卿魯比奧討論了星鏈、攔截彈和情報事宜。"
-    },
-    {
-      "id": "5156706",
-      "time": "2026-10-21 01:15:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：今天的對話非常積極。"
-    },
-    {
-      "id": "5156705",
-      "time": "2026-10-21 01:14:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，他希望在未來48小時內與魯比奧通話。"
-    },
-    {
-      "id": "mkt:01a15a4f-2762-7ee0-a90c-cac16c49c047",
-      "time": "2026-10-21 01:14:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy says he hopes to speak with U.S. Secretary of State Rubio within the next 48 hours."
     }
   ]
 }
