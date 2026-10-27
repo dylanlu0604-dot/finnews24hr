@@ -1,7 +1,67 @@
 {
   "date": "2026-10-27",
-  "count": 1650,
+  "count": 1657,
   "items": [
+    {
+      "id": "5172845",
+      "time": "2026-10-27 19:41:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅博特科：擬以5000萬元至1億元回購公司股份】羅博特科公告，擬以自有資金或自籌資金透過集中競價方式回購公司A股股份，回購金額不低於5000萬元且不超過1億元，回購價格不超過803.46元/股，回購股份將全部登出並減少註冊資本。本方案尚需提交股東會審議。"
+    },
+    {
+      "id": "5172843",
+      "time": "2026-10-27 19:41:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "可口可樂股價抹去漲幅，盤前下跌1%。"
+    },
+    {
+      "id": "te:markets:595427",
+      "time": "2026-10-27 19:41:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Point to Gains at the Open — US stock futures rose on Tuesday, with S&P 500 futures gaining 0.3%, Nasdaq 100 futures advancing 0.5% and Dow Jones futures climbing 130 points, extending gains from the previous session. Sentiment was supported by falling oil prices, while investors assessed fresh corporate developments ahead of the Federal Reserve’s monetary policy decision tomorrow. Nvidia rose 0.6% in premarket trading after announcing plans to invest $3 billion in Meta to expand their AI partnership, while Meta shares slipped 0.3%. Boeing gained 1.4% after narrowing its third-quarter loss, supported by stronger defense sales, while UPS advanced 1.5% after raising its revenue forecast. In contrast, Coca-Cola fell 0.4% as its results failed to impress investors despite beating earnings and revenue expectations. Alphabet and Amazon both edged up 0.4% ahead of their earnings reports later this week."
+    },
+    {
+      "id": "5172841",
+      "time": "2026-10-27 19:40:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聲迅股份：2026年前三季度淨利潤虧損1862.75萬元，上年同期虧損314.16萬元】聲迅股份公告，2026年第三季度營業收入8700.63萬元，同比增長32.25%；歸屬於上市公司股東的淨利潤虧損619.82萬元，扣非淨利潤虧損578.38萬元。2026年前三季度營業收入1.86億元，同比增長34.24%；歸屬於上市公司股東的淨利潤虧損2082.21萬元，扣非淨利潤虧損2052.41萬元。前三季度淨利潤虧損1862.75萬元，上年同期虧損314.16萬元。"
+    },
+    {
+      "id": "5172840",
+      "time": "2026-10-27 19:39:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福事特：擬投4.5億元之內建設湖南製造基地】福事特公告，公司擬與寧鄉經濟技術開發區管理委員會簽訂專案落戶合同，在寧鄉市建設湖南製造基地，計劃總投資4.5億元之內（含流動資金）。公司第二屆董事會第十九次會議已審議透過該對外投資事項。"
+    },
+    {
+      "id": "5172839",
+      "time": "2026-10-27 19:38:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞銀丁月麗：AH股銅礦企業具備明確估值重估邏輯】瑞銀中國基礎材料行業研究主管丁月麗最新判斷，電氣化、電網投資和AI基礎設施拓寬銅需求，估計到2030年，AI資料中心及相關電力基礎設施可能貢獻全球銅需求增長的15%—20%。疊加礦石品位下降、專案建設週期長以及資本開支受限，預計未來3—5年甚至更長時間內，銅供應仍將偏緊。結構性需求和供應受限支撐13000美元/噸的銅價成為新常態，而非週期性高點。然而，AH股銅礦企業目前其PE約為海外同業的一半，EV/EBITDA也顯著折價，因此其估值重估的潛力較大。"
+    },
+    {
+      "id": "mkt:01a17d27-844c-7ee0-a995-f1a6d9895050",
+      "time": "2026-10-27 19:38:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an alert over a potential hazard in Riyadh."
+    },
     {
       "id": "mkt:01a17d26-f263-7ee0-a995-eeda9daf2361",
       "time": "2026-10-27 19:37:46",
