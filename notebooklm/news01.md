@@ -1,7 +1,1585 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-10-28 01:56:20_
-_本檔包含 2693 則快訊，約 479667 字_
+_更新時間：2026-10-28 06:19:33_
+_本檔包含 2779 則快訊，約 478018 字_
+
+---
+
+### 2026-10-28 06:17:22  #國際
+
+美國航空排程員與運營專員批准了一份新的五年期合同，該合同由美國航空與專業航空飛行管制協會達成，包含立即生效的加薪條款。
+
+---
+
+### 2026-10-28 06:16:50  #宏觀 #國際
+
+美國民主黨高層計劃一旦奪回國會控制權，就調查特朗普進口俄羅斯柴油協議，敦促銀行與港口留存相關記錄；財政部為該安排豁免制裁並稱其合法。
+
+---
+
+### 2026-10-28 06:15:33  #MKT News
+
+Brazil reported a third outbreak of Newcastle disease in Santa Catarina state, a highly contagious viral disease that primarily affects birds.
+
+---
+
+### 2026-10-28 06:15:29  #國際
+
+【波蘭將設立“愛國者”導彈維修中心】波蘭國防部副部長瑪格達萊娜·索布科維亞克-恰爾內茨卡27日宣佈，波蘭將設立一座“愛國者”防空系統導彈維修中心，負責PAC-3攔截彈的維修。索布科維亞克-恰爾內茨卡表示，這將是美國境外唯一的PAC-3導彈維修中心，預計專案投資額為10億茲羅提（約合2.53億美元）。她當天在社交媒體平臺發文說，波蘭與德國、荷蘭和挪威就該維修中心的選址展開競爭，最終波蘭勝出。（新華社）
+
+---
+
+### 2026-10-28 06:15:12  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Appreciates by 1.13% — Top currency gainers are Brazilian Real (1.13%) and Dollar Index (0.38%). Biggest losers are Mexican Peso (-0.57%), Euro (-0.39%), Japanese Yen (-0.29%) and British Pound (-0.28%).
+
+---
+
+### 2026-10-28 06:13:44  #國際
+
+美國航空：與專業航空飛行控制協會簽訂的新合同包含加薪條款，將立即生效。
+
+---
+
+### 2026-10-28 06:13:23  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+【Gurman: Touchscreen MacBook Pro could start at $2,899, setting new record】Tech reporter Mark Gurman wrote Apple plans to unveil new 14‑ and 16‑inch MacBook Pro models on Wednesday, adding higher‑priced options. The models are expected to feature an OLED XDR touchscreen and Dynamic Island — both firsts for Mac — and to push starting prices to new highs. Insiders told Gurman Apple has discussed pricing a new 14‑inch with the M5 Pro chip at $2,899, about $400 above the current M5 Pro 14‑inch. The existing non‑touch 16‑inch MacBook Pro starts at $2,999; the new 16‑inch would start at least $3,399. A $2,899 base for the 14‑inch would be the highest starting price for a MacBook Pro, surpassing the $2,799 17‑inch model from 2006.
+
+---
+
+### 2026-10-28 06:05:01  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Tech reporter Mark Gurman says Apple (AAPL.O) is betting consumers will pay a premium for MacBook Pro models equipped with a touchscreen.
+
+---
+
+### 2026-10-28 06:03:04  #MKT News
+
+Syria's state news agency SANA said passenger and commercial traffic at the Nassib border crossing with Jordan will resume normal operations from Wednesday morning local time.
+
+---
+
+### 2026-10-28 06:03:00  #國際
+
+敘利亞表示，從週三早上開始，與約旦接壤的納西布邊境口岸的客運和商業交通將恢復正常。
+
+---
+
+### 2026-10-28 06:03:00  #MKT News
+
+Israel's far-right national security minister Itamar Ben-Gvir said tonight he had heard talk of forming a unity government with Gadi Eizenkot, calling it the scenario he had previously warned about and a terrible mistake.
+
+---
+
+### 2026-10-28 06:01:48  #其他
+
+蘋果將於週三釋出14英寸和16英寸觸控屏MacBook。
+
+---
+
+### 2026-10-28 06:01:42  #公司
+
+蘋果觸控式螢幕Mac將成為該公司價格最高的膝上型電腦。
+
+---
+
+### 2026-10-28 06:01:34  #其他 #焦點
+
+蘋果已討論將新款14英寸觸控Mac定價為2899美元。
+
+---
+
+### 2026-10-28 05:59:44  #公司 #國際
+
+以色列利庫德集團訊息人士表示，該黨未預料到阿拉伯裔以色列選民的投票率會如此之高。
+
+---
+
+### 2026-10-28 05:53:58  #國際
+
+【巴西自由黨眾議員稱弗拉維奧·博索納羅已前往美國】巴西自由黨聯邦眾議員毛裡西奧·馬爾孔27日稱，在總統選舉中落敗的自由黨候選人弗拉維奧·博索納羅已動身前往美國。馬爾孔當日在社交媒體釋出影片表示，弗拉維奧·博索納羅已乘坐飛機前往美國“流亡”，稱此舉與巴西聯邦最高法院法官亞歷山大·德莫賴斯責令其向警方上交護照有關。（新華社）
+
+---
+
+### 2026-10-28 05:51:43  #公司
+
+Coinbase執行長：所有資產類別都在向鏈上遷移。
+
+---
+
+### 2026-10-28 05:51:14  #央行 #國際
+
+【美聯儲本週維持利率不變的機率為92.8%】據CME“美聯儲觀察”：美聯儲本週維持利率不變的機率為92.8%，累計加息25個基點的機率為7.2%。美聯儲到12月維持利率不變的機率為16.4%，累計加息25個基點的機率77.7%，累計加息50個基點的機率為5.9%。
+
+---
+
+### 2026-10-28 05:50:10  #MKT News
+
+Yisrael Beiteinu leader Avigdor Lieberman said there must be an internal revolt within Likud to oust Benjamin Netanyahu.
+
+---
+
+### 2026-10-28 05:44:39  #其他
+
+巴西總統盧拉：我對博索納羅離開巴西感到遺憾，因為他本可以留在這裡，證明媒體上的指控不實。我曾試圖讓他證明自己清白，為此向選舉法院提交了我本人、我妻子以及我子女的全部檔案。他沒有提交自己的檔案。
+
+---
+
+### 2026-10-28 05:43:09  #公司
+
+Visa執行長：使用AI代理的消費者“非常少”。
+
+---
+
+### 2026-10-28 05:42:59  #公司
+
+Visa執行長：本季度是AI代理技術的轉折點。
+
+---
+
+### 2026-10-28 05:42:52  #MKT News
+
+Yisrael Beiteinu leader Lieberman said he was unsure whether polls accurately reflected the actual vote and expected final election results to be announced Friday morning.
+
+---
+
+### 2026-10-28 05:40:27  #其他
+
+巴西將於11月4日啟動12月1日到期外匯掉期的展期操作。
+
+---
+
+### 2026-10-28 05:37:49  #其他
+
+巴西總統盧拉：我曾收到許多離開巴西的邀請，也曾收到許多前往使館尋求避難的邀請。我決定留在巴西，並決定向聯邦警察自首，因為我想揭露指控我的人的真面目，證明我的清白。如今我在這裡，因為你們而再次當選，獲得又一個任期。
+
+---
+
+### 2026-10-28 05:37:16  #公司 #國際
+
+【出口民調：以議會兩大陣營均未獲過半數席位】以色列第26屆議會選舉27日22時結束投票。以媒出口民調顯示，現任總理內塔尼亞胡領導的右翼陣營與以國防軍前總參謀長埃森科特領導的反對派陣營均未能獲得組建政府所需的多數席位，但反對派陣營領先。根據以色列第13頻道電視臺出口民調，內塔尼亞胡領導的利庫德集團預計獲得25席，埃森科特領導的中間派政黨正直黨預計獲得23席，分別位列第一和第二。前總理納夫塔利·貝內特領導的反對黨團結黨預計獲得14席，位列第三。（新華社）
+
+---
+
+### 2026-10-28 05:36:45  #其他
+
+比特幣重回81000美元。
+
+---
+
+### 2026-10-28 05:34:06  #MKT News
+
+Mansour Abbas, leader of an Arab party in Israel, said he will convert the seats won into a new political reality for Israel.
+
+---
+
+### 2026-10-28 05:27:40  #其他
+
+巴西總統盧拉：偷偷出境，說明你有所虧欠。
+
+---
+
+### 2026-10-28 05:26:32  #其他
+
+空客獲兩份新增伽利略衛星合同。
+
+---
+
+### 2026-10-28 05:26:22  #國際
+
+巴西總統盧拉：博索納羅家族就是這樣的人，巴西是他們的第二祖國，美國才是第一祖國。
+
+---
+
+### 2026-10-28 05:26:18  #MKT News
+
+Brazilian President Lula said the Bolsonaro family considers Brazil their second homeland and the United States their first.
+
+---
+
+### 2026-10-28 05:25:24  #MKT News #Macro & Rates #US Economy
+
+U.S. Treasury Secretary BESSENT said since President Trump took office the private sector has added more than 1 mln jobs, while the federal workforce fell by about 328k to its lowest level since the 1960s.
+
+---
+
+### 2026-10-28 05:25:14  #MKT News
+
+【FT: US, Russia discuss post-war return of US firms to Russian energy sector】FT reports US and Russia have discussed economic incentives to advance peace talks that would permit US firms to re-enter Russia’s energy sector. Proposals cited include restoring Sakhalin oil and gas JVs, resuming Russian oil exports to Europe via the Druzhba pipeline, partial restoration of Nord Stream gas flows, Novatek participation in Alaska LNG, sale of Lukoil’s overseas assets to investors close to the White House, easing potash sanctions, and transferring management of the ZAPORIZHZHIA NUCLEAR PLANT to a US entity. US officials say any cooperation must be part of a comprehensive peace framework and no agreement has been reached. The FT adds Europe opposes sanction relief before the conflict ends and US companies are reportedly cautious, leaving implementation highly uncertain.
+
+---
+
+### 2026-10-28 05:25:00  #其他
+
+巴西總統盧拉：我很遺憾他（博爾索納羅）離開了巴西，他本可以留下來證明這些指控不實，離開巴西是可恥的。
+
+---
+
+### 2026-10-28 05:24:34  #MKT News
+
+Brazilian President LULA said leaving Brazil is shameful.
+
+---
+
+### 2026-10-28 05:24:22  #MKT News
+
+Brazilian President Lula said he regretted that former president Bolsonaro's son left Brazil, saying the son could have stayed to prove the allegations were false.
+
+---
+
+### 2026-10-28 05:23:12  #其他
+
+巴西總統盧拉：我剛聽說我的對手離開了這個國家。
+
+---
+
+### 2026-10-28 05:22:48  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Drops on Middle East Diplomacy Hopes — Brent crude fell to around $114 a barrel on Tuesday, as renewed diplomatic efforts raised hopes of de-escalating tensions in the Middle East. Iran’s Supreme Leader Mojtaba Khamenei called for an end to the current state of “neither war nor peace,” signaling a possible opening for negotiations. Officials from Saudi Arabia, Pakistan, and Turkey met in Tehran on Monday and agreed to continue discussions, while Russian President Vladimir Putin was expected to meet Iranian President Masoud Pezeshkian and Qatar’s emir in Moscow. These developments improved prospects for de-escalation, although significant risks remain. Meanwhile, US crude inventories fell by 2.031 million barrels in the week ended October 23rd, defying expectations for an increase of 800,000 barrels and extending the previous week’s 4.93 million-barrel draw, adding to supply concerns. Houthi attacks on Saudi energy infrastructure and Iranian strikes on tankers in the Strait of Hormuz continued to support prices.
+
+---
+
+### 2026-10-28 05:22:42  #其他
+
+英國首相伯納姆公佈了應對英國住房危機的計劃，承諾提供更多社會住房、為首次購房者提供幫助，並對出租劣質房產的房東採取更嚴厲的措施。
+
+---
+
+### 2026-10-28 05:21:44  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+ONEOK earnings above expectations at 2.13 USD — ONEOK (OKE) released earnings per share at 2.13 USD, compared to market expectations of 1.48 USD.
+
+---
+
+### 2026-10-28 05:21:31  #MKT News
+
+Market news: Brazilian lawmaker Flavio Bolsonaro arrived in the United States.
+
+---
+
+### 2026-10-28 05:20:48  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Drops on Middle East Diplomacy Hopes — Crude oil fell toward $100 a barrel on Tuesday, as renewed diplomatic efforts raised hopes of de-escalating tensions in the Middle East. Iran’s Supreme Leader Mojtaba Khamenei called for an end to the current state of “neither war nor peace,” signaling a possible opening for negotiations. Officials from Saudi Arabia, Pakistan, and Turkey met in Tehran on Monday and agreed to continue discussions, while Russian President Vladimir Putin was expected to meet Iranian President Masoud Pezeshkian and Qatar’s emir in Moscow. These developments improved prospects for de-escalation, although significant risks remain. Meanwhile, US crude inventories fell by 2.031 million barrels in the week ended October 23rd, defying expectations for an increase of 800,000 barrels and extending the previous week’s 4.93 million-barrel draw, adding to supply concerns. Houthi attacks on Saudi energy infrastructure and Iranian strikes on tankers in the Strait of Hormuz continued to support prices.
+
+---
+
+### 2026-10-28 05:19:24  #焦點 #國際
+
+巴西議員弗拉維奧·博爾索納羅抵達美國。
+
+---
+
+### 2026-10-28 05:18:50  #國際
+
+一名美國官員表示，委內瑞拉第二大私營石油生產商NABEP已向美國交付首批100萬桶免費原油，這批委內瑞拉原油將運往西特戈以及埃克森美孚煉油廠。
+
+---
+
+### 2026-10-28 05:17:35  #國際
+
+聯合宣告稱，約旦外交大臣在與敘利亞外交大臣通話時，對敘利亞境內伊斯蘭國據點遭襲造成平民死亡表示遺憾。
+
+---
+
+### 2026-10-28 05:15:32  #市場
+
+富時A50期指連續夜盤收漲0.48%，報13093點。
+
+---
+
+### 2026-10-28 05:14:41  #MKT News
+
+Joint statement: Jordan and Syria foreign ministers agreed to form a joint security committee to probe details of Jordan's recent strikes on "Islamic State" targets inside Syria.
+
+---
+
+### 2026-10-28 05:14:31  #MKT News
+
+Israeli media reported the final voter turnout in the election at 77.7%.
+
+---
+
+### 2026-10-28 05:14:25  #國際
+
+約旦和敘利亞外交部長同意成立聯合安全委員會，調查約旦最近對敘利亞境內伊斯蘭國目標的襲擊細節。
+
+---
+
+### 2026-10-28 05:14:10  #國際
+
+【伊朗戰事施壓特朗普 支援率下滑至36%】伊朗戰爭給美國總統特朗普帶來壓力，部分共和黨人也流露擔憂。福克斯新聞民調顯示，特朗普支援率從戰前44%降至36%。85%選民擔憂通脹，83%擔憂汽油價格，75%擔憂戰爭；共和黨正為守住國會控制權苦戰，壓力持續上升。
+
+---
+
+### 2026-10-28 05:13:50  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Baker Hughes earnings above expectations at 0.70 USD — Baker Hughes (BKR) released earnings per share at 0.70 USD, compared to market expectations of 0.59 USD.
+
+---
+
+### 2026-10-28 05:12:33  #Trading Economics #Economy #Chile #Interest Rate #Importance 1
+
+Chile Holds Key Interest Rate Amid External Risks — Chile’s central bank kept its benchmark interest rate unchanged at 4.5% at its October 2026 meeting, citing geopolitical tensions, tighter international financial conditions, and rising global inflation risks. The Board noted that escalating tensions in the Middle East had worsened the outlook for energy prices. Meanwhile, an unusually intense El Niño phenomenon had begun to affect international food prices, adding to cost pressures from energy, transportation, and fertilizers associated with armed conflicts. Copper prices, however, remained near the levels recorded at the previous meeting. Against this backdrop, concerns about global inflation continued to mount. Policymakers also highlighted tighter international financial conditions amid expectations of a more restrictive monetary policy stance, falling equity markets, a stronger US dollar, and rising long-term interest rates. The Board left the future path of monetary policy open.
+
+---
+
+### 2026-10-28 05:10:32  #國際
+
+以色列選舉最終投票率為77.7%。
+
+---
+
+### 2026-10-28 05:08:23  #央行 #其他
+
+智利央行：強烈的厄爾尼諾現象已影響全球食品價格。
+
+---
+
+### 2026-10-28 05:07:17  #央行 #其他
+
+智利央行：國內投資前景繼續向好。
+
+---
+
+### 2026-10-28 05:07:02  #MKT News
+
+A State Dept official said the U.S. will issue visas to Flavio Bolsonaro, who lost Brazil's presidential election, and his family, and permit their entry into the United States.
+
+---
+
+### 2026-10-28 05:06:53  #央行 #資料
+
+智利央行：市場對短期CPI的預期已大幅上升。
+
+---
+
+### 2026-10-28 05:06:12  #宏觀 #焦點 #國際
+
+美國國務院高階官員表示，國務院將向弗拉維奧·博索納羅及其家人發放簽證，並允許他們進入美國。
+
+---
+
+### 2026-10-28 05:06:08  #MKT News
+
+Central Bank of Chile said its C.BANK will closely monitor signs that transmission of inf shocks is intensifying or becoming persistent.
+
+---
+
+### 2026-10-28 05:06:02  #其他
+
+巴西博索納羅競選陣營負責人：博索納羅沒有透露任何離境安排。
+
+---
+
+### 2026-10-28 05:05:32  #MKT News #Market Regions #Emerging Markets
+
+IMF reached a staff-level agreement on the third review under Argentina's Extended Fund Facility; the deal could unlock about $900m in potential financing.
+
+---
+
+### 2026-10-28 05:05:18  #央行 #其他
+
+智利央行認為不確定性高於往常水平。
+
+---
+
+### 2026-10-28 05:05:00  #其他
+
+巴西博索納羅競選陣營負責人：沒有關於其下落的資訊。
+
+---
+
+### 2026-10-28 05:04:52  #MKT News #Commodities #Energy #CVX.N #XOM.N
+
+White House official said the U.S. government has sold this batch of crude from Venezuelan state oil company NABEP to CITGO Petroleum, affiliated with Chevron (CVX.N), and to ExxonMobil (XOM.N).
+
+---
+
+### 2026-10-28 05:04:41  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
+
+US Crude Inventories Fall Unexpectedly — US crude oil inventories fell by 2.031 million barrels in the week ended October 23rd, compared with market expectations for an increase of 800,000 barrels. In the previous week, crude stocks declined by 4.93 million barrels. Inventories at Cushing fell by 453,000 barrels after rising by 900,000 barrels a week earlier. In contrast, gasoline inventories increased by 2.39 million barrels, following a 2 million-barrel decline in the previous week. Distillate stocks rose by 380,000 barrels, partially reversing the previous week's 2.6 million-barrel draw. Meanwhile, US oil production fell to 13.269 million barrels per day in the week ended October 16th, down from 13.679 million barrels per day a week earlier.
+
+---
+
+### 2026-10-28 05:04:19  #央行 #其他
+
+智利央行：預計本國經濟將在2027年前逐步復甦。
+
+---
+
+### 2026-10-28 05:03:54  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+A White House official said the US government has received the first crude shipments from Venezuela's state oil company NABEP. Under an agreement reached in August, the cargoes were provided to the US government at zero cost.
+
+---
+
+### 2026-10-28 05:03:31  #央行 #其他
+
+智利央行：理事會將密切關注消費者物價指數持續走高的訊號。
+
+---
+
+### 2026-10-28 05:02:41  #其他
+
+國際貨幣基金組織關於阿根廷：協議可能釋放約9億美元的潛在資金。
+
+---
+
+### 2026-10-28 05:02:25  #央行 #其他
+
+智利央行：未來數月通脹預期正在上升。
+
+---
+
+### 2026-10-28 05:02:16  #其他
+
+IMF與阿根廷達成工作人員級別協議。
+
+---
+
+### 2026-10-28 05:02:03  #MKT News
+
+Central Bank of Chile says future policy-rate path will be assessed on a meeting-by-meeting basis.
+
+---
+
+### 2026-10-28 05:00:44  #央行 #其他
+
+智利央行：關鍵利率決定獲一致透過。
+
+---
+
+### 2026-10-28 05:00:17  #MKT News
+
+The Central Bank of Chile said the decision was reached unanimously.
+
+---
+
+### 2026-10-28 05:00:13  #MKT News #Macro & Rates
+
+Chile's central bank set the policy rate at 4.50%.
+
+---
+
+### 2026-10-28 05:00:01  #央行 #其他
+
+智利央行維持關鍵利率在4.5%不變，預期為4.50%。
+
+---
+
+### 2026-10-28 04:59:36  #MKT News
+
+U.S. President Trump said regarding Brazil that the Democratic Party is most adept at manipulating elections, but Brazil does it fairly well too.
+
+---
+
+### 2026-10-28 04:58:50  #其他
+
+巴西總統候選人博索納羅的律師表示，尚未收到任何離境相關安排的通知。
+
+---
+
+### 2026-10-28 04:56:58  #國際
+
+特朗普談巴西：民主黨是選舉中最大的作弊者，不過巴西在這方面也做得相當不錯，不是嗎？你看到了嗎？那可不太好看。我沒有選邊站，但看起來不太妙。
+
+---
+
+### 2026-10-28 04:55:20  #市場 #焦點 #國際
+
+美國國債總額創下40.5萬億美元的歷史新高。
+
+---
+
+### 2026-10-28 04:55:00  #國際
+
+特朗普：你甚至可以來海湖莊園，做我的客人。問題是，5000美元最多也就夠買個漢堡，或許再加個小甜點。我甚至不確定這點錢夠不夠買這些！
+
+---
+
+### 2026-10-28 04:54:27  #MKT News #Macro & Rates #US Economy
+
+Trump said the United States has never been more prosperous and that this will become apparent soon.
+
+---
+
+### 2026-10-28 04:53:19  #MKT News #Brent #Impact bearish #WTI
+
+Kremlin spokesman said the ceasefire originally stipulated that areas around the town of Aleppo would remain quiet.
+
+---
+
+### 2026-10-28 04:53:15  #MKT News
+
+Gantz, chair of Israel's National Unity alliance, urged all parties to begin immediate talks to form a cross‑bloc unity government to tackle domestic and external challenges and avoid another election.
+
+---
+
+### 2026-10-28 04:52:11  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish #USDJPY
+
+GBP/USD fell below 1.33, down 0.30% intraday.
+
+---
+
+### 2026-10-28 04:50:20  #焦點 #國際
+
+俄羅斯總統新聞秘書佩斯科夫表示，停火協議最初規定阿勒頗鎮周邊地區實施一段靜默期。
+
+---
+
+### 2026-10-28 04:47:36  #MKT News #Market Regions #Europe & UK #Commodities #Energy #GBPUSD #Impact mixed #FTSE100
+
+The Daily Telegraph reports UK Chancellor Healy is preparing a £50 cut to household gas bills.
+
+---
+
+### 2026-10-28 04:46:42  #國際
+
+特朗普：將向德克薩斯州提供更多聯邦緊急事務管理署（FEMA）資金。
+
+---
+
+### 2026-10-28 04:46:33  #其他
+
+英國財政大臣希利準備推出措施，削減家庭燃氣費用50英鎊。
+
+---
+
+### 2026-10-28 04:44:15  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. API weekly refinery crude runs change for week to Oct. 23: +47,000 b/d, prior -408,000 b/d.
+
+---
+
+### 2026-10-28 04:44:07  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Runs (Oct.23) | actual 47000M | previous -408000M
+
+---
+
+### 2026-10-28 04:44:06  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+US API refined product imports -379,000 b/d for the week to Oct. 23; prior +329,000 b/d.
+
+---
+
+### 2026-10-28 04:44:01  #國際
+
+特朗普：巴西在選舉舞弊方面做得很老練。
+
+---
+
+### 2026-10-28 04:43:58  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+API weekly US crude imports -137k bbl in week to Oct. 23; prior +69k bbl.
+
+---
+
+### 2026-10-28 04:43:58  #MKT News #Economic Calendar
+
+United States | API Weekly Petroleum Products Imports (Oct.23) | actual -379000M | previous 329000M
+
+---
+
+### 2026-10-28 04:43:52  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Imports (Oct.23) | actual -137000M | previous 69000M
+
+---
+
+### 2026-10-28 04:43:41  #MKT News #WTI #Impact mixed #Brent
+
+API: U.S. heating oil stocks up 380,000 barrels in week to Oct. 23, prior week showed a 169,000-barrel draw.
+
+---
+
+### 2026-10-28 04:43:33  #MKT News #Economic Calendar
+
+United States | API Weekly Heating Oil Stocks Change (Oct.23) | actual 380000M | previous -169000M
+
+---
+
+### 2026-10-28 04:43:31  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+U.S. API Cushing crude inventories -453,000 bbl in the week to Oct. 23; prior +936,000 bbl.
+
+---
+
+### 2026-10-28 04:43:23  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Cushing Crude Oil Stocks Change (Oct.23) | actual -453000M | previous 936000M
+
+---
+
+### 2026-10-28 04:43:12  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US API weekly refined product inventories +426k bbl in week to Oct. 23; expected -888k bbl; prior -2.577m bbl.
+
+---
+
+### 2026-10-28 04:43:03  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Distillate Stocks Change (Oct.23) | actual 426000M | consensus -888000M | previous -2577000M
+
+---
+
+### 2026-10-28 04:42:57  #國際
+
+美國石油協會（API）資料顯示，上週，美國API原油庫存 -203.1萬桶，之前一週 -493.1萬桶。
+
+---
+
+### 2026-10-28 04:42:57  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+API: US gasoline stocks +2.39 mln bbl in week to Oct 23 vs -1.288 mln expected; prior -1.954 mln.
+
+---
+
+### 2026-10-28 04:42:49  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Gasoline Stocks Change (Oct.23) | actual 2390000M | consensus -1288000M | previous -1954000M
+
+---
+
+### 2026-10-28 04:42:44  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. API weekly crude inventories fell 2.031 mln barrels in the week to Oct. 23; market had expected a 0.522 mln-barrel build. Prior week showed a 4.931 mln-barrel draw.
+
+---
+
+### 2026-10-28 04:42:36  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Crude Oil Stocks Change (Oct.23) | actual -2031000M | consensus 522000M | previous -4931000M
+
+---
+
+### 2026-10-28 04:41:00  #MKT News
+
+U.S. President Trump said he did not win the Nobel Prize but saved 30 million lives, adding that was much better.
+
+---
+
+### 2026-10-28 04:40:36  #MKT News
+
+【Axios: Eizenkot may seek Arab party support to form government】If Israeli exit polls are confirmed, Netanyahu's bloc would fall to about 50 seats, down 14 from 64 in 2022. Former army chief Gadi Eizenkot says he will move to replace the government. The opposition is projected at only 52–53 seats, so Eizenkot may need backing from two Arab parties to form a minority government; his partners' willingness is uncertain. Axios says an Eizenkot victory could shift Israel's foreign relations and domestic policy while he would remain hawkish on security.
+
+---
+
+### 2026-10-28 04:37:43  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Waste Management earnings below expectations at 2.15 USD — Waste Management (WM) released earnings per share at 2.15 USD, compared to market expectations of 2.20 USD.
+
+---
+
+### 2026-10-28 04:35:53  #公司 #國際
+
+【出口民調：利庫德集團仍為以色列議會最大黨】27日晚，以色列議會選舉出口民調顯示反對派陣營領先，但內塔尼亞胡領導的利庫德集團仍為議會最大黨。（新華社）
+
+---
+
+### 2026-10-28 04:35:36  #MKT News #Important
+
+【Exit poll: Neither Netanyahu bloc nor opposition secures Knesset majority】Channel 11 exit poll projects Netanyahu-aligned bloc at 50 seats: Likud 25, Otzma Yehudit (Jewish Power) 7, Religious Zionism 6, Shas 6, United Torah Judaism 6. Anti-Netanyahu bloc projected at 53 seats: Yesh Atid 21, National Unity 14, Democratic Party 10, Yisrael Beiteinu 8. Arab parties projected at 17 seats: Joint List 10, United Arab List (Ra'am) 7.
+
+---
+
+### 2026-10-28 04:35:05  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.03% Higher — The Dow Jones Index went up by 17 points or 0.03 percent on Tuesday to close at 52378 points. The rise was led by Caterpillar (3.15%), Goldman Sachs (2.08%) and Amazon (1.67%). On the downside, the weakerst performers were Boeing (-10.74%), Sherwin-Williams (-2.74%) and Salesforce (-2.71%).
+
+---
+
+### 2026-10-28 04:34:33  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Extends Post-Election Losses — The Ibovespa fell 0.5% to close at 175,710, extending losses after plunging 13.7% on Monday following President Lula’s re-election. Lula’s victory erased the reduction in the risk premium that followed the right-wing landslide in the first round. Investors had widely viewed a potential Bolsonaro government as more likely to rein in public spending, seen as essential to lowering interest rates. Major banks fell, with Itaú down 1.2% and Bradesco losing 1.4%. Santander shed 2.2% ahead of its earnings report on Wednesday. Petrobras dropped another 2% as oil prices declined, following an 8.2% plunge on Monday. Vale fell 2.1% ahead of its Thursday earnings report, after outperforming the index during Monday’s rout. Gerdau shed 2.7% despite strong results. WEG extended gains by 3.7% after reporting upbeat earnings last week. Ambev added 1.3% ahead of its results on Wednesday.
+
+---
+
+### 2026-10-28 04:33:51  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Teradyne earnings above expectations at 2.29 USD — Teradyne (TER) released earnings per share at 2.29 USD, compared to market expectations of 1.50 USD.
+
+---
+
+### 2026-10-28 04:28:51  #國際
+
+【特朗普：關閉邊境無需新立法，只需要換一位總統】美國總統特朗普回顧拜登曾堅稱需要立法才能關閉邊境一事時說：“不，你需要一位新總統。”特朗普表示，其政府在就職後數月內便控制了邊境，無需國會透過新立法。
+
+---
+
+### 2026-10-28 04:27:41  #MKT News
+
+U.S. President Trump said voters' memories last about two weeks.
+
+---
+
+### 2026-10-28 04:26:06  #其他
+
+博通兜底保障覆蓋客戶租賃金額的72.5%。
+
+---
+
+### 2026-10-28 04:26:05  #MKT News #AVGO.O #Impact bearish
+
+SEC filings show Broadcom provided residual-value support to a special-purpose vehicle; maximum potential liability under the guarantee arrangements is about $43 billion.
+
+---
+
+### 2026-10-28 04:25:26  #其他
+
+博通承擔最高430億美元AI機架兜底賠付責任。
+
+---
+
+### 2026-10-28 04:25:05  #公司 #國際
+
+【貝克休斯拿下美國科技企業大型發電及冷卻裝置訂單】貝克休斯表示，已獲得一家美國科技公司的大型發電與冷卻裝置訂單，發電訂單于2026年第三季度入賬，冷卻裝置訂單于2026年第四季度入賬，公司將為高密度人工智慧算力負載供應Chart乾式冷卻器。
+
+---
+
+### 2026-10-28 04:25:05  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish
+
+SEC filing shows Broadcom Inc. (AVGO.O) arranged for financial partners to purchase AI server racks built around its custom AI accelerators.
+
+---
+
+### 2026-10-28 04:24:48  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Rises Ahead of BoC and Fed Meetings — The S&P/TSX Composite Index rose 0.6% to close at 36,171 ahead of monetary policy decisions from the Bank of Canada and the US Federal Reserve later this week. The BoC meets Wednesday, with markets pricing in a 25-basis-point hike, while the Fed is widely expected to hold rates steady. Canadian bond yields fell as the oil rally paused, easing energy-driven inflation concerns and supporting bank stocks. BMO gained 1.2%, Scotiabank rose 0.8%, and CIBC added 1.1%. Mining stocks advanced as gold prices picked up, with Agnico Eagle rising 2.9% ahead of its earnings report on Wednesday, Barrick gaining 2.8%, and Wheaton Precious Metals climbing 3.1%. Meanwhile, the US and Canada are reportedly negotiating a deal to ease US tariffs on Canadian steel and autos. BRP rose 2.7%, while Teck Resources gained 3.5%. Celestica surged 11.9% after posting better-than-expected third-quarter results and issuing an upbeat 2027 revenue outlook, recovering from last week’s sharp losses.
+
+---
+
+### 2026-10-28 04:24:15  #MKT News
+
+Israeli opposition leader Lapid said Netanyahu's camp suffered a crushing defeat and called it a total collapse.
+
+---
+
+### 2026-10-28 04:23:45  #焦點 #國際
+
+特朗普：選民的記憶大約只能維持兩週。
+
+---
+
+### 2026-10-28 04:22:59  #其他
+
+Anthropic：期待與更多機構合作。
+
+---
+
+### 2026-10-28 04:22:47  #其他
+
+Anthropic：希望與儘可能多的研究人員分享。
+
+---
+
+### 2026-10-28 04:22:33  #其他
+
+Anthropic收購Mithril Medicine，以開展罕見病專案。
+
+---
+
+### 2026-10-28 04:22:14  #其他
+
+貝克休斯：第三季度獲得發電裝置訂單。
+
+---
+
+### 2026-10-28 04:22:07  #公司 #國際
+
+貝克休斯贏得美國科技公司發電與冷卻訂單。
+
+---
+
+### 2026-10-28 04:21:56  #其他
+
+Anthropic：希望與藥物研發研究人員共享模型。
+
+---
+
+### 2026-10-28 04:20:37  #市場
+
+恩智浦半導體股價在盤後交易中下跌6.51%，至237美元。
+
+---
+
+### 2026-10-28 04:20:19  #其他 #焦點
+
+Anthropic：隨著藥物專案推進，計劃繼續將Claude的應用範圍拓展至臨床試驗領域。
+
+---
+
+### 2026-10-28 04:20:15  #MKT News #Market Regions #Greater China
+
+【China urges parties to advance US-Iran ceasefire and talks】China's UN ambassador Fu Cong told a Security Council open meeting on the Iran nuclear file on 27 that parties should push for a US-Iran ceasefire and talks. Fu blamed the US's unilateral withdrawal from the JCPOA and the reinstatement and escalation of unilateral sanctions and 'maximum pressure' for the current impasse. He said the JCPOA and UNSC Resolution 2231 demonstrate political-diplomatic means are the only way to resolve the issue, and that the agreement's core objectives and principles — including step-by-step reciprocity and balanced rights and obligations — must be preserved. Fu added Iran should honour its commitment not to develop nuclear weapons and that states must respect Iran's NPT-guaranteed right to peaceful nuclear energy.
+
+---
+
+### 2026-10-28 04:20:04  #MKT News #Important #Commodities #Energy #WTI #Impact mixed
+
+API weekly US crude inventories for week to Oct 23 due in 10 minutes.
+
+---
+
+### 2026-10-28 04:19:56  #國際
+
+內塔尼亞胡競爭對手艾森科特：出口民調顯示以色列民眾對內塔尼亞胡“完全不信任”。
+
+---
+
+### 2026-10-28 04:19:53  #Trading Economics #Markets #Netherlands #Earnings #Importance 0
+
+NXP Semiconductors earnings above expectations at 4.20 USD — NXP Semiconductors (NXPI) released earnings per share at 4.20 USD, compared to market expectations of 3.97 USD.
+
+---
+
+### 2026-10-28 04:19:28  #MKT News #Important
+
+【Exit polls show no clear winner in Israeli parliamentary vote】Voting in Israel's 26th Knesset election ended at 04:00 Beijing time on Oct. 28. The Central Elections Committee said turnout had reached 74.3% by 20:00 that day, versus 66.3% at the same point in 2022 — the highest for that time slot since 1988; final turnout is expected to rise. Parties must pass a 3.25% threshold to enter the 120-seat Knesset. Exit polls from Channel 12 and Channel 11 project Prime Minister NETANYAHU's Likud as the largest party with 24–25 seats, and the list led by former IDF chief of staff Gadi Eizenkot on 21–22 seats.
+
+---
+
+### 2026-10-28 04:18:34  #其他
+
+Anthropic：在加速藥物研發方面取得初步進展。
+
+---
+
+### 2026-10-28 04:17:32  #國際
+
+以色列出口民調顯示，總理內塔尼亞胡領導的執政聯盟與反對派均未獲得議會多數席位。第12頻道預測反對派陣營將獲52席，內塔尼亞胡陣營50席，阿拉伯政黨18席。獲得多數席位需達到61席。
+
+---
+
+### 2026-10-28 04:16:57  #MKT News
+
+Israeli opposition leader Gadi Eizenkot said exit polls indicate Israelis have rejected Prime Minister Netanyahu.
+
+---
+
+### 2026-10-28 04:16:46  #MKT News #Commodities #Energy
+
+Trump on Iran said short-term pain for long-term gain and added, "You will soon say, 'What's wrong with gasoline? It's so cheap!'"
+
+---
+
+### 2026-10-28 04:16:02  #國際
+
+以色列媒體：艾森科特與內塔尼亞胡將分別和各自陣營內的政黨領導人舉行首輪會談。
+
+---
+
+### 2026-10-28 04:14:43  #MKT News
+
+Israel's Channel 13 exit poll projects Arab parties winning 17 Knesset seats.
+
+---
+
+### 2026-10-28 04:12:59  #焦點 #國際
+
+【出口民調顯示內塔尼亞胡陣營未獲議會多數席位】當地時間27日晚，以色列議會選舉出口民調資料顯示，以色列總理內塔尼亞胡陣營未獲議會多數席位。當天22點（北京時間28日4點），以色列第26屆議會選舉投票結束。根據以色列中央選舉委員會公佈的資料，截至當天晚間8時，以色列議會選舉的投票率已達到74.3%，高於2022年大選同一時段的66.3%。中央選舉委員會表示，這是自1988年以來，該時段錄得的全國最高投票率。預計最終投票率將繼續升高。（央視新聞）
+
+---
+
+### 2026-10-28 04:12:47  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. President Trump said he would attack Iran again if given the chance, calling it "one of the best things I have ever done."
+
+---
+
+### 2026-10-28 04:12:08  #市場
+
+恩智浦半導體股價盤後下跌8%。
+
+---
+
+### 2026-10-28 04:11:45  #MKT News
+
+U.S. President Trump said Iran is "a crazy country".
+
+---
+
+### 2026-10-28 04:11:14  #焦點 #國際
+
+特朗普表示，如果讓他重新選擇，他“絕對會”再次對伊朗發動攻擊。
+
+---
+
+### 2026-10-28 04:10:47  #其他
+
+Robinhood：將此前2026年調整後運營支出預期的上限下調2500萬美元，至26.75億至27.5億美元區間。
+
+---
+
+### 2026-10-28 04:10:42  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+Wall Street Rises as Tech Stocks Rebound — US stock indices closed higher on Tuesday as technology stocks rebounded ahead of earnings from major industry players. The S&P 500 rose 0.6%, the Nasdaq gained 1.3%, and the Dow closed flat. The AI trade largely recovered, lifting chipmakers and most hyperscalers. Broadcom climbed 4% after a consortium of banks and Blackstone announced $63 billion in financing related to the use of its technology by Anthropic. Meta fell 1.6% despite its $25 billion stock sale being five times oversubscribed. Oracle advanced 3.6% as it expanded its partnership with OpenAI. Alphabet (+1.2%), Microsoft (-0.2%) and Amazon (+1.6%) are expected to report healthy growth when they release earnings this week. Elsewhere, Boeing tumbled 10.7% after posting a larger-than-expected Q3 loss. Corning fell 1.1% despite strong results. Whirlpool rose 3.7% despite reporting a quarterly loss. PayPal added 2% despite a revenue miss. Meanwhile, the Federal Reserve is widely expected to hold interest rates steady this week.
+
+---
+
+### 2026-10-28 04:10:41  #MKT News
+
+Israeli journalist Neriya Kraus says Netanyahu is not expected to be Israel’s next prime minister; it remains unclear what governing coalition will be formed.
+
+---
+
+### 2026-10-28 04:09:31  #市場
+
+西部資料股價跟隨希捷股價下跌，跌幅達3%。
+
+---
+
+### 2026-10-28 04:09:15  #國際
+
+Robinhood：10月迄今淨存款已超過130億美元，其中包括戴爾家族向美國總統特朗普賬戶投入的60億美元。
+
+---
+
+### 2026-10-28 04:08:42  #市場
+
+Robinhood股價在盤後交易中迅速下跌4.9%。
+
+---
+
+### 2026-10-28 04:08:18  #焦點 #國際
+
+以色列記者Neira Kraus援引以色列選舉預測稱，內塔尼亞胡預計不會成為以色列下一任總理。不過，目前尚不清楚可能組成何種聯盟。
+
+---
+
+### 2026-10-28 04:08:07  #Trading Economics #Markets #Ireland #Earnings #Importance 0
+
+Seagate Technology earnings above expectations at 7.68 USD — Seagate Technology (STX) released earnings per share at 7.68 USD, compared to market expectations of 5.78 USD.
+
+---
+
+### 2026-10-28 04:08:07  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Visa earnings above expectations at 3.48 USD — Visa (V) released earnings per share at 3.48 USD, compared to market expectations of 3.45 USD.
+
+---
+
+### 2026-10-28 04:07:58  #國際
+
+特朗普談德國：德國嘗試過綠色能源，其他國家也嘗試過，它們都幾乎破產。如果德國沒有改變路線，德國將不復存在。
+
+---
+
+### 2026-10-28 04:07:21  #其他
+
+Robinhood：第三季度平臺總資產同比增長19%，達到3960億美元。
+
+---
+
+### 2026-10-28 04:06:57  #其他
+
+Visa第四財季淨營收121億美元，預估120.9億美元。
+
+---
+
+### 2026-10-28 04:06:34  #其他
+
+Visa第四季度調整後每股收益3.48美元，市場預期3.44美元。
+
+---
+
+### 2026-10-28 04:06:12  #Trading Economics #Markets #Bermuda #Earnings #Importance 0
+
+Arch Capital earnings above expectations at 2.67 USD — Arch Capital (ACGL) released earnings per share at 2.67 USD, compared to market expectations of 1.84 USD.
+
+---
+
+### 2026-10-28 04:06:00  #公司 #市場
+
+希捷股價在第一季度財報釋出後下跌5%。
+
+---
+
+### 2026-10-28 04:05:58  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
+
+Google (GOOG.O): VMware solution on Google Cloud available in 22 regions; company plans further regional expansion.
+
+---
+
+### 2026-10-28 04:05:48  #國際
+
+【中方呼籲各方推進美伊止戰促談】中國常駐聯合國代表傅聰27日在安理會伊朗核問題公開會上發言，強調各方應推進美伊止戰促談。傅聰說，當前，中東地區局勢持續緊張，外溢影響不斷擴散，嚴重衝擊地區和世界和平與穩定。美國和伊朗的談判陷入僵持，有關醞釀對伊朗開展新一輪軍事打擊的言論推高緊張局勢，令人深感關切。伊核問題作為美伊矛盾之一，曾經幾次擺上談判桌，卻一再錯失機遇。各方應以史為鑑，堅持真正的多邊主義和政治解決大方向不動搖，推進止戰促談，重振外交努力。（新華社）
+
+---
+
+### 2026-10-28 04:05:29  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
+
+Dow Jones Industrial Average closed up 15.99 points (0.03%) at 52,377.57 on Tuesday, Oct. 27; S&P 500 closed up 45.85 points (0.60%) at 7,722.62; Nasdaq Composite closed up 308.43 points (1.18%) at 26,477.81.
+
+---
+
+### 2026-10-28 04:05:12  #國際
+
+三份以色列出口民調顯示埃森科特陣營領先，無陣營取得多數席位。
+
+---
+
+### 2026-10-28 04:04:50  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
+
+Google (GOOG.O) announced VMware solutions are now generally available on Google Cloud.
+
+---
+
+### 2026-10-28 04:04:46  #公司
+
+谷歌：谷歌雲上的VMware解決方案已在22個地區推出，計劃進一步擴充套件。
+
+---
+
+### 2026-10-28 04:04:36  #MKT News
+
+Channel 12 exit poll projects the bloc led by Netanyahu rival Gadi Eizenkot will win more Knesset seats than Netanyahu's bloc.
+
+---
+
+### 2026-10-28 04:04:33  #國際
+
+【以色列議會選舉投票結束】當地時間10月27日晚10點（北京時間10月28日凌晨4點），以色列第26屆議會選舉投票結束。根據以色列中央選舉委員會公佈的資料，截至當天晚間8時，選舉的投票率已達到74.3%，高於2022年大選同一時段的66.3%。中央選舉委員會表示，這是自1988年以來，該時段錄得的全國最高投票率。預計最終投票率將繼續升高。 根據以色列選舉法，政黨須跨過3.25%的得票門檻方可進入議會，並按比例分配120個席位。初步計票結果預計10月28日或29日公佈，最終結果由中央選舉委員會於11月4日正式公佈。此後，中央選舉委員會向總統赫爾佐格提交最終結果，赫爾佐格將在一週內與各黨議員代表協商，並授權最有可能成功組閣的議員組建政府。獲授權議員擁有28天組閣期，可申請延長14天；若失敗，總統可授權另一名議員，期限28天且不得延期；仍失敗則由61名議員聯名請求授權第三名候選人，期限14天，否則議會解散並舉行新一輪選舉。（CCTV國際時訊）
+
+---
+
+### 2026-10-28 04:04:08  #公司
+
+禮來公司表示，禮來國際業務總裁Jonsson將退休。
+
+---
+
+### 2026-10-28 04:03:53  #MKT News
+
+Israel's Channel 12 exit poll projects the party led by Netanyahu's rival Gadi Eizenkot to win 22 of the Knesset's 120 seats.
+
+---
+
+### 2026-10-28 04:03:51  #公司
+
+谷歌：宣佈谷歌雲平臺上的VMware解決方案正式上線。
+
+---
+
+### 2026-10-28 04:03:38  #其他
+
+富士膠片將在截至2028財年期間，向其位於東京附近小田原的工廠投資100億日元。
+
+---
+
+### 2026-10-28 04:03:32  #MKT News #Important #Star Stocks #Tesla #Market Themes #Magnificent 7 #BA.N #Impact bearish #TSLA.O #Impact bullish #NTES.O
+
+【US close: major indexes higher; Boeing plunges 10.7%】US equities closed higher on Tuesday: Dow +0.03%, S&P 500 +0.60%, Nasdaq +1.18%. Boeing (BA.N) fell 10.7%. SK Hynix (SKHY.O) rose 1.9%, Tesla (TSLA.O) +4.0%, Dell (DELL.N) +7.0%. Nasdaq Golden Dragon China Index -0.11%; NetEase (NTES.O) down >3.0%.
+
+---
+
+### 2026-10-28 04:03:25  #國際
+
+以色列第11頻道出口民調：埃森科特陣營預計席位多於內塔尼亞胡陣營。
+
+---
+
+### 2026-10-28 04:02:33  #其他
+
+巴西10月大豆出口預計將達到615萬噸，而前一週的預估為640萬噸。
+
+---
+
+### 2026-10-28 04:02:13  #國際
+
+內塔尼亞胡對手艾森科特領導的政黨預計將在以色列議會120個席位中贏得21席。
+
+---
+
+### 2026-10-28 04:01:59  #公司 #國際
+
+以色列第11頻道出口民調顯示，內塔尼亞胡領導的利庫德集團將在議會120個席位中贏得25席。
+
+---
+
+### 2026-10-28 04:01:16  #市場
+
+UPS股價上漲5.8%，創一年來最佳單日漲幅。
+
+---
+
+### 2026-10-28 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收漲】道指漲0.03%，標普500指數漲0.60%，納指漲1.18%。濱特爾漲12.82%，NBIS漲11.22%，Astera Labs Inc漲10.47%，RKLB漲8.34%，偉創力國際漲8.26%，CoreWeave漲7.94%，戴爾漲7.38%。“七姐妹”方面：特斯拉漲4.04%，亞馬遜漲1.61%，蘋果漲0.93%，英偉達漲0.90%，谷歌漲0.84%，微軟跌0.24%，Meta Platforms跌1.64%。
+
+---
+
+### 2026-10-28 04:00:45  #公司 #國際
+
+出口民調顯示，內塔尼亞胡的利庫德集團將在以色列議會120個席位中贏得24個席位。
+
+---
+
+### 2026-10-28 04:00:31  #公司 #國際
+
+以色列出口民調：內塔尼亞胡所屬利庫德集團在以色列選舉中領先。
+
+---
+
+### 2026-10-28 04:00:04  #市場 #焦點
+
+【納斯達克中國金龍指數收跌0.12%】虎虎科技跌9.91%，寶尊電商跌7.58%，震坤行跌4.49%，世紀互聯跌4.20%，愛奇藝跌4.18%。
+
+---
+
+### 2026-10-28 03:59:04  #市場 #焦點 #國際
+
+特朗普談伊朗：我知道油價會上漲。我實際上認為漲幅會高出兩三倍，但我仍然願意這麼做。
+
+---
+
+### 2026-10-28 03:58:32  #國際
+
+Polsat（波蘭衛視）與YouTube簽署內容分發協議，Polsat將在YouTube上直接銷售影片廣告。
+
+---
+
+### 2026-10-28 03:57:28  #國際
+
+特朗普談伊朗：過去的領導人早該解決這個問題，但他們沒有勇氣或智慧去做。
+
+---
+
+### 2026-10-28 03:56:08  #國際
+
+特朗普談伊朗：美國沒有對伊朗發動戰爭。自1979年以來，伊朗一直在對美國發動這場戰爭。
+
+---
+
+### 2026-10-28 03:54:01  #國際
+
+特朗普談委內瑞拉：委內瑞拉正在出現人們此前認為根本不可能發生的就業增長。
+
+---
+
+### 2026-10-28 03:53:31  #公司
+
+UPS執行長：美加貿易爭端導致加拿大邊境出現“疲軟”跡象。
+
+---
+
+### 2026-10-28 03:52:12  #國際
+
+特朗普談委內瑞拉：也許不久的將來，它會成為一個繁榮的第51個州。讓我們把它變成第51個州，屆時不再設總統，而是選舉州長。
+
+---
+
+### 2026-10-28 03:51:46  #其他
+
+墨西哥航空批准最高1億美元的股票回購計劃。
+
+---
+
+### 2026-10-28 03:50:32  #國際
+
+特朗普：我們正在慶祝史上最偉大的石油勝利。戰利品歸勝者所有，對吧？
+
+---
+
+### 2026-10-28 03:49:24  #國際
+
+特朗普重申石油正從霍爾木茲海峽運出。
+
+---
+
+### 2026-10-28 03:48:43  #其他
+
+惠譽確認博通評級為“A-”，展望正面。
+
+---
+
+### 2026-10-28 03:48:24  #公司
+
+UPS執行長表示，GLP-1相關需求正在提振公司醫療保健業務。
+
+---
+
+### 2026-10-28 03:48:21  #公司
+
+UPS執行長認為資料中心物流是一項長期業務線。
+
+---
+
+### 2026-10-28 03:47:57  #國際
+
+特朗普暗示委內瑞拉可能成為美國的一個州。
+
+---
+
+### 2026-10-28 03:46:42  #國際
+
+特朗普表示，來自委內瑞拉的一百萬桶石油已運抵得克薩斯州。
+
+---
+
+### 2026-10-28 03:46:18  #國際
+
+美國能源部長賴特表示，俄羅斯目前無法出口柴油，霍爾木茲海峽的成品油流量有所增加，Constellation Energy交易將新增1.1吉瓦裝機容量。
+
+---
+
+### 2026-10-28 03:45:23  #市場
+
+【費城半導體指數日內漲4%】費城半導體指數日內漲4.00%，現報11526.90點。英偉達漲1.13%，博通漲4.61%，美光漲3.52%，英特爾漲4.05%，AMD漲6.03%，高通漲2.02%，臺積電漲3.33%，阿斯麥漲3.38%。
+
+---
+
+### 2026-10-28 03:42:55  #公司
+
+Physical Intelligence新一輪融資談判將使這家人工智慧初創公司的估值接近翻倍。
+
+---
+
+### 2026-10-28 03:42:30  #其他
+
+知情人士透露，Physical Intelligence正就一輪估值200億美元的融資展開洽談。
+
+---
+
+### 2026-10-28 03:42:18  #其他
+
+【天然氣出口國論壇第八次峰會發表《莫斯科宣言》】天然氣出口國論壇第八次峰會27日在莫斯科國際貿易中心舉行。峰會於當天閉幕並發表《莫斯科宣言》，重申天然氣出口國對本國自然資源擁有絕對、不可動搖的主權權利。（新華社）
+
+---
+
+### 2026-10-28 03:41:10  #國際
+
+特朗普在得克薩斯州科珀斯克里斯蒂市的競選集會上發表講話。
+
+---
+
+### 2026-10-28 03:40:47  #國際
+
+美國副總統萬斯：我知道汽油價格居高不下。
+
+---
+
+### 2026-10-28 03:38:09  #公司
+
+谷歌推出Genie 4世界模型，原生支援音訊。
+
+---
+
+### 2026-10-28 03:34:45  #公司
+
+洛克希德·馬丁公司獲得價值6.94億美元的空射快速響應武器（ARRW）生產合同。
+
+---
+
+### 2026-10-28 03:33:21  #國際
+
+甲骨文計劃向美國政府擴充套件多雲人工智慧資料庫服務，將把服務擴充套件至美國政府和公共部門的工作負載。
+
+---
+
+### 2026-10-28 03:30:57  #焦點 #國際
+
+【烏克蘭外長：烏方已準備好參加烏美俄三方會談】烏克蘭外交部長瑟比加27日表示，烏方已準備好參加在阿拉伯聯合大公國舉行的烏克蘭、美國和俄羅斯三方會談，將利用一切機會推動實現和平。（新華社）
+
+---
+
+### 2026-10-28 03:29:41  #公司 #國際
+
+美國水務公司公佈季度股息為每股0.8950美元。
+
+---
+
+### 2026-10-28 03:24:55  #市場
+
+【國際油價27日下跌 】國際油價27日下跌。截至當天收盤，紐約商品交易所12月交貨的輕質原油期貨價格下跌1.86美元，收於每桶99.90美元，跌幅為1.83%；12月交貨的倫敦布倫特原油期貨價格下跌1.93美元，收於每桶113.88美元，跌幅為1.67%。
+
+---
+
+### 2026-10-28 03:24:13  #市場
+
+【美元指數27日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.35%，在匯市尾市收於102.319。截至紐約匯市尾市，1歐元兌換1.1135美元，低於前一交易日的1.1183美元；1英鎊兌換1.3313美元，低於前一交易日的1.3350美元。1美元兌換157.95日元，高於前一交易日的157.43日元；1美元兌換0.8287瑞士法郎，高於前一交易日的0.8273瑞士法郎；1美元兌換1.4052加元，高於前一交易日的1.4020加元；1美元兌換9.9489瑞典克朗，低於前一交易日的9.9510瑞典克朗。
+
+---
+
+### 2026-10-28 03:18:22  #國際
+
+【美俄探討戰後石油巨頭合資專案】知情人士稱，美國和俄羅斯提出一項方案，考慮戰後在俄羅斯遠東薩哈林近海設立美俄石油巨頭合資企業。磋商內容還包括引入美國石油企業，重啟德魯日巴管道向歐洲輸送俄羅斯原油。
+
+---
+
+### 2026-10-28 03:15:05  #公司 #國際
+
+美國食品藥品監督管理局表示，安進公司Vectibix的影片廣告內容虛假或具有誤導性。
+
+---
+
+### 2026-10-28 03:14:17  #公司 #國際
+
+特朗普將宣佈放寬石油公司甲烷洩漏規定。
+
+---
+
+### 2026-10-28 03:13:31  #其他
+
+中國地震臺網正式測定：10月28日02時57分在青海玉樹州雜多縣（北緯32.50度，東經93.99度）發生4.9級地震，震源深度10千米。
+
+---
+
+### 2026-10-28 03:12:24  #國際
+
+美國和俄羅斯討論美國參與對歐洲石油銷售的問題。
+
+---
+
+### 2026-10-28 03:11:53  #公司 #市場
+
+【Millennium探索利用預測市場資料輔助制定交易策略】Millennium Management加入其他華爾街公司的行列，探索利用預測市場來輔助制定交易策略。知情人士稱，Millennium正在為投資組合經理開發工具，將提取Polymarket和Kalshi等預測平臺的資料作為傳統資產類別的交易訊號。知情人士表示，Millennium雖然正在研究這些資料的用途，但目前並未交易預測市場的合約。其中一位訊息人士表示，該公司部分投資經理有興趣使用與地緣政治、經濟和大宗商品結果相關的預測市場資料。
+
+---
+
+### 2026-10-28 03:11:16  #國際
+
+美國和俄羅斯建議戰後在薩哈林海岸附近開展石油合資專案。
+
+---
+
+### 2026-10-28 03:10:49  #國際
+
+伊朗總統佩澤希齊揚表示，美國在波斯灣的侵略行徑威脅能源安全和經濟增長。
+
+---
+
+### 2026-10-28 03:08:40  #國際
+
+市場資訊：華盛頓方面在烏克蘭和平談判中討論了美國石油巨頭與俄羅斯的交易事宜。
+
+---
+
+### 2026-10-28 03:08:10  #市場
+
+市場資訊：由於材料成本上漲，個人電腦製造商正在尋求更高的製造效率。
+
+---
+
+### 2026-10-28 03:05:56  #其他
+
+訊息人士透露，戴爾也在評估將部分個人電腦生產業務遷回中國。
+
+---
+
+### 2026-10-28 03:04:34  #市場
+
+受AI驅動成本上漲影響，惠普與華碩將部分PC生產遷回中國。
+
+---
+
+### 2026-10-28 03:00:37  #其他
+
+阿拉斯加航空將開通安克雷奇至東京成田直飛航線。
+
+---
+
+### 2026-10-28 03:00:03  #市場
+
+恒指期貨夜盤收漲0.24%，報23067.00點，高水25.68點。
+
+---
+
+### 2026-10-28 02:58:00  #國際
+
+市場訊息：博索納羅盟友稱美國總統特朗普政府已釋放庇護訊號。
+
+---
+
+### 2026-10-28 02:57:23  #國際
+
+以色列媒體報道：截至當地時間晚8點，投票率為74.3%。
+
+---
+
+### 2026-10-28 02:55:01  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Analog Devices Shares Hit 17-week High — Analog Devices shares increased to 422.79 USD, the highest since June 2026. Over the past 4 weeks, Analog Devices gained 6.89%, and in the last 12 months, it increased 76.59%.
+
+---
+
+### 2026-10-28 02:53:57  #國際
+
+伊朗總統佩澤希齊揚已離開俄羅斯。
+
+---
+
+### 2026-10-28 02:47:45  #其他
+
+Anthropic研究顯示，分析師在86%的情況下會採信AI智慧體給出的結論。
+
+---
+
+### 2026-10-28 02:47:22  #國際
+
+美國能源部長賴特：和伊朗爆發衝突，時機很不巧。
+
+---
+
+### 2026-10-28 02:45:12  #國際
+
+美國能源部長賴特：新英格蘭的住宅應當用天然氣來取暖。
+
+---
+
+### 2026-10-28 02:40:48  #國際
+
+【普京與卡達埃米爾舉行會晤 討論中東局勢】據克里姆林宮網站10月27日訊息，俄羅斯總統普京與卡達埃米爾（國家元首）塔米姆當天在莫斯科“天然氣出口國論壇”峰會期間舉行會晤。普京指出，卡達在調解各種危機局勢、包括波斯灣局勢中發揮著重要作用，俄卡在國際舞臺上的協調有所加強。卡達和巴基斯坦斡旋下籤署的美伊諒解備忘錄作為推進談判程序的基礎仍然有效。俄方從伊朗衝突一開始就主張停止軍事行動和尋求政治外交解決，並準備採取一切力所能及的措施幫助解決問題。塔米姆表示，當前中東正經歷困難時期，美伊緊張局勢對整個地區產生負面影響和後果，包括霍爾木茲海峽危機和能源領域危機。卡達珍視並期待俄方調解霍爾木茲海峽局勢和地區其他危機，包括巴勒斯坦問題以及加沙的人道主義問題。經濟合作方面，普京表示，俄羅斯和卡達都是天然氣生產大國，也都是出口大國，全球能源市場穩定很大程度上取決於兩國合作與協調。塔米姆表示，過去十年兩國關係在經濟和投資領域積極發展，卡達對俄投資規模顯著。（央視新聞）
+
+---
+
+### 2026-10-28 02:40:17  #國際
+
+美國能源部長賴特：伊朗戰事是付出了代價的。
+
+---
+
+### 2026-10-28 02:30:13  #其他
+
+【胡塞武裝稱沙特主導聯軍對葉門多地發動81次空襲】當地時間27日晚間，葉門胡塞武裝發表宣告稱，過去24小時內，沙特主導的聯軍對葉門首都薩那及塔伊茲省、拉赫季省和哈傑省發動81次空襲和導彈襲擊，造成平民傷亡。宣告稱，自本輪局勢升級以來，沙特主導聯軍對葉門發動的空襲和導彈襲擊總數已達3379次。（央視新聞）
+
+---
+
+### 2026-10-28 02:30:01  #市場
+
+上期所原油期貨夜盤收跌2.56%，報712.90元人民幣/桶。滬金夜盤收漲1.05%，滬銀收漲0.93%。
+
+---
+
+### 2026-10-28 02:30:01  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Increases by 1.02% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.02% increase.
+
+---
+
+### 2026-10-28 02:27:12  #其他
+
+蓋亞那官方資料：9月石油產量達到90.6萬桶/日。
+
+---
+
+### 2026-10-28 02:25:43  #國際
+
+【梅拉尼婭：俄烏奧列什基停火提前生效 範圍已擴大】美國總統特朗普夫人梅拉尼婭27日在社交媒體發文稱，俄烏在赫爾松地區奧列什基的停火協議當天提前生效，比原計劃提前兩天，範圍已擴大至奧列什基以外區域，以便人道主義救援車隊通行；俄軍總參謀長格拉西莫夫已證實。俄方和烏方高階官員均證實雙方當天在奧列什基停火以開展人道主義行動。白宮23日宣告稱，梅拉尼婭促成該停火協議，停火從10月29日開始，範圍僅限於奧列什基市，俄烏同意暫停一切軍事行動，安排平民透過指定安全通道撤離；衝突爆發以來奧列什基大部分居民已離開，現估計仍有1700人至2000人留守，主要是無法離開的老年人，另有約50名兒童。（新華社）
+
+---
+
+### 2026-10-28 02:25:14  #公司 #國際
+
+【歐盟委員會提出加強歐盟氣候風險應對能力】歐盟委員會27日釋出歐盟氣候韌性框架，旨在加強歐盟預判、應對和管理氣候風險的能力。歐委會當天釋出公告說，今年夏季歐洲遭遇持續的熱浪和乾旱天氣。近年來，歐洲還多次遭遇嚴重洪災，氣候變化對民眾、企業和基礎設施的影響日益凸顯。根據估算，2022年至2025年間，氣候災害造成的經濟損失約為2000億歐元。歐盟氣候韌性框架提出加強氣候風險預判和應對，將氣候韌性納入歐盟主要政策領域，併為地方和區域政府提供適應氣候變化的支援。歐委會預計，歐洲每年需要約700億歐元的投資，才能使基礎設施和經濟適應未來的氣候條件。（央視新聞）
+
+---
+
+### 2026-10-28 02:25:00  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Coffee Falls by 2.23% — Top commodity losers are Coffee (-2.23%), Oat (-1.87%) and Palm Oil (-1.84%). Gains are led by Cocoa (1.33%) and Rice (0.64%).
+
+---
+
+### 2026-10-28 02:23:14  #國際
+
+美國能源部長賴特：美國正在加大液化天然氣（LNG）出口規模。對俄製裁的暫緩安排屬於臨時性質。
+
+---
+
+### 2026-10-28 02:21:08  #國際
+
+以色列選舉官員裁定：不延長投票時間。
+
+---
+
+### 2026-10-28 02:20:17  #國際
+
+美國能源部長賴特：俄羅斯目前無法出口柴油。
+
+---
+
+### 2026-10-28 02:20:00  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Titanium Falls by 4.65% — Top commodity losers are Titanium (-4.65%), Iron Ore CNY (-1.12%) and Platinum (-0.69%). Gains are led by Copper (1.80%), Lithium Carbonate (1.07%) and Gold (1.01%).
+
+---
+
+### 2026-10-28 02:19:51  #國際
+
+美國能源部長賴特：經霍爾木茲海峽外運的成品油流量有所上升。
+
+---
+
+### 2026-10-28 02:18:28  #國際
+
+美國聯邦通訊委員會透過Nexstar和解協議，批准部分廣播牌照續期。
+
+---
+
+### 2026-10-28 02:18:11  #國際
+
+美國能源部長賴特：很快將有新建反應堆的相關訊息公佈。
+
+---
+
+### 2026-10-28 02:16:44  #國際
+
+美國能源部長賴特：Constellation Energy這筆交易將新增1.1吉瓦電力。
+
+---
+
+### 2026-10-28 02:15:00  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural gas Rises by 3.73% — Top commodity gainer is Natural gas (3.73%). Biggest losers are Heating Oil (-2.79%), Gasoline (-2.42%), Germany Natural Gas THE (-2.19%), Crude Oil (-1.74%) and Brent Oil (-1.66%).
+
+---
+
+### 2026-10-28 02:13:09  #國際
+
+以色列媒體報道：投票時間不會延長。選舉委員會已決定不延長投票站的關閉時間。
+
+---
+
+### 2026-10-28 02:07:49  #其他
+
+【保加利亞總統選舉將進入第二輪投票】根據保加利亞中央選舉委員會27日公佈的結果，現任總統約託娃和前看守政府總理安德烈·古羅夫在總統選舉投票中位居前兩位，但得票均未過半，兩人將於11月1日在第二輪投票中對決。委員會說，保加利亞約有659萬名合格選民，其中約152萬人參與25日的總統選舉投票。27名候選人中，約託娃獲得近53萬票，古羅夫獲得近49萬票。由於投票人數不足合格選民的一半，且沒有候選人獲得超過半數的選票，總統選舉將進入第二輪投票。（新華社）
+
+---
+
+### 2026-10-28 02:07:29  #國際
+
+【俄羅斯將7名英國軍工企業高管列入禁止入境名單】俄羅斯外交部27日發表宣告說，為回應英國當局的敵對政策，俄羅斯決定將7名英國軍工企業高管列入俄禁止入境名單。宣告說，這7名高管向烏克蘭提供武器和軍事技術，且被用於深入俄羅斯境內實施打擊，目標是給俄羅斯造成破壞。宣告還提及，英國稱其軍工企業從中獲得某種“國防紅利”。宣告稱，俄方將繼續擴大制裁名單。（新華社）
+
+---
+
+### 2026-10-28 02:03:14  #國際
+
+市場訊息：歐盟擬藉助全球稅改協議收入充實下一期預算。
+
+---
+
+### 2026-10-28 01:59:14  #其他
+
+波音：截至9月30日的九個月內，收到約4.2億美元此前核定關稅對應的退款。
+
+---
+
+### 2026-10-28 01:57:34  #其他
+
+波音：預計777-8客機不會在2030年前進行首次交付。
+
+---
+
+### 2026-10-28 01:56:08  #其他
+
+波音：第三季度遭遇供應商短缺問題，工廠生產受到干擾，對KC-46A加油機以及777貨機專案造成不利影響。
+
+---
+
+### 2026-10-28 01:56:03  #其他
+
+法國武裝部長沃特蘭：政府正與四家意向方洽談，接手這家已進入破產接管程式的關鍵彈殼生產商的技術資產。
 
 ---
 
@@ -15161,1067 +16739,5 @@ UN Secretary-General Guterres said any escalation in US-Iran tensions must stop.
 ### 2026-10-26 19:41:56  #MKT News
 
 【Former Rio Tinto Australia chief to lead Australia's weapons procurement】Australia will appoint Kelly Parker, former head of Rio Tinto's Australia operations, as National Armaments Director starting in early November. The role, created this year to curb defence procurement cost overruns and multi-year delays, is intended to apply her private-sector experience managing complex projects; Parker previously ran Rio's iron ore and aluminium divisions and was CEO of Rio Tinto Australia until stepping down in June.
-
----
-
-### 2026-10-26 19:41:54  #公司
-
-【金卡智慧：2026年第三季度淨利潤1452.14萬元，同比下降79.75%】金卡智慧公告，2026年第三季度營業收入7.28億元，同比下降10.78%；歸母淨利潤1452.14萬元，同比下降79.75%；扣非淨利潤968.73萬元，同比下降84.71%。2026年前三季度營業收入21.32億元，同比下降9.45%；歸母淨利潤9647.46萬元，同比下降53.39%；扣非淨利潤7289.68萬元，同比下降59.58%。歸母淨利潤變動主要受營業收入下降、匯兌損失和退稅變動影響。
-
----
-
-### 2026-10-26 19:41:41  #公司
-
-【揚電科技：2026年第三季度淨利潤1062.83萬元，同比下降18.80%】揚電科技公告，2026年第三季度營業收入3.34億元，同比增長2.13%；歸母淨利潤1062.83萬元，同比下降18.80%；扣非淨利潤1016.01萬元，同比下降19.88%。2026年前三季度營業收入10.99億元，同比增長13.20%；歸母淨利潤4163.49萬元，同比增長20.06%；扣非淨利潤3865.44萬元，同比增長18.23%。
-
----
-
-### 2026-10-26 19:41:39  #MKT News
-
-Egypt's foreign minister said a military solution is unsustainable.
-
----
-
-### 2026-10-26 19:41:37  #公司
-
-【興業銀錫：山南銻金持有威領股份達12.24%】興業銀錫公告，公司此前披露擬由全資子公司山南銻金收購威領股份控制權。截至公告披露日，山南銻金持有威領股份3189.74萬股，佔總股本的12.24%，為威領股份第一大股東；司法拍賣股份中1000萬股已完成過戶，剩餘285萬股過戶登記正在辦理，山南銻金尚未取得威領股份控制權。
-
----
-
-### 2026-10-26 19:41:12  #公司
-
-【匯通控股：2026年第三季度歸母淨利潤4010.25萬元，同比下降14.91%】匯通控股公告，2026年第三季度營業收入4.02億元，同比增長18.91%；歸母淨利潤4010.25萬元，同比下降14.91%；扣非淨利潤3925.93萬元，同比下降14.12%。2026年前三季度營業收入11.05億元，同比增長26.84%；歸母淨利潤1.14億元，同比下降2.39%；扣非淨利潤1.12億元，同比下降1.70%。
-
----
-
-### 2026-10-26 19:40:45  #MKT News
-
-UK Prime Minister Burnham said measures to address homelessness will be permanent rather than temporary.
-
----
-
-### 2026-10-26 19:40:40  #公司
-
-【匯通控股：擬變更部分募投專案 調減8000萬元投新專案】匯通控股公告稱，公司擬將募投專案“汽車飾件擴產建設專案”的募集資金投入額由20217.51萬元調減至12217.51萬元，調減的8000.00萬元擬用於全資子公司蕪湖金美汽車部件有限公司實施的“年產90萬套高階新能源汽車造型部件及聲學產品專案”，涉及變更投向金額佔募集資金淨額的11.79%。本次變更不構成關聯交易及重大資產重組，已經公司董事會審議透過，尚需提交股東會審議。
-
----
-
-### 2026-10-26 19:40:14  #其他
-
-英國首相伯納姆：無家可歸者安置計劃是永久性方案，而非臨時措施。
-
----
-
-### 2026-10-26 19:40:11  #MKT News
-
-【Norway: Trump lashes out at Norway amid weak campaign standing】At a Michigan campaign rally US President Trump attacked Norway for not awarding him the Nobel Peace Prize, calling the country "terrible" and saying he had ended eight wars with two more to be resolved. Norwegian Foreign Minister Espen Barth Eide dismissed the comments as campaign-driven and linked them to Trump’s weak electoral position.
-
----
-
-### 2026-10-26 19:39:23  #國際
-
-埃及外交部長：我們與沙烏地阿拉伯完全站在一起。我們對沙特的支援是出於防禦目的。
-
----
-
-### 2026-10-26 19:38:35  #公司
-
-【阿波羅集團擬收購阿布扎比背景另類資管公司穆巴達拉資本近10%股份】知情人士在匿名條件下透露，資管巨頭阿波羅全球管理即將敲定一筆交易，收購穆巴達拉資本（Mubadala Capital）近 10% 股權。穆巴達拉資本是阿布扎比主權財富基金穆巴達拉投資公司旗下的另類資管子公司。知情人士稱，這筆交易預計將於週一早間晚些時候官宣，交易財務條款暫未披露。阿波羅資管板塊聯席總裁約翰・齊託與巴胡什過去數年來深度合作。訊息人士稱，二人緊密的夥伴關係，疊加此前多項合作的成功，推動雙方開啟深化合作的談判；雙方同時認同，在資管行業，規模效應的重要性正達到前所未有的高度。一名瞭解本次交易的人士表示：“資金本身，就是一道護城河。”
-
----
-
-### 2026-10-26 19:38:22  #MKT News
-
-Egypt's foreign minister said Egypt stands fully with Saudi Arabia, describing its support as defensive in nature.
-
----
-
-### 2026-10-26 19:38:10  #公司 #市場
-
-【上緯新材：股票交易異常波動 提示相關業務不確定性風險】上緯新材公告稱，公司股票連續3個交易日內日收盤價格漲幅偏離值累計達30%，屬於股票交易異常波動情形。經自查並向控股股東、實控人函證，不存在應披露而未披露的重大資訊，公司日常經營正常。公司消費級具身智慧機器人業務處於規模化量產爬坡及商業化驗證階段，相關機器人及模型開發產品尚處研發階段，商業化存在較大不確定性。2026年半年度公司實現營業收入8.03億元，同比增長2.42%；歸母淨虧損1.67億元，同比減少656.97%。截至2026年10月23日，公司市盈率1240.06倍，顯著高於行業平均水平，敬請投資者注意風險。
-
----
-
-### 2026-10-26 19:36:39  #MKT News
-
-Brazil posted a current account deficit of $5.1 billion in September (August deficit $5.1 billion); the September shortfall amounted to 2.33% of GDP.
-
----
-
-### 2026-10-26 19:36:19  #其他
-
-【銀巴鐵路啟動聯調聯試】隨著檢測車26日9時40分許從銀川站駛出，新建銀川至巴彥浩特鐵路啟動聯調聯試，進入工程驗收關鍵階段。新建銀巴鐵路自寧夏銀川站引出，經銀川市金鳳區、西夏區、永寧縣，穿越賀蘭山至阿拉善盟境內，經巴潤別立鎮至終點巴彥浩特站，正線長約111公里，設計速度200公里/小時，新設巴潤別立、巴彥浩特2座車站。專案於2022年7月全線開工，2026年8月25日啟動靜態驗收，2026年10月26日進入聯調聯試階段。 (央視新聞)
-
----
-
-### 2026-10-26 19:36:05  #公司
-
-【金財互聯：2026年第三季度淨利潤1894.4萬元，同比下降23.35%】金財互聯公告，2026年第三季度營業收入3.37億元，同比增長19.43%；淨利潤1894.4萬元，同比下降23.35%；扣非淨利潤1815.4萬元，同比下降17.81%。2026年前三季度營業收入9.45億元，同比增長25.98%；淨利潤6241.39萬元，同比增長8.50%；扣非淨利潤5699.33萬元，同比增長7.18%。
-
----
-
-### 2026-10-26 19:36:00  #MKT News
-
-Brazil FDI inflows: September $11.3 bln; trailing 12-month $88.3 bln.
-
----
-
-### 2026-10-26 19:35:59  #公司
-
-【廣東鴻圖：2026年第三季度淨利潤2084.69萬元，同比下降78.25%】廣東鴻圖公告，2026年第三季度營業收入23.16億元，同比下降2.79%；歸屬於上市公司股東的淨利潤2084.69萬元，同比下降78.25%；扣非淨利潤1234.44萬元，同比下降86.54%。2026年前三季度營業收入65.02億元，同比下降2.26%；歸屬於上市公司股東的淨利潤6068.39萬元，同比下降71.10%；扣非淨利潤3775.78萬元，同比下降80.71%。
-
----
-
-### 2026-10-26 19:35:55  #公司
-
-【北大醫藥：上海弘康受讓合成集團100%股權，實際控制人變更】北大醫藥公告，公司控股股東合成集團的控股股東新優勢國際此前約定將合成集團100%股權及相關債權轉讓給上海弘康；2026年10月26日，合成集團股權轉讓完成工商變更登記。交易完成後，合成集團仍為公司控股股東，上海弘康間接持有公司1.09億股股份，佔總股本18.29%；徐晰人不再為實際控制人，程棟成為實際控制人。
-
----
-
-### 2026-10-26 19:35:08  #MKT News #Market Regions #Emerging Markets
-
-【Morgan Stanley: Brazilian equities to fall 20-30%】Morgan Stanley expects USD/BRL to test 5.60; if fiscal concerns intensify the pair could hit 6.00. Brazilian interbank rates are forecast to decline in phased cuts of 300–400 bps. Over the next few days Morgan Stanley sees Brazil 10-year sovereign spreads widening about 50 bps and 5-year CDS widening about 40 bps. It forecasts Brazilian equities to drop 20–30%, with pronounced stock-level dispersion.
-
----
-
-### 2026-10-26 19:35:02  #國際
-
-美國地質調查局訊息：萬那杜奧爾里港西北218公里處發生5.0級地震。
-
----
-
-### 2026-10-26 19:34:13  #公司
-
-據報道，阿波羅將收購Mubadala Capital近10%的股份。
-
----
-
-### 2026-10-26 19:33:42  #公司
-
-【東陽光：控股股東深圳市東陽光實業發展有限公司首次增持370.49萬股，佔總股本0.12%】東陽光公告，控股股東深圳市東陽光實業發展有限公司此前擬自2026年10月1日起6個月內增持公司股份，增持金額不低於3億元人民幣（含）、不高於6億元人民幣（含）。2026年10月26日，該公司透過集中競價方式首次增持370.49萬股，佔公司當前總股本的0.12%，累計增持金額人民幣9998.19萬元（不含交易費用）；後續將繼續按計劃增持。
-
----
-
-### 2026-10-26 19:33:34  #市場 #觀點
-
-摩根士丹利表示，預計巴西股市將下跌20%-30%，且跌幅差異較大。
-
----
-
-### 2026-10-26 19:33:28  #MKT News #YNDX.O
-
-Yandex said its three supercomputers were not affected by the data-center attack and have been relocated to a new site.
-
----
-
-### 2026-10-26 19:33:26  #觀點
-
-摩根士丹利表示，美元兌巴西雷亞爾匯率將測試5.60，如果巴西財政擔憂加劇，可能達到 6.00。
-
----
-
-### 2026-10-26 19:33:07  #國際
-
-俄羅斯Yandex：資料中心遭襲未影響三臺超級計算機，均已轉移至新地點。
-
----
-
-### 2026-10-26 19:32:33  #其他
-
-惠譽：匈牙利最早可能在2029年加入ERM2，最早2032年採用歐元。
-
----
-
-### 2026-10-26 19:32:07  #宏觀
-
-【特種裝置學術大會在京召開】市場監管總局訊息，10月21日至22日，特種裝置學術大會在北京召開。大會由中國特檢院主辦，以“科產融合·‘特’創未來——發展特種裝置新質生產力”為主題。市場監管總局黨組成員、副局長，國家標準委主任鄧志勇出席並講話。會議指出，特種裝置是經濟社會發展的重要設施，是培育和發展新質生產力的重點領域。要胸懷“國之大者”，深刻認識特種裝置科技創新的重大意義。科技創新是守牢公共安全底線的戰略支撐，是守護民生安全的必然要求，是支撐產業升級的關鍵變數。會議強調，要聚焦戰略需求，準確把握特種裝置科技創新目標方向。堅持高水平科技自立自強，突破安全保障關鍵核心技術。加強基礎研究，夯實原始創新根基。面向新興產業和未來產業，佈局前沿技術攻關。推動科技創新與產業創新深度融合，打通轉化通道。會議要求，強化組織推動，提升科技創新對安全監管的賦能力，增強科技人才對科技創新的支撐力，鍛造特檢行業科技創新的硬實力，匯聚有組織科研矩陣的協同力，全方位提升特種裝置科技創新整體效能。大會同步展示近年來特種裝置科技創新成果，啟動特種裝置科創產創深度融合百人會工作機制。科技部、工業和資訊化部、應急管理部、國家自然基金委等相關負責同志，總局相關司局主要負責同志，中國工程院院士、高等院校、科研院所、大型企業、檢驗機構代表近300人參會。
-
----
-
-### 2026-10-26 19:31:24  #市場 #國際
-
-印度10年期基準國債收益率收於7.4826%，前一交易日收於7.4740%。
-
----
-
-### 2026-10-26 19:31:14  #其他
-
-Ocean Power Technologies旗下Stratum將提供英偉達B300 GPU及整合服務。
-
----
-
-### 2026-10-26 19:30:44  #國際
-
-【伊朗外交部：以色列議會選舉結果對伊“毫無區別”】伊朗外交部發言人巴加埃26日在德黑蘭表示，無論是誰在以色列議會選舉中獲勝，對伊朗而言都“毫無區別”。針對以色列將於27日舉行新一屆議會選舉，巴加埃當天在例行記者會上說，“以色列的一貫行徑表明，它給西亞地區帶來的只有暴力和屠殺”，此類選舉決定由誰在以色列掌權，其結果“對伊朗來說毫無區別”。(新華社)
-
----
-
-### 2026-10-26 19:30:43  #國際
-
-【法巴銀行：SpaceX自建全美行動通訊網路至少需1000億美元】法國巴黎銀行10月26日表示，SpaceX若選擇自建覆蓋美國全國的行動通訊網路，預計五年內需投入約1050億美元，其中資本開支750億美元、累計運營成本300億美元，尚未包括頻譜採購及融資費用。該行估算，部署8萬個大型基站約需250億美元，建設包含1.5萬顆手機直連衛星的網路約需400億美元，其他網路裝置及零售服務體系還需100億美元。法巴銀行指出，SpaceX目前面臨關鍵戰略選擇：若與通訊塔企業簽署大規模長期租賃協議，即使未來放棄使用相關設施，也可能需要繼續支付租金，從而限制戰略調整空間。另一選擇是與T-Mobile等現有運營商達成移動虛擬網路運營商（MVNO）協議，租用其地面網路提供通訊服務，避免重複建設全國性基站網路。
-
----
-
-### 2026-10-26 19:30:37  #公司
-
-【恆基達鑫：2026年第三季度淨利潤虧損1077.35萬元，同比由盈轉虧】恆基達鑫公告，2026年第三季度營業收入5664.95萬元，同比下降35.60%；歸母淨利潤虧損1077.35萬元，同比由盈轉虧；扣非淨利潤虧損1174.33萬元，同比由盈轉虧。2026年前三季度營業收入1.99億元，同比下降23.57%；歸母淨利潤虧損4412.77萬元，同比由盈轉虧；扣非淨利潤虧損5312.4萬元，同比由盈轉虧。
-
----
-
-### 2026-10-26 19:30:33  #公司
-
-【京糧控股：京糧集團簽署39.68%股份轉讓協議】京糧控股公告，京糧集團此前持有公司39.68%股份併為控股股東；2026年10月26日，京糧集團與首農食品集團簽署股份轉讓協議，擬將2.88億股（佔公司股份總數的39.68%）以6.45元/股轉讓給首農食品集團，轉讓價款合計18.6億元。交易完成後，公司控股股東將變更為首農食品集團，實際控制人仍為北京市國資委；本次股份轉讓尚需取得深交所合規性確認並辦理股份過戶登記手續。
-
----
-
-### 2026-10-26 19:30:29  #公司
-
-【*ST英飛：公司擬掛牌轉讓兩家子公司100%股權，底價1元】*ST英飛公告，公司擬公開掛牌轉讓英飛拓系統、新普互聯各100%股權，掛牌底價為1元。公司董事會已審議透過相關議案，本次交易預計構成重大資產重組。武漢佳訊騰或其並表範圍內子公司有意參與競買，並已與公司簽訂意向協議。
-
----
-
-### 2026-10-26 19:30:20  #公司
-
-【聚力文化：2026年第三季度淨利潤420.27萬元，同比下降77.30%】聚力文化公告，2026年第三季度營業收入1.96億元，同比下降12.07%；歸母淨利潤420.27萬元，同比下降77.30%；扣非淨利潤153.69萬元，同比下降87.41%。2026年前三季度營業收入5.63億元，同比下降4.25%；歸母淨利潤1959.57萬元，同比下降53.53%；扣非淨利潤1229.01萬元，同比下降64.69%。
-
----
-
-### 2026-10-26 19:30:18  #公司
-
-【*ST英飛：2026年第三季度淨利潤虧損9094.82萬元】*ST英飛公告，2026年第三季度營業收入8269.67萬元，同比下降27.71%；淨利潤虧損9094.82萬元，扣非淨利潤虧損7728.03萬元。2026年前三季度營業收入2.72億元，同比下降22.19%；淨利潤虧損2.01億元，扣非淨利潤虧損1.55億元。
-
----
-
-### 2026-10-26 19:30:15  #公司
-
-【京糧控股：2026年第三季度淨利潤虧損2470.14萬元】京糧控股公告，2026年第三季度營業收入18.79億元，同比下降6.19%；歸母淨利潤虧損2470.14萬元，扣非淨利潤虧損4172.01萬元。2026年前三季度營業收入49.94億元，同比下降19.60%；歸母淨利潤虧損1666.9萬元，扣非淨利潤虧損3499.05萬元。
-
----
-
-### 2026-10-26 19:30:03  #公司
-
-【夏農芯創：2026年第三季度淨利潤16.99億元，同比增長743.02%】夏農芯創公告，2026年第三季度營業收入462.21億元，同比增長398.27%；歸屬於上市公司股東的淨利潤16.99億元，同比增長743.02%；扣非淨利潤17.62億元，同比增長779.55%。2026年前三季度營業收入1064.26億元，同比增長303.14%；歸屬於上市公司股東的淨利潤53.4億元，同比增長1,386.13%；扣非淨利潤52.93億元，同比增長1,385.34%。
-
----
-
-### 2026-10-26 19:30:00  #公司
-
-【華安鑫創：2026年第三季度淨利潤虧損2820.56萬元】華安鑫創公告，2026年第三季度營業收入1.57億元，同比下降39.94%；歸母淨利潤虧損2820.56萬元，扣非淨利潤虧損2839.45萬元。2026年前三季度營業收入4.42億元，同比下降35.18%；歸母淨利潤虧損6921.09萬元，扣非淨利潤虧損7095.66萬元。
-
----
-
-### 2026-10-26 19:29:56  #公司
-
-【理奇智慧：2026年第三季度淨利潤3677.96萬元，同比增長10.83%】理奇智慧公告，2026年第三季度營業收入4.55億元，同比下降14.04%；歸母淨利潤3677.96萬元，同比增長10.83%；扣非淨利潤2792.81萬元，同比下降10.47%。2026年前三季度營業收入17.32億元，同比增長0.84%；歸母淨利潤1.55億元，同比下降15.34%；扣非淨利潤1.39億元，同比下降20.76%。
-
----
-
-### 2026-10-26 19:29:53  #公司
-
-【天地數碼：2026年第三季度淨利潤1408.07萬元，同比下降50.56%】天地數碼公告，2026年第三季度營業收入2.43億元，同比增長5.13%；歸屬於上市公司股東的淨利潤1408.07萬元，同比下降50.56%；扣非淨利潤1418.83萬元，同比下降45.03%。2026年前三季度營業收入7.21億元，同比增長8.93%；歸屬於上市公司股東的淨利潤8139.4萬元，同比下降10.64%；扣非淨利潤5842.03萬元，同比下降31.00%。
-
----
-
-### 2026-10-26 19:29:37  #公司
-
-【穩健醫療：2026年第三季度淨利潤2.27億元，同比下降5.21%】穩健醫療公告，2026年第三季度營業收入27.1億元，同比增長4.18%；歸母淨利潤2.27億元，同比下降5.21%；扣非淨利潤2.34億元，同比增長7.03%。2026年前三季度營業收入81.96億元，同比增長3.78%；歸母淨利潤7.41億元，同比增長1.23%；扣非淨利潤6.96億元，同比增長2.51%。
-
----
-
-### 2026-10-26 19:28:34  #公司
-
-【記憶體條價格堅挺 記憶體條市場有價無市】A股儲存板塊近期持續調整，部分公司回撤幅度超過40%。但央視財經記者瞭解到，華強北記憶體現貨報價卻未見明顯鬆動：16G DDR5記憶體條報價普遍在1400至1600元，32G在2000至3000多元，1TB固態硬碟800至1000多元。相比前期高點雖有小幅回撥，但整體仍居高位。記者調查中發現，目前記憶體銷量比價格波動更加明顯，走訪中多位商家反映，10月份以來他們的銷量普遍下滑20%至30%。業內人士表示，記憶體市場價格出現小幅下調，主要是有些渠道商資金壓力大，必須出貨回籠資金，但大家都是高成本進貨，誰也不敢降太多，於是市場出現了報價堅挺、成交冷清、區域性倒掛的現象，整個渠道庫存和資金壓力正在累積。 (央視財經)
-
----
-
-### 2026-10-26 19:28:28  #MKT News #Important
-
-Fox Business reports Anthropic will file an S-1 with the SEC at 9:00 a.m. ET (21:00 Beijing time).
-
----
-
-### 2026-10-26 19:28:26  #MKT News #CSI300 #Impact bearish
-
-【Memory prices firm; market quoted but illiquid】A-share storage sector has corrected, with some names down more than 40%. At Huaqiangbei spot, 16GB DDR5 modules are quoted 1,400–1,600 yuan, 32GB 2,000–3,000+ yuan, and 1TB SSDs 800–1,000+ yuan — slightly below recent peaks but still elevated. Sales volumes have fallen about 20–30% since October. Channel sellers under funding pressure are liquidating to raise cash, causing modest local markdowns, but high-cost inventory limits deeper cuts, leaving quotes firm, turnover thin and pockets of price inversion; channel inventory and funding stress are accumulating.
-
----
-
-### 2026-10-26 19:28:09  #公司
-
-【聖邦股份：簽約收購申矽凌58.2878%股份】聖邦股份公告，公司擬以現金方式受讓上海申矽凌微電子科技股份有限公司58.2878%的股份，交易對價合計為8.33億元。公司於2026年10月26日召開董事會審議透過相關議案，並與相關方簽署《股份轉讓協議》；交易完成後，公司將成為標的公司控股股東。
-
----
-
-### 2026-10-26 19:28:05  #公司
-
-【新恆匯：對淄博芯材投資完成工商變更，持股9.66%】新恆匯公告，公司此前獲批以2億元認購淄博芯材新增註冊資本675.45萬元；公司已於2026年10月26日支付全部增資價款，近日完成工商變更登記，持有淄博芯材9.66%股權。
-
----
-
-### 2026-10-26 19:28:03  #公司
-
-【新恆匯：2026年第三季度淨利潤5067.27萬元，同比增長64.08%】新恆匯公告，2026年第三季度營業收入3.62億元，同比增長60.61%；歸屬於上市公司股東的淨利潤5067.27萬元，同比增長64.08%；扣非淨利潤5062.99萬元，同比增長124.71%。2026年前三季度營業收入9.6億元，同比增長37.13%；歸屬於上市公司股東的淨利潤8449.5萬元，同比下降29.49%；扣非淨利潤7806.66萬元，同比下降26.18%。
-
----
-
-### 2026-10-26 19:27:53  #公司
-
-【中科電氣：2026年第三季度淨利潤9406.11萬元，同比下降27.34%】中科電氣公告，2026年第三季度營業收入32.88億元，同比增長43.52%；歸母淨利潤9406.11萬元，同比下降27.34%；扣非淨利潤9270.16萬元，同比下降28.28%。2026年前三季度營業收入84.98億元，同比增長43.93%；歸母淨利潤2.41億元，同比下降40.01%；扣非淨利潤2.37億元，同比下降42.42%。
-
----
-
-### 2026-10-26 19:27:47  #公司
-
-【海南海藥：2026年第三季度淨利潤虧損1.33億元】海南海藥公告，2026年第三季度營業收入1.6億元，同比下降15.49%；歸母淨利潤虧損1.33億元，扣非淨利潤虧損1.39億元。2026年前三季度營業收入4.81億元，同比下降24.75%；歸母淨利潤虧損3.45億元，扣非淨利潤虧損3.91億元。
-
----
-
-### 2026-10-26 19:27:44  #公司
-
-【天津普林：2026年第三季度淨利潤6162.8萬元，同比增長633.98%】天津普林公告，2026年第三季度營業收入6.15億元，同比增長67.50%；歸屬於上市公司股東的淨利潤6162.8萬元，同比增長633.98%；扣非淨利潤6171.36萬元，同比增長872.71%。2026年前三季度營業收入15.59億元，同比增長52.08%；歸屬於上市公司股東的淨利潤1.06億元，同比增長601.12%；扣非淨利潤1.03億元，同比增長667.19%。
-
----
-
-### 2026-10-26 19:27:41  #公司
-
-【萬憬能源：2026年第三季度淨利潤1793.44萬元，同比下降30.75%】萬憬能源公告，2026年第三季度營業收入1.47億元，同比增長0.84%；歸母淨利潤1793.44萬元，同比下降30.75%；扣非淨利潤1526.97萬元，同比下降24.88%。2026年前三季度營業收入4.64億元，同比下降3.76%；歸母淨利潤5254.62萬元，同比下降17.19%；扣非淨利潤4449.68萬元，同比下降13.95%。
-
----
-
-### 2026-10-26 19:27:40  #Trading Economics #Economy #Brazil #Consumer Confidence #Importance 1
-
-Brazil Consumer Confidence Rises for First Time in 6 Months — Consumer confidence in Brazil rose to 84.7 in October 2026 from 84.2 in September, the first increase after five consecutive monthly declines and matching the August level. Households’ expectations improved (88.0 vs 85.2), driven by the intention to purchase durable goods (75.5 vs 72.3), future family financial situation (86.9 vs 83.9) and future local economic situation (103.7 vs 102.0). In contrast, the assessment of the current situation deteriorated (81.4 vs 84.0), its lowest since March 2025, as consumers saw their current financial situation worsen (71.3 vs 74.4) and the local economy weaken (91.8 vs 94.0). The three-month moving average declined to 84.5 from 85.7.
-
----
-
-### 2026-10-26 19:27:39  #焦點 #國際
-
-Anthropic將於美國東部時間上午9點發布S-1檔案。
-
----
-
-### 2026-10-26 19:26:58  #國際
-
-E2E Networks計劃為印度AI工廠新增5.4兆瓦英偉達Blackwell算力。
-
----
-
-### 2026-10-26 19:26:04  #央行 #其他
-
-巴西央行調查：經濟學家預計2026年底Selic利率為13.25%，與此前預估的13.25%持平。
-
----
-
-### 2026-10-26 19:25:54  #央行 #其他
-
-巴西央行調查：巴西經濟學家預計2027年IPCA年度通脹指數將達到4.34%，此前預估為4.32%。
-
----
-
-### 2026-10-26 19:25:42  #央行 #其他
-
-巴西央行調查顯示，經濟學家預計2026年年度IPCA通脹指數將達到5.19%，此前預期為5.22%。
-
----
-
-### 2026-10-26 19:25:09  #公司 #市場 #觀點
-
-【摩根大通：法國股市估值跌至歷史低位，短期或反彈，但政治風險仍限制上漲空間】摩根大通10月26日表示，法國股市持續三年跑輸其他市場，CAC 40指數相對市盈率已降至歷史最低水平，市場悲觀情緒可能過度，部分股票存在短期反彈空間。該行認為，法國未來一至兩個月可能透過新預算案，若預算案透過，此前跌幅較大的法國本土企業及銀行股可能迎來反彈。但摩根大通警告，法國在2027年4月至6月總統及議會選舉前難以取得實質性財政整頓進展，財政狀況甚至可能進一步惡化，選舉結束後也未必能形成支援改革的穩定執政多數。此外，法國本土企業盈利預測尚未充分反映經濟惡化風險，因此短期反彈不意味著持續上漲。該行中期繼續看好海外收入佔比超過75%的法國上市公司，認為這些企業盈利受法國國內經濟影響較小，股價與盈利表現之間的差距有望修復。
-
----
-
-### 2026-10-26 19:25:05  #公司
-
-【必貝特：2026年第三季度淨利潤虧損5370.73萬元】必貝特公告，2026年第三季度營業收入0.00元；歸母淨利潤虧損5370.73萬元，扣非淨利潤虧損6188.49萬元。2026年前三季度營業收入0.00元；歸母淨利潤虧損1.51億元，扣非淨利潤虧損1.73億元。公司稱，第三季度虧損增加主要系研發費用增加。
-
----
-
-### 2026-10-26 19:24:50  #市場
-
-META股票盤前漲幅延續，目前上漲2.1%。
-
----
-
-### 2026-10-26 19:24:40  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Finishes Higher — India’s BSE Sensex closed about 0.7% firmer at 73,606.8 on Monday, halting a four-day losing streak, supported by positive corporate earnings and some easing in oil prices, despite remaining at elevated levels. However, some caution persisted due to ongoing geopolitical tensions and ahead of the US Federal Reserve’s policy decision due later in the week. Kotak Mahindra Bank was among the top performers, advancing 2.5% after reporting a better-than-expected quarterly profit on robust loan demand. Tata Steel gained 1.5%, supported by positive sentiment across the steel sector following strong earnings from JSW Steel.
-
----
-
-### 2026-10-26 19:23:52  #公司
-
-【江蘇神通：2026年第三季度淨利潤6818.67萬元，同比下降18.77%】江蘇神通公告，2026年第三季度營業收入5.38億元，同比下降5.49%；歸母淨利潤6818.67萬元，同比下降18.77%；扣非淨利潤6988.41萬元，同比下降15.68%。2026年前三季度營業收入15.46億元，同比下降5.57%；歸母淨利潤2.19億元，同比下降6.66%；扣非淨利潤2.13億元，同比下降3.25%。
-
----
-
-### 2026-10-26 19:22:56  #公司
-
-【長虹美菱：2026年第三季度淨利潤虧損4953.4萬元，同比由盈轉虧】長虹美菱公告，2026年第三季度營業收入66.32億元，同比下降9.42%；淨利潤虧損4953.4萬元，同比由盈轉虧；扣非淨利潤虧損7351.99萬元。2026年前三季度營業收入227.68億元，同比下降10.34%；淨利潤844.87萬元，同比下降98.27%；扣非淨利潤虧損8248.1萬元。
-
----
-
-### 2026-10-26 19:22:26  #公司 #焦點
-
-【國科微：前三季度淨利潤同比增長5640.94%】國科微(300672.SZ)公告稱，第三季度營業收入為9.98億元，同比增長131.81%；歸屬於上市公司股東的淨利潤為2.29億元，同比增長1903.77%。前三季度營業收入為23.76億元，同比增長102.71%；歸屬於上市公司股東的淨利潤為4.25億元，同比增長5640.94%。業績增長主要系本報告期智慧視覺等產品線營業收入同比增加所致。公司Q3淨利潤2.29億，Q2淨利潤1.41億，據此計算，Q3淨利潤環比增長62%。
-
----
-
-### 2026-10-26 19:22:06  #國際
-
-【歐洲天然氣價格升至2022年12月以來最高水平】受冬季能源供應緊張及中東衝突持續的影響，歐洲天然氣價格26日升至每兆瓦時97歐元，達到2022年12月以來的最高水平。今年2月伊朗戰事爆發前，歐洲天然氣價格約為每兆瓦時32歐元，而本月初仍低於75歐元。與此同時，歐洲天然氣庫存也面臨壓力。目前，歐洲天然氣儲存設施的庫存率約為75%，低於同期約80%的季節性平均水平，為2009年有記錄以來同期最低水平。隨著歐洲大陸氣溫下降，市場預計未來幾天歐洲市場供暖需求將大幅增加。（央視新聞）
-
----
-
-### 2026-10-26 19:22:01  #MKT News
-
-A Jordanian senior security official says there are no indications the suspect is linked to other groups.
-
----
-
-### 2026-10-26 19:21:33  #公司
-
-【湖南發展：調增2026年度日常關聯交易預計6046.70萬元】湖南發展公告稱，因2026年5月高電公司、銅電公司、清電公司、筱電公司納入合併報表範圍，公司擬調增2026年度日常關聯交易預計金額共計6046.70萬元，調整後2026年度日常關聯交易預計總金額為9957.70萬元，交易物件為控股股東湖南能源集團及其控制企業，涵蓋採購商品、接受勞務、資產出租等類別，均採用市場化定價。本次調整事項已經公司董事會審議透過，無需提交股東會審議，不構成重大資產重組。
-
----
-
-### 2026-10-26 19:21:12  #公司
-
-【蘭花科創：2026年前三季度煤炭銷售收入同比增長41.77%】蘭花科創公告，2026年前三季度煤炭產量1001.07萬噸，同比下降12.30%；銷量956.38萬噸，同比增長5.88%；銷售收入62.21億元，同比增長41.77%；銷售成本37.48億元，同比增長23.46%；毛利24.73億元，同比增長82.91%。尿素產量49.5萬噸，同比下降4.66%；銷量48.95萬噸，同比下降8.08%；銷售收入8.52億元，同比下降1.76%；銷售成本7.36億元，同比下降7.24%；毛利1.16億元，同比增長57.22%。己內醯胺產量、銷量均為0.00萬噸。
-
----
-
-### 2026-10-26 19:20:59  #公司
-
-【翰宇藥業：擬投資不超3.8億元建設多肽藥物產線擴建專案】翰宇藥業(300199.SZ)公告稱，公司全資子公司武漢翰宇擬投資建設“B04與B06車間多肽藥物產線綠色化智慧化擴建專案”，投資規模不超過3.8億元。專案建成後將新增年產多肽藥物10噸產能。
-
----
-
-### 2026-10-26 19:20:47  #公司
-
-【頎中科技：全資子公司火災事故保險理賠已結案】頎中科技公告稱，公司全資子公司蘇州頎中廠區凸塊製程段曾發生火災事故，目前火災情況認定和保險理賠工作已結案。經保險公估機構出具報告，本次事故理算金額為2.32億元。公司已收到保險理賠款1.80億元、殘值拍賣收入款761.68萬元，合計收入1.88億元。
-
----
-
-### 2026-10-26 19:20:33  #MKT News
-
-Jordan senior security official says church attackers were from the same family, including two brothers.
-
----
-
-### 2026-10-26 19:20:26  #其他
-
-約旦高階安全官員稱教堂襲擊者來自一個家庭，包括兩兄弟.
-
----
-
-### 2026-10-26 19:20:00  #MKT News
-
-Jordan's interior minister said an investigation is under way into the church attack; the attackers were taken to hospital and are injured, and authorities vowed not to allow such attacks to recur.
-
----
-
-### 2026-10-26 19:19:57  #公司
-
-【同和藥業：原料藥甲苯磺酸艾多沙班透過藥品GMP符合性檢查】同和藥業公告稱，公司近日收到江西省藥品監督管理局的藥品GMP符合性檢查告知書，經現場檢查和綜合評定，公司原料藥甲苯磺酸艾多沙班符合藥品GMP要求，檢查範圍為原料藥（甲苯磺酸艾多沙班），檢查日期為2026年8月25日-2026年8月29日。甲苯磺酸艾多沙班是口服抗凝藥物，主要用於預防非瓣膜性房顫患者的卒中及全身性栓塞，以及治療或預防深靜脈血栓和肺栓塞。該原料藥透過檢查有利於公司拓展國內市場銷售，其具體銷售情況存在一定不確定性。
-
----
-
-### 2026-10-26 19:19:45  #公司
-
-【拓日新能：2026年第三季度淨利潤虧損4178.87萬元】拓日新能公告，2026年第三季度營業收入2.44億元，同比下降19.81%；淨利潤虧損4178.87萬元，扣非淨利潤虧損3880.84萬元。2026年前三季度營業收入7.17億元，同比下降11.74%；淨利潤虧損9966.95萬元，扣非淨利潤虧損1.03億元。
-
----
-
-### 2026-10-26 19:19:34  #公司
-
-【聖邦股份：擬8.33億元收購模擬晶片公司申矽凌微電子58.29%股份】聖邦股份(300661.SZ)公告稱，公司擬使用自有資金、自籌資金及/或H股上市募集資金，以合計8.33億元收購上海申矽凌微電子科技股份有限公司58.2878%的股份。交易完成後，公司將成為標的公司控股股東，標的公司將成為公司合併報表範圍內的控股子公司。標的公司專注於感測器晶片及混合訊號晶片設計，產品涵蓋溫度感測器、溫溼度感測器等，應用於工業、醫療、智慧穿戴等領域。本次交易不構成關聯交易及重大資產重組，屬董事會審批許可權範圍，無需提交股東會審議。
-
----
-
-### 2026-10-26 19:19:14  #公司
-
-【英特科技：2026年第三季度淨利潤233.71萬元，同比下降57.73%】英特科技公告，2026年第三季度營業收入1.98億元，同比增長69.30%；歸母淨利潤233.71萬元，同比下降57.73%；扣非淨利潤114.94萬元，同比下降65.98%。2026年前三季度營業收入4.41億元，同比增長38.46%；歸母淨利潤虧損193.94萬元，扣非淨利潤虧損642.15萬元。
-
----
-
-### 2026-10-26 19:19:11  #公司
-
-【粵萬年青：2026年第三季度淨利潤虧損18.67萬元】粵萬年青公告，2026年第三季度營業收入6758.06萬元，同比下降8.22%；淨利潤虧損18.67萬元，扣非淨利潤虧損12.09萬元。2026年前三季度營業收入2.12億元，同比下降7.03%；淨利潤300.3萬元，扣非淨利潤37988.83元。
-
----
-
-### 2026-10-26 19:19:05  #公司
-
-【雙樂股份：2026年第三季度淨利潤虧損1255.59萬元，同比由盈轉虧】雙樂股份公告，2026年第三季度營業收入3.27億元，同比下降9.75%；淨利潤虧損1255.59萬元，扣非淨利潤虧損1616.29萬元。2026年前三季度營業收入10.6億元，同比下降4.46%；淨利潤虧損1116.58萬元，上年同期為4946.25萬元，同比由盈轉虧；扣非淨利潤虧損1521.14萬元。
-
----
-
-### 2026-10-26 19:19:01  #公司
-
-【天億馬：2026年前三季度歸母淨利潤190.26萬元，同比下降54.59%】天億馬公告，2026年第三季度營業收入1.3億元，同比增長58.40%；歸母淨利潤虧損68.57萬元，扣非淨利潤16.37萬元。2026年前三季度營業收入3.42億元，同比增長50.43%；歸母淨利潤190.26萬元，同比下降54.59%；扣非淨利潤368.88萬元，同比下降20.64%。
-
----
-
-### 2026-10-26 19:18:55  #公司
-
-【河鋼資源：2026年第三季度淨利潤1.03億元，同比下降62.58%】河鋼資源公告，2026年第三季度營業收入13.32億元，同比下降10.09%；歸母淨利潤1.03億元，同比下降62.58%；扣非淨利潤1.03億元，同比下降62.52%。2026年前三季度營業收入34.54億元，同比下降19.75%；歸母淨利潤虧損2595.68萬元，同比由盈轉虧；扣非淨利潤1405.14萬元，同比下降97.39%。
-
----
-
-### 2026-10-26 19:18:51  #公司
-
-【長榮股份：2026年第三季度淨利潤虧損2318.46萬元，同比由盈轉虧】長榮股份公告，2026年第三季度營業收入4.06億元，同比增長0.50%；歸母淨利潤虧損2318.46萬元，扣非淨利潤虧損2358.01萬元。2026年前三季度營業收入11.74億元，同比增長3.90%；歸母淨利潤虧損3489.4萬元，扣非淨利潤虧損3763.44萬元。
-
----
-
-### 2026-10-26 19:18:46  #公司
-
-【臺基股份：2026年第三季度淨利潤2647.6萬元，同比增長56.14%】臺基股份公告，2026年第三季度營業收入1.62億元，同比增長75.19%；歸屬於上市公司股東的淨利潤2647.6萬元，同比增長56.14%；扣非淨利潤2412.62萬元，同比增長75.62%。2026年前三季度營業收入3.81億元，同比增長40.30%；歸屬於上市公司股東的淨利潤6006.66萬元，同比增長5.97%；扣非淨利潤4617.74萬元，同比增長11.37%。
-
----
-
-### 2026-10-26 19:18:42  #Trading Economics #Economy #United Kingdom #Cbi Distributive Trades #Importance 2
-
-UK CBI Retail Sales Gauge Improves More than Expected — The CBI retail sales balance improved to -10 in November 2026 from -55 in October, the highest since April 2025 and above market expectations of -47. Retailers reported the smallest annual decline in sales in 18 months, while sales relative to the time of year were the strongest since May 2024. Expectations for November sales also improved, with the balance rising to -10 from -37, while the supplier orders balance recovered to -36 in October from September’s record low of -62. Despite these signs of stabilisation, the CBI warned that the outlook remained fragile amid cautious household spending and higher fuel costs. The organisation urged Finance Minister John Healey to reduce employers’ social security contributions and property taxes in Wednesday’s budget. The improvement contrasts with recent indicators showing annual retail sales growth slowing to 0.8% in September from 2.7% in August, while GfK consumer confidence recorded its steepest decline since the pandemic in October.
-
----
-
-### 2026-10-26 19:18:40  #公司
-
-【翰宇藥業：2026年HY3003片劑四周減重約-47%】翰宇藥業公告，公司近日完成HY3003片劑減重適應症臨床前藥效學比較研究。四周實驗結果顯示，DIO小鼠模型中HY3003片劑減重效果約為-11%、-26%、-47%，優於司美格魯肽片劑維持劑量下的-11%；DIO大鼠模型中約為-3%、-11%、-31%，優於司美格魯肽片劑的-6%。
-
----
-
-### 2026-10-26 19:18:35  #公司
-
-【協創資料：2026年第三季度淨利潤12.24億元，同比增長360.33%】協創資料公告，2026年第三季度營業收入70.87億元，同比增長109.27%；歸母淨利潤12.24億元，同比增長360.33%；扣非淨利潤12.22億元，同比增長363.44%。2026年前三季度營業收入196.1億元，同比增長135.39%；歸母淨利潤30.62億元，同比增長338.77%；扣非淨利潤30.68億元，同比增長348.99%。
-
----
-
-### 2026-10-26 19:18:31  #公司
-
-【盾安環境：2026年第三季度淨利潤2.61億元，同比增長11.94%】盾安環境公告，2026年第三季度營業收入35.36億元，同比增長18.12%；歸母淨利潤2.61億元，同比增長11.94%；扣非淨利潤2.5億元，同比增長13.56%。2026年前三季度營業收入107.67億元，同比增長10.74%；歸母淨利潤7.28億元，同比下降5.28%；扣非淨利潤7.17億元，同比下降2.74%。前三季度資料中心相關產品收入規模超7億元，同比翻番。
-
----
-
-### 2026-10-26 19:18:28  #國際
-
-歐盟委員會接受Temu整改計劃以糾正違反《數字服務法》問題。
-
----
-
-### 2026-10-26 19:18:11  #公司
-
-【真蘭儀表：2026年第三季度淨利潤6669.07萬元，同比下降35.02%】真蘭儀表公告，2026年第三季度營業收入5.48億元，同比增長13.40%；歸母淨利潤6669.07萬元，同比下降35.02%；扣非淨利潤5695.65萬元，同比下降29.98%。2026年前三季度營業收入13.53億元，同比增長7.97%；歸母淨利潤1.85億元，同比下降26.09%；扣非淨利潤1.41億元，同比下降28.52%。
-
----
-
-### 2026-10-26 19:18:08  #公司
-
-【世盟股份：2026年第三季度淨利潤2816.39萬元，同比下降34.57%】世盟股份公告，2026年第三季度營業收入1.94億元，同比下降10.41%；歸屬於上市公司股東的淨利潤2816.39萬元，同比下降34.57%；扣非淨利潤2636.72萬元，同比下降33.05%。2026年前三季度營業收入5.32億元，同比下降19.49%；歸屬於上市公司股東的淨利潤8480.47萬元，同比下降22.34%；扣非淨利潤7944.2萬元，同比下降24.43%。
-
----
-
-### 2026-10-26 19:18:05  #其他
-
-約旦高階安全官員:對教堂襲擊事件的調查正在進行中。我們堅決不允許此類襲擊再次發生。襲擊者已被送往醫院，均受傷。
-
----
-
-### 2026-10-26 19:18:00  #公司
-
-【深糧控股：2026年第三季度淨利潤5239.32萬元，同比下降22.39%】深糧控股公告，2026年第三季度營業收入15.64億元，同比增長1.95%；歸母淨利潤5239.32萬元，同比下降22.39%；扣非淨利潤3885.17萬元，同比下降41.29%。2026年前三季度營業收入39.52億元，同比增長0.85%；歸母淨利潤1.64億元，同比下降32.55%；扣非淨利潤1.25億元，同比下降44.39%。
-
----
-
-### 2026-10-26 19:17:55  #公司
-
-【鹽田港：2026年第三季度淨利潤4.55億元，同比增長9.02%】鹽田港公告，2026年第三季度營業收入2.7億元，同比增長18.68%；淨利潤4.55億元，同比增長9.02%；扣非淨利潤4.55億元，同比增長9.04%。2026年前三季度營業收入7.07億元，同比增長14.71%；淨利潤11.52億元，同比增長7.56%；扣非淨利潤11.53億元，同比增長7.61%。
-
----
-
-### 2026-10-26 19:17:50  #公司
-
-【同興達：2026年第三季度淨利潤1076.68萬元，同比下降20.94%】同興達公告，2026年第三季度營業收入24.4億元，同比下降13.17%；歸母淨利潤1076.68萬元，同比下降20.94%；扣非淨利潤666.28萬元，同比下降26.45%。2026年前三季度營業收入75.24億元，同比下降1.06%；歸母淨利潤2124.99萬元，同比增長238.15%；扣非淨利潤882.35萬元，同比增長134.37%。
-
----
-
-### 2026-10-26 19:17:45  #公司
-
-【芯源微：轉讓廣州芯知50%股權底價不低於3510.45萬元】芯源微公告，公司此前披露擬公開掛牌轉讓廣州芯知50%股權。本次公告披露，掛牌底價不低於3510.45萬元；公司已完成國資審批、備案程式，尚需履行北京產權交易所公開掛牌程式，交易對方、最終價格及轉讓完成時間尚未確定。
-
----
-
-### 2026-10-26 19:17:40  #公司
-
-【湖南發展：2026年第三季度淨利潤8917.91萬元，同比增長45.07%】湖南發展公告，2026年第三季度營業收入2.55億元，同比增長1.61%；歸母淨利潤8917.91萬元，同比增長45.07%；扣非淨利潤8875.23萬元，同比增長282.36%。2026年前三季度營業收入7.89億元，同比增長19.92%；歸母淨利潤2.74億元，同比增長65.44%；扣非淨利潤2.13億元，同比增長231.63%。
-
----
-
-### 2026-10-26 19:17:37  #公司
-
-【陝西華達：2026年前三季度淨利潤虧損5572.69萬元，2025年同期虧損1430.58萬元】陝西華達公告，2026年第三季度營業收入1.13億元，同比下降36.17%；歸母淨利潤虧損1802.61萬元，扣非淨利潤虧損1963.46萬元。2026年前三季度營業收入3.44億元，同比下降20.09%；歸母淨利潤虧損5572.69萬元，2025年同期虧損1430.58萬元；扣非淨利潤虧損6227.06萬元。
-
----
-
-### 2026-10-26 19:17:34  #公司
-
-【芯源微：擬公開掛牌轉讓廣州芯知50%股權】芯源微公告稱，公司擬在北京產權交易所公開掛牌轉讓所持控股子公司廣州芯知科技有限公司50%股權，以2026年3月31日為評估基準日，廣州芯知股東全部權益評估值為6950.69萬元，本次轉讓掛牌底價不低於3510.45萬元，最終交易價格及受讓方以公開掛牌成交結果為準。本次交易不構成重大資產重組，已完成國資審批及備案程式，尚需履行北交所公開掛牌程式。若交易完成，公司將不再持有廣州芯知股權，其不再納入合併報表範圍。廣州芯知其餘股東已放棄優先受讓權，公司不存在為其提供擔保、委託理財及資金被佔用情況。
-
----
-
-### 2026-10-26 19:17:25  #公司
-
-【隆華新材：2026年第三季度淨利潤虧損158.62萬元，同比由盈轉虧】隆華新材公告，2026年第三季度營業收入17.94億元，同比增長10.55%；淨利潤虧損158.62萬元，扣非淨利潤虧損270.02萬元。2026年前三季度營業收入57.64億元，同比增長29.39%；淨利潤1.33億元，同比增長32.83%；扣非淨利潤1.29億元，同比增長44.99%。
-
----
-
-### 2026-10-26 19:17:21  #公司
-
-【中洲控股：子公司52298平方米地塊無償收回決定終審生效】中洲控股公告，全資子公司康威公司持有的聖廷峰匯地塊此前收到惠州市自然資源局作出的收回國有建設用地使用權決定書，並提起行政訴訟。近日，廣東省高院終審判決該無償收回土地決定生效；截至公告披露日，尚未履行相關收地手續。公司稱，該地塊已於2021年全額計提資產減值準備，本次事項不會新增資產減值損失，也不會對當期及未來期間財務報表產生損益影響。
-
----
-
-### 2026-10-26 19:17:15  #公司
-
-【中科磁業：2026年第三季度淨利潤1051.17萬元，同比下降17.85%】中科磁業公告，2026年第三季度營業收入2.5億元，同比增長22.23%；歸母淨利潤1051.17萬元，同比下降17.85%；扣非淨利潤962.51萬元，同比下降8.99%。2026年前三季度營業收入6.78億元，同比增長22.99%；歸母淨利潤1874.44萬元，同比下降44.38%；扣非淨利潤1542.29萬元，同比下降44.89%。
-
----
-
-### 2026-10-26 19:17:13  #公司
-
-【大金重工：希臘船東放棄1艘選擇權】大金重工公告，公司此前披露下屬子公司與希臘某船東簽署3+1艘散貨船建造合同，合同總金額摺合人民幣約21億元。截至本公告披露日，選擇權行使期限已屆滿，買方決定放棄行使選擇權；本次調整不影響3艘確定船交付。
-
----
-
-### 2026-10-26 19:17:00  #公司
-
-【泰恩康：2026年第三季度淨利潤2776.37萬元，同比扭虧為盈】泰恩康公告，2026年第三季度營業收入2.12億元，同比增長18.83%；歸母淨利潤2776.37萬元，2025年同期虧損567.96萬元，同比扭虧為盈；扣非淨利潤2564.4萬元，2025年同期虧損550.17萬元，同比扭虧為盈。2026年前三季度營業收入5.33億元，同比增長1.30%；歸母淨利潤3148.39萬元，同比增長0.25%；扣非淨利潤2593.45萬元，同比下降17.35%。
-
----
-
-### 2026-10-26 19:16:56  #公司
-
-【巨力索具：2026年第三季度淨利潤虧損201.75萬元，同比由盈轉虧】巨力索具公告，2026年第三季度營業收入7.38億元，同比增長22.35%；淨利潤虧損201.75萬元，扣非淨利潤虧損869.9萬元。2026年前三季度營業收入20.47億元，同比增長17.41%；淨利潤178.26萬元，同比下降83.89%；扣非淨利潤230.08萬元，同比下降63.82%。
-
----
-
-### 2026-10-26 19:16:44  #公司
-
-【億道資訊：2026年第三季度淨利潤565.53萬元，同比增長227.62%】億道資訊公告，2026年第三季度營業收入20.36億元，同比增長53.02%；歸母淨利潤565.53萬元，同比增長227.62%；扣非淨利潤3553.95萬元，同比增長665.32%。2026年前三季度營業收入47.82億元，同比增長67.77%；歸母淨利潤2.01億元，同比增長2,784.15%；扣非淨利潤1.39億元，同比增長2,302.13%。
-
----
-
-### 2026-10-26 19:16:38  #公司
-
-【中洲控股：2026年前三季度淨利潤9.36億元，同比增長1,422.58%】中洲控股公告，2026年第三季度營業收入3.69億元，同比下降0.30%；淨利潤虧損5221.71萬元，扣非淨利潤虧損1752.63萬元。2026年前三季度營業收入48.7億元，同比增長137.88%；淨利潤9.36億元，同比增長1,422.58%；扣非淨利潤10.38億元，同比增長2,979.62%。
-
----
-
-### 2026-10-26 19:16:32  #公司
-
-【深桑達Ａ：2026年第三季度淨利潤虧損6161.85萬元，前三季度虧損2.7億元】深桑達Ａ公告，2026年第三季度營業收入143.45億元，同比增長49.67%；歸母淨利潤虧損6161.85萬元，扣非淨利潤虧損2.29億元。2026年前三季度營業收入386.08億元，同比增長16.93%；歸母淨利潤虧損2.7億元，扣非淨利潤虧損4.73億元。
-
----
-
-### 2026-10-26 19:16:29  #公司
-
-【遠望谷：擬認購港股公司股份 構成關聯交易】遠望谷公告稱，公司擬透過境外全資子公司新加坡子公司戰略認購港股上市公司Web3 Meta Limited新發行股份1200萬股，認購價每股1.68港元，交易金額預計2016.00萬港元。公司董事長徐超洋為關聯方，擬同步認購800萬股，本次共同投資構成關聯交易。本次交易完成後，公司預計持有標的公司擴大後總股本約32.22%股份並取得控制權，可能觸發有條件強制性現金要約義務。本次交易尚需提交公司股東會審議，最終能否完成存在不確定性。
-
----
-
-### 2026-10-26 19:16:21  #公司
-
-【仁和藥業：全資子公司擬以3877.46萬元收購20%股權】仁和藥業公告，2026年10月26日，公司董事會審議透過議案，全資子公司江西仁和藥都藥業有限公司擬以人民幣3877.46萬元收購鄒勝軍持有的江西中進藥業有限公司20%股權。交易完成後，江西仁和藥都藥業有限公司持股比例將由70%升至90%。
-
----
-
-### 2026-10-26 19:16:07  #公司
-
-【東土科技：2026年第三季度歸母淨利潤虧損7445.68萬元】東土科技公告，2026年第三季度營業收入1.17億元，同比增長5.21%；歸母淨利潤虧損7445.68萬元，扣非淨利潤虧損9056.97萬元。2026年前三季度營業收入4.26億元，同比下降15.03%；歸母淨利潤虧損1.01億元，扣非淨利潤虧損2.37億元。
-
----
-
-### 2026-10-26 19:16:04  #公司
-
-【正丹股份：2026年第三季度淨利潤3066.22萬元，同比下降31.66%】正丹股份公告，2026年第三季度營業收入5.02億元，同比增長7.69%；歸母淨利潤3066.22萬元，同比下降31.66%；扣非淨利潤3053.47萬元，同比下降21.85%。2026年前三季度營業收入15.41億元，同比下降18.65%；歸母淨利潤2.68億元，同比下降60.36%；扣非淨利潤2.42億元，同比下降63.51%。
-
----
-
-### 2026-10-26 19:15:51  #公司
-
-【博騰股份：2026年第三季度淨利潤1.12億元，同比增長112.00%】博騰股份公告，2026年第三季度營業收入9.75億元，同比增長5.56%；歸屬於上市公司股東的淨利潤1.12億元，同比增長112.00%；扣非淨利潤9576.41萬元，同比增長102.65%。2026年前三季度營業收入27.65億元，同比增長8.66%；歸屬於上市公司股東的淨利潤虧損1.12億元，扣非淨利潤虧損1.51億元。
-
----
-
-### 2026-10-26 19:15:49  #MKT News
-
-State Bank of Pakistan says rate hikes will bring inf back to the 5–7% target range.
-
----
-
-### 2026-10-26 19:15:47  #公司
-
-【億聯網路：2026年第三季度淨利潤7.52億元，同比增長4.74%】億聯網路公告，2026年第三季度營業收入17.05億元，同比增長3.44%；歸母淨利潤7.52億元，同比增長4.74%；扣非淨利潤7.26億元，同比增長5.54%。2026年前三季度營業收入50.54億元，同比增長17.59%；歸母淨利潤22.76億元，同比增長16.25%；扣非淨利潤21.71億元，同比增長17.77%。
-
----
-
-### 2026-10-26 19:15:33  #公司
-
-【築博設計：2026年第三季度淨利潤371.81萬元，同比下降40.43%】築博設計公告，2026年第三季度營業收入6588.58萬元，同比下降24.21%；歸母淨利潤371.81萬元，同比下降40.43%；扣非淨利潤370.38萬元，同比下降38.91%。2026年前三季度營業收入1.83億元，同比下降12.77%；歸母淨利潤190.51萬元。公司稱，前三季度歸母淨利潤較上年同期增長較多，主要系持續控制人工成本、分包成本，營業成本增速低於營收增速，且長賬齡款項回款較多，信用減值損失及資產減值損失同比減少。
-
----
-
-### 2026-10-26 19:15:30  #公司
-
-【正丹股份：擬登出全資子公司蘇州正丹新材料研究所】正丹股份公告稱，公司於2026年10月26日召開董事會，審議透過登出全資子公司蘇州正丹新材料研究所有限公司的議案，授權管理層辦理相關注銷事宜。蘇州正丹成立於2022年12月，註冊資本1000萬元，公司持有其100%股權，自成立以來未實際開展經營業務，截至2026年6月30日淨資產為-0.46元。本次登出事項在董事會決策許可權內，無需提交股東會審議，不涉及關聯交易及重大資產重組，不會對公司整體發展和財務狀況產生不利影響。
-
----
-
-### 2026-10-26 19:15:27  #公司
-
-【博騰股份：零元受讓杭州復曜基金3.75%份額】博騰股份公告稱，公司董事會審議透過議案，同意以零元對價受讓寧波鑫琿投資合夥企業（有限合夥）持有的杭州復曜星啟成果轉化創業投資合夥企業（有限合夥）3.75%合夥份額，對應認繳出資額3000萬元（尚未實繳）。受讓完成後公司將履行對應實繳義務，直接持有該基金3.75%份額，對基金擬投資標的不享有一票否決權。本次交易不構成重大資產重組及關聯交易，無需提交股東會審議。
-
----
-
-### 2026-10-26 19:15:23  #公司
-
-【正丹股份：擬登出全資子公司蘇州正丹新材料研究所】正丹股份公告稱，公司於2026年10月26日召開董事會，審議透過登出全資子公司蘇州正丹新材料研究所有限公司的議案，授權管理層辦理相關注銷事宜。蘇州正丹成立於2022年12月，註冊資本1000萬元，公司持有其100%股權，自成立以來未實際開展經營業務，截至2026年6月30日淨資產為-0.46元。本次登出事項在董事會決策許可權內，無需提交股東會審議，不涉及關聯交易及重大資產重組，不會對公司整體發展和財務狀況產生不利影響。
-
----
-
-### 2026-10-26 19:15:16  #公司
-
-【雷迪克：2026年第三季度淨利潤3407.53萬元，同比下降31.18%】雷迪克公告，2026年第三季度營業收入2.25億元，同比下降27.17%；歸母淨利潤3407.53萬元，同比下降31.18%；扣非淨利潤2703.3萬元，同比下降35.64%。2026年前三季度營業收入6.57億元，同比下降18.38%；歸母淨利潤7619.68萬元，同比下降44.65%；扣非淨利潤6657.38萬元，同比下降45.36%。
-
----
-
-### 2026-10-26 19:15:12  #公司
-
-【向日葵：2026年第三季度淨利潤虧損322.88萬元，同比由盈轉虧】向日葵公告，2026年第三季度營業收入6293.94萬元，同比增長14.22%；淨利潤虧損322.88萬元，同比由盈轉虧；扣非淨利潤虧損427.99萬元，同比由盈轉虧。2026年前三季度營業收入1.72億元，同比下降14.04%；淨利潤虧損1562.54萬元，同比由盈轉虧；扣非淨利潤虧損1299.98萬元，同比由盈轉虧。
-
----
-
-### 2026-10-26 19:15:10  #公司
-
-【雷迪克：擬3億元投建總部及研發生產基地專案】雷迪克公告稱，公司第四屆董事會第二十七次會議審議透過相關議案，擬在蕭山經濟技術開發區內投資建設雷迪克總部及研發生產基地專案，專案規劃總用地約47.5畝，分期實施，本次投資金額約為3億元，資金來源為企業自有資金及合規市場化融資。本次投資不構成關聯交易，也不構成重大資產重組，無需提交公司股東會審議。董事會授權管理層辦理專案用地招拍掛、協議簽署等相關工作。會議同時審議透過了公司2026年第三季度報告的議案。
-
----
-
-### 2026-10-26 19:15:05  #公司
-
-【博騰股份：擬零元受讓基金3.75%份額】博騰股份公告，公司於2026年10月26日召開董事會，審議透過以零元對價受讓寧波鑫琿投資合夥企業（有限合夥）持有的杭州復曜基金3.75%合夥份額，對應認繳出資額3000萬元、尚未實繳。份額受讓完成後，公司將按合夥協議履行相應實繳義務。
-
----
-
-### 2026-10-26 19:15:00  #公司
-
-【世名科技：2026年第三季度淨利潤668.08萬元，同比增長103.62%】世名科技公告，2026年第三季度營業收入1.7億元，同比下降5.38%；歸母淨利潤668.08萬元，同比增長103.62%。2026年前三季度營業收入4.96億元，同比下降8.03%；歸母淨利潤816.99萬元，同比下降55.79%。
-
----
-
-### 2026-10-26 19:14:57  #公司
-
-【中遠海科：2026年第三季度淨利潤1080.86萬元，同比增長214.16%】中遠海科公告，2026年第三季度營業收入3.48億元，同比下降15.00%；歸母淨利潤1080.86萬元，同比增長214.16%；扣非淨利潤774.69萬元，同比增長1,748.62%。2026年前三季度營業收入10.74億元，同比下降10.41%；歸母淨利潤2694.28萬元，同比增長103.03%；扣非淨利潤1598.66萬元，同比增長294.76%。
-
----
-
-### 2026-10-26 19:14:41  #MKT News #Important #Star Stocks #Meta Platforms #NVIDIA #Market Themes #Magnificent 7 #META.O #Impact bearish #NVDA.O #Impact mixed #AMD.O
-
-【Meta to raise $35bn via dual stock offerings; NVIDIA, AMD, Broadcom eye up to $5bn each】Meta Platforms plans two simultaneous underwritten public offerings to raise about $35bn: roughly $22.5bn of Class A common stock via forward sale agreements and about $12.5bn of A‑series mandatory convertible preferred stock issued as depositary shares. Meta would issue up to 250m A‑series depositary shares. NVIDIA, AMD and Broadcom have indicated interest in purchasing up to $5bn of Meta securities each.
-
----
-
-### 2026-10-26 19:14:35  #公司 #焦點
-
-【Meta擬發行股票募資350億美元，英偉達、AMD等有意認購至多50億美元】Meta Platforms(META.O)計劃透過兩項同步進行的承銷公開發行，合計募資約350億美元，包括約225億美元的A類普通股發行和約125億美元的A系列強制可轉換優先股發行。據報道，Meta此次普通股發行將透過遠期出售協議進行，優先股發行則涉及代表A系列強制可轉換優先股的存托股份。相關資訊顯示，Meta擬發行最多2.5億股A系列存托股。此外，英偉達、AMD和博通均有意購買最多50億美元的Meta股票。
-
----
-
-### 2026-10-26 19:14:30  #國際
-
-俄羅斯國防部：俄羅斯圖-95MS轟炸機在白令海和楚科奇海上空執行巡邏任務。
-
----
-
-### 2026-10-26 19:14:23  #MKT News
-
-State Bank of Pakistan says policy decisions are necessary to bring inf back to the target range in the medium term.
-
----
-
-### 2026-10-26 19:14:22  #MKT News
-
-RUSSIAN DEFENCE MINISTRY said Tu-95MS bombers conducted patrols over the Bering Sea and the Chukchi Sea.
-
----
-
-### 2026-10-26 19:14:14  #央行 #其他
-
-巴基斯坦央行：有必要做出政策決定，使通脹在中期內達到目標範圍。
-
----
-
-### 2026-10-26 19:13:16  #公司 #市場
-
-【納指科技ETF景順：2026年第三季度份額淨值增長4.19%】納指科技ETF景順公告，2026年第三季度基金份額淨值增長率為4.19%，業績比較基準收益率為4.48%；本期利潤6.36億元，期末基金資產淨值160.83億元。
-
----
-
-### 2026-10-26 19:13:02  #公司 #市場
-
-【世紀恆通：內外部環境未發生重大變化】世紀恆通公告，公司股票於2026年10月23日、10月26日連續兩個交易日收盤價格漲幅偏離值累計超過30％，構成異常波動。經核查，公司目前經營情況正常，內外部經營環境未發生重大變化。
-
----
-
-### 2026-10-26 19:12:58  #公司
-
-【大燁智慧：陳杰終止協議轉讓2535萬股】大燁智慧公告，陳杰此前擬將持有的公司2535萬股（佔公司當前總股本的8.00%）協議轉讓給中勝崢盈管理的基金。近日，雙方簽署《股份轉讓協議終止協議書》，約定原協議自終止協議書生效之日起終止，尚未履行的義務不再履行；相關股份尚未辦理過戶登記，深圳證券交易所出具的《上市公司股份協議轉讓確認書》已過有效期。本次終止不會導致公司控制權發生變更。
-
----
-
-### 2026-10-26 19:12:53  #國際
-
-【湯加附近海域發生5.8級地震】據歐洲與地中海地震中心測定，當地時間10月26日23時28分，湯加內亞富東北266公里處海域發生5.8級地震，震源深度75公里，震中位於南緯17.087度，西經172.083度。（央視新聞）
-
----
-
-### 2026-10-26 19:12:48  #公司
-
-【金剛光伏：歐昊新能源簽訂4.8億元採購合同】金剛光伏公告，公司全資孫公司歐昊新能源電力（甘肅）有限責任公司與供應商A、供應商B簽訂採購合同，分別採購GPU卡及GPU卡、伺服器，合同含稅金額分別為人民幣3.48億元、1.32億元，合計4.8億元。採購裝置主要用於向客戶提供算力服務。
-
----
-
-### 2026-10-26 19:12:43  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish #Nasdaq100
-
-Meta Platforms (META.O) turned positive in pre-market trade, now up over 1%.
-
----
-
-### 2026-10-26 19:12:36  #公司
-
-【深科技：擬掛牌出售昂納科技17.034%股權】深科技公告，公司擬透過深圳聯合產權交易所公開掛牌出售所持昂納科技全部股權，共6402.66萬股，佔昂納科技股份總數17.034%。掛牌底價不低於昂納科技全部股東權益評估值人民幣130.1億元的17.034%。相關議案已獲董事會審議透過，尚需股東會審議。
-
----
-
-### 2026-10-26 19:12:19  #其他
-
-約旦內政大臣表示，對教堂襲擊事件的調查正在進行中。
-
----
-
-### 2026-10-26 19:12:03  #MKT News #Important #Star Stocks #NVIDIA #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish
-
-Market sources said NVIDIA (NVDA.O), AMD (AMD.O) and Broadcom (AVGO.O) are considering buying up to $5 bln of Meta Platforms (META.O) stock.
-
----
-
-### 2026-10-26 19:11:23  #市場 #焦點
-
-【Meta美股盤前轉漲，此前一度跌近4%】META股票抹去了早前的跌幅，上漲1.4%，此前一度跌近4%。
-
----
-
-### 2026-10-26 19:11:07  #央行 #其他
-
-巴基斯坦央行：預計2027財年實際GDP增速將保持在先前預測的3.5%至4.5%區間內。
-
----
-
-### 2026-10-26 19:11:04  #公司
-
-【國民技術：2026年第三季度淨利潤457.56萬元，同比增長112.38%】國民技術公告，2026年第三季度營業收入6.13億元，同比增長87.74%；歸母淨利潤457.56萬元，同比增長112.38%；扣非淨利潤2226.99萬元，同比增長149.87%。2026年前三季度營業收入15.19億元，同比增長58.50%；歸母淨利潤899.05萬元，2025年同期虧損7374.09萬元，同比扭虧為盈；扣非淨利潤虧損129.88萬元，2025年同期虧損8781.33萬元。
-
----
-
-### 2026-10-26 19:10:55  #公司
-
-【恆寶股份：2026年第三季度淨利潤虧損2598.39萬元】恆寶股份公告，2026年第三季度營業收入1.46億元，同比下降20.72%；淨利潤虧損2598.39萬元，扣非淨利潤虧損3055.51萬元。2026年前三季度營業收入4.35億元，同比下降29.18%；淨利潤虧損7177.9萬元，扣非淨利潤虧損8974.86萬元。
-
----
-
-### 2026-10-26 19:10:51  #公司
-
-【海洋王：2026年第三季度淨利潤3423.01萬元，同比增長196.44%】海洋王公告，2026年第三季度營業收入3.17億元，同比增長0.88%；歸母淨利潤3423.01萬元，同比增長196.44%；扣非淨利潤虧損2291.98萬元。2026年前三季度營業收入10.77億元，同比下降3.93%；歸母淨利潤6263.81萬元，同比增長14.32%；扣非淨利潤虧損1630.31萬元。
-
----
-
-### 2026-10-26 19:10:48  #公司
-
-【四川九洲：2026年第三季度淨利潤1937.37萬元，同比下降77.02%】四川九洲公告，2026年第三季度營業收入12.47億元，同比增長6.02%；歸屬於上市公司股東的淨利潤1937.37萬元，同比下降77.02%；扣非淨利潤1093.29萬元，同比增長4.12%。2026年前三季度營業收入38.43億元，同比增長14.96%；歸屬於上市公司股東的淨利潤1.01億元，同比下降28.56%；扣非淨利潤5954.35萬元，同比增長21.46%。
-
----
-
-### 2026-10-26 19:10:45  #公司
-
-【紫光國微：2026年第三季度淨利潤2.48億元，同比下降56.63%】紫光國微公告，2026年第三季度營業收入14.14億元，同比下降23.85%；歸母淨利潤2.48億元，同比下降56.63%；扣非淨利潤2.14億元，同比下降57.91%。2026年前三季度營業收入48.58億元，同比下降0.95%；歸母淨利潤10.45億元，同比下降17.23%；扣非淨利潤9.22億元，同比下降20.69%。公司稱，積體電路業務銷售量同比減少導致營業收入減少，產品結構變化導致毛利率下降、毛利額下降。
-
----
-
-### 2026-10-26 19:10:16  #MKT News
-
-Pakistan central bank governor said foreign exchange reserves will reach $23 billion by December 2026 and $25 billion by June 2027.
-
----
-
-### 2026-10-26 19:09:58  #市場
-
-Meta Platforms(META.O)盤前跌幅快速收窄，現跌0.5%，此前一度跌近4%。
-
----
-
-### 2026-10-26 19:09:57  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-Meta Platforms (META.O) pre-market losses narrowed; stock is down 0.5% after an earlier slide of nearly 4%.
-
----
-
-### 2026-10-26 19:09:51  #公司
-
-【新研股份：2026年第三季度歸母淨利潤虧損2723.55萬元】新研股份公告，2026年第三季度營業收入3.55億元，同比增長27.92%；歸母淨利潤虧損2723.55萬元，扣非淨利潤虧損3472.78萬元。2026年前三季度營業收入5.56億元，同比增長35.76%；歸母淨利潤虧損100.02萬元，扣非淨利潤虧損8930.03萬元。公司稱，營業收入增長主要系農機訂單增長及可控核聚變專案交付驗收所致。
-
----
-
-### 2026-10-26 19:09:46  #公司
-
-【潔美科技：董事會同意建設7.68億平方米高階離型膜專案】潔美科技公告，公司於2026年10月26日召開第五屆董事會第十二次會議，審議透過投資建設年產4萬噸光學級BOPET膜及年產7.68億平方米高階離型膜專案，專案投資總額26.84億元，尚需提交公司股東會審議。
-
----
-
-### 2026-10-26 19:09:31  #公司
-
-【博彥科技：2026年第三季度淨利潤4805.44萬元，同比下降19.73%】博彥科技公告，2026年第三季度營業收入15.47億元，同比下降4.73%；歸屬於上市公司股東的淨利潤4805.44萬元，同比下降19.73%；扣非淨利潤4665.23萬元，同比下降11.07%。2026年前三季度營業收入46.55億元，同比下降6.35%；歸屬於上市公司股東的淨利潤1.18億元，同比下降35.35%；扣非淨利潤1.09億元，同比下降31.62%。
-
----
-
-### 2026-10-26 19:09:10  #國際
-
-紐交所美國板：軟體缺陷觸發排隊，已處理軟體缺陷。
-
----
-
-### 2026-10-26 19:09:06  #Trading Economics #Economy #Pakistan #Interest Rate #Importance 1
-
-Pakistan Raises Policy Rate to 12% — The State Bank of Pakistan raised its benchmark policy rate by 50 basis points to 12.0% on October 26, 2026. This marked its first increase since April, as rising energy and food costs threatened to delay disinflation. The decision reflected concerns over inflationary pressures stemming from the US-Iran conflict, with oil prices above $100 per barrel and increased risks of second-round effects across the economy. Inflation has remained above the central bank’s 5%-7% target range for seven consecutive months. However, higher borrowing costs could weigh on an economic recovery that has already shown signs of losing momentum.
-
----
-
-### 2026-10-26 19:08:55  #公司
-
-【維通利：2026年第三季度淨利潤1.13億元，同比增長46.39%】維通利公告，2026年第三季度營業收入12.05億元，同比增長50.26%；歸母淨利潤1.13億元，同比增長46.39%；扣非淨利潤1.13億元，同比增長47.45%。2026年前三季度營業收入28.81億元，同比增長30.23%；歸母淨利潤2.49億元，同比增長15.17%；扣非淨利潤2.46億元，同比增長12.08%。
-
----
-
-### 2026-10-26 19:08:49  #公司
-
-【思泰克：2026年第三季度淨利潤1145.35萬元，同比下降65.34%】思泰克公告，2026年第三季度營業收入1.32億元，同比增長7.80%；歸母淨利潤1145.35萬元，同比下降65.34%；扣非淨利潤999.43萬元，同比下降68.17%。2026年前三季度營業收入3.58億元，同比增長14.87%；歸母淨利潤6525.54萬元，同比下降16.13%；扣非淨利潤6082.64萬元，同比下降16.86%。剔除股份支付費用影響後，第三季度及年初至報告期末歸母淨利潤均同比增長。
-
----
-
-### 2026-10-26 19:08:46  #公司
-
-【鋒龍股份：2026年第三季度淨利潤2054.02萬元，同比增長231.06%】鋒龍股份公告，2026年第三季度營業收入1.31億元，同比增長7.29%；淨利潤2054.02萬元，同比增長231.06%。2026年前三季度營業收入3.98億元，同比增長6.75%；淨利潤1852.51萬元，同比下降13.91%。
-
----
-
-### 2026-10-26 19:08:41  #公司
-
-【深紡織Ａ：2026年第三季度淨利潤2445.63萬元，同比增長1.02%】深紡織Ａ公告，2026年第三季度營業收入7.95億元，同比下降8.00%；歸屬於上市公司股東的淨利潤2445.63萬元，同比增長1.02%；扣非淨利潤1940.07萬元，同比下降13.49%。2026年前三季度營業收入23.84億元，同比下降3.28%；歸屬於上市公司股東的淨利潤7523.24萬元，同比增長26.56%；扣非淨利潤6329.37萬元，同比增長32.93%。
-
----
-
-### 2026-10-26 19:08:39  #其他
-
-巴基斯坦國家銀行行長：預計到12月外匯儲備將達230億美元。
-
----
-
-### 2026-10-26 19:08:36  #公司
-
-【盛龍股份：2026年第三季度淨利潤3.11億元，同比增長52.38%】盛龍股份公告，2026年第三季度營業收入9.89億元，同比增長42.66%；歸母淨利潤3.11億元，同比增長52.38%；扣非淨利潤3.09億元，同比增長53.32%。2026年前三季度營業收入34.56億元，同比增長15.86%；歸母淨利潤10.16億元，同比增長25.80%；扣非淨利潤10.09億元，同比增長26.33%。
-
----
-
-### 2026-10-26 19:08:24  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish
-
-Meta Platforms (META.O): investing to expand infrastructure and compute capacity to support related opportunities.
-
----
-
-### 2026-10-26 19:08:14  #公司
-
-【林洋能源：2026年1-9月發電量13.82億千瓦時】林洋能源公告，公司2026年1-9月新能源電站發電量13.82億千瓦時，上網電量和結算電量均為13.18億千瓦時；截至2026年9月底，新能源電站累計發電量173.05億千瓦時，上網電量和結算電量均為165.66億千瓦時。
-
----
-
-### 2026-10-26 19:08:10  #公司
-
-【林洋能源：2026年第三季度淨利潤1349.75萬元，同比下降61.41%】林洋能源公告，2026年第三季度營業收入13.31億元，同比增長11.58%；歸母淨利潤1349.75萬元，同比下降61.41%；扣非淨利潤4077.92萬元，同比下降42.30%。2026年前三季度營業收入58.57億元，同比增長59.42%；歸母淨利潤4.4億元，同比增長22.63%；扣非淨利潤3.04億元，同比下降21.70%。
-
----
-
-### 2026-10-26 19:08:04  #其他
-
-Meta：預計2026年資本支出為1350億至1450億美元（區間下限上調了50億美元）。
-
----
-
-### 2026-10-26 19:07:33  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact mixed
-
-Meta Platforms (META.O) expects 2026 capital expenditure of $135–$145 billion; raised the range's lower bound by $5 billion.
-
----
-
-### 2026-10-26 19:07:24  #公司
-
-【天德鈺：2026年第三季度淨利潤1.14億元，同比增長167.13%】天德鈺公告，2026年第三季度營業收入7.58億元，同比增長54.67%；歸母淨利潤1.14億元，同比增長167.13%；扣非淨利潤1.14億元，同比增長182.25%。2026年前三季度營業收入19.63億元，同比增長15.61%；歸母淨利潤2.52億元，同比增長29.31%；扣非淨利潤2.49億元，同比增長33.79%。
-
----
-
-### 2026-10-26 19:07:21  #公司
-
-【芯朋微：擬以人民幣1500萬元至人民幣3000萬元回購公司股份】芯朋微公告，擬透過集中競價交易方式回購公司股份，回購資金總額不低於人民幣1500萬元（含）、不超過人民幣3000萬元（含），回購價格不超過人民幣114.42元/股（含）。回購股份全部用於維護公司價值及股東權益，回購期限為董事會審議透過回購方案之日起3個月內；回購股份將在披露回購結果暨股份變動公告12個月後出售，並在公告披露後3年內完成出售。若未能在規定期限內完成出售，未出售部分將履行相關程式予以登出。
-
----
-
-### 2026-10-26 19:07:15  #公司
-
-【中鋁國際：中標越南年產240萬噸氧化鋁專案】中鋁國際公告，2026年10月23日，公司中標越南平福礦業股份有限公司年產240萬噸氧化鋁專案，發包形式為EPC總承包，合同總價8.33億美元，摺合人民幣約55.95億元；公司尚未與相關單位簽署合同，最終合同價格以雙方簽署的EPC合同約定為準。
-
----
-
-### 2026-10-26 19:06:54  #公司
-
-【金鷹重工：2026年第三季度淨利潤7066.22萬元，同比增長131.75%】金鷹重工公告，2026年第三季度營業收入8.25億元，同比增長10.41%；歸屬於上市公司股東的淨利潤7066.22萬元，同比增長131.75%；扣非淨利潤7051.5萬元，同比增長142.90%。2026年前三季度營業收入23.51億元，同比增長10.08%；歸屬於上市公司股東的淨利潤1.72億元，同比增長37.15%；扣非淨利潤1.72億元，同比增長39.57%。
-
----
-
-### 2026-10-26 19:06:50  #公司
-
-【振東製藥：收購龍創基藥業股權擬分三次交割，首期20%】振東製藥公告，公司此前披露擬受讓廣東龍創基藥業有限公司53.985%股權，原協議約定一次性交割。公司於2026年10月26日經董事會審議透過變更方案，擬調整為分三次交割：產品連續三批工藝驗證生產並透過GMP符合性檢查後，支付總價款的20%並受讓10.7970%股權；取得《藥品註冊證書》後支付70%；交付技術資料後支付10%。
-
----
-
-### 2026-10-26 19:06:45  #公司
-
-【航宇微：2026年第三季度淨利潤虧損1751.54萬元】航宇微公告，2026年第三季度營業收入4214.47萬元，同比下降33.43%；歸母淨利潤虧損1751.54萬元，扣非淨利潤虧損2256.59萬元。2026年前三季度營業收入1.58億元，同比下降22.09%；歸母淨利潤虧損5774.67萬元，扣非淨利潤虧損6296.37萬元。
-
----
-
-### 2026-10-26 19:06:31  #公司
-
-【雙環傳動：前三季度淨利潤同比增長2.40%】雙環傳動(002472.SZ)公告稱，第三季度營業收入為25.59億元，同比增長14.40%；歸屬於上市公司股東的淨利潤為3.33億元，同比增長3.76%。前三季度實現營業收入71.18億元，同比增長10.08%；歸屬於上市公司股東的淨利潤9.20億元，同比增長2.40%。公司Q3淨利潤3.33億，Q2淨利潤3.03億，據此計算，Q3淨利潤環比增長10%。
-
----
-
-### 2026-10-26 19:06:26  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O): AI presents significant opportunities across its core business and in new products and services.
-
----
-
-### 2026-10-26 19:06:07  #公司
-
-【透景生命：2026年第三季度淨利潤954.25萬元，同比增長216.43%】透景生命公告，2026年第三季度營業收入1億元，同比增長1.75%；歸母淨利潤954.25萬元，同比增長216.43%；扣非淨利潤566.1萬元，同比增長74.86%。2026年前三季度營業收入2.88億元，同比增長11.65%；歸母淨利潤2101.91萬元，同比增長263.97%；扣非淨利潤1161.34萬元，同比增長745.69%。
 
 ---
