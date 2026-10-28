@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-29 06:54:35",
-  "count": 13055,
+  "updated": "2026-10-29 06:58:33",
+  "count": 13054,
   "items": [
+    {
+      "id": "5177359",
+      "time": "2026-10-29 06:54:22",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【首批券商三季報出爐，頭部券商盈利韌性凸顯】近期，券商三季報陸續披露。截至10月28日，已有7家券商和4家券商母公司的前三季度業績浮出水面（剔除了無去年可比資料的國盛證券）。從目前已披露前三季度業績的券商來看，7家券商中，僅中信證券、華西證券實現營收、淨利潤同比雙增長。同期，多家中小券商業績有所承壓。前三季度，國元證券、東興證券營收均較去年同期略有下滑，但歸母淨利潤分別同比增長3.36%、0.75%；江海證券、信達證券、東北證券營收分別同比增長10.77%、9.48%、1.95%，但歸母淨利潤均不及去年同期水平。（證券日報）"
+    },
     {
       "id": "mkt:01a184b8-519c-7ee0-a9cd-1d72fa516f02",
       "time": "2026-10-29 06:53:54",
@@ -117687,22 +117696,6 @@
         "MKT News"
       ],
       "text": "【U.S. and Israel have post-midterms plan for strikes on Iran; energy, nuclear sites cited】The New York Times, citing U.S. officials and others, reports U.S. and Israeli militaries have drawn up specific plans to strike Iran after the U.S. midterm elections. Preparations include intensified exercises and warplanes flying over Iraqi airspace to rehearse strikes. U.S. Defense Secretary Hegseth met Prime Minister Netanyahu this week to discuss the plans. Potential targets cited include Iranian energy infrastructure, nuclear facilities, and missile and drone stockpiles. Some officials say a further large-scale strike could push Iran’s economy toward collapse and compel concessions in diplomatic talks after nearly eight months of conflict."
-    },
-    {
-      "id": "5159460",
-      "time": "2026-10-22 06:58:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國駐沙特使團：針對沙特的敵對行動或迅速升級】美國駐沙烏地阿拉伯使團21日釋出安全提醒說，葉門胡塞武裝對沙特持續展開敵對行動，襲擊民用機場及其他關鍵基礎設施，造成平民傷亡、嚴重干擾出行，“這些敵對行動可能迅速升級並蔓延”。（新華社）"
-    },
-    {
-      "id": "5159459",
-      "time": "2026-10-22 06:55:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "康卡斯特計劃進行大規模裁員，作為重組的一部分。"
     }
   ]
 }
