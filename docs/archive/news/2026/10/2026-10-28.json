@@ -1,7 +1,131 @@
 {
   "date": "2026-10-28",
-  "count": 879,
+  "count": 893,
   "items": [
+    {
+      "id": "5174432",
+      "time": "2026-10-28 09:43:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破111美元/桶，日內漲1.46%。"
+    },
+    {
+      "id": "5174431",
+      "time": "2026-10-28 09:43:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破111美元/桶，日內漲1.46%。"
+    },
+    {
+      "id": "5174430",
+      "time": "2026-10-28 09:42:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲2%，現報6466.00點。"
+    },
+    {
+      "id": "5174429",
+      "time": "2026-10-28 09:42:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報6536.00點。"
+    },
+    {
+      "id": "5174428",
+      "time": "2026-10-28 09:42:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲1%，現報4031.40點。"
+    },
+    {
+      "id": "mkt:01a1802b-741b-7ee0-a9a8-7f6d2080f5ce",
+      "time": "2026-10-28 09:41:33",
+      "tags": [
+        "MKT News",
+        "USDILS",
+        "Impact bullish"
+      ],
+      "text": "USD/ILS up about 1% at 3.084 after Israeli exit polls showed a tight race, signaling a setback for Prime Minister Netanyahu."
+    },
+    {
+      "id": "mkt:01a1802b-6273-7ee0-a9a8-7756629552ad",
+      "time": "2026-10-28 09:41:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share snow-and-ice sector pulled back; Bingshan Cold & Heat tumbled over 6%, Tongda Chuangzhi, Snowman Group and Jilin Chemical Fiber dropped more than 4%, while Huafa and Longjian also declined."
+    },
+    {
+      "id": "5174422",
+      "time": "2026-10-28 09:41:11",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數上漲6%，至5,978.51點。三星電子漲9%，SK海力士漲超8%。"
+    },
+    {
+      "id": "5174421",
+      "time": "2026-10-28 09:40:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "光刻機板塊上揚，新萊應材上漲6.13%，超純應材上漲6.06%，百傲化學上漲5.34%，高凱技術、茂萊光學、路維光電漲超4%。"
+    },
+    {
+      "id": "mkt:01a1802a-339c-7ee0-a9a8-6f0eaf648269",
+      "time": "2026-10-28 09:40:11",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share humanoid-robot sector opened higher in early trade; Fuhan Microelectronics, Haon Auto Electric, Ningbo Dongli and Wuzhou Xinchun were among several stocks that hit the daily up-limit, while Danghong Technology rose over 9%."
+    },
+    {
+      "id": "5174415",
+      "time": "2026-10-28 09:40:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美元兌謝克爾匯率現上漲1%，報3.084；以色列出口民調顯示選情陷入膠著，預示內塔尼亞胡遭遇挫折。"
+    },
+    {
+      "id": "mkt:01a18029-e15d-7ee0-a9a8-6249f16ebec0",
+      "time": "2026-10-28 09:39:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Coke most-active futures contract rose 2.00% intraday to 1,930.50 yuan/t."
+    },
+    {
+      "id": "5174414",
+      "time": "2026-10-28 09:39:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【食品飲料板塊震盪下挫 安記食品跌停】早盤食品飲料板塊震盪下挫，安記食品跌停，皇臺酒業觸及跌停，一鳴食品、桂發祥、金徽酒、萬辰集團、金種子酒均跌超5%。"
+    },
     {
       "id": "5174406",
       "time": "2026-10-28 09:38:26",
@@ -50,6 +174,15 @@
         "公司"
       ],
       "text": "港股儲存概念盤初上揚，南方兩倍做多三星電子(07747)漲超18%，南方東英SK海力士(07709)漲超14%，江波龍(09976.HK)、瀾起科技(06809.HK)漲超6%，兆易創新(03986.HK)漲超5%。"
+    },
+    {
+      "id": "em:qqyh_ozlc:202610283911188998",
+      "time": "2026-10-28 09:36:43",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "【澳大利亞聯儲主席稱通脹風險上升 暗示未來或需進一步加息】10月28日，澳大利亞儲備銀行行長米歇爾·布洛克表示，中東衝突推高全球能源價格，人工智慧熱潮及極端天氣也加大部分商品價格上漲壓力，澳大利亞通脹可能高於該行8月預測。澳大利亞通脹近期維持在3.5%至4%，高於2%至3%的目標區間。布洛克稱，國內產能壓力和生產率增長疲弱也加劇通脹，貨幣政策委員會下週將評估此前加息是否足以推動通脹迴歸目標。今年澳聯儲已累計加息100個基點。"
     },
     {
       "id": "5174389",
