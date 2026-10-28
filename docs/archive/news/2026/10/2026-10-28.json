@@ -1,7 +1,58 @@
 {
   "date": "2026-10-28",
-  "count": 644,
+  "count": 650,
   "items": [
+    {
+      "id": "5174089",
+      "time": "2026-10-28 08:37:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：正以高度警惕密切關注市場趨勢。"
+    },
+    {
+      "id": "mkt:01a17ff0-141e-7ee0-a9a5-b2ed4deab6ec",
+      "time": "2026-10-28 08:36:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "JPM.O",
+        "Impact bullish",
+        "C.O"
+      ],
+      "text": "Market sources: ANTHROPIC has tapped JP Morgan to lead the U.S. retail allocation of its IPO and CITIGROUP to handle the international retail allocation. ANTHROPIC is considering offering 15-20% of the IPO to retail investors."
+    },
+    {
+      "id": "5174080",
+      "time": "2026-10-28 08:36:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "村田製作所與埃森哲簽署為期三年的戰略合作協議。"
+    },
+    {
+      "id": "mkt:01a17fef-1972-7ee0-a9a5-ae5435e9bd05",
+      "time": "2026-10-28 08:35:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "AUDUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【RBA Governor Bullock: next week's meeting will assess if four hikes this year can return inflation to target】Reserve Bank of Australia Governor Bullock said on Wednesday the RBA will use next week’s policy meeting to assess whether four rate increases this year are sufficient to return inflation to target within a reasonable time. He warned a fresh, sharp rise in oil and related product prices will materially lift inflation and said the key question is whether tightening to date will be enough to achieve that return in a reasonable timeframe."
+    },
+    {
+      "id": "5174074",
+      "time": "2026-10-28 08:35:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以色列大選難分勝負 組閣前景充滿挑戰】以色列自2023年遭遇哈馬斯襲擊以來首次舉行大選，現任總理本雅明·內塔尼亞胡與反對派領導人加迪·埃森科特勢均力敵，組閣前景勢將充滿挑戰。當地時間週二晚間投票結束後公佈的兩項出口民調顯示，內塔尼亞胡領導的右翼聯盟與埃森科特陣營均有望在以色列議會120個席位中獲得51席。第三項出口民調則顯示內塔尼亞胡略微領先，此前該民調一度顯示埃森科特領先。這意味著雙方都達不到成為下一任總理所需的多數席位門檻。如果不進行第二次投票，雙方都將難以組建執政聯盟。計票工作仍在進行，最終結果可能發生變化。內塔尼亞胡領導的利庫德集團料將成為議會第一大黨，而埃森科特領導的正直黨排名第二。出口民調顯示，可能成為組閣關鍵力量的兩個以色列阿拉伯政黨預計將獲得18席，高於預期。這兩個政黨都表示會在一定程度上支援埃森科特。"
+    },
     {
       "id": "mkt:01a17fed-eac3-7ee0-a9a5-a7e485b73392",
       "time": "2026-10-28 08:34:20",
@@ -151,6 +202,15 @@
         "其他"
       ],
       "text": "SK海力士：主要客戶的人工智慧收入和現金流將有所改善。"
+    },
+    {
+      "id": "em:jjsj_ozsj:202610283910915884",
+      "time": "2026-10-28 08:30:34",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "澳大利亞第三季度消費者價格環比增長1.3%，預估為1.2%。"
     },
     {
       "id": "mkt:01a17fea-489a-7ee0-a9a5-5d95d09efdfb",

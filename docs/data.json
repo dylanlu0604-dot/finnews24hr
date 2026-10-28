@@ -1,7 +1,58 @@
 {
-  "updated": "2026-10-28 08:34:52",
-  "count": 13032,
+  "updated": "2026-10-28 08:38:39",
+  "count": 13024,
   "items": [
+    {
+      "id": "5174089",
+      "time": "2026-10-28 08:37:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：正以高度警惕密切關注市場趨勢。"
+    },
+    {
+      "id": "mkt:01a17ff0-141e-7ee0-a9a5-b2ed4deab6ec",
+      "time": "2026-10-28 08:36:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "JPM.O",
+        "Impact bullish",
+        "C.O"
+      ],
+      "text": "Market sources: ANTHROPIC has tapped JP Morgan to lead the U.S. retail allocation of its IPO and CITIGROUP to handle the international retail allocation. ANTHROPIC is considering offering 15-20% of the IPO to retail investors."
+    },
+    {
+      "id": "5174080",
+      "time": "2026-10-28 08:36:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "村田製作所與埃森哲簽署為期三年的戰略合作協議。"
+    },
+    {
+      "id": "mkt:01a17fef-1972-7ee0-a9a5-ae5435e9bd05",
+      "time": "2026-10-28 08:35:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "AUDUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【RBA Governor Bullock: next week's meeting will assess if four hikes this year can return inflation to target】Reserve Bank of Australia Governor Bullock said on Wednesday the RBA will use next week’s policy meeting to assess whether four rate increases this year are sufficient to return inflation to target within a reasonable time. He warned a fresh, sharp rise in oil and related product prices will materially lift inflation and said the key question is whether tightening to date will be enough to achieve that return in a reasonable timeframe."
+    },
+    {
+      "id": "5174074",
+      "time": "2026-10-28 08:35:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以色列大選難分勝負 組閣前景充滿挑戰】以色列自2023年遭遇哈馬斯襲擊以來首次舉行大選，現任總理本雅明·內塔尼亞胡與反對派領導人加迪·埃森科特勢均力敵，組閣前景勢將充滿挑戰。當地時間週二晚間投票結束後公佈的兩項出口民調顯示，內塔尼亞胡領導的右翼聯盟與埃森科特陣營均有望在以色列議會120個席位中獲得51席。第三項出口民調則顯示內塔尼亞胡略微領先，此前該民調一度顯示埃森科特領先。這意味著雙方都達不到成為下一任總理所需的多數席位門檻。如果不進行第二次投票，雙方都將難以組建執政聯盟。計票工作仍在進行，最終結果可能發生變化。內塔尼亞胡領導的利庫德集團料將成為議會第一大黨，而埃森科特領導的正直黨排名第二。出口民調顯示，可能成為組閣關鍵力量的兩個以色列阿拉伯政黨預計將獲得18席，高於預期。這兩個政黨都表示會在一定程度上支援埃森科特。"
+    },
     {
       "id": "mkt:01a17fed-eac3-7ee0-a9a5-a7e485b73392",
       "time": "2026-10-28 08:34:20",
@@ -151,6 +202,15 @@
         "其他"
       ],
       "text": "SK海力士：主要客戶的人工智慧收入和現金流將有所改善。"
+    },
+    {
+      "id": "em:jjsj_ozsj:202610283910915884",
+      "time": "2026-10-28 08:30:34",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "澳大利亞第三季度消費者價格環比增長1.3%，預估為1.2%。"
     },
     {
       "id": "mkt:01a17fea-489a-7ee0-a9a5-5d95d09efdfb",
@@ -116896,141 +116956,6 @@
         "Importance 2"
       ],
       "text": "Japanese Stocks Rally on AI Optimism — The Nikkei 225 Index jumped 2% to above 65,000 on Wednesday, rebounding from one-month lows, with AI-related shares leading the gains as strong results from server manufacturer Super Micro Computer boosted the spending outlook for AI spending. Robust earnings from Elon Musk’s SpaceX, driven by growth in its AI and satellite internet businesses, also supported sentiment towards the sector. Among the top tech performers in Japan were Kioxia Holdings (5.1%), Advantest (4.8%), SoftBank Group (3.5%), Lasertec (3.2%), and Taiyo Yuden (2.7%). Financial stocks also rebounded, with Mitsubishi UFJ rising 1.6% and Sumitomo Mitsui gaining 1.4%. Meanwhile, data showed that Japanese exports increased 16.7% in September, falling short of the 20.1% forecast and marking the slowest growth since April. Still, exports extended their growth streak to 13 consecutive months, supported by strong demand for semiconductors and AI-related products."
-    },
-    {
-      "id": "5157139",
-      "time": "2026-10-21 08:38:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【韓國出口保持強勁增勢 央行利率決議前夕凸顯經濟韌性】韓國10月出口保持強勁增長勢頭，全球對人工智慧的旺盛需求推動半導體出貨量增長，在央行作出利率決定前夕凸顯了經濟的韌性。據海關週三公佈的資料，經工作日差異調整後，10月前20天的出口同比增長65.9%。9月同期增幅為89.8%。未經調整的資料顯示，出口增長105.4%，進口增長42.8%，貿易順差145億美元。本月前20天出口總額616億美元，9月同期出口額為714億美元。由於今年的中秋節假期在9月，去年在10月，因此同比資料存在偏差，經工作日調整後的資料更能反映潛在趨勢。半導體行業依然是經濟增長的主要引擎，晶片出口額較上年同期飆升222.5%，達到275億美元。石油產品出口增長68.3%，汽車出口增長近41%。這些資料進一步印證了經濟由半導體行業驅動，同時也令通脹保持高位。這些資料還將為韓國央行提供重要考量因素，該行將在週四公佈利率決議。市場普遍預期韓國央行將維持政策不變，因為該行正在權衡近期加息的影響。"
-    },
-    {
-      "id": "mkt:01a15be5-25cf-7ee0-a913-f1697b41ed18",
-      "time": "2026-10-21 08:38:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. Commerce Secretary announced new semiconductor manufacturing investment in North Carolina."
-    },
-    {
-      "id": "5157138",
-      "time": "2026-10-21 08:38:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【和譽醫藥Lavengratinib治療軟骨發育不全獲EMA授予孤兒藥資格】10月21日，和譽醫藥宣佈，公司自主研發的選擇性口服小分子FGFR2/3抑制劑lavengratinib（ABSK061）用於治療軟骨發育不全（Achondroplasia，ACH）已獲得歐洲藥品管理局（European Medicines Agency，EMA）授予的孤兒藥資格（Orphan Designation，OD）。"
-    },
-    {
-      "id": "5157137",
-      "time": "2026-10-21 08:37:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國10月出口保持強勁增長勢頭，半導體行業依然是經濟增長的主要引擎，晶片出口額較上年同期飆升222.5%，達到275億美元。石油產品出口增長68.3%，汽車出口增長近41%。"
-    },
-    {
-      "id": "mkt:01a15be4-6097-7ee0-a913-ed5c68a39d57",
-      "time": "2026-10-21 08:37:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Katayama said the government is coordinating closely with the Bank of Japan and there are no major differences on the inflation outlook or policy."
-    },
-    {
-      "id": "5157136",
-      "time": "2026-10-21 08:37:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長宣佈在北卡羅來納州進行與半導體生產相關的新投資。"
-    },
-    {
-      "id": "mkt:01a15be4-222d-7ee0-a913-e3f4b65795ad",
-      "time": "2026-10-21 08:37:19",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225"
-      ],
-      "text": "Japan's finance minister Katayama said tax cuts would boost demand and push up prices."
-    },
-    {
-      "id": "mkt:01a15be4-1475-7ee0-a913-dbeee65a25cc",
-      "time": "2026-10-21 08:37:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's finance minister Katayama said the government will ensure proactive, responsible fiscal policy to strengthen Japan's supply capacity and will not accelerate inflation."
-    },
-    {
-      "id": "5157135",
-      "time": "2026-10-21 08:36:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本民眾集會反對高市政權擴軍修憲】當地時間20日晚，部分日本民眾在國會前舉行集會，反對高市政權的軍事擴張和修憲動向，呼籲維護和平。另外還有民眾對於高市內閣的經濟政策表示不滿。（央視）"
-    },
-    {
-      "id": "5157134",
-      "time": "2026-10-21 08:35:39",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：看好紅利風格加持以及供給偏緊下的煤炭板塊行情】中信證券預測所跟蹤的樣本煤炭上市公司2026年三季度淨利潤加總環比增長約27%，2026年前三季度同比增長約42%，預計焦煤、無煙煤公司業績增速或有更好的彈性。短期保供政策雖有疊加，但認為供給偏緊的格局扭轉需要時間，四季度煤價將環比仍有增長，盈利繼續改善。中信證券繼續看好紅利風格加持以及供給偏緊下的板塊行情。"
-    },
-    {
-      "id": "5157133",
-      "time": "2026-10-21 08:35:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華寶股份：關於收購上海奕方部分股權相關事項，公司正積極配合法院推進執行工作】華寶股份10月21日在互動平臺表示，關於收購上海奕方部分股權相關事項，公司正積極配合法院推進執行工作，並根據事項進展嚴格按照法律法規及時履行資訊披露義務。"
-    },
-    {
-      "id": "5157132",
-      "time": "2026-10-21 08:35:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛施德：公司當前流動性狀況整體可控，不存在重大流動性風險】愛施德10月21日在互動平臺表示，公司短期借款與貨幣資金賬面資料呈現的期限結構差異，屬於業務經營過程中階段性的資金時點表現。公司當前流動性狀況整體可控，各項償債安排有序落實，不存在重大流動性風險。後續公司將持續加強流動性精細化管理，切實保障公司財務安全。"
-    },
-    {
-      "id": "5157131",
-      "time": "2026-10-21 08:35:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【調查：韓國央行料將於週四按兵不動】調查顯示，市場普遍預計韓國央行將在週四的政策會議上維持政策利率不變，在7月和8月連續加息後暫停行動。媒體調查的全部23位經濟學家均預計韓國央行將把利率維持在3.00%，其中多數預計該央行將在2027年底前再加息一次。"
-    },
-    {
-      "id": "mkt:01a15be1-e836-7ee0-a913-d094a72bf832",
-      "time": "2026-10-21 08:34:53",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish",
-        "Brent",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "【Japan September exports +16.7% YoY; chips and autos strong】Japan's exports rose 16.7% YoY in September, driven by stronger chip and auto shipments, the Finance Ministry said Wednesday, below economists' median forecast of 21.3%. Imports rose 18.9% YoY versus a 20.4% forecast. The non-seasonally-adjusted trade deficit narrowed to ¥536bn in September (about $3.4bn) from a ¥1.1trn shortfall in August. Exports to the US climbed 22.9% YoY and to the EU 10.5%. Crude import value surged 51% YoY as sustained high international oil prices amid Middle East tensions lifted Japan's oil bill."
     }
   ]
 }
