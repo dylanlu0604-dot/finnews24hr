@@ -1,7 +1,103 @@
 {
-  "updated": "2026-10-29 03:45:33",
-  "count": 13075,
+  "updated": "2026-10-29 03:49:27",
+  "count": 13080,
   "items": [
+    {
+      "id": "5177175",
+      "time": "2026-10-29 03:48:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西參議員、自由黨候選人弗拉維奧·博索納羅： 離開祖國並非我的本意，但我十分清楚事情將會如何發展。"
+    },
+    {
+      "id": "mkt:01a1840e-db49-7ee0-a9cb-44585b7d5487",
+      "time": "2026-10-29 03:48:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S.-Iran 'seven-day' talks progress; mixed reports on Gulf allies' notification】Sources told NewsNation that Iran and the U.S. have held multiple intermediary rounds in recent days on a 'seven-day' plan aimed at preventing a resumption of U.S.-Iran military action after the U.S. midterm elections. Sources described talks as progressing positively but not reaching a final agreement. U.S. special envoy Witkoff and Kushner are reported to be involved. One source said if Iran rejects the proposal, Trump may have no choice but to order U.S. strikes. Sources conflict on allied notification: one said the U.S. has not informed Gulf allies of plans for short, high‑intensity post-midterm operations; the Wall Street Journal reports the U.S. has told multiple Gulf Arab states to prepare for such operations."
+    },
+    {
+      "id": "5177174",
+      "time": "2026-10-29 03:47:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴歡迎聯大再次透過決議敦促美國結束對古封鎖】古巴國家主席迪亞斯-卡內爾28日在社交媒體發文，歡迎聯合國大會再次以壓倒性多數透過決議，敦促美國立即結束對古巴長達60餘年的經濟、商業和金融封鎖。（央視新聞）"
+    },
+    {
+      "id": "5177173",
+      "time": "2026-10-29 03:47:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "博索納羅：週日晚上，我驚恐地目睹了選舉舞弊就在我眼前發生。"
+    },
+    {
+      "id": "5177172",
+      "time": "2026-10-29 03:46:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "博索納羅：我要感謝美國總統特朗普和友好的美國人民對我的歡迎。"
+    },
+    {
+      "id": "mkt:01a1840c-e50d-7ee0-a9cb-3e21bf35d050",
+      "time": "2026-10-29 03:46:39",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "【Oracle expects $30 bln FCF in FY2029; shares jump over 13% intraday】Oracle (ORCL.N) expects free cash flow of $30 billion for the fiscal year ending May 2029, well above market expectations of continued negative FCF. It forecasts data-center capacity will exceed 10 GW by the end of fiscal 2028 and plans to begin reducing capex from fiscal 2029. The company said new financing needs before May 2030 will be kept below $20 billion and reiterated a fiscal 2030 revenue target of $225 billion. Analyst Anurag Rana said the plan should ease concerns over heavy AI infrastructure spending in the next two years. Oracle shares rose as much as 13% intraday."
+    },
+    {
+      "id": "5177171",
+      "time": "2026-10-29 03:46:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "博索納羅：我以巴西真正當選總統的身份向巴西人民和國際社會發表講話。"
+    },
+    {
+      "id": "mkt:01a1840c-55f6-7ee0-a9cb-33aa105a1ee9",
+      "time": "2026-10-29 03:46:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Wash says schedule change will give Fed time to consider 'major issues'】Fed official Wash said the Federal Reserve will adjust its meeting schedule over the next few years and that the committee need not vote at every meeting. He said this will reduce the amount of rate-decision information released to the public at each meeting. Wash said the aim is to create time and space for strategic deliberation on longer-term issues and to refocus on the 'left of the decimal point.'"
+    },
+    {
+      "id": "mkt:01a1840c-1bae-7ee0-a9cb-2961652f6a44",
+      "time": "2026-10-29 03:45:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed Chair Kevin Warsh says he will not attend White House disciplinary hearing on Lisa Cook】Fed Chair Kevin Warsh said at the end of a press conference he does not plan to attend a White House disciplinary hearing the administration is seeking to schedule for next week on Fed Governor Lisa Cook. The hearing is part of President Donald Trump’s ongoing effort to remove Cook over allegations she made false statements on mortgage applications, the central basis for the removal push. Trump first sought Cook’s dismissal more than a year ago; Cook sued and the case reached the U.S. Supreme Court, which this summer ruled the president cannot remove Fed officials without cause. Trump has formed a three-member panel, led by his chief economic adviser, to investigate Cook and hold evidentiary hearings."
+    },
+    {
+      "id": "mkt:01a1840b-af6f-7ee0-a9cb-216eb8f7faae",
+      "time": "2026-10-29 03:45:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "【US DOJ probes NVIDIA acquisition of Hugging Face】The US Department of Justice is probing NVIDIA (NVDA.O)’s roughly $13bn deal to acquire AI-model firm Hugging Face, sources said. The inquiry, part of broader regulatory scrutiny of the chipmaker, is assessing how the transaction could affect competition in the AI market. The DOJ’s separate, longer-running investigation into NVIDIA’s commercial practices remains underway. NVIDIA announced the deal in September and said it aims to protect the open-source community; developers use Hugging Face to share models and data, and NVIDIA has pledged to keep the platform open as part of the transaction."
+    },
     {
       "id": "5177169",
       "time": "2026-10-29 03:45:06",
@@ -117872,52 +117968,6 @@
         "MKT News"
       ],
       "text": "United Arab Emirates senior diplomat Lana Nusseibeh has entered the race for UN secretary-general, saying she has suspended her ministerial post to devote herself full-time to the campaign."
-    },
-    {
-      "id": "5159255",
-      "time": "2026-10-22 03:48:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋高階外交官努塞貝：已暫停阿聯酋國務部長職務，全力參選聯合國秘書長。"
-    },
-    {
-      "id": "5159254",
-      "time": "2026-10-22 03:47:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋高階外交官拉娜·努賽貝宣佈加入聯合國秘書長競選。"
-    },
-    {
-      "id": "5159253",
-      "time": "2026-10-22 03:47:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將Netflix目標價從每股115.00美元下調至100.00美元，維持買入評級。"
-    },
-    {
-      "id": "mkt:01a15fff-ed14-7ee0-a930-79033acdf17a",
-      "time": "2026-10-22 03:46:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "【Oil futures mixed at close on the 21st】NYMEX December light sweet crude fell $0.67 to settle at $97.15/bbl, down 0.68%; ICE December Brent rose $0.03 to $108.82/bbl, up 0.03%."
-    },
-    {
-      "id": "5159250",
-      "time": "2026-10-22 03:45:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價21日漲跌不一】截至當天收盤，紐約商品交易所12月交貨的輕質原油期貨價格下跌67美分，收於每桶97.15美元，跌幅為0.68%；12月交貨的倫敦布倫特原油期貨價格上漲3美分，收於每桶108.82美元，漲幅為0.03%。"
     }
   ]
 }
