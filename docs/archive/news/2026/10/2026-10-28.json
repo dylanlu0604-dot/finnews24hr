@@ -1,7 +1,71 @@
 {
   "date": "2026-10-28",
-  "count": 762,
+  "count": 769,
   "items": [
+    {
+      "id": "5174291",
+      "time": "2026-10-28 09:12:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭元兌澳元下跌近2%，創2017年以來最大跌幅。"
+    },
+    {
+      "id": "5174290",
+      "time": "2026-10-28 09:11:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“阿爾納卜”已經在印度沿海登陸 後天西藏降水進入最強時段】這兩天，冷空氣影響北方多地，東北部分地區氣溫將創今年下半年來新低。月底前後還會有冷空氣接連影響我國，北方多地氣溫還會創新低。  明天（29日），受孟加拉灣熱帶系統北上輸送水汽影響，青藏高原部分地區將有較強雨雪天氣。孟加拉灣氣旋風暴“阿爾納卜”目前已經在印度沿海登陸。這個風暴會逐漸北上，強度逐漸減弱。它會帶動偏南氣流向高原輸送暖溼水汽，水汽遇到喜馬拉雅山南麓被迫抬升；與此同時，高空槽東移與風暴環流協同作用，進一步增強水汽輸送與大範圍空氣抬升，這三個因素的疊加影響下，明天夜間到31日，西藏南部會出現雨雪天氣，降水強度具有極端性。明天，西藏西部和南部有中到大雪，局地暴雪、大暴雪。"
+    },
+    {
+      "id": "te:markets:595573",
+      "time": "2026-10-28 09:11:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rally on SK Hynix Earnings — The benchmark KOSPI rose 4.70% to above 5,900 on Wednesday, extending gains for another session as revived optimism over artificial intelligence demand and strong earnings from chipmaker SK hynix lifted investor sentiment. The rally tracked overnight gains on Wall Street, where the Nasdaq Composite climbed 1.18%, and the Philadelphia Semiconductor Index jumped 3.6%. SK hynix reported a more than sevenfold increase in third-quarter operating profit to 83.33 trillion won, beating market expectations by over 7%, while announcing an additional 60 trillion won in shareholder returns. Additional upward pressure came from index heavyweights, such as Samsung Electronics (+5.74%), SK Hynix (+3.32%), LG Energy Solution (+2.88%), Hyundai Motor (+2.93%), and KB Financial (+3.39%). Meanwhile, investors remained cautious ahead of the Federal Reserve's interest rate decision early Thursday, seeking clues on the future path of US monetary policy."
+    },
+    {
+      "id": "mkt:01a1800f-cf8f-7ee0-a9a7-2d59b231c179",
+      "time": "2026-10-28 09:11:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS"
+      ],
+      "text": "SK Hynix says development and commercialization timelines for 4F² technology should be distinguished."
+    },
+    {
+      "id": "5174287",
+      "time": "2026-10-28 09:10:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國聯邦通訊委員會批准亞馬遜Leo收購Globalstar部分衛星頻譜，交易金額115億美元】當地時間10月27日，美國聯邦通訊委員會（FCC）批准亞馬遜Leo收購Globalstar約25兆赫的移動衛星服務頻譜，完成對這筆115億美元交易的監管審查。此次批准還允許亞馬遜在交易完成後，利用此前獲批的Globalstar C-3系統建設併發射衛星。"
+    },
+    {
+      "id": "5174285",
+      "time": "2026-10-28 09:09:55",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲亨特：不要預期澳大利亞會出現經濟衰退。"
+    },
+    {
+      "id": "5174280",
+      "time": "2026-10-28 09:09:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士提及 4F-square技術：技術開發和商業化時間表應該區分開來。"
+    },
     {
       "id": "mkt:01a1800d-86f6-7ee0-a9a7-25e9486a33a0",
       "time": "2026-10-28 09:08:52",
