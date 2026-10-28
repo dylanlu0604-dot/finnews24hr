@@ -1,7 +1,133 @@
 {
-  "updated": "2026-10-28 14:30:43",
-  "count": 13061,
+  "updated": "2026-10-28 14:34:36",
+  "count": 13073,
   "items": [
+    {
+      "id": "mkt:01a18136-9e0e-7ee0-a9ad-d53bc463e6f4",
+      "time": "2026-10-28 14:33:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "Monoethylene glycol (MEG) futures most-active contract hit the daily limit, up 6% at 5,276 yuan/ton."
+    },
+    {
+      "id": "mkt:01a18136-876c-7ee0-a9ad-ce661f55a77a",
+      "time": "2026-10-28 14:33:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Japan, South Korea stocks rise; KOSPI back above 6,000 on chip surge】Japan's Nikkei 225 rose 685.82 points (1.08%) to 63,954.19 on Oct 28, led by chip stocks. South Korea's KOSPI jumped 374.10 points (6.63%) to 6,012.44 on Oct 28, reclaiming the 6,000 level after 10 trading days; SK Hynix gained nearly 11% and Samsung Electronics about 9%."
+    },
+    {
+      "id": "5175021",
+      "time": "2026-10-28 14:32:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克：需建立國家戰略鈾儲備。"
+    },
+    {
+      "id": "5175020",
+      "time": "2026-10-28 14:32:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克：需保障核電站100年的鈾供應需求。"
+    },
+    {
+      "id": "5175019",
+      "time": "2026-10-28 14:31:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度石油公司預計：印度汽油需求增速將於2035年見頂】印度最大煉油企業表示，隨著電動兩輪車以及燃氣四輪車使用量上升開始抑制消費，印度汽油需求增速或將在2035年觸頂。印度石油公司董事長Arvinder Singh Sahney在果阿一場行業活動上對記者稱，乙醇在汽油中的摻混比例提高，同樣會減少該油品的消耗。他表示，汽油“正承受來自各方的壓力”。Sahney稱，印度消費量最高的成品油柴油以及航空煤油，由於替代產品匱乏，需求大機率將持續增長。石油焦、燃料油等其他油品的消費量預計也會上升。他還表示，印度石油公司正在研究相關技術，包括小型模組化反應堆，為計劃進軍核能領域做準備。"
+    },
+    {
+      "id": "mkt:01a18134-5c58-7ee0-a9ad-c13805ca06ae",
+      "time": "2026-10-28 14:30:54",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Deutsche Bank: US Treasury has taken a step toward adjusting future Treasury issuance sizes】Deutsche Bank strategists say the US Treasury has asked primary dealers for views on structural shifts in investor demand and expectations for future Treasury auction sizes — a key step toward altering issuance. DB's analysis of Treasury holdings and portfolio-weighted average maturity (WAM) shows demand for long-dated Treasuries has weakened, driven by shrinking buy-and-hold portfolios and a shift toward shorter tenors. With larger financing needs ahead and WAM near historic highs, strategists say there is increasing justification to proactively shorten the maturity profile of new issuance."
+    },
+    {
+      "id": "5175018",
+      "time": "2026-10-28 14:30:47",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市集體收漲】日經225指數收漲1.08%，報63954.19點。韓國綜指收漲6.63%，報6012.44點，時隔10個交易日重新站上6000點，SK海力士漲近11%，三星電子漲約9%。"
+    },
+    {
+      "id": "5175017",
+      "time": "2026-10-28 14:30:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "日立公司上半年淨利潤為4166.2億日元，去年同期為4728.6億日元。"
+    },
+    {
+      "id": "5175016",
+      "time": "2026-10-28 14:30:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "野村控股第二季度淨利潤1,037.3億日元，上年同期920.8億日元。"
+    },
+    {
+      "id": "5175015",
+      "time": "2026-10-28 14:30:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯電商平臺 Ozon：包括服務在內的第三季度商品交易總額（GMV）達 1.6 萬億盧布。"
+    },
+    {
+      "id": "5175014",
+      "time": "2026-10-28 14:30:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯電商平臺Ozon：為無人機襲擊物流站點造成的損失計提301億盧布準備金。"
+    },
+    {
+      "id": "5175013",
+      "time": "2026-10-28 14:30:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯電商平臺Ozon：第三季度淨利潤為37億盧布。"
+    },
+    {
+      "id": "te:markets:595669",
+      "time": "2026-10-28 14:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 1.24% Higher — The Nikkei 225 Index gained 784 points or 1.24 percent on Wednesday to close at 64053 points. Gains were led by Taiyo Yuden (7.69%), Renesas Electron (7.61%) and Sumco (6.55%)."
+    },
     {
       "id": "5175012",
       "time": "2026-10-28 14:29:08",
@@ -117337,18 +117463,6 @@
         "Importance 1"
       ],
       "text": "Indonesia Loan Growth Eases to 3-Month Low — Indonesia’s loan growth rose 13.26% year-on-year in September 2026, following a 13.36% increase in August, marking the slowest growth since June. By usage, investment loans led the expansion, growing 23.2%, followed by working capital loans (11.89%) and consumer loans (4.86%). Meanwhile, undisbursed loan facilities stood at IDR 2,562.57 trillion, equivalent to 21.70% of total credit limits. Lending prospects are also supported by steady third-party fund growth of 8.22% year-on-year. The banking industry's liquid assets-to-deposits (AL/DPK) ratio stood at 24.08% in September, while the non-performing loan ratio stood at 2.11% (gross) and 0.84% (net). The central bank expects loan growth to reach 8–12% for the full year, reflecting its accommodative macroprudential stance to support the economy."
-    },
-    {
-      "id": "te:markets:593690",
-      "time": "2026-10-21 14:32:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Poised to Open Higher — European equity markets were set to open in positive territory on Wednesday as robust earnings from major US technology companies eased concerns surrounding AI-related investments and lifted global investor sentiment. AI stocks had faced significant selling pressure in recent sessions amid growing doubts about the sustainability of heavy spending in the sector. Meanwhile, oil prices resumed their upward trend after a diplomat disputed reports that a deal to end the US-Iran conflict was imminent, keeping inflation risks in focus. In Europe, investors will turn their attention to UK inflation data for September, alongside earnings reports from SAP, Iberdrola, and Enagas. In premarket trading, Euro Stoxx 50 futures rose 0.2%, while Stoxx 600 futures gained 0.1%."
     }
   ]
 }
