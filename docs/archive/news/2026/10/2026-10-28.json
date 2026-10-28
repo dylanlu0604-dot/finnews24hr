@@ -1,7 +1,95 @@
 {
   "date": "2026-10-28",
-  "count": 674,
+  "count": 683,
   "items": [
+    {
+      "id": "mkt:01a17fff-2c73-7ee0-a9a6-163f96f8c7c7",
+      "time": "2026-10-28 08:53:11",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "RBA Governor Bullock said the bank cannot provide guidance on committee decisions and that CPI is consistent with upside risks to inflation."
+    },
+    {
+      "id": "mkt:01a17ffe-e449-7ee0-a9a6-08513de51563",
+      "time": "2026-10-28 08:52:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia Assistant Governor Hunt said August CPI was stronger than the bank had expected."
+    },
+    {
+      "id": "5174165",
+      "time": "2026-10-28 08:52:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為將韜定律思想引入基站設計，釋出新一代行動通訊網產品及解決方案】在Decoding China 2026 活動上，華為宣佈首次將“韜（τ）定律”的時間縮微理念引入基站產品設計，並用“算不完、傳不全”概括傳統基帶在單個TTI內面臨的挑戰。同時，華為釋出OSCAR智慧通道處理方案與新一代UBBPi基帶系列。圍繞單個TTI內的計算與傳輸約束，方向給出對整網協同的表述。"
+    },
+    {
+      "id": "5174164",
+      "time": "2026-10-28 08:52:40",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲主席布洛克：無法就董事會決定提供指引。"
+    },
+    {
+      "id": "5174163",
+      "time": "2026-10-28 08:50:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率上升0.5個基點，至1.880%。"
+    },
+    {
+      "id": "mkt:01a17ffc-78b2-7ee0-a9a6-0733d153ae82",
+      "time": "2026-10-28 08:50:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【South Korea stock index gains widen to 4%】South Korea's KOSPI extended intraday gains to 4%; SK Hynix up 4%, Samsung Electronics up 6%."
+    },
+    {
+      "id": "5174162",
+      "time": "2026-10-28 08:50:13",
+      "tags": [],
+      "text": "三星電子漲近6％，SK海力士漲3.5％。"
+    },
+    {
+      "id": "mkt:01a17ffc-51b9-7ee0-a9a5-f807066538b5",
+      "time": "2026-10-28 08:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "RBNZ to announce interest rate decision in 10 minutes."
+    },
+    {
+      "id": "te:markets:595563",
+      "time": "2026-10-28 08:50:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Follow Wall Street Higher — The Nikkei 225 Index climbed 1.1% toward 64,000 on Wednesday, rising for the second straight session and tracking Wall Street higher amid renewed optimism surrounding artificial intelligence. The rally followed Broadcom’s announcement of $63 billion in financing linked to Anthropic’s use of its technology. In South Korea, chipmaker SK Hynix also reported a significant jump in revenue and operating profit, driven by robust AI demand. Meanwhile, oil prices declined amid renewed diplomatic efforts to resolve the Middle East conflict, easing cost pressures on oil-importing economies. Investors also turned their attention to major central bank decisions due this week, with the Fed, ECB, and BOJ widely expected to keep interest rates unchanged, while markets assess the possibility of rate hikes in December. Technology and AI-related shares led the gains, with strong gains from Kioxia (7.3%), Advantest (2.3%), Taiyo Yuden (7.7%), SoftBank Group (2.3%) and Ibiden Co (5.6%)."
+    },
     {
       "id": "mkt:01a17ffb-3a53-7ee0-a9a5-f72b4b915e16",
       "time": "2026-10-28 08:48:53",
