@@ -1,7 +1,253 @@
 {
-  "updated": "2026-10-28 21:28:19",
-  "count": 12943,
+  "updated": "2026-10-28 21:32:10",
+  "count": 12946,
   "items": [
+    {
+      "id": "5176603",
+      "time": "2026-10-28 21:31:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "波士頓科學公司股價開盤下跌8.9%，創5月以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:01a182b5-7ef4-7ee0-a9bb-24250a11429d",
+      "time": "2026-10-28 21:31:34",
+      "tags": [
+        "MKT News",
+        "NXPI.O",
+        "Impact bearish"
+      ],
+      "text": "NXP Semiconductors (NXPI.O) opened down 7.3%, its largest decline since July 29."
+    },
+    {
+      "id": "5176602",
+      "time": "2026-10-28 21:31:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "世界銀行表示，由於避險資產需求上升，2026年貴金屬價格將上漲40%，2027年將出現一定程度的回落。"
+    },
+    {
+      "id": "5176601",
+      "time": "2026-10-28 21:31:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "世界銀行表示，由於尿素價格飆升，2026年化肥價格將上漲14%，2027年將回落至2025年水平。"
+    },
+    {
+      "id": "mkt:01a182b5-05fb-7ee0-a9bb-1dafa28b641a",
+      "time": "2026-10-28 21:31:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Turkey warns Russia, Ukraine against further attacks on Black Sea vessels】Turkey warned Russia and Ukraine on Wednesday against further attacks on commercial vessels in the Black Sea and said it reserves the right to pursue legal action over related strikes. The defence minister called the move Ankara’s most direct intervention to date and said some attacks have affected Turkish-flagged or Turkish-owned ships. Turkey, a NATO member that maintains ties with both Moscow and Kyiv, said it is awaiting responses to a proposed plan to stop escalating strikes and protect grain shipments. The minister also reported a commercial vessel was hit by three drones within Bulgarian maritime jurisdiction on Wednesday."
+    },
+    {
+      "id": "5176600",
+      "time": "2026-10-28 21:31:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "世界銀行預計，2026年金屬價格將上漲25%，創下新高，鋁、銅和錫價格均將達到創紀錄水平。"
+    },
+    {
+      "id": "5176599",
+      "time": "2026-10-28 21:30:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行表示，在不利情景下，能源和食品大宗商品價格可能飆升，從而推高全球通脹。"
+    },
+    {
+      "id": "5176598",
+      "time": "2026-10-28 21:30:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤初普跌】禮來跌1.45%，強生跌1.40%，Moderna跌1.50%，諾和諾德跌1.53%，艾伯維跌1.28%，默沙東跌1.10%。"
+    },
+    {
+      "id": "5176597",
+      "time": "2026-10-28 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股算力雲相關股票盤初普漲】甲骨文漲0.28%，CoreWeave漲0.86%，Nebius漲2.07%，IREN漲1.99%，Applied Digital漲0.93%。"
+    },
+    {
+      "id": "5176596",
+      "time": "2026-10-28 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股開盤普漲】Lumentum漲1.40%，康寧漲1.57%，Coherent漲1.83%，應用光電漲1.35%，Ciena漲2.11%，博通漲1.71%，邁威爾科技漲2.13%。"
+    },
+    {
+      "id": "5176595",
+      "time": "2026-10-28 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股太空概念股盤初普跌】SpaceX跌1.22%，Rocket Lab漲0.03%，Planet Labs跌0.41%，AST SpaceMobile跌1.77%，Intuitive Machines跌0.52%。"
+    },
+    {
+      "id": "5176594",
+      "time": "2026-10-28 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤初普漲】美光漲4.50%，閃迪漲4.86%，SK海力士漲10.45%，西部資料漲0.12%，希捷科技跌4.47%。"
+    },
+    {
+      "id": "5176593",
+      "time": "2026-10-28 21:30:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界銀行表示，中東衝突的任何升級、俄羅斯石油基礎設施持續受損，都可能進一步推高能源價格。"
+    },
+    {
+      "id": "5176592",
+      "time": "2026-10-28 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.03%，標普500指數漲0.18%，納指漲0.30%。VRT漲14.95%，GEHC漲7.61%，馬斯科漲6.43%，Fortive Corporation漲5.68%，PPG工業漲5.34%，安費諾漲5.33%。“七姐妹”方面：谷歌漲1.29%，英偉達漲0.60%，特斯拉漲0.56%，Meta Platforms漲0.51%，亞馬遜漲0.46%，微軟跌0.14%，蘋果跌0.16%。"
+    },
+    {
+      "id": "5176591",
+      "time": "2026-10-28 21:30:44",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "世界銀行表示，受全球衝擊影響，2026年大宗商品價格總體將飆升23%，2027年將下降7%。"
+    },
+    {
+      "id": "5176590",
+      "time": "2026-10-28 21:30:38",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "世界銀行預計，受中東戰爭影響，2026年全球能源價格將上漲32%，達到四年高位。"
+    },
+    {
+      "id": "te:markets:595861",
+      "time": "2026-10-28 21:30:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Enbridge Shares Hit 5-week High — Enbridge shares increased to 68.30 CAD, the highest since September 2026. Over the past 4 weeks, Enbridge gained 2.51%, and in the last 12 months, it increased 3.96%."
+    },
+    {
+      "id": "5176589",
+      "time": "2026-10-28 21:30:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界銀行表示，25個國家已獲得87億美元的支援，以應對財政壓力和伊朗戰爭的影響。"
+    },
+    {
+      "id": "5176588",
+      "time": "2026-10-28 21:30:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，虎虎科技跌17.63%，新東方跌6.02%，大全新能源跌2.05%，阿特斯跌3.15%，再鼎醫藥跌2.88%。"
+    },
+    {
+      "id": "5176587",
+      "time": "2026-10-28 21:30:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行預計，2026年全球石油供應將下降5.2%，為2020年全球衰退之外四十多年來最大降幅。"
+    },
+    {
+      "id": "5176586",
+      "time": "2026-10-28 21:30:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國債務管理辦公室表示，計劃在2026/27財年發行總額2506億英鎊的國債。"
+    },
+    {
+      "id": "mkt:01a182b4-0994-7ee0-a9bb-15b630108261",
+      "time": "2026-10-28 21:29:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK DMO to launch its first 12-month Treasury bill in January 2027."
+    },
+    {
+      "id": "mkt:01a182b3-9968-7ee0-a9bb-0e752f54907b",
+      "time": "2026-10-28 21:29:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Chancellor John Healey concluded his Budget speech."
+    },
+    {
+      "id": "mkt:01a182b3-5277-7ee0-a9bb-07141ee38dc5",
+      "time": "2026-10-28 21:29:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Chancellor of the Exchequer Xili said there is breathing space now and new hope ahead."
+    },
+    {
+      "id": "mkt:01a182b3-0f3e-7ee0-a9ba-f81086c21822",
+      "time": "2026-10-28 21:28:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Tianfu Communications: core material supply tightness eased in Q3】Tianfu Communications said in an investor-relations update that core material supply tightness has noticeably eased in Q3 versus earlier. The company has deepened cooperation with major suppliers and accelerated supply‑chain diversification to strengthen key‑material procurement. Arrival rhythm of core inputs is now generally smooth and sufficient to support current production and delivery schedules."
+    },
+    {
+      "id": "mkt:01a182b2-cb1f-7ee0-a9ba-f3a6890a6c11",
+      "time": "2026-10-28 21:28:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Belgian financial regulator hit by cyberattack, Belgian news agency reports."
+    },
+    {
+      "id": "mkt:01a182b2-703b-7ee0-a9ba-ea93d84eb205",
+      "time": "2026-10-28 21:28:14",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK Chancellor Healy said today's decision will help steer the UK through a difficult period."
+    },
+    {
+      "id": "5176585",
+      "time": "2026-10-28 21:27:48",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【天孚通訊：預計CPO產品自2027年起逐步提量，並將成為公司新的增長驅動力】天孚通訊釋出投資者關係活動記錄表，其中表示，CPO配套產品方面，公司相關產品目前已進入批次交付階段，客戶需求較為明確。結合當前在手專案推進情況，公司預計CPO產品自2027年起逐步提量，並將成為公司新的增長驅動力。NPO配套產品目前仍處於研發推進、客戶送樣和驗證階段，整體進度符合公司預期。若後續驗證和客戶匯入進展順利，預計2027年也有望實現規模量產。"
+    },
     {
       "id": "mkt:01a182b1-3cb1-7ee0-a9ba-e3cc33a905b4",
       "time": "2026-10-28 21:26:55",
@@ -116205,225 +116451,6 @@
         "市場"
       ],
       "text": "戴爾股價上漲8.7%；惠普企業股價上漲6.1%。"
-    },
-    {
-      "id": "5158911",
-      "time": "2026-10-21 21:31:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "迦納Goldbod加大從手工和小規模礦山提煉黃金的力度。"
-    },
-    {
-      "id": "te:markets:593881",
-      "time": "2026-10-21 21:31:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "AT&T Shares Hit 13-week Low — AT&T shares decreased to 21.94 USD, the lowest since July 2026. Over the past 4 weeks, AT&T lost 13.48%, and in the last 12 months, it decreased 15.47%."
-    },
-    {
-      "id": "5158910",
-      "time": "2026-10-21 21:31:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "NETFLIX第四季度營收預期不及預期，開盤下跌6.7%。"
-    },
-    {
-      "id": "5158909",
-      "time": "2026-10-21 21:31:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泛歐交易所12月小麥期貨<BL2Z6>下跌3%，此前美俄就烏克蘭戰爭舉行了會談。"
-    },
-    {
-      "id": "5158908",
-      "time": "2026-10-21 21:30:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "超微電腦股價上漲12%，創兩個月來最大漲幅。"
-    },
-    {
-      "id": "5158907",
-      "time": "2026-10-21 21:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股太空概念股盤初普漲】SpaceX漲8.43%，Rocket Lab漲2.79%，Planet Labs漲3.21%，AST SpaceMobile漲1.54%，Intuitive Machines漲3.70%。"
-    },
-    {
-      "id": "5158906",
-      "time": "2026-10-21 21:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股生物科技板塊盤初普跌】禮來跌1.58%，強生跌0.99%，Moderna漲0.28%，諾和諾德跌0.41%，艾伯維跌0.83%，默沙東跌0.80%。"
-    },
-    {
-      "id": "5158905",
-      "time": "2026-10-21 21:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存板塊盤初普漲】美光漲3.33%，閃迪漲4.04%，SK海力士漲4.08%，西部資料漲3.87%，希捷科技漲5.22%。"
-    },
-    {
-      "id": "5158904",
-      "time": "2026-10-21 21:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股光通訊股開盤普漲】Lumentum漲5.97%，康寧漲2.75%，Coherent漲4.24%，應用光電漲4.69%，Ciena漲5.46%，博通漲1.01%，邁威爾科技漲3.27%。"
-    },
-    {
-      "id": "5158903",
-      "time": "2026-10-21 21:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股算力雲相關股票盤初普漲】甲骨文漲1.56%，CoreWeave漲2.85%，Nebius漲3.39%，IREN漲5.48%，Applied Digital漲5.30%。"
-    },
-    {
-      "id": "5158902",
-      "time": "2026-10-21 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲0.27%，標普500指數漲0.29%，納指漲0.66%。超微電腦漲10.93%，SpaceX漲8.49%，戴爾漲8.28%，VRT漲6.97%，BE漲6.87%，Lumentum Holdings Inc.漲6.03%。“七姐妹”方面：特斯拉漲2.67%，英偉達漲2.45%，Meta Platforms漲0.48%，蘋果漲0.01%，亞馬遜跌0.47%，微軟跌0.87%，谷歌跌1.66%。"
-    },
-    {
-      "id": "5158901",
-      "time": "2026-10-21 21:30:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "INTUITIVE SURGICAL股價下跌8.9%，創7月17日以來最大單日跌幅。"
-    },
-    {
-      "id": "5158900",
-      "time": "2026-10-21 21:30:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國採購局訂購4套SAMP/T防空系統。"
-    },
-    {
-      "id": "5158899",
-      "time": "2026-10-21 21:30:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，小鵬汽車跌4.45%，禾賽科技跌5.50%，華住酒店集團跌2.04%，好未來跌2.72%，阿里巴巴跌2.11%。"
-    },
-    {
-      "id": "5158898",
-      "time": "2026-10-21 21:30:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數日內漲2%】費城半導體指數日內漲2.03%，現報11512.85點。英偉達漲2.36%，博通漲1.10%，美光漲3.45%，英特爾漲2.48%，AMD漲2.72%，高通跌0.21%，臺積電漲2.01%，阿斯麥漲2.95%。"
-    },
-    {
-      "id": "5158897",
-      "time": "2026-10-21 21:30:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【合肥城市雲與海光資訊簽署戰略合作協議】海光資訊訊息，10月21日，合肥城市雲資料中心股份有限公司（簡稱“合肥城市雲”）與海光資訊正式簽署戰略合作協議。雙方將聚焦湖南人工智慧算力資料中心建設，基於海光CPU+DCU，攜手打造萬卡國產算力叢集，在智算中心、算力服務、Token運營及人工智慧應用等領域深化合作，推動國產高階算力規模化部署與產業化應用。"
-    },
-    {
-      "id": "te:markets:593880",
-      "time": "2026-10-21 21:30:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Netflix Shares Hit 13-week Low — Netflix shares decreased to 65.09 USD, the lowest since July 2026. Over the past 4 weeks, Netflix lost 6.41%, and in the last 12 months, it decreased 44.69%."
-    },
-    {
-      "id": "te:markets:593879",
-      "time": "2026-10-21 21:30:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "TD Bank Shares Hit 4-week High — TD Bank shares increased to 172.48 CAD, the highest since September 2026. Over the past 4 weeks, TD Bank lost 1.37%, and in the last 12 months, it increased 52.44%."
-    },
-    {
-      "id": "5158896",
-      "time": "2026-10-21 21:29:36",
-      "tags": [
-        "央行",
-        "公司",
-        "國際"
-      ],
-      "text": "以色列央行行長亞龍表示，GDP資料受到以色列公司海外生產的扭曲，海外生產在GDP中所佔份額正在迅速增長。"
-    },
-    {
-      "id": "5158895",
-      "time": "2026-10-21 21:29:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統助理 烏沙科夫：歐盟關於烏克蘭的新提案價值不大。"
-    },
-    {
-      "id": "5158894",
-      "time": "2026-10-21 21:29:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【地平線創始人兼CEO餘凱：智駕現在是可用，距離好用還要跨越幾次“太平洋”】地平線創始人兼CEO餘凱21日在2026世界智慧網聯汽車大會上指出，智駕現在是可用，距離好用還要跨越幾次“太平洋”。“智駕下半場”需要考慮的問題有：MPCI（每關鍵接管行駛里程）如何從百公里跨越到1000公里？所有的技術問題是否都解決了？跨越1000公里以後朝著1萬公里走的時候，是不是又沿著那個延長線再往前走？他認為，對於這些問題，既要樂觀，也要看到這個事情本身還很難，還要跨越好幾次太平洋。每一次的10倍量級的 MPCI 里程的躍遷，就是跨越一次太平洋，可能還要跨越若干次太平洋才能真正達到我們所希望的。他覺得現在的智駕是可用，下一個階段MPCI 到1000公里、10000公里是好用，那真正到愛用可能要10萬公里量級。“希望在未來的4到5年裡，我們能跨越過去。”（國是直通車）"
-    },
-    {
-      "id": "5158893",
-      "time": "2026-10-21 21:28:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌CEO：Argon上線最初72小時處理token量約為Gemini 3同期的三倍】桑達爾·皮查伊表示，“我們堅定紮根前沿賽道，這刻在谷歌的基因裡，我們別無選擇。十多年來，我們一直在探索AI前沿方向。”他介紹稱，不管是智慧體任務、知識處理、程式碼開發還是創意生成，Argon都是頂尖的前沿模型。上線最初72小時，模型處理token量接近25萬億，約為Gemini 3同期的三倍。不過，他表示，雖然成果喜人，但仍有持續最佳化空間。"
-    },
-    {
-      "id": "5158892",
-      "time": "2026-10-21 21:28:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國國債全線走高，10年期國債收益率下降5個基點至5.36%。"
-    },
-    {
-      "id": "5158891",
-      "time": "2026-10-21 21:28:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯國家原子能公司：我們尚未收到客戶關於終止合同意圖的正式通知，也未看到任何具有法律依據的理由支援此類決定。"
-    },
-    {
-      "id": "5158890",
-      "time": "2026-10-21 21:28:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯國家原子能公司表示，將繼續在匈牙利實施Paks-2核電站專案。"
     }
   ]
 }
