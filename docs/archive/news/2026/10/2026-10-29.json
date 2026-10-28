@@ -1,7 +1,240 @@
 {
   "date": "2026-10-29",
-  "count": 399,
+  "count": 422,
   "items": [
+    {
+      "id": "5177148",
+      "time": "2026-10-29 03:06:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客CEO：我們已根據將從普惠和CFM獲得的發動機數量調整了生產計劃。"
+    },
+    {
+      "id": "mkt:01a183e8-1466-7ee0-a9ca-3aa39415ac4b",
+      "time": "2026-10-29 03:06:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kevin Warsh said the Fed, to his knowledge, will not participate in legal proceedings involving Fed Governor Cook."
+    },
+    {
+      "id": "5177147",
+      "time": "2026-10-29 03:06:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客CEO：我們不會在2027年額外增加庫存，假設屆時到2028年我們能獲得更多發動機。"
+    },
+    {
+      "id": "5177146",
+      "time": "2026-10-29 03:05:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "提醒：美聯儲主席沃什新聞釋出會結束，下一輪FOMC貨幣政策會議將於12月8-9日舉行。"
+    },
+    {
+      "id": "mkt:01a183e7-7a37-7ee0-a9ca-34ed659ca492",
+      "time": "2026-10-29 03:05:47",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he judges productivity has already improved."
+    },
+    {
+      "id": "mkt:01a183e7-4c13-7ee0-a9ca-2b17261bcc9b",
+      "time": "2026-10-29 03:05:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed's goal is not to put obstacles in the way of the economy."
+    },
+    {
+      "id": "5177145",
+      "time": "2026-10-29 03:05:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期美國國債收益率最新上漲4.11個基點，至5.034%。"
+    },
+    {
+      "id": "mkt:01a183e7-12c9-7ee0-a9ca-2120b0aeb7cb",
+      "time": "2026-10-29 03:05:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Chairman Kevin Warsh said he does not think it is necessary to let people lose their jobs."
+    },
+    {
+      "id": "5177144",
+      "time": "2026-10-29 03:05:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：被問及針對美聯儲理事庫克的程式時表示，據其所知，美聯儲不會參與其中。"
+    },
+    {
+      "id": "mkt:01a183e6-c44a-7ee0-a9ca-1d58a4421f6f",
+      "time": "2026-10-29 03:05:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said most productivity changes occurred before the emergence of artificial intelligence."
+    },
+    {
+      "id": "5177143",
+      "time": "2026-10-29 03:04:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：這表明我們的政策正在發揮作用，對此並不感到不安。"
+    },
+    {
+      "id": "5177142",
+      "time": "2026-10-29 03:04:41",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們正在收緊金融條件。"
+    },
+    {
+      "id": "5177141",
+      "time": "2026-10-29 03:04:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：目標不是給經濟運轉製造障礙。"
+    },
+    {
+      "id": "mkt:01a183e6-2733-7ee0-a9ca-134c2f725e38",
+      "time": "2026-10-29 03:04:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said economic growth has picked up, but that does not mean it is triggering inf."
+    },
+    {
+      "id": "5177140",
+      "time": "2026-10-29 03:04:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：經濟增長有所加快，但這並不意味著經濟增長正在引發通脹。"
+    },
+    {
+      "id": "5177139",
+      "time": "2026-10-29 03:03:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：經濟是過熱還是強勁？這並非我多數同事的判斷。"
+    },
+    {
+      "id": "mkt:01a183e5-c565-7ee0-a9ca-0b9350f2d6fa",
+      "time": "2026-10-29 03:03:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chairman Kevin Warsh said productivity has been rising."
+    },
+    {
+      "id": "5177138",
+      "time": "2026-10-29 03:03:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：生產率持續走高。"
+    },
+    {
+      "id": "mkt:01a183e5-3a0b-7ee0-a9ca-00e44dc346ff",
+      "time": "2026-10-29 03:03:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the economy is performing strongly and is moving in the right direction."
+    },
+    {
+      "id": "5177137",
+      "time": "2026-10-29 03:03:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：經濟正朝著正確方向發展。"
+    },
+    {
+      "id": "mkt:01a183e5-0962-7ee0-a9c9-fc7843c4f611",
+      "time": "2026-10-29 03:03:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed's measurement of the size of the aggregate demand curve is imperfect."
+    },
+    {
+      "id": "5177136",
+      "time": "2026-10-29 03:03:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：經濟表現強勁。"
+    },
+    {
+      "id": "5177135",
+      "time": "2026-10-29 03:03:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們對總需求曲線規模的衡量並不完善。"
+    },
     {
       "id": "mkt:01a183e4-6369-7ee0-a9c9-f5d0ebd0258b",
       "time": "2026-10-29 03:02:25",
