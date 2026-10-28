@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-29 03:34:05",
-  "count": 13072,
+  "updated": "2026-10-29 03:37:55",
+  "count": 13071,
   "items": [
+    {
+      "id": "mkt:01a18402-a117-7ee0-a9cb-03c787d9d0f9",
+      "time": "2026-10-29 03:35:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed chair Kevin Warsh says he's closely monitoring South Korea】Federal Reserve chair Kevin Warsh said he is paying particular attention to the South Korean economy, calling South Korea a key supplier of inputs for the rapidly expanding global technology sector. He said he has long known Bank of Korea Governor Shin and praised Shin as very talented; the two met during the global financial crisis. South Korean media are expected to give extensive coverage on Thursday."
+    },
+    {
+      "id": "mkt:01a18401-6ebe-7ee0-a9ca-ff8b1285dda8",
+      "time": "2026-10-29 03:34:08",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "Gundlach continues to recommend a 30% allocation to bonds via a barbell strategy."
+    },
     {
       "id": "5177160",
       "time": "2026-10-29 03:32:39",
@@ -117869,31 +117889,6 @@
         "其他"
       ],
       "text": "Anthropic：Claude Duet已在iOS和Android平臺作為獨立應用上線，並可在Claude.ai上使用。"
-    },
-    {
-      "id": "5159244",
-      "time": "2026-10-22 03:36:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國與蓋亞那簽署加強防務夥伴關係協議。"
-    },
-    {
-      "id": "5159241",
-      "time": "2026-10-22 03:36:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特官方訊息人士：週三防空系統攔截了一架試圖襲擊沙特阿美謝拜油田設施的無人機，造成兩名外籍人士死亡，另有兩人受傷。"
-    },
-    {
-      "id": "5159239",
-      "time": "2026-10-22 03:34:08",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院發言人：胡塞武裝加大了對沙烏地阿拉伯的襲擊力度，襲擊目標包括民用機場和關鍵基礎設施。"
     }
   ]
 }

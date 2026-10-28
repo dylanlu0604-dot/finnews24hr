@@ -1,7 +1,27 @@
 {
   "date": "2026-10-29",
-  "count": 457,
+  "count": 459,
   "items": [
+    {
+      "id": "mkt:01a18402-a117-7ee0-a9cb-03c787d9d0f9",
+      "time": "2026-10-29 03:35:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed chair Kevin Warsh says he's closely monitoring South Korea】Federal Reserve chair Kevin Warsh said he is paying particular attention to the South Korean economy, calling South Korea a key supplier of inputs for the rapidly expanding global technology sector. He said he has long known Bank of Korea Governor Shin and praised Shin as very talented; the two met during the global financial crisis. South Korean media are expected to give extensive coverage on Thursday."
+    },
+    {
+      "id": "mkt:01a18401-6ebe-7ee0-a9ca-ff8b1285dda8",
+      "time": "2026-10-29 03:34:08",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "Gundlach continues to recommend a 30% allocation to bonds via a barbell strategy."
+    },
     {
       "id": "5177160",
       "time": "2026-10-29 03:32:39",
