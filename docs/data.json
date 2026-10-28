@@ -1,7 +1,126 @@
 {
-  "updated": "2026-10-29 03:53:15",
-  "count": 13090,
+  "updated": "2026-10-29 03:57:06",
+  "count": 13102,
   "items": [
+    {
+      "id": "mkt:01a18416-1c0b-7ee0-a9cb-c23ced4716ce",
+      "time": "2026-10-29 03:56:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK chancellor said banks are vital to the country's prosperity, international standing and economic success."
+    },
+    {
+      "id": "mkt:01a18416-09e1-7ee0-a9cb-b8f9b6d5f51c",
+      "time": "2026-10-29 03:56:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bolsonaro's son urges the international community not to treat current events in Brazil as normal."
+    },
+    {
+      "id": "mkt:01a18415-6e5c-7ee0-a9cb-b3d8a6368a57",
+      "time": "2026-10-29 03:55:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor Healy said he has asked the Bank of England to review banks' capital requirements."
+    },
+    {
+      "id": "mkt:01a18415-3976-7ee0-a9cb-a80d5a364680",
+      "time": "2026-10-29 03:55:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK Chancellor Healey said the government will continue to press ahead with the Financial Services and Markets Bill."
+    },
+    {
+      "id": "mkt:01a18415-282e-7ee0-a9cb-a29ab3f00561",
+      "time": "2026-10-29 03:55:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "S&P500",
+        "DXY"
+      ],
+      "text": "【Economist: Cook dissent may be protest against Trump administration legal action】FWDBONDS chief economist Chris Rupkey said Fed governor Cook's rare dissent on the rate decision could reflect displeasure with the Trump administration's legal action. Rupkey said: \"Fed governors rarely vote against decisions — after all, they work in the same building as the chair. This vote may be a protest, because the Trump administration is taking steps trying in some way to force Cook to resign.\""
+    },
+    {
+      "id": "mkt:01a18415-2127-7ee0-a9cb-9ac31f04d868",
+      "time": "2026-10-29 03:55:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jair Bolsonaro's son says he will lead Brazil's opposition from the United States."
+    },
+    {
+      "id": "mkt:01a18415-2058-7ee0-a9cb-96880c50ffdc",
+      "time": "2026-10-29 03:55:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Los Angeles bans new oil wells and orders a gradual phase-out of existing wells."
+    },
+    {
+      "id": "5177185",
+      "time": "2026-10-29 03:54:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：銀行對英國的繁榮、地位與成功至關重要。"
+    },
+    {
+      "id": "5177184",
+      "time": "2026-10-29 03:54:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：我們將推進金融服務與市場法案。"
+    },
+    {
+      "id": "5177183",
+      "time": "2026-10-29 03:54:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國財政大臣希利：我已要求英國央行研究銀行的資本要求。"
+    },
+    {
+      "id": "5177182",
+      "time": "2026-10-29 03:53:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西參議員、自由黨候選人弗拉維奧·博索納羅：面對巴西司法系統的政治化，我把家人帶到了美國。"
+    },
+    {
+      "id": "5177181",
+      "time": "2026-10-29 03:53:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西參議員、自由黨候選人弗拉維奧·博索納羅：我將從這裡領導反對派。"
+    },
+    {
+      "id": "5177180",
+      "time": "2026-10-29 03:53:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西參議員、自由黨候選人弗拉維奧·博索納羅：我呼籲國際社會不要將巴西正在發生的事情視為常態。"
+    },
     {
       "id": "5177179",
       "time": "2026-10-29 03:52:45",
@@ -118056,14 +118175,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收跌2.32%】好未來跌9.02%，海川證券跌6.93%，DCX跌6.30%，禾賽科技跌5.72%，小鵬汽車跌5.60%。"
-    },
-    {
-      "id": "5159257",
-      "time": "2026-10-22 03:53:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "IBM漲至3.7%。"
     }
   ]
 }
