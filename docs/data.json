@@ -1,7 +1,181 @@
 {
-  "updated": "2026-10-28 09:20:36",
-  "count": 13081,
+  "updated": "2026-10-28 09:24:24",
+  "count": 13091,
   "items": [
+    {
+      "id": "5174317",
+      "time": "2026-10-28 09:23:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國貿促會副會長林紅紅會見英中貿易協會總裁白彼得】10月27日，中國貿促會副會長林紅紅在京會見英中貿易協會總裁白彼得一行，就共同服務中英工商界開展務實合作、攜手推進中英產業鏈供應鏈穩定暢通等展開交流。"
+    },
+    {
+      "id": "5174316",
+      "time": "2026-10-28 09:22:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "東山精密在香港上市首日開盤報84.5港元，較86.80港元的發行價下跌2.6%。"
+    },
+    {
+      "id": "5174315",
+      "time": "2026-10-28 09:22:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "泡泡瑪特股價開盤下跌6.1%，此前第三季度銷售額下滑近50%。"
+    },
+    {
+      "id": "5174314",
+      "time": "2026-10-28 09:21:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放1,510.0億元人民幣。"
+    },
+    {
+      "id": "mkt:01a18019-5994-7ee0-a9a7-b3caa3c797fc",
+      "time": "2026-10-28 09:21:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 Index futures rose more than 1%."
+    },
+    {
+      "id": "mkt:01a18019-437e-7ee0-a9a7-ac36beea684d",
+      "time": "2026-10-28 09:21:41",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBA Governor Bullock said domestic demand still exceeds domestic supply."
+    },
+    {
+      "id": "mkt:01a18019-330e-7ee0-a9a7-a296cc47bf84",
+      "time": "2026-10-28 09:21:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted a 151.0 bln yuan 7-day reverse repo today — bids 151.0 bln, accepted 151.0 bln — at 1.40%. It also injected 1.0 tln yuan via overnight reverse repos, totalling 1.151 tln yuan of short-term liquidity."
+    },
+    {
+      "id": "mkt:01a18018-e7a9-7ee0-a9a7-9b7f91bde13a",
+      "time": "2026-10-28 09:21:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel Prime Minister Netanyahu said the confrontation with Iran is not over and that Israel has the capability to eliminate the threat once and for all."
+    },
+    {
+      "id": "mkt:01a18018-d47d-7ee0-a9a7-94c0672a3009",
+      "time": "2026-10-28 09:21:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bullish",
+        "HSTECH",
+        "HSCEI"
+      ],
+      "text": "Hong Kong equities opened higher on Oct 28: Hang Seng Index (HSI) up 42.67 pts (+0.19%) at 23,083.99; Hang Seng Tech Index up 29.54 pts (+0.78%) at 3,829.97; HSCEI (H‑shares index) up 23.47 pts (+0.30%) at 7,790.38; Red‑chip index up 16.02 pts (+0.41%) at 3,900.45."
+    },
+    {
+      "id": "5174313",
+      "time": "2026-10-28 09:21:07",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行透過7天期逆回購操作注入1510億元人民幣，利率為1.40%，與此前的1.40%持平。"
+    },
+    {
+      "id": "mkt:01a18018-baf1-7ee0-a9a7-8b697101abe8",
+      "time": "2026-10-28 09:21:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "00992.HK",
+        "Impact bullish",
+        "02513.HK",
+        "09992.HK",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong stocks opened higher: Hang Seng Index up 0.19%, Hang Seng Tech up 0.78%. Lenovo Group (00992.HK) gained 5%, Zhipu (02513.HK) rose about 3%. Pop Mart (09992.HK) fell about 6% after reporting results."
+    },
+    {
+      "id": "5174312",
+      "time": "2026-10-28 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數漲0.18%，恒生科技指數漲0.78%】聯想集團漲5.00%，天數智芯漲3.50%，藥明康德漲3.39%，MINIMAX-W漲3.31%，智譜漲3.18%，藥明生物漲2.55%，華虹宏力漲2.40%。"
+    },
+    {
+      "id": "5174311",
+      "time": "2026-10-28 09:20:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡稱，右翼陣營擁有明確的多數席位。"
+    },
+    {
+      "id": "mkt:01a18018-92b5-7ee0-a9a7-80f9ae8d3c89",
+      "time": "2026-10-28 09:20:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "002074.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Guoxuan High‑Tech energy‑storage BMS passes three IEC certifications】Guoxuan High‑Tech’s energy‑storage battery management system (BMS) has passed IEC 61508 SIL2, IEC 62443‑4‑1 ML3 and IEC 62443‑4‑2 SL3 certifications, reflecting advances in safety development processes, product safety design and cybersecurity. The company says the certifications support further expansion into AI data centers (AIDC), networked storage and high‑reliability energy infrastructure — signaling tighter product security credentials for higher‑value applications."
+    },
+    {
+      "id": "mkt:01a18018-8124-7ee0-a9a7-7e9009449f7e",
+      "time": "2026-10-28 09:20:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he and U.S. President Trump will eliminate the threat and that the mission is not yet complete."
+    },
+    {
+      "id": "5174310",
+      "time": "2026-10-28 09:20:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中工國際：推動三大業務板塊逐步形成“三個三分之一”利潤貢獻格局】10月27日，在中工國際“十五五”發展規劃吹風會上，公司董事長王博表示，在各板塊盈利能力持續提升的基礎上，公司以設計諮詢與工程承包、先進工程技術裝備開發與應用、工程投資與運營三大業務板塊逐步形成“三個三分之一”的利潤貢獻格局為中長期結構最佳化方向，進一步增強盈利來源的均衡性和穩定性。公司將保持工程業務盈利質量，提升裝備製造盈利能力，推動投建營專案有序投運並形成持續收益。"
+    },
+    {
+      "id": "5174309",
+      "time": "2026-10-28 09:20:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳元兌紐西蘭元跳漲2%，報1.2602紐西蘭元，為2013年初以來最高。"
+    },
     {
       "id": "mkt:01a18017-ec9a-7ee0-a9a7-74eecd49aa9d",
       "time": "2026-10-28 09:20:13",
@@ -9,6 +183,14 @@
         "MKT News"
       ],
       "text": "Israeli Prime Minister NETANYAHU said Israel must form a strong, right-wing national government."
+    },
+    {
+      "id": "5174308",
+      "time": "2026-10-28 09:20:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡：“我們必須建立一個強大的右翼民族政府”。"
     },
     {
       "id": "5174307",
@@ -117411,95 +117593,6 @@
         "Importance 0"
       ],
       "text": "Bulgaria Current Account Swings to Deficit — Bulgaria's current account recorded a deficit of EUR 96 million in August 2026, shifting from a surplus of EUR 245.6 million in the same month a year earlier. The deterioration was driven by a wider goods shortfall, which increased to EUR 535.3 million from EUR 463.4 million, while the services surplus narrowed to EUR 970.5 million from EUR 1,107.7 million. At the same time, the primary income gap widened to EUR 688.6 million from EUR 464.2 million. In contrast, the secondary income surplus increased to EUR 157.4 million from EUR 65.5 million. Meanwhile, the combined goods and services balance remained in surplus at EUR 435.2 million, down from EUR 644.3 million a year earlier. In January-August 2026, the current account recorded a deficit of EUR 5,552.4 million, compared with a deficit of EUR 2,225.1 million in the corresponding period of 2025. Over the twelve months ending August 2026, the deficit widened to EUR 10,379.4 million from EUR 4,036.5 million a year earlier."
-    },
-    {
-      "id": "mkt:01a15c0d-3f46-7ee0-a914-be900ebe82e2",
-      "time": "2026-10-21 09:22:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "【PBOC nets CNY15 bln via reverse repos】PBOC conducted CNY80 bln of overnight reverse repos today; with CNY56 bln of 7-day reverse repos maturing, net liquidity injection amounted to CNY15 bln."
-    },
-    {
-      "id": "mkt:01a15c0d-387b-7ee0-a914-b4cba3fadf4d",
-      "time": "2026-10-21 09:22:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "HSI",
-        "Impact bullish",
-        "HSTECH",
-        "HSCEI"
-      ],
-      "text": "Hong Kong's HSI opened 271.37 points higher (+1.14%) at 24,139.11. The Hang Seng Tech Index opened 64.83 points higher (+1.60%) at 4,110.74. The Hang Seng China Enterprises Index (HSCEI) opened 108.91 points higher (+1.36%) at 8,139.17. The Hang Seng China‑Affiliated Corporations Index (HSCCI) opened 16.25 points higher (+0.41%) at 4,007.70."
-    },
-    {
-      "id": "em:qqyh_zgyh:202610213902220253",
-      "time": "2026-10-21 09:22:06",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行：根據公開市場業務一級交易商的需求，2026年10月21日7天期逆回購操作量為零。同時，開展了800億元隔夜逆回購操作。"
-    },
-    {
-      "id": "5157205",
-      "time": "2026-10-21 09:21:36",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放240.0億元人民幣。"
-    },
-    {
-      "id": "mkt:01a15c0c-69f0-7ee0-a914-a9c753c8f534",
-      "time": "2026-10-21 09:21:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "00992.HK",
-        "03750.HK",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong stocks opened higher: Hang Seng up 1.14% and Hang Seng Tech up 1.6%. CATL (03750.HK) opened down 2.87% after results, touching the HK$400 level. AI hardware and compute names rebounded; Lenovo Group (00992.HK) rose 6% and Shenghong Technology (02476.HK) gained over 4%."
-    },
-    {
-      "id": "5157204",
-      "time": "2026-10-21 09:21:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股開盤：恒生指數漲1.14%，恒生科技指數漲1.60%】聯想集團漲6.02%，小鵬集團-W漲3.72%，百濟神州漲3.28%，信達生物漲3.15%，天數智芯漲2.87%，理想汽車-W漲2.59%，MINIMAX-W漲2.57%。"
-    },
-    {
-      "id": "5157203",
-      "time": "2026-10-21 09:20:43",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行：根據公開市場業務一級交易商的需求，2026年10月21日7天期逆回購操作量為零。同時，開展了800億元隔夜逆回購操作。"
-    },
-    {
-      "id": "mkt:01a15c0b-d6fe-7ee0-a914-a2501d331af8",
-      "time": "2026-10-21 09:20:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "PBOC said that, based on primary dealers' demand, the 7-day reverse repo operation on Oct 21, 2026 was zero and it conducted 80 bln yuan of overnight reverse repos."
     }
   ]
 }
