@@ -1,7 +1,131 @@
 {
   "date": "2026-10-28",
-  "count": 2168,
+  "count": 2182,
   "items": [
+    {
+      "id": "5176652",
+      "time": "2026-10-28 21:55:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "波音股價在前一交易日暴跌 10.7% 後下跌 1.4%。"
+    },
+    {
+      "id": "te:markets:595872",
+      "time": "2026-10-28 21:54:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Valero Energy Shares Hit 4-week Low — Valero Energy shares decreased to 384.08 USD, the lowest since September 2026. Over the past 4 weeks, Valero Energy lost 0.86%, and in the last 12 months, it increased 125.23%."
+    },
+    {
+      "id": "5176650",
+      "time": "2026-10-28 21:53:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "博索納羅離開機場時未接受媒體採訪。"
+    },
+    {
+      "id": "te:markets:595871",
+      "time": "2026-10-28 21:53:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Brazilian Stocks Extend Losses Amid Fiscal Uncertainty — The Ibovespa fell nearly 2% to trade below the 173,000 mark on Wednesday, extending its losses for a third consecutive session and reaching its lowest level in about two months. Investors continued to assess the implications of President Lula’s victory, amid concerns over the fiscal outlook and uncertainty surrounding the composition of the economic team. Banking stocks came under particular pressure, with Santander plunging 4% after reporting a 28% year-on-year decline in recurring managerial net income. Other financial stocks also retreated, with Bradesco falling 4%, Itaú dropping more than 2%, Itaúsa and Banco do Brasil losing around 2% each, and B3 declining approximately 2%. Utilities also weakened, with Axia shedding nearly 2%. Elsewhere, Ambev fell more than 0.5% and Vale lost around 1% ahead of their earnings reports due on Thursday. Petrobras slipped more than 0.5%, despite a rebound in oil prices."
+    },
+    {
+      "id": "5176649",
+      "time": "2026-10-28 21:53:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：總統助理烏沙科夫表示歐洲不會參與俄美烏談判。"
+    },
+    {
+      "id": "mkt:01a182c9-59e3-7ee0-a9bd-2b53621a461c",
+      "time": "2026-10-28 21:53:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin says the date for trilateral talks will be announced shortly."
+    },
+    {
+      "id": "5176648",
+      "time": "2026-10-28 21:53:07",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【重磅！財政部副部長廖岷擬接任IMF副總裁】10月28日訊息，金融一線從國際貨幣基金組織（IMF）官網獲悉，國際貨幣基金組織（IMF）總裁格奧爾基耶娃今日宣佈，副總裁李波將於2026年11月30日任期結束後離任；同時提議由現任財政部副部長廖岷接任副總裁一職，任命自2026年12月1日起生效。（金融一線）"
+    },
+    {
+      "id": "mkt:01a182c9-336e-7ee0-a9bd-2751a00b24a9",
+      "time": "2026-10-28 21:53:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "Interfax quoted the Kremlin as saying Europe will not participate in trilateral talks on Ukraine."
+    },
+    {
+      "id": "5176647",
+      "time": "2026-10-28 21:52:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，歐洲方面不會參加關於烏克蘭問題的三方會談。"
+    },
+    {
+      "id": "5176646",
+      "time": "2026-10-28 21:52:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮：美俄烏三方會談日期將很快公佈。"
+    },
+    {
+      "id": "mkt:01a182c8-7bef-7ee0-a9bd-1faa2d9c98cc",
+      "time": "2026-10-28 21:52:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Baker Hughes expects the global upstream spending outlook to continue improving through 2027."
+    },
+    {
+      "id": "mkt:01a182c8-5988-7ee0-a9bd-14dbde968b92",
+      "time": "2026-10-28 21:52:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Baker Hughes forecasts global LNG liquefaction capacity will reach 800 million tonnes per annum by 2030."
+    },
+    {
+      "id": "5176645",
+      "time": "2026-10-28 21:51:37",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "加拿大央行加息後，加元兌美元匯率持穩於1.4050附近，當日變動不大。"
+    },
     {
       "id": "mkt:01a182c7-a136-7ee0-a9bd-0f161ed1edb0",
       "time": "2026-10-28 21:51:23",
@@ -128,6 +252,15 @@
         "Importance 3"
       ],
       "text": "Bank of Canada Raises Rates for 1st Time Since 2023 — The Bank of Canada raised its benchmark policy rate by 25bps to 2.5% in October 2026, the first increase in three years and in line with market expectations. Policymakers said the decision aims to reduce the risk that continuing high energy prices spread broadly to the prices of other goods and services. The central bank also noted that inflation is higher and more persistent than in the July Report. Growth has picked up this year and is expected to recover further. On the monetary outlook, there could be a need to increase the policy rate further, but given uncertainties, Governing Council agreed to proceed carefully. The Bank remains committed to maintaining Canadians’ confidence in price stability."
+    },
+    {
+      "id": "em:qqyh_jndyh:202610283912644355",
+      "time": "2026-10-28 21:50:05",
+      "tags": [
+        "央行",
+        "加拿大央行"
+      ],
+      "text": "【加拿大央行：預計2026年通脹平均為2.9%】加拿大央行預計2026年通脹平均為2.9%，7月為2.5%；2027年為3.1%，7月為2.0%；2028年為2.2%，7月為2.1%。預計2026年經濟增長率為1.0%，7月為0.7%；2027年增長2.0%，7月為1.8%；2028年增長2.0%，7月為1.8%。預計2026年通脹平均為2.9%，7月為2.5%；2027年為3.1%，7月為2.0%；2028年為2.2%，7月為2.1%。"
     },
     {
       "id": "5176641",
