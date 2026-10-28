@@ -1,7 +1,154 @@
 {
   "date": "2026-10-29",
-  "count": 777,
+  "count": 792,
   "items": [
+    {
+      "id": "5177417",
+      "time": "2026-10-29 07:51:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國呼籲透過外交途徑解決美伊衝突】當地時間28日，針對有關美國可能在中期選舉後再次對伊朗發動軍事打擊的相關訊息，聯合國秘書長發言人迪雅裡克表示，聯合國已經注意到相關訊息，但沒有掌握訊息以外的更多資訊，目前聯合國正在持續推動透過外交途徑解決有關問題。迪雅裡克強調，世界需要更多外交努力，而不是軍事行動。"
+    },
+    {
+      "id": "5177416",
+      "time": "2026-10-29 07:50:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前三季度我國海洋生產總值8.5萬億元 同比增4.9%】自然資源部昨晚（28日）釋出訊息，前三季度，我國海洋經濟總體保持平穩，發展態勢向新向優，發展韌性持續彰顯。前三季度，海洋經濟總量保持平穩增長。初步核算，前三季度我國海洋生產總值8.5萬億元，同比增長4.9%，高於國內生產總值增速0.3個百分點。"
+    },
+    {
+      "id": "mkt:01a184ec-7495-7ee0-a9cd-9762fa0d2784",
+      "time": "2026-10-29 07:50:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Foreign investors bought 43.3 bln yen of Japanese government bonds in the week to Oct. 23; the prior week's figure was revised up to 1,454.3 bln yen from 1,454.2 bln yen."
+    },
+    {
+      "id": "mkt:01a184ec-5d54-7ee0-a9cd-889554107007",
+      "time": "2026-10-29 07:50:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Axios: Vance letter to Iran says talks to avert US strike must address nuclear issue; Trump supportive】Axios reported a US official said Vice President Vance sent a letter to Iran’s Supreme National Security Council Secretary Rezai saying any negotiations aimed at preventing a US military strike \"must address the nuclear issue.\" The letter, focused on the possibility of restarting US‑Iran talks, is the highest‑level US contact with Iran in months. Vance urged President Trump to send the letter; a US official said Trump is positive about it but declined to disclose when it was sent. Trump told reporters Wednesday the letter was intended to help Iran obtain needed medical supplies."
+    },
+    {
+      "id": "5177415",
+      "time": "2026-10-29 07:50:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本至10月23日當週買進外國債券 -926億日元，前值由-1616億日元修正為-1605億日元。日本至10月23日當週外資買進日股 11809億日元，前值由-665億日元修正為-675億日元。日本至10月23日當週外資買進日股 11809億日元，前值由-665億日元修正為-675億日元。日本至10月23日當週外資買進日債 433億日元，前值由14542億日元修正為14543億日元。"
+    },
+    {
+      "id": "mkt:01a184ec-5889-7ee0-a9cd-8173010778bb",
+      "time": "2026-10-29 07:50:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan's net purchases of foreign equities in the week to Oct. 23 totaled 288.1 billion yen, up from 128.3 billion yen in the prior week."
+    },
+    {
+      "id": "mkt:01a184ec-436c-7ee0-a9cd-7a86111b6584",
+      "time": "2026-10-29 07:50:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Oct.23) | actual 43300000000B | previous 1454200000000B"
+    },
+    {
+      "id": "mkt:01a184ec-34a8-7ee0-a9cd-7513eedf6ccd",
+      "time": "2026-10-29 07:50:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Stocks Buying (Oct.23) | actual 288100000000B | previous 128300000000B"
+    },
+    {
+      "id": "mkt:01a184eb-db33-7ee0-a9cd-6c095f70e52c",
+      "time": "2026-10-29 07:50:11",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Foreign investors bought JPY 1.181 trillion of Japanese equities in the week to Oct. 23. The prior week's net outflow was revised from JPY 66.5 billion to JPY 67.5 billion."
+    },
+    {
+      "id": "mkt:01a184eb-da9c-7ee0-a9cd-610b62c38d9b",
+      "time": "2026-10-29 07:50:11",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's net purchases of foreign bonds in the week to Oct 23 were -92.6 bln yen; the prior reading was revised to -160.5 bln yen from -161.6 bln."
+    },
+    {
+      "id": "5177414",
+      "time": "2026-10-29 07:50:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三季度公募基金新進重倉股曝光 主要集中在科技與醫療領域】天相投顧資料顯示，截至2026年三季度末，在基金新進前50大重倉股中，主要集中在科技和醫藥領域。從投資邏輯看，基金經理更加聚焦產業趨勢，也更加看重公司質地。從科技相關公司所屬行業看，主要分佈在電子、資訊科技等行業。包括，MLCC龍頭三環集團、PCB龍頭景旺電子和芯碁微裝、電子龍頭立訊精密、模擬晶片龍頭聖邦股份等。從醫藥行業上市公司看，包括健友股份、科源製藥、康泰生物、瑞普生物、義翹神州和海爾生物。（上海證券報）"
+    },
+    {
+      "id": "mkt:01a184eb-afeb-7ee0-a9cd-5c86774ef0c5",
+      "time": "2026-10-29 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Bonds Buying (Oct.23) | actual -92600000000B | previous -161600000000B"
+    },
+    {
+      "id": "mkt:01a184eb-afd8-7ee0-a9cd-51d8c90aa88d",
+      "time": "2026-10-29 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Oct.23) | actual 1180900000000B | previous -66500000000B"
+    },
+    {
+      "id": "5177413",
+      "time": "2026-10-29 07:49:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【外資公募三季度調倉路徑出爐 均衡佈局 堅守AI中長期機會】隨著公募基金三季報披露完畢，貝萊德、路博邁、安聯、聯博等外商獨資公募基金的調倉路徑浮出水面。三季度A股迎來風格切換，多位外資公募基金經理積極調倉換股，增加了銀行等防禦性資產的配置。儘管短期市場較為波動，外資基金經理仍積極看待A股後市，並將人工智慧視為具有中長期投資價值的賽道。（上海證券報）"
+    },
+    {
+      "id": "5177412",
+      "time": "2026-10-29 07:49:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普暫緩對機器人和工業機械加徵關稅 指示官員與貿易伙伴展開談判】美國總統特朗普表示，將暫緩對機器人、工業機械及相關零部件進口加徵關稅，要求官員就這些商品的進口與貿易伙伴展開談判。特朗普週三簽發公告，同意美國商務部調查報告的結論。該報告認定，機器人和工業機械進口的數量和方式對美國國家安全構成威脅。特朗普要求商務部長盧特尼克和貿易代表格里爾與貿易伙伴談判，解決相關進口問題，並在180天內彙報進展，這也為日後加徵關稅留下了空間。特朗普表示，視談判進展或結果而定，未來可能考慮其他補救措施。批評人士警告稱，對這類進口產品加徵新關稅可能推高成本，反而削弱特朗普政府提振美國製造業的目標。"
+    },
     {
       "id": "mkt:01a184ea-4e5c-7ee0-a9cd-491ce88d7fbd",
       "time": "2026-10-29 07:48:30",
