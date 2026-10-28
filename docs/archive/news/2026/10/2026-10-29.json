@@ -1,7 +1,1864 @@
 {
   "date": "2026-10-29",
-  "count": 520,
+  "count": 712,
   "items": [
+    {
+      "id": "mkt:01a184b8-519c-7ee0-a9cd-1d72fa516f02",
+      "time": "2026-10-29 06:53:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says Pence contacted Iranian officials, downplays restart-of-talks interpretation】U.S. President Trump acknowledged Vice President Pence sent a letter to Iranian officials but said the contact concerned provision of medical and other aid, not restarting peace negotiations. The Wall Street Journal reported Pence wrote to Iran’s Supreme National Security Council secretary Rezaei seeking to revive talks; when asked if he had instructed Pence to do so Trump said “no,” but confirmed he approved the outreach after Pence asked and described it as authorizing delivery of supplies to help sick people."
+    },
+    {
+      "id": "mkt:01a184b7-6133-7ee0-a9cd-152551403cbc",
+      "time": "2026-10-29 06:52:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish",
+        "BRK.B.O",
+        "Nasdaq100"
+      ],
+      "text": "【Alphabet plunges after Q3 miss; Berkshire's late Buffett investment underperforms】Alphabet (GOOG.O) shares tumbled more than 10% in after-hours trading after the company reported disappointing third-quarter results. The move has hit Warren Buffett’s last major stock bet: Berkshire Hathaway bought heavily in 1H 2026 and participated in Alphabet’s roughly $85 bln equity offering in early June, acquiring about $10 bln of stock at roughly $350 a share, a purchase Buffett later said was his decision. Berkshire held 106 million Alphabet shares as of June 30; at after-hours prices the stake is worth about $30 bln, down from a roughly $37 bln peak in June. Alphabet is Berkshire’s fourth-largest equity holding after Apple, American Express and Coca‑Cola. Berkshire’s average cost per share is uncertain but likely above $300 and possibly near $320."
+    },
+    {
+      "id": "te:markets:595991",
+      "time": "2026-10-29 06:52:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Edges Higher, Attempts to Extend Gains — The NZX 50 gained 25 points, or 0.2%, to 13,716 in Thursday morning deals, following a slight gain in the previous session, as both the RBNZ and the Fed held interest rates. Gains were capped by traders' caution as they continued to assess the RBNZ's decision amid signals of a possible interest rate hike at the next meeting, with higher oil prices posing a risk to inflation. Tuesday's decision saw the central bank unexpectedly hold the official cash rate at 2.75% in a split decision, while leaving the door open to further rate hikes to combat rising inflation. Caution also prevailed ahead of the release of business confidence data later today, following September's reading, which was the lowest in three months. The energy, healthcare, and real estate sectors were the main drivers of the index, with early gainers including Freightways Group (2.8%), Channel Infrastructure (0.9%), Fisher & Paykel (0.6%), Infratil (0.6%), and A2 Milk (0.5%)."
+    },
+    {
+      "id": "5177357",
+      "time": "2026-10-29 06:51:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼馬魯古省附近海域發生6.4級地震】據印度尼西亞氣象、氣候和地球物理局10月29日訊息，當地時間29日5時06分，印尼馬魯古省塔寧巴爾群島西北方向201公里處發生6.4級地震。（央視新聞）"
+    },
+    {
+      "id": "5177356",
+      "time": "2026-10-29 06:51:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：美國提醒盟友，為中期選舉後可能出現的對伊朗打擊以及伊朗報復做好準備】據美媒援引兩名知情外交官訊息，美國官員已通知多箇中東國家及地區盟友，在美國下週中期選舉結束之後，要做好美國重啟對伊朗軍事行動的準備，同時防備伊朗可能對這些盟友發起報復。外交官著重說明，特朗普尚未就是否發起新一輪對伊朗打擊作出最終決定。但特朗普多次表態，計劃在 11 月 3 日美國這場關鍵中期選舉結束之後採取行動。外交官表示，美方告知地區盟友，新一輪軍事打擊可能持續數日，但地區官員正防備伊朗及其代理人發起報復，衝突或將延續更久。美方還敦促盟友採取預防措施，預判伊朗的反擊可能包括針對能源設施以及其他關鍵基礎設施的打擊。"
+    },
+    {
+      "id": "5177355",
+      "time": "2026-10-29 06:46:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國警告盟友為伊朗可能發動的襲擊做好準備。"
+    },
+    {
+      "id": "te:markets:595990",
+      "time": "2026-10-29 06:45:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Appreciates by 1.46% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.46% increase."
+    },
+    {
+      "id": "5177354",
+      "time": "2026-10-29 06:44:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【業內人士：供需整體處於“緊平衡” 電子布11月漲價仍是大機率事件】今年以來，AI伺服器迭代升級，印製電路板（PCB）用料規格隨之提升，超薄、低介電特種電子布需求集中釋放，電子布行業迎來結構性量價齊升。目前，電子布價格已經達到近十年高位。10月份漲價落地後，有市場聲音稱，覆銅板、PCB有望向少布、無布化升級，未來相關產業鏈用布量或減少。對此，接受採訪的多位業內人士表示，今年以來，AI伺服器、高速交換機、車載PCB等帶來的高階基材增量需求讓電子布價格連續上漲。目前，電子布在很多方面都具有優勢，覆銅板等領域少布、無布化預期更多還是源於成本壓力。由於供需整體處於“緊平衡”，電子布11月漲價仍是大機率事件。 (中證報)"
+    },
+    {
+      "id": "5177353",
+      "time": "2026-10-29 06:44:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科技抱團未散，公募調倉現分歧】在三季度，上半年表現亮眼的科技板塊出現調整，公募對科技抱團是否鬆動的討論隨之升溫。一方面，電子、通訊兩大行業的公募投資佔比仍處高位，資金並未系統性撤離；另一方面，前期投向AI算力產業鏈的基金經理操作分化，堅守算力者調整細分賽道，先行者轉向AI應用端，謹慎者均衡配置，防守者清倉換賽道。展望後市，基金經理長期看好AI產業的共識未變，但對估值與結構性方向的判斷正趨於精細化。（中證報）"
+    },
+    {
+      "id": "5177352",
+      "time": "2026-10-29 06:40:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【透視31省份經濟“三季報”：經濟大省挑大樑，新動能增長強勁】31個省份前三季度經濟“成績單”近日陸續出爐。其中，經濟大省持續發揮“壓艙石”作用，多地增速跑贏全國，新動能加速集聚，新質生產力培育提速。接受採訪的專家認為，後續仍要持續擴內需、穩預期，因地制宜培育長效增長動力，護航全年經濟平穩執行。 從經濟總量看，前三季度經濟總量前十強省份為：廣東、江蘇、山東、浙江、四川、河南、湖北、福建、上海和安徽，其經濟總量均超4萬億元。其中，廣東以111090.8億元位居首位，江蘇以108631.3億元緊隨其後。（中證報）"
+    },
+    {
+      "id": "te:markets:595989",
+      "time": "2026-10-29 06:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Drops by 2.52% — Top commodity losers are Coffee (-2.52%), Cocoa (-2.07%) and Oat (-1.84%). Gains are led by Lumber (1.58%) and Sugar (0.78%)."
+    },
+    {
+      "id": "5177351",
+      "time": "2026-10-29 06:40:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司第三季度石油及衍生品出口量為130萬桶/日。"
+    },
+    {
+      "id": "mkt:01a184ab-1236-7ee0-a9cd-0bdca2680435",
+      "time": "2026-10-29 06:39:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Petrobras said in filings Q3 production of oil, gas and condensate averaged 3.5 mln boe/d; crude production in Brazil averaged 2.8 mln bpd in Q3."
+    },
+    {
+      "id": "5177350",
+      "time": "2026-10-29 06:39:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司（Petrobras）第三季度石油、天然氣及天然氣凝液產量為350萬桶油當量/日。"
+    },
+    {
+      "id": "5177349",
+      "time": "2026-10-29 06:38:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司第三季度在巴西的石油產量為280萬桶/日。"
+    },
+    {
+      "id": "te:markets:595988",
+      "time": "2026-10-29 06:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore CNY Gains by 1.20% — Top commodity gainers are Iron Ore CNY (1.20%) and Lithium Carbonate (0.70%). Biggest losers are Silver (-1.05%) and Gold (-0.12%)."
+    },
+    {
+      "id": "5177348",
+      "time": "2026-10-29 06:32:06",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊提醒（以下均為北京時間）】\n① 09:00 三星電子三季報電話會；\n② 時間待定 騰訊全球數字生態大會（深圳），歐盟-加拿大峰會；\n③ 歐股開盤之前 道達爾能源釋出業績報告；\n④ 時間待定 國內成品油將開啟新一輪調價視窗；\n⑤ 18:00 歐元區10月消費者信心指數終值；\n⑥ 美股盤前 禮來製藥、卡特彼勒等釋出業績報告；\n⑦ 20:00 烏克蘭央行公佈利率決議；\n⑧ 20:30 美國三季度GDP初值，9月個人消費支出（PCE），10月24日當週首次申請失業救濟人數；\n⑨ 21:15 歐洲央行釋出政策利率（主要再融資利率，存款便利利率，邊際貸款利率）；\n⑩ 21:45 歐洲央行行長拉加德舉行新聞釋出會；\n⑪ 次日00:00 歐洲央行管委Kocher、Sleijpen在維也納講話；\n⑫ 次日01:00 瑞士央行管委會成員丘丁（Petra Tschudin）講話；\n⑬ 美股盤後 亞馬遜、閃迪、英特爾、Strategy、淡水河谷等釋出業績報告。"
+    },
+    {
+      "id": "5177347",
+      "time": "2026-10-29 06:31:12",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【報道：銀行業擱置與Anthropic相關的美國得州資料中心債券發行】在美國得克薩斯州因評估電網風險而暫停新專案審批後，銀行正推遲出售一筆150億美元貸款中用於資助與Anthropic PBC相關資料中心的債券發行計劃。此次債券發行推遲發生在Anthropic正為其大規模首次公開募股（IPO）前大舉投資計算基礎設施之際，這將迫使銀行在資產負債表上持有這筆債務的時間長於原計劃。由摩根士丹利牽頭的貸款方已籌集約150億美元，用於資助位於得克薩斯州韋科附近哈伯德（Hubbard）的資料中心建設。據知情人士透露，銀行原本希望在9月向高收益債券投資者出售50億-70億美元，以對部分貸款進行再融資。現在銷售可能在未來一年內分批進行。該債務包包括一筆142億美元的一年期貸款和一筆14億美元的五年期迴圈信貸額度，貸款方正尋求透過高收益債券投資者對部分貸款進行再融資。"
+    },
+    {
+      "id": "te:markets:595987",
+      "time": "2026-10-29 06:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Germany Natural Gas THE Rises by 4.59% — Top commodity gainers are Germany Natural Gas THE (4.59%), Natural Gas EU (2.40%), Natural Gas UK (2.22%), Crude Oil (2.05%) and Brent Oil (0.15%). Biggest loser is Methanol (-2.24%)."
+    },
+    {
+      "id": "te:markets:595986",
+      "time": "2026-10-29 06:29:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Hindustan Unilever earnings above expectations at 12.10 INR — Hindustan Unilever (HUVR) released earnings per share at 12.10 INR, compared to market expectations of 11.76 INR."
+    },
+    {
+      "id": "5177346",
+      "time": "2026-10-29 06:25:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：本田與日產正在洽談電動車電池合作事宜。"
+    },
+    {
+      "id": "5177345",
+      "time": "2026-10-29 06:24:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4070美元/盎司，日內漲0.45%。"
+    },
+    {
+      "id": "5177344",
+      "time": "2026-10-29 06:24:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【荷蘭將向烏克蘭提供5億歐元軍事援助】荷蘭首相耶滕28日在海牙宣佈，荷蘭將向烏克蘭提供5億歐元的軍事援助，包括防空系統、無人機等。（新華社）"
+    },
+    {
+      "id": "5177343",
+      "time": "2026-10-29 06:23:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【國產3A遊戲有望告別“孤品時代”】10月29日上午，國產又一款買斷制3A（高成本、高體量、高質量）遊戲大作《影之刃零》迎來發售。在此之前，該遊戲已受到海內外市場高度關注。 該專案背後的研發主體為北京靈遊坊網路科技有限公司（以下簡稱“靈遊坊”），騰訊是該公司背後投資方之一。 小黑盒資料顯示，截至10月28日，《影之刃零》已登頂Steam遊戲平臺全球銷量排行榜。據分析機構Alinea Analytics估算，該遊戲在正式發售前的預售銷量已達85萬份，意味著該遊戲雖然還未正式發售，但已產生4300萬美元收入。 玩家對《影之刃零》真金白銀的購入，離不開10月26日解禁的媒體超高評價。公開資訊顯示，IGN中國打出滿分10分，海外IGN給到9分，M站媒體均分88分引爆全球單機遊戲圈，創下國產單機遊戲媒體評分新高。(證券日報)"
+    },
+    {
+      "id": "5177342",
+      "time": "2026-10-29 06:22:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股IPO“變奏”，融資額創16年來新高，基石投資者佔比超八成】10月28日，東山精密H股在港交所上市（募資總額98.76億港元），這是今年第118家在港股上市的公司。據Wind資料統計，截至10月28日，港股IPO融資額達到4013.92億港元，同比增長83.59%。這一融資額已創下2011年以來新高，距離2010年全年4144億港元的歷史峰值僅差約130億港元。年內港股IPO市場呈現鮮明特點：融資額向少數大專案集中，前十大IPO募資額佔整體募資額比例達45%，中小盤新股並不“好發”；上半年打新盈利確定性較強，但自第三季度開始，新股首日破發率階段性走高；港股IPO融資高速擴張下，基石投資者挑選IPO標的更為審慎。（上證報）"
+    },
+    {
+      "id": "5177341",
+      "time": "2026-10-29 06:19:19",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【10月29日隔夜要聞一覽】\n1、美聯儲以10比2維持利率不變，美聯儲主席沃什稱金融條件有所收緊，美聯儲將逐步調整會議安排，減少制定利率的會議。\n2、蘋果正式釋出更新版的MacBook Pro，搭載觸控式螢幕，採用OLED螢幕，配備靈動島。\n3、谷歌推出Gemini 4 Carbon前沿AI模型。\n4、俄羅斯總統助理烏沙科夫稱，烏克蘭問題三方談判將於11月4日後舉行，具體日期待定。俄方稱不邀歐洲參加。\n5、微軟Q3營收922.8億美元，分析師預期906.3億美元。 運營利潤459.2億美元，分析師預期439.2億美元。\n6、西班牙高鐵事故關鍵錄音曝光：排程員違規下令列車“恢復全速”。\n7、特朗普下令美國貿易代表就機器人和機械進口尋求談判。\n8、谷歌母公司Alphabet仍然預測全年資本支出1950億美元至2050億美元，預計2027年資本支出仍將大幅增加。\n9、邁威爾科技公司正就收購Lumentum進行深入談判。"
+    },
+    {
+      "id": "mkt:01a18496-bd18-7ee0-a9cd-07f61b168788",
+      "time": "2026-10-29 06:17:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft CFO said Azure revenue growth for fiscal Q2 is expected at 49–50% on a constant-currency basis."
+    },
+    {
+      "id": "mkt:01a18495-e2e2-7ee0-a9cc-fd99bc78c4c5",
+      "time": "2026-10-29 06:16:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Head of Brazil's electoral authority said the electoral process is proceeding normally and fully complies with relevant laws and the constitution."
+    },
+    {
+      "id": "5177340",
+      "time": "2026-10-29 06:15:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西選舉機構負責人發表宣告稱，選舉正常進行，完全符合法律和憲法規定。"
+    },
+    {
+      "id": "te:markets:595985",
+      "time": "2026-10-29 06:15:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Depreciates by 1.24% — Top currency losers are South Korean Won (-1.24%), New Zealand Dollar (-1.03%), Indian Rupee (-0.32%) and Dollar Index (-0.16%). Gains are led by Norwegian Krone (0.76%), Swedish Krona (0.53%), Canadian Dollar (0.41%), Euro (0.23%), British Pound (0.11%) and Japanese Yen (0.08%)."
+    },
+    {
+      "id": "5177339",
+      "time": "2026-10-29 06:10:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國宣佈對烏克蘭追加百億英鎊援助】據英國政府網站28日訊息，英國財政大臣約翰·希利28日在議會下院公佈新政府首份財政預算案時宣佈，英國將向烏克蘭追加100億英鎊（1英鎊約合人民幣8.9元）經濟和軍事援助。希利說，這筆援助將包括貸款、出口融資擔保以及為今年冬季提供的5億英鎊緊急軍事資金。希利與英國首相伯納姆已於當天早些時候將追加援助的承諾告知烏克蘭總統澤連斯基。（新華社）"
+    },
+    {
+      "id": "5177338",
+      "time": "2026-10-29 06:06:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲12月加息25個基點的機率為78.4%】據CME“美聯儲觀察”：美聯儲到12月維持利率不變的機率為21.6%，累計加息25個基點的機率為78.4%。美聯儲到明年1月維持利率不變的機率為7.2%，累計加息25個基點的機率為40.6%，累計加息50個基點的機率為52.2%。"
+    },
+    {
+      "id": "5177337",
+      "time": "2026-10-29 06:04:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟CFO：我們預計，本財年下半年資本支出將加速增長，部分原因是轉移至下半年的第三方產能交付。"
+    },
+    {
+      "id": "5177336",
+      "time": "2026-10-29 06:03:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟CFO：預計2027財年將繼續保持正現金流。"
+    },
+    {
+      "id": "5177335",
+      "time": "2026-10-29 06:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟展望：第二財季Azure收入按固定匯率計算增速為49%至50%。"
+    },
+    {
+      "id": "5177334",
+      "time": "2026-10-29 06:02:40",
+      "tags": [
+        "公司",
+        "其他",
+        "國際"
+      ],
+      "text": "微軟CFO：預計日曆年資本開支大概為1700億美元。"
+    },
+    {
+      "id": "5177333",
+      "time": "2026-10-29 06:02:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟展望：第二財季裝置與消費者業務收入預期159億至164億美元。第二財季 Microsoft 365 商業雲收入按固定匯率計算增速約 19%。"
+    },
+    {
+      "id": "5177332",
+      "time": "2026-10-29 06:01:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟CFO：預計第二季度商業預訂業務的商業銷售活動將實現穩健增長，但業績將受到上一年簽署的鉅額Azure承諾的影響。"
+    },
+    {
+      "id": "5177331",
+      "time": "2026-10-29 06:00:47",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "微軟：第二財季資本支出預計超 500 億美元。第二財季總收入預期 960 億至 971 億美元。"
+    },
+    {
+      "id": "5177330",
+      "time": "2026-10-29 06:00:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破102美元/桶，日內跌0.76%。"
+    },
+    {
+      "id": "5177329",
+      "time": "2026-10-29 05:58:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "微軟美股盤後漲幅擴大至6%。"
+    },
+    {
+      "id": "5177328",
+      "time": "2026-10-29 05:58:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟CFO：預計第二財季 Azure 增速為 49%。"
+    },
+    {
+      "id": "5177327",
+      "time": "2026-10-29 05:58:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟CFO：預計第二季度智慧體與基礎設施業務營收為801億至807億美元。"
+    },
+    {
+      "id": "5177326",
+      "time": "2026-10-29 05:55:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟CFO：M365商業付費席位增長5%，部分受銷售執行疲軟影響。"
+    },
+    {
+      "id": "5177325",
+      "time": "2026-10-29 05:52:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟CFO：雲業務約 30% 的剩餘履約義務（RPO）將在未來 12 個月確認為收入。"
+    },
+    {
+      "id": "5177324",
+      "time": "2026-10-29 05:51:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟CFO：約四分之三的資本支出用於短週期資產，主要是CPU和GPU，其中包括更高的記憶體和儲存成本。"
+    },
+    {
+      "id": "5177323",
+      "time": "2026-10-29 05:51:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟CFO：第一季度資本支出低於指引，原因是部分原預計在第一季度交付的第三方產能交付出現延遲。"
+    },
+    {
+      "id": "5177322",
+      "time": "2026-10-29 05:49:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱：巴西Suzano將於11月上調歐洲及美洲地區闊葉漿價格，每噸上調50美元。"
+    },
+    {
+      "id": "5177321",
+      "time": "2026-10-29 05:47:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟CEO：需求加速增長，推動公司本季度在五大洲新增24個資料中心。"
+    },
+    {
+      "id": "te:markets:595984",
+      "time": "2026-10-29 05:45:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Oat Hits 7-week Low — Oat decreased to 345.00 USd/Bu, the lowest since September 2026. Over the past 4 weeks, Oat lost 17.63%, and in the last 12 months, it increased 20.21%."
+    },
+    {
+      "id": "5177316",
+      "time": "2026-10-29 05:35:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：所有的TPU庫存都與已經簽單的客戶合同掛鉤。側重於改善TPU的利潤率。"
+    },
+    {
+      "id": "te:economy:595983",
+      "time": "2026-10-29 05:30:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "South Korea’s Manufacturing Sentiment Weakens Slightly — South Korea’s manufacturing Business Survey Index fell to 78 in October 2026 from 79 in September, indicating a further deterioration in business conditions. However, the financial situation index improved to 83 from 81, while the inventories index declined to 97 from 103. Meanwhile, the Composite Business Sentiment Index rose to 105.6 from 99.5, reflecting improvements in other components. The production index increased to 94 from 89, while the new orders index climbed to 91 from 84. The Composite Business Sentiment Index for the following month’s outlook also improved, rising 1.9 points to 103.0."
+    },
+    {
+      "id": "5177310",
+      "time": "2026-10-29 05:27:52",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "加拿大央行行長麥克勒姆：核心CPI預測“算是一種捷徑”。"
+    },
+    {
+      "id": "5177309",
+      "time": "2026-10-29 05:27:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：新模型可按組成部分對通脹進行分解。"
+    },
+    {
+      "id": "5177308",
+      "time": "2026-10-29 05:27:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta Platforms 擬發售 4000 萬股 A 類普通股。"
+    },
+    {
+      "id": "5177306",
+      "time": "2026-10-29 05:24:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：將在適當時候就我個人的未來去向作進一步說明。"
+    },
+    {
+      "id": "5177305",
+      "time": "2026-10-29 05:24:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：中性利率預估或將上調。"
+    },
+    {
+      "id": "5177303",
+      "time": "2026-10-29 05:23:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：通脹預測基於燃料成本的傳導效應。"
+    },
+    {
+      "id": "5177302",
+      "time": "2026-10-29 05:23:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "加拿大央行行長麥克勒姆：美國赤字支出是“政治意願問題”。"
+    },
+    {
+      "id": "5177301",
+      "time": "2026-10-29 05:23:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "加拿大央行行長麥克勒姆：美國財政政策不具有可持續性。"
+    },
+    {
+      "id": "5177300",
+      "time": "2026-10-29 05:20:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌Gemini Agent將在今年稍晚提供給客戶。谷歌開始對外銷售TPU，供客戶部署於自有資料中心。"
+    },
+    {
+      "id": "mkt:01a18463-2566-7ee0-a9cc-f2ca844c6c35",
+      "time": "2026-10-29 05:20:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's economy minister said a U.S. anti-dumping case against Mexican strawberries will not benefit U.S. producers and will instead raise consumer prices."
+    },
+    {
+      "id": "5177296",
+      "time": "2026-10-29 05:20:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱他沒有讓萬斯致信伊朗】“沒有，” 美國總統特朗普被問及他是否指示副總統萬斯與伊朗接觸爭取重啟談判時回答說。“他們需要醫療用品和其它各種東西的幫助。他問我的意見；我說，‘如果你想這麼做也沒問題，’” 特朗普又說。"
+    },
+    {
+      "id": "mkt:01a1845e-95fc-7ee0-a9cc-eab3df2d0794",
+      "time": "2026-10-29 05:15:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Alphabet (GOOG.O) shares fell more than 10% in after-hours trading; the company left 2026 capex unchanged and said it expects a substantial increase in 2027."
+    },
+    {
+      "id": "5177294",
+      "time": "2026-10-29 05:15:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.06%，報12984點。"
+    },
+    {
+      "id": "5177292",
+      "time": "2026-10-29 05:13:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：尼古拉斯·馬杜羅案已重新分配給法官Analisa Torres。"
+    },
+    {
+      "id": "mkt:01a1845c-6962-7ee0-a9cc-e1a578cdca63",
+      "time": "2026-10-29 05:13:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "ALPHABET (GOOG.O) CEO Sundar Pichai said GEMINI 4 Carbon will be made available to consumers later this year."
+    },
+    {
+      "id": "mkt:01a1845b-eebd-7ee0-a9cc-dc224feed11d",
+      "time": "2026-10-29 05:12:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet (GOOG.O) CEO Pichai said the company is developing a streamlined version of Gemini 4 Carbon for more than 1 billion users."
+    },
+    {
+      "id": "5177289",
+      "time": "2026-10-29 05:12:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌執行長： 我們正在開發 Gemini 4 Carbon 的蒸餾版本，面向超 10 億使用者。Gemini 4 Carbon 將於今年晚些時候面向消費者開放。"
+    },
+    {
+      "id": "mkt:01a18459-dfa0-7ee0-a9cc-d1daed0257f7",
+      "time": "2026-10-29 05:10:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Russia says date for Russia-US-Ukraine trilateral talks will be announced; Europe not invited】On Oct. 28, Russian presidential aide Ushakov said Russia does not intend to invite European parties to talks on Ukraine and that the date for Russia-US-Ukraine trilateral talks will be announced soon; he did not confirm reports the talks would be held on Nov. 10. Kremlin spokesman Peskov said the Kremlin will publish the date once Moscow, Washington and Kyiv agree on a date for trilateral talks in Abu Dhabi."
+    },
+    {
+      "id": "mkt:01a18459-b8d6-7ee0-a9cc-cbda461f3e1e",
+      "time": "2026-10-29 05:10:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Alphabet (GOOG.O) executive says total future commitments, lease and purchase obligations exceed $1 trillion."
+    },
+    {
+      "id": "5177288",
+      "time": "2026-10-29 05:10:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄美烏三方談判日期將公佈 俄方稱不邀歐洲參加】當地時間10月28日，俄羅斯總統助理烏沙科夫表示，俄方不打算邀請歐洲方面參加烏克蘭問題談判。烏沙科夫說，俄美烏三方談判的日期將很快公佈，但他未確認談判定於11月10日舉行。同日，俄羅斯總統新聞秘書佩斯科夫表示，一旦莫斯科、華盛頓和基輔代表在阿布扎比舉行的烏克蘭問題三方談判日期確定，克里姆林宮將予以公佈。（央視）"
+    },
+    {
+      "id": "5177284",
+      "time": "2026-10-29 05:08:19",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "Alphabet 未來承諾、租賃及採購款項合計超 1 萬億美元。"
+    },
+    {
+      "id": "mkt:01a18456-76fe-7ee0-a9cc-c0bbb6c9c16e",
+      "time": "2026-10-29 05:07:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "ALPHABET (GOOG.O) executive said expansion of its TPU business will pressure free cash flow."
+    },
+    {
+      "id": "mkt:01a18456-6e88-7ee0-a9cc-ba8d37f1f6eb",
+      "time": "2026-10-29 05:06:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "A top executive at Alphabet (GOOG.O) said the company expects near-term headwinds to Q4 margins as it begins using third-party cloud capacity."
+    },
+    {
+      "id": "mkt:01a18456-6bca-7ee0-a9cc-b3d1b6bf7a6c",
+      "time": "2026-10-29 05:06:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet (GOOG.O) executive said expected return on invested capital (ROIC) will be \"materially above\" its cost of capital."
+    },
+    {
+      "id": "mkt:01a18456-6b4e-7ee0-a9cc-ae11597f056c",
+      "time": "2026-10-29 05:06:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact mixed"
+      ],
+      "text": "Alphabet (GOOG.O) executive says the company still expects capital expenditure to rise sharply in 2027."
+    },
+    {
+      "id": "5177283",
+      "time": "2026-10-29 05:06:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "Lumentum美股盤後上漲11%。"
+    },
+    {
+      "id": "5177282",
+      "time": "2026-10-29 05:05:15",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【Marvell據稱正就收購Lumentum進行深入談判】據知情人士透露，Marvell 正就收購資料中心光學器件製造商Lumentum進行深入談判，這可能是人工智慧領域規模擴張競賽中的一筆巨型交易。Lumentum盤後直線拉昇漲超10%。交易最快可能於下週宣佈。Lumentum市值約830億美元，Marvell市值約2210億美元。"
+    },
+    {
+      "id": "5177281",
+      "time": "2026-10-29 05:03:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌母公司Alphabet股價跌幅擴大至10%。"
+    },
+    {
+      "id": "mkt:01a18453-3230-7ee0-a9cc-a5bc9ebf58a9",
+      "time": "2026-10-29 05:03:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Alphabet (GOOG.O) top executive expects Q4 FX headwinds to be larger than Q3."
+    },
+    {
+      "id": "mkt:01a18453-2bbb-7ee0-a9cc-99ad505945a2",
+      "time": "2026-10-29 05:03:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Alphabet (GOOG.O) attributed $8.2 bln of other losses to a drop in SpaceX's share price."
+    },
+    {
+      "id": "mkt:01a18453-1deb-7ee0-a9cc-9401b66a0782",
+      "time": "2026-10-29 05:03:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Alphabet (GOOG.O) executive said Google Cloud Platform accounted for the vast majority of Google Cloud revenue in Q3."
+    },
+    {
+      "id": "5177279",
+      "time": "2026-10-29 05:03:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普結束對記者的講話。"
+    },
+    {
+      "id": "5177278",
+      "time": "2026-10-29 05:03:07",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "谷歌母公司Alphabet仍然預測全年資本支出1950億美元至2050億美元，預計 2027 年資本支出仍將大幅增加。"
+    },
+    {
+      "id": "5177277",
+      "time": "2026-10-29 05:02:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗在醫療物資方面需要幫助。"
+    },
+    {
+      "id": "5177276",
+      "time": "2026-10-29 05:02:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌母公司Alphabet：另有 1520 億美元租賃及其他義務，長期債務達到 1251 億美元。"
+    },
+    {
+      "id": "5177275",
+      "time": "2026-10-29 05:01:36",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "谷歌母公司Alphabet未來採購承諾規模達9240億美元。"
+    },
+    {
+      "id": "5177273",
+      "time": "2026-10-29 05:00:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "谷歌：研發支出上漲 36%，受 AI 人才招聘及折舊費用推動。82 億美元其他收益虧損源於 SpaceX 股價下跌。"
+    },
+    {
+      "id": "5177272",
+      "time": "2026-10-29 05:00:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：尚未與博索納羅通話。"
+    },
+    {
+      "id": "5177271",
+      "time": "2026-10-29 04:59:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：巴西的選舉非常奇怪。"
+    },
+    {
+      "id": "mkt:01a1844f-f47a-7ee0-a9cc-89836a208185",
+      "time": "2026-10-29 04:59:54",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact mixed"
+      ],
+      "text": "Alphabet (GOOG.O) top executive said operating cash flow was negatively affected by higher inventory built to support TPU system sales."
+    },
+    {
+      "id": "te:markets:595982",
+      "time": "2026-10-29 04:59:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Raymond James Financial earnings above expectations at 3.59 USD — Raymond James Financial (RJF) released earnings per share at 3.59 USD, compared to market expectations of 3.33 USD."
+    },
+    {
+      "id": "te:markets:595981",
+      "time": "2026-10-29 04:59:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "O'Reilly Automotive earnings above expectations at 0.97 USD — O'Reilly Automotive (ORLY) released earnings per share at 0.97 USD, compared to market expectations of 0.91 USD."
+    },
+    {
+      "id": "te:markets:595980",
+      "time": "2026-10-29 04:59:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Equinix earnings above expectations at 4.93 USD — Equinix (EQIX) released earnings per share at 4.93 USD, compared to market expectations of 4.22 USD."
+    },
+    {
+      "id": "te:markets:595979",
+      "time": "2026-10-29 04:59:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Fortinet earnings above expectations at 0.91 USD — Fortinet (FTNT) released earnings per share at 0.91 USD, compared to market expectations of 0.76 USD."
+    },
+    {
+      "id": "5177270",
+      "time": "2026-10-29 04:59:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我批准博索納羅入境美國。"
+    },
+    {
+      "id": "mkt:01a1844f-e24f-7ee0-a9cc-83460d44f0ff",
+      "time": "2026-10-29 04:59:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH: U.S. fiscal pressures will persist regardless of midterm election outcomes."
+    },
+    {
+      "id": "5177269",
+      "time": "2026-10-29 04:59:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet首席財務官：第三季度資本支出為514億美元。"
+    },
+    {
+      "id": "5177268",
+      "time": "2026-10-29 04:58:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet首席財務官：第三季度自由現金流為負，原因是公司在資本支出方面的投資。"
+    },
+    {
+      "id": "5177267",
+      "time": "2026-10-29 04:57:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet首席財務官：營運現金流受到為TPU系統銷售備貨的庫存增加的不利影響。"
+    },
+    {
+      "id": "5177266",
+      "time": "2026-10-29 04:57:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲執行長：谷歌直接與 Anthropic 合作開發 TPU，並同博通開展相關合作。"
+    },
+    {
+      "id": "5177265",
+      "time": "2026-10-29 04:56:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果正利用谷歌TPU擴大基礎模型的預訓練規模。"
+    },
+    {
+      "id": "5177264",
+      "time": "2026-10-29 04:55:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲執行長：谷歌與 Meta 合作開發 Torch TPU。"
+    },
+    {
+      "id": "5177261",
+      "time": "2026-10-29 04:52:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普下令美國貿易代表就機器人和機械進口尋求談判】美國總統特朗普指示貿易代表和商務部長就機器人及工業機械問題展開談判以處理國家安全關切。該行政命令指示美國貿易代表辦公室與貿易伙伴就協議進行，“以應對從任何國家進口機器人和工業機械及其零部件可能對國家安全造成的威脅”。特朗普“未來可能會考慮其它補救措施，包括徵收或修改關稅、稅收、配額和收費；以及制定計劃激勵對在美國生產機器人和工業機械及其零部件的新投資”。"
+    },
+    {
+      "id": "mkt:01a18448-f474-7ee0-a9cc-791eda597e81",
+      "time": "2026-10-29 04:52:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet (GOOG.O) executive said rising cybersecurity risks are driving demand for AI-driven security platforms."
+    },
+    {
+      "id": "5177260",
+      "time": "2026-10-29 04:52:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100股指期貨在美股盤後跌到1%。"
+    },
+    {
+      "id": "5177259",
+      "time": "2026-10-29 04:51:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西參議員、自由黨候選人弗拉維奧·博索納羅在社交媒體上刪除了一封自稱“當選總統”的信件，並將措辭改為“巴西領導人”。"
+    },
+    {
+      "id": "mkt:01a18448-45b8-7ee0-a9cc-77a551e37939",
+      "time": "2026-10-29 04:51:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "ALPHABET (GOOG.O) executive says its cloud business has 18 product lines each generating over $1 bln in annual revenue."
+    },
+    {
+      "id": "mkt:01a18448-2d2c-7ee0-a9cc-6f6a39a753fc",
+      "time": "2026-10-29 04:51:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "ALPHABET (GOOG.O) executive said enterprise customer spending on GEMINI rose more than threefold YoY."
+    },
+    {
+      "id": "5177257",
+      "time": "2026-10-29 04:51:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西班牙高鐵事故關鍵錄音曝光：排程員違規下令列車“恢復全速”】當地時間28日，西班牙托萊多省高鐵特大追尾事故的關鍵排程通話錄音曝光。據悉，這三段核心通話錄音包括控制中心與停在軌道上的伊爾約公司列車司機的兩次通話，以及與後方追尾的西班牙國家鐵路公司列車司機的一次通話，這些錄音證實了事故發生前的關鍵操作失誤。錄音內容顯示，事發前，位於馬德里阿託查的24小時排程控制中心操作員，向距離伊爾約公司列車約25公里的西班牙國家鐵路公司列車下達了明確指令：“斷開連線，重新連線，恢復正常速度行駛”。據悉，該指令直接違反了相關安全規程。規程要求，在系統故障區段，列車應以目視方式或限制40公里/小時的速度行駛。此外，排程員在未確認前方列車已安全駛離區間的情況下，便允許後方列車全速推進，最終釀成慘劇。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a18446-5903-7ee0-a9cc-6360980cc45e",
+      "time": "2026-10-29 04:49:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "ALPHABET (GOOG.O) executive said sales of TPU systems are a key contributor to Google Cloud's growth."
+    },
+    {
+      "id": "mkt:01a18446-4daa-7ee0-a9cc-5b97d91cdda3",
+      "time": "2026-10-29 04:49:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "ALPHABET (GOOG.O) TOP EXECUTIVE said YouTube's subscription business is growing faster than its advertising business."
+    },
+    {
+      "id": "5177256",
+      "time": "2026-10-29 04:48:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet高管：TPU系統銷售對谷歌雲的增長做出了重要貢獻。"
+    },
+    {
+      "id": "5177255",
+      "time": "2026-10-29 04:48:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲執行長：谷歌雲旗下有18條產品線，每條產品線年收入均超過10億美元。"
+    },
+    {
+      "id": "5177254",
+      "time": "2026-10-29 04:47:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌YouTube每日上傳影片超2000萬個。"
+    },
+    {
+      "id": "5177253",
+      "time": "2026-10-29 04:47:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌YouTube訂閱業務增速超過廣告業務。"
+    },
+    {
+      "id": "5177252",
+      "time": "2026-10-29 04:46:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：加速在廣告基礎設施中應用Gemini。谷歌Gemini幫助廣告主生成了超過15億份素材。"
+    },
+    {
+      "id": "5177251",
+      "time": "2026-10-29 04:43:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏沙科夫：烏克蘭問題三方談判將於 11 月 4 日後舉行，具體日期待定】據俄羅斯方面報道，俄羅斯總統助理烏沙科夫稱，烏克蘭問題三方談判將於 11 月 4 日後舉行，具體日期待定。烏沙科夫還表示：重啟談判的時間將取決於局勢，包括戰場形勢。俄羅斯代表團人選將於近期確定，核心小組已經組建完畢。俄方尚未就重啟烏克蘭問題三方談判的日期釋放相關訊號。目前並未討論由斯圖布與斯特爾作為代表整個歐洲的談判人選。俄羅斯正與美國商討解除對俄羅斯直接投資基金（RDIF）制裁的可能性。"
+    },
+    {
+      "id": "mkt:01a18446-2d54-7ee0-a9cc-54284692c0ab",
+      "time": "2026-10-29 04:42:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "An Alphabet (GOOG.O) executive said Q3 AI-driven advertising updates increased user satisfaction, click-through rates and conversion rates."
+    },
+    {
+      "id": "5177250",
+      "time": "2026-10-29 04:40:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet執行長：Waymo自動駕駛里程已超過3億英里。"
+    },
+    {
+      "id": "5177249",
+      "time": "2026-10-29 04:39:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet執行長：谷歌將在 Chrome、安卓以及 Google Workspace 中拓展智慧體 AI。"
+    },
+    {
+      "id": "5177248",
+      "time": "2026-10-29 04:39:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet執行長：搜尋查詢量正以五年來最快速度增長。"
+    },
+    {
+      "id": "5177247",
+      "time": "2026-10-29 04:38:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統助理烏沙科夫：阿布扎比談判的日期將取決於戰場局勢以及整體形勢等因素。"
+    },
+    {
+      "id": "5177246",
+      "time": "2026-10-29 04:37:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet執行長：新AI模型Carbon表現優於Gemini 4 Argon。"
+    },
+    {
+      "id": "5177245",
+      "time": "2026-10-29 04:37:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Alphabet執行長：全新 AI 模型 Carbon 為谷歌目前最強模型，正在接受美國政府測試。"
+    },
+    {
+      "id": "5177244",
+      "time": "2026-10-29 04:36:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet執行長： AI 模型 Argon 加快了谷歌內部程式碼開發。 Gemini Carbon 在幾乎所有領域效能均優於 Argon。"
+    },
+    {
+      "id": "5177243",
+      "time": "2026-10-29 04:35:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "飛塔資訊（Fortinet）三季度營收20.8億美元，分析師預期20.7億美元。三季度Billings（賬單收入/訂單金額）為23.4億美元，分析師預期23億美元。三季度調整後每股收益（EPS）為0.91美元，分析師預期0.86美元。預計全年營收81.3億-82.2億美元，公司原本預計80.2億-81.8億美元。預計全年服務營收51.5億-51.7億美元，分析師預期52億美元。預計全年調整後毛利潤率79.7%-80.3%，公司原本預計79%-81%。預計全年Billings將為95.7億-97.2億美元，公司原本預計93.5億-95.5億美元。預計四季度營收21.6億-22.5億美元，分析師預期21.7億美元。飛塔資訊（FTNT）美股盤後暴跌22.5%。"
+    },
+    {
+      "id": "te:markets:595976",
+      "time": "2026-10-29 04:35:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.25% Higher — The Dow Jones Index gained 132 points or 0.25 percent on Wednesday to close at 52509 points. Gains were led by American Express (1.75%), Goldman Sachs (1.57%) and Alphabet (1.55%). Biggest losers were Sherwin-Williams (-1.71%), Nvidia (-1.29%) and Nike (-1.06%)."
+    },
+    {
+      "id": "5177242",
+      "time": "2026-10-29 04:34:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet執行長：目前年化營收規模達5000億美元。"
+    },
+    {
+      "id": "te:markets:595975",
+      "time": "2026-10-29 04:33:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Higher After BoC and US Fed Meetings — The S&P/TSX Composite Index closed 0.3% higher at 36,265 on Wednesday after the Bank of Canada raised its benchmark interest rate by 25 basis points to 2.5%, as expected. The BoC said the move aims to reduce the risk of persistently high energy prices spreading to other goods and services, while noting that further rate increases may be necessary. Meanwhile, the US Federal Reserve held rates steady, as expected. Financial stocks were mostly higher, with BMO and CIBC each gaining 0.6%. Several miners report earnings after the close. Agnico Eagle rose 0.9% and Alamos gained 1.3%, while Kinross fell 0.4% and First Quantum shed 0.5%. Meanwhile, Teck Resources advanced 0.7% ahead of Thursday’s results, while Imperial Oil gained 1.1% and Cameco added 1.3% ahead of Friday’s reports. Tamarack Valley edged up 0.1% after raising its 2026 production forecast, while Trican Well Service gained 0.7% on higher third-quarter profit."
+    },
+    {
+      "id": "5177240",
+      "time": "2026-10-29 04:31:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "ServiceNOW三季度營收41.1億美元，分析師預期41億美元。三季度調整後每股收益（EPS）為1美元，分析師預期1.03美元。預計四季度訂閱收入將達到42.5億-42.6億美元，分析師預期42.4億美元。預計四季度剩餘待償還債務將增長18.5%，三季度為136.5億美元。"
+    },
+    {
+      "id": "5177239",
+      "time": "2026-10-29 04:27:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科磊預計第二財季營收為45億至49億美元 市場預估為45.2億美元】科磊第一財季營收為41.4億美元，高於預估的40.4億美元；資本開支為1.948億美元，高於預估的1.014億美元；調整後每股收益為1.22美元。公司預計第二財季營收為45億至49億美元，預估為45.2億美元；預計第二財季調整後每股收益為1.33至1.55美元。"
+    },
+    {
+      "id": "mkt:01a18432-067a-7ee0-a9cc-4f6554b9998b",
+      "time": "2026-10-29 04:27:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said consumer surveys may be pessimistic, but actual consumer behavior remains strong."
+    },
+    {
+      "id": "te:markets:595974",
+      "time": "2026-10-29 04:23:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Hits Two-Month Low — The Ibovespa fell nearly 2.6% to close at 171,006 on Wednesday, extending its losses to a third consecutive session and reaching its lowest level in about two months. Investors continued to assess the implications of President Lula’s victory amid fiscal concerns and uncertainty over the composition of his economic team. Banking stocks came under particular pressure, with Santander falling 5% after reporting a 28% year-on-year decline in recurring managerial net income. Other financial stocks also retreated, with Bradesco falling 6.7%, Itaú dropping 3.4%, Itaúsa shedding 2.9%, Banco do Brasil losing 3.2%, and B3 declining 5.1%. Utilities weakened as well, with Axia shedding 5.2%. Elsewhere, Ambev fell 2.2% and Vale lost 3% ahead of their earnings reports on Thursday. Petrobras slipped 0.5% despite a rebound in oil prices. Meanwhile, the US Federal Reserve held interest rates steady, as expected."
+    },
+    {
+      "id": "te:markets:595973",
+      "time": "2026-10-29 04:22:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Honeywell Aerospace earnings in line with market expectations at 2.21 USD — Honeywell Aerospace (HONA) released earnings per share at 2.21 USD."
+    },
+    {
+      "id": "5177237",
+      "time": "2026-10-29 04:21:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：美國總統特朗普經濟議程的許多內容已基本確定，例如減稅政策。"
+    },
+    {
+      "id": "5177236",
+      "time": "2026-10-29 04:21:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：總體而言，貿易協議已基本敲定。"
+    },
+    {
+      "id": "5177235",
+      "time": "2026-10-29 04:21:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：消費者行為相當強勁，企業行為也相當強勁。"
+    },
+    {
+      "id": "mkt:01a1842b-aad6-7ee0-a9cc-414b15e248a5",
+      "time": "2026-10-29 04:20:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said France is in a \"difficult\" position and that he knows the French finance minister well, adding the minister has a weak hand."
+    },
+    {
+      "id": "mkt:01a1842b-a765-7ee0-a9cc-3a091cecd5fa",
+      "time": "2026-10-29 04:20:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he does not view widening debt spreads for AI issuers as a problem."
+    },
+    {
+      "id": "mkt:01a1842b-a2cb-7ee0-a9cc-366d3aaf6134",
+      "time": "2026-10-29 04:20:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he still sees a deal being reached; Meta Platforms (META.O) is pursuing equity financing."
+    },
+    {
+      "id": "mkt:01a1842b-a28f-7ee0-a9cc-2f40d532f030",
+      "time": "2026-10-29 04:20:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said some institutions are beginning to shift toward equity financing."
+    },
+    {
+      "id": "mkt:01a1842b-a1de-7ee0-a9cc-25027482be97",
+      "time": "2026-10-29 04:20:10",
+      "tags": [
+        "MKT News",
+        "BCE.TO",
+        "Impact bearish",
+        "T.TO",
+        "RCI-B.TO"
+      ],
+      "text": "Canadian government launches telecom roadmap to strengthen competition in the sector."
+    },
+    {
+      "id": "5177234",
+      "time": "2026-10-29 04:20:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：很瞭解法國財長，其處境不佳。"
+    },
+    {
+      "id": "5177233",
+      "time": "2026-10-29 04:19:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：部分機構開始轉向股權融資。"
+    },
+    {
+      "id": "5177232",
+      "time": "2026-10-29 04:18:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大政府：電信競爭路線圖提出全國性競爭方案，旨在打破地區壁壘，助力構建統一加拿大經濟。"
+    },
+    {
+      "id": "5177231",
+      "time": "2026-10-29 04:18:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特：完全不認為人工智慧相關借貸存在問題。"
+    },
+    {
+      "id": "5177230",
+      "time": "2026-10-29 04:18:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet 2026 年第三季度滾動 12 個月自由現金流 197.5 億美元，同比下降 73%。"
+    },
+    {
+      "id": "5177229",
+      "time": "2026-10-29 04:17:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗無法獲得美元，其代理人的資金正在減少。"
+    },
+    {
+      "id": "5177228",
+      "time": "2026-10-29 04:16:53",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "全球債券發行量創年度新高，達6.61萬億美元。"
+    },
+    {
+      "id": "5177227",
+      "time": "2026-10-29 04:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：對伊朗的“棄兒行動”正在取得成功。"
+    },
+    {
+      "id": "mkt:01a18428-7fe0-7ee0-a9cc-189f3a4432d0",
+      "time": "2026-10-29 04:16:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House: President Trump said imports of robots and machinery pose a national security risk but did not immediately impose any tariffs."
+    },
+    {
+      "id": "mkt:01a18428-6176-7ee0-a9cc-13f116a7b807",
+      "time": "2026-10-29 04:16:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Industrial Average closed up 97.53 points (+0.19%) at 52,475.10 on Oct. 28 (Wed). S&P 500 closed up 21.38 points (+0.28%) at 7,743.98. Nasdaq Composite closed up 72.04 points (+0.27%) at 26,549.85."
+    },
+    {
+      "id": "mkt:01a18428-5dd7-7ee0-a9cc-0ddaf4ede381",
+      "time": "2026-10-29 04:16:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O): Revenue from commercial arrangements with OpenAI was $10 billion in the quarter ended Sept. 30."
+    },
+    {
+      "id": "mkt:01a18428-5cf5-7ee0-a9cc-00039bf11927",
+      "time": "2026-10-29 04:16:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he is confident Walsh will guide the Federal Reserve in fulfilling its mission."
+    },
+    {
+      "id": "5177226",
+      "time": "2026-10-29 04:15:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "美高梅國際酒店第三季度淨營收42.1億美元，預估42.3億美元；第三季度調整後每股虧損0.11美元。"
+    },
+    {
+      "id": "5177225",
+      "time": "2026-10-29 04:15:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌母公司Alphabet：搜尋查詢量同比增長率創五年來最高。"
+    },
+    {
+      "id": "5177224",
+      "time": "2026-10-29 04:15:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌母公司Alphabet：AI領域投資正推動整體搜尋查詢量增長。"
+    },
+    {
+      "id": "5177223",
+      "time": "2026-10-29 04:14:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：對美聯儲主席沃什引導美聯儲在增長與通脹之間實現恰當平衡抱有充分信心。"
+    },
+    {
+      "id": "5177222",
+      "time": "2026-10-29 04:14:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：美聯儲高度關注長期高於通脹目標的問題。"
+    },
+    {
+      "id": "te:markets:595972",
+      "time": "2026-10-29 04:13:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Chipotle Mexican Grill earnings below expectations at 0.27 USD — Chipotle Mexican Grill (CMG) released earnings per share at 0.27 USD, compared to market expectations of 0.29 USD."
+    },
+    {
+      "id": "5177221",
+      "time": "2026-10-29 04:13:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：正如美聯儲主席沃什所說，債券市場已經為我們完成了大量緊縮。"
+    },
+    {
+      "id": "mkt:01a18425-5de9-7ee0-a9cb-febc8b96f954",
+      "time": "2026-10-29 04:13:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Bessent said the U.S. is experiencing an energy supply shock and the Federal Reserve should keep an open mind."
+    },
+    {
+      "id": "5177220",
+      "time": "2026-10-29 04:13:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌母公司Alphabet：旗下YouTube Music和Premium全球訂閱使用者突破1.5億，含試用使用者。"
+    },
+    {
+      "id": "mkt:01a18425-2bb5-7ee0-a9cb-f1e31741324d",
+      "time": "2026-10-29 04:13:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he and President Trump have full confidence in Federal Reserve Chair Kevin Warsh."
+    },
+    {
+      "id": "mkt:01a18425-19c8-7ee0-a9cb-e9d03b6fb660",
+      "time": "2026-10-29 04:13:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact mixed"
+      ],
+      "text": "Microsoft (MSFT.O) said fiscal 2027 Q1 capex, including assets acquired under finance leases, rose 30% to $45.2 billion."
+    },
+    {
+      "id": "mkt:01a18425-0002-7ee0-a9cb-e6a3caf838a0",
+      "time": "2026-10-29 04:12:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Alphabet (GOOG.O) said Google advertising revenue in Q3 2026 was $82.0 bln, versus market expectation of $83.704 bln."
+    },
+    {
+      "id": "5177219",
+      "time": "2026-10-29 04:12:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：自2024年9月美聯儲降息以來，10年期收益率一路走高，未曾回落。"
+    },
+    {
+      "id": "5177218",
+      "time": "2026-10-29 04:12:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：認為第三季度將公佈強勁的GDP資料。"
+    },
+    {
+      "id": "5177217",
+      "time": "2026-10-29 04:12:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：美國總統特朗普指示官員與貿易伙伴談判達成協議，以應對任何國家進口機器人和工業機械帶來的國家安全風險。"
+    },
+    {
+      "id": "te:markets:595971",
+      "time": "2026-10-29 04:11:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Ford Motor earnings above expectations at 0.49 USD — Ford Motor (F) released earnings per share at 0.49 USD, compared to market expectations of 0.35 USD."
+    },
+    {
+      "id": "te:markets:595970",
+      "time": "2026-10-29 04:11:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "eBay earnings above expectations at 1.51 USD — eBay (EBAY) released earnings per share at 1.51 USD, compared to market expectations of 1.45 USD."
+    },
+    {
+      "id": "te:markets:595969",
+      "time": "2026-10-29 04:11:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "FedEx earnings above expectations at 3.74 USD — FedEx (FDX) released earnings per share at 3.74 USD, compared to market expectations of 3.42 USD."
+    },
+    {
+      "id": "5177216",
+      "time": "2026-10-29 04:11:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：美聯儲應對能源影響的暫時性保持開放態度。"
+    },
+    {
+      "id": "5177215",
+      "time": "2026-10-29 04:11:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：特朗普對沃什應對使命“充滿信心”。"
+    },
+    {
+      "id": "5177214",
+      "time": "2026-10-29 04:10:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌母公司Alphabet：其第一方模型API目前每分鐘處理近320億個token。"
+    },
+    {
+      "id": "5177213",
+      "time": "2026-10-29 04:10:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "Chipotle（墨式烤肉）三季度營收33億美元，分析師預期32.9億美元。"
+    },
+    {
+      "id": "5177212",
+      "time": "2026-10-29 04:10:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "Honeywell Aerospace Inc.（HONA）美股盤後漲7.3%。"
+    },
+    {
+      "id": "5177211",
+      "time": "2026-10-29 04:10:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "eBay第三季度淨營收為32.1億美元，高於市場預估的31.2億美元；持續經營業務調整後每股收益為1.51美元，高於預估的1.42美元。"
+    },
+    {
+      "id": "te:markets:595968",
+      "time": "2026-10-29 04:09:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Wall Street Rises as Fed Holds Rates Steady — US stocks indices closed higher on Wednesday, with the S&P 500 rising 0.3%, the Nasdaq gaining 0.2% and the Dow inching above the flatline, as investors digested the latest FOMC decision and comments from Fed Chair Warsh. As expected, the Fed left interest rates unchanged, although two policymakers dissented in favor of a 25bps rate hike. Warsh struck a confident tone on inflation expectations, suggesting they remain well anchored. Heavyweight financial stocks mostly advanced, with JPMorgan up 1%, Morgan Stanley gaining 1.7%, Goldman Sachs rising 1.5%, and Wells Fargo adding 1.2%. Corporate earnings remained in focus, with Microsoft (-0.1%) and Alphabet (+1.3%) set to report after the closing bell. Alphabet also benefited from reports that OpenAI plans to buy AI computing chips from Google. Record quarterly profits at SK Hynix lifted chip stocks, including Micron (+5.9%) and AMD (+3.2%). In contrast, Apple fell 0.9% despite unveiling a revamped MacBook Pro featuring a touchscreen."
+    },
+    {
+      "id": "te:markets:595967",
+      "time": "2026-10-29 04:09:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "KLA Corporation earnings above expectations at 1.22 USD — KLA Corporation (KLAC) released earnings per share at 1.22 USD, compared to market expectations of 1.14 USD."
+    },
+    {
+      "id": "5177210",
+      "time": "2026-10-29 04:09:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：美聯儲主席沃什開局非常出色。"
+    },
+    {
+      "id": "5177209",
+      "time": "2026-10-29 04:09:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "白宮：美國總統特朗普表示，進口機器人和機械構成國家安全風險，但未立即徵收任何關稅。"
+    },
+    {
+      "id": "5177208",
+      "time": "2026-10-29 04:09:15",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "聯邦快遞預計全年調整後每股收益18至18.60美元，此前預期為16.90至18.10美元。"
+    },
+    {
+      "id": "5177207",
+      "time": "2026-10-29 04:08:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "ServiceNow：ServiceNow MCP外掛已上架OpenAI市場；將於2026年底推出增強功能。"
+    },
+    {
+      "id": "5177206",
+      "time": "2026-10-29 04:07:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI債務供應激增 華爾街信貸市場開始吃不消】隨著華爾街為支撐人工智慧(AI)熱潮的龐大資料中心和晶片網路提供資金，一種新的焦慮正在蔓延：早期跡象顯示，信貸市場進一步消化債務的能力正在逼近上限。為AI基礎設施建設融資的債券和貸款收益率接連飆升至兩位數。銀行家們發現，將風險轉給保險公司和其他投資者的難度日益加大。埃隆·馬斯克日前甚至警告稱，隨著企業難以獲得新的融資，數百家所謂的“新雲”公司面臨倒閉風險。"
+    },
+    {
+      "id": "5177205",
+      "time": "2026-10-29 04:06:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌母公司Alphabet：GEMINI應用程式的使用者數量已達10億。"
+    },
+    {
+      "id": "te:markets:595966",
+      "time": "2026-10-29 04:06:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Alphabet earnings below expectations at 2.12 USD — Alphabet (googl) released earnings per share at 2.12 USD, compared to market expectations of 3.01 USD."
+    },
+    {
+      "id": "5177203",
+      "time": "2026-10-29 04:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福特汽車第三季度總營收495.3億美元 同比減少1.9%】福特汽車第三季度總營收495.3億美元，同比減少1.9%；調整後每股收益0.49美元，上年同期0.45美元，預估0.41美元；調整後息稅前利潤27億美元，同比+3.8%，預估23.8億美元。福特汽車預計全年 調整後息稅前利潤105億美元至110億美元，此前預計100億美元至110億美元，預估105.2億美元；仍然預測資本支出95億美元至105億美元，市場預估99億美元。"
+    },
+    {
+      "id": "5177202",
+      "time": "2026-10-29 04:05:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白宮：美國總統特朗普簽署公告，調整機器人、工業機械及其零部件和元件的對美進口。"
+    },
+    {
+      "id": "5177201",
+      "time": "2026-10-29 04:05:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟第一財季不計匯率因素的AZURE營收增長48%，預期為增長44.8%。"
+    },
     {
       "id": "te:markets:595965",
       "time": "2026-10-29 04:03:59",
