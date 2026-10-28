@@ -1,7 +1,69 @@
 {
-  "updated": "2026-10-29 03:41:43",
-  "count": 13071,
+  "updated": "2026-10-29 03:45:33",
+  "count": 13075,
   "items": [
+    {
+      "id": "5177169",
+      "time": "2026-10-29 03:45:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿拉伯電視臺援引訊息人士稱，調解方與伊朗正在商議，計劃在 11 月 4 日之前於土耳其召開會談。"
+    },
+    {
+      "id": "5177168",
+      "time": "2026-10-29 03:44:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM宣佈推出面向Apache Flink的IBM Watsonx.Data Integration。"
+    },
+    {
+      "id": "5177166",
+      "time": "2026-10-29 03:43:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：伊朗最早可能於週四對卡達新提案給出答覆】據以色列i24NEWS獲悉，卡達方面正在等待德黑蘭對新提案作出答覆，伊朗最早可能於週四給出答覆。兩名地區外交官透露，根據目前的提議，伊朗將需就其核計劃採取具體措施，作為交換，美國將放寬部分制裁，並解凍部分資金。目前正在考慮的措施是恢復國際原子能機構核查人員對伊朗各處核設施的檢查。迄今為止，美伊談判的難點在於，伊朗要求先解除封鎖、適度放寬制裁，然後才討論核問題。而特朗普政府則要求，伊朗在談判第一階段就必須在核問題上採取行動。一名美國高階官員向i24NEWS表示：“美國在任何情況下都不會在中期選舉前攻擊伊朗。”"
+    },
+    {
+      "id": "mkt:01a18409-a458-7ee0-a9cb-18bd909fe32f",
+      "time": "2026-10-29 03:43:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Official Israeli tallies show that with 88.6% of votes counted and turnout at 77.7%, Netanyahu's bloc is projected to win 53 Knesset seats, eight short of the 61-seat majority; the opposition is projected at 48 seats, 13 short. Neither side currently has the majority required to form a government."
+    },
+    {
+      "id": "mkt:01a18409-7185-7ee0-a9cb-109f51459d9b",
+      "time": "2026-10-29 03:42:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Both hawkish and dovish language from Fed Chair Kevin Warsh declined】An institutional AI model shows the sentiment in Fed Chair Kevin Warsh’s opening remarks at the press conference was slightly less hawkish than at recent meetings; dovish language fell, but hawkish language also declined."
+    },
+    {
+      "id": "mkt:01a18409-3d01-7ee0-a9cb-089dc9970b5e",
+      "time": "2026-10-29 03:42:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【i24NEWS: Iran could respond to Qatar's new proposal as early as Thursday】i24NEWS reports Qatar is awaiting Tehran’s response to a new proposal; Iran could reply as early as Thursday, two regional diplomats said. Under the current draft, Iran would take concrete steps on its nuclear program in exchange for the US easing some sanctions and unfreezing funds. Measures under consideration include restoring IAEA inspectors’ access to Iranian nuclear sites. Talks remain stalled on sequencing: Iran wants sanctions relief before nuclear discussions, while the Trump administration insists Iran must take nuclear actions in the first phase. A US senior official told i24NEWS: \"The US will under no circumstances attack Iran before the midterm elections.\""
+    },
+    {
+      "id": "5177165",
+      "time": "2026-10-29 03:41:46",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【英國財相：將對主權財富基金在英房地產持股加稅】從攝政街到金絲雀碼頭，英國財政大臣約翰·希利找到了一個潛在的新收入來源，以充實英國稅收——全球主權財富基金持有的英國房地產投資組合。根據希利首份預算案公佈後財政部發布的檔案，此前免繳租金所得稅的政府支援基金，現在將按15%的稅率繳稅。檔案顯示，政府預計到2029-30財年，此項稅收將帶來約7億英鎊（9.32億美元）收入。根據希利首份預算案公佈後財政部發布的檔案，此前免繳租金所得稅的政府支援基金，現在將按15%的稅率繳稅。檔案顯示，政府預計到2029-30財年，此項稅收將帶來約7億英鎊（9.32億美元）收入。"
+    },
     {
       "id": "5177161",
       "time": "2026-10-29 03:38:40",
@@ -117856,40 +117918,6 @@
         "市場"
       ],
       "text": "【國際油價21日漲跌不一】截至當天收盤，紐約商品交易所12月交貨的輕質原油期貨價格下跌67美分，收於每桶97.15美元，跌幅為0.68%；12月交貨的倫敦布倫特原油期貨價格上漲3美分，收於每桶108.82美元，漲幅為0.03%。"
-    },
-    {
-      "id": "mkt:01a15ffe-16bb-7ee0-a930-70746ed0309a",
-      "time": "2026-10-22 03:44:09",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Dollar index up 0.08% at 101.780 at New York close on the 21st】Dollar index rose 0.08% to 101.780 at the New York close on the 21st. EUR/USD 1.1223, down from 1.1237; GBP/USD 1.3384, up from 1.3383; USD/JPY 158.29, up from 158.20; USD/CHF 0.8254, up from 0.8248; USD/CAD 1.4052, down from 1.4057; USD/SEK 9.8985, up from 9.8979."
-    },
-    {
-      "id": "5159248",
-      "time": "2026-10-22 03:44:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數21日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.08%，在匯市尾市收於101.780。截至紐約匯市尾市，1歐元兌換1.1223美元，低於前一交易日的1.1237美元；1英鎊兌換1.3384美元，高於前一交易日的1.3383美元。1美元兌換158.29日元，高於前一交易日的158.20日元；1美元兌換0.8254瑞士法郎，高於前一交易日的0.8248瑞士法郎；1美元兌換1.4052加元，低於前一交易日的1.4057加元；1美元兌換9.8985瑞典克朗，高於前一交易日的9.8979瑞典克朗。"
-    },
-    {
-      "id": "mkt:01a15ffc-8401-7ee0-a930-6a30a66529a4",
-      "time": "2026-10-22 03:42:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US clarifies reports of Gulf embassy evacuations; order limited to Saudi Arabia】The US State Department said reports that it planned to order evacuations of some Gulf embassy staff were inaccurate. An evacuation directive applies only to non-emergency US government employees and their families in Saudi Arabia. The statement cited increasing hostile actions by Houthi forces against Saudi Arabia, including attacks on civilian airports and other critical infrastructure that have caused civilian casualties and major travel disruption. The department said protecting the safety and security of its personnel and families remains a top priority and it will take all necessary measures to protect and support them."
     }
   ]
 }
