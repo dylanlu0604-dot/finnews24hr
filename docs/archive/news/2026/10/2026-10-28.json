@@ -1,7 +1,186 @@
 {
   "date": "2026-10-28",
-  "count": 694,
+  "count": 713,
   "items": [
+    {
+      "id": "5174211",
+      "time": "2026-10-28 09:00:37",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭貨幣政策委員會今日以4比3的投票結果決定將官方現金利率維持在2.75%。"
+    },
+    {
+      "id": "mkt:01a18005-df40-7ee0-a9a6-64718ea972c9",
+      "time": "2026-10-28 09:00:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 index futures opened 0.51% higher."
+    },
+    {
+      "id": "mkt:01a18005-d0ca-7ee0-a9a6-580c605da47c",
+      "time": "2026-10-28 09:00:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【RBNZ unexpectedly holds OCR at 2.75%】RBNZ held the official cash rate at 2.75%, surprising markets that had priced in a 25bp hike."
+    },
+    {
+      "id": "5174210",
+      "time": "2026-10-28 09:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.4%至46,722.44點。"
+    },
+    {
+      "id": "5174209",
+      "time": "2026-10-28 09:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1.1%至263.12點。"
+    },
+    {
+      "id": "5174208",
+      "time": "2026-10-28 09:00:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行基準利率維持在2.75%; 預估為3.00%。"
+    },
+    {
+      "id": "mkt:01a18005-9bba-7ee0-a9a6-5065214a0bf0",
+      "time": "2026-10-28 09:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【South Korea's KOSPI jumps 5%】South Korea's KOSPI extended gains to 5%; Samsung Electronics rose 7% and SK Hynix rose 5.8%."
+    },
+    {
+      "id": "mkt:01a18005-9aa5-7ee0-a9a6-488238e2091e",
+      "time": "2026-10-28 09:00:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RBNZ held the official cash rate at 2.75% on Oct 28, versus market expectation of 3.00%; prior 2.75%."
+    },
+    {
+      "id": "mkt:01a18005-8c7e-7ee0-a9a6-41b21b7414ad",
+      "time": "2026-10-28 09:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "At the open, China's most-active futures contracts were mixed. Coking coal rose over 3%; coke, soda ash and lithium carbonate gained more than 2%; flat glass was up about 2%; alumina, PVC and Shanghai silver rose above 1%. Shanghai crude (SC) fell more than 2%; benzene, fuel oil, soybean No.2, PTA, coated paper and paraxylene dropped over 1%."
+    },
+    {
+      "id": "5174207",
+      "time": "2026-10-28 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲1%，現報5182.00元。"
+    },
+    {
+      "id": "5174206",
+      "time": "2026-10-28 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報2624.50點。"
+    },
+    {
+      "id": "mkt:01a18005-79d8-7ee0-a9a6-3b21e747feb1",
+      "time": "2026-10-28 09:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Official Cash Rate (Oct.28) | actual 2.75% | consensus 3.00% | previous 2.75%"
+    },
+    {
+      "id": "5174205",
+      "time": "2026-10-28 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】集運指數歐線期貨連續跌4.27%，碳酸鋰連續漲2.94%，焦煤連續漲2.78%，焦炭連續漲2.14%，純鹼連續漲2.07%。"
+    },
+    {
+      "id": "5174204",
+      "time": "2026-10-28 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.65%。"
+    },
+    {
+      "id": "5174203",
+      "time": "2026-10-28 08:59:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【千方科技等投資成立新公司 含智慧機器人業務】企查查APP顯示，近日，貴州航視科技有限公司成立，經營範圍包含智慧機器人的研發；配電開關控制裝置研發；充電樁銷售；電動汽車充電基礎設施運營等。企查查股權穿透顯示，該公司由千方科技旗下浙江宇視科技有限公司等共同持股。"
+    },
+    {
+      "id": "5174202",
+      "time": "2026-10-28 08:59:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聖邦股份推出適用於汽車應用的24通道多路開關檢測介面】據聖邦股份訊息，公司推出SGMCD1024xQ，一款適用於汽車應用的24通道多路開關檢測介面（MSDI）。該器件可應用於車身控制、閘道器、照明、空調系統及電動座椅等諸多場合。"
+    },
+    {
+      "id": "5174201",
+      "time": "2026-10-28 08:59:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精達股份等成立私募股權投資基金】企查查APP顯示，近日，銅陵精裕私募股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由精達股份等共同出資。"
+    },
+    {
+      "id": "5174200",
+      "time": "2026-10-28 08:58:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：內閣有責任在兩年後恢復稅率。"
+    },
+    {
+      "id": "5174199",
+      "time": "2026-10-28 08:57:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "晶片製造商Onsemi正就以約10億美元收購初創公司Ferric進行談判。"
+    },
     {
       "id": "5174191",
       "time": "2026-10-28 08:57:05",

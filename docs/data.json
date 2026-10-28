@@ -1,7 +1,186 @@
 {
-  "updated": "2026-10-28 08:57:39",
-  "count": 13040,
+  "updated": "2026-10-28 09:01:42",
+  "count": 13039,
   "items": [
+    {
+      "id": "5174211",
+      "time": "2026-10-28 09:00:37",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭貨幣政策委員會今日以4比3的投票結果決定將官方現金利率維持在2.75%。"
+    },
+    {
+      "id": "mkt:01a18005-df40-7ee0-a9a6-64718ea972c9",
+      "time": "2026-10-28 09:00:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 index futures opened 0.51% higher."
+    },
+    {
+      "id": "mkt:01a18005-d0ca-7ee0-a9a6-580c605da47c",
+      "time": "2026-10-28 09:00:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【RBNZ unexpectedly holds OCR at 2.75%】RBNZ held the official cash rate at 2.75%, surprising markets that had priced in a 25bp hike."
+    },
+    {
+      "id": "5174210",
+      "time": "2026-10-28 09:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.4%至46,722.44點。"
+    },
+    {
+      "id": "5174209",
+      "time": "2026-10-28 09:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1.1%至263.12點。"
+    },
+    {
+      "id": "5174208",
+      "time": "2026-10-28 09:00:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行基準利率維持在2.75%; 預估為3.00%。"
+    },
+    {
+      "id": "mkt:01a18005-9bba-7ee0-a9a6-5065214a0bf0",
+      "time": "2026-10-28 09:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【South Korea's KOSPI jumps 5%】South Korea's KOSPI extended gains to 5%; Samsung Electronics rose 7% and SK Hynix rose 5.8%."
+    },
+    {
+      "id": "mkt:01a18005-9aa5-7ee0-a9a6-488238e2091e",
+      "time": "2026-10-28 09:00:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RBNZ held the official cash rate at 2.75% on Oct 28, versus market expectation of 3.00%; prior 2.75%."
+    },
+    {
+      "id": "mkt:01a18005-8c7e-7ee0-a9a6-41b21b7414ad",
+      "time": "2026-10-28 09:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "At the open, China's most-active futures contracts were mixed. Coking coal rose over 3%; coke, soda ash and lithium carbonate gained more than 2%; flat glass was up about 2%; alumina, PVC and Shanghai silver rose above 1%. Shanghai crude (SC) fell more than 2%; benzene, fuel oil, soybean No.2, PTA, coated paper and paraxylene dropped over 1%."
+    },
+    {
+      "id": "5174207",
+      "time": "2026-10-28 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲1%，現報5182.00元。"
+    },
+    {
+      "id": "5174206",
+      "time": "2026-10-28 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報2624.50點。"
+    },
+    {
+      "id": "5174205",
+      "time": "2026-10-28 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】集運指數歐線期貨連續跌4.27%，碳酸鋰連續漲2.94%，焦煤連續漲2.78%，焦炭連續漲2.14%，純鹼連續漲2.07%。"
+    },
+    {
+      "id": "mkt:01a18005-79d8-7ee0-a9a6-3b21e747feb1",
+      "time": "2026-10-28 09:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Official Cash Rate (Oct.28) | actual 2.75% | consensus 3.00% | previous 2.75%"
+    },
+    {
+      "id": "5174204",
+      "time": "2026-10-28 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.65%。"
+    },
+    {
+      "id": "5174203",
+      "time": "2026-10-28 08:59:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【千方科技等投資成立新公司 含智慧機器人業務】企查查APP顯示，近日，貴州航視科技有限公司成立，經營範圍包含智慧機器人的研發；配電開關控制裝置研發；充電樁銷售；電動汽車充電基礎設施運營等。企查查股權穿透顯示，該公司由千方科技旗下浙江宇視科技有限公司等共同持股。"
+    },
+    {
+      "id": "5174202",
+      "time": "2026-10-28 08:59:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聖邦股份推出適用於汽車應用的24通道多路開關檢測介面】據聖邦股份訊息，公司推出SGMCD1024xQ，一款適用於汽車應用的24通道多路開關檢測介面（MSDI）。該器件可應用於車身控制、閘道器、照明、空調系統及電動座椅等諸多場合。"
+    },
+    {
+      "id": "5174201",
+      "time": "2026-10-28 08:59:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精達股份等成立私募股權投資基金】企查查APP顯示，近日，銅陵精裕私募股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由精達股份等共同出資。"
+    },
+    {
+      "id": "5174200",
+      "time": "2026-10-28 08:58:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：內閣有責任在兩年後恢復稅率。"
+    },
+    {
+      "id": "5174199",
+      "time": "2026-10-28 08:57:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "晶片製造商Onsemi正就以約10億美元收購初創公司Ferric進行談判。"
+    },
     {
       "id": "5174191",
       "time": "2026-10-28 08:57:05",
@@ -116947,182 +117126,6 @@
         "Impact bullish"
       ],
       "text": "WTI crude oil futures up more than 1.00% intraday at $98.80/bbl."
-    },
-    {
-      "id": "5157176",
-      "time": "2026-10-21 09:01:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報98.81美元/桶。"
-    },
-    {
-      "id": "5157175",
-      "time": "2026-10-21 09:00:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報109.88美元/桶。"
-    },
-    {
-      "id": "5157174",
-      "time": "2026-10-21 09:00:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌6%，現報2482.50點。"
-    },
-    {
-      "id": "mkt:01a15bf9-9145-7ee0-a914-3654d671e6f4",
-      "time": "2026-10-21 09:00:44",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Container shipping index (European session) most-active contract fell below 2,500.0 points, down 5.94% intraday."
-    },
-    {
-      "id": "mkt:01a15bf9-739d-7ee0-a914-2f18d9d04843",
-      "time": "2026-10-21 09:00:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Market Regions",
-        "Greater China",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D in early trade on Wednesday, Oct. 21 was down 0.43% at 886.0 yuan/gram; silver T+D was up 0.98% at 13,963.0 yuan/kg."
-    },
-    {
-      "id": "mkt:01a15bf9-4d95-7ee0-a914-24f994f3b81c",
-      "time": "2026-10-21 09:00:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Chinese commodity futures opened mixed with most front-month contracts lower. Container-shipping Europe-route futures fell over 5%. Shanghai crude (SC) dropped more than 3%; fuel oil down nearly 3%. Polypropylene monthly-average contract lost over 2%; LPG and low-sulfur fuel oil (LU) off about 2%. 20# rubber and rapeseed meal fell more than 1%. On the upside, SHFE nickel rose nearly 2%; SHFE tin, SHFE silver, lithium carbonate and ethylene glycol (EG) gained over 1%."
-    },
-    {
-      "id": "mkt:01a15bf9-3969-7ee0-a914-185a540f7843",
-      "time": "2026-10-21 09:00:22",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "FTSE China A50 index futures opened 0.35% higher."
-    },
-    {
-      "id": "5157173",
-      "time": "2026-10-21 09:00:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲1.3%至46,872.23點。"
-    },
-    {
-      "id": "5157172",
-      "time": "2026-10-21 09:00:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開高0.3%報46,454.33。"
-    },
-    {
-      "id": "5157171",
-      "time": "2026-10-21 09:00:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌3%，現報4780.00元。"
-    },
-    {
-      "id": "5157170",
-      "time": "2026-10-21 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲1%，現報5045.00元。"
-    },
-    {
-      "id": "5157169",
-      "time": "2026-10-21 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌5%，現報2520.00點。"
-    },
-    {
-      "id": "5157168",
-      "time": "2026-10-21 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌1%，現報3103.00元。"
-    },
-    {
-      "id": "5157167",
-      "time": "2026-10-21 09:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.34%。"
-    },
-    {
-      "id": "5157166",
-      "time": "2026-10-21 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】集運指數歐線期貨連續跌4.33%，上海原油連續跌3.52%，燃料油連續跌3.10%，液化石油氣連續跌2.19%，對二甲苯連續跌2.05%。"
-    },
-    {
-      "id": "5157165",
-      "time": "2026-10-21 08:59:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI稱其智慧體曾削弱提示AI不當行為的系統】OpenAI發現了其AI智慧體削弱內部的異常行為監控系統並關閉警報的事件。近幾個月來，同類事件已發生多起。該公司週二在部落格文章中表示，其正在評估此類案例是否表明其AI模型存在更普遍的逃避監控傾向。OpenAI表示，事件發生在旗下智慧體執行兩項內部程式設計任務期間。根據前述文章，事件發生在OpenAI內部，該公司沒有提及任何受影響的外部方。近幾個月來，對於AI“錯位”(misalignment)的擔憂日益加劇。所謂錯位，就是模型沒有按照建造者的意願執行。此前，OpenAI及Anthropic PBC等同行已披露多起先進AI模型出現此類行為的案例。OpenAI表示，未來將開展更多評估，並執行更嚴格的安全要求，以儘量降低發生此類事件的可能性。不過，OpenAI表示，對於旗下智慧體為何出現上述行為，“尚未找到令人滿意的解釋”。"
-    },
-    {
-      "id": "5157164",
-      "time": "2026-10-21 08:59:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【極米科技等成立馬克先生科技公司，含智慧機器人業務】企查查APP顯示，近日，深圳馬克先生科技有限公司成立，經營範圍包含：智慧機器人的研發；智慧機器人銷售；智慧基礎製造裝備製造；智慧基礎製造裝備銷售等。企查查股權穿透顯示，該公司由極米科技等共同持股。"
-    },
-    {
-      "id": "5157163",
-      "time": "2026-10-21 08:59:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【氬氣價格兩週漲超40% 業內：副產品屬性帶來高利潤彈性】記者獲悉，Q4開始氬氣價格快速上行。資料顯示，截至20日，東北、華東地區液氬價格分別漲至約2540元/噸和3057元/噸。較10月8日，兩地價格分別上漲970元/噸和1101元/噸，漲幅高達38.3%和49.4%。業內人士接受採訪時稱，供應端空分裝置開工偏低，疊加高階製造、半導體領域需求持續增長，氬氣供需出現緊張局面。同時，作為空分副產品，氬氣的邊際成本低，漲價帶來的增量收入幾乎可以全部轉化為毛利，從而給相關企業帶來較為可觀的利潤。 (財聯社)"
-    },
-    {
-      "id": "5157162",
-      "time": "2026-10-21 08:58:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【10月20日188股獲融資買入超億元 長鑫科技獲買入13.67億元居首】10月20日共有3535只個股獲融資資金買入，有188股買入金額超億元。其中，長鑫科技、中際旭創、寧德時代融資買入金額排名前三，分別獲買入13.67億元、11.11億元、10.32億元。"
-    },
-    {
-      "id": "5157161",
-      "time": "2026-10-21 08:57:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中東部大部降水稀少 江南多地降溫如換季】今天（10月21日）起，中東部大部降水稀少，新疆北部雨雪增多。同時，受冷空氣影響，東北、西南、江南、華南等地氣溫下降，江南不少地方降溫猛烈，隔日如換季。明天起，中東部氣溫自北向南開始陸續反彈。"
     }
   ]
 }
