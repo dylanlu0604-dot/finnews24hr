@@ -1,7 +1,116 @@
 {
   "date": "2026-10-28",
-  "count": 1315,
+  "count": 1326,
   "items": [
+    {
+      "id": "mkt:01a18149-4e64-7ee0-a9ae-3828441fc944",
+      "time": "2026-10-28 14:53:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's state oil company CEO said he does not expect a natural gas shortage, but European natural gas prices could rise."
+    },
+    {
+      "id": "5175056",
+      "time": "2026-10-28 14:53:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "野村證券：將繼續保持嚴謹的風險承擔和成本控制。"
+    },
+    {
+      "id": "mkt:01a18148-f46b-7ee0-a9ae-33d63cb7bc6d",
+      "time": "2026-10-28 14:53:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's state oil company CEO said gas-market pressures will intensify as winter begins."
+    },
+    {
+      "id": "5175055",
+      "time": "2026-10-28 14:52:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "Equinor執行長表示：進入冬季，天然氣市場面臨更大壓力。"
+    },
+    {
+      "id": "te:markets:595673",
+      "time": "2026-10-28 14:51:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "UBS earnings below expectations at 0.85 USD — UBS (UBS) released earnings per share at 0.85 USD, compared to market expectations of 0.91 USD."
+    },
+    {
+      "id": "5175054",
+      "time": "2026-10-28 14:51:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "ASM International在Tradegate交易所較阿姆斯特丹收盤價格上漲5%。"
+    },
+    {
+      "id": "mkt:01a18147-4389-7ee0-a9ae-2d5d01b4e132",
+      "time": "2026-10-28 14:51:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Equinor CEO says any further escalation of the Middle East war could have a greater impact on markets."
+    },
+    {
+      "id": "5175053",
+      "time": "2026-10-28 14:51:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "挪威國家石油公司執行長表示：中東戰爭的任何進一步升級都可能對市場產生更大影響。"
+    },
+    {
+      "id": "mkt:01a18146-cc29-7ee0-a9ae-2205076ebea7",
+      "time": "2026-10-28 14:51:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK government: these fixed costs will be paid at a per‑unit rate."
+    },
+    {
+      "id": "mkt:01a18145-ea4e-7ee0-a9ae-1d2f9f5d05a2",
+      "time": "2026-10-28 14:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Germany's November GfK consumer confidence index is due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a18145-e71c-7ee0-a9ae-16c9730ba9d6",
+      "time": "2026-10-28 14:50:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【BMO: Fed likely to signal hawkish pause; several officials may dissent】Markets largely expect the Fed to hold rates today. BMO analysts say policymakers are likely to signal a \"hawkish pause\" and that multiple officials could cast dissenting votes. They flagged Hamak, Logan and Kashkari—who opposed pausing in July—as names to watch. Markets will focus on Fed Chair KEVIN WARSH’s FOMC press-conference remarks for guidance on policymakers’ outlook for the economy and interest rates for the remainder of 2026."
+    },
     {
       "id": "mkt:01a18145-c40b-7ee0-a9ae-0ca8e047a396",
       "time": "2026-10-28 14:49:55",

@@ -1,7 +1,116 @@
 {
-  "updated": "2026-10-28 14:50:22",
-  "count": 13110,
+  "updated": "2026-10-28 14:55:05",
+  "count": 13119,
   "items": [
+    {
+      "id": "mkt:01a18149-4e64-7ee0-a9ae-3828441fc944",
+      "time": "2026-10-28 14:53:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's state oil company CEO said he does not expect a natural gas shortage, but European natural gas prices could rise."
+    },
+    {
+      "id": "5175056",
+      "time": "2026-10-28 14:53:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "野村證券：將繼續保持嚴謹的風險承擔和成本控制。"
+    },
+    {
+      "id": "mkt:01a18148-f46b-7ee0-a9ae-33d63cb7bc6d",
+      "time": "2026-10-28 14:53:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's state oil company CEO said gas-market pressures will intensify as winter begins."
+    },
+    {
+      "id": "5175055",
+      "time": "2026-10-28 14:52:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "Equinor執行長表示：進入冬季，天然氣市場面臨更大壓力。"
+    },
+    {
+      "id": "te:markets:595673",
+      "time": "2026-10-28 14:51:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "UBS earnings below expectations at 0.85 USD — UBS (UBS) released earnings per share at 0.85 USD, compared to market expectations of 0.91 USD."
+    },
+    {
+      "id": "5175054",
+      "time": "2026-10-28 14:51:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "ASM International在Tradegate交易所較阿姆斯特丹收盤價格上漲5%。"
+    },
+    {
+      "id": "mkt:01a18147-4389-7ee0-a9ae-2d5d01b4e132",
+      "time": "2026-10-28 14:51:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Equinor CEO says any further escalation of the Middle East war could have a greater impact on markets."
+    },
+    {
+      "id": "5175053",
+      "time": "2026-10-28 14:51:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "挪威國家石油公司執行長表示：中東戰爭的任何進一步升級都可能對市場產生更大影響。"
+    },
+    {
+      "id": "mkt:01a18146-cc29-7ee0-a9ae-2205076ebea7",
+      "time": "2026-10-28 14:51:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK government: these fixed costs will be paid at a per‑unit rate."
+    },
+    {
+      "id": "mkt:01a18145-ea4e-7ee0-a9ae-1d2f9f5d05a2",
+      "time": "2026-10-28 14:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Germany's November GfK consumer confidence index is due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a18145-e71c-7ee0-a9ae-16c9730ba9d6",
+      "time": "2026-10-28 14:50:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【BMO: Fed likely to signal hawkish pause; several officials may dissent】Markets largely expect the Fed to hold rates today. BMO analysts say policymakers are likely to signal a \"hawkish pause\" and that multiple officials could cast dissenting votes. They flagged Hamak, Logan and Kashkari—who opposed pausing in July—as names to watch. Markets will focus on Fed Chair KEVIN WARSH’s FOMC press-conference remarks for guidance on policymakers’ outlook for the economy and interest rates for the remainder of 2026."
+    },
     {
       "id": "mkt:01a18145-c40b-7ee0-a9ae-0ca8e047a396",
       "time": "2026-10-28 14:49:55",
@@ -117772,27 +117881,6 @@
         "Importance 1"
       ],
       "text": "Japanese Stocks Advance on AI Optimism — Japan’s Nikkei 225 Index climbed 0.85% to close at 64,621 on Wednesday, recovering from one-month lows as AI-related stocks led the gains. Strong results from server manufacturer Super Micro Computer improved expectations for AI spending, while robust earnings from SpaceX, supported by growth in its AI and satellite internet businesses, further lifted sentiment. Among the top tech performers in Japan were Kioxia Holdings (2.8%), Advantest (1.7%), SoftBank Group (1.5%), Lasertec (1.5%), and Taiyo Yuden (1.7%). Financial stocks also rebounded, including Mitsubishi UFJ (2.4%) and Sumitomo Mitsui (2.3%). However, the market retreated from its session highs as oil prices climbed again amid renewed uncertainty surrounding US-Iran negotiations, heightening inflation concerns. Meanwhile, data showed that Japanese exports grew less than expected in September but extended their expansion for a 13th consecutive month, supported by strong demand for semiconductors and AI-related products."
-    },
-    {
-      "id": "em:jjsj_zgsj:202610213902585093",
-      "time": "2026-10-21 14:55:00",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【北京：前三季度地區生產總值同比增長5.2%】據北京市統計局訊息，根據地區生產總值統一核算結果，前三季度，全市實現地區生產總值40468.4億元，按不變價格計算，同比增長5.2%。"
-    },
-    {
-      "id": "te:economy:593697",
-      "time": "2026-10-21 14:52:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Loan Growth",
-        "Importance 1"
-      ],
-      "text": "Indonesia Loan Growth Eases to 3-Month Low — Indonesia’s loan growth rose 13.26% year-on-year in September 2026, following a 13.36% increase in August, marking the slowest growth since June. By usage, investment loans led the expansion, growing 23.2%, followed by working capital loans (11.89%) and consumer loans (4.86%). Meanwhile, undisbursed loan facilities stood at IDR 2,562.57 trillion, equivalent to 21.70% of total credit limits. Lending prospects are also supported by steady third-party fund growth of 8.22% year-on-year. The banking industry's liquid assets-to-deposits (AL/DPK) ratio stood at 24.08% in September, while the non-performing loan ratio stood at 2.11% (gross) and 0.84% (net). The central bank expects loan growth to reach 8–12% for the full year, reflecting its accommodative macroprudential stance to support the economy."
     }
   ]
 }
