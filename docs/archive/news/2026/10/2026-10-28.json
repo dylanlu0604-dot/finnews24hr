@@ -1,7 +1,322 @@
 {
   "date": "2026-10-28",
-  "count": 1900,
+  "count": 1933,
   "items": [
+    {
+      "id": "mkt:01a1829a-88fa-7ee0-a9b9-7d948df73e4b",
+      "time": "2026-10-28 21:02:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "HF Sinclair said refinery capacity shortages are expected to persist and \"will not recover in the near term.\""
+    },
+    {
+      "id": "mkt:01a1829a-4c50-7ee0-a9b9-728b043f579b",
+      "time": "2026-10-28 21:01:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK chancellor said he will prevent regulation from blocking investment."
+    },
+    {
+      "id": "mkt:01a1829a-2ecb-7ee0-a9b9-6d2ac6376078",
+      "time": "2026-10-28 21:01:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "BARC.L",
+        "Impact bearish",
+        "LLOY.L",
+        "HSBA.L"
+      ],
+      "text": "UK Chancellor Healy said an additional tax on banks will take effect in January and run for 15 months."
+    },
+    {
+      "id": "5176535",
+      "time": "2026-10-28 21:01:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將防止監管阻礙投資。"
+    },
+    {
+      "id": "5176534",
+      "time": "2026-10-28 21:01:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲航空將與柯林斯的787發動機短艙協議延長至2037年。"
+    },
+    {
+      "id": "5176533",
+      "time": "2026-10-28 21:01:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【駐慕尼黑總領館提醒領區中國公民注意防範遊行示威相關風險】10月28日，中國駐慕尼黑總領館釋出安全提醒：綜合當地媒體報道，10月31日萬聖節當天，我館領區慕尼黑、紐倫堡、奧格斯堡、羅森海姆等城市將舉行大規模遊行示威活動。請領區中國公民密切關注本地治安動態，提高安全警惕，留意周邊動向，妥善保管證件財物，儘量避開示威路段，不圍觀、不逗留、不參與相關活動。如遇緊急情況，請務必保持冷靜，及時報警並聯系總領館求助。"
+    },
+    {
+      "id": "5176532",
+      "time": "2026-10-28 21:01:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：希望劃清界限，解決制約企業發展的成本問題。"
+    },
+    {
+      "id": "mkt:01a18299-6390-7ee0-a9b9-60998b03254a",
+      "time": "2026-10-28 21:00:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "LLOY.L",
+        "Impact bearish",
+        "BARC.L",
+        "HSBA.L"
+      ],
+      "text": "UK Chancellor Healy said banks will pay an additional 3% surcharge."
+    },
+    {
+      "id": "mkt:01a18299-0ae0-7ee0-a9b9-5e242014326a",
+      "time": "2026-10-28 21:00:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "SC crude oil front-month contract rose 2.0% intraday to 738.00 yuan/barrel."
+    },
+    {
+      "id": "5176531",
+      "time": "2026-10-28 21:00:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：羅爾斯-羅伊斯將在英國研發下一代渦輪發動機。"
+    },
+    {
+      "id": "mkt:01a18298-defa-7ee0-a9b9-528783f703d7",
+      "time": "2026-10-28 21:00:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "China night futures session opened; main contracts mostly higher. Asphalt rose over 3%; ethylene glycol (EG), fuel oil, SC crude and polyethylene gained more than 2%; methanol, polyester staple fiber (PSF) and bottle‑grade PET up around 2%. Decliners: caustic soda down about 2% and metallurgical coke down about 1%."
+    },
+    {
+      "id": "mkt:01a18298-d65b-7ee0-a9b9-4e8519a2df21",
+      "time": "2026-10-28 21:00:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "HF Sinclair has capacity to process over 100,000 b/d of heavy crude. Ship-to-ship transfers in the Gulf of Oman and floating storage of crude on tankers are pushing up freight costs."
+    },
+    {
+      "id": "5176530",
+      "time": "2026-10-28 21:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲2%，現報10390.00元。"
+    },
+    {
+      "id": "5176529",
+      "time": "2026-10-28 21:00:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲3%，現報5466.00元。"
+    },
+    {
+      "id": "5176528",
+      "time": "2026-10-28 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲2%，現報5276.00元。"
+    },
+    {
+      "id": "5176527",
+      "time": "2026-10-28 21:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報3463.00元。"
+    },
+    {
+      "id": "5176526",
+      "time": "2026-10-28 21:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲1%，現報5267.00元。"
+    },
+    {
+      "id": "5176525",
+      "time": "2026-10-28 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】碳酸鋰連續跌4.64%，瀝青連續漲2.75%，燃料油連續漲2.71%，乙二醇連續漲2.70%，纖維板連續跌2.53%。"
+    },
+    {
+      "id": "5176524",
+      "time": "2026-10-28 20:59:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西總統盧拉將留任馬格達·尚布里亞爾為巴西石油公司執行長。"
+    },
+    {
+      "id": "mkt:01a18298-51d7-7ee0-a9b9-467d5252f1b8",
+      "time": "2026-10-28 20:59:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK chancellor: dividend income tax unchanged; employment income tax unchanged."
+    },
+    {
+      "id": "mkt:01a18298-2403-7ee0-a9b9-3b14fba046e1",
+      "time": "2026-10-28 20:59:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK finance minister Healey said he will push to modernize the tax treatment of foreign sovereign investors."
+    },
+    {
+      "id": "5176523",
+      "time": "2026-10-28 20:59:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "波羅的海乾散貨運價指數漲1.85%，報2652點。"
+    },
+    {
+      "id": "mkt:01a18298-082a-7ee0-a9b9-3029d50f3bfb",
+      "time": "2026-10-28 20:59:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index (BDI) rose 1.85% to 2,652."
+    },
+    {
+      "id": "5176522",
+      "time": "2026-10-28 20:59:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：銀行附加稅調整自1月起實施，15個月後結束。"
+    },
+    {
+      "id": "5176521",
+      "time": "2026-10-28 20:59:07",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "英國財政大臣希利：銀行將再支付3%的附加稅。"
+    },
+    {
+      "id": "mkt:01a18297-ac1c-7ee0-a9b9-2dae7543c4d5",
+      "time": "2026-10-28 20:59:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor Healey said he will not pursue reforms to cash Individual Savings Accounts (ISAs)."
+    },
+    {
+      "id": "5176520",
+      "time": "2026-10-28 20:58:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國再保總裁：用好用足資金“外來外用”試點政策，推動境內外雙向業務流轉】中國再保險（集團）股份有限公司黨委副書記、副董事長、總裁朱曉雲在2026上海國際再保險會議開幕式上表示，中國再保將依託臨港新片區政策優勢，積極落地跨境再保險業務，用好用足資金“外來外用”試點政策，推動境內外雙向業務流轉。（澎湃）"
+    },
+    {
+      "id": "5176519",
+      "time": "2026-10-28 20:58:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：我對銀行發揮的作用表示讚賞和感謝。"
+    },
+    {
+      "id": "5176518",
+      "time": "2026-10-28 20:58:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將努力建立新的“入門”個人儲蓄賬戶，以獎勵首次投資者。"
+    },
+    {
+      "id": "5176517",
+      "time": "2026-10-28 20:58:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙卡斯蒂利亞-拉曼查自治區政府28日說，當天上午在其首府托萊多發生的高速鐵路列車相撞事故死亡人數上升至64人。（新華社）"
+    },
+    {
+      "id": "mkt:01a18297-6602-7ee0-a9b9-211ae19c22ab",
+      "time": "2026-10-28 20:58:42",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100",
+        "DXY"
+      ],
+      "text": "UK Chancellor Healey said he will lower the threshold for relief on corporate asset disposals. Property income and savings rates will be increased by 2 percentage points."
+    },
+    {
+      "id": "mkt:01a18297-0687-7ee0-a9b9-1b7b99d03780",
+      "time": "2026-10-28 20:58:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【UK to extend fuel duty freeze at least until July】Chancellor John Healey said the government will maintain the fuel duty freeze and extend the temporary 5p-per-litre cut introduced in 2022 at least until July. He said the measures, including lowering the red diesel rate to its lowest level in more than 20 years, will be kept through winter and spring as the Middle East war continues to push up fuel prices. The duty rate has been frozen since 2011 apart from the 2022 cut. The RAC reported UK diesel retail prices hit record highs in recent weeks. Fuel duty generates about £25bn a year (~$33bn)."
+    },
+    {
+      "id": "5176515",
+      "time": "2026-10-28 20:58:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國希利：將把儲蓄和財產收入的稅率提高2個百分點。"
+    },
     {
       "id": "5176514",
       "time": "2026-10-28 20:58:01",
