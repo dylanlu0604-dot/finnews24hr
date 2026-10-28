@@ -1,7 +1,56 @@
 {
   "date": "2026-10-28",
-  "count": 1241,
+  "count": 1246,
   "items": [
+    {
+      "id": "mkt:01a1812c-2ec5-7ee0-a9ad-8a23765da6fd",
+      "time": "2026-10-28 14:21:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc auto-determined a magnitude ~4.0 earthquake at 14:19 on Oct 28 in waters off Hualien County, Taiwan (23.82N, 122.49E). Final parameters subject to official rapid report."
+    },
+    {
+      "id": "5175000",
+      "time": "2026-10-28 14:20:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴斯夫執行長：農業解決方案計劃首次公開募股的籌備工作正在按計劃推進，這讓我們有信心該業務將在2027年中期具備上市條件。"
+    },
+    {
+      "id": "mkt:01a1812a-9821-7ee0-a9ad-83e8374c135a",
+      "time": "2026-10-28 14:20:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhiyuan upgrades Genie Sim, says 96.7% sim-to-real task consistency】Oct 28 — Zhiyuan announced an upgrade to its one-stop embodied intelligence simulation platform Genie Sim, claiming a breakthrough in flexible-object (soft-body) simulation. The platform integrates Real2Sim system identification, a self-developed physics engine and world-model capabilities and achieved 96.7% consistency between simulation and real-world task performance. Zhiyuan said the upgrade connects scene reconstruction, data collection, automated evaluation, post-training and open-world exploration into a full chain, enabling simulation outputs to serve as reliable proxies for real-machine results and closing a key link from algorithm training to deployment for embodied robots."
+    },
+    {
+      "id": "mkt:01a18129-d7da-7ee0-a9ad-7a8de2eefe99",
+      "time": "2026-10-28 14:19:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Credit Agricole CIB: Fed patience is not complacency】Alessia Berardi, global head of macroeconomics and emerging markets strategy at Credit Agricole CIB Investment Research, said the Fed’s patience should not be read as complacency. In line with market pricing, Credit Agricole CIB expects the Fed to keep policy rates unchanged. Berardi noted the labour market has softened and market rates remain elevated, but the inf outlook is unchanged, so the Fed still needs to continue withdrawing accommodation."
+    },
+    {
+      "id": "5174999",
+      "time": "2026-10-28 14:19:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華商基金張明昕：總體延續AI產業為代表的景氣主線運作】華商基金27日釋出基金經理張明昕在管3只產品的三季報，分別是華商均衡成長混合、華商優勢行業混合和華商致遠回報混合。資料顯示，3只產品三季末規模合計344.92億元，較二季度末縮水約38%。報告顯示，截至三季度末，華商均衡成長混合的十大重倉股為：中際旭創、新易盛、源傑科技、三環集團、生益科技、風華高科、東山精密、長光華芯、仕佳光子、宏和科技。與上季度末相比，新進重倉股為東山精密、仕佳光子、宏和科技，博遷新材、永鼎股份、雲南鍺業退出前十大重倉股。張明昕在三季報中表示，本季度科技板塊深度調整，籌碼結構、資金層面的擾動與博弈使得市場的可預測性大大降低，各類投資正規化的有效邊界被大幅壓縮，投資難度加大。操作上，仍然堅持基於基本面變化的景氣投資策略，股市短期是投票機，長期一定是反映基本面變化的稱重機。總體上，延續AI產業為代表的景氣主線運作，並以AI上下游全產業鏈景氣的可驗證程度、供需格局的邊際變化、產品的放量進度與籌碼結構的演變為核心標準，對持倉進行動態最佳化。"
+    },
     {
       "id": "5174998",
       "time": "2026-10-28 14:18:26",
