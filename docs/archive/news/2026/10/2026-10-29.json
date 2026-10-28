@@ -1,7 +1,49 @@
 {
   "date": "2026-10-29",
-  "count": 732,
+  "count": 736,
   "items": [
+    {
+      "id": "5177378",
+      "time": "2026-10-29 07:17:01",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【貝森特稱AI融資仍在推進 強勁增長下美聯儲加息未必有錯】美國財政部長斯科特·貝森特表示，他和團隊正在密切關注AI基礎設施建設的融資狀況，並淡化近期出現的擔憂跡象。“我們會監測所有這些情況，”貝森特週三接受媒體採訪時表示。當被問及部分AI相關債務的收益率開始升至兩位數時，他說：“我完全不認為這是個問題，因為我們看到，新雲服務商在整個生態系統中只佔很小一部分。”當被問及是否會把美聯儲未來任何一次加息視為政策失誤時，貝森特表示，“未必如此”。他以強勁的經濟增長為依據，並再次呼籲政策制定者保持“開放心態”，考慮能源衝擊對美國通脹的影響可能只是“暫時性的”。"
+    },
+    {
+      "id": "te:economy:595992",
+      "time": "2026-10-29 07:15:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Arab Emirates",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "UAE Holds Interest Rates After Fed Decision — The Central Bank of the UAE (CBUAE) maintained its overnight deposit facility base rate at 3.9% on Wednesday. The decision followed a similar move by the US Federal Reserve, which held the federal funds rate unchanged at 3.75%–4.00% at its October meeting. The UAE’s monetary policy remains closely aligned with that of the Fed. The Base Rate determines the overall stance of monetary policy and provides an effective floor for overnight money market rates in the country. The central bank also decided to maintain the interest rate applicable to borrowing short-term liquidity from the CBUAE at 50 basis points above the Base Rate for all standing credit facilities."
+    },
+    {
+      "id": "5177376",
+      "time": "2026-10-29 07:15:49",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【Alphabet財報不及預期、美聯儲維持利率不變，美國股指期貨下跌】在Alphabet Inc.（谷歌母公司）的財報令人失望後，美國股指期貨在亞洲早盤交易中走低，這重新引發了市場對企業向人工智慧（AI）領域投入數十億美元資金的擔憂。由於Alphabet的銷售額表現不佳，該公司股價在盤後交易中暴跌10%，受此影響，納斯達克100指數期貨下跌0.8%，標普500指數期貨下滑0.3%。亞洲股指期貨顯示，在晶片行業風向標三星電子公司（該公司與AI的推廣密切相關）釋出關鍵財報之前，市場開盤情緒較為謹慎。Van Eck Associates Corp.駐悉尼的投資與資本市場副主管Jamie Hannah表示：“Alphabet在釋出季度財報後股價下跌10%，這拖累了美國股指期貨。雖然財報證實了AI熱潮帶來了收入，但也凸顯了該技術對傳統盈利模式的顛覆性。如今，Alphabet已成為這一趨勢的風向標。”不過，其他市場的情緒依然堅挺。微軟公司憑藉穩健的雲業務銷售額，盤後股價上漲2.8%；甲骨文公司此前在釋出自由現金流的長期展望後，股價也曾飆升11%。"
+    },
+    {
+      "id": "5177375",
+      "time": "2026-10-29 07:13:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗戰爭擾亂石油市場，巴西國家石油公司產量創紀錄】巴西國有石油生產商巴西國家石油公司（Petrobras）在第三季度將產量提升至創紀錄水平，並讓煉油廠接近滿負荷運轉，幫助該國抵禦了伊朗戰爭對全球能源市場造成的衝擊。巴西國家石油公司週三在一份檔案中表示，其油氣產量同比增長12%，達到每日351萬桶油當量。與第二季度相比，產量增長了5.3%，這得益於該公司在深水油田加速投產新平臺，包括巨型布濟烏斯（Buzios）專案的P-78和P-79裝置。"
+    },
     {
       "id": "5177374",
       "time": "2026-10-29 07:11:54",
