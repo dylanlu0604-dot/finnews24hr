@@ -1,7 +1,240 @@
 {
   "date": "2026-10-28",
-  "count": 2059,
+  "count": 2081,
   "items": [
+    {
+      "id": "mkt:01a182b9-06c0-7ee0-a9bb-80a9423bcc72",
+      "time": "2026-10-28 21:35:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WBG: Any escalation of the Middle East conflict or continued damage to Russian oil infrastructure could further push up energy prices."
+    },
+    {
+      "id": "mkt:01a182b8-f8bc-7ee0-a9bb-7f11e6b13286",
+      "time": "2026-10-28 21:35:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "WBG expects rising safe-haven demand to lift precious metals prices about 40% in 2026, with a pullback in 2027."
+    },
+    {
+      "id": "mkt:01a182b8-f4e3-7ee0-a9bb-7377a02737a2",
+      "time": "2026-10-28 21:35:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【WBG sees global commodity prices up 23% in 2026】WBG said on Wednesday it expects global commodity prices to rise 23% in 2026, driven by higher energy from the Middle East war, shipping bottlenecks including blocked Black Sea grain flows, and safe‑haven demand for gold. The Commodity Markets Outlook noted large price gains this year across oil, gas, food and metals. It warned that further escalation of the Middle East conflict or continued damage to Russian oil infrastructure could worsen the outlook. The report forecasts a 7% pullback in commodity prices next year but cautions that a prolonged shock — including a potentially severe El Nifio — could keep food prices elevated, raising inflation and the risk of monetary tightening. WBG also said global oil inventories have been drawn down during the Middle East war and expects global oil supply to fall 5.2% in 2026, the largest decline in roughly 40 years outside the 2020 downturn."
+    },
+    {
+      "id": "5176612",
+      "time": "2026-10-28 21:35:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國預算責任辦公室（OBR）關於債務利息支出的表態：若預測期內英國國債收益率和銀行利率預期變動1個百分點，可能導致中期借款規模變動160億英鎊。"
+    },
+    {
+      "id": "mkt:01a182b8-b4ad-7ee0-a9bb-6a25205a3a3d",
+      "time": "2026-10-28 21:35:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "BOC will announce its policy rate decision and Monetary Policy Report in ten minutes."
+    },
+    {
+      "id": "5176611",
+      "time": "2026-10-28 21:34:52",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "英國債券在新規出臺後上漲，30年期國債收益率下跌3個基點至5.72%。"
+    },
+    {
+      "id": "mkt:01a182b8-61b8-7ee0-a9bb-61a4d14640f7",
+      "time": "2026-10-28 21:34:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WBG forecasts global oil supply will fall 5.2% in 2026, the largest decline in more than 40 years excluding the 2020 global downturn."
+    },
+    {
+      "id": "5176610",
+      "time": "2026-10-28 21:34:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，虎虎科技跌18.12%，新東方跌9.21%，阿特斯跌4.03%，大全新能源跌3.55%，亞朵集團跌3.45%。"
+    },
+    {
+      "id": "mkt:01a182b8-1238-7ee0-a9bb-591ed4fc59eb",
+      "time": "2026-10-28 21:34:23",
+      "tags": [
+        "MKT News",
+        "Commodities"
+      ],
+      "text": "WBG forecasts global food commodity prices will rise 10% in 2026 and a further 7% in 2027, citing food-transport disruptions and extreme weather."
+    },
+    {
+      "id": "mkt:01a182b7-cf6c-7ee0-a9bb-52a9e6db0c67",
+      "time": "2026-10-28 21:34:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "WBG forecasts global energy prices will rise 32% in 2026 due to the Middle East war, reaching a four-year high."
+    },
+    {
+      "id": "5176609",
+      "time": "2026-10-28 21:34:06",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英國預算責任辦公室（OBR）：如果能源價格峰值更高且持續高位時間更長，我們預計通脹將加劇、近期國內生產總值（GDP）增長將走弱，金融環境可能收緊。"
+    },
+    {
+      "id": "mkt:01a182b7-93da-7ee0-a9bb-4a459ed408d6",
+      "time": "2026-10-28 21:33:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "WBG expects metal prices to rise 25% in 2026 to new highs, with aluminum, copper and tin each set to hit record highs."
+    },
+    {
+      "id": "mkt:01a182b7-57ad-7ee0-a9bb-401bc9dec039",
+      "time": "2026-10-28 21:33:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Brent",
+        "Impact mixed",
+        "WTI",
+        "Copper"
+      ],
+      "text": "WBG projects overall commodity prices will surge 23% in 2026 amid global shocks, then decline 7% in 2027."
+    },
+    {
+      "id": "mkt:01a182b7-3e8d-7ee0-a9bb-3ba13306310e",
+      "time": "2026-10-28 21:33:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【JP Morgan: U.S. Treasury to rely increasingly on short-term borrowing】JP Morgan analysts say the U.S. Treasury may raise short-term borrowing in next week’s quarterly refunding plan. JP Morgan projects net marketable borrowing from private investors of $2.038t this year, rising to $2.202t in 2027. Bill and medium- to long-term Treasury auction sizes are expected to remain unchanged for now and increase from Aug 2027, with the 2- to 10-year sector likely to see the biggest bumps. JP Morgan expects short-term issuance to pick up earlier; excluding Fed purchases and repo operations, privately held outstanding short-term Treasury bills would increase by $401bn in calendar 2026 and $991bn in 2027 — the largest short-term bill issuance since 2023."
+    },
+    {
+      "id": "te:markets:595862",
+      "time": "2026-10-28 21:33:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Sterling Near Two-Week Low as Markets Assess UK Budget — The British pound remained below $1.33, trading near a two-week low as investors assessed UK Chancellor John Healey’s first budget announcement. Healey reaffirmed his commitment to the government’s fiscal rules, with the Office for Budget Responsibility estimating fiscal headroom at £15 billion for the 2029–30 fiscal year, in line with expectations. Key measures include energy bill relief, higher-than-expected-to-be-lower bank taxes, tariff suspensions on more than 100 supermarket products and a 3.9% increase in minimum wages. The budget also includes an additional £20.4 billion for the National Wealth Fund and British Business Bank to support investment and 140,000 jobs. On the economic outlook, the OBR cut its 2027 GDP growth forecast to 1% from 1.6%, citing the impact of the Iran war on energy prices, while raising its 2026 projection to 1.2% from 1.1%. Borrowing and public debt forecasts were also revised higher, weighing on the fiscal outlook."
+    },
+    {
+      "id": "mkt:01a182b7-2bbf-7ee0-a9bb-3306fcdde397",
+      "time": "2026-10-28 21:33:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "U.S. markets opened higher Wednesday, Oct. 28: Dow Jones Industrial Average up 41.97 points, or 0.08%, at 52,419.54; Nasdaq Composite up 80.31 points, or 0.30%, at 26,558.13; S&P 500 up 18.41 points, or 0.24%, at 7,741.01."
+    },
+    {
+      "id": "5176608",
+      "time": "2026-10-28 21:33:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國預算政策將在2031-32年度減少117億英鎊借款。"
+    },
+    {
+      "id": "5176607",
+      "time": "2026-10-28 21:32:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "威富集團維持年度營收預期，股價下跌約4%。"
+    },
+    {
+      "id": "mkt:01a182b6-9a1d-7ee0-a9bb-2f67feeb4a45",
+      "time": "2026-10-28 21:32:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "UK plans to sell £250.6 billion of gilts in fiscal 2026-27; market had expected £249.2 billion."
+    },
+    {
+      "id": "5176606",
+      "time": "2026-10-28 21:32:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "WENDY'S 股價上漲高達 16%，至 7.10 美元。"
+    },
+    {
+      "id": "5176605",
+      "time": "2026-10-28 21:31:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：弗拉維奧·博索納羅抵達邁阿密。"
+    },
+    {
+      "id": "5176604",
+      "time": "2026-10-28 21:31:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "恩智浦半導體股價開盤下跌7.3%，創7月29日以來最大跌幅。"
+    },
     {
       "id": "5176603",
       "time": "2026-10-28 21:31:36",
