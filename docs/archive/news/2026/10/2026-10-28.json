@@ -1,7 +1,153 @@
 {
   "date": "2026-10-28",
-  "count": 2222,
+  "count": 2235,
   "items": [
+    {
+      "id": "te:markets:595903",
+      "time": "2026-10-28 23:49:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Futures Hold Steady — US gasoline futures held near $3.15 per gallon, holding its decline from the previous session as traders weighed elevated supply risks against signs of improving inventories. Yemen’s Iran-backed Houthis claimed to have struck Saudi Arabia’s largest oil refinery, while reports said Washington warned Gulf states to prepare for a possible post-midterm military campaign against Iran. Geopolitical tensions add to concerns over an already tight fuel market, with gasoline inventories remaining 2% below seasonal norms, although they have recovered partially as driving demand eases. EIA data showed an unexpected build of 3.8 million barrels in the week ending October 23rd. Still, supplies are expected to remain constrained as refineries prioritize higher-demand diesel ahead of winter. Seasonal maintenance is also limiting gasoline output despite facilities operating near capacity. Meanwhile, Ukrainian strikes on Russian refineries also add to geopolitical risks on global fuel markets."
+    },
+    {
+      "id": "te:markets:595902",
+      "time": "2026-10-28 23:43:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Union Pacific Shares Hit 8-week High — Union Pacific shares increased to 301.21 USD, the highest since September 2026. Over the past 4 weeks, Union Pacific gained 9.79%, and in the last 12 months, it increased 39.11%."
+    },
+    {
+      "id": "te:markets:595900",
+      "time": "2026-10-28 23:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Rises by 20 bps — Government bonds yields are higher on Wednesday. Top gainers are Brazil 10Y (19.50bps), South Korea 10Y (7.20bps), Japan 10Y (4.19bps), US 10Y (2.60bps) and Germany 10Y (1.36bps)."
+    },
+    {
+      "id": "te:markets:595897",
+      "time": "2026-10-28 23:08:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Prices Hit €100 — European natural gas prices climbed toward €100 per megawatt-hour, their highest level since December 2022, as the heating season approaches with unusually low inventories and growing geopolitical risks. EU storage facilities were less than 75% full on October 28, compared with a five-year average of around 86%. Inventories stood at approximately 849 TWh, roughly 100 TWh below last year’s level, increasing the need for additional imports to rebuild reserves. Storage levels varied significantly, with Germany at 61.65% and the Netherlands at 65.53%, while France and Italy were better positioned at 87.34% and 90.77%, respectively. Meanwhile, forecasts for colder weather across Europe and parts of Asia could lift heating demand and intensify competition for LNG cargoes. Supply concerns intensified after reports that the US told several Persian Gulf countries to be prepared for a short, intense military campaign after the midterm elections."
+    },
+    {
+      "id": "te:markets:595896",
+      "time": "2026-10-28 23:00:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural Gas EU traded above 100 EUR/MWh — Natural Gas EU rose above 100, according to trading on a contract for difference (CFD)."
+    },
+    {
+      "id": "te:markets:595895",
+      "time": "2026-10-28 23:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Drops by 1.21% — Top currency losers are New Zealand Dollar (-1.21%), South Korean Won (-1.20%), Brazilian Real (-0.38%) and Japanese Yen (-0.13%). Gains are led by Norwegian Krone (0.57%), Swedish Krona (0.26%) and Euro (0.09%). Meanwhile, British Pound and Dollar Index were little changed."
+    },
+    {
+      "id": "te:markets:595893",
+      "time": "2026-10-28 22:47:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Steel Market Rises to Highest Level Since 2022 — US hot-rolled steel prices climbed toward $1,400 per ton, reaching their highest level since May 2022 as President Donald Trump’s 50% tariffs on imported steel restricted foreign supplies and strengthened domestic producers’ pricing power. Imports of finished steel fell 14% to around 13 million tons in the first nine months of 2026, reducing their share of the US market to 16% from 19% a year earlier. Supply constraints could intensify toward year-end, as maintenance shutdowns are expected to affect more than 1 million tons of production between September and December. Rising scrap costs and stronger negotiating positions for mills also point to further price pressure. US steel now costs roughly two-thirds more than in Europe and nearly three times as much as in China, widening the competitive gap. Meanwhile, trade tensions have disrupted cross-border supply chains, highlighting the broader economic costs of protecting domestic steel production."
+    },
+    {
+      "id": "te:economy:595891",
+      "time": "2026-10-28 22:40:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Crude Oil Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Crude Oil Inventories Fall for 4th Week — US crude oil inventories fell by 1.892 million barrels in the week ended October 23, marking a fourth consecutive weekly decline, following a 3.061 million-barrel draw in the previous week. Crude stocks at the Cushing, Oklahoma, delivery hub also decreased by 624,000 barrels, while refinery crude runs fell by 123,000 barrels per day. Distillate inventories, which include diesel and heating oil, declined by 1.462 million barrels, exceeding expectations for a 900,000-barrel decrease. In contrast, gasoline inventories increased by 3.87 million barrels. Meanwhile, net US crude imports fell by 796,000 barrels per day."
+    },
+    {
+      "id": "te:markets:595884",
+      "time": "2026-10-28 22:31:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canadian Bond Yields Steady as Markets Assess BoC Rate Hike — Canada’s 10-year government bond yield was little changed at around 3.84%, following the Bank of Canada’s first interest rate hike in more than three years in October, a move that was widely expected. The central bank signalled that further increases may be necessary to prevent surging energy costs from feeding into broader inflation. It also raised its 2027 inflation forecast to 3.1% from 2.0% in July, while upgrading its growth outlook to 1% from 0.7%. Despite the hike, the policy rate remains below the estimated neutral level, which neither stimulates nor restrains economic activity. Meanwhile, speculation has grown over the possibility of a last-minute tariff-relief deal between Canada and the US that could provide a political boost to Republican candidates. Canadian Prime Minister Mark Carney, however, described only a slight intensification in trade discussions."
+    },
+    {
+      "id": "em:jjsj_mgsj:202610283912695240",
+      "time": "2026-10-28 22:30:55",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國至10月23日當週EIA原油庫存減少189.2萬桶】美國至10月23日當週EIA原油庫存減少189.2萬桶，預期增加1.5萬桶，前值減少306萬桶。EIA戰略石油儲備庫存減少10萬桶，前值減少30萬桶。"
+    },
+    {
+      "id": "te:markets:595880",
+      "time": "2026-10-28 22:22:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Rebounds from 4-Year Low — Iron ore futures recovered to above CNY 670 a ton after touching a four-year low of CNY 664 on October 27, as the return of steelmaking capacity provided some support despite concerns over rising supply. Hot metal production, a key indicator of iron ore demand, fell by 89,900 tons week-on-week to 1.75 million tons in the week ending October 24, largely due to blast furnace maintenance. Output is expected to decline further before recovering as furnaces resume operations. However, the improvement in production may offer limited support to prices, as steel mills continue to operate at a loss and demand for steel remains weak. On the supply side, iron ore arrivals at Chinese ports are expected to rebound after weather disruptions caused by typhoons along the eastern coast reduced deliveries last week. Although global shipments eased slightly, they remained seasonally high, increasing the risk of port inventories rebuilding and keeping prices under pressure in the near term."
+    },
+    {
+      "id": "te:markets:595878",
+      "time": "2026-10-28 22:15:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "TSX Steady After BoC Rate Hike — The S&P/TSX Composite Index traded near flat around 36,000 on Wednesday after the Bank of Canada’s policy decision to hike interest rates to by 25 bps to 2.5%, as expected. The bank said the decision aims to reduce the risk that continuing high energy prices spread broadly to the prices of other goods and services while noting that here could be a need to increase the policy rate further. Meanwhile, the US Fed is expected to hold rates steady. Financial stocks were mostly subdued. Agnico Eagle fell 1%, Alamos lost 0.5%, and Kinross dropped 2%, while First Quantum was flat. Teck Resources rose 3.5% ahead of Thursday’s earnings, while Imperial Oil gained 1% and Cameco added 0.2% ahead of Friday’s results. Tamarack Valley climbed 2% after raising its 2026 production forecast, while Trican Well Service surged 6% on higher Q3 profit."
+    },
+    {
+      "id": "te:markets:595876",
+      "time": "2026-10-28 22:14:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Little Changed After BoC — The Canadian dollar was little changed at around 1.40 per USD, as the loonie showed a muted reaction to the Bank of Canada’s first interest rate hike since 2023, with the move largely priced in by markets. The central bank raised its benchmark interest rate by 25bps, as expected, and signalled that further increases may be necessary. Policymakers also revised their inflation and economic growth forecasts higher. Meanwhile, the currency remained sensitive to developments in the US, where the Fed left interest rates unchanged in October following a 25bps hike in September, while investors also monitored the US midterm elections. Speculation has grown over the possibility of a last-minute tariff-relief deal with Canada that could provide a political boost to US Republican candidates. Prime Minister Mark Carney, however, said that there’s a slight intensification in trade discussions."
+    },
     {
       "id": "5176670",
       "time": "2026-10-28 22:07:17",
