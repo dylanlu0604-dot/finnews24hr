@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-28 10:02:21",
+  "updated": "2026-10-28 10:59:42",
   "items": [
     {
       "id": "2026102810",
       "date": "2026-10-28",
       "run_hour": 10,
-      "started_at": "2026-10-28 10:01:45",
-      "finished_at": "2026-10-28 10:02:21",
+      "started_at": "2026-10-28 10:59:12",
+      "finished_at": "2026-10-28 10:59:42",
       "status": "PARTIAL",
       "total_sources": 12,
       "success_count": 9,
