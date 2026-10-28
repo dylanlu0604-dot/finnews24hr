@@ -1,7 +1,284 @@
 {
-  "updated": "2026-10-29 02:55:17",
-  "count": 13030,
+  "updated": "2026-10-29 02:59:07",
+  "count": 13053,
   "items": [
+    {
+      "id": "mkt:01a183e0-be01-7ee0-a9c9-9246744afcf4",
+      "time": "2026-10-29 02:58:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said not to pre-judge the meeting outcome."
+    },
+    {
+      "id": "5177123",
+      "time": "2026-10-29 02:58:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：未來一段時間將是資訊豐富的時期，但與政治無關。"
+    },
+    {
+      "id": "mkt:01a183e0-a4ce-7ee0-a9c9-8d7c1a97fab9",
+      "time": "2026-10-29 02:58:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh: Do not trust forward guidance unless a crisis occurs."
+    },
+    {
+      "id": "5177122",
+      "time": "2026-10-29 02:57:48",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什談人工智慧投資：利率幾乎直接或間接影響一切。"
+    },
+    {
+      "id": "mkt:01a183e0-0092-7ee0-a9c9-86a405bdf815",
+      "time": "2026-10-29 02:57:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said political factors have not influenced Fed decision-making."
+    },
+    {
+      "id": "5177121",
+      "time": "2026-10-29 02:57:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：政治因素沒有發揮任何作用，不僅對我而言，對同僚也是如此。"
+    },
+    {
+      "id": "mkt:01a183df-def7-7ee0-a9c9-7997bbed4f25",
+      "time": "2026-10-29 02:57:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said interest rates are critical to the surge in technology investment."
+    },
+    {
+      "id": "5177120",
+      "time": "2026-10-29 02:57:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率最新上漲6.47個基點，至5.37%。"
+    },
+    {
+      "id": "te:markets:595956",
+      "time": "2026-10-29 02:57:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Oracle Shares Hit 5-week High — Oracle shares increased to 147.37 USD, the highest since September 2026. Over the past 4 weeks, Oracle gained 6.23%, and in the last 12 months, it decreased 46.83%."
+    },
+    {
+      "id": "mkt:01a183df-a31a-7ee0-a9c9-7219eab664fe",
+      "time": "2026-10-29 02:57:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said he had previously been skeptical of the view that interest rates would not affect the AI sector."
+    },
+    {
+      "id": "5177119",
+      "time": "2026-10-29 02:57:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：在聯邦公開市場委員會的審議中，沒有聽到任何涉及政治或選舉的內容。"
+    },
+    {
+      "id": "5177118",
+      "time": "2026-10-29 02:57:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期和十年期國債收益率利差擴大至31.6個基點。"
+    },
+    {
+      "id": "mkt:01a183df-592f-7ee0-a9c9-6b8d41b0a524",
+      "time": "2026-10-29 02:56:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said capital spending's strong performance is no longer confined to a few sectors."
+    },
+    {
+      "id": "5177117",
+      "time": "2026-10-29 02:56:51",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：（被問及中期選舉是否影響利率決議時）政治因素未發揮任何作用。"
+    },
+    {
+      "id": "mkt:01a183df-10bc-7ee0-a9c9-64ab352e37af",
+      "time": "2026-10-29 02:56:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Fed Chair Kevin Warsh said some asset credit spreads have widened and some financial conditions have tightened."
+    },
+    {
+      "id": "5177116",
+      "time": "2026-10-29 02:56:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其埃爾多安辦公室：總統埃爾多安與特朗普通電話，討論地區和全球發展問題。"
+    },
+    {
+      "id": "5177115",
+      "time": "2026-10-29 02:56:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：資本支出的強勁增長不再侷限於少數領域。"
+    },
+    {
+      "id": "5177114",
+      "time": "2026-10-29 02:56:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：資本支出正在擴大。"
+    },
+    {
+      "id": "mkt:01a183de-aed2-7ee0-a9c9-599667c2a807",
+      "time": "2026-10-29 02:56:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed chair Kevin Warsh said since early September interest-rate moves have affected both the technology sector and broader markets."
+    },
+    {
+      "id": "mkt:01a183de-ad73-7ee0-a9c9-52fb5f6eccf0",
+      "time": "2026-10-29 02:56:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Fed Chairman Kevin Warsh said credit spreads have widened."
+    },
+    {
+      "id": "5177113",
+      "time": "2026-10-29 02:56:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：利率對新技術確實有影響。"
+    },
+    {
+      "id": "mkt:01a183de-8035-7ee0-a9c9-4b7666196331",
+      "time": "2026-10-29 02:55:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said interest rates affect almost everything."
+    },
+    {
+      "id": "mkt:01a183de-4a89-7ee0-a9c9-476547f05abe",
+      "time": "2026-10-29 02:55:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said most indicators show markets still have confidence in the Fed, but not all indicators do."
+    },
+    {
+      "id": "5177112",
+      "time": "2026-10-29 02:55:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：部分資產的信用利差已經擴大，部分金融條件有所收緊。"
+    },
+    {
+      "id": "5177111",
+      "time": "2026-10-29 02:55:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：長期來看，多數指標顯示市場相信央行將實現物價穩定。"
+    },
+    {
+      "id": "5177110",
+      "time": "2026-10-29 02:55:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：自9月初以來，我們看到在科技板塊內外，利率都已產生影響。"
+    },
+    {
+      "id": "5177109",
+      "time": "2026-10-29 02:54:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我曾懷疑利率不會對人工智慧產生影響。"
+    },
     {
       "id": "te:markets:595954",
       "time": "2026-10-29 02:54:49",
@@ -117349,43 +117626,6 @@
         "國際"
       ],
       "text": "加拿大總理卡尼稱週三與特朗普進行了長時間通話。"
-    },
-    {
-      "id": "mkt:01a15fd4-9171-7ee0-a92f-ecb6e04ade23",
-      "time": "2026-10-22 02:58:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Report: U.S. preparing order to evacuate some embassy staff and families from Gulf】Refinitiv, citing three U.S. officials, reports the State Department is preparing to order the evacuation of some U.S. embassy staff and their families from posts in the Gulf. Two officials said the move reflects concern that hostilities could resume, notably potential renewed clashes with Iran-aligned Houthi forces in Yemen."
-    },
-    {
-      "id": "5159177",
-      "time": "2026-10-22 02:56:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客預計，未來二十年全球航空貨運量將年均增長3.2%。"
-    },
-    {
-      "id": "5159176",
-      "time": "2026-10-22 02:56:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【數十架以軍戰機曾逼近伊朗邊境】當地時間10月21日晚，據以色列第12頻道電視臺報道援引美國官員的訊息報道稱，本週早些時候，“數十架以色列戰鬥機和加油機飛越敘利亞和伊拉克上空，逼近伊朗邊境，其飛行路線與針對伊朗的攻擊路線‘高度相似’”。報道援引美國訊息人士的話稱，美方懷疑以軍此舉“意在挑釁伊朗”。 報道稱，這批以軍戰機“在即將進入伊朗領空前掉頭返回以色列”。以方在行動前向美國進行了通報，稱此次行動“屬於軍事演習和力量展示”，“旨在對伊朗進行威懾”。不過報道也指出，相關訊息人士認為，“某些以色列官員實際上企圖誘使伊朗向以軍戰機開火，從而為以色列對伊朗發動軍事打擊提供藉口”。 報道還補充說，以色列安全部門擔心，以色列總理內塔尼亞胡和國防部長卡茨近期針對伊朗的極端強硬言論，可能會促使伊朗對以色列發動“預判性打擊”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a15fd1-e4db-7ee0-a92f-e4480c7473d7",
-      "time": "2026-10-22 02:55:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's Prime Minister Carney said resolving major structural challenges in the auto and steel sectors will take time."
     }
   ]
 }
