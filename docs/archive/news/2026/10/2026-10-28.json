@@ -1,7 +1,279 @@
 {
   "date": "2026-10-28",
-  "count": 2109,
+  "count": 2138,
   "items": [
+    {
+      "id": "mkt:01a182c4-1041-7ee0-a9bc-8ab1aa02f6cc",
+      "time": "2026-10-28 21:47:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "USD/CAD fluctuated 38 pips intraday, now at 1.4042."
+    },
+    {
+      "id": "mkt:01a182c4-0112-7ee0-a9bc-86119b8f0d29",
+      "time": "2026-10-28 21:47:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Canada Governor Macklem said the room to ease monetary policy has narrowed."
+    },
+    {
+      "id": "mkt:01a182c3-d016-7ee0-a9bc-7f6514996dc3",
+      "time": "2026-10-28 21:47:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of Canada Governor Macklem said the economy is showing resilience."
+    },
+    {
+      "id": "mkt:01a182c3-bddb-7ee0-a9bc-75d4e47f4363",
+      "time": "2026-10-28 21:47:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said uncertainty remains elevated."
+    },
+    {
+      "id": "5176633",
+      "time": "2026-10-28 21:47:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行貨幣政策報告假設布倫特原油價格在第四季度平均約為 100 美元，然後到 2028 年底逐漸降至 75 美元左右。"
+    },
+    {
+      "id": "mkt:01a182c3-b32f-7ee0-a9bc-6d8c2121793f",
+      "time": "2026-10-28 21:47:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "BOC Governor Macklem said fuel costs will remain elevated for longer."
+    },
+    {
+      "id": "mkt:01a182c3-a715-7ee0-a9bc-670702f445f0",
+      "time": "2026-10-28 21:47:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "BOC Governor Macklem said consumer spending has remained resilient."
+    },
+    {
+      "id": "5176632",
+      "time": "2026-10-28 21:46:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行加息後，加元匯率基本持平。"
+    },
+    {
+      "id": "mkt:01a182c3-5c38-7ee0-a9bc-5b4a88ac6796",
+      "time": "2026-10-28 21:46:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "BOC Governor Macklem said exports have strengthened amid the US-Canada trade dispute."
+    },
+    {
+      "id": "mkt:01a182c3-3ea0-7ee0-a9bc-51e51c6fa24b",
+      "time": "2026-10-28 21:46:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said household spending, exports and business investment will drive economic growth."
+    },
+    {
+      "id": "mkt:01a182c2-ff6f-7ee0-a9bc-4e807968bc25",
+      "time": "2026-10-28 21:46:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "BOC says the Middle East conflict has no clear path to resolution."
+    },
+    {
+      "id": "5176631",
+      "time": "2026-10-28 21:46:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行貨幣政策利率假設，大多數符合美墨加協定的商品豁免將繼續有效。"
+    },
+    {
+      "id": "5176630",
+      "time": "2026-10-28 21:46:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行：加拿大名義中性利率假定處於預估的 2.25% 至 3.25% 區間的中點。"
+    },
+    {
+      "id": "5176629",
+      "time": "2026-10-28 21:46:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "加拿大央行：中東衝突的解決“沒有明確的路徑”。"
+    },
+    {
+      "id": "mkt:01a182c2-a7d8-7ee0-a9bc-450c65ab5ade",
+      "time": "2026-10-28 21:45:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "BOC: Persistently high energy prices, combined with stronger transmission effects, increase inflation persistence over the projection horizon."
+    },
+    {
+      "id": "5176628",
+      "time": "2026-10-28 21:45:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行（BOC）：家庭支出、出口、商業支出將推動經濟增長。"
+    },
+    {
+      "id": "mkt:01a182c2-861c-7ee0-a9bc-39217e283148",
+      "time": "2026-10-28 21:45:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC said the committee agreed to act cautiously given prevailing uncertainty."
+    },
+    {
+      "id": "5176627",
+      "time": "2026-10-28 21:45:45",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行：上調2026年至2028年期間的增長預測。"
+    },
+    {
+      "id": "5176626",
+      "time": "2026-10-28 21:45:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：在美加貿易爭端中，出口有所增強。"
+    },
+    {
+      "id": "mkt:01a182c2-484b-7ee0-a9bc-33295ea17574",
+      "time": "2026-10-28 21:45:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "BOC says it may need to raise interest rates again."
+    },
+    {
+      "id": "mkt:01a182c1-f16c-7ee0-a9bc-2cbeb010574f",
+      "time": "2026-10-28 21:45:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDCAD",
+        "Impact bearish"
+      ],
+      "text": "【BOC raises policy rate 25bps to 2.50% as expected】BOC raised its policy rate 25bps to 2.50% from 2.25%, marking its first hike in more than three years and in line with market expectations."
+    },
+    {
+      "id": "mkt:01a182c1-ea56-7ee0-a9bc-202ee2a500de",
+      "time": "2026-10-28 21:45:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Canada policy rate decision Oct. 28: 2.50% (consensus 2.50%; prior 2.25%)."
+    },
+    {
+      "id": "5176625",
+      "time": "2026-10-28 21:45:08",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "【加拿大央行如期加息25個基點】加拿大央行將基準利率從2.25%上調至2.50%，為三年多以來首次加息，符合市場預期。在利率決議中，加拿大央行表示可能再次需要加息。"
+    },
+    {
+      "id": "mkt:01a182c1-c955-7ee0-a9bc-19b877148ec8",
+      "time": "2026-10-28 21:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Bank of Canada Interest Rate Decision (Oct.28) | actual 2.5% | consensus 2.5% | previous 2.25%"
+    },
+    {
+      "id": "5176624",
+      "time": "2026-10-28 21:44:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "沃爾瑪墨西哥公司第三季度財報釋出後，其股價下跌3%。"
+    },
+    {
+      "id": "5176623",
+      "time": "2026-10-28 21:44:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "英國財政部檔案顯示，英國計劃將即將實施的碳邊境稅範圍擴大至成品油。"
+    },
+    {
+      "id": "mkt:01a182c1-2736-7ee0-a9bc-1275c134b2bf",
+      "time": "2026-10-28 21:44:18",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK Treasury documents show Britain plans to extend its forthcoming carbon border tax to refined products."
+    },
+    {
+      "id": "5176622",
+      "time": "2026-10-28 21:44:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "GENMAB股價上漲9.8%，此前PETOSEMTAMAB達到兩項主要終點。"
+    },
     {
       "id": "mkt:01a182c0-1d7c-7ee0-a9bc-0c1eb4d35ac4",
       "time": "2026-10-28 21:43:10",
@@ -12,6 +284,14 @@
         "FTSE100"
       ],
       "text": "UK Office for Budget Responsibility (OBR) says fiscal headroom would be £10.2 billion if fuel duty remains unchanged."
+    },
+    {
+      "id": "5176621",
+      "time": "2026-10-28 21:43:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【避開巴西領空，博索納羅私人飛機經停厄瓜多後將赴美國邁阿密】根據巴西方面訊息，巴西參議員、自由黨候選人弗拉維奧·博索納羅及其家人將於當地時間10月28日上午抵達美國佛羅里達州邁阿密。他們乘坐的私人飛機自阿根廷起飛，經停厄瓜多後前往美國。據航班追蹤網站FlightAware資料，弗拉維奧·博索納羅的私人飛機於巴西時間28日6時22分從阿根廷伊瓜蘇港起飛，預計於10時40分左右抵達邁阿密的奧帕洛卡行政機場。（央視新聞）"
     },
     {
       "id": "mkt:01a182c0-0f6c-7ee0-a9bc-05f8621c345a",
