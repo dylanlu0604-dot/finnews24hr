@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-29 07:52:39",
+  "updated": "2026-10-29 07:56:26",
   "count": 13041,
   "items": [
+    {
+      "id": "5177418",
+      "time": "2026-10-29 07:52:49",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【Equinix稱資料中心專案壁壘或將提升其定價權】全球規模最大的資料中心公司之一Equinix（易昆尼克斯）表示，新資料中心專案上線面臨的障礙不斷增加，這將使現有容量更具價值，並可能增強其市場控制力——包括定價能力。“如果大量專案被取消，只會讓本就稀缺的容量變得更加稀缺，”Equinix執行長阿戴爾·福克斯-馬丁（Adaire Fox-Martin）在週三的分析師電話會議上表示。她稱，這可能為Equinix提高收費提供空間。電力短缺、當地民眾反對以及新出臺的立法正日益阻礙資料中心的建設。不過，Equinix高管表示，由於公司在全球各地分佈著數十個專案，且可以透過擴建現有園區而非破土動工來增加容量，其處境優於部分競爭對手。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202610293912965697",
+      "time": "2026-10-29 07:51:33",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至10月23日當週外資買進日債433億日元，前值由14542億日元修正為14543億日元。"
+    },
     {
       "id": "5177417",
       "time": "2026-10-29 07:51:08",
@@ -83,6 +101,15 @@
         "Important"
       ],
       "text": "Japan | Weekly Foreign Stocks Buying (Oct.23) | actual 288100000000B | previous 128300000000B"
+    },
+    {
+      "id": "em:jjsj_rbsj:202610293912964386",
+      "time": "2026-10-29 07:50:29",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至10月23日當週外資買進日股11809億日元，前值由-665億日元修正為-675億日元。"
     },
     {
       "id": "mkt:01a184eb-db33-7ee0-a9cd-6c095f70e52c",
@@ -117546,34 +117573,6 @@
         "其他"
       ],
       "text": "【國家海洋預報臺根據《海洋災害應急預案》釋出海浪橙色警報】受今年第30號颱風“薔琵”（超強颱風級）的影響，預計10月22日上午到23日上午，東海南部、釣魚島附近海域、臺灣以東洋麵將出現6到8米的狂浪區，臺灣海峽、南海東北部、巴士海峽將出現4到6米的巨浪到狂浪區，近海海域海浪預警級別為黃色;福建近岸海域將出現4到5米的巨浪，該近岸海域海浪預警級別為橙色，浙江近岸海域將出現3.5到4.4米的大浪到巨浪，該近岸海域海浪預警級別為黃色，上海、廣東東部近岸海域將出現2.5到3.4米的大浪，該近岸海域海浪預警級別為藍色。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。"
-    },
-    {
-      "id": "5159532",
-      "time": "2026-10-22 07:55:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 別忘了，我搞定了格陵蘭。 我的參議員們說：“請不要這樣做，請不要。” 我搞定了，夥計們。好吧，事情發生了。"
-    },
-    {
-      "id": "5159531",
-      "time": "2026-10-22 07:55:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普： 我打電話給 Google Maps，要求把大西洋改名為特朗普洋。 桑達爾說：“不，不，不。這次我不幹了。”他說：“海洋不一樣，先生。它們覆蓋了很多國家。請不要讓我們做這個。” 所以我們可能過不了這一關。我們還是保持大西洋這個名字吧。"
-    },
-    {
-      "id": "mkt:01a160e3-01ed-7ee0-a933-a1b72b033f7e",
-      "time": "2026-10-22 07:54:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "【Mitsubishi UFJ sees 25bp BoE hike at next meeting】Mitsubishi UFJ expects the Bank of England to raise policy rates by 25bp at its next meeting and again in February, taking the peak to 4.25%. It warns rising energy costs will feed through to household bills and lift UK headline inflation above 4% in coming months. Energy prices have stayed higher for longer and risen further recently; with a stabilising labour market, resilient growth and elevated underlying inflation, the BoE will find it hard to ignore the shock. MUFG forecasts UK Q3 GDP growth of about 0.65% QoQ and expects 2026 and 2027 GDP growth of 1.5% and 1.4% respectively, above IMF projections. Higher borrowing costs may have cut fiscal headroom ahead of the budget to around £15bn."
     }
   ]
 }
