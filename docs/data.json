@@ -1,7 +1,220 @@
 {
-  "updated": "2026-10-28 09:31:57",
-  "count": 13125,
+  "updated": "2026-10-28 09:35:42",
+  "count": 13146,
   "items": [
+    {
+      "id": "mkt:01a18025-ad43-7ee0-a9a8-4c9e5aae8b9f",
+      "time": "2026-10-28 09:35:15",
+      "tags": [
+        "MKT News",
+        "02525.HK",
+        "Impact bullish",
+        "02432.HK",
+        "09880.HK"
+      ],
+      "text": "Hong Kong robotics stocks rose in early trade: Hesai-W (02525.HK) up nearly 6%, Yuejiang (02432.HK) up over 5%, Ubtech (09880.HK) and Black Sesame Intelligent (02533.HK) up more than 4%."
+    },
+    {
+      "id": "5174388",
+      "time": "2026-10-28 09:34:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【先進封裝概念震盪反彈 聯動科技漲超10%】早盤先進封裝概念震盪反彈，聯動科技漲超10%，聯瑞新材、華海誠科、德龍鐳射、八億時空等跟漲。"
+    },
+    {
+      "id": "5174387",
+      "time": "2026-10-28 09:34:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人形機器人概念反覆活躍 寧波東力直線漲停】人形機器人概念反覆活躍，寧波東力直線漲停，斯菱智驅、五洲新春、福萊新材、浙江榮泰跟漲。"
+    },
+    {
+      "id": "5174386",
+      "time": "2026-10-28 09:34:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊盤初走強，富瀚微20cm漲停】半導體板塊盤初走強，富瀚微20cm漲停，君正股份、聯動科技漲超10%，思瑞浦、銀河微電、恆運昌、晶豐明源等跟漲。"
+    },
+    {
+      "id": "5174385",
+      "time": "2026-10-28 09:34:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股儲存晶片股走強 江波龍漲超7%】截至發稿，江波龍(09976.HK)漲7.12%，瀾起科技(06809.HK)漲5.88%，兆易創新(06809.HK)漲4.04%。"
+    },
+    {
+      "id": "mkt:01a18024-7f49-7ee0-a9a8-4747c4b1a222",
+      "time": "2026-10-28 09:33:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share gaming sector rallied in early trade; Shengtian Network gained over 10%, while Dianhun Network, Fuchun Shares, Xinghui Entertainment, Glacier Network and Caesar Culture also rose."
+    },
+    {
+      "id": "mkt:01a18024-2145-7ee0-a9a8-3d9864d6e207",
+      "time": "2026-10-28 09:33:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "A-share storage-chip stocks rebounded in early trade; Junzheng rose over 12%, while Puran, Shannon Xinchuang, Dapu Micro and Montage Technology also gained."
+    },
+    {
+      "id": "te:markets:595587",
+      "time": "2026-10-28 09:33:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Advance as Fed Decision Looms — Gold held above $4,050 an ounce on Wednesday after advancing for two consecutive sessions, as investors awaited the US Federal Reserve’s upcoming policy decision and assessed Israeli election results for potential implications on the Middle East conflict. The Fed is widely expected to keep interest rates unchanged, although traders will look for clues regarding a possible rate hike in December. Meanwhile, the Reserve Bank of New Zealand kept its policy rate steady despite market expectations for another increase, signaling a cautious stance toward further monetary tightening. On the geopolitical front, oil prices remained volatile amid a closely contested Israeli election that could influence the course of the Middle East conflict. Gold has faced sustained pressure this year as regional tensions fueled inflation concerns and strengthened expectations for higher interest rates, reducing the appeal of the non-yielding precious metal."
+    },
+    {
+      "id": "5174384",
+      "time": "2026-10-28 09:33:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指下跌1%，至5,701.09點。"
+    },
+    {
+      "id": "5174380",
+      "time": "2026-10-28 09:33:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【遊戲板塊短線拉昇，盛天網路漲超13%】遊戲板塊短線拉昇，盛天網路漲超13%，電魂網路、富春股份、星輝娛樂、冰川網路、凱撒文化跟漲。"
+    },
+    {
+      "id": "mkt:01a18023-9e24-7ee0-a9a8-30a05e5b390a",
+      "time": "2026-10-28 09:33:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said the governing coalition will remain intact; he will not abandon coalition partners and will welcome new members only if no agreement is reached to rotate the premiership."
+    },
+    {
+      "id": "mkt:01a18023-771a-7ee0-a9a8-2c36fb5f60f9",
+      "time": "2026-10-28 09:32:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02384.HK",
+        "Impact bearish"
+      ],
+      "text": "New Hong Kong listing Dongshan Precision (02384.HK) drops over 5%. H-share priced at HK$86.80, raising net proceeds of HK$9.717 bln."
+    },
+    {
+      "id": "5174376",
+      "time": "2026-10-28 09:32:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股新股東山精密跌超5% 香港公開發售獲0.52倍認購】截至發稿，東山精密(02384.HK)跌5.07%。訊息方面，根據配發結果，香港公開發售獲0.52倍認購，國際發售獲3.17倍認購。"
+    },
+    {
+      "id": "5174375",
+      "time": "2026-10-28 09:32:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為路由X2 Pro正式釋出】10月28日，華為正式釋出華為路由X2 Pro。據介紹，這是華為首款搭載AI Mesh組網技術的路由裝置，可根據戶型圖智慧推薦路由擺放位置，配置Wi-Fi 7+晶片級協同，相容星閃、藍芽和Wi-Fi三種連線協議，提供三款磁吸書脊外殼。"
+    },
+    {
+      "id": "mkt:01a18022-fff2-7ee0-a9a8-22097b9d8f6e",
+      "time": "2026-10-28 09:32:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Japan 20-year government bond yield rose 4.0 bps to 3.635%."
+    },
+    {
+      "id": "5174374",
+      "time": "2026-10-28 09:32:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五一視界：創始人自願延長禁售期限至2030年】五一視界（06651.HK）自願性公告內容顯示，創始人李熠自願將所持8262.77萬股H股的禁售期延長至2030年12月30日，相關股份約佔公司已發行股本19.70%。原禁售期將於2026年12月29日屆滿，新增承諾期自次日起至2030年12月30日止。其另持有的1908.18萬股非流通股亦不會於該日前轉為全流通股。"
+    },
+    {
+      "id": "mkt:01a18022-f71d-7ee0-a9a8-1fad6a84207b",
+      "time": "2026-10-28 09:32:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures open — morning session】2-year (TS) most-active contract flat; 5-year (TF) down 0.01%; 10-year (T) flat; 30-year (TL) up 0.01%."
+    },
+    {
+      "id": "mkt:01a18022-f29b-7ee0-a9a8-16244a63532d",
+      "time": "2026-10-28 09:32:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China equity index futures open higher】CSI 300 index futures (IF) most-active contract up 0.19%; SSE 50 index futures (IH) most-active contract up 0.24%; CSI 500 index futures (IC) most-active contract up 0.27%; CSI 1000 index futures (IM) most-active contract up 0.15%."
+    },
+    {
+      "id": "5174370",
+      "time": "2026-10-28 09:32:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【非金屬材料板塊盤初走強，索通發展漲停】非金屬材料板塊盤初走強，索通發展漲停，鴻富誠、國亮新材、聯瑞新材、惠豐鑽石、金戈新材、石英股份等跟漲。"
+    },
+    {
+      "id": "5174369",
+      "time": "2026-10-28 09:31:59",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【Anthropic據稱選擇由摩根大通牽頭開展其IPO面向美國散戶的發行工作】10月28日訊息，據報道，Anthropic已選擇由摩根大通主導其IPO面向美國個人投資者的股票銷售。Anthropic考慮將IPO總股份的約15%至20%撥給散戶。摩根大通此前也曾牽頭開展SpaceX IPO面向散戶的簿記工作。"
+    },
+    {
+      "id": "5174368",
+      "time": "2026-10-28 09:31:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【恆瑞醫藥港股漲超10%】恆瑞醫藥港股漲10.42%，報49.12港元。"
+    },
+    {
+      "id": "5174367",
+      "time": "2026-10-28 09:31:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上升4.0個基點至3.635%。"
+    },
     {
       "id": "mkt:01a18022-40de-7ee0-a9a8-0db6417f15a2",
       "time": "2026-10-28 09:31:30",
@@ -117896,17 +118109,6 @@
         "Importance 0"
       ],
       "text": "Silver Slips on Rising Oil Prices — Silver fell toward $57.5 an ounce on Wednesday, paring gains from the previous session as rising oil prices intensified inflation concerns and strengthened expectations for interest rate hikes. Oil resumed its upward trend after a diplomat dismissed reports that a deal to end the US-Iran conflict was imminent, although negotiations remain underway. Rising tensions in the Middle East and Eastern Europe, along with increased attacks on tankers in the Strait of Hormuz, further heightened concerns over supply disruptions. Meanwhile, the US Federal Reserve is widely expected to leave interest rates unchanged next week, though markets anticipate a possible rate hike in December. The Bank of Japan and the European Central Bank are also expected to maintain their policy rates next week. Although metals are traditionally considered a hedge against inflation, higher interest rates tend to weaken their appeal compared with interest-bearing assets."
-    },
-    {
-      "id": "te:markets:593597",
-      "time": "2026-10-21 09:35:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Extends Losses for Fourth Consecutive Session — Gold prices fell toward $4,100 per ounce on Wednesday, marking a fourth straight session of declines as elevated oil prices intensified inflation concerns and strengthened expectations for interest rate hikes. Oil resumed its upward trend after a diplomat dismissed reports that a deal to end the US-Iran conflict was imminent, although negotiations remain underway. Rising tensions in the Middle East and Eastern Europe, along with increased attacks on tankers in the Strait of Hormuz, further heightened concerns over supply disruptions. Meanwhile, the US Federal Reserve is widely expected to leave interest rates unchanged next week, though markets anticipate a possible rate hike in December. The Bank of Japan and the European Central Bank are also expected to maintain their policy rates next week. Although gold is traditionally considered a hedge against inflation, higher interest rates tend to weaken its appeal compared with interest-bearing assets."
     }
   ]
 }
