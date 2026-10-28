@@ -1,7 +1,66 @@
 {
-  "updated": "2026-10-29 04:00:54",
-  "count": 13110,
+  "updated": "2026-10-29 04:05:13",
+  "count": 13096,
   "items": [
+    {
+      "id": "te:markets:595965",
+      "time": "2026-10-29 04:03:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "T-Mobile Us earnings above expectations at 3.22 USD — T-Mobile Us (TMUS) released earnings per share at 3.22 USD, compared to market expectations of 2.86 USD."
+    },
+    {
+      "id": "5177200",
+      "time": "2026-10-29 04:03:20",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "ALPHABET 第三季度營收1,275.8億美元，預估1,279.3億美元。"
+    },
+    {
+      "id": "5177199",
+      "time": "2026-10-29 04:01:24",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "微軟第一財季營收922.8億美元，預估906.3億美元。\n第一財季調整後每股收益4.89美元，預估4.73美元。\n第一財季資本支出393.7億美元，預估459.3億美元。\n第一財季經營利潤459.2億美元，預估439.2億美元。\n第一財季每股收益4.92美元。"
+    },
+    {
+      "id": "5177198",
+      "time": "2026-10-29 04:01:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國副總統萬斯致信伊朗最高安全機構負責人。"
+    },
+    {
+      "id": "5177197",
+      "time": "2026-10-29 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.19%，標普500指數漲0.28%，納指漲0.32%。VRT漲16.56%，偉創力國際漲11.61%，甲骨文漲10.58%，實驗美控漲8.84%，閃迪漲7.66%，CoreWeave漲7.32%。“七姐妹”方面：谷歌漲1.70%，亞馬遜漲0.61%，微軟漲0.22%，特斯拉跌0.80%，蘋果跌0.88%，英偉達跌1.17%，Meta Platforms跌1.23%。"
+    },
+    {
+      "id": "5177196",
+      "time": "2026-10-29 04:00:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "T-Mobile第三季度總營收235.8億美元，高於IBES預期的231.4億美元。"
+    },
     {
       "id": "5177195",
       "time": "2026-10-29 04:00:20",
@@ -118039,213 +118098,6 @@
         "Impact bullish"
       ],
       "text": "Meta Platforms (META.O) shares rose more than 4% in after-hours U.S. trading after Q3 revenue beat estimates and Q4 revenue guidance exceeded expectations."
-    },
-    {
-      "id": "5159273",
-      "time": "2026-10-22 04:05:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "Meta：第三季度成本和費用包括與美國州總檢察長協議相關的98.9億美元和解費用。"
-    },
-    {
-      "id": "mkt:01a16010-cf4a-7ee0-a930-b8a317d0ce27",
-      "time": "2026-10-22 04:04:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O"
-      ],
-      "text": "Tesla (TSLA.O) Q3 2026 gross margin 19.6%."
-    },
-    {
-      "id": "5159272",
-      "time": "2026-10-22 04:04:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "特斯拉公司：內華達州已開始生產特斯拉Semi，弗裡蒙特已開始生產Optimus。"
-    },
-    {
-      "id": "5159271",
-      "time": "2026-10-22 04:04:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉：計劃到年底達到400兆瓦的SI訓練算力，支援車輛和人形機器人自主軟體的開發。"
-    },
-    {
-      "id": "5159270",
-      "time": "2026-10-22 04:04:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉：第三季度自由現金流15.3億美元，預估負49.9億美元。"
-    },
-    {
-      "id": "5159268",
-      "time": "2026-10-22 04:03:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉：第三季度經營利潤7.18億美元，預估5.993億美元。"
-    },
-    {
-      "id": "te:markets:593951",
-      "time": "2026-10-22 04:03:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Southern Copper earnings above expectations at 2.15 USD — Southern Copper (SCCO) released earnings per share at 2.15 USD, compared to market expectations of 1.79 USD."
-    },
-    {
-      "id": "te:markets:593950",
-      "time": "2026-10-22 04:03:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Meta earnings below expectations at 3.83 USD — Meta (FB) released earnings per share at 3.83 USD, compared to market expectations of 7.02 USD."
-    },
-    {
-      "id": "mkt:01a16010-0ba6-7ee0-a930-b120f184c357",
-      "time": "2026-10-22 04:03:46",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Tesla (TSLA.O) Q3 2026 free cash flow $1.53 billion."
-    },
-    {
-      "id": "5159267",
-      "time": "2026-10-22 04:03:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉：第三季度汽車部門營收205.6億美元，預估198.3億美元。"
-    },
-    {
-      "id": "mkt:01a1600f-d3f8-7ee0-a930-af6990db6166",
-      "time": "2026-10-22 04:03:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact mixed"
-      ],
-      "text": "Tesla (TSLA.O) Q3 2026 revenue $28.0 bln; $28.1 bln a year earlier; consensus $27.883 bln."
-    },
-    {
-      "id": "mkt:01a1600f-9955-7ee0-a930-a49ea99a2b9a",
-      "time": "2026-10-22 04:03:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact mixed"
-      ],
-      "text": "Meta Platforms (META.O) guides Q4 revenue of $73.0–76.0 billion, versus consensus $73.73 billion."
-    },
-    {
-      "id": "5159266",
-      "time": "2026-10-22 04:02:57",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "特斯拉：第三季度營收280.5億美元，預估281.3億美元。"
-    },
-    {
-      "id": "5159265",
-      "time": "2026-10-22 04:02:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：第三季度每股收益3.83美元，預估3.57美元。"
-    },
-    {
-      "id": "5159264",
-      "time": "2026-10-22 04:02:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：第三季度經營利潤129.9億美元，同比-37%。"
-    },
-    {
-      "id": "mkt:01a1600e-a05e-7ee0-a930-98d601cf4b96",
-      "time": "2026-10-22 04:02:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) reported free cash flow of negative $2.12 billion in Q3 2026."
-    },
-    {
-      "id": "5159263",
-      "time": "2026-10-22 04:02:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：第三季度廣告收入630.6億美元，同比+26%。"
-    },
-    {
-      "id": "5159262",
-      "time": "2026-10-22 04:01:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta第三季度營收646.0億美元，市場預期633.3億美元。"
-    },
-    {
-      "id": "mkt:01a1600e-07c4-7ee0-a930-943cff3c5044",
-      "time": "2026-10-22 04:01:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) Q3 2026 revenue $64.6 bln, versus $51.242 bln year-ago; market consensus $63.334 bln."
-    },
-    {
-      "id": "5159261",
-      "time": "2026-10-22 04:01:21",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "Meta預計第四季度營收為730億美元至760億美元，此前預估為735.7億美元。"
     }
   ]
 }
