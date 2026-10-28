@@ -1,7 +1,91 @@
 {
   "date": "2026-10-29",
-  "count": 754,
+  "count": 764,
   "items": [
+    {
+      "id": "5177401",
+      "time": "2026-10-29 07:40:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 25年前，我把傑弗裡·愛潑斯坦趕出了一個俱樂部，因為我認為他是個瘋子。 那是我做的一件很棒的事。 他再也沒跟我聯絡過。你知道他跟誰聯絡嗎？民主黨人的所有朋友。 他是個民主黨人。"
+    },
+    {
+      "id": "5177400",
+      "time": "2026-10-29 07:40:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【新股提示：鈳銳鍶今日申購】今日可申購科創板鈳銳鍶。鈳銳鍶發行總數17128600股，發行市盈率41.86倍，申購程式碼為：787827，申購價格：45.37元，申購上限4000股。"
+    },
+    {
+      "id": "5177399",
+      "time": "2026-10-29 07:39:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【空客H135直升機獲五架新訂單】10月29日，據空中客車直升機官微訊息，美國Life Flight Network公司宣佈訂購五架空客H135直升機。這批H135雙發直升機將幫助Life Flight Network公司為俄勒岡州、華盛頓州、愛達荷州和蒙大拿州各地的危重患者提供緊急轉運服務。至此，該公司訂購的H135直升機總數已達八架。"
+    },
+    {
+      "id": "5177398",
+      "time": "2026-10-29 07:39:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "玻利維亞總統預計，旨在保護亞馬遜雨林的可持續發展專案將在未來10年內帶來50億至70億美元的收入。"
+    },
+    {
+      "id": "mkt:01a184e1-f0a2-7ee0-a9cd-47d27fbd5456",
+      "time": "2026-10-29 07:39:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Flavio Bolsonaro says he will organize opposition to Lula government from abroad】Flavio Bolsonaro, son of former president Jair Bolsonaro and Liberal Party candidate, said in an open letter on the 28th he is the 'Brazil leader' and will organize opposition to President Lula from abroad. He thanked Argentina's President Milei and U.S. President Trump, said he was not 'fleeing Brazil' but had left 'for Brazil', and said his father's imprisonment and his own 'political persecution' prevent him from leading the opposition domestically."
+    },
+    {
+      "id": "te:markets:595994",
+      "time": "2026-10-29 07:38:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Pulls Back on Diplomacy Hopes — Crude oil prices slipped to around $102 per barrel on Thursday, trimming gains from the previous session as investors assessed renewed diplomatic efforts to prevent further escalation of the Middle East conflict. Reports suggested that US Vice President JD Vance had contacted Iranian national security official Mohsen Rezaei, while President Donald Trump confirmed that negotiations were underway through mediators but acknowledged uncertainty over their outcome. Iranian Foreign Minister Abbas Araghchi also reiterated that Tehran remained open to diplomatic solutions. Despite the pullback, WTI crude has gained more than 14% this month, supported by intensifying clashes involving Saudi Arabia and Iran-backed Houthi forces, alongside continued threats to shipping through the Strait of Hormuz. However, energy flows from the region have since recovered to levels close to those recorded before the war."
+    },
+    {
+      "id": "5177397",
+      "time": "2026-10-29 07:38:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【弗拉維奧·博索納羅稱將在海外反對盧拉政府 】在巴西總統選舉中落敗的前總統雅伊爾·博索納羅之子、自由黨候選人弗拉維奧·博索納羅28日發表公開信，自稱“巴西領導人”，並稱將在海外組織反對盧拉政府的活動。弗拉維奧·博索納羅在信中感謝阿根廷總統米萊和美國總統特朗普。他辯稱自己並非“逃離巴西”，而是“為了巴西而離開”，聲稱在父親被監禁、自身面臨“政治迫害”的情況下無法在國內領導反對派。（新華社）"
+    },
+    {
+      "id": "5177396",
+      "time": "2026-10-29 07:37:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我科研團隊發現植物蛋白可從頭合成RNA】記者28日從西湖大學獲悉，《Vita》期刊刊發了該校遺傳物質表達與重構全國重點實驗室施一公教授團隊一項打破傳統認知的發現：水稻蛋白OsNTP4能夠在體外條件下自主從頭合成RNA（核糖核酸），水稻OsNTP10蛋白、擬南芥AtURT1蛋白同樣具備類似活性。“RNA是細胞內重要的核酸分子，承擔傳遞遺傳資訊、調控基因、參與蛋白合成等功能。以往科學界普遍認為，RNA合成必須依託核酸模板，或是在已有RNA片段基礎上繼續延伸。”該團隊佔謝超副研究員介紹，這項研究成果重新整理了傳統認知。（科技日報）"
+    },
+    {
+      "id": "5177395",
+      "time": "2026-10-29 07:37:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【索尼生命保險遭遇資料洩露，客戶資訊外洩】據索尼生命保險公司（Sony Life Insurance）週三釋出的一份宣告稱，其客戶網路服務系統遭到未經授權的訪問，導致個人資訊洩露。此次洩露涉及約38.5萬條資訊，包括客戶姓名、地址及合同詳情。洩露的資訊中不包含“個人編號”（My Number）及信用卡號碼。"
+    },
+    {
+      "id": "5177394",
+      "time": "2026-10-29 07:37:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中使館提醒在尼泊爾中國公民特別是徒步旅行者注意強氣旋“阿爾納布”影響】根據尼泊爾國家減災管理局氣象預警，強氣旋“阿爾納布”將於10月29日至31日影響尼泊爾，尼泊爾大部分地區屆時可能出現中至大雨，並伴有閃電和大風，高海拔丘陵和山區極有可能出現強降雨、暴風雪和雪崩。尼泊爾徒步旅行機構協會（TAAN）亦釋出通告，敦促徒步向導、徒步旅行者以及所有遊客採取預防措施。中國駐尼泊爾大使館提醒在尼泊爾中國公民特別是徒步旅行者保持高度警惕，緊盯氣象預警，防範外出風險。建議近期避免前往高海拔地區，已身處高海拔地區人員儘快轉移至安全區域，避開山區河谷、低窪易澇和地質災害高發區域。"
+    },
     {
       "id": "5177393",
       "time": "2026-10-29 07:36:50",
