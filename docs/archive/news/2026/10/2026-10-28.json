@@ -1,7 +1,136 @@
 {
   "date": "2026-10-28",
-  "count": 1427,
+  "count": 1441,
   "items": [
+    {
+      "id": "mkt:01a1815f-bb54-7ee0-a9af-6902eefdf4bb",
+      "time": "2026-10-28 15:18:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine will not facilitate a US attack on a Russian vessel carrying diesel."
+    },
+    {
+      "id": "mkt:01a1815f-6cfb-7ee0-a9af-63f080bdbe3d",
+      "time": "2026-10-28 15:17:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "Huawei said cumulative global shipments of its FreeClip ear‑clip headphone series have exceeded 10 million units since going on sale in 2024."
+    },
+    {
+      "id": "5175125",
+      "time": "2026-10-28 15:17:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯煉油廠周度加工量接近五個月高位，襲擊暫歇】知情人士稱，10月15日至21日，烏克蘭暫停襲擊，多家重點煉油廠恢復生產或提負荷，俄羅斯原油日均加工量躍升至420萬桶以上。歷史資料顯示，煉油廠加工量較前一週增加逾50萬桶/日，創5月下旬以來最高周度均值。（注：烏克蘭確認的最近一次襲擊發生在10月15日，襲擊物件為俄石油的梁贊煉油廠；10月16日，NASA火災資訊資源管理系統資料顯示，西西伯利亞蘇爾古特一處天然氣處理設施在遭無人機襲擊後或出現火情。）"
+    },
+    {
+      "id": "te:economy:595690",
+      "time": "2026-10-28 15:17:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Norway Loan Debt Rises 4.9% in September — Norway’s general public domestic loan debt increased by 4.9% year-on-year to NOK 8.09 trillion at the end of September 2026, following a 4.5% rise in the previous month. This marked the fastest pace of increase since May 2023. Lending growth to non-financial corporations accelerated to 5.9% from 4.8%, reaching NOK 2.44 trillion, while loans to municipal governments rose by 4.4%, up from 3.0%, to NOK 0.84 trillion. Meanwhile, lending growth to households eased slightly to 4.5% from 4.6%, with outstanding loans totaling NOK 4.81 trillion. On a seasonally adjusted annualized one-month basis, total loan debt for the general public grew by 6.0%, following a 5.6% increase in August."
+    },
+    {
+      "id": "mkt:01a1815e-89dc-7ee0-a9af-58e7d2dbab72",
+      "time": "2026-10-28 15:16:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures midday close】China government bond futures midday close: 2-year (TS) main contract up 0.01%; 5-year (TF) up 0.02%; 10-year (T) up 0.03%; 30-year (TL) up 0.03%."
+    },
+    {
+      "id": "mkt:01a1815e-749d-7ee0-a9af-57a6ea097e90",
+      "time": "2026-10-28 15:16:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Thailand (BOT) projects exports to grow 15% in 2027 (June projection: 4.6%). BOT forecasts foreign tourist arrivals at 32 mln in 2026 (June: 33 mln) and 34.5 mln in 2027 (June: 35.5 mln)."
+    },
+    {
+      "id": "5175124",
+      "time": "2026-10-28 15:16:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：預計2026年外國遊客數量為3200萬人次（6月預計為3300萬人次）。"
+    },
+    {
+      "id": "5175122",
+      "time": "2026-10-28 15:16:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：因地制宜推進煤改清潔能源,堅持非必要條件下不使用燃煤】北京市人民政府印發《北京市“十五五”時期新型能源體系規劃》。其中指出，深入推動熱源多元化低碳化升級。構建多能互補、綠色低碳供熱體系。嚴控化石能源供熱,鼓勵存量鍋爐房整合併網和提質增效,有序實施燃氣機組熱電解耦改造,加快佈局綠電蓄熱調峰專案,開展摻燒綠氫和靈活性改造可行性技術論證,推動燃氣鍋爐由基礎熱源向調峰保障方向轉變。深挖餘熱資源,建設多能耦合綜合能源站。探索利用津冀中深層地熱資源長輸入京替代燃氣鍋爐。因地制宜推進煤改清潔能源,堅持非必要條件下不使用燃煤。"
+    },
+    {
+      "id": "te:markets:595687",
+      "time": "2026-10-28 15:16:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.81% Higher — The Shangai Composite Index rose 30 points or 0.81 percent on Wednesday to close at 3678 points. Leading the gains are Jiangsu Hengrui (6.50%), Huaneng (3.35%) and GD Power Development (2.32%). Top losers were Foshan Haitian (-2.96%), Anhui Conch Cement (-2.76%) and Aluminum Corporation of China (-2.63%)."
+    },
+    {
+      "id": "5175121",
+      "time": "2026-10-28 15:16:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元GBP/USD跌至12日低點，報1.3270。歐元兌美元EUR/USD跌至17個月低點，報1.1111。"
+    },
+    {
+      "id": "mkt:01a1815d-9c9b-7ee0-a9af-4b701a524b3c",
+      "time": "2026-10-28 15:15:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "GBP/USD fell to a 12-day low at 1.3270. EUR/USD dropped to a 17-month low at 1.1111."
+    },
+    {
+      "id": "5175120",
+      "time": "2026-10-28 15:15:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏克蘭不會為了美國而攻擊俄羅斯用柴油建造的船隻。"
+    },
+    {
+      "id": "5175119",
+      "time": "2026-10-28 15:15:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國被曝加強在厄瓜多軍事活動】據外媒27日披露，數月來，美國以打擊販毒為由，不斷加強在厄瓜多陶拉空軍基地的軍事活動。今年6月至10月中旬，約20架次美軍軍機在該基地起降，基地近來還進行大規模施工。陶拉空軍基地是厄瓜多唯一專供軍事用途的空軍基地，擁有一條長逾3000米的跑道，距厄瓜多主要港口城市瓜亞基爾約一小時車程。（）你話剩想"
+    },
+    {
+      "id": "5175118",
+      "time": "2026-10-28 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.04%， 10年期主力合約漲0.03%， 5年期主力合約漲0.02%， 2年期主力合約漲0.01%。"
+    },
     {
       "id": "mkt:01a1815c-2e33-7ee0-a9af-444c9d9f4ea7",
       "time": "2026-10-28 15:14:24",
