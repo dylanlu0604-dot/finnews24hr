@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-29 03:14:52",
-  "count": 13082,
+  "updated": "2026-10-29 03:18:45",
+  "count": 13074,
   "items": [
+    {
+      "id": "mkt:01a183f1-f5bd-7ee0-a9ca-a4cbaf998fc9",
+      "time": "2026-10-29 03:17:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Gundlach: October interest rates faced genuine pressure but were eased by rebalancing operations."
+    },
+    {
+      "id": "mkt:01a183f0-2edf-7ee0-a9ca-9e0721f18aa5",
+      "time": "2026-10-29 03:15:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Kevin Warsh to attend Nov. 16 hearing on AI's impact on productivity and employment】Federal Reserve Chair Kevin Warsh plans to attend an in-person hearing of the Fed Productivity and Employment Working Group on Nov. 16 in the San Francisco Bay Area to gather public input on technology, productivity and implications for monetary policy. Warsh said the session will assess how AI-driven productivity gains could affect the economy over the short, medium and long term, including whether they will make achieving price stability easier or harder and what the effects on employment may be. The hearing will be held publicly."
+    },
+    {
+      "id": "mkt:01a183ef-92c5-7ee0-a9ca-96bb8e35902c",
+      "time": "2026-10-29 03:14:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Axios: Saudi asks Trump not to rush to war, allow more time for talks】Axios reports Qatar is leading mediation between the U.S. and Iran with support from Pakistan, Saudi Arabia, Egypt and Turkey. Qatar negotiator Ali al-Thawadi visited Tehran earlier this week to discuss a potential deal with the Trump administration. Washington has demanded Iran surrender its enriched uranium stockpile; Iran insists the U.S. first lift a maritime blockade and release frozen Iranian funds. Mediators warned Iran that accepting such proposals could be the only way to avoid large-scale strikes after the U.S. midterms. Saudi, Turkish and Pakistani security officials conveyed the same message during recent visits to Tehran. A U.S. official said Saudi officials told the White House Iran fears U.S. and Israeli strikes after the midterms and asked Trump not to rush into war but to give negotiations more time."
+    },
     {
       "id": "mkt:01a183ee-8d9c-7ee0-a9ca-8dc130397b80",
       "time": "2026-10-29 03:13:31",
@@ -117863,111 +117897,6 @@
         "公司"
       ],
       "text": "芝商所執行長：能源行業的大型企業希望暫緩推進全天候石油交易。"
-    },
-    {
-      "id": "5159213",
-      "time": "2026-10-22 03:18:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭基輔市區傳出連續爆炸聲】當地時間21日，烏克蘭基輔市區響起連續爆炸聲。基輔市市長克利奇科稱，基輔遭彈道導彈襲擊。"
-    },
-    {
-      "id": "5159212",
-      "time": "2026-10-22 03:17:44",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國國債期貨跌至日內低點 油價再度攀升】美國2年至10年期國債期貨跌至日內低點。美國正準備下令駐海灣地區使館部分職員撤離，油價隨後回升。短端和中段領跌，推動5s30s利差降至日內最窄水平。美國國債短端至中段收益率上漲4-5個基點，而20年期和30年期收益率上漲約2個基點。WTI原油期貨抹去跌幅，轉為上漲，漲幅約0.4%。"
-    },
-    {
-      "id": "mkt:01a15fe5-7c9d-7ee0-a930-3cfd854b2b36",
-      "time": "2026-10-22 03:17:17",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "US President Trump said a resolution to the Russia-Ukraine conflict is increasingly close."
-    },
-    {
-      "id": "5159211",
-      "time": "2026-10-22 03:17:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "芝商所執行長：使用VPN進行的非法石油交易無人監管。"
-    },
-    {
-      "id": "mkt:01a15fe5-1f44-7ee0-a930-32bf04fc1a19",
-      "time": "2026-10-22 03:16:53",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Kyiv mayor says the city is under ballistic missile attack."
-    },
-    {
-      "id": "mkt:01a15fe4-e145-7ee0-a930-2c14e5e66632",
-      "time": "2026-10-22 03:16:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump, on the release of hostages from Russia, said we did not make any exchange."
-    },
-    {
-      "id": "5159209",
-      "time": "2026-10-22 03:16:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：現在可能是我們距離結束衝突最近的一次。"
-    },
-    {
-      "id": "5159208",
-      "time": "2026-10-22 03:15:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談哈伯德從俄羅斯獲釋：我們沒有做出任何交換。"
-    },
-    {
-      "id": "5159207",
-      "time": "2026-10-22 03:15:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：距離解決俄羅斯與烏克蘭的衝突越來越近了。"
-    },
-    {
-      "id": "mkt:01a15fe3-a842-7ee0-a930-26a28b4129b8",
-      "time": "2026-10-22 03:15:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【US suspects Israeli jets sought to provoke Iran; dozens of warplanes neared Iranian border】On Oct. 21 Channel 12, citing US officials, reported that earlier this week dozens of Israeli fighter jets and tankers flew over Syria and Iraq on routes resembling attack profiles and approached the Iranian border before turning back without entering Iranian airspace. US officials suspect the flights were intended to provoke Iran into firing; Israel notified the US in advance, calling the sorties exercises and a show of force, while sources said some Israeli officials may have sought to elicit Iranian return fire to create a pretext for strikes."
-    },
-    {
-      "id": "5159206",
-      "time": "2026-10-22 03:14:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "芝商所執行長：地緣政治緊張局勢對通脹產生了“巨大影響”。"
     }
   ]
 }

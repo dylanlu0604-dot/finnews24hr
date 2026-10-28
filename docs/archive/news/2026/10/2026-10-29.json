@@ -1,7 +1,41 @@
 {
   "date": "2026-10-29",
-  "count": 436,
+  "count": 439,
   "items": [
+    {
+      "id": "mkt:01a183f1-f5bd-7ee0-a9ca-a4cbaf998fc9",
+      "time": "2026-10-29 03:17:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Gundlach: October interest rates faced genuine pressure but were eased by rebalancing operations."
+    },
+    {
+      "id": "mkt:01a183f0-2edf-7ee0-a9ca-9e0721f18aa5",
+      "time": "2026-10-29 03:15:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Kevin Warsh to attend Nov. 16 hearing on AI's impact on productivity and employment】Federal Reserve Chair Kevin Warsh plans to attend an in-person hearing of the Fed Productivity and Employment Working Group on Nov. 16 in the San Francisco Bay Area to gather public input on technology, productivity and implications for monetary policy. Warsh said the session will assess how AI-driven productivity gains could affect the economy over the short, medium and long term, including whether they will make achieving price stability easier or harder and what the effects on employment may be. The hearing will be held publicly."
+    },
+    {
+      "id": "mkt:01a183ef-92c5-7ee0-a9ca-96bb8e35902c",
+      "time": "2026-10-29 03:14:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Axios: Saudi asks Trump not to rush to war, allow more time for talks】Axios reports Qatar is leading mediation between the U.S. and Iran with support from Pakistan, Saudi Arabia, Egypt and Turkey. Qatar negotiator Ali al-Thawadi visited Tehran earlier this week to discuss a potential deal with the Trump administration. Washington has demanded Iran surrender its enriched uranium stockpile; Iran insists the U.S. first lift a maritime blockade and release frozen Iranian funds. Mediators warned Iran that accepting such proposals could be the only way to avoid large-scale strikes after the U.S. midterms. Saudi, Turkish and Pakistani security officials conveyed the same message during recent visits to Tehran. A U.S. official said Saudi officials told the White House Iran fears U.S. and Israeli strikes after the midterms and asked Trump not to rush into war but to give negotiations more time."
+    },
     {
       "id": "mkt:01a183ee-8d9c-7ee0-a9ca-8dc130397b80",
       "time": "2026-10-29 03:13:31",
