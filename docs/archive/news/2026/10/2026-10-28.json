@@ -1,7 +1,146 @@
 {
   "date": "2026-10-28",
-  "count": 1971,
+  "count": 1986,
   "items": [
+    {
+      "id": "mkt:01a182a6-6bae-7ee0-a9ba-44cd4abd44f9",
+      "time": "2026-10-28 21:15:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor Healey said the government will fully fund its defence investment plan."
+    },
+    {
+      "id": "mkt:01a182a6-678e-7ee0-a9ba-3a978b945729",
+      "time": "2026-10-28 21:15:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Research house sees upside for SK Hynix; two-year buybacks could equal 28% of share capital】Wolf Research reiterated an Outperform on SK Hynix and set a $250 price target, citing strong AI infrastructure-driven demand for high-bandwidth memory (HBM). Analyst Chris Kasso said rising HBM prices, increased memory production and an attractive current valuation — the stock trades at roughly 4.5x earnings implied by Wolf’s optimistic case — could drive upside. Wolf estimates that if SK Hynix executes its expected shareholder-return plan, projected free cash flow over the next two years could fund buybacks equivalent to about 28% of shares outstanding."
+    },
+    {
+      "id": "5176561",
+      "time": "2026-10-28 21:14:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將為國防工業計劃提供全額資金。"
+    },
+    {
+      "id": "5176560",
+      "time": "2026-10-28 21:14:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "桑坦德巴西第三季度業績釋出後，其股價下跌3%。"
+    },
+    {
+      "id": "5176559",
+      "time": "2026-10-28 21:14:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將在支出審查中繼續明確方向。"
+    },
+    {
+      "id": "mkt:01a182a5-0e7f-7ee0-a9ba-34b33d4ce27a",
+      "time": "2026-10-28 21:13:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Preliminary counts show neither Israeli bloc wins Knesset majority】Preliminary counts from Israel’s election on the 28th show neither the right-wing bloc backing Prime Minister Netanyahu nor the opposition has secured an absolute majority of Knesset seats. Netanyahu’s Likud remains the largest party."
+    },
+    {
+      "id": "mkt:01a182a4-f176-7ee0-a9ba-2fe50652f331",
+      "time": "2026-10-28 21:13:30",
+      "tags": [
+        "MKT News",
+        "FTSE100",
+        "Impact bearish",
+        "GBPUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【UK raises bank surcharge to fund household energy support】UK Chancellor John Healey will raise the bank surcharge to 6% from 3% on profits above £100 million, an additional 3 percentage points. The government says the temporary measure will fund immediate support for household energy bills, takes effect in January and runs for 15 months."
+    },
+    {
+      "id": "mkt:01a182a4-dc22-7ee0-a9ba-23ef9d4aac3f",
+      "time": "2026-10-28 21:13:24",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "UK Chancellor Healey announced measures to devolve tax revenue. By the end of this decade business rates will be retained 100% by local governments, and from 2028 a portion of income tax will be allocated to local mayors."
+    },
+    {
+      "id": "5176558",
+      "time": "2026-10-28 21:12:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：儘管存在政治問題，與馬斯克的接觸仍在繼續。"
+    },
+    {
+      "id": "5176557",
+      "time": "2026-10-28 21:12:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯正就低軌衛星問題與馬斯克保持接觸。"
+    },
+    {
+      "id": "mkt:01a182a3-86fa-7ee0-a9ba-1e884f3b6541",
+      "time": "2026-10-28 21:11:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK Chancellor Healy said flexible funds will be used to invest in local economies."
+    },
+    {
+      "id": "5176556",
+      "time": "2026-10-28 21:11:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：向市長級政府機構提供15億英鎊的下放貸款。"
+    },
+    {
+      "id": "5176555",
+      "time": "2026-10-28 21:11:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：靈活資金用於投資地方經濟。"
+    },
+    {
+      "id": "5176554",
+      "time": "2026-10-28 21:11:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌1%，現報973.00元。"
+    },
+    {
+      "id": "5176553",
+      "time": "2026-10-28 21:11:11",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【初步計票顯示以色列兩大陣營均未獲議會多數席位】28日，以色列議會選舉初步計票結果顯示，支援現任總理內塔尼亞胡的右翼陣營與反對派陣營均未獲得絕對多數席位。內塔尼亞胡領導的利庫德集團仍為議會第一大黨。（新華社）"
+    },
     {
       "id": "5176552",
       "time": "2026-10-28 21:11:00",
