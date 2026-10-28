@@ -1,7 +1,98 @@
 {
-  "updated": "2026-10-29 03:18:45",
+  "updated": "2026-10-29 03:22:35",
   "count": 13074,
   "items": [
+    {
+      "id": "5177155",
+      "time": "2026-10-29 03:22:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客執行長：尚未就加長版A350機型作出決定，目前正在評估相關機會。"
+    },
+    {
+      "id": "mkt:01a183f6-4036-7ee0-a9ca-d1064a1391e6",
+      "time": "2026-10-29 03:21:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Petroperu, Peru’s state oil company, expects to close 2026 with net profit of $350 million, the company chairman said."
+    },
+    {
+      "id": "mkt:01a183f6-3c86-7ee0-a9ca-ca049fc4469d",
+      "time": "2026-10-29 03:21:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "CENTCOM said Iranian-controlled media reports in recent days and weeks that merchant vessels struck mines while transiting the Strait of Hormuz are false. The U.S. military has cleared all internationally recognized primary transit lanes in the Strait of Hormuz and will keep them mine-free; thousands of merchant vessels have used those lanes safely and continue to do so."
+    },
+    {
+      "id": "5177154",
+      "time": "2026-10-29 03:21:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：霍爾木茲海峽全部獲得國際認可的主要通行航道，已經由美軍完成水雷清除並維持安全狀態。已有數千艘商船安全通行，目前仍持續正常通航。"
+    },
+    {
+      "id": "5177153",
+      "time": "2026-10-29 03:20:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "“新債王”岡拉克：10月利率確實面臨真實壓力，但因再平衡操作而得到緩解。基準情形可能是12月加息。"
+    },
+    {
+      "id": "mkt:01a183f4-aff4-7ee0-a9ca-c1bfbd7d377a",
+      "time": "2026-10-29 03:20:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "USD/CAD slipped below 1.40, down 0.36% intraday."
+    },
+    {
+      "id": "mkt:01a183f4-8e6a-7ee0-a9ca-b96b8ab81ccf",
+      "time": "2026-10-29 03:20:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chairman of Peru's state oil company Petroperu said he is open to selling a minority stake in 2027."
+    },
+    {
+      "id": "mkt:01a183f3-f90c-7ee0-a9ca-b2d1db5fb6de",
+      "time": "2026-10-29 03:19:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Warsh reiterates opposition to forward guidance】Federal Reserve Chair Kevin Warsh told a press briefing he does not support using so‑called forward guidance to signal future rate paths or policy direction except in an emergency or crisis. He said forward guidance played a substantial role during the darkest phase of the 2008 financial crisis — after policymakers referenced research by a recently awarded Nobel laureate — but he does not endorse its use in normal times, especially given current strong economic fundamentals."
+    },
+    {
+      "id": "mkt:01a183f3-9355-7ee0-a9ca-a8a1c0cb0ae1",
+      "time": "2026-10-29 03:19:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Gundlach: baseline scenario may be a December rate hike."
+    },
     {
       "id": "mkt:01a183f1-f5bd-7ee0-a9ca-a4cbaf998fc9",
       "time": "2026-10-29 03:17:14",
@@ -117818,85 +117909,6 @@
         "Impact bullish"
       ],
       "text": "Meta Platforms (META.O) gains quickly narrowed to 0.85% after earlier rising as much as 2.71%."
-    },
-    {
-      "id": "5159221",
-      "time": "2026-10-22 03:22:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic與HCLTech簽約，合作部署Claude。"
-    },
-    {
-      "id": "5159220",
-      "time": "2026-10-22 03:22:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "Stripe：Anthropic將公司的Link錢包和配置功能整合到Claude Loop應用中。"
-    },
-    {
-      "id": "5159219",
-      "time": "2026-10-22 03:21:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta股價跳水，迅速抹平漲幅。"
-    },
-    {
-      "id": "mkt:01a15fe8-7e3c-7ee0-a930-4571db7523e7",
-      "time": "2026-10-22 03:20:34",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact mixed"
-      ],
-      "text": "Semafor reports Meta Platforms (META.O) may as soon as Wednesday, when it reports quarterly results, formally announce a plan to issue non-voting shares to fund AI investment; the move would not dilute Zuckerberg's control."
-    },
-    {
-      "id": "5159218",
-      "time": "2026-10-22 03:20:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI呼籲加強前沿人工智慧安全保障。"
-    },
-    {
-      "id": "5159217",
-      "time": "2026-10-22 03:20:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta的（無投票權股票）計劃不會稀釋扎克伯格的控制權。"
-    },
-    {
-      "id": "5159216",
-      "time": "2026-10-22 03:19:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta的相關計劃最早可能於週三宣佈。"
-    },
-    {
-      "id": "5159215",
-      "time": "2026-10-22 03:18:56",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "Meta計劃推出新的無投票權股票。"
-    },
-    {
-      "id": "5159214",
-      "time": "2026-10-22 03:18:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "芝商所執行長：能源行業的大型企業希望暫緩推進全天候石油交易。"
     }
   ]
 }
