@@ -1,7 +1,124 @@
 {
   "date": "2026-10-28",
-  "count": 2182,
+  "count": 2197,
   "items": [
+    {
+      "id": "5176658",
+      "time": "2026-10-28 21:59:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京先通國際醫藥科技股份有限公司 - B透過港交所上市聆訊】據港交所檔案：北京先通國際醫藥科技股份有限公司 - B透過港交所上市聆訊。"
+    },
+    {
+      "id": "5176657",
+      "time": "2026-10-28 21:58:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長呂特表示，英國預算標誌著“好訊息”，在國防方面做出了強有力的承諾。"
+    },
+    {
+      "id": "mkt:01a182ce-800b-7ee0-a9bd-625229e0ebd7",
+      "time": "2026-10-28 21:58:53",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index"
+      ],
+      "text": "HKEX filing: China Travel Hong Kong & Macau Cultural Tourism Holdings Co., Ltd. has passed its HKEX listing hearing."
+    },
+    {
+      "id": "5176656",
+      "time": "2026-10-28 21:58:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝克休斯：到2035年，全球液化天然氣產能將增至9.5億噸/年。"
+    },
+    {
+      "id": "mkt:01a182ce-4bac-7ee0-a9bd-58e4dd7deaf0",
+      "time": "2026-10-28 21:58:40",
+      "tags": [
+        "MKT News",
+        "01877.HK",
+        "Impact bullish"
+      ],
+      "text": "Junshi Biosciences (01877.HK): Marketing applications for its toripalimab injection (subcutaneous), covering all 13 indications previously approved for toripalimab injection, have been accepted for review."
+    },
+    {
+      "id": "5176655",
+      "time": "2026-10-28 21:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝克休斯：2026年全球上游支出將與上年持平。"
+    },
+    {
+      "id": "mkt:01a182cd-7ccf-7ee0-a9bd-5252bba6c637",
+      "time": "2026-10-28 21:57:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "UK DMO expects to sell £54.1 bln of gilts via syndication in the 2026-27 fiscal year."
+    },
+    {
+      "id": "mkt:01a182cd-1f5c-7ee0-a9bd-4d36970c749a",
+      "time": "2026-10-28 21:57:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK DMO will launch a standing repo facility for short-term Treasury bills in January 2027."
+    },
+    {
+      "id": "5176654",
+      "time": "2026-10-28 21:57:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙交通大臣：8點36分已作出恢復列車執行的決定。"
+    },
+    {
+      "id": "5176653",
+      "time": "2026-10-28 21:57:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劉非：抓好重點任務重點工作重大改革落實 確保圓滿完成年度各專案標任務】28日上午，杭州市委全面深化改革委員會第十八次會議、高質量發展建設共同富裕示範區城市範例推進例會召開。會議強調，要深刻認識和準確把握新形勢新變化，以更大力度的改革創新破解發展中的難題。認真落實透過改革“變增量配置為主為存量盤活為主”的要求，更多地把著力點放在整合盤活存量資源上，破除體制機制障礙，實現效益最大化，帶動投資加快放量。認真落實透過改革“變各自為戰為一體融合”的要求，以一體作戰、跨界融合為重要突破口，注重相互借鑑，堅持整合創新，強化政策協同，不斷提升改革成效。認真落實透過改革“變事後應對為事先預防”的要求，以安全生產隱患排查、重大風險防範化解為切入點，從源頭堵住風險漏洞、化解安全隱患、破解治理難題。認真落實透過改革“變傳統手段為數智賦能”的要求，充分發揮特色優勢，把人工智慧深度融入到經濟社會發展的各領域各方面，全力打通資料壁壘，推進資料共享，更好賦能城市治理現代化。（杭州釋出）"
+    },
+    {
+      "id": "mkt:01a182cc-be09-7ee0-a9bd-4218e1b42075",
+      "time": "2026-10-28 21:56:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain's transport minister said the train involved in the incident has been taken out of service."
+    },
+    {
+      "id": "mkt:01a182cc-915e-7ee0-a9bd-3fede2539d9d",
+      "time": "2026-10-28 21:56:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain's transport minister said a train control system failed due to a computer communication problem."
+    },
+    {
+      "id": "mkt:01a182cb-f312-7ee0-a9bd-36650f7e8f62",
+      "time": "2026-10-28 21:56:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bolsonaro left Miami airport without speaking to reporters."
+    },
     {
       "id": "5176652",
       "time": "2026-10-28 21:55:20",
@@ -9,6 +126,23 @@
         "市場"
       ],
       "text": "波音股價在前一交易日暴跌 10.7% 後下跌 1.4%。"
+    },
+    {
+      "id": "5176651",
+      "time": "2026-10-28 21:55:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴西參議員博索納羅抵達美國】據巴西方面當地時間28日訊息，巴西參議員、自由黨候選人弗拉維奧·博索納羅及其家人乘坐飛機抵達美國。巴西總統盧拉27日批評弗拉維奧·博索納羅在總統選舉落敗後離境行為是“可恥的”。盧拉稱，弗拉維奧·博索納羅應該留在巴西，按照司法機關要求上交護照，並提交相關材料以對其受到的指控作出解釋。26日，巴西聯邦最高法院一名法官裁定，禁止弗拉維奧·博索納羅離開巴西，責令其24小時內向巴西警方上交護照。（央視新聞）"
+    },
+    {
+      "id": "em:qqyh_mlc:202610283912652536",
+      "time": "2026-10-28 21:55:00",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲10月利率決議預判 金融機構預計：美聯儲或在12月加息25個基點】美聯儲將於北京時間29日凌晨2點公佈10月利率決議。市場普遍認為本次議息會議美聯儲或選擇按兵不動，市場押注加息的機率目前僅為9.4%。9月會議美聯儲加息25個基點，這是三年多來的首次加息。不過，加息並未緩解物價壓力，9月美國消費者價格指數同比上漲3.7%，高於8月的3.4%。分析認為，從風險回報角度來說，10月維持利率不變可能是更合適的結果。目前來看，高盛、摩根大通、摩根士丹利、巴克萊、德意志銀行、瑞銀及滙豐等主要金融機構均預計，美聯儲將在12月加息25個基點。"
     },
     {
       "id": "te:markets:595872",
