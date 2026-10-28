@@ -1,7 +1,109 @@
 {
-  "updated": "2026-10-29 03:07:09",
-  "count": 13077,
+  "updated": "2026-10-29 03:10:58",
+  "count": 13081,
   "items": [
+    {
+      "id": "mkt:01a183eb-72e3-7ee0-a9ca-6bc7347905fe",
+      "time": "2026-10-29 03:10:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY"
+      ],
+      "text": "【Kevin Warsh: US midterms did not affect Fed decision】Fed Chair Kevin Warsh said political factors did not influence the Fed’s decision to keep rates unchanged, noting he spent two days with colleagues and heard no discussion of politics, the Nov. 3 midterm elections, or near-term events. He said he believes the election had no impact on the final decision for him or his colleagues."
+    },
+    {
+      "id": "mkt:01a183ea-e4f2-7ee0-a9ca-6277d136a49c",
+      "time": "2026-10-29 03:09:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh's press conference has ended."
+    },
+    {
+      "id": "5177151",
+      "time": "2026-10-29 03:09:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "甲骨文股價在釋出業績指引後延續漲勢，最新上漲約12.6%。"
+    },
+    {
+      "id": "mkt:01a183ea-ac39-7ee0-a9ca-5e84264c4c58",
+      "time": "2026-10-29 03:09:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【Wall Street economist: Today's Fed decision will push inflation further above target】Investor Peter Schiff said the federal funds rate remains too low to rein in rising inflation, that only two of the FOMC’s 12 members voted to support a hike, and that even a 25bp increase would be too little and too late — today's decision will drive inflation further above the Fed's 2% target."
+    },
+    {
+      "id": "5177150",
+      "time": "2026-10-29 03:09:09",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美聯儲主席沃什10月28日新聞釋出會要點總結】\n一、貨幣政策目標與抗通脹決心（核心表態）。\n堅定的政策立場：沃什強調美聯儲將“毫無疑問”（No ifs and or buts）地交付價格穩定，明確表示不存在“軟性通脹目標”。錨定 2% 目標：明確價格穩定的具體目標是以 PCE（個人消費支出價格指數）衡量的 2%。通脹預期管理：儘管近期通脹預期有所上升，但長期指標顯示家庭和企業依然對美聯儲實現價格穩定充滿信心。\n二、利率對新技術（AI）及資本支出的傳導影響。\n利率傳導機制顯現：沃什表示此前曾懷疑利率對人工智慧（AI）的影響，但事實證明“利率幾乎影響一切”。自 9 月初以來，在科技綜合體（Technology Complex）內部及外部，均已觀察到利率產生的作用。金融條件收緊與信貸利差：部分資產的信貸利差已有所擴大，部分金融狀況出現收緊。資本支出（CapEx）泛化：利率對新技術確實至關重要，目前資本支出的強勁勢頭正在拓寬，不再侷限於少數狹窄領域。\n三、市場動態與宏觀指標觀測。\n利率與油價脫鉤：沃什指出，直到最近，油價上漲與市場定價的利率之間一直保持著穩定的相關性，但近期利率已轉向下行，同時他也注意到原油期貨價格有所上漲。評估工作組進展：美聯儲內部設有的五個工作組（包括生產力工作組等）正在推進工作，部分結論將於年底前出爐，但其結論不太可能在當前的政策節點（Policy Juncture）上有所體現。未來一段時期將包含豐富的資訊。\n四、獨立性與政治中立（回應中期選舉）。\n政治化決定：針對即將到來的中期選舉，沃什明確強調政治考量在本次利率決議中沒有發揮任何作用。不僅對他個人而言如此，對 FOMC 其它同事亦是如此，在為期兩天的 FOMC 審議中完全沒有提及政治或選舉。"
+    },
+    {
+      "id": "mkt:01a183e9-7bfa-7ee0-a9ca-51264b520fc9",
+      "time": "2026-10-29 03:07:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y"
+      ],
+      "text": "【Kevin Warsh defends Fed's resolve to fight inflation】Fed Chair Kevin Warsh rejected the view that the Fed’s decision today not to raise rates signals weakened resolve on inflation. He said the Fed will not adopt a looser inflation target and warned that inflation’s full impact on consumers can take up to six years to emerge. Warsh noted consumers are already feeling pressure from higher fuel costs and that near-term inflation expectations are rising, but said households and firms remain confident in the Fed’s ability to maintain price stability."
+    },
+    {
+      "id": "5177149",
+      "time": "2026-10-29 03:07:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什對“是否需要進一步加息”的問題避而不答】美聯儲主席沃什迴避了一個問題，即當前的利率水平是否已經足夠合適。他表示：“各方普遍認為，我們此前採取的行動已開始顯現出一定成效。”但他同時補充道，對於未來是否還需要進一步加息，目前尚未得出明確結論。"
+    },
+    {
+      "id": "mkt:01a183e9-0843-7ee0-a9ca-4ea320089d17",
+      "time": "2026-10-29 03:07:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【Fed Chair Kevin Warsh declines to say whether further rate hikes are needed】Fed Chair Kevin Warsh declined to say whether the current policy rate is sufficiently appropriate. He said market participants generally believe earlier tightening has begun to show some effect, but added there is no definitive conclusion yet on whether further rate hikes will be necessary."
+    },
+    {
+      "id": "mkt:01a183e8-8a7b-7ee0-a9ca-40c409ca4253",
+      "time": "2026-10-29 03:06:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said financial conditions are tightening, signaling that policy is working and that he is not concerned."
+    },
     {
       "id": "5177148",
       "time": "2026-10-29 03:06:32",
@@ -117835,46 +117937,6 @@
         "其他"
       ],
       "text": "微軟：Storm-0940利用OAuth應用程式，透過Microsoft Graph訪問並竊取郵件及其他資料。"
-    },
-    {
-      "id": "5159201",
-      "time": "2026-10-22 03:09:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：在多家客戶環境中監測到Storm-0940身份驗證活動，暫未確認發生資料訪問。"
-    },
-    {
-      "id": "5159200",
-      "time": "2026-10-22 03:08:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：Storm-0940“密碼噴灑攻擊行動”在10月10日至14日期間，針對8家機構的327個賬號發起攻擊。"
-    },
-    {
-      "id": "5159199",
-      "time": "2026-10-22 03:08:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：評估認為，Storm-0940 是最近披露的多租戶應用程式 Connectwise 供應鏈攻擊事件的幕後黑手。"
-    },
-    {
-      "id": "5159198",
-      "time": "2026-10-22 03:08:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：Storm-0940 Artex驅動的攻擊在多個例項中不到3小時就獲得了特權雲訪問許可權。"
-    },
-    {
-      "id": "5159197",
-      "time": "2026-10-22 03:07:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：2026年9月，駭客組織Storm-0940使用人工智慧框架Artex對全球數百家組織發起自動化攻擊。"
     }
   ]
 }
