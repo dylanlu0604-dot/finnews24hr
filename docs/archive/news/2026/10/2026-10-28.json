@@ -1,7 +1,98 @@
 {
   "date": "2026-10-28",
-  "count": 2021,
+  "count": 2031,
   "items": [
+    {
+      "id": "mkt:01a182b1-3cb1-7ee0-a9ba-e3cc33a905b4",
+      "time": "2026-10-28 21:26:55",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "UK Chancellor Healy to introduce a new scheme for first-time homebuyers from spring."
+    },
+    {
+      "id": "mkt:01a182b1-35cc-7ee0-a9ba-dccbdf95660a",
+      "time": "2026-10-28 21:26:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tianfu Communications Q3 2026 revenue up ~28% QoQ on stronger active optical deliveries】Tianfu Communications said in an investor-relations record Q3 2026 revenue rose about 28% QoQ as output increased across both active and passive segments. Active optical component deliveries improved as upstream key-material supply eased, lifting sales; passive products maintained robust demand, supporting revenue and profitability. The company said it will continue expanding capacity in line with customer demand."
+    },
+    {
+      "id": "5176584",
+      "time": "2026-10-28 21:26:53",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【天孚通訊：從三季度情況來看，核心物料供應緊張局面已較此前明顯緩解】天孚通訊釋出投資者關係活動記錄表，其中表示，從三季度情況來看，核心物料供應緊張局面已較此前明顯緩解。公司一方面持續深化與主要供應商的合作關係，另一方面也積極推進供應鏈多元化，進一步增強關鍵物料保障能力。目前來看，核心物料到貨節奏總體較為順暢，能夠較好支援現階段生產和交付需求。公司仍將持續關注上游供給變化，動態最佳化採購和備貨策略，以進一步提升供應鏈韌性和安全。"
+    },
+    {
+      "id": "mkt:01a182b1-1ba5-7ee0-a9ba-d4d54b2aa0fe",
+      "time": "2026-10-28 21:26:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "UK Chancellor Healy said first-time buyer personal savings accounts will replace the Lifetime ISA."
+    },
+    {
+      "id": "mkt:01a182b0-d7b3-7ee0-a9ba-cf35b616be3e",
+      "time": "2026-10-28 21:26:29",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK chancellor said all land sold to social housing providers will be exempt from VAT."
+    },
+    {
+      "id": "5176583",
+      "time": "2026-10-28 21:26:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "據信，載有弗拉維奧·博索納羅的飛機已在美國降落。"
+    },
+    {
+      "id": "mkt:01a182b0-902c-7ee0-a9ba-c3440431f259",
+      "time": "2026-10-28 21:26:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Chancellor Healey to provide an additional £1.5 billion for social and affordable housing programmes."
+    },
+    {
+      "id": "5176582",
+      "time": "2026-10-28 21:25:47",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【天孚通訊：公司有源光器件交付能力提升，帶動業務收入增長】天孚通訊在投資者關係活動記錄表中表示，公司2026年第三季度營業收入環比增長約28%，實現了較好的環比增長。從驅動因素來看，本季度收入增長主要來自有源業務和無源業務同步增加產出。具體而言，一方面有源業務隨著上游核心物料供應情況較前期逐步改善，公司有源光器件交付能力提升，帶動業務收入增長。另一方面無源業務依然保持較高市場需求景氣度，對公司收入和盈利形成了穩定支撐，公司會根據客戶需求持續擴產。"
+    },
+    {
+      "id": "5176581",
+      "time": "2026-10-28 21:25:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府擴大對機構人員配備的控制。"
+    },
+    {
+      "id": "5176580",
+      "time": "2026-10-28 21:25:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯總統普京談馬斯克】俄羅斯總統普京表示，埃隆・馬斯克是一位工業天才，有超過 5000 顆航天器在軌執行。我們和包括馬斯克先生在內的美國夥伴保持密切溝通。維持軌道空間的秩序與規範十分重要。俄方與美國夥伴都重視這一點，儘管雙方存在政治分歧，但我們在該領域開展緊密合作。"
+    },
     {
       "id": "mkt:01a182ae-2bbc-7ee0-a9ba-bd02e5252fee",
       "time": "2026-10-28 21:23:34",
