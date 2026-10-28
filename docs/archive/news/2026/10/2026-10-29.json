@@ -1,7 +1,74 @@
 {
   "date": "2026-10-29",
-  "count": 431,
+  "count": 436,
   "items": [
+    {
+      "id": "mkt:01a183ee-8d9c-7ee0-a9ca-8dc130397b80",
+      "time": "2026-10-29 03:13:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Energy",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Fitch: Coming weeks' data likely to set stage for Fed December rate hike】Fitch chief economist Brian Coulton said data due in the coming weeks are likely to provide the Fed with the signals needed to raise rates in December: strong unit-profit growth, elevated energy prices and a broadening of inflation over the past year point to upside risks for the US inflation outlook, despite recent stability in core CPI."
+    },
+    {
+      "id": "mkt:01a183ee-2812-7ee0-a9ca-86335302bba8",
+      "time": "2026-10-29 03:13:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Nasdaq100",
+        "Impact bearish",
+        "US10Y",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Warsh: AI boom not immune to interest-rate pressure】Federal Reserve chair Kevin Warsh said he disagrees that US AI expansion can remain unaffected by rising borrowing costs, flagging recent turbulence in the riskiest segments of equity and bond markets. Interest rates, he said, \"affect almost everything directly or indirectly.\" He added market participants are more cautious in investment choices and that credit spreads on some assets are widening, with clear gaps emerging."
+    },
+    {
+      "id": "mkt:01a183ed-d046-7ee0-a9ca-7f12118f40b6",
+      "time": "2026-10-29 03:12:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) extended gains after issuing earnings guidance, trading up more than 12%."
+    },
+    {
+      "id": "5177152",
+      "time": "2026-10-29 03:11:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普指控民主黨在阿拉斯加拉攏同名候選人干擾選舉】美國總統特朗普在真相社交平臺發文稱，現已查實阿拉斯加民主黨非法物色並招募一名名為丹・沙利文的人參選，以此混淆選票、分流現任共和黨參議員丹・沙利文的選票。《紐約時報》報道顯示，民主黨方面一直否認與這名同名候選人有關聯，但佩爾托拉競選團隊以及參議院民主黨競選委員會工作人員參與了長達數月的秘密招募計劃，同時還招募了其他候選人。特朗普表示，民主黨人員在聯邦法庭宣誓後作出虛假陳述，已經構成偽證，應當承擔嚴重後果。他認為佩爾托拉必須為此承擔法律與政治責任，該行為屬於欺騙美國民眾，並要求選票上剔除佩爾托拉以及這名 “假丹・沙利文”，讓真正的丹・沙利文參選。"
+    },
+    {
+      "id": "mkt:01a183ec-6db0-7ee0-a9ca-77fac6ae2f32",
+      "time": "2026-10-29 03:11:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Warsh: Economy strong, jobs excellent; Fed focus remains on price stability】Fed Chair Kevin Warsh said recent Fed discussions have been “mainly focused on price stability within our remit.” He described progress toward the Fed’s full-employment goal as “quite positive,” noting the unemployment rate is down year-on-year and the four-week average of initial jobless claims is at generational lows. Warsh said economic growth has strengthened, with 1H GDP revised up from 1.8% to 2.4% and Q3 appearing to run faster."
+    },
     {
       "id": "mkt:01a183eb-72e3-7ee0-a9ca-6bc7347905fe",
       "time": "2026-10-29 03:10:07",
