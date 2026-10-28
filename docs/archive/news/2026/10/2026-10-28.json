@@ -1,7 +1,107 @@
 {
   "date": "2026-10-28",
-  "count": 683,
+  "count": 694,
   "items": [
+    {
+      "id": "5174191",
+      "time": "2026-10-28 08:57:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "A.O.史密斯公司 ： 交易對中國業務的估值約為 4 億美元，無現金、無債務。"
+    },
+    {
+      "id": "5174189",
+      "time": "2026-10-28 08:56:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：財政政策並非影響收益率和外匯的唯一因素。"
+    },
+    {
+      "id": "mkt:01a18002-2f4f-7ee0-a9a6-36ad927204f2",
+      "time": "2026-10-28 08:56:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said it is difficult to completely discount the impact of supply shocks."
+    },
+    {
+      "id": "5174188",
+      "time": "2026-10-28 08:56:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "A.O.史密斯宣佈，其中國業務多數股權已被CPE收購；A.O.史密斯將保留19%股份及長期品牌許可。"
+    },
+    {
+      "id": "mkt:01a18001-d400-7ee0-a9a6-2dfe401053aa",
+      "time": "2026-10-28 08:56:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "South Korea's KOSPI index was up 4.75% in the latest trade."
+    },
+    {
+      "id": "5174180",
+      "time": "2026-10-28 08:55:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化買盤。"
+    },
+    {
+      "id": "5174179",
+      "time": "2026-10-28 08:55:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普擬放寬油氣行業甲烷排放管控】美國總統唐納德·特朗普於週二正式提議縮減針對油氣企業的甲烷排放管控措施，這標誌著其政府為撤銷旨在應對人為氣候變化的聯邦法規邁出了最新的重要一步。特朗普在得克薩斯州拉伯克市的一場晚間競選集會上表示：“我將正式廢除拜登政府制定的昂貴且不必要的甲烷排放法規，從而為消費者和能源生產商節省450億美元的成本。”他將這一舉措（目前仍處於提案階段）定位為降低能源成本的手段，以期在下週中期選舉前緩解選民對生活成本的擔憂。該提案旨在修改拜登政府於2024年制定的嚴格標準，呼籲放寬對油氣井、管道及加工設施的甲烷管控。此外，提案還建議廢除旨在幫助減少最大規模甲烷洩漏的所謂“超級排放源計劃”（Super Emitter Program）。特朗普補充稱，該措施一旦最終敲定，將帶來2.1億桶的額外石油產量。"
+    },
+    {
+      "id": "mkt:01a18000-e9c8-7ee0-a9a6-21e00e5ba1ed",
+      "time": "2026-10-28 08:55:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange activated the sidecar mechanism on the KOSPI index, suspending programmatic buy orders."
+    },
+    {
+      "id": "5174175",
+      "time": "2026-10-28 08:54:17",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳元觸及一個月高點，約為0.7054美元，CPI公佈前為0.7024美元。"
+    },
+    {
+      "id": "mkt:01a17fff-9db8-7ee0-a9a6-1dd42532b7fd",
+      "time": "2026-10-28 08:53:40",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Australian core inflation accelerates, markets raise odds of RBA rate hike】Australia's trimmed-mean CPI for the three months to September rose 3.7% YoY, the Australian Bureau of Statistics said on Wednesday, above the prior quarter and economists' 3.6% forecast. The policy-sensitive three-year government bond yield climbed as much as 8bps to 4.93%. Traders now price a 78% probability of an RBA rate hike at next Tuesday's policy meeting, up from 70% before the data. ANZ rates strategist Robert Thompson said a hike is now essentially certain given recent RBA comments and worrying report details — core inflation remains too high and market services prices have risen again after stripping volatile items — and he would be very surprised if the RBA did not raise rates."
+    },
+    {
+      "id": "5174170",
+      "time": "2026-10-28 08:53:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【東北地區氣溫多波動 明夜起西藏等地將現強降雪】今天（10月28日），冷空氣影響仍在持續，未來幾天我國東北等地氣溫多波動。10月底開始，新一輪冷空氣將登場，中東部大部地區將先後降溫4℃至8℃，南方局地降溫可超過10℃，內蒙古東部、東北地區還會出現雨雪天氣。此外，受孟加拉灣風暴影響，明天夜間起，西藏、青海等地將迎來明顯雨雪，部分地區有強降雪，需注意防範。"
+    },
     {
       "id": "mkt:01a17fff-2c73-7ee0-a9a6-163f96f8c7c7",
       "time": "2026-10-28 08:53:11",
