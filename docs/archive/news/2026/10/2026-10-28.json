@@ -1,7 +1,95 @@
 {
   "date": "2026-10-28",
-  "count": 2197,
+  "count": 2206,
   "items": [
+    {
+      "id": "mkt:01a182d2-3349-7ee0-a9bd-85e46e00391e",
+      "time": "2026-10-28 22:02:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【BOC raises inflation forecast, says room for policy easing has narrowed】In the Monetary Policy Report released with its rate decision, the Bank of Canada raised its CPI forecast to 3.1% YoY in 2027 from a prior 2.0% projection. Governor Macklem said energy prices have risen and are expected to remain elevated and that cost pressures are building, citing those factors as the main rationale supporting further hikes and saying the scope for policy easing has narrowed. He added the bank had discussed holding rates; arguments for pausing included that the inflation pickup is concentrated in energy, the economy still has spare capacity, and a U.S. tariff dispute could slow growth. The governing council agreed future decisions will be made on a meeting-by-meeting basis. BOC officials also upgraded GDP growth forecasts, in part reflecting federal measures including a proposed productivity super-deduction and progress on large projects."
+    },
+    {
+      "id": "mkt:01a182d2-24ca-7ee0-a9bd-7f5a7a97d632",
+      "time": "2026-10-28 22:02:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Industry sources said Russia approved, for the first time since July 10, the departure of vessels carrying grain for export from Azov Sea ports."
+    },
+    {
+      "id": "5176662",
+      "time": "2026-10-28 22:02:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "行業訊息人士稱，俄羅斯首次批准運載出口糧食的船隻自亞速海港口離港，為7月10日以來首次。"
+    },
+    {
+      "id": "5176661",
+      "time": "2026-10-28 22:01:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙交通部長：重啟列車的決定未按規定作出，也未以能讓列車停下的節奏推進。"
+    },
+    {
+      "id": "mkt:01a182d0-9b4b-7ee0-a9bd-7123310134ca",
+      "time": "2026-10-28 22:01:11",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK Office for Budget Responsibility (OBR) estimates pre-measures fiscal headroom for 2029-30 at £12.5 billion."
+    },
+    {
+      "id": "5176660",
+      "time": "2026-10-28 22:00:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "BAE系統公司拓展商用航空售後市場產品與服務，以滿足不斷增長的機隊需求。"
+    },
+    {
+      "id": "5176659",
+      "time": "2026-10-28 22:00:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "IBM將成為美國網球公開賽官方人工智慧與雲合作伙伴，合作持續至2031年。"
+    },
+    {
+      "id": "mkt:01a182cf-cbb8-7ee0-a9bd-6c628b9282dc",
+      "time": "2026-10-28 22:00:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK DMO plans five syndicated offerings of conventional gilts and two syndicated offerings of index-linked gilts in the 2026-27 fiscal year."
+    },
+    {
+      "id": "te:markets:595874",
+      "time": "2026-10-28 21:59:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Enel Shares Hit 8-week High — Enel shares increased to 9.32 EUR, the highest since September 2026. Over the past 4 weeks, Enel gained 6.19%, and in the last 12 months, it increased 7.03%."
+    },
     {
       "id": "5176658",
       "time": "2026-10-28 21:59:02",
