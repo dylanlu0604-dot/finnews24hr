@@ -1,7 +1,385 @@
 {
   "date": "2026-10-28",
-  "count": 1335,
+  "count": 1374,
   "items": [
+    {
+      "id": "mkt:01a18151-4085-7ee0-a9ae-d1025dcbe420",
+      "time": "2026-10-28 15:02:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOT says Thai economy continues to gain growth momentum driven by the technology and AI cycle."
+    },
+    {
+      "id": "mkt:01a18151-2130-7ee0-a9ae-ce4bf89aeb74",
+      "time": "2026-10-28 15:02:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China SHSZ markets turnover CNY1.628 tln on Oct 28; Zhongji Xuchuang top by turnover】China's Shanghai and Shenzhen markets recorded combined turnover of CNY1.6285 tln on Oct 28, up CNY167.529 bln from the prior session. Shanghai turnover was CNY751.019 bln (prior CNY672.414 bln) with volume 434 mln lots (418 mln); Shenzhen turnover was CNY877.468 bln (prior CNY788.544 bln) with volume 538 mln lots (522 mln). Zhongji Xuchuang ranked first by turnover at CNY23.573 bln, followed by Changxin Technology CNY16.186 bln, Xinyisheng CNY15.090 bln, GigaDevice CNY12.278 bln and CATL CNY10.243 bln."
+    },
+    {
+      "id": "mkt:01a18151-12d5-7ee0-a9ae-c3af23390ae2",
+      "time": "2026-10-28 15:02:16",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China stocks closed higher on Oct. 28. China's Shanghai Composite Index rose 0.91% to 3,681.47; Shenzhen Composite Index gained 2.02% to 11,473.18; CSI 300 Index up 0.85% at 4,083.87; ChiNext Index climbed 3.40% to 2,634.76; STAR 50 Index advanced 2.45% to 1,282.93."
+    },
+    {
+      "id": "5175082",
+      "time": "2026-10-28 15:02:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【ETF兩市成交額報5984.33億元，較昨日此時縮量61.49億元】截至目前，ETF兩市成交額報5984.33億元，較昨日此時縮量61.49億元，分型別來看，股票型ETF成交額1587.28億元，債券型ETF成交額3024.61億元，貨幣型ETF成交額575.82億元，商品型ETF成交額65.93億元，QDII型ETF成交額730.7億元。其中，成交額最高的非貨幣型ETF分別是中韓半導體ETF（513310）、創業板ETF（159915）、科創50ETF（588000），成交額分別為：202.20億元、116.07億元、92.96億元。"
+    },
+    {
+      "id": "5175081",
+      "time": "2026-10-28 15:02:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "葛蘭素史克：有望在2026年啟動22項III期臨床試驗，迄今已啟動18項。"
+    },
+    {
+      "id": "te:markets:595676",
+      "time": "2026-10-28 15:02:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "US Natural Gas Prices Rise on Higher LNG Flows — US natural gas prices rose to $3.07 per MMBtu on Wednesday, supported by rising LNG export activity. Feedgas deliveries to the nine major US LNG export plants averaged around 19.2 bcfd over the past two weeks, while flows so far this month averaged 18.3 bcfd, up from 17.9 bcfd in September. Growing demand for US LNG from European and Asian buyers also supported prices, as the two regions raced to secure supplies ahead of winter. However, gains were limited by forecasts for above-normal temperatures across the eastern two-thirds of the country, which could limit heating demand in the coming weeks. On the supply side, Lower 48 output averaged 112.0 bcfd so far in October, down from record highs of 113.3 bcfd in August and September, although production has recovered to around 113.5 bcfd over the past week."
+    },
+    {
+      "id": "te:markets:595675",
+      "time": "2026-10-28 15:02:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Norway",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Statoil Asa earnings above expectations at 1.20 USD — Statoil Asa (STO) released earnings per share at 1.20 USD, compared to market expectations of 1.17 USD."
+    },
+    {
+      "id": "5175080",
+      "time": "2026-10-28 15:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其9月份貿易逆差收窄至51.6億美元；此前預期為-52億美元。"
+    },
+    {
+      "id": "mkt:01a18150-c6eb-7ee0-a9ae-bb35dd6b28fb",
+      "time": "2026-10-28 15:01:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Jefferies: Fed chair Kevin Warsh to emphasize credibility】Jefferies analyst Mohit Kumar says Fed chair Kevin Warsh will prioritize credibility over signaling a hawkish or dovish tilt — likely the key message today. He warns the Fed must act if inf risks re-emerge. Jefferies projects oil will fall to $60–65/barrel in two years and says oil should not be the determinant of the medium-term inf outlook."
+    },
+    {
+      "id": "5175079",
+      "time": "2026-10-28 15:01:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：當前政策利率適合支援經濟復甦。"
+    },
+    {
+      "id": "5175078",
+      "time": "2026-10-28 15:01:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "STELLANTIS第三季度淨營收376.1億歐元，預估364.3億歐元。"
+    },
+    {
+      "id": "5175077",
+      "time": "2026-10-28 15:01:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京警告歐洲不要挖坑害自己】當地時間10月27日，俄羅斯總統普京在莫斯科舉行的天然氣出口國論壇第八次峰會上表示，俄羅斯是全球天然氣市場的重要參與者，任何試圖將俄羅斯排除在全球天然氣市場之外、阻礙俄天然氣行業發展的行為，都將帶來嚴重後果，推高其他國家天然氣使用者的成本，普京用俄羅斯諺語警告歐洲國家“不要給別人挖坑，否則你自己也會掉進去。”普京還表示，中東局勢升級、天然氣供應路線遭到破壞等，加劇了全球天然氣市場長期失衡的風險，天然氣出口國應加強合作，共同維護全球天然氣市場穩定。 （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a18150-619e-7ee0-a9ae-b61e236bd72e",
+      "time": "2026-10-28 15:01:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CSI500",
+        "CSI1000"
+      ],
+      "text": "【Stock index futures midday close】CSI 300 futures (IF) most-active contract up 0.23%; SSE 50 futures (IH) most-active contract down 0.28%; CSI 500 futures (IC) most-active contract up 1.37%; CSI 1000 futures (IM) most-active contract up 1.54%."
+    },
+    {
+      "id": "mkt:01a18150-4a6a-7ee0-a9ae-a97914c99b22",
+      "time": "2026-10-28 15:01:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Thailand says economic growth remains below potential."
+    },
+    {
+      "id": "mkt:01a18150-47f8-7ee0-a9ae-a4a146bd9ca7",
+      "time": "2026-10-28 15:01:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOT projects 2026 GDP growth at 2.4% (June: 2.3%) and 2027 GDP growth at 2.1% (June: 1.8%). It forecasts overall inf at 2.1% in 2026 (previously 2.2%) and 1.3% in 2027 (June: 1.4%)."
+    },
+    {
+      "id": "mkt:01a18150-384c-7ee0-a9ae-9d4764063ef3",
+      "time": "2026-10-28 15:01:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOT says monetary policy should remain accommodative."
+    },
+    {
+      "id": "5175076",
+      "time": "2026-10-28 15:01:09",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "【A股收評：創業板指高開高走漲3.4%，人形機器人、半導體、光刻機板塊漲幅居前】A股三大指數今日集體上漲，截至收盤，上證指數漲0.91%，深證成指漲2.02%，創業板指漲3.4%，北證50漲1.63%，科創50指數漲2.45%。全市場成交額16421億元，較上日放量1692億元，全市場超4100只個股上漲。板塊題材上，光刻機、減速器、半導體、人形機器人、影視院線板塊漲幅居前；白酒、青蒿素、大豆、豬肉、證券板塊跌幅居前。盤面上，人形機器人板塊全天強勢，恆工精密、寧波東力、五洲新春、萬向錢潮、大豐實業等十餘股漲停，偉創電氣、上緯新材、超捷股份等多股漲超10%。半導體板塊表現活躍，富瀚微、必易微、金海通漲停，君正股份、燦芯股份、聯動科技漲幅居前。影視院線板塊低開高走，百納千成、文投控股漲停，華智數媒、歡瑞世紀、中廣天擇漲幅居前。白酒板塊全天低迷，金徽酒、五糧液、古井貢酒跌幅居前。證券板塊震盪走低，華鑫股份跌停，國泰海通、華林證券、廣發證券跌幅居前。"
+    },
+    {
+      "id": "5175075",
+      "time": "2026-10-28 15:01:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【ETF收評：中韓半導體ETF領漲8.05%，酒ETF領跌1.93%】ETF收盤漲跌不一，中韓半導體ETF（513310）領漲8.05%，創業板人工智慧ETF（159382）漲6.55%，科創機械ETF（588850）漲6.00%，酒ETF（512690）領跌1.93%，800價值ETF（560030）跌1.85%，消費ETF（159928）跌1.65%。"
+    },
+    {
+      "id": "5175074",
+      "time": "2026-10-28 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【滬深兩市今日成交額合計1.63萬億元，中際旭創成交額居首】滬深兩市今日全天成交額合計1.63萬億元，較上一日增量1675.37億元。其中，滬市成交額為7510.19億元（上一交易日為6724.14億元），成交量為4.34億手（上一交易日為4.18億手）；深市成交額為8774.59億元（上一交易日為7885.27億元），成交量為5.38億手（上一交易日為5.21億手）。中際旭創成交額居首，為235.73億元。其次是長鑫科技、新易盛、兆易創新、寧德時代，成交額分別為161.86億元、150.9億元、122.78億元、102.43億元。"
+    },
+    {
+      "id": "mkt:01a1814f-ec52-7ee0-a9ae-942dac334a1c",
+      "time": "2026-10-28 15:01:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "At midday close, China domestic futures main contracts were mixed with more gains than losses. Ethylene glycol (EG) led advances, up over 5%; synthetic rubber, polypropylene (month-average contract), asphalt and PVC rose more than 3%; polypropylene was up about 3%; coking coal and alumina gained over 2%. On the downside, lithium carbonate fell more than 4%, caustic soda dropped over 3%, fiberboard slid over 2%, the container-shipping Europe route eased about 2%, and palladium and pulp were down roughly 1%."
+    },
+    {
+      "id": "5175073",
+      "time": "2026-10-28 15:00:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "STELLANTIS三季度淨虧損4.53億歐元。"
+    },
+    {
+      "id": "mkt:01a1814f-a65d-7ee0-a9ae-8b81f14cf328",
+      "time": "2026-10-28 15:00:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China A-shares closed higher: Shanghai Composite up 0.91%, Shenzhen Component up 2.02%, ChiNext up 3.40%. STAR 50 rose 2.45%. Gains led by lithography equipment, humanoid robots, PEEK materials and CPO sectors. More than 4,100 stocks advanced across the market."
+    },
+    {
+      "id": "5175072",
+      "time": "2026-10-28 15:00:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行預測2027年GDP增長率為2.1%。"
+    },
+    {
+      "id": "te:markets:595674",
+      "time": "2026-10-28 15:00:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Advance on AI-Fueled Rally — The Nikkei 225 Index climbed 1.08% to close at 63,954 on Wednesday, rising for the second straight session and tracking gains on Wall Street as strong results from technology companies further boosted sentiment toward the artificial intelligence sector. Broadcom announced $63 billion in financing tied to Anthropic’s use of its technology, while Oracle expanded its partnership with OpenAI and Meta’s $25 billion share offering was oversubscribed fivefold. Meanwhile, South Korean chipmaker SK Hynix reported a substantial increase in revenue and operating profit, supported by strong AI-related demand. Investors also focused on major central bank policy decisions due this week, with the Fed, ECB, and BOJ widely expected to leave interest rates unchanged as markets weigh the possibility of rate hikes in December. Technology and AI-related shares led the gains, with strong gains from Kioxia (13.8%), Advantest (3.2%), Taiyo Yuden (7.1%), SoftBank Group (4.7%) and Ibiden Co (7.9%)."
+    },
+    {
+      "id": "5175071",
+      "time": "2026-10-28 15:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合利華：聯合利華食品業務與味好美合併事宜正在按計劃推進."
+    },
+    {
+      "id": "5175070",
+      "time": "2026-10-28 15:00:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行預測2026年GDP增長率為2.4%。"
+    },
+    {
+      "id": "mkt:01a1814f-6541-7ee0-a9ae-80faf5c3c66f",
+      "time": "2026-10-28 15:00:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "BOT policy committee unanimously voted to keep the policy rate unchanged."
+    },
+    {
+      "id": "mkt:01a1814f-388f-7ee0-a9ae-7c338b1b3cac",
+      "time": "2026-10-28 15:00:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOT kept its policy rate unchanged at 1%, in line with market expectations."
+    },
+    {
+      "id": "5175069",
+      "time": "2026-10-28 15:00:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行維持基準利率在1.00%不變；預計利率為1.00%。"
+    },
+    {
+      "id": "mkt:01a1814f-23cd-7ee0-a9ae-7697eb1dcecb",
+      "time": "2026-10-28 15:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Thailand policy rate decision (Oct 28): 1.00%; expected 1.00%; prior 1.00%."
+    },
+    {
+      "id": "mkt:01a1814f-197d-7ee0-a9ae-6c527290085a",
+      "time": "2026-10-28 15:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Germany November GfK consumer confidence -30.8, consensus -30.9, prior -30.6."
+    },
+    {
+      "id": "5175068",
+      "time": "2026-10-28 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】乙二醇連續漲5.62%，碳酸鋰連續跌4.64%，燒鹼連續跌3.40%，丁二烯橡膠連續漲3.32%，PVC連續漲3.29%，瀝青連續漲3.29%，聚丙烯連續漲2.77%，焦煤連續漲2.70%，低硫燃料油連續漲2.54%。"
+    },
+    {
+      "id": "5175067",
+      "time": "2026-10-28 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲1.53%， 滬深300指數期貨連續漲0.23%， 中證500指數期貨連續漲1.37%， 上證50指數期貨連續跌0.25%。"
+    },
+    {
+      "id": "mkt:01a1814f-03eb-7ee0-a9ae-61c71cd3ff67",
+      "time": "2026-10-28 15:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Thailand | Benchmark Rate (Oct.28) | actual 1% | consensus 1.00% | previous 1.00%"
+    },
+    {
+      "id": "mkt:01a1814e-ffb4-7ee0-a9ae-5e4841e90af6",
+      "time": "2026-10-28 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Gfk Consumer Confidence Survey (Nov) | actual -30.8 | consensus -30.9 | previous -30.6"
+    },
+    {
+      "id": "5175066",
+      "time": "2026-10-28 14:59:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG化學將回購價值3000億韓元的股票。"
+    },
+    {
+      "id": "5175065",
+      "time": "2026-10-28 14:59:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【達索系統上調業績預期，軟體需求持續增長】達索系統SE上調利潤預期，其旗艦軟體平臺與雲業務需求旺盛，推動第三季度營收走高。這家法國軟體企業在週三的公告中將全年營業利潤率指引上調至32.5%至32.7%區間，同時上調2026年每股收益增長區間，並收窄營收指引範圍。第三季度，達索核心軟體平臺3DEXPERIENCE營收增長25%。在亞洲尤其是中國市場亮眼表現的帶動下，公司第三季度固定匯率口徑總營收增長5%，好於市場預期。達索同時宣佈，已完成對藥企及生物技術企業軟體服務商ArisGlobal的收購。"
+    },
+    {
+      "id": "mkt:01a1814e-336b-7ee0-a9ae-52ec28e4bc48",
+      "time": "2026-10-28 14:59:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan: Gold faces downside risk as liquidity stays thin and rates can still rise】Yuxuan Tang, head of rates and FX strategy for JP Morgan Private Bank Asia, says gold remains vulnerable after the recent selloff because liquidity is thin and interest rates have further upside. She expects the Fed to deliver hikes in December and again in Q1 2027, driving the 10-year U.S. Treasury yield to a mid‑year peak around 5.25–5.50%, above the current just‑above‑5% level. Stronger yields weaken demand for zero‑yield gold; technical support is scant below $4,000/oz. Tang adds that once the Fed ends tightening, gold could stage a strong rebound late next year given its hedge appeal during economic and geopolitical stress, but with markets now pricing a higher, later yield peak the timing of a durable bottom is uncertain."
+    },
+    {
+      "id": "5175064",
+      "time": "2026-10-28 14:58:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【施耐德電氣全球最大中壓電氣裝置生產基地投產】10月28日，施耐德電氣廈門翔安工業園一期竣工投產，同時，廈門火炬電力電氣產業園二期專案開工。據悉，此次投產的園區，是施耐德電氣全球最大的中壓電氣裝置生產基地，總建築面積約11萬平方米，集研發技術中心、智慧製造與服務培訓中心於一體。"
+    },
     {
       "id": "5175063",
       "time": "2026-10-28 14:57:53",
