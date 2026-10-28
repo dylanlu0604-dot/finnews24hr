@@ -1,7 +1,192 @@
 {
   "date": "2026-10-28",
-  "count": 813,
+  "count": 833,
   "items": [
+    {
+      "id": "5174331",
+      "time": "2026-10-28 09:27:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼北蘇拉威西省附近海域發生5.4級地震】據印尼氣象、氣候和地球物理局訊息，當地時間10月28日8時11分，印尼北蘇拉威西省卡拉通島西北221公里處海域發生5.4級地震，震源深度為10公里。本次地震暫無海嘯風險。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1801e-7468-7ee0-a9a7-f1e02121345f",
+      "time": "2026-10-28 09:27:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "At the open on Oct 28, China's Shanghai Composite Index rose 28.62 pts (+0.78%) to 3,676.92; Shenzhen Composite Index rose 113.35 pts (+1.01%) to 11,359.08; CSI 300 Index rose 35.06 pts (+0.87%) to 4,084.62; ChiNext Index rose 45.01 pts (+1.77%) to 2,593.15; STAR 50 Index rose 27.62 pts (+2.21%) to 1,279.90."
+    },
+    {
+      "id": "mkt:01a1801e-6639-7ee0-a9a7-e9e9a076d0da",
+      "time": "2026-10-28 09:27:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said the right-wing bloc holds a decisive majority among the Jewish public."
+    },
+    {
+      "id": "5174329",
+      "time": "2026-10-28 09:26:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【腦虎科技完成7億元B輪融資】10月28日，腦虎科技宣佈完成7億元人民幣B輪融資。本輪融資由國投聚力、深創投、勤智資本聯合領投，中芯聚源、黃浦投資、基石資本、IDG資本、曦晨資本、鈞犀資本、華福證券、華賽智匯、眾為資本、江西金控等機構跟投，盛大、中平資本等機構支援。據悉，本輪融資資金將用於“全植入、全無線、全功能”（“三全”）腦機介面系統的多中心臨床試驗及註冊審批、超級工廠量產建設，以及下一代產品研發與BCI+AI融合探索。"
+    },
+    {
+      "id": "5174326",
+      "time": "2026-10-28 09:26:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲2%，現報851.00元。"
+    },
+    {
+      "id": "5174325",
+      "time": "2026-10-28 09:26:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士股價漲幅擴大至8.2%，三星股價大漲8.6%。"
+    },
+    {
+      "id": "mkt:01a1801d-baed-7ee0-a9a7-e38374421220",
+      "time": "2026-10-28 09:26:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "A-share PCB concept stocks active at the open: Jinanguoji hit limit-up; Nanya Xincai, Baoding Keji, Shengyi Keji and Yihao Xincai opened higher."
+    },
+    {
+      "id": "mkt:01a1801d-8886-7ee0-a9a7-dd142da315f7",
+      "time": "2026-10-28 09:26:21",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said inflation is too high."
+    },
+    {
+      "id": "5174324",
+      "time": "2026-10-28 09:26:19",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲主席布洛克：通脹率過高。"
+    },
+    {
+      "id": "5174323",
+      "time": "2026-10-28 09:26:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念開盤活躍 金安國紀漲停】PCB概念開盤活躍，金安國紀漲停，南亞新材、寶鼎科技、生益科技、逸豪新材高開。"
+    },
+    {
+      "id": "5174322",
+      "time": "2026-10-28 09:25:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Cognizant 據悉正在考慮以 40 億美元的估值投資印度人工智慧初創公司 Sarvam。"
+    },
+    {
+      "id": "mkt:01a1801c-d700-7ee0-a9a7-d13726b9a7cd",
+      "time": "2026-10-28 09:25:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CCPIT vice‑chair Lin Honghong meets UK–China Trade Association president Peter Bai】Oct. 27, Beijing — China Council for the Promotion of International Trade (CCPIT) vice‑chair Lin Honghong met with Peter Bai, president of the UK–China Trade Association, and discussed pragmatic cooperation to support China‑UK business ties and promote stable, smooth industrial and supply chains."
+    },
+    {
+      "id": "5174321",
+      "time": "2026-10-28 09:25:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤齊漲，上證指數漲0.78%，深證成指漲1.01%，創業板指漲1.77%。"
+    },
+    {
+      "id": "mkt:01a1801c-bff6-7ee0-a9a7-cccb3fc207f4",
+      "time": "2026-10-28 09:25:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said on Iran that this is just the beginning."
+    },
+    {
+      "id": "mkt:01a1801c-9c64-7ee0-a9a7-c291392c9f26",
+      "time": "2026-10-28 09:25:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Commodities",
+        "Precious Metals",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-shares opened higher: Shanghai Composite +0.78%, Shenzhen Composite Index +1.01%, ChiNext +1.77%. Photolithography equipment, memory chip and gold-related stocks led gains."
+    },
+    {
+      "id": "5174320",
+      "time": "2026-10-28 09:25:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【哈薩克交通部與千方集團就自動駕駛簽署合作備忘錄】近日，哈薩克交通部與千方集團就在中哈國際運輸走廊推進自動駕駛試點專案簽署合作備忘錄。根據備忘錄，雙方將圍繞自動駕駛和交通行業數字技術開展長期合作，構建支撐自動駕駛貨運的數字基礎設施。雙方將探索在中哈國際運輸走廊指定路段測試自動駕駛貨運車輛，部署運輸管理數字平臺，推動自動駕駛解決方案在哈薩克落地應用。"
+    },
+    {
+      "id": "mkt:01a1801c-1d82-7ee0-a9a7-bbb02264e1d9",
+      "time": "2026-10-28 09:24:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Prime Minister NETANYAHU said Israel faces a historic opportunity to eliminate the Iranian threat."
+    },
+    {
+      "id": "5174319",
+      "time": "2026-10-28 09:24:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1038.94美元/盎司。"
+    },
+    {
+      "id": "5174318",
+      "time": "2026-10-28 09:24:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：以色列正面臨消除伊朗威脅的歷史性機遇。"
+    },
     {
       "id": "5174317",
       "time": "2026-10-28 09:23:33",
@@ -9,6 +194,15 @@
         "其他"
       ],
       "text": "【中國貿促會副會長林紅紅會見英中貿易協會總裁白彼得】10月27日，中國貿促會副會長林紅紅在京會見英中貿易協會總裁白彼得一行，就共同服務中英工商界開展務實合作、攜手推進中英產業鏈供應鏈穩定暢通等展開交流。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202610283911126853",
+      "time": "2026-10-28 09:23:20",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行今日開展1510億元7天期逆回購操作】央行今日開展1510億元7天期逆回購操作，操作利率為1.40%。同時，開展了10000億元隔夜逆回購操作。"
     },
     {
       "id": "5174316",
