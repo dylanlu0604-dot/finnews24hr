@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-29 06:58:33",
-  "count": 13054,
+  "updated": "2026-10-29 07:02:50",
+  "count": 13052,
   "items": [
+    {
+      "id": "5177361",
+      "time": "2026-10-29 07:00:31",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "香港金管局將基準利率維持在4.25%不變。"
+    },
+    {
+      "id": "5177360",
+      "time": "2026-10-29 06:58:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兩傢俬募同日自購傳遞長期信心】基於對資本市場長期發展的堅定信心，10月27日，上海誠奇私募基金管理有限公司與深圳翰榮私募證券基金管理有限公司同日釋出自購公告。其中，誠奇基金計劃於近期使用自有資金人民幣1億元，跟投旗下各類私募證券基金產品。據私募排排網資料統計，截至10月27日，10月以來已有至少8傢俬募機構宣佈自購旗下產品，合計公告自購金額2.20億元。從整體情況看，截至10月27日，年內至少有35傢俬募機構宣佈自購旗下產品，合計公告自購金額超18億元。（證券日報）"
+    },
     {
       "id": "5177359",
       "time": "2026-10-29 06:54:22",
@@ -117659,43 +117677,6 @@
         "其他"
       ],
       "text": "【中國體操女團世錦賽奪冠 鎖定洛杉磯奧運會團體參賽席位】北京時間10月22日，2026年體操世錦賽在荷蘭鹿特丹結束了女子團體決賽的爭奪。由張清穎、柯沁沁、杜思雨、邱祺緣和張怡涵組成的中國隊以165.764分的成績奪得冠軍，鎖定2028年洛杉磯奧運會團體參賽席位。"
-    },
-    {
-      "id": "5159462",
-      "time": "2026-10-22 07:01:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4130美元/盎司，日內跌0.27%。"
-    },
-    {
-      "id": "5159461",
-      "time": "2026-10-22 07:01:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國體操女團世錦賽奪冠 鎖定洛杉磯奧運會團體參賽席位】北京時間10月22日，2026年體操世錦賽在荷蘭鹿特丹結束了女子團體決賽的爭奪。由張清穎、柯沁沁、杜思雨、邱祺緣和張怡涵組成的中國隊以165.764分的成績奪得冠軍，鎖定2028年洛杉磯奧運會團體參賽席位。"
-    },
-    {
-      "id": "mkt:01a160b2-4b65-7ee0-a933-183076ef8933",
-      "time": "2026-10-22 07:00:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【U.S. mission in Saudi Arabia warns hostile actions could rapidly escalate and spread】On the 21st the U.S. mission in Saudi Arabia issued a security alert saying Houthi forces have continued attacks on Saudi civilian airports and other critical infrastructure, causing civilian casualties and major travel disruption; the mission warned these hostile actions could rapidly escalate and spread. U.S. citizens were advised to follow nationwide mobile alerts issued by Saudi civil defense. U.S. government personnel in Saudi must obtain special authorization from the mission chief before using any Saudi airport. The mission highlighted risks of airport strikes, airspace closures, flight cancellations and travel disruption and urged extreme caution for anyone using Saudi airports."
-    },
-    {
-      "id": "mkt:01a160b1-7605-7ee0-a933-15adfa572028",
-      "time": "2026-10-22 07:00:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. and Israel have post-midterms plan for strikes on Iran; energy, nuclear sites cited】The New York Times, citing U.S. officials and others, reports U.S. and Israeli militaries have drawn up specific plans to strike Iran after the U.S. midterm elections. Preparations include intensified exercises and warplanes flying over Iraqi airspace to rehearse strikes. U.S. Defense Secretary Hegseth met Prime Minister Netanyahu this week to discuss the plans. Potential targets cited include Iranian energy infrastructure, nuclear facilities, and missile and drone stockpiles. Some officials say a further large-scale strike could push Iran’s economy toward collapse and compel concessions in diplomatic talks after nearly eight months of conflict."
     }
   ]
 }
