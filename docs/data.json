@@ -1,7 +1,170 @@
 {
-  "updated": "2026-10-28 15:07:05",
-  "count": 13182,
+  "updated": "2026-10-28 15:11:00",
+  "count": 13199,
   "items": [
+    {
+      "id": "5175105",
+      "time": "2026-10-28 15:10:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：推進農業、製造業、建築、交通、生活領域用能電氣化替代，電能佔終端能源消費比重提升至36%】北京市人民政府印發《北京市“十五五”時期新型能源體系規劃》。其中指出，健全節能降碳管理制度。推廣能源費用託管等合同能源管理模式，實施高邊際收益節能改造。健全能源領域碳排放監測、核算制度，規範重點行業和用能單位碳排放管理，開展固定資產投資專案碳排放評價。推廣綠色低碳生產生活方式。推進農業、製造業、建築、交通、生活領域用能電氣化替代，電能佔終端能源消費比重提升至36%。推廣綠色消費和消費品以舊換新。有序開展零碳園區試點。"
+    },
+    {
+      "id": "5175104",
+      "time": "2026-10-28 15:09:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：參與高層次國際能源合作】北京市人民政府印發《北京市“十五五”時期新型能源體系規劃》。其中指出，主動服務能源外交大局,深度參與亞太經合組織、“一帶一路”、上合組織等能源合作平臺,統籌舉辦國際能源合作高峰論壇、博覽會等活動,深化行業交流、展示創新成果、拓展合作空間。積極參與國際標準制定,鼓勵龍頭企業參與優勢領域國際標準制定和國際綠色認證試點。支援企業拓展國際交流渠道,深化技術合作與產業協作,提升國際化經營水平。"
+    },
+    {
+      "id": "5175103",
+      "time": "2026-10-28 15:09:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：提升算力設施能源供給質量】北京市人民政府印發《北京市“十五五”時期新型能源體系規劃》。其中指出，統籌能源資源與算力佈局協同,提升算力設施能源供給質量,新建算力中心100%使用綠電。推進算力、通訊基站和機房等基礎設施節能降碳改造,存量資料中心電源使用效率(PUE)達到1.35以下,單位算力能效和碳效達到國際先進水平。"
+    },
+    {
+      "id": "5175102",
+      "time": "2026-10-28 15:09:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：強化能源市場機制建設】北京市人民政府印發《北京市“十五五”時期新型能源體系規劃》。其中指出，推進電力市場建設。擴大省際市場交易規模,推進京津冀電力市場建設,完善電力輔助服務市場。深化能源價格改革。推進新能源上網電價市場化改革,定期開展新增光伏、風電專案競價工作。研究天然氣發電容量電價機制,穩步推進供熱價格改革。落實天然氣上下游價格聯動機制,按機制調整終端氣價。推動綠電與碳市場聯動。加強綠色低碳引導約束,健全“強制+自願”的綠電消費核算及綠證交易體系。鼓勵重點排放單位透過使用綠電完成降碳任務。激發民營企業積極性。鼓勵和支援民營企業參與能源基礎設施建設、科技創新與標準制定,加快數字化改造和智慧化升級,激發市場主體活力。"
+    },
+    {
+      "id": "5175101",
+      "time": "2026-10-28 15:09:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Anthropic新股認購名額稀缺，亞洲投資者轉向間接標的押注】這家AI企業Anthropic即將啟動股權發行，估值或達約1.5萬億美元，但亞洲投資者大機率難以直接參與認購。投資者開始佈局持有Anthropic股份的企業、掛鉤其估值的期貨產品，以及有望受益於本次IPO募資帶來AI資本開支的晶片廠商與硬體供應商。可作為Anthropic間接投資標的的公司包括臺積電、SK海力士、三星電子、SK電訊以及澳大利亞聯邦銀行，這些企業透過投資或合作與Anthropic建立關聯。"
+    },
+    {
+      "id": "mkt:01a18157-8386-7ee0-a9af-1a7f2183973a",
+      "time": "2026-10-28 15:09:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Fed decision imminent — has the U.S. Treasury sell-off ended?】UBS: Treasury yields may be close to a cyclical peak but remain exposed short-term to higher inflation, geopolitical risk and fiscal deficits; expects modest yield declines over the next 12 months but sees large fiscal/supply risk for long bonds. Standard Chartered: after the Oct. 22 move that took the 10-year to 4.97%, safe-haven flows from Middle East tensions and AI-related equity selling supported Treasuries, yet elevated inflation, rising oil and the prospect of further Fed hikes leave any rebound fragile. Goldman: long-end yields face upward pressure from higher energy prices, large government bond supply and weak institutional demand; energy pass-through could sustain reluctance to lock into long-term rates and keep term premium high. BlackRock: raised short-dated Treasuries to overweight and moved long-dated to neutral — current yields make short-dated paper more attractive and market pricing may overstate near-term Fed hikes, but fiscal and inflation uncertainty argue for caution on the long end. DBS: yield curve still under pressure to steepen; front-end already reflects multiple Fed hikes while 10s–30s are driven by term premium, supply and long-term inflation risk, so a Fed pause may not pull long yields down. State Street: in September 2y and 10y yields rose ~57bps and ~49bps respectively; investment-grade spreads largely stable while high-yield spreads widened, signalling differentiated credit-market impact. PIMCO: rising Treasury yields have already tightened financial conditions and partly offset equity/AI stimulus; a 25bp Fed hike in December remains possible, but higher long rates provide officials reason to slow the pace of tightening and observe economic reaction."
+    },
+    {
+      "id": "te:economy:595680",
+      "time": "2026-10-28 15:09:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Bank of Thailand Holds Rate for 4th Straight Meeting — The Bank of Thailand kept its benchmark interest rate unchanged at 1.00% for a fourth consecutive meeting in October 2026, as widely expected, marking its longest stretch without a rate change in two years. The decision was unanimous, with one committee member absent, as policymakers maintained an accommodative stance to support the recovery. The Thai economy is projected to grow by 2.4% in 2026 and 2.1% in 2027, supported by stronger-than-expected exports and investment linked to the technology and AI cycle. However, growth remains below potential, while high household debt and fragile purchasing power continue to weigh on private consumption. Headline inflation is forecast to average 2.1% in 2026 and 1.3% in 2027, rising temporarily through early 2027 due to higher energy prices and El Niño before easing as domestic demand remains weak. The central bank warned that Middle East uncertainty and cost pass-through could push inflation above its projections."
+    },
+    {
+      "id": "5175100",
+      "time": "2026-10-28 15:08:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅賽德斯-賓士執行長：正在與勞工方就遣散計劃進行討論。"
+    },
+    {
+      "id": "mkt:01a18156-7e36-7ee0-a9af-129558a2d888",
+      "time": "2026-10-28 15:08:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【German consumer confidence dips as energy-driven inflation squeezes households】German consumer confidence slipped in November as energy cost rises tied to the Iran war continued to pressure household finances, Nuremberg-based Institute for Market Decisions (NIM) and GfK said on Wednesday. GfK’s November consumer confidence index fell to -30.8 from -30.6 in October. NIM consumer sentiment head Rolf Buerkl said rising inflation concerns and a weak income outlook are keeping consumers doubtful about their personal finances and curbing willingness to make big-ticket purchases, even as optimism about the broader economy has increased."
+    },
+    {
+      "id": "mkt:01a18156-61a7-7ee0-a9af-0a6950b5c1b5",
+      "time": "2026-10-28 15:08:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Analyst: UK gas fixed-charge reform produces winners and losers】Ahead of the budget, the UK chancellor announced removal of the standing charge on millions of gas households. Analyst Faisal Islam said the plan scraps the fixed element that currently averages £108/yr on annual bills; energy firms say the standing charge is the most-complained-about feature and its removal should strengthen energy-efficiency incentives and support a shift to electrification. The Treasury estimates 60% of households will save about £45/yr on average, with low-usage households benefiting most and high-usage households (eg, larger homes) facing higher bills because the recovered cost will be added to the per-unit gas price."
+    },
+    {
+      "id": "mkt:01a18156-4c70-7ee0-a9af-0556dac852b5",
+      "time": "2026-10-28 15:07:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "BOT: Inflation is expected to rise by early next year; medium‑term inflation expectations remain within the target."
+    },
+    {
+      "id": "5175099",
+      "time": "2026-10-28 15:07:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為暢享100系列正式釋出】華為暢享100系列正式釋出，新機搭載鴻蒙7.0作業系統，配備麒麟8系晶片、華為巨鯨大電池和鴻蒙星盾防詐功能，提供華為暢享100、華為暢享100 Pro、華為暢享100 Pro Max機型，售價1399元起。"
+    },
+    {
+      "id": "5175098",
+      "time": "2026-10-28 15:07:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：到2030年 基本建成堅強韌性、清潔低碳、智慧高效的新型能源體系】北京市人民政府印發《北京市“十五五”時期新型能源體系規劃》。其中指出，到2030年,基本建成堅強韌性、清潔低碳、智慧高效的新型能源體系。安全韌性水平顯著提升,能源多元供給保障裕度充足,老舊設施和管線隱患基本消除,安全防控與極端情況風險抵禦能力全面增強。綠色低碳轉型持續深化,非化石能源成為能源消費增量主體,新增用電量需求主要由綠電保障,終端用能電氣化水平持續提升。新型電力系統基本建成,新型供熱系統加快建設,建築、交通、工業等重點領域節能降碳水平顯著提升,綠色低碳生活方式深入人心。新型能源基礎設施能力不斷增強,源儲調節能力最佳化升級,“人工智慧+能源”融合應用縱深推進,先進能源產業加速培育壯大。到2035年,全面建成堅強韌性、清潔低碳、智慧高效的新型能源體系,能源安全韌性進一步增強,非化石能源消費比重持續提高,綠色低碳關鍵核心技術研發領跑全國,先進能源產業發展邁上新臺階,能源體制機制更加完善,為北京率先基本實現社會主義現代化注入強勁綠色動能。"
+    },
+    {
+      "id": "5175097",
+      "time": "2026-10-28 15:07:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上海國際能源交易中心：同意中國石化集團石油商業儲備有限公司增加原油期貨啟用庫容】上期能源：同意中國石化集團石油商業儲備有限公司增加位於廣東省湛江市臨港工業園區興港大道南側的原油期貨交割倉庫啟用庫容的申請，啟用庫容由60萬立方米增加至80萬立方米。 同意中國石化集團石油商業儲備有限公司增加位於海南省洋浦經濟開發區濱海大道83號的原油期貨交割倉庫啟用庫容的申請，啟用庫容由60萬立方米增加至80萬立方米。 自公告之日起，中國石化集團石油商業儲備有限公司應按增加後的啟用庫容開展期貨交割倉庫各項業務，嚴格執行有關規定，加強管理，確保交割倉庫業務正常有序進行。"
+    },
+    {
+      "id": "5175096",
+      "time": "2026-10-28 15:06:56",
+      "tags": [
+        "行業",
+        "公司",
+        "其他"
+      ],
+      "text": "【部分品牌羽毛球降幅達30%】今年以來，多款主流羽毛球價格明顯回落，大眾款天然羽毛球售價相比去年普遍回落兩成。記者瞭解到，某品牌羽毛球三隻裝產品在今年5月份的時候價格在19元左右，而目前的價格則在13元左右，降幅約30%。 (介面新聞)"
+    },
+    {
+      "id": "5175095",
+      "time": "2026-10-28 15:06:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報101.90美元/桶。"
+    },
+    {
+      "id": "5175094",
+      "time": "2026-10-28 15:06:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報101.90美元/桶。"
+    },
     {
       "id": "5175093",
       "time": "2026-10-28 15:06:26",
