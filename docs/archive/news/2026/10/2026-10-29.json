@@ -1,7 +1,43 @@
 {
   "date": "2026-10-29",
-  "count": 764,
+  "count": 768,
   "items": [
+    {
+      "id": "5177404",
+      "time": "2026-10-29 07:43:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【路威凱騰戰略投資AI購物平臺Glance】10月29日，據路威凱騰訊息，這家全球消費品私募股權機構已對Glance進行戰略投資。Glance是由InMobi支援的AI個性化購物平臺。目前，透過與三星及DIRECTV的合作，Glance已覆蓋美國數百萬臺終端裝置。本次交易財務條款未予披露。"
+    },
+    {
+      "id": "5177403",
+      "time": "2026-10-29 07:43:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【算力租賃板塊三季報冷暖不一 頭部企業競逐一體化算力服務】隨著AI（人工智慧）產業化縱深推進，算力需求持續高位執行。萬得資料顯示，截至10月28日，算力租賃板塊53家上市公司中，已有25家披露2026年三季報，其中，4家企業前三季度同比減虧，2家同比扭虧，7家歸母淨利潤實現同比增長。蘇商銀行特約研究員武澤偉表示，算力租賃行業上市公司業績出現顯著分化的原因，一部分是企業營收高速增長，卻受一次性收益擾動、資產折舊攤銷拖累，利潤短期承壓；另一部分是企業憑藉優質長單落地與商業模式迭代，前三季度業績表現不俗。在業績持續分化的背景下，單純依靠鎖定長單、壓縮運營成本，僅能緩解盈利壓力，難以突破硬體租賃業務的利潤天花板。為此，已有頭部企業開始跳出單一算力出租模式，向一體化算力服務商轉型，依託軟體平臺、全鏈路服務提升自身競爭優勢。（證券日報）"
+    },
+    {
+      "id": "5177402",
+      "time": "2026-10-29 07:42:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國衛生部暫緩未經批准多肽銷售禁令，FDA內部現分歧】美國衛生與公眾服務部部長小羅伯特·F·肯尼迪於週三釋出新政策，宣佈暫時允許六種未經官方批准的多肽在市場上銷售。儘管政府內部科學家此前一再發出警告，指出目前尚無足夠證據證實這些多肽的安全性和有效性，但該政策仍執意推行。根據該項最新政策，衛生部將不再阻止配藥藥房供應這幾款已被廣泛使用的多肽。由於美國食品藥品管理局（FDA）目前正在評估是否正式允許配製這些成分，整個審批流程預計將耗時數月甚至更久。外界分析認為，肯尼迪此舉可能會在未來削弱 FDA 限制此類多肽的監管權力。另據兩名知情人士透露，針對肯尼迪本次解除多肽限制的決定，FDA 內部有大量工作人員明確表示不支援。"
+    },
+    {
+      "id": "te:markets:595995",
+      "time": "2026-10-29 07:41:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Retreats on Diplomacy Hopes — Brent prices slipped to around $114 per barrel on Thursday, moving away from four-year highs as investors assessed renewed diplomatic efforts to prevent further escalation of the Middle East conflict. Reports suggested that US Vice President JD Vance had contacted Iranian national security official Mohsen Rezaei, while President Donald Trump confirmed that negotiations were underway through mediators but acknowledged uncertainty over their outcome. Iranian Foreign Minister Abbas Araghchi also reiterated that Tehran remained open to diplomatic solutions. Despite the pullback, Brent crude has gained more than 17% this month, supported by intensifying clashes involving Saudi Arabia and Iran-backed Houthi forces, alongside continued threats to shipping through the Strait of Hormuz. However, energy flows from the region have since recovered to levels close to those recorded before the war."
+    },
     {
       "id": "5177401",
       "time": "2026-10-29 07:40:11",

@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-29 07:41:11",
-  "count": 13043,
+  "updated": "2026-10-29 07:45:00",
+  "count": 13041,
   "items": [
+    {
+      "id": "5177404",
+      "time": "2026-10-29 07:43:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【路威凱騰戰略投資AI購物平臺Glance】10月29日，據路威凱騰訊息，這家全球消費品私募股權機構已對Glance進行戰略投資。Glance是由InMobi支援的AI個性化購物平臺。目前，透過與三星及DIRECTV的合作，Glance已覆蓋美國數百萬臺終端裝置。本次交易財務條款未予披露。"
+    },
+    {
+      "id": "5177403",
+      "time": "2026-10-29 07:43:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【算力租賃板塊三季報冷暖不一 頭部企業競逐一體化算力服務】隨著AI（人工智慧）產業化縱深推進，算力需求持續高位執行。萬得資料顯示，截至10月28日，算力租賃板塊53家上市公司中，已有25家披露2026年三季報，其中，4家企業前三季度同比減虧，2家同比扭虧，7家歸母淨利潤實現同比增長。蘇商銀行特約研究員武澤偉表示，算力租賃行業上市公司業績出現顯著分化的原因，一部分是企業營收高速增長，卻受一次性收益擾動、資產折舊攤銷拖累，利潤短期承壓；另一部分是企業憑藉優質長單落地與商業模式迭代，前三季度業績表現不俗。在業績持續分化的背景下，單純依靠鎖定長單、壓縮運營成本，僅能緩解盈利壓力，難以突破硬體租賃業務的利潤天花板。為此，已有頭部企業開始跳出單一算力出租模式，向一體化算力服務商轉型，依託軟體平臺、全鏈路服務提升自身競爭優勢。（證券日報）"
+    },
+    {
+      "id": "5177402",
+      "time": "2026-10-29 07:42:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國衛生部暫緩未經批准多肽銷售禁令，FDA內部現分歧】美國衛生與公眾服務部部長小羅伯特·F·肯尼迪於週三釋出新政策，宣佈暫時允許六種未經官方批准的多肽在市場上銷售。儘管政府內部科學家此前一再發出警告，指出目前尚無足夠證據證實這些多肽的安全性和有效性，但該政策仍執意推行。根據該項最新政策，衛生部將不再阻止配藥藥房供應這幾款已被廣泛使用的多肽。由於美國食品藥品管理局（FDA）目前正在評估是否正式允許配製這些成分，整個審批流程預計將耗時數月甚至更久。外界分析認為，肯尼迪此舉可能會在未來削弱 FDA 限制此類多肽的監管權力。另據兩名知情人士透露，針對肯尼迪本次解除多肽限制的決定，FDA 內部有大量工作人員明確表示不支援。"
+    },
+    {
+      "id": "te:markets:595995",
+      "time": "2026-10-29 07:41:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Retreats on Diplomacy Hopes — Brent prices slipped to around $114 per barrel on Thursday, moving away from four-year highs as investors assessed renewed diplomatic efforts to prevent further escalation of the Middle East conflict. Reports suggested that US Vice President JD Vance had contacted Iranian national security official Mohsen Rezaei, while President Donald Trump confirmed that negotiations were underway through mediators but acknowledged uncertainty over their outcome. Iranian Foreign Minister Abbas Araghchi also reiterated that Tehran remained open to diplomatic solutions. Despite the pullback, Brent crude has gained more than 17% this month, supported by intensifying clashes involving Saudi Arabia and Iran-backed Houthi forces, alongside continued threats to shipping through the Strait of Hormuz. However, energy flows from the region have since recovered to levels close to those recorded before the war."
+    },
     {
       "id": "5177401",
       "time": "2026-10-29 07:40:11",
@@ -117543,55 +117579,6 @@
         "國際"
       ],
       "text": "【三菱UFJ銀行因系統維護暫停部分線上服務】三菱日聯金融集團（MUFG）旗下核心銀行機構三菱UFJ銀行宣佈，因進行計劃外系統維護，暫停部分線上服務。此次暫停的服務包括：透過該行網站開設投資信託、NISA（日本免稅投資賬戶）以及iDeCo（個人型確定繳費養老金）賬戶，以及登入房貸賬戶等。媒體就此聯絡該行時，其發言人以網路安全為由，拒絕透露此次服務中斷是否與程式語言PHP的漏洞有關。"
-    },
-    {
-      "id": "5159517",
-      "time": "2026-10-22 07:44:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【馬斯克：特斯拉計劃於明年5月或6月生產首款測試晶片】當地時間10月21日，據報道，馬斯克透露了公司晶片製造計劃的一些細節。他表示，Terafab在裝置方面的成本將達到“數百億美元”，長期總成本將“超過1000億美元”，由特斯拉和SpaceX共同分擔。馬斯克還表示，特斯拉計劃於明年5月或6月生產出首款測試晶片。"
-    },
-    {
-      "id": "5159516",
-      "time": "2026-10-22 07:43:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：關於資料中心問題，特朗普呼籲選民“要求補償（要錢）”。"
-    },
-    {
-      "id": "5159515",
-      "time": "2026-10-22 07:42:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普總統在南卡羅來納州發表講話。"
-    },
-    {
-      "id": "mkt:01a160d8-0812-7ee0-a933-4db83f935342",
-      "time": "2026-10-22 07:42:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese ambassador to Ukraine meets Ukrainian foreign minister】Oct 21, 2026 — Chinese Ambassador to Ukraine Ma Shengkun met with Ukraine’s foreign minister; both exchanged views on bilateral relations and practical cooperation."
-    },
-    {
-      "id": "5159514",
-      "time": "2026-10-22 07:42:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美使團：針對沙特的敵對行動或迅速升級】美國駐沙烏地阿拉伯使團21日釋出安全提醒說，葉門胡塞武裝對沙特持續展開敵對行動，襲擊民用機場及其他關鍵基礎設施，造成平民傷亡、嚴重干擾出行，“這些敵對行動可能迅速升級並蔓延”。使團說，美國公民應遵循沙特民防部門透過手機發布的全國性警報。鑑於沙特境內機場近期頻頻遭襲，在沙特的美國政府工作人員如需使用沙特境內任何機場，須獲得使團團長特別授權。使團提醒美國公民警惕機場遭襲、領空關閉、航班取消和出行受阻等潛在風險。“如果選擇使用沙特境內機場，請務必格外謹慎。”"
-    },
-    {
-      "id": "em:qqyh_zgyh:202610223903056061",
-      "time": "2026-10-22 07:42:00",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【銀行業要積極適配貸款利率定價基準改革】日前，中國人民銀行行長潘功勝在2026金融街論壇年會上發表主題演講時表示，推動貸款利率定價基準改革，從比較單一地參考貸款市場報價利率（LPR）定價向更加多元的定價基準轉型。未來隨著多元化貸款利率定價基準不斷完善，一些財務能力強的企業，可與金融機構協商後自主選擇銀行間隔夜回購利率或貸款市場報價利率作為浮動利率貸款定價基準。"
     }
   ]
 }
