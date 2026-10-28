@@ -1,7 +1,1919 @@
 {
   "date": "2026-10-28",
-  "count": 412,
+  "count": 623,
   "items": [
+    {
+      "id": "mkt:01a17fe9-f326-7ee0-a9a5-30d4b18ef18a",
+      "time": "2026-10-28 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | CPI MoM, not seasonally adjusted (Sep) | actual 0.8% | consensus 0.7% | previous 0.4%"
+    },
+    {
+      "id": "mkt:01a17fe9-f322-7ee0-a9a5-2e46dc5bf005",
+      "time": "2026-10-28 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | CPI YoY, not seasonally adjusted (Sep) | actual 4.3% | consensus 4.1% | previous 4.00%"
+    },
+    {
+      "id": "mkt:01a17fe9-f2f5-7ee0-a9a5-2526b8bb0030",
+      "time": "2026-10-28 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | CPI (QoQ) (Q3) | actual 1.3% | consensus 1.2% | previous 0.60%"
+    },
+    {
+      "id": "5174036",
+      "time": "2026-10-28 08:29:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今年前三季度中國對德國進出口1.2萬億元】據海關統計，今年前三季度，中國對德國進出口總值1.2萬億元，同比增長6.2%。9月單月進出口1461.7億元，同比增長11.3%。電工器材、電子元件、醫藥品等是主要進出口產品。2025年中國和德國貨物進出口1.51萬億元，德國繼續保持中國在歐盟最大貿易伙伴國地位。兩國產業深度融合，經貿領域合作互惠互利，為雙方企業和人民帶來實實在在利益。"
+    },
+    {
+      "id": "mkt:01a17fe9-db4c-7ee0-a9a5-1ac6bf9e5a27",
+      "time": "2026-10-28 08:29:54",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) said it expects AI investment momentum to continue."
+    },
+    {
+      "id": "5174032",
+      "time": "2026-10-28 08:29:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：預計人工智慧投資勢頭將持續。"
+    },
+    {
+      "id": "5174027",
+      "time": "2026-10-28 08:28:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：終止甲烷排放法規。"
+    },
+    {
+      "id": "te:markets:595557",
+      "time": "2026-10-28 08:28:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Netherlands",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "ASM International NV earnings above expectations at 5.92 EUR — ASM International NV (ASM) released earnings per share at 5.92 EUR, compared to market expectations of 5.52 EUR."
+    },
+    {
+      "id": "te:markets:595556",
+      "time": "2026-10-28 08:28:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Jiangsu Hengrui earnings above expectations at 0.37 CNY — Jiangsu Hengrui (600276) released earnings per share at 0.37 CNY, compared to market expectations of 0.36 CNY."
+    },
+    {
+      "id": "5174024",
+      "time": "2026-10-28 08:28:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Meta 250億美元股票發行獲約5倍超額認購，計劃為AI投資籌資980億美元】10月28日，據報道，Meta發行的250億美元普通股獲得約5倍超額認購。此次發行定價為每股625美元，較發行訊息公佈前的上週五收盤價折讓2.7%。發行股份中，逾半數分配給長期投資者及現有股東，認購規模最大的15名投資者合計獲配約70%的股份。Meta還計劃發行125億美元強制可轉換優先股，並預計透過市場增發計劃融資，整體股權融資規模有望達到980億美元，用於AI基礎設施建設及個人超級智慧研發。"
+    },
+    {
+      "id": "5174023",
+      "time": "2026-10-28 08:28:16",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗和Jefferies下調泡泡瑪特目標價 公司三季度業績不及預期】花旗稱泡泡瑪特三季度收入下滑45%-50%不及該行預期，主要因中國和亞洲的銷售低於預期。考慮到營收減弱和利潤率壓力，該行下調對該公司的盈利預測並將目標價調低至162港元。Jefferies也將泡泡瑪特目標價下調9.6%至132港元。花旗分析師Lydia Ling等在報告中指出，泡泡瑪特美國和歐洲的銷售額大致符合預期。在三季度受去年同期高基數影響後，預計公司四季度業績將環比改善。預計公司今年收入將同比下滑16%。Jefferies分析師JingJue Pei等在報告中指出，由於海外業務經營去槓桿，將公司2027-2028年的盈利預測下調9%-12%。儘管公司三季度業績疲軟，但當前風險回報已趨於均衡。泡泡瑪特今年來下跌近30%，最新收盤價為132港元。"
+    },
+    {
+      "id": "5174017",
+      "time": "2026-10-28 08:27:27",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：下調泡泡瑪特目標價至162港元。"
+    },
+    {
+      "id": "mkt:01a17fe7-1f02-7ee0-a9a5-13c3e9db5085",
+      "time": "2026-10-28 08:26:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "As exit polls in the Israeli election signalled a stalemate, USD/ILS rose 0.28% to 3.06 shekels per dollar."
+    },
+    {
+      "id": "5174015",
+      "time": "2026-10-28 08:26:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "Jefferies：將泡泡瑪特目標價下調9.6%至132港元。"
+    },
+    {
+      "id": "5174013",
+      "time": "2026-10-28 08:25:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：本輪厄爾尼諾仍在增強，關注供需兌現與行業分化】華泰證券研報指出，本輪厄爾尼諾仍在增強，產業影響或延續至2027年，投資機會取決於供需變化能否轉化為企業利潤。按ONI口徑，2026年7—9月指數已達+2.2℃，本輪觀測強度已處歷史高位；同期RONI為+1.7℃，CPC於10月預測10~12月RONI中位數將升至+2.74℃，年末附近仍是主要峰值視窗。歷史經驗表明，氣候強度與資產漲幅缺乏穩定對應關係，核心產區受損程度、庫存緩衝及前期預期計入程度，才是判斷行情持續性的關鍵。本輪重點關注東南亞熱帶作物供給、高溫電力需求，以及2027年我國南方可能出現的異常降水及其產業影響。"
+    },
+    {
+      "id": "5174012",
+      "time": "2026-10-28 08:25:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美元/以色列謝克爾上漲0.28%，報3.06，因以色列出口民調顯示僵局。"
+    },
+    {
+      "id": "5174011",
+      "time": "2026-10-28 08:25:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國稱多家大型金融投資公司昨日遭駭客攻擊】據韓聯社報道，韓國金融監管機構稱，多家大型金融投資公司週二遭受了大規模駭客攻擊。金融監督院院長Lee Chan-jin表示，他瞭解到駭客攻擊事件廣泛發生在各大金融投資公司，並敦促各公司加強資訊安全。Lee表示，AI越來越多被用作駭客攻擊工具，使攻擊者更容易找出資安漏洞，也提高同步發動攻擊成為常態的風險。"
+    },
+    {
+      "id": "5174010",
+      "time": "2026-10-28 08:25:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本晶片相關股票大幅上漲， 鎧俠股價上漲6.6%，揖斐電漲5.5%，瑞薩電子漲4.5%。"
+    },
+    {
+      "id": "mkt:01a17fe5-3a07-7ee0-a9a5-0af84a0653ac",
+      "time": "2026-10-28 08:24:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) plans to cancel shares it repurchased last week totaling 40 trillion won."
+    },
+    {
+      "id": "mkt:01a17fe4-f4c3-7ee0-a9a5-072f5bdfcfb9",
+      "time": "2026-10-28 08:24:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RESERVE BANK OF AUSTRALIA Governor BULLOCK said only a small number of homebuyers are in negative equity."
+    },
+    {
+      "id": "mkt:01a17fe4-e7ef-7ee0-a9a4-fdb29154253f",
+      "time": "2026-10-28 08:24:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500",
+        "CSI300"
+      ],
+      "text": "【CITIC Securities: Fed policy likely driven more by politics than economics】CITIC Securities says rapid AI-led growth has lifted headline US activity but masks sectoral divergence: production and credit are overheated while employment and household demand remain soft. The firm judges Fed policy is more likely to be swayed by political forces than by fundamentals; some Fed officials may coordinate with the Treasury to compress long-term yields. Post-midterms, reduced uncertainty could be a short-term positive for risk assets, though increased political polarization could create fresh shocks. Asset scenarios: base-case “hot continuation” — US equities, gold and China A-shares outperform, bonds lag; alternative “cold diffusion” — US Treasuries, gold and A-shares lead. Gold is bullish across scenarios."
+    },
+    {
+      "id": "5174007",
+      "time": "2026-10-28 08:24:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：計劃登出上週完成回購的價值40萬億韓元的股票。"
+    },
+    {
+      "id": "5173997",
+      "time": "2026-10-28 08:23:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行行長布洛克：上次加息的全部影響尚未顯現。貨幣政策並非針對房價。"
+    },
+    {
+      "id": "mkt:01a17fe3-5bdb-7ee0-a9a4-f5e1cc83d6d7",
+      "time": "2026-10-28 08:22:48",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the economy remains capacity-constrained."
+    },
+    {
+      "id": "5173995",
+      "time": "2026-10-28 08:22:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紫光國微：智慧安全晶片出貨正在恢復 前期被延後訂單有望逐步回補】紫光國微10月27日在業績說明會上表示，智慧安全晶片部分業務受供應鏈偶發問題擾動，階段性拖累出貨，目前出貨正在恢復，前期被延後的訂單後續有望逐步回補；卡類晶片長期穩定需求未變，身份證、銀行卡、數字人民幣、電子護照等應用場景需求持續穩健。"
+    },
+    {
+      "id": "mkt:01a17fe2-2fa9-7ee0-a9a4-edf0ace40251",
+      "time": "2026-10-28 08:21:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "BULLOCK, governor of the RESERVE BANK OF AUSTRALIA, said domestic pressures are also pushing up inf."
+    },
+    {
+      "id": "em:qqyh_ozlc:202610283910909966",
+      "time": "2026-10-28 08:21:32",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "澳大利亞央行行長布洛克表示，通脹可能在一段時間內保持高位。"
+    },
+    {
+      "id": "5173993",
+      "time": "2026-10-28 08:21:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：無布是高速銅互聯升級關鍵一步 優先關注CCL/PP龍頭】中信建投研報稱，無布是高速銅互聯升級的關鍵一步，但並非將整塊PCB的玻纖布全部去除，而是依據效能與可靠性約束，在特定介質層實施少布/無布。無布應用分為算力PCB與光模組兩種場景，共同目標是降低損耗、提升訊號完整性，差異在切入位置與材料形態。無布推動產業鏈價值向CCL/PP環節集中，優先關注CCL/PP龍頭，同時重視PCB加工及上游材料增量機會。高速銅互聯向少布/無布升級，CCL/PP有望成為核心受益環節。同時，PCB加工難度提升及樹脂、球矽等上游材料需求增長有望帶來新增機會。"
+    },
+    {
+      "id": "5173992",
+      "time": "2026-10-28 08:21:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：被禁止離境的弗拉維奧·博索納羅抵達美國 】據美國《華盛頓郵報》27日報道，在巴西總統選舉中落敗的自由黨候選人弗拉維奧·博索納羅當地時間當天傍晚已入境美國，但沒有說明具體地點。巴西最高法院26日裁定禁止弗拉維奧·博索納羅離境。巴西總統盧拉稍早前批評弗拉維奧·博索納羅在總統選舉落敗後逃離巴西的行為“可恥”。"
+    },
+    {
+      "id": "mkt:01a17fe1-72c5-7ee0-a9a4-e1fd563f8545",
+      "time": "2026-10-28 08:20:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the labour market appears slightly tighter than previously assessed."
+    },
+    {
+      "id": "5173991",
+      "time": "2026-10-28 08:20:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行行長布洛克：勞動力市場似乎比我們之前判斷的要緊張一些。"
+    },
+    {
+      "id": "mkt:01a17fe1-4cbb-7ee0-a9a4-df7c4ffd353f",
+      "time": "2026-10-28 08:20:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Channel 12 updated exit poll shows the Netanyahu bloc ahead of the Eizenkot bloc, 52 vs 50 Knesset seats."
+    },
+    {
+      "id": "mkt:01a17fe1-0639-7ee0-a9a4-d42eb950e44e",
+      "time": "2026-10-28 08:20:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia governor Bullock said oil and related prices have jumped again and will materially boost inflation; short-term inflation expectations are elevated."
+    },
+    {
+      "id": "mkt:01a17fe1-05a1-7ee0-a9a4-c98723af4ad1",
+      "time": "2026-10-28 08:20:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said inflation may be higher than the RBA projected in its August baseline scenario."
+    },
+    {
+      "id": "5173989",
+      "time": "2026-10-28 08:20:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行行長布洛克：通脹上行風險正在顯現。短期通脹預期偏高。"
+    },
+    {
+      "id": "mkt:01a17fe0-d908-7ee0-a9a4-c6c068cfbf3d",
+      "time": "2026-10-28 08:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Australia's September non-seasonally adjusted CPI YoY due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a17fe0-850c-7ee0-a9a4-be9c1c4992a4",
+      "time": "2026-10-28 08:19:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBA Governor Bullock said authorities need to continue to restrain aggregate demand growth for some time to ease capacity pressures."
+    },
+    {
+      "id": "5173988",
+      "time": "2026-10-28 08:19:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年廈金“小三通”航線出入境旅客突破174萬人次】廈門邊檢總站高崎邊檢站最新資料顯示，今年廈金“小三通”航線出入境旅客突破174萬人次，其中臺胞近140萬人次，佔比約八成，兩項資料均超過去年全年，創下2023年復航以來單年度客流新高。隨著兩岸融合發展示範區相關政策陸續推出，臺胞出行需求從傳統探親拓展至商務洽談、青年研學、賽事交流、文旅體驗等多元型別。今年8月，航線單月客運量首次突破20萬人次，創下通航以來單月客流紀錄。客流結構呈現積極變化，今年入境“首來族”臺胞超7萬人，同比增長七成。近3個月入境臺胞中，近半數停留超4天，沉浸式觀光體驗成為新趨勢。（看臺海）"
+    },
+    {
+      "id": "5173981",
+      "time": "2026-10-28 08:19:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行行長布洛克：需要進一步放緩總需求增長，以降低產能壓力。"
+    },
+    {
+      "id": "mkt:01a17fdf-d8b2-7ee0-a9a4-b6ee15245313",
+      "time": "2026-10-28 08:18:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RESERVE BANK OF AUSTRALIA Governor BULLOCK said household spending growth is slowing only gradually."
+    },
+    {
+      "id": "mkt:01a17fdf-d2af-7ee0-a9a4-ad3255469339",
+      "time": "2026-10-28 08:18:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the Middle East conflict has had a relatively limited impact on economic activity so far."
+    },
+    {
+      "id": "5173979",
+      "time": "2026-10-28 08:18:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "澳大利亞儲備銀行行長布洛克：貨幣政策存在滯後效應，近期加息的全部影響尚未在國內經濟活動中顯現。迄今為止，中東衝突對經濟活動的影響相對溫和。家庭支出增長只是在逐漸放緩。"
+    },
+    {
+      "id": "mkt:01a17fdf-7684-7ee0-a9a4-a66da1f0465f",
+      "time": "2026-10-28 08:18:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said monetary policy works with lags and the full effect of recent rate hikes on domestic economic activity has not yet materialized."
+    },
+    {
+      "id": "5173976",
+      "time": "2026-10-28 08:18:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行行長布洛克：一個關鍵問題是，迄今為止的貨幣政策緊縮是否足以在合理時間內將通脹拉回目標水平。我們致力於履行實現物價穩定和充分就業的使命。我們承認加息可能會帶來困難，但我們不能任由高通脹持續下去。"
+    },
+    {
+      "id": "mkt:01a17fdf-2238-7ee0-a9a4-9c97b81c581f",
+      "time": "2026-10-28 08:18:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said higher interest rates may cause hardship, but the bank cannot allow high inflation to persist."
+    },
+    {
+      "id": "5173975",
+      "time": "2026-10-28 08:18:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列第12頻道最新出口民調顯示，內塔尼亞胡陣營目前領先於艾森科特陣營。"
+    },
+    {
+      "id": "mkt:01a17fde-ac6d-7ee0-a9a4-95f9c015dba2",
+      "time": "2026-10-28 08:17:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the central bank is committed to fulfilling its mandate to achieve price stability and full employment."
+    },
+    {
+      "id": "mkt:01a17fde-977e-7ee0-a9a4-8f1c45ccc550",
+      "time": "2026-10-28 08:17:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the key question is whether monetary tightening to date is sufficient to return inflation to target within a reasonable timeframe."
+    },
+    {
+      "id": "5173971",
+      "time": "2026-10-28 08:17:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "佳能股價下跌5.7%，此前下調2026年營收和淨利潤預期。"
+    },
+    {
+      "id": "5173960",
+      "time": "2026-10-28 08:16:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數上漲1.3%，晶片股領漲。鎧俠上漲4.2%，愛德萬測試上漲2.4%。"
+    },
+    {
+      "id": "mkt:01a17fdd-65f4-7ee0-a9a4-8595bff26461",
+      "time": "2026-10-28 08:16:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI jumped 3.00% intraday to 5,808.74 points."
+    },
+    {
+      "id": "mkt:01a17fdd-139f-7ee0-a9a4-7e79621c22ce",
+      "time": "2026-10-28 08:15:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Alphabet",
+        "NVDA.O",
+        "Impact bearish",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "【OpenAI reportedly plans to buy Google's AI chips to reduce Nvidia reliance】The Information reports OpenAI plans to buy Google AI chips to accelerate reducing its reliance on Nvidia. If OpenAI purchases Google’s tensor processing units (TPUs) it would be a significant win for Google’s chip business; financial terms and scope are unclear. OpenAI is recruiting an engineer to \"lead optimization\" of its frontier models to run on TPUs, suggesting work remains at an early stage. The Information said last year OpenAI had begun using TPUs, a report that prompted JENSEN HUANG to move quickly and preceded a new Nvidia‑OpenAI agreement. An OpenAI spokesperson later said the company \"currently has no plans to use TPUs exclusively.\""
+    },
+    {
+      "id": "mkt:01a17fdc-7ff8-7ee0-a9a4-72ce183b7799",
+      "time": "2026-10-28 08:15:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Of 302 Israeli polling stations with completed counts, the Likud party is provisionally leading with 26.61% of the vote."
+    },
+    {
+      "id": "5173956",
+      "time": "2026-10-28 08:15:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【伊藤忠商事收購 IAG 發動機技術公司少數股權】伊藤忠商事將收購國際航空集團（International Airlines Group）旗下發動機維修企業 IAG Engine Tech 的少數股權，交易財務細節暫未披露。"
+    },
+    {
+      "id": "5173955",
+      "time": "2026-10-28 08:14:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲3%，至5808.74。"
+    },
+    {
+      "id": "5173954",
+      "time": "2026-10-28 08:13:38",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士股價上漲，此前公佈第三季度盈利超預期，並宣佈股東回報計劃】SK海力士股價上漲一度高達3.7%，此前該公司公佈的第三季度業績超出預期，並宣佈了一項100萬億韓元的股東回報計劃。截至發稿，漲幅收窄至約2%。DS 資產管理基金經理Yoon Joonwon表示，市場對股東回報方案預期本就較高，本次公告符合市場預期。儲存裝置同行三星電子股價上漲 4.3%，韓國綜合股價指數上漲 2.9%。"
+    },
+    {
+      "id": "mkt:01a17fd9-1d04-7ee0-a9a4-6b7f8ca3245e",
+      "time": "2026-10-28 08:11:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O): server DDR5 DRAM shipments rose more than 40% sequentially."
+    },
+    {
+      "id": "5173946",
+      "time": "2026-10-28 08:11:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美團：擬發行45億元於2031年到期的2.50%優先票據及35億元於2036年到期的3.10%優先票據】10月28日早間，美團在港交所公告，公司及初始買家就票據發行訂立購買協議。於扣除包銷佣金及若干估計發售開支前，票據發行的所得款項總額將為人民幣80億元。待購買協議所載若干條件獲達成後，公司將發行本金總額人民幣45億元的二零三一年人民幣票據（將於二零三一年十一月三日或前後的付息日到期）及本金總額人民幣35億元的二零三六年人民幣票據（將於二零三六年十一月三日或前後的付息日到期），除非根據票據條款提前贖回。公司擬將票據發行所得款項淨額主要用於現有離岸債務的再融資及其他一般企業用途。"
+    },
+    {
+      "id": "5173945",
+      "time": "2026-10-28 08:11:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：伺服器DDR5 DRAM出貨量環比增長超40%。"
+    },
+    {
+      "id": "5173944",
+      "time": "2026-10-28 08:09:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列議會選舉投票率達77.7% 創27年來新高】以色列中央選舉委員會27日晚公佈的資料顯示，截至22時投票結束，議會選舉投票率達到77.7%，創1999年以來新高。資料顯示，較2022年舉行的議會選舉，本次議會選舉的投票率高出約7個百分點。(新華社)"
+    },
+    {
+      "id": "mkt:01a17fd6-90dc-7ee0-a9a4-61cb84725ec4",
+      "time": "2026-10-28 08:08:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan",
+        "03690.HK"
+      ],
+      "text": "Meituan (03690.HK) proposes issuing RMB 4.5 bln of 2.50% senior notes due 2031 and RMB 3.5 bln of 3.10% senior notes due 2036."
+    },
+    {
+      "id": "5173943",
+      "time": "2026-10-28 08:08:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4080美元/盎司，日內漲0.16%。"
+    },
+    {
+      "id": "5173942",
+      "time": "2026-10-28 08:07:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【SK海力士季度業績超預期 宣佈規模100萬億韓元的2026年股東回報計劃】SK海力士第三季度利潤超預期激增六倍，並宣佈規模達100萬億韓元（750億美元）的2026年股東回報計劃，凸視訊記憶體儲晶片需求依然強勁。這家全球第二大儲存晶片製造商公佈，截至9月的季度營業利潤為83.3萬億韓元，高於分析師平均預估的77.5萬億韓元。營收升至104.6萬億韓元，也超過99萬億韓元的平均預測。這份業績增強了市場對AI資料中心建設持續拉動儲存晶片需求、進而支撐公司盈利的信心。近幾周，隨著大型AI基礎設施專案面臨融資和建設挑戰，AI投資熱潮正受到越來越多的質疑。SK海力士向英偉達供應高頻寬儲存晶片(HBM)，已成為AI熱潮中最大的受益者之一。儲存晶片供不應求導致價格飆升，該公司營業利潤率處於歷史高位。SK海力士週三表示，預計儲存晶片供應短缺將持續至2030年。麥格理的研究顯示，儲存晶片目前約佔AI資料中心全部支出的三分之一。SK海力士憑藉與英偉達的緊密合作，在這一市場佔據重要地位。麥格理表示，隨著HBM價格預計在2027年上漲逾一倍，未來幾年儲存晶片在整體AI硬體支出中的佔比還將上升。SK海力士第三季度股息為每股2萬韓元，計劃2026年至少派發30萬億韓元現金股息，並至少回購和登出60萬億韓元股票。"
+    },
+    {
+      "id": "5173941",
+      "time": "2026-10-28 08:06:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國表示，多家大型金融投資公司於昨日遭到駭客攻擊。"
+    },
+    {
+      "id": "5173940",
+      "time": "2026-10-28 08:06:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【經濟日報金觀平：有的放矢提高基礎研究實力】隨著新一輪科技革命和產業變革加速突破，全球科技競爭更加聚焦基礎前沿領域，原創性顛覆性創新的重要性日益凸顯。人工智慧驅動科研正規化變革，資料和模型成為戰略性和基礎性科研資源。應對新形勢新挑戰，亟須最佳化基礎研究系統佈局，從源頭上夯實原始創新的質量根基。"
+    },
+    {
+      "id": "5173939",
+      "time": "2026-10-28 08:05:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "伊藤忠商事：投資了飛機發動機維修公司 IAG ENGINE TECH。"
+    },
+    {
+      "id": "mkt:01a17fd3-3ba3-7ee0-a9a4-59420c07669e",
+      "time": "2026-10-28 08:05:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock, Deputy Governor Haoze and Assistant Governors Hunt, Jones and Kent will attend a Senate Economics Legislation Committee video hearing in ten minutes."
+    },
+    {
+      "id": "5173938",
+      "time": "2026-10-28 08:05:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【22只個股前三季度淨利同比增長超10倍 34只個股季度利潤環比四連增】據證券時報·資料寶統計，截至10月27日，A股已有近1700只個股釋出三季報，其中有超1300只個股前三季度實現盈利，佔比近八成，16只個股盈利金額超過百億元，中國移動盈利超1000億元，目前排名第一，寧德時代、紫金礦業盈利均超500億元。從淨利潤同比變動幅度來看，有超880只個股淨利潤實現同比增長，不含扭虧股，22只個股淨利潤同比增長超10倍，其中4只更是增長超100倍，包括贛鋒鋰業、東嶽矽材增長超190倍，光正眼科增長近130倍，ST西王增長超103倍。值得注意的是，部分個股業績已連續多個季度實現環比增長。據資料寶統計，今年前三季度及2025年第四季度淨利潤均環比增長的個股（即連續4個季度），合計有34只。"
+    },
+    {
+      "id": "5173936",
+      "time": "2026-10-28 08:03:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長期採購英偉達晶片的OpenAI計劃採購谷歌AI晶片】據知情人士透露，OpenAI計劃採購谷歌AI晶片，這對OpenAI投資方英偉達的新晉競爭對手谷歌而言是利好訊息。目前尚不清楚這筆採購的財務條款及其他細節。倘若敲定TPU（張量處理器）採購協議，將是谷歌晶片業務的重大突破。當前AI算力市場由英偉達GPU主導，谷歌晶片業務正逐步對其發起挑戰。OpenAI一直是英偉達最重要客戶之一，英偉達也已向這家初創公司投入數百億美元。"
+    },
+    {
+      "id": "mkt:01a17fd1-7682-7ee0-a9a4-54feed072c65",
+      "time": "2026-10-28 08:03:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI opened 116.95 points higher on Wednesday, Oct. 28, up 2.07% at 5,755.29. SK Hynix rose 2%, Samsung Electronics gained 2.9%."
+    },
+    {
+      "id": "5173935",
+      "time": "2026-10-28 08:02:49",
+      "tags": [],
+      "text": "SK海力士漲近3％，三星電子漲超3％。"
+    },
+    {
+      "id": "mkt:01a17fd0-efcf-7ee0-a9a4-4de0f963f833",
+      "time": "2026-10-28 08:02:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【SK Hynix announces KRW100 trillion shareholder return plan; says memory supply shortage to persist to 2030】SK Hynix reported quarterly operating profit of KRW83.3 trillion for the quarter to September (consensus KRW76.7 trillion) and revenue of KRW104.6 trillion (consensus KRW98.3 trillion), both single-quarter records; quarterly profit rose more than sevenfold YoY. The company said it will implement an additional KRW100 trillion (~$75bn) shareholder return program in 2026. Operating margins remain at elevated, historic levels amid tight supply. SK Hynix expects memory-chip supply shortages to persist through 2030, citing rising technical difficulty at advanced process nodes and long lead times for new fabs that constrain near-term supply expansion. It sees near-term demand driven by enterprise and consumer AI adoption and mid-to-long-term growth from physical-AI applications such as autonomous driving and robotics."
+    },
+    {
+      "id": "mkt:01a17fd0-e81d-7ee0-a9a4-4005b06d16ee",
+      "time": "2026-10-28 08:02:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "GOOGL.O",
+        "Impact bullish",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "The Information reports OpenAI plans to purchase AI chips from Google."
+    },
+    {
+      "id": "mkt:01a17fd0-d340-7ee0-a9a4-3f7344da2f0f",
+      "time": "2026-10-28 08:02:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened up 456.79 points, or 0.72%, at 63,725.16 on Oct. 28 (Wednesday)."
+    },
+    {
+      "id": "5173934",
+      "time": "2026-10-28 08:02:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，無法獲知OpenAI計劃採購谷歌晶片的財務條款及其他細節。"
+    },
+    {
+      "id": "5173933",
+      "time": "2026-10-28 08:01:57",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "據報道：OpenAI計劃購買谷歌的人工智慧晶片。"
+    },
+    {
+      "id": "5173932",
+      "time": "2026-10-28 08:01:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "美團：發行45億元2031年到期2.50%優先票據及35億元2036年到期3.10%優先票據。"
+    },
+    {
+      "id": "5173931",
+      "time": "2026-10-28 08:00:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲2.2%，至5763.85點。"
+    },
+    {
+      "id": "5173930",
+      "time": "2026-10-28 08:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報63738.98點，漲幅0.74％。韓國綜合股價指數（KOSPI）開盤上漲2.2％，至5763.85點。"
+    },
+    {
+      "id": "5173929",
+      "time": "2026-10-28 08:00:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破110美元/桶，日內漲0.22%。"
+    },
+    {
+      "id": "5173928",
+      "time": "2026-10-28 07:58:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普論伊朗： 伊朗戰爭可以隨時在我想要結束的時候結束。"
+    },
+    {
+      "id": "te:markets:595554",
+      "time": "2026-10-28 07:57:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Steady Ahead of Fed Decision — US stock futures held steady on Wednesday as investors braced for the upcoming Federal Reserve policy decision, as well as earnings from megacap technology companies. The central bank is broadly expected to keep interest rates unchanged, while traders look for clues about the possibility of a rate hike in December. On the corporate front, Alphabet and Microsoft are set to release earnings after the market closes on Wednesday, with investors closely assessing their results for insights into the AI trade. During Tuesday’s regular session, the S&P 500 and Nasdaq Composite gained 0.6% and 1.18%, respectively, supported by strength in technology shares. Chipmakers led the advance after Broadcom revealed that a consortium of banks would provide $63 billion in financing tied to the use of its technology by Anthropic. Meanwhile, Meta’s $25 billion share offering was oversubscribed by five times, while Oracle Corp. further strengthened its partnership with OpenAI."
+    },
+    {
+      "id": "5173927",
+      "time": "2026-10-28 07:57:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金沙中國有限公司：擬發行優先票據】金沙中國有限公司(01928)釋出公告，於2026年10月27日(紐約時間)，本公司與Barclays Capital Inc.、BofA Securities, Inc.及Goldman Sachs & Co. LLC(初始買家的代表)就發行票據訂立購買協議。董事會認為，票據發行將延長本公司的債務到期狀況及進一步鞏固本集團的流動資金狀況。本公司估計，票據發售所得款項淨額將為約9.89億美元。本公司擬將動用票據所得款項淨額及手頭現金悉數贖回7億美元2.300%2027年票據的尚未償付本金額及任何應計利息、償還2024年SCL迴圈融資的未償還結餘，以及用作一般企業用途(包括資本開支)。"
+    },
+    {
+      "id": "5173926",
+      "time": "2026-10-28 07:56:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國創新藥閃耀ESMO 研究成果入選量創新高】在10月23日至27日舉行的2026年歐洲腫瘤內科學會年會（ESMO）上，中國創新藥迎來“高光時刻”：29項中國創新藥研究入選突破性摘要（LBA），佔大會LBA總數約三分之一，創下歷史新高；其中，5項研究躋身大會最高規格的主席研討會，實現數量和質量層面的雙重突破。業內專家認為，本屆ESMO再次印證了中國創新藥的差異化創新優勢，同時，中國創新藥正迎來從“早期療效展示”邁向“全球III期臨床驗證”的關鍵轉折，體現出行業成熟度的躍升。"
+    },
+    {
+      "id": "5173925",
+      "time": "2026-10-28 07:56:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大風藍色預警！甘肅寧夏等8省區部分地區將有5至7級風】中央氣象臺10月28日6時繼續釋出大風藍色預警：預計，10月28日8時至29日8時，甘肅河西、寧夏北部、內蒙古大部、山西北部、河北北部、遼寧中西部以及西藏北部、青海南部和北部等地部分地區將有5~7級風、陣風8~9級；東海西部、臺灣海峽、臺灣以東洋麵、巴士海峽、南海北部海域將有7~8級、陣風9級大風。"
+    },
+    {
+      "id": "5173924",
+      "time": "2026-10-28 07:55:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【東山精密週三將登陸港交所】東山精密週三將登陸港交所。東山精密以每股86.8港元發行1.138億股，定價低於招股價區間的上限，較其深圳上市A股前一交易日收盤價折讓約35%。99億港元（13億美元）的融資規模不到其最初尋求的30億美元的一半。該股在週二暗盤交易中一度下跌12%。"
+    },
+    {
+      "id": "mkt:01a17fc7-7e2b-7ee0-a9a4-374899527230",
+      "time": "2026-10-28 07:52:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's 30-year government bond yield rose 5.0 bps to 3.870%."
+    },
+    {
+      "id": "5173923",
+      "time": "2026-10-28 07:52:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股上市公司年內回購逾1200億港元 紅利、創新藥等板塊配置機遇獲看好】近期港股市場延續震盪調整態勢，但港股上市公司股份回購熱情不減。Wind資料顯示，截至10月27日記者發稿時，今年以來已有358家港股上市公司回購股份101.68億股，回購金額達到1257.82億港元，騰訊控股、友邦保險、小米集團-W等企業回購規模居前。對於港股後市走勢，業內人士認為，港股短期或維持震盪態勢，具備盈利與現金流驗證的方向或相對更具韌性。具體配置上，以鐵路公路、港口等運營性資產為代表的紅利資產，以及創新藥、CXO板塊受到關注；對於科技板塊，市場更關注高利率環境下AI資本開支的回報率能否覆蓋融資成本。（中國證券報）"
+    },
+    {
+      "id": "5173922",
+      "time": "2026-10-28 07:51:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【基金三季度繼續重倉科技板塊 對紅利等傳統資產配置意願提升】10月27日晚間，公募基金2026年三季報披露完畢。天相投顧統計資料顯示，三季度公募基金在繼續重倉科技板塊的同時，對消費、醫藥、紅利等傳統資產的配置意願逐步提升。重倉股方面，截至今年三季度末，中際旭創仍為主動權益類基金第一大重倉股，持倉市值為959億元，持有該股的基金產品數量多達1557只。此外，新易盛、藥明康德、長鑫科技、源傑科技、東山精密、寧德時代、寒武紀、北方華創、滬電股份也進入主動權益基金的十大重倉股名單。相較於二季度末，醫藥股在公募基金持倉中的地位得到明顯提升。"
+    },
+    {
+      "id": "5173921",
+      "time": "2026-10-28 07:51:55",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【SK 海力士韓股盤前股價小幅走高】SK 海力士交出一份穩健的財報資料，但投資者目前反應相對剋制。該股在 韓國Nextrade 盤前交易中上漲約 3%。SK海力士美股盤後上漲2.6%。這與近期 AI 產業鏈財報行情相近：業績超預期，卻難以提振已經消退的市場熱度。SK 海力士股價受到壓制，部分原因也在於股東回報方案早已提前披露。此外，美國方面還有美聯儲決議、谷歌母公司 Alphabet 與微軟財報等重大事件風險臨近。在此背景下，SK 海力士至少沒有拖累亞洲市場情緒。"
+    },
+    {
+      "id": "5173920",
+      "time": "2026-10-28 07:51:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率上升5個基點至3.87%。"
+    },
+    {
+      "id": "mkt:01a17fc5-6340-7ee0-a9a4-2f4b402a63dd",
+      "time": "2026-10-28 07:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS"
+      ],
+      "text": "SK Hynix to hold Q3 earnings call in 10 minutes."
+    },
+    {
+      "id": "mkt:01a17fc4-9c25-7ee0-a9a4-262241c94d9f",
+      "time": "2026-10-28 07:49:13",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (ticker: SKHY.O) extended after-hours gains to 2.6% in U.S. trade."
+    },
+    {
+      "id": "mkt:01a17fc4-5787-7ee0-a9a4-1e4b20eb1717",
+      "time": "2026-10-28 07:48:56",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix (SKHY.O) recorded a third-quarter foreign-exchange loss of 11.6 trillion won due to an exchange-rate decline."
+    },
+    {
+      "id": "5173919",
+      "time": "2026-10-28 07:48:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士：因匯率下跌，第三季度錄得11.6萬億韓元的外匯相關損失。"
+    },
+    {
+      "id": "5173918",
+      "time": "2026-10-28 07:48:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士第三季度利潤激增逾7倍，超出預期】韓國晶片製造商SK海力士週三公佈，受人工智慧基礎設施需求持續推動記憶體晶片價格上漲的影響，其季度營業利潤增長了七倍多，創下歷史新高，超出市場預期。這家英偉達的供應商報告稱，7月至9月期間的營業利潤為83.3萬億韓元(628億美元)，而去年同期為11.4萬億韓元。而市場預期為76.7萬億韓元，該資料更側重於那些預測準確度更為穩定的分析師的估計。"
+    },
+    {
+      "id": "5173917",
+      "time": "2026-10-28 07:47:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【滑雪場迎來開板季 冰雪旅遊需求提前升溫】10月27日，冰雪產業概念股持續活躍，峨眉山A漲停，雪人集團漲超5%，龍江交通、元隆雅圖等紛紛跟漲。訊息面上，已有部分滑雪場正式開板，多數雪場預計11月開板，多家航司亦佈局冰雪經濟，冰雪旅遊需求提前升溫。北京市社會科學院副研究員王鵬向證券時報記者表示，今年冰雪遊前置升溫特徵顯著。雪場開板節奏普遍提前，早鳥預訂、出行規劃大幅前置，南方跨區域冰雪遊客出行意願更早釋放，市場預熱週期較往年拉長，反映出需求端提前消費的趨勢。冰雪遊市場整體仍處於上行通道，產業由規模擴張轉向質效提升，頭部優質目的地集聚效應持續增強。"
+    },
+    {
+      "id": "mkt:01a17fc2-d142-7ee0-a9a4-1656f39924cb",
+      "time": "2026-10-28 07:47:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "A Pentagon estimate seen by Refinitiv says US costs for military operations against Iran have risen to more than $47 billion."
+    },
+    {
+      "id": "5173916",
+      "time": "2026-10-28 07:46:50",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士韓股盤前股價上漲約3%，三星電子股價也上漲3%。"
+    },
+    {
+      "id": "5173915",
+      "time": "2026-10-28 07:46:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "媒體看到的五角大樓估計顯示，美國對伊朗戰爭行動的成本已升至超過470億美元。"
+    },
+    {
+      "id": "5173914",
+      "time": "2026-10-28 07:46:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.23點。"
+    },
+    {
+      "id": "5173913",
+      "time": "2026-10-28 07:45:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數期貨早盤上漲1.7%。"
+    },
+    {
+      "id": "5173911",
+      "time": "2026-10-28 07:45:39",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【弗拉維奧・博索納羅敗選後逃離巴西，抵達邁阿密】巴西《環球報》報道，巴西參議員弗拉維奧・博索納羅在總統選舉落敗後，於週二逃離巴西，抵達邁阿密。報道援引其盟友訊息，他抵達後由弟弟愛德華多接機。愛德華多自去年移居美國，一直在遊說特朗普政府，為父親、前總統雅伊爾・博索納羅提供幫助；雅伊爾・博索納羅因策劃政變罪名成立，已被定罪。美國國務院一名高階官員週二早些時候表示，美方將向弗拉維奧及其家人發放簽證。一名知情警方人員稱，弗拉維奧在巴西面臨多項刑事調查，法院要求他於週二向聯邦警察上交護照，但他並未照做。弗拉維奧在週日第二輪總統選舉中不敵盧拉，這次失利對一心想要在巴西鞏固政治王朝的博索納羅家族構成沉重打擊。弗拉維奧此次參選的核心訴求，就是爭取釋放父親雅伊爾・博索納羅；雅伊爾在2022年大選失利後因策劃政變獲刑27年。"
+    },
+    {
+      "id": "5173909",
+      "time": "2026-10-28 07:43:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱對烏實施大規模打擊 烏稱擊退俄進攻】俄羅斯國防部27日通報稱，過去一天，俄軍共打擊148處區域，目標包括烏軍使用的交通基礎設施、彈藥倉庫、地面無人戰車和遠端無人機的生產車間及儲存場地等。通報還稱，俄軍當天凌晨使用陸基高精度武器和無人機對烏克蘭實施大規模打擊。烏克蘭武裝部隊總參謀部27日通報稱，過去一天前線地區發生196次戰鬥，烏軍在多個方向擊退俄軍進攻。烏克蘭導彈部隊和炮兵部隊打擊了俄軍人員和裝備集結區。"
+    },
+    {
+      "id": "5173908",
+      "time": "2026-10-28 07:42:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士：受記憶體價格上漲和供應短缺帶來的成本負擔影響，預計個人電腦和智慧手機出貨量將下降。"
+    },
+    {
+      "id": "5173907",
+      "time": "2026-10-28 07:42:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第140屆廣交會第二期線下展閉展 27.8萬名境外採購商到會】昨天，第140屆廣交會第二期線下展閉展。截至昨天17時，本屆廣交會共有來自218個國家和地區的27.8萬名境外採購商到會，較上屆同期增長13.4%。第140屆廣交會第二期出口展共有1.1萬家企業參展，其中專精特新、單項冠軍等優質企業超3600家，同比增長約7.6%。"
+    },
+    {
+      "id": "mkt:01a17fbe-4001-7ee0-a9a4-09589e858142",
+      "time": "2026-10-28 07:42:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) says memory supply shortage will persist through 2030."
+    },
+    {
+      "id": "mkt:01a17fbe-063c-7ee0-a9a4-07563dedbe86",
+      "time": "2026-10-28 07:42:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Updated exit poll from Israeli public broadcaster KAN Channel 11 projects Likud, led by Benjamin Netanyahu, will win 27 Knesset seats. Netanyahu's bloc and Gadi Eisenkot's bloc were tied at 51 seats each."
+    },
+    {
+      "id": "5173906",
+      "time": "2026-10-28 07:41:57",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士預計第四季度HBM4出貨量和營收將超過HBM3E】10月28日，SK海力士表示，公司將快速提高第六代10奈米級（1c）工藝的比重，並增加DDR5和麵向AI伺服器的LPDDR5 SOCAMM的銷售，進一步強化DRAM以高附加值產品為中心的產品組合。為應對激增的HBM需求，公司計劃年底前將M15X工廠的產能提升至最大水平，以擴大HBM4生產。據此，公司預計第四季度HBM4將在出貨量和營業收入方面均超越HBM3E，確立其主力產品地位。在NAND快閃記憶體方面，公司計劃第四季度將321層工藝的比重提升至韓國本土產能的50%以上，以此增加高效能、大容量eSSD的供應。中長期來看，公司計劃以高頻寬快閃記憶體和系統最佳化技術為基礎，將NAND快閃記憶體打造為提升AI服務吞吐量與經濟性的核心解決方案。"
+    },
+    {
+      "id": "5173905",
+      "time": "2026-10-28 07:41:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公募基金三季報披露完畢 債券基金規模創歷史新高】10月27日，公募基金2026年三季報披露完畢。公募基金最新前十大重倉股出爐，分別是中際旭創、新易盛、藥明康德、長鑫科技、源傑科技、東山精密、寧德時代、寒武紀、北方華創、滬電股份。與2026年二季度末相比，藥明康德、長鑫科技、滬電股份三隻個股新進前十大重倉股。其中，藥明康德成為公募基金增持市值最多的個股。從基金規模來看，截至三季度末，債券型基金總規模超過12.6萬億元，創歷史新高。相較於二季度末，債基規模增加超5000億元，獲淨申購超過2800億份，成為股票型基金、混合型基金、債券型基金、貨幣型基金、商品型基金、QDII、FOF等七大類基金中，獲淨申購最多的一類基金產品。三季度主動權益基金（包括普通股票型、偏股混合型、平衡混合型、靈活配置型基金）規模合計減少超9000億元，規模超200億元的主動權益產品數量減少至5只。然而，三季度仍有東方人工智慧主題、銀華積體電路、財通成長優選、信澳業績驅動、富國新興產業等一批科技風格基金獲資金增持。（中國證券報）"
+    },
+    {
+      "id": "mkt:01a17fbd-8186-7ee0-a9a3-f81777f9e394",
+      "time": "2026-10-28 07:41:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O): HBM4 chips have been the company’s primary product since Q4."
+    },
+    {
+      "id": "5173904",
+      "time": "2026-10-28 07:41:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：從第四季度開始，HBM4晶片已成為主要產品。"
+    },
+    {
+      "id": "5173903",
+      "time": "2026-10-28 07:40:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“長錢長投”市場生態建設持續推進 三季度中長期資金結構性加倉】萬得資料顯示，截至10月27日記者發稿，A股三季報披露率約41.76%。從現有三季報資料來看，中長期資金結構性加倉特徵突出：社保基金新進與增持標的數量超過減持標的；基本養老保險基金逆勢佈局電子板塊；處於長週期考核整改過渡期的企業年金，則保持極低換手率、持倉整體趨於穩定；公募基金共現身1590只個股的前十大流通股東名單，其中增持141只，新進22只。更值得關注的是，當前，受益於政策端改革持續推進，長錢入市渠道正加速突破二級市場單一交易模式，延伸至定增、戰略配售、公募REITs（不動產投資信託基金‌）、養老金產品等多元化路徑。（證券日報）"
+    },
+    {
+      "id": "mkt:01a17fbc-8ed9-7ee0-a9a3-f0b7f140a9fe",
+      "time": "2026-10-28 07:40:26",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) plans to return most of the gains realized from its investment in Kioxia to shareholders via special dividends, to be paid in Q3 and at the end of fiscal 2026."
+    },
+    {
+      "id": "5173902",
+      "time": "2026-10-28 07:40:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SK海力士計劃2026年股東回報總規模100萬億韓元】據監管檔案顯示，SK海力士計劃2026年至少派發30萬億韓元現金股息，並至少回購和登出60萬億韓元股票。股份回購包括近期完成的40萬億韓元股票回購。第三季度股息為每股20,000韓元。"
+    },
+    {
+      "id": "mkt:01a17fbc-29f7-7ee0-a9a3-ef4087a99979",
+      "time": "2026-10-28 07:40:00",
+      "tags": [
+        "MKT News",
+        "SKHY.O"
+      ],
+      "text": "SK Hynix (SKHY.O): Q3 dividend payout totaled 14 trillion won."
+    },
+    {
+      "id": "5173901",
+      "time": "2026-10-28 07:39:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "以色列公共廣播公司第11頻道更新的出口民調顯示，內塔尼亞胡的利庫德集團支援率上升至27個席位。"
+    },
+    {
+      "id": "5173900",
+      "time": "2026-10-28 07:39:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數上漲0.7%，報8,907.50點。"
+    },
+    {
+      "id": "mkt:01a17fbb-c051-7ee0-a9a3-e36dd36bdc15",
+      "time": "2026-10-28 07:39:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O): Capex includes equipment for advanced process nodes and accelerated infrastructure investment in South Korea and overseas."
+    },
+    {
+      "id": "5173899",
+      "time": "2026-10-28 07:39:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "SK海力士：資本支出包括先進製程的裝置投資，以及在韓國和海外加速基礎設施投資。"
+    },
+    {
+      "id": "mkt:01a17fbb-869c-7ee0-a9a3-df613f86ab5e",
+      "time": "2026-10-28 07:39:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O): long-term supply agreements for 2027 and 2028 have locked in supply exceeding 50% of total production capacity."
+    },
+    {
+      "id": "5173898",
+      "time": "2026-10-28 07:39:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：2027年和2028年長期協議（LTA）鎖定的出貨量已超過總產能的50%。"
+    },
+    {
+      "id": "mkt:01a17fbb-4fdc-7ee0-a9a3-d2c4ae872b50",
+      "time": "2026-10-28 07:39:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact mixed"
+      ],
+      "text": "SK Hynix (SKHY.O) expects 2027 capex to increase significantly versus 2026."
+    },
+    {
+      "id": "5173897",
+      "time": "2026-10-28 07:38:57",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【國開行進出口銀行完成新型政策性金融工具投放】10月27日，國家開發銀行、中國進出口銀行分別宣佈完成2026年新型政策性金融工具投放任務，合計投放4850億元，資金全部用於補充專案資本金。國開行投放3650億元，涉及專案總投資5.5萬億元，其中向民間投資和民間資本參與專案投放1279.9億元，佔比35.1%；對人工智慧、數字經濟、綠色低碳、生物醫藥、消費5個領域專案投放1790.1億元，佔比49%。進出口銀行投放1200億元，支援專案超500個，拉動總投資逾1.7萬億元，側重民間投資撬動、新興產業投放、重點區域引領，推動210餘個民間投資及民間資本參與專案落地，放款金額佔比近四成；220餘個數字經濟和人工智慧等新興產業領域專案放款金額佔比近五成；11個經濟體量較大省份獲得傾斜支援，推動330餘個專案落地，放款金額佔比超七成。今年政府工作報告提出發行新型政策性金融工具8000億元，帶動更多社會資本參與投資。（證券時報）"
+    },
+    {
+      "id": "mkt:01a17fbb-2d88-7ee0-a9a3-cff6786abf05",
+      "time": "2026-10-28 07:38:55",
+      "tags": [
+        "MKT News",
+        "000660.KS"
+      ],
+      "text": "SK Hynix (SKHY.O) said its long-term supply agreements (LTAs) have a standard five-year term and it is discussing extensions of those terms with some customers."
+    },
+    {
+      "id": "mkt:01a17fbb-0f4d-7ee0-a9a3-c4b97d807441",
+      "time": "2026-10-28 07:38:47",
+      "tags": [
+        "MKT News",
+        "SKHY.O"
+      ],
+      "text": "SK Hynix (SKHY.O) has put in place safeguards, including margin requirements, to ensure performance under long-term agreements."
+    },
+    {
+      "id": "5173896",
+      "time": "2026-10-28 07:38:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：長期供貨協議（LTA）標準期限為5年，目前正與部分客戶商討延期事宜。"
+    },
+    {
+      "id": "mkt:01a17fba-cc9b-7ee0-a9a3-b898eb9703d5",
+      "time": "2026-10-28 07:38:30",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) has signed long-term agreements with 14 major customers, including leading global cloud service providers."
+    },
+    {
+      "id": "mkt:01a17fba-c227-7ee0-a9a3-b187ca258380",
+      "time": "2026-10-28 07:38:28",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) says 2027 HBM negotiations are finalized and it expects the profitability gap with traditional DRAM to narrow significantly."
+    },
+    {
+      "id": "5173895",
+      "time": "2026-10-28 07:38:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：已建立保障措施以確保長期合同的履行，包括存款。"
+    },
+    {
+      "id": "5173894",
+      "time": "2026-10-28 07:38:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多重因素交織，中藥板塊前三季度整體業績承壓】A股上市公司2026年三季報披露正在有序推進中。據Wind統計，截至10月27日記者發稿，申萬行業68家中藥板塊上市公司中已有23家披露2026年前三季度業績，其中，14家公司營收及淨利潤均下滑，佔比超六成，另有5家實現營收與歸母淨利潤均同比增長，行業業績分化顯著。根據財報披露的資訊，多數中藥企業業績承壓並非源於短期擾動因素，而是由終端需求、內部改革及收益結構變動等多重因素共振所致。值得注意的是，實現業績增長的企業中，其發展路徑也各有特點：一些企業依託品種、政策、賽道優勢實現內生增長，另一些則透過資產處置、業務調優、降本增效完成盈利修復。（經濟參考報）"
+    },
+    {
+      "id": "5173893",
+      "time": "2026-10-28 07:38:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【年內117家公司港股IPO募資逾3900億港元】港股IPO（首次公開募股）發行仍保持高熱度。10月28日，蘇州東山精密製造股份有限公司正式登陸港股市場。萬得資料顯示，按上市日期計算，截至10月27日，今年以來，港股市場有117只新股IPO，同比增長53.95%；募集資金規模3915.16億港元，同比增長98.93%。與去年同期相比，發行節奏、融資體量同步提升，硬體裝置、半導體、軟體服務等企業成為主角。（證券日報）"
+    },
+    {
+      "id": "mkt:01a17fba-8047-7ee0-a9a3-aea94f090e28",
+      "time": "2026-10-28 07:38:11",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) expects HBM4 shipments and revenue share to exceed HBM3E in Q4."
+    },
+    {
+      "id": "5173892",
+      "time": "2026-10-28 07:38:10",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【物理AI迎落地拐點 產業鏈公司搶抓機遇】物理AI成為AI產業新熱點，也成為A股新風口。記者注意到，近期多隻物理AI、機器人及資料要素相關概念股表現亮眼，宇樹科技股價自10月中旬以來7個交易日反彈超過65%。產業“進化”加速及科技巨頭的紛紛入局，是引爆行情的底層邏輯；物理AI“訓練+模擬+端側”算力敘事，也接續了此前的算力敘事邏輯，緩解了市場對於AI資本開支見頂的擔憂。從國內市場來看，伴隨中央及地方相繼出臺發展物理AI的相關政策，上市公司也從產業鏈各環節敏銳佈局，搶抓產業機遇。（上海證券報）"
+    },
+    {
+      "id": "5173891",
+      "time": "2026-10-28 07:37:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：已與包括全球主要雲服務提供商（CSP）在內的14家核心客戶簽訂長期供應協議（LTA）。"
+    },
+    {
+      "id": "5173890",
+      "time": "2026-10-28 07:37:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士將把從鎧俠（Kioxia）獲得的大部分投資收益返還給股東。"
+    },
+    {
+      "id": "5173889",
+      "time": "2026-10-28 07:37:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：2027年資本支出將較2026年顯著增加。"
+    },
+    {
+      "id": "5173888",
+      "time": "2026-10-28 07:37:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：2027年HBM談判已敲定；預計與傳統DRAM的盈利差距將顯著縮小。"
+    },
+    {
+      "id": "5173887",
+      "time": "2026-10-28 07:36:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：第四季度，HBM4預計在HBM出貨量和營收佔比上超過HBM3E。"
+    },
+    {
+      "id": "5173886",
+      "time": "2026-10-28 07:36:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：第四季度NAND出貨量預計較第三季度增長中個位數百分比。"
+    },
+    {
+      "id": "5173885",
+      "time": "2026-10-28 07:36:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：隨著人工智慧承擔更長、更復雜的任務，推動計算和資料處理激增，記憶體需求將超出此前預期。"
+    },
+    {
+      "id": "5173884",
+      "time": "2026-10-28 07:36:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：企業和個人AI將推動近期增長，物理AI將在中長期擴大需求範圍。"
+    },
+    {
+      "id": "5173883",
+      "time": "2026-10-28 07:35:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西弗拉維奧·博索納羅抵達邁阿密，與其兄弟EDUARDO會合。"
+    },
+    {
+      "id": "te:markets:595553",
+      "time": "2026-10-28 07:35:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Losses Amid Israeli Elections — Brent crude held below $114 per barrel on Wednesday after sliding for two straight sessions, as markets monitored election results in Israel that could change the trajectory of the Middle East conflict. Exit polls indicated that opposition leader Gadi Eisenkot held a narrow lead over Prime Minister Benjamin Netanyahu, although neither bloc secured a majority and vote counting was still underway. The results point to weakening support for Netanyahu, a dominant figure in Israeli politics for decades who has guided the country through nearly three years of continuous conflict. Meanwhile, markets assessed renewed diplomatic efforts in the region after officials from Saudi Arabia, Pakistan, and Turkey met with Iranian leaders on Monday. Iran’s Supreme Leader Mojtaba Khamenei also called for an end to the current state of “neither war nor peace.” In the US, crude inventories dropped by 2 million barrels in the week ending October 23, signaling tighter oil supplies."
+    },
+    {
+      "id": "5173882",
+      "time": "2026-10-28 07:34:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士與14家主要客戶簽署了長期合同。"
+    },
+    {
+      "id": "te:markets:595551",
+      "time": "2026-10-28 07:33:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Losses Amid Israeli Elections — Crude oil held below $100 per barrel on Wednesday after sliding for two straight sessions, as markets monitored election results in Israel that could change the trajectory of the Middle East conflict. Exit polls indicated that opposition leader Gadi Eisenkot held a narrow lead over Prime Minister Benjamin Netanyahu, although neither bloc secured a majority and vote counting was still underway. The results point to weakening support for Netanyahu, a dominant figure in Israeli politics for decades who has guided the country through nearly three years of continuous conflict. Meanwhile, markets assessed renewed diplomatic efforts in the region after officials from Saudi Arabia, Pakistan, and Turkey met with Iranian leaders on Monday. Iran’s Supreme Leader Mojtaba Khamenei also called for an end to the current state of “neither war nor peace.” In the US, crude inventories dropped by 2 million barrels in the week ending October 23, signaling tighter oil supplies."
+    },
+    {
+      "id": "5173881",
+      "time": "2026-10-28 07:33:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "弗拉維奧·博索納羅抵達邁阿密，受到他的兄弟愛德華多的接見。"
+    },
+    {
+      "id": "5173880",
+      "time": "2026-10-28 07:32:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士預計記憶體供應短缺的情況將持續到2030年。"
+    },
+    {
+      "id": "5173879",
+      "time": "2026-10-28 07:31:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【結構性增長引擎與成本壓力共振 家電行業三季度業績呈結構性分化】據Wind資料，截至10月26日，家電行業已有16家上市公司披露2026年三季報。從已披露資料看，行業業績呈現明顯的結構性分化：視源股份、創維數字、四川長虹等公司歸母淨利潤同比倍增，海信家電、九陽股份、小熊電器等則出現不同程度下滑。統計顯示，16家公司歸母淨利潤同比增速從增長185.63%到下降41.75%不等，分化幅度超過220個百分點。在“內銷承壓、出口回暖”的背景下，結構性增長引擎與成本壓力共振，成為本季行業執行的主基調。（經濟參考報）"
+    },
+    {
+      "id": "5173877",
+      "time": "2026-10-28 07:29:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士計劃回購20萬億韓元股票。"
+    },
+    {
+      "id": "5173876",
+      "time": "2026-10-28 07:29:52",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "【*SK海力士計劃2026年股東回報總規模100萬億韓元】SK海力士： SK海力士計劃在2026年向股東返還總計100萬億韓元。提供超過30萬億韓元的現金股息。"
+    },
+    {
+      "id": "5173875",
+      "time": "2026-10-28 07:29:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士第三季度合併營收為104.62萬億韓元，高於此前預期的98.96萬億韓元。"
+    },
+    {
+      "id": "5173874",
+      "time": "2026-10-28 07:29:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：第三季度淨利潤39.53萬億韓元，市場預期利潤59.66萬億韓元。"
+    },
+    {
+      "id": "5173873",
+      "time": "2026-10-28 07:28:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：第三季度營業利潤83.3萬億韓元，預估76.7萬億韓元。"
+    },
+    {
+      "id": "5173872",
+      "time": "2026-10-28 07:27:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴外長指責美國在聯大公然撒謊】當地時間10月27日，古巴外長羅德里格斯在社交媒體發文，針對當天聯合國大會上與美國常駐代表華爾茲的交鋒作出回應，指責美國政府在聯大公然、持續撒謊。羅德里格斯表示，華爾茲態度傲慢，忘記自己身處聯合國，而不是美國的國家安全委員會。古巴外交部也發文表示，“古巴不是威脅，封鎖才是”。"
+    },
+    {
+      "id": "5173871",
+      "time": "2026-10-28 07:26:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【券商資管公募三季報出爐 四家躋身千億梯隊】近日，券商資管公募產品三季報密集出爐。最新資料顯示，截至三季度末，有4家券商資管公募管理規模超千億元，東方紅資產管理以2087.35億元領跑。從業績表現來看，三季度醫藥、紅利類產品收益突出。展望四季度，基金經理在持續關注AI（人工智慧）投資機會的同時，同樣看好傳統行業，特別是傳統消費龍頭公司的配置機遇。"
+    },
+    {
+      "id": "5173870",
+      "time": "2026-10-28 07:26:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【前海綜合保稅區月度進出口首超千億元】據深圳海關統計，前海綜合保稅區9月進出口1129.5億元，月度規模歷史首次突破千億元關口，同比增長200.4%，規模居全國綜保區首位，以自動資料處理裝置、電子元件等高技術產品為主，為粵港澳大灣區經濟高質量發展、高水平開放持續注入強勁動能。（央視新聞）"
+    },
+    {
+      "id": "5173869",
+      "time": "2026-10-28 07:23:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列反對派領導人艾森科特向國防機構表示，內塔尼亞胡已失去人民的信任。內塔尼亞胡絕不能將以色列的安全用於政治目的。"
+    },
+    {
+      "id": "5173868",
+      "time": "2026-10-28 07:23:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【擴充遠端打擊能力，德國擬購烏克蘭“雪豹”導彈】據英國《金融時報》、美國彭博社、俄羅斯衛星通訊社等多家媒體26日報道，德國正準備從烏克蘭採購一批低成本巡航導彈，用來擴充本國的遠端打擊能力。《金融時報》稱，該型號導彈將成為德國聯邦國防軍採購的首款烏克蘭自研進攻性武器。 《金融時報》援引知情官員的訊息稱，這筆交易有望在未來幾周敲定。首批訂單數量不大，交由德國聯邦國防軍於明年初開展測試。如果試射取得成功，據稱柏林方面後續可能追加數百枚的採購訂單。（環球網）"
+    },
+    {
+      "id": "5173867",
+      "time": "2026-10-28 07:20:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【盧拉：弗拉維奧·博索納羅敗選後逃離巴西“可恥”】巴西總統盧拉27日批評前總統雅伊爾·博索納羅之子弗拉維奧·博索納羅在總統選舉落敗後離境“可恥”，稱其應留在巴西、按司法機關要求上交護照並提交材料解釋指控。巴西最高法院26日裁定禁止其離境，涉及正在調查的案件，弗拉維奧及其律師均為調查物件。巴西自由黨聯邦眾議員毛裡西奧·馬爾孔稱弗拉維奧當日乘飛機前往美國“流亡”。巴西自由黨聯邦眾議員毛裡西奧·馬爾孔27日下午在社交媒體釋出影片稱，弗拉維奧·博索納羅當日乘坐飛機前往美國“流亡”，稱此舉與巴西聯邦最高法院法官亞歷山大·德莫賴斯責令其向警方上交護照有關。巴西最高法院26日裁定禁止弗拉維奧·博索納羅離境。據巴西媒體報道，這項司法命令涉及最高法院正在調查的一起案件，弗拉維奧·博索納羅及其律師維勒·托馬斯均為調查物件。據巴西媒體報道，出入境管理系統未發現其正常出境記錄，巴西聯邦警察已於27日上午就其是否離境開啟調查。（新華社）"
+    },
+    {
+      "id": "5173866",
+      "time": "2026-10-28 07:20:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列反對派領導人艾森科特：我將致力於建立一個猶太復國主義政府，促進強制服役。"
+    },
+    {
+      "id": "5173865",
+      "time": "2026-10-28 07:19:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "艾森科特：我將盡我所能實現人民的願望。"
+    },
+    {
+      "id": "5173864",
+      "time": "2026-10-28 07:18:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達與甲骨文擴大AI基礎設施合作，Vera Rubin系統部署規模將達數吉瓦級】當地時間10月27日，英偉達與甲骨文宣佈，將把搭載英偉達Vera Rubin NVL72系統的甲骨文雲基礎設施（OCI）超級叢集擴充套件至數吉瓦級，並正式提供Vera Rubin NVL72系統及Vera CPU雲服務。甲骨文還計劃推出搭載8顆Rubin GPU的HGX Rubin NVL8系統，以支援前沿模型訓練、推理及智慧體應用。雙方稱，此次合作旨在提高GPU利用率，併為AI工作負載提供可擴充套件的計算能力。"
+    },
+    {
+      "id": "5173863",
+      "time": "2026-10-28 07:18:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列反對派領導人艾森科特：以色列公眾投票支援變革，反對內塔尼亞胡。"
+    },
+    {
+      "id": "5173862",
+      "time": "2026-10-28 07:17:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【甲骨文將於2027年在雲平臺提供谷歌TPU】當地時間10月27日，甲骨文與谷歌宣佈，谷歌張量處理單元（TPU）將接入甲骨文雲基礎設施（OCI），甲骨文將成為谷歌以外首家提供谷歌TPU的超大規模雲服務商。雙方表示，該服務預計於2027年推出，並在多年內逐步擴大規模，支援大模型訓練、推理及智慧體應用。谷歌第八代TPU包括面向訓練的TPU 8t和麵向推理的TPU 8i。"
+    },
+    {
+      "id": "5173861",
+      "time": "2026-10-28 07:17:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍：已攔截並摧毀一枚由葉門胡塞武裝向塔伊夫發射的彈道導彈。"
+    },
+    {
+      "id": "5173860",
+      "time": "2026-10-28 07:15:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【油價延續跌勢，交易員密切關注以色列大選結果】油價連續第二日走低，交易員密切關注這場膠著的以色列選舉，選舉結果或將決定美國對伊朗戰爭走向。西得克薩斯中質原油（WTI）在兩個交易日累計下跌超 3% 後，在每桶 100 美元附近企穩；布倫特原油收盤低於每桶 114 美元。這場高風險選舉舉行之際，中東重啟外交斡旋。沙特、巴基斯坦、土耳其官員已於週一前往德黑蘭磋商。不過伊朗最高領袖穆傑塔巴・哈梅內伊重申了伊朗結束戰爭的既定條件。布倫特原油今年迄今大漲超 85%，今年 2 月內塔尼亞胡與美國總統特朗普聯手打擊德黑蘭，衝突擾動全球能源供應。以色列大選過後，美國下週將迎來中期選舉，特朗普政府支援率或出現下滑。"
+    },
+    {
+      "id": "5173859",
+      "time": "2026-10-28 07:15:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國要求美國立即停止對古巴的封鎖和施壓】中國常駐聯合國代表傅聰27日在聯大審議“必須終止美國對古巴經濟、商業和金融封鎖”議題時發言，要求美國立即停止對古巴的封鎖和施壓。他表示美國對古巴的非法經濟封鎖和單邊經濟制裁已持續60多年，聯大已持續34次討論該議題，相關決議至今尚未落實。他稱未經聯合國安理會授權的單邊制裁沒有國際法依據，敦促有關國家立即終止對古巴的各類制裁和次級制裁措施，將古巴從“支援恐怖主義國家”名單中移除。（新華社）"
+    },
+    {
+      "id": "em:qqyh_zgyh:202610283910635836",
+      "time": "2026-10-28 07:13:33",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【債市制度最佳化持續推進 穩市機制落地 跨市場互聯互通在即】兩項債市制度安排近期正有序推進：10月26日，央行正式推出債市非銀大額贖回互換便利（BNSF）；銀行間和交易所債券市場互聯互通已具備落地條件，待相關主體測試後即可開通。受訪專家認為，上述兩項安排兼顧防範風險與聯通市場，將在維護債券市場平穩執行的同時，提升市場流動性和定價效率，夯實其服務實體經濟的投融資功能。"
+    },
+    {
+      "id": "5173858",
+      "time": "2026-10-28 07:12:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新股提示：北交所森峰鐳射今日申購】今日可申購北交所森峰鐳射，森峰鐳射發行市盈率14.99倍，申購程式碼920085，申購價格17.79元。"
+    },
+    {
+      "id": "5173856",
+      "time": "2026-10-28 07:11:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【人民銳評：姆巴佩的“翻車” 公眾人物的鏡鑑】法國球星姆巴佩，因訪談中的涉華不當言論，引發中國球迷強烈不滿。儘管其本人已釋出宣告致歉，但這場風波丟擲的問題值得深思。公眾人物的商業價值，建立在社會信任與情感基礎之上。名氣越大、擁躉越多，越要為自己的言行負責。沒有哪個品牌願意與負資產同伍。一旦觸碰底線、冒犯公眾，所有的光環都會迅速消散，甚至遭到反噬。如今越來越多明星走向全球舞臺。無論在哪個國家，不能一邊享受市場豐厚回報，一邊輕慢甚至冒犯當地所珍視的歷史文化、社會習俗和民族感情。“吃飯砸鍋”，會把好人緣變成壞口碑。中國人講求“敬人者，人恆敬之”，我們歡迎不同文化的交流碰撞，但基本前提是懂敬畏、守分寸。正是這份開放包容的胸懷和堅守原則的底氣，讓中國贏得理解與尊重。"
+    },
+    {
+      "id": "5173855",
+      "time": "2026-10-28 07:09:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列報道：內塔尼亞胡顧問呼籲“保持耐心”。"
+    },
+    {
+      "id": "5173854",
+      "time": "2026-10-28 07:09:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【賊喊捉賊！宣稱反對部署太空武器，實則全力突進太空戰場，美渲染中俄“太空威脅”】美軍高層官員上個月密集釋放了關於太空作戰的危險訊號後，美情報機構如今又炮製了一份渲染所謂中國、俄羅斯等國“太空威脅”的報告，試圖為其自身發展並部署太空武器找藉口。美國國防部下屬國防情報局（DIA）26日釋出的評估報告宣稱，中國可能在2020年代末部署天基定向能武器，而俄羅斯的在軌武器庫規模正不斷擴大。“美方在報告裡臆測的所謂中方正研製的各類太空武器更像是在說它自己。”軍事專家張軍社對《環球時報》說，美方此前已經把太空定義為攻防一體的作戰域，其真實意圖就是要剝奪其他國家利用太空的能力。在美方推動太空戰場化動向引發國際社會高度警惕之際，這樣一份所謂評估報告不過是“賊喊捉賊”。（環球時報）"
+    },
+    {
+      "id": "5173853",
+      "time": "2026-10-28 07:08:57",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、從16件到大於22件——每萬人口高價值發明專利擁有量如何大幅躍升（解碼“十五五”專項規劃）\n2、黑龍江建立省域林業公用品牌 老山貨賣出新花樣（新場景裡看活力·金秋探豐年）\n3、中國等26國簽署《聯合國可轉讓貨物單證公約》\n4、1.6萬個為農服務中心服務小農戶 新服務啟用田野裡的新質生產力（大資料觀察）\n5、作風互鑑啟用蘇青協作新動能 既算經濟賬，又算民生賬（經濟聚焦·東西部協作）\n6、前9月 全國電力市場交易電量增長18.9%\n7、“蛟龍”號完成7000米級海試\n8、廈門國際銀行探索多元發展路徑 服務僑胞僑企 賦能實體經濟\n9、山東6條措施支援服務業擴能提質\n10、礦產資源“戶口簿”30年來首次大修訂 174個礦種為何要重新登記（有問有答）\n11、最高檢揭露侵犯著作權犯罪新特點 侵權物件向網遊、網劇等新興文化業態蔓延\n12、國家人工智慧應用中試基地（家居家電方向）啟動建設\n13、到2030年，推動交通運輸領域總體實現碳達峰 讓更多“綠色的車”跑上“低碳的路”（美麗中國）\n14、柬埔寨、巴基斯坦、肯亞採取多種舉措——努力遏制電信網路詐騙蔓延（國際視點）\n15、貿易壁壘解不了歐洲競爭力之困（環球走筆）\n16、中國玉蘭發行模式離岸債落地中東\n17、國際民航組織撤銷對利比亞空域限制。"
+    },
+    {
+      "id": "5173852",
+      "time": "2026-10-28 07:08:46",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、“我將無我，不負人民”的時代答卷\n2、習近平致電祝賀盧拉當選連任巴西總統\n3、習近平向日本前首相福田康夫遺屬致唁電\n4、全面從嚴治黨就在身邊\n5、我國風光累計裝機容量超20億千瓦\n6、河南著力做好“三農”工作 因地制宜推進鄉村全面振興（活力中國調研行）\n7、浙江慈溪推動製造業高質量發展——小家電產業煥新升級（先進製造業發展一線見聞）。"
+    },
+    {
+      "id": "5173851",
+      "time": "2026-10-28 07:08:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：吉達和延布的危險已經解除。"
+    },
+    {
+      "id": "5173850",
+      "time": "2026-10-28 07:08:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰海通：Optimus啟動樣機試產 物理AI有望加速突破】國泰海通釋出研報稱，在2026年第三季度財報，特斯拉表示擎天柱(Optimus)人形機器人已開始生產工作，首批符合量產標準的Optimus機器人正式下線。宇樹科技王興興判斷，物理AI目前已經看到被擊穿的苗頭，很可能在最近1-2年或者2-3年。"
+    },
+    {
+      "id": "5173849",
+      "time": "2026-10-28 07:07:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國泰海通：Kimi K3.1 Pro釋出 看好開源模型生態繁榮帶動AI應用加速落地】國泰海通釋出研報稱，月之暗面10月24日凌晨釋出Kimi K3.1 Pro，獨立評測智慧指數全球第四、距閉源前沿僅3分；後訓練算力大幅加碼，長程編碼與Agent基準多榜登頂；API定價較K3下調33%，開源模型商業化路徑進一步清晰，看好開源模型生態繁榮帶動AI應用加速落地。"
+    },
+    {
+      "id": "5173848",
+      "time": "2026-10-28 07:06:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌推出大模型Genie 4】谷歌週二宣佈，推出新一代模型Genie 4。Genie 4能夠根據文字指令構建可探索的虛擬環境，並在使用者持續輸入指令時實時調整場景，讓使用者不僅能夠觀看AI生成的世界，還能進入其中與環境互動。谷歌正探索其在遊戲設計、影視製作、教育和機器人訓練等領域的應用。"
+    },
+    {
+      "id": "5173847",
+      "time": "2026-10-28 07:05:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重視發行質量和成交確定性，港股IPO聚焦存量專案推進】Wind資料顯示，10月以來，截至發稿時，已有9家公司透過港交所上市聆訊。港交所正在處理的公開上市申請涉及354家公司，疊加15家已透過聆訊等待上市公司，369家存量專案正在推進落地。自9月29日柳道實業、九章雲極首次遞表後，截至目前，港交所主機板及創業板已連續多日未見任何常規擬上市企業首次遞表，打破了今年以來港股一級市場的高頻申報節奏。多位受訪人士表示，港股IPO更加註重存量專案的消化和發行落地，這並非市場轉冷，而是技術性節奏調整。截至目前，企業和中介不再盲目趕申報速度，轉而打磨發行質量，市場資金向優質龍頭集中，打新更需關注企業基本面和發行定價。(中證報)"
+    },
+    {
+      "id": "5173846",
+      "time": "2026-10-28 07:03:58",
+      "tags": [
+        "公司",
+        "資料",
+        "國際"
+      ],
+      "text": "【10月28日隔夜要聞一覽】\n1、巴西自由黨聯邦眾議員毛裡西奧·馬爾孔27日稱，在總統選舉中落敗的自由黨候選人弗拉維奧·博索納羅已動身前往美國。\n2、以色列議會選舉出口民調資料顯示，以色列總理內塔尼亞胡陣營未獲議會多數席位。\n3、烏克蘭外交部長瑟比加27日表示，烏方已準備好參加在阿拉伯聯合大公國舉行的烏克蘭、美國和俄羅斯三方會談，將利用一切機會推動實現和平。\n4、蘋果計劃週三在其Pro and Tell活動上釋出新款14和16英寸高階MacBook Pro機型，給現有產品線增加更昂貴的選擇。\n5、Google DeepMind週二以研究預覽形式釋出了其最新世界模型Genie 4。\n6、甲骨文宣佈引入Cerebras AI晶片，預計將於2027年上半年正式部署，甲骨文還宣佈了一系列晶片供應商合作協議，涵蓋英偉達、谷歌及英特爾支援的SambaNova Systems。\n7、波音公司下調全年飛機交付目標，該公司表示，將生產速度提升至更高且可持續的水平需要更多時間，該股股價應聲而跌，創18個月最大跌幅。\n8、美國能源部長克里斯·賴特週二在接受採訪時表示，美國可能根據莫斯科的行為允許更多俄羅斯柴油進入全球市場。"
+    },
+    {
+      "id": "5173845",
+      "time": "2026-10-28 07:02:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：最新預測顯示，雙方票數持平，為51比51。"
+    },
+    {
+      "id": "5173844",
+      "time": "2026-10-28 07:02:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列出口民調顯示，內塔尼亞胡領導的陣營目前與競爭對手艾森科特陣營勢均力敵。"
+    },
+    {
+      "id": "5173843",
+      "time": "2026-10-28 07:00:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門釋出預警，稱延布市可能面臨敵對威脅。"
+    },
+    {
+      "id": "5173842",
+      "time": "2026-10-28 06:59:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門就吉達潛在敵對威脅釋出預警。"
+    },
+    {
+      "id": "5173841",
+      "time": "2026-10-28 06:58:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統抵特朗普達得克薩斯州拉伯克，在停機坪受到市長馬克·麥克佈雷耶迎接。"
+    },
+    {
+      "id": "5173840",
+      "time": "2026-10-28 06:55:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【年內117家公司港股IPO募資逾3900億港元】港股IPO（首次公開募股）發行仍保持高熱度。10月28日，蘇州東山精密製造股份有限公司正式登陸港股市場。萬得資料顯示，按上市日期計算，截至10月27日，今年以來，港股市場有117只新股IPO，同比增長53.95%；募集資金規模3915.16億港元，同比增長98.93%。與去年同期相比，發行節奏、融資體量同步提升，硬體裝置、半導體、軟體服務等企業成為主角。德勤中國將港股全年IPO募資預期上調至不少於4800億港元，四季度大型專案能否如期落地，是觀察全年能否衝擊歷史紀錄的關鍵視窗。（證券日報）"
+    },
+    {
+      "id": "5173839",
+      "time": "2026-10-28 06:54:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【31個省份經濟三季報出爐，12個省份GDP總量超過4萬億元】從各地經濟總量看，前三季度GDP超過4萬億元的省份共有12個。其中，廣東、江蘇前三季度GDP超過10萬億元，分別為111090.77億元、108631.3億元，排在前兩位。山東以82309億元排在第三位。浙江、四川、河南、湖北、福建、上海、安徽分列第四位至第十位。湖南、北京同樣跨過4萬億元門檻，分別達41606.66億元、40468.4億元。從各地增速看，有17個省份前三季度GDP同比增速達到或超過4.5%，其中西藏、山東、浙江等11個省份增速超過5%。（證券日報）"
+    },
+    {
+      "id": "5173838",
+      "time": "2026-10-28 06:51:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣將公佈預算案，為英國和工黨爭取喘息空間。"
+    },
+    {
+      "id": "te:markets:595550",
+      "time": "2026-10-28 06:51:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Extends Losses Ahead of RBNZ, Fed Decisions — The NZX 50 dropped 83 points, or 0.6%, to 13,597 in Wednesday morning deals, extending losses for a fourth straight session as traders remained cautious ahead of the RBNZ’s and the Fed’s monetary policy decisions later today. The market expects the RBNZ to raise the official cash rate by 25 bps to 3% for a third straight meeting, its highest level since September 2025, amid elevated inflation driven by higher oil prices. Although annual inflation slowed to 3.7% in Q3, it remained above the RBNZ’s 1–3% target range. However, moderating oil prices limited the decline, and an upbeat overnight session on Wall Street helped limit losses, supported by a tech rebound ahead of major companies' earnings reports. The broader index touched its lowest level since September 15, dragged down mainly by healthcare, utilities, and energy stocks, with notable losses in Fisher & Paykel (-2.5%), Mercury NZ (-1.5%), Meridian Energy (-1.2%), Contact Energy (-0.8%), and Mainfreight (-0.5%)."
+    },
+    {
+      "id": "5173837",
+      "time": "2026-10-28 06:45:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利計劃恢復現金個人儲蓄賬戶（Cash ISA）限額削減措施。"
+    },
+    {
+      "id": "te:markets:595549",
+      "time": "2026-10-28 06:45:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Increases by 1.18% — Top crypto gainers are Ether (1.18%), XRP (1.14%) and Bitcoin (0.98%)."
+    },
+    {
+      "id": "5173836",
+      "time": "2026-10-28 06:42:11",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 08:15 澳洲聯儲多名官員（聯儲主席布洛克、副主席豪澤、助理主席亨特、瓊斯、肯特）出席議會經濟立法委員會的聽證會；\n② 08:30 澳大利亞三季度CPI；\n③ 09:00 紐西蘭聯儲釋出官方現金利率（OCR）和貨幣政策評估報告；\n④ 10:00 紐西蘭聯儲主席Anna Breman主持新聞釋出會；\n⑤ 15:00 德國11月GfK消費者信心指數，泰國央行公佈利率決議；\n⑥ 20:30 美國9月商品貿易帳，英國財政大臣John Healey遞交自己上任以來的第一份年度預算報告；\n⑦ 21:20 歐洲央行首席經濟學家Lane在柏林講話；\n⑧ 21:45 加拿大央行公佈利率決議；\n⑨ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報，加拿大央行行長麥克勒姆和高階副行長羅傑斯召開貨幣政策新聞釋出會；\n⑩ 次日01:00 蘋果10月第二場釋出會：首款觸控MacBook與新iPad mini同步亮相；\n⑪ 次日02:00 美聯儲釋出FOMC利率決議宣告；\n⑫ 次日02:30 美聯儲主席沃什召開貨幣政策新聞釋出會；\n⑬ 美股盤後 谷歌母公司Alphabet（谷歌A）、微軟、科磊、ServiceNOW、聯邦快遞等釋出業績報告。"
+    },
+    {
+      "id": "5173835",
+      "time": "2026-10-28 06:40:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利眾議院透過資本市場改革法案。"
+    },
+    {
+      "id": "te:markets:595548",
+      "time": "2026-10-28 06:40:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Falls by 2.28% — Top commodity losers are Coffee (-2.28%), Palm Oil (-1.84%) and Oat (-1.80%). Gains are led by Cocoa (1.35%), Rice (0.82%) and Sugar (0.53%)."
+    },
+    {
+      "id": "5173834",
+      "time": "2026-10-28 06:40:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果再次押注買家肯掏更多錢 週三準備揭曉MacBook Pro高階觸屏款】蘋果計劃週三在其Pro and Tell活動上釋出新款14和16英寸高階MacBook Pro機型，給現有產品線增加更昂貴的選擇。這些新品將配備所謂的OLED XDR觸控顯示屏和靈動島設計，對Mac而言均為首次。同時起售價也被推向了新高。據知情人士透露，蘋果公司已討論過將搭載M5 Pro晶片的新款14寸機型售價定在2899美元。這比3月推出、6月提價的當前M5 Pro版本貴400美元。"
+    },
+    {
+      "id": "5173833",
+      "time": "2026-10-28 06:38:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中期分紅陸續兌現，銀行股紅利屬性持續強化】銀行中期分紅正從方案披露進入密集實施階段。上海銀行近日釋出2026年半年度權益分派實施公告，共計派發現金紅利超40億元。與此同時，蘇農銀行、工商銀行、農業銀行等銀行均在10月落地中期分紅。六家國有大行更是將2026年中期分紅比例從30%提升至31%。業內人士表示，銀行基本面改善為銀行分紅提供了空間。在低利率環境下，高股息銀行股配置價值凸顯，銀行也更有動力透過中期分紅穩定投資者預期、增強對長期資金的吸引力。（中證報）"
+    },
+    {
+      "id": "5173832",
+      "time": "2026-10-28 06:35:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府因撤銷企業所有權報告規則而被起訴。"
+    },
+    {
+      "id": "te:markets:595547",
+      "time": "2026-10-28 06:35:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Titanium Falls by 4.65% — Top commodity losers are Titanium (-4.65%) and Iron Ore CNY (-1.12%). Gains are led by Copper (1.85%), Gold (1.13%) and Lithium Carbonate (1.07%)."
+    },
+    {
+      "id": "5173831",
+      "time": "2026-10-28 06:33:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "陸金所控股：第三季度淨利潤為人民幣-14.94億元。"
+    },
+    {
+      "id": "5173830",
+      "time": "2026-10-28 06:32:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "瓦萊羅能源公司：宣佈季度現金股息為每股1.20美元。"
+    },
+    {
+      "id": "5173829",
+      "time": "2026-10-28 06:32:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公募基金三季報披露完畢，債券基金規模創歷史新高】10月27日，公募基金2026年三季報披露完畢。從基金規模來看，截至三季度末，債券型基金總規模超過12.6萬億元，創歷史新高。相較於二季度末，債基規模增加超5000億元，獲淨申購超過2800億份，成為股票型基金、混合型基金、債券型基金、貨幣型基金、商品型基金、QDII、FOF等七大類基金中，獲淨申購最多的一類基金產品。三季度主動權益基金（包括普通股票型、偏股混合型、平衡混合型、靈活配置型基金）規模合計減少超9000億元，規模超200億元的主動權益產品數量減少至5只。"
+    },
+    {
+      "id": "5173828",
+      "time": "2026-10-28 06:31:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏開始區域性停火但多地打擊未停 雙方核心分歧仍難突破】美國總統特朗普的夫人梅拉尼婭27日發文稱，俄烏在赫爾松阿列什基的停火協議已於莫斯科時間27日凌晨4時提前生效，比原計劃提前兩天，範圍擴大至阿列什基以外，以保障人道救援車隊安全通道，俄軍總參謀長格拉西莫夫已證實。俄方稱赫爾松方向實行“靜默制度”至11月1日；烏方確認人道行動啟動、停火持續至11月1日。專家認為此次停火戰術戰略意義有限，難撬動整體僵局；當天俄軍仍對烏多地軍工企業和交通物流設施發動大規模打擊。（央視新聞）"
+    },
+    {
+      "id": "5173827",
+      "time": "2026-10-28 06:30:44",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【中證報：盈利穩健估值低位，核心資產迎來重估契機】“一個雪球埋在雪裡，你只看到一點點，以為是個小雪球，它其實是個大雪球，被低估了就是深度折價。你買它的時候，已經賺到了。”睿遠基金董事總經理趙楓說。近日，多家基金機構在接受採訪時表示，當前經濟向新向優帶動企業盈利仍處週期高位，優質龍頭在殺估值後配置價值已經凸顯；大盤藍籌憑藉穩定分紅現金流與紮實淨資產構築的安全墊，在低利率環境中展現出更突出的吸引力，A股核心資產正迎來價值重估的契機。"
+    },
+    {
+      "id": "te:markets:595546",
+      "time": "2026-10-28 06:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Drops by 4.90% — Top commodity losers are Methanol (-4.90%), Heating Oil (-3.34%), Gasoline (-2.79%), Crude Oil (-1.96%) and Brent Oil (-1.83%). Gains are led by Natural gas (4.29%)."
+    },
+    {
+      "id": "5173826",
+      "time": "2026-10-28 06:28:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音獲4.998億美元合同修訂，用於阿帕奇AH-64工程服務和技術支援。"
+    },
+    {
+      "id": "5173825",
+      "time": "2026-10-28 06:25:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Claude Enterprise正透過FedRAMP 20X專案接受FedRAMP Moderate授權認證。"
+    },
+    {
+      "id": "5173824",
+      "time": "2026-10-28 06:24:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Claude產品折扣範圍擴大至州、地方、部落及領地政府。"
+    },
+    {
+      "id": "5173823",
+      "time": "2026-10-28 06:24:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：還啟動了一項專門計劃，幫助各機構實施並充分利用Claude。"
+    },
+    {
+      "id": "5173822",
+      "time": "2026-10-28 06:24:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：擴大與GSA的合作，面向政府客戶提供Claude產品40%折扣。"
+    },
+    {
+      "id": "5173821",
+      "time": "2026-10-28 06:24:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列議會選舉投票率達77.7% 創1999年以來新高】當地時間27日晚，據以色列中央選舉委員會公佈的資料，截至晚間10點，當天以色列議會選舉的選民投票率達到77.7%，高於2022年選舉同一時間點的70.6%，創下1999年以來同一時間點的最高紀錄。（央視新聞）"
+    },
     {
       "id": "5173820",
       "time": "2026-10-28 06:17:22",
