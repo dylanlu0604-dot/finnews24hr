@@ -1,7 +1,192 @@
 {
-  "updated": "2026-10-28 09:05:29",
-  "count": 13054,
+  "updated": "2026-10-28 09:09:16",
+  "count": 13065,
   "items": [
+    {
+      "id": "mkt:01a1800d-86f6-7ee0-a9a7-25e9486a33a0",
+      "time": "2026-10-28 09:08:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SK Hynix says it will fully utilize its existing Six-F-Square technology."
+    },
+    {
+      "id": "5174277",
+      "time": "2026-10-28 09:08:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【紐西蘭央行將基準利率維持在2.75% 預估為上調至3.00%】紐西蘭央行週三在宣告中稱：“全球經濟增長雖展現出韌性，但因地緣政治緊張局勢、能源價格高企、金融壓力以及AI相關投資激增而越來越脆弱。紐西蘭的復甦勢頭可能強於預期，但如果全球環境惡化或出口增長未能轉化為就業、收入和家庭支出，就可能失去動能。”“委員會所有成員就通脹的總體前景達成共識，但在各種風險的權重以及貨幣政策響應時機上存在分歧。委員會一致認為可能需要收緊貨幣政策，但這仍取決於經濟前景。”"
+    },
+    {
+      "id": "mkt:01a1800c-b3f2-7ee0-a9a7-1c4ef03743fd",
+      "time": "2026-10-28 09:07:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【U.S. warns Gulf states it may launch short, intense strike on Iran after midterms】The Wall Street Journal, citing people familiar with the matter, reports the U.S. has asked several Gulf Arab states to prepare for a possible short, intense military strike on Iran after the U.S. midterm elections. Washington has conveyed the warning via diplomatic and military channels and, together with Israel, is reportedly preparing for fresh strikes intended to degrade Tehran—a move that could trigger significant escalation. U.S. forces are deploying a Patriot air‑defense battery from Texas, repositioning troops from vulnerable bases, replenishing munitions, and preparing bombers and fighters; a carrier strike group and a Marine expeditionary unit are also scheduled to join roughly 20 warships already operating in the region next month. Sources say President Trump has not decided but favors a post‑election large‑scale strike that could target Iranian infrastructure and nuclear sites."
+    },
+    {
+      "id": "5174272",
+      "time": "2026-10-28 09:07:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國告知海灣國家，中期選舉後或重啟短時高強度對伊朗戰事】媒體援引知情人士稱，美國已經通知多個海灣阿拉伯國家，要為美國中期選舉之後一場短時、高強度的軍事行動做好準備。美方透過外交與軍事渠道傳遞的這份訊息，是越來越多訊號中的一則：美國與以色列正籌備新一輪大規模對伊朗作戰，行動存在局勢嚴重升級的風險，美方希望藉此削弱伊朗實力，迫使伊朗走上談判桌。熟悉部署情況的官員表示，美軍正從得克薩斯州調派愛國者防空系統強化導彈防禦，同時把部隊撤出易受攻擊的基地，為衝突升級做準備。部分官員稱，駐中東美軍正在補充彈藥儲備，轟炸機與戰鬥機已經做好打擊準備。另外一支航母打擊群和一支海軍陸戰隊遠征分隊，計劃下月加入中東海域約 20 艘其他軍艦組成的艦隊，不過部分艦艇可能輪換撤離。瞭解特朗普想法的人士表示，總統尚未下達行動指令，但傾向於在選舉後發起大規模襲擊，目標包含伊朗基礎設施與核設施。另一條備選路線是促成協議。地區斡旋方的外交努力仍在推進，但暫未取得成果。"
+    },
+    {
+      "id": "mkt:01a1800c-9059-7ee0-a9a7-110d7917deab",
+      "time": "2026-10-28 09:07:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ says committee is focused on the medium-term inf outlook."
+    },
+    {
+      "id": "mkt:01a1800c-7ca5-7ee0-a9a7-0ee2d137678a",
+      "time": "2026-10-28 09:07:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fullgoal Nasdaq ETF will suspend trading from market open on Oct. 28, 2026 until 10:30 a.m. local time."
+    },
+    {
+      "id": "mkt:01a1800c-7182-7ee0-a9a7-07338a0b6a3f",
+      "time": "2026-10-28 09:07:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ: Domestic wage growth weak; medium‑term inflation expectations stable."
+    },
+    {
+      "id": "mkt:01a1800c-2887-7ee0-a9a6-fae2a494a309",
+      "time": "2026-10-28 09:07:22",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "RBNZ: With a lower exchange rate and declines in some term loan rates, parts of domestic financial conditions have eased."
+    },
+    {
+      "id": "5174260",
+      "time": "2026-10-28 09:07:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拉卡拉成立青橙雲數智科技公司】企查查APP顯示，近日，上海青橙雲數智科技有限公司成立，經營範圍包含資訊系統整合服務；智慧控制系統整合；計算機系統服務等。企查查股權穿透顯示，該公司由拉卡拉全資持股。"
+    },
+    {
+      "id": "5174259",
+      "time": "2026-10-28 09:06:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：將充分利用現有SIX-F-SQUARE技術。"
+    },
+    {
+      "id": "mkt:01a1800b-9501-7ee0-a9a6-f48d34883dce",
+      "time": "2026-10-28 09:06:44",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBNZ: Despite two prior official cash rate (OCR) hikes, there remains a risk that inf becomes entrenched before conventional forward‑looking indicators react."
+    },
+    {
+      "id": "mkt:01a1800b-5b87-7ee0-a9a6-eb4c9f3afbca",
+      "time": "2026-10-28 09:06:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBNZ members agreed they may need to tighten monetary policy in the future."
+    },
+    {
+      "id": "5174258",
+      "time": "2026-10-28 09:06:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲2%，現報5201.00元。"
+    },
+    {
+      "id": "mkt:01a1800a-e5fb-7ee0-a9a6-e496c1e44b4b",
+      "time": "2026-10-28 09:06:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ: Risks to the global outlook are becoming more pervasive."
+    },
+    {
+      "id": "5174257",
+      "time": "2026-10-28 09:05:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長鑫科技已被納入上證綜合指數 位列第一大權重股】根據中證指數公司網站，長鑫科技已被納入上證綜合指數，權重為4.67%，當前為指數第一大權重股。長鑫科技也被納入上證科創板綜合指數，權重為15.74%，也為第一大權重股。根據編制方案，權重因子於每月第二個星期五的下一交易日或新計入樣本權重超過15%時調整。"
+    },
+    {
+      "id": "5174256",
+      "time": "2026-10-28 09:05:42",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲：仍專注於在中期內將通脹率恢復至2%的目標中值。"
+    },
+    {
+      "id": "mkt:01a1800a-880e-7ee0-a9a6-d891bce2a9c3",
+      "time": "2026-10-28 09:05:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "RBNZ says sustained rise in refined oil prices and exchange-rate depreciation could raise the risk of indirect inf effects."
+    },
+    {
+      "id": "5174255",
+      "time": "2026-10-28 09:05:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 美國向海灣國家預警，中期選舉後或對伊朗採取軍事行動。"
+    },
+    {
+      "id": "mkt:01a1800a-5bb3-7ee0-a9a6-d45aab51d4f3",
+      "time": "2026-10-28 09:05:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. and Brent crude each rose $0.80 intraday to $100.28/bbl and $110.37/bbl, respectively."
+    },
+    {
+      "id": "mkt:01a1800a-537b-7ee0-a9a6-c8c409997404",
+      "time": "2026-10-28 09:05:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ: Economic recovery continues, but performance remains uneven."
+    },
     {
       "id": "mkt:01a18009-ccea-7ee0-a9a6-c7ca97e8fe5a",
       "time": "2026-10-28 09:04:48",
@@ -117177,95 +117362,6 @@
         "國際"
       ],
       "text": "【印尼央行將利率決議提前至當地時間13:30公佈】根據週三釋出的一條簡訊宣告，印尼央行將利率決議釋出會時間從下午14:00 點提前至下午13:30。"
-    },
-    {
-      "id": "mkt:01a15c00-78b1-7ee0-a914-7f2bae57f001",
-      "time": "2026-10-21 09:08:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell 1.00% intraday to $57.41/oz."
-    },
-    {
-      "id": "mkt:01a15c00-77f3-7ee0-a914-718c45b0d59d",
-      "time": "2026-10-21 09:08:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nomura projects South Korea's Q3 GDP will be stronger than previously forecast, estimating July-September GDP +1.6% QoQ and +4.0% YoY versus earlier forecasts of +0.1% QoQ and +2.4% YoY."
-    },
-    {
-      "id": "mkt:01a15c00-4402-7ee0-a914-69df998ab945",
-      "time": "2026-10-21 09:08:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nomura raised its forecast for South Korea's Q3 GDP growth to 4.0% YoY."
-    },
-    {
-      "id": "5157190",
-      "time": "2026-10-21 09:07:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧將於孟買當地時間上午9點會見塔塔集團執行長。"
-    },
-    {
-      "id": "mkt:01a15bff-5b1e-7ee0-a914-663fe4a333ff",
-      "time": "2026-10-21 09:07:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "DAX",
-        "Impact bearish"
-      ],
-      "text": "【Wall Street Journal: Failed German airport attack an 'opening salvo' in Russia's sabotage campaign against Europe】The Wall Street Journal reports that in early August a large Antonov cargo plane parked at an eastern German airport — previously used to transport military aid to Ukraine — was struck in an attack by explosive-laden drones. German officials say the drones were controlled by Russian military intelligence; one hit the Antonov but failed to detonate, a second struck another aircraft, and a third exploded in the airport perimeter. Investigators said the attack, had it succeeded, could have caused major disruption and casualties at one of Europe’s key air-freight hubs. A European official familiar with the intelligence said U.S. agencies assess the attempted strike at Leipzig-Halle Airport this summer is among the 'opening acts' of an escalating campaign of sabotage and covert operations ordered directly by Putin against NATO states."
-    },
-    {
-      "id": "mkt:01a15bff-51e5-7ee0-a914-5deb1f6d1bf8",
-      "time": "2026-10-21 09:07:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold fell below $4,110/oz, down 0.37% intraday."
-    },
-    {
-      "id": "5157189",
-      "time": "2026-10-21 09:06:47",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：三季度印度智慧手機市場出貨量創近十年同期新低】10月21日，Omdia最新研究顯示，2026年第三季度，印度智慧手機出貨量同比下降26%至3580萬部，創近十年同期新低。手機價格上漲與消費者支出趨於謹慎抑制了換機需求，部分節慶備貨延後進一步拖累當季出貨。三星重回榜首，vivo、OPPO、小米和蘋果分列第二至第五。展望2027年，高企的手機價格和延長的換機週期將繼續制約需求，預計市場出貨量仍將出現低個位數百分比的下滑。"
-    },
-    {
-      "id": "5157188",
-      "time": "2026-10-21 09:06:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "野村稱，韓國經濟第三季度增速可能快於預期。預計7-9月期間GDP環比增長1.6%、同比增長4.0%，遠高於早前預測的環比增長0.1%和同比增長2.4%。"
-    },
-    {
-      "id": "5157187",
-      "time": "2026-10-21 09:05:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "野村將韓國第三季度GDP同比增長預期上調至4.0%。"
     }
   ]
 }
