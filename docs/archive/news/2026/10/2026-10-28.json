@@ -1,7 +1,76 @@
 {
   "date": "2026-10-28",
-  "count": 871,
+  "count": 879,
   "items": [
+    {
+      "id": "5174406",
+      "time": "2026-10-28 09:38:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【零售板塊回撥，百大集團、國光連鎖跌超8%】零售板塊回撥，百大集團、國光連鎖跌超8%，中百集團、新華百貨、東百集團跟跌。"
+    },
+    {
+      "id": "mkt:01a18028-8808-7ee0-a9a8-5fdf6cceb514",
+      "time": "2026-10-28 09:38:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000858.SZ",
+        "Impact bearish"
+      ],
+      "text": "A-share baijiu sector weakened; Huangtai Distillery fell more than 9%, with Jinzhongzi, Jinhui, Wuliangye and Shanxi Fenjiu also lower."
+    },
+    {
+      "id": "5174397",
+      "time": "2026-10-28 09:37:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【白酒板塊持續走低，皇臺酒業跌超9%】白酒板塊持續走低，皇臺酒業跌超9%，金種子酒、金徽酒、五糧液、山西汾酒跟跌。"
+    },
+    {
+      "id": "mkt:01a18027-ad7a-7ee0-a9a8-5535f4e6c41d",
+      "time": "2026-10-28 09:37:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "07747.HK",
+        "Impact bullish",
+        "07709.HK",
+        "09976.HK"
+      ],
+      "text": "Hong Kong memory names climbed in early trade: Southern 2x long Samsung Electronics (07747) rose over 18%; Southern Eastspring SK Hynix (07709) climbed over 14%; Jiangbolong (09976.HK) and Lanqi Technology (06809.HK) gained about 6%; GigaDevice (03986.HK) rose about 5%."
+    },
+    {
+      "id": "5174395",
+      "time": "2026-10-28 09:37:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "港股儲存概念盤初上揚，南方兩倍做多三星電子(07747)漲超18%，南方東英SK海力士(07709)漲超14%，江波龍(09976.HK)、瀾起科技(06809.HK)漲超6%，兆易創新(03986.HK)漲超5%。"
+    },
+    {
+      "id": "5174389",
+      "time": "2026-10-28 09:35:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【減速器板塊再度活躍，寧波東力等多股漲停】減速器板塊再度活躍，寧波東力、山東礦機、五洲新春、襄陽軸承、光洋股份漲停，恆工精密漲超15%，南方精工、斯菱智驅、浙江榮泰、通力科技、愛仕達跟漲。"
+    },
+    {
+      "id": "te:markets:595590",
+      "time": "2026-10-28 09:35:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Steady as Fed Decision Looms — Silver held steady above $54 an ounce on Wednesday after gaining some ground in the previous session, as investors awaited the US Federal Reserve’s upcoming policy decision and assessed Israeli election results for potential implications on the Middle East conflict. The Fed is widely expected to keep interest rates unchanged, although traders will look for clues regarding a possible rate hike in December. Meanwhile, the Reserve Bank of New Zealand kept its policy rate steady despite market expectations for another increase, signaling a cautious stance toward further monetary tightening. On the geopolitical front, oil prices remained volatile amid a closely contested Israeli election that could influence the course of the Middle East conflict. Silver has faced sustained pressure this year as regional tensions fueled inflation concerns and strengthened expectations for higher interest rates, reducing the appeal of the non-yielding precious metals."
+    },
     {
       "id": "mkt:01a18025-ad43-7ee0-a9a8-4c9e5aae8b9f",
       "time": "2026-10-28 09:35:15",
@@ -29,6 +98,15 @@
         "市場"
       ],
       "text": "【人形機器人概念反覆活躍 寧波東力直線漲停】人形機器人概念反覆活躍，寧波東力直線漲停，斯菱智驅、五洲新春、福萊新材、浙江榮泰跟漲。"
+    },
+    {
+      "id": "em:jjsj_ozsj:202610283911171883",
+      "time": "2026-10-28 09:34:42",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "【澳大利亞9月CPI同比上漲4.3%，住房和交通成本推高通脹】10月28日，澳大利亞統計局公佈資料顯示，澳大利亞9月消費者價格指數（CPI）同比上漲4.3%，高於8月的4.0%。住房價格同比上漲5.2%，為通脹最大貢獻項，其中新建住宅價格上漲4.7%；交通價格上漲8.7%，主要受汽車燃油價格走高推動。9月汽車燃油價格環比上漲9.4%，低於8月的14.8%。"
     },
     {
       "id": "5174386",
