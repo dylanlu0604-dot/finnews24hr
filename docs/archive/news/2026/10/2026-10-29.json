@@ -1,7 +1,31 @@
 {
   "date": "2026-10-29",
-  "count": 455,
+  "count": 457,
   "items": [
+    {
+      "id": "5177160",
+      "time": "2026-10-29 03:32:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "“新債王”岡拉克：仍建議以“槓鈴策略”將30%的資產配置於債券。"
+    },
+    {
+      "id": "mkt:01a183fe-a858-7ee0-a9ca-f5b8bd46a6b3",
+      "time": "2026-10-29 03:31:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Fed Chair Kevin Warsh's tone seen dovish; US two-year Treasury yield falls】US two-year Treasury yield slid below 4.70% from about 4.78% (down roughly 8bps) after Fed Chair Kevin Warsh's post-meeting remarks were read by some traders as dovish following a press conference that disclosed little about the committee's decision process. Warsh said that since the September rate increase financial and credit conditions have begun to tighten and that those developments \"help achieve longer-term, more durable economic growth and price stability.\""
+    },
     {
       "id": "mkt:01a183fc-1f13-7ee0-a9ca-ee3dd7b30e15",
       "time": "2026-10-29 03:28:20",
