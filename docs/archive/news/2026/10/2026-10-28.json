@@ -1,7 +1,79 @@
 {
   "date": "2026-10-28",
-  "count": 1307,
+  "count": 1315,
   "items": [
+    {
+      "id": "mkt:01a18145-c40b-7ee0-a9ae-0ca8e047a396",
+      "time": "2026-10-28 14:49:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor of the Exchequer cancels fixed charge on gas bills, saying the change aims to make billing fairer."
+    },
+    {
+      "id": "mkt:01a18145-50f2-7ee0-a9ae-00d3b79afab7",
+      "time": "2026-10-28 14:49:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【TD Securities: US Treasury likely to take preliminary steps to adjust auction sizes】TD Securities rate strategists Gennadiy Goldberg and Molly Brooks say the US Treasury is expected to leave coupon Treasury auction sizes unchanged in next week’s quarterly refunding announcement but may drop prior guidance that sizes will remain steady. They warn removing the guidance would not mean an immediate change in auctions but would alert markets that adjustments are imminent. TD Securities expects the Treasury to cut 20‑ and 30‑year auction sizes in the Feb 2027 quarterly refunding and to expand 2‑ to 10‑year auction sizes in the May 2027 refunding to gradually reduce long-term issuance as the term premium rises."
+    },
+    {
+      "id": "5175052",
+      "time": "2026-10-28 14:48:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保樂力加中國執行長朱禮安一行到訪中國酒業協會】10月27日，保樂力加中國執行長朱禮安一行到訪中國酒業協會，宋書玉理事長熱情接待。雙方圍繞中國酒類市場形勢、社會責任與理性飲酒推廣、威士忌本土化發展、深化協會與企業合作等議題展開交流。"
+    },
+    {
+      "id": "5175050",
+      "time": "2026-10-28 14:48:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆基綠能旗下銀川矽材料公司增資至34億 增幅240%】天眼查App顯示，近日，銀川隆基矽材料有限公司發生工商變更，註冊資本由10億人民幣增至34億人民幣，增幅240%。該公司成立於2009年11月，法定代表人為郝凱，經營範圍包括道路貨物運輸、半導體器件專用裝置製造、半導體器件專用裝置銷售等，由隆基綠能科技股份有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a18144-2cff-7ee0-a9ad-fbae11849d76",
+      "time": "2026-10-28 14:48:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-share co-packaged optics (CPO) concept stocks rallied late; Zhongfu Circuit and Zhongji Xuchuang rose nearly 10%, Xinyisheng climbed over 8%, and Cambridge Technology, Guangku Technology and Hengdongguang also advanced."
+    },
+    {
+      "id": "5175049",
+      "time": "2026-10-28 14:47:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "德意志銀行<DBKGn.DE>公佈第三季度業績後，其股票在盤前交易中上漲2%。"
+    },
+    {
+      "id": "5175048",
+      "time": "2026-10-28 14:46:59",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛：下調滙豐目標價至188港元，維持“買入”評級】高盛發表研報指，滙豐控股第三季基本除稅前溢利為100億美元，低於該行預期4%，符合市場預期，弱於預期的銀行及非銀行淨利息收入被較低撥備所抵銷。滙豐股價昨日收跌5.6%，投資者討論集中於銀行淨利息收入走勢，因存款beta高於預期，以及管理層提及存款競爭加劇及活期存款轉定期，尤其在香港。該行認為，若市況持續疲弱，進一步轉移仍有可能；惟部分壓力或屬自身因素，因銀行擬在香港守護或爭取存款市佔，以支援更強貸款增長，並在恒生銀行私有化後重建定位。該行主要因對淨利息收入軌跡更審慎而下調盈利預測，將銀行淨利息收入預測最多下調3.2%，並將非銀行淨利息收入最多下調約2%，2026至2029年基本除稅前溢利預測最多低於市場預期約3%。該行將其目標價由192港元下調2%至188港元，維持“買入”評級。"
+    },
+    {
+      "id": "5175047",
+      "time": "2026-10-28 14:46:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CPO概念尾盤活躍 中際旭創漲近10%】CPO概念尾盤活躍，中際旭創漲近10%，新易盛、劍橋科技、光庫科技、蘅東光、匯綠生態跟漲。"
+    },
     {
       "id": "mkt:01a18141-a7dd-7ee0-a9ad-f696fb59bc94",
       "time": "2026-10-28 14:45:25",
