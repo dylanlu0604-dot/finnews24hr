@@ -1,7 +1,200 @@
 {
   "date": "2026-10-28",
-  "count": 2081,
+  "count": 2099,
   "items": [
+    {
+      "id": "mkt:01a182bc-bb61-7ee0-a9bb-da121fe7bff1",
+      "time": "2026-10-28 21:39:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Office for Budget Responsibility: probability of meeting fiscal targets now 56%, down from 59% at the 2025 Budget."
+    },
+    {
+      "id": "mkt:01a182bc-9101-7ee0-a9bb-d414b53405bf",
+      "time": "2026-10-28 21:39:18",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "The UK Office for Budget Responsibility (OBR) said if energy prices return to its March forecast path, it expects faster disinflation, stronger near-term GDP growth and potential loosening of financial conditions."
+    },
+    {
+      "id": "mkt:01a182bc-74ac-7ee0-a9bb-ce3beee73120",
+      "time": "2026-10-28 21:39:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "UK Office for Budget Responsibility says if energy prices peak at a higher level and remain elevated for longer, it expects inflation to rise, near-term GDP growth to weaken and financial conditions could tighten."
+    },
+    {
+      "id": "5176617",
+      "time": "2026-10-28 21:38:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "捷藍航空股價在前一交易日上漲近 19% 後下跌 1%。"
+    },
+    {
+      "id": "5176616",
+      "time": "2026-10-28 21:38:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "通用電氣Vernova股價下跌5.3%；公司將斥資90億美元收購Trench Group。"
+    },
+    {
+      "id": "te:markets:595866",
+      "time": "2026-10-28 21:37:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "S&P and Nasdaq Gain — US stocks were mostly higher on Wednesday, with the S&P 500 rising 0.3% and the Nasdaq adding 0.4% while the Dow Jones traded around the flatline. Investors remained cautious ahead of the Fed’s monetary policy decision later in the day and awaited quarterly earnings from major companies, including Microsoft and Alphabet, due after the closing bell. The Fed is widely expected to leave interest rates unchanged, following a 25bps rate hike last month, with investors focused on policymakers’ guidance for the remainder of the year. Meanwhile, US semiconductor stocks advanced in premarket trading, supported by record quarterly profits from South Korea’s SK Hynix. Broadcom (2%), Micron Technology (4.9%), AMD (1.8%) were higher and Alphabet added 1.2% amid news that OpenAI plans to buy Google's AI chips. In contrast, real estate and materials were the worst performing sectors."
+    },
+    {
+      "id": "5176615",
+      "time": "2026-10-28 21:37:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "布林克股價延續漲勢，最新上漲6.0%。"
+    },
+    {
+      "id": "mkt:01a182ba-f19e-7ee0-a9bb-c083091551ea",
+      "time": "2026-10-28 21:37:31",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "The UK Office for Budget Responsibility said the margin to absorb risks and uncertainties inherent in any medium-term fiscal forecast is very small."
+    },
+    {
+      "id": "mkt:01a182ba-b635-7ee0-a9bb-b8f56c062a0e",
+      "time": "2026-10-28 21:37:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Office for Budget Responsibility (OBR) says a 0.5 percentage-point upside to UK productivity versus its forecast could cut government borrowing by about £50 billion; a 0.5pp downside could raise borrowing by about £40 billion."
+    },
+    {
+      "id": "te:markets:595864",
+      "time": "2026-10-28 21:37:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yields Fall as Markets Digest Budget — UK 10-year gilt yields fell toward 5.3%, reaching their lowest level in over a month as investors assessed Chancellor John Healey’s first budget. Healey reaffirmed his commitment to the government’s fiscal rules, with the Office for Budget Responsibility (OBR) estimating fiscal headroom at £15 billion for 2029–30, in line with expectations. Key measures include energy bill relief, lower-than-expected bank tax increases, tariff suspensions on more than 100 supermarket products and a 3.9% increase in minimum wages. The budget also allocates an additional £20.4 billion to the National Wealth Fund and the British Business Bank to support investment and 140,000 jobs. Meanwhile, the OBR cut its 2027 GDP growth forecast to 1% from 1.6%, citing the economic impact of the Iran war, while raising its 2026 projection to 1.2% from 1.1%. Borrowing and public debt forecasts were also revised higher across the outlook period."
+    },
+    {
+      "id": "mkt:01a182ba-71f4-7ee0-a9bb-b2e52971d09b",
+      "time": "2026-10-28 21:36:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "UK Office for Budget Responsibility: a 1 percentage-point move in interest rates could raise or lower government debt interest costs by about £16 billion."
+    },
+    {
+      "id": "mkt:01a182ba-632c-7ee0-a9bb-ac5f23430320",
+      "time": "2026-10-28 21:36:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Office for Budget Responsibility says the probabilities of a material improvement or deterioration in public finances and the economy are roughly equal."
+    },
+    {
+      "id": "mkt:01a182ba-2348-7ee0-a9bb-a5e0ecd0d184",
+      "time": "2026-10-28 21:36:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WBG expects fertilizer prices to rise 14% in 2026, driven by a surge in urea prices, and to return to 2025 levels in 2027."
+    },
+    {
+      "id": "mkt:01a182ba-1bda-7ee0-a9bb-9c688a2d3051",
+      "time": "2026-10-28 21:36:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK bonds rose; 30-year government bond yield fell 3bps to 5.72%."
+    },
+    {
+      "id": "mkt:01a182b9-f98d-7ee0-a9bb-97ab8920e683",
+      "time": "2026-10-28 21:36:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "European natural gas prices hit €100 for the first time since the 2022 energy crisis."
+    },
+    {
+      "id": "5176614",
+      "time": "2026-10-28 21:36:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲天然氣價格自2022年能源危機以來首次觸及100歐元。"
+    },
+    {
+      "id": "mkt:01a182b9-5f9c-7ee0-a9bb-890bfc538fdd",
+      "time": "2026-10-28 21:35:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "WBG says in adverse scenarios energy and food commodity prices could surge, pushing global inf higher."
+    },
+    {
+      "id": "5176613",
+      "time": "2026-10-28 21:35:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國預算責任辦公室：預計2027-28年度稅收佔GDP比重將超過37.2%的歷史高點，並在預測期內的每一年持續上升。"
+    },
     {
       "id": "mkt:01a182b9-06c0-7ee0-a9bb-80a9423bcc72",
       "time": "2026-10-28 21:35:26",
