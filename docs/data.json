@@ -1,7 +1,216 @@
 {
-  "updated": "2026-10-28 08:31:01",
-  "count": 13017,
+  "updated": "2026-10-28 08:34:52",
+  "count": 13032,
   "items": [
+    {
+      "id": "mkt:01a17fed-eac3-7ee0-a9a5-a7e485b73392",
+      "time": "2026-10-28 08:34:20",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) says structural chip supply-demand imbalance will persist in the near term."
+    },
+    {
+      "id": "5174066",
+      "time": "2026-10-28 08:34:00",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【華泰證券：AI大廠加碼具身大腦，數採與硬體環節有望率先受益】華泰證券研報表示，機器人領域，AI大廠集中佈局具身大腦，通用模型的任務規劃與泛化能力快速提升。模型能力仍是行業核心瓶頸，但進一步突破越來越依賴真機資料，落地還需解決時延與成本，資料採集與感知、本體運控、高精度傳動環節有望率先受益。智駕領域，工信部擬規定自動駕駛系統標誌燈僅限L3及以上車輛選裝，L3責任邊界逐步明確，2027—2028年的L3准入節奏將成為車企智駕競爭的關鍵變數。投資上，聚焦具備客戶基礎和量產能力的產業鏈公司。"
+    },
+    {
+      "id": "5174065",
+      "time": "2026-10-28 08:33:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic 據稱正在考慮向散戶投資者提供 15% 至 20% 的 IPO 股份。"
+    },
+    {
+      "id": "mkt:01a17fed-2439-7ee0-a9a5-9c31dbd71b96",
+      "time": "2026-10-28 08:33:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Refinitiv: U.S. spending on war with Iran tops $47.0 bln】Refinitiv review of Pentagon data shows the U.S. military has spent more than $47.0 bln to date on operations against Iran, over 25% above the Pentagon’s July estimate. Most spending went to replenishing expended ammunition (>$29.0 bln) and replacing military equipment (>$6.0 bln). The data did not include a cost estimate for repairs to U.S. bases damaged by Iranian missile and drone strikes."
+    },
+    {
+      "id": "5174064",
+      "time": "2026-10-28 08:33:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元擴大漲幅，第三季度通脹快於預期。"
+    },
+    {
+      "id": "5174063",
+      "time": "2026-10-28 08:32:45",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：看好具備SOTA能力溢價的頭部模型廠商及AI基建、AI應用的投資機會】中信證券研報表示，Anthropic上市將為AI產業提供關鍵錨點。與此前釋出的Anthropic深度報告相比，公司模型能力再上臺階，但市場對競爭格局與商業化節奏的分歧有所加大。招股書首次較完整披露了前沿模型公司的收入結構、費用結構與算力承諾：26Q2算力費用率降至48%、調整後經營利潤率19%，披露口徑下算力相關承諾合計約8500億美元，驗證了頭部模型廠商在算力約束下實現規模化盈利的可能，有望降低市場對AI投入產出的分歧，併為OpenAI等前沿實驗室的後續上市提供定價參照。看好具備SOTA能力溢價的頭部模型廠商及AI基建、AI應用的投資機會，後續重點跟蹤商業化產品形態、模型廠商競爭格局演變、算力承諾兌現節奏及收入利潤增長曲線。(21財經)"
+    },
+    {
+      "id": "5174057",
+      "time": "2026-10-28 08:32:21",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "Anthropic據悉選擇摩根大通牽頭其IPO的美國散戶發行部分。"
+    },
+    {
+      "id": "mkt:01a17feb-903a-7ee0-a9a5-944bf4c4a07a",
+      "time": "2026-10-28 08:31:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O): Major customers' AI revenue and cash flow will improve; AI investment burden on major customers will ease."
+    },
+    {
+      "id": "mkt:01a17feb-4082-7ee0-a9a5-8f8698af7857",
+      "time": "2026-10-28 08:31:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) launched its Muse personal AI agent in Singapore."
+    },
+    {
+      "id": "mkt:01a17feb-3d90-7ee0-a9a5-859d0a969c4b",
+      "time": "2026-10-28 08:31:25",
+      "tags": [
+        "MKT News",
+        "AUDUSD"
+      ],
+      "text": "AUD/USD briefly rose more than 10 pips to a high of 0.7053."
+    },
+    {
+      "id": "mkt:01a17fea-d7cc-7ee0-a9a5-7bacd56363e3",
+      "time": "2026-10-28 08:30:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia September seasonally adjusted CPI YoY 4.4% (prior 3.9%)."
+    },
+    {
+      "id": "mkt:01a17fea-c090-7ee0-a9a5-744c1a796b85",
+      "time": "2026-10-28 08:30:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia seasonally adjusted September CPI MoM 0.6%, prior 0.7%."
+    },
+    {
+      "id": "mkt:01a17fea-c04b-7ee0-a9a5-68a6283e05f7",
+      "time": "2026-10-28 08:30:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Seasonally adjusted CPI YoY (Sep) | actual 4.4% | previous 3.9%"
+    },
+    {
+      "id": "mkt:01a17fea-a702-7ee0-a9a5-6768662f7dac",
+      "time": "2026-10-28 08:30:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Seasonally adjusted CPI MoM (Sep) | actual 0.6% | previous 0.7%"
+    },
+    {
+      "id": "5174042",
+      "time": "2026-10-28 08:30:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：主要客戶的人工智慧收入和現金流將有所改善。"
+    },
+    {
+      "id": "mkt:01a17fea-489a-7ee0-a9a5-5d95d09efdfb",
+      "time": "2026-10-28 08:30:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia Q3 CPI YoY 3.9% (consensus 3.9%, prior 4.0%)."
+    },
+    {
+      "id": "mkt:01a17fea-2fbe-7ee0-a9a5-57f7fa65e5b1",
+      "time": "2026-10-28 08:30:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | CPI (YoY) (Q3) | actual 3.9% | consensus 3.9% | previous 4%"
+    },
+    {
+      "id": "5174038",
+      "time": "2026-10-28 08:30:13",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞9月CPI同比 4.3%，前值 4%。澳大利亞三季度截尾平均CPI同比 3.7%，前值 3.6%。"
+    },
+    {
+      "id": "mkt:01a17fea-0fb4-7ee0-a9a5-4b4e3d71bfaf",
+      "time": "2026-10-28 08:30:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia September not seasonally adjusted CPI MoM 0.8% (consensus 0.7%), prior 0.4%."
+    },
+    {
+      "id": "mkt:01a17fea-0e1d-7ee0-a9a5-40f5a619de9e",
+      "time": "2026-10-28 08:30:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia September unadjusted CPI YoY 4.3% (consensus 4.1%), prior 4.0%."
+    },
+    {
+      "id": "mkt:01a17fea-0c69-7ee0-a9a5-3ece2b688c8f",
+      "time": "2026-10-28 08:30:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia Q3 CPI QoQ 1.3% vs consensus 1.2%; prior 0.6%."
+    },
     {
       "id": "mkt:01a17fe9-f2f5-7ee0-a9a5-2526b8bb0030",
       "time": "2026-10-28 08:30:00",
@@ -116822,60 +117031,6 @@
         "Impact mixed"
       ],
       "text": "【Japan September exports +16.7% YoY; chips and autos strong】Japan's exports rose 16.7% YoY in September, driven by stronger chip and auto shipments, the Finance Ministry said Wednesday, below economists' median forecast of 21.3%. Imports rose 18.9% YoY versus a 20.4% forecast. The non-seasonally-adjusted trade deficit narrowed to ¥536bn in September (about $3.4bn) from a ¥1.1trn shortfall in August. Exports to the US climbed 22.9% YoY and to the EU 10.5%. Crude import value surged 51% YoY as sustained high international oil prices amid Middle East tensions lifted Japan's oil bill."
-    },
-    {
-      "id": "5157130",
-      "time": "2026-10-21 08:34:26",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【優衣庫中國回應漲價：並無相關價格調整計劃】優衣庫中國向記者回應：目前優衣庫中國並無相關價格調整計劃。優衣庫日本官網近日釋出公告，宣佈將對部分商品價格及服務費用進行調整，商品整體平均銷售價格將上調約4%。公告稱，在原材料費、物流費上漲及日元貶值影響持續的背景下，儘管已反覆採取各種措施，仍決定調整部分商品價格與服務費用。"
-    },
-    {
-      "id": "5157129",
-      "time": "2026-10-21 08:32:56",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【9月份全國共銷售彩票673.89億元  增長27.3% 】財政部：9月份，全國共銷售彩票673.89億元，同比增加144.57億元，增長27.3%，主要是足球世界盃對競猜型彩票銷售的啟用效應仍在持續。其中，福利彩票機構銷售165.69億元，同比減少8.69億元，下降5.0%；體育彩票機構銷售508.20億元，同比增加153.25億元，增長43.2%。 1-9月累計，全國共銷售彩票5458.20億元，同比增加696.83億元，增長14.6%。其中，福利彩票機構銷售1480.99億元，同比減少116.51億元，下降7.3%；體育彩票機構銷售3977.21億元，同比增加813.34億元，增長25.7%。"
-    },
-    {
-      "id": "mkt:01a15bdf-d7c4-7ee0-a913-cc05f3f4c3e0",
-      "time": "2026-10-21 08:32:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 up 2.00% intraday."
-    },
-    {
-      "id": "mkt:01a15bdf-c03b-7ee0-a913-c0104f653a34",
-      "time": "2026-10-21 08:32:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China to build about 30 specialized SME innovation empowerment centers under 15th Five-Year Plan】The Ministry of Industry and Information Technology on Oct. 21 issued a notice launching construction of specialized, refined, distinctive and innovative empowerment centers. China will build about 30 such centers during the 15th Five-Year Plan period and establish a national service network to support small and medium-sized enterprise innovation and development."
-    },
-    {
-      "id": "5157128",
-      "time": "2026-10-21 08:31:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：將確保我們積極、負責任的財政政策提升日本的供應能力，不會加速通脹。"
-    },
-    {
-      "id": "5157127",
-      "time": "2026-10-21 08:31:21",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【韓國否認要求銀行避免激進發債】韓國企劃財政部否認相關報道，稱並未要求銀行停止激進發債。韓國財政部在宣告中表示，近期與銀行召開會議，目的是評估四季度銀行債的供需情況。《韓國經濟日報》此前報道，韓財政部在 10 月 16 日與各大銀行高管的會議上，對銀行之間過度激烈的發債競爭表達擔憂。"
     }
   ]
 }
