@@ -1,7 +1,178 @@
 {
-  "updated": "2026-10-29 02:51:23",
-  "count": 13019,
+  "updated": "2026-10-29 02:55:17",
+  "count": 13030,
   "items": [
+    {
+      "id": "te:markets:595954",
+      "time": "2026-10-29 02:54:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Move Higher After Fed Chair Warsh Press Conference — US stocks moved higher on Wednesday, with the S&P 500 rising 0.4%, the Nasdaq gaining 0.3% and the Dow Jones advancing 170 points, as investors digested the latest FOMC decision and comments from Fed Chair Warsh. As expected, the Fed left interest rates unchanged, although two policymakers dissented in favor of a 25bps rate hike. Chair Warsh struck a confident tone on inflation expectations, suggesting they remain well anchored, and announced changes to the Fed’s meeting schedule beginning next year. Meanwhile, corporate earnings remained in focus. Microsoft (-0.5%) and Alphabet (+1.6%) are due to report results after the closing bell. Alphabet also benefited from news that OpenAI intends to buy AI computing chips from Google. Record quarterly profits from SK Hynix also boosted some semicon stocks including Micron Technology (5.6%) and AMD (2.6%). In contrast, Apple fell 0.8% despite unveiling a revamped MacBook Pro featuring a touchscreen. Meta went down 1.2% and Tesla fell 1%."
+    },
+    {
+      "id": "5177108",
+      "time": "2026-10-29 02:54:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：利率幾乎影響一切。"
+    },
+    {
+      "id": "mkt:01a183dd-4b95-7ee0-a9c9-3ecbede453b2",
+      "time": "2026-10-29 02:54:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Chair KEVIN WARSH said short-term inf expectations have risen somewhat, but long-term indicators show households and firms remain confident the Fed will achieve price stability."
+    },
+    {
+      "id": "mkt:01a183dd-3d3a-7ee0-a9c9-324cfd8a53d4",
+      "time": "2026-10-29 02:54:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "KEVIN WARSH said as oil prices continue to rise, U.S. interest rates have already declined."
+    },
+    {
+      "id": "mkt:01a183dc-ca21-7ee0-a9c9-29c49400ec4b",
+      "time": "2026-10-29 02:54:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Fed Chair Kevin Warsh said he noted oil futures have already risen."
+    },
+    {
+      "id": "5177107",
+      "time": "2026-10-29 02:53:50",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我注意到石油期貨價格已經上漲。"
+    },
+    {
+      "id": "5177106",
+      "time": "2026-10-29 02:53:30",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：隨著油價持續上漲，利率已經回落。"
+    },
+    {
+      "id": "mkt:01a183dc-0916-7ee0-a9c9-26d5e7f8d1d5",
+      "time": "2026-10-29 02:53:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chairman Kevin Warsh said the Fed had just undergone a heated internal debate."
+    },
+    {
+      "id": "5177105",
+      "time": "2026-10-29 02:53:12",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：利率已轉為下行。"
+    },
+    {
+      "id": "mkt:01a183db-cb4a-7ee0-a9c9-1806447ecafd",
+      "time": "2026-10-29 02:53:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said there is no \"soft target\" for the inflation goal and that the PCE-based price-stability target is 2%."
+    },
+    {
+      "id": "5177104",
+      "time": "2026-10-29 02:52:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：大多數指標（但並非所有指標）顯示出對美聯儲的信心。"
+    },
+    {
+      "id": "5177103",
+      "time": "2026-10-29 02:52:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：近期通脹預期有所上升，但長期指標顯示家庭和企業相信美聯儲將實現物價穩定。"
+    },
+    {
+      "id": "mkt:01a183da-8c7c-7ee0-a9c9-10f9f3ef1d09",
+      "time": "2026-10-29 02:51:40",
+      "tags": [
+        "MKT News",
+        "CM.TO",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "CIBC raised its prime lending rate to 4.70% effective Oct. 29, 2026."
+    },
+    {
+      "id": "5177102",
+      "time": "2026-10-29 02:51:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：以PCE衡量的物價穩定目標為2%。"
+    },
+    {
+      "id": "5177101",
+      "time": "2026-10-29 02:50:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：不存在寬鬆或隱含的通脹目標。"
+    },
+    {
+      "id": "5177100",
+      "time": "2026-10-29 02:50:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們剛剛經歷了一場激烈的內部爭論。"
+    },
     {
       "id": "mkt:01a183d9-a570-7ee0-a9c9-0f21a186d651",
       "time": "2026-10-29 02:50:41",
@@ -9,6 +180,15 @@
         "MKT News"
       ],
       "text": "Fed Chairman Kevin Warsh said he would not respond when asked about Trump's comments on the Federal Reserve Board."
+    },
+    {
+      "id": "5177099",
+      "time": "2026-10-29 02:50:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什被問及特朗普對美聯儲理事會的評論時表示：很榮幸能成為這個團隊的一員，也很榮幸能擔任其主席。"
     },
     {
       "id": "mkt:01a183d9-77e5-7ee0-a9c9-0061250299cc",
@@ -117206,59 +117386,6 @@
         "MKT News"
       ],
       "text": "Canada's Prime Minister Carney said resolving major structural challenges in the auto and steel sectors will take time."
-    },
-    {
-      "id": "5159172",
-      "time": "2026-10-22 02:54:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘇丹領導人稱拒絕與快速支援部隊對話】當地時間10月21日，蘇丹主權委員會主席兼武裝部隊總司令布林漢表示，蘇丹政府拒絕與蘇丹快速支援部隊進行對話和談判。布林漢當天發表講話稱，蘇丹政府與快速支援部隊之間不存在對話空間。快速支援部隊唯一的選擇是放下武器投降，否則將繼續面臨軍事打擊。（央視新聞）"
-    },
-    {
-      "id": "5159171",
-      "time": "2026-10-22 02:53:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "美債收益率走高，2至5年期收益率觸及日內高點。"
-    },
-    {
-      "id": "mkt:01a15fcf-ffb0-7ee0-a92f-dc01af0b37ef",
-      "time": "2026-10-22 02:53:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI and Brent crude rose $1 intraday to $97.52/bbl and $106.43/bbl, respectively."
-    },
-    {
-      "id": "5159170",
-      "time": "2026-10-22 02:52:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭今年需要 41 億美元來滿足預算需求。"
-    },
-    {
-      "id": "5159169",
-      "time": "2026-10-22 02:52:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普宣揚其在打擊網路犯罪方面的努力。"
-    },
-    {
-      "id": "5159168",
-      "time": "2026-10-22 02:51:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：解決汽車與鋼鐵行業重大結構性挑戰尚需時日。"
     }
   ]
 }
