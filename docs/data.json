@@ -1,7 +1,273 @@
 {
-  "updated": "2026-10-28 21:48:06",
-  "count": 12996,
+  "updated": "2026-10-28 21:52:00",
+  "count": 13024,
   "items": [
+    {
+      "id": "mkt:01a182c7-a136-7ee0-a9bd-0f161ed1edb0",
+      "time": "2026-10-28 21:51:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor MACKLEM expects Q4 CPI to reach 3.5% and to remain at or above 3% for most of 2027."
+    },
+    {
+      "id": "5176644",
+      "time": "2026-10-28 21:51:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝克休斯預計，到2030年，全球液化天然氣產能將達到每年8億噸。"
+    },
+    {
+      "id": "mkt:01a182c7-724a-7ee0-a9bd-0067226a9f27",
+      "time": "2026-10-28 21:51:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "After the BOC hiked rates, Canada’s 2-year government bond yield neared its intraday low."
+    },
+    {
+      "id": "mkt:01a182c7-5984-7ee0-a9bc-f84aa37f08d3",
+      "time": "2026-10-28 21:51:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary General Rutte said the UK meeting its NATO spending commitments is a welcome step."
+    },
+    {
+      "id": "mkt:01a182c7-2d2a-7ee0-a9bc-f6abe6d57a23",
+      "time": "2026-10-28 21:50:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "BOC Governor MACKLEM said the inf outlook will rise sharply."
+    },
+    {
+      "id": "mkt:01a182c7-1ca5-7ee0-a9bc-eb82f796d7e1",
+      "time": "2026-10-28 21:50:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【BOC hikes for first time in over three years; further hikes possible】The Bank of Canada raised its policy rate 25bps to 2.50% on Wednesday, its first increase in more than three years. The bank expects inflation to remain well above its 2% target through 2028. BOC Governor MACKLEM said further rate increases may be necessary to curb inflation, while officials will proceed cautiously. He said the hike was needed to prevent elevated energy prices from spreading into broad-based inflation. Elevated uncertainty from a US-Canada trade dispute and the Middle East conflict keeps the bank vigilant. The BOC also raised its growth forecast, citing strong consumer spending and exports and an expected pickup in business investment as firms adopt AI and use a new tax-credit introduced by the prime minister."
+    },
+    {
+      "id": "mkt:01a182c7-1c33-7ee0-a9bc-e763e1404db8",
+      "time": "2026-10-28 21:50:49",
+      "tags": [
+        "MKT News",
+        "USDCAD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "BOC Governor Macklem: Canada’s inf outlook has deteriorated, while the growth outlook has slightly improved."
+    },
+    {
+      "id": "mkt:01a182c6-dc66-7ee0-a9bc-d9264f6e8ea2",
+      "time": "2026-10-28 21:50:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC expects potential output growth to slow to just under 1.5% in 2026."
+    },
+    {
+      "id": "mkt:01a182c6-be39-7ee0-a9bc-d4e740598e6f",
+      "time": "2026-10-28 21:50:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC assumes Canada’s nominal neutral interest rate lies at the midpoint of its estimated 2.25%–3.25% range."
+    },
+    {
+      "id": "5176643",
+      "time": "2026-10-28 21:50:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【加拿大央行：預計2026年通脹平均為2.9%】加拿大央行預計2026年通脹平均為2.9%，7月為2.5%；2027年為3.1%，7月為2.0%；2028年為2.2%，7月為2.1%。預計2026年經濟增長率為1.0%，7月為0.7%；2027年增長2.0%，7月為1.8%；2028年增長2.0%，7月為1.8%。預計2026年通脹平均為2.9%，7月為2.5%；2027年為3.1%，7月為2.0%；2028年為2.2%，7月為2.1%。"
+    },
+    {
+      "id": "5176642",
+      "time": "2026-10-28 21:50:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長呂特：英國達到北約軍費承諾是值得歡迎的舉措。"
+    },
+    {
+      "id": "mkt:01a182c6-8716-7ee0-a9bc-c8e104ef18f0",
+      "time": "2026-10-28 21:50:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "BOC projects annualized GDP growth of 2.0% in Q3 (up from a 1.5% July projection) and 0.8% in Q4."
+    },
+    {
+      "id": "te:economy:595869",
+      "time": "2026-10-28 21:50:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Interest Rate",
+        "Importance 3"
+      ],
+      "text": "Bank of Canada Raises Rates for 1st Time Since 2023 — The Bank of Canada raised its benchmark policy rate by 25bps to 2.5% in October 2026, the first increase in three years and in line with market expectations. Policymakers said the decision aims to reduce the risk that continuing high energy prices spread broadly to the prices of other goods and services. The central bank also noted that inflation is higher and more persistent than in the July Report. Growth has picked up this year and is expected to recover further. On the monetary outlook, there could be a need to increase the policy rate further, but given uncertainties, Governing Council agreed to proceed carefully. The Bank remains committed to maintaining Canadians’ confidence in price stability."
+    },
+    {
+      "id": "5176641",
+      "time": "2026-10-28 21:50:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【黃金類ETF縮水180億元】受國際金價大幅回撥影響，9月以來國內黃金類ETF走弱，產品總規模縮水超過180億元。多位基金經理提示，10月29日凌晨FOMC決議與沃什釋出會、同日公佈的美國三季度GDP初值與9月PCE物價指數，將共同影響加息路徑的定價，金價正迎來關鍵方向選擇。9月以來，截至10月27日，黃金類ETF二級市場的跌幅及規模下滑程度均較為顯著。其中，黃金股ETF跌幅領先，黃金股ETF華安、黃金股ETF華夏、黃金股ETF工銀等跌幅超過24%；黃金ETF、上海金ETF跌幅也均超過10%。 此外，黃金類ETF規模同期合計下滑逾180億元至2867.62億元。其中，規模最大的黃金ETF“黃金ETF華安”規模跌破千億元，回落至985.78億元；規模最大的黃金股ETF“黃金股ETF永贏”規模也降至120億元以下。（上證報）"
+    },
+    {
+      "id": "5176640",
+      "time": "2026-10-28 21:49:59",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "加拿大央行加息後，2年期加拿大國債收益率小幅觸及日內低點。"
+    },
+    {
+      "id": "mkt:01a182c6-3785-7ee0-a9bc-c3eb8d76df63",
+      "time": "2026-10-28 21:49:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC: long-term inf expectations remain firmly anchored; a broad set of indicators continue to point to some excess supply in the economy."
+    },
+    {
+      "id": "5176639",
+      "time": "2026-10-28 21:49:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長呂特：英國預算包含強有力的防務承諾。"
+    },
+    {
+      "id": "5176638",
+      "time": "2026-10-28 21:49:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克100指數轉跌。"
+    },
+    {
+      "id": "mkt:01a182c5-bdf1-7ee0-a9bc-bdb46948e733",
+      "time": "2026-10-28 21:49:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC says growth forecasts face considerable uncertainty, especially regarding trade relations with the United States."
+    },
+    {
+      "id": "5176637",
+      "time": "2026-10-28 21:49:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐將同花順評級下調至持有，目標價206元人民幣。"
+    },
+    {
+      "id": "mkt:01a182c5-6850-7ee0-a9bc-b53062d1b517",
+      "time": "2026-10-28 21:48:57",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【BOC raises growth forecasts for 2026–28】BOC raised its GDP growth forecasts to 1.0% for 2026 (July: 0.7%), 2.0% for 2027 (July: 1.8%) and 2.0% for 2028 (July: 1.8%). It projects average inflation at 2.9% in 2026 (July: 2.5%), 3.1% in 2027 (July: 2.0%) and 2.2% in 2028 (July: 2.1%)."
+    },
+    {
+      "id": "5176636",
+      "time": "2026-10-28 21:48:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：加拿大通脹前景惡化，而增長前景略有改善。"
+    },
+    {
+      "id": "mkt:01a182c5-5977-7ee0-a9bc-ad56c5e608ad",
+      "time": "2026-10-28 21:48:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "BOC projects average inf of 2.9% in 2026 (July projection 2.5%), 3.1% in 2027 (July: 2.0%) and 2.2% in 2028 (July: 2.1%)."
+    },
+    {
+      "id": "mkt:01a182c4-cc2a-7ee0-a9bc-a4639a603f4e",
+      "time": "2026-10-28 21:48:17",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Bank of Canada Governor MACKLEM said the primary rationale for rate hikes is that energy prices are expected to remain elevated and cost pressures are building."
+    },
+    {
+      "id": "5176635",
+      "time": "2026-10-28 21:48:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國等26國簽署《聯合國可轉讓貨物單證公約》】《聯合國可轉讓貨物單證公約》簽約儀式10月26日在迦納首都阿克拉舉行，包括中國、迦納在內的26個國家成為《公約》首批簽約國。《公約》此後將在紐約聯合國總部開放供各國簽署。（新華社）"
+    },
+    {
+      "id": "mkt:01a182c4-82f3-7ee0-a9bc-9963d2820fa1",
+      "time": "2026-10-28 21:47:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "UK told Ukraine it will step up sanctions on Russia."
+    },
+    {
+      "id": "mkt:01a182c4-6824-7ee0-a9bc-90326d61eb41",
+      "time": "2026-10-28 21:47:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem expects 2% growth in 2027 and 2028 to absorb the economy's remaining slack."
+    },
+    {
+      "id": "5176634",
+      "time": "2026-10-28 21:47:32",
+      "tags": [
+        "央行",
+        "市場",
+        "焦點"
+      ],
+      "text": "加拿大央行行長麥克勒姆：需要提高政策利率，以降低能源價格上漲可能演變為全面通脹的風險。"
+    },
     {
       "id": "mkt:01a182c4-1041-7ee0-a9bc-8ab1aa02f6cc",
       "time": "2026-10-28 21:47:29",
@@ -136,6 +402,15 @@
       "text": "加拿大央行：中東衝突的解決“沒有明確的路徑”。"
     },
     {
+      "id": "em:qqyh_jndyh:202610283912639956",
+      "time": "2026-10-28 21:46:00",
+      "tags": [
+        "央行",
+        "加拿大央行"
+      ],
+      "text": "【加拿大央行：可能需要再次加息】加拿大央行稱，可能需要再次加息。鑑於不確定性，委員會同意謹慎行事；注意到不確定性仍然很高；經濟展現出韌性，貨幣政策寬鬆空間縮小。"
+    },
+    {
       "id": "5176628",
       "time": "2026-10-28 21:45:57",
       "tags": [
@@ -155,6 +430,15 @@
         "Impact bullish"
       ],
       "text": "BOC: Persistently high energy prices, combined with stronger transmission effects, increase inflation persistence over the projection horizon."
+    },
+    {
+      "id": "em:qqyh_jndyh:202610283912638533",
+      "time": "2026-10-28 21:45:50",
+      "tags": [
+        "央行",
+        "加拿大央行"
+      ],
+      "text": "加拿大央行將關鍵利率上調至2.5%，符合市場預期。"
     },
     {
       "id": "mkt:01a182c2-861c-7ee0-a9bc-39217e283148",
@@ -116984,22 +117268,6 @@
         "國際"
       ],
       "text": "【俄外交部說將對日美聯合軍演採取回應措施】俄羅斯外交部發言人扎哈羅娃21日說，日美“利劍27”聯合軍演對俄羅斯遠東邊境地區構成安全風險，俄方將採取回應措施。 扎哈羅娃在例行記者會上說，上述軍演已經超越“專守防衛”原則，是日本“再軍事化”政策的一部分，俄方已多次向日方表達嚴重關切。她表示，日方上述做法對俄遠東邊境地區構成安全風險。 扎哈羅娃還在評論日本公司向烏克蘭交付無人機一事時說，日方此舉是公然的敵對行動，俄方將採取強硬回應措施。 她強調，俄方已多次警告日方，此類行為不可接受，將給俄日關係造成負面影響。日方試圖將本國公司與烏軍合作解釋為“私人行為”的說法“完全無法令人信服”。 扎哈羅娃重申，對俄國家安全構成威脅的武器，以及在烏克蘭境內建立的生產這些武器的設施，都是俄羅斯武裝部隊的合法打擊目標。(新華社)"
-    },
-    {
-      "id": "5158937",
-      "time": "2026-10-21 21:51:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達、巴基斯坦、印度尼西亞和土耳其簽署防務諒解備忘錄。"
-    },
-    {
-      "id": "5158936",
-      "time": "2026-10-21 21:48:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "PHP：PHP 8.5.12是一個安全版本，修復了兩個可導致未經身份驗證的遠端程式碼執行的關鍵漏洞。"
     }
   ]
 }
