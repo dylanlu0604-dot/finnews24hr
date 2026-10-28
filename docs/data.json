@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-29 03:37:55",
+  "updated": "2026-10-29 03:41:43",
   "count": 13071,
   "items": [
+    {
+      "id": "5177161",
+      "time": "2026-10-29 03:38:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【分析師：10 月 FOMC 鴿派傾向清晰可見 12月加息機率僅為50%】彭博經濟分析師Anna Wong和Andrew Sacher表示：FOMC 在 10 月 27 至 28 日會議維持利率不變符合預期，但政策宣告措辭細微調整以及美聯儲主席沃什的記者會講話，都顯示委員會立場小幅轉向鴿派。值得關注的是，沃什多次稱金融條件已經收緊，但暫不認為整體金融條件處於偏緊狀態；他認為近期 AI 板塊震盪，部分是美聯儲 9 月加息帶來的反應，這也解釋了宣告新增表述，即需要獲取更多資訊再決定下一步利率行動。綜合本次會議全部資訊，我們判斷 12 月加息機率為50% ，而當前市場定價為 85%。我們預計在 12 月會議前信貸條件將進一步收緊，替美聯儲起到一部分緊縮效果。基準情景為 FOMC 在今年剩餘時間維持利率不變。"
+    },
     {
       "id": "mkt:01a18402-a117-7ee0-a9cb-03c787d9d0f9",
       "time": "2026-10-29 03:35:27",
@@ -117881,14 +117890,6 @@
         "XAUUSD"
       ],
       "text": "【US clarifies reports of Gulf embassy evacuations; order limited to Saudi Arabia】The US State Department said reports that it planned to order evacuations of some Gulf embassy staff were inaccurate. An evacuation directive applies only to non-emergency US government employees and their families in Saudi Arabia. The statement cited increasing hostile actions by Houthi forces against Saudi Arabia, including attacks on civilian airports and other critical infrastructure that have caused civilian casualties and major travel disruption. The department said protecting the safety and security of its personnel and families remains a top priority and it will take all necessary measures to protect and support them."
-    },
-    {
-      "id": "5159245",
-      "time": "2026-10-22 03:38:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Claude Duet已在iOS和Android平臺作為獨立應用上線，並可在Claude.ai上使用。"
     }
   ]
 }
