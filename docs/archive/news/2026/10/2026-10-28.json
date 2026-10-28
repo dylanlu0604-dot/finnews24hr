@@ -1,7 +1,136 @@
 {
   "date": "2026-10-28",
-  "count": 780,
+  "count": 795,
   "items": [
+    {
+      "id": "mkt:01a18017-ec9a-7ee0-a9a7-74eecd49aa9d",
+      "time": "2026-10-28 09:20:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said Israel must form a strong, right-wing national government."
+    },
+    {
+      "id": "5174307",
+      "time": "2026-10-28 09:19:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國軒高科儲能BMS透過IEC三項國際認證】近日，國軒高科儲能BMS透過IEC 61508 SIL2、IEC 62443-4-1 ML3及IEC 62443-4-2 SL3相關認證，標誌著公司儲能在安全開發流程、產品安全設計與網路安全防護等方面取得新的突破，為進一步拓展AI資料中心（AIDC）、構網型儲能及高可靠效能源基礎設施等高價值應用場景提供有力支撐。"
+    },
+    {
+      "id": "5174306",
+      "time": "2026-10-28 09:19:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天齊鋰業：年產50噸硫化鋰中試專案預計下半年竣工】天齊鋰業(002466)10月28日在互動平臺表示，公司年產50噸硫化鋰中試專案已於2025年9月在四川眉山落地動工，預計於2026年下半年竣工。目前，該專案正在有序推進中，相關工程建設及後續生產準備工作持續開展。在客戶合作方面，公司已向國內外30多家客戶提供硫化鋰樣品，並與多家下游客戶開展產品驗證合作。"
+    },
+    {
+      "id": "5174305",
+      "time": "2026-10-28 09:19:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甲骨文攜手Cerebras，計劃2027年在雲平臺提供高速AI推理服務】當地時間10月27日，Cerebras Systems與甲骨文宣佈達成合作，計劃於2027年在甲骨文雲基礎設施（OCI）上提供Cerebras高速AI推理服務，面向AI實驗室、企業及開發者。雙方稱，更快的推理速度有助於降低多步驟智慧體工作流的延遲，提升AI應用的響應能力。Cerebras的晶圓級引擎將計算與記憶體整合於單一晶圓級處理器，以減少資料移動和晶片間通訊，支援快速生成令牌，為複雜推理任務和智慧體應用提供算力支援。"
+    },
+    {
+      "id": "mkt:01a18017-62d0-7ee0-a9a7-6b079464270a",
+      "time": "2026-10-28 09:19:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister NETANYAHU: We are still awaiting the actual results; Likud is Israel's largest party."
+    },
+    {
+      "id": "te:markets:595578",
+      "time": "2026-10-28 09:19:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Kiwi Dollar Tumbles After RBNZ Unexpectedly Holds Rates — The New Zealand dollar fell more than 1% to around $0.559, its lowest level in two weeks, after the Reserve Bank kept interest rates unchanged at 2.75%. This defied market expectations of a 25-basis-point hike. Still, the committee indicated that further monetary policy tightening could be necessary, depending on the economic outlook. The decision comes amid persistent inflationary pressures, with the central bank having raised the cash rate at its two previous meetings over concerns that inflation remained outside its 1-3% target range. Analysts expect price pressures to intensify again in the fourth quarter, potentially pushing inflation above 4% and keeping it elevated for longer than previously anticipated due to elevated energy prices."
+    },
+    {
+      "id": "5174304",
+      "time": "2026-10-28 09:19:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨漲幅擴大至1%。"
+    },
+    {
+      "id": "5174303",
+      "time": "2026-10-28 09:18:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英傑電氣：2026年光伏業務訂單大幅增長 相關收入將在後續週期逐步確認】英傑電氣(300820)10月28日在互動平臺表示，公司營收由多領域電源產品銷售收入共同構成。其中半導體領域銷售收入與訂單大幅增長態勢匹配，前三季度實現同比大幅增長。對比營收結構：2025年第三季度確認了有大額國內光伏業務收入；而2026年第三季度國內光伏板塊收入確認規模相對有限。光伏專案單個合同金額通常較高，儘管半導體業務營收維持高增，但增量尚不足以彌補2026年第三季度國內光伏收入確認形成的缺口。這是造成三季度業績同比下滑的主要原因。現階段國內光伏行業仍處在下行調整週期，致使國內光伏板塊收入確認存在較強的季度波動性。與此同時，公司2026年光伏業務訂單實現大幅增長，訂單絕大部分對應客戶海外專案，目前公司正有序組織生產及交付，相關收入將在後續週期逐步確認，光伏行業仍然有望對公司後續業績形成支撐。"
+    },
+    {
+      "id": "mkt:01a18016-5387-7ee0-a9a7-676931e4446c",
+      "time": "2026-10-28 09:18:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Iran is now weaker than ever."
+    },
+    {
+      "id": "5174302",
+      "time": "2026-10-28 09:18:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "內塔尼亞胡：利庫德集團是以色列最大的政黨。"
+    },
+    {
+      "id": "mkt:01a18016-3d9a-7ee0-a9a7-5937b6a89245",
+      "time": "2026-10-28 09:18:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Prime Minister Netanyahu thanked Likud members."
+    },
+    {
+      "id": "te:markets:595576",
+      "time": "2026-10-28 09:18:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Aussie Hits 5-Week High on Hot CPI Print — The Australian dollar strengthened to above $0.70, hitting a five-week high after hotter-than-expected inflation data boosted expectations for a fifth interest rate hike this year. Annual inflation jumped to 4.3% in September from 4.0% in August, surpassing the 4.2% forecast and reaching its highest level since March. The pickup pushed inflation further above the RBA’s 2–3% target range, boosting bets on a hike at the November 3 meeting. Monthly CPI rose 0.8%, the biggest increase in six months, also exceeding expectations of 0.7%. The data followed remarks from RBA Governor Michele Bullock earlier on Wednesday, when she warned that upside risks to inflation were materializing and price pressures would likely exceed the central bank’s August forecast. She also cautioned that prolonged deviations from the target could entrench inflation expectations and influence price and wage setting. Traders raised the probability of a November hike to 78%, up from 70% before the inflation report."
+    },
+    {
+      "id": "5174301",
+      "time": "2026-10-28 09:18:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡：我們仍在等待真正的結果。"
+    },
+    {
+      "id": "mkt:01a18015-c4f1-7ee0-a9a7-557d1cf927cb",
+      "time": "2026-10-28 09:17:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said the campaign is difficult."
+    },
+    {
+      "id": "mkt:01a18015-7539-7ee0-a9a7-4b46f65862c8",
+      "time": "2026-10-28 09:17:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu has begun delivering remarks following Israel's election."
+    },
     {
       "id": "5174300",
       "time": "2026-10-28 09:16:10",
