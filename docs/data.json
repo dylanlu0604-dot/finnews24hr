@@ -1,7 +1,96 @@
 {
-  "updated": "2026-10-29 03:57:06",
-  "count": 13102,
+  "updated": "2026-10-29 04:00:54",
+  "count": 13110,
   "items": [
+    {
+      "id": "5177195",
+      "time": "2026-10-29 04:00:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4080美元/盎司，日內漲0.54%。"
+    },
+    {
+      "id": "5177194",
+      "time": "2026-10-29 04:00:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4080美元/盎司，日內漲0.54%。"
+    },
+    {
+      "id": "5177193",
+      "time": "2026-10-29 04:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4090美元/盎司，日內漲0.38%。"
+    },
+    {
+      "id": "5177192",
+      "time": "2026-10-29 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.87%】JDZG跌75.57%，虎虎科技跌44.00%，新東方跌12.62%，高途跌7.98%，亞朵集團跌7.42%。"
+    },
+    {
+      "id": "5177190",
+      "time": "2026-10-29 03:58:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西參議員、自由黨候選人弗拉維奧·博索納羅：我沒有犯罪。"
+    },
+    {
+      "id": "5177189",
+      "time": "2026-10-29 03:58:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4070美元/盎司，日內漲0.25%。"
+    },
+    {
+      "id": "5177188",
+      "time": "2026-10-29 03:58:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4070美元/盎司，日內漲0.25%。"
+    },
+    {
+      "id": "mkt:01a18416-cb69-7ee0-a9cb-de5cfd487e55",
+      "time": "2026-10-29 03:57:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500"
+      ],
+      "text": "【Gundlach says Fed decision didn't change his investment strategy】Gundlach said the Fed rate decision did not change his investment strategy. He currently allocates 30% to equities—preferring an equal-weight S&P 500 to limit overexposure to what he called potential AI 'problems'—30% to bonds, 20% to commodities and 20% to liquid 'dry powder' assets available for immediate deployment."
+    },
+    {
+      "id": "mkt:01a18416-8d1d-7ee0-a9cb-d4cdbd3966ba",
+      "time": "2026-10-29 03:57:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor said the top priority of energy policy is reducing energy costs."
+    },
+    {
+      "id": "mkt:01a18416-7c97-7ee0-a9cb-ce0758b2faca",
+      "time": "2026-10-29 03:57:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Son of former Brazilian president Bolsonaro says he will regularly address the Brazilian public."
+    },
     {
       "id": "mkt:01a18416-1c0b-7ee0-a9cb-c23ced4716ce",
       "time": "2026-10-29 03:56:43",
@@ -17,6 +106,14 @@
         "MKT News"
       ],
       "text": "Bolsonaro's son urges the international community not to treat current events in Brazil as normal."
+    },
+    {
+      "id": "5177187",
+      "time": "2026-10-29 03:56:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：英國能源政策的首要任務是降低能源成本。"
     },
     {
       "id": "mkt:01a18415-6e5c-7ee0-a9cb-b3d8a6368a57",
@@ -118149,32 +118246,6 @@
         "焦點"
       ],
       "text": "Meta預計第四季度營收為730億美元至760億美元，此前預估為735.7億美元。"
-    },
-    {
-      "id": "5159260",
-      "time": "2026-10-22 04:00:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國豁免紅柴油稅務登記要求以吸引採購方，即將釋出指引，豁免條款將在週三公佈的美國國稅局指引中載明。"
-    },
-    {
-      "id": "5159259",
-      "time": "2026-10-22 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.69%，標普500指數漲0.59%，納指漲1.05%。SKYD漲10.63%，超微電腦漲9.55%，查爾斯河實驗室漲9.31%，SpaceX漲7.79%，Strategy漲7.54%，BE漲7.24%，Echo Global Logistics漲7.23%。“七姐妹”方面：特斯拉漲3.41%，英偉達漲2.54%，蘋果漲1.32%，Meta Platforms漲0.47%，微軟漲0.20%，亞馬遜跌0.10%，谷歌跌1.62%。"
-    },
-    {
-      "id": "5159258",
-      "time": "2026-10-22 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌2.32%】好未來跌9.02%，海川證券跌6.93%，DCX跌6.30%，禾賽科技跌5.72%，小鵬汽車跌5.60%。"
     }
   ]
 }
