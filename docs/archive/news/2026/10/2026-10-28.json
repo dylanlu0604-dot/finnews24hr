@@ -1,7 +1,281 @@
 {
   "date": "2026-10-28",
-  "count": 713,
+  "count": 742,
   "items": [
+    {
+      "id": "mkt:01a18009-ccea-7ee0-a9a6-c7ca97e8fe5a",
+      "time": "2026-10-28 09:04:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Wall Street Journal, citing people familiar with the matter, reports the U.S. has told several Gulf Arab states to prepare for a short, intense military operation after the U.S. midterm elections."
+    },
+    {
+      "id": "5174247",
+      "time": "2026-10-28 09:04:08",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲：隨著匯率走低和部分定期貸款利率下降，國內金融環境的某些方面已有所寬鬆。"
+    },
+    {
+      "id": "5174246",
+      "time": "2026-10-28 09:03:59",
+      "tags": [
+        "資料",
+        "央行"
+      ],
+      "text": "紐西蘭聯儲：儘管此前已兩次上調官方現金利率（OCR），但在傳統通脹預期指標作出反應之前，通脹仍存在固化風險。"
+    },
+    {
+      "id": "mkt:01a18009-0012-7ee0-a9a6-b8eba4e10034",
+      "time": "2026-10-28 09:03:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "RBNZ says inf will remain elevated in the near term."
+    },
+    {
+      "id": "5174245",
+      "time": "2026-10-28 09:03:45",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲：持續走高的精煉燃料價格和匯率貶值可能會對通脹產生更大的間接影響。"
+    },
+    {
+      "id": "mkt:01a18008-c38a-7ee0-a9a6-b21774fdcdaa",
+      "time": "2026-10-28 09:03:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RBNZ says the official cash rate is likely to be raised further, but will depend on the economic outlook."
+    },
+    {
+      "id": "5174243",
+      "time": "2026-10-28 09:03:37",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲：經濟復甦持續但表現仍參差不齊。"
+    },
+    {
+      "id": "5174241",
+      "time": "2026-10-28 09:03:20",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲：短期內通脹將維持高位。"
+    },
+    {
+      "id": "mkt:01a18008-5f2f-7ee0-a9a6-ac83103d9a15",
+      "time": "2026-10-28 09:03:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ says the committee is focused on returning inflation to the 2% target midpoint over the medium term."
+    },
+    {
+      "id": "mkt:01a18008-5653-7ee0-a9a6-a28f3749642f",
+      "time": "2026-10-28 09:03:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ: Board members differ on the significance of various risks and on the timing of monetary policy responses."
+    },
+    {
+      "id": "mkt:01a18008-3c0b-7ee0-a9a6-9c99b0c01832",
+      "time": "2026-10-28 09:03:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China lithium carbonate futures contract 2701 saw increased volatility after the morning open; latest 101,120 yuan/ton, up 3.35% intraday."
+    },
+    {
+      "id": "mkt:01a18008-088b-7ee0-a9a6-905c50afb711",
+      "time": "2026-10-28 09:02:52",
+      "tags": [
+        "MKT News",
+        "NZDUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "RBNZ says New Zealand's economic recovery could be stronger than expected but warns it may lose momentum if the global environment deteriorates."
+    },
+    {
+      "id": "5174238",
+      "time": "2026-10-28 09:02:51",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金財富期貨：市場情緒有所回升，黃金跟隨反彈】人工智慧投資熱情持續升溫，疊加油價回落與宏觀資料超預期，美股週二延續漲勢，科技板塊領跑，市場情緒有所回升，黃金跟隨反彈。目前市場仍對即將召開的議息會議充滿期待，以及美股科技股的融資擔憂緩解，對市場情緒和流動性均有積極正向作用。預計黃金短期內維持震盪走勢，耐心等待一系列事件落地，包括美伊衝突、議息會議，美債收益率等。（中金財富期貨）"
+    },
+    {
+      "id": "5174237",
+      "time": "2026-10-28 09:02:42",
+      "tags": [
+        "資料",
+        "央行"
+      ],
+      "text": "紐西蘭聯儲會議紀要：可能進一步提高官方現金利率，但取決於經濟前景。"
+    },
+    {
+      "id": "5174233",
+      "time": "2026-10-28 09:02:31",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲：紐西蘭經濟復甦可能強於預期，但如果全球環境惡化，復甦勢頭也可能減弱。"
+    },
+    {
+      "id": "5174232",
+      "time": "2026-10-28 09:02:29",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲：委員會的重點是在中期內將通脹率恢復至 2% 的目標中值。"
+    },
+    {
+      "id": "5174229",
+      "time": "2026-10-28 09:02:14",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "紐西蘭元下跌逾1%，該國央行意外維持利率不變。"
+    },
+    {
+      "id": "5174226",
+      "time": "2026-10-28 09:01:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭S&P/NZX 50指數抹去跌幅，上漲0.1%，此前紐西蘭儲備銀行宣佈按兵不動。"
+    },
+    {
+      "id": "mkt:01a18007-27cf-7ee0-a9a6-882d757f2676",
+      "time": "2026-10-28 09:01:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D opened up 1.11% at 870.94 yuan/gram in early trade on Oct. 28 (Wednesday); silver T+D opened up 1.56% at 13,112 yuan/kg."
+    },
+    {
+      "id": "mkt:01a18007-0d2a-7ee0-a9a6-850dd2fd1e8c",
+      "time": "2026-10-28 09:01:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened 726.07 points higher, up 1.58% at 46,822.3 on Oct. 28 (Wednesday)."
+    },
+    {
+      "id": "mkt:01a18006-ef9e-7ee0-a9a6-7b66acf06010",
+      "time": "2026-10-28 09:01:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "NZD/USD plunged 94 pips intraday to 0.5611."
+    },
+    {
+      "id": "5174225",
+      "time": "2026-10-28 09:01:37",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲：全球事件加劇通脹壓力。"
+    },
+    {
+      "id": "5174222",
+      "time": "2026-10-28 09:01:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破101美元/桶，日內漲1.10%。"
+    },
+    {
+      "id": "5174221",
+      "time": "2026-10-28 09:01:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破101美元/桶，日內漲1.10%。"
+    },
+    {
+      "id": "mkt:01a18006-bfd6-7ee0-a9a6-7221c314b7f7",
+      "time": "2026-10-28 09:01:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ: All committee members agree on the overall inflation outlook."
+    },
+    {
+      "id": "5174218",
+      "time": "2026-10-28 09:01:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌5%，現報2605.00點。"
+    },
+    {
+      "id": "mkt:01a18006-74f2-7ee0-a9a6-6a3aeb122951",
+      "time": "2026-10-28 09:01:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RBNZ MPC voted 4-3 today to keep the OCR at 2.75%."
+    },
+    {
+      "id": "5174215",
+      "time": "2026-10-28 09:01:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至5%】韓國綜指漲幅擴大至5%，現報5922.34點。個股方面，三星電子漲超7%，SK海力士漲超5%。"
+    },
+    {
+      "id": "5174214",
+      "time": "2026-10-28 09:00:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報100.93美元/桶。"
+    },
     {
       "id": "5174211",
       "time": "2026-10-28 09:00:37",
