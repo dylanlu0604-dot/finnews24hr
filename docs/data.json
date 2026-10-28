@@ -1,7 +1,269 @@
 {
-  "updated": "2026-10-28 20:50:41",
-  "count": 12838,
+  "updated": "2026-10-28 20:54:41",
+  "count": 12857,
   "items": [
+    {
+      "id": "mkt:01a18293-2f4b-7ee0-a9b8-b754f8fa632c",
+      "time": "2026-10-28 20:54:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spanish authorities said a high-speed train collision killed at least 64 people."
+    },
+    {
+      "id": "5176500",
+      "time": "2026-10-28 20:54:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國預算案：燃油稅下調5便士的政策將延長至2027年7月。"
+    },
+    {
+      "id": "5176499",
+      "time": "2026-10-28 20:53:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將提高小企業稅率減免的門檻。"
+    },
+    {
+      "id": "mkt:01a18293-0323-7ee0-a9b8-abbcbc7e74af",
+      "time": "2026-10-28 20:53:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK finance minister said the government will only purchase and build new projects once they can be connected to the power grid."
+    },
+    {
+      "id": "mkt:01a18292-d279-7ee0-a9b8-a505afaa9822",
+      "time": "2026-10-28 20:53:42",
+      "tags": [
+        "MKT News",
+        "FTSE100",
+        "Impact bullish",
+        "GBPUSD"
+      ],
+      "text": "UK Chancellor Healy said more existing renewable projects will be included in fixed-price Contracts for Difference (CfDs)."
+    },
+    {
+      "id": "mkt:01a18292-8bc5-7ee0-a9b8-9d8ce8dba109",
+      "time": "2026-10-28 20:53:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK Chancellor Healy said the VAT relief on electricity will be extended until July next year."
+    },
+    {
+      "id": "5176498",
+      "time": "2026-10-28 20:53:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙稱高速列車事故造成至少64人死亡。"
+    },
+    {
+      "id": "5176497",
+      "time": "2026-10-28 20:53:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "米蘭上市的斯泰蘭蒂斯股價擴大漲幅，上漲8.6%，有望創下自2025年9月以來的最佳單日表現。"
+    },
+    {
+      "id": "5176496",
+      "time": "2026-10-28 20:53:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將支援商業街。"
+    },
+    {
+      "id": "mkt:01a18292-4ac4-7ee0-a9b8-96b834817d65",
+      "time": "2026-10-28 20:53:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports Russian Foreign Minister Lavrov will visit Atlanta on Oct. 30-31 to attend the G20 meeting."
+    },
+    {
+      "id": "mkt:01a18291-e763-7ee0-a9b8-8966cdc91c4e",
+      "time": "2026-10-28 20:52:42",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK Chancellor Healey said he will raise the national minimum wage."
+    },
+    {
+      "id": "mkt:01a18291-c63a-7ee0-a9b8-86e19d3a4d45",
+      "time": "2026-10-28 20:52:33",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK finance minister said the government will directly fund hydrogen projects."
+    },
+    {
+      "id": "5176495",
+      "time": "2026-10-28 20:52:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣醫療集團高管表示，從掃描資料或造影劑使用情況來看，尚未發現醫療程式放緩的跡象。"
+    },
+    {
+      "id": "mkt:01a18291-8650-7ee0-a9b8-783342ea5532",
+      "time": "2026-10-28 20:52:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report about 650,000 double-envelope ballots remain uncounted; they could affect the final allocation of parliamentary seats."
+    },
+    {
+      "id": "mkt:01a18291-7c39-7ee0-a9b8-74dd0544e5a5",
+      "time": "2026-10-28 20:52:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK Chancellor Healey said the government will suspend import duties on more than 100 supermarket items and introduce a new pension tax‑relief allowance."
+    },
+    {
+      "id": "5176494",
+      "time": "2026-10-28 20:52:10",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "扎哈羅娃稱，俄羅斯外長拉夫羅夫將於10月30日至31日出席在美國舉行的二十國集團外長會議。"
+    },
+    {
+      "id": "5176493",
+      "time": "2026-10-28 20:51:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福建金森：2026年第三季度淨利潤2510.52萬元，同比增長693.34%】福建金森公告，2026年第三季度營業收入5872.48萬元，同比增長27.88%；歸母淨利潤2510.52萬元，同比增長693.34%；扣非淨利潤2504.79萬元，同比增長672.47%。2026年前三季度營業收入1.04億元，同比增長8.35%；歸母淨利潤1152.34萬元，同比增長148.74%；扣非淨利潤1018.65萬元，同比增長142.71%。"
+    },
+    {
+      "id": "5176492",
+      "time": "2026-10-28 20:51:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將上調全國最低工資。全國生活工資將上調3.9%。"
+    },
+    {
+      "id": "5176491",
+      "time": "2026-10-28 20:51:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將免除收入不超過國家養老金價值的養老金領取者的所得稅。"
+    },
+    {
+      "id": "mkt:01a18290-c25e-7ee0-a9b8-6bcf5e5d91a0",
+      "time": "2026-10-28 20:51:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor Healy said he will raise the mileage allowance rate to 35 pence per mile."
+    },
+    {
+      "id": "5176489",
+      "time": "2026-10-28 20:51:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：新養老金稅收減免額度。"
+    },
+    {
+      "id": "5176488",
+      "time": "2026-10-28 20:51:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國財政大臣希利：政府首要目標是降低能源成本】英國財政大臣希利就國家電網與能源相關事項公佈一系列舉措，稱自己正在為能源政策“設定新方向”。“從現在起，本屆工黨政府的首要任務是壓低能源價格，清潔能源是實現該目標的關鍵。我們過去兩年在清潔能源領域取得的進展，讓這一目標具備可行性。本屆政府堅定承諾實現2050年淨零排放，而這需要對能源體系進行深度改革。相關安排從本次預算案啟動，並將透過十年規劃，在未來數月乃至數年持續落地。”"
+    },
+    {
+      "id": "5176487",
+      "time": "2026-10-28 20:50:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：暫停對100多種超市商品徵收關稅。"
+    },
+    {
+      "id": "mkt:01a18290-47ac-7ee0-a9b8-6374c18190f6",
+      "time": "2026-10-28 20:50:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor Hunt said he will extend tax relief measures for motorists."
+    },
+    {
+      "id": "5176486",
+      "time": "2026-10-28 20:50:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將較高里程費率上調至每英里35便士。"
+    },
+    {
+      "id": "5176485",
+      "time": "2026-10-28 20:50:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國歡迎越南簽署《阿爾忒彌斯協定》。"
+    },
+    {
+      "id": "5176484",
+      "time": "2026-10-28 20:50:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將延長對駕車者的減稅措施。"
+    },
+    {
+      "id": "5176483",
+      "time": "2026-10-28 20:50:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【淳中科技：2026年第三季度歸母淨利潤虧損2.16億元】淳中科技公告，2026年第三季度營業收入6912.6萬元，同比增長6.64%；歸母淨利潤虧損2.16億元，扣非淨利潤虧損1580.92萬元。2026年前三季度營業收入1.87億元，同比下降3.62%；歸母淨利潤虧損8468.03萬元，扣非淨利潤虧損5793.55萬元。"
+    },
+    {
+      "id": "5176482",
+      "time": "2026-10-28 20:50:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國的希利：該計劃將耗資 26 億英鎊。"
+    },
+    {
+      "id": "5176481",
+      "time": "2026-10-28 20:49:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將為2000萬戶家庭發放100英鎊能源補貼。"
+    },
     {
       "id": "mkt:01a1828f-211f-7ee0-a9b8-5b45672f73f5",
       "time": "2026-10-28 20:49:40",
@@ -115296,102 +115558,6 @@
         "國際"
       ],
       "text": "【商務部副部長兼中華人民共和國國際貿易談判副代表凌激會見法羅群島副總理兼外交和漁業部長尼爾森】10月21日，商務部副部長兼中華人民共和國國際貿易談判副代表凌激與丹麥自治領法羅群島副總理兼外交和漁業部長尼爾森會談。凌激表示，近年來，中國與法羅群島貿易快速增長，法羅群島特色海產品深受中國消費者青睞。中方重視發展與法羅群島經貿關係，願同法羅方加強對話合作，推進貿易自由化便利化。尼爾森表示，法羅群島堅定支援自由貿易和經濟全球化，願進一步深化貿易、船舶、旅遊等領域對華合作。會後，雙方簽署了《中華人民共和國商務部與法羅群島自治政府關於加強經貿合作的諒解備忘錄》。"
-    },
-    {
-      "id": "5158822",
-      "time": "2026-10-21 20:54:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "AT&T：第三季度光纖業務每使用者平均收入（ARPU）下降4%，原因包括：入門級定價策略、為捆綁無線與寬頻服務的客戶提供折扣，以及從Lumen公司收購的區域內低ARPU客戶群不斷擴大。"
-    },
-    {
-      "id": "te:markets:593867",
-      "time": "2026-10-21 20:53:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Africa",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "South African Rand Hovers at 1-Month High — The South African rand hovered around 16.4 per USD, close to its highest level since September 23, after Finance Minister Enoch Godongwana unveiled the medium-term budget statement that provides for a temporary reduction in the fuel levy amid elevated global oil prices. Data released earlier showed South Africa's inflation rate rose further to 4.5% in September from 4.4% in August, though slightly below the expected 4.7%, mainly due to rising domestic fuel prices. Meanwhile, the statement underscored the government’s commitment to fiscal discipline, with estimates for both the debt-to-GDP ratio and the budget deficit for the current fiscal year (2026/27) revised lower and expected to decline further in the years ahead. The Treasury also released draft fiscal anchor legislation for public comment, expected to be tabled in parliament next year. Nevertheless, the 2026 GDP growth forecast was cut to 1.2% from 1.6%."
-    },
-    {
-      "id": "5158821",
-      "time": "2026-10-21 20:53:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：七八成海上貿易通道遭封鎖，正開闢替代貿易路線】伊朗總統馬蘇德・佩澤希齊揚週三表示，伊朗此前 75% 至 80% 的貿易依靠海運開展，但相關海上通道現已受阻，德黑蘭方面正著力打通替代渠道。佩澤希齊揚在伊朗國家出口日活動上稱：“我國 75% 至 80% 的貿易走海路，而這些通道已經被他們封鎖。我們正在透過其他方式開闢通路，保障貿易持續運轉。”佩澤希齊揚還提到，在伊朗近期兩場衝突期間，政府調整部分法規，向各部部長、各省省長下放更多許可權；想要維持貿易與出口流通，同樣需要保持這類政策靈活性。"
-    },
-    {
-      "id": "5158820",
-      "time": "2026-10-21 20:53:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【含淘寶、高德、小紅書等，iPhone Duo正式開售前展示多款App適配進展】10月21日，在iPhone Duo正式開售前，蘋果一次性展示了8款App的適配進展，包括淘寶、高德地圖、小紅書、Xmind、飛書、WPS、騰訊影片、《NBA巔峰對決》，覆蓋電商、出行、內容社群、辦公、影片、遊戲等應用場景。"
-    },
-    {
-      "id": "te:markets:593866",
-      "time": "2026-10-21 20:52:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Rise as Oil and Gold Rebound — Futures tied to Canada’s stock market pointed higher on Wednesday, supported by a renewed rise in oil prices that boosted energy stocks and mining shares, helping offset the impact of steady gold prices. Investors are also looking ahead to next week’s Bank of Canada monetary policy decision, with markets increasingly pricing in a rate hike, while the federal budget is scheduled to be delivered on November 5. Meanwhile, Canada and Turkey are expected to sign a joint declaration aimed at deepening bilateral cooperation in four areas, including defence and energy, during Prime Minister Mark Carney’s visit later this week."
-    },
-    {
-      "id": "5158819",
-      "time": "2026-10-21 20:52:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【思泉新材：中標某CSP客戶液冷訂單專案有序推進中】10月21日，思泉新材（301489.SZ）在互動平臺表示，為及時應對CSP客戶、伺服器客戶、光模組客戶加大AI算力系統散熱投入的需求，公司將加大AI算力系統散熱相關產品的產能擴張。"
-    },
-    {
-      "id": "5158818",
-      "time": "2026-10-21 20:52:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "鹿特丹港：我們的網站暫時無法訪問。"
-    },
-    {
-      "id": "5158817",
-      "time": "2026-10-21 20:51:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國公共債務總額首次突破3萬億英鎊】英國國家統計局21日公佈的資料顯示，受政府支出增加、債務利息上升等因素影響，英國9月公共部門淨借款額超出預期，公共部門淨債務總額首次突破3萬億英鎊（約合26.8萬億元人民幣），英國政府面臨的財政壓力進一步加大。資料顯示，英國9月公共部門淨借款額為245億英鎊，比去年同期增加18億英鎊，增幅為7.7%，比英國預算責任辦公室此前預測高出19億英鎊。截至9月底，公共部門淨債務累計達到3.005萬億英鎊，相當於國內生產總值（GDP）的94.0%，處於上世紀60年代初以來的高位。（新華社）"
-    },
-    {
-      "id": "5158816",
-      "time": "2026-10-21 20:51:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天汽模：截至目前，公司控股股東未減持公司股份】10月21日，天汽模（002510.SZ）在互動平臺表示，公司理解廣大投資者對於市值表現的關切，也高度關注二級市場的股價波動情況。"
-    },
-    {
-      "id": "5158815",
-      "time": "2026-10-21 20:51:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外媒：克宮稱，出於人道主義考慮，普京決定釋放美國公民斯蒂芬·哈伯德】據俄羅斯“Vesti.ru”新聞網21日報道，俄總統新聞秘書、克里姆林宮發言人佩斯科夫稱，俄羅斯總統普京出於人道主義考慮，決定釋放在俄服刑的美國公民斯蒂芬·哈伯德。21日，美國總統特朗普在社交平臺上發帖稱，4年前，哈伯德於拜登政府時期被俄方拘押。帖子還稱，經過特朗普向俄方請求，哈伯德剛剛從監獄獲釋，正在回家的路上。（環球網）"
-    },
-    {
-      "id": "5158814",
-      "time": "2026-10-21 20:50:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "美聯航執行長表示，機票價格仍低於疫情前水平。"
     }
   ]
 }

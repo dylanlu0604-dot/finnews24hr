@@ -1,7 +1,269 @@
 {
   "date": "2026-10-28",
-  "count": 1843,
+  "count": 1873,
   "items": [
+    {
+      "id": "mkt:01a18293-2f4b-7ee0-a9b8-b754f8fa632c",
+      "time": "2026-10-28 20:54:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spanish authorities said a high-speed train collision killed at least 64 people."
+    },
+    {
+      "id": "5176500",
+      "time": "2026-10-28 20:54:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國預算案：燃油稅下調5便士的政策將延長至2027年7月。"
+    },
+    {
+      "id": "5176499",
+      "time": "2026-10-28 20:53:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將提高小企業稅率減免的門檻。"
+    },
+    {
+      "id": "mkt:01a18293-0323-7ee0-a9b8-abbcbc7e74af",
+      "time": "2026-10-28 20:53:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK finance minister said the government will only purchase and build new projects once they can be connected to the power grid."
+    },
+    {
+      "id": "mkt:01a18292-d279-7ee0-a9b8-a505afaa9822",
+      "time": "2026-10-28 20:53:42",
+      "tags": [
+        "MKT News",
+        "FTSE100",
+        "Impact bullish",
+        "GBPUSD"
+      ],
+      "text": "UK Chancellor Healy said more existing renewable projects will be included in fixed-price Contracts for Difference (CfDs)."
+    },
+    {
+      "id": "mkt:01a18292-8bc5-7ee0-a9b8-9d8ce8dba109",
+      "time": "2026-10-28 20:53:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK Chancellor Healy said the VAT relief on electricity will be extended until July next year."
+    },
+    {
+      "id": "5176498",
+      "time": "2026-10-28 20:53:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙稱高速列車事故造成至少64人死亡。"
+    },
+    {
+      "id": "5176497",
+      "time": "2026-10-28 20:53:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "米蘭上市的斯泰蘭蒂斯股價擴大漲幅，上漲8.6%，有望創下自2025年9月以來的最佳單日表現。"
+    },
+    {
+      "id": "5176496",
+      "time": "2026-10-28 20:53:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將支援商業街。"
+    },
+    {
+      "id": "mkt:01a18292-4ac4-7ee0-a9b8-96b834817d65",
+      "time": "2026-10-28 20:53:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports Russian Foreign Minister Lavrov will visit Atlanta on Oct. 30-31 to attend the G20 meeting."
+    },
+    {
+      "id": "mkt:01a18291-e763-7ee0-a9b8-8966cdc91c4e",
+      "time": "2026-10-28 20:52:42",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK Chancellor Healey said he will raise the national minimum wage."
+    },
+    {
+      "id": "mkt:01a18291-c63a-7ee0-a9b8-86e19d3a4d45",
+      "time": "2026-10-28 20:52:33",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK finance minister said the government will directly fund hydrogen projects."
+    },
+    {
+      "id": "5176495",
+      "time": "2026-10-28 20:52:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣醫療集團高管表示，從掃描資料或造影劑使用情況來看，尚未發現醫療程式放緩的跡象。"
+    },
+    {
+      "id": "mkt:01a18291-8650-7ee0-a9b8-783342ea5532",
+      "time": "2026-10-28 20:52:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report about 650,000 double-envelope ballots remain uncounted; they could affect the final allocation of parliamentary seats."
+    },
+    {
+      "id": "mkt:01a18291-7c39-7ee0-a9b8-74dd0544e5a5",
+      "time": "2026-10-28 20:52:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK Chancellor Healey said the government will suspend import duties on more than 100 supermarket items and introduce a new pension tax‑relief allowance."
+    },
+    {
+      "id": "5176494",
+      "time": "2026-10-28 20:52:10",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "扎哈羅娃稱，俄羅斯外長拉夫羅夫將於10月30日至31日出席在美國舉行的二十國集團外長會議。"
+    },
+    {
+      "id": "5176493",
+      "time": "2026-10-28 20:51:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福建金森：2026年第三季度淨利潤2510.52萬元，同比增長693.34%】福建金森公告，2026年第三季度營業收入5872.48萬元，同比增長27.88%；歸母淨利潤2510.52萬元，同比增長693.34%；扣非淨利潤2504.79萬元，同比增長672.47%。2026年前三季度營業收入1.04億元，同比增長8.35%；歸母淨利潤1152.34萬元，同比增長148.74%；扣非淨利潤1018.65萬元，同比增長142.71%。"
+    },
+    {
+      "id": "5176492",
+      "time": "2026-10-28 20:51:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將上調全國最低工資。全國生活工資將上調3.9%。"
+    },
+    {
+      "id": "5176491",
+      "time": "2026-10-28 20:51:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將免除收入不超過國家養老金價值的養老金領取者的所得稅。"
+    },
+    {
+      "id": "mkt:01a18290-c25e-7ee0-a9b8-6bcf5e5d91a0",
+      "time": "2026-10-28 20:51:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor Healy said he will raise the mileage allowance rate to 35 pence per mile."
+    },
+    {
+      "id": "5176489",
+      "time": "2026-10-28 20:51:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：新養老金稅收減免額度。"
+    },
+    {
+      "id": "5176488",
+      "time": "2026-10-28 20:51:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國財政大臣希利：政府首要目標是降低能源成本】英國財政大臣希利就國家電網與能源相關事項公佈一系列舉措，稱自己正在為能源政策“設定新方向”。“從現在起，本屆工黨政府的首要任務是壓低能源價格，清潔能源是實現該目標的關鍵。我們過去兩年在清潔能源領域取得的進展，讓這一目標具備可行性。本屆政府堅定承諾實現2050年淨零排放，而這需要對能源體系進行深度改革。相關安排從本次預算案啟動，並將透過十年規劃，在未來數月乃至數年持續落地。”"
+    },
+    {
+      "id": "5176487",
+      "time": "2026-10-28 20:50:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：暫停對100多種超市商品徵收關稅。"
+    },
+    {
+      "id": "mkt:01a18290-47ac-7ee0-a9b8-6374c18190f6",
+      "time": "2026-10-28 20:50:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor Hunt said he will extend tax relief measures for motorists."
+    },
+    {
+      "id": "5176486",
+      "time": "2026-10-28 20:50:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將較高里程費率上調至每英里35便士。"
+    },
+    {
+      "id": "5176485",
+      "time": "2026-10-28 20:50:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國歡迎越南簽署《阿爾忒彌斯協定》。"
+    },
+    {
+      "id": "5176484",
+      "time": "2026-10-28 20:50:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將延長對駕車者的減稅措施。"
+    },
+    {
+      "id": "5176483",
+      "time": "2026-10-28 20:50:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【淳中科技：2026年第三季度歸母淨利潤虧損2.16億元】淳中科技公告，2026年第三季度營業收入6912.6萬元，同比增長6.64%；歸母淨利潤虧損2.16億元，扣非淨利潤虧損1580.92萬元。2026年前三季度營業收入1.87億元，同比下降3.62%；歸母淨利潤虧損8468.03萬元，扣非淨利潤虧損5793.55萬元。"
+    },
+    {
+      "id": "5176482",
+      "time": "2026-10-28 20:50:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國的希利：該計劃將耗資 26 億英鎊。"
+    },
+    {
+      "id": "5176481",
+      "time": "2026-10-28 20:49:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將為2000萬戶家庭發放100英鎊能源補貼。"
+    },
     {
       "id": "mkt:01a1828f-211f-7ee0-a9b8-5b45672f73f5",
       "time": "2026-10-28 20:49:40",
