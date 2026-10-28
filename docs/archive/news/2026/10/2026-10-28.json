@@ -1,7 +1,170 @@
 {
   "date": "2026-10-28",
-  "count": 1986,
+  "count": 2004,
   "items": [
+    {
+      "id": "mkt:01a182aa-3a86-7ee0-a9ba-88028569b0a3",
+      "time": "2026-10-28 21:19:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports Russia and Azerbaijan are discussing natural gas swap supplies."
+    },
+    {
+      "id": "mkt:01a182aa-16e4-7ee0-a9ba-80fdaddda4dc",
+      "time": "2026-10-28 21:19:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor Healy pledged to cut welfare spending in a 'Labour way'."
+    },
+    {
+      "id": "mkt:01a182a9-fba2-7ee0-a9ba-79c5e1d942e5",
+      "time": "2026-10-28 21:19:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK finance minister said the government will tighten restrictions on payment of state pensions to beneficiaries living overseas."
+    },
+    {
+      "id": "mkt:01a182a9-d3ff-7ee0-a9ba-721c96d5a309",
+      "time": "2026-10-28 21:18:50",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "UK Chancellor Healey said the government will introduce a benefits-cutting bill and legislate welfare reform next year."
+    },
+    {
+      "id": "5176568",
+      "time": "2026-10-28 21:18:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯與亞塞拜然討論天然氣供應互換事宜。"
+    },
+    {
+      "id": "mkt:01a182a9-4b6b-7ee0-a9ba-69ae44e0e722",
+      "time": "2026-10-28 21:18:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【UK to cut firms' regulatory burden by £800m, chancellor says】In the budget the UK chancellor said the government will cut firms' regulatory and tariff burdens by £800m and boost public investment to tackle underinvestment in high‑growth companies. The plan adds £20.4bn to the National Wealth Fund and the British Business Bank over coming years to support about 140,000 jobs and pledges cooperation with pension providers and asset managers to steer more private capital into innovative, fast‑growing UK firms. The government will legislate a regulatory exemption/sandbox to allow testing and rapid scale‑up of innovations such as drones and medicines under safety safeguards, and will re-establish a regulatory optimisation unit to remove obsolete rules and administrative burdens; the unit was abolished by the previous Conservative government."
+    },
+    {
+      "id": "te:markets:595857",
+      "time": "2026-10-28 21:17:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises Led by Banks — The FTSE 100 edged higher on Wednesday as investors assessed Chancellor John Healey’s first budget, which emphasized fiscal discipline while introducing measures to ease the cost of living. Healey said fiscal headroom would narrow to £15 billion in 2029-30 before recovering to £22 billion the following year. Banking stocks rallied after the government’s tax measures proved less severe than feared, with Standard Chartered gaining over 4%, while Lloyds and Barclays rose around 3.8% each. The temporary increase in the bank surcharge to 6%, below the previously feared 8%, helped support sentiment. Betting companies also advanced after machine games duty was raised to 25% from 20%. However, GSK fell more than 5% following disappointing results, with declining Shingrix vaccine sales raising concerns about future growth. Unilever also dropped over 3%, as weakness in North America overshadowed stronger performance in emerging markets, ahead of the planned food business separation."
+    },
+    {
+      "id": "5176567",
+      "time": "2026-10-28 21:17:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：將削減福利支出。"
+    },
+    {
+      "id": "mkt:01a182a8-7537-7ee0-a9ba-6394bf5a1005",
+      "time": "2026-10-28 21:17:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor Healey said the next spending review will ring-fence dedicated funding for preventative spending to lower future costs."
+    },
+    {
+      "id": "5176566",
+      "time": "2026-10-28 21:17:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：我們正在改革“失靈”的福利制度。"
+    },
+    {
+      "id": "5176565",
+      "time": "2026-10-28 21:16:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：下一輪支出審查將把能夠降低未來成本的預防性支出列為專項保障。"
+    },
+    {
+      "id": "mkt:01a182a8-03b4-7ee0-a9ba-5b95f9b180ee",
+      "time": "2026-10-28 21:16:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel completes ballot-box count; Netanyahu-led Likud provisionally leads】On the 28th local time, Israeli sources said all ballot boxes in the parliamentary election have been counted and Prime Minister Netanyahu's Likud currently leads in valid votes and remains the largest party. Netanyahu's right-wing bloc and the opposition bloc led by Gadi Eizenkot are deadlocked on seat allocation, and no single bloc currently has a majority to form a government. Tens of thousands of special ballots, including from soldiers and diplomatic staff, remain to be counted, leaving final seat outcomes uncertain. The Israel Central Elections Committee has not yet confirmed these reports."
+    },
+    {
+      "id": "mkt:01a182a7-9afa-7ee0-a9ba-512d5e9b6e5b",
+      "time": "2026-10-28 21:16:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor Healey launches review of productivity at the National Health Service (NHS)."
+    },
+    {
+      "id": "mkt:01a182a7-738f-7ee0-a9ba-4bf47d7c1237",
+      "time": "2026-10-28 21:16:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "UK finance minister urged investment in artificial intelligence to drive transformation of the civil service."
+    },
+    {
+      "id": "5176564",
+      "time": "2026-10-28 21:16:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：啟動對英國國家醫療服務體系生產率的評估。"
+    },
+    {
+      "id": "5176563",
+      "time": "2026-10-28 21:15:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：投資人工智慧以推動公務員體系轉型。"
+    },
+    {
+      "id": "te:economy:595856",
+      "time": "2026-10-28 21:15:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Full Year GDP Growth",
+        "Importance 1"
+      ],
+      "text": "OBR Downgrades UK Growth Forecast for 2027 — The UK economy is forecast to grow by 1% in 2027, according to the latest projections from the Office for Budget Responsibility (OBR), presented by Chancellor John Healey in his first budget statement to Parliament. The forecast marks a downgrade from the OBR’s previous estimate of 1.6%, published in March before the outbreak of the Iran war. Growth is expected to accelerate to 1.6% in 2028, 1.8% in 2029, 1.7% in 2030 and 1.6% in 2031. The latest projections compare with the OBR’s previous forecasts of 1.6% growth in 2028 and 1.5% in both 2029 and 2030. Meanwhile, the growth forecast for 2026 was revised slightly higher to 1.2%, up from 1.1% previously."
+    },
+    {
+      "id": "5176562",
+      "time": "2026-10-28 21:15:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：埃隆·馬斯克是個傑出的人。"
+    },
     {
       "id": "mkt:01a182a6-6bae-7ee0-a9ba-44cd4abd44f9",
       "time": "2026-10-28 21:15:06",
