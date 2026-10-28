@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-29 03:26:24",
+  "updated": "2026-10-29 03:30:15",
   "count": 13073,
   "items": [
+    {
+      "id": "mkt:01a183fc-1f13-7ee0-a9ca-ee3dd7b30e15",
+      "time": "2026-10-29 03:28:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Analyst: Walsh's remarks steadied markets】Analyst Chris Anstey said today’s statement—and Walsh’s briefing—clarified that officials need more information to determine the appropriate stance to bring inflation back to 2%. That explanation contrasts with July, when the Fed left rates unchanged amid high inflation and Walsh failed to explain policymakers’ logic, triggering a sharp market sell-off; the clearer messaging today appears to have calmed investors."
+    },
+    {
+      "id": "5177159",
+      "time": "2026-10-29 03:27:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "“新債王”岡拉克：股票配置比例約為30%，且僅配置於等權重標普指數。"
+    },
+    {
+      "id": "mkt:01a183fb-1488-7ee0-a9ca-e64e248b37c7",
+      "time": "2026-10-29 03:27:12",
+      "tags": [
+        "MKT News",
+        "S&P500"
+      ],
+      "text": "Gundlach: equity allocation about 30%, invested only in an equal-weight S&P strategy."
+    },
+    {
+      "id": "mkt:01a183fb-0136-7ee0-a9ca-da2b195c1561",
+      "time": "2026-10-29 03:27:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Gundlach warned that concentrated exposure to AI carries risks."
+    },
     {
       "id": "5177158",
       "time": "2026-10-29 03:24:11",
@@ -117855,45 +117897,6 @@
         "國際"
       ],
       "text": "美國國務院：撤離令僅針對沙烏地阿拉伯境內部分工作人員，並非整個海灣地區。"
-    },
-    {
-      "id": "5159229",
-      "time": "2026-10-22 03:29:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "記者：威特科夫稱普京富有同情心。\n\n特朗普：我想可以這麼說，他畢竟放走了一個原本要終身服刑的人。"
-    },
-    {
-      "id": "mkt:01a15ff0-0803-7ee0-a930-651deb046c53",
-      "time": "2026-10-22 03:28:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "WTI crude fell $0.50 intraday; the U.S. State Department ordered non-emergency U.S. government employees and their families to depart Saudi Arabia."
-    },
-    {
-      "id": "mkt:01a15fee-cf84-7ee0-a930-589b144f6e6d",
-      "time": "2026-10-22 03:27:28",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. State Department ordered non-emergency U.S. government employees and their dependents in Saudi Arabia to depart."
-    },
-    {
-      "id": "5159225",
-      "time": "2026-10-22 03:26:49",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國務院：美國國務院釋出命令，要求駐沙烏地阿拉伯的非緊急美國政府僱員及其家屬撤離。"
     }
   ]
 }

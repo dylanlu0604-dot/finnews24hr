@@ -1,7 +1,49 @@
 {
   "date": "2026-10-29",
-  "count": 451,
+  "count": 455,
   "items": [
+    {
+      "id": "mkt:01a183fc-1f13-7ee0-a9ca-ee3dd7b30e15",
+      "time": "2026-10-29 03:28:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Analyst: Walsh's remarks steadied markets】Analyst Chris Anstey said today’s statement—and Walsh’s briefing—clarified that officials need more information to determine the appropriate stance to bring inflation back to 2%. That explanation contrasts with July, when the Fed left rates unchanged amid high inflation and Walsh failed to explain policymakers’ logic, triggering a sharp market sell-off; the clearer messaging today appears to have calmed investors."
+    },
+    {
+      "id": "5177159",
+      "time": "2026-10-29 03:27:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "“新債王”岡拉克：股票配置比例約為30%，且僅配置於等權重標普指數。"
+    },
+    {
+      "id": "mkt:01a183fb-1488-7ee0-a9ca-e64e248b37c7",
+      "time": "2026-10-29 03:27:12",
+      "tags": [
+        "MKT News",
+        "S&P500"
+      ],
+      "text": "Gundlach: equity allocation about 30%, invested only in an equal-weight S&P strategy."
+    },
+    {
+      "id": "mkt:01a183fb-0136-7ee0-a9ca-da2b195c1561",
+      "time": "2026-10-29 03:27:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Gundlach warned that concentrated exposure to AI carries risks."
+    },
     {
       "id": "5177158",
       "time": "2026-10-29 03:24:11",
