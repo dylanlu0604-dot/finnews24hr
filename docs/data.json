@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-29 07:56:26",
-  "count": 13041,
+  "updated": "2026-10-29 08:00:17",
+  "count": 13043,
   "items": [
+    {
+      "id": "5177423",
+      "time": "2026-10-29 07:58:33",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【農村地區部分老人孩子今年可免費接種流感疫苗】今年以來，財政部專門安排資金，支援農村地區65歲及以上老年人等群體免費接種流感疫苗，為農村地區“一老一小”重點人群免費提供1劑次三價流感病毒裂解疫苗接種。目前，各地按照國家政策要求，正緊鑼密鼓開展農村地區“一老一小”流感疫苗免費接種工作。（人民日報）"
+    },
+    {
+      "id": "5177422",
+      "time": "2026-10-29 07:57:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星SDI第三季度營業利潤為4078億韓元，預期1868.2億韓元。"
+    },
+    {
+      "id": "mkt:01a184f1-ee82-7ee0-a9cd-a009516389da",
+      "time": "2026-10-29 07:56:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea said it will monitor financial and foreign-exchange market conditions."
+    },
+    {
+      "id": "5177421",
+      "time": "2026-10-29 07:56:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：將監控金融和外匯市場狀況。"
+    },
+    {
+      "id": "5177420",
+      "time": "2026-10-29 07:56:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報道：LME計劃結合香港五年規劃推進金屬代幣化】據知情人士透露，倫敦金屬交易所（LME）正瞄準將其香港倉庫中儲存的金屬轉化為可用於融資的數字資產，此舉與香港特區建設大宗商品樞紐的五年規劃密切相關。以金屬為支撐創造數字資產有望吸引投資者、交易商和金融機構，這是香港今年9月釋出的新五年經濟藍圖中的目標，同時也將為LME開闢新的收入來源。該倫敦交易所回應稱：“LME正處於探索將場外金屬庫存代幣化以支援業務融資的早期階段……我們將與利益相關方進行溝通，以制定我們的計劃。”LME已安排於11月初舉行一場僅限邀請制的線下行業圓桌會議，來討論該倡議。"
+    },
+    {
+      "id": "mkt:01a184f1-ada6-7ee0-a9cd-9b22158010ff",
+      "time": "2026-10-29 07:56:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【China International Capital Co: Fed hikes not over but no need to rush】China International Capital Co said the Fed held in October and retains a firm anti-inflation stance but can be patient. Some previously hawkish officials have moved to a wait-and-see posture, reducing the urgency for consecutive hikes. Since the September increase US financial conditions have tightened marginally and the inflation risk premium has eased, giving the Fed scope to observe policy effects. The report expects one more hike in December followed by a pause, and characterizes the current tightening as more likely moderate and gradual than aggressive. A Fed official announced plans from next year to reduce the frequency of rate votes and to devote some meetings to long-term strategy, continuing efforts to reform the Fed’s policy framework. Near-term risk of surprise additional tightening has declined, though the medium-term stance remains tilted toward tightness."
+    },
     {
       "id": "5177418",
       "time": "2026-10-29 07:52:49",
@@ -117541,38 +117597,6 @@
         "市場"
       ],
       "text": "日經225指數上午開盤報64539.36點，跌幅0.13%。"
-    },
-    {
-      "id": "5159535",
-      "time": "2026-10-22 08:00:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報110.02美元/桶。"
-    },
-    {
-      "id": "mkt:01a160e7-249d-7ee0-a933-ae229aa7457b",
-      "time": "2026-10-22 07:58:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump abandons plan to rename Atlantic the 'Trump Ocean'】US President Trump said he called Google Maps to request renaming the Atlantic the 'Trump Ocean'. Google CEO Sundar Pichai refused, saying oceans span many countries and asking Google not to proceed; Trump said the change likely won’t go through and the Atlantic name will remain."
-    },
-    {
-      "id": "5159534",
-      "time": "2026-10-22 07:58:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國網路安全機構敦促更新PHP安全補丁】據一份宣告稱，在發現安全漏洞後，韓國網際網路振興院（KISA）建議使用者將PHP軟體更新至最新版本。KISA建議PHP 8.1及更早版本的使用者升級至受支援的版本，因為官方已停止對這些舊版本的安全支援。"
-    },
-    {
-      "id": "5159533",
-      "time": "2026-10-22 07:57:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家海洋預報臺根據《海洋災害應急預案》釋出海浪橙色警報】受今年第30號颱風“薔琵”（超強颱風級）的影響，預計10月22日上午到23日上午，東海南部、釣魚島附近海域、臺灣以東洋麵將出現6到8米的狂浪區，臺灣海峽、南海東北部、巴士海峽將出現4到6米的巨浪到狂浪區，近海海域海浪預警級別為黃色;福建近岸海域將出現4到5米的巨浪，該近岸海域海浪預警級別為橙色，浙江近岸海域將出現3.5到4.4米的大浪到巨浪，該近岸海域海浪預警級別為黃色，上海、廣東東部近岸海域將出現2.5到3.4米的大浪，該近岸海域海浪預警級別為藍色。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。"
     }
   ]
 }
