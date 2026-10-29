@@ -1,7 +1,222 @@
 {
-  "updated": "2026-10-29 16:45:27",
-  "count": 13075,
+  "updated": "2026-10-29 16:49:33",
+  "count": 13099,
   "items": [
+    {
+      "id": "mkt:01a186d8-fab7-7ee0-a9d9-7ba302886294",
+      "time": "2026-10-29 16:48:49",
+      "tags": [
+        "MKT News",
+        "0700.HK",
+        "Impact bullish"
+      ],
+      "text": "【Tencent launches BuddyOne; WorkBuddy to support third-party agents; Tencent Cloud overseas AI demand posts triple-digit growth】At the Global Digital Ecosystem Conference Tencent launched BuddyOne and said WorkBuddy will open to third-party agents and enterprise-developed agents. WorkBuddy has been deployed across more than 50 industries, covering 50% of China’s top 500 companies and 60% of the top 100; platform partners and developers exceed 50,000. Tencent Cloud’s overseas AI demand has recorded triple-digit growth. Tencent also said Hy4 will be launched soon as a substantial upgrade over Hy4preview that introduces visual understanding; Hy4flash was released recently."
+    },
+    {
+      "id": "te:markets:596189",
+      "time": "2026-10-29 16:48:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Rise as ECB Decision Looms — The CAC 40 rose 0.9% to 7,954 on Thursday, hitting its highest level in nearly two weeks as investors awaited the European Central Bank’s monetary policy decision later in the day. The central bank is widely expected to leave interest rates unchanged following its 25 bps hike in September, while investors look for guidance on the policy outlook. Attention is also focused on President Christine Lagarde’s comments on France’s bond market turmoil, as the country faces mounting pressure in debt markets. Meanwhile, investors welcomed a fresh batch of corporate earnings. Renault climbed nearly 4% after reporting resilient Q3 revenue, driven by a surge in electric vehicle sales. TotalEnergies also gained 0.9% after beating Q3 earnings expectations, supported by higher oil prices as the war in the Middle East continued to disrupt energy markets. In contrast, STMicroelectronics fell 1.2%, tracking broader weakness across the technology sector."
+    },
+    {
+      "id": "5179179",
+      "time": "2026-10-29 16:48:40",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【贛鋒鋰業：股東李良彬質押合計3860萬股公司股份】贛鋒鋰業公告稱，公司第一大股東及一致行動人李良彬於2026年10月26日、10月28日分別質押公司股份3100萬股、760萬股，合計3860萬股，佔其所持股份比例10.20%，佔公司總股本比例1.84%，質權人分別為中原信託有限公司、中國中金財富證券有限公司，資金用途為個人資金需求。本次質押後，李良彬及其一致行動人累計質押1.15億股，佔其持股比例28.36%，佔公司總股本比例5.50%，質押風險可控。"
+    },
+    {
+      "id": "5179178",
+      "time": "2026-10-29 16:48:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【指南針：前三季度營收16.74億元 淨利同比降70.62%】指南針公告稱，2026年前三季度實現營業總收入16.74億元，同比增長19.41%；歸屬於上市公司股東的淨利潤3406.95萬元，同比下降70.62%；扣非歸母淨利潤3111.14萬元，同比下降34.00%。2026年第三季度實現營業總收入4.23億元，同比下降9.44%；淨虧損9112.29萬元，同比由盈轉虧。業績變動主要受證券市場景氣度、上年同期收購先鋒基金確認非經常性投資收益致基數較高、推廣費及股份支付費用增長等因素影響。"
+    },
+    {
+      "id": "5179177",
+      "time": "2026-10-29 16:48:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全通教育：2026年第三季度淨利潤虧損2971.53萬元】全通教育公告，2026年第三季度營業收入5775.53萬元，同比下降29.52%；淨利潤虧損2971.53萬元；扣非淨利潤虧損2981.24萬元。2026年前三季度營業收入1.46億元，同比下降29.47%；淨利潤虧損7125.79萬元；扣非淨利潤虧損7298.29萬元。"
+    },
+    {
+      "id": "5179176",
+      "time": "2026-10-29 16:48:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波韻升：前三季度營收54.84億元 淨利同比增39.63%】寧波韻升公告稱，2026年第三季度實現營業收入21.47億元，同比增長37.56%；歸母淨利潤1.11億元，同比下降33.88%；扣非歸母淨利潤9396.85萬元，同比下降42.14%。2026年前三季度實現營業收入54.84億元，同比增長40.24%；歸母淨利潤3.85億元，同比增長39.63%；扣非歸母淨利潤3.32億元，同比增長32.20%。業績變動主要系產品銷售單價、銷售重量同比增加，第三季度期間費用增加。"
+    },
+    {
+      "id": "5179175",
+      "time": "2026-10-29 16:48:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海優新材：前三季營收9.60億元 淨虧損收窄】海優新材公告稱，2026年第三季度實現營業收入3.49億元，同比增長47.29%；淨虧損1267.61萬元。2026年前三季度實現營業收入9.60億元，同比增長10.32%；淨虧損6023.96萬元，同比減虧1.48億元，主要系膠膜業務控風險、降本增效，毛利率提升帶動減虧。前三季度研發投入4117.42萬元，同比下降28.84%。"
+    },
+    {
+      "id": "5179174",
+      "time": "2026-10-29 16:47:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美迪西：前三季度營收12.15億元 同比增44.13%】美迪西公告稱，2026年第三季度實現營業收入4.53億元，同比增長49.89%；歸母淨利潤4039.68萬元，同比增長340.65%；扣非歸母淨利潤3921.64萬元，同比增長239.34%。2026年前三季度實現營業收入12.15億元，同比增長44.13%；歸母淨利潤9200萬元，同比增長409.92%；扣非歸母淨利潤8224.32萬元，同比增長249.88%。業績增長主要系全球創新藥研發需求回暖，公司訂單儲備充足，各業務板塊均實現顯著增長，產能利用率提升攤薄單位成本，綜合毛利率同比提升10.38個百分點至30.72%。"
+    },
+    {
+      "id": "te:markets:596186",
+      "time": "2026-10-29 16:47:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Hits 48-week Low — Silver decreased to 52.58 USD/t.oz, the lowest since November 2025. Over the past 4 weeks, Silver lost 12.89%, and in the last 12 months, it increased 7.47%."
+    },
+    {
+      "id": "5179173",
+      "time": "2026-10-29 16:47:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中原環保：2026年第三季度淨利潤2.46億元，同比下降24.06%】中原環保公告，2026年第三季度營業收入12.1億元，同比下降17.44%；淨利潤2.46億元，同比下降24.06%；扣非淨利潤2.37億元，同比下降20.17%。2026年前三季度營業收入36.13億元，同比下降7.78%；淨利潤8.98億元，同比下降12.16%；扣非淨利潤8.53億元，同比下降13.28%。"
+    },
+    {
+      "id": "5179172",
+      "time": "2026-10-29 16:47:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上期所：關於釋出《上海期貨交易所兩方開票業務指引》的公告】為進一步加強兩方開票業務管理，上海期貨交易所制定了《上海期貨交易所兩方開票業務指引》，現予以釋出，自2027年1月15日收盤後實施。《鑄造鋁合金兩方開票業務指引》(2025年8月版)同時廢止。  英文文字見官方英文網站，僅供參考。如與中文文字不一致，以中文文字為準。  特此公告。"
+    },
+    {
+      "id": "5179171",
+      "time": "2026-10-29 16:47:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海優新材：前三季營收9.60億元 淨虧損收窄】海優新材公告稱，2026年第三季度實現營業收入3.49億元，同比增長47.29%；淨虧損1267.61萬元。2026年前三季度實現營業收入9.60億元，同比增長10.32%；淨虧損6023.96萬元，同比減虧1.48億元，主要系膠膜業務控風險、降本增效，毛利率提升帶動減虧。前三季度研發投入4117.42萬元，同比下降28.84%。"
+    },
+    {
+      "id": "5179170",
+      "time": "2026-10-29 16:46:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【節能風電：前三季度營收31.51億元 淨利同比降43.65%】節能風電公告稱，2026年第三季度實現營業收入9.63億元，同比下降0.36%；歸母淨利潤5832.35萬元，同比下降51.27%。2026年前三季度實現營業收入31.51億元，同比下降7.60%；歸母淨利潤4.23億元，同比下降43.65%；扣非歸母淨利潤4.13億元，同比下降42.85%。業績變動主要因平均風速下降、限電率增加致上網電量減少，平均上網電價同比下降，陸上風電增值稅即徵即退50%優惠政策終止。截至2026年9月30日，公司累計風電裝機容量663.716萬千瓦，運營裝機623.766萬千瓦，累計獨立儲能裝機30萬千瓦。"
+    },
+    {
+      "id": "mkt:01a186d7-3820-7ee0-a9d9-7282f1d3497b",
+      "time": "2026-10-29 16:46:53",
+      "tags": [
+        "MKT News",
+        "NOW.O",
+        "Impact bearish"
+      ],
+      "text": "Barclays cuts ServiceNow (NOW) PT to $152 from $160."
+    },
+    {
+      "id": "te:markets:596185",
+      "time": "2026-10-29 16:46:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Lower — Italy’s FTSE MIB edged lower to around 49,700 on Thursday, pausing a four-day winning streak as investors assessed corporate earnings ahead of the European Central Bank’s policy decision. Davide Campari-Milano tumbled 5.8% despite a 3.4% increase in Q3 organic revenue that beat expectations, as the company flagged a slowdown in North America. STMicroelectronics fell 1.2% despite reporting better-than-expected Q3 operating profit, supported by demand from AI data centers and satellite operators. On the upside, Prysmian gained 1.1% after posting record quarterly adjusted EBITDA and raising its full-year guidance. Meanwhile, the ECB is widely expected to keep interest rates unchanged. Domestically, September unemployment data and October consumer and business confidence figures are also due later today."
+    },
+    {
+      "id": "mkt:01a186d7-0259-7ee0-a9d9-699f8dd46f65",
+      "time": "2026-10-29 16:46:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Botswana, Seychelles and Togo plan to open embassies in Moscow and that Russia supports the moves."
+    },
+    {
+      "id": "5179169",
+      "time": "2026-10-29 16:46:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【麗人麗妝：前三季度營收12.40億元 同比增5.38%】麗人麗妝公告稱，2026年第三季度實現營業收入3.46億元，同比增長0.03%，毛利率40.85%，同比下降2.82個百分點。2026年前三季度實現營業收入12.40億元，同比增長5.38%，毛利率41.16%，同比上升0.29個百分點。截至2026年9月30日，公司在運營店鋪234家，較二季度末減少13家。"
+    },
+    {
+      "id": "5179168",
+      "time": "2026-10-29 16:46:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【首航新能：前三季度營收20.23億元 淨虧損1.08億元】首航新能公告稱，2026年前三季度實現營業收入20.23億元，同比增長15.89%；歸屬於上市公司股東的淨虧損1.08億元，同比下降194.36%；扣除非經常性損益後的淨虧損1.28億元，同比下降185.68%。2026年第三季度實現營業收入7.13億元，同比增長12.68%；歸屬於上市公司股東的淨虧損3556.36萬元，同比下降255.42%。業績變動主要受原材料價格上漲、出口退稅率變化、銷售費用增長及匯兌損失等因素影響。"
+    },
+    {
+      "id": "5179167",
+      "time": "2026-10-29 16:46:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州燃氣：擬參與收購銅仁天然氣49%股權】貴州燃氣公告稱，公司擬以不超過2373.903萬元，透過貴州陽光產權交易所公開摘牌方式參與收購貴州天然氣能源投資股份有限公司所持銅仁天然氣能源投資有限公司49%股權。本次交易構成關聯交易，關聯董事蔡坤、張徑已迴避表決，董事會同意授權公司經理層辦理本次股權專案相關具體事宜。"
+    },
+    {
+      "id": "5179164",
+      "time": "2026-10-29 16:46:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【珀萊雅：2026年第三季度淨利潤8820.3萬元，同比下降61.18%】珀萊雅公告，2026年第三季度營業收入22.53億元，同比增長29.76%；歸母淨利潤8820.3萬元，同比下降61.18%；扣非淨利潤7904.19萬元，同比下降65.20%。2026年前三季度營業收入76.27億元，同比增長7.46%；歸母淨利潤12.56億元，同比增長22.46%；扣非淨利潤7.43億元，同比下降25.50%。"
+    },
+    {
+      "id": "5179163",
+      "time": "2026-10-29 16:45:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【峨眉山Ａ：2026年第三季度淨利潤9058.06萬元，同比下降19.79%】峨眉山Ａ公告，2026年第三季度營業收入2.23億元，同比下降18.99%；淨利潤9058.06萬元，同比下降19.79%；扣非淨利潤9167.58萬元，同比下降18.68%。前三季度營業收入6.66億元，同比下降9.09%；淨利潤2.13億元，同比下降8.99%；扣非淨利潤2.14億元，同比下降7.74%。"
+    },
+    {
+      "id": "5179161",
+      "time": "2026-10-29 16:45:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗海軍：三艘違規油輪在霍爾木茲海峽南部非法航道上觸雷爆炸】伊朗革命衛隊海軍公共關係部表示，在過去的24小時內，3艘違規油輪在霍爾木茲海峽南部非法航道上經過時，與水雷相撞，發生爆炸和火災，並被遺棄在霍爾木茲海峽南部海岸。這些油輪關閉了所有雷達和導航系統，無視革命衛隊海軍的警告，試圖從海峽南部的非法航道中逃離，最終撞上水雷而爆炸。"
+    },
+    {
+      "id": "mkt:01a186d5-d20a-7ee0-a9d9-60a4abb643b5",
+      "time": "2026-10-29 16:45:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【IRGC Navy says three oil tankers struck sea mines on unauthorized route south of Strait of Hormuz】The IRGC Navy public relations unit said three oil tankers struck sea mines, exploded and caught fire while transiting an unauthorized route south of the Strait of Hormuz in the past 24 hours; the vessels were abandoned and left along the southern coast. The statement said the ships had shut off all radar and navigation systems and ignored IRGC warnings as they attempted to flee the unauthorized lane. The IRGC said the route is contaminated, that shipowners and crews are responsible for using it and should not trust CENTCOM social media, and warned that provocations, particularly those it alleges are supported by CENTCOM, will be met with force."
+    },
+    {
+      "id": "5179160",
+      "time": "2026-10-29 16:45:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【峨眉山A：雲上旅投與嘉點芥茉簽署合作協議，期限10年】峨眉山A公告，公司控股子公司峨眉山雲上旅遊投資有限公司（簡稱雲上旅投）透過公開徵集遴選合作方，經董事會審議確定嘉點芥茉（遼寧）文化傳媒有限公司為峨眉山市綏山鎮峨川路99號文旅專案合作方，並簽署《合作協議》。合作方負責專案投資、建設和運營，雲上旅投收取基礎收益及浮動收益，合作期限10年。本事項無需提交股東會審議，不構成關聯交易，將對公司未來財務狀況產生一定積極影響。"
+    },
     {
       "id": "5179159",
       "time": "2026-10-29 16:44:49",
