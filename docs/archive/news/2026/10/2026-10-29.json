@@ -1,7 +1,61 @@
 {
   "date": "2026-10-29",
-  "count": 1242,
+  "count": 1247,
   "items": [
+    {
+      "id": "mkt:01a1859c-bf6f-7ee0-a9d2-be98abed4e14",
+      "time": "2026-10-29 11:03:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "002202.SZ",
+        "Impact bullish"
+      ],
+      "text": "China A-share wind-power equipment sector rallied: Feiwo Technology surged over 15%, Tianshun Wind Energy hit the daily trading limit, and Haili Wind Power, Taisheng Wind Energy and Goldwind also gained."
+    },
+    {
+      "id": "5178314",
+      "time": "2026-10-29 11:03:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長聯科技在浙江成立新材料科技公司】企查查APP顯示，近日，浙江長聯新材料科技有限公司成立，經營範圍包含服裝輔料製造；服裝輔料銷售；塑膠製品製造；塑膠製品銷售等。企查查股權穿透顯示，該公司由長聯科技全資持股。"
+    },
+    {
+      "id": "5178313",
+      "time": "2026-10-29 11:02:56",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：降紫金礦業目標價至48港元，維持“買入”評級，列入確信名單】高盛發表研報指，紫金礦業第三季淨利潤184億元，每股盈利0.69元，同比升26%；剔除一次性收益後經常性淨利潤180億元，同比升42%。首九個月經常性淨利潤568億元，相當於該行全年預測及市場預期的70%至71%，大致符合預期。金礦業務毛利低於預期，主要受產量較預期低、金價較弱及單位成本較高拖累；銅礦業務毛利則優於預期，受惠銅價強於預期及單位成本較低。高盛預期紫金礦業2026至2028年經常性溢利複合增長率達22%，由金、銅價格上升及產量增長(金、銅產量複合年增長率8%)共同推動，並預期2027年銅產量同比增長將重新加速至9%。該行將2026至2028年盈利預測分別下調2%、上調1%及下調5%，維持“買入”評級，列入確信名單，並將目標價由51港元下調至48港元。"
+    },
+    {
+      "id": "mkt:01a1859c-1ae4-7ee0-a9d2-b45ea786968c",
+      "time": "2026-10-29 11:02:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02318.HK",
+        "Impact bullish",
+        "02628.HK",
+        "02328.HK"
+      ],
+      "text": "Hong Kong-listed insurers rose; Ping An (02318.HK) gained over 3%, China Life (02628.HK) and China P&C (02328.HK) climbed more than 2%, with AIA (01299.HK) and China Pacific Insurance (02601.HK) also advancing."
+    },
+    {
+      "id": "te:markets:596050",
+      "time": "2026-10-29 11:01:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Eases Amid Fed Uncertainty — The US 10-year Treasury yield slipped slightly below 5% on Thursday, resuming its decline after the Federal Reserve left interest rates unchanged as widely expected but offered limited guidance on its next policy move. Fed Chair Kevin Warsh also suggested that the central bank could reduce the number of interest-rate decisions from eight to six per year, potentially adding to market uncertainty. Meanwhile, two policymakers dissented in favor of a 25-basis-point rate hike, reinforcing expectations for a possible increase in December amid persistent energy-driven inflation. Investors are now awaiting the US PCE price index, the Fed’s preferred inflation gauge, for further clues on the future direction of monetary policy. Market attention is also focused on upcoming policy announcements from the European Central Bank and the Bank of Japan, with both institutions widely expected to keep interest rates unchanged."
+    },
     {
       "id": "mkt:01a1859a-3809-7ee0-a9d2-acb1c51f5310",
       "time": "2026-10-29 11:00:38",

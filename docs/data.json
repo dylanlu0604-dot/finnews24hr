@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-29 11:01:01",
-  "count": 13102,
+  "updated": "2026-10-29 11:04:50",
+  "count": 13098,
   "items": [
+    {
+      "id": "mkt:01a1859c-bf6f-7ee0-a9d2-be98abed4e14",
+      "time": "2026-10-29 11:03:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "002202.SZ",
+        "Impact bullish"
+      ],
+      "text": "China A-share wind-power equipment sector rallied: Feiwo Technology surged over 15%, Tianshun Wind Energy hit the daily trading limit, and Haili Wind Power, Taisheng Wind Energy and Goldwind also gained."
+    },
+    {
+      "id": "5178314",
+      "time": "2026-10-29 11:03:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長聯科技在浙江成立新材料科技公司】企查查APP顯示，近日，浙江長聯新材料科技有限公司成立，經營範圍包含服裝輔料製造；服裝輔料銷售；塑膠製品製造；塑膠製品銷售等。企查查股權穿透顯示，該公司由長聯科技全資持股。"
+    },
+    {
+      "id": "5178313",
+      "time": "2026-10-29 11:02:56",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：降紫金礦業目標價至48港元，維持“買入”評級，列入確信名單】高盛發表研報指，紫金礦業第三季淨利潤184億元，每股盈利0.69元，同比升26%；剔除一次性收益後經常性淨利潤180億元，同比升42%。首九個月經常性淨利潤568億元，相當於該行全年預測及市場預期的70%至71%，大致符合預期。金礦業務毛利低於預期，主要受產量較預期低、金價較弱及單位成本較高拖累；銅礦業務毛利則優於預期，受惠銅價強於預期及單位成本較低。高盛預期紫金礦業2026至2028年經常性溢利複合增長率達22%，由金、銅價格上升及產量增長(金、銅產量複合年增長率8%)共同推動，並預期2027年銅產量同比增長將重新加速至9%。該行將2026至2028年盈利預測分別下調2%、上調1%及下調5%，維持“買入”評級，列入確信名單，並將目標價由51港元下調至48港元。"
+    },
+    {
+      "id": "mkt:01a1859c-1ae4-7ee0-a9d2-b45ea786968c",
+      "time": "2026-10-29 11:02:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02318.HK",
+        "Impact bullish",
+        "02628.HK",
+        "02328.HK"
+      ],
+      "text": "Hong Kong-listed insurers rose; Ping An (02318.HK) gained over 3%, China Life (02628.HK) and China P&C (02328.HK) climbed more than 2%, with AIA (01299.HK) and China Pacific Insurance (02601.HK) also advancing."
+    },
+    {
+      "id": "te:markets:596050",
+      "time": "2026-10-29 11:01:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Eases Amid Fed Uncertainty — The US 10-year Treasury yield slipped slightly below 5% on Thursday, resuming its decline after the Federal Reserve left interest rates unchanged as widely expected but offered limited guidance on its next policy move. Fed Chair Kevin Warsh also suggested that the central bank could reduce the number of interest-rate decisions from eight to six per year, potentially adding to market uncertainty. Meanwhile, two policymakers dissented in favor of a 25-basis-point rate hike, reinforcing expectations for a possible increase in December amid persistent energy-driven inflation. Investors are now awaiting the US PCE price index, the Fed’s preferred inflation gauge, for further clues on the future direction of monetary policy. Market attention is also focused on upcoming policy announcements from the European Central Bank and the Bank of Japan, with both institutions widely expected to keep interest rates unchanged."
+    },
     {
       "id": "mkt:01a1859a-3809-7ee0-a9d2-acb1c51f5310",
       "time": "2026-10-29 11:00:38",
@@ -118051,79 +118105,6 @@
         "公司"
       ],
       "text": "蘋果公司就澳大利亞聯邦法院要求其開放 iOS 系統的裁決表示：我們將申請暫緩執行並對結果提出上訴。"
-    },
-    {
-      "id": "5160063",
-      "time": "2026-10-22 11:04:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【人民銀行廣東省分行：截至9月末廣東社融規模存量達44.98萬億元，同比增長7.0%】10月22日，人民銀行廣東省分行舉行2026年三季度廣東省金融執行形勢新聞釋出會。記者在會上獲悉，截至9月末，廣東社會融資規模存量44.98萬億元，同比增長7.0%，增速與上年同期持平；1-9月，廣東社會融資規模增量2.55萬億元、佔全國的9.3%，同比多增1557億元。"
-    },
-    {
-      "id": "5160050",
-      "time": "2026-10-22 11:03:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蕪湖國資、中國中鐵等成立多式聯運公司，註冊資本8億元】企查查APP顯示，近日，蕪湖裕溪口多式聯運有限公司成立，法定代表人為吳鶴群，註冊資本為8億元，經營範圍包含：出口監管倉庫經營；公共鐵路運輸；國內貨物運輸代理；國際貨物運輸代理；國內船舶代理等。企查查股權穿透顯示，該公司由安徽省港鐵物流發展有限公司、中國中鐵全資子公司中鐵三局集團有限公司、蕪湖銀湖實業有限公司等共同持股。"
-    },
-    {
-      "id": "5160049",
-      "time": "2026-10-22 11:03:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【具身智慧大算力晶片企業輝羲智慧年內累計融資超25億元】近日，具身智慧大算力晶片企業輝羲智慧宣佈，隨著Pre-B+及B輪融資相繼完成，公司2026年內累計股權融資規模已超25億元。本次融資由北京市人工智慧產業投資基金領投。"
-    },
-    {
-      "id": "5160048",
-      "time": "2026-10-22 11:03:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉利旗下汽車部件公司增資至18.24億元，新增交銀投資等為股東】企查查APP顯示，近日，浙江吉潤梅山汽車部件有限公司發生工商變更，註冊資本從4億元增加至18.24億元，增幅約為356.08%；新增農銀金融資產投資有限公司、工融金投二號（北京）新興產業股權投資基金合夥企業（有限合夥）、交銀金融資產投資有限公司等為股東；同時，公司主要人員亦發生變更。企查查顯示，浙江吉潤梅山汽車部件有限公司成立於2017年9月，法定代表人為趙春林，現由浙江吉利汽車有限公司及上述新增股東等共同持股。"
-    },
-    {
-      "id": "5160047",
-      "time": "2026-10-22 11:02:58",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【吉林省出臺首部民營經濟領域地方性法規】據吉林釋出，10月22日，省政府新聞辦舉行政策吹風會，介紹《吉林省民營經濟促進條例》有關情況。釋出會介紹《吉林省民營經濟促進條例》將於11月1日正式施行。《吉林省民營經濟促進條例》是吉林省首部民營經濟領域地方性法規，與國家《民營經濟促進法》共同實行、配套執行，從法律法規兩個層面為民營經濟健康發展、可持續發展提供完備的法制保障。"
-    },
-    {
-      "id": "5160046",
-      "time": "2026-10-22 11:02:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "申鉉松：關注債券市場對最終利率的預估。"
-    },
-    {
-      "id": "5160044",
-      "time": "2026-10-22 11:02:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "蘋果連續主力合約日內跌6%，現報5600.00元。"
-    },
-    {
-      "id": "5160036",
-      "time": "2026-10-22 11:01:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "申鉉松：我們未必需要遵循金融市場所預期的終端政策利率水平。"
-    },
-    {
-      "id": "5160034",
-      "time": "2026-10-22 11:01:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年前三季度湖北GDP同比增長4.7%】湖北省政府新聞辦舉行2026年前三季度湖北經濟執行情況新聞釋出會。根據地區生產總值統一核算結果，前三季度湖北全省地區生產總值47,385.97億元，按不變價格計算，同比增長4.7%。分產業看，第一產業增加值3826.00億元，增長2.9%；第二產業增加值18,253.99億元，增長5.8%；第三產業增加值25,305.99億元，增長4.2%。"
     }
   ]
 }
