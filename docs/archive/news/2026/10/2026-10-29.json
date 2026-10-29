@@ -1,7 +1,298 @@
 {
   "date": "2026-10-29",
-  "count": 2018,
+  "count": 2049,
   "items": [
+    {
+      "id": "mkt:01a1870c-4a15-7ee0-a9db-f1db87cbc979",
+      "time": "2026-10-29 17:44:51",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The 21st National Congress of the Communist Party of China will be held in Beijing in H2 2027."
+    },
+    {
+      "id": "mkt:01a1870b-c7eb-7ee0-a9db-ee22528524bc",
+      "time": "2026-10-29 17:44:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "The Fifth Plenum of the 20th CPC Central Committee approved a decision on several major issues to persistently advance comprehensive, strict governance of the Party."
+    },
+    {
+      "id": "5179414",
+      "time": "2026-10-29 17:44:03",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【中共中央將於30日上午舉行新聞釋出會 介紹和解讀黨的二十屆五中全會精神】中共中央將於10月30日上午10時舉行新聞釋出會，介紹和解讀黨的二十屆五中全會精神。中央廣播電視總檯及人民網、新華網、中國網等將對新聞釋出會進行直播。（新華社）"
+    },
+    {
+      "id": "5179413",
+      "time": "2026-10-29 17:43:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "黨的二十屆五中全會審議透過《中共中央關於持之以恆推進全面從嚴治黨若干重大問題的決定》。（新華社）"
+    },
+    {
+      "id": "mkt:01a1870b-300a-7ee0-a9db-e7ca5a00f9f3",
+      "time": "2026-10-29 17:43:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The fifth plenum of the 20th Central Committee of the Communist Party of China was held in Beijing from Oct. 26 to 29, 2026."
+    },
+    {
+      "id": "5179412",
+      "time": "2026-10-29 17:43:17",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【比亞迪第三季度淨利潤同比增長28.1% 前三季度淨利潤下降4.2%】比亞迪釋出2026年第三季度報告，第三季度實現營業收入2214.88億元，同比增長13.59%；歸屬於上市公司股東的淨利潤100.20億元，同比增長28.08%。前三季度實現營業收入5663.04億元，同比增長0.01%；歸母淨利潤223.45億元，同比下降4.24%；扣非歸母淨利潤210.04億元，同比增長2.51%。前三季度經營活動產生的現金流量淨額544.70億元，同比增長33.36%。"
+    },
+    {
+      "id": "5179411",
+      "time": "2026-10-29 17:42:42",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中國共產黨第二十屆中央委員會第五次全體會議公報。（新華社）"
+    },
+    {
+      "id": "te:economy:596219",
+      "time": "2026-10-29 17:42:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Home Loans",
+        "Importance 2"
+      ],
+      "text": "UK Mortgage Lending Below Expectations — Net borrowing of mortgage debt by UK individuals decreased to £3.9 billion in September, from £4.2 billion in August, below the previous 6-month average of £4.9 billion and market expectations of £4.2 billion. The annual growth rate for net mortgage lending decreased to 3.4% in September, from 3.6% in August. Secured gross lending increased slightly to £24.2 billion in September, up from £23.7 billion in August, still below the 6-month average of £26.3 billion. Repayments increased slightly in September to £21.4 billion, from £20.2 billion, slightly above the 6-month average of £21.3 billion. Meanwhile, the ‘effective’ interest rate on newly drawn mortgages increased to 4.63% in September, from 4.60% in August, while the rate on the outstanding stock of mortgages was 4.03% in September, up from 4.00% in August."
+    },
+    {
+      "id": "5179410",
+      "time": "2026-10-29 17:42:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "嘉信理財CEO裡克·沃斯特：我們當然希望參與Anthropic的IPO。"
+    },
+    {
+      "id": "mkt:01a18709-ad79-7ee0-a9db-ddd8ab7e7093",
+      "time": "2026-10-29 17:42:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "Germany's DAX index rose as much as 1.00% intraday."
+    },
+    {
+      "id": "5179409",
+      "time": "2026-10-29 17:41:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北辰實業：2026年第三季度淨利潤虧損3.71億元】北辰實業公告，2026年第三季度營業收入12.55億元，同比下降6.84%；歸屬於上市公司股東的淨利潤虧損3.71億元，扣除非經常性損益後的淨利潤虧損3.8億元。2026年前三季度營業收入43.01億元，同比下降1.51%；歸屬於上市公司股東的淨利潤虧損12.52億元，扣除非經常性損益後的淨利潤虧損12.74億元。"
+    },
+    {
+      "id": "5179408",
+      "time": "2026-10-29 17:41:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【禮來美股盤前漲超2%】禮來美股盤前漲超2%，現報1315.0美元。"
+    },
+    {
+      "id": "5179407",
+      "time": "2026-10-29 17:41:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【林州重機：股票交易異常波動 無應披露未披露重大事項】林州重機公告稱，公司股票連續3個交易日（2026年10月27日、28日、29日）收盤價格跌幅偏離值累計超過20%，屬於股票交易異常波動情形。經核查，公司目前經營情況正常，內外部經營環境未發生重大變化；公司、控股股東及實際控制人不存在應披露而未披露的重大事項，異常波動期間控股股東、實控人未買賣公司股票。公司及相關當事人此前收到《行政處罰事先告知書》，目前正配合監管調查，後續將依規披露進展。敬請投資者理性投資，注意風險。"
+    },
+    {
+      "id": "5179406",
+      "time": "2026-10-29 17:41:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣電網路：2026年第三季度淨利潤虧損4億元】廣電網路公告，2026年第三季度營業收入2.12億元，同比下降14.06%；淨利潤虧損4億元；扣非淨利潤虧損4.07億元。2026年前三季度營業收入7.41億元，同比下降17.12%；淨利潤虧損8.87億元；扣非淨利潤虧損8.85億元。"
+    },
+    {
+      "id": "mkt:01a18708-a966-7ee0-a9db-d1ec5016b5bc",
+      "time": "2026-10-29 17:40:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "01211.HK",
+        "Impact bullish"
+      ],
+      "text": "BYD Co. (01211.HK) reported Q3 2026 net profit attributable to shareholders of 10.019 billion yuan, up 28.08% YoY."
+    },
+    {
+      "id": "mkt:01a18708-9902-7ee0-a9db-ca1e1485086c",
+      "time": "2026-10-29 17:40:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "DNO executive chairman says the company is studying the possibility of exporting oil from Iraq's Kurdistan region via Syria."
+    },
+    {
+      "id": "5179405",
+      "time": "2026-10-29 17:40:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天南湖：2026年第三季度淨利潤虧損861.76萬元】航天南湖公告，2026年第三季度營業收入2.28億元，同比增長244.75%；歸屬於上市公司股東的淨利潤虧損861.76萬元，同比增長44.59%；扣非淨利潤虧損929.55萬元，同比增長44.62%。2026年前三季度營業收入6.29億元，同比增長7.40%；歸屬於上市公司股東的淨利潤虧損472.62萬元，同比下降112.61%；扣非淨利潤虧損647.39萬元，同比下降118.70%。"
+    },
+    {
+      "id": "5179404",
+      "time": "2026-10-29 17:40:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪第三季度淨利潤100.2億元。"
+    },
+    {
+      "id": "5179403",
+      "time": "2026-10-29 17:40:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪：9個月營收5,663.0億元人民幣。"
+    },
+    {
+      "id": "5179402",
+      "time": "2026-10-29 17:40:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪：9個月淨利潤223.4億元人民幣。"
+    },
+    {
+      "id": "5179401",
+      "time": "2026-10-29 17:40:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【南向資金今日淨賣出33.59億港元】港股通（滬）方面，中國海洋石油、長飛光纖光纜分別獲淨買入2.39億港元、1.70億港元；阿里巴巴-W淨賣出額居首，金額為3.85億港元；港股通（深）方面，中國平安、金斯瑞生物-一千分別獲淨買入2.85億港元、1.81億港元；中芯國際淨賣出額居首，金額為9.63億港元。"
+    },
+    {
+      "id": "5179400",
+      "time": "2026-10-29 17:39:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿迪達斯執行長：第四季度的計劃投資旨在降低組織複雜性、改善基礎設施並實施人工智慧。"
+    },
+    {
+      "id": "mkt:01a18707-bb02-7ee0-a9db-c2c87bb36e14",
+      "time": "2026-10-29 17:39:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ENI's head of global portfolio trading said he does not expect European gas prices this winter to reach the 2022 peak."
+    },
+    {
+      "id": "mkt:01a18707-a9db-7ee0-a9db-b9d6f11dbea1",
+      "time": "2026-10-29 17:39:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Repsol CEO said the outlook for refining margins remains optimistic even if the Strait of Hormuz situation normalizes."
+    },
+    {
+      "id": "5179399",
+      "time": "2026-10-29 17:39:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西部超導：前三季營收38.74億元 淨利同比降59.62%】西部超導公告稱，2026年第三季度實現營業收入12.63億元，同比下降0.28%；淨虧損8300.81萬元，同比下降180.20%；扣非淨利潤4567.98萬元，同比下降51.99%。2026年前三季度實現營業收入38.74億元，同比下降2.87%；歸母淨利潤2.62億元，同比下降59.62%；扣非淨利潤2.02億元，同比下降65.76%。業績變動主要系產品結構調整、部分產品售價下降致毛利減少，研發投入增加，政府補助減少，第三季度股權投資公允價值降低所致。"
+    },
+    {
+      "id": "5179398",
+      "time": "2026-10-29 17:39:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合合資訊：前三季營收15.86億元 淨利同比增15.50%】合合資訊公告稱，2026年第三季度公司實現營業收入5.55億元，同比增長20.46%；歸母淨利潤1.59億元，同比增長37.24%；扣非歸母淨利潤1.33億元，同比增長35.06%。2026年1-9月，公司實現營業收入15.86億元，同比增長21.64%；歸母淨利潤4.06億元，同比增長15.50%；扣非歸母淨利潤3.41億元，同比增長10.13%。截至2026年9月30日，公司主要C端產品月活使用者2.01億，同比增長6.35%；累計付費使用者1076.18萬，同比增長16.10%。"
+    },
+    {
+      "id": "te:economy:596217",
+      "time": "2026-10-29 17:39:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Consumer Credit",
+        "Importance 1"
+      ],
+      "text": "UK Consumer Credit Borrowing Below Forecasts — Net borrowing of consumer credit by UK individuals fell to £1.9 billion in September 2026, down from an upwardly revised £2.7 billion in August and below market expectations of £2.2 billion. The figure also came in below the previous six-month average of £2.1 billion. Credit card borrowing declined to £0.7 billion from £1.3 billion in August, while net borrowing through other forms of consumer credit, including car dealership finance and personal loans, eased to £1.2 billion from £1.4 billion. Despite the monthly slowdown, the annual growth rate of total consumer credit edged up to 9.8% from 9.7%. Credit card borrowing growth moderated to 13.1% from 13.3%, while growth in other consumer credit accelerated slightly to 8.3% from 8.1%."
+    },
+    {
+      "id": "5179397",
+      "time": "2026-10-29 17:38:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三六零：2026年第三季度淨利潤1.08億元，同比下降32.05%】三六零公告，2026年第三季度營業收入21.53億元，同比下降3.94%；歸屬於上市公司股東的淨利潤1.08億元，同比下降32.05%；扣非淨利潤4424.6萬元，同比下降72.16%。2026年前三季度營業收入63.25億元，同比增長4.23%；歸屬於上市公司股東的淨利潤3.24億元，扣非淨利潤1.98億元。第三季度淨利潤及扣非淨利潤同比下降，主要系對聯營企業和合營企業的投資收益下降所致。"
+    },
+    {
+      "id": "5179396",
+      "time": "2026-10-29 17:38:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國晟科技：前三季度營收3.25億元 同比降27.74%】國晟科技公告稱，2026年前三季度實現營業收入3.25億元，同比下降27.74%；歸屬於上市公司股東的淨虧損1.57億元。2026年第三季度營業收入為-1807.24萬元，同比下降112.61%，主要系光伏板塊收入衝減所致；歸屬於上市公司股東的淨虧損7113.38萬元，主要系光伏板塊收入衝減而固定費用較大等原因所致。"
+    },
+    {
+      "id": "5179395",
+      "time": "2026-10-29 17:38:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福昕軟體：前三季度營收7.24億元 淨利同比增3292.39%】福昕軟體公告稱，2026年前三季度實現營業收入7.24億元，同比增長7.09%；歸母淨利潤4766.72萬元，同比增長3292.39%；扣非歸母淨利潤2186.15萬元。第三季度單季實現營業收入2.53億元，同比微降0.17%；歸母淨利潤3370.88萬元，同比增長436.36%。前三季度文件業務訂閱收入佔比持續提升，數務業務新簽訂單同比增長84.19%。"
+    },
+    {
+      "id": "te:economy:596215",
+      "time": "2026-10-29 17:37:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Mortgage Approvals",
+        "Importance 2"
+      ],
+      "text": "UK Mortgage Approvals Fall More than Expected — Net mortgage approvals for UK house purchases, a key indicator of future borrowing, decreased to 53,400 in September 2026, from 54,800 in August and below market expectations of 54,000. Approvals reached their lowest level since December 2023 and remained well below the previous six-month average, highlighting continued pressure from elevated borrowing costs. Approvals for remortgaging with a different lender increased to 42,600 in September, from 34,000 in August. The effective interest rate on newly drawn mortgages increased to 4.63% in September, from 4.60% in August. The rate on the outstanding stock of mortgages was 4.03% in September, up from 4.00% in August."
+    },
     {
       "id": "5179394",
       "time": "2026-10-29 17:37:04",
