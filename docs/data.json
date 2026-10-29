@@ -1,7 +1,44 @@
 {
-  "updated": "2026-10-30 00:27:59",
-  "count": 12909,
+  "updated": "2026-10-30 00:31:52",
+  "count": 12908,
   "items": [
+    {
+      "id": "5180408",
+      "time": "2026-10-30 00:30:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國、法國股市收漲超1%】德國DAX 30指數初步收漲1.47%，報26080.72點。法國股指初步收漲1.30%，義大利股指初步收漲0.5%、銀行指數跌0.03%，英國股指初步收漲0.35%。"
+    },
+    {
+      "id": "5180407",
+      "time": "2026-10-30 00:30:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.87%，報649.76點。歐元區STOXX 50指數初步收漲0.78%，報6215.98點，整體低開高走。富時泛歐績優300指數初步收漲0.90%，報2592.10點。"
+    },
+    {
+      "id": "5180406",
+      "time": "2026-10-30 00:28:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：明日，歐盟委員會將提交一項提案，撥付烏克蘭支援貸款剩餘的 450 億歐元，用於滿足烏克蘭 2027 年的國防開支與預算援助需求。"
+    },
+    {
+      "id": "te:markets:596403",
+      "time": "2026-10-30 00:28:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Shaanxi Coal earnings above expectations at 0.57 CNY — Shaanxi Coal (601225) released earnings per share at 0.57 CNY, compared to market expectations of 0.54 CNY."
+    },
     {
       "id": "5180405",
       "time": "2026-10-30 00:23:57",
@@ -116565,51 +116602,6 @@
         "市場"
       ],
       "text": "默沙東股價飆升，觸及盤中高點2.7%。"
-    },
-    {
-      "id": "mkt:01a16474-35fd-7ee0-a94c-b5b008578f2e",
-      "time": "2026-10-23 00:31:39",
-      "tags": [
-        "MKT News",
-        "SKYD.N",
-        "Impact bullish"
-      ],
-      "text": "【Musk reported to invest about $1 bln in Skydance】Semafor, citing people familiar with the matter, reports Elon Musk has invested about $1 bln in Skydance (SKYD.N, formerly Paramount Global) to provide funding for cost cuts and to support the share price. The stake came roughly alongside capital from other investors, including board member Laurene Powell Jobs. Musk and Paramount did not immediately respond. Paramount CEO David Ellison has been exploring partnerships with wealthy backers. Musk is close to Oracle founder Larry Ellison; Larry Ellison previously provided more than $40 bln in equity financing guarantees for Paramount’s acquisition of Warner Bros and invested $1 bln in Musk’s $44 bln 2022 take-private of Twitter."
-    },
-    {
-      "id": "5162194",
-      "time": "2026-10-23 00:31:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "MODERNA股價迅速收窄跌幅至5%。"
-    },
-    {
-      "id": "5162193",
-      "time": "2026-10-23 00:30:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲天然氣期貨漲超4%】週四（10月22日）歐市尾盤，ICE英國天然氣期貨漲4.01%，報223.850便士/千卡，整體持續上漲、北京時間21:13達到225.280便士，突破10月20日盤中最高位222.600便士。TTF基準荷蘭天然氣期貨漲4.46%，報90.885歐元/兆瓦時，12:00打破低位窄幅震盪狀態並持續走高，21:18達到91.416歐元。ICE歐盟碳排放交易許可（期貨價格）漲0.42%，報86.27歐元/噸。"
-    },
-    {
-      "id": "5162192",
-      "time": "2026-10-23 00:30:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "SenesTech收到納斯達克最低買入價通知，並強調第三季度營收創紀錄。"
-    },
-    {
-      "id": "5162191",
-      "time": "2026-10-23 00:29:46",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "開雲集團美國存託憑證（ADR）下跌 9.4%，此前該公司報告稱其古馳品牌第三季度銷售額下降 6%。"
     }
   ]
 }
