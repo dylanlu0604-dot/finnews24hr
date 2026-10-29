@@ -1,7 +1,210 @@
 {
-  "updated": "2026-10-30 05:16:46",
-  "count": 13009,
+  "updated": "2026-10-30 05:20:34",
+  "count": 13027,
   "items": [
+    {
+      "id": "5180736",
+      "time": "2026-10-30 05:20:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "Circle執行長：正密切關注涉及幣安的潛在漏洞利用事件。"
+    },
+    {
+      "id": "mkt:01a18987-c4f3-7ee0-a9ef-d99d3c97d528",
+      "time": "2026-10-30 05:18:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) CEO said the company is willing to mass-produce any CPU for customers."
+    },
+    {
+      "id": "5180735",
+      "time": "2026-10-30 05:18:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜執行長表示，預計第四季度廣告銷售將恢復“近20%”的增長。"
+    },
+    {
+      "id": "mkt:01a18987-bc44-7ee0-a9ef-d0013152b900",
+      "time": "2026-10-30 05:18:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel CEO said the server CPU market could expand up to fivefold within five years, rising from $40bn to more than $200bn."
+    },
+    {
+      "id": "5180734",
+      "time": "2026-10-30 05:18:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜執行長：食品雜貨和日常必需品佔零售網站銷量的一半以上。"
+    },
+    {
+      "id": "5180733",
+      "time": "2026-10-30 05:18:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾執行長：我們願意為客戶大規模生產任何中央處理器。"
+    },
+    {
+      "id": "5180732",
+      "time": "2026-10-30 05:17:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜執行長表示，由於對 Trainium 晶片的需求非常強勁，客戶鼓勵我們在 AWS 之外提供該晶片，我們打算在 2027 年底這樣做。"
+    },
+    {
+      "id": "mkt:01a18986-52e5-7ee0-a9ef-ca409918c24d",
+      "time": "2026-10-30 05:17:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) CEO expects AWS to reach $1 trillion in annual revenue within five to ten years."
+    },
+    {
+      "id": "mkt:01a18986-47c9-7ee0-a9ef-c656e642c355",
+      "time": "2026-10-30 05:17:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) CEO said AWS is expected to grow by more than 40% in both 2027 and 2028."
+    },
+    {
+      "id": "5180731",
+      "time": "2026-10-30 05:17:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西PPSA：每位中標者獲得100萬桶石油。"
+    },
+    {
+      "id": "mkt:01a18986-3ede-7ee0-a9ef-ba5e273134e0",
+      "time": "2026-10-30 05:17:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O) CEO said the company plans to make its Trainium chips available for use outside AWS by end-2027."
+    },
+    {
+      "id": "mkt:01a18986-3902-7ee0-a9ef-b53bca4172f8",
+      "time": "2026-10-30 05:17:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Intel (INTC.O) CEO said the company is in talks with several highly strategic external customers about 18A-P chip manufacturing technology."
+    },
+    {
+      "id": "mkt:01a18986-1fb8-7ee0-a9ef-a83322b5587a",
+      "time": "2026-10-30 05:17:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) CEO said Fortune 500 companies' spending on Bedrock rose nearly sevenfold YoY."
+    },
+    {
+      "id": "mkt:01a18986-1465-7ee0-a9ef-a58ad2d328f4",
+      "time": "2026-10-30 05:17:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AMZN.O",
+        "Impact mixed"
+      ],
+      "text": "Amazon (AMZN.O) CEO expects capex to \"increase substantially\" in 2027."
+    },
+    {
+      "id": "5180730",
+      "time": "2026-10-30 05:17:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安：一旦獲得資訊將立即提供最新進展。"
+    },
+    {
+      "id": "5180729",
+      "time": "2026-10-30 05:16:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安：我們正在積極調查。"
+    },
+    {
+      "id": "5180728",
+      "time": "2026-10-30 05:16:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾執行長：根據我們的估計，伺服器CPU的潛在市場規模可能會從目前的400億美元增長到5年內的2000億美元以上，增長幅度高達五倍。"
+    },
+    {
+      "id": "5180727",
+      "time": "2026-10-30 05:16:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾執行長：伺服器CPU的潛在市場規模在五年內可能增長至2000億美元以上。"
+    },
+    {
+      "id": "5180726",
+      "time": "2026-10-30 05:16:28",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "亞馬遜CEO預計AWS將在未來5至10年內實現1萬億美元年收入。"
+    },
+    {
+      "id": "5180725",
+      "time": "2026-10-30 05:16:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安表示，已注意到有關可能存在安全問題的報道。"
+    },
     {
       "id": "5180724",
       "time": "2026-10-30 05:16:07",
@@ -117516,22 +117719,6 @@
         "國際"
       ],
       "text": "美國提議將生物技術納入對外投資限制範圍。"
-    },
-    {
-      "id": "5162782",
-      "time": "2026-10-23 05:20:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "Claude：現在，谷歌雲上面可以使用Anthropic旗下Claude平臺。"
-    },
-    {
-      "id": "5162781",
-      "time": "2026-10-23 05:19:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "據知情人士透露，加拿大石油勘探公司Logan Energy探索出售選項。"
     }
   ]
 }
