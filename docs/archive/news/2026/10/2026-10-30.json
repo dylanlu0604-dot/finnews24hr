@@ -1,7 +1,164 @@
 {
   "date": "2026-10-30",
-  "count": 413,
+  "count": 429,
   "items": [
+    {
+      "id": "5180704",
+      "time": "2026-10-30 05:08:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英特爾CEO：以色列工廠停產將影響第四季度10奈米伺服器出貨量。"
+    },
+    {
+      "id": "mkt:01a1897d-b114-7ee0-a9ef-4b47053555a9",
+      "time": "2026-10-30 05:07:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel CEO said Diamond Rapids, the company's first Intel 18AP server product, is currently in sampling and is expected to enter volume production on schedule in 2027."
+    },
+    {
+      "id": "te:markets:596452",
+      "time": "2026-10-30 05:07:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "ResMed earnings above expectations at 2.91 USD — ResMed (RMD) released earnings per share at 2.91 USD, compared to market expectations of 2.86 USD."
+    },
+    {
+      "id": "5180703",
+      "time": "2026-10-30 05:07:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：俄不希望與歐洲發生戰爭 但已做好準備】俄羅斯總統普京29日表示，俄羅斯不希望與歐洲發生戰爭，但已做好準備。他同時警告，如果俄歐之間爆發戰爭，將不會有勝利者。第三屆俄羅斯-非洲峰會暨經濟和人道主義論壇當天結束後的記者會上，有記者問俄羅斯是否應該為俄歐可能在2030年前爆發戰爭做好準備，普京發表上述言論。(新華社)"
+    },
+    {
+      "id": "5180702",
+      "time": "2026-10-30 05:07:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾表示，工廠停產將影響伺服器CPU出貨。"
+    },
+    {
+      "id": "5180701",
+      "time": "2026-10-30 05:07:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾執行長：Diamond Rapids 是我們首款採用 Intel 18A 製程的伺服器產品，目前正在進行樣品測試，並有望在 2027 年實現量產。"
+    },
+    {
+      "id": "mkt:01a1897c-4bca-7ee0-a9ef-4385f8d5ffed",
+      "time": "2026-10-30 05:06:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) CEO said AWS backlog reached $578 billion, up a triple-digit percentage year-on-year."
+    },
+    {
+      "id": "5180700",
+      "time": "2026-10-30 05:06:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾CEO：我們的首款Intel 18A伺服器產品Clearwater Forest已開始出貨併產生收入。"
+    },
+    {
+      "id": "5180699",
+      "time": "2026-10-30 05:06:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "Reddit執行長：谷歌的AI概覽和AI模式是搜尋流量下降的最大因素。"
+    },
+    {
+      "id": "te:markets:596451",
+      "time": "2026-10-30 05:05:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil’s 10-Year Bond Yield Nears Post-Election High — Brazil’s 10-year government bond yield rose to around 15.4%, the highest since the 15.6% touched immediately after President Lula’s runoff victory over Flávio Bolsonaro. Investors remain focused on fiscal policy, particularly the government’s commitment to controlling spending and public debt, which has risen significantly in recent years. Concerns over the lack of fiscal adjustment have intensified amid uncertainty over key appointments, including the Finance Ministry, and the direction of fiscal policy in Lula’s next term. Major banks have raised mortgage rates as rising funding costs weigh on lending conditions. In less than a week, Bradesco and Itaú announced increases in home loan rates amid rising government and corporate bond yields and market volatility. Meanwhile, stronger-than-expected US GDP growth and accelerating PCE inflation fueled volatility in US Treasury yields, with spillover effects on Brazil’s bond market."
+    },
+    {
+      "id": "5180698",
+      "time": "2026-10-30 05:05:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾表示，採購承諾和資本支出將大幅增加。"
+    },
+    {
+      "id": "5180697",
+      "time": "2026-10-30 05:05:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾CEO：關鍵零部件的採購承諾將在未來幾個季度內增長。"
+    },
+    {
+      "id": "5180696",
+      "time": "2026-10-30 05:05:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜執行長：AWS積壓訂單達5780億美元，同比增長三位數。"
+    },
+    {
+      "id": "mkt:01a1897b-2f7b-7ee0-a9ef-3f612a562b86",
+      "time": "2026-10-30 05:05:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) CEO said procurement commitments for key components will increase over the next few quarters."
+    },
+    {
+      "id": "mkt:01a1897a-eada-7ee0-a9ef-33c44928f225",
+      "time": "2026-10-30 05:04:56",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact mixed"
+      ],
+      "text": "Intel (INTC.O) CEO said the August equity offering provided financial resources to pursue future growth opportunities."
+    },
+    {
+      "id": "mkt:01a1897a-e786-7ee0-a9ef-2b5d4d4ceef0",
+      "time": "2026-10-30 05:04:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) CEO said he remains \"cautiously attentive\" to persistent challenges in meeting server demand over the next few quarters."
+    },
     {
       "id": "5180695",
       "time": "2026-10-30 05:04:32",
