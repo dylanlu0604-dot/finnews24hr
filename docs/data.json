@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-30 04:49:53",
-  "count": 12951,
+  "updated": "2026-10-30 04:53:41",
+  "count": 12952,
   "items": [
+    {
+      "id": "5180679",
+      "time": "2026-10-30 04:53:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【一艘油輪在霍爾木茲海峽遭襲】英國海上貿易行動辦公室29日通報，一艘油輪當天在駛出霍爾木茲海峽途中被不明發射物擊中，目前暫無船員受傷或環境影響報告。 通報說，事件發生於協調世界時29日16時（北京時間30日零時）。該油輪所屬公司安全官向英國海上貿易行動辦公室報告了這一事件。有關部門正在調查。 從通報所附示意圖看，油輪遇襲海域位於靠近阿曼一側的南部航道，由美方護航；海峽北部航道經伊朗水域，由伊朗方面管控。 該辦公室當天早些時候還通報，霍爾木茲海峽內、阿曼海塞卜以北9海里（約17公里）處，一艘單桅帆船起火，隨後傾斜沉沒，船員已全部安全撤離。該事件發生於協調世界時29日3時（北京時間29日11時）。 英國海上貿易行動辦公室提醒相關海域船隻謹慎航行，及時報告可疑活動。（新華社）"
+    },
+    {
+      "id": "5180678",
+      "time": "2026-10-30 04:50:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：哥倫比亞將在襲擊發生後向庫庫塔增派部隊。"
+    },
+    {
+      "id": "5180677",
+      "time": "2026-10-30 04:49:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼馬魯古省附近海域發生5.3級地震】據印尼氣象、氣候和地球物理局報告，當地時間10月30日3時32分，印尼馬魯古省圖阿爾市西北139公里處海域發生5.3級地震，震源深度為10公里。本次地震暫無海嘯風險。 (央視新聞)"
+    },
     {
       "id": "5180676",
       "time": "2026-10-30 04:48:34",
@@ -116987,24 +117012,6 @@
         "Brent"
       ],
       "text": "【Trump invokes Defense Production Act to accelerate US oil capacity expansion】The White House said on Oct. 22 President Trump invoked the Defense Production Act to designate domestic oil exploration and production, pipeline transport, storage, refining and marine terminals as critical national-defense resources. The action authorizes the federal government to use direct procurement, purchase commitments, financing and other financial measures to expand related capacity. The statement cited financing constraints, long project lead times, permitting and infrastructure bottlenecks and supply‑chain limits as reasons U.S. firms have struggled to meet demand, and said Trump waived certain requirements of Section 303 to speed expansion."
-    },
-    {
-      "id": "5162767",
-      "time": "2026-10-23 04:53:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "西部資料：預計到第二財季，其將佔近線硬碟出貨量的近30%到第三財季將達到50%。處於日曆年2027年上半年開始發貨的正軌之上。"
-    },
-    {
-      "id": "5162763",
-      "time": "2026-10-23 04:51:56",
-      "tags": [
-        "宏觀",
-        "市場",
-        "觀點"
-      ],
-      "text": "【大摩看好南非國債，但對蘭特保持謹慎】在南非財政部公佈債券回購計劃後，摩根士丹利對南非政府債券更為樂觀，預計該計劃將支撐較長期債券。財政部計劃包括實施國內債券回購以平滑未來到期兌付，並減少固定利率和通脹掛鉤債券的銷售。摩根士丹利分析師對蘭特較為謹慎，認為其容易受到全球利率、貴金屬和油價波動影響，因此更偏好南非久期資產而非外匯敞口。"
     }
   ]
 }
