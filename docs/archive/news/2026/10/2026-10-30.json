@@ -1,7 +1,34 @@
 {
   "date": "2026-10-30",
-  "count": 9,
+  "count": 12,
   "items": [
+    {
+      "id": "mkt:01a18868-aed0-7ee0-a9eb-0112f28fb95d",
+      "time": "2026-10-30 00:05:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Counting of special 'double-envelope' ballots for Israel's 26th Knesset largely complete】On Oct 29 local time, Israel's Central Elections Committee said the count of special 'double-envelope' ballots in the 26th Knesset election has largely been completed."
+    },
+    {
+      "id": "te:markets:596398",
+      "time": "2026-10-30 00:04:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Recovers from 16-Week Low — Wheat rose above $6.05 per bushel, recovering modestly from a 16-week low of $5.99 on October 28, after reports that China inquired about purchasing US soft red winter wheat for delivery next year. The inquiry by state-owned trader Cofco suggests recent US-China trade discussions and potential tariff reductions could lead to broader agricultural purchases. Beijing pledged to increase purchases of US farm goods, but progress beyond soybeans has been slow, with no US wheat or corn sales recorded so far this marketing year. Wheat prices have been steadily falling since hitting a 3-1/2-year high of $7.67 on August 28, with global production expected to reach its second-highest level on record and larger harvests in Australia and Argentina adding to availability. Hopes for renewed Russia-Ukraine peace talks have also weighed on prices by raising expectations of improved Black Sea grain trade, although ongoing attacks continue to pose supply risks."
+    },
+    {
+      "id": "5180394",
+      "time": "2026-10-30 00:03:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列議會選舉特殊選票清點工作基本完成】當地時間10月29日，以色列中央選舉委員會宣佈，以色列第26屆議會選舉的“雙層信封”特殊選票清點工作已基本結束。（央視新聞）"
+    },
     {
       "id": "mkt:01a18867-242f-7ee0-a9ea-f9ea820cdeaf",
       "time": "2026-10-30 00:03:43",

@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-30 00:04:23",
-  "count": 12941,
+  "updated": "2026-10-30 00:08:11",
+  "count": 12935,
   "items": [
+    {
+      "id": "mkt:01a18868-aed0-7ee0-a9eb-0112f28fb95d",
+      "time": "2026-10-30 00:05:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Counting of special 'double-envelope' ballots for Israel's 26th Knesset largely complete】On Oct 29 local time, Israel's Central Elections Committee said the count of special 'double-envelope' ballots in the 26th Knesset election has largely been completed."
+    },
+    {
+      "id": "te:markets:596398",
+      "time": "2026-10-30 00:04:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Recovers from 16-Week Low — Wheat rose above $6.05 per bushel, recovering modestly from a 16-week low of $5.99 on October 28, after reports that China inquired about purchasing US soft red winter wheat for delivery next year. The inquiry by state-owned trader Cofco suggests recent US-China trade discussions and potential tariff reductions could lead to broader agricultural purchases. Beijing pledged to increase purchases of US farm goods, but progress beyond soybeans has been slow, with no US wheat or corn sales recorded so far this marketing year. Wheat prices have been steadily falling since hitting a 3-1/2-year high of $7.67 on August 28, with global production expected to reach its second-highest level on record and larger harvests in Australia and Argentina adding to availability. Hopes for renewed Russia-Ukraine peace talks have also weighed on prices by raising expectations of improved Black Sea grain trade, although ongoing attacks continue to pose supply risks."
+    },
+    {
+      "id": "5180394",
+      "time": "2026-10-30 00:03:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列議會選舉特殊選票清點工作基本完成】當地時間10月29日，以色列中央選舉委員會宣佈，以色列第26屆議會選舉的“雙層信封”特殊選票清點工作已基本結束。（央視新聞）"
+    },
     {
       "id": "mkt:01a18867-242f-7ee0-a9ea-f9ea820cdeaf",
       "time": "2026-10-30 00:03:43",
@@ -116835,85 +116862,6 @@
         "其他"
       ],
       "text": "OpenAI：ChatGPT在優步的部署將使優步全球員工中超過3萬人能夠使用ChatGPT。"
-    },
-    {
-      "id": "mkt:01a1645e-9de4-7ee0-a94c-446afe2de1d7",
-      "time": "2026-10-23 00:08:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Semafor, Elon Musk has invested $1 billion in Ellison-backed Skydance (SKYD.N)."
-    },
-    {
-      "id": "5162167",
-      "time": "2026-10-23 00:07:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：優步面向全體員工引入ChatGPT企業版。"
-    },
-    {
-      "id": "5162166",
-      "time": "2026-10-23 00:07:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：ChatGPT Work還讓優步能夠使用OpenAI的前沿模型組合。"
-    },
-    {
-      "id": "5162165",
-      "time": "2026-10-23 00:07:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "受馬斯克投資公司的訊息提振，SKYDANCE股價升7.5%，創盤中新高。"
-    },
-    {
-      "id": "te:markets:594312",
-      "time": "2026-10-23 00:07:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.28% Lower — The FTSE 100 Index dropped 30 points or 0.28 percent on Thursday to close at 10722 points. Losses were led by Antofagasta (-6.17%), Fresnillo (-5.66%) and Anglo American (-5.60%). Offsetting the fall, top gainers were Rentokil Initial (8.39%), London Stock Exchange (7.86%) and Smith & Nephew (4.00%)."
-    },
-    {
-      "id": "5162164",
-      "time": "2026-10-23 00:06:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【房利美和房地美飆升 因阿克曼呼籲特朗普任內解除對“兩房”託管】Pershing Square的比爾·阿克曼接受採訪並發表評論後，房利美股價一度上漲18%，房地美最高上漲20%。阿克曼表示，“特朗普任期結束前解除對房利美和房地美的託管在政治上絕對至關重要”。他說：“我們已經提出了一項非常直接的方案，可以更高效地完成這件事”。"
-    },
-    {
-      "id": "5162163",
-      "time": "2026-10-23 00:06:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：10月23日00時00分在西藏那曲市巴青縣（北緯32.40度，東經94.01度）發生3.2級地震，震源深度10千米。"
-    },
-    {
-      "id": "5162162",
-      "time": "2026-10-23 00:05:30",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "馬斯克向埃裡森旗下Skydance投資10億美元。"
-    },
-    {
-      "id": "5162161",
-      "time": "2026-10-23 00:04:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合銀行前九個月營收22.3億歐元。聯合銀行前九個月總租金收入17.3億歐元。"
     }
   ]
 }
