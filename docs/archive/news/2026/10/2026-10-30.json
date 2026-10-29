@@ -1,7 +1,16 @@
 {
   "date": "2026-10-30",
-  "count": 23,
+  "count": 28,
   "items": [
+    {
+      "id": "5180405",
+      "time": "2026-10-30 00:23:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅同冰島外長貢納爾斯多蒂爾會談】中共中央政治局委員、外交部長王毅29日在北京同冰島外長貢納爾斯多蒂爾舉行會談。王毅表示，今年是中冰建交55週年。去年習近平主席同托馬斯多蒂爾總統會見，為兩國關係發展注入重要動力。中方讚賞冰島始終奉行一箇中國政策，願同冰方共享發展機遇。雙方要加強協作，推動構建更加公正合理的全球治理體系。王毅還簡要介紹了中共二十屆五中全會的情況。貢納爾斯多蒂爾表示，中國的成功對世界有重大意義。習近平主席治國理政著作的思想使人深受啟發。冰島高度重視冰中關係，願同中方加強協作。（央視新聞）"
+    },
     {
       "id": "5180404",
       "time": "2026-10-30 00:21:55",
@@ -9,6 +18,28 @@
         "國際"
       ],
       "text": "美國聯邦通訊委員會主席布倫丹・卡爾：廣播電視網路在播出可能存在瑕疵的民調結果前，應當履行 “盡職調查”。"
+    },
+    {
+      "id": "mkt:01a18877-842c-7ee0-a9eb-271441579de5",
+      "time": "2026-10-30 00:21:36",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "CITI/YOUGOV survey: UK long-term public inflation expectations eased to 4.0% in October from 4.3% in September."
+    },
+    {
+      "id": "mkt:01a18877-5212-7ee0-a9eb-1be8242c36ec",
+      "time": "2026-10-30 00:21:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Citi/YouGov survey: UK public one-year-ahead inflation expectations eased to 4.2% in October from 4.5% in September."
     },
     {
       "id": "5180403",
@@ -37,12 +68,28 @@
       "text": "花旗/YouGov調查： 英國 10 月公眾對未來一年通脹預期為 4.2%，9 月為 4.5%。"
     },
     {
+      "id": "mkt:01a18875-c8aa-7ee0-a9eb-128eb3d15105",
+      "time": "2026-10-30 00:19:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said the name of the new Canada-EU alliance \"is not important\"."
+    },
+    {
       "id": "5180400",
       "time": "2026-10-30 00:19:11",
       "tags": [
         "國際"
       ],
       "text": "加拿大總理卡尼：重要的是和歐盟結盟所創造的機遇。"
+    },
+    {
+      "id": "mkt:01a18873-d935-7ee0-a9eb-0868e97ee7cf",
+      "time": "2026-10-30 00:17:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel election committee asks Shin Bet to probe alleged foreign funding of vote】Israel’s Central Elections Committee chair on Oct. 29 asked the Shin Bet security service to investigate suspected improper foreign funding in the recent parliamentary election, media reported. Intelligence cited by public broadcaster alleges Qatar financed Arab‑Israeli voter‑mobilization groups. The committee’s acting director general said fraud claims are unfounded and there is currently no evidence of systemic violations or of Arab‑Israeli parties’ involvement. Prime Minister Netanyahu and political allies have accused foreign‑funded operations of “stealing” the result."
     },
     {
       "id": "5180399",
