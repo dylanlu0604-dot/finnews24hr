@@ -1,7 +1,102 @@
 {
   "date": "2026-10-30",
-  "count": 33,
+  "count": 42,
   "items": [
+    {
+      "id": "mkt:01a18887-2adf-7ee0-a9eb-4dc8a4baaddf",
+      "time": "2026-10-30 00:38:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EU Commissioner Jorgensen said half of the oil stocks to be released over the coming months will be diesel."
+    },
+    {
+      "id": "te:economy:596404",
+      "time": "2026-10-30 00:38:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Botswana",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Bank of Botswana Keeps Policy Rate at 5.5% — The Bank of Botswana left its benchmark rate steady at 5.5% on October 29, 2026, extending its pause for a second consecutive meeting. Policymakers noted that risks to the inflation outlook remain tilted to the upside, mainly due to potential second-round effects from higher domestic fuel prices and electricity tariffs, as well as the under-recovery in fuel prices. Headline inflation eased to 7.8% in September from 9.3% in August, but remained above the central bank’s 3–6% target range. The MPC expects inflation to remain above the objective range because of higher cost of fuel and electricity and revert in the second quarter of 2027. Inflation forecasts were revised upwards accordingly, with average inflation projected at 8.1% in 2026 (from 7.9% previously), and 5.4% in 2027 (from 4.9%)."
+    },
+    {
+      "id": "5180412",
+      "time": "2026-10-30 00:38:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟專員約根森：未來幾個月釋放的石油儲備中有一半將是柴油。"
+    },
+    {
+      "id": "mkt:01a18886-3899-7ee0-a9eb-423f93bf78d0",
+      "time": "2026-10-30 00:37:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "EU Commissioner Jorgensen said the bloc expects oil and gas supplies to remain secure, but households are struggling to pay energy bills."
+    },
+    {
+      "id": "mkt:01a18886-0863-7ee0-a9eb-3823f73d88cc",
+      "time": "2026-10-30 00:37:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EU Commissioner Jorgensen said member states have reiterated their commitment to accelerate the release of 42.6 mln barrels of oil."
+    },
+    {
+      "id": "5180411",
+      "time": "2026-10-30 00:37:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟專員約根森： 歐盟成員國重申承諾，加速投放 4260 萬桶石油儲備。"
+    },
+    {
+      "id": "5180410",
+      "time": "2026-10-30 00:37:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟專員約根森：我們並不擔憂石油、天然氣的供應安全，而是民眾在支付賬單方面面臨困難。"
+    },
+    {
+      "id": "mkt:01a18884-e720-7ee0-a9eb-378f16eb8044",
+      "time": "2026-10-30 00:36:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CVX.N",
+        "Impact bullish"
+      ],
+      "text": "Wall Street Journal reports Chevron (CVX.N) is returning to remote-area oil and gas exploration."
+    },
+    {
+      "id": "5180409",
+      "time": "2026-10-30 00:36:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：拉加德為全球經濟作出了許多貢獻。拉加德擁有 “才智、智慧與人文情懷”。"
+    },
     {
       "id": "mkt:01a18881-604f-7ee0-a9eb-2f5215138cd2",
       "time": "2026-10-30 00:32:22",

@@ -1,7 +1,102 @@
 {
-  "updated": "2026-10-30 00:35:42",
+  "updated": "2026-10-30 00:39:49",
   "count": 12905,
   "items": [
+    {
+      "id": "mkt:01a18887-2adf-7ee0-a9eb-4dc8a4baaddf",
+      "time": "2026-10-30 00:38:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EU Commissioner Jorgensen said half of the oil stocks to be released over the coming months will be diesel."
+    },
+    {
+      "id": "te:economy:596404",
+      "time": "2026-10-30 00:38:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Botswana",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Bank of Botswana Keeps Policy Rate at 5.5% — The Bank of Botswana left its benchmark rate steady at 5.5% on October 29, 2026, extending its pause for a second consecutive meeting. Policymakers noted that risks to the inflation outlook remain tilted to the upside, mainly due to potential second-round effects from higher domestic fuel prices and electricity tariffs, as well as the under-recovery in fuel prices. Headline inflation eased to 7.8% in September from 9.3% in August, but remained above the central bank’s 3–6% target range. The MPC expects inflation to remain above the objective range because of higher cost of fuel and electricity and revert in the second quarter of 2027. Inflation forecasts were revised upwards accordingly, with average inflation projected at 8.1% in 2026 (from 7.9% previously), and 5.4% in 2027 (from 4.9%)."
+    },
+    {
+      "id": "5180412",
+      "time": "2026-10-30 00:38:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟專員約根森：未來幾個月釋放的石油儲備中有一半將是柴油。"
+    },
+    {
+      "id": "mkt:01a18886-3899-7ee0-a9eb-423f93bf78d0",
+      "time": "2026-10-30 00:37:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "EU Commissioner Jorgensen said the bloc expects oil and gas supplies to remain secure, but households are struggling to pay energy bills."
+    },
+    {
+      "id": "mkt:01a18886-0863-7ee0-a9eb-3823f73d88cc",
+      "time": "2026-10-30 00:37:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EU Commissioner Jorgensen said member states have reiterated their commitment to accelerate the release of 42.6 mln barrels of oil."
+    },
+    {
+      "id": "5180411",
+      "time": "2026-10-30 00:37:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟專員約根森： 歐盟成員國重申承諾，加速投放 4260 萬桶石油儲備。"
+    },
+    {
+      "id": "5180410",
+      "time": "2026-10-30 00:37:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟專員約根森：我們並不擔憂石油、天然氣的供應安全，而是民眾在支付賬單方面面臨困難。"
+    },
+    {
+      "id": "mkt:01a18884-e720-7ee0-a9eb-378f16eb8044",
+      "time": "2026-10-30 00:36:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CVX.N",
+        "Impact bullish"
+      ],
+      "text": "Wall Street Journal reports Chevron (CVX.N) is returning to remote-area oil and gas exploration."
+    },
+    {
+      "id": "5180409",
+      "time": "2026-10-30 00:36:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：拉加德為全球經濟作出了許多貢獻。拉加德擁有 “才智、智慧與人文情懷”。"
+    },
     {
       "id": "mkt:01a18881-604f-7ee0-a9eb-2f5215138cd2",
       "time": "2026-10-30 00:32:22",
@@ -116504,81 +116599,6 @@
         "MKT News"
       ],
       "text": "Yemen government forces said Houthi heavy weapons and reinforcement units en route to the Taiz front were destroyed."
-    },
-    {
-      "id": "mkt:01a1647b-3ad2-7ee0-a94c-d6855d75cf6d",
-      "time": "2026-10-23 00:39:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Politico reported the EU trade commissioner signaled the EU may respond to US President Trump's drug-pricing policies."
-    },
-    {
-      "id": "5162203",
-      "time": "2026-10-23 00:39:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "默沙東股價跌幅擴大至2%。"
-    },
-    {
-      "id": "mkt:01a1647a-50fe-7ee0-a94c-cd8895e615ef",
-      "time": "2026-10-23 00:38:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Vice President Vance said sometimes Ukrainians are a bit stubborn and sometimes Russians are; diplomacy's task is to address those issues and work to resolve them."
-    },
-    {
-      "id": "5162202",
-      "time": "2026-10-23 00:37:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐萊雅ADR股價在第三季度銷售額超出預期後上漲8.3%。"
-    },
-    {
-      "id": "5162201",
-      "time": "2026-10-23 00:37:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "默沙東股價轉跌，觸及盤中低點。"
-    },
-    {
-      "id": "mkt:01a16479-1365-7ee0-a94c-c0e45d267fce",
-      "time": "2026-10-23 00:36:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The UAE office said the UAE and Greece reached 18 agreements and commercial partnerships worth €12.75 billion."
-    },
-    {
-      "id": "5162200",
-      "time": "2026-10-23 00:36:47",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【西藏巴青縣發生7.0級地震 暫未收到人員傷亡報告】據中國地震臺網測定，10月22日22時33分在西藏那曲市巴青縣（北緯32.40度，東經93.79度）發生7.0級地震，震源深度10千米。記者核實瞭解到，巴青縣縣城震感強烈，電力中斷，訊號不暢。目前暫無人員傷亡報告。 據瞭解，震中位於巴青縣瑪如鄉，距離縣城70公里左右。瑪如鄉副鄉長拉旺達布說，鄉政府震感明顯，辦公樓有牆體開裂，有房屋倒塌情況，各村組情況正在排查中。 記者核實瞭解到，西藏昌都市各地震感明顯，邊壩、丁青等距離震中較近縣區的高層住戶已到室外避險，學校組織學生到操場集中，全市暫未收到財產損失和人員傷亡報告。昌都市應急管理局黨委書記溫雲春介紹，昌都市已組織80人的專業救援力量前往丁青縣、洛隆縣、邊壩縣區域開展排查。此外，林芝市巴宜區震感明顯，墨脫縣、米林市、朗縣等方向有輕微震感。（新華社）"
-    },
-    {
-      "id": "5162199",
-      "time": "2026-10-23 00:36:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "由於股價波動，MODERNA股票暫停交易。"
-    },
-    {
-      "id": "5162198",
-      "time": "2026-10-23 00:35:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "開雲集團首席財務官：古馳第三季度在北美市場增速放緩。"
     }
   ]
 }
