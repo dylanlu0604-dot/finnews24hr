@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-30 04:53:41",
-  "count": 12952,
+  "updated": "2026-10-30 04:57:29",
+  "count": 12954,
   "items": [
+    {
+      "id": "5180682",
+      "time": "2026-10-30 04:56:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "週四（10月29日），彭博電動汽車價格回報指數跌1.59%，報2901.57點，亞太盤初微幅上漲，隨後持續走低。成分股中，Aurora Innovation跌13.46%，MobilEye Global Inc.跌9.21%，禾賽科技跌6.22%，Lucid Group跌6.16%，ANTAM Persero跌4.64%，H股吉利汽車控股跌4.37%、地平線跌4.14%跌幅第七大。在收漲的八隻成分股裡，沃爾沃漲0.95%，意法半導體巴黎股價漲1.93%，保時捷P911漲3.22%。"
+    },
+    {
+      "id": "5180681",
+      "time": "2026-10-30 04:53:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "景順抵押資本：認為中東地緣政治緊張局勢最終緩和，可能為目標資產帶來額外利好。"
+    },
+    {
+      "id": "5180680",
+      "time": "2026-10-30 04:53:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭基輔遭彈道導彈襲擊 傳出爆炸聲】當地時間29日，烏克蘭首都基輔市出現連續爆炸聲。基輔市長克利奇科當天通報，基輔正遭遇彈道導彈襲擊，他敦促民眾留在避難所避險。（央視新聞）"
+    },
     {
       "id": "5180679",
       "time": "2026-10-30 04:53:14",
@@ -116999,19 +117024,6 @@
         "其他"
       ],
       "text": "西部資料：預計未來五年資本開支與營收的比率均值將為4%-6%，未來兩年將適度地高於那樣的水平。預計到第二財季，其將佔近線硬碟出貨量的近30%；到第三財季將達到50%。處於日曆年2027年上半年開始發貨的正軌之上。在雲和超大規模雲服務（Hyperscale）之外看到更強勁的需求。進入企業環境和更新的終端市場。40TB EPMR將強勁開局。"
-    },
-    {
-      "id": "mkt:01a16565-be1e-7ee0-a94f-c73edbd12e32",
-      "time": "2026-10-23 04:55:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump invokes Defense Production Act to accelerate US oil capacity expansion】The White House said on Oct. 22 President Trump invoked the Defense Production Act to designate domestic oil exploration and production, pipeline transport, storage, refining and marine terminals as critical national-defense resources. The action authorizes the federal government to use direct procurement, purchase commitments, financing and other financial measures to expand related capacity. The statement cited financing constraints, long project lead times, permitting and infrastructure bottlenecks and supply‑chain limits as reasons U.S. firms have struggled to meet demand, and said Trump waived certain requirements of Section 303 to speed expansion."
     }
   ]
 }
