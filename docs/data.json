@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-29 10:06:59",
-  "count": 13079,
+  "updated": "2026-10-29 10:10:53",
+  "count": 13080,
   "items": [
+    {
+      "id": "mkt:01a1856c-33c7-7ee0-a9d1-e71c4ee53d78",
+      "time": "2026-10-29 10:10:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhiyuan unveils physical-AI metric Worken; 2026 Embodied Intelligence Industry Innovation Report released】On Oct 29 at the World Expo Center in Shanghai, Zhiyuan co-founder, president and CTO Peng Zhihui introduced Worken, a metric for physical-AI value defined as effective intelligent work hours to quantify robots' autonomous output. At the same event, Xinhua China Economic Information Service and the China Academy of Information and Communications Technology’s Shanghai Industrial Innovation Center published the 2026 Embodied Intelligence Industry Innovation Report, which sets an industry development framework and a leading-company evaluation model; Zhiyuan was named a leading company and Worken and related deployment case studies were included."
+    },
+    {
+      "id": "mkt:01a1856c-09b7-7ee0-a9d1-da4daf781f26",
+      "time": "2026-10-29 10:10:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Fuchuang Precision says downstream demand boost already evident in operations】At its Q3 2026 results briefing, Fuchuang Precision said AI-driven new market demand, rising domestic semiconductor-equipment localization and continued wafer-fab capacity expansion have rapidly released industry demand and lifted order sizes at leading equipment vendors. Through the first three quarters the company said the downstream demand dividend has shown up in its business: earlier large-customer strategy and capacity buildup are being realized, order-to-revenue conversion efficiency has improved, and operating performance remains on an upward trend."
+    },
+    {
+      "id": "5178152",
+      "time": "2026-10-29 10:09:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣東鹽業集團成立海洋科技產投公司】企查查APP顯示，近日，廣東省海洋科技產業投資有限公司成立，經營範圍包含以自有資金從事投資活動；水產苗種生產；水產養殖；水產苗種進出口等。企查查股權穿透顯示，該公司由廣東省鹽業集團有限公司全資持股。"
+    },
+    {
+      "id": "5178150",
+      "time": "2026-10-29 10:09:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富創精密：下游需求紅利已在公司業務端體現】富創精密(688409)在2026年第三季度業績說明會上表示，隨著AI催生的全新市場需求、國內半導體裝置國產化率持續提升以及下游晶圓廠持續擴產，行業整體需求快速釋放，頭部裝置廠商訂單規模顯著增長。從前三季度經營情況看，下游需求紅利已經在公司業務端體現，前期大客戶戰略、產能佈局的成果持續釋放，訂單向營收轉化效率提升，帶動公司經營保持向好。"
+    },
+    {
+      "id": "5178145",
+      "time": "2026-10-29 10:08:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.03%，成分股中，三協電機跌6.68%，戈碧迦跌6.03%，萬源通跌5.89%，華嶺股份跌5.44%。"
+    },
+    {
+      "id": "5178144",
+      "time": "2026-10-29 10:07:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "商業航天概念探底回升，上海港灣、鈞達股份、上海滬工、順灝股份等多股漲停，乾照光電漲超10%，電科藍天、飛沃科技、天銀機電跟漲。"
+    },
     {
       "id": "5178143",
       "time": "2026-10-29 10:06:01",
@@ -117815,57 +117867,6 @@
         "中國"
       ],
       "text": "【上海：前三季度高技術產品出口額同比增長33.0%】上海市統計局釋出資料，前三季度，全市貨物進出口總額3.94萬億元，同比增長17.9%。其中，貨物出口額1.81萬億元，增長22.3%；貨物進口額2.13萬億元，增長14.4%。高技術產品出口額同比增長33.0%，佔貨物出口額的比重達28.7%。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202610223903728958",
-      "time": "2026-10-22 10:10:43",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【上海：前三季度全市固定資產投資同比增長4.3%】上海市統計局釋出資料，前三季度，全市固定資產投資同比增長4.3%。分領域看，工業投資同比增長21.9%，快於全市固定資產投資增速17.6個百分點；城市基礎設施投資增長23.3%。高技術產業投資同比增長30.6%。前三季度，新建商品房銷售面積1179.90萬平方米，同比下降1.9%。"
-    },
-    {
-      "id": "te:markets:594001",
-      "time": "2026-10-22 10:10:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Tumble for Second Straight Day — The Hang Seng Index tumbled 2.1%, or 490 points, to 23,161 on Thursday, extending its decline as persistent weakness in technology and battery shares overshadowed gains in global markets. Sentiment remained under pressure following CATL's sharp selloff in the previous session after slower third-quarter profit growth amid fierce competition and weaker Chinese auto sales. However, Super Micro Computer's improved revenue outlook supported expectations for AI server demand, while technology services gained 2.67%. Attention now turns to Hong Kong's September inflation data and July-September unemployment figures, due later Thursday, for fresh indications of domestic economic conditions. Investors will also monitor corporate earnings and US interest-rate expectations for signs that could influence risk appetite. Notable laggards included Tencent (-2.1%), Lenovo (-4.9%), Xiaomi (-2.6%), AIA (-1.1%), and SMIC (-2.0%)."
-    },
-    {
-      "id": "em:jjsj_zgsj:202610223903728663",
-      "time": "2026-10-22 10:09:59",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【上海：前三季度三大先導產業製造業產值同比增長17.1% 積體電路製造業產值增長23.4%】上海市統計局釋出資料，前三季度，三大先導產業製造業產值同比增長17.1%。其中，積體電路製造業產值增長23.4%，人工智慧製造業產值增長24.8%，生物醫藥製造業產值增長7.9%。前三季度，工業戰略性新興產業產值同比增長9.3%。其中，新能源汽車產業產值增長26.7%，新能源產業產值增長15.8%，高階裝備產業產值增長9.0%。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202610223903728512",
-      "time": "2026-10-22 10:09:29",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【前三季度上海市實現社會消費品零售總額12161.34億元】上海市統計局和國家統計局上海調查總隊公佈了2026年前三季度上海市國民經濟執行情況。前三季度，上海市實現社會消費品零售總額12161.34億元，同比下降1.1%。剔除汽車以外的社會消費品零售額同比增長1.0%。分類別看，限額以上單位中，服裝、鞋帽、針紡織品類零售額同比增長6.2%，糧油、食品類零售額增長4.9%，傢俱類零售額增長7.4%，日用品類增長1.1%。"
-    },
-    {
-      "id": "te:markets:594000",
-      "time": "2026-10-22 10:09:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "CNOOC Shares Hit 10-week Low — CNOOC shares decreased to 23.26 HKD, the lowest since August 2026. Over the past 4 weeks, CNOOC lost 0.17%, and in the last 12 months, it increased 16.97%."
     }
   ]
 }

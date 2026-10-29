@@ -1,7 +1,59 @@
 {
   "date": "2026-10-29",
-  "count": 1133,
+  "count": 1139,
   "items": [
+    {
+      "id": "mkt:01a1856c-33c7-7ee0-a9d1-e71c4ee53d78",
+      "time": "2026-10-29 10:10:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhiyuan unveils physical-AI metric Worken; 2026 Embodied Intelligence Industry Innovation Report released】On Oct 29 at the World Expo Center in Shanghai, Zhiyuan co-founder, president and CTO Peng Zhihui introduced Worken, a metric for physical-AI value defined as effective intelligent work hours to quantify robots' autonomous output. At the same event, Xinhua China Economic Information Service and the China Academy of Information and Communications Technology’s Shanghai Industrial Innovation Center published the 2026 Embodied Intelligence Industry Innovation Report, which sets an industry development framework and a leading-company evaluation model; Zhiyuan was named a leading company and Worken and related deployment case studies were included."
+    },
+    {
+      "id": "mkt:01a1856c-09b7-7ee0-a9d1-da4daf781f26",
+      "time": "2026-10-29 10:10:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Fuchuang Precision says downstream demand boost already evident in operations】At its Q3 2026 results briefing, Fuchuang Precision said AI-driven new market demand, rising domestic semiconductor-equipment localization and continued wafer-fab capacity expansion have rapidly released industry demand and lifted order sizes at leading equipment vendors. Through the first three quarters the company said the downstream demand dividend has shown up in its business: earlier large-customer strategy and capacity buildup are being realized, order-to-revenue conversion efficiency has improved, and operating performance remains on an upward trend."
+    },
+    {
+      "id": "5178152",
+      "time": "2026-10-29 10:09:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣東鹽業集團成立海洋科技產投公司】企查查APP顯示，近日，廣東省海洋科技產業投資有限公司成立，經營範圍包含以自有資金從事投資活動；水產苗種生產；水產養殖；水產苗種進出口等。企查查股權穿透顯示，該公司由廣東省鹽業集團有限公司全資持股。"
+    },
+    {
+      "id": "5178150",
+      "time": "2026-10-29 10:09:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富創精密：下游需求紅利已在公司業務端體現】富創精密(688409)在2026年第三季度業績說明會上表示，隨著AI催生的全新市場需求、國內半導體裝置國產化率持續提升以及下游晶圓廠持續擴產，行業整體需求快速釋放，頭部裝置廠商訂單規模顯著增長。從前三季度經營情況看，下游需求紅利已經在公司業務端體現，前期大客戶戰略、產能佈局的成果持續釋放，訂單向營收轉化效率提升，帶動公司經營保持向好。"
+    },
+    {
+      "id": "5178145",
+      "time": "2026-10-29 10:08:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.03%，成分股中，三協電機跌6.68%，戈碧迦跌6.03%，萬源通跌5.89%，華嶺股份跌5.44%。"
+    },
+    {
+      "id": "5178144",
+      "time": "2026-10-29 10:07:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "商業航天概念探底回升，上海港灣、鈞達股份、上海滬工、順灝股份等多股漲停，乾照光電漲超10%，電科藍天、飛沃科技、天銀機電跟漲。"
+    },
     {
       "id": "5178143",
       "time": "2026-10-29 10:06:01",
