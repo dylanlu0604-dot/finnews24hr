@@ -1,7 +1,161 @@
 {
   "date": "2026-10-29",
-  "count": 2000,
+  "count": 2018,
   "items": [
+    {
+      "id": "5179394",
+      "time": "2026-10-29 17:37:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【楚天高速：2026年第三季度淨利潤2.08億元，同比增長25.48%】楚天高速公告，2026年第三季度營業收入20.19億元，同比增長46.23%；歸屬於上市公司股東的淨利潤2.08億元，同比增長25.48%；扣非淨利潤2.05億元，同比增長36.40%。2026年前三季度營業收入43.56億元，同比增長17.84%；歸屬於上市公司股東的淨利潤6.45億元，同比增長13.52%；扣非淨利潤6.39億元，同比增長22.69%。"
+    },
+    {
+      "id": "5179393",
+      "time": "2026-10-29 17:37:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報993.50美元/盎司。"
+    },
+    {
+      "id": "5179392",
+      "time": "2026-10-29 17:36:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上緯新材旗下啟元機器人接入WorkBuddy】10月29日，啟元機器人與騰訊雲正式達成戰略合作，雙方將以個人機器人和WorkBuddy為核心開放載體，聯合打造雲邊端協同的消費級個人機器人解決方案。具體來看，接入WorkBuddy後，啟元Q1、啟元T1打通騰訊會議、微信讀書、QQ音樂、繪本生成等技能。此外，WorkBuddy的Skill將延展到啟元機器人的應用開發上，使用者可以藉助相關能力，透過自然語言編排、創作機器人技能，降低機器人應用開發門檻。"
+    },
+    {
+      "id": "5179391",
+      "time": "2026-10-29 17:36:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮昌生物：2026年第三季度淨利潤6.11億元】榮昌生物公告，2026年第三季度營業收入9.1億元，同比增長46.41%；歸屬於上市公司股東的淨利潤6.11億元，扣除非經常性損益後的淨利潤7369.17萬元。2026年前三季度營業收入67.64億元，同比增長293.28%；歸屬於上市公司股東的淨利潤52.73億元，扣除非經常性損益後的淨利潤44.12億元。"
+    },
+    {
+      "id": "mkt:01a18703-d11d-7ee0-a9db-b528e8ad32ab",
+      "time": "2026-10-29 17:35:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Analyst: Low odds of consecutive BOC hikes; CAD faces downside risk】Monex Europe analyst said after the BOC raised rates 25bps to 2.50% on Wednesday, the likelihood of a further hike in December is low, leaving the Canadian dollar vulnerable. LSEG shows the market-implied probability of a December BOC hike at 44%. The analyst cited inflation and labour data: CPI ex‑gas +2.2% YoY, BOC‑preferred core inflation 1.85%, and about 110,000 jobs lost over the past two months. The analyst noted the Fed may still hike in December. If markets pare back expectations for a BOC hike, USD/CAD could move toward 1.41–1.42."
+    },
+    {
+      "id": "5179390",
+      "time": "2026-10-29 17:35:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里巴巴關聯公司入股繩驅柔性太空機器人研發商弦引未來】近日，安徽弦引未來科技有限公司發生工商變更，新增阿里巴巴關聯公司杭州灝月企業管理有限公司等為股東，註冊資本增至783.28萬元。該公司成立於2025年9月，經營範圍包含智慧機器人的研發、智慧機器人銷售、人工智慧基礎軟體開發、人工智慧應用軟體開發等，公開資訊顯示其專注於繩驅柔性太空機器人研發與智慧在軌服務領域。"
+    },
+    {
+      "id": "mkt:01a18703-360c-7ee0-a9db-af7093789c14",
+      "time": "2026-10-29 17:34:56",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "Scotiabank cuts Oracle (ORCL.N) PT to $205 from $215."
+    },
+    {
+      "id": "5179389",
+      "time": "2026-10-29 17:34:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿迪達斯執行長：我們行業的中長期前景非常樂觀。"
+    },
+    {
+      "id": "mkt:01a18702-c5f8-7ee0-a9db-a2306bc7732e",
+      "time": "2026-10-29 17:34:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's presidential office said that amid rising global security uncertainty, Seoul and Berlin will strengthen strategic coordination."
+    },
+    {
+      "id": "mkt:01a18702-b69b-7ee0-a9db-9ffbb5d6852c",
+      "time": "2026-10-29 17:34:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【Analyst: UK public finances likely to remain fragile】Daiwei Research analyst Kevin Timoney said in a report the government has cut its fiscal buffer for 2029-30 to £15bn, down from £23.6bn in March, narrowing the room to raise spending or cut taxes without breaching fiscal rules. Timoney noted Wednesday’s budget contained no major policy changes, suggesting public finances are likely to remain fragile over the coming years."
+    },
+    {
+      "id": "5179388",
+      "time": "2026-10-29 17:34:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電魂網路：2026年第三季度虧損4939.66萬元，前三季度虧損1.08億元】電魂網路公告，2026年第三季度營業收入1.15億元，同比增長16.33%；歸屬於上市公司股東的淨利潤虧損4939.66萬元，扣非淨利潤虧損5027.29萬元。前三季度營業收入2.98億元，同比增長1.74%；歸母淨利潤虧損1.08億元，扣非淨利潤虧損1.13億元。公司稱，前三季度部分老遊戲收入同比下降、部分遊戲持續市場投放增加銷售費用，且美元兌人民幣匯率下降產生匯兌虧損。"
+    },
+    {
+      "id": "5179387",
+      "time": "2026-10-29 17:34:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：建立“市-區-社群”三級聯動、醫防融合、分級管理、全程連續的營養服務體系】上海市衛生健康委員會印發《上海市社群營養服務能力提升試點工作方案》。其中提到，建立“市-區-社群”三級聯動、醫防融合、分級管理、全程連續的營養服務體系。開展人群營養評估、干預、隨訪全流程和分級分類管理。完善上下聯動的社群營養隊伍培訓機制，提升社群營養指導服務能力。加強營養服務支援環境建設。形成可複製推廣的社群營養服務模式，滿足居民多樣化、個性化營養健康需求。"
+    },
+    {
+      "id": "5179386",
+      "time": "2026-10-29 17:34:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗軍方：在伊方條件滿足前霍爾木茲海峽不會開放】當地時間10月29日，伊朗軍隊發言人阿克拉米尼亞表示，敵人首先企圖摧毀伊朗的核能力和導彈能力，然後企圖摧毀抵抗陣線並推翻伊朗政權，最後公開宣稱要分裂伊朗並摧毀伊朗文明；美國行動的真正目的是實現“大以色列”計劃，確保以色列在該地區的霸權地位。他表示，如今霍爾木茲海峽處於伊朗武裝部隊的戰略控制之下，在伊方條件得到全面滿足之前，該海峽不會開放。（央視新聞）"
+    },
+    {
+      "id": "5179385",
+      "time": "2026-10-29 17:34:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統辦公室：在全球安全不確定性上升之際，韓國與德國將加強戰略協調。"
+    },
+    {
+      "id": "5179384",
+      "time": "2026-10-29 17:34:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京能電力：2026年三季度累計發電量同比增1.07%】京能電力公告稱，2026年三季度累計完成發電量724.44億千瓦時，同比增幅1.07%；累計完成上網電量672.76億千瓦時，同比增幅1.22%。其中火力發電累計發電量685.92億千瓦時，同比增0.03%；新能源累計發電量38.53億千瓦時，同比增24.08%。第三季度單季，火電發電量252.26億千瓦時，同比降6.87%；新能源發電量11.65億千瓦時，同比增68.11%。"
+    },
+    {
+      "id": "mkt:01a18702-4e5d-7ee0-a9db-978160247e31",
+      "time": "2026-10-29 17:33:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Scotiabank raised its PT for Microsoft (MSFT.O) to $650 from $625."
+    },
+    {
+      "id": "5179383",
+      "time": "2026-10-29 17:33:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芯源微：2026年第三季度淨利潤虧損6305.87萬元】芯源微公告，2026年第三季度營業收入4.37億元，同比增長55.56%；歸屬於上市公司股東的淨利潤虧損6305.87萬元，扣除非經常性損益的淨利潤虧損7540.3萬元。2026年前三季度營業收入13.34億元，同比增長34.73%；歸屬於上市公司股東的淨利潤虧損5499.65萬元，扣除非經常性損益的淨利潤虧損1.21億元。公司稱，營業收入增長主要因新簽訂單持續增長，交付及驗收工作推進；利潤總額變化主要因成本費用增加、計入其他收益的政府補助減少。"
+    },
     {
       "id": "5179382",
       "time": "2026-10-29 17:33:06",
@@ -190,6 +344,15 @@
         "國際"
       ],
       "text": "韓國總統辦公室：韓國與德國將在研發、關鍵礦產和能源安全領域展開合作。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202610293914332919",
+      "time": "2026-10-29 17:30:38",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "【英國9月央行消費信貸19.14億英鎊 預期21.5億英鎊】英國9月央行消費信貸19.14億英鎊，預期21.5億英鎊，前值由24.64億英鎊修正為26.83億英鎊。"
     },
     {
       "id": "5179373",
