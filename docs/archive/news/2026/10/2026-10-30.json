@@ -1,7 +1,92 @@
 {
   "date": "2026-10-30",
-  "count": 372,
+  "count": 382,
   "items": [
+    {
+      "id": "te:markets:596448",
+      "time": "2026-10-30 04:45:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Hits Three-Month Low — The Ibovespa fell 1.1% to close at 169,186 on Thursday, extending its losing streak to four sessions and hitting a three-month low amid fiscal uncertainty. President Lula’s reelection continued to weigh on sentiment as investors awaited nominations for key positions, including the Finance Ministry, and further details on fiscal policy for his next term. Bond yields posted their sharpest rise since Monday, immediately after the election. Financial stocks declined, with Bradesco losing 3.5% after receiving two rating downgrades this week. Itaú BBA cut its rating from buy to neutral and lowered its price target, while JPMorgan downgraded the stock from overweight and also reduced its target. B3 fell 3.3%. Elsewhere, Vale shed 2.2% ahead of its third-quarter earnings report. Ambev dropped 4.4% despite beating profit estimates, as EBITDA disappointed. Petrobras slipped 0.6% despite record third-quarter production, as oil prices declined."
+    },
+    {
+      "id": "5180670",
+      "time": "2026-10-30 04:44:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克：2027財年國際新開門店中有一半將位於中國。"
+    },
+    {
+      "id": "5180669",
+      "time": "2026-10-30 04:44:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克預計2027財年資本支出佔淨營收的5%。"
+    },
+    {
+      "id": "5180668",
+      "time": "2026-10-30 04:44:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克預計2027財年北美淨新增門店90至100家。"
+    },
+    {
+      "id": "5180667",
+      "time": "2026-10-30 04:44:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "AMD高階CDS利差擴大11個基點，創最近四年最大漲幅。"
+    },
+    {
+      "id": "5180666",
+      "time": "2026-10-30 04:44:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破79000美元，日內跌2.92%。"
+    },
+    {
+      "id": "5180665",
+      "time": "2026-10-30 04:44:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Reddit營運長：商業和金融、製藥和旅遊行業的廣告收入增長強勁。"
+    },
+    {
+      "id": "5180664",
+      "time": "2026-10-30 04:43:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安錢包在五個區塊鏈上出現27.7億美元資金流出，市場懷疑資金被抽走；駭客攻擊尚未得到證實。"
+    },
+    {
+      "id": "5180663",
+      "time": "2026-10-30 04:42:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜資本開支激增，線上業務增長放緩】亞馬遜公司披露，資本開支高於預期，電商業務收入增速放緩；同時假日季銷售指引顯示線上零售業務難以快速回暖。亞馬遜稱，第三季度物業及裝置投入超過 770 億美元，遠高於分析師預估，公司持續建設資料中心，承接人工智慧服務需求。高額開支導致本季度自由現金流出 424 億美元。亞馬遜週四釋出公告，營收同比增長 12% 至 20190 億美元；假日季營收指引區間為 2400 億–2470 億美元，分析師平均預期 2445 億美元。雲業務亞馬遜雲科技（AWS）營收增速連續第六個季度抬升，但核心零售業務顯現增長乏力跡象。線上銷售收入僅增長 2% 至 685 億美元，為 2023 年初疫情後零售下行週期以來最低增速。AWS 今年增長提速，受益於 OpenAI、Anthropic 等 AI 企業訂單，兩家公司都部分依託亞馬遜伺服器執行模型。亞馬遜持續擴建資料中心叢集，提升面向企業客戶的算力供給能力。亞馬遜 7 月曾表示，受儲存晶片緊缺壓制供給，2026 年資本開支預計上調至 2200 億美元，週四財報維持該預期。"
+    },
+    {
+      "id": "5180662",
+      "time": "2026-10-30 04:42:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克預計2027財年將獲得更多營業利潤率收益。"
+    },
     {
       "id": "mkt:01a18964-610a-7ee0-a9ef-06871f7cf6c2",
       "time": "2026-10-30 04:40:19",

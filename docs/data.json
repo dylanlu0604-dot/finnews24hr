@@ -1,7 +1,92 @@
 {
-  "updated": "2026-10-30 04:42:10",
-  "count": 12945,
+  "updated": "2026-10-30 04:46:01",
+  "count": 12952,
   "items": [
+    {
+      "id": "te:markets:596448",
+      "time": "2026-10-30 04:45:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Hits Three-Month Low — The Ibovespa fell 1.1% to close at 169,186 on Thursday, extending its losing streak to four sessions and hitting a three-month low amid fiscal uncertainty. President Lula’s reelection continued to weigh on sentiment as investors awaited nominations for key positions, including the Finance Ministry, and further details on fiscal policy for his next term. Bond yields posted their sharpest rise since Monday, immediately after the election. Financial stocks declined, with Bradesco losing 3.5% after receiving two rating downgrades this week. Itaú BBA cut its rating from buy to neutral and lowered its price target, while JPMorgan downgraded the stock from overweight and also reduced its target. B3 fell 3.3%. Elsewhere, Vale shed 2.2% ahead of its third-quarter earnings report. Ambev dropped 4.4% despite beating profit estimates, as EBITDA disappointed. Petrobras slipped 0.6% despite record third-quarter production, as oil prices declined."
+    },
+    {
+      "id": "5180670",
+      "time": "2026-10-30 04:44:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克：2027財年國際新開門店中有一半將位於中國。"
+    },
+    {
+      "id": "5180669",
+      "time": "2026-10-30 04:44:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克預計2027財年資本支出佔淨營收的5%。"
+    },
+    {
+      "id": "5180668",
+      "time": "2026-10-30 04:44:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克預計2027財年北美淨新增門店90至100家。"
+    },
+    {
+      "id": "5180667",
+      "time": "2026-10-30 04:44:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "AMD高階CDS利差擴大11個基點，創最近四年最大漲幅。"
+    },
+    {
+      "id": "5180666",
+      "time": "2026-10-30 04:44:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破79000美元，日內跌2.92%。"
+    },
+    {
+      "id": "5180665",
+      "time": "2026-10-30 04:44:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Reddit營運長：商業和金融、製藥和旅遊行業的廣告收入增長強勁。"
+    },
+    {
+      "id": "5180664",
+      "time": "2026-10-30 04:43:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安錢包在五個區塊鏈上出現27.7億美元資金流出，市場懷疑資金被抽走；駭客攻擊尚未得到證實。"
+    },
+    {
+      "id": "5180663",
+      "time": "2026-10-30 04:42:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜資本開支激增，線上業務增長放緩】亞馬遜公司披露，資本開支高於預期，電商業務收入增速放緩；同時假日季銷售指引顯示線上零售業務難以快速回暖。亞馬遜稱，第三季度物業及裝置投入超過 770 億美元，遠高於分析師預估，公司持續建設資料中心，承接人工智慧服務需求。高額開支導致本季度自由現金流出 424 億美元。亞馬遜週四釋出公告，營收同比增長 12% 至 20190 億美元；假日季營收指引區間為 2400 億–2470 億美元，分析師平均預期 2445 億美元。雲業務亞馬遜雲科技（AWS）營收增速連續第六個季度抬升，但核心零售業務顯現增長乏力跡象。線上銷售收入僅增長 2% 至 685 億美元，為 2023 年初疫情後零售下行週期以來最低增速。AWS 今年增長提速，受益於 OpenAI、Anthropic 等 AI 企業訂單，兩家公司都部分依託亞馬遜伺服器執行模型。亞馬遜持續擴建資料中心叢集，提升面向企業客戶的算力供給能力。亞馬遜 7 月曾表示，受儲存晶片緊缺壓制供給，2026 年資本開支預計上調至 2200 億美元，週四財報維持該預期。"
+    },
+    {
+      "id": "5180662",
+      "time": "2026-10-30 04:42:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克預計2027財年將獲得更多營業利潤率收益。"
+    },
     {
       "id": "mkt:01a18964-610a-7ee0-a9ef-06871f7cf6c2",
       "time": "2026-10-30 04:40:19",
@@ -116935,42 +117020,6 @@
         "國際"
       ],
       "text": "美國總統特朗普認定國內石油生產、煉油及其他相關活動對國防至關重要。"
-    },
-    {
-      "id": "5162732",
-      "time": "2026-10-23 04:44:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會批准英特爾豁免申請，使其不受部分外國製造先進機器人進口禁令的限制，這些機器人對英特爾在美國的半導體製造業務至關重要。"
-    },
-    {
-      "id": "mkt:01a1655a-1861-7ee0-a94f-95d8caaf71a9",
-      "time": "2026-10-23 04:42:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "Meta Platforms",
-        "Nasdaq100",
-        "Impact bearish",
-        "NVDA.O",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "【U.S. stocks reassess AI rally’s sustainability; Nasdaq posts biggest daily drop since June】U.S. tech shares fell as investors questioned the sustainability of rising AI-related spending. The Nasdaq slid 2.6%, its largest single-day drop since June, while the blue‑chip‑heavy Dow rose 0.02%. Major AI-related names weakened: Meta fell 7% after disclosing further large spending commitments and missing profit expectations despite strong revenue growth. Nvidia’s CEO warned capital is insufficient to support growth of so‑called “neoclouds” — new cloud providers that would supply digital infrastructure to large AI customers such as Meta and Amazon — stoking sector capital‑intensity concerns. SpaceX, Nvidia and CoreWeave shares also dropped. The Philadelphia Semiconductor Index plunged 6.7%. Risk‑off flows pushed investors into U.S. Treasuries, driving yields sharply lower."
-    },
-    {
-      "id": "5162724",
-      "time": "2026-10-23 04:42:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普向國防部長赫格塞思傳送有關國防生產法案（DPA）和石油問題的備忘錄。特朗普針對美國石油化工產能簽發DPA 303，要求擴大石化產能。"
     }
   ]
 }
