@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-30 00:08:11",
-  "count": 12935,
+  "updated": "2026-10-30 00:11:58",
+  "count": 12926,
   "items": [
+    {
+      "id": "te:economy:596399",
+      "time": "2026-10-30 00:10:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Rates Drop for 2nd Week — The US 30-year fixed-rate mortgage averaged 7.24% as of October 29, 2026, seeing a decline from last week where it averaged 7.32% but remaining above the 7% threshold. This marks a second consecutive weekly decline, reflecting the downward trend seen in US Treasury yields since the start of the month as mortgage rates tend to closely track these these sovereign yields. A year ago, the the 30-year fixed-rate mortgage averaged 6.17%. Meanwhile, the 15-year fixed-rate mortgage averaged 6.60%, down from the 6.68% reached a week prior."
+    },
+    {
+      "id": "5180395",
+      "time": "2026-10-30 00:09:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "華盛頓州總檢察長就通用汽車和解案發表宣告，通用汽車就駕駛員隱私資料案支付 2.2 億美元和解金。"
+    },
     {
       "id": "mkt:01a18868-aed0-7ee0-a9eb-0112f28fb95d",
       "time": "2026-10-30 00:05:24",
@@ -116754,114 +116774,6 @@
         "Importance 1"
       ],
       "text": "The FTSE MIB Index Closes 2.54% Lower — The FTSE MIB Index dropped 1260 points or 2.54 percent on Thursday to close at 48384 points. Losses were led by Prysmian (-8.06%), Saipem (-5.66%) and Tenaris (-5.01%)."
-    },
-    {
-      "id": "te:markets:594316",
-      "time": "2026-10-23 00:11:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.07% Lower — The DAX Index decreased 273 points or 1.07 percent on Thursday to close at 25372 points. The decline was led by Siemens Energy (-8.56%), Infineon (-5.84%) and Siemens (-4.05%)."
-    },
-    {
-      "id": "mkt:01a16461-2704-7ee0-a94c-57ad951e7e1e",
-      "time": "2026-10-23 00:10:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Qatar said it is seeking to secure more LNG deals outside the Middle East."
-    },
-    {
-      "id": "5162173",
-      "time": "2026-10-23 00:10:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【報道：馬斯克向埃裡森旗下Skydance投資10億美元】據知情人士透露，埃隆·馬斯克已向Skydance投資約10億美元，這筆交易與Skydance其他投資者的股權投資大致同時完成，其中包括董事會成員勞倫·鮑威爾·喬布斯。此前9月有報道稱，派拉蒙正考慮向馬斯克尋求股權注資。馬斯克是派拉蒙CEO大衛·埃裡森考慮合作投資的多位富豪之一。馬斯克與大衛·埃裡森的父親、甲骨文創始人拉里·埃裡森長期關係密切，而正是老埃裡森的部分資金和人脈，使派拉蒙收購華納兄弟成為可能。拉里·埃裡森已親自為派拉蒙收購華納兄弟的股權融資擔保超過400億美元。拉里·埃裡森曾在2022年馬斯克將X私有化的交易中投資10億美元。他還在2018年投資了特斯拉，並曾在特斯拉董事會任職多年。"
-    },
-    {
-      "id": "te:markets:594315",
-      "time": "2026-10-23 00:10:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 1.42% Lower — The CAC 40 Index fell 112 points or 1.42 percent on Thursday to close at 7809 points. Leading the losses are Legrand (-5.85%), Schneider Electric (-5.80%) and BNP Paribas (-4.88%)."
-    },
-    {
-      "id": "te:markets:594314",
-      "time": "2026-10-23 00:10:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Closes in the Red — Frankfurt's DAX 40 closed about 1.1% down at 25,379 on Thursday, pulling back from one-month highs, tracking other European peers. Rising oil prices, geopolitical risks, concerns over AI infrastructure spending, and uncertainty in France weighed on investor sentiment. Meanwhile, the earnings season continued across both sides of the Atlantic. Technology, industrial, and banking sectors led the declines, while software and telecom stocks outperformed. German companies benefiting from AI, such as Infineon, Hochtief, Siemens Energy Siemens plunged between 3.9%-8.1%. Other top losers included MTU Aero Engines (-3.9%), Commerzbank (-3.8%), Deutsche Bank (-2.8%), RWE (-2.3%) and Airbus (-2.2%). On the upside, shares of Qiagen NV (4.9%) and Scout24 (3.6%) stood out. Software giant SAP gained 3.2%, after quarterly revenue exceeded €10 billion for the first time, supported by 26% growth in cloud revenue, prompting the company to raise its full-year revenue outlook."
-    },
-    {
-      "id": "5162172",
-      "time": "2026-10-23 00:10:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "據稱卡達正在中東以外尋求更多液化天然氣交易。"
-    },
-    {
-      "id": "mkt:01a16460-4959-7ee0-a94c-486426a73ccf",
-      "time": "2026-10-23 00:09:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "UBER.N"
-      ],
-      "text": "OpenAI said Uber (UBER.N) will offer ChatGPT Enterprise to all employees and will access OpenAI’s frontier models via ChatGPT Work."
-    },
-    {
-      "id": "5162171",
-      "time": "2026-10-23 00:09:38",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "SKYDANCE因波動性過大暫停交易。此前有訊息稱，馬斯克向埃裡森旗下Skydance投資10億美元，訊息傳出後SKYDANCE暴漲7.5%。"
-    },
-    {
-      "id": "5162170",
-      "time": "2026-10-23 00:09:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西藏那曲市尼瑪縣發生4.5級地震，震源深度10千米】中國地震臺網正式測定：10月22日23時46分在西藏那曲市尼瑪縣（北緯32.37度，東經87.20度）發生4.5級地震，震源深度10千米。"
-    },
-    {
-      "id": "5162169",
-      "time": "2026-10-23 00:08:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守55美元/盎司，日內跌5.09%。"
-    },
-    {
-      "id": "5162168",
-      "time": "2026-10-23 00:08:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：ChatGPT在優步的部署將使優步全球員工中超過3萬人能夠使用ChatGPT。"
     }
   ]
 }

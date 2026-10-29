@@ -1,7 +1,27 @@
 {
   "date": "2026-10-30",
-  "count": 12,
+  "count": 14,
   "items": [
+    {
+      "id": "te:economy:596399",
+      "time": "2026-10-30 00:10:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Rates Drop for 2nd Week — The US 30-year fixed-rate mortgage averaged 7.24% as of October 29, 2026, seeing a decline from last week where it averaged 7.32% but remaining above the 7% threshold. This marks a second consecutive weekly decline, reflecting the downward trend seen in US Treasury yields since the start of the month as mortgage rates tend to closely track these these sovereign yields. A year ago, the the 30-year fixed-rate mortgage averaged 6.17%. Meanwhile, the 15-year fixed-rate mortgage averaged 6.60%, down from the 6.68% reached a week prior."
+    },
+    {
+      "id": "5180395",
+      "time": "2026-10-30 00:09:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "華盛頓州總檢察長就通用汽車和解案發表宣告，通用汽車就駕駛員隱私資料案支付 2.2 億美元和解金。"
+    },
     {
       "id": "mkt:01a18868-aed0-7ee0-a9eb-0112f28fb95d",
       "time": "2026-10-30 00:05:24",
