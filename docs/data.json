@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-29 10:18:31",
-  "count": 13093,
+  "updated": "2026-10-29 10:22:21",
+  "count": 13101,
   "items": [
+    {
+      "id": "5178204",
+      "time": "2026-10-29 10:21:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中孚資訊正式釋出無咎攻防智慧體】據中孚資訊訊息，中孚資訊元亨實驗室推出無咎攻防智慧體，將AI協作嵌入安全攻防過程，面向企業安全團隊與授權團隊，圍繞專案目標組織安全攻防工作AI全自動資訊收集、分析與驗證，團隊則能隨時檢視進展，並基於過程記錄和證據審閱結論，使用任務樹模式迭代目標演進，讓安全攻防推進更連貫、交接更清晰、成果更便於複核與交付。"
+    },
+    {
+      "id": "5178203",
+      "time": "2026-10-29 10:21:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超2%，現報3776.610點；恒生指數現跌0.141%。"
+    },
+    {
+      "id": "mkt:01a18575-120d-7ee0-a9d1-fac73a0f73e1",
+      "time": "2026-10-29 10:20:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "000660.KS"
+      ],
+      "text": "【Dollar rebound and safe‑haven outflows weigh on yen ahead of BOJ decision】USD/JPY recovered part of the prior session's losses, trading around 158.00 in the Asian session on Thursday. A broad dollar rebound and safe‑haven outflows have pressured the yen, alongside falling government bond prices and improved AI-sector sentiment. SK Hynix reported strong Q3 results and said it will raise shareholder returns as AI-driven profit growth accelerates, boosting market optimism for the AI theme. Market attention is on the BOJ policy meeting Friday; markets largely expect policy to be left unchanged, but officials could signal a possible December rate hike amid persistent inflation. RABOBANK strategists note the yen is the second‑strongest G10 currency in H2 to date after the Norwegian krone and ranks fourth year‑to‑date among G10 currencies."
+    },
+    {
+      "id": "5178199",
+      "time": "2026-10-29 10:19:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【農業農村部：不存在“立體AI養蝦”等虛假投融資專案、專項投資基金】農業農村部10月29日釋出風險提示，稱近期有不法分子冒用農業農村部工作人員或鄉村振興領域專家名義，歪曲融資專案庫服務功能，散佈專案投資由農業農村部專項基金承擔、大額低息貸款不需償還、產品由國家全額包銷等虛假資訊，或謊稱可透過特殊渠道報送投融資專案，騙取農業經營主體錢款，部分騙局還要求地方政府配合提供土地、指定國企墊資。農業農村部表示，融資專案庫提供的服務均為公益屬性，不收取任何費用；不存在“國家農業再投入專項扶持貸款”“立體AI養蝦專項資金專案”等虛假投融資專案和專項投資基金；具有融資專案庫合作資質的銀行共26家，相關信貸產品均設有嚴格申報條件、審批流程與資金監管要求。"
+    },
+    {
+      "id": "te:markets:596035",
+      "time": "2026-10-29 10:19:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Fall as Tech Rout Deepens — The Shanghai Composite fell 0.6% to 3,656 on Thursday, while the Shenzhen Component slumped 2.2% to 11,218, reversing gains from the previous session as technology stocks came under renewed pressure. Investors are awaiting earnings reports from Chinese technology hardware firms, including Zhongji Innolight and Victory Giant Technology, both due later Thursday. While Cambricon Technologies has already posted strong earnings, revenue fell short of expectations, while CXMT reported a disappointing preliminary profit. The sector has been among the hardest hit by the global retreat from AI-related trades, as investors question whether earnings potential can justify lofty valuations. Cambricon Technologies (-1.7%), SMIC (-2%), Hygon Information Technology (-2.7%), Zhongji Innolight (-5.4%) and Eoptolink Technology (-8%) all declined. Meanwhile, the Communist Party’s Fifth Plenum is set to end on Thursday, with investors looking for further clarity on policy direction and economic priorities."
+    },
+    {
+      "id": "5178198",
+      "time": "2026-10-29 10:19:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國科學家創制新的碳奈米帶實現高效電子輸運】從中國科學技術大學獲悉，科研團隊透過分步表面合成，製備出僅由五元環和七元環構成的金屬性碳奈米帶，即新的“戊庚環型”碳奈米帶，並證實這種由碳原子透過共價鍵連線而成的亞奈米寬度一維結構能夠實現高效電子輸運。相關成果於29日線上發表於國際學術期刊《自然》。（新華社）"
+    },
+    {
+      "id": "5178197",
+      "time": "2026-10-29 10:18:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數下跌1%，至5,231.03點。"
+    },
+    {
+      "id": "5178192",
+      "time": "2026-10-29 10:18:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西高等選舉法院說總統選舉“絕對正常”】巴西高等選舉法院院長卡西奧·努內斯·馬克斯28日說，巴西2026年總統選舉“在絕對正常的情況下”進行，選舉結果體現了選民的合法選擇。(新華社)"
+    },
     {
       "id": "5178191",
       "time": "2026-10-29 10:17:50",
