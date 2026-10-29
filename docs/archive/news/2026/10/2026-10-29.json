@@ -1,7 +1,96 @@
 {
   "date": "2026-10-29",
-  "count": 1164,
+  "count": 1173,
   "items": [
+    {
+      "id": "5178219",
+      "time": "2026-10-29 10:25:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多隻創業板人工智慧ETF跌超6%】創業板人工智慧ETF華夏（159371）、 創業板人工智慧ETF富國（159246）、創業板人工智慧ETF國泰（159388）等跌超6%，創業板人工智慧ETF南方跌超8%。"
+    },
+    {
+      "id": "5178215",
+      "time": "2026-10-29 10:24:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【四大行總市值盤中突破10萬億元大關 創出歷史新高】10月29日上午，銀行指數大漲超1%，重新整理階段新高。青島銀行、成都銀行、齊魯銀行等個股均漲超3%。四大行也全線上漲，工商銀行漲超2%，創出歷史新高。值得一提的是，中農工建四大行總市值盤中突破10萬億元大關，創出歷史新高。其中，工商銀行總市值超過2.9萬億元，建設銀行超過2.35萬億元，農業銀行逼近2.6萬億元，中國銀行超過2.1萬億元。"
+    },
+    {
+      "id": "5178214",
+      "time": "2026-10-29 10:24:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：培養並留住網路安全人才刻不容緩。"
+    },
+    {
+      "id": "te:markets:596039",
+      "time": "2026-10-29 10:24:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Mostly Lower on Weak Tech Earnings — Asian equity markets mostly declined on Thursday as disappointing results from major technology companies reignited concerns over the sustainability of heavy investments in artificial intelligence. Shares of Alphabet, Google’s parent company, plunged nearly 10% in after-hours trading after reporting weaker-than-expected third-quarter revenue across most of its core businesses, which help finance its AI spending. Meanwhile, South Korean chipmaker Samsung Electronics fell more than 5% after its results failed to meet lofty investor expectations. The Kospi Index, a key gauge of sentiment toward AI-related stocks, dropped around 3%, while benchmark indexes in Japan, China, and Hong Kong also came under pressure. On the monetary policy front, the US Federal Reserve kept interest rates unchanged in a widely anticipated decision, although two policymakers dissented in favor of a rate hike, adding to uncertainty over the future policy outlook."
+    },
+    {
+      "id": "mkt:01a18578-de97-7ee0-a9d2-1e4085a8384b",
+      "time": "2026-10-29 10:24:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Institutions see domestic fuel prices likely to rise in next adjustment】China's next domestic refined-fuel price window opens at 24:00 on Oct 29; the pricing cycle runs from 24:00 on Oct 15 to 24:00 on Oct 29. Several market analysts expect an upward adjustment, citing sustained Middle East tensions — US‑Iran standoff and Houthi attacks on Saudi Arabia — that bolster crude risk premia. Brent has remained above $100/bbl, keeping international crude high; the domestic crude-change rate for this cycle is increasingly positive, implying a higher probability and larger magnitude of a fuel-price increase. Year-to-date China has had 20 adjustments (13 up, 5 down, 2 neutral); a rise in this round would make 2026’s tally 14 up, 5 down, 2 neutral."
+    },
+    {
+      "id": "mkt:01a18577-c211-7ee0-a9d2-11092d114f7c",
+      "time": "2026-10-29 10:23:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhongfu Information launches Wujou attack‑defense AI agent】Zhongfu Information said its Yuanheng Lab has launched the Wujou attack‑defense AI agent, embedding AI collaboration into security attack‑and‑defense workflows for enterprise security and authorized teams. The agent automates project‑centric information collection, analysis and validation, gives teams real‑time progress visibility, preserves process records and evidence‑based conclusions, and uses a task‑tree workflow to iterate objectives — aimed at smoother operations, clearer handovers and easier review and delivery."
+    },
+    {
+      "id": "mkt:01a18577-b91a-7ee0-a9d2-0d7f6af63c0d",
+      "time": "2026-10-29 10:22:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese researchers synthesize pentagon-heptagon carbon nanoribbon showing efficient electron transport】Researchers at the University of Science and Technology of China reported they used stepwise surface synthesis to produce a metallic carbon nanoribbon composed exclusively of five- and seven-membered rings. The team said the sub-nanometer-wide, one-dimensional structure—carbon atoms joined by covalent bonds—exhibits efficient electronic transport; results were published online in Nature on the 29th."
+    },
+    {
+      "id": "mkt:01a18577-1e28-7ee0-a9d2-042961b6485c",
+      "time": "2026-10-29 10:22:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Hang Seng Index",
+        "Impact bearish",
+        "02513.HK",
+        "00100.HK"
+      ],
+      "text": "Hang Seng Tech index extends losses to 2%; Hang Seng Index down 0.13%. AI sector slides: Zhipu (02513.HK) down 7.7%, MINIMAX-W (00100.HK) down 6.3%."
+    },
+    {
+      "id": "5178209",
+      "time": "2026-10-29 10:22:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊正式釋出Buddy One、騰訊網盤】今日騰訊正式釋出辦公套件Buddy One、騰訊網盤。據悉，Buddy One以WorkBuddy為工作臺，整合騰訊文件、ima、騰訊設計等工具，透過統一賬號、積分池、資料池，針對不同的需求呼叫不同的工具來生成多模態內容。同時，騰訊網盤將為WorkBuddy套件提供統一儲存，使企業內容一體管理，同時支援Agent在工作中積累的上下文生成成果安全儲存，隨時呼叫沉澱為組織資產。 (財聯社)"
+    },
     {
       "id": "5178204",
       "time": "2026-10-29 10:21:46",
