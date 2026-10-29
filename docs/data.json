@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-29 23:32:27",
-  "count": 12950,
+  "updated": "2026-10-29 23:36:36",
+  "count": 12945,
   "items": [
+    {
+      "id": "5180374",
+      "time": "2026-10-29 23:34:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲銀行：前9個月淨利潤為11.6億歐元，2025年同期為10.3億歐元。"
+    },
+    {
+      "id": "5180373",
+      "time": "2026-10-29 23:32:48",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四周期國債，得標利率3.910%，投標倍數3.10。拍賣八週期國債，得標利率4.020%，投標倍數2.63。"
+    },
+    {
+      "id": "5180372",
+      "time": "2026-10-29 23:31:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：對沖基金 Situational Awareness 正籌備募資，用於押注 Fluidstack。"
+    },
     {
       "id": "te:markets:596394",
       "time": "2026-10-29 23:30:51",
@@ -116822,91 +116848,6 @@
         "國際"
       ],
       "text": "美國內政部長：美國天然氣是世界上最清潔、最可負擔的能源之一，在總統的領導下，我們正釋放這些資源，以降低美國家庭的成本。"
-    },
-    {
-      "id": "mkt:01a16441-5fea-7ee0-a94b-5fc886cc8986",
-      "time": "2026-10-22 23:36:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Microsoft",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bearish",
-        "MSFT.O",
-        "GOOGL.O"
-      ],
-      "text": "US hyperscale cloud providers fell broadly: Oracle -2.4%, Alphabet -2.3%, Microsoft -1.5% and Amazon -4%."
-    },
-    {
-      "id": "5162122",
-      "time": "2026-10-22 23:36:05",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國超大規模雲服務企業下跌，跟隨人工智慧類股普遍下跌。甲骨文下跌2.4%，Alphabet下跌2.3%，微軟下跌1.5%，亞馬遜下跌4%。"
-    },
-    {
-      "id": "5162121",
-      "time": "2026-10-22 23:34:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【科大智慧遞表港交所】據港交所檔案，10月22日，科大智慧科技股份有限公司向港交所提交上市申請書，聯席保薦人為華泰國際、國元國際。"
-    },
-    {
-      "id": "5162120",
-      "time": "2026-10-22 23:33:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "阿瓦洛治療公司股價下跌37%，此前競爭對手艾伯維公佈了皮膚藥物試驗資料。"
-    },
-    {
-      "id": "mkt:01a1643e-4bb2-7ee0-a94b-55cf2fbe1adc",
-      "time": "2026-10-22 23:32:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "U.S. 8-week Treasury auction as of Oct. 22 — share of awards at the stop-out yield 93.95%, prior 50.08%."
-    },
-    {
-      "id": "mkt:01a1643e-2b4c-7ee0-a94b-4fe861eeac09",
-      "time": "2026-10-22 23:32:38",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 8-week Treasury bill auction allotment percentage at the high rate (Oct.22) | actual 93.95% | previous 50.08%"
-    },
-    {
-      "id": "mkt:01a1643e-1dec-7ee0-a94b-45341a307b96",
-      "time": "2026-10-22 23:32:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y"
-      ],
-      "text": "U.S. 8-week Treasury bill auctioned Oct. 22 — stop-out yield 4.015%, prior 4.05%."
-    },
-    {
-      "id": "mkt:01a1643d-ff01-7ee0-a94b-3c9c34e56788",
-      "time": "2026-10-22 23:32:26",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 8-Week Bill Auction High Yield Rate (Oct.22) | actual 4.015% | previous 4.05%"
     }
   ]
 }
