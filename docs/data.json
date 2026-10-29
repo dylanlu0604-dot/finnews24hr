@@ -1,7 +1,135 @@
 {
-  "updated": "2026-10-29 23:52:39",
-  "count": 12941,
+  "updated": "2026-10-29 23:56:26",
+  "count": 12946,
   "items": [
+    {
+      "id": "mkt:01a1885f-d173-7ee0-a9ea-c0e57edc40b9",
+      "time": "2026-10-29 23:55:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Carney said real sovereignty depends on whether Canada can build and adopt AI on its own terms."
+    },
+    {
+      "id": "mkt:01a1885f-9604-7ee0-a9ea-bf71952b18dc",
+      "time": "2026-10-29 23:55:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Canada's prime minister Carney said holding stakes in domestic AI companies is in Canadians' interests."
+    },
+    {
+      "id": "mkt:01a1885f-71b7-7ee0-a9ea-b5bad14aedc6",
+      "time": "2026-10-29 23:55:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Prime Minister Carney said Canada is making a commercial investment in Cohere; co-investors include NVIDIA (NVDA.O), Bell and other private investors."
+    },
+    {
+      "id": "5180385",
+      "time": "2026-10-29 23:55:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）：阿曼附近海域發生安全事件，一艘帆船沉沒。"
+    },
+    {
+      "id": "mkt:01a1885e-f55e-7ee0-a9ea-a9d5301ebcea",
+      "time": "2026-10-29 23:54:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Canada, NVIDIA among investors in Cohere funding; valuation $20.5bn】Canadian AI startup Cohere is seeking up to $5.0bn in a financing round that values the company at $20.5bn, roughly double its valuation a year ago. Cohere said it has completed a first close that the CFO said covers most of the amount. Investors include the Canadian government, which has committed up to $1.14bn, and NVIDIA; the previously disclosed $600m pledge from Schwarz Group is included. Prime Minister Carney said Cohere will keep its headquarters in Canada and expects to invest about $1.2bn in new compute infrastructure by 2030. The $20.5bn valuation excludes proceeds from the round; if completed, the raise would be the largest private financing in Canadian history."
+    },
+    {
+      "id": "mkt:01a1885e-c51c-7ee0-a9ea-a1ed1bede35f",
+      "time": "2026-10-29 23:54:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney said Cohere will remain a Canadian company and has pledged at least C$1.7 bln in Canada by 2030 to build new computing infrastructure."
+    },
+    {
+      "id": "5180384",
+      "time": "2026-10-29 23:54:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：Cohere 將維持加拿大本土企業身份，並且到 2030 年之前，會在加拿大投入至少 17 億加元建設全新算力基礎設施。"
+    },
+    {
+      "id": "mkt:01a1885e-1aa6-7ee0-a9ea-9a462019a654",
+      "time": "2026-10-29 23:53:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Canadian government to take an equity stake in AI startup COHERE."
+    },
+    {
+      "id": "5180383",
+      "time": "2026-10-29 23:53:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：加拿大政府將和英偉達、貝爾等私人投資者一道，按照商業準則投資 Cohere。"
+    },
+    {
+      "id": "te:markets:596396",
+      "time": "2026-10-29 23:53:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Rebounds as Lagarde Signals December Hike — The euro erased an earlier 0.4% decline, recovering from its weakest level since May 2025 to trade slightly higher at $1.116 after European Central Bank President Christine Lagarde revealed that an interest rate hike was discussed today and signaled another increase in December remains likely, with markets pricing in over an 80% chance of a move. Lagarde also announced that she intends to leave the ECB early, citing a desire for “greater freedom” to express views on issues beyond monetary policy. The ECB left interest rates unchanged, flagging upside inflation risks from energy prices, while Lagarde’s emphasis on stable underlying inflation and tighter financial conditions was seen by some economists as dovish. Addressing concerns over France, Lagarde said the ECB has the tools to counter unwarranted market movements. However, she noted that bond yields are rising globally and warned that highly indebted countries must prepare for higher borrowing costs."
+    },
+    {
+      "id": "mkt:01a1885a-8758-7ee0-a9ea-930e9d13f51d",
+      "time": "2026-10-29 23:49:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Russia to extend diesel export ban to year-end, allow limited exports via quotas to meet US supply deal】Two sources told Refinitiv that Russia will extend its diesel export ban through year-end but will permit some refiners to export under a quota system to fulfill a new supply commitment to the United States. November export quotas are set to rise to about 2.0 mln tonnes—roughly four times October’s level, equivalent to roughly 500,000 barrels per day. Exports under existing intergovernmental agreements will continue. The current ban expires Oct. 31; in October Moscow exempted several refineries and issued a total of 500,000 tonnes of export quota. A new government order is expected in early November to expand the list of exempt refineries and set fresh quotas; authorities may raise quotas further if allocations are quickly exhausted."
+    },
+    {
+      "id": "mkt:01a18857-bac7-7ee0-a9ea-8fa6105a4c37",
+      "time": "2026-10-29 23:46:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources say Russia will extend a ban on diesel exports through year-end, while implementing a quota system to allow some firms to export fuel to meet a new export commitment to the U.S."
+    },
     {
       "id": "5180382",
       "time": "2026-10-29 23:46:18",
@@ -17,6 +145,20 @@
         "國際"
       ],
       "text": "訊息人士稱，俄羅斯將把柴油出口禁令延長至年底。俄羅斯對個別公司採用配額出口制度，以履行其對美義務。"
+    },
+    {
+      "id": "mkt:01a18856-22bb-7ee0-a9ea-8550c22e6fba",
+      "time": "2026-10-29 23:45:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Officials expect ECB to hike in December then pause】Refinitiv reports three policymakers said they expect the ECB to raise rates in December to counter energy-driven inflation, then pause as higher bond yields are likely to slow growth and curb inflation. The ECB left rates unchanged on Thursday; President Lagarde signaled a December hike and warned rising energy costs are amplifying inflation risks. Officials said, unless energy prices suddenly fall, the ECB is all but certain to lift the deposit rate to 2.75% at the Dec. 17 meeting and then pause. An ECB estimate circulated before Thursday's meeting showed the recent rise in bond yields versus the September baseline is projected to subtract about 100bps from cumulative growth and cut inflation by roughly 90bps in 2027-28."
     },
     {
       "id": "mkt:01a18854-0090-7ee0-a9ea-7f7ff213311a",
@@ -116803,71 +116945,6 @@
         "其他"
       ],
       "text": "紐約州金融服務管理局（NYDFS）發表宣告，敦促受監管實體迅速識別並修復已知被利用的漏洞。"
-    },
-    {
-      "id": "mkt:01a16453-c7c4-7ee0-a94c-0bf1e8842008",
-      "time": "2026-10-22 23:56:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New York State Department of Financial Services (NYDFS) issues alert on two critical PHP vulnerabilities."
-    },
-    {
-      "id": "5162148",
-      "time": "2026-10-22 23:55:33",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【兩部門啟動國家地震災害四級應急響應】中國地震臺網測定：10月22日22時33分在西藏那曲市巴青縣（北緯32.40度，東經93.79度）發生7.0級地震，震源深度10千米。據瞭解，震中附近平均海拔約4800米，周邊人口稀少。地震發生後，國務院抗震救災指揮部副總指揮、應急管理部部長張成中立即影片排程當地情況，要求儘快核實災情，全力做好搶險救援、群眾轉移安置和震情監測等工作。部領導宋元明、陳敏、周天、王昆持續排程指導應急處置工作。國務院抗震救災指揮部辦公室、應急管理部啟動國家地震災害四級應急響應，派出工作組趕赴當地指導處置。"
-    },
-    {
-      "id": "5162147",
-      "time": "2026-10-22 23:55:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所11月交貨的英國天然氣期貨收盤價為每熱單位221.98便士。"
-    },
-    {
-      "id": "mkt:01a16453-059c-7ee0-a94c-0236b7d450f7",
-      "time": "2026-10-22 23:55:24",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【State Council earthquake-relief office and Emergency Management Ministry activate national level-4 earthquake emergency response】cenc recorded a M7.0 earthquake at 22:33 Oct 22 (local time) in Baqing County, Nagqu, Tibet (32.40N, 93.79E), depth 10 km; epicentre elevation ~4,800 m and area is sparsely populated. The State Council earthquake-relief command office and the Ministry of Emergency Management have activated a national level-4 earthquake-disaster emergency response and dispatched a working group to the site. Emergency Management Minister Zhang Chengzhong conducted a video briefing, ordering rapid verification of damage, full search-and-rescue efforts, population evacuation and stepped-up seismic monitoring."
-    },
-    {
-      "id": "mkt:01a16452-3751-7ee0-a94b-fef1ff7396be",
-      "time": "2026-10-22 23:54:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Qatari prime minister and US Secretary of State Rubio discussed diplomatic efforts to ease tensions."
-    },
-    {
-      "id": "5162146",
-      "time": "2026-10-22 23:54:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達首相與美國國務卿魯比奧討論緩和緊張局勢的外交努力。"
-    },
-    {
-      "id": "mkt:01a16451-9b55-7ee0-a94b-f6eb45056380",
-      "time": "2026-10-22 23:53:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Qatari PM held a phone call with U.S. Secretary of State Rubio."
-    },
-    {
-      "id": "5162145",
-      "time": "2026-10-22 23:52:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達首相與美國國務卿魯比奧通電話。"
     }
   ]
 }

@@ -1,7 +1,135 @@
 {
   "date": "2026-10-29",
-  "count": 2511,
+  "count": 2524,
   "items": [
+    {
+      "id": "mkt:01a1885f-d173-7ee0-a9ea-c0e57edc40b9",
+      "time": "2026-10-29 23:55:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Carney said real sovereignty depends on whether Canada can build and adopt AI on its own terms."
+    },
+    {
+      "id": "mkt:01a1885f-9604-7ee0-a9ea-bf71952b18dc",
+      "time": "2026-10-29 23:55:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Canada's prime minister Carney said holding stakes in domestic AI companies is in Canadians' interests."
+    },
+    {
+      "id": "mkt:01a1885f-71b7-7ee0-a9ea-b5bad14aedc6",
+      "time": "2026-10-29 23:55:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Prime Minister Carney said Canada is making a commercial investment in Cohere; co-investors include NVIDIA (NVDA.O), Bell and other private investors."
+    },
+    {
+      "id": "5180385",
+      "time": "2026-10-29 23:55:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）：阿曼附近海域發生安全事件，一艘帆船沉沒。"
+    },
+    {
+      "id": "mkt:01a1885e-f55e-7ee0-a9ea-a9d5301ebcea",
+      "time": "2026-10-29 23:54:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Canada, NVIDIA among investors in Cohere funding; valuation $20.5bn】Canadian AI startup Cohere is seeking up to $5.0bn in a financing round that values the company at $20.5bn, roughly double its valuation a year ago. Cohere said it has completed a first close that the CFO said covers most of the amount. Investors include the Canadian government, which has committed up to $1.14bn, and NVIDIA; the previously disclosed $600m pledge from Schwarz Group is included. Prime Minister Carney said Cohere will keep its headquarters in Canada and expects to invest about $1.2bn in new compute infrastructure by 2030. The $20.5bn valuation excludes proceeds from the round; if completed, the raise would be the largest private financing in Canadian history."
+    },
+    {
+      "id": "mkt:01a1885e-c51c-7ee0-a9ea-a1ed1bede35f",
+      "time": "2026-10-29 23:54:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney said Cohere will remain a Canadian company and has pledged at least C$1.7 bln in Canada by 2030 to build new computing infrastructure."
+    },
+    {
+      "id": "5180384",
+      "time": "2026-10-29 23:54:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：Cohere 將維持加拿大本土企業身份，並且到 2030 年之前，會在加拿大投入至少 17 億加元建設全新算力基礎設施。"
+    },
+    {
+      "id": "mkt:01a1885e-1aa6-7ee0-a9ea-9a462019a654",
+      "time": "2026-10-29 23:53:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Canadian government to take an equity stake in AI startup COHERE."
+    },
+    {
+      "id": "5180383",
+      "time": "2026-10-29 23:53:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：加拿大政府將和英偉達、貝爾等私人投資者一道，按照商業準則投資 Cohere。"
+    },
+    {
+      "id": "te:markets:596396",
+      "time": "2026-10-29 23:53:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Rebounds as Lagarde Signals December Hike — The euro erased an earlier 0.4% decline, recovering from its weakest level since May 2025 to trade slightly higher at $1.116 after European Central Bank President Christine Lagarde revealed that an interest rate hike was discussed today and signaled another increase in December remains likely, with markets pricing in over an 80% chance of a move. Lagarde also announced that she intends to leave the ECB early, citing a desire for “greater freedom” to express views on issues beyond monetary policy. The ECB left interest rates unchanged, flagging upside inflation risks from energy prices, while Lagarde’s emphasis on stable underlying inflation and tighter financial conditions was seen by some economists as dovish. Addressing concerns over France, Lagarde said the ECB has the tools to counter unwarranted market movements. However, she noted that bond yields are rising globally and warned that highly indebted countries must prepare for higher borrowing costs."
+    },
+    {
+      "id": "mkt:01a1885a-8758-7ee0-a9ea-930e9d13f51d",
+      "time": "2026-10-29 23:49:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Russia to extend diesel export ban to year-end, allow limited exports via quotas to meet US supply deal】Two sources told Refinitiv that Russia will extend its diesel export ban through year-end but will permit some refiners to export under a quota system to fulfill a new supply commitment to the United States. November export quotas are set to rise to about 2.0 mln tonnes—roughly four times October’s level, equivalent to roughly 500,000 barrels per day. Exports under existing intergovernmental agreements will continue. The current ban expires Oct. 31; in October Moscow exempted several refineries and issued a total of 500,000 tonnes of export quota. A new government order is expected in early November to expand the list of exempt refineries and set fresh quotas; authorities may raise quotas further if allocations are quickly exhausted."
+    },
+    {
+      "id": "mkt:01a18857-bac7-7ee0-a9ea-8fa6105a4c37",
+      "time": "2026-10-29 23:46:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources say Russia will extend a ban on diesel exports through year-end, while implementing a quota system to allow some firms to export fuel to meet a new export commitment to the U.S."
+    },
     {
       "id": "5180382",
       "time": "2026-10-29 23:46:18",
@@ -17,6 +145,20 @@
         "國際"
       ],
       "text": "訊息人士稱，俄羅斯將把柴油出口禁令延長至年底。俄羅斯對個別公司採用配額出口制度，以履行其對美義務。"
+    },
+    {
+      "id": "mkt:01a18856-22bb-7ee0-a9ea-8550c22e6fba",
+      "time": "2026-10-29 23:45:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Officials expect ECB to hike in December then pause】Refinitiv reports three policymakers said they expect the ECB to raise rates in December to counter energy-driven inflation, then pause as higher bond yields are likely to slow growth and curb inflation. The ECB left rates unchanged on Thursday; President Lagarde signaled a December hike and warned rising energy costs are amplifying inflation risks. Officials said, unless energy prices suddenly fall, the ECB is all but certain to lift the deposit rate to 2.75% at the Dec. 17 meeting and then pause. An ECB estimate circulated before Thursday's meeting showed the recent rise in bond yields versus the September baseline is projected to subtract about 100bps from cumulative growth and cut inflation by roughly 90bps in 2027-28."
     },
     {
       "id": "mkt:01a18854-0090-7ee0-a9ea-7f7ff213311a",
