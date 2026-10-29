@@ -1,7 +1,173 @@
 {
-  "updated": "2026-10-30 05:24:25",
-  "count": 13038,
+  "updated": "2026-10-30 05:28:14",
+  "count": 13056,
   "items": [
+    {
+      "id": "mkt:01a1898f-e1a1-7ee0-a9f0-2019a17e72be",
+      "time": "2026-10-30 05:27:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Amazon (AMZN.O) CFO said the delivery team has managed pressure from higher transportation costs driven by fuel price inflation."
+    },
+    {
+      "id": "5180756",
+      "time": "2026-10-30 05:27:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜首席財務官：希望充分享受人工智慧優勢的AWS客戶正在向雲端遷移 。"
+    },
+    {
+      "id": "mkt:01a1898f-befe-7ee0-a9f0-196887f5d3fc",
+      "time": "2026-10-30 05:27:41",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bearish",
+        "MU.O",
+        "Impact mixed"
+      ],
+      "text": "Intel CFO said memory shortages further intensified pressure on the PC total addressable market (TAM) at the end of Q3."
+    },
+    {
+      "id": "5180755",
+      "time": "2026-10-30 05:27:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾首席財務官：自第一季度以來，英特爾18A成本下降了約40%。"
+    },
+    {
+      "id": "5180754",
+      "time": "2026-10-30 05:27:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜首席財務官：機器人技術和人工智慧正在提高生產力。"
+    },
+    {
+      "id": "mkt:01a1898e-e65a-7ee0-a9f0-12f3a452c6c7",
+      "time": "2026-10-30 05:26:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) CFO said memory shortages and constrained IT budgets are weighing on the PC market."
+    },
+    {
+      "id": "te:economy:596454",
+      "time": "2026-10-30 05:26:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "ANZ Roy Morgan Consumer Confidence Index",
+        "Importance 1"
+      ],
+      "text": "New Zealand Consumer Confidence Falls in October — The ANZ-Roy Morgan Consumer Confidence Index fell 2 points to 96.2 in October 2026, remaining below the neutral 100 mark for an eighth consecutive month. Although confidence remains subdued, it is 16 points above its April low. New Zealand consumers remain pessimistic as fuel prices stay elevated and inflation outpaces income growth. A weak currency is adding to the pressure, although export-oriented sectors are benefiting. The net share of households viewing it as a good time to buy a major household item, a key retail indicator, dropped 10 points to -17% as cost-of-living pressures weighed on spending plans. However, some indicators improved. Expectations for personal finances over the next year remained firmly positive, rising for a fourth consecutive month. House price inflation expectations eased to 2% from 2.4%, their lowest level since July 2023, while inflation expectations fell to 4.2% from 4.5%, the lowest since March 2025."
+    },
+    {
+      "id": "5180753",
+      "time": "2026-10-30 05:26:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "TETHER執行長：TETHER凍結了超過15.67億枚USDT，這些USDT與幣安交易所可能遭遇的駭客攻擊有關。"
+    },
+    {
+      "id": "5180752",
+      "time": "2026-10-30 05:25:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "伯克希爾出售DaVita股份後仍持有2831萬股。"
+    },
+    {
+      "id": "5180751",
+      "time": "2026-10-30 05:25:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "亞馬遜首席財務官：物流團隊已消化燃油通脹帶來的運輸成本上漲 。"
+    },
+    {
+      "id": "5180750",
+      "time": "2026-10-30 05:25:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾首席財務官：記憶體短缺對PC潛在市場的壓力在第三季度末加劇。"
+    },
+    {
+      "id": "5180749",
+      "time": "2026-10-30 05:25:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "伯克希爾以每股180.43美元的價格出售382,563股DaVita股票。"
+    },
+    {
+      "id": "5180748",
+      "time": "2026-10-30 05:25:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司在阿馬帕海岸附近發現第三個油田。"
+    },
+    {
+      "id": "mkt:01a1898d-1ad2-7ee0-a9f0-0c6b1122c0be",
+      "time": "2026-10-30 05:24:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) CFO said data center and AI revenue could be nearly $10 billion higher than expected by year-end."
+    },
+    {
+      "id": "mkt:01a1898c-ff2a-7ee0-a9f0-061f0b99e158",
+      "time": "2026-10-30 05:24:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "INTC.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Intel (INTC.O) CFO said demand for data center and AI products continues to outstrip supply."
+    },
+    {
+      "id": "5180747",
+      "time": "2026-10-30 05:24:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾首席財務官：資料中心和人工智慧產品的需求持續超過供應。"
+    },
+    {
+      "id": "5180746",
+      "time": "2026-10-30 05:24:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾首席財務官：資料中心和人工智慧部門的收入有望在年底前比預期高出近 100 億美元。"
+    },
+    {
+      "id": "5180745",
+      "time": "2026-10-30 05:24:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "洛杉磯縣發言人表示，該縣官員收到傳票，涉及特朗普政府針對所謂非公民投票的調查。"
+    },
     {
       "id": "5180744",
       "time": "2026-10-30 05:22:48",
