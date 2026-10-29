@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-30 05:39:41",
-  "count": 13081,
+  "updated": "2026-10-30 05:43:28",
+  "count": 13082,
   "items": [
+    {
+      "id": "5180776",
+      "time": "2026-10-30 05:41:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大航空高管在電話會議上表示，預計無法完全收回第四季度與燃油漲價相關的增量成本。"
+    },
+    {
+      "id": "mkt:01a1899a-ff6d-7ee0-a9f0-8fab62defdc7",
+      "time": "2026-10-30 05:39:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) CFO said the company is unlikely to generate positive cash flow next year."
+    },
     {
       "id": "5180775",
       "time": "2026-10-30 05:39:10",
@@ -118212,18 +118232,6 @@
         "Importance 0"
       ],
       "text": "Atlas Copco earnings above expectations at 1.58 SEK — Atlas Copco (ATCOA) released earnings per share at 1.58 SEK, compared to market expectations of 1.55 SEK."
-    },
-    {
-      "id": "mkt:01a16591-0835-7ee0-a94f-ed59a4396576",
-      "time": "2026-10-23 05:42:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "GM.O",
-        "Impact bearish"
-      ],
-      "text": "SEC filing shows GM canceled a long-term supply agreement for rare-earth magnets at a plant slated to be acquired by Energy Fuels."
     }
   ]
 }

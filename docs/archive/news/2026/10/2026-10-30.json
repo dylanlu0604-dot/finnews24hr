@@ -1,7 +1,27 @@
 {
   "date": "2026-10-30",
-  "count": 541,
+  "count": 543,
   "items": [
+    {
+      "id": "5180776",
+      "time": "2026-10-30 05:41:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大航空高管在電話會議上表示，預計無法完全收回第四季度與燃油漲價相關的增量成本。"
+    },
+    {
+      "id": "mkt:01a1899a-ff6d-7ee0-a9f0-8fab62defdc7",
+      "time": "2026-10-30 05:39:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) CFO said the company is unlikely to generate positive cash flow next year."
+    },
     {
       "id": "5180775",
       "time": "2026-10-30 05:39:10",
