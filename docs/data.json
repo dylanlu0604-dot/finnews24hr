@@ -1,7 +1,100 @@
 {
-  "updated": "2026-10-30 05:28:14",
-  "count": 13056,
+  "updated": "2026-10-30 05:32:05",
+  "count": 13064,
   "items": [
+    {
+      "id": "5180763",
+      "time": "2026-10-30 05:31:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾首席財務官預計2027年資本支出總額將“大幅增長。"
+    },
+    {
+      "id": "5180762",
+      "time": "2026-10-30 05:30:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜首席財務官表示，Leo 專案預計將於第一季度啟動，大部分支出將在第四季度產生。"
+    },
+    {
+      "id": "5180761",
+      "time": "2026-10-30 05:30:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜首席財務官表示，Leo 專案的推出晚於預期，正在影響第四季度業績指引。"
+    },
+    {
+      "id": "mkt:01a18992-0e08-7ee0-a9f0-3c987470ec28",
+      "time": "2026-10-30 05:30:12",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) CFO expects industry supply constraints to persist through 2027 and extend into 2028."
+    },
+    {
+      "id": "5180760",
+      "time": "2026-10-30 05:30:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾首席財務官預計，2026年下半年PC出貨量將下降超過20%。"
+    },
+    {
+      "id": "mkt:01a18991-7afa-7ee0-a9f0-3702c110b5ff",
+      "time": "2026-10-30 05:29:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) CFO said 18A process costs have fallen about 40% since Q1."
+    },
+    {
+      "id": "5180759",
+      "time": "2026-10-30 05:29:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾首席財務官預計2026年、2027年行業伺服器CPU出貨量增長超過30%。"
+    },
+    {
+      "id": "5180758",
+      "time": "2026-10-30 05:29:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾首席財務官：我們預計第四季度資料中心和人工智慧部門（DCAI）收入將環比增長 15% 左右。"
+    },
+    {
+      "id": "mkt:01a18990-dc56-7ee0-a9f0-2a5814ce23f0",
+      "time": "2026-10-30 05:28:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) CFO said robots and AI are boosting productivity."
+    },
+    {
+      "id": "5180757",
+      "time": "2026-10-30 05:28:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾首席財務官預計行業供應緊張將持續至2027年，甚至延續至2028年。"
+    },
     {
       "id": "mkt:01a1898f-e1a1-7ee0-a9f0-2019a17e72be",
       "time": "2026-10-30 05:27:50",
@@ -117975,22 +118068,6 @@
         "MKT News"
       ],
       "text": "Market sources say SpaceX is negotiating access to roughly 80,000 cell sites to build a new network."
-    },
-    {
-      "id": "5162785",
-      "time": "2026-10-23 05:31:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際金價跌2.7%，逼近4000美元整數位心理關口】週四（10月22日）紐約尾盤，現貨黃金跌2.71%，報4028.58美元/盎司，整體持續下跌，交投於4145.82-4021.32美元區間。現貨白銀跌5.87%，報54.5746美元/盎司，交投於57.9753-54.4901美元。COMEX銅期貨跌2.67%，報6.3985美元/磅。現貨鉑金跌3.86%，報1568.54美元/盎司；現貨鈀金跌3.60%，報1054.02美元/盎司。在美股時段交易的費城金銀指數收跌5.53%，報333.96點，大部分時間低位窄幅震盪。"
-    },
-    {
-      "id": "5162784",
-      "time": "2026-10-23 05:30:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX正洽談接入8萬個基站，用於新建網路。"
     }
   ]
 }
