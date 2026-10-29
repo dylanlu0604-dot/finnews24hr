@@ -1,7 +1,121 @@
 {
   "date": "2026-10-30",
-  "count": 480,
+  "count": 492,
   "items": [
+    {
+      "id": "5180744",
+      "time": "2026-10-30 05:22:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜Prime Video業務已實現盈利。"
+    },
+    {
+      "id": "mkt:01a1898b-2c26-7ee0-a9ef-fa40b97951d7",
+      "time": "2026-10-30 05:22:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "IAEA said it has been informed that an employee at the Zaporizhzhia nuclear plant was killed today in a drone attack."
+    },
+    {
+      "id": "mkt:01a1898b-1edf-7ee0-a9ef-f4b0ebe56030",
+      "time": "2026-10-30 05:22:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) CEO said he was disappointed the company failed to meet strong customer demand this quarter."
+    },
+    {
+      "id": "mkt:01a1898b-09d6-7ee0-a9ef-e8951e82b6e7",
+      "time": "2026-10-30 05:22:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) CEO expects Q4 advertising revenue YoY growth to recover to \"near 20%\"."
+    },
+    {
+      "id": "mkt:01a1898b-0907-7ee0-a9ef-e68832cf8992",
+      "time": "2026-10-30 05:22:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) CEO said the acquisition of Classiq would make Intel a full-stack, revenue-generating quantum computing company."
+    },
+    {
+      "id": "5180743",
+      "time": "2026-10-30 05:22:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾首席財務官：記憶體短缺和IT預算有限導致PC市場疲軟。"
+    },
+    {
+      "id": "5180742",
+      "time": "2026-10-30 05:21:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：國際原子能機構已獲悉，扎波羅熱核電站一名員工今天在無人機襲擊中喪生。據報道，遇難者是該核電站集中維修車間的一名焊工。總幹事格羅西表示，任何針對核電站工作人員的襲擊都完全不可接受，違反了武裝衝突期間核安全與核安保七項不可或缺支柱。國際原子能機構總幹事格羅西再次呼籲保持最大限度的軍事剋制，以幫助防止衝突期間發生核事故的風險。"
+    },
+    {
+      "id": "5180741",
+      "time": "2026-10-30 05:21:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：已獲悉，扎波羅熱核電站（ZNPP）的一名員工在今天的無人機襲擊中喪生。"
+    },
+    {
+      "id": "5180740",
+      "time": "2026-10-30 05:20:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "Reddit執行長：谷歌正在以前所未有的力度抓取我們的內容。"
+    },
+    {
+      "id": "5180739",
+      "time": "2026-10-30 05:20:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾CEO表示，收購Classiq後，英特爾將成為一家全棧式、能產生收入的量子計算公司。"
+    },
+    {
+      "id": "5180738",
+      "time": "2026-10-30 05:20:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜的Jassy表示，公司計劃明年將晶片銷售拓展至AWS之外。"
+    },
+    {
+      "id": "5180737",
+      "time": "2026-10-30 05:20:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "Circle執行長：已凍結逾8億美元相關USDC。"
+    },
     {
       "id": "5180736",
       "time": "2026-10-30 05:20:03",
