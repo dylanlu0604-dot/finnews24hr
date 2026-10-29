@@ -1,7 +1,116 @@
 {
   "date": "2026-10-29",
-  "count": 801,
+  "count": 812,
   "items": [
+    {
+      "id": "mkt:01a184f7-cf2c-7ee0-a9cd-c4eaacd61a68",
+      "time": "2026-10-29 08:03:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,050/oz, down 0.46% intraday."
+    },
+    {
+      "id": "5177429",
+      "time": "2026-10-29 08:03:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4050美元/盎司，日內跌0.42%。"
+    },
+    {
+      "id": "5177428",
+      "time": "2026-10-29 08:03:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧將於週四美國東部時間上午9點會見芬蘭外交部長。"
+    },
+    {
+      "id": "mkt:01a184f6-b3b4-7ee0-a9cd-bfe7ebe5bb79",
+      "time": "2026-10-29 08:02:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix was up 1% in early trade; Samsung Electronics was down 1%."
+    },
+    {
+      "id": "mkt:01a184f6-43a3-7ee0-a9cd-b32971a3f365",
+      "time": "2026-10-29 08:01:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened up 235.97 points, or 0.37%, at 64,190.16 on Thursday, Oct. 29."
+    },
+    {
+      "id": "mkt:01a184f6-3376-7ee0-a9cd-aa3a7d0008a8",
+      "time": "2026-10-29 08:01:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened on Oct 29 (Thu) at 6,012.09, down 0.35 points (-0.01%)."
+    },
+    {
+      "id": "5177427",
+      "time": "2026-10-29 08:00:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI 指數開盤基本持平，報 6,017.22。"
+    },
+    {
+      "id": "5177426",
+      "time": "2026-10-29 08:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報64126.25點，漲幅0.27％。韓國KOSPI 指數開盤基本持平，報 6,017.22。"
+    },
+    {
+      "id": "te:markets:595997",
+      "time": "2026-10-29 08:00:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Slide as Alphabet Shares Tumble — US stock futures declined on Thursday following disappointing earnings from Alphabet, reigniting concerns over the substantial costs of artificial intelligence investments. Nasdaq 100 futures fell more than 1%, while S&P 500 futures slipped 0.5%. In after-hours trading, Google’s parent company, Alphabet, plunged around 10% after reporting weaker-than-expected third-quarter revenue across most of its core businesses, which help finance its AI spending. Meanwhile, Microsoft rose nearly 3% after delivering better-than-expected quarterly results, supported by strong growth in its Azure cloud infrastructure business. During Wednesday’s regular session, the Dow gained 0.19%, the S&P 500 advanced 0.28%, and the Nasdaq Composite climbed 0.27%. The gains came after the Federal Reserve kept interest rates unchanged, despite two policymakers dissenting in favor of a 25-basis-point rate increase. Fed Chair Kevin Warsh expressed confidence that inflation expectations remained well anchored."
+    },
+    {
+      "id": "5177425",
+      "time": "2026-10-29 08:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破111美元/桶，日內跌0.99%。"
+    },
+    {
+      "id": "5177424",
+      "time": "2026-10-29 08:00:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報110.45美元/桶。"
+    },
     {
       "id": "5177423",
       "time": "2026-10-29 07:58:33",

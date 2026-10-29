@@ -1,7 +1,116 @@
 {
-  "updated": "2026-10-29 08:00:17",
+  "updated": "2026-10-29 08:04:04",
   "count": 13043,
   "items": [
+    {
+      "id": "mkt:01a184f7-cf2c-7ee0-a9cd-c4eaacd61a68",
+      "time": "2026-10-29 08:03:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,050/oz, down 0.46% intraday."
+    },
+    {
+      "id": "5177429",
+      "time": "2026-10-29 08:03:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4050美元/盎司，日內跌0.42%。"
+    },
+    {
+      "id": "5177428",
+      "time": "2026-10-29 08:03:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧將於週四美國東部時間上午9點會見芬蘭外交部長。"
+    },
+    {
+      "id": "mkt:01a184f6-b3b4-7ee0-a9cd-bfe7ebe5bb79",
+      "time": "2026-10-29 08:02:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix was up 1% in early trade; Samsung Electronics was down 1%."
+    },
+    {
+      "id": "mkt:01a184f6-43a3-7ee0-a9cd-b32971a3f365",
+      "time": "2026-10-29 08:01:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened up 235.97 points, or 0.37%, at 64,190.16 on Thursday, Oct. 29."
+    },
+    {
+      "id": "mkt:01a184f6-3376-7ee0-a9cd-aa3a7d0008a8",
+      "time": "2026-10-29 08:01:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened on Oct 29 (Thu) at 6,012.09, down 0.35 points (-0.01%)."
+    },
+    {
+      "id": "5177427",
+      "time": "2026-10-29 08:00:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI 指數開盤基本持平，報 6,017.22。"
+    },
+    {
+      "id": "5177426",
+      "time": "2026-10-29 08:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報64126.25點，漲幅0.27％。韓國KOSPI 指數開盤基本持平，報 6,017.22。"
+    },
+    {
+      "id": "te:markets:595997",
+      "time": "2026-10-29 08:00:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Slide as Alphabet Shares Tumble — US stock futures declined on Thursday following disappointing earnings from Alphabet, reigniting concerns over the substantial costs of artificial intelligence investments. Nasdaq 100 futures fell more than 1%, while S&P 500 futures slipped 0.5%. In after-hours trading, Google’s parent company, Alphabet, plunged around 10% after reporting weaker-than-expected third-quarter revenue across most of its core businesses, which help finance its AI spending. Meanwhile, Microsoft rose nearly 3% after delivering better-than-expected quarterly results, supported by strong growth in its Azure cloud infrastructure business. During Wednesday’s regular session, the Dow gained 0.19%, the S&P 500 advanced 0.28%, and the Nasdaq Composite climbed 0.27%. The gains came after the Federal Reserve kept interest rates unchanged, despite two policymakers dissenting in favor of a 25-basis-point rate increase. Fed Chair Kevin Warsh expressed confidence that inflation expectations remained well anchored."
+    },
+    {
+      "id": "5177425",
+      "time": "2026-10-29 08:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破111美元/桶，日內跌0.99%。"
+    },
+    {
+      "id": "5177424",
+      "time": "2026-10-29 08:00:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報110.45美元/桶。"
+    },
     {
       "id": "5177423",
       "time": "2026-10-29 07:58:33",
@@ -117498,105 +117607,6 @@
         "MKT News"
       ],
       "text": "【CHINA'S LI returns to Beijing after concluding 31st regular China-Russia premier meeting】CHINA'S LI returned to Beijing by charter on the morning of Oct. 22 after concluding the 31st regular China-Russia premier meeting. State Councilor and Secretary-General Wu Zhenglong accompanied him. Russian senior officials and China's ambassador to Russia Zhang Hanhui saw him off at St. Petersburg airport."
-    },
-    {
-      "id": "5159543",
-      "time": "2026-10-22 08:03:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報98.13美元/桶。"
-    },
-    {
-      "id": "5159542",
-      "time": "2026-10-22 08:02:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【擎天租聯合藍色宇宙成立合資公司】近日，擎天租與藍色宇宙正式成立合資公司，雙方將聚焦文旅垂直賽道，重點推動具身智慧機器人在景區、博物館等場景的規模化落地與商業化運營。此次合作將機器人硬體、場景運營與全國化服務能力進一步打通，讓具身智慧從單點展示走向真實文旅場景中的持續運營。"
-    },
-    {
-      "id": "5159541",
-      "time": "2026-10-22 08:02:34",
-      "tags": [
-        "央行",
-        "公司",
-        "市場"
-      ],
-      "text": "【數字貨幣兩大核心成果釋出 15只概念股低估值且大幅回撥】 10月21日，數字人民幣基礎設施服務體系迎來重大升級，數字人民幣運營管理中心對外宣佈，推出央行端數字人民幣系統（DCEPS）、數字人民幣智慧合約生態服務框架（e-CNY SMART Contract）兩大核心成果。數字人民幣概念股今年以來整體下跌，其中中科金財、四方精創、翠微股份年內跌幅超45%，贏時勝、證通電子、京北方、長亮科技等跌超40%。今年以來，有15只概念股獲得機構調研，宇信科技、廣電運通、京北方、天陽科技獲得百家以上機構調研，新開普、中科江南、證通電子獲得40家以上機構調研。年內跌幅超20%個股中，有15股最新市淨率不足3倍，海聯金匯、廣電運通、神州資訊、新開普、南天資訊等不足2倍。"
-    },
-    {
-      "id": "5159540",
-      "time": "2026-10-22 08:02:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國裁軍大使呼籲防止外空軍備競賽和武器化】中國裁軍事務大使李馳江21日在聯大第一委員會關於外空問題作專題發言，指出防止外空軍備競賽和武器化是外空安全治理的最緊迫任務。\n李馳江說，當前，外空軍備競賽與武器化已成為現實威脅。美國將外空界定為“作戰疆域”，公開承認在軌部署太空控制武器，向國際社會釋放出極其危險的訊號。大多數國家維護外空安全願望與一國稱霸外空的矛盾空前尖銳，這是外空安全面臨的最大挑戰。他提出四點中方主張：\n第一，防止外空軍備競賽和武器化是外空安全治理的最緊迫任務。不解決這個根本問題，外空領域的其他規則都將受到衝擊。各國應堅持“外空戰打不贏也打不得”理念，放棄“主導外空”戰略，不在外空搞“大國競爭”和陣營對抗。\n第二，加強談判締結外空軍控條約的國際努力。事實證明，自願性規則無法阻止外空武器化。中俄“防止在外空放置武器、對外空物體使用或威脅使用武力條約”草案是當前唯一的外空軍控法律文書建議，其核心條款能夠從根源上遏制外空武器化、戰場化。中方歡迎各方討論完善該草案文字。\n第三，堅持多邊協商，反對雙重標準。外空規則應由各國共同制定，不能搞“小圈子”、排他性安排。應積極推進和平利用外空國際合作。一邊放任在軌部署武器的行為，一邊搞“選擇性軍控”，無助於維護外空和平與安全。\n第四，重視新興問題治理。深入研究商業航天介入他國武裝衝突帶來的法律爭議和現實問題，在廣泛磋商基礎上探尋可行的治理方案。"
-    },
-    {
-      "id": "mkt:01a160ea-10e9-7ee0-a933-c19d09ab2992",
-      "time": "2026-10-22 08:01:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KOSPI opened down 56.36 points, or 0.98%, at 5,679.3 on Thursday, Oct 22."
-    },
-    {
-      "id": "5159539",
-      "time": "2026-10-22 08:01:46",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【李強結束出訪回到北京】10月22日上午，國務院總理李強在結束中俄總理第三十一次定期會晤後，乘包機回到北京。國務委員兼國務院秘書長吳政隆等陪同人員同機抵達。 離開聖彼得堡時，俄羅斯政府高階官員和中國駐俄羅斯大使張漢暉等到機場送行。(新華社)"
-    },
-    {
-      "id": "5159538",
-      "time": "2026-10-22 08:01:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守109美元/桶，日內漲1.03%。"
-    },
-    {
-      "id": "mkt:01a160e9-814b-7ee0-a933-bacc2e33b43e",
-      "time": "2026-10-22 08:01:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225"
-      ],
-      "text": "Japan's Nikkei 225 index opened down 47.77 points, or 0.07%, at 64,573.47 on Thursday, Oct. 22."
-    },
-    {
-      "id": "5159537",
-      "time": "2026-10-22 08:00:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌1.1%，至5670.11點。"
-    },
-    {
-      "id": "mkt:01a160e8-b1e0-7ee0-a933-b7f4cf33a02c",
-      "time": "2026-10-22 08:00:24",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "【UK chancellor plans to cut business costs; first budget to support entrepreneurs】Chancellor John Healey plans to use his first budget, due later this month, to lower firms' operating costs and support entrepreneurs by cutting regulatory burdens. One proposed measure is scrapping certain reporting requirements for small businesses. Healey has ruled out raising capital gains tax and will not pursue a proposed new visa category for wealthy foreign residents."
-    },
-    {
-      "id": "5159536",
-      "time": "2026-10-22 08:00:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報64539.36點，跌幅0.13%。"
     }
   ]
 }
