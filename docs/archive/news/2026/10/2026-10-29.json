@@ -1,7 +1,66 @@
 {
   "date": "2026-10-29",
-  "count": 1226,
+  "count": 1232,
   "items": [
+    {
+      "id": "mkt:01a18592-5760-7ee0-a9d2-9fd8d819ede7",
+      "time": "2026-10-29 10:52:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【AMP says RBA December sixth rate hike a 'high-risk' event】Australian markets are bracing for a near-certain RBA rate rise next week; markets should also weigh the risk of a further December hike, which would be the sixth increase. AMP chief economist Shane Oliver called a December move 'high-risk' but said it is not his base case. He expects next week’s hike should allow the RBA to pause; if the central bank intends another increase it may wait until February to assess the impact after two consecutive meetings."
+    },
+    {
+      "id": "5178305",
+      "time": "2026-10-29 10:51:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲安全初創公司Upwind完成4億美元融資，估值達38億美元】雲安全初創公司Upwind宣佈，在由Bessemer Venture Partners領投的一輪融資中籌集了4億美元，公司估值達到38億美元。本輪融資將用於產品擴充套件。包括Greylock Partners、Cyber starts、Craft Ventures、Salesforce Ventures、Alta Park和TCV的現有投資者參與了本輪融資，Canapi Ventures則作為新投資方加入。該公司在2024年12月的一輪1億美元融資中，估值約為9億美元；而九個月前完成的2.5億美元B輪融資則未披露估值。自2022年成立以來，該公司累計融資總額已超過8億美元。"
+    },
+    {
+      "id": "mkt:01a18591-5f23-7ee0-a9d2-944b2b7873ec",
+      "time": "2026-10-29 10:50:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【RBA rate‑hike odds surge; AUD/USD extends gains】AUD/USD strengthened in Asian trade on Thursday, trading around 0.7055. Australian inflation surprised to the upside, lifting market odds that the Reserve Bank of Australia will raise the cash rate to 4.85% at the next policy meeting to roughly 82% (vs ~62% before the print). Markets will focus on US September PCE data due later Thursday. Commonwealth Bank FX strategist Carol Kong said markets read the absence of explicit discussion of further hikes as dovish or at least not sufficiently hawkish. Brown Brothers Harriman noted September headline CPI rose 4.3% YoY (vs 4.2% expected, 4.0% in August), driven by housing and transport, reinforcing the case for another RBA hike and supporting the AUD."
+    },
+    {
+      "id": "mkt:01a18591-0209-7ee0-a9d2-8a6681a12287",
+      "time": "2026-10-29 10:50:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Chip Wars"
+      ],
+      "text": "【Tencent Cloud says it has deployed over 2 million servers globally】Tencent Cloud said it has deployed more than 2 million servers worldwide and is accelerating global data center construction; overseas AI demand rose by triple digits over the past year and active international customers doubled. In collaboration with the Hunyuan team, Tencent Cloud boosted single-card throughput of a Chinese-made chip fivefold in the two weeks before launch, and plans to release its new model Hy4 imminently."
+    },
+    {
+      "id": "mkt:01a18590-0489-7ee0-a9d2-81d5e8b72903",
+      "time": "2026-10-29 10:49:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【HKMA: Wide HKD-USD interest-rate differential may allow carry trades to gradually weaken the Hong Kong dollar】The Hong Kong Monetary Authority said the Fed’s decision to hold rates met market expectations and Hong Kong money and financial markets remain orderly. A persistent wide HKD‑USD interest-rate differential means carry trades could gradually weaken the HKD; the HKD exchange rate and HIBOR path face material uncertainty, depending on market appetite for carry, HKD funding supply/demand from capital-market activity and seasonal factors. US policy rates remain uncertain and will depend on inflation, the labour market and incoming data, which will affect Hong Kong’s rate environment. Market participants should factor and manage interest-rate risk for property, investment and borrowing decisions. HKMA will continue to monitor markets closely to maintain monetary and financial stability."
+    },
+    {
+      "id": "em:qqyh_mlc:202610293913614998",
+      "time": "2026-10-29 10:48:45",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【安本預計美聯儲或將在12月和3月加息】安本投資表示，美聯儲主席凱文·沃什在最新一次政策會議上仍然對美國經濟持樂觀態度，但也重申通脹仍然過高。“我們仍預期美聯儲將在12月和3月進一步加息，利率終點將達到4.25%-4.50%，我們認為這更像是預防性加息，而不是對通脹高企而採取的激進的壓制需求的措施，”新興市場經濟學家MichaelLangham在一份報告中寫道。"
+    },
     {
       "id": "mkt:01a1858e-a43f-7ee0-a9d2-7d391ad001c3",
       "time": "2026-10-29 10:48:00",
