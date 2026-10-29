@@ -1,7 +1,16 @@
 {
   "date": "2026-10-30",
-  "count": 32,
+  "count": 33,
   "items": [
+    {
+      "id": "mkt:01a18881-604f-7ee0-a9eb-2f5215138cd2",
+      "time": "2026-10-30 00:32:22",
+      "tags": [
+        "MKT News",
+        "CLF.O"
+      ],
+      "text": "A Canadian minister said Cleveland-Cliffs failed to meet its obligations and made a mistake."
+    },
     {
       "id": "5180408",
       "time": "2026-10-30 00:30:55",

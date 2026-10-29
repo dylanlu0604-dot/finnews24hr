@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-30 00:31:52",
-  "count": 12908,
+  "updated": "2026-10-30 00:35:42",
+  "count": 12905,
   "items": [
+    {
+      "id": "mkt:01a18881-604f-7ee0-a9eb-2f5215138cd2",
+      "time": "2026-10-30 00:32:22",
+      "tags": [
+        "MKT News",
+        "CLF.O"
+      ],
+      "text": "A Canadian minister said Cleveland-Cliffs failed to meet its obligations and made a mistake."
+    },
     {
       "id": "5180408",
       "time": "2026-10-30 00:30:55",
@@ -116570,38 +116579,6 @@
         "公司"
       ],
       "text": "開雲集團首席財務官：古馳第三季度在北美市場增速放緩。"
-    },
-    {
-      "id": "mkt:01a16477-cb24-7ee0-a94c-beb449a8d62d",
-      "time": "2026-10-23 00:35:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Panama Canal FY26 revenue up 16.6% to $6.6bln】On Oct 21, the Panama Canal Authority reported FY26 (Oct 2025–Sep 2026) revenue of $6.6 billion, up 16.6% YoY. The canal logged 13,951 transits in the year, a 4.1% increase from FY25, driven mainly by energy-sector and container shipping demand."
-    },
-    {
-      "id": "5162197",
-      "time": "2026-10-23 00:35:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴拿馬運河2026財年收入較上一年度增長16.6%】當地時間10月21日，巴拿馬運河管理局釋出2026財年報告，2026財年（2025年10月至2026年9月）運河總收入達到66億美元，較上一財年增長16.6%。在該財年中，巴拿馬運河共有13951次船舶通行，較2025財年增長了4.1%；這一增長主要出於能源行業和集裝箱運輸的需求。（央視新聞）"
-    },
-    {
-      "id": "5162196",
-      "time": "2026-10-23 00:34:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加裝金屬護欄、木板封門 巴黎奢侈品商圈防範新一輪騷亂】巴黎最高檔的幾個購物區內，奢侈品精品店仍留有上週末騷亂造成的痕跡，相關畫面在全球社交媒體上廣泛傳播。如今，商家正嚴陣以待，防範新一輪騷亂可能來襲。在香榭麗舍大街，路易威登旗艦店的櫥窗前加裝了平日沒有的金屬防護柵欄；位於蒙田大道的Christian Dior Couture精品店也採取了同樣措施。這兩家門店上週末均未遭受嚴重破壞，而其他地方的一些商店則沒那麼幸運。"
-    },
-    {
-      "id": "5162195",
-      "time": "2026-10-23 00:33:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "默沙東股價飆升，觸及盤中高點2.7%。"
     }
   ]
 }
