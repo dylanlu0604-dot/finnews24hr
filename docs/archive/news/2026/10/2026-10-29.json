@@ -1,7 +1,151 @@
 {
   "date": "2026-10-29",
-  "count": 2475,
+  "count": 2506,
   "items": [
+    {
+      "id": "mkt:01a18851-3b1d-7ee0-a9ea-6e061a9d8343",
+      "time": "2026-10-29 23:39:47",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Analyst: Higher inf and GDP prints lift rate risk but remain tolerable for investors】Chris Zaccarelli, CIO at Northlight Asset Management, says today's elevated inf and strong GDP print raise upside risk to interest rates—negative for bonds but still tolerable for equities. He warns that if both inf and growth run higher, policy rates will need to be higher. Current inf is not severe and has not halted activity; real growth remains above trend after adjusting for inf. Rising rates alone may not end the bull market, but a growth slowdown or recession could interrupt the rally. Zaccarelli notes capital-spending concerns exist but do not signal a move to a bear market."
+    },
+    {
+      "id": "5180379",
+      "time": "2026-10-29 23:39:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI交易退潮殃及工業供應商 卡特彼勒股價大跌】卡特彼勒公司股價大跌，此前該公司公佈的盈利和銷售額僅略高於預期，加劇了投資者對於人工智慧基礎設施熱潮面臨越來越多挑戰的不安。該股週四一度下跌12%，創2020年3月份新冠疫情最嚴重時期以來的最大盤中跌幅，隨後跌幅收窄至7.6%。卡特彼勒生產用於資料中心的發電裝置，該公司第三季度調整後每股收益為7.20美元，略高於調查分析師所得的7.10美元平均預期。"
+    },
+    {
+      "id": "5180378",
+      "time": "2026-10-29 23:39:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期貨交易所小麥期貨轉漲。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202610293915024147",
+      "time": "2026-10-29 23:38:52",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "據報道，歐洲央行官員準備在12月加息。"
+    },
+    {
+      "id": "mkt:01a1884f-e7ef-7ee0-a9ea-605de4d27477",
+      "time": "2026-10-29 23:38:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Analyst: Elevated euro-area government bond yields reduce need for ECB rate hikes】EFG Bank analyst Stefan Grach said in a report that elevated euro-area government bond yields have raised borrowing costs, weighing on activity and damping inflation, which reduces the case for ECB rate hikes. He added that political turmoil in France is hurting business activity and suppressing consumer demand. Grach said the ECB must assess whether the lagged pass-through from higher energy prices will keep inflation elevated or whether tighter borrowing costs will offset those pressures."
+    },
+    {
+      "id": "5180377",
+      "time": "2026-10-29 23:38:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國家原子能公司：盧安達將成為該公司在非洲小型核電站專案的首個合作伙伴。"
+    },
+    {
+      "id": "mkt:01a1884e-d639-7ee0-a9ea-5b2539d1d009",
+      "time": "2026-10-29 23:37:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "REUTERS SURVEY: LME spot nickel average price expected at $17,118/tonne in 2026 and $16,700/tonne in 2027, versus $15,154/tonne in 2025."
+    },
+    {
+      "id": "5180376",
+      "time": "2026-10-29 23:36:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【媒體調查：分析師上調2027年銅價預估，但對美國庫存和AI需求持謹慎態度】\n最新調查結果顯示：2026年LME現貨銅均價預計為13,647美元/噸，2027年為14,012美元/噸，2025年為9,939美元/噸。\n2026年LME現貨鋁均價預計為3,276美元/噸，2027年為3,001美元/噸，2025年為2,630美元/噸。\n2026年LME現貨鋅均價預計為3,560美元/噸，2027年為3,487美元/噸，2025年為2,867美元/噸。\n2026年LME現貨鉛均價預計為1,932美元/噸，2027年為1,938美元/噸，2025年為1,962美元/噸。\n2026年LME現貨錫均價預計為52,050美元/噸，2027年為52,125美元/噸，2025年為34,096美元/噸。\n預計2026年銅市場將過剩12.5萬噸；2027年過剩量預計為9.2萬噸。\n預計2026年鋅市場過剩10.45萬噸，2027年過剩16.5萬噸。\n預計2026年鋁市場短缺72萬噸，2027年過剩41萬噸。\n預計2026年鎳市場過剩5.7萬噸，2027年過剩5萬噸。"
+    },
+    {
+      "id": "mkt:01a1884e-5b85-7ee0-a9ea-51e8096dbd5c",
+      "time": "2026-10-29 23:36:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Market sources: ECB officials are prepared to raise interest rates in December."
+    },
+    {
+      "id": "mkt:01a1884d-e091-7ee0-a9ea-4dbadde9ef8f",
+      "time": "2026-10-29 23:36:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "REUTERS SURVEY: LME cash tin average price forecast at $52,050/tonne in 2026 and $52,125/tonne in 2027 (2025: $34,096/tonne)."
+    },
+    {
+      "id": "mkt:01a1884d-b8c5-7ee0-a9ea-41417542682b",
+      "time": "2026-10-29 23:35:57",
+      "tags": [
+        "MKT News",
+        "Commodities"
+      ],
+      "text": "REUTERS SURVEY: LME spot lead average price forecast at $1,932/tonne in 2026 and $1,938/tonne in 2027 (2025: $1,962/tonne)."
+    },
+    {
+      "id": "5180375",
+      "time": "2026-10-29 23:35:49",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲央行官員預期 12 月加息後暫停緊縮】援引三位訊息人士稱，歐洲央行政策官員預計在 12 月 17 日加息 25 個基點，將存款利率從 2.50% 上調至 2.75%。除非能源價格大幅下跌，否則本次加息幾乎已成定局。 但官員預計加息之後將停止進一步收緊政策，原因是走高的債券收益率可能在 2027 至 2028 年間令歐元區經濟增速降低 1 個百分點、通脹回落 0.9 個百分點。"
+    },
+    {
+      "id": "mkt:01a1884d-5c96-7ee0-a9ea-3cc12dd93b3a",
+      "time": "2026-10-29 23:35:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "REUTERS SURVEY: Nickel market projected to be oversupplied by about 57,000 tonnes in 2026 and 50,000 tonnes in 2027."
+    },
+    {
+      "id": "mkt:01a1884d-2f44-7ee0-a9ea-341eb9f55d37",
+      "time": "2026-10-29 23:35:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "REUTERS SURVEY: LME spot zinc average price expected at $3,560/tonne in 2026 and $3,487/tonne in 2027, versus $2,867/tonne in 2025."
+    },
     {
       "id": "5180374",
       "time": "2026-10-29 23:34:55",
@@ -9,6 +153,75 @@
         "國際"
       ],
       "text": "歐洲銀行：前9個月淨利潤為11.6億歐元，2025年同期為10.3億歐元。"
+    },
+    {
+      "id": "mkt:01a1884c-16fe-7ee0-a9ea-2e5b962d133f",
+      "time": "2026-10-29 23:34:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 8-week Treasury auction (to Oct. 29): percentage awarded at the stop-out yield 66.2%, prior 93.95%."
+    },
+    {
+      "id": "mkt:01a1884b-f3a7-7ee0-a9ea-2686b04b1278",
+      "time": "2026-10-29 23:34:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-week Treasury bill auction allotment percentage at the high rate (Oct.29) | actual 66.2% | previous 93.95%"
+    },
+    {
+      "id": "mkt:01a1884b-4fa6-7ee0-a9ea-1f0f3a5f247e",
+      "time": "2026-10-29 23:33:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US 8-week Treasury auction Oct. 29 — bid-cover ratio 66.2; previous 2.57."
+    },
+    {
+      "id": "mkt:01a1884b-3046-7ee0-a9ea-14d5d4a9ecc8",
+      "time": "2026-10-29 23:33:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 8-week Treasury auction to Oct. 29: stop-out yield 4.02%, previous 4.015%."
+    },
+    {
+      "id": "mkt:01a1884b-24c0-7ee0-a9ea-0fca9fd8c3af",
+      "time": "2026-10-29 23:33:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Oct.29) | actual 2.63 | previous 2.57"
+    },
+    {
+      "id": "mkt:01a1884b-0ab0-7ee0-a9ea-04f5f319ec5f",
+      "time": "2026-10-29 23:33:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Oct.29) | actual 4.02% | previous 4.015%"
     },
     {
       "id": "5180373",
@@ -19,6 +232,112 @@
         "國際"
       ],
       "text": "美國財政部拍賣四周期國債，得標利率3.910%，投標倍數3.10。拍賣八週期國債，得標利率4.020%，投標倍數2.63。"
+    },
+    {
+      "id": "mkt:01a1884a-8d8a-7ee0-a9e9-fd590080ba13",
+      "time": "2026-10-29 23:32:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "US 4-week Treasury auction on Oct. 29 bid-cover ratio 3.1; prior 2.82."
+    },
+    {
+      "id": "mkt:01a1884a-6c6a-7ee0-a9e9-f5cb72084e5a",
+      "time": "2026-10-29 23:32:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US 4-week Treasury auction (to Oct 29) stop-out yield 3.91%, prior 3.945%."
+    },
+    {
+      "id": "mkt:01a1884a-6b0f-7ee0-a9e9-ef6004e40817",
+      "time": "2026-10-29 23:32:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "U.S. 4-week Treasury auction to Oct. 29: share awarded at the stop-out yield 16.96% (prior 32.92%)."
+    },
+    {
+      "id": "mkt:01a1884a-4d8c-7ee0-a9e9-e7cc61056b1c",
+      "time": "2026-10-29 23:32:13",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Oct.29) | actual 3.1 | previous 2.82"
+    },
+    {
+      "id": "mkt:01a1884a-4d79-7ee0-a9e9-dd3445bbb326",
+      "time": "2026-10-29 23:32:13",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Oct.29) | actual 3.91% | previous 3.945%"
+    },
+    {
+      "id": "mkt:01a1884a-4d54-7ee0-a9e9-d1ee3e31ee8d",
+      "time": "2026-10-29 23:32:13",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Oct.29) | actual 16.96% | previous 32.92%"
+    },
+    {
+      "id": "mkt:01a1884a-3411-7ee0-a9e9-c866fa2a30c4",
+      "time": "2026-10-29 23:32:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "REUTERS SURVEY: Zinc projected surplus of 104,500 tonnes in 2026 and 165,000 tonnes in 2027. Copper projected surplus of 125,000 tonnes in 2026 and 92,000 tonnes in 2027. Aluminium projected deficit of 720,000 tonnes in 2026, turning to a surplus of 410,000 tonnes in 2027."
+    },
+    {
+      "id": "mkt:01a18849-d02f-7ee0-a9e9-c1dd49b2b8fe",
+      "time": "2026-10-29 23:31:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Reuters survey: LME spot aluminium average price forecast at $3,276/tonne in 2026 and $3,001/tonne in 2027 (2025: $2,630/tonne)."
+    },
+    {
+      "id": "mkt:01a18849-8dab-7ee0-a9e9-bd4d0aecf9d9",
+      "time": "2026-10-29 23:31:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "REUTERS SURVEY: LME spot copper average price forecast at $13,647/tonne in 2026 and $14,012/tonne in 2027, versus $9,939/tonne in 2025."
     },
     {
       "id": "5180372",
@@ -58,6 +377,29 @@
         "Importance 1"
       ],
       "text": "Bonds Update: Brazil 10Y Bond Yield Gains by 13 bps — Majority of government bonds yields are lower on Thursday. Top gainers are Brazil 10Y (13bps) and Japan 10Y (0.81bps). Biggest losers are United Kingdom 10Y (-8.33bps), Portugal 10Y (-7.91bps), New Zealand 10Y (-5.90bps), Germany 10Y (-4.38bps) and US 10Y (-4.10bps)."
+    },
+    {
+      "id": "mkt:01a18848-54ea-7ee0-a9e9-b02e8e86e8bb",
+      "time": "2026-10-29 23:30:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【White House economic director Hassett says Fed may act if October inflation is high】White House National Economic Council Director Hassett said he expects the Fed would raise rates if October inflation prints hot, and that the policy response will be clearer after this month’s CPI and PCE releases. His remarks followed the latest PCE report showing September core PCE (ex-food and energy) +3.1% YoY and headline PCE +3.6% YoY, both well above the Fed’s 2% target. Hassett said a slowdown in October would suggest September was a short-term fluctuation. He downplayed two FOMC dissents favoring a hike, praising Fed Chair Kevin Warsh’s handling of dissent and saying committee decisions remain data-dependent; he added he has no current concerns about the committee."
+    },
+    {
+      "id": "mkt:01a18848-33a2-7ee0-a9e9-aeffe93d5a63",
+      "time": "2026-10-29 23:29:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sulfur prices surge, up nearly 100% YTD】Domestic sulfur prices have spiked this year, peaking at 11,600 yuan/ton with a maximum rise of over 210%; despite a pullback, year-to-date gains remain close to 100%. China, a major sulfur importer, has seen imports fall sharply amid international developments, leaving inventories at major Yangtze ports at roughly half last year’s levels. Some firms are locking basic supply with long-term contracts while many downstream users are switching feedstock sources. The industry is speeding diversification of sulfur supply and several projects due to start will boost domestic supply capacity; firms expect prices to stabilise and gradually ease."
     },
     {
       "id": "5180370",
