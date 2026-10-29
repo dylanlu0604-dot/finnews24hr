@@ -1,7 +1,72 @@
 {
-  "updated": "2026-10-29 10:26:14",
-  "count": 13108,
+  "updated": "2026-10-29 10:30:08",
+  "count": 13103,
   "items": [
+    {
+      "id": "5178244",
+      "time": "2026-10-29 10:29:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【航天系概念震盪反彈，航天晨光、中國衛星雙雙漲停】航天系概念震盪反彈，航天晨光、中國衛星雙雙漲停，航天智裝、中天火箭、中國衛通、航天發展、航天電子等跟漲。"
+    },
+    {
+      "id": "5178237",
+      "time": "2026-10-29 10:28:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "越南政府：計劃到2030年將越南橡膠集團的國有持股比例從96.77%降至75%。"
+    },
+    {
+      "id": "5178236",
+      "time": "2026-10-29 10:28:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南政府：計劃到 2030 年將越南航空的國有持股比例從 39.29% 提高至 86.42%。"
+    },
+    {
+      "id": "5178235",
+      "time": "2026-10-29 10:28:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：難以說明各類網路攻擊對GDP影響的具體細節。"
+    },
+    {
+      "id": "5178233",
+      "time": "2026-10-29 10:27:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "道達爾能源收購了雪佛龍在美國近海26個區塊中25%的權益。"
+    },
+    {
+      "id": "5178229",
+      "time": "2026-10-29 10:27:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "道達爾能源進入由雪佛龍運營的26個海上區塊。"
+    },
+    {
+      "id": "mkt:01a1857b-40d8-7ee0-a9d2-261af91ca1ed",
+      "time": "2026-10-29 10:26:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhiyuan Robotics 1H2026 revenue near 2 bln yuan; general AI robot production 20,000 units】At its 2026 Innovation Day, co-founder, president and CTO Peng Zhihui said Zhiyuan Robotics' 1H2026 revenue was close to 2 bln yuan and cumulative production of its general AI robots reached 20,000 units."
+    },
+    {
+      "id": "5178222",
+      "time": "2026-10-29 10:25:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【機構預測本輪油價或將上調】國內成品油新一輪調價視窗將在10月29日24時開啟。多家機構預測，本輪油價或將上調。本輪計價週期為2026年10月15日24時至10月29日24時。隆眾資訊分析師劉炳娟稱，近期中東局勢整體偏緊，美伊博弈僵持，胡塞武裝襲擾沙特，地緣風險短期難以消解，為油價提供較強底部支撐。劉炳娟指出，國際原油維持高位執行，布倫特穩居100美元/桶以上的高區間執行。受此影響，本輪計價週期對應的國內原油變化率持續正向擴大，對應上調幅度不斷放大。金聯創分析師徐鵬也認為，本輪成品油計價週期，國際原油受中東地緣風險驅動持續走強，原油變化率正向發展，國內成品油上調預期幅度不斷擴大。今年以來，國內油價已經歷20輪調價，總體格局為“十三漲五跌二擱淺”。若本輪調價如預期上調，2026年的調價格局將變為“十四漲五跌二擱淺”。（中新經緯）"
+    },
     {
       "id": "5178219",
       "time": "2026-10-29 10:25:37",
@@ -118014,120 +118079,6 @@
         "公司"
       ],
       "text": "Danantara Indonesia首席投資官：股市中包括國有企業在內的多家公司基本面良好。"
-    },
-    {
-      "id": "5159841",
-      "time": "2026-10-22 10:29:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿里巴巴港股一度下跌6%。"
-    },
-    {
-      "id": "5159836",
-      "time": "2026-10-22 10:29:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本多地民間團體計劃舉行集會 呼籲守護和平憲法】日本多個民間團體計劃於22日在東京、京都、大阪、愛知等多地舉行集會，就日本政府企圖推動修改和平憲法等危險動向舉行抗議，呼籲守護和平憲法、反對戰爭。（央視新聞）"
-    },
-    {
-      "id": "5159835",
-      "time": "2026-10-22 10:28:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印尼國有投資公司 Danantara 首席投資官：我們已開始買入我們認為具有吸引力的股票。"
-    },
-    {
-      "id": "te:markets:594015",
-      "time": "2026-10-22 10:28:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Stabilizes as Fed Meeting Eyed — The US dollar index held steady near 101.7 on Thursday, pausing its recent decline as investors prepared for next week’s Federal Reserve policy meeting, where interest rates are widely expected to remain unchanged. Chair Kevin Warsh’s remarks last Friday did little to shift expectations for a rate hold, although markets continued to anticipate a possible rate hike in December amid persistent energy-driven inflation. The European Central Bank and the Bank of Japan are also expected to leave rates unchanged next week. Meanwhile, recent economic data pointed to signs of weakness in the US economy, with September housing starts declining and pending home sales falling to a record low. Oil prices also climbed following a drone strike on Saudi Aramco’s Shaybah field that killed two people, while the US ordered some personnel and family members to leave American embassies in Saudi Arabia, adding to concerns over inflationary pressures."
-    },
-    {
-      "id": "5159833",
-      "time": "2026-10-22 10:28:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "申鉉松：加息有助於保持市場穩定，並降低進口價格。"
-    },
-    {
-      "id": "5159829",
-      "time": "2026-10-22 10:27:58",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行申鉉松：韓元近期走強有望提振韓國消費。"
-    },
-    {
-      "id": "5159828",
-      "time": "2026-10-22 10:27:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "松延動力香港IPO或籌資數億美元。"
-    },
-    {
-      "id": "5159827",
-      "time": "2026-10-22 10:27:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【信長星劉小濤會見朝鮮江原道代表團】10月20日，江蘇省委書記信長星、省長劉小濤在南京會見由朝鮮江原道人民委員會委員長黃萬福率領的江原道代表團。信長星、劉小濤對代表團一行來訪表示歡迎。信長星說，中朝兩國是守望相助、命運與共的社會主義友好鄰邦，中朝傳統友誼由兩黨兩國老一輩領導人共同締造和精心培育，是兩國人民共同的寶貴財富。近年來，在習近平總書記和金正恩總書記的戰略引領下，中朝傳統友好合作關係不斷向前發展。江蘇與江原道是友好省道，此次代表團來訪，將推動兩省道友好關係進一步發展。我們將落實好兩黨兩國最高領導人重要共識，加強與江原道的交流合作，為推動中朝傳統友好合作關係不斷發展作出新貢獻。黃萬福表示，在兩黨兩國最高領導人戰略引領下，朝中友誼正昇華到新的更高階段。江蘇發展取得的成就令人欽佩，希望深化與江蘇的交流合作，更好造福兩地人民，為譜寫朝中關係新篇章貢獻更大力量。（新華日報）"
-    },
-    {
-      "id": "5159822",
-      "time": "2026-10-22 10:27:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "申鉉松：需維持緊縮的政策立場。"
-    },
-    {
-      "id": "5159821",
-      "time": "2026-10-22 10:27:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士： 松延動力最快可能於明年在香港上市。"
-    },
-    {
-      "id": "5159820",
-      "time": "2026-10-22 10:26:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電網裝置板塊區域性反彈，長城電工漲停】電網裝置板塊區域性反彈，長城電工漲停，三變科技、信通電子、太陽電纜、平高電氣、許繼電氣跟漲。"
-    },
-    {
-      "id": "5159819",
-      "time": "2026-10-22 10:26:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "松延動力據悉將提交香港IPO申請。"
-    },
-    {
-      "id": "te:markets:594014",
-      "time": "2026-10-22 10:26:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Corn Remains Near a 2-Month Low — Corn futures rose above $4.6 per bushel, but remained close to a two-month low as weak export demand and expectations for a record-large US crop continued to weigh on prices. US export inspections plunged nearly 49% week-on-week to 672,475 metric tons in the week ended October 15, marking the lowest weekly total since October 2024, while shipments for the 2026/27 marketing year trailed the previous year's pace by 2.3%. In addition, the US harvest reached 44% completion as of October 18, up from 33% a week earlier, with drier Midwest weather expected to accelerate fieldwork. The USDA's October outlook also projected record production of 16.03 billion bushels and ending stocks of 1.849 billion bushels. Meanwhile, signs of improved demand in major markets offered some support. EU corn imports have risen 40% since the marketing season began on July 1, according to the European Commission, while consultancy SovEcon lowered its forecast for Ukrainian corn exports in the 2026/27 season."
     }
   ]
 }
