@@ -1,7 +1,87 @@
 {
   "date": "2026-10-30",
-  "count": 363,
+  "count": 372,
   "items": [
+    {
+      "id": "mkt:01a18964-610a-7ee0-a9ef-06871f7cf6c2",
+      "time": "2026-10-30 04:40:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ICI: For the week ended Oct. 28, money market fund assets declined $43.29 bln to $7.9 tln."
+    },
+    {
+      "id": "mkt:01a18964-5a6b-7ee0-a9ee-fbce57bd9ec8",
+      "time": "2026-10-30 04:40:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi state news agency reported two missiles were intercepted over Riyadh; falling debris injured one person and caused property damage."
+    },
+    {
+      "id": "5180661",
+      "time": "2026-10-30 04:39:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "閃迪公司預計第二季度營收為122億至126億美元。"
+    },
+    {
+      "id": "5180660",
+      "time": "2026-10-30 04:39:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI新興市場股票指數跌1%，發展中國家外匯指數跌0.1%。"
+    },
+    {
+      "id": "5180658",
+      "time": "2026-10-30 04:39:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特國家通訊社：利雅得上空兩枚導彈被攔截後，彈片墜落造成一人受傷和物質損失。"
+    },
+    {
+      "id": "5180657",
+      "time": "2026-10-30 04:39:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特通訊社：導彈攔截產生的碎片落在利雅得。"
+    },
+    {
+      "id": "5180656",
+      "time": "2026-10-30 04:38:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "Reddit執行長：安裝Reddit應用後第一週內回訪的新使用者比例環比增長兩位數，同比增長超過50%。"
+    },
+    {
+      "id": "te:markets:596447",
+      "time": "2026-10-30 04:38:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Republic Services earnings above expectations at 1.94 USD — Republic Services (RSG) released earnings per share at 1.94 USD, compared to market expectations of 1.92 USD."
+    },
+    {
+      "id": "5180655",
+      "time": "2026-10-30 04:37:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "閃迪股價盤後上漲3%，扭轉此前跌勢。"
+    },
     {
       "id": "5180654",
       "time": "2026-10-30 04:36:14",
