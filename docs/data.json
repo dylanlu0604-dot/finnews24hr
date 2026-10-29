@@ -1,7 +1,107 @@
 {
-  "updated": "2026-10-30 05:01:14",
-  "count": 12958,
+  "updated": "2026-10-30 05:05:09",
+  "count": 12969,
   "items": [
+    {
+      "id": "5180695",
+      "time": "2026-10-30 05:04:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾執行長：8 月份的股權融資為未來的增長提供了財務資源。"
+    },
+    {
+      "id": "5180694",
+      "time": "2026-10-30 05:04:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【離岸人民幣漲破6.66元，為2024年4月以來首次】週四（10月29日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.6569元，較週三紐約尾盤漲48點，日內整體交投於6.6626-6.6560元區間。日線圖上，離岸人民幣逼近2022年4月27日最終報價6.5868元、當年4月18日最終報價6.3777元、當年（盤中）最低位6.3060元（出現在2月24日）。"
+    },
+    {
+      "id": "5180693",
+      "time": "2026-10-30 05:04:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾執行長：對未來幾個季度滿足伺服器需求的持續挑戰保持“警惕”。"
+    },
+    {
+      "id": "te:markets:596450",
+      "time": "2026-10-30 05:04:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Digital Realty earnings below expectations at 0.48 USD — Digital Realty (DLR) released earnings per share at 0.48 USD, compared to market expectations of 0.50 USD."
+    },
+    {
+      "id": "mkt:01a18979-c3f9-7ee0-a9ef-2255b37ae19b",
+      "time": "2026-10-30 05:03:40",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) CEO said the Q3 demand environment is more balanced than in prior quarters."
+    },
+    {
+      "id": "5180692",
+      "time": "2026-10-30 05:03:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾公司執行長：第三季度的需求環境比前幾個季度更為均衡。"
+    },
+    {
+      "id": "te:markets:596449",
+      "time": "2026-10-30 05:03:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Arab Emirates",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "International Holding Company PJSC Shares Hit 4-year Low — International Holding Company PJSC shares decreased to 340.00 AED, the lowest since September 2022. Over the past 4 weeks, International Holding Company PJSC lost 6.52%, and in the last 12 months, it decreased 15.06%."
+    },
+    {
+      "id": "mkt:01a18979-205c-7ee0-a9ef-1c5061575907",
+      "time": "2026-10-30 05:02:58",
+      "tags": [
+        "MKT News",
+        "SNDK.O",
+        "Impact bullish"
+      ],
+      "text": "【SanDisk Q1 data center revenue +61% QoQ; to execute 8-for-1 stock split】SanDisk (SNDK.O) reported fiscal 2027 Q1 revenue of US$11.03 bln vs. market US$10.68 bln; adjusted EPS US$49.51 vs. US$46.27 expected. Data-center revenue was US$4.8 bln, up 61% QoQ, driven by enterprise SSD demand from AI infrastructure. Company said product demand remains strong and accelerating in data center; tight storage supply supported steep price increases. Adjusted gross margin rose to 85.1% from 84.6% in the prior quarter. SanDisk expects fiscal Q2 revenue of US$12.2–12.6 bln (market ~US$12.3 bln) and adjusted gross margin of 84.5–85.5%. Shares are up more than 450% YTD; an 8-for-1 stock split will take effect Nov. 19."
+    },
+    {
+      "id": "5180691",
+      "time": "2026-10-30 05:01:38",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭10月消費者信心指數跌至96.2，環比下降1.4%。"
+    },
+    {
+      "id": "5180690",
+      "time": "2026-10-30 05:01:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "Roblox預計《俠盜獵車手6》發售前後使用者數將面臨“溫和逆風”。"
+    },
+    {
+      "id": "5180689",
+      "time": "2026-10-30 05:00:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "Centerra Gold預計全年黃金產量26萬至29萬盎司。"
+    },
     {
       "id": "5180688",
       "time": "2026-10-30 05:00:43",
