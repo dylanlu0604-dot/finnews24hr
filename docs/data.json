@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-30 04:46:01",
-  "count": 12952,
+  "updated": "2026-10-30 04:49:53",
+  "count": 12951,
   "items": [
+    {
+      "id": "5180676",
+      "time": "2026-10-30 04:48:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，傳票已送達民主黨人瑪麗·佩爾托拉和共和黨挑戰者丹·沙利文的競選團隊。"
+    },
+    {
+      "id": "mkt:01a1896b-aa04-7ee0-a9ef-0c9e51fdd3d2",
+      "time": "2026-10-30 04:48:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Kyiv mayor says the Ukrainian capital is under attack by Russian ballistic missiles."
+    },
+    {
+      "id": "5180675",
+      "time": "2026-10-30 04:48:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，美國司法部在調查阿拉斯加州參議院選票上的第二個丹·沙利文一事中，發出了40多份傳票和檔案保全要求。"
+    },
+    {
+      "id": "5180674",
+      "time": "2026-10-30 04:47:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭首都基輔發生爆炸。"
+    },
+    {
+      "id": "5180673",
+      "time": "2026-10-30 04:47:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "思科執行長查克·羅賓斯2026財年總薪酬為4850萬美元，低於2025財年的5280萬美元，原因是股票獎勵減少。"
+    },
+    {
+      "id": "5180672",
+      "time": "2026-10-30 04:47:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Reddit營運長：使用市場受眾工具的B2B廣告商平均每次行動成本提高了約7%。"
+    },
+    {
+      "id": "5180671",
+      "time": "2026-10-30 04:47:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：首都發生爆炸。城市正遭受彈道導彈襲擊。"
+    },
     {
       "id": "te:markets:596448",
       "time": "2026-10-30 04:45:08",
@@ -116945,81 +117005,6 @@
         "觀點"
       ],
       "text": "【大摩看好南非國債，但對蘭特保持謹慎】在南非財政部公佈債券回購計劃後，摩根士丹利對南非政府債券更為樂觀，預計該計劃將支撐較長期債券。財政部計劃包括實施國內債券回購以平滑未來到期兌付，並減少固定利率和通脹掛鉤債券的銷售。摩根士丹利分析師對蘭特較為謹慎，認為其容易受到全球利率、貴金屬和油價波動影響，因此更偏好南非久期資產而非外匯敞口。"
-    },
-    {
-      "id": "5162748",
-      "time": "2026-10-23 04:49:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "西部資料股價在盤後交易中轉跌，最新下跌5.3%。"
-    },
-    {
-      "id": "mkt:01a1655f-5e10-7ee0-a94f-b8a0adb77d12",
-      "time": "2026-10-23 04:48:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "The U.S. Federal Communications Commission approved an exemption allowing Intel (INTC.O) to remain exempt from restrictions tied to a ban on certain foreign-made advanced robots, enabling continued use of equipment essential to its U.S. semiconductor manufacturing operations."
-    },
-    {
-      "id": "mkt:01a1655f-2fe7-7ee0-a94f-b4f55b00d6a2",
-      "time": "2026-10-23 04:48:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump invoked Section 303 of the Defense Production Act to support U.S. domestic oil production."
-    },
-    {
-      "id": "mkt:01a1655e-5aab-7ee0-a94f-ac73b3cfc941",
-      "time": "2026-10-23 04:47:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US CDC requires attestations from international air passengers over Ebola risk】On Oct. 22 the US Centers for Disease Control and Prevention said effective 23:59 ET on Nov. 3 all passengers on international flights to the United States, regardless of origin, must sign a written or electronic declaration confirming they have not visited the Democratic Republic of the Congo in the 21 days before departure. The measure is aimed at reducing the risk of Ebola importation. Certain travelers recently to Uganda or South Sudan will face entry restrictions; eligible US citizens must undergo public-health screening at designated US airports."
-    },
-    {
-      "id": "5162744",
-      "time": "2026-10-23 04:47:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【為防範埃博拉疫情 美疾控中心釋出航空旅客入境及乘機新規】當地時間10月22日，美國疾病控制和預防中心釋出訊息稱，自美國東部時間11月3日23時59分起，所有搭乘國際航班前往美國的旅客，無論從哪個國家或地區出發，均須簽署書面或電子宣告，確認在航班起飛前21天內未曾到訪剛果（金）。該措施旨在降低埃博拉病毒傳入美國的風險。此外，近期曾到訪烏干達或南蘇丹的部分旅客也受到入境限制；符合入境條件的美國公民則須經指定機場接受公共衛生檢查。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a1655e-157e-7ee0-a94f-a43f1755735b",
-      "time": "2026-10-23 04:47:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "President Trump sent a memorandum to US Defense Secretary Hegseth on the Defense Production Act and oil-related issues."
-    },
-    {
-      "id": "mkt:01a1655e-0915-7ee0-a94f-9db23063dd71",
-      "time": "2026-10-23 04:47:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump in a memorandum determined that U.S. domestic oil production, refining and other related activities are vital to national defense."
-    },
-    {
-      "id": "5162739",
-      "time": "2026-10-23 04:46:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普認定國內石油生產、煉油及其他相關活動對國防至關重要。"
     }
   ]
 }
