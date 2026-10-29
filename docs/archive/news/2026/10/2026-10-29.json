@@ -1,7 +1,116 @@
 {
   "date": "2026-10-29",
-  "count": 1181,
+  "count": 1193,
   "items": [
+    {
+      "id": "mkt:01a18581-29a8-7ee0-a9d2-3382f33deb50",
+      "time": "2026-10-29 10:33:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【US may resume military action against Iran; oil re-prices Middle East supply-risk premium】West Texas Intermediate traded near $101.20/bbl in Asian morning trade on Thursday as markets repriced the risk of further Middle East supply disruption. BOK Financial senior trading vice president Dennis Kissler said reports the US may soon resume military action have prompted futures to price near-term tightening; given recent attacks on Saudi Arabia and other regional allies any new operation could be more intense than previous actions. TD Securities expects oil to remain supported in the near term, citing elevated escalation risk ahead of Israeli and US midterm elections. Analysts said recent Houthi attacks have lifted the geopolitical risk premium and Iranian strikes on tankers appear to have reduced some flows through the Strait of Hormuz."
+    },
+    {
+      "id": "5178261",
+      "time": "2026-10-29 10:32:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "越南政府：政府在越南投資發展銀行（BIDV）的持股比例為 76.73%，在越南外貿股份商業銀行（VIETCOMBANK）的持股比例為 74.80%，在越南投資發展銀行（VIETINBANK）的持股比例為 64.46%。"
+    },
+    {
+      "id": "5178260",
+      "time": "2026-10-29 10:32:23",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【國金證券：數採行業處於探索早期階段 核心圍繞邊界的調整和資產的升級】國金證券釋出研報稱，數採服務是整個資料採集產業訂單可見度最高，現金流最穩定的環節，龍頭公司將持續受益於供需缺口的放大和路線收斂帶來的格局集中。短期關注具備訂單、產能和交付能力的數採服務商，中長期優選能夠將資料處理平臺化，並向模型評測、後訓練及部署迴流延伸的公司。重點關注三類公司：(1)擁有傳統AI資料服務經驗的傳統龍頭;(2)以模擬資產為底座，構建軟硬體一體平臺的模擬龍頭;(3)佈局“資料—模擬—訓練—遷移—場景”閉環的全流程平臺。"
+    },
+    {
+      "id": "5178259",
+      "time": "2026-10-29 10:32:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股指期貨進一步下跌；標普500指數期貨下跌0.5%，納斯達克期貨下跌1.6%。"
+    },
+    {
+      "id": "5178258",
+      "time": "2026-10-29 10:32:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港金管局表示，港元與美元之間的利率差依然存在。"
+    },
+    {
+      "id": "5178257",
+      "time": "2026-10-29 10:32:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "香港金管局回應美聯儲利率決定，提醒公眾管理利率風險。"
+    },
+    {
+      "id": "5178256",
+      "time": "2026-10-29 10:31:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中泰證券：鐳射雕刻新興賽道加速成長 國產智造引領出海 】中泰證券釋出研報稱，全球消費級鐳射雕刻市場已進入加速滲透期，年複合增長率達到21.0%，成為鐳射產業從工業向消費端延伸的核心增量賽道。這一增長是供給端國產化突破與需求端場景擴容形成的雙向共振。上游鐳射器、振鏡是產業鏈的核心價值所在。消費級鐳射雕刻下游市場已形成“頭部引領+多元競爭”的清晰格局。"
+    },
+    {
+      "id": "5178255",
+      "time": "2026-10-29 10:31:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌6%，現報90640.00元。"
+    },
+    {
+      "id": "5178252",
+      "time": "2026-10-29 10:31:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "薩爾瓦多總統府表示，薩爾瓦多總統布克爾與海地總理菲爾斯-艾梅通了電話。"
+    },
+    {
+      "id": "mkt:01a1857f-0a11-7ee0-a9d2-2b2366b809b8",
+      "time": "2026-10-29 10:30:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600118.SS",
+        "Impact bullish"
+      ],
+      "text": "A-share commercial aerospace sector remained active; China Satellite, Shanghai Hugong, Feiwo Technology, Aerospace Chenguang and Shanghai Gangwan advanced."
+    },
+    {
+      "id": "5178249",
+      "time": "2026-10-29 10:30:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "騰訊湯道生：騰訊計劃進一步聚焦面向企業的AI業務。"
+    },
+    {
+      "id": "5178248",
+      "time": "2026-10-29 10:30:00",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【美國南卡羅來納州核設施發生火災，一人受傷】美國能源部發言人表示，當地時間週三，南卡羅來納州的一處設施發生火災，造成一人受輕傷。該設施在冷戰時期曾負責生產用於核武器的鈽和氚。該發言人援引“薩凡納河基地”（Savannah River Site）相關負責人的話稱，火勢已被撲滅，目前尚未收到任何汙染報告。該發言人還透露，受傷者為一名員工，已被送往醫院接受治療。“薩凡納河基地”方面並未說明此次火災的起因。"
+    },
     {
       "id": "5178244",
       "time": "2026-10-29 10:29:20",
