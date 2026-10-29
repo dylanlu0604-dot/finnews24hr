@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-29 23:40:23",
-  "count": 12969,
+  "updated": "2026-10-29 23:44:18",
+  "count": 12958,
   "items": [
+    {
+      "id": "mkt:01a18854-0090-7ee0-a9ea-7f7ff213311a",
+      "time": "2026-10-29 23:42:48",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【ING: ECB holds rates unchanged as energy shock's knock-on effects limited】ING economist Karsten Brzeski says the ECB left rates unchanged mainly because recent energy price rises have not produced broad second‑round price effects, while rising bond yields have already tightened financial conditions. \"The bond market has already taken over the ECB's work,\" he said. He added that, despite rising inflation and resilient growth, higher borrowing costs have reduced the urgency for further ECB hikes. Most market‑relevant, ECB President LAGARDE said she will step down before her term ends; the two leading successors are Spain's de Cos and the Netherlands' Knot, both viewed as highly experienced in monetary policy."
+    },
+    {
+      "id": "5180380",
+      "time": "2026-10-29 23:41:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "禮來：根據美國證券交易委員會（SEC）檔案，截至9月30日的三個月內確認的資產減值、重組及其他特別費用為3.03億美元。"
+    },
+    {
+      "id": "mkt:01a18852-2e44-7ee0-a9ea-75b6989b8f75",
+      "time": "2026-10-29 23:40:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Schroders: euro weakened after ECB decision, likely to remain under pressure】Schroders strategist James Billson said the euro fell to a 17-month low versus the dollar and near a 19-month low versus the pound after the ECB decision and could continue to trade under pressure. The ECB left rates unchanged but signalled caution on further hikes, citing tighter financial conditions and a weaker growth outlook. Billson said the ECB faces a pronounced policy dilemma—downside growth risk alongside still-elevated inflation—and while a December rate hike remains possible, the probability of another increase is declining. He added Schroders remains bearish on the euro."
+    },
     {
       "id": "mkt:01a18851-3b1d-7ee0-a9ea-6e061a9d8343",
       "time": "2026-10-29 23:39:47",
@@ -116990,142 +117024,6 @@
         "公司"
       ],
       "text": "開雲集團首席財務官：巴黎4家門店和尼斯1家門店受到騷亂影響。"
-    },
-    {
-      "id": "5162133",
-      "time": "2026-10-22 23:44:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "開雲集團：第三季度營收反映了預期的下半年階段性表現，以及更具挑戰性的比較基數。"
-    },
-    {
-      "id": "mkt:01a16448-9311-7ee0-a94b-afcda555e68e",
-      "time": "2026-10-22 23:44:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Trump says Iran fabricating incidents to push oil prices up ahead of US midterms】Trump said Iran is trying to drive oil prices higher ahead of the US midterm elections by fabricating attacks, laying mines and staging other incidents. He added that oil shipments through the Strait of Hormuz are currently larger than before the conflict and reiterated that Iran must never obtain nuclear weapons."
-    },
-    {
-      "id": "5162132",
-      "time": "2026-10-22 23:43:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：伊朗正竭盡全力在美國中期選舉前推高油價。他們甚至編造虛假的襲擊、水雷及其他一切事由，因為如今透過霍爾木茲海峽的石油比衝突開始前還要多。他們繼續殺害抗議者，以及任何擋路的人。這確實是一個邪惡政權，我只能希望美國公眾和全世界都明白他們有多麼邪惡！不到七個月裡已有7.5萬名抗議者死亡。令人震驚的是，世界和民主黨似乎對此毫不在意。伊朗永遠不能擁有核武器，他們也永遠不會擁有核武器！"
-    },
-    {
-      "id": "mkt:01a16447-8cc4-7ee0-a94b-a138adbda876",
-      "time": "2026-10-22 23:42:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US President Trump said oil shipments through the Strait of Hormuz are currently higher than pre-war levels."
-    },
-    {
-      "id": "mkt:01a16447-2093-7ee0-a94b-9f46c4fe69aa",
-      "time": "2026-10-22 23:42:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "XAUUSD"
-      ],
-      "text": "US 10-year Treasury yield fell below 5% for the first time since Sept. 23, sliding 14.97 bps intraday."
-    },
-    {
-      "id": "5162131",
-      "time": "2026-10-22 23:42:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債收益率跌破5%，為9月23日以來首次，日內下跌14.97個基點。"
-    },
-    {
-      "id": "mkt:01a16446-ea1c-7ee0-a94b-929b0ae99a83",
-      "time": "2026-10-22 23:42:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Iran must never acquire nuclear weapons and will never possess them."
-    },
-    {
-      "id": "mkt:01a16446-da39-7ee0-a94b-8a4e9f1639d1",
-      "time": "2026-10-22 23:42:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said Iran is indeed an evil regime and said he hopes Americans and the world recognize how evil it is."
-    },
-    {
-      "id": "5162130",
-      "time": "2026-10-22 23:42:02",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "開雲集團第三季度業績公佈後，其在紐約的美國存託憑證(ADR)下跌6.1%。"
-    },
-    {
-      "id": "5162129",
-      "time": "2026-10-22 23:41:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "開雲集團 ：古馳（Gucci）直營零售網路銷售額按可比口徑下降 9%。"
-    },
-    {
-      "id": "mkt:01a16446-8a31-7ee0-a94b-8372d8bd3847",
-      "time": "2026-10-22 23:41:46",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US President Trump said Iran is fabricating false attacks, mine-laying and other incidents to drive up oil prices."
-    },
-    {
-      "id": "mkt:01a16445-f136-7ee0-a94b-7ad48256ce7d",
-      "time": "2026-10-22 23:41:07",
-      "tags": [
-        "MKT News",
-        "KER.PA"
-      ],
-      "text": "Kering reported third-quarter revenue of €3.345 billion."
-    },
-    {
-      "id": "5162128",
-      "time": "2026-10-22 23:40:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "開雲集團第三季度古馳可比營收下降6%，市場預期為下降3.29%。"
-    },
-    {
-      "id": "5162127",
-      "time": "2026-10-22 23:40:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "開雲集團第三季度營收33.45億歐元。"
     }
   ]
 }

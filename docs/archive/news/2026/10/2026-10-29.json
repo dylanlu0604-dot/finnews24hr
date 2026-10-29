@@ -1,7 +1,41 @@
 {
   "date": "2026-10-29",
-  "count": 2506,
+  "count": 2509,
   "items": [
+    {
+      "id": "mkt:01a18854-0090-7ee0-a9ea-7f7ff213311a",
+      "time": "2026-10-29 23:42:48",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【ING: ECB holds rates unchanged as energy shock's knock-on effects limited】ING economist Karsten Brzeski says the ECB left rates unchanged mainly because recent energy price rises have not produced broad second‑round price effects, while rising bond yields have already tightened financial conditions. \"The bond market has already taken over the ECB's work,\" he said. He added that, despite rising inflation and resilient growth, higher borrowing costs have reduced the urgency for further ECB hikes. Most market‑relevant, ECB President LAGARDE said she will step down before her term ends; the two leading successors are Spain's de Cos and the Netherlands' Knot, both viewed as highly experienced in monetary policy."
+    },
+    {
+      "id": "5180380",
+      "time": "2026-10-29 23:41:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "禮來：根據美國證券交易委員會（SEC）檔案，截至9月30日的三個月內確認的資產減值、重組及其他特別費用為3.03億美元。"
+    },
+    {
+      "id": "mkt:01a18852-2e44-7ee0-a9ea-75b6989b8f75",
+      "time": "2026-10-29 23:40:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Schroders: euro weakened after ECB decision, likely to remain under pressure】Schroders strategist James Billson said the euro fell to a 17-month low versus the dollar and near a 19-month low versus the pound after the ECB decision and could continue to trade under pressure. The ECB left rates unchanged but signalled caution on further hikes, citing tighter financial conditions and a weaker growth outlook. Billson said the ECB faces a pronounced policy dilemma—downside growth risk alongside still-elevated inflation—and while a December rate hike remains possible, the probability of another increase is declining. He added Schroders remains bearish on the euro."
+    },
     {
       "id": "mkt:01a18851-3b1d-7ee0-a9ea-6e061a9d8343",
       "time": "2026-10-29 23:39:47",
