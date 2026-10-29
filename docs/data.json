@@ -1,7 +1,78 @@
 {
-  "updated": "2026-10-30 05:35:53",
-  "count": 13075,
+  "updated": "2026-10-30 05:39:41",
+  "count": 13081,
   "items": [
+    {
+      "id": "5180775",
+      "time": "2026-10-30 05:39:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾首席財務官表示，公司對長期盈利能力有信心。"
+    },
+    {
+      "id": "mkt:01a1899a-220b-7ee0-a9f0-80f33da38525",
+      "time": "2026-10-30 05:39:02",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel CFO forecasts 2026 PC shipments will fall about 12%, with H2 down over 20%; still says the PC market will see a \"renaissance\"."
+    },
+    {
+      "id": "5180774",
+      "time": "2026-10-30 05:38:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾首席財務官：明年“可能不會出現”正現金流的動態。"
+    },
+    {
+      "id": "5180773",
+      "time": "2026-10-30 05:37:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾首席財務官表示，明年是公司的投資之年。"
+    },
+    {
+      "id": "5180772",
+      "time": "2026-10-30 05:37:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾首席財務官：“儘管如此，我們確實認為個人電腦將迎來複興”。"
+    },
+    {
+      "id": "mkt:01a18997-3c76-7ee0-a9f0-7dd8eebef19f",
+      "time": "2026-10-30 05:35:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O) CEO said the company has very clear visibility on compute demand for 2027 and 2028, and partial visibility for 2029."
+    },
+    {
+      "id": "5180771",
+      "time": "2026-10-30 05:35:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾首席財務官表示，預計2026年個人電腦市場總規模（TAM）按出貨量計算將下降12%，2027年將下降10%。"
+    },
+    {
+      "id": "5180770",
+      "time": "2026-10-30 05:35:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜執行長：“我們對2027年和2028年的計算能力需求有非常清晰的預判，對2029年的部分需求也有一定了解。”"
+    },
     {
       "id": "mkt:01a18996-d9c0-7ee0-a9f0-742842d90f06",
       "time": "2026-10-30 05:35:26",
@@ -118153,24 +118224,6 @@
         "Impact bearish"
       ],
       "text": "SEC filing shows GM canceled a long-term supply agreement for rare-earth magnets at a plant slated to be acquired by Energy Fuels."
-    },
-    {
-      "id": "mkt:01a1658d-c49d-7ee0-a94f-e66742b2f8d7",
-      "time": "2026-10-23 05:39:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump delays tariffs on wind turbines, orders 180-day review with trade partners】Trump signed an executive order on Thursday temporarily suspending planned national-security tariffs on wind turbines and components and directing the U.S. Trade Representative and the Commerce secretary to consult trading partners and submit a report within 180 days. The order notes some turbines and parts remain subject to existing aluminum, copper and steel tariffs, instructs officials to pursue agreements or continue ongoing negotiations to address imports, and says the administration may consider additional remedies depending on the talks' progress or outcomes."
-    },
-    {
-      "id": "5162787",
-      "time": "2026-10-23 05:38:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "Crown Castle Inc.美股盤後漲9%，AT&T則跌5%。"
     }
   ]
 }
