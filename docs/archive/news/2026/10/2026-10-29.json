@@ -1,7 +1,54 @@
 {
   "date": "2026-10-29",
-  "count": 2524,
+  "count": 2529,
   "items": [
+    {
+      "id": "mkt:01a18863-14ed-7ee0-a9ea-dc21ca538ae3",
+      "time": "2026-10-29 23:59:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said local authorities have confirmed the vessel’s crew were safely evacuated."
+    },
+    {
+      "id": "mkt:01a18862-e32b-7ee0-a9ea-d4b3699d70a5",
+      "time": "2026-10-29 23:59:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said regional authorities confirmed the vessel involved in the incident north of Seeb, Oman, was a single‑masted sailing vessel; a fire onboard during the maritime security incident caused the vessel to list and sink."
+    },
+    {
+      "id": "mkt:01a18861-527f-7ee0-a9ea-c8f66f00f052",
+      "time": "2026-10-29 23:57:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact mixed"
+      ],
+      "text": "【Documents show Alphabet's AI exposure far exceeds $1 trillion】A quarterly filing on Thursday said Alphabet's AI-related risk exposure far exceeds $1 trillion. The company flagged rapidly rising cloud demand, visible in an increased backlog of unfulfilled cloud contracts; more than one-third of the quarter's backlog growth came from an equity-accounted joint venture. The disclosure expands on comments from the prior day's earnings call, where the CFO cited over $1 trillion of procurement commitments, future lease payments and other obligations. The filing also lists about $98.5 billion of contingent commitments—up roughly $23 billion quarter-on-quarter—including guarantees of data-center lease payments, support for partners' purchases of power equipment, and potential repurchases of AI chip systems from customers under specified conditions."
+    },
+    {
+      "id": "5180387",
+      "time": "2026-10-29 23:56:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗海軍稱一艘違規油輪在霍爾木茲海峽東部觸雷】伊朗海軍29日說，一艘違規油輪在霍爾木茲海峽以東觸碰水雷，導致船體受損並起火，隨後被迫停航。伊朗海軍在其網站釋出宣告說，這種未經協調、穿越高風險區域的航行行為，已經並將繼續對船隻及其船員的安全構成嚴重威脅。伊朗海軍強調，霍爾木茲海峽禁止那些未經協調、試圖穿越禁航區及危險區域的船隻通行。（新華社）"
+    },
+    {
+      "id": "5180386",
+      "time": "2026-10-29 23:56:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大總理卡尼：“真正的主權” 取決於我們能否按照自己的條件開發、運用人工智慧。持有國內人工智慧公司股權符合加拿大人的利益。"
+    },
     {
       "id": "mkt:01a1885f-d173-7ee0-a9ea-c0e57edc40b9",
       "time": "2026-10-29 23:55:43",

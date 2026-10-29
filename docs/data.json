@@ -1,7 +1,54 @@
 {
-  "updated": "2026-10-29 23:56:26",
-  "count": 12946,
+  "updated": "2026-10-30 00:00:33",
+  "count": 12944,
   "items": [
+    {
+      "id": "mkt:01a18863-14ed-7ee0-a9ea-dc21ca538ae3",
+      "time": "2026-10-29 23:59:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said local authorities have confirmed the vessel’s crew were safely evacuated."
+    },
+    {
+      "id": "mkt:01a18862-e32b-7ee0-a9ea-d4b3699d70a5",
+      "time": "2026-10-29 23:59:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said regional authorities confirmed the vessel involved in the incident north of Seeb, Oman, was a single‑masted sailing vessel; a fire onboard during the maritime security incident caused the vessel to list and sink."
+    },
+    {
+      "id": "mkt:01a18861-527f-7ee0-a9ea-c8f66f00f052",
+      "time": "2026-10-29 23:57:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact mixed"
+      ],
+      "text": "【Documents show Alphabet's AI exposure far exceeds $1 trillion】A quarterly filing on Thursday said Alphabet's AI-related risk exposure far exceeds $1 trillion. The company flagged rapidly rising cloud demand, visible in an increased backlog of unfulfilled cloud contracts; more than one-third of the quarter's backlog growth came from an equity-accounted joint venture. The disclosure expands on comments from the prior day's earnings call, where the CFO cited over $1 trillion of procurement commitments, future lease payments and other obligations. The filing also lists about $98.5 billion of contingent commitments—up roughly $23 billion quarter-on-quarter—including guarantees of data-center lease payments, support for partners' purchases of power equipment, and potential repurchases of AI chip systems from customers under specified conditions."
+    },
+    {
+      "id": "5180387",
+      "time": "2026-10-29 23:56:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗海軍稱一艘違規油輪在霍爾木茲海峽東部觸雷】伊朗海軍29日說，一艘違規油輪在霍爾木茲海峽以東觸碰水雷，導致船體受損並起火，隨後被迫停航。伊朗海軍在其網站釋出宣告說，這種未經協調、穿越高風險區域的航行行為，已經並將繼續對船隻及其船員的安全構成嚴重威脅。伊朗海軍強調，霍爾木茲海峽禁止那些未經協調、試圖穿越禁航區及危險區域的船隻通行。（新華社）"
+    },
+    {
+      "id": "5180386",
+      "time": "2026-10-29 23:56:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大總理卡尼：“真正的主權” 取決於我們能否按照自己的條件開發、運用人工智慧。持有國內人工智慧公司股權符合加拿大人的利益。"
+    },
     {
       "id": "mkt:01a1885f-d173-7ee0-a9ea-c0e57edc40b9",
       "time": "2026-10-29 23:55:43",
@@ -116887,64 +116934,6 @@
         "MKT News"
       ],
       "text": "Freddie Mac: U.S. 30-year fixed-rate mortgage averaged 7.32% in the week ending Oct. 22, down from 7.40% a week earlier."
-    },
-    {
-      "id": "5162152",
-      "time": "2026-10-23 00:00:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國30年期抵押貸款利率降至7.32%，房地美稱。"
-    },
-    {
-      "id": "5162151",
-      "time": "2026-10-23 00:00:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐萊雅第三季度同店銷售額增長7.7%，預期增長5.43%。"
-    },
-    {
-      "id": "mkt:01a16456-8583-7ee0-a94c-20e964acfb7c",
-      "time": "2026-10-22 23:59:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said this summer it granted METR and Redwood Research three weeks of deep, embedded access to its internal monitoring systems in a pilot assessment. The teams’ findings helped strengthen safety controls during system scaling and will underpin future research cooperation with METR and other third‑party evaluators."
-    },
-    {
-      "id": "5162150",
-      "time": "2026-10-22 23:59:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI：今年夏季，公司邀請METR和Redwood Research對內部監控系統開展嵌入式評估試點，評估期間相關團隊可深度訪問公司基礎設施，試點週期共計三週。評估結果為後續擴充套件該系統時的安全防護強化提供了參考，也將助力公司未來與METR及其他第三方評估機構開展研究合作。"
-    },
-    {
-      "id": "mkt:01a16455-6cae-7ee0-a94c-1837d128521d",
-      "time": "2026-10-22 23:58:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC said a magnitude-3.5 earthquake occurred at 23:52 on Oct. 22 in Zaduo County, Yushu Prefecture, Qinghai (32.51°N, 93.99°E); focal depth 10 km."
-    },
-    {
-      "id": "mkt:01a16454-c53a-7ee0-a94c-17e7fb90f5a2",
-      "time": "2026-10-22 23:57:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New York State Department of Financial Services urges regulated entities to promptly identify and remediate known vulnerabilities that have been exploited."
-    },
-    {
-      "id": "5162149",
-      "time": "2026-10-22 23:57:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約州金融服務管理局（NYDFS）發表宣告，敦促受監管實體迅速識別並修復已知被利用的漏洞。"
     }
   ]
 }
