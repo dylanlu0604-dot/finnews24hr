@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-30 00:11:58",
-  "count": 12926,
+  "updated": "2026-10-30 00:15:48",
+  "count": 12916,
   "items": [
+    {
+      "id": "5180398",
+      "time": "2026-10-30 00:14:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部（USDA）：有意採購價值至多4.725億美元的美國農產品。將購買0.41億美元的美國豬肉，1.655億美元的美國乳製品。"
+    },
+    {
+      "id": "5180397",
+      "time": "2026-10-30 00:14:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗方面稱已收到美副總統信函 尚未作出回應】當地時間29日，總檯記者自伊朗方面獲悉，美國副總統萬斯致信伊朗最高國家安全委員會秘書穆赫辛·雷扎伊，伊朗已收到該信函，但尚未作出回應。伊朗方面強調，美國必須落實伊朗提出的七項條件，任何破壞這一明確框架的立場都不被伊朗接受。（央視新聞）"
+    },
+    {
+      "id": "5180396",
+      "time": "2026-10-30 00:13:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以色列選舉機構要求調查“外國勢力”干涉選舉情況】據以色列媒體29日報道，以中央選舉委員會主席索爾貝里已要求國家安全總局（辛貝特），對在日前結束的議會選舉中涉嫌存在“外國資金不正當影響選舉”的情況展開調查。報道說，辛貝特局長齊尼懷疑有“外國勢力”干預了於27日舉行的議會選舉。以色列公共廣播公司29日援引以安全部門訊息人士的話說，情報顯示卡達涉嫌資助了以色列阿拉伯裔社群的投票動員團體。以色列第12頻道電視臺報道稱，儘管辛貝特選前就掌握了有關情報，但其當時並未通知以中央選舉委員會。（新華社）"
+    },
     {
       "id": "te:economy:596399",
       "time": "2026-10-30 00:10:21",
@@ -116651,129 +116676,6 @@
         "國際"
       ],
       "text": "美國和丹麥簽署海上合作諒解備忘錄。"
-    },
-    {
-      "id": "5162181",
-      "time": "2026-10-23 00:15:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯宣佈，Talusag將在內布拉斯加州開設兩家制造工廠。"
-    },
-    {
-      "id": "5162180",
-      "time": "2026-10-23 00:15:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SKYDANCE恢復交易，股價下跌約2%。"
-    },
-    {
-      "id": "mkt:01a16465-1f2f-7ee0-a94c-6970f05bc45f",
-      "time": "2026-10-23 00:15:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Interfax: Russian government says gasoline and diesel production has increased and fuel stocks are expanding."
-    },
-    {
-      "id": "5162179",
-      "time": "2026-10-23 00:14:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "Hugging Face釋出最新版衛星嵌入模型OlmoEarth V1.3，該模型屬於尖端技術產品。"
-    },
-    {
-      "id": "5162178",
-      "time": "2026-10-23 00:14:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯宣佈向內布拉斯加州提供價值13億美元的國內化肥。"
-    },
-    {
-      "id": "mkt:01a16464-2482-7ee0-a94c-63c176460c2a",
-      "time": "2026-10-23 00:14:06",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "Rhode Island sues Meta Platforms (META.O), accusing the company of allowing scam advertisements on its platform."
-    },
-    {
-      "id": "5162177",
-      "time": "2026-10-23 00:13:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【挪威主權財富基金稱自己是土耳其基金危機的受害者】挪威主權財富基金表示，自己是土耳其基金危機中受損的投資者之一，並已採取措施審查其在土耳其的股票持倉。“你知道這裡誰是受害者嗎？是那些可能遭到操縱的市場參與者，”副執行長特龍德·格蘭德（Trond Grande）在與記者的電話會議上表示。“我們更像是受害者，而不是肇事者。”"
-    },
-    {
-      "id": "5162176",
-      "time": "2026-10-23 00:13:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱國內燃料市場呈現積極發展態勢。"
-    },
-    {
-      "id": "te:economy:594318",
-      "time": "2026-10-23 00:12:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "30 Year Mortgage Rate",
-        "Importance 1"
-      ],
-      "text": "US Mortgage Rates See First Drop in 9 Weeks — The US 30-year fixed-rate mortgage averaged 7.32% as of October 22, 2026, remaining above the 7% threshold, but seeing a slight decline from its highest level since November 2023 reached over the previous two weeks. This marks the first decline in nine weeks, reflecting the downward trend seen in US Treasury yields over the past two weeks, where expectations of higher-for-longer interest rates lifted safe-haven demand from capital-intensive sectors. Mortgage rates tend to closely track these these sovereign yields. A year ago, the the 30-year fixed-rate mortgage averaged 6.19%. Meanwhile, the 15-year fixed-rate mortgage averaged 6.68%, down from the 6.71% reached a week prior."
-    },
-    {
-      "id": "5162175",
-      "time": "2026-10-23 00:12:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯政府稱正在儲備燃料。"
-    },
-    {
-      "id": "5162174",
-      "time": "2026-10-23 00:12:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯政府稱汽油和柴油產量有所上升。"
-    },
-    {
-      "id": "mkt:01a16462-8498-7ee0-a94c-5a78cf0ffb24",
-      "time": "2026-10-23 00:12:20",
-      "tags": [
-        "MKT News",
-        "SKYD.N"
-      ],
-      "text": "Skydance (SKYD.N) triggered a temporary trading halt; last trade $7.84."
-    },
-    {
-      "id": "te:markets:594317",
-      "time": "2026-10-23 00:12:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 2.54% Lower — The FTSE MIB Index dropped 1260 points or 2.54 percent on Thursday to close at 48384 points. Losses were led by Prysmian (-8.06%), Saipem (-5.66%) and Tenaris (-5.01%)."
     }
   ]
 }
