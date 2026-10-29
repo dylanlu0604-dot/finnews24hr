@@ -1,7 +1,97 @@
 {
   "date": "2026-10-29",
-  "count": 1232,
+  "count": 1242,
   "items": [
+    {
+      "id": "mkt:01a1859a-3809-7ee0-a9d2-acb1c51f5310",
+      "time": "2026-10-29 11:00:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Merchants Securities International cuts Pop Mart (09992.HK) PT 6.6% to HKD113; maintains Overweight】China Merchants Securities International cut its target price for Pop Mart (09992.HK) by 6.6% to HKD113 from HKD121 and maintained an Overweight rating. The broker cited weaker-than-expected Q3 results, with domestic and overseas sales under pressure, stalled sales growth and margin compression. It expects net profit to continue declining in 2027 and 2028, lowering 2026–2028 net profit forecasts by about 28% and trimming 2026–2028 revenue forecasts by an average 22%, reflecting softer-than-expected growth momentum in both domestic and international markets."
+    },
+    {
+      "id": "5178312",
+      "time": "2026-10-29 11:00:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝鼓動力：綠色氫氨醇還處於技術儲備和標杆專案階段】陝鼓動力(601369)在2026年第三季度業績說明會上表示，目前針對壓縮空氣儲能，公司已覆蓋10MW—350MW，並簽訂多臺套訂單，CCUS已有投產示範專案，綠色氫氨醇還處於技術儲備和標杆專案階段。"
+    },
+    {
+      "id": "5178311",
+      "time": "2026-10-29 11:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【於東來：未來中國優秀的超市品牌不會是胖東來】10月29日凌晨，胖東來創始人於東來在社交平臺發文表示，“未來中國優秀的超市品牌不會是胖東來！因為非常優秀的一定是非常喜歡和熱愛！胖東來的重心在文化研究輔助解決一些人們生活上和社會存在的問題！胖東來只是盡力為行業做一個樣板供大家參考學習、分享一些零售的發展方向和經營管理方法！”"
+    },
+    {
+      "id": "5178310",
+      "time": "2026-10-29 11:00:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【風電裝置板塊逆勢反彈 天順風能漲停】風電裝置板塊盤中逆勢反彈，天順風能漲停，海力風電、振宏股份、中環海陸、天順風能、新強聯跟漲。"
+    },
+    {
+      "id": "5178309",
+      "time": "2026-10-29 10:59:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【銀行板塊持續走強 青島銀行漲7%】銀行板塊持續走強，青島銀行漲7%，成都銀行、瑞豐銀行、齊魯銀行等跟漲。"
+    },
+    {
+      "id": "5178308",
+      "time": "2026-10-29 10:58:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【巴西央行稱金融體系具備抗風險能力】巴西央行27日釋出2026年上半年《金融穩定報告》稱，金融體系資本和流動性水平充足，具備抵禦不利情形和抗風險能力。受高利率和經濟活動放緩影響，家庭和企業信貸增長放緩，金融機構放貸更審慎；報告預計消費者償債能力今年下半年仍將承壓，信用卡領域風險偏好上升趨勢依然存在。調查顯示，約四分之三受訪金融機構對金融體系抱有信心。（新華社）"
+    },
+    {
+      "id": "5178307",
+      "time": "2026-10-29 10:58:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星迴應家電撤出香港】近日有傳聞稱三星即將把部分大型家電（洗衣機、冰箱）業務撤出香港特別行政區市場，且官網多款大型家電均顯示為售罄狀態，引發使用者擔憂。有韓媒援引知情人士訊息指，三星香港子公司大約在 1-2 個月前，就已經開始為撤出市場做準備。 同時港媒記者以顧客身份前往電器零售商豐澤。但店內員工表示，三星家電已在今年 8 月 31 日正式撤出香港。 三星香港對此回應稱，目前的本地業務營運依然穩健，管理層一直會評估及調整整體的產品組合，目的是切合市場環境和消費者喜好。 此外三星香港表示，公司正將所有營運資源重新集中於幾個主要領域，包括電視、顯示器、音箱產品、商用顯示器及流動通訊裝置（手機等）。公司將維持已售產品的售後服務、保養服務及維修支援，持續為消費者提供專業服務。（IT之家）"
+    },
+    {
+      "id": "te:markets:596049",
+      "time": "2026-10-29 10:58:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Steadies Ahead of BOJ Policy Decision — The Japanese yen steadied around 157.7 per dollar on Thursday after coming under pressure earlier in the week, as investors awaited the Bank of Japan’s upcoming policy announcement. The central bank is widely expected to keep interest rates unchanged, although policymakers could signal a potential rate hike in December amid persistent inflationary pressures. Investors are also monitoring upcoming Japanese economic data, including unemployment, industrial production, retail sales, and Tokyo’s inflation figures, which are due ahead of the BOJ decision. Meanwhile, the US Federal Reserve maintained interest rates as widely anticipated, though two officials dissented in favor of a 25-basis-point increase, strengthening market expectations for a possible rate hike in December. Elsewhere, the yen received renewed safe-haven support as disappointing earnings from Alphabet and Samsung revived concerns over the sustainability of AI-related investments."
+    },
+    {
+      "id": "mkt:01a18597-8a5b-7ee0-a9d2-a2bb23196b17",
+      "time": "2026-10-29 10:57:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "00857.HK",
+        "Impact bullish"
+      ],
+      "text": "【Citigroup: PetroChina Q3 in line; keeps Buy and HK$12 PT】Citigroup says PetroChina (00857.HK) posted Q3 net profit of 51.8 bln yuan, down 7% QoQ and up 22% YoY; nine-month net profit equals 83% of Citigroup’s full-year forecast. Citigroup notes Minas crude has risen about 16% since Q3 through October, and expects Q4 earnings to remain steady. Despite higher pipeline import gas costs, elevated LNG import prices sustain a procurement advantage that should allow PetroChina’s gas marketing to defend market share. Citigroup maintains Buy rating and HK$12 PT, citing attractive dividend yield and solid near-term earnings visibility."
+    },
+    {
+      "id": "5178306",
+      "time": "2026-10-29 10:56:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼股市跌2%。"
+    },
     {
       "id": "mkt:01a18592-5760-7ee0-a9d2-9fd8d819ede7",
       "time": "2026-10-29 10:52:02",
