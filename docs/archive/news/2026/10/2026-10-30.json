@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-30",
+  "count": 9,
+  "items": [
+    {
+      "id": "mkt:01a18867-242f-7ee0-a9ea-f9ea820cdeaf",
+      "time": "2026-10-30 00:03:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI to extend monitoring of AI misalignment to all frontier models."
+    },
+    {
+      "id": "mkt:01a18866-c8a2-7ee0-a9ea-f19c0da9360f",
+      "time": "2026-10-30 00:03:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O): CEO Jensen Huang's contacts with Megaspeed showed no abnormalities."
+    },
+    {
+      "id": "5180393",
+      "time": "2026-10-30 00:02:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI將AI失準監測範圍擴大至所有前沿模型。"
+    },
+    {
+      "id": "5180392",
+      "time": "2026-10-30 00:02:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：黃仁勳和 Megaspeed 方面的接觸並無異常。"
+    },
+    {
+      "id": "mkt:01a18864-5996-7ee0-a9ea-edd2d9ab6749",
+      "time": "2026-10-30 00:00:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Canadian Prime Minister Carney said the government has pledged C$1.6 billion to AI start-up COHERE."
+    },
+    {
+      "id": "mkt:01a18864-3710-7ee0-a9ea-e6d161d4d333",
+      "time": "2026-10-30 00:00:31",
+      "tags": [
+        "MKT News",
+        "XHB",
+        "Impact bullish",
+        "ITB"
+      ],
+      "text": "Freddie Mac: For the week ending Oct. 29, the U.S. 30-year fixed-rate mortgage averaged 7.24%, down from 7.32% the prior week."
+    },
+    {
+      "id": "5180390",
+      "time": "2026-10-30 00:00:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數跌破101關口，日內跌0.14%。"
+    },
+    {
+      "id": "5180389",
+      "time": "2026-10-30 00:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國抵押貸款利率連降兩週】房地美：美國上週30年期按揭貸款/抵押貸款利率7.24%，前值7.32%。"
+    },
+    {
+      "id": "5180388",
+      "time": "2026-10-30 00:00:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會（FTC）與部分州對Toast公司提起訴訟，指控其收費、欺騙性訂閱與取消做法及其他行為。"
+    }
+  ]
+}
