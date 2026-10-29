@@ -1,7 +1,211 @@
 {
   "date": "2026-10-30",
-  "count": 429,
+  "count": 450,
   "items": [
+    {
+      "id": "mkt:01a18981-4be9-7ee0-a9ef-998ae5b637a3",
+      "time": "2026-10-30 05:11:54",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) CEO said the 14A project remains on schedule."
+    },
+    {
+      "id": "5180715",
+      "time": "2026-10-30 05:11:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾表示，其14A製程在爭取多個客戶方面正取得進展。"
+    },
+    {
+      "id": "mkt:01a18980-f0ba-7ee0-a9ef-96e25c87d36e",
+      "time": "2026-10-30 05:11:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) CEO said AWS offers attractive long-term economics whether or not supply is constrained."
+    },
+    {
+      "id": "mkt:01a18980-e3f1-7ee0-a9ef-8c2b296e44bc",
+      "time": "2026-10-30 05:11:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) CEO said AWS will generate more revenue than previously expected."
+    },
+    {
+      "id": "5180714",
+      "time": "2026-10-30 05:10:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾執行長：英特爾3、英特爾18A晶圓產量超出預期。"
+    },
+    {
+      "id": "5180713",
+      "time": "2026-10-30 05:10:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜執行長：無論供應是否短缺，AWS都能帶來有吸引力的長期經濟效益。"
+    },
+    {
+      "id": "5180712",
+      "time": "2026-10-30 05:10:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾CEO：我們的首款Intel 18AP客戶端產品Nova Lake進度超前，預計其設計訂單量將達到Panther Lake釋出時的兩倍。"
+    },
+    {
+      "id": "mkt:01a18980-0cd9-7ee0-a9ef-8725617af3ee",
+      "time": "2026-10-30 05:10:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) CEO said the company has moved Panther Lake into mass production on its Intel 18A process and that demand for Wildcat Lake currently exceeds supply."
+    },
+    {
+      "id": "mkt:01a1897f-e668-7ee0-a9ef-7f267d567e71",
+      "time": "2026-10-30 05:10:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) CEO says the long-term outlook for the PC market is optimistic."
+    },
+    {
+      "id": "5180711",
+      "time": "2026-10-30 05:10:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜執行長表示，有信心AWS將帶來比此前預期更多的收入。"
+    },
+    {
+      "id": "5180710",
+      "time": "2026-10-30 05:09:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾CEO：我們已成功在Intel 18A製程上量產Panther Lake，Wildcat Lake的需求正超過供應。"
+    },
+    {
+      "id": "mkt:01a1897f-4b49-7ee0-a9ef-712dc10ed976",
+      "time": "2026-10-30 05:09:43",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) CEO said the current PC market environment will persist until memory supply and prices normalize."
+    },
+    {
+      "id": "mkt:01a1897f-47f2-7ee0-a9ef-6afc2789799d",
+      "time": "2026-10-30 05:09:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) CEO said an industry-wide shortage of advanced organic substrates used in its EMIB packaging has also hindered Intel's ability to ramp production."
+    },
+    {
+      "id": "mkt:01a1897f-4557-7ee0-a9ef-62b518dd71d8",
+      "time": "2026-10-30 05:09:41",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) CEO said PC inventory adjustment has accelerated in the past two months; OEM partners are actively managing inventories to match weak end-user sales."
+    },
+    {
+      "id": "mkt:01a1897f-3970-7ee0-a9ef-5ee200fd9998",
+      "time": "2026-10-30 05:09:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) CEO says halted production at its Israeli plant will affect Q4 10nm server shipments."
+    },
+    {
+      "id": "5180709",
+      "time": "2026-10-30 05:09:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾執行長：PC市場長期前景樂觀。"
+    },
+    {
+      "id": "5180708",
+      "time": "2026-10-30 05:09:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾執行長：用於EMIB封裝的先進有機基板全行業短缺也正在影響我們擴大產量的能力。"
+    },
+    {
+      "id": "5180707",
+      "time": "2026-10-30 05:09:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾執行長：在記憶體供應和價格恢復正常之前，當前的個人電腦市場環境將持續。"
+    },
+    {
+      "id": "mkt:01a1897e-a2ee-7ee0-a9ef-50f46549352f",
+      "time": "2026-10-30 05:09:00",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) CEO says Crescent Island GPU is set to receive formal customer commitments soon."
+    },
+    {
+      "id": "5180706",
+      "time": "2026-10-30 05:08:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾執行長：在過去兩個月中，PC市場回撥的速度有所加快，因為我們的OEM合作伙伴正在積極管理庫存，以適應更為疲軟的終端銷售。"
+    },
+    {
+      "id": "5180705",
+      "time": "2026-10-30 05:08:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾CEO：Crescent Island GPU即將獲得客戶堅定承諾。"
+    },
     {
       "id": "5180704",
       "time": "2026-10-30 05:08:02",
