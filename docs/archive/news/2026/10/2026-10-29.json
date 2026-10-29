@@ -1,7 +1,111 @@
 {
   "date": "2026-10-29",
-  "count": 1247,
+  "count": 1258,
   "items": [
+    {
+      "id": "mkt:01a185a0-de32-7ee0-a9d2-e5d700435989",
+      "time": "2026-10-29 11:07:54",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【Hefei Q1–Q3 GDP up 6.5% YoY】Hefei municipal government reports Q1–Q3 GDP of 1.118 tln yuan, up 6.5% YoY at constant prices. By sector, value added: primary 17.99 bln yuan, +2.2% YoY; secondary 420.22 bln yuan, +10.4% YoY; tertiary 679.79 bln yuan, +4.4% YoY."
+    },
+    {
+      "id": "mkt:01a185a0-d122-7ee0-a9d2-da8ea128b3ad",
+      "time": "2026-10-29 11:07:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "006400.KS",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【Samsung SDI targets ESS battery growth after stronger-than-expected Q3】Samsung SDI reported Q3 operating profit nearly doubled QoQ to 407.8 billion won (about $306m), its strongest quarter since 2023, and net profit beat expectations. The company attributed the upside to higher ESS sales driven by global AI data-center demand. It said it has secured more than 60 GWh of ESS battery orders in the U.S. this year, will accelerate production-line conversions to meet demand, and expects ESS market growth to continue into Q4. On EVs, Samsung SDI sees rising demand in Europe while U.S. demand remains weak for now."
+    },
+    {
+      "id": "5178319",
+      "time": "2026-10-29 11:06:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【合肥：前三季度GDP同比增長6.5%】10月29日，合肥市人民政府釋出2026年前三季度合肥市經濟執行情況。根據地區生產總值統一核算結果，前三季度，全市地區生產總值（GDP）11180億元，按不變價格計算，同比增長6.5%。分產業看，第一產業增加值179.9億元，增長2.2%；第二產業增加值4202.2億元，增長10.4%；第三產業增加值6797.9億元，增長4.4%。"
+    },
+    {
+      "id": "te:markets:596052",
+      "time": "2026-10-29 11:06:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Hovers Near Peak Levels — European natural gas prices eased to €98 per megawatt-hour on Thursday after reaching €100 in the previous session, the highest level since December 2022. The recent rally has been driven by rising heating demand, low gas reserves in Europe, and concerns about a renewed escalation in the Middle East conflict. Prices have more than tripled since the outbreak of the war, as disruptions to shipments through the Strait of Hormuz halted LNG deliveries from several sources, primarily Qatar. This has left the region scrambling for alternatives and hampered efforts to refill storage over the summer. European gas storage facilities were about 75% full as of October 28, significantly below historical levels. Meanwhile, forecasts of colder weather across northwestern Europe in the coming days could boost heating demand, while potential cold snaps in parts of Asia may further intensify competition for available cargoes."
+    },
+    {
+      "id": "5178318",
+      "time": "2026-10-29 11:05:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【任天堂Switch 2海外旗艦店在天貓國際開業】10月29日，淘寶官微宣佈，Nintendo Switch 2首家官方旗艦店已在天貓國際開業。《塞爾達傳說：時之笛》重製版、“塞爾達傳說40週年紀念版”主機及配套Pro手柄現已開啟預售。"
+    },
+    {
+      "id": "5178317",
+      "time": "2026-10-29 11:05:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智元釋出最新具身基座模型GO-3 Preview 將於2026年底開源】10月29日，在2026智元創新日上，智元聯合創始人、聯席總裁、具身智慧業務體系總裁姚卯青現場正式釋出新一代具身基座模型GO-3 Preview。該模型將於2026年底全面開源。"
+    },
+    {
+      "id": "mkt:01a1859e-3bb4-7ee0-a9d2-d1f1e00546fc",
+      "time": "2026-10-29 11:05:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhiyuan unveils embodied base model GO-3 Preview; to be open-sourced end-2026】Zhiyuan co-founder and co-president Yao Maoqing, who also leads its embodied intelligence business, unveiled the next-generation embodied base model GO-3 Preview at Zhiyuan Innovation Day 2026. The company said the model will be fully open-sourced at the end of 2026."
+    },
+    {
+      "id": "5178316",
+      "time": "2026-10-29 11:04:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟產業省與西門子能源將在浮式海上風電專案上展開合作。"
+    },
+    {
+      "id": "mkt:01a1859e-1f12-7ee0-a9d2-cac49dd40d04",
+      "time": "2026-10-29 11:04:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Hongban Technology: AI server PCBs still at customer validation stage】At its Q3 2026 earnings briefing, Hongban Technology said AI server PCBs and high-speed, multi-layer boards are strategic priorities, but AI server PCBs remain in customer validation. The company will target AI compute and optical-module opportunities and accelerate scaling of high-end products. Production capacity is currently full."
+    },
+    {
+      "id": "5178315",
+      "time": "2026-10-29 11:04:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紅板科技：當前AI伺服器PCB尚處於客戶驗證階段】紅板科技(603459)在2026年第三季度業績說明會上表示，AI伺服器PCB和高速高多層板是公司重點拓展的方向之一，當前AI伺服器PCB尚處於客戶驗證階段。公司將持續把握AI算力、光模組等賽道機會，推進高階產品放量。目前公司產能飽滿。"
+    },
+    {
+      "id": "mkt:01a1859d-cfef-7ee0-a9d2-c1b26b44b027",
+      "time": "2026-10-29 11:04:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Luoyang Molybdenum says DRC operating environment stable; production normal】Addressing market reports on Congo (DRC) security, Luoyang Molybdenum said it is recruiting about 100 security personnel via a third‑party firm as its DRC expansion project accelerates and the mine operating area will significantly expand. The company said the recruitment is routine reserve-building for its security team, not an emergency measure; the external operating environment in the DRC is stable and production and operations are normal. Luoyang Molybdenum added that strengthening overseas security capability is a long-term, institutional priority to protect projects and improve local security control."
+    },
     {
       "id": "mkt:01a1859c-bf6f-7ee0-a9d2-be98abed4e14",
       "time": "2026-10-29 11:03:24",

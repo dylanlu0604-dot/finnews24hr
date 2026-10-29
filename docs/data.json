@@ -1,7 +1,111 @@
 {
-  "updated": "2026-10-29 11:04:50",
-  "count": 13098,
+  "updated": "2026-10-29 11:08:44",
+  "count": 13101,
   "items": [
+    {
+      "id": "mkt:01a185a0-de32-7ee0-a9d2-e5d700435989",
+      "time": "2026-10-29 11:07:54",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【Hefei Q1–Q3 GDP up 6.5% YoY】Hefei municipal government reports Q1–Q3 GDP of 1.118 tln yuan, up 6.5% YoY at constant prices. By sector, value added: primary 17.99 bln yuan, +2.2% YoY; secondary 420.22 bln yuan, +10.4% YoY; tertiary 679.79 bln yuan, +4.4% YoY."
+    },
+    {
+      "id": "mkt:01a185a0-d122-7ee0-a9d2-da8ea128b3ad",
+      "time": "2026-10-29 11:07:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "006400.KS",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【Samsung SDI targets ESS battery growth after stronger-than-expected Q3】Samsung SDI reported Q3 operating profit nearly doubled QoQ to 407.8 billion won (about $306m), its strongest quarter since 2023, and net profit beat expectations. The company attributed the upside to higher ESS sales driven by global AI data-center demand. It said it has secured more than 60 GWh of ESS battery orders in the U.S. this year, will accelerate production-line conversions to meet demand, and expects ESS market growth to continue into Q4. On EVs, Samsung SDI sees rising demand in Europe while U.S. demand remains weak for now."
+    },
+    {
+      "id": "5178319",
+      "time": "2026-10-29 11:06:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【合肥：前三季度GDP同比增長6.5%】10月29日，合肥市人民政府釋出2026年前三季度合肥市經濟執行情況。根據地區生產總值統一核算結果，前三季度，全市地區生產總值（GDP）11180億元，按不變價格計算，同比增長6.5%。分產業看，第一產業增加值179.9億元，增長2.2%；第二產業增加值4202.2億元，增長10.4%；第三產業增加值6797.9億元，增長4.4%。"
+    },
+    {
+      "id": "te:markets:596052",
+      "time": "2026-10-29 11:06:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Hovers Near Peak Levels — European natural gas prices eased to €98 per megawatt-hour on Thursday after reaching €100 in the previous session, the highest level since December 2022. The recent rally has been driven by rising heating demand, low gas reserves in Europe, and concerns about a renewed escalation in the Middle East conflict. Prices have more than tripled since the outbreak of the war, as disruptions to shipments through the Strait of Hormuz halted LNG deliveries from several sources, primarily Qatar. This has left the region scrambling for alternatives and hampered efforts to refill storage over the summer. European gas storage facilities were about 75% full as of October 28, significantly below historical levels. Meanwhile, forecasts of colder weather across northwestern Europe in the coming days could boost heating demand, while potential cold snaps in parts of Asia may further intensify competition for available cargoes."
+    },
+    {
+      "id": "5178318",
+      "time": "2026-10-29 11:05:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【任天堂Switch 2海外旗艦店在天貓國際開業】10月29日，淘寶官微宣佈，Nintendo Switch 2首家官方旗艦店已在天貓國際開業。《塞爾達傳說：時之笛》重製版、“塞爾達傳說40週年紀念版”主機及配套Pro手柄現已開啟預售。"
+    },
+    {
+      "id": "5178317",
+      "time": "2026-10-29 11:05:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智元釋出最新具身基座模型GO-3 Preview 將於2026年底開源】10月29日，在2026智元創新日上，智元聯合創始人、聯席總裁、具身智慧業務體系總裁姚卯青現場正式釋出新一代具身基座模型GO-3 Preview。該模型將於2026年底全面開源。"
+    },
+    {
+      "id": "mkt:01a1859e-3bb4-7ee0-a9d2-d1f1e00546fc",
+      "time": "2026-10-29 11:05:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhiyuan unveils embodied base model GO-3 Preview; to be open-sourced end-2026】Zhiyuan co-founder and co-president Yao Maoqing, who also leads its embodied intelligence business, unveiled the next-generation embodied base model GO-3 Preview at Zhiyuan Innovation Day 2026. The company said the model will be fully open-sourced at the end of 2026."
+    },
+    {
+      "id": "5178316",
+      "time": "2026-10-29 11:04:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟產業省與西門子能源將在浮式海上風電專案上展開合作。"
+    },
+    {
+      "id": "mkt:01a1859e-1f12-7ee0-a9d2-cac49dd40d04",
+      "time": "2026-10-29 11:04:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Hongban Technology: AI server PCBs still at customer validation stage】At its Q3 2026 earnings briefing, Hongban Technology said AI server PCBs and high-speed, multi-layer boards are strategic priorities, but AI server PCBs remain in customer validation. The company will target AI compute and optical-module opportunities and accelerate scaling of high-end products. Production capacity is currently full."
+    },
+    {
+      "id": "5178315",
+      "time": "2026-10-29 11:04:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紅板科技：當前AI伺服器PCB尚處於客戶驗證階段】紅板科技(603459)在2026年第三季度業績說明會上表示，AI伺服器PCB和高速高多層板是公司重點拓展的方向之一，當前AI伺服器PCB尚處於客戶驗證階段。公司將持續把握AI算力、光模組等賽道機會，推進高階產品放量。目前公司產能飽滿。"
+    },
+    {
+      "id": "mkt:01a1859d-cfef-7ee0-a9d2-c1b26b44b027",
+      "time": "2026-10-29 11:04:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Luoyang Molybdenum says DRC operating environment stable; production normal】Addressing market reports on Congo (DRC) security, Luoyang Molybdenum said it is recruiting about 100 security personnel via a third‑party firm as its DRC expansion project accelerates and the mine operating area will significantly expand. The company said the recruitment is routine reserve-building for its security team, not an emergency measure; the external operating environment in the DRC is stable and production and operations are normal. Luoyang Molybdenum added that strengthening overseas security capability is a long-term, institutional priority to protect projects and improve local security control."
+    },
     {
       "id": "mkt:01a1859c-bf6f-7ee0-a9d2-be98abed4e14",
       "time": "2026-10-29 11:03:24",
@@ -118040,71 +118144,6 @@
         "市場"
       ],
       "text": "越南VN指數上漲1%，至1,756.36點。"
-    },
-    {
-      "id": "5160077",
-      "time": "2026-10-22 11:08:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯夜間襲擊烏克蘭基輔，造成15人受傷。"
-    },
-    {
-      "id": "5160076",
-      "time": "2026-10-22 11:07:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【金與正警告韓國不要干涉朝方正常邊境工程】據朝中社22日報道，朝鮮勞動黨中央委員會部長金與正當天凌晨針對韓國總統府國防政策特別輔佐官的言論發出警告，要求韓國不要干涉朝鮮正常的邊境工程，表示朝鮮南部邊境永久化工程將堅定不移地繼續推進。 金與正說，朝鮮並沒有進行任何“挑釁”，而是作出正當反應。朝韓邊境一旦要塞化，軍事衝突風險就會明顯降低，許多複雜問題也會隨之得到解決。 據朝中社21日報道，金與正當天發表談話說，對韓國心理戰擴音器本月將在邊境全線投入執行。金與正強調，如果敵人的警告射擊造成實際危及朝鮮領土安全、官兵人身安全的後果，那麼朝鮮邊境官兵將毫不留情予以回應。 21日晚些時候，韓國總統府國防政策特別輔佐官金炳周對朝方上述表態予以批評，並敦促朝鮮就對韓挑釁立即道歉。(新華社)"
-    },
-    {
-      "id": "5160075",
-      "time": "2026-10-22 11:07:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【邁為股份、順網科技等成立眾行勵芯創投基金】企查查APP顯示，近日，廣州眾行勵芯創業投資基金合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）;以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由邁為股份、順網科技、神馳機電等共同出資。"
-    },
-    {
-      "id": "5160074",
-      "time": "2026-10-22 11:06:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長申鉉松：到2028年或有望實現2%通脹目標。"
-    },
-    {
-      "id": "5160067",
-      "time": "2026-10-22 11:05:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【9月廣東金融機構新發放的企業貸款利率平均為2.46% 較上年同期下降0.22個百分點】中國人民銀行廣東省分行舉行2026年三季度廣東省金融執行形勢新聞釋出會。9月，廣東金融機構新發放的企業貸款利率平均為2.46%，較上年同期下降0.22個百分點，社會綜合融資成本繼續保持低位執行。"
-    },
-    {
-      "id": "5160066",
-      "time": "2026-10-22 11:05:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【王堅：AI與機器人正迎來進一步結合的機會】10月22日，宇樹2026世界物理AI大會暨宇樹合作伙伴生態大會在杭州召開。之江實驗室主任、阿里雲創始人王堅談及人工智慧與機器人發展時表示，過去機器人本體與人工智慧長期沿著不同的技術路徑發展，兩者並沒有真正結合。隨著近年來人工智慧技術取得進展，如今兩者有了進一步結合的機會。王堅認為，機器人未來的發展值得重新思考，人工智慧與機器人本體的結合，也可能推動軟體、硬體及模型等技術進一步融合。"
-    },
-    {
-      "id": "5160065",
-      "time": "2026-10-22 11:05:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【達剛控股成立深芯起智算科技公司】企查查APP顯示，近日，深圳市深芯起智算科技有限公司成立，經營範圍包含：雲端計算裝備技術服務；雲端計算裝置銷售；大資料服務；網際網路資料服務；資料處理和儲存支援服務等。企查查股權穿透顯示，該公司由達剛控股全資持股。"
-    },
-    {
-      "id": "5160064",
-      "time": "2026-10-22 11:04:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司就澳大利亞聯邦法院要求其開放 iOS 系統的裁決表示：我們將申請暫緩執行並對結果提出上訴。"
     }
   ]
 }
