@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-30 00:39:49",
-  "count": 12905,
+  "updated": "2026-10-30 00:43:34",
+  "count": 12900,
   "items": [
+    {
+      "id": "mkt:01a18889-064a-7ee0-a9eb-55fa0d67f038",
+      "time": "2026-10-30 00:40:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "European equities closed mixed on Thursday, Oct 29: Germany's DAX rose 372.20 pts (+1.45%) to 26,076.22; France's CAC 40 gained 83.04 pts (+1.05%) to 7,970.00; EUROSTOXX 50 added 44.54 pts (+0.72%) to 6,212.35; Italy's FTSE MIB was up 193.20 pts (+0.39%) at 50,017.50; the UK's FTSE 100 edged up 31.78 pts (+0.30%) to 10,726.28; Spain's IBEX 35 fell 30.81 pts (-0.16%) to 18,852.69."
+    },
+    {
+      "id": "te:markets:596405",
+      "time": "2026-10-30 00:40:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Up for 2nd Day — The FTSE 100 edged up on Thursday, extending gains for the second session. Shell gained 1.7% after announcing a $5 billion share buyback for the fourth quarter, up from $3 billion previously. The company reported strong refining profitability and higher earnings amid disruptions linked to the Iran war and the Russia-Ukraine conflict. BP also advanced 0.7%. Pharma giant AstraZeneca added over 2% ahead of tomorrow's results. Meanwhile, aerospace company BAE Systems climbed by around 3%, and engine-maker Rolls-Royce 1.7%. On the other hand, Haleon tumbled 15% after cutting its full-year revenue outlook, despite announcing plans for up to £500 million in share repurchases. Lloyds Banking Group fell more than 5% despite beating third-quarter profit estimates, as investors were disappointed by unchanged guidance. Net interest income reached £3.8 billion, up 10% year over year."
+    },
     {
       "id": "mkt:01a18887-2adf-7ee0-a9eb-4dc8a4baaddf",
       "time": "2026-10-30 00:38:41",
@@ -116535,70 +116559,6 @@
         "Important"
       ],
       "text": "US 5-year Treasury yield fell 15bps to 4.80%."
-    },
-    {
-      "id": "5162214",
-      "time": "2026-10-23 00:42:44",
-      "tags": [
-        "宏觀",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財政部5年期國債收益率當日下降15個基點，至4.80%。"
-    },
-    {
-      "id": "5162213",
-      "time": "2026-10-23 00:42:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "開雲集團首席財務官：我們目前正處於非常不確定的環境中。"
-    },
-    {
-      "id": "te:economy:594327",
-      "time": "2026-10-23 00:41:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Producer Price Inflation MoM",
-        "Importance 1"
-      ],
-      "text": "Canada Producer Prices Rise the Most in 6 Months — Producer prices in Canada rose 2.0% month-on-month in September 2026, accelerating from a downwardly revised 1.2% gain in August and contrasting with market expectations of a slowdown to 0.9%. This marked the sharpest monthly rise since March, driven primarily by the prolonged US-Iran conflict, which continued to push inflation of energy and petroleum products higher to 12.1% following a 3.7% gain in August. The increase reflected higher prices for refined products (13.7%), particularly diesel (18.4%), followed by finished motor gasoline (7.8%) and light fuel oils (15.4%). Excluding energy and petroleum products, producer prices edged up 0.3%. Chemical and chemical product prices rebounded sharply by 3.8% after falling 0.3% in August, driven by higher prices for dyes and pigments and petrochemicals (9.7%). Plastic resins (11.0%) and fertilizers, pesticides and other chemical products (4.1%) also contributed significantly to the increase."
-    },
-    {
-      "id": "5162212",
-      "time": "2026-10-23 00:41:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌4%，現報13276.00元。"
-    },
-    {
-      "id": "5162211",
-      "time": "2026-10-23 00:41:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英國長端國債收益率跌超7個基點】週四（10月22日）歐市尾盤，英國10年期國債收益率跌5.3個基點，報5.325%，日內整體震盪下行。兩年期英債收益率跌3.3個基點，報4.890%，整體呈現出長尾M形走勢。30年期英債收益率跌7.3個基點，報5.715%，整體持續走低；50年期英債收益率跌7.7個基點，報5.122%。2/10年期英債收益率利差跌1.927個基點，報+43.471個基點。"
-    },
-    {
-      "id": "5162204",
-      "time": "2026-10-23 00:41:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "MODERNA恢復交易後下跌16%。"
-    },
-    {
-      "id": "mkt:01a1647c-2c8d-7ee0-a94c-d9e861d668d0",
-      "time": "2026-10-23 00:40:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen government forces said Houthi heavy weapons and reinforcement units en route to the Taiz front were destroyed."
     }
   ]
 }
