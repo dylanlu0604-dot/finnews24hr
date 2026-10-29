@@ -1,7 +1,92 @@
 {
   "date": "2026-10-30",
-  "count": 450,
+  "count": 460,
   "items": [
+    {
+      "id": "5180724",
+      "time": "2026-10-30 05:16:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜執行長：AWS在2027年和2028年的增速均可超過40%。"
+    },
+    {
+      "id": "5180723",
+      "time": "2026-10-30 05:15:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.33%，報12856點。"
+    },
+    {
+      "id": "te:markets:596453",
+      "time": "2026-10-30 05:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Weakens as Fiscal Concerns Persist — The Brazilian real weakened to around 5.38 per US dollar, the weakest since touching 5.60 immediately after President Lula’s runoff victory over Flávio Bolsonaro. Investors remain focused on fiscal policy, particularly the government’s commitment to controlling spending and public debt, which has risen significantly in recent years. Concerns over the lack of fiscal adjustment have intensified amid uncertainty over key appointments, including the Finance Ministry, and the direction of fiscal policy in Lula’s next term. Markets had viewed a Bolsonaro administration as more likely to curb public spending, a key factor in lowering interest rates. Brazilian assets had rallied after the first round, when Bolsonaro finished ahead of Lula. Meanwhile, the US dollar strengthened against a basket of currencies following stronger-than-expected GDP growth and accelerating PCE inflation, as Fed policymakers assess incoming data before deciding on their next move."
+    },
+    {
+      "id": "5180722",
+      "time": "2026-10-30 05:15:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【麥當勞在美國部分門店測試超值組合套餐】麥當勞公司正在美國部分門店推出新款自選組合套餐，吸引看重價效比的消費者。據知情人士透露，該套餐允許顧客從麥雙層牛肉堡、麥香雞、6 塊麥樂雞以及薯條中任選兩款，不同地區售價在 3.5 美元至 4 美元之間。品牌同時也在測試早餐類組合。上一季度麥當勞美國同店門店增速創下一年多以來新低，品牌正透過這類方案最佳化超值選單。執行長克里斯・肯普欽斯基在 8 月財報電話會上表示，此前推出的約 10 款 3 美元以下單品活動，引流效果不及預期。麥當勞也任命了美國業務新負責人斯凱・安德森，為該板塊注入專注力與緊迫感。麥當勞發言人表示，公司希望提供豐富選擇與高價效比產品，因此在部分門店測試多款套餐組合。"
+    },
+    {
+      "id": "5180721",
+      "time": "2026-10-30 05:14:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜CEO：計劃於2027年底在AWS之外提供Trainium晶片。"
+    },
+    {
+      "id": "5180720",
+      "time": "2026-10-30 05:14:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾CEO表示，重建公司是一項需要多年的征程。"
+    },
+    {
+      "id": "5180719",
+      "time": "2026-10-30 05:14:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾執行長：公司正與“幾家”“高度具有戰略意義的”外部客戶就18A-P晶片製造技術進行洽談。"
+    },
+    {
+      "id": "5180718",
+      "time": "2026-10-30 05:14:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜CEO：預計2027年資本支出將“大幅增加”。"
+    },
+    {
+      "id": "5180717",
+      "time": "2026-10-30 05:13:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜執行長：財富500強企業在Bedrock上的支出同比增長近七倍。"
+    },
+    {
+      "id": "5180716",
+      "time": "2026-10-30 05:13:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜執行長：財富500強企業在Bedrock上的支出同比增長近七倍。"
+    },
     {
       "id": "mkt:01a18981-4be9-7ee0-a9ef-998ae5b637a3",
       "time": "2026-10-30 05:11:54",
