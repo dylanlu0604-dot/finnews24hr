@@ -1,7 +1,65 @@
 {
-  "updated": "2026-10-29 23:28:05",
-  "count": 12965,
+  "updated": "2026-10-29 23:32:27",
+  "count": 12950,
   "items": [
+    {
+      "id": "te:markets:596394",
+      "time": "2026-10-29 23:30:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Zambia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Zambia 10Y Bond Yield Hits 14-year Low — Zambia 10 Year Government Bond Yield decreased to 14.75%, the lowest since October 2012. Over the past 4 weeks, Zambia Government Bond 10y lost 103.00 basis points, and in the last 12 months, it decreased 347.00 basis points."
+    },
+    {
+      "id": "5180371",
+      "time": "2026-10-29 23:30:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "加密貨幣交易所庫幣（KuCoin）：將立即停止為俄羅斯及白俄羅斯客戶提供服務。"
+    },
+    {
+      "id": "te:markets:596393",
+      "time": "2026-10-29 23:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Gains by 13 bps — Majority of government bonds yields are lower on Thursday. Top gainers are Brazil 10Y (13bps) and Japan 10Y (0.81bps). Biggest losers are United Kingdom 10Y (-8.33bps), Portugal 10Y (-7.91bps), New Zealand 10Y (-5.90bps), Germany 10Y (-4.38bps) and US 10Y (-4.10bps)."
+    },
+    {
+      "id": "5180370",
+      "time": "2026-10-29 23:29:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌執行長表示，協商交易的機會越來越多，包括在科威特、利比亞、伊拉克和委內瑞拉。"
+    },
+    {
+      "id": "5180369",
+      "time": "2026-10-29 23:28:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行訊息人士：歐洲央行政策制定者計劃在 12 月加息，隨後暫停加息。"
+    },
+    {
+      "id": "5180368",
+      "time": "2026-10-29 23:28:19",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行訊息人士稱，歐洲央行工作人員最新預測顯示，與9月基線情景相比，債券收益率上升將在2027至2028年累計使經濟增長減少100個基點，使通脹降低90個基點。"
+    },
     {
       "id": "5180367",
       "time": "2026-10-29 23:26:39",
@@ -116849,216 +116907,6 @@
         "Economic Calendar"
       ],
       "text": "United States | 8-Week Bill Auction High Yield Rate (Oct.22) | actual 4.015% | previous 4.05%"
-    },
-    {
-      "id": "mkt:01a1643d-e88b-7ee0-a94b-33ef9d29e4b8",
-      "time": "2026-10-22 23:32:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. 8-week Treasury bill auction on Oct 22 — bid-cover ratio 2.57 vs 2.26 prior."
-    },
-    {
-      "id": "mkt:01a1643d-cee1-7ee0-a94b-2e79b5b30d47",
-      "time": "2026-10-22 23:32:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Oct.22) | actual 2.57 | previous 2.26"
-    },
-    {
-      "id": "5162119",
-      "time": "2026-10-22 23:32:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國至10月22日4周國債競拍-投標倍數 2.82，前值2.56。美國至10月22日4周國債競拍-得標利率 3.945%，前值4%。美國至10月22日4周國債競拍-得標利率配置百分比 32.92%，前值15.67%。美國至10月22日8周國債競拍-投標倍數 2.57，前值2.26。美國至10月22日8周國債競拍-得標利率 4.015%，前值4.05%。美國至10月22日8周國債競拍-得標利率配置百分比 93.95%，前值50.08%。"
-    },
-    {
-      "id": "mkt:01a1643d-a510-7ee0-a94b-257b194462d2",
-      "time": "2026-10-22 23:32:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 4-week Treasury bill auction bid-cover ratio 2.82 on Oct 22; prior 2.56."
-    },
-    {
-      "id": "5162118",
-      "time": "2026-10-22 23:32:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "房利美股價在抹去跌幅後上漲5.6%。"
-    },
-    {
-      "id": "mkt:01a1643d-9b7c-7ee0-a94b-1e468a724050",
-      "time": "2026-10-22 23:32:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "U.S. 4-week Treasury bill auction on Oct. 22: stop-out yield 3.945% versus 4.00% previously."
-    },
-    {
-      "id": "mkt:01a1643d-993e-7ee0-a94b-16a2102097f4",
-      "time": "2026-10-22 23:32:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US 4-week Treasury auction to Oct. 22 — share allocated at the stop-out rate 32.92%, prior 15.67%."
-    },
-    {
-      "id": "mkt:01a1643d-799c-7ee0-a94b-0f466059af8f",
-      "time": "2026-10-22 23:31:52",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction Accepted at High (Oct.22) | actual 32.92% | previous 15.67%"
-    },
-    {
-      "id": "mkt:01a1643d-7973-7ee0-a94b-046f2ac2ca9e",
-      "time": "2026-10-22 23:31:52",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction High Yield Rate (Oct.22) | actual 3.945% | previous 4%"
-    },
-    {
-      "id": "mkt:01a1643d-795e-7ee0-a94a-fdfe1d853c49",
-      "time": "2026-10-22 23:31:52",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Oct.22) | actual 2.82 | previous 2.56"
-    },
-    {
-      "id": "5162117",
-      "time": "2026-10-22 23:31:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊藤忠將收購永大日立建機51%的股權。"
-    },
-    {
-      "id": "5162116",
-      "time": "2026-10-22 23:31:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：10月22日23時13分在西藏那曲市巴青縣（北緯32.47度，東經93.80度）發生4.2級地震，震源深度10千米。"
-    },
-    {
-      "id": "5162115",
-      "time": "2026-10-22 23:30:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【普拉達：前三季度收益淨額45.41億歐元，同比增長15%】10月22日訊息，普拉達在港交所公告，截至2026年9月30日止九個月，收益淨額為45.41億歐元，同比增長15%。按品牌劃分，Prada的收益淨額為27.31億歐元，MiuMiu為13.19億歐元，Versace為4.41億歐元，Church’s為2860萬歐元，而其他品牌為2120萬歐元。"
-    },
-    {
-      "id": "5162114",
-      "time": "2026-10-22 23:30:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【義大利銀行板塊重挫約4%】德國DAX 30指數初步收跌1.03%，報25381.30點。法國股指初步收跌1.56%，義大利股指初步收跌2.47%、銀行指數跌4.02%，英國股指初步收跌0.31%。"
-    },
-    {
-      "id": "5162113",
-      "time": "2026-10-22 23:30:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐元區藍籌股指跌約2%】歐洲STOXX 600指數初步收跌1.09%，報637.48點。歐元區STOXX 50指數初步收跌1.99%，報6084.11點。富時泛歐績優300指數初步收跌1.12%，報2543.73點。"
-    },
-    {
-      "id": "te:markets:594304",
-      "time": "2026-10-22 23:30:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: Brazil 10Y Bond Yield Gains by 16 bps — Majority of government bonds yields are lower on Thursday. Top gainers are Brazil 10Y (16bps) and France 10Y (6.99bps). Biggest losers are US 10Y (-11bps), Australia 10Y (-8.60bps), Netherlands 10Y (-8.06bps), Germany 10Y (-7.80bps) and Japan 10Y (-1.44bps)."
-    },
-    {
-      "id": "mkt:01a1643b-6a9d-7ee0-a94a-f3bca5224d00",
-      "time": "2026-10-22 23:29:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "The Russian Defence Ministry said Russian armed forces struck energy facilities that support the operation of Ukrainian defence industry enterprises and logistics centres during the day."
-    },
-    {
-      "id": "5162112",
-      "time": "2026-10-22 23:28:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱在黑海擊中兩艘貨船。"
-    },
-    {
-      "id": "mkt:01a1643a-a5f4-7ee0-a94a-eabcfe2d0e33",
-      "time": "2026-10-22 23:28:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Nigeria's naira fell 1.9% against the dollar, its largest decline since March 2026."
-    },
-    {
-      "id": "mkt:01a1643a-7f8c-7ee0-a94a-e6a385a2d044",
-      "time": "2026-10-22 23:28:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said if the Iranian regime dares to interfere in Israel's election, Israel will respond with overwhelming force."
-    },
-    {
-      "id": "5162111",
-      "time": "2026-10-22 23:28:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "奈及利亞奈拉兌美元貶值1.9%，為2026年3月以來最大跌幅。"
     }
   ]
 }

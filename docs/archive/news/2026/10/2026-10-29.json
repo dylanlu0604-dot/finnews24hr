@@ -1,7 +1,65 @@
 {
   "date": "2026-10-29",
-  "count": 2466,
+  "count": 2472,
   "items": [
+    {
+      "id": "te:markets:596394",
+      "time": "2026-10-29 23:30:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Zambia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Zambia 10Y Bond Yield Hits 14-year Low — Zambia 10 Year Government Bond Yield decreased to 14.75%, the lowest since October 2012. Over the past 4 weeks, Zambia Government Bond 10y lost 103.00 basis points, and in the last 12 months, it decreased 347.00 basis points."
+    },
+    {
+      "id": "5180371",
+      "time": "2026-10-29 23:30:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "加密貨幣交易所庫幣（KuCoin）：將立即停止為俄羅斯及白俄羅斯客戶提供服務。"
+    },
+    {
+      "id": "te:markets:596393",
+      "time": "2026-10-29 23:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Gains by 13 bps — Majority of government bonds yields are lower on Thursday. Top gainers are Brazil 10Y (13bps) and Japan 10Y (0.81bps). Biggest losers are United Kingdom 10Y (-8.33bps), Portugal 10Y (-7.91bps), New Zealand 10Y (-5.90bps), Germany 10Y (-4.38bps) and US 10Y (-4.10bps)."
+    },
+    {
+      "id": "5180370",
+      "time": "2026-10-29 23:29:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌執行長表示，協商交易的機會越來越多，包括在科威特、利比亞、伊拉克和委內瑞拉。"
+    },
+    {
+      "id": "5180369",
+      "time": "2026-10-29 23:28:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行訊息人士：歐洲央行政策制定者計劃在 12 月加息，隨後暫停加息。"
+    },
+    {
+      "id": "5180368",
+      "time": "2026-10-29 23:28:19",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行訊息人士稱，歐洲央行工作人員最新預測顯示，與9月基線情景相比，債券收益率上升將在2027至2028年累計使經濟增長減少100個基點，使通脹降低90個基點。"
+    },
     {
       "id": "5180367",
       "time": "2026-10-29 23:26:39",
