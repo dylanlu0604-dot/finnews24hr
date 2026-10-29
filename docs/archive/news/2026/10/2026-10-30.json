@@ -1,7 +1,129 @@
 {
   "date": "2026-10-30",
-  "count": 350,
+  "count": 363,
   "items": [
+    {
+      "id": "5180654",
+      "time": "2026-10-30 04:36:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克預計本財年結束後將在北美開設更多門店。"
+    },
+    {
+      "id": "5180653",
+      "time": "2026-10-30 04:36:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "Reddit執行長在電話會議上表示：搜尋推薦趨勢並不決定我們的相關性，也不定義我們的未來。"
+    },
+    {
+      "id": "5180652",
+      "time": "2026-10-30 04:35:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局訊息，阿拉斯加福爾斯帕斯以南143公里處發生5.0級地震。"
+    },
+    {
+      "id": "te:markets:596446",
+      "time": "2026-10-30 04:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.25% Lower — The Dow Jones Index fell 133 points or 0.25 percent on Thursday to close at 52343 points. Leading the losses are Alphabet (-12.71%), Caterpillar (-9.28%) and Salesforce (-4.63%). Top gainers were Merck (3.80%), Home Depot (3.51%) and Boeing (3.41%)."
+    },
+    {
+      "id": "5180651",
+      "time": "2026-10-30 04:35:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "星巴克預計2027財年北美公司自營門店新開數量將減少。"
+    },
+    {
+      "id": "5180650",
+      "time": "2026-10-30 04:34:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克計劃在2027財年對北美2000家門店進行改造。"
+    },
+    {
+      "id": "5180649",
+      "time": "2026-10-30 04:34:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大航空：更新後的全年展望顯示，第四季度運力和調整後的單位可用座位成本的剩餘波動有限，使公司能夠收窄對運營指標的預期。"
+    },
+    {
+      "id": "mkt:01a1895f-17b9-7ee0-a9ee-f16ad6c92260",
+      "time": "2026-10-30 04:34:32",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "Greek prime minister called on the EU to deploy additional naval forces to the Red Sea \"Aspides\" operation."
+    },
+    {
+      "id": "5180648",
+      "time": "2026-10-30 04:34:21",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：加拿大豐業銀行間接收購MapleMark。"
+    },
+    {
+      "id": "mkt:01a1895e-9c72-7ee0-a9ee-efe5105534e0",
+      "time": "2026-10-30 04:34:01",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Greece's prime minister reaffirmed support for imposing economic sanctions on Russia."
+    },
+    {
+      "id": "mkt:01a1895e-9762-7ee0-a9ee-e4ed38f6717a",
+      "time": "2026-10-30 04:34:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Greek prime minister says Greek shipowners are prepared to resume Black Sea trade if safe passage can be ensured."
+    },
+    {
+      "id": "5180647",
+      "time": "2026-10-30 04:33:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Reddit擬調整戰略，限制未登入使用者的訪問】社交論壇平臺Reddit表示，計劃將使用者體驗轉向以登入賬戶為主的模式，以提高使用者參與度，並改善持續推動公司業績穩健增長的廣告業務。Reddit執行長Steve Huffman週四宣佈，公司最終將限制未註冊賬戶的使用者能夠訪問平臺的內容範圍。Reddit計劃在第四季度於美國以外市場開始測試不同方案。這一戰略標誌著Reddit的重大轉變。過去20年來，公司一直允許使用者無需註冊賬戶即可瀏覽其論壇。"
+    },
+    {
+      "id": "5180646",
+      "time": "2026-10-30 04:33:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "希臘總理：敦促利比亞“認真”參與與希臘的會談，並呼籲全球停火以保護黑海航運。土耳其與利比亞的海上協議“非法且無效”。若能確保安全通行，希臘船東準備恢復黑海貿易。支援對俄羅斯實施經濟制裁。"
+    },
     {
       "id": "mkt:01a1895d-e3d6-7ee0-a9ee-dd30c36f96fa",
       "time": "2026-10-30 04:33:14",
