@@ -1,7 +1,18 @@
 {
   "date": "2026-10-31",
-  "count": 500,
+  "count": 501,
   "items": [
+    {
+      "id": "te:markets:596966",
+      "time": "2026-10-31 06:35:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Slumps by 5.79% — Top commodity losers are Silver (-5.79%), Platinum (-3.94%) and Gold (-3.62%)."
+    },
     {
       "id": "5183689",
       "time": "2026-10-31 06:30:34",
