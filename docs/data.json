@@ -1,7 +1,128 @@
 {
-  "updated": "2026-10-30 14:56:22",
-  "count": 13124,
+  "updated": "2026-10-30 15:00:41",
+  "count": 13127,
   "items": [
+    {
+      "id": "mkt:01a18b9b-09da-7ee0-a9fc-e466c911bece",
+      "time": "2026-10-30 14:59:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "A-shares plunged in late trade: Shanghai Composite fell 1.5%, Shenzhen Composite Index fell 2.65%, ChiNext Index fell over 4%, STAR 50 Index fell 5.58%."
+    },
+    {
+      "id": "5181640",
+      "time": "2026-10-30 14:59:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百度升級搜尋 AI API：千次僅需 4.9 元，低於 DeepSeek】百度 App在北京舉辦產品升級溝通會。百度搜尋實現遞迴自我進化，並新升級搜尋 AI API，活動期間最低價僅需 4.9 元/千次，低於 DeepSeek 搜尋 API。同時圍繞搜尋框、AI 鏡頭、GUI 視覺化、AI 互動應用等方向推出重大升級，給使用者帶來更智慧、更聰明、更好玩的體驗，在助力使用者“搞定一切”上更進一步。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a18b9a-af90-7ee0-a9fc-dd90bbcc27ee",
+      "time": "2026-10-30 14:58:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor Ueda said medium- to long-term inflation expectations anchored around 2% remain very low."
+    },
+    {
+      "id": "5181639",
+      "time": "2026-10-30 14:58:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄國防部稱俄軍凌晨打擊烏軍工、能源和港口設施】10月30日，據俄國防部通報，俄聯邦武裝力量當日凌晨使用陸基高精度武器和無人機，對烏克蘭軍工企業、保障其運轉的能源設施、港口基礎設施及用於烏軍的海上船舶實施大規模打擊。通報稱，在基輔市和基輔州，俄軍擊中一家生產偵察和攻擊無人機元件、包括遠端無人機元件的導彈部件工廠，以及一座組裝和儲存遠端和中程無人機的車間。另有一座330千伏變電站被擊中，該變電站保障基輔軍工企業運轉。在第聶伯羅彼得羅夫斯克州，一座330千伏變電站被擊中，該變電站保障當地軍工企業運轉。另外，在黑海，一艘向敖德薩港運送軍用物資和軍民兩用貨物的乾貨船被擊中。（央視新聞）"
+    },
+    {
+      "id": "5181638",
+      "time": "2026-10-30 14:57:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧德時代全球首發超高容量儲能系統TENER+】記者從寧德時代獲悉，10月28日，寧德時代在All Energy Australia 2026展會上釋出了新一代超高容量儲能系統TENER+，並首次在澳大利亞展出鈉離子電池儲能系統TENER Sodium。TENER+是一款容量達9 MWh的超高容量儲能系統。TENER Sodium是全球首款實現量產並經過實證驗證的鈉離子電池儲能系統。展會期間，寧德時代還與日立能源、EPEC Group及悉尼新南威爾士大學分別簽署合作諒解備忘錄，圍繞大型儲能專案的電網接入、系統整合和專業人才培養開展合作。"
+    },
+    {
+      "id": "5181637",
+      "time": "2026-10-30 14:57:21",
+      "tags": [
+        "公司",
+        "焦點",
+        "A股"
+      ],
+      "text": "【中際旭創A股成交額超200億元】10月30日下午，中際旭創A股成交額超200億元，現跌4.65%。"
+    },
+    {
+      "id": "5181636",
+      "time": "2026-10-30 14:57:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太平養老保險公司增資至33.3億】天眼查App顯示，近日，太平養老保險股份有限公司發生工商變更，註冊資本由30億元人民幣增至約33.3億元人民幣。該公司成立於2005年1月，法定代表人為王幹，經營範圍包括團體養老保險及年金業務、個人養老保險及年金業務、短期健康保險業務等，由中國太平保險控股有限公司、龍璧工業區管理（深圳）有限公司共同持股。"
+    },
+    {
+      "id": "mkt:01a18b99-0679-7ee0-a9fc-d6b98394bad6",
+      "time": "2026-10-30 14:57:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【China's compute electricity use set to rise >100 bln kWh p.a. in 15th Five-Year Plan, NEA says】China's National Energy Administration said at a press briefing that electricity consumption for computing capacity is expected to increase by more than 100 billion kWh per year during the 15th Five-Year Plan. It projects compute-related power demand will reach 800 billion kWh by 2030, about 6% of national electricity consumption."
+    },
+    {
+      "id": "5181635",
+      "time": "2026-10-30 14:57:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌4.00%，現報2416.856點；上證指數跌1.49%，現報3596.917點；深證成指跌2.65%，現報10842.907點。"
+    },
+    {
+      "id": "mkt:01a18b98-6443-7ee0-a9fc-ced70c08d05f",
+      "time": "2026-10-30 14:56:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's finance minister said a budget is needed to bolster confidence and support the economy."
+    },
+    {
+      "id": "5181634",
+      "time": "2026-10-30 14:56:17",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【“十五五”全國算力用電量預計年均新增1000億千瓦時以上】記者從國家能源局今天舉行的新聞釋出會上瞭解到，預計“十五五”時期，全國算力用電量年均新增1000億千瓦時以上，到2030年將達到8000億千瓦時，佔全社會用電量的6%左右。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a18b98-381f-7ee0-a9fc-c61079b1c97e",
+      "time": "2026-10-30 14:56:11",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France's finance minister said the French economy will stagnate in 2026."
+    },
     {
       "id": "mkt:01a18b98-0ad6-7ee0-a9fc-b832eadd89ae",
       "time": "2026-10-30 14:55:59",
@@ -9,6 +130,15 @@
         "MKT News"
       ],
       "text": "BOJ Governor Ueda said he will not comment on whether to revise the joint statement with the government."
+    },
+    {
+      "id": "5181633",
+      "time": "2026-10-30 14:55:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄媒：繞過不友好國家，俄代表團飛行超20小時抵達美國亞特蘭大參加G20活動】據塔斯社10月30日報道，俄羅斯外長拉夫羅夫率團抵達美國亞特蘭大，將參加二十國集團（G20）外長會。報道稱，俄羅斯代表團所乘專機從莫斯科出發，繞過對俄不友好國家的領空，飛行20小時10分鐘後抵達亞特蘭大。(環球網)"
     },
     {
       "id": "5181632",
@@ -145,6 +275,15 @@
         "其他"
       ],
       "text": "【國家醫療保障局黨組召開會議傳達學習貫徹黨的二十屆五中全會精神】10月30日上午，國家醫療保障局黨組召開會議，認真傳達學習黨的二十屆五中全會精神，研究學習宣傳貫徹的具體措施。局黨組書記、局長章軻同志主持會議並作工作部署。會議強調，要把學習宣傳貫徹全會精神同貫徹落實全國衛生與健康大會精神結合起來，同抓緊抓實中央巡視整改結合起來，同高質量完成醫療保障年度重點工作任務結合起來，一體部署、一體推動、一體落實，以高質量黨建促進醫療保障事業高質量發展。要堅持為人民出政績、以實幹出政績，健全多層次醫療保障體系，全面推進基本醫保省級統籌，全面推行長期護理保險制度，為人民群眾提供全生命週期保障，加強醫保目錄和支付管理，強化醫藥價格管理，提升醫保服務管理質效，積極支援醫藥科技創新，堅決打擊欺詐騙保。要把推進醫療、醫保、醫藥協同發展和治理作為醫藥衛生體制改革的主攻方向，統籌基金安全執行、醫院良性運轉和群眾負擔合理，合理調整醫療服務價格，將符合要求的疫苗和特醫食品納入醫保個賬支付白名單，全面推進醫保個賬跨省共濟，深入開展醫保講政策、講資料、講服務、講案例活動，在“三醫”協同聯動中發揮醫保作用，作出醫保貢獻。(國家醫保局)"
+    },
+    {
+      "id": "em:qqyh_rbyh:202610303916395873",
+      "time": "2026-10-30 14:52:24",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行行長植田和男稱，日本央行不打算在某個時點正式宣佈已實現物價目標。"
     },
     {
       "id": "mkt:01a18b94-856b-7ee0-a9fc-9102119723e1",
@@ -118760,99 +118899,6 @@
         "市場"
       ],
       "text": "義大利埃尼集團公佈第三季度業績、宣佈特別股息並增加回購計劃後，其股價上漲2.5%。"
-    },
-    {
-      "id": "5163593",
-      "time": "2026-10-23 15:00:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.27%】TrendForce資料顯示，10月23日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.27%，DDR4 16Gb (2Gx8) 3200現貨均價較上日下跌0.30%，DDR4 8Gb (1Gx8) 3200現貨均價較上日上漲0.23%。"
-    },
-    {
-      "id": "5163592",
-      "time": "2026-10-23 15:00:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈薩克中央銀行將基準利率從16.25%下調至15.75%。"
-    },
-    {
-      "id": "5163591",
-      "time": "2026-10-23 15:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤普跌，德國DAX指數跌1.07%，英國富時100指數跌0.26%，法國CAC40指數跌1.39%，歐洲斯托克50指數跌1.94%，義大利富時MIB指數跌2.54%。"
-    },
-    {
-      "id": "5163590",
-      "time": "2026-10-23 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲1.69%， 滬深300指數期貨連續漲1.69%， 中證500指數期貨連續漲1.83%， 上證50指數期貨連續漲1.27%。"
-    },
-    {
-      "id": "5163589",
-      "time": "2026-10-23 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】燃料油連續漲6.80%，液化石油氣連續漲6.12%，低硫燃料油連續漲5.72%，白銀連續跌5.23%，丙烯連續漲4.89%，聚丙烯連續漲3.91%，純苯連續漲3.52%，瀝青連續漲3.38%，丁二烯橡膠連續漲3.29%，上海原油連續漲3.26%。"
-    },
-    {
-      "id": "5163588",
-      "time": "2026-10-23 14:59:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【興業證券王涵：中國資產配置價值進一步凸顯】興業證券全球首席經濟學家王涵在接受證券時報記者採訪時表示，經過前期較為充分的調整，市場悲觀情緒已在較大程度上得到釋放。王涵表示，從中長期看，全球風險收益格局的變化，反而有望進一步凸顯中國資產的相對確定性和戰略配置價值。當前，海外經濟金融環境的不確定性正在上升，歐洲部分國家政治與財政風險交織，中東地緣局勢存在進一步升級的可能，美國科技企業大規模投資的商業化回報也開始受到市場重新審視。中國宏觀政策保持較強的連續性和穩定性，人民幣匯率展現出較強韌性，完整的產業體系、超大規模市場和豐富的應用場景構成了中國資產的獨特優勢。王涵認為，短期市場調整與中國經濟中長期發展前景之間已經出現一定程度的背離。當前中國經濟增長及企業盈利保持韌性，部分資產估值已回到具有吸引力的水平。隨著短期外部擾動逐步消化，市場有望更加充分地認識中國經濟、政策和產業發展的獨特優勢。"
-    },
-    {
-      "id": "te:markets:594530",
-      "time": "2026-10-23 14:59:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Stocks Pare Losses as Tech Selloff Eases — Japan’s Nikkei 225 Index fell as much as 2.3% before recovering to close 0.34% lower at 62,693 on Friday, as selling pressure in technology and artificial intelligence stocks began to ease. Despite the late-session recovery, the benchmark index declined 4% for the week, marking its second consecutive weekly loss as investors shifted away from high-performing tech and AI shares toward safer assets, including government bonds. Market sentiment was also weighed down by escalating tensions in the Middle East, following reports that the US and Israel had prepared plans for possible renewed strikes against Iran after next month’s midterm elections. Several major index constituents remained under pressure, including Taiyo Yuden (-3.9%), Disco Corp (-3.8%), Mitsubishi UFJ (-2.3%), Hitachi (-4.4%) and Nintendo (-1.8%). Meanwhile, Japan’s inflation accelerated in September, rising above the Bank of Japan’s 2% target and reinforcing expectations of another interest rate hike this year."
-    },
-    {
-      "id": "5163587",
-      "time": "2026-10-23 14:59:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內漲2%，現報5112.00元。"
-    },
-    {
-      "id": "5163586",
-      "time": "2026-10-23 14:58:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部部長助理蔡偉會見聯合國政策事務副秘書長萊德】2026年10月23日，外交部部長助理蔡偉會見來華訪問的聯合國政策事務副秘書長萊德。(外交部網站)"
-    },
-    {
-      "id": "5163583",
-      "time": "2026-10-23 14:56:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "交易員：歐萊雅第三季度營收超預期，股價預計上漲4%-6%。"
-    },
-    {
-      "id": "5163582",
-      "time": "2026-10-23 14:56:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【18個月內 美國執行驅逐出境98萬起】美國智庫移民政策研究所22日釋出的報告顯示，2025年1月美國現任政府上臺後，18個月內，國土安全部累計執行約98萬起驅逐出境。其中，僅20%涉及定罪人員。(新華社)"
     }
   ]
 }
