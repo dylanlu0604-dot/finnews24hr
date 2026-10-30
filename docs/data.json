@@ -1,7 +1,123 @@
 {
-  "updated": "2026-10-30 09:07:20",
-  "count": 13129,
+  "updated": "2026-10-30 09:11:09",
+  "count": 13130,
   "items": [
+    {
+      "id": "mkt:01a18a5b-f58e-7ee0-a9f3-ffd2bd4f4934",
+      "time": "2026-10-30 09:10:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 20-year bond yield fell 5 bps to 3.620%."
+    },
+    {
+      "id": "te:markets:596501",
+      "time": "2026-10-30 09:09:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Slide as Tech Selloff Intensifies — Asian stock markets declined on Friday, mirroring losses on Wall Street as technology and artificial intelligence shares came under renewed selling pressure following disappointing earnings from major US tech companies. In after-hours trading, Amazon plunged around 7% after revealing a sharp increase in capital expenditures, while Intel sank 23% after providing a weaker-than-expected quarterly outlook and pointing to a slowdown in the PC market. Concerns over AI-related investments have also weighed on Asian markets, triggering significant losses among major South Korean and Japanese technology companies, including Samsung Electronics (-4%), SK Hynix (-7%), Kioxia Holdings (-9%), Advantest (-8%) and SoftBank Group (-5%). South Korea’s Kospi Index dropped more than 4%, while Japan’s Nikkei 225 declined over 2%."
+    },
+    {
+      "id": "5181015",
+      "time": "2026-10-30 09:08:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞證券與投資委員會（ASIC）：預測市場使用者不受澳大利亞法律保護。"
+    },
+    {
+      "id": "mkt:01a18a5a-4f7d-7ee0-a9f3-f7d5bfef929b",
+      "time": "2026-10-30 09:08:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Copper"
+      ],
+      "text": "【AVIC Optoelectronics: gold's cost impact smaller than budgeted; copper and silver are primary cost pressures】At a results briefing AVIC Optoelectronics said year-to-date gold has been volatile but its impact on input costs is smaller than the company budgeted. The firm cited copper and silver as the main cost pressures, saying its large-volume, low-unit-price civilian business makes copper and silver’s effect exceed gold’s. The company said it will continue active cost controls."
+    },
+    {
+      "id": "5181014",
+      "time": "2026-10-30 09:08:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬得凱：3D列印業務尚處研傳送樣及客戶拓展階段】萬得凱10月30日在互動平臺表示，公司3D列印業務尚處於研傳送樣及客戶拓展階段，暫未形成實質性銷售收入。"
+    },
+    {
+      "id": "5181013",
+      "time": "2026-10-30 09:08:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中航光電：金價對成本影響比年初預算要小 主要壓力來自銅和銀】中航光電(002179)10月29日在業績說明會表示，今年以來黃金價格波動大，目前來看金價對於成本的影響，比年初預算要小，主要壓力來自銅和銀，由於民品業務量大且單價相對較低，銅價和銀價的影響已明顯超出黃金的影響，公司也將在成本管控方面持續努力，頂壓前行。"
+    },
+    {
+      "id": "mkt:01a18a59-8e53-7ee0-a9f3-e9ea71f35e57",
+      "time": "2026-10-30 09:08:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing Hyundai board stalled for a year; first Chinese general manager to depart】Beijing Hyundai general manager Li Fenggang will formally step down on Nov 1, roughly one year after he took the role on Nov 10, 2025. Sources say his exit reflects strategic splits between the JV's 50:50 Chinese and Korean shareholders over development direction. Over the past year the partners failed to agree on core issues including operating targets and the scale of cost cuts, stalling localization reforms; Li, the JV's first Chinese national GM, was at the center of the dispute."
+    },
+    {
+      "id": "mkt:01a18a59-3f58-7ee0-a9f3-e4de03fa112d",
+      "time": "2026-10-30 09:07:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold falls below $4,000/oz】Spot gold slipped below $4,000/oz, down 0.53% intraday. Spot silver fell $1 to $51.16/oz, down 1.92% intraday."
+    },
+    {
+      "id": "mkt:01a18a59-370d-7ee0-a9f3-dcd68aae090f",
+      "time": "2026-10-30 09:07:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Front-month platinum contract fell 4.00% intraday to 356.85 yuan/gram."
+    },
+    {
+      "id": "5181012",
+      "time": "2026-10-30 09:07:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.4%至32.622。"
+    },
+    {
+      "id": "5181011",
+      "time": "2026-10-30 09:07:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌幅擴大至1%。"
+    },
+    {
+      "id": "5181010",
+      "time": "2026-10-30 09:07:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內跌4%，現報356.85元。"
+    },
     {
       "id": "mkt:01a18a58-81d4-7ee0-a9f3-d5f70d2ff22c",
       "time": "2026-10-30 09:06:58",
@@ -118503,115 +118619,6 @@
         "市場"
       ],
       "text": "【青花郎、古井貢古20重挫 普五四連陰跌至789元 飛天茅臺零售均價小幅上漲】新浪財經“酒價內參”過去24小時收集的資料顯示，10月23日中國白酒業12大單品的終端零售均價兩漲七跌三平，下跌品種繼續佔據多數，且跌幅明顯大於上漲端，整體價盤連續第三日下行。上漲端，飛天茅臺小幅上漲1元至1789元，結束此前四連陰，低位小幅修復；國窖1573上漲1元至888元，昨日平盤後微幅回升，短線跌勢暫時緩和。下跌端，精品茅臺下跌2元至2458元，三連陰持續調整，繼續向下尋底；五糧液普五八代下跌5元至789元，四連陰累計下挫18元，跌破800元后弱勢進一步加深；五糧液1618下跌1元至829元，連續第二日小幅回落；青花汾20下跌3元至386元，三連陰持續探底，近三日從400元關口一路下滑；洋河夢之藍M6+下跌2元至605元，連續兩日回落，跌破近期趨勢線；古井貢古20大跌9元至518元，連續第三日大幅走弱，前期反彈漲幅全部回吐還有虧空；青花郎再跌9元至690元，700元關口失守後跌勢繼續擴大，淪為今日跌幅最大單品之一。持平方面，茅臺1935維持684元不變，連續第四日平盤；習酒君品保持632元，兩連跌後轉入橫盤整理；水晶劍南春維持409元不變，連續回落後暫時企穩。\n\n今日12大單品的終端零售總價繼續下探，七款產品價格下跌，其中古井貢古20、青花郎和五糧液普五八代的跌幅較為突出，上漲端僅飛天茅臺和國窖1573小幅回升，未能扭轉整體弱勢。如果12大單品各取一瓶整體打包售賣，今日總售價為10677元，較昨日再跌29元，連續第三日下行，並創下近37天以來最低紀錄。"
-    },
-    {
-      "id": "mkt:01a1664f-221f-7ee0-a952-7d5b7a1f7c24",
-      "time": "2026-10-23 09:10:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "China oil-complex futures rallied: SC crude main contract up 3.16% at 724.2 yuan/barrel; low-sulfur fuel oil (LU) up 4.89% at 6,221 yuan/ton; fuel oil up 4.51% at 5,029 yuan/ton; asphalt (bitumen) up 0.97% at 4,992 yuan/ton. LPG main contract rose 301.00 yuan, or 4.40%, to 7,149 yuan/ton."
-    },
-    {
-      "id": "5162996",
-      "time": "2026-10-23 09:09:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內漲5%，現報7191.00元。"
-    },
-    {
-      "id": "mkt:01a1664d-e74b-7ee0-a952-72bbac6b3b99",
-      "time": "2026-10-23 09:09:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude up more than 1.00% intraday, trading at 99.66 dlr/bbl."
-    },
-    {
-      "id": "5162995",
-      "time": "2026-10-23 09:08:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲5%，現報5053.00元。"
-    },
-    {
-      "id": "5162994",
-      "time": "2026-10-23 09:08:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲2%，現報6552.00元。"
-    },
-    {
-      "id": "5162993",
-      "time": "2026-10-23 09:08:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破114美元/桶，日內漲0.74%。"
-    },
-    {
-      "id": "5162992",
-      "time": "2026-10-23 09:08:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內漲5%，現報6228.00元。"
-    },
-    {
-      "id": "5162991",
-      "time": "2026-10-23 09:08:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內漲3%，現報9544.00元。"
-    },
-    {
-      "id": "te:markets:594414",
-      "time": "2026-10-23 09:08:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Asian Stocks Track Wall Street Lower — Asian stocks fell sharply on Friday, mirroring overnight losses on Wall Street as growing concerns over the sustainability of artificial intelligence investments triggered a broad selloff in technology shares. Semiconductor makers, memory chip producers and other AI-related companies recorded significant declines, while investors moved toward safer assets such as government bonds and the yen. Sentiment was further weighed down by escalating tensions in the Middle East, following reports that the US and Israel had drawn up plans for possible renewed strikes against Iran after next month’s midterm elections. Technology-heavy markets in Japan and South Korea led regional losses, with the Nikkei 225 and KOSPI Composite each falling nearly 2%."
-    },
-    {
-      "id": "5162990",
-      "time": "2026-10-23 09:08:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大連前三季度地區生產總值7726.7億元，同比增長5.3%】10月23日，大連市統計局、國家統計局大連調查隊公佈前三季度全市經濟執行情況，根據遼寧省地區生產總值統一核算結果，前三季度，全市地區生產總值7726.7億元，按不變價格計算，同比增長5.3%。分產業看，第一產業增加值384.2億元，同比增長3.2%；第二產業增加值2709.5億元，增長5.0%；第三產業增加值4633.0億元，增長5.6%。"
-    },
-    {
-      "id": "5162989",
-      "time": "2026-10-23 09:07:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部啟動水利抗震救災排程指揮機制】2026年10月22日22時33分，西藏那曲市巴青縣（北緯32.4度，東經93.79度）發生7.0級地震，震源深度10千米。水利部迅即啟動水利抗震救災排程指揮機制，受國家防總副總指揮、水利部部長李國英委託，水利部副部長王寶恩主持專題會商會，分析地震對水利工程和農村供水影響，研判震區雨水情形勢，安排部署水利抗震救災工作。(新華社)"
     }
   ]
 }

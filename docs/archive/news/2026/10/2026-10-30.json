@@ -1,7 +1,123 @@
 {
   "date": "2026-10-30",
-  "count": 894,
+  "count": 906,
   "items": [
+    {
+      "id": "mkt:01a18a5b-f58e-7ee0-a9f3-ffd2bd4f4934",
+      "time": "2026-10-30 09:10:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 20-year bond yield fell 5 bps to 3.620%."
+    },
+    {
+      "id": "te:markets:596501",
+      "time": "2026-10-30 09:09:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Slide as Tech Selloff Intensifies — Asian stock markets declined on Friday, mirroring losses on Wall Street as technology and artificial intelligence shares came under renewed selling pressure following disappointing earnings from major US tech companies. In after-hours trading, Amazon plunged around 7% after revealing a sharp increase in capital expenditures, while Intel sank 23% after providing a weaker-than-expected quarterly outlook and pointing to a slowdown in the PC market. Concerns over AI-related investments have also weighed on Asian markets, triggering significant losses among major South Korean and Japanese technology companies, including Samsung Electronics (-4%), SK Hynix (-7%), Kioxia Holdings (-9%), Advantest (-8%) and SoftBank Group (-5%). South Korea’s Kospi Index dropped more than 4%, while Japan’s Nikkei 225 declined over 2%."
+    },
+    {
+      "id": "5181015",
+      "time": "2026-10-30 09:08:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞證券與投資委員會（ASIC）：預測市場使用者不受澳大利亞法律保護。"
+    },
+    {
+      "id": "mkt:01a18a5a-4f7d-7ee0-a9f3-f7d5bfef929b",
+      "time": "2026-10-30 09:08:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Copper"
+      ],
+      "text": "【AVIC Optoelectronics: gold's cost impact smaller than budgeted; copper and silver are primary cost pressures】At a results briefing AVIC Optoelectronics said year-to-date gold has been volatile but its impact on input costs is smaller than the company budgeted. The firm cited copper and silver as the main cost pressures, saying its large-volume, low-unit-price civilian business makes copper and silver’s effect exceed gold’s. The company said it will continue active cost controls."
+    },
+    {
+      "id": "5181014",
+      "time": "2026-10-30 09:08:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬得凱：3D列印業務尚處研傳送樣及客戶拓展階段】萬得凱10月30日在互動平臺表示，公司3D列印業務尚處於研傳送樣及客戶拓展階段，暫未形成實質性銷售收入。"
+    },
+    {
+      "id": "5181013",
+      "time": "2026-10-30 09:08:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中航光電：金價對成本影響比年初預算要小 主要壓力來自銅和銀】中航光電(002179)10月29日在業績說明會表示，今年以來黃金價格波動大，目前來看金價對於成本的影響，比年初預算要小，主要壓力來自銅和銀，由於民品業務量大且單價相對較低，銅價和銀價的影響已明顯超出黃金的影響，公司也將在成本管控方面持續努力，頂壓前行。"
+    },
+    {
+      "id": "mkt:01a18a59-8e53-7ee0-a9f3-e9ea71f35e57",
+      "time": "2026-10-30 09:08:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing Hyundai board stalled for a year; first Chinese general manager to depart】Beijing Hyundai general manager Li Fenggang will formally step down on Nov 1, roughly one year after he took the role on Nov 10, 2025. Sources say his exit reflects strategic splits between the JV's 50:50 Chinese and Korean shareholders over development direction. Over the past year the partners failed to agree on core issues including operating targets and the scale of cost cuts, stalling localization reforms; Li, the JV's first Chinese national GM, was at the center of the dispute."
+    },
+    {
+      "id": "mkt:01a18a59-3f58-7ee0-a9f3-e4de03fa112d",
+      "time": "2026-10-30 09:07:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold falls below $4,000/oz】Spot gold slipped below $4,000/oz, down 0.53% intraday. Spot silver fell $1 to $51.16/oz, down 1.92% intraday."
+    },
+    {
+      "id": "mkt:01a18a59-370d-7ee0-a9f3-dcd68aae090f",
+      "time": "2026-10-30 09:07:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Front-month platinum contract fell 4.00% intraday to 356.85 yuan/gram."
+    },
+    {
+      "id": "5181012",
+      "time": "2026-10-30 09:07:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.4%至32.622。"
+    },
+    {
+      "id": "5181011",
+      "time": "2026-10-30 09:07:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌幅擴大至1%。"
+    },
+    {
+      "id": "5181010",
+      "time": "2026-10-30 09:07:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內跌4%，現報356.85元。"
+    },
     {
       "id": "mkt:01a18a58-81d4-7ee0-a9f3-d5f70d2ff22c",
       "time": "2026-10-30 09:06:58",
