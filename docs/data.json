@@ -1,7 +1,278 @@
 {
-  "updated": "2026-10-30 14:29:28",
-  "count": 13032,
+  "updated": "2026-10-30 14:33:17",
+  "count": 13046,
   "items": [
+    {
+      "id": "5181550",
+      "time": "2026-10-30 14:32:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長：日本經濟正在溫和復甦。"
+    },
+    {
+      "id": "mkt:01a18b82-5cd3-7ee0-a9fb-965d5b564c0e",
+      "time": "2026-10-30 14:32:18",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【UOB: euro likely to extend gains but sustained rally remains uncertain】UOB strategists Quek Ser Leang and Lee Sue said EUR/USD rebounded strongly after an early New York-session sell-off, prompting the bank to shift from bearish to cautiously optimistic. They expect the euro to test higher resistance, but continuation depends on whether nearby support holds; failure to hold would likely return EUR/USD to range-bound trading rather than a sustained uptrend."
+    },
+    {
+      "id": "5181549",
+      "time": "2026-10-30 14:32:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗釋出AI影片：暗示攻擊海底光纜】伊朗媒體近日釋出了一段AI生成的影片，該影片以“再見吧，網際網路”為主題，暗示霍爾木茲海峽海底的重要通訊光纜可能成為伊朗報復的目標。霍爾木茲海峽海底佈設有7條主要海底光纜，全球網際網路約17%的流量透過這些光纜傳輸。海灣國家高度依賴這些基礎設施，尤其是沙烏地阿拉伯和阿聯酋，兩國已經在人工智慧和數字基礎設施領域投入大量資金。"
+    },
+    {
+      "id": "5181548",
+      "time": "2026-10-30 14:31:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.00%，現報10915.292點；上證指數跌1.13%，現報3610.190點；創業板指跌3.09%，現報2439.709點。"
+    },
+    {
+      "id": "5181547",
+      "time": "2026-10-30 14:31:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌3%，現報5310.00元。"
+    },
+    {
+      "id": "5181546",
+      "time": "2026-10-30 14:31:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國進一步健全社會組織退出機制】民政部日前印發《社會組織登出指引》，進一步健全社會組織退出機制，依法有序推進社會組織登出工作。《社會組織登出指引》明確，社會團體、基金會、民辦非企業單位（法人）（以下稱社會組織）終止，一般需經歷解散、清算、登出登記三個主要過程。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a18b81-8ef9-7ee0-a9fb-8a11c1d7299f",
+      "time": "2026-10-30 14:31:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "INSEE: For France in Q3, domestic demand excluding inventories added 0.1 percentage point to GDP, net foreign trade subtracted 0.6 percentage point, inventories contributed 0.4 percentage point."
+    },
+    {
+      "id": "5181545",
+      "time": "2026-10-30 14:31:09",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市集體收跌】日經225指數收跌2.12%，報63290.11點。韓國綜指收跌3.53%，報5728.04點。"
+    },
+    {
+      "id": "mkt:01a18b81-0456-7ee0-a9fb-86a227c2187d",
+      "time": "2026-10-30 14:30:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France Q3 preliminary annualized GDP -0.1% vs consensus 0.3%; prior 0.5%."
+    },
+    {
+      "id": "mkt:01a18b80-f9fa-7ee0-a9fb-7cccf6ed8fcd",
+      "time": "2026-10-30 14:30:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Most-active fuel oil futures fell 2.00% intraday to 5,365 yuan/ton, after earlier briefly rallying more than 3%."
+    },
+    {
+      "id": "mkt:01a18b80-e2d5-7ee0-a9fb-72a507a78570",
+      "time": "2026-10-30 14:30:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | GDP Growth Rate Flash (YoY) (Q3) | actual -0.1% | consensus 0.3% | previous 0.50%"
+    },
+    {
+      "id": "mkt:01a18b80-d313-7ee0-a9fb-68e8bfc42dfa",
+      "time": "2026-10-30 14:30:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France September household consumption YoY -0.4%, vs +0.4% expected and 0.8% prior."
+    },
+    {
+      "id": "mkt:01a18b80-b827-7ee0-a9fb-60ddb4046c13",
+      "time": "2026-10-30 14:30:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Household Consumption Spending (YoY) (Sep) | actual -0.4% | consensus 0.4% | previous 0.80%"
+    },
+    {
+      "id": "mkt:01a18b80-8e71-7ee0-a9fb-5b833506e2b4",
+      "time": "2026-10-30 14:30:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent fell $0.7 intraday to $101.7/bbl and $110.9/bbl, respectively."
+    },
+    {
+      "id": "5181544",
+      "time": "2026-10-30 14:30:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌2%，現報5365.00元。"
+    },
+    {
+      "id": "5181543",
+      "time": "2026-10-30 14:30:10",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國第三季度GDP季率初值 -0.1%，預期0.1%，前值0.00%。法國9月家庭消費支出月率 -0.5%，預期0.2%，前值-0.50%。"
+    },
+    {
+      "id": "te:markets:596626",
+      "time": "2026-10-30 14:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 2.33% Lower — The Nikkei 225 Index decreased 1505 points or 2.33 percent on Friday to close at 63154 points. The decline was led by Fujitsu (-16.20%), Murata Manufacturing (-11.38%) and Lasertec Corp (-10.91%)."
+    },
+    {
+      "id": "mkt:01a18b80-5e23-7ee0-a9fb-543d9cd8acc1",
+      "time": "2026-10-30 14:30:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France household consumption spending MoM (Sep) -0.5% vs consensus +0.2%; prior -0.5%."
+    },
+    {
+      "id": "mkt:01a18b80-59d6-7ee0-a9fb-4a2e2745d42c",
+      "time": "2026-10-30 14:30:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France Q3 preliminary GDP QoQ -0.1% (consensus +0.1%); prior 0.0%."
+    },
+    {
+      "id": "5181542",
+      "time": "2026-10-30 14:30:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月30日：“農產品批發價格200指數”比昨天下降0.05個點】據農業農村部監測，10月30日“農產品批發價格200指數”為111.37，比昨天下降0.05個點，“菜籃子”產品批發價格指數為110.90，比昨天下降0.07個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.29元/公斤，比昨天下降0.6%；牛肉73.44元/公斤，比昨天上升0.2%；羊肉67.57元/公斤，比昨天上升0.3%；雞蛋9.36元/公斤，比昨天上升0.1%；白條雞17.16元/公斤，比昨天上升1.9%。重點監測的28種蔬菜平均價格為4.08元/公斤，比昨天上升0.5%；重點監測的6種水果平均價格為6.62元/公斤，比昨天上升2.3%。鯽魚19.18元/公斤，比昨天上升0.2%；鯉魚13.76元/公斤，比昨天上升0.6%；白鰱魚10.09元/公斤，比昨天上升0.7%；大帶魚41.80元/公斤，比昨天上升5.6%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是大帶魚、菠蘿、西瓜、蔥頭和茄子，幅度分別為5.6%、4.2%、4.1%、3.4%和3.4%；價格降幅前五名的是菜花、豆角、油菜、生薑和豬肉，幅度分別為1.7%、1.1%、1.0%、0.9%和0.6%。"
+    },
+    {
+      "id": "5181541",
+      "time": "2026-10-30 14:30:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌1%，現報965.00元。"
+    },
+    {
+      "id": "mkt:01a18b80-4022-7ee0-a9fb-3be292217c94",
+      "time": "2026-10-30 14:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Household Consumption Spending (MoM) (Sep) | actual -0.5% | consensus 0.2% | previous -0.50%"
+    },
+    {
+      "id": "mkt:01a18b80-4035-7ee0-a9fb-44d2bf5bab8f",
+      "time": "2026-10-30 14:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | GDP Growth Rate Flash (QoQ) (Q3) | actual -0.1% | consensus 0.1% | previous 0.00%"
+    },
+    {
+      "id": "mkt:01a18b7f-e63f-7ee0-a9fb-307f20dce671",
+      "time": "2026-10-30 14:29:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Refinitiv: An official familiar with the negotiations said Qatari mediators returned to Tehran on Friday to continue pushing the US and Iran toward an agreement; the mediation was coordinated with the US."
+    },
+    {
+      "id": "5181540",
+      "time": "2026-10-30 14:29:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "30年期國債期貨下跌近1%，創3月以來最大跌幅。"
+    },
+    {
+      "id": "te:markets:596625",
+      "time": "2026-10-30 14:29:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Bharti Airtel Shares Hit 10-week High — Bharti Airtel shares increased to 1981.00 INR, the highest since August 2026. Over the past 4 weeks, Bharti Airtel gained 13.76%, and in the last 12 months, it decreased 3.6%."
+    },
     {
       "id": "5181539",
       "time": "2026-10-30 14:28:53",
@@ -117801,120 +118072,6 @@
         "其他"
       ],
       "text": "靛藍航空：往返利雅得的靛藍航班將繼續取消至2026年10月31日。"
-    },
-    {
-      "id": "5163538",
-      "time": "2026-10-23 14:32:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "MSCI亞太指數抹平此前最高1.1%的跌幅。"
-    },
-    {
-      "id": "5163537",
-      "time": "2026-10-23 14:31:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "雞蛋連續主力合約日內漲3%，現報3302.00元。"
-    },
-    {
-      "id": "5163536",
-      "time": "2026-10-23 14:31:34",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【日韓股市收盤】日經225指數收盤下跌214.68點，跌幅0.34%，報62693.16點。韓國KOSPI指數收盤上漲16.53點，漲幅0.3%，報5550.3點。SK海力士收漲4.41%，三星電子漲0.46%。"
-    },
-    {
-      "id": "5163535",
-      "time": "2026-10-23 14:30:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "極氪7X在韓國正式開啟交付。"
-    },
-    {
-      "id": "5163534",
-      "time": "2026-10-23 14:30:43",
-      "tags": [
-        "市場",
-        "其他",
-        "焦點"
-      ],
-      "text": "【兩隻主動ETF一日售罄 易方達與摩根募集規模雙雙達到20億】主動ETF首日發行，已有產品觸及首募上限。截至今天下午2點30分，摩根基金、易方達基金的募集規模已觸及20億元的首批主動ETF首募上限，富國基金的募集規模也達到15億元。發售首日，首批18主動ETF的合計募集規模應超百億。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202610233906159730",
-      "time": "2026-10-23 14:30:43",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【廣東前三季度GDP超11萬億元 同比增長4.6%】廣東省統計局釋出2026年前三季度廣東經濟執行簡況，根據地區生產總值統一核算結果，前三季度，廣東實現地區生產總值111090.77億元，按不變價格計算，同比增長4.6%。其中，第一產業增加值3940.61億元，增長4.0%；第二產業增加值41571.79億元，增長4.9%；第三產業增加值65578.38億元，增長4.5%。"
-    },
-    {
-      "id": "te:markets:594520",
-      "time": "2026-10-23 14:30:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Poised to Open Higher — European equity markets were set to open slightly higher on Friday following a sharp decline in the previous session, as investors continued to evaluate the outlook for AI investments. Global equities came under heavy selling pressure on Thursday amid growing concerns over the sustainability of massive AI spending, prompting investors to seek the relative safety of bonds. Rising oil prices, driven by escalating tensions in the Middle East, also kept market sentiment cautious. In Europe, attention will turn to UK retail sales figures and preliminary manufacturing and services activity data from across the region. On the corporate front, Italian energy giant Eni announced plans to increase shareholder returns as the conflict in the Middle East pushed energy prices higher, while Swedish automaker Volvo reported solid third-quarter earnings, supported by improving demand in North America and Europe. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures both gained around 0.1%."
-    },
-    {
-      "id": "te:markets:594519",
-      "time": "2026-10-23 14:30:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.48% Lower — The Nikkei 225 Index fell 304 points or 0.48 percent on Friday to close at 62604 points. Leading the losses are Murata Manufacturing (-5.72%), TDK (-5.70%) and Takara (-5.23%). Top gainers were AEON (4.51%), Shiseido (3.98%) and Sapporo (2.97%)."
-    },
-    {
-      "id": "5163533",
-      "time": "2026-10-23 14:29:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遠也科技推出兩款消費級髖關節外骨骼，計劃明年1月上市】10月23日，遠也科技在2026⻄岸國際科技消費嘉年華（WTCC）上，釋出並首次展示兩款消費級髖關節外骨骼PowrGo H1和PowrGo H1 Ultra，分別面向日常出行和⾼效能戶外運動場景。兩款產品計劃於2027年1月1日上市，屆時將同步拓展國內外銷售渠道。"
-    },
-    {
-      "id": "te:markets:594518",
-      "time": "2026-10-23 14:29:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Ends Flat, Posts First Weekly Loss in 4 Weeks — The ASX 200 closed nearly flat at 8,795 on Friday, reversing a modest decline in the prior session as traders assessed flash PMI data showing a further contraction in Australian factory activity and a deeper downturn in services in October. Meanwhile, U.S. stock futures fell after the Nasdaq posted its steepest daily decline since June Thursday, as high-profile earnings reignited concerns over AI spending. BHP Group tumbled 3.6% amid a sharp drop in copper production and regulatory concerns over Chinese trade agreements. Goodman Group also shed 3.6% amid mounting regulatory scrutiny and concerns over power-grid capacity for Australia's data center infrastructure. In contrast, the four major banks rose between 0.9%–4.4%, benefiting from a defensive rotation away from materials and tech stocks. For the week, the index eased 0.1%, snapping three straight weekly rises, on concerns over a potential fifth interest rate hike this year following hawkish comments from RBA Deputy Gov. Hauser."
-    },
-    {
-      "id": "5163532",
-      "time": "2026-10-23 14:29:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果近期申請註冊iPhone Duo商標】據媒體報道，10月23日，蘋果首款摺疊屏手機iPhone Duo正式開售。天眼查智慧財產權資訊顯示，近日，APPLE INC.（即蘋果公司）申請註冊“IPHONE DUO”商標，國際分類為科學儀器，當前商標狀態為等待實質審查。"
-    },
-    {
-      "id": "5163531",
-      "time": "2026-10-23 14:29:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遠也科技推出兩款消費級髖關節外骨骼，計劃明年1月上市】10月23日，介面新聞獲悉，遠也科技在2026⻄岸國際科技消費嘉年華（WTCC）上，釋出並首次展示兩款消費級髖關節外骨骼PowrGo H1和PowrGo H1 Ultra，分別面向日常出行和⾼效能戶外運動場景。其中，PowrGo H1含電池重量約2.25千克，峰值功率1000瓦，典型助力模式下標稱續航18公里；H1 Ultra含電池重量約2.45千克，峰值功率1500瓦，單電池標稱續航36公里。遠也科技稱，在特定實驗條件下，兩款產品最高可降低行走代謝能耗39%和46%。兩款產品計劃於2027年1月1日上市，屆時將同步拓展國內外銷售渠道。"
     }
   ]
 }
