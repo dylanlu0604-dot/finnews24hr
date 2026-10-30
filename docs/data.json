@@ -1,7 +1,213 @@
 {
-  "updated": "2026-10-30 14:44:48",
-  "count": 13080,
+  "updated": "2026-10-30 14:48:42",
+  "count": 13097,
   "items": [
+    {
+      "id": "mkt:01a18b90-b307-7ee0-a9fc-41b8c4d7a91c",
+      "time": "2026-10-30 14:47:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Changsha issues housing‑sales rules; tightens presale checks, allows unit‑level approvals】Oct. 30 — Changsha Municipal Housing and Urban‑Rural Development Bureau, Municipal Natural Resources and Planning Bureau and the Hunan office of the National Financial Regulatory Administration issued Implementation Opinions to implement the national commercial‑housing sales reform (the Changsha rules). Measures cover six areas: presale classification controls, orderly release of completed homes, sponsor‑bank mechanism, developer financing support, land‑supply optimization and construction management. Presale topping‑out verification is stricter than in Hefei and Chengdu: a single building may only be treated as topped out after the main‑structure roof slab concrete pour, and a signed, stamped Main Structure Subproject Quality Acceptance Record must be issued by construction, survey, design, contractor and supervision parties. Newly released land plots are to be prioritized for completed‑home sales; developers may accept booking deposits after obtaining a construction permit with deposits subject to full supervision, and may file for sales once completion documentation meets standards. Properties and land must be free of mortgage or seizure; mortgagees may consent to sale of mortgaged units but must commit to a mortgage‑cancellation deadline."
+    },
+    {
+      "id": "5181609",
+      "time": "2026-10-30 14:47:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：將監測各類資料，以判斷趨勢通脹是否已穩定。"
+    },
+    {
+      "id": "5181608",
+      "time": "2026-10-30 14:47:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報3989.40美元/盎司。"
+    },
+    {
+      "id": "5181607",
+      "time": "2026-10-30 14:47:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3990美元/盎司，日內跌1.04%。"
+    },
+    {
+      "id": "5181606",
+      "time": "2026-10-30 14:47:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員卡西克表示：如果通脹蔓延，我們將需要做出反應。"
+    },
+    {
+      "id": "5181605",
+      "time": "2026-10-30 14:47:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報50.80美元/盎司。"
+    },
+    {
+      "id": "5181604",
+      "time": "2026-10-30 14:46:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：將徹底分析經濟、價格形勢，在每次政策會議上進行討論。"
+    },
+    {
+      "id": "5181603",
+      "time": "2026-10-30 14:46:39",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【招商局集團：免去石岱的總經理職務】10月30日，招商局集團釋出公告，收到國務院印發的檔案，石岱不再擔任公司董事，經董事會審議，免去其公司總經理職務。今年9月11日，香港中旅（集團）有限公司召開中層以上管理人員大會，中央組織部有關負責同志宣佈黨中央決定：石岱任香港中旅（集團）有限公司董事長，免去其招商局集團有限公司董事、總經理職務。石岱1967年9月生，遼寧丹東人，曾任中國中化集團公司副總經理、全國總工會書記處書記、寧夏回族自治區黨委常委、組織部部長等職，2023年任招商局集團有限公司董事、總經理。"
+    },
+    {
+      "id": "5181602",
+      "time": "2026-10-30 14:46:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內跌6%，現報349.35元。"
+    },
+    {
+      "id": "mkt:01a18b8f-4740-7ee0-a9fc-3b2f82103ac2",
+      "time": "2026-10-30 14:46:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "UEDA, governor of the Bank of Japan, said when asked why the BOJ left its policy rate unchanged today that the bank needs to continue monitoring risks and the impact of financial conditions on the economy and prices."
+    },
+    {
+      "id": "5181600",
+      "time": "2026-10-30 14:46:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員卡西克表示：未來幾周我們很容易看到4%的通脹率。"
+    },
+    {
+      "id": "mkt:01a18b8f-0749-7ee0-a9fc-34321a882b40",
+      "time": "2026-10-30 14:46:08",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "JP Morgan cut Intel (INTC.O) PT to $80 from $85."
+    },
+    {
+      "id": "5181599",
+      "time": "2026-10-30 14:45:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩隻熱門科創、創業ETF成交破百億 多隻A500ETF較昨日放量】創業板ETF易方達（159915）、科創50ETF華夏（588000）成交額再度雙雙突破100億元，多隻A500ETF較昨日全天放量成交：A500ETF華泰柏瑞（563360）成交額68億元，較昨日全天放量6%、A500ETF南方（159352）成交額64億元，較昨日全天放量7%、A500ETF易方達（159361）成交額39億元，較昨日全天放量30%、A500ETF華夏（512050）成交額18億元，較昨日全天放量61%。"
+    },
+    {
+      "id": "5181598",
+      "time": "2026-10-30 14:45:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男被問及為何日本央行今日維持政策利率不變時表示，需要多花一點時間來監測風險、金融環境對經濟和物價的影響。"
+    },
+    {
+      "id": "5181597",
+      "time": "2026-10-30 14:45:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商證券國際：維持微軟“增持”評級，看好AI商業化能力且現金流前景向好】招商證券國際發表報告指，微軟2027財年首財季收入達923億美元，同比增長19%、環比增長3%，較市場預期高約2%；淨利潤366億美元，同比增長32%，當中包括2.07億美元的OpenAI投資收益，而上年同期為31億美元虧損；營業利潤率達49.8%，同比提升0.9個百分點，主要受惠於經營槓桿釋放。資本開支達452億美元，較上一季的410億美元增長10%，但較市場預期低約11%，主要由於第三方算力及資料中心交付延遲。管理層指引2027財年第二季資本開支將超過500億美元，並預計下半年進一步加速。儘管經營現金流同比增長29%至580億美元，自由現金流仍同比下降27%至186億美元；公司預計2027財年全年仍將維持正自由現金流。該行維持微軟“增持”評級及目標價640美元，認為微軟具備領先的AI商業化能力，Azure增長提速及持續保持正自由現金流，構成相對同業的重要優勢。"
+    },
+    {
+      "id": "mkt:01a18b8e-9530-7ee0-a9fc-2b7d65e4313b",
+      "time": "2026-10-30 14:45:39",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Reuters survey: 30 of 32 economists expect the Reserve Bank of Australia to raise the cash rate to 4.85% on Nov. 3. Of 29 economists, 27 say a 4.85% cash rate will be the peak for this year."
+    },
+    {
+      "id": "mkt:01a18b8e-9007-7ee0-a9fc-24d3456db9c2",
+      "time": "2026-10-30 14:45:38",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Survey: RBNZ likely to deliver two consecutive hikes】A survey of 19 economists found all expect the RBNZ to raise the official cash rate (OCR) by 25bp to 3.00% at the Dec. 9 meeting. Of 17 analysts asked about the subsequent move, 11 expect a further 25bp increase to 3.25% in next February, while six expect a hold. Economists differ on the OCR level in 2027: two expect it to remain at or below 3%, seven expect 3.25%, and eight expect the OCR to reach 3.5% or higher by the end of next year. The poll was conducted after the RBNZ unexpectedly left rates unchanged this week; swaps price roughly a 75% probability of a December hike."
+    },
+    {
+      "id": "5181596",
+      "time": "2026-10-30 14:44:56",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將英特爾目標價從85美元下調至80美元。"
+    },
+    {
+      "id": "5181595",
+      "time": "2026-10-30 14:44:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀<XAG=>下跌3%，至每盎司50.82美元。"
+    },
+    {
+      "id": "te:markets:596631",
+      "time": "2026-10-30 14:44:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Head for Lower Open — European equity markets were poised to open lower on Friday as disappointing corporate earnings triggered another wave of global selling in technology and artificial intelligence stocks, prompting investors to shift toward safe-haven assets. In after-hours trading, Amazon shares plunged around 7% after revealing a significant increase in capital expenditures, while Intel tumbled 23% following a weaker-than-expected quarterly outlook and signs of slowing demand in the PC market. On the economic front, investors will focus on preliminary GDP and inflation reports from the Eurozone, Germany, France, Italy and Spain, alongside labor market figures from Germany and France. Meanwhile, the corporate earnings calendar includes major companies such as AstraZeneca, Intesa Sanpaolo, BP, Sanofi and NatWest, among others. In premarket trading, Euro Stoxx 50 futures fell 0.4%, while Stoxx 600 futures declined 0.2%."
+    },
+    {
+      "id": "5181594",
+      "time": "2026-10-30 14:44:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員卡西克：物價並未全面上升。"
+    },
+    {
+      "id": "5181593",
+      "time": "2026-10-30 14:44:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：不能容忍潛在通脹進一步上升。"
+    },
     {
       "id": "mkt:01a18b8d-0ed4-7ee0-a9fc-1b6612bef23c",
       "time": "2026-10-30 14:43:59",
@@ -118377,50 +118583,6 @@
         "觀點"
       ],
       "text": "【大摩績前看好Cloudflare：AI相關需求強勁，增長可持續性支撐高估值】摩根士丹利釋出Cloudflare第三季度業績前瞻報告，維持對該股的“增持”評級，目標價370美元。該行認為，消費上升、開發者採用加速以及AI/代理工作負載，正為Cloudflare提供多項增長槓桿，有望支撐Q3、Q4及2027年營收增長維持在30%區間中段。最新合作伙伴檢查顯示，CDN/應用安全、Workers、SASE及更廣泛AI領域的需求穩健，訂單管線健康，大單活動持續。"
-    },
-    {
-      "id": "5163569",
-      "time": "2026-10-23 14:48:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "交易員預計開雲集團股價將下跌4%-8%，Tradegate平臺上該股較週四收盤價下跌7%。"
-    },
-    {
-      "id": "5163568",
-      "time": "2026-10-23 14:48:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本第24輪核汙染水排放量近8000噸】日本東京電力公司23日結束福島第一核電站第24輪核汙染水排海。本輪共排放核汙染水近8000噸。 據日本媒體23日報道，福島第一核電站2026財年第6輪也是總計第24輪核汙染水排海始於本月5日，總計排放核汙染水約7852噸，含放射性氚總量約1.2萬億貝克勒爾。24輪核汙染水排海總計排放量達18.84萬噸。(新華社)"
-    },
-    {
-      "id": "5163566",
-      "time": "2026-10-23 14:47:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本9月半導體裝置訂單額同比增長48.2%】日本半導體裝置協會資料顯示，日本9月半導體裝置訂單額同比上漲48.2%。半導體裝置訂單額環比上漲5.2%；訂單額為6290.4億日元。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202610233906199221",
-      "time": "2026-10-23 14:46:50",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【深圳：9月份出口3402.58億元 增長40.2%】深圳市統計局釋出資料，前三季度，全市進出口總額46528.17億元，同比增長38.8%。其中，出口24085.03億元，增長18.5%；進口22443.14億元，增長70.1%。高新技術產品出口增長29.3%。9月份，進出口總額6634.79億元，同比增長65.2%。其中，出口3402.58億元，增長40.2%；進口3232.21億元，增長103.5%。"
-    },
-    {
-      "id": "5163564",
-      "time": "2026-10-23 14:45:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【許正宇：香港“代幣化”正邁向落地實施階段】香港財經事務及庫務局局長許正宇指出，香港“代幣化”進展正從“實驗階段”邁向“落地實施階段”。他指，目前香港匯聚了超過1400家金融科技企業，其中包括8家虛擬銀行、4家虛擬保險公司，以及12家持牌虛擬資產交易平臺，在推進“代幣化”方面取得優異成績。許正宇提到，港交所(00388)正致力於在明年啟動一個代幣化倉單融資試點計劃，該專案將與指定銀行合作，利用分散式帳本技術(DLT)，推動將大宗商品倉單用作抵押品。此外，港交所亦正在建立一個多資產代幣化平臺，其中包括來自認可倉庫的大宗商品倉單。"
     }
   ]
 }
