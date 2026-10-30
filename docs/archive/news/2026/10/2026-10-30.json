@@ -1,7 +1,189 @@
 {
   "date": "2026-10-30",
-  "count": 2194,
+  "count": 2213,
   "items": [
+    {
+      "id": "5183056",
+      "time": "2026-10-30 20:41:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北交所終止固力發IPO稽核】10月30日，據北交所網站披露，因固力發集團股份有限公司撤回向不特定合格投資者公開發行股票並在北京證券交易所上市申請檔案，北交所決定終止其首次公開發行股票並在北交所上市的稽核。"
+    },
+    {
+      "id": "mkt:01a18cd3-ab16-7ee0-aa0b-cfbbbc9ca816",
+      "time": "2026-10-30 20:40:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【U.S. Q3 labor costs rise modestly; wage inflation remains contained】The U.S. employment cost index (ECI) rose 0.8% q/q in Q3, down from 0.9% in Q2 and in line with economists' forecasts, the Bureau of Labor Statistics said on Friday. Over the 12 months through September ECI increased 3.4%, unchanged from the year through June. Policymakers view the ECI as a key gauge of labor-market slack and a leading indicator for core inflation because it adjusts for workforce composition and job-quality changes."
+    },
+    {
+      "id": "5183055",
+      "time": "2026-10-30 20:40:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國第三季度勞動力成本溫和上漲，工資通脹壓力仍可控】美國第三季度勞動力成本溫和上漲，顯示工資通脹壓力相對溫和。美國勞工部勞工統計局週五表示，衡量勞動力成本最全面的指標就業成本指數（ECI）上季度上漲0.8%，低於4月至6月期間0.9%的漲幅，符合經濟學家的預期。截至9月的12個月內，勞動力成本上漲3.4%，與截至6月的12個月漲幅持平。政策制定者將ECI視為衡量勞動力市場鬆弛程度的較好指標之一，同時也是核心通脹的預測指標，因為該指數對人員構成及工作質量的變化進行了調整。"
+    },
+    {
+      "id": "5183054",
+      "time": "2026-10-30 20:40:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國石油公司執行長表示，我們推遲了將合作伙伴引入美國海灣古近紀專案的計劃。"
+    },
+    {
+      "id": "5183053",
+      "time": "2026-10-30 20:40:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星基智造北交所IPO將於11月6日上會】10月30日，據北交所網站披露，北交所上市委員會定於11月6日下午14時召開2026年第88次上市稽核委員會審議會議，屆時將審議江蘇星基智造科技股份有限公司的首發事項。"
+    },
+    {
+      "id": "5183052",
+      "time": "2026-10-30 20:39:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委馬赫魯夫：曾認真考慮本週加息】歐洲央行管委馬赫魯夫表示，他本週曾認真考慮加息的可能性。儘管他支援維持利率不變的決定，但對當前通脹水平仍感到不安。馬赫魯夫寫道：“我對當前通脹水平感到不安。通脹上行風險依然存在，我們必須保持警惕，密切關注事態發展。”他表示，在歐洲央行12月召開下次會議前，將密切關注四個方面：能源衝擊是否會持續，以及當前第二輪衝擊是逐漸消退還是進一步加劇；食品、商品和服務價格是否開始受到更明顯的間接影響；工資走勢；融資環境。"
+    },
+    {
+      "id": "mkt:01a18cd2-bbce-7ee0-aa0b-c0f7fda4c1f7",
+      "time": "2026-10-30 20:39:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB policymaker Makhlouf says he seriously considered a rate hike this week】ECB policymaker Makhlouf said he seriously considered a rate increase at this week's meeting but supported the decision to hold. He said he remains uneasy about current inflation and that upside risks persist, writing: \"I am uneasy about current inflation. Upside risks to inflation remain; we must stay vigilant and closely monitor developments.\" He said ahead of the ECB's December meeting he will closely watch four areas: whether the energy shock persists and whether current second‑round effects are fading or intensifying; whether food, goods and services prices show broader indirect impacts; wage trends; and financing conditions."
+    },
+    {
+      "id": "5183051",
+      "time": "2026-10-30 20:39:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本雞蛋價格再創新高】日本國內市場雞蛋價格近日再創新高，且由於禽流感季來臨和新年前後消費旺季將至，蛋價預計可能繼續高企。日本農林水產省本月19日至21日的全國範圍調查結果顯示，每盒10個裝雞蛋平均價格為312日元（約合13.2元人民幣），比9月上漲3日元，為2003年開始這項調查以來新高。另外，雞腿肉和進口牛肉的價格也與最高紀錄持平。（新華社）"
+    },
+    {
+      "id": "mkt:01a18cd2-2ef0-7ee0-aa0b-bce3b8c0e11d",
+      "time": "2026-10-30 20:39:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Russian Deputy Prime Minister NOVAK said Russia has ample diesel stocks for the winter."
+    },
+    {
+      "id": "mkt:01a18cd2-2b85-7ee0-aa0b-b1a38fa060f4",
+      "time": "2026-10-30 20:39:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SASAC orders central SOEs to meet annual production targets, reinforce safety, supply and price stability】On Oct. 30 the State-owned Assets Supervision and Administration Commission of the State Council (SASAC) held a meeting to convey the Fifth Plenum of the 20th Central Committee and deploy implementation. The commission stressed maintaining a high-pressure anti-corruption stance, tightening controls and supervision over the exercise of power, and strengthening anti-corruption accountability and clean‑governance culture. It required central SOEs to ensure completion of annual production and operating targets and to implement robust safety production, supply‑guarantee and price‑stabilization measures to better serve party and state priorities."
+    },
+    {
+      "id": "5183050",
+      "time": "2026-10-30 20:38:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司首席財務官表示，今年我們的交易臺將平均動用資本回報率提高了4%以上。"
+    },
+    {
+      "id": "5183049",
+      "time": "2026-10-30 20:38:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：俄羅斯冬季柴油庫存充足。"
+    },
+    {
+      "id": "mkt:01a18cd1-5701-7ee0-aa0b-aa24c0bb950b",
+      "time": "2026-10-30 20:38:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russia's Deputy Prime Minister Novak said Russia plans to export 510,000 tonnes of diesel in October and 2.15 mln tonnes in November."
+    },
+    {
+      "id": "5183048",
+      "time": "2026-10-30 20:38:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天馬科技：2026年第三季度淨利潤虧損6.99億元，同比由盈轉虧】天馬科技公告，2026年第三季度營業收入11.74億元，同比下降23.28%；淨利潤虧損6.99億元，同比由盈轉虧；扣非淨利潤虧損4.84億元。前三季度營業收入43.06億元，同比下降4.38%；淨利潤虧損6.87億元；扣非淨利潤虧損4.76億元。"
+    },
+    {
+      "id": "mkt:01a18cd1-09e8-7ee0-aa0b-a771eb2ce5e2",
+      "time": "2026-10-30 20:37:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Two-year U.S. Treasury yield fell 7.05 bps to 4.586%."
+    },
+    {
+      "id": "5183047",
+      "time": "2026-10-30 20:37:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國經濟資料公佈後，美國國債收益率基本保持跌勢；10年期美國國債收益率最新下跌6.22個基點，至4.927%。"
+    },
+    {
+      "id": "5183046",
+      "time": "2026-10-30 20:37:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率最新下跌7.05個基點，至4.586%。"
+    },
+    {
+      "id": "5183045",
+      "time": "2026-10-30 20:37:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雙良節能：2026年第三季度淨利潤虧損4.33億元】雙良節能公告，2026年第三季度營業收入16.57億元，同比下降1.89%；歸屬於上市公司股東的淨利潤虧損4.33億元，歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損4.53億元。2026年前三季度營業收入47.27億元，同比下降22.21%；歸屬於上市公司股東的淨利潤虧損11.99億元，歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損13.2億元。"
+    },
     {
       "id": "mkt:01a18cd0-8d64-7ee0-aa0b-9de428b43c5f",
       "time": "2026-10-30 20:37:20",
@@ -124,6 +306,14 @@
         "Importance 2"
       ],
       "text": "US Employment Costs Rise 0.8% QoQ as Expected — Compensation costs for civilian workers in the United States increased by 0.8% in the third quarter of 2026, after a 0.9% rise in the previous period, in line with market expectations. Wages and salaries increased 0.7% (vs 0.9% in Q2) and benefits rose at a faster pace of 0.9% (vs 1%). Compensation costs for private industry workers grew 0.8%, following a 0.9% rise in Q2, and for state and local government workers grew 0.6%, compared with 1% in Q2. On an annual basis, employment cost growth remained unchanged from the last period at 3.4%."
+    },
+    {
+      "id": "5183036",
+      "time": "2026-10-30 20:34:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度官員：印北部墜毀直升機上人員全部遇難】當地時間10月30日下午，一架載有6人的直升機在印度北部北阿肯德邦墜毀。據當地官員通報，機上人員全部遇難，遺體都已被找到。據印度方面訊息，墜毀直升機由印度一傢俬人航空運營商運營，機上載有5名乘客和1名飛行員。該直升機在從巴德里納特返航途中，於北阿肯德邦傑莫利地區焦希默特附近失聯，此後確認墜毀。事發時天氣惡劣，事故原因仍在調查當中。（央視新聞）"
     },
     {
       "id": "mkt:01a18ccd-6941-7ee0-aa0b-80dbb3bee690",
