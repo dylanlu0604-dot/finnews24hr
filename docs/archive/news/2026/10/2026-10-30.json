@@ -1,7 +1,148 @@
 {
   "date": "2026-10-30",
-  "count": 834,
+  "count": 848,
   "items": [
+    {
+      "id": "5180977",
+      "time": "2026-10-30 08:58:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中航光電：公司民品業務受到銅、銀等大宗原材料價格上行因素影響】中航光電在投資者關係活動中表示，公司三季度收入增長一方面來自業務端收入增長，另一方面有去年同期低基數因素。展望全年，公司經營仍面臨一定壓力，防務業務訂單需求暫未明確，民品業務受到銅、銀等大宗原材料價格上行因素影響等。公司將錨定董事會年度經營目標，統籌資源，全力推動經營落地。(21財經)"
+    },
+    {
+      "id": "5180976",
+      "time": "2026-10-30 08:58:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶豐明源等投資成立股權投資基金】企查查APP顯示，近日，共青城眾松聚源股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由晶豐明源全資子公司海南晶芯海創業投資有限公司等共同出資。"
+    },
+    {
+      "id": "5180975",
+      "time": "2026-10-30 08:58:12",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金黃金等在黑龍江成立礦業新公司】企查查APP顯示，近日，黑龍江中金黃金礦業有限公司成立，經營範圍包含金屬礦石銷售；非金屬礦及製品銷售；地質勘查技術服務等。企查查股權穿透顯示，該公司由中金黃金等共同持股。"
+    },
+    {
+      "id": "mkt:01a18a50-5702-7ee0-a9f3-71649a4689fa",
+      "time": "2026-10-30 08:58:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US 10-year Treasury yield fell 8.5 bps to a seven-week low of 4.902%; 2-year Treasury yield fell 8.7 bps to a seven-week low of 4.5648%."
+    },
+    {
+      "id": "5180974",
+      "time": "2026-10-30 08:57:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員下調對美聯儲加息的押注，目前 12 月加息的機率約為 70%。"
+    },
+    {
+      "id": "5180973",
+      "time": "2026-10-30 08:57:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國2年期國債收益率下降8.7個基點，至4.5648%，創7周新低。美國10年期國債收益率下跌8.5個基點，至4.902%，創7周新低。。"
+    },
+    {
+      "id": "mkt:01a18a4f-8275-7ee0-a9f3-6dc0389af128",
+      "time": "2026-10-30 08:57:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Federal funds futures rose as markets trimmed bets on Fed rate hikes; implied probability of a December Fed rate increase fell to about 70%."
+    },
+    {
+      "id": "5180972",
+      "time": "2026-10-30 08:57:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南工貿部：1-10月出口額預計同比增長27.4%，達到4990億美元；1-10月貿易逆差預計為127億美元。"
+    },
+    {
+      "id": "mkt:01a18a4f-0031-7ee0-a9f3-621bcd568c62",
+      "time": "2026-10-30 08:56:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "KIHARA says Japan will deploy ¥1.1 trillion of reserve funds to support fuel price subsidy measures."
+    },
+    {
+      "id": "5180971",
+      "time": "2026-10-30 08:56:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報51.84美元/盎司。"
+    },
+    {
+      "id": "mkt:01a18a4e-3ec2-7ee0-a9f3-59dfde3b6b7b",
+      "time": "2026-10-30 08:55:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Vietnam's Ministry of Industry and Trade estimates a Jan-Oct trade deficit of US$12.7 billion."
+    },
+    {
+      "id": "5180970",
+      "time": "2026-10-30 08:55:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：動用1.1萬億日元儲備金來支援燃料價格補貼措施。"
+    },
+    {
+      "id": "5180969",
+      "time": "2026-10-30 08:54:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據印度經濟時報，阿達尼港口公司提交33億美元收購EVOS碼頭的約束性報價。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202610303915308044",
+      "time": "2026-10-30 08:54:51",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行按兵不動 12月或加息25基點】當地時間週四（29日），歐洲央行宣佈維持三大關鍵利率不變，存款便利利率、主要再融資利率和邊際貸款利率分別維持於2.50%、2.65%和2.90%，符合市場預期。這是歐央行繼9月加息25個基點後首次按兵不動。今年以來，歐央行已於6月和9月兩次加息，累計加息50個基點。"
+    },
     {
       "id": "5180968",
       "time": "2026-10-30 08:54:07",

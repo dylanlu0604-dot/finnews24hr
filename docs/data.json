@@ -1,7 +1,148 @@
 {
-  "updated": "2026-10-30 08:55:18",
-  "count": 13108,
+  "updated": "2026-10-30 08:59:05",
+  "count": 13114,
   "items": [
+    {
+      "id": "5180977",
+      "time": "2026-10-30 08:58:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中航光電：公司民品業務受到銅、銀等大宗原材料價格上行因素影響】中航光電在投資者關係活動中表示，公司三季度收入增長一方面來自業務端收入增長，另一方面有去年同期低基數因素。展望全年，公司經營仍面臨一定壓力，防務業務訂單需求暫未明確，民品業務受到銅、銀等大宗原材料價格上行因素影響等。公司將錨定董事會年度經營目標，統籌資源，全力推動經營落地。(21財經)"
+    },
+    {
+      "id": "5180976",
+      "time": "2026-10-30 08:58:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶豐明源等投資成立股權投資基金】企查查APP顯示，近日，共青城眾松聚源股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由晶豐明源全資子公司海南晶芯海創業投資有限公司等共同出資。"
+    },
+    {
+      "id": "5180975",
+      "time": "2026-10-30 08:58:12",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金黃金等在黑龍江成立礦業新公司】企查查APP顯示，近日，黑龍江中金黃金礦業有限公司成立，經營範圍包含金屬礦石銷售；非金屬礦及製品銷售；地質勘查技術服務等。企查查股權穿透顯示，該公司由中金黃金等共同持股。"
+    },
+    {
+      "id": "mkt:01a18a50-5702-7ee0-a9f3-71649a4689fa",
+      "time": "2026-10-30 08:58:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US 10-year Treasury yield fell 8.5 bps to a seven-week low of 4.902%; 2-year Treasury yield fell 8.7 bps to a seven-week low of 4.5648%."
+    },
+    {
+      "id": "5180974",
+      "time": "2026-10-30 08:57:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員下調對美聯儲加息的押注，目前 12 月加息的機率約為 70%。"
+    },
+    {
+      "id": "5180973",
+      "time": "2026-10-30 08:57:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國2年期國債收益率下降8.7個基點，至4.5648%，創7周新低。美國10年期國債收益率下跌8.5個基點，至4.902%，創7周新低。。"
+    },
+    {
+      "id": "mkt:01a18a4f-8275-7ee0-a9f3-6dc0389af128",
+      "time": "2026-10-30 08:57:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Federal funds futures rose as markets trimmed bets on Fed rate hikes; implied probability of a December Fed rate increase fell to about 70%."
+    },
+    {
+      "id": "5180972",
+      "time": "2026-10-30 08:57:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南工貿部：1-10月出口額預計同比增長27.4%，達到4990億美元；1-10月貿易逆差預計為127億美元。"
+    },
+    {
+      "id": "mkt:01a18a4f-0031-7ee0-a9f3-621bcd568c62",
+      "time": "2026-10-30 08:56:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "KIHARA says Japan will deploy ¥1.1 trillion of reserve funds to support fuel price subsidy measures."
+    },
+    {
+      "id": "5180971",
+      "time": "2026-10-30 08:56:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報51.84美元/盎司。"
+    },
+    {
+      "id": "mkt:01a18a4e-3ec2-7ee0-a9f3-59dfde3b6b7b",
+      "time": "2026-10-30 08:55:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Vietnam's Ministry of Industry and Trade estimates a Jan-Oct trade deficit of US$12.7 billion."
+    },
+    {
+      "id": "5180970",
+      "time": "2026-10-30 08:55:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：動用1.1萬億日元儲備金來支援燃料價格補貼措施。"
+    },
+    {
+      "id": "5180969",
+      "time": "2026-10-30 08:54:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據印度經濟時報，阿達尼港口公司提交33億美元收購EVOS碼頭的約束性報價。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202610303915308044",
+      "time": "2026-10-30 08:54:51",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行按兵不動 12月或加息25基點】當地時間週四（29日），歐洲央行宣佈維持三大關鍵利率不變，存款便利利率、主要再融資利率和邊際貸款利率分別維持於2.50%、2.65%和2.90%，符合市場預期。這是歐央行繼9月加息25個基點後首次按兵不動。今年以來，歐央行已於6月和9月兩次加息，累計加息50個基點。"
+    },
     {
       "id": "5180968",
       "time": "2026-10-30 08:54:07",
@@ -118360,85 +118501,6 @@
         "其他"
       ],
       "text": "沙特領導的聯軍稱，攔截並摧毀了葉門胡塞武裝向利雅得發射的彈道導彈."
-    },
-    {
-      "id": "5162971",
-      "time": "2026-10-23 08:58:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【10月22日170股獲融資買入超億元 中際旭創穫買入17.41億元居首】10月22日共有3532只個股獲融資資金買入，有170股買入金額超億元。其中，中際旭創、新易盛、寧德時代融資買入金額排名前三，分別獲買入17.41億元、13.42億元、12.20億元。"
-    },
-    {
-      "id": "5162970",
-      "time": "2026-10-23 08:57:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【新加坡私人住宅價格上漲，租金創2023年以來最大漲幅】新加坡私人住宅價格創下近兩年最大漲幅，租金同步走高，表明儘管近期成交放緩，市場依舊保持景氣。新加坡市區重建局週五公佈最終資料，截至9月30日的三個月，私人住宅指數大漲1.4%，與初步預估一致，高於二季度0.5%的漲幅。私人住宅租金環比上漲1.3%，為三年多來最大漲幅。"
-    },
-    {
-      "id": "te:economy:594408",
-      "time": "2026-10-23 08:56:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "House Price Index MoM",
-        "Importance 1"
-      ],
-      "text": "Singapore Home Price Growth Confirmed at Nearly 2-Year High — Private home prices in Singapore rose by 1.4% quarter-on-quarter in the third quarter of 2026, in line with initial estimates and marking the fastest growth since the fourth quarter of 2024. The latest result accelerated from a 0.5% increase in the previous quarter, as landed property prices climbed 2.9%, up from 2.5% in Q2, while non-landed prices rebounded 1.0% after falling 0.1%. By region, prices in the Outside Central Region rose 2.3%, recovering from a 0.1% decline, while gains in the Core Central Region moderated to 0.3% from 1.8%. Prices in the Rest of Central Region were unchanged after falling 1.2% in the previous quarter. Meanwhile, private residential rents increased 1.3%, accelerating from 0.7% in Q2, supported by stronger rental growth in the Outside Central Region. The government will maintain a high level of housing supply, with 9,320 private residential units on the 2026 Confirmed List, more than 50% above the 10-year annual average."
-    },
-    {
-      "id": "5162969",
-      "time": "2026-10-23 08:56:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【MiniMax開源M3.1 Flash模型】MiniMax宣佈開源MiniMax M3.1 Flash的模型權重，總引數428B，啟用引數23B。據介紹，M3.1 Flash上線後，72小時內真實使用者處理超過100萬億Token。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202610233904964641",
-      "time": "2026-10-23 08:56:14",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【國家外匯管理局局長朱鶴新會見渣打集團主席羅睿思】2026年10月21日，中國人民銀行副行長、國家外匯管理局局長朱鶴新會見來訪的渣打集團主席羅睿思（MariaRamos）。雙方就國際經濟金融形勢、中國經濟發展等議題進行了交流。國家外匯管理局副局長李紅燕陪同會見。"
-    },
-    {
-      "id": "mkt:01a16642-0f8a-7ee0-a952-095f89ca99e0",
-      "time": "2026-10-23 08:56:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's 10-year government bond yield fell 9.5 bps to 2.785%."
-    },
-    {
-      "id": "mkt:01a16641-fd9c-7ee0-a952-0293db77e65a",
-      "time": "2026-10-23 08:56:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【AI worries fuel risk-off; 10-year JGB yield drops 9bps to 2.79%】Japanese government bond yields fell across the curve on Friday as AI-related equity selling boosted safe-haven demand and US Treasury gains spilled into JGBs. The 10-year JGB yield slid about 9 bps to 2.79%; the 20-year fell 5.5 bps. The move came despite a key Japanese inflation gauge rising above the Bank of Japan’s 2% target this year for the first time, a data point that had supported market bets on a December BOJ rate hike. Market participants said focus shifted to growth risk and AI-driven volatility, temporarily reducing the market’s emphasis on inflation; long-duration bonds attracted demand for diversification and carry."
-    },
-    {
-      "id": "5162966",
-      "time": "2026-10-23 08:55:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下降9.5個基點，至2.785%。"
     }
   ]
 }
