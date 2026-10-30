@@ -1,7 +1,92 @@
 {
   "date": "2026-10-30",
-  "count": 2213,
+  "count": 2223,
   "items": [
+    {
+      "id": "te:markets:596867",
+      "time": "2026-10-30 20:44:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Slip as Oil Rebound Renews Inflation Concerns — attack in the Strait of Hormuz underscored supply risks. Energy-driven inflation concerns have weighed on major banks since the start of the US-Iran war by raising the risk of interest rates staying higher for longer. Meanwhile, falling gold prices put pressure on mining shares. Elsewhere, Cameco traded lower in US premarket trading after reporting a net loss in the third quarter of 2026, despite higher revenue. In contrast, Imperial Oil topped profit estimates, supported by elevated crude prices, while Canadian National Railway also posted strong results. The S&P/TSX Composite Index remained on track for a weekly gain of more than 1%."
+    },
+    {
+      "id": "5183065",
+      "time": "2026-10-30 20:44:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率跌幅收窄；10年期國債收益率最新下跌3.95個基點，至4.95%。兩年期美國國債收益率最新下跌4.15個基點，至4.615%。"
+    },
+    {
+      "id": "5183064",
+      "time": "2026-10-30 20:44:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司首席財務官表示，我們的槓桿率仍明顯高於預期水平。"
+    },
+    {
+      "id": "5183063",
+      "time": "2026-10-30 20:43:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上交所對蘇州清越光電科技股份有限公司有關責任人予以紀律處分】上交所對蘇州清越光電科技股份有限公司有關責任人予以紀律處分。"
+    },
+    {
+      "id": "5183062",
+      "time": "2026-10-30 20:43:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鐵近科技北交所IPO將於11月6日上會】據北交所網站披露，北交所上市委員會定於11月6日上午9時召開2026年第87次上市稽核委員會審議會議，屆時將審議蘇州鐵近機電科技股份有限公司的首發事項。"
+    },
+    {
+      "id": "5183061",
+      "time": "2026-10-30 20:43:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中工國際簽約突尼西亞芒扎奧林匹克體育場重建專案】據中工國際訊息，10月29日，中工國際與中鐵建工集團有限公司組成的聯合體，與突尼西亞共和國裝備與住房部、青年與體育部簽署芒扎奧林匹克體育場重建專案商務合同，合同總金額約11.99億元人民幣，自簽署之日起生效。此次簽約實現了公司在突尼西亞新市場首個專案的突破，拓展了北非區域市場。"
+    },
+    {
+      "id": "5183060",
+      "time": "2026-10-30 20:42:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司執行長表示，我們希望確保如果我們將這些關鍵資產的部分權益轉讓出去，我們將獲得公允價值，因此我們在這方面一直保持謹慎。"
+    },
+    {
+      "id": "5183059",
+      "time": "2026-10-30 20:42:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中化裝備：2026年第三季度淨利潤虧損866.26萬元】中化裝備公告，2026年第三季度營業收入8.34億元，同比增長2.71%；歸屬於上市公司股東的淨利潤虧損866.26萬元，上年同期為盈利1941.66萬元；扣非淨利潤虧損1442.16萬元。2026年前三季度營業收入21.86億元，同比下降10.66%；歸母淨利潤虧損1495.11萬元，上年同期為盈利6275.31萬元；扣非淨利潤虧損8803.03萬元。"
+    },
+    {
+      "id": "5183058",
+      "time": "2026-10-30 20:41:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北交所終止立洲精密IPO稽核】據北交所網站披露，因廈門立洲精密科技股份有限公司向本所提交了撤回向不特定合格投資者公開發行股票並在北京證券交易所上市申請檔案的申請，北交所決定終止其首次公開發行股票並在北交所上市的稽核。"
+    },
+    {
+      "id": "5183057",
+      "time": "2026-10-30 20:41:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "高露潔：在美國以外市場，高階定價策略非常成功。"
+    },
     {
       "id": "5183056",
       "time": "2026-10-30 20:41:02",
