@@ -1,7 +1,29 @@
 {
   "date": "2026-10-31",
-  "count": 489,
+  "count": 491,
   "items": [
+    {
+      "id": "5183683",
+      "time": "2026-10-31 06:06:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果AI官宣接入千問】10月31日，蘋果宣佈與阿里巴巴達成合作，將千問整合至Apple智慧，中國使用者可以在Siri、寫作工具及視覺智慧中，直接呼叫千問的文字與影象理解、內容生成等能力。上述功能將自11月4日起隨最新的iOS開發者Beta版開放測試，並於12月隨iOS 27.3正式釋出時面向中國使用者推出。"
+    },
+    {
+      "id": "mkt:01a18ed6-b440-7ee0-aa16-6c59e580997e",
+      "time": "2026-10-31 06:03:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact mixed"
+      ],
+      "text": "【Alphabet in talks to join Trump's $185 bln \"Golden Dome\" missile-defense plan】Alphabet (GOOG.O) is in talks with the Pentagon to join President Trump's $185 bln \"Golden Dome\" missile-defense program, focusing on data security, storage, networking and cybersecurity to harden military command-and-control data transmissions, sources said. Discussions are at an early stage; Alphabet's network unit Aalyria is participating in consortium preparations. The Pentagon said it has not made a final decision on forming a new consortium or on participating firms."
+    },
     {
       "id": "5183682",
       "time": "2026-10-31 06:00:32",

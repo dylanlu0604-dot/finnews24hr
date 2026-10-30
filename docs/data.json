@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-31 06:03:41",
-  "count": 13195,
+  "updated": "2026-10-31 06:07:30",
+  "count": 13194,
   "items": [
+    {
+      "id": "5183683",
+      "time": "2026-10-31 06:06:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果AI官宣接入千問】10月31日，蘋果宣佈與阿里巴巴達成合作，將千問整合至Apple智慧，中國使用者可以在Siri、寫作工具及視覺智慧中，直接呼叫千問的文字與影象理解、內容生成等能力。上述功能將自11月4日起隨最新的iOS開發者Beta版開放測試，並於12月隨iOS 27.3正式釋出時面向中國使用者推出。"
+    },
+    {
+      "id": "mkt:01a18ed6-b440-7ee0-aa16-6c59e580997e",
+      "time": "2026-10-31 06:03:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact mixed"
+      ],
+      "text": "【Alphabet in talks to join Trump's $185 bln \"Golden Dome\" missile-defense plan】Alphabet (GOOG.O) is in talks with the Pentagon to join President Trump's $185 bln \"Golden Dome\" missile-defense program, focusing on data security, storage, networking and cybersecurity to harden military command-and-control data transmissions, sources said. Discussions are at an early stage; Alphabet's network unit Aalyria is participating in consortium preparations. The Pentagon said it has not made a final decision on forming a new consortium or on participating firms."
+    },
     {
       "id": "5183682",
       "time": "2026-10-31 06:00:32",
@@ -120052,31 +120074,6 @@
         "其他"
       ],
       "text": "巴克萊：確保供應的緊迫性正在上升，短期內風險仍偏向於上行。"
-    },
-    {
-      "id": "5165342",
-      "time": "2026-10-24 06:06:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴克萊：對伊朗衝突迅速結束的希望逐漸消退，這使得本已緊張的實物石油市場更加緊迫。"
-    },
-    {
-      "id": "5165341",
-      "time": "2026-10-24 06:06:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊：庫存枯竭、需求復甦令實貨市場收緊，儘管政策努力緩解柴油緊張狀況，但短期石油風險仍堅定偏向上行。"
-    },
-    {
-      "id": "5165340",
-      "time": "2026-10-24 06:05:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【CFTC：對沖基金削減日元空頭 增持澳元多頭】美國商品期貨交易委員會(CFTC)週五公佈的資料顯示，截至10月20日當週，對沖基金削減日元空頭頭寸。日元連續第二週上漲，週五兌美元則小幅走弱。這些基金對歐元的空頭押注升至2020年以來最高水平。它們對英鎊和澳元更加看多，同時進一步看空加元，加元淨空頭頭寸升至8月初以來最高水平。"
     }
   ]
 }
