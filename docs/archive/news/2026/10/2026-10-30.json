@@ -1,7 +1,98 @@
 {
   "date": "2026-10-30",
-  "count": 2072,
+  "count": 2081,
   "items": [
+    {
+      "id": "te:economy:596841",
+      "time": "2026-10-30 20:12:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Brazil Jobless Rate Falls to Lowest in 9 Months — Brazil’s unemployment rate stood at 5.2% in the rolling quarter ended in September 2026, down from 5.3% in the prior quarter and matching market expectations. It was the lowest rate since December 2025. The number of unemployed persons fell by 4% quarter-on-quarter to 5.6 million. The employed population rose by 0.6% to 103.6 million, bringing the employment rate to 59%. The labor force activity rate held at 62.2%. The number of private-sector employees with a formal contract, excluding domestic workers, was largely unchanged at 39.4 million, the highest level in the historical series. The composite underutilization rate was 13%, also broadly stable. The population working fewer hours than desired was 4.3 million, while the discouraged population was 2.5 million. Average real monthly earnings were slightly higher at R$3,790."
+    },
+    {
+      "id": "mkt:01a18cb9-ff2e-7ee0-aa0a-5b1c7c40ddc2",
+      "time": "2026-10-30 20:12:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "France-Germany 10-year government bond yield spread widened 8 bps to 164 bps."
+    },
+    {
+      "id": "mkt:01a18cb9-aab2-7ee0-aa0a-530623b76d2b",
+      "time": "2026-10-30 20:12:20",
+      "tags": [
+        "MKT News",
+        "BP.O"
+      ],
+      "text": "BP CEO said the company must be more disciplined in its investment decisions."
+    },
+    {
+      "id": "te:markets:596840",
+      "time": "2026-10-30 20:11:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Vale earnings below expectations at 1.56 BRL — Vale (VALE3) released earnings per share at 1.56 BRL, compared to market expectations of 2.51 BRL."
+    },
+    {
+      "id": "5182979",
+      "time": "2026-10-30 20:11:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金融監管總局：信託公司開展資產管理信託業務應充分說明風險 不得以任何形式承諾保本保收益】國家金融監督管理總局有關司局負責人就《資產管理信託管理辦法》答記者問。《辦法》在資產管理信託銷售方面主要有哪些要求？答：信託公司開展資產管理信託業務，應當向投資者充分說明風險，不得以任何形式承諾保本保收益。一是限制代理銷售機構範圍。現階段，只允許信託公司、商業銀行、保險公司、證券公司代理銷售信託產品。禁止其他機構和個人變相開展信託產品銷售。二是嚴格風險揭示要求。要求信託檔案以醒目方式揭示信託產品的風險和風險承擔原則。對於擬投資其他資產管理產品的信託產品，需穿透說明下層資產管理產品的投資策略和風險收益特徵。三是嚴格銷售管理。要求信託公司加強銷售渠道、檔案和人員管理，釐清與代理銷售機構之間的責任。明確信託公司和代理銷售機構在產品銷售過程中的禁止性行為。四是堅持風險匹配原則。信託公司應當對信託產品逐個劃分風險等級，明確適合銷售的投資者範圍；對包括自然人在內的普通投資者逐個劃分風險承受能力等級，向投資者銷售與其風險承受能力相匹配的信託產品。"
+    },
+    {
+      "id": "5182978",
+      "time": "2026-10-30 20:11:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【10月“逆風起飛”的十大牛股】10月行情收官，全月整體呈現單邊下行態勢。截至今日收盤，上證指數單月下跌6.33%，深證成指跌15.94%，創業板指跌23.02%，科創綜指跌21.70%。 月度十大牛股隨之出爐。剔除本月上市的次新股，海洋王以110.89%漲幅高居首位，凡拓數創以105.94%漲幅緊隨其後，大業股份上漲90.07%位居第三。排在第四至第十位的依次是萊美藥業、九陽股份、奧雅股份、百洋股份、福萊新材、青島食品、冰山冷熱。 從行業分佈看，本月領漲個股主要來自大消費行業，其中海洋王、九陽股份屬於家用電器板塊，百洋股份、青島食品等均為近期消費板塊短線熱門股。（上證報）"
+    },
+    {
+      "id": "mkt:01a18cb7-cc71-7ee0-aa0a-4ebb872a9e25",
+      "time": "2026-10-30 20:10:17",
+      "tags": [
+        "MKT News",
+        "BP.L",
+        "Impact bullish"
+      ],
+      "text": "BP CEO said buybacks can resume once the company's balance sheet improves."
+    },
+    {
+      "id": "5182977",
+      "time": "2026-10-30 20:10:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【丸美生物：第三季度歸母淨虧損1818.61萬元，同比由盈轉虧】丸美生物10月30日公告，2026年第三季度實現營業收入5.72億元，同比下降16.61%；歸母淨利潤虧損1818.61萬元，上年同期淨利潤6948.16萬元，同比由盈轉虧；基本每股收益虧損0.05元。前三季度實現營業收入22.35億元，同比下降8.79%；歸母淨利潤1.37億元，同比下降43.71%；基本每股收益0.34元。報告期內，公司業績主要受到營業收入減少，同時各項費用因品牌推廣、線上投流、職工薪酬、研發投入等影響仍保持戰略投入的影響。"
+    },
+    {
+      "id": "5182976",
+      "time": "2026-10-30 20:09:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "英國石油公司首席財務官表示，我們已經看到運費上漲，特別是在原油領域，成品油輪運費較為平穩，液化天然氣運輸船運費已恢復至衝突前水平。"
+    },
     {
       "id": "5182975",
       "time": "2026-10-30 20:09:24",
