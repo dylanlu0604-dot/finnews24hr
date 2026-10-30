@@ -1,7 +1,85 @@
 {
-  "updated": "2026-10-31 02:24:46",
-  "count": 13194,
+  "updated": "2026-10-31 02:28:36",
+  "count": 13195,
   "items": [
+    {
+      "id": "5183535",
+      "time": "2026-10-31 02:27:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行利率決議獲得七名董事會成員的多數支援。"
+    },
+    {
+      "id": "5183534",
+      "time": "2026-10-31 02:27:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行將利率維持在12.25%。"
+    },
+    {
+      "id": "5183533",
+      "time": "2026-10-31 02:27:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "ARC：獲得陸軍作戰能力發展司令部軍備中心價值1090萬美元的合同，以推進在競爭環境中的小型部隊補給。"
+    },
+    {
+      "id": "5183532",
+      "time": "2026-10-31 02:27:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行行長萊昂納多·比利亞爾表示，董事會批准從政府購買20億美元用於儲備。"
+    },
+    {
+      "id": "5183531",
+      "time": "2026-10-31 02:27:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱沙特24小時內對葉門發動93次襲擊】當地時間10月30日晚，葉門胡塞武裝發表宣告稱，過去24小時內，沙特對葉門發動93次空襲和導彈襲擊，目標涉及首都薩那以及焦夫省、塔伊茲省、薩達省、馬裡卜省、扎馬爾省、哈傑省、伊卜省和拉赫季省。據胡塞武裝方面統計，自本輪局勢升級以來，沙特對葉門發動的空襲和導彈襲擊累計已達3689次。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a18e10-d7ad-7ee0-aa13-b7647f8a8258",
+      "time": "2026-10-31 02:27:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthi forces say Saudi Arabia carried out 93 strikes on Yemen in 24 hours】On the evening of Oct. 30 local time, the Houthi movement said Saudi Arabia launched 93 air and missile strikes on Yemen in the prior 24 hours, hitting the capital Sanaa and the governorates of Al Jawf, Taiz, Saada, Marib, Zamar, Hajjah, Ibb and Lahj. The group said total Saudi air and missile strikes since the current escalation now amount to 3,689."
+    },
+    {
+      "id": "te:markets:596954",
+      "time": "2026-10-31 02:25:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Drops by 2.11% — Top commodity loser is Rubber (-2.11%). Gains are led by Palm Oil (1.17%), Canola (0.73%) and Coffee (0.60%)."
+    },
+    {
+      "id": "te:economy:596953",
+      "time": "2026-10-31 02:24:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Uruguay’s Trade Deficit Narrows in September — Uruguay’s trade deficit narrowed to $35.3 million in September 2025, from $124.4 million a year earlier. Exports grew 7.8% year-on-year to $1.14 billion, led by an 11.5% increase in manufacturing exports. Within the sector, sales of food and beverage products rose 5.8%, tobacco product exports increased 52%, and textile product sales climbed 84.4%. Exports of primary products grew 2%, as higher sales of forestry and wood extraction products (+16.5%) offset declines in other subsectors. Meanwhile, utility exports rose 2.4%. On the import side, purchases edged down 0.6% to $1.17 billion. Imports of intermediate goods recorded the largest decline, falling 5.7%, as purchases of oil and distillates dropped 53.3%. Imports of capital goods slipped 0.8%, amid an 8.4% decline in purchases of machinery and equipment. In contrast, imports of consumer goods rose 9.9%, driven by a 28.1% increase in vehicle purchases."
+    },
     {
       "id": "5183530",
       "time": "2026-10-31 02:23:20",
@@ -120044,69 +120122,6 @@
         "XAUUSD"
       ],
       "text": "UK government: Prime Minister Burnham reiterated UK support for the Kingdom of Saudi Arabia in response to Houthi armed attacks."
-    },
-    {
-      "id": "5165137",
-      "time": "2026-10-24 02:28:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：伯納姆重申，在胡塞武裝發起襲擊的背景下，英國支援沙烏地阿拉伯。"
-    },
-    {
-      "id": "mkt:01a16a05-6451-7ee0-a95e-b5314224d868",
-      "time": "2026-10-24 02:28:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK government said that in a call about the Falklands, US President Trump and UK Prime Minister Burnham discussed Argentina's coercive measures and their economic consequences for the UK and the US."
-    },
-    {
-      "id": "5165136",
-      "time": "2026-10-24 02:27:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國政府：關於福克蘭群島問題，伯納姆在與特朗普通話時提及阿根廷採取的施壓舉措將給英美兩國帶來經濟衝擊。"
-    },
-    {
-      "id": "mkt:01a16a03-b924-7ee0-a95e-ad014cbd96e7",
-      "time": "2026-10-24 02:26:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "UK government said US President Trump and Prime Minister Burnham agreed the decision to approve the Jackdaw gas field will benefit the UK."
-    },
-    {
-      "id": "5165135",
-      "time": "2026-10-24 02:26:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國政府：特朗普與伯納姆一致認可，批准 Jackdaw（寒鴉氣田）專案將為英國帶來利好。"
-    },
-    {
-      "id": "te:markets:594752",
-      "time": "2026-10-24 02:25:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Drops by 2.06% — Top commodity losers are Coffee (-2.06%), Oat (-1.32%) and Corn (-0.98%). Gains are led by Sugar (0.65%) and Palm Oil (0.54%)."
-    },
-    {
-      "id": "mkt:01a16a02-4fba-7ee0-a95e-a35493043589",
-      "time": "2026-10-24 02:24:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "UK government said US President Trump discussed with UK Prime Minister Burnham the energy minister's decision to approve the Jackdaw gas field."
     }
   ]
 }
