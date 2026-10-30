@@ -1,7 +1,210 @@
 {
-  "updated": "2026-10-30 14:48:42",
-  "count": 13097,
+  "updated": "2026-10-30 14:52:31",
+  "count": 13114,
   "items": [
+    {
+      "id": "mkt:01a18b94-856b-7ee0-a9fc-9102119723e1",
+      "time": "2026-10-30 14:52:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Bank of Japan Governor UEDA said the central bank does not intend to formally announce at any particular time that it has achieved its price target."
+    },
+    {
+      "id": "mkt:01a18b94-1237-7ee0-a9fc-8a6935f14c23",
+      "time": "2026-10-30 14:51:39",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Governor UEDA said the central bank will flexibly adjust monetary policy to proactively guide inflation toward 2% rather than passively wait."
+    },
+    {
+      "id": "mkt:01a18b93-f8dc-7ee0-a9fc-84ad785fdad6",
+      "time": "2026-10-30 14:51:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "UEDA, governor of the Bank of Japan, said the bank has not declared the inf target achieved because it considers it important that inf be stably and sustainably maintained around 2%."
+    },
+    {
+      "id": "mkt:01a18b93-d73f-7ee0-a9fc-78d712e3beee",
+      "time": "2026-10-30 14:51:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【SNB posts CHF44.2bn Jan–Sep profit; gold holdings add CHF1.2bn】The Swiss National Bank reported a Jan–Sep profit of CHF44.2bn (about $54bn). Its foreign-currency asset portfolio, including a large equity allocation, contributed CHF43.3bn; gold holdings increased in value by CHF1.2bn. CHF-denominated positions produced CHF0.1bn, a figure that includes negative interest charged on commercial banks’ excess reserves held at the SNB."
+    },
+    {
+      "id": "5181619",
+      "time": "2026-10-30 14:51:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美議員批重啟對伊朗作戰計劃太瘋狂】當地時間10月28日，美國民主黨籍聯邦參議員克里斯·墨菲在一場活動上表示，近日在一次簡報會上，他曾有機會參與討論美國重啟對伊朗軍事行動的作戰方案。墨菲說，正如一些公開報道所稱，美國可能採取一套“短平快”的打法，並將伊朗的民用基礎設施列為打擊目標，這一作戰計劃“簡直瘋狂”，“只會導致局勢迅速升級，讓這場戰爭拖得更久，對美國國家安全利益造成災難性後果”。（CCTV國際時訊）"
+    },
+    {
+      "id": "5181618",
+      "time": "2026-10-30 14:50:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：尚未宣佈通脹目標已實現，因為我們認為通脹穩定、持續地維持在2%左右至關重要。"
+    },
+    {
+      "id": "mkt:01a18b92-aa1e-7ee0-a9fc-702f88f7e8a2",
+      "time": "2026-10-30 14:50:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "UK October Nationwide House Price Index MoM due in 10 minutes."
+    },
+    {
+      "id": "5181616",
+      "time": "2026-10-30 14:50:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新易盛成交額達200億元】10月30日下午，新易盛成交額達200億元，現跌12.9%。"
+    },
+    {
+      "id": "mkt:01a18b92-784c-7ee0-a9fc-6c5e8721f536",
+      "time": "2026-10-30 14:49:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor Ueda said he will discuss at every meeting whether rate hikes are necessary."
+    },
+    {
+      "id": "mkt:01a18b92-22b9-7ee0-a9fc-63548d0973bf",
+      "time": "2026-10-30 14:49:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said it is equally important to see whether wage increases can become sustained going forward."
+    },
+    {
+      "id": "5181615",
+      "time": "2026-10-30 14:49:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：未來工資增長能否被視為常態也很重要。"
+    },
+    {
+      "id": "5181614",
+      "time": "2026-10-30 14:49:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國電力國企放棄入股SpaceX電站專案 轉向主攻運維】據30日韓國國會及發電行業訊息，韓國中部電力（Jungbu Power Co．， Ltd．）調整方案，放棄直接入股“SpaceX AI綜合電站專案”，改為以無股權投入的運維服務商身份參與該專案。 對於投資計劃變更的原因，中部電力解釋：“在與SpaceX合併之前，xAI對外來投資持積極態度；合併完成後，其外部融資需求下降，因此我們撤回了投資意向。”中部電力一名負責人表示：“該專案最初規劃就是運維為本、配套股權投資；評估過程中，鑑於SpaceX AI不再需要外部資金，我們調整方向，主攻運維服務。”"
+    },
+    {
+      "id": "5181613",
+      "time": "2026-10-30 14:48:57",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "資料和貿易訊息人士稱，亞洲燃料油東西價差創歷史新高。"
+    },
+    {
+      "id": "5181612",
+      "time": "2026-10-30 14:48:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球首個天地一體化太空算力雲平臺釋出，覆蓋40餘顆衛星算力資源】北京太空算力創新中心釋出天地一體化太空算力雲平臺。據介紹，平臺已完成核心功能建設，覆蓋40餘顆衛星算力資源，並與地面CPU、GPU、NPU等地面算力實現了統一納管與池化排程，支援大模型推理業務的天地一體化協同排程。（21世紀經濟報道）"
+    },
+    {
+      "id": "mkt:01a18b91-64f7-7ee0-a9fc-5dd4803f2847",
+      "time": "2026-10-30 14:48:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "159915.SZ",
+        "588000.SZ",
+        "563360.SZ"
+      ],
+      "text": "【ChiNext and STAR 50 ETFs each top CNY10bn turnover; A500 ETFs show volume pickup】Onshore ETFs: E Fund ChiNext ETF (159915) and Hua Xia STAR 50 ETF (588000) each recorded turnover above CNY10.0bn. Several A-share 500 ETFs expanded volumes vs yesterday: A500 ETF Huatai‑PineBridge (563360) turnover CNY6.8bn (+6% vs yesterday), A500 ETF China Southern (159352) CNY6.4bn (+7%), A500 ETF E Fund (159361) CNY3.9bn (+30%), A500 ETF Hua Xia (512050) CNY1.8bn (+61%)."
+    },
+    {
+      "id": "mkt:01a18b91-306e-7ee0-a9fc-50a0be33a171",
+      "time": "2026-10-30 14:48:30",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Bank of Japan Governor Ueda said he will monitor a range of data to assess whether trend inflation has stabilized."
+    },
+    {
+      "id": "5181611",
+      "time": "2026-10-30 14:48:26",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "英特爾在Tradegate平臺上的股價下跌7.6%，此前該公司在美國盤後交易中下跌23%。"
+    },
+    {
+      "id": "mkt:01a18b91-2103-7ee0-a9fc-4ce794926895",
+      "time": "2026-10-30 14:48:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Precious metals slide; gold down 1% intraday】Spot gold fell 1.00% intraday to $3,980.06/oz. Spot silver dropped nearly 3% to $50.70/oz."
+    },
+    {
+      "id": "5181610",
+      "time": "2026-10-30 14:48:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：將密切關注中長期通脹預期是否會錨定在2%左右。"
+    },
     {
       "id": "mkt:01a18b90-b307-7ee0-a9fc-41b8c4d7a91c",
       "time": "2026-10-30 14:47:58",
@@ -18,6 +221,24 @@
         "國際"
       ],
       "text": "日本央行行長植田和男：將監測各類資料，以判斷趨勢通脹是否已穩定。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202610303916366955",
+      "time": "2026-10-30 14:47:49",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行官員KAASIK表示，未來幾周很容易看到4%的通脹率。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202610303916367751",
+      "time": "2026-10-30 14:47:38",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行行長植田和男表示，各項政府措施將刺激經濟，推動實現2%物價目標；剔除特殊因素後的CPI一直保持較高增長。"
     },
     {
       "id": "5181608",
@@ -113,6 +334,24 @@
         "Impact bearish"
       ],
       "text": "JP Morgan cut Intel (INTC.O) PT to $80 from $85."
+    },
+    {
+      "id": "em:qqyh_rbyh:202610303916363472",
+      "time": "2026-10-30 14:46:08",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行行長植田和男表示，所有委員一致認為潛在通脹已達到2%，不能容忍潛在通脹進一步上升。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202610303916360942",
+      "time": "2026-10-30 14:46:06",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【德商銀行：日本央行12月加息已幾乎被市場完全消化】德國商業銀行分析師MichaelPfister指出，日本央行繼9月加息後維持利率不變，但透過暗示潛在價格壓力已達到2%的通脹目標，釋放了鷹派訊號。市場認為，日本央行12月進一步加息的可能性越來越大，且這一預期已幾乎被市場完全消化。如果日本央行行長植田和男進一步釋放相關線索，日元短期內可能獲得溫和支撐。"
     },
     {
       "id": "5181599",
@@ -118527,62 +118766,6 @@
         "Importance 1"
       ],
       "text": "Rupiah Extends Weekly Losses Despite Softer Dollar — The Indonesian rupiah held near IDR 18,080 per U.S. dollar on Friday, remaining above the 18,000 mark for a third session despite broad weakness in the greenback. The dollar index hovered near a three-week low as Treasury yields fell sharply, offering limited relief to the rupiah. Locally, fiscal concerns lingered amid persistently high oil prices near USD 100 per barrel, given Indonesia’s status as a net oil importer. Worries also grew that Bank Indonesia may face a difficult trade-off between defending currency stability and supporting near-term growth. Earlier this week, Bank Indonesia kept its key interest rate unchanged for a fourth month but raised the deposit facility rate by 25bps. It also gradually slashed the reserve requirement ratio for commercial banks effective Nov. 1, adding around IDR 190 trillion to the financial system. For the week, the rupiah was on track for a second consecutive weekly decline, down around 0.7% so far, bringing its year-to-date loss to roughly 8%."
-    },
-    {
-      "id": "5163574",
-      "time": "2026-10-23 14:52:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國駐韓大使館：請來韓團體遊客遠離低價團消費陷阱】據中國駐韓大使館，近期數箇中國旅遊團來韓旅遊期間，遭遇強制消費，因遊客不願消費或消費額度不達標，遭遇旅行社甩客，部分遊客被迫中斷行程，造成個人損失。上述情況也擾亂兩國正常旅遊秩序。      中國駐韓國大使館特此提醒來韓中國團體遊客：謹慎選擇旅行社和旅遊產品，警惕包含強制消費的不合理低價遊，避免因強制購物陷入旅遊糾紛，影響旅遊體驗和個人安全。      建議中國遊客行前應瞭解組團旅行社資質，具體可參考文化和旅遊部發布的“經營出境旅遊業務旅行社名單”。認真閱讀合同條款，同旅行社確認是否包含消費專案、是否有最低消費金額要求等。抵達韓國後，建議同地接旅行社再次確認上述資訊。"
-    },
-    {
-      "id": "5163573",
-      "time": "2026-10-23 14:51:27",
-      "tags": [
-        "公司",
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美債週四重挫 美聯儲下週加息預期暴跌】聯邦基金期貨市場目前預計，美聯儲今年已不會再加息的機率升至了24%。與此前火熱CPI資料出爐後的市場預期相比，這堪稱是一次劇烈轉向。與此同時，債券市場也正經歷一場劇烈的重新定價：2年期美債收益率週四重挫18個基點至4.64%。最新定價顯示，針對下週的美聯儲議息會議，市場目前押注加息的機率僅為7%，創下本月新低；12月加息的機率雖仍有76%，但已不再板上釘釘；而1月份的掉期定價也僅體現了27個基點的利率上調幅度——換言之，市場目前認為美聯儲在未來三次會議上，可能只會加息一次。本輪行情的直接導火索，是AI泡沫疑似破裂的“洩氣聲”——面對維繫龐大算力所需的無底洞式資金規模，投資者的心理防線終於失守。Meta在財報與備案中丟擲資本開支需“數千億美元”的鉅額指引，直接嚇崩了市場情緒，其股價盤中應聲重挫近7%；而管理層試圖透過增設無表決權新股來配資的做法，其帶來的股權稀釋效應也招致了投資者的強烈牴觸。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202610233906204451",
-      "time": "2026-10-23 14:51:06",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "【日本9月晶片製造裝置訂單額同比增長48.2%】日本半導體裝置協會（SEAJ）資料顯示，日本9月晶片製造裝置訂單額同比增長48.2%。"
-    },
-    {
-      "id": "5163572",
-      "time": "2026-10-23 14:50:56",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【花旗：Prada品牌表現堅韌抵銷Miu Miu下跌影響 維持普拉達“中性”評級】花旗釋出研報稱，普拉達第三季銷售額符合市場預期，該行維持“中性”評級，目標價39.9港元。普拉達(01913)第三季集團銷售額錄14.9億歐元，符合市場預期;撇除Versace後按固定匯率計內生增長1%，對比上季增幅7%，而市場預期為持平。當中Prada零售升1%，符合市場預期，同店銷售大致持平;Miu Miu零售跌3%，對比市場預期升1%，惟撇除中東後持平;批發業務則升12%。該行指出，，Miu Miu春夏2027系列釋出後市場反應強勁，而Versace於2027年計劃加大投資，或限制虧損收窄空間。"
-    },
-    {
-      "id": "5163571",
-      "time": "2026-10-23 14:50:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本能源白皮書：中東局勢暴露日能源體系弱點】日本政府23日釋出的2025財年（2025年4月至2026年3月）能源白皮書指出，隨著中東局勢惡化，日本能源供需結構的脆弱性再次凸顯。白皮書指出，長期以來，日本原油進口超九成依賴中東。今年2月底美國和以色列對伊朗發動軍事打擊後，作為全球能源運輸重要通道的霍爾木茲海峽通航受阻，原油及石油產品供應面臨不確定性，石腦油等部分石油相關產品的流通因此出現阻滯。（央視新聞）"
-    },
-    {
-      "id": "5163570",
-      "time": "2026-10-23 14:49:10",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【大摩績前看好Cloudflare：AI相關需求強勁，增長可持續性支撐高估值】摩根士丹利釋出Cloudflare第三季度業績前瞻報告，維持對該股的“增持”評級，目標價370美元。該行認為，消費上升、開發者採用加速以及AI/代理工作負載，正為Cloudflare提供多項增長槓桿，有望支撐Q3、Q4及2027年營收增長維持在30%區間中段。最新合作伙伴檢查顯示，CDN/應用安全、Workers、SASE及更廣泛AI領域的需求穩健，訂單管線健康，大單活動持續。"
     }
   ]
 }
