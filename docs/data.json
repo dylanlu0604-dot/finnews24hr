@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-30 08:31:55",
-  "count": 13103,
+  "updated": "2026-10-30 08:35:44",
+  "count": 13104,
   "items": [
+    {
+      "id": "5180947",
+      "time": "2026-10-30 08:34:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "深交所：港股通標的證券名單調出雲跡（舊），10月30日起生效。"
+    },
+    {
+      "id": "mkt:01a18a3a-e489-7ee0-a9f3-1ec5c98fc31a",
+      "time": "2026-10-30 08:34:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Shenzhen Stock Exchange said Yunji (Old) has been removed from the Hong Kong Stock Connect eligible securities list, effective Oct. 30."
+    },
+    {
+      "id": "5180946",
+      "time": "2026-10-30 08:32:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【三季報披露即將收官 46股業績獲券商研報“超預期”評價】三季報業績披露即將收官，券商研報對業績給出“超預期”評價的股票有46只。這些公司由於經營效率大幅提升、行業景氣度提升、產品供需格局最佳化、海外業務爆發等，實現了業績超預期的增長。上述46只個股今年以來平均上漲16.1%，大幅跑贏大盤。此外，33只業績超預期個股滾動市盈率低於30倍，34只個股2026年前三季度淨利潤同比增長超20%。"
+    },
+    {
+      "id": "5180945",
+      "time": "2026-10-30 08:31:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟產業大臣赤澤亮正：從12月到2月，電力和燃氣價格將得到補貼，平均每個家庭的賬單將減少7000日元。"
+    },
     {
       "id": "5180944",
       "time": "2026-10-30 08:31:28",
@@ -17,6 +52,15 @@
         "其他"
       ],
       "text": "【國家能源局：加快構建涵蓋自主燃氣輪機全生命週期、全產業鏈的標準體系和專利池】近日，國家能源局等部門釋出關於促進燃氣輪機創新發展的指導意見。意見提出，加快標準體系建設。協同推進硬體、軟體、標準和專利佈局，加快構建涵蓋自主燃氣輪機全生命週期、全產業鏈的標準體系和專利池，推動重大研發成果轉化為國家標準。建立並完善工藝測試、質量檢驗與效能評估技術標準體系，鼓勵開發質量認證專案，提高裝配一致性與可靠性，提升自主燃氣輪機關鍵部件標準化和通用化水平。支援自主燃氣輪機研製企業參與國際標準制定，推動自主燃氣輪機安全規範納入國際標準，提升國際話語權。"
+    },
+    {
+      "id": "em:jjsj_ozsj:202610303915372718",
+      "time": "2026-10-30 08:30:40",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "澳大利亞第三季度PPI同比上升3.6%，前值3.60%。"
     },
     {
       "id": "mkt:01a18a37-3937-7ee0-a9f3-11153069cab0",
@@ -118351,46 +118395,6 @@
         "國際"
       ],
       "text": "美國國務院發言人：沒有美國支援的改變黎巴嫩政治結構的提議。"
-    },
-    {
-      "id": "5162945",
-      "time": "2026-10-23 08:35:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "據印度媒體MINT：天然營養健康成分製造商 OmniActive 正在考慮進行 2 億至 3 億美元的 IPO。"
-    },
-    {
-      "id": "te:economy:594396",
-      "time": "2026-10-23 08:34:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Manufacturing PMI",
-        "Importance 2"
-      ],
-      "text": "Japan Manufacturing Growth Eases to 7-Month Low — The S&P Global Japan Manufacturing PMI declined to 53.3 in October 2026 from 54.1 in September, falling below market forecasts of 54.5, preliminary estimates showed. It was the slowest expansion in the manufacturing sector since March, as firms recorded slower increases in output and new orders, with both growing at their weakest rates in seven months. Employment continued to increase, with job creation rising moderately. Purchasing activity also increased, contributing to the largest accumulation of stocks of purchases in almost four years. Meanwhile, suppliers’ delivery times lengthened substantially. On the price front, input and output costs continued to rise. Looking ahead, business sentiment remained positive."
-    },
-    {
-      "id": "5162944",
-      "time": "2026-10-23 08:33:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【衛星應用智慧體生態平臺在上海釋出】近日，上海浦東釋出“衛星應用智慧體生態平臺”。該平臺採用“一主兩輔”架構：“一主”為衛星智慧體應用平臺，支援行業夥伴低程式碼釋出智慧體；“兩輔”為大模型服務平臺和衛星資料服務平臺，實現太空算力隨取隨用、多源衛星資料隨需呼叫。在現場，四批共16家生態夥伴簽約，包括國星宇航、商湯智慧等，覆蓋高校、科研機構及衛星、AI、資料企業，“研—造—算—用”鏈條初步成形。同時舉行“東太空”號衛星入軌儀式，該衛星將與同組衛星開展萬瓦級液冷流體迴路、超大尺寸展開式輻冷翼、全域鐳射通訊網路、基礎大模型在軌訓練等關鍵技術驗證。"
-    },
-    {
-      "id": "te:economy:594394",
-      "time": "2026-10-23 08:32:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "Japan Composite PMI Stays at 4-Month Low — Japan’s S&P Global Composite PMI Business Activity Index held steady at 52.3 in October 2026, unchanged from September’s final reading, flash data showed. This marked the 19th consecutive month of private-sector expansion, although growth remained at its slowest pace since May. Stronger services activity was accompanied by the slowest increase in manufacturing output since March. New orders grew at their weakest pace in three months, while new export orders continued to rise. Employment growth slowed to a 14-month low, with hiring trends diverging between sectors, while backlogs of work increased further. On the price front, input costs rose sharply, but selling price inflation eased to a four-month low. Meanwhile, persistent inflation concerns weighed on business sentiment, with year-ahead output expectations falling to their lowest level since July."
     }
   ]
 }
