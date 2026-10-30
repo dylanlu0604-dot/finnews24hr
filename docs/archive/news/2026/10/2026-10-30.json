@@ -1,7 +1,173 @@
 {
   "date": "2026-10-30",
-  "count": 2034,
+  "count": 2051,
   "items": [
+    {
+      "id": "mkt:01a18cb0-42ff-7ee0-aa0a-2f46f17fea87",
+      "time": "2026-10-30 20:02:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says Ukraine ignored US President Trump’s request to stop attacking Russian refineries."
+    },
+    {
+      "id": "te:markets:596836",
+      "time": "2026-10-30 20:02:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Austria",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Erste Bank earnings below expectations at 2.74 EUR — Erste Bank (EBS) released earnings per share at 2.74 EUR, compared to market expectations of 2.77 EUR."
+    },
+    {
+      "id": "te:markets:596835",
+      "time": "2026-10-30 20:02:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Credit Agricole earnings above expectations at 0.62 EUR — Credit Agricole (ACA) released earnings per share at 0.62 EUR, compared to market expectations of 0.55 EUR."
+    },
+    {
+      "id": "te:markets:596834",
+      "time": "2026-10-30 20:02:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Natwest earnings in line with market expectations at 0.19 GBP — Natwest (NWG) released earnings per share at 0.19 GBP, in line with market expectations."
+    },
+    {
+      "id": "mkt:01a18caf-a5e5-7ee0-aa0a-21151524fdbd",
+      "time": "2026-10-30 20:01:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, Indonesia and Malaysia dismantle major transnational drug ring; seize about 1.2 tonnes of liquid methamphetamine】China's anti-narcotics authorities opened an investigation in October 2025 into a large transnational network smuggling liquid methamphetamine into Indonesia; a year-long probe found repeated shipments. In September 2026 China's National Narcotics Office notified Indonesia's National Narcotics Agency and the parties agreed to cooperate; the Royal Malaysia Police's Narcotics Division assisted. On Oct. 21 Indonesia's National Narcotics Agency dismantled a major purification/production site in Banda Aceh, seized about 1.2 tonnes of liquid methamphetamine and arrested 11 suspects. Chinese authorities said the case is the largest recent cross-border narcotics bust China has carried out with other countries by number of arrests and completeness of the interdiction chain."
+    },
+    {
+      "id": "5182959",
+      "time": "2026-10-30 20:01:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年中國移動累計攔截涉詐風險電話2.1億次】記者10月30日從中國移動獲悉，2026年截至目前，中國移動累計攔截涉詐風險電話2.1億次、簡訊1233.11萬次。對使用者反映的反覆停機、核驗復通不便等問題，中國移動表示將提供便捷辦理渠道。(新華社)"
+    },
+    {
+      "id": "mkt:01a18caf-6063-7ee0-aa0a-1bab48f82ca1",
+      "time": "2026-10-30 20:01:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D fell 1.48% to 854.08 yuan/gram in early trade of the Friday evening session on Oct. 30; Silver T+D fell 6.3% to 12,038.0 yuan/kg."
+    },
+    {
+      "id": "5182958",
+      "time": "2026-10-30 20:00:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "法德10年期國債收益率利差擴大8個基點至164個基點。"
+    },
+    {
+      "id": "5182957",
+      "time": "2026-10-30 20:00:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金融監督管理總局：信託公司管理信託產品，不得以任何方式向投資者承諾本金不受損失或者保證最低收益】國家金融監督管理總局釋出《資產管理信託管理辦法》。辦法指出，信託公司管理信託產品，不得以任何方式向投資者承諾本金不受損失或者保證最低收益，不得設定預期收益率，不得以信託產品名義開展為融資方募資服務的投資銀行業務，不得開展或者參與具有滾動發行、集合運作、分離定價特徵的資金池業務，不得為其他機構或者個人從事違法違規活動提供便利。信託公司管理信託產品，應當履行自主管理職責，不得進行轉委託，不得將管理職責讓渡給其他機構或者個人。信託公司依法委託其他方代為處理信託事務的，應當履行監督義務，不得因委託其他方而免除自身應當承擔的責任。信託公司管理信託產品，應當遵守公平交易原則，不得在不同信託之間、信託與信託公司或者第三方之間進行非法利益輸送。"
+    },
+    {
+      "id": "5182956",
+      "time": "2026-10-30 20:00:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【繳獲毒品約1.2噸 中國聯合印度尼西亞、馬來西亞破獲一起特大跨國制販毒案】2025年10月，中國禁毒部門發現一個特大跨國走私販運液態毒品團伙線索，透過一年深入偵查，逐步掌握該團伙將液態毒品多次向印度尼西亞走私、販運活動情況。2026年9月，中國國家禁毒辦向印度尼西亞國家禁毒委通報有關情況，雙方決定開展合作，聯合打擊跨國毒品犯罪。在中國國家禁毒辦、馬來西亞皇家警察肅毒局的全力支援協助下，10月21日，印度尼西亞國家禁毒委在印度尼西亞班達亞齊成功摧毀一處特大提純製毒窩點並查獲液態冰毒約1.2噸，抓獲犯罪嫌疑人11名，取得了跨國聯合緝毒執法的重大戰果，有力打擊震懾了區域毒品犯罪。（央視新聞）"
+    },
+    {
+      "id": "5182955",
+      "time": "2026-10-30 20:00:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥第三季度GDP初步資料同比增長3.2%；預期增長3.0%。"
+    },
+    {
+      "id": "te:markets:596833",
+      "time": "2026-10-30 19:59:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10Y Bond Yield Hits 8-week Low — Canada 10 Year Government Bond Yield decreased to 3.77%, the lowest since September 2026. Over the past 4 weeks, Canada 10Y Bond Yield lost 15.70 basis points, and in the last 12 months, it increased 65.30 basis points."
+    },
+    {
+      "id": "5182953",
+      "time": "2026-10-30 19:59:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華新建材：簽署海外收購專案排他性協議】華新建材10月30日公告，公司擬收購巴西國家鋼鐵公司（CSN）持有的標的公司巴西水泥公司股權。經過前期的競爭性談判流程，公司於2026年10月30日與CSN正式簽署了《排他性協議》。根據該協議，CSN授予公司在一定期限內的獨家談判權，雙方旨在短期內簽署關於標的公司股份轉讓的最終正式交易檔案。協議約定標的公司企業價值（Enterprise Value）為127億雷亞爾（按當前匯率折算約合158.68億元）。本次交易尚需簽署正式交易檔案並履行境內外相關審批程式，能否最終達成存在不確定性。本次交易不構成關聯交易，亦不構成《上市公司重大資產重組管理辦法》中規定的重大資產重組。"
+    },
+    {
+      "id": "5182952",
+      "time": "2026-10-30 19:59:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華安錦江商業REIT上市，系全市場首單酒店商業不動產REIT】華安錦江商業REIT在上海證券交易所上市。該產品底層資產為分佈於全國18座城市的21家“錦江都城”品牌酒店，總建築面積約15.73萬平方米，客房總數超過3000間。"
+    },
+    {
+      "id": "mkt:01a18cad-543d-7ee0-aa0a-152b6d994132",
+      "time": "2026-10-30 19:58:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish",
+        "GOOG.O",
+        "INTC.O"
+      ],
+      "text": "Wells Fargo cuts PTs: Amazon (AMZN.O) to $326 from $329; ALPHABET (GOOG.O) to $371 from $417; Intel (INTC.O) to $80 from $120; SanDisk (SNDK.O) to $1,300 from $1,550."
+    },
+    {
+      "id": "5182951",
+      "time": "2026-10-30 19:58:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【NYMEX天然氣主力合約跌超3%】NYMEX天然氣主力合約跌超3%，現報2.86美元/百萬英熱。"
+    },
+    {
+      "id": "5182950",
+      "time": "2026-10-30 19:58:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏日喀則市氣象臺釋出暴雪橙色預警訊號】西藏日喀則市氣象臺10月30日16時20分發布暴雪橙色預警訊號：過去24小時：日喀則市聶拉木、亞東、定日、定結一帶出現暴雪或大暴雪，局地出現特大暴雪。預計：未來12小時（10月30日17時至31日05時），日喀則市南部強雨雪天氣仍將持續，聶拉木和亞東個別鄉鎮有大暴雪或特大暴雪（15.0～35.0毫米），定日南部、定結南部和吉隆等地的個別高海拔鄉鎮有暴雪或大暴雪（7.0～15.0毫米），新增積雪深度10～20釐米，南部低海拔個別地方有大到暴雨（30.0～60.0毫米）。雪後各地有3～6℃降溫，高海拔個別鄉鎮降溫幅度將達8℃以上。西部、南部和北部部分地方有7級左右大風，沿江河谷一帶午後有5級左右陣風。（央視新聞）"
+    },
     {
       "id": "5182949",
       "time": "2026-10-30 19:57:54",
