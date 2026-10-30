@@ -1,7 +1,26 @@
 {
-  "updated": "2026-10-31 02:09:42",
-  "count": 13186,
+  "updated": "2026-10-31 02:13:32",
+  "count": 13188,
   "items": [
+    {
+      "id": "5183521",
+      "time": "2026-10-31 02:12:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯正考慮對液化石油氣（LPG）出口徵收禁止性關稅。"
+    },
+    {
+      "id": "mkt:01a18e01-2828-7ee0-aa13-999e3c977ee1",
+      "time": "2026-10-31 02:10:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Russia says talks prep not a pledge to curb military operations】RIA on Oct. 30 quoted Kremlin spokesman Dmitry Peskov saying preparations for Russia–U.S.–Ukraine trilateral talks are underway but do not constitute a Russian pledge to limit military operations. Peskov said Moscow opposes ceasefires that would give Ukraine a “breathing space,” is retaliating for Ukrainian strikes on Russian refineries but will not raise that issue in talks, and that the aim of the special military operation is to deprive Ukraine of the ability to carry out attacks. Kremlin aide Yury Ushakov said on Oct. 30 the talks, mediated by the U.S., are planned and could take place in mid‑November in Abu Dhabi."
+    },
     {
       "id": "te:markets:596949",
       "time": "2026-10-31 02:08:06",
