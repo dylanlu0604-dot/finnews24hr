@@ -1,7 +1,57 @@
 {
   "date": "2026-10-31",
-  "count": 260,
+  "count": 265,
   "items": [
+    {
+      "id": "te:markets:596951",
+      "time": "2026-10-31 02:16:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Arista Networks Shares Hit 13-week Low — Arista Networks shares decreased to 168.16 USD, the lowest since July 2026. Over the past 4 weeks, Arista Networks lost 17.72%, and in the last 12 months, it increased 6.7%."
+    },
+    {
+      "id": "te:markets:596950",
+      "time": "2026-10-31 02:15:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Propane Soars by 5.82% — Top commodity gainers are Propane (5.82%), Natural Gas EU (5.69%), Germany Natural Gas THE (5.58%), Brent Oil (2.52%) and Crude Oil (2.31%). Biggest losers are Natural gas (-2.33%) and Methanol (-0.74%)."
+    },
+    {
+      "id": "5183523",
+      "time": "2026-10-31 02:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄方稱奧列什基人道主義任務順利完成】據俄新社30日報道，俄羅斯人權事務專員亞娜·蘭特拉託娃當天表示，奧列什基人道主義任務順利完成。蘭特拉託娃在社交媒體釋出影片說，此次行動出動了25輛大巴、9輛救護車以及用於轉運臥床人員的車輛。目前，撤離車隊正在克里米亞北部城市亞美尼亞斯克按去向編組，隨後將分別前往俄羅斯和烏克蘭。(新華社)"
+    },
+    {
+      "id": "mkt:01a18e05-a71c-7ee0-aa13-a6a963e7cbb6",
+      "time": "2026-10-31 02:14:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russian news agency RBC reported that Russia is considering imposing prohibitive export duties on liquefied petroleum gas (LPG)."
+    },
+    {
+      "id": "5183522",
+      "time": "2026-10-31 02:13:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【國際金價跌破每盎司3900美元】美國紐約商品交易所黃金期貨市場12月黃金期價30日在早盤跌破每盎司4000美元關鍵心理價位後，價格繼續下探，午盤跌破每盎司3900美元。"
+    },
     {
       "id": "5183521",
       "time": "2026-10-31 02:12:50",
