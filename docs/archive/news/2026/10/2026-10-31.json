@@ -1,7 +1,27 @@
 {
   "date": "2026-10-31",
-  "count": 494,
+  "count": 496,
   "items": [
+    {
+      "id": "5183687",
+      "time": "2026-10-31 06:17:29",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：國務卿魯比奧與沙特外交大臣今日討論了伊朗、蘇丹和葉門問題。"
+    },
+    {
+      "id": "te:markets:596963",
+      "time": "2026-10-31 06:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Drops by 1.14% — Top currency losers are Brazilian Real (-1.14%), Euro (-0.27%) and Dollar Index (-0.08%). Gains are led by Norwegian Krone (0.62%), Mexican Peso (0.52%), South Korean Won (0.41%), Japanese Yen (0.15%) and British Pound (0.08%)."
+    },
     {
       "id": "5183686",
       "time": "2026-10-31 06:12:02",
