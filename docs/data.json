@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-31 05:52:11",
+  "updated": "2026-10-31 05:55:57",
   "count": 13191,
   "items": [
+    {
+      "id": "mkt:01a18ecf-66b9-7ee0-aa16-5a0bb7e0095c",
+      "time": "2026-10-31 05:55:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "【Apple reclaims top market cap from NVIDIA; conservative capex and strong FCF bolster resilience】Apple (AAPL.O) closed Friday with a market value of $5.03 trillion, surpassing NVIDIA (NVDA.O) at $4.93 trillion to become the world’s largest listed company for the first time since late July. Apple shares fell 1.2% while NVIDIA dropped 4.2%. Recent results from Intel (INTC.O) and Amazon (AMZN.O) have heightened investor concern over returns on large AI capital expenditures; Alphabet (GOOG.O) and Meta Platforms (META.O) faced earlier selling. Apple’s relatively restrained infrastructure spending and stronger free cash flow have underpinned its resilience amid the tech sell-off. Year-to-date Apple is up about 27%; NVIDIA is down over 10% in the past month."
+    },
     {
       "id": "5183677",
       "time": "2026-10-31 05:46:53",
@@ -120018,14 +120036,6 @@
         "國際"
       ],
       "text": "【五角大樓“披薩指數”現分化：普通披薩店與酒吧客流走低，達美樂門店高於日常 】據“五角大樓披薩指數”監測，今日五角大樓附近比薩店報告客流量低於往常，五角大樓周邊的Freddies海灘酒吧也報告客流量低於平均水平。然而，五角大樓附近的兩家達美樂門店客流量卻高於日常，餐飲資料呈現分化。此前，當地時間10月23日，美國總統特朗普表示，美國或許會再來一次小規模的“史詩怒火”行動。"
-    },
-    {
-      "id": "5165337",
-      "time": "2026-10-24 05:54:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Allegiant行權購買六架波eing 737 MAX客機，總價值超過7.2億美元】Allegiant Air（ALGT）週五表示，已根據2021年與波音公司簽署的採購協議，行使了購買六架波音737-8飛機的選擇權 。該公司表示，這些計劃於2028年交付的客機， 總目錄價格超過7.2億美元。根據該協議，Allegiant航空已確定採購56架飛機，其中22架已交付，此外還有74架飛機的購買期權尚未行使。據航空分析諮詢公司IBA稱，根據交付年份計算，這些飛機的估算市值約為3.51億美元。"
     }
   ]
 }
