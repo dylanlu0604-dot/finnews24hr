@@ -1,7 +1,58 @@
 {
   "date": "2026-10-30",
-  "count": 807,
+  "count": 813,
   "items": [
+    {
+      "id": "5180956",
+      "time": "2026-10-30 08:43:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英搏爾：大載重無人機已透過部分客戶驗證 近期將小批次交付】英搏爾(300681)10月29日在業績說明會上表示，公司在低空經濟領域已完成電推進系統平臺產品開發，透過了AS9100D航空質量體系認證，產品已獲得國內外頭部客戶多個專案定點。在大載重無人機領域，公司採用第三代半導體技術，持續提升產品功率密度與續航能力，已獲得頭部客戶驗證與定點，相關產品面向農業、測繪、消防、運輸等多個應用場景，目前產品已透過了部分客戶的驗證，近期將開始小批次交付。"
+    },
+    {
+      "id": "5180955",
+      "time": "2026-10-30 08:42:08",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【亞洲晶片股下跌 圍繞大型科技公司的AI融資擔憂加劇】決定AI交易前景的關鍵財報季表現平平，導致全球晶片製造商股價下跌，投資者越來越擔心成本飆升和需求的可持續性。最新觸發因素包括亞馬遜的大規模資本支出數字、英特爾因個人電腦處理器需求疲軟釋出低於預期的銷售預測。這進一步加劇了投資者對AI熱潮融資成本高昂以及這些鉅額投資能否獲得回報的擔憂。彭博亞洲晶片製造商指數週五下跌1.8%。其中，韓國SK海力士和日本愛德萬測試跌幅最大，均超過6%。韓國Kospi指數一度下跌4.3%。"
+    },
+    {
+      "id": "5180954",
+      "time": "2026-10-30 08:40:55",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：端側有望成為AI的下一個浪潮】中信建投研報表示，當前算力主要部署在雲側，端側不僅能成為雲側的入口，更能夠提供隱私保護、即時響應、低成本、以及主動響應的差異化價值，從而有望成為AI的下一個浪潮。從場景上看，端側AI不僅僅能夠應用在如手機、PC、眼鏡等大的消費終端，端側AI的價值更在於多個碎片化場景的滲透，這體現在端側AI會賦能傳統成熟產品的升級，同時端側AI也會帶動全新終端的誕生，最後，從落地上看，成熟產品的升級迭代落地更快，目前已能看到部分產品開始放量，而全新AI的終端需要更長的開發週期，需要將模型、場景與算力深度融合，圍繞使用者核心痛點，打造系統級能力，端側AI從“通用能力”到“行業價值”的最後一公里仍需模型廠與終端相互協同，也會在未來逐步落地，這些碎片化場景的逐步滲透是國內相關龍頭公司業績能夠持續快速增長的核心原因之一。"
+    },
+    {
+      "id": "5180953",
+      "time": "2026-10-30 08:40:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【澳大利亞第三季度生產者價格環比上漲1.1%】根據澳大利亞統計局的資料，澳大利亞第三季度生產者價格環比上漲 1.1%，而第二季度環比上漲 1.3%。第三季度生產者價格同比上漲3.6%，與第二季度持平。"
+    },
+    {
+      "id": "mkt:01a18a40-356b-7ee0-a9f3-2045788faa15",
+      "time": "2026-10-30 08:40:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Five investment themes for agricultural products in 2027】CITIC Securities says 2026 should be a base year for bulk agricultural commodity prices to bottom and rebuild momentum. International conflicts and El Niño-related weather shocks are pushing up overseas planting-chain prices ahead of domestic staples, which have stabilized at their lows. For 2027, a historically strong El Niño, high farm-input costs, rising bioenergy demand and a falling stocks-to-use ratio should reinforce production-cut expectations and support further price gains. Hogs remain deeply loss-making; continued losses plus policy-driven capacity cuts make a cyclical recovery likely in H2 2027. Meat and poultry chains are showing a mild recovery; post-cycle animal health appears to be bottoming and may rebound. Recommended 2027 positioning: 1. Early exposure to a hog-cycle reversal—favor cost leaders, firms with strong cash-distribution prospects, low-valuation names and companies diversifying into cattle. 2. Operators with stable, cycle-resilient earnings and firms positioned for post-cycle strength. 3. Plays across the crop/planting value chain. 4. Pet-industry chains at an inflection point. 5. Agricultural processors and suppliers of functional ingredients."
+    },
+    {
+      "id": "5180952",
+      "time": "2026-10-30 08:39:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "應力控股有限公司在香港暫停交易。"
+    },
     {
       "id": "5180951",
       "time": "2026-10-30 08:38:29",

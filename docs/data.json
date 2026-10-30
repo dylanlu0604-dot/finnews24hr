@@ -1,7 +1,58 @@
 {
-  "updated": "2026-10-30 08:39:43",
+  "updated": "2026-10-30 08:43:37",
   "count": 13104,
   "items": [
+    {
+      "id": "5180956",
+      "time": "2026-10-30 08:43:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英搏爾：大載重無人機已透過部分客戶驗證 近期將小批次交付】英搏爾(300681)10月29日在業績說明會上表示，公司在低空經濟領域已完成電推進系統平臺產品開發，透過了AS9100D航空質量體系認證，產品已獲得國內外頭部客戶多個專案定點。在大載重無人機領域，公司採用第三代半導體技術，持續提升產品功率密度與續航能力，已獲得頭部客戶驗證與定點，相關產品面向農業、測繪、消防、運輸等多個應用場景，目前產品已透過了部分客戶的驗證，近期將開始小批次交付。"
+    },
+    {
+      "id": "5180955",
+      "time": "2026-10-30 08:42:08",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【亞洲晶片股下跌 圍繞大型科技公司的AI融資擔憂加劇】決定AI交易前景的關鍵財報季表現平平，導致全球晶片製造商股價下跌，投資者越來越擔心成本飆升和需求的可持續性。最新觸發因素包括亞馬遜的大規模資本支出數字、英特爾因個人電腦處理器需求疲軟釋出低於預期的銷售預測。這進一步加劇了投資者對AI熱潮融資成本高昂以及這些鉅額投資能否獲得回報的擔憂。彭博亞洲晶片製造商指數週五下跌1.8%。其中，韓國SK海力士和日本愛德萬測試跌幅最大，均超過6%。韓國Kospi指數一度下跌4.3%。"
+    },
+    {
+      "id": "5180954",
+      "time": "2026-10-30 08:40:55",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：端側有望成為AI的下一個浪潮】中信建投研報表示，當前算力主要部署在雲側，端側不僅能成為雲側的入口，更能夠提供隱私保護、即時響應、低成本、以及主動響應的差異化價值，從而有望成為AI的下一個浪潮。從場景上看，端側AI不僅僅能夠應用在如手機、PC、眼鏡等大的消費終端，端側AI的價值更在於多個碎片化場景的滲透，這體現在端側AI會賦能傳統成熟產品的升級，同時端側AI也會帶動全新終端的誕生，最後，從落地上看，成熟產品的升級迭代落地更快，目前已能看到部分產品開始放量，而全新AI的終端需要更長的開發週期，需要將模型、場景與算力深度融合，圍繞使用者核心痛點，打造系統級能力，端側AI從“通用能力”到“行業價值”的最後一公里仍需模型廠與終端相互協同，也會在未來逐步落地，這些碎片化場景的逐步滲透是國內相關龍頭公司業績能夠持續快速增長的核心原因之一。"
+    },
+    {
+      "id": "5180953",
+      "time": "2026-10-30 08:40:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【澳大利亞第三季度生產者價格環比上漲1.1%】根據澳大利亞統計局的資料，澳大利亞第三季度生產者價格環比上漲 1.1%，而第二季度環比上漲 1.3%。第三季度生產者價格同比上漲3.6%，與第二季度持平。"
+    },
+    {
+      "id": "mkt:01a18a40-356b-7ee0-a9f3-2045788faa15",
+      "time": "2026-10-30 08:40:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Five investment themes for agricultural products in 2027】CITIC Securities says 2026 should be a base year for bulk agricultural commodity prices to bottom and rebuild momentum. International conflicts and El Niño-related weather shocks are pushing up overseas planting-chain prices ahead of domestic staples, which have stabilized at their lows. For 2027, a historically strong El Niño, high farm-input costs, rising bioenergy demand and a falling stocks-to-use ratio should reinforce production-cut expectations and support further price gains. Hogs remain deeply loss-making; continued losses plus policy-driven capacity cuts make a cyclical recovery likely in H2 2027. Meat and poultry chains are showing a mild recovery; post-cycle animal health appears to be bottoming and may rebound. Recommended 2027 positioning: 1. Early exposure to a hog-cycle reversal—favor cost leaders, firms with strong cash-distribution prospects, low-valuation names and companies diversifying into cattle. 2. Operators with stable, cycle-resilient earnings and firms positioned for post-cycle strength. 3. Plays across the crop/planting value chain. 4. Pet-industry chains at an inflection point. 5. Agricultural processors and suppliers of functional ingredients."
+    },
+    {
+      "id": "5180952",
+      "time": "2026-10-30 08:39:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "應力控股有限公司在香港暫停交易。"
+    },
     {
       "id": "5180951",
       "time": "2026-10-30 08:38:29",
@@ -118342,63 +118393,6 @@
         "其他"
       ],
       "text": "【西藏那曲發生7.0 級地震 中國安能專業救援力量緊急出動】10月22日22時33分在西藏那曲市巴青縣（北緯32.40度，東經93.79度）發生7.0級地震，震源深度10千米。地震發生後，根據應急管理部統一排程，中國安能迅速啟動應急響應機制，緊急從拉薩、林芝兩個方向抽調專業救援力量向震中機動，共出動救援隊員60人、各類專業救援裝備25臺（套），抵達後將迅速展開災情偵測、人員搜救、安置點搭設、物資轉運和先期處置等任務。"
-    },
-    {
-      "id": "te:markets:594399",
-      "time": "2026-10-23 08:41:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Follow Wall Street Lower — The Nikkei 225 Index dropped 1.6% to around 61,900 on Friday, hitting its lowest levels in nearly three months and tracking a tech-led selloff on Wall Street overnight amid mounting concerns about the artificial intelligence trade. Semiconductor makers, memory chip producers and other AI-linked stocks suffered heavy losses, while investors shifted toward safer assets, including government bonds and the yen. Market sentiment was further dampened by rising tensions in the Middle East, following reports that the US and Israel had prepared plans for potential renewed strikes against Iran after next month’s midterm elections. Major technology stocks led the decline, with Kioxia falling 7.6%, Advantest dropping 4.2%, SoftBank Group losing 7.5%, Tokyo Electron sliding 6% and Fujikura retreating 6.8%. Financial and industrial shares also weakened, while consumer stocks proved more resilient. For the week, the Nikkei has declined by more than 5%."
-    },
-    {
-      "id": "5162954",
-      "time": "2026-10-23 08:41:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【玉淵譚天：商務部政策公佈以來，DeepSeek、MiniMax兩家頭部企業已順利履行登記手續，並完成開源和海外授權使用】10月16日，商務部、科技部就修訂《中國禁止出口限制出口技術目錄》公開徵求意見。其中，有23項人工智慧領域技術，包括大模型、智慧體、算力叢集、資訊處理等。譚主瞭解到，政策公佈以來，DeepSeek、MiniMax兩家頭部企業已順利履行登記手續，並完成開源和海外授權使用。而今年上半年，相關部門就開始醞釀本次《目錄》的徵求意見稿，並且事前廣泛組織了研究機構、行業組織、業內頭部企業開展深入評估。這次重點監管的，主要是三類情況：第一，資料安全。第二，敏感用途。第三，算力底座。"
-    },
-    {
-      "id": "5162953",
-      "time": "2026-10-23 08:41:05",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【華泰證券：全球石油供應鏈正在形成新的執行模式】華泰證券表示，中東衝突持續七個多月，全球石油供應鏈正在形成新的執行模式。8月以來，替代管道、暗船通行、海上接駁及其他產油國增供推動原油供應明顯恢復，9月非伊朗中東海灣原油出口一度接近戰前水平，但油價並未同步回落。核心變化在於，石油市場已從最初的原油供應中斷，轉向運輸效率下降、庫存緩衝消耗及煉化產能不足等多重約束並存的格局。"
-    },
-    {
-      "id": "5162952",
-      "time": "2026-10-23 08:40:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "HD現代： 造船廠將僱傭約3000名工人。新造船廠預計將提升美國造船能力並助力行業復興。"
-    },
-    {
-      "id": "5162951",
-      "time": "2026-10-23 08:40:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家稅務總局最新發票資料顯示：前三季度我國經濟保持平穩執行、持續向新向優】國家稅務總局發票資料顯示，前三季度我國經濟執行平穩、向新向優，其中三季度工業、新動能行業、省際貿易、裝置投資較二季度發展進一步向好。——工業銷售收入較快增長，先進製造業支撐作用增強。前三季度，工業企業銷售收入同比增長7.4%，其中三季度同比增長7.8%，較二季度增速提高0.1個百分點，延續較快增長態勢。以高技術製造業、裝備製造業等為代表的先進製造業支撐作用明顯，季度增速持續提高，三季度同比增長12.3%，較二季度提高3.4個百分點。——新動能行業發展加快，人工智慧相關產業提速。前三季度，與新質生產力發展相關的數字經濟核心產業、智慧財產權（專利）密集型產業銷售收入同比分別增長9.1%和13.1%，其中三季度增速分別為9.9%和14.4%，較二季度增速分別提高2.9個和1.8個百分點。特別是與人工智慧相關的積體電路、半導體器件專用裝置等製造業三季度同比分別增長77.9%和35.9%，較二季度增速分別提高6.4個和9.3個百分點。"
-    },
-    {
-      "id": "te:economy:594398",
-      "time": "2026-10-23 08:39:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Japan Services Growth Accelerates — Japan’s S&P Global Services PMI Business Activity Index rose to 52.0 in October 2026 from a final reading of 51.3 in the previous month, according to flash estimates. Sales growth accelerated, although it remained modest, while foreign demand continued to expand. However, employment declined for the first time since August 2025."
     }
   ]
 }
