@@ -1,7 +1,45 @@
 {
   "date": "2026-10-31",
-  "count": 485,
+  "count": 489,
   "items": [
+    {
+      "id": "5183682",
+      "time": "2026-10-31 06:00:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤金價（人民幣）跌破850元/克，日內跌幅2%。"
+    },
+    {
+      "id": "5183681",
+      "time": "2026-10-31 06:00:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤金價跌破3900美元/盎司，日內跌幅2%。"
+    },
+    {
+      "id": "5183680",
+      "time": "2026-10-31 06:00:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲12月加息的機率為72%】據CME“美聯儲觀察”：美聯儲12月維持利率不變的機率為28%，加息25個基點的機率為72%。美聯儲到明年1月維持利率不變的機率19.3%，累計加息25個基點的機率58.4%，累計加息50個基點的機率為22.3%。"
+    },
+    {
+      "id": "mkt:01a18ed3-c26d-7ee0-aa16-60ffd84e1979",
+      "time": "2026-10-31 06:00:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. media: Trump administration told Gulf allies to prepare for possible renewed strikes on Iran on Nov. 4】Three senior Gulf officials told U.S. media the Trump administration has notified Gulf allies to prepare for a possible brief, intense new round of military strikes on Iran on Nov. 4 (the day after U.S. midterm elections). The administration’s stated objectives are to further degrade Iran’s nuclear program or compel a deal. The U.S. has not struck Iran since Sept. 1 and is currently pressuring Tehran via a maritime blockade of Iranian ports. Gulf officials said some states may oppose U.S. use of bases on their territory for such attacks."
+    },
     {
       "id": "5183679",
       "time": "2026-10-31 05:56:36",
