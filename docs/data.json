@@ -1,7 +1,246 @@
 {
-  "updated": "2026-10-30 20:21:53",
-  "count": 13089,
+  "updated": "2026-10-30 20:25:48",
+  "count": 13099,
   "items": [
+    {
+      "id": "mkt:01a18cc5-788e-7ee0-aa0a-df8025f74c43",
+      "time": "2026-10-30 20:25:13",
+      "tags": [
+        "MKT News",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "【UK opens antitrust probe into Meta over commercial terms tied to AI use of publisher content】The UK Competition and Markets Authority (CMA) on Friday opened an investigation into whether Meta Platforms (META.O) used commercial contract terms to abuse market dominance and unfairly harm publishers and advertisers. The CMA said Meta had planned to revise the terms effective Nov. 20 but has paused implementation. Under the proposed terms Meta could collect content from publishers’ sites without their consent and then use that content to develop and offer its own products and services, including AI features. Meta said there is no basis for a competition probe and that it has committed not to change the terms before consulting publishers and other stakeholders."
+    },
+    {
+      "id": "mkt:01a18cc5-74c1-7ee0-aa0a-d01b0398c1be",
+      "time": "2026-10-30 20:25:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said a supertanker struck a sea mine in a no-navigation zone in the Strait of Hormuz and exploded. The IRGC said it was the third tanker today to explode and catch fire after violating navigation restrictions."
+    },
+    {
+      "id": "5183013",
+      "time": "2026-10-30 20:25:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國副總統萬斯今天將不再前往明尼蘇達州。"
+    },
+    {
+      "id": "mkt:01a18cc4-ead1-7ee0-aa0a-caafb829b8c1",
+      "time": "2026-10-30 20:24:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【China foreign‑invested enterprises association meets in Beijing; MOFCOM urges drive to attract multinationals】Oct. 30 — The China Association of Enterprises with Foreign Investment held its 7th member congress and the first meeting of the 7th council in Beijing. MOFCOM minister RAIMONDO delivered video remarks; Vice Minister and deputy chief trade negotiator Ling Ji attended and spoke. RAIMONDO urged the association to treat the leadership transition as a fresh start, strengthen services to foreign firms, act as a government–enterprise liaison and promoter of openness, and intensify efforts to attract more multinationals to invest in China to bolster the Invest in China brand and advance high‑level opening."
+    },
+    {
+      "id": "5183012",
+      "time": "2026-10-30 20:24:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國外商投資企業協會第七次會員代表大會暨第七屆理事會第一次會議在北京召開】10月30日，中國外商投資企業協會第七次會員代表大會暨第七屆理事會第一次會議在北京召開。商務部部長王文濤發表影片講話，副部長兼中華人民共和國國際貿易談判副代表凌激出席會議並講話。王文濤指出，外資協會要以本次換屆為新起點，牢記職責定位，堅持守正創新，強化服務宗旨，當好外資企業的“服務員”、政企溝通的“聯絡員”、開放合作的“宣傳員”，吸引更多跨國企業來華投資興業，為擦亮“投資中國”品牌、擴大高水平開放作出更大貢獻。"
+    },
+    {
+      "id": "mkt:01a18cc4-c6f3-7ee0-aa0a-c1b0bb2fdd13",
+      "time": "2026-10-30 20:24:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BP CFO: market volatility in the first month of this quarter was lower than in Q2 and Q3."
+    },
+    {
+      "id": "5183011",
+      "time": "2026-10-30 20:24:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一艘超級油輪在霍爾木茲海峽觸雷爆炸】據報道，一艘超級油輪早前在霍爾木茲海峽未經許可的航道上觸雷後發生爆炸。伊朗伊斯蘭革命衛隊海軍公共關係部門表示，這是今天第三艘因透過未經許可航道而發生爆炸並起火的油輪。這艘載有超過200萬桶石油的超級油輪已被棄置於霍爾木茲海峽入口附近，目前正在燃燒。"
+    },
+    {
+      "id": "mkt:01a18cc4-a386-7ee0-aa0a-ba42203c2c43",
+      "time": "2026-10-30 20:24:19",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member MAKHLOUF said indirect price effects are present but not intensifying, and we have not seen second-round effects."
+    },
+    {
+      "id": "5183010",
+      "time": "2026-10-30 20:24:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中銀證券：2026年第三季度淨利潤2.53億元，同比下降12.40%】中銀證券公告，2026年第三季度營業收入7.73億元，同比下降17.12%；歸屬於上市公司股東的淨利潤2.53億元，同比下降12.40%；扣非淨利潤2.53億元，同比下降12.39%。2026年前三季度營業收入26.95億元，同比增長10.54%；歸屬於上市公司股東的淨利潤9.99億元，同比增長17.01%；扣非淨利潤9.53億元，同比增長16.54%。"
+    },
+    {
+      "id": "5183009",
+      "time": "2026-10-30 20:23:56",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊跌，道指期貨跌0.13%，標普500指數期貨跌1.14%，納指期貨跌2.64%。\n②德國DAX指數跌0.95%，英國富時100指數漲0.10%，法國CAC40指數跌0.04%，歐洲斯托克50指數跌1.23%。\n③WTI原油漲2.15%，報104.19美元/桶。布倫特原油漲2.38%，報113.44美元/桶。\n④歐洲央行管理委員會委員Fabio Panetta表示，為遏制通脹，歐洲央行可能不得不進一步加息。\n⑤德意志銀行認為，如果人工智慧推動的市場行情出現回撥，美元傳統上的避險資產地位不能再被視為理所當然。\n⑥景順投資總監William Yuen表示，AI板塊近期的波動大機率消化了部分偏高的多頭倉位。“但我們認為本輪迴落只是短期調整，AI長期增長主線並未改變。”\n⑦埃克森美孚股價盤前上漲1.89%。此前第三季度盈利超預期。\n⑧雪佛龍盤前漲1.55%，此前公佈的第三季度業績超預期。\n⑨亞馬遜公佈季度業績後，美國伺服器製造商的股票在盤前交易中下跌。戴爾下跌 11.8%，惠普下跌 8%，超微電腦下跌 6%。"
+    },
+    {
+      "id": "te:markets:596854",
+      "time": "2026-10-30 20:23:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Brent Crude Approaches 4-Year High — Brent crude rose above $113 a barrel on Friday, moving closer to the four-year high of $116.72 reached on October 23, as escalating geopolitical tensions raised concerns about potential supply disruptions. The rally followed reports that a senior US military commander had briefed President Donald Trump on options for renewed strikes against Iran, while Trump has repeatedly threatened further military action. Tehran, meanwhile, signalled that it would not soften its position on ending the conflict, despite confirming receipt of a letter from US Vice President JD Vance aimed at reviving peace negotiations. Tensions around the Strait of Hormuz also intensified after two separate tanker incidents. Elsewhere, Ukrainian forces reportedly struck a Russian refinery in the Samara region, while Moscow launched another overnight attack against Ukraine. The developments have reinforced concerns over global oil supply security, with Brent crude gaining more than 15% in October."
+    },
+    {
+      "id": "5183008",
+      "time": "2026-10-30 20:23:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【抖音：“丟失100克黃金重金懸賞”相關資訊系編造，相關賬號及內容已被依規處置】10月30日，抖音黑板報釋出《抖音關於開展“清朗·整治短影片虛假人設亂象”專項行動的公告（三）》。本次專項行動聚焦短影片虛假人設亂象，開展深度治理，重點整治以下五類違規行為：假扮弱勢群體騙取關注、虛構職業資質釋出專業內容、利用AI仿冒人物虛假營銷、鼓吹奢靡迷信引流牟利、編造衝突劇情博取流量。10月23日至10月29日期間，平臺累計處置違規賬號6000餘個，清理違規影片1.5萬餘條。本週典型案例如下：案例一：賬號“樅*”釋出擺拍“丟失100克黃金重金懸賞”的影片博取關注，經平臺核查，相關資訊系編造，相關賬號及內容已被依規處置。案例二：賬號“A*”釋出擺拍“單親父親帶孩子送外賣”的影片博取關注，經平臺核查，相關資訊系編造，相關賬號及內容已被依規處置。案例三：賬號“大*”虛構“保姆盜竊財物嫁禍老人”“媳婦禁止公公進屋吃飯”等家庭衝突內容吸引流量，經平臺核查，相關資訊系AI生成，相關賬號及內容已被依規處置。"
+    },
+    {
+      "id": "te:markets:596853",
+      "time": "2026-10-30 20:23:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Silver traded below 50 USD/t.oz — Silver decreased below 50, according to trading on a contract for difference (CFD)."
+    },
+    {
+      "id": "5183007",
+      "time": "2026-10-30 20:22:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國鐵集團：前三季度實現營業總收入9143億元，淨利潤盈利130億元】10月30日，國鐵集團披露2026年前三季度財務決算：營業總收入9143億元，淨利潤盈利130億元；全國鐵路累計傳送旅客37.1億人次、同比增長4.8%，創歷史同期新高，其中5月1日傳送2484.4萬人次，創單日歷史新高；累計傳送貨物30.5億噸，日均裝車18.8萬車；完成固定資產投資6012億元、同比增長1.3%，累計投產新線1625公里；三季度末資產負債率61.49%，較2025年末下降0.49個百分點。"
+    },
+    {
+      "id": "mkt:01a18cc3-54f7-7ee0-aa0a-b75bdc642221",
+      "time": "2026-10-30 20:22:53",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member MAKHLOUF said inflation at current levels is worrying and upside risks remain."
+    },
+    {
+      "id": "mkt:01a18cc3-3663-7ee0-aa0a-ad872331ae66",
+      "time": "2026-10-30 20:22:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Melania Trump said that during the 80-hour ceasefire Russian and Ukrainian humanitarian teams operated on the ground in Oleshky, delivering aid and preparing civilian evacuation convoys, and that these coordinated actions were fully in line with the agreement reached between Russia and Ukraine."
+    },
+    {
+      "id": "5183006",
+      "time": "2026-10-30 20:22:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Twilio美股盤前跌超20%】Twilio美股盤前跌超20%，現報193.463美元。"
+    },
+    {
+      "id": "5183005",
+      "time": "2026-10-30 20:21:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行執委馬赫盧夫：在週四的會議上認真考慮了加息的理由。"
+    },
+    {
+      "id": "mkt:01a18cc2-470a-7ee0-aa0a-a2c8f8f94108",
+      "time": "2026-10-30 20:21:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "BP.L"
+      ],
+      "text": "BP CFO says retail fuel demand has shown some weakness."
+    },
+    {
+      "id": "te:economy:596851",
+      "time": "2026-10-30 20:21:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Chile Industrial Output Falls for 2nd Month — Chile’s industrial production fell 2.7% year-on-year in September 2026, easing from a 5.7% decline in August. The contraction was driven by mining output, which dropped 8.7%, although the decline narrowed from 11.7% in the previous month. Mining activity remained in contraction for a second consecutive month, reflecting a 12% fall in metallic mining and a 15.1% drop in copper extraction and processing. In contrast, manufacturing output rebounded by 2%, following a 2.6% decline in August, while utilities production increased 0.8%, slowing from 1% growth. On a monthly basis, industrial production rose 2.7%, recovering from a 2.2% drop in the previous month."
+    },
+    {
+      "id": "te:economy:596850",
+      "time": "2026-10-30 20:21:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Chile Retail Sales Growth Accelerates in September — Chile’s retail trade growth accelerated to 4.4% year-on-year in September 2026, up from an upwardly revised 3.6% in August, driven mainly by stronger sales across several categories. The largest gains were recorded in spare parts, tires, and accessories for motor vehicles (15.6% vs. 13.7% in August), used light-duty and commercial vehicles (8.4% vs. 2.9%), miscellaneous consumer goods (9.8% vs. 5.1%), electronic products, home equipment, and technology products (8.4% vs. 5.3%), and construction materials, tools, hardware, and paint (8.1% vs. 7.8%). Sales also increased at a faster pace for pharmacy, cosmetics, and personal hygiene products (3.0% vs. 1.3%), while growth in clothing, footwear, and accessories remained unchanged at 2.5%. In contrast, sales of new light motor vehicles fell 3.8%, reversing an 8.9% increase in August. On a seasonally adjusted monthly basis, retail trade rose 1.0% in September, following an upwardly revised 2.1% jump in August."
+    },
+    {
+      "id": "mkt:01a18cc2-1245-7ee0-aa0a-9cd58744451e",
+      "time": "2026-10-30 20:21:31",
+      "tags": [
+        "MKT News",
+        "601336.SS",
+        "Impact bullish"
+      ],
+      "text": "【New China Life Insurance says four life-insurance regulatory metrics all compliant; expects to rank above peers】At its 3Q26 results briefing New China Life Insurance said all four life-insurance regulatory metrics meet regulatory requirements. Management said some metrics carry safety margins and, combined with bottom-line constraints, it expects the firm's indicator performance to be relatively strong within the industry."
+    },
+    {
+      "id": "5183004",
+      "time": "2026-10-30 20:21:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新華保險回應壽險監管指標：四項全部達標，預計處於行業較好水平】新華保險今日召開2026年三季度業績說明會。談及壽險的四項監管指標情況，新華保險管理層回應稱，從測算的結果上來看，公司四個指標都完全符合監管的要求。部分指標留有安全邊際，疊加相關底線約束，預計公司指標表現在行業內處於較好水平。"
+    },
+    {
+      "id": "5183003",
+      "time": "2026-10-30 20:21:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃克森美孚執行長預計餾分油日產量將提高10萬桶。"
+    },
     {
       "id": "5183002",
       "time": "2026-10-30 20:20:17",
@@ -118803,122 +119042,6 @@
         "國際"
       ],
       "text": "印度央行：FCNR(B)貨幣互換視窗下的強勁資金流入增加了外匯儲備。"
-    },
-    {
-      "id": "5164689",
-      "time": "2026-10-23 20:25:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國航空工業集團董事長魏應彪會見空客公司執行長傅裡】10月22日，中國航空工業集團董事長魏應彪在京會見空中客車公司執行長傅裡一行。魏應彪對傅裡一行來訪表示歡迎，對空客公司近年來取得的發展成果表示祝賀。希望雙方立足各自優勢，深化供應鏈協同，進一步拓展合作領域，形成更多務實合作成果。"
-    },
-    {
-      "id": "mkt:01a168b9-38eb-7ee0-a958-083f27ef60bd",
-      "time": "2026-10-23 20:25:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India: Indian economy continues to show strong momentum."
-    },
-    {
-      "id": "mkt:01a168b9-32e0-7ee0-a958-00383193d7e6",
-      "time": "2026-10-23 20:25:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "A top executive at Italian oil major ENI said production at Venezuela's Junin-5 oilfield is expected to reach 200,000 bpd within 18-24 months."
-    },
-    {
-      "id": "5164688",
-      "time": "2026-10-23 20:25:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：推動保險機構圍繞科技型中小企業研發、轉化、生產、運營等環節開發專屬保險產品】中共北京市委金融委員會辦公室，中國人民銀行北京市分行等單位關於印發《北京市全面提升金融營商環境實施方案》的通知。其中提到，在建設科技保險創新“首發地”方面開展先行先試。推動保險機構圍繞科技型中小企業研發、轉化、生產、運營等環節開發專屬保險產品，強化企業創新發展風險保障。鼓勵保險機構開發適應商業航天等新興技術行業特點的保險產品，探索在機器人、智慧駕駛、生物醫藥、中試、重大科技攻關等新興產業和重點領域組建共保體，有力支撐高水平科技自立自強。推動銀行、保險機構協同合作，為科技企業提供綜合金融服務。"
-    },
-    {
-      "id": "5164687",
-      "time": "2026-10-23 20:24:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京：推動更多創新型中小企業在北京證券交易所上市，支援北京證券交易所開展“京津冀服務年”等專項工作】中共北京市委金融委員會辦公室，中國人民銀行北京市分行等單位關於印發《北京市全面提升金融營商環境實施方案》的通知。其中提到，全面加強企業上市服務，深入開展“鑽石工程”“育英計劃”，用好“服務包”和企業上市服務工作機制，發揮“我要上市”企業服務專欄作用，提升服務精準性、適配性，引導“更早、更小、更新”企業到新三板掛牌培育，大力支援符合條件的企業在境內外資本市場上市。推動更多創新型中小企業在北京證券交易所上市，支援北京證券交易所開展“京津冀服務年”等專項工作，形成優質上市“後備軍”。抓住資本市場提升制度包容性、適應性改革機遇，推動企業用好併購重組、再融資、科創板和創業板等改革政策，強化政策宣講和解讀，依託上市公司常態化走訪機制“送政策上門”，培育更多體現高質量發展要求的上市公司。"
-    },
-    {
-      "id": "5164686",
-      "time": "2026-10-23 20:24:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：提升金融機構綠色金融服務能力，支援設立綠色金融特色分支機構】中共北京市委金融委員會辦公室，中國人民銀行北京市分行等單位關於印發《北京市全面提升金融營商環境實施方案》的通知。其中提到，提升金融機構綠色金融服務能力，支援設立綠色金融特色分支機構，在產品服務創新、碳核算與環境資訊披露、零碳低碳運營、考核管理等方面先行先試。支援北京綠色交易所推進全國溫室氣體自願減排交易機構建設，保障自願減排交易平穩執行。鼓勵金融機構合規參與碳市場，做好服務工作，支援首都綠色低碳轉型。"
-    },
-    {
-      "id": "5164685",
-      "time": "2026-10-23 20:24:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【張裕Ａ：2026年第三季度淨利潤1090.7萬元，同比增長468.92%】張裕Ａ公告，2026年第三季度營業收入6.81億元，同比增長5.52%；歸母淨利潤1090.7萬元，同比增長468.92%；扣非淨利潤593.01萬元。2026年前三季度營業收入22.54億元，同比增長6.51%；歸母淨利潤1.51億元，同比下降19.25%；扣非淨利潤1.39億元，同比下降17.52%。"
-    },
-    {
-      "id": "5164684",
-      "time": "2026-10-23 20:24:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【風華高科：2026年第三季度淨利潤3.51億元，同比增長470.17%】風華高科公告，2026年第三季度營業收入22.99億元，同比增長71.97%；歸母淨利潤3.51億元，同比增長470.17%；扣非淨利潤3.49億元，同比增長464.27%。2026年前三季度營業收入57.99億元，同比增長41.15%；歸母淨利潤6.42億元，同比增長180.90%；扣非淨利潤6.36億元，同比增長174.14%。"
-    },
-    {
-      "id": "5164683",
-      "time": "2026-10-23 20:23:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【佛山照明：中區地塊掛牌容積率調整 預計補償收入減少】佛山照明公告稱，佛山市自然資源局禪城分局對公開掛牌出讓的公司中區地塊規劃容積率作出調整，由≤2.8調整為≤2.5，樓面地價起拍價仍為6700元/平方米。若地塊按起拍價全部出讓，公司預計可收到的掛賬收儲補償收入由約5.50億元調整為約5.45億元，預計淨收益由3.40億元調整為約3.35億元。本次交易最終成交情況及對業績的影響尚存在不確定性。"
-    },
-    {
-      "id": "5164682",
-      "time": "2026-10-23 20:23:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鳴志電器：控股股東及實控人無應披露未披露重大事項】鳴志電器公告稱，公司股票交易出現異常波動，經向控股股東上海鳴志投資管理有限公司及實際控制人常建鳴、傅磊函證確認，截至回函出具日，除已依法公開披露的資訊外，不存在影響公司股票交易價格異常波動的重大資訊，亦不存在其他應披露而未披露的重大事項，包括但不限於重大資產重組、股份發行、收購等重大事項；股票異常波動期間，控股股東及一致行動人、實控人均不存在買賣公司股票的情況。"
-    },
-    {
-      "id": "5164681",
-      "time": "2026-10-23 20:23:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：提高線上線下貸款審批效率】中共北京市委金融委員會辦公室、中國人民銀行北京市分行等單位印發《北京市全面提升金融營商環境實施方案》的通知。其中提到， 穩妥發展線上貸款業務，指導轄內銀行機構運用人工智慧、大資料、雲端計算等技術手段，最佳化升級授信審批和風險管理模型，獨立規範開展貸款風險評估和授信審批。推動轄內銀行機構最佳化線下貸款流程、授權體系，精簡審貸材料，壓縮辦理時限，實現貸款辦理優體驗、提效率、控風險。在滿足監管政策的條件下，探索開展“AI面客”服務試點工作，推動轄內銀行機構提供面向個人使用者的智慧化服務，提升使用者業務辦理效率和體驗。"
-    },
-    {
-      "id": "5164680",
-      "time": "2026-10-23 20:22:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：持續推動北京地區優質誠信企業跨境人民幣結算便利化工作，提升便利化業務覆蓋面】中共北京市委金融委員會辦公室，中國人民銀行北京市分行等單位關於印發《北京市全面提升金融營商環境實施方案》的通知。其中提到， 持續推動北京地區優質誠信企業跨境人民幣結算便利化工作，提升便利化業務覆蓋面。推動銀行機構提升跨境人民幣產品供給及服務，著力推動貨物貿易項下跨境人民幣結算。進一步推動北京地區跨境貿易高水平開放試點擴圍提質，提升企業貿易外匯資金結算效率。在中國（北京）自貿試驗區實施跨境貿易投融資便利化政策試點，進一步提升跨境融資便利化水平。"
-    },
-    {
-      "id": "mkt:01a168b6-733e-7ee0-a957-fe347ff529c9",
-      "time": "2026-10-23 20:22:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al-Mamlaka TV reported two gunmen emerged from a car and opened fire on a funeral procession at a church in Karak, Jordan, killing at least seven and wounding about 10."
-    },
-    {
-      "id": "mkt:01a168b6-2abb-7ee0-a957-f7593122732a",
-      "time": "2026-10-23 20:22:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China autumn grain harvest exceeds 80%】The Ministry of Agriculture and Rural Affairs said on the 23rd that China’s autumn grain harvest has surpassed 80%. By region, the Northeast, Northwest and Huang-Huai-Hai areas are above 80%; the middle‑lower Yangtze River basin is over 60%; South China is above 30%. Winter wheat sowing is over 30% nationally: Huang‑Huai‑Hai above 20%, Northwest nearly 90%, Southwest above 20%, and the middle‑lower Yangtze area reports only scattered sowing. (Xinhua)"
     }
   ]
 }
