@@ -1,7 +1,140 @@
 {
   "date": "2026-10-30",
-  "count": 931,
+  "count": 944,
   "items": [
+    {
+      "id": "5181035",
+      "time": "2026-10-30 09:22:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美銀：將美光科技列為記憶體板塊首選股，目標價看高至1550美元】美國銀行將美光科技列為記憶體板塊首選股，維持“買入”評級，目標價為1550美元。該行提出支援其推薦的五大關鍵因素：其一，記憶體仍是推動人工智慧效能表現與能效提升的核心要素；其二，目前記憶體規格下調反映的是供應短缺問題，而非需求重要性下降，更大的記憶體容量意味著每美元可產生更高的token輸出量；其三，供應鏈協議涵蓋三至五年期限，以照付不議形式訂立，附帶財務承諾，為雙方提供更大的靈活性；其四，美光科技在高頻寬記憶體(HBM)、動態隨機存取記憶體(DRAM)及NAND快閃記憶體產品方面均保持技術領先地位；其五，公司計劃自12月9日起加大對股東的資本回報力度。"
+    },
+    {
+      "id": "mkt:01a18a66-343c-7ee0-a9f4-64fc308a6ea8",
+      "time": "2026-10-30 09:21:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted CNY15 bln 7-day reverse repos today; bid and allotment volumes were CNY15 bln and the operation rate was 1.40%. It also carried out CNY1 tln overnight reverse repos."
+    },
+    {
+      "id": "5181034",
+      "time": "2026-10-30 09:21:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：今日開展150億元7天逆回購操作，投標量150億元，中標量150億元，操作利率為1.40%。同時，開展了10000億元隔夜逆回購操作。"
+    },
+    {
+      "id": "mkt:01a18a65-f1b9-7ee0-a9f4-58144dd7adcc",
+      "time": "2026-10-30 09:21:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "Impact bearish",
+        "Hang Seng China Enterprises Index"
+      ],
+      "text": "Hong Kong shares opened mixed on Oct 30: the Hang Seng Index (HSI) rose 52.64 points (+0.23%) to 23,011.29; the Hang Seng Tech Index fell 23.65 points (-0.63%) to 3,720.49; the Hang Seng China Enterprises Index (HSCEI) rose 23.85 points (+0.31%) to 7,779.51; the Hang Seng Red-chip Index rose 8.74 points (+0.23%) to 3,861.85."
+    },
+    {
+      "id": "mkt:01a18a65-e85d-7ee0-a9f4-579d7a59287f",
+      "time": "2026-10-30 09:21:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "Impact bearish",
+        "00300.HK"
+      ],
+      "text": "Hong Kong stocks opened mixed: Hang Seng Index up 0.23%, Hang Seng Tech Index down 0.63%. Midea Group (00300.HK) and New Oriental (09901.HK) rose about 4%; Lenovo Group (00992.HK) and Zhipu (02513.HK) fell about 7%."
+    },
+    {
+      "id": "5181033",
+      "time": "2026-10-30 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數漲0.23%，恒生科技指數跌0.63%】新東方-S漲3.92%，美的集團漲3.90%，康師傅控股漲3.41%，申洲國際漲2.57%，MINIMAX-W跌6.01%，智譜跌6.80%，聯想集團跌7.32%。"
+    },
+    {
+      "id": "5181032",
+      "time": "2026-10-30 09:20:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "高市早苗：密切關注中東局勢對物價走勢及經濟的影響；在必要時及時採取應對措施，以確保國民生活和經濟活動不受負面影響。"
+    },
+    {
+      "id": "mkt:01a18a64-9130-7ee0-a9f4-4e4c525991bb",
+      "time": "2026-10-30 09:20:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "In a phone call with Canada's defense minister David McGuinty, Saudi Arabia's defense minister reviewed prospects for Saudi-Canada defense cooperation, discussed recent regional developments and measures to bolster joint efforts for regional security and stability, and condemned Houthi terrorist attacks on Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a18a64-5656-7ee0-a9f4-459afb764116",
+      "time": "2026-10-30 09:19:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Most-active polysilicon futures contract fell 4.00% intraday to 34,825 yuan/ton."
+    },
+    {
+      "id": "te:markets:596508",
+      "time": "2026-10-30 09:19:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Losses on AI Concerns — The benchmark KOSPI edged down 0.09% to around 1,337 on Friday, extending losses for a second session as AI-related concerns weighed on investor sentiment. The sell-off followed overnight losses on Wall Street, led by technology shares, after Alphabet plunged more than 12% as its third-quarter revenue of USD 127.58 billion missed expectations, renewing concerns over returns on massive AI investments. Losses were further compounded by Samsung Electronics (-4.31%), SK Hynix (-7.40%), and Hyundai Motor (-2.74%). Naver also fell 1.49%, despite Nvidia's scheduled USD 1 billion investment next Friday, which will make it the company's third-largest shareholder. Naver has also secured at least USD 9 billion in computing infrastructure. Meanwhile, foreign investors turned net sellers of South Korean stocks in September, offloading KRW 19.11 trillion after recording net purchases in August, amid geopolitical risks and concerns over AI profitability."
+    },
+    {
+      "id": "mkt:01a18a63-d9c3-7ee0-a9f4-38471193dc49",
+      "time": "2026-10-30 09:19:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi defence minister said in a phone call with NATO Secretary General Rutte he discussed military and defence cooperation, coordination on the current regional situation and issues of mutual concern."
+    },
+    {
+      "id": "5181031",
+      "time": "2026-10-30 09:19:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內跌4%，現報34825.00元。"
+    },
+    {
+      "id": "5181030",
+      "time": "2026-10-30 09:18:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.5%至32.656。"
+    },
     {
       "id": "mkt:01a18a62-81bc-7ee0-a9f4-32d6c0563964",
       "time": "2026-10-30 09:17:53",

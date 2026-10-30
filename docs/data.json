@@ -1,7 +1,140 @@
 {
-  "updated": "2026-10-30 09:18:49",
-  "count": 13139,
+  "updated": "2026-10-30 09:22:47",
+  "count": 13141,
   "items": [
+    {
+      "id": "5181035",
+      "time": "2026-10-30 09:22:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美銀：將美光科技列為記憶體板塊首選股，目標價看高至1550美元】美國銀行將美光科技列為記憶體板塊首選股，維持“買入”評級，目標價為1550美元。該行提出支援其推薦的五大關鍵因素：其一，記憶體仍是推動人工智慧效能表現與能效提升的核心要素；其二，目前記憶體規格下調反映的是供應短缺問題，而非需求重要性下降，更大的記憶體容量意味著每美元可產生更高的token輸出量；其三，供應鏈協議涵蓋三至五年期限，以照付不議形式訂立，附帶財務承諾，為雙方提供更大的靈活性；其四，美光科技在高頻寬記憶體(HBM)、動態隨機存取記憶體(DRAM)及NAND快閃記憶體產品方面均保持技術領先地位；其五，公司計劃自12月9日起加大對股東的資本回報力度。"
+    },
+    {
+      "id": "mkt:01a18a66-343c-7ee0-a9f4-64fc308a6ea8",
+      "time": "2026-10-30 09:21:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted CNY15 bln 7-day reverse repos today; bid and allotment volumes were CNY15 bln and the operation rate was 1.40%. It also carried out CNY1 tln overnight reverse repos."
+    },
+    {
+      "id": "5181034",
+      "time": "2026-10-30 09:21:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：今日開展150億元7天逆回購操作，投標量150億元，中標量150億元，操作利率為1.40%。同時，開展了10000億元隔夜逆回購操作。"
+    },
+    {
+      "id": "mkt:01a18a65-f1b9-7ee0-a9f4-58144dd7adcc",
+      "time": "2026-10-30 09:21:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "Impact bearish",
+        "Hang Seng China Enterprises Index"
+      ],
+      "text": "Hong Kong shares opened mixed on Oct 30: the Hang Seng Index (HSI) rose 52.64 points (+0.23%) to 23,011.29; the Hang Seng Tech Index fell 23.65 points (-0.63%) to 3,720.49; the Hang Seng China Enterprises Index (HSCEI) rose 23.85 points (+0.31%) to 7,779.51; the Hang Seng Red-chip Index rose 8.74 points (+0.23%) to 3,861.85."
+    },
+    {
+      "id": "mkt:01a18a65-e85d-7ee0-a9f4-579d7a59287f",
+      "time": "2026-10-30 09:21:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "Impact bearish",
+        "00300.HK"
+      ],
+      "text": "Hong Kong stocks opened mixed: Hang Seng Index up 0.23%, Hang Seng Tech Index down 0.63%. Midea Group (00300.HK) and New Oriental (09901.HK) rose about 4%; Lenovo Group (00992.HK) and Zhipu (02513.HK) fell about 7%."
+    },
+    {
+      "id": "5181033",
+      "time": "2026-10-30 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數漲0.23%，恒生科技指數跌0.63%】新東方-S漲3.92%，美的集團漲3.90%，康師傅控股漲3.41%，申洲國際漲2.57%，MINIMAX-W跌6.01%，智譜跌6.80%，聯想集團跌7.32%。"
+    },
+    {
+      "id": "5181032",
+      "time": "2026-10-30 09:20:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "高市早苗：密切關注中東局勢對物價走勢及經濟的影響；在必要時及時採取應對措施，以確保國民生活和經濟活動不受負面影響。"
+    },
+    {
+      "id": "mkt:01a18a64-9130-7ee0-a9f4-4e4c525991bb",
+      "time": "2026-10-30 09:20:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "In a phone call with Canada's defense minister David McGuinty, Saudi Arabia's defense minister reviewed prospects for Saudi-Canada defense cooperation, discussed recent regional developments and measures to bolster joint efforts for regional security and stability, and condemned Houthi terrorist attacks on Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a18a64-5656-7ee0-a9f4-459afb764116",
+      "time": "2026-10-30 09:19:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Most-active polysilicon futures contract fell 4.00% intraday to 34,825 yuan/ton."
+    },
+    {
+      "id": "te:markets:596508",
+      "time": "2026-10-30 09:19:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Losses on AI Concerns — The benchmark KOSPI edged down 0.09% to around 1,337 on Friday, extending losses for a second session as AI-related concerns weighed on investor sentiment. The sell-off followed overnight losses on Wall Street, led by technology shares, after Alphabet plunged more than 12% as its third-quarter revenue of USD 127.58 billion missed expectations, renewing concerns over returns on massive AI investments. Losses were further compounded by Samsung Electronics (-4.31%), SK Hynix (-7.40%), and Hyundai Motor (-2.74%). Naver also fell 1.49%, despite Nvidia's scheduled USD 1 billion investment next Friday, which will make it the company's third-largest shareholder. Naver has also secured at least USD 9 billion in computing infrastructure. Meanwhile, foreign investors turned net sellers of South Korean stocks in September, offloading KRW 19.11 trillion after recording net purchases in August, amid geopolitical risks and concerns over AI profitability."
+    },
+    {
+      "id": "mkt:01a18a63-d9c3-7ee0-a9f4-38471193dc49",
+      "time": "2026-10-30 09:19:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi defence minister said in a phone call with NATO Secretary General Rutte he discussed military and defence cooperation, coordination on the current regional situation and issues of mutual concern."
+    },
+    {
+      "id": "5181031",
+      "time": "2026-10-30 09:19:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內跌4%，現報34825.00元。"
+    },
+    {
+      "id": "5181030",
+      "time": "2026-10-30 09:18:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.5%至32.656。"
+    },
     {
       "id": "mkt:01a18a62-81bc-7ee0-a9f4-32d6c0563964",
       "time": "2026-10-30 09:17:53",
@@ -118608,113 +118741,6 @@
         "03330.HK"
       ],
       "text": "Hong Kong-listed gold stocks opened lower: Zijin Gold International (02259.HK) and Chifeng Gold (06693.HK) down more than 5%, Lingbao Gold (03330.HK) down over 4%; Shandong Gold (01787.HK), Zijin Mining (02899.HK) and Zhaojin Mining (01818.HK) also weaker."
-    },
-    {
-      "id": "5163016",
-      "time": "2026-10-23 09:22:32",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【應急管理部將國家地震災害應急響應提升至三級】記者23日從應急管理部獲悉，針對西藏那曲市巴青縣地震，國務院抗震救災指揮部辦公室、應急管理部將國家地震災害應急響應由四級提升至三級，派出工作組赴震區指導協助。10月22日22時33分，西藏那曲市巴青縣發生7.0級地震，已造成16人遇難，54人受傷。地震發生後，國務院抗震救災指揮部副總指揮、應急管理部有關負責人持續排程指導應急處置工作。應急管理部指導西藏自治區應急管理廳調派翼龍無人機趕赴災區，開展災情偵察任務。據瞭解，國家綜合性消防救援隊伍共調派350人、83車出動救援，截至23日6時30分，已有120人、27車抵達災區，西藏消防救援總隊230人、56車在增援途中，均已行進至那曲境內。（新華社）"
-    },
-    {
-      "id": "5163015",
-      "time": "2026-10-23 09:22:00",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放250.0億元人民幣。"
-    },
-    {
-      "id": "mkt:01a16659-8c79-7ee0-a952-b47371800eee",
-      "time": "2026-10-23 09:21:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong stocks opened higher on Friday, Oct 23: Hang Seng Index (HSI) up 93.3 pts (0.41%) at 23,027.98; Hang Seng TECH Index up 19.5 pts (0.51%) at 3,813.43; China Enterprises Index (HSCEI) up 55.37 pts (0.72%) at 7,744.56; Red-chip Index up 17.49 pts (0.46%) at 3,852.66."
-    },
-    {
-      "id": "mkt:01a16659-6fa6-7ee0-a952-afa4e444cda6",
-      "time": "2026-10-23 09:21:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "02015.HK",
-        "Impact bullish",
-        "Hang Seng Index",
-        "Hang Seng Tech Index"
-      ],
-      "text": "Hong Kong stocks opened higher: Hang Seng up 0.41%, Hang Seng Tech up 0.51%. Autos led gains; Li Auto (02015.HK) rose 3.5% at the open."
-    },
-    {
-      "id": "5163014",
-      "time": "2026-10-23 09:21:32",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行：根據公開市場業務一級交易商的需求，2026年10月23日7天期逆回購操作量為零。同時，開展了2580億元隔夜逆回購操作。"
-    },
-    {
-      "id": "mkt:01a16659-529b-7ee0-a952-a2aed5a8ac47",
-      "time": "2026-10-23 09:21:32",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Lithium carbonate 2701 futures weakened intraday, extending losses to 3.17% at 91,500 yuan/ton; turnover about 8.209 billion yuan and open interest rose by roughly 7,500 contracts intraday, with prices falling while positions increased."
-    },
-    {
-      "id": "5163013",
-      "time": "2026-10-23 09:21:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【娃哈哈集團董事長許思敏被曝辭職，知情人士：許仍在上班】從一名娃哈哈知情人士處獲悉，許思敏目前並未正式離職，內部也沒有釋出通告，不過最近沒有代表娃哈哈出庭參加娃哈哈相關訴訟。未能從娃哈哈集團獲得相關回應。至此，許思敏在娃哈哈董事長兼總經理的任期不足一年。2025年9月，宗馥莉向娃哈哈集團有限公司辭去公司法定代表人、董事及董事長等相關職務，2025年10月，娃哈哈集團任命新高管，許思敏成為集團總經理，當時董事長職務空缺。2025年11月27日，天眼查資訊顯示，杭州娃哈哈集團有限公司發生工商變更，宗馥莉卸任法定代表人，變更為許思敏。同時，許思敏還任杭州娃哈哈集團有限公司董事長、總經理職務。（介面新聞）"
-    },
-    {
-      "id": "5163012",
-      "time": "2026-10-23 09:21:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股開盤：恒生指數漲0.41%，恒生科技指數漲0.51%】騰訊音樂-SW漲3.98%，理想汽車-W漲3.27%，國藥控股漲2.79%，網易漲2.26%，百濟神州漲2.14%，京東集團-SW漲2.03%，美團-W漲1.89%。"
-    },
-    {
-      "id": "mkt:01a16658-9b6d-7ee0-a952-9fd248e30405",
-      "time": "2026-10-23 09:20:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "PBOC said that, based on primary dealers' demand, the 7‑day reverse repo operation on 23 October 2026 was zero and it injected CNY 258 billion via overnight reverse repos."
-    },
-    {
-      "id": "5163011",
-      "time": "2026-10-23 09:20:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率<JP10YTN=JBTC>延續跌勢，最新下跌12個基點，至2.760%。"
-    },
-    {
-      "id": "5163010",
-      "time": "2026-10-23 09:19:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普稱馬斯克恢復對烏星鏈服務】當地時間10月22日下午，美國總統特朗普在白宮被媒體問及“是否致電美國太空探索技術公司執行長馬斯克，要求其解除對烏克蘭軍用版‘星鏈’衛星通訊服務的限速”。特朗普對此表示“不予置評”，但“重要的是馬斯克已經恢復了相關服務”。 不過，烏克蘭總統澤連斯基當天早些時候對媒體稱，限速尚未徹底解除。而另據烏克蘭軍方人士訊息，“星鏈”服務的執行速度似乎正在恢復，已高於此前水平。 據美國《華爾街日報》當天報道，特朗普已致電馬斯克，要求他解除對烏克蘭境內“星鏈”衛星通訊系統軍事化版本的相關限制。美國國務卿魯比奧10月21日曾稱，烏克蘭使用“星鏈”衛星通訊系統遭限速的決定“由馬斯克作出，而非白宮”。報道援引美國官員的話說，特朗普向馬斯克表示，他對“星鏈”系統的使用速度受限感到不滿。（CCTV國際時訊）"
     }
   ]
 }
