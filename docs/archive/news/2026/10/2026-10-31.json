@@ -1,7 +1,93 @@
 {
   "date": "2026-10-31",
-  "count": 282,
+  "count": 290,
   "items": [
+    {
+      "id": "mkt:01a18e14-fff1-7ee0-aa13-d3f4ac124d75",
+      "time": "2026-10-31 02:31:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude oil futures settled at $104.12/bbl, up $2.12 or 2.08%."
+    },
+    {
+      "id": "mkt:01a18e14-9b05-7ee0-aa13-c8c6e8288dfd",
+      "time": "2026-10-31 02:31:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, Shanghai gold main contract fell 3.51% to 832 yuan/gram, Shanghai silver main contract fell 6.80% to 11,532 yuan/kg, and SC crude oil main contract rose 4.25% to 759 yuan/barrel."
+    },
+    {
+      "id": "5183537",
+      "time": "2026-10-31 02:31:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 12月原油期貨收報104.12美元/桶。NYMEX 11月汽油期貨收報3.3120美元/加侖，NYMEX 11月取暖油期貨收報4.7905美元/加侖。"
+    },
+    {
+      "id": "mkt:01a18e13-ddcc-7ee0-aa13-c331dedb6f33",
+      "time": "2026-10-31 02:30:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan military says cautiously optimistic about mediating US‑Iran de‑escalation】Spokesman Lt. Gen. Ahmed Sharif Chaudhry said on Friday Pakistan is \"cautiously optimistic\" about mediating a US‑Iran de‑escalation, noting Army chief General Munir visited Tehran twice this month, most recently on Monday accompanied by Saudi Defense Minister Khalid bin Salman and Turkish intelligence chief Ibrahim Kalin. Chaudhry said the repeat trips indicate some positive progress but warned powerful spoilers remain and declined to disclose meeting details or whether the US supported the visit. He said defence agreements among Pakistan, Saudi Arabia and Turkey do not preclude new members; Iran could be welcomed if it endorses collective deterrence and regional peace, but any admission would require political sign‑off by the three governments. Pakistan reaffirmed it will honour commitments to defend Saudi Arabia and the holy sites of Mecca and Medina, but said any additional troop deployments under the pact would depend on the situation and political leadership. He added Pakistan is not a party to the Yemen conflict and views it as an internal matter."
+    },
+    {
+      "id": "mkt:01a18e13-bc23-7ee0-aa13-bea74d1ef658",
+      "time": "2026-10-31 02:30:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 3.11% at 831.1 yuan/gram in Friday's evening session; silver T+D fell 5.76% to 11,503.0 yuan/kg."
+    },
+    {
+      "id": "te:markets:596956",
+      "time": "2026-10-31 02:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Depreciates by 1.33% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a -1.33% decrease."
+    },
+    {
+      "id": "5183536",
+      "time": "2026-10-31 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲4.25%，報758.50元人民幣/桶。滬金夜盤收跌3.51%，滬銀收跌6.80%。"
+    },
+    {
+      "id": "te:markets:596955",
+      "time": "2026-10-31 02:28:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Broadcom Shares Hit 29-week Low — Broadcom shares decreased to 320.22 USD, the lowest since April 2026. Over the past 4 weeks, Broadcom Inc lost 6.77%, and in the last 12 months, it decreased 13.33%."
+    },
     {
       "id": "5183535",
       "time": "2026-10-31 02:27:56",
