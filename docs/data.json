@@ -1,7 +1,83 @@
 {
-  "updated": "2026-10-30 14:10:17",
-  "count": 13021,
+  "updated": "2026-10-30 14:14:07",
+  "count": 13022,
   "items": [
+    {
+      "id": "5181507",
+      "time": "2026-10-30 14:13:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【加密貨幣儲存公司Ballet創始人稱 幣安遭竊的比特幣恐追不回來了】加密貨幣儲存公司Ballet Global Inc.創始人Bobby Lee表示，幣安遭駭客攻擊中被竊的比特幣，恐怕已經不可能追回。Lee在週五接受採訪時表示，那些比特幣都一去不返了。被竊的比特幣全都已經落到駭客手中。全球最大加密貨幣交易所幣安估計，這起竊案影響了63億美元的資產。業界形容，這是加密貨幣圈歷來規模最大的駭客攻擊。幣安已暫停所有存取，並承諾承擔所有損失。"
+    },
+    {
+      "id": "5181505",
+      "time": "2026-10-30 14:11:20",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行西姆庫斯：維持利率不變並不意味著未來不會再加息。"
+    },
+    {
+      "id": "5181503",
+      "time": "2026-10-30 14:10:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲5%，現報5498.00元。"
+    },
+    {
+      "id": "5181502",
+      "time": "2026-10-30 14:10:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【里昂：升中國石油股份目標價至12.4港元 維持“跑贏大市”評級】里昂釋出研報稱，中國石油股份H股被市場錯價;該行上調中國石油股份2026至2028年每股盈利預測2%至8%，並以SOTP估值將H股目標價由12港元升至12.4港元，A股目標價由15.9元人民幣升至16元人民幣，維持“跑贏大市”評級。"
+    },
+    {
+      "id": "te:economy:596617",
+      "time": "2026-10-30 14:10:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "GDP Growth Rate",
+        "Importance 0"
+      ],
+      "text": "Finnish Economy Expands 0.5% QoQ in Q3 — Finland’s economy expanded by 0.5% quarter-on-quarter in the third quarter of 2026, edging up from 0.4% growth in the previous quarter, according to preliminary estimates. This marked the fourth consecutive period of economic expansion, following a period of stagnation in the third quarter of 2025. On a yearly basis, Finland’s GDP ticked up to 1.8% from 1.6% in the second quarter, marking the strongest annual growth since the fourth quarter of 2024."
+    },
+    {
+      "id": "te:economy:596616",
+      "time": "2026-10-30 14:10:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Monthly GDP YoY",
+        "Importance 0"
+      ],
+      "text": "Finnish Economic Growth Accelerates in September — Finland’s gross domestic product expanded by 2.0% year-on-year in September 2026, accelerating from an downwardly revised 1.3% growth in the previous month. The latest reading marked the eighth consecutive month of expansion in the Finnish economy. On a seasonally adjusted monthly basis, the country’s economy grew by 0.2% in September, slightly up from a 0.1% rise in August."
+    },
+    {
+      "id": "5181501",
+      "time": "2026-10-30 14:10:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：融資融券板塊淨流出超134億】截至目前，今日主力資金淨流出144.83億；淨流入食品飲料概念、醫藥生物、食品飲料等板塊，其中食品飲料概念板塊淨流入37.91億；淨流出融資融券、轉融券標的、TMT等板塊，其中融資融券板塊淨流出134.22億。\n  \n個股方面，寧德時代淨買入8.73億元位居首位，金安國紀、埃斯頓、五 糧 液主力資金淨流入居前；天孚通訊淨賣出4.13億元位居首位，中天科技、天娛數科、勝宏科技淨流出額居前。"
+    },
+    {
+      "id": "5181500",
+      "time": "2026-10-30 14:10:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "蘋果連續主力合約日內漲6%，現報5858.00元。"
+    },
     {
       "id": "5181499",
       "time": "2026-10-30 14:09:30",
@@ -117726,68 +117802,6 @@
         "其他"
       ],
       "text": "【前三季度廣東GDP同比增長4.6% 創五年來同期最高增速】廣東省統計局釋出今年前三季度經濟資料。根據地區生產總值統一核算結果，前三季度，廣東實現地區生產總值111090.77億元。按不變價格計算，同比增長4.6%，高於上半年增速0.1個百分點。總的來看，前三季度廣東經濟增速與全國實現同步，經濟總量繼續穩居全國首位。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202610233906119843",
-      "time": "2026-10-23 14:13:59",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【前三季度廣東GDP同比增長4.6% 創五年來同期最高增速】廣東省統計局釋出今年前三季度經濟資料。根據地區生產總值統一核算結果，前三季度，廣東實現地區生產總值111090.77億元。按不變價格計算，同比增長4.6%，高於上半年增速0.1個百分點。總的來看，前三季度廣東經濟增速與全國實現同步，經濟總量繼續穩居全國首位。結合近年資料來看，這是廣東自2021年三季度以來首次追平全國增速，創下五年來同期最快增速。"
-    },
-    {
-      "id": "5163495",
-      "time": "2026-10-23 14:13:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度斯坦石油公司高管：希望從12月起在拉賈斯坦邦煉油廠開始加工高硫原油。"
-    },
-    {
-      "id": "5163494",
-      "time": "2026-10-23 14:13:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2.07%，成分股中，沐曦股份漲10.35%，摩爾執行緒漲10.29%，中控技術漲8.28%，影石創新漲6.78%。"
-    },
-    {
-      "id": "5163493",
-      "time": "2026-10-23 14:13:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲2.01%，現報11585.460點；上證指數漲0.35%，現報3670.686點；創業板指漲3.11%，現報2656.955點。"
-    },
-    {
-      "id": "5163491",
-      "time": "2026-10-23 14:11:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行將監測“前沿人工智慧”發展帶來的網路安全風險。"
-    },
-    {
-      "id": "5163490",
-      "time": "2026-10-23 14:11:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構：儘管面臨短期挑戰，全球LED顯示面板市場仍將實現高附加值增長】10月23日，Omdia最新研究預測，全球LED顯示面板市場正面臨零部件成本上漲、貿易摩擦以及傳統應用領域需求走弱等多重壓力，增速有所放緩。不過，2026年至2030年間，該市場營收複合年增長率（CAGR）將達到11.6%，這一增長主要得益於新興應用場景的拓展、區域製造產能的擴張，以及產品結構向高附加值方向的轉型。"
-    },
-    {
-      "id": "5163489",
-      "time": "2026-10-23 14:10:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲2%，現報6674.00點。"
     }
   ]
 }
