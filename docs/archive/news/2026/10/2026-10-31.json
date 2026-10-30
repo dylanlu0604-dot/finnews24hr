@@ -1,7 +1,18 @@
 {
   "date": "2026-10-31",
-  "count": 501,
+  "count": 502,
   "items": [
+    {
+      "id": "te:markets:596967",
+      "time": "2026-10-31 06:40:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Falls by 2.11% — Top commodity loser is Rubber (-2.11%). Gains are led by Palm Oil (1.17%), Canola (0.71%) and Coffee (0.56%)."
+    },
     {
       "id": "te:markets:596966",
       "time": "2026-10-31 06:35:05",

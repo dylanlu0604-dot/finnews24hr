@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-31 06:37:55",
-  "count": 13193,
+  "updated": "2026-10-31 06:41:42",
+  "count": 13191,
   "items": [
+    {
+      "id": "te:markets:596967",
+      "time": "2026-10-31 06:40:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Falls by 2.11% — Top commodity loser is Rubber (-2.11%). Gains are led by Palm Oil (1.17%), Canola (0.71%) and Coffee (0.56%)."
+    },
     {
       "id": "te:markets:596966",
       "time": "2026-10-31 06:35:05",
@@ -120042,35 +120053,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Binance Rises by 1.20% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.20% increase."
-    },
-    {
-      "id": "5165352",
-      "time": "2026-10-24 06:40:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美銅暗盤日內漲超1%，現報6.4875美元。"
-    },
-    {
-      "id": "te:markets:594773",
-      "time": "2026-10-24 06:40:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Butter Falls by 3.59% — Top commodity losers are Butter (-3.59%), Coffee (-2.07%) and Oat (-1.26%). Gains are led by Barley (0.76%) and Sugar (0.59%)."
-    },
-    {
-      "id": "5165351",
-      "time": "2026-10-24 06:38:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "閃迪暗盤跌超4%，現報1238美元。"
     }
   ]
 }
