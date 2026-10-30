@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-31 02:21:01",
-  "count": 13196,
+  "updated": "2026-10-31 02:24:46",
+  "count": 13194,
   "items": [
+    {
+      "id": "5183530",
+      "time": "2026-10-31 02:23:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "ARIES FINANCIAL：在ARIES移動端推出針對2026年美國中期選舉、經濟資料及金融市場的預測市場。"
+    },
+    {
+      "id": "5183529",
+      "time": "2026-10-31 02:20:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌9%】費城半導體指數日內跌9.00%，現報10481.41點。英偉達跌5.51%，博通跌6.97%，美光跌7.41%，英特爾跌30.87%，AMD跌12.21%，高通跌12.46%，臺積電跌6.82%，阿斯麥跌8.25%。"
+    },
     {
       "id": "5183528",
       "time": "2026-10-31 02:20:29",
@@ -120091,38 +120107,6 @@
         "Energy"
       ],
       "text": "UK government said US President Trump discussed with UK Prime Minister Burnham the energy minister's decision to approve the Jackdaw gas field."
-    },
-    {
-      "id": "mkt:01a16a01-a0c4-7ee0-a95e-99bb4fac08dd",
-      "time": "2026-10-24 02:24:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The UK government said Prime Minister Burnham stressed in a conversation with US President Trump that it is vital for Ukraine to be able to fully use Starlink."
-    },
-    {
-      "id": "5165134",
-      "time": "2026-10-24 02:23:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相伯納姆與美國總統特朗普會談時強調，烏克蘭應當能夠完整使用星鏈（Starlink）。"
-    },
-    {
-      "id": "mkt:01a16a00-35de-7ee0-a95e-959b83e27d00",
-      "time": "2026-10-24 02:22:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jordan's prime minister said the attack on a church in Karak province was the result of 'the blind mindset of terrorist extremism'."
-    },
-    {
-      "id": "5165133",
-      "time": "2026-10-24 02:21:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "約旦首相表示，卡拉克省教堂遇襲是“恐怖極端分子盲目思維”的結果。"
     }
   ]
 }
