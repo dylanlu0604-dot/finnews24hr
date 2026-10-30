@@ -1,7 +1,250 @@
 {
   "date": "2026-10-30",
-  "count": 1461,
+  "count": 1488,
   "items": [
+    {
+      "id": "mkt:01a18b8d-0ed4-7ee0-a9fc-1b6612bef23c",
+      "time": "2026-10-30 14:43:59",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "BOJ Governor UEDA said CPI excluding special factors has continued to grow at a relatively high pace."
+    },
+    {
+      "id": "5181592",
+      "time": "2026-10-30 14:43:35",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：剔除特殊因素後的消費者物價指數（CPI）增速一直處於較高水平。"
+    },
+    {
+      "id": "5181591",
+      "time": "2026-10-30 14:43:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：所有成員一致認為，潛在通脹率已達到2%。"
+    },
+    {
+      "id": "5181590",
+      "time": "2026-10-30 14:43:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【分眾傳媒進軍巴西電梯廣告市場】據巴西《Exame》雜誌報道，中國電梯媒體企業分眾傳媒正式宣佈進入巴西市場，計劃在未來18個月內將當地廣告螢幕數量增至10萬塊，並逐步將巴西發展為其在中國以外的最大市場。（新華財經）"
+    },
+    {
+      "id": "5181589",
+      "time": "2026-10-30 14:43:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員卡西克：等待更多通脹資料是合理的。"
+    },
+    {
+      "id": "5181588",
+      "time": "2026-10-30 14:43:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【智慧穿戴板塊震盪走弱，環旭電子跌停】智慧穿戴板塊震盪走弱，環旭電子跌停，智動力、東山精密、華瓷股份、長盈精密、華興源創、潤欣科技等跟跌。"
+    },
+    {
+      "id": "5181587",
+      "time": "2026-10-30 14:42:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長沙樓市新政落地 支援最小單元報批驗收】10月30日，長沙市住建局、市自然資源和規劃局、國家金融監督管理總局湖南監管局聯合釋出《關於貫徹落實〈關於完善商品住房銷售制度的通知〉的實施意見》（以下簡稱“長沙細則”），落實全國商品住房銷售制度改革要求。記者發現，長沙細圍繞預售分類管控、現房有序推開、主辦銀行機制、房企融資支援、供地最佳化、開發建設管理六大方面推出舉措。在銷售節點上，長沙預售封頂核驗嚴於合肥、成都等僅以工程進度認定的城市，要求單體建築完成主體結構封頂（頂板混凝土澆築），須建設、勘察、設計、施工、監理五方出具簽字蓋章的《主體結構分部工程質量驗收記錄》。同時，長沙新出讓地塊優先現房銷售，取得施工證可收定金並全額監管，竣備達標後可備案銷售；房屋及土地須無抵押查封，允許抵押權人同意銷售抵押房屋但須承諾登出期限。（中國房地產報）"
+    },
+    {
+      "id": "5181586",
+      "time": "2026-10-30 14:42:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Spotify計劃於2027年推出AI混音服務】10月30日，據報道，知情人士稱，Spotify計劃於2027年第一季度推出一項由AI驅動的音樂混音服務。"
+    },
+    {
+      "id": "mkt:01a18b8b-9aac-7ee0-a9fc-143aefddc8d9",
+      "time": "2026-10-30 14:42:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "China A-share STAR 50 Index tumbled more than 5% in the late session; Western Superconducting Technologies plunged about 18% and Huahong Hongli fell about 8%."
+    },
+    {
+      "id": "5181585",
+      "time": "2026-10-30 14:42:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員卡西克：通脹尚未全面爆發。"
+    },
+    {
+      "id": "5181584",
+      "time": "2026-10-30 14:42:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【預製菜板塊震盪走弱，惠發食品等跌停】預製菜板塊震盪走弱，惠發食品、天地線上跌停，美盈森、雙槍科技、海欣食品、春雪食品、中百集團、佳沃食品等跟跌。"
+    },
+    {
+      "id": "5181583",
+      "time": "2026-10-30 14:41:57",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【科技股因業績疲軟遭拋售，新興市場股市走低】亞馬遜、英特爾等科技巨頭業績不及預期，打壓市場風險偏好，新興市場股市走弱。摩根士丹利資本國際新興市場指數週五下跌1.3%，盤中跌幅一度超2%。市場擔憂AI領域鉅額資本開支，疊加企業業績不及預期。亞洲股市承壓明顯，科技權重較高的市場領跌。作為全球AI交易重要風向標，韓國綜合股價指數月內下跌16%。花旗策略師Luis Costa等人在報告中寫道：“新興市場持續面臨相互博弈的宏觀因素，油價、AI市場情緒以及厄爾尼諾週期，或將持續主導市場走向。”新興市場貨幣指數下跌0.3%，連續第三日走弱。科技股拋售潮同時推升美債等避險資產的買盤。"
+    },
+    {
+      "id": "mkt:01a18b8b-0d9f-7ee0-a9fc-0e59b42c0f8a",
+      "time": "2026-10-30 14:41:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【USD/IDR ends three-day decline as capital outflow risk keeps pressure on rupiah】In Asian trade on Friday, USD/IDR reversed a three-day decline, trading near 18,180. Persistent foreign capital outflow risk is weighing on the rupiah and investor sentiment; the Jakarta Composite Index fell 1.29% to about 5,030, dragged by weaker US futures after Alphabet plunged overnight and renewed concerns over AI investment returns. Bank Indonesia said it will actively intervene in the spot FX market, in NDF and DNDF markets, and make targeted secondary-market purchases of government bonds to stabilise the currency."
+    },
+    {
+      "id": "mkt:01a18b8b-024d-7ee0-a9fc-01040c5dcea7",
+      "time": "2026-10-30 14:41:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan Governor UEDA said government measures will stimulate the economy and help achieve the 2% inflation target."
+    },
+    {
+      "id": "5181582",
+      "time": "2026-10-30 14:41:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長：工資增長機制，通脹迴歸。"
+    },
+    {
+      "id": "5181581",
+      "time": "2026-10-30 14:41:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：政府的各項措施刺激了經濟，從而實現了 2% 的物價目標。"
+    },
+    {
+      "id": "mkt:01a18b8a-adce-7ee0-a9fb-fdc8dee99ed5",
+      "time": "2026-10-30 14:41:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【France Q3 GDP unexpectedly contracts as multiple headwinds bite】France's economy unexpectedly contracted in Q3 as higher borrowing costs, violent protests and political and budgetary uncertainty weighed on activity. Insee said GDP fell 0.1% QoQ, driven by continued investment decline and weaker exports. The slowdown will complicate deficit control: the government cut this year's GDP growth forecast to 0.5% and abandoned plans to slightly narrow the deficit gap. Insee warned that if activity stagnates in Q4, full-year 2026 output growth would be just 0.2%. The print arrives the same day Germany, Italy and Spain are due to publish growth figures."
+    },
+    {
+      "id": "te:economy:596629",
+      "time": "2026-10-30 14:41:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Personal Spending",
+        "Importance 1"
+      ],
+      "text": "France Household Spending Unexpectedly Falls — Household consumption of goods in France unexpectedly fell 0.5% in September 2026, unchanged from the previous month and defying market expectations of a 0.1% rise. It was the second consecutive month of decline, as consumption of manufactured goods fell (-1.1% vs. 0.8% in August), with textile goods falling sharply (-5.8%), while durable goods edged down (-0.2%). Additionally, food spending declined further (-0.2% vs. 1.1%). On an annual basis, household consumption dropped 0.4% in September."
+    },
+    {
+      "id": "5181580",
+      "time": "2026-10-30 14:40:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "松下工業將投資920億日元用於人工智慧相關業務。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202610303916356378",
+      "time": "2026-10-30 14:40:46",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行行長植田和男稱，出售日本房地產投資信託基金（J-REIT）的節奏保持不變。"
+    },
+    {
+      "id": "mkt:01a18b89-ffe2-7ee0-a9fb-f13f0601df7c",
+      "time": "2026-10-30 14:40:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said overnight it shot down 1,043 drones across various regions of Russia."
+    },
+    {
+      "id": "5181579",
+      "time": "2026-10-30 14:40:37",
+      "tags": [],
+      "text": "科創綜指、創業板指尾盤雙雙重新整理日內低點，當月均下滑超20％。"
+    },
+    {
+      "id": "5181578",
+      "time": "2026-10-30 14:40:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達5.03%，成分股中，西部超導跌17.69%，盛科通訊跌11.07%，芯原股份跌8.49%，盛美上海跌8.14%。"
+    },
+    {
+      "id": "5181577",
+      "time": "2026-10-30 14:40:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量893億元。"
+    },
+    {
+      "id": "5181576",
+      "time": "2026-10-30 14:40:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：如有需要，ETF的銷售仍然可以暫停或減少。"
+    },
     {
       "id": "mkt:01a18b89-d9a4-7ee0-a9fb-eedf6c4f8b55",
       "time": "2026-10-30 14:40:29",
@@ -65,6 +308,15 @@
       "text": "中證1000指數期貨連續主力合約日內跌3%，現報6115.20點。"
     },
     {
+      "id": "em:qqyh_rbyh:202610303916341559",
+      "time": "2026-10-30 14:38:59",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "景順策略師表示，日本央行對通脹前景給出鷹派判斷，為12月潛在加息創造條件。"
+    },
+    {
       "id": "5181571",
       "time": "2026-10-30 14:38:34",
       "tags": [
@@ -94,6 +346,15 @@
         "DXY"
       ],
       "text": "Bank of Japan Governor UEDA said stabilizing underlying inflation at around 2% is important."
+    },
+    {
+      "id": "em:qqyh_rbyh:202610303916338534",
+      "time": "2026-10-30 14:38:01",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行：通脹面臨上行風險 將繼續提高政策利率】日本央行行長植田和男表示，通脹預期在2%左右，需要關注外匯、人工智慧和中東局勢的影響，通脹面臨上行風險。日本央行將繼續提高政策利率，並根據經濟活動、物價和金融狀況的發展調整貨幣寬鬆程度。"
     },
     {
       "id": "5181570",
