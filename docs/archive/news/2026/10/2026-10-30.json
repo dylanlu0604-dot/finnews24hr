@@ -1,7 +1,48 @@
 {
   "date": "2026-10-30",
-  "count": 1325,
+  "count": 1329,
   "items": [
+    {
+      "id": "te:markets:596614",
+      "time": "2026-10-30 14:01:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "HRC Steel Hits 4-1/2-year High — HRC Steel increased to 1429.00 USD/T, the highest since April 2022. Over the past 4 weeks, Hot-Rolled Coil Steel gained 6.32%, and in the last 12 months, it increased 64.04%."
+    },
+    {
+      "id": "mkt:01a18b63-cd3a-7ee0-a9fa-9ed253763391",
+      "time": "2026-10-30 13:58:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Institution: Expected RBA hike may not be unanimous】AMP chief economist Shane Oliver said that after a run of hawkish comments and inflation printing above expectations, failure by the RESERVE BANK OF AUSTRALIA to raise rates further on Tuesday would damage its credibility in sticking to its inflation target. He said the expected hike may not be unanimous. The RBA’s statement will continue to flag that further increases could be required. While the risk of a sixth hike in December or February to 5.1% remains high, it is not yet the base case."
+    },
+    {
+      "id": "5181487",
+      "time": "2026-10-30 13:58:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯人權事務專員：當地居民可在10月30日當地時間14:00之前離開奧萊什基（Oleshky）。"
+    },
+    {
+      "id": "mkt:01a18b63-6234-7ee0-a9fa-947572e75171",
+      "time": "2026-10-30 13:58:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell below $51/oz, down 2.22% on the day."
+    },
     {
       "id": "5181486",
       "time": "2026-10-30 13:57:41",

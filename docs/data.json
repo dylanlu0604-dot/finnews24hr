@@ -1,7 +1,48 @@
 {
-  "updated": "2026-10-30 13:58:44",
-  "count": 13035,
+  "updated": "2026-10-30 14:02:36",
+  "count": 13025,
   "items": [
+    {
+      "id": "te:markets:596614",
+      "time": "2026-10-30 14:01:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "HRC Steel Hits 4-1/2-year High — HRC Steel increased to 1429.00 USD/T, the highest since April 2022. Over the past 4 weeks, Hot-Rolled Coil Steel gained 6.32%, and in the last 12 months, it increased 64.04%."
+    },
+    {
+      "id": "mkt:01a18b63-cd3a-7ee0-a9fa-9ed253763391",
+      "time": "2026-10-30 13:58:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Institution: Expected RBA hike may not be unanimous】AMP chief economist Shane Oliver said that after a run of hawkish comments and inflation printing above expectations, failure by the RESERVE BANK OF AUSTRALIA to raise rates further on Tuesday would damage its credibility in sticking to its inflation target. He said the expected hike may not be unanimous. The RBA’s statement will continue to flag that further increases could be required. While the risk of a sixth hike in December or February to 5.1% remains high, it is not yet the base case."
+    },
+    {
+      "id": "5181487",
+      "time": "2026-10-30 13:58:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯人權事務專員：當地居民可在10月30日當地時間14:00之前離開奧萊什基（Oleshky）。"
+    },
+    {
+      "id": "mkt:01a18b63-6234-7ee0-a9fa-947572e75171",
+      "time": "2026-10-30 13:58:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell below $51/oz, down 2.22% on the day."
+    },
     {
       "id": "5181486",
       "time": "2026-10-30 13:57:41",
@@ -117773,132 +117814,6 @@
         "英國"
       ],
       "text": "英國9月季調後零售銷售同比增長0.8%，預期1%，前值由2.4%修正為2.7%。"
-    },
-    {
-      "id": "5163472",
-      "time": "2026-10-23 14:02:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨上漲0.02%，德國DAX指數期貨下跌0.12%，法國CAC40指數期貨上漲0.39%，英國富時指數期貨上漲0.13%。"
-    },
-    {
-      "id": "5163471",
-      "time": "2026-10-23 14:02:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【優刻得等在烏蘭察布成立算力科技公司，註冊資本1億元】企查查APP顯示，近日，烏蘭察布優刻得而今算力科技有限公司成立，法定代表人為劉民飛，註冊資本為1億元，經營範圍包含：第一類增值電信業務；網際網路資訊服務；雲端計算裝置製造；雲端計算裝置銷售；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由優刻得全資子公司北京優刻得科技有限公司、上海而今企業發展有限公司等共同持股。"
-    },
-    {
-      "id": "5163470",
-      "time": "2026-10-23 14:01:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國產新一代醫用重離子加速器首臺示範裝置在惠州建成】記者今天（23日）從中國科學院近代物理研究所獲悉，國產新一代醫用重離子加速器——超緊湊旋轉束重離子治療系統首臺示範裝置，近日在廣東省惠州重離子醫學中心建成。該裝置的建成標誌著我國精準放療領域取得重要進展，有望推動高階醫療裝備惠及更多腫瘤患者，促進我國離子放療產業升級。 (央視新聞)"
-    },
-    {
-      "id": "5163469",
-      "time": "2026-10-23 14:00:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：日本金融體系總體保持穩定。"
-    },
-    {
-      "id": "5163468",
-      "time": "2026-10-23 14:00:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量3175億元。"
-    },
-    {
-      "id": "5163467",
-      "time": "2026-10-23 14:00:21",
-      "tags": [
-        "資料"
-      ],
-      "text": "英國9月季調後零售銷售月率 -0.4%，預期-0.10%，前值由0.50%修正為0.7%。英國9月季調後零售銷售年率 0.8%，預期1.00%，前值由2.40%修正為2.7%。"
-    },
-    {
-      "id": "5163466",
-      "time": "2026-10-23 14:00:09",
-      "tags": [
-        "資料"
-      ],
-      "text": "英國9月季調後核心零售銷售月率 -0.7%，預期-0.10%，前值由0.60%修正為0.9%。英國9月季調後核心零售銷售年率 0.8%，預期1.5%，前值由2.70%修正為2.9%。"
-    },
-    {
-      "id": "5163465",
-      "time": "2026-10-23 14:00:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【寶馬聶科維：對中國汽車市場的長期發展潛力充滿信心】在2026世界智慧網聯汽車大會上，寶馬集團董事長聶科維指出，智慧網聯新能源汽車是中國高質量發展的重要驅動力，《智慧網聯新能源汽車產業發展“十五五”規劃》 的釋出也為智慧化和電動化出行提出宏偉願景。寶馬集團對中國汽車市場的長期發展潛力充滿信心，並將繼續發揮連線中國、德國與歐洲的橋樑作用，匯聚各方優勢，深化國際合作。"
-    },
-    {
-      "id": "mkt:01a16758-4a07-7ee0-a954-cb2bc03f0135",
-      "time": "2026-10-23 14:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Core Retail Sales SA (YoY) (Sep) | actual 0.8% | consensus 1.5% | previous 2.70%"
-    },
-    {
-      "id": "mkt:01a16758-49fd-7ee0-a954-c6f970e8fcd2",
-      "time": "2026-10-23 14:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Core Retail Sales SA (MoM) (Sep) | actual -0.7% | consensus -0.10% | previous 0.60%"
-    },
-    {
-      "id": "mkt:01a16758-49ee-7ee0-a954-bb54d60f7645",
-      "time": "2026-10-23 14:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Retail Sales SA (YoY) (Sep) | actual 0.8% | consensus 1.00% | previous 2.40%"
-    },
-    {
-      "id": "mkt:01a16758-4938-7ee0-a954-b61e113a1ce4",
-      "time": "2026-10-23 14:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Retail Sales SA (MoM) (Sep) | actual -0.4% | consensus -0.10% | previous 0.50%"
-    },
-    {
-      "id": "5163464",
-      "time": "2026-10-23 13:59:36",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【元戎啟行周光：自動駕駛領域的人才密度仍然不夠】10月23日，在2026世界智慧網聯汽車大會關鍵技術論壇上，深圳元戎啟行科技有限公司CEO周光表示，目前自動駕駛領域的人才密度仍然不夠，具備頂尖大模型經驗的人才非常稀缺，此外算力和資金，對於自動駕駛團隊而言都非常關鍵。"
-    },
-    {
-      "id": "5163463",
-      "time": "2026-10-23 13:59:14",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【萬聯證券酈彬：A股情緒集中釋放後定價將回歸基本面】萬聯證券研究所所長酈彬認為，當前A股市場情緒集中釋放，隨著“9·29”一攬子宏觀新政及近期金融街論壇系列增量政策逐步顯效，第四季度消費與投資企穩回升動能堅實，疊加三季報結構性業績亮點頻現、市場估值處於高價效比區間、中長期資金加速入市，市場信心有望迎來實質性修復，可以把握歲末年初配置視窗的時機。酈彬表示，客觀審視近期全球市場波動可以發現，儘管近期中美股市表面上呈現同頻調整，但其背後的調整邏輯存在本質差異，海外風險因素與A股基本面的直接關聯度相對有限。近期A股調整，更多是在外部情緒擾動下，場內部分存量資金因連續回撥影響帶來交易行為變化，微觀交易結構階段性走弱，帶動市場情緒趨於謹慎。隨著短期情緒層面的拋壓逐步消化，市場定價將更多回歸國內紮實的基本面與政策面。"
     }
   ]
 }
