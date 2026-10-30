@@ -1,7 +1,85 @@
 {
-  "updated": "2026-10-31 01:50:34",
-  "count": 13175,
+  "updated": "2026-10-31 01:54:17",
+  "count": 13183,
   "items": [
+    {
+      "id": "5183512",
+      "time": "2026-10-31 01:53:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西雷亞爾兌美元即期匯率下跌1.07%，至5.445雷亞爾兌1美元。"
+    },
+    {
+      "id": "5183511",
+      "time": "2026-10-31 01:51:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數跌2.00%，現報7565.740點；道指跌1.04%，現報51796.949點；納指跌3.23%，現報25338.109點。"
+    },
+    {
+      "id": "5183510",
+      "time": "2026-10-31 01:51:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3880美元/盎司，日內跌3.51%。"
+    },
+    {
+      "id": "5183509",
+      "time": "2026-10-31 01:51:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：伊朗革命衛隊有關擊毀美軍海上無人艇的說法不實。事實上，目前美國在中東地區的所有軍用無人水面艇均已確認狀態完好，其中包括一支正在霍爾木茲海峽巡邏、為美國中央司令部防禦體系提供支援的先進海上無人艇分隊。"
+    },
+    {
+      "id": "5183508",
+      "time": "2026-10-31 01:51:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股延續跌勢，標普500指數<.SPX>下跌2.00%。"
+    },
+    {
+      "id": "mkt:01a18def-8e87-7ee0-aa13-619b92b57556",
+      "time": "2026-10-31 01:50:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chinese regulators seek to ensure companies adequately disclose AI-related risks to investors amid a surge in corporate AI spending."
+    },
+    {
+      "id": "mkt:01a18def-64ca-7ee0-aa13-5bb3bda797f7",
+      "time": "2026-10-31 01:50:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Securities and Exchange Commission enforcement director said the agency is reviewing public disclosures by AI companies."
+    },
+    {
+      "id": "mkt:01a18def-47d0-7ee0-aa13-520b9a85ee96",
+      "time": "2026-10-31 01:50:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said Iran's Islamic Revolutionary Guard Corps' claim that it shot down a US naval unmanned surface vessel is false. CENTCOM said all US military unmanned surface vessels in the Middle East have been accounted for and are intact, including an advanced unmanned surface vessel unit patrolling the Strait of Hormuz that supports CENTCOM's defensive network."
+    },
+    {
+      "id": "5183507",
+      "time": "2026-10-31 01:49:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【10年期德債於10月份累跌超26個基點】週五（10月30日）歐市尾盤，德國10年期國債收益率跌3.3個基點，報3.322%，10月份累計下跌26.3個基點，整體持續下挫——10月1-2日顯著下跌、月內剩餘時間繼續平緩地擴大跌幅，交投於3.645%-3.305%區間。兩年期德債收益率跌3.3個基點，報3.042%，10月份累跌16.5個基點，10月1-2日顯著下跌，剩餘時間窄幅震盪於3.1%附近，月內交投於3.266%-2.949%區間；30年期德債收益率累跌25.7個基點，報3.679%。2/10年期德債收益率利差累跌9.763個基點，報+27.889個基點。"
+    },
     {
       "id": "5183506",
       "time": "2026-10-31 01:49:05",
@@ -119912,15 +119990,6 @@
         "The Trump Trade"
       ],
       "text": "【Trump plans to lift 50% tariffs on some Canadian goods, US media says】The Wall Street Journal, citing people familiar with the matter, reports the Trump administration plans to lift 50% tariffs on certain Canadian agricultural and forestry products, with an announcement possible as soon as Friday; scope and timing remain subject to change. Washington may raise tariffs on other Canadian goods to offset the reduction. The move is intended to help Maine Republican Senator Susan Collins and other Republican candidates ahead of the midterm elections. Trump imposed 50% duties on roughly $20bn of Canadian goods in late August. Last month the US exempted some items while adding others, leaving the overall trade value affected broadly unchanged. White House officials said any formal tariff decision will be announced by the administration."
-    },
-    {
-      "id": "5165124",
-      "time": "2026-10-24 01:51:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【報道：特朗普料取消對加拿大的部分關稅】知情人士透露，美國預計取消對部分加拿大產品的 50% 關稅，以此助力緬因州聯邦參議員蘇珊・柯林斯及其他共和黨人迎接即將到來的中期選舉。相關行動最早本週五就可落地。 這份調整關稅的總統公告或將取消針對部分農業、林業產品的 50% 關稅，但知情人士強調，措施覆蓋範圍與實施時間仍存在變數。美方或將同步提高對另外一些加拿大商品的進口關稅，以此對沖本次關稅減免帶來的影響。"
     }
   ]
 }
