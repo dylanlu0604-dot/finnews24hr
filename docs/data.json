@@ -1,7 +1,147 @@
 {
-  "updated": "2026-10-30 09:11:09",
-  "count": 13130,
+  "updated": "2026-10-30 09:15:00",
+  "count": 13139,
   "items": [
+    {
+      "id": "te:economy:596505",
+      "time": "2026-10-30 09:14:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Philippines Producer Inflation Hits 4-Month High — Producer prices for manufacturing in the Philippines rose 3.4% year-on-year in September 2026, accelerating from an upwardly revised 3.2% in the previous month. This marked the strongest annual growth since May, mainly driven by higher prices for coke and refined petroleum products (6.5% vs 3.8% in August), which accounted for 77.4% of the overall increase. Other notable contributors included the manufacture of transport equipment (3% vs 2.7%) and computer, electronic and optical products (5.7% vs 5.6%). Meanwhile, price growth eased for the manufacture of basic metals (4.7% vs 5.5%), tobacco products (6% vs 6.7%), and other manufacturing and repair and installation of machinery and equipment (2.6% vs 3.5%). On a monthly basis, the PPI edged up 0.3%, following a revised 0.2% increase in August. For the first nine months of the year, producer prices rose 2.8% compared with the same period a year earlier."
+    },
+    {
+      "id": "5181022",
+      "time": "2026-10-30 09:14:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "富士通股價延續跌勢，觸及當日價格區間下限。"
+    },
+    {
+      "id": "te:economy:596504",
+      "time": "2026-10-30 09:14:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Philippine Imports Surge 25.7% in September — Philippine imports surged 25.7% year-on-year to a record USD 15.03 billion in September 2026, following an upwardly revised 20.9% increase in August. The growth was driven by sharp increases in imports of electronic products (87.4%) and mineral fuels, lubricants and related materials (53.3%). Imports of cereals and cereal preparations (22.8%), telecommunication equipment and electrical machinery (14.2%), and plastics in primary and non-primary forms (13.6%) also recorded gains. Meanwhile, imports declined for transport equipment (-26.2%) and industrial machinery and equipment (-0.1%), while other food and live animals also registered a decrease of 14.7%. South Korea was the country’s largest source of imports during the month, accounting for 26.1% of total imports, with purchases from the country surging 264.2%."
+    },
+    {
+      "id": "5181021",
+      "time": "2026-10-30 09:13:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓美半導體：第三季度營業利潤908億韓元，同比增長34%。"
+    },
+    {
+      "id": "mkt:01a18a5e-2f98-7ee0-a9f4-2469c3a527a0",
+      "time": "2026-10-30 09:13:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "German Chancellor MERZ said Germany is willing to act with like-minded partners in Europe and globally to defend and further develop a rules-based global economic order."
+    },
+    {
+      "id": "5181020",
+      "time": "2026-10-30 09:12:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華泰期貨：美股科技權益再次出現較大幅度下跌疊加地緣風險升溫，對於黃金投資的需求或略有減弱】目前市場風險情緒有所滋生，美股科技權益再次出現較大幅度下跌疊加地緣風險升溫，市場風險偏好受到明顯壓制，對於黃金投資的需求或略有減弱；當下白銀與黃金一同呈現價格回落的情況，下跌邏輯與黃金類似，白銀本身價格預計同樣維持震盪格局。（華泰期貨）"
+    },
+    {
+      "id": "mkt:01a18a5d-6627-7ee0-a9f4-1d6bf217bc21",
+      "time": "2026-10-30 09:12:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver main futures contract plunged 6.00% intraday, trading at 12,141.00 yuan/kg."
+    },
+    {
+      "id": "mkt:01a18a5d-4c60-7ee0-a9f4-1426cc2064f2",
+      "time": "2026-10-30 09:12:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fullgoal Nasdaq ETF will be suspended from trading from market open on Oct 30, 2026 until 10:30 that day."
+    },
+    {
+      "id": "5181019",
+      "time": "2026-10-30 09:12:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌5％，至5638.72。SK海力士跌近9%，三星電子跌逾5%。"
+    },
+    {
+      "id": "5181018",
+      "time": "2026-10-30 09:12:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌6%，現報12141.00元。"
+    },
+    {
+      "id": "mkt:01a18a5d-2ed5-7ee0-a9f4-0a2d741dda33",
+      "time": "2026-10-30 09:12:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said he hopes to provide opportunities beyond bilateral agreements."
+    },
+    {
+      "id": "5181017",
+      "time": "2026-10-30 09:11:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印尼電信公司（Persero）：將與Neutradc、 Danantara Indonesia 、印尼國家電力公司及工業園區運營商合作，共同開發國家人工智慧資料中心樞紐。"
+    },
+    {
+      "id": "mkt:01a18a5c-5267-7ee0-a9f4-00b3cd2e9658",
+      "time": "2026-10-30 09:11:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor MERZ said the EU will take the lead in shaping a superior framework when free trade and the rules-based trading order come under pressure."
+    },
+    {
+      "id": "te:economy:596502",
+      "time": "2026-10-30 09:11:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Exports YoY",
+        "Importance 1"
+      ],
+      "text": "Philippine Exports Growth Hits 16-Year High — Philippine exports surged by 35.6% year-on-year to a new all-time high of USD 9.9 billion in September 2026, following an upwardly revised 28.3% rise in the previous month. The latest result marked the strongest growth since September 2010, with electronic products remaining the top export commodity, accounting for 70.1% of total shipments and rising 71.9%, led by semiconductor components (+86.1%)."
+    },
+    {
+      "id": "5181016",
+      "time": "2026-10-30 09:10:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國蓋洛普民調顯示，總統李在明的支援率從40%降至39%。"
+    },
     {
       "id": "mkt:01a18a5b-f58e-7ee0-a9f3-ffd2bd4f4934",
       "time": "2026-10-30 09:10:44",
@@ -118569,56 +118709,6 @@
         "市場"
       ],
       "text": "恒指期貨日盤開盤漲0.81%，報23140.40點，高水205.72點。"
-    },
-    {
-      "id": "5163001",
-      "time": "2026-10-23 09:14:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌11.0個基點至2.770%。"
-    },
-    {
-      "id": "5163000",
-      "time": "2026-10-23 09:14:35",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【市場監管總局公示斗山公司收購愛思開希得龍股份公司股權案】10月23日，國家市場監督管理總局公示斗山公司收購愛思開希得龍股份公司股權案，公示期為2026年10月23日至2026年11月1日。根據經營者集中簡易案件公示表，斗山公司（“斗山”）與SK株式會社簽署協議，斗山收購SK Siltron Co., Ltd.（“愛思開希得龍”）已發行在外普通股總數的70.6%。愛思開希得龍主要從事矽晶圓的研發與製造業務。交易前，SK株式會社持有愛思開希得龍51%的股份，單獨控制愛思開希得龍。交易後，斗山將持有愛思開希得龍70.6%的股份，單獨控制愛思開希得龍。"
-    },
-    {
-      "id": "5162999",
-      "time": "2026-10-23 09:14:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "根據蓋洛普韓國民意調查，韓國總統李在明的支援率從上次民調的39%上升至40%。"
-    },
-    {
-      "id": "mkt:01a16652-49a0-7ee0-a952-84aca256fb2a",
-      "time": "2026-10-23 09:13:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhejiang raises maritime typhoon emergency response to Level III】Typhoon Qiangpi (No.30) at 05:00 on Oct 23 was centered about 405 km southeast of Taipei, moving northwest at 20–25 km/h with maximum winds of force 14 (strong typhoon). Zhejiang coastal waters are expected to see gusts of force 9–11 on Oct 23–25, with 11–13 in central and southern coastal sectors on Oct 23–24. Eastern Zhejiang is forecast to receive heavy to torrential rain overnight Oct 23–24, locally extremely heavy. Zhejiang provincial flood control and typhoon headquarters raised the maritime typhoon emergency response to Level III at 09:00 on Oct 23."
-    },
-    {
-      "id": "5162998",
-      "time": "2026-10-23 09:12:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江上調防颱風應急響應為三級】根據《浙江省防汛防颱抗旱應急預案》和第30號颱風“薔琵”防禦工作方案，經會商研判，浙江省防指決定於10月23日9時將海上防颱風應急響應調整為防颱風Ⅲ級應急響應。"
-    },
-    {
-      "id": "5162997",
-      "time": "2026-10-23 09:11:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【青花郎、古井貢古20重挫 普五四連陰跌至789元 飛天茅臺零售均價小幅上漲】新浪財經“酒價內參”過去24小時收集的資料顯示，10月23日中國白酒業12大單品的終端零售均價兩漲七跌三平，下跌品種繼續佔據多數，且跌幅明顯大於上漲端，整體價盤連續第三日下行。上漲端，飛天茅臺小幅上漲1元至1789元，結束此前四連陰，低位小幅修復；國窖1573上漲1元至888元，昨日平盤後微幅回升，短線跌勢暫時緩和。下跌端，精品茅臺下跌2元至2458元，三連陰持續調整，繼續向下尋底；五糧液普五八代下跌5元至789元，四連陰累計下挫18元，跌破800元后弱勢進一步加深；五糧液1618下跌1元至829元，連續第二日小幅回落；青花汾20下跌3元至386元，三連陰持續探底，近三日從400元關口一路下滑；洋河夢之藍M6+下跌2元至605元，連續兩日回落，跌破近期趨勢線；古井貢古20大跌9元至518元，連續第三日大幅走弱，前期反彈漲幅全部回吐還有虧空；青花郎再跌9元至690元，700元關口失守後跌勢繼續擴大，淪為今日跌幅最大單品之一。持平方面，茅臺1935維持684元不變，連續第四日平盤；習酒君品保持632元，兩連跌後轉入橫盤整理；水晶劍南春維持409元不變，連續回落後暫時企穩。\n\n今日12大單品的終端零售總價繼續下探，七款產品價格下跌，其中古井貢古20、青花郎和五糧液普五八代的跌幅較為突出，上漲端僅飛天茅臺和國窖1573小幅回升，未能扭轉整體弱勢。如果12大單品各取一瓶整體打包售賣，今日總售價為10677元，較昨日再跌29元，連續第三日下行，並創下近37天以來最低紀錄。"
     }
   ]
 }

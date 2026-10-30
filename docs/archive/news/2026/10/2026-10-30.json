@@ -1,7 +1,147 @@
 {
   "date": "2026-10-30",
-  "count": 906,
+  "count": 921,
   "items": [
+    {
+      "id": "te:economy:596505",
+      "time": "2026-10-30 09:14:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Philippines Producer Inflation Hits 4-Month High — Producer prices for manufacturing in the Philippines rose 3.4% year-on-year in September 2026, accelerating from an upwardly revised 3.2% in the previous month. This marked the strongest annual growth since May, mainly driven by higher prices for coke and refined petroleum products (6.5% vs 3.8% in August), which accounted for 77.4% of the overall increase. Other notable contributors included the manufacture of transport equipment (3% vs 2.7%) and computer, electronic and optical products (5.7% vs 5.6%). Meanwhile, price growth eased for the manufacture of basic metals (4.7% vs 5.5%), tobacco products (6% vs 6.7%), and other manufacturing and repair and installation of machinery and equipment (2.6% vs 3.5%). On a monthly basis, the PPI edged up 0.3%, following a revised 0.2% increase in August. For the first nine months of the year, producer prices rose 2.8% compared with the same period a year earlier."
+    },
+    {
+      "id": "5181022",
+      "time": "2026-10-30 09:14:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "富士通股價延續跌勢，觸及當日價格區間下限。"
+    },
+    {
+      "id": "te:economy:596504",
+      "time": "2026-10-30 09:14:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Philippine Imports Surge 25.7% in September — Philippine imports surged 25.7% year-on-year to a record USD 15.03 billion in September 2026, following an upwardly revised 20.9% increase in August. The growth was driven by sharp increases in imports of electronic products (87.4%) and mineral fuels, lubricants and related materials (53.3%). Imports of cereals and cereal preparations (22.8%), telecommunication equipment and electrical machinery (14.2%), and plastics in primary and non-primary forms (13.6%) also recorded gains. Meanwhile, imports declined for transport equipment (-26.2%) and industrial machinery and equipment (-0.1%), while other food and live animals also registered a decrease of 14.7%. South Korea was the country’s largest source of imports during the month, accounting for 26.1% of total imports, with purchases from the country surging 264.2%."
+    },
+    {
+      "id": "5181021",
+      "time": "2026-10-30 09:13:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓美半導體：第三季度營業利潤908億韓元，同比增長34%。"
+    },
+    {
+      "id": "mkt:01a18a5e-2f98-7ee0-a9f4-2469c3a527a0",
+      "time": "2026-10-30 09:13:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "German Chancellor MERZ said Germany is willing to act with like-minded partners in Europe and globally to defend and further develop a rules-based global economic order."
+    },
+    {
+      "id": "5181020",
+      "time": "2026-10-30 09:12:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華泰期貨：美股科技權益再次出現較大幅度下跌疊加地緣風險升溫，對於黃金投資的需求或略有減弱】目前市場風險情緒有所滋生，美股科技權益再次出現較大幅度下跌疊加地緣風險升溫，市場風險偏好受到明顯壓制，對於黃金投資的需求或略有減弱；當下白銀與黃金一同呈現價格回落的情況，下跌邏輯與黃金類似，白銀本身價格預計同樣維持震盪格局。（華泰期貨）"
+    },
+    {
+      "id": "mkt:01a18a5d-6627-7ee0-a9f4-1d6bf217bc21",
+      "time": "2026-10-30 09:12:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver main futures contract plunged 6.00% intraday, trading at 12,141.00 yuan/kg."
+    },
+    {
+      "id": "mkt:01a18a5d-4c60-7ee0-a9f4-1426cc2064f2",
+      "time": "2026-10-30 09:12:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fullgoal Nasdaq ETF will be suspended from trading from market open on Oct 30, 2026 until 10:30 that day."
+    },
+    {
+      "id": "5181019",
+      "time": "2026-10-30 09:12:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌5％，至5638.72。SK海力士跌近9%，三星電子跌逾5%。"
+    },
+    {
+      "id": "5181018",
+      "time": "2026-10-30 09:12:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌6%，現報12141.00元。"
+    },
+    {
+      "id": "mkt:01a18a5d-2ed5-7ee0-a9f4-0a2d741dda33",
+      "time": "2026-10-30 09:12:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said he hopes to provide opportunities beyond bilateral agreements."
+    },
+    {
+      "id": "5181017",
+      "time": "2026-10-30 09:11:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印尼電信公司（Persero）：將與Neutradc、 Danantara Indonesia 、印尼國家電力公司及工業園區運營商合作，共同開發國家人工智慧資料中心樞紐。"
+    },
+    {
+      "id": "mkt:01a18a5c-5267-7ee0-a9f4-00b3cd2e9658",
+      "time": "2026-10-30 09:11:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor MERZ said the EU will take the lead in shaping a superior framework when free trade and the rules-based trading order come under pressure."
+    },
+    {
+      "id": "te:economy:596502",
+      "time": "2026-10-30 09:11:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Exports YoY",
+        "Importance 1"
+      ],
+      "text": "Philippine Exports Growth Hits 16-Year High — Philippine exports surged by 35.6% year-on-year to a new all-time high of USD 9.9 billion in September 2026, following an upwardly revised 28.3% rise in the previous month. The latest result marked the strongest growth since September 2010, with electronic products remaining the top export commodity, accounting for 70.1% of total shipments and rising 71.9%, led by semiconductor components (+86.1%)."
+    },
+    {
+      "id": "5181016",
+      "time": "2026-10-30 09:10:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國蓋洛普民調顯示，總統李在明的支援率從40%降至39%。"
+    },
     {
       "id": "mkt:01a18a5b-f58e-7ee0-a9f3-ffd2bd4f4934",
       "time": "2026-10-30 09:10:44",
