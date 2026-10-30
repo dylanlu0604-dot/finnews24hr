@@ -1,7 +1,93 @@
 {
   "date": "2026-10-30",
-  "count": 954,
+  "count": 963,
   "items": [
+    {
+      "id": "5181049",
+      "time": "2026-10-30 09:29:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中郵創業基金官宣自購旗下權益產品 10月公募自購金額已近16億】中郵創業基金今日釋出《關於運用固有資金投資旗下權益類公募基金的公告》。公告顯示，基於對中國資本市場長期健康穩定發展的信心，中郵創業基金將於近期運用固有資金3000萬元人民幣投資旗下權益類公募基金。公司表示將秉承長期投資、價值投資的理念，一如既往地為基金份額持有人創造價值。10月以來，公募基金自購金額已達15.75億元。其中，摩根基金（股東關聯方）、易方達基金、華夏基金、富國基金、匯添富基金等七家公募近日自購旗下主動ETF，合計自購金額達15億；此外，工銀瑞信基金於本月初自購旗下工程機械 ETF，自購金額達4500萬元。"
+    },
+    {
+      "id": "5181048",
+      "time": "2026-10-30 09:29:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【泰國對原產於中國的預應力鋼絞線啟動反傾銷調查】泰國商業部外貿廳釋出公告稱，應泰國國內企業提交的申請，對原產於中國的預應力鋼絞線（泰語：ลวดเหล็กกล้าตีเกลียวสำหรับคอนกรีตอัดแรง，英語：PC Strand）啟動反傾銷調查。本案涉及泰國海關編碼7312.10.91項下的產品。調查啟動自公告發布次日起生效。"
+    },
+    {
+      "id": "5181047",
+      "time": "2026-10-30 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌1%，現報6247.80點。"
+    },
+    {
+      "id": "5181046",
+      "time": "2026-10-30 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報6160.20點。"
+    },
+    {
+      "id": "5181045",
+      "time": "2026-10-30 09:28:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "算力硬體股延續跌勢，勝宏科技、新易盛、天孚通訊、德科立跌超10%，泰金新能、太辰光、劍橋科技、中際旭創跌超6%。"
+    },
+    {
+      "id": "mkt:01a18a6b-b996-7ee0-a9f4-7eaf5d32c0ac",
+      "time": "2026-10-30 09:27:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share PCB sector opened sharply lower in the opening auction. Ouke Yi fell over 18%, Shenghong Technology dropped more than 12%. Taijin New Energy, Nanya New Materials, Pengding Holdings, Jiuri New Materials and Hongshida also declined."
+    },
+    {
+      "id": "mkt:01a18a6b-41be-7ee0-a9f4-74a871079aa1",
+      "time": "2026-10-30 09:27:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "At Friday open Oct 30, China's Shanghai Composite fell 45.79 points (-1.25%) to 3,605.65; Shenzhen Composite fell 267.07 points (-2.40%) to 10,871.13; CSI 300 Index fell 56.60 points (-1.40%) to 3,985.24; ChiNext Index fell 82.79 points (-3.29%) to 2,434.80; STAR 50 Index fell 37.14 points (-3.02%) to 1,190.95."
+    },
+    {
+      "id": "5181044",
+      "time": "2026-10-30 09:26:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念板塊大幅低開，勝宏科技跌超12%】PCB概念板塊大幅低開，歐科億跌超18%，勝宏科技跌超12%，泰金新能、南亞新材、鵬鼎控股、久日新材、鴻仕達跟跌。"
+    },
+    {
+      "id": "5181043",
+      "time": "2026-10-30 09:26:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "COINBASE執行長就幣安安全事件表示：將阻止向受損錢包轉賬。"
+    },
     {
       "id": "5181042",
       "time": "2026-10-30 09:25:31",
