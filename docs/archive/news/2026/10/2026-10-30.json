@@ -1,7 +1,89 @@
 {
   "date": "2026-10-30",
-  "count": 770,
+  "count": 779,
   "items": [
+    {
+      "id": "mkt:01a18a34-3fb0-7ee0-a9f2-d4acd7125ee9",
+      "time": "2026-10-30 08:27:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【US ambassador: Bangladesh to sign more US LNG purchase agreements】US Ambassador to Bangladesh Brent Christensen said Bangladesh is likely to sign additional US liquefied natural gas (LNG) purchase agreements as the Trump administration pushes to expand US energy exports. He said the Bangladesh government is reviewing multiple LNG sale proposals and may also sign liquefied petroleum gas (LPG) purchase deals. Disruptions to LNG shipments from Qatar amid the Middle East war have created fuel shortages in Bangladesh, forcing Asian buyers to seek alternatives; the US is actively positioning to fill the gap. The US estimates Bangladesh’s LNG market could be roughly $10bn next year and rise to about $30bn by 2050."
+    },
+    {
+      "id": "mkt:01a18a33-d92c-7ee0-a9f2-c946943eb2ea",
+      "time": "2026-10-30 08:26:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's National Energy Administration issues guidance to boost gas-turbine innovation】The National Energy Administration and other departments issued guidance aiming for significantly strengthened domestic gas-turbine innovation by 2030. Targets include whole-machine and key-component R&D and manufacturing capability, rising performance and reliability, and progress on digitalization, greening and integration. The plan calls for building a self-reliant end-to-end R&D–manufacturing–testing–maintenance industrial chain to basically meet domestic demand for gas turbines used in distributed energy, offshore oil and gas platforms and long-distance pipeline compressors, and for heavy gas-turbine power-generation pilot projects to deliver phased results."
+    },
+    {
+      "id": "5180939",
+      "time": "2026-10-30 08:26:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局等部門釋出關於促進燃氣輪機創新發展的指導意見】近日，國家能源局等部門釋出關於促進燃氣輪機創新發展的指導意見。意見要求，到2030年，我國燃氣輪機自主創新能力顯著增強，具備整機和關鍵部件研發製造能力，效能和可靠性水平不斷提升，智慧化、綠色化、融合化發展取得顯著成效，建成自主可控的“研發—製造—驗證—維護”全產業鏈體系，基本滿足國內分散式能源和海上油氣平臺用燃氣輪機、油氣長輸管道壓縮機等發展需要，重型燃氣輪機發電試點應用取得階段性成效。"
+    },
+    {
+      "id": "mkt:01a18a33-05c1-7ee0-a9f2-c75a79d68df6",
+      "time": "2026-10-30 08:26:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "2317.TW"
+      ],
+      "text": "【Foxconn rotating CEO says confident of meeting Apple iPhone Duo orders】Foxconn rotating CEO Jiang Zhixiong said the company’s 240+ production sites across 24 countries give it the capacity to meet demand for Apple’s new iPhone Duo, responding to supply pressure after in-store stock sold out and some online orders were pushed into late January. Jiang did not name Apple or the iPhone directly in remarks; he plays a key role coordinating Foxconn’s work with Apple."
+    },
+    {
+      "id": "5180938",
+      "time": "2026-10-30 08:25:53",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：預計2026年為大宗農產品價格磨底、蓄勢向上的元年】中信證券研報表示，預計2026年為大宗農產品價格磨底、蓄勢向上的元年。其中，在國際衝突、厄爾尼諾氣候擾動下，海外種植鏈多品種價格先行上漲，國內主糧價格底部企穩。展望2027年，歷史級厄爾尼諾強化減產預期，疊加農資成本高位，生物能源需求拉動、庫消比的下降，農產品價格有望持續上漲。生豬仍處深虧階段，虧損+政策去產能持續下，2027年H2週期景氣可期。肉禽產業鏈溫和復甦中。後周期動保有望觸底向上。"
+    },
+    {
+      "id": "5180937",
+      "time": "2026-10-30 08:25:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "以太幣跌至兩個月低點2205美元。"
+    },
+    {
+      "id": "5180936",
+      "time": "2026-10-30 08:25:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "比特幣下跌1%，觸及77,646美元的六週低點，此前幣安報告出現“安全問題”。"
+    },
+    {
+      "id": "5180935",
+      "time": "2026-10-30 08:24:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安：所有充值和提現功能暫時停止。"
+    },
+    {
+      "id": "5180934",
+      "time": "2026-10-30 08:23:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【贏創據悉將拒絕巴斯夫提高後的每股24歐元收購報價】據英國《金融時報》援引知情人士的訊息報道，贏創（Evonik）計劃以報價過低為由，拒絕巴斯夫（BASF）提高後的110億歐元收購報價。贏創可能將在未來幾天就此發表宣告。如果巴斯夫進一步提高報價，贏創可能會保留繼續談判的可能性。贏創拒絕對此置評，報道稱未能立即聯絡到巴斯夫進行回應。"
+    },
     {
       "id": "5180933",
       "time": "2026-10-30 08:22:33",
