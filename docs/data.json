@@ -1,7 +1,268 @@
 {
-  "updated": "2026-10-30 20:57:45",
-  "count": 13139,
+  "updated": "2026-10-30 21:02:11",
+  "count": 13166,
   "items": [
+    {
+      "id": "mkt:01a18ce6-18fa-7ee0-aa0c-6f7398bf2226",
+      "time": "2026-10-30 21:00:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Taxation Administration: Steadily advance tax compliance management; deepen tax collection and administration reform】China's State Taxation Administration chief Hu Jinglin chaired an expanded party meeting on Oct. 30, instructing tax authorities at all levels to integrate strict party governance with strict tax administration and to collect taxes and fees in accordance with law. The meeting directed authorities to firmly guard against collecting \"excessive taxes and fees\", to steadily and prudently advance tax compliance management, and to unswervingly deepen tax collection and administration reform to ensure high-quality tax administration."
+    },
+    {
+      "id": "5183098",
+      "time": "2026-10-30 21:00:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長沙銀行：第三季度歸母淨利潤23.64億元，同比增長6.07%】長沙銀行10月30日公告，2026年第三季度實現營業收入65.87億元，同比增長1.78%；歸母淨利潤23.64億元，同比增長6.07%；基本每股收益0.56元。前三季度實現營業收入203.67億元，同比增長3.28%；歸母淨利潤69.12億元，同比增長5.4%；基本每股收益1.69元。"
+    },
+    {
+      "id": "mkt:01a18ce5-c7ea-7ee0-aa0c-67c69e53fce3",
+      "time": "2026-10-30 21:00:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "At the night session open, most-active contracts on China’s futures exchanges were mostly higher. Shanghai crude (SC) climbed over 3%; benzene, p-xylene, styrene (EB), asphalt and synthetic rubber rose more than 2%; PET bottle flakes approached 2% gains; ethylene glycol (EG) gained just over 1%. On the downside, SHFE silver fell nearly 4%, SHFE tin dropped over 2%, SHFE gold, soda ash and caustic soda lost more than 1%, while international copper slipped about 1%."
+    },
+    {
+      "id": "5183097",
+      "time": "2026-10-30 21:00:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌2%，現報956.00元。"
+    },
+    {
+      "id": "mkt:01a18ce5-8c76-7ee0-aa0c-5d3dcd5702a1",
+      "time": "2026-10-30 21:00:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Germany October harmonized CPI (HICP) preliminary MoM -0.1% vs 0.1% expected; September +0.6%."
+    },
+    {
+      "id": "5183096",
+      "time": "2026-10-30 21:00:10",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國10月CPI環比初值 0.6%，預期 0.1%，前值 0.6%。德國10月調和CPI同比初值 3.3%，預期 3.1%，前值 3.3%。"
+    },
+    {
+      "id": "mkt:01a18ce5-7496-7ee0-aa0c-57bd33fedc85",
+      "time": "2026-10-30 21:00:10",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "Germany Oct harmonized CPI (HICP) preliminary YoY 2.8% vs 3.1% expected; prior 3.3%."
+    },
+    {
+      "id": "mkt:01a18ce5-7411-7ee0-aa0c-4ddb040688e9",
+      "time": "2026-10-30 21:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Germany October CPI preliminary (m/m) -0.2% vs. 0.1% expected; September +0.6%."
+    },
+    {
+      "id": "mkt:01a18ce5-7379-7ee0-aa0c-46cc389437cd",
+      "time": "2026-10-30 21:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "Germany Oct CPI preliminary YoY 2.8% vs. 3.0% expected, 3.3% prior."
+    },
+    {
+      "id": "5183095",
+      "time": "2026-10-30 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報3504.00元。"
+    },
+    {
+      "id": "5183094",
+      "time": "2026-10-30 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲2%，現報10514.00元。"
+    },
+    {
+      "id": "5183093",
+      "time": "2026-10-30 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】蘋果連續漲6.57%，鉑連續跌5.92%，白銀連續跌3.80%，雞蛋連續漲3.73%，多晶矽連續跌3.65%。"
+    },
+    {
+      "id": "mkt:01a18ce5-56f6-7ee0-aa0c-392d376497b4",
+      "time": "2026-10-30 21:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Harmonized CPI Flash (MoM) (Oct) | actual -0.1% | consensus 0.1% | previous 0.60%"
+    },
+    {
+      "id": "mkt:01a18ce5-56b4-7ee0-aa0c-306f8c39ee98",
+      "time": "2026-10-30 21:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Harmonized CPI Flash (YoY) (Oct) | actual 2.8% | consensus 3.1% | previous 3.30%"
+    },
+    {
+      "id": "mkt:01a18ce5-5658-7ee0-aa0c-294378415e86",
+      "time": "2026-10-30 21:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | CPI Flash (MoM) (Oct) | actual -0.2% | consensus 0.1% | previous 0.60%"
+    },
+    {
+      "id": "mkt:01a18ce5-561b-7ee0-aa0c-252ea068194d",
+      "time": "2026-10-30 21:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | CPI Flash (YoY) (Oct) | actual 2.8% | consensus 3% | previous 3.30%"
+    },
+    {
+      "id": "5183092",
+      "time": "2026-10-30 20:59:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協和電子：控股股東籌劃控制權變更 公司股票11月2日復牌】協和電子公告稱，因控股股東張南國、張敏金、張南星、張建榮籌劃公司控制權變更事項取得進展，公司股票將於2026年11月2日開市起復牌。2026年10月30日，前述控股股東及持股5%以上股東王橋彬、股東曹良良，與施惠慶及其一致行動人南京協恆達科技合夥企業（有限合夥）、南京協盛達科技合夥企業（有限合夥）簽署股份轉讓協議，合計轉讓公司股份2639.12萬股，約佔公司總股份的29.99%。本次協議轉讓尚需取得上交所合規性確認並辦理過戶登記，能否實施完成存在不確定性。"
+    },
+    {
+      "id": "mkt:01a18ce4-f9ac-7ee0-aa0c-1e796184eb2e",
+      "time": "2026-10-30 20:59:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index rose 2 points to 2,714."
+    },
+    {
+      "id": "5183091",
+      "time": "2026-10-30 20:59:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數上漲2點，報2714點。"
+    },
+    {
+      "id": "mkt:01a18ce4-f009-7ee0-aa0c-16e71fe82ffd",
+      "time": "2026-10-30 20:59:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BP CEO says he can categorically deny any negotiations to split the company."
+    },
+    {
+      "id": "5183090",
+      "time": "2026-10-30 20:59:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協和電子：施惠慶等擬受讓公司29.99%股份】協和電子公告稱，施惠慶、南京協恆達科技合夥企業（有限合夥）、南京協盛達科技合夥企業（有限合夥）作為受讓方，與張南國等6名轉讓方簽署股份轉讓協議，擬受讓上市公司2639.12萬股股份，佔公司總股本的29.99%。本次權益變動完成後，資訊披露義務人承諾自股份過戶登記之日起60個月內不轉讓本次受讓股份（同一實控人控制主體間轉讓除外），36個月內不質押該部分股份，未來12個月內無明確增持計劃，不排除視市場及經營情況繼續增持。南京證券作為財務顧問核查認為，本次權益變動符合相關法規要求，資訊披露檔案不存在虛假記載、誤導性陳述或重大遺漏。"
+    },
+    {
+      "id": "5183089",
+      "time": "2026-10-30 20:59:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家稅務總局：紮實穩妥推進稅務合規管理 堅定不移深化稅收徵管改革】國家稅務總局黨委書記、局長鬍靜林10月30日主持召開黨委（擴大）會議，傳達學習習近平總書記在黨的二十屆五中全會上的重要講話和會議精神。會議要求，各級稅務機關要對標對錶習近平總書記重要講話和全會精神，持之以恆錘鍊黨性修養，不斷強化思想理論武裝，切實提高黨內政治生活質量，著力完善把黨性作為幹部考察和民主評議重要內容的制度安排，深入推進黨員幹部在重實幹、求實績中強黨性、鑄忠誠；持之以恆加強組織隊伍建設，完善和落實民主集中制各項制度，增強各級稅務黨組織政治功能和組織功能，切實強化垂直管理，選優配強各級班子，嚴格幹部教育監督，加強人才隊伍培養，堅決保障黨中央決策部署在稅務系統執行有力、一貫到底、落地見效；持之以恆推進正風肅紀反腐，著力強化不敢腐的懲治震懾、健全不能腐的制度機制、增強不想腐的思想自覺，堅決把嚴的基調、嚴的措施、嚴的氛圍長期堅持下去；持之以恆貫通推進全面從嚴治黨與全面從嚴治稅，依法依規徵稅收費，牢牢守住不收“過頭稅費”底線，紮實穩妥推進稅務合規管理，堅定不移深化稅收徵管改革，以全面從嚴治黨引領保障黨的稅務事業高質量發展，為全面建成社會主義現代化強國、以中國式現代化全面推進中華民族偉大復興作出更大貢獻。"
+    },
+    {
+      "id": "mkt:01a18ce4-8700-7ee0-aa0c-0d899b95fb72",
+      "time": "2026-10-30 20:59:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Meiji Yasuda CEO says in the AI era leaders require ethical judgment in addition to analytical skills."
+    },
+    {
+      "id": "5183088",
+      "time": "2026-10-30 20:58:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【2026年中越邊境地區地面無線電業務頻率協調會談在昆明舉行】2026年10月27日至29日，中越邊境地區地面無線電業務頻率協調會談在雲南省昆明市舉行。會談期間，雙方本著友好協商、互利共贏的原則，就中越邊境地區4G/5G公眾行動通訊系統相關頻段的頻率協調達成了一系列共識，並就無線電頻率管理政策和2027年世界無線電通訊大會（WRC-27）議題觀點進行了深入交流，為維護中越雙方邊境地區電波秩序、保障各類無線電業務正常執行奠定基礎。本次會談，中方代表團由工業和資訊化部無線電管理局、廣西壯族自治區工業和資訊化廳、雲南省工業和資訊化廳、國家無線電監測中心、四家基礎電信運營企業等單位組成。越南代表團由越南科學技術部無線電頻率管理局、越南相關電信運營企業組成。(工信部)"
+    },
+    {
+      "id": "5183087",
+      "time": "2026-10-30 20:57:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【高通美股盤前跌超5%】高通美股盤前跌超5%，現報176.0美元。"
+    },
+    {
+      "id": "5183086",
+      "time": "2026-10-30 20:57:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智翔金泰：第三季度淨利3.1億元 同比扭虧為盈】智翔金泰(688443.SH)公告稱，前三季度實現營業收入7.78億元，同比增長274.75%；歸屬於上市公司股東的淨利潤為虧損638.35萬元。第三季度實現營業收入6.25億元，同比增長285.23%；歸屬於上市公司股東的淨利潤3.1億元，同比扭虧為盈。業績變動主要系報告期內公司確認GR1803注射液授權許可收入及首款商業化產品賽立奇單抗注射液銷售收入較上年同期大幅增長所致。公司Q3淨利潤3.1億，Q2淨利潤-1.67億，據此計算，Q3淨利潤環比扭虧為盈。"
+    },
+    {
+      "id": "5183085",
+      "time": "2026-10-30 20:57:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "根據交易所資料顯示，騰訊雲歐洲公司在印度國家證券交易所透過大宗交易以每股180.65盧比的價格出售了5430萬股Swiggy股票。"
+    },
     {
       "id": "5183084",
       "time": "2026-10-30 20:56:41",
