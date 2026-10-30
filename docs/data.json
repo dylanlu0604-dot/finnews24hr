@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-31 06:26:35",
+  "updated": "2026-10-31 06:30:19",
   "count": 13193,
   "items": [
+    {
+      "id": "te:markets:596964",
+      "time": "2026-10-31 06:28:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Mediatek earnings above expectations at 17.50 TWD — Mediatek (2454) released earnings per share at 17.50 TWD, compared to market expectations of 14.75 TWD."
+    },
     {
       "id": "5183688",
       "time": "2026-10-31 06:20:21",
@@ -120057,17 +120069,6 @@
         "其他"
       ],
       "text": "【秘魯中央公路發生多車連環相撞 致2死9傷】當地時間10月23日，秘魯利馬大區瓦羅奇裡省聖巴託洛梅區中央公路第57公里處發生一起多車相撞事故，造成2人死亡、9人受傷，其中2人傷勢嚴重。事故涉及兩輛轎車和一輛半掛卡車。2名死者均為成年人，當時乘坐一輛黑色轎車，目前身份仍在確認中。9名傷者已被送往喬西卡醫院接受治療。目前，事故具體原因尚未公佈。（央視新聞）"
-    },
-    {
-      "id": "te:markets:594771",
-      "time": "2026-10-24 06:30:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Slumps by 6.08% — Top commodity losers are Natural gas (-6.08%) and Methanol (-0.76%). Gains are led by Germany Natural Gas THE (4.05%), Propane (4.04%), Crude Oil (3.99%) and Brent Oil (3.30%)."
     }
   ]
 }

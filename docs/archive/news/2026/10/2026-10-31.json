@@ -1,7 +1,19 @@
 {
   "date": "2026-10-31",
-  "count": 497,
+  "count": 498,
   "items": [
+    {
+      "id": "te:markets:596964",
+      "time": "2026-10-31 06:28:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Mediatek earnings above expectations at 17.50 TWD — Mediatek (2454) released earnings per share at 17.50 TWD, compared to market expectations of 14.75 TWD."
+    },
     {
       "id": "5183688",
       "time": "2026-10-31 06:20:21",
