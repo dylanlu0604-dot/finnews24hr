@@ -1,7 +1,115 @@
 {
   "date": "2026-10-30",
-  "count": 2276,
+  "count": 2287,
   "items": [
+    {
+      "id": "te:economy:596869",
+      "time": "2026-10-30 21:05:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "Germany Inflation Eases More Than Expected in October — Germany’s annual inflation rate eased to 2.8% in October 2026, down from a near three-year high of 3.3% in September and below market expectations of 3.0%, according to preliminary estimates. The slowdown was mainly driven by softer price growth in energy (12.2% vs. 14.9% in September) and services (2.5% vs. 2.7%), while food inflation remained unchanged at 0.4%. Core inflation, which excludes energy and unprocessed food, also moderated to 2.1% from 2.4%. Meanwhile, the EU-harmonized inflation rate fell more than expected to 2.8%, although it remained above the European Central Bank’s 2% target."
+    },
+    {
+      "id": "5183105",
+      "time": "2026-10-30 21:05:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報3534.00元。"
+    },
+    {
+      "id": "5183104",
+      "time": "2026-10-30 21:04:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守50美元/盎司，日內跌4.55%。"
+    },
+    {
+      "id": "mkt:01a18ce7-8347-7ee0-aa0c-84799aa501d0",
+      "time": "2026-10-30 21:02:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $3,950/oz, down 1.77% intraday."
+    },
+    {
+      "id": "mkt:01a18ce7-80af-7ee0-aa0c-7e4c800dabda",
+      "time": "2026-10-30 21:02:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver front-month contract dropped 4.0% intraday to 11,879 yuan/kg."
+    },
+    {
+      "id": "5183103",
+      "time": "2026-10-30 21:02:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌4%，現報11879.00元。"
+    },
+    {
+      "id": "5183102",
+      "time": "2026-10-30 21:01:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燒鹼連續主力合約日內跌2%，現報1470.00元。"
+    },
+    {
+      "id": "mkt:01a18ce7-10a2-7ee0-aa0c-73f4e0f69e0d",
+      "time": "2026-10-30 21:01:55",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【China Index Academy: Top 100 developers' Jan–Oct 2026 land purchases 646.5 bln yuan, down 17.5% YoY】China Index Academy's latest Jan–Oct 2026 China Developers' Land Acquisition Rankings showed the top 100 developers' land purchases totaled 646.5 bln yuan in the first 10 months, down 17.5% YoY; the decline narrowed 3 percentage points versus Jan–Sep."
+    },
+    {
+      "id": "5183101",
+      "time": "2026-10-30 21:01:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3950美元/盎司，日內跌1.78%。"
+    },
+    {
+      "id": "5183100",
+      "time": "2026-10-30 21:01:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中指研究院：前10月100家房企拿地總額6465億元】中指研究院最新發布《2026年1—10月中國房企投資拿地榜》顯示，前10月100家房企拿地總額6465億元，同比下降17.5%，降幅較1—9月縮窄3個百分點。"
+    },
+    {
+      "id": "5183099",
+      "time": "2026-10-30 21:01:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3960美元/盎司，日內跌1.77%。"
+    },
     {
       "id": "mkt:01a18ce6-18fa-7ee0-aa0c-6f7398bf2226",
       "time": "2026-10-30 21:00:52",
