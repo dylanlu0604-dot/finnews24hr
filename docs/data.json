@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-30 20:49:51",
-  "count": 13127,
+  "updated": "2026-10-30 20:53:45",
+  "count": 13133,
   "items": [
+    {
+      "id": "5183079",
+      "time": "2026-10-30 20:52:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天目藥業：前三季營收1.50億元 淨利同比降42.93%】天目藥業公告稱，2026年第三季度實現營業收入5042.59萬元，同比下降8.88%；歸母淨利潤180.38萬元，同比下降54.46%。2026年前三季度實現營業收入1.50億元，同比下降5.76%；歸母淨利潤810.60萬元，同比下降42.93%；扣非歸母淨利潤184.44萬元，同比下降83.05%。公司複方鮮竹瀝液已完成復產，該產品為公司重點培育OTC品種。控股股東擬公開徵集轉讓公司20%股份，可能導致控股股東及實控人變更，尚需有權機構批准。"
+    },
+    {
+      "id": "5183078",
+      "time": "2026-10-30 20:52:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國石油公司首席財務官表示，本季度液化天然氣市場將取決於歐洲儲氣與中國補庫之間的動態關係。"
+    },
+    {
+      "id": "5183077",
+      "time": "2026-10-30 20:52:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "“美聯儲傳聲筒”Nick Timiraos：過去一年，薪酬增長略有降溫。剔除激勵性薪酬職業後，私營部門薪酬第三季度同比增長3.1%，低於上年同期的3.4%，為2021年第一季度以來最低增速。"
+    },
+    {
+      "id": "mkt:01a18cdc-cc36-7ee0-aa0b-fecde83e9e52",
+      "time": "2026-10-30 20:50:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【ECB asks EU leaders to begin search for Lane successor】A spokesperson for European Council President COSTA confirmed the ECB has asked EU leaders to begin a selection process for Chief Economist Philip Lane’s successor, opening the contest for an Executive Board seat that becomes vacant on June 1. The procedural move lets eurozone officials bundle Lane’s vacancy with negotiations over the ECB presidency (Christine Lagarde) and Executive Board member Isabel Schnabel’s seat; Spain’s De Cos and the Netherlands’ Knot are viewed as frontrunners to replace Lagarde, while France and Germany may each secure the other two Executive Board posts to preserve their representation."
+    },
+    {
+      "id": "mkt:01a18cdc-3cd4-7ee0-aa0b-f7df12288982",
+      "time": "2026-10-30 20:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "Germany's preliminary October CPI MoM print due in 10 minutes."
+    },
+    {
+      "id": "5183076",
+      "time": "2026-10-30 20:49:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司執行長表示，Archaea 的出售流程才剛剛開始，比英國北海的出售流程更不成熟。"
+    },
+    {
+      "id": "5183075",
+      "time": "2026-10-30 20:49:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【無需簽證、行程靈活 華南首個“郵輪無目的地海上游”航次啟航】記者從廣東省交通運輸廳瞭解到，10月30日，“夢想”號郵輪從深圳蛇口國際郵輪母港出發，標誌著華南地區首個無目的地海上游試點航線正式啟航，這是繼上海、天津之後，全國第三個落地無目的地海上游試點的港口。（央視新聞）"
+    },
     {
       "id": "5183074",
       "time": "2026-10-30 20:48:45",
@@ -119346,18 +119409,6 @@
         "Importance 1"
       ],
       "text": "Dollar Index Little Changed — The dollar index was little changed at around 101.6 on Friday, hovering near three-week lows and down nearly 0.2% on the week. Cautious sentiment persisted amid further gains in oil prices and concerns over a potential escalation of hostilities in the Middle East, while the US midterm elections are now less than two weeks away. Meanwhile, concerns over heavy AI-related spending continued to weigh on sentiment. The Fed is set to announce its monetary policy decision next week, with markets pricing in a roughly 91% probability of rates remaining unchanged. Meanwhile, the probability of a 25bps rate hike in December stood at around 76%. Among major currencies, the Japanese yen strengthened against the dollar, benefiting from its safe-haven appeal. The euro, by contrast, edged lower as political uncertainty in France and continued selling pressure in the country's bond market weighed on the common currency."
-    },
-    {
-      "id": "te:economy:594666",
-      "time": "2026-10-23 20:52:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Manufacturing Sales",
-        "Importance 1"
-      ],
-      "text": "Canada Manufacturing Sales Seen Edging Up in September — Canada’s manufacturing sales advance estimate indicates that total manufacturing sales edged up 0.1% month-over-month in September 2026, after rising 1.5% in August. The largest increases were recorded in the petroleum and coal product subsector and the aerospace product and parts industry group."
     }
   ]
 }
