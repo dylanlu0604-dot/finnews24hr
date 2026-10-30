@@ -1,7 +1,49 @@
 {
   "date": "2026-10-30",
-  "count": 813,
+  "count": 817,
   "items": [
+    {
+      "id": "5180958",
+      "time": "2026-10-30 08:46:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月30日08時41分在西藏那曲市巴青縣（北緯32.33度，東經93.90度）發生3.0級地震，震源深度10千米。"
+    },
+    {
+      "id": "mkt:01a18a43-be01-7ee0-a9f3-2f8b9ff3e0b7",
+      "time": "2026-10-30 08:44:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) China: orders placed between Oct. 30 and Nov. 30, 2026 (inclusive) qualify for a CNY10,000 reduction on the Model 3 final payment; down payments start at CNY39,900."
+    },
+    {
+      "id": "5180957",
+      "time": "2026-10-30 08:43:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏降雪進入核心影響時段 北方多地將迎立秋後最冷一天】今明天（10月30日至31日），受孟加拉灣特強氣旋風暴和高空槽共同影響，青藏高原有明顯雨雪天氣，其中今天為降雪核心時段，西藏高海拔地區局地有特大暴雪，公眾需關注預警預報資訊，外出避開強降雪時段。受兩股冷空氣影響，本週末至下週初，北方多地將冷上加冷，局地最高氣溫將跌至冰點以下，需加強保暖措施，謹防感冒。"
+    },
+    {
+      "id": "te:economy:596493",
+      "time": "2026-10-30 08:43:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Producer Price Inflation MoM",
+        "Importance 2"
+      ],
+      "text": "Australia Q3 Producer Price Inflation Slightly Beats Forecast — Australia’s final demand producer price index increased 1.1% quarter-on-quarter in the third quarter of 2026, slightly beating market forecasts for a 1.0% rise but slowing from a 1.3% increase in the previous period, which was the strongest price growth since the third quarter of 2023. Property operators (1.0%) remained a key contributor, supported by strong demand and rising residential rents. Residential building construction was also a major contributor, rising 1.1%, driven by ongoing skilled labour shortages that placed upward pressure on wages."
+    },
     {
       "id": "5180956",
       "time": "2026-10-30 08:43:03",
