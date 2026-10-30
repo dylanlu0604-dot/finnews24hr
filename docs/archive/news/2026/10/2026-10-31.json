@@ -1,7 +1,36 @@
 {
   "date": "2026-10-31",
-  "count": 249,
+  "count": 252,
   "items": [
+    {
+      "id": "5183518",
+      "time": "2026-10-31 02:03:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【納斯達克100指數跌幅擴大至4% 費城半導體指數跌8.7%】納斯達克100指數跌幅擴大至4%，重新整理日低。費城半導體指數跌8.7%，英特爾現跌30.8%，閃迪跌15%，AMD、高通、ARM跌12%，希捷科技跌超9%，西部資料、應用材料跌超8%，Cerebras、阿斯麥、拉姆研究跌超7%，臺積電、博通跌超6%。"
+    },
+    {
+      "id": "5183517",
+      "time": "2026-10-31 02:03:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守49美元/盎司，日內跌6.51%。"
+    },
+    {
+      "id": "mkt:01a18df9-b5ff-7ee0-aa13-7bdb50baacec",
+      "time": "2026-10-31 02:01:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Zelenskiy says Russia continues strikes on Ukraine's energy infrastructure; Ukraine will respond appropriately."
+    },
     {
       "id": "te:markets:596948",
       "time": "2026-10-31 02:01:17",

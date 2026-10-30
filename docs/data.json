@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-31 02:02:07",
-  "count": 13185,
+  "updated": "2026-10-31 02:05:55",
+  "count": 13182,
   "items": [
+    {
+      "id": "5183518",
+      "time": "2026-10-31 02:03:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【納斯達克100指數跌幅擴大至4% 費城半導體指數跌8.7%】納斯達克100指數跌幅擴大至4%，重新整理日低。費城半導體指數跌8.7%，英特爾現跌30.8%，閃迪跌15%，AMD、高通、ARM跌12%，希捷科技跌超9%，西部資料、應用材料跌超8%，Cerebras、阿斯麥、拉姆研究跌超7%，臺積電、博通跌超6%。"
+    },
+    {
+      "id": "5183517",
+      "time": "2026-10-31 02:03:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守49美元/盎司，日內跌6.51%。"
+    },
+    {
+      "id": "mkt:01a18df9-b5ff-7ee0-aa13-7bdb50baacec",
+      "time": "2026-10-31 02:01:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Zelenskiy says Russia continues strikes on Ukraine's energy infrastructure; Ukraine will respond appropriately."
+    },
     {
       "id": "te:markets:596948",
       "time": "2026-10-31 02:01:17",
@@ -119957,58 +119986,6 @@
         "MKT News"
       ],
       "text": "U.S. Senator Collins said nine product categories, including producers of blueberries, potatoes, apples and seaweed, will be exempted from U.S. tariffs on imports from Canada."
-    },
-    {
-      "id": "5165131",
-      "time": "2026-10-24 02:05:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員科林斯：藍莓、馬鈴薯、蘋果以及海藻生產商將獲得加拿大關稅減免。"
-    },
-    {
-      "id": "mkt:01a169ef-e777-7ee0-a95e-747f80eb9a53",
-      "time": "2026-10-24 02:04:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin ordered the allocation of 1.2 bln rubles to subsidize household purchases of gas appliances."
-    },
-    {
-      "id": "5165130",
-      "time": "2026-10-24 02:03:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "美國參議員科林斯：9類產品將獲加拿大關稅豁免。"
-    },
-    {
-      "id": "5165129",
-      "time": "2026-10-24 02:03:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京下令撥款12億盧布補貼民眾購買燃氣裝置。"
-    },
-    {
-      "id": "te:markets:594749",
-      "time": "2026-10-24 02:02:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Croatia",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Croatia 10Y Bond Yield Hits 35-month High — Croatia 10 Year Government Bond Yield increased to 4.14%, the highest since October 2023. Over the past 4 weeks, Croatia 10Y Bond Yield gained 18.89 basis points, and in the last 12 months, it increased 107.60 basis points."
-    },
-    {
-      "id": "5165128",
-      "time": "2026-10-24 02:02:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗學生通訊社（ISNA）：伊朗、俄羅斯總統下週將在莫斯科舉行會談。"
     }
   ]
 }
