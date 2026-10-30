@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-31 01:58:20",
-  "count": 13183,
+  "updated": "2026-10-31 02:02:07",
+  "count": 13185,
   "items": [
+    {
+      "id": "te:markets:596948",
+      "time": "2026-10-31 02:01:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "SpaceX Shares Hit 9-week Low — SpaceX shares decreased to 135.90 USD, the lowest since August 2026. Over the past 4 weeks, SpaceX lost 8.19%, and in the last 12 months, it increased 0.7%."
+    },
+    {
+      "id": "mkt:01a18df7-386b-7ee0-aa13-779a2bd2ff24",
+      "time": "2026-10-31 01:59:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "TIMIRAOS: At present, FOMC members continue to speak frequently to ensure markets fully understand the Fed's overall policy reaction function."
+    },
+    {
+      "id": "5183516",
+      "time": "2026-10-31 01:57:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度將棉花進口關稅豁免期限延長至12月31日。"
+    },
     {
       "id": "5183515",
       "time": "2026-10-31 01:56:51",
@@ -119979,16 +120009,6 @@
         "國際"
       ],
       "text": "伊朗學生通訊社（ISNA）：伊朗、俄羅斯總統下週將在莫斯科舉行會談。"
-    },
-    {
-      "id": "mkt:01a169ea-2410-7ee0-a95e-6a8e0512edf1",
-      "time": "2026-10-24 01:58:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said he ordered it in relation to the Alaska lawsuit."
     }
   ]
 }
