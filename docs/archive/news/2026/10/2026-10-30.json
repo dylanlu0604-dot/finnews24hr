@@ -1,7 +1,133 @@
 {
   "date": "2026-10-30",
-  "count": 1354,
+  "count": 1368,
   "items": [
+    {
+      "id": "mkt:01a18b74-cce3-7ee0-a9fa-d98a1cc9d378",
+      "time": "2026-10-30 14:17:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HSBC raises Microsoft (MSFT.O) PT to $628 from $595."
+    },
+    {
+      "id": "5181519",
+      "time": "2026-10-30 14:17:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "瑞士國家銀行（SNB）：黃金持倉錄得12億瑞郎的估值收益。"
+    },
+    {
+      "id": "5181518",
+      "time": "2026-10-30 14:16:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【銀行間主要利率債收益率升幅擴大】銀行間主要利率債收益率升幅擴大，10年期國債活躍券260016收益率上行2.9bp報1.64%，30年期國債活躍券2600004收益率上行4.1bp報2.094%，10年期國開活躍券260205收益率上行3.5bp報1.693%。"
+    },
+    {
+      "id": "5181517",
+      "time": "2026-10-30 14:16:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【野人先生完成首輪融資 投資方為黑蟻資本】意式冰淇淋品牌野人先生宣佈，公司已於近期完成首輪融資，投資方是專注消費產業投資的黑蟻資本。黑蟻資本成為野人先生的長期戰略合作伙伴。本輪融資將主要用於供應鏈建設、品牌運營、門店拓展及海外門店模型的探索，雙方將圍繞品牌建設、產業能力和海外拓展展開長期合作。未來，野人先生將保持獨立運營，堅持線下連鎖，打造融合本土風物的意式冰淇淋。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a18b73-d0b0-7ee0-a9fa-d6ba6845dfad",
+      "time": "2026-10-30 14:16:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CXMT.SS",
+        "Impact bearish"
+      ],
+      "text": "Changxin Technology A-share turnover reached 10 bln yuan; shares down 1%."
+    },
+    {
+      "id": "5181516",
+      "time": "2026-10-30 14:16:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行西姆庫斯：我們尚未看到第二輪的影響。"
+    },
+    {
+      "id": "5181515",
+      "time": "2026-10-30 14:16:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美銀：美聯儲12月和明年3月或各加息25基點】美國銀行（Bank of America）預計，美聯儲將在未來幾個月內加息兩次，此前美聯儲在週三的政策會議上決定“按兵不動”，美銀隨後修正了其預測。美銀的經濟學家目前預計，2026年12月和2027年3月將分別加息25個基點，這將使聯邦基金目標利率區間提高到4.25%–4.50%。美銀還預計，利率將維持在該水平直至2027年底。"
+    },
+    {
+      "id": "5181514",
+      "time": "2026-10-30 14:16:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【部署7萬憲警 法國再防“公共秩序混亂”】法國內政部長洛朗·努內茲29日表示，因本週六即10月31日出現“公共秩序混亂”的可能性非常大，政府屆時將向全法多地部署共計7萬名憲兵和警員以維持治安。努內茲接受採訪時稱，政府在社交媒體上監測到有人以萬聖節為藉口，號召民眾10月31日晚8時在全法多座城市舉行集會，相關動員資訊得到極左翼群體和“黃馬甲”運動人士傳播。不過，這類集會將被取締。按照努內茲的說法，相關活動不得在可能引發“公共秩序混亂”的市中心舉行。“我們不會容忍任何過激行為。”努內茲說，政府將採取“極為強硬”的應對手段。此外，對商鋪的安保措施也將加強。（央視新聞）"
+    },
+    {
+      "id": "5181513",
+      "time": "2026-10-30 14:15:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行將微軟 <MSFT.O> 目標價從 595 美元上調至 628 美元。"
+    },
+    {
+      "id": "5181512",
+      "time": "2026-10-30 14:15:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長鑫科技成交額達100億元】10月30日下午，長鑫科技成交額達100億元，現跌0.96%。"
+    },
+    {
+      "id": "5181511",
+      "time": "2026-10-30 14:15:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳研究團隊揭示16種疾病相關遺傳特徵】澳大利亞加文醫學研究所等機構參與的研究團隊透過分析近2000名參與者大量免疫細胞的基因序列和活性，揭示了一些遺傳變異影響特定免疫細胞功能並與多種疾病發生關聯的機制，為相關疾病的藥物研發和精準醫療提供了新線索。相關成果以三篇論文的形式發表在英國《自然》雜誌上。"
+    },
+    {
+      "id": "5181510",
+      "time": "2026-10-30 14:14:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國仁川機場航空公司網路故障 值機業務嚴重受阻】媒體援引仁川國際機場方面訊息報道，航空公司網路發生故障，導致仁川國際機場值機業務嚴重受阻。自凌晨4:30（北京時間3:30）左右起，間歇性網路中斷已影響1號航站樓的8家航空公司和2號航站樓的5家航空公司。中國南方航空、中國東方航空和中國國際航空的常規出票業務實際上已經中斷。仁川國際機場方面認為，此次故障是航空公司使用的美國ARINC全球網路執行不穩定所致。出票業務中斷的航空公司，其運營的航班正在延誤。"
+    },
+    {
+      "id": "mkt:01a18b72-3a8b-7ee0-a9fa-c86ff04912fa",
+      "time": "2026-10-30 14:14:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Crédit Agricole CEO warns recent unrest in France may dent domestic lending】Crédit Agricole reported Q3 net income up 18% YoY to €1.99bn (~$2.23bn). French retail revenue hit a record and corporate & investment banking posted its strongest Q3 revenue. The bank’s CEO warned recent fiscal and political unrest in France could reduce loan demand and raise credit risk in coming months, citing a slowdown in overall investment and projects. Management said it expects loan applications may fall and is taking a highly cautious stance. The comment is the strongest warning from French bankers to date, suggesting the fiscal impasse that has pushed up domestic borrowing costs could spill across the financial sector."
+    },
+    {
+      "id": "5181508",
+      "time": "2026-10-30 14:14:15",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將道達爾能源的目標價從90歐元上調至95歐元。"
+    },
     {
       "id": "5181507",
       "time": "2026-10-30 14:13:10",
