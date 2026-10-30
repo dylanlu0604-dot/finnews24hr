@@ -1,7 +1,187 @@
 {
   "date": "2026-10-30",
-  "count": 1442,
+  "count": 1461,
   "items": [
+    {
+      "id": "mkt:01a18b89-d9a4-7ee0-a9fb-eedf6c4f8b55",
+      "time": "2026-10-30 14:40:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor Ueda said the BOJ's pace of selling Japanese real estate investment trusts (J-REITs) has not changed."
+    },
+    {
+      "id": "te:economy:596628",
+      "time": "2026-10-30 14:40:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "GDP Growth Rate",
+        "Importance 2"
+      ],
+      "text": "France's Economy Unexpectedly Contracts in Q3 — France's economy contracted by 0.1% quarter-on-quarter in Q3 2026, following stagnation in the previous quarter, defying expectations of a 0.1% expansion, preliminary estimates showed. The decline came as net trade subtracted 0.6 percentage points from GDP growth, reversing a positive 0.6-point contribution in Q2, as exports fell 1.7% after rising 2.8%, while imports edged up 0.1% following a 0.9% increase. Meanwhile, domestic demand excluding inventories continued to support growth, contributing 0.1 percentage points, unchanged from the previous quarter."
+    },
+    {
+      "id": "mkt:01a18b89-a5df-7ee0-a9fb-e4f4e74eaa55",
+      "time": "2026-10-30 14:40:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor Ueda said he will monitor the impact of the Middle East conflict, AI-driven demand and foreign exchange movements."
+    },
+    {
+      "id": "5181575",
+      "time": "2026-10-30 14:40:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三部門發文部署特殊困難老年人探訪關愛服務】民政部、全國老齡辦、中國老齡協會發文部署特殊困難老年人探訪關愛服務，面向獨居、空巢、留守、失能、重殘、計劃生育特殊家庭等老年人開展服務，獨居、空巢、留守的高齡、失能等安全風險較高者每兩週至少探訪1次。到2026年底全面開展探訪關愛服務，2027年底縣級層面建立探訪關愛物件、需求、服務三類清單，2028年底服務常態化開展、長效機制全面建立。2026年12月底前依託“一表通”系統填報服務資料，全國養老服務資訊平臺將與國家“一表通”系統、“銀齡線上”平臺對接互聯。（新華社）"
+    },
+    {
+      "id": "5181574",
+      "time": "2026-10-30 14:39:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓馬榮火山噴發 警戒級別上調】據菲律賓火山地震研究所30日通報，位於該國呂宋島東南角的馬榮火山當天11時53分許噴發，持續時間約6分鐘，目前暫無人員傷亡報告。 通報說，噴發產生的火山灰柱高達3000米，並向西南偏西方向飄散。 目前，該機構將火山相關警戒級別從二級上調至三級（最高為五級），意味著熔岩流及危險的火山碎屑密度流發生的機率上升，將對火山中上部山坡構成威脅。（新華社）"
+    },
+    {
+      "id": "5181573",
+      "time": "2026-10-30 14:39:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日本房地產投資信託基金（J-REIT）的出售節奏保持不變。"
+    },
+    {
+      "id": "5181572",
+      "time": "2026-10-30 14:39:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌3%，現報6115.20點。"
+    },
+    {
+      "id": "5181571",
+      "time": "2026-10-30 14:38:34",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率降至5.5周低點5.258%。"
+    },
+    {
+      "id": "mkt:01a18b87-b954-7ee0-a9fb-d85e89779008",
+      "time": "2026-10-30 14:38:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOJ Governor UEDA said Japan's financial conditions remain accommodative."
+    },
+    {
+      "id": "mkt:01a18b87-963a-7ee0-a9fb-d4db1389683a",
+      "time": "2026-10-30 14:38:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor UEDA said stabilizing underlying inflation at around 2% is important."
+    },
+    {
+      "id": "5181570",
+      "time": "2026-10-30 14:37:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日本的金融環境是寬鬆的。"
+    },
+    {
+      "id": "5181569",
+      "time": "2026-10-30 14:37:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長：穩定價格走勢在2%左右至關重要。"
+    },
+    {
+      "id": "mkt:01a18b87-6341-7ee0-a9fb-ca6a4a6ee26b",
+      "time": "2026-10-30 14:37:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Ueda said the Bank of Japan will continue to raise policy rates and will calibrate the degree of monetary easing based on developments in economic activity, prices and financial conditions."
+    },
+    {
+      "id": "te:markets:596627",
+      "time": "2026-10-30 14:37:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Offshore Yuan Strongest Since 2022 — The offshore yuan traded around 6.65 per dollar, reaching its strongest level since April 2022, supported by robust export growth and exporters converting dollar holdings into yuan. Exports surged 36.3% yoy to USD 447.18 billion in September 2026, marking the fastest annual growth in seven months, mainly due to robust global demand for electronics and semiconductors. Strong export performance helped the currency appreciate around 5% so far this year. Moreover, demand for the yuan remained firm as exporters stepped up dollar sales and hedging activity amid expectations of further appreciation. Meanwhile, the PBoC set its daily midpoint at 6.7138 per dollar, the strongest fixing since February 2023, though 590 pips weaker than Reuters' estimate. The gradual strengthening of the fixing suggests policymakers are comfortable with yuan appreciation but may seek to moderate its pace. The currency is on track to post its fourth consecutive monthly advance, having gained around 0.8% in October."
+    },
+    {
+      "id": "5181568",
+      "time": "2026-10-30 14:37:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：央行將在觀察實現經濟和物價展望基準情景的可能性以及這些展望面臨的風險的同時，考慮調整貨幣政策的時機和節奏。"
+    },
+    {
+      "id": "5181567",
+      "time": "2026-10-30 14:37:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長：關注經濟前景和加息時機的風險。"
+    },
+    {
+      "id": "5181566",
+      "time": "2026-10-30 14:37:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【證券IT板塊震盪走弱，大智慧尾盤觸及跌停】證券IT板塊震盪走弱，大智慧尾盤觸及跌停，指南針跌超18%，財富趨勢跌超10%，湘財股份、匯金科技、古鰲科技、頂點軟體等跟跌。"
+    },
+    {
+      "id": "5181565",
+      "time": "2026-10-30 14:37:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長：日本央行將繼續提高政策利率，並根據經濟活動、物價和金融狀況的發展調整貨幣寬鬆程度。"
+    },
+    {
+      "id": "5181564",
+      "time": "2026-10-30 14:36:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：核心CPI通脹水平總體符合2%物價穩定目標，預計將維持在該水平附近。"
+    },
     {
       "id": "5181563",
       "time": "2026-10-30 14:36:27",
