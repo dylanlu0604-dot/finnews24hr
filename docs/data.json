@@ -1,7 +1,53 @@
 {
-  "updated": "2026-10-30 08:35:44",
+  "updated": "2026-10-30 08:39:43",
   "count": 13104,
   "items": [
+    {
+      "id": "5180951",
+      "time": "2026-10-30 08:38:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本經濟產業大臣赤澤亮正：啟動對中部電力公司的業務改進指令程式。"
+    },
+    {
+      "id": "te:economy:596492",
+      "time": "2026-10-30 08:37:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Private Sector Credit",
+        "Importance 1"
+      ],
+      "text": "Australia Private Credit Rises 0.6% for 3rd Month — Australia’s private sector credit rose by 0.6% month-over-month in September 2026, slightly exceeding market expectations for a 0.5% increase but matching the pace recorded in the previous two months. Housing credit growth remained steady at 0.4%, while business credit held at 0.9%, indicating stable borrowing activity across both segments. Meanwhile, other personal credit growth slowed to 0.3% from 0.7% in August, pointing to weaker momentum in household borrowing outside housing. On an annual basis, private sector credit growth held steady at 8.4%, unchanged from August, suggesting overall credit expansion remained firm."
+    },
+    {
+      "id": "5180950",
+      "time": "2026-10-30 08:37:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧將於週五美國東部時間下午3:40會見土耳其外長。"
+    },
+    {
+      "id": "5180949",
+      "time": "2026-10-30 08:36:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【幣安稱將承擔全部損失 暫停所有儲存和提取功能】幣安在X發文表示，目前正進行安全檢查、凍結資金，並與執法機關合作，在此期間暫停所有儲存和提取功能。幣安將承擔所有損失。正不間斷在處理此事，力求解決問題。調查完成後，將公佈完整的事後調查報告。"
+    },
+    {
+      "id": "5180948",
+      "time": "2026-10-30 08:35:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本揖斐電（ Ibiden ）股價下跌 15%。"
+    },
     {
       "id": "5180947",
       "time": "2026-10-30 08:34:55",
@@ -118353,48 +118399,6 @@
         "Importance 1"
       ],
       "text": "Japan Services Growth Accelerates — Japan’s S&P Global Services PMI Business Activity Index rose to 52.0 in October 2026 from a final reading of 51.3 in the previous month, according to flash estimates. Sales growth accelerated, although it remained modest, while foreign demand continued to expand. However, employment declined for the first time since August 2025."
-    },
-    {
-      "id": "5162950",
-      "time": "2026-10-23 08:39:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國紅十字會總會緊急向西藏地震災區調撥救災物資】2026年10月22日22時33分，在西藏那曲市巴青縣發生7.0級地震，震源深度10公里。針對西藏自治區等地地震災害和救災需求，中國紅十字會總會啟動應急響應，緊急向受災地區調撥賑濟家庭包、衛生包、取暖爐、棉帳篷、衝鋒衣、摺疊床、棉被等救災物資3800件（套），並派出工作組赴災區指導受災地區做好群眾轉移安置和生活保障工作。（中國紅十字會）"
-    },
-    {
-      "id": "5162949",
-      "time": "2026-10-23 08:38:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "HD現代：新造船廠計劃於2027年開工建設，2029年開始運營。"
-    },
-    {
-      "id": "5162948",
-      "time": "2026-10-23 08:38:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "HD現代：將與Kiewit在美國共建造船廠。"
-    },
-    {
-      "id": "5162947",
-      "time": "2026-10-23 08:38:30",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【花旗：中國網際網路板塊的估值仍具有吸引力 】花旗稱，中國網際網路板塊的估值仍具有吸引力，重申騰訊、阿里巴巴、美團、拼多多和滿幫集團為首選股票。憑藉核心業務盈利的韌性和健康的資產負債表，認為中國網際網路龍頭企業能夠應對近期市場波動，並在不斷演進的超級智慧週期中把握長期價值。"
-    },
-    {
-      "id": "5162946",
-      "time": "2026-10-23 08:35:47",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院發言人：沒有美國支援的改變黎巴嫩政治結構的提議。"
     }
   ]
 }

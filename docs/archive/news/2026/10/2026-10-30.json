@@ -1,7 +1,53 @@
 {
   "date": "2026-10-30",
-  "count": 802,
+  "count": 807,
   "items": [
+    {
+      "id": "5180951",
+      "time": "2026-10-30 08:38:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本經濟產業大臣赤澤亮正：啟動對中部電力公司的業務改進指令程式。"
+    },
+    {
+      "id": "te:economy:596492",
+      "time": "2026-10-30 08:37:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Private Sector Credit",
+        "Importance 1"
+      ],
+      "text": "Australia Private Credit Rises 0.6% for 3rd Month — Australia’s private sector credit rose by 0.6% month-over-month in September 2026, slightly exceeding market expectations for a 0.5% increase but matching the pace recorded in the previous two months. Housing credit growth remained steady at 0.4%, while business credit held at 0.9%, indicating stable borrowing activity across both segments. Meanwhile, other personal credit growth slowed to 0.3% from 0.7% in August, pointing to weaker momentum in household borrowing outside housing. On an annual basis, private sector credit growth held steady at 8.4%, unchanged from August, suggesting overall credit expansion remained firm."
+    },
+    {
+      "id": "5180950",
+      "time": "2026-10-30 08:37:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧將於週五美國東部時間下午3:40會見土耳其外長。"
+    },
+    {
+      "id": "5180949",
+      "time": "2026-10-30 08:36:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【幣安稱將承擔全部損失 暫停所有儲存和提取功能】幣安在X發文表示，目前正進行安全檢查、凍結資金，並與執法機關合作，在此期間暫停所有儲存和提取功能。幣安將承擔所有損失。正不間斷在處理此事，力求解決問題。調查完成後，將公佈完整的事後調查報告。"
+    },
+    {
+      "id": "5180948",
+      "time": "2026-10-30 08:35:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本揖斐電（ Ibiden ）股價下跌 15%。"
+    },
     {
       "id": "5180947",
       "time": "2026-10-30 08:34:55",
