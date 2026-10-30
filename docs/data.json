@@ -1,7 +1,144 @@
 {
-  "updated": "2026-10-30 09:03:30",
-  "count": 13126,
+  "updated": "2026-10-30 09:07:20",
+  "count": 13129,
   "items": [
+    {
+      "id": "mkt:01a18a58-81d4-7ee0-a9f3-d5f70d2ff22c",
+      "time": "2026-10-30 09:06:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "FTSE China A50 index futures fell more than 1% in early trade."
+    },
+    {
+      "id": "5181009",
+      "time": "2026-10-30 09:06:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報51.30美元/盎司。"
+    },
+    {
+      "id": "5181008",
+      "time": "2026-10-30 09:06:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4000美元/盎司，日內跌0.53%。"
+    },
+    {
+      "id": "5181007",
+      "time": "2026-10-30 09:06:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4010美元/盎司，日內跌0.56%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610293914895273",
+      "time": "2026-10-30 09:05:46",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【彭博全球首席經濟學家：12月美聯儲也可能維持利率不變】彭博全球首席經濟學家歐樂鷹（Tom Orlik）表示：“我們目前的觀點是，12月份的會議也可能維持利率不變。當然，從現在到那時，還會有許多新的資訊出現。”"
+    },
+    {
+      "id": "mkt:01a18a57-5d9b-7ee0-a9f3-cb41701f15f2",
+      "time": "2026-10-30 09:05:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange (KRX) activated the sidecar mechanism for the KOSPI index."
+    },
+    {
+      "id": "5181006",
+      "time": "2026-10-30 09:05:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化賣盤。"
+    },
+    {
+      "id": "5181005",
+      "time": "2026-10-30 09:05:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所對KOSPI指數啟動熔斷機制。"
+    },
+    {
+      "id": "5181004",
+      "time": "2026-10-30 09:05:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【=董事會停擺一年， 北京現代首箇中國籍總經理離任】記者獲悉，北京現代總經理李鳳剛將於11月1日正式離任。此時距他2025年11月10日出任該職位，剛好一年。 10月30日，北京現代內部人士向記者確認了李鳳剛即將離任一事。 有知情人士告訴記者，李鳳剛的離開並非一次簡單人事變動，其離任背後是北京現代中韓股東雙方在發展路徑上的分歧——過去一年，這家50:50的合資公司未能就經營目標、降本幅度等核心議題形成共識，本土化改革推進受阻，作為首位中國籍總經理的李鳳剛，恰好站在了矛盾的交匯點上。（一財）"
+    },
+    {
+      "id": "5181003",
+      "time": "2026-10-30 09:04:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓 9 月出口同比增長 35.6%，進口同比增長25.7%。"
+    },
+    {
+      "id": "5181002",
+      "time": "2026-10-30 09:04:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌3%至44,966.82點。"
+    },
+    {
+      "id": "5181001",
+      "time": "2026-10-30 09:04:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國秘書長：希望俄烏區域性停火擴大到更多地區】29日，對於俄烏同意在阿列什基區域性停火，聯合國秘書長古特雷斯透過發言人發表宣告表示，希望這一停火能夠擴大至其他平民正在遭受苦難的地區，並推動整體局勢儘快降溫，為立即實現全面、無條件停火創造條件，進而根據包括《聯合國憲章》和聯合國有關決議在內的國際法，實現公正、全面和持久的和平。"
+    },
+    {
+      "id": "5181000",
+      "time": "2026-10-30 09:03:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【拜耳贏得聖路易斯Roundup除草劑訴訟，助力推進和解程序】聖路易斯的一個陪審團駁回了三名女性的訴訟請求，她們此前聲稱拜耳公司（Bayer AG）的Roundup除草劑導致了她們患癌。這一裁決增強了拜耳公司控制美國境內數萬起類似訴訟成本的力度，目前該公司已提出和解方案。週四達成的這項一致裁決，是美國最高法院今年6月作出一項裁決後的首個勝訴案例。最高法院的裁決實際上阻斷了基於“拜耳未在Roundup標籤上新增致癌警告”而提起的訴訟。不過，在聖路易斯的這起案件中，原告律師提出了不同的主張，指控Roundup存在設計缺陷，屬於具有不合理危險性的產品，本不應被投入銷售。拜耳辯稱，原告無法證明Roundup應被禁用，並援引了美國環境保護署（EPA）對該除草劑的安全評估作為依據。拜耳在庭審前表示，在過去25起涉及Roundup的訴訟中，公司已贏得了17起有利裁決，但目前仍有約6.5萬起案件懸而未決。"
+    },
+    {
+      "id": "5180999",
+      "time": "2026-10-30 09:03:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報994.10美元/盎司。"
+    },
+    {
+      "id": "mkt:01a18a54-bd9b-7ee0-a9f3-c7f666e41590",
+      "time": "2026-10-30 09:02:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Gallup: US Voter Attention to 2026 Midterms Hits Record High】Gallup on the 29th found 56% of U.S. adults say they are paying \"quite a lot\" of attention to the Nov. 3, 2026 midterm elections, the highest level Gallup has recorded. Of 11 issues tested, the economy, health care and the situation in Iran ranked highest: 50% of Americans called the economy and health care \"extremely important\" and 47% said the Iran situation was \"extremely important.\""
+    },
+    {
+      "id": "5180998",
+      "time": "2026-10-30 09:02:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傳化智聯在淮安投資成立基地物流公司】企查查APP顯示，近日，淮安傳化基地物流有限公司成立，經營範圍包含通訊裝置銷售；節能管理服務；家用電器銷售；汽車銷售；汽車零配件零售等。企查查股權穿透顯示，該公司由傳化智聯旗下傳化物流集團有限公司全資持股。"
+    },
     {
       "id": "5180997",
       "time": "2026-10-30 09:01:32",
@@ -118475,130 +118612,6 @@
         "其他"
       ],
       "text": "【水利部啟動水利抗震救災排程指揮機制】2026年10月22日22時33分，西藏那曲市巴青縣（北緯32.4度，東經93.79度）發生7.0級地震，震源深度10千米。水利部迅即啟動水利抗震救災排程指揮機制，受國家防總副總指揮、水利部部長李國英委託，水利部副部長王寶恩主持專題會商會，分析地震對水利工程和農村供水影響，研判震區雨水情形勢，安排部署水利抗震救災工作。(新華社)"
-    },
-    {
-      "id": "5162988",
-      "time": "2026-10-23 09:07:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲2%，現報3216.00元。"
-    },
-    {
-      "id": "5162987",
-      "time": "2026-10-23 09:07:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深交所：將茶百道調出港股通標的證券名單】10月23日，深交所公告，根據《深圳證券交易所深港通業務實施辦法》的有關規定，港股通標的證券名單發生調整並自2026年10月23日起生效，調出茶百道。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202610233905062842",
-      "time": "2026-10-23 09:07:00",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【大連前三季度地區生產總值7726.7億元，同比增長5.3%】10月23日，大連市統計局、國家統計局大連調查隊公佈前三季度全市經濟執行情況，根據遼寧省地區生產總值統一核算結果，前三季度，全市地區生產總值7726.7億元，按不變價格計算，同比增長5.3%。分產業看，第一產業增加值384.2億元，同比增長3.2%；第二產業增加值2709.5億元，增長5.0%；第三產業增加值4633.0億元，增長5.6%。"
-    },
-    {
-      "id": "5162986",
-      "time": "2026-10-23 09:06:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內漲4%，現報7122.00元。"
-    },
-    {
-      "id": "5162985",
-      "time": "2026-10-23 09:06:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本債券受避險需求推動上漲 日本10年期國債收益率下跌10個基點至2.78%】週四，10年期美國國債價格創下兩年多來最大漲幅，隨後美國國債價格趨於平衡。日本和澳大利亞國債價格大幅上漲。日本10年期國債收益率下跌10個基點至2.78%。澳大利亞10年期國債收益率下降10個基點至5.15%。類似期限的紐西蘭國債收益率下滑10個基點至4.88%。"
-    },
-    {
-      "id": "5162984",
-      "time": "2026-10-23 09:05:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1045.50美元/盎司。"
-    },
-    {
-      "id": "5162983",
-      "time": "2026-10-23 09:05:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4030美元/盎司，日內跌0.76%。"
-    },
-    {
-      "id": "mkt:01a1664a-d568-7ee0-a952-6ebb1fb48ec9",
-      "time": "2026-10-23 09:05:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Precious metals futures fell intraday. SHFE gold 2612 down 2.35% at 865.54 yuan/gram; SHFE silver 2612 down 5.01% at 13,138 yuan/kg. Platinum main contract down over 2% at 382.05 yuan/gram; palladium main contract down about 2% at 245.90 yuan/gram."
-    },
-    {
-      "id": "mkt:01a1664a-cf15-7ee0-a952-62575e3d5d37",
-      "time": "2026-10-23 09:05:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Copper"
-      ],
-      "text": "【State Taxation Administration invoice data: China steady in Q1–Q3, shifting to new higher-quality growth】State Taxation Administration invoice data show China’s economy ran steadily in the first three quarters and continued shifting toward new, higher-quality growth. Industrial activity, emerging new-growth sectors, interprovincial trade and equipment investment all improved in Q3 versus Q2. Sales revenue in core digital-economy industries rose 9.1% YoY in Jan–Sep (Q3 +9.9%, +2.9 ppts vs Q2). Sales in IP/patent‑intensive industries rose 13.1% YoY (Q3 +14.4%, +1.8 ppts). AI‑linked manufacturing — notably integrated circuits and semiconductor device‑specific equipment — expanded sharply in Q3, up 77.9% and 35.9% YoY respectively (accelerating 6.4 ppts and 9.3 ppts from Q2)."
-    },
-    {
-      "id": "5162982",
-      "time": "2026-10-23 09:04:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【湖南中醫藥大學原黨委書記戴愛國接受審查調查】據湖南省紀委監委訊息：湖南中醫藥大學原黨委書記戴愛國涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受湖南省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:01a1664a-26d8-7ee0-a952-5a07f623bef6",
-      "time": "2026-10-23 09:04:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Xi orders full-scale rescue after 7.0 quake in Baqing County, Nagqu, Tibet】A magnitude-7.0 earthquake struck Baqing County, Nagqu, Tibet at about 22:33 on Oct 22, causing significant casualties. Xi Jinping ordered full search-and-rescue operations and prioritized medical treatment to minimise loss of life. He urged close monitoring of seismic activity and weather given the high-altitude, cold conditions, instructed scientific rescue to prevent secondary disasters, and called for rapid dispatch of relief supplies, proper sheltering of displaced residents and prompt repair of damaged infrastructure to protect lives and property."
-    },
-    {
-      "id": "5162981",
-      "time": "2026-10-23 09:04:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我將援引《國防生產法》來增加柴油和汽油的產量。"
-    },
-    {
-      "id": "te:markets:594410",
-      "time": "2026-10-23 09:03:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Yen Rallies on Haven Buying, Strong Inflation — The Japanese yen strengthened toward 156 per dollar on Friday, reaching its highest level in five weeks as a global selloff in technology and artificial intelligence stocks boosted demand for safe-haven assets. The equity downturn intensified this week after Meta Platforms’ plans to increase capital expenditure reignited concerns that technology companies may take on more debt to fund the AI buildout. In Japan, data showed that both headline and core inflation rose 2.1% year-on-year in September, marking their highest levels in nine months as yen weakness and elevated energy prices drove up import costs. With underlying inflation returning above the Bank of Japan’s 2% target, market expectations for another interest rate hike this year have strengthened. The BOJ is widely anticipated to leave rates unchanged at its upcoming meeting, potentially paving the way for a rate increase in December."
     }
   ]
 }
