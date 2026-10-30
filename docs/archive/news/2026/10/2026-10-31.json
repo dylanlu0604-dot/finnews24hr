@@ -1,7 +1,67 @@
 {
   "date": "2026-10-31",
-  "count": 265,
+  "count": 272,
   "items": [
+    {
+      "id": "5183528",
+      "time": "2026-10-31 02:20:29",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "墨西哥財政部：9月財政收支差額為-2223.376億比索。"
+    },
+    {
+      "id": "5183527",
+      "time": "2026-10-31 02:20:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐利雅得大使館表示，胡塞武裝對沙特民用機場和關鍵基礎設施的襲擊存在安全風險。"
+    },
+    {
+      "id": "te:markets:596952",
+      "time": "2026-10-31 02:20:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Plunges by 6.12% — Top commodity losers are Silver (-6.12%), Platinum (-4.39%) and Gold (-3.51%)."
+    },
+    {
+      "id": "5183526",
+      "time": "2026-10-31 02:19:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，在聯合國秘書長非正式投票中，哥斯大黎加的格里斯潘擴大領先優勢。"
+    },
+    {
+      "id": "5183525",
+      "time": "2026-10-31 02:19:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國駐利雅得大使館：美國國務院命令非緊急工作人員及其家屬於10月23日起離開沙烏地阿拉伯。"
+    },
+    {
+      "id": "5183524",
+      "time": "2026-10-31 02:18:19",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "墨西哥財政部長：如果經濟增長勢頭得以保持，2026年的增長率可能接近預估區間的上限。"
+    },
+    {
+      "id": "mkt:01a18e08-9329-7ee0-aa13-abf1741d6224",
+      "time": "2026-10-31 02:18:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's finance minister said if current economic momentum holds, 2026 GDP growth could approach the upper end of the forecast range."
+    },
     {
       "id": "te:markets:596951",
       "time": "2026-10-31 02:16:42",
