@@ -1,7 +1,36 @@
 {
   "date": "2026-10-31",
-  "count": 290,
+  "count": 293,
   "items": [
+    {
+      "id": "mkt:01a18e17-fdfd-7ee0-aa13-e12b5f6afb28",
+      "time": "2026-10-31 02:34:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Blackstone trims expectations for ANTHROPIC rating; supplier credit guarantees gain importance】Blackstone told investors ANTHROPIC may not secure an investment‑grade rating immediately after an IPO and is now seen as more likely to receive double‑B or higher (sub‑investment‑grade) rather than the investment‑grade rating it had expected by year‑end. Because some insurers and pension funds are barred from holding high‑yield debt, ANTHROPIC’s access to broad institutional buyers could be constrained, increasing reliance on high‑rated suppliers to provide credit guarantees for its debt financing."
+    },
+    {
+      "id": "5183538",
+      "time": "2026-10-31 02:33:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨<Clc1>結算價創下9月15日以來最高收盤水平。"
+    },
+    {
+      "id": "mkt:01a18e15-a6b2-7ee0-aa13-dd0919f072fa",
+      "time": "2026-10-31 02:32:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude oil futures settlement hit its highest closing level since Sept. 15."
+    },
     {
       "id": "mkt:01a18e14-fff1-7ee0-aa13-d3f4ac124d75",
       "time": "2026-10-31 02:31:43",

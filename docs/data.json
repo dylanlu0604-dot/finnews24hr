@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-31 02:32:21",
-  "count": 13190,
+  "updated": "2026-10-31 02:36:04",
+  "count": 13192,
   "items": [
+    {
+      "id": "mkt:01a18e17-fdfd-7ee0-aa13-e12b5f6afb28",
+      "time": "2026-10-31 02:34:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Blackstone trims expectations for ANTHROPIC rating; supplier credit guarantees gain importance】Blackstone told investors ANTHROPIC may not secure an investment‑grade rating immediately after an IPO and is now seen as more likely to receive double‑B or higher (sub‑investment‑grade) rather than the investment‑grade rating it had expected by year‑end. Because some insurers and pension funds are barred from holding high‑yield debt, ANTHROPIC’s access to broad institutional buyers could be constrained, increasing reliance on high‑rated suppliers to provide credit guarantees for its debt financing."
+    },
+    {
+      "id": "5183538",
+      "time": "2026-10-31 02:33:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨<Clc1>結算價創下9月15日以來最高收盤水平。"
+    },
+    {
+      "id": "mkt:01a18e15-a6b2-7ee0-aa13-dd0919f072fa",
+      "time": "2026-10-31 02:32:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude oil futures settlement hit its highest closing level since Sept. 15."
+    },
     {
       "id": "mkt:01a18e14-fff1-7ee0-aa13-d3f4ac124d75",
       "time": "2026-10-31 02:31:43",
@@ -120062,15 +120091,6 @@
         "MKT News"
       ],
       "text": "【Trump says he may raise Ukraine Starlink limits with Elon Musk】Trump said on the 23rd he has not yet spoken with Elon Musk about restrictions on Ukraine’s use of SpaceX’s Starlink satellite communications. He said he’d heard the issue was resolved but would speak to Musk if problems persist, and described Musk as fair and unlikely to make mistakes on Starlink access for Ukraine."
-    },
-    {
-      "id": "5165143",
-      "time": "2026-10-24 02:35:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普：或與馬斯克溝通烏克蘭使用“星鏈”受限問題】美國總統特朗普23日表示，他尚未與美國太空探索技術公司執行長埃隆·馬斯克談過烏克蘭使用“星鏈”衛星通訊系統受限問題，如果仍有問題，他或許會與馬斯克溝通。特朗普當天離開白宮前往佛羅里達州時對媒體說：“我聽說問題已經解決了。但如果還沒解決，我會找他談談。”他還稱，馬斯克是個“公正的人”，在烏克蘭使用“星鏈”方面“不會犯錯”。（新華社）"
     }
   ]
 }
