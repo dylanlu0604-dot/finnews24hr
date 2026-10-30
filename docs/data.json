@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-31 01:54:17",
+  "updated": "2026-10-31 01:58:20",
   "count": 13183,
   "items": [
+    {
+      "id": "5183515",
+      "time": "2026-10-31 01:56:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫療保險和醫療補助服務中心：2027年醫保計劃開放註冊期將於2026年11月1日開始，持續至2027年1月15日。超過75%透過HealthCare.gov購買保險的美國人在2027年將繼續能夠獲得保費在50美元或以下的保險。"
+    },
+    {
+      "id": "5183514",
+      "time": "2026-10-31 01:55:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲傳聲筒：目前看來，多位委員會成員正一如既往地頻繁發聲，以確保市場理解其綜合反應函式。"
+    },
+    {
+      "id": "5183513",
+      "time": "2026-10-31 01:54:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我們正就防空系統和F-16彈藥問題繼續與所有夥伴合作。我們正在為近期的新決定做準備。希望11月能夠推進長期以來討論的各類形式。"
+    },
+    {
+      "id": "mkt:01a18df2-a4ae-7ee0-aa13-6ea17625431f",
+      "time": "2026-10-31 01:54:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian real in spot trading weakened 1.07% versus the dollar to 1 USD = 5.445 BRL."
+    },
     {
       "id": "5183512",
       "time": "2026-10-31 01:53:30",
@@ -119956,40 +119989,6 @@
         "The Trump Trade"
       ],
       "text": "Trump said he ordered it in relation to the Alaska lawsuit."
-    },
-    {
-      "id": "5165127",
-      "time": "2026-10-24 01:57:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談阿拉斯加訴訟：是我說這麼做的。"
-    },
-    {
-      "id": "5165126",
-      "time": "2026-10-24 01:56:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：今天 Trappes 發生的槍擊事件標誌著我們國家的轉折點。受害者是因其宗教與膚色而遭針對性襲擊。"
-    },
-    {
-      "id": "mkt:01a169e7-a7a6-7ee0-a95e-61926d8b61e1",
-      "time": "2026-10-24 01:55:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "French President Macron said the Trapp shooting was an act of terrorism."
-    },
-    {
-      "id": "mkt:01a169e6-c031-7ee0-a95e-5d7625a7e195",
-      "time": "2026-10-24 01:54:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump plans to lift 50% tariffs on some Canadian goods, US media says】The Wall Street Journal, citing people familiar with the matter, reports the Trump administration plans to lift 50% tariffs on certain Canadian agricultural and forestry products, with an announcement possible as soon as Friday; scope and timing remain subject to change. Washington may raise tariffs on other Canadian goods to offset the reduction. The move is intended to help Maine Republican Senator Susan Collins and other Republican candidates ahead of the midterm elections. Trump imposed 50% duties on roughly $20bn of Canadian goods in late August. Last month the US exempted some items while adding others, leaving the overall trade value affected broadly unchanged. White House officials said any formal tariff decision will be announced by the administration."
     }
   ]
 }
