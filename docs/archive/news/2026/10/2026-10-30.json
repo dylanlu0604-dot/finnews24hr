@@ -1,7 +1,130 @@
 {
   "date": "2026-10-30",
-  "count": 1368,
+  "count": 1382,
   "items": [
+    {
+      "id": "mkt:01a18b77-dd04-7ee0-a9fb-14d1801de782",
+      "time": "2026-10-30 14:20:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moscow mayor said Ukraine launched 862 drones toward Moscow overnight; most were shot down well outside the city."
+    },
+    {
+      "id": "5181525",
+      "time": "2026-10-30 14:20:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【金價再度下探低位，債券上漲加劇避險氛圍】儘管美債收益率因避險買盤下行，金價仍向三個月低點回落。這一走勢凸顯市場擔憂：大型科技股大幅下跌或將引發跨資產輪動，疊加月末調倉與中期選舉臨近，形勢更受關注。至少這一現象印證，風險情緒正在轉弱——除原油與債券之外，各類資產普遍走弱。正如西蒙·懷特所指出，對沖基金轉而做空指數，以此對沖AI多頭持倉下跌帶來的損失，或將進一步放大上述行情。納斯達克100期貨顯示，該指數恐難以避免自3月以來首次連續三週收跌。如果本週最終收跌，美國投資者即將迎來的十月收官行情，震盪程度或將超過亞洲市場剛剛經歷的波動。"
+    },
+    {
+      "id": "mkt:01a18b77-3bfb-7ee0-a9fb-0c47de2b5391",
+      "time": "2026-10-30 14:20:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact mixed",
+        "EURUSD"
+      ],
+      "text": "Bank of Japan Governor UEDA will hold a monetary policy press conference in ten minutes; France will release preliminary Q3 GDP (YoY) in ten minutes."
+    },
+    {
+      "id": "5181524",
+      "time": "2026-10-30 14:19:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委西姆庫斯：我們將在12月提供更多資訊。"
+    },
+    {
+      "id": "5181523",
+      "time": "2026-10-30 14:19:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：延長APEC商務旅行卡停留期】據外交部領事司訊息，為持續便利亞太區域商務人員往來，中方決定將APEC商務旅行卡持卡人在華最長停留期由60天延長至90天，自2026年11月1日起實施。（領事直通車）"
+    },
+    {
+      "id": "mkt:01a18b76-adf2-7ee0-a9fb-07a502d11c04",
+      "time": "2026-10-30 14:19:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China extends APEC Business Travel Card maximum stay to 90 days】China will extend the maximum stay for APEC Business Travel Card holders in China from 60 to 90 days, effective Nov. 1, 2026, the Ministry of Foreign Affairs' consular department said."
+    },
+    {
+      "id": "mkt:01a18b76-9019-7ee0-a9fa-fdd6f19a8b1d",
+      "time": "2026-10-30 14:19:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot platinum fell nearly 3% to $1,443.75/oz."
+    },
+    {
+      "id": "mkt:01a18b75-f60f-7ee0-a9fa-f535de20af55",
+      "time": "2026-10-30 14:18:46",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member SIMKUS said keeping rates unchanged does not signal that future hikes are off the table."
+    },
+    {
+      "id": "5181522",
+      "time": "2026-10-30 14:18:34",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【DeepSeek千億融資細節曝光：長鑫儲存、騰訊等近30家機構參投 國資佔比27%】DeepSeek第二輪融資的具體細節曝光。本輪融資已籌集1055億元人民幣（約合158億美元），吸引近30家投資者參與，其中國資出資佔比約27%，較首輪融資的2%大幅提升。\n\n從投資方來看，騰訊控股（00700.HK）、寧德時代（300750.SZ）仍是兩大主要投資方。騰訊在兩輪融資中均出資100億元，寧德時代及其董事長曾毓群兩輪分別出資50億元和100億元。其他產業投資者還包括長鑫儲存、中芯國際（688981.SH）、vivo、美團-WR（83690.HK）、吉利汽車（00175.HK）、美的集團（000333.SZ）、立訊精密（002475.SZ）、攜程（TCOM.US）和小紅書等，部分企業單家投資金額在10億至30億元之間。\n\n國資方面，中國國家人工智慧產業投資基金本輪再次出資10億元，與首輪金額相同。中國移動（600941.SH）、中國電信（601728.SH）、中金公司（601995.SH）、中信證券（600030.SH）和中國人壽（601628.SH）等機構也參與投資，單家出資金額在20億至80億元之間。據The Information披露，國有投資者本輪出資佔比約27%，兩輪融資累計佔比約19%。\n\n此外，VC機構也參與其中。北京礪思資本（Monolith Management）兩輪分別投資30億元和75億元，IDG資本兩輪累計投資65億元，博裕資本在第二輪投資35億元。\n\n從兩輪融資累計金額來看，科技企業貢獻約42%，國有投資者佔比約19%，風險投資和私募股權機構位列其後。（財聞）\n\n財聞就投資相關問題詢問騰訊方面，截至發稿，暫未獲得回應。"
+    },
+    {
+      "id": "mkt:01a18b75-6429-7ee0-a9fa-ecf8c662c635",
+      "time": "2026-10-30 14:18:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member SIMKUS said he has not yet seen second‑round effects."
+    },
+    {
+      "id": "mkt:01a18b75-1fdf-7ee0-a9fa-e29798b27d93",
+      "time": "2026-10-30 14:17:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Swiss National Bank reported valuation gains of CHF 1.2 bln on its gold holdings."
+    },
+    {
+      "id": "5181521",
+      "time": "2026-10-30 14:17:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金下跌近3%，報每盎司1,443.75美元。"
+    },
+    {
+      "id": "5181520",
+      "time": "2026-10-30 14:17:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國防部公佈最新資料：美軍在對伊朗軍事行動中累計23人死亡、865人受傷】綜合美國《星條旗報》等媒體報道，隸屬於美國國防部的“國防傷亡分析系統”網站最新資料顯示，截至當地時間10月29日，美軍在對伊朗軍事行動中累計傷亡人數為888人，其中23人死亡，865人受傷。據美媒報道，美國防部此前稱，由於代號“史詩怒火”的軍事行動已經結束，美軍方決定將7月以來新一輪伊朗戰事造成的美軍傷亡人數納入“海外行動”這一類別。（環球時報）"
+    },
     {
       "id": "mkt:01a18b74-cce3-7ee0-a9fa-d98a1cc9d378",
       "time": "2026-10-30 14:17:29",
@@ -127,6 +250,15 @@
         "觀點"
       ],
       "text": "花旗集團將道達爾能源的目標價從90歐元上調至95歐元。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202610303916258786",
+      "time": "2026-10-30 14:13:26",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行西姆庫斯稱，維持利率不變並不意味著未來不會再加息。"
     },
     {
       "id": "5181507",
