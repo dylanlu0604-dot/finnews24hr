@@ -1,7 +1,261 @@
 {
   "date": "2026-10-31",
-  "count": 180,
+  "count": 202,
   "items": [
+    {
+      "id": "mkt:01a18de0-8518-7ee0-aa12-f71ef886570a",
+      "time": "2026-10-31 01:34:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed's LOGAN said inflation's failure to return toward the Fed's 2% target is 'unacceptable'."
+    },
+    {
+      "id": "mkt:01a18ddf-6347-7ee0-aa12-ee1ba4e7251b",
+      "time": "2026-10-31 01:33:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Federal Reserve's LOGAN said long-term interest rates have risen, but their drag on the economy is smaller than expected."
+    },
+    {
+      "id": "te:markets:596946",
+      "time": "2026-10-31 01:32:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Closes Flat — The CAC 40 closed flat at 7,969, holding near one-month highs after rising earlier in the session, as economic headwinds mounted. Preliminary data showed France’s GDP contracted 0.1% quarter over quarter, missing expectations for 0.1% growth. Annual inflation accelerated to 3.4%, above forecasts of 3.2% and its highest since December 2023. The data added to economic and political pressures, including rising borrowing costs, violent protests and persistent fiscal uncertainty. Gains in L’Oréal (+2.9%) and Hermès (+2.2%) helped offset losses. Sanofi rose 4.7% after beating third-quarter earnings and revenue estimates, while Crédit Agricole shed 2% despite also topping forecasts. Technology stocks weighed on the index, with STMicroelectronics (-5.3%) and Schneider Electric (-4.1%) tracking weakness on Wall Street. The CAC 40 gained 2% for the week and edged up 0.1% in October."
+    },
+    {
+      "id": "5183486",
+      "time": "2026-10-31 01:32:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：市場利率上升表明投資者認為貨幣政策仍有工作要做。"
+    },
+    {
+      "id": "5183485",
+      "time": "2026-10-31 01:32:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：長期利率已經上升，但對經濟的拖累並不像預期的那麼大。"
+    },
+    {
+      "id": "5183484",
+      "time": "2026-10-31 01:32:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：經濟增長強勁，消費者支出穩健。"
+    },
+    {
+      "id": "5183483",
+      "time": "2026-10-31 01:32:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：勞動力市場已趨於平衡，或許略有收緊。"
+    },
+    {
+      "id": "5183482",
+      "time": "2026-10-31 01:31:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：跳過一次會議不會改變政策目標。"
+    },
+    {
+      "id": "mkt:01a18dde-1ea8-7ee0-aa12-e4a0a81ee351",
+      "time": "2026-10-31 01:31:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed official LOGAN said the labor market is in balance and could tighten slightly."
+    },
+    {
+      "id": "5183481",
+      "time": "2026-10-31 01:31:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：逐步調整政策可以降低經濟急劇惡化的風險。"
+    },
+    {
+      "id": "mkt:01a18dde-1add-7ee0-aa12-d92fa7064415",
+      "time": "2026-10-31 01:31:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve's Logan said economic growth is strong and consumer spending remains resilient."
+    },
+    {
+      "id": "mkt:01a18dde-0ffe-7ee0-aa12-d3bbcbff401e",
+      "time": "2026-10-31 01:31:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve's Logan said rising market rates signal that investors believe monetary policy still has work to do."
+    },
+    {
+      "id": "5183480",
+      "time": "2026-10-31 01:31:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：漸進式政策調整有助於家庭、企業、投資者適應更高利率。"
+    },
+    {
+      "id": "5183479",
+      "time": "2026-10-31 01:31:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：最終目標是讓政策適度收緊。"
+    },
+    {
+      "id": "mkt:01a18ddd-ce90-7ee0-aa12-cfbedf2bc8f6",
+      "time": "2026-10-31 01:31:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve official Logan said financial conditions are providing a tailwind to the economy."
+    },
+    {
+      "id": "mkt:01a18ddd-c570-7ee0-aa12-c32500a41f11",
+      "time": "2026-10-31 01:31:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Fed's Logan said pausing after a 50bp hike would be reasonable to determine what further action, if any, is appropriate."
+    },
+    {
+      "id": "5183478",
+      "time": "2026-10-31 01:31:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：明確政策利率目標有助於經濟適應，並獲得跳過加息的好處。"
+    },
+    {
+      "id": "5183477",
+      "time": "2026-10-31 01:31:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：通脹未能回落至美聯儲2%的目標是“不可接受的”。"
+    },
+    {
+      "id": "5183476",
+      "time": "2026-10-31 01:31:02",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲洛根：在加息50個基點之後，暫停加息將有助於確定下一步的適當行動。"
+    },
+    {
+      "id": "mkt:01a18ddd-627b-7ee0-aa12-bb6cb896f749",
+      "time": "2026-10-31 01:30:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed's LOGAN said the ultimate goal is to keep monetary policy moderately restrictive."
+    },
+    {
+      "id": "mkt:01a18ddd-4e3c-7ee0-aa12-b359adf9c9bd",
+      "time": "2026-10-31 01:30:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Fed's Logan said gradual policy adjustments help households, businesses and investors adapt to higher interest rates."
+    },
+    {
+      "id": "5183475",
+      "time": "2026-10-31 01:30:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：金融環境正在為經濟提供順風。"
+    },
     {
       "id": "5183474",
       "time": "2026-10-31 01:30:34",
