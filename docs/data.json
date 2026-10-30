@@ -1,7 +1,64 @@
 {
-  "updated": "2026-10-31 01:46:48",
-  "count": 13171,
+  "updated": "2026-10-31 01:50:34",
+  "count": 13175,
   "items": [
+    {
+      "id": "5183506",
+      "time": "2026-10-31 01:49:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證券交易委員會執法部門負責人表示，該機構正在審查人工智慧公司的資訊披露情況。"
+    },
+    {
+      "id": "mkt:01a18ded-b13b-7ee0-aa13-4ba6c03ec994",
+      "time": "2026-10-31 01:48:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish"
+      ],
+      "text": "Dow Jones Industrial Average extends losses to 1%."
+    },
+    {
+      "id": "5183505",
+      "time": "2026-10-31 01:47:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指跌1.00%，現報51817.922點；納指跌3.17%，現報25355.149點；標普500指數跌1.94%，現報7570.400點。"
+    },
+    {
+      "id": "mkt:01a18deb-df24-7ee0-aa13-47581ec0fdf4",
+      "time": "2026-10-31 01:46:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan military spokesman said Pakistan's decision to deploy additional defense forces to Saudi Arabia will depend on developments on the ground and on political-level decisions."
+    },
+    {
+      "id": "mkt:01a18deb-c200-7ee0-aa13-3e06378b8ad3",
+      "time": "2026-10-31 01:46:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Pakistan military spokesman said there is no obstacle to Iran joining the Mecca joint defence alliance; whether Iran joins rests on the decisions of the three principal participants."
+    },
+    {
+      "id": "mkt:01a18deb-8383-7ee0-aa13-31208a6d1a08",
+      "time": "2026-10-31 01:46:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "Pakistan's military spokesman said the Pakistani military is cautiously optimistic about mediation between Iran and the United States, but that talks face strong disruptive factors."
+    },
     {
       "id": "5183504",
       "time": "2026-10-31 01:45:15",
@@ -119864,29 +119921,6 @@
         "國際"
       ],
       "text": "【報道：特朗普料取消對加拿大的部分關稅】知情人士透露，美國預計取消對部分加拿大產品的 50% 關稅，以此助力緬因州聯邦參議員蘇珊・柯林斯及其他共和黨人迎接即將到來的中期選舉。相關行動最早本週五就可落地。 這份調整關稅的總統公告或將取消針對部分農業、林業產品的 50% 關稅，但知情人士強調，措施覆蓋範圍與實施時間仍存在變數。美方或將同步提高對另外一些加拿大商品的進口關稅，以此對沖本次關稅減免帶來的影響。"
-    },
-    {
-      "id": "mkt:01a169e2-657c-7ee0-a95e-53e0c79fbba2",
-      "time": "2026-10-24 01:50:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "Market sources expect President Trump to lift some U.S. tariffs on Canada."
-    },
-    {
-      "id": "5165123",
-      "time": "2026-10-24 01:48:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：預計特朗普將取消對加拿大的部分關稅。"
     }
   ]
 }
