@@ -1,7 +1,72 @@
 {
   "date": "2026-10-30",
-  "count": 1317,
+  "count": 1325,
   "items": [
+    {
+      "id": "5181486",
+      "time": "2026-10-30 13:57:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守51美元/盎司，日內跌2.69%。"
+    },
+    {
+      "id": "5181485",
+      "time": "2026-10-30 13:57:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守51美元/盎司，日內跌2.21%。"
+    },
+    {
+      "id": "mkt:01a18b62-608d-7ee0-a9fa-8b5153554df8",
+      "time": "2026-10-30 13:57:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Zaporizhzhia Nuclear Plant says employee killed in drone attack by Ukrainian armed forces】On Oct. 30 local time, Zaporizhzhia Nuclear Plant reported that a plant welder was killed on Oct. 29 in a drone attack by Ukrainian armed forces. The employee was riding an electric scooter to work when the drone targeted a moving person. The plant said any actions against staff add extra risks to nuclear safety and are unacceptable."
+    },
+    {
+      "id": "5181484",
+      "time": "2026-10-30 13:56:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.01%，現報2466.982點；上證指數跌0.50%，現報3633.296點；深證成指跌1.11%，現報11014.602點。"
+    },
+    {
+      "id": "5181483",
+      "time": "2026-10-30 13:56:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【扎波羅熱核電站稱一員工遭烏軍無人機襲擊身亡】當地時間10月30日，扎波羅熱核電站官方通報稱，一名該核電站員工29日在烏克蘭武裝部隊無人機襲擊中身亡。死者為核電站焊工，襲擊發生時正騎電動滑板車上班，無人機針對移動人員實施打擊。通報強調，任何針對核電站人員的行動都會對核安全構成額外風險，絕對不可接受。"
+    },
+    {
+      "id": "5181482",
+      "time": "2026-10-30 13:56:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "蘋果連續主力合約日內漲5%，現報5802.00元。"
+    },
+    {
+      "id": "5181481",
+      "time": "2026-10-30 13:54:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【白酒板塊漲超6%，多隻食品飲料ETF跟漲】酒ETF鵬華漲超5%，食品飲料ETF華夏、食品飲料ETF天弘等多隻食品飲料ETF漲超3%。個股方面，瀘州老窖、古井貢酒、皇臺酒業觸及漲停，茅臺、五糧液等跟漲。"
+    },
     {
       "id": "mkt:01a18b5f-bbad-7ee0-a9fa-838f84c2caa2",
       "time": "2026-10-30 13:54:29",
@@ -25,6 +90,14 @@
         "MKT News"
       ],
       "text": "【Dollar under multiple pressures; surprise BOC hawkish pivot further supports Canadian dollar】In Friday Asia trade the dollar weakened broadly and USD/CAD fell for a third straight day as weak tech earnings revived concerns that rising AI spending may not deliver adequate returns, prompting flows into safe‑haven sovereign bonds. Traders remain largely convinced of a December Fed rate hike after Thursday’s US data showed resilient activity and persistent price pressures; elevated oil prices add inflation risk and bolster Fed‑tightening expectations. The Bank of Canada unexpectedly hiked on Wednesday — its first increase since July 2023 — signalling a sudden shift to tightening, which limits CAD downside and caps USD/CAD upside. BOC’s surprise hawkish pivot reduces the case for a material rebound in USD/CAD."
+    },
+    {
+      "id": "5181480",
+      "time": "2026-10-30 13:54:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百亞股份成立健康科技公司】企查查APP顯示，近日，沐棠（重慶）健康科技有限公司成立，法定代表人為曹業林，註冊資本為1000萬元，經營範圍包含網際網路銷售（除銷售需要許可的商品）；衛生用品和一次性使用醫療用品銷售；個人衛生用品銷售等。企查查股權穿透顯示，該公司由百亞股份間接全資持股。"
     },
     {
       "id": "mkt:01a18b5f-8037-7ee0-a9fa-69a0061627fc",
