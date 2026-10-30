@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-31 06:11:17",
-  "count": 13193,
+  "updated": "2026-10-31 06:15:08",
+  "count": 13195,
   "items": [
+    {
+      "id": "5183686",
+      "time": "2026-10-31 06:12:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧與菲丹討論了推進美土關係的途徑。"
+    },
+    {
+      "id": "5183685",
+      "time": "2026-10-31 06:11:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽對來自82只美國廣義銀團貸款（BSL）CLO和2只美國中間市場（MM）CLO的109檔債券評級進行了上調，並確認了445檔債券的評級。"
+    },
+    {
+      "id": "5183684",
+      "time": "2026-10-31 06:11:03",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：國務卿魯比奧今日會見了土耳其外長菲丹。"
+    },
     {
       "id": "5183683",
       "time": "2026-10-31 06:06:19",
@@ -120058,14 +120083,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: Brazilian Real Increases by 1.40% — Top currency gainers are Brazilian Real (1.40%), Norwegian Krone (0.75%), Mexican Peso (0.39%) and Dollar Index (0.14%). Biggest losers are Polish Zloty (-0.62%), Indian Rupee (-0.53%), Swiss Franc (-0.46%), British Pound (-0.37%) and Euro (-0.14%). Meanwhile Japanese Yen was little changed."
-    },
-    {
-      "id": "5165344",
-      "time": "2026-10-24 06:11:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮前新聞秘書扎卡里亞：謝謝您，總統先生。沒有人比美國總統特朗普總統受到媒體更無情的攻擊，而我始終堅定不移地忠誠。"
     }
   ]
 }
