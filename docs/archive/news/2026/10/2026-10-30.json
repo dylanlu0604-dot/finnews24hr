@@ -1,7 +1,286 @@
 {
   "date": "2026-10-30",
-  "count": 848,
+  "count": 878,
   "items": [
+    {
+      "id": "5180997",
+      "time": "2026-10-30 09:01:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鋼天源：目前電池級四氧化三錳產能利用率良好】中鋼天源(002057)10月30日在互動平臺表示，目前電池級四氧化三錳產能利用率良好，3000噸釹鐵硼專案一期1000噸有序推進建設中。"
+    },
+    {
+      "id": "mkt:01a18a53-51b4-7ee0-a9f3-b8b238d283f5",
+      "time": "2026-10-30 09:01:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI fell 4.3%; SK Hynix's loss widened to 8.2%; Samsung Electronics fell 5.2%."
+    },
+    {
+      "id": "5180996",
+      "time": "2026-10-30 09:01:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【最新民調：美國選民對中期選舉關注度創歷史新高】2026年美國中期選舉定於11月3日舉行。美國民調機構蓋洛普公司29日公佈的最新民調結果顯示，美國選民對中期選舉的關注度創該機構有記錄以來的新高，56%的美國成年人表示，他們對2026年美國中期選舉給予了“相當多”的關注。在中期選舉涉及的11項議題中，經濟、醫療問題和伊朗局勢最受選民關注。50%的美國人認為經濟和醫療問題“極其重要”，47%的美國人認為伊朗局勢同樣重要。"
+    },
+    {
+      "id": "mkt:01a18a53-4a24-7ee0-a9f3-b3d16d58e2d4",
+      "time": "2026-10-30 09:01:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan's weighted index (TAIEX) opened down 1,201.35 points (-2.59%) at 45,166.98 on Oct 30 (Friday)."
+    },
+    {
+      "id": "5180995",
+      "time": "2026-10-30 09:00:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【券商資管試水ETF-FOF賽道 ETF擴容催生新型工具】近日，財通資管推出旗下首隻ETF-FOF產品，投資於公募基金比例不低於基金資產的80%，其中投向ETF的比例不低於非現金基金資產的80%。這是第三家推出該產品的券商資管，今年5月國泰海通資管、渤海匯金資管曾率先推出。有市場人士稱，相關產品憑藉低波動特色收穫不錯市場反饋。2025年公募ETF-FOF備案重啟，短短一年多產品數量突破33只、管理規模達145億元。業內人士判斷，隨著首批主動ETF陸續成立、全市場ETF產品數量突破1700只，ETF-FOF有望從小眾探索型產品走向組合化配置工具。"
+    },
+    {
+      "id": "5180994",
+      "time": "2026-10-30 09:00:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【納芯微釋出帶可配置邏輯塊的實時控制MCU/DSP】據納芯微訊息，公司近日推出NSSine™系列實時控制MCU/DSP新成員——NS800RT503xC與NS800RT5049C系列。新品在已量產的NSSine™實時控制平臺基礎上，新增4個可配置邏輯塊（CLB）。工程師可透過軟體在晶片內搭建自定義硬體邏輯，將原本依賴外部邏輯器件的功能整合到主控晶片中，從而簡化系統設計，降低BOM成本與PCB面積，並獲得更確定、更低延遲的控制響應。"
+    },
+    {
+      "id": "5180993",
+      "time": "2026-10-30 09:00:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燒鹼連續主力合約日內漲2%，現報1496.00元。"
+    },
+    {
+      "id": "5180992",
+      "time": "2026-10-30 09:00:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報3489.00元。"
+    },
+    {
+      "id": "5180991",
+      "time": "2026-10-30 09:00:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌5%，現報12268.00元。"
+    },
+    {
+      "id": "5180990",
+      "time": "2026-10-30 09:00:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.72%。"
+    },
+    {
+      "id": "mkt:01a18a52-9b4d-7ee0-a9f3-a94cbee71b6c",
+      "time": "2026-10-30 09:00:30",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 index futures opened down 0.76%."
+    },
+    {
+      "id": "mkt:01a18a52-976f-7ee0-a9f3-a68e903ae7f6",
+      "time": "2026-10-30 09:00:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Brokerage asset managers test ETF-FOF as ETF expansion spawns new tool】Caitong Asset Management launched its first ETF-FOF (a fund-of-funds that primarily invests in ETFs). The product must allocate at least 80% of assets to public funds, and at least 80% of non-cash fund assets to ETFs. It is the third brokerage asset manager to issue an ETF-FOF after Guotai Haitong Asset Management and Bohai Huijin Asset Management in May. Issuers report positive market reception citing low volatility. As ETF and public-FOF market scale expanded, public ETF-FOF registrations resumed in 2025; in just over a year the number of ETF-FOFs has surpassed 33 with AUM of 14.5 bln yuan. With the first active ETFs now established and the total ETF universe exceeding 1,700, ETF-FOFs may move from niche experiments to broader portfolio allocation tools."
+    },
+    {
+      "id": "5180989",
+      "time": "2026-10-30 09:00:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.3%至32.590。"
+    },
+    {
+      "id": "mkt:01a18a52-938c-7ee0-a9f3-9ff7a62dde12",
+      "time": "2026-10-30 09:00:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 1.00% intraday to $51.63/oz."
+    },
+    {
+      "id": "5180988",
+      "time": "2026-10-30 09:00:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報51.58美元/盎司。"
+    },
+    {
+      "id": "mkt:01a18a52-82a5-7ee0-a9f3-964866bd044e",
+      "time": "2026-10-30 09:00:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange's gold T+D opened down 1.02% at 858.1 yuan/gram on Friday, Oct 30; silver T+D opened down 4.53% at 12,265 yuan/kg."
+    },
+    {
+      "id": "5180987",
+      "time": "2026-10-30 09:00:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1.2%至259.45點。"
+    },
+    {
+      "id": "5180986",
+      "time": "2026-10-30 09:00:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌2.1%至45,398.89點。"
+    },
+    {
+      "id": "mkt:01a18a52-52f4-7ee0-a9f3-8a5a1628b157",
+      "time": "2026-10-30 09:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals"
+      ],
+      "text": "At the morning open, China's front-month futures were mostly lower. Shanghai silver fell over 4%, Shanghai tin nearly 4%, lithium carbonate down more than 3%, p-xylene nearly 3%; platinum and PTA slipped over 2%; coking coal and polysilicon declined over 1%. On the upside, caustic soda rose nearly 3%; pulp, plastics, glass, polypropylene, urea and LPG gained over 1%, while ethylene glycol was up about 1%."
+    },
+    {
+      "id": "5180985",
+      "time": "2026-10-30 09:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.5%報46,139.79。"
+    },
+    {
+      "id": "mkt:01a18a52-3506-7ee0-a9f3-8619dfa53fc6",
+      "time": "2026-10-30 09:00:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan 10-year bond yield fell 6.0 bps to 2.775%."
+    },
+    {
+      "id": "5180984",
+      "time": "2026-10-30 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】白銀連續跌4.71%，錫連續跌4.17%，燒鹼連續漲2.87%，鉑連續跌2.74%，碳酸鋰連續跌2.52%。"
+    },
+    {
+      "id": "5180983",
+      "time": "2026-10-30 08:59:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正海生物：口腔種植業務目前仍面臨一定經營壓力】正海生物(300653)10月30日在互動平臺表示，口腔種植業務目前受行業競爭、終端控費及價格因素疊加影響，仍面臨一定經營壓力。新品尚處於市場培育期，公司將持續推進市場推廣與管線建設。"
+    },
+    {
+      "id": "5180982",
+      "time": "2026-10-30 08:59:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌6.0個基點，至2.775%。"
+    },
+    {
+      "id": "mkt:01a18a51-edf6-7ee0-a9f3-787b69aa9067",
+      "time": "2026-10-30 08:59:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Nanshan Zhishang: humanoid-robot business remains in customer cultivation and certification stage】Nanshan Zhishang said on its Oct. 29 conference call that its humanoid-robot business remains in the customer cultivation and certification phase and has not produced scaled revenue. In the near term the company is focusing on tech refinement, sample iteration and customer certification while prioritizing supply‑chain positioning. It expects accelerated industrialization of humanoid robots to drive system‑wide demand for actuation tendon cables, flexible encapsulation/overmolding and wear‑resistant protective materials, and says its materials layout and technical base give it an early‑mover advantage for future growth."
+    },
+    {
+      "id": "5180981",
+      "time": "2026-10-30 08:59:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士股價跌幅擴大至8.2%，三星下跌5.2%。"
+    },
+    {
+      "id": "te:markets:596498",
+      "time": "2026-10-30 08:59:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Equities Set for Solid Weekly, Monthly Gains — Australian shares climbed 95 points, or 1.1%, to 8,986 in Friday morning trading, extending prior strength and reaching their highest in more than seven weeks, supported by strong domestic earnings. Meanwhile, private credit grew 0.6% mom in September, keeping the same pace for a third month, with gains across housing, business, and personal credit. However, upside was capped by overnight losses on Wall Street and caution ahead of official PMI data from top trading partner China. Traders also weighed the prospect of another RBA rate hike next week, following four increases this year, as Governor Bullock warned that inflation could remain elevated longer than expected. Nearly all sectors gained, led by industrials, commercial services, and healthcare. Major gainers included Reece Ltd. (9.8%), Brambles Ltd. (2.6%), and REA Group (2.4%), while the big four banks rose 1–1.5%. The ASX 200 rose around 2% for the week and 2.2% for October, recovering from the prior month's sharp decline."
+    },
+    {
+      "id": "5180980",
+      "time": "2026-10-30 08:59:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓華海洋簽署價值3568億韓元的銷售和供應合同。"
+    },
+    {
+      "id": "5180979",
+      "time": "2026-10-30 08:59:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南山智尚：人形機器人相關業務尚處於客戶培育認證階段】南山智尚(300918)10月29日在電話會議上表示，人形機器人行業處於技術快速迭代、商業化逐步落地的階段，長期賽道空間極為廣闊。公司堅持長期主義佈局，短期以技術打磨、樣品迭代、客戶認證為核心，優先卡位供應鏈。隨著未來人形機器人產業化提速，傳動腱繩、柔性包覆、耐磨防護材料需求將迎來系統性爆發。公司憑藉前瞻的材料佈局與持續的技術沉澱，搶佔行業先發優勢，有望成長為公司未來核心增長曲線。目前相關業務尚處於客戶培育認證階段，暫未形成規模化收益。"
+    },
+    {
+      "id": "5180978",
+      "time": "2026-10-30 08:58:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月29日177股獲融資買入超億元 中際旭創穫買入17.31億元居首】10月29日共有3536只個股獲融資資金買入，有177股買入金額超億元。其中，中際旭創、長鑫科技、新易盛融資買入金額排名前三，分別獲買入17.31億元、10.72億元、10.56億元。"
+    },
     {
       "id": "5180977",
       "time": "2026-10-30 08:58:30",
