@@ -1,7 +1,480 @@
 {
-  "updated": "2026-10-30 15:00:41",
-  "count": 13127,
+  "updated": "2026-10-30 15:04:31",
+  "count": 13161,
   "items": [
+    {
+      "id": "mkt:01a18b9f-65c2-7ee0-a9fd-967f13f76de8",
+      "time": "2026-10-30 15:04:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Toyota and Waymo said they will begin testing autonomous bZ4X vehicles in Japan in 2027."
+    },
+    {
+      "id": "5181665",
+      "time": "2026-10-30 15:03:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯利康：在2026財年，計劃將年度股息提高至每股3.30美元。"
+    },
+    {
+      "id": "5181664",
+      "time": "2026-10-30 15:03:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率 <JP10YTN=JBTC> 下降7.0個基點，至2.765%。"
+    },
+    {
+      "id": "5181663",
+      "time": "2026-10-30 15:03:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國石油第三季度調整後淨利潤84.6億美元，預估72.6億美元。"
+    },
+    {
+      "id": "5181662",
+      "time": "2026-10-30 15:03:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司：第三季度和前九個月的淨減值費用以及業務和固定資產出售損失分別為43.64億美元和60.53億美元。"
+    },
+    {
+      "id": "mkt:01a18b9e-ebb2-7ee0-a9fd-8e8fb6367dea",
+      "time": "2026-10-30 15:03:30",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "When asked about the impact of global central bank rate hikes, Bank of Japan Governor UEDA said the BOJ will examine various channels, including medium- to long-term bond markets and foreign exchange."
+    },
+    {
+      "id": "mkt:01a18b9e-9db9-7ee0-a9fd-81b3ad99c261",
+      "time": "2026-10-30 15:03:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UEDA said timely, appropriate execution of monetary policy is critical to stabilizing inf expectations."
+    },
+    {
+      "id": "5181661",
+      "time": "2026-10-30 15:03:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國石油公司（BP）：第三季度淨債務、混合債券、租賃負債及美國墨西哥灣和解負債合計較第二季度減少93億美元。"
+    },
+    {
+      "id": "5181660",
+      "time": "2026-10-30 15:02:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：在決定貨幣政策時，需要考慮累計加息的影響和金融狀況。"
+    },
+    {
+      "id": "mkt:01a18b9e-6b2d-7ee0-a9fd-7be3347c3ef5",
+      "time": "2026-10-30 15:02:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "30-year Chinese government bond futures (TL) most-active contract fell 1.00% intraday to 117.34 yuan."
+    },
+    {
+      "id": "5181659",
+      "time": "2026-10-30 15:02:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：泰國經濟持續復甦。"
+    },
+    {
+      "id": "5181658",
+      "time": "2026-10-30 15:02:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "馬來西亞央行：馬來西亞9月份廣義貨幣M3同比增長5.4%。"
+    },
+    {
+      "id": "te:markets:596637",
+      "time": "2026-10-30 15:02:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Drop on Tech Losses — Japan’s Nikkei 225 Index dropped 2.12% to close at 63,290 on Friday, ending a three-day winning streak as disappointing earnings from major technology companies heightened concerns over the sustainability of the AI trade. In after-hours trading, Amazon shares plunged around 7% after revealing a sharp increase in capital expenditures, while Intel tumbled 23% following a weaker-than-expected quarterly outlook and signs of slowing demand in the PC market. On the domestic front, investors awaited earnings reports from Kioxia Holdings and Tokyo Electron for further insight into AI-related demand, with their shares falling 7.1% and 5.2%, respectively. Other major technology stocks also suffered significant losses, including Advantest (-5.9%), SoftBank Group (-6%) and Lasertec (-8.8%). Meanwhile, the Bank of Japan maintained its policy rate at 1.25%, but signaled that underlying inflation has finally reached its 2% target, potentially paving the way for a rate hike in December."
+    },
+    {
+      "id": "5181657",
+      "time": "2026-10-30 15:02:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "彪馬仍預計本財年經匯率調整後的銷售額將維持在個位數低位。"
+    },
+    {
+      "id": "mkt:01a18b9e-0d41-7ee0-a9fd-70e92dc0985d",
+      "time": "2026-10-30 15:02:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "China's Shanghai Composite Index closed down 52.42 points, or 1.44%, at 3,599.02 on Oct 30 (Friday). Shenzhen Composite Index fell 304.41 points, or 2.73%, to 10,833.78. CSI 300 index dropped 56.34 points, or 1.39%, to 3,985.50. ChiNext index declined 103.96 points, or 4.13%, to 2,413.63. STAR Market 50 index fell 67.25 points, or 5.48%, to 1,160.84."
+    },
+    {
+      "id": "5181656",
+      "time": "2026-10-30 15:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "芬蘭將在蒂卡科斯基建立國防軍太空行動中心。"
+    },
+    {
+      "id": "mkt:01a18b9d-9cdb-7ee0-a9fd-69de5da218e8",
+      "time": "2026-10-30 15:02:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China equity index futures midday close】CSI 300 index futures (IF, front-month) fell 1.37%; SSE 50 index futures (IH, front-month) fell 0.58%; CSI 500 index futures (IC, front-month) fell 3.05%; CSI 1000 index futures (IM, front-month) fell 3.74%."
+    },
+    {
+      "id": "mkt:01a18b9d-93ea-7ee0-a9fd-6754e9f42c57",
+      "time": "2026-10-30 15:02:02",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany export price index, September MoM +0.6% (prior +0.4%)."
+    },
+    {
+      "id": "5181655",
+      "time": "2026-10-30 15:02:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯利康第三季度核心每股收益為 2.79 美元，高於預期的 2.62 美元。"
+    },
+    {
+      "id": "mkt:01a18b9d-7a27-7ee0-a9fd-5ab12978f809",
+      "time": "2026-10-30 15:01:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Export Price Index (MoM) (Sep) | actual 0.6% | previous 0.4%"
+    },
+    {
+      "id": "mkt:01a18b9d-7299-7ee0-a9fd-52770e024fc3",
+      "time": "2026-10-30 15:01:53",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany Sep export price index YoY 5.3% vs 4.7% prior."
+    },
+    {
+      "id": "mkt:01a18b9d-5c4c-7ee0-a9fd-4ac28ed3ad87",
+      "time": "2026-10-30 15:01:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai, Shenzhen turnover CNY1.6745 tln on Oct. 30; Xinyisheng tops by value】Shanghai and Shenzhen exchanges traded CNY1.6745 trillion on Oct. 30, up CNY117.94 billion from the previous session. Shanghai turnover was CNY764.23 billion (volume 498 million lots) vs CNY715.62 billion (444 million lots) the prior session; Shenzhen turnover was CNY910.24 billion (volume 608 million lots) vs CNY840.90 billion (540 million lots). Xinyisheng led single-stock turnover at CNY21.61 billion, followed by Zhongji Xuchuang CNY20.66 billion, Changxin Technology CNY12.15 billion, CATL CNY10.31 billion and GigaDevice CNY10.02 billion."
+    },
+    {
+      "id": "5181654",
+      "time": "2026-10-30 15:01:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊銀行和滙豐銀行加入博迪科特收購案的臨時貸款方行列。"
+    },
+    {
+      "id": "mkt:01a18b9d-5a9a-7ee0-a9fd-413b874ed430",
+      "time": "2026-10-30 15:01:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Export Price Index (YoY) (Sep) | actual 5.3% | previous 4.7%"
+    },
+    {
+      "id": "5181653",
+      "time": "2026-10-30 15:01:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿曼蘇丹海賽姆將對中國進行國事訪問】外交部發言人宣佈：應國家主席習近平邀請，阿曼蘇丹海賽姆將於11月1日至2日對中國進行國事訪問。"
+    },
+    {
+      "id": "5181651",
+      "time": "2026-10-30 15:01:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌1.44%，深證成指跌2.73%，創業板指跌4.13%。"
+    },
+    {
+      "id": "5181650",
+      "time": "2026-10-30 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【滬深兩市今日成交額合計1.67萬億元，新易盛成交額居首】滬深兩市今日全天成交額合計1.67萬億元，較上一日增量1179.46億元。其中，滬市成交額為7642.27億元（上一交易日為7156.21億元），成交量為4.98億手（上一交易日為4.44億手）；深市成交額為9102.36億元（上一交易日為8408.96億元），成交量為6.08億手（上一交易日為5.4億手）。新易盛成交額居首，為216.08億元。其次是中際旭創、長鑫科技、寧德時代、兆易創新，成交額分別為206.56億元、121.45億元、103.06億元、100.17億元。"
+    },
+    {
+      "id": "mkt:01a18b9c-a77a-7ee0-a9fd-3c20058078ad",
+      "time": "2026-10-30 15:01:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "510310",
+        "159919"
+      ],
+      "text": "【Multiple broad-based ETFs extend volume surge; Huatai‑PineBridge CSI 300 ETF trades >4.0 bln yuan in 15 minutes】Near the close multiple CSI 300 ETFs saw a late-session volume spike. Huatai‑PineBridge CSI 300 ETF (510310) traded more than 4.0 bln yuan in a 15‑minute window and posted turnover above 6.0 bln yuan; Harvest CSI 300 ETF (159919) turnover approached 2.0 bln yuan; E Fund CSI 300 ETF (510310) turnover exceeded 1.2 bln yuan."
+    },
+    {
+      "id": "5181649",
+      "time": "2026-10-30 15:00:55",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【A股收評：創業板指衝高回落跌4.13%，影視院線、文化傳媒板塊跌幅居前】A股三大指數今日集體下跌，截至收盤，上證指數跌1.44%，深證成指跌2.73%，創業板指跌4.13%，北證50跌2.68%，科創50指數跌5.48%。全市場成交額16877億元，較上日放量1170億元，全市場超4600只個股下跌。板塊題材上，白酒、醫療服務、港口航運、CRO概念、機場航運板塊漲幅居前；影視院線、遊戲、文化傳媒、AI語料、軟體開發板塊跌幅居前。盤面上，白酒板塊全天強勢，皇臺酒業、古井貢酒、迎駕貢酒、瀘州老窖觸及漲停，捨得酒業、今世緣、山西汾酒漲幅居前。醫療服務板塊衝高回落，萬邦醫藥、畢得醫藥、百花醫藥、澳洋健康觸及漲停，睿智醫藥、皓元醫藥、博騰股份漲幅居前。港口航運板塊表現活躍，錦江航運漲停，中遠海控、國航遠洋、上港集團漲幅居前。影視院線板塊重挫，文投控股、橫店影視、慈文傳媒、奧飛娛樂、捷成股份觸及跌停，百納千成、中廣天擇、博納影業跌幅居前。遊戲板塊震盪走低，凱撒文化、三七互娛觸及跌停，名臣健康、掌趣科技、星輝娛樂跌幅居前。"
+    },
+    {
+      "id": "mkt:01a18b9c-6bb8-7ee0-a9fd-310306a188ae",
+      "time": "2026-10-30 15:00:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "At midday close, China’s main futures contracts were mixed. Apple led gains, up over 6%; eggs and asphalt rose more than 3%; ethylene glycol (EG) nearly 3% higher. Synthetic rubber, caustic soda and plastics advanced over 2%; urea was up nearly 2%. On the downside, Shanghai silver fell over 6%; Shanghai tin and platinum were down about 6%. Polysilicon and palladium dropped more than 3%; lithium carbonate slipped nearly 3%; coking coal and coke fell about 2%."
+    },
+    {
+      "id": "5181648",
+      "time": "2026-10-30 15:00:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "豐田和WAYMO計劃於2027年前在日本測試自動駕駛BZ4X車隊。"
+    },
+    {
+      "id": "5181647",
+      "time": "2026-10-30 15:00:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.27%】TrendForce資料顯示，10月30日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.27%，DDR4 16Gb (2Gx8) 3200現貨均價較上日下跌0.15%，DDR4 8Gb (1Gx8) 3200現貨均價較上日持平。"
+    },
+    {
+      "id": "mkt:01a18b9c-176d-7ee0-a9fd-2ca3d92d8957",
+      "time": "2026-10-30 15:00:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany September import price index YoY 10.4% (expected 10.3%; August 8.3%)."
+    },
+    {
+      "id": "mkt:01a18b9c-0563-7ee0-a9fd-20f1998d5e54",
+      "time": "2026-10-30 15:00:20",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Germany September import price index up 2.1% MoM, vs 1.8% expected and 1.0% prior."
+    },
+    {
+      "id": "5181646",
+      "time": "2026-10-30 15:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國9月份經常賬戶赤字16.26億美元；此前預計為盈餘16.74億美元。"
+    },
+    {
+      "id": "mkt:01a18b9b-ffd2-7ee0-a9fd-1a3ff880ff99",
+      "time": "2026-10-30 15:00:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK Nationwide house price index 0.5% YoY in October; expected 0.6%, prior 0.8%."
+    },
+    {
+      "id": "mkt:01a18b9b-ff60-7ee0-a9fd-102d9b721b57",
+      "time": "2026-10-30 15:00:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK Nationwide house price index MoM for October 0.0% vs -0.1% expected; prior revised from -0.2% to -0.3%."
+    },
+    {
+      "id": "5181645",
+      "time": "2026-10-30 15:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國9月進口價格指數環比 2.1%，預期 2%，前值 1%。德國9月進口價格指數環比 2.1%，預期 2%，前值 1%。"
+    },
+    {
+      "id": "mkt:01a18b9b-dc17-7ee0-a9fd-0860b8e95006",
+      "time": "2026-10-30 15:00:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Import Price Index (YoY) (Sep) | actual 10.4% | consensus 10.3% | previous 8.3%"
+    },
+    {
+      "id": "mkt:01a18b9b-dbfc-7ee0-a9fd-0267c6382968",
+      "time": "2026-10-30 15:00:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Import Price Index (MoM) (Sep) | actual 2.1% | consensus 1.8% | previous 1%"
+    },
+    {
+      "id": "5181644",
+      "time": "2026-10-30 15:00:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：及時、適當地實施貨幣政策對於錨定通脹預期至關重要。"
+    },
+    {
+      "id": "5181643",
+      "time": "2026-10-30 15:00:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌3.75%， 滬深300指數期貨連續跌1.42%， 中證500指數期貨連續跌3.08%， 上證50指數期貨連續跌0.58%。"
+    },
+    {
+      "id": "5181642",
+      "time": "2026-10-30 15:00:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】蘋果連續漲6.57%，白銀連續跌6.39%，鉑連續跌5.92%，錫連續跌5.80%，雞蛋連續漲3.73%。"
+    },
+    {
+      "id": "mkt:01a18b9b-cc67-7ee0-a9fc-f77a9cc044a6",
+      "time": "2026-10-30 15:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Nationwide House Price Index (MoM) (Oct) | actual 0% | consensus -0.1% | previous -0.2%"
+    },
+    {
+      "id": "mkt:01a18b9b-cc6a-7ee0-a9fc-f982feb35724",
+      "time": "2026-10-30 15:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Nationwide House Price Index (YoY) (Oct) | actual 0.5% | consensus 0.6% | previous 0.8%"
+    },
+    {
+      "id": "mkt:01a18b9b-ad83-7ee0-a9fc-ee6a5897c3a3",
+      "time": "2026-10-30 14:59:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "8035.T",
+        "Impact bullish"
+      ],
+      "text": "【Tokyo Electron raises profit outlook above estimates as AI-driven capex lifts orders】Japan’s Tokyo Electron set its fiscal-year operating profit outlook at ¥1.17 tln (about $7.4 bln) for the year to March, above analyst consensus of ¥1.03 tln and implying 64% YoY growth. Q3 (July–Sept) operating profit rose to ¥295.4 bln versus consensus ¥256.1 bln. The company said orders are increasing as chipmakers including Samsung and TSMC accelerate capex to meet AI hardware demand, and that investment could exceed prior expectations. Tokyo Electron also cited rising demand tied to projects such as Elon Musk’s Terafab."
+    },
+    {
+      "id": "5181641",
+      "time": "2026-10-30 14:59:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【360圖龍鋒登頂AI安全“世界盃”CyberGym，打敗OpenAI和Anthropic】近日，國際權威基準測試CyberGym中，360集團自研的AI安全攻防系統圖龍鋒以99.4%的漏洞復現成功率登頂榜單並重新整理世界記錄。此次同榜競技的包括OpenAI、Anthropic、Google等全球頭部AI廠商的模型與智慧體。(環球網)"
+    },
     {
       "id": "mkt:01a18b9b-09da-7ee0-a9fc-e466c911bece",
       "time": "2026-10-30 14:59:15",
@@ -118786,119 +119259,6 @@
         "市場"
       ],
       "text": "【SK海力士：會長給出“持有”建議三個月後，散戶虧損比例達74%】大約三個月前，SK集團會長崔泰源對SK海力士股票給出了“持有”的建議。但該股當前價格依舊較高點回落近60%。不少在高位附近入場的散戶深度套牢，陷入既不敢割肉、也無力加倉的境地。高位集中買入的散戶成為虧損主力。4–6月是該股行情高點區間，個人投資者淨買入規模合計31.5萬億韓元；其中6月股價創出歷史新高，單月散戶淨買入15.63萬億韓元。即便7月股價從250萬韓元區間暴跌至130萬韓元，散戶依舊淨買入9.001萬億韓元，不斷攤薄持倉成本。但後續股價進一步下探至120萬韓元附近，攤薄操作也沒能讓他們避開虧損。NH投資證券資料顯示，截至10月19日，持有SK海力士的投資者當中，74.18%處於虧損狀態。美林證券稱，按週三收盤價測算，該股明年預期市淨率僅1.10倍，處於歷史低位；如果出臺力度更強的股東回報措施，有望凸顯估值窪地。"
-    },
-    {
-      "id": "5163606",
-      "time": "2026-10-23 15:04:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國大唐集團技術經濟研究院黨委委員馬強接受審查調查】中央紀委國家監委網站10月23日通報，據中央紀委國家監委駐中國大唐紀檢監察組、吉林省紀委監委訊息：中國大唐集團技術經濟研究院有限責任公司黨委委員、紀委書記馬強涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國大唐紀檢監察組紀律審查和吉林省白山市監察委員會監察調查。"
-    },
-    {
-      "id": "5163605",
-      "time": "2026-10-23 15:04:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "賽峰集團公佈業績後股價下跌4.6%。"
-    },
-    {
-      "id": "5163604",
-      "time": "2026-10-23 15:04:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "HIAB 第三季度息稅前利潤和營收不及預期，股價下跌 8%。"
-    },
-    {
-      "id": "5163603",
-      "time": "2026-10-23 15:03:36",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "財政部資料顯示，1-9月財政收入同比增長5.1%。"
-    },
-    {
-      "id": "5163602",
-      "time": "2026-10-23 15:03:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吉林省延邊州委原常委王吉寶接受審查調查】中央紀委國家監委網站10月23日通報，據吉林省紀委監委訊息：吉林省延邊州委原常委、延吉市委原書記王吉寶涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受吉林省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "5163601",
-      "time": "2026-10-23 15:02:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國總統施泰因邁爾將訪華】外交部發言人宣佈：應國家主席習近平邀請，德國總統施泰因邁爾將於10月27日至31日對中國進行國事訪問。（外交部）"
-    },
-    {
-      "id": "5163600",
-      "time": "2026-10-23 15:01:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐萊雅股價上漲5.8%，創2024年以來新高，此前第三季度銷售額超出預期。"
-    },
-    {
-      "id": "5163599",
-      "time": "2026-10-23 15:01:18",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哈薩克央行表示，2026年底前調整關鍵利率的可能性仍然較低，是否進一步下調基準利率將取決於價格壓力持續緩解的確認情況。"
-    },
-    {
-      "id": "5163598",
-      "time": "2026-10-23 15:01:09",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【A股收評：創業板指午後大幅反彈漲4.16%，人形機器人、減速器板塊漲幅居前】A股三大指數今日集體上漲，截至收盤，上證指數漲0.89%，深證成指漲2.79%，創業板指漲4.16%，北證50漲1.88%，科創50指數漲3.04%。全市場成交額19728億元，較上日放量4310億元，全市場超4500只個股上漲。板塊題材上，電機、自動化裝置、軟體開發、減速器、人形機器人板塊漲幅居前；兵裝重組概念、可燃冰、銀行、電力、元件板塊跌幅居前。盤面上，人形機器人板塊午後爆發，宇樹科技、利亞德、海天瑞聲等二十餘股觸及漲停，崧盛股份、利元亨、長盈精密等多股漲超10%。網際網路金融亦午後衝高，世紀恆通、匯金科技、大智慧、華林證券漲停，格靈深瞳、同花順、雲從科技漲幅居前。半導體板塊亦大幅反彈，粵芯半導、晶豐明源、大港股份、匯頂科技漲停，燧原科技、沫曦股份、摩爾執行緒漲幅居前。銀行板塊午後回落，中國銀行、農業銀行、建設銀行跌幅居前。"
-    },
-    {
-      "id": "5163597",
-      "time": "2026-10-23 15:01:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【滬深兩市今日成交額合計1.96萬億元，中際旭創成交額居首】滬深兩市今日全天成交額合計1.96萬億元，較上一日增量4275.5億元。其中，滬市成交額為8986.67億元（上一交易日為7060.96億元），成交量為5.53億手（上一交易日為4.38億手）；深市成交額為1.06萬億元（上一交易日為8226.13億元），成交量為6.9億手（上一交易日為5.26億手）。中際旭創成交額居首，為279.18億元。其次是寧德時代、新易盛、長鑫科技、兆易創新，成交額分別為253.96億元、213.57億元、197.98億元、129.06億元。"
-    },
-    {
-      "id": "5163596",
-      "time": "2026-10-23 15:01:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲0.89%，深證成指漲2.79%，創業板指漲4.16%。"
-    },
-    {
-      "id": "5163595",
-      "time": "2026-10-23 15:00:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "沃爾沃汽車股價在第三季度財報釋出後下跌 3.3%。"
-    },
-    {
-      "id": "5163594",
-      "time": "2026-10-23 15:00:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "義大利埃尼集團公佈第三季度業績、宣佈特別股息並增加回購計劃後，其股價上漲2.5%。"
     }
   ]
 }
