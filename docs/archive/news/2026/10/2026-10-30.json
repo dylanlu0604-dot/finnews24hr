@@ -1,7 +1,112 @@
 {
   "date": "2026-10-30",
-  "count": 2008,
+  "count": 2020,
   "items": [
+    {
+      "id": "5182942",
+      "time": "2026-10-30 19:53:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達團隊基於MiniMaxH3開源影片增強方案，最高支援4K重生成】 記者獲悉，近日，由英偉達與麻省理工學院研究人員組成的Efficient-Large-Model團隊，在HuggingFace釋出影片增強專案Open-H3-Regenerate-2K的模型權重，配套推理程式碼已在NVlabs/Sana倉庫開放。該方案基於MiniMaxH3，將低解析度影片草稿重新生成為高解析度影片，支援2560×1440的2K輸出，最高可實現3840×2160的原生4K重生成。"
+    },
+    {
+      "id": "mkt:01a18ca8-a68d-7ee0-aa09-fd1a27567455",
+      "time": "2026-10-30 19:53:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Raymond James cuts Amazon (AMZN.O) PT to $250 from $300."
+    },
+    {
+      "id": "5182941",
+      "time": "2026-10-30 19:53:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股科技股盤前跌幅擴大，美光科技跌超6%】 美股科技股盤前跌幅擴大，美光科技跌超6%，臺積電跌超4%，英偉達跌超3%，蘋果跌超2%。"
+    },
+    {
+      "id": "mkt:01a18ca8-1c44-7ee0-aa09-f7cc8ccf7048",
+      "time": "2026-10-30 19:53:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Fox News reported on Thursday that US President Trump was briefed on potential military options against Iran."
+    },
+    {
+      "id": "5182940",
+      "time": "2026-10-30 19:53:08",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【多家大行下調亞馬遜、英特爾目標價】\n亞馬遜\n奧本海默：目標價320美元 → 285美元\n瑞穗銀行：目標價330美元 → 335美元\n蒙特利爾銀行：目標價380美元 → 390美元\n美銀全球研究：目標價320美元 → 317美元\n加拿大豐業銀行：目標價325美元 → 300美元\n摩根士丹利：目標價350美元 → 335美元\nStoneX：目標價 400 美元 → 380 美元\n\n英特爾\n傑富瑞：目標價120美元 → 85美元\nStonex：目標價140美元 → 100美元\n摩根士丹利：目標價84美元 → 75美元\n摩根大通：目標價85美元 → 80美元\nStifel：目標價110美元 → 90美元\n派傑投資：目標價110美元 → 90美元\n羅森布拉特證券：目標價80美元 → 70美元"
+    },
+    {
+      "id": "5182939",
+      "time": "2026-10-30 19:52:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和元生物：實控人提議回購2500萬元-5000萬元公司股份】和元生物10月30日公告，公司控股股東、實際控制人、董事長潘謳東提議公司透過上海證券交易所交易系統以集中競價交易方式回購公司已發行的部分人民幣普通股（A股）股份，用於維護公司價值及股東權益，回購資金總額不低於2500萬元（含），不超過5000萬元（含）。回購價格不高於公司董事會審議透過回購股份方案前30個交易日公司股票交易均價的150%，具體以董事會審議透過的回購股份方案為準。"
+    },
+    {
+      "id": "te:markets:596828",
+      "time": "2026-10-30 19:51:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "AbbVie earnings below expectations at 3.82 USD — AbbVie (ABBV) released earnings per share at 3.82 USD, compared to market expectations of 3.84 USD."
+    },
+    {
+      "id": "5182938",
+      "time": "2026-10-30 19:51:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體30日報道，伊朗海軍稱在霍爾木茲海峽東部水域摧毀了一艘美國無人船。（新華社）"
+    },
+    {
+      "id": "mkt:01a18ca6-5d96-7ee0-aa09-e933195c7f3c",
+      "time": "2026-10-30 19:51:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said Democrats' conduct in the Alaska Senate election was \"criminal activity\"."
+    },
+    {
+      "id": "5182935",
+      "time": "2026-10-30 19:51:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍旗科技：實控人杜軍紅擬增持1000萬元公司H股股份】龍旗科技10月30日公告，公司實際控制人、董事長杜軍紅計劃自2026年10月31日起3個月內，透過上海證券交易所繫統（含港股通）、香港聯合交易所有限公司系統允許的方式增持公司H股股份，擬增持金額為1000萬元，不超過公司總股本的2%。本次增持不設價格區間，增持資金來源為自有資金及自籌資金。杜軍紅承諾在增持計劃實施期間及實施完成後法定期限內不減持所持有的公司股份。"
+    },
+    {
+      "id": "5182934",
+      "time": "2026-10-30 19:50:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國首架綜合航測飛機——運12F大氣綜合航測飛機在哈爾濱完成全科目示範飛行】從中國航空工業集團獲悉，日前，我國首架綜合航測飛機——運12F大氣綜合航測飛機在哈爾濱完成全科目示範飛行，成功實現多汙染物與雲水化學高靈敏探測，順利獲取大氣細顆粒物、氣體汙染物、溫室氣體及雲水等要素的三維立體分佈資料，充分驗證了我國大氣環境綜合探測固定翼飛機平臺的可靠能力。（科技日報）"
+    },
     {
       "id": "mkt:01a18ca5-342b-7ee0-aa09-e0bffe9eac41",
       "time": "2026-10-30 19:49:59",
@@ -9,6 +114,15 @@
         "MKT News"
       ],
       "text": "【Trump says Iran war will end soon】U.S. President Trump said the war with Iran will \"end soon, by whatever means,\" adding \"I don't know who to talk to; many Iranian leaders are gone.\" He reiterated that \"Iran must reach a deal\" and that \"we need to ensure Iran never obtains nuclear weapons.\""
+    },
+    {
+      "id": "5182933",
+      "time": "2026-10-30 19:49:56",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛維持蘋果“買入”評級 12個月目標價由360美元上調至390美元】蘋果將釋出2026財年Q4財報，機構預期蘋果Q4營收為1133.22億美元，同比增加10.60%；預期每股收益1.979美元，同比增加6.97%。高盛預計其營收基本打平、利潤小幅超預期。維持蘋果“買入”評級，12個月目標價由360美元上調至390美元。"
     },
     {
       "id": "5182932",

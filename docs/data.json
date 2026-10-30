@@ -1,7 +1,112 @@
 {
-  "updated": "2026-10-30 19:50:42",
-  "count": 13108,
+  "updated": "2026-10-30 19:54:40",
+  "count": 13098,
   "items": [
+    {
+      "id": "5182942",
+      "time": "2026-10-30 19:53:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達團隊基於MiniMaxH3開源影片增強方案，最高支援4K重生成】 記者獲悉，近日，由英偉達與麻省理工學院研究人員組成的Efficient-Large-Model團隊，在HuggingFace釋出影片增強專案Open-H3-Regenerate-2K的模型權重，配套推理程式碼已在NVlabs/Sana倉庫開放。該方案基於MiniMaxH3，將低解析度影片草稿重新生成為高解析度影片，支援2560×1440的2K輸出，最高可實現3840×2160的原生4K重生成。"
+    },
+    {
+      "id": "mkt:01a18ca8-a68d-7ee0-aa09-fd1a27567455",
+      "time": "2026-10-30 19:53:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Raymond James cuts Amazon (AMZN.O) PT to $250 from $300."
+    },
+    {
+      "id": "5182941",
+      "time": "2026-10-30 19:53:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股科技股盤前跌幅擴大，美光科技跌超6%】 美股科技股盤前跌幅擴大，美光科技跌超6%，臺積電跌超4%，英偉達跌超3%，蘋果跌超2%。"
+    },
+    {
+      "id": "mkt:01a18ca8-1c44-7ee0-aa09-f7cc8ccf7048",
+      "time": "2026-10-30 19:53:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Fox News reported on Thursday that US President Trump was briefed on potential military options against Iran."
+    },
+    {
+      "id": "5182940",
+      "time": "2026-10-30 19:53:08",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【多家大行下調亞馬遜、英特爾目標價】\n亞馬遜\n奧本海默：目標價320美元 → 285美元\n瑞穗銀行：目標價330美元 → 335美元\n蒙特利爾銀行：目標價380美元 → 390美元\n美銀全球研究：目標價320美元 → 317美元\n加拿大豐業銀行：目標價325美元 → 300美元\n摩根士丹利：目標價350美元 → 335美元\nStoneX：目標價 400 美元 → 380 美元\n\n英特爾\n傑富瑞：目標價120美元 → 85美元\nStonex：目標價140美元 → 100美元\n摩根士丹利：目標價84美元 → 75美元\n摩根大通：目標價85美元 → 80美元\nStifel：目標價110美元 → 90美元\n派傑投資：目標價110美元 → 90美元\n羅森布拉特證券：目標價80美元 → 70美元"
+    },
+    {
+      "id": "5182939",
+      "time": "2026-10-30 19:52:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和元生物：實控人提議回購2500萬元-5000萬元公司股份】和元生物10月30日公告，公司控股股東、實際控制人、董事長潘謳東提議公司透過上海證券交易所交易系統以集中競價交易方式回購公司已發行的部分人民幣普通股（A股）股份，用於維護公司價值及股東權益，回購資金總額不低於2500萬元（含），不超過5000萬元（含）。回購價格不高於公司董事會審議透過回購股份方案前30個交易日公司股票交易均價的150%，具體以董事會審議透過的回購股份方案為準。"
+    },
+    {
+      "id": "te:markets:596828",
+      "time": "2026-10-30 19:51:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "AbbVie earnings below expectations at 3.82 USD — AbbVie (ABBV) released earnings per share at 3.82 USD, compared to market expectations of 3.84 USD."
+    },
+    {
+      "id": "5182938",
+      "time": "2026-10-30 19:51:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體30日報道，伊朗海軍稱在霍爾木茲海峽東部水域摧毀了一艘美國無人船。（新華社）"
+    },
+    {
+      "id": "mkt:01a18ca6-5d96-7ee0-aa09-e933195c7f3c",
+      "time": "2026-10-30 19:51:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said Democrats' conduct in the Alaska Senate election was \"criminal activity\"."
+    },
+    {
+      "id": "5182935",
+      "time": "2026-10-30 19:51:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍旗科技：實控人杜軍紅擬增持1000萬元公司H股股份】龍旗科技10月30日公告，公司實際控制人、董事長杜軍紅計劃自2026年10月31日起3個月內，透過上海證券交易所繫統（含港股通）、香港聯合交易所有限公司系統允許的方式增持公司H股股份，擬增持金額為1000萬元，不超過公司總股本的2%。本次增持不設價格區間，增持資金來源為自有資金及自籌資金。杜軍紅承諾在增持計劃實施期間及實施完成後法定期限內不減持所持有的公司股份。"
+    },
+    {
+      "id": "5182934",
+      "time": "2026-10-30 19:50:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國首架綜合航測飛機——運12F大氣綜合航測飛機在哈爾濱完成全科目示範飛行】從中國航空工業集團獲悉，日前，我國首架綜合航測飛機——運12F大氣綜合航測飛機在哈爾濱完成全科目示範飛行，成功實現多汙染物與雲水化學高靈敏探測，順利獲取大氣細顆粒物、氣體汙染物、溫室氣體及雲水等要素的三維立體分佈資料，充分驗證了我國大氣環境綜合探測固定翼飛機平臺的可靠能力。（科技日報）"
+    },
     {
       "id": "mkt:01a18ca5-342b-7ee0-aa09-e0bffe9eac41",
       "time": "2026-10-30 19:49:59",
@@ -9,6 +114,15 @@
         "MKT News"
       ],
       "text": "【Trump says Iran war will end soon】U.S. President Trump said the war with Iran will \"end soon, by whatever means,\" adding \"I don't know who to talk to; many Iranian leaders are gone.\" He reiterated that \"Iran must reach a deal\" and that \"we need to ensure Iran never obtains nuclear weapons.\""
+    },
+    {
+      "id": "5182933",
+      "time": "2026-10-30 19:49:56",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛維持蘋果“買入”評級 12個月目標價由360美元上調至390美元】蘋果將釋出2026財年Q4財報，機構預期蘋果Q4營收為1133.22億美元，同比增加10.60%；預期每股收益1.979美元，同比增加6.97%。高盛預計其營收基本打平、利潤小幅超預期。維持蘋果“買入”評級，12個月目標價由360美元上調至390美元。"
     },
     {
       "id": "5182932",
@@ -118818,208 +118932,6 @@
         "公司"
       ],
       "text": "大華股份第三季度淨利潤5.203億元人民幣。"
-    },
-    {
-      "id": "5164606",
-      "time": "2026-10-23 19:54:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "約旦國家電視臺：身份不明的槍手在約旦卡拉克省的一座教堂內開槍，造成數人傷亡。"
-    },
-    {
-      "id": "5164605",
-      "time": "2026-10-23 19:54:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "甲骨文將把市場採購業務擴充套件至印度和日本。"
-    },
-    {
-      "id": "mkt:01a1689c-7df6-7ee0-a957-23b80e90b5e2",
-      "time": "2026-10-23 19:54:08",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【SAFE allows overseas direct investment registrations to be processed at alternative locations】The State Administration of Foreign Exchange published a draft notice soliciting comments on further easing cross-border investment and financing procedures. Proposed measures: allow overseas direct investment registrations to be processed at locations other than the registrant's domicile; permit portions of registrations related to loans by domestic banks' offshore units to be handled directly by the banks; and expand the scope of online processing for capital-account transactions. The draft is open for public comment."
-    },
-    {
-      "id": "5164604",
-      "time": "2026-10-23 19:54:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【外匯局：擴大跨境融資便利主體範圍，賦能科技創新發展】《國家外匯管理局關於進一步最佳化跨境投融資便利化政策有關事宜的通知（徵求意見稿）》公開徵求意見。其中提出，擴大跨境融資高水平開放方面，一是擴大跨境融資便利主體範圍，賦能科技創新發展。二是下調關聯企業借款類別風險轉換因子係數，便利企業更靈活地調配資金。三是全國推廣綠色外債政策，支援綠色低碳發展。四是全國推廣融資租賃母子公司共享外債額度。"
-    },
-    {
-      "id": "mkt:01a1689c-79b5-7ee0-a957-190ae9888170",
-      "time": "2026-10-23 19:54:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "【SAFE seeks comments on draft easing cross-border financing to support tech innovation】China's State Administration of Foreign Exchange (SAFE) published a draft notice seeking public comment on measures to optimize cross-border investment and financing facilitation. Key proposals: expand the pool of entities eligible for cross-border financing to support technology innovation; lower the risk-conversion factor for related‑party borrowings to give firms greater flexibility in fund allocation; roll out a national green foreign‑debt policy to support green and low‑carbon development; and permit nationwide sharing of foreign‑debt quotas between finance‑leasing parent and subsidiary companies."
-    },
-    {
-      "id": "mkt:01a1689c-7288-7ee0-a957-112e1691169a",
-      "time": "2026-10-23 19:54:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【SAFE publishes draft to allow direct conversion of capital-account receipts to yuan to boost foreign investment efficiency】China’s State Administration of Foreign Exchange published a consultation draft to further ease cross-border investment and financing. Measures include permitting direct conversion of capital‑account receipts into yuan for payments to improve foreign investor efficiency; easing outbound direct investment standby-fund remittances and simplifying procedures for small overseas operating expenses; streamlining documentation for outbound direct‑investment capital remittances to avoid duplicate submissions; and optimizing review of outbound direct‑investment remittances to ensure efficient, convenient use of firms’ operating funds."
-    },
-    {
-      "id": "5164603",
-      "time": "2026-10-23 19:54:04",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【外匯局：便利資本專案收入直接結匯支付，進一步提升外資投資效率】《國家外匯管理局關於進一步最佳化跨境投融資便利化政策有關事宜的通知（徵求意見稿）》公開徵求意見。其中提出，提升直接投資便利化水平方面，一是便利資本專案收入直接結匯支付，進一步提升外資投資效率。二是便利境外直接投資備用金匯出，簡化境外企業日常小額經營開支的匯出手續。三是簡化境外直接投資資金匯出稽核材料，免於企業重複提供單證。四是最佳化境外直接投資資金匯出稽核，保障企業正常經營資金高效便捷使用。"
-    },
-    {
-      "id": "5164602",
-      "time": "2026-10-23 19:53:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【佰維儲存回應近期生產經營情況：積極拓展新興應用市場】佰維儲存(688525)10月23日釋出近期生產經營情況的公告稱，公司近期所處行業發展趨勢及生產經營情況受到市場廣泛關注。2026年以來，受人工智慧算力基礎設施建設持續推進、全球資料中心及雲服務廠商儲存需求增長等因素影響，DRAM、NAND Flash等主要儲存產品價格顯著上漲，行業景氣度提升。公司持續推進“儲存+晶圓級先進封測”雙輪驅動戰略，加快晶圓級先進封測製造專案建設。公司圍繞先進儲存、存算合封及高速光電互聯等領域，持續推進FOMS、CMC、OEC等先進封裝技術研發及產業化應用，積極拓展人工智慧算力基礎設施等新興應用市場。公司看好人工智慧產業發展帶來的中長期儲存市場機遇，將持續發揮在儲存解決方案、晶片設計及先進封裝測試等領域的技術積累和產業協同優勢，積極把握行業發展機會。"
-    },
-    {
-      "id": "mkt:01a1689c-44f6-7ee0-a957-0aa2388754fe",
-      "time": "2026-10-23 19:53:53",
-      "tags": [
-        "MKT News",
-        "ORCL.O"
-      ],
-      "text": "Oracle said it will invest $1 bln in its partner ecosystem over four years."
-    },
-    {
-      "id": "5164601",
-      "time": "2026-10-23 19:53:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "甲骨文宣佈對Oracle Marketplace進行功能增強。"
-    },
-    {
-      "id": "5164600",
-      "time": "2026-10-23 19:53:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "甲骨文計劃未來四年向合作伙伴生態系統投資10億美元。"
-    },
-    {
-      "id": "5164599",
-      "time": "2026-10-23 19:53:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "甲骨文報告向合作伙伴生態系統投資10億美元。"
-    },
-    {
-      "id": "5164598",
-      "time": "2026-10-23 19:52:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "塔塔汽車高管：供應方面的限制依然存在。"
-    },
-    {
-      "id": "5164597",
-      "time": "2026-10-23 19:52:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱，烏克蘭在與俄羅斯的換俘行動中帶回了270人。"
-    },
-    {
-      "id": "mkt:01a1689a-3961-7ee0-a957-078a148debfa",
-      "time": "2026-10-23 19:51:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Commander of Iran's Army Ground Forces said the situation is sensitive and forces must maintain full-spectrum combat readiness."
-    },
-    {
-      "id": "5164596",
-      "time": "2026-10-23 19:51:38",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【10月23日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.中共中央政治局召開會議 審議《關於二十屆中央第七輪巡視情況的綜合報告》 中共中央總書記習近平主持會議； 2.習近平對西藏那曲市巴青縣7.0級地震作出重要指示強調 全力開展人員搜救 妥善安置受災群眾 切實保障人民群眾生命財產安全 李強作出批示； 3.應習近平邀請 德國總統將訪華； 4.在新的長征路上奮力創造新的輝煌——習近平總書記在紀念中國工農紅軍長征勝利90週年大會上的重要講話引發熱烈反響； 5.李強主持召開國務院常務會議； 6.西藏那曲市巴青縣7.0級地震搶險救援工作抓緊進行； 7.中央組織部從代中央管理黨費中劃撥2500萬元用於支援西藏抗震救災工作； 8.前三季度我國財政執行總體平穩； 9.第140屆廣交會第二期今天開展； 10.國內聯播快訊： （1）新版《對外投資管理辦法》釋出； （2）前三季度國家電網固定資產投資超4500億元； （3）6G通訊技術應用等任務列入鐵路“十五五”創新目標； （4）2025年中國創新指數比上年增長6.4%； （5）我國人民陪審員總數已達34萬人； （6）去年3月以來檢察機關辦理涉企執法司法行政檢察案件8000餘件； 11.國際人士高度評價習近平主席在紀念中國工農紅軍長征勝利90週年大會上的重要講話； 12.國際聯播快訊： （1）俄稱重啟三方會談是為最終確保俄烏安全； （2）以色列總理稱全面封鎖約旦河西岸； （3）葉門胡塞武裝稱襲擊沙特國防部等目標； 13.二十四節氣·霜降。"
-    },
-    {
-      "id": "mkt:01a1689a-2333-7ee0-a956-fe7ab2b2a5a9",
-      "time": "2026-10-23 19:51:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Army ground forces commander said forces must accurately assess combat capabilities and maintain full vigilance to counter enemy hybrid threats."
-    },
-    {
-      "id": "5164595",
-      "time": "2026-10-23 19:51:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "塔塔汽車高管：預計第三季度大宗商品價格將進一步上漲，尤其是部分金屬以及輪胎和橡膠。"
-    },
-    {
-      "id": "te:markets:594660",
-      "time": "2026-10-23 19:51:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Treasury Yield at 5% — The yield on the US 10-year Treasury note rose to 5% on Friday, following a 17bps drop in the previous session, which was the largest single-day decline in more than a year. Despite the modest rebound, cautious sentiment persisted as oil prices climbed further amid concerns over a potential escalation of hostilities in the Middle East, with the US midterm elections also less than two weeks away. Meanwhile, concerns over heavy AI-related spending continued to weigh on sentiment. The Federal Reserve is set to announce its monetary policy decision next week, with markets pricing in a roughly 91% probability of rates remaining unchanged. Meanwhile, the odds of a 25bps rate hike in December stood at around 76%."
-    },
-    {
-      "id": "5164594",
-      "time": "2026-10-23 19:51:21",
-      "tags": [
-        "公司",
-        "央行"
-      ],
-      "text": "【中國人民銀行行長潘功勝會見義大利前總理、歐央行前行長馬里奧·德拉吉一行】2026年10月23日，中國人民銀行行長潘功勝會見了義大利前總理、歐央行前行長馬里奧·德拉吉，美中關係全國委員會會長斯蒂芬·歐倫斯，城堡證券執行長趙鵬。雙方圍繞全球經濟形勢、金融市場動態、中國宏觀經濟政策等議題進行了交流。中國人民銀行副行長宣昌能參加會見。（中國人民銀行）"
-    },
-    {
-      "id": "mkt:01a16899-f11e-7ee0-a956-f0ebb9c355dd",
-      "time": "2026-10-23 19:51:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【PBOC's Pan meets Draghi to discuss global economy and China's macro policy】Oct 23, 2026 — PBOC's Pan met with former Italian prime minister and ex‑ECB president Mario Draghi, Stephen Orlins of the National Committee on U.S.‑China Relations, and Castle Securities CEO Zhao Peng. They exchanged views on the global economy, financial‑market dynamics and China's macroeconomic policy. PBOC deputy governor Xuan Changneng attended."
-    },
-    {
-      "id": "5164593",
-      "time": "2026-10-23 19:50:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【今日特朗普行程】\n10月24日20:00（北京時間，下同）：總統行政時間（閉門），外出行程隨行記者團跟訪\n10月25日5:00：佐治亞州佩裡市 Guardian Centers 舉辦政治集會\n10月25日5:00：在白宮發表講話，外出行程隨行記者團跟訪\n10月25日10:00：華盛頓本地媒體池記者集合待命"
     }
   ]
 }
