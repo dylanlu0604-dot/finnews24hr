@@ -1,7 +1,101 @@
 {
-  "updated": "2026-10-30 09:15:00",
+  "updated": "2026-10-30 09:18:49",
   "count": 13139,
   "items": [
+    {
+      "id": "mkt:01a18a62-81bc-7ee0-a9f4-32d6c0563964",
+      "time": "2026-10-30 09:17:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Tech valuations near lows; analysts flag 27 large-cap stocks with >100% consensus upside】China tech valuations have retreated to near-historical lows after a sharp correction. Improving liquidity, sustained industry momentum and concentrated institutional bullishness are cited as buying opportunities in oversold domestic hard-tech areas including semiconductors, AI hardware and optical modules. Across the electronics, communications and computer sectors, 27 stocks with market caps above CNY20 bln have at least five analyst coverages and a consensus forecasted upside exceeding 100%. Historically, low-valuation names have shown higher likelihood of rebound. Analysts project 2027 P/Es for Jianqiao Technology, Jiangbolong, Xinyisheng and Zhongji Xuchuang to be in the single digits."
+    },
+    {
+      "id": "5181029",
+      "time": "2026-10-30 09:17:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：研發負責人Ahn Hyun被任命為美洲區負責人。"
+    },
+    {
+      "id": "5181028",
+      "time": "2026-10-30 09:17:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌1%。"
+    },
+    {
+      "id": "5181027",
+      "time": "2026-10-30 09:16:04",
+      "tags": [
+        "公司",
+        "資料",
+        "國際"
+      ],
+      "text": "總部位於倫敦的私募股權公司Appian Capital Advisory正與歐洲復興開發銀行（EBRD）及其他機構就籌集資金投資關鍵礦產專案進行磋商。"
+    },
+    {
+      "id": "te:economy:596506",
+      "time": "2026-10-30 09:16:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Philippines Trade Deficit Widens in September — The Philippines’ trade deficit widened to USD 5.2 billion in September 2026 from USD 4.7 billion a year earlier. Imports rose 25.7% year-on-year to a record USD 15.0 billion, driven by higher purchases of electronic products (+87.4%), particularly semiconductors (+144%). Arrivals also increased for mineral fuels and lubricants (+53.3%), cereals and cereal preparations (+22.8%), and telecommunications equipment (+14.2%). South Korea was the main import source, at 26.1%, followed by China (22.3%), Indonesia (6.6%), and Japan (6.3%). Exports advanced 35.6% to USD 9.9 billion, reflecting increased shipments of electronic products (+71.9%), mainly semiconductors (+86.1%) and office equipment (+89.1%). Exports also rose for gold (+24.2%) and fresh bananas (+43.2%). The US remained the top export market, accounting for 26.6% of total shipments, followed by Hong Kong (15.7%) and China (11.3%). In January-September, the trade gap widened to USD 47.2 billion from USD 37.6 billion a year earlier."
+    },
+    {
+      "id": "mkt:01a18a60-a43f-7ee0-a9f4-2cb0a795012a",
+      "time": "2026-10-30 09:15:51",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng futures opened the day session up 0.13% at 23,051, trading 108 points above the cash index."
+    },
+    {
+      "id": "5181026",
+      "time": "2026-10-30 09:15:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7138，較上日調高9點】人民幣兌美元中間價報6.7138，較上日調高9點。"
+    },
+    {
+      "id": "5181025",
+      "time": "2026-10-30 09:15:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7138元。"
+    },
+    {
+      "id": "5181024",
+      "time": "2026-10-30 09:15:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內跌5%，現報363820.00元。"
+    },
+    {
+      "id": "5181023",
+      "time": "2026-10-30 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.00%，報23028.00點，高水69.35點。"
+    },
     {
       "id": "te:economy:596505",
       "time": "2026-10-30 09:14:25",
@@ -118621,94 +118715,6 @@
         "國際"
       ],
       "text": "【特朗普稱馬斯克恢復對烏星鏈服務】當地時間10月22日下午，美國總統特朗普在白宮被媒體問及“是否致電美國太空探索技術公司執行長馬斯克，要求其解除對烏克蘭軍用版‘星鏈’衛星通訊服務的限速”。特朗普對此表示“不予置評”，但“重要的是馬斯克已經恢復了相關服務”。 不過，烏克蘭總統澤連斯基當天早些時候對媒體稱，限速尚未徹底解除。而另據烏克蘭軍方人士訊息，“星鏈”服務的執行速度似乎正在恢復，已高於此前水平。 據美國《華爾街日報》當天報道，特朗普已致電馬斯克，要求他解除對烏克蘭境內“星鏈”衛星通訊系統軍事化版本的相關限制。美國國務卿魯比奧10月21日曾稱，烏克蘭使用“星鏈”衛星通訊系統遭限速的決定“由馬斯克作出，而非白宮”。報道援引美國官員的話說，特朗普向馬斯克表示，他對“星鏈”系統的使用速度受限感到不滿。（CCTV國際時訊）"
-    },
-    {
-      "id": "5163009",
-      "time": "2026-10-23 09:18:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "越南國家主席蘇林將於 11 月 8 日至 11 日訪問日本。"
-    },
-    {
-      "id": "5163008",
-      "time": "2026-10-23 09:18:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【華泰期貨：全球權益市場大幅下跌並伴隨波動率放大，對於黃金投資的需求或略有減弱】目前市場風險情緒有所滋生，疊加全球權益市場大幅下跌並伴隨波動率放大，對於黃金投資的需求或略有減弱；當下白銀與黃金邏輯類似，疊加全球權益市場大幅下跌並伴隨波動率放大，價格預計同樣維持震盪格局。（華泰期貨）"
-    },
-    {
-      "id": "5163007",
-      "time": "2026-10-23 09:16:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國—智利自貿委員會第八次會議在京舉行 】10月21日,中國—智利自由貿易委員會第八次會議在京舉行。雙方全面回顧自貿協定實施成效，圍繞雙邊貿易投資、協定優惠利用、衛生與植物衛生措施、原產地證書以及新興領域合作等具體議題深入交換意見。雙方一致認為，中智自貿協定是雙邊經貿合作的重要制度基石，將繼續用好自貿委員會機制，不斷深化貿易投資合作，促進新興領域合作，推動雙邊經貿關係不斷提質升級。"
-    },
-    {
-      "id": "mkt:01a16654-788c-7ee0-a952-9597e27a3a0b",
-      "time": "2026-10-23 09:16:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures opened the day session up 0.76% at 23,128, trading about a 193-point premium to the cash index."
-    },
-    {
-      "id": "5163006",
-      "time": "2026-10-23 09:15:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.7180，較上日調高15點】人民幣兌美元中間價報6.7180，較上日調高15點。"
-    },
-    {
-      "id": "5163005",
-      "time": "2026-10-23 09:15:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丙烯連續主力合約日內漲4%，現報9821.00元。"
-    },
-    {
-      "id": "5163004",
-      "time": "2026-10-23 09:15:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【秘魯政府將追加開支應對厄爾尼諾等挑戰】秘魯總統藤森慶子22日宣佈，該國政府計劃2027年追加180億索爾（約合52.2億美元）資金，以應對厄爾尼諾現象、國際燃油價格上漲和全球利率高企等因素帶來的經濟壓力，保障民生並推動經濟增長。 藤森慶子當天在總統府舉行的新聞釋出會上說，追加資金將用於多方面支出，包括向困難家庭發放補助金、維護公共工程、提供燃油補貼和推進基礎設施建設。她表示，秘魯面臨多重外部挑戰，但穩健的宏觀經濟狀況為政府採取額外措施提供了空間。(新華社)"
-    },
-    {
-      "id": "mkt:01a16653-6bdc-7ee0-a952-8aecda9b8354",
-      "time": "2026-10-23 09:15:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 10-year bond yield fell 11 bps to 2.770%."
-    },
-    {
-      "id": "5163003",
-      "time": "2026-10-23 09:15:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證指數下跌2%，至3917.52。"
-    },
-    {
-      "id": "5163002",
-      "time": "2026-10-23 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.81%，報23140.40點，高水205.72點。"
     }
   ]
 }

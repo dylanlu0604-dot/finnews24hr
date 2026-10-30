@@ -1,7 +1,101 @@
 {
   "date": "2026-10-30",
-  "count": 921,
+  "count": 931,
   "items": [
+    {
+      "id": "mkt:01a18a62-81bc-7ee0-a9f4-32d6c0563964",
+      "time": "2026-10-30 09:17:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Tech valuations near lows; analysts flag 27 large-cap stocks with >100% consensus upside】China tech valuations have retreated to near-historical lows after a sharp correction. Improving liquidity, sustained industry momentum and concentrated institutional bullishness are cited as buying opportunities in oversold domestic hard-tech areas including semiconductors, AI hardware and optical modules. Across the electronics, communications and computer sectors, 27 stocks with market caps above CNY20 bln have at least five analyst coverages and a consensus forecasted upside exceeding 100%. Historically, low-valuation names have shown higher likelihood of rebound. Analysts project 2027 P/Es for Jianqiao Technology, Jiangbolong, Xinyisheng and Zhongji Xuchuang to be in the single digits."
+    },
+    {
+      "id": "5181029",
+      "time": "2026-10-30 09:17:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：研發負責人Ahn Hyun被任命為美洲區負責人。"
+    },
+    {
+      "id": "5181028",
+      "time": "2026-10-30 09:17:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌1%。"
+    },
+    {
+      "id": "5181027",
+      "time": "2026-10-30 09:16:04",
+      "tags": [
+        "公司",
+        "資料",
+        "國際"
+      ],
+      "text": "總部位於倫敦的私募股權公司Appian Capital Advisory正與歐洲復興開發銀行（EBRD）及其他機構就籌集資金投資關鍵礦產專案進行磋商。"
+    },
+    {
+      "id": "te:economy:596506",
+      "time": "2026-10-30 09:16:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Philippines Trade Deficit Widens in September — The Philippines’ trade deficit widened to USD 5.2 billion in September 2026 from USD 4.7 billion a year earlier. Imports rose 25.7% year-on-year to a record USD 15.0 billion, driven by higher purchases of electronic products (+87.4%), particularly semiconductors (+144%). Arrivals also increased for mineral fuels and lubricants (+53.3%), cereals and cereal preparations (+22.8%), and telecommunications equipment (+14.2%). South Korea was the main import source, at 26.1%, followed by China (22.3%), Indonesia (6.6%), and Japan (6.3%). Exports advanced 35.6% to USD 9.9 billion, reflecting increased shipments of electronic products (+71.9%), mainly semiconductors (+86.1%) and office equipment (+89.1%). Exports also rose for gold (+24.2%) and fresh bananas (+43.2%). The US remained the top export market, accounting for 26.6% of total shipments, followed by Hong Kong (15.7%) and China (11.3%). In January-September, the trade gap widened to USD 47.2 billion from USD 37.6 billion a year earlier."
+    },
+    {
+      "id": "mkt:01a18a60-a43f-7ee0-a9f4-2cb0a795012a",
+      "time": "2026-10-30 09:15:51",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng futures opened the day session up 0.13% at 23,051, trading 108 points above the cash index."
+    },
+    {
+      "id": "5181026",
+      "time": "2026-10-30 09:15:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7138，較上日調高9點】人民幣兌美元中間價報6.7138，較上日調高9點。"
+    },
+    {
+      "id": "5181025",
+      "time": "2026-10-30 09:15:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7138元。"
+    },
+    {
+      "id": "5181024",
+      "time": "2026-10-30 09:15:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內跌5%，現報363820.00元。"
+    },
+    {
+      "id": "5181023",
+      "time": "2026-10-30 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.00%，報23028.00點，高水69.35點。"
+    },
     {
       "id": "te:economy:596505",
       "time": "2026-10-30 09:14:25",
