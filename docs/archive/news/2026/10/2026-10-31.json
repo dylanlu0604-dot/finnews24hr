@@ -1,7 +1,26 @@
 {
   "date": "2026-10-31",
-  "count": 498,
+  "count": 500,
   "items": [
+    {
+      "id": "5183689",
+      "time": "2026-10-31 06:30:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：禮來即將推出一些重磅藥物。"
+    },
+    {
+      "id": "te:markets:596965",
+      "time": "2026-10-31 06:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Surges by 5.77% — Top commodity gainers are Natural Gas EU (5.77%), Germany Natural Gas THE (5.58%), Natural Gas UK (5.03%), Brent Oil (1.38%) and Crude Oil (0.93%). Biggest losers are Natural gas (-2.34%) and Methanol (-1.43%)."
+    },
     {
       "id": "te:markets:596964",
       "time": "2026-10-31 06:28:59",
