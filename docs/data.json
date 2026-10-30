@@ -1,7 +1,94 @@
 {
-  "updated": "2026-10-31 01:39:18",
-  "count": 13159,
+  "updated": "2026-10-31 01:43:02",
+  "count": 13165,
   "items": [
+    {
+      "id": "mkt:01a18de8-068e-7ee0-aa13-282d8376b084",
+      "time": "2026-10-31 01:42:35",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Chilean Copper Commission forecasts Chile's copper production will rise 3% in 2027 to 5.08 mln tonnes."
+    },
+    {
+      "id": "mkt:01a18de7-f5ca-7ee0-aa13-2419b7270efc",
+      "time": "2026-10-31 01:42:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed’s Logan: at least two more hikes totaling 50bp needed】Dallas Fed President Logan said the Fed needs at least two additional 25bp hikes (50bp total), then should pause to assess economic and financial conditions before deciding next steps. Logan, who voted this week in the 10-2 FOMC decision to keep the federal funds target at 3.75%-4.00%, said inflation still needs further suppression and that at least 50bp more tightening is required to move inflation back toward 2%. She warned that weaker tech investment prospects and geopolitical tensions are increasing market volatility and argued gradual rate increases will help households, firms and markets adjust while reducing the risk of a sharp downturn. Logan urged clearer Fed communication of policy plans—contrasting with Fed Chair Warsh’s view that such guidance is for crisis periods—and said current financial conditions still support growth; higher long-term borrowing costs largely reflect investors’ expectations for stronger growth and higher rates, and skipping a meeting would not change the ultimate policy objective."
+    },
+    {
+      "id": "mkt:01a18de7-ef1c-7ee0-aa13-1f1aa62d34ac",
+      "time": "2026-10-31 01:42:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Chilean Copper Commission forecasts refined copper surplus equal to 0.5% of global consumption in 2026 and 0.8% in 2027."
+    },
+    {
+      "id": "5183498",
+      "time": "2026-10-31 01:42:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利銅業委員會（Cochilco）：預計2026年精煉銅過剩量將佔全球消費量的0.5%，2027年佔0.8%。"
+    },
+    {
+      "id": "5183497",
+      "time": "2026-10-31 01:41:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國長端國債收益率10月份累跌超20個基點】週五（10月30日）歐市尾盤，英國10年期國債收益率跌1個基點，報5.284%，10月份累計下跌14.0個基點。兩年期英債收益率跌3.1個基點，報4.867%，10月份累跌2個基點，10月1-20日呈現出V形反轉。30年期英債收益率累跌23.5個基點，報5.714%，整體持續震盪下行；50年期英債收益率累跌24.3個基點，報5.123%。2/10年期英債收益率利差累跌12.063個基點，報+41.587個基點。"
+    },
+    {
+      "id": "5183496",
+      "time": "2026-10-31 01:41:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利銅業委員會（Cochilco）：預計2026年精煉銅過剩量將佔全球消費量的0.5%，2027年佔0.8%。"
+    },
+    {
+      "id": "mkt:01a18de6-a2de-7ee0-aa13-15b9595419b6",
+      "time": "2026-10-31 01:41:04",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Chilean copper commission Cochilco raised its average copper price forecast to $6.18 per lb for 2026 and $5.95 per lb for 2027."
+    },
+    {
+      "id": "5183495",
+      "time": "2026-10-31 01:40:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利銅業委員會（Cochilco）上調2026年銅均價預測至每磅6.18美元，2027年至每磅5.95美元。"
+    },
+    {
+      "id": "5183494",
+      "time": "2026-10-31 01:39:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【石油公司因燃油價格飆升獲得560億美元意外利潤】隨著波斯灣和俄烏衝突擾亂能源市場，並推動煉油業績創下歷史新高，大型石油公司獲得了逾500億美元的意外利潤。資料顯示，埃克森美孚、雪佛龍、BP、殼牌和道達爾能源最新季度調整後淨利潤合計達563億美元，超出分析師預期，為有紀錄以來第三高的合計盈利水平。各公司煉油板塊利潤創下紀錄：埃克森美孚煉油業務第三季度盈利90.5億美元，雪佛龍煉油業務盈利49.3億美元。美國幾大石油巨頭抵制了將更多現金用於股票回購的誘惑，因為此舉可能引發政治反彈。"
+    },
     {
       "id": "5183493",
       "time": "2026-10-31 01:38:21",
@@ -119752,40 +119839,6 @@
         "國際"
       ],
       "text": "市場訊息：預計特朗普將取消對加拿大的部分關稅。"
-    },
-    {
-      "id": "5165122",
-      "time": "2026-10-24 01:42:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "Frasers：因其持股已超 50%，雨果博斯（Hugo Boss）將成為其子公司。"
-    },
-    {
-      "id": "5165121",
-      "time": "2026-10-24 01:41:44",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【高盛：油價上漲開始引發美國經濟增長擔憂，預計美聯儲12月再加息一次】高盛指出，隨著布倫特原油價格本週上漲約6%至每桶117美元，市場對高油價的關注正從通脹壓力轉向經濟增長風險。美國10年期國債收益率自美聯儲9月加息以來首次跌破5%，反映投資者對經濟前景的擔憂升溫。高盛認為，當前通脹壓力仍具有暫時性，預計美聯儲將在12月議息會議上再加息一次，但也存在停止進一步加息的可能。與此同時，市場持續質疑AI基礎設施投資的可持續性，半導體及晶片裝置板塊10月以來出現兩位數跌幅，而微軟等大型科技公司表現相對穩健。高盛指出，隨著亞馬遜、Alphabet和微軟即將公佈財報，市場將進一步檢驗AI投資的盈利前景。目前市場預計標普500指數成分股第三季度每股收益同比增長27%，其中中位數公司的增幅約為9%。"
-    },
-    {
-      "id": "mkt:01a169d9-02cc-7ee0-a95e-4bb47e9fdd05",
-      "time": "2026-10-24 01:39:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ICE data: for the week ended Oct. 20, speculators' net long positions in diesel rose by 161 contracts to 75,622 contracts."
     }
   ]
 }
