@@ -1,7 +1,23 @@
 {
   "date": "2026-11-01",
-  "count": 102,
+  "count": 104,
   "items": [
+    {
+      "id": "mkt:01a19329-0099-7ee0-aa1b-3ecfa8aecfb6",
+      "time": "2026-11-01 02:11:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Syria says it is discussing possible entry to Saudi-Turkey-Pakistan defense pact】At the Manama Dialogue security meeting in Bahrain, Syrian Foreign Minister Assad Shibani said discussions are underway to assess Syria joining the Mecca alliance — the joint defense agreement Saudi Arabia, Turkey and Pakistan signed in August. He said defending Gulf Arab states is vital to Syria’s security and that Syria will stand with all Gulf states, adding they face threats from cross‑border militia groups. Shibani gave no detail on whether support might include sending troops to Yemen; Damascus has previously denied reports Riyadh asked for Syrian deployments."
+    },
+    {
+      "id": "5184862",
+      "time": "2026-11-01 02:08:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧稱美國尚未決定恢復打擊】美國國務卿魯比奧表示，美國尚未就恢復對伊朗的打擊作出任何決定，總統特朗普更傾向於透過外交途徑解決問題。他補充稱，無論特朗普決定尋求實現何種軍事目標，美國都有實現這些目標的能力。“伊朗基本上是在說，除非我們得到想要的東西，否則我們不僅會炸燬船隻，還會摧毀整個地區鄰國的能源基礎設施，”魯比奧在亞特蘭大舉行的G20外長會議結束後的新聞釋出會上表示。“想想這一點，因為我覺得我們往往一帶而過，好像這是什麼正常行為似的。這不是正常行為。不是。”"
+    },
     {
       "id": "5184861",
       "time": "2026-11-01 01:59:29",
