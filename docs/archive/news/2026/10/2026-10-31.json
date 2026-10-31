@@ -1,7 +1,15 @@
 {
   "date": "2026-10-31",
-  "count": 937,
+  "count": 938,
   "items": [
+    {
+      "id": "mkt:01a19237-1261-7ee0-aa19-cc0fcdce3bd0",
+      "time": "2026-10-31 21:47:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【M3.4 quake in Tangula area, Haixi, Qinghai】CENC reported a M3.4 earthquake at 21:38 on Oct 31 in the Tangula area, Haixi prefecture, Qinghai (33.14°N, 91.68°E); focal depth 10 km."
+    },
     {
       "id": "mkt:01a19235-0c5e-7ee0-aa19-c65936b61ca1",
       "time": "2026-10-31 21:45:12",

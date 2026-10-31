@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-31 21:47:16",
+  "updated": "2026-10-31 21:51:08",
   "count": 13165,
   "items": [
+    {
+      "id": "mkt:01a19237-1261-7ee0-aa19-cc0fcdce3bd0",
+      "time": "2026-10-31 21:47:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【M3.4 quake in Tangula area, Haixi, Qinghai】CENC reported a M3.4 earthquake at 21:38 on Oct 31 in the Tangula area, Haixi prefecture, Qinghai (33.14°N, 91.68°E); focal depth 10 km."
+    },
     {
       "id": "mkt:01a19235-0c5e-7ee0-aa19-c65936b61ca1",
       "time": "2026-10-31 21:45:12",
@@ -119965,14 +119973,6 @@
         "其他"
       ],
       "text": "【法國新一輪示威活動中135人被逮捕】法國內政部長努內茲24日對媒體說，截至當地時間13時，警方在當天的新一輪全國性抗議示威活動中已逮捕135人。 努內茲表示，警方同時查獲了可能被用作武器的物品。據初步統計，截至當地時間24日13時，全法公共場所約有3.5萬名示威者。 努內茲23日對媒體說，法國政府將部署7萬名警察和憲兵，以應對預計在24日舉行的大規模示威活動可能引發的暴力行為。 法國17日爆發全國性示威。法國政府估計，全國約55萬人參加示威，組織方則稱人數達到80萬。部分城市的示威活動伴有暴力衝突。（新華國際）"
-    },
-    {
-      "id": "mkt:01a16e2a-d1f7-7ee0-a964-c3df1c4fe171",
-      "time": "2026-10-24 21:47:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Starlink service restored; Zelenskiy thanks US president】Ukrainian President Zelenskiy said Starlink and Starshield service speeds have been restored to pre-restriction levels. Restoration began last night and, as of this morning, speeds fully meet operational demand. He said the recovery is critical for frontline logistics and for defending against Shahed jet drones. Zelenskiy thanked the US president, the State Department, members of Congress and other partners for their assistance."
     }
   ]
 }
