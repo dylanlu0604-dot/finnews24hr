@@ -1,6 +1,155 @@
 {
-  "updated": "2026-10-30 11:28:12",
+  "updated": "2026-10-31 10:02:41",
   "items": [
+    {
+      "id": "2026103110",
+      "date": "2026-10-31",
+      "run_hour": 10,
+      "started_at": "2026-10-31 10:02:06",
+      "finished_at": "2026-10-31 10:02:41",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 1,
+      "failure_count": 11,
+      "success_sources": [
+        "investrade"
+      ],
+      "failed_sources": [
+        "cnyes",
+        "taishin",
+        "cathay",
+        "edwardjones",
+        "nomura",
+        "factset",
+        "jin10",
+        "fx678",
+        "westpac",
+        "uob",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": false,
+          "status": "NETWORK_ERROR",
+          "reason": "網路或 HTTP 請求失敗：502 Server Error: Bad Gateway for url: https://news.cnyes.com/tag/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-10-31",
+          "actual_date": ""
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-10-30，預期日期是 2026-10-31",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-10-31",
+          "actual_date": "2026-10-30"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "NO_DATA",
+          "reason": "找不到國泰財富管理日報",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-10-31",
+          "actual_date": ""
+        },
+        {
+          "source": "edwardjones",
+          "ok": false,
+          "status": "NO_DATA",
+          "reason": "找不到 Edward Jones 文章正文",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-10-30",
+          "actual_date": ""
+        },
+        {
+          "source": "nomura",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "nomura 日期不符：頁面最新日期是 2026-10-30，預期日期是 2026-10-31",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-10-31",
+          "actual_date": "2026-10-30"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "TRANSCRIPT_ERROR",
+          "reason": "無法取得 FactSet 字幕：Could not retrieve a transcript for the video https://www.youtube.com/watch?v=952_uinwNAc! This is most likely caused by: YouTube is blocking requests from your IP. This usually is due to one of the following reasons: - You have done too many requests and your IP has been blocked by YouTube - You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube. There are two things you can do to work around this: 1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception). 2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned! If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-10-30",
+          "actual_date": ""
+        },
+        {
+          "source": "jin10",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "jin10 日期不符：頁面最新日期是 2026-10-30，預期日期是 2026-10-31",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-10-31",
+          "actual_date": "2026-10-30"
+        },
+        {
+          "source": "fx678",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "fx678 日期不符：頁面最新日期是 2026-10-30，預期日期是 2026-10-31",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-10-31",
+          "actual_date": "2026-10-30"
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-october-30-2026/",
+          "expected_date": "2026-10-30",
+          "actual_date": "2026-10-30"
+        },
+        {
+          "source": "westpac",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "westpac 日期不符：頁面最新日期是 2026-10-30，預期日期是 2026-10-31",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-10-31",
+          "actual_date": "2026-10-30"
+        },
+        {
+          "source": "uob",
+          "ok": false,
+          "status": "NETWORK_ERROR",
+          "reason": "網路或 HTTP 請求失敗：404 Client Error: Not Found for url: https://www.uobgroup.com/assets/web-resources/research/pdf/MO_261031.pdf",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-10-31",
+          "actual_date": ""
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-10-30，預期日期是 2026-10-31",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-10-31",
+          "actual_date": "2026-10-30"
+        }
+      ]
+    },
     {
       "id": "2026103011",
       "date": "2026-10-30",
@@ -40073,155 +40222,6 @@
           "title": "",
           "url": "",
           "expected_date": "2026-05-23",
-          "actual_date": "2026-05-26"
-        }
-      ]
-    },
-    {
-      "id": "2026052509",
-      "date": "2026-05-25",
-      "run_hour": 9,
-      "started_at": "2026-05-26 10:58:35",
-      "finished_at": "2026-05-26 10:59:31",
-      "status": "PARTIAL",
-      "total_sources": 12,
-      "success_count": 4,
-      "failure_count": 8,
-      "success_sources": [
-        "cathay",
-        "edwardjones",
-        "investrade",
-        "uob"
-      ],
-      "failed_sources": [
-        "cnyes",
-        "taishin",
-        "nomura",
-        "factset",
-        "jin10",
-        "fx678",
-        "westpac",
-        "mizuho"
-      ],
-      "sources": [
-        {
-          "source": "cnyes",
-          "ok": false,
-          "status": "DATE_MISMATCH",
-          "reason": "cnyes 日期不符：頁面最新日期是 2026-05-23，預期日期是 2026-05-25",
-          "title": "",
-          "url": "",
-          "expected_date": "2026-05-25",
-          "actual_date": "2026-05-23"
-        },
-        {
-          "source": "taishin",
-          "ok": false,
-          "status": "DATE_MISMATCH",
-          "reason": "taishin 日期不符：頁面最新日期是 2026-05-26，預期日期是 2026-05-25",
-          "title": "",
-          "url": "",
-          "expected_date": "2026-05-25",
-          "actual_date": "2026-05-26"
-        },
-        {
-          "source": "cathay",
-          "ok": true,
-          "status": "SUCCESS",
-          "reason": "",
-          "title": "",
-          "url": "https://www.cathaybk.com.tw/cathaybk/-/media/751619d8a3244825887561f658d4a252.pdf?sc_lang=en",
-          "expected_date": "2026-05-25",
-          "actual_date": "2026-05-25"
-        },
-        {
-          "source": "edwardjones",
-          "ok": true,
-          "status": "SUCCESS",
-          "reason": "",
-          "title": "",
-          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
-          "expected_date": "2026-05-22",
-          "actual_date": "2026-05-22"
-        },
-        {
-          "source": "nomura",
-          "ok": false,
-          "status": "DATE_MISMATCH",
-          "reason": "nomura 日期不符：頁面最新日期是 2026-05-26，預期日期是 2026-05-25",
-          "title": "",
-          "url": "",
-          "expected_date": "2026-05-25",
-          "actual_date": "2026-05-26"
-        },
-        {
-          "source": "factset",
-          "ok": false,
-          "status": "TRANSCRIPT_ERROR",
-          "reason": "無法取得 FactSet 字幕：Could not retrieve a transcript for the video https://www.youtube.com/watch?v=plkhwLvqubQ! This is most likely caused by: YouTube is blocking requests from your IP. This usually is due to one of the following reasons: - You have done too many requests and your IP has been blocked by YouTube - You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube. There are two things you can do to work around this: 1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception). 2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned! If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
-          "title": "",
-          "url": "",
-          "expected_date": "2026-05-22",
-          "actual_date": ""
-        },
-        {
-          "source": "jin10",
-          "ok": false,
-          "status": "NETWORK_ERROR",
-          "reason": "網路或 HTTP 請求失敗：HTTPSConnectionPool(host='xnews.jin10.com', port=443): Read timed out. (read timeout=30)",
-          "title": "",
-          "url": "",
-          "expected_date": "2026-05-25",
-          "actual_date": ""
-        },
-        {
-          "source": "fx678",
-          "ok": false,
-          "status": "DATE_MISMATCH",
-          "reason": "fx678 日期不符：頁面最新日期是 2025-05-26，預期日期是 2026-05-25",
-          "title": "",
-          "url": "",
-          "expected_date": "2026-05-25",
-          "actual_date": "2025-05-26"
-        },
-        {
-          "source": "investrade",
-          "ok": true,
-          "status": "SUCCESS",
-          "reason": "",
-          "title": "",
-          "url": "https://investrade.com/market-review-may-22-2026/",
-          "expected_date": "2026-05-22",
-          "actual_date": "2026-05-22"
-        },
-        {
-          "source": "westpac",
-          "ok": false,
-          "status": "DATE_MISMATCH",
-          "reason": "westpac 日期不符：頁面最新日期是 2026-05-26，預期日期是 2026-05-25",
-          "title": "",
-          "url": "",
-          "expected_date": "2026-05-25",
-          "actual_date": "2026-05-26"
-        },
-        {
-          "source": "uob",
-          "ok": true,
-          "status": "SUCCESS",
-          "reason": "",
-          "title": "",
-          "url": "https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260525.pdf",
-          "expected_date": "2026-05-25",
-          "actual_date": "2026-05-25"
-        },
-        {
-          "source": "mizuho",
-          "ok": false,
-          "status": "DATE_MISMATCH",
-          "reason": "mizuho 日期不符：頁面最新日期是 2026-05-26，預期日期是 2026-05-25",
-          "title": "",
-          "url": "",
-          "expected_date": "2026-05-25",
           "actual_date": "2026-05-26"
         }
       ]
