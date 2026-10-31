@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-31 22:06:54",
-  "count": 13162,
+  "updated": "2026-10-31 22:10:55",
+  "count": 13158,
   "items": [
+    {
+      "id": "5184709",
+      "time": "2026-10-31 22:09:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果金埃博拉死亡病例超5000例】剛果（金）國家生物醫學研究所今天（10月31日）釋出資料顯示，截至10月29日，該國本輪埃博拉疫情累計死亡病例超5000例，達5026例，累計確診病例10351例，死亡率48.6%。（CCTV國際時訊）"
+    },
+    {
+      "id": "5184708",
+      "time": "2026-10-31 22:09:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福萊新材：觸覺感測器月產能已超萬套 正籌劃增加夜班並新建產線】記者從福萊新材獲悉，目前公司觸覺感測器月產能已超萬套，且今年下半年的交付速度明顯快於上半年；目前公司正在籌劃增加夜班並新建產線，預計明年需2-3條觸覺感測器產線以滿足在手及潛在訂單。 (財聯社)"
+    },
     {
       "id": "mkt:01a19245-af90-7ee0-aa19-ee67a4b66542",
       "time": "2026-10-31 22:03:22",
@@ -119888,65 +119904,6 @@
         "MKT News"
       ],
       "text": "Saudi state TV reported a failed Houthi missile launch; the missile fell onto a civilian house in al-Tuhayta district, Hodeidah province in Yemen, killing five civilians, including children."
-    },
-    {
-      "id": "mkt:01a16e3f-2548-7ee0-a964-f10944151487",
-      "time": "2026-10-24 22:09:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Yemen official says Aden hit by missile strike】A Yemeni security official told reporters on the 24th that the southern port city of Aden was hit by a missile attack and loud explosions were heard."
-    },
-    {
-      "id": "5166364",
-      "time": "2026-10-24 22:09:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門官員稱亞丁遭導彈襲擊】一名葉門安全官員24日告訴新華社記者，南部港口城市亞丁當天遭導彈襲擊，傳出劇烈爆炸聲。（新華社）"
-    },
-    {
-      "id": "5166362",
-      "time": "2026-10-24 22:08:25",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華福證券陳興：A股估值已充分消化謹慎預期，權益資產配置價值逐步凸顯】華福證券宏觀首席分析師陳興表示，當前A股核心資產估值已較充分反映市場謹慎預期，權益市場配置價值逐步凸顯，後續只要盈利端邊際企穩、流動性預期溫和修復，權益資產便具備向上修復彈性。他建議投資者規避短期情緒干擾，避免恐慌式離場，聚焦業績與估值匹配度較好的優質標的，保持理性、耐心佈局。（中證金牛座）"
-    },
-    {
-      "id": "mkt:01a16e3d-48d0-7ee0-a964-ed0e5f2d1c8f",
-      "time": "2026-10-24 22:07:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Houthis say Saudi-led strike on Yemen cement plant killed 8, wounded 10】The Houthi health ministry said on the 24th a Saudi-led coalition airstrike on a cement factory in Hamdan, northwest of Sanaa, killed eight and wounded 10, most of them women and children. The Saudi-led coalition had not responded to the claim. Earlier the same day coalition spokesman Turki al-Maliki said the coalition intercepted and destroyed a ballistic missile fired by the Houthis toward Riyadh."
-    },
-    {
-      "id": "mkt:01a16e3c-e42d-7ee0-a964-e056dfefa574",
-      "time": "2026-10-24 22:07:26",
-      "tags": [
-        "MKT News",
-        "NOK.O",
-        "Impact bullish",
-        "ETL.PA"
-      ],
-      "text": "【US allies scramble to cut dependence on SpaceX】US allies are accelerating plans to reduce reliance on SpaceX’s Starlink after Elon Musk abruptly limited Ukrainian access, stoking concern that a built‑in “kill switch” gives Musk unilateral power to disable a critical communications network. Poland, which helped fund Ukrainian use, publicly rebuked Musk after reported Starlink disruptions. Ukraine will join a satellite communications network run by Finland’s Iceye and Nokia as part of a €300m aid package announced Thursday. Canada’s Telesat has pitched its Lightspeed LEO constellation as a more sovereign alternative. The EU has contracted Eutelsat and two partners to build IRIS², a 348‑satellite sovereign network costing about $17.5bn, with first launches slated for 2029."
-    },
-    {
-      "id": "5166356",
-      "time": "2026-10-24 22:06:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝稱沙特襲擊葉門一水泥廠 已致8死10傷】據葉門胡塞武裝衛生部門24日訊息，沙烏地阿拉伯主導的多國聯軍當天對位於葉門首都薩那西北部哈姆丹地區的一座水泥廠發動空襲，襲擊已造成8人死亡、10人受傷，死傷者中大部分為婦女兒童。"
     }
   ]
 }
