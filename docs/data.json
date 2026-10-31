@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-31 22:03:03",
-  "count": 13161,
+  "updated": "2026-10-31 22:06:54",
+  "count": 13162,
   "items": [
+    {
+      "id": "mkt:01a19245-af90-7ee0-aa19-ee67a4b66542",
+      "time": "2026-10-31 22:03:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Axios: Trump could be more inclined to order major military action against Iran if Republicans suffer midterm losses】Axios reported a US official warned that a heavy Republican defeat in the midterm elections could make Trump more inclined to order a large-scale military action against Iran; the official said, \"If Trump feels humiliated or stripped of power, he will take bold action. Everyone has told the Iranians this. Now is the best time for them to reach a deal.\" A White House official said election results would not affect Trump's decisions on Iran."
+    },
     {
       "id": "5184700",
       "time": "2026-10-31 21:57:18",
