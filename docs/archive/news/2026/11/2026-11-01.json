@@ -1,7 +1,43 @@
 {
   "date": "2026-11-01",
-  "count": 125,
+  "count": 129,
   "items": [
+    {
+      "id": "5184881",
+      "time": "2026-11-01 02:53:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室：一艘漁船遭未經授權人員登船。"
+    },
+    {
+      "id": "5184880",
+      "time": "2026-11-01 02:53:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗安全負責人雷扎伊對國家電視臺表示：我們認真對待外交，但不會放棄伊朗人民的權利。"
+    },
+    {
+      "id": "mkt:01a1934f-0a4e-7ee0-aa1b-6f138fd5c73d",
+      "time": "2026-11-01 02:53:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezaei said Iran takes diplomacy seriously but will not give up the rights of the Iranian people."
+    },
+    {
+      "id": "mkt:01a1934d-33ec-7ee0-aa1b-655a0323ae9e",
+      "time": "2026-11-01 02:51:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's top military commander warned any renewed U.S.-Israeli aggression would elicit a response more severe than before."
+    },
     {
       "id": "5184879",
       "time": "2026-11-01 02:43:43",
