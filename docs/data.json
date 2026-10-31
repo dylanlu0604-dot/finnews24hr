@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-31 15:45:44",
-  "count": 13188,
+  "updated": "2026-10-31 15:49:35",
+  "count": 13189,
   "items": [
+    {
+      "id": "5184507",
+      "time": "2026-10-31 15:46:09",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【三星高管會見OpenAI執行長，探討人工智慧轉型】三星表示，公司旗下主要子公司的多位高管於週六會見了OpenAI聯合創始人兼CEO薩姆·奧特曼（Sam Altman），共同探討了人工智慧（AI）轉型方面的未來戰略。三星相關負責人透露，此次交流活動在位於首爾以南龍仁市的一處三星人力資源中心舉行。這是三星為推動公司AI轉型而舉辦的一系列領導力研討會的一部分。會議重點圍繞AI技術的未來發展方向、潛在應用場景，以及相關領域所帶來的商業機遇交換了意見。據三星方面介紹，雙方特別探討了AI將如何重塑企業的決策與運營模式，以及在瞬息萬變的商業環境中，企業領導者需要具備哪些核心能力。奧特曼強調，企業能否獲得競爭優勢，並不取決於是否採用了AI技術，而在於如何利用該技術實現更高效的運作、打造更優質的產品，從而在競爭中脫穎而出。來自三星旗下科技、金融和生物等業務部門（包括作為核心業務的三星電子）的約50名高管參加了此次研討會。"
+    },
+    {
+      "id": "mkt:01a190eb-b250-7ee0-aa17-c9073462c49a",
+      "time": "2026-10-31 15:45:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Lavrov: Kyiv undermining talks; core Russia-US issues unresolved】On Oct. 30 Ukrainian President Zelenskiy said Kyiv will expand long-range strike forces, has identified \"key priority targets\" for long-range strikes, and is working to enable drones and missiles to reach deeper into Russian territory. Russian Foreign Minister Lavrov said Russia’s position on the conflict has not changed, called Zelenskiy’s remarks unhelpful for preparing a new round of talks, and said fundamental issues between Russia and the United States remain unresolved."
+    },
+    {
+      "id": "mkt:01a190eb-9958-7ee0-aa17-c0ab0570e796",
+      "time": "2026-10-31 15:45:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's foreign minister said he was extremely concerned that a new round of escalation would be more destructive and have major consequences."
+    },
     {
       "id": "5184506",
       "time": "2026-10-31 15:42:04",
@@ -120106,26 +120136,6 @@
         "國際"
       ],
       "text": "烏克蘭國防部長表示，星鏈/星盾連線已恢復，速度達每小時400公里。"
-    },
-    {
-      "id": "5166097",
-      "time": "2026-10-24 15:47:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭稱針對“星鏈”的所有限制均已解除。"
-    },
-    {
-      "id": "mkt:01a16ce0-9742-7ee0-a962-3f80c5f42221",
-      "time": "2026-10-24 15:47:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "0700.HK",
-        "Impact bullish"
-      ],
-      "text": "【Tencent WorkBuddy integrates Kimi K3.1‑Pro model】Tencent's WorkBuddy said it has integrated model Kimi K3.1‑Pro and deployed the high-speed variant Kimi K3.1 Pro Highspeed. The company says the model delivers comparable intelligence with roughly 2–3x output speed. Capacity is currently constrained; access is being prioritised for Enterprise Flagship customers and individual paid subscribers."
     }
   ]
 }
