@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-31 22:10:55",
-  "count": 13158,
+  "updated": "2026-10-31 22:15:01",
+  "count": 13157,
   "items": [
+    {
+      "id": "5184714",
+      "time": "2026-10-31 22:13:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達披露下一代CPO技術 原型樣品已就位】英偉達近日在SEMICON West 2026上公開展示了下一代共封裝光學（CPO）技術，名為OOI（Optics‑on‑Interposer，中介層上整合光學）。不同於現有CPO方案，OOI選擇拿下有機封裝基板，將光引擎直接整合到承載GPU的矽中介層之上，把光電轉換環節進一步向晶片核心靠攏，為下一代超大規模AI叢集提供全新互聯思路。據英偉達研究院首席研究科學家尼古拉•內多維奇（Nikola Nedovic）介紹，該方案以更大面積的中介層取代現行有機封裝基板，目前英偉達已拿到原型樣品。"
+    },
     {
       "id": "5184709",
       "time": "2026-10-31 22:09:23",
@@ -119888,22 +119896,6 @@
         "MKT News"
       ],
       "text": "【Power fully restored in Baqing, Nagqu, Tibet after M7.0 earthquake】State Grid said on Oct. 24 that at 20:38 local time power supply in the M7.0 earthquake zone in Baqing, Nagqu, Tibet was fully restored. State Grid Tibet mobilized 301 repair personnel, 39 vehicles, 19 medium- and low-voltage generator trucks, 83 sets of emergency equipment and connection materials. Crews set up on-site command, reopened distribution lines and restored power to shelters, tents and prefabricated housing, following an on-site “build one, energize one” procedure. State Grid Tibet said it will continue to prioritize power protection at key points to ensure affected residents have heating and to maintain safe, reliable supply."
-    },
-    {
-      "id": "5166373",
-      "time": "2026-10-24 22:14:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西藏巴青震區電力供應全面恢復】國家電網10月24日晚通報，當日20時38分，西藏那曲巴青7.0級地震震區電力供應全面恢復。"
-    },
-    {
-      "id": "mkt:01a16e41-a565-7ee0-a964-f833f039bc9e",
-      "time": "2026-10-24 22:12:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi state TV reported a failed Houthi missile launch; the missile fell onto a civilian house in al-Tuhayta district, Hodeidah province in Yemen, killing five civilians, including children."
     }
   ]
 }
