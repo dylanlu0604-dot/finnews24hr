@@ -1,7 +1,37 @@
 {
   "date": "2026-10-31",
-  "count": 940,
+  "count": 943,
   "items": [
+    {
+      "id": "5184700",
+      "time": "2026-10-31 21:57:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安與烏克蘭總統澤連斯基在伊斯坦布林舉行會談。"
+    },
+    {
+      "id": "mkt:01a1923e-2462-7ee0-aa19-e032ea58987a",
+      "time": "2026-10-31 21:55:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli airstrike in southern Gaza's Khan Younis kills one】Palestinian sources said on Oct. 31 local time Israeli forces struck Khan Younis in southern Gaza, killing one Palestinian and wounding several others, some seriously."
+    },
+    {
+      "id": "mkt:01a1923d-cecb-7ee0-aa19-da08201d16e4",
+      "time": "2026-10-31 21:54:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Russia says it struck Ukrainian energy and logistics infrastructure overnight】The Russian Defence Ministry said overnight Oct. 30-31 Russian forces used drones to strike Ukrainian energy and logistics infrastructure and vessels supporting Ukrainian troops. Moscow named targets including a Kyiv combined heat-and-power plant that supplied a Ukrainian logistics facility and equipment storage, a weapons-component workshop and a drone warehouse in Kharkiv, and a cargo ship south of Odesa transporting materiel. The ministry said Russian air defences intercepted and shot down 433 Ukrainian fixed-wing drones across multiple regions, including Belgorod and Samara, between 20:00 on Oct. 30 and 08:00 on Oct. 31. President Zelenskiy said Russian drone strikes damaged a CHP in Kyiv, four substations and a gas-distribution facility in Dnipropetrovsk Oblast, and a CHP in Shostka, Sumy Oblast, and hit rail infrastructure in Dnipro and Kharkiv; he said about 200,000 households in Dnipro and surrounding areas and more than 80,000 in Kyiv region lost power. The Ukrainian Air Force said Russia launched 134 drones overnight and, as of 08:30, Ukrainian air defences had destroyed 105 of them."
+    },
     {
       "id": "5184696",
       "time": "2026-10-31 21:53:01",
