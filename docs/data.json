@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-31 22:46:52",
-  "count": 13166,
+  "updated": "2026-10-31 22:51:07",
+  "count": 13169,
   "items": [
+    {
+      "id": "5184774",
+      "time": "2026-10-31 22:46:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦公共安全部門：在卡拉克省查獲攜帶槍支的熱氣球，這些熱氣球被走私進入約旦。"
+    },
+    {
+      "id": "5184773",
+      "time": "2026-10-31 22:46:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門政府軍：過去數小時內，我方針對胡塞武裝的領導人、集結點和增援部隊實施了1119次行動。"
+    },
+    {
+      "id": "mkt:01a1926c-ca7b-7ee0-aa1a-07d49ce45151",
+      "time": "2026-10-31 22:46:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DeepSeek publishes Super-agent design paper】Oct. 31 — DeepSeek’s Harness team published a technical paper, Super-agent design exploration: Toward more autonomous agent systems, outlining an architecture to scale agents beyond single-session limits. The paper says rising model capability has spurred personal assistant agents but current designs isolate sessions and cap multi-tasking at model ability and human attention. DeepSeek proposes a two-layer architecture with event-driven, asynchronous multi-channel interaction, compute–storage separation and an external watchdog to centralize session management and context sync, shifting humans to higher-level decision and acceptance tasks. The firm says internal Super-agent instances are already running for bug reproduction and repair, code-review responses and iterative development of DeepSeek Harness."
+    },
     {
       "id": "5184768",
       "time": "2026-10-31 22:44:02",
