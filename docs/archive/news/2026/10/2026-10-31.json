@@ -1,7 +1,916 @@
 {
   "date": "2026-10-31",
-  "count": 642,
+  "count": 746,
   "items": [
+    {
+      "id": "mkt:01a190c1-05eb-7ee0-aa17-ae882e0079ac",
+      "time": "2026-10-31 14:58:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukrainian drone strike on Russia's Bryansk region; regional governor said two killed and five injured."
+    },
+    {
+      "id": "5184499",
+      "time": "2026-10-31 14:58:45",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【巴西政府就博索納羅離境一事傳喚阿根廷駐巴臨時代辦】當地時間10月30日，巴西政府傳喚阿根廷駐巴西大使館臨時代辦瑪麗亞·埃米莉亞·科爾特斯，要求其就參議員兼總統候選人弗拉維奧·博索納羅離開巴西一事作出說明。（央視新聞）"
+    },
+    {
+      "id": "5184498",
+      "time": "2026-10-31 14:58:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度官員：印度海員在液化天然氣船Al Mayeda遇襲後平安無恙】印度海運部長Sarbananda Sonowal週六在X平臺發文稱，10月30日，懸掛馬紹爾群島船旗的液化天然氣運輸船M/T AL MAYEDA在波斯灣遭到投射物襲擊，船上載有6名印度海員。6名印度公民以及全部25名船員均安全。有關部門正在持續監控事態。官員與船舶管理方保持密切聯絡。"
+    },
+    {
+      "id": "5184497",
+      "time": "2026-10-31 14:57:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "州長稱，烏克蘭無人機襲擊俄羅斯布良斯克地區，造成兩人死亡，五人受傷。"
+    },
+    {
+      "id": "5184496",
+      "time": "2026-10-31 14:55:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加利福尼亞州費爾菲爾德市警方30日晚通報，該市索拉諾購物中心當晚發生的槍擊事件已造成1人死亡、6人受傷，其中至少3人傷勢危重。（新華社）"
+    },
+    {
+      "id": "5184495",
+      "time": "2026-10-31 14:45:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【開源證券韋冀星：科技投資由“炒概念”轉向“數訂單”】開源證券研究所策略首席分析師韋冀星指出，本輪科技板塊調整主要是前期極致擁擠後的階段性再平衡，以及市場對盈利兌現能力的重新定價，國產替代的長期產業邏輯並未改變。而隨著交易結構改善、國有資金入場承接，市場繼續下行的空間已然有限。 選股層面，韋冀星強調產業趨勢的確定性不等於個股價值的確定性，核心是“有訂單、有壁壘、有兌現”：一看訂單是否轉化為市場份額，二看研發與產品迭代能否構築壁壘，三看收入利潤與估值能否互相支撐。但需要警惕三類標的：缺乏核心技術支撐的概念炒作股、依賴政策支援但缺少真實商業化訂單的企業，以及業績尚未兌現而估值已過度透支遠期預期的公司。（21財經）"
+    },
+    {
+      "id": "5184494",
+      "time": "2026-10-31 14:42:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破112美元，日內漲超0.5%。"
+    },
+    {
+      "id": "5184492",
+      "time": "2026-10-31 14:40:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【拉夫羅夫：澤連斯基“想見普京就來莫斯科”】據俄羅斯連塔網10月30日報道，俄羅斯外交部長拉夫羅夫提出了烏克蘭總統澤連斯基與俄羅斯總統普京舉行談判的條件。 拉夫羅夫在美國佐治亞州亞特蘭大市舉行的二十國集團外長會首日會議結束後舉行的記者會上表示，如果澤連斯基希望與普京會面，他只能來莫斯科。這位部長補充道：“我們會確保他毫髮無損，會保障他的安全，而據我理解，基輔方面是無法提供這種保障的。” 普京總統的助理烏沙科夫此前曾提到，俄總統已經“百萬次”向澤連斯基提議來莫斯科。他說：“我們的總統已經說過一百萬次，或者說一百五十萬次：如果他真的想談判，那就來莫斯科，這裡會為他提供一切必要條件。”（參考訊息）"
+    },
+    {
+      "id": "mkt:01a190ae-6d91-7ee0-aa17-a59fb90deff5",
+      "time": "2026-10-31 14:38:32",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact mixed",
+        "WTI",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Paul Chan: Hong Kong growth momentum strong; full-year expansion may hit five-year high】Hong Kong Financial Secretary Paul Chan said Q3 growth remains strong, positioning the city for what could be the strongest full-year expansion in five years. He cited 1H growth of 5.1%, with exports the main driver and continued investment growth in Q3, though official Q3 data have yet to be released. Chan said the government may raise its full‑year growth forecast and the economic adviser will provide details later. He warned that geopolitical tensions and the Middle East conflict have lifted oil prices and added inflationary pressure, and expects interest rates to remain elevated next year—posing downside risk to the property market and the broader economy; the government will monitor financial risks."
+    },
+    {
+      "id": "5184491",
+      "time": "2026-10-31 14:36:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳茂波：香港經濟增長勢頭強勁，全年增幅或創五年新高】據香港電臺援引財政司司長陳茂波的話報道稱，香港第三季度經濟增長保持強勁，為全年經濟實現五年來最強增幅鋪平道路。陳茂波在一檔電臺節目中表示，今年上半年香港經濟增長5.1%，出口是主要推動力；第三季度投資增長勢頭持續。儘管官方統計資料尚未公佈，但該季度經濟增長動能依然強勁。陳茂波表示，全年經濟增長預測可能上調，政府經濟顧問稍後將公佈具體情況。陳茂波警告，受地緣政治緊張局勢及中東衝突影響，油價上漲並加劇通脹壓力，預計明年利率仍將維持高位，可能對房地產市場和整體經濟造成影響。政府將密切關注金融風險。"
+    },
+    {
+      "id": "5184490",
+      "time": "2026-10-31 14:34:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【拉夫羅夫：烏方破壞會談氛圍 俄美根本問題未解】烏克蘭總統澤連斯基10月30日表示，烏方將擴充遠端打擊部隊，已確定遠端打擊的“關鍵優先目標”，且烏方正努力使無人機和導彈能夠打擊“俄羅斯更深處的領土”。俄羅斯外交部長拉夫羅夫當天說，俄方在俄烏衝突上的立場沒有改變，澤連斯基關於繼續打擊俄方目標的言論無助於新一輪會談的籌備。他還說，俄羅斯與美國之間的“根本問題沒有得到解決”。（新華社）"
+    },
+    {
+      "id": "mkt:01a190a9-4b04-7ee0-aa17-9b1d144101ca",
+      "time": "2026-10-31 14:32:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ChatGPT introduces multi-account switching】OpenAI's head of core products and platform said account switching for ChatGPT is live on web, iOS and Android, with a desktop release planned soon. The company said reset cards will be released over the next two days. OpenAI's changelog notes users can be logged into up to two accounts and switch between them without logging out, though only one account can be active at a time."
+    },
+    {
+      "id": "5184489",
+      "time": "2026-10-31 14:31:40",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【ChatGPT支援多賬號切換】10月31日，OpenAI核心產品與平臺負責人蒂博·索蒂奧（Thibault Sottiaux）在X平臺釋出推文，宣佈已在網頁端、iOS和安卓端推出ChatGPT賬號切換功能，並計劃很快上線桌面端。索蒂奧同時預告稱，接下來的兩天都會有重置卡。OpenAI官方更新日誌，使用者最多可同時登入兩個賬號，並在不退出登入的情況下快速切換，不過同一時間內，仍只有一個賬號可以處於活躍狀態。"
+    },
+    {
+      "id": "mkt:01a190a6-fd70-7ee0-aa17-9204712cd1aa",
+      "time": "2026-10-31 14:30:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CHL.O",
+        "Impact bullish"
+      ],
+      "text": "【Changan Automobile, China Mobile sign strategic cooperation; framework pacts with Avita, Deep Blue, Changan Qiyuan】Oct. 30, Beijing — Changan Automobile Group and China Mobile signed a strategic cooperation agreement. Following the main pact, Chongqing Mobile and China Mobile Shanghai Industrial Research Institute each signed business cooperation framework agreements with Changan’s three intelligent new-energy brands — Avita, Deep Blue Auto and Changan Qiyuan. The tie-up targets deeper cooperation on digital transformation, artificial intelligence, intelligent connected-vehicle ecosystem development, data elements, vehicle–road–cloud integration, low-altitude economy, new-energy/low-carbon initiatives and employee services."
+    },
+    {
+      "id": "5184488",
+      "time": "2026-10-31 14:24:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國長安汽車與中國移動簽署戰略合作協議】10月30日，中國長安汽車集團有限公司與中國行動通訊集團有限公司在北京舉行戰略合作協議簽約儀式。主協議簽署後，重慶移動、中移上海產業研究院與中國長安汽車三大數智新能源品牌阿維塔、深藍汽車、長安啟源分別簽署業務合作框架協議。此次簽約標誌著雙方戰略合作邁入新階段，將在數智化轉型、人工智慧、智慧網聯生態、資料要素、“車路雲一體化”、低空經濟、新能源與低碳、員工權益服務等方向深化合作。"
+    },
+    {
+      "id": "5184487",
+      "time": "2026-10-31 14:23:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：他們曾經擁有一支規模可觀的海軍，有159艘艦船。 我當時有點生手下人的氣。我說：“你們怎麼沒把這些該死的艦船保留下來？它們本來還挺不錯的。”"
+    },
+    {
+      "id": "5184486",
+      "time": "2026-10-31 14:23:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我希望大家記住一件非常重要的事。 美國並沒有挑起和伊朗之間的這場戰爭。"
+    },
+    {
+      "id": "mkt:01a1909f-cf19-7ee0-aa17-8a3e8311feaa",
+      "time": "2026-10-31 14:22:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Federal judge bars Trump administration from threatening criminal charges to compel California election officials】San Francisco federal judge Trina Thompson on Friday granted a request by labor and civil‑rights groups and ordered the federal government not to threaten criminal prosecution to compel California election officials to cooperate on ballots tied to alleged non‑citizen voting. The injunction bars the Department of Justice from demanding that officials remove specific registered voters from the statewide rolls and requires the DOJ to preserve separately any ballots cast by those identified voters for the November 3 election. Thompson said DOJ and Homeland Security’s actions, while framed as preventing non‑citizen voting, are likely to interfere with election administration and disenfranchise lawful voters."
+    },
+    {
+      "id": "5184485",
+      "time": "2026-10-31 14:18:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【教皇郵寄投票參與美國中期選舉：身為美國公民，此前也一直投票】10月30日，梵蒂岡方面宣佈，身為美國公民的教皇利奧十四世已在美國中期選舉中投出選票，並表示他“相信公民有權、也有義務參與民主程序”。 梵蒂岡新聞局宣告寫道，利奧十四世教皇符合資格，並行使了作為美國公民的投票權。 新聞局確認，遵循這項由來已久的公民參與慣例，他已對芝加哥提交郵寄選票。 宣告還提到，之前在秘魯居住的那些年裡，只要符合條件，他都會行使投票權。他認為，公民有權、也有義務參與民主程序。 美國中期選舉將於11月3日舉行。按規定，符合資格的海外美國公民，以及離開登記投票地的軍人，可以在聯邦選舉中投缺席選票。 （觀察者網）"
+    },
+    {
+      "id": "5184484",
+      "time": "2026-10-31 14:18:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭司法部長批評總統】波蘭司法部長兼總檢察長茹雷克今天（10月31日）表示，希望檢察機關就總統納夫羅茨基在憲法法院的行為採取行動。茹雷克當天凌晨接受波蘭電視臺採訪時說，網上流傳的影片顯示，總統在進入憲法法院時與現場人員發生肢體衝突。 茹雷克批評這一行為不可接受，認為總統借相關事件激化街頭情緒。總統府方面則指責現場人員阻撓總統進入法院，並侵犯總統人身權利。茹雷克表示，總統享有憲法規定的豁免權，但這並不意味著其行為不應受到法律審視。他希望檢察機關能夠尋找適當的法律途徑，對相關事件進行處理。 目前，檢察機關已派檢察官前往憲法法院調查相關情況。（CCTV國際時訊）"
+    },
+    {
+      "id": "5184483",
+      "time": "2026-10-31 14:15:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【生態環境部發布11月上半月全國空氣質量預報會商結果】2026年10月31日，中國環境監測總站聯合中央氣象臺、大氣汙染防治攻關聯合中心，東北、華南、西南、西北、長三角區域空氣質量預測預報中心和北京市生態環境監測中心，開展11月上半月（11月1日—15日）全國空氣質量預報會商。 11月上半月，全國大部地區擴散條件較好，空氣質量以優良為主，局地可能出現輕度汙染，京津冀中南部可能出現中度汙染。受沙塵天氣影響，新疆部分城市可能出現PM10中度及以上汙染。（生態環境部）"
+    },
+    {
+      "id": "5184482",
+      "time": "2026-10-31 14:11:53",
+      "tags": [
+        "行業",
+        "國際"
+      ],
+      "text": "【崔東樹：9月中國出口俄羅斯11.3萬輛】乘聯分會崔東樹發文稱，2026年9月俄羅斯汽車銷量達13.4萬輛，同比降1%。1-9月俄羅斯汽車銷量達到106萬輛的較高水平，同比增5%。2026年9月中國出口俄羅斯11.3萬輛，自主品牌俄羅斯銷量7.13萬輛，當地銷量是中國出口的63%，1-9月中國出口俄羅斯75萬輛，自主品牌俄羅斯銷量57.6萬輛，當地銷量是中國出口的77%，總體相對平衡。2026年中國自主品牌在俄羅斯份額達到54.6%的較高水平，銷量和效益不錯。2026年的國際車企的車型大量進入，德系和日系的表現較強，韓系的優勢弱化。"
+    },
+    {
+      "id": "5184481",
+      "time": "2026-10-31 14:10:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗戰事期間 美石油行業被曝獲巨利】據美國方面10月30日訊息，根據估計，伊朗戰事期間美國石油行業獲得了超過1300億美元的利潤，幾乎是2025年同期約470億美元的三倍。訊息稱，這是根據美國50多家大型石油企業在今年4月至9月共六個月期間經營資料得出的保守預測。統計資料還未涵蓋伊朗戰事剛發生之後、今年3月的相關資料。（央視新聞）"
+    },
+    {
+      "id": "5184480",
+      "time": "2026-10-31 14:06:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奇瑞金弋波回應多品牌策略：最關鍵是每個品牌要做出區隔，做出差異化】談及多品牌策略，奇瑞控股集團新聞發言人金弋波表示，企業選擇一個品牌還是多品牌，要根據公司的戰略、發展時機，以及競爭狀況，分開好還是合在一起好，每個企業是不一樣的。多品牌最關鍵的問題是每個品牌的區隔要做起來，就是差異化做起來。（新浪科技）"
+    },
+    {
+      "id": "5184479",
+      "time": "2026-10-31 14:02:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達與伊朗舉行會談 推動美伊達成協議】據美國方面30日訊息，訊息人士透露，當天卡達調解人員與伊朗方面在伊朗首都德黑蘭舉行了超過12小時的會談，會談旨在推動美國和伊朗達成協議，避免在美國中期選舉後再次爆發衝突。訊息稱，卡達與伊朗之間的會談10月31日將在卡達首都多哈繼續進行。據悉，一名訊息人士稱，會談取得了積極進展。會談期間，卡達方面同時與美國白宮保持著聯絡。卡達正敦促美國和伊朗就一系列對等措施達成一致，並在接下來幾天裡實施這些措施，從而使各方重返就伊朗核專案等議題的直接談判。訊息稱，卡達正努力說服伊朗，使其同意讓聯合國核查人員進入此前被轟炸的核設施。這將作為一項“建立信心”的舉措，美方可能會放鬆部分制裁作為回應。一名美國官員稱，美伊雙方目前相互矛盾的要求阻礙了談判。美國政府堅持，伊朗需要在核問題上作出讓步來恢復談判；而伊朗要求美國先解除海上封鎖、釋放被凍結資金並允許伊朗出售石油。（央視新聞）"
+    },
+    {
+      "id": "5184478",
+      "time": "2026-10-31 14:01:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "塞爾維亞央行：因流動性狀況惡化吊銷Alta Banka牌照，由塞爾維亞存款保險機構接管運營。"
+    },
+    {
+      "id": "mkt:01a19087-185d-7ee0-aa17-82b7096f3348",
+      "time": "2026-10-31 13:55:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Russian Defense Ministry said Russian air defense systems shot down 433 Ukrainian drones overnight."
+    },
+    {
+      "id": "5184476",
+      "time": "2026-10-31 13:52:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭憲法法院危機持續 總統發表宣告並召集緊急磋商】當地時間10月31日，波蘭總統納夫羅茨基就憲法法院發生的事件發表宣告，指責相關行動破壞波蘭憲法秩序，並要求相關執法力量立即離開憲法法院。納夫羅茨基同時宣佈，將於當天召集議會各政治力量代表舉行緊急磋商，以推動局勢穩定、恢復憲法秩序。據總檯記者獲悉，波蘭華沙憲法法院所在地30日晚至31日凌晨局勢緊張。總統府部長謝費爾納克在法院外舉行的集會上宣讀了總統宣告。納夫羅茨基表示，已與波蘭最高法院第一院長卡平斯基進行磋商，雙方對憲法法院內相關行動的合法性提出質疑。"
+    },
+    {
+      "id": "mkt:01a19084-052a-7ee0-aa17-7e06e3d5b9b6",
+      "time": "2026-10-31 13:52:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Poland's president urges emergency talks to resolve Constitutional Court dispute】Early on the 31st the presidential office secretary read a statement by Poland's president at a protest outside the Constitutional Court, saying the constitutional order has been breached and constitutional institutions have been \"forcibly occupied\". The statement demanded relevant personnel vacate the court building and called for emergency consultations with parliamentary factions."
+    },
+    {
+      "id": "mkt:01a1907f-8180-7ee0-aa17-70ed11e10711",
+      "time": "2026-10-31 13:47:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi-led multinational coalition reported debris from an intercepted hostile drone fell, causing no casualties; authorities are on site handling the scene."
+    },
+    {
+      "id": "5184475",
+      "time": "2026-10-31 13:43:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【姚家平水利樞紐工程成功截流 進入主體施工階段】今天上午10時38分，位於湖北恩施的姚家平水利樞紐工程順利完成河道截流，工程正式轉入主體大規模施工階段。據瞭解，姚家平水利樞紐大壩壩高175米，為當前世界在建最高碾壓混凝土雙曲拱壩。專案地處峽谷地段，地形地質複雜，對地基處理、壩體溫控、生態水土保持等施工環節標準嚴苛、技術難度高。姚家平水利樞紐是國家150項重大水利工程之一，設計總庫容3.22億立方米，兼具防洪、發電、生態涵養、水資源調配等多重功能。工程預計2031年建成投用。（央視新聞）"
+    },
+    {
+      "id": "5184474",
+      "time": "2026-10-31 13:41:12",
+      "tags": [
+        "市場",
+        "觀點",
+        "A股"
+      ],
+      "text": "【廣發證券劉晨明：大盤藍籌估值不高，市場信心修復具備堅實基礎】近期A股市場持續調整，投資者情緒偏向謹慎。圍繞市場關心的估值與信心問題，記者專訪了廣發證券策略首席分析師劉晨明。他表示，本輪調整主要源於情緒面與資金面的衝擊，上市公司基本面並未發生方向性逆轉。短期市場悲觀情緒的演繹已經較為充分，在業績有支撐、穩市力量持續壯大的背景下，市場信心修復仍具備堅實基礎。（21財經）"
+    },
+    {
+      "id": "5184473",
+      "time": "2026-10-31 13:39:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【教育部職教發展中心與京東物流聯手推進新型智慧物流人才培養專案，3年內預計覆蓋超百所院校】據京東物流黑板報訊息，日前，新型智慧物流裝備應用產教融合促進專案說明會在京東集團全球總部舉行。這一專案由教育部職業教育發展中心（簡稱“職教發展中心”）與京東物流共同推進，是職教發展中心首次與物流企業聯手開展的新型智慧物流人才培養專案，預計將於3年內覆蓋超100所院校、惠及數萬名在校學生。"
+    },
+    {
+      "id": "mkt:01a19078-1514-7ee0-aa17-6efc0007e6a4",
+      "time": "2026-10-31 13:39:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi-led coalition spokesman Turki al-Maliki said forces intercepted and destroyed an enemy drone over the Riyadh area."
+    },
+    {
+      "id": "5184472",
+      "time": "2026-10-31 13:35:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國媒體訊息，美國加利福尼亞州30日夜間發生槍擊事件，目前至少7人受傷。 （新華社）"
+    },
+    {
+      "id": "5184471",
+      "time": "2026-10-31 13:32:03",
+      "tags": [
+        "行業",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國AI擴張的新瓶頸：“廉價資金”短缺】隨著AI產能擴張步入新階段，美國放貸機構與投資者在做投資佈局時變得愈發挑剔，同時要求更為嚴苛的交易條款。他們的擔憂包括：民眾針對資料中心的抵制情緒不斷蔓延，大型專案可能延期；像Anthropic、OpenAI這類超大規模雲廠商和初創企業，其AI相關利潤或許無法像承諾的那樣快速兌現。 此外，大量股票與債券發行，加劇了投資者對AI板塊敞口過高的擔憂。市場各個角落都能看到新的交易條件。即便是SpaceX、Meta這類大型科技公司發行的債券，也在大幅折價交易。知情人士稱，CoreWeave、Nebius、Nscale這類大舉借貸、建設並出售算力的AI雲企業，近幾周實際上已經被債券市場拒之門外。總而言之，當下的華爾街是買方市場。"
+    },
+    {
+      "id": "5184470",
+      "time": "2026-10-31 13:26:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "機構：馬來西亞10月1日至31日棕櫚油出口量為1,645,408噸。"
+    },
+    {
+      "id": "5184469",
+      "time": "2026-10-31 13:19:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家電網公司9項工程獲2024-2026年度國家優質工程獎】近日，2024-2026年度國家優質工程獎獲獎名單公佈。國家電網有限公司共有9項工程獲獎，白鶴灘—江蘇±800千伏特高壓直流輸電工程、川渝1000千伏特高壓交流工程、阿里與藏中電網聯網工程、巴基斯坦默蒂亞里—拉合爾±660千伏直流輸電工程等4項工程榮獲國家優質工程金獎，新疆煤改電二期（巴州—鐵幹裡克—若羌750千伏）輸變電工程、北京通州北500千伏變電站工程、吉林雙陽（慶德）500千伏變電站工程、山西晉城東500千伏變電站新建工程、山東齊河500千伏變電站工程等5項工程榮獲國家優質工程獎。"
+    },
+    {
+      "id": "5184468",
+      "time": "2026-10-31 13:17:42",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【烏克蘭國債20年間增130倍】統計資料顯示，自2006年9月以來，烏克蘭的國家內外債總額增長了130倍。烏克蘭財政部資訊簡報指出：“截至2026年9月30日，烏克蘭的國家債務和國家擔保債務為95383.5億格里夫納，合2126億美元。”據烏克蘭國家統計局資料，2006年第三季度末，烏克蘭的國家內外債總額為732.88億格里夫納。由此可知，烏克蘭國債在20年間增長了130倍。在預計預算赤字達370億美元、國債增長至2760億美元的背景下，烏克蘭明年計劃撥款1083億美元用於資助烏克蘭軍隊。與此同時，烏克蘭財政部副部長羅曼·葉爾莫雷切夫9月表示，據烏克蘭國防部計算，該國軍事開支需要更多資金，達1750億美元。基輔政權試圖透過外部融資來填補預算缺口。然而，西方撥付新一輪援助都要經過漫長的討論，合作伙伴越來越頻繁地警告說，烏克蘭必須加緊尋找自籌資金來源。"
+    },
+    {
+      "id": "5184467",
+      "time": "2026-10-31 13:16:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九寨溝黃龍機場短暫停航後將復航】據九寨溝黃龍機場31日訊息，11月7日起，九寨溝黃龍機場將恢復成都航線，於每週六執行往返各一班。 據四川省機場集團此前訊息，九寨黃龍機場自10月25日起暫停定期客運航班執行，實施季節性停航。本次恢復成都航線，意味著暫時停航10余天後，九寨溝黃龍機場復航執行。"
+    },
+    {
+      "id": "5184466",
+      "time": "2026-10-31 13:16:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國首個高分子材料國家級技貿評議基地落地廣州開發區】記者31日從黃埔海關獲悉，海關總署國際檢驗檢疫標準與技術法規研究中心近日已同意在廣州開發區黃埔區建設“高分子材料產業技術性貿易措施研究評議基地”。這是全國高分子材料領域唯一獲批的國家級技貿評議基地，目前已進入試執行階段。 (中新網)"
+    },
+    {
+      "id": "mkt:01a19060-8f2d-7ee0-aa17-67d5cbdf453a",
+      "time": "2026-10-31 13:13:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100",
+        "Impact bullish",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "【Bank of England considers loosening mortgage limits to allow higher-risk lending】FT reports the Bank of England is studying one of the largest mortgage-rule changes since the 2008 crisis as government and industry press for higher homeownership. The FPC is weighing loosening post-crisis curbs that since 2014 have restricted lenders to no more than 15% of mortgages above 4.5x income; it is considering raising the high-risk loan-to-income threshold from 4.5x to 5x after a July 2025 relaxation already lifted high-LTI lending materially."
+    },
+    {
+      "id": "5184465",
+      "time": "2026-10-31 13:12:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、特朗普再次表示伊朗戰事將很快結束，強調伊朗不能擁有核武器，並稱戰事結束後汽油、柴油等商品價格將會下降。\n2、特朗普在白宮聽取針對伊朗潛在軍事方案的高階軍事簡報，地區盟友收到警示，美國或於中期選舉之後重啟對伊朗軍事打擊。\n3、特朗普稱美國在伊朗投入的資金已經透過委內瑞拉相關行動賺回，從中獲取了數千億美元，同時表示美方在伊朗方面花費很少，和伊朗的談判仍在持續。\n4、特朗普表示不清楚該和伊朗哪一方談判，很多伊朗領導人已經死亡，他認為美方有充足談判時間。\n5、特朗普默許薩爾瓦多總統布克萊向海地增兵，布克萊致電特朗普確認美方不反對這次軍事升級行動，海地政府已同意該部署。\n6、特朗普表示未考慮解除對俄羅斯主權財富基金的制裁。\n7、特朗普稱幣安相關事件屬於駭客攻擊，幣安表示已經控制住局面，美方正在調查該事件。\n8、特朗普認為共和黨有機會在中期選舉中取得不錯成績。\n9、特朗普的競選集會頻繁遭遇抗議者干擾，他已經形成一套固定應對話術，稱這些抗議者是拿錢僱來的。"
+    },
+    {
+      "id": "5184464",
+      "time": "2026-10-31 13:11:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "蘋果暗盤跌超2%，現報339.3939美元。"
+    },
+    {
+      "id": "5184463",
+      "time": "2026-10-31 13:09:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：確認部署了27顆星鏈衛星。"
+    },
+    {
+      "id": "mkt:01a1905d-1b9f-7ee0-aa17-5cf47858c5ec",
+      "time": "2026-10-31 13:09:43",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) confirmed it deployed 27 Starlink satellites."
+    },
+    {
+      "id": "5184462",
+      "time": "2026-10-31 12:59:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海電氣與寧德時代簽署戰略合作協議 在算電協同等七大領域深化合作】10月30日下午，上海電氣與寧德時代新能源科技股份有限公司（簡稱“寧德時代”）簽署戰略合作協議。根據協議，雙方將在零碳園區、新型儲能、綠色交通、算電協同、供應鏈協同、科技創新及國際業務七大領域開展深化合作，打造能源裝備與新能源技術跨界融合的產業標杆，助力新型電力系統建設與“雙碳”戰略落地。"
+    },
+    {
+      "id": "5184461",
+      "time": "2026-10-31 12:56:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【奇瑞戚士龍：不希望簡單做價格競爭，預計2027年補足國內新能源業務盈利短板】談及國內新能源業務的盈虧平衡時間點，奇瑞汽車股份有限公司執行副總裁戚士龍表示，奇瑞正在做產品結構的調整，不希望簡單做價格競爭，還是要靠新一代的技術匯入，使得產品更有賣點；第二是希望一部分高階品牌往上走，比如智界，雖然產品做得不錯，但整個規模效應還沒真正拉起來，需要逐步提升規模，來對沖大量的研發投入。他透露，從規模效應角度來說，預計2027年左右，或者2027年下半年，能夠把國內新能源業務的盈利短板補足。經營質量要從業務結構、成本結構、技術體系角度來解決，本質還要靠技術驅動來提升使用者的滿意度，這是最核心的地方。（新浪科技）"
+    },
+    {
+      "id": "5184460",
+      "time": "2026-10-31 12:51:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【超2750億元QFII持倉曝光 22家公司獲連續3個季度環比加倉】截至2026年三季度末，1500餘家A股公司的前十大流通股東出現QFII身影，以2026年三季度末收盤價測算，QFII持股市值超過2750億元，環比下降近20%；持股數量約138億股，環比下降約7%。分行業看，截至2026年三季度末，5個申萬一級行業獲QFII持股市值超過百億元，分別是電子、銀行、機械裝置、電力裝置及有色金屬。從持股數量來看，銀行、電子、機械裝置行業持股數量依舊位居前三，銀行板塊獲QFII持股數量超過48億股，居首，環比小幅增長0.67%。拉長時間來看，截至2026年三季度末，QFII連續3個季度環比加倉的公司有22家，分佈於機械裝置、建築裝飾、電子、基礎化工等行業。具體來看，與2025年四季度末對比，QFII最新持股加倉超過2個百分點的公司有10家，居前的有萬訊自控、唯萬密封、沐曦股份-U、金煤科技等。"
+    },
+    {
+      "id": "5184459",
+      "time": "2026-10-31 12:51:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日媒：烏克蘭請求日本提供攔截導彈】據日本《產經新聞》10月31日報道，日本自民黨籍的前防衛大臣小野寺五典在接受《產經新聞》採訪時透露，他於9月底訪問了烏克蘭，其間烏克蘭政府高層向他提出了提供攔截導彈的請求。向衝突當事國轉移裝備需要適用相關的例外規定。 小野寺回應說：“我個人無權作出承諾。這是一個非常棘手的問題，但我回國後會與政府共同商討對策。”據悉，他已將這一請求轉達給了日本政府。（參考訊息）"
+    },
+    {
+      "id": "mkt:01a1904c-4cd4-7ee0-aa17-541421f6622a",
+      "time": "2026-10-31 12:51:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "AI Revolution",
+        "300750.SZ",
+        "Impact mixed"
+      ],
+      "text": "【CATL's Zeng Yuqun: battery energy density \"not yet sufficient\"; using AI to speed electrochemical discovery】On Oct. 31 at the opening plenary of the 2026 World Top Scientists Forum, CATL chairman and founder Zeng Yuqun said existing battery energy density is \"not yet sufficient\" to support wider applications and that the industry must leverage AI and global scientific expertise to accelerate source innovation in electrochemistry. He said battery systems span femtosecond-to-decade timescales and atomic-scale dimensions. CATL is deploying large language models and an in-house AI-native research platform linking wet and dry labs and holds over 1 trillion test records, but Zeng said the firm is still \"not doing enough\" and seeks more support from the electrochemistry research community."
+    },
+    {
+      "id": "5184457",
+      "time": "2026-10-31 12:50:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國常駐聯合國代表團舉辦發展權主題邊會】中國常駐聯合國代表團10月30日與不結盟運動、聯合國人權事務高階專員辦公室合作舉辦發展權主題邊會。中國常駐聯合國副代表孫磊表示，發展是人類社會永恆的主題，發展權是不可剝奪的基本人權。全球發展倡議為重振全球發展事業提供了中國方案，為完善全球人權治理提供了深刻啟示。國際社會應攜手發展，共享人權。（央視新聞）"
+    },
+    {
+      "id": "5184456",
+      "time": "2026-10-31 12:47:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代曾毓群：電池技術“還不夠好” 正用AI加速電化學領域發現】“不管是在座的各位科學家還是其他科學家，我們需要世界上智慧大腦的支援。”10月31日，2026世界頂尖科學家論壇開幕式主論壇在臨港中心舉行。寧德時代董事長、創始人曾毓群在演講中表示，寧德時代正推動電池技術賦能能源發展，但現有電池能量密度仍不足以支撐更廣泛的應用。整個行業需要藉助人工智慧和全球科學界的力量，加速電化學領域的源頭創新。在曾毓群看來，電池系統是一個高度複雜的過程，涉及從飛秒級到數十年的多時間尺度，也觸及原子層面的多個維度。正因如此，寧德時代正在運用大語言模型賦能科學發現。曾毓群介紹，公司擁有超過1萬億條測試資料，並自研AI原生研究系統，將溼實驗室與幹實驗室連線在一起。不過，他仍然認為目前“做得還不夠多”，尤其需要來自電化學領域科學界的支援。"
+    },
+    {
+      "id": "mkt:01a19048-3e6a-7ee0-aa17-49f87d1e4dd3",
+      "time": "2026-10-31 12:46:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Swiss federal president Parmelin leads business delegation to MOFCOM】Oct 30 — Swiss Federal President and Minister of Economic Affairs, Education and Research Parmelin led a business delegation to MOFCOM and met MOFCOM minister RAIMONDO to discuss bilateral trade and an upgrade to the China‑Switzerland free trade agreement. Parmelin said China is Switzerland’s third‑largest global and largest Asian trading partner and that the upgraded FTA will lift bilateral trade to a new level and signal joint support for a WTO‑centred multilateral trading system. MOFCOM minister RAIMONDO said both sides, under their leaders’ strategic guidance, completed upgrade negotiations and signed the protocol; the upgrade reflects complementary interests, mutual benefit and both countries’ support for international trade rules, which the ministry called significant in the current international environment."
+    },
+    {
+      "id": "mkt:01a19046-eabf-7ee0-aa17-42663c7530c9",
+      "time": "2026-10-31 12:45:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Penghua CIO Zheng Ke: short-term structural rebalancing; A-share valuations still attractive】Penghua Fund CIO Zheng Ke said recent A-share weakness represents a phase of structural rebalancing, not a change to the market’s long-term investment case. He said equity risk premium in Q3 briefly breached mean-minus-two-standard-deviations for the third time, prompting a sizable correction concentrated in growth and innovation pockets such as ChiNext and innovation-50 indices. Zheng said the pullback chiefly reflects position concentration and not a material shift in economic fundamentals, and that equities remain attractive for allocation as China advances its transition toward higher-quality productivity."
+    },
+    {
+      "id": "5184455",
+      "time": "2026-10-31 12:43:38",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【鵬華基金首席資產配置官鄭科：短期市場迎結構再平衡 A股整體估值仍具吸引力】近期A股市場出現階段性調整，投資者風險偏好有所回落。針對當前市場波動、估值水平與中長期投資機遇，鵬華基金首席資產配置官、資產配置與基金投資部總經理鄭科認為，本輪市場波動屬於行情執行中的結構性再平衡，並未改變A股長期投資價值，權益資產依然具備較強的配置吸引力。鄭科表示，受籌碼堆積影響，三季度股權風險溢價第三次觸碰均值下方兩倍標準差之際，市場出現了較大幅度調整，創業板、雙創50等為代表的板塊，均出現了階段性的回撥。需要強調的是，這是A股市場特性使然，並沒有出現明顯的經濟基本面變動，並不影響未來我國以新質生產力為引擎的換擋程序。（新華財經）"
+    },
+    {
+      "id": "5184454",
+      "time": "2026-10-31 12:43:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳宇航任惠州市委書記，尹念紅任中山市委書記】近日，廣東省委決定：陳宇航同志任惠州市委書記；劉吉同志不再擔任惠州市委書記、常委、委員職務，省委另有任用；尹念紅同志任中山市委書記；郭文海同志不再擔任中山市委書記、常委、委員職務，省委另有任用。（南方+）"
+    },
+    {
+      "id": "5184453",
+      "time": "2026-10-31 12:42:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【瑞士聯邦主席兼經濟、教研部長帕姆蘭率經濟界代表團到訪商務部】10月30日，瑞士聯邦主席兼經濟、教研部長帕姆蘭率經濟界代表團到訪商務部，與商務部部長王文濤舉行會談，雙方就中瑞經貿關係、自貿協定升級等議題交換意見。王文濤表示，中瑞兩國互為重要經貿合作伙伴，瑞士對華合作走在歐洲國家前列。在兩國領導人的戰略引領下，中瑞雙方順利完成自貿協定升級談判並簽署議定書，為雙邊經貿關係發展翻開新篇章。自貿協定升級充分體現了中瑞合作優勢互補、互利共贏的本質，展現了中瑞兩國維護國際經貿規則、支援自由貿易的鮮明立場，在當前國際環境下具有重要意義。中方願同瑞方一道，加快履行各自法律程式，推動升級議定書早日生效實施，給兩國企業和民眾帶來實實在在的成果。瑞士經濟界代表表示，看好中國經濟前景和超大規模市場潛力，願以瑞中自貿協定升級為契機，繼續擴大在華生產和研發投入，深化與中方夥伴在醫藥、機械製造、金融、鐘錶、綠色轉型等領域合作。"
+    },
+    {
+      "id": "5184452",
+      "time": "2026-10-31 12:36:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新疆投放1327萬元文旅消費券】10月30日，記者從第二十屆新疆冬季旅遊產業交易博覽會暨2026新疆熱雪節新聞釋出會獲悉，本屆冬博會將於11月6日至8日在新疆國際會展中心舉行，2026新疆熱雪節將於12月9日至13日在阿勒泰地區舉辦。以兩項活動為牽引，2026—2027雪季，全疆將推出207項文體旅活動，並投放總額1327萬元的文旅消費券。（新疆釋出）"
+    },
+    {
+      "id": "5184451",
+      "time": "2026-10-31 12:36:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工行回應“債大於貸”：增量結構變化正成為影響息差的新變數】“增量結構的變化，正在成為影響淨息差執行的新變數。”在10月30日的業績說明會上，工商銀行資產負債部相關負責人在回應市場關切的“債券投資增速持續高於信貸”現象時如是表示。對於未來債券投資增速能否持續高於信貸，工行給出了三大觀察維度：一看宏觀政策組合，結合財政預算安排和政府債發行節奏統籌考慮；二看有效信貸需求，若實體投融資回暖、優質專案增加，信貸投放力度將相應抬升；三看市場利率走勢，動態調整配置策略，不單純追求規模擴張。工行判斷，若政策利率保持穩定，淨息差年內有望企穩築底，明年或將存在小幅收窄壓力。（21財經）"
+    },
+    {
+      "id": "te:economy:596984",
+      "time": "2026-10-31 12:20:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Credit Rating",
+        "Importance 0"
+      ],
+      "text": "Fitch Affirms Slovakia at ’A-’ with Stable Outlook — Fitch Ratings affirmed Slovakia’s long-term foreign-currency Issuer Default Rating at A- with a Stable Outlook on October 30, 2026, citing the country’s deep integration with the euro area and continued EU fund inflows despite mounting budget pressures. However, fiscal consolidation is expected to lose momentum ahead of the 2027 parliamentary election, with the deficit projected to widen to 5.0% of GDP in 2027 before improving from 2028. The deterioration reflects higher public-sector wages, social spending, defense expenditure, and debt-servicing costs. Still, an average debt maturity of over eight years helps contain near-term refinancing risks. GDP growth is projected to grow by 0.8% in 2026 amid higher energy prices and financing costs linked to Middle East tensions. Growth is forecast to strengthen gradually to 1.8% by 2028, on rising automotive production and stronger investment. Other major agencies keep stable outlooks, with S&P rating Slovakia A, Moody’s A3, and DBRS A (low)."
+    },
+    {
+      "id": "5184450",
+      "time": "2026-10-31 12:19:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長：“紅線已成過去式”】德國總理默茨談及伊朗戰爭時表示，僅在過去八個月內，歐洲因這場衝突導致能源價格上漲而產生的成本就已超過1000億歐元，希望儘快結束這場衝突。伊朗外長阿拉格齊轉發相關報道稱，去年以美開始轟炸伊朗時，德國總理默茨曾對此表示讚許，“與伊朗將要給予那些傷害伊朗民眾的人造成毀滅性打擊相比，1000億歐元不值一提。”他表示，對於伊朗來說，“紅線已成過去式”。"
+    },
+    {
+      "id": "5184449",
+      "time": "2026-10-31 12:16:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【豆包：新使用者可免費領一個月訂閱】豆包再次面向使用者推出免費福利活動：所有使用者每日簽到即可獲取更多額度，累計簽到30天可得8800額度；新使用者還可領取30天免費體驗套餐。"
+    },
+    {
+      "id": "5184448",
+      "time": "2026-10-31 12:15:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【祿達技術集團收購亞洲算力算網與量子計算科技有限公司55%股權】美股上市公司祿達技術集團（LUD.US）宣佈，正式收購亞洲算力算網與量子計算科技有限公司（簡稱“亞洲算力”）55%的股權，後者的業務涵蓋資料中心規劃建設的運營管理、高效能算力租賃，以及量子計算託管與運營。為支援亞洲算力業務發展，祿達技術集團與華智未來科技有限公司簽署戰略諒解備忘錄，雙方將在海外算力輸出、液冷技術及金融合作三大方向探索合作機會。"
+    },
+    {
+      "id": "5184447",
+      "time": "2026-10-31 12:04:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本一列車撞熊後脫軌】據日本《每日新聞》今天（10月31日）報道，當地時間30日晚10點50分左右，行駛在北海道地區的一輛列車與熊相撞，部分車輪發生脫軌，包含乘務員在內34人無人受傷。32名旅客已於今天上午由北海道旅客鐵道公司安排的計程車運離現場。（CCTV國際時訊）"
+    },
+    {
+      "id": "5184446",
+      "time": "2026-10-31 12:00:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沙盒能關住超級AI？OpenAI CEO反問：當AI比頂尖研究員聰明100萬倍，你還敢信任沙盒嗎】當地時間10月29日，當被問及沙盒能關住超級AI。OpenAI CEO奧特曼在播客節目中反問：當AI比頂尖研究員聰明100萬倍，你還敢信任沙盒嗎？"
+    },
+    {
+      "id": "5184445",
+      "time": "2026-10-31 11:57:17",
+      "tags": [
+        "央行",
+        "觀點",
+        "國際"
+      ],
+      "text": "【歐洲央行行長：在貨幣政策上我是“貓頭鷹派”】日前，總檯《高階訪談》欄目專訪歐洲中央銀行行長拉加德。在談及自己在貨幣政策方面秉持的立場時，拉加德表示，自己是“貓頭鷹派”。歐洲央行行長拉加德表示：其實這一點很有意思。我擔任這一職務已經有七年了。在此期間，我觀察到各位同事和朋友在貨幣政策方面都會秉持自身認為恰當的立場，或是“鷹派”，或是“鴿派”。但我也看到，部分人會從“鴿派”轉向“偏鷹派”，或者從“鷹派”轉為“偏鴿派”。這就說明，大家會依據自己的判斷以及關於貨幣政策的理論，來應對不斷變化的形勢。人們願意調整觀點、修正分析，這是一件好事，也是良性表現，畢竟客觀形勢也在變化。我仍然屬於“貓頭鷹派”，因為在我看來，我的職責就是密切關注各類資訊、傾聽各方意見。我希望各項決策都建立在管理委員會內部分析研判、觀點交鋒以及充分討論的基礎之上，這樣最終形成的觀點才能夠最大限度凝聚共識，並由全體成員共同承擔相應責任。（央視）"
+    },
+    {
+      "id": "5184444",
+      "time": "2026-10-31 11:55:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：建設綠氫（綠色燃料）交易中心】北京市經濟和資訊化局近日印發《北京市氫能產業發展實施方案（2026—2030年）》。其中提出，建設綠氫（綠色燃料）交易中心。立足“三北”綠氫供應帶與沿海消納需求帶交匯的區位稟賦，依託京津冀創新、金融、產業和基礎設施優勢，建設綠氫（綠色燃料）交易中心，形成碳氫協同、規範高效、公開透明的氫能交易市場，引領帶動國內氫能產業良性發展，提升綠氫產品國際定價權。"
+    },
+    {
+      "id": "5184442",
+      "time": "2026-10-31 11:48:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東方證券孫金霞：中國具有低利率與完備的基礎設施體系等多重優勢，為科技產業長期發展提供基礎】東方證券研究所副所長孫金霞表示，中國科技發展的前景建立在紮實的自身基礎之上。中國長期形成的高儲蓄、低融資成本以及完備的基礎設施體系，為新一輪科技投資提供了重要比較優勢。此外，中國在工程師資源以及應用場景等方面也具有獨特優勢，為科技創新和產業升級提供了長期競爭力。"
+    },
+    {
+      "id": "5184441",
+      "time": "2026-10-31 11:47:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【東方證券孫金霞：美國AI敘事面臨高利率與投資回報雙重約束，科技投資的可持續性正在受到檢驗】東方證券研究所副所長孫金霞認為，美國AI投資在產業層面仍具有廣闊的發展前景，但其高度依賴資本密集型投資的增長模式，正在面臨融資需求和成本上升、商業化回報滯後等多重壓力。美國AI敘事正從過去的投資規模競爭，轉向投資回報和可持續性的考驗。孫金霞稱，當前美國AI投資增長動能放緩，風險由債市向股市擴散。近期美國AI企業信用利差擴大，部分高槓杆算力企業出現融資壓力，隨後風險開始由債券市場向股票市場傳導，科技股調整壓力上升。"
+    },
+    {
+      "id": "5184440",
+      "time": "2026-10-31 11:45:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤跌破6.5美元，日內跌幅0.9%。"
+    },
+    {
+      "id": "5184439",
+      "time": "2026-10-31 11:43:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海資料交易所已核發首批15份資料產權登記憑證】10月31日，證券時報記者從2026全球數商大會“數智共生 要素蝶變”——資料產業高質量發展與國際合作論壇上獲悉，上海資料交易所已核發首批15份資料產權登記憑證，登記物件覆蓋航運航空、金融服務、大宗商品、人工智慧、智慧農業等領域，既包含成熟資料產品，也涵蓋面向新技術、新場景開發形成的資料集。"
+    },
+    {
+      "id": "5184438",
+      "time": "2026-10-31 11:43:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月份滬牌拍賣結果公佈】10月滬牌拍賣結果剛剛出爐：個人額度合計拍賣總數4403個，參加拍賣人數23586人，中標率18.7%。最低成交價93800元，平均成交價為93874元，比上個月93778元增加了96元。最低成交價的截止時間是11:29:50第1103位。"
+    },
+    {
+      "id": "5184437",
+      "time": "2026-10-31 11:42:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：力爭到2030年全市氫能產業鏈規模突破400億元】北京市經濟和資訊化局近日印發《北京市氫能產業發展實施方案（2026—2030年）》。其中提出，力爭到2030年，累計推廣燃料電池汽車突破萬輛，建成加氫站超40座，實現綠色化工、熱電聯供等場景規模化應用，全市氫能產業鏈規模突破400億元，帶動京津冀突破1000億元，構建自主可控、經濟高效、綠色安全的京津冀氫能全產業鏈體系。"
+    },
+    {
+      "id": "5184436",
+      "time": "2026-10-31 11:42:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：做強燃料電池汽車全產業鏈】北京市經濟和資訊化局近日印發《北京市氫能產業發展實施方案（2026—2030年）》。其中提出，做強燃料電池汽車全產業鏈。支援燃料電池整車、系統龍頭企業完善全產業鏈佈局，圍繞整車正向開發，加快膜電極、催化劑、碳紙、瓶閥等關鍵材料部件協同創新。落地氫電一體化底盤等量產專案，形成萬臺級燃料電池整車產能以及動力系統、電堆、膜電極與關鍵材料配套能力，推動燃料電池整車與核心零部件綜合成本下降超30%。"
+    },
+    {
+      "id": "5184435",
+      "time": "2026-10-31 11:42:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：培育高溫膜燃料電池、固體氧化物燃料電池、氫燃機等前沿賽道創新主體】北京市經濟和資訊化局近日印發《北京市氫能產業發展實施方案（2026—2030年）》。其中提出，推動氫能多元供應、多領域應用技術創新，開展富氫高爐控制、氫基直接還原等氫冶金技術研發，加快液氫儲運、固態儲供氫、高壓管束儲運等儲運關鍵裝備產業化，探索車載氫系統迴圈再利用模式，培育高溫膜燃料電池、固體氧化物燃料電池、氫燃機、液氫重卡等前沿賽道創新主體，拓展氫能多元化高階應用產業鏈條。"
+    },
+    {
+      "id": "5184434",
+      "time": "2026-10-31 11:38:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西前三季度煤層氣產量創新高】今年前三季度山西煤層氣產量達117.4億立方米，創歷史同期新高，約佔全國產量的80.2%。山西煤層氣埋深2000米以淺預測資源量約8.31萬億立方米，佔全國近三分之一。依託煤層氣資源，山西攻克提氦難題，已形成“膜分離+變壓吸附+合金脫氫+低溫純化”組合工藝路線，成功產出6N級超高純氦氣，產能產量穩步提升。（新華社）"
+    },
+    {
+      "id": "5184433",
+      "time": "2026-10-31 11:28:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【奇瑞高管回應智界獨立：要更像新勢力，而非“大一號”傳統車企】在10月31日舉行的三季度媒體溝通交流會上，奇瑞汽車股份有限公司執行副總裁戚士龍回應智界獨立時表示，希望智界團隊更像新勢力企業，而不是簡單做成“大一號”的傳統車企。他表示，將從組織規模化、產品高階化及品牌逐步最佳化等方面，提升智界獨立運營能力。據悉，智界明年還會有新產品匯入，而海外業務仍由奇瑞集團獨立運營。"
+    },
+    {
+      "id": "5184432",
+      "time": "2026-10-31 11:21:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滬港加強跨境金融糾紛調解合作 推動兩地調解機制銜接】10月30日，滬港金融合作第十次工作會議在上海舉行。 上海市委金融委員會辦公室常務副主任李俊傑表示，建設香港、上海兩大國際金融中心是重大國家戰略。新形勢下，兩地既要各展所長，更要協同發力。近年來，滬港金融市場互聯互通機制進一步完善，滬港離岸金融戰略互補效應進一步顯現，共建金融產品服務體系的內涵進一步拓展。滬港兩地將以本次會議為契機，將會議共識轉化為具體合作專案，推動滬港金融協同發展不斷邁上新臺階。 在本次會議上，上海市金融消費糾紛調解中心與香港金融糾紛調解中心簽署合作備忘錄。備忘錄旨在推動兩地金融糾紛調解機制的交流銜接，加強金融糾紛調解服務跨境合作。 （中國經營報）"
+    },
+    {
+      "id": "5184431",
+      "time": "2026-10-31 11:18:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【麥格米特：明年AI電源板塊整體收入有望實現大幅增長】麥格米特(002851)近日接受機構調研時表示，公司GB300產品產能不斷爬坡，訂單充足。Vera Rubin相關產品和同行同步推出、同步對接客戶，公司也在推進首批專案的訂單，爭取能夠儘早落地，期待明年能夠拿到不錯的市場份額。公司判斷，GB300到Vera Rubin是一個逐步迭代的過程，兩種方案會在相當長時間內並存，而不是簡單的替換關係。公司GB300業務還在持續爬坡、持續獲取新訂單，加上其他產品的對接，明年公司AI電源板塊整體收入有望實現大幅增長。"
+    },
+    {
+      "id": "5184430",
+      "time": "2026-10-31 11:13:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新建天蒲鐵路今天開通運營 線路全長約82公里】記者從中國鐵路成都局集團有限公司獲悉，今天（31日），新建天府至蒲江鐵路將開通運營。天蒲鐵路起自天府站，途經成都市天府新區、雙流區、新津區、眉山市彭山區、成都市邛崍市、蒲江縣後接入既有成雅鐵路朝陽湖站，為雙線客貨共線鐵路，線路全長約82公里，最高時速200公里。（央視新聞）"
+    },
+    {
+      "id": "5184429",
+      "time": "2026-10-31 11:11:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊媒指控Axios記者借媒體報道發動心理戰 稱核問題根本不在談判議程】塔斯尼姆通訊社稱，以色列記者、Axios新聞網記者巴拉克·拉維德（Barak Ravid）是以色列軍方8200部隊的知名成員。他於今天凌晨連續釋出多篇報道，試圖對伊朗伊斯蘭共和國發動大規模心理戰。拉維德一方面聲稱美國與伊朗的談判仍在繼續，另一方面又透過渲染美國對伊朗採取軍事行動的可能性，刻意放大緊張局勢，試圖營造一種氛圍，即達成協議的最佳、也是最後機會就是“現在”。塔斯尼姆通訊社稱，拉維德隨後又在其心理戰宣傳中聲稱，德黑蘭要求美國解除海上封鎖，以便繼續談判，而華盛頓則將伊朗在核問題上作出讓步作為恢復對話的條件。然而，根據伊朗官員的表態，在本輪與美國進行的間接談判中，核問題根本不在討論範圍之內。"
+    },
+    {
+      "id": "5184428",
+      "time": "2026-10-31 11:05:17",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中郵證券黃付生：三重邏輯共振，A股企穩反彈有支撐】“當前縮量更多是階段交易熱度退潮，並不等同於系統性風險的延續，但也尚未出現趨勢反轉的充分確認條件。”中郵證券副總裁、首席經濟學家黃付生10月30日接受記者專訪時指出。情緒降溫更多反映在交易端，基本面並未同步走弱。相反，上市公司業績改善的積極訊號正在累積，對市場形成重要支撐。黃付生指出，從中報看，A股淨利潤增速約15%，其中AI高度相關企業淨利潤增速高達77%。三季報淨利增速進一步提升，為市場由“估值修復”邁向“業績兌現”打下紮實基本面基礎，驅動邏輯正在加速完成結構性切換。展望後市，他判斷，在長效穩市機制持續發力、市場悲觀情緒逐步修復、上市公司業績持續驗證三重邏輯共振下，市場短期無序波動有望明顯收斂，A股具備企穩反彈的堅實基礎。（21財經）"
+    },
+    {
+      "id": "5184427",
+      "time": "2026-10-31 11:03:41",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【我國首次載人登月任務乘組計劃由三人組成，兩人著陸月球表面】10月31日，第七屆載人航天學術大會在北京航空航天大學舉行。記者在本屆大會上獲悉，我國計劃在2030年前實現中國人登陸月球。計劃採用了“兩次發射，一次登月”的方式實現載人登月。 中國載人航天工程副總設計師兼月球探測工程總設計師王翔在本屆大會上介紹稱，我國首次載人月球探測計劃採用環月軌道對接飛航模式。 據瞭解，這種模式將採用兩枚長征十號運載火箭，先將著陸器送往月球軌道，然後再發射載人飛船與著陸器實現交會對接，航天員進入著陸器並與載人飛船分離著陸月面，開展有關科學探測活動。完成任務後航天員乘坐著陸器從月面上升，在月球軌道上與載人飛船實現二次交會對接，航天員乘坐載人飛船返回地球。 王翔介紹稱，我國首次載人月球探測任務乘組計劃由三人組成，其中兩人著陸月球表面。 目前，中國月球探測工程登月階段任務各項研製建設工作正在紮實推進。（環球時報）"
+    },
+    {
+      "id": "5184426",
+      "time": "2026-10-31 11:00:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026世界頂尖科學家論壇開幕 國際頂級獎項得主相聚上海】10月31日，2026世界頂尖科學家論壇開幕式暨主論壇在上海臨港中心舉行。本屆論壇共有諾貝爾獎、圖靈獎、沃爾夫獎、菲爾茲獎等國際頂級獎項得主32位參會，另有23位兩院院士、140位資深科學家、78位青年科學家等參會。（央視新聞）"
+    },
+    {
+      "id": "5184425",
+      "time": "2026-10-31 11:00:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美媒民調： 選民釋放出這樣一個訊號——無論中期選舉哪一方勝出，他們都希望選舉結果能夠對特朗普總統的權力形成一定製衡。"
+    },
+    {
+      "id": "5184424",
+      "time": "2026-10-31 10:59:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：在特朗普決定為巴西右翼候選人弗拉維奧·博索納羅提供庇護、導致兩國緊張關係加劇後，美國國務卿魯比奧與巴西外長維埃拉同意在未來幾周內再次會面。"
+    },
+    {
+      "id": "5184423",
+      "time": "2026-10-31 10:57:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "茅臺：11月2日09:00—11月15日23:59，UMEET遇見生態美系列-藍莓氣泡酒（陳皮龍眼味）新品上線，零售價99元/瓶。"
+    },
+    {
+      "id": "5184422",
+      "time": "2026-10-31 10:54:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【快手：可靈AI完成增資198億元 金蝶、沐曦新進 中東資本退出】10月30日晚，快手釋出公告，旗下影片生成大模型可靈AI宣佈落地完成本輪增資，所有投資人已就其認購金額支付增資款，且認購事項已交割。可靈AI增資款總額約為人民幣198億元，約合超過29億美金。此外，根據本次公告，可靈AI還引入金蝶、沐曦等多家新投資者。"
+    },
+    {
+      "id": "5184421",
+      "time": "2026-10-31 10:52:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中企承建烏拉圭500千伏輸變電環網正式交付】由中企承建的烏拉圭500千伏輸變電環網10月30日在該國北部塞羅拉爾戈省省會梅洛市宣佈交付。烏拉圭國家電力公司總裁安德烈亞·卡夫雷拉在專案交付儀式上說，該工程顯著提升了當地電力基礎設施和國家電力系統韌性，創造了更好的電力輸送條件，對整個國傢俱有重要意義。該專案由中國機械裝置工程股份有限公司承建，2021年啟動建設，是中國企業近年來在烏拉圭承建的規模較大的能源基礎設施建設專案。專案建成後，將增強烏拉圭輸電網路穩定性，併為與阿根廷、巴西開展電力交換提供更好條件。（新華社）"
+    },
+    {
+      "id": "mkt:01a18fdf-8683-7ee0-aa17-386a181a04c4",
+      "time": "2026-10-31 10:52:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan pitches 'Power Asia' at G20 foreign ministers' meeting, urges closer energy cooperation to secure supplies】Japan Foreign Minister Toshimitsu Motegi said the second G20 foreign ministers' session on energy security has concluded. He told delegates energy security requires multinational cooperation and used the meeting to reintroduce Japan's 'Power Asia' initiative to strengthen regional electricity and energy cooperation. Motegi urged G20 members to step up coordination to ensure stable energy supplies and said Japan will play an active role."
+    },
+    {
+      "id": "5184419",
+      "time": "2026-10-31 10:44:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【抗議者頻繁現身其集會 特朗普已形成一套固定應對話術】特朗普的集會多次遭到抗議者闖入，如今只要現場出現干擾，他就會拿出一套現成的說辭。週五晚間，特朗普在佛羅里達州的演講開場不到15分鐘，就嘆道：“拿錢僱來的抗議者。我們這套應對流程都熟門熟路了。”"
+    },
+    {
+      "id": "5184418",
+      "time": "2026-10-31 10:42:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第140屆廣交會第三期線下展開展 一批新品集中亮相】今天，第140屆廣交會第三期正式開展，展期共5天，本期以“美好生活”主題，涵蓋玩具及孕嬰童、時尚、家用紡織品、文具、健康休閒5大板塊21個展區，展覽面積達51.5萬平方米，參展企業超1.2萬家。一批設計新穎、科技感十足的新品即將集中亮相。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a18fd5-9c42-7ee0-aa17-320de9ba7793",
+      "time": "2026-10-31 10:41:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump rallies repeatedly disrupted; he deploys scripted rebuttal accusing protesters of being paid】Protesters have repeatedly interrupted Trump campaign rallies from Wasilla, Alaska to Chillicothe, Ohio. At a Florida rally Friday he opened within 15 minutes by calling them “paid protesters” and saying “we're used to this,” a response he has routinely used when events are disrupted. White House officials say the president enjoys the confrontations; his standard playbook accuses demonstrators of being paid $250, labels them “Soros people,” mocks their appearance and, as law enforcement removes them, asserts their parents are actually his supporters."
+    },
+    {
+      "id": "5184417",
+      "time": "2026-10-31 10:41:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【資料要素流通交易系列標準釋出】10月31日，在2026全球數商大會之資料產業高質量發展與國際合作論壇上，資料要素流通交易系列標準正式釋出，以資料市場建設和價值釋放為主線，回應市場關於資料產品、資料資產、資料基礎設施、高質量資料集、行業資料等領域的標準化問題。"
+    },
+    {
+      "id": "mkt:01a18fd1-a788-7ee0-aa17-2c386bf36075",
+      "time": "2026-10-31 10:37:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lavrov says Putin willing to meet Zelensky if he travels to Moscow】Russian Foreign Minister Sergey Lavrov said President Vladimir Putin remains willing to meet Ukrainian President Volodymyr Zelensky provided Zelensky travels to Moscow. Lavrov reiterated that Russia’s position on the Ukraine conflict has not changed. He said continued Ukrainian strikes inside Russia are complicating preparations for planned Russia-Ukraine-US trilateral talks in Abu Dhabi; the meeting date will be announced once finalized. Lavrov added that recent actions by European countries show they cannot be regarded as reliable guarantors for any future agreement."
+    },
+    {
+      "id": "5184416",
+      "time": "2026-10-31 10:35:48",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行"
+      ],
+      "text": "【經濟學家：日本央行加快ETF出售節奏 或為高市早苗支出計劃提供資金支援】日本央行週五宣佈，自明年1月起，按賬面價值口徑，ETF年度出售規模將從目前3300億日元提升至8600億日元（摺合55億美元）。出售提速後，預計完成全部出售所需時長將從112年縮短至約43年。依照法律規定，日本央行在扣除分紅及其他開支後，需要將盈餘收入上繳政府。出售ETF產生的收益可以提高上繳金額，為政府帶來額外非稅收入。高階經濟學家木村太郎估算，出售提速後，日本央行每年可新增約8000億日元收入。這筆潛在的額外收入，有助於高市早苗在編制下一年度預算時為其政策籌措資金。她提出的政策承諾包含為期兩年的食品消費稅減免、為期14年的增長投資計劃以及增加國防開支。 日本央行新增上繳資金，還有可能用於資助本屆政府計劃設立的經濟安全專項賬戶。瑞銀三井住友信託財富管理策略師、前內閣府官員石井和正表示：“相比於填補消費稅減免這類政策造成的大額臨時性收入缺口，日本央行上繳資金更適合用於支援跨年度專案，例如經濟安全專項賬戶。”"
+    },
+    {
+      "id": "mkt:01a18fcc-6b36-7ee0-aa17-239a9cf4cb70",
+      "time": "2026-10-31 10:31:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan, US, South Korea sign Arctic-Pacific cooperation memorandum; to form working group on maritime and economic cooperation】Japan's Foreign Minister Toshimitsu Motegi said the three foreign ministers held about 20 minutes of talks on the 30th (31st Japan time) in Atlanta, Georgia, and signed a memorandum on an Arctic‑Pacific partnership. The parties will establish a working group to study and develop concrete maritime and economic cooperation measures."
+    },
+    {
+      "id": "5184415",
+      "time": "2026-10-31 10:31:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【利元亨全固態電池整線裝置成功出機國內頭部客戶】據利元亨訊息，近日，利元亨為國內某頭部企業打造的全固態電池整線裝置順利完成出機。"
+    },
+    {
+      "id": "5184414",
+      "time": "2026-10-31 10:30:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱阿列什基人道主義救援順利完成】俄羅斯人權事務專員蘭特拉託娃10月30日表示，在赫爾松地區阿列什基的人道主義救援行動已經順利完成。行動期間的停火安排得到了全面遵守，未發生任何意外事件。目前，載有被救援民眾的車隊正按不同方向分頭行動。對於決定前往烏克蘭的人員，俄方已為他們提供了相應的撤離條件；而對於選擇前往俄羅斯的居民，俄方將妥善安置，並提供必要的支援。（CCTV國際時訊）"
+    },
+    {
+      "id": "5184413",
+      "time": "2026-10-31 10:29:18",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【奈及利亞軍方說打死48名極端組織武裝人員】奈及利亞軍方30日發表宣告說，該國軍隊在東北部博爾諾州和約貝州擊退極端組織“伊斯蘭國西非省”的兩次襲擊，至少打死48名該組織成員，並繳獲52支槍支。（新華社）"
+    },
+    {
+      "id": "5184412",
+      "time": "2026-10-31 10:27:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國汽車流通協會：10月乘用車終端零售規模預計165萬輛左右，環比9月基本持平】據中國汽車流通協會，10月車市進入傳統“銀十”旺季，但成色明顯不足。國慶假期效應及多地大型秋季車展和促銷政策共同發力，帶動上半月到店客流和訂單明顯走高。但下半月到店客流快速回落至常規水平，需求釋放的持續性不足。終端層面，持幣觀望情緒延續，消費者普遍等候年末優惠視窗，比價博弈加劇、購車決策週期拉長，有效線索質量下滑；同時新能源滲透率持續抬升，疊加油價因素形成約束，持續分流燃油車潛在客群，整體成交表現不及旺季預期。綜合判斷，10月乘用車終端零售規模預計165萬輛左右，環比9月基本持平。"
+    },
+    {
+      "id": "5184411",
+      "time": "2026-10-31 10:27:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哈工大研製出或能在月球“燒磚蓋房”的“太陽爐”】記者從哈爾濱工業大學獲悉，該校國家重大科技基礎設施“空間環境地面模擬裝置”地外天體環境物理與智慧探測團隊，研製出一種新型太陽能聚光器，未來或可將月球土壤熔化燒結為“月球磚”，助力月球建房“就地取材”。這是一套由三塊特殊鏡面組合而成的反射補償系統，能像“放大鏡”一樣精準匯聚陽光，在戶外實測中將焦點溫度升高至892攝氏度。相關成果30日線上發表於學術期刊《工程》。（新華社）"
+    },
+    {
+      "id": "5184410",
+      "time": "2026-10-31 10:27:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國汽車流通協會：2026年10月汽車經銷商庫存預警指數為62.2%】2026年10月31日，中國汽車流通協會發布的最新一期“汽車經銷商庫存預警指數調查”VIA（Vehicle Inventory Alert Index）顯示，2026年10月汽車經銷商庫存預警指數為62.2%，同比上升9.6個百分點，環比下降1.0個百分點，庫存預警指數位於榮枯線之上。"
+    },
     {
       "id": "mkt:01a18fc5-fb5e-7ee0-aa17-191a965723e2",
       "time": "2026-10-31 10:24:39",
