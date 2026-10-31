@@ -1,7 +1,123 @@
 {
   "date": "2026-10-31",
-  "count": 593,
+  "count": 604,
   "items": [
+    {
+      "id": "mkt:01a18f96-30f0-7ee0-aa16-ed1dff79d18a",
+      "time": "2026-10-31 09:32:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "China composite PMI 49.7 in October, down from 50.7 in September."
+    },
+    {
+      "id": "mkt:01a18f96-1058-7ee0-aa16-e4dc9e8dd48f",
+      "time": "2026-10-31 09:32:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Composite PMI (Oct) | actual 49.7 | previous 50.7"
+    },
+    {
+      "id": "5184220",
+      "time": "2026-10-31 09:32:05",
+      "tags": [
+        "資料"
+      ],
+      "text": "國家統計局：10月份，綜合PMI產出指數為49.7%，比上月下降1.0個百分點，我國企業生產經營活動總體有所放緩。"
+    },
+    {
+      "id": "5184217",
+      "time": "2026-10-31 09:31:47",
+      "tags": [
+        "資料"
+      ],
+      "text": "【國家統計局：10月份，非製造業商務活動指數為49.7%】10月份，非製造業商務活動指數為49.7%，比上月下降0.5個百分點，非製造業景氣水平有所下降。\n\n分行業看，建築業商務活動指數為48.0%，比上月下降2.3個百分點；服務業商務活動指數為50.0%，比上月下降0.2個百分點。從服務業行業看，鐵路運輸、水上運輸、郵政、網際網路軟體及資訊科技服務等行業商務活動指數均位於55.0%以上較高景氣區間；資本市場服務、保險、房地產等行業商務活動指數均低於臨界點。\n\n新訂單指數為44.4%，比上月下降2.1個百分點，表明非製造業市場需求景氣水平回落。分行業看，建築業新訂單指數為40.0%，比上月下降5.7個百分點；服務業新訂單指數為45.2%，比上月下降1.5個百分點。\n\n投入品價格指數為51.5%，比上月下降1.0個百分點，表明非製造業企業用於經營活動的投入品價格總體水平漲幅收窄。分行業看，建築業投入品價格指數為52.4%，比上月下降1.6個百分點；服務業投入品價格指數為51.4%，比上月下降0.8個百分點。\n\n銷售價格指數為49.5%，比上月下降0.8個百分點，表明非製造業企業銷售價格總體水平有所回落。分行業看，建築業銷售價格指數為48.9%，比上月上升0.4個百分點；服務業銷售價格指數為49.6%，比上月下降1.0個百分點。\n從業人員指數為46.0%，比上月上升0.1個百分點，表明非製造業企業用工景氣度略有改善。分行業看，建築業從業人員指數為42.0%，比上月下降2.3個百分點；服務業從業人員指數為46.7%，比上月上升0.5個百分點。\n\n業務活動預期指數為54.7%，比上月下降0.8個百分點，仍高於臨界點，表明非製造業企業對市場發展保持信心。分行業看，建築業業務活動預期指數為52.3%，比上月下降3.1個百分點；服務業業務活動預期指數為55.2%，比上月下降0.3個百分點。"
+    },
+    {
+      "id": "mkt:01a18f95-4991-7ee0-aa16-deafb549c6aa",
+      "time": "2026-10-31 09:31:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "【China October manufacturing PMI shows seasonal pullback】China's National Bureau of Statistics service-industry survey center and the China Federation of Logistics & Purchasing released October PMI today. The manufacturing PMI registered a seasonal easing, slipping back into contraction territory, while new momentum remained expansionary and continued to support manufacturing activity."
+    },
+    {
+      "id": "5184208",
+      "time": "2026-10-31 09:30:31",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【姜誠辭任中泰資管副總經理及代行總經理職務，吳昱接任總經理】10月31日，中泰資管釋出高階管理人員變更公告。姜誠因個人原因，辭去公司副總經理（代行總經理職務）職務；同日，吳昱出任公司總經理。新任總經理吳昱來自中泰證券，在投行固收領域具有豐富的從業經驗，曾任中國銀行間市場交易商協會非金融企業債務融資工具註冊專家，多次兼任資產證券化論壇輪值理事。"
+    },
+    {
+      "id": "mkt:01a18f94-59cf-7ee0-aa16-d38513f10d85",
+      "time": "2026-10-31 09:30:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "China non-manufacturing PMI 49.7 in October, below the 50 expected and down from prior 50.2."
+    },
+    {
+      "id": "mkt:01a18f94-48af-7ee0-aa16-cbc50efa443b",
+      "time": "2026-10-31 09:30:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index",
+        "Copper"
+      ],
+      "text": "China official manufacturing PMI (October) 49.3, expected 50.0, prior 50.1."
+    },
+    {
+      "id": "mkt:01a18f94-3cbb-7ee0-aa16-c2898baf8128",
+      "time": "2026-10-31 09:30:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Non-Manufacturing PMI (Oct) | actual 49.7 | consensus 50 | previous 50.2"
+    },
+    {
+      "id": "5184207",
+      "time": "2026-10-31 09:30:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月中國製造業採購經理指數公佈 景氣呈季節性回撥】國家統計局服務業調查中心、中國物流與採購聯合會今天公佈10月中國採購經理指數。資料顯示，製造業景氣水平有所回撥，製造業採購經理指數重回收縮區間，但新動能持續保持擴張，對製造業的支撐作用凸顯。\n\n10月中國製造業採購經理指數為49.3%，較上月下降0.8個百分點，回落至榮枯線以下。從歷史資料看，每年這個時段容易受季節性因素擾動，本輪迴落主要是海外相關訂單在上月集中釋放後有所回落、長假過後消費高峰趨於平淡，疊加基礎原材料行業轉入淡季，屬於階段性變化。\n\n10月份製造業景氣出現季節性回撥，行業分化特徵比較明顯，裝備製造、高技術製造等新動能行業延續擴張態勢，對沖了傳統行業下行帶來的壓力。\n\n從供需來看，10月製造業市場需求整體回撥。新訂單指數49.4%，環比下降1.1個百分點；新出口訂單指數48.7%，同樣有所回落。生產指數49.8%，較上月下降1.9個百分點，生產活動總體基本平穩。\n\n價格方面，製造業原材料購進價格、出廠價格漲勢放緩。購進價格指數56.8%，環比回落4個百分點；出廠價格指數51.7%，回落2.3個百分點。兩項指數雖有回落，但仍高於去年同期，工業品價格整體處在偏高水平。"
+    },
+    {
+      "id": "mkt:01a18f94-299d-7ee0-aa16-bb746f1c96e2",
+      "time": "2026-10-31 09:30:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Official Manufacturing PMI (Oct) | actual 49.3 | consensus 50 | previous 50.1"
+    },
     {
       "id": "5184200",
       "time": "2026-10-31 09:28:32",
