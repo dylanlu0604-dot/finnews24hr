@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-31 22:30:40",
-  "count": 13155,
+  "updated": "2026-10-31 22:34:41",
+  "count": 13158,
   "items": [
+    {
+      "id": "mkt:01a19261-85b9-7ee0-aa19-f9293f81af15",
+      "time": "2026-10-31 22:33:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Merchants Energy Shipping names first QatarEnergy Phase II LNG carrier LEKHRAIB in South Korea】China Merchants Energy Shipping said the naming ceremony for the first-of-class LNG carrier for the QatarEnergy Phase II project, LEKHRAIB, was held Oct. 28-29 on Geoje Island and in Busan. LEKHRAIB is the first of six 174,000-cbm LNG carriers ordered from Samsung Heavy Industries under the Phase II programme and is the first joint project between China Merchants and Samsung Heavy. After delivery the vessel will provide long-term LNG transport services to QatarEnergy."
+    },
+    {
+      "id": "5184754",
+      "time": "2026-10-31 22:33:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安：BTC、ETH、USDT、BNB、SOL、USDC、XRP、USD1、RLUSD以及ZEC全部實現100%足額儲備。"
+    },
+    {
+      "id": "5184753",
+      "time": "2026-10-31 22:33:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄武裝力量對敖德薩以南37公里處一處海上通道實施打擊，一艘向烏克蘭武裝部隊運送補給物資的乾貨船被擊中。"
+    },
+    {
+      "id": "5184752",
+      "time": "2026-10-31 22:32:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安：已補足駭客被盜損失中90%的受影響金額。"
+    },
     {
       "id": "5184742",
       "time": "2026-10-31 22:27:16",
@@ -119869,15 +119901,6 @@
         "AZN.O"
       ],
       "text": "【Amgen drug with AstraZeneca immunotherapy substantially extends survival in extensive‑stage small‑cell lung cancer】Conference data published Saturday show Amgen’s Imdelltra combined with AstraZeneca’s Imfinzi cut the risk of death by 58% versus Imfinzi alone in extensive‑stage small‑cell lung cancer. Median overall survival was 21.1 months for the combo versus 12.7 months for Imfinzi monotherapy. Imfinzi is currently the post‑chemotherapy standard for patients without progression after first‑line chemo. Amgen CMO Paul Burton said earlier use of Imdelltra produced greater clinical benefit and called the result unprecedented for advancing treatment in this indication."
-    },
-    {
-      "id": "5166409",
-      "time": "2026-10-24 22:33:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【安進藥物聯合免疫療法在肺癌臨床試驗中延長了患者生存期】根據週六在一次醫學會議上公佈的研究資料，安進公司（Amgen）的藥物Imdelltra與阿斯利康免疫療法Imfinzi聯合使用，與僅使用阿斯利康藥物相比，可將廣泛期小細胞肺癌患者的死亡風險降低58%。對於這種極具侵襲性且難以治療的疾病，若患者在初始化療後病情未惡化，Imfinzi目前是化療後的標準治療方案。研究發現，同時接受兩種藥物治療的患者中位生存期為21.1個月，而僅接受Imfinzi治療的患者中位生存期為12.7個月。“如果越早使用Imdelltra，臨床獲益就越大，”總部位於加利福尼亞州的安進公司首席醫療官伯頓（Paul Burton）表示。他稱這一結果“在推進廣泛期小細胞肺癌治療方面是史無前例的”。"
     }
   ]
 }

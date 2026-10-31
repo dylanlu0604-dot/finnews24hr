@@ -1,7 +1,39 @@
 {
   "date": "2026-10-31",
-  "count": 952,
+  "count": 956,
   "items": [
+    {
+      "id": "mkt:01a19261-85b9-7ee0-aa19-f9293f81af15",
+      "time": "2026-10-31 22:33:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Merchants Energy Shipping names first QatarEnergy Phase II LNG carrier LEKHRAIB in South Korea】China Merchants Energy Shipping said the naming ceremony for the first-of-class LNG carrier for the QatarEnergy Phase II project, LEKHRAIB, was held Oct. 28-29 on Geoje Island and in Busan. LEKHRAIB is the first of six 174,000-cbm LNG carriers ordered from Samsung Heavy Industries under the Phase II programme and is the first joint project between China Merchants and Samsung Heavy. After delivery the vessel will provide long-term LNG transport services to QatarEnergy."
+    },
+    {
+      "id": "5184754",
+      "time": "2026-10-31 22:33:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安：BTC、ETH、USDT、BNB、SOL、USDC、XRP、USD1、RLUSD以及ZEC全部實現100%足額儲備。"
+    },
+    {
+      "id": "5184753",
+      "time": "2026-10-31 22:33:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄武裝力量對敖德薩以南37公里處一處海上通道實施打擊，一艘向烏克蘭武裝部隊運送補給物資的乾貨船被擊中。"
+    },
+    {
+      "id": "5184752",
+      "time": "2026-10-31 22:32:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安：已補足駭客被盜損失中90%的受影響金額。"
+    },
     {
       "id": "5184742",
       "time": "2026-10-31 22:27:16",
