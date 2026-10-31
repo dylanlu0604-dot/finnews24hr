@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-31 21:43:23",
-  "count": 13168,
+  "updated": "2026-10-31 21:47:16",
+  "count": 13165,
   "items": [
+    {
+      "id": "mkt:01a19235-0c5e-7ee0-aa19-c65936b61ca1",
+      "time": "2026-10-31 21:45:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran FM: No current plans to meet US officials】Iranian Foreign Minister Araghchi said on the 31st that Iran has no current plans to meet US officials after senior-level review of a letter from US Vice President Vance. He called the letter a constructive step but warned that if its aim is to sow division in Iran it would be a mistake. Araghchi said speculation about meetings is media hype and that Iran sees no need to meet unless the US accepts Iran’s conditions; mediators are still negotiating those conditions in Doha, where an Iranian delegation and the deputy foreign minister are continuing talks. If the US announces agreement to Iran’s conditions, Iran will decide whether negotiations proceed directly or indirectly."
+    },
     {
       "id": "5184685",
       "time": "2026-10-31 21:41:10",
@@ -119965,46 +119973,6 @@
         "MKT News"
       ],
       "text": "【Starlink service restored; Zelenskiy thanks US president】Ukrainian President Zelenskiy said Starlink and Starshield service speeds have been restored to pre-restriction levels. Restoration began last night and, as of this morning, speeds fully meet operational demand. He said the recovery is critical for frontline logistics and for defending against Shahed jet drones. Zelenskiy thanked the US president, the State Department, members of Congress and other partners for their assistance."
-    },
-    {
-      "id": "mkt:01a16e28-2425-7ee0-a964-be514a722c9e",
-      "time": "2026-10-24 21:44:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "The US updated travel advisories for Gulf states and several Middle Eastern countries, including Saudi Arabia, Qatar, the UAE, Iraq, Lebanon and Israel, citing an increased threat of aggression from Houthi forces in the region."
-    },
-    {
-      "id": "5166326",
-      "time": "2026-10-24 21:44:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國更新對海灣和中東地區的旅行建議，涉及沙烏地阿拉伯、卡達、阿聯酋、伊拉克、黎巴嫩和以色列，理由是“胡塞武裝在該地區活動加劇的威脅”。"
-    },
-    {
-      "id": "mkt:01a16e27-aab1-7ee0-a964-b36ca7d9357e",
-      "time": "2026-10-24 21:44:15",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Houthis: Saudi-led airstrikes on Sanaa and Mocha cause multiple casualties】Yemen’s Houthi movement said on the 24th Saudi-led coalition airstrikes struck the capital Sanaa and the Red Sea port of Mocha in Taiz province, causing multiple casualties. A house in Asr in western Sanaa was hit, killing three and wounding others, and a cement plant in Hamdan northwest of Sanaa was struck with casualties. Mocha, near the strategic Bab al-Mandeb strait, was hit nearly 20 times since morning. The Saudi-led coalition had not responded to the strikes; earlier the coalition spokesman Turki al-Maliki said it intercepted and destroyed a ballistic missile fired by the Houthis toward Riyadh."
-    },
-    {
-      "id": "mkt:01a16e27-4751-7ee0-a964-aa536b00b273",
-      "time": "2026-10-24 21:43:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump backs Netanyahu but advisers weigh alternate Israeli partners】US President Trump has voiced support for Benjamin Netanyahu ahead of next Tuesday’s Israeli election, but several senior advisers are privately exploring other Israeli leaders as potential partners if Netanyahu is replaced, US officials told Axios. Over the past six months advisers including US envoy Witkoff and Kushner have been frustrated by Netanyahu’s reluctance to advance the president’s peace plan; Trump envoy Tom Barrack has expressed concerns about Netanyahu’s stance toward Damascus and Israel’s continued military operations in Syria. Some US officials said a government without Netanyahu’s far-right allies would be easier for Washington to work with and could still allow Trump’s Middle East agenda to progress."
     }
   ]
 }

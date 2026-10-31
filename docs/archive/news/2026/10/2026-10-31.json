@@ -1,7 +1,15 @@
 {
   "date": "2026-10-31",
-  "count": 936,
+  "count": 937,
   "items": [
+    {
+      "id": "mkt:01a19235-0c5e-7ee0-aa19-c65936b61ca1",
+      "time": "2026-10-31 21:45:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran FM: No current plans to meet US officials】Iranian Foreign Minister Araghchi said on the 31st that Iran has no current plans to meet US officials after senior-level review of a letter from US Vice President Vance. He called the letter a constructive step but warned that if its aim is to sow division in Iran it would be a mistake. Araghchi said speculation about meetings is media hype and that Iran sees no need to meet unless the US accepts Iran’s conditions; mediators are still negotiating those conditions in Doha, where an Iranian delegation and the deputy foreign minister are continuing talks. If the US announces agreement to Iran’s conditions, Iran will decide whether negotiations proceed directly or indirectly."
+    },
     {
       "id": "5184685",
       "time": "2026-10-31 21:41:10",
