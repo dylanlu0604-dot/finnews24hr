@@ -1,7 +1,285 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-11-01 03:17:32_
-_本檔包含 2822 則快訊，約 484862 字_
+_更新時間：2026-11-01 06:21:28_
+_本檔包含 2790 則快訊，約 483179 字_
+
+---
+
+### 2026-10-29 10:46:08  #觀點 #央行 #國際 #原創
+
+【安本預計美聯儲或將在12月和3月加息】安本投資表示，美聯儲主席凱文·沃什在最新一次政策會議上仍然對美國經濟持樂觀態度，但也重申通脹仍然過高。“我們仍預期美聯儲將在12月和3月進一步加息，利率終點將達到4.25%-4.50%，我們認為這更像是預防性加息，而不是對通脹高企而採取的激進的壓制需求的措施，”安本投資新興市場經濟學家Michael Langham在一份報告中寫道。“美國中期選舉對改變這種短期前景的影響不大”。安本投資的核心預期是，在中期選舉中，民主黨應該會同時拿下眾議院和參議院，儘管參議院的選情料將十分膠著。更廣泛地說，安本投資認為中期選舉不會限制美國對伊朗再次發動打擊。
+
+---
+
+### 2026-10-29 10:45:55  #其他
+
+【重慶：到2030年建成先進製造業中心和產業創新中心】10月28日，重慶市政府新聞辦舉行“開局起步十五五·建設現代化新重慶”系列新聞釋出會，聚焦“加快推進新型工業化，高質量建設製造強市”主題。會上，市經濟資訊委主任王志傑公佈重慶市製造業“十五五”時期發展“施工圖”：依託“十四五”時期全市工業總量突破3萬億元、製造業高質量發展指數位列西部第一的基本盤，未來5年力爭規上工業增加值年均增長6%，製造業增加值佔GDP比重穩定在25%，以智慧化、綠色化、融合化為主攻方向，做強“33618”現代製造業叢集體系，到2030年基本建成具有國際競爭力的先進製造業中心和具有全國影響力的產業創新中心。到2030年，力爭整車年產量突破380萬輛，其中新能源汽車產量250萬輛；計算機、手機產值分別穩定在3000億元、1000億元以上；特色工藝積體電路產值突破1000億元；機器人產業產值突破1000億元。力爭未來5年內建立百億級領軍鏈主企業40家，製造業單項冠軍、專精特新“小巨人”企業超600家，獨角獸、瞪羚企業數量實現倍增。
+
+---
+
+### 2026-10-29 10:45:22  #其他
+
+澳門 行政長官岑浩輝11月16日下午3點在立法會發表2027年施政報告。
+
+---
+
+### 2026-10-29 10:44:22  #市場 #央行 #國際
+
+【光大期貨：美聯儲按兵不動但鷹氣未散，黃金窄幅震盪】值得拆解的是沃什在釋出會上的姿態。他明確拒絕提供前瞻性指引，稱“不要預設會議結果”，除非發生危機，市場不應過度依賴美聯儲的前瞻指引。與此同時，他宣佈從2027年起減少FOMC利率決議會議次數，將部分會議專門用於討論長期貨幣政策戰略，不再進行利率投票、也不釋出政策宣告。政策宣告對經濟的評估從9月的“穩健擴張”上調為 “強勁擴張” ，同時維持“通脹仍處高位”的判斷，刪除了此前“本次行動將支援通脹及時迴歸2%目標”的表述，替換為“更多資訊的積累將有助於確定適當立場”。 這一組合對黃金的含義是：短期利空鈍化，但中期約束並未解除。不加息本身是已知資訊，金價在決議前的下跌已經部分定價了這一結果，所以決議落地後沒有出現恐慌性拋售。但沃什拒絕給出任何路徑指引，疊加兩名委員公開主張立即加息、12月加息機率仍被交易員押在80%的高位，意味著利率“更高更久”的預期並沒有被削弱，。對於無息資產黃金而言，10年期美債收益率站穩5%上方、實際利率維持高位，持有成本這條最核心的壓制邏輯或依然存在。（光大期貨）
+
+---
+
+### 2026-10-29 10:44:05  #其他
+
+【多隻衛星ETF漲超2%】衛星ETF富國（563230）、 衛星ETF廣發（512630）、 衛星ETF易方達（563530）等多隻衛星ETF漲超2%，ETF漲幅榜前10中有7只是衛星ETF。
+
+---
+
+### 2026-10-29 10:43:24  #市場
+
+30年期美債收益率下跌5個基點，報5.311%。
+
+---
+
+### 2026-10-29 10:42:17  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 10-year Treasury yield fell 6 bps to 4.984%.
+
+---
+
+### 2026-10-29 10:42:12  #公司
+
+【矩僑工業完成億元A輪融資，螞蟻集團領投】10月29日，據多維資本訊息，矩僑工業近日宣佈完成億元A輪融資，由螞蟻集團領投，零以創投、威海港融和青島和信作為老股東繼續加註，多維資本擔任長期獨家財務顧問。公司將藉助本輪融資擴大織物電子皮膚的生產與交付，推進觸覺及多模態技術研發，並加快機器人、家居和康養產品的應用拓展。
+
+---
+
+### 2026-10-29 10:41:51  #公司
+
+據港交所檔案：成都國星宇航科技股份有限公司透過港交所上市聆訊。
+
+---
+
+### 2026-10-29 10:41:48  #MKT News
+
+HKEX filing: Chengdu Guoxing Aerospace Technology Co. passed its HKEX listing hearing.
+
+---
+
+### 2026-10-29 10:41:21  #市場 #國際
+
+美國10年期國債收益率最新下跌6個基點，至4.984%。
+
+---
+
+### 2026-10-29 10:40:27  #MKT News
+
+【Xinhecheng preparing filings for glufosinate-ammonium project】In an online investor meeting Xinhecheng said it is pursuing a glufosinate-ammonium project to capture supply-chain synergies and expand its crop-protection portfolio. The refined glufosinate project has received environmental impact assessment (EIA) approval and the company is preparing project-approval filings. Timing and scale of large-scale production investment will be determined based on company strategy and market conditions.
+
+---
+
+### 2026-10-29 10:40:20  #公司
+
+【橫店東磁投資成立新能源科技公司】企查查APP顯示，近日，浙江東磁新能源科技有限公司成立，經營範圍包含新興能源技術研發；電池製造；電池銷售；新材料技術研發等。企查查股權穿透顯示，該公司由橫店東磁全資持股。
+
+---
+
+### 2026-10-29 10:40:10  #市場
+
+【主力資金：天孚通訊淨賣出超16億】截至目前，今日主力資金淨流出373.72億；淨流入衛星導航、航天裝備概念、軍民融合等板塊，其中衛星導航板塊淨流入16.60億；淨流出融資融券、轉融券標的、TMT等板塊，其中融資融券板塊淨流出355.57億。
+  
+個股方面，中國衛星淨買入3.80億元位居首位，鈞達股份、順灝股份、西部材料主力資金淨流入居前；天孚通訊淨賣出16.93億元位居首位，新易盛、滬電股份、佰維儲存淨流出額居前。
+
+---
+
+### 2026-10-29 10:40:01  #公司
+
+【新和成：目前正在進行草銨膦立項準備工作】新和成(002001)10月28日在與投資者的線上會議中表示，公司佈局草銨膦專案主要考慮產業鏈的協同性，公司積極關注植保。精草銨膦專案目前已獲環評審批，目前正在進行草銨膦立項準備工作，大生產投建計劃需結合公司戰略及市場情況確定。
+
+---
+
+### 2026-10-29 10:39:49  #MKT News #Macro & Rates #Treasury Yields #XAUUSD #Impact bullish #DXY #Impact bearish #S&P500
+
+US two-year Treasury yield fell 5.8 bps to 4.676%.
+
+---
+
+### 2026-10-29 10:39:39  #公司 #市場
+
+【冰雪經濟概念異動拉昇 冰山冷熱直線漲停】冰雪經濟概念異動拉昇，冰山冷熱直線漲停，龍江交通回封漲停，晶雪節能、雪人集團、長白山、大連聖亞跟漲。
+
+---
+
+### 2026-10-29 10:39:31  #其他
+
+木原稔：不便透露日德GCAP會談的任何細節。
+
+---
+
+### 2026-10-29 10:39:04  #市場 #央行 #國際
+
+【香港金管局回應美聯儲利率決定】香港金融管理局在一份宣告中表示，由於港元兌美元利率差持續存在，套利交易活動可能導致港元逐步走軟。港元及銀行間利率前景取決於風險偏好、資本市場及季節性因素。香港的貨幣及金融市場繼續有序運作。美國利率調整存在相當大的不確定性。香港金融管理局敦促市民謹慎管理房地產、投資和借貸方面的利率風險。
+
+---
+
+### 2026-10-29 10:38:42  #MKT News #Market Themes #Chip Wars #688256.SS #Impact bearish
+
+Cambricon fell more than 5%; turnover exceeded 3.7 bln yuan.
+
+---
+
+### 2026-10-29 10:38:22  #MKT News
+
+【Ministry of Agriculture and Rural Affairs: 'national agricultural reinvestment special support loan' and 'three‑dimensional AI shrimp‑farming' financing projects and special funds do not exist】On the 29th the Ministry of Agriculture and Rural Affairs issued a risk alert saying it has no financing projects or special investment funds such as a national agricultural reinvestment special support loan or a "three‑dimensional AI shrimp‑farming" special fund. The ministry warned against fraudsters falsely claiming they can submit ministry project applications or secure large special support funds and demanding upfront fees such as handling, inspection, documentation or site‑visit fees.
+
+---
+
+### 2026-10-29 10:36:49  #MKT News #005930.KS #Impact bearish #MU.O #Impact bullish #000660.KS
+
+【Samsung delays shareholder-return plan, shares slide】Samsung Electronics said it will announce details of a shareholder-return plan at the end of January, a delay that helped wipe out earlier gains and sent the stock down as much as 6.6%. The absence of immediate payout measures in the results disappointed investors. The move contrasts with SK Hynix, which on Wednesday posted strong results and unveiled about $45 bln of additional shareholder returns. Weaker-than-expected profitability in Samsung’s chip unit and a roughly 60% increase in capital expenditure this year also weighed on sentiment, leaving uncertainty over how much cash will be directed to investors versus new capacity. Analysts said the postponement is disappointing and could prompt short-term rotation into peers with clearer return plans, such as SK Hynix or Micron.
+
+---
+
+### 2026-10-29 10:35:49  #其他
+
+【歐陽明高：2030年中國鋰離子電池出貨量預計翻倍】10月28日， 中國科學院院士、清華大學教授歐陽明高在第三十三屆中國汽車工程學會年會暨展覽會（SAECCE 2026）“先進動力電池技術創新主論壇”上指出，2025年中國鋰離子電池出貨量是1875GWh，到2030年預計將近翻一倍。 歐陽明高強調，高比能量電池將從液態三元走向固液混合和全固態，而以磷酸鐵鋰為代表的低成本、高安全、長壽命路線在動力電池和儲能電池領域仍將主導整個鋰離子電池行業。（中國經營報）
+
+---
+
+### 2026-10-29 10:35:37  #市場
+
+上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報96900元/噸，較上日16:30價格下跌2000元/噸。
+
+---
+
+### 2026-10-29 10:34:23  #其他
+
+【阿維塔新車線上釋出會取消 售價及配置今晚公佈】日前，阿維塔官方宣佈“取消新車線上釋出會”。 阿維塔表示：“原定於10月29日舉行的阿維塔07L Max純電版線上釋出會，決定取消。釋出會可以不辦，但產品的誠意不能少。” 阿維塔稱：“為了讓阿維塔07L Max純電版以更有誠意的價格與大家見面，我們在產品配置、使用者需求與價格之間，進行了多輪討論和反覆權衡。新品釋出計劃不變，產品資訊不藏。” 阿維塔還表示：“今晚18:30，阿維塔07L Max純電版將如期公佈正式售價、產品配置及上市權益。同時，我們也將公開一段內部會議影片，帶大家看看這次上市決策背後的故事。”
+
+---
+
+### 2026-10-29 10:33:43  #MKT News #Important #Market Regions #Greater China #601939.SS #Impact bullish #601398.SS #601088.SS
+
+【China's four largest state banks' combined market value tops 10 tln yuan intraday, a record high】China's banking index rose more than 1%, hitting a fresh high. Qingdao Bank jumped over 7%; Chengdu Bank and Qilu Bank gained more than 4%. The four largest state-owned banks all advanced; Industrial and Commercial Bank of China rose over 2% to a record market cap. Combined market value of ICBC, China Construction Bank, Agricultural Bank of China and Bank of China exceeded 10 tln yuan intraday, a record. Individual market caps: ICBC >3.12 tln yuan, CCB >3.13 tln yuan, ABC >2.6 tln yuan, BOC >2.3 tln yuan.
+
+---
+
+### 2026-10-29 10:33:16  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+【US may resume military action against Iran; oil re-prices Middle East supply-risk premium】West Texas Intermediate traded near $101.20/bbl in Asian morning trade on Thursday as markets repriced the risk of further Middle East supply disruption. BOK Financial senior trading vice president Dennis Kissler said reports the US may soon resume military action have prompted futures to price near-term tightening; given recent attacks on Saudi Arabia and other regional allies any new operation could be more intense than previous actions. TD Securities expects oil to remain supported in the near term, citing elevated escalation risk ahead of Israeli and US midterm elections. Analysts said recent Houthi attacks have lifted the geopolitical risk premium and Iranian strikes on tankers appear to have reduced some flows through the Strait of Hormuz.
+
+---
+
+### 2026-10-29 10:32:28  #公司
+
+越南政府：政府在越南投資發展銀行（BIDV）的持股比例為 76.73%，在越南外貿股份商業銀行（VIETCOMBANK）的持股比例為 74.80%，在越南投資發展銀行（VIETINBANK）的持股比例為 64.46%。
+
+---
+
+### 2026-10-29 10:32:23  #公司 #觀點
+
+【國金證券：數採行業處於探索早期階段 核心圍繞邊界的調整和資產的升級】國金證券釋出研報稱，數採服務是整個資料採集產業訂單可見度最高，現金流最穩定的環節，龍頭公司將持續受益於供需缺口的放大和路線收斂帶來的格局集中。短期關注具備訂單、產能和交付能力的數採服務商，中長期優選能夠將資料處理平臺化，並向模型評測、後訓練及部署迴流延伸的公司。重點關注三類公司：(1)擁有傳統AI資料服務經驗的傳統龍頭;(2)以模擬資產為底座，構建軟硬體一體平臺的模擬龍頭;(3)佈局“資料—模擬—訓練—遷移—場景”閉環的全流程平臺。
+
+---
+
+### 2026-10-29 10:32:18  #市場 #國際
+
+美國股指期貨進一步下跌；標普500指數期貨下跌0.5%，納斯達克期貨下跌1.6%。
+
+---
+
+### 2026-10-29 10:32:12  #其他
+
+香港金管局表示，港元與美元之間的利率差依然存在。
+
+---
+
+### 2026-10-29 10:32:03  #央行 #國際
+
+香港金管局回應美聯儲利率決定，提醒公眾管理利率風險。
+
+---
+
+### 2026-10-29 10:31:54  #觀點
+
+【中泰證券：鐳射雕刻新興賽道加速成長 國產智造引領出海 】中泰證券釋出研報稱，全球消費級鐳射雕刻市場已進入加速滲透期，年複合增長率達到21.0%，成為鐳射產業從工業向消費端延伸的核心增量賽道。這一增長是供給端國產化突破與需求端場景擴容形成的雙向共振。上游鐳射器、振鏡是產業鏈的核心價值所在。消費級鐳射雕刻下游市場已形成“頭部引領+多元競爭”的清晰格局。
+
+---
+
+### 2026-10-29 10:31:20  #市場 #焦點
+
+碳酸鋰連續主力合約日內跌6%，現報90640.00元。
+
+---
+
+### 2026-10-29 10:31:15  #其他
+
+薩爾瓦多總統府表示，薩爾瓦多總統布克爾與海地總理菲爾斯-艾梅通了電話。
+
+---
+
+### 2026-10-29 10:30:57  #MKT News #Market Regions #Greater China #600118.SS #Impact bullish
+
+A-share commercial aerospace sector remained active; China Satellite, Shanghai Hugong, Feiwo Technology, Aerospace Chenguang and Shanghai Gangwan advanced.
+
+---
+
+### 2026-10-29 10:30:43  #其他
+
+騰訊湯道生：騰訊計劃進一步聚焦面向企業的AI業務。
+
+---
+
+### 2026-10-29 10:30:00  #國際 #原創
+
+【美國南卡羅來納州核設施發生火災，一人受傷】美國能源部發言人表示，當地時間週三，南卡羅來納州的一處設施發生火災，造成一人受輕傷。該設施在冷戰時期曾負責生產用於核武器的鈽和氚。該發言人援引“薩凡納河基地”（Savannah River Site）相關負責人的話稱，火勢已被撲滅，目前尚未收到任何汙染報告。該發言人還透露，受傷者為一名員工，已被送往醫院接受治療。“薩凡納河基地”方面並未說明此次火災的起因。
+
+---
+
+### 2026-10-29 10:29:20  #市場
+
+【航天系概念震盪反彈，航天晨光、中國衛星雙雙漲停】航天系概念震盪反彈，航天晨光、中國衛星雙雙漲停，航天智裝、中天火箭、中國衛通、航天發展、航天電子等跟漲。
+
+---
+
+### 2026-10-29 10:28:58  #公司
+
+越南政府：計劃到2030年將越南橡膠集團的國有持股比例從96.77%降至75%。
+
+---
+
+### 2026-10-29 10:28:48  #其他
+
+越南政府：計劃到 2030 年將越南航空的國有持股比例從 39.29% 提高至 86.42%。
+
+---
+
+### 2026-10-29 10:28:40  #國際
+
+日本內閣官房長官木原稔：難以說明各類網路攻擊對GDP影響的具體細節。
+
+---
+
+### 2026-10-29 10:27:19  #國際
+
+道達爾能源收購了雪佛龍在美國近海26個區塊中25%的權益。
+
+---
+
+### 2026-10-29 10:27:08  #其他
+
+道達爾能源進入由雪佛龍運營的26個海上區塊。
+
+---
+
+### 2026-10-29 10:26:49  #MKT News
+
+【Zhiyuan Robotics 1H2026 revenue near 2 bln yuan; general AI robot production 20,000 units】At its 2026 Innovation Day, co-founder, president and CTO Peng Zhihui said Zhiyuan Robotics' 1H2026 revenue was close to 2 bln yuan and cumulative production of its general AI robots reached 20,000 units.
+
+---
+
+### 2026-10-29 10:25:45  #市場 #國際
+
+【機構預測本輪油價或將上調】國內成品油新一輪調價視窗將在10月29日24時開啟。多家機構預測，本輪油價或將上調。本輪計價週期為2026年10月15日24時至10月29日24時。隆眾資訊分析師劉炳娟稱，近期中東局勢整體偏緊，美伊博弈僵持，胡塞武裝襲擾沙特，地緣風險短期難以消解，為油價提供較強底部支撐。劉炳娟指出，國際原油維持高位執行，布倫特穩居100美元/桶以上的高區間執行。受此影響，本輪計價週期對應的國內原油變化率持續正向擴大，對應上調幅度不斷放大。金聯創分析師徐鵬也認為，本輪成品油計價週期，國際原油受中東地緣風險驅動持續走強，原油變化率正向發展，國內成品油上調預期幅度不斷擴大。今年以來，國內油價已經歷20輪調價，總體格局為“十三漲五跌二擱淺”。若本輪調價如預期上調，2026年的調價格局將變為“十四漲五跌二擱淺”。（中新經緯）
 
 ---
 
@@ -16559,473 +16837,5 @@ Australia Q3 Inflation Steady at 3.9% — Australia’s annual inflation rate st
 ### 2026-10-28 08:43:17  #MKT News
 
 【Ziguang Guowei: Q1–Q3 commercial space unit met 3% revenue-share target】Ziguang Guowei said at an Oct. 27 results briefing it has completed product deployment in commercial space. With intensive launches of first- and second-generation Guowang satellites, related business volumes are expected to be gradually released. Commercial-space revenue in the first three quarters exceeded 100 million yuan, achieving the company’s 3% revenue-share target; the firm said it hopes the segment will continue to grow.
-
----
-
-### 2026-10-28 08:42:57  #公司
-
-【瑞德智慧：智慧眼鏡專案已啟動試生產】瑞德智慧(301135)10月28日在互動平臺表示，公司智慧化相關產品已在智慧家居、智慧硬體等場景實現量產，具備批次供貨能力；智慧語音互動方案已在智慧床場景落地，併為桌面智慧終端提供整合自研演算法的核心控制器，相關產品已實現量產落地，另有部分核心部件已進入客戶送樣測試，智慧眼鏡專案已啟動試生產。
-
----
-
-### 2026-10-28 08:42:48  #公司
-
-永恆策略投資有限公司在香港暫停交易。
-
----
-
-### 2026-10-28 08:42:41  #MKT News #Market Themes #Chip Wars #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O): DRAM and HBM capacity through 2029 fully sold out.
-
----
-
-### 2026-10-28 08:42:27  #公司
-
-【紫光國微：前三季度商業航天業務3%的收入佔比目標已達成】紫光國微(002049)10月27日在業績說明會上表示，在商業航天領域，公司已完成產品佈局。隨著國網一代、二代衛星密集發射，相關業務增量將逐步釋放。前三季度公司的商業航天業務營業收入已突破億元，3%的收入佔比目標已經達成，未來希望持續增長。
-
----
-
-### 2026-10-28 08:42:24  #其他
-
-【鄭州掛牌3宗工業用地，工程建設投資總額合計超7.65億元】10月28日，鄭州掛牌3宗工業用地，工程建設投資總額合計不低於7.65億元。鄭政東出〔2026〕12號地塊位於鄭東新區明德街北、夏莊街西，使用權面積25955.79平方米，起始價5900萬元，要求工程建設投資總額不低於29820萬元；鄭政東出〔2026〕13號地塊位於鄭東新區平安大道南、中道西路東，使用權面積4008.51平方米，起始價930萬元，要求工程建設投資總額不低於8446萬元；鄭政出〔2026〕33號地塊位於鄭州市恆春路南、梨源路（立冬路）東，使用權面積39300.01平方米，起始價2651萬元，要求工程建設投資總額不低於38319萬元。（大河財立方）
-
----
-
-### 2026-10-28 08:42:10  #其他
-
-SK海力士：DRAM和HBM產能已全部售罄至2029年。
-
----
-
-### 2026-10-28 08:41:55  #公司
-
-【上海電氣與萬華化學深化產業鏈協同與綠色能源合作】據上海電氣訊息，10月27日，上海電氣集團黨委書記、董事長吳磊一行拜訪萬華化學集團股份有限公司（簡稱“萬華化學”），與萬華化學黨委書記、董事長廖增太舉行會談。雙方就深化產業鏈協同、推動綠色能源與高階製造融合發展等方面達成廣泛共識。
-
----
-
-### 2026-10-28 08:40:46  #公司
-
-SK海力士：公司股價被低估。
-
----
-
-### 2026-10-28 08:40:33  #Trading Economics #Economy #Australia #Inflation Rate #Importance 3
-
-Australia Inflation Rate Hits 6-Month High — Australia’s annual inflation rate accelerated to 4.3% in September 2026 from 4.0% in August, above market expectations of 4.2%, marking the highest rate since March. The reading also moved further above the central bank’s 2–3% target range. Transport inflation accelerated to a six-month high of 8.7% from 5.6%, driven by higher automotive fuel prices amid rising global oil prices. Meanwhile, inflation for food and non-alcoholic beverages accelerated to 3.2% from 3.0%.
-
----
-
-### 2026-10-28 08:39:52  #MKT News #DXY #Impact bearish
-
-RBA deputy governor Hauser said CPI was in line with expectations but remains too high.
-
----
-
-### 2026-10-28 08:39:28  #MKT News #Important #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O): shares undervalued.
-
----
-
-### 2026-10-28 08:39:16  #資料 #央行
-
-澳洲聯儲副主席豪瑟：CPI資料基本符合市場預期。
-
----
-
-### 2026-10-28 08:39:06  #資料 #央行
-
-澳洲聯儲副主席豪瑟： 今日CPI資料過高。
-
----
-
-### 2026-10-28 08:38:27  #公司 #觀點
-
-【中信證券：看好具備SOTA能力溢價的頭部模型廠商及AI基建、AI應用的投資機會】中信證券研報表示，Anthropic上市將為AI產業提供關鍵錨點。與此前釋出的Anthropic深度報告相比，公司模型能力再上臺階，但市場對競爭格局與商業化節奏的分歧有所加大。招股書首次較完整披露了前沿模型公司的收入結構、費用結構與算力承諾：26Q2算力費用率降至48%、調整後經營利潤率19%，披露口徑下算力相關承諾合計約8500億美元，驗證了頭部模型廠商在算力約束下實現規模化盈利的可能，有望降低市場對AI投入產出的分歧，併為OpenAI等前沿實驗室的後續上市提供定價參照。看好具備SOTA能力溢價的頭部模型廠商及AI基建、AI應用的投資機會，後續重點跟蹤商業化產品形態、模型廠商競爭格局演變、算力承諾兌現節奏及收入利潤增長曲線。
-
----
-
-### 2026-10-28 08:37:58  #國際
-
-日本財務大臣片山皋月：正以高度警惕密切關注市場趨勢。
-
----
-
-### 2026-10-28 08:36:42  #MKT News #Market Regions #Wall Street (US) #JPM.O #Impact bullish #C.O
-
-Market sources: ANTHROPIC has tapped JP Morgan to lead the U.S. retail allocation of its IPO and CITIGROUP to handle the international retail allocation. ANTHROPIC is considering offering 15-20% of the IPO to retail investors.
-
----
-
-### 2026-10-28 08:36:13  #其他
-
-村田製作所與埃森哲簽署為期三年的戰略合作協議。
-
----
-
-### 2026-10-28 08:35:38  #MKT News #Commodities #Energy #AUDUSD #Impact bullish #WTI
-
-【RBA Governor Bullock: next week's meeting will assess if four hikes this year can return inflation to target】Reserve Bank of Australia Governor Bullock said on Wednesday the RBA will use next week’s policy meeting to assess whether four rate increases this year are sufficient to return inflation to target within a reasonable time. He warned a fresh, sharp rise in oil and related product prices will materially lift inflation and said the key question is whether tightening to date will be enough to achieve that return in a reasonable timeframe.
-
----
-
-### 2026-10-28 08:35:30  #公司 #國際
-
-【以色列大選難分勝負 組閣前景充滿挑戰】以色列自2023年遭遇哈馬斯襲擊以來首次舉行大選，現任總理本雅明·內塔尼亞胡與反對派領導人加迪·埃森科特勢均力敵，組閣前景勢將充滿挑戰。當地時間週二晚間投票結束後公佈的兩項出口民調顯示，內塔尼亞胡領導的右翼聯盟與埃森科特陣營均有望在以色列議會120個席位中獲得51席。第三項出口民調則顯示內塔尼亞胡略微領先，此前該民調一度顯示埃森科特領先。這意味著雙方都達不到成為下一任總理所需的多數席位門檻。如果不進行第二次投票，雙方都將難以組建執政聯盟。計票工作仍在進行，最終結果可能發生變化。內塔尼亞胡領導的利庫德集團料將成為議會第一大黨，而埃森科特領導的正直黨排名第二。出口民調顯示，可能成為組閣關鍵力量的兩個以色列阿拉伯政黨預計將獲得18席，高於預期。這兩個政黨都表示會在一定程度上支援埃森科特。
-
----
-
-### 2026-10-28 08:34:20  #MKT News #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O) says structural chip supply-demand imbalance will persist in the near term.
-
----
-
-### 2026-10-28 08:34:00  #公司 #觀點
-
-【華泰證券：AI大廠加碼具身大腦，數採與硬體環節有望率先受益】華泰證券研報表示，機器人領域，AI大廠集中佈局具身大腦，通用模型的任務規劃與泛化能力快速提升。模型能力仍是行業核心瓶頸，但進一步突破越來越依賴真機資料，落地還需解決時延與成本，資料採集與感知、本體運控、高精度傳動環節有望率先受益。智駕領域，工信部擬規定自動駕駛系統標誌燈僅限L3及以上車輛選裝，L3責任邊界逐步明確，2027—2028年的L3准入節奏將成為車企智駕競爭的關鍵變數。投資上，聚焦具備客戶基礎和量產能力的產業鏈公司。
-
----
-
-### 2026-10-28 08:33:29  #公司
-
-Anthropic 據稱正在考慮向散戶投資者提供 15% 至 20% 的 IPO 股份。
-
----
-
-### 2026-10-28 08:33:29  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Refinitiv: U.S. spending on war with Iran tops $47.0 bln】Refinitiv review of Pentagon data shows the U.S. military has spent more than $47.0 bln to date on operations against Iran, over 25% above the Pentagon’s July estimate. Most spending went to replenishing expended ammunition (>$29.0 bln) and replacing military equipment (>$6.0 bln). The data did not include a cost estimate for repairs to U.S. bases damaged by Iranian missile and drone strikes.
-
----
-
-### 2026-10-28 08:33:04  #市場
-
-澳元擴大漲幅，第三季度通脹快於預期。
-
----
-
-### 2026-10-28 08:32:45  #公司 #觀點
-
-【中信證券：看好具備SOTA能力溢價的頭部模型廠商及AI基建、AI應用的投資機會】中信證券研報表示，Anthropic上市將為AI產業提供關鍵錨點。與此前釋出的Anthropic深度報告相比，公司模型能力再上臺階，但市場對競爭格局與商業化節奏的分歧有所加大。招股書首次較完整披露了前沿模型公司的收入結構、費用結構與算力承諾：26Q2算力費用率降至48%、調整後經營利潤率19%，披露口徑下算力相關承諾合計約8500億美元，驗證了頭部模型廠商在算力約束下實現規模化盈利的可能，有望降低市場對AI投入產出的分歧，併為OpenAI等前沿實驗室的後續上市提供定價參照。看好具備SOTA能力溢價的頭部模型廠商及AI基建、AI應用的投資機會，後續重點跟蹤商業化產品形態、模型廠商競爭格局演變、算力承諾兌現節奏及收入利潤增長曲線。(21財經)
-
----
-
-### 2026-10-28 08:32:21  #觀點 #國際
-
-Anthropic據悉選擇摩根大通牽頭其IPO的美國散戶發行部分。
-
----
-
-### 2026-10-28 08:31:46  #MKT News #Market Themes #AI Revolution #Chip Wars #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O): Major customers' AI revenue and cash flow will improve; AI investment burden on major customers will ease.
-
----
-
-### 2026-10-28 08:31:26  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O
-
-Meta Platforms (META.O) launched its Muse personal AI agent in Singapore.
-
----
-
-### 2026-10-28 08:31:25  #MKT News #AUDUSD
-
-AUD/USD briefly rose more than 10 pips to a high of 0.7053.
-
----
-
-### 2026-10-28 08:30:59  #MKT News
-
-Australia September seasonally adjusted CPI YoY 4.4% (prior 3.9%).
-
----
-
-### 2026-10-28 08:30:53  #MKT News #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-Australia seasonally adjusted September CPI MoM 0.6%, prior 0.7%.
-
----
-
-### 2026-10-28 08:30:53  #MKT News #Economic Calendar #Important
-
-Australia | Seasonally adjusted CPI YoY (Sep) | actual 4.4% | previous 3.9%
-
----
-
-### 2026-10-28 08:30:46  #MKT News #Economic Calendar #Important
-
-Australia | Seasonally adjusted CPI MoM (Sep) | actual 0.6% | previous 0.7%
-
----
-
-### 2026-10-28 08:30:36  #其他
-
-SK海力士：主要客戶的人工智慧收入和現金流將有所改善。
-
----
-
-### 2026-10-28 08:30:34  #經濟數據 #澳洲
-
-澳大利亞第三季度消費者價格環比增長1.3%，預估為1.2%。
-
----
-
-### 2026-10-28 08:30:22  #MKT News
-
-Australia Q3 CPI YoY 3.9% (consensus 3.9%, prior 4.0%).
-
----
-
-### 2026-10-28 08:30:16  #MKT News #Economic Calendar #Important
-
-Australia | CPI (YoY) (Q3) | actual 3.9% | consensus 3.9% | previous 4%
-
----
-
-### 2026-10-28 08:30:13  #資料
-
-澳大利亞9月CPI同比 4.3%，前值 4%。澳大利亞三季度截尾平均CPI同比 3.7%，前值 3.6%。
-
----
-
-### 2026-10-28 08:30:08  #MKT News #Market Regions #Japan & APAC #DXY #Impact bearish
-
-Australia September not seasonally adjusted CPI MoM 0.8% (consensus 0.7%), prior 0.4%.
-
----
-
-### 2026-10-28 08:30:07  #MKT News #Important #AUDUSD #Impact bullish
-
-Australia September unadjusted CPI YoY 4.3% (consensus 4.1%), prior 4.0%.
-
----
-
-### 2026-10-28 08:30:07  #MKT News #DXY #Impact bearish
-
-Australia Q3 CPI QoQ 1.3% vs consensus 1.2%; prior 0.6%.
-
----
-
-### 2026-10-28 08:30:00  #MKT News #Economic Calendar #Important
-
-Australia | CPI (QoQ) (Q3) | actual 1.3% | consensus 1.2% | previous 0.60%
-
----
-
-### 2026-10-28 08:30:00  #MKT News #Economic Calendar #Important
-
-Australia | CPI YoY, not seasonally adjusted (Sep) | actual 4.3% | consensus 4.1% | previous 4.00%
-
----
-
-### 2026-10-28 08:30:00  #MKT News #Economic Calendar #Important
-
-Australia | CPI MoM, not seasonally adjusted (Sep) | actual 0.8% | consensus 0.7% | previous 0.4%
-
----
-
-### 2026-10-28 08:29:57  #國際
-
-【今年前三季度中國對德國進出口1.2萬億元】據海關統計，今年前三季度，中國對德國進出口總值1.2萬億元，同比增長6.2%。9月單月進出口1461.7億元，同比增長11.3%。電工器材、電子元件、醫藥品等是主要進出口產品。2025年中國和德國貨物進出口1.51萬億元，德國繼續保持中國在歐盟最大貿易伙伴國地位。兩國產業深度融合，經貿領域合作互惠互利，為雙方企業和人民帶來實實在在利益。
-
----
-
-### 2026-10-28 08:29:54  #MKT News #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O) said it expects AI investment momentum to continue.
-
----
-
-### 2026-10-28 08:29:30  #其他
-
-SK海力士：預計人工智慧投資勢頭將持續。
-
----
-
-### 2026-10-28 08:28:57  #國際
-
-特朗普：終止甲烷排放法規。
-
----
-
-### 2026-10-28 08:28:32  #Trading Economics #Markets #Netherlands #Earnings #Importance 0
-
-ASM International NV earnings above expectations at 5.92 EUR — ASM International NV (ASM) released earnings per share at 5.92 EUR, compared to market expectations of 5.52 EUR.
-
----
-
-### 2026-10-28 08:28:29  #Trading Economics #Markets #China #Earnings #Importance 0
-
-Jiangsu Hengrui earnings above expectations at 0.37 CNY — Jiangsu Hengrui (600276) released earnings per share at 0.37 CNY, compared to market expectations of 0.36 CNY.
-
----
-
-### 2026-10-28 08:28:28  #公司 #市場
-
-【Meta 250億美元股票發行獲約5倍超額認購，計劃為AI投資籌資980億美元】10月28日，據報道，Meta發行的250億美元普通股獲得約5倍超額認購。此次發行定價為每股625美元，較發行訊息公佈前的上週五收盤價折讓2.7%。發行股份中，逾半數分配給長期投資者及現有股東，認購規模最大的15名投資者合計獲配約70%的股份。Meta還計劃發行125億美元強制可轉換優先股，並預計透過市場增發計劃融資，整體股權融資規模有望達到980億美元，用於AI基礎設施建設及個人超級智慧研發。
-
----
-
-### 2026-10-28 08:28:16  #公司 #市場 #觀點 #國際
-
-【花旗和Jefferies下調泡泡瑪特目標價 公司三季度業績不及預期】花旗稱泡泡瑪特三季度收入下滑45%-50%不及該行預期，主要因中國和亞洲的銷售低於預期。考慮到營收減弱和利潤率壓力，該行下調對該公司的盈利預測並將目標價調低至162港元。Jefferies也將泡泡瑪特目標價下調9.6%至132港元。花旗分析師Lydia Ling等在報告中指出，泡泡瑪特美國和歐洲的銷售額大致符合預期。在三季度受去年同期高基數影響後，預計公司四季度業績將環比改善。預計公司今年收入將同比下滑16%。Jefferies分析師JingJue Pei等在報告中指出，由於海外業務經營去槓桿，將公司2027-2028年的盈利預測下調9%-12%。儘管公司三季度業績疲軟，但當前風險回報已趨於均衡。泡泡瑪特今年來下跌近30%，最新收盤價為132港元。
-
----
-
-### 2026-10-28 08:27:27  #觀點
-
-花旗：下調泡泡瑪特目標價至162港元。
-
----
-
-### 2026-10-28 08:26:55  #MKT News #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-As exit polls in the Israeli election signalled a stalemate, USD/ILS rose 0.28% to 3.06 shekels per dollar.
-
----
-
-### 2026-10-28 08:26:52  #其他
-
-Jefferies：將泡泡瑪特目標價下調9.6%至132港元。
-
----
-
-### 2026-10-28 08:25:54  #觀點
-
-【華泰證券：本輪厄爾尼諾仍在增強，關注供需兌現與行業分化】華泰證券研報指出，本輪厄爾尼諾仍在增強，產業影響或延續至2027年，投資機會取決於供需變化能否轉化為企業利潤。按ONI口徑，2026年7—9月指數已達+2.2℃，本輪觀測強度已處歷史高位；同期RONI為+1.7℃，CPC於10月預測10~12月RONI中位數將升至+2.74℃，年末附近仍是主要峰值視窗。歷史經驗表明，氣候強度與資產漲幅缺乏穩定對應關係，核心產區受損程度、庫存緩衝及前期預期計入程度，才是判斷行情持續性的關鍵。本輪重點關注東南亞熱帶作物供給、高溫電力需求，以及2027年我國南方可能出現的異常降水及其產業影響。
-
----
-
-### 2026-10-28 08:25:31  #市場 #國際
-
-美元/以色列謝克爾上漲0.28%，報3.06，因以色列出口民調顯示僵局。
-
----
-
-### 2026-10-28 08:25:26  #公司 #國際
-
-【韓國稱多家大型金融投資公司昨日遭駭客攻擊】據韓聯社報道，韓國金融監管機構稱，多家大型金融投資公司週二遭受了大規模駭客攻擊。金融監督院院長Lee Chan-jin表示，他瞭解到駭客攻擊事件廣泛發生在各大金融投資公司，並敦促各公司加強資訊安全。Lee表示，AI越來越多被用作駭客攻擊工具，使攻擊者更容易找出資安漏洞，也提高同步發動攻擊成為常態的風險。
-
----
-
-### 2026-10-28 08:25:08  #市場 #國際
-
-日本晶片相關股票大幅上漲， 鎧俠股價上漲6.6%，揖斐電漲5.5%，瑞薩電子漲4.5%。
-
----
-
-### 2026-10-28 08:24:51  #MKT News #Market Themes #Chip Wars #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O) plans to cancel shares it repurchased last week totaling 40 trillion won.
-
----
-
-### 2026-10-28 08:24:33  #MKT News
-
-RESERVE BANK OF AUSTRALIA Governor BULLOCK said only a small number of homebuyers are in negative equity.
-
----
-
-### 2026-10-28 08:24:30  #MKT News #Market Themes #AI Revolution #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish #S&P500 #CSI300
-
-【CITIC Securities: Fed policy likely driven more by politics than economics】CITIC Securities says rapid AI-led growth has lifted headline US activity but masks sectoral divergence: production and credit are overheated while employment and household demand remain soft. The firm judges Fed policy is more likely to be swayed by political forces than by fundamentals; some Fed officials may coordinate with the Treasury to compress long-term yields. Post-midterms, reduced uncertainty could be a short-term positive for risk assets, though increased political polarization could create fresh shocks. Asset scenarios: base-case “hot continuation” — US equities, gold and China A-shares outperform, bonds lag; alternative “cold diffusion” — US Treasuries, gold and A-shares lead. Gold is bullish across scenarios.
-
----
-
-### 2026-10-28 08:24:29  #其他
-
-SK海力士：計劃登出上週完成回購的價值40萬億韓元的股票。
-
----
-
-### 2026-10-28 08:23:10  #其他
-
-澳大利亞儲備銀行行長布洛克：上次加息的全部影響尚未顯現。貨幣政策並非針對房價。
-
----
-
-### 2026-10-28 08:22:48  #MKT News #AUDUSD #Impact bullish
-
-Reserve Bank of Australia Governor Bullock said the economy remains capacity-constrained.
-
----
-
-### 2026-10-28 08:22:38  #其他
-
-【紫光國微：智慧安全晶片出貨正在恢復 前期被延後訂單有望逐步回補】紫光國微10月27日在業績說明會上表示，智慧安全晶片部分業務受供應鏈偶發問題擾動，階段性拖累出貨，目前出貨正在恢復，前期被延後的訂單後續有望逐步回補；卡類晶片長期穩定需求未變，身份證、銀行卡、數字人民幣、電子護照等應用場景需求持續穩健。
-
----
-
-### 2026-10-28 08:21:32  #MKT News #XAUUSD #Impact bullish #DXY #Impact bearish
-
-BULLOCK, governor of the RESERVE BANK OF AUSTRALIA, said domestic pressures are also pushing up inf.
-
----
-
-### 2026-10-28 08:21:32  #央行 #澳洲聯儲
-
-澳大利亞央行行長布洛克表示，通脹可能在一段時間內保持高位。
-
----
-
-### 2026-10-28 08:21:30  #觀點
-
-【中信建投：無布是高速銅互聯升級關鍵一步 優先關注CCL/PP龍頭】中信建投研報稱，無布是高速銅互聯升級的關鍵一步，但並非將整塊PCB的玻纖布全部去除，而是依據效能與可靠性約束，在特定介質層實施少布/無布。無布應用分為算力PCB與光模組兩種場景，共同目標是降低損耗、提升訊號完整性，差異在切入位置與材料形態。無布推動產業鏈價值向CCL/PP環節集中，優先關注CCL/PP龍頭，同時重視PCB加工及上游材料增量機會。高速銅互聯向少布/無布升級，CCL/PP有望成為核心受益環節。同時，PCB加工難度提升及樹脂、球矽等上游材料需求增長有望帶來新增機會。
-
----
-
-### 2026-10-28 08:21:21  #國際
-
-【美媒：被禁止離境的弗拉維奧·博索納羅抵達美國 】據美國《華盛頓郵報》27日報道，在巴西總統選舉中落敗的自由黨候選人弗拉維奧·博索納羅當地時間當天傍晚已入境美國，但沒有說明具體地點。巴西最高法院26日裁定禁止弗拉維奧·博索納羅離境。巴西總統盧拉稍早前批評弗拉維奧·博索納羅在總統選舉落敗後逃離巴西的行為“可恥”。
-
----
-
-### 2026-10-28 08:20:43  #MKT News #DXY #Impact bearish
-
-Reserve Bank of Australia Governor Bullock said the labour market appears slightly tighter than previously assessed.
-
----
-
-### 2026-10-28 08:20:34  #其他
-
-澳大利亞儲備銀行行長布洛克：勞動力市場似乎比我們之前判斷的要緊張一些。
-
----
-
-### 2026-10-28 08:20:33  #MKT News
-
-Israel's Channel 12 updated exit poll shows the Netanyahu bloc ahead of the Eizenkot bloc, 52 vs 50 Knesset seats.
-
----
-
-### 2026-10-28 08:20:15  #MKT News #Commodities #Energy #WTI #Impact bullish #US10Y #Impact bearish
-
-Reserve Bank of Australia governor Bullock said oil and related prices have jumped again and will materially boost inflation; short-term inflation expectations are elevated.
-
----
-
-### 2026-10-28 08:20:15  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish
-
-Reserve Bank of Australia Governor Bullock said inflation may be higher than the RBA projected in its August baseline scenario.
-
----
-
-### 2026-10-28 08:20:08  #其他
-
-澳大利亞儲備銀行行長布洛克：通脹上行風險正在顯現。短期通脹預期偏高。
-
----
-
-### 2026-10-28 08:20:04  #MKT News #Important #DXY #Impact mixed
-
-Australia's September non-seasonally adjusted CPI YoY due in 10 minutes.
-
----
-
-### 2026-10-28 08:19:42  #MKT News
-
-RBA Governor Bullock said authorities need to continue to restrain aggregate demand growth for some time to ease capacity pressures.
 
 ---

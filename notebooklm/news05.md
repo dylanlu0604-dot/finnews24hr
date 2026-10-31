@@ -1,7 +1,445 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-11-01 03:17:32_
-_本檔包含 2585 則快訊，約 484417 字_
+_更新時間：2026-11-01 06:21:28_
+_本檔包含 2535 則快訊，約 483488 字_
+
+---
+
+### 2026-10-26 22:21:04  #市場 #焦點
+
+納斯達克中國金龍指數漲超1%，陸金所控股漲8.06%，禾賽科技漲4.42%，AIFU漲4.03%，世紀互聯漲4.04%，貝殼漲3.89%。
+
+---
+
+### 2026-10-26 22:20:06  #公司 #觀點
+
+【中信證券落地深交所ETF質押協議回購首日交易 助力債券ETF市場流動性提升】記者10月26日獲悉，深交所質押式協議回購放開ETF質押首日，中信證券作為債券ETF市場上重要的做市商，聯手銀行理財子公司客戶、企業客戶落地深交所市場首批質押債券ETF的融資交易，為債券ETF市場提供了新的流動性支援工具。
+
+---
+
+### 2026-10-26 22:18:28  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Little-Changed as Markets Await Fed Decision — Gold prices were little changed near $4,000 an ounce on Monday after hitting a more than three-month low of $3,975 on Friday, as falling oil prices eased inflation concerns ahead of this week’s central bank meetings. Oil retreated from last week’s surge but remained near six-month highs amid hopes of easing US-Iran tensions, with potential supply disruptions still posing inflation risks. The Fed is scheduled to announce its rate decision on Wednesday, with policymakers widely expected to hold rates steady following September’s hike. Meanwhile, the probability of another rate increase in December has climbed above 80%, according to the CME FedWatch Tool. Investors also await Thursday’s US PCE inflation data for clues on the rate outlook, while attention is turning to the November 3 US midterm elections. Elsewhere, the ECB and the Bank of Japan are also expected to keep rates unchanged, while the Bank of Canada is widely expected to deliver its first rate hike since 2023.
+
+---
+
+### 2026-10-26 22:17:39  #其他
+
+【湖南：支援長株潭都市圈共建迴圈經濟產業走廊】《湖南省“十五五”迴圈經濟發展規劃》已於近日釋出，其中提出，最佳化迴圈經濟產業佈局。持續推動汨羅高新技術產業開發區、永興經濟開發區等2個國家“城市礦產”示範基地、婁底經濟技術開發區、安化經濟開發區、常寧水口山經濟開發區等國家大宗固廢綜合利用基地提質增效。支援長株潭都市圈共建迴圈經濟產業走廊，推動長沙工程機械再製造、株洲軌道交通再製造、湘潭廢鋼鐵加工配送跨市協同。
+
+---
+
+### 2026-10-26 22:17:22  #市場
+
+英國20年期國債收益率降至9月23日以來最低水平，日內下跌6個基點，至5.678%。
+
+---
+
+### 2026-10-26 22:14:03  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Plunges as Lula Victory Triggers Selloff — The Ibovespa plunged more than 16% to below 172,000 on Monday as Brazilian assets sold off following President Lula’s victory over Flávio Bolsonaro in the presidential runoff. The decline reversed the optimism that had supported markets since the first round, when Bolsonaro outperformed polling estimates and finished ahead of Lula. Investors had widely viewed a potential Bolsonaro administration as more likely to rein in public spending, considered essential to lowering interest rates. Markets are now reassessing fiscal risks, including persistent primary budget deficits and the trajectory of public debt, as well as institutional risks surrounding the electoral process. Losses were broad-based. Petrobras sank 16%, Itaú dropped more than 15.5%, BB plunged over 31%, Itaúsa tumbled more than 16% and Axia retreated 19%. In contrast, Vale surged over 8% ahead of its earnings release after the market close. WEG gained 4% after announcing plans to acquire the PCS business of L&S Electric.
+
+---
+
+### 2026-10-26 22:13:50  #宏觀
+
+【到2030年，湖南城市生活垃圾資源化利用率將力爭達到76%以上】據湖南日報，10月26日，記者從湖南省發改委獲悉，《湖南省“十五五”迴圈經濟發展規劃》已於近日釋出。其中明確，到2030年，湖南覆蓋生產、消費、回收、利用全鏈條的現代化迴圈經濟體系將更加完善，資源迴圈利用產業產值達到4000億元。城市生活垃圾分類實現全覆蓋，城市生活垃圾資源化利用率力爭達到76%以上。
+
+---
+
+### 2026-10-26 22:13:43  #市場 #焦點
+
+巴西招標購買1500萬份本地固定利率債券。
+
+---
+
+### 2026-10-26 22:13:25  #市場
+
+巴西互換利率在國債回購計劃宣佈後有所回落。
+
+---
+
+### 2026-10-26 22:12:00  #公司 #市場 #焦點
+
+【微軟市值重回全球第三 谷歌A股退居第四】美股盤中，微軟股價上漲0.07%，谷歌A股下跌0.59%，兩家公司市值排名再度易位。行情顯示，微軟市值約3.898萬億美元，略高於谷歌A股的3.893萬億美元，差距約50億美元。近期兩家公司股價走勢出現分化，微軟小幅走高，谷歌A股則繼續承壓。
+
+---
+
+### 2026-10-26 22:11:06  #市場 #焦點
+
+納斯達克中國金龍指數漲超0.5%，陸金所控股漲6.58%，禾賽科技漲4.10%，AIFU漲4.03%，天演藥業漲3.73%，貝殼漲3.51%。
+
+---
+
+### 2026-10-26 22:10:44  #國際
+
+伊朗媒體：伊朗總統向巴基斯坦、沙特和土耳其官員表示，伊朗願支援任何有利於地區團結的共識。
+
+---
+
+### 2026-10-26 22:09:31  #公司
+
+【博世宣佈分拆德國業務】近日，全球最大汽車零部件供應商博世宣佈，將德國境內的移動出行（Mobility）業務，與博世數字化、全球商務服務、全球房地產三個服務單元一道，分別從羅伯特·博世有限公司轉入獨立的法律實體，作為集團全資子公司運營；集團總部轉型為控股公司，只保留集團融資、中央研究與先期工程職能。新實體將於2027年8月1日開始運作，整體調整在2027年底前分階段完成。不過，這次分拆不影響中國市場業務，博世中國內部人士表示，此次調整是集團德國本土的架構統一，不針對中國等地區，中國的業務佈局和投入不受影響。（第一財經）
+
+---
+
+### 2026-10-26 22:09:02  #市場
+
+據交易員表示，阿根廷股市在巴西大選結果出爐後下跌6.76%。
+
+---
+
+### 2026-10-26 22:07:53  #Trading Economics #Markets #United States #Currency #Importance 1
+
+Dollar Strengthens to Kick Off the Week — The dollar index edged up to 101.9 on Monday, snapping a two-week losing streak as investors braced for a busy week of economic releases and the Fed’s monetary policy decision. The Fed is widely expected to leave interest rates unchanged this month, with markets focused on policymakers’ forward guidance, particularly any signals regarding a potential rate hike in December. Key data releases, including GDP growth and the PCE inflation index, will also be closely watched for clues about the outlook for monetary policy. Meanwhile, gains on Wall Street, supported by optimism surrounding Anthropic’s IPO filing, and falling oil prices provided additional support for the greenback. The dollar gained the most against the euro, pound and yen.
+
+---
+
+### 2026-10-26 22:07:38  #國際
+
+歐盟作物監測機構估計，歐盟2026年穀物玉米產量為6.42噸/公頃，上月為6.50噸/公頃。
+
+---
+
+### 2026-10-26 22:05:35  #國際
+
+美國海外資產控制辦公室修訂關於被凍結交易的常見問題解答。
+
+---
+
+### 2026-10-26 22:05:06  #公司
+
+【國泰集團：2026年第三季度歸母淨利潤5436.5萬元，同比下降20.86%】國泰集團公告，2026年第三季度營業收入6.68億元，同比增長23.20%；歸母淨利潤5436.5萬元，同比下降20.86%；扣非淨利潤5065.98萬元，同比下降11.45%。2026年前三季度營業收入18.24億元，同比增長13.88%；歸母淨利潤1.52億元，同比下降19.81%；扣非淨利潤1.4億元，同比下降17.47%。公司稱，鉭鈮業務產銷兩旺，民爆產品銷量和價格同比下降。
+
+---
+
+### 2026-10-26 22:04:54  #國際
+
+【俄安全域性稱挫敗一起烏方無人機襲擊圖謀】俄羅斯聯邦安全域性26日通報稱，該局日前挫敗一起由烏克蘭情報部門策劃的襲擊圖謀。被拘捕的兩名涉案人員計劃襲擊一處電力設施和莫斯科市的導彈防禦系統。（央視）
+
+---
+
+### 2026-10-26 22:04:19  #國際
+
+美國8月批發庫存修正值為增長0.5%，與初值一致。
+
+---
+
+### 2026-10-26 22:04:05  #公司
+
+【國泰集團：擬以債轉股方式向全資子公司增資1億元】國泰集團公告稱，公司擬以債轉股方式，以對全資子公司江西三石有色金屬有限公司享有的1.00億元債權進行增資，三石有色註冊資本將由2.30億元增至3.30億元，仍為公司全資子公司。本次增資事項已經公司第七屆董事會第五次會議審議透過，無需提交股東會審議，不涉及關聯交易，不構成重大資產重組。本次增資旨在滿足三石有色業務經營需要，最佳化其資產負債結構，不會對公司合併報表層面財務狀況和經營成果產生重大影響。
+
+---
+
+### 2026-10-26 22:04:02  #公司
+
+【國泰集團：披露2026年前三季度主要經營資料】國泰集團公告稱，披露2026年前三季度主要經營資料。主要產品營收方面：工業炸藥4.35億元，電子雷管1.42億元，工業導爆索1391.92萬元，爆破工程3.22億元，高氯酸鉀5041.56萬元，自產鈮化合物7183.76萬元，自產鉭化合物5.72億元。主要產品價格變動：自產鉭化合物均價同比漲88.02%，工業炸藥、電子雷管、工業導爆索、自產鈮化合物均價同比降2.74%-11.15%，高氯酸鉀均價同比漲2.33%；主要原材料硝酸銨均價同比微漲0.07%。
+
+---
+
+### 2026-10-26 22:03:42  #市場
+
+威瑞森股價在第三季度業績公佈後下跌2.9%。
+
+---
+
+### 2026-10-26 22:02:50  #市場 #國際
+
+美國商品期貨交易委員會與NBA簽署諒解備忘錄，旨在維護預測市場中職業籃球賽事的公正性。
+
+---
+
+### 2026-10-26 22:02:06  #其他
+
+墨西哥總統辛鮑姆表示，國家選舉機構負責人辭職是一個好決定。
+
+---
+
+### 2026-10-26 22:01:59  #其他
+
+墨西哥總統辛鮑姆將於墨西哥城時間中午12點與巴西總統盧拉會談。
+
+---
+
+### 2026-10-26 22:00:38  #公司 #國際
+
+【美媒：中國汽車製造商在歐洲的季度銷量超過日本】據美國彭博社當地時間26日報道，在一個完整季度內，中國汽車製造商在歐洲的銷量首次超過了日本汽車製造商。報道援引市場研究公司Dataforce的資料顯示，在7至9月，中國品牌汽車的註冊量較去年同期增長約一倍，佔歐洲地區汽車總銷量的12.7%，其中混合動力汽車表現最為強勁。這一佔比超過了包括豐田汽車公司在內的日本汽車製造商，後者佔比為11.9%。(環球網)
+
+---
+
+### 2026-10-26 22:00:25  #國際
+
+歐盟委員會主席馮德萊恩：祝賀我的朋友盧拉贏得選舉。
+
+---
+
+### 2026-10-26 21:58:35  #市場 #國際
+
+【歐洲天然氣期貨自2022年以來首次達97歐元 因冬季供應及中東衝突擔憂】歐洲天然氣價格一度突破每兆瓦時97歐元，為2022年以來首次，市場對歐洲今冬脆弱的供需平衡以及中東衝突前景的擔憂日益加劇。基準期貨週一一度上漲4%，隨後回吐部分漲幅。歐洲各地氣溫料將下降，交易員預計未來幾天取暖需求將上升。在全球天然氣供應緊張之際，這可能導致歐洲與亞洲等其他買家競購天然氣。
+
+---
+
+### 2026-10-26 21:58:15  #其他
+
+馬斯克評論巴西大選結果：數字對不上。
+
+---
+
+### 2026-10-26 21:57:59  #市場
+
+MODERNA股價短暫轉漲；此前股價下跌9.2%。
+
+---
+
+### 2026-10-26 21:57:33  #國際
+
+美國國家航空航天局（NASA）：NASA與美國農業部簽署協議，推進地球科學和農業發展。
+
+---
+
+### 2026-10-26 21:57:12  #市場
+
+SURGERY PARTNERS在收購HEALTHSPAN後恢復運營，股價上漲47%。
+
+---
+
+### 2026-10-26 21:54:50  #國際
+
+俄羅斯副外長表示，俄羅斯正在考慮透過黑海保障糧食供應安全的提議，並正與土耳其保持接觸。
+
+---
+
+### 2026-10-26 21:54:43  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Edges Higher as Oil Prices Ease — The S&P/TSX Composite Index edged higher toward 36,000 on Monday as retreating oil prices eased energy-driven inflation concerns. Crude prices pulled back after recent gains, offering some relief amid worries that rising energy costs could fuel inflation and prompt tighter monetary policy. Major banks advanced, with RBC gaining around 1.5%, while TD Bank, BMO, Scotiabank and CIBC each rose more than 1%. Markets widely expect the Bank of Canada to raise interest rates next week. Meanwhile, gold prices rose, lending support to mining shares, although prices later pared most of their gains. In the technology sector, Celestica climbed more than 2.5%, partially recovering from last week’s losses as Wall Street chipmakers rebounded ahead of the company’s third-quarter results. Agnico Eagle fell 0.5% ahead of its earnings report on Wednesday, while other mining stocks also declined.
+
+---
+
+### 2026-10-26 21:54:12  #公司 #市場
+
+總部位於拉丁美洲的電子商務公司美客多股價下跌7.5%。
+
+---
+
+### 2026-10-26 21:54:02  #市場
+
+iShares MSCI巴西ETF下跌24.1%。
+
+---
+
+### 2026-10-26 21:53:53  #公司 #市場
+
+巴西企業在美上市股票在盧拉連任總統後收窄跌幅。巴西石油公司下跌15.8%，伊塔烏聯合銀行下跌20.5%，布拉德斯科銀行下跌28.6%，巴西航空工業公司下跌4.8%，Nu控股下跌20.4%。
+
+---
+
+### 2026-10-26 21:53:22  #市場
+
+紐約期銀日內跌1%，現報53.40美元/盎司。
+
+---
+
+### 2026-10-26 21:53:18  #國際
+
+【俄方稱恢復談判並不意味著限制對烏克蘭軍事行動】俄羅斯總統新聞秘書佩斯科夫26日表示，決定恢復俄美烏三方會談並不意味著將對軍事行動進行限制。佩斯科夫在當天舉行的新聞釋出會上說，俄羅斯武裝力量正在繼續開展特別軍事行動，對烏克蘭軍工聯合體、軍事和準軍事目標發動密集持續的打擊。佩斯科夫說，為解決俄烏衝突有大量的細節有待談判，俄方不會公開談判細節。據俄羅斯媒體25日報道，俄總統助理烏沙科夫表示，俄方願意在11月4日後恢復俄美烏三方談判。烏沙科夫說，擬舉行的三方會談是專家層面的初步接觸，不應對其抱有過高期待。在就烏克蘭問題達成和平協議之前，各方仍需付出大量努力。談及奧列什基人道主義行動，佩斯科夫認為，這將為在其他地區就向平民提供援助達成類似協議提供先例。他呼籲烏克蘭方面履行就奧列什基人道主義行動所達成的協議。（新華社）
+
+---
+
+### 2026-10-26 21:53:15  #市場
+
+現貨白銀日內跌1%，現報53.37美元/盎司。
+
+---
+
+### 2026-10-26 21:51:27  #市場 #焦點
+
+巴西銀行股價在盧拉獲勝後下跌約31%。
+
+---
+
+### 2026-10-26 21:50:51  #公司 #觀點
+
+【中金公司：2026年新增股份31.04億股上市】中金公司公告，此前擬透過換股吸收合併東興證券、信達證券。本次交易已實施，中金公司新增發行31.04億股A股，並於2026年10月26日收到證券變更登記證明；其中11.36億股新增無限售流通股將於2026年10月29日上市，另有19.68億股為新增限售流通股。
+
+---
+
+### 2026-10-26 21:50:37  #國際
+
+波蘭財政和經濟部長多曼斯基：致力於確保貨幣政策平穩執行。
+
+---
+
+### 2026-10-26 21:50:05  #市場 #觀點
+
+【中信建投：預計本輪急跌行情有望結束，迎來反彈修復行情】中信建投研報認為，當前市場業績增長上行趨勢仍在、政策支援導向未變、估值整體處於中位水平，因此並不存在“業績底-政策底-估值底”，但市場情緒有望迎來階段性底部。因此當前市場並非從經濟、政策和市場週期視角下的“歷史大底”，而是由於短期利空因素共振引發、市場情緒大幅下滑、悲觀情緒充分宣洩而形成的“急跌底”。從短期來看，預計本輪急跌行情有望結束，迎來反彈修復行情，具體原因有三：首先，從市場點位來看，當前市場已經經歷了兩輪下跌，點位處於偏低水平。其次，從當前市場核心焦點去槓桿程序來看，本輪二次去槓桿已經歷時1個月，隨著ETF資金大舉流入，本輪去槓桿行情或將結束。第三，從市場情緒和機構行為來看，A股同樣有望迎來反彈修復。綜合上述分析研報認為當前市場底部已經顯現，短期看有望迎來反彈修復行情。
+
+---
+
+### 2026-10-26 21:49:53  #其他
+
+ANTHROPIC：9月17日，對A類股票和N類股票的授權、已發行和流通股進行了10比1的股票拆分。
+
+---
+
+### 2026-10-26 21:49:44  #市場 #觀點 #焦點
+
+【巴西股匯“雙殺” 投資者押注盧拉將加劇財政壓力】巴西貨幣與股市週一暴跌，投資者認為，路易斯·伊納西奧·盧拉·達席爾瓦再度當選總統，會令這個拉美最大經濟體的財政困境雪上加霜。德意志銀行全球宏觀主管吉姆·裡德表示：“市場此前已經充分計入博索納羅勝選的預期，這次大選結果完全打亂了市場節奏……投資者原本期待財政整頓迎來更好的視窗期。”博索納羅曾承諾推行一定程度的緊縮政策，而盧拉在競選期間丟擲大量支出承諾：週末公共交通免費、個人債務減免、提高福利津貼。批評者指責，這些都是為拉選票開出的競選福利。 投資者紛紛做空雷亞爾。衍生品巨頭芝商所（CME Group）稱，倫敦早盤時段，雷亞爾相關期貨名義交易規模約24億美元，達到今年日均成交量的三倍左右。不過，英傑華投資（Aviva Investors）基金經理庫爾特·諾爾森表示，盧拉在第二輪投票前已經宣佈多項新增支出措施，“意味著當下啟動財政整頓的起點壓力更高”。 他補充說：“現實情況是，除非政府很快拿出可信的財政路線圖，否則就只能依靠本幣走弱、長端利率與實際利率走高，來發揮市場約束作用。”
+
+---
+
+### 2026-10-26 21:49:19  #市場 #其他 #焦點
+
+盧拉勝選後，巴西小盤股指數跌幅達30%，創歷史最大跌幅。
+
+---
+
+### 2026-10-26 21:48:54  #央行 #國際
+
+波蘭財政和經濟部長多曼斯基：不會就央行及貨幣政策委員會置評。
+
+---
+
+### 2026-10-26 21:48:40  #其他
+
+據媒體報道， 因PHP漏洞 ，三菱日聯銀行暫停部分服務。
+
+---
+
+### 2026-10-26 21:47:49  #市場 #焦點
+
+盧拉獲勝後，巴西的COSA、C&A MODAS、MAGAZINE LUIZA、B3、LOCALIZA的股票均下跌約50%。
+
+---
+
+### 2026-10-26 21:47:42  #市場
+
+墨西哥 FEMSA 股價下跌 4.5%。
+
+---
+
+### 2026-10-26 21:46:54  #其他
+
+Anthropic：2026年上半年基於消費的收入為130.6億美元，上年同期為9.83億美元。
+
+---
+
+### 2026-10-26 21:46:27  #其他
+
+Anthropic：2026年上半年訂閱收入32億美元，上年同期為1.8億美元。
+
+---
+
+### 2026-10-26 21:46:20  #其他
+
+沙特阿美接近與多家全球銀行簽署100億美元貸款協議。
+
+---
+
+### 2026-10-26 21:45:58  #國際
+
+俄羅斯就黑海航運問題與土耳其保持接觸。
+
+---
+
+### 2026-10-26 21:45:02  #其他
+
+Anthropic預計，未來12個月內將把約75%的剩餘履約義務確認為收入。
+
+---
+
+### 2026-10-26 21:44:24  #其他
+
+Anthropic：截至6月30日，剩餘履約義務金額為108億美元。
+
+---
+
+### 2026-10-26 21:44:21  #市場 #焦點
+
+燒鹼連續主力合約日內跌4%，現報1491.00元。
+
+---
+
+### 2026-10-26 21:44:07  #市場 #焦點
+
+特斯拉股價觸及逾三個月高點，最新上漲5.5%。
+
+---
+
+### 2026-10-26 21:43:11  #其他
+
+墨西哥總統辛鮑姆：巴西總統盧拉的勝利對拉美而言是“一口新鮮空氣”。
+
+---
+
+### 2026-10-26 21:42:46  #其他
+
+Anthropic：2.65億美元融資承諾仍未到位。
+
+---
+
+### 2026-10-26 21:42:36  #其他
+
+Anthropic已開始向首席財務官Krishna Rao提供安保服務。
+
+---
+
+### 2026-10-26 21:41:21  #其他
+
+Anthropic：首席財務官Rao 2025年薪酬為720,250美元。
+
+---
+
+### 2026-10-26 21:40:31  #公司
+
+Anthropic執行長達里奧·阿莫代伊2025年薪酬為1796萬美元。
+
+---
+
+### 2026-10-26 21:40:23  #公司 #市場
+
+墨西哥可口可樂凡薩公司第三季度財報釋出後，股價下跌5%。
+
+---
+
+### 2026-10-26 21:40:07  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.37% Higher — The Dow Jones Index is gaining 193 points or 0.37 percent on Monday. Leading the gains are Nvidia (2.10%), J&J (1.91%) and Nike (1.88%). Top losers are Apple (-1.05%), Merck (-0.68%) and Coca-Cola (-0.65%).
+
+---
+
+### 2026-10-26 21:40:06  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Up on Monday — US stocks traded higher on Monday, with the S&P 500 gaining 0.3%, the Nasdaq rising 0.2%, and the Dow Jones advancing 220 points. Semiconductor and other AI-related stocks led gains following reports that Anthropic had publicly filed for an IPO. Investors also welcomed a pullback in oil prices while bracing for a busy week of corporate earnings, key economic releases, and the Fed’s monetary policy decision. Chipmakers advanced, with Nvidia rising 1.6%, Micron Technology gaining 2.1%, and AMD adding 1.5%. Tesla shares surged 4.6% to hit a 14-week high of $388.92 after Barclays upgraded its rating to Overweight from Equal Weight. Meanwhile, Meta fell 1.7% despite announcing plans to raise as much as $95 billion through stock sales to fund its AI ambitions. Verizon dropped 2.8% after reporting revenue below market expectations. Alphabet (-0.5%), Microsoft (-0.3%) and Amazon (-0.3%) also traded lower ahead of their earnings reports due later this week.
+
+---
+
+### 2026-10-26 21:40:04  #國際
+
+【伊朗總統與沙特、土耳其、巴基斯坦高階官員舉行會晤】當地時間26日，伊朗總統佩澤希齊揚與到訪的沙特、土耳其、巴基斯坦高階官員舉行會晤。26日稍早時，伊朗最高國家安全委員會副秘書巴蓋裡表示，沙特國防大臣、巴基斯坦陸軍總參謀長、土耳其情報局局長將訪問伊朗並舉行聯合會議。巴蓋裡表示，參與此次會議的三國可以與伊朗一起，採取有效措施，朝著建立本土區域安全方向邁進。（央視新聞）
+
+---
+
+### 2026-10-26 21:39:51  #其他
+
+巴西基準股票指數聖保羅證交所指數< .BVSP>在觸發熔斷機制後恢復交易，多數股票仍處於集合競價階段。
+
+---
+
+### 2026-10-26 21:39:45  #其他
+
+Robotaxi：休斯頓更大的服務區域現已上線。
+
+---
+
+### 2026-10-26 21:39:17  #其他
+
+Anthropic：截至6月，現金、現金等價物及受限現金為1149億美元。
+
+---
+
+### 2026-10-26 21:39:15  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Opening Delayed as B3 Triggers Circuit Breaker — The Ibovespa’s opening was delayed on Monday after B3 triggered a circuit breaker as Brazilian assets plunged following President Lula’s victory over Senator Flávio Bolsonaro in the presidential runoff. The selloff reversed the optimism that had supported Brazilian assets since the first round, when Bolsonaro outperformed polling estimates and finished ahead of Lula. Markets had widely viewed a potential Bolsonaro administration as more likely to rein in public spending, which investors consider essential to lowering interest rates. Investors are now reassessing fiscal risks, including the persistence of primary budget deficits and the trajectory of public debt, as well as institutional risks related to controversies surrounding the electoral process. Meanwhile, Brazil’s National Treasury canceled the fixed-rate and inflation-linked bond auctions scheduled for Tuesday and Thursday, while maintaining Tuesday’s auction of securities linked to the benchmark Selic rate.
 
 ---
 
@@ -14830,752 +15268,5 @@ Trump said the US must bring religion back into public life and vastly strengthe
 ### 2026-10-25 06:24:26  #國際
 
 【颱風預警持續！“薔琵”強度減弱 江浙沿海仍有大風】中央氣象臺10月25日6時繼續釋出颱風藍色預警，今年第30號颱風“薔琵”的中心今天凌晨由強熱帶風暴級減弱為熱帶風暴級，其中心早晨5點鐘位於日本鹿兒島西偏南方向約730公里的東海南部海面上，中心附近最大風力9級（23米/秒），中心最低氣壓為990百帕，七級風圈半徑260-400公里。預計，“薔琵”將以每小時25公里左右的速度向東北方向移動，強度迅速減弱，並逐漸變性為溫帶氣旋。25日8時至26日8時，受冷空氣和颱風“薔琵”共同影響，渤海、黃海北部和南部海域、東海大部、臺灣海峽、臺灣以東洋麵、長江口區、杭州灣、江蘇沿海、浙江北部沿海將有6-8級大風、陣風9-10級，其中，東海北部海域的風力有9級、陣風10-11級。（央視新聞）
-
----
-
-### 2026-10-25 06:02:18  #其他
-
-沙特領導的聯軍稱，在利雅得地區攔截並摧毀了一架無人機。
-
----
-
-### 2026-10-25 06:00:41  #國際
-
-義大利外交部表示，五名在約旦河西岸被以色列軍隊拘留的義大利活動人士已返回義大利。
-
----
-
-### 2026-10-25 05:59:59  #宏觀 #國際
-
-【美國更新中東13國旅行警告】據美國媒體10月24日報道，“因葉門胡塞武裝和伊朗的襲擊威脅增加”，美國國務院針對13箇中東國家更新了旅行警告，包括巴林、伊朗、伊拉克、以色列、約旦、科威特、黎巴嫩、阿曼、卡達、沙烏地阿拉伯、敘利亞、阿聯酋和葉門。美國駐這些國家的大使館在官網上釋出最新旅行警告稱，預警級別及風險指標均未發生變化，但預警摘要已更新。 據美國“阿克西奧斯新聞網（Axios）”報道，美國情報部門認為伊朗已“顯著加大”針對美國駐中東等地區外交官和官員的行動力度，部分可能造成致命後果的襲擊圖謀已進入“最後階段”。 （CCTV國際時訊）
-
----
-
-### 2026-10-25 05:58:44  #市場 #國際
-
-Zillow與Thumbtack釋出的新報告顯示，美國隱性持房成本在過去五年飆升近32%，普通房主目前每年為維修、保險和房產稅支出16566美元。房主保險漲幅最大，五年上漲54%，維修成本則上漲32%。
-
----
-
-### 2026-10-25 05:53:44  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-TASNIM NEWS reported multiple explosions in Aden, southern Yemen.
-
----
-
-### 2026-10-25 05:50:48  #國際
-
-伊朗駐印度大使館表示，議會議長卡利巴夫因“不可預見的情況”將不出席在新德里舉行的金磚國家議會會議。使館未作進一步解釋。
-
----
-
-### 2026-10-25 05:46:43  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-The Israel Defense Forces (IDF) said that, based on a security assessment, it will bar Palestinian workers from entering settlements in the West Bank's Judea and Samaria and the Jordan Valley from tomorrow (Sunday) through Monday; industrial zones and other approved areas are exempt.
-
----
-
-### 2026-10-25 05:41:13  #MKT News
-
-Japan's prime minister will meet German chancellor MERZ on Wednesday to discuss electric vehicles (EVs).
-
----
-
-### 2026-10-25 05:41:01  #公司
-
-【利雅得機場今天恢復運營】當地時間10月24日晚，沙烏地阿拉伯首都利雅得的哈立德國王國際機場釋出旅行提示，對沙特國家航空公司所運營航班的航站樓進行了調整。根據此次調整，1號航站樓將專門用於國內航班，2號航站樓將負責由沙特國家航空公司運營的國際航班。（CCTV國際時訊）
-
----
-
-### 2026-10-25 05:39:52  #國際
-
-日本首相將於週三會見德國總理默茨，就電動汽車議題進行討論。
-
----
-
-### 2026-10-25 05:38:45  #國際
-
-市場資訊：日本將敦促德國在歐盟層面給予電動汽車優惠待遇。
-
----
-
-### 2026-10-25 05:37:39  #國際
-
-【伊朗否認以霍爾木茲海峽換解除封鎖的報道，稱系"謊言與幻想"】知情人士稱，伊朗未向巴基斯坦調停人提出任何新方案，並拒絕所謂以重新開放霍爾木茲海峽換取美國解除海上封鎖的報道。該訊息人士駁斥阿拉伯衛星電視臺關於德黑蘭已向華盛頓提出上述交換的報道，稱其為"謊言與幻想"。"伊朗根本不會接受用霍爾木茲海峽交換解除封鎖的任何等式，"該訊息人士稱，並補充說德黑蘭將以自身方式繞過封鎖，最終將其打破。訊息人士稱，伊朗堅持透過調停人正式轉達的七項條件。訊息人士表示，早前載明德黑蘭重開海峽訴求的"七天計劃"已遞交華盛頓，並稱在伊朗所有訴求得到滿足之前——包括停止對伊朗港口和航運的擾亂——海峽的不安全狀態將持續存在。
-
----
-
-### 2026-10-25 05:37:12  #MKT News
-
-Trump will visit Florida on October 30.
-
----
-
-### 2026-10-25 05:36:39  #MKT News
-
-President Trump said Iranians are bad people and their leadership is very bad.
-
----
-
-### 2026-10-25 05:35:03  #其他
-
-【民調顯示：博爾索納羅與盧拉進入決勝輪前一日支援率持平】根據BTG Pactual/Nexus民調，博爾索納羅支援率為50.5%，盧拉為49.5%，差距在2個百分點的誤差範圍內，與週一基本持平——當時這位右翼挑戰者領先不足1個百分點。巴西人將於週日投票選出下任領導人。博爾索納羅在10月4日的首輪投票中出人意料地戰勝盧拉，使這位參議員成為贏得總統寶座的熱門人選。兩名候選人在週五晚間的最後一場電視辯論中就腐敗問題相互指責，並在經濟與公共安全議題上交鋒。週六，兩人均出席了在巴西三座主要城市舉行的支持者集會。
-
----
-
-### 2026-10-25 05:33:13  #其他 #焦點
-
-資料機構Datafolha民調顯示，巴西總統決選中，弗拉維奧·博索納羅預計獲得51%的有效選票，盧拉獲得49%。
-
----
-
-### 2026-10-25 05:30:54  #國際
-
-【特朗普：暫未考慮赦免下屬官員，但堅稱自己擁有赦免權】美國總統特朗普表示，他尚未考慮透過赦免來保護政府下層官員免受未來國會調查之擾，但明確稱自己有權這樣做。被記者追問可能的赦免計劃時，特朗普援引拜登政府先例，稱若讓自己的下屬面對長達數年的調查和不斷攀升的法律費用，將很不公平。他說："我當然不願看到無辜的人經歷地獄般的煎熬、失去全部積蓄。"
-
----
-
-### 2026-10-25 05:30:00  #其他
-
-訊息人士：美中央司令部已備好多套對伊打擊預案，經白宮授權即可執行，方案已提交國防部長赫格塞思。
-
----
-
-### 2026-10-25 05:23:35  #MKT News
-
-U.S. Secretary of State Rubio said U.S. ties with Pakistan will not be pursued at the expense of ties with India.
-
----
-
-### 2026-10-25 05:22:24  #國際
-
-美國國務卿魯比奧：我們與巴基斯坦的關係絕不會以犧牲我們與印度的關係為代價。我們與印度一樣對恐怖主義抱有同樣的關切。我們曾是恐怖主義的受害者，印度也是如此。
-
----
-
-### 2026-10-25 05:21:58  #國際
-
-美國國務卿魯比奧：我們對移民法的調整，並非針對印度，也不是以印度為重點。它恰好影響到那些想來美國工作的印度人——以及美國企業正試圖引進的印度人才——但它不是專門針對印度的。它是全球性的。
-
----
-
-### 2026-10-25 05:20:18  #國際
-
-特朗普將於10月30日前往佛羅里達代託納。
-
----
-
-### 2026-10-25 05:18:02  #國際
-
-【伯納姆對恢復歐盟自由流動敞開大門，呼籲就移民問題進行 "坦誠討論"】英國首相伯納姆為恢復歐盟自由流動敞開大門，呼籲就移民問題進行“坦誠討論”。他認為，脫歐前的歐盟移民更有可能返回家鄉，而如今的移民則更傾向於永久定居。伯納姆表示，自由流動不會成為與歐盟建立更緊密關係談判中的紅線，但他排除了加入歐元區或申根區的可能性。
-
----
-
-### 2026-10-25 05:17:24  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100 #Impact mixed
-
-UK Chancellor Healey will announce an additional defence spending package worth tens of billions of pounds to be included in the budget; the move will raise defence spending as a share of GDP.
-
----
-
-### 2026-10-25 05:17:16  #國際
-
-美國國務卿魯比奧談烏克蘭衝突：這場衝突，雖然人們一直把它稱作烏克蘭的戰爭，但它關乎的是頓巴斯，關乎的是該國的某一個地區。究其核心，它關乎的是這個國家某一地區的11%。這塊地方俄羅斯想要卻無法靠軍事手段拿下，而烏克蘭又不願放棄。
-
----
-
-### 2026-10-25 05:16:48  #國際
-
-【伊拉克北部一處伊朗庫爾德反對派營地遭無人機襲擊】當地時間24日晚，伊拉克北部庫爾德自治區（庫區）安全部門訊息人士稱，一架無人機當晚襲擊了伊庫區首府埃爾比勒東北部的一處伊朗庫爾德反對派組織營地。（央視新聞）
-
----
-
-### 2026-10-25 05:15:32  #其他
-
-胡塞武裝發射的兩枚彈道導彈被攔截後，殘骸墜落於麥加大清真寺約21公里處的穆加馬斯谷地。
-
----
-
-### 2026-10-25 05:14:23  #其他
-
-【葉門胡塞武裝稱沙特一天內發動百次空襲】當地時間24日晚，葉門胡塞武裝發表宣告稱，過去24小時，沙特方面發動100次空襲，襲擊了葉門首都薩那及其他地區的民用目標，造成數十人死傷。宣告稱，自局勢升級以來，沙特方面發動的空襲和導彈襲擊總數已達3123次。（央視新聞）
-
----
-
-### 2026-10-25 05:14:00  #MKT News
-
-Former U.S. President Obama said Trump has decorated the White House like a chain restaurant run by Saddam.
-
----
-
-### 2026-10-25 05:13:53  #其他
-
-英國財政大臣希利將宣佈追加數十億英鎊國防開支，該國防開支計劃將納入預算。希利此舉將提高國防開支佔GDP的比重。
-
----
-
-### 2026-10-25 05:13:19  #公司
-
-【葉門胡塞武裝警告各航空公司及旅客：利雅得機場已成為軍事目標】胡塞武裝表示，再次警告所有國際、地區和本地航空公司及其員工與乘客，不要經利雅得的哈立德國王國際機場出行，因為該機場並不安全，是我方部隊的軍事目標。沙特政權須對機場發生的一切軍事行動及其可能造成的後果承擔全部責任，葉門武裝部隊將繼續針對該機場展開行動，它永遠不會安全。
-
----
-
-### 2026-10-25 05:10:50  #MKT News #Macro & Rates #US Economy
-
-Former US President Obama said the Trump administration’s actions are a direct cause of rising US prices.
-
----
-
-### 2026-10-25 05:10:22  #MKT News #Brent #Impact bullish #XAUUSD
-
-Houthi militants warned global, regional and local airlines, staff and passengers not to use Riyadh’s King Khalid International Airport, saying it has become a military target and is no longer safe. The group said Saudi authorities must bear any consequences of keeping the airport operational and warned it will continue attacks, leaving the airport unsafe.
-
----
-
-### 2026-10-25 05:09:29  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-【Obama: Iran effectively holds veto over Strait of Hormuz transit】Former US president Obama said Iran effectively holds a veto over transit through the Strait of Hormuz, through which global oil shipments pass, and that this is driving higher oil, diesel and broadly rising commodity prices; "no one disputes this," he added.
-
----
-
-### 2026-10-25 05:08:55  #其他
-
-英國財政大臣希利將宣佈增加數十億英鎊的國防開支。
-
----
-
-### 2026-10-25 05:04:13  #國際
-
-伊朗革命衛隊發言人表示，德黑蘭將對敵人的任何細微失誤予以數倍的報復。
-
----
-
-### 2026-10-25 05:01:51  #國際
-
-特朗普：美國在解決伊朗問題後將處理古巴問題，並將派國務卿魯比奧去完成協議。
-
----
-
-### 2026-10-25 05:01:02  #公司
-
-AI電影初創公司Utopai Studios以10億美元估值完成6000萬美元融資，目前已經收到可使公司估值最高達30億美元的收購要約。公司計劃明年在院線發行三部劇情長片。
-
----
-
-### 2026-10-25 04:59:40  #MKT News #VOW3.DE #Impact bullish
-
-U.S. official says Trump is expected to announce Audi will build a new plant in Georgia with annual capacity of 200,000 SUVs.
-
----
-
-### 2026-10-25 04:59:39  #其他
-
-訊息人士：奧迪還計劃在南卡羅來納州每年生產2.5萬輛汽車。
-
----
-
-### 2026-10-25 04:59:29  #國際
-
-美國官員：特朗普預計將宣佈奧迪將在佐治亞州建設新工廠，每年生產20萬輛SUV。
-
----
-
-### 2026-10-25 04:57:51  #國際
-
-記者：您打算去烏克蘭嗎？
-
-梅拉尼婭：拭目以待。
-
----
-
-### 2026-10-25 04:57:31  #國際
-
-【美司法部要求加州官員核查選民身份 不配合者或將遭審查】當地時間10月24日，美國司法部已向加利福尼亞州全部58個縣的選舉官員發函，要求其在48小時內協助核實聯邦政府名單上相關人員的美國公民身份，並將身份尚未確認者的郵寄選票暫時單獨存放，直至完成核查。司法部警告，拒絕配合的地方官員可能面臨聯邦政府的嚴格審查。（央視新聞）
-
----
-
-### 2026-10-25 04:57:05  #國際
-
-特朗普：我的叔叔發明了雷達。你信嗎？他可能會生我的氣，因為我把伊朗的雷達打掉了。
-
-注：約翰·特朗普（John G. Trump）是麻省理工學院電氣工程教授、美國國家工程院院士，確實參與過二戰時期的雷達相關研究，但"發明雷達"系誇大。
-
----
-
-### 2026-10-25 04:55:39  #MKT News
-
-U.S. President Trump said his uncle John Trump invented radar and that he had now destroyed Iran's radar.
-
----
-
-### 2026-10-25 04:54:14  #MKT News
-
-Trump said he destroyed all 259 of Iran's fighter jets and that Iran's 259 ships have all sunk.
-
----
-
-### 2026-10-25 04:53:42  #國際
-
-特朗普談伊朗：伊朗也曾有259艘軍艦。它們如今都沉到了海底。
-
----
-
-### 2026-10-25 04:52:54  #國際
-
-特朗普：就在兩年前，我們還被人嘲笑。我們曾是一個愚蠢的國家。我們曾是一個由白痴、蠢人、壞人和激進左翼分子領導的國家。看看法國就知道了，因為那正是他們想讓我們國家變成的樣子，而我不會讓這種事發生。
-
----
-
-### 2026-10-25 04:52:10  #國際
-
-特朗普談伊朗：如果我對他們放任不管，伊朗總會設法造出核彈。
-
----
-
-### 2026-10-25 04:52:03  #國際
-
-特朗普談伊朗：伊朗曾有259架戰鬥機，我們將其全部摧毀。
-
----
-
-### 2026-10-25 04:51:51  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-TRUMP said if he does not intervene, Iran will sooner or later find a way to develop a nuclear weapon.
-
----
-
-### 2026-10-25 04:51:38  #MKT News
-
-U.S. President Trump said Iran wants a deal, but the question is whether it would comply.
-
----
-
-### 2026-10-25 04:50:57  #MKT News
-
-【Israeli opposition leader says Netanyahu 'has gone mad'】Israeli opposition leader Gadi Eisenkot said Prime Minister Benjamin Netanyahu "has gone mad", accusing him of tearing Israeli society and weakening the military. Eisenkot said Netanyahu is now targeting the economy and accused him of seeking to pull Israel out of the global financial system.
-
----
-
-### 2026-10-25 04:48:21  #國際
-
-特朗普談伊朗：我可能不得不把它徹底解決掉，或許他們會達成協議。我不確定。無論如何，我們都會贏。
-
----
-
-### 2026-10-25 04:47:00  #國際
-
-記者：有一份新的情報報告稱，伊朗加大了針對中東地區美國人員的力度。
-
-特朗普：他們是壞人。領導層非常糟糕。他們殺害了7.5萬名抗議者。
-
----
-
-### 2026-10-25 04:45:28  #MKT News
-
-President Trump said Clinton is not bad but has many scandals; without those scandals he would have been a good president.
-
----
-
-### 2026-10-25 04:44:49  #其他 #焦點
-
-民調顯示，巴西總統決選中弗拉維奧·博索納羅的有效選票支援率為50.5%，盧拉為49.5%。
-
----
-
-### 2026-10-25 04:44:36  #其他 #焦點
-
-民調顯示，巴西總統決選中弗拉維奧·博索納羅的支援率為47.0%，盧拉為46.0%。
-
----
-
-### 2026-10-25 04:44:01  #國際
-
-特朗普：比爾·克林頓不算差，但他捲入了不少醜聞。要不是這些醜聞，他本會是一位不錯的總統。
-
----
-
-### 2026-10-25 04:42:37  #國際
-
-特朗普：我在2022年贏了（總統選舉），但事情並沒有那樣發展。那是一場被操縱的選舉——我以數百萬票的優勢獲勝。
-
----
-
-### 2026-10-25 04:40:24  #MKT News #Market Regions #Europe & UK
-
-Iran's foreign ministry spokesman Baghaei said the UK, France, Germany and the EU have lacked seriousness and independence in talks with Tehran, following US coercion and playing a disruptive role in the diplomatic process. He urged European countries to respect international law and lift sanctions and coercive measures against Iran.
-
----
-
-### 2026-10-25 04:39:59  #國際
-
-特朗普：你們應該看看真正的腐敗——民主黨的腐敗，這其中包括傑弗裡·愛潑斯坦。
-
----
-
-### 2026-10-25 04:39:29  #國際
-
-伊朗外交部發言人巴加埃：英國、法國、德國和歐盟在與德黑蘭的談判中缺乏嚴肅性和獨立性。他們追隨美國的脅迫政策，在外交程序中扮演了破壞性角色。呼籲歐洲國家尊重國際法，放棄對伊朗的制裁和脅迫措施，以展現其對外交的承諾。
-
----
-
-### 2026-10-25 04:39:06  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact mixed #XAUUSD #DXY #Impact bullish
-
-【Trump says he may strike Iran or reach a deal】President Trump said in recent remarks he may launch a strike on Iran or could reach a major, favorable agreement, and added that Iran seeks a deal.
-
----
-
-### 2026-10-25 04:36:58  #MKT News
-
-Trump: When I entered politics the Republican Party was much weaker and smaller, and then I ran and won.
-
----
-
-### 2026-10-25 04:35:46  #國際
-
-特朗普：我剛開始時，共和黨要弱得多，規模更小、實力更弱的共和黨；然後我參選並贏了。
-
----
-
-### 2026-10-25 04:34:51  #國際
-
-【特朗普稱與馬斯克談過烏克蘭局勢】特朗普表示，他已與SpaceX創始人馬斯克就烏克蘭局勢進行了交流。特朗普拒絕透露與馬斯克談話的具體內容。
-
----
-
-### 2026-10-25 04:33:11  #國際
-
-特朗普：我覺得她（梅拉尼婭）現在的表現比專業人士還要好。
-
----
-
-### 2026-10-25 04:32:42  #國際
-
-美國第一夫人梅拉尼婭：很高興得到教皇的支援。他們（俄烏）將於10月27日開始停火，我希望一切都能按計劃進行，我們進行了會談；我們已與雙方簽署了協議。
-
----
-
-### 2026-10-25 04:30:16  #國際
-
-特朗普：讓我們忍受了（民主黨）四年腐敗的武器化政治手段，再經歷一遍非常不公平，我當然不願看到無辜的人陷入地獄、失去所有積蓄。
-
----
-
-### 2026-10-25 04:29:40  #國際
-
-特朗普：我們可能與伊朗達成協議，他們希望達成協議。
-
----
-
-### 2026-10-25 04:29:24  #焦點 #國際
-
-特朗普：美國能否與伊朗達成協議取決於伊朗。
-
----
-
-### 2026-10-25 04:29:09  #MKT News
-
-President Trump said Iran hopes to reach an agreement.
-
----
-
-### 2026-10-25 04:28:28  #國際
-
-特朗普：對伊朗而言，打擊和達成協議兩種可能都存在。
-
----
-
-### 2026-10-25 04:28:12  #國際
-
-特朗普：我有可能攻擊伊朗。
-
----
-
-### 2026-10-25 04:28:00  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bullish #XAUUSD #DXY
-
-Trump says he may launch an attack on Iran.
-
----
-
-### 2026-10-25 04:26:33  #國際
-
-伊朗方面：伊朗未向巴基斯坦調解方提出任何新提議。
-
----
-
-### 2026-10-25 04:26:04  #MKT News #Market Themes #The Trump Trade
-
-Trump said back-to-back campaign rallies have strained his voice.
-
----
-
-### 2026-10-25 04:25:31  #國際
-
-特朗普：接連不斷的競選集會讓我嗓子吃不消。
-
----
-
-### 2026-10-25 04:24:31  #MKT News #Important #WTI #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-U.S. President Trump said he may have to completely resolve the Iran issue or may reach an agreement with Iran, and that in either case the U.S. would win.
-
----
-
-### 2026-10-25 04:24:10  #國際
-
-特朗普談伊朗：或許必須徹底解決伊朗問題，或許必須達成協議，目前還不確定。
-
----
-
-### 2026-10-25 04:23:46  #國際
-
-特朗普發文聲稱洛杉磯存在選票造假，可能有數十萬張非法選票，聯邦檢察官已發現大量疑點。
-
----
-
-### 2026-10-25 04:23:16  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #DXY
-
-President Trump said if Russia and Ukraine reach an agreement, the US would be able to resume commercial relations with both countries.
-
----
-
-### 2026-10-25 04:22:52  #國際
-
-特朗普：如果俄烏達成協議，就能與俄烏做生意。
-
----
-
-### 2026-10-25 04:22:19  #國際
-
-特朗普：希望（烏克蘭星鏈）恢復常態，讓俄羅斯和烏克蘭達成協議。
-
----
-
-### 2026-10-25 04:22:07  #國際
-
-特朗普拒絕透露與馬斯克談話的細節。
-
----
-
-### 2026-10-25 04:21:54  #國際
-
-特朗普談烏克蘭的星鏈限速：我已經和埃隆·馬斯克談過了。
-
----
-
-### 2026-10-25 04:20:23  #MKT News
-
-US President Trump said he had spoken with Elon Musk about Starlink.
-
----
-
-### 2026-10-25 04:14:45  #MKT News #XAUUSD #Impact bullish #WTI
-
-【Iraqi militia says US aircraft violated Iraqi airspace 171 times in a month】Iraqi militia Islamic Resistance said on Oct 24 it monitored 171 incursions by US fighter and reconnaissance aircraft into Iraqi airspace between Sept 30 and Oct 23. The group accused the US of persistent violations and alleged Iraq’s closure of routes and border crossings with Iran was carried out at US direction. Iraqi government spokesman Haider al-Abadi said on Oct 21 the Shib border crossing in southern Maysan province was closed for technical reasons. Several Iraqi airports suspended flights to Iran in September amid US sanctions on Iran.
-
----
-
-### 2026-10-25 04:10:37  #國際
-
-美國國務卿魯比奧呼籲古巴人配合中情局，推動古巴的變革。
-
----
-
-### 2026-10-25 04:09:25  #國際
-
-特朗普完成投票。
-
----
-
-### 2026-10-25 04:09:12  #MKT News
-
-US Secretary of State Rubio said President Trump is visionary and turns ideas others call impossible into reality.
-
----
-
-### 2026-10-25 04:09:00  #國際
-
-美國國務卿魯比奧談特朗普：他富有遠見。他能想象出人們認為不可能的事。他會思考那些人們說“我們做不到，因為以前從未有人做過”的事情，然後將其實現。
-
----
-
-### 2026-10-25 04:06:16  #國際
-
-美國國務卿魯比奧：世界上沒有哪個國家比美國更致力於打擊恐怖主義。
-
----
-
-### 2026-10-25 04:05:49  #MKT News #VOW3.DE #Impact bullish
-
-Volkswagen plans to build a new plant in Georgia, U.S., for its luxury Audi brand and to expand its existing plant in South Carolina.
-
----
-
-### 2026-10-25 04:03:59  #國際
-
-以色列總理內塔尼亞胡：他們三年來一直試圖對我們實施制裁，我們已阻止了每一次嘗試。我們透過反制措施做到了這一點，例如針對英國，我們關閉了其在耶路撒冷的領事館，並讓一些曾離開我們的國家迴歸，如哥倫比亞或斯洛維尼亞。我們還有其他手段。加密貨幣是其中之一。它不是唯一的手段，我們也不確定是否會使用它。
-
----
-
-### 2026-10-25 04:03:36  #國際
-
-記者：競選期間最讓你受傷的是什麼？
-以色列國安部長本-格維爾：內塔尼亞胡不願和我合影。
-記者：你真的被傷到了？
-以色列國安部長本-格維爾：是的。我有很多情緒。
-
----
-
-### 2026-10-25 04:02:20  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Chairman of Iran's parliamentary National Security Committee said any adversary that takes action threatening Iran's security or national interests would see occupied territory rendered uninhabitable in under an hour.
-
----
-
-### 2026-10-25 04:02:18  #市場 #焦點
-
-閃迪暗盤漲超1%，現報1237.455美元。
-
----
-
-### 2026-10-25 04:00:50  #宏觀 #焦點 #國際
-
-【美國務院更新中東多國旅行警告 稱胡塞和伊朗襲擊威脅增加】據美國媒體24日報道，因葉門胡塞武裝和伊朗的襲擊威脅增加，美國國務院針對13箇中東國家更新了旅行警告。報道說，此次更新涉及的國家和地區包括巴林、伊朗、伊拉克、以色列、約旦、科威特、黎巴嫩、阿曼、卡達、沙烏地阿拉伯、敘利亞、阿聯酋和葉門。美駐上述國家的大使館日前在其官網上釋出最新旅行警告稱，預警級別及風險指標均未發生變化，但預警摘要已更新。其中，美駐沙特大使館釋出旅行警告稱，“伊朗支援的胡塞武裝發動潛在武裝襲擊的可能性有所增加，同時伊朗正試圖針對該地區的美國政府官員採取行動”。美駐其他國家大使館的旅行警告則只提到胡塞武裝襲擊威脅增加。（新華社）
-
----
-
-### 2026-10-25 04:00:06  #其他
-
-大眾汽車還將擴建南卡羅來納州工廠。
-
----
-
-### 2026-10-25 03:57:35  #公司
-
-【法國多地抗議再爆衝突】10月24日，數十萬示威者走上法國街頭。各地集會遊行起初總體和平，但隨著夜幕降臨，巴黎、馬賽等地均再次爆發衝突。法國內政部稱，全國共有約41萬人參加抗議。但工會方面表示，實際人數約為官方數字的兩倍。 其中，巴黎的遊行規模最大，大約11萬人參與。集會結束時，現場局勢急轉直下。數百名蒙面人員向警察投擲石塊，並試圖設定路障，防暴警察發射催淚瓦斯、出動水炮驅散人群。有商鋪被砸搶。 馬賽、里昂、波爾多、格勒諾布林等地也發生衝突，抗議者點燃垃圾桶、集裝箱等，包括珠寶店在內的商鋪超市等被搶。 在克萊蒙費朗、里爾、南特、尼斯、斯特拉斯堡等地，警察向示威者發射了多輪催淚瓦斯。 法國內政部長努內茲表示，幾乎每一場遊行中都出現了“脫離隊伍、蓄意實施暴力的高危險群體”。截至當地時間晚上7點半，已有近千人被拘押。 儘管法國政府出動7萬名警察和憲兵，巴黎等地還實施了區域性宵禁和集會禁令，嚴防上週末的騷亂重演，但仍未能完全避免。（CCTV國際時訊）
-
----
-
-### 2026-10-25 03:53:27  #公司 #國際
-
-【大眾計劃在佐治亞新建奧迪工廠】一名美國官員透露，大眾集團將在佐治亞州為奧迪品牌新建一座工廠，同時擴建南卡羅來納州現有設施。這座位於梅肯的新工廠將生產奧迪Q7、Q8、Q9車型，年產能20萬輛。特朗普預計將於週六正式公佈這項投資，美方仍在和大眾協商，為擴大本土生產的車企提供關稅減免。
-
----
-
-### 2026-10-25 03:52:08  #國際
-
-大眾將在佐治亞州新建奧迪工廠，特朗普將在集會上宣佈這一訊息。
-
----
-
-### 2026-10-25 03:49:06  #MKT News #WTI #Impact bullish #Brent
-
-TASNIM NEWS reported that Iraq's closure of border crossings with Iran is tantamount to imposing sanctions on itself.
-
----
-
-### 2026-10-25 03:45:16  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Former U.S. president Obama said seven months into the war with Iran, hundreds of Americans have been killed or wounded and U.S. missile stockpiles are nearing exhaustion.
-
----
-
-### 2026-10-25 03:45:02  #MKT News
-
-Former U.S. President Obama said Trump has turned the White House into a superficial, ostentatious showplace.
-
----
-
-### 2026-10-25 03:42:38  #市場 #焦點
-
-AMD暗盤漲超1%，現報520.585美元。
-
----
-
-### 2026-10-25 03:42:01  #其他
-
-【義大利抗議者闖入羅馬鬥獸場】在羅馬，部分示威者向警方投擲瓶子，警方動用高壓水槍和催淚瓦斯驅散人群，並對200多人進行身份核查，近百人被帶往警察局。在都靈，反擴軍遊行隊伍試圖衝破警方封鎖，部分示威者向警方投擲瓶子、發射煙花，警方使用催淚瓦斯並實施驅離。在博洛尼亞，示威者投擲瓶子和爆竹，警方使用高壓水槍驅散人群。 10月17日至18日，米蘭等地示威中出現打砸搶行為。義大利政府於10月20日批准新安全法令，設立“暴力參與示威”罪，最高可判處5年監禁，將預防性拘留擴大至未成年人，並向米蘭增派500名軍人，協助警方維護治安至年底。（CCTV國際時訊）
-
----
-
-### 2026-10-25 03:41:41  #市場
-
-【義大利多地抗議爆發衝突】10月24日，義大利首都羅馬及米蘭、都靈、博洛尼亞等多座城市舉行示威遊行，抗議生活成本上漲、反對戰爭和擴軍。其中多地抗議者與警方發生衝突。（CCTV國際時訊）
-
----
-
-### 2026-10-25 03:38:58  #市場 #焦點
-
-SK海力士暗盤漲超1%，現報137.585美元。
-
----
-
-### 2026-10-25 03:37:43  #其他
-
-黎巴嫩真主黨高階發言人：警告內塔尼亞胡，若自身安全和國家利益遭到打擊，可在一小時內讓被佔領土失去宜居條件。
-
----
-
-### 2026-10-25 03:33:43  #MKT News
-
-Riyadh Airport said effective Oct. 25 Terminal 1 will serve domestic flights and Terminal 2 will serve international flights.
-
----
-
-### 2026-10-25 03:33:30  #其他
-
-沙烏地阿拉伯利雅得機場宣告：自10月25日起，1號航站樓將分配給國內航班，2號航站樓分配給國際航班。
-
----
-
-### 2026-10-25 03:31:19  #MKT News #WTI #Impact bearish #Brent
-
-Iranian foreign ministry spokesman BAGHAEI urged European countries to comply with international law and abandon coercive measures and illegal sanctions against Iran to demonstrate sincerity in pursuing diplomatic solutions.
-
----
-
-### 2026-10-25 03:31:12  #MKT News #WTI #Impact bearish
-
-Iran foreign ministry spokesperson BAGHAEI said regional talks should probe the root causes of insecurity in the Persian Gulf and the Strait of Hormuz.
-
----
-
-### 2026-10-25 03:29:11  #國際
-
-美國佐治亞州州長宣佈繼續暫停徵收州汽油稅。
-
----
-
-### 2026-10-25 03:28:45  #焦點 #國際
-
-【伊拉克民兵武裝：美軍機一個月內171次侵犯伊領空】伊拉克民兵武裝“伊斯蘭抵抗組織”24日發表宣告稱，9月30日至10月23日，共監測到美國戰鬥機和偵察機171次侵犯伊拉克領空。（新華社）
-
----
-
-### 2026-10-25 03:26:53  #國際
-
-安全訊息人士稱，載有炸藥的無人機襲擊了伊拉克埃爾比勒東北部的伊朗庫爾德反對派營地。
-
----
-
-### 2026-10-25 03:26:35  #國際
-
-英國首相伯納姆：看好英國與歐洲深化聯絡。
-
----
-
-### 2026-10-25 03:24:01  #國際
-
-英國首相伯納姆：呼籲就重新採用歐盟人員流動規則展開討論。
-
----
-
-### 2026-10-25 03:23:15  #公司
-
-泰克資源：不列顛哥倫比亞省高地谷銅礦發生罷工，礦場降負荷生產，公司啟動應急方案，希望和工會達成公平勞資協議；本次罷工對總產量的影響取決於罷工持續時長。
-
----
-
-### 2026-10-25 03:22:42  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Al Arabiya, citing security sources, reported a drone strike on the headquarters of the Iranian opposition Kurdistan Komala Party in Balisan on the outskirts of Erbil, Iraq.
 
 ---
