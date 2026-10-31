@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-31 15:41:36",
+  "updated": "2026-10-31 15:45:44",
   "count": 13188,
   "items": [
+    {
+      "id": "5184506",
+      "time": "2026-10-31 15:42:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家電投山東海陽核電專案三期工程開工建設】國家電投10月31日通報，公司“十五五”規劃重點專案——國家電投山東海陽核電5號機組核島開始澆築第一罐混凝土，標誌著海陽核電專案三期工程開工建設。海陽核電專案位於山東省海陽市，是世界首批三代核電專案，廠址分三期規劃建設6臺百萬千瓦級核電機組。此次開工的三期工程5、6號機組採用國產化第三代先進非能動壓水堆核電技術，是“十五五”期間山東省首個開工的核電專案。"
+    },
     {
       "id": "mkt:01a190e5-e614-7ee0-aa17-ba4fc2c3de93",
       "time": "2026-10-31 15:39:07",
@@ -120118,14 +120126,6 @@
         "Impact bullish"
       ],
       "text": "【Tencent WorkBuddy integrates Kimi K3.1‑Pro model】Tencent's WorkBuddy said it has integrated model Kimi K3.1‑Pro and deployed the high-speed variant Kimi K3.1 Pro Highspeed. The company says the model delivers comparable intelligence with roughly 2–3x output speed. Capacity is currently constrained; access is being prioritised for Enterprise Flagship customers and individual paid subscribers."
-    },
-    {
-      "id": "5166096",
-      "time": "2026-10-24 15:45:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊WorkBuddy接入模型Kimi-K3.1-Pro】騰訊WorkBuddy宣佈已接入模型Kimi-K3.1-Pro。據介紹，WorkBuddy同步接入高速版模型Kimi K3.1 Pro Highspeed，同等智慧，輸出速度約2-3倍。目前資源緊張，現階段僅對“企業旗艦版”及“個人訂閱使用者”優先開放。"
     }
   ]
 }
