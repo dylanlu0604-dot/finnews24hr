@@ -1,7 +1,23 @@
 {
   "date": "2026-10-31",
-  "count": 748,
+  "count": 750,
   "items": [
+    {
+      "id": "5184502",
+      "time": "2026-10-31 15:16:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家資料局召開資料標註先行先試工作座談會 推進高質量資料集建設“以需定供”“以用促建”】據國家資料局官微訊息，國家資料局10月27日下午在京組織召開資料標註先行先試工作推進會，總結資料標註先行先試工作進展，交流典型經驗，部署下一階段重點任務。會議強調，資料標註具有場景化的顯著特點，需要各地、各主體協同聯動、共同謀劃。下一步，一是要“以需定供”形成資料集需求地圖，對資料標註先行先試城市關聯的上下游主體進行統計摸底，掌握近期、中遠期高質量資料集需求。二是要“以用促建”推動“模數共振”場景落地，引導資料標註先行先試城市、行業高質量資料集建設鏈主和先行先試單位以場景應用效果來檢驗工作成效。三是要持續引導經過標註的資料集在國家資料集管理服務系統登記，對透過質量測評的資料集進行應用跟蹤，推動實現資料集有效複用拓展。"
+    },
+    {
+      "id": "mkt:01a190cf-bd3e-7ee0-aa17-b29b87f971dc",
+      "time": "2026-10-31 15:14:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Canada and EU launch 'Future Alliance'; Carney avoids whether US invited】The two-day 21st Canada–EU summit ended Oct. 30 in Montreal with both sides announcing a new 'Future Alliance' to deepen their partnership. Prime Minister Carney said Canada is seeking to become the EU’s first 'co-member', framing the move as a response to rising geopolitical tensions and pressure from the United States. Carney warned societies are facing 'trade weaponization', said the alliance is not directed at any third party, and declined to say whether US President Trump would be invited."
+    },
     {
       "id": "5184501",
       "time": "2026-10-31 15:10:39",
