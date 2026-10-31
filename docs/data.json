@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-01 05:31:13",
-  "count": 13123,
+  "updated": "2026-11-01 05:35:05",
+  "count": 13122,
   "items": [
+    {
+      "id": "mkt:01a193e0-14d4-7ee0-aa1b-e62230807e38",
+      "time": "2026-11-01 05:31:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rubio defends inviting Russia to G20, says meeting not endorsement】US Secretary of State Rubio defended Washington’s decision to invite Russia to this year’s G20, saying dialogue is the only path to end the Ukraine war and that meeting a leader does not equal endorsing their actions. Rubio said President Trump considers Russian participation important and that a Trump‑Putin meeting could occur beforehand, possibly on the sidelines of next month’s APEC; the Kremlin has not yet replied to the invitation. EU foreign policy chief Kallas warned Putin’s attendance could normalize Russia’s return to international forums while the conflict continues. Rubio added that, beyond Ukraine, direct US‑Russia talks are necessary given Russia’s large nuclear arsenal and the need to avoid escalation."
+    },
     {
       "id": "mkt:01a193d9-a149-7ee0-aa1b-deb2cccdf5a6",
       "time": "2026-11-01 05:24:35",
@@ -119557,23 +119565,6 @@
         "MKT News"
       ],
       "text": "President Trump said Iranians are bad people and their leadership is very bad."
-    },
-    {
-      "id": "5166679",
-      "time": "2026-10-25 05:35:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【民調顯示：博爾索納羅與盧拉進入決勝輪前一日支援率持平】根據BTG Pactual/Nexus民調，博爾索納羅支援率為50.5%，盧拉為49.5%，差距在2個百分點的誤差範圍內，與週一基本持平——當時這位右翼挑戰者領先不足1個百分點。巴西人將於週日投票選出下任領導人。博爾索納羅在10月4日的首輪投票中出人意料地戰勝盧拉，使這位參議員成為贏得總統寶座的熱門人選。兩名候選人在週五晚間的最後一場電視辯論中就腐敗問題相互指責，並在經濟與公共安全議題上交鋒。週六，兩人均出席了在巴西三座主要城市舉行的支持者集會。"
-    },
-    {
-      "id": "5166678",
-      "time": "2026-10-25 05:33:13",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "資料機構Datafolha民調顯示，巴西總統決選中，弗拉維奧·博索納羅預計獲得51%的有效選票，盧拉獲得49%。"
     }
   ]
 }

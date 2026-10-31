@@ -1,7 +1,15 @@
 {
   "date": "2026-11-01",
-  "count": 164,
+  "count": 165,
   "items": [
+    {
+      "id": "mkt:01a193e0-14d4-7ee0-aa1b-e62230807e38",
+      "time": "2026-11-01 05:31:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rubio defends inviting Russia to G20, says meeting not endorsement】US Secretary of State Rubio defended Washington’s decision to invite Russia to this year’s G20, saying dialogue is the only path to end the Ukraine war and that meeting a leader does not equal endorsing their actions. Rubio said President Trump considers Russian participation important and that a Trump‑Putin meeting could occur beforehand, possibly on the sidelines of next month’s APEC; the Kremlin has not yet replied to the invitation. EU foreign policy chief Kallas warned Putin’s attendance could normalize Russia’s return to international forums while the conflict continues. Rubio added that, beyond Ukraine, direct US‑Russia talks are necessary given Russia’s large nuclear arsenal and the need to avoid escalation."
+    },
     {
       "id": "mkt:01a193d9-a149-7ee0-aa1b-deb2cccdf5a6",
       "time": "2026-11-01 05:24:35",
