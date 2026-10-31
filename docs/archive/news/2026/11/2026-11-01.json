@@ -1,7 +1,29 @@
 {
   "date": "2026-11-01",
-  "count": 165,
+  "count": 167,
   "items": [
+    {
+      "id": "mkt:01a193eb-d168-7ee0-aa1b-ea39a6dea4d5",
+      "time": "2026-11-01 05:44:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【G20 foreign ministers fail to reach consensus on geopolitical, economic-security issues】Two-day G20 foreign ministers' meeting ended Oct. 31 in Atlanta. Talks, overshadowed by the Ukraine crisis and US-Iran conflict, produced no consensus on key global geopolitical and economic-security issues."
+    },
+    {
+      "id": "5184903",
+      "time": "2026-11-01 05:44:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【二十國集團外長會未就地緣和經濟安全問題達成共識】為期兩天的二十國集團（G20）外長會10月31日在美國南部佐治亞州首府亞特蘭大結束。會議籠罩在烏克蘭危機和美伊衝突的陰影下，未能就重要全球地緣和經濟安全問題達成共識。（新華社）"
+    },
     {
       "id": "mkt:01a193e0-14d4-7ee0-aa1b-e62230807e38",
       "time": "2026-11-01 05:31:38",
