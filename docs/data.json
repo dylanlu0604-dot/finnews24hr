@@ -1,7 +1,48 @@
 {
-  "updated": "2026-11-01 02:54:27",
-  "count": 13204,
+  "updated": "2026-11-01 02:58:14",
+  "count": 13206,
   "items": [
+    {
+      "id": "mkt:01a19352-07e8-7ee0-aa1b-7d9f1266d523",
+      "time": "2026-11-01 02:56:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezaei said Iran will not negotiate or reopen the Strait of Hormuz until seven conditions set by Tehran are met."
+    },
+    {
+      "id": "5184883",
+      "time": "2026-11-01 02:54:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：有關方面擔憂相關活動可能是海盜行為。"
+    },
+    {
+      "id": "mkt:01a19350-55d1-7ee0-aa1b-76823624900b",
+      "time": "2026-11-01 02:54:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezaei said the war must end permanently and no country should \"dare\" attack Iran again."
+    },
+    {
+      "id": "5184882",
+      "time": "2026-11-01 02:54:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗安全負責人雷扎伊：戰爭應永久結束，任何國家都不應“膽敢”再次攻擊伊朗。"
+    },
     {
       "id": "5184881",
       "time": "2026-11-01 02:53:58",
@@ -120264,29 +120305,6 @@
         "其他"
       ],
       "text": "Datadog擬斥資近40億美元收購雲安全初創企業Upwind，交易估值達其年度經常性收入的80倍。"
-    },
-    {
-      "id": "5166595",
-      "time": "2026-10-25 02:58:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴西總統選舉決選前的最後當面交鋒】巴西現任總統、勞工黨候選人盧拉和自由黨候選人弗拉維奧·博索納羅10月23日晚舉行巴西總統選舉第二輪投票前的最後一次電視辯論，雙方聚焦生活成本、最低工資、公共安全和基礎設施投資等問題。（新華社）"
-    },
-    {
-      "id": "mkt:01a16f44-5e75-7ee0-a966-95d08b5fa02a",
-      "time": "2026-10-25 02:55:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Russia's foreign ministry says NATO must abandon its 'containment' policy toward Russia to restore dialogue."
     }
   ]
 }

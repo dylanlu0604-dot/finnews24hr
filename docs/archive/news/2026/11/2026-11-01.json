@@ -1,7 +1,48 @@
 {
   "date": "2026-11-01",
-  "count": 129,
+  "count": 133,
   "items": [
+    {
+      "id": "mkt:01a19352-07e8-7ee0-aa1b-7d9f1266d523",
+      "time": "2026-11-01 02:56:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezaei said Iran will not negotiate or reopen the Strait of Hormuz until seven conditions set by Tehran are met."
+    },
+    {
+      "id": "5184883",
+      "time": "2026-11-01 02:54:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：有關方面擔憂相關活動可能是海盜行為。"
+    },
+    {
+      "id": "mkt:01a19350-55d1-7ee0-aa1b-76823624900b",
+      "time": "2026-11-01 02:54:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezaei said the war must end permanently and no country should \"dare\" attack Iran again."
+    },
+    {
+      "id": "5184882",
+      "time": "2026-11-01 02:54:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗安全負責人雷扎伊：戰爭應永久結束，任何國家都不應“膽敢”再次攻擊伊朗。"
+    },
     {
       "id": "5184881",
       "time": "2026-11-01 02:53:58",
