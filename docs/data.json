@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-31 10:22:57",
+  "updated": "2026-10-31 10:26:43",
   "count": 13225,
   "items": [
+    {
+      "id": "mkt:01a18fc5-fb5e-7ee0-aa17-191a965723e2",
+      "time": "2026-10-31 10:24:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "Kyiv mayor says city water supply disrupted after Russian airstrikes."
+    },
     {
       "id": "5184409",
       "time": "2026-10-31 10:18:38",
@@ -120398,14 +120410,6 @@
         "宏觀"
       ],
       "text": "【拼多多緊急捐贈1000萬元 馳援西藏那曲抗震救災】新浪科技訊 10月24日上午訊息，10月22日，西藏那曲市巴青縣發生7.0級地震。國務院抗震救災指揮部辦公室、應急管理部將國家地震災害應急響應由四級提升至三級，各項救援工作正全力推進。為全力支援一線救災工作，拼多多緊急透過中華慈善總會向災區捐贈現金1000萬元，用於採購救災物資和裝置、安置受災群眾及支援災後重建。拼多多已成立救援響應專項小組，將持續關注災情動態，全力配合和支援後續救災工作。（新浪科技）"
-    },
-    {
-      "id": "mkt:01a16bbb-1ed9-7ee0-a961-16aceae49500",
-      "time": "2026-10-24 10:26:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nikkei reports JFE Steel and India's JSW Steel will jointly build a large blast furnace in India, aiming to double capacity by 2030."
     }
   ]
 }

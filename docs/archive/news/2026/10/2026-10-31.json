@@ -1,7 +1,19 @@
 {
   "date": "2026-10-31",
-  "count": 641,
+  "count": 642,
   "items": [
+    {
+      "id": "mkt:01a18fc5-fb5e-7ee0-aa17-191a965723e2",
+      "time": "2026-10-31 10:24:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "Kyiv mayor says city water supply disrupted after Russian airstrikes."
+    },
     {
       "id": "5184409",
       "time": "2026-10-31 10:18:38",
