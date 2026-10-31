@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-01 03:13:45",
+  "updated": "2026-11-01 03:17:32",
   "count": 13207,
   "items": [
+    {
+      "id": "mkt:01a19362-418e-7ee0-aa1b-8a03fb907119",
+      "time": "2026-11-01 03:14:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【France holds third nationwide protest in three weeks; 422 arrested】On Oct. 31 local time France held the third nationwide large-scale protest in three weeks. Interior Minister Laurent Nunez said police carried out about 40,000 security checks and arrested 422 people. Nunez said marches largely proceeded smoothly but that each procession included individuals who committed vandalism and looting, and clashes erupted in some areas as demonstrations wound down. The interior ministry put turnout at roughly 320,000 nationwide; student unions estimated nearly 500,000 participants, including about 200,000 in Paris. The government had classified the protests as \"high risk\" and deployed roughly 70,000 police and gendarmes nationwide."
+    },
+    {
+      "id": "5184889",
+      "time": "2026-11-01 03:13:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克表示不會向暴力屈服。"
+    },
+    {
+      "id": "5184888",
+      "time": "2026-11-01 03:13:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國再現大規模示威活動 警方逮捕422人】當地時間10月31日，法國發生三週以來第三輪全國性大規模示威活動。當天晚間，法國內政部長洛朗·努涅斯表示，在當天法國各地舉行的示威活動中，警方累計實施約4萬次檢查，逮捕422人。（央視新聞）"
+    },
     {
       "id": "5184887",
       "time": "2026-11-01 03:06:57",
@@ -120286,30 +120312,6 @@
         "DXY"
       ],
       "text": "Al Arabiya, citing security sources, reported a drone strike on the headquarters of the Iranian opposition Kurdistan Komala Party in Balisan on the outskirts of Erbil, Iraq."
-    },
-    {
-      "id": "mkt:01a16f56-a311-7ee0-a966-993fad8911be",
-      "time": "2026-10-25 03:15:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin spokesman Peskov said that after agreement on a humanitarian mission in Aleksandrovka, Russian President Putin and US President Trump currently have no plans for a new meeting; contacts with the US continue at the working level."
-    },
-    {
-      "id": "5166601",
-      "time": "2026-10-25 03:14:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部長布蘭奇：司法部起訴阿拉斯加選舉部門並非要阻止投票或結果認證，目的是保全選票供州方研判選民是否遭誤導；案件由司法部獨立起草，未對接任何競選方，僅依據聯邦法律。"
-    },
-    {
-      "id": "5166600",
-      "time": "2026-10-25 03:14:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統新聞秘書佩斯科夫：在達成亞歷山德羅夫卡人道主義行動相關協議後，目前暫無安排普京與特朗普舉行新一輪會談。俄美之間仍在工作層面保持接觸。"
     }
   ]
 }
