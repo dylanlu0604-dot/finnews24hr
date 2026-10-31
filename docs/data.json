@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-31 22:22:48",
+  "updated": "2026-10-31 22:26:46",
   "count": 13154,
   "items": [
+    {
+      "id": "5184731",
+      "time": "2026-10-31 22:24:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱阿列什基撤離人員已進入境 人道主義行動成功完成】當地時間10月31日，烏克蘭最高拉達人權專員盧比涅茨表示，從赫爾松州阿列什基撤離的居民已越過邊境進入烏克蘭境內，此次人道主義行動成功完成。盧比涅茨說，行動得益於烏方與俄羅斯聯邦人權專員蘭特拉託娃達成的協議，以及美國第一夫人梅拉尼婭·特朗普的協助與協調。他表示停火協議將持續到11月1日22時59分，這是自2022年以來最長的停火協議，烏俄雙方都遵守了該協議。"
+    },
     {
       "id": "mkt:01a19250-08c7-7ee0-aa19-f32ad4099f37",
       "time": "2026-10-31 22:14:40",
@@ -119862,14 +119870,6 @@
         "焦點"
       ],
       "text": "比特幣跌破80000美元，日內跌1.54%。"
-    },
-    {
-      "id": "mkt:01a16e4d-2546-7ee0-a965-151d6f785da4",
-      "time": "2026-10-24 22:25:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. updates travel advisories as Houthi attack threat rises】On Oct. 24 local time the U.S. updated travel advisories for Gulf and other Middle East states, citing an increased threat of attacks by Iranian-backed Houthi forces. The advisory names Saudi Arabia, Qatar, the United Arab Emirates, Iraq, Lebanon and Israel."
     }
   ]
 }
