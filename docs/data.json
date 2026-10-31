@@ -1,7 +1,26 @@
 {
-  "updated": "2026-10-31 15:53:24",
-  "count": 13186,
+  "updated": "2026-10-31 15:57:17",
+  "count": 13187,
   "items": [
+    {
+      "id": "5184508",
+      "time": "2026-10-31 15:56:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）達成協議，將向泰國供應最多200萬噸液化天然氣（LNG）。"
+    },
+    {
+      "id": "mkt:01a190f3-8824-7ee0-aa17-d3f97c82e35c",
+      "time": "2026-10-31 15:54:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SPIC starts construction on Phase III of Haiyang nuclear project in Shandong】State Power Investment Corporation (SPIC) said on Oct. 31 that Phase III of its Haiyang nuclear power project has begun after the reactor island for Unit 5 received its first concrete pour. The Haiyang site in Shandong is planned in three phases for six 1,000-MW-class units and is among the world’s first third-generation nuclear projects. Units 5 and 6 will use domestically developed third-generation advanced passive pressurized-water reactor technology. SPIC said the Phase III start is a key project under its 15th Five-Year Plan and is Shandong’s first nuclear project to break ground during that planning period."
+    },
     {
       "id": "5184507",
       "time": "2026-10-31 15:46:09",
@@ -120104,14 +120123,6 @@
         "國際"
       ],
       "text": "烏克蘭方面表示，“星鏈”（Starlink）和“星盾”（Starshield）衛星終端在時速超過161公里時已能正常工作，在時速超過400公里時也能保持連線穩定。烏克蘭國防部正在進行進一步測試，以確認所有限制措施是否已全部解除。"
-    },
-    {
-      "id": "5166101",
-      "time": "2026-10-24 15:54:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國聯通：已在蘋果直營店/授權店安排駐店員，協助iPhone Duo購機使用者開通eSIM】10月23日上午，蘋果首款純eSIM摺疊屏iPhone Duo正式開售。中國聯通現已同步開售。聯通華盛通訊有限公司終端銷售部總經理姚惠華介紹，2009年買過iPhone的老使用者將享有聯通渠道最高優先順序的iPhone Duo購機資格；新機可在中國聯通蘋果授權店、中國聯通APP以及“iPhone Duo優先購”聯通官方購機Skill第一時間預約購買。開通也不難。除中國聯通營業廳外，聯通已在蘋果直營店、APR蘋果授權店等多家門店安排千餘名駐店員，協助使用者現場開通eSIM，全程僅需約3分鐘。"
     }
   ]
 }

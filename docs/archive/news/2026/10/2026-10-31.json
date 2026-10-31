@@ -1,7 +1,26 @@
 {
   "date": "2026-10-31",
-  "count": 758,
+  "count": 760,
   "items": [
+    {
+      "id": "5184508",
+      "time": "2026-10-31 15:56:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）達成協議，將向泰國供應最多200萬噸液化天然氣（LNG）。"
+    },
+    {
+      "id": "mkt:01a190f3-8824-7ee0-aa17-d3f97c82e35c",
+      "time": "2026-10-31 15:54:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SPIC starts construction on Phase III of Haiyang nuclear project in Shandong】State Power Investment Corporation (SPIC) said on Oct. 31 that Phase III of its Haiyang nuclear power project has begun after the reactor island for Unit 5 received its first concrete pour. The Haiyang site in Shandong is planned in three phases for six 1,000-MW-class units and is among the world’s first third-generation nuclear projects. Units 5 and 6 will use domestically developed third-generation advanced passive pressurized-water reactor technology. SPIC said the Phase III start is a key project under its 15th Five-Year Plan and is Shandong’s first nuclear project to break ground during that planning period."
+    },
     {
       "id": "5184507",
       "time": "2026-10-31 15:46:09",
