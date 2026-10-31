@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-31 15:37:43",
+  "updated": "2026-10-31 15:41:36",
   "count": 13188,
   "items": [
+    {
+      "id": "mkt:01a190e5-e614-7ee0-aa17-ba4fc2c3de93",
+      "time": "2026-10-31 15:39:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mexico foreign ministry says U.S. state cannot unilaterally alter Mexico‑U.S. border】Mexico's foreign ministry said on the 30th the Mexico‑U.S. border cannot be changed by a decision of a U.S. state. Responding to Texas officials' claim that nine islands in the border river belong to Texas, the ministry said U.S. state governments have no authority to make such determinations. It said the International Boundary and Water Commission, the binational body authorized to implement the 1970 Mexico‑U.S. boundary treaty, has the authority to determine each island's border status, and the treaty bars either party from constructing works the commission finds could alter or impede the river's normal flow. Mexico said it will closely monitor actions in the area, adhere to the treaty and pursue bilateral dialogue through established mechanisms."
+    },
+    {
+      "id": "5184505",
+      "time": "2026-10-31 15:37:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【墨西哥外交部：墨美邊界不能由美國州政府單方面改變】墨西哥外交部30日發表宣告說，墨西哥與美國之間的邊界不能因美國某個州政府的決定而改變。針對美國得克薩斯州官員聲稱美墨邊境河上的9座島嶼屬於該州，墨外交部表示，美國州政府無權作出此類認定。宣告強調，國際邊界和水資源委員會是兩國政府授權負責執行1970年墨美邊界條約的機構，有權確定每座島嶼位於邊界的哪一側。根據條約，任何一方均不得修建該委員會認定可能改變或阻礙河流正常水流的工程設施。宣告說，墨方將密切關注該地區的任何行動，並重申將遵守條約，透過既定機制繼續開展雙邊對話。"
+    },
+    {
+      "id": "5184504",
+      "time": "2026-10-31 15:37:22",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【谷歌據悉洽商參與特朗普的“金穹”防禦計劃】據知情人士稱，Alphabet旗下谷歌正在與美國國防部洽談，擬合作開展一項新的資料安全工作，以支援價值1850億美元的“金穹”導彈防禦專案。知情人士表示，五角大樓正在組建一個新的行業組織，旨在確保打造“金穹”所用的軍事軟體的資料安全。其中一位知情人士稱，會談主要集中在谷歌的資料儲存、網路和網路安全能力方面。他們還表示，磋商仍處於早期階段，計劃可能會有變。知情人士補充說，從谷歌分拆出來的網路公司Aalyria Technologies也參與該組織。一位五角大樓官員表示，雖然該部門可能會探討一些初步方案，但尚未就新的聯盟或行業參與者做出最終決定。"
+    },
     {
       "id": "5184503",
       "time": "2026-10-31 15:28:18",
@@ -120100,34 +120126,6 @@
         "其他"
       ],
       "text": "【騰訊WorkBuddy接入模型Kimi-K3.1-Pro】騰訊WorkBuddy宣佈已接入模型Kimi-K3.1-Pro。據介紹，WorkBuddy同步接入高速版模型Kimi K3.1 Pro Highspeed，同等智慧，輸出速度約2-3倍。目前資源緊張，現階段僅對“企業旗艦版”及“個人訂閱使用者”優先開放。"
-    },
-    {
-      "id": "5166093",
-      "time": "2026-10-24 15:39:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【企業微信回應少量賬號髮色情資訊】10月24日，少量企業微信賬號向客戶傳送疑似色情引流資訊。 隨後，企業微信釋出公告，“經企業微信安全團隊排查，確認為某第三方外掛軟體服務被攻破，導致使用該外掛服務的賬號受到影響。我們已將受影響的賬號強制下線，並封禁相關引流連結。 此次事件再次敲響警鐘：以“賬號多開”、“群控”等為噱頭的外掛軟體，存在巨大的安全隱患和隱私風險。使用此類服務，可能導致賬號被他人操控、企業資料和客戶資訊洩露，危及企業正常經營，損害客戶權益。所謂的“效率提升”，不能以犧牲安全和信任為代價。 為保護企業和使用者的合法權益，維護安全、健康的平臺生態，企業微信將進一步加大對外掛軟體的打擊力度： 一、持續排查和清理外掛軟體。加強對篡改客戶端、繞過平臺安全機制及使用限制等外掛行為的識別和處置，持續打擊外掛軟體及其開發、銷售行為，並依法追究相關主體的責任。 二、嚴肅處理使用外掛的違規行為。對使用外掛軟體的賬號，企業微信將依據平臺相關協議和規範，視違規情節採取相應處理措施。請正在使用外掛的企業和使用者立即停用相關軟體及服務，排查賬號安全隱患，避免企業經營和客戶服務受到進一步影響。 企業賬號承載著企業長期積累的客戶關係和信任。我們呼籲企業、員工和服務商共同拒絕外掛，安全、規範地使用賬號。 企業微信將堅決、持續打擊外掛軟體，切實維護企業和使用者的合法權益。”"
-    },
-    {
-      "id": "mkt:01a16cd9-75cb-7ee0-a962-375c297c0e0a",
-      "time": "2026-10-24 15:39:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "600221.SS",
-        "Impact bullish"
-      ],
-      "text": "【HNA Holdings and Beijing Zero‑G Space sign strategic cooperation to expand aircraft communications】Oct 23 — HNA Holdings (600221) signed a strategic cooperation agreement with Beijing Zero‑G Space Technology Co. to jointly develop aircraft communication services and drive exploration and implementation of related businesses. HNA said the tie-up will also advance its efforts to pursue satellite communications business opportunities."
-    },
-    {
-      "id": "mkt:01a16cd8-c67a-7ee0-a962-2eabf6e16908",
-      "time": "2026-10-24 15:38:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China first marriages rebound to 10.42 mln in 2025】China recorded 6.7651 mln marriage registrations in 2025 (including first and remarriages), up 10.8% YoY, the China Statistical Yearbook 2026 compiled by the National Bureau of Statistics shows. First marriages totaled 10.4233 mln and remarriages 3.1069 mln; first marriages rose by 1.251 mln YoY and topped 10 mln again. Guangdong recorded 1.009 mln first marriages, the only province above 1 mln. First marriages are more closely linked to birth trends than remarriages."
     }
   ]
 }
