@@ -1,7 +1,37 @@
 {
   "date": "2026-10-31",
-  "count": 582,
+  "count": 585,
   "items": [
+    {
+      "id": "mkt:01a18f8a-db0c-7ee0-aa16-ac1fe8b9a3d6",
+      "time": "2026-10-31 09:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact mixed",
+        "Copper",
+        "Hang Seng Index"
+      ],
+      "text": "China's official October manufacturing PMI due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a18f89-8b14-7ee0-aa16-a74853770dca",
+      "time": "2026-10-31 09:18:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatar holds marathon Tehran talks; mediators to resume in Doha Saturday】Axios, citing diplomatic sources, said Qatari mediators held more than 12 hours of talks in Tehran on Friday seeking a deal to restart direct U.S.-Iran negotiations and avert a post-midterm escalation; discussions will continue in Doha on Saturday. A diplomatic source said the mediators kept regular contact with the White House and described progress as positive, though both sides remain engaged in trying to reach an agreement. Qatar is pressing Washington and Tehran to agree on a package of reciprocal measures to be implemented within days to enable a return to direct talks on Iran’s nuclear program and other issues. A U.S. official said two mutually incompatible demands have blocked progress: the Trump administration wants Iran to make nuclear concessions as a condition for resuming talks, while Iran insists the U.S. must first lift a maritime blockade, unfreeze funds and allow oil sales. Qatar is pushing Iran to permit UN nuclear inspectors access to its damaged nuclear facility as a confidence-building step; the U.S. seeks that in exchange for sanction relief."
+    },
+    {
+      "id": "5184148",
+      "time": "2026-10-31 09:18:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【機構預測：2030年中國車企在歐洲銷量將達270萬輛，37%實現本土生產】在10月29—30日舉辦的2026全球華人汽車精英聯合年會暨“中國擁抱世界”汽車產業國際發展論壇上，羅蘭貝格（巴黎）公司合夥人Eric Esperance預測，2030年中國車企在歐洲銷量將達270萬輛，其中37%實現本土生產，產能將透過綠地投資與盤活歐洲閒置產能雙路徑推進。針對汽車供應鏈企業出海佈局，他建議中國車企可採取跟隨核心客戶合資共建、逐步拓展歐洲本土客戶群等階梯式落地路徑，同時提示企業需正視中歐商業文化在決策節奏、溝通邏輯與工作理念上的核心差異。他強調，歐盟關稅政策與本地化含量規則已構成實質性結構性壓力，推進深度本地化運營，是中國車企在歐洲市場實現規模化發展的必由之路。"
+    },
     {
       "id": "5184132",
       "time": "2026-10-31 09:15:34",
