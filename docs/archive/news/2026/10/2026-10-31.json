@@ -1,7 +1,150 @@
 {
   "date": "2026-10-31",
-  "count": 969,
+  "count": 985,
   "items": [
+    {
+      "id": "5184795",
+      "time": "2026-10-31 23:58:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安在與烏克蘭總統澤連斯基共同舉行的記者會上發表講話。"
+    },
+    {
+      "id": "5184794",
+      "time": "2026-10-31 23:47:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤跌破103美元，日內跌超1.2%。"
+    },
+    {
+      "id": "5184793",
+      "time": "2026-10-31 23:43:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破113美元，日內跌超1%。"
+    },
+    {
+      "id": "5184792",
+      "time": "2026-10-31 23:42:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國：正在與俄羅斯協調應對（恐怖襲擊）措施。"
+    },
+    {
+      "id": "5184791",
+      "time": "2026-10-31 23:27:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度：四方機制部長將提供超過8500萬美元援助，用於人工智慧及技術普惠。"
+    },
+    {
+      "id": "5184790",
+      "time": "2026-10-31 23:26:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度：四國機制對網路與電信詐騙表示嚴重關切。"
+    },
+    {
+      "id": "5184789",
+      "time": "2026-10-31 23:26:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度：四國機制外長強調霍爾木茲海峽航行自由。"
+    },
+    {
+      "id": "mkt:01a19288-e53a-7ee0-aa1a-155b494c3403",
+      "time": "2026-10-31 23:16:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【FSB says US warned of possible Moscow terror plot】RIA reported the FSB said it received, via established cooperation channels from the US, information on preparations for a possible terrorist attack in Moscow and is taking corresponding measures. The US embassy in Moscow said it had become aware of a credible threat of mass casualties at the Tsaritsyno Museum Reserve on Saturday and that the US government was coordinating with Russian authorities."
+    },
+    {
+      "id": "5184788",
+      "time": "2026-10-31 23:08:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "Rivian、福特等車企正在普及3D列印技術，以此降本提速。"
+    },
+    {
+      "id": "mkt:01a1927f-c471-7ee0-aa1a-0e02b803a146",
+      "time": "2026-10-31 23:06:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "RIA reported Russia's FSB said it had been informed by the US of a possible terrorist attack in Moscow and is taking appropriate measures."
+    },
+    {
+      "id": "5184787",
+      "time": "2026-10-31 23:04:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聯邦安全域性：正在採取適當措施。"
+    },
+    {
+      "id": "5184786",
+      "time": "2026-10-31 23:04:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯聯邦安全域性：已從美國收到關於莫斯科可能發生恐怖襲擊計劃的情報。"
+    },
+    {
+      "id": "5184784",
+      "time": "2026-10-31 23:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普釋出配圖文字：奧巴馬時代之前，沒有ISIS，沒有“黑人的命也是命”運動，沒有反法西斯行動組織（ANTIFA），沒有針對警察的鬥爭，沒有把針對美國公民的宣傳合法化的法律，沒有“通俄門”騙局，沒有昂貴的奧巴馬醫改，沒有特朗普失調症（TDS，這裡是特朗普一方用來指代對他的非理性敵視的說法）。"
+    },
+    {
+      "id": "5184783",
+      "time": "2026-10-31 22:58:53",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【幣安稱已補回近期安全事件中90%的被盜資產 將於週日開放提現】幣安表示，已補回近期一起安全事件中90%的被盜資產，高於此前的80%。該公司已撥出超過63.4億美元公司資金，用於彌補駭客攻擊造成的損失。剩餘10%為受影響資產中排名前十之外、流動性較低的代幣。幣安計劃週日重新開放使用者提款。幣安承諾將SAFU緊急儲備金補充至約10億美元。期貨保險基金已進行再平衡，以幫助覆蓋受影響資產；基金規模仍高於規定水平。"
+    },
+    {
+      "id": "5184782",
+      "time": "2026-10-31 22:57:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿爾及利亞外交部：聯合國安理會關於西撒哈拉的決議草案偏袒摩洛哥，將波利薩里奧陣線邊緣化。"
+    },
+    {
+      "id": "5184781",
+      "time": "2026-10-31 22:55:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿爾及利亞外交部：對聯合國西撒哈拉特派團任期未獲續期表示遺憾。"
+    },
     {
       "id": "5184774",
       "time": "2026-10-31 22:46:28",
