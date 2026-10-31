@@ -1,7 +1,15 @@
 {
   "date": "2026-10-31",
-  "count": 629,
+  "count": 630,
   "items": [
+    {
+      "id": "mkt:01a18fb2-407e-7ee0-aa17-0b895b9d0a29",
+      "time": "2026-10-31 10:03:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Protest clashes near Poland's Constitutional Court; president cuts visit short to return】On the evening of the 30th protests near Poland's Constitutional Court turned violent, with clashes between some demonstrators and police. Three protesters who entered the court grounds were detained and there were multiple injuries. President Nawrocki interrupted a visit to Senegal and returned to Poland."
+    },
     {
       "id": "5184322",
       "time": "2026-10-31 09:56:43",

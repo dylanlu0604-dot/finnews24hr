@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-31 09:59:43",
+  "updated": "2026-10-31 10:03:58",
   "count": 13221,
   "items": [
+    {
+      "id": "mkt:01a18fb2-407e-7ee0-aa17-0b895b9d0a29",
+      "time": "2026-10-31 10:03:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Protest clashes near Poland's Constitutional Court; president cuts visit short to return】On the evening of the 30th protests near Poland's Constitutional Court turned violent, with clashes between some demonstrators and police. Three protesters who entered the court grounds were detained and there were multiple injuries. President Nawrocki interrupted a visit to Senegal and returned to Poland."
+    },
     {
       "id": "5184322",
       "time": "2026-10-31 09:56:43",
@@ -120356,14 +120364,6 @@
         "其他"
       ],
       "text": "【朝鮮舉行人民軍第三次連長大會】據朝中社24日報道，朝鮮人民軍第三次連長大會22日至23日在平壤舉行。朝鮮勞動黨總書記、國務委員長金正恩主持大會。此次大會是朝鮮勞動黨第九次代表大會後召開的首次全軍會議。（新華社）"
-    },
-    {
-      "id": "mkt:01a16ba5-ee33-7ee0-a961-02142b8c052d",
-      "time": "2026-10-24 10:03:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【N. KOREA holds 3rd Korean People's Army company commanders' conference】KCNA reported on the 24th that the Korean People's Army held its third company commanders' conference in Pyongyang on the 22nd–23rd, chaired by Workers' Party General Secretary and State Affairs Commission chairman Kim Jong Un. It was the first army-wide military meeting since the 9th Workers' Party Congress."
     }
   ]
 }
