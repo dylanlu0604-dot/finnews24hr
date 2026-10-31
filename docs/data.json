@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-31 22:42:28",
+  "updated": "2026-10-31 22:46:52",
   "count": 13166,
   "items": [
+    {
+      "id": "5184768",
+      "time": "2026-10-31 22:44:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國內政部：今日全國各地示威者人數約為1.5萬人。"
+    },
     {
       "id": "5184766",
       "time": "2026-10-31 22:40:36",
@@ -119951,18 +119959,6 @@
         "其他"
       ],
       "text": "葉門交通部長表示，胡塞武裝已第四次襲擊亞丁機場；機場空中交通正常，城市生活正常，機場和港口均照常運營。"
-    },
-    {
-      "id": "mkt:01a16e5e-2a42-7ee0-a965-22578e1f0e67",
-      "time": "2026-10-24 22:43:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Houthi forces said they struck a Saudi assembly area, the so-called \"Victory Camp\", and a naval base in Aden."
     }
   ]
 }
