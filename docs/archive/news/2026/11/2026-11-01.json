@@ -1,7 +1,17 @@
 {
   "date": "2026-11-01",
-  "count": 163,
+  "count": 164,
   "items": [
+    {
+      "id": "mkt:01a193d9-a149-7ee0-aa1b-deb2cccdf5a6",
+      "time": "2026-11-01 05:24:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Protests across Germany spread to 30+ cities, escalate into clashes】On Oct. 31 tens of thousands demonstrated in more than 30 German cities including Berlin, Frankfurt and Munich, protesting for better education and lower living costs. Overnight some demonstrations turned violent in parts of the country, with clashes between protesters and police and multiple arrests reported."
+    },
     {
       "id": "5184902",
       "time": "2026-11-01 05:11:37",
