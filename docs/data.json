@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-31 16:05:04",
-  "count": 13191,
+  "updated": "2026-10-31 16:09:00",
+  "count": 13190,
   "items": [
+    {
+      "id": "5184514",
+      "time": "2026-10-31 16:06:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球首個天地一體化太空算力雲平臺在京釋出 覆蓋40餘顆衛星算力資源】10月30日，北京太空算力創新中心釋出全球首個天地一體化太空算力雲平臺。平臺已完成核心功能建設，覆蓋40餘顆衛星算力資源，並與CPU、GPU、NPU等地面算力實現了統一納管與池化排程，支援大模型推理業務的天地一體化協同排程。"
+    },
     {
       "id": "mkt:01a190fd-0760-7ee0-aa17-e138e402c5df",
       "time": "2026-10-31 16:04:23",
@@ -120143,24 +120151,6 @@
         "國際"
       ],
       "text": "【哈爾濱開通國內首條直飛俄羅斯堪察加定期國際客運航線】從黑龍江省交通運輸廳瞭解到，10月24日，哈爾濱至俄羅斯堪察加彼得羅巴甫洛夫斯克定期國際客運航線正式開通，這是國內首條直飛俄羅斯堪察加邊疆區的定期客運航線。該航線由俄羅斯伊爾航空公司執飛，每週六往返1班。（央視新聞）"
-    },
-    {
-      "id": "5166106",
-      "time": "2026-10-24 16:08:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列總理據悉下令改變對馬爾維納斯群島立場】據報道，以色列總理內塔尼亞胡已下令以色列改變對福克蘭群島（馬爾維納斯群島）的立場，轉而支援阿根廷，此舉是在英國對以色列西岸定居點實施制裁之後。以色列外交官已接到指示，要支援英國與阿根廷就群島未來進行直接談判，並承認阿根廷與該領土的“歷史聯絡”。此舉雖未正式支援阿根廷的主權主張，但標誌著以色列與英國關係的惡化。"
-    },
-    {
-      "id": "mkt:01a16cf3-419c-7ee0-a962-4e0ab1201631",
-      "time": "2026-10-24 16:07:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts"
-      ],
-      "text": "【Argentine judge drops criminal probe of President Milei in $LIBRA crypto case】A federal judge in Argentina on the 23rd revoked the criminal investigation into President Javier Milei and 10 others over the $LIBRA cryptocurrency project, saying evidence was insufficient to prove fraud or abuse of office. Judge Marcelo Martínez de Giorgi cleared 11 people, including Milei, his sister and presidential chief of staff Karina Milei. Milei posted on social media the same day seeking compensation for reputational damage."
     }
   ]
 }
