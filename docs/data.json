@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-31 09:40:55",
-  "count": 13216,
+  "updated": "2026-10-31 09:44:42",
+  "count": 13215,
   "items": [
+    {
+      "id": "te:economy:596971",
+      "time": "2026-10-31 09:42:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Business Confidence",
+        "Importance 3"
+      ],
+      "text": "China Manufacturing Unexpectedly Weakens — China’s official NBS Manufacturing PMI fell to 49.3 in October 2026 from 50.1 in September, missing market expectations of 50.0 and marking its lowest reading since July."
+    },
     {
       "id": "mkt:01a18f9d-27a8-7ee0-aa17-0193702b0e1b",
       "time": "2026-10-31 09:40:03",
@@ -120298,24 +120310,6 @@
         "其他"
       ],
       "text": "【公募、外資密集出手！持續佈局港股創新藥】近期資金風險偏好下降，市場波動顯著加劇，創新藥等成長賽道出現較大調整。在此背景下，多家公募基金和外資機構密集南下，持續佈局創新藥龍頭股。多位基金經理在近期的三季報中也強調，未來幾年可能是中國創新藥關鍵臨床資料讀出、海外授權推進及商業化價值兌現的重要階段。"
-    },
-    {
-      "id": "mkt:01a16b93-8dd2-7ee0-a960-f809c17e0f7e",
-      "time": "2026-10-24 09:43:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【NBS: Mid‑October 22 items rose; live hog prices down 4.9%】China's National Bureau of Statistics said its mid‑October monitoring of nine categories covering 50 key producer‑input markets showed 22 items rose, 25 fell and 3 were unchanged versus late September. Liquefied natural gas was 6,749.4 yuan/tonne, up 9.1% versus late September; live hogs (three‑way cross) were 9.8 yuan/kg, down 4.9%."
-    },
-    {
-      "id": "mkt:01a16b92-76b6-7ee0-a960-f2fc6544fa03",
-      "time": "2026-10-24 09:42:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Saudi-led coalition said it intercepted and destroyed a ballistic missile launched by Houthi militants toward Riyadh."
     }
   ]
 }

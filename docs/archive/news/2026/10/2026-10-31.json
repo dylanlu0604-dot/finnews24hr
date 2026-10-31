@@ -1,7 +1,19 @@
 {
   "date": "2026-10-31",
-  "count": 620,
+  "count": 621,
   "items": [
+    {
+      "id": "te:economy:596971",
+      "time": "2026-10-31 09:42:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Business Confidence",
+        "Importance 3"
+      ],
+      "text": "China Manufacturing Unexpectedly Weakens — China’s official NBS Manufacturing PMI fell to 49.3 in October 2026 from 50.1 in September, missing market expectations of 50.0 and marking its lowest reading since July."
+    },
     {
       "id": "mkt:01a18f9d-27a8-7ee0-aa17-0193702b0e1b",
       "time": "2026-10-31 09:40:03",
