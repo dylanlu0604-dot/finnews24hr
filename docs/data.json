@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-31 22:15:01",
-  "count": 13157,
+  "updated": "2026-10-31 22:18:59",
+  "count": 13156,
   "items": [
+    {
+      "id": "mkt:01a19250-08c7-7ee0-aa19-f32ad4099f37",
+      "time": "2026-10-31 22:14:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Ukrainian President Zelenskiy met Turkish President Erdogan in Istanbul to discuss the latest developments in the Russia-Ukraine conflict."
+    },
     {
       "id": "5184714",
       "time": "2026-10-31 22:13:05",
@@ -119879,23 +119887,6 @@
         "MKT News"
       ],
       "text": "【On eve of Brazil runoff, Flavio Bolsonaro and Lula neck‑and‑neck in CNT/MDA poll】CNT/MDA poll published Saturday shows right‑wing senator Flavio Bolsonaro and President Lula virtually tied ahead of Sunday’s runoff: Bolsonaro 46.3%, Lula 45.0%. A week‑earlier poll showed Bolsonaro 46.8% vs Lula 45.9%. CNT/MDA surveyed 2,032 respondents Oct 21–23; margin of error ±2.2 percentage points."
-    },
-    {
-      "id": "5166376",
-      "time": "2026-10-24 22:18:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "英特爾暗盤跌超2%，現報85.725美元。"
-    },
-    {
-      "id": "mkt:01a16e43-f267-7ee0-a965-03990ae4bc11",
-      "time": "2026-10-24 22:15:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Power fully restored in Baqing, Nagqu, Tibet after M7.0 earthquake】State Grid said on Oct. 24 that at 20:38 local time power supply in the M7.0 earthquake zone in Baqing, Nagqu, Tibet was fully restored. State Grid Tibet mobilized 301 repair personnel, 39 vehicles, 19 medium- and low-voltage generator trucks, 83 sets of emergency equipment and connection materials. Crews set up on-site command, reopened distribution lines and restored power to shelters, tents and prefabricated housing, following an on-site “build one, energize one” procedure. State Grid Tibet said it will continue to prioritize power protection at key points to ensure affected residents have heating and to maintain safe, reliable supply."
     }
   ]
 }

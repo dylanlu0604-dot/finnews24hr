@@ -1,7 +1,15 @@
 {
   "date": "2026-10-31",
-  "count": 947,
+  "count": 948,
   "items": [
+    {
+      "id": "mkt:01a19250-08c7-7ee0-aa19-f32ad4099f37",
+      "time": "2026-10-31 22:14:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Ukrainian President Zelenskiy met Turkish President Erdogan in Istanbul to discuss the latest developments in the Russia-Ukraine conflict."
+    },
     {
       "id": "5184714",
       "time": "2026-10-31 22:13:05",
