@@ -1,7 +1,87 @@
 {
-  "updated": "2026-10-31 09:37:08",
-  "count": 13209,
+  "updated": "2026-10-31 09:40:55",
+  "count": 13216,
   "items": [
+    {
+      "id": "mkt:01a18f9d-27a8-7ee0-aa17-0193702b0e1b",
+      "time": "2026-10-31 09:40:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Alibaba",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "BABA.N"
+      ],
+      "text": "【Apple to integrate Alibaba's Qianwen into Apple Intelligence; developer beta opens Nov 4】Oct 31 — Apple and Alibaba will integrate Alibaba’s Qianwen into Apple Intelligence for Chinese users. Qianwen’s text- and image-understanding and content-generation capabilities will be accessible via Siri, Apple’s writing tools and visual intelligence. The features enter the iOS developer beta on Nov 4 and are scheduled to ship to Chinese users with iOS 27.3 in December."
+    },
+    {
+      "id": "5184263",
+      "time": "2026-10-31 09:39:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美光暗盤突破900美元，日內漲1.8%。"
+    },
+    {
+      "id": "5184256",
+      "time": "2026-10-31 09:38:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤跌破2.9美元，日內跌幅0.7%。"
+    },
+    {
+      "id": "te:economy:596970",
+      "time": "2026-10-31 09:37:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "NBS General PMI",
+        "Importance 1"
+      ],
+      "text": "China Composite PMI Falls Back into Contraction — China’s NBS Composite PMI Output Index slipped to 49.7 in October 2026 from September’s nine-month high of 50.7, marking the fifth contraction in overall business activity so far this year. The decline reflected a contraction in manufacturing output and a renewed downturn in the services sector, which had expanded in the previous month."
+    },
+    {
+      "id": "mkt:01a18f9a-824b-7ee0-aa16-f92cc323c1b7",
+      "time": "2026-10-31 09:37:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "China's National Bureau of Statistics (NBS) said October manufacturing PMI fell to 49.3%, down 0.8 percentage points month-on-month, indicating a pullback in manufacturing activity. By scale, large firms' PMI was 50.2%, down 0.4 percentage points and still above the 50 expansion threshold; medium and small firms' PMIs were 48.4% and 47.5%, down 1.3 and 1.4 percentage points respectively, both below 50."
+    },
+    {
+      "id": "5184247",
+      "time": "2026-10-31 09:37:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【法國棄用中企選諾基亞後斷網9小時】本週法國發生的一起行動通訊網路故障，引發了外界對芬蘭電信巨頭諾基亞產品可靠性的質疑。與此同時，歐盟正以所謂安全擔憂為由，持續推動逐步淘汰中國供應商的裝置。法國最大電信運營商Orange法國公司執行長熱羅姆·埃尼克向法國《費加羅報》表示，故障於週一上午11時37分首次出現在該公司的網路中，直到晚上8時30分才結束，導致部分使用者的通訊服務中斷長達9小時。埃尼克表示，此次故障的根本原因是諾基亞程式碼中的一個軟體漏洞。他補充說，Orange此前從未遇到過這一漏洞，而且該漏洞“極難發現”。（觀察者網）"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610313917521958",
+      "time": "2026-10-31 09:36:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：10月份非製造業商務活動指數為49.7%】據國家統計局，10月份，非製造業商務活動指數為49.7%，比上月下降0.5個百分點，非製造業景氣水平有所下降。"
+    },
     {
       "id": "5184241",
       "time": "2026-10-31 09:35:37",
@@ -48,6 +128,15 @@
         "資料"
       ],
       "text": "【國家統計局：大型企業繼續擴張】2026年10月31日國家統計局服務業調查中心和中國物流與採購聯合會釋出了中國採購經理指數。對此，國家統計局服務業調查中心首席統計師霍麗慧進行了解讀。大型企業繼續擴張。製造業大型企業PMI為50.2%，比上月下降0.4個百分點，仍位於擴張區間；中型企業和小型企業PMI分別為48.4%和47.5%，比上月下降1.3個和1.4個百分點，景氣水平均有回落。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610313917521873",
+      "time": "2026-10-31 09:33:37",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【10月中國製造業採購經理指數公佈 景氣呈季節性回撥】國家統計局服務業調查中心、中國物流與採購聯合會今天公佈10月中國採購經理指數。資料顯示，製造業景氣水平有所回撥，製造業採購經理指數重回收縮區間，但新動能持續保持擴張，對製造業的支撐作用凸顯。"
     },
     {
       "id": "5184230",
@@ -120227,14 +120316,6 @@
         "MKT News"
       ],
       "text": "The Saudi-led coalition said it intercepted and destroyed a ballistic missile launched by Houthi militants toward Riyadh."
-    },
-    {
-      "id": "5165733",
-      "time": "2026-10-24 09:37:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【王志軍任湖南省委書記】日前，中共中央決定：王志軍同志任湖南省委委員、常委、書記，沈曉明同志不再擔任湖南省委書記、常委、委員職務。"
     }
   ]
 }
