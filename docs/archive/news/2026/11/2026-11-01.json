@@ -1,7 +1,39 @@
 {
   "date": "2026-11-01",
-  "count": 104,
+  "count": 108,
   "items": [
+    {
+      "id": "5184865",
+      "time": "2026-11-01 02:19:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏同意定期開展人道主義救援行動】俄羅斯人權事務專員亞娜·蘭特拉託娃10月31日在社交媒體釋出訊息說，俄烏雙方已同意定期開展人道主義救援行動。（新華社）"
+    },
+    {
+      "id": "mkt:01a19330-4f2d-7ee0-aa1b-44a3f3dc311b",
+      "time": "2026-11-01 02:19:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia and Ukraine agree to hold regular humanitarian relief operations】Russian human rights commissioner Yana Lantratova said on social media on Oct. 31 that Russia and Ukraine have agreed to hold regular humanitarian relief operations, Xinhua reported."
+    },
+    {
+      "id": "5184864",
+      "time": "2026-11-01 02:18:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "二十國集團主席就會議發表宣告。"
+    },
+    {
+      "id": "5184863",
+      "time": "2026-11-01 02:17:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國媒體的一項分析發現，伊朗最初瞄準的是美國在中東的預警和防空系統，隨後才對軍事設施發動進一步攻擊，這一系列行動造成了數十億美元的損失。"
+    },
     {
       "id": "mkt:01a19329-0099-7ee0-aa1b-3ecfa8aecfb6",
       "time": "2026-11-01 02:11:40",
