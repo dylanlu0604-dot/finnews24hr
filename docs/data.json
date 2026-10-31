@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-31 15:10:12",
-  "count": 13204,
+  "updated": "2026-10-31 15:14:05",
+  "count": 13200,
   "items": [
+    {
+      "id": "5184501",
+      "time": "2026-10-31 15:10:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，吉贊市的危險已經解除。"
+    },
     {
       "id": "5184500",
       "time": "2026-10-31 15:08:57",
@@ -120219,48 +120227,6 @@
         "國際"
       ],
       "text": "美國國家公路交通安全管理局（NHTSA）：福特在美國召回 3376 輛汽車。此次召回涉及部分防抱死制動系統（ABS）模組，這些 ABS 模組在進行更換時，可能被寫入了錯誤的軟體程式，導致 ABS 功能失效，並影響制動平衡，進而增加車輛的制動距離，提高發生碰撞的風險。"
-    },
-    {
-      "id": "mkt:01a16cc0-edb7-7ee0-a962-0c5178960279",
-      "time": "2026-10-24 15:12:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Death toll from attack on church in Karak, Jordan rises to 8."
-    },
-    {
-      "id": "5166077",
-      "time": "2026-10-24 15:12:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【瑞士股市成為市場AI恐慌下的避風港】在歐洲股市震盪之際，瑞士一眾防禦屬性極強的大型龍頭股成為一抹亮色。瑞士市場指數跟蹤該國20只流動性最好的大盤股，本月累計上漲4.6%；而歐元區對標指數歐洲斯托克50指數同期下跌3.2%。瑞士股指近8個百分點的超額收益，是2020年3月以來最高水平——當年疫情衝擊全球，投資者爭相尋找避險資產。這一漲幅背後，是面對融資成本走高、AI交易行情遭遇質疑，疊加法國、西班牙等國政局動盪，歐洲投資者正在主動降低風險敞口。指數的上漲主要由三大權重股拉動：藥企羅氏控股10月上漲12%，諾華上漲6.7%；全球食品巨頭雀巢上漲10%。本月瑞士指數的全部漲幅，都來自這三隻老牌防禦龍頭。EFG資產管理瑞士股票主管達米安・伯克哈特表示：“投資者看好瑞士個股的防禦屬性，正在主動尋找擁擠的AI交易之外的替代方向。此前醫藥板塊的資金被抽走去追AI，現在這個趨勢正在反轉。”美銀最新基金經理調查同樣顯示，市場對瑞士股票的偏好顯著升溫，淨16%的受訪基金經理將瑞士選為最看好的歐洲股市。"
-    },
-    {
-      "id": "5166076",
-      "time": "2026-10-24 15:12:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家公路交通安全管理局 (NHTSA) ：大眾汽車集團在美國召回 9048 輛汽車，涉及部分 2024-2025 款 Q4 E-Tron 和 Q4 Sportback E-Tron 車型，原因是高壓電池可能發生故障並引發火災。"
-    },
-    {
-      "id": "mkt:01a16cc0-ba73-7ee0-a962-02ad7ee84b78",
-      "time": "2026-10-24 15:12:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Industrial Internet OS industry alliance formed in Shenzhen】An Industrial Internet Operating System industry alliance was launched at the CEIC 2026 Consumer Electronics Innovation Conference in Shenzhen. Li Qingxin, researcher at the Shenyang Institute of Automation, Chinese Academy of Sciences, presented the OS architecture and said factories deploying embodied intelligence must connect design-to-manufacturing and management-to-control business chains and integrate human, machine, material, process and environment elements. He set out four core OS requirements: cross-domain and cross-platform design, trustworthy task execution, consistent model migration, and multi-hardware device adaptation."
-    },
-    {
-      "id": "5166075",
-      "time": "2026-10-24 15:10:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新大洲本田成立電動兩輪車公司，推出CE6系列】10月23日，新大洲本田宣佈旗下領咖智行（江蘇）科技有限公司進入電動兩輪車市場，並推出首款產品CE6系列。"
     }
   ]
 }
