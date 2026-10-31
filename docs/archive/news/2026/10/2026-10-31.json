@@ -1,7 +1,44 @@
 {
   "date": "2026-10-31",
-  "count": 621,
+  "count": 625,
   "items": [
+    {
+      "id": "te:economy:596972",
+      "time": "2026-10-31 09:46:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Non Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "China Services Sector Unexpectedly Shrinks — China’s official NBS Non-Manufacturing PMI fell to 49.7 in October 2026 from September’s three-month high of 50.2, missing market expectations of 50.5 and indicating a contraction in services activity for the sixth time so far this year."
+    },
+    {
+      "id": "5184284",
+      "time": "2026-10-31 09:45:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：Anthropic的上市申報檔案顯示，這家公司在擴張AI業務版圖的過程中，計劃透過遠期履約義務投入近9000億美元用於伺服器、廠房及電力專案，該金額遠高於資產負債表上當前列示的負債。"
+    },
+    {
+      "id": "5184281",
+      "time": "2026-10-31 09:44:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破113美元，日內跌超0.7%。"
+    },
+    {
+      "id": "5184280",
+      "time": "2026-10-31 09:44:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為暢享100系列正式開售】10月31日，據華為終端訊息，華為暢享100系列正式開售，新機提供標準版、Pro、Pro Max三款機型，均配備麒麟8系晶片，標準版共三款配色，記憶體配置128/256GB，售價1399元起，Pro版和Pro Max版分別提供四款配色，記憶體128/256/512GB，售價1799元起。"
+    },
     {
       "id": "te:economy:596971",
       "time": "2026-10-31 09:42:34",
