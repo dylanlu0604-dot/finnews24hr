@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-01 02:58:14",
+  "updated": "2026-11-01 03:02:18",
   "count": 13206,
   "items": [
+    {
+      "id": "mkt:01a19354-bada-7ee0-aa1b-84fac07a23d6",
+      "time": "2026-11-01 02:59:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran Supreme National Security Council secretary Rezaei said if further rounds of nuclear talks are held, Iran's rights under the Nuclear Non‑Proliferation Treaty (NPT) should be respected."
+    },
     {
       "id": "mkt:01a19352-07e8-7ee0-aa1b-7d9f1266d523",
       "time": "2026-11-01 02:56:28",
@@ -120297,14 +120305,6 @@
         "國際"
       ],
       "text": "訊息人士稱，伊朗已告知巴基斯坦，其願意恢復與華盛頓的談判並重新開放霍爾木茲海峽，以換取美國解除對伊朗港口的封鎖。"
-    },
-    {
-      "id": "5166596",
-      "time": "2026-10-25 03:02:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "Datadog擬斥資近40億美元收購雲安全初創企業Upwind，交易估值達其年度經常性收入的80倍。"
     }
   ]
 }

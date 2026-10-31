@@ -1,7 +1,15 @@
 {
   "date": "2026-11-01",
-  "count": 133,
+  "count": 134,
   "items": [
+    {
+      "id": "mkt:01a19354-bada-7ee0-aa1b-84fac07a23d6",
+      "time": "2026-11-01 02:59:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran Supreme National Security Council secretary Rezaei said if further rounds of nuclear talks are held, Iran's rights under the Nuclear Non‑Proliferation Treaty (NPT) should be respected."
+    },
     {
       "id": "mkt:01a19352-07e8-7ee0-aa1b-7d9f1266d523",
       "time": "2026-11-01 02:56:28",
