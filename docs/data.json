@@ -1,7 +1,32 @@
 {
-  "updated": "2026-11-01 02:24:08",
-  "count": 13203,
+  "updated": "2026-11-01 02:27:55",
+  "count": 13204,
   "items": [
+    {
+      "id": "mkt:01a19337-76cd-7ee0-aa1b-569bacaa41f7",
+      "time": "2026-11-01 02:27:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council Secretary Rezai said Iran's nuclear issue can only be discussed after the U.S. meets Iran's demands."
+    },
+    {
+      "id": "5184871",
+      "time": "2026-11-01 02:27:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家安全負責人雷扎伊表示，只有在美方滿足伊朗的要求之後，才能討論伊朗的核問題。"
+    },
+    {
+      "id": "5184870",
+      "time": "2026-11-01 02:24:57",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "馬斯克：到今年年底，Colossus 2將總共擁有約120萬塊Blackwell晶片。"
+    },
     {
       "id": "5184869",
       "time": "2026-11-01 02:23:04",
@@ -120264,23 +120289,6 @@
         "MKT News"
       ],
       "text": "Musk said using Starlink's civilian commercial service to mount offensive, personnel-targeting drone strikes has never been permitted and should not be permitted."
-    },
-    {
-      "id": "5166591",
-      "time": "2026-10-25 02:25:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【金屬交易商迎來豐厚紅利，連續第二年斬獲創紀錄利潤】金屬交易行業連續第二年迎來火爆行情，交易商賺取數十億美元，多家頭部貿易企業創下利潤新高。托克集團在截至9月的財年中，金屬交易業務利潤約20億美元，創下紀錄；嘉能可也收穫史上最好盈利水平之一。銅、黃金、白銀等金屬價格飆升至歷史高位，不少交易員拿到職業生涯最高收入，同時收到多家競品公司丟擲的工作邀約。"
-    },
-    {
-      "id": "5166590",
-      "time": "2026-10-25 02:25:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國內政部長：警方在示威活動中逮捕近千人】當地時間24日晚，法國內政部長努內茲表示，警方在當天的全國性抗議示威活動中逮捕了近一千人。努內茲表示，當天，執法人員面臨持續的投擲物襲擊和煙火裝置攻擊，部分示威現場暴力程度較高。警方對相關違法行為進行了干預。（央視新聞）"
     }
   ]
 }

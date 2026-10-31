@@ -1,7 +1,32 @@
 {
   "date": "2026-11-01",
-  "count": 113,
+  "count": 116,
   "items": [
+    {
+      "id": "mkt:01a19337-76cd-7ee0-aa1b-569bacaa41f7",
+      "time": "2026-11-01 02:27:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council Secretary Rezai said Iran's nuclear issue can only be discussed after the U.S. meets Iran's demands."
+    },
+    {
+      "id": "5184871",
+      "time": "2026-11-01 02:27:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家安全負責人雷扎伊表示，只有在美方滿足伊朗的要求之後，才能討論伊朗的核問題。"
+    },
+    {
+      "id": "5184870",
+      "time": "2026-11-01 02:24:57",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "馬斯克：到今年年底，Colossus 2將總共擁有約120萬塊Blackwell晶片。"
+    },
     {
       "id": "5184869",
       "time": "2026-11-01 02:23:04",
