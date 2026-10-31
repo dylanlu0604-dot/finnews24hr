@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-31 09:13:59",
-  "count": 13194,
+  "updated": "2026-10-31 09:18:08",
+  "count": 13198,
   "items": [
+    {
+      "id": "5184132",
+      "time": "2026-10-31 09:15:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【清華大學汽車產業與技術戰略研究院院長趙福全：車企單純靠出海迴避國內競爭的時代已經終結】在10月29—30日舉辦的2026全球華人汽車精英聯合年會暨“中國擁抱世界”汽車產業國際發展論壇上，全球汽車精英組織副主席、FISITA終身名譽主席、清華大學汽車產業與技術戰略研究院院長趙福全表示，關稅壁壘、地緣風險、售後體系缺失、殘值管理不足等長尾問題持續凸顯，東南亞市場價格戰已顯現內卷化趨勢，車企單純靠出海迴避國內競爭的時代已經終結。他強調，全球化核心是實現全球資源協同、技術平臺跨區域複用、區域自主盈利與創新雙向迴流。車企需構建戰略、能力、運營、保障四層協同的新型全球化經營體系，以“新合資”為關鍵抓手，按市場壁壘與本地基礎分類制定差異化策略，完成從規模擴張向盈利性、可持續全球化經營的轉型。"
+    },
+    {
+      "id": "5184114",
+      "time": "2026-10-31 09:13:36",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【俄美互投反對票 安理會未能延長西撒特派團任期】聯合國安理會30日先後就兩份聯合國西撒哈拉全民投票特派團（西撒特派團）授權延期決議草案進行表決，兩份草案均未獲透過。西撒特派團當期授權10月31日終止。（新華社）"
+    },
+    {
+      "id": "mkt:01a18f84-b5e5-7ee0-aa16-984449b12009",
+      "time": "2026-10-31 09:13:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: Saudi foreign minister met US Secretary of State Rubio in Atlanta on the sidelines of the G20 foreign ministers' meeting to exchange views on recent regional developments and related issues."
+    },
+    {
+      "id": "5184100",
+      "time": "2026-10-31 09:12:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Okta將於11月4日納入標普500指數，Kenvue被剔除】當地時間10月30日，標普道瓊斯指數公司宣佈，Okta將取代Kenvue納入標普500指數，調整將於11月4日開盤前生效。Okta原為標普中型股400指數成分股，其空缺將由Glaukos接替；Glaukos原在標普小型股600指數中的位置則由McGrath RentCorp接替。此外，Loar Holdings將取代LiveRamp納入標普小型股600指數。此次調整與相關企業併購交易有關。"
+    },
+    {
+      "id": "5184099",
+      "time": "2026-10-31 09:12:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球汽車精英組織主席汪大總：中國汽車出海有兩大共性痛點】在10月29—30日舉辦的2026全球華人汽車精英聯合年會暨“中國擁抱世界”汽車產業國際發展論壇上，全球汽車精英組織主席、美中汽車交流協會主席汪大總表示，近年中國汽車在新能源與智慧網聯領域實現跨越式發展，整車出口規模三年實現翻番，2026年前三季度增速超60%，全年有望突破千萬輛大關。但當前出海有兩大共性痛點：一是品牌佈局分散、海內外命名體系不統一，加劇海外消費者的認知困惑與品牌存續顧慮；二是售後服務體系建設滯後，零部件供應不足、終端維修能力欠缺，使用者修車等待週期長，正在逐步消解產品端的價效比優勢。汪大總呼籲，海內外華人汽車人才要充分發揮雙市場認知優勢，坦誠交流一線經驗與實際問題，打通海內外認知差，助力中國汽車紮實紮根全球市場。"
+    },
     {
       "id": "5184092",
       "time": "2026-10-31 09:10:52",
@@ -120074,16 +120116,6 @@
         "Impact bullish"
       ],
       "text": "【Amazon CEO says AWS capacity essentially sold out through end-2027】Amazon (AMZN.O) Chief Executive Andy Jassy said AWS cloud computing capacity is essentially sold out through the end of 2027, with a substantial backlog of orders extending into 2028 as AI infrastructure demand rises. He said Amazon is working to scale supply to meet demand from AI labs and enterprise customers."
-    },
-    {
-      "id": "mkt:01a16b7a-9786-7ee0-a960-dbdd09db769f",
-      "time": "2026-10-24 09:15:58",
-      "tags": [
-        "MKT News",
-        "NOK.O",
-        "Impact bullish"
-      ],
-      "text": "【CNBC: Ukraine seeks alternatives to Starlink, signs letter of intent with Nokia and ICEYE】CNBC, citing a person familiar, said Kyiv is seeking alternatives after SpaceX limited Starlink and Starshield use in Ukraine, reportedly causing high‑speed drones to lose links and crash. The Ukrainian defense ministry said it has signed a letter of intent with Finland’s Nokia and satellite maker ICEYE to jointly develop new defense and satellite communications capabilities. President ZELENSKIY said, “Modern war has shown reliable communications are a matter of national security. We must rely on capabilities we can control.” He also announced a partnership with Norway to co‑develop air‑defense and communications systems as potential alternatives to Starshield."
     }
   ]
 }
