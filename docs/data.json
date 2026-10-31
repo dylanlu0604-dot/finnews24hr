@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-31 16:12:54",
-  "count": 13186,
+  "updated": "2026-10-31 16:16:51",
+  "count": 13188,
   "items": [
+    {
+      "id": "mkt:01a19106-de49-7ee0-aa17-f57bbfd792e8",
+      "time": "2026-10-31 16:15:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Star Stocks",
+        "Alibaba"
+      ],
+      "text": "【Wuxi, Alibaba Cloud to jointly build Qianwen Office Innovation Center】Wuxi’s Binhu District government, Wuxi Data Group and Alibaba Cloud signed a cooperation framework to establish the Qianwen Office Innovation Center. The partnership will deploy Alibaba Cloud chips, compute and model services to support local AI applications and commercialize urban smart-computing resources for enterprises and institutions. Qianwen Office will target manufacturing, government and financial sectors to accelerate rollout of industry intelligent agents, while local operations in Wuxi will provide on‑the‑ground service and implementation support."
+    },
+    {
+      "id": "5184518",
+      "time": "2026-10-31 16:14:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦軍方稱，武裝分子試圖從敘利亞滲透時在邊境衝突中遭遇人員傷亡。"
+    },
+    {
+      "id": "5184517",
+      "time": "2026-10-31 16:14:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智慧液冷產業專案落戶張家港，總投資11億元】據張家港釋出，10月31日上午，總投資11億元的AI算力液冷板及液冷裝置智造基地專案簽約落地冶金園（錦豐鎮）。此次簽約的元界智造AI算力液冷板專案將聚焦算力中心液冷核心部件，建設微通道液冷板智造基地專案，專案達產後，將年產微通道液冷板1000萬套，年營收達9億元。同時簽約的液冷裝置及系統整合專案，將建設液冷裝置製造與測試驗證基地，專案達產後將年產假負載裝置1500臺套、冷量分配單元（CDU)裝置2000臺套，年營收達8億元。"
+    },
+    {
+      "id": "5184516",
+      "time": "2026-10-31 16:14:37",
+      "tags": [
+        "行業"
+      ],
+      "text": "【42家A股上市銀行三季報悉數“交卷” 營收利潤雙增長】截至10月30日晚間，42家A股上市銀行2026年三季報已全部披露完畢。資料顯示，42家A股上市銀行前三季度營業收入總共為46577.14億元，同比增長7.79%；淨利潤總共為17467.90億元，同比增長3.78%。已披露淨息差的36家銀行，前三季度淨息差平均值為1.55%，其中18家銀行淨息差同比回升或保持穩定。 (央視財經)"
+    },
+    {
+      "id": "5184515",
+      "time": "2026-10-31 16:14:24",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【OpenAI奧特曼談記憶體短缺：全球DRAM應優先供給資料中心，閒置在玩家PC裡是浪費】OpenAI執行長薩姆・奧特曼週五在一次播客訪談中表示，在 DRAM 儲存晶片供應緊張的情況下，將記憶體集中部署在資料中心並提高利用率，才能夠更有效地利用有限的資源。奧特曼表示，從全球資源配置的角度來看，讓每個人在個人電腦（PC）裡配備大量有限的DRAM，而這些記憶體可能只有 5% 的時間在被使用，是一種“相當糟糕”的資源浪費。他主張，在全球供應鏈極度受限的環境下，應該將記憶體資源最大化地集中在雲端資料中心，以實現更高的利用率。"
+    },
+    {
+      "id": "mkt:01a19105-3a01-7ee0-aa17-ee49f5af6587",
+      "time": "2026-10-31 16:13:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi news outlet Hadas cited Jordanian authorities saying a group believed to be 14 armed fighters from Syria attempted to cross into Jordan; Jordanian border guards successfully prevented the incursion."
+    },
     {
       "id": "5184514",
       "time": "2026-10-31 16:06:46",
@@ -120077,43 +120131,6 @@
         "其他"
       ],
       "text": "沙特民防部門就吉達可能存在的危險發出警報。"
-    },
-    {
-      "id": "5166110",
-      "time": "2026-10-24 16:15:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭無人機製造商稱，烏克蘭軍方襲擊了俄羅斯陶里亞蒂的石化廠。"
-    },
-    {
-      "id": "mkt:01a16cfa-227e-7ee0-a962-677f219139b8",
-      "time": "2026-10-24 16:14:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "A Ukrainian drone manufacturer said the Ukrainian military struck a Russian petrochemical plant in Tolyatti."
-    },
-    {
-      "id": "5166109",
-      "time": "2026-10-24 16:13:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新海航航空集團冬春航季日均計劃航班超2300班】據新海航航空集團訊息，10月25日起，全國民航將正式進入冬春航季。新航季，新海航航空集團旗下境內客運航司預計新開、加密境內外航線超150條，日均計劃航班量超2300（含國際）班，將執飛1539條國內航線，覆蓋國內185個城市；超110條國際及地區航線，通達30多個國家及地區。"
-    },
-    {
-      "id": "em:qqyh_mlc:202610243907095140",
-      "time": "2026-10-24 16:13:09",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【加息大訊息！美聯儲，重磅來襲】美聯儲的動向備受市場關注！美聯儲將於10月27日至28日召開議息會議。隨著會議臨近，市場焦點已轉向美聯儲是否會進一步加息，以及本次會議將為12月政策路徑釋放何種訊號。美聯儲曾在9月進行自2023年以來的首次加息，以應對高於目標的通脹。但根據LSEG資料，聯邦基金期貨顯示，美聯儲在10月28日（下週三）釋出政策宣告時再次加息的可能性不到10%。"
     }
   ]
 }
