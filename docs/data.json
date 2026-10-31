@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-31 16:01:12",
-  "count": 13189,
+  "updated": "2026-10-31 16:05:04",
+  "count": 13191,
   "items": [
+    {
+      "id": "mkt:01a190fd-0760-7ee0-aa17-e138e402c5df",
+      "time": "2026-10-31 16:04:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Abu Dhabi National Oil Company (ADNOC) has agreed to supply up to 2 million tonnes of LNG to Thailand."
+    },
+    {
+      "id": "5184513",
+      "time": "2026-10-31 16:03:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【累計進出口35.53萬億元！黃河流域外貿五年“成績單”亮眼】2021年10月，《黃河流域生態保護和高質量發展規劃綱要》印發，到目前已有五年。據濟南海關統計，2021年到今年9月底，黃河流域已累計進出口35.53萬億元，對外開放能級不斷提升。海關統計資料顯示，黃河流域外貿規模持續擴容，進出口值由2021年的5.46萬億元增至2025年的6.51萬億元，年均增速達到4.5%，外貿執行穩中有升、質效同步提升。（央視新聞）"
+    },
+    {
+      "id": "5184512",
+      "time": "2026-10-31 16:01:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "三架載有從烏克蘭俄羅斯控制的奧列什基撤離居民飛機抵達白俄羅斯。"
+    },
     {
       "id": "5184511",
       "time": "2026-10-31 16:00:39",
@@ -120135,14 +120161,6 @@
         "Crypto Concepts"
       ],
       "text": "【Argentine judge drops criminal probe of President Milei in $LIBRA crypto case】A federal judge in Argentina on the 23rd revoked the criminal investigation into President Javier Milei and 10 others over the $LIBRA cryptocurrency project, saying evidence was insufficient to prove fraud or abuse of office. Judge Marcelo Martínez de Giorgi cleared 11 people, including Milei, his sister and presidential chief of staff Karina Milei. Milei posted on social media the same day seeking compensation for reputational damage."
-    },
-    {
-      "id": "5166104",
-      "time": "2026-10-24 16:03:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【皖能集團“陝電入皖”配套新能源專案投資運營主體成立】據皖能集團訊息，10月23日，延安皖能寶合新能源有限公司完成註冊設立。該公司作為皖能集團承接“陝電入皖”288萬千瓦配套新能源指標的專案投資運營主體，將負責吳起、安塞、延川等地風光資源的規模化開發。延安皖能寶合公司完成工商註冊，標誌著皖能集團“陝電入皖”配套新能源專案由前期籌備轉入實體化推進階段。目前，皖能吳起鐵邊城500兆瓦光伏發電專案作為該公司首個擬開工建設專案，正在緊鑼密鼓推進中。專案建成投產後，綠色電力將經“陝電入皖”特高壓通道輸送安徽。"
     }
   ]
 }
