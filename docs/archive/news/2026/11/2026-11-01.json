@@ -1,7 +1,31 @@
 {
   "date": "2026-11-01",
-  "count": 641,
+  "count": 644,
   "items": [
+    {
+      "id": "5185752",
+      "time": "2026-11-01 21:05:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "強生報告稱，在高風險經皮冠狀動脈介入治療（HRPCI）中使用Impella裝置取得了積極的生存率和治療結果。"
+    },
+    {
+      "id": "mkt:01a19735-5730-7ee0-aa1e-9be2f4dc9da5",
+      "time": "2026-11-01 21:03:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports the Russian Federal State Statistics Service (Rosstat) said it was targeted by cyberattacks from Oct 29 to Nov 1 but there was no data leakage."
+    },
+    {
+      "id": "5185751",
+      "time": "2026-11-01 21:02:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "據俄羅斯方面訊息，俄羅斯國家統計局局長表示，10月29日至11月1日期間該機構遭受網路攻擊，但資料未遭洩露。"
+    },
     {
       "id": "5185750",
       "time": "2026-11-01 21:01:34",
