@@ -1,7 +1,47 @@
 {
   "date": "2026-11-01",
-  "count": 657,
+  "count": 662,
   "items": [
+    {
+      "id": "mkt:01a19756-f6e3-7ee0-aa1e-dc9bb9f9582f",
+      "time": "2026-11-01 21:40:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hassett, director of the White House National Economic Council, said he hopes the Trump administration can work with whichever party controls Congress."
+    },
+    {
+      "id": "mkt:01a19756-d35b-7ee0-aa1e-d4b1b898c985",
+      "time": "2026-11-01 21:40:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hassett, director of the White House National Economic Council, said the government can still take substantial action even if Democrats control Congress."
+    },
+    {
+      "id": "5185762",
+      "time": "2026-11-01 21:38:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特：希望特朗普政府能與控制國會的任何一方合作。"
+    },
+    {
+      "id": "5185761",
+      "time": "2026-11-01 21:38:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：即使民主黨掌控國會，行政部門也能做很多事情。"
+    },
+    {
+      "id": "5185760",
+      "time": "2026-11-01 21:38:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：（我）指的是中期選舉後旨在逆轉政策的法案。"
+    },
     {
       "id": "5185759",
       "time": "2026-11-01 21:36:51",
