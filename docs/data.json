@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-02 02:21:55",
-  "count": 12967,
+  "updated": "2026-11-02 02:25:42",
+  "count": 12966,
   "items": [
+    {
+      "id": "5186027",
+      "time": "2026-11-02 02:24:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國頭部銀行勞埃德銀行集團啟動一輪自願裁員。"
+    },
     {
       "id": "mkt:01a19858-5cf0-7ee0-aa20-126b94d24e79",
       "time": "2026-11-02 02:21:30",
@@ -118282,23 +118290,6 @@
         "國際"
       ],
       "text": "五角大樓：防長赫格塞思將訪問菲律賓出席東盟會議。"
-    },
-    {
-      "id": "5167815",
-      "time": "2026-10-26 02:24:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國大型非營利醫療集團Bon Secours即將以60億美元收購上市外科服務公司Surgery Partners。"
-    },
-    {
-      "id": "mkt:01a1744d-df48-7ee0-a96e-2aa64da7681f",
-      "time": "2026-10-26 02:23:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said time has proven the veracity of its late martyred leader's statements."
     }
   ]
 }
