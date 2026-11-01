@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-01 15:07:24",
-  "count": 13077,
+  "updated": "2026-11-01 15:11:19",
+  "count": 13073,
   "items": [
+    {
+      "id": "5185590",
+      "time": "2026-11-01 15:08:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "塔塔汽車乘用車10月汽車銷量75,426輛，乘用車10月印度國內銷量73,894輛，出口1，532輛，10月銷量增長23%。"
+    },
     {
       "id": "5185589",
       "time": "2026-11-01 15:05:53",
@@ -119214,48 +119222,6 @@
         "其他"
       ],
       "text": "沙烏地阿拉伯稱哈米斯穆沙伊特的危險局勢已經解除。"
-    },
-    {
-      "id": "mkt:01a171e5-b96e-7ee0-a969-fcfa6fbba97c",
-      "time": "2026-10-25 15:10:42",
-      "tags": [
-        "MKT News",
-        "2222.SR",
-        "Impact bearish"
-      ],
-      "text": "Saudi Aramco shares fell 1.2% in early trade."
-    },
-    {
-      "id": "5167457",
-      "time": "2026-10-25 15:10:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "沙特阿美股價在早盤交易中下跌1.2%。"
-    },
-    {
-      "id": "mkt:01a171e4-543b-7ee0-a969-f33a524f933e",
-      "time": "2026-10-25 15:09:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense issued an alert for potential danger in the Khamis Mushait area."
-    },
-    {
-      "id": "5167456",
-      "time": "2026-10-25 15:09:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇連雲港：中核田灣200萬千瓦灘塗光伏示範專案加快推進】近日，中國二十二冶承建的江蘇省連雲港境內的中核田灣200萬千瓦灘塗光伏示範專案光伏標段七專案第七批子陣圓滿完成建設任務，3條集電線路共六個子陣成功併網。截至目前，中核田灣200萬千瓦灘塗光伏示範專案已完成154萬千瓦光伏元件安裝，整體進度約77%。專案計劃2026年底全容量併網，建成後年均上網電量約22.34億千瓦時，每年減少二氧化碳排放177萬噸。（新華社）"
-    },
-    {
-      "id": "mkt:01a171e3-f191-7ee0-a969-e879b035e5c6",
-      "time": "2026-10-25 15:08:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA reported ongoing power outages across parts of Iran’s Kish Island since last night after a technical fault at a local power plant; some schools have been closed."
     }
   ]
 }
