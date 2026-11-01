@@ -1,7 +1,47 @@
 {
-  "updated": "2026-11-01 14:01:14",
-  "count": 13074,
+  "updated": "2026-11-01 14:05:03",
+  "count": 13076,
   "items": [
+    {
+      "id": "5185560",
+      "time": "2026-11-01 14:03:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "幣安高管表示，透過與其他交易所、分析公司和執法機構的合作，已追回 63 億美元中的 30 億美元。"
+    },
+    {
+      "id": "5185559",
+      "time": "2026-11-01 14:03:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特阿美公司表示，這筆交易將加速胡邁姆建立具有全球競爭力的綜合人工智慧生態系統的雄心。"
+    },
+    {
+      "id": "5185558",
+      "time": "2026-11-01 14:02:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特阿美透過轉讓關鍵人工智慧資產並於2026年向HUMAIN注資約99億沙特里亞爾（約合26億美元）現金，獲得其49%的股份。"
+    },
+    {
+      "id": "5185557",
+      "time": "2026-11-01 14:01:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特阿美公共投資基金（PIF）與沙特阿美完成HUMAIN交易，以加速HUMAIN的全球增長。"
+    },
+    {
+      "id": "5185556",
+      "time": "2026-11-01 14:00:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安高管表示，針對該事件的技術安全審計正在進行中。"
+    },
     {
       "id": "5185555",
       "time": "2026-11-01 13:59:46",
@@ -119217,33 +119257,6 @@
         "MKT News"
       ],
       "text": "【China Middle East envoy Zhai Jun meets Saudi foreign ministry adviser Prince Khalid in Beijing】Oct 21, 2026 — China’s special envoy for the Middle East Zhai Jun met in Beijing with Saudi foreign ministry adviser Prince Khalid to discuss China-Saudi ties and the regional situation. Zhai said bilateral relations have expanded rapidly under top-level strategic guidance, reiterated China’s concern about the current Middle East situation, and said Beijing supports safeguarding the sovereignty and security of regional states, including Saudi Arabia, and prefers resolving disputes through dialogue and negotiation. Prince Khalid said Riyadh prioritises developing relations with China, welcomed China’s constructive role in regional affairs, and pledged to strengthen communication and cooperate to promote regional peace and stability."
-    },
-    {
-      "id": "5167431",
-      "time": "2026-10-25 14:04:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國政府中東問題特使翟雋會見沙特外交部顧問哈立德親王】2026年10月21日，中國政府中東問題特使翟雋在北京會見來華訪問的沙特外交部顧問哈立德親王，就中沙關係、中東局勢等交換意見。翟雋表示，近年來，在兩國最高領導人戰略引領下，中沙關係快速發展。中方關注當前中東局勢，支援維護包括沙特在內的地區各國主權安全，支援透過對話談判化解分歧，希望早日恢復地區和平安寧。哈立德表示，沙方高度重視發展對華關係，願同中方一道開闢兩國關係新前景。沙方讚賞中方在地區事務中秉持公道正義立場併發揮重要積極作用，願同中方加強溝通，為維護和促進地區和平穩定繼續作出努力。（外交部）"
-    },
-    {
-      "id": "5167430",
-      "time": "2026-10-25 14:03:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【“星鏈”限速誰之過？馬斯克、烏克蘭各執一詞】就烏克蘭抱怨其軍方所用“星鏈”衛星系統服務遭“限速”一事，開發“星鏈”的美國太空探索技術公司（SpaceX）執行長馬斯克24日將責任歸咎於烏方，稱烏軍違反“星鏈”使用條款在先，才招致“限速”。烏克蘭總統的防務技術顧問謝爾蓋·別斯克列斯特諾夫否認這種說法。（新華社）"
-    },
-    {
-      "id": "mkt:01a171a7-d695-7ee0-a969-97d4f4302210",
-      "time": "2026-10-25 14:03:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Singapore PM Wong pledges more support for workers, vows to secure energy supply and attract investment】Singapore PM Wong pledged increased support for workers and families and said the government will step up efforts to secure energy supplies and attract investment amid rising global uncertainty. Speaking at the People’s Action Party conference, Wong said major semiconductor firms are keen to expand in Singapore and artificial intelligence companies are establishing operations. He acknowledged growth’s benefits remain uneven—some workers are struggling with rising living costs and others worry about job security—and said the government must ensure growth translates into better living standards for all Singaporeans."
     }
   ]
 }
