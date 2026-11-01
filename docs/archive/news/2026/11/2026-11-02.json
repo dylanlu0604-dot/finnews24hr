@@ -1,7 +1,700 @@
 {
   "date": "2026-11-02",
-  "count": 89,
+  "count": 167,
   "items": [
+    {
+      "id": "mkt:01a19920-fea9-7ee0-aa20-ff3975d71e42",
+      "time": "2026-11-02 06:00:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham is open to offering compensation in health and education to Commonwealth countries as redress for colonial-era actions, the Telegraph reports."
+    },
+    {
+      "id": "mkt:01a19920-842c-7ee0-aa20-f0fb8970d6b6",
+      "time": "2026-11-02 06:00:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Australia October S&P Global Manufacturing PMI (final) 49.6, prior 49.7."
+    },
+    {
+      "id": "mkt:01a19920-6879-7ee0-aa20-ebf4042f542c",
+      "time": "2026-11-02 06:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | S&P Global Manufacturing PMI, final (Oct) | actual 49.6 | previous 49.7"
+    },
+    {
+      "id": "5186099",
+      "time": "2026-11-02 05:59:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破103美元/桶，日內跌1.17%。"
+    },
+    {
+      "id": "5186098",
+      "time": "2026-11-02 05:59:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報102.90美元/桶。"
+    },
+    {
+      "id": "5186097",
+      "time": "2026-11-02 05:58:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望眾議員海莉·史蒂文斯加入共和黨。"
+    },
+    {
+      "id": "5186096",
+      "time": "2026-11-02 05:49:20",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英國首相伯納姆考慮向英聯邦國家 提供援助，作為對殖民歷史的補償。"
+    },
+    {
+      "id": "5186095",
+      "time": "2026-11-02 05:47:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆考慮向英聯邦國家提供援助。"
+    },
+    {
+      "id": "mkt:01a1990c-bb2a-7ee0-aa20-e321d354e733",
+      "time": "2026-11-02 05:38:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump: Iran must either reach an agreement or we will end it."
+    },
+    {
+      "id": "mkt:01a1990c-b6d9-7ee0-aa20-de6cf9877115",
+      "time": "2026-11-02 05:38:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he expects a great Tuesday on U.S. midterm election day."
+    },
+    {
+      "id": "5186094",
+      "time": "2026-11-02 05:37:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為我們將迎來一個很棒的週二（中期選舉）。"
+    },
+    {
+      "id": "5186093",
+      "time": "2026-11-02 05:36:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：烏克蘭空襲警報系統遭敵對干擾。"
+    },
+    {
+      "id": "mkt:01a19909-111d-7ee0-aa20-d5c15da2d517",
+      "time": "2026-11-02 05:34:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump said on Iran the issue will be resolved soon by whatever means."
+    },
+    {
+      "id": "5186092",
+      "time": "2026-11-02 05:33:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗要麼達成協議，要麼我們將直接“了結此事”。"
+    },
+    {
+      "id": "mkt:01a19908-03c2-7ee0-aa20-c94697fb799d",
+      "time": "2026-11-02 05:33:21",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【Persistent inflation likely to prompt RBA fifth rate hike this year】The Reserve Bank of Australia is expected on Tuesday to deliver its fifth hike this year, raising the cash rate by 25bps to 4.85% — an 18‑year high — with money markets pricing roughly an 80% probability. The decision will include updated economic forecasts; Governor Bullock will hold a press conference one hour after the announcement. AMP economists Diana Mousina and My Bui say inflation remains well above target, has surprised on the upside with no clear sign of easing, and caution that failing to hike could damage RBA credibility and entrench higher inflation expectations. They point to domestic capacity constraints and a global energy shock as key inflation drivers. A hike would leave the RBA notably more hawkish than peers, after the U.S., euro area and Japan central banks recently held rates and the RBNZ paused unexpectedly last week."
+    },
+    {
+      "id": "5186091",
+      "time": "2026-11-02 05:32:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：這個國家目前正處於有史以來最成功的時期。"
+    },
+    {
+      "id": "5186090",
+      "time": "2026-11-02 05:32:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達正就為Nscale的450億美元Anthropic資料中心專案提供數十億美元信貸擔保進行洽談。"
+    },
+    {
+      "id": "5186089",
+      "time": "2026-11-02 05:31:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：他們總說我不受歡迎，但CNN的民調里亞伯拉罕·林肯只有8%，而我是56%左右。不，我認為我們非常受歡迎。不只是我，整個MAGA運動都非常、非常受歡迎。"
+    },
+    {
+      "id": "5186088",
+      "time": "2026-11-02 05:30:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗：無論以何種方式，我們很快會將其解決。"
+    },
+    {
+      "id": "5186087",
+      "time": "2026-11-02 05:29:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：舒默應當為阿拉斯加選舉爭議承擔責任。"
+    },
+    {
+      "id": "5186086",
+      "time": "2026-11-02 05:28:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘇丹已向聯合國安理會提交針對衣索比亞的申訴，指控埃允許快速支援部隊從其國土發射無人機襲擊蘇丹境內民用基礎設施。"
+    },
+    {
+      "id": "mkt:01a19903-537a-7ee0-aa20-c0d0096308df",
+      "time": "2026-11-02 05:28:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's air force said the public air-raid alert app was hacked."
+    },
+    {
+      "id": "5186085",
+      "time": "2026-11-02 05:26:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：MAGA運動如今比以往任何時候都更強大。"
+    },
+    {
+      "id": "5186084",
+      "time": "2026-11-02 05:23:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國得州參議院競選耗資創紀錄達5.73億美元】美國得克薩斯州聯邦參議員競選現已成為美國史上耗資最高的非總統類選舉，募款總額達到創紀錄的5.73億美元。福克斯新聞最新民調顯示，共和黨候選人肯·帕克斯頓與民主黨候選人詹姆斯·塔拉里科支援率同為49%，打成平手；而各地選民對最終誰能勝出看法不一。有選民批評這名共和黨候選人，也有人預判得州仍將保持紅州底色。"
+    },
+    {
+      "id": "mkt:01a198fe-07f9-7ee0-aa20-babb442483f8",
+      "time": "2026-11-02 05:22:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Erdogan says opportunities for cooperation with South Korea in nuclear power, AI】Erdogan will visit South Korea from the 2nd to 4th and meet South Korea's Lee, he said on the 1st. He said priorities are deepening political dialogue and reinvigorating economic ties, identifying the defence industry, nuclear power, high-tech, artificial intelligence and renewables as key cooperation areas. He set a target to raise bilateral trade to USD15 billion annually, seek a more balanced trade structure, boost investment and tighten production cooperation. He specifically flagged the planned second nuclear power plant at Sinop in northern Turkey, naming South Korea an important candidate partner for the project."
+    },
+    {
+      "id": "5186083",
+      "time": "2026-11-02 05:21:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國內政大臣或將在週一宣佈移民新規相關決定。"
+    },
+    {
+      "id": "mkt:01a198f9-c3d1-7ee0-aa20-b3926d3aca7c",
+      "time": "2026-11-02 05:17:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Chinese financial regulators to hold two meetings today】Industry sources say on Nov. 2 around 09:00 Beijing time the People's Bank of China and the CSRC will meet to study measures to promote use of capital-market instruments. The same day the PBOC, the Financial Regulatory Administration and the CSRC will convene major banks at the PBOC to discuss optimizing a re-lending facility to support stock buybacks and increases in shareholdings."
+    },
+    {
+      "id": "5186082",
+      "time": "2026-11-02 05:12:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長： 真主黨就算遭受打擊，此前也經歷過多次打擊，抵抗事業及其目標依舊存續，並且愈發壯大。"
+    },
+    {
+      "id": "mkt:01a198f2-c54e-7ee0-aa20-ab1be9c53daa",
+      "time": "2026-11-02 05:10:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bulgarian presidential candidate Andrey Yurov conceded defeat in the runoff."
+    },
+    {
+      "id": "mkt:01a198f1-90ff-7ee0-aa20-a64303e5c5be",
+      "time": "2026-11-02 05:08:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign minister: Mecca agreement signatories did not visit Tehran as pact members】Iran foreign minister Araghchi said the three regional states referred to as \"Tubasha\" jointly signed the Mecca agreement but did not visit Tehran as pact members; they came as three major regional states seeking consultations with Iran. He called it a very good start, described their attitude as positive and constructive, and said the four countries agreed to continue multilevel talks."
+    },
+    {
+      "id": "5186081",
+      "time": "2026-11-02 05:05:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "保加利亞總統候選人安德烈·久羅夫在第二輪選舉中承認敗選。"
+    },
+    {
+      "id": "5186080",
+      "time": "2026-11-02 05:05:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞內陸資料中心取消2028年中期啟動目標，監管機構尋求更多時間。"
+    },
+    {
+      "id": "mkt:01a198eb-5202-7ee0-aa20-98ab7c04c31c",
+      "time": "2026-11-02 05:02:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Australian inland data centre has abandoned its mid-2028 commissioning target because regulators need more time."
+    },
+    {
+      "id": "5186079",
+      "time": "2026-11-02 04:58:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "烏克蘭緊急警報系統可能遭到駭客攻擊，基輔收到輻射、化學威脅和街頭衝突的警報。"
+    },
+    {
+      "id": "5186078",
+      "time": "2026-11-02 04:54:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：棕櫚灘飛機墜毀事故9名遇難者全部確認。"
+    },
+    {
+      "id": "mkt:01a198e0-3ff0-7ee0-aa20-9273a2a73612",
+      "time": "2026-11-02 04:49:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【UAE hopes for US-Iran talks breakthrough, readies for worst】After threats of a renewed Middle East war, the UAE said it hopes US-Iran talks will yield a diplomatic breakthrough while preparing for worst-case outcomes. Anwar, the UAE presidential foreign policy adviser, said “we hope for a diplomatic breakthrough,” adding the region does not want another escalation and that the UAE, as before, is preparing for the worst."
+    },
+    {
+      "id": "mkt:01a198de-e388-7ee0-aa20-8fe2a3f98d69",
+      "time": "2026-11-02 04:48:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Axios: Iranian delegation left Doha; reports that Qatar‑Iran talks 'made no progress' are false】Axios, citing a diplomat who took part in negotiations, said reports that Qatar‑Iran talks had made no progress are inaccurate. The diplomat said the Iranian delegation departed Doha early Sunday, that yesterday’s talks achieved positive progress, and mediators are working to bridge remaining differences and concerns raised in the meeting."
+    },
+    {
+      "id": "5186077",
+      "time": "2026-11-02 04:45:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國佛羅里達州發生飛機墜毀事故】當地時間11月1日，一架私人飛機在美國佛羅里達州棕櫚灘附近墜毀，機上載有9人。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a198db-5e23-7ee0-aa20-82acce23e8af",
+      "time": "2026-11-02 04:44:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he had just spoken with Israeli Prime Minister Netanyahu and they discussed Iran."
+    },
+    {
+      "id": "mkt:01a198da-233a-7ee0-aa20-7b7a6add4698",
+      "time": "2026-11-02 04:43:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump on Canada: we have a very good deal framework and are very close to reaching an agreement."
+    },
+    {
+      "id": "5186076",
+      "time": "2026-11-02 04:40:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：剛剛與以色列總理內塔尼亞胡進行了一次良好的交談，談到了伊朗問題。"
+    },
+    {
+      "id": "5186075",
+      "time": "2026-11-02 04:40:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：最高領袖穆傑塔巴正在積極工作，士氣高昂，對國內正在發生的事情完全瞭解。他對一切情況都充分掌握並作出決策。我們在這方面絕對沒有任何問題。他的決定以書面形式傳達給我們。"
+    },
+    {
+      "id": "5186074",
+      "time": "2026-11-02 04:39:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談加拿大：他們會修建並支付基斯通輸油管道的費用。"
+    },
+    {
+      "id": "5186073",
+      "time": "2026-11-02 04:39:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談與加拿大的協議：美國農民無需繳納關稅。"
+    },
+    {
+      "id": "5186072",
+      "time": "2026-11-02 04:38:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：前幾天與卡尼進行了交談，我們接近達成協議。"
+    },
+    {
+      "id": "5186071",
+      "time": "2026-11-02 04:36:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就加拿大問題表態：非常接近達成協議。"
+    },
+    {
+      "id": "5186070",
+      "time": "2026-11-02 04:36:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談加拿大：我們有一個非常好的交易方案。"
+    },
+    {
+      "id": "5186069",
+      "time": "2026-11-02 04:35:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在愛荷華州集會前接受記者採訪。"
+    },
+    {
+      "id": "5186068",
+      "time": "2026-11-02 04:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長邁克·約翰遜：已經與眾議員史蒂文斯談過話。"
+    },
+    {
+      "id": "mkt:01a198d1-c517-7ee0-aa20-761b848b67a9",
+      "time": "2026-11-02 04:34:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Westpac says inflation remains above the Reserve Bank of Australia's target range; interest rates could remain elevated until 2027."
+    },
+    {
+      "id": "5186067",
+      "time": "2026-11-02 04:33:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：史蒂文斯背書羅傑斯一事之後，我會聯絡並向她表達感謝。"
+    },
+    {
+      "id": "mkt:01a198cf-1db3-7ee0-aa20-6b7a877597be",
+      "time": "2026-11-02 04:31:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran foreign minister outlines two-day plan; US compliance could reopen Iran‑US talks】Iran’s foreign minister said after mediation talks in Qatar and Pakistan Tehran has agreed to a two‑day plan: day one the US would take a package of compliance measures; day two the Strait of Hormuz would be reopened and shipping restored. Iran said resumption of Iran‑US negotiations depends on US fulfillment of commitments, which Iran listed as: agreeing new navigation routes through the Strait of Hormuz, unfreezing Iranian assets, ending regional conflicts including in Lebanon, lifting maritime blockades, granting exemptions for Iranian oil exports, and removing US sanctions imposed after the Islamabad memorandum."
+    },
+    {
+      "id": "mkt:01a198c7-ed81-7ee0-aa20-650d46c835eb",
+      "time": "2026-11-02 04:23:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says two tankers hit mines, exploded in Strait of Hormuz while transiting without authorization】Iran’s Islamic Revolutionary Guard Corps (IRGC) navy said on the evening of Nov. 1 local time that two tankers struck mines and exploded while transiting the Strait of Hormuz without Iranian authorization; one was a supertanker. The IRGC said the vessels had switched off navigation systems and attempted a covert transit with U.S. military support but were forced to stop after hitting mines."
+    },
+    {
+      "id": "5186066",
+      "time": "2026-11-02 04:22:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱兩艘油輪未經授權穿越霍爾木茲海峽觸雷爆炸】當地時間11月1日晚，伊朗伊斯蘭革命衛隊海軍宣佈，兩艘油輪未經伊朗授權穿越霍爾木茲海峽時觸雷爆炸，其中一艘是超級油輪。伊朗伊斯蘭革命衛隊稱，這兩艘油輪關閉了導航系統，企圖在美軍的支援下秘密穿越霍爾木茲海峽，但在觸雷後被迫停航。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a198c6-2ece-7ee0-aa20-5ee483fe2bc2",
+      "time": "2026-11-02 04:21:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera quoted a Gaza Health Ministry spokesman saying last month recorded the highest number of casualties since the ceasefire."
+    },
+    {
+      "id": "mkt:01a198c2-d0a2-7ee0-aa20-52d9fce4cdc0",
+      "time": "2026-11-02 04:17:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FAA said a business jet crashed in Greenex, Florida, with nine people aboard."
+    },
+    {
+      "id": "5186065",
+      "time": "2026-11-02 04:12:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長披露“兩天計劃” 美方履約方能重啟伊美談判】伊朗外長阿拉格齊在接受媒體採訪時表示，伊朗代表團訪問卡達是伊朗與卡達、巴基斯坦等調解方持續溝通的延續。目前，擺在桌面的方案與伊朗此前提出的“七日計劃”基本相同。該計劃提出了伊朗開放霍爾木茲海峽的條件，以及如果伊朗的條件得到滿足，霍爾木茲海峽將於第六天開放，伊美談判將於第七天恢復。卡達和巴基斯坦等調解方也就此進行了多次磋商和討論，並提出了比伊朗“七日計劃”更具可行性和可操作性的建議。阿拉格齊表示，卡達提出的建議之一是“將七天期限縮短至五天甚至更短”。本次伊朗代表團訪問期間也與卡方探討了這一建議。目前，伊朗同意一項“兩天計劃”，即：第一天，美國將採取一系列（履約）措施。第二天，霍爾木茲海峽將開放，海峽交通將恢復到之前的狀態。 (央視新聞)"
+    },
+    {
+      "id": "5186064",
+      "time": "2026-11-02 04:08:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【保加利亞現總統約託娃宣佈在總統選舉中獲勝】當地時間11月1日，保加利亞現任總統伊莉亞娜·約託娃宣佈在當天舉行的總統選舉第二輪投票中勝出，當選保加利亞第七屆總統。她的競選搭檔基里爾·瓦爾採夫也將當選保加利亞副總統。（央視新聞）"
+    },
+    {
+      "id": "5186063",
+      "time": "2026-11-02 04:06:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗：兩艘違規油輪在霍爾木茲海峽內爆炸】伊朗革命衛隊海軍公關部門通報：兩艘違規油輪取道霍爾木茲海峽的未經許可航線航行，撞上水雷後發生爆炸。其中一艘為超級油輪，因擅自取道該海峽禁行航線，劇烈爆炸後起火，目前仍在燃燒。這兩艘油輪關閉了導航與識別系統，試圖在美方軍隊的協助下，經由霍爾木茲海峽的這條未獲批航線秘密通行。事故發生後船隻已被截停。"
+    },
+    {
+      "id": "5186062",
+      "time": "2026-11-02 04:05:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "一名參與美伊談判的外交官：談判取得積極進展，斡旋方正在彌合雙方尚存的分歧與關切。"
+    },
+    {
+      "id": "mkt:01a198b7-7d7d-7ee0-aa20-4a7feb70d48c",
+      "time": "2026-11-02 04:05:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "According to Iran's TASNIM NEWS, two oil tankers struck mines while sailing on an unauthorized route in the Strait of Hormuz."
+    },
+    {
+      "id": "5186061",
+      "time": "2026-11-02 04:05:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員：特朗普總統將於明天，也就是中期選舉前一日，在倒影池發表講話；其不會赴各州舉辦競選集會。"
+    },
+    {
+      "id": "5186060",
+      "time": "2026-11-02 04:03:56",
+      "tags": [
+        "資料",
+        "央行"
+      ],
+      "text": "【澳大利亞準備迎來年內第五次加息，抗通脹力度持續加碼】澳大利亞央行或將在今年第五次加息，以此遏制通脹。該國通脹水平在發達經濟體中處於高位。多數經濟學家預計，澳洲儲備銀行九人理事會將把現金利率上調25個基點至4.85%，創下18年新高。澳洲聯儲的通脹目標區間為2%‑3%，而通脹長期高於該區間上限，這會損害央行來之不易的公信力。"
+    },
+    {
+      "id": "5186059",
+      "time": "2026-11-02 04:03:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：兩艘油輪在霍爾木茲海峽沿“未經授權的航線”航行時觸雷。"
+    },
+    {
+      "id": "5186058",
+      "time": "2026-11-02 04:02:54",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美債市場迎來繁忙一週：中期選舉疊加國債再融資計劃】美國債券持有人剛剛度過一年多以來表現最好的一個月，接下來將面臨多重風險：中期選舉、財政部最新發債方案，以及一連串美聯儲官員講話。投資者將緊盯週二的投票結果，判斷民主黨能否從共和黨手中奪取國會控制權。自上世紀90年代中期以來，國會或政府分立的局面往往利好美債。但部分人士對此存疑，認為本次聯邦赤字規模巨大，該情景未必能給債券帶來同樣利好。轉天，財政部將釋出季度再融資宣告。不少一級交易商預期指引會出現調整，可能為2027年削減長期國債發行鋪路，同時增加短期國庫券和短期限票據供給。除此之外，還有多名美聯儲官員講話、重磅就業資料陸續出爐，都有可能改變市場對貨幣政策路徑的預期。"
+    },
+    {
+      "id": "5186057",
+      "time": "2026-11-02 04:02:05",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【華爾街靜待美債發行迎來多年最大調整】華爾街正準備迎接美國國債發行指引的重大調整，不少交易商預計財政部會在季度政策宣告中修改發行指引。部分交易商預測財政部將宣佈削減20年期、30年期債券的發行規模；另一些人則認為財政部會維持現有指引，拍賣規模保持不變。財政部季度再融資宣告還可能出臺國債回購新指引，多數投資者預期官員會維持現行方案：10年期至30年期品種各自每月60億美元回購額度。"
+    },
+    {
+      "id": "5186056",
+      "time": "2026-11-02 03:59:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟AI執行長蘇萊曼：研發具備意識的人工智慧是魯莽之舉，不該開展這類研究。"
+    },
+    {
+      "id": "5186055",
+      "time": "2026-11-02 03:54:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "悉尼早盤交易中，美元兌G10貨幣匯率保持穩定。"
+    },
+    {
+      "id": "mkt:01a198aa-88d5-7ee0-aa20-41696182f77c",
+      "time": "2026-11-02 03:51:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says he does not want Netanyahu to interfere in US-Iran talks】US and Israeli sources said Trump and Israeli Prime Minister Netanyahu held a direct, sharp call on Oct. 31 about US-Iran negotiations. Netanyahu urged Trump to resume war against Iran immediately after the Nov. 3 US midterms and expressed concern over Qatar-mediated talks. Trump told Netanyahu he preferred to let the talks proceed and did not want Israeli interference; sources said his stance could change materially if the talks fail. The White House and the Israeli prime minister’s office declined to comment."
+    },
+    {
+      "id": "5186054",
+      "time": "2026-11-02 03:47:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic 將效仿 OpenAI，設立中期選舉“作戰室”。"
+    },
+    {
+      "id": "5186053",
+      "time": "2026-11-02 03:44:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本民間團體舉行集會 反對高市政府擴軍修憲】11月1日，日本民間團體在熊本市舉行以“不要讓九州成為戰場”為主題的集會，關注日本在九州各地的軍事動向，反對高市政權的擴軍修憲政策。（央視新聞）"
+    },
+    {
+      "id": "5186052",
+      "time": "2026-11-02 03:43:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：戰爭的地理限制已被解除，各類物質和非物質目標已經確定，如果敵人進一步侵略，伊朗將展示新的能力和目標。"
+    },
+    {
+      "id": "5186051",
+      "time": "2026-11-02 03:40:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "幣安：感謝美國特勤局和其他機構追蹤資金。"
+    },
+    {
+      "id": "5186050",
+      "time": "2026-11-02 03:40:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安：執法部門的快速反應有助於控制損失。"
+    },
+    {
+      "id": "5186049",
+      "time": "2026-11-02 03:36:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【義大利那不勒斯機場因改造停航一個月】當地時間11月1日，義大利那不勒斯國際機場開始暫停所有航班起降，停航將持續至11月30日，以進行跑道及滑行道升級改造。停航期間，部分航班將轉至附近的薩萊諾機場。"
+    },
+    {
+      "id": "mkt:01a1989a-2a25-7ee0-aa20-3b3665d8a698",
+      "time": "2026-11-02 03:33:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Exit polls show incumbent Bulgarian President Yotova leading in the second round of the presidential election."
+    },
+    {
+      "id": "5186048",
+      "time": "2026-11-02 03:29:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【出口民調：保現總統約託娃在總統選舉二輪投票中領先】保加利亞國家電視臺1日公佈的出口民調顯示，現任總統約託娃在當天舉行的總統選舉第二輪投票中領先。 據阿爾法研究機構出口民調，約託娃獲得52.5%的選票，前看守政府總理安德烈·古羅夫獲得43.4%，另有4.1%的選民選擇“不支援任何候選人”。 米亞拉社會學機構出口民調顯示，約託娃得票率為51.1%，古羅夫為44.6%，“不支援任何候選人”選項為4.3%。（新華社）"
+    },
+    {
+      "id": "5186047",
+      "time": "2026-11-02 03:22:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：我們的條件之一是，伊朗與阿曼之間就霍爾木茲海峽通行所商定的新航線必須得到接受，南部其他航線將被關閉。我們被凍結的資金必須解凍。"
+    },
     {
       "id": "5186046",
       "time": "2026-11-02 03:17:26",
