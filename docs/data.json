@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-01 08:49:13",
-  "count": 13105,
+  "updated": "2026-11-01 08:53:01",
+  "count": 13103,
   "items": [
+    {
+      "id": "5185428",
+      "time": "2026-11-01 08:51:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南新能源專用車產業區專案開工】10月30日，國內專用車頭部企業——程力汽車集團“海南新能源專用車產業區專案”在澄邁老城開工，專案從簽約到拿地再到開工僅100天，跑出自貿港汽車製造專案落地建設加速度。 該專案總投資3.8億元，用地76畝，規劃建設“五中心一基地”：外貿中心、出口產品研發中心、資料技術中轉中心、海外展示中心、創新金融中心和專用車出口組裝基地。預計2027年5月具備專用車生產准入申報條件，下半年取得相關生產資質。（海南日報）"
+    },
+    {
+      "id": "5185427",
+      "time": "2026-11-01 08:49:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【降溫、降水、降雪！冷空氣來襲 出行記得添衣】今天（11月1日），隨著冷空氣進一步南下，江南、西南地區東部等地將開啟降溫模式，江南局地氣溫降幅可超10℃，多地最高氣溫跌至20℃上下，體感溼涼，今明天，中東部降水範圍較大，南方局地有大雨或暴雨，外出需帶好雨具，注意交通安全。"
+    },
     {
       "id": "5185426",
       "time": "2026-11-01 08:48:11",
@@ -119404,48 +119420,6 @@
         "其他"
       ],
       "text": "【冷空氣上線！北方雨雪增多 多地迎立秋後最冷一天】今天（10月25日），華東沿海降雨將明顯減弱，華北、西北多地迎明顯降水；明後兩天，我國降雨將集中在西南地區東部及其周邊一帶。與此同時，受新一股冷空氣影響，未來三天西北、華北、東北將自西向東陸續出現不同程度降溫，多地將重新整理立秋以來最高氣溫新低。"
-    },
-    {
-      "id": "5166797",
-      "time": "2026-10-25 08:51:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【奧迪業績遇冷之際加大對美投資 特朗普稱其為美國汽車工業史上最大單筆投資】德國豪華汽車品牌奧迪在全球其他地區銷量遇冷，寄望在美國市場尋求增長。奧迪也是唯一尚未在美國建廠的德國車企。美國總統特朗普週六宣佈，奧迪將在佐治亞州梅肯市修建品牌歷史上首家美國工廠，這又是一家全球車企在美國本土布局、以此應對全球其他市場銷量下滑的舉措。特朗普在佐治亞州佩裡市的中期選舉造勢集會上表示：“我非常高興宣佈，這家優秀企業將在偉大的佐治亞州開展一筆鉅額汽車製造投資。” 特朗普稱，該工廠年產能20萬輛汽車，下個月動工。 奧迪執行長格諾特·德洛爾納登臺與特朗普一同亮相，他表示：“我們計劃把尺寸最大、定位最高階的SUV放到梅肯這裡生產。”特朗普將這筆投資規模定為42億美元，稱這是美國汽車工業史上最大單筆投資。 奧迪暫未回應置評請求，母公司大眾集團發言人拒絕發表評論，白宮也未回應置評請求。"
-    },
-    {
-      "id": "5166787",
-      "time": "2026-10-25 08:50:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "10月25日9:00開始（北京時間），歐洲多國開始實施冬令時，歐洲金融市場的交易時間和經濟資料的公佈時間將較夏令時延後1個小時。"
-    },
-    {
-      "id": "mkt:01a17089-73ff-7ee0-a968-40ea39454403",
-      "time": "2026-10-25 08:50:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【Trump urges voters to check 401(k)s, claims some accounts up 80%】At a rally in Perry, Georgia ahead of the vote, Trump urged voters to \"check your 401(k),\" claiming some retirement accounts have risen as much as 80% and saying \"nobody's ever seen anything like this.\" He also targeted former president Biden, claiming retirement savings fell about 25% during Biden's administration."
-    },
-    {
-      "id": "mkt:01a17089-48d8-7ee0-a968-3807fc0927a6",
-      "time": "2026-10-25 08:50:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed",
-        "DAX",
-        "FTSE100"
-      ],
-      "text": "Several European countries have switched to standard time; European financial market trading hours and scheduled economic-data release times will be one hour later than during daylight saving time. The next scheduled release is due in 10 minutes."
     }
   ]
 }
