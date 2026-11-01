@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-01 08:45:23",
-  "count": 13104,
+  "updated": "2026-11-01 08:49:13",
+  "count": 13105,
   "items": [
+    {
+      "id": "5185426",
+      "time": "2026-11-01 08:48:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普回應“是否本週就會重啟對伊朗的軍事行動”：你為什麼要問這麼愚蠢的問題？就算我真有這個打算，我會告訴你嗎？"
+    },
+    {
+      "id": "mkt:01a19491-5b4c-7ee0-aa1c-49d284af0b30",
+      "time": "2026-11-01 08:45:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former US President Donald Trump, when asked whether he would invite Ukrainian President Volodymyr Zelenskiy to the G20 summit, said he would."
+    },
     {
       "id": "5185425",
       "time": "2026-11-01 08:44:28",
@@ -119430,14 +119446,6 @@
         "FTSE100"
       ],
       "text": "Several European countries have switched to standard time; European financial market trading hours and scheduled economic-data release times will be one hour later than during daylight saving time. The next scheduled release is due in 10 minutes."
-    },
-    {
-      "id": "5166773",
-      "time": "2026-10-25 08:47:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普聲稱退休賬戶漲幅高達80%，並告訴支持者“沒人見過這樣的景象”。他還將矛頭指向前總統拜登，稱拜登執政期間退休儲蓄下降了25%。"
     }
   ]
 }
