@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-01 14:55:37",
-  "count": 13078,
+  "updated": "2026-11-01 14:59:30",
+  "count": 13079,
   "items": [
+    {
+      "id": "5185585",
+      "time": "2026-11-01 14:58:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗南部霍爾木茲甘省錫裡克港務辦公室週日表示，一艘運載燃料的船隻在錫裡克附近起火。該辦公室補充稱，一人受傷，該船未請求救援協助。"
+    },
+    {
+      "id": "5185584",
+      "time": "2026-11-01 14:56:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【法國擬批准向網際網路巨頭收流量稅，每 GB 內容 0.055 歐元】據報道，法國已批准一項擬議稅收，旨在對向法國使用者傳送的每 GB 網際網路資料量徵稅，谷歌、Netflix、Meta 等主要公司目前正成為目標。 根據法國國民議會公佈的會議記錄，10 月 30 日議員以 11 票對 10 票支援該動議 —— 這意味著儘管政府方面和財政委員會報告員強烈反對，但新法律已被納入國家下一輪預算。"
+    },
     {
       "id": "5185583",
       "time": "2026-11-01 14:51:41",
@@ -119265,14 +119281,6 @@
         "SZSE Component"
       ],
       "text": "【Xiangcai Securities: A-share indices posted one-day V-shaped rebound; short-term phase bottom likely】Xiangcai Securities says A-share indices traded mostly lower from 19–23 Oct 2026 but registered a one-day V-shaped reversal on 23 Oct. The Shanghai Composite briefly fell below 3,600 before recovering to close higher; the Shenzhen Composite and ChiNext formed bullish engulfing patterns. The firm views the move as sentiment repair rather than a profit-driven broad reversal and expects the Shanghai Composite to form a short-term phase bottom near 3,700. It warns short-cycle macro indicators show signs of peaking and overseas tech volatility has transmitted domestically, contributing to a break of July lows and a downshift in troughs; October’s weak bias remains intact despite the rapid intraday rebound."
-    },
-    {
-      "id": "5167451",
-      "time": "2026-10-25 14:58:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：如果還有一絲理智存在，敵人就不會發動攻擊。"
     }
   ]
 }
