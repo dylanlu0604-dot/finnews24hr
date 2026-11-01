@@ -1,7 +1,25 @@
 {
   "date": "2026-11-02",
-  "count": 176,
+  "count": 178,
   "items": [
+    {
+      "id": "5186109",
+      "time": "2026-11-02 06:27:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會：調查人員今天抵達佛羅里達州飛機事故現場。"
+    },
+    {
+      "id": "mkt:01a19937-cd89-7ee0-aa21-08b00b0e261e",
+      "time": "2026-11-02 06:25:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceXSI said Grok will embed invisible watermarks in AI-generated text from Nov. 7 to comply with requirements of the EU Artificial Intelligence Act."
+    },
     {
       "id": "5186108",
       "time": "2026-11-02 06:23:18",
