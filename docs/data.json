@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-02 06:09:38",
+  "updated": "2026-11-02 06:13:33",
   "count": 12924,
   "items": [
+    {
+      "id": "5186101",
+      "time": "2026-11-02 06:09:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國食品標準自脫歐以來首次與歐盟重新對齊。"
+    },
     {
       "id": "5186100",
       "time": "2026-11-02 06:08:38",
@@ -117949,14 +117957,6 @@
         "MKT News"
       ],
       "text": "【Brazil presidential runoff ends after two-hour extension】Voting in Brazil's presidential runoff on the 25th concluded at 19:00 Brasília time (06:00 Beijing on the 26th). A Supreme Federal Court judge ordered polling to stay open two hours longer due to traffic and adverse weather."
-    },
-    {
-      "id": "5167908",
-      "time": "2026-10-26 06:13:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本計劃支援銀行為增長型投資提供資金。"
     }
   ]
 }
