@@ -1,7 +1,32 @@
 {
-  "updated": "2026-11-01 08:41:38",
-  "count": 13105,
+  "updated": "2026-11-01 08:45:23",
+  "count": 13104,
   "items": [
+    {
+      "id": "5185425",
+      "time": "2026-11-01 08:44:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【曝特斯拉砍掉買車推薦獎勵】據Electrek報道，特斯拉已悄然調整其美國推薦計劃（Refer and Earn），車輛購買不再作為推薦獎勵的觸發條件，取而代之的是一套以FSD（完全自動駕駛）訂閱為核心的全新激勵機制。 簡單來說，現在用推薦碼買特斯拉，買賣雙方都拿不到任何車輛相關的獎勵了，推薦人唯一能賺的，是FSD訂閱時長。"
+    },
+    {
+      "id": "5185424",
+      "time": "2026-11-01 08:44:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超400家單位參展 今年中國國際教育展規模創五年來新高】作為第27屆中國國際教育交流年會的重要活動之一，2026中國國際教育展10月30日至31日在京舉行。活動由中國教育國際交流協會主辦，吸引35個國家和地區的超400所院校與機構參展，規模創過去五年新高。（央視新聞）"
+    },
+    {
+      "id": "5185423",
+      "time": "2026-11-01 08:42:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國總統特朗普（被問及是否會邀請烏克蘭總統澤連斯基參加二十國集團峰會）：我會的——是的，我會。沒問題。"
+    },
     {
       "id": "5185418",
       "time": "2026-11-01 08:39:19",
@@ -119413,38 +119438,6 @@
         "國際"
       ],
       "text": "特朗普聲稱退休賬戶漲幅高達80%，並告訴支持者“沒人見過這樣的景象”。他還將矛頭指向前總統拜登，稱拜登執政期間退休儲蓄下降了25%。"
-    },
-    {
-      "id": "mkt:01a17084-dae6-7ee0-a968-36977941cdd8",
-      "time": "2026-10-25 08:45:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Saudi-led coalition says intercepted drone over Riyadh】Early on the 25th local time, a spokesman for the Saudi-led multinational coalition said on social media the coalition intercepted and destroyed a drone in the Riyadh area."
-    },
-    {
-      "id": "5166769",
-      "time": "2026-10-25 08:44:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國前總統奧巴馬：除了翻新裝修，特朗普似乎還專心做一件事，那就是想方設法讓自己、家人和親信發財。"
-    },
-    {
-      "id": "mkt:01a17082-b4b2-7ee0-a968-2d9d0cb62114",
-      "time": "2026-10-25 08:42:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump dismisses criticism of high oil prices, says US is \"making a lot of money\"】President Trump dismissed criticism of high oil prices, saying \"we're making a lot of money\" and that he \"doesn't care.\" He added he could imagine \"fake news\" headlines accusing him of boasting about profits while people \"suffer at the pump.\""
-    },
-    {
-      "id": "5166761",
-      "time": "2026-10-25 08:41:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "東部戰區釋出臺灣光復紀念日主題海報。（新華社）"
     }
   ]
 }
