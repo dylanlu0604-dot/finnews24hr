@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-01 15:03:37",
-  "count": 13078,
+  "updated": "2026-11-01 15:07:24",
+  "count": 13077,
   "items": [
+    {
+      "id": "5185589",
+      "time": "2026-11-01 15:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳茂波：香港第三季度經濟按年增長將高於市場預期】11月1日，香港特區政府財政司司長陳茂波發表網誌稱，將於下週二公佈今年第三季本地生產總值的預先估計數字。初步看來，在出口增長加快和內部需求穩健的支援下，第三季經濟按年增長將高於市場預期，增速較第二季有所加快；香港亦將連續第十五個季度錄得正增長。今年首三季合計，實質本地生產總值的按年增幅，亦是五年來同期最大。隨著經濟保持良好勢頭，全年的經濟增長預測亦可望再上調。"
+    },
+    {
+      "id": "mkt:01a195ed-3afe-7ee0-aa1d-3e32e9c94215",
+      "time": "2026-11-01 15:05:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chair of the Russian Federation Council to visit China】At the invitation of National People's Congress Standing Committee chair Zhao Leji, Chair of the Russian Federation Council Matviyenko will lead a delegation to China from Nov. 1 to 3."
+    },
+    {
+      "id": "5185588",
+      "time": "2026-11-01 15:03:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府宣告：印度10月商品和服務稅淨收入為2.03萬億盧比，同比增長25.6%。"
+    },
     {
       "id": "mkt:01a195ea-9abb-7ee0-aa1d-322c7357872d",
       "time": "2026-11-01 15:02:22",
@@ -119232,42 +119256,6 @@
         "MKT News"
       ],
       "text": "IRNA reported ongoing power outages across parts of Iran’s Kish Island since last night after a technical fault at a local power plant; some schools have been closed."
-    },
-    {
-      "id": "5167455",
-      "time": "2026-10-25 15:06:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特主導的聯軍攔截了一枚瞄準哈米斯穆沙伊特的導彈。"
-    },
-    {
-      "id": "mkt:01a171e1-5a03-7ee0-a969-e27591991a81",
-      "time": "2026-10-25 15:05:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister Araghchi said the enemy would not launch an attack if it still had any sense."
-    },
-    {
-      "id": "5167454",
-      "time": "2026-10-25 15:05:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯釋出哈米斯穆沙伊特地區潛在危險警報。"
-    },
-    {
-      "id": "mkt:01a171e0-3086-7ee0-a969-db6b9dc6d675",
-      "time": "2026-10-25 15:04:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi-led coalition said it intercepted and destroyed a cruise missile launched by Houthi forces toward Khamis Mushait."
     }
   ]
 }
