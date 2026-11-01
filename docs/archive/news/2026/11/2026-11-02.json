@@ -1,7 +1,102 @@
 {
   "date": "2026-11-02",
-  "count": 194,
+  "count": 203,
   "items": [
+    {
+      "id": "mkt:01a19959-5ca5-7ee0-aa21-305a383181ba",
+      "time": "2026-11-02 07:02:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 10-year Treasury futures fell 2 points; 30-year futures fell 3 points."
+    },
+    {
+      "id": "mkt:01a19959-4fc2-7ee0-aa21-2f2e5ef77d27",
+      "time": "2026-11-02 07:02:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell more than 0.5% to $111.17/bbl."
+    },
+    {
+      "id": "5186127",
+      "time": "2026-11-02 07:01:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨上漲0.3%，納斯達克期貨上漲0.4%。"
+    },
+    {
+      "id": "mkt:01a19958-cbe8-7ee0-aa21-221ea91e6b6e",
+      "time": "2026-11-02 07:01:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "At Monday's open, WTI crude was down 0.6%; spot gold opened higher, peaking at $3,889/oz."
+    },
+    {
+      "id": "mkt:01a19958-5835-7ee0-aa21-1ba7aa7e142e",
+      "time": "2026-11-02 07:01:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Three major U.S. stock index futures opened higher on Monday; Nasdaq futures rose 0.3%."
+    },
+    {
+      "id": "5186126",
+      "time": "2026-11-02 07:00:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓華防務美國公司已與TOTE Services簽署一份2.69億美元合同，建造一艘中型登陸艦，供美國海軍使用。這是韓華在2024年12月收購費城造船廠之後，拿到的首份美國海軍造艦訂單。"
+    },
+    {
+      "id": "5186125",
+      "time": "2026-11-02 07:00:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破112美元/桶，日內跌1.45%。"
+    },
+    {
+      "id": "5186124",
+      "time": "2026-11-02 07:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本防衛預算五年內將達80萬億日元。"
+    },
+    {
+      "id": "5186123",
+      "time": "2026-11-02 07:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報111.73美元/桶。"
+    },
     {
       "id": "te:markets:597023",
       "time": "2026-11-02 06:58:35",

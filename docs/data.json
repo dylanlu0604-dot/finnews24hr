@@ -1,7 +1,102 @@
 {
-  "updated": "2026-11-02 06:59:42",
-  "count": 12913,
+  "updated": "2026-11-02 07:03:51",
+  "count": 12919,
   "items": [
+    {
+      "id": "mkt:01a19959-5ca5-7ee0-aa21-305a383181ba",
+      "time": "2026-11-02 07:02:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 10-year Treasury futures fell 2 points; 30-year futures fell 3 points."
+    },
+    {
+      "id": "mkt:01a19959-4fc2-7ee0-aa21-2f2e5ef77d27",
+      "time": "2026-11-02 07:02:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell more than 0.5% to $111.17/bbl."
+    },
+    {
+      "id": "5186127",
+      "time": "2026-11-02 07:01:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨上漲0.3%，納斯達克期貨上漲0.4%。"
+    },
+    {
+      "id": "mkt:01a19958-cbe8-7ee0-aa21-221ea91e6b6e",
+      "time": "2026-11-02 07:01:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "At Monday's open, WTI crude was down 0.6%; spot gold opened higher, peaking at $3,889/oz."
+    },
+    {
+      "id": "mkt:01a19958-5835-7ee0-aa21-1ba7aa7e142e",
+      "time": "2026-11-02 07:01:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Three major U.S. stock index futures opened higher on Monday; Nasdaq futures rose 0.3%."
+    },
+    {
+      "id": "5186126",
+      "time": "2026-11-02 07:00:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓華防務美國公司已與TOTE Services簽署一份2.69億美元合同，建造一艘中型登陸艦，供美國海軍使用。這是韓華在2024年12月收購費城造船廠之後，拿到的首份美國海軍造艦訂單。"
+    },
+    {
+      "id": "5186125",
+      "time": "2026-11-02 07:00:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破112美元/桶，日內跌1.45%。"
+    },
+    {
+      "id": "5186124",
+      "time": "2026-11-02 07:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本防衛預算五年內將達80萬億日元。"
+    },
+    {
+      "id": "5186123",
+      "time": "2026-11-02 07:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報111.73美元/桶。"
+    },
     {
       "id": "te:markets:597023",
       "time": "2026-11-02 06:58:35",
@@ -117837,31 +117932,6 @@
         "Importance 0"
       ],
       "text": "China's Fiscal Expenditure Growth Slows to 1% in Jan-Sep — China's general public budget expenditure increased 1% year-on-year to CNY 21.02 trillion in the first nine months of 2026, slowing from a rise of 1.2% in the first eight months. Central government expenditure climbed 5.8% to CNY 3.28 trillion, while local government spending increased 0.2% to CNY 17.74 trillion, indicating that fiscal support continued to be led by the central government. Among major spending categories, healthcare recorded the strongest growth, advancing 7.7%, followed by social security and employment (+5.2%), highlighting the country's ongoing policy efforts to improve people's livelihoods. Meanwhile, fiscal revenue grew 5.1% year-on-year to CNY 17.23 trillion, following a gain of 5.7% in the January–August period. During January–September, tax revenue grew 6.1%, while non-tax revenue advanced 1.2%."
-    },
-    {
-      "id": "5167939",
-      "time": "2026-10-26 07:03:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在社交媒體發文重申支援以色列總理內塔尼亞胡。"
-    },
-    {
-      "id": "mkt:01a1754c-dfe0-7ee0-a96f-e5b686462087",
-      "time": "2026-10-26 07:02:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Brazil vote count 21.84% — Flavio leads Lula】In the presidential runoff, with 21.84% of votes counted incumbent President Lula has 49.53% and Flavio, son of a former president, has 50.47%."
-    },
-    {
-      "id": "5167938",
-      "time": "2026-10-26 07:00:45",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "巴西總統選舉第二輪投票已統計13.65%的選票，弗拉維奧·博索納羅得票率為50.01%，盧拉為49.99%。"
     }
   ]
 }
