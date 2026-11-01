@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-02 02:29:27",
-  "count": 12965,
+  "updated": "2026-11-02 02:33:16",
+  "count": 12966,
   "items": [
+    {
+      "id": "mkt:01a19860-9cf4-7ee0-aa20-1d9e686ec688",
+      "time": "2026-11-02 02:30:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Carney: Canada, U.S. working to build mutually beneficial trade agreement】Canadian Prime Minister Carney said he held a productive conversation with U.S. President Trump on bilateral trade and that both sides are exploring a framework for a mutually beneficial Canada‑U.S. trade agreement. He said the deal aims to support jobs, lower household costs and respect Canadian sovereignty, and that negotiating teams will work closely over the coming weeks."
+    },
+    {
+      "id": "5186038",
+      "time": "2026-11-02 02:29:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普不希望以總理干擾美伊談判】據以色列第12頻道電視臺當地時間11月1日報道，以色列和美國訊息人士透露，美國總統特朗普與以色列總理內塔尼亞胡10月31日就美國與伊朗的談判進行了一次“直接而尖銳”的通話。訊息人士稱，內塔尼亞胡敦促特朗普在11月3日美國中期選舉結束後“立即恢復對伊朗的戰爭”，並對目前在卡達斡旋下進行的美伊談判感到擔憂。 特朗普現階段則希望“讓談判充分展開”，不希望以色列干擾談判程序。報道同時稱，如果談判失敗，特朗普的立場可能發生“顯著變化”。 白宮和以色列總理辦公室目前均拒絕就這一報道發表評論。（CCTV國際時訊）"
+    },
+    {
+      "id": "5186034",
+      "time": "2026-11-02 02:29:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名以色列高階官員表示，以色列軍方對可能與伊朗重啟戰事保持戒備，但正在等待政府下令；決定權在特朗普手中。"
+    },
     {
       "id": "5186030",
       "time": "2026-11-02 02:25:57",
@@ -118266,22 +118290,6 @@
         "MKT News"
       ],
       "text": "Yemen armed forces spokesman said they will continue to intensify attacks on the Houthi armed group, targeting its capabilities."
-    },
-    {
-      "id": "5167819",
-      "time": "2026-10-26 02:33:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：在黎巴嫩南部行動的區域發現一個可疑空中目標，隨後向其發射了一枚攔截彈。按照規程，未拉響警報。"
-    },
-    {
-      "id": "5167818",
-      "time": "2026-10-26 02:31:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名美國官員表示，美國對伊朗實施打擊已經不是“是否會發生”的問題，而是“何時發生”的問題，特朗普正準備調整相關策略。"
     }
   ]
 }
