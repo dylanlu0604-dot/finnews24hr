@@ -1,7 +1,27 @@
 {
   "date": "2026-11-01",
-  "count": 636,
+  "count": 638,
   "items": [
+    {
+      "id": "mkt:01a19720-2845-7ee0-aa1e-91896a2dea3c",
+      "time": "2026-11-01 20:40:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Zelenskiy says long-range strikes hit military facilities inside Russia】Ukrainian President ZELENSKIY said on Nov. 1 on social media that Ukrainian forces launched long-range strikes inside Russia's Rostov region, hitting military-industrial facilities including the Kamyansky Joint Enterprise. He said they also struck a Pantsir air-defence system and an S-400 command-and-control vehicle, with the damaged air-defence assets valued at about $70 million."
+    },
+    {
+      "id": "5185747",
+      "time": "2026-11-01 20:38:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國-南亞國家減貧與發展合作論壇在巴基斯坦舉行】2026中國-南亞國家減貧與發展合作論壇日前在巴基斯坦首都伊斯蘭堡舉行。來自中國、巴基斯坦、尼泊爾、孟加拉國等國的政府官員、外交使節、專家學者、媒體和國際組織代表100餘人出席。（新華社）"
+    },
     {
       "id": "5185746",
       "time": "2026-11-01 20:36:23",
