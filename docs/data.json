@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-01 21:22:46",
+  "updated": "2026-11-01 21:26:50",
   "count": 12981,
   "items": [
+    {
+      "id": "5185756",
+      "time": "2026-11-01 21:25:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國多地競標新建監獄以提振經濟】據韓國媒體報道，韓國多個地方政府正在競標新建監獄，希望藉此促進人口流入、增加就業崗位、提振當地經濟。《韓國時報》10月31日報道，韓國法務部今年8月首次以全國公開招標方式為4座新監獄選址，慶尚北道、忠清北道和江原道下轄7個郡市正在參與競爭。每座監獄規劃容納約1000名囚犯，配備約250名相關工作人員。（新華社）"
+    },
+    {
+      "id": "mkt:01a19749-0be9-7ee0-aa1e-bede2b815bf3",
+      "time": "2026-11-01 21:25:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korean regions bid to host new prisons to boost local economies】The Korea Times reported Oct. 31 that multiple South Korean local governments are bidding to host new prisons to attract population inflows, create jobs and stimulate local economies. The Ministry of Justice in August opened a nationwide public tender to site four new prisons; seven counties and cities in Gyeongsangbuk-do, Chungcheongbuk-do and Gangwon-do are competing. Each facility is planned to hold about 1,000 inmates and employ roughly 250 staff."
+    },
     {
       "id": "mkt:01a19742-f97d-7ee0-aa1e-b6d7017fe756",
       "time": "2026-11-01 21:18:31",
@@ -118490,26 +118506,6 @@
         "MKT News"
       ],
       "text": "Brazilian President Lula said voters must choose between defending Brazil's flag and defending the US flag."
-    },
-    {
-      "id": "5167697",
-      "time": "2026-10-25 21:24:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門表示，攔截葉門胡塞武裝發射的兩枚彈道導彈時產生的彈片在哈米斯穆謝特和阿哈德·拉菲達村造成兩人受傷。"
-    },
-    {
-      "id": "mkt:01a1733b-a038-7ee0-a96c-38a925a9290a",
-      "time": "2026-10-25 21:24:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi civil defense said two ballistic missiles launched by Yemen’s Houthi movement were intercepted and debris fell in Khamis Mushait and Ahad Rafidah in Saudi Arabia, injuring two people."
     }
   ]
 }

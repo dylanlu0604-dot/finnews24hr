@@ -1,7 +1,23 @@
 {
   "date": "2026-11-01",
-  "count": 650,
+  "count": 652,
   "items": [
+    {
+      "id": "5185756",
+      "time": "2026-11-01 21:25:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國多地競標新建監獄以提振經濟】據韓國媒體報道，韓國多個地方政府正在競標新建監獄，希望藉此促進人口流入、增加就業崗位、提振當地經濟。《韓國時報》10月31日報道，韓國法務部今年8月首次以全國公開招標方式為4座新監獄選址，慶尚北道、忠清北道和江原道下轄7個郡市正在參與競爭。每座監獄規劃容納約1000名囚犯，配備約250名相關工作人員。（新華社）"
+    },
+    {
+      "id": "mkt:01a19749-0be9-7ee0-aa1e-bede2b815bf3",
+      "time": "2026-11-01 21:25:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korean regions bid to host new prisons to boost local economies】The Korea Times reported Oct. 31 that multiple South Korean local governments are bidding to host new prisons to attract population inflows, create jobs and stimulate local economies. The Ministry of Justice in August opened a nationwide public tender to site four new prisons; seven counties and cities in Gyeongsangbuk-do, Chungcheongbuk-do and Gangwon-do are competing. Each facility is planned to hold about 1,000 inmates and employ roughly 250 staff."
+    },
     {
       "id": "mkt:01a19742-f97d-7ee0-aa1e-b6d7017fe756",
       "time": "2026-11-01 21:18:31",
