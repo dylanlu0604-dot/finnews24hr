@@ -1,7 +1,19 @@
 {
   "date": "2026-11-01",
-  "count": 649,
+  "count": 650,
   "items": [
+    {
+      "id": "mkt:01a19742-f97d-7ee0-aa1e-b6d7017fe756",
+      "time": "2026-11-01 21:18:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Ukraine says Russian strikes hit Kyiv energy infrastructure; water outages possible】On Nov. 1 local time, the Kyiv city state administration reported Russian strikes on the capital's energy infrastructure cut power to a water-supply facility, causing widespread drops in water pressure and risking temporary outages in some residential buildings. Officials said pressure will gradually recover after power is restored but full citywide service restoration will take time. Kyiv's water utility has dispatched technicians to carry out repairs."
+    },
     {
       "id": "mkt:01a1973d-7680-7ee0-aa1e-ae3146c0eb5f",
       "time": "2026-11-01 21:12:29",

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-01 21:18:46",
-  "count": 12983,
+  "updated": "2026-11-01 21:22:46",
+  "count": 12981,
   "items": [
+    {
+      "id": "mkt:01a19742-f97d-7ee0-aa1e-b6d7017fe756",
+      "time": "2026-11-01 21:18:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Ukraine says Russian strikes hit Kyiv energy infrastructure; water outages possible】On Nov. 1 local time, the Kyiv city state administration reported Russian strikes on the capital's energy infrastructure cut power to a water-supply facility, causing widespread drops in water pressure and risking temporary outages in some residential buildings. Officials said pressure will gradually recover after power is restored but full citywide service restoration will take time. Kyiv's water utility has dispatched technicians to carry out repairs."
+    },
     {
       "id": "mkt:01a1973d-7680-7ee0-aa1e-ae3146c0eb5f",
       "time": "2026-11-01 21:12:29",
@@ -118498,34 +118510,6 @@
         "XAUUSD"
       ],
       "text": "Saudi civil defense said two ballistic missiles launched by Yemen’s Houthi movement were intercepted and debris fell in Khamis Mushait and Ahad Rafidah in Saudi Arabia, injuring two people."
-    },
-    {
-      "id": "mkt:01a17339-e042-7ee0-a96c-32cb03bda483",
-      "time": "2026-10-25 21:22:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Local officials said a Ukrainian missile struck an industrial facility in Russia's Lipetsk region, killing one."
-    },
-    {
-      "id": "5167696",
-      "time": "2026-10-25 21:21:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "據利佩茨克州州長表示，烏克蘭導彈襲擊俄羅斯利佩茨克州一處工業設施，造成1人死亡。"
-    },
-    {
-      "id": "mkt:01a17338-76b1-7ee0-a96c-2cd2d73dd3d8",
-      "time": "2026-10-25 21:20:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Libya's Sirte Oil Company said the Brega gas facility, once restarted, will deliver 60 mln cubic feet of gas into the national gas system rather than flare it."
     }
   ]
 }
