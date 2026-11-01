@@ -1,7 +1,75 @@
 {
   "date": "2026-11-01",
-  "count": 218,
+  "count": 226,
   "items": [
+    {
+      "id": "5185330",
+      "time": "2026-11-01 08:13:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：希望黃仁勳一切安好。"
+    },
+    {
+      "id": "5185328",
+      "time": "2026-11-01 08:12:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：非常尊重黃仁勳。"
+    },
+    {
+      "id": "5185325",
+      "time": "2026-11-01 08:12:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普談伊朗：正在關注鎬山。"
+    },
+    {
+      "id": "te:economy:596992",
+      "time": "2026-11-01 08:11:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Exports YoY",
+        "Importance 2"
+      ],
+      "text": "South Korea Export Growth Above Forecasts — South Korea's exports soared 93.7% year-on-year in October 2026, surpassing estimates of 93.2% and accelerating from a marginally revised 83.7% jump in September, preliminary data showed. Exports rose for the 17th consecutive month, driven by strong demand for memory chips."
+    },
+    {
+      "id": "5185324",
+      "time": "2026-11-01 08:10:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普談伊朗：仍有一兩處地點需要處理。"
+    },
+    {
+      "id": "5185323",
+      "time": "2026-11-01 08:10:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普談伊朗：我們不著急。"
+    },
+    {
+      "id": "5185322",
+      "time": "2026-11-01 08:10:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【載人月球探測工程採用“兩次發射、環月對接”方案】記者從10月31日開幕的第七屆載人航天學術大會瞭解到，我國載人月球探測工程採用“兩次發射、環月對接”方案，工程登月階段任務各項研製建設工作正在紮實穩步推進。中國載人航天工程副總設計師、月球探測工程總設計師王翔接受採訪時介紹，“兩次發射、環月對接”方案，即兩枚火箭分別將攬月月面著陸器與夢舟載人飛船精準送入地月轉移軌道，之後在環月軌道交會對接。航天員從夢舟飛船進入攬月著陸器進行著陸，開展相關科研工作。截至目前，長征十號運載火箭、夢舟飛船、攬月著陸器等主要飛行產品研製進展順利，已陸續完成夢舟飛船零高度逃逸、攬月著陸器著陸起飛、長征十號低空演示驗證與夢舟飛船最大動壓逃逸飛行等大型試驗。後續，還將按計劃完成長征十號、夢舟飛船和攬月著陸器首飛等任務。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a19471-8c53-7ee0-aa1c-202b3c415a3f",
+      "time": "2026-11-01 08:10:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said Iran wants to reach an agreement and that he will find out."
+    },
     {
       "id": "5185312",
       "time": "2026-11-01 08:08:19",
