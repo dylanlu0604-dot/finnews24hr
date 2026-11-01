@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-02 02:44:47",
-  "count": 12969,
+  "updated": "2026-11-02 02:48:34",
+  "count": 12966,
   "items": [
+    {
+      "id": "5186042",
+      "time": "2026-11-02 02:47:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊逮捕一名間諜 指其涉嫌洩露軍工情報】當地時間11月1日，伊朗革命衛隊情報機構宣佈逮捕一名間諜，此人向敵方洩露伊朗中央省的無人機和導彈部件生產中心的運作情況。（央視新聞）"
+    },
+    {
+      "id": "5186041",
+      "time": "2026-11-02 02:46:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列完成對伊新一輪作戰準備】以色列已完成與伊朗進行新一輪戰鬥的準備，並認為特朗普可能在數日內下令發動打擊。以色列和美國軍事官員在週末舉行了會談，與此同時，數十架美國運輸機和加油機抵達該地區，包括以色列的奧夫達和內瓦蒂姆空軍基地。以色列還與海灣國家進行了接觸，官員們越來越懷疑與伊朗的談判能否達成協議。"
+    },
     {
       "id": "5186040",
       "time": "2026-11-02 02:40:38",
@@ -118274,54 +118290,6 @@
         "國際"
       ],
       "text": "澤連斯基表示，美國關於俄羅斯彈道導彈襲擊預警的情報共享已全面恢復，星盾服務的執行速度已恢復至最高每小時420公里。"
-    },
-    {
-      "id": "mkt:01a17463-66c3-7ee0-a96e-55a70e6ded21",
-      "time": "2026-10-26 02:47:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY said air-defence problems remain unresolved. He said supply of missiles for Patriot systems has seen some progress but deliveries are extremely slow—slower than the flight speed of Russian missiles—and that pledging missiles then delaying delivery by one or two months is unacceptable."
-    },
-    {
-      "id": "mkt:01a17463-4f5d-7ee0-a96e-48a24759980a",
-      "time": "2026-10-26 02:47:07",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "ZELENSKIY said that, as of today, two issues with the U.S. — intelligence sharing and restrictions on Starlink and Starshield systems — have been resolved."
-    },
-    {
-      "id": "mkt:01a17463-2d44-7ee0-a96e-4030d5567852",
-      "time": "2026-10-26 02:46:58",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "President ZELENSKIY said in talks with US officials in Oslo he faces three main challenges: a shortage of air-defense systems; limits on use of Starlink and Starshield; and US restrictions on intelligence sharing."
-    },
-    {
-      "id": "5167820",
-      "time": "2026-10-26 02:46:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "宣告顯示：阿爾及利亞議會投票贊成向尼日派遣軍隊的決議。"
-    },
-    {
-      "id": "mkt:01a17462-5eb8-7ee0-a96e-3a18bc90ffa7",
-      "time": "2026-10-26 02:46:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lula's campaign asked authorities to extend polling hours nationwide in Brazil."
     }
   ]
 }
