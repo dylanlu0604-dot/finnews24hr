@@ -1,7 +1,91 @@
 {
-  "updated": "2026-11-01 08:14:36",
-  "count": 13110,
+  "updated": "2026-11-01 08:18:21",
+  "count": 13117,
   "items": [
+    {
+      "id": "mkt:01a19477-c763-7ee0-aa1c-3c5119dbb1dd",
+      "time": "2026-11-01 08:17:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he currently has no plans to meet Flavio Bolsonaro but that Bolsonaro can 'stay here as long as he wants'."
+    },
+    {
+      "id": "5185351",
+      "time": "2026-11-01 08:16:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普談中期選舉：我今天參加了很多電話會議形式的市民大會。我明天一早動身去艾奧瓦州，明天一早去堪薩斯州——然後週一我們會舉辦多場不同活動……我感覺非常好。"
+    },
+    {
+      "id": "5185350",
+      "time": "2026-11-01 08:16:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美方分析報告稱伊朗襲擊造成中東地區美軍基地嚴重損失】美國方面10月31日釋出分析報告稱，截至8月底，伊朗或伊朗支援的民兵組織宣稱負責的襲擊損壞或摧毀了中東地區26個美軍基地及部署有美軍裝備的設施；僅4月1日至6月30日，伊朗襲擊就破壞或摧毀了美軍基地內數百座建築物及其他設施。分析發現，伊朗初期重點打擊美軍飛機機庫及用於探測來襲導彈和無人機的預警系統，後擴大攻擊目標，造成數十億美元裝備損失。持續襲擊已改變美軍在中東部署，兩名官員透露，美軍已將許多軍事資產撤出波斯灣，相關損失也引發外界對美軍地區防禦能力的質疑。（央視）"
+    },
+    {
+      "id": "5185349",
+      "time": "2026-11-01 08:16:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "提示：美國總統特朗普結束對記者的講話。"
+    },
+    {
+      "id": "mkt:01a19475-e125-7ee0-aa1c-3614b055aa8d",
+      "time": "2026-11-01 08:15:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says the Russia-Ukraine conflict will end in the not-too-distant future."
+    },
+    {
+      "id": "5185337",
+      "time": "2026-11-01 08:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：沒有計劃與巴西參議員、自由黨候選人弗拉維奧·博索納羅會面。"
+    },
+    {
+      "id": "5185336",
+      "time": "2026-11-01 08:14:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：博索納羅想在這裡待多久都可以。"
+    },
+    {
+      "id": "mkt:01a19475-8b04-7ee0-aa1c-29c8349c56fd",
+      "time": "2026-11-01 08:14:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said one or two locations still need to be addressed and he is monitoring Pickaxe Mountain."
+    },
+    {
+      "id": "5185334",
+      "time": "2026-11-01 08:14:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：俄烏衝突將在不太遙遠的未來結束。"
+    },
+    {
+      "id": "te:economy:596993",
+      "time": "2026-11-01 08:14:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "South Korea Import Growth Below Forecasts — South Korea’s imports surged 36.0% year-on-year in October 2026, below market expectations of 39.9% but accelerating from a 26.0% rise in the previous month, flash data showed. It marked the 12th consecutive month of growth in purchases, driven by robust domestic industrial demand."
+    },
     {
       "id": "5185330",
       "time": "2026-11-01 08:13:10",
@@ -119457,30 +119541,6 @@
         "其他"
       ],
       "text": "中國地震臺網正式測定：10月25日08時11分在青海玉樹州雜多縣（北緯32.48度，東經93.92度）發生3.0級地震，震源深度10千米。"
-    },
-    {
-      "id": "5166745",
-      "time": "2026-10-25 08:17:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我很高興宣佈佐治亞州將迎來一筆大規模汽車製造投資。奧迪已承諾在梅肯投資42.5億美元，下個月開始建設一座大型工廠，年產量將達20萬輛汽車。"
-    },
-    {
-      "id": "5166744",
-      "time": "2026-10-25 08:16:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣州市與愛奇藝簽署戰略合作框架協議】10月24日上午，廣州市AIGC視聽產業系列釋出活動在白雲國際會堂舉行。廣州市副市長江智濤、愛奇藝執行長龔宇致辭並共同簽署戰略合作框架協議。會前，廣州市市長孫志洋與龔宇就進一步深化合作進行交流。 江智濤在致辭中表示，廣州發展視聽產業基礎紮實、底氣十足。此次與愛奇藝達成戰略合作，必將助力廣州在AIGC視聽新賽道增創新優勢，誠邀廣大企業家投資廣州、深耕灣區，開拓全球市場。 龔宇說，廣州具備打造AIGC視聽產業高地的良好基礎，愛奇藝將依託自身內容優勢，與廣州深化紀錄片打造、AI影視創作營等合作，助力廣州建設紀錄片之城。 活動現場，廣州市政府與愛奇藝簽署戰略合作框架協議，雙方將圍繞AIGC產業佈局、內容創作、生態培育、人才培養、城市品牌塑造等重點領域加強合作，共同推動廣州數字文化產業高質量發展。（廣州日報）"
-    },
-    {
-      "id": "mkt:01a17069-8a19-7ee0-a967-f4ccc5355fa7",
-      "time": "2026-10-25 08:15:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The White House said the U.S. state of Georgia is set to receive substantial investment, a sharp rise in tax refunds and historic funding for rural healthcare."
     }
   ]
 }
