@@ -1,7 +1,60 @@
 {
   "date": "2026-11-02",
-  "count": 179,
+  "count": 185,
   "items": [
+    {
+      "id": "mkt:01a19945-319a-7ee0-aa21-15a759ad0720",
+      "time": "2026-11-02 06:40:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【OpenAI to brand data centers as Compute Campus in bid to reshape public image】OpenAI on Sunday confirmed plans to brand its data centers as Compute Campus, saying the name better reflects the scale and role of AI infrastructure and signals long-term investment in compute, energy infrastructure and skilled labor. Data centers have become a voter issue in the US midterm elections and past attempts to improve public perception have largely failed; major builders including Meta, Amazon and Microsoft have pledged millions to nearby communities and schools, and OpenAI is pursuing a full rebrand to try to shift public opinion."
+    },
+    {
+      "id": "te:economy:597022",
+      "time": "2026-11-02 06:39:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Australia Manufacturing PMI Revised Slightly Lower — The S&P Global Australia Manufacturing PMI was revised slightly lower to 49.6 in October 2026 from preliminary estimates of 49.7, unchanged from a 21-month low of 49.6 in September. It was the second straight month of contraction in the manufacturing sector, as new orders fell at the steepest pace since December 2024, driving a solid decline in output. Meanwhile, overseas demand fell for another straight month, though at a slower rate. Purchasing activity continued to fall in line with new orders, with delivery times worsening further. On the price front, input cost inflation accelerated due to higher energy, raw material, supplier, and shipping costs. In response to rising input prices, output costs rose for the first time in five months, as firms opted to pass on their increased cost burdens to clients. Looking ahead, business sentiment remained positive but below its long-run average."
+    },
+    {
+      "id": "5186114",
+      "time": "2026-11-02 06:37:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜：可以無視民調。全國各地的民調都是錯的。"
+    },
+    {
+      "id": "5186113",
+      "time": "2026-11-02 06:37:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜：我努力跟上特朗普總統的節奏。他根本不睡覺。你明白嗎？他凌晨1點給我打電話，早上5點也打。睡覺是懦夫才做的事。"
+    },
+    {
+      "id": "5186112",
+      "time": "2026-11-02 06:37:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜：腐敗的媒體在使用假民調，他們試圖製造一種說法，即這場競選已經結束。它並沒有結束。"
+    },
+    {
+      "id": "5186111",
+      "time": "2026-11-02 06:36:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜談特朗普：我們再也不會有這樣的總統了。"
+    },
     {
       "id": "5186110",
       "time": "2026-11-02 06:35:26",
