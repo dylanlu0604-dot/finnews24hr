@@ -1,7 +1,32 @@
 {
   "date": "2026-11-01",
-  "count": 254,
+  "count": 256,
   "items": [
+    {
+      "id": "5185431",
+      "time": "2026-11-01 08:58:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：已“摧毀”伊朗核能力 仍有一兩個設施有待處理】美國總統特朗普當地時間週六表示，美國已經“摧毀”伊朗的核能力，但仍有一到兩處設施有待處理。特朗普在海湖莊園一場萬聖節活動上對記者稱：“我們已經打掉了他們的核能力。還有一到兩處目標需要處理，我想說，我們十分鐘就能搞定。”特朗普稱伊朗希望達成協議，但他對德黑蘭在談判中的可信度存疑。“伊朗永遠不會擁有核武器。他們想要達成協議，我們拭目以待。”他說。被問及談判進展時，特朗普表示：“談判在推進，但伊朗不太可靠。他們達成協議之後又反悔。”"
+    },
+    {
+      "id": "mkt:01a1949c-5378-7ee0-aa1c-55ab792d403a",
+      "time": "2026-11-01 08:57:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "China EV Leaders",
+        "1211.HK",
+        "Impact bullish",
+        "00175.HK",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "【Cui Dongshu: Major Chinese automakers strongly outperform in Europe】CPCA's Cui Dongshu said China-to-EU auto exports reached 1.83 mln units in the first nine months of 2026, already surpassing last year's full-year total; September shipments rose 128% YoY and cumulative exports were up 87%. Exports show both rapid scale expansion and sharp mix polarization: PHEV shipments surged 372% in 2026 and became the main growth driver; BEV exports nearly doubled despite high EU tariffs; HEV rose 91% as a stable base. Manufacturer concentration is increasing — BYD's lead widened markedly while Geely, Chery and Leapmotor posted rapid gains — underscoring the accelerating global rise of China's auto industry."
+    },
     {
       "id": "5185430",
       "time": "2026-11-01 08:54:48",

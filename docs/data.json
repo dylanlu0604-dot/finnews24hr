@@ -1,7 +1,32 @@
 {
-  "updated": "2026-11-01 08:56:47",
-  "count": 13105,
+  "updated": "2026-11-01 09:00:47",
+  "count": 13103,
   "items": [
+    {
+      "id": "5185431",
+      "time": "2026-11-01 08:58:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：已“摧毀”伊朗核能力 仍有一兩個設施有待處理】美國總統特朗普當地時間週六表示，美國已經“摧毀”伊朗的核能力，但仍有一到兩處設施有待處理。特朗普在海湖莊園一場萬聖節活動上對記者稱：“我們已經打掉了他們的核能力。還有一到兩處目標需要處理，我想說，我們十分鐘就能搞定。”特朗普稱伊朗希望達成協議，但他對德黑蘭在談判中的可信度存疑。“伊朗永遠不會擁有核武器。他們想要達成協議，我們拭目以待。”他說。被問及談判進展時，特朗普表示：“談判在推進，但伊朗不太可靠。他們達成協議之後又反悔。”"
+    },
+    {
+      "id": "mkt:01a1949c-5378-7ee0-aa1c-55ab792d403a",
+      "time": "2026-11-01 08:57:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "China EV Leaders",
+        "1211.HK",
+        "Impact bullish",
+        "00175.HK",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "【Cui Dongshu: Major Chinese automakers strongly outperform in Europe】CPCA's Cui Dongshu said China-to-EU auto exports reached 1.83 mln units in the first nine months of 2026, already surpassing last year's full-year total; September shipments rose 128% YoY and cumulative exports were up 87%. Exports show both rapid scale expansion and sharp mix polarization: PHEV shipments surged 372% in 2026 and became the main growth driver; BEV exports nearly doubled despite high EU tariffs; HEV rose 91% as a stable base. Manufacturer concentration is increasing — BYD's lead widened markedly while Geely, Chery and Leapmotor posted rapid gains — underscoring the accelerating global rise of China's auto industry."
+    },
     {
       "id": "5185430",
       "time": "2026-11-01 08:54:48",
@@ -119400,43 +119425,6 @@
         "MKT News"
       ],
       "text": "U.S. President Trump concluded a speech in Georgia."
-    },
-    {
-      "id": "mkt:01a17092-a7d2-7ee0-a968-4b8ba706737f",
-      "time": "2026-10-25 09:00:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Trump says Audi to invest $4.2 bln in US plant, uses announcement to defend tariffs】President Trump, at a campaign rally in Georgia, defended his tariff policy and said tariffs have made the U.S. richer. He announced Volkswagen Group will invest $4.2 billion to build an Audi assembly plant in the state, which he said will produce about 200,000 cars a year and called \"the largest single investment in the U.S. auto industry's modern history.\" He added the deal \"would not have happened without tariffs.\""
-    },
-    {
-      "id": "5166837",
-      "time": "2026-10-25 08:59:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國建築業三季度臨時工、日工總量創31年同期新低】韓國政府週日公佈資料顯示，受建築業長期不景氣影響，韓國臨時工與日工數量降至31年來三季度最低水平。資料與統計部微觀資料的分析結果顯示，7至9月這類崗位合計573萬人，同比減少9.5萬人，為1995年以來三季度最低值。"
-    },
-    {
-      "id": "5166836",
-      "time": "2026-10-25 08:57:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "提示：特朗普結束在佐治亞州的講話。"
-    },
-    {
-      "id": "5166827",
-      "time": "2026-10-25 08:56:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【冷空氣上線！北方雨雪增多 多地迎立秋後最冷一天】今天（10月25日），華東沿海降雨將明顯減弱，華北、西北多地迎明顯降水；明後兩天，我國降雨將集中在西南地區東部及其周邊一帶。與此同時，受新一股冷空氣影響，未來三天西北、華北、東北將自西向東陸續出現不同程度降溫，多地將重新整理立秋以來最高氣溫新低。"
     }
   ]
 }
