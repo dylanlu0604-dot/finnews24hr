@@ -1,7 +1,496 @@
 {
   "date": "2026-11-01",
-  "count": 663,
+  "count": 721,
   "items": [
+    {
+      "id": "mkt:01a197d6-74ba-7ee0-aa1f-6d728d336da3",
+      "time": "2026-11-01 23:59:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says he may become 'Mr. Veto' if Democrats win congressional majority】In a New York Post interview, President Trump said he may have to become \"Mr. Veto\" if Democrats win a congressional majority in Tuesday’s midterm elections, saying he would veto bills until Democrats return to negotiate. He plans campaign rallies on Sunday in Kansas and Iowa to try to secure continued Republican control of Congress. Polls show weak support for Trump, giving Democrats a chance to win at least one chamber and possibly both."
+    },
+    {
+      "id": "5185832",
+      "time": "2026-11-01 23:58:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外長：希望美方保持理性】伊朗外交部長阿拉格齊11月1日接受伊朗媒體採訪時表示，伊朗已做好防禦與外交兩方面的準備，選擇哪條道路取決於美方是否理性。伊方希望美國保持理性，優先選擇外交而非其他途徑解決問題。阿拉格齊說，伊朗副外長近日帶領伊朗代表團到訪卡達，旨在繼續與卡達調解方進行討論。阿拉格齊還說，此次訪問從一開始就沒有安排與美國方面進行談判。（新華社）"
+    },
+    {
+      "id": "5185831",
+      "time": "2026-11-01 23:56:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏稱俄襲擊基輔能源設施 城區多地面臨停水】烏克蘭首都基輔市國家行政管理局通報，俄羅斯對基輔能源基礎設施實施襲擊，造成當地一處供水設施斷電，引發城區供水異常。受此次斷電影響，基輔多地區水壓普遍下降，部分居民住宅樓或將臨時停水。據官方說明，受損供水設施恢復供電後，城市供水管網壓力將逐步回升，但全域供水完全恢復仍需時間。目前，基輔自來水公司技術人員已開展搶修作業。俄羅斯方面對此暫無回應。 (央視新聞)"
+    },
+    {
+      "id": "5185826",
+      "time": "2026-11-01 23:53:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安在賠付63億美元被盜資產的大部分資金後，出現使用者集中提取資金的情況。"
+    },
+    {
+      "id": "5185824",
+      "time": "2026-11-01 23:51:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱，攔截並摧毀了葉門胡塞武裝向南部地區發射的無人機。"
+    },
+    {
+      "id": "mkt:01a197ce-914a-7ee0-aa1f-635893790056",
+      "time": "2026-11-01 23:50:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi-led coalition said it intercepted and destroyed drones launched by Yemen's Houthi militants toward southern regions."
+    },
+    {
+      "id": "5185820",
+      "time": "2026-11-01 23:48:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄安全部門核查美方恐襲情報 拘捕一名未成年人】據俄羅斯媒體11月1日報道，俄聯邦安全域性公共關係中心當日通報，該部門與俄國民近衛軍、內務部和偵查委員會聯合核查了來自美國執法機關有關在莫斯科察裡津諾莊園策劃恐襲的情報，一名未成年俄羅斯公民被拘捕。（新華社）"
+    },
+    {
+      "id": "5185819",
+      "time": "2026-11-01 23:48:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍表示，攔截並摧毀了葉門胡塞武裝向南部地區發射的一枚彈道導彈。"
+    },
+    {
+      "id": "mkt:01a197cc-3abf-7ee0-aa1f-5aaf85ccc19a",
+      "time": "2026-11-01 23:48:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi-led coalition said it intercepted and destroyed a ballistic missile fired by Yemen’s Houthi forces toward southern areas."
+    },
+    {
+      "id": "5185818",
+      "time": "2026-11-01 23:45:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：伊朗正透過卡達進行間接談判，但未與美國舉行直接會晤。"
+    },
+    {
+      "id": "5185816",
+      "time": "2026-11-01 23:42:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "海灣合作委員會秘書長：我們警告，襲擊天然氣運輸船將對海洋環境以及能源供應的穩定性造成嚴重後果。"
+    },
+    {
+      "id": "5185815",
+      "time": "2026-11-01 23:42:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "海灣合作委員會秘書長：海上通道必須保持航行和貿易安全。"
+    },
+    {
+      "id": "5185814",
+      "time": "2026-11-01 23:42:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "海灣合作委員會秘書長：襲擊能源油輪是危險的升級行為，破壞地區安全。"
+    },
+    {
+      "id": "5185808",
+      "time": "2026-11-01 23:34:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：必須設計出機制，讓商品以更合適的價格送到貧困地區人民手中，並保持價格穩定。"
+    },
+    {
+      "id": "mkt:01a197ba-64d8-7ee0-aa1f-5493d53b9594",
+      "time": "2026-11-01 23:28:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense said the threat to Abha and Khamis Mushait has been lifted."
+    },
+    {
+      "id": "5185803",
+      "time": "2026-11-01 23:28:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，艾卜哈和哈米斯穆謝特的危險已經過去。"
+    },
+    {
+      "id": "5185802",
+      "time": "2026-11-01 23:27:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：如果民主黨拿下多數席位，我可能會成為“否決先生”】美國總統特朗普表示，如果民主黨在週二的中期選舉中贏得多數席位，他可能不得不當“否決先生”。“他們會不斷送來法案，你直接否決，”他說，“過上一兩個月，所有提案都被否決之後——你知道，這些法案純屬浪費——他們就會過來跟我談判。”特朗普週日將在堪薩斯州和艾奧瓦州舉行競選集會，爭取助力共和黨保住國會控制權。民調顯示，特朗普的低支援率，給了民主黨至少拿下其中一院、甚至兩院的機會。“希望我們不必走到那一步，”他說。"
+    },
+    {
+      "id": "mkt:01a197b8-4ef8-7ee0-aa1f-4b462a2bc0cb",
+      "time": "2026-11-01 23:26:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shooting near Birmingham stadium in Alabama kills 1, injures 8】A shooting near Legion Field in Birmingham, Alabama, after a football game on the evening of Oct. 31 killed one and injured eight, Birmingham Police Chief Michael Pickett said. Police have detained one person for questioning and seized multiple firearms; motive remains unclear."
+    },
+    {
+      "id": "5185800",
+      "time": "2026-11-01 23:26:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國亞拉巴馬州發生槍擊事件 致1死8傷】當地時間11月1日，據美國方面訊息，美國亞拉巴馬州伯明翰市一橄欖球比賽結束後，體育場附近發生槍擊事件，造成1人死亡、8人受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a197b3-579b-7ee0-aa1f-40a734d40b38",
+      "time": "2026-11-01 23:21:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense warned residents in Abha and Khamis Mushait to be alert to potential danger."
+    },
+    {
+      "id": "5185795",
+      "time": "2026-11-01 23:21:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門警告稱，艾卜哈和海米斯穆謝特存在潛在危險。"
+    },
+    {
+      "id": "5185790",
+      "time": "2026-11-01 23:07:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際移民組織：葉門流離失所者已超30萬人】當地時間11月1日，國際移民組織釋出的最新資料顯示，葉門衝突導致超過30萬人流離失所，這些人幾乎都是過去兩個月內流離失所的。戰亂導致基本生活用品價格飆升，許多家庭難以找到住所，也難以負擔基本生活必需品，而准入限制導致援助機構更難接觸到需要幫助的人。"
+    },
+    {
+      "id": "5185789",
+      "time": "2026-11-01 23:06:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們可能在某個時候會和民主黨人達成協議。"
+    },
+    {
+      "id": "5185788",
+      "time": "2026-11-01 23:05:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果民主黨贏得多數席位，我想我會成為“否決先生”。"
+    },
+    {
+      "id": "5185787",
+      "time": "2026-11-01 23:05:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "大批美國空軍空中加油機再度集結以色列。（照片拍攝於以色列南部城市埃拉特的拉蒙機場）"
+    },
+    {
+      "id": "5185786",
+      "time": "2026-11-01 23:00:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯一架自制飛行器墜毀 致1人死亡】據俄羅斯11月1日方面訊息，一架自制飛行器當日在俄羅斯特維爾州墜毀，駕駛該飛行器的一名男子死亡。據悉，該飛行器於當天13時左右墜毀。偵查人員和刑偵專家已趕赴現場。俄偵查委員會西部跨地區交通偵查局已就此事展開調查。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1979e-0bca-7ee0-aa1f-399e2e242255",
+      "time": "2026-11-01 22:57:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Survey: Nearly 1,500 Japanese food items set to rise in November; annual total 20,327】Teikoku Databank surveyed 195 major Japanese food and beverage producers and found 1,477 food items slated for price increases in November, roughly ten times the year-earlier count. The increases are concentrated in processed foods and beverages, with an average rise of 17%. That brings the number of food items that have raised or are due to raise prices this year to 20,327, again topping 20,000 since 2025."
+    },
+    {
+      "id": "5185785",
+      "time": "2026-11-01 22:44:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：10月，烏克蘭國防軍給敵人造成了創紀錄的損失，收復的領土面積超過俄羅斯佔領者奪取的面積。僅一個月內，俄羅斯損失了54400名士兵，包括陣亡和重傷。這是全面戰爭以來任何月份的最高紀錄。單日損失也創下紀錄——10月21日俄軍損失2250名士兵。"
+    },
+    {
+      "id": "mkt:01a1978f-f638-7ee0-aa1f-33aba1b35906",
+      "time": "2026-11-01 22:42:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【White House readies plan to bypass Congress if Democrats win control】Refinitiv reports the White House has spent months preparing contingency plans to advance parts of the president’s agenda by executive action if Democrats win control of Congress and to prepare for congressional investigations of the administration. Since April senior aides including Stephen Miller and Russell Vought have worked with White House counsel Will Scharf to map actions the president can take without congressional approval in areas including immigration, tariffs, housing costs and federal spending, and to assess legal limits and defenses for those measures. Aides are also privately preparing for a substantially different political landscape in 2027."
+    },
+    {
+      "id": "5185784",
+      "time": "2026-11-01 22:36:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞發現輸入性瘧疾，已致1人死亡】當地時間10月31日，哥倫比亞衛生部和國家衛生研究院（INS）聯合通報，兩名從剛果民主共和國返回的哥倫比亞公民確診感染惡性瘧原蟲引起的瘧疾。其中，一名33歲患者已死亡，另一名50歲患者正在接受治療。哥衛生部門已啟動流行病學調查，採集樣本並開展實驗室檢測，排查包括埃博拉病毒病在內的其他傳染病。目前，兩名患者均確診為瘧疾，尚無埃博拉病毒病確診報告。（央視新聞）"
+    },
+    {
+      "id": "5185783",
+      "time": "2026-11-01 22:35:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【波札那總統：博中兩國將在諸多領域深化合作】波札那總統博科10月31日表示，他日前對中國進行的國事訪問非常成功，博中兩國將在政治、貿易與投資、人文等領域深化合作。（新華社）"
+    },
+    {
+      "id": "5185782",
+      "time": "2026-11-01 22:34:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安發言人：提款水平正趨於穩定，恢復至我們認為屬於正常且符合預期的鏈上活動水平；提款規模佔資產管理規模的比例非常小。"
+    },
+    {
+      "id": "mkt:01a19788-fa8f-7ee0-aa1f-2b94adfc91a8",
+      "time": "2026-11-01 22:34:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says it purchased Russian Su-35 fighters; delivery to occur after war】On Nov. 1 the Jerusalem Post and Russia’s RBC reported Iranian military spokesman Akraminia said in joint interviews with Tabnak and BitRun that Iran has purchased Russian Su-35 fighters and will take delivery after the war. He said the purchase was completed before the conflict, delivery had been scheduled pre-conflict, and pilot training and related preparations are finished. Russia has not confirmed the claim."
+    },
+    {
+      "id": "5185781",
+      "time": "2026-11-01 22:33:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安發言人：提款量在初期出現激增，但目前正呈現大幅下降趨勢。"
+    },
+    {
+      "id": "5185780",
+      "time": "2026-11-01 22:33:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "孟加拉國10月份出口額同比增長4.4%，達到39.9億美元。"
+    },
+    {
+      "id": "5185779",
+      "time": "2026-11-01 22:30:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美議員說中東戰爭讓美民眾苦不堪言】當地時間10月31日，美國佐治亞州民主黨籍聯邦參議員喬恩·奧索夫在亞特蘭大舉行的一場活動上表示，美國政府用謊言將民眾拖入了一場既不知如何結束、也不知如何取勝的中東戰爭。他指出，在這場戰爭中，已有21名美國人喪生、數百人受傷，然而，伊朗依然擁有無人機、導彈和鈾。#美議員說美受創而伊朗仍無恙# 對於戰爭帶來的影響，奧索夫表示，美國國內柴油價格飆升至歷史最高水平，關稅政策使食品價格達到了歷史新高。美國政府為了給富人減稅，還大幅削減了醫療補助計劃，這一切讓佐治亞州的家庭苦不堪言。（CCTV國際時訊）"
+    },
+    {
+      "id": "5185778",
+      "time": "2026-11-01 22:30:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【藍思科技：崑山基地目前已實現日產百臺規模】11月1日，藍思科技在投資者關係活動中表示，崑山基地僅用一個多月的時間完成籌備，目前已實現日產百臺規模。隨著自研半自動化及全自動化裝備陸續到位，下月產能將進一步提升，為客戶Q系列及T系列產品分別提供月產1萬臺以上的產能保障，後續將根據客戶快速增長的需求繼續擴大產能規模。"
+    },
+    {
+      "id": "mkt:01a19784-3303-7ee0-aa1f-274b96f0a639",
+      "time": "2026-11-01 22:29:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Homemade aircraft crash in Russia kills one】RIA reported on Nov. 1 that a homemade aircraft crashed in Russia’s Tver region at about 1300 local time, killing the pilot. Investigators and forensic experts have been dispatched to the scene. The Western Interregional Transport Investigation Department of the Russian Investigative Committee has opened an investigation."
+    },
+    {
+      "id": "mkt:01a19783-d5aa-7ee0-aa1f-1e6b510f33c9",
+      "time": "2026-11-01 22:29:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwait's foreign ministry strongly condemned an attack on Al Maayeda, an LNG tanker operated by a Qatari gas-transport company, saying such strikes seriously threaten maritime navigation and global energy supplies. The ministry urged compliance with international law to protect freedom of navigation, vessels and crews, warned the attack could create environmental and economic risks and harm regional security and stability, and called for a full investigation to identify and hold those responsible."
+    },
+    {
+      "id": "5185777",
+      "time": "2026-11-01 22:23:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源公司和安哥拉國家石油公司將在安哥拉開展甲烷減排和能源效率方面的合作。"
+    },
+    {
+      "id": "5185776",
+      "time": "2026-11-01 22:22:10",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【人工智慧產業鏈三季報亮眼 機構稱後續業績環比改善確定性較強】上市公司三季報披露收官，人工智慧產業連結串列現出色，成為A股業績增長的核心引擎。東吳證券、國聯民生證券近日相繼釋出研報稱，AI產業鏈景氣度具備持續性，第四季度業績有望保持高速增長。同時，國產算力規模化落地、個人Agent應用加速迭代、資料要素改革持續推進，算力、應用、資料要素多線共振，AI產業鏈中長期成長邏輯未發生改變。（上證報）"
+    },
+    {
+      "id": "5185775",
+      "time": "2026-11-01 22:19:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員丹·蘇利文表示，他將接受阿拉斯加州參議院選舉的結果。"
+    },
+    {
+      "id": "mkt:01a1977b-209f-7ee0-aa1f-15d39255849d",
+      "time": "2026-11-01 22:19:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senator Dan Sullivan said he will accept the result of the Alaska Senate election."
+    },
+    {
+      "id": "mkt:01a19779-cad5-7ee0-aa1f-0d6784a20a28",
+      "time": "2026-11-01 22:18:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "1211.HK",
+        "Impact bullish",
+        "XPEV.O",
+        "NIO.O"
+      ],
+      "text": "【China Oct auto deliveries: BYD 490.2k NEVs; XPeng record month; Li Auto, NIO, ZEEKR, Leapmotor updates】BYD sold 490,200 NEVs in Oct, up 10.97% YoY; Jan–Oct NEV sales 3,621,700, down 2.16% YoY. XPeng delivered 50,237 vehicles in Oct, +22% MoM, +20% YoY, a record monthly high. Xiaomi Auto delivered more than 50,000 vehicles in Oct. Li Auto delivered 29,025 in Oct; cumulative deliveries through Oct 31 reached 1,862,676. NIO delivered 34,246 vehicles in Oct, split 18,125 NIO-brand and 8,383 Leda-brand units. ZEEKR delivered 32,483 in Oct, +51.6% YoY; Jan–Oct deliveries 320,887, +94.4% YoY. Leapmotor reported Oct global deliveries of 106,127, +51% YoY and the fourth consecutive month above 100,000. Hongmeng Zhixing delivered 33,537 in Oct; average transaction price exceeded 400,000 yuan and cumulative deliveries exceeded 1.6 million. Deep Blue Auto sold 32,602 globally in Oct, MoM +8.01%. BAIC BluePark’s Beijing New Energy unit sold 32,502 in Oct, +6.42% YoY; YTD sales 195,878, +37.9%. Great Wall sold 120,374 vehicles in Oct, -15.87% YoY; Jan–Oct sales 1,040,676, -2.42%; Oct overseas sales 62,862 and NEV sales 49,499. SAIC Motor sold 430,000 vehicles in Oct, -5.28% YoY; Oct NEV sales 258,600, +25.12% YoY. SERES sold 27,037 vehicles in Oct, -50.29% YoY; Oct NEV sales 24,921, -51.57% YoY. Chery’s five brands sold 282,500 vehicles in Oct, +7.2% YoY; Oct NEV sales 132,000; Oct exports 194,700."
+    },
+    {
+      "id": "mkt:01a19775-b4a9-7ee0-aa1f-041c2d3c5161",
+      "time": "2026-11-01 22:13:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Israeli airstrikes on Gaza Strip kill at least 8】On Nov. 1, Israeli airstrikes across the Gaza Strip killed at least 8 people and wounded several. A drone strike in Khan Younis killed five Palestinians who were identified by the local interior ministry as police; a separate strike west of Gaza City killed three, including a child."
+    },
+    {
+      "id": "5185773",
+      "time": "2026-11-01 22:11:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列空襲加沙地帶致8人死亡】據巴勒斯坦通訊社11月1日報道，以色列當天對加沙地帶多地發動空襲，造成至少8人死亡，另有多人受傷。報道稱，以色列無人機在加沙地帶南部汗尤尼斯實施的襲擊造成5名巴勒斯坦人死亡。另據當地內務部門釋出的宣告，這5名巴勒斯坦人的身份是警察。（新華社）"
+    },
+    {
+      "id": "mkt:01a19772-c9d7-7ee0-aa1e-f9665cae61e5",
+      "time": "2026-11-01 22:10:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China housing minister meets Laos public works minister; ministries to deepen housing and resilient-city cooperation after MOU】On Nov. 1 in Fuzhou, China's minister of housing and urban-rural development Ni Hong met Laos public works and transport minister Xivilay. The two ministries earlier signed an MOU, witnessed by both heads of state, to strengthen cooperation in housing and urban construction. They agreed to implement leaders' consensus and deepen ties on housing security, quality-housing construction, resilient cities, urban planning, and cooperation on new technologies, materials and products. Both sides also committed to enhanced professional exchanges and capacity-building."
+    },
+    {
+      "id": "5185772",
+      "time": "2026-11-01 22:10:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【倪虹會見寮國公共工程運輸部部長西維萊】11月1日，住房城鄉建設部部長倪虹會見來福州出席2026年世界城市日全球主場活動的寮國公共工程運輸部部長西維萊。倪虹表示，今年，兩部在兩國元首見證下籤署了《關於加強住房城鄉建設領域合作的諒解備忘錄》。下一步，要攜手落實好兩國元首達成的重要共識，深化在住房保障、“好房子”建設、韌性城市、城市規劃等領域溝通交流，加強新技術、新材料、新產品的應用合作，為兩國人民安居樂業、幸福生活創造更好條件。雙方就加強專業交流、能力建設等領域合作達成共識。（中國建設報）"
+    },
+    {
+      "id": "5185771",
+      "time": "2026-11-01 22:10:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "孟加拉國10月僑匯收入同比增長12%。"
+    },
+    {
+      "id": "5185770",
+      "time": "2026-11-01 22:00:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【OpenAI擬在美國中期選舉後推出系列政策倡議 加強人工智慧監管佈局】據報道，OpenAI計劃在11月3日美國中期選舉結束後，立即展開一系列政策倡議和公關行動，以適應華盛頓可能出現的政治格局變化，並影響2028年總統大選的人工智慧政策辯論。OpenAI首席全球事務官Chris Lehane表示，公司自8月以來一直在籌備相關政策提案，預計將在11月9日開始的國會“跛腳鴨會期”啟動。具體措施包括：推動對最先進人工智慧系統設定強制性安全保障措施，為人工智慧發展設定“速度限制”，確保人類保有控制權；透過社群合作協議及州級立法建議緩解資料中心建設阻力，並推動將新型資料中心重新定位為“人工智慧算力園區”；擴大人工智慧教育培訓及就業支援，幫助勞動者應對技術變革；推動美國主導基於民主價值觀的全球人工智慧標準制定。Lehane認為，人工智慧將成為2028年美國總統大選的核心議題。"
+    },
+    {
+      "id": "5185769",
+      "time": "2026-11-01 22:00:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗方面訊息：伊朗外長阿拉格齊將於週一率領一個外交和經濟代表團前往土庫曼的阿什哈巴德。此行期間，阿拉格齊將與土庫曼官員就雙方共同關心的各領域雙邊關係舉行會談和磋商。"
+    },
+    {
+      "id": "mkt:01a19768-cb5b-7ee0-aa1e-f5d5a3a2252d",
+      "time": "2026-11-01 21:59:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported Iran's foreign minister Araghchi will lead a diplomatic and economic delegation to Ashgabat, Turkmenistan on Monday to hold talks with Turkmen officials on bilateral cooperation across areas of mutual concern."
+    },
+    {
+      "id": "5185768",
+      "time": "2026-11-01 21:58:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "據俄羅斯方面訊息，俄羅斯安全部門表示，在美方提供線索後，已拘留一名未成年人，因其威脅在察裡齊諾公園實施“恐怖”襲擊。"
+    },
+    {
+      "id": "mkt:01a19767-bb5c-7ee0-aa1e-eccfd5afea51",
+      "time": "2026-11-01 21:58:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reported that Russian security services said they detained a minor, based on a tip from the US, on suspicion of threatening to carry out a terrorist attack at Moscow's Tsaritsyno Park."
+    },
+    {
+      "id": "5185767",
+      "time": "2026-11-01 21:56:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，中期選舉後，OpenAI將展開政策和公關攻勢。"
+    },
+    {
+      "id": "mkt:01a19761-cdce-7ee0-aa1e-e5fbf29350fd",
+      "time": "2026-11-01 21:52:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: military exercises in parts of South China Sea Nov. 2–4】China Maritime Safety Administration’s Qinglan office issued a navigation warning: military exercises will take place in parts of the South China Sea Nov. 2–Nov. 4, daily 07:00–18:00 local time; entry is prohibited."
+    },
+    {
+      "id": "5185765",
+      "time": "2026-11-01 21:49:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "秘魯10月利馬消費者物價指數同比上漲5.25%。"
+    },
+    {
+      "id": "5185764",
+      "time": "2026-11-01 21:48:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告：南海部分水域開展軍事訓練】據中國海事局網站訊息，清瀾海事局釋出航行警告，11月2日至11月4日，每日7時至18時，南海部分水域開展軍事訓練，禁止駛入。"
+    },
     {
       "id": "5185763",
       "time": "2026-11-01 21:43:30",
