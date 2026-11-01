@@ -1,7 +1,889 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-11-01 21:47:12_
-_本檔包含 2483 則快訊，約 480381 字_
+_更新時間：2026-11-02 03:22:55_
+_本檔包含 2595 則快訊，約 481066 字_
+
+---
+
+### 2026-11-02 03:17:26  #國際
+
+美國一架小型飛機在佛羅里達州格林埃克斯墜毀。
+
+---
+
+### 2026-11-02 03:11:45  #國際
+
+美國參議院民主黨領袖舒默：眾議員史蒂文斯此舉是“卑劣的背叛”。
+
+---
+
+### 2026-11-02 03:04:15  #其他
+
+馬斯克：對人工智慧進行沙盒測試的最佳方式，就是把它送上達美航空的航班，根本無法逃脫。3.8萬英尺的空中隔離。
+
+---
+
+### 2026-11-02 02:56:59  #國際
+
+敘利亞：德拉省東部鄉村傳出爆炸聲，目前正在核實爆炸性質。
+
+---
+
+### 2026-11-02 02:48:29  #MKT News
+
+On Nov 1 local time, IRGC intelligence said it arrested a spy who had passed operational details of a UAV and missile-parts production center in Markazi province to a foreign adversary.
+
+---
+
+### 2026-11-02 02:47:55  #國際
+
+【伊朗革命衛隊逮捕一名間諜 指其涉嫌洩露軍工情報】當地時間11月1日，伊朗革命衛隊情報機構宣佈逮捕一名間諜，此人向敵方洩露伊朗中央省的無人機和導彈部件生產中心的運作情況。（央視新聞）
+
+---
+
+### 2026-11-02 02:46:49  #國際
+
+【以色列完成對伊新一輪作戰準備】以色列已完成與伊朗進行新一輪戰鬥的準備，並認為特朗普可能在數日內下令發動打擊。以色列和美國軍事官員在週末舉行了會談，與此同時，數十架美國運輸機和加油機抵達該地區，包括以色列的奧夫達和內瓦蒂姆空軍基地。以色列還與海灣國家進行了接觸，官員們越來越懷疑與伊朗的談判能否達成協議。
+
+---
+
+### 2026-11-02 02:40:38  #國際
+
+特朗普稱讚美國密歇根州民主黨聯邦眾議員海莉·史蒂文斯對共和黨議員羅傑斯的支援。
+
+---
+
+### 2026-11-02 02:39:55  #國際
+
+伊朗革命衛隊警告稱，已鎖定新的敵方目標，若再次遭到襲擊，將動用更多軍事能力。
+
+---
+
+### 2026-11-02 02:38:34  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+【Israeli media: Mossad and IDF appear divided on targets for new Iran operations】Jerusalem Post sources say Prime Minister Netanyahu continues to push for Iranian regime change while Mossad chief Roman Gof is drafting plans to advance that aim; the IDF is focused primarily on eliminating concrete threats. Cited potential targets include the PICKAXE MOUNTAIN nuclear site; operations to reduce the risk of Iran retrieving 60% enriched uranium from the rubble of three previously struck nuclear sites; new facilities linked to weapons R&D; newly built or repaired ballistic missile production sites; and strategic-weapons projects. Israeli officials have also publicly threatened strikes on Iran’s major energy infrastructure. It is unclear whether assassinations of senior Iranian officials would be included. Since June 2025 Israel has twice killed dozens of senior Iranian officials, including, the report says, Ayatollah Ali Khamenei, but other senior regime figures have remained defiant. Public discussion of action against Mojtaba Khamenei — identified in the report as Ali Khamenei’s son and the regime’s current top leader — has been limited.
+
+---
+
+### 2026-11-02 02:34:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Israeli media: US seeks to limit any new action against Iran to as short as possible, possibly just days】Jerusalem Post reports Trump is focused on extracting nuclear concessions from Iran and on reopening the Strait of Hormuz. US officials are concentrating on limiting the duration of any new military action against Iran—potentially to only days—and have avoided assassinating senior Iranian officials in past strikes. Israeli officials likewise want to avoid a prolonged campaign like a 40-day war but have placed less emphasis on brevity, pressing instead for large-scale strikes to eliminate Tehran’s long-term threat.
+
+---
+
+### 2026-11-02 02:30:30  #MKT News
+
+【Carney: Canada, U.S. working to build mutually beneficial trade agreement】Canadian Prime Minister Carney said he held a productive conversation with U.S. President Trump on bilateral trade and that both sides are exploring a framework for a mutually beneficial Canada‑U.S. trade agreement. He said the deal aims to support jobs, lower household costs and respect Canadian sovereignty, and that negotiating teams will work closely over the coming weeks.
+
+---
+
+### 2026-11-02 02:29:58  #國際
+
+【特朗普不希望以總理干擾美伊談判】據以色列第12頻道電視臺當地時間11月1日報道，以色列和美國訊息人士透露，美國總統特朗普與以色列總理內塔尼亞胡10月31日就美國與伊朗的談判進行了一次“直接而尖銳”的通話。訊息人士稱，內塔尼亞胡敦促特朗普在11月3日美國中期選舉結束後“立即恢復對伊朗的戰爭”，並對目前在卡達斡旋下進行的美伊談判感到擔憂。 特朗普現階段則希望“讓談判充分展開”，不希望以色列干擾談判程序。報道同時稱，如果談判失敗，特朗普的立場可能發生“顯著變化”。 白宮和以色列總理辦公室目前均拒絕就這一報道發表評論。（CCTV國際時訊）
+
+---
+
+### 2026-11-02 02:29:19  #國際
+
+一名以色列高階官員表示，以色列軍方對可能與伊朗重啟戰事保持戒備，但正在等待政府下令；決定權在特朗普手中。
+
+---
+
+### 2026-11-02 02:25:57  #公司
+
+英國勞埃德銀行集團開啟一輪自願裁員，接受方案的員工將於2027年第一季度離職。
+
+---
+
+### 2026-11-02 02:24:51  #公司
+
+英國頭部銀行勞埃德銀行集團啟動一輪自願裁員。
+
+---
+
+### 2026-11-02 02:21:30  #MKT News
+
+【Gulf states warn renewed US–Israel strike on Iran could trigger larger regional war】Gulf states warn a renewed US–Israel strike on a better-prepared Iran could spark a far more destructive regional war that the Gulf would ultimately bear the cost of managing, UAE presidential foreign affairs adviser Anwar Gargash said at the Manama Dialogue. He said Gulf states had exhausted diplomatic options and are seeking a political solution. President Trump has repeatedly said the US and Israel will deliver a “final strike”; he ruled out strikes before Tuesday’s US midterm elections but did not rule out resuming military action if peace talks stall. RUSI deputy research fellow Mohammed Basha said he had not heard Gulf officials or civilians support strikes; most expect a new round of conflict and that Iran’s response would be more intense and likely not to follow previously observed rules of engagement.
+
+---
+
+### 2026-11-02 02:19:46  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+【Israeli military ready to support U.S. strikes on Iran if ordered; targets unclear】Jerusalem Post reports the IDF is prepared to join U.S. air strikes on Iran if ordered by Trump after the Nov. 3 U.S. midterm elections, though plans remain uncertain. The chance of an attack has risen after earlier aborted threats and as some advisers in Trump’s team again back military action. More than 10 U.S. military transport aircraft arrived this week at Nevatim and Ovda air bases in southern Israel, and Washington is moving air-defence systems and interceptors to Israel and select Arab partners. U.S. troop levels in the region remain below earlier peaks but these moves may signal an initial build-up. Washington and Jerusalem still disagree on specific operational targets.
+
+---
+
+### 2026-11-02 02:17:15  #國際
+
+【卡尼：加美將在未來幾周擬定貿易方案】加拿大總理卡尼表示，已與特朗普通話，雙方將在未來幾周內敲定一份“互利共贏”的美加貿易協議。卡尼沒有詳述和特朗普的通話內容，他稱這次對話延續了近期富有建設性的磋商，協議框架將創造就業、減輕家庭生活負擔，並且“充分尊重加拿大的語言、文化與主權”。他表示：“雙方工作團隊接下來數週將推進相關工作，爭取達成目標。”
+
+---
+
+### 2026-11-02 02:15:54  #國際
+
+【特朗普就伊朗戰事下一步行動與內塔尼亞胡通話】特朗普與內塔尼亞胡週六就伊朗局勢通了一次氣氛緊張的電話：內塔尼亞胡催促特朗普在美國中期選舉結束後馬上打擊伊朗，特朗普則傾向先繼續談判，同時保留動武選項。美方近期透過副總統萬斯向伊朗高層傳遞資訊，是數月內層級最高的接觸；特朗普稱談判尚可但不信任伊朗，還表示美軍隨時可以快速打擊伊朗名為鎬山的疑似地下核設施。卡達調解方連續三日和伊朗會談斡旋美伊談判，伊朗外長稱尚無協議，要看美方答覆伊朗的訴求，希望美方選擇外交方式。美方延續雙線策略：一邊推動談判，一邊準備中期選舉後重啟大規模作戰。白宮和以總理辦公室均不評論這次通話。
+
+---
+
+### 2026-11-02 02:10:20  #國際
+
+【美民主黨議員公開支援共和黨候選人】當地時間11月1日，據《紐約時報》報道，美國密歇根州民主黨聯邦眾議員海莉·史蒂文斯當天宣佈，支援共和黨聯邦參議員候選人邁克·羅傑斯。史蒂文斯此前在圍繞參議院議席的民主黨初選中敗給阿卜杜勒·賽義德。她的這一表態使民主黨內部分歧在中期選舉前進一步加劇。此前，史蒂文斯與賽義德因美國對以色列政策發生公開爭執。兩人原計劃共同出席一場旨在促進民主黨內團結的活動，但最終未能成行。（CCTV國際時訊）
+
+---
+
+### 2026-11-02 02:09:41  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+UKMTO reported receiving a report of an incident in the Strait of Hormuz; the ship's master said the vessel was struck by an unknown projectile.
+
+---
+
+### 2026-11-02 02:07:53  #其他
+
+英國海上貿易行動辦公室：一艘船隻在霍爾木茲海峽被不明發射物擊中。
+
+---
+
+### 2026-11-02 02:07:36  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Netanyahu urges Trump to strike Iran immediately after midterms】Axios, citing an Israeli and a U.S. source, reported that Trump held a candid Saturday call with Israeli Prime Minister Netanyahu about U.S.-Iran talks and when to rapidly resume combat. The Israeli source said Netanyahu urged Trump to strike Iran immediately after Tuesday’s midterm elections; Trump favors letting negotiations continue, a stance that has worried Netanyahu. The Israeli source called the tone of the call “tough”; the U.S. source described it as “direct.” The White House and the Israeli prime minister’s office declined to comment.
+
+---
+
+### 2026-11-02 02:03:23  #其他
+
+【法國南部城市發生槍擊事件致1人受傷】法國內政部長努內茲1日在社交媒體發文說，法國南部萊佩訥米拉博當日發生槍擊事件，造成1人受傷。
+
+---
+
+### 2026-11-02 02:03:07  #國際
+
+市場資訊：特朗普目前希望讓與伊朗的談判繼續進行。
+
+---
+
+### 2026-11-02 02:02:55  #焦點 #國際
+
+市場資訊：內塔尼亞胡敦促特朗普在中期選舉後立即打擊伊朗。
+
+---
+
+### 2026-11-02 02:01:25  #其他
+
+出口民調：對烏持懷疑立場的約託娃贏得保加利亞總統選舉。
+
+---
+
+### 2026-11-02 02:00:57  #國際
+
+市場資訊：特朗普與內塔尼亞胡就伊朗戰爭的下一步行動通電話。
+
+---
+
+### 2026-11-02 01:58:48  #國際
+
+芬蘭總統斯圖布：與烏克蘭總統澤連斯基通話，梳理了談判的當前進展。將繼續向烏克蘭提供政治、財政和防務支援，並積極開展外交行動，以結束衝突，在烏克蘭實現公正且可持續的和平。
+
+---
+
+### 2026-11-02 01:57:03  #MKT News
+
+【RIA: U.S. reconnaissance aircraft patrolled near Russian border for 5½ hours】RIA reported a Bombardier Artemis II reconnaissance aircraft, converted from a business jet, conducted a patrol along Russia’s border lasting about 5½ hours. The plane departed Mihail Kogălniceanu air base in southeastern Romania at about 09:47 Moscow time, flew a wide arc toward Kaliningrad Oblast, circled the oblast, proceeded along the border between the Baltic states and Russia, then returned near Kaliningrad before heading back to Romania. RIA said the aircraft’s maneuvers near the Russian border ran from 11:50 to 17:20 Moscow time. The jet is frequently used for radar reconnaissance around Kaliningrad and over the Black Sea along Crimea and southern Russia.
+
+---
+
+### 2026-11-02 01:56:48  #國際
+
+【俄媒：美國一偵察機沿俄邊境巡邏五個半小時】據俄新社1日報道，飛行資料顯示，一架美國偵察機當天沿俄羅斯邊境進行了長達五個半小時的巡邏。（新華社）
+
+---
+
+### 2026-11-02 01:56:21  #其他
+
+市場資訊：無人機襲擊導致蘇丹電網瀕臨崩潰。
+
+---
+
+### 2026-11-02 01:53:44  #MKT News #XAUUSD #Impact bullish #DXY
+
+On Nov. 1 local time, Sudan's Sovereign Council said drone strikes from Ethiopia caused hundreds of civilian and military casualties in Sudan, CCTV reported.
+
+---
+
+### 2026-11-02 01:53:05  #MKT News
+
+Latvian armed forces said an unidentified aerial object has left Latvian airspace and crossed the Latvia–Russia border; the airspace threat has been lifted.
+
+---
+
+### 2026-11-02 01:52:52  #國際
+
+拉脫維亞武裝部隊：不明飛行物已離開拉脫維亞領空，越過拉脫維亞與俄羅斯邊境，領空威脅已解除。
+
+---
+
+### 2026-11-02 01:52:39  #其他
+
+【蘇丹稱來自衣索比亞的無人機襲擊已造成數百人傷亡】當地時間11月1日，蘇丹主權委員會發表宣告稱，來自衣索比亞的無人機襲擊已在蘇丹造成數百名平民和軍人傷亡。（央視新聞）
+
+---
+
+### 2026-11-02 01:50:42  #MKT News
+
+【White House official: Trump plans Monday Lincoln Memorial reflecting pool speech to close midterm campaign】According to the Wall Street Journal, a senior White House official said Trump plans to deliver a Monday speech at the Lincoln Memorial reflecting pool as a midterm closing address, promoting repair and renovation projects in Washington. The official said the remarks will emphasize the agenda his administration and House Republicans have advanced since the start of a second term. Trump is due in Iowa and Kansas the day before. Restoring the reflecting pool is a stated priority in a broader Washington makeover that also includes a proposed new White House banquet hall.
+
+---
+
+### 2026-11-02 01:48:14  #其他
+
+沙特民防部門：吉贊地區的危險已經解除。
+
+---
+
+### 2026-11-02 01:46:09  #國際
+
+美國法官駁回特朗普政府對阿拉斯加州美國參議院選舉提起的預防性法律挑戰。
+
+---
+
+### 2026-11-02 01:40:52  #國際
+
+美國民主黨人黑莉·史蒂文斯在密歇根州關鍵的美國參議院競選中支援共和黨人邁克·羅傑斯。
+
+---
+
+### 2026-11-02 01:39:06  #MKT News
+
+【Zelenskiy proposes face-to-face meeting with Putin in Turkey】On Nov. 1, Ukrainian President Zelenskiy told media he is willing to hold a face-to-face meeting with Russian President Putin in Turkey and urged Turkish President Erdogan to use his communication channels to facilitate talks. Zelenskiy said delegations and technical working groups cannot resolve some issues and that the two heads of state hold final decision-making authority; he backed Turkey as the meeting venue and emphasized he wants to speak directly with Putin because final decisions rest with him.
+
+---
+
+### 2026-11-02 01:38:28  #國際
+
+【澤連斯基提議在土耳其與普京會晤】當地時間11月1日，烏克蘭總統澤連斯基在接受媒體採訪時表示，他願意在土耳其同俄羅斯總統普京舉行面對面會晤，希望土耳其總統埃爾多安利用其與普京的溝通渠道，促成這場領導人直接談判。（央視新聞）
+
+---
+
+### 2026-11-02 01:36:11  #MKT News
+
+Politico reports U.S. Senator Chris Murphy, a Democrat, has been hospitalized after suffering a stroke.
+
+---
+
+### 2026-11-02 01:33:44  #公司
+
+三菱重工將擴建由三菱電力美洲公司運營的薩凡納機械廠。
+
+---
+
+### 2026-11-02 01:33:30  #其他
+
+三菱重工計劃投資4.9億美元，用於提升其佐治亞州工廠的產能。
+
+---
+
+### 2026-11-02 01:33:15  #國際
+
+美國民主黨參議員克里斯·墨菲因中風入院。其為參議院外委會近東、南亞、反恐小組核心民主黨成員。
+
+---
+
+### 2026-11-02 01:27:18  #MKT News #Market Regions #Europe & UK
+
+Latvian armed forces warned of threats to airspace over two regions and urged residents to stay indoors.
+
+---
+
+### 2026-11-02 01:26:27  #MKT News
+
+【Iran foreign minister says Tehran prepared for both defense and diplomacy】Iran's foreign minister told Iranian media on Nov. 1 that Tehran is prepared on both defense and diplomatic fronts; which route it pursues depends on whether the United States acts rationally. Iran urged the US to remain rational and prioritize diplomacy over other options.
+
+---
+
+### 2026-11-02 01:25:54  #國際
+
+以色列選舉負責人：儘管存在外國資金試圖影響選舉的嚴重嫌疑，選舉結果仍將維持有效。相關指控性質嚴重，但即使得到證實，也不會使整體選舉結果無效。
+
+---
+
+### 2026-11-02 01:25:16  #國際
+
+伊朗外長：伊朗已做好防禦和外交兩手準備，選擇取決於美國是否理性。
+
+---
+
+### 2026-11-02 01:18:08  #國際
+
+澤連斯基：不能在沒有烏克蘭參與的情況下決定烏克蘭的命運。這不公平，也不會產生任何結果。在沒有當事國在場的情況下談判該國的命運毫無意義。已經有過許多討論和會議。許多領導人曾試圖在沒有我們參與的情況下決定我們的命運。如你所知，這些都沒有產生結果。
+
+---
+
+### 2026-11-02 01:14:18  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【Saudi-led coalition says it carried out precision strike on Houthi forces】On Nov. 1 local time, Saudi-led coalition spokesman Turki al-Maliki said via social media the coalition carried out a precision strike that morning aimed at destroying key resources the Houthi movement uses to support its military operations. Al-Maliki said Houthi attacks threaten civilian lives, civilian infrastructure and the security of Saudi, Yemeni and southern Red Sea shipping. The coalition affirmed it will continue necessary measures to prevent the Houthis from using such resources. The statement did not disclose the strike’s location or results.
+
+---
+
+### 2026-11-02 01:13:54  #MKT News
+
+【Missile attack near military facility in Aden, Yemen】Local time Nov. 1 — A Yemeni security official said Houthi forces fired missiles at an area near a government military facility in the southern port city of Aden. Residents reported large explosions audible across multiple neighborhoods. The Houthi movement has not commented.
+
+---
+
+### 2026-11-02 01:11:54  #國際
+
+以色列教育部正在修訂緊急情況指南，以允許更多線下課程，作為常規防備措施的一部分。
+
+---
+
+### 2026-11-02 01:11:33  #公司 #國際
+
+澤連斯基：有跡象表明，特朗普總統將邀請我們參加二十國集團峰會，並啟動結束衝突的倡議。
+
+---
+
+### 2026-11-02 01:04:35  #公司 #市場 #國際
+
+【巴西石油公司上調航空煤油價格，11月1日起生效】巴西石油公司釋出宣告稱，自2026年11月1日起，上調面向經銷商的航空煤油（航煤）平均售價7.2%，較上月每升上漲0.45雷亞爾（合0.083美元）。這家國企解釋，本次調價源於國際航煤價格上漲，誘因是中東地緣緊張局勢加劇，以及俄烏衝突造成俄、烏煉油產能縮減。
+
+---
+
+### 2026-11-02 01:03:08  #國際
+
+烏克蘭媒體：11月2日烏克蘭將實施停電計劃。當日6時至23時59分，部分地區將對所有類別使用者實施分時段停電，每輪停電時長為1.5至2.5小時。
+
+---
+
+### 2026-11-02 00:55:24  #MKT News
+
+Israeli media report the Knesset secretary-general has invited party leaders to the president's residence on Wednesday for a series of consultations.
+
+---
+
+### 2026-11-02 00:53:28  #MKT News
+
+Iranian media reported the energy minister said he recently received a letter from the Supreme Leader urging a shift toward an energy system where households no longer rely on external power and can generate their own electricity.
+
+---
+
+### 2026-11-02 00:53:04  #國際
+
+伊朗外長：能否達成防止戰火重燃的協議，取決於華盛頓對德黑蘭要求的回應；如果條件得到滿足，霍爾木茲海峽可在兩天內重新開放。
+
+---
+
+### 2026-11-02 00:52:10  #MKT News
+
+Ukrainian President ZELENSKIY said if Washington wants Kyiv to refrain from striking Russian refineries, Moscow must stop attacking Ukraine's energy system.
+
+---
+
+### 2026-11-02 00:52:00  #MKT News #RTX.O #Impact bullish
+
+Ukrainian President Zelenskiy said Ukraine has proposed to the United States the purchase of Patriot missiles and is willing to raise the necessary funding.
+
+---
+
+### 2026-11-02 00:51:57  #國際
+
+以色列對黎巴嫩南部艾塔賈巴爾鎮郊區發動空襲。
+
+---
+
+### 2026-11-02 00:51:50  #國際
+
+敘利亞總情報局訊息人士：挫敗了一起針對霍姆斯煉油廠的恐怖襲擊圖謀。
+
+---
+
+### 2026-11-02 00:51:35  #國際
+
+澤連斯基：如果華盛頓希望我們不要打擊俄羅斯煉油廠，那麼莫斯科必須停止對烏克蘭能源系統的攻擊。
+
+---
+
+### 2026-11-02 00:51:28  #國際
+
+澤連斯基：我們已向華盛頓提出購買“愛國者”導彈，並確認我們準備落實所需資金。
+
+---
+
+### 2026-11-02 00:51:03  #MKT News
+
+Iranian presidency says foreign minister briefed the government on the latest progress in talks with the U.S. conducted via intermediaries.
+
+---
+
+### 2026-11-02 00:50:34  #其他
+
+葉門政府軍：過去24小時內，作為“葉門黎明”行動的一部分，我們對胡塞武裝的增援部隊實施了1272次打擊。
+
+---
+
+### 2026-11-02 00:46:50  #國際
+
+巴基斯坦方面：一艘駛往巴基斯坦的液化天然氣運輸船在霍爾木茲海峽附近遭襲，儘管伊朗方面已放行。
+
+---
+
+### 2026-11-02 00:36:13  #其他
+
+加拿大總理卡尼：我們的團隊將在未來幾周內推進協議的落實。
+
+---
+
+### 2026-11-02 00:35:59  #國際
+
+加拿大總理卡尼：與特朗普就雙邊貿易的未來進行了良好對話。
+
+---
+
+### 2026-11-02 00:34:11  #國際
+
+美國宇航局模擬火星任務的機組人員在隔離378天后出艙。
+
+---
+
+### 2026-11-02 00:27:34  #其他
+
+市場資訊：全球在建核反應堆數量增至79座，人工智慧需求推動增長。
+
+---
+
+### 2026-11-02 00:16:50  #其他
+
+幣安：淨流出佔1710億美元總管理資產（AUM）的2.1%。
+
+---
+
+### 2026-11-02 00:15:09  #其他
+
+【幣安駭客攻擊事件後出現35億美元資金流出】據DefiLlama資料，幣安在發生63億美元加密貨幣被盜事件後恢復提現，週日錄得超過35億美元淨流出。該交易所表示已替換95%的被盜資產，目前提現正趨於穩定。
+
+---
+
+### 2026-11-02 00:14:05  #其他
+
+幣安：在11月1日UTC時間06:00至15:30期間，我們處理了46.49億美元的提款和10.1億美元的存款。
+
+---
+
+### 2026-11-02 00:13:33  #MKT News #AUDUSD #Impact bullish
+
+【Australian house prices fall for seventh month, on track for largest 40-year decline】Private property consultancy Cotality said Australian home values fell for a seventh consecutive month in October, down 1.4% MoM and down 8.1% cumulatively over the past seven months, pushing toward the largest decline in 40 years. Brisbane posted the largest October fall at 2.0%, followed by Perth -1.7%, Sydney -1.6% and Adelaide -1.2%. Markets expect the Reserve Bank of Australia to lift borrowing costs again next week. Cotality research head Tim Lawless said mid-sized capitals that saw outsized gains over the past six years are now broadly adjusting, with almost all suburbs in Brisbane, Perth and Adelaide down over the past three months.
+
+---
+
+### 2026-11-02 00:12:29  #其他
+
+幣安：淨流出資金約36.4億美元。
+
+---
+
+### 2026-11-02 00:11:02  #其他
+
+幣安：市場狀況穩定。
+
+---
+
+### 2026-11-02 00:10:00  #國際
+
+特朗普：伊朗問題仍有未解決的事項。
+
+---
+
+### 2026-11-02 00:09:30  #其他
+
+幣安：充值量依然可觀。
+
+---
+
+### 2026-11-02 00:09:25  #其他
+
+幣安：提現量如預期般趨於穩定。
+
+---
+
+### 2026-11-02 00:09:20  #其他
+
+幣安：提現量激增後有所下降。
+
+---
+
+### 2026-11-02 00:09:14  #其他
+
+幣安：初始階段提現已恢復。
+
+---
+
+### 2026-11-02 00:03:45  #其他
+
+【沙特主導聯軍稱對胡塞武裝實施精準打擊】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基11月1日在社交媒體上說，聯軍當天上午實施一次精準軍事打擊行動，旨在摧毀葉門胡塞武裝用於支援其軍事行動的關鍵資源。馬利基稱，胡塞武裝發動的襲擊威脅平民生命和民用設施安全，對沙特、葉門及紅海南部航運安全構成威脅。聯軍將繼續採取必要措施，阻止胡塞武裝利用關鍵資源支援其軍事行動。宣告未透露這次軍事行動的具體地點、打擊效果等細節。
+
+---
+
+### 2026-11-02 00:02:22  #國際
+
+【美國週末發生多起槍擊事件 致數十人死傷】據美國方面11月1日訊息，美國多個城市在週末發生槍擊事件。其中，得克薩斯州達拉斯市不同地點發生多起槍擊，共造成4人死亡、15人受傷。達拉斯警察局局長丹尼爾·科莫表示，警方仍在調查多起槍擊事件是否相互關聯。此外，阿肯色州費耶特維爾市11月1日凌晨也發生槍擊，6人因槍傷被送往醫院，目前尚無人被捕。警方初步調查顯示，該起槍擊案發生前曾有人發生爭執。當地時間10月31日晚，美國特拉華大學附近發生槍擊事件，造成6人受傷；同一天深夜，在亞拉巴馬州伯明翰市萊吉恩球場附近，一場橄欖球比賽結束後發生槍擊，造成1人死亡、8人受傷。亞拉巴馬州警方稱，已拘留一人進行問詢，並查獲多件武器，事件原因尚不明確。（央視新聞）
+
+---
+
+### 2026-11-02 00:01:30  #其他
+
+【葉門亞丁一軍事設施附近地區遭導彈襲擊】一名葉門安全官員11月1日告訴新華社記者，葉門胡塞武裝當天發射導彈襲擊了葉門南部港口城市亞丁一處政府軍軍事設施附近地區。當地居民說，事發時，亞丁多個街區均能聽到巨大爆炸聲。（新華社）
+
+---
+
+### 2026-11-02 00:01:03  #MKT News
+
+Wall Street Journal reports U.S. Treasury Secretary Bessent has canceled a scheduled Sunday television appearance.
+
+---
+
+### 2026-11-01 23:59:36  #MKT News #Market Themes #The Trump Trade
+
+【Trump says he may become 'Mr. Veto' if Democrats win congressional majority】In a New York Post interview, President Trump said he may have to become "Mr. Veto" if Democrats win a congressional majority in Tuesday’s midterm elections, saying he would veto bills until Democrats return to negotiate. He plans campaign rallies on Sunday in Kansas and Iowa to try to secure continued Republican control of Congress. Polls show weak support for Trump, giving Democrats a chance to win at least one chamber and possibly both.
+
+---
+
+### 2026-11-01 23:58:45  #焦點 #國際
+
+【伊朗外長：希望美方保持理性】伊朗外交部長阿拉格齊11月1日接受伊朗媒體採訪時表示，伊朗已做好防禦與外交兩方面的準備，選擇哪條道路取決於美方是否理性。伊方希望美國保持理性，優先選擇外交而非其他途徑解決問題。阿拉格齊說，伊朗副外長近日帶領伊朗代表團到訪卡達，旨在繼續與卡達調解方進行討論。阿拉格齊還說，此次訪問從一開始就沒有安排與美國方面進行談判。（新華社）
+
+---
+
+### 2026-11-01 23:56:21  #公司 #國際
+
+【烏稱俄襲擊基輔能源設施 城區多地面臨停水】烏克蘭首都基輔市國家行政管理局通報，俄羅斯對基輔能源基礎設施實施襲擊，造成當地一處供水設施斷電，引發城區供水異常。受此次斷電影響，基輔多地區水壓普遍下降，部分居民住宅樓或將臨時停水。據官方說明，受損供水設施恢復供電後，城市供水管網壓力將逐步回升，但全域供水完全恢復仍需時間。目前，基輔自來水公司技術人員已開展搶修作業。俄羅斯方面對此暫無回應。 (央視新聞)
+
+---
+
+### 2026-11-01 23:53:42  #其他
+
+幣安在賠付63億美元被盜資產的大部分資金後，出現使用者集中提取資金的情況。
+
+---
+
+### 2026-11-01 23:51:16  #其他
+
+沙特領導的聯軍稱，攔截並摧毀了葉門胡塞武裝向南部地區發射的無人機。
+
+---
+
+### 2026-11-01 23:50:59  #MKT News
+
+Saudi-led coalition said it intercepted and destroyed drones launched by Yemen's Houthi militants toward southern regions.
+
+---
+
+### 2026-11-01 23:48:43  #國際
+
+【俄安全部門核查美方恐襲情報 拘捕一名未成年人】據俄羅斯媒體11月1日報道，俄聯邦安全域性公共關係中心當日通報，該部門與俄國民近衛軍、內務部和偵查委員會聯合核查了來自美國執法機關有關在莫斯科察裡津諾莊園策劃恐襲的情報，一名未成年俄羅斯公民被拘捕。（新華社）
+
+---
+
+### 2026-11-01 23:48:31  #其他
+
+沙特領導的聯軍表示，攔截並摧毀了葉門胡塞武裝向南部地區發射的一枚彈道導彈。
+
+---
+
+### 2026-11-01 23:48:26  #MKT News
+
+Saudi-led coalition said it intercepted and destroyed a ballistic missile fired by Yemen’s Houthi forces toward southern areas.
+
+---
+
+### 2026-11-01 23:45:46  #國際
+
+伊朗外長：伊朗正透過卡達進行間接談判，但未與美國舉行直接會晤。
+
+---
+
+### 2026-11-01 23:42:55  #其他
+
+海灣合作委員會秘書長：我們警告，襲擊天然氣運輸船將對海洋環境以及能源供應的穩定性造成嚴重後果。
+
+---
+
+### 2026-11-01 23:42:51  #其他
+
+海灣合作委員會秘書長：海上通道必須保持航行和貿易安全。
+
+---
+
+### 2026-11-01 23:42:49  #其他
+
+海灣合作委員會秘書長：襲擊能源油輪是危險的升級行為，破壞地區安全。
+
+---
+
+### 2026-11-01 23:34:26  #國際
+
+伊朗總統：必須設計出機制，讓商品以更合適的價格送到貧困地區人民手中，並保持價格穩定。
+
+---
+
+### 2026-11-01 23:28:57  #MKT News
+
+Saudi civil defense said the threat to Abha and Khamis Mushait has been lifted.
+
+---
+
+### 2026-11-01 23:28:39  #其他
+
+沙特民防部門表示，艾卜哈和哈米斯穆謝特的危險已經過去。
+
+---
+
+### 2026-11-01 23:27:45  #焦點 #國際
+
+【特朗普：如果民主黨拿下多數席位，我可能會成為“否決先生”】美國總統特朗普表示，如果民主黨在週二的中期選舉中贏得多數席位，他可能不得不當“否決先生”。“他們會不斷送來法案，你直接否決，”他說，“過上一兩個月，所有提案都被否決之後——你知道，這些法案純屬浪費——他們就會過來跟我談判。”特朗普週日將在堪薩斯州和艾奧瓦州舉行競選集會，爭取助力共和黨保住國會控制權。民調顯示，特朗普的低支援率，給了民主黨至少拿下其中一院、甚至兩院的機會。“希望我們不必走到那一步，”他說。
+
+---
+
+### 2026-11-01 23:26:40  #MKT News
+
+【Shooting near Birmingham stadium in Alabama kills 1, injures 8】A shooting near Legion Field in Birmingham, Alabama, after a football game on the evening of Oct. 31 killed one and injured eight, Birmingham Police Chief Michael Pickett said. Police have detained one person for questioning and seized multiple firearms; motive remains unclear.
+
+---
+
+### 2026-11-01 23:26:16  #國際
+
+【美國亞拉巴馬州發生槍擊事件 致1死8傷】當地時間11月1日，據美國方面訊息，美國亞拉巴馬州伯明翰市一橄欖球比賽結束後，體育場附近發生槍擊事件，造成1人死亡、8人受傷。（央視新聞）
+
+---
+
+### 2026-11-01 23:21:15  #MKT News
+
+Saudi civil defense warned residents in Abha and Khamis Mushait to be alert to potential danger.
+
+---
+
+### 2026-11-01 23:21:10  #其他
+
+沙特民防部門警告稱，艾卜哈和海米斯穆謝特存在潛在危險。
+
+---
+
+### 2026-11-01 23:07:12  #其他
+
+【國際移民組織：葉門流離失所者已超30萬人】當地時間11月1日，國際移民組織釋出的最新資料顯示，葉門衝突導致超過30萬人流離失所，這些人幾乎都是過去兩個月內流離失所的。戰亂導致基本生活用品價格飆升，許多家庭難以找到住所，也難以負擔基本生活必需品，而准入限制導致援助機構更難接觸到需要幫助的人。
+
+---
+
+### 2026-11-01 23:06:03  #焦點 #國際
+
+特朗普：我們可能在某個時候會和民主黨人達成協議。
+
+---
+
+### 2026-11-01 23:05:28  #國際
+
+特朗普：如果民主黨贏得多數席位，我想我會成為“否決先生”。
+
+---
+
+### 2026-11-01 23:05:02  #國際
+
+大批美國空軍空中加油機再度集結以色列。（照片拍攝於以色列南部城市埃拉特的拉蒙機場）
+
+---
+
+### 2026-11-01 23:00:28  #國際
+
+【俄羅斯一架自制飛行器墜毀 致1人死亡】據俄羅斯11月1日方面訊息，一架自制飛行器當日在俄羅斯特維爾州墜毀，駕駛該飛行器的一名男子死亡。據悉，該飛行器於當天13時左右墜毀。偵查人員和刑偵專家已趕赴現場。俄偵查委員會西部跨地區交通偵查局已就此事展開調查。（央視新聞）
+
+---
+
+### 2026-11-01 22:57:59  #MKT News
+
+【Survey: Nearly 1,500 Japanese food items set to rise in November; annual total 20,327】Teikoku Databank surveyed 195 major Japanese food and beverage producers and found 1,477 food items slated for price increases in November, roughly ten times the year-earlier count. The increases are concentrated in processed foods and beverages, with an average rise of 17%. That brings the number of food items that have raised or are due to raise prices this year to 20,327, again topping 20,000 since 2025.
+
+---
+
+### 2026-11-01 22:44:46  #國際
+
+澤連斯基：10月，烏克蘭國防軍給敵人造成了創紀錄的損失，收復的領土面積超過俄羅斯佔領者奪取的面積。僅一個月內，俄羅斯損失了54400名士兵，包括陣亡和重傷。這是全面戰爭以來任何月份的最高紀錄。單日損失也創下紀錄——10月21日俄軍損失2250名士兵。
+
+---
+
+### 2026-11-01 22:42:36  #MKT News
+
+【White House readies plan to bypass Congress if Democrats win control】Refinitiv reports the White House has spent months preparing contingency plans to advance parts of the president’s agenda by executive action if Democrats win control of Congress and to prepare for congressional investigations of the administration. Since April senior aides including Stephen Miller and Russell Vought have worked with White House counsel Will Scharf to map actions the president can take without congressional approval in areas including immigration, tariffs, housing costs and federal spending, and to assess legal limits and defenses for those measures. Aides are also privately preparing for a substantially different political landscape in 2027.
+
+---
+
+### 2026-11-01 22:36:56  #其他
+
+【哥倫比亞發現輸入性瘧疾，已致1人死亡】當地時間10月31日，哥倫比亞衛生部和國家衛生研究院（INS）聯合通報，兩名從剛果民主共和國返回的哥倫比亞公民確診感染惡性瘧原蟲引起的瘧疾。其中，一名33歲患者已死亡，另一名50歲患者正在接受治療。哥衛生部門已啟動流行病學調查，採集樣本並開展實驗室檢測，排查包括埃博拉病毒病在內的其他傳染病。目前，兩名患者均確診為瘧疾，尚無埃博拉病毒病確診報告。（央視新聞）
+
+---
+
+### 2026-11-01 22:35:41  #其他
+
+【波札那總統：博中兩國將在諸多領域深化合作】波札那總統博科10月31日表示，他日前對中國進行的國事訪問非常成功，博中兩國將在政治、貿易與投資、人文等領域深化合作。（新華社）
+
+---
+
+### 2026-11-01 22:34:59  #其他
+
+幣安發言人：提款水平正趨於穩定，恢復至我們認為屬於正常且符合預期的鏈上活動水平；提款規模佔資產管理規模的比例非常小。
+
+---
+
+### 2026-11-01 22:34:58  #MKT News
+
+【Iran says it purchased Russian Su-35 fighters; delivery to occur after war】On Nov. 1 the Jerusalem Post and Russia’s RBC reported Iranian military spokesman Akraminia said in joint interviews with Tabnak and BitRun that Iran has purchased Russian Su-35 fighters and will take delivery after the war. He said the purchase was completed before the conflict, delivery had been scheduled pre-conflict, and pilot training and related preparations are finished. Russia has not confirmed the claim.
+
+---
+
+### 2026-11-01 22:33:56  #其他
+
+幣安發言人：提款量在初期出現激增，但目前正呈現大幅下降趨勢。
+
+---
+
+### 2026-11-01 22:33:46  #其他
+
+孟加拉國10月份出口額同比增長4.4%，達到39.9億美元。
+
+---
+
+### 2026-11-01 22:30:52  #國際
+
+【美議員說中東戰爭讓美民眾苦不堪言】當地時間10月31日，美國佐治亞州民主黨籍聯邦參議員喬恩·奧索夫在亞特蘭大舉行的一場活動上表示，美國政府用謊言將民眾拖入了一場既不知如何結束、也不知如何取勝的中東戰爭。他指出，在這場戰爭中，已有21名美國人喪生、數百人受傷，然而，伊朗依然擁有無人機、導彈和鈾。#美議員說美受創而伊朗仍無恙# 對於戰爭帶來的影響，奧索夫表示，美國國內柴油價格飆升至歷史最高水平，關稅政策使食品價格達到了歷史新高。美國政府為了給富人減稅，還大幅削減了醫療補助計劃，這一切讓佐治亞州的家庭苦不堪言。（CCTV國際時訊）
+
+---
+
+### 2026-11-01 22:30:03  #其他
+
+【藍思科技：崑山基地目前已實現日產百臺規模】11月1日，藍思科技在投資者關係活動中表示，崑山基地僅用一個多月的時間完成籌備，目前已實現日產百臺規模。隨著自研半自動化及全自動化裝備陸續到位，下月產能將進一步提升，為客戶Q系列及T系列產品分別提供月產1萬臺以上的產能保障，後續將根據客戶快速增長的需求繼續擴大產能規模。
+
+---
+
+### 2026-11-01 22:29:45  #MKT News
+
+【Homemade aircraft crash in Russia kills one】RIA reported on Nov. 1 that a homemade aircraft crashed in Russia’s Tver region at about 1300 local time, killing the pilot. Investigators and forensic experts have been dispatched to the scene. The Western Interregional Transport Investigation Department of the Russian Investigative Committee has opened an investigation.
+
+---
+
+### 2026-11-01 22:29:21  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Kuwait's foreign ministry strongly condemned an attack on Al Maayeda, an LNG tanker operated by a Qatari gas-transport company, saying such strikes seriously threaten maritime navigation and global energy supplies. The ministry urged compliance with international law to protect freedom of navigation, vessels and crews, warned the attack could create environmental and economic risks and harm regional security and stability, and called for a full investigation to identify and hold those responsible.
+
+---
+
+### 2026-11-01 22:23:36  #公司
+
+道達爾能源公司和安哥拉國家石油公司將在安哥拉開展甲烷減排和能源效率方面的合作。
+
+---
+
+### 2026-11-01 22:22:10  #公司 #觀點
+
+【人工智慧產業鏈三季報亮眼 機構稱後續業績環比改善確定性較強】上市公司三季報披露收官，人工智慧產業連結串列現出色，成為A股業績增長的核心引擎。東吳證券、國聯民生證券近日相繼釋出研報稱，AI產業鏈景氣度具備持續性，第四季度業績有望保持高速增長。同時，國產算力規模化落地、個人Agent應用加速迭代、資料要素改革持續推進，算力、應用、資料要素多線共振，AI產業鏈中長期成長邏輯未發生改變。（上證報）
+
+---
+
+### 2026-11-01 22:19:58  #國際
+
+美國參議員丹·蘇利文表示，他將接受阿拉斯加州參議院選舉的結果。
+
+---
+
+### 2026-11-01 22:19:51  #MKT News
+
+U.S. Senator Dan Sullivan said he will accept the result of the Alaska Senate election.
+
+---
+
+### 2026-11-01 22:18:23  #MKT News #Important #Market Themes #China EV Leaders #Market Regions #Greater China #1211.HK #Impact bullish #XPEV.O #NIO.O
+
+【China Oct auto deliveries: BYD 490.2k NEVs; XPeng record month; Li Auto, NIO, ZEEKR, Leapmotor updates】BYD sold 490,200 NEVs in Oct, up 10.97% YoY; Jan–Oct NEV sales 3,621,700, down 2.16% YoY. XPeng delivered 50,237 vehicles in Oct, +22% MoM, +20% YoY, a record monthly high. Xiaomi Auto delivered more than 50,000 vehicles in Oct. Li Auto delivered 29,025 in Oct; cumulative deliveries through Oct 31 reached 1,862,676. NIO delivered 34,246 vehicles in Oct, split 18,125 NIO-brand and 8,383 Leda-brand units. ZEEKR delivered 32,483 in Oct, +51.6% YoY; Jan–Oct deliveries 320,887, +94.4% YoY. Leapmotor reported Oct global deliveries of 106,127, +51% YoY and the fourth consecutive month above 100,000. Hongmeng Zhixing delivered 33,537 in Oct; average transaction price exceeded 400,000 yuan and cumulative deliveries exceeded 1.6 million. Deep Blue Auto sold 32,602 globally in Oct, MoM +8.01%. BAIC BluePark’s Beijing New Energy unit sold 32,502 in Oct, +6.42% YoY; YTD sales 195,878, +37.9%. Great Wall sold 120,374 vehicles in Oct, -15.87% YoY; Jan–Oct sales 1,040,676, -2.42%; Oct overseas sales 62,862 and NEV sales 49,499. SAIC Motor sold 430,000 vehicles in Oct, -5.28% YoY; Oct NEV sales 258,600, +25.12% YoY. SERES sold 27,037 vehicles in Oct, -50.29% YoY; Oct NEV sales 24,921, -51.57% YoY. Chery’s five brands sold 282,500 vehicles in Oct, +7.2% YoY; Oct NEV sales 132,000; Oct exports 194,700.
+
+---
+
+### 2026-11-01 22:13:55  #MKT News #XAUUSD #Impact bullish #DXY
+
+【Israeli airstrikes on Gaza Strip kill at least 8】On Nov. 1, Israeli airstrikes across the Gaza Strip killed at least 8 people and wounded several. A drone strike in Khan Younis killed five Palestinians who were identified by the local interior ministry as police; a separate strike west of Gaza City killed three, including a child.
+
+---
+
+### 2026-11-01 22:11:33  #國際
+
+【以色列空襲加沙地帶致8人死亡】據巴勒斯坦通訊社11月1日報道，以色列當天對加沙地帶多地發動空襲，造成至少8人死亡，另有多人受傷。報道稱，以色列無人機在加沙地帶南部汗尤尼斯實施的襲擊造成5名巴勒斯坦人死亡。另據當地內務部門釋出的宣告，這5名巴勒斯坦人的身份是警察。（新華社）
+
+---
+
+### 2026-11-01 22:10:44  #MKT News
+
+【China housing minister meets Laos public works minister; ministries to deepen housing and resilient-city cooperation after MOU】On Nov. 1 in Fuzhou, China's minister of housing and urban-rural development Ni Hong met Laos public works and transport minister Xivilay. The two ministries earlier signed an MOU, witnessed by both heads of state, to strengthen cooperation in housing and urban construction. They agreed to implement leaders' consensus and deepen ties on housing security, quality-housing construction, resilient cities, urban planning, and cooperation on new technologies, materials and products. Both sides also committed to enhanced professional exchanges and capacity-building.
+
+---
+
+### 2026-11-01 22:10:38  #其他
+
+【倪虹會見寮國公共工程運輸部部長西維萊】11月1日，住房城鄉建設部部長倪虹會見來福州出席2026年世界城市日全球主場活動的寮國公共工程運輸部部長西維萊。倪虹表示，今年，兩部在兩國元首見證下籤署了《關於加強住房城鄉建設領域合作的諒解備忘錄》。下一步，要攜手落實好兩國元首達成的重要共識，深化在住房保障、“好房子”建設、韌性城市、城市規劃等領域溝通交流，加強新技術、新材料、新產品的應用合作，為兩國人民安居樂業、幸福生活創造更好條件。雙方就加強專業交流、能力建設等領域合作達成共識。（中國建設報）
+
+---
+
+### 2026-11-01 22:10:20  #其他
+
+孟加拉國10月僑匯收入同比增長12%。
+
+---
+
+### 2026-11-01 22:00:52  #公司 #國際
+
+【OpenAI擬在美國中期選舉後推出系列政策倡議 加強人工智慧監管佈局】據報道，OpenAI計劃在11月3日美國中期選舉結束後，立即展開一系列政策倡議和公關行動，以適應華盛頓可能出現的政治格局變化，並影響2028年總統大選的人工智慧政策辯論。OpenAI首席全球事務官Chris Lehane表示，公司自8月以來一直在籌備相關政策提案，預計將在11月9日開始的國會“跛腳鴨會期”啟動。具體措施包括：推動對最先進人工智慧系統設定強制性安全保障措施，為人工智慧發展設定“速度限制”，確保人類保有控制權；透過社群合作協議及州級立法建議緩解資料中心建設阻力，並推動將新型資料中心重新定位為“人工智慧算力園區”；擴大人工智慧教育培訓及就業支援，幫助勞動者應對技術變革；推動美國主導基於民主價值觀的全球人工智慧標準制定。Lehane認為，人工智慧將成為2028年美國總統大選的核心議題。
+
+---
+
+### 2026-11-01 22:00:12  #國際
+
+據伊朗方面訊息：伊朗外長阿拉格齊將於週一率領一個外交和經濟代表團前往土庫曼的阿什哈巴德。此行期間，阿拉格齊將與土庫曼官員就雙方共同關心的各領域雙邊關係舉行會談和磋商。
+
+---
+
+### 2026-11-01 21:59:49  #MKT News
+
+TASNIM NEWS reported Iran's foreign minister Araghchi will lead a diplomatic and economic delegation to Ashgabat, Turkmenistan on Monday to hold talks with Turkmen officials on bilateral cooperation across areas of mutual concern.
+
+---
+
+### 2026-11-01 21:58:54  #國際
+
+據俄羅斯方面訊息，俄羅斯安全部門表示，在美方提供線索後，已拘留一名未成年人，因其威脅在察裡齊諾公園實施“恐怖”襲擊。
+
+---
+
+### 2026-11-01 21:58:40  #MKT News
+
+Interfax reported that Russian security services said they detained a minor, based on a tip from the US, on suspicion of threatening to carry out a terrorist attack at Moscow's Tsaritsyno Park.
+
+---
+
+### 2026-11-01 21:56:19  #其他
+
+據報道，中期選舉後，OpenAI將展開政策和公關攻勢。
+
+---
+
+### 2026-11-01 21:52:11  #MKT News
+
+【Navigation warning: military exercises in parts of South China Sea Nov. 2–4】China Maritime Safety Administration’s Qinglan office issued a navigation warning: military exercises will take place in parts of the South China Sea Nov. 2–Nov. 4, daily 07:00–18:00 local time; entry is prohibited.
+
+---
+
+### 2026-11-01 21:49:19  #市場
+
+秘魯10月利馬消費者物價指數同比上漲5.25%。
+
+---
+
+### 2026-11-01 21:48:38  #其他
+
+【航行警告：南海部分水域開展軍事訓練】據中國海事局網站訊息，清瀾海事局釋出航行警告，11月2日至11月4日，每日7時至18時，南海部分水域開展軍事訓練，禁止駛入。
 
 ---
 
@@ -14848,215 +15730,5 @@ Euro Ends October Down More Than 1% — The euro ended the month around $1.12, p
 ### 2026-10-30 17:39:39  #Trading Economics #Economy #Slovenia #Inflation Rate #Importance 1
 
 Slovenia Inflation Rate Unchanged in October — Slovenia’s annual inflation rate remained unchanged at 3.3% in October 2026. The largest upward pressure came from housing and utilities, although inflation in the category eased slightly to 8.6% from 8.8% in September. Transport inflation also moderated to 5.9% from 6.3%. Inflation accelerated for insurance and financial services (6.0% vs 3.5% in September), alcoholic beverages and tobacco (5.0% vs 4.9%), and restaurants and accommodation services (3.5% vs 3.3%). Food prices also returned to growth, rising by 0.7% after falling by 0.7% in the previous month. In contrast, price growth slowed for recreation, sport and culture (2.7% vs 3.8%), personal care (1.0% vs 2.9%), and furnishings (0.1% vs 0.6%). Clothing and footwear prices fell by 0.4%, reversing a 0.5% increase in September. On a monthly basis, consumer prices remained unchanged in October, following a 0.1% decline in September.
-
----
-
-### 2026-10-30 17:37:07  #Trading Economics #Economy #Kenya #Inflation Rate #Importance 1
-
-Kenya Inflation Rate Hits Over 3-Year High of 7.3% — The annual inflation rate in Kenya accelerated further to 7.3% in October 2026, the steepest since July 2023, up from September's 6.8%. This marked the seventh consecutive month that inflation was above the 5% midpoint of the central bank’s target range. Main upward pressure came from prices of transport (17.1% vs 15.6% in September), following a pump price increase announced by the Energy and Petroleum Regulatory Authority (EPRA) earlier in October. Fuel prices recorded some of the biggest increases compared to October last year, with kerosene jumping by 41.6%, diesel by 32.5% and petrol by 22.8%. Food and non-alcoholic beverage inflation also quickened to 10.2% from 9.5%, reflecting higher costs for beef, beans, cabbage, Irish potatoes, oranges and cooking oil. Additionally, prices rose faster for housing, water, electricity, gas and other fuels (3.7% vs 3.2%). On a monthly basis, the CPI rose by 0.7%, following a 0.4% increase in the prior month.
-
----
-
-### 2026-10-30 17:36:46  #Trading Economics #Economy #Portugal #GDP Growth Rate #Importance 1
-
-Portugal's Economic Growth Slows in Q3 — Portugal’s economy expanded by 0.2% quarter-on-quarter in the third quarter of 2026, slowing from an upwardly revised 0.9% growth in the previous quarter, according to preliminary data. The deceleration reflected a negative contribution from net external demand, as exports of goods and services fell more sharply than imports. Domestic demand remained supportive, although private consumption growth eased, while investment rebounded following a decline in the previous quarter. On an annual basis, the economy grew by 2.4%, down from an upwardly revised 2.6% in the second quarter.
-
----
-
-### 2026-10-30 17:30:03  #Trading Economics #Markets #Bonds #Importance 1
-
-Bonds Update: South Korea 10Y Bond Yield Falls by 7 bps — Government bonds yields are lower on Friday. Top losers are South Korea 10Y (-7.30bps), Japan 10Y (-7.03bps), New Zealand 10Y (-6.14bps), Germany 10Y (-1.90bps) and US 10Y (-0.30bps).
-
----
-
-### 2026-10-30 17:24:44  #Trading Economics #Economy #Bulgaria #Producer Prices Change #Importance 1
-
-Bulgaria Producer Prices Hit Over 3-Year High — Producer prices in Bulgaria rose 20.9% year-on-year in September 2026, accelerating from 17.4% in August and marking the highest reading since December 2022. The increase was driven primarily by electricity, gas, steam and air conditioning supply, where inflation surged to 26.7% from 13.0%, reflecting intensifying energy-related price pressures. Manufacturing inflation also edged higher, rising to 10.6% from 10.4%, with stronger increases in chemicals and chemical products (11.2% vs 10.6%), food products (3.0% vs 2.8%), tobacco products (6.8% vs 5.4%), leather and related products (3.8% vs 2.8%), wood and wood products (5.2% vs 3.8%), and electrical equipment (4.0% vs 3.9%). Meanwhile, mining and quarrying price growth remained elevated but slowed to 69.4% from 97.3%, reflecting a moderation in mining of metal ores (119.8% vs 165.3%) and other mining and quarrying (5.5% vs 5.7%). On a monthly basis, producer prices rose 2.6%, easing from 3.0% in the previous month.
-
----
-
-### 2026-10-30 17:22:02  #Trading Economics #Economy #Italy #GDP Growth Rate #Importance 1
-
-Italy’s Economy Stagnates in Q3, Missing Growth Forecasts — Italy’s economy stagnated in Q3 2026, with GDP unchanged from the previous quarter, falling short of market expectations for 0.1% growth, according to preliminary data. Year on year, GDP increased by 0.8%, also below the 0.9% forecast. Despite the weak quarterly performance, acquired growth stood at 0.8% at the end of September, meaning that Italy’s economy would expand by the same rate for the full year even if output remains flat in Q4. The figures highlight the challenge facing Prime Minister Giorgia Meloni’s government as it seeks to strengthen economic growth. Earlier this month, the government revised its GDP forecasts upwards, targeting expansion of 1% in 2026 and 0.8% in 2027, compared with previous estimates of 0.6% for both years. Italy’s economy grew by 0.6% in 2025, while the government expects growth to accelerate to 0.9% in 2028.
-
----
-
-### 2026-10-30 17:13:06  #Trading Economics #Economy #Germany #GDP Growth Rate #Importance 1
-
-German GDP Growth Above Forecasts in Q3 — The German economy expanded by 0.2% qoq in Q3 2026, slowing from growth of 0.3% in Q2 but exceeding expectations of a 0.1% increase, according to preliminary estimates. Household and government consumption edged up, while capital formation declined. Also, low water levels on the Rhine weighed on industrial activity, while persistently high energy prices continued to constrain the sector. Meanwhile, the strong export momentum seen in the first half of the year lost considerable steam in Q3. On a year-on-year basis however, GDP grew by 1.2%, marking the strongest annual growth rate in four years. This compares with growth of 1% in Q2 and exceeds forecasts of 1.1%. The German government has raised its forecast for economic growth to 1.3% in 2026 and 1.1% in 2027, from 0.5% and 0.9% respectively. “Fiscal stimulus from the special funds and defence spending is expected to have a noticeable impact on public investment and government consumption by 2028", the government said.
-
----
-
-### 2026-10-30 17:10:26  #Trading Economics #Economy #Macau #Balance of Trade #Importance 1
-
-Macau Trade Deficit Widens in September — Macau’s trade deficit widened to MOP 12.3 billion in September 2026 from MOP 10.1 billion in the same month a year earlier, as imports grew faster than exports. Imports increased 21.7% year-over-year to MOP 13.6 billion, mainly driven by imports of gold jewellery and mobile phones, which rose 48.9% and 32.5%, respectively. Macau’s imports came primarily from Hong Kong, which recorded a 24% increase, followed by Mainland China (17.5%). Meanwhile, exports rose 19.1% to MOP 1.3 billion, supported by shipments of miscellaneous manufactured articles (20.5%), machinery and transport equipment (46.2%), jewellery (85.1%), and machines and mechanical appliances, parts and accessories (24.9%). By destination, exports increased notably to Hong Kong (12.4%) and Mainland China (142.8%). For the January-September period, Macau recorded a trade deficit of MOP 98.3 billion.
-
----
-
-### 2026-10-30 17:03:42  #Trading Economics #Economy #Germany #Unemployment Rate #Importance 1
-
-Germany's Jobless Rate Remains at 2020 Highs — Germany’s seasonally adjusted unemployment rate remained unchanged at 6.4% in October 2026, in line with market expectations and holding at its highest level since 2020. The number of unemployed increased by a smaller-than-expected 4,000 to 3.016 million, marking the highest level since March 2011. On a non-seasonally adjusted basis, unemployment fell by 40,000 to 2.955 million, down from 2.994 million in September, remaining below the 3 million threshold for a second consecutive month. Labor Office head Andrea Nahles noted that “the economic conditions are still not sufficient for an improvement in the labor market,” highlighting the continued weakness in employment conditions. Meanwhile, the number of vacancies registered with the Federal Employment Agency reached 654,000 in October, up by 31,000 compared with the same month a year earlier.
-
----
-
-### 2026-10-30 17:00:50  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Snaps 4-Day Winning Streak — Frankfurt's DAX traded 0.2% down on Friday, halting a four-day winning streak, pressured by rising oil prices and tech weakness. Investor enthusiasm for artificial intelligence faced another test, as disappointing earnings from Amazon and Intel triggered a broader sell-off that swept through European technology stocks. Meanwhile, market participants braced for a deluge of economic data, particularly inflation and GDP, while also eyeing more corporate earnings. Siemens Energy, Infineon Technologies, Hochtief were among the worst performers, with losses ranging between 2%-5%. On the upside, Bayer shares surged 4% after securing a unanimous jury verdict in its favour in a lawsuit alleging that its Roundup weedkiller caused cancer in three women, offering a potential boost to its efforts to contain mounting litigation risks. The benchmark index was on track to post gains of more than 3% over both the week and the month.
-
----
-
-### 2026-10-30 17:00:24  #央行 #中國央行
-
-【央行：每個工作日開展隔夜逆回購操作招標 目前操作利率為1.25%】為進一步最佳化短端利率調控機制，從2026年11月2日起，公開市場操作進行如下調整：一、每個工作日開展隔夜逆回購操作招標，採用固定利率、數量招標。目前操作利率為1.25%。二、7天期逆回購操作調整為固定數量、利率招標、多重價位中標，主要在稅期、月末等時點開展。三、原在7天期逆回購操作利率基礎上加減點的其他工具，包括臨時正/逆回購、境外央行類機構回購工具等，均調整為在隔夜逆回購操作利率基礎上加減點，加減點幅度不變。
-
----
-
-### 2026-10-30 17:00:00  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Norwegian Krone Appreciates by 0.47% — Top currency gainers are Norwegian Krone (0.47%), South Korean Won (0.39%), Swiss Franc (0.33%), British Pound (0.29%), Japanese Yen (0.27%) and Euro (0.14%). Biggest loser is Dollar Index (-0.34%).
-
----
-
-### 2026-10-30 16:55:59  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Rises Led by Astra & BP — The FTSE 100 rose 0.5% on Friday, outperforming global markets amid a tech-led selloff, as strong earnings from heavyweight stocks AstraZeneca and BP supported the index. AstraZeneca gained around 3% after reporting third-quarter core operating profit and earnings per share above expectations, driven by double-digit revenue growth across its oncology, respiratory and immunology, and rare disease businesses. The company also reaffirmed its guidance, while peer GSK advanced approximately 2%. BP climbed more than 1% after posting profits of $8.46 billion, well above analyst estimates, supported by strong refining margins; Shell rose around 0.8%. Consumer stocks Unilever and BAT also gained more than 1.5%. Banks were among the main laggards, with NatWest falling over 3% despite reporting operating profit ahead of estimates and reaffirming its guidance. The FTSE 100 gained around 0.7% over the week, recovering from the previous week's decline of more than 1%.
-
----
-
-### 2026-10-30 16:54:30  #Trading Economics #Markets #China #currency #Importance 0
-
-Chinese Yuan traded below 6.65 — The US Dollar exchange rate decreased below 6.65 Chinese Yuan in the foreign exchange interbank market.
-
----
-
-### 2026-10-30 16:49:34  #央行 #歐洲央行
-
-歐洲央行管委Rehn表示，歐洲經濟通脹走高的風險依然明顯高企。
-
----
-
-### 2026-10-30 16:48:26  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Decline — Milan’s FTSE MIB fell over 1% to around 49,500 on Friday, snapping a five-day winning streak as weakness in technology stocks weighed on the index. Concerns over returns from massive AI-related spending pressured global technology shares, with Technoprobe plunging 5.5% and STMicroelectronics dropping 3.9%. Tech-related firm Prysmian also fell 2.8%. Amplifon tumbled more than 12%, despite stronger third-quarter adjusted profitability, as weaker nine-month reported net profit weighed on sentiment. Automaker Stellantis slid 3.3%. Banks also traded lower, with UniCredit down 1.6%, BPER Banca falling 1.4% and Intesa Sanpaolo shedding 1.2%. On the upside, Campari gained 2%, Inwit advanced 1.1% and Eni rose 1.3%. The benchmark remained on track for a weekly gain but was heading for a second consecutive monthly decline.
-
----
-
-### 2026-10-30 16:46:37  #Trading Economics #Economy #Netherlands #GDP Annual Growth Rate #Importance 1
-
-Dutch Economy Expands the Most in Nearly 4 Years — The Dutch economy grew by 2.1% year-on-year in Q3 2026, accelerating from 1.6% in Q2 and marking its strongest annual expansion since Q4 2022, according to preliminary data. Household consumption and the trade balance were the main contributors to growth. Public consumption increased by 2.0%, while household spending rose by 1.8%. Investment also expanded, although at a more moderate pace of 0.8%. Exports grew by 2.7%, outpacing the 2.2% increase in imports and resulting in a positive contribution from net trade. From a sectoral perspective, manufacturing, trade, accommodation and food services, and transport and storage made the largest contributions to economic growth compared with Q3 2025. On a quarterly basis, GDP increased by 0.6%, following an upwardly revised expansion of 0.7% in Q2 and exceeding market expectations of 0.3%.
-
----
-
-### 2026-10-30 16:46:10  #Trading Economics #Economy #Macau #GDP Annual Growth Rate #Importance 1
-
-Macau GDP Growth Slows to 0.1% in Q3 — Macau’s economy grew by 0.1% year-on-year in the third quarter of 2026, easing from 0.3% in the previous quarter, according to preliminary estimates. The latest figure marked the weakest growth since the first quarter of 2025, as exports of gaming services fell by 4.8%, reflecting short-term adjustments in gross gaming revenue due to external environmental factors. Meanwhile, exports of other tourism services rose by 6.6%, lifted by an increase in visitor arrivals. On the domestic front, gross fixed capital formation jumped 17.2%, supported by accelerated progress in public and private construction projects.
-
----
-
-### 2026-10-30 16:45:29  #Trading Economics #Economy #Macau #Unemployment Rate #Importance 1
-
-Macau Jobless Rate Edges Down to 1.8% — Macau’s unemployment rate eased to 1.8% in September 2026 from 2.0% in the previous month. The number of unemployed people edged up by 100 month-on-month to 6,000, while total employment also edged down by 700 to 375,200. The labour force participation rate edged down to 66.4% from 66.7%, as the labour force decreased by 1,400 to 382,000. Meanwhile, the general underemployment rate inched up to 1.6% from 1.5% in August. By sector, recreational, cultural, gaming and other services remained the largest source of employment, accounting for 25.3% of employed residents, followed by wholesale and retail trade (11.9%), public administration and social security (11.4%), and hotels, restaurants and similar activities (10.9%).
-
----
-
-### 2026-10-30 16:44:30  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Fall as Tech Weighs — European stocks traded lower on Friday, with the STOXX 50 falling 0.7% and the STOXX 600 slipping 0.2%. The European technology sector joined a global sell-off following disappointing earnings from Amazon and Intel, reigniting concerns about the sustainability of the AI-driven rally. ASML Holding tumbled around 5%, while Infineon dropped 4% and STMicroelectronics declined 3.8%. Investors also kept a close eye on corporate earnings from European companies, alongside key data, with the GDP in the Eurozone and Germany expanding faster-than-expected while the French economy shrank 0.1% in Q3. Credit Agricole fell 1.8% after cautioning over potential unfavourable trends in France. In contrast, AstraZeneca gained 2.8% after reporting better-than-expected results and BP rose 1.1% after posting the highest net income in at least five years. On the week, the STOXX 50 is up 2.4% and the STOXX 600 increased 2.1% On the month, the STOXX 50 lost 0.9% while the broader STOXX 600 went up 2.2%.
-
----
-
-### 2026-10-30 16:42:16  #Trading Economics #Economy #Netherlands #GDP Growth Rate #Importance 1
-
-Dutch GDP Grows More Than Expected — The Dutch economy grew by 0.6% in the third quarter of 2026, following an upwardly revised expansion of 0.7% in Q2 and exceeding market expectations of 0.3%. Growth was primarily supported by a stronger trade balance and the restocking of natural gas reserves. Exports rose by 0.5% quarter-on-quarter, driven particularly by machinery and transport equipment, while imports increased at a slower pace. Government and household consumption both advanced by 0.4%, reflecting higher public spending on healthcare and civil servants’ salaries, as well as increased household expenditure on food and clothing. Investment, however, declined by 0.1%, mainly due to fewer aircraft imports. On the production side, mining and quarrying recorded the strongest growth in value added, at 6.9%, while manufacturing expanded by 2.7% and made the largest contribution to overall GDP growth, reflecting its economic importance and strong performance in machinery. Year-on-year, GDP increased by 2.1%.
-
----
-
-### 2026-10-30 16:42:12  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-French Stocks Hit 1-Month High — The CAC 40 edged up 0.1% to 7,978 on Friday, reaching its highest level in a month and putting the benchmark on track for a modest monthly gain despite mounting economic headwinds, particularly an unexpected economic contraction and a fresh acceleration in inflation. Preliminary estimates showed France’s GDP contracted 0.1% q-o-q in Q3 2026, following stagnation in the previous quarter and missing expectations for 0.1% growth. Meanwhile, annual inflation accelerated to 3.4% in October from 3.1% in September, exceeding forecasts of 3.2% and marking its highest level since December 2023. The data added to mounting economic and political pressures, including rising borrowing costs, violent protests and persistent fiscal uncertainty. L’Oréal (1.3%), Hermès (1.3%) and Air Liquide (1.2%) led the gainers. In contrast, Schneider Electric (-3%), BNP Paribas (-1.9%) and Safran (-1.1%) lagged. STMicroelectronics also tumbled 3.8%, tracking broader weakness across the technology sector.
-
----
-
-### 2026-10-30 16:41:36  #Trading Economics #Economy #Poland #Inflation Rate #Importance 1
-
-Poland Inflation Eases in October — The annual inflation rate in Poland eased to 3.5% in October 2026, down from 4.1% in the previous month, preliminary estimates showed. The slowdown was primarily driven by falling prices for food and non-alcoholic beverages, which declined by 0.1%. Meanwhile, costs remained elevated for fuels and lubricants for private means of transport, which climbed by 21.7%, while prices for electricity, gas, and other fuels rose by 6.0%. On a monthly basis, consumer prices fell by 0.4% in October, reversing a 0.7% increase in September and marking the first monthly decline after three consecutive months of growth.
-
----
-
-### 2026-10-30 16:33:27  #Trading Economics #Economy #Spain #GDP Growth Rate #Importance 1
-
-Spain's Economy Maintains Solid Growth of 0.6% in Q3 — Spain's economy grew by 0.6% quarter-on-quarter in Q3 2026, in line with expectations but easing from 0.7% in the previous quarter, according to preliminary estimates. The figures highlighted continued economic resilience despite rising inflationary pressures. Household consumption increased by 0.6%, while public spending rose 0.9%. Fixed investment remained subdued, growing just 0.1%. Net trade also supported growth, as exports rose 1.3%, outpacing the 1.1% increase in imports. On the supply side, industrial output and services both expanded by 0.7%, while construction activity was broadly unchanged. Year-on-year, GDP grew by 2.7%, also matching expectations. Earlier this month, Spain's central bank maintained its positive outlook, forecasting growth of 2.6% in 2026, matching the pace recorded in 2025, before slowing to 2.2% in 2027. Strong private consumption and exports are expected to underpin activity despite risks from inflation, geopolitical tensions and rising bond yields.
-
----
-
-### 2026-10-30 16:32:15  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Opens 0.33% Higher — The FTSE 100 Index is gaining 36 points or 0.33 percent on Friday. Leading the gains are BT (4.32%), AstraZeneca (2.96%) and Prudential (2.81%). Top losers are Airtel Africa (-4.89%), Fresnillo (-4.16%) and Natwest (-3.42%).
-
----
-
-### 2026-10-30 16:31:15  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Opens 0.26% Lower — The DAX Index is losing 67 points. Losses were led by Siemens Energy (-5.11%), Infineon (-4.09%) and Deutsche Bank (-1.77%). Offsetting the fall, top gainers were Bayer (3.84%), Beiersdorf (2.57%) and Henkel (2.06%).
-
----
-
-### 2026-10-30 16:30:18  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: XRP Rises by 1.53% — Top crypto gainers are XRP (1.53%), Binance (1.25%) and Bitcoin (0.08%). Biggest loser is Ether (-1.20%).
-
----
-
-### 2026-10-30 16:30:15  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Opens 0.09% Higher — The CAC 40 Index is gaining 7 points or 0.09 percent on Friday. Leading the gains are Sanofi (5.83%), Pernod Ricard (2.30%) and Eurofins Scientific SE (1.72%). Top losers are STMicroelectronics (-3.58%), Stellantis NV (-3.35%) and Schneider Electric (-2.43%).
-
----
-
-### 2026-10-30 16:27:16  #Trading Economics #Economy #Spain #Inflation Rate #Importance 1
-
-Spain Inflation Rate Steadies at 4.9% — The annual inflation rate in Spain steadied at 4.9% in October 2026, the same as in September and in line with market expectations, according to preliminary estimates. Nevertheless, inflation remains at levels last seen in early 2023, driven by the effects of the war in the Middle East on energy prices. In October, the largest upward pressure came from prices for package holidays which are falling less sharply than in October last year. Gas prices are also rising more sharply than a year ago, while liquid fuels are increasing. In contrast, fuels and lubricants for personal transport are falling more sharply and food and non-alcoholic beverages and clothing rose at a slower pace than in October 2025. Annual core inflation rate also steadied at 3.1%. Compared to the previous month, the CPI increased 0.6%, after a 0.3% gain in September. The EU-harmonised CPI rose 4.9% on the year and 0.5% on the month, below 5% and 0.6% in the previous month.
-
----
-
-### 2026-10-30 16:26:57  #Trading Economics #Economy #Taiwan #GDP Annual Growth Rate #Importance 1
-
-Taiwan Q3 GDP Growth Beats Expectations — Taiwan’s economy expanded 14.36% year-on-year in the third quarter of 2026, accelerating from 12.93% in the previous quarter and exceeding market expectations of 12%, according to preliminary estimates. Growth was largely underpinned by sustained demand for emerging technologies, particularly artificial intelligence and related applications. Domestic demand growth strengthened to 11.91% from 8.83% in Q2, as government spending nearly doubled to 6.43% from 3.24%, while household consumptions eased to 5.37% from 5.91%. Gross capital formation also surged to 26.36% from 16.2% in the previous quarter, driven mainly by increased investment in machinery and equipment, transportation equipment, intellectual property products and construction. External demand remained robust, although exports (21.12% vs 21.24%) slowed, while imports (20.12% vs 18.25%) rose. On a seasonally adjusted quarterly basis, Taiwan's GDP jumped to 3.21% from 1.39%, marking its highest level since Q4 2025.
-
----
-
-### 2026-10-30 16:19:33  #Trading Economics #Economy #Turkey #Tourist Arrivals #Importance 1
-
-Turkey Tourist Arrivals Up 0.4% in September — The number of foreign visitors in Turkey increased by 0.4% year-on-year to 6.11 million in September 2026, following stagnation in the previous month. Among the five largest source markets, arrivals from the Russian Federation and Iran increased 0.9% and 16.1%, respectively, while visitors from Germany, the United Kingdom, and Poland decreased by 4.9%, 10.9%, and 0.9%, respectively. Antalya accounted for the largest share of tourist arrivals at 35.88%, with 2.19 million visitors, followed by Istanbul at 31.18%, with 1.91 million. Mugla, Edirne and Izmir accounted for 8.95%, 5.63% and 3.07%, respectively. In January to September 2026, the number of foreign visitors declined by 1.52% to 40.9 million, compared to the same period a year earlier.
-
----
-
-### 2026-10-30 16:17:18  #Trading Economics #Economy #Austria #Producer Prices Change #Importance 1
-
-Austria Producer Inflation Accelerates to 6% in September — Annual producer inflation in Austria accelerated to 6% in September 2026 from 4.7% in August, marking its highest level since March 2023. The main upward pressure came from higher prices for energy (11.4% vs 7.3% in August) and intermediate goods (7.4% vs 7.2%). Prices for capital goods also increased (1.4% vs 1%), while price growth for consumer goods was unchanged at 0.3%. On a monthly basis, the PPI rose by 1.2% in September, the largest increase in six months, following a 1% gain in the previous month. Prices increased mainly in electricity, gas, steam and air-conditioning supply (3.6%), followed by the manufacture of paper and paper products (1%). By contrast, prices decreased in the manufacture of other non-metallic mineral products (-0.3%) and textiles (-0.2%).
-
----
-
-### 2026-10-30 16:14:52  #Trading Economics #Economy #Switzerland #Business Confidence #Importance 1
-
-Swiss KOF Barometer Falls in October — Switzerland’s KOF Economic Barometer fell to 107.6 in October 2026, down from 109.1 in September and below market expectations of 108.3. The decline was reflected across most indicator groups. On the demand side, foreign demand and private consumption weakened slightly. In terms of production, other services and financial and insurance services weighed on the index, while manufacturing provided a positive contribution. Within the producing sector, developments were mixed, as indicators for intermediate-goods inventories and the competitive situation weakened, while those for exports, production activity and the assessment of production barriers improved. Within manufacturing, the metal industry and food and beverage producers showed particularly positive developments, while the outlook for paper and printing products deteriorated. Despite the decline, the barometer remained above its medium-term average, indicating a continued robust outlook for the Swiss economy.
-
----
-
-### 2026-10-30 16:12:56  #Trading Economics #Economy #Czech Republic #GDP Growth Rate #Importance 1
-
-Czech Republic Economy Grows 0.5% in Q3 — The Czech Republic’s gross domestic product expanded by 0.5% quarter-on-quarter in the third quarter of 2026, accelerating from a 0.3% increase in the previous quarter but slightly missing market expectations of 0.6%, according to preliminary estimates. Growth was supported by higher household final consumption expenditure and a positive contribution from the foreign trade balance, while gross capital formation weighed on overall performance. Industry was the main driver of quarter-on-quarter growth in gross value added, alongside gains in trade, transport, accommodation, food services, and information and communication. On an annual basis, the economy grew by 1.6% in Q3, easing from 1.8% in Q2, as stronger household final consumption expenditure, gross fixed capital formation, and foreign demand supported growth, while changes in inventories weighed on overall performance.
-
----
-
-### 2026-10-30 16:10:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Rubber Falls by 2.11% — Top commodity loser is Rubber (-2.11%). Gains are led by Canola (0.78%).
-
----
-
-### 2026-10-30 16:08:25  #Trading Economics #Economy #France #Producer Price Inflation MoM #Importance 1
-
-French Producer Prices Hit 6-Month High — French domestic producer prices rose 1.7% month-on-month in September 2026, accelerating from 1% in the previous month. This marked the highest reading since March, driven by faster price growth for manufactured products, which climbed 1.2% compared with 0.4% in August. In particular, prices of coke and refined petroleum products surged 17.3% from 5.1% in the previous month, as the Middle East conflict that began in late February 2026 sent global oil prices sharply higher in March, followed by considerable volatility in subsequent months. Prices of food products, beverages and tobacco also rose to 0.3% after remaining unchanged in August. Meanwhile, prices in mining and quarrying, energy, and water remained stable at 3.1%. On a yearly basis, producer prices climbed 6.8%, up from an upwardly revised 4.9% in August, marking the highest level since March 2023.
 
 ---
