@@ -1,7 +1,51 @@
 {
   "date": "2026-11-01",
-  "count": 644,
+  "count": 649,
   "items": [
+    {
+      "id": "mkt:01a1973d-7680-7ee0-aa1e-ae3146c0eb5f",
+      "time": "2026-11-01 21:12:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Iranian foreign minister Araghchi said talks mediated by Qatar are ongoing and making progress, but no final conclusion has been reached."
+    },
+    {
+      "id": "5185755",
+      "time": "2026-11-01 21:12:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：能否取得成果取決於美方的答覆。"
+    },
+    {
+      "id": "5185754",
+      "time": "2026-11-01 21:12:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部長阿拉格奇在與卡達調解人的會談中表示：談判正在進行並取得進展，但我們尚未得出最終結論。"
+    },
+    {
+      "id": "mkt:01a1973c-3960-7ee0-aa1e-a1c310d0584e",
+      "time": "2026-11-01 21:11:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian state media quoted Foreign Minister Araghchi on talks mediated by Qatar saying he hopes the other side remains rational."
+    },
+    {
+      "id": "5185753",
+      "time": "2026-11-01 21:10:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗方面訊息，外長阿拉格齊就與卡達斡旋方會談表示：我們希望對方保持理性。"
+    },
     {
       "id": "5185752",
       "time": "2026-11-01 21:05:14",
