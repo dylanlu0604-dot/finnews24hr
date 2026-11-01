@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-02 06:21:07",
-  "count": 12925,
+  "updated": "2026-11-02 06:24:55",
+  "count": 12926,
   "items": [
+    {
+      "id": "5186108",
+      "time": "2026-11-02 06:23:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：國家運輸安全委員會將負責調查佛羅里達州里爾60型噴氣式飛機墜毀事故。"
+    },
+    {
+      "id": "5186107",
+      "time": "2026-11-02 06:21:20",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國已進入冬令時，芝商所原油、黃金、美國股指期貨等開盤時間調整至北京時間07:00，美股開盤時間則調整至北京時間22:30。"
+    },
     {
       "id": "5186106",
       "time": "2026-11-02 06:20:09",
@@ -117958,15 +117976,6 @@
         "Impact bullish"
       ],
       "text": "【FTSE World Government Bond Index raises China weight to 11.9%】FTSE Russell's September WGBI profile shows China accounts for 11.9% of the index, making it the second-largest government-bond market by weight after the US. Inclusion in the WGBI marks a milestone in China's financial opening. As China's index weight rises, global investors are increasingly treating Chinese government bonds as a portfolio diversifier. Market observers say the Chinese bond market has shown resilience amid rising international uncertainty, and ongoing deepening of RMB capital-market infrastructure is boosting foreign institutions' willingness to allocate to RMB assets."
-    },
-    {
-      "id": "5167911",
-      "time": "2026-10-26 06:23:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【富時世界國債指數中國權重升至11.9%】記者近日從富時羅素獲悉，在富時世界國債指數（WGBI）的9月指數概況中，中國按權重計佔指數的11.9%，為僅次於美國的第二大國債市場。中國債券“入指”，是中國金融市場開放歷程中的標誌性事件。隨著中國國債在國際指數中的權重穩步攀升，全球投資者正愈發將其視為分散組合風險的重要工具。業內人士認為：在國際環境不確定性上升的背景下，中國債市展現出較強韌性；與此同時，人民幣資本市場基礎設施建設持續深化，境外機構配置人民幣資產的意願進一步增強。 (上證報)"
     }
   ]
 }
