@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-02 07:03:51",
-  "count": 12919,
+  "updated": "2026-11-02 07:07:42",
+  "count": 12920,
   "items": [
+    {
+      "id": "mkt:01a1995d-fa0d-7ee0-aa21-44da2192f71d",
+      "time": "2026-11-02 07:07:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold topped $3,900/oz, up 0.61% intraday."
+    },
+    {
+      "id": "5186130",
+      "time": "2026-11-02 07:04:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【億萬富翁弗裡德蘭將建設獲美國支援的大型稀土礦】由億萬富翁羅伯特·弗裡德蘭執掌、獲得美國國防部資金支援的澳大利亞礦業企業，已批准推進一處大型稀土專案。Sunrise Energy Metals週一釋出公告，將在新南威爾士州開發西爾斯頓鈧礦及配套冶煉廠，目標2028年投產。"
+    },
+    {
+      "id": "5186129",
+      "time": "2026-11-02 07:04:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破3900美元/盎司，日內漲0.04%。"
+    },
+    {
+      "id": "mkt:01a1995b-00e5-7ee0-aa21-3bd7f747ed7c",
+      "time": "2026-11-02 07:04:00",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Sankei News reports the Japan Defence Ministry estimates the country's defence budget will reach ¥80 trillion within five years, about 1.8 times the current plan."
+    },
+    {
+      "id": "5186128",
+      "time": "2026-11-02 07:03:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破3890美元/盎司，日內漲0.36%。"
+    },
     {
       "id": "mkt:01a19959-5ca5-7ee0-aa21-305a383181ba",
       "time": "2026-11-02 07:02:12",
@@ -117895,43 +117943,6 @@
         "市場"
       ],
       "text": "澳大利亞S&P/ASX 200指數早盤下跌0.8%，報8723.90點。"
-    },
-    {
-      "id": "5167941",
-      "time": "2026-10-26 07:05:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西大選第二輪投票已統計25.19%的選票，博索納羅以50.51%的得票率領先。"
-    },
-    {
-      "id": "mkt:01a1754f-1450-7ee0-a96f-ed48087c3f56",
-      "time": "2026-10-26 07:04:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ahead of Tuesday's Israeli election, U.S. President Trump posted a lengthy message expressing support for Israeli Prime Minister Netanyahu."
-    },
-    {
-      "id": "5167940",
-      "time": "2026-10-26 07:04:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "三星SDI與美國Alpha Omega簽署儲能系統供應協議。"
-    },
-    {
-      "id": "te:economy:594777",
-      "time": "2026-10-26 07:04:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Fiscal Expenditure",
-        "Importance 0"
-      ],
-      "text": "China's Fiscal Expenditure Growth Slows to 1% in Jan-Sep — China's general public budget expenditure increased 1% year-on-year to CNY 21.02 trillion in the first nine months of 2026, slowing from a rise of 1.2% in the first eight months. Central government expenditure climbed 5.8% to CNY 3.28 trillion, while local government spending increased 0.2% to CNY 17.74 trillion, indicating that fiscal support continued to be led by the central government. Among major spending categories, healthcare recorded the strongest growth, advancing 7.7%, followed by social security and employment (+5.2%), highlighting the country's ongoing policy efforts to improve people's livelihoods. Meanwhile, fiscal revenue grew 5.1% year-on-year to CNY 17.23 trillion, following a gain of 5.7% in the January–August period. During January–September, tax revenue grew 6.1%, while non-tax revenue advanced 1.2%."
     }
   ]
 }
