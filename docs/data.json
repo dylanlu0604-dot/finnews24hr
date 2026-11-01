@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-01 14:20:31",
-  "count": 13079,
+  "updated": "2026-11-01 14:24:30",
+  "count": 13076,
   "items": [
+    {
+      "id": "5185574",
+      "time": "2026-11-01 14:20:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬魯蒂鈴木Dzire累計產量達350萬輛。"
+    },
     {
       "id": "5185573",
       "time": "2026-11-01 14:18:38",
@@ -119251,40 +119259,6 @@
         "國際"
       ],
       "text": "馬來西亞總理表示，孫正義計劃在馬來西亞向科技領域投資500億美元。"
-    },
-    {
-      "id": "5167441",
-      "time": "2026-10-25 14:23:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議員警告：允許美國借本國領土空域打擊伊朗者將成為合法軍事目標】一名伊朗議員週日表示，任何允許美國利用其領土或領空襲擊伊朗的國家，都將成為 “合法軍事目標”。魯霍拉・穆薩維・比德利稱：“如今伊朗伊斯蘭共和國不再剋制，向各方表明，本國核心利益絕不妥協。”他警告地區國家不要協助美國，並表示波斯灣地區實現安全的前提是美以撤出該區域，之後由地區國家自主承擔自身安全防務。"
-    },
-    {
-      "id": "mkt:01a171b9-b9ec-7ee0-a969-bc531e21aeaf",
-      "time": "2026-10-25 14:22:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Iran-Pakistan border crossing reopens】The Gabd-Rimdan border crossing between Iran and Pakistan in the Gwadar region has reopened; trucks carrying LPG and essential supplies have resumed transit. Islamabad closed the crossing less than a week ago, citing security and anti-smuggling operations. Pakistan's natural gas prices have meanwhile reached a record high."
-    },
-    {
-      "id": "5167440",
-      "time": "2026-10-25 14:21:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海舉辦首屆“人工智慧+消費”創新大賽】首屆上海“人工智慧+消費”創新大賽頒獎儀式25日在上海西岸舉辦。上海市副市長盧山，上海市商務委主任申衛華，徐彙區委書記曹立強，徐彙區委副書記、區長王華，上海現代服務業聯合會會長孫建平等嘉賓出席儀式。（中國新聞網）"
-    },
-    {
-      "id": "5167439",
-      "time": "2026-10-25 14:20:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗代理石油部長表示伊朗將在俄羅斯的天然氣出口國論壇闡述其立場，並與相關部長舉行雙邊會談討論合作事宜。"
     }
   ]
 }
