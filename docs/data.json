@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-02 02:33:16",
-  "count": 12966,
+  "updated": "2026-11-02 02:37:05",
+  "count": 12967,
   "items": [
+    {
+      "id": "mkt:01a19864-0f9e-7ee0-aa20-22826d07e11f",
+      "time": "2026-11-02 02:34:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Israeli media: US seeks to limit any new action against Iran to as short as possible, possibly just days】Jerusalem Post reports Trump is focused on extracting nuclear concessions from Iran and on reopening the Strait of Hormuz. US officials are concentrating on limiting the duration of any new military action against Iran—potentially to only days—and have avoided assassinating senior Iranian officials in past strikes. Israeli officials likewise want to avoid a prolonged campaign like a 40-day war but have placed less emphasis on brevity, pressing instead for large-scale strikes to eliminate Tehran’s long-term threat."
+    },
     {
       "id": "mkt:01a19860-9cf4-7ee0-aa20-1d9e686ec688",
       "time": "2026-11-02 02:30:30",
