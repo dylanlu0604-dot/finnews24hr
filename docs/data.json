@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-02 02:56:04",
+  "updated": "2026-11-02 02:59:53",
   "count": 12962,
   "items": [
+    {
+      "id": "5186043",
+      "time": "2026-11-02 02:56:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞：德拉省東部鄉村傳出爆炸聲，目前正在核實爆炸性質。"
+    },
     {
       "id": "mkt:01a19871-145e-7ee0-aa20-304ece20d683",
       "time": "2026-11-02 02:48:29",
@@ -118246,14 +118254,6 @@
         "MKT News"
       ],
       "text": "Reuters survey: 22 of 27 economists expect the RBNZ to hike 25bp on Oct 28, lifting the official cash rate to 3.00%."
-    },
-    {
-      "id": "mkt:01a1746d-52b0-7ee0-a96e-727be71a0b26",
-      "time": "2026-10-26 02:58:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said the Starshield service's operating speed has been restored to a peak of 420 km/h."
     }
   ]
 }
