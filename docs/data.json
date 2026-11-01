@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-01 14:16:38",
-  "count": 13081,
+  "updated": "2026-11-01 14:20:31",
+  "count": 13079,
   "items": [
+    {
+      "id": "5185573",
+      "time": "2026-11-01 14:18:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈及利亞疾控中心：奈及利亞約拉報告的兩例疑似埃博拉病例樣本檢測結果為陰性。"
+    },
+    {
+      "id": "5185572",
+      "time": "2026-11-01 14:16:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【分析師：AI變現不會一蹴而就 2027年將是重要拐點】儘管週五市場波動加劇，艾夫斯仍維持對AI的看多觀點。這位科技分析師認為2027年將是重要拐點，AI商業化變現屆時有望支撐行業高額資本開支。他表示AI變現不會一蹴而就，並指出亮眼的雲業務資料與資本開支是投資邏輯的核心。Yorkville Ives合夥人、高階董事總經理丹·艾夫斯週五表示，科技財報季裡，人工智慧帶來的顛覆效應正愈發凸顯。他在X平臺發文稱：“AI帶來的顛覆在本輪科技財報中充分展現，市場難以判斷哪些公司、板塊會成為顛覆者，又有哪些會被顛覆。正如我們一直所說，AI轉型不會一路向上，但贏家依然存在，我們看多的核心邏輯沒有改變。”"
+    },
     {
       "id": "5185571",
       "time": "2026-11-01 14:13:41",
@@ -119269,40 +119285,6 @@
         "國際"
       ],
       "text": "伊朗代理石油部長表示伊朗將在俄羅斯的天然氣出口國論壇闡述其立場，並與相關部長舉行雙邊會談討論合作事宜。"
-    },
-    {
-      "id": "5167438",
-      "time": "2026-10-25 14:18:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本前議員批高市玩弄右翼把戲】據日本時事通訊社報道，10月21日，也就是日本首相高市早苗上任滿一年當天，日本前眾議員小澤一郎在東京舉行的“內外情勢調查會”會議上發表演講。他在演講中提到高市去年11月的所謂“臺灣有事”相關言論，並批評稱：“首相玩弄右翼把戲，這對日本的未來而言是極其危險的。”發言中，小澤還批評高市政權的經濟政策，表示看不到清晰的施政思路，高市在很多問題上一直含糊其辭、反覆改口。小澤指出，高市早苗上任之初到現在，內閣支援率不斷下滑，用不了多久，高市內閣的政權運作就會陷入困境。(CCTV國際時訊)"
-    },
-    {
-      "id": "mkt:01a171b5-a586-7ee0-a969-b5e2df764191",
-      "time": "2026-10-25 14:18:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian Air Force said Russia launched 153 drones at multiple locations across Ukraine last night; 119 were shot down."
-    },
-    {
-      "id": "5167437",
-      "time": "2026-10-25 14:16:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江：依託便捷交通網路，挖掘國有林場森林資源潛力，發展特色種養、生態旅遊、林下經濟等綠色產業】近日，浙江省林業局、省交通運輸廳印發《關於進一步深化交通運輸與林業融合發展的實施意見》，其中提到，進一步強化現代化國有林場建設支撐。 將具有社會公共服務屬性、連線國有林場主要經濟節點的道路納入地方公路網規劃，將現有符合等級公路要求的道路納入地方公路網管理。對滿足交通發展規劃，經提升改造、聯合驗收後符合公路工程技術標準的道路，可納入地方公路網管理。 穩步推進通往國有林場場部、各林區、護林點、產業基地等關鍵節點的道路硬化與等級提升，強化林場與周邊鄉村道路互聯互通。依託便捷交通網路，挖掘國有林場森林資源潛力，發展特色種養、生態旅遊、林下經濟等綠色產業。共同探索國有林場特色資源增值路徑。"
-    },
-    {
-      "id": "mkt:01a171b4-3a55-7ee0-a969-acd1fd47ec3e",
-      "time": "2026-10-25 14:16:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Iran to push gas cooperation with GECF members at Moscow summit】Iran’s acting oil minister said Iran will use the Gas Exporting Countries Forum (GECF) summit in Moscow to press for closer gas cooperation with Russia and other members, prioritizing oil and gas field development, gas swaps and coordinated export policies. He said Iran will present its position, hold bilateral ministerial talks and push discussions on protecting energy infrastructure during wartime, expanding gas swaps, exploring a common market and coordinating international export policy. He added Iran has signed oil and gas field development contracts with Russian energy firms and is negotiating gas-swap agreements."
     }
   ]
 }
