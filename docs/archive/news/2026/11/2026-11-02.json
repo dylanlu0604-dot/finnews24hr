@@ -1,7 +1,30 @@
 {
   "date": "2026-11-02",
-  "count": 167,
+  "count": 169,
   "items": [
+    {
+      "id": "5186100",
+      "time": "2026-11-02 06:08:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲12月加息的機率為72%】據CME“美聯儲觀察”：美聯儲12月維持利率不變的機率為28%，加息25個基點的機率為72%。美聯儲到明年1月維持利率不變的機率19.3%，累計加息25個基點的機率58.4%，累計加息50個基點的機率為22.3%。"
+    },
+    {
+      "id": "mkt:01a19926-78bc-7ee0-aa21-0343ad66ef03",
+      "time": "2026-11-02 06:06:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Precious Metals",
+        "WTI",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "North America switches to standard time; opening hours for crude oil, gold and other major commodities shift to 07:00 Beijing time."
+    },
     {
       "id": "mkt:01a19920-fea9-7ee0-aa20-ff3975d71e42",
       "time": "2026-11-02 06:00:38",
