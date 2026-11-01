@@ -1,7 +1,27 @@
 {
   "date": "2026-11-02",
-  "count": 79,
+  "count": 81,
   "items": [
+    {
+      "id": "5186039",
+      "time": "2026-11-02 02:39:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊警告稱，已鎖定新的敵方目標，若再次遭到襲擊，將動用更多軍事能力。"
+    },
+    {
+      "id": "mkt:01a19868-0052-7ee0-aa20-2cb5a712c54c",
+      "time": "2026-11-02 02:38:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Israeli media: Mossad and IDF appear divided on targets for new Iran operations】Jerusalem Post sources say Prime Minister Netanyahu continues to push for Iranian regime change while Mossad chief Roman Gof is drafting plans to advance that aim; the IDF is focused primarily on eliminating concrete threats. Cited potential targets include the PICKAXE MOUNTAIN nuclear site; operations to reduce the risk of Iran retrieving 60% enriched uranium from the rubble of three previously struck nuclear sites; new facilities linked to weapons R&D; newly built or repaired ballistic missile production sites; and strategic-weapons projects. Israeli officials have also publicly threatened strikes on Iran’s major energy infrastructure. It is unclear whether assassinations of senior Iranian officials would be included. Since June 2025 Israel has twice killed dozens of senior Iranian officials, including, the report says, Ayatollah Ali Khamenei, but other senior regime figures have remained defiant. Public discussion of action against Mojtaba Khamenei — identified in the report as Ali Khamenei’s son and the regime’s current top leader — has been limited."
+    },
     {
       "id": "mkt:01a19864-0f9e-7ee0-aa20-22826d07e11f",
       "time": "2026-11-02 02:34:16",
