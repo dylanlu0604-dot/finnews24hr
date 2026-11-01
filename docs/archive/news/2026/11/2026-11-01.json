@@ -1,7 +1,33 @@
 {
   "date": "2026-11-01",
-  "count": 433,
+  "count": 436,
   "items": [
+    {
+      "id": "mkt:01a195ea-9abb-7ee0-aa1d-322c7357872d",
+      "time": "2026-11-01 15:02:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GAC Toyota said October vehicle sales were 53,022 units and cumulative deliveries of the Bozhi 3X exceeded 150,000 units."
+    },
+    {
+      "id": "5185587",
+      "time": "2026-11-01 15:01:32",
+      "tags": [
+        "國際",
+        "兩會"
+      ],
+      "text": "【俄羅斯聯邦委員會主席將訪華】應全國人大常委會委員長趙樂際邀請，俄羅斯聯邦委員會主席馬特維延科將於11月1日至3日率團訪華。（新華社）"
+    },
+    {
+      "id": "5185586",
+      "time": "2026-11-01 14:59:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士暗盤突破150美元，日內漲1.3%。"
+    },
     {
       "id": "5185585",
       "time": "2026-11-01 14:58:50",

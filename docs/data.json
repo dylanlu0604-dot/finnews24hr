@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-01 14:59:30",
-  "count": 13079,
+  "updated": "2026-11-01 15:03:37",
+  "count": 13078,
   "items": [
+    {
+      "id": "mkt:01a195ea-9abb-7ee0-aa1d-322c7357872d",
+      "time": "2026-11-01 15:02:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GAC Toyota said October vehicle sales were 53,022 units and cumulative deliveries of the Bozhi 3X exceeded 150,000 units."
+    },
+    {
+      "id": "5185587",
+      "time": "2026-11-01 15:01:32",
+      "tags": [
+        "國際",
+        "兩會"
+      ],
+      "text": "【俄羅斯聯邦委員會主席將訪華】應全國人大常委會委員長趙樂際邀請，俄羅斯聯邦委員會主席馬特維延科將於11月1日至3日率團訪華。（新華社）"
+    },
+    {
+      "id": "5185586",
+      "time": "2026-11-01 14:59:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士暗盤突破150美元，日內漲1.3%。"
+    },
     {
       "id": "5185585",
       "time": "2026-11-01 14:58:50",
@@ -119242,45 +119268,6 @@
         "XAUUSD"
       ],
       "text": "Saudi-led coalition said it intercepted and destroyed a cruise missile launched by Houthi forces toward Khamis Mushait."
-    },
-    {
-      "id": "5167453",
-      "time": "2026-10-25 15:01:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿拉格齊稱，其目標是在該地區構建新的安全架構。"
-    },
-    {
-      "id": "mkt:01a171dd-4c97-7ee0-a969-d6ca9d177c82",
-      "time": "2026-10-25 15:01:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Bulgaria holds presidential election】Bulgaria held a presidential election on the 25th with 27 candidates, including incumbent Yotova. Voting ran 07:00–20:00 local time at more than 9,300 domestic and over 600 overseas polling stations; about 6.59 million voters were eligible. Preliminary exit polls are expected after polls close; the Central Election Commission says official results will be published no later than the evening of the 27th."
-    },
-    {
-      "id": "5167452",
-      "time": "2026-10-25 15:01:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊表示，伊朗願與該地區所有國家開展合作。"
-    },
-    {
-      "id": "mkt:01a171dc-81c5-7ee0-a969-c81b9ef86274",
-      "time": "2026-10-25 15:00:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "【Xiangcai Securities: A-share indices posted one-day V-shaped rebound; short-term phase bottom likely】Xiangcai Securities says A-share indices traded mostly lower from 19–23 Oct 2026 but registered a one-day V-shaped reversal on 23 Oct. The Shanghai Composite briefly fell below 3,600 before recovering to close higher; the Shenzhen Composite and ChiNext formed bullish engulfing patterns. The firm views the move as sentiment repair rather than a profit-driven broad reversal and expects the Shanghai Composite to form a short-term phase bottom near 3,700. It warns short-cycle macro indicators show signs of peaking and overseas tech volatility has transmitted domestically, contributing to a break of July lows and a downshift in troughs; October’s weak bias remains intact despite the rapid intraday rebound."
     }
   ]
 }
