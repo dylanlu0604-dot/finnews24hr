@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-02 02:48:34",
-  "count": 12966,
+  "updated": "2026-11-02 02:52:19",
+  "count": 12964,
   "items": [
+    {
+      "id": "mkt:01a19871-145e-7ee0-aa20-304ece20d683",
+      "time": "2026-11-02 02:48:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "On Nov 1 local time, IRGC intelligence said it arrested a spy who had passed operational details of a UAV and missile-parts production center in Markazi province to a foreign adversary."
+    },
     {
       "id": "5186042",
       "time": "2026-11-02 02:47:55",
@@ -118264,32 +118272,6 @@
         "Europe & UK"
       ],
       "text": "Ukrainian President Zelenskiy said Ukraine must decide its own security guarantees and will not accept Russia dictating terms; proposals to cap the size of Ukrainian forces or to require Ukrainian neutrality are off the table. He said territorial issues are a red line that can only be negotiated at leaders’ level, and that the United States has long proposed territorial exchanges—referred to as \"land swaps\"—though other proposals remain open for discussion."
-    },
-    {
-      "id": "5167822",
-      "time": "2026-10-26 02:51:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "澤連斯基稱11月將舉行美俄烏三方會談。"
-    },
-    {
-      "id": "mkt:01a17467-8e4e-7ee0-a96e-594e5b2aa4a7",
-      "time": "2026-10-26 02:51:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's president ZELENSKIY says a trilateral US-Ukraine-Russia meeting will be held in November."
-    },
-    {
-      "id": "5167821",
-      "time": "2026-10-26 02:50:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "澤連斯基表示，美國關於俄羅斯彈道導彈襲擊預警的情報共享已全面恢復，星盾服務的執行速度已恢復至最高每小時420公里。"
     }
   ]
 }

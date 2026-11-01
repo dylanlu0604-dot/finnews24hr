@@ -1,7 +1,15 @@
 {
   "date": "2026-11-02",
-  "count": 84,
+  "count": 85,
   "items": [
+    {
+      "id": "mkt:01a19871-145e-7ee0-aa20-304ece20d683",
+      "time": "2026-11-02 02:48:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "On Nov 1 local time, IRGC intelligence said it arrested a spy who had passed operational details of a UAV and missile-parts production center in Markazi province to a foreign adversary."
+    },
     {
       "id": "5186042",
       "time": "2026-11-02 02:47:55",
