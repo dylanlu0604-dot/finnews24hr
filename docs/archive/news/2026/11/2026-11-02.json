@@ -1,7 +1,2475 @@
 {
   "date": "2026-11-02",
-  "count": 1310,
+  "count": 1581,
   "items": [
+    {
+      "id": "mkt:01a19cfb-d822-7ee0-aa39-efb7d6ad069b",
+      "time": "2026-11-02 23:58:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK changes ILR rules, some care workers eligible after five years】Home Secretary Shabana Mahmood has scrapped a plan that would have required migrant social care workers already in the UK to wait 15 years for indefinite leave to remain (ILR). Under the new rules, social care workers who earn at least £25,000 and who arrived before May 2025 may apply for ILR after five years' residence. Mahmood also removed the rule requiring all low‑paid workers to wait 15 years for ILR; the waiting period for other low‑paid workers is reduced to 10 years."
+    },
+    {
+      "id": "5188116",
+      "time": "2026-11-02 23:57:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣馬哈茂德：年收入超過2.5萬英鎊的護理工作者可在5年後獲得定居資格。年收入超過12.5萬英鎊者需在三年內申請定居身份。有犯罪記錄者將無法獲得定居身份。"
+    },
+    {
+      "id": "mkt:01a19cf9-804e-7ee0-aa39-e7c22aa4c311",
+      "time": "2026-11-02 23:55:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) held a conference call to discuss a multi-tranche issuance of dollar and euro bonds."
+    },
+    {
+      "id": "5188115",
+      "time": "2026-11-02 23:54:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國允許高收入移民 3 年內申請永居。"
+    },
+    {
+      "id": "mkt:01a19cf8-0af7-7ee0-aa39-d819bec79b38",
+      "time": "2026-11-02 23:54:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Home Secretary Mahmood said settlement status will not be granted to people with criminal records."
+    },
+    {
+      "id": "5188114",
+      "time": "2026-11-02 23:53:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta Platforms 計劃發行美元 / 歐元債券，召開固收投資者電話會議。"
+    },
+    {
+      "id": "5188113",
+      "time": "2026-11-02 23:51:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI Codex產品負責人Tibo：我們正在擴充支撐 Dots 產品的前沿模型矩陣，其中包括 GPT-6 Astra、GPT-6.1 Terra，後續還會推出其他模型。Terra 在速度上有所提升，互動表現也得到最佳化，將助力我們把 Dots 推向更多使用者。"
+    },
+    {
+      "id": "5188112",
+      "time": "2026-11-02 23:50:27",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "德意志銀行：高盛將該股納入歐洲核心推薦標的清單。"
+    },
+    {
+      "id": "mkt:01a19cf4-6d47-7ee0-aa39-d77032eb431f",
+      "time": "2026-11-02 23:50:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS reports a magnitude 5.1 earthquake 50 km WSW of Waermeixi, Peru."
+    },
+    {
+      "id": "5188111",
+      "time": "2026-11-02 23:49:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國擬要求部分移民等待十年才可申請永居，同時放寬護工相關規定。"
+    },
+    {
+      "id": "5188110",
+      "time": "2026-11-02 23:45:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本SBI將投資美國數字銀行Erebor。"
+    },
+    {
+      "id": "mkt:01a19ced-d116-7ee0-aa39-c97eafe67687",
+      "time": "2026-11-02 23:43:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC recorded a M4.2 earthquake at 23:35 on Nov 2 in Baqing County, Nagqu, Tibet; focal depth 10 km."
+    },
+    {
+      "id": "5188109",
+      "time": "2026-11-02 23:42:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：11月02日23時35分在西藏那曲市巴青縣（北緯32.38度，東經93.86度）發生4.2級地震，震源深度10千米。"
+    },
+    {
+      "id": "5188106",
+      "time": "2026-11-02 23:41:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及宣告各類戰略物資儲備可滿足國內六個月需求。"
+    },
+    {
+      "id": "5188105",
+      "time": "2026-11-02 23:40:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行Escriva：人工智慧估值顯然偏高。我對人工智慧的影響持樂觀態度，認為其將帶來巨大的生產力提升。"
+    },
+    {
+      "id": "mkt:01a19ceb-3663-7ee0-aa39-c2fbdafd5f03",
+      "time": "2026-11-02 23:40:22",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "ECB Governing Council member ESCRIVA said AI valuations are clearly overvalued."
+    },
+    {
+      "id": "mkt:01a19ceb-202a-7ee0-aa39-bc7bd002ffbd",
+      "time": "2026-11-02 23:40:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ECB executive board member ESCRIVA said he is optimistic about AI’s impact and expects it to deliver substantial productivity gains."
+    },
+    {
+      "id": "5188104",
+      "time": "2026-11-02 23:40:17",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅分別同伊朗最高國家安全委員會副秘書巴蓋裡、沙特國家安全顧問艾班會見會談】11月2日，中共中央政治局委員、中央外辦主任王毅在北京會見伊朗最高國家安全委員會副秘書巴蓋裡，同沙特國務大臣、內閣成員、國家安全顧問艾班舉行會談。 在會見巴蓋裡時，王毅表示，當前中東地區戰事延宕、外溢擴散，對話談判才是解決之道。中方願秉持習近平主席就緩和中東局勢提出的一系列倡議和主張，同各方一道繼續為恢復地區和平作出努力。中方支援伊朗維護自身主權和安全，願推動中伊關係繼續發展。 巴蓋裡表示，伊方讚賞習近平主席提出的倡議主張和中方維護多邊主義的一貫立場，期待中方為國際地區和平發揮更重要作用。 在同艾班會談時，艾班轉交了沙特王儲兼首相穆罕默德就雙邊關係發展和雙方共同關心的問題致習近平主席的信函。 王毅表示，在兩國最高領導人戰略引領下，中沙關係保持穩健發展勢頭。中方願與沙方共同推動雙邊關係不斷取得新進展。 王毅說，當前地區局勢再次走到戰與和的關鍵路口，希望各方透過對話談判化解紛爭。中方願秉持習近平主席提出的一系列倡議和主張，同包括沙特在內的各方溝通協調。(新華社)"
+    },
+    {
+      "id": "5188103",
+      "time": "2026-11-02 23:39:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奧本海默：蘋果高估值幾乎沒有容錯空間】報釋出前夕，奧本海默維持蘋果“中性” 評級，警示蘋果估值處於高位，上行空間有限。該機構預測蘋果第四財季營收 1129 億美元，每股收益 1.96 美元，兩項指標均低於市場一致預期。機構給出的 2027 年每股收益預期為 8.91 美元，較市場預期低 7%，主要反映 iPhone 增長放緩、記憶體成本上行以及服務業務面臨逆風。奧本海默同時預計，12 月所在財季產品板塊利潤率將受到 150 個基點的衝擊。"
+    },
+    {
+      "id": "mkt:01a19ce9-5e17-7ee0-aa39-b2a818c8ffff",
+      "time": "2026-11-02 23:38:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt says it holds strategic commodity reserves sufficient to meet national demand for six months."
+    },
+    {
+      "id": "5188101",
+      "time": "2026-11-02 23:36:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "政黨訊息稱：以色列反對派陣營將於週二首次會晤，推進總理人選提名事宜。"
+    },
+    {
+      "id": "mkt:01a19ce7-9794-7ee0-aa39-adc890b4aa23",
+      "time": "2026-11-02 23:36:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli opposition bloc will hold its first meeting on Tuesday to discuss selecting a candidate for prime minister."
+    },
+    {
+      "id": "mkt:01a19ce3-0238-7ee0-aa39-a5efb3f71eda",
+      "time": "2026-11-02 23:31:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member Escriva said markets have been largely immune to price risk in recent years."
+    },
+    {
+      "id": "5188099",
+      "time": "2026-11-02 23:30:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行Escriva：近年來市場對價格風險基本免疫。"
+    },
+    {
+      "id": "te:markets:597367",
+      "time": "2026-11-02 23:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Greece 10Y Bond Yield Falls by 9 bps — Majority of government bonds yields are lower on Monday. Top losers are Greece 10Y (-8.81bps), United Kingdom 10Y (-8.77bps), Italy 10Y (-7.86bps), US 10Y (-3.40bps) and Germany 10Y (-2.31bps). Gains are led by Japan 10Y (0.18bps)."
+    },
+    {
+      "id": "mkt:01a19ce1-d193-7ee0-aa39-9c4afbf38822",
+      "time": "2026-11-02 23:30:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB executive board member Escriva said maintaining rates at 2% to keep inf around 2% is reasonable."
+    },
+    {
+      "id": "5188097",
+      "time": "2026-11-02 23:29:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行Escriva： 將利率維持在 2% 以把通脹穩定在 2% 左右是合理的。"
+    },
+    {
+      "id": "te:markets:597366",
+      "time": "2026-11-02 23:29:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Tin Falls to 6-Month Low — Tin fell below $49,000 per tonne, reaching its lowest level since late April, as a sharp selloff in technology stocks weakened the outlook for demand from the semiconductor industry. Concerns intensified over the costs and financing of the investment boom following Alphabet’s earnings. Also, tin supply is expected to improve gradually as mining operations normalize in Myanmar and regulatory and export constraints ease in Indonesia. Still, limited production expansion elsewhere and a thin pipeline of new mining projects will constrain longer-term supply growth. On the demand side, consumption is expected to strengthen in 2027–28, supported by electronics and semiconductor applications."
+    },
+    {
+      "id": "5188096",
+      "time": "2026-11-02 23:29:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官駁回針對前聯邦調查局官員的刑事案件，這些官員被控在亨特・拜登相關調查一事上撒謊。"
+    },
+    {
+      "id": "mkt:01a19ce0-d1e1-7ee0-aa39-91b05a4a1e39",
+      "time": "2026-11-02 23:29:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge dismissed the criminal case against former FBI officials accused of lying about questions in the Hunter Biden investigation."
+    },
+    {
+      "id": "mkt:01a19cde-2eb6-7ee0-aa39-8d8e2161cf58",
+      "time": "2026-11-02 23:26:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB Governing Council member Moulin said the macroeconomic situation is markedly different from 2022."
+    },
+    {
+      "id": "mkt:01a19cde-020e-7ee0-aa39-862da7e82bde",
+      "time": "2026-11-02 23:25:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude plunged 6.00% intraday to $104.99/bbl."
+    },
+    {
+      "id": "5188092",
+      "time": "2026-11-02 23:25:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行行長穆蘭：當前形勢無法與2022年的通脹相提並論。當前宏觀經濟形勢與2022年截然不同。"
+    },
+    {
+      "id": "mkt:01a19cdd-05f4-7ee0-aa39-7ba95794570f",
+      "time": "2026-11-02 23:24:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russell 2000 index rose 1.1%."
+    },
+    {
+      "id": "5188091",
+      "time": "2026-11-02 23:24:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行行長穆蘭：當前通脹率遠高於我們2%的目標。"
+    },
+    {
+      "id": "mkt:01a19cdc-7fb5-7ee0-aa39-738e98470af6",
+      "time": "2026-11-02 23:24:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Italy's FTSE MIB rose 1.00% intraday."
+    },
+    {
+      "id": "5188089",
+      "time": "2026-11-02 23:24:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克：阿特勞 — 薩馬拉原油管道因無人機襲擊暫停輸油。"
+    },
+    {
+      "id": "5188088",
+      "time": "2026-11-02 23:23:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行行長穆蘭：目前對整體經濟的影響相當溫和。"
+    },
+    {
+      "id": "mkt:01a19cdb-711b-7ee0-aa39-694b0f07ce45",
+      "time": "2026-11-02 23:23:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "China EV Leaders",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bullish",
+        "AMZN.O",
+        "XPEV.N"
+      ],
+      "text": "US major stock indexes rose more than 1%; Amazon (AMZN.O) gained 5%. The Nasdaq Golden Dragon China Index rose 3.77%; XPeng (XPEV.N) gained over 8%."
+    },
+    {
+      "id": "5188086",
+      "time": "2026-11-02 23:22:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "萊茵金屬股價走低，目前下跌4.5%，有望創下7月以來最差單日表現。"
+    },
+    {
+      "id": "5188085",
+      "time": "2026-11-02 23:22:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股三大指數均漲超1%】道指漲1.20%，現報52389.109點；納指漲1.27%，現報25760.952點；標普500指數漲1.01%，現報7656.420點。"
+    },
+    {
+      "id": "5188084",
+      "time": "2026-11-02 23:22:32",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行行長穆蘭：通脹明顯高於我們的目標。"
+    },
+    {
+      "id": "5188083",
+      "time": "2026-11-02 23:22:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行Escriva：目前尚無第二輪效應的跡象。"
+    },
+    {
+      "id": "5188082",
+      "time": "2026-11-02 23:22:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行Escriva：油氣價格衝擊高於預期。"
+    },
+    {
+      "id": "mkt:01a19cd8-392d-7ee0-aa39-630506301bb3",
+      "time": "2026-11-02 23:19:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's President Lee and members of his security team reportedly had their passport data uploaded to a paywalled website, South Korean media say."
+    },
+    {
+      "id": "5188079",
+      "time": "2026-11-02 23:19:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行Escriva：不確定性如此之高，提供前瞻性指引將是一個錯誤。"
+    },
+    {
+      "id": "5188078",
+      "time": "2026-11-02 23:19:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏方稱與俄就奧列什基人道主義救援機制達成共識】烏克蘭最高拉達人權事務專員盧比涅茨2日表示，烏俄就奧列什基人道主義救援機制達成共識，正商討如何確保每月至少運送一次物資，該模式有望在其他地區推行。俄方人權事務專員蘭特拉託娃1日稱，奧列什基人道主義行動區“靜默制度”已結束（10月27日至11月1日），各方正努力繼續人道主義救援，留居居民仍需幫助。奧列什基位於第聶伯河東岸，俄烏10月27日開始區域性停火以便人道主義物資進入。（新華社）"
+    },
+    {
+      "id": "5188077",
+      "time": "2026-11-02 23:18:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行Escriva：利率情景高度複雜。"
+    },
+    {
+      "id": "mkt:01a19cd7-3e92-7ee0-aa39-5d5cf417b64c",
+      "time": "2026-11-02 23:18:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB executive board member Escrivá says the interest-rate outlook is highly complex."
+    },
+    {
+      "id": "5188076",
+      "time": "2026-11-02 23:18:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特主導聯軍：在利雅得地區攔截並摧毀兩架無人機。"
+    },
+    {
+      "id": "mkt:01a19cd6-a63e-7ee0-aa39-55939cfeef6b",
+      "time": "2026-11-02 23:17:55",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Saudi-led coalition says it intercepted and destroyed two drones in the Riyadh area."
+    },
+    {
+      "id": "5188075",
+      "time": "2026-11-02 23:17:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，葉門胡塞武裝推進至距亞丁80公里處。"
+    },
+    {
+      "id": "mkt:01a19cd5-9696-7ee0-aa39-4be971ca1329",
+      "time": "2026-11-02 23:16:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【US natural gas production falls over weekend; low prices may be prompting voluntary cuts】US natural gas futures rose after weekend production declined, led by the Appalachian shale region, suggesting producers may be voluntarily trimming output amid weak prices. Weather forecasts ticked slightly colder, supporting near-term heating and power demand, but most of the US is still expected to run warmer-than-seasonal in coming weeks, which should cap price upside. Flows into LNG export terminals eased, leaving more gas in the domestic market and adding downward pressure on prices."
+    },
+    {
+      "id": "5188073",
+      "time": "2026-11-02 23:15:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄主要雲服務商遭網路攻擊 或致近50萬個俄網站訪問異常】俄羅斯主要雲服務商Beget當地時間11月2日通報稱，其基礎設施當天凌晨遭到大規模網路攻擊，導致部分服務中斷。攻擊後果仍在評估，全面恢復時間尚無法給出。據悉，此次攻擊可能導致託管在Beget上的近50萬個俄羅斯網站出現訪問異常。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a19cd2-acd4-7ee0-aa39-4108c2e4398d",
+      "time": "2026-11-02 23:13:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB governing council member Escrivá said the lack of fiscal adjustment is not limited to France."
+    },
+    {
+      "id": "te:economy:597361",
+      "time": "2026-11-02 23:13:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Construction Spending",
+        "Importance 2"
+      ],
+      "text": "US Construction Spending Unexpectedly Falls — Construction spending in the US slipped by 1.9% month-over-month to a seasonally adjusted annual rate of $2,186.1 billion in September 2026, marking the steepest drop since April 2020, after an upwardly revised 2% advance in August. Figures contrasted with the expected 0.4% increase. Total private construction shrank by 2.4%, led by a 5.5% decline in residential activity, likely reflecting mounting construction cost pressures on renovation projects. Single-family housing outlays were flat compared with August but fell 2.4% on an annual basis. Conversely, spending on nonresidential structures rose by 1.1%, with solid increases in office (5.5%), power (1.2%) and religious (1.1%) more than offseting decreases in amusement and recreation (-1.3%) and educational (-0.6%). Meanwhile, public construction spending fell by 0.1%, reflecting a 0.1% decrease in nonresidential, outweighed by a 1.8% rise in the residental segment. Year-on-year, construction spending dropped by 2.7%."
+    },
+    {
+      "id": "5188070",
+      "time": "2026-11-02 23:13:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲1.00%，現報25691.378點；道指漲1.02%，現報52297.441點；標普500指數漲0.73%，現報7635.600點。"
+    },
+    {
+      "id": "5188069",
+      "time": "2026-11-02 23:13:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行Escriva：缺乏財政調整的問題不止出現在法國。"
+    },
+    {
+      "id": "5188068",
+      "time": "2026-11-02 23:12:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國10月製造業活動加速增長 生產指標創2021年以來新高】美國10月製造業活動加快，受近五年來最強勁生產增長的支撐。美國供應管理學會(ISM)製造業指數10月上升1點至55.5，為逾四年來第二高水平。這一資料高於調查中的幾乎所有經濟學家預期。讀數高於50表明製造業處於擴張狀態。週一公佈的資料顯示，生產指標創2021年底以來最高水平。反映需求的新訂單指標升至7月以來最高，並繼續穩居擴張區間。ISM製造業指標連續10個月顯示行業增長，10月工廠就業人數連續第四個月增加，為2022年初以來持續時間最長的一輪增長。ISM報告顯示，10月工廠再次面臨原材料價格高企以及供應商交貨時間延長的問題。ISM價格指標降至75.2，低於前一個月，但仍高於中東衝突爆發前的水平"
+    },
+    {
+      "id": "mkt:01a19cd1-28da-7ee0-aa39-3e2a387cb7ec",
+      "time": "2026-11-02 23:11:55",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB executive board member Moulin said France may pass a budget and market reaction may be excessive."
+    },
+    {
+      "id": "5188067",
+      "time": "2026-11-02 23:11:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行行長穆蘭：市場對法國局勢的反應或許過度了。"
+    },
+    {
+      "id": "mkt:01a19cd0-edbd-7ee0-aa39-35b98966d08a",
+      "time": "2026-11-02 23:11:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB governing council member Moulin says rising global interest rates affect all countries."
+    },
+    {
+      "id": "5188064",
+      "time": "2026-11-02 23:11:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行行長穆蘭：法國極有可能敲定預算案。"
+    },
+    {
+      "id": "mkt:01a19cd0-546c-7ee0-aa39-2c3e6fc6b734",
+      "time": "2026-11-02 23:11:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Analyst: U.S. congressional deadlock could boost gold】Investors are weighing whether U.S. political gridlock could revive gold’s safe-haven appeal after what may be its weakest annual performance in over a decade. Matt Miskin, co-chief investment strategist at Manulife/John Hancock Investment Management, said if 2027 bears any resemblance to 2019 — when gold rallied — the metal’s current weakness could reverse. He added a congressional stalemate would lower the risk that fiscal policy pushes real yields higher. Miskin expects modest Democratic midterm gains with limited policy change, a backdrop he views as constructive for gold."
+    },
+    {
+      "id": "5188061",
+      "time": "2026-11-02 23:10:58",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行行長穆蘭：法國預算狀況不佳，必須加以解決。"
+    },
+    {
+      "id": "5188058",
+      "time": "2026-11-02 23:09:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行行長穆蘭：全球利率上升影響所有國家。"
+    },
+    {
+      "id": "mkt:01a19ccf-1e35-7ee0-aa39-22a5c4a78535",
+      "time": "2026-11-02 23:09:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member Moulin said markets are concerned about the situation in France."
+    },
+    {
+      "id": "5188057",
+      "time": "2026-11-02 23:09:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行行長穆蘭：市場對法國局勢感到擔憂。"
+    },
+    {
+      "id": "5188056",
+      "time": "2026-11-02 23:08:19",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【藍佛安出席2026年中亞經濟合作天山論壇開幕式】2026年11月2日至3日，中亞經濟合作天山論壇在哈薩克阿拉木圖舉行，財政部部長藍佛安出席開幕式並致辭，部長助理常軍紅陪同參會。藍佛安指出，今年是中國“十五五”規劃開局之年，中國經濟執行總體平穩、穩中有進，前三季度國內生產總值同比增長4.6%，展現出強大韌性和活力。中國將持續推動高質量發展，擴大高水平開放，為包括中亞國家在內的世界各國帶來更多發展機遇。同時，中方願與中亞各國加強合作，大力弘揚“中國—中亞精神”，構建更加緊密的中國—中亞命運共同體，支援中亞地區發展成為連通歐亞大陸的“黃金十字路口”。（財政部）"
+    },
+    {
+      "id": "5188053",
+      "time": "2026-11-02 23:07:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "法國央行行長穆蘭：歐洲央行行長拉加德希望開啟職業生涯新篇章。"
+    },
+    {
+      "id": "5188052",
+      "time": "2026-11-02 23:06:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京同伊朗最高國家安全委員會秘書通話 討論中東局勢】總檯記者11月2日獲悉，俄羅斯總統普京與伊朗最高國家安全委員會秘書雷扎伊通話，討論中東局勢等議題。雙方指出，有必要在兩國最高領導層制定的行動計劃基礎上繼續推進俄伊全面戰略伙伴關係。（央視新聞）"
+    },
+    {
+      "id": "5188051",
+      "time": "2026-11-02 23:06:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行Escriva：央行行長拉加德有充分的理由提前離職。"
+    },
+    {
+      "id": "5188050",
+      "time": "2026-11-02 23:06:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：將11月3日官方盧布匯率定為1美元兌80.9734盧布（前值為80.5573）。"
+    },
+    {
+      "id": "5188048",
+      "time": "2026-11-02 23:04:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI將在佐治亞州提供最高1000兆瓦的需求響應能力。"
+    },
+    {
+      "id": "te:economy:597358",
+      "time": "2026-11-02 23:04:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Business Confidence",
+        "Importance 3"
+      ],
+      "text": "US Manufacturing Activity Beats Expectations — The ISM Manufacturing PMI climbed to 55.5 in October 2026, up from 54.5 in September and comfortably exceeding market expectations of 54.6. The reading marked the sector’s second-fastest pace of expansion in nearly four years, driven primarily by stronger output growth, with the Production Index rising to 59.0 from 56.7. New orders also expanded at a slightly faster pace (55.5 from 55.3), while employment growth moderated marginally (52.4 from 52.7). Meanwhile, the Supplier Deliveries and Inventories indexes increased by 0.1 and 2.8 points to 59.1 and 51.4, respectively. The Prices Index, however, declined to 75.2 from 77.9, although it remained elevated. Overall, the survey suggests that strong demand in AI, data centers, semiconductors and infrastructure continues to support activity in several industries. However, persistent inflation, tariff uncertainty, supply constraints and cautious customer spending are weighing on broader business conditions and investment decisions."
+    },
+    {
+      "id": "5188047",
+      "time": "2026-11-02 23:04:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超3%，震坤行漲16.46%，嗶哩嗶哩漲7.93%，小鵬汽車漲7.39%，億航漲6.96%，海川證券漲6.07%。"
+    },
+    {
+      "id": "5188046",
+      "time": "2026-11-02 23:03:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文股價跌幅擴大至6.5%，創7月以來新低。"
+    },
+    {
+      "id": "5188045",
+      "time": "2026-11-02 23:03:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：推出電網守護者計劃。"
+    },
+    {
+      "id": "5188044",
+      "time": "2026-11-02 23:03:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國ISM製造業資料公佈後，美元指數維持跌勢，最新下跌0.35%，報101.6。"
+    },
+    {
+      "id": "te:economy:597357",
+      "time": "2026-11-02 23:02:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Strategic Petroleum Reserve Crude Oil Stocks",
+        "Importance 0"
+      ],
+      "text": "US Strategic Petroleum Reserve Falls Further to 44-Year Low — US Strategic Petroleum Reserve crude inventories fell to 282.2 million barrels in the week ending October 30th, reaching their lowest level since October 1982. The decline forms part of a US initiative to release 172 million barrels from the reserve. During the same week, the government announced that oil companies had agreed to borrow around 40 million barrels of crude, marking the final tranche of the US contribution to a global deal aimed at curbing fuel prices following the conflict in the Middle East. Since the US-Israeli war with Iran began in late February, SPR inventories have fallen by approximately 133.2 million barrels."
+    },
+    {
+      "id": "em:jjsj_mgsj:202611023919127519",
+      "time": "2026-11-02 23:02:24",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國10月ISM製造業生產指數升至59，創2021年以來最高。"
+    },
+    {
+      "id": "5188041",
+      "time": "2026-11-02 23:01:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國戰略石油儲備原油庫存降至1982年以來最低】據美國能源部資料，上週美國戰略石油儲備中的原油庫存降至2.822億桶，為1982年10月以來最低水平。近期的庫存下降是美國一項釋放1.72億桶原油協議的一部分。美國政府上週表示，石油公司已同意從戰略石油儲備中借用約4,000萬桶原油，這是美國在一項旨在控制燃料價格的全球協議中承擔份額的最後一批。該協議是在美國與以色列對伊朗開戰後達成的。"
+    },
+    {
+      "id": "5188037",
+      "time": "2026-11-02 23:00:44",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國10月ISM製造業PMI 55.5，預期54.6，前值54.5。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202611023919131154",
+      "time": "2026-11-02 23:00:41",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國10月份ISM製造業指數升至55.5，預估為54.5。"
+    },
+    {
+      "id": "5188036",
+      "time": "2026-11-02 23:00:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國9月營建支出環比 -1.9%，預期 0.5%，前值 0.9%。"
+    },
+    {
+      "id": "te:markets:597356",
+      "time": "2026-11-02 23:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Drops by 0.97% — Top currency losers are Norwegian Krone (-0.97%), South Korean Won (-0.64%), Dollar Index (-0.27%) and Japanese Yen (-0.06%). Gains are led by Mexican Peso (0.87%), Swiss Franc (0.73%), Swedish Krona (0.63%), Euro (0.49%) and British Pound (0.23%)."
+    },
+    {
+      "id": "5188035",
+      "time": "2026-11-02 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】低硫燃料油連續跌5.67%，瀝青連續跌5.44%，燃料油連續跌5.38%，液化石油氣連續跌4.84%，苯乙烯連續跌4.54%。"
+    },
+    {
+      "id": "te:markets:597355",
+      "time": "2026-11-02 22:59:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Commodity Index Hits 9-week Low — Commodity Index decreased to 715.65 Index Points, the lowest since August 2026. Over the past 4 weeks, Commodity Index lost 0.07%, and in the last 12 months, it increased 29.77%."
+    },
+    {
+      "id": "5188032",
+      "time": "2026-11-02 22:58:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic考慮在研發流程中對部分決策引入人工稽核與批准機制，原因是模型承擔了其中越來越大比例的工作。"
+    },
+    {
+      "id": "5188031",
+      "time": "2026-11-02 22:57:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "幾內亞礦業部：第三季度鋁土礦出口同比增長34%，至5010萬噸。"
+    },
+    {
+      "id": "5188030",
+      "time": "2026-11-02 22:56:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "Coop：我們可以確認，冷卻系統故障是由一起涉及未經授權篡改的網路事件所致。"
+    },
+    {
+      "id": "5188028",
+      "time": "2026-11-02 22:56:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫斯科交易所10月總交易量為212.9萬億盧布。"
+    },
+    {
+      "id": "5188026",
+      "time": "2026-11-02 22:56:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【關志鷗會見中國礦產資源集團董事長姚林】據“湖北釋出”，11月2日下午，湖北省委書記關志鷗在武漢會見中國礦產資源集團黨組書記、董事長姚林。關志鷗說，希望中國礦產發揮自身獨特優勢，聚焦戰略性礦產資源勘查、開採、加工、貿易等領域，加大在鄂佈局力度，深化大宗商品物流合作，實現優勢互補、互利共贏。我們將堅持“有呼必應、無事不擾”，不斷最佳化營商環境，為中國礦產在鄂發展提供更優服務。姚林說，中國礦產肩負保障國家戰略性礦產資源安全的重要使命，將主動服務國家戰略需求，不斷深化與湖北在礦產資源勘查開發、供應鏈體系建設等領域的務實合作，助力湖北礦業高質量發展，為湖北加快建成中部地區崛起重要戰略支點貢獻力量。"
+    },
+    {
+      "id": "5188025",
+      "time": "2026-11-02 22:56:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及美元債券領漲新興市場，市場押注伊朗談判。"
+    },
+    {
+      "id": "5188023",
+      "time": "2026-11-02 22:54:52",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美債長端收益率集體回落 10年期收益率跌逾5個基點】美國國債收益率多數下行，其中10年期國債收益率報4.882%，下跌5.1個基點；20年期報5.283%，下跌5.7個基點；30年期報5.254%，下跌5.6個基點。7年期收益率下跌4.8個基點，報4.769%。"
+    },
+    {
+      "id": "5188022",
+      "time": "2026-11-02 22:54:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "亞馬遜股價上漲4.3%，領漲七大科技巨頭。"
+    },
+    {
+      "id": "5188021",
+      "time": "2026-11-02 22:54:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Mercado Bitcoin確認發生安全事件後流失4000萬美元。"
+    },
+    {
+      "id": "5188020",
+      "time": "2026-11-02 22:54:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【朱忠明會見聯合國副秘書長、人居署執行主任羅斯巴赫】上海市市長朱忠明今天（11月2日）會見了聯合國副秘書長、人居署執行主任羅斯巴赫一行。朱忠明說，期待持續深化與人居署的合作，共同深化國際公共產品應用推廣，提升上海獎、上海指數、《上海手冊》的科學性、權威性，辦好城市可持續發展全球大會，為各國城市交流互鑑、分享成果、務實合作搭建平臺，譜寫“城市，讓生活更美好”的新篇章。希望人居署發揮實踐經驗、技術儲備、專家團隊等優勢，在最佳化城市空間佈局、提升城市生活品質、增強城市治理效能等方面，助力上海建設現代化人民城市，推動城市高質量發展、可持續發展。（澎湃）"
+    },
+    {
+      "id": "te:markets:597354",
+      "time": "2026-11-02 22:52:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Walt Disney Shares Hit 40-week High — Walt Disney shares increased to 113.39 USD, the highest since January 2026. Over the past 4 weeks, Walt Disney gained 11.87%, and in the last 12 months, it increased 0.66%."
+    },
+    {
+      "id": "5188019",
+      "time": "2026-11-02 22:52:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌7%，現報96.82美元/桶。"
+    },
+    {
+      "id": "5188018",
+      "time": "2026-11-02 22:52:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守97美元/桶，日內跌6.87%。"
+    },
+    {
+      "id": "5188017",
+      "time": "2026-11-02 22:52:47",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國郵輪運營商股價上漲，因油價下跌逾6%，挪威郵輪公司股價上漲3.5%，皇家加勒比郵輪公司股價上漲4%，嘉年華集團股價上漲4.2%。"
+    },
+    {
+      "id": "te:economy:597353",
+      "time": "2026-11-02 22:52:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "US Manufacturing Activity Revised Lower: S&P Global — US manufacturing activity continued to expand in October, although the S&P Global Manufacturing PMI was revised down to 54.9 from an initial estimate of 56, compared with 55.9 in September. Output increased for a seventeenth straight month, while new orders rose at their slowest pace since March, partly reflecting the impact of tariffs on international sales. Meanwhile, manufacturers faced intensifying cost and supply pressures. Higher energy, fuel, transportation and metal prices, alongside tariffs, pushed input cost inflation to its highest level since May’s near four-year peak. Companies responded by raising selling prices, with output price inflation reaching its highest level since September 2022. Supply-chain disruptions also lengthened delivery times, while manufacturers increased purchasing and inventories. Rising orders and delayed inputs pushed backlogs higher, prompting firms to expand employment at the fastest pace in five and a half years."
+    },
+    {
+      "id": "5188016",
+      "time": "2026-11-02 22:52:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行維持對Alphabet的增持評級。"
+    },
+    {
+      "id": "te:markets:597352",
+      "time": "2026-11-02 22:51:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Oracle Shares Hit 13-week Low — Oracle shares decreased to 122.69 USD, the lowest since July 2026. Over the past 4 weeks, Oracle lost 13.71%, and in the last 12 months, it decreased 52.32%."
+    },
+    {
+      "id": "te:markets:597351",
+      "time": "2026-11-02 22:51:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canada’s TSX Rebounds as Oil Prices Slide — Canada’s S&P/TSX Composite Index rose more than 0.5% to approximately 35,850 points on Monday, partially recovering from Friday’s steepest single-day decline in nearly six months, as a sharp drop in oil prices eased inflationary concerns, while investors turned their attention to Tuesday’s US midterm elections. Oil prices plunged around 4% after Iranian and Qatari officials held a third consecutive day of talks aimed at ending the US-Israeli war on Iran. Meanwhile, gold recovered from one-year lows as investors assessed comments from Federal Reserve officials suggesting that further interest rate hikes could be necessary to curb inflation. Investors are also looking ahead to earnings reports from Toromont Industries and Topaz Energy after the close. On the trade front, US President Donald Trump said his administration had established a framework for a new trade agreement with Canada, while Prime Minister Mark Carney characterized the discussions as constructive."
+    },
+    {
+      "id": "5188014",
+      "time": "2026-11-02 22:51:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.01%，現報52290.961點；納指漲0.79%，現報25636.858點；標普500指數漲0.57%，現報7623.150點。"
+    },
+    {
+      "id": "5188013",
+      "time": "2026-11-02 22:49:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "IDEXX 公司預測全年營收高於預期，股價上漲 19.4%。"
+    },
+    {
+      "id": "5188012",
+      "time": "2026-11-02 22:49:22",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【上海市政府常務會部署加快新型能源體系建設、更好服務全國統一大市場建設】上海市委副書記、市長朱忠明今天（11月2日）主持召開市政府常務會議，要求按照市委部署，加快上海新型能源體系建設，推動更好服務全國統一大市場建設重點措施落實。會議原則同意《上海市新型能源體系建設“十五五”規劃》並指出，要不斷提升能源治理體系效能，為經濟社會高質量發展奠定堅實基礎、提供強勁動能。要著力推動綠色低碳轉型，最佳化能源結構，全力打造千萬千瓦級綠電基地，加快蒙電入滬特高壓工程和深遠海風電基地建設，大力培育算電協同、“AI+”能源等新業態，健全完善低碳能源消費體系。著力增強能源保障能力，健全能源安全儲備機制，統籌市內外、近遠端多層次儲備體系，推動虛擬電廠、新型儲能等多元調節資源聚合發展，增強電力系統靈活調節和頂峰保供能力，全力保障經濟社會發展合理用能需求。著力深化體制機制改革，發揮市場主導和政府引導作用，促進各類經營主體平等廣泛參與電力市場，加快構建統一開放、競爭有序的能源市場體系，引導各類資源向能源科技創新傾斜，為城市能源安全低碳發展提供堅實支撐。會議原則同意《上海市貫徹落實縱深推進全國統一大市場建設的重點措施》並指出，要在“規範”上下功夫、在“聯通”上求突破，為全國統一大市場建設貢獻上海力量。要對標國家要求不折不扣落實建設任務，健全全國統一大市場建設制度規則體系，推進“六張網”等重點領域基礎設施建設，夯實全國統一大市場建設的硬體基礎，深入開展招商引資、政府採購、招標投標、企業低價無序競爭等領域專項整治。要發揮上海優勢，主動作為服務全國大局，深化長三角一體化發展，加快建設全國統一大市場先行區，推動市場監管執法協同、新興領域標準銜接，推進長三角政務服務“一網通辦”擴面提質增效。要建強要素市場和平臺功能，加快技術交易、資料流通、電力市場、算力排程等平臺建設，在資料要素、綠色能源、科技創新等領域形成更多可複製可推廣的“上海經驗”。會議還研究了其他事項。 (澎湃新聞)"
+    },
+    {
+      "id": "5188011",
+      "time": "2026-11-02 22:49:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "BioMar上調業績指引，哥本哈根交易所股價上漲2.6%；Schouw上漲1.9%。"
+    },
+    {
+      "id": "5188010",
+      "time": "2026-11-02 22:47:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳勇吳澤桐會見覆星國際董事長郭廣昌】據“珠海釋出”，11月2日下午，珠海市委書記、省委橫琴工委書記陳勇，市委副書記、市長吳澤桐會見覆星國際董事長郭廣昌一行，雙方就深化“十五五”時期市企合作進行深入交流。陳勇說，希望復星搶抓粵港澳大灣區建設機遇，進一步擴大在珠投資佈局，圍繞文化旅遊、科技創新、生物醫藥等領域深挖合作潛力，推動實現更高水平的互利共贏。珠海將持續最佳化營商環境，一如既往為企業提供優質高效服務。郭廣昌表示，復星將充分發揮自身優勢，精準對接特區發展需求，加大旅遊、康養、金融等方面合作力度，共同為推進粵港澳大灣區建設作出更大貢獻。"
+    },
+    {
+      "id": "5188009",
+      "time": "2026-11-02 22:46:53",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國股市延續漲勢，道瓊斯指數漲幅擴大至1%，標普500指數漲0.60%，納斯達克綜合指數漲0.81%。"
+    },
+    {
+      "id": "te:economy:597349",
+      "time": "2026-11-02 22:46:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Canada Manufacturing Growth Falls to Lowest in 10 Months — The S&P Global Canada Manufacturing PMI fell to 49.6 in October 2026 from 51.5 in September, signalling the first contraction in 2026 so far. Production declined for the first time since March, as delivery delays caused the sharpest deterioration in supplier delivery times since August 2022. Manufacturers increasingly relied on existing inventories, with stocks of purchases falling for a second consecutive month. New orders contracted at the fastest pace in over a year, as tariffs and geopolitical uncertainty weighed on domestic and export demand. New export orders fell for a fifth straight month, recording their steepest decline since January. Meanwhile, input cost inflation accelerated to its highest level since June 2022, driven by tariffs and rising fuel prices. Manufacturers passed on higher costs, pushing output price inflation to a more than four-year high. Employment fell for the first time since March. Business confidence remained historically subdued."
+    },
+    {
+      "id": "5188008",
+      "time": "2026-11-02 22:45:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局批准治療罕見呼吸系統疾病的藥物後，INOVIO製藥公司股價飆升186%。"
+    },
+    {
+      "id": "5188007",
+      "time": "2026-11-02 22:45:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "亞馬遜上漲3.9%，Alphabet上漲2.2%，此前Anthropic第三季度淨虧損較上一季度收窄。"
+    },
+    {
+      "id": "5188006",
+      "time": "2026-11-02 22:45:06",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國10月標普全球製造業PMI終值 54.9，預期56，前值56。"
+    },
+    {
+      "id": "te:markets:597348",
+      "time": "2026-11-02 22:44:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "American Express Shares Hit 6-week High — American Express shares increased to 326.51 USD, the highest since September 2026. Over the past 4 weeks, American Express gained 7.71%, and in the last 12 months, it decreased 9.8%."
+    },
+    {
+      "id": "5188005",
+      "time": "2026-11-02 22:44:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "NAPCO股價在第一季度營收未達預期後下跌17.2%。"
+    },
+    {
+      "id": "5188004",
+      "time": "2026-11-02 22:43:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "KOSMOS ENERGY第三季度營收未達預期，股價下跌13%。"
+    },
+    {
+      "id": "5188003",
+      "time": "2026-11-02 22:43:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重慶公佈涪陵管道迸裂事故調查報告】2日，重慶市應急管理局向社會公佈了重慶涪陵興涪電力公司管道迸裂事故調查報告。經事故調查組認定，該起事故是一起因重慶興涪電力開發有限公司發電分公司未落實安全風險分級管控制度，未消除壓力鋼管管壁腐蝕減薄安全隱患，未按規定對壓力鋼管進行焊接處理，未明確發電執行與防腐加固交叉作業的安全管理措施導致的較大生產安全責任事故。（新華社）"
+    },
+    {
+      "id": "5188002",
+      "time": "2026-11-02 22:43:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國選定6家主承銷商負責數字國債試點工具。"
+    },
+    {
+      "id": "5188001",
+      "time": "2026-11-02 22:42:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：截至9月30日，付費超過10萬美元的客戶超過11900家。"
+    },
+    {
+      "id": "te:markets:597346",
+      "time": "2026-11-02 22:41:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rise to Kick Off November — US stocks rose at the start of November, with the S&P 500 up 0.7%, the Nasdaq gaining 0.9% and the Dow Jones advancing nearly 500 points, following Friday’s sell-off in AI-related shares. Investors are gearing up for an event-packed week, with the US midterm elections, key labour market data and a fresh batch of corporate earnings in focus. A decline in oil prices also helped boost market sentiment. Consumer discretionary was the best-performing sector, while technology stocks attempted a recovery and energy shares underperformed. Nvidia (1.6%), Amazon (3.3%) and Tesla (2.4%) booked strong gains. In contrast, Oracle slid 4.5% after offering $10 billion of shares and starting a debt sale for the same amount. Marvell Technology fell almost 6% after announcing an agreement to acquire Lumentum Holdings Inc. Elsewhere, Palantir fell 0.3% and Apple shares were down 0.6% ahead of their earnings releases later in the day."
+    },
+    {
+      "id": "5188000",
+      "time": "2026-11-02 22:41:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：截至9月30日，已累計籌集資本1411億美元。"
+    },
+    {
+      "id": "5187999",
+      "time": "2026-11-02 22:41:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：截至9月30日，現金及現金等價物為956億美元。"
+    },
+    {
+      "id": "5187998",
+      "time": "2026-11-02 22:41:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic將谷歌雲支出承諾提高至約1213億美元。"
+    },
+    {
+      "id": "5187997",
+      "time": "2026-11-02 22:41:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：截至9月30日的過去12個月，人均創收超過660萬美元。"
+    },
+    {
+      "id": "5187996",
+      "time": "2026-11-02 22:40:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "德州儀器上漲1.9%，亞德諾半導體上漲2.1%，高通上漲2.6%。"
+    },
+    {
+      "id": "5187995",
+      "time": "2026-11-02 22:40:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價上漲1.5%，SK海力士美股上漲3.3%。"
+    },
+    {
+      "id": "5187994",
+      "time": "2026-11-02 22:40:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic表示，有跡象顯示，該公司可能即將符合《負責任擴充套件政策》中“可歸因於AI的顯著加速進展”的定義。"
+    },
+    {
+      "id": "te:markets:597345",
+      "time": "2026-11-02 22:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.83% Higher — The Dow Jones Index is up by 429 points or 0.83 percent on Monday. Top gainers are Amazon (3.65%), Sherwin-Williams (2.84%) and Home Depot (2.21%). Biggest losses came from Chevron (-2.22%), J&J (-1.09%) and Cisco Systems (-1.05%)."
+    },
+    {
+      "id": "5187993",
+      "time": "2026-11-02 22:40:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：截至9月30日，淨收入留存率約為900%。"
+    },
+    {
+      "id": "5187992",
+      "time": "2026-11-02 22:39:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic獲授谷歌可購買至多100億美元N類股票的期權。"
+    },
+    {
+      "id": "5187991",
+      "time": "2026-11-02 22:38:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：按過去12個月計算，約有250家客戶的收入貢獻達到或超過1000萬美元。"
+    },
+    {
+      "id": "te:markets:597344",
+      "time": "2026-11-02 22:38:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Slips to Near 1-Week Low — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, snapped its three-day winning streak on Monday, dropping by 2.4% to its lowest since October 27 at 2,648 points. Declines were seen across all vessel segments. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, slipped nearly 4% to 3,963 points, after three consecutive sessions of advances. At the same time, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, decreased by 0.8% to its lowest since April 13 at 1,874 points, extending its losing streak to 14 consecutive sessions. Among smaller vessels, the supramax index fell by 0.5% to a fresh low since October 15 at 1,856 points."
+    },
+    {
+      "id": "5187990",
+      "time": "2026-11-02 22:38:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：強勁的緩衝機制支撐法國擔保債券的穩定展望。"
+    },
+    {
+      "id": "5187989",
+      "time": "2026-11-02 22:38:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：截至9月30日，尚未開始的租賃金額約為4512億美元。"
+    },
+    {
+      "id": "5187988",
+      "time": "2026-11-02 22:38:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "CoreWeave下跌4%，Nebius下跌4.5%，IREN下跌3.1%。"
+    },
+    {
+      "id": "5187987",
+      "time": "2026-11-02 22:37:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "ANTHROPIC： 截至2026年9月30日的三個月內，所得稅撥備增至3.96億美元。"
+    },
+    {
+      "id": "5187986",
+      "time": "2026-11-02 22:37:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：9月30日後簽署的新算力協議金額約1002億美元。"
+    },
+    {
+      "id": "5187985",
+      "time": "2026-11-02 22:37:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破3960美元/盎司，日內漲2.18%。"
+    },
+    {
+      "id": "5187984",
+      "time": "2026-11-02 22:37:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽將L3HARRIS擬發行的SR無擔保債券評級為“BBB+”。"
+    },
+    {
+      "id": "5187983",
+      "time": "2026-11-02 22:36:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Claude解題成功率已達約90%。"
+    },
+    {
+      "id": "5187982",
+      "time": "2026-11-02 22:36:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破3970美元/盎司，日內漲1.83%。"
+    },
+    {
+      "id": "5187981",
+      "time": "2026-11-02 22:36:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：未來12個月內到期的承諾金額約698億美元。"
+    },
+    {
+      "id": "5187980",
+      "time": "2026-11-02 22:36:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：預計在2031年前將產生約4475億美元的承諾支出。"
+    },
+    {
+      "id": "5187979",
+      "time": "2026-11-02 22:36:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國10年期國債收益率延續跌勢，下跌逾8個基點，至4.8981%。"
+    },
+    {
+      "id": "5187978",
+      "time": "2026-11-02 22:35:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "蘇黎世機場股價走高，目前上漲3%。"
+    },
+    {
+      "id": "5187977",
+      "time": "2026-11-02 22:35:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：短期算力使用量近期將繼續上升。"
+    },
+    {
+      "id": "te:markets:597343",
+      "time": "2026-11-02 22:35:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "PepsiCo Shares Hit 8-week High — PepsiCo shares increased to 139.06 USD, the highest since September 2026. Over the past 4 weeks, PepsiCo gained 10.52%, and in the last 12 months, it decreased 4.98%."
+    },
+    {
+      "id": "5187975",
+      "time": "2026-11-02 22:35:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀將加拿大國家鐵路公司目標價從180加元上調至182加元。"
+    },
+    {
+      "id": "5187974",
+      "time": "2026-11-02 22:34:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：未來前沿模型將需要人類監督。"
+    },
+    {
+      "id": "5187973",
+      "time": "2026-11-02 22:34:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "邁威爾同意以1150億美元收購Lumentum後，後者股價下跌9.55%。"
+    },
+    {
+      "id": "5187972",
+      "time": "2026-11-02 22:34:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "INDIVIOR 與 SUPERNUS 完成合並，11 月 2 日生效。"
+    },
+    {
+      "id": "5187971",
+      "time": "2026-11-02 22:34:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Strategy：根據美國證券交易委員會（SEC）檔案，公司擬發行最高16.6億美元、票面利率10.00%的A系列永久優先股。"
+    },
+    {
+      "id": "5187970",
+      "time": "2026-11-02 22:34:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic第三季度運營虧損源於50億美元的短期算力支出。"
+    },
+    {
+      "id": "5187969",
+      "time": "2026-11-02 22:34:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農場淨收入創紀錄地下滑26%，降至歷史最低點。"
+    },
+    {
+      "id": "5187967",
+      "time": "2026-11-02 22:33:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率當日下跌逾10個基點，至5.197%，有望創下5月20日以來最大單日跌幅。"
+    },
+    {
+      "id": "5187966",
+      "time": "2026-11-02 22:33:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：承諾Claude不投放廣告。"
+    },
+    {
+      "id": "5187965",
+      "time": "2026-11-02 22:33:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic預計Claude不會被用於完全自主模式。"
+    },
+    {
+      "id": "5187963",
+      "time": "2026-11-02 22:33:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "據報道，Marvell執行長馬特·墨菲談與Lumentum的交易時表示，這是對支援英偉達的加倍投入。"
+    },
+    {
+      "id": "5187962",
+      "time": "2026-11-02 22:32:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超2%，知乎漲8.56%，小鵬汽車漲6.86%，嗶哩嗶哩漲5.91%，禾賽科技漲5.95%，金山雲漲4.76%。"
+    },
+    {
+      "id": "5187961",
+      "time": "2026-11-02 22:32:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "LUMENTUM股價下跌8.8%，MARVELL股價下跌4.1%。"
+    },
+    {
+      "id": "5187960",
+      "time": "2026-11-02 22:32:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "啟動融資計劃後，甲骨文股價下跌4.9%。"
+    },
+    {
+      "id": "5187959",
+      "time": "2026-11-02 22:32:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲2%，現報3954.53美元/盎司。"
+    },
+    {
+      "id": "5187958",
+      "time": "2026-11-02 22:32:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "萬豪股價上漲7%，此前公司上調年度客房收入增長預期。"
+    },
+    {
+      "id": "5187957",
+      "time": "2026-11-02 22:32:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "基爾集團與KIER-BAM合資公司獲得約6億英鎊德文波特防務合同。"
+    },
+    {
+      "id": "5187956",
+      "time": "2026-11-02 22:32:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：決策可能與投資者預期相悖。"
+    },
+    {
+      "id": "5187955",
+      "time": "2026-11-02 22:31:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普超級綜合航空指數開盤上漲3.6%。"
+    },
+    {
+      "id": "5187954",
+      "time": "2026-11-02 22:31:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "截至9月30日，ANTHROPICO公司擁有956億美元現金。"
+    },
+    {
+      "id": "5187953",
+      "time": "2026-11-02 22:31:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "IDEXX LABS 開盤飆升 14%，創一年來最大盤中漲幅。"
+    },
+    {
+      "id": "5187952",
+      "time": "2026-11-02 22:31:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：遵守修訂及重述信貸協議下的所有契約條款。"
+    },
+    {
+      "id": "5187951",
+      "time": "2026-11-02 22:30:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic截至9月30日的合同義務總額為3200億美元。"
+    },
+    {
+      "id": "5187950",
+      "time": "2026-11-02 22:30:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股光通訊股開盤漲跌不一】Lumentum跌6.27%，康寧漲0.81%，Coherent漲1.75%，應用光電漲2.06%，Ciena跌0.50%，博通漲0.18%，邁威爾科技跌2.97%。Marvell Technology與Lumentum宣佈已簽署最終協議，Marvell將以全股票方式收購Lumentum，合併後公司潛在市場總規模有望擴大至5500億美元。"
+    },
+    {
+      "id": "5187949",
+      "time": "2026-11-02 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤初漲跌不一】禮來跌0.68%，強生跌0.54%，Moderna漲2.50%，諾和諾德漲0.30%，艾伯維跌1.25%，默沙東漲0.07%。"
+    },
+    {
+      "id": "5187948",
+      "time": "2026-11-02 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股算力雲相關股票盤初漲跌不一】甲骨文跌4.24%，CoreWeave漲0.47%，Nebius跌0.60%，IREN漲1.46%，Applied Digital跌0.53%。"
+    },
+    {
+      "id": "5187947",
+      "time": "2026-11-02 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤初普漲】美光漲0.15%，閃迪漲0.46%，SK海力士漲3.01%，西部資料漲0.42%，希捷科技漲0.01%。"
+    },
+    {
+      "id": "5187946",
+      "time": "2026-11-02 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股太空概念股盤初漲跌不一】SpaceX漲2.20%，Rocket Lab跌0.14%，Planet Labs持平，AST SpaceMobile跌1.28%，Intuitive Machines跌0.37%。"
+    },
+    {
+      "id": "5187945",
+      "time": "2026-11-02 22:30:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.77%，標普500指數漲0.43%，納指漲0.68%。IDEXX實驗室漲13.44%，萬豪漲6.83%，福克斯-B漲4.46%，聯合大陸航空漲4.44%，21世紀福克斯漲3.83%。“七姐妹”方面：英偉達漲1.80%，特斯拉漲1.45%，亞馬遜漲1.37%，谷歌漲1.28%，微軟漲0.29%，蘋果跌0.60%，Meta Platforms跌0.60%。"
+    },
+    {
+      "id": "5187944",
+      "time": "2026-11-02 22:30:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic第三季度年化收入至少10萬美元的客戶超過11900家。"
+    },
+    {
+      "id": "5187943",
+      "time": "2026-11-02 22:30:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，嗶哩嗶哩漲5.28%，世紀互聯漲2.48%，阿特斯漲1.94%，老虎證券漲1.81%，理想汽車漲0.45%。"
+    },
+    {
+      "id": "5187942",
+      "time": "2026-11-02 22:30:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅氏獲得美國食品藥品監督管理局（FDA）510(k)許可，其新型cobas® eplex呼吸道病原體檢測組合3獲批，使實驗室能夠根據當地患者需求定製呼吸道檢測方案。"
+    },
+    {
+      "id": "5187941",
+      "time": "2026-11-02 22:30:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：未在A&R信貸額度下提取任何借款。"
+    },
+    {
+      "id": "te:markets:597342",
+      "time": "2026-11-02 22:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Regeneron Pharmaceuticals Shares Hit 24-month High — Regeneron Pharmaceuticals shares increased to 936.10 USD, the highest since October 2024. Over the past 4 weeks, Regeneron Pharmaceuticals gained 26.28%, and in the last 12 months, it increased 42.36%."
+    },
+    {
+      "id": "5187940",
+      "time": "2026-11-02 22:30:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大10月標普全球製造業採購經理人指數 49.6，前值51.5。"
+    },
+    {
+      "id": "5187938",
+      "time": "2026-11-02 22:29:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京要求俄羅斯資料中心預留10%的容量。"
+    },
+    {
+      "id": "5187937",
+      "time": "2026-11-02 22:29:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：從2025年9月30日到2026年9月30日，TTM營收增長約1200%，而員工人數增長約170%"
+    },
+    {
+      "id": "5187936",
+      "time": "2026-11-02 22:29:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "ANTHROPIC：截至9月30日的三個月淨虧損為232.9億美元。上年同期121億美元。"
+    },
+    {
+      "id": "5187935",
+      "time": "2026-11-02 22:28:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：截至9月30日，承諾支出總額約8954億美元。"
+    },
+    {
+      "id": "5187934",
+      "time": "2026-11-02 22:28:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：截至9月30日，剩餘履約義務為138億美元。"
+    },
+    {
+      "id": "5187933",
+      "time": "2026-11-02 22:28:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "ANTHROPIC：截至2026年9月30日的三個月內，CLAUDE營收為170億美元。"
+    },
+    {
+      "id": "5187932",
+      "time": "2026-11-02 22:28:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic第三季度運營支出175億美元。"
+    },
+    {
+      "id": "5187931",
+      "time": "2026-11-02 22:27:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic第三季度營收169億美元。上年同期為13.8億美元。"
+    },
+    {
+      "id": "5187929",
+      "time": "2026-11-02 22:27:29",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "ANTHROPIC：截至2026年9月30日的三個月，收入同比增長1127%。"
+    },
+    {
+      "id": "5187928",
+      "time": "2026-11-02 22:27:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國戰略石油儲備原油庫存上週降至2.822億桶，為1982年以來最低水平。"
+    },
+    {
+      "id": "5187927",
+      "time": "2026-11-02 22:27:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic PBC：截至2026年9月30日的三個月，調整後營業收入增至25億美元。"
+    },
+    {
+      "id": "5187926",
+      "time": "2026-11-02 22:27:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "提醒：Anthropic PBC在美股開盤之前釋出S-1/A檔案。"
+    },
+    {
+      "id": "5187925",
+      "time": "2026-11-02 22:26:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic前9個月營收332億美元。"
+    },
+    {
+      "id": "5187924",
+      "time": "2026-11-02 22:26:42",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "Anthropic第三季度淨虧損233億美元，上年同期為121億美元。"
+    },
+    {
+      "id": "5187919",
+      "time": "2026-11-02 22:24:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲旅遊與休閒<.SXTP>指數有望錄得近5個月來最大單日漲幅，最高上漲3.1%。"
+    },
+    {
+      "id": "5187918",
+      "time": "2026-11-02 22:23:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雅詩蘭黛CEO財報會上以中文問好，一季度中國大陸有機銷售額增長9%】雅詩蘭黛集團總裁兼執行長司泰峰（Stéphane de La Faverie）在週一舉行的財報電話會議上，與分析師進行了一段簡短的中文互動。當分析師用“你好”問候時，他也以中文“你好”回應。司泰峰將於本月赴上海，首次到場參加中國國際進口博覽會。雅詩蘭黛集團當天公佈的財報顯示，截至2026年9月30日的2027財年第一季度，集團淨銷售額同比增長7%，至37.15億美元，有機淨銷售額增長6%。中國大陸是本季度增長亮點之一，有機淨銷售額同比增長9%，營業利潤率由上年同期的2.3%升至5.2%。集團在中國大陸高階美妝市場的銷售額份額也有所提升，領跑品牌包括TOM FORD、The Ordinary、Le Labo和海藍之謎。香水是集團增長最快的主要產品類別，有機淨銷售額同比增長20%。司泰峰表示，公司“已經不再只是恢復增長”，而是在建立多元化的驅動力，以實現持續且有盈利能力的增長。雅詩蘭黛集團將2027財年全年有機淨銷售額增長預期由3%至5%，上調至4%至5.5%。調整後營業利潤率預期上調至12.9%至13.7%。"
+    },
+    {
+      "id": "5187917",
+      "time": "2026-11-02 22:23:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "Strategy提交SEC檔案，擬發行最高41.3億美元10.00% A系列永久STRIDE優先股。"
+    },
+    {
+      "id": "5187916",
+      "time": "2026-11-02 22:22:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊表示：如果美國接受我們的條件，霍爾木茲海峽將重新開放，談判也將恢復。"
+    },
+    {
+      "id": "5187915",
+      "time": "2026-11-02 22:21:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果代號 J595 的家用機器人專案面臨內部意見分歧 同時軟體推進進度遲緩】蘋果新任 CEO 約翰・特納斯希望公司認真推進機器人業務，但從這款計劃對外發售的初代產品研發進度來看，他或將面臨一場硬仗。該裝置配有一塊 9 英寸螢幕，搭載可活動機械臂，外形酷似皮克斯動畫裡的檯燈。參與該專案的人士透露，機器人大部分硬體方案大約兩年前就已經定型，但軟體團隊一直難以跟上進度。負責 J595 的硬體團隊希望加快節奏、儘快釋出產品；而軟體團隊主張推遲上市。過去一年裡，軟體團隊一直在精簡原定功能，打算把產品核心能力收斂到 FaceTime 通話，以及開燈這類簡單家庭自動化任務。蘋果計劃這款機器人售價約 1000 美元，受元器件行情影響，最終售價可能更高。多名前員工稱，它或將命名為 HomeView Ultra，沿用上月蘋果釋出的固定式桌面裝置 HomeView 的命名體系。蘋果原本希望明年推出，但釋出時間也有可能推遲至 2028 年（硬體團隊最初計劃今年就上市）。一部分 J595 團隊成員希望產品儘快上市；也有人擔心，它會遭遇和 HomeView 一樣冷淡的市場反響。但他們顧慮，蘋果拖得越晚釋出，行業 AI 能力持續升級，外界對這款機器人的期待值也會水漲船高。"
+    },
+    {
+      "id": "5187912",
+      "time": "2026-11-02 22:21:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市委常委會（擴大）會議和全市幹部大會召開 認真學習貫徹黨的二十屆五中全會精神】會議強調，深入學習宣傳貫徹黨的二十屆五中全會精神，是當前和今後一個時期的重大政治任務。要持續在全市興起學習宣傳貫徹熱潮，抓好學習培訓、集中宣講、宣傳解讀，奮力推動黨的二十屆五中全會精神在深圳落地落實。要切實把學習成果轉化為做好各項工作的實際行動，全力做好APEC會議服務保障，精心籌備好市第八次黨代會，鞏固經濟執行向新向優向好態勢，持續保障和改善民生，更好統籌發展和安全，堅決完成全年發展目標任務，實現“十五五”良好開局。要及早謀劃、紮實做好明年工作，以實際行動迎接黨的二十一大勝利召開。（深圳釋出）"
+    },
+    {
+      "id": "5187911",
+      "time": "2026-11-02 22:20:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗方面訊息，伊朗外長阿拉格齊表示，透過卡達和巴基斯坦等中間人進行的磋商非常密集。"
+    },
+    {
+      "id": "5187908",
+      "time": "2026-11-02 22:19:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "SUPERNUS與INDIVIOR完成合並，打造多元化中樞神經系統生物製藥領軍企業。"
+    },
+    {
+      "id": "5187907",
+      "time": "2026-11-02 22:18:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果J595家用機器人售價約1000美元，釋出或從2025年推遲至2028年。"
+    },
+    {
+      "id": "5187906",
+      "time": "2026-11-02 22:18:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果J595家用機器人專案面臨內部分歧，軟體進展緩慢。"
+    },
+    {
+      "id": "5187904",
+      "time": "2026-11-02 22:17:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗外長阿拉格齊表示，伊朗在軍事應對和外交途徑兩方面都已做好了比以往任何時候都更充分的準備；霍爾木茲海峽的重新開放，前提是伊朗提出的條件必須得到接受。"
+    },
+    {
+      "id": "te:markets:597338",
+      "time": "2026-11-02 22:17:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Surges 4% — Silver jumped around 4% to $50.80 an ounce on Monday, rebounding from 11-month lows, as declining oil prices eased inflation concerns, while investors shifted their focus to the November 3 US midterm elections. Precious metals had faced heavy selling pressure on Friday as a sharp selloff in technology and AI stocks triggered a dash for cash, forcing investors to liquidate safe-haven holdings. However, optimism surrounding a potential US-Iran diplomatic breakthrough, coupled with renewed doubts about the sustainability of the AI boom, has prompted some reassessment of the Federal Reserve's tightening outlook. Meanwhile, oil prices tumbled after Iranian and Qatari officials held a third consecutive day of talks aimed at securing an end to the US-Israeli war on Iran. Lower energy prices could help contain inflationary pressures and ease expectations of interest rates remaining higher for longer, reducing the opportunity cost of holding non-yielding assets such as silver."
+    },
+    {
+      "id": "5187900",
+      "time": "2026-11-02 22:17:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟食品專員：增強韌性需要整個食品供應鏈採取協調一致的做法。"
+    },
+    {
+      "id": "5187899",
+      "time": "2026-11-02 22:17:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟食品事務專員：必須確保供應鏈的每一個環節都能抵禦網路威脅並做出應對。"
+    },
+    {
+      "id": "5187898",
+      "time": "2026-11-02 22:16:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "格陵蘭資源公司就加拿大-歐盟協議釋出最新情況。"
+    },
+    {
+      "id": "5187897",
+      "time": "2026-11-02 22:16:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟食品事務專員：目前糧食安全未受威脅，但食品浪費及其影響真實存在。"
+    },
+    {
+      "id": "5187896",
+      "time": "2026-11-02 22:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟食品事務專員：冰箱網路攻擊是破壞我們食品供應的企圖。"
+    },
+    {
+      "id": "5187895",
+      "time": "2026-11-02 22:14:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "Init 股價跌8.4%，此前公司釋出業績及展望，股價料創3月以來最差單日表現。"
+    },
+    {
+      "id": "te:markets:597334",
+      "time": "2026-11-02 22:12:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rebounds on Easing Inflation Concerns — Gold prices rose more than 1% to above $3,940 an ounce on Monday, recovering from an over one-year low of $3,870.27 hit on Friday, as falling oil prices eased inflation concerns, while investors turned their attention to the November 3 US midterm elections. Gold had come under pressure on Friday as a sharp selloff in technology and AI stocks triggered a dash for cash, forcing investors to liquidate safe-haven assets. However, optimism over a potential US-Iran diplomatic breakthrough and renewed doubts about the sustainability of the AI boom have prompted some reassessment of the Federal Reserve's tightening outlook. Meanwhile, oil prices tumbled after Iranian and Qatari officials held a third consecutive day of talks aimed at ending the US-Israeli war on Iran. Lower oil prices could ease inflationary pressures and reduce expectations of interest rates staying higher for longer, lowering the opportunity cost of holding non-yielding gold."
+    },
+    {
+      "id": "5187894",
+      "time": "2026-11-02 22:12:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "宜家表示，其零售製冷控制系統遭遇網路安全事件，已受到影響，比利時一家門店受到影響，但不能排除其他地點可能受到影響。"
+    },
+    {
+      "id": "5187893",
+      "time": "2026-11-02 22:11:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "T-Mobile：5G光纖套餐將於11月3日推出，自動繳費情況下月費90美元。"
+    },
+    {
+      "id": "5187891",
+      "time": "2026-11-02 22:11:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美宣佈發行規模超過9.7726億美元的K-184多戶住宅CMBS。"
+    },
+    {
+      "id": "5187890",
+      "time": "2026-11-02 22:11:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "8X8獲得微軟認證，透過8X8 Voice for Microsoft Teams簡化全球通話。"
+    },
+    {
+      "id": "5187888",
+      "time": "2026-11-02 22:10:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "最新資料顯示，截至2026年第43周（10月19日至10月25日），華為Pura X View累計銷量約75.53萬臺，成功突破75萬臺大關。"
+    },
+    {
+      "id": "5187886",
+      "time": "2026-11-02 22:08:46",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據報道，伊朗最高安全官員穆赫辛·雷扎伊與俄羅斯總統普京在電話會談中討論了中東局勢發展。"
+    },
+    {
+      "id": "5187884",
+      "time": "2026-11-02 22:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊稱已組建首支“為伊朗捐軀”旅】據伊朗法爾斯通訊社2日報道，德黑蘭大區伊斯蘭革命衛隊司令哈桑扎德說，伊朗首支“為伊朗捐軀”旅已完成組建，並已接受強化訓練、完成裝備配備，目前正準備開展實戰訓練、野外訓練和專業射擊訓練。據伊朗媒體今年4月報道，有超過2410萬伊朗人在一家名為“為伊朗捐軀”的網站登記註冊，志願為國獻身。（新華社）"
+    },
+    {
+      "id": "te:markets:597332",
+      "time": "2026-11-02 22:07:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Treasury Yield Lowest in 8 Weeks — The yield on the US 10-year Treasury note fell to 4.9% on Monday, its lowest level since mid-September, as a sharp decline in oil prices helped to ease inflation concerns. Sentiment was also supported by growing hopes for a diplomatic resolution to the conflict in the Middle East, following reports that President Trump wants to give negotiations with Iran more time and that Iran’s Supreme Leader had authorised talks. These developments helped ease concerns over further supply disruptions and their potential impact on inflation, at least for now. Meanwhile, investors are bracing for an event-packed week, with the US midterm elections and key economic releases, including the jobs report, expected to provide further clues about the Federal Reserve’s policy outlook. Last week, the Fed left interest rates unchanged, as widely expected. However, markets continue to price in another 25-basis-point rate hike in December, with the probability of such a move holding at around 75%."
+    },
+    {
+      "id": "5187882",
+      "time": "2026-11-02 22:06:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴基斯坦國際航空公司：任命阿德里安·漢密爾頓-曼斯為執行長。"
+    },
+    {
+      "id": "te:markets:597331",
+      "time": "2026-11-02 22:06:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Falls Further — Brent crude prices extended their decline on Monday, falling 7% to below $105 a barrel as hopes for a diplomatic resolution to the US-Iran conflict eased concerns about further supply disruptions. According to Iran’s state-run IRNA news agency, the country’s supreme leader approved the government’s pursuit of talks aimed at ending the months-long conflict that has disrupted Middle East energy supplies. This followed reports that US President Donald Trump also wanted to give diplomacy more time before considering renewed military action, telling Israeli Prime Minister Benjamin Netanyahu that he preferred negotiations. US Secretary of State Marco Rubio reiterated that Trump favoured a peaceful resolution, while Iranian officials signalled that an agreement remained possible following two days of Qatar-mediated discussions, provided commitments were implemented in practice."
+    },
+    {
+      "id": "5187881",
+      "time": "2026-11-02 22:05:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國出口商向墨西哥出售了1729740噸玉米。"
+    },
+    {
+      "id": "5187880",
+      "time": "2026-11-02 22:05:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊總統：伊朗最高領袖已賦予政府在談判領域一定的權力】當地時間11月2日，伊朗總統佩澤希齊揚表示，政府正努力透過對話解決問題，在這方面，伊朗最高領袖也賦予了政府一定的權力。佩澤希齊揚強調，敵人無法透過戰爭讓伊朗投降，“我們將堅決抵制他們的謊言和誇大其詞，因此，我們必須努力增強人民的韌性，解決他們的關切和擔憂”。佩澤希齊揚表示，必須在伊朗人民的支援與合作下，克服敵人給伊朗造成的挑戰和危機。政府正在努力透過對話解決問題，在這方面，伊朗最高領袖也賦予了政府一定的權力。（央視新聞）"
+    },
+    {
+      "id": "te:markets:597326",
+      "time": "2026-11-02 22:04:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Arabica Coffee Futures Rally — Arabica coffee futures surged above $2.9 per pound, rebounding recent one-month lows hit in the last week of October. The market remains caught between signs of limited availability in the short term and prospects for increased production in the coming months. Despite rising coffee arrivals at ICE-accredited warehouses, particularly from Brazil, certified Arabica inventories remain historically low. Total stocks stood at 225,068 bags on October 29, remaining close to the 27-year lows recorded in mid-September, while nearly 44,000 bags were awaiting classification. Meanwhile, market attention remains focused on weather conditions in top producer Brazil for the development of the next crop. Conditions have so far remained favourable, although concerns persist over the uneven distribution of rainfall across key producing regions and the potential impact of the El Niño phenomenon. A weaker Brazilian real added to the downward pressure."
+    },
+    {
+      "id": "te:markets:597325",
+      "time": "2026-11-02 22:03:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Extends Losses to Over 7% — Crude oil prices extended their decline on Monday, falling more than 7% to below $95 a barrel as hopes for a diplomatic resolution to the US-Iran conflict eased concerns about further supply disruptions. According to Iran’s state-run IRNA news agency, the country’s supreme leader approved the government’s pursuit of talks aimed at ending the months-long conflict that has disrupted Middle East energy supplies. This followed reports that US President Donald Trump also wanted to give diplomacy more time before considering renewed military action, telling Israeli Prime Minister Benjamin Netanyahu that he preferred negotiations. US Secretary of State Marco Rubio reiterated that Trump favoured a peaceful resolution, while Iranian officials signalled that an agreement remained possible following two days of Qatar-mediated discussions, provided commitments were implemented in practice."
+    },
+    {
+      "id": "5187879",
+      "time": "2026-11-02 22:03:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中科星圖推出星圖智源GEOVIS iPipe地下市政管理平臺】11月2日，中科星圖釋出訊息，中科星圖推出中科星圖智源 GEOVIS iPipe 地下市政管理平臺，是面向城市地下管網全生命週期管理打造的硬核智慧數字底座。平臺以\"一庫雙網雙平臺·N應用\"一體化架構，貫通管線設計審查、竣工測量、監理入庫、資料管理、三維管理、健康評價、查詢出圖、檔案管理八大業務環節，讓地下管線從\"各自留檔\"走向全生命週期協同管理。"
+    },
+    {
+      "id": "5187877",
+      "time": "2026-11-02 22:03:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要的 BIST-100 指數<.XU100>上漲 2%，主要銀行指數<.XBANK>上漲 4.3%。"
+    },
+    {
+      "id": "5187876",
+      "time": "2026-11-02 22:03:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "達信收購Triton保險代理公司。"
+    },
+    {
+      "id": "5187875",
+      "time": "2026-11-02 22:03:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "金佰利完成對Kenvue的收購，打造全球領先的消費健康與保健企業。"
+    },
+    {
+      "id": "5187872",
+      "time": "2026-11-02 22:01:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及內閣稱將討論政府節能措施。"
+    },
+    {
+      "id": "5187869",
+      "time": "2026-11-02 22:01:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音公司：首架 767-300BCF 改裝計劃於 2027 年第一季度啟動，預計 2027 年第二季度交付。"
+    },
+    {
+      "id": "5187868",
+      "time": "2026-11-02 22:00:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音與冰島航空租賃公司簽署協議，最多采購三架767-300波音改裝貨機。"
+    },
+    {
+      "id": "5187867",
+      "time": "2026-11-02 22:00:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行將艾伯維目標價從300.00美元上調至340.00美元。"
+    },
+    {
+      "id": "5187865",
+      "time": "2026-11-02 22:00:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡特彼勒收購Fabick CAT經銷商。"
+    },
+    {
+      "id": "5187863",
+      "time": "2026-11-02 21:58:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "烏拉爾原油油輪追蹤：10月石油流量穩定在每日223萬桶。上個月，俄羅斯三大西部港口的原油裝船量觀察值與9月相比變化不大，原因是普里莫爾斯克出口下降被黑海出口增加所抵消。"
+    },
+    {
+      "id": "5187862",
+      "time": "2026-11-02 21:57:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "丹佛斯：在過去的三週裡，我們與客戶保持著密切的對話，並繼續幫助他們應對當前局勢。"
+    },
+    {
+      "id": "te:markets:597324",
+      "time": "2026-11-02 21:56:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Marriott International earnings above expectations at 3.02 USD — Marriott International (MAR) released earnings per share at 3.02 USD, compared to market expectations of 2.86 USD."
+    },
+    {
+      "id": "em:qqyh_mlc:202611023919063253",
+      "time": "2026-11-02 21:51:48",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【沃什究竟是鷹是鴿？經濟學家：其政策重心或在美債收益率 而非通脹】美聯儲主席凱文·沃什究竟是“鷹派”還是“鴿派”，一直令華爾街難以判斷。他的言論和政策行動時常釋放出相互矛盾的訊號。"
+    },
+    {
+      "id": "te:markets:597321",
+      "time": "2026-11-02 21:51:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Lumber Remains Near 2-Year Low — Lumber futures hovered near $520 per thousand board feet, close to their lowest level in over two years, as traders weighed weakness in the US housing market against expectations of tighter supply. Housing demand remains constrained by elevated mortgage rates and higher construction costs linked to tariffs, although mortgage rates have eased for a second consecutive week. Meanwhile, Canada-US trade talks have resumed after collapsing in August, when tariffs on several wood products were introduced. Later in October, the US Commerce Department lowered antidumping and countervailing duties on Canadian softwood to 24.75% from 35.16%, although a separate 10% tariff keeps total duties at 34.75%. Persistent trade barriers continue to weigh on the market, while mill closures across North America could tighten supply. Low selling prices and subdued demand may also prompt mills to scale back production as profitability comes under pressure."
+    },
+    {
+      "id": "te:markets:597320",
+      "time": "2026-11-02 21:48:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Lower to Start November — The US dollar index traded lower around 101.6 at the start of November, extending its losing streak to a fourth consecutive session, following a modest 0.4% gain in October. Investors are bracing for an event-packed week, with the US midterm elections, the jobs report and interest rate decisions from central banks in the UK, Australia, Norway and Sweden in focus. The dollar also came under pressure from falling oil prices, amid growing hopes for a diplomatic resolution to the US-Iran conflict. Meanwhile, markets continue to price in another 25bps Fed rate hike in December, with the probability of such a move holding at around 75%. Last week, the Fed left interest rates unchanged, as widely expected. In contrast, the Bank of England, the Reserve Bank of Australia and Sweden's Riksbank are expected to raise interest rates this week."
+    },
+    {
+      "id": "te:markets:597317",
+      "time": "2026-11-02 21:38:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Italy 10Y Bond Yield Hits 5-week Low — Italy 10 Year Government Bond Yield decreased to 4.42%, the lowest since September 2026. Over the past 4 weeks, Italy 10Y Bond Yield lost 19.08 basis points, and in the last 12 months, it increased 104.05 basis points."
+    },
+    {
+      "id": "te:markets:597316",
+      "time": "2026-11-02 21:37:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Oil is down by 5% — Brent Oil decreased 5% to 107.764 USD/Bbl"
+    },
+    {
+      "id": "te:economy:597314",
+      "time": "2026-11-02 21:08:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Singapore Manufacturing Growth Slows in October — Singapore’s Manufacturing PMI eased to 51.4 in October 2026 from 51.7 in September, marking 15 consecutive months of expansion, though at a slower pace as growth in new orders, factory output, input inventories and employment moderated. The Electronics PMI, which accounts for more than one-third of manufacturing output, fell to 52.5 from 52.9, still supported by AI-related demand, with the sector’s new export orders index rising to 53.2, the highest since May 2018. Imports and order backlogs also expanded more slowly, while new exports and input prices picked up slightly. Meanwhile, finished goods inventories declined at a softer pace and supplier deliveries contracted much more slowly, indicating fewer delivery delays, although renewed Middle East shipping disruption could still constrain output."
+    },
+    {
+      "id": "em:qqyh_ozyh:202611023918992027",
+      "time": "2026-11-02 20:53:13",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行管委Kazimir稱，市場或低估所需的政策緊縮力度。"
+    },
+    {
+      "id": "te:markets:597313",
+      "time": "2026-11-02 20:46:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Public Service earnings below expectations at 1.15 USD — Public Service (PEG) released earnings per share at 1.15 USD, compared to market expectations of 1.19 USD."
+    },
+    {
+      "id": "te:markets:597310",
+      "time": "2026-11-02 20:34:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks to Kick Off November Higher — US stock futures rose at the start of November, with S&P 500 futures up 0.4%, Nasdaq 100 futures gaining 0.8% and Dow Jones futures advancing nearly 210 points, as technology stocks rebounded following Friday’s sell-off in AI-related shares. Investors are gearing up for an event-packed week, with the US midterm elections, key labour market data and a fresh batch of corporate earnings in focus. A decline in oil prices also helped boost market sentiment. Technology stocks led the premarket gains, with Nvidia rising 1.2%, Micron Technology adding 2.1%, SanDisk climbing 2.5% and Western Digital advancing 2.3%. Marvell Technology edged up 0.2% after announcing an agreement to acquire Lumentum Holdings Inc. in a deal valuing the company at an enterprise value of $115 billion. Elsewhere, Palantir gained 1.6%, while Apple shares were little changed ahead of their earnings releases later in the day."
+    },
+    {
+      "id": "te:markets:597308",
+      "time": "2026-11-02 20:24:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Higher as Oil Prices Slide — S&P/TSX futures rose 0.2% on Monday as a sharp decline in oil prices eased inflation concerns, while investors turned their attention to Tuesday’s US midterm elections and their potential implications for fiscal policy. Oil prices tumbled around 4% after Iranian and Qatari officials held a third consecutive day of talks aimed at ending the US-Israeli war on Iran. Gold, meanwhile, rebounded from one-year lows as investors assessed comments from Federal Reserve officials pointing to the possibility of further rate hikes to combat inflation. The gains followed Friday’s sharpest single-day decline in Canada’s benchmark index in nearly six months, led by technology and mining stocks. Investors are also awaiting earnings from Toromont Industries and Topaz Energy. On the trade front, US President Donald Trump said his administration had established a framework for a new trade deal with Canada, while Prime Minister Mark Carney described discussions as constructive."
+    },
+    {
+      "id": "te:markets:597305",
+      "time": "2026-11-02 20:15:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Rubber Futures at Over 1-Month Low — Rubber futures traded around 249 US cents per kilogram, their lowest since September 24, pressured by lower oil prices, which make synthetic rubber cheaper and reduce the relative appeal of natural rubber. On the supply side, heavy rainfall in key rubber-producing areas of southern Thailand added to existing concerns over disruptions to tapping activities and short-term supply. Rainfall has also affected northern Thailand, although conditions have been comparatively less severe. As the world's largest natural rubber producer, Thailand plays a crucial role in global supply, amplifying the market's sensitivity to weather-related disruptions. El Niño-related weather conditions also continued to affect cup-lump quality and production, while raw-material shortages in Indonesia added to supply constraints."
+    },
+    {
+      "id": "em:qqyh_zgyh:202611023918927156",
+      "time": "2026-11-02 20:05:41",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：股票回購增持再貸款政策由階段性安排轉為長期制度性安排 再貸款利率由1.25%降至1%】中國人民銀行、金融監管總局、中國證監會召開支援資本市場兩項工具座談會，會議提出，為維護資本市場穩定，提升市場韌性和信心，中國人民銀行、金融監管總局、中國證監會將繼續加強政策支援，進一步最佳化政策要素和實施細則，激勵金融機構用好用足政策工具。適時開展證券、基金、保險公司互換便利操作，進一步增加參與機構數量，適當降低互換費率，最佳化質押和操作模式。股票回購增持再貸款政策由階段性安排轉為長期制度性安排，再貸款利率由1.25%降至1%；金融機構堅持市場化定價原則，在再貸款利率基礎上合理加點並增加貸款投放。"
+    },
+    {
+      "id": "te:markets:597302",
+      "time": "2026-11-02 19:45:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Firms Slightly — The South African rand edged up to around 16.6 against the US dollar, recovering some ground but remaining close to its weakest level since late July. The currency found support from a weaker greenback and firmer precious metals prices, which improved South Africa's export revenue prospects. Lower oil prices also provided relief, given the country's reliance on imported crude oil and petroleum products, helping to ease inflationary pressures. However, global uncertainty and domestic economic challenges continue to cloud the outlook. Domestically, inflation quickened to 4.5% in September and is expected to accelerate further in October, driven by fuels. Inflation has remained above the South African Reserve Bank's 3% target since March. Meanwhile, Governor Lesetja Kganyago recently expressed confidence that the current monetary policy stance would bring inflation back towards the 3% target once the initial shocks triggered by the ongoing conflict in the Middle East fade."
+    },
+    {
+      "id": "te:economy:597301",
+      "time": "2026-11-02 19:44:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Leading Economic Index",
+        "Importance 2"
+      ],
+      "text": "Chile Economic Activity Returns to Growth — Chile’s IMACEC economic activity index rose 0.2% year-on-year in September 2026, after a 1.0% drop in August, marking a return to growth following two months of contraction. Goods production fell 2.0%, dragged down by a 12.1% plunge in mining, particularly copper, amid lower ore grades and a temporary suspension of operations. In contrast, other goods rose 4.0%, supported by higher electricity generation due to greater water availability, while manufacturing increased 4.5%, driven by higher output of fishery products and metal products, machinery and equipment. Trade activity rose 4.5%, with all segments posting positive results, led by wholesale and retail sales. Services increased 0.9%, led by personal services, especially health, as well as transport. The non-mining IMACEC rose 2.0%. On a seasonally adjusted monthly basis, economic activity increased 1.9%, following a downwardly revised 0.6% fall in August."
+    },
+    {
+      "id": "te:markets:597300",
+      "time": "2026-11-02 19:44:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Falls Sharply on Monday — Brent crude fell 4.5% toward $108 a barrel on Monday as hopes for a diplomatic resolution to the conflict between the US and Iran eased concerns about further supply disruptions. Reports indicated that President Donald Trump wants to give negotiations more time before considering renewed military action, telling Israeli Prime Minister Benjamin Netanyahu that he would prefer a diplomatic solution. US Secretary of State Marco Rubio also said Trump favoured resolving the conflict peacefully. Iranian officials similarly signalled that an agreement remained possible following two days of Qatar-mediated talks, provided that commitments were implemented in practice. However, the diplomatic signals come amid continued reports that both sides are preparing for a possible escalation after the November 3 US midterm elections. Separately, OPEC+ agreed to keep its existing production targets unchanged through December as the group continues to assess global supply and demand conditions."
+    },
+    {
+      "id": "te:markets:597299",
+      "time": "2026-11-02 19:43:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Falls Below $100 — Crude oil fell 4.5% toward $99 a barrel on Monday as hopes for a diplomatic resolution to the conflict between the US and Iran eased concerns about further supply disruptions. Reports indicated that President Donald Trump wants to give negotiations more time before considering renewed military action, telling Israeli Prime Minister Benjamin Netanyahu that he would prefer a diplomatic solution. US Secretary of State Marco Rubio also said Trump favoured resolving the conflict peacefully. Iranian officials similarly signalled that an agreement remained possible following two days of Qatar-mediated talks, provided that commitments were implemented in practice. However, the diplomatic signals come amid continued reports that both sides are preparing for a possible escalation after the November 3 US midterm elections. Separately, OPEC+ agreed to keep its existing production targets unchanged through December as the group continues to assess global supply and demand conditions."
+    },
+    {
+      "id": "te:economy:597292",
+      "time": "2026-11-02 19:14:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Portugal Retail Sales Barely Grow in September — Retail sales in Portugal increased 0.1% year-on-year in September 2026, following a downwardly revised 2% rise in August. It was the smallest gain in retail trade since October 2023. Sales fell for non-food goods (-0.8% vs 3.5% in August), due to declines in clothing and footwear (-4.3% vs 5.4%) and computers and telecommunications equipment (-4.4% vs 3.2%). On the other hand, sales rebounded for food, drinks and tobacco (1.4% vs -0.3%). Compared to the previous month, retail sales decreased 1%, extending a 1% fall in August."
+    },
+    {
+      "id": "te:economy:597289",
+      "time": "2026-11-02 19:10:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Industrial Production",
+        "Importance 0"
+      ],
+      "text": "Portugal Industrial Activity Contracts for 5th Month — Portugal’s industrial production fell 2.7% year-on-year in September 2026, marking the fifth consecutive month of contraction, although the pace of decline eased from a downwardly revised 4.1% drop in August. Energy output declined further, falling 6% after a 4.9% decrease in August and extending its contraction to a seventh consecutive month. Capital-goods production dropped 6.3%, easing from a 12.2% plunge. Intermediate-goods output fell 1.1%, reversing a 0.7% increase. Consumer goods production edged down 0.3% after a 3.4% drop, as durable-goods output rebounded 3.6% after a 7.1% decline, while non-durable goods declined 1%, easing from 2.7%. On a monthly basis, industrial production rebounded 2.4%, reversing a 2.2% drop in August."
+    },
+    {
+      "id": "te:economy:597277",
+      "time": "2026-11-02 18:51:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Pakistan",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Pakistan Inflation Rate Eases for 3rd Month — Pakistan’s annual inflation rate eased to 9.6% in October 2026 from 10.3% in September, marking a third consecutive monthly decline. Still, inflation remained well above the State Bank of Pakistan’s 5%-7% target range, as elevated oil prices continued to cloud the outlook amid the country’s heavy reliance on imported energy. Price pressures moderated for housing and utilities (11.03% vs. 12.39%), clothing and footwear (9.19% vs 8.98%), communication (13.41% vs 13.54%) and restaurants and hotels (6% vs 6.1%). Food inflation also eased (7.74% vs. 8.2%), while perishable food prices fell 2.35%, following a sharp 11.78% increase in the previous month. In contrast, inflation accelerated for non-perishable food items (9.55% vs. 7.64%), keeping food inflation elevated. Price growth in transports quickened further to 28.61% from 27.43%. On a monthly basis, consumer prices rose 1.1%, easing from a 1.3% increase in September."
+    },
+    {
+      "id": "te:economy:597276",
+      "time": "2026-11-02 18:48:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Pakistan",
+        "Producer Prices Change",
+        "Importance 0"
+      ],
+      "text": "Pakistan Wholesale Inflation at 30-Month High — Wholesale price inflation in Pakistan rose to 13.79% year-on-year in October 2026, marking the strongest reading since April 2024, from 13.33% in the previous month. Costs increased for other transportable goods (38.64% vs 34.31% in September) and food, beverages, tobacco, textiles, and leather products (6.85% vs 6.56%), driven largely by stronger inflation for food, beverages, and tobacco (8.43% vs 8.04%), while price increases for textiles and apparel (2.46%) and leather products (20.64%) remained steady. Inflation also edged higher for metal products, machinery, and equipment (5.24% vs 5.14%). Meanwhile, prices slowed for ores, minerals, electricity, gas, and water (4.43% vs 7.28%) and agriculture, forestry, and fishery (6.38% vs 7.29%). On a monthly basis, wholesale prices rose by 0.9% in October, after a 1.9% increase in September."
+    },
+    {
+      "id": "te:economy:597272",
+      "time": "2026-11-02 18:25:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Cyprus",
+        "Retail Sales YoY",
+        "Importance 0"
+      ],
+      "text": "Cyprus Retail Sales Growth Accelerates in September — Retail sales in Cyprus rose 7.7% year-on-year in September 2026, accelerating from 7.0% in August. Growth strengthened for information and communication equipment (27.5% vs 24.8%), clothing and footwear (22.5% vs 16.7%), other household equipment (14.2% vs 12.0%), and pharmaceuticals, orthopedic goods and cosmetics (7.8% vs 7.1%). Sales of food, beverages and tobacco in specialised stores also rebounded (1.0% vs -1.0%), while declines eased for automotive fuel (-0.4% vs -1.5%) and retail sales not in stores (-1.5% vs -7.0%). In contrast, growth slowed for food, beverages and tobacco in non-specialised stores (4.9% vs 5.1%) and cultural and recreation goods (9.6% vs 12.7%), while sales of flowers, plants, watches, jewellery, optical goods and second-hand goods turned negative (-1.4% vs 1.3%). From January to September, retail sales increased 6.6% from the same period a year earlier."
+    },
+    {
+      "id": "te:economy:597268",
+      "time": "2026-11-02 18:03:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Peru",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Peru Inflation Rate Climbs to Highest Since 2023 — The annual inflation rate in Peru's capital, Lima, rose to 5.25% in October 2026, its highest level since August 2023, up from 4.55% in the prior month.This marks the eighth consecutive month above the central bank's 1%-3% target range, as higher global fuel prices and adverse weather linked to the El Niño phenomenon continued to impact transport, agriculture and fishing. Food inflation rose to its highest level since October 2023. Additional upward pressure came from restaurants and hotels (4.49% vs. 4.35%), transport (15.75% vs. 15.1%), housing and utilities (4.04% vs. 3.39%), education (3.54% vs. 3.49%), furnishings (3.62% vs. 3.39%), clothing and footwear (1.9% vs. 1.88%), and recreation and culture (2.41% vs. 2.3%). In contrast, communication costs fell further, declining 4.61% after a 4.3% drop. On a monthly basis, consumer prices rose 0.57%, compared with a 0.12% increase in September."
+    },
+    {
+      "id": "em:qqyh_zgyh:202611023918829619",
+      "time": "2026-11-02 17:55:12",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【業內人士：互換便利操作穩步開展 將為資本市場持續帶來“活水”】中國人民銀行11月2日釋出公告稱，將於11月3日開展證券、基金、保險公司互換便利（SFISF）操作，互換期限1年，可視情展期。這是自工具創設以來第三次開展操作。在業內人士看來，互換便利操作穩步開展，將更加有利於盤活資產，統籌安排股市、債市等不同市場間的流動性，為資本市場持續帶來“活水”，增強投資行為長期性和市場內在穩定性。"
+    },
+    {
+      "id": "te:economy:597263",
+      "time": "2026-11-02 17:47:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "UK Manufacturing Growth Picks Up to Highest Since May — The S&P Global UK Manufacturing PMI rose to 52.8 in October 2026 from 51.9 in September, matching forecasts and reaching its highest level since May. Output expanded for a seventh consecutive month and at its fastest pace in just over two years, supported by stronger new business and improved market conditions. New orders also grew at their fastest pace since early in the first quarter. However, stronger activity failed to translate into job creation, with employment unchanged after six consecutive months of growth. Meanwhile, supply chains remained under pressure, as input cost inflation accelerated and vendor lead times lengthened to one of their greatest extents in four years. Output prices rose at their fastest pace in three months. Business confidence climbed to an eight-month high, supported by planned expansions, market recovery prospects, investment in capital equipment and AI, new product launches and stronger order pipelines."
+    },
+    {
+      "id": "te:economy:597260",
+      "time": "2026-11-02 17:35:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kazakhstan",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Kazakhstan Inflation Rate Hits 21-Month Low — The annual inflation rate in Kazakhstan eased to 9.2% in October 2026 from 9.3% in September, marking its lowest level since January 2025. The moderation was primarily driven by slower price growth in the food and non-food categories. Food inflation eased to 7.6% from 8.5% in September, reflecting softer price increases for meat and poultry (8.6% vs. 10.2%) and sausages and meat products (11.2% vs. 13.2%). Similarly, non-food inflation moderated to 10.4% from 11.0%, driven by slower price growth in petrol (8.6% vs. 10.1%) and personal goods (11.3% vs. 11.9%). In contrast, inflation in paid services accelerated to 10.3% in October from 8.9% in the previous month, partly offsetting the overall moderation in consumer price growth, which was largely driven by higher housing and utility costs (11.2% vs 6.3%). On a monthly basis, consumer prices edged down by 0.5% in October from 0.6% in September, marking the weakest monthly increase since October 2025."
+    },
+    {
+      "id": "te:economy:597257",
+      "time": "2026-11-02 17:31:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "South Africa Factory Activity Remains Under Pressure — South Africa’s seasonally adjusted Absa Purchasing Managers’ Index (PMI) improved for a second successive month, rising to 49.6 in October 2026 from the revised 48.7 in September. While manufacturing activity continued to contract for a fifth month, the latest reading pointed to the slowest pace of deterioration during this period. All five sub-components improved, although overall business conditions remained subdued. The business activity index edged up to 48.6 points in October, following a stronger increase in September. The new sales orders index advanced for a second consecutive month to 46.8 points, accompanied by a further improvement in export sales, with the index approaching the neutral mark. The purchasing prices index climbed to 73.7 points from 71.1 in September, likely reflecting a sharp rise in fuel prices, alongside further weakness in the rand. The index tracking expected business conditions in six months’ time fell to 51.7 points in October from 55.3 in September."
+    },
+    {
+      "id": "te:economy:597255",
+      "time": "2026-11-02 17:28:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "CoreLogic Dwelling Prices MoM",
+        "Importance 0"
+      ],
+      "text": "Australian Home Prices Fall 1.2% in October — Australia’s Cotality Home Value Index declined 1.2% month-on-month in October 2026, extending the downturn and leaving home values 6.7% below their March 2026 record high. The decline spread across more capital cities and regional markets, as affordability constraints, higher interest rates, elevated living costs and weaker consumer sentiment continued to erode purchasing power and dampen buyer demand. Among the major cities, Brisbane and Perth recorded the steepest monthly declines, with prices falling 2.0% and 1.7%, respectively. However, the correction remained more pronounced in Sydney, where values dropped a further 1.6% in October, leaving them 9.4% lower year-on-year. Melbourne also continued to experience significant annual declines, with prices down 7.6% over the year, despite a milder monthly fall of 0.8%. Adelaide remained relatively resilient compared with other major markets. Although home values declined 1.2% in October, they remained 3.7% higher than a year earlier."
+    },
     {
       "id": "5187197",
       "time": "2026-11-02 17:26:28",
