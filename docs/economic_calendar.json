@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02 16:24:01",
+  "updated": "2026-11-02 16:27:47",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -1202,9 +1202,9 @@
               "title": "西班牙10月製造業PMI",
               "importance": 1,
               "previous": "51",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "50.8",
+              "actual": "52.2",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178741",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -26322,9 +26322,9 @@
       "title": "西班牙10月製造業PMI",
       "importance": 1,
       "previous": "51",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "50.8",
+      "actual": "52.2",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178741",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
