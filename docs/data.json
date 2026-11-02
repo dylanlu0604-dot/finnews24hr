@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03 02:30:59",
-  "count": 12541,
+  "updated": "2026-11-03 02:34:48",
+  "count": 12539,
   "items": [
     {
       "id": "te:markets:597400",
@@ -115006,32 +115006,6 @@
         "其他"
       ],
       "text": "OpenAI：根據防範框架，我們將GPT-6.1 TERRA在網路安全方面列為關鍵級別，在生物和化學能力方面列為高階別。"
-    },
-    {
-      "id": "mkt:01a1797b-95bb-7ee0-a987-c0b81917238f",
-      "time": "2026-10-27 02:31:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Night session front contracts close】As of 02:30, Shanghai gold front contract rose 0.40% to 865 yuan/gram; Shanghai silver front contract rose 0.31% to 13,091 yuan/kg; SC crude front contract fell 0.87% to 733 yuan/barrel."
-    },
-    {
-      "id": "mkt:01a1797b-728f-7ee0-a987-bfb0ee0fe3e7",
-      "time": "2026-10-27 02:31:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "U.S. crude futures settled at $101.76/bl, down $1.51, or 1.46%."
     }
   ]
 }
