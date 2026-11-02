@@ -1,7 +1,156 @@
 {
   "date": "2026-11-02",
-  "count": 578,
+  "count": 595,
   "items": [
+    {
+      "id": "mkt:01a19a05-cda0-7ee0-aa24-ec35e2551783",
+      "time": "2026-11-02 10:10:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share benchmarks staged a brief intraday surge: Shanghai Composite up 0.7%, Shenzhen Composite Index rising over 1%, ChiNext Index up more than 1.5%."
+    },
+    {
+      "id": "te:markets:597075",
+      "time": "2026-11-02 10:10:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CNOOC Shares Hit 6-week High — CNOOC shares increased to 24.94 HKD, the highest since September 2026. Over the past 4 weeks, CNOOC gained 5.98%, and in the last 12 months, it increased 21.31%."
+    },
+    {
+      "id": "5186415",
+      "time": "2026-11-02 10:10:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【上證50股指期貨(IH)主力合約日內漲超1%】上證50股指期貨(IH)主力合約日內漲超1%，現報2733.4點。"
+    },
+    {
+      "id": "5186414",
+      "time": "2026-11-02 10:10:13",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【國金證券：油運快遞高增、航空承壓 前三季度板塊淨利潤+2.3% 】國金證券釋出研報稱，建議關注航運、空運、快遞、航空、紅利板塊。(1)航運：地緣擾動導致油運運價暴漲，西芒杜加速放量推動幹散貨需求，出口旺盛引發集運外貿景氣，全年利潤有望大幅上修，持續推薦;(2)快遞：反內卷制度化、常態化，價格持續修復，件量增速換檔，行業資本開支過峰後，股東回報能力將迅速提升;(3)航空/空運：航空貨運受AI等高價值貨物帶動需求，後續景氣度有望維持，推薦空運板塊;航空客運方面，受飛機製造商及上游零部件供應商產能制約，未來航空業供給增速將放緩，油價成短期制約板塊利潤因素，但該行認為該因素已經充分定價，看好後續供需改善，推薦航空板塊。(4)紅利：當前主要公路、鐵路、港口公司股息率多在3%-5%，鐵路客貨運量保持增長、公路港口維持穩健，推薦紅利板塊。"
+    },
+    {
+      "id": "5186413",
+      "time": "2026-11-02 10:09:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳地鐵客運強度連續33個月內地城市居首】今年暑運，深圳地鐵日均客運量達1009.6萬人次，歷史首次突破千萬大關，兩個月累計運送乘客6.26億人次，創歷年同期新高。截至9月21日，單日客流年內已累計86次突破千萬人次、18次突破1100萬人次，全面超越歷年水平。 前三季度（截至9月21日），深圳地鐵總客運量24.77億人次，同比增長5.2%。其中，8月客運量、進站量首次登上全國第一，客運強度連續33個月位居內地城市第一，線網密度、公交分擔率、智慧出行指數長期領跑全國。 （深圳釋出）"
+    },
+    {
+      "id": "mkt:01a19a04-fdec-7ee0-aa24-e2eeab427d2f",
+      "time": "2026-11-02 10:09:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's National Cultural Heritage Administration says 15th Five-Year Plan will continue national archaeology talent revitalization program】At a press briefing today unveiling the Archaeological Work 15th Five-Year Plan, China's National Cultural Heritage Administration said the plan will stress innovation and continue a nationwide archaeology talent revitalization program and a special scheme for urgently needed high‑level archaeology talent. It will expand training for new hires and excavation project leaders, refine field‑archaeology teaching and evaluation standards, and strengthen the archaeology talent base."
+    },
+    {
+      "id": "5186412",
+      "time": "2026-11-02 10:09:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【考古成果走出“庫房”！建設城市考古“一張圖”】今天（2日），國家文物局召開新聞釋出會，介紹《考古工作“十五五”規劃》有關情況。釋出會上介紹，“十五五”期間，我國將推動考古成果轉化傳播，推進考古報告出版、考古檔案建設，落實出土文物移交常態化。全面落實“先考古、後出讓”制度，推進地下文物埋藏區納入國土空間規劃、地下文物埋藏區劃定、城市考古“一張圖”建設。統籌遺址博物館、考古遺址公園建設，規範開展公眾考古、考古研學。（央視新聞）"
+    },
+    {
+      "id": "5186411",
+      "time": "2026-11-02 10:09:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.00%，現報10942.425點；上證指數漲0.61%，現報3620.822點；創業板指漲1.25%，現報2443.865點。"
+    },
+    {
+      "id": "mkt:01a19a04-a1a2-7ee0-aa24-dff29d29d7d3",
+      "time": "2026-11-02 10:09:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's benchmark stock index fell as much as 1%."
+    },
+    {
+      "id": "5186410",
+      "time": "2026-11-02 10:08:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家文物局：“十五五”將持續實施全國考古人才振興計劃】今天（2日），國家文物局召開新聞釋出會，介紹《考古工作“十五五”規劃》有關情況。釋出會上介紹，“十五五”時期，我國將強化創新驅動，持續實施全國考古人才振興計劃、考古學國家急需高層次人才專項，加大新入職人員、考古發掘專案負責人培訓力度，完善田野考古教學體系與評價標準，夯實考古人才根基。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a19a04-3677-7ee0-aa24-d18653839b91",
+      "time": "2026-11-02 10:08:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China to advance digital-intelligent archaeology and interdisciplinary integration during 15th Five-Year Plan】At a press briefing on the 2nd, the State Administration of Cultural Heritage said that during the 15th Five-Year Plan period China will prioritise digital/intelligent archaeology and multidisciplinary collaboration with natural and social sciences, strengthen archaeological science laboratories, and accelerate R&D and application of key archaeological technologies. The plan also calls for building key archaeology institutions, implementing a national archaeology talent revitalisation programme, supporting university field-training bases, promoting industry‑academia‑research joint training, and cultivating frontier interdisciplinary disciplines to improve the archaeology discipline development framework."
+    },
+    {
+      "id": "5186409",
+      "time": "2026-11-02 10:08:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【考古國際合作再升級！培育5~10箇中外聯合考古示範專案】今天（2日），國家文物局召開新聞釋出會，介紹《考古工作“十五五”規劃》有關情況。釋出會上介紹，中外聯合考古行動以“一帶一路”共建國家為重點，培育5~10箇中外聯合考古示範專案。加強組織統籌，建立健全中外聯合考古工作管理制度。科學佈局埃及、希臘、中亞等海外專案，有序推進海外考古科研平臺建設，提升專業設施保障水平。充分發揮亞洲文化遺產保護聯盟作用，持續開展考古研究、文物保護、人才培養等工作。"
+    },
+    {
+      "id": "5186408",
+      "time": "2026-11-02 10:08:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《考古工作“十五五”規劃》印發！來看中國考古事業新藍圖】今天（2日），國家文物局召開新聞釋出會，介紹《考古工作“十五五”規劃》有關情況，為未來五年考古工作劃定發展藍圖。釋出會上介紹，“十四五”期間，21個“考古中國”重大專案推進，1284個主動性考古專案落地，31個省份落實“先考古、後出讓”制度，聯合考古拓展至30多個國家和地區，65家國家考古遺址公園掛牌，考古正從“小眾專業”走向“大眾共享”。《考古工作“十五五”規劃》重點從五方面發力：推進重大課題攻關、拓展國際化佈局、深化科技賦能、強化創新驅動、促進考古成果轉化，向著建設中國特色、中國風格、中國氣派的考古學穩步邁進。（央視新聞）"
+    },
+    {
+      "id": "5186407",
+      "time": "2026-11-02 10:08:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科技賦能考古！“十五五”期間將推進數智考古、多學科交叉融合】今天（2日），國家文物局召開新聞釋出會，介紹《考古工作“十五五”規劃》有關情況。釋出會上介紹，“十五五”期間，我國將促進考古學與自然科學、人文社會科學等多學科合作，重視考古科學實驗室建設，加強考古關鍵技術研發與應用，推進數智考古研究。推動重點考古機構建設，實施全國考古人才振興計劃。支援高校田野考古教學實習基地建設，推進“產學研”聯合培養，培育前沿交叉學科，完善考古學科發展格局。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a19a03-8f0d-7ee0-aa24-c9a04eb88d44",
+      "time": "2026-11-02 10:08:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【US pushes plan to resume Russia-to-Europe gas flows via Ukraine】The Wall Street Journal reports U.S., European and Ukrainian officials say the United States is backing a proposal to quickly resume Russian pipeline gas deliveries to Europe via Ukraine as part of talks to secure an energy “ceasefire” ahead of winter. U.S. envoys Jared Kushner and Bill Witkoff raised the idea during September visits to Moscow and Kyiv; the proposal would route Russian gas sales through a U.S. intermediary to circumvent EU sanctions and could create commercial opportunities for U.S. investors. Officials say proceeds would be placed in escrow in a third-party jurisdiction to prevent the Kremlin from diverting funds to the war, though the plan would run up against EU law requiring a phase-out of Russian gas purchases by end‑2027."
+    },
+    {
+      "id": "mkt:01a19a03-69ba-7ee0-aa24-c1cb26cc42fc",
+      "time": "2026-11-02 10:07:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, Vietnam to hold \"Cooperation-2026\" counterterror drill】China's People's Armed Police and Vietnam's Mobile Police will hold the joint \"Cooperation-2026\" counterterrorism exercise in Hanoi in early to mid-November. Drills will focus on bomb search-and-disposal (EOD), ground mobility operations and high-rise building breach tactics. This is the second exercise in the series, aimed at deepening bilateral counterterror cooperation and improving joint operational capability."
+    },
+    {
+      "id": "5186406",
+      "time": "2026-11-02 10:07:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "雅加達股市下跌1.5%。"
+    },
     {
       "id": "5186405",
       "time": "2026-11-02 10:06:31",
