@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-03 02:34:48",
-  "count": 12539,
+  "updated": "2026-11-03 02:38:33",
+  "count": 12538,
   "items": [
+    {
+      "id": "5188178",
+      "time": "2026-11-03 02:34:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我們希望與己方盟友，以及任何不支援恐怖主義、願意加入的政黨組建廣泛聯合政府。"
+    },
     {
       "id": "te:markets:597400",
       "time": "2026-11-03 02:30:06",
@@ -114990,22 +114998,6 @@
         "AAPL.O"
       ],
       "text": "Apple (AAPL.O): Siri AI service is expanding to more users worldwide and will add support for French, Japanese, Korean, Portuguese and Spanish."
-    },
-    {
-      "id": "mkt:01a17981-5e5c-7ee0-a987-c89d76fa8223",
-      "time": "2026-10-27 02:38:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FHFA Director Pulte said market participants using modern credit scoring can help lower risk and bolster safety and soundness."
-    },
-    {
-      "id": "5170874",
-      "time": "2026-10-27 02:35:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：根據防範框架，我們將GPT-6.1 TERRA在網路安全方面列為關鍵級別，在生物和化學能力方面列為高階別。"
     }
   ]
 }
