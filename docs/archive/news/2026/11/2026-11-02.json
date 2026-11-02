@@ -1,7 +1,68 @@
 {
   "date": "2026-11-02",
-  "count": 595,
+  "count": 601,
   "items": [
+    {
+      "id": "mkt:01a19a08-3256-7ee0-aa24-f8924780f195",
+      "time": "2026-11-02 10:13:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share large financials extended intraday gains, led by brokers and internet finance. Yinzhijie hit the daily price limit; earlier Guojin Securities, Pacific Securities and Hundsun Technologies also hit limit-up. Huaxin Yongdao, Tianyang Technology, Huijin Technology, Yingshisheng and Zhinanzhen all rose more than 10%."
+    },
+    {
+      "id": "5186418",
+      "time": "2026-11-02 10:13:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指快速拉昇，盤中漲近2%，此前一度翻綠。"
+    },
+    {
+      "id": "te:markets:597076",
+      "time": "2026-11-02 10:12:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Start November Near 2025 Lows — The Shanghai Composite rose 0.4% to 3,613 on the first trading day of November, while the Shenzhen Component fell 0.1% to 10,819, with both benchmarks hovering near their lowest levels in more than a year as weak official PMI data underscored persistent economic headwinds. Manufacturing PMI fell to a three-month low of 49.3 in October 2026 from 50.1 in September, as domestic demand weakened following the Golden Week boost. Non-manufacturing PMI slipped to 49.7 from 50.2, signaling a contraction in services activity for the sixth time this year. Meanwhile, Chinese financial regulators reportedly met with banks and securities firms on Monday to discuss further measures to support the stock market. These moves would add to stabilization efforts launched last month, which have yet to reverse the downturn amid weak domestic demand and concerns over AI earnings. Agricultural Bank of China (-1.1%) and Bank of China (-1.0%) fell, while CATL (1.7%) and Wuliangye Yibin (3.4%) gained."
+    },
+    {
+      "id": "5186417",
+      "time": "2026-11-02 10:12:20",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【大金融板塊漲勢擴大 銀之傑等多股漲停】大金融板塊日內持續走高，證券、互聯金融方向持續領漲，銀之傑20cm漲停，此前國金證券、太平洋、恒生電子漲停，華信永道、天陽科技、匯金科技、贏時勝、指南針均漲超10%。"
+    },
+    {
+      "id": "5186416",
+      "time": "2026-11-02 10:11:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【上證50、滬深300股指期貨主力合約日內漲超1%】上證50股指期貨(IH)主力合約日內漲超1%，現報2733.4點。滬深300股指期貨(IF)主力合約日內漲超1%，現報3980.8點。"
+    },
+    {
+      "id": "mkt:01a19a06-6537-7ee0-aa24-f7e8908ccb53",
+      "time": "2026-11-02 10:11:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's minister of economic and fiscal policy Kiuchi said the authorities' cautious stance on tackling deflation remains unchanged and they will carefully assess the supply-demand gap."
+    },
     {
       "id": "mkt:01a19a05-cda0-7ee0-aa24-ec35e2551783",
       "time": "2026-11-02 10:10:33",

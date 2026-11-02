@@ -1,7 +1,68 @@
 {
-  "updated": "2026-11-02 10:11:14",
-  "count": 13012,
+  "updated": "2026-11-02 10:15:00",
+  "count": 13008,
   "items": [
+    {
+      "id": "mkt:01a19a08-3256-7ee0-aa24-f8924780f195",
+      "time": "2026-11-02 10:13:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share large financials extended intraday gains, led by brokers and internet finance. Yinzhijie hit the daily price limit; earlier Guojin Securities, Pacific Securities and Hundsun Technologies also hit limit-up. Huaxin Yongdao, Tianyang Technology, Huijin Technology, Yingshisheng and Zhinanzhen all rose more than 10%."
+    },
+    {
+      "id": "5186418",
+      "time": "2026-11-02 10:13:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指快速拉昇，盤中漲近2%，此前一度翻綠。"
+    },
+    {
+      "id": "te:markets:597076",
+      "time": "2026-11-02 10:12:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Start November Near 2025 Lows — The Shanghai Composite rose 0.4% to 3,613 on the first trading day of November, while the Shenzhen Component fell 0.1% to 10,819, with both benchmarks hovering near their lowest levels in more than a year as weak official PMI data underscored persistent economic headwinds. Manufacturing PMI fell to a three-month low of 49.3 in October 2026 from 50.1 in September, as domestic demand weakened following the Golden Week boost. Non-manufacturing PMI slipped to 49.7 from 50.2, signaling a contraction in services activity for the sixth time this year. Meanwhile, Chinese financial regulators reportedly met with banks and securities firms on Monday to discuss further measures to support the stock market. These moves would add to stabilization efforts launched last month, which have yet to reverse the downturn amid weak domestic demand and concerns over AI earnings. Agricultural Bank of China (-1.1%) and Bank of China (-1.0%) fell, while CATL (1.7%) and Wuliangye Yibin (3.4%) gained."
+    },
+    {
+      "id": "5186417",
+      "time": "2026-11-02 10:12:20",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【大金融板塊漲勢擴大 銀之傑等多股漲停】大金融板塊日內持續走高，證券、互聯金融方向持續領漲，銀之傑20cm漲停，此前國金證券、太平洋、恒生電子漲停，華信永道、天陽科技、匯金科技、贏時勝、指南針均漲超10%。"
+    },
+    {
+      "id": "5186416",
+      "time": "2026-11-02 10:11:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【上證50、滬深300股指期貨主力合約日內漲超1%】上證50股指期貨(IH)主力合約日內漲超1%，現報2733.4點。滬深300股指期貨(IF)主力合約日內漲超1%，現報3980.8點。"
+    },
+    {
+      "id": "mkt:01a19a06-6537-7ee0-aa24-f7e8908ccb53",
+      "time": "2026-11-02 10:11:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's minister of economic and fiscal policy Kiuchi said the authorities' cautious stance on tackling deflation remains unchanged and they will carefully assess the supply-demand gap."
+    },
     {
       "id": "mkt:01a19a05-cda0-7ee0-aa24-ec35e2551783",
       "time": "2026-11-02 10:10:33",
@@ -118821,92 +118882,6 @@
         "Importance 1"
       ],
       "text": "Asia FX Updates: Indian Rupee Drops by 0.33% — Top currency loser is Indian Rupee (-0.33%). Gains are led by Japanese Yen (0.12%) and South Korean Won (0.11%). Meanwhile Chinese Yuan was little changed."
-    },
-    {
-      "id": "5168798",
-      "time": "2026-10-26 10:14:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "港股“三桶油”持續走高，中國石油股份(00857.HK)漲超5%，中國石油化工股份(00386.HK)漲超4%，中國海洋石油(00883.HK)漲超3%。"
-    },
-    {
-      "id": "5168797",
-      "time": "2026-10-26 10:14:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：將針對網路攻擊提供必要的支援和應對措施。"
-    },
-    {
-      "id": "5168796",
-      "time": "2026-10-26 10:12:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【休閒食品概念持續走強，良品鋪子、青島食品雙雙漲停】休閒食品概念持續走強，良品鋪子、青島食品雙雙漲停，元祖股份、甘源食品、鹽津鋪子、南僑食品、洽洽食品、有友食品等跟漲。"
-    },
-    {
-      "id": "5168795",
-      "time": "2026-10-26 10:12:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本官員：網路安全會議將於日本標準時間下午6點舉行。"
-    },
-    {
-      "id": "5168794",
-      "time": "2026-10-26 10:12:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴西總統決選敗給盧拉 博索納羅要求宣佈投票無效】弗拉維奧·博索納羅在巴西總統選舉決選中敗給現任總統路易斯·伊納西奧·盧拉·達席爾瓦後，要求宣佈決選無效。這場投票過程混亂，伴有壓制選民投票的指控，投票時間也在最後一刻被延長。 博索納羅指責最高法院在投票過程中改變規則，他提出的要求將令這場本已高度緊張、對陣雙方意識形態截然相反的選舉進一步陷入混亂。巴西選舉通常有條不紊，其電子投票系統素以快速、可靠著稱，但週日下午卻陷入混亂。盧拉的競選團隊稱多個關鍵州存在公共交通問題，要求延長投票時間，其中包括這位左翼領導人在東北部的重要票倉巴伊亞州，以及全國最大票倉聖保羅州。"
-    },
-    {
-      "id": "5168793",
-      "time": "2026-10-26 10:11:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌2%，現報6526.00點。"
-    },
-    {
-      "id": "5168792",
-      "time": "2026-10-26 10:11:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌2%，現報6607.00點。"
-    },
-    {
-      "id": "5168791",
-      "time": "2026-10-26 10:11:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【出口民調顯示保加利亞總統選舉將進入第二輪】保加利亞國家電視臺25日釋出的出口民調顯示，現任總統約託娃在當天舉行的總統選舉投票中領先，但得票未過半，該國總統選舉將進入第二輪投票。 民調顯示，約託娃獲得超過35%的有效選票，前看守政府總理安德烈·古羅夫得票率約32%，排名第二。選舉投票率約為22%。 保加利亞中央選舉委員會網站顯示，正式選舉結果最遲於27日晚間釋出。第二輪投票預計於11月1日舉行。 保加利亞是議會制共和國。總統由選民直選產生，任期5年，可連任一次。(新華社)"
-    },
-    {
-      "id": "5168790",
-      "time": "2026-10-26 10:11:30",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金公司：A股估值回落至歷史均值以下 具備較好投資吸引力】10月26日，中金公司釋出研報稱，今年下半年中國資本市場回撥幅度較大，滬深300/創業板指/恒生指數/恒生科技自年內高位以來分別累計回撥20.2%/41.1%/18.9%/35.8%，年內收益均已轉負，部分龍頭企業已回撥至接近“924”水平。我們認為經歷明顯調整後，A股整體估值已經回落至歷史均值以下，橫向/縱向比較均已具備較好投資吸引力。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202610263907708898",
-      "time": "2026-10-26 10:11:26",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【前三季度廣州地區生產總值24851億元，同比增長5.7%】10月26日，廣州市統計局公佈2026年前三季度廣州市經濟執行情況。根據廣東省地區生產總值統一核算結果，前三季度，廣州實現地區生產總值24851億元，按不變價格計算，同比增長5.7%。其中，第一產業增加值增長2.4%；第二產業增加值增長5.1%；第三產業增加值增長5.9%。"
     }
   ]
 }
