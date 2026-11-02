@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-02 09:51:50",
-  "count": 12993,
+  "updated": "2026-11-02 09:55:44",
+  "count": 12989,
   "items": [
+    {
+      "id": "te:economy:597072",
+      "time": "2026-11-02 09:54:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Manufacturing PMI",
+        "Importance 3"
+      ],
+      "text": "China Manufacturing PMI Beats Estimates — The RatingDog China Manufacturing PMI edged down to 52.0 in October 2026 from September’s five-month high of 52.1, but surpassed forecasts of 51.6. It was the eleventh straight month of expansion and signalled the longest streak of improving manufacturing sector health since mid-2021. Output expanded at a sharp pace, the fastest in six months, supported by another solid increase in new work inflows. Demand growth was driven by the launch of new products, with overseas demand also rising, although growth eased from September."
+    },
+    {
+      "id": "mkt:01a199f6-c5bc-7ee0-aa24-8331e1bf9ff2",
+      "time": "2026-11-02 09:54:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "600519.SS"
+      ],
+      "text": "A-share liquor heavyweight Kweichow Moutai rose more than 3% intraday, with the share price back above 1,400 yuan for the first time since April."
+    },
     {
       "id": "mkt:01a199f3-f706-7ee0-aa24-7a78cb6d9ca6",
       "time": "2026-11-02 09:51:04",
@@ -118667,58 +118691,6 @@
         "國際"
       ],
       "text": "【巴西市場或將迎來大跌 盧拉意外勝選料顛覆“博索納羅交易”】交易員為巴西市場週一大幅下跌做準備，此前總統大選上演驚人逆轉，盧拉擊敗許多投資者青睞的右翼候選人弗拉維奧·博索納羅。早期跡象表明市場或將出現大跌：追蹤巴西股票的ETF在日本市場一度暴跌16%，創下2020年以來最大單日跌幅，貨幣衍生品也受到衝擊。CME交易所貨幣衍生品合約顯示雷亞爾在1美元兌5.55雷亞爾水平。雖然這並非直接反映實際價格，但這一走勢意味著雷亞爾較上週五收盤價下跌超過10%。聖保羅的交易員表示，預計週一上午的拋售將非常激烈，跌幅將非常大，可能會觸發熔斷機制。經紀公司Monte Bravo此前估計，如果盧拉勝選，基準股指Ibovespa在開盤第一個小時內可能暴跌11%。"
-    },
-    {
-      "id": "5168761",
-      "time": "2026-10-26 09:55:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼表示，富時羅素10月的評估結果仍然有效。"
-    },
-    {
-      "id": "5168760",
-      "time": "2026-10-26 09:54:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【GDP料溫和增長 債市壓力下歐洲央行或按兵不動】接下來一週，歐元區經濟資料密集釋出，市場將有大量資訊需要消化。主權債務市場壓力不斷加劇，加之通脹攀升，將使歐洲央行10月28日至29日的政策會議面臨尤為嚴峻的背景。對歐洲央行而言，10月份維持利率不變是第一道防線。"
-    },
-    {
-      "id": "5168759",
-      "time": "2026-10-26 09:54:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量277億元。"
-    },
-    {
-      "id": "5168758",
-      "time": "2026-10-26 09:52:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏總統稱防空系統供應問題仍未解決】當地時間10月25日，烏克蘭總統澤連斯基在接受烏克蘭電視臺採訪時表示，烏美奧斯陸會談期間，烏方面臨三大難題：防空系統短缺、“星鏈”及其軍用版本“星盾”服務受限、美方對烏情報共享受限。目前後兩項問題已得到解決，但防空系統供應問題仍未妥善解決。澤連斯基稱，美方“愛國者”防空系統攔截彈的交付速度偏慢，難以滿足烏方緊迫的防空需求。（CCTV國際時訊）"
-    },
-    {
-      "id": "5168757",
-      "time": "2026-10-26 09:52:29",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【多隻黃金股ETF跌超5%】多隻黃金股ETF跌超5%，赤峰黃金跌超9%，紫金礦業、中金黃金等跟跌。倫敦金現跌破4000美元，滬金逼近850元大關。"
-    },
-    {
-      "id": "5168756",
-      "time": "2026-10-26 09:52:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
     }
   ]
 }

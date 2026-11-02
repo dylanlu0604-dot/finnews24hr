@@ -1,7 +1,31 @@
 {
   "date": "2026-11-02",
-  "count": 539,
+  "count": 541,
   "items": [
+    {
+      "id": "te:economy:597072",
+      "time": "2026-11-02 09:54:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Manufacturing PMI",
+        "Importance 3"
+      ],
+      "text": "China Manufacturing PMI Beats Estimates — The RatingDog China Manufacturing PMI edged down to 52.0 in October 2026 from September’s five-month high of 52.1, but surpassed forecasts of 51.6. It was the eleventh straight month of expansion and signalled the longest streak of improving manufacturing sector health since mid-2021. Output expanded at a sharp pace, the fastest in six months, supported by another solid increase in new work inflows. Demand growth was driven by the launch of new products, with overseas demand also rising, although growth eased from September."
+    },
+    {
+      "id": "mkt:01a199f6-c5bc-7ee0-aa24-8331e1bf9ff2",
+      "time": "2026-11-02 09:54:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "600519.SS"
+      ],
+      "text": "A-share liquor heavyweight Kweichow Moutai rose more than 3% intraday, with the share price back above 1,400 yuan for the first time since April."
+    },
     {
       "id": "mkt:01a199f3-f706-7ee0-aa24-7a78cb6d9ca6",
       "time": "2026-11-02 09:51:04",
