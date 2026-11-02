@@ -1,7 +1,101 @@
 {
   "date": "2026-11-02",
-  "count": 668,
+  "count": 678,
   "items": [
+    {
+      "id": "5186470",
+      "time": "2026-11-02 10:47:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長鑫科技在安徽成立芯越產投公司 註冊資本9億】企查查APP顯示，近日，長鑫芯越產業投資（安徽）有限公司成立，註冊資本9億元，經營範圍包含：以自有資金從事投資活動。企查查股權穿透顯示，該公司由長鑫科技（688825）全資持股。"
+    },
+    {
+      "id": "5186469",
+      "time": "2026-11-02 10:47:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【招商銀行管理層：明年零售貸款增長仍將面臨較大壓力】11月2日，招商銀行管理層在該行2026年三季度業績交流會上表示，銀行業淨息差仍將面臨下行壓力，總體來看仍會承壓前行。從前三個季度公佈的資料來看，招行息差表現出階段性企穩的特徵，但從未來看，息差下行壓力並未根本性緩解。（上證報）"
+    },
+    {
+      "id": "5186468",
+      "time": "2026-11-02 10:47:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷軍增持杭州順承企管企業，後者增資超4000萬】企查查APP顯示，近日，杭州順承企業管理合夥企業（有限合夥）發生工商變更，馬文靜退出股東行列，新增雷軍、北京棠林管理諮詢合夥企業（有限合夥）為合夥人，同時出資額由200萬元增至4870萬元。企查查資訊顯示，該企業成立於2023年，經營範圍包含企業管理，現由杭州順創企業管理有限公司及上述股東共同持股，後者大股東為雷軍。"
+    },
+    {
+      "id": "mkt:01a19a27-5a6e-7ee0-aa25-a2e04d153f89",
+      "time": "2026-11-02 10:47:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Allies fear Trump could target NATO if he loses midterms】Politico reports NATO members are preparing for a worst-case outcome from Tuesday’s US midterm elections. Five NATO diplomats told Politico European allies fear that if Republicans lose, President Trump could sharply escalate attacks on the alliance — potentially withdrawing thousands of US troops from Europe or cutting US funding to NATO to cement his political legacy. A senior European defense official said lame-duck presidents often vent frustration and take greater risks, and that attacking NATO has long been part of Trump’s worldview. Polls widely expect Democrats to win the House and possibly the Senate; Trump’s approval rating is at record lows."
+    },
+    {
+      "id": "5186467",
+      "time": "2026-11-02 10:46:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多隻金融科技ETF漲幅擴大至7%】創業板金融科技ETF華泰柏瑞漲幅擴大至7%，金融科技ETF華夏、金融科技ETF天弘等多隻金融科技ETF漲超6%。"
+    },
+    {
+      "id": "5186466",
+      "time": "2026-11-02 10:46:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌1%，現報6552.00元。"
+    },
+    {
+      "id": "5186465",
+      "time": "2026-11-02 10:46:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞聯新材：持續尋找優質投資標的 重點關注電子材料和醫藥領域】瑞聯新材(688550)在2026年第三季度業績說明會上表示，公司在持續尋找優質投資標的，重點關注電子材料和醫藥兩大領域。標的選擇上需綜合考慮業務協同、標的公司發展前景和潛在風險等，未來如有確定的投資專案，公司將按照交易所的相關規定及時對外披露。"
+    },
+    {
+      "id": "te:markets:597083",
+      "time": "2026-11-02 10:46:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Trades at Over 2-Month Low as Tech Weighs — The TAIEX, Taiwan’s benchmark stock index, shed 221 points, or 0.5%, to 44,991 in Monday morning trade, extending losses from the previous two sessions and tracking a fall on Wall Street on Friday due to a selloff in major technology stocks. The broader index touched its lowest level since August 24, mainly weighed down by declines in electronic technology and financials. The latest data from China also pressured sentiment, as the government survey showed that factory activity in the mainland unexpectedly contracted in October, while the private survey revealed that manufacturing growth eased slightly. Electronic technology stocks dropped 1.2%, with TSMC, the world’s largest contract chipmaker, which accounts for more than 40% of the market’s total value, falling 1.7%. Meanwhile, Delta Electronics fell 1.9%, Nanya Technology shed 1.3%, and United Microelectronics dropped 2.2%. However, easing oil prices capped the losses as inflation concerns moderated."
+    },
+    {
+      "id": "mkt:01a19a25-79d7-7ee0-aa25-99585115f891",
+      "time": "2026-11-02 10:45:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "01815.HK",
+        "Impact bearish",
+        "03330.HK",
+        "00340.HK"
+      ],
+      "text": "Hong Kong-listed precious metals sector weakened, with 01815.HK and 03330.HK down over 6%, 00340.HK off more than 4%; 06693.HK and 02259.HK also declined."
+    },
+    {
+      "id": "5186464",
+      "time": "2026-11-02 10:45:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股貴金屬板塊震盪走弱，珠峰黃金(01815.HK)、靈寶黃金(03330.HK)跌超6%，潼關黃金(00340.HK)跌超4%，赤峰黃金(06693.HK)、紫金黃金國際(02259.HK)等跟跌。"
+    },
     {
       "id": "mkt:01a19a25-1c3e-7ee0-aa25-955764d4872f",
       "time": "2026-11-02 10:44:45",
