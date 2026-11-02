@@ -1,7 +1,85 @@
 {
   "date": "2026-11-02",
-  "count": 558,
+  "count": 566,
   "items": [
+    {
+      "id": "5186396",
+      "time": "2026-11-02 10:02:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼基準股指日內跌幅擴大至1%。"
+    },
+    {
+      "id": "5186395",
+      "time": "2026-11-02 10:02:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比亞迪王朝10月銷售20.3萬輛，同比增長13.6%】11月2日，比亞迪王朝網銷售事業部總經理 @比亞迪王朝路天 發文稱，比亞迪王朝10月銷售203040輛，環比增長14.4%，同比增長13.6%。"
+    },
+    {
+      "id": "mkt:01a199fe-24a0-7ee0-aa24-ab72db6caaa5",
+      "time": "2026-11-02 10:02:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal, citing people familiar with the matter, reported the White House has proposed placing proceeds from Russia's natural gas sales to Europe into an escrow account to prevent the funds being used to finance the war."
+    },
+    {
+      "id": "mkt:01a199fd-8da7-7ee0-aa24-a61bd7f834df",
+      "time": "2026-11-02 10:01:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "The Wall Street Journal reports sources say the U.S. is exploring a deal to route Russian gas to Europe via Ukraine. U.S. negotiators view gas sales as giving President Putin an incentive to agree to an energy ceasefire with Ukraine."
+    },
+    {
+      "id": "5186394",
+      "time": "2026-11-02 10:01:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指開盤下跌0.3%，報5,039.54點。"
+    },
+    {
+      "id": "5186393",
+      "time": "2026-11-02 10:00:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國力推恢復俄羅斯經烏克蘭向歐洲出售天然氣。"
+    },
+    {
+      "id": "5186392",
+      "time": "2026-11-02 10:00:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聚焦侵犯公民個人資訊違法犯罪新特點 最高檢釋出一批典型案例】最高人民檢察院今天（2日）釋出一批依法保護公民個人資訊典型案例，聚焦當前侵犯公民個人資訊犯罪的新特點、新趨勢，揭示了當前侵犯公民個人資訊犯罪的嚴重危害後果，指導各地檢察機關依法懲治侵犯公民個人資訊犯罪，持續深化融合履職，依法維護公民個人資訊權益。據悉，該批典型案例共8件，在準確適用法律、全鏈條從嚴懲處犯罪、融合履職促進社會治理等方面具有典型示範意義。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a199fb-6db6-7ee0-aa24-99341be46d55",
+      "time": "2026-11-02 09:59:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "A-share precious metals sector extended losses; Chifeng Gold fell over 8%, with Shanjin International, Zijin Mining, Zhongjin Gold and Sichuan Gold also declining."
+    },
     {
       "id": "5186391",
       "time": "2026-11-02 09:58:59",

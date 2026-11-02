@@ -1,7 +1,85 @@
 {
-  "updated": "2026-11-02 09:59:27",
-  "count": 12999,
+  "updated": "2026-11-02 10:03:33",
+  "count": 12997,
   "items": [
+    {
+      "id": "5186396",
+      "time": "2026-11-02 10:02:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼基準股指日內跌幅擴大至1%。"
+    },
+    {
+      "id": "5186395",
+      "time": "2026-11-02 10:02:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比亞迪王朝10月銷售20.3萬輛，同比增長13.6%】11月2日，比亞迪王朝網銷售事業部總經理 @比亞迪王朝路天 發文稱，比亞迪王朝10月銷售203040輛，環比增長14.4%，同比增長13.6%。"
+    },
+    {
+      "id": "mkt:01a199fe-24a0-7ee0-aa24-ab72db6caaa5",
+      "time": "2026-11-02 10:02:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal, citing people familiar with the matter, reported the White House has proposed placing proceeds from Russia's natural gas sales to Europe into an escrow account to prevent the funds being used to finance the war."
+    },
+    {
+      "id": "mkt:01a199fd-8da7-7ee0-aa24-a61bd7f834df",
+      "time": "2026-11-02 10:01:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "The Wall Street Journal reports sources say the U.S. is exploring a deal to route Russian gas to Europe via Ukraine. U.S. negotiators view gas sales as giving President Putin an incentive to agree to an energy ceasefire with Ukraine."
+    },
+    {
+      "id": "5186394",
+      "time": "2026-11-02 10:01:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指開盤下跌0.3%，報5,039.54點。"
+    },
+    {
+      "id": "5186393",
+      "time": "2026-11-02 10:00:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國力推恢復俄羅斯經烏克蘭向歐洲出售天然氣。"
+    },
+    {
+      "id": "5186392",
+      "time": "2026-11-02 10:00:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聚焦侵犯公民個人資訊違法犯罪新特點 最高檢釋出一批典型案例】最高人民檢察院今天（2日）釋出一批依法保護公民個人資訊典型案例，聚焦當前侵犯公民個人資訊犯罪的新特點、新趨勢，揭示了當前侵犯公民個人資訊犯罪的嚴重危害後果，指導各地檢察機關依法懲治侵犯公民個人資訊犯罪，持續深化融合履職，依法維護公民個人資訊權益。據悉，該批典型案例共8件，在準確適用法律、全鏈條從嚴懲處犯罪、融合履職促進社會治理等方面具有典型示範意義。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a199fb-6db6-7ee0-aa24-99341be46d55",
+      "time": "2026-11-02 09:59:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "A-share precious metals sector extended losses; Chifeng Gold fell over 8%, with Shanjin International, Zijin Mining, Zhongjin Gold and Sichuan Gold also declining."
+    },
     {
       "id": "5186391",
       "time": "2026-11-02 09:58:59",
@@ -118692,95 +118770,6 @@
         "其他"
       ],
       "text": "宇樹科技漲超5%。"
-    },
-    {
-      "id": "te:markets:594818",
-      "time": "2026-10-26 10:03:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "other",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Bitcoin Hits Over Five-Week Low — Bitcoin fell to around $79,000 on Monday, hitting its lowest level since mid-September after a weekend sell-off intensified pressure on the cryptocurrency. The decline was fueled by weakening institutional demand, with US spot Bitcoin ETFs recording $635.6 million in net outflows on October 22, their largest single-day withdrawal since June, while roughly $815 million in leveraged crypto positions were liquidated over 24 hours, mostly long positions. Rising geopolitical tensions and Brent crude prices remaining above $110 per barrel also weighed on risk sentiment, alongside concerns over persistent inflation and the outlook for monetary policy. Investors are now turning their attention to the Federal Reserve’s October 27–28 meeting and the US September PCE inflation report due October 29, which could influence expectations for interest rates and the direction of risk assets."
-    },
-    {
-      "id": "5168776",
-      "time": "2026-10-26 10:03:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國銀聯董事長董俊峰與紐西蘭金融支付機構高層會談】當地時間10月19日至20日，中國銀聯董事長兼銀聯國際董事長董俊峰在奧克蘭，分別與紐西蘭最大的支付轉接網路Cuscal Paymark代理執行長Julia Nicol、紐西蘭支付協會Payments NZ執行長Steve Wiggins舉行會談，圍繞本地受理網路建設、跨境支付互聯互通、數字支付創新等議題深入交流。紐西蘭兩家機構表示將繼續支援銀聯在紐西蘭的業務發展，推動現有合作專案落地見效，積極探索錢包互聯互通等創新合作，共同完善當地支付生態體系建設。"
-    },
-    {
-      "id": "5168775",
-      "time": "2026-10-26 10:02:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼證券交易所負責人：我們預計，當高度集中所有權股票的排除措施生效時，不會產生劇烈影響。"
-    },
-    {
-      "id": "te:markets:594817",
-      "time": "2026-10-26 10:01:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Flat Amid AI Concerns — The Hang Seng Index traded nearly flat at around 23,057 on Monday, as investors weighed easing oil prices against concerns over technology valuations and China's growth outlook. Brent crude fell 1.0% to US$115.48 a barrel amid diplomatic efforts to ease Middle East tensions. However, technology shares remained under pressure amid uncertainty over returns on heavy artificial intelligence investment, with investors awaiting earnings from Alphabet, Microsoft and Amazon this week. Meituan plans to issue renminbi-denominated senior notes to refinance offshore debt, while China Hongqiao repurchased over 24 million shares for HK$450 million. Zijin Mining reported a 51.9% year-on-year increase in nine-month net profit to RMB57.53 billion. Investors also monitored China's Fifth Plenary Session for policy signals and awaited September industrial-profit data and October PMI releases. Notable laggards included Z.AI Co. (-3.3%), MiniMax (-7.2%) and SMIC (-3.8%) while Tencent gained 1%."
-    },
-    {
-      "id": "5168774",
-      "time": "2026-10-26 10:01:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼基準股指開盤基本持平，報5442.30點。"
-    },
-    {
-      "id": "5168773",
-      "time": "2026-10-26 10:01:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "華為：上市7個月，華為暢享90系列累計發貨量突破1000萬臺。"
-    },
-    {
-      "id": "5168772",
-      "time": "2026-10-26 10:01:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "新加坡與馬來西亞續簽諒解備忘錄，以加強能源合作。"
-    },
-    {
-      "id": "5168771",
-      "time": "2026-10-26 10:00:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【開盤半小時 滬深京三市成交額達5614億元】開盤半小時，滬深京三市成交額達5614億元，較上日此時放量279億元，預計全天成交金額約2萬億。"
-    },
-    {
-      "id": "5168770",
-      "time": "2026-10-26 10:00:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【凡拓數創股價創新高】凡拓數創漲14.83%，報70.55元/股，股價再創新高，總市值突破72.19億元，成交額達12.02億元。"
-    },
-    {
-      "id": "5168769",
-      "time": "2026-10-26 09:59:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特領導的聯軍：其中一個平臺曾被用於向利雅得發射彈道導彈。"
     }
   ]
 }
