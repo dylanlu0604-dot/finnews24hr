@@ -1,7 +1,87 @@
 {
   "date": "2026-11-02",
-  "count": 1045,
+  "count": 1053,
   "items": [
+    {
+      "id": "mkt:01a19b5a-7d66-7ee0-aa2d-560155631233",
+      "time": "2026-11-02 16:22:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran foreign ministry says US is greatest threat to nuclear non‑proliferation】Iran’s foreign ministry spokesman Baghaei said the United States is undoubtedly the biggest threat to the nuclear non‑proliferation regime. He said threats or implied use of certain weapons against a state encourage violations of the NPT, that other countries including nuclear‑armed states are closely watching U.S. actions, and that U.S. behavior is setting a precedent that threatens international peace and security. Baghaei added such threats will only harden Iran’s resolve to strengthen its defenses."
+    },
+    {
+      "id": "5187041",
+      "time": "2026-11-02 16:22:24",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【中化國際：擬發行股份購買南通星辰100%股權】中化國際公告稱，公司擬以發行股份方式向藍星集團購買其持有的南通星辰100%股權，交易作價21.10億元，發行價格為3.51元/股，對應發行股份數量為6.01億股，佔發行後總股本的14.35%。本次交易構成關聯交易，不構成重大資產重組及重組上市，設有業績補償及減值補償承諾。交易完成後，公司控股股東仍為中化股份，實控人仍為國務院國資委。本次交易尚需上交所稽核透過並取得中國證監會註冊批覆，能否獲批存在不確定性。"
+    },
+    {
+      "id": "5187040",
+      "time": "2026-11-02 16:22:05",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "阿爾斯通股價跌幅擴大，現跌30%至11.05歐元，為2024年3月以來最低價，此前公司下調了業績指引。"
+    },
+    {
+      "id": "5187039",
+      "time": "2026-11-02 16:21:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星計劃2030年底前關閉8英寸晶圓代工所有產線】三星電子已決定全面退出8英寸晶圓代工業務，公司近期已通知客戶，計劃在2030年底前關閉所有相關生產線。此前，三星電子一直僅表示將逐步縮減8英寸生產線，此次則是首次明確提出業務退出的具體時間表，之後公司計劃將人力和裝置投資集中於基於12英寸晶圓先進製程。"
+    },
+    {
+      "id": "te:economy:597198",
+      "time": "2026-11-02 16:21:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Hungary Manufacturing Growth Eases in October — Hungary's Manufacturing PMI edged down to 53.1 in October 2026, following an upwardly revised nine-month high of 53.3 in September, indicating continued expansion in manufacturing activity, albeit at a slightly slower pace. The reading remained above its long-term monthly average of 52.4 and the average of 50.5 recorded over the previous three years. Most sub-indices improved during the month, with nine remaining in expansion territory. The employment index also rose to 54.2, pointing to stronger hiring activity and remaining above the 50-point threshold."
+    },
+    {
+      "id": "te:economy:597197",
+      "time": "2026-11-02 16:21:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Singapore Business Mood at 22-Month High — Business confidence in Singapore’s manufacturing sector remained firmly positive in the third quarter of 2026, with the net weighted balance climbing to 24% from 12% in the previous survey, as robust global demand for AI-related products continued to underpin sentiment despite elevated geopolitical and economic uncertainties. Electronics was the most optimistic segment, with its net weighted balance surging to 42% from 19% in Q2, supported by stronger sentiment across semiconductors (47% vs 29%), computer peripherals and data storage (49% vs -73%), and other electronic modules and components (35% vs -18%). Biomedical manufacturing also maintained a positive outlook, with the balance increasing to 14% from 3%, largely driven by medical technology (17% vs -1%). In contrast, precision engineering sentiment weakened, with the balance declining to 48% from 55%, reflecting softer confidence in machinery and systems (58% vs 62%) and precision modules and components (6% vs 28%)."
+    },
+    {
+      "id": "5187038",
+      "time": "2026-11-02 16:20:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣安愛眾：控股股東部分股份解除質押】廣安愛眾公告稱，公司控股股東四川愛眾發展集團有限公司於2026年10月29日辦理完成部分股份解除質押登記手續，本次解除質押股份1208.5萬股，佔其所持股份比例4.84%，佔公司總股本比例0.97%。愛眾集團持有公司股份2.50億股，佔公司總股本的19.96%；本次解押後，其累計質押股份5950萬股，佔其所持股份比例23.82%，佔公司總股本比例4.75%。"
+    },
+    {
+      "id": "5187037",
+      "time": "2026-11-02 16:19:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗稱，尚未進入與美國開展核談判的階段。"
+    },
     {
       "id": "5187036",
       "time": "2026-11-02 16:19:32",
