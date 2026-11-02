@@ -1,7 +1,134 @@
 {
   "date": "2026-11-02",
-  "count": 1281,
+  "count": 1293,
   "items": [
+    {
+      "id": "mkt:01a19b8f-0aaf-7ee0-aa2f-ad36e0a5d666",
+      "time": "2026-11-02 17:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100",
+        "DXY"
+      ],
+      "text": "UK Oct manufacturing PMI final reading due in 10 minutes."
+    },
+    {
+      "id": "te:economy:597250",
+      "time": "2026-11-02 17:19:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Nigeria",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Nigeria Private Sector Activity Eases in October — The Stanbic IBTC Bank Nigeria PMI edged down to 55.7 in October 2026 from 56.4 in September, indicating continued improvement in private-sector business conditions for the ninth consecutive month, albeit at a slower pace. Growth in new orders and business activity moderated slightly, while employment expansion slowed to a three-month low. Output rose across all four monitored sectors. Backlogs of work fell for a third consecutive month, with the pace of depletion reaching its fastest since January. Purchasing activity continued to rise, although the increase in stocks of purchases eased from September. On prices, higher fuel costs drove purchase price inflation to a four-month high, while selling price inflation also accelerated to its fastest pace in four months. Business confidence remained strongly positive, despite easing slightly from September."
+    },
+    {
+      "id": "te:economy:597249",
+      "time": "2026-11-02 17:19:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Swiss Factory Growth Beats Forecasts — Switzerland’s procure.ch–UBS Manufacturing PMI rose to 56.7 in October 2026 from 55.3 in September, exceeding market expectations of 55.3. This marked the eighth consecutive month of expansion, supported by improvements in production (58.5 vs 55.9 in September) and order books (57.4 vs 57.0). Meanwhile, the supplier delivery times component increased to 67.4 from 63.9, indicating further lengthening of lead times and potential supply bottlenecks. Inventory levels changed little in October, with both inventory components hovering around the 50-point mark. The purchase prices component climbed to 77.1 from 70.0, suggesting another significant increase in input costs. Meanwhile, the volume of purchases eased to 54.4 from 58.0, although it remained above the 50-point threshold. The employment component edged down to 48.2 from 48.4."
+    },
+    {
+      "id": "te:economy:597248",
+      "time": "2026-11-02 17:19:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Eurozone Manufacturing Growth Remains Solid in October — The S&P Global Eurozone Manufacturing PMI edged down to 52.7 in October 2026, from September’s four-year high of 52.9, but came in slightly above the preliminary estimate of 52.4, signaling continued expansion in the manufacturing sector. Output growth slowed to a four-month low but remained solid overall. Total new business increased at a softer pace, while employment continued to increase and purchasing activity expanded at its fastest pace since May 2022. Manufacturers also stepped up stockpiling to the greatest extent in nearly four years, as supplier delivery times lengthened and input cost inflation accelerated. Input prices rose at their fastest pace since May, prompting manufacturers to raise selling prices sharply, although the pace of increase was broadly unchanged from September. Meanwhile, business confidence remained in positive territory but weakened further, falling below its long-run average."
+    },
+    {
+      "id": "5187183",
+      "time": "2026-11-02 17:19:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【位元組番茄小說2027年將投超10億元支援內容創作】番茄小說今日在杭州舉辦創作者大會，宣佈2027年將投入超10億元專項資源，覆蓋千萬級徵文、創新創作基金、新人全週期培養體系及千萬元版權激勵，扶持創新題材孵化與IP多形態衍生。目前平臺駐站作家超300萬，年內3萬部作品進入影視化開發鏈路、超5萬部完成有聲錄製，單月短漫劇改編授權總收入破2億元；累計拒籤低質作品超46萬本，持續推進網文精品化落地。"
+    },
+    {
+      "id": "mkt:01a19b8e-4b5e-7ee0-aa2f-a3b148f19c4e",
+      "time": "2026-11-02 17:19:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude fell below $108/bbl for the first time since Oct. 22, sliding 3.3% intraday; WTI also down 3.3%."
+    },
+    {
+      "id": "5187182",
+      "time": "2026-11-02 17:18:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南北方氣溫走勢分化 部分地區氣溫將創下半年來新低】今晨（11月2日），共有5個省會氣溫創立秋後新低。預計今天南方大部氣溫將下降，局地降溫幅度將超10℃，北方則會開啟升溫。4日至7日，又將有冷空氣影響我國，氣溫將大面積創出新低，公眾請關注臨近預報資訊，根據天氣變化適時調整著裝。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a19b8d-740e-7ee0-aa2f-9d7a78421cc6",
+      "time": "2026-11-02 17:18:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK 5-year gilt yield fell to its lowest since Oct. 2, down about 6 bps at 4.886%."
+    },
+    {
+      "id": "5187181",
+      "time": "2026-11-02 17:18:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金達萊：中標9900萬元工程專案】金達萊(688057)11月2日公告，公司中標淮安第四園區純廢水HD1.1期安裝工程（HD01&HD02&HD03）及固資專案，工程總價9900萬元（未稅），預計施工完成時間：2027年8月30日。"
+    },
+    {
+      "id": "5187180",
+      "time": "2026-11-02 17:17:37",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【立訊精密：截至10月31日累計回購金額約10.00億元】立訊精密公告稱，公司擬使用不低於10億元且不超過20億元自有或自籌資金回購股份，用於後期實施股權激勵計劃或員工持股計劃，回購期限為董事會審議透過回購方案之日起12個月內，回購價格上限經三次權益分派調整後為86.55元/股。截至2026年10月31日，公司透過集中競價方式累計回購A股股份1766.54萬股，佔公司總股本的0.23%，最高成交價65.00元/股，最低成交價50.14元/股，成交總金額約10.00億元（不含交易費用）。"
+    },
+    {
+      "id": "5187179",
+      "time": "2026-11-02 17:17:06",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "寶潔健康股價漲幅擴大至6.5%。"
+    },
+    {
+      "id": "mkt:01a19b8c-49ad-7ee0-aa2f-913f6131e91e",
+      "time": "2026-11-02 17:17:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【HKEX to extend post-close trading session for derivatives】HKEX will extend the post-close trading session for derivatives. From March 2027 the session close will shift from 03:00 HKT to 04:15 HKT. HKEX said it will consider a further extension to 05:15 HKT in November 2027, subject to market developments after the initial change."
+    },
     {
       "id": "5187178",
       "time": "2026-11-02 17:16:21",
