@@ -1,7 +1,59 @@
 {
   "date": "2026-11-02",
-  "count": 661,
+  "count": 668,
   "items": [
+    {
+      "id": "mkt:01a19a25-1c3e-7ee0-aa25-955764d4872f",
+      "time": "2026-11-02 10:44:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "On the morning of Nov. 2, CHINA will hold talks at the Great Hall of the People in Beijing with Sultan Haitham of Oman, who is in China on a state visit."
+    },
+    {
+      "id": "mkt:01a19a24-be3e-7ee0-aa25-8c165b991b7d",
+      "time": "2026-11-02 10:44:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China National Energy Administration: Q3 2026 coal-fired generation and coal use fell; stocks adequate for winter peak】China's National Energy Administration said coal-fired power generation and its share declined YoY in Q3 2026, reflecting further progress in the energy low-carbon transition. Recent measures to boost coal production and secure supply have steadied availability; consumption has been relatively stable, narrowing the supply-demand gap and leaving thermal coal inventories in a safe, reasonable range to support winter peak supply. As of Oct. 25, Bohai Rim port coal stocks were 26.92 mln tonnes, up 2.15 mln tonnes YoY; Qinhuangdao held 5.95 mln tonnes, up 0.42 mln. Centrally dispatched power-plant coal stocks were 210 mln tonnes on Oct. 25, equivalent to roughly 35 days of supply, broadly in line with the three-year average."
+    },
+    {
+      "id": "5186463",
+      "time": "2026-11-02 10:44:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平將同阿曼蘇丹海賽姆會談】11月2日上午，國家主席習近平將在北京人民大會堂同來華進行國事訪問的阿曼蘇丹海賽姆舉行會談。（央視新聞）"
+    },
+    {
+      "id": "5186462",
+      "time": "2026-11-02 10:43:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華大基因在天津成立生物科技新公司】企查查APP顯示，近日，天津華大吉比愛生物科技有限公司成立，經營範圍包含第三類醫療器械經營；第二類醫療器械生產；檢驗檢測服務；第三類醫療器械生產等。企查查股權穿透顯示，該公司由華大基因全資持股。"
+    },
+    {
+      "id": "mkt:01a19a23-44e4-7ee0-aa25-80c15157cafe",
+      "time": "2026-11-02 10:42:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's most-active egg futures contract rose 3.79% intraday to 3,561 yuan/500 kg; open interest increased by 17,800 contracts, a marked change in positions."
+    },
+    {
+      "id": "5186461",
+      "time": "2026-11-02 10:41:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【水井坊：長期依然堅持高階化品牌戰略】水井坊(600779)在2026年第三季度業績說明會上表示，長期來看，公司依然堅持高階化品牌戰略，根據消費者需求變化動態調整產品策略。公司將密切關注消費者反饋及終端表現，不斷最佳化產品與營銷策略。"
+    },
     {
       "id": "5186460",
       "time": "2026-11-02 10:40:04",
@@ -83,6 +135,19 @@
         "公司"
       ],
       "text": "【建行、工行、農行子公司入股中芯國際旗下中芯東方】企查查APP顯示，近日，中芯東方積體電路製造有限公司發生工商變更，新增建設銀行（601939）旗下建信金融資產投資有限公司、工商銀行（601398）旗下工銀金融資產投資有限公司、農業銀行（601288）旗下農銀金融資產投資有限公司為股東。"
+    },
+    {
+      "id": "mkt:01a19a22-fd3f-7ee0-aa25-7b791dada229",
+      "time": "2026-11-02 10:36:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China Q3 coal-fired generation and thermal-coal use decline; coal stocks generally sufficient for winter peak — NEA】The National Energy Administration said on Nov. 2 that China’s coal-fired generation and its share of power output fell in Q3 2026 as the energy transition progresses. Coal-fired generation fell YoY by 4.0% in July, 4.6% in August and 1.9% in September; thermal-coal consumption declined accordingly. After coal’s share of power generation first dipped below 50% in 1H, it fell further to 49.1% at end-September. The share of annual newly added coal-fired generation in total new electricity demand continued to fall, reaching 4.4% at end-September. Stocks: as of Oct. 25 Bohai Rim ports held 26.92 mln t of coal, up 2.15 mln t YoY; Qinhuangdao held 5.95 mln t, up 0.42 mln t YoY. Nationwide centrally dispatched power plants held 210 mln t of coal, equivalent to about 35 days’ supply, roughly in line with the three-year average. The NEA said accelerated coal production and supply measures have steadied supply, narrowed the supply-demand gap and, together with stable consumption and adequate inventories, provide a solid base for winter peak supply."
     },
     {
       "id": "5186453",

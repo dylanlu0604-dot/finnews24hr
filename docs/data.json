@@ -1,7 +1,59 @@
 {
-  "updated": "2026-11-02 10:41:24",
+  "updated": "2026-11-02 10:45:07",
   "count": 13014,
   "items": [
+    {
+      "id": "mkt:01a19a25-1c3e-7ee0-aa25-955764d4872f",
+      "time": "2026-11-02 10:44:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "On the morning of Nov. 2, CHINA will hold talks at the Great Hall of the People in Beijing with Sultan Haitham of Oman, who is in China on a state visit."
+    },
+    {
+      "id": "mkt:01a19a24-be3e-7ee0-aa25-8c165b991b7d",
+      "time": "2026-11-02 10:44:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China National Energy Administration: Q3 2026 coal-fired generation and coal use fell; stocks adequate for winter peak】China's National Energy Administration said coal-fired power generation and its share declined YoY in Q3 2026, reflecting further progress in the energy low-carbon transition. Recent measures to boost coal production and secure supply have steadied availability; consumption has been relatively stable, narrowing the supply-demand gap and leaving thermal coal inventories in a safe, reasonable range to support winter peak supply. As of Oct. 25, Bohai Rim port coal stocks were 26.92 mln tonnes, up 2.15 mln tonnes YoY; Qinhuangdao held 5.95 mln tonnes, up 0.42 mln. Centrally dispatched power-plant coal stocks were 210 mln tonnes on Oct. 25, equivalent to roughly 35 days of supply, broadly in line with the three-year average."
+    },
+    {
+      "id": "5186463",
+      "time": "2026-11-02 10:44:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平將同阿曼蘇丹海賽姆會談】11月2日上午，國家主席習近平將在北京人民大會堂同來華進行國事訪問的阿曼蘇丹海賽姆舉行會談。（央視新聞）"
+    },
+    {
+      "id": "5186462",
+      "time": "2026-11-02 10:43:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華大基因在天津成立生物科技新公司】企查查APP顯示，近日，天津華大吉比愛生物科技有限公司成立，經營範圍包含第三類醫療器械經營；第二類醫療器械生產；檢驗檢測服務；第三類醫療器械生產等。企查查股權穿透顯示，該公司由華大基因全資持股。"
+    },
+    {
+      "id": "mkt:01a19a23-44e4-7ee0-aa25-80c15157cafe",
+      "time": "2026-11-02 10:42:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's most-active egg futures contract rose 3.79% intraday to 3,561 yuan/500 kg; open interest increased by 17,800 contracts, a marked change in positions."
+    },
+    {
+      "id": "5186461",
+      "time": "2026-11-02 10:41:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【水井坊：長期依然堅持高階化品牌戰略】水井坊(600779)在2026年第三季度業績說明會上表示，長期來看，公司依然堅持高階化品牌戰略，根據消費者需求變化動態調整產品策略。公司將密切關注消費者反饋及終端表現，不斷最佳化產品與營銷策略。"
+    },
     {
       "id": "5186460",
       "time": "2026-11-02 10:40:04",
@@ -83,6 +135,19 @@
         "公司"
       ],
       "text": "【建行、工行、農行子公司入股中芯國際旗下中芯東方】企查查APP顯示，近日，中芯東方積體電路製造有限公司發生工商變更，新增建設銀行（601939）旗下建信金融資產投資有限公司、工商銀行（601398）旗下工銀金融資產投資有限公司、農業銀行（601288）旗下農銀金融資產投資有限公司為股東。"
+    },
+    {
+      "id": "mkt:01a19a22-fd3f-7ee0-aa25-7b791dada229",
+      "time": "2026-11-02 10:36:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China Q3 coal-fired generation and thermal-coal use decline; coal stocks generally sufficient for winter peak — NEA】The National Energy Administration said on Nov. 2 that China’s coal-fired generation and its share of power output fell in Q3 2026 as the energy transition progresses. Coal-fired generation fell YoY by 4.0% in July, 4.6% in August and 1.9% in September; thermal-coal consumption declined accordingly. After coal’s share of power generation first dipped below 50% in 1H, it fell further to 49.1% at end-September. The share of annual newly added coal-fired generation in total new electricity demand continued to fall, reaching 4.4% at end-September. Stocks: as of Oct. 25 Bohai Rim ports held 26.92 mln t of coal, up 2.15 mln t YoY; Qinhuangdao held 5.95 mln t, up 0.42 mln t YoY. Nationwide centrally dispatched power plants held 210 mln t of coal, equivalent to about 35 days’ supply, roughly in line with the three-year average. The NEA said accelerated coal production and supply measures have steadied supply, narrowed the supply-demand gap and, together with stable consumption and adequate inventories, provide a solid base for winter peak supply."
     },
     {
       "id": "5186453",
@@ -118924,67 +118989,6 @@
         "其他"
       ],
       "text": "【安徽：前三季度全省地區生產總值42371億元，同比增長5.3%】10月26日上午，安徽省政府新聞辦舉行新聞釋出會，介紹2026年前三季度全省經濟執行情況。根據地區生產總值統一核算結果，前三季度全省地區生產總值42371億元，按不變價格計算，同比增長5.3%。分產業看，第一產業增加值2033億元，增長2.3%；第二產業增加值16522億元，增長6.0%；第三產業增加值23816億元，增長5.1%。"
-    },
-    {
-      "id": "5168856",
-      "time": "2026-10-26 10:45:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【MoSense模感科技完成億元級天使+輪融資】10月26日，MoSense模感科技宣佈完成億元級天使+輪融資。本次天使+輪融資由鼎暉投資、綠洲資本領投，逐際動力、龍芯創投、中科創星、華山資本、浦東創投以及某國內頭部具身廠商跟投。"
-    },
-    {
-      "id": "5168855",
-      "time": "2026-10-26 10:44:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞浦蘭鈞等成立精密製造公司，含電池製造業務】企查查APP顯示，近日，廣東亞陸行精密製造有限公司成立，法定代表人為陳德文，註冊資本為2100萬元，經營範圍包含：電子專用材料製造；新興能源技術研發；新材料技術研發；金屬材料製造；塑膠製品製造；電池製造等。企查查股權穿透顯示，該公司由浙江亞陸行新能源科技有限公司、瑞浦蘭鈞（00666.HK）旗下廣東瑞浦蘭鈞能源有限公司共同持股。"
-    },
-    {
-      "id": "5168854",
-      "time": "2026-10-26 10:44:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SK海力士或派發806億元特別分紅達去年分紅總額7倍】據《東亞日報》10月26日報道，SK海力士計劃以特別分紅的形式，將出售日本NAND快閃記憶體公司鎧俠股份約80%的利潤回饋給股東。 報道稱，考慮到鎧俠出售的收益估計在20萬億韓元左右，特別分紅預計約為16萬億韓元（約806億元人民幣），預計此次特別分紅將是去年分紅總額的7倍。 業界認為，SK海力士將在第三季度財報公佈時宣佈這一特別分紅計劃。目前，按已發行股份數量計算，每股平均約為23000韓元，是之前常規年度股息（1500韓元）的15倍，是季度股息（375韓元）的61倍。據報道，SK海力士正在考慮是否分期支付這些錢。 （中新經緯）"
-    },
-    {
-      "id": "5168853",
-      "time": "2026-10-26 10:43:31",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美銀首席經濟學家：通脹壓力未消，美聯儲年內料再加息2次】近日，美國銀行全球首席經濟學家克勞迪奧·伊裡戈延（Claudio Irigoyen）在外灘年會間隙接受記者獨家採訪時表示，該行仍預計美聯儲將在10月和12月連續加息。自今年6月以來，該行一直預測美聯儲將在9月、10月和12月分別加息一次。儘管市場目前基本排除了10月加息的可能性，但伊裡戈延認為，10月會議仍是美聯儲強化政策信譽的機會。在他看來，美聯儲面臨的難題在於，服務業通脹具有黏性，能源價格上漲又可能透過運輸成本傳導至核心通脹，而美國經濟增長仍相對強勁，勞動力市場也較為緊張。如果供給衝擊持續出現，美聯儲可能難以簡單地將其視為暫時性因素並選擇觀望。（21財經）"
-    },
-    {
-      "id": "5168852",
-      "time": "2026-10-26 10:42:33",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通將沃爾沃汽車目標價從18瑞典克朗下調至10瑞典克朗。"
-    },
-    {
-      "id": "5168851",
-      "time": "2026-10-26 10:42:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【銀行板塊震盪拉昇】南京銀行漲近3%，建設銀行、工商銀行、成都銀行漲超2%，渝農商行、寧波銀行、上海銀行等跟漲。"
-    },
-    {
-      "id": "5168850",
-      "time": "2026-10-26 10:42:18",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【水利部制定出臺跨省河湖生態流量保障目標】據水利部，2025年以來，水利部組織各流域管理機構和省級水行政主管部門開展了跨省河湖生態流量確定與保障工作，完成382條（個）跨省河湖、558個控制斷面生態流量保障目標確定並於近日印發實施，為強化跨省河湖生態用水保障、復甦河湖生態環境提供了重要依據。水利部對流域管理機構和各級水行政主管部門落實好生態流量保障目標提出了明確要求。一是要依據印發的跨省河湖生態流量保障目標，以河湖水系為單元制定跨省河湖生態流量保障實施方案，明確保障措施和責任主體。二是要嚴格轄區取用水總量控制，加強流域水資源統一排程，將生態流量保障目標納入流域水資源排程方案、年度水資源（水量）排程計劃和水利水電工程日常執行排程規程，嚴格生態流量洩放管理，切實保障河湖基本生態用水需求。三是要統籌“天空地水工”一體化監測，加快完善河湖生態流量監測體系，建立健全生態流量監測預警機制，及時釋出預警資訊。四是要嚴格落實管理責任，加快完善生態流量監管體系，抓好各項保障措施落實。"
     }
   ]
 }
