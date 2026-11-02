@@ -1,7 +1,51 @@
 {
   "date": "2026-11-02",
-  "count": 623,
+  "count": 628,
   "items": [
+    {
+      "id": "mkt:01a19a13-2ac8-7ee0-aa25-4e6c713ed021",
+      "time": "2026-11-02 10:25:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China's National Data Administration to map AI data demand, push industry dataset registration】On Oct. 28 the National Data Administration convened a meeting of industry high-quality dataset chain-master units, instructing them to map artificial intelligence data needs and accelerate dataset development. Chain-master units were told to base work on their own needs, proactively identify upstream and downstream external demand, and follow a demand-led approach for precise dataset construction. They were directed to pilot benefit-sharing and commercial-return mechanisms, compile industry data maps, promote distributed aggregation of industry data and register datasets with the national dataset management service system. The administration also ordered establishment of application-driven data feedback loops to enable data return and iterative optimization, continuous user feedback and dynamic dataset updates, and stronger industry-chain coordination to broaden cooperation and build ecosystem capacity."
+    },
+    {
+      "id": "5186435",
+      "time": "2026-11-02 10:25:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高速互聯晶片廠商奕泰智慧完成超2億元A輪融資】11月2日，高速互聯晶片廠商奕泰智慧技術有限公司宣佈完成超2億元A輪融資，A3輪由錫創投領投，金投致源、洪山資本跟投。據公司介紹，本輪融資將用於端側交換晶片的量產交付及頂尖人才梯隊的持續建設，進軍國產高速互聯晶片的第一梯隊。"
+    },
+    {
+      "id": "5186434",
+      "time": "2026-11-02 10:24:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：半導體出口並非唯一增長項。20個主要出口品類中有18個大幅增長。全球第四個萬億美元出口規模近在眼前。"
+    },
+    {
+      "id": "5186433",
+      "time": "2026-11-02 10:24:20",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【港股券商股走強 廣發證券漲近6%】截至發稿，廣發證券(01776.HK)漲5.63%，中金公司(03908.HK)漲4.89%，招商證券(06099.HK)漲4.63%。"
+    },
+    {
+      "id": "mkt:01a19a11-5989-7ee0-aa25-463bcd358f33",
+      "time": "2026-11-02 10:23:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea plans to cut securities settlement cycle from T+2 to T+1 by 2028】Korea Exchange, Korea Securities Depository, Korea Securities Finance Corporation and Koscom published a joint roadmap to move equity and related securities settlement from the current T+2 to T+1. The firms said they will begin infrastructure upgrades, aim to complete clearing and settlement system changes by October 2027, and expect to switch to T+1 during 2028. A specific cutover date has not been set."
+    },
     {
       "id": "5186431",
       "time": "2026-11-02 10:21:54",

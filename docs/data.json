@@ -1,7 +1,51 @@
 {
-  "updated": "2026-11-02 10:22:28",
-  "count": 13016,
+  "updated": "2026-11-02 10:26:12",
+  "count": 13010,
   "items": [
+    {
+      "id": "5186435",
+      "time": "2026-11-02 10:25:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高速互聯晶片廠商奕泰智慧完成超2億元A輪融資】11月2日，高速互聯晶片廠商奕泰智慧技術有限公司宣佈完成超2億元A輪融資，A3輪由錫創投領投，金投致源、洪山資本跟投。據公司介紹，本輪融資將用於端側交換晶片的量產交付及頂尖人才梯隊的持續建設，進軍國產高速互聯晶片的第一梯隊。"
+    },
+    {
+      "id": "mkt:01a19a13-2ac8-7ee0-aa25-4e6c713ed021",
+      "time": "2026-11-02 10:25:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China's National Data Administration to map AI data demand, push industry dataset registration】On Oct. 28 the National Data Administration convened a meeting of industry high-quality dataset chain-master units, instructing them to map artificial intelligence data needs and accelerate dataset development. Chain-master units were told to base work on their own needs, proactively identify upstream and downstream external demand, and follow a demand-led approach for precise dataset construction. They were directed to pilot benefit-sharing and commercial-return mechanisms, compile industry data maps, promote distributed aggregation of industry data and register datasets with the national dataset management service system. The administration also ordered establishment of application-driven data feedback loops to enable data return and iterative optimization, continuous user feedback and dynamic dataset updates, and stronger industry-chain coordination to broaden cooperation and build ecosystem capacity."
+    },
+    {
+      "id": "5186434",
+      "time": "2026-11-02 10:24:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：半導體出口並非唯一增長項。20個主要出口品類中有18個大幅增長。全球第四個萬億美元出口規模近在眼前。"
+    },
+    {
+      "id": "5186433",
+      "time": "2026-11-02 10:24:20",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【港股券商股走強 廣發證券漲近6%】截至發稿，廣發證券(01776.HK)漲5.63%，中金公司(03908.HK)漲4.89%，招商證券(06099.HK)漲4.63%。"
+    },
+    {
+      "id": "mkt:01a19a11-5989-7ee0-aa25-463bcd358f33",
+      "time": "2026-11-02 10:23:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea plans to cut securities settlement cycle from T+2 to T+1 by 2028】Korea Exchange, Korea Securities Depository, Korea Securities Finance Corporation and Koscom published a joint roadmap to move equity and related securities settlement from the current T+2 to T+1. The firms said they will begin infrastructure upgrades, aim to complete clearing and settlement system changes by October 2027, and expect to switch to T+1 during 2028. A specific cutover date has not been set."
+    },
     {
       "id": "5186431",
       "time": "2026-11-02 10:21:54",
@@ -118881,106 +118925,6 @@
         "其他"
       ],
       "text": "【iPhone Duo螢幕故障或與鉸鏈有關】蘋果的可摺疊手機iPhone Duo甫一上市，就遇到了大量的負面反饋，原因是有消費者聲稱該手機在使用幾天甚至幾小時後，就出現了內屏裂紋。專門釋出智慧手機拆解指南的iFixit在上週末釋出了iPhone Duo的最新拆解報告，其中也對該手機螢幕出現裂紋的問題進行了探討。該機構指出，一種可能性是，手機閉合時中央支撐杆未能正確縮回，從而對螢幕施加過大的壓力。另一種可能性是，引導鉸鏈運動的弧形導軌在摺疊過程中會高於周圍元件，理論上，如果這些導軌未能按預期移動，可能會干擾螢幕。"
-    },
-    {
-      "id": "5168818",
-      "time": "2026-10-26 10:25:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌2.00%，現報11440.223點；上證指數跌0.63%，現報3667.389點；創業板指跌3.03%，現報2602.724點。"
-    },
-    {
-      "id": "5168816",
-      "time": "2026-10-26 10:24:40",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【SK海力士股價較6月高點腰斬】韓國交易所26日資料顯示，SK海力士於本月23日收盤報127.7萬韓元，較前一交易日上漲4.42%。該公司當日盤前宣佈暫停Solidigm赴美上市評估，市場情緒得到一定修復。即便出現這波短暫反彈，該股股價依然較高點下跌超50%。SK海力士在今年6月22日收盤報291.9萬韓元，本月20日跌至122.3萬韓元，較高峰迴撤58.1%。截至23日最新交易日，股價仍較高點低56.3%。市場擔憂AI投資收益以及晶片需求放緩，持續對股價形成下行壓力。"
-    },
-    {
-      "id": "5168815",
-      "time": "2026-10-26 10:24:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油日內跌2%，現報101.19美元/桶。"
-    },
-    {
-      "id": "5168814",
-      "time": "2026-10-26 10:23:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海醫藥等在寧波成立醫藥公司 註冊資本5.4億元】企查查APP顯示，近日，寧波甬城益藥醫藥有限公司成立，法定代表人為陳章駿，註冊資本為5.4億元，經營範圍包含第一類醫療器械銷售；財務諮詢；資訊諮詢服務（不含許可類資訊諮詢服務）；市場營銷策劃等。企查查股權穿透顯示，該公司由上海醫藥大健康雲商股份有限公司、上海醫藥旗下上藥控股寧波醫藥股份有限公司共同持股。"
-    },
-    {
-      "id": "5168813",
-      "time": "2026-10-26 10:23:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博邁科：2026全年新籤合同總額有望創下近幾年新高】博邁科(603727)在2026年第三季度業績說明會上表示，目前公司在手訂單充足，其中近期簽署的部署在南美、價值16億至21億元人民幣的上部模組建造專案，重新整理了國內承接FPSO上部模組EPC單項合同記錄，疊加四季度正在推進的新籤專案落地，2026全年新籤合同總額有望創下近幾年新高。"
-    },
-    {
-      "id": "5168812",
-      "time": "2026-10-26 10:23:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【宇樹科技暴漲超7%】10月26日開盤後，宇樹科技大幅拉昇，盤中漲超7%，截至發稿，漲幅為5.15%，每股報656.13元，總市值為2654億元。 值得注意的是，10月16日以來的7個交易日，宇樹科技已漲超60%。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202610263907740379",
-      "time": "2026-10-26 10:23:27",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【廣州前三季度GDP達24851億元 同比增長5.7%】廣州市人民政府新聞辦公室舉辦新聞釋出會，公佈2026年前三季度廣州市經濟執行情況。根據廣東省地區生產總值統一核算結果，前三季度廣州實現地區生產總值24851億元，按不變價格計算，同比增長5.7%。其中，第一產業增加值增長2.4%，第二產業增加值增長5.1%，第三產業增加值增長5.9%。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202610263907735874",
-      "time": "2026-10-26 10:23:00",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【前三季度浙江實現社會消費品零售總額28858億元 同比增長1.6%】浙江10月26日釋出前三季度經濟執行情況，在需求側，前三季度浙江實現社會消費品零售總額28858億元，增長1.6%，增速快於全國0.5個百分點。同期固定資產投資同比下降11.9%，扣除房地產開發的固定資產投資下降5.0%，降幅分別大於全國4.7個、0.8個百分點。此外，前三季度浙江實現進出口總值4.57萬億元，其中進口1.09萬億元，增長7.4%；出口3.48萬億元，增長10.2%；進口、出口增速均創2023年以來同期新高。"
-    },
-    {
-      "id": "5168811",
-      "time": "2026-10-26 10:22:57",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【紫金礦業港股一度下挫8% 第三季度業績低於市場預期】紫金礦業在香港的股價觸及近四個月來盤中新低，目前為拖累香港恒生指數最大的個股，此前該公司公告的第三季度淨利潤低於預估。花旗分析師Jack Shang在報告中表示，該公司的經常性淨利潤略低於該行預期，主要原因是礦產金、礦產銅、礦產鋰的成本上升且銷量低於預期；來自關聯公司的應占利潤亦不及預期。"
-    },
-    {
-      "id": "te:markets:594826",
-      "time": "2026-10-26 10:22:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Brazilian Real Set to Plunge After Lula’s Re-election Win — The Brazilian real is expected to fall by more than 10% on Monday, while equities are also poised to tumble following President Luiz Inácio Lula da Silva’s narrow re-election victory over Senator Flávio Bolsonaro in Sunday’s runoff election. With nearly all ballots counted, Lula secured 51.8% of the valid vote, while Bolsonaro received 48.2%. The result followed a tightly contested first round earlier this month, in which Bolsonaro secured more votes than Lula. Investors remain focused on Brazil’s increasingly fragile fiscal outlook and how the incoming administration will address these mounting fiscal pressures. Public debt has climbed above 82% of GDP, heightening concerns over debt sustainability and pushing borrowing costs higher. Meanwhile, annual inflation stood at 4.6%, slightly above the central bank’s tolerance range of 1.5%-4.5%, despite elevated interest rates."
-    },
-    {
-      "id": "5168810",
-      "time": "2026-10-26 10:22:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海首家汽車8S店開業，200臺原廠改裝寵物洗護車首批交付】10月25日，上汽大通上海首家、全國規模最大的8S超級使用者體驗中心開業。當天，上汽大通與國內移動寵物服務行業頭部企業“泡泡來了”達成200臺全國移動寵物洗護車最大訂單合作，並在8S店完成首批車輛的交付。"
     }
   ]
 }
