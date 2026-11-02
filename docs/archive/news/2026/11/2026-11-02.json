@@ -1,7 +1,294 @@
 {
   "date": "2026-11-02",
-  "count": 1185,
+  "count": 1214,
   "items": [
+    {
+      "id": "mkt:01a19b7d-9162-7ee0-aa2e-c2b45d991226",
+      "time": "2026-11-02 17:00:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Aidite says 3D printing will be key driver to spur domestic market, improve domestic performance】Aidite told analysts domestic materials fundamentals remain stable: zirconia block shipments rose YoY in the first three quarters, and overseas zirconia shipments maintained high growth. On equipment, Q3 domestic equipment revenue fell YoY as client operating pressure tightened procurement budgets, but the equipment segment still grew about 30% overall, powered by strong overseas equipment sales. The company plans to use centralized procurement to expand implant share via a device-plus-materials model; 3D printing is cited as a major follow-on channel to drive domestic market recovery and improve domestic results."
+    },
+    {
+      "id": "5187145",
+      "time": "2026-11-02 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前普漲】美光漲2.66%，閃迪漲3.05%，SK海力士漲4.53%，西部資料漲2.26%，希捷科技漲3.11%。"
+    },
+    {
+      "id": "5187144",
+      "time": "2026-11-02 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股算力雲相關股票盤前普漲】甲骨文漲1.41%，CoreWeave漲2.31%，Nebius漲3.14%，IREN漲3.22%，Applied Digital跌0.10%。"
+    },
+    {
+      "id": "5187143",
+      "time": "2026-11-02 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股盤前普漲】Lumentum漲2.71%，康寧漲2.40%，Coherent漲2.46%，應用光電漲2.81%，Ciena漲2.86%，博通漲1.29%，邁威爾科技漲3.08%。"
+    },
+    {
+      "id": "5187142",
+      "time": "2026-11-02 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤前：“七姐妹”普漲】英偉達漲1.36%，蘋果跌0.19%，微軟漲0.17%，谷歌漲1.06%，亞馬遜漲0.89%，Meta漲0.07%，特斯拉漲0.45%。"
+    },
+    {
+      "id": "5187141",
+      "time": "2026-11-02 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股太空概念股盤前普漲】SpaceX漲3.11%，Rocket Lab漲2.32%，Planet Labs漲2.67%，AST SpaceMobile漲1.88%，Intuitive Machines漲2.34%。"
+    },
+    {
+      "id": "5187140",
+      "time": "2026-11-02 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤前普跌】禮來跌0.14%，強生跌0.10%，Moderna漲0.17%，諾和諾德跌0.11%，艾伯維跌0.06%，默沙東跌0.23%。"
+    },
+    {
+      "id": "mkt:01a19b7d-6341-7ee0-aa2e-baee65cdca37",
+      "time": "2026-11-02 17:00:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME stocks: zinc down 2,700 t; copper up 19,775 t; aluminium down 425 t; tin, lead and nickel unchanged."
+    },
+    {
+      "id": "mkt:01a19b7d-353c-7ee0-aa2e-b41d8eea935f",
+      "time": "2026-11-02 17:00:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member KAZIMIR said policymakers should act before high inflation comes to be viewed as the norm."
+    },
+    {
+      "id": "mkt:01a19b7d-2ffa-7ee0-aa2e-ac8ca7e06291",
+      "time": "2026-11-02 17:00:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB governing council member Kazimir said markets may still be underestimating the required policy path; the question is no longer whether the ECB needs to take further action but how forceful that action should be."
+    },
+    {
+      "id": "mkt:01a19b7d-205f-7ee0-aa2e-a425c41a00d8",
+      "time": "2026-11-02 17:00:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME zinc inventory change (Nov.2) | actual -2700 | previous -1400"
+    },
+    {
+      "id": "mkt:01a19b7d-1a11-7ee0-aa2e-9fc1fd5a6e26",
+      "time": "2026-11-02 17:00:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME nickel inventory change (Nov.2) | actual 0 | previous -552"
+    },
+    {
+      "id": "mkt:01a19b7d-05a2-7ee0-aa2e-969e5efb89ff",
+      "time": "2026-11-02 17:00:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME aluminum inventory change (Nov.2) | actual -425 | previous -475"
+    },
+    {
+      "id": "mkt:01a19b7d-01b4-7ee0-aa2e-8b118118a89e",
+      "time": "2026-11-02 17:00:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME tin inventory change (Nov.2) | actual 0 | previous 10"
+    },
+    {
+      "id": "mkt:01a19b7c-ed76-7ee0-aa2e-840128bbdb68",
+      "time": "2026-11-02 17:00:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME lead inventory change (Nov.2) | actual 0 | previous -150"
+    },
+    {
+      "id": "te:markets:597225",
+      "time": "2026-11-02 17:00:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Appreciates by 0.79% — Top currency gainers are Swedish Krona (0.79%), Swiss Franc (0.63%), Euro (0.58%) and British Pound (0.37%). Biggest losers are South Korean Won (-0.56%) and Dollar Index (-0.35%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "mkt:01a19b7c-e05e-7ee0-aa2e-7cbe5006c80d",
+      "time": "2026-11-02 17:00:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME copper inventory change (Nov.2) | actual 19775 | previous 1800"
+    },
+    {
+      "id": "mkt:01a19b7c-d5fd-7ee0-aa2e-704e3d9021e7",
+      "time": "2026-11-02 17:00:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME aluminum alloy inventory change (Nov.2) | actual 0 | previous 0"
+    },
+    {
+      "id": "mkt:01a19b7c-d441-7ee0-aa2e-6e413a1dcc64",
+      "time": "2026-11-02 17:00:11",
+      "tags": [
+        "MKT News",
+        "600519.SS"
+      ],
+      "text": "Kweichow Moutai plans to hold a 2026 third‑quarter results briefing on Tuesday, Nov. 10, 2026, from 15:00–16:00 Beijing time."
+    },
+    {
+      "id": "mkt:01a19b7c-c707-7ee0-aa2e-635f1691636b",
+      "time": "2026-11-02 17:00:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Eurozone October final manufacturing PMI 52.7, vs 52.4 expected and 52.4 prior."
+    },
+    {
+      "id": "5187139",
+      "time": "2026-11-02 17:00:04",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區10月製造業PMI終值 52.7，預期52.4，前值52.4。"
+    },
+    {
+      "id": "mkt:01a19b7c-a779-7ee0-aa2e-5ec1acf70856",
+      "time": "2026-11-02 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Manufacturing PMI Final (Oct) | actual 52.7 | consensus 52.4 | previous 52.4"
+    },
+    {
+      "id": "5187138",
+      "time": "2026-11-02 16:59:47",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【中上協：前三季度境內股票市場上市公司合計實現歸母淨利潤5.1萬億元，同比增長8.5%】11月2日，中上協釋出的境內股票市場上市公司2026年三季報經營業績報告顯示，前三季度，境內股票市場上市公司合計實現營業收入56.8萬億元，同比增長5.9%；實現歸母淨利潤5.1萬億元，同比增長8.5%。全市場4079家上市公司實現盈利，營收正增長公司數量佔比較去年全年提高3.8個百分點，超三成公司營收、淨利雙增長。滬深主機板公司經營現金流保持穩健，貢獻全市場營收六成增量。民營上市公司發展態勢良好，營收、淨利潤分別增長13.5%、22.6%，營收增速較上半年進一步提升，其中208家公司實現同比扭虧。"
+    },
+    {
+      "id": "5187137",
+      "time": "2026-11-02 16:59:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華是科技：股票交易異常波動 無應披露未披露重大事項】華是科技公告稱，公司股票於2026年10月29日、10月30日、11月2日連續三個交易日收盤價漲幅偏離值累計達30%，屬於股票交易異常波動情形。公司2026年三季度實現營業收入5.42億元，淨虧損8943.28萬元，扣非淨虧損9791.42萬元。截至目前，公司基本面及內外部經營環境未發生重大變化，公司、控股股東及實控人均不存在應披露而未披露的重大資訊，實控人及控股股東在異動期間未買賣公司股票。公司當前滾動市盈率為負值，顯著偏離行業平均水平，提醒投資者注意投資風險。"
+    },
+    {
+      "id": "5187136",
+      "time": "2026-11-02 16:59:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【可孚醫療：截至10月31日累計回購股份1.34億元】可孚醫療公告稱，公司擬以1.00億元-2.00億元回購A股股份用於登出減資，回購期限為股東會審議透過之日起12個月內，回購價格上限因中期分紅派息實施調整為69.09元/股。截至2026年10月31日，公司透過集中競價方式累計回購股份259.69萬股，佔A股總股本的1.24%，最高成交價54.68元/股，最低成交價48.23元/股，成交總金額1.34億元（不含交易費用）。後續公司將結合市場情況繼續推進回購計劃。"
+    },
+    {
+      "id": "te:markets:597224",
+      "time": "2026-11-02 16:59:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Edge Lower After Fitch Move — The CAC 40 edged down 0.1% to 7,959 on the first trading day of November, as market sentiment turned subdued following Fitch’s unexpected downgrade of France’s credit outlook. While the credit agency affirmed France’s A+ rating, it revised its outlook to negative from stable following an unexpected contraction in the economy in the third quarter. The agency also pointed to weaker growth prospects, higher borrowing costs and a widening budget deficit since its previous review in August. The move followed the recent surprise decision by Moody’s to affirm France’s Aa3 rating while maintaining a negative outlook. Among the biggest decliners were Airbus (-2%), Safran (-1.2%), Thales (-1.1%) and Société Générale (-2%). In contrast, L’Oréal (2.9%), Hermès (2.2%) and Air Liquide (2%) advanced. Elsewhere, Sanofi advanced 4.7% following growth in Q3 sales and adjusted EPS, as well as an $8 billion pact with Regeneron."
+    },
+    {
+      "id": "te:markets:597223",
+      "time": "2026-11-02 16:58:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Italian Stocks Start November Higher — Milan’s FTSE MIB rose 0.2% to above 49,600 on the first trading day of November, as easing oil prices supported risk sentiment. Brent crude fell below $110 per barrel amid continued diplomatic efforts to resolve the Middle East conflict. Reports also indicated that US President Trump wanted to give diplomacy with Iran more time before potentially resuming military strikes following Tuesday’s midterm elections. Banking stocks led the gains, with UniCredit rising 1.3%, Intesa Sanpaolo gaining 0.7%, BPER Banca advancing 1.0%, Banca Mediolanum adding 0.7%, and FinecoBank climbing 1.6%. Other notable gainers included Buzzi Unicem (1.8%), Davide Campari-Milano (1.1%), Lottomatica (1.4%), and Nexi (1.2%). Meanwhile, Telecom Italia fell 0.7%, Eni lost 0.6%, Prysmian declined 0.7%, and A2A dropped 3.2%"
+    },
+    {
+      "id": "5187134",
+      "time": "2026-11-02 16:58:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金洲管道：獲中行湖州分行最高1.8億元回購貸款承諾】金洲管道公告稱，公司此前審議透過股份回購方案，擬使用1億元-2億元以集中競價方式回購股份，回購價格不超過17.81元/股，預計回購股份佔總股本比例為1.08%至2.16%，回購期限為董事會審議透過之日起不超過3個月。近日公司取得中國銀行湖州市分行出具的專項用於股票回購的貸款承諾函，貸款最高額度1.80億元，期限不超過三年，具體事項以正式簽訂的貸款合同為準。"
+    },
+    {
+      "id": "mkt:01a19b7a-9546-7ee0-aa2e-55d004d66d89",
+      "time": "2026-11-02 16:57:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Precious Metals",
+        "Copper",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Naipu Mining Machinery: Peru plant due H2 2027; Chile plant pending approvals; sees sustained demand for wear parts】Naipu Mining Machinery said its Chile and Peru production bases are progressing; the Chile plant has not started production due to local approval processes, while the Peru plant is in equipment installation and is expected to start production in H2 2027. Existing operating capacity can meet current orders. The company is optimistic about sustained demand for mine wear-resistant spare parts, citing: elevated copper and gold prices supporting miner profitability and potential CAPEX expansion; a replacement cycle kicking in after the 2008–2012 global mining CapEx peak given ~15-year equipment lifespans; accelerating penetration and substitution by high-end rubber-composite wear parts; and high-frequency replacement of flotation/processing consumables whose service lives are typically only a few months."
+    },
     {
       "id": "5187133",
       "time": "2026-11-02 16:57:08",
