@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03 02:53:36",
-  "count": 12533,
+  "updated": "2026-11-03 02:57:21",
+  "count": 12527,
   "items": [
     {
       "id": "5188184",
@@ -114889,60 +114889,6 @@
         "其他"
       ],
       "text": "巴西財長：如有必要，央行也將干預外匯市場。"
-    },
-    {
-      "id": "5170889",
-      "time": "2026-10-27 02:57:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安表示，對伊朗重啟攻擊可能將其他國家捲入衝突，他敦促各方避免採取可能引發地區進一步暴力的行動。"
-    },
-    {
-      "id": "mkt:01a17992-6014-7ee0-a988-0f54ee5d74f5",
-      "time": "2026-10-27 02:56:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Report: Iranian security official says Iran prepared, awaiting Israeli move】Fars News reported a security official said the world is watching Netanyahu openly signal intent, including campaigning on destroying Iran. The official said Iran is fully prepared and will respond in equal measure to any threat; even the slightest attack would trigger an unprecedentedly swift and forceful retaliation. He warned Israeli residents to prepare for possible hostilities."
-    },
-    {
-      "id": "5170888",
-      "time": "2026-10-27 02:55:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利礦業部：Capstone Copper宣佈在智利阿塔卡馬地區投資30億美元的計劃。"
-    },
-    {
-      "id": "5170887",
-      "time": "2026-10-27 02:54:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI上報其所監測到的對齊偏差活動摘要。"
-    },
-    {
-      "id": "mkt:01a17990-7b53-7ee0-a988-00ec5cc3b68e",
-      "time": "2026-10-27 02:54:34",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Brazil's finance minister said the government will raise its forecast for next year's primary fiscal surplus."
-    },
-    {
-      "id": "mkt:01a17990-48b9-7ee0-a987-fb174748e378",
-      "time": "2026-10-27 02:54:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's finance minister says the central bank will intervene in the FX market if necessary."
     }
   ]
 }
