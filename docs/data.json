@@ -1,7 +1,52 @@
 {
-  "updated": "2026-11-03 02:27:09",
-  "count": 12544,
+  "updated": "2026-11-03 02:30:59",
+  "count": 12541,
   "items": [
+    {
+      "id": "te:markets:597400",
+      "time": "2026-11-03 02:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Depreciates by 1.76% — Top crypto losers are Bitcoin (-1.76%), Binance (-1.63%) and Ether (-1.04%)."
+    },
+    {
+      "id": "5188177",
+      "time": "2026-11-03 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌8.62%，報681.00元人民幣/桶。滬金夜盤收漲1.18%，滬銀收漲3.41%。"
+    },
+    {
+      "id": "5188176",
+      "time": "2026-11-03 02:26:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國民主黨聯邦參議員達克沃思要求美國聯邦航空管理局（FAA）與國防部就空軍一號飛越白宮一事作出說明。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611033919180276",
+      "time": "2026-11-03 02:25:08",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週一使用規模為50.87億美元（交易對手6家），上個交易日報43.75億美元。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202611033919180276",
+      "time": "2026-11-03 02:25:08",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週一使用規模為50.87億美元（交易對手6家），上個交易日報43.75億美元。"
+    },
     {
       "id": "te:markets:597399",
       "time": "2026-11-03 02:25:06",
@@ -114987,80 +115032,6 @@
         "Impact bearish"
       ],
       "text": "U.S. crude futures settled at $101.76/bl, down $1.51, or 1.46%."
-    },
-    {
-      "id": "5170873",
-      "time": "2026-10-27 02:30:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨結算價為每桶101.76美元，下跌1.51美元，跌幅1.46%。"
-    },
-    {
-      "id": "mkt:01a1797a-9e11-7ee0-a987-b60914cc872b",
-      "time": "2026-10-27 02:30:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D rose 0.51% to 864.53 yuan/gram at the Oct. 26 evening session close; Silver T+D gained 0.30% to 13,056 yuan/kg."
-    },
-    {
-      "id": "5170872",
-      "time": "2026-10-27 02:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌0.87%，報733.30元人民幣/桶。滬金夜盤收漲0.40%，滬銀收漲0.31%。"
-    },
-    {
-      "id": "5170871",
-      "time": "2026-10-27 02:29:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：GPT-6.1 API輸出token定價為每百萬token 5美元。"
-    },
-    {
-      "id": "5170870",
-      "time": "2026-10-27 02:29:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級：美國整體物價壓力加劇通脹持續風險。"
-    },
-    {
-      "id": "mkt:01a17979-c172-7ee0-a987-aca29232b06a",
-      "time": "2026-10-27 02:29:44",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "FITCH says broader US price pressures raise the risk of persistent inf."
-    },
-    {
-      "id": "5170868",
-      "time": "2026-10-27 02:29:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：GPT-6.1 API快取輸入token定價為每百萬0.05美元。"
-    },
-    {
-      "id": "5170867",
-      "time": "2026-10-27 02:29:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：GPT-6.1 Terra標準API定價為每百萬輸入token 1美元。"
     }
   ]
 }
