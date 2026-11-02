@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-03 02:42:17",
-  "count": 12534,
+  "updated": "2026-11-03 02:46:03",
+  "count": 12532,
   "items": [
+    {
+      "id": "5188181",
+      "time": "2026-11-03 02:44:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文規模100億美元的股票發售據悉獲得了超額認購。"
+    },
     {
       "id": "5188180",
       "time": "2026-11-03 02:40:25",
@@ -114927,34 +114935,6 @@
         "MKT News"
       ],
       "text": "Brazil's finance minister said the government will submit a proposal this year aiming to set the fiscal target at the midpoint of the range."
-    },
-    {
-      "id": "5170884",
-      "time": "2026-10-27 02:44:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨結算價報每桶115.81美元，下跌91美分，跌幅0.78%。"
-    },
-    {
-      "id": "mkt:01a17987-95ff-7ee0-a987-e2cb552c0236",
-      "time": "2026-10-27 02:44:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude futures settled at $115.81/bbl, down $0.91, or 0.78%."
-    },
-    {
-      "id": "5170882",
-      "time": "2026-10-27 02:43:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗警告以色列，將對任何威脅予以對等回應。"
     }
   ]
 }
