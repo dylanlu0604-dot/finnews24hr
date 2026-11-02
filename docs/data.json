@@ -1,7 +1,223 @@
 {
-  "updated": "2026-11-02 17:01:42",
-  "count": 13155,
+  "updated": "2026-11-02 17:05:44",
+  "count": 13173,
   "items": [
+    {
+      "id": "mkt:01a19b81-04eb-7ee0-aa2e-f04d2f3e1b5d",
+      "time": "2026-11-02 17:04:46",
+      "tags": [
+        "MKT News",
+        "ABBV.N",
+        "Impact bullish"
+      ],
+      "text": "MORGAN STANLEY raised AbbVie (ABBV.N) PT to $346 from $310."
+    },
+    {
+      "id": "5187152",
+      "time": "2026-11-02 17:04:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九號公司：截至10月31日累計回購金額2.43億元】九號公司公告稱，公司回購股份用於減少註冊資本，原回購資金總額為1.50億元-3.00億元，後擬調整為3.50億元-7.00億元，該調整尚需股東會審議；回購價格上限因權益分派由60.00元/份調整為58.78元/份，回購實施期限為2026年6月26日至2027年6月25日。截至2026年10月31日，公司累計回購存託憑證640.70萬份，佔存託憑證總數的0.87%，回購價格區間為32.16元/份-41.80元/份，累計支付總金額2.43億元。"
+    },
+    {
+      "id": "mkt:01a19b80-d74e-7ee0-aa2e-eba9fc323160",
+      "time": "2026-11-02 17:04:34",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB executive board member KAZIMIR said waiting for inflation to spread and for firms to pass on costs may not be a wise policy."
+    },
+    {
+      "id": "5187151",
+      "time": "2026-11-02 17:04:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【秦朔正式起訴抖音集團副總裁李亮】11月2日，秦朔朋友圈創始人秦朔釋出朋友圈，稱“針對近期‘抖音集團李亮’釋出的侵害本人名譽權的言論，已委託律師向人民法院提起訴訟，依法採取措施維護自身合法權益，追究侵權方的法律責任。”該案件已委託國浩律師事務所受理，相關負責律師確認，該案件已向上海法院提交起訴材料。"
+    },
+    {
+      "id": "mkt:01a19b80-53c4-7ee0-aa2e-e2743bc09a2b",
+      "time": "2026-11-02 17:04:00",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) rose more than 1% in premarket trading."
+    },
+    {
+      "id": "5187150",
+      "time": "2026-11-02 17:03:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華勤技術：實控人邱文生完成增持1127.39萬元股份】華勤技術公告稱，公司實際控制人、董事長兼總經理邱文生增持計劃實施完畢。邱文生原計劃自2026年10月30日起3個月內，以集中競價方式增持公司A股股份，擬增持金額1000萬元。2026年10月30日，邱文生透過集中競價合計增持公司股份17.72萬股，佔公司總股本的0.0117%，累計增持金額1127.39萬元（不含交易費用）。本次增持前，邱文生及其一致行動人合計持有公司40.7270%股份，本次增持符合免於發出要約的情形。"
+    },
+    {
+      "id": "te:markets:597233",
+      "time": "2026-11-02 17:03:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Index Hits 4-week Low — DXY decreased to 101.44, the lowest since September 2026. Over the past 4 weeks, Dollar Index lost 0.69%, and in the last 12 months, it increased 1.59%."
+    },
+    {
+      "id": "em:qqyh_zgyh:202611023918776293",
+      "time": "2026-11-02 17:02:53",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：將於11月3日開展證券、基金、保險公司互換便利操作】為支援資本市場健康穩定發展，中國人民銀行將於11月3日開展證券、基金、保險公司互換便利操作，互換期限1年，可視情展期。目前有31家證券、基金公司申報需求，申請額度超過1000億元。"
+    },
+    {
+      "id": "5187149",
+      "time": "2026-11-02 17:02:46",
+      "tags": [
+        "央行",
+        "公司",
+        "焦點"
+      ],
+      "text": "央行：為支援資本市場健康穩定發展，中國人民銀行將於11月3日開展證券、基金、保險公司互換便利操作，互換期限1年，可視情展期。目前有31家證券、基金公司申報需求，申請額度超過1000億元。"
+    },
+    {
+      "id": "5187148",
+      "time": "2026-11-02 17:02:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元上漲0.4%至1.3446；斐波那契阻力位在1.3470。"
+    },
+    {
+      "id": "te:markets:597232",
+      "time": "2026-11-02 17:02:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Rebounds From 17-Month Lows — The euro climbed back above $1.12, attempting to recover from 17-month lows, as renewed declines in oil prices and uncertainty surrounding Tuesday’s US midterm elections weighed on the US dollar. The recovery came despite persistent concerns over France’s fiscal outlook, following Fitch Ratings’ decision to revise the country’s outlook to negative in an unscheduled review last week. Oil prices fell after reports suggested US President Donald Trump was willing to give diplomatic efforts with Iran more time before considering renewed military strikes following Tuesday’s midterm elections, which could reshape the balance of power in Congress. Meanwhile, the ECB kept interest rates unchanged on Thursday, offering little guidance on the future policy path. President Christine Lagarde confirmed that a rate hike had been discussed, but policymakers unanimously opted to maintain borrowing costs, citing tighter financial conditions as one factor helping to contain inflationary pressures."
+    },
+    {
+      "id": "te:economy:597231",
+      "time": "2026-11-02 17:02:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Italy Manufacturing Sector Returns to Contraction — Italy’s manufacturing PMI fell to 49.4 in October 2026 from 50.4 in September, below expectations of 50.2 and marking its weakest reading since January. The decline reflected subdued demand, with new orders falling for a fourth consecutive month and production contracting at its fastest pace since the start of the year. Geopolitical uncertainty continued to weigh on customer demand, while manufacturers also reduced purchasing activity and cut employment for the first time since July. Firms further lowered inventories, preferring to maintain leaner stocks despite persistent supply-chain disruptions. Delivery times lengthened at the sharpest rate in three months. Meanwhile, inflationary pressures intensified, reaching a four-month high. Companies passed some of these increases on to customers, pushing selling-price inflation to its highest level in three months. Despite continued optimism about the year ahead, business confidence weakened."
+    },
+    {
+      "id": "mkt:01a19b7e-ffcf-7ee0-aa2e-dc8a0ea66f1e",
+      "time": "2026-11-02 17:02:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "PBOC will launch a swap facility on Nov. 3 for securities, fund and insurance companies to support healthy, stable development of the capital market; tenor one year, extendable. Thirty-one firms have applied, requesting more than 100 billion yuan."
+    },
+    {
+      "id": "te:markets:597230",
+      "time": "2026-11-02 17:02:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline is down by 5% — Gasoline decreased 5% to 2.9988 USD/Gal"
+    },
+    {
+      "id": "mkt:01a19b7e-a205-7ee0-aa2e-d7132517cb7e",
+      "time": "2026-11-02 17:02:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Economist: Euro-area manufacturing recovery gains momentum; France, Italy lag】S&P Global Market Intelligence chief business economist Chris Williamson said euro-area PMI shows manufacturing is in its strongest growth phase in more than four years, with sustained expansion since February. The sector has proved resilient despite earlier cost and supply shocks from tariffs and conflicts in the Middle East and Ukraine. Rising defence spending, precautionary inventory rebuilding, supply-chain diversification and trade-flow shifts from US tariffs have created growth opportunities for many manufacturers. The recovery is uneven: French and Italian manufacturers remain weak, with French industry also hit by rising domestic political uncertainty. Input-cost inflation for purchased materials jumped in October to one of the highest levels in four years, driven by energy prices and supply bottlenecks. The PMI print increases pressure on the ECB to continue raising rates in coming months, adding new headwinds for companies."
+    },
+    {
+      "id": "5187147",
+      "time": "2026-11-02 17:01:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前多數上漲，嗶哩嗶哩漲4%】美股中概股盤前多數上漲，嗶哩嗶哩漲4%，阿里巴巴漲3%，拼多多漲1%，百度漲0.7%，京東漲0.6%，攜程漲0.4%，網易漲0.1%，貝殼持平。"
+    },
+    {
+      "id": "te:markets:597228",
+      "time": "2026-11-02 17:01:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Starts the Week Cautious — Frankfurt's DAX 40 was little changed around 25,830 on Monday, mirroring a cautious sentiment across both sides of the Atlantic, ahead of tomorrow's US midterm elections. Meanwhile, oil prices declined following reports that Donald Trump wants to extend negotiations with Iran before considering resuming airstrikes after the elections. Fresenius SE & Co surged over 2% to the top of the index, on news it is expanding its pipeline of generic drugs through a development agreement with WuXi Biologics."
+    },
+    {
+      "id": "mkt:01a19b7e-334f-7ee0-aa2e-cc34c3da1218",
+      "time": "2026-11-02 17:01:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "SPCX.O",
+        "Impact bullish",
+        "NVDA.O",
+        "MU.O"
+      ],
+      "text": "U.S. premarket: select AI-related names rose; SpaceX (SPCX.O) +3.0%, NVIDIA (NVDA.O) +1.4%, Micron Technology (MU.O) +2.6%."
+    },
+    {
+      "id": "te:economy:597227",
+      "time": "2026-11-02 17:01:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Germany Manufacturing PMI Unrevised in October — The S&P Global Germany Manufacturing PMI was confirmed at 54.2 in October 2026, the second-highest for almost four-and-a-half years, just behind August's recent peak, and compared to 53.9 in September. The reading pointed to sustained solid growth in production levels, supported by rising export sales. Factory employment meanwhile came even closer to stabilising, registering its smallest fall in over three years, amid further signs of capacity pressures building. However, coinciding with a jump in the rate of input price inflation to the highest since May and a worsening of supply delays, the latest data showed a reduction in manufacturers' expectations for output growth in the coming year and a build-up of buffer stocks of inputs."
+    },
+    {
+      "id": "5187146",
+      "time": "2026-11-02 17:01:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【原江蘇省廣電有線資訊網路股份有限公司董事長姜龍接受審查調查】據江蘇省紀委監委訊息：原江蘇省廣電有線資訊網路股份有限公司黨委書記、董事長姜龍涉嫌嚴重違紀違法，目前正接受江蘇省紀委監委紀律審查和監察調查。"
+    },
     {
       "id": "mkt:01a19b7d-9162-7ee0-aa2e-c2b45d991226",
       "time": "2026-11-02 17:00:59",
@@ -136,6 +352,15 @@
         "Economic Calendar"
       ],
       "text": "United Kingdom | LME tin inventory change (Nov.2) | actual 0 | previous 10"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202611023918774841",
+      "time": "2026-11-02 17:00:20",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【歐元區10月製造業PMI終值為52.7 預期52.4】歐元區10月製造業PMI終值為52.7，預期52.4，前值52.4。"
     },
     {
       "id": "mkt:01a19b7c-ed76-7ee0-aa2e-840128bbdb68",
@@ -120184,40 +120409,6 @@
         "MKT News"
       ],
       "text": "Russia's consumer rights and public health watchdog Rospotrebnadzor reported one imported Zika case; the patient returned from Bali."
-    },
-    {
-      "id": "te:economy:595003",
-      "time": "2026-10-26 17:04:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Business Confidence",
-        "Importance 3"
-      ],
-      "text": "German Business Sentiment Improves Further in October — Germany’s Ifo Business Climate Index edged up to 90.2 in October 2026, its highest level since May 2023, slightly above market expectations of 90.0. The improvement was driven by more optimistic business expectations, which rose to 91.6 from 90.4 in September, suggesting that the economic recovery is gaining momentum despite an energy price shock that has pushed fuel costs to record highs. However, companies assessed their current business conditions less favorably, with the corresponding index falling to 88.8 from 89.5. By sector, manufacturing sentiment returned to positive territory for the first time in more than three years, rising to 1.2 from -2.7 as incoming orders increased and firms planned to expand production. Construction sentiment also improved to -15.5 from -17.0. Meanwhile, trader confidence remained unchanged at -17.2, while sentiment in the services sector turned negative, falling to -1.2 from 0.7 as companies grew less satisfied with current business conditions."
-    },
-    {
-      "id": "mkt:01a17773-8b43-7ee0-a97b-b14d441b2edc",
-      "time": "2026-10-26 17:03:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "German 10-year Bund yield rose 3.5 bps to 3.380%."
-    },
-    {
-      "id": "mkt:01a17771-df0b-7ee0-a97b-ad623aae2532",
-      "time": "2026-10-26 17:01:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "ENI.MI",
-        "Impact bullish"
-      ],
-      "text": "UBS raises PT on Italy's oil major ENI to €32 from €30."
     }
   ]
 }
