@@ -1,7 +1,137 @@
 {
-  "updated": "2026-11-02 09:36:51",
-  "count": 12945,
+  "updated": "2026-11-02 09:40:37",
+  "count": 12959,
   "items": [
+    {
+      "id": "5186354",
+      "time": "2026-11-02 09:39:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "寒武紀跌逾5%。"
+    },
+    {
+      "id": "mkt:01a199e9-7a76-7ee0-aa24-17a25c978968",
+      "time": "2026-11-02 09:39:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "688256.SS",
+        "Impact bearish"
+      ],
+      "text": "Cambricon shares slid over 5% in early trading on China’s A-share market."
+    },
+    {
+      "id": "mkt:01a199e9-05f7-7ee0-aa24-0f0aea325356",
+      "time": "2026-11-02 09:39:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share PCB concept stocks rallied. Jinlu Electronics hit the 20% daily limit; Taijin New Energy and Mingyang Circuit rose over 10%; Dongshan Precision, Haimu Star, Weiergao, Delong Laser and Lite Optoelectronics also advanced."
+    },
+    {
+      "id": "5186353",
+      "time": "2026-11-02 09:38:46",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【Kospi收復2%跌幅轉漲 海力士回購、本土資金託市】韓國綜合股指Kospi收復此前2%的跌幅，最高上漲1.6%，海力士回購以及本土資金入市託底。SK海力士由跌轉漲，最高漲幅3.2%。該公司於週四啟動規模2萬億韓元、為期三個月的股票回購。本土資金淨買入5180億韓元Kospi成分股，外資與散戶則賣出。Kiwoom證券分析師韓知英表示：“Kospi上週五的急跌顯得過度，或為逢低買入創造條件。”她同時稱：“不過本週美國一系列重大事件將擾動市場，投資者需要做好波動加劇的準備。”"
+    },
+    {
+      "id": "5186352",
+      "time": "2026-11-02 09:38:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念板塊拉昇，金祿電子觸及20cm漲停】PCB概念板塊拉昇，金祿電子觸及20cm漲停，泰金新能、明陽電路漲超10%，東山精密、海目星、威爾高、德龍鐳射、萊特光電跟漲。"
+    },
+    {
+      "id": "5186351",
+      "time": "2026-11-02 09:37:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃安：埃安i60第十萬臺交付圓滿收官，重新整理雙動力 SUV 十萬臺最快交付 。"
+    },
+    {
+      "id": "5186350",
+      "time": "2026-11-02 09:37:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樂奇創始人祝銘明：AI眼鏡隱私防護是“矛與盾的博弈”，希望行業集體積極應對挑戰】“AI眼鏡領域的隱私與防護是矛與盾的博弈，這是行業必須直面的命題，企業所能做的，是最大限度抬高犯錯的成本。”近日，國內頭部AI眼鏡公司樂奇（Rokid）創始人祝銘明在接受澎湃新聞記者採訪時，談到了自己對於隱私安全等公共議題的看法。對此，祝銘明表示，樂奇首先明確，去掉攝像頭的版本不會作為面向大眾的主流量產版本。（澎湃）"
+    },
+    {
+      "id": "mkt:01a199e7-583f-7ee0-aa24-043c315e6bde",
+      "time": "2026-11-02 09:37:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Snapshot: retail cash-management 7-day annualized yields】Licaitong (Huoqi+) 7-day annualized yield 0.6940%–1.0740%. WeChat Lingqian Tong 7-day annualized yield 0.8460%–0.9770%. Alipay Yu’ebao 7-day annualized yield 0.9050%–1.0180%."
+    },
+    {
+      "id": "5186349",
+      "time": "2026-11-02 09:36:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局訊息：克馬德克群島地區發生5.1級地震。"
+    },
+    {
+      "id": "mkt:01a199e6-e268-7ee0-aa23-fc0137967e67",
+      "time": "2026-11-02 09:36:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share robotics sector opened weaker; Yushu Technology and Pasilin declined over 10%, Estun down more than 6%, Kairda and Leisai Intelligent also slid."
+    },
+    {
+      "id": "5186348",
+      "time": "2026-11-02 09:36:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股機器人板塊盤初走弱，宇樹科技、派斯林跌超10%，埃斯頓跌超6%，凱爾達、雷賽智慧等跟跌。"
+    },
+    {
+      "id": "5186347",
+      "time": "2026-11-02 09:36:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.05%，成分股中，石頭科技漲12.58%，格科微漲11.16%，翱捷科技漲8.06%，時代電氣漲6.24%。"
+    },
+    {
+      "id": "5186346",
+      "time": "2026-11-02 09:36:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊延續調整，慈文傳媒、文投控股觸及跌停】影視院線板塊延續調整，慈文傳媒、文投控股觸及跌停，橫店影視、奧飛娛樂、歡瑞世紀、博納影業、華智數媒跟跌。"
+    },
+    {
+      "id": "5186345",
+      "time": "2026-11-02 09:36:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股智元機器人板塊短線走低】安乃達跌9.70％，永貴電器、海寧皮城、軟通動力、長飛光纖跟跌。"
+    },
     {
       "id": "5186344",
       "time": "2026-11-02 09:35:38",
