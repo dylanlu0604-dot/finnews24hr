@@ -1,7 +1,133 @@
 {
   "date": "2026-11-02",
-  "count": 1096,
+  "count": 1110,
   "items": [
+    {
+      "id": "te:markets:597213",
+      "time": "2026-11-02 16:38:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Halts 3-Day Gain — The FTSE 100 fell on Monday, ending a three-session winning streak, as losses in heavyweight energy stocks weighed on the index. BP declined more than 1%, while Shell also traded lower, tracking a pullback in oil prices. Brent crude fell more than 3% to below $110 a barrel after reports that US President Donald Trump wanted to give diplomacy with Iran more time before considering further military action following Tuesday’s US midterm elections. Iran said that an exchange of messages was ongoing, helping ease concerns about an immediate escalation. Elsewhere, HSBC Holdings lost around 1%, while AstraZeneca and GSK also declined by more than 1%. Rio Tinto was among the gainers, rising almost 1%. Investors were also positioning ahead of the Bank of England’s policy decision on Thursday, with markets widely expecting the first interest rate increase since 2023. The anticipated move reflects mounting inflationary pressures linked to the Iran war and signs of resilience in the UK economy."
+    },
+    {
+      "id": "mkt:01a19b68-b540-7ee0-aa2d-a499ddf0b723",
+      "time": "2026-11-02 16:38:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi national emergency alert system has issued an alert for the Jizan region."
+    },
+    {
+      "id": "5187079",
+      "time": "2026-11-02 16:38:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【民主黨議員公開支援共和黨候選人 美中期選舉現“十一月驚奇”】距11月3日美國國會改選、即中期選舉投票日僅兩天，密歇根州出現“十一月驚奇”：先前在聯邦參議員民主黨初選中不敵現任候選人阿卜杜勒·賽義德的史蒂文斯1日公開“背書”共和黨候選人邁克·羅傑斯，理由是她與賽義德就如何對待以色列持不同立場。史蒂文斯在民主黨內遭到一致譴責，隨即被踢出隊伍。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a19b68-49fe-7ee0-aa2d-9a444415e84b",
+      "time": "2026-11-02 16:37:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude fell 3.00% intraday to $108.34/bbl. WTI slid 3.00% intraday, dropping below $99/bbl."
+    },
+    {
+      "id": "5187078",
+      "time": "2026-11-02 16:37:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯就吉贊地區潛在危險發出警告。"
+    },
+    {
+      "id": "5187077",
+      "time": "2026-11-02 16:37:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國中水務：擬以2000萬-2500萬元回購股份並登出】國中水務公告稱，公司擬以集中競價交易方式回購股份，回購資金總額為2000萬元-2500萬元，回購價格上限為1.89元/股，預計回購數量為1058.20萬股-1322.75萬股，佔總股本比例為0.66%-0.82%。回購股份將全部用於登出並減少註冊資本，實施期限為股東會審議透過之日起12個月，資金來源為自有資金。本次回購方案尚需公司股東會審議透過。"
+    },
+    {
+      "id": "5187076",
+      "time": "2026-11-02 16:37:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "NYMEX汽油主力合約大跌5%，現報3.0美元/加侖。"
+    },
+    {
+      "id": "5187075",
+      "time": "2026-11-02 16:36:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福達股份：擬回購登出68萬股限制性股票】福達股份公告稱，因2025年度新能源電驅齒輪產品銷售收入未達2024年限制性股票激勵計劃第二個解除限售期業績考核目標，公司擬回購登出7名激勵物件持有的未獲解禁限制性股票合計68萬股，回購價格為1.95元/股加銀行同期存款利息，資金來源為自有資金。本次回購登出預計於2026年11月5日完成，完成後公司股份總數將減少至64497.07萬股，不會導致實控人變更，股權分佈仍具備上市條件，後續將依法辦理工商變更等手續。"
+    },
+    {
+      "id": "5187074",
+      "time": "2026-11-02 16:36:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉祥航空：截至10月31日累計回購股份達7.60億元】吉祥航空公告稱，公司擬以4億元-8億元自有資金透過集中競價方式回購股份，用於員工持股計劃或股權激勵，回購價格不超過15元/股，回購期限為2026年7月8日至2027年7月7日。2026年10月公司回購股份1140.98萬股，佔總股本0.53%，回購價區間為9.20元/股-9.84元/股，支付金額1.10億元。截至2026年10月31日，公司累計回購股份7347.13萬股，佔總股本3.39%，回購價區間為9.20元/股-11.25元/股，累計支付金額7.60億元。"
+    },
+    {
+      "id": "5187073",
+      "time": "2026-11-02 16:36:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守109美元/桶，日內跌3.91%。"
+    },
+    {
+      "id": "5187072",
+      "time": "2026-11-02 16:36:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油日內跌4%，現報99.95美元/桶。"
+    },
+    {
+      "id": "5187071",
+      "time": "2026-11-02 16:35:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守100美元/桶，日內跌3.96%。"
+    },
+    {
+      "id": "5187070",
+      "time": "2026-11-02 16:35:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：比利時首相向比利時國王遞交了辭呈。"
+    },
+    {
+      "id": "5187069",
+      "time": "2026-11-02 16:34:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中創智領：截至10月31日累計回購股份942.82萬股】中創智領公告稱，公司擬以3億元-4億元自有或自籌資金回購A股股份，用於減少註冊資本及實施股權激勵/員工持股計劃，回購價格不超過21.00元/股，回購期限為2026年8月25日至2027年8月24日。2026年10月公司回購A股股份464.79萬股，佔總股本0.26%，回購價13.14元/股-14.68元/股，支付資金6408.74萬元。截至2026年10月31日，公司累計回購942.82萬股，佔總股本0.53%，回購價12.99元/股-14.68元/股，累計支付資金12893.97萬元。"
+    },
     {
       "id": "5187068",
       "time": "2026-11-02 16:34:19",
