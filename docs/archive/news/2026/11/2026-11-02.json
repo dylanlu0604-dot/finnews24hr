@@ -1,7 +1,120 @@
 {
   "date": "2026-11-02",
-  "count": 601,
+  "count": 612,
   "items": [
+    {
+      "id": "5186424",
+      "time": "2026-11-02 10:18:00",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本經濟財政大臣：擺脫通縮需“謹慎判斷”，將重點觀察供需缺口】日本經濟財政大臣城內實2日在內閣會議後表示，政府需“謹慎決定”是否宣佈擺脫通縮的立場未變，將綜合考慮物價潛在趨勢及背景因素。城內實強調，今後判斷的核心依據是供需缺口，“包括未來走向在內，將慎重觀察其能否持續保持正值。”他指出，擺脫通縮不僅需走出物價持續下跌，還需持續確保不會重返通縮。針對日本央行10月30日稱基調物價漲幅“基本符合”2%目標，城內實表示，相信央行將繼續妥善運營貨幣政策以實現物價穩定目標。對於加快出售ETF，他表示“尊重日本央行的應對方針”。"
+    },
+    {
+      "id": "mkt:01a19a0c-466f-7ee0-aa25-1aa28b361cf4",
+      "time": "2026-11-02 10:17:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "512100",
+        "Impact bullish",
+        "510300",
+        "159915"
+      ],
+      "text": "【Broad A-share ETFs see outsized volume; CSI 1000 ETF turnover exceeds prior full session】Onshore broad-based ETFs recorded heavy flows. China Southern CSI 1000 ETF (512100) turnover was about 4.4 bln yuan, exceeding the previous trading day's full-session turnover. ChinaAMC STAR 50 ETF (588000), E Fund ChiNext ETF (159915) and Huatai‑PineBridge CSI 300 ETF (510300) each traded above 5.0 bln yuan."
+    },
+    {
+      "id": "5186423",
+      "time": "2026-11-02 10:16:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【部分寬基ETF顯著放量 中證1000ETF南方（512100）成交額超上一日全天】開盤第一個小時，部分寬基ETF顯著放量，中證1000ETF南方（512100）成交額近44億元，超出上一日全天成交額，科創50ETF華夏（588000）、創業板ETF易方達（159915）、滬深300ETF華泰柏瑞（510300）成交額均超50億元。"
+    },
+    {
+      "id": "mkt:01a19a0b-586c-7ee0-aa25-13191f6aadbd",
+      "time": "2026-11-02 10:16:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Kiuchi says cautious on declaring escape from deflation, will focus on supply-demand gap】Kiuchi told reporters after a Cabinet meeting on Nov. 2 the government will \"carefully decide\" whether to declare an end to deflation, weighing underlying price trends and background factors. He said the core basis for judgment is the supply-demand gap and authorities will \"carefully watch\" whether it can remain positive, including its future trajectory. Kiuchi added that escaping deflation requires not only ending sustained price declines but also ensuring prices do not revert. Referring to the Bank of Japan's Oct. 30 comment that core inflation is \"basically in line\" with the 2% target, he said he expects the Bank of Japan to continue to operate policy appropriately to achieve price stability and that he \"respects\" the bank's approach to accelerating ETF sales."
+    },
+    {
+      "id": "5186422",
+      "time": "2026-11-02 10:16:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐銀行執行長：將在中國香港設立人工智慧與新興技術研究院。"
+    },
+    {
+      "id": "mkt:01a19a0a-9a26-7ee0-aa25-0999c6ec0813",
+      "time": "2026-11-02 10:15:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "300750.SZ",
+        "Impact bullish",
+        "300014.SZ",
+        "002074.SZ"
+      ],
+      "text": "A-share lithium battery sector rallied; Sunwoda jumped over 12%, while CATL, Lingpai Technology, Penghui Energy, EVE Energy and Gotion High‑Tech also advanced."
+    },
+    {
+      "id": "5186421",
+      "time": "2026-11-02 10:15:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "中國東方航空H股下跌1.1%，A股上漲1.5%。"
+    },
+    {
+      "id": "te:markets:597077",
+      "time": "2026-11-02 10:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Drops by 0.42% — Top currency losers are South Korean Won (-0.42%) and Japanese Yen (-0.19%)."
+    },
+    {
+      "id": "5186420",
+      "time": "2026-11-02 10:15:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數開盤基本持平，報1741.62點。"
+    },
+    {
+      "id": "5186419",
+      "time": "2026-11-02 10:14:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【鋰電池板塊震盪拉昇 欣旺達漲超12%】鋰電池板塊震盪拉昇，欣旺達漲超12%，寧德時代、領湃科技、鵬輝能源、億緯鋰能、國軒高科跟漲。"
+    },
+    {
+      "id": "mkt:01a19a09-9aa3-7ee0-aa25-071766291633",
+      "time": "2026-11-02 10:14:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell to 110 dlr/barrel, down 1.51% intraday."
+    },
     {
       "id": "mkt:01a19a08-3256-7ee0-aa24-f8924780f195",
       "time": "2026-11-02 10:13:10",
