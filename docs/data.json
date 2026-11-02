@@ -1,7 +1,59 @@
 {
-  "updated": "2026-11-02 10:26:12",
-  "count": 13010,
+  "updated": "2026-11-02 10:29:56",
+  "count": 13008,
   "items": [
+    {
+      "id": "mkt:01a19a16-5a3c-7ee0-aa25-568b7878da08",
+      "time": "2026-11-02 10:28:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CHINA to hold ceremony to welcome Oman's Sultan Haitham】CHINA will hold a ceremony on Nov 2 to welcome Oman's Sultan Haitham, who is on a state visit to China from Nov 1-2."
+    },
+    {
+      "id": "5186439",
+      "time": "2026-11-02 10:28:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平將舉行儀式歡迎阿曼蘇丹海賽姆訪華】11月2日上午，國家主席習近平將在北京人民大會堂北大廳舉行儀式，歡迎阿曼蘇丹海賽姆訪華。應國家主席習近平邀請，阿曼蘇丹海賽姆於11月1日至2日對中國進行國事訪問。（央視新聞）"
+    },
+    {
+      "id": "5186438",
+      "time": "2026-11-02 10:27:40",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【40年房貸落地兩月觀望情緒仍濃厚，有全國性銀行僅投放800筆，高總價購房者意願更強】828房貸新政出臺近兩個月，40年期個人房貸政策已在銀行層面全面執行。多名銀行人士透露，9月、10月申請40年房貸的人數佔比不如預期，有全國性銀行兩月僅投放約800筆，整體仍保持觀望；30年左右期限客戶數量是申請40年房貸客戶數量的兩倍多，高總價購房者更願選擇40年房貸。放款節點在8月28日後取得預售許可證的專案，需專案竣工備案後才能放款，放款時間明顯延後。預計後續申請人數仍有望保持一定增長。"
+    },
+    {
+      "id": "5186437",
+      "time": "2026-11-02 10:27:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "11月2日早盤，此前已走出三連板的上海滬工（603131）盤中炸板，截至發稿報18.19元/股，換手率達19%。"
+    },
+    {
+      "id": "5186436",
+      "time": "2026-11-02 10:26:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【招商銀行副行長彭家文：銀行業淨息差仍面臨下行壓力】11月2日金融一線訊息，招商銀行今日召開2026年三季度業績交流會，副行長兼任財務負責人彭家文表示，銀行業淨息差仍然會面臨下行的壓力，行業總體來看仍然會承壓前行。“從前三個季度公佈的資料來看，銀行業的息差表現出了一個階段性的企穩的特徵。”彭家文表示，“我們也看到了我們同行兄弟行的一些資料，有一些都已經開始平企穩反彈，但是我們判斷總體情況下還是一個階段性的企穩。”彭家文強調，在未來一段時間息差下行的壓力還是存在的。現在還難言已經出現拐點、開始反彈，所以銀行業必須要做好各方面的準備，來應對息差的壓力。他表示，“對招商銀行而言，我們將會更加精細化、精益化地開展資產負債管理，我們的目標仍然不變，是力求息差降幅持續收窄，保持息差水平的行業領先。”"
+    },
+    {
+      "id": "te:economy:597079",
+      "time": "2026-11-02 10:26:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Reverse Repo Rate",
+        "Importance 1"
+      ],
+      "text": "PBoC Moves Toward Overnight Rate as Main Policy Anchor — The People’s Bank of China will shift its short-term monetary policy framework toward the overnight rate from Monday, introducing daily overnight reverse repo operations at a fixed rate of 1.25%. The move brings the overnight rate closer to becoming its main policy anchor, replacing the long-standing seven-day benchmark. The operations will use fixed-rate, quantity-based tenders to improve short-term interest rate management. The 1.25% rate, disclosed for the first time, is below the existing 1.4% seven-day reverse repo rate and broadly aligns with market expectations and actual borrowing costs. Under the revised framework, other liquidity tools, including temporary repo and reverse repo operations, will also be priced off the overnight rate, with existing spreads unchanged. Seven-day operations will continue but shift to fixed-quantity tenders with multiple winning bid rates, mainly serving liquidity needs around tax payment periods and month-ends."
+    },
     {
       "id": "5186435",
       "time": "2026-11-02 10:25:09",
@@ -45,6 +97,14 @@
         "MKT News"
       ],
       "text": "【South Korea plans to cut securities settlement cycle from T+2 to T+1 by 2028】Korea Exchange, Korea Securities Depository, Korea Securities Finance Corporation and Koscom published a joint roadmap to move equity and related securities settlement from the current T+2 to T+1. The firms said they will begin infrastructure upgrades, aim to complete clearing and settlement system changes by October 2027, and expect to switch to T+1 during 2028. A specific cutover date has not been set."
+    },
+    {
+      "id": "5186432",
+      "time": "2026-11-02 10:23:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河北省邢臺市委書記楊猛接受審查調查】中央紀委國家監委網站11月2日通報，據河北省紀委監委訊息：河北省邢臺市委書記楊猛涉嫌嚴重違紀違法，目前正接受河北省紀委監委紀律審查和監察調查。"
     },
     {
       "id": "5186431",
@@ -118852,79 +118912,6 @@
         "公司"
       ],
       "text": "【藍思科技：摺疊屏相關產線生產任務飽滿，已做好充分的產能準備】藍思科技表示，公司為摺疊屏手機提供UTG超薄柔性玻璃等結構件，相關產品加工難度大、附加值高。目前公司相關產線生產任務飽滿，正加班加點進行生產發貨，同時已做好充分的產能準備，能夠靈活響應客戶後續需求增長。隨著端側AI應用持續豐富，摺疊屏有望成為端側AI時代的重要硬體形態。"
-    },
-    {
-      "id": "5168829",
-      "time": "2026-10-26 10:29:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "越南國家石油集團：鑽井部門與越南出光燃氣生產公司簽署石油鑽機供應合同。"
-    },
-    {
-      "id": "5168828",
-      "time": "2026-10-26 10:29:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：我們將加強數學和工程學教育。"
-    },
-    {
-      "id": "5168827",
-      "time": "2026-10-26 10:29:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴西大選最終計票結果】巴西高等選舉法院當地時間10月25日晚公佈巴西總統選舉第二輪投票最終計票結果：現任總統、勞工黨候選人盧拉得票率為51.79%，前總統雅伊爾·博索納羅之子、自由黨候選人弗拉維奧得票率為48.21%。本次投票率為80.78%。根據投票結果，盧拉贏得巴西總統選舉，成功連任，將開啟其第四個總統任期。10月4日舉行的選舉首輪投票中，弗拉維奧以47.03%的得票率排名第一，盧拉以45.16%位居第二。兩人均未獲得過半數有效選票，選舉進入第二輪。（CCTV國際時訊）"
-    },
-    {
-      "id": "5168824",
-      "time": "2026-10-26 10:28:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "全部選票統計完成後，盧拉得票率為51.79%，博索納羅為48.21%。"
-    },
-    {
-      "id": "5168823",
-      "time": "2026-10-26 10:27:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【今日宜休王騰：目標用5-10年的時間成為全球領先AI睡眠科技品牌】10月26日，今日宜休創始人王騰發文透露，ISHO今日宜休目標用5-10年的時間成為全球領先的AI睡眠科技品牌。ISHO在亞洲、北美、歐洲、大洋洲、中東等地的27個國家或地區提交了商標註冊，其中俄羅斯、沙烏地阿拉伯、阿聯酋、新加坡、菲律賓、澳大利亞等多個國家和地區已經獲批取得註冊，其餘國家品牌落地也在順利推進中。據瞭解，今日宜休是王騰離開小米之後創立的一家睡眠健康科技領域公司，主要研發睡眠健康相關產品，首場產品釋出會定於10月29日舉辦。"
-    },
-    {
-      "id": "5168822",
-      "time": "2026-10-26 10:27:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【2026年反海盜船岸聯合演練在上海舉辦】近日，中國海上搜救中心、中國船東協會、中國遠洋海運集團有限公司在上海聯合舉辦反海盜船岸聯合演練。本次演練由中遠海運集裝箱運輸有限公司承辦，在亞丁灣海域航行的“中遠海運玫瑰”輪參加演練。演練模擬“中遠海運玫瑰”輪航經亞丁灣海域時遭武裝海盜襲擊。海盜乘坐快艇進行襲擾，使用無人機及火箭彈襲擊，致船舶區域性起火、船員受傷，海盜趁機登輪。演練設定武裝保安防護、消防滅火、傷員救治、退守安全艙、協調軍艦救援等科目，涵蓋報警、資訊核實及通報、評估決策、應急響應、協同處置、應急救援、終止響應等環節。中國海上搜救中心、中國船東協會、航運企業等相關單位密切配合，及時進行資訊通報，統籌國內國際救援資源，協調海軍護航軍艦第一時間抵達事發水域開展救援，全部船員安全脫險。（交通運輸部）"
-    },
-    {
-      "id": "5168821",
-      "time": "2026-10-26 10:27:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【網易文學實控人變更】天眼查App顯示，杭州網易文學科技有限公司發生股權變更，丁磊退出股東行列，退出前持股99%；範少卿所持股份由1%增至99%，新增股東翁家琪，持股1%。該公司成立於2020年4月，法定代表人範少卿，註冊資本1000萬元，經營範圍包含出版物批發、網路文化經營、網際網路資訊服務、出版物網際網路銷售等。股權穿透顯示，公司目前實際控制人為範少卿。"
-    },
-    {
-      "id": "5168820",
-      "time": "2026-10-26 10:26:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西自由黨候選人、前總統雅伊爾·博索納羅之子弗拉維奧·博索納羅拒絕承認在25日舉行的總統選舉第二輪投票中敗選。 弗拉維奧·博索納羅當晚在巴西首都巴西利亞發表講話，表示當天聯邦最高法院裁定將投票結束時間推遲兩小時是“不可接受”的行為，“踐踏了不同地區選民之間的平等權利”。他拒絕承認總統選舉第二輪投票結果，並表示將透過法律途徑質疑選舉結果。（新華社）"
-    },
-    {
-      "id": "5168819",
-      "time": "2026-10-26 10:26:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【iPhone Duo螢幕故障或與鉸鏈有關】蘋果的可摺疊手機iPhone Duo甫一上市，就遇到了大量的負面反饋，原因是有消費者聲稱該手機在使用幾天甚至幾小時後，就出現了內屏裂紋。專門釋出智慧手機拆解指南的iFixit在上週末釋出了iPhone Duo的最新拆解報告，其中也對該手機螢幕出現裂紋的問題進行了探討。該機構指出，一種可能性是，手機閉合時中央支撐杆未能正確縮回，從而對螢幕施加過大的壓力。另一種可能性是，引導鉸鏈運動的弧形導軌在摺疊過程中會高於周圍元件，理論上，如果這些導軌未能按預期移動，可能會干擾螢幕。"
     }
   ]
 }

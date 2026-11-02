@@ -1,7 +1,59 @@
 {
   "date": "2026-11-02",
-  "count": 628,
+  "count": 635,
   "items": [
+    {
+      "id": "mkt:01a19a16-5a3c-7ee0-aa25-568b7878da08",
+      "time": "2026-11-02 10:28:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CHINA to hold ceremony to welcome Oman's Sultan Haitham】CHINA will hold a ceremony on Nov 2 to welcome Oman's Sultan Haitham, who is on a state visit to China from Nov 1-2."
+    },
+    {
+      "id": "5186439",
+      "time": "2026-11-02 10:28:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平將舉行儀式歡迎阿曼蘇丹海賽姆訪華】11月2日上午，國家主席習近平將在北京人民大會堂北大廳舉行儀式，歡迎阿曼蘇丹海賽姆訪華。應國家主席習近平邀請，阿曼蘇丹海賽姆於11月1日至2日對中國進行國事訪問。（央視新聞）"
+    },
+    {
+      "id": "5186438",
+      "time": "2026-11-02 10:27:40",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【40年房貸落地兩月觀望情緒仍濃厚，有全國性銀行僅投放800筆，高總價購房者意願更強】828房貸新政出臺近兩個月，40年期個人房貸政策已在銀行層面全面執行。多名銀行人士透露，9月、10月申請40年房貸的人數佔比不如預期，有全國性銀行兩月僅投放約800筆，整體仍保持觀望；30年左右期限客戶數量是申請40年房貸客戶數量的兩倍多，高總價購房者更願選擇40年房貸。放款節點在8月28日後取得預售許可證的專案，需專案竣工備案後才能放款，放款時間明顯延後。預計後續申請人數仍有望保持一定增長。"
+    },
+    {
+      "id": "5186437",
+      "time": "2026-11-02 10:27:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "11月2日早盤，此前已走出三連板的上海滬工（603131）盤中炸板，截至發稿報18.19元/股，換手率達19%。"
+    },
+    {
+      "id": "5186436",
+      "time": "2026-11-02 10:26:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【招商銀行副行長彭家文：銀行業淨息差仍面臨下行壓力】11月2日金融一線訊息，招商銀行今日召開2026年三季度業績交流會，副行長兼任財務負責人彭家文表示，銀行業淨息差仍然會面臨下行的壓力，行業總體來看仍然會承壓前行。“從前三個季度公佈的資料來看，銀行業的息差表現出了一個階段性的企穩的特徵。”彭家文表示，“我們也看到了我們同行兄弟行的一些資料，有一些都已經開始平企穩反彈，但是我們判斷總體情況下還是一個階段性的企穩。”彭家文強調，在未來一段時間息差下行的壓力還是存在的。現在還難言已經出現拐點、開始反彈，所以銀行業必須要做好各方面的準備，來應對息差的壓力。他表示，“對招商銀行而言，我們將會更加精細化、精益化地開展資產負債管理，我們的目標仍然不變，是力求息差降幅持續收窄，保持息差水平的行業領先。”"
+    },
+    {
+      "id": "te:economy:597079",
+      "time": "2026-11-02 10:26:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Reverse Repo Rate",
+        "Importance 1"
+      ],
+      "text": "PBoC Moves Toward Overnight Rate as Main Policy Anchor — The People’s Bank of China will shift its short-term monetary policy framework toward the overnight rate from Monday, introducing daily overnight reverse repo operations at a fixed rate of 1.25%. The move brings the overnight rate closer to becoming its main policy anchor, replacing the long-standing seven-day benchmark. The operations will use fixed-rate, quantity-based tenders to improve short-term interest rate management. The 1.25% rate, disclosed for the first time, is below the existing 1.4% seven-day reverse repo rate and broadly aligns with market expectations and actual borrowing costs. Under the revised framework, other liquidity tools, including temporary repo and reverse repo operations, will also be priced off the overnight rate, with existing spreads unchanged. Seven-day operations will continue but shift to fixed-quantity tenders with multiple winning bid rates, mainly serving liquidity needs around tax payment periods and month-ends."
+    },
     {
       "id": "mkt:01a19a13-2ac8-7ee0-aa25-4e6c713ed021",
       "time": "2026-11-02 10:25:09",
@@ -45,6 +97,14 @@
         "MKT News"
       ],
       "text": "【South Korea plans to cut securities settlement cycle from T+2 to T+1 by 2028】Korea Exchange, Korea Securities Depository, Korea Securities Finance Corporation and Koscom published a joint roadmap to move equity and related securities settlement from the current T+2 to T+1. The firms said they will begin infrastructure upgrades, aim to complete clearing and settlement system changes by October 2027, and expect to switch to T+1 during 2028. A specific cutover date has not been set."
+    },
+    {
+      "id": "5186432",
+      "time": "2026-11-02 10:23:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河北省邢臺市委書記楊猛接受審查調查】中央紀委國家監委網站11月2日通報，據河北省紀委監委訊息：河北省邢臺市委書記楊猛涉嫌嚴重違紀違法，目前正接受河北省紀委監委紀律審查和監察調查。"
     },
     {
       "id": "5186431",
