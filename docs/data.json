@@ -1,7 +1,201 @@
 {
-  "updated": "2026-11-02 09:44:20",
-  "count": 12969,
+  "updated": "2026-11-02 09:48:07",
+  "count": 12989,
   "items": [
+    {
+      "id": "5186371",
+      "time": "2026-11-02 09:47:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【工商銀行股價創歷史新高】工商銀行盤中股價創歷史新高，現漲1.03%，報8.84元，總市值為29537.26億元。"
+    },
+    {
+      "id": "5186370",
+      "time": "2026-11-02 09:47:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報3567.00元。"
+    },
+    {
+      "id": "5186369",
+      "time": "2026-11-02 09:46:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊拉昇，龍版傳媒觸及漲停】文化傳媒板塊拉昇，龍版傳媒觸及漲停，山東出版、果麥文化、城市傳媒、旗天科技跟漲。"
+    },
+    {
+      "id": "mkt:01a199ef-375c-7ee0-aa24-619b8964287e",
+      "time": "2026-11-02 09:45:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO: all crew confirmed safe; no environmental impact reported to date."
+    },
+    {
+      "id": "te:markets:597071",
+      "time": "2026-11-02 09:45:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Construction Bank Shares Hit 8-year High — China Construction Bank shares increased to 10.32 HKD, the highest since October 2018. Over the past 4 weeks, China Construction Bank gained 7.8%, and in the last 12 months, it increased 33.77%."
+    },
+    {
+      "id": "te:economy:597069",
+      "time": "2026-11-02 09:45:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Japan Manufacturing Growth Confirmed at 7-Month Low — The S&P Global Japan Manufacturing PMI was confirmed at 53.3 in October 2026, matching preliminary estimates, but declining from 54.1 in September. It was the softest expansion in the manufacturing sector since March, as firms recorded slower increases in output and new orders, with both growing at their weakest rates in seven months. Employment continued to increase, with the pace of job creation remaining among the fastest seen over the past decade. Purchasing activity increased at the weakest pace in six months. Meanwhile, suppliers’ delivery times lengthened substantially. On the price front, input cost inflation accelerated for the first time in five months, while output costs continued to rise, though inflation eased to a six-month low. Looking ahead, business sentiment remained positive, ticking up slightly."
+    },
+    {
+      "id": "mkt:01a199ee-8bd7-7ee0-aa24-5bd70dba95b7",
+      "time": "2026-11-02 09:45:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "China Oct RatingDog manufacturing PMI 52.0; expected 51.6; Sep 52.1."
+    },
+    {
+      "id": "5186368",
+      "time": "2026-11-02 09:45:05",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國10月RatingDog製造業PMI 52，預期51.6，前值52.1。"
+    },
+    {
+      "id": "5186367",
+      "time": "2026-11-02 09:45:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員：已向伊朗伸出談判之手 正與多國磋商局勢】11月1日，在巴林首都麥納麥舉行的第22屆麥納麥對話會上，針對目前的中東局勢，美國近東事務助理國務卿唐納德·布洛姆表示，美方已向伊朗伸出了談判之手，但也做好了採取其他應對路徑的準備；他補充說，美國目前正在與該地區的盟友進行磋商。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a199ee-6690-7ee0-aa24-52e22b3ac274",
+      "time": "2026-11-02 09:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | S&P Global/Ratingdog China General Manufacturing PMI (Oct) | actual 52 | consensus 51.6 | previous 52.1"
+    },
+    {
+      "id": "mkt:01a199ee-5536-7ee0-aa24-4e514bd41376",
+      "time": "2026-11-02 09:44:55",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UKMTO reports a tanker transiting the Arabian Gulf southeastbound was struck on its port side by two unidentified projectiles."
+    },
+    {
+      "id": "te:markets:597068",
+      "time": "2026-11-02 09:44:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rebounds from Near One-Year Low — Silver climbed toward $50 an ounce on Monday, recovering modestly from near one-year lows as declining oil prices eased concerns over inflation and potential interest rate increases. Oil prices declined amid signs of ongoing diplomatic efforts to prevent renewed US military action against Iran following the midterm elections. President Trump had previously threatened to resume strikes against Iran after the vote, while Tehran warned of broader retaliation. Meanwhile, investors are awaiting this week’s closely watched US jobs report for further insight into the Federal Reserve’s monetary policy outlook, with markets currently assigning around a 75% probability of a rate hike in December. Last week, silver faced significant selling pressure as persistent concerns over energy-driven inflation strengthened expectations of further Fed rate increases. A broader global equity selloff fueled by AI concerns also prompted investors to liquidate silver holdings to cover losses in other assets."
+    },
+    {
+      "id": "5186366",
+      "time": "2026-11-02 09:44:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【應對中期選舉後國會“變天”：特朗普團隊被曝已籌備數月，擬繞開國會強推議程】據一名白宮官員和兩名知情人士透露，為應對民主黨可能在中期選舉後掌控國會的局面，特朗普的團隊已籌備數月並制定了相關計劃，以便在利用行政權力繼續推進其主要議程的同時，應對民主黨可能發起的各項調查。對於相關報道，白宮駁斥了共和黨可能敗選的說法，並指責媒體在宣傳虛假敘事。三位要求匿名的知情人士表示，包括白宮辦公廳副主任斯蒂芬·米勒和白宮管理和預算辦公室主任拉塞爾·沃特在內的高階官員，自4月以來就一直與白宮法律顧問辦公室合作，以確定特朗普在無需國會批准的情況下在移民、關稅、住房成本和聯邦支出等方面可以採取的行政舉措。（澎湃）"
+    },
+    {
+      "id": "mkt:01a199ee-2b51-7ee0-aa24-41989f6f999f",
+      "time": "2026-11-02 09:44:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China submits Renewable Energy Law amendment for initial review】Nov 2 — China’s draft amendment to the Renewable Energy Law was submitted for initial review at the 14th NPC Standing Committee’s 25th meeting. The 10‑chapter, 76‑article draft would tighten planning and oversight, reaffirm Party leadership, require resource surveys and development plans, strengthen development, construction, production and transmission management, overhaul market trading and pricing mechanisms, clarify grid companies’ obligation to accommodate and promote renewable power consumption, boost tech innovation and industry support, and sharpen enforcement and legal liabilities. (Xinhua)"
+    },
+    {
+      "id": "mkt:01a199ee-2736-7ee0-aa24-3b437fe6a80d",
+      "time": "2026-11-02 09:44:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO said it had received a report of an incident 72 nautical miles east of Khafji, Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a199ed-ff64-7ee0-aa24-37081bad1a48",
+      "time": "2026-11-02 09:44:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share gaming sector rallied; Dasheng Culture hit daily limit-up, while Zheshu Culture, Mingchen Health, Shenzhou Taiyue, Tom Cat and Giant Network also advanced."
+    },
+    {
+      "id": "5186365",
+      "time": "2026-11-02 09:44:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海軍：船員已全部確認下落，未報告環境影響。"
+    },
+    {
+      "id": "mkt:01a199ed-c70a-7ee0-aa24-2880833939a1",
+      "time": "2026-11-02 09:44:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "3908.HK",
+        "Impact bullish"
+      ],
+      "text": "China A-share brokerage sector surged intraday; Guojin Securities hit the daily price limit, while Pacific Securities, China Galaxy Securities and China International Capital Co (CICC) also advanced."
+    },
+    {
+      "id": "5186364",
+      "time": "2026-11-02 09:44:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海軍：油輪遭兩枚不明發射物擊中。"
+    },
+    {
+      "id": "5186363",
+      "time": "2026-11-02 09:43:55",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【可再生能源法修訂草案提請審議】11月2日，可再生能源法修訂草案提請十四屆全國人大常委會第二十五次會議初次審議。發展可再生能源，是改善能源結構、保障能源安全、建設能源強國和推進生態文明建設的重要任務。黨的十八大以來，我國可再生能源發展取得歷史性成就，實現歷史性變革，構建了全球最大、發展最快的可再生能源體系。修訂草案共十章七十六條，主要修改內容包括：明確加強黨的領導，完善立法目的和有關要求，完善資源調查與發展規劃，加強可再生能源開發建設管理，加強可再生能源生產與輸送管理，健全市場交易與價格機制，強化消納責任與消費促進，完善科技創新與產業發展，強化保障與監督，完善法律責任。（新華社）"
+    },
     {
       "id": "5186362",
       "time": "2026-11-02 09:43:37",
@@ -91,6 +285,14 @@
         "國際"
       ],
       "text": "【倪虹會見汶萊發展部部長朱安達】11月1日，住房城鄉建設部部長倪虹會見來福州出席2026年世界城市日全球主場活動的汶萊發展部部長朱安達。倪虹表示，今年9月，雙方在紹興會談時，就深化住房城鄉建設領域技術合作交流達成共識。住房城鄉建設具有廣闊科技應用場景，願與汶萊建立多層級交流合作機制，持續增進共識，拓展合作空間。中方鼓勵更多企業到汶萊實地調研、洽談合作，實現互惠互利、合作共贏。（中國房地產報）"
+    },
+    {
+      "id": "5186355",
+      "time": "2026-11-02 09:40:20",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：消費者推遲採購，鋰價前景轉弱】花旗預計，受供應鏈去庫存影響，短期內鋰價將持續疲軟。花旗表示，自9月初以來，鋰價跌幅最高已達40%，市場面臨的關鍵問題是，此輪價格調整是否已經結束。花旗稱：“團隊近期進行的渠道調研結果並不樂觀。”該行表示，消費者可能推遲採購並維持較低庫存水平，這意味著在供應削減或下游庫存耗盡之前，鋰價面臨的下行風險更大。花旗將未來0至3個月碳酸鋰價格目標從每噸2萬美元下調至1.2萬美元；氫氧化鋰價格目標也從每噸1.7萬美元下調至1.2萬美元；鋰輝石精礦價格目標則從每噸2000美元下調至1200美元。"
     },
     {
       "id": "5186354",
@@ -118464,18 +118666,6 @@
         "市場"
       ],
       "text": "港股晶片股多數下跌，華虹宏力(01347.HK)跌超7%，ASMPT(00522.HK)跌超6%，壁仞科技(06082.HK)、天數智芯(09903.HK)、兆易創新(03986.HK)跌超5%。"
-    },
-    {
-      "id": "te:markets:594811",
-      "time": "2026-10-26 09:45:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "HSBC Holdings Shares Hit 19-week Low — HSBC Holdings shares decreased to 142.00 HKD, the lowest since June 2026. Over the past 4 weeks, HSBC Holdings lost 9.18%, and in the last 12 months, it increased 38.22%."
     }
   ]
 }
