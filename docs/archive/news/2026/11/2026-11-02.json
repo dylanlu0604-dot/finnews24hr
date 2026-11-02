@@ -1,7 +1,76 @@
 {
   "date": "2026-11-02",
-  "count": 533,
+  "count": 539,
   "items": [
+    {
+      "id": "mkt:01a199f3-f706-7ee0-aa24-7a78cb6d9ca6",
+      "time": "2026-11-02 09:51:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "02628.HK",
+        "00857.HK"
+      ],
+      "text": "Hang Seng Index extended gains, rising more than 1% in early trade; China Life (02628.HK) and PetroChina (00857.HK) led gains among constituents. Hang Seng Tech Index up 0.87%."
+    },
+    {
+      "id": "5186375",
+      "time": "2026-11-02 09:50:55",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "【多隻證券、金融科技ETF漲超3%】金融科技ETF華夏、金融科技ETF博時與證券ETF國泰、 證券ETF天弘等多隻金融科技ETF、證券ETF漲超3%。"
+    },
+    {
+      "id": "5186374",
+      "time": "2026-11-02 09:50:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報23528.070點；恒生科技指數現漲0.761%。"
+    },
+    {
+      "id": "mkt:01a199f2-d617-7ee0-aa24-71282d4f1bd0",
+      "time": "2026-11-02 09:49:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US says it has offered talks to Iran; Gulf urges diplomacy, warns of escalation】At the Manama Dialogue on Nov 1, US Assistant Secretary for Near Eastern Affairs Donald Blome said Washington has extended an offer to negotiate with Iran but is prepared to pursue other responses and is consulting regional allies. UAE foreign policy adviser Anwar Gargash said Gulf states prefer a diplomatic, political solution, warned the region is being drawn into the conflict, and said US and Iranian positions remain far apart; he urged a diplomatic breakthrough and warned failure to bridge positions could produce worst-case outcomes."
+    },
+    {
+      "id": "mkt:01a199f2-c8cd-7ee0-aa24-6a6c783034c2",
+      "time": "2026-11-02 09:49:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【RatingDog: China manufacturing PMI 52.0 in October, 11th month of expansion】RatingDog's China manufacturing PMI was 52.0 in October, the 11th consecutive month in expansion. Output growth accelerated sharply, the fastest since April, while new orders expanded at a pace roughly unchanged from September, extending the expansion cycle toward 18 months. New export orders expanded for a fourth month but slowed to a three-month low. Input-price inflation eased versus September and fell below the year-to-date average; factory-gate prices fell again, the second decline in three months, amid intensified competition. Overall, manufacturing entered Q4 with steady expansion and strong output and order momentum, though renewed price cuts and weaker business confidence are risk factors to monitor."
+    },
+    {
+      "id": "5186372",
+      "time": "2026-11-02 09:49:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售板塊短線拉昇，百大集團漲停】零售板塊短線拉昇，百大集團漲停，國芳集團、合百集團、廣百股份、農產品、天音控股跟漲。"
+    },
     {
       "id": "5186371",
       "time": "2026-11-02 09:47:03",
