@@ -1,7 +1,97 @@
 {
   "date": "2026-11-02",
-  "count": 502,
+  "count": 512,
   "items": [
+    {
+      "id": "5186362",
+      "time": "2026-11-02 09:43:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【遊戲板塊短線拉昇，大晟文化漲停】遊戲板塊短線拉昇，大晟文化漲停，浙數文化、名臣健康、神州泰嶽、湯姆貓、巨人網路等紛紛走高。相關ETF方面，遊戲ETF華夏（159869）漲1.36%，成交額9142.41萬元，遊戲ETF華泰柏瑞（516770）漲0.99%，成交額738.6萬元。"
+    },
+    {
+      "id": "5186361",
+      "time": "2026-11-02 09:43:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：沙烏地阿拉伯海夫吉以東72海里處發生事件。"
+    },
+    {
+      "id": "mkt:01a199ec-e417-7ee0-aa24-273586f2c6ad",
+      "time": "2026-11-02 09:43:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "MLCC-related stocks on China’s A-share market rallied after intraday volatility; Huaci Co. hit the daily upper trading limit, while Sidike, Yunzhong Technology, Shuangxing New Materials and Fenghua High Tech also advanced."
+    },
+    {
+      "id": "5186360",
+      "time": "2026-11-02 09:42:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股光通訊股走強 東山精密漲近8%】截至發稿，東山精密(02384.HK)漲7.63%，長飛光纖光纜(06869.HK)漲6.08%，納真科技(09865.HK)漲4.75%。"
+    },
+    {
+      "id": "5186359",
+      "time": "2026-11-02 09:42:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【MLCC概念震盪拉昇 華瓷股份漲停】MLCC概念震盪拉昇，華瓷股份漲停，斯迪克、昀冢科技、雙星新材、風華高科跟漲。"
+    },
+    {
+      "id": "5186358",
+      "time": "2026-11-02 09:42:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航空考慮聘請新加坡航空高管擔任首席財務官。"
+    },
+    {
+      "id": "5186357",
+      "time": "2026-11-02 09:42:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【原料藥板塊震盪走弱，東亞藥業觸及跌停】原料藥板塊震盪走弱，東亞藥業觸及跌停，向日葵、奧翔藥業、奧銳特、美諾華、聖達生物、賽託生物等跟跌。"
+    },
+    {
+      "id": "te:markets:597067",
+      "time": "2026-11-02 09:42:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rises from One-Year Low — Gold prices climbed above $3,900 an ounce on Monday, recovering modestly from one-year lows as declining oil prices eased concerns over inflation and potential interest rate increases. Oil prices declined amid signs of ongoing diplomatic efforts to prevent renewed US military action against Iran following the midterm elections. President Trump had previously threatened to resume strikes against Iran after the vote, while Tehran warned of broader retaliation. Meanwhile, investors are awaiting this week’s closely watched US jobs report for further insight into the Federal Reserve’s monetary policy outlook, with markets currently assigning around a 75% probability of a rate hike in December. Last week, gold faced significant selling pressure as persistent concerns over energy-driven inflation strengthened expectations of further Fed rate increases. A broader global equity selloff fueled by AI concerns also prompted investors to liquidate gold holdings to cover losses in other assets."
+    },
+    {
+      "id": "mkt:01a199eb-188b-7ee0-aa24-1eafbf463d13",
+      "time": "2026-11-02 09:41:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Second‑review draft of anti‑cross‑border corruption law strengthens work principles】The second‑review draft of the anti‑cross‑border corruption law, submitted to the 25th session of the 14th National People’s Congress Standing Committee on the 2nd, expands the statute’s legislative purpose and strengthens principles guiding anti‑cross‑border corruption work. The draft adds a provision to “promote building a fair and reasonable global anti‑corruption governance system” and specifies that “anti‑cross‑border corruption work shall strictly follow the Constitution and the law, observe legal procedures, and respect and protect human rights.” It sets rules on agencies’ use of information technology in anti‑corruption work and requires that “relevant agencies and their staff bear legal confidentiality obligations for state secrets, work secrets, commercial secrets, personal privacy and personal information learned during supervision and investigation.” The draft further requires domestic firms engaged in cross‑border operations to, based on company size, business scope and risk controls, reasonably establish integrity and compliance departments or personnel."
+    },
+    {
+      "id": "5186356",
+      "time": "2026-11-02 09:41:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【倪虹會見汶萊發展部部長朱安達】11月1日，住房城鄉建設部部長倪虹會見來福州出席2026年世界城市日全球主場活動的汶萊發展部部長朱安達。倪虹表示，今年9月，雙方在紹興會談時，就深化住房城鄉建設領域技術合作交流達成共識。住房城鄉建設具有廣闊科技應用場景，願與汶萊建立多層級交流合作機制，持續增進共識，拓展合作空間。中方鼓勵更多企業到汶萊實地調研、洽談合作，實現互惠互利、合作共贏。（中國房地產報）"
+    },
     {
       "id": "5186354",
       "time": "2026-11-02 09:39:42",
