@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-03 02:49:51",
-  "count": 12531,
+  "updated": "2026-11-03 02:53:36",
+  "count": 12533,
   "items": [
+    {
+      "id": "5188184",
+      "time": "2026-11-03 02:52:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗第一副總統穆罕默德・禮薩・阿雷夫週一稱，美國透過斡旋方傳遞給德黑蘭的資訊表明，美方已經承認伊朗在這場戰爭中取得 “勝利”。"
+    },
+    {
+      "id": "5188183",
+      "time": "2026-11-03 02:50:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）稱，11月1日一艘船隻在阿曼附近被炮彈擊中。"
+    },
+    {
+      "id": "5188182",
+      "time": "2026-11-03 02:49:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：馬克・沃爾特正考慮以 30 億美元估值出售旗下凱迪拉克 F1 車隊股權。"
+    },
     {
       "id": "5188181",
       "time": "2026-11-03 02:44:10",
@@ -114919,14 +114943,6 @@
         "MKT News"
       ],
       "text": "Brazil's finance minister says the central bank will intervene in the FX market if necessary."
-    },
-    {
-      "id": "mkt:01a1798c-b8cf-7ee0-a987-f06c27c6516f",
-      "time": "2026-10-27 02:50:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's finance minister said the government will discuss reviewing the size of congressional budget allocations, excessive public-sector wage levels and special pension regimes."
     }
   ]
 }
