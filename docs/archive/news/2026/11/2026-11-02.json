@@ -1,7 +1,71 @@
 {
   "date": "2026-11-02",
-  "count": 654,
+  "count": 661,
   "items": [
+    {
+      "id": "5186460",
+      "time": "2026-11-02 10:40:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：天孚通訊淨賣出超5億】截至目前，今日主力資金淨流出17.94億；淨流入茅指數、非銀金融、區塊鏈等板塊，其中茅指數板塊淨流入26.32億；淨流出晶片概念、機器人概念、轉融券標的等板塊，其中晶片概念板塊淨流出26.87億。\n  \n個股方面，東方財富淨買入6.69億元位居首位，寧德時代、東山精密、國芳集團主力資金淨流入居前；天孚通訊淨賣出5.45億元位居首位，長鑫科技、勝宏科技、工業富聯淨流出額居前。"
+    },
+    {
+      "id": "te:markets:597082",
+      "time": "2026-11-02 10:39:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Holds Steady — The US dollar index was little changed around 102 on Monday after facing heightened volatility last week, as investors turned their attention to major US economic releases that could shape expectations for the Federal Reserve’s monetary policy outlook. Market participants are awaiting the crucial October jobs report, along with the ISM manufacturing and services surveys. Several Fed officials are also scheduled to deliver remarks, which may provide further insight into the central bank’s next policy decision. Last week, the Fed kept interest rates unchanged as widely expected, while markets are currently pricing in approximately a 75% probability of a rate hike in December. On the geopolitical front, oil prices retreated following reports that President Donald Trump intends to allow more time for diplomatic efforts as the midterm elections approach. Elsewhere, the selloff in AI-related stocks appeared to ease following Friday’s sharp decline, reducing demand for safe-haven assets."
+    },
+    {
+      "id": "mkt:01a19a20-19d1-7ee0-aa25-75ceb0ff6cbc",
+      "time": "2026-11-02 10:39:17",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share cinema/theatre sector spiked intraday; Aofei Entertainment hit limit-up. Baina Qiancheng, Huazhi Digital Media, Huanrui Century, Jiecheng Co. and Zhongguang Tianze also rose."
+    },
+    {
+      "id": "5186459",
+      "time": "2026-11-02 10:39:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聚焦“防保研管用”！“十五五”文物科技創新佈局公佈】今天（2日），國家文物局召開新聞釋出會，介紹《考古工作“十五五”規劃》有關情況。釋出會上介紹，“十五五”時期，我國將進一步提升文物科技賦能水平，圍繞文物“防保研管用”（文物風險防控、文物保護修復、文物考古研究、文物資源管理、文物活化利用）典型應用場景系統部署重點任務，破解考古與文物保護利用領域重大科學問題、關鍵技術難題，從風險防控、保護修復、考古研究、資源管理和活化利用等五個方向部署任務，其中將研發文物違法智慧監測預警技術，搭建國有文物資源資料登記平臺，支撐國家文物資源大資料庫（中國文物雲）建設。（央視新聞）"
+    },
+    {
+      "id": "5186458",
+      "time": "2026-11-02 10:38:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【影視院線板塊短線拉昇，奧飛娛樂漲停】影視院線板塊短線拉昇，奧飛娛樂漲停，百納千成、華智數媒、歡瑞世紀、捷成股份、中廣天擇等紛紛走高。"
+    },
+    {
+      "id": "5186457",
+      "time": "2026-11-02 10:38:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【餓了麼關聯公司新增非居住房地產租賃業務】天眼查App顯示，近日，拉扎斯網路科技（上海）有限公司發生工商變更，經營範圍新增非居住房地產租賃。該公司成立於2011年9月，法定代表人為胡曉昱，註冊資本550億元人民幣，經營範圍包括軟體開發、資訊系統整合服務、餐飲管理、智慧機器人銷售、外賣遞送服務等，由拉扎斯控股香港有限公司全資持股。"
+    },
+    {
+      "id": "5186456",
+      "time": "2026-11-02 10:38:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【國債期貨拉昇 30年期主力合約漲0.2%】國債期貨拉昇，30年期主力合約盤中漲0.20%，現報117.680元。10年期漲0.07%，現報109.9元。5年期漲0.05%，現報106.745元。2年期漲0.01%，現報102.672元。"
+    },
     {
       "id": "5186455",
       "time": "2026-11-02 10:37:01",
