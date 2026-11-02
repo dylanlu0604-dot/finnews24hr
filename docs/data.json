@@ -1,7 +1,156 @@
 {
-  "updated": "2026-11-02 17:05:44",
-  "count": 13173,
+  "updated": "2026-11-02 17:09:32",
+  "count": 13185,
   "items": [
+    {
+      "id": "5187162",
+      "time": "2026-11-02 17:08:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌4%，現報108.87美元/桶。"
+    },
+    {
+      "id": "mkt:01a19b84-1b43-7ee0-aa2f-21b83ad3680a",
+      "time": "2026-11-02 17:08:08",
+      "tags": [
+        "MKT News",
+        "XOM.N",
+        "Impact bullish"
+      ],
+      "text": "MORGAN STANLEY raised its price target on Exxon Mobil (XOM.N) to $187 from $185."
+    },
+    {
+      "id": "5187161",
+      "time": "2026-11-02 17:07:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數跌至101.442，創一個月新低。"
+    },
+    {
+      "id": "5187160",
+      "time": "2026-11-02 17:07:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港交易所：自2027年3月起延長其衍生品收市後交易（AHT）時段。"
+    },
+    {
+      "id": "5187159",
+      "time": "2026-11-02 17:07:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "深交所釋出對華塑控股股份有限公司、楊建安、段靜的監管函。"
+    },
+    {
+      "id": "mkt:01a19b83-98b1-7ee0-aa2f-1a3a2bdfe7be",
+      "time": "2026-11-02 17:07:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US dollar index fell to 101.442, a one-month low."
+    },
+    {
+      "id": "5187158",
+      "time": "2026-11-02 17:07:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南方航空回應Q3單季虧損：受航油價格高企及高鐵分流中部市場出行需求影響】南方航空今年第三季度歸母淨利潤虧損6.09億元，為“三大航”中Q3單季唯一虧損的航司。對此，南方航空副董事長、總經理韓文勝在今日業績說明會上表示，三季度南航承運旅客增幅高於運力投入增幅，客座率同比提升，供需匹配較好。但航油價格持續高位執行，高鐵分流中部市場出行需求，對南航影響較大。下一步南航將堅持落實樞紐網路戰略，最佳化航線網路結構，提升收益水平。"
+    },
+    {
+      "id": "mkt:01a19b83-58e3-7ee0-aa2f-12e46f70ab5b",
+      "time": "2026-11-02 17:07:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wang Yi meets Iran Supreme National Security Council deputy secretary Bagheri】Nov 2, Beijing — Wang Yi, Politburo member and director of the Central Foreign Affairs Office, met with Iran Supreme National Security Council deputy secretary Bagheri. Wang said prolonged, spillover fighting in the Middle East should be resolved through dialogue and negotiations and urged parties to avoid renewed hostilities. China signalled it will pursue Xi Jinping’s initiatives to ease regional tensions and work with others to restore peace. Wang said China supports Iran’s sovereignty and security, and that China‑Iran ties remain stable despite global instability; Beijing is willing to push bilateral cooperation forward."
+    },
+    {
+      "id": "5187156",
+      "time": "2026-11-02 17:06:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見伊朗最高國家安全委員會副秘書巴蓋裡】11月2日，中共中央政治局委員、中央外辦主任王毅在京會見伊朗最高國家安全委員會副秘書巴蓋裡。王毅表示，當前中東地區戰事延宕、外溢擴散，對話談判才是解決之道。各方都應本著對人民負責、對歷史負責的態度，相向而行，以理性務實的精神聚焦政治解決，而不是再次兵戎相見。（新華社）"
+    },
+    {
+      "id": "mkt:01a19b82-4fbd-7ee0-aa2f-080225a82af5",
+      "time": "2026-11-02 17:06:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's major banks index rose 2%."
+    },
+    {
+      "id": "mkt:01a19b82-4945-7ee0-aa2f-028c11fa8435",
+      "time": "2026-11-02 17:06:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "FTSE100",
+        "Impact bullish",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK 10-year bond yield fell to 5.236%, the lowest in nearly six weeks."
+    },
+    {
+      "id": "5187155",
+      "time": "2026-11-02 17:05:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要銀行指數<.XBANK>上漲2%。"
+    },
+    {
+      "id": "5187154",
+      "time": "2026-11-02 17:05:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【絕味食品：累計回購股份比例達2.30% 耗資1.59億元】絕味食品公告稱，公司擬使用1.00億元-2.00億元資金以集中競價方式回購股份，用於員工持股計劃或股權激勵，回購價格上限調整為15.47元/股，回購期限為2026年9月7日至2027年9月6日。截至2026年10月31日，公司累計回購股份1394.70萬股，佔總股本比例2.30%，回購價格區間為10.00元/股-12.24元/股，累計耗資1.59億元。其中2026年10月單月回購543.14萬股，佔總股本0.90%，耗資5854.06萬元。"
+    },
+    {
+      "id": "mkt:01a19b81-bb75-7ee0-aa2e-f8b9ec0adddf",
+      "time": "2026-11-02 17:05:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran's Foreign Ministry: Tehran demands US implement Islamabad Understanding commitments】Iran Foreign Ministry spokesman BAGHAEI said at a Monday briefing the current talks should not be seen as separate from the Islamabad Understanding because the counterpart, demands and issue remain the same. Tehran’s demand is that the US implement commitments it accepted under the Islamabad Understanding but later violated. BAGHAEI said the US should first lift all sanctions imposed after that violation under the pretext of \"economic exclusion actions\" and carry out other agreed measures, including unfreezing Iranian funds and assets. He said these steps are not diplomatic preconditions but are necessary to restore security in the Strait of Hormuz and the Persian Gulf."
+    },
+    {
+      "id": "te:markets:597236",
+      "time": "2026-11-02 17:05:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "State Bank of India Shares Hit 5-week High — State Bank of India shares increased to 983.85 INR, the highest since September 2026. Over the past 4 weeks, State Bank of India gained 2.63%, and in the last 12 months, it increased 3.53%."
+    },
+    {
+      "id": "5187153",
+      "time": "2026-11-02 17:05:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞吉隆坡綜合指數收漲0.2%，報1619.51點。"
+    },
     {
       "id": "mkt:01a19b81-04eb-7ee0-aa2e-f04d2f3e1b5d",
       "time": "2026-11-02 17:04:46",
@@ -120366,49 +120515,6 @@
         "MKT News"
       ],
       "text": "Jordan's prime minister said a security operation succeeded due to extraordinary efforts across government departments and that the fight against terrorism and extremism continues."
-    },
-    {
-      "id": "mkt:01a17778-aa95-7ee0-a97b-cd81a8f80ce6",
-      "time": "2026-10-26 17:09:18",
-      "tags": [
-        "MKT News",
-        "VOW3.DE",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "【IG Metall chair condemns Audi CEO’s appearance with Trump, warns labour can decide fate of $4bn US plant】Christian Benner, chair of Germany’s largest union IG Metall, called Audi CEO’s appearance alongside US President Trump at a Georgia campaign event “extremely embarrassing” and said it has intensified tensions around Audi’s restructuring. Trump announced Audi plans to invest about $4bn to build a factory near Macon, Georgia to produce its largest SUV; Audi’s CEO thanked Trump and called the project a “great opportunity.” Benner, who is also vice chair of Volkswagen’s supervisory board, warned labour representatives will have a say on whether the plant goes ahead. Worker representatives are seeking guarantees for Audi and VW’s German plants, and any new US factory requires approval from VW’s supervisory board, where employees hold half the seats."
-    },
-    {
-      "id": "te:markets:595005",
-      "time": "2026-10-26 17:08:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "French 10-Year Bond Yield Retreats Below 5% — France’s 10-year OAT yield fell back below 5% at the end of October after reaching its highest level since June 2002 last week, as a sell-off in French government bonds eased following Moody’s decision to maintain the country’s sovereign credit rating. The market also found some relief after weekend protests passed without the widespread unrest seen the previous week. European bonds gained further support from a modest decline in oil prices, while investors turned their attention to upcoming policy decisions from the European Central Bank and the US Federal Reserve. Moody’s reaffirmed France’s Aa3 rating late Friday, offering temporary relief as the government struggles to address strained public finances amid a fragmented parliament and growing political positioning ahead of next year’s presidential election. On the policy front, both the ECB and the Fed are widely expected to keep interest rates unchanged this week, leaving investors focused on their forward guidance."
-    },
-    {
-      "id": "mkt:01a17777-8220-7ee0-a97b-c60a15daaebc",
-      "time": "2026-10-26 17:08:03",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "CNH"
-      ],
-      "text": "【Shanghai aims for >3,000 in‑orbit satellites by 2030; core satellite‑internet industry to exceed 80 bln yuan】Shanghai issued a Satellite Internet Industry Innovation Development Action Plan (2027–2030). Targets include technology self‑reliance with >100 commercialised research outcomes, a high‑efficiency space‑to‑ground network with total in‑orbit satellites exceeding 3,000 by 2030, cultivation of more than 100 quality industry players, development of 100+ flagship demonstration applications, and a core industry scale surpassing 80 billion yuan. The plan prioritises strengthening technology, shoring up infrastructure, optimising industry clusters and expanding applications."
-    },
-    {
-      "id": "mkt:01a17775-6712-7ee0-a97b-bf4d9504935f",
-      "time": "2026-10-26 17:05:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's consumer rights and public health watchdog Rospotrebnadzor reported one imported Zika case; the patient returned from Bali."
     }
   ]
 }
