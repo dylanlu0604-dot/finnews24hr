@@ -1,7 +1,125 @@
 {
-  "updated": "2026-11-02 17:09:32",
-  "count": 13185,
+  "updated": "2026-11-02 17:13:19",
+  "count": 13197,
   "items": [
+    {
+      "id": "5187169",
+      "time": "2026-11-02 17:12:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中公教育回應公司及其法定代表人李永新被限高：目前公司運營一切正常】天眼查法律訴訟資訊顯示，近日，中公教育科技股份有限公司及其法定代表人李永新新增一則限制消費令，涉及房屋租賃合同糾紛案件，執行法院為杭州經濟技術開發區人民法院。對此，中公教育暫無回覆。新浪科技以投資者身份詢問中公教育投資者熱線，接線人員表示，並不會影響公司經營情況，目前公司一切正常。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a19b87-a8d9-7ee0-aa2f-4d0539c724e5",
+      "time": "2026-11-02 17:12:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HuaAn Nasdaq ETF will suspend trading from market open on Nov. 3, 2026 and resume at 10:30 a.m. on Nov. 3, 2026. Redemption services will remain available during the suspension."
+    },
+    {
+      "id": "5187168",
+      "time": "2026-11-02 17:11:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌：協議將使公司獲得每年約 15 萬噸可持續航空燃料的獨家承購權。"
+    },
+    {
+      "id": "5187167",
+      "time": "2026-11-02 17:11:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克ETF華安：因二級市場溢價 11月3日起臨時停牌】納斯達克ETF華安公告稱，2026年11月2日，本基金二級市場收盤價為2.442元，基金份額參考淨值（IOPV）為2.1565元，交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。為保護投資者利益，本基金將於2026年11月3日開市起停牌，當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。"
+    },
+    {
+      "id": "5187166",
+      "time": "2026-11-02 17:10:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率下跌5個基點至5.23%，為9月23日以來最低水平。"
+    },
+    {
+      "id": "5187165",
+      "time": "2026-11-02 17:10:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【QuestMobile報告：OPPO小布建議9月活躍使用者同比增長139.9%】近日，QuestMobile釋出《2026年三季度AI應用市場發展報告》。資料顯示，2026年9月，OPPO小布建議活躍使用者規模同比增長139.9%，增速位列終端系統級AI應用之首；月人均使用次數同比增長214.3%，月人均使用時長同比增長185.0%，是報告統計的系統級AI應用中月人均使用次數唯一實現正增長的產品。"
+    },
+    {
+      "id": "mkt:01a19b86-51f8-7ee0-aa2f-428906ad9a93",
+      "time": "2026-11-02 17:10:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China Association for Listed Companies: first nine months revenue 56.8 tln yuan, up 5.9%; net profit 5.1 tln yuan, up 8.5%】As of Oct 31, 5,578 domestically listed companies had disclosed 2026 Q3 reports. Aggregate operating revenue for the first nine months was 56.8 tln yuan, +5.9% YoY; net profit attributable to parent company was 5.1 tln yuan, +8.5% YoY. 4,079 listed firms were profitable. The share of companies with positive revenue growth rose 3.8 percentage points versus last year; over 30% of firms delivered both revenue and net-profit growth. ChiNext, STAR Market and Beijing Stock Exchange-listed companies together reported revenue of 5.8 tln yuan and net profit of 542.8 bln yuan, up 27.0% and 79.8% respectively."
+    },
+    {
+      "id": "5187164",
+      "time": "2026-11-02 17:10:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "大阪燃氣：ARARA服務遭入侵，部分郵箱地址洩露。"
+    },
+    {
+      "id": "mkt:01a19b86-11f7-7ee0-aa2f-3e0b78196428",
+      "time": "2026-11-02 17:10:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SHEL.O"
+      ],
+      "text": "Shell signed a long-term sustainable aviation fuel (SAF) supply agreement; fuel will be sourced from a planned plant in Morocco."
+    },
+    {
+      "id": "mkt:01a19b85-d4f0-7ee0-aa2f-3043c9e80990",
+      "time": "2026-11-02 17:10:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to consultancy APK-Inform, exports included 202,400 tonnes of wheat and 65,200 tonnes of corn."
+    },
+    {
+      "id": "te:economy:597241",
+      "time": "2026-11-02 17:09:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "France Factory Activity Remains in Contraction — The S&P Global France Manufacturing PMI was revised slightly up to 49.5 in October 2026 from 49.3 in the preliminary estimate but remained below September's 50.6. The data pointed to a renewed contraction in the country's manufacturing activity, following two consecutive months of expansion, marking the steepest decline since July last year. New orders fell at the fastest pace since July 2025 and output shrank for the first time in three months, which prompted firms to reduce purchasing activity and employment. Firms also faced deteriorating supply conditions, with delivery times increasing significantly, alongside mounting cost pressures. Rising costs of raw materials, energy and other inputs pushed input price inflation to a four-month high, leading firms to raise selling prices at the fastest pace since May."
+    },
+    {
+      "id": "mkt:01a19b85-3c69-7ee0-aa2f-2f2f5340d12d",
+      "time": "2026-11-02 17:09:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "APK-Inform said Ukraine's major grain exports rose 4.2% week-on-week to 273,900 tonnes in the week to Oct. 28."
+    },
+    {
+      "id": "5187163",
+      "time": "2026-11-02 17:09:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【歐元兌美元錄得逾兩週來最大漲幅】儘管惠譽將法國信用評級展望下調為負面，但隨著布倫特原油價格下跌，歐元兌美元仍走強。歐元兌美元上漲0.6%至1.1222，創逾兩週來最大漲幅。"
+    },
     {
       "id": "5187162",
       "time": "2026-11-02 17:08:16",
@@ -120507,14 +120625,6 @@
         "S&P500"
       ],
       "text": "【MORGAN STANLEY: Semiconductor support may be up to 15% below current levels】MORGAN STANLEY says semiconductor stocks could face less pressure next month but may still find support well below current prices. Mike Wilson’s strategy team kept its S&P 500 year-end target at 8,000, while flagging semiconductors and other capex beneficiaries as the epicenter of financing risk as markets question when and how large AI-driven revenue will be. The team said concern over supply pressure tied to ongoing financing is normal and likely to persist until financings finish. They view the sector’s correction as in a final phase and expect it to end by mid‑November, but technicals and parallels with prior hot markets (eg, silver) suggest a further 10–15% downside, putting the Philadelphia Semiconductor Index around 9,500."
-    },
-    {
-      "id": "mkt:01a1777c-1ab5-7ee0-a97b-d7e5171c5854",
-      "time": "2026-10-26 17:13:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jordan's prime minister said a security operation succeeded due to extraordinary efforts across government departments and that the fight against terrorism and extremism continues."
     }
   ]
 }
