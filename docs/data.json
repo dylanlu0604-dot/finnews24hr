@@ -1,7 +1,89 @@
 {
-  "updated": "2026-11-02 10:29:56",
-  "count": 13008,
+  "updated": "2026-11-02 10:33:51",
+  "count": 13009,
   "items": [
+    {
+      "id": "mkt:01a19a1a-540f-7ee0-aa25-6288c5fe588a",
+      "time": "2026-11-02 10:32:59",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nikkei 225",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【KOSPI rebounds as October export surge fuels buy-the-dip demand】South Korea's KOSPI recovered early losses to finish higher on Monday, rallying more than 1% intraday after an initial drop near 2% amid Wall Street weakness and concerns about large AI-related corporate spending. October exports nearly doubled YoY, the largest gain in over 50 years, led by stronger chip shipments tied to global AI investment; Kiwoom Securities said the market looks oversold while fundamentals and earnings prospects are improving, and the export beat increases the chance of upward revisions to consensus earnings. A separate survey showed manufacturing activity slowed to an eight-month low on weaker output and demand. South Korea's Lee pledged bold AI investment to raise growth potential."
+    },
+    {
+      "id": "5186447",
+      "time": "2026-11-02 10:32:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【股票ETF上週淨流入1075億元 滬深300ETF被集中買入】股票ETF已連續20個交易日淨流入，Wind資料顯示，上週五（10月30日）股票ETF淨流入269.88億元，使得上週整體股票ETF淨流入1074.86億元。滬深300繼續成為資金集中流入的方向，滬深300ETF易方達上週淨流入173.9億元，滬深300ETF華泰柏瑞淨流入149.2億元。淨流入超百億的還有創業板ETF易方達（淨流入108.37億元）、科創50ETF華夏（淨流入103.04億元）。截至目前，股票ETF最新規模回升至2.63萬億元，其中，滬深300ETF華泰柏瑞規模已回升至1500億元以上，為1578.35億元；科創50ETF華夏則回升至1105.05億元；創業板ETF易方達規模也接近千億元，為923.21億元。"
+    },
+    {
+      "id": "5186445",
+      "time": "2026-11-02 10:32:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守101美元/桶，日內跌3.00%。"
+    },
+    {
+      "id": "5186444",
+      "time": "2026-11-02 10:31:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數早盤收跌0.8%，報3931.61點。日經指數早盤收跌0.3%，報63095.11點。"
+    },
+    {
+      "id": "5186443",
+      "time": "2026-11-02 10:31:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲4%，現報3569.00元。"
+    },
+    {
+      "id": "5186442",
+      "time": "2026-11-02 10:31:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報93700元/噸，較上日16:30價格上漲250元/噸。"
+    },
+    {
+      "id": "mkt:01a19a18-7571-7ee0-aa25-5ebdad991d44",
+      "time": "2026-11-02 10:30:56",
+      "tags": [
+        "MKT News",
+        "000725.SZ",
+        "Impact bullish"
+      ],
+      "text": "【BOE says positioned to benefit from expected foldable-phone market growth】BOE Technology said in investor-relations notes that a major smartphone customer will launch a foldable this year, a move expected to lift global foldable-phone shipments. BOE has begun mass production and shipments of a mirror-effect “seamless” panel to some domestic customers and reports deep partnerships with domestic and international brands, with several product and technology firsts across form factors. Citing consultancy data, the company noted rising memory prices are prompting brands to allocate scarce storage to higher-end models, making foldables a key beneficiary and supporting rapid segment growth—conditions BOE says leave it well positioned to benefit."
+    },
+    {
+      "id": "5186441",
+      "time": "2026-11-02 10:29:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陝西釋出霜凍黃色預警，局地可能出現對當季主要農作物產生較大影響的霜凍天氣】陝西省氣象臺2026年11月02日10時30分繼續釋出霜凍黃色預警：受冷空氣持續影響，預計11月3日00時至10時延安市全域、榆林市全域等地最低氣溫將降至0℃以下，其中延安市西部（安塞區、富縣、甘泉縣、吳起縣、志丹縣、子長市）、榆林市西部局地及北部局地（榆陽區、橫山區、神木市、府谷縣、定邊縣、靖邊縣）等地最低氣溫降至-3℃以下，可能出現對當季主要農作物產生較大影響的霜凍天氣。"
+    },
+    {
+      "id": "5186440",
+      "time": "2026-11-02 10:29:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東方A：公司未來在摺疊屏市場確定性增長過程中有望受益】京東方A(000725)在最新披露的投資者關係活動記錄表中表示，今年手機頭部客戶推出摺疊產品，預計將帶動全球摺疊屏手機市場銷量繼續增長，公司此前已推出鏡感“無痕”產品，並已向部分國內客戶量產出貨。根據諮詢機構資料及分析，在儲存漲價背景下，品牌廠商在獲取儲存資源時更傾向於將其配置於高階產品，摺疊屏是重要方向之一，因此摺疊屏市場有望快速增長。公司已與國內外品牌深度合作，實現了多個產品、技術首發，已上市的產品涵蓋多個應用形態，未來在摺疊屏市場確定性增長過程中有望受益。"
+    },
     {
       "id": "mkt:01a19a16-5a3c-7ee0-aa25-568b7878da08",
       "time": "2026-11-02 10:28:38",
@@ -118846,72 +118928,6 @@
         "國際"
       ],
       "text": "【伊朗：未關閉對美外交大門，仍透過中間人互通訊息】伊朗外交部發言人伊斯梅爾・巴加埃週日刊發的採訪中表示，伊朗並未關上同美國開展外交的大門，雙方仍在透過中介交換資訊。“我們從未離開談判桌，沒有關閉外交視窗。”巴加埃稱，“各方正透過調解人傳遞資訊。但問題在於，美國似乎執意要推行其單方面訴求。”巴加埃表示，美國總統唐納德・特朗普以及其他美國官員反覆使用“徹底投降”這一說法。他說：“沒有任何伊朗人會接受這樣的條件。”巴加埃同時駁斥了有關伊朗涉嫌參與襲擊英國一處軍事基地的指控。“我可以篤定地說，伊朗與他們所說的這起行動毫無關聯。”談及霍爾木茲海峽，巴加埃認為該水道當前並不安全，並將矛頭指向美國與以色列。“霍爾木茲海峽之所以不安全，並非伊朗造成，而是美國和以色列濫用這條航道所致。”他指責兩國持續利用該區域開展針對伊朗的軍事行動。"
-    },
-    {
-      "id": "5168837",
-      "time": "2026-10-26 10:33:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數<.AXJO>扭轉走勢，最新上漲0.1%，報8,806點。"
-    },
-    {
-      "id": "5168836",
-      "time": "2026-10-26 10:33:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【9月末我國銀行業金融機構總資產4943525億元 較上年同期增長6.1%】金融監管總局10月23日公佈的2026年銀行業金融機構總資產、總負債（月度）資料（境內口徑）顯示，截至2026年9月末，我國銀行業金融機構總資產4943525億元，較上年同期增長6.1%；總負債4544846億元，較上年同期增長6.3%。其中，商業銀行總資產4295505億元，較上年同期增長7.1%；總負債3968145億元，較上年同期增長7.2%。"
-    },
-    {
-      "id": "5168835",
-      "time": "2026-10-26 10:33:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門胡塞武裝稱襲擊了利雅得哈立德國王國際機場；沙特方面暫未證實。"
-    },
-    {
-      "id": "5168834",
-      "time": "2026-10-26 10:31:49",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "葉門胡塞武裝稱，他們用無人機襲擊了沙烏地阿拉伯的東西向原油泵站；沙特方面尚未立即證實。"
-    },
-    {
-      "id": "5168833",
-      "time": "2026-10-26 10:31:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數早盤收報62214.66點，下跌0.8%。"
-    },
-    {
-      "id": "5168832",
-      "time": "2026-10-26 10:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【乳業奶粉概念震盪反彈，陽光乳業漲停】乳業奶粉概念震盪反彈，陽光乳業漲停，南方乳業、貝因美、騎士乳業、熊貓乳品、李子園、一鳴食品等跟漲。"
-    },
-    {
-      "id": "5168831",
-      "time": "2026-10-26 10:30:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "越南國家油氣集團：2027年將在越南近海的SAO VANG - DAI NGUYET油田進行鑽探。"
-    },
-    {
-      "id": "5168830",
-      "time": "2026-10-26 10:30:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藍思科技：摺疊屏相關產線生產任務飽滿，已做好充分的產能準備】藍思科技表示，公司為摺疊屏手機提供UTG超薄柔性玻璃等結構件，相關產品加工難度大、附加值高。目前公司相關產線生產任務飽滿，正加班加點進行生產發貨，同時已做好充分的產能準備，能夠靈活響應客戶後續需求增長。隨著端側AI應用持續豐富，摺疊屏有望成為端側AI時代的重要硬體形態。"
     }
   ]
 }

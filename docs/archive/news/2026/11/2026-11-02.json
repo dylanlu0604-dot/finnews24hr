@@ -1,7 +1,89 @@
 {
   "date": "2026-11-02",
-  "count": 635,
+  "count": 644,
   "items": [
+    {
+      "id": "mkt:01a19a1a-540f-7ee0-aa25-6288c5fe588a",
+      "time": "2026-11-02 10:32:59",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nikkei 225",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【KOSPI rebounds as October export surge fuels buy-the-dip demand】South Korea's KOSPI recovered early losses to finish higher on Monday, rallying more than 1% intraday after an initial drop near 2% amid Wall Street weakness and concerns about large AI-related corporate spending. October exports nearly doubled YoY, the largest gain in over 50 years, led by stronger chip shipments tied to global AI investment; Kiwoom Securities said the market looks oversold while fundamentals and earnings prospects are improving, and the export beat increases the chance of upward revisions to consensus earnings. A separate survey showed manufacturing activity slowed to an eight-month low on weaker output and demand. South Korea's Lee pledged bold AI investment to raise growth potential."
+    },
+    {
+      "id": "5186447",
+      "time": "2026-11-02 10:32:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【股票ETF上週淨流入1075億元 滬深300ETF被集中買入】股票ETF已連續20個交易日淨流入，Wind資料顯示，上週五（10月30日）股票ETF淨流入269.88億元，使得上週整體股票ETF淨流入1074.86億元。滬深300繼續成為資金集中流入的方向，滬深300ETF易方達上週淨流入173.9億元，滬深300ETF華泰柏瑞淨流入149.2億元。淨流入超百億的還有創業板ETF易方達（淨流入108.37億元）、科創50ETF華夏（淨流入103.04億元）。截至目前，股票ETF最新規模回升至2.63萬億元，其中，滬深300ETF華泰柏瑞規模已回升至1500億元以上，為1578.35億元；科創50ETF華夏則回升至1105.05億元；創業板ETF易方達規模也接近千億元，為923.21億元。"
+    },
+    {
+      "id": "5186445",
+      "time": "2026-11-02 10:32:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守101美元/桶，日內跌3.00%。"
+    },
+    {
+      "id": "5186444",
+      "time": "2026-11-02 10:31:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數早盤收跌0.8%，報3931.61點。日經指數早盤收跌0.3%，報63095.11點。"
+    },
+    {
+      "id": "5186443",
+      "time": "2026-11-02 10:31:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲4%，現報3569.00元。"
+    },
+    {
+      "id": "5186442",
+      "time": "2026-11-02 10:31:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報93700元/噸，較上日16:30價格上漲250元/噸。"
+    },
+    {
+      "id": "mkt:01a19a18-7571-7ee0-aa25-5ebdad991d44",
+      "time": "2026-11-02 10:30:56",
+      "tags": [
+        "MKT News",
+        "000725.SZ",
+        "Impact bullish"
+      ],
+      "text": "【BOE says positioned to benefit from expected foldable-phone market growth】BOE Technology said in investor-relations notes that a major smartphone customer will launch a foldable this year, a move expected to lift global foldable-phone shipments. BOE has begun mass production and shipments of a mirror-effect “seamless” panel to some domestic customers and reports deep partnerships with domestic and international brands, with several product and technology firsts across form factors. Citing consultancy data, the company noted rising memory prices are prompting brands to allocate scarce storage to higher-end models, making foldables a key beneficiary and supporting rapid segment growth—conditions BOE says leave it well positioned to benefit."
+    },
+    {
+      "id": "5186441",
+      "time": "2026-11-02 10:29:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陝西釋出霜凍黃色預警，局地可能出現對當季主要農作物產生較大影響的霜凍天氣】陝西省氣象臺2026年11月02日10時30分繼續釋出霜凍黃色預警：受冷空氣持續影響，預計11月3日00時至10時延安市全域、榆林市全域等地最低氣溫將降至0℃以下，其中延安市西部（安塞區、富縣、甘泉縣、吳起縣、志丹縣、子長市）、榆林市西部局地及北部局地（榆陽區、橫山區、神木市、府谷縣、定邊縣、靖邊縣）等地最低氣溫降至-3℃以下，可能出現對當季主要農作物產生較大影響的霜凍天氣。"
+    },
+    {
+      "id": "5186440",
+      "time": "2026-11-02 10:29:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東方A：公司未來在摺疊屏市場確定性增長過程中有望受益】京東方A(000725)在最新披露的投資者關係活動記錄表中表示，今年手機頭部客戶推出摺疊產品，預計將帶動全球摺疊屏手機市場銷量繼續增長，公司此前已推出鏡感“無痕”產品，並已向部分國內客戶量產出貨。根據諮詢機構資料及分析，在儲存漲價背景下，品牌廠商在獲取儲存資源時更傾向於將其配置於高階產品，摺疊屏是重要方向之一，因此摺疊屏市場有望快速增長。公司已與國內外品牌深度合作，實現了多個產品、技術首發，已上市的產品涵蓋多個應用形態，未來在摺疊屏市場確定性增長過程中有望受益。"
+    },
     {
       "id": "mkt:01a19a16-5a3c-7ee0-aa25-568b7878da08",
       "time": "2026-11-02 10:28:38",
