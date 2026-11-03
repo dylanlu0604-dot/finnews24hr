@@ -1,7 +1,74 @@
 {
-  "updated": "2026-11-04 06:28:07",
-  "count": 12198,
+  "updated": "2026-11-04 06:31:55",
+  "count": 12201,
   "items": [
+    {
+      "id": "5191701",
+      "time": "2026-11-04 06:30:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD執行長蘇姿豐：需求仍然大於供應。"
+    },
+    {
+      "id": "5191700",
+      "time": "2026-11-04 06:30:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD執行長蘇姿豐：對未來數年的營收增長抱有強烈信心。"
+    },
+    {
+      "id": "mkt:01a1a389-27fd-7ee0-aa57-944682453bdc",
+      "time": "2026-11-04 06:30:37",
+      "tags": [
+        "MKT News",
+        "AMD.O"
+      ],
+      "text": "AMD (AMD.O) CFO expects Q4 non-GAAP operating expenses of about $3.75 billion."
+    },
+    {
+      "id": "te:markets:597791",
+      "time": "2026-11-04 06:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Drops by 3.28% — Top commodity losers are Methanol (-3.28%), Propane (-1.09%), Coking Coal (-0.96%) and Brent Oil (-0.33%). Gains are led by Heating Oil (3.15%), Germany Natural Gas THE (2.17%), Gasoline (1.74%) and Crude Oil (0.31%)."
+    },
+    {
+      "id": "te:economy:597790",
+      "time": "2026-11-04 06:29:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "New Zealand Unemployment Rate Rises to 5.7% — New Zealand’s seasonally adjusted unemployment rate edged up to 5.7% in the third quarter of 2026 from 5.6% in the previous quarter, exceeding market expectations of 5.5%. The number of unemployed people reached 174,000, while the underutilisation rate remained unchanged at 13.8%. The employment rate stood at 66.4%. Most employed people were paid employees working in permanent roles. Over the quarter, the share of part-time workers increased, contributing to declines in both usual and actual hours worked. Annual wage inflation was 2.1%, while average ordinary-time hourly earnings stood at NZ$44.86."
+    },
+    {
+      "id": "5191699",
+      "time": "2026-11-04 06:29:03",
+      "tags": [
+        "央行",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【11月4日隔夜要聞一覽】\n1、美國和伊朗之間的談判陷入僵局。\n2、以色列向美國情報官員發出警告，稱伊朗可能準備使用化學武器，但這一說法在特朗普政府內部引發巨大分歧。\n3、伊朗要求美明確回應7項條件，否則不開放霍爾木茲海峽。\n4、中際旭創回應關於一些海外客戶下修需求或砍單的傳言：絕大部分客戶未下修需求或訂單，個別客戶存在產品結構性調整，還有部分客戶1.6T需求甚至較此前還有所增加。\n5、投資者對Meta美元債券發行的認購訂單高達580億美元，預計此次發行規模至少為150億美元。\n6、AMD財報超出華爾街預期，營收同比增長45%，資料中心銷售額較上年同期近乎翻倍。盤後大漲7%。\n7、國際油價3日微跌，WTI原油下跌37美分，收於每桶96.09美元，跌幅為0.38%；布倫特原油下跌1.17美元，收於每桶103.60美元，跌幅為1.12%。\n8、奈飛上線AI Discover功能，可根據觀看心情、主創班底或者可用時長來幫使用者查詢內容。\n9、法國央行或下調2026年增長預測，目前預測是今年經濟增長0.4%。"
+    },
+    {
+      "id": "5191698",
+      "time": "2026-11-04 06:27:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "AMD首席財務官：預計第四季度非美國通用會計準則運營費用約為37.5億美元。"
+    },
     {
       "id": "mkt:01a1a386-05f2-7ee0-aa57-8ec370c7b369",
       "time": "2026-11-04 06:27:11",
@@ -112273,41 +112340,6 @@
         "其他"
       ],
       "text": "【公募基金三季報披露完畢，債券基金規模創歷史新高】10月27日，公募基金2026年三季報披露完畢。從基金規模來看，截至三季度末，債券型基金總規模超過12.6萬億元，創歷史新高。相較於二季度末，債基規模增加超5000億元，獲淨申購超過2800億份，成為股票型基金、混合型基金、債券型基金、貨幣型基金、商品型基金、QDII、FOF等七大類基金中，獲淨申購最多的一類基金產品。三季度主動權益基金（包括普通股票型、偏股混合型、平衡混合型、靈活配置型基金）規模合計減少超9000億元，規模超200億元的主動權益產品數量減少至5只。"
-    },
-    {
-      "id": "5173828",
-      "time": "2026-10-28 06:31:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄烏開始區域性停火但多地打擊未停 雙方核心分歧仍難突破】美國總統特朗普的夫人梅拉尼婭27日發文稱，俄烏在赫爾松阿列什基的停火協議已於莫斯科時間27日凌晨4時提前生效，比原計劃提前兩天，範圍擴大至阿列什基以外，以保障人道救援車隊安全通道，俄軍總參謀長格拉西莫夫已證實。俄方稱赫爾松方向實行“靜默制度”至11月1日；烏方確認人道行動啟動、停火持續至11月1日。專家認為此次停火戰術戰略意義有限，難撬動整體僵局；當天俄軍仍對烏多地軍工企業和交通物流設施發動大規模打擊。（央視新聞）"
-    },
-    {
-      "id": "5173827",
-      "time": "2026-10-28 06:30:44",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【中證報：盈利穩健估值低位，核心資產迎來重估契機】“一個雪球埋在雪裡，你只看到一點點，以為是個小雪球，它其實是個大雪球，被低估了就是深度折價。你買它的時候，已經賺到了。”睿遠基金董事總經理趙楓說。近日，多家基金機構在接受採訪時表示，當前經濟向新向優帶動企業盈利仍處週期高位，優質龍頭在殺估值後配置價值已經凸顯；大盤藍籌憑藉穩定分紅現金流與紮實淨資產構築的安全墊，在低利率環境中展現出更突出的吸引力，A股核心資產正迎來價值重估的契機。"
-    },
-    {
-      "id": "te:markets:595546",
-      "time": "2026-10-28 06:30:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Drops by 4.90% — Top commodity losers are Methanol (-4.90%), Heating Oil (-3.34%), Gasoline (-2.79%), Crude Oil (-1.96%) and Brent Oil (-1.83%). Gains are led by Natural gas (4.29%)."
-    },
-    {
-      "id": "5173826",
-      "time": "2026-10-28 06:28:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音獲4.998億美元合同修訂，用於阿帕奇AH-64工程服務和技術支援。"
     }
   ]
 }

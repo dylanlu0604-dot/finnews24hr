@@ -1,7 +1,74 @@
 {
   "date": "2026-11-04",
-  "count": 398,
+  "count": 405,
   "items": [
+    {
+      "id": "5191701",
+      "time": "2026-11-04 06:30:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD執行長蘇姿豐：需求仍然大於供應。"
+    },
+    {
+      "id": "5191700",
+      "time": "2026-11-04 06:30:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD執行長蘇姿豐：對未來數年的營收增長抱有強烈信心。"
+    },
+    {
+      "id": "mkt:01a1a389-27fd-7ee0-aa57-944682453bdc",
+      "time": "2026-11-04 06:30:37",
+      "tags": [
+        "MKT News",
+        "AMD.O"
+      ],
+      "text": "AMD (AMD.O) CFO expects Q4 non-GAAP operating expenses of about $3.75 billion."
+    },
+    {
+      "id": "te:markets:597791",
+      "time": "2026-11-04 06:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Drops by 3.28% — Top commodity losers are Methanol (-3.28%), Propane (-1.09%), Coking Coal (-0.96%) and Brent Oil (-0.33%). Gains are led by Heating Oil (3.15%), Germany Natural Gas THE (2.17%), Gasoline (1.74%) and Crude Oil (0.31%)."
+    },
+    {
+      "id": "te:economy:597790",
+      "time": "2026-11-04 06:29:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "New Zealand Unemployment Rate Rises to 5.7% — New Zealand’s seasonally adjusted unemployment rate edged up to 5.7% in the third quarter of 2026 from 5.6% in the previous quarter, exceeding market expectations of 5.5%. The number of unemployed people reached 174,000, while the underutilisation rate remained unchanged at 13.8%. The employment rate stood at 66.4%. Most employed people were paid employees working in permanent roles. Over the quarter, the share of part-time workers increased, contributing to declines in both usual and actual hours worked. Annual wage inflation was 2.1%, while average ordinary-time hourly earnings stood at NZ$44.86."
+    },
+    {
+      "id": "5191699",
+      "time": "2026-11-04 06:29:03",
+      "tags": [
+        "央行",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【11月4日隔夜要聞一覽】\n1、美國和伊朗之間的談判陷入僵局。\n2、以色列向美國情報官員發出警告，稱伊朗可能準備使用化學武器，但這一說法在特朗普政府內部引發巨大分歧。\n3、伊朗要求美明確回應7項條件，否則不開放霍爾木茲海峽。\n4、中際旭創回應關於一些海外客戶下修需求或砍單的傳言：絕大部分客戶未下修需求或訂單，個別客戶存在產品結構性調整，還有部分客戶1.6T需求甚至較此前還有所增加。\n5、投資者對Meta美元債券發行的認購訂單高達580億美元，預計此次發行規模至少為150億美元。\n6、AMD財報超出華爾街預期，營收同比增長45%，資料中心銷售額較上年同期近乎翻倍。盤後大漲7%。\n7、國際油價3日微跌，WTI原油下跌37美分，收於每桶96.09美元，跌幅為0.38%；布倫特原油下跌1.17美元，收於每桶103.60美元，跌幅為1.12%。\n8、奈飛上線AI Discover功能，可根據觀看心情、主創班底或者可用時長來幫使用者查詢內容。\n9、法國央行或下調2026年增長預測，目前預測是今年經濟增長0.4%。"
+    },
+    {
+      "id": "5191698",
+      "time": "2026-11-04 06:27:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "AMD首席財務官：預計第四季度非美國通用會計準則運營費用約為37.5億美元。"
+    },
     {
       "id": "mkt:01a1a386-05f2-7ee0-aa57-8ec370c7b369",
       "time": "2026-11-04 06:27:11",
