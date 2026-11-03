@@ -1,7 +1,77 @@
 {
-  "updated": "2026-11-03 09:15:46",
-  "count": 12470,
+  "updated": "2026-11-03 09:19:39",
+  "count": 12474,
   "items": [
+    {
+      "id": "te:markets:597451",
+      "time": "2026-11-03 09:18:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Stocks Fall on AI Spending Concerns — The benchmark KOSPI fell 2.59% to around 5,706 on Tuesday, retreating from gains in the previous session as concerns over heavy spending on artificial intelligence infrastructure weighed on technology stocks ahead of the US midterm elections. The decline followed overnight losses on Wall Street, where the Nasdaq Composite and S&P 500 fell 1.07% and 0.51%, respectively, amid continued weakness in AI-related shares. Additional downward pressure came from index heavyweights, including Samsung Electronics (-4.59%), SK Hynix (-5.57%), LG Energy Solution (-2.60%), and Hyundai Motor (-4.18%). Meanwhile, market participants assessed South Korea’s inflation, which remained elevated at 2.8% in October, easing only slightly from 2.9% in September and reinforcing expectations of a possible interest rate hike at the Bank of Korea’s November policy meeting."
+    },
+    {
+      "id": "5188701",
+      "time": "2026-11-03 09:18:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌5%，現報6344.00元。"
+    },
+    {
+      "id": "5188700",
+      "time": "2026-11-03 09:18:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌7%，現報2404.50點。"
+    },
+    {
+      "id": "5188697",
+      "time": "2026-11-03 09:16:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶麗迪：目前COFs業務尚處商業化初期，未形成工業化批次銷售】寶麗迪11月3日在互動平臺表示，目前COFs業務尚處商業化初期，未形成工業化批次銷售，短期對公司營收及利潤影響較小。"
+    },
+    {
+      "id": "5188692",
+      "time": "2026-11-03 09:15:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7150元，下調4點。"
+    },
+    {
+      "id": "5188687",
+      "time": "2026-11-03 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.40%，報23447.68點，高水54.36點。"
+    },
+    {
+      "id": "5188685",
+      "time": "2026-11-03 09:14:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：正考慮設立政府層面的網路安全“沙皇”機構。"
+    },
+    {
+      "id": "5188677",
+      "time": "2026-11-03 09:14:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【王興興：宇樹未來重點攻克機器人大腦技術，將在全球範圍尋求合作】11月3日上午，宇樹科技創始人王興興出席世界網際網路大會烏鎮峰會。在開幕會前接受採訪時王興興稱，宇樹科技未來重點在攻克機器人大腦技術，除了宇樹科技自身的技術突破，還將在全球範圍尋求合作，看好物理AI技術，並致力於突破。(財聞)"
+    },
     {
       "id": "5188671",
       "time": "2026-11-03 09:13:27",
@@ -114297,40 +114367,6 @@
         "焦點"
       ],
       "text": "【港股開盤：恒生指數漲0.21%，恒生科技指數漲0.74%】藥明康德漲5.15%，聯想集團漲4.88%，華虹宏力漲4.12%，天數智芯漲3.68%，MINIMAX-W漲3.50%，李寧漲3.43%，智譜漲2.87%。"
-    },
-    {
-      "id": "5171231",
-      "time": "2026-10-27 09:18:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內漲5%，現報99680.00元。"
-    },
-    {
-      "id": "5171230",
-      "time": "2026-10-27 09:16:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國家發展改革委副主任周海兵會見法國財政總署署長杜蒙】10月23日下午，國家發展改革委副主任周海兵在委內會見法國財政總署署長杜蒙，雙方就“十五五”規劃、中法宏觀經濟形勢、擴大雙向投資、能源等議題進行了交流。周海兵表示，中方願同法方加強溝通，深化部門間合作機制框架下務實合作。歡迎法國企業來華投資興業，共同推動兩國務實合作不斷發展。希望法方為中國企業提供公平透明、非歧視、可預期的營商環境。杜蒙表示，法中務實合作穩步推進，願與中方落實兩國元首會晤共識，繼續開展機制化交流，加強投資、能源等領域合作，歡迎更多中國企業赴法投資，實現互利共贏。"
-    },
-    {
-      "id": "5171229",
-      "time": "2026-10-27 09:15:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內漲4%，現報98740.00元。"
-    },
-    {
-      "id": "5171228",
-      "time": "2026-10-27 09:15:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.7171，較上日調低9點】人民幣兌美元中間價報6.7171，較上日調低9點。"
     }
   ]
 }
