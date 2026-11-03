@@ -1,7 +1,113 @@
 {
-  "updated": "2026-11-04 05:56:58",
-  "count": 12174,
+  "updated": "2026-11-04 06:01:16",
+  "count": 12183,
   "items": [
+    {
+      "id": "mkt:01a1a36d-4880-7ee0-aa57-2915e59df162",
+      "time": "2026-11-04 06:00:10",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia AIG Construction Performance Index Oct -26.9; prior revised from -6.9 to -5."
+    },
+    {
+      "id": "mkt:01a1a36d-3ddc-7ee0-aa57-24dc11f5cd02",
+      "time": "2026-11-04 06:00:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Australia October S&P Global Services PMI (final) 48.5, up from 47.8."
+    },
+    {
+      "id": "mkt:01a1a36d-3b61-7ee0-aa57-1e758a63b59d",
+      "time": "2026-11-04 06:00:06",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia AIG/PwC manufacturing performance index -20.1 in Oct; Sept reading revised to -16.2 from -16.6."
+    },
+    {
+      "id": "mkt:01a1a36d-3acc-7ee0-aa57-17aebb9610f2",
+      "time": "2026-11-04 06:00:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia October S&P Global Composite PMI (final) 48.2, prior 47.7."
+    },
+    {
+      "id": "mkt:01a1a36d-210c-7ee0-aa57-0f79cf116a59",
+      "time": "2026-11-04 06:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Ai Group Australian PCI (construction) (Oct) | actual -26.9 | previous -6.9"
+    },
+    {
+      "id": "mkt:01a1a36d-208f-7ee0-aa57-06d74ac91547",
+      "time": "2026-11-04 06:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Ai Group Australian PMI (manufacturing) (Oct) | actual -20.1 | previous -16.6"
+    },
+    {
+      "id": "mkt:01a1a36d-2040-7ee0-aa56-ff0372cc7897",
+      "time": "2026-11-04 06:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | S&P Global Composite PMI, final (Oct) | actual 48.2 | previous 47.7"
+    },
+    {
+      "id": "mkt:01a1a36d-202b-7ee0-aa56-f027c720db49",
+      "time": "2026-11-04 06:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | S&P Global Services PMI, final (Oct) | actual 48.5 | previous 47.8"
+    },
+    {
+      "id": "mkt:01a1a36b-4b5c-7ee0-aa56-edceeb8e3a17",
+      "time": "2026-11-04 05:58:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reported a person close to U.S. House Speaker Johnson said he has not considered the possibility that Republicans could lose their House majority and has not outlined how he would respond if the party lost control."
+    },
+    {
+      "id": "te:markets:597788",
+      "time": "2026-11-04 05:57:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Shopify and Miners Post Losses — The S&P/TSX Composite Index fell 0.7% to close at 35,532 on Tuesday, as losses in Shopify and mining stocks dragged down the benchmark. Shopify plunged 8% after its earnings report showed slower-than-expected growth in gross merchandise volume and subscription revenue. Miners reversed earlier gains as gold, silver and copper prices declined. Agnico Eagle fell 1.8%, while Barrick lost 2.2%. Elsewhere, Thomson Reuters sank 9% amid concerns that higher AI-related spending could weigh on profits. Most major banks were subdued, while a slight recovery in oil prices renewed concerns about energy-driven inflation. Meanwhile, BoC Governor Macklem sought to reassure markets that the government’s existing spending plans were not adding to inflationary pressures. His comments came as the government prepared to unveil its budget on Thursday. The budget’s gap is expected to amount to about 2% of GDP."
+    },
     {
       "id": "5191676",
       "time": "2026-11-04 05:55:00",
@@ -112052,15 +112158,6 @@
         "焦點"
       ],
       "text": "蘋果已討論將新款14英寸觸控Mac定價為2899美元。"
-    },
-    {
-      "id": "5173812",
-      "time": "2026-10-28 05:59:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "以色列利庫德集團訊息人士表示，該黨未預料到阿拉伯裔以色列選民的投票率會如此之高。"
     }
   ]
 }
