@@ -1,7 +1,66 @@
 {
   "date": "2026-11-04",
-  "count": 110,
+  "count": 116,
   "items": [
+    {
+      "id": "5191483",
+      "time": "2026-11-04 01:13:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克將於本月逐步下架Impossible植物肉早餐三明治。"
+    },
+    {
+      "id": "5191482",
+      "time": "2026-11-04 01:13:16",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【亞太經合組織召開第37屆外交和貿易雙部長會議】亞太經合組織（APEC）第37屆外交和貿易雙部長會議3日以影片方式在京舉行。會議聯合主席中共中央政治局委員、外交部部長王毅和商務部部長王文濤共同主持。（央視新聞）"
+    },
+    {
+      "id": "te:markets:597764",
+      "time": "2026-11-04 01:12:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.01% Lower — The FTSE MIB Index fell 6 points or 0.01 percent on Tuesday to close at 49942 points. Leading the losses are Brunello Cucinelli (-3.43%), Stellantis N.V. (-3.02%) and Tenaris (-2.50%). Top gainers were Ferrari NV (4.31%), Amplifon (2.94%) and Avio (2.31%)."
+    },
+    {
+      "id": "5191481",
+      "time": "2026-11-04 01:11:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【墨西哥全國中小學實施手機使用限制】當地時間11月3日起，墨西哥全國公立及私立中小學正式實施手機使用限制。根據墨西哥公共教育部規定，學生在上課及課間休息期間原則上不得使用手機、智慧手錶等個人電子裝置，但因教學活動、緊急情況、健康或殘障輔助等特殊需要可例外使用。高中階段由各校制定具體管理規則。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1a265-376c-7ee0-aa53-031fefa8c25d",
+      "time": "2026-11-04 01:11:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Politico reports the European Commission will abandon plans to reform the Energy Tax Directive."
+    },
+    {
+      "id": "te:markets:597763",
+      "time": "2026-11-04 01:11:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.45% Lower — The DAX Index dropped 116 points or 0.45 percent on Tuesday to close at 25865 points. Losses were led by Zalando (-5.97%), Fresenius Medical Care (-4.17%) and MTU Aero Engines AG (-3.01%). Offsetting the fall, top gainers were Bayer (4.80%), Hochtief (1.77%) and Infineon (1.19%)."
+    },
     {
       "id": "mkt:01a1a264-39b3-7ee0-aa52-fbccd7eaa0bc",
       "time": "2026-11-04 01:10:39",
