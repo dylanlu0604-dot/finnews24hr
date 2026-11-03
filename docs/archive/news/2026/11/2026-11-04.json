@@ -1,7 +1,92 @@
 {
   "date": "2026-11-04",
-  "count": 54,
+  "count": 64,
   "items": [
+    {
+      "id": "5191453",
+      "time": "2026-11-04 00:34:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普政府透過商務部全球市場部門促成8380億美元貿易與投資。"
+    },
+    {
+      "id": "mkt:01a1a242-d24a-7ee0-aa52-9e89ba4e27bb",
+      "time": "2026-11-04 00:34:10",
+      "tags": [
+        "MKT News",
+        "TM.N",
+        "Impact bullish"
+      ],
+      "text": "Toyota Motor (TM.N) U.S. October new-vehicle sales 221,507 units, up 6.5% YoY; electrified vehicles accounted for 56.9% of sales."
+    },
+    {
+      "id": "5191452",
+      "time": "2026-11-04 00:33:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "豐田汽車北美公司：2026年10月美國電氣化汽車銷量總計126,054輛，按銷量計算同比增長34.6%。"
+    },
+    {
+      "id": "5191451",
+      "time": "2026-11-04 00:33:08",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤普跌】歐洲斯托克600指數下跌0.47%，歐洲斯托克指數下跌 0.35%，歐元區藍籌股下跌 0.37%。法國CAC40指數下跌0.22%，西班牙IBEX指數下跌0.72%，英國富時100指數下跌1.03%，德國DAX指數下跌0.31%。"
+    },
+    {
+      "id": "mkt:01a1a241-9d84-7ee0-aa52-961fab1b49d8",
+      "time": "2026-11-04 00:32:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said countries are building their own Starlink systems, saying this is the right approach because the key issue is who controls the systems' on/off switch."
+    },
+    {
+      "id": "em:jjsj_mgsj:202611043920656362",
+      "time": "2026-11-04 00:32:43",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.940%，投標倍數2.88。"
+    },
+    {
+      "id": "mkt:01a1a241-7899-7ee0-aa52-8a3f2fad8c8d",
+      "time": "2026-11-04 00:32:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian President Zelenskiy said Russia's recent military infrastructure buildup is not aimed solely at Ukraine; its scale suggests it is also targeting Europe."
+    },
+    {
+      "id": "5191450",
+      "time": "2026-11-04 00:32:28",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.940%，投標倍數2.88。"
+    },
+    {
+      "id": "5191449",
+      "time": "2026-11-04 00:32:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我們不會邀請俄羅斯總統普京來基輔。2022年他們是不請自來。但不邀請普京來基輔的原因不在於此，而在於他不會來。就像邀請我去莫斯科一樣。俄羅斯的所作所為具有破壞性。這簡直是在打全世界希望結束衝突的人的臉。"
+    },
     {
       "id": "mkt:01a1a241-0db7-7ee0-aa52-85b2a50d762e",
       "time": "2026-11-04 00:32:14",
@@ -9,6 +94,17 @@
         "MKT News"
       ],
       "text": "Ukrainian President ZELENSKIY said the United States, which served as the world’s security guarantor for the past 80 years, no longer exists in that role; people in the Gulf, who once relied on U.S. security guarantees, are now focused on avoiding another full-scale war."
+    },
+    {
+      "id": "te:markets:597752",
+      "time": "2026-11-04 00:32:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Prices Fall Further — European natural gas prices fell more than 3% to below €92/MWh on Tuesday, their lowest level in over a week, extending Monday’s 8.7% decline. The retreat followed reports of progress towards a potential US-Iran diplomatic agreement, raising hopes of an end to the eight-month conflict and easing the geopolitical risk premium that had pushed prices above €100/MWh last week for the first time since 2022. However, underlying supply concerns remain as colder weather boosts demand and storage levels fall short of targets. Germany’s gas reserves were just 61.05% full on November 2, below the government’s 70% goal, while EU-wide inventories remained under 75%, the lowest level on record for this time of year. Temperatures across Northwest Europe are expected to decline further this week, increasing heating demand and the need for additional LNG imports."
     },
     {
       "id": "5191448",
