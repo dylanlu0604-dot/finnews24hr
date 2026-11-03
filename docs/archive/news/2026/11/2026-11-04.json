@@ -1,7 +1,37 @@
 {
   "date": "2026-11-04",
-  "count": 425,
+  "count": 428,
   "items": [
+    {
+      "id": "5191713",
+      "time": "2026-11-04 06:56:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "大華銀行第三季度淨利潤12.5億新加坡元，市場預估13.7億新加坡元。"
+    },
+    {
+      "id": "te:markets:597798",
+      "time": "2026-11-04 06:55:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Muted After Jobs Data — The NZX 50 was almost flat, trading around 13,726 on Tuesday morning, after gaining in the previous session as traders assessed the latest jobs data. The data showed that unemployment unexpectedly rose to an 11-year high of 5.7% in Q3 2026, up from 5.6% in Q2, defying market expectations for a decline to 5.5% in Q3. Traders also monitored early voting in New Zealand ahead of the 7 November general election, with nearly 1 million ballots having been cast in the first week of early voting. Gains in the energy and technology sectors offset declines in communication services, financials, and real estate. However, an upbeat session on Wall Street overnight lifted sentiment, while rising oil prices weighed on market sentiment. Fisher & Paykel increased 0.7%, Freightways Group gained 0.7%, Channel Infrastructure rose 0.6%, and Fletcher Building climbed 0.6%, while Henderson Far East Income and South Port NZ fell by 1.6% and 0.7%, respectively."
+    },
+    {
+      "id": "mkt:01a1a39f-83fc-7ee0-aa57-b40fb30f5453",
+      "time": "2026-11-04 06:55:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【DNC chair: Do not underestimate Trump while he remains in office】DNC chair Ken Martin said he expects Democrats to score a historic victory Tuesday, expressing confidence they will at minimum retake the House and that their chances in the Senate are substantial. He warned markets and strategists not to underestimate President Trump while he remains in office, saying Trumpism remains a powerful political force; even as a potential lame-duck he retains significant power and control over the GOP. Martin named potential 2028 contenders — Rubio, Vance and Hegseth — as Trump loyalists and said it would be mistaken to assume Trumpism ends with his departure."
+    },
     {
       "id": "te:economy:597797",
       "time": "2026-11-04 06:50:02",

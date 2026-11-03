@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-04 06:54:46",
-  "count": 12206,
+  "updated": "2026-11-04 06:58:31",
+  "count": 12208,
   "items": [
+    {
+      "id": "5191713",
+      "time": "2026-11-04 06:56:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "大華銀行第三季度淨利潤12.5億新加坡元，市場預估13.7億新加坡元。"
+    },
+    {
+      "id": "te:markets:597798",
+      "time": "2026-11-04 06:55:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Muted After Jobs Data — The NZX 50 was almost flat, trading around 13,726 on Tuesday morning, after gaining in the previous session as traders assessed the latest jobs data. The data showed that unemployment unexpectedly rose to an 11-year high of 5.7% in Q3 2026, up from 5.6% in Q2, defying market expectations for a decline to 5.5% in Q3. Traders also monitored early voting in New Zealand ahead of the 7 November general election, with nearly 1 million ballots having been cast in the first week of early voting. Gains in the energy and technology sectors offset declines in communication services, financials, and real estate. However, an upbeat session on Wall Street overnight lifted sentiment, while rising oil prices weighed on market sentiment. Fisher & Paykel increased 0.7%, Freightways Group gained 0.7%, Channel Infrastructure rose 0.6%, and Fletcher Building climbed 0.6%, while Henderson Far East Income and South Port NZ fell by 1.6% and 0.7%, respectively."
+    },
+    {
+      "id": "mkt:01a1a39f-83fc-7ee0-aa57-b40fb30f5453",
+      "time": "2026-11-04 06:55:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【DNC chair: Do not underestimate Trump while he remains in office】DNC chair Ken Martin said he expects Democrats to score a historic victory Tuesday, expressing confidence they will at minimum retake the House and that their chances in the Senate are substantial. He warned markets and strategists not to underestimate President Trump while he remains in office, saying Trumpism remains a powerful political force; even as a potential lame-duck he retains significant power and control over the GOP. Martin named potential 2028 contenders — Rubio, Vance and Hegseth — as Trump loyalists and said it would be mistaken to assume Trumpism ends with his departure."
+    },
     {
       "id": "te:economy:597797",
       "time": "2026-11-04 06:50:02",
@@ -112389,14 +112419,6 @@
         "國際"
       ],
       "text": "美國總統抵特朗普達得克薩斯州拉伯克，在停機坪受到市長馬克·麥克佈雷耶迎接。"
-    },
-    {
-      "id": "5173840",
-      "time": "2026-10-28 06:55:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【年內117家公司港股IPO募資逾3900億港元】港股IPO（首次公開募股）發行仍保持高熱度。10月28日，蘇州東山精密製造股份有限公司正式登陸港股市場。萬得資料顯示，按上市日期計算，截至10月27日，今年以來，港股市場有117只新股IPO，同比增長53.95%；募集資金規模3915.16億港元，同比增長98.93%。與去年同期相比，發行節奏、融資體量同步提升，硬體裝置、半導體、軟體服務等企業成為主角。德勤中國將港股全年IPO募資預期上調至不少於4800億港元，四季度大型專案能否如期落地，是觀察全年能否衝擊歷史紀錄的關鍵視窗。（證券日報）"
     }
   ]
 }
