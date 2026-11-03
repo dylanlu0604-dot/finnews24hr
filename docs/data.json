@@ -1,7 +1,218 @@
 {
-  "updated": "2026-11-04 05:48:53",
-  "count": 12152,
+  "updated": "2026-11-04 05:53:07",
+  "count": 12169,
   "items": [
+    {
+      "id": "mkt:01a1a365-bb2e-7ee0-aa56-dad1dd1993b2",
+      "time": "2026-11-04 05:51:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "US API Cushing crude stocks, week to Oct 30: +511k barrels; prior -453k."
+    },
+    {
+      "id": "mkt:01a1a365-9b0e-7ee0-aa56-d3b6f7bb8a4a",
+      "time": "2026-11-04 05:51:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Oct.30) | actual 511000M | previous -453000M"
+    },
+    {
+      "id": "mkt:01a1a365-8b95-7ee0-aa56-ca833a32f191",
+      "time": "2026-11-04 05:51:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API estimated U.S. refinery crude runs rose by 195,000 b/d in the week ended Oct. 30, versus a 47,000 b/d increase the prior week."
+    },
+    {
+      "id": "mkt:01a1a365-6126-7ee0-aa56-c3ca1118993b",
+      "time": "2026-11-04 05:51:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (Oct.30) | actual 195000M | previous 47000M"
+    },
+    {
+      "id": "5191672",
+      "time": "2026-11-04 05:51:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國10月輕型汽車總銷量降至1554萬輛，預期為1580萬輛。"
+    },
+    {
+      "id": "mkt:01a1a365-343d-7ee0-aa56-b8f4b0d0504f",
+      "time": "2026-11-04 05:51:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US API refined products imports for the week to Oct. 30 were 52,000 b/d, versus -379,000 b/d in the prior week."
+    },
+    {
+      "id": "mkt:01a1a365-161c-7ee0-aa56-b4d7bab7ba33",
+      "time": "2026-11-04 05:51:13",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports (Oct.30) | actual 52000M | previous -379000M"
+    },
+    {
+      "id": "mkt:01a1a365-0031-7ee0-aa56-aedf2690f61a",
+      "time": "2026-11-04 05:51:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "API: U.S. crude oil imports for the week to Oct. 30 463,000 bbl; prior -137,000 bbl."
+    },
+    {
+      "id": "mkt:01a1a364-d563-7ee0-aa56-a7ec65cca439",
+      "time": "2026-11-04 05:50:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports (Oct.30) | actual 463000M | previous -137000M"
+    },
+    {
+      "id": "mkt:01a1a364-b3e7-7ee0-aa56-9831b6749529",
+      "time": "2026-11-04 05:50:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "US API heating oil stocks fell 270,000 barrels in the week to Oct. 30, versus a 380,000-barrel build in the prior week."
+    },
+    {
+      "id": "mkt:01a1a364-9b5e-7ee0-aa56-93831958695a",
+      "time": "2026-11-04 05:50:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Oct.30) | actual -270000M | previous 380000M"
+    },
+    {
+      "id": "mkt:01a1a364-7cfb-7ee0-aa56-8daaf7f62d33",
+      "time": "2026-11-04 05:50:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US API refined product stocks for the week ended Oct 30: draw of 1.192 mln barrels vs expected build of 0.400 mln; prior +0.426 mln."
+    },
+    {
+      "id": "mkt:01a1a364-5374-7ee0-aa56-8364426d569d",
+      "time": "2026-11-04 05:50:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Oct.30) | actual -1192000M | consensus 400000M | previous 426000M"
+    },
+    {
+      "id": "5191671",
+      "time": "2026-11-04 05:50:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至10月30日當週API原油庫存 -526.7萬桶，預期198.7萬桶，前值-203.1萬桶。\n美國至10月30日當週API汽油庫存 142.7萬桶，預期4萬桶，前值239萬桶。"
+    },
+    {
+      "id": "mkt:01a1a364-39b7-7ee0-aa56-7bbab117fac1",
+      "time": "2026-11-04 05:50:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US API weekly gasoline stocks for the week to Oct. 30 +1.427 mln barrels; forecast +0.04 mln; prior +2.39 mln."
+    },
+    {
+      "id": "mkt:01a1a364-2378-7ee0-aa56-77d00ffa2ad4",
+      "time": "2026-11-04 05:50:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API weekly US crude inventories for week to Oct 30: draw of 5.267 mln bbl versus expected build of 1.987 mln; prior draw 2.031 mln."
+    },
+    {
+      "id": "mkt:01a1a364-1d20-7ee0-aa56-6db4c756410d",
+      "time": "2026-11-04 05:50:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Oct.30) | actual 1427000M | consensus 40000M | previous 2390000M"
+    },
+    {
+      "id": "mkt:01a1a363-fdd8-7ee0-aa56-6019525b53f9",
+      "time": "2026-11-04 05:50:01",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Tanker struck by two unidentified projectiles near Oman】UK Maritime Trade Operations (UKMTO) reported that at 1900 GMT on Nov. 3 a tanker was hit by two unidentified projectiles about 14 nm (≈26 km) northeast of Lima, Oman. The tanker’s company security officer reported the strikes. UKMTO said there were no reports of casualties or pollution as of the notice."
+    },
+    {
+      "id": "mkt:01a1a363-fd7e-7ee0-aa56-5a744de11976",
+      "time": "2026-11-04 05:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Oct.30) | actual -5267000M | consensus 1987000M | previous -2031000M"
+    },
+    {
+      "id": "5191670",
+      "time": "2026-11-04 05:48:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.31%，報12818點。"
+    },
     {
       "id": "5191669",
       "time": "2026-11-04 05:47:26",
@@ -111805,31 +112016,6 @@
         "國際"
       ],
       "text": "【巴西自由黨眾議員稱弗拉維奧·博索納羅已前往美國】巴西自由黨聯邦眾議員毛裡西奧·馬爾孔27日稱，在總統選舉中落敗的自由黨候選人弗拉維奧·博索納羅已動身前往美國。馬爾孔當日在社交媒體釋出影片表示，弗拉維奧·博索納羅已乘坐飛機前往美國“流亡”，稱此舉與巴西聯邦最高法院法官亞歷山大·德莫賴斯責令其向警方上交護照有關。（新華社）"
-    },
-    {
-      "id": "5173810",
-      "time": "2026-10-28 05:51:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "Coinbase執行長：所有資產類別都在向鏈上遷移。"
-    },
-    {
-      "id": "5173809",
-      "time": "2026-10-28 05:51:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲本週維持利率不變的機率為92.8%】據CME“美聯儲觀察”：美聯儲本週維持利率不變的機率為92.8%，累計加息25個基點的機率為7.2%。美聯儲到12月維持利率不變的機率為16.4%，累計加息25個基點的機率77.7%，累計加息50個基點的機率為5.9%。"
-    },
-    {
-      "id": "mkt:01a17f57-9c2a-7ee0-a9a2-5020b5ff1f24",
-      "time": "2026-10-28 05:50:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yisrael Beiteinu leader Avigdor Lieberman said there must be an internal revolt within Likud to oust Benjamin Netanyahu."
     }
   ]
 }
