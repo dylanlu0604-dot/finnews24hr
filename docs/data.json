@@ -1,7 +1,57 @@
 {
-  "updated": "2026-11-03 09:38:55",
-  "count": 12461,
+  "updated": "2026-11-03 09:42:48",
+  "count": 12463,
   "items": [
+    {
+      "id": "5188820",
+      "time": "2026-11-03 09:42:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光伏裝置板塊拉昇 永臻股份漲停】光伏裝置板塊短線拉昇，永臻股份漲停，高測股份、固德威、正泰電源、陽光電源等跟漲。"
+    },
+    {
+      "id": "5188819",
+      "time": "2026-11-03 09:41:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【大飛機板塊短線拉昇，成飛整合漲停】大飛機板塊短線拉昇，成飛整合漲停，中航成飛漲超10%，利君股份、航天環宇、華秦科技、盟升電子、愛樂達等跟漲。"
+    },
+    {
+      "id": "5188818",
+      "time": "2026-11-03 09:41:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【軍工板塊表現活躍 中航成飛漲近10%】軍工板塊表現活躍，中航成飛漲近10%，晨曦航空、國科軍工、航發動力、北方長龍跟漲。"
+    },
+    {
+      "id": "5188817",
+      "time": "2026-11-03 09:39:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "港股三桶油集體走弱，中國石油股份(00857.HK)跌超5%，中國海洋石油(00883.HK)、中國石油化工股份(00386.HK)跌超4%。"
+    },
+    {
+      "id": "5188816",
+      "time": "2026-11-03 09:39:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【預告：國家發展改革委就夯實發展支撐有關情況舉行新聞釋出會】國家發展改革委定於2026年11月4日（星期三）上午10:00，在國家發展改革委北樓中三大會議室，召開國家發展改革委奮進“十五五”系列新聞釋出會，介紹夯實發展支撐有關情況。(中國網)"
+    },
+    {
+      "id": "5188815",
+      "time": "2026-11-03 09:38:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【縱橫股份與海光資訊完成深算三號DCU適配測試】據縱橫股份訊息，近日，縱橫股份與海光資訊科技股份有限公司（簡稱“海光資訊”）完成深算三號DCU（Deep Computing Unit）適配測試。測試內容覆蓋目標檢測、多模態理解、影象分割、影片編解碼等工業無人機核心業務場景，所有測試用例全部順利跑通，各項效能指標均滿足縱橫股份對國產AI算力的要求，標誌著縱橫股份機載與地面智慧分析軟體的國產化遷移邁出關鍵一步。"
+    },
     {
       "id": "5188814",
       "time": "2026-11-03 09:38:05",
@@ -114224,43 +114274,6 @@
         "資料"
       ],
       "text": "【高毅資產：A股在企業盈利、估值變化與股東回報制度三個層面均出現改善】近期全球資本市場經歷了一輪明顯的調整，高毅資產認為，影響因素主要來是美元流動性趨勢性收緊和對AI投資回報率的擔憂。對於當下市場，高毅資產認為，權益投資的長期回報來源於企業盈利、估值變化與股東回報制度三個層面，當前A股在三個層面均出現改善。企業盈利層面，企業盈利的企穩回升的主要貢獻因素，一方面來自PPI企穩回升，另一方面來自 AI產業的發展。估值層面，看過去十年的分年度資料，和當前水平相當的僅有 2018 年。這意味著市場對於今年部分悲觀預期的定價可能已經較為充分。股東回報制度方面，從分紅趨勢看，過去十年萬得全A指數成分股整體的分紅比例從 33%提升到 47%，且更支援中期分紅、年內多次分紅等。"
-    },
-    {
-      "id": "5171285",
-      "time": "2026-10-27 09:41:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【人形機器人概念反覆活躍 光洋股份等多股漲停】人形機器人概念反覆活躍，光洋股份2連板，華培動力、東貝集團漲停，此前賽福天4連板，傑克科技觸及漲停，豪恩汽電、中堅科技、福萊新材、上緯新材跟漲。"
-    },
-    {
-      "id": "te:economy:595210",
-      "time": "2026-10-27 09:40:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Corporate Profits",
-        "Importance 2"
-      ],
-      "text": "China Total Industrial Profits Grow 15.5% YoY in Jan-Sept — China’s industrial profits rose 15.5% year-on-year to CNY 6.03 trillion in the first nine months of 2026, easing slightly from a 15.7% increase in the January-August period. Growth remained supported by high-tech and AI-related manufacturing and electronics, although subdued domestic demand continued to weigh on some industries. Profits at state-owned enterprises increased 13.1% to CNY 1.94 trillion, while joint-stock companies recorded a 20.8% gain to CNY 4.67 trillion. Private firms’ profits rose 8.7% to CNY 1.51 trillion. By sector, mining profits surged 38.2%, followed by manufacturing at 17.0%, while utilities fell 14.3%. Among industries, computers and communications led with a 103.8% increase, followed by non-ferrous metal smelting and rolling (79.7%), coal mining (57.0%), and chemicals (49.2%). In September alone, industrial profits grew 14.4% year-on-year, accelerating sharply from 4.2% in August."
-    },
-    {
-      "id": "5171284",
-      "time": "2026-10-27 09:40:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【房地產板塊短線走低，大名城跌超8%】房地產板塊短線走低，大名城跌超8%，華髮股份、中國國貿、中洲控股、中新集團等跟跌。"
-    },
-    {
-      "id": "5171283",
-      "time": "2026-10-27 09:40:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "5年期國債收益率跌至歷史最低。"
     }
   ]
 }
