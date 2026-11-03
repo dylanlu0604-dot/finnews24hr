@@ -1,7 +1,79 @@
 {
   "date": "2026-11-04",
-  "count": 103,
+  "count": 110,
   "items": [
+    {
+      "id": "mkt:01a1a264-39b3-7ee0-aa52-fbccd7eaa0bc",
+      "time": "2026-11-04 01:10:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Houthi militants said Saudi-led coalition airstrikes and missile attacks have totaled 4,032 since the conflict escalated."
+    },
+    {
+      "id": "mkt:01a1a264-325b-7ee0-aa52-f523fb39f34a",
+      "time": "2026-11-04 01:10:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Houthi forces said Saudi warplanes conducted 93 airstrikes on civilian facilities in the past 24 hours in the capital Sanaa and the provinces of al-Jawf, Taiz, Saada, Marib, Amran, Lahij and Hajjah."
+    },
+    {
+      "id": "te:markets:597762",
+      "time": "2026-11-04 01:10:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.34% Lower — The CAC 40 Index decreased 27 points or 0.34 percent on Tuesday to close at 8020 points. The decline was led by Stellantis NV (-2.99%), Dassault Systemes (-2.69%) and ArcelorMittal (-2.41%). On the upside, the strongest performers were LVMH (1.99%), Orange (1.23%) and Accor (1.05%)."
+    },
+    {
+      "id": "5191480",
+      "time": "2026-11-04 01:09:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "11 bit studios與微軟簽署協議，授權三款遊戲於2027年加入Game Pass。"
+    },
+    {
+      "id": "5191479",
+      "time": "2026-11-04 01:09:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，共和黨已經提前判定關島選舉獲勝。"
+    },
+    {
+      "id": "5191478",
+      "time": "2026-11-04 01:09:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝稱，過去24小時內，沙特戰機對首都薩那以及焦夫省、塔伊茲省、薩達省、馬裡卜省、阿姆蘭省、拉赫季省和哈傑省的民用目標實施了93次空襲。這些空襲由從哈米斯穆謝特和塔伊夫軍事基地起飛的F-15和颱風戰機執行，造成大量平民傷亡，其中包括婦女和兒童。胡塞武裝稱，這使得自葉門衝突升級以來，沙特領導的聯軍發動的空襲和導彈打擊總數達到4032次。"
+    },
+    {
+      "id": "te:markets:597761",
+      "time": "2026-11-04 01:07:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 1.03% Lower — The FTSE 100 Index fell 111 points or 1.03 percent on Tuesday to close at 10651 points. Leading the losses are Endeavour (-4.15%), Barratt Redrow (-3.53%) and Antofagasta (-3.50%)."
+    },
     {
       "id": "mkt:01a1a260-43d4-7ee0-aa52-efa6a27bf27d",
       "time": "2026-11-04 01:06:20",

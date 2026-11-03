@@ -1,7 +1,79 @@
 {
-  "updated": "2026-11-04 01:07:33",
-  "count": 12227,
+  "updated": "2026-11-04 01:11:25",
+  "count": 12230,
   "items": [
+    {
+      "id": "mkt:01a1a264-39b3-7ee0-aa52-fbccd7eaa0bc",
+      "time": "2026-11-04 01:10:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Houthi militants said Saudi-led coalition airstrikes and missile attacks have totaled 4,032 since the conflict escalated."
+    },
+    {
+      "id": "mkt:01a1a264-325b-7ee0-aa52-f523fb39f34a",
+      "time": "2026-11-04 01:10:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Houthi forces said Saudi warplanes conducted 93 airstrikes on civilian facilities in the past 24 hours in the capital Sanaa and the provinces of al-Jawf, Taiz, Saada, Marib, Amran, Lahij and Hajjah."
+    },
+    {
+      "id": "te:markets:597762",
+      "time": "2026-11-04 01:10:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.34% Lower — The CAC 40 Index decreased 27 points or 0.34 percent on Tuesday to close at 8020 points. The decline was led by Stellantis NV (-2.99%), Dassault Systemes (-2.69%) and ArcelorMittal (-2.41%). On the upside, the strongest performers were LVMH (1.99%), Orange (1.23%) and Accor (1.05%)."
+    },
+    {
+      "id": "5191480",
+      "time": "2026-11-04 01:09:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "11 bit studios與微軟簽署協議，授權三款遊戲於2027年加入Game Pass。"
+    },
+    {
+      "id": "5191479",
+      "time": "2026-11-04 01:09:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，共和黨已經提前判定關島選舉獲勝。"
+    },
+    {
+      "id": "5191478",
+      "time": "2026-11-04 01:09:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝稱，過去24小時內，沙特戰機對首都薩那以及焦夫省、塔伊茲省、薩達省、馬裡卜省、阿姆蘭省、拉赫季省和哈傑省的民用目標實施了93次空襲。這些空襲由從哈米斯穆謝特和塔伊夫軍事基地起飛的F-15和颱風戰機執行，造成大量平民傷亡，其中包括婦女和兒童。胡塞武裝稱，這使得自葉門衝突升級以來，沙特領導的聯軍發動的空襲和導彈打擊總數達到4032次。"
+    },
+    {
+      "id": "te:markets:597761",
+      "time": "2026-11-04 01:07:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 1.03% Lower — The FTSE 100 Index fell 111 points or 1.03 percent on Tuesday to close at 10651 points. Leading the losses are Endeavour (-4.15%), Barratt Redrow (-3.53%) and Antofagasta (-3.50%)."
+    },
     {
       "id": "mkt:01a1a260-43d4-7ee0-aa52-efa6a27bf27d",
       "time": "2026-11-04 01:06:20",
@@ -112409,51 +112481,6 @@
         "國際"
       ],
       "text": "【普京與佩澤希齊揚會晤 討論中東局勢】據克里姆林宮網站10月27日訊息，俄羅斯總統普京與伊朗總統佩澤希齊揚當天在莫斯科“天然氣出口國論壇”峰會期間會晤。普京表示，雙方就中東局勢進行了交談，希望局勢朝著積極方向發展。普京還指出，俄伊雙方今年前八個月貿易額增長10.4%，布什爾核電站建設仍在繼續。這是兩人今年以來的第三次會晤。（央視新聞）"
-    },
-    {
-      "id": "te:markets:595515",
-      "time": "2026-10-28 01:11:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.71% Higher — The DAX Index went up by 180 points or 0.71 percent on Tuesday to close at 25591 points. The rise was led by Infineon (5.24%), Siemens Energy (4.22%) and Hochtief (2.91%). On the downside, the weakerst performers were Mercedes-Benz AG (-3.79%), Beiersdorf (-2.58%) and BMW (-1.49%)."
-    },
-    {
-      "id": "te:markets:595514",
-      "time": "2026-10-28 01:10:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.51% Higher — The CAC 40 Index rose 40 points or 0.51 percent on Tuesday to close at 7887 points. Leading the gains are STMicroelectronics (7.12%), Essilor (3.77%) and ArcelorMittal (3.26%). Top losers were Carrefour (-3.12%), Edenred (-2.68%) and Pernod Ricard (-1.83%)."
-    },
-    {
-      "id": "5173440",
-      "time": "2026-10-28 01:08:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：我將前往得克薩斯州的科珀斯克里斯蒂，出席一場座無虛席的集會。得益於我們這場大獲成功的軍事行動，美國將在這裡接收 100 萬桶委內瑞拉石油，後續還會達成史上規模最大的石油交易。得益於我們與委內瑞拉重新建立的良好關係，這批石油不需要美國納稅人掏一分錢。這只是數十億桶原油中的首批到貨。從阿拉斯加一直到委內瑞拉，我釋放了能源主導力，讓西半球成為世界能源中心。汽油和柴油價格很快會大幅下跌，拭目以待！"
-    },
-    {
-      "id": "te:markets:595513",
-      "time": "2026-10-28 01:07:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls as Corporate Results Disappoint — The FTSE 100 fell more than 0.5% on Tuesday as disappointing corporate results and weaker energy stocks weighed on the index. HSBC declined 5.4% after reporting third-quarter profits below expectations, while Reckitt dropped 4.9% after cutting its sales outlook amid supply constraints in the US and weaker vitamin sales in China. Oil majors also came under pressure, with Shell losing 1.7% and BP falling 2.8% as Brent crude prices retreated on renewed hopes of a diplomatic resolution to the US-Iran conflict. Mining stocks provided some support, however, as Antofagasta climbed 4.6%, while Endeavour Mining, Fresnillo and Rio Tinto gained around 2.5% each. Anglo American also advanced 2.3%, benefiting from strength across the sector. Meanwhile, UK shop price inflation accelerated to 2.1% year-on-year in October, up from 1.4% in September and above economists’ expectations of 1.6%."
     }
   ]
 }
