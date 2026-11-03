@@ -1,7 +1,221 @@
 {
   "date": "2026-11-03",
-  "count": 1011,
+  "count": 1033,
   "items": [
+    {
+      "id": "mkt:01a1a076-8694-7ee0-aa45-25fa5f90d1f6",
+      "time": "2026-11-03 16:11:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HSI closed up 132.65 pts (0.57%) at 23,525.97 on Nov 3. Hang Seng Tech Index rose 28.32 pts (0.74%) to 3,867.73. H-share index gained 36.99 pts (0.47%) to 7,943.10. Red-chip index advanced 49.62 pts (1.27%) to 3,961.37."
+    },
+    {
+      "id": "mkt:01a1a076-5065-7ee0-aa45-1d8501a831be",
+      "time": "2026-11-03 16:11:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "ARAMCO CEO says initial work on expansion of the East–West pipeline is underway."
+    },
+    {
+      "id": "5190385",
+      "time": "2026-11-03 16:10:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "CrowdStrike將收購Fiddler AI和DreadNode。"
+    },
+    {
+      "id": "5190384",
+      "time": "2026-11-03 16:10:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神農集團：實控人何祖訓離婚分割股份 羅婉瑜獲14.88%股權】神農集團(605296.SH)公告稱，公司控股股東、實際控制人何祖訓與羅婉瑜解除婚姻關係，根據法院調解書，何祖訓將直接持有的公司7830.5萬股股份(佔總股本14.88%)歸羅婉瑜所有。本次權益變動後，何祖訓持股比例由49.60%降至34.72%，羅婉瑜持股14.88%。雙方簽署一致行動協議，構成一致行動人關係。本次變動不觸及要約收購，不會導致公司控股股東、實際控制人變化，不涉及控制權變更。股份過戶尚需辦理相關手續。"
+    },
+    {
+      "id": "5190383",
+      "time": "2026-11-03 16:10:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "中期協釋出2026年11月3日期貨公司高管人員專業能力水平評價測試合格人員名單。"
+    },
+    {
+      "id": "5190381",
+      "time": "2026-11-03 16:10:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "英聯食品執行長：Primark目前不擔心孟加拉國的供應問題。"
+    },
+    {
+      "id": "te:markets:597585",
+      "time": "2026-11-03 16:10:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Drops by 1.33% — Top commodity losers are Palm Oil (-1.33%) and Cotton (-0.71%). Gains are led by Rice (0.54%)."
+    },
+    {
+      "id": "mkt:01a1a075-30f5-7ee0-aa45-1611e82f4d9d",
+      "time": "2026-11-03 16:09:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "ARAMCO CEO expects global liquid fuel demand to rise by about 2.4 million barrels per day by 2027."
+    },
+    {
+      "id": "5190380",
+      "time": "2026-11-03 16:09:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿迪達斯股價下跌2.3%，當地交易員指出是瑞銀下調評級所致。"
+    },
+    {
+      "id": "5190379",
+      "time": "2026-11-03 16:09:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Forest River在美召回逾6200輛房車，涉座椅電源線電路保護問題】11月3日訊息，美國國家公路交通安全管理局（NHTSA）釋出召回公告，Forest River公司召回6275輛部分型號房車及拖車，涉及2022至2027款Cedar Creek、FR3、Palomino等多個系列。由於部分電動座椅元件的電源線保險絲可能無法提供充分的電路保護，發生短路時存在起火風險。"
+    },
+    {
+      "id": "5190378",
+      "time": "2026-11-03 16:09:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿美公司執行長：預計到2027年，全球液體燃料需求將增加約240萬桶/日。"
+    },
+    {
+      "id": "mkt:01a1a074-8841-7ee0-aa45-0a556bc971ac",
+      "time": "2026-11-03 16:09:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "STAN.L",
+        "Impact bullish"
+      ],
+      "text": "【Standard Chartered CEO: AI raises 'fear' among staff; not first tech shock】Standard Chartered CEO Bill Winters said AI could displace hundreds of thousands of jobs but told anxious staff the bank has seen similar technology-driven change before. \"There is indeed a sense of fear,\" he said. The bank has about 100,000 employees, the same size as when Winters joined 11 years ago; over that period automation removed roughly 25,000 roles while other roles were created. In May Standard Chartered said it will cut more than 15% of corporate-function roles by 2030 — about 8,000 support posts — to expand AI deployment and simplify processes. Winters' earlier remark that AI would replace some \"lower-value human capital\" drew strong social-media backlash. Global banks are increasingly using AI to raise productivity, and several have announced layoffs."
+    },
+    {
+      "id": "5190377",
+      "time": "2026-11-03 16:09:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲0.57%，恒生科技指數漲0.74%】攜程集團-S漲6.34%，海底撈漲6.16%，京東集團-SW漲5.51%，蒙牛乳業漲4.78%，騰訊音樂-SW漲4.66%，李寧漲4.33%，華潤啤酒漲4.17%。"
+    },
+    {
+      "id": "5190376",
+      "time": "2026-11-03 16:08:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度 NIFTY 50 指數 <.NSEI> 漲幅擴大，最新上漲 1.25%。"
+    },
+    {
+      "id": "5190375",
+      "time": "2026-11-03 16:08:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京1宗昌平區涉宅用地29.36億元底價成交】11月3日，北京昌平區北七家鎮歇甲莊村地塊出讓，用地性質為R2二類居住用地、A8社群綜合服務設施用地，土地出讓面積88918.89㎡（合133.38畝），規劃建築面積100913.44㎡，容積率1.13，起始價29.36億元，起始樓面價29094元/㎡。最終中建智地和未來科學城置業聯合體以底價29.36億元競得該地塊，成交樓面價29094元/㎡。"
+    },
+    {
+      "id": "mkt:01a1a074-30bc-7ee0-aa45-027562a2011c",
+      "time": "2026-11-03 16:08:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech",
+        "06862.HK"
+      ],
+      "text": "Hong Kong stocks closed higher: Hang Seng Index rose 0.57% and Hang Seng Tech gained 0.74%. Consumer names led gains—Haidilao (06862.HK) +6.43%, Xiabu Xiabu (00520.HK) +2.56%."
+    },
+    {
+      "id": "mkt:01a1a074-274a-7ee0-aa44-fd5f29bdf6ac",
+      "time": "2026-11-03 16:08:49",
+      "tags": [
+        "MKT News",
+        "BAYN.DE",
+        "Impact bullish"
+      ],
+      "text": "Bayer shares extended post-earnings gains, now up 6%, on track for their best single-day performance since June."
+    },
+    {
+      "id": "5190374",
+      "time": "2026-11-03 16:08:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股票指數<.JKSE>下跌3.8%，至4904.442點，為2020年10月以來最低水平。"
+    },
+    {
+      "id": "mkt:01a1a073-9591-7ee0-aa44-f05550f21168",
+      "time": "2026-11-03 16:08:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Indonesia's benchmark stock index fell 3.8% to 4,904.442 points, its lowest level since October 2020."
+    },
+    {
+      "id": "5190373",
+      "time": "2026-11-03 16:08:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利銀行指數早盤下跌1.5%，聯合信貸銀行下跌1.7%。"
+    },
+    {
+      "id": "5190372",
+      "time": "2026-11-03 16:08:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯襲擊擊中烏克蘭10個地區的能源設施。"
+    },
+    {
+      "id": "mkt:01a1a073-50f2-7ee0-aa44-eb9e5709bcf1",
+      "time": "2026-11-03 16:07:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Ukraine's deputy energy minister said Russian strikes hit energy infrastructure in 10 oblasts."
+    },
     {
       "id": "mkt:01a1a073-4406-7ee0-aa44-e5a71744620e",
       "time": "2026-11-03 16:07:50",
