@@ -1,7 +1,53 @@
 {
   "date": "2026-11-04",
-  "count": 89,
+  "count": 94,
   "items": [
+    {
+      "id": "te:markets:597760",
+      "time": "2026-11-04 01:02:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Ferrari NV earnings above expectations at 2.44 EUR — Ferrari NV (RACE) released earnings per share at 2.44 EUR, compared to market expectations of 2.40 EUR."
+    },
+    {
+      "id": "5191472",
+      "time": "2026-11-04 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.96%，滬銅收跌0.64%，滬鋁收跌0.76%，滬鋅收跌0.82%，滬鉛收跌0.63%，滬鎳收跌0.74%，滬錫收跌2.95%。氧化鋁夜盤收跌0.15%，鋁合金收跌1.76%。不鏽鋼夜盤收跌0.58%。"
+    },
+    {
+      "id": "mkt:01a1a25a-7da9-7ee0-aa52-cfacb9680ade",
+      "time": "2026-11-04 01:00:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mercuria Energy Group and private mining investor Heeney Capital are negotiating with Venezuelan officials."
+    },
+    {
+      "id": "5191471",
+      "time": "2026-11-04 00:59:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬拉松石油公司預計2027年的檢修活動將減少。"
+    },
+    {
+      "id": "mkt:01a1a25a-14e3-7ee0-aa52-c4836be9ad1e",
+      "time": "2026-11-04 00:59:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Market sources say the US and Venezuela are negotiating to revive a new round of aluminum trade."
+    },
     {
       "id": "5191470",
       "time": "2026-11-04 00:58:05",
