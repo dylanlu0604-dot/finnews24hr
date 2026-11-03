@@ -1,7 +1,100 @@
 {
-  "updated": "2026-11-04 00:52:05",
-  "count": 12232,
+  "updated": "2026-11-04 00:55:55",
+  "count": 12236,
   "items": [
+    {
+      "id": "te:economy:597758",
+      "time": "2026-11-04 00:55:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Paraguay Annual Inflation Holds Steady in October — Paraguay’s annual inflation rate was unchanged at 1.7% in October 2026 from September, remaining well below the central bank’s 3.5% target. The largest price increases were recorded in fuels (24.5%), driven by higher diesel prices, and restaurants and hotels (9.0%). Overall food prices declined 2.0%, driven by lower prices for fruits and vegetables (-9.2%). Meanwhile, goods prices rose 0.5%, while services and income inflation stood at 3.8%. Core inflation edged up to 1.4% from 1.2% in September. On a monthly basis, consumer prices fell 0.1%, reversing a 0.1% gain in September."
+    },
+    {
+      "id": "5191468",
+      "time": "2026-11-04 00:55:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國漢莎航空股份公司：透過收購員工股份，對TAP的持股比例可能增至最高49.9%。"
+    },
+    {
+      "id": "5191467",
+      "time": "2026-11-04 00:54:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "德國漢莎航空股份公司：與葡萄牙航空在歐洲-拉丁美洲航線上的合併市場份額約為20%。"
+    },
+    {
+      "id": "mkt:01a1a255-ac08-7ee0-aa52-b63232578dca",
+      "time": "2026-11-04 00:54:45",
+      "tags": [
+        "MKT News",
+        "LHA.DE",
+        "Impact mixed"
+      ],
+      "text": "Lufthansa says the investment will be financed entirely from available liquidity. Combined market share with TAP Air Portugal on Europe-Latin America routes will be about 20%."
+    },
+    {
+      "id": "5191466",
+      "time": "2026-11-04 00:54:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國漢莎航空股份公司：考慮到所謂的“遞增費用”，總收購價最高可能升至 12 億歐元。"
+    },
+    {
+      "id": "5191465",
+      "time": "2026-11-04 00:54:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國漢莎航空股份公司：預計收購葡萄牙航空可產生高達4.5億歐元的協同效應。"
+    },
+    {
+      "id": "mkt:01a1a255-3acc-7ee0-aa52-a83987619c4b",
+      "time": "2026-11-04 00:54:16",
+      "tags": [
+        "MKT News",
+        "LHA.DE",
+        "Impact bullish"
+      ],
+      "text": "LUFTHANSA expects its acquisition of TAP Air Portugal to deliver up to €450 million in synergies."
+    },
+    {
+      "id": "te:markets:597757",
+      "time": "2026-11-04 00:53:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Italian Stocks Close Flat — Milan’s FTSE MIB closed largely unchanged at 49,942 on Tuesday as investors assessed the latest batch of third-quarter earnings. Lottomatica gained 0.9% after reporting a 5% year-on-year rise in revenue. Financial stocks mostly underperformed, although Intesa rose 0.6% after beating third-quarter expectations before asking MPS (-0.4%) shareholders on a decision on its takeover bid, pending antitrust approval. Banco BPM led losses, down 0.8%, while other lenders traded near the flatline. Brunello Cucinelli plunged 3.6%, diverging from the broader luxury sector, as Moncler gained 0.2% and Ferrari surged 4.5% after raising its full-year guidance and beating third-quarter estimates. Campari slipped 0.5% after BlackRock increased its short position. Stellantis fell 3.9% as Italian market sales dropped 4.8% year-on-year in October. Energy shares also weakened, with Saipem, Eni and Tenaris down 1.4%, 1.8% and 2.4%, respectively, as oil prices extended their decline."
+    },
+    {
+      "id": "5191464",
+      "time": "2026-11-04 00:53:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國漢莎航空股份公司：漢莎航空集團與葡萄牙政府簽署協議，收購葡萄牙航空少數股權，以10.25億歐元收購初始44.9%的股份。"
+    },
+    {
+      "id": "5191462",
+      "time": "2026-11-04 00:52:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬拉松石油：預計將透過勞雷爾管道向東部輸送更多汽油。"
+    },
     {
       "id": "5191461",
       "time": "2026-11-04 00:49:50",
@@ -112449,54 +112542,6 @@
         "MKT News"
       ],
       "text": "Putin said bilateral trade between Russia and Iran rose 10.4% YoY through August 2026."
-    },
-    {
-      "id": "5173427",
-      "time": "2026-10-28 00:55:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "梵蒂岡外長表示，梵蒂岡未參與近期俄烏圍繞奧列什基鎮達成的停火。"
-    },
-    {
-      "id": "mkt:01a17e49-6f9f-7ee0-a99d-fa70d643c30d",
-      "time": "2026-10-28 00:55:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Council President COSTA said the EU stands ready to support Serbia's EU accession process."
-    },
-    {
-      "id": "mkt:01a17e49-5600-7ee0-a99d-f45bfbdcc8ba",
-      "time": "2026-10-28 00:54:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Vatican foreign ministry said it did not take part in recent Russia-Ukraine ceasefire arrangements around the town of Oleshky."
-    },
-    {
-      "id": "5173426",
-      "time": "2026-10-28 00:54:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲理事會主席科斯塔：隨時準備支援塞爾維亞的入歐程序。"
-    },
-    {
-      "id": "5173425",
-      "time": "2026-10-28 00:52:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京與挪芬領導人通話 丹麥首相批削弱歐洲團結】俄羅斯總統普京27日與挪威首相斯特勒、芬蘭總統斯圖布通電話，三方就解決烏克蘭危機交換意見，這是普京一年多來首次與支援烏克蘭的歐洲國家領導人通話。通話持續90分鐘，由斯特勒和斯圖布發起，三國領導人約定繼續保持直接電話聯絡。丹麥首相弗雷澤裡克森質疑挪芬動機，批評兩國“單獨行動”削弱歐洲團結；斯特勒回應稱歐洲國家也必須能與俄羅斯領導人對話。普京強調只有充分、無條件考慮俄方合法利益才可能實現公正持久和平，並稱俄方已在奧列什基地區開展人道主義行動、赫爾松方向實施臨時停火。（新華社）"
-    },
-    {
-      "id": "mkt:01a17e47-1a06-7ee0-a99d-ef2a0ff005da",
-      "time": "2026-10-28 00:52:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pezeshkian: multilateralism is the response to US unilateral actions in the region】Iranian President Pezeshkian thanked Russia for sustained political, security and economic support and welcomed continued growth in bilateral trade. He said US unilateral actions in the region underscore the need to reinforce multilateralism and to expand interaction among sanctioned states, adding regional countries do not need to rely on the US and can address challenges through intra‑regional cooperation. He said, on that basis, Iran and Russia are expected to deepen cooperation across technology, economic, industrial, cultural, security and military sectors."
     }
   ]
 }
