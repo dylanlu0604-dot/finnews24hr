@@ -1,7 +1,59 @@
 {
-  "updated": "2026-11-04 00:20:50",
-  "count": 12227,
+  "updated": "2026-11-04 00:24:49",
+  "count": 12230,
   "items": [
+    {
+      "id": "5191445",
+      "time": "2026-11-04 00:24:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "本田10月美國銷量119,952輛，環比增長8%。"
+    },
+    {
+      "id": "5191444",
+      "time": "2026-11-04 00:23:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官員稱，調解方正努力縮小與美國（談判條件）的差距。"
+    },
+    {
+      "id": "mkt:01a1a238-8be1-7ee0-aa52-73148e16eb2a",
+      "time": "2026-11-04 00:22:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran Islamic Revolutionary Guard Corps at high readiness】On the evening of Nov. 3 the Islamic Revolutionary Guard Corps said US actions have exposed US hostility toward Iran and aims to subvert Iran’s regime and divide its territory. The IRGC said all orders issued by Iran’s Supreme Leader and commander-in-chief at recent meetings are now on the agenda to implement a policy of “maximum deterrence.” Immediate priorities are maintaining a high state of readiness, updating enemy target lists, placing enemy tangible and intangible assets within strike range, and responding swiftly and effectively to any level or type of threat. The IRGC said Iranian forces, with firm resolve and full readiness, will determine the enemy’s ultimate fate and quoted the Supreme Leader: The timing and conditions for ending enemy attacks will be decided by Iran’s armed forces and the Iranian people."
+    },
+    {
+      "id": "5191443",
+      "time": "2026-11-04 00:22:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺和新聞機構正在播放一段影片，指導民眾在遭受核打擊時如何應對。"
+    },
+    {
+      "id": "5191442",
+      "time": "2026-11-04 00:22:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊高度戰備】當地時間11月3日晚，伊朗伊斯蘭革命衛隊發表宣告稱，美國一直以來的行動暴露其對伊朗的敵意，以及其“顛覆伊朗政權、分裂伊朗領土”的目標。革命衛隊鄭重宣告，伊朗最高領袖、武裝部隊最高統帥在近期會議上下達的所有命令，均已列入議程，旨在全力以赴地貫徹“最大限度威懾”方針。當前的首要任務是保持高度戰備狀態、更新敵方目標庫，將敵方有形和無形資產置於打擊範圍之內，對任何級別和型別的威脅做出迅速有效應對。 革命衛隊強調，伊朗軍人將本著堅定的信念和全面的戰備狀態，決定敵人的最終命運，正如伊朗最高領袖所言，“結束敵軍進攻的時間和條件由伊朗武裝部隊和伊朗人民決定。”（CCTV國際時訊）"
+    },
+    {
+      "id": "5191441",
+      "time": "2026-11-04 00:20:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱繼續打擊烏物流中心和相關海上船隻】當地時間11月3日，俄羅斯國防部通報，俄軍當日繼續使用無人機打擊烏方物流中心和用於向烏軍運送軍用物資的海上船隻。"
+    },
     {
       "id": "5191440",
       "time": "2026-11-04 00:20:20",
@@ -112410,31 +112462,6 @@
         "MKT News"
       ],
       "text": "U.S. Southern Command said it struck a speedboat in the eastern Pacific, killing five; intelligence confirmed the vessel was actively involved in drug trafficking."
-    },
-    {
-      "id": "5173413",
-      "time": "2026-10-28 00:24:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京開始與伊朗總統佩澤希齊揚舉行雙邊會晤。"
-    },
-    {
-      "id": "5173412",
-      "time": "2026-10-28 00:24:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國南方司令部：對東太平洋既定毒品走私航線上的一艘快艇實施了一次致命動能打擊。經確認的情報顯示，該船隻積極參與毒品走私。此次行動擊斃五名毒品恐怖分子。"
-    },
-    {
-      "id": "5173411",
-      "time": "2026-10-28 00:21:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Cerebras Systems股價上漲8.1%，此前甲骨文公司將在Oracle雲基礎設施上提供該公司的快速推理服務。"
     }
   ]
 }
