@@ -1,7 +1,138 @@
 {
   "date": "2026-11-03",
-  "count": 1093,
+  "count": 1109,
   "items": [
+    {
+      "id": "te:markets:597596",
+      "time": "2026-11-03 16:30:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Joins Global Selloff — The FTSE 100 fell 0.5% on Tuesday, tracking a global equity selloff as losses among US chipmakers and uncertainty ahead of the US midterm elections weighed on investor sentiment. Mining stocks were among the biggest drags, with Antofagasta down more than 3%, while Anglo American and Rio Tinto also declined as copper prices weakened. Precious metal miners also came under pressure as gold and silver prices fell. Gold hovered near a one-year low, pressured by rising oil prices and doubts over the prospects for an end to the US-Iran conflict. Fresnillo dropped 3%, while Endeavour lost 2.3%. Associated British Foods fell more than 2.5% after reporting lower annual profit, reflecting weaker Primark margins and continued difficulties in its sugar business, although it maintained plans to separate Primark by the end of 2027. Coca-Cola Europacific Partners slipped around 2% despite reporting third-quarter revenue in line with analyst expectations and reaffirming its guidance."
+    },
+    {
+      "id": "mkt:01a1a087-d56e-7ee0-aa45-9c0786698f91",
+      "time": "2026-11-03 16:30:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Retail Sales (YoY) (Sep) | actual 6.4% | consensus 4.7% | previous 5.60%"
+    },
+    {
+      "id": "te:markets:597595",
+      "time": "2026-11-03 16:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.53% Lower — The CAC 40 Index is falling 43 points. Losses were driven by STMicroelectronics (-3.42%), ArcelorMittal (-2.67%) and Dassault Systemes (-2.34%). Biggest rises came from Sanofi (1.15%), Orange (0.93%) and Danone (0.82%)."
+    },
+    {
+      "id": "5190439",
+      "time": "2026-11-03 16:29:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特阿美執行長：油輪襲擊導致有效運力損失15%。"
+    },
+    {
+      "id": "mkt:01a1a086-912a-7ee0-aa45-904e7d3aa8b0",
+      "time": "2026-11-03 16:28:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Aramco CEO said it will use its Gulf export terminals and ship-to-ship transfers to deliver cargoes to customers."
+    },
+    {
+      "id": "mkt:01a1a086-8586-7ee0-aa45-8d1b3d51a8ba",
+      "time": "2026-11-03 16:28:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "ARAMCO CEO said the company could restore oil exports within days even if its east–west pipelines were attacked."
+    },
+    {
+      "id": "5190438",
+      "time": "2026-11-03 16:28:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2026年上半年銀行理財公司競爭力排名釋出：興銀理財綜合居首，國有、股份、城商行前三揭曉】近日，《北大金融評論》、北大滙豐金融研究院資管研究中心及北大滙豐智庫聯合釋出2026年上半年北大滙豐·銀行理財公司競爭力排名。在資訊完備的參評機構中，興銀理財位居綜合排名第一；國有大型商業銀行理財公司前三為中郵理財、交銀理財、中銀理財；股份制商業銀行理財公司前三為招銀理財、光大理財、信銀理財；城市商業銀行理財公司前三為蘇銀理財、杭銀理財、南銀理財。（金融一線）"
+    },
+    {
+      "id": "5190437",
+      "time": "2026-11-03 16:28:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國將支援建設5.2吉瓦的新天然氣發電廠。"
+    },
+    {
+      "id": "5190436",
+      "time": "2026-11-03 16:27:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度國家銀行（SBI）股價在孟買回吐漲幅，一度下跌1.1%。"
+    },
+    {
+      "id": "5190435",
+      "time": "2026-11-03 16:27:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特阿美執行長：利用我們在海灣地區的出口碼頭和船對船轉運向客戶交付貨物。"
+    },
+    {
+      "id": "5190434",
+      "time": "2026-11-03 16:27:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特阿美執行長：即使東西輸油管道遇襲，我們也能在數日內恢復出口。"
+    },
+    {
+      "id": "5190433",
+      "time": "2026-11-03 16:26:59",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【長城證券汪毅：SFISF助力夯實資本市場內生穩定基礎】11月3日，央行公告落地第三輪證券、基金、保險公司互換便利（SFISF）操作，參與機構擴容至31家，市場申報需求突破千億，規模接近前兩輪操作的累計總量。長城證券首席經濟學家汪毅對此表示，自2024年創設以來，SFISF機制持續最佳化。本輪一年期可展期的制度安排，標誌著工具已從試點舉措轉向常態化、市場化的資本市場流動性託底工具。工具以券券互換模式盤活機構存量資產，提升資金使用效率，強化非銀機構權益投資與做市能力。他認為，本輪SFISF大規模申報，機構廣泛參與，短期來看，有利於緩釋市場拋壓，平抑市場波動，修復市場預期。中長期來看，透過盤活存量、最佳化機制、規範機構行為，有利於持續強化資本市場內生穩定能力。隨著SFISF運作持續成熟，將與各類資本市場支援政策形成合力，持續為A股注入長效流動性活水，助力資本市場實現平穩、健康、高質量發展。"
+    },
+    {
+      "id": "5190432",
+      "time": "2026-11-03 16:26:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特阿美執行長：全球煉油市場供應量減少了500萬桶/日。"
+    },
+    {
+      "id": "5190431",
+      "time": "2026-11-03 16:26:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美中期選舉進行中 美國選民擔憂國會山騷亂重演】隨著中期選舉失利的風險日益加大，民調專家警告稱，美國總統特朗普正在為另一場“1月6日事件”鋪路。人們越來越擔心他可能再次煽動事端：先聲稱選舉遭到操縱，再號召支持者重新走上街頭。一些競爭激烈州的投票站安裝了防彈玻璃及其他反恐設施，部分選舉官員甚至開始隨身攜帶手槍。"
+    },
     {
       "id": "te:markets:597594",
       "time": "2026-11-03 16:26:33",
@@ -214,6 +345,22 @@
         "國際"
       ],
       "text": "YPF執行長表示，我們將透過阿根廷液化天然氣專案向歐洲和亞洲出售液化天然氣，目前正在簽署合同。"
+    },
+    {
+      "id": "5190414",
+      "time": "2026-11-03 16:21:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代在宜昌成立供應鏈管理公司】企查查APP顯示，近日，宜昌邦普供應鏈管理有限公司成立，法定代表人為王皓，經營範圍包含：供應鏈管理服務；電子專用材料銷售；高效能有色金屬及合金材料銷售；金屬材料銷售等。企查查股權穿透顯示，該公司由寧德時代旗下廣東邦普迴圈科技有限公司全資持股。"
+    },
+    {
+      "id": "5190413",
+      "time": "2026-11-03 16:21:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【陳紹旺出席聯合國人居署執行局主席團擴大會議併發言】11月1日下午，聯合國人居署執行局主席團擴大會議於2026年世界城市日全球主場活動期間，在福建省福州市舉行。住房城鄉建設部副部長陳紹旺出席會議併發言。陳紹旺表示，今年是全球發展倡議提出五週年、聯合國《新城市議程》透過十週年，借2026年世界城市日全球主場活動舉辦之機，召開聯合國人居署執行局主席團擴大會議，共議人居署治理方案、共商全球人居事業發展大計，具有重要意義。當前和今後一個時期，中國將全面踐行習近平主席提出的人民城市理念，按照中央城市工作會議部署，高質量推進城市更新，加快建設創新、宜居、美麗、韌性、文明、智慧的現代化人民城市，不斷滿足人民群眾對美好生活的嚮往。中方願與各方一道，更加註重世界城市日和全球可持續發展城市獎（上海獎）作用，推動全球落實聯合國《2030年可持續發展議程》和《新城市議程》；更加註重人居署治理機構協同，提升人居署治理效能；更加註重能力建設和經驗分享，支撐人居署戰略規劃實施，以更緊密的合作、更務實的行動，讓城市發展成果更多更公平惠及各國人民，為構建人類命運共同體作出新的貢獻。（住建部）"
     },
     {
       "id": "mkt:01a1a07d-ee0b-7ee0-aa45-495eff814201",
