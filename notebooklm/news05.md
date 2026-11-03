@@ -1,7 +1,6150 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-11-03 17:11:23_
-_本檔包含 2795 則快訊，約 482787 字_
+_更新時間：2026-11-04 01:15:21_
+_本檔包含 2860 則快訊，約 468473 字_
+
+---
+
+### 2026-10-29 07:10:52  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、夯實基礎 因類施策 防賠並重 推動農業保險邁向數字化、智慧化、標準化（政策解讀）
+2、前9月規上工業企業利潤同比增長15.5% 工業企業單位成本持續下降
+3、從“算水協同”看適配度提高（子夜走筆）
+4、截至三季度末 我國綠色貸款餘額49.22萬億元
+5、我國實現腦機介面領域國際標準新突破
+6、前三季度海洋生產總值8.5萬億元
+7、今年以來我國金融市場執行平穩 前三季度熊貓債券累計發行2450.5億元
+8、推出精品線路 完善配套服務 廣東入境遊活力十足
+9、水利設施發電不動產投資信託基金上市
+10、國臺辦：持續推動十項措施落地見效。
+
+---
+
+### 2026-10-29 07:10:44  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、“更加清醒堅定地推進反腐敗鬥爭”（總書記的人民情懷）
+2、全國大中小學生同上一堂思政大課 做偉大長征精神的傳承者弘揚者踐行者
+3、湖北著力實現農業更強、農村更美、農民更富 奮力打造新時代魚米之鄉（活力中國調研行）
+4、江蘇丹陽視覺光學整體產業配套自給率超90% 眼鏡產業加快智慧化轉型（先進製造業發展一線見聞）
+5、中國共產黨的優秀黨員，久經考驗的忠誠的共產主義戰士，我黨統一戰線工作和我國教育科技、醫療衛生、婦女兒童工作的傑出領導人 劉延東同志逝世
+6、今年以來消費品以舊換新帶動銷售額超2萬億元
+7、前三季度 完成交通固定資產投資2.4萬億元。
+
+---
+
+### 2026-10-29 07:09:34  #公司 #國際
+
+【五角大樓監察長告知議員將不調查烏克蘭星鏈服務降速事件】據美聯社報道，五角大樓監察長拒絕了跨黨派議員關於調查近期烏克蘭“星鏈”（Starlink）和“星盾”（Starshield）衛星網際網路服務中斷事件的請求。此舉引發了議員們的擔憂，他們擔心軍方甚至其獨立監察長都不願直面SpaceX執行長埃隆·馬斯克對國防通訊的影響力。此前，烏克蘭官員本月報告稱，由馬斯克打造的“星鏈”服務及其軍用版“星盾”的連線速度遭到限制。隨後，一個跨黨派的參議員小組要求五角大樓監察長對此展開調查。這些衛星網路對烏克蘭的戰時通訊至關重要，烏方官員表示，這些限制措施阻礙了烏方攔截俄軍高速攻擊無人機的能力。
+
+---
+
+### 2026-10-29 07:09:05  #公司
+
+【219家北交所公司三季報亮相，逾七成實現營收同比增長】北交所上市公司2026年三季報進入密集披露期。據北交所官網，截至10月28日，已有219家北交所公司交出前三季度“成績單”。其中，逾七成公司營業收入同比保持增長，97家公司實現營收、淨利潤“雙增”（含淨利潤增長、扭虧和減虧）。根據北交所三季報披露預約時間安排，10月27日至29日為披露高峰，市場對板塊整體經營成色的檢驗即將收官。總體來看，營收規模居前的公司多集中於工程機械、大宗化工與電子製造等領域。在上述披露三季報的北交所公司中，前三季度營業收入超過10億元的有30家，一諾威以69.42億元居首，同力股份、穎泰生物、蘅東光、球冠電纜等緊隨其後。歸母淨利潤方面，蘅東光以6.56億元暫居榜首，同力股份、長鷹硬科、錦波生物、五新智慧、喬路銘等25家公司淨利潤突破億元。（上證報）
+
+---
+
+### 2026-10-29 07:08:59  #國際
+
+據報道，美國國防部督察長已明確拒絕了立法者關於調查烏克蘭“星鏈”及“星盾”衛星服務近期遭限速或中斷事件的請求。這項決定是對此前美國多位參議員呼籲審查近期戰場通訊受限原因所作出的回應。
+
+---
+
+### 2026-10-29 07:07:51  #央行 #美聯儲
+
+【美聯儲主席：預計2028年將舉行6次政策制定會議】據報道，美聯儲主席沃什表示，預計2028年將舉行6次政策制定會議，預計2028年將有兩次會議不會進行利率表決。
+
+---
+
+### 2026-10-29 07:07:51  #央行 #美聯儲
+
+【美聯儲主席迴避是否需要進一步加息的問題】據報道，美聯儲主席沃什迴避了一個問題，即當前的利率水平是否已經足夠合適。他表示：“各方普遍認為，我們此前採取的行動已開始顯現出一定成效。”但他同時補充道，對於未來是否還需要進一步加息，目前尚未得出明確結論。
+
+---
+
+### 2026-10-29 07:07:32  #國際
+
+據美國《華爾街日報》28日報道，美國副總統萬斯已致信伊朗最高國家安全委員會秘書穆赫辛·雷扎伊，試圖重啟談判。報道援引知情人士的話說，這封信是在美國總統特朗普授意下發出的，特朗普本人也知曉此次接觸。（新華社）
+
+---
+
+### 2026-10-29 07:06:49  #國際
+
+市場訊息：五角大樓監察機構不會調查星鏈在烏克蘭的傳輸速度放緩問題。
+
+---
+
+### 2026-10-29 07:06:33  #公司
+
+三星E&A有限公司：贏得4070億韓元訂單。
+
+---
+
+### 2026-10-29 07:06:12  #市場 #央行 #國際
+
+【惠譽警告：人工智慧熱潮和收益率上升威脅全球市場】據報道，惠譽評級警告稱，進入2027年，全球信用風險正在惡化，理由包括人工智慧投資的不確定性、能源價格高企以及融資環境收緊。惠譽預計，美聯儲政策利率將達到4.25%，並在2027年全年維持在該水平，今年預計還將加息一次。該機構預計，到2027年底，美國10年期國債收益率將達到4.8%，但警告稱，霍爾木茲海峽的長期中斷可能推高收益率。惠譽還強調，人工智慧基礎設施支出可能超出可持續需求，從而可能引發投資急劇回落。
+
+---
+
+### 2026-10-29 07:05:05  #觀點 #國際
+
+【澳大利亞監管機構ASIC就Firmus IPO失敗一事向相關投行進行問詢】本月早些時候，Firmus Grid Ltd.（Firmus）的首次公開募股（IPO）宣告失敗。針對此事，澳大利亞企業監管機構正尋求從相關投資銀行獲取資訊，但目前尚未就此啟動正式調查。澳大利亞證券和投資委員會（ASIC）主席莎拉·考特（Sarah Court）在10月28日的一封信中回應了本月早些時候戴夫·夏爾馬（Dave Sharma）參議員就Firmus IPO提出的疑問。她在信中表示，ASIC正對該IPO的聯席主承銷商進行“針對性問詢”。考特稱：“這些問詢正在進行中，ASIC將評估所獲取的資訊，並考慮是否有必要採取進一步的行動。”此次交易的聯席主承銷商包括美國銀行、摩根大通、摩根士丹利以及Morgans Financial Ltd.。美國銀行的一位發言人拒絕置評，而其他幾家機構也未回覆媒體的採訪請求。
+
+---
+
+### 2026-10-29 07:03:48  #其他
+
+百威亞太 第三季度淨利潤9,200萬美元，預估1.008億美元。
+
+---
+
+### 2026-10-29 07:02:18  #MKT News #Important #Macro & Rates
+
+Hong Kong Monetary Authority kept its base rate at 4.25%; the Federal Reserve left policy rates unchanged overnight.
+
+---
+
+### 2026-10-29 07:00:31  #其他 #焦點 #國際
+
+香港金管局將基準利率維持在4.25%不變。
+
+---
+
+### 2026-10-29 06:58:24  #公司
+
+【兩傢俬募同日自購傳遞長期信心】基於對資本市場長期發展的堅定信心，10月27日，上海誠奇私募基金管理有限公司與深圳翰榮私募證券基金管理有限公司同日釋出自購公告。其中，誠奇基金計劃於近期使用自有資金人民幣1億元，跟投旗下各類私募證券基金產品。據私募排排網資料統計，截至10月27日，10月以來已有至少8傢俬募機構宣佈自購旗下產品，合計公告自購金額2.20億元。從整體情況看，截至10月27日，年內至少有35傢俬募機構宣佈自購旗下產品，合計公告自購金額超18億元。（證券日報）
+
+---
+
+### 2026-10-29 06:54:22  #公司 #觀點
+
+【首批券商三季報出爐，頭部券商盈利韌性凸顯】近期，券商三季報陸續披露。截至10月28日，已有7家券商和4家券商母公司的前三季度業績浮出水面（剔除了無去年可比資料的國盛證券）。從目前已披露前三季度業績的券商來看，7家券商中，僅中信證券、華西證券實現營收、淨利潤同比雙增長。同期，多家中小券商業績有所承壓。前三季度，國元證券、東興證券營收均較去年同期略有下滑，但歸母淨利潤分別同比增長3.36%、0.75%；江海證券、信達證券、東北證券營收分別同比增長10.77%、9.48%、1.95%，但歸母淨利潤均不及去年同期水平。（證券日報）
+
+---
+
+### 2026-10-29 06:53:54  #MKT News
+
+【Trump says Pence contacted Iranian officials, downplays restart-of-talks interpretation】U.S. President Trump acknowledged Vice President Pence sent a letter to Iranian officials but said the contact concerned provision of medical and other aid, not restarting peace negotiations. The Wall Street Journal reported Pence wrote to Iran’s Supreme National Security Council secretary Rezaei seeking to revive talks; when asked if he had instructed Pence to do so Trump said “no,” but confirmed he approved the outreach after Pence asked and described it as authorizing delivery of supplies to help sick people.
+
+---
+
+### 2026-10-29 06:52:52  #MKT News #Star Stocks #Alphabet #Apple #Market Themes #Magnificent 7 #GOOG.O #Impact bearish #BRK.B.O #Nasdaq100
+
+【Alphabet plunges after Q3 miss; Berkshire's late Buffett investment underperforms】Alphabet (GOOG.O) shares tumbled more than 10% in after-hours trading after the company reported disappointing third-quarter results. The move has hit Warren Buffett’s last major stock bet: Berkshire Hathaway bought heavily in 1H 2026 and participated in Alphabet’s roughly $85 bln equity offering in early June, acquiring about $10 bln of stock at roughly $350 a share, a purchase Buffett later said was his decision. Berkshire held 106 million Alphabet shares as of June 30; at after-hours prices the stake is worth about $30 bln, down from a roughly $37 bln peak in June. Alphabet is Berkshire’s fourth-largest equity holding after Apple, American Express and Coca‑Cola. Berkshire’s average cost per share is uncertain but likely above $300 and possibly near $320.
+
+---
+
+### 2026-10-29 06:52:15  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Edges Higher, Attempts to Extend Gains — The NZX 50 gained 25 points, or 0.2%, to 13,716 in Thursday morning deals, following a slight gain in the previous session, as both the RBNZ and the Fed held interest rates. Gains were capped by traders' caution as they continued to assess the RBNZ's decision amid signals of a possible interest rate hike at the next meeting, with higher oil prices posing a risk to inflation. Tuesday's decision saw the central bank unexpectedly hold the official cash rate at 2.75% in a split decision, while leaving the door open to further rate hikes to combat rising inflation. Caution also prevailed ahead of the release of business confidence data later today, following September's reading, which was the lowest in three months. The energy, healthcare, and real estate sectors were the main drivers of the index, with early gainers including Freightways Group (2.8%), Channel Infrastructure (0.9%), Fisher & Paykel (0.6%), Infratil (0.6%), and A2 Milk (0.5%).
+
+---
+
+### 2026-10-29 06:51:47  #國際
+
+【印尼馬魯古省附近海域發生6.4級地震】據印度尼西亞氣象、氣候和地球物理局10月29日訊息，當地時間29日5時06分，印尼馬魯古省塔寧巴爾群島西北方向201公里處發生6.4級地震。（央視新聞）
+
+---
+
+### 2026-10-29 06:51:43  #國際
+
+【報道：美國提醒盟友，為中期選舉後可能出現的對伊朗打擊以及伊朗報復做好準備】據美媒援引兩名知情外交官訊息，美國官員已通知多箇中東國家及地區盟友，在美國下週中期選舉結束之後，要做好美國重啟對伊朗軍事行動的準備，同時防備伊朗可能對這些盟友發起報復。外交官著重說明，特朗普尚未就是否發起新一輪對伊朗打擊作出最終決定。但特朗普多次表態，計劃在 11 月 3 日美國這場關鍵中期選舉結束之後採取行動。外交官表示，美方告知地區盟友，新一輪軍事打擊可能持續數日，但地區官員正防備伊朗及其代理人發起報復，衝突或將延續更久。美方還敦促盟友採取預防措施，預判伊朗的反擊可能包括針對能源設施以及其他關鍵基礎設施的打擊。
+
+---
+
+### 2026-10-29 06:46:18  #國際
+
+市場訊息：美國警告盟友為伊朗可能發動的襲擊做好準備。
+
+---
+
+### 2026-10-29 06:45:10  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Binance Appreciates by 1.46% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.46% increase.
+
+---
+
+### 2026-10-29 06:44:44  #市場
+
+【業內人士：供需整體處於“緊平衡” 電子布11月漲價仍是大機率事件】今年以來，AI伺服器迭代升級，印製電路板（PCB）用料規格隨之提升，超薄、低介電特種電子布需求集中釋放，電子布行業迎來結構性量價齊升。目前，電子布價格已經達到近十年高位。10月份漲價落地後，有市場聲音稱，覆銅板、PCB有望向少布、無布化升級，未來相關產業鏈用布量或減少。對此，接受採訪的多位業內人士表示，今年以來，AI伺服器、高速交換機、車載PCB等帶來的高階基材增量需求讓電子布價格連續上漲。目前，電子布在很多方面都具有優勢，覆銅板等領域少布、無布化預期更多還是源於成本壓力。由於供需整體處於“緊平衡”，電子布11月漲價仍是大機率事件。 (中證報)
+
+---
+
+### 2026-10-29 06:44:05  #其他
+
+【科技抱團未散，公募調倉現分歧】在三季度，上半年表現亮眼的科技板塊出現調整，公募對科技抱團是否鬆動的討論隨之升溫。一方面，電子、通訊兩大行業的公募投資佔比仍處高位，資金並未系統性撤離；另一方面，前期投向AI算力產業鏈的基金經理操作分化，堅守算力者調整細分賽道，先行者轉向AI應用端，謹慎者均衡配置，防守者清倉換賽道。展望後市，基金經理長期看好AI產業的共識未變，但對估值與結構性方向的判斷正趨於精細化。（中證報）
+
+---
+
+### 2026-10-29 06:40:14  #其他
+
+【透視31省份經濟“三季報”：經濟大省挑大樑，新動能增長強勁】31個省份前三季度經濟“成績單”近日陸續出爐。其中，經濟大省持續發揮“壓艙石”作用，多地增速跑贏全國，新動能加速集聚，新質生產力培育提速。接受採訪的專家認為，後續仍要持續擴內需、穩預期，因地制宜培育長效增長動力，護航全年經濟平穩執行。 從經濟總量看，前三季度經濟總量前十強省份為：廣東、江蘇、山東、浙江、四川、河南、湖北、福建、上海和安徽，其經濟總量均超4萬億元。其中，廣東以111090.8億元位居首位，江蘇以108631.3億元緊隨其後。（中證報）
+
+---
+
+### 2026-10-29 06:40:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Coffee Drops by 2.52% — Top commodity losers are Coffee (-2.52%), Cocoa (-2.07%) and Oat (-1.84%). Gains are led by Lumber (1.58%) and Sugar (0.78%).
+
+---
+
+### 2026-10-29 06:40:01  #公司
+
+巴西國家石油公司第三季度石油及衍生品出口量為130萬桶/日。
+
+---
+
+### 2026-10-29 06:39:26  #MKT News #Commodities #Energy
+
+Petrobras said in filings Q3 production of oil, gas and condensate averaged 3.5 mln boe/d; crude production in Brazil averaged 2.8 mln bpd in Q3.
+
+---
+
+### 2026-10-29 06:39:01  #公司
+
+巴西石油公司（Petrobras）第三季度石油、天然氣及天然氣凝液產量為350萬桶油當量/日。
+
+---
+
+### 2026-10-29 06:38:35  #公司
+
+巴西國家石油公司第三季度在巴西的石油產量為280萬桶/日。
+
+---
+
+### 2026-10-29 06:35:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Iron Ore CNY Gains by 1.20% — Top commodity gainers are Iron Ore CNY (1.20%) and Lithium Carbonate (0.70%). Biggest losers are Silver (-1.05%) and Gold (-0.12%).
+
+---
+
+### 2026-10-29 06:32:06  #公司 #資料 #市場 #央行 #國際
+
+【週四重要財經資訊提醒（以下均為北京時間）】
+① 09:00 三星電子三季報電話會；
+② 時間待定 騰訊全球數字生態大會（深圳），歐盟-加拿大峰會；
+③ 歐股開盤之前 道達爾能源釋出業績報告；
+④ 時間待定 國內成品油將開啟新一輪調價視窗；
+⑤ 18:00 歐元區10月消費者信心指數終值；
+⑥ 美股盤前 禮來製藥、卡特彼勒等釋出業績報告；
+⑦ 20:00 烏克蘭央行公佈利率決議；
+⑧ 20:30 美國三季度GDP初值，9月個人消費支出（PCE），10月24日當週首次申請失業救濟人數；
+⑨ 21:15 歐洲央行釋出政策利率（主要再融資利率，存款便利利率，邊際貸款利率）；
+⑩ 21:45 歐洲央行行長拉加德舉行新聞釋出會；
+⑪ 次日00:00 歐洲央行管委Kocher、Sleijpen在維也納講話；
+⑫ 次日01:00 瑞士央行管委會成員丘丁（Petra Tschudin）講話；
+⑬ 美股盤後 亞馬遜、閃迪、英特爾、Strategy、淡水河谷等釋出業績報告。
+
+---
+
+### 2026-10-29 06:31:12  #觀點 #國際
+
+【報道：銀行業擱置與Anthropic相關的美國得州資料中心債券發行】在美國得克薩斯州因評估電網風險而暫停新專案審批後，銀行正推遲出售一筆150億美元貸款中用於資助與Anthropic PBC相關資料中心的債券發行計劃。此次債券發行推遲發生在Anthropic正為其大規模首次公開募股（IPO）前大舉投資計算基礎設施之際，這將迫使銀行在資產負債表上持有這筆債務的時間長於原計劃。由摩根士丹利牽頭的貸款方已籌集約150億美元，用於資助位於得克薩斯州韋科附近哈伯德（Hubbard）的資料中心建設。據知情人士透露，銀行原本希望在9月向高收益債券投資者出售50億-70億美元，以對部分貸款進行再融資。現在銷售可能在未來一年內分批進行。該債務包包括一筆142億美元的一年期貸款和一筆14億美元的五年期迴圈信貸額度，貸款方正尋求透過高收益債券投資者對部分貸款進行再融資。
+
+---
+
+### 2026-10-29 06:30:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Germany Natural Gas THE Rises by 4.59% — Top commodity gainers are Germany Natural Gas THE (4.59%), Natural Gas EU (2.40%), Natural Gas UK (2.22%), Crude Oil (2.05%) and Brent Oil (0.15%). Biggest loser is Methanol (-2.24%).
+
+---
+
+### 2026-10-29 06:29:10  #Trading Economics #Markets #India #Earnings #Importance 0
+
+Hindustan Unilever earnings above expectations at 12.10 INR — Hindustan Unilever (HUVR) released earnings per share at 12.10 INR, compared to market expectations of 11.76 INR.
+
+---
+
+### 2026-10-29 06:25:01  #其他
+
+市場訊息：本田與日產正在洽談電動車電池合作事宜。
+
+---
+
+### 2026-10-29 06:24:30  #市場 #焦點
+
+紐約期金失守4070美元/盎司，日內漲0.45%。
+
+---
+
+### 2026-10-29 06:24:19  #國際
+
+【荷蘭將向烏克蘭提供5億歐元軍事援助】荷蘭首相耶滕28日在海牙宣佈，荷蘭將向烏克蘭提供5億歐元的軍事援助，包括防空系統、無人機等。（新華社）
+
+---
+
+### 2026-10-29 06:23:37  #公司 #市場
+
+【國產3A遊戲有望告別“孤品時代”】10月29日上午，國產又一款買斷制3A（高成本、高體量、高質量）遊戲大作《影之刃零》迎來發售。在此之前，該遊戲已受到海內外市場高度關注。 該專案背後的研發主體為北京靈遊坊網路科技有限公司（以下簡稱“靈遊坊”），騰訊是該公司背後投資方之一。 小黑盒資料顯示，截至10月28日，《影之刃零》已登頂Steam遊戲平臺全球銷量排行榜。據分析機構Alinea Analytics估算，該遊戲在正式發售前的預售銷量已達85萬份，意味著該遊戲雖然還未正式發售，但已產生4300萬美元收入。 玩家對《影之刃零》真金白銀的購入，離不開10月26日解禁的媒體超高評價。公開資訊顯示，IGN中國打出滿分10分，海外IGN給到9分，M站媒體均分88分引爆全球單機遊戲圈，創下國產單機遊戲媒體評分新高。(證券日報)
+
+---
+
+### 2026-10-29 06:22:02  #公司
+
+【港股IPO“變奏”，融資額創16年來新高，基石投資者佔比超八成】10月28日，東山精密H股在港交所上市（募資總額98.76億港元），這是今年第118家在港股上市的公司。據Wind資料統計，截至10月28日，港股IPO融資額達到4013.92億港元，同比增長83.59%。這一融資額已創下2011年以來新高，距離2010年全年4144億港元的歷史峰值僅差約130億港元。年內港股IPO市場呈現鮮明特點：融資額向少數大專案集中，前十大IPO募資額佔整體募資額比例達45%，中小盤新股並不“好發”；上半年打新盈利確定性較強，但自第三季度開始，新股首日破發率階段性走高；港股IPO融資高速擴張下，基石投資者挑選IPO標的更為審慎。（上證報）
+
+---
+
+### 2026-10-29 06:19:19  #公司 #央行 #國際
+
+【10月29日隔夜要聞一覽】
+1、美聯儲以10比2維持利率不變，美聯儲主席沃什稱金融條件有所收緊，美聯儲將逐步調整會議安排，減少制定利率的會議。
+2、蘋果正式釋出更新版的MacBook Pro，搭載觸控式螢幕，採用OLED螢幕，配備靈動島。
+3、谷歌推出Gemini 4 Carbon前沿AI模型。
+4、俄羅斯總統助理烏沙科夫稱，烏克蘭問題三方談判將於11月4日後舉行，具體日期待定。俄方稱不邀歐洲參加。
+5、微軟Q3營收922.8億美元，分析師預期906.3億美元。 運營利潤459.2億美元，分析師預期439.2億美元。
+6、西班牙高鐵事故關鍵錄音曝光：排程員違規下令列車“恢復全速”。
+7、特朗普下令美國貿易代表就機器人和機械進口尋求談判。
+8、谷歌母公司Alphabet仍然預測全年資本支出1950億美元至2050億美元，預計2027年資本支出仍將大幅增加。
+9、邁威爾科技公司正就收購Lumentum進行深入談判。
+
+---
+
+### 2026-10-29 06:17:13  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+Microsoft CFO said Azure revenue growth for fiscal Q2 is expected at 49–50% on a constant-currency basis.
+
+---
+
+### 2026-10-29 06:16:17  #MKT News
+
+Head of Brazil's electoral authority said the electoral process is proceeding normally and fully complies with relevant laws and the constitution.
+
+---
+
+### 2026-10-29 06:15:23  #其他
+
+巴西選舉機構負責人發表宣告稱，選舉正常進行，完全符合法律和憲法規定。
+
+---
+
+### 2026-10-29 06:15:09  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: South Korean Won Depreciates by 1.24% — Top currency losers are South Korean Won (-1.24%), New Zealand Dollar (-1.03%), Indian Rupee (-0.32%) and Dollar Index (-0.16%). Gains are led by Norwegian Krone (0.76%), Swedish Krona (0.53%), Canadian Dollar (0.41%), Euro (0.23%), British Pound (0.11%) and Japanese Yen (0.08%).
+
+---
+
+### 2026-10-29 06:10:29  #國際
+
+【英國宣佈對烏克蘭追加百億英鎊援助】據英國政府網站28日訊息，英國財政大臣約翰·希利28日在議會下院公佈新政府首份財政預算案時宣佈，英國將向烏克蘭追加100億英鎊（1英鎊約合人民幣8.9元）經濟和軍事援助。希利說，這筆援助將包括貸款、出口融資擔保以及為今年冬季提供的5億英鎊緊急軍事資金。希利與英國首相伯納姆已於當天早些時候將追加援助的承諾告知烏克蘭總統澤連斯基。（新華社）
+
+---
+
+### 2026-10-29 06:06:03  #央行 #國際
+
+【美聯儲12月加息25個基點的機率為78.4%】據CME“美聯儲觀察”：美聯儲到12月維持利率不變的機率為21.6%，累計加息25個基點的機率為78.4%。美聯儲到明年1月維持利率不變的機率為7.2%，累計加息25個基點的機率為40.6%，累計加息50個基點的機率為52.2%。
+
+---
+
+### 2026-10-29 06:04:35  #其他
+
+微軟CFO：我們預計，本財年下半年資本支出將加速增長，部分原因是轉移至下半年的第三方產能交付。
+
+---
+
+### 2026-10-29 06:03:33  #其他
+
+微軟CFO：預計2027財年將繼續保持正現金流。
+
+---
+
+### 2026-10-29 06:03:09  #其他
+
+微軟展望：第二財季Azure收入按固定匯率計算增速為49%至50%。
+
+---
+
+### 2026-10-29 06:02:40  #公司 #其他 #國際
+
+微軟CFO：預計日曆年資本開支大概為1700億美元。
+
+---
+
+### 2026-10-29 06:02:09  #其他
+
+微軟展望：第二財季裝置與消費者業務收入預期159億至164億美元。第二財季 Microsoft 365 商業雲收入按固定匯率計算增速約 19%。
+
+---
+
+### 2026-10-29 06:01:29  #其他
+
+微軟CFO：預計第二季度商業預訂業務的商業銷售活動將實現穩健增長，但業績將受到上一年簽署的鉅額Azure承諾的影響。
+
+---
+
+### 2026-10-29 06:00:47  #公司 #其他 #焦點 #國際
+
+微軟：第二財季資本支出預計超 500 億美元。第二財季總收入預期 960 億至 971 億美元。
+
+---
+
+### 2026-10-29 06:00:08  #市場 #焦點
+
+WTI原油突破102美元/桶，日內跌0.76%。
+
+---
+
+### 2026-10-29 05:58:41  #市場
+
+微軟美股盤後漲幅擴大至6%。
+
+---
+
+### 2026-10-29 05:58:37  #其他
+
+微軟CFO：預計第二財季 Azure 增速為 49%。
+
+---
+
+### 2026-10-29 05:58:13  #其他
+
+微軟CFO：預計第二季度智慧體與基礎設施業務營收為801億至807億美元。
+
+---
+
+### 2026-10-29 05:55:40  #其他
+
+微軟CFO：M365商業付費席位增長5%，部分受銷售執行疲軟影響。
+
+---
+
+### 2026-10-29 05:52:47  #其他
+
+微軟CFO：雲業務約 30% 的剩餘履約義務（RPO）將在未來 12 個月確認為收入。
+
+---
+
+### 2026-10-29 05:51:39  #其他
+
+微軟CFO：約四分之三的資本支出用於短週期資產，主要是CPU和GPU，其中包括更高的記憶體和儲存成本。
+
+---
+
+### 2026-10-29 05:51:08  #其他
+
+微軟CFO：第一季度資本支出低於指引，原因是部分原預計在第一季度交付的第三方產能交付出現延遲。
+
+---
+
+### 2026-10-29 05:49:46  #國際
+
+訊息人士稱：巴西Suzano將於11月上調歐洲及美洲地區闊葉漿價格，每噸上調50美元。
+
+---
+
+### 2026-10-29 05:47:02  #公司
+
+微軟CEO：需求加速增長，推動公司本季度在五大洲新增24個資料中心。
+
+---
+
+### 2026-10-29 05:45:04  #Trading Economics #Markets #commodity #Importance 0
+
+Oat Hits 7-week Low — Oat decreased to 345.00 USd/Bu, the lowest since September 2026. Over the past 4 weeks, Oat lost 17.63%, and in the last 12 months, it increased 20.21%.
+
+---
+
+### 2026-10-29 05:35:16  #公司
+
+谷歌：所有的TPU庫存都與已經簽單的客戶合同掛鉤。側重於改善TPU的利潤率。
+
+---
+
+### 2026-10-29 05:30:45  #Trading Economics #Economy #South Korea #Business Confidence #Importance 1
+
+South Korea’s Manufacturing Sentiment Weakens Slightly — South Korea’s manufacturing Business Survey Index fell to 78 in October 2026 from 79 in September, indicating a further deterioration in business conditions. However, the financial situation index improved to 83 from 81, while the inventories index declined to 97 from 103. Meanwhile, the Composite Business Sentiment Index rose to 105.6 from 99.5, reflecting improvements in other components. The production index increased to 94 from 89, while the new orders index climbed to 91 from 84. The Composite Business Sentiment Index for the following month’s outlook also improved, rising 1.9 points to 103.0.
+
+---
+
+### 2026-10-29 05:27:52  #央行 #資料
+
+加拿大央行行長麥克勒姆：核心CPI預測“算是一種捷徑”。
+
+---
+
+### 2026-10-29 05:27:42  #央行 #其他
+
+加拿大央行行長麥克勒姆：新模型可按組成部分對通脹進行分解。
+
+---
+
+### 2026-10-29 05:27:28  #其他
+
+Meta Platforms 擬發售 4000 萬股 A 類普通股。
+
+---
+
+### 2026-10-29 05:24:30  #央行 #其他
+
+加拿大央行行長麥克勒姆：將在適當時候就我個人的未來去向作進一步說明。
+
+---
+
+### 2026-10-29 05:24:22  #央行 #其他
+
+加拿大央行行長麥克勒姆：中性利率預估或將上調。
+
+---
+
+### 2026-10-29 05:23:49  #央行 #其他
+
+加拿大央行行長麥克勒姆：通脹預測基於燃料成本的傳導效應。
+
+---
+
+### 2026-10-29 05:23:42  #央行 #國際
+
+加拿大央行行長麥克勒姆：美國赤字支出是“政治意願問題”。
+
+---
+
+### 2026-10-29 05:23:24  #央行 #國際
+
+加拿大央行行長麥克勒姆：美國財政政策不具有可持續性。
+
+---
+
+### 2026-10-29 05:20:54  #公司
+
+谷歌Gemini Agent將在今年稍晚提供給客戶。谷歌開始對外銷售TPU，供客戶部署於自有資料中心。
+
+---
+
+### 2026-10-29 05:20:52  #MKT News
+
+Mexico's economy minister said a U.S. anti-dumping case against Mexican strawberries will not benefit U.S. producers and will instead raise consumer prices.
+
+---
+
+### 2026-10-29 05:20:33  #焦點 #國際
+
+【特朗普稱他沒有讓萬斯致信伊朗】“沒有，” 美國總統特朗普被問及他是否指示副總統萬斯與伊朗接觸爭取重啟談判時回答說。“他們需要醫療用品和其它各種東西的幫助。他問我的意見；我說，‘如果你想這麼做也沒問題，’” 特朗普又說。
+
+---
+
+### 2026-10-29 05:15:53  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
+
+Alphabet (GOOG.O) shares fell more than 10% in after-hours trading; the company left 2026 capex unchanged and said it expects a substantial increase in 2027.
+
+---
+
+### 2026-10-29 05:15:27  #市場
+
+富時A50期指連續夜盤收跌0.06%，報12984點。
+
+---
+
+### 2026-10-29 05:13:35  #其他
+
+市場訊息：尼古拉斯·馬杜羅案已重新分配給法官Analisa Torres。
+
+---
+
+### 2026-10-29 05:13:31  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O #Impact bullish
+
+ALPHABET (GOOG.O) CEO Sundar Pichai said GEMINI 4 Carbon will be made available to consumers later this year.
+
+---
+
+### 2026-10-29 05:12:59  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O #Impact bullish
+
+Alphabet (GOOG.O) CEO Pichai said the company is developing a streamlined version of Gemini 4 Carbon for more than 1 billion users.
+
+---
+
+### 2026-10-29 05:12:07  #公司
+
+谷歌執行長： 我們正在開發 Gemini 4 Carbon 的蒸餾版本，面向超 10 億使用者。Gemini 4 Carbon 將於今年晚些時候面向消費者開放。
+
+---
+
+### 2026-10-29 05:10:44  #MKT News #Market Regions #Europe & UK
+
+【Russia says date for Russia-US-Ukraine trilateral talks will be announced; Europe not invited】On Oct. 28, Russian presidential aide Ushakov said Russia does not intend to invite European parties to talks on Ukraine and that the date for Russia-US-Ukraine trilateral talks will be announced soon; he did not confirm reports the talks would be held on Nov. 10. Kremlin spokesman Peskov said the Kremlin will publish the date once Moscow, Washington and Kyiv agree on a date for trilateral talks in Abu Dhabi.
+
+---
+
+### 2026-10-29 05:10:34  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
+
+Alphabet (GOOG.O) executive says total future commitments, lease and purchase obligations exceed $1 trillion.
+
+---
+
+### 2026-10-29 05:10:18  #國際
+
+【俄美烏三方談判日期將公佈 俄方稱不邀歐洲參加】當地時間10月28日，俄羅斯總統助理烏沙科夫表示，俄方不打算邀請歐洲方面參加烏克蘭問題談判。烏沙科夫說，俄美烏三方談判的日期將很快公佈，但他未確認談判定於11月10日舉行。同日，俄羅斯總統新聞秘書佩斯科夫表示，一旦莫斯科、華盛頓和基輔代表在阿布扎比舉行的烏克蘭問題三方談判日期確定，克里姆林宮將予以公佈。（央視）
+
+---
+
+### 2026-10-29 05:08:19  #公司 #其他 #焦點 #國際
+
+Alphabet 未來承諾、租賃及採購款項合計超 1 萬億美元。
+
+---
+
+### 2026-10-29 05:07:01  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
+
+ALPHABET (GOOG.O) executive said expansion of its TPU business will pressure free cash flow.
+
+---
+
+### 2026-10-29 05:06:59  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
+
+A top executive at Alphabet (GOOG.O) said the company expects near-term headwinds to Q4 margins as it begins using third-party cloud capacity.
+
+---
+
+### 2026-10-29 05:06:58  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
+
+Alphabet (GOOG.O) executive said expected return on invested capital (ROIC) will be "materially above" its cost of capital.
+
+---
+
+### 2026-10-29 05:06:58  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact mixed
+
+Alphabet (GOOG.O) executive says the company still expects capital expenditure to rise sharply in 2027.
+
+---
+
+### 2026-10-29 05:06:32  #市場
+
+Lumentum美股盤後上漲11%。
+
+---
+
+### 2026-10-29 05:05:15  #公司 #其他 #焦點 #國際
+
+【Marvell據稱正就收購Lumentum進行深入談判】據知情人士透露，Marvell 正就收購資料中心光學器件製造商Lumentum進行深入談判，這可能是人工智慧領域規模擴張競賽中的一筆巨型交易。Lumentum盤後直線拉昇漲超10%。交易最快可能於下週宣佈。Lumentum市值約830億美元，Marvell市值約2210億美元。
+
+---
+
+### 2026-10-29 05:03:48  #公司
+
+谷歌母公司Alphabet股價跌幅擴大至10%。
+
+---
+
+### 2026-10-29 05:03:27  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
+
+Alphabet (GOOG.O) top executive expects Q4 FX headwinds to be larger than Q3.
+
+---
+
+### 2026-10-29 05:03:25  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
+
+Alphabet (GOOG.O) attributed $8.2 bln of other losses to a drop in SpaceX's share price.
+
+---
+
+### 2026-10-29 05:03:21  #國際
+
+美國總統特朗普結束對記者的講話。
+
+---
+
+### 2026-10-29 05:03:21  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
+
+Alphabet (GOOG.O) executive said Google Cloud Platform accounted for the vast majority of Google Cloud revenue in Q3.
+
+---
+
+### 2026-10-29 05:03:07  #公司 #焦點 #國際
+
+谷歌母公司Alphabet仍然預測全年資本支出1950億美元至2050億美元，預計 2027 年資本支出仍將大幅增加。
+
+---
+
+### 2026-10-29 05:02:40  #國際
+
+特朗普：伊朗在醫療物資方面需要幫助。
+
+---
+
+### 2026-10-29 05:02:27  #公司
+
+谷歌母公司Alphabet：另有 1520 億美元租賃及其他義務，長期債務達到 1251 億美元。
+
+---
+
+### 2026-10-29 05:01:36  #公司 #焦點 #國際
+
+谷歌母公司Alphabet未來採購承諾規模達9240億美元。
+
+---
+
+### 2026-10-29 05:00:55  #公司 #市場
+
+谷歌：研發支出上漲 36%，受 AI 人才招聘及折舊費用推動。82 億美元其他收益虧損源於 SpaceX 股價下跌。
+
+---
+
+### 2026-10-29 05:00:08  #國際
+
+特朗普：尚未與博索納羅通話。
+
+---
+
+### 2026-10-29 04:59:59  #國際
+
+特朗普：巴西的選舉非常奇怪。
+
+---
+
+### 2026-10-29 04:59:54  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact mixed
+
+Alphabet (GOOG.O) top executive said operating cash flow was negatively affected by higher inventory built to support TPU system sales.
+
+---
+
+### 2026-10-29 04:59:53  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Raymond James Financial earnings above expectations at 3.59 USD — Raymond James Financial (RJF) released earnings per share at 3.59 USD, compared to market expectations of 3.33 USD.
+
+---
+
+### 2026-10-29 04:59:52  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+O'Reilly Automotive earnings above expectations at 0.97 USD — O'Reilly Automotive (ORLY) released earnings per share at 0.97 USD, compared to market expectations of 0.91 USD.
+
+---
+
+### 2026-10-29 04:59:52  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Equinix earnings above expectations at 4.93 USD — Equinix (EQIX) released earnings per share at 4.93 USD, compared to market expectations of 4.22 USD.
+
+---
+
+### 2026-10-29 04:59:51  #焦點 #國際
+
+特朗普：我批准博索納羅入境美國。
+
+---
+
+### 2026-10-29 04:59:51  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Fortinet earnings above expectations at 0.91 USD — Fortinet (FTNT) released earnings per share at 0.91 USD, compared to market expectations of 0.76 USD.
+
+---
+
+### 2026-10-29 04:59:50  #MKT News
+
+FITCH: U.S. fiscal pressures will persist regardless of midterm election outcomes.
+
+---
+
+### 2026-10-29 04:59:00  #其他
+
+Alphabet首席財務官：第三季度資本支出為514億美元。
+
+---
+
+### 2026-10-29 04:58:28  #公司
+
+Alphabet首席財務官：第三季度自由現金流為負，原因是公司在資本支出方面的投資。
+
+---
+
+### 2026-10-29 04:57:38  #其他
+
+Alphabet首席財務官：營運現金流受到為TPU系統銷售備貨的庫存增加的不利影響。
+
+---
+
+### 2026-10-29 04:57:06  #公司
+
+谷歌雲執行長：谷歌直接與 Anthropic 合作開發 TPU，並同博通開展相關合作。
+
+---
+
+### 2026-10-29 04:56:24  #公司
+
+蘋果正利用谷歌TPU擴大基礎模型的預訓練規模。
+
+---
+
+### 2026-10-29 04:55:42  #公司
+
+谷歌雲執行長：谷歌與 Meta 合作開發 Torch TPU。
+
+---
+
+### 2026-10-29 04:52:56  #國際
+
+【特朗普下令美國貿易代表就機器人和機械進口尋求談判】美國總統特朗普指示貿易代表和商務部長就機器人及工業機械問題展開談判以處理國家安全關切。該行政命令指示美國貿易代表辦公室與貿易伙伴就協議進行，“以應對從任何國家進口機器人和工業機械及其零部件可能對國家安全造成的威脅”。特朗普“未來可能會考慮其它補救措施，包括徵收或修改關稅、稅收、配額和收費；以及制定計劃激勵對在美國生產機器人和工業機械及其零部件的新投資”。
+
+---
+
+### 2026-10-29 04:52:15  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O #Impact bullish
+
+Alphabet (GOOG.O) executive said rising cybersecurity risks are driving demand for AI-driven security platforms.
+
+---
+
+### 2026-10-29 04:52:14  #市場
+
+納斯達克100股指期貨在美股盤後跌到1%。
+
+---
+
+### 2026-10-29 04:51:59  #其他
+
+巴西參議員、自由黨候選人弗拉維奧·博索納羅在社交媒體上刪除了一封自稱“當選總統”的信件，並將措辭改為“巴西領導人”。
+
+---
+
+### 2026-10-29 04:51:31  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
+
+ALPHABET (GOOG.O) executive says its cloud business has 18 product lines each generating over $1 bln in annual revenue.
+
+---
+
+### 2026-10-29 04:51:24  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O #Impact bullish
+
+ALPHABET (GOOG.O) executive said enterprise customer spending on GEMINI rose more than threefold YoY.
+
+---
+
+### 2026-10-29 04:51:00  #公司
+
+【西班牙高鐵事故關鍵錄音曝光：排程員違規下令列車“恢復全速”】當地時間28日，西班牙托萊多省高鐵特大追尾事故的關鍵排程通話錄音曝光。據悉，這三段核心通話錄音包括控制中心與停在軌道上的伊爾約公司列車司機的兩次通話，以及與後方追尾的西班牙國家鐵路公司列車司機的一次通話，這些錄音證實了事故發生前的關鍵操作失誤。錄音內容顯示，事發前，位於馬德里阿託查的24小時排程控制中心操作員，向距離伊爾約公司列車約25公里的西班牙國家鐵路公司列車下達了明確指令：“斷開連線，重新連線，恢復正常速度行駛”。據悉，該指令直接違反了相關安全規程。規程要求，在系統故障區段，列車應以目視方式或限制40公里/小時的速度行駛。此外，排程員在未確認前方列車已安全駛離區間的情況下，便允許後方列車全速推進，最終釀成慘劇。（央視新聞）
+
+---
+
+### 2026-10-29 04:49:25  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
+
+ALPHABET (GOOG.O) executive said sales of TPU systems are a key contributor to Google Cloud's growth.
+
+---
+
+### 2026-10-29 04:49:22  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
+
+ALPHABET (GOOG.O) TOP EXECUTIVE said YouTube's subscription business is growing faster than its advertising business.
+
+---
+
+### 2026-10-29 04:48:25  #公司
+
+Alphabet高管：TPU系統銷售對谷歌雲的增長做出了重要貢獻。
+
+---
+
+### 2026-10-29 04:48:08  #公司
+
+谷歌雲執行長：谷歌雲旗下有18條產品線，每條產品線年收入均超過10億美元。
+
+---
+
+### 2026-10-29 04:47:47  #公司
+
+谷歌YouTube每日上傳影片超2000萬個。
+
+---
+
+### 2026-10-29 04:47:20  #公司
+
+谷歌YouTube訂閱業務增速超過廣告業務。
+
+---
+
+### 2026-10-29 04:46:33  #公司
+
+谷歌：加速在廣告基礎設施中應用Gemini。谷歌Gemini幫助廣告主生成了超過15億份素材。
+
+---
+
+### 2026-10-29 04:43:03  #國際
+
+【烏沙科夫：烏克蘭問題三方談判將於 11 月 4 日後舉行，具體日期待定】據俄羅斯方面報道，俄羅斯總統助理烏沙科夫稱，烏克蘭問題三方談判將於 11 月 4 日後舉行，具體日期待定。烏沙科夫還表示：重啟談判的時間將取決於局勢，包括戰場形勢。俄羅斯代表團人選將於近期確定，核心小組已經組建完畢。俄方尚未就重啟烏克蘭問題三方談判的日期釋放相關訊號。目前並未討論由斯圖布與斯特爾作為代表整個歐洲的談判人選。俄羅斯正與美國商討解除對俄羅斯直接投資基金（RDIF）制裁的可能性。
+
+---
+
+### 2026-10-29 04:42:49  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #GOOG.O #Impact bullish
+
+An Alphabet (GOOG.O) executive said Q3 AI-driven advertising updates increased user satisfaction, click-through rates and conversion rates.
+
+---
+
+### 2026-10-29 04:40:11  #公司
+
+Alphabet執行長：Waymo自動駕駛里程已超過3億英里。
+
+---
+
+### 2026-10-29 04:39:47  #公司
+
+Alphabet執行長：谷歌將在 Chrome、安卓以及 Google Workspace 中拓展智慧體 AI。
+
+---
+
+### 2026-10-29 04:39:28  #公司
+
+Alphabet執行長：搜尋查詢量正以五年來最快速度增長。
+
+---
+
+### 2026-10-29 04:38:06  #國際
+
+俄羅斯總統助理烏沙科夫：阿布扎比談判的日期將取決於戰場局勢以及整體形勢等因素。
+
+---
+
+### 2026-10-29 04:37:46  #公司
+
+Alphabet執行長：新AI模型Carbon表現優於Gemini 4 Argon。
+
+---
+
+### 2026-10-29 04:37:13  #公司 #國際
+
+Alphabet執行長：全新 AI 模型 Carbon 為谷歌目前最強模型，正在接受美國政府測試。
+
+---
+
+### 2026-10-29 04:36:35  #公司
+
+Alphabet執行長： AI 模型 Argon 加快了谷歌內部程式碼開發。 Gemini Carbon 在幾乎所有領域效能均優於 Argon。
+
+---
+
+### 2026-10-29 04:35:48  #公司 #市場
+
+飛塔資訊（Fortinet）三季度營收20.8億美元，分析師預期20.7億美元。三季度Billings（賬單收入/訂單金額）為23.4億美元，分析師預期23億美元。三季度調整後每股收益（EPS）為0.91美元，分析師預期0.86美元。預計全年營收81.3億-82.2億美元，公司原本預計80.2億-81.8億美元。預計全年服務營收51.5億-51.7億美元，分析師預期52億美元。預計全年調整後毛利潤率79.7%-80.3%，公司原本預計79%-81%。預計全年Billings將為95.7億-97.2億美元，公司原本預計93.5億-95.5億美元。預計四季度營收21.6億-22.5億美元，分析師預期21.7億美元。飛塔資訊（FTNT）美股盤後暴跌22.5%。
+
+---
+
+### 2026-10-29 04:35:02  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.25% Higher — The Dow Jones Index gained 132 points or 0.25 percent on Wednesday to close at 52509 points. Gains were led by American Express (1.75%), Goldman Sachs (1.57%) and Alphabet (1.55%). Biggest losers were Sherwin-Williams (-1.71%), Nvidia (-1.29%) and Nike (-1.06%).
+
+---
+
+### 2026-10-29 04:34:46  #公司
+
+Alphabet執行長：目前年化營收規模達5000億美元。
+
+---
+
+### 2026-10-29 04:33:07  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Edges Higher After BoC and US Fed Meetings — The S&P/TSX Composite Index closed 0.3% higher at 36,265 on Wednesday after the Bank of Canada raised its benchmark interest rate by 25 basis points to 2.5%, as expected. The BoC said the move aims to reduce the risk of persistently high energy prices spreading to other goods and services, while noting that further rate increases may be necessary. Meanwhile, the US Federal Reserve held rates steady, as expected. Financial stocks were mostly higher, with BMO and CIBC each gaining 0.6%. Several miners report earnings after the close. Agnico Eagle rose 0.9% and Alamos gained 1.3%, while Kinross fell 0.4% and First Quantum shed 0.5%. Meanwhile, Teck Resources advanced 0.7% ahead of Thursday’s results, while Imperial Oil gained 1.1% and Cameco added 1.3% ahead of Friday’s reports. Tamarack Valley edged up 0.1% after raising its 2026 production forecast, while Trican Well Service gained 0.7% on higher third-quarter profit.
+
+---
+
+### 2026-10-29 04:31:27  #其他
+
+ServiceNOW三季度營收41.1億美元，分析師預期41億美元。三季度調整後每股收益（EPS）為1美元，分析師預期1.03美元。預計四季度訂閱收入將達到42.5億-42.6億美元，分析師預期42.4億美元。預計四季度剩餘待償還債務將增長18.5%，三季度為136.5億美元。
+
+---
+
+### 2026-10-29 04:27:35  #公司
+
+【科磊預計第二財季營收為45億至49億美元 市場預估為45.2億美元】科磊第一財季營收為41.4億美元，高於預估的40.4億美元；資本開支為1.948億美元，高於預估的1.014億美元；調整後每股收益為1.22美元。公司預計第二財季營收為45億至49億美元，預估為45.2億美元；預計第二財季調整後每股收益為1.33至1.55美元。
+
+---
+
+### 2026-10-29 04:27:13  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
+
+U.S. Treasury Secretary Bessent said consumer surveys may be pessimistic, but actual consumer behavior remains strong.
+
+---
+
+### 2026-10-29 04:23:49  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Hits Two-Month Low — The Ibovespa fell nearly 2.6% to close at 171,006 on Wednesday, extending its losses to a third consecutive session and reaching its lowest level in about two months. Investors continued to assess the implications of President Lula’s victory amid fiscal concerns and uncertainty over the composition of his economic team. Banking stocks came under particular pressure, with Santander falling 5% after reporting a 28% year-on-year decline in recurring managerial net income. Other financial stocks also retreated, with Bradesco falling 6.7%, Itaú dropping 3.4%, Itaúsa shedding 2.9%, Banco do Brasil losing 3.2%, and B3 declining 5.1%. Utilities weakened as well, with Axia shedding 5.2%. Elsewhere, Ambev fell 2.2% and Vale lost 3% ahead of their earnings reports on Thursday. Petrobras slipped 0.5% despite a rebound in oil prices. Meanwhile, the US Federal Reserve held interest rates steady, as expected.
+
+---
+
+### 2026-10-29 04:22:01  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Honeywell Aerospace earnings in line with market expectations at 2.21 USD — Honeywell Aerospace (HONA) released earnings per share at 2.21 USD.
+
+---
+
+### 2026-10-29 04:21:51  #國際
+
+美國財長貝森特：美國總統特朗普經濟議程的許多內容已基本確定，例如減稅政策。
+
+---
+
+### 2026-10-29 04:21:43  #國際
+
+美國財長貝森特：總體而言，貿易協議已基本敲定。
+
+---
+
+### 2026-10-29 04:21:17  #國際
+
+美國財長貝森特：消費者行為相當強勁，企業行為也相當強勁。
+
+---
+
+### 2026-10-29 04:20:16  #MKT News
+
+U.S. Treasury Secretary Bessent said France is in a "difficult" position and that he knows the French finance minister well, adding the minister has a weak hand.
+
+---
+
+### 2026-10-29 04:20:15  #MKT News #Market Themes #AI Revolution
+
+U.S. Treasury Secretary Bessent said he does not view widening debt spreads for AI issuers as a problem.
+
+---
+
+### 2026-10-29 04:20:14  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
+
+U.S. Treasury Secretary Bessent said he still sees a deal being reached; Meta Platforms (META.O) is pursuing equity financing.
+
+---
+
+### 2026-10-29 04:20:14  #MKT News
+
+U.S. Treasury Secretary Bessent said some institutions are beginning to shift toward equity financing.
+
+---
+
+### 2026-10-29 04:20:10  #MKT News #BCE.TO #Impact bearish #T.TO #RCI-B.TO
+
+Canadian government launches telecom roadmap to strengthen competition in the sector.
+
+---
+
+### 2026-10-29 04:20:01  #國際
+
+美國財長貝森特：很瞭解法國財長，其處境不佳。
+
+---
+
+### 2026-10-29 04:19:37  #國際
+
+美國財長貝森特：部分機構開始轉向股權融資。
+
+---
+
+### 2026-10-29 04:18:53  #其他
+
+加拿大政府：電信競爭路線圖提出全國性競爭方案，旨在打破地區壁壘，助力構建統一加拿大經濟。
+
+---
+
+### 2026-10-29 04:18:40  #焦點 #國際
+
+美國財長貝森特：完全不認為人工智慧相關借貸存在問題。
+
+---
+
+### 2026-10-29 04:18:12  #其他
+
+Alphabet 2026 年第三季度滾動 12 個月自由現金流 197.5 億美元，同比下降 73%。
+
+---
+
+### 2026-10-29 04:17:55  #國際
+
+美國財長貝森特：伊朗無法獲得美元，其代理人的資金正在減少。
+
+---
+
+### 2026-10-29 04:16:53  #其他 #焦點 #國際
+
+全球債券發行量創年度新高，達6.61萬億美元。
+
+---
+
+### 2026-10-29 04:16:49  #國際
+
+美國財長貝森特：對伊朗的“棄兒行動”正在取得成功。
+
+---
+
+### 2026-10-29 04:16:48  #MKT News
+
+White House: President Trump said imports of robots and machinery pose a national security risk but did not immediately impose any tariffs.
+
+---
+
+### 2026-10-29 04:16:41  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
+
+Dow Jones Industrial Average closed up 97.53 points (+0.19%) at 52,475.10 on Oct. 28 (Wed). S&P 500 closed up 21.38 points (+0.28%) at 7,743.98. Nasdaq Composite closed up 72.04 points (+0.27%) at 26,549.85.
+
+---
+
+### 2026-10-29 04:16:40  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O): Revenue from commercial arrangements with OpenAI was $10 billion in the quarter ended Sept. 30.
+
+---
+
+### 2026-10-29 04:16:39  #MKT News #Macro & Rates #The Fed (FOMC)
+
+U.S. Treasury Secretary Bessent said he is confident Walsh will guide the Federal Reserve in fulfilling its mission.
+
+---
+
+### 2026-10-29 04:15:47  #其他
+
+美高梅國際酒店第三季度淨營收42.1億美元，預估42.3億美元；第三季度調整後每股虧損0.11美元。
+
+---
+
+### 2026-10-29 04:15:41  #公司
+
+谷歌母公司Alphabet：搜尋查詢量同比增長率創五年來最高。
+
+---
+
+### 2026-10-29 04:15:09  #公司
+
+谷歌母公司Alphabet：AI領域投資正推動整體搜尋查詢量增長。
+
+---
+
+### 2026-10-29 04:14:35  #央行 #國際
+
+美國財長貝森特：對美聯儲主席沃什引導美聯儲在增長與通脹之間實現恰當平衡抱有充分信心。
+
+---
+
+### 2026-10-29 04:14:04  #央行 #國際
+
+美國財長貝森特：美聯儲高度關注長期高於通脹目標的問題。
+
+---
+
+### 2026-10-29 04:13:51  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Chipotle Mexican Grill earnings below expectations at 0.27 USD — Chipotle Mexican Grill (CMG) released earnings per share at 0.27 USD, compared to market expectations of 0.29 USD.
+
+---
+
+### 2026-10-29 04:13:37  #央行 #國際
+
+美國財長貝森特：正如美聯儲主席沃什所說，債券市場已經為我們完成了大量緊縮。
+
+---
+
+### 2026-10-29 04:13:23  #MKT News #Macro & Rates #The Fed (FOMC) #WTI #Impact bullish #Brent
+
+Bessent said the U.S. is experiencing an energy supply shock and the Federal Reserve should keep an open mind.
+
+---
+
+### 2026-10-29 04:13:19  #公司
+
+谷歌母公司Alphabet：旗下YouTube Music和Premium全球訂閱使用者突破1.5億，含試用使用者。
+
+---
+
+### 2026-10-29 04:13:10  #MKT News #Macro & Rates #The Fed (FOMC)
+
+U.S. Treasury Secretary Bessent said he and President Trump have full confidence in Federal Reserve Chair Kevin Warsh.
+
+---
+
+### 2026-10-29 04:13:06  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact mixed
+
+Microsoft (MSFT.O) said fiscal 2027 Q1 capex, including assets acquired under finance leases, rose 30% to $45.2 billion.
+
+---
+
+### 2026-10-29 04:12:59  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
+
+Alphabet (GOOG.O) said Google advertising revenue in Q3 2026 was $82.0 bln, versus market expectation of $83.704 bln.
+
+---
+
+### 2026-10-29 04:12:52  #央行 #國際
+
+美國財長貝森特：自2024年9月美聯儲降息以來，10年期收益率一路走高，未曾回落。
+
+---
+
+### 2026-10-29 04:12:41  #國際
+
+美國財長貝森特：認為第三季度將公佈強勁的GDP資料。
+
+---
+
+### 2026-10-29 04:12:21  #國際
+
+白宮：美國總統特朗普指示官員與貿易伙伴談判達成協議，以應對任何國家進口機器人和工業機械帶來的國家安全風險。
+
+---
+
+### 2026-10-29 04:11:48  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Ford Motor earnings above expectations at 0.49 USD — Ford Motor (F) released earnings per share at 0.49 USD, compared to market expectations of 0.35 USD.
+
+---
+
+### 2026-10-29 04:11:48  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+eBay earnings above expectations at 1.51 USD — eBay (EBAY) released earnings per share at 1.51 USD, compared to market expectations of 1.45 USD.
+
+---
+
+### 2026-10-29 04:11:47  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+FedEx earnings above expectations at 3.74 USD — FedEx (FDX) released earnings per share at 3.74 USD, compared to market expectations of 3.42 USD.
+
+---
+
+### 2026-10-29 04:11:40  #央行 #國際
+
+美國財長貝森特：美聯儲應對能源影響的暫時性保持開放態度。
+
+---
+
+### 2026-10-29 04:11:31  #國際
+
+美國財長貝森特：特朗普對沃什應對使命“充滿信心”。
+
+---
+
+### 2026-10-29 04:10:54  #公司
+
+谷歌母公司Alphabet：其第一方模型API目前每分鐘處理近320億個token。
+
+---
+
+### 2026-10-29 04:10:34  #其他
+
+Chipotle（墨式烤肉）三季度營收33億美元，分析師預期32.9億美元。
+
+---
+
+### 2026-10-29 04:10:15  #市場
+
+Honeywell Aerospace Inc.（HONA）美股盤後漲7.3%。
+
+---
+
+### 2026-10-29 04:10:11  #其他
+
+eBay第三季度淨營收為32.1億美元，高於市場預估的31.2億美元；持續經營業務調整後每股收益為1.51美元，高於預估的1.42美元。
+
+---
+
+### 2026-10-29 04:09:57  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+Wall Street Rises as Fed Holds Rates Steady — US stocks indices closed higher on Wednesday, with the S&P 500 rising 0.3%, the Nasdaq gaining 0.2% and the Dow inching above the flatline, as investors digested the latest FOMC decision and comments from Fed Chair Warsh. As expected, the Fed left interest rates unchanged, although two policymakers dissented in favor of a 25bps rate hike. Warsh struck a confident tone on inflation expectations, suggesting they remain well anchored. Heavyweight financial stocks mostly advanced, with JPMorgan up 1%, Morgan Stanley gaining 1.7%, Goldman Sachs rising 1.5%, and Wells Fargo adding 1.2%. Corporate earnings remained in focus, with Microsoft (-0.1%) and Alphabet (+1.3%) set to report after the closing bell. Alphabet also benefited from reports that OpenAI plans to buy AI computing chips from Google. Record quarterly profits at SK Hynix lifted chip stocks, including Micron (+5.9%) and AMD (+3.2%). In contrast, Apple fell 0.9% despite unveiling a revamped MacBook Pro featuring a touchscreen.
+
+---
+
+### 2026-10-29 04:09:55  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+KLA Corporation earnings above expectations at 1.22 USD — KLA Corporation (KLAC) released earnings per share at 1.22 USD, compared to market expectations of 1.14 USD.
+
+---
+
+### 2026-10-29 04:09:46  #央行 #國際
+
+美國財長貝森特：美聯儲主席沃什開局非常出色。
+
+---
+
+### 2026-10-29 04:09:36  #焦點 #國際
+
+白宮：美國總統特朗普表示，進口機器人和機械構成國家安全風險，但未立即徵收任何關稅。
+
+---
+
+### 2026-10-29 04:09:15  #公司 #其他
+
+聯邦快遞預計全年調整後每股收益18至18.60美元，此前預期為16.90至18.10美元。
+
+---
+
+### 2026-10-29 04:08:57  #其他
+
+ServiceNow：ServiceNow MCP外掛已上架OpenAI市場；將於2026年底推出增強功能。
+
+---
+
+### 2026-10-29 04:07:23  #公司
+
+【AI債務供應激增 華爾街信貸市場開始吃不消】隨著華爾街為支撐人工智慧(AI)熱潮的龐大資料中心和晶片網路提供資金，一種新的焦慮正在蔓延：早期跡象顯示，信貸市場進一步消化債務的能力正在逼近上限。為AI基礎設施建設融資的債券和貸款收益率接連飆升至兩位數。銀行家們發現，將風險轉給保險公司和其他投資者的難度日益加大。埃隆·馬斯克日前甚至警告稱，隨著企業難以獲得新的融資，數百家所謂的“新雲”公司面臨倒閉風險。
+
+---
+
+### 2026-10-29 04:06:20  #公司
+
+谷歌母公司Alphabet：GEMINI應用程式的使用者數量已達10億。
+
+---
+
+### 2026-10-29 04:06:02  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Alphabet earnings below expectations at 2.12 USD — Alphabet (googl) released earnings per share at 2.12 USD, compared to market expectations of 3.01 USD.
+
+---
+
+### 2026-10-29 04:05:53  #其他
+
+【福特汽車第三季度總營收495.3億美元 同比減少1.9%】福特汽車第三季度總營收495.3億美元，同比減少1.9%；調整後每股收益0.49美元，上年同期0.45美元，預估0.41美元；調整後息稅前利潤27億美元，同比+3.8%，預估23.8億美元。福特汽車預計全年 調整後息稅前利潤105億美元至110億美元，此前預計100億美元至110億美元，預估105.2億美元；仍然預測資本支出95億美元至105億美元，市場預估99億美元。
+
+---
+
+### 2026-10-29 04:05:17  #公司 #國際
+
+白宮：美國總統特朗普簽署公告，調整機器人、工業機械及其零部件和元件的對美進口。
+
+---
+
+### 2026-10-29 04:05:06  #其他
+
+微軟第一財季不計匯率因素的AZURE營收增長48%，預期為增長44.8%。
+
+---
+
+### 2026-10-29 04:03:59  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+T-Mobile Us earnings above expectations at 3.22 USD — T-Mobile Us (TMUS) released earnings per share at 3.22 USD, compared to market expectations of 2.86 USD.
+
+---
+
+### 2026-10-29 04:03:20  #公司 #其他 #焦點 #國際
+
+ALPHABET 第三季度營收1,275.8億美元，預估1,279.3億美元。
+
+---
+
+### 2026-10-29 04:01:24  #公司 #其他 #焦點 #國際
+
+微軟第一財季營收922.8億美元，預估906.3億美元。
+第一財季調整後每股收益4.89美元，預估4.73美元。
+第一財季資本支出393.7億美元，預估459.3億美元。
+第一財季經營利潤459.2億美元，預估439.2億美元。
+第一財季每股收益4.92美元。
+
+---
+
+### 2026-10-29 04:01:02  #國際
+
+市場訊息：美國副總統萬斯致信伊朗最高安全機構負責人。
+
+---
+
+### 2026-10-29 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收漲】道指漲0.19%，標普500指數漲0.28%，納指漲0.32%。VRT漲16.56%，偉創力國際漲11.61%，甲骨文漲10.58%，實驗美控漲8.84%，閃迪漲7.66%，CoreWeave漲7.32%。“七姐妹”方面：谷歌漲1.70%，亞馬遜漲0.61%，微軟漲0.22%，特斯拉跌0.80%，蘋果跌0.88%，英偉達跌1.17%，Meta Platforms跌1.23%。
+
+---
+
+### 2026-10-29 04:00:39  #其他
+
+T-Mobile第三季度總營收235.8億美元，高於IBES預期的231.4億美元。
+
+---
+
+### 2026-10-29 04:00:20  #市場 #焦點
+
+現貨黃金突破4080美元/盎司，日內漲0.54%。
+
+---
+
+### 2026-10-29 04:00:20  #市場 #焦點
+
+現貨黃金突破4080美元/盎司，日內漲0.54%。
+
+---
+
+### 2026-10-29 04:00:04  #市場 #焦點
+
+紐約期金突破4090美元/盎司，日內漲0.38%。
+
+---
+
+### 2026-10-29 04:00:03  #市場 #焦點
+
+【納斯達克中國金龍指數收跌1.87%】JDZG跌75.57%，虎虎科技跌44.00%，新東方跌12.62%，高途跌7.98%，亞朵集團跌7.42%。
+
+---
+
+### 2026-10-29 03:58:34  #其他
+
+巴西參議員、自由黨候選人弗拉維奧·博索納羅：我沒有犯罪。
+
+---
+
+### 2026-10-29 03:58:34  #市場 #焦點
+
+現貨黃金突破4070美元/盎司，日內漲0.25%。
+
+---
+
+### 2026-10-29 03:58:34  #市場 #焦點
+
+現貨黃金突破4070美元/盎司，日內漲0.25%。
+
+---
+
+### 2026-10-29 03:57:28  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500
+
+【Gundlach says Fed decision didn't change his investment strategy】Gundlach said the Fed rate decision did not change his investment strategy. He currently allocates 30% to equities—preferring an equal-weight S&P 500 to limit overexposure to what he called potential AI 'problems'—30% to bonds, 20% to commodities and 20% to liquid 'dry powder' assets available for immediate deployment.
+
+---
+
+### 2026-10-29 03:57:12  #MKT News
+
+UK Chancellor said the top priority of energy policy is reducing energy costs.
+
+---
+
+### 2026-10-29 03:57:08  #MKT News
+
+Son of former Brazilian president Bolsonaro says he will regularly address the Brazilian public.
+
+---
+
+### 2026-10-29 03:56:43  #MKT News
+
+UK chancellor said banks are vital to the country's prosperity, international standing and economic success.
+
+---
+
+### 2026-10-29 03:56:39  #MKT News
+
+Bolsonaro's son urges the international community not to treat current events in Brazil as normal.
+
+---
+
+### 2026-10-29 03:56:39  #其他
+
+英國財政大臣希利：英國能源政策的首要任務是降低能源成本。
+
+---
+
+### 2026-10-29 03:55:59  #MKT News
+
+UK Chancellor Healy said he has asked the Bank of England to review banks' capital requirements.
+
+---
+
+### 2026-10-29 03:55:41  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+UK Chancellor Healey said the government will continue to press ahead with the Financial Services and Markets Bill.
+
+---
+
+### 2026-10-29 03:55:41  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #S&P500 #DXY
+
+【Economist: Cook dissent may be protest against Trump administration legal action】FWDBONDS chief economist Chris Rupkey said Fed governor Cook's rare dissent on the rate decision could reflect displeasure with the Trump administration's legal action. Rupkey said: "Fed governors rarely vote against decisions — after all, they work in the same building as the chair. This vote may be a protest, because the Trump administration is taking steps trying in some way to force Cook to resign."
+
+---
+
+### 2026-10-29 03:55:39  #MKT News
+
+Jair Bolsonaro's son says he will lead Brazil's opposition from the United States.
+
+---
+
+### 2026-10-29 03:55:39  #MKT News #WTI #Impact bullish #Brent
+
+Los Angeles bans new oil wells and orders a gradual phase-out of existing wells.
+
+---
+
+### 2026-10-29 03:54:52  #其他
+
+英國財政大臣希利：銀行對英國的繁榮、地位與成功至關重要。
+
+---
+
+### 2026-10-29 03:54:34  #其他
+
+英國財政大臣希利：我們將推進金融服務與市場法案。
+
+---
+
+### 2026-10-29 03:54:19  #央行 #其他
+
+英國財政大臣希利：我已要求英國央行研究銀行的資本要求。
+
+---
+
+### 2026-10-29 03:53:57  #國際
+
+巴西參議員、自由黨候選人弗拉維奧·博索納羅：面對巴西司法系統的政治化，我把家人帶到了美國。
+
+---
+
+### 2026-10-29 03:53:17  #其他
+
+巴西參議員、自由黨候選人弗拉維奧·博索納羅：我將從這裡領導反對派。
+
+---
+
+### 2026-10-29 03:53:04  #其他
+
+巴西參議員、自由黨候選人弗拉維奧·博索納羅：我呼籲國際社會不要將巴西正在發生的事情視為常態。
+
+---
+
+### 2026-10-29 03:52:45  #其他
+
+英國財政大臣希利：銀行加稅的時限條款將寫入法案。
+
+---
+
+### 2026-10-29 03:52:03  #其他
+
+巴西參議員、自由黨候選人弗拉維奧·博索納羅：我沒有逃離巴西，我是為了巴西才離開的，我離開了一個例外狀態，以便成為我的人民應得的領導人。
+
+---
+
+### 2026-10-29 03:51:58  #MKT News
+
+Libyan government statement: eastern Libya will bar entry to Iranian and Afghan nationals; diplomats are exempt from the ban.
+
+---
+
+### 2026-10-29 03:51:56  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Gundlach backs Fed cutting annual rate-setting meetings from eight to six】Fed chair Warsh said today that of the eight scheduled annual meetings, one in 2027 and two in 2028 will be designated monetary policy strategy sessions and will not include votes to change the federal funds rate. Gundlach called the arrangement unsurprising and said he supports immediately reducing rate-decision meetings to six per year, arguing eight is unnecessary and meetings come too frequently to allow additional incoming data to be incorporated.
+
+---
+
+### 2026-10-29 03:51:04  #Trading Economics #Markets #United States #stocks #Importance 1
+
+BlackRock Shares Hit 8-week High — BlackRock shares increased to 1160.00 USD, the highest since August 2026. Over the past 4 weeks, BlackRock gained 8.57%, and in the last 12 months, it increased 5.6%.
+
+---
+
+### 2026-10-29 03:50:29  #MKT News #Market Regions #Europe & UK #GBPUSD
+
+UK Chancellor Healy said lowering business costs has been a budget priority during their tenure.
+
+---
+
+### 2026-10-29 03:50:03  #MKT News #Important #Star Stocks #Alphabet #Microsoft #Market Themes #Magnificent 7 #GOOGL.O #Impact mixed #MSFT.O
+
+Google and Microsoft will report earnings after the U.S. market close.
+
+---
+
+### 2026-10-29 03:49:59  #MKT News
+
+Son of former Brazilian president Bolsonaro said he is facing a politically motivated "witch hunt" aimed at taking him hostage.
+
+---
+
+### 2026-10-29 03:49:40  #其他
+
+巴西參議員、自由黨候選人弗拉維奧·博索納羅：眼下這是一場帶有政治動機的政治迫害，目的是把我扣為人質。
+
+---
+
+### 2026-10-29 03:49:38  #MKT News
+
+Bolsonaro's son said he had no intention of leaving Brazil but was clear about where events were headed.
+
+---
+
+### 2026-10-29 03:49:38  #MKT News
+
+The son of former Brazilian president Bolsonaro thanked U.S. President Trump and the American people for welcoming him.
+
+---
+
+### 2026-10-29 03:49:36  #MKT News
+
+Son of Brazil's former president Bolsonaro said he watched in horror as electoral fraud occurred on Sunday night.
+
+---
+
+### 2026-10-29 03:49:25  #MKT News
+
+Son of former Brazilian president Bolsonaro said he was addressing the Brazilian people and the international community as Brazil's true elected president.
+
+---
+
+### 2026-10-29 03:48:55  #其他
+
+巴西參議員、自由黨候選人弗拉維奧·博索納羅： 離開祖國並非我的本意，但我十分清楚事情將會如何發展。
+
+---
+
+### 2026-10-29 03:48:48  #MKT News #WTI #Impact mixed #Brent #XAUUSD
+
+【U.S.-Iran 'seven-day' talks progress; mixed reports on Gulf allies' notification】Sources told NewsNation that Iran and the U.S. have held multiple intermediary rounds in recent days on a 'seven-day' plan aimed at preventing a resumption of U.S.-Iran military action after the U.S. midterm elections. Sources described talks as progressing positively but not reaching a final agreement. U.S. special envoy Witkoff and Kushner are reported to be involved. One source said if Iran rejects the proposal, Trump may have no choice but to order U.S. strikes. Sources conflict on allied notification: one said the U.S. has not informed Gulf allies of plans for short, high‑intensity post-midterm operations; the Wall Street Journal reports the U.S. has told multiple Gulf Arab states to prepare for such operations.
+
+---
+
+### 2026-10-29 03:47:58  #國際
+
+【古巴歡迎聯大再次透過決議敦促美國結束對古封鎖】古巴國家主席迪亞斯-卡內爾28日在社交媒體發文，歡迎聯合國大會再次以壓倒性多數透過決議，敦促美國立即結束對古巴長達60餘年的經濟、商業和金融封鎖。（央視新聞）
+
+---
+
+### 2026-10-29 03:47:14  #其他
+
+博索納羅：週日晚上，我驚恐地目睹了選舉舞弊就在我眼前發生。
+
+---
+
+### 2026-10-29 03:46:47  #國際
+
+博索納羅：我要感謝美國總統特朗普和友好的美國人民對我的歡迎。
+
+---
+
+### 2026-10-29 03:46:39  #MKT News #ORCL.N #Impact bullish
+
+【Oracle expects $30 bln FCF in FY2029; shares jump over 13% intraday】Oracle (ORCL.N) expects free cash flow of $30 billion for the fiscal year ending May 2029, well above market expectations of continued negative FCF. It forecasts data-center capacity will exceed 10 GW by the end of fiscal 2028 and plans to begin reducing capex from fiscal 2029. The company said new financing needs before May 2030 will be kept below $20 billion and reiterated a fiscal 2030 revenue target of $225 billion. Analyst Anurag Rana said the plan should ease concerns over heavy AI infrastructure spending in the next two years. Oracle shares rose as much as 13% intraday.
+
+---
+
+### 2026-10-29 03:46:13  #其他
+
+博索納羅：我以巴西真正當選總統的身份向巴西人民和國際社會發表講話。
+
+---
+
+### 2026-10-29 03:46:03  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Wash says schedule change will give Fed time to consider 'major issues'】Fed official Wash said the Federal Reserve will adjust its meeting schedule over the next few years and that the committee need not vote at every meeting. He said this will reduce the amount of rate-decision information released to the public at each meeting. Wash said the aim is to create time and space for strategic deliberation on longer-term issues and to refocus on the 'left of the decimal point.'
+
+---
+
+### 2026-10-29 03:45:48  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Fed Chair Kevin Warsh says he will not attend White House disciplinary hearing on Lisa Cook】Fed Chair Kevin Warsh said at the end of a press conference he does not plan to attend a White House disciplinary hearing the administration is seeking to schedule for next week on Fed Governor Lisa Cook. The hearing is part of President Donald Trump’s ongoing effort to remove Cook over allegations she made false statements on mortgage applications, the central basis for the removal push. Trump first sought Cook’s dismissal more than a year ago; Cook sued and the case reached the U.S. Supreme Court, which this summer ruled the president cannot remove Fed officials without cause. Trump has formed a three-member panel, led by his chief economic adviser, to investigate Cook and hold evidentiary hearings.
+
+---
+
+### 2026-10-29 03:45:20  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish
+
+【US DOJ probes NVIDIA acquisition of Hugging Face】The US Department of Justice is probing NVIDIA (NVDA.O)’s roughly $13bn deal to acquire AI-model firm Hugging Face, sources said. The inquiry, part of broader regulatory scrutiny of the chipmaker, is assessing how the transaction could affect competition in the AI market. The DOJ’s separate, longer-running investigation into NVIDIA’s commercial practices remains underway. NVIDIA announced the deal in September and said it aims to protect the open-source community; developers use Hugging Face to share models and data, and NVIDIA has pledged to keep the platform open as part of the transaction.
+
+---
+
+### 2026-10-29 03:45:06  #國際
+
+阿拉伯電視臺援引訊息人士稱，調解方與伊朗正在商議，計劃在 11 月 4 日之前於土耳其召開會談。
+
+---
+
+### 2026-10-29 03:44:44  #其他
+
+IBM宣佈推出面向Apache Flink的IBM Watsonx.Data Integration。
+
+---
+
+### 2026-10-29 03:43:17  #國際
+
+【以媒：伊朗最早可能於週四對卡達新提案給出答覆】據以色列i24NEWS獲悉，卡達方面正在等待德黑蘭對新提案作出答覆，伊朗最早可能於週四給出答覆。兩名地區外交官透露，根據目前的提議，伊朗將需就其核計劃採取具體措施，作為交換，美國將放寬部分制裁，並解凍部分資金。目前正在考慮的措施是恢復國際原子能機構核查人員對伊朗各處核設施的檢查。迄今為止，美伊談判的難點在於，伊朗要求先解除封鎖、適度放寬制裁，然後才討論核問題。而特朗普政府則要求，伊朗在談判第一階段就必須在核問題上採取行動。一名美國高階官員向i24NEWS表示：“美國在任何情況下都不會在中期選舉前攻擊伊朗。”
+
+---
+
+### 2026-10-29 03:43:06  #MKT News
+
+Official Israeli tallies show that with 88.6% of votes counted and turnout at 77.7%, Netanyahu's bloc is projected to win 53 Knesset seats, eight short of the 61-seat majority; the opposition is projected at 48 seats, 13 short. Neither side currently has the majority required to form a government.
+
+---
+
+### 2026-10-29 03:42:53  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Both hawkish and dovish language from Fed Chair Kevin Warsh declined】An institutional AI model shows the sentiment in Fed Chair Kevin Warsh’s opening remarks at the press conference was slightly less hawkish than at recent meetings; dovish language fell, but hawkish language also declined.
+
+---
+
+### 2026-10-29 03:42:40  #MKT News #Important #WTI #Impact bearish #Brent
+
+【i24NEWS: Iran could respond to Qatar's new proposal as early as Thursday】i24NEWS reports Qatar is awaiting Tehran’s response to a new proposal; Iran could reply as early as Thursday, two regional diplomats said. Under the current draft, Iran would take concrete steps on its nuclear program in exchange for the US easing some sanctions and unfreezing funds. Measures under consideration include restoring IAEA inspectors’ access to Iranian nuclear sites. Talks remain stalled on sequencing: Iran wants sanctions relief before nuclear discussions, while the Trump administration insists Iran must take nuclear actions in the first phase. A US senior official told i24NEWS: "The US will under no circumstances attack Iran before the midterm elections."
+
+---
+
+### 2026-10-29 03:41:46  #宏觀
+
+【英國財相：將對主權財富基金在英房地產持股加稅】從攝政街到金絲雀碼頭，英國財政大臣約翰·希利找到了一個潛在的新收入來源，以充實英國稅收——全球主權財富基金持有的英國房地產投資組合。根據希利首份預算案公佈後財政部發布的檔案，此前免繳租金所得稅的政府支援基金，現在將按15%的稅率繳稅。檔案顯示，政府預計到2029-30財年，此項稅收將帶來約7億英鎊（9.32億美元）收入。根據希利首份預算案公佈後財政部發布的檔案，此前免繳租金所得稅的政府支援基金，現在將按15%的稅率繳稅。檔案顯示，政府預計到2029-30財年，此項稅收將帶來約7億英鎊（9.32億美元）收入。
+
+---
+
+### 2026-10-29 03:38:40  #央行 #國際
+
+【分析師：10 月 FOMC 鴿派傾向清晰可見 12月加息機率僅為50%】彭博經濟分析師Anna Wong和Andrew Sacher表示：FOMC 在 10 月 27 至 28 日會議維持利率不變符合預期，但政策宣告措辭細微調整以及美聯儲主席沃什的記者會講話，都顯示委員會立場小幅轉向鴿派。值得關注的是，沃什多次稱金融條件已經收緊，但暫不認為整體金融條件處於偏緊狀態；他認為近期 AI 板塊震盪，部分是美聯儲 9 月加息帶來的反應，這也解釋了宣告新增表述，即需要獲取更多資訊再決定下一步利率行動。綜合本次會議全部資訊，我們判斷 12 月加息機率為50% ，而當前市場定價為 85%。我們預計在 12 月會議前信貸條件將進一步收緊，替美聯儲起到一部分緊縮效果。基準情景為 FOMC 在今年剩餘時間維持利率不變。
+
+---
+
+### 2026-10-29 03:35:27  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Fed chair Kevin Warsh says he's closely monitoring South Korea】Federal Reserve chair Kevin Warsh said he is paying particular attention to the South Korean economy, calling South Korea a key supplier of inputs for the rapidly expanding global technology sector. He said he has long known Bank of Korea Governor Shin and praised Shin as very talented; the two met during the global financial crisis. South Korean media are expected to give extensive coverage on Thursday.
+
+---
+
+### 2026-10-29 03:34:08  #MKT News #US10Y #Impact bullish
+
+Gundlach continues to recommend a 30% allocation to bonds via a barbell strategy.
+
+---
+
+### 2026-10-29 03:32:39  #其他
+
+“新債王”岡拉克：仍建議以“槓鈴策略”將30%的資產配置於債券。
+
+---
+
+### 2026-10-29 03:31:06  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US Economy #DXY #Impact bearish #XAUUSD #Impact bullish
+
+【Fed Chair Kevin Warsh's tone seen dovish; US two-year Treasury yield falls】US two-year Treasury yield slid below 4.70% from about 4.78% (down roughly 8bps) after Fed Chair Kevin Warsh's post-meeting remarks were read by some traders as dovish following a press conference that disclosed little about the committee's decision process. Warsh said that since the September rate increase financial and credit conditions have begun to tighten and that those developments "help achieve longer-term, more durable economic growth and price stability."
+
+---
+
+### 2026-10-29 03:28:20  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
+
+【Analyst: Walsh's remarks steadied markets】Analyst Chris Anstey said today’s statement—and Walsh’s briefing—clarified that officials need more information to determine the appropriate stance to bring inflation back to 2%. That explanation contrasts with July, when the Fed left rates unchanged amid high inflation and Walsh failed to explain policymakers’ logic, triggering a sharp market sell-off; the clearer messaging today appears to have calmed investors.
+
+---
+
+### 2026-10-29 03:27:26  #其他
+
+“新債王”岡拉克：股票配置比例約為30%，且僅配置於等權重標普指數。
+
+---
+
+### 2026-10-29 03:27:12  #MKT News #S&P500
+
+Gundlach: equity allocation about 30%, invested only in an equal-weight S&P strategy.
+
+---
+
+### 2026-10-29 03:27:07  #MKT News #Market Themes #AI Revolution
+
+Gundlach warned that concentrated exposure to AI carries risks.
+
+---
+
+### 2026-10-29 03:24:11  #市場
+
+【美元指數28日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.11%，在匯市尾市收於102.211。截至紐約匯市尾市，1歐元兌換1.1150美元，高於前一交易日的1.1135美元；1英鎊兌換1.3316美元，高於前一交易日的1.3313美元。1美元兌換158.05日元，高於前一交易日的157.95日元；1美元兌換0.8290瑞士法郎，高於前一交易日的0.8287瑞士法郎；1美元兌換1.4021加元，低於前一交易日的1.4052加元；1美元兌換9.9139瑞典克朗，低於前一交易日的9.9489瑞典克朗。
+
+---
+
+### 2026-10-29 03:23:32  #國際
+
+【中方敦促國際法院確保國際法平等統一適用】中國常駐聯合國副代表孫磊28日在安理會國際法院院長通報會上發言，敦促國際法院確保國際法平等統一適用。(新華社)
+
+---
+
+### 2026-10-29 03:22:23  #市場
+
+【國際油價28日上漲】截至當天收盤，紐約商品交易所12月交貨的輕質原油期貨價格上漲2.88美元，收於每桶102.78美元，漲幅為2.88%；12月交貨的倫敦布倫特原油期貨價格上漲1.44美元，收於每桶115.32美元，漲幅為1.26%。
+
+---
+
+### 2026-10-29 03:22:06  #公司
+
+空客執行長：尚未就加長版A350機型作出決定，目前正在評估相關機會。
+
+---
+
+### 2026-10-29 03:21:55  #MKT News #Commodities #Energy
+
+Petroperu, Peru’s state oil company, expects to close 2026 with net profit of $350 million, the company chairman said.
+
+---
+
+### 2026-10-29 03:21:54  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
+
+CENTCOM said Iranian-controlled media reports in recent days and weeks that merchant vessels struck mines while transiting the Strait of Hormuz are false. The U.S. military has cleared all internationally recognized primary transit lanes in the Strait of Hormuz and will keep them mine-free; thousands of merchant vessels have used those lanes safely and continue to do so.
+
+---
+
+### 2026-10-29 03:21:52  #國際
+
+美國中央司令部：霍爾木茲海峽全部獲得國際認可的主要通行航道，已經由美軍完成水雷清除並維持安全狀態。已有數千艘商船安全通行，目前仍持續正常通航。
+
+---
+
+### 2026-10-29 03:20:41  #其他
+
+“新債王”岡拉克：10月利率確實面臨真實壓力，但因再平衡操作而得到緩解。基準情形可能是12月加息。
+
+---
+
+### 2026-10-29 03:20:13  #MKT News #DXY #Impact bearish
+
+USD/CAD slipped below 1.40, down 0.36% intraday.
+
+---
+
+### 2026-10-29 03:20:04  #MKT News
+
+Chairman of Peru's state oil company Petroperu said he is open to selling a minority stake in 2027.
+
+---
+
+### 2026-10-29 03:19:26  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+【Warsh reiterates opposition to forward guidance】Federal Reserve Chair Kevin Warsh told a press briefing he does not support using so‑called forward guidance to signal future rate paths or policy direction except in an emergency or crisis. He said forward guidance played a substantial role during the darkest phase of the 2008 financial crisis — after policymakers referenced research by a recently awarded Nobel laureate — but he does not endorse its use in normal times, especially given current strong economic fundamentals.
+
+---
+
+### 2026-10-29 03:19:00  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+Gundlach: baseline scenario may be a December rate hike.
+
+---
+
+### 2026-10-29 03:17:14  #MKT News #Macro & Rates #US10Y #Impact mixed
+
+Gundlach: October interest rates faced genuine pressure but were eased by rebalancing operations.
+
+---
+
+### 2026-10-29 03:15:18  #MKT News #Market Themes #AI Revolution #Macro & Rates #The Fed (FOMC)
+
+【Kevin Warsh to attend Nov. 16 hearing on AI's impact on productivity and employment】Federal Reserve Chair Kevin Warsh plans to attend an in-person hearing of the Fed Productivity and Employment Working Group on Nov. 16 in the San Francisco Bay Area to gather public input on technology, productivity and implications for monetary policy. Warsh said the session will assess how AI-driven productivity gains could affect the economy over the short, medium and long term, including whether they will make achieving price stability easier or harder and what the effects on employment may be. The hearing will be held publicly.
+
+---
+
+### 2026-10-29 03:14:38  #MKT News #WTI #Impact mixed #Brent
+
+【Axios: Saudi asks Trump not to rush to war, allow more time for talks】Axios reports Qatar is leading mediation between the U.S. and Iran with support from Pakistan, Saudi Arabia, Egypt and Turkey. Qatar negotiator Ali al-Thawadi visited Tehran earlier this week to discuss a potential deal with the Trump administration. Washington has demanded Iran surrender its enriched uranium stockpile; Iran insists the U.S. first lift a maritime blockade and release frozen Iranian funds. Mediators warned Iran that accepting such proposals could be the only way to avoid large-scale strikes after the U.S. midterms. Saudi, Turkish and Pakistani security officials conveyed the same message during recent visits to Tehran. A U.S. official said Saudi officials told the White House Iran fears U.S. and Israeli strikes after the midterms and asked Trump not to rush into war but to give negotiations more time.
+
+---
+
+### 2026-10-29 03:13:31  #MKT News #Macro & Rates #The Fed (FOMC) #Commodities #Energy #US10Y #Impact bullish #DXY
+
+【Fitch: Coming weeks' data likely to set stage for Fed December rate hike】Fitch chief economist Brian Coulton said data due in the coming weeks are likely to provide the Fed with the signals needed to raise rates in December: strong unit-profit growth, elevated energy prices and a broadening of inflation over the past year point to upside risks for the US inflation outlook, despite recent stability in core CPI.
+
+---
+
+### 2026-10-29 03:13:05  #MKT News #Market Themes #AI Revolution #Macro & Rates #The Fed (FOMC) #Nasdaq100 #Impact bearish #US10Y #DXY #Impact bullish
+
+【Warsh: AI boom not immune to interest-rate pressure】Federal Reserve chair Kevin Warsh said he disagrees that US AI expansion can remain unaffected by rising borrowing costs, flagging recent turbulence in the riskiest segments of equity and bond markets. Interest rates, he said, "affect almost everything directly or indirectly." He added market participants are more cautious in investment choices and that credit spreads on some assets are widening, with clear gaps emerging.
+
+---
+
+### 2026-10-29 03:12:42  #MKT News #Important #ORCL.N #Impact bullish
+
+Oracle (ORCL.N) extended gains after issuing earnings guidance, trading up more than 12%.
+
+---
+
+### 2026-10-29 03:11:57  #國際
+
+【特朗普指控民主黨在阿拉斯加拉攏同名候選人干擾選舉】美國總統特朗普在真相社交平臺發文稱，現已查實阿拉斯加民主黨非法物色並招募一名名為丹・沙利文的人參選，以此混淆選票、分流現任共和黨參議員丹・沙利文的選票。《紐約時報》報道顯示，民主黨方面一直否認與這名同名候選人有關聯，但佩爾托拉競選團隊以及參議院民主黨競選委員會工作人員參與了長達數月的秘密招募計劃，同時還招募了其他候選人。特朗普表示，民主黨人員在聯邦法庭宣誓後作出虛假陳述，已經構成偽證，應當承擔嚴重後果。他認為佩爾托拉必須為此承擔法律與政治責任，該行為屬於欺騙美國民眾，並要求選票上剔除佩爾托拉以及這名 “假丹・沙利文”，讓真正的丹・沙利文參選。
+
+---
+
+### 2026-10-29 03:11:12  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
+
+【Warsh: Economy strong, jobs excellent; Fed focus remains on price stability】Fed Chair Kevin Warsh said recent Fed discussions have been “mainly focused on price stability within our remit.” He described progress toward the Fed’s full-employment goal as “quite positive,” noting the unemployment rate is down year-on-year and the four-week average of initial jobless claims is at generational lows. Warsh said economic growth has strengthened, with 1H GDP revised up from 1.8% to 2.4% and Q3 appearing to run faster.
+
+---
+
+### 2026-10-29 03:10:07  #MKT News #Macro & Rates #The Fed (FOMC) #DXY
+
+【Kevin Warsh: US midterms did not affect Fed decision】Fed Chair Kevin Warsh said political factors did not influence the Fed’s decision to keep rates unchanged, noting he spent two days with colleagues and heard no discussion of politics, the Nov. 3 midterm elections, or near-term events. He said he believes the election had no impact on the final decision for him or his colleagues.
+
+---
+
+### 2026-10-29 03:09:31  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh's press conference has ended.
+
+---
+
+### 2026-10-29 03:09:21  #市場
+
+甲骨文股價在釋出業績指引後延續漲勢，最新上漲約12.6%。
+
+---
+
+### 2026-10-29 03:09:17  #MKT News #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish #DXY #Impact bearish #US10Y #Impact mixed
+
+【Wall Street economist: Today's Fed decision will push inflation further above target】Investor Peter Schiff said the federal funds rate remains too low to rein in rising inflation, that only two of the FOMC’s 12 members voted to support a hike, and that even a 25bp increase would be too little and too late — today's decision will drive inflation further above the Fed's 2% target.
+
+---
+
+### 2026-10-29 03:09:09  #市場 #央行 #焦點 #國際
+
+【美聯儲主席沃什10月28日新聞釋出會要點總結】
+一、貨幣政策目標與抗通脹決心（核心表態）。
+堅定的政策立場：沃什強調美聯儲將“毫無疑問”（No ifs and or buts）地交付價格穩定，明確表示不存在“軟性通脹目標”。錨定 2% 目標：明確價格穩定的具體目標是以 PCE（個人消費支出價格指數）衡量的 2%。通脹預期管理：儘管近期通脹預期有所上升，但長期指標顯示家庭和企業依然對美聯儲實現價格穩定充滿信心。
+二、利率對新技術（AI）及資本支出的傳導影響。
+利率傳導機制顯現：沃什表示此前曾懷疑利率對人工智慧（AI）的影響，但事實證明“利率幾乎影響一切”。自 9 月初以來，在科技綜合體（Technology Complex）內部及外部，均已觀察到利率產生的作用。金融條件收緊與信貸利差：部分資產的信貸利差已有所擴大，部分金融狀況出現收緊。資本支出（CapEx）泛化：利率對新技術確實至關重要，目前資本支出的強勁勢頭正在拓寬，不再侷限於少數狹窄領域。
+三、市場動態與宏觀指標觀測。
+利率與油價脫鉤：沃什指出，直到最近，油價上漲與市場定價的利率之間一直保持著穩定的相關性，但近期利率已轉向下行，同時他也注意到原油期貨價格有所上漲。評估工作組進展：美聯儲內部設有的五個工作組（包括生產力工作組等）正在推進工作，部分結論將於年底前出爐，但其結論不太可能在當前的政策節點（Policy Juncture）上有所體現。未來一段時期將包含豐富的資訊。
+四、獨立性與政治中立（回應中期選舉）。
+政治化決定：針對即將到來的中期選舉，沃什明確強調政治考量在本次利率決議中沒有發揮任何作用。不僅對他個人而言如此，對 FOMC 其它同事亦是如此，在為期兩天的 FOMC 審議中完全沒有提及政治或選舉。
+
+---
+
+### 2026-10-29 03:07:59  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y
+
+【Kevin Warsh defends Fed's resolve to fight inflation】Fed Chair Kevin Warsh rejected the view that the Fed’s decision today not to raise rates signals weakened resolve on inflation. He said the Fed will not adopt a looser inflation target and warned that inflation’s full impact on consumers can take up to six years to emerge. Warsh noted consumers are already feeling pressure from higher fuel costs and that near-term inflation expectations are rising, but said households and firms remain confident in the Fed’s ability to maintain price stability.
+
+---
+
+### 2026-10-29 03:07:35  #央行 #國際
+
+【沃什對“是否需要進一步加息”的問題避而不答】美聯儲主席沃什迴避了一個問題，即當前的利率水平是否已經足夠合適。他表示：“各方普遍認為，我們此前採取的行動已開始顯現出一定成效。”但他同時補充道，對於未來是否還需要進一步加息，目前尚未得出明確結論。
+
+---
+
+### 2026-10-29 03:07:29  #MKT News #Macro & Rates
+
+【Fed Chair Kevin Warsh declines to say whether further rate hikes are needed】Fed Chair Kevin Warsh declined to say whether the current policy rate is sufficiently appropriate. He said market participants generally believe earlier tightening has begun to show some effect, but added there is no definitive conclusion yet on whether further rate hikes will be necessary.
+
+---
+
+### 2026-10-29 03:06:57  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed Chair Kevin Warsh said financial conditions are tightening, signaling that policy is working and that he is not concerned.
+
+---
+
+### 2026-10-29 03:06:32  #公司
+
+空客CEO：我們已根據將從普惠和CFM獲得的發動機數量調整了生產計劃。
+
+---
+
+### 2026-10-29 03:06:27  #MKT News
+
+Kevin Warsh said the Fed, to his knowledge, will not participate in legal proceedings involving Fed Governor Cook.
+
+---
+
+### 2026-10-29 03:06:18  #公司
+
+空客CEO：我們不會在2027年額外增加庫存，假設屆時到2028年我們能獲得更多發動機。
+
+---
+
+### 2026-10-29 03:05:50  #央行 #國際
+
+提醒：美聯儲主席沃什新聞釋出會結束，下一輪FOMC貨幣政策會議將於12月8-9日舉行。
+
+---
+
+### 2026-10-29 03:05:47  #MKT News #DXY #Impact bullish #US10Y #S&P500 #Impact mixed
+
+Federal Reserve Chair Kevin Warsh said he judges productivity has already improved.
+
+---
+
+### 2026-10-29 03:05:35  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the Fed's goal is not to put obstacles in the way of the economy.
+
+---
+
+### 2026-10-29 03:05:32  #市場 #國際
+
+10年期美國國債收益率最新上漲4.11個基點，至5.034%。
+
+---
+
+### 2026-10-29 03:05:21  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
+
+Fed Chairman Kevin Warsh said he does not think it is necessary to let people lose their jobs.
+
+---
+
+### 2026-10-29 03:05:12  #央行 #國際
+
+美聯儲主席沃什：被問及針對美聯儲理事庫克的程式時表示，據其所知，美聯儲不會參與其中。
+
+---
+
+### 2026-10-29 03:05:01  #MKT News #Market Themes #AI Revolution
+
+Federal Reserve chair Kevin Warsh said most productivity changes occurred before the emergence of artificial intelligence.
+
+---
+
+### 2026-10-29 03:04:57  #央行 #國際
+
+美聯儲主席沃什：這表明我們的政策正在發揮作用，對此並不感到不安。
+
+---
+
+### 2026-10-29 03:04:41  #央行 #焦點 #國際
+
+美聯儲主席沃什：我們正在收緊金融條件。
+
+---
+
+### 2026-10-29 03:04:24  #央行 #國際
+
+美聯儲主席沃什：目標不是給經濟運轉製造障礙。
+
+---
+
+### 2026-10-29 03:04:20  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #Impact mixed #DXY
+
+Federal Reserve chair Kevin Warsh said economic growth has picked up, but that does not mean it is triggering inf.
+
+---
+
+### 2026-10-29 03:04:08  #央行 #國際
+
+美聯儲主席沃什：經濟增長有所加快，但這並不意味著經濟增長正在引發通脹。
+
+---
+
+### 2026-10-29 03:03:57  #央行 #國際
+
+美聯儲主席沃什：經濟是過熱還是強勁？這並非我多數同事的判斷。
+
+---
+
+### 2026-10-29 03:03:55  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chairman Kevin Warsh said productivity has been rising.
+
+---
+
+### 2026-10-29 03:03:41  #央行 #國際
+
+美聯儲主席沃什：生產率持續走高。
+
+---
+
+### 2026-10-29 03:03:20  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+Federal Reserve Chair Kevin Warsh said the economy is performing strongly and is moving in the right direction.
+
+---
+
+### 2026-10-29 03:03:15  #央行 #國際
+
+美聯儲主席沃什：經濟正朝著正確方向發展。
+
+---
+
+### 2026-10-29 03:03:07  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said the Fed's measurement of the size of the aggregate demand curve is imperfect.
+
+---
+
+### 2026-10-29 03:03:05  #央行 #國際
+
+美聯儲主席沃什：經濟表現強勁。
+
+---
+
+### 2026-10-29 03:03:00  #央行 #國際
+
+美聯儲主席沃什：我們對總需求曲線規模的衡量並不完善。
+
+---
+
+### 2026-10-29 03:02:25  #MKT News #Important
+
+Fed Chair Kevin Warsh said the market impact of the Fed's September rate hike largely matched expectations.
+
+---
+
+### 2026-10-29 03:02:21  #央行 #國際
+
+美聯儲主席沃什：加息對市場的影響大體上符合預期。
+
+---
+
+### 2026-10-29 03:02:03  #央行 #國際
+
+美聯儲主席沃什：當我們取消一劑寬鬆措施時，其對金融市場狀況的影響與預期一致。
+
+---
+
+### 2026-10-29 03:01:57  #MKT News
+
+Cuba's foreign minister said U.S. government-issued, highly limited licenses creating a few exceptions to the embargo are stringent and costly, and that those exceptions do not negate the embargo but confirm its existence.
+
+---
+
+### 2026-10-29 03:01:54  #央行 #國際
+
+美聯儲主席沃什：資產負債表建議可能會在第一季度初出爐。
+
+---
+
+### 2026-10-29 03:01:53  #MKT News
+
+Cuba's foreign minister said the US government has no right or privilege to govern the Cuban people, interfere in Cuba's internal affairs, determine Cuba's destiny, impose its will on Cubans, appropriate Cuban wealth, or control Cuban territory.
+
+---
+
+### 2026-10-29 03:01:29  #央行 #國際
+
+美聯儲主席沃什：我對韓國的關注比你想象的要密切得多。很高興韓國央行行長仍在任，我認識他已有20年，是好朋友。
+
+---
+
+### 2026-10-29 03:01:06  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said any adjustments to the Fed's balance sheet will be made only after careful consideration of the working group's recommendations.
+
+---
+
+### 2026-10-29 03:01:06  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the Fed's balance sheet is currently managed solely within an internal special working group.
+
+---
+
+### 2026-10-29 03:01:05  #央行 #國際
+
+美聯儲主席沃什：資產負債表如有任何調整，都將在認真考慮特別工作組的建議之後進行。
+
+---
+
+### 2026-10-29 03:01:03  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #XAUUSD
+
+Fed Chairman KEVIN WARSH said the balance-sheet working group's recommendations will be submitted to the Federal Open Market Committee in early Q1 next year.
+
+---
+
+### 2026-10-29 03:00:50  #央行 #國際
+
+美聯儲主席沃什：如果我們決定調整資產負債表，這在本政策節點上不太可能產生任何影響。
+
+---
+
+### 2026-10-29 03:00:45  #MKT News
+
+The Turkish presidential office said Erdogan told Trump Turkey is closely monitoring developments in the Strait of Hormuz and in Yemen and is pursuing a diplomatic resolution.
+
+---
+
+### 2026-10-29 03:00:31  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said he was pleased the Bank of Korea governor remains in office, adding he has known him for 20 years and is a good friend.
+
+---
+
+### 2026-10-29 03:00:25  #MKT News
+
+Turkish presidency said ERDOGAN held a phone call with Trump to discuss regional and global developments.
+
+---
+
+### 2026-10-29 03:00:03  #市場
+
+恒指期貨夜盤收漲0.16%，報23087.48點，低水7.35點。
+
+---
+
+### 2026-10-29 02:59:54  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh said he is paying closer attention to South Korea than markets may expect.
+
+---
+
+### 2026-10-29 02:59:34  #央行 #國際
+
+美聯儲主席沃什：不會就12月將發生的情況發表看法。
+
+---
+
+### 2026-10-29 02:59:29  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh: By then we may have learned much more and will be better positioned to determine the correct policy decision.
+
+---
+
+### 2026-10-29 02:59:22  #國際
+
+土耳其總統埃爾多安告訴特朗普，土耳其正密切關注霍爾木茲海峽和葉門的事態發展，並正努力在外交基礎上解決問題。
+
+---
+
+### 2026-10-29 02:59:00  #央行 #國際
+
+美聯儲主席沃什：我們可能會瞭解到很多情況，下次會議時能處於更有利的位置。
+
+---
+
+### 2026-10-29 02:58:55  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chair Kevin Warsh said he will not share his view on what will happen in December.
+
+---
+
+### 2026-10-29 02:58:53  #央行 #國際
+
+美聯儲主席沃什：我不認同對會議預設結論的做法。
+
+---
+
+### 2026-10-29 02:58:26  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said not to pre-judge the meeting outcome.
+
+---
+
+### 2026-10-29 02:58:19  #央行 #國際
+
+美聯儲主席沃什：未來一段時間將是資訊豐富的時期，但與政治無關。
+
+---
+
+### 2026-10-29 02:58:19  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh: Do not trust forward guidance unless a crisis occurs.
+
+---
+
+### 2026-10-29 02:57:48  #央行 #焦點 #國際
+
+美聯儲主席沃什談人工智慧投資：利率幾乎直接或間接影響一切。
+
+---
+
+### 2026-10-29 02:57:37  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said political factors have not influenced Fed decision-making.
+
+---
+
+### 2026-10-29 02:57:34  #央行 #國際
+
+美聯儲主席沃什：政治因素沒有發揮任何作用，不僅對我而言，對同僚也是如此。
+
+---
+
+### 2026-10-29 02:57:29  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh said interest rates are critical to the surge in technology investment.
+
+---
+
+### 2026-10-29 02:57:26  #市場 #國際
+
+美國30年期國債收益率最新上漲6.47個基點，至5.37%。
+
+---
+
+### 2026-10-29 02:57:25  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Oracle Shares Hit 5-week High — Oracle shares increased to 147.37 USD, the highest since September 2026. Over the past 4 weeks, Oracle gained 6.23%, and in the last 12 months, it decreased 46.83%.
+
+---
+
+### 2026-10-29 02:57:13  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said he had previously been skeptical of the view that interest rates would not affect the AI sector.
+
+---
+
+### 2026-10-29 02:57:11  #央行 #國際
+
+美聯儲主席沃什：在聯邦公開市場委員會的審議中，沒有聽到任何涉及政治或選舉的內容。
+
+---
+
+### 2026-10-29 02:57:01  #市場 #國際
+
+美國兩年期和十年期國債收益率利差擴大至31.6個基點。
+
+---
+
+### 2026-10-29 02:56:54  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Copper #DXY #Impact bearish
+
+Federal Reserve Chair Kevin Warsh said capital spending's strong performance is no longer confined to a few sectors.
+
+---
+
+### 2026-10-29 02:56:51  #央行 #焦點 #國際
+
+美聯儲主席沃什：（被問及中期選舉是否影響利率決議時）政治因素未發揮任何作用。
+
+---
+
+### 2026-10-29 02:56:36  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #DXY #Impact bullish #XAUUSD #Impact mixed
+
+Fed Chair Kevin Warsh said some asset credit spreads have widened and some financial conditions have tightened.
+
+---
+
+### 2026-10-29 02:56:34  #國際
+
+土耳其埃爾多安辦公室：總統埃爾多安與特朗普通電話，討論地區和全球發展問題。
+
+---
+
+### 2026-10-29 02:56:24  #央行 #國際
+
+美聯儲主席沃什：資本支出的強勁增長不再侷限於少數領域。
+
+---
+
+### 2026-10-29 02:56:13  #央行 #國際
+
+美聯儲主席沃什：資本支出正在擴大。
+
+---
+
+### 2026-10-29 02:56:11  #MKT News #Macro & Rates #The Fed (FOMC) #Nasdaq100 #Impact bearish #S&P500
+
+Fed chair Kevin Warsh said since early September interest-rate moves have affected both the technology sector and broader markets.
+
+---
+
+### 2026-10-29 02:56:10  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #DXY #Impact bullish #XAUUSD
+
+Fed Chairman Kevin Warsh said credit spreads have widened.
+
+---
+
+### 2026-10-29 02:56:07  #央行 #國際
+
+美聯儲主席沃什：利率對新技術確實有影響。
+
+---
+
+### 2026-10-29 02:55:59  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chair Kevin Warsh said interest rates affect almost everything.
+
+---
+
+### 2026-10-29 02:55:45  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said most indicators show markets still have confidence in the Fed, but not all indicators do.
+
+---
+
+### 2026-10-29 02:55:37  #央行 #國際
+
+美聯儲主席沃什：部分資產的信用利差已經擴大，部分金融條件有所收緊。
+
+---
+
+### 2026-10-29 02:55:23  #央行 #國際
+
+美聯儲主席沃什：長期來看，多數指標顯示市場相信央行將實現物價穩定。
+
+---
+
+### 2026-10-29 02:55:14  #央行 #國際
+
+美聯儲主席沃什：自9月初以來，我們看到在科技板塊內外，利率都已產生影響。
+
+---
+
+### 2026-10-29 02:54:52  #央行 #國際
+
+美聯儲主席沃什：我曾懷疑利率不會對人工智慧產生影響。
+
+---
+
+### 2026-10-29 02:54:49  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Move Higher After Fed Chair Warsh Press Conference — US stocks moved higher on Wednesday, with the S&P 500 rising 0.4%, the Nasdaq gaining 0.3% and the Dow Jones advancing 170 points, as investors digested the latest FOMC decision and comments from Fed Chair Warsh. As expected, the Fed left interest rates unchanged, although two policymakers dissented in favor of a 25bps rate hike. Chair Warsh struck a confident tone on inflation expectations, suggesting they remain well anchored, and announced changes to the Fed’s meeting schedule beginning next year. Meanwhile, corporate earnings remained in focus. Microsoft (-0.5%) and Alphabet (+1.6%) are due to report results after the closing bell. Alphabet also benefited from news that OpenAI intends to buy AI computing chips from Google. Record quarterly profits from SK Hynix also boosted some semicon stocks including Micron Technology (5.6%) and AMD (2.6%). In contrast, Apple fell 0.8% despite unveiling a revamped MacBook Pro featuring a touchscreen. Meta went down 1.2% and Tesla fell 1%.
+
+---
+
+### 2026-10-29 02:54:43  #央行 #國際
+
+美聯儲主席沃什：利率幾乎影響一切。
+
+---
+
+### 2026-10-29 02:54:40  #MKT News
+
+Fed Chair KEVIN WARSH said short-term inf expectations have risen somewhat, but long-term indicators show households and firms remain confident the Fed will achieve price stability.
+
+---
+
+### 2026-10-29 02:54:36  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY #Impact bearish
+
+KEVIN WARSH said as oil prices continue to rise, U.S. interest rates have already declined.
+
+---
+
+### 2026-10-29 02:54:07  #MKT News #Commodities #Energy #Macro & Rates #The Fed (FOMC) #WTI #Impact bullish
+
+Fed Chair Kevin Warsh said he noted oil futures have already risen.
+
+---
+
+### 2026-10-29 02:53:50  #市場 #央行 #國際
+
+美聯儲主席沃什：我注意到石油期貨價格已經上漲。
+
+---
+
+### 2026-10-29 02:53:30  #市場 #央行 #焦點 #國際
+
+美聯儲主席沃什：隨著油價持續上漲，利率已經回落。
+
+---
+
+### 2026-10-29 02:53:17  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chairman Kevin Warsh said the Fed had just undergone a heated internal debate.
+
+---
+
+### 2026-10-29 02:53:12  #央行 #焦點 #國際
+
+美聯儲主席沃什：利率已轉為下行。
+
+---
+
+### 2026-10-29 02:53:01  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Federal Reserve Chair Kevin Warsh said there is no "soft target" for the inflation goal and that the PCE-based price-stability target is 2%.
+
+---
+
+### 2026-10-29 02:52:49  #央行 #國際
+
+美聯儲主席沃什：大多數指標（但並非所有指標）顯示出對美聯儲的信心。
+
+---
+
+### 2026-10-29 02:52:11  #央行 #國際
+
+美聯儲主席沃什：近期通脹預期有所上升，但長期指標顯示家庭和企業相信美聯儲將實現物價穩定。
+
+---
+
+### 2026-10-29 02:51:40  #MKT News #CM.TO #Impact bullish #DXY #Impact bearish #XAUUSD
+
+CIBC raised its prime lending rate to 4.70% effective Oct. 29, 2026.
+
+---
+
+### 2026-10-29 02:51:17  #央行 #國際
+
+美聯儲主席沃什：以PCE衡量的物價穩定目標為2%。
+
+---
+
+### 2026-10-29 02:50:56  #央行 #國際
+
+美聯儲主席沃什：不存在寬鬆或隱含的通脹目標。
+
+---
+
+### 2026-10-29 02:50:47  #央行 #國際
+
+美聯儲主席沃什：我們剛剛經歷了一場激烈的內部爭論。
+
+---
+
+### 2026-10-29 02:50:41  #MKT News
+
+Fed Chairman Kevin Warsh said he would not respond when asked about Trump's comments on the Federal Reserve Board.
+
+---
+
+### 2026-10-29 02:50:34  #央行 #國際
+
+美聯儲主席沃什被問及特朗普對美聯儲理事會的評論時表示：很榮幸能成為這個團隊的一員，也很榮幸能擔任其主席。
+
+---
+
+### 2026-10-29 02:50:29  #MKT News #DXY #Impact bullish #Brent #S&P500 #Impact bearish
+
+Dutch foreign minister said Ukraine's security is the Netherlands' security, and as Russia steps up attacks Europe must demonstrate Ukraine can rely on it. The Netherlands will continue working with partners to deliver the support Ukraine needs.
+
+---
+
+### 2026-10-29 02:50:21  #央行 #國際
+
+美聯儲主席沃什被問及特朗普對美聯儲理事會的評論時表示，聯邦公開市場委員會（FOMC）內部曾有過爭論，但最終就當前形勢作出了正確的政策決定。
+
+---
+
+### 2026-10-29 02:50:00  #市場 #國際
+
+美國兩年期國債收益率在沃什發表言論後轉跌；最新下跌3.75個基點，至4.7%。
+
+---
+
+### 2026-10-29 02:49:56  #央行 #國際
+
+美聯儲主席沃什被問及特朗普對美聯儲的批評時表示，不會回應公職官員的言論。
+
+---
+
+### 2026-10-29 02:49:49  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chair Kevin Warsh said he may speak briefly at the Nov. 16 in-person hearing.
+
+---
+
+### 2026-10-29 02:49:38  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chair Kevin Warsh said the working group's conclusions are unlikely to be reflected at this policy meeting.
+
+---
+
+### 2026-10-29 02:49:36  #MKT News
+
+KEVIN WARSH will attend an in-person hearing of the Productivity Task Force on Nov. 16 (local time).
+
+---
+
+### 2026-10-29 02:48:41  #MKT News
+
+Federal Reserve chairman Kevin Warsh said some working groups will complete their work by year-end.
+
+---
+
+### 2026-10-29 02:48:23  #央行 #國際
+
+美聯儲主席沃什：我可能在11月16日的現場聽證會上有幾句話要說。
+
+---
+
+### 2026-10-29 02:48:09  #央行 #國際
+
+美聯儲主席沃什：生產力和就業特別工作組定於11月16日舉行實地聽證會。
+
+---
+
+### 2026-10-29 02:47:57  #央行 #國際
+
+美聯儲主席沃什：特別工作組的結論不太可能在這一政策節點被納入考量。
+
+---
+
+### 2026-10-29 02:47:49  #央行 #國際
+
+美聯儲主席沃什：部分工作組將按期在年底前完成。
+
+---
+
+### 2026-10-29 02:47:11  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair KEVIN WARSH said the working group is working intensively and its rigorous approach is impressive.
+
+---
+
+### 2026-10-29 02:47:06  #央行 #焦點 #國際
+
+【美聯儲主席沃什說FOMC日程安排將從明年秋季開始改變】美聯儲主席凱文·沃什表示，將從明年開始逐步實施調整後的會議時間表。“我們認為，聯邦公開市場委員會每年開八次會是合適的次數，” 沃什週三在記者會上說。儘管物價壓力持續存在且經濟展現強勁跡象，當天決策層以10比2的表決結果決定維持利率不變。沃什在7月的會議上首次提出將美聯儲年度政策會議從8次減少到6次的想法。會議紀要顯示，他當時指出，減少會議頻率可以讓更多的資訊和資料在此間得以積累。
+
+---
+
+### 2026-10-29 02:47:05  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chair Kevin Warsh said the decision to adopt a new format for FOMC meetings was made recently and specific details have yet to be announced.
+
+---
+
+### 2026-10-29 02:47:05  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+【Kevin Warsh: credit conditions have tightened but he won’t call it tightening】Federal Reserve chair Kevin Warsh said inflation remains "too high" and the Fed is not satisfied with progress. He said Q3 growth appears to have accelerated, supported by strong consumer spending and business investment, with high‑tech investment leading. The labor market remains tight, with low unemployment and continued payroll gains. Warsh noted credit conditions have tightened since the last rate hike but said he "neither wants nor can" describe that as "tightening". He added that lowering inflation is the Fed's responsibility.
+
+---
+
+### 2026-10-29 02:47:04  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Federal Reserve Chair Kevin Warsh said the Fed will achieve price stability with no excuses or conditions.
+
+---
+
+### 2026-10-29 02:46:35  #其他
+
+葡萄牙議會一讀透過2027年預演算法案。
+
+---
+
+### 2026-10-29 02:46:27  #央行 #國際
+
+美聯儲主席沃什：五個工作組正在加緊工作，已進行定期檢查。
+
+---
+
+### 2026-10-29 02:46:08  #央行 #國際
+
+美聯儲主席沃什：目前尚不清楚新會議將得出什麼結果。
+
+---
+
+### 2026-10-29 02:45:50  #央行 #國際
+
+美聯儲主席沃什：我們將實現物價穩定，沒有任何藉口。
+
+---
+
+### 2026-10-29 02:45:50  #MKT News
+
+Fed Chairman Kevin Warsh said he is not omniscient and does not continually send policy signals to the market.
+
+---
+
+### 2026-10-29 02:45:35  #央行 #國際
+
+美聯儲主席沃什：關於新會議的形式，將有更多訊息公佈。
+
+---
+
+### 2026-10-29 02:45:15  #市場
+
+布倫特原油期貨結算價為每桶 115.32 美元，上漲 1.44 美元，漲幅 1.26%。
+
+---
+
+### 2026-10-29 02:45:04  #MKT News #Macro & Rates
+
+Fed Chair Kevin Warsh said the Fed will assess current conditions and decide whether to provide clearer guidance in the near term; he judged the outlook would become clearer over that period.
+
+---
+
+### 2026-10-29 02:45:00  #央行 #國際
+
+美聯儲主席沃什：聯邦公開市場委員會會議新形式的相關決定是新作出的，具體細節仍有待公佈。
+
+---
+
+### 2026-10-29 02:44:52  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said he has 18 fairly independent colleagues.
+
+---
+
+### 2026-10-29 02:44:35  #央行 #國際
+
+美聯儲主席沃什：我並非那種無所不知、向外傳遞資訊的人。
+
+---
+
+### 2026-10-29 02:44:28  #市場
+
+現貨黃金轉漲，最後上漲0.2%，報4,066.39美元/盎司。
+
+---
+
+### 2026-10-29 02:44:21  #市場 #央行 #國際
+
+美聯儲理事沃什發表講話期間，標普500指數上漲，最新漲幅約為0.4%。
+
+---
+
+### 2026-10-29 02:44:14  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+【Fed Chair Kevin Warsh to adjust FOMC schedule; 2027 to include one non-voting strategy meeting】Federal Reserve Chair Kevin Warsh said the Fed will adjust FOMC meeting arrangements starting next autumn while keeping eight meetings a year. In 2027 the Fed will still hold eight meetings, but one will be a non‑voting session dedicated to policy strategy rather than a vote on the policy rate. In 2028 two of the eight meetings will be strategy sessions without policy‑rate votes; those sessions will not be formal policy decision meetings.
+
+---
+
+### 2026-10-29 02:44:14  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+Fed Chair Kevin Warsh said the FOMC's prevailing judgment is that the monetary policy "prescription" is beginning to take effect.
+
+---
+
+### 2026-10-29 02:43:40  #市場
+
+甲骨文股價持續攀升，目前上漲12%。
+
+---
+
+### 2026-10-29 02:43:22  #央行 #國際
+
+美聯儲主席沃什：普遍共識是貨幣政策這劑藥開始見效。
+
+---
+
+### 2026-10-29 02:42:54  #央行 #焦點 #國際
+
+美聯儲主席沃什：目前對貨幣政策尚無明確結論。
+
+---
+
+### 2026-10-29 02:42:51  #MKT News
+
+Federal Reserve Chair Kevin Warsh said recent incoming data have been plentiful and the progress achieved so far is encouraging.
+
+---
+
+### 2026-10-29 02:42:45  #央行 #國際
+
+美聯儲主席沃什：我們決定評估當前形勢，並判斷未來一段時間是否會提供更多明確資訊，我們的判斷是會的。
+
+---
+
+### 2026-10-29 02:42:40  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said he is satisfied with these signals.
+
+---
+
+### 2026-10-29 02:42:37  #其他
+
+甲骨文首席財務官表示，完成當前投資週期所需的資本已定為200億美元，由債務和股權平均分擔。
+
+---
+
+### 2026-10-29 02:42:36  #MKT News #Important #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish #DXY #Impact bearish #S&P500
+
+Federal Reserve Chair Kevin Warsh said amid global turmoil, inflation expectations have been moving in the right direction.
+
+---
+
+### 2026-10-29 02:42:34  #市場
+
+【費城半導體指數日內漲2%】費城半導體指數日內漲2.00%，現報11712.62點。英偉達跌0.19%，博通漲2.66%，美光漲5.45%，英特爾漲1.86%，AMD漲3.10%，高通跌0.86%，臺積電漲0.81%，阿斯麥漲2.06%。
+
+---
+
+### 2026-10-29 02:42:27  #央行 #國際
+
+美聯儲主席沃什：聯邦公開市場委員會絕大多數成員判斷，貨幣政策的藥效（作用）正開始顯現。
+
+---
+
+### 2026-10-29 02:42:18  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+Federal Reserve Chair Kevin Warsh said the Fed has implemented a 'new monetary therapy.' Inflation compensation as measured by inflation swaps is trending in a favorable direction.
+
+---
+
+### 2026-10-29 02:42:15  #市場
+
+歐元兌美元漲幅擴大，凱文·沃什發表講話，最新上漲0.27%，報1.1156美元。
+
+---
+
+### 2026-10-29 02:42:09  #市場
+
+美元兌日元回吐漲幅，現上漲0.05%，報158.03日元。
+
+---
+
+### 2026-10-29 02:42:04  #市場 #央行 #國際
+
+美聯儲決議公佈後，主席凱文·沃什發表講話，美元指數跌幅擴大，最新下跌0.21%，報102.16。
+
+---
+
+### 2026-10-29 02:41:38  #央行 #其他 #焦點
+
+阿聯酋央行將基準利率維持在3.9%不變。
+
+---
+
+### 2026-10-29 02:41:24  #央行 #國際
+
+美聯儲主席沃什：對已取得的進展感到鼓舞。
+
+---
+
+### 2026-10-29 02:41:16  #央行 #國際
+
+美聯儲主席沃什：我們正致力於實現物價穩定。
+
+---
+
+### 2026-10-29 02:40:59  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said achieving price stability is not tied to any specific calendar date.
+
+---
+
+### 2026-10-29 02:40:51  #央行 #國際
+
+美聯儲主席沃什：我對這些訊號感到滿意。
+
+---
+
+### 2026-10-29 02:40:51  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Fed Chair Kevin Warsh said the Fed removed one easing measure in September.
+
+---
+
+### 2026-10-29 02:40:45  #央行 #國際
+
+美聯儲主席沃什：在動盪的國際環境下，通脹預期已朝正確方向發展。
+
+---
+
+### 2026-10-29 02:40:34  #央行 #國際
+
+美聯儲主席沃什：互換市場衡量的通脹補償正朝著正確方向發展。
+
+---
+
+### 2026-10-29 02:40:25  #央行 #國際
+
+美聯儲主席沃什：9 月份我們取消了一部分寬鬆政策。
+
+---
+
+### 2026-10-29 02:40:01  #MKT News #Commodities #Energy #Macro & Rates #The Fed (FOMC) #WTI #Impact bullish #Brent
+
+Federal Reserve Chairman Kevin Warsh said energy and related prices have risen in recent weeks.
+
+---
+
+### 2026-10-29 02:39:54  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
+
+Federal Reserve Chair KEVIN WARSH said he has made clear the Fed stands ready to act. Near-term incoming data will help determine where the Fed wants policy to be.
+
+---
+
+### 2026-10-29 02:39:41  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Analyst Chris Anstey said he had previously learned that Fed chair Kevin Warsh proposed adjusting the number of rate-decision meetings to six per year, with two additional meetings reserved for broader economic and policy discussion.
+
+---
+
+### 2026-10-29 02:39:31  #央行 #焦點 #國際
+
+美聯儲主席沃什：預計2028年將有兩次會議不會進行利率表決。
+
+---
+
+### 2026-10-29 02:39:10  #央行 #國際
+
+美聯儲主席沃什：新的日程安排將影響審議的性質和質量。
+
+---
+
+### 2026-10-29 02:38:54  #市場 #央行 #國際
+
+現貨黃金在美聯儲理事沃什發表講話時縮減跌幅，最新下跌約 0.1%，報每盎司 4,054.53 美元。
+
+---
+
+### 2026-10-29 02:38:45  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said he expects two Fed meetings in 2028 will not include votes on interest rates.
+
+---
+
+### 2026-10-29 02:38:37  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said one meeting in 2027 will not include a vote on interest rates or a policy statement.
+
+---
+
+### 2026-10-29 02:38:30  #央行 #國際
+
+美聯儲主席沃什：確保物價穩定並非取決於日曆上的某個固定日期。
+
+---
+
+### 2026-10-29 02:38:24  #央行 #焦點 #國際
+
+美聯儲主席沃什：2027年將有一次會議專門討論廣義貨幣政策策略。
+
+---
+
+### 2026-10-29 02:38:17  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said eight meetings a year is appropriate.
+
+---
+
+### 2026-10-29 02:37:28  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+Sources say the U.S. Department of Justice is reviewing NVIDIA's acquisition of AI platform Hugging Face.
+
+---
+
+### 2026-10-29 02:37:23  #MKT News #Important #Macro & Rates
+
+Federal Reserve Chair Kevin Warsh said the Federal Open Market Committee will adjust its meeting schedule beginning next autumn.
+
+---
+
+### 2026-10-29 02:37:21  #其他
+
+甲骨文股價漲幅擴大至10%。
+
+---
+
+### 2026-10-29 02:37:11  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh expects six policy-setting meetings in 2028.
+
+---
+
+### 2026-10-29 02:37:10  #央行 #國際
+
+美聯儲主席沃什：為戰略審議預留時間和空間很重要，著眼於更長遠的時間範圍。
+
+---
+
+### 2026-10-29 02:37:02  #公司
+
+甲骨文公司首席財務官預計，2030財年非公認會計准則每股收益將超過21美元，營業利潤率將超過40%。
+
+---
+
+### 2026-10-29 02:36:53  #央行 #焦點 #國際
+
+美聯儲主席沃什：預計2028年將舉行6次政策制定會議。
+
+---
+
+### 2026-10-29 02:36:45  #MKT News #Macro & Rates #XAUUSD #Impact bullish #EURUSD #WTI
+
+Dollar index DXY fell over 20 points intraday and is trading at 102.21.
+
+---
+
+### 2026-10-29 02:36:39  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said the Fed's responsibility is to ensure relative price changes in certain sectors do not broaden.
+
+---
+
+### 2026-10-29 02:36:33  #央行 #焦點 #國際
+
+美聯儲主席沃什：聯邦公開市場委員會日程將從明年秋季起調整。
+
+---
+
+### 2026-10-29 02:36:21  #央行 #國際
+
+美聯儲主席沃什：一年召開8次會議是合適的次數。
+
+---
+
+### 2026-10-29 02:36:20  #MKT News
+
+Fed Chair Kevin Warsh said capital spending as a share of GDP is at historically high levels.
+
+---
+
+### 2026-10-29 02:36:16  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said he was not surprised by volatility in financial markets.
+
+---
+
+### 2026-10-29 02:36:14  #央行 #國際
+
+美聯儲主席沃什：未來一段時間的資訊將幫助我們確定政策方向。
+
+---
+
+### 2026-10-29 02:36:04  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chairman KEVIN WARSH said the committee held extensive discussions on geopolitical and technical issues.
+
+---
+
+### 2026-10-29 02:36:01  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Kevin Warsh said the C.BANK believes more data will help determine the appropriate policy stance to return inf to 2%.
+
+---
+
+### 2026-10-29 02:35:34  #央行 #國際
+
+美聯儲主席沃什：降低通貨膨脹是我們的責任。
+
+---
+
+### 2026-10-29 02:35:20  #央行 #國際
+
+美聯儲主席沃什：通貨膨脹太高了。
+
+---
+
+### 2026-10-29 02:35:10  #央行 #國際
+
+美聯儲主席沃什：我們已經開始看到金融狀況出現一些變化。
+
+---
+
+### 2026-10-29 02:35:08  #MKT News #DXY #Impact bullish #US10Y
+
+Federal Reserve Chair Kevin Warsh said economic growth has strengthened.
+
+---
+
+### 2026-10-29 02:34:58  #MKT News #Important #Commodities #Precious Metals #XAUUSD
+
+Spot gold briefly dipped then quickly recovered, swinging about $25 intraday and trading at $4,047.13/oz.
+
+---
+
+### 2026-10-29 02:34:57  #央行 #國際
+
+美聯儲主席沃什：對金融市場波動並不感到意外。
+
+---
+
+### 2026-10-29 02:34:51  #MKT News #Important #DXY #Impact bearish #S&P500 #Impact bullish #EURUSD
+
+Kevin Warsh said he was unwilling and unable to conclude that financial conditions are tight.
+
+---
+
+### 2026-10-29 02:34:45  #央行 #國際
+
+美聯儲主席沃什：委員會認為，更多資訊將有助於其確定適當的政策立場，以將通脹率恢復至2%。
+
+---
+
+### 2026-10-29 02:34:26  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #DXY #Impact bullish #XAUUSD
+
+Federal Reserve chair Kevin Warsh said market participants are exercising greater caution in capital allocation.
+
+---
+
+### 2026-10-29 02:34:23  #央行 #國際
+
+美聯儲主席沃什：既不願也無法斷言金融環境收緊。
+
+---
+
+### 2026-10-29 02:34:19  #MKT News #Important #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+Federal Reserve Chair Kevin Warsh said credit conditions have tightened.
+
+---
+
+### 2026-10-29 02:34:16  #央行 #國際
+
+美聯儲主席沃什：市場參與者在資本配置方面更具辨別力。
+
+---
+
+### 2026-10-29 02:34:03  #央行 #國際
+
+美聯儲主席沃什：信貸環境已收緊。
+
+---
+
+### 2026-10-29 02:34:03  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold slipped nearly $15 intraday, trading at $4,027.37/oz.
+
+---
+
+### 2026-10-29 02:34:01  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Fed chair Kevin Warsh said discussions centered on inflation.
+
+---
+
+### 2026-10-29 02:33:58  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+Fed chair Kevin Warsh said the Fed's duty is to reduce inf.
+
+---
+
+### 2026-10-29 02:33:57  #央行 #國際
+
+美聯儲主席沃什：美聯儲的討論主要集中在物價穩定的職責上。
+
+---
+
+### 2026-10-29 02:33:50  #央行 #國際
+
+美聯儲主席沃什：就業增長高於去年同期水平。
+
+---
+
+### 2026-10-29 02:33:39  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact mixed
+
+Fed Chair Kevin Warsh said Q3 GDP may exceed 3%.
+
+---
+
+### 2026-10-29 02:33:24  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed chair Kevin Warsh said labor market conditions are showing a positive trend.
+
+---
+
+### 2026-10-29 02:33:20  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Federal Reserve Chair Kevin Warsh said employment growth is higher than a year ago.
+
+---
+
+### 2026-10-29 02:33:05  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+KEVIN WARSH said the C.BANK is closely monitoring external developments and conditions have not become more accommodative.
+
+---
+
+### 2026-10-29 02:33:04  #市場
+
+鈀金期貨日內跌2%，現報1007.23美元/盎司。
+
+---
+
+### 2026-10-29 02:33:04  #市場 #焦點
+
+紐約期金失守4040美元/盎司，日內跌0.87%。
+
+---
+
+### 2026-10-29 02:33:02  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the committee will achieve price stability.
+
+---
+
+### 2026-10-29 02:32:58  #市場
+
+紐約期銀日內跌2%，現報53.42美元/盎司。
+
+---
+
+### 2026-10-29 02:32:58  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #Impact bearish
+
+Federal Reserve Chair Kevin Warsh said business investment may grow at a double-digit pace.
+
+---
+
+### 2026-10-29 02:32:47  #央行 #國際
+
+美聯儲主席沃什：委員會將實現物價穩定。
+
+---
+
+### 2026-10-29 02:32:42  #央行 #國際
+
+美聯儲主席沃什：國內支出一直保持韌性。
+
+---
+
+### 2026-10-29 02:32:39  #央行 #國際
+
+美聯儲主席沃什：經濟活動正在強勁步伐下擴張。
+
+---
+
+### 2026-10-29 02:32:20  #央行 #焦點 #國際
+
+美聯儲主席沃什：通脹仍處於高位。
+
+---
+
+### 2026-10-29 02:31:49  #國際
+
+兩名訊息人士稱，美國司法部正在審查英偉達收購人工智慧平臺Hugging Face的交易。
+
+---
+
+### 2026-10-29 02:31:39  #其他
+
+甲骨文漲幅擴大至9.2%。
+
+---
+
+### 2026-10-29 02:31:28  #其他
+
+甲骨文：資本配置的優先事項仍是維持投資級信用評級、支付股息以及為增長提供資金。
+
+---
+
+### 2026-10-29 02:30:48  #市場 #國際
+
+美國原油期貨結算價為每桶102.78美元，上漲2.88美元，漲幅2.88%。
+
+---
+
+### 2026-10-29 02:30:32  #公司
+
+甲骨文公司首席財務官表示，雲資料庫營收增速將遠超50%。
+
+---
+
+### 2026-10-29 02:30:15  #市場
+
+CoreWeave、Bloom Energy和Nebius股價升至盤中高點。
+
+---
+
+### 2026-10-29 02:30:01  #市場
+
+上期所原油期貨夜盤收漲2.09%，報737.50元人民幣/桶。滬金夜盤收跌0.23%，滬銀收跌1.53%。
+
+---
+
+### 2026-10-29 02:29:37  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Falls to 2025 Lows — Silver prices dropped more than 1% to $53.5 an ounce on Wednesday, reaching their lowest level since November 2025 as the US dollar held near a two-week high following the Federal Reserve’s decision to keep interest rates unchanged. The FOMC voted 10–2 to keep the target range for the federal funds rate at 3.75% to 4.00%, reiterating its commitment to curbing inflation while offering little clarity on the possibility of another hike in December. Meanwhile, oil prices advanced after an attack on a Saudi Arabian refinery raised concerns over potential supply disruptions. Geopolitical tensions also intensified after Axios reported that the US and Israel could launch large-scale strikes against Iran unless a last-minute agreement is reached. According to the CME FedWatch Tool, markets widely anticipate a second Federal Reserve rate hike this year in December.
+
+---
+
+### 2026-10-29 02:28:33  #公司
+
+甲骨文公司將2027財年至2030財年的額外融資額限制在200億美元以內。
+
+---
+
+### 2026-10-29 02:28:07  #其他 #焦點
+
+英國預算責任辦公室：英國生活水平在未來十年將停滯不前。
+
+---
+
+### 2026-10-29 02:27:30  #公司
+
+甲骨文公司首席財務官表示，資本支出將在2027財年和2028財年達到頂峰，2029財年將逐步下降。
+
+---
+
+### 2026-10-29 02:27:05  #其他
+
+甲骨文：2029財年淨債務與調整後EBITDA之比將低於3.5倍。
+
+---
+
+### 2026-10-29 02:26:55  #其他
+
+甲骨文表示，從2029財年開始，增長將依靠自有資金支援。
+
+---
+
+### 2026-10-29 02:26:36  #其他
+
+甲骨文設定2030財年長期營收目標為2250億美元以上。
+
+---
+
+### 2026-10-29 02:26:21  #其他 #焦點
+
+甲骨文股價漲幅擴大至6.4%，管理層釋出樂觀業績展望。
+
+---
+
+### 2026-10-29 02:26:04  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Falls as Dollar Strength and Inflation Fears Persist — Gold prices fell toward $4,030 an ounce on Wednesday, hovering near three-month lows as the US dollar held at a two-week high following the Federal Reserve’s decision to leave interest rates unchanged. A surge in oil prices further fueled inflation concerns, adding pressure to the precious metal. The FOMC voted 10–2 to maintain rates, reaffirming its commitment to bringing inflation under control without providing a clear signal on whether another hike could come in December. Meanwhile, oil prices climbed after an attack on a refinery in Saudi Arabia heightened concerns over potential supply disruptions, while Axios reported that the US and Israel could launch large-scale strikes on Iran unless a last-minute deal is reached. According to the CME FedWatch Tool, markets widely expect the Federal Reserve to raise interest rates for a second time this year in December.
+
+---
+
+### 2026-10-29 02:25:17  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Coffee Drops by 2.52% — Top commodity losers are Coffee (-2.52%), Cocoa (-2.06%) and Wheat (-1.77%). Gains are led by Sugar (0.83%) and Rice (0.67%).
+
+---
+
+### 2026-10-29 02:24:34  #國際
+
+美國能源部選定Ameren與Pitch Aeronautics部署電網增強技術，該技術旨在提升現有輸電線路的容量和可靠性。
+
+---
+
+### 2026-10-29 02:24:21  #其他
+
+Meta：在此（新商業條款釋出）之前，Meta現有條款繼續有效。
+
+---
+
+### 2026-10-29 02:23:23  #其他
+
+甲骨文：預計2029財年資本支出將減少，支撐300億美元以上的自由現金流。
+
+---
+
+### 2026-10-29 02:23:11  #公司
+
+甲骨文公司：到2030財年將額外融資規模限制在200億美元。
+
+---
+
+### 2026-10-29 02:23:01  #公司 #焦點
+
+甲骨文公司重申2027財年展望：營收超900億美元，非公認會計准則每股收益8.1美元。
+
+---
+
+### 2026-10-29 02:22:52  #公司
+
+甲骨文公司首席財務官在投資者日表示，預計2028財年下半年自由現金流轉正，2029財年自由現金流將超過300億美元。
+
+---
+
+### 2026-10-29 02:22:31  #其他
+
+Meta：無限期推遲新商業條款的推出。
+
+---
+
+### 2026-10-29 02:22:19  #市場 #央行 #國際
+
+在美聯儲宣佈加息後，墨西哥比索下跌0.10%。
+
+---
+
+### 2026-10-29 02:22:15  #市場 #焦點
+
+甲骨文股價飆升，觸及盤中最高點4.4%。
+
+---
+
+### 2026-10-29 02:21:49  #公司 #國際
+
+【Anthropic據悉擬透過RetailBook向英國散戶發售股票】Anthropic正在與投資平臺RetailBook合作，計劃在其規模龐大的首次公開募股(IPO)中，向英國散戶投資者推介其股票。這家人工智慧公司週一已提交紐約上市申請檔案，此次IPO可能成為全球有史以來規模最大的一宗。Anthropic在申報檔案中表示，將向英國以及歐洲大陸部分地區的普通個人投資者開放認購。
+
+---
+
+### 2026-10-29 02:21:05  #國際
+
+【俄稱阿列什基人道行動正在籌備中】當地時間10月28日，俄羅斯總統新聞秘書佩斯科夫表示，赫爾松地區阿列什基的人道主義行動應於近日進行，俄方希望不發生挑釁行為。他確認，目前尚未收到該地出現違反“靜默”安排情況的報告。（央視新聞）
+
+---
+
+### 2026-10-29 02:20:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Drops by 1.72% — Top commodity losers are Silver (-1.72%) and Gold (-0.68%). Gains are led by Iron Ore CNY (1.20%) and Lithium Carbonate (0.70%).
+
+---
+
+### 2026-10-29 02:19:10  #其他
+
+胡塞武裝稱沙特主導聯軍對葉門多地發動101次空襲。
+
+---
+
+### 2026-10-29 02:18:56  #市場 #焦點 #國際
+
+美國國債收益率上漲3至5個基點，觸及日內高點。
+
+---
+
+### 2026-10-29 02:18:46  #國際
+
+美國聯邦貿易委員會要求沃爾瑪、塔吉特、優步、Lyft、DoorDash、Instacart、達美航空、聯合航空和捷藍航空提供有關個性化定價和工資設定策略的資訊。
+
+---
+
+### 2026-10-29 02:17:56  #國際
+
+美國副總統萬斯已啟程前往北卡羅來納州，將於今日晚些時候發表講話。
+
+---
+
+### 2026-10-29 02:15:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Germany Natural Gas THE Rises by 4.59% — Top commodity gainers are Germany Natural Gas THE (4.59%), Natural Gas UK (4.01%), Natural Gas EU (3%), Crude Oil (2.98%) and Brent Oil (1.35%). Biggest loser is Methanol (-1.63%).
+
+---
+
+### 2026-10-29 02:14:21  #市場 #央行 #焦點 #國際
+
+【美聯儲10月FOMC決議宣告要點總結】 
+1、利率決議：維持聯邦基金利率目標區間3.75%-4.00%不變。
+2、投票結果：10票贊成、2票反對；理事麗莎·庫克、克利夫蘭聯儲主席哈馬克主張加息25個基點，庫克本次是2022年入美聯儲以來首次投反對票。
+3、經濟判斷：經濟活動強勁擴張，地緣政治帶來不確定性，但國內支出韌性較強，生產率增長強勁、資本投資穩健。
+4、就業情況：就業增長與勞動力規模匹配，失業率基本持平。
+5、通脹表態：通脹仍處於高位，需要收集更多資訊，再確定合適的貨幣政策，目標是推動通脹及時回到2%，堅守物價穩定目標。
+6、準備金政策：繼續維持銀行體系充足準備金的政策。
+7、市場預期：交易員押注12月加息機率達90%。
+8、資產表現：美元指數小幅走弱；美債收益率上行，10年期美債收益率至5.028%，兩年期至4.774%；現貨黃金小幅下跌；美股漲幅收窄，標普500小幅上漲；短期利率期貨走高；新興市場外匯指數維持下跌。
+
+---
+
+### 2026-10-29 02:13:50  #其他
+
+惠譽：如果透過霍爾木茲海峽的石油供應受阻持續到2027年第一季度之後，那麼將出現高於我們基準情景的油價情景。
+
+---
+
+### 2026-10-29 02:13:14  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Mixed After Fed — The S&P 500 edged up 0.1%, while the Dow Jones gained nearly 100 points and the Nasdaq hovered around the flatline on Wednesday, as markets delivered a mixed reaction to the FOMC decision. As expected, the Fed left interest rates unchanged, although two policymakers dissented in favor of a 25bps rate hike. The central bank offered no forward guidance, while investors continued to price in a nearly 90% probability of a rate hike in December, little changed from before the announcement. Meanwhile, corporate earnings remained in focus. Microsoft (-0.8%) and Alphabet (+1.2%) are due to report results after the closing bell. Alphabet also benefitted from news that OpenAI intends to buy AI computing chips from Google. Record quarterly profits from South Korea’s SK Hynix also boosted some semicon stocks including Micron Technology (4.2%) and AMD (1.6%). In contrast, Apple fell 0.5% despite unveiling a revamped MacBook Pro featuring a touchscreen. Meta went down 1.6% and Tesla fell 1.4%.
+
+---
+
+### 2026-10-29 02:12:35  #其他
+
+惠譽：對人工智慧長期商業化前景的重大重新評估可能導致資本支出減少，並對整個人工智慧價值鏈產生影響。
+
+---
+
+### 2026-10-29 02:12:06  #其他
+
+巴西農業部：10月上半月，巴西中南部乙醇產量同比下降26.1%，至15.3億升。
+
+---
+
+### 2026-10-29 02:12:03  #其他
+
+巴西農業部：10月上半月，巴西中南部食糖產量同比下降27.1%，至187萬噸。
+
+---
+
+### 2026-10-29 02:12:00  #其他
+
+巴西農業部：10月上半月，巴西中南部甘蔗壓榨量同比下降21.3%，至2730萬噸。
+
+---
+
+### 2026-10-29 02:11:49  #Trading Economics #Markets #United States #Government Bond 10Y #Importance 1
+
+10-Year Treasury Yield Above 5% as Fed Holds Rates — The yield on the US 10-year Treasury note remained above the 5% threshold after the Federal Reserve held interest rates steady, reaffirming its commitment to bringing inflation under control while offering no clear indication of whether another rate hike could be on the table in December. The vote was not unanimous, as Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented in favor of a 25-basis-point increase. The Fed’s announcement comes less than a week before the November midterm elections, amid widespread dissatisfaction with the economy. Polling suggests a competitive political landscape, with Democrats holding an advantage in several key races. Investors are now awaiting Fed Chair Kevin Warsh’s press conference for further insight into the central bank’s policy outlook and the potential path of interest rates in the months ahead.
+
+---
+
+### 2026-10-29 02:11:48  #市場 #央行 #國際
+
+【惠譽警告稱，人工智慧熱潮和收益率上升威脅全球市場】惠譽評級警告稱，進入2027年，全球信用風險正在惡化，理由包括人工智慧投資的不確定性、能源價格高企以及融資環境收緊。惠譽預計，美聯儲政策利率將達到4.25%，並在2027年全年維持在該水平，今年預計還將加息一次。該機構預計，到2027年底，美國10年期國債收益率將達到4.8%，但警告稱，霍爾木茲海峽的長期中斷可能推高收益率。惠譽還強調，人工智慧基礎設施支出可能超出可持續需求，從而可能引發投資急劇回落。
+
+---
+
+### 2026-10-29 02:11:19  #其他
+
+部分英國石油董事會成員支援拆分這家市值1290億美元的石油巨頭。
+
+---
+
+### 2026-10-29 02:10:39  #國際
+
+惠譽：人工智慧資本支出熱潮面臨新興威脅、中東地緣政治風險、資金收緊，這些都表明到2027年風險環境將加劇。
+
+---
+
+### 2026-10-29 02:10:26  #央行 #國際
+
+【美聯儲理事庫克投票支援加息，令市場意外】美聯儲理事庫克意外投票支援加息25個基點，與美聯儲將利率維持在3.75%至4.00%的決定相左。在10票贊成、2票反對的表決中，庫克與克利夫蘭聯儲主席哈馬克一道投下反對票。哈馬克一直主張收緊貨幣政策。這是庫克自2022年加入美聯儲以來首次在利率決策中投下反對票。與此同時，美國總統特朗普正第二次嘗試將庫克從美聯儲理事會中撤職，此前的一次嘗試被最高法院阻止。
+
+---
+
+### 2026-10-29 02:09:07  #國際
+
+【檔案顯示赫爾松地區有望每月開展一次人道主義行動】當地時間28日，美國方面公佈了一份據稱於10月23日簽署的協議的最後幾頁照片。檔案上附有俄羅斯總統人權專員蘭特拉託娃和烏克蘭最高拉達人權事務專員盧比涅茨的簽名。照片顯示，該協議詳細規定了赫爾松地區阿列什基平民的撤離路線及後續人道主義安排。（央視新聞）
+
+---
+
+### 2026-10-29 02:08:56  #Trading Economics #Markets #United States #Currency #Importance 1
+
+US Dollar Steady as Fed Holds Rates — The US Dollar Index remained little changed at 102.3 on Wednesday after the Federal Reserve kept interest rates unchanged, reaffirming its commitment to bringing inflation under control. However, policymakers offered no clear indication that another rate hike could be on the table at their next meeting in December. The vote was not unanimous, with Governor Lisa Cook and Cleveland Fed President Beth Hammack dissenting and favoring a 25-basis-point increase. The decision comes less than a week before the November midterm elections, amid widespread dissatisfaction with the economy. Polling points to a competitive electoral environment, with Democrats holding an advantage in several key races. Investors are now awaiting Fed Chair Kevin Warsh’s press conference for further clues on the central bank’s policy outlook and the potential direction of interest rates in the coming months.
+
+---
+
+### 2026-10-29 02:08:45  #其他
+
+惠譽評級：人工智慧和市場波動風險在2027年加劇。
+
+---
+
+### 2026-10-29 02:07:41  #央行 #美聯儲
+
+交易員維持對美聯儲12月加息可能性為90%的預期。
+
+---
+
+### 2026-10-29 02:06:41  #央行 #焦點 #國際
+
+交易員維持市場預期，認為美聯儲12月加息的可能性為90%。
+
+---
+
+### 2026-10-29 02:06:31  #市場 #央行 #國際
+
+美聯儲利率決議公佈後，美元指數跌幅擴大，最新下跌0.08%，報102.26；歐元兌美元小幅上漲，最新上漲0.15%，報1.114美元。
+
+---
+
+### 2026-10-29 02:06:06  #市場 #央行 #國際
+
+美聯儲政策後，新興市場外匯指數維持跌幅；貨幣兌美元漲跌互現。
+
+---
+
+### 2026-10-29 02:05:49  #市場 #央行 #國際
+
+美聯儲決議公佈後，美國國債收益率延續漲勢；10年期國債收益率最新上漲3.49個基點，至5.028%。兩年期美國國債收益率最新上漲3.73個基點，至4.774%。
+
+---
+
+### 2026-10-29 02:05:19  #央行 #國際
+
+美聯儲維持利率不變後，美元現貨指數漲幅收窄。
+
+---
+
+### 2026-10-29 02:05:01  #國際
+
+市場資訊：美國中期選舉後對伊朗的襲擊可能針對其領導層。
+
+---
+
+### 2026-10-29 02:04:48  #央行 #國際
+
+美聯儲：就業增長與勞動力增長保持同步。
+
+---
+
+### 2026-10-29 02:04:20  #央行 #美聯儲
+
+【美聯儲重申尋求讓通脹“及時迴歸”2%的目標】美聯儲宣告指出，美國通脹依然高企，重申尋求讓通脹“及時迴歸”2%的目標。積累更多資訊將有助於決定政策。
+
+---
+
+### 2026-10-29 02:04:09  #國際
+
+以色列國防軍和美國在伊朗可能發動襲擊前進行協調。
+
+---
+
+### 2026-10-29 02:03:59  #央行 #國際
+
+美聯儲重申尋求讓通脹“及時迴歸”2%的目標。
+
+---
+
+### 2026-10-29 02:03:23  #央行 #國際
+
+美聯儲：委員會將實現價格穩定。
+
+---
+
+### 2026-10-29 02:02:56  #央行 #國際
+
+美聯儲：積累更多資訊將有助於決定政策。
+
+---
+
+### 2026-10-29 02:02:48  #市場 #央行 #國際
+
+美聯儲利率決議公佈後，現貨黃金價格基本持平，最新下跌 0.5%，報每盎司4038.44美元。
+
+---
+
+### 2026-10-29 02:02:26  #市場 #央行 #國際
+
+美聯儲維持利率不變後，美股小幅回吐漲幅，標普500指數最新上漲0.14%。
+
+---
+
+### 2026-10-29 02:01:19  #市場 #央行 #國際
+
+美聯儲公佈政策利率決議後，短期利率期貨上漲。
+
+---
+
+### 2026-10-29 02:00:56  #Trading Economics #Economy #United States #Interest Rate #Importance 3
+
+Fed Leaves Rates On Hold — The Federal Reserve left the federal funds rate unchanged at 3.75%–4.00% at its October 2026 meeting, following a 25bps hike in September, which was the first rate increase since 2023. The decision came in line with market expectations but two policymakers voted for a 25bps rate hike. The central bank said that economic activity is expanding at a strong pace. While uncertainty remains elevated owing, in part, to geopolitical developments, domestic spending has been resilient. Productivity growth is strong, and capital investment is robust. Job gains have kept pace with the workforce, and the unemployment rate has changed little. Inflation remains elevated. Policymakers also added that the accumulation of more information will help the Committee determine the policy stance appropriate to ensure a timely return of inflation to the 2% goal. The Committee will deliver price stability.
+
+---
+
+### 2026-10-29 02:00:52  #央行 #焦點 #國際
+
+美聯儲政策決議投票結果為10票贊成、2票反對，理事麗莎·庫克和克利夫蘭聯儲主席貝絲·哈馬克持不同意見，他們支援加息25個基點。
+
+---
+
+### 2026-10-29 02:00:45  #央行 #美聯儲
+
+【美聯儲維持利率不變】美聯儲以10比2的投票結果決定將基準利率維持在3.75%-4%的區間，符合市場普遍預期。庫克與哈馬克投下反對票，主張加息。
+
+---
+
+### 2026-10-29 02:00:43  #央行 #國際
+
+美聯儲：生產率增長強勁，資本投資穩健。
+
+---
+
+### 2026-10-29 02:00:39  #央行 #國際
+
+美聯儲：儘管不確定性高企，國內支出仍保持韌性。
+
+---
+
+### 2026-10-29 02:00:35  #央行 #國際
+
+美聯儲：經濟活動正以“強勁”速度擴張。
+
+---
+
+### 2026-10-29 02:00:32  #央行 #國際
+
+美聯儲：就業增長與勞動力增長保持同步，失業率變化不大。
+
+---
+
+### 2026-10-29 02:00:24  #央行 #焦點 #國際
+
+美聯儲：通脹仍處高位。
+
+---
+
+### 2026-10-29 02:00:20  #央行 #國際
+
+美聯儲：經濟活動正以“強勁”速度擴張。
+
+---
+
+### 2026-10-29 02:00:15  #央行 #國際
+
+美聯儲將關鍵隔夜利率維持在3.75%-4.00%區間不變，並表示將收集更多資訊以幫助確定適當的政策立場。
+
+---
+
+### 2026-10-29 02:00:01  #央行 #焦點 #國際
+
+美聯儲維持聯邦基金利率3.75%-4.00%區間不變。
+
+---
+
+### 2026-10-29 01:59:12  #國際
+
+埃及總統與俄羅斯總統普京在莫斯科舉行會談。
+
+---
+
+### 2026-10-29 01:58:51  #其他
+
+空客首席財務官表示，計劃於2027年簽署最終協議以完成“布羅莫專案”交易的計劃保持不變。
+
+---
+
+### 2026-10-29 01:50:01  #公司
+
+空客執行長：我們的庫存水平很高，我們有能力實現這些交付目標。
+
+---
+
+### 2026-10-29 01:47:48  #公司
+
+空客執行長表示，生產速度處於“合適節奏”。
+
+---
+
+### 2026-10-29 01:45:57  #公司
+
+空客執行長表示，供應鏈狀況已明顯改善。
+
+---
+
+### 2026-10-29 01:44:57  #公司
+
+空客執行長表示，儘管燃油成本上升，目前沒有航空公司取消訂單。
+
+---
+
+### 2026-10-29 01:43:22  #公司
+
+蘋果CEO特努斯：全新MacBook Pro令我們倍感興奮，必須親手觸控才能相信它的出色。
+
+---
+
+### 2026-10-29 01:40:54  #公司
+
+空客執行長：A321和A330的質量問題已被識別並控制，所有受影響的飛機都在交付中。
+
+---
+
+### 2026-10-29 01:40:50  #其他
+
+【阿根廷媒體稱阿總統顧問協助博索納羅前往厄瓜多】據多家阿根廷媒體報道，阿根廷總統顧問聖地亞哥·卡普託27日協助在巴西總統選舉中落敗的自由黨候選人弗拉維奧·博索納羅前往厄瓜多。阿根廷媒體報道說，卡普託27日晚在伊瓜蘇港協助弗拉維奧·博索納羅及其家人乘坐一架私人飛機前往厄瓜多瓜亞基爾市。阿根廷總統府訊息人士說，卡普託在早些時候就介入了此次行動。（新華社）
+
+---
+
+### 2026-10-29 01:37:37  #公司
+
+空客執行長：A320系列飛機的發動機情況基本沒有變化，普惠發動機仍然是增產的主要制約因素。
+
+---
+
+### 2026-10-29 01:37:24  #其他
+
+空客在發現機內遺留工具後，完成全部A330飛機的檢查工作。
+
+---
+
+### 2026-10-29 01:37:11  #公司
+
+空客執行長：普惠發動機問題是影響我們2026年飛機交付目標的最重要因素。
+
+---
+
+### 2026-10-29 01:36:51  #其他
+
+空客預計將獲得足夠的普惠發動機，以實現全年目標。
+
+---
+
+### 2026-10-29 01:35:55  #國際
+
+伊朗國家安全委員會主席：退出《不擴散核武器條約》的議會方案已經準備就緒。從立法層面來說，只要國內形成統一的全國共識，我們就可以採取行動。
+
+---
+
+### 2026-10-29 01:34:51  #公司
+
+空客CEO：客戶正在應對燃油價格波動局面。
+
+---
+
+### 2026-10-29 01:34:28  #公司
+
+空客執行長：我們將繼續關注宏觀經濟環境。
+
+---
+
+### 2026-10-29 01:34:19  #其他
+
+【蘋果推出觸屏MacBook】蘋果正式釋出經過重大更新的MacBook Pro，搭載觸控式螢幕。這款機型更輕薄，提供14英寸與16英寸兩個版本，也是首款採用OLED螢幕的Mac，配備靈動島。裝置搭載針對觸控最佳化的全新介面，可選M5 Pro以及M5 Max晶片。14英寸版本起售價2899美元，16英寸版本起售價3399美元。
+
+---
+
+### 2026-10-29 01:32:31  #國際
+
+美國銀行監管機構向數百名員工發出可能裁員的警告。
+
+---
+
+### 2026-10-29 01:27:37  #公司 #市場
+
+【谷歌推出Gemini 4 Carbon前沿AI模型】谷歌釋出其新一代前沿AI模型Gemini 4 Carbon後，股價升至盤中高點。該模型旨在維持網路安全防禦能力並處理複雜工程問題。Carbon能夠處理長時間智慧體工作流、生成安全程式碼，並降低模型偏離對齊目標和虛構內容的比率。Carbon旨在谷歌兩週前推出的Gemini 4 Argon模型基礎上進一步發展。谷歌計劃在向消費者開放Carbon之前，先收集網路安全防禦測試人員的反饋。Carbon定價為每百萬輸入token收費2美元，每百萬輸出token收費10美元。谷歌股價上漲1.5%。
+
+---
+
+### 2026-10-29 01:24:37  #其他 #焦點
+
+市場資訊：Anthropic計劃透過RetailBook平臺在英國發售股票。
+
+---
+
+### 2026-10-29 01:19:46  #其他
+
+OpenAI與ServiceNow將聯合提供安全解決方案。
+
+---
+
+### 2026-10-29 01:19:07  #其他
+
+OpenAI：ServiceNow也正在ChatGPT內預覽互動式體驗。
+
+---
+
+### 2026-10-29 01:17:39  #公司
+
+蘋果公司：新款 MacBook Pro 配備靈動島。
+
+---
+
+### 2026-10-29 01:17:21  #其他
+
+OpenAI與ServiceNow擴大企業工作流合作。
+
+---
+
+### 2026-10-29 01:16:42  #央行 #國際
+
+2家交易對手在美聯儲逆回購操作中獲得1.76億美元。
+
+---
+
+### 2026-10-29 01:16:08  #央行 #美聯儲
+
+美聯儲隔夜逆回購協議（RRP）週三使用規模為1.76億美元（交易對手2家），上個交易日報2.26億美元。
+
+---
+
+### 2026-10-29 01:16:08  #經濟數據 #美國
+
+美聯儲隔夜逆回購協議（RRP）週三使用規模為1.76億美元（交易對手2家），上個交易日報2.26億美元。
+
+---
+
+### 2026-10-29 01:15:38  #國際
+
+烏克蘭方面：第聶伯羅彼得羅夫斯克州遭俄軍襲擊，5人受傷，當日該州四個地區累計遇襲超40次。
+
+---
+
+### 2026-10-29 01:13:34  #其他 #焦點
+
+蘋果新款MacBook Pro電池續航最長可達24小時。
+
+---
+
+### 2026-10-29 01:12:53  #公司
+
+蘋果公司：MacBook Pro今日（10月28日）起開放預訂，11月6日（下週五）開始發售。
+
+---
+
+### 2026-10-29 01:12:25  #其他 #焦點
+
+蘋果14英寸MacBook Pro搭載M5 Pro晶片，起售價2899美元；16英寸版本起售價3399美元。
+
+---
+
+### 2026-10-29 01:12:14  #其他
+
+蘋果：配備ProLED XDR顯示屏的MacBook Pro租用服務已上線，租期36個月，月租55.99美元起。
+
+---
+
+### 2026-10-29 01:12:10  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.32% Higher — The FTSE MIB Index rose 157 points or 0.32 percent on Wednesday to close at 49785 points. Leading the gains are Stellantis N.V. (15.61%), Lottomatica (3.00%) and Eni (1.63%). Top losers were Telecom Italia (-1.65%), Davide Campari-Milano (-1.42%) and Fincantieri (-1.42%).
+
+---
+
+### 2026-10-29 01:12:06  #其他 #焦點
+
+蘋果14英寸MacBook Pro（搭載M5 Max晶片）起售價4499美元；16英寸機型起售價4799美元。
+
+---
+
+### 2026-10-29 01:11:57  #其他
+
+蘋果首次在Mac上推出配備ProLED XDR顯示屏和觸控功能的突破性MacBook Pro。
+
+---
+
+### 2026-10-29 01:11:10  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.34% Higher — The DAX Index gained 86 points or 0.34 percent on Wednesday to close at 25677 points. Gains were led by Deutsche Bank (3.86%), Siemens Energy (3.64%) and Infineon (1.77%). Biggest losers were Symrise (-9.79%), Zalando (-2.18%) and Deutsche Post (-1.82%).
+
+---
+
+### 2026-10-29 01:10:33  #公司
+
+谷歌：將透過Fairwind計劃逐步向更多可信合作伙伴開放Gemini Carbon的訪問許可權。
+
+---
+
+### 2026-10-29 01:10:22  #公司
+
+谷歌：Chrome增強自動填充功能現可從Gmail中提取資訊，為線上表單提供建議。
+
+---
+
+### 2026-10-29 01:10:10  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.02% Lower — The CAC 40 Index decreased 2 points or 0.02 percent on Wednesday to close at 7886 points. The decline was led by Dassault Systemes (-4.58%), Essilor (-2.20%) and ArcelorMittal (-1.91%). On the upside, the strongest performers were Stellantis NV (15.47%), Danone (2.95%) and Legrand (2.94%).
+
+---
+
+### 2026-10-29 01:10:07  #公司
+
+谷歌：從本週開始，將向一部分網路防禦人員開放 Carbon 模型。
+
+---
+
+### 2026-10-29 01:09:54  #公司
+
+谷歌：XREAL AURA正式釋出，年底前優惠價1099美元。
+
+---
+
+### 2026-10-29 01:09:40  #公司 #國際
+
+谷歌稱Gemini 4 Carbon將審慎推進落地，主動參與美國政府模型預釋出自願測試流程。
+
+---
+
+### 2026-10-29 01:09:36  #市場 #焦點
+
+納斯達克中國金龍指數跌超2%，虎虎科技跌42.00%，新東方跌12.44%，陸金所控股跌8.12%，高途跌7.20%，迅雷跌6.77%。
+
+---
+
+### 2026-10-29 01:07:20  #其他
+
+Anthropic：Claude現面向IDC客戶提供IDC Quanta。
+
+---
+
+### 2026-10-29 01:07:10  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.03% Higher — The FTSE 100 Index rose 3 points or 0.03 percent on Wednesday to close at 10690 points. Leading the gains are Whitbread (5.13%), SSE (4.34%) and Centrica (3.49%). Top losers were Barratt Redrow (-6.83%), GlaxoSmithKline (-5.38%) and Informa (-3.03%).
+
+---
+
+### 2026-10-29 01:06:38  #其他
+
+蘋果Touch MacBook Pro提供M5 Pro和M5 Max晶片選項。
+
+---
+
+### 2026-10-29 01:06:25  #其他
+
+蘋果稱新款MacBook Pro採用更輕薄設計。
+
+---
+
+### 2026-10-29 01:06:17  #國際
+
+澤連斯基：烏克蘭當前面臨的關鍵缺口是“愛國者”系統的導彈，用於攔截俄羅斯的彈道導彈。
+
+---
+
+### 2026-10-29 01:05:32  #公司
+
+谷歌正式釋出XREAL Aura。
+
+---
+
+### 2026-10-29 01:04:45  #其他
+
+Alphabet漲幅擴大。
+
+---
+
+### 2026-10-29 01:04:18  #公司
+
+蘋果CEO約翰·特努斯：蘋果觸控屏 MacBook Pro 將配備 OLED 螢幕。
+
+---
+
+### 2026-10-29 01:03:54  #公司
+
+谷歌：將對輸入token定價為每百萬2美元，輸出token定價為每百萬10美元。
+
+---
+
+### 2026-10-29 01:03:09  #Trading Economics #Markets #Germany #Stock Market #Importance 0
+
+DAX Closes Slightly Higher — Frankfurt's DAX 40 reversed early losses to close about 0.4% up at 25,697 on Wednesday, buoyed by gains in banks, tech and utilities. Market participants remained focused on corporate earnings ahead of the Fed's policy outcome later in the day and the ECB meeting tomorrow. Meanwhile, oil prices climbed again amid heightened Middle East hostilities and fears of potential escalation. Deutsche Bank led individual stock gains, rising nearly 4% after reporting record third-quarter profits that exceeded market expectations. BASF shares rose more than 1%, as it raised its earnings forecast for 2026 after reporting performance above expectations, despite weakness in its agriculture division. On the losing side, Symrise plunged 10%, as it flagged slower year-end organic growth and margin pressure, despite recording stronger sales volumes and a modest quarterly growth beat.
+
+---
+
+### 2026-10-29 01:02:59  #其他 #焦點
+
+蘋果釋出配備觸控屏的全新MacBook Pro。
+
+---
+
+### 2026-10-29 01:02:46  #其他
+
+微軟：透過Microsoft Foundry提供Copilot Harness。
+
+---
+
+### 2026-10-29 01:02:00  #公司 #焦點
+
+谷歌推出Gemini 4 Carbon前沿大模型。
+
+---
+
+### 2026-10-29 01:01:53  #國際
+
+美國運輸部批准ST LNG金額82億美元的深水港許可申請。
+
+---
+
+### 2026-10-29 01:01:15  #其他
+
+Meta宣佈支援加州理工學院、俄亥俄州立大學醫學院和路易斯安那州立大學的研究。
+
+---
+
+### 2026-10-29 01:01:07  #其他
+
+Meta：宣佈支援印第安納大學和休斯頓大學健康科學中心的研究。
+
+---
+
+### 2026-10-29 01:00:46  #公司
+
+蘋果CEO約翰·特努斯在蘋果釋出會上發言。
+
+---
+
+### 2026-10-29 01:00:31  #其他
+
+蘋果觸控式螢幕MacBook釋出會在洛杉磯開始。
+
+---
+
+### 2026-10-29 01:00:11  #其他
+
+荷蘭政府因暴發禽流感在全國範圍內實施圈養和篩查強制措施。
+
+---
+
+### 2026-10-29 01:00:03  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.04%，滬銅收漲0.04%，滬鋁收跌0.98%，滬鋅收漲0.06%，滬鉛收跌1.26%，滬鎳收跌0.05%，滬錫收跌0.82%。氧化鋁夜盤收跌0.46%，鋁合金收跌0.28%。不鏽鋼夜盤收跌0.30%。
+
+---
+
+### 2026-10-29 00:59:56  #國際
+
+美國參議員馬克·凱利表示正在考慮參加2028年總統競選，稱將在中期選舉後決定是否參選。
+
+---
+
+### 2026-10-29 00:56:23  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+Italian Stocks Inch Higher — Italy’s FTSE MIB extended gains, closing 0.4% higher at 49,824 on Wednesday, supported by a 15.4% surge in Stellantis after the automaker reaffirmed its 2026 outlook and expressed confidence in its cost-cutting efforts. Meanwhile, Italy approved its 2027 budget bill, which is expected to include contributions from the financial and energy sectors. Energy stocks outperformed amid higher oil prices, with Saipem rising 0.4% and Tenaris gaining 1.3%, while Eni added 1.6% as it continued its buyback program. Banks traded mostly flat, although MPS (-0.7%) and Intesa (-0.5%) fell more sharply after the ECB approved Intesa’s takeover of MPS. The offer document is expected to receive Consob approval early next month. Banca BPM rose 1.3%, while utilities advanced, led by Hera (+0.5%). Technoprobe and Prysmian gained 1.7% and 1.4%, respectively. On the downside, Telecom Italia fell 1.5%, while Campari and Brunello Cucinelli lost 0.7% and 0.8%, respectively.
+
+---
+
+### 2026-10-29 00:55:59  #公司 #國際
+
+菲利普斯66公司：俄羅斯的餾分油供應不足以對全球市場產生實質性影響。
+
+---
+
+### 2026-10-29 00:55:48  #國際
+
+伊朗外長阿拉格齊：武裝力量已做好保衛國土的充分準備，同時伊朗繼續為外交取得成功提供機會；我們正與中間方保持密切、持續的接觸，以審視相關設想，確保我們的七日計劃能在不到一週內得以落實。
+
+---
+
+### 2026-10-29 00:51:46  #其他
+
+空客仍預計全年交付量約870架飛機（此前預期867架）。
+
+---
+
+### 2026-10-29 00:49:59  #國際
+
+【以軍空襲加沙地帶多地造成多名巴勒斯坦人傷亡】當地時間10月28日，據巴勒斯坦方面訊息，當天下午以軍戰機對加沙地帶南部城市拉法發動空襲，造成3名巴勒斯坦人死亡、10人受傷。（央視新聞）
+
+---
+
+### 2026-10-29 00:48:18  #國際
+
+俄羅斯9月份液化天然氣產量同比增長27%，達到320萬噸。
+
+---
+
+### 2026-10-29 00:47:26  #其他
+
+空客前9個月營收達506億歐元。
+
+---
+
+### 2026-10-29 00:46:49  #其他
+
+惠譽評級：部分前沿市場受高油價影響，但其他市場則從中受益。
+
+---
+
+### 2026-10-29 00:46:31  #其他
+
+空客第三季度營收174.7億歐元，預期180.9億歐元。
+
+---
+
+### 2026-10-29 00:46:16  #其他
+
+空客第三季度防務與航天業務調整後息稅前利潤為1.85億歐元，市場預期為1.969億歐元。
+
+---
+
+### 2026-10-29 00:46:02  #其他
+
+空客仍預計全年調整後息稅前利潤約75億歐元，市場預期為76.6億歐元。
+
+---
+
+### 2026-10-29 00:45:44  #其他
+
+空客第三季度商用飛機調整後息稅前利潤為13.8億歐元，市場預期為13.6億歐元。
+
+---
+
+### 2026-10-29 00:45:31  #其他
+
+空客第三季度調整後息稅前利潤17.7億歐元，市場預期17.9億歐元。
+
+---
+
+### 2026-10-29 00:42:54  #宏觀
+
+義大利財政部副部長表示，對銀行加稅旨在避免影響資本充足率。
+
+---
+
+### 2026-10-29 00:42:48  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Little Changed on Wednesday — European stocks were broadly flat on Wednesday, with the Euro Stoxx 50 and Stoxx 600 little changed as gains in Germany and Italy offset a decline of more than 1% in Spain following a rail crash that killed 68 people. UK and French markets were also subdued. Sector performance was mixed, with oil and gas stocks rising over 1% as renewed Middle East tensions pushed crude prices higher on supply disruption concerns. Automobiles and parts gained more than 1%, while utilities advanced over 0.5%. Media stocks fell nearly 2%, and miners, household goods and chemicals also weakened. Among individual shares, Logitech plunged 10% on supply chain concerns, while GSK dropped 5% after disappointing investors with its results. Banco Santander slid 5.5% following lower net profit, and UBS lost 1%. Mercedes-Benz edged up 0.4% despite cutting its outlook, while BNP Paribas rose 0.3%. Worldline gained 5%, Standard Chartered climbed 2.7%, and Deutsche Bank advanced 4% on stronger results or guidance.
+
+---
+
+### 2026-10-29 00:42:41  #焦點 #國際
+
+特朗普政府將要求管理數千億美元藥品開支的企業，披露其收費方式的詳細資訊。
+
+---
+
+### 2026-10-29 00:41:44  #公司
+
+義大利經濟部副部長表示，義大利上調銀行、保險公司和能源集團的IRES和IRAP企業所得稅，以為預算提供資金。
+
+---
+
+### 2026-10-29 00:41:32  #公司
+
+谷歌雲：Cloud SQL的PostgreSQL藍綠部署支援即將推出。
+
+---
+
+### 2026-10-29 00:41:06  #公司
+
+谷歌雲：宣佈為Cloud SQL for MySQL推出全託管藍綠部署預覽版。
+
+---
+
+### 2026-10-29 00:39:38  #其他
+
+房地美出售380萬美元不良貸款。
+
+---
+
+### 2026-10-29 00:39:17  #公司
+
+義大利總理梅洛尼排除了金融公司因預算案帶來的額外收入而產生法律問題的可能性。
+
+---
+
+### 2026-10-29 00:38:40  #Trading Economics #Economy #Russia #Unemployment Rate #Importance 1
+
+Russia Unemployment Rate Steady at 2.2% — Russia’s unemployment rate was unchanged at 2.2% in September 2026, the same as in August and matching market expectations. On a yearly basis, the unemployment rate was also unchanged from 2.2% in September 2025. The labor force aged 15 and over held at 76.7 million people, including 75 million employed and 1.7 million unemployed, up from 1.6 million in the previous month. Registered unemployment remained low at around 0.3 million people, or 0.4% of the labor force. The number of unemployed increased by 0.3% from a year earlier, while employment rose by 0.6%. Labor market conditions remain tight, reflecting persistent worker shortages across multiple sectors amid military mobilization following Russia’s invasion of Ukraine in February 2022 and sustained emigration. Authorities expect labor constraints to persist, projecting a shortfall of around 3.1 million workers by 2030.
+
+---
+
+### 2026-10-29 00:37:38  #其他
+
+幣安：幣安支付計劃到2026年第三季度將加密貨幣二維碼支付擴充套件至10個以上國家。
+
+---
+
+### 2026-10-29 00:37:19  #Trading Economics #Economy #Russia #Retail Sales YoY #Importance 1
+
+Russia Retail Sales Rise More than Expected — Retail sales in Russia rose by 3.9% year-on-year in September 2026, following a 3.3% increase in August and overshooting market forecasts for a 3.5% advance. Spending on food products rose at a faster 3.7% in September, compared to 2.3% in August. Sales of non-food products increased by 4.1%, maintaining the pace seen in the month before. On a monthly basis, retail trade declined by 4%, the most since January, after a 0.3% rise in the previous month. In the third quarter of 2026, retail sales grew by 4.2% over a year ago.
+
+---
+
+### 2026-10-29 00:37:06  #其他
+
+幣安：Binance Pay已接入阿根廷、玻利維亞和哥倫比亞的二維碼網路。
+
+---
+
+### 2026-10-29 00:34:28  #國際
+
+黎巴嫩真主黨秘書長：以色列佔領政權由誰執政對我們而言並不重要，但對方必須明白無法持續佔領，應當撤出我們的土地。
+
+---
+
+### 2026-10-29 00:32:44  #國際
+
+荷蘭首相耶滕：（美國）購買俄羅斯能源是非常愚蠢的想法。我可以向你們保證，未來幾年內不會有任何歐洲領導人願意購買俄羅斯天然氣。我們希望的是俄羅斯停止這場衝突。
+
+---
+
+### 2026-10-29 00:30:56  #市場 #焦點 #國際
+
+【歐洲主要股指收盤漲跌不一】歐洲STOXX 600指數上漲0.06%，歐洲斯托克指數上漲0.07%；歐元區藍籌股上漲0.06%。法國CAC40指數上漲0.07%，西班牙IBEX指數下跌1.45%，英國富時100指數上漲0.05%，德國DAX指數上漲0.42%。
+
+---
+
+### 2026-10-29 00:29:53  #公司
+
+谷歌宣佈，AlloyDB Omni Web UI面向Red Hat和容器全面可用。
+
+---
+
+### 2026-10-29 00:29:44  #宏觀 #國際
+
+美國國務院：西班牙火車事故致數名美國公民受傷。
+
+---
+
+### 2026-10-29 00:29:29  #國際
+
+歐洲天然氣價格自2022年能源危機以來首次突破100歐元。
+
+---
+
+### 2026-10-29 00:28:51  #公司
+
+菲利普斯66公司在電話會議上表示，已按低於當前貨運市場的價格簽訂了40艘額外船隻的合同，預計將對煉油業務帶來益處。
+
+---
+
+### 2026-10-29 00:28:47  #Trading Economics #Markets #Spain #Earnings #Importance 0
+
+Ferrovial earnings below expectations at 0.28 EUR — Ferrovial (FER) released earnings per share at 0.28 EUR, compared to market expectations of 0.33 EUR.
+
+---
+
+### 2026-10-29 00:28:47  #Trading Economics #Markets #France #Earnings #Importance 0
+
+Orange earnings above expectations at 0.33 EUR — Orange (ORA) released earnings per share at 0.33 EUR, compared to market expectations of 0.21 EUR.
+
+---
+
+### 2026-10-29 00:28:44  #Trading Economics #Markets #India #Earnings #Importance 0
+
+Maruti Suzuki earnings below expectations at 76.80 INR — Maruti Suzuki (MSIL) released earnings per share at 76.80 INR, compared to market expectations of 123.18 INR.
+
+---
+
+### 2026-10-29 00:28:35  #國際
+
+美國能源部長賴特：柴油價格將大幅下降，阿拉伯灣柴油出口可能增加。
+
+---
+
+### 2026-10-29 00:27:52  #國際
+
+美國能源部長賴特：俄羅斯只有結束衝突才能從柴油機出口中獲益。
+
+---
+
+### 2026-10-29 00:27:35  #國際
+
+惠譽：與2022-2023年緊縮週期開始時相比，美國銀行似乎更有能力適應進一步的加息。
+
+---
+
+### 2026-10-29 00:26:34  #國際
+
+惠譽評級：隨著利率上升，美國銀行已做好更充分準備來吸收未實現損失。
+
+---
+
+### 2026-10-29 00:26:27  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Bounces Back Toward 2022 Highs — Brent crude rose above $116 a barrel on Wednesday, moving closer to its highest level since June 2022, as escalating Middle East hostilities heightened concerns about supply disruptions. Yemen’s Iran-aligned Houthis attacked Aden airport and claimed a missile strike on Saudi Arabia’s largest oil refinery, which has a capacity of 550,000 barrels per day, although Saudi authorities had not confirmed the reported refinery attack. Also, there are increased fears that the US could resume military operations against Iran after the November 3 midterm elections, potentially intensifying regional instability and threatening oil flows. Meanwhile, Qatari mediators presented Tehran with a new draft proposal to end the war involving the US and Israel. However, an Iranian official dismissed the ideas as unacceptable, leaving the prospects for a settlement uncertain. On the data front, US crude inventories fell by 1.9 million barrels in the week ended October 23, broadly matching industry estimates.
+
+---
+
+### 2026-10-29 00:26:21  #公司 #焦點
+
+義大利總理梅洛尼：義大利計劃從能源公司徵收 7 億歐元，另外從博彩業徵收 7 億歐元。
+
+---
+
+### 2026-10-29 00:26:06  #公司
+
+菲利普斯66公司：公司有一個可靠的計劃，可使中游業務收益每年增長約5%。
+
+---
+
+### 2026-10-29 00:25:47  #其他
+
+義大利能源企業將向預算繳納7億歐元。
+
+---
+
+### 2026-10-29 00:25:26  #公司 #焦點
+
+義大利總理梅洛尼：義大利計劃從銀行和保險公司籌集約50億歐元，提高金融交易稅。
+
+---
+
+### 2026-10-29 00:23:50  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Extends Gains to Over 3% — Crude oil rose more than 3% to above $103 a barrel on Wednesday as escalating Middle East hostilities heightened concerns about supply disruptions. Yemen’s Iran-aligned Houthis attacked Aden airport and claimed a missile strike on Saudi Arabia’s largest oil refinery, which has a capacity of 550,000 barrels per day, although Saudi authorities had not confirmed the reported refinery attack. Also, there are increased fears that the US could resume military operations against Iran after the November 3 midterm elections, potentially intensifying regional instability and threatening oil flows. Meanwhile, Qatari mediators presented Tehran with a new draft proposal to end the war involving the US and Israel. However, an Iranian official dismissed the ideas as unacceptable, leaving the prospects for a settlement uncertain. Supporting prices further, US crude inventories fell by 1.9 million barrels in the week ended October 23, broadly matching industry estimates.
+
+---
+
+### 2026-10-29 00:23:15  #國際
+
+美國將在艾奧瓦州推進兩個風電專案。
+
+---
+
+### 2026-10-29 00:23:04  #國際
+
+澤連斯基：與荷蘭首相耶滕進行了良好會晤。感謝荷蘭向烏克蘭提供新一輪軍事支援，金額為5億歐元。
+
+---
+
+### 2026-10-29 00:22:33  #國際
+
+美國將批准兩個因五角大樓受阻的風電專案。
+
+---
+
+### 2026-10-29 00:22:12  #其他
+
+英國水務監管局OFWAT委任安永為泰晤士水務獨立監察機構。
+
+---
+
+### 2026-10-29 00:21:26  #其他
+
+【巴西最高法院否認授權搜查弗拉維奧·博索納羅住所】據巴西當地媒體28日報道，巴西最高聯邦法院28日否認了此前關於法官德莫賴斯授權對在總統選舉中落敗的自由黨候選人弗拉維奧·博索納羅住所進行搜查的傳聞。（新華社）
+
+---
+
+### 2026-10-29 00:21:03  #國際
+
+美國高階外交官員：特朗普仍決心徹底消除伊朗的軍事核計劃，並消除對霍爾木茲海峽及伊朗鄰國構成的軍事威脅。
+
+---
+
+### 2026-10-29 00:20:28  #公司 #國際
+
+【內塔尼亞胡陣營在議會選舉中領先 但未過半數】以色列中央選舉委員會28日公佈議會選舉初步計票結果顯示，以總理內塔尼亞胡領導的右翼陣營領先於以色列國防軍前總參謀長加迪·埃森科特領銜的反對派陣營，但雙方均未達到議會多數席位。內塔尼亞胡領導的右翼政黨利庫德集團仍為議會第一大黨。（新華社）
+
+---
+
+### 2026-10-29 00:19:07  #國際
+
+美國高階外交官員：對伊朗的打擊不取決於以色列的政治程序。
+
+---
+
+### 2026-10-29 00:18:34  #公司
+
+菲利普斯66公司在電話會議上表示，若煉油利潤率迴歸歷史水平，公司收益將減少約10億美元。
+
+---
+
+### 2026-10-29 00:18:20  #公司
+
+菲利普斯66公司在電話會議上表示，煉油利潤率可能會保持在歷史正常化水平之上。
+
+---
+
+### 2026-10-29 00:18:12  #公司
+
+菲利普斯66公司表示，預計近期和中期煉油利潤率將在較高水平上恢復正常。
+
+---
+
+### 2026-10-29 00:17:13  #其他
+
+國際足聯2026年世界盃門票銷售入賬近50億美元。
+
+---
+
+### 2026-10-29 00:16:06  #國際
+
+俄羅斯總統新聞秘書佩斯科夫表示，亞歷山德羅夫卡的人道主義行動定於未來幾天進行，俄方希望不會出現挑釁行為。
+
+---
+
+### 2026-10-29 00:14:54  #市場
+
+加拿大2年期國債收益率上漲7.2個基點，觸及3.441%，為2024年8月以來最高水平。
+
+---
+
+### 2026-10-29 00:14:29  #其他
+
+義大利總理梅洛尼：義大利在2027年預算中將車輛稅減免永久化。
+
+---
+
+### 2026-10-29 00:14:11  #國際
+
+特朗普：（被問及是否推動組建以色列團結政府時）我會研究這件事。
+
+---
+
+### 2026-10-29 00:11:39  #其他
+
+SpaceX：42號飛船靜態點火測試完成。正在為第15次試飛做準備的星艦進行了全時長六發動機靜態點火，並點燃了一臺猛禽發動機以模擬離軌點火。
+
+---
+
+### 2026-10-29 00:11:33  #Trading Economics #Economy #Russia #Industrial Production #Importance 1
+
+Russia Industrial Activity Unexpectedly Recovers — Russia’s industrial production rose 1.8% year-on-year in September 2026, rebounding from a 0.6% decline in August and beating market expectations of a 0.1% contraction. This marked the strongest growth since April, driven by a sharp recovery in manufacturing output, which increased 5.6% after falling 0.5% in the previous month. Meanwhile, growth in water supply, sewerage, waste management and remediation slowed to 0.9% from 6.9%. Elsewhere, contractions deepened in mining, where output fell 4.1% following a 1.3% decline, and in electricity, gas, steam and air-conditioning supply, which dropped 3.2% after a 1.2% decrease. On a seasonally adjusted monthly basis, industrial production increased 1.1%, rebounding from a 0.3% decline in August.
+
+---
+
+### 2026-10-29 00:09:20  #國際
+
+俄羅斯聯邦統計局表示，9月份俄羅斯汽車產量同比增長35.3%。
+
+---
+
+### 2026-10-29 00:08:51  #其他
+
+義大利總理梅洛尼：2027年預算案將實施總額達260億歐元的減稅與支出增加計劃。
+
+---
+
+### 2026-10-29 00:08:37  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Ends Flat Amid Mixed Corporate Earnings — The CAC 40 closed flat at 7,886 on Wednesday after two consecutive sessions of gains, as investors assessed a mixed batch of corporate earnings. Stellantis surged 15.4% after reporting improved Q3 operating income and reaffirming its full-year guidance. Danone rose 2.6% on higher sales, supported by price increases and resilient demand. Rémy Cointreau fell 2.5% despite better-than-expected Q2 sales, while BNP Paribas slipped 0.3% despite higher revenue and a new share buyback program. Dassault Systèmes dropped 4.5% despite beating earnings expectations and raising its full-year outlook. Airbus (-0.4%) reports after the close, followed by Société Générale (+0.5%) and TotalEnergies (+0.7%) on Thursday, and Crédit Agricole (+0.2%) and Sanofi (+0.5%) on Friday. The ECB is also set to announce its policy decision on Thursday, with rates widely expected to remain unchanged.
+
+---
+
+### 2026-10-29 00:08:03  #其他
+
+【中國科學家創制新的碳奈米帶實現高效電子輸運】記者10月29日從中國科學技術大學獲悉，科研團隊透過分步表面合成，製備出僅由五元環和七元環構成的金屬性碳奈米帶，即新的“戊庚環型”碳奈米帶，並證實這種由碳原子透過共價鍵連線而成的亞奈米寬度一維結構能夠實現高效電子輸運。相關成果於29日線上發表於國際學術期刊《自然》。（新華社）
+
+---
+
+### 2026-10-29 00:07:58  #Trading Economics #Markets #commodity #Importance 0
+
+Cheese Hits 14-week High — Cheese increased to 1.73 USD/Lbs, the highest since July 2026. Over the past 4 weeks, Cheese gained 19.23%, and in the last 12 months, it decreased 0.67%.
+
+---
+
+### 2026-10-29 00:07:48  #其他
+
+法國總理在國民議會就高中畢業生高等教育升學指導與名額分配機制的未來發表講話。
+
+---
+
+### 2026-10-29 00:06:20  #國際
+
+俄羅斯9月零售額同比增長3.9%，預計增長3.7%。
+
+---
+
+### 2026-10-29 00:05:59  #國際
+
+俄羅斯9月份貨物運輸量同比增長2.2%。
+
+---
+
+### 2026-10-29 00:03:39  #其他 #焦點
+
+英國首相伯納姆重申英國未來12個月內不會提前舉行大選。
+
+---
+
+### 2026-10-29 00:03:20  #國際
+
+俄羅斯聯邦統計局：1-8月俄羅斯企業利潤同比下降11%，至15.7萬億盧布。
+
+---
+
+### 2026-10-29 00:01:59  #Trading Economics #Markets #Spain #Earnings #Importance 0
+
+Endesa earnings below expectations at 0.56 EUR — Endesa (ELE) released earnings per share at 0.56 EUR, compared to market expectations of 0.66 EUR.
+
+---
+
+### 2026-10-29 00:01:26  #國際
+
+俄羅斯經濟部：俄羅斯9月國內生產總值同比增長0.5%，前一個月同比增長0.8%。
+
+---
+
+### 2026-10-29 00:01:18  #國際
+
+俄羅斯經濟部：俄羅斯第三季度國內生產總值同比增長0.6%（第二季度同比增長1.3%）。
+
+---
+
+### 2026-10-29 00:01:06  #市場 #國際
+
+俄羅斯10月26日當週消費者價格環比上漲0.08%。
+
+---
+
+### 2026-10-29 00:00:46  #Trading Economics #Economy #Malawi #Interest Rate #Importance 0
+
+Reserve Bank of Malawi Leaves Rate at 24% — The Reserve Bank of Malawi kept its policy rate unchanged at 24% at its October 2026 meeting. The Committee noted that although inflation has continued to moderate, it remains significantly above the Reserve Bank’s medium-term objective of 5%, and risks to the inflation outlook remain elevated. The annual inflation rate slowed for the fifth straight month to 19.4% in September 2026, down from 20% in August. Headline inflation is expected to average 22% in 2026 and 20% in 2027 (vs prior estimate of 18.5%). Significant upside risks remain, including heightened geopolitical tensions and the increased likelihood of El Niño during the 2026/27 agricultural season. Economic growth is projected at 2.8% in 2026, supported by improved agricultural production, before accelerating to 3.8% in 2027. The central bank also maintained the reserve requirements unchanged but raised the Lombard Rate spread from 0.2 to 2.0 percentage points above the policy rate to strengthen liquidity management.
+
+---
+
+### 2026-10-28 23:49:16  #Trading Economics #Markets #Commodity #Importance 0
+
+Gasoline Futures Hold Steady — US gasoline futures held near $3.15 per gallon, holding its decline from the previous session as traders weighed elevated supply risks against signs of improving inventories. Yemen’s Iran-backed Houthis claimed to have struck Saudi Arabia’s largest oil refinery, while reports said Washington warned Gulf states to prepare for a possible post-midterm military campaign against Iran. Geopolitical tensions add to concerns over an already tight fuel market, with gasoline inventories remaining 2% below seasonal norms, although they have recovered partially as driving demand eases. EIA data showed an unexpected build of 3.8 million barrels in the week ending October 23rd. Still, supplies are expected to remain constrained as refineries prioritize higher-demand diesel ahead of winter. Seasonal maintenance is also limiting gasoline output despite facilities operating near capacity. Meanwhile, Ukrainian strikes on Russian refineries also add to geopolitical risks on global fuel markets.
+
+---
+
+### 2026-10-28 23:43:13  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Union Pacific Shares Hit 8-week High — Union Pacific shares increased to 301.21 USD, the highest since September 2026. Over the past 4 weeks, Union Pacific gained 9.79%, and in the last 12 months, it increased 39.11%.
+
+---
+
+### 2026-10-28 23:30:07  #Trading Economics #Markets #Bonds #Importance 1
+
+Bonds Update: Brazil 10Y Bond Yield Rises by 20 bps — Government bonds yields are higher on Wednesday. Top gainers are Brazil 10Y (19.50bps), South Korea 10Y (7.20bps), Japan 10Y (4.19bps), US 10Y (2.60bps) and Germany 10Y (1.36bps).
+
+---
+
+### 2026-10-28 23:08:18  #Trading Economics #Markets #Commodity #Importance 1
+
+European Natural Gas Prices Hit €100 — European natural gas prices climbed toward €100 per megawatt-hour, their highest level since December 2022, as the heating season approaches with unusually low inventories and growing geopolitical risks. EU storage facilities were less than 75% full on October 28, compared with a five-year average of around 86%. Inventories stood at approximately 849 TWh, roughly 100 TWh below last year’s level, increasing the need for additional imports to rebuild reserves. Storage levels varied significantly, with Germany at 61.65% and the Netherlands at 65.53%, while France and Italy were better positioned at 87.34% and 90.77%, respectively. Meanwhile, forecasts for colder weather across Europe and parts of Asia could lift heating demand and intensify competition for LNG cargoes. Supply concerns intensified after reports that the US told several Persian Gulf countries to be prepared for a short, intense military campaign after the midterm elections.
+
+---
+
+### 2026-10-28 23:00:58  #Trading Economics #Markets #commodity #Importance 0
+
+Natural Gas EU traded above 100 EUR/MWh — Natural Gas EU rose above 100, according to trading on a contract for difference (CFD).
+
+---
+
+### 2026-10-28 23:00:05  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: New Zealand Dollar Drops by 1.21% — Top currency losers are New Zealand Dollar (-1.21%), South Korean Won (-1.20%), Brazilian Real (-0.38%) and Japanese Yen (-0.13%). Gains are led by Norwegian Krone (0.57%), Swedish Krona (0.26%) and Euro (0.09%). Meanwhile, British Pound and Dollar Index were little changed.
+
+---
+
+### 2026-10-28 22:47:07  #Trading Economics #Markets #Commodity #Importance 1
+
+US Steel Market Rises to Highest Level Since 2022 — US hot-rolled steel prices climbed toward $1,400 per ton, reaching their highest level since May 2022 as President Donald Trump’s 50% tariffs on imported steel restricted foreign supplies and strengthened domestic producers’ pricing power. Imports of finished steel fell 14% to around 13 million tons in the first nine months of 2026, reducing their share of the US market to 16% from 19% a year earlier. Supply constraints could intensify toward year-end, as maintenance shutdowns are expected to affect more than 1 million tons of production between September and December. Rising scrap costs and stronger negotiating positions for mills also point to further price pressure. US steel now costs roughly two-thirds more than in Europe and nearly three times as much as in China, widening the competitive gap. Meanwhile, trade tensions have disrupted cross-border supply chains, highlighting the broader economic costs of protecting domestic steel production.
+
+---
+
+### 2026-10-28 22:40:10  #Trading Economics #Economy #United States #Crude Oil Stocks Change #Importance 1
+
+US Crude Oil Inventories Fall for 4th Week — US crude oil inventories fell by 1.892 million barrels in the week ended October 23, marking a fourth consecutive weekly decline, following a 3.061 million-barrel draw in the previous week. Crude stocks at the Cushing, Oklahoma, delivery hub also decreased by 624,000 barrels, while refinery crude runs fell by 123,000 barrels per day. Distillate inventories, which include diesel and heating oil, declined by 1.462 million barrels, exceeding expectations for a 900,000-barrel decrease. In contrast, gasoline inventories increased by 3.87 million barrels. Meanwhile, net US crude imports fell by 796,000 barrels per day.
+
+---
+
+### 2026-10-28 22:31:40  #Trading Economics #Markets #Canada #Government Bond 10Y #Importance 1
+
+Canadian Bond Yields Steady as Markets Assess BoC Rate Hike — Canada’s 10-year government bond yield was little changed at around 3.84%, following the Bank of Canada’s first interest rate hike in more than three years in October, a move that was widely expected. The central bank signalled that further increases may be necessary to prevent surging energy costs from feeding into broader inflation. It also raised its 2027 inflation forecast to 3.1% from 2.0% in July, while upgrading its growth outlook to 1% from 0.7%. Despite the hike, the policy rate remains below the estimated neutral level, which neither stimulates nor restrains economic activity. Meanwhile, speculation has grown over the possibility of a last-minute tariff-relief deal between Canada and the US that could provide a political boost to Republican candidates. Canadian Prime Minister Mark Carney, however, described only a slight intensification in trade discussions.
+
+---
+
+### 2026-10-28 22:30:55  #經濟數據 #美國
+
+【美國至10月23日當週EIA原油庫存減少189.2萬桶】美國至10月23日當週EIA原油庫存減少189.2萬桶，預期增加1.5萬桶，前值減少306萬桶。EIA戰略石油儲備庫存減少10萬桶，前值減少30萬桶。
+
+---
+
+### 2026-10-28 22:22:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Iron Ore Rebounds from 4-Year Low — Iron ore futures recovered to above CNY 670 a ton after touching a four-year low of CNY 664 on October 27, as the return of steelmaking capacity provided some support despite concerns over rising supply. Hot metal production, a key indicator of iron ore demand, fell by 89,900 tons week-on-week to 1.75 million tons in the week ending October 24, largely due to blast furnace maintenance. Output is expected to decline further before recovering as furnaces resume operations. However, the improvement in production may offer limited support to prices, as steel mills continue to operate at a loss and demand for steel remains weak. On the supply side, iron ore arrivals at Chinese ports are expected to rebound after weather disruptions caused by typhoons along the eastern coast reduced deliveries last week. Although global shipments eased slightly, they remained seasonally high, increasing the risk of port inventories rebuilding and keeping prices under pressure in the near term.
+
+---
+
+### 2026-10-28 22:15:38  #Trading Economics #Markets #Canada #Currency #Importance 1
+
+TSX Steady After BoC Rate Hike — The S&P/TSX Composite Index traded near flat around 36,000 on Wednesday after the Bank of Canada’s policy decision to hike interest rates to by 25 bps to 2.5%, as expected. The bank said the decision aims to reduce the risk that continuing high energy prices spread broadly to the prices of other goods and services while noting that here could be a need to increase the policy rate further. Meanwhile, the US Fed is expected to hold rates steady. Financial stocks were mostly subdued. Agnico Eagle fell 1%, Alamos lost 0.5%, and Kinross dropped 2%, while First Quantum was flat. Teck Resources rose 3.5% ahead of Thursday’s earnings, while Imperial Oil gained 1% and Cameco added 0.2% ahead of Friday’s results. Tamarack Valley climbed 2% after raising its 2026 production forecast, while Trican Well Service surged 6% on higher Q3 profit.
+
+---
+
+### 2026-10-28 22:14:01  #Trading Economics #Markets #Canada #Currency #Importance 1
+
+Canadian Dollar Little Changed After BoC — The Canadian dollar was little changed at around 1.40 per USD, as the loonie showed a muted reaction to the Bank of Canada’s first interest rate hike since 2023, with the move largely priced in by markets. The central bank raised its benchmark interest rate by 25bps, as expected, and signalled that further increases may be necessary. Policymakers also revised their inflation and economic growth forecasts higher. Meanwhile, the currency remained sensitive to developments in the US, where the Fed left interest rates unchanged in October following a 25bps hike in September, while investors also monitored the US midterm elections. Speculation has grown over the possibility of a last-minute tariff-relief deal with Canada that could provide a political boost to US Republican candidates. Prime Minister Mark Carney, however, said that there’s a slight intensification in trade discussions.
+
+---
+
+### 2026-10-28 22:07:17  #國際
+
+貝克休斯預計第四季度中東地區的工業能源技術（IET）業務活動將較第三季度略有下降。
+
+---
+
+### 2026-10-28 22:06:47  #MKT News #US10Y #Impact bullish #DXY #Impact bearish #S&P500
+
+【Analysts: Markets expect Fed to hold rates; inflationary pressure remains】Despite September CPI and PPI coming in above expectations and inflationary pressure from ongoing AI infrastructure activity and elevated energy prices, markets expect the Fed to hold the federal funds target at 3.75–4.00% on Wednesday. Several senior Fed officials signalled no rush to hike this month. Cleveland and Dallas Fed presidents could dissent if the Fed holds, and both have previously said policy likely needs further tightening.
+
+---
+
+### 2026-10-28 22:06:32  #MKT News
+
+Spain's transport minister said the country's rail system is reliable and safe but has limitations, as is the case with any transport system.
+
+---
+
+### 2026-10-28 22:06:23  #其他
+
+【國產膜裝備取得新進展：白馬湖實驗室雙極膜電滲析裝置透過72小時連續穩定執行測試】據浙江能源訊息，近日，白馬湖實驗室能源化工環保團隊自主研發的全國產化雙極膜電滲析裝置，順利透過72小時連續穩定執行測試。裝置成功產出濃度為10%的硫酸溶液與8%的氫氧化鈉溶液，酸鹼溶液純度均達到99%以上，噸鹽能耗低至1217kWh/t，綜合效能達到國內領先水平。裝置透過72小時滿負荷連續穩定執行測試標誌著白馬湖實驗室已經完整掌握雙極膜電滲析膜堆的自主研製能力，實現從膜堆的關鍵核心部件到整套裝備組裝工藝，以及全工藝系統設計的自主可控，躋身具備雙極膜膜堆高階製造能力的科研機構行列。
+
+---
+
+### 2026-10-28 22:06:10  #國際
+
+貝克休斯預計，第四季度中東海上油田服務活動將環比下降。
+
+---
+
+### 2026-10-28 22:05:59  #市場
+
+英國債務管理辦公室表示，將推出短期國債抵押池，每隻短期國債規模為2.5億英鎊。
+
+---
+
+### 2026-10-28 22:05:39  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
+
+UK Office for Budget Responsibility: pricing for a short-term Treasury-bill standing repo facility could be about 20 bps below the BANK OF ENGLAND'S policy rate; assessment pending.
+
+---
+
+### 2026-10-28 22:05:38  #公司 #市場 #國際
+
+【Federated Hermes首席投資官：大型科技公司發債並未擠佔美債需求】Federated Hermes旗下規模6770億美元貨幣市場基金的首席投資官黛比·坎寧安表示，人工智慧公司的借款實際上可能為美債創造需求。坎寧安稱，當Alphabet、微軟和Meta等超大規模雲服務商籌集資金時，它們不會一次性全部花完，而是將大量現金存入貨幣市場基金。而這些基金投資什麼呢？美國國債。坎寧安還表示，即便更多貸款機構將目光投向人工智慧公司，美債需求仍將維持。受基金授權、抵押品規則及其他因素約束，投資者必須投資美國政府債券。坎寧安說：“大多數持有美國國債和國債基金的人都是不得不持有。”
+
+---
+
+### 2026-10-28 22:04:56  #MKT News #Macro & Rates
+
+【Analyst: BOC rate hike will increase pressure on homeowners】Rates.ca analyst Victor Tran said the BOC's policy-rate increase will immediately put upward pressure on variable-rate mortgages, pushing their rates closer to fixed rates. Fixed-rate mortgages have risen about 100bp since early September with no sign of reversing. As the central bank begins a tightening cycle, variable rates are likely to climb sharply in the coming months; mortgage-rate pressure on homeowners is expected to persist for 12–18 months.
+
+---
+
+### 2026-10-28 22:04:39  #其他
+
+西班牙交通部長稱，火車相撞事故已造成64人死亡，50多人受傷。
+
+---
+
+### 2026-10-28 22:04:04  #MKT News
+
+Industry sources said passage permits for the Kerch Strait, linking the Black Sea and the Sea of Azov, will be issued through Nov. 15.
+
+---
+
+### 2026-10-28 22:03:54  #國際
+
+美國聯邦通訊委員會將就允許監獄干擾違禁手機訊號進行投票。
+
+---
+
+### 2026-10-28 22:03:51  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Breaks 3-Day Decline — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, halted its three-day losing streak on Wednesday, rising about 1.9% to 2,652 points. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, surged roughly 5% to a two-week high of 3,886 points, reversing three consecutive sessions of declines. Meanwhile, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell further by 2.8% to its lowest level since late April at 1,965 points; and the supramax index went down by 0.3% to a one-week low of 1,878 points.
+
+---
+
+### 2026-10-28 22:03:43  #MKT News
+
+Spain's transport minister refused to say whether he will resign.
+
+---
+
+### 2026-10-28 22:03:35  #MKT News #Market Regions #Europe & UK
+
+UK DMO raised the 2026-27 issuance plan for short-term Treasury bills to £8 bln.
+
+---
+
+### 2026-10-28 22:03:25  #央行 #市場 #國際
+
+【加拿大央行逾三年來首次加息 並表示可能需要進一步加息】加拿大央行提高利率，以防範能源價格上漲帶來的通脹上行風險，並表示可能需要進一步提高借貸成本。以行長Tiff Macklem為首的決策者週三將基準隔夜利率上調至2.5%，為三年多來首次加息。此次加息符合市場預期，也是彭博調查中經濟學家的一致預期。“管理委員會決定提高政策利率，以降低能源價格持續高企廣泛傳導至其他商品和服務價格的風險，”加拿大央行在宣告中表示。“可能有必要進一步提高政策利率，但鑑於存在不確定性，管理委員會同意謹慎行事，”該行稱。自9月以來，加拿大央行日益擔心，中東衝突導致的油價上漲會傳導至其他商品和服務價格。目前，加拿大央行預計通脹率要到2028年年中才會回到2%的目標水平。
+
+---
+
+### 2026-10-28 22:02:56  #MKT News #Commodities #Energy #DXY #Impact bearish #WTI #Impact bullish
+
+【BOC raises inflation forecast, says room for policy easing has narrowed】In the Monetary Policy Report released with its rate decision, the Bank of Canada raised its CPI forecast to 3.1% YoY in 2027 from a prior 2.0% projection. Governor Macklem said energy prices have risen and are expected to remain elevated and that cost pressures are building, citing those factors as the main rationale supporting further hikes and saying the scope for policy easing has narrowed. He added the bank had discussed holding rates; arguments for pausing included that the inflation pickup is concentrated in energy, the economy still has spare capacity, and a U.S. tariff dispute could slow growth. The governing council agreed future decisions will be made on a meeting-by-meeting basis. BOC officials also upgraded GDP growth forecasts, in part reflecting federal measures including a proposed productivity super-deduction and progress on large projects.
+
+---
+
+### 2026-10-28 22:02:52  #MKT News
+
+Industry sources said Russia approved, for the first time since July 10, the departure of vessels carrying grain for export from Azov Sea ports.
+
+---
+
+### 2026-10-28 22:02:34  #焦點 #國際
+
+行業訊息人士稱，俄羅斯首次批准運載出口糧食的船隻自亞速海港口離港，為7月10日以來首次。
+
+---
+
+### 2026-10-28 22:01:14  #其他
+
+西班牙交通部長：重啟列車的決定未按規定作出，也未以能讓列車停下的節奏推進。
+
+---
+
+### 2026-10-28 22:01:11  #MKT News #GBPUSD #Impact bullish #FTSE100
+
+UK Office for Budget Responsibility (OBR) estimates pre-measures fiscal headroom for 2029-30 at £12.5 billion.
+
+---
+
+### 2026-10-28 22:00:53  #公司
+
+BAE系統公司拓展商用航空售後市場產品與服務，以滿足不斷增長的機隊需求。
+
+---
+
+### 2026-10-28 22:00:42  #國際
+
+IBM將成為美國網球公開賽官方人工智慧與雲合作伙伴，合作持續至2031年。
+
+---
+
+### 2026-10-28 22:00:18  #MKT News #Market Regions #Europe & UK
+
+UK DMO plans five syndicated offerings of conventional gilts and two syndicated offerings of index-linked gilts in the 2026-27 fiscal year.
+
+---
+
+### 2026-10-28 21:59:58  #Trading Economics #Markets #Italy #stocks #Importance 1
+
+Enel Shares Hit 8-week High — Enel shares increased to 9.32 EUR, the highest since September 2026. Over the past 4 weeks, Enel gained 6.19%, and in the last 12 months, it increased 7.03%.
+
+---
+
+### 2026-10-28 21:59:02  #公司
+
+【北京先通國際醫藥科技股份有限公司 - B透過港交所上市聆訊】據港交所檔案：北京先通國際醫藥科技股份有限公司 - B透過港交所上市聆訊。
+
+---
+
+### 2026-10-28 21:58:54  #其他
+
+北約秘書長呂特表示，英國預算標誌著“好訊息”，在國防方面做出了強有力的承諾。
+
+---
+
+### 2026-10-28 21:58:53  #MKT News #Hang Seng Index
+
+HKEX filing: China Travel Hong Kong & Macau Cultural Tourism Holdings Co., Ltd. has passed its HKEX listing hearing.
+
+---
+
+### 2026-10-28 21:58:43  #其他
+
+貝克休斯：到2035年，全球液化天然氣產能將增至9.5億噸/年。
+
+---
+
+### 2026-10-28 21:58:40  #MKT News #01877.HK #Impact bullish
+
+Junshi Biosciences (01877.HK): Marketing applications for its toripalimab injection (subcutaneous), covering all 13 indications previously approved for toripalimab injection, have been accepted for review.
+
+---
+
+### 2026-10-28 21:58:23  #其他
+
+貝克休斯：2026年全球上游支出將與上年持平。
+
+---
+
+### 2026-10-28 21:57:47  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact mixed
+
+UK DMO expects to sell £54.1 bln of gilts via syndication in the 2026-27 fiscal year.
+
+---
+
+### 2026-10-28 21:57:23  #MKT News #Macro & Rates #GBPUSD #Impact bullish #FTSE100 #DXY #Impact bearish
+
+UK DMO will launch a standing repo facility for short-term Treasury bills in January 2027.
+
+---
+
+### 2026-10-28 21:57:21  #其他
+
+西班牙交通大臣：8點36分已作出恢復列車執行的決定。
+
+---
+
+### 2026-10-28 21:57:19  #其他
+
+【劉非：抓好重點任務重點工作重大改革落實 確保圓滿完成年度各專案標任務】28日上午，杭州市委全面深化改革委員會第十八次會議、高質量發展建設共同富裕示範區城市範例推進例會召開。會議強調，要深刻認識和準確把握新形勢新變化，以更大力度的改革創新破解發展中的難題。認真落實透過改革“變增量配置為主為存量盤活為主”的要求，更多地把著力點放在整合盤活存量資源上，破除體制機制障礙，實現效益最大化，帶動投資加快放量。認真落實透過改革“變各自為戰為一體融合”的要求，以一體作戰、跨界融合為重要突破口，注重相互借鑑，堅持整合創新，強化政策協同，不斷提升改革成效。認真落實透過改革“變事後應對為事先預防”的要求，以安全生產隱患排查、重大風險防範化解為切入點，從源頭堵住風險漏洞、化解安全隱患、破解治理難題。認真落實透過改革“變傳統手段為數智賦能”的要求，充分發揮特色優勢，把人工智慧深度融入到經濟社會發展的各領域各方面，全力打通資料壁壘，推進資料共享，更好賦能城市治理現代化。（杭州釋出）
+
+---
+
+### 2026-10-28 21:56:58  #MKT News
+
+Spain's transport minister said the train involved in the incident has been taken out of service.
+
+---
+
+### 2026-10-28 21:56:46  #MKT News
+
+Spain's transport minister said a train control system failed due to a computer communication problem.
+
+---
+
+### 2026-10-28 21:56:06  #MKT News
+
+Bolsonaro left Miami airport without speaking to reporters.
+
+---
+
+### 2026-10-28 21:55:20  #市場
+
+波音股價在前一交易日暴跌 10.7% 後下跌 1.4%。
+
+---
+
+### 2026-10-28 21:55:13  #國際
+
+【巴西參議員博索納羅抵達美國】據巴西方面當地時間28日訊息，巴西參議員、自由黨候選人弗拉維奧·博索納羅及其家人乘坐飛機抵達美國。巴西總統盧拉27日批評弗拉維奧·博索納羅在總統選舉落敗後離境行為是“可恥的”。盧拉稱，弗拉維奧·博索納羅應該留在巴西，按照司法機關要求上交護照，並提交相關材料以對其受到的指控作出解釋。26日，巴西聯邦最高法院一名法官裁定，禁止弗拉維奧·博索納羅離開巴西，責令其24小時內向巴西警方上交護照。（央視新聞）
+
+---
+
+### 2026-10-28 21:55:00  #央行 #美聯儲
+
+【美聯儲10月利率決議預判 金融機構預計：美聯儲或在12月加息25個基點】美聯儲將於北京時間29日凌晨2點公佈10月利率決議。市場普遍認為本次議息會議美聯儲或選擇按兵不動，市場押注加息的機率目前僅為9.4%。9月會議美聯儲加息25個基點，這是三年多來的首次加息。不過，加息並未緩解物價壓力，9月美國消費者價格指數同比上漲3.7%，高於8月的3.4%。分析認為，從風險回報角度來說，10月維持利率不變可能是更合適的結果。目前來看，高盛、摩根大通、摩根士丹利、巴克萊、德意志銀行、瑞銀及滙豐等主要金融機構均預計，美聯儲將在12月加息25個基點。
+
+---
+
+### 2026-10-28 21:54:41  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Valero Energy Shares Hit 4-week Low — Valero Energy shares decreased to 384.08 USD, the lowest since September 2026. Over the past 4 weeks, Valero Energy lost 0.86%, and in the last 12 months, it increased 125.23%.
+
+---
+
+### 2026-10-28 21:53:47  #其他
+
+博索納羅離開機場時未接受媒體採訪。
+
+---
+
+### 2026-10-28 21:53:40  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Brazilian Stocks Extend Losses Amid Fiscal Uncertainty — The Ibovespa fell nearly 2% to trade below the 173,000 mark on Wednesday, extending its losses for a third consecutive session and reaching its lowest level in about two months. Investors continued to assess the implications of President Lula’s victory, amid concerns over the fiscal outlook and uncertainty surrounding the composition of the economic team. Banking stocks came under particular pressure, with Santander plunging 4% after reporting a 28% year-on-year decline in recurring managerial net income. Other financial stocks also retreated, with Bradesco falling 4%, Itaú dropping more than 2%, Itaúsa and Banco do Brasil losing around 2% each, and B3 declining approximately 2%. Utilities also weakened, with Axia shedding nearly 2%. Elsewhere, Ambev fell more than 0.5% and Vale lost around 1% ahead of their earnings reports due on Thursday. Petrobras slipped more than 0.5%, despite a rebound in oil prices.
+
+---
+
+### 2026-10-28 21:53:18  #國際
+
+克里姆林宮：總統助理烏沙科夫表示歐洲不會參與俄美烏談判。
+
+---
+
+### 2026-10-28 21:53:16  #MKT News
+
+The Kremlin says the date for trilateral talks will be announced shortly.
+
+---
+
+### 2026-10-28 21:53:07  #宏觀 #公司
+
+【重磅！財政部副部長廖岷擬接任IMF副總裁】10月28日訊息，金融一線從國際貨幣基金組織（IMF）官網獲悉，國際貨幣基金組織（IMF）總裁格奧爾基耶娃今日宣佈，副總裁李波將於2026年11月30日任期結束後離任；同時提議由現任財政部副部長廖岷接任副總裁一職，任命自2026年12月1日起生效。（金融一線）
+
+---
+
+### 2026-10-28 21:53:06  #MKT News #Important #DXY #Impact bullish #XAUUSD #WTI
+
+Interfax quoted the Kremlin as saying Europe will not participate in trilateral talks on Ukraine.
+
+---
+
+### 2026-10-28 21:52:55  #國際
+
+克里姆林宮表示，歐洲方面不會參加關於烏克蘭問題的三方會談。
+
+---
+
+### 2026-10-28 21:52:33  #其他
+
+克里姆林宮：美俄烏三方會談日期將很快公佈。
+
+---
+
+### 2026-10-28 21:52:19  #MKT News #WTI #Impact bearish #Brent
+
+Baker Hughes expects the global upstream spending outlook to continue improving through 2027.
+
+---
+
+### 2026-10-28 21:52:10  #MKT News #Commodities #Energy
+
+Baker Hughes forecasts global LNG liquefaction capacity will reach 800 million tonnes per annum by 2030.
+
+---
+
+### 2026-10-28 21:51:37  #央行 #市場
+
+加拿大央行加息後，加元兌美元匯率持穩於1.4050附近，當日變動不大。
+
+---
+
+### 2026-10-28 21:51:23  #MKT News
+
+BOC Governor MACKLEM expects Q4 CPI to reach 3.5% and to remain at or above 3% for most of 2027.
+
+---
+
+### 2026-10-28 21:51:19  #其他
+
+貝克休斯預計，到2030年，全球液化天然氣產能將達到每年8億噸。
+
+---
+
+### 2026-10-28 21:51:11  #MKT News
+
+After the BOC hiked rates, Canada’s 2-year government bond yield neared its intraday low.
+
+---
+
+### 2026-10-28 21:51:04  #MKT News
+
+NATO Secretary General Rutte said the UK meeting its NATO spending commitments is a welcome step.
+
+---
+
+### 2026-10-28 21:50:53  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+BOC Governor MACKLEM said the inf outlook will rise sharply.
+
+---
+
+### 2026-10-28 21:50:49  #MKT News #Important #Macro & Rates #DXY #Impact bearish #XAUUSD #Impact bullish #USDJPY
+
+【BOC hikes for first time in over three years; further hikes possible】The Bank of Canada raised its policy rate 25bps to 2.50% on Wednesday, its first increase in more than three years. The bank expects inflation to remain well above its 2% target through 2028. BOC Governor MACKLEM said further rate increases may be necessary to curb inflation, while officials will proceed cautiously. He said the hike was needed to prevent elevated energy prices from spreading into broad-based inflation. Elevated uncertainty from a US-Canada trade dispute and the Middle East conflict keeps the bank vigilant. The BOC also raised its growth forecast, citing strong consumer spending and exports and an expected pickup in business investment as firms adopt AI and use a new tax-credit introduced by the prime minister.
+
+---
+
+### 2026-10-28 21:50:49  #MKT News #USDCAD #Impact bearish #DXY
+
+BOC Governor Macklem: Canada’s inf outlook has deteriorated, while the growth outlook has slightly improved.
+
+---
+
+### 2026-10-28 21:50:32  #MKT News
+
+BOC expects potential output growth to slow to just under 1.5% in 2026.
+
+---
+
+### 2026-10-28 21:50:25  #MKT News
+
+BOC assumes Canada’s nominal neutral interest rate lies at the midpoint of its estimated 2.25%–3.25% range.
+
+---
+
+### 2026-10-28 21:50:21  #央行 #其他
+
+【加拿大央行：預計2026年通脹平均為2.9%】加拿大央行預計2026年通脹平均為2.9%，7月為2.5%；2027年為3.1%，7月為2.0%；2028年為2.2%，7月為2.1%。預計2026年經濟增長率為1.0%，7月為0.7%；2027年增長2.0%，7月為1.8%；2028年增長2.0%，7月為1.8%。預計2026年通脹平均為2.9%，7月為2.5%；2027年為3.1%，7月為2.0%；2028年為2.2%，7月為2.1%。
+
+---
+
+### 2026-10-28 21:50:18  #其他
+
+北約秘書長呂特：英國達到北約軍費承諾是值得歡迎的舉措。
+
+---
+
+### 2026-10-28 21:50:11  #MKT News #Macro & Rates #Market Regions #Greater China
+
+BOC projects annualized GDP growth of 2.0% in Q3 (up from a 1.5% July projection) and 0.8% in Q4.
+
+---
+
+### 2026-10-28 21:50:09  #Trading Economics #Economy #Canada #Interest Rate #Importance 3
+
+Bank of Canada Raises Rates for 1st Time Since 2023 — The Bank of Canada raised its benchmark policy rate by 25bps to 2.5% in October 2026, the first increase in three years and in line with market expectations. Policymakers said the decision aims to reduce the risk that continuing high energy prices spread broadly to the prices of other goods and services. The central bank also noted that inflation is higher and more persistent than in the July Report. Growth has picked up this year and is expected to recover further. On the monetary outlook, there could be a need to increase the policy rate further, but given uncertainties, Governing Council agreed to proceed carefully. The Bank remains committed to maintaining Canadians’ confidence in price stability.
+
+---
+
+### 2026-10-28 21:50:05  #央行 #加拿大央行
+
+【加拿大央行：預計2026年通脹平均為2.9%】加拿大央行預計2026年通脹平均為2.9%，7月為2.5%；2027年為3.1%，7月為2.0%；2028年為2.2%，7月為2.1%。預計2026年經濟增長率為1.0%，7月為0.7%；2027年增長2.0%，7月為1.8%；2028年增長2.0%，7月為1.8%。預計2026年通脹平均為2.9%，7月為2.5%；2027年為3.1%，7月為2.0%；2028年為2.2%，7月為2.1%。
+
+---
+
+### 2026-10-28 21:50:00  #市場 #國際
+
+【黃金類ETF縮水180億元】受國際金價大幅回撥影響，9月以來國內黃金類ETF走弱，產品總規模縮水超過180億元。多位基金經理提示，10月29日凌晨FOMC決議與沃什釋出會、同日公佈的美國三季度GDP初值與9月PCE物價指數，將共同影響加息路徑的定價，金價正迎來關鍵方向選擇。9月以來，截至10月27日，黃金類ETF二級市場的跌幅及規模下滑程度均較為顯著。其中，黃金股ETF跌幅領先，黃金股ETF華安、黃金股ETF華夏、黃金股ETF工銀等跌幅超過24%；黃金ETF、上海金ETF跌幅也均超過10%。 此外，黃金類ETF規模同期合計下滑逾180億元至2867.62億元。其中，規模最大的黃金ETF“黃金ETF華安”規模跌破千億元，回落至985.78億元；規模最大的黃金股ETF“黃金股ETF永贏”規模也降至120億元以下。（上證報）
+
+---
+
+### 2026-10-28 21:49:59  #央行 #市場
+
+加拿大央行加息後，2年期加拿大國債收益率小幅觸及日內低點。
+
+---
+
+### 2026-10-28 21:49:50  #MKT News
+
+BOC: long-term inf expectations remain firmly anchored; a broad set of indicators continue to point to some excess supply in the economy.
+
+---
+
+### 2026-10-28 21:49:39  #其他
+
+北約秘書長呂特：英國預算包含強有力的防務承諾。
+
+---
+
+### 2026-10-28 21:49:23  #市場
+
+標普500指數和納斯達克100指數轉跌。
+
+---
+
+### 2026-10-28 21:49:19  #MKT News
+
+BOC says growth forecasts face considerable uncertainty, especially regarding trade relations with the United States.
+
+---
+
+### 2026-10-28 21:49:14  #其他
+
+滙豐將同花順評級下調至持有，目標價206元人民幣。
+
+---
+
+### 2026-10-28 21:48:57  #MKT News #DXY #Impact bearish #WTI #Impact bullish #Copper
+
+【BOC raises growth forecasts for 2026–28】BOC raised its GDP growth forecasts to 1.0% for 2026 (July: 0.7%), 2.0% for 2027 (July: 1.8%) and 2.0% for 2028 (July: 1.8%). It projects average inflation at 2.9% in 2026 (July: 2.5%), 3.1% in 2027 (July: 2.0%) and 2.2% in 2028 (July: 2.1%).
+
+---
+
+### 2026-10-28 21:48:55  #央行 #其他
+
+加拿大央行行長麥克勒姆：加拿大通脹前景惡化，而增長前景略有改善。
+
+---
+
+### 2026-10-28 21:48:53  #MKT News #Important
+
+BOC projects average inf of 2.9% in 2026 (July projection 2.5%), 3.1% in 2027 (July: 2.0%) and 2.2% in 2028 (July: 2.1%).
+
+---
+
+### 2026-10-28 21:48:17  #MKT News #DXY #Impact bearish #WTI #Impact bullish
+
+Bank of Canada Governor MACKLEM said the primary rationale for rate hikes is that energy prices are expected to remain elevated and cost pressures are building.
+
+---
+
+### 2026-10-28 21:48:11  #其他
+
+【中國等26國簽署《聯合國可轉讓貨物單證公約》】《聯合國可轉讓貨物單證公約》簽約儀式10月26日在迦納首都阿克拉舉行，包括中國、迦納在內的26個國家成為《公約》首批簽約國。《公約》此後將在紐約聯合國總部開放供各國簽署。（新華社）
+
+---
+
+### 2026-10-28 21:47:58  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+UK told Ukraine it will step up sanctions on Russia.
+
+---
+
+### 2026-10-28 21:47:52  #MKT News
+
+BOC Governor Macklem expects 2% growth in 2027 and 2028 to absorb the economy's remaining slack.
+
+---
+
+### 2026-10-28 21:47:32  #央行 #市場 #焦點
+
+加拿大央行行長麥克勒姆：需要提高政策利率，以降低能源價格上漲可能演變為全面通脹的風險。
+
+---
+
+### 2026-10-28 21:47:29  #MKT News #Important
+
+USD/CAD fluctuated 38 pips intraday, now at 1.4042.
+
+---
+
+### 2026-10-28 21:47:25  #MKT News
+
+Bank of Canada Governor Macklem said the room to ease monetary policy has narrowed.
+
+---
+
+### 2026-10-28 21:47:13  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish
+
+Bank of Canada Governor Macklem said the economy is showing resilience.
+
+---
+
+### 2026-10-28 21:47:08  #央行 #其他
+
+加拿大央行貨幣政策報告假設布倫特原油價格在第四季度平均約為 100 美元，然後到 2028 年底逐漸降至 75 美元左右。
+
+---
+
+### 2026-10-28 21:47:08  #MKT News
+
+BOC Governor Macklem said uncertainty remains elevated.
+
+---
+
+### 2026-10-28 21:47:05  #MKT News #WTI #Impact bullish #US10Y
+
+BOC Governor Macklem said fuel costs will remain elevated for longer.
+
+---
+
+### 2026-10-28 21:47:02  #MKT News #DXY #Impact bearish
+
+BOC Governor Macklem said consumer spending has remained resilient.
+
+---
+
+### 2026-10-28 21:46:56  #央行 #其他
+
+加拿大央行加息後，加元匯率基本持平。
+
+---
+
+### 2026-10-28 21:46:43  #MKT News #DXY #Impact bearish
+
+BOC Governor Macklem said exports have strengthened amid the US-Canada trade dispute.
+
+---
+
+### 2026-10-28 21:46:35  #MKT News
+
+BOC Governor Macklem said household spending, exports and business investment will drive economic growth.
+
+---
+
+### 2026-10-28 21:46:19  #央行 #其他
+
+加拿大央行貨幣政策利率假設，大多數符合美墨加協定的商品豁免將繼續有效。
+
+---
+
+### 2026-10-28 21:46:19  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+BOC says the Middle East conflict has no clear path to resolution.
+
+---
+
+### 2026-10-28 21:46:13  #央行 #其他
+
+加拿大央行：加拿大名義中性利率假定處於預估的 2.25% 至 3.25% 區間的中點。
+
+---
+
+### 2026-10-28 21:46:07  #央行 #國際
+
+加拿大央行：中東衝突的解決“沒有明確的路徑”。
+
+---
+
+### 2026-10-28 21:46:00  #央行 #加拿大央行
+
+【加拿大央行：可能需要再次加息】加拿大央行稱，可能需要再次加息。鑑於不確定性，委員會同意謹慎行事；注意到不確定性仍然很高；經濟展現出韌性，貨幣政策寬鬆空間縮小。
+
+---
+
+### 2026-10-28 21:45:57  #央行 #其他
+
+加拿大央行（BOC）：家庭支出、出口、商業支出將推動經濟增長。
+
+---
+
+### 2026-10-28 21:45:57  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+BOC: Persistently high energy prices, combined with stronger transmission effects, increase inflation persistence over the projection horizon.
+
+---
+
+### 2026-10-28 21:45:50  #央行 #加拿大央行
+
+加拿大央行將關鍵利率上調至2.5%，符合市場預期。
+
+---
+
+### 2026-10-28 21:45:48  #MKT News
+
+BOC said the committee agreed to act cautiously given prevailing uncertainty.
+
+---
+
+### 2026-10-28 21:45:45  #央行 #其他
+
+加拿大央行：上調2026年至2028年期間的增長預測。
+
+---
+
+### 2026-10-28 21:45:39  #央行 #其他
+
+加拿大央行行長麥克勒姆：在美加貿易爭端中，出口有所增強。
+
+---
+
+### 2026-10-28 21:45:32  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
+
+BOC says it may need to raise interest rates again.
+
+---
+
+### 2026-10-28 21:45:10  #MKT News #Important #USDCAD #Impact bearish
+
+【BOC raises policy rate 25bps to 2.50% as expected】BOC raised its policy rate 25bps to 2.50% from 2.25%, marking its first hike in more than three years and in line with market expectations.
+
+---
+
+### 2026-10-28 21:45:08  #央行 #其他 #焦點
+
+【加拿大央行如期加息25個基點】加拿大央行將基準利率從2.25%上調至2.50%，為三年多以來首次加息，符合市場預期。在利率決議中，加拿大央行表示可能再次需要加息。
+
+---
+
+### 2026-10-28 21:45:08  #MKT News #Important #Macro & Rates #DXY #Impact bearish
+
+Bank of Canada policy rate decision Oct. 28: 2.50% (consensus 2.50%; prior 2.25%).
+
+---
+
+### 2026-10-28 21:45:00  #MKT News #Economic Calendar #Important
+
+Canada | Bank of Canada Interest Rate Decision (Oct.28) | actual 2.5% | consensus 2.5% | previous 2.25%
+
+---
+
+### 2026-10-28 21:44:42  #公司 #市場
+
+沃爾瑪墨西哥公司第三季度財報釋出後，其股價下跌3%。
+
+---
+
+### 2026-10-28 21:44:30  #宏觀
+
+英國財政部檔案顯示，英國計劃將即將實施的碳邊境稅範圍擴大至成品油。
+
+---
+
+### 2026-10-28 21:44:18  #MKT News #GBPUSD #Impact bearish
+
+UK Treasury documents show Britain plans to extend its forthcoming carbon border tax to refined products.
+
+---
+
+### 2026-10-28 21:44:07  #市場
+
+GENMAB股價上漲9.8%，此前PETOSEMTAMAB達到兩項主要終點。
+
+---
+
+### 2026-10-28 21:43:10  #MKT News #GBPUSD #Impact bullish #FTSE100
+
+UK Office for Budget Responsibility (OBR) says fiscal headroom would be £10.2 billion if fuel duty remains unchanged.
+
+---
+
+### 2026-10-28 21:43:08  #國際
+
+【避開巴西領空，博索納羅私人飛機經停厄瓜多後將赴美國邁阿密】根據巴西方面訊息，巴西參議員、自由黨候選人弗拉維奧·博索納羅及其家人將於當地時間10月28日上午抵達美國佛羅里達州邁阿密。他們乘坐的私人飛機自阿根廷起飛，經停厄瓜多後前往美國。據航班追蹤網站FlightAware資料，弗拉維奧·博索納羅的私人飛機於巴西時間28日6時22分從阿根廷伊瓜蘇港起飛，預計於10時40分左右抵達邁阿密的奧帕洛卡行政機場。（央視新聞）
+
+---
+
+### 2026-10-28 21:43:07  #MKT News #Commodities #Energy #GBPUSD #Impact bearish #FTSE100 #DXY #Impact bullish
+
+The UK Office for Budget Responsibility said the cumulative cost of the fuel duty freeze and a 5p-per-litre cut has risen to £139bn.
+
+---
+
+### 2026-10-28 21:42:24  #其他
+
+英國預算責任辦公室：燃油稅凍結及每升下調5便士的累計成本已升至1390億英鎊。
+
+---
+
+### 2026-10-28 21:42:11  #宏觀 #國際
+
+【“黑中介”招攬中國遊客到韓國濟州跨境賭博，中領館發聲】據“中國駐濟州總領事館”公眾號訊息，10月27日，領區主流媒體《濟民日報》刊登駐濟州總領館發言人就跨境賭博問題答記者問，全文如下：賭博嚴重危害社會法治、敗壞公序良俗，這是國際社會的普遍共識。韓國法律嚴格限制本國公民參與賭博，中國法律更是對賭博實行“零容忍”，即使境外賭場合法開設，中國公民跨境參賭或組織招攬他人參賭也涉嫌違反中國法律。中韓兩國地緣相近、文緣相通、人緣相親。兩國自1992年建交以來，各領域務實合作迅猛發展。濟州在中韓友好交往中扮演著獨特而重要的角色，是不少中國遊客的首次出國遊目的地。2025年包括港澳臺在內的中國遊客訪濟人數近190萬，頻繁的人員往來有力促進了濟州和中國的人文交流，進一步增強濟州對華開展旅遊領域合作的信心。然而，我館不時接到中國遊客舉報投訴，稱有“黑中介”在中文社交平臺做灰色引流，再透過私信招攬中國遊客到濟州賭博，我們對此堅決反對。去年底今年初，中韓元首成功互訪，就開展健康有益人文交流達成重要共識。中韓互為重要近鄰，兩國出臺簽證便利化措施，促進雙方人員往來，透過提振旅遊業拉動經濟發展，符合兩國根本利益，也有助於增進兩國人民之間的瞭解和友誼。我們希望韓方有關部門著眼濟州旅遊業長遠發展和中韓人文交流大局，切實履行監管責任，嚴格規範賭場經營，杜絕針對中國遊客的招賭行為，維護好濟州“和平之島”和“旅遊之都”的良好形象。也相信濟州能夠以旅遊為媒介，全面拓展對華交流合作，增進兩國民眾相互理解和友好感情，成為韓地方對華交流合作的排頭兵。
+
+---
+
+### 2026-10-28 21:42:08  #MKT News
+
+UNHCR says more than 281,000 people have been forced from their homes since the latest escalation of fighting in Yemen.
+
+---
+
+### 2026-10-28 21:40:49  #MKT News #Important
+
+UK Office for Budget Responsibility says its central forecast projects 2027 inflation at 3.5% (March forecast: 2%), with inflation rising to a quarterly peak of 3.75% in early 2027.
+
+---
+
+### 2026-10-28 21:40:41  #MKT News
+
+【Tianfu Communication expects CPO volumes to ramp from 2027】Tianfu Communication said at an Oct. 28 online briefing that CPO-related products have entered mass shipments and customer demand is clear. Based on current project progress, the company expects CPO volumes to ramp from 2027 and for CPO to become a new growth driver. NPO-related products remain in R&D and customer sample/validation stages; overall progress is in line with expectations. If validation and customer onboarding proceed smoothly, NPOs could also reach mass production scale in 2027.
+
+---
+
+### 2026-10-28 21:40:35  #其他
+
+Genmab的petosemtamab在頭頸部鱗狀細胞癌試驗中將死亡風險降低50%。
+
+---
+
+### 2026-10-28 21:40:18  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.08% Lower — The Dow Jones Index is losing 44 points. Losses were led by Salesforce (-2.42%), Sherwin-Williams (-2.04%) and Walmart (-0.92%). Offsetting the fall, top gainers were Alphabet (2.51%), Nvidia (0.73%) and IBM (0.60%).
+
+---
+
+### 2026-10-28 21:39:52  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100 #Impact bullish #DXY
+
+UK Office for Budget Responsibility says the budget slows near‑term fiscal consolidation compared with earlier plans.
+
+---
+
+### 2026-10-28 21:39:29  #MKT News
+
+UK Office for Budget Responsibility: probability of meeting fiscal targets now 56%, down from 59% at the 2025 Budget.
+
+---
+
+### 2026-10-28 21:39:18  #MKT News #GBPUSD #Impact bullish #FTSE100
+
+The UK Office for Budget Responsibility (OBR) said if energy prices return to its March forecast path, it expects faster disinflation, stronger near-term GDP growth and potential loosening of financial conditions.
+
+---
+
+### 2026-10-28 21:39:11  #MKT News #Commodities #Energy #GBPUSD #Impact mixed #FTSE100 #Impact bearish #Brent #Impact bullish
+
+UK Office for Budget Responsibility says if energy prices peak at a higher level and remain elevated for longer, it expects inflation to rise, near-term GDP growth to weaken and financial conditions could tighten.
+
+---
+
+### 2026-10-28 21:38:48  #市場
+
+捷藍航空股價在前一交易日上漲近 19% 後下跌 1%。
+
+---
+
+### 2026-10-28 21:38:23  #公司 #市場
+
+通用電氣Vernova股價下跌5.3%；公司將斥資90億美元收購Trench Group。
+
+---
+
+### 2026-10-28 21:37:58  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+S&P and Nasdaq Gain — US stocks were mostly higher on Wednesday, with the S&P 500 rising 0.3% and the Nasdaq adding 0.4% while the Dow Jones traded around the flatline. Investors remained cautious ahead of the Fed’s monetary policy decision later in the day and awaited quarterly earnings from major companies, including Microsoft and Alphabet, due after the closing bell. The Fed is widely expected to leave interest rates unchanged, following a 25bps rate hike last month, with investors focused on policymakers’ guidance for the remainder of the year. Meanwhile, US semiconductor stocks advanced in premarket trading, supported by record quarterly profits from South Korea’s SK Hynix. Broadcom (2%), Micron Technology (4.9%), AMD (1.8%) were higher and Alphabet added 1.2% amid news that OpenAI plans to buy Google's AI chips. In contrast, real estate and materials were the worst performing sectors.
+
+---
+
+### 2026-10-28 21:37:36  #市場
+
+布林克股價延續漲勢，最新上漲6.0%。
+
+---
+
+### 2026-10-28 21:37:31  #MKT News #GBPUSD #Impact bearish
+
+The UK Office for Budget Responsibility said the margin to absorb risks and uncertainties inherent in any medium-term fiscal forecast is very small.
+
+---
+
+### 2026-10-28 21:37:16  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+Office for Budget Responsibility (OBR) says a 0.5 percentage-point upside to UK productivity versus its forecast could cut government borrowing by about £50 billion; a 0.5pp downside could raise borrowing by about £40 billion.
+
+---
+
+### 2026-10-28 21:37:05  #Trading Economics #Markets #United Kingdom #Government Bond 10Y #Importance 1
+
+UK Gilt Yields Fall as Markets Digest Budget — UK 10-year gilt yields fell toward 5.3%, reaching their lowest level in over a month as investors assessed Chancellor John Healey’s first budget. Healey reaffirmed his commitment to the government’s fiscal rules, with the Office for Budget Responsibility (OBR) estimating fiscal headroom at £15 billion for 2029–30, in line with expectations. Key measures include energy bill relief, lower-than-expected bank tax increases, tariff suspensions on more than 100 supermarket products and a 3.9% increase in minimum wages. The budget also allocates an additional £20.4 billion to the National Wealth Fund and the British Business Bank to support investment and 140,000 jobs. Meanwhile, the OBR cut its 2027 GDP growth forecast to 1% from 1.6%, citing the economic impact of the Iran war, while raising its 2026 projection to 1.2% from 1.1%. Borrowing and public debt forecasts were also revised higher across the outlook period.
+
+---
+
+### 2026-10-28 21:36:59  #MKT News #Macro & Rates #GBPUSD #Impact mixed #FTSE100
+
+UK Office for Budget Responsibility: a 1 percentage-point move in interest rates could raise or lower government debt interest costs by about £16 billion.
+
+---
+
+### 2026-10-28 21:36:55  #MKT News
+
+UK Office for Budget Responsibility says the probabilities of a material improvement or deterioration in public finances and the economy are roughly equal.
+
+---
+
+### 2026-10-28 21:36:39  #MKT News
+
+WBG expects fertilizer prices to rise 14% in 2026, driven by a surge in urea prices, and to return to 2025 levels in 2027.
+
+---
+
+### 2026-10-28 21:36:37  #MKT News #Macro & Rates #GBPUSD #Impact bearish
+
+UK bonds rose; 30-year government bond yield fell 3bps to 5.72%.
+
+---
+
+### 2026-10-28 21:36:28  #MKT News #Important #Commodities #Energy #XAUUSD #Impact bullish #EURUSD #Impact bearish #DAX
+
+European natural gas prices hit €100 for the first time since the 2022 energy crisis.
+
+---
+
+### 2026-10-28 21:36:01  #焦點 #國際
+
+歐洲天然氣價格自2022年能源危機以來首次觸及100歐元。
+
+---
+
+### 2026-10-28 21:35:48  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+WBG says in adverse scenarios energy and food commodity prices could surge, pushing global inf higher.
+
+---
+
+### 2026-10-28 21:35:47  #其他
+
+英國預算責任辦公室：預計2027-28年度稅收佔GDP比重將超過37.2%的歷史高點，並在預測期內的每一年持續上升。
+
+---
+
+### 2026-10-28 21:35:26  #MKT News #WTI #Impact bullish #Brent
+
+WBG: Any escalation of the Middle East conflict or continued damage to Russian oil infrastructure could further push up energy prices.
+
+---
+
+### 2026-10-28 21:35:22  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+WBG expects rising safe-haven demand to lift precious metals prices about 40% in 2026, with a pullback in 2027.
+
+---
+
+### 2026-10-28 21:35:21  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【WBG sees global commodity prices up 23% in 2026】WBG said on Wednesday it expects global commodity prices to rise 23% in 2026, driven by higher energy from the Middle East war, shipping bottlenecks including blocked Black Sea grain flows, and safe‑haven demand for gold. The Commodity Markets Outlook noted large price gains this year across oil, gas, food and metals. It warned that further escalation of the Middle East conflict or continued damage to Russian oil infrastructure could worsen the outlook. The report forecasts a 7% pullback in commodity prices next year but cautions that a prolonged shock — including a potentially severe El Nifio — could keep food prices elevated, raising inflation and the risk of monetary tightening. WBG also said global oil inventories have been drawn down during the Middle East war and expects global oil supply to fall 5.2% in 2026, the largest decline in roughly 40 years outside the 2020 downturn.
+
+---
+
+### 2026-10-28 21:35:13  #市場
+
+英國預算責任辦公室（OBR）關於債務利息支出的表態：若預測期內英國國債收益率和銀行利率預期變動1個百分點，可能導致中期借款規模變動160億英鎊。
+
+---
+
+### 2026-10-28 21:35:05  #MKT News #Important #DXY #Impact mixed
+
+BOC will announce its policy rate decision and Monetary Policy Report in ten minutes.
+
+---
+
+### 2026-10-28 21:34:52  #宏觀 #市場
+
+英國債券在新規出臺後上漲，30年期國債收益率下跌3個基點至5.72%。
+
+---
+
+### 2026-10-28 21:34:44  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+WBG forecasts global oil supply will fall 5.2% in 2026, the largest decline in more than 40 years excluding the 2020 global downturn.
+
+---
+
+### 2026-10-28 21:34:25  #市場 #焦點
+
+納斯達克中國金龍指數跌超1%，虎虎科技跌18.12%，新東方跌9.21%，阿特斯跌4.03%，大全新能源跌3.55%，亞朵集團跌3.45%。
+
+---
+
+### 2026-10-28 21:34:23  #MKT News #Commodities
+
+WBG forecasts global food commodity prices will rise 10% in 2026 and a further 7% in 2027, citing food-transport disruptions and extreme weather.
+
+---
+
+### 2026-10-28 21:34:06  #其他 #焦點
+
+英國預算責任辦公室（OBR）：如果能源價格峰值更高且持續高位時間更長，我們預計通脹將加劇、近期國內生產總值（GDP）增長將走弱，金融環境可能收緊。
+
+---
+
+### 2026-10-28 21:34:06  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+WBG forecasts global energy prices will rise 32% in 2026 due to the Middle East war, reaching a four-year high.
+
+---
+
+### 2026-10-28 21:33:51  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bullish
+
+WBG expects metal prices to rise 25% in 2026 to new highs, with aluminum, copper and tin each set to hit record highs.
+
+---
+
+### 2026-10-28 21:33:35  #MKT News #Important #Commodities #Brent #Impact mixed #WTI #Copper
+
+WBG projects overall commodity prices will surge 23% in 2026 amid global shocks, then decline 7% in 2027.
+
+---
+
+### 2026-10-28 21:33:29  #MKT News #Macro & Rates #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+【JP Morgan: U.S. Treasury to rely increasingly on short-term borrowing】JP Morgan analysts say the U.S. Treasury may raise short-term borrowing in next week’s quarterly refunding plan. JP Morgan projects net marketable borrowing from private investors of $2.038t this year, rising to $2.202t in 2027. Bill and medium- to long-term Treasury auction sizes are expected to remain unchanged for now and increase from Aug 2027, with the 2- to 10-year sector likely to see the biggest bumps. JP Morgan expects short-term issuance to pick up earlier; excluding Fed purchases and repo operations, privately held outstanding short-term Treasury bills would increase by $401bn in calendar 2026 and $991bn in 2027 — the largest short-term bill issuance since 2023.
+
+---
+
+### 2026-10-28 21:33:27  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
+
+Sterling Near Two-Week Low as Markets Assess UK Budget — The British pound remained below $1.33, trading near a two-week low as investors assessed UK Chancellor John Healey’s first budget announcement. Healey reaffirmed his commitment to the government’s fiscal rules, with the Office for Budget Responsibility estimating fiscal headroom at £15 billion for the 2029–30 fiscal year, in line with expectations. Key measures include energy bill relief, higher-than-expected-to-be-lower bank taxes, tariff suspensions on more than 100 supermarket products and a 3.9% increase in minimum wages. The budget also includes an additional £20.4 billion for the National Wealth Fund and British Business Bank to support investment and 140,000 jobs. On the economic outlook, the OBR cut its 2027 GDP growth forecast to 1% from 1.6%, citing the impact of the Iran war on energy prices, while raising its 2026 projection to 1.2% from 1.1%. Borrowing and public debt forecasts were also revised higher, weighing on the fiscal outlook.
+
+---
+
+### 2026-10-28 21:33:24  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #Nasdaq100 #S&P500
+
+U.S. markets opened higher Wednesday, Oct. 28: Dow Jones Industrial Average up 41.97 points, or 0.08%, at 52,419.54; Nasdaq Composite up 80.31 points, or 0.30%, at 26,558.13; S&P 500 up 18.41 points, or 0.24%, at 7,741.01.
+
+---
+
+### 2026-10-28 21:33:05  #其他
+
+英國預算政策將在2031-32年度減少117億英鎊借款。
+
+---
+
+### 2026-10-28 21:32:58  #公司 #市場
+
+威富集團維持年度營收預期，股價下跌約4%。
+
+---
+
+### 2026-10-28 21:32:47  #MKT News #Important
+
+UK plans to sell £250.6 billion of gilts in fiscal 2026-27; market had expected £249.2 billion.
+
+---
+
+### 2026-10-28 21:32:05  #市場
+
+WENDY'S 股價上漲高達 16%，至 7.10 美元。
+
+---
+
+### 2026-10-28 21:31:57  #其他
+
+市場訊息：弗拉維奧·博索納羅抵達邁阿密。
+
+---
+
+### 2026-10-28 21:31:41  #市場
+
+恩智浦半導體股價開盤下跌7.3%，創7月29日以來最大跌幅。
+
+---
+
+### 2026-10-28 21:31:36  #公司 #市場
+
+波士頓科學公司股價開盤下跌8.9%，創5月以來最大單日跌幅。
+
+---
+
+### 2026-10-28 21:31:34  #MKT News #NXPI.O #Impact bearish
+
+NXP Semiconductors (NXPI.O) opened down 7.3%, its largest decline since July 29.
+
+---
+
+### 2026-10-28 21:31:09  #市場
+
+世界銀行表示，由於避險資產需求上升，2026年貴金屬價格將上漲40%，2027年將出現一定程度的回落。
+
+---
+
+### 2026-10-28 21:31:04  #市場
+
+世界銀行表示，由於尿素價格飆升，2026年化肥價格將上漲14%，2027年將回落至2025年水平。
+
+---
+
+### 2026-10-28 21:31:03  #MKT News
+
+【Turkey warns Russia, Ukraine against further attacks on Black Sea vessels】Turkey warned Russia and Ukraine on Wednesday against further attacks on commercial vessels in the Black Sea and said it reserves the right to pursue legal action over related strikes. The defence minister called the move Ankara’s most direct intervention to date and said some attacks have affected Turkish-flagged or Turkish-owned ships. Turkey, a NATO member that maintains ties with both Moscow and Kyiv, said it is awaiting responses to a proposed plan to stop escalating strikes and protect grain shipments. The minister also reported a commercial vessel was hit by three drones within Bulgarian maritime jurisdiction on Wednesday.
+
+---
+
+### 2026-10-28 21:31:00  #市場
+
+世界銀行預計，2026年金屬價格將上漲25%，創下新高，鋁、銅和錫價格均將達到創紀錄水平。
+
+---
+
+### 2026-10-28 21:30:56  #其他
+
+世界銀行表示，在不利情景下，能源和食品大宗商品價格可能飆升，從而推高全球通脹。
+
+---
+
+### 2026-10-28 21:30:51  #市場
+
+【美股生物科技板塊盤初普跌】禮來跌1.45%，強生跌1.40%，Moderna跌1.50%，諾和諾德跌1.53%，艾伯維跌1.28%，默沙東跌1.10%。
+
+---
+
+### 2026-10-28 21:30:50  #市場
+
+【美股算力雲相關股票盤初普漲】甲骨文漲0.28%，CoreWeave漲0.86%，Nebius漲2.07%，IREN漲1.99%，Applied Digital漲0.93%。
+
+---
+
+### 2026-10-28 21:30:50  #市場
+
+【美股光通訊股開盤普漲】Lumentum漲1.40%，康寧漲1.57%，Coherent漲1.83%，應用光電漲1.35%，Ciena漲2.11%，博通漲1.71%，邁威爾科技漲2.13%。
+
+---
+
+### 2026-10-28 21:30:50  #市場
+
+【美股太空概念股盤初普跌】SpaceX跌1.22%，Rocket Lab漲0.03%，Planet Labs跌0.41%，AST SpaceMobile跌1.77%，Intuitive Machines跌0.52%。
+
+---
+
+### 2026-10-28 21:30:50  #市場
+
+【美股儲存板塊盤初普漲】美光漲4.50%，閃迪漲4.86%，SK海力士漲10.45%，西部資料漲0.12%，希捷科技跌4.47%。
+
+---
+
+### 2026-10-28 21:30:49  #國際
+
+世界銀行表示，中東衝突的任何升級、俄羅斯石油基礎設施持續受損，都可能進一步推高能源價格。
+
+---
+
+### 2026-10-28 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指齊漲】道指漲0.03%，標普500指數漲0.18%，納指漲0.30%。VRT漲14.95%，GEHC漲7.61%，馬斯科漲6.43%，Fortive Corporation漲5.68%，PPG工業漲5.34%，安費諾漲5.33%。“七姐妹”方面：谷歌漲1.29%，英偉達漲0.60%，特斯拉漲0.56%，Meta Platforms漲0.51%，亞馬遜漲0.46%，微軟跌0.14%，蘋果跌0.16%。
+
+---
+
+### 2026-10-28 21:30:44  #其他 #焦點
+
+世界銀行表示，受全球衝擊影響，2026年大宗商品價格總體將飆升23%，2027年將下降7%。
+
+---
+
+### 2026-10-28 21:30:38  #市場 #焦點 #國際
+
+世界銀行預計，受中東戰爭影響，2026年全球能源價格將上漲32%，達到四年高位。
+
+---
+
+### 2026-10-28 21:30:37  #Trading Economics #Markets #Canada #stocks #Importance 1
+
+Enbridge Shares Hit 5-week High — Enbridge shares increased to 68.30 CAD, the highest since September 2026. Over the past 4 weeks, Enbridge gained 2.51%, and in the last 12 months, it increased 3.96%.
+
+---
+
+### 2026-10-28 21:30:33  #國際
+
+世界銀行表示，25個國家已獲得87億美元的支援，以應對財政壓力和伊朗戰爭的影響。
+
+---
+
+### 2026-10-28 21:30:26  #市場 #焦點
+
+納斯達克中國金龍指數跌超0.5%，虎虎科技跌17.63%，新東方跌6.02%，大全新能源跌2.05%，阿特斯跌3.15%，再鼎醫藥跌2.88%。
+
+---
+
+### 2026-10-28 21:30:16  #其他
+
+世界銀行預計，2026年全球石油供應將下降5.2%，為2020年全球衰退之外四十多年來最大降幅。
+
+---
+
+### 2026-10-28 21:30:05  #市場
+
+英國債務管理辦公室表示，計劃在2026/27財年發行總額2506億英鎊的國債。
+
+---
+
+### 2026-10-28 21:29:59  #MKT News #Market Regions #Europe & UK
+
+UK DMO to launch its first 12-month Treasury bill in January 2027.
+
+---
+
+### 2026-10-28 21:29:30  #MKT News #Market Regions #Europe & UK
+
+UK Chancellor John Healey concluded his Budget speech.
+
+---
+
+### 2026-10-28 21:29:12  #MKT News #Market Regions #Europe & UK
+
+UK Chancellor of the Exchequer Xili said there is breathing space now and new hope ahead.
+
+---
+
+### 2026-10-28 21:28:55  #MKT News #Important
+
+【Tianfu Communications: core material supply tightness eased in Q3】Tianfu Communications said in an investor-relations update that core material supply tightness has noticeably eased in Q3 versus earlier. The company has deepened cooperation with major suppliers and accelerated supply‑chain diversification to strengthen key‑material procurement. Arrival rhythm of core inputs is now generally smooth and sufficient to support current production and delivery schedules.
+
+---
+
+### 2026-10-28 21:28:37  #MKT News
+
+Belgian financial regulator hit by cyberattack, Belgian news agency reports.
+
+---
+
+### 2026-10-28 21:28:14  #MKT News #GBPUSD #Impact bullish
+
+UK Chancellor Healy said today's decision will help steer the UK through a difficult period.
+
+---
+
+### 2026-10-28 21:27:48  #公司 #焦點
+
+【天孚通訊：預計CPO產品自2027年起逐步提量，並將成為公司新的增長驅動力】天孚通訊釋出投資者關係活動記錄表，其中表示，CPO配套產品方面，公司相關產品目前已進入批次交付階段，客戶需求較為明確。結合當前在手專案推進情況，公司預計CPO產品自2027年起逐步提量，並將成為公司新的增長驅動力。NPO配套產品目前仍處於研發推進、客戶送樣和驗證階段，整體進度符合公司預期。若後續驗證和客戶匯入進展順利，預計2027年也有望實現規模量產。
+
+---
+
+### 2026-10-28 21:26:55  #MKT News #GBPUSD
+
+UK Chancellor Healy to introduce a new scheme for first-time homebuyers from spring.
+
+---
+
+### 2026-10-28 21:26:54  #MKT News
+
+【Tianfu Communications Q3 2026 revenue up ~28% QoQ on stronger active optical deliveries】Tianfu Communications said in an investor-relations record Q3 2026 revenue rose about 28% QoQ as output increased across both active and passive segments. Active optical component deliveries improved as upstream key-material supply eased, lifting sales; passive products maintained robust demand, supporting revenue and profitability. The company said it will continue expanding capacity in line with customer demand.
+
+---
+
+### 2026-10-28 21:26:53  #公司 #焦點
+
+【天孚通訊：從三季度情況來看，核心物料供應緊張局面已較此前明顯緩解】天孚通訊釋出投資者關係活動記錄表，其中表示，從三季度情況來看，核心物料供應緊張局面已較此前明顯緩解。公司一方面持續深化與主要供應商的合作關係，另一方面也積極推進供應鏈多元化，進一步增強關鍵物料保障能力。目前來看，核心物料到貨節奏總體較為順暢，能夠較好支援現階段生產和交付需求。公司仍將持續關注上游供給變化，動態最佳化採購和備貨策略，以進一步提升供應鏈韌性和安全。
+
+---
+
+### 2026-10-28 21:26:47  #MKT News #Market Regions #Europe & UK #GBPUSD
+
+UK Chancellor Healy said first-time buyer personal savings accounts will replace the Lifetime ISA.
+
+---
+
+### 2026-10-28 21:26:29  #MKT News #GBPUSD #Impact bullish #FTSE100
+
+UK chancellor said all land sold to social housing providers will be exempt from VAT.
+
+---
+
+### 2026-10-28 21:26:16  #國際
+
+據信，載有弗拉維奧·博索納羅的飛機已在美國降落。
+
+---
+
+### 2026-10-28 21:26:11  #MKT News #Market Regions #Europe & UK
+
+UK Chancellor Healey to provide an additional £1.5 billion for social and affordable housing programmes.
+
+---
+
+### 2026-10-28 21:25:47  #公司 #焦點
+
+【天孚通訊：公司有源光器件交付能力提升，帶動業務收入增長】天孚通訊在投資者關係活動記錄表中表示，公司2026年第三季度營業收入環比增長約28%，實現了較好的環比增長。從驅動因素來看，本季度收入增長主要來自有源業務和無源業務同步增加產出。具體而言，一方面有源業務隨著上游核心物料供應情況較前期逐步改善，公司有源光器件交付能力提升，帶動業務收入增長。另一方面無源業務依然保持較高市場需求景氣度，對公司收入和盈利形成了穩定支撐，公司會根據客戶需求持續擴產。
+
+---
+
+### 2026-10-28 21:25:12  #國際
+
+特朗普政府擴大對機構人員配備的控制。
+
+---
+
+### 2026-10-28 21:25:04  #國際
+
+【俄羅斯總統普京談馬斯克】俄羅斯總統普京表示，埃隆・馬斯克是一位工業天才，有超過 5000 顆航天器在軌執行。我們和包括馬斯克先生在內的美國夥伴保持密切溝通。維持軌道空間的秩序與規範十分重要。俄方與美國夥伴都重視這一點，儘管雙方存在政治分歧，但我們在該領域開展緊密合作。
+
+---
+
+### 2026-10-28 21:23:34  #MKT News
+
+Refiner HF Sinclair said cost cuts, supply-chain flexibility and growth in its refined fuels and specialty products businesses should help offset the impact of the Mississauga refinery shutdown.
+
+---
+
+### 2026-10-28 21:23:19  #MKT News
+
+【Chancellor Hiley's first budget plugs £5 bln defence funding gap】Chancellor John Hiley used his first budget to plug a £5 bln shortfall in the UK defence investment plan by reprioritising capital spending across government departments. He did not commit to raising defence spending to 3% of GDP by 2030. Hiley resigned as defence secretary in June after then-PM Keir Starmer declined to make that 3% pledge; the shortfall was inherited by Hiley and incumbent PM Andy Burnham.
+
+---
+
+### 2026-10-28 21:23:02  #MKT News #GBPUSD
+
+UK Chancellor Healey said the government aims to raise defence spending to 3% of GDP by 2030, will launch a defence finance taskforce, and will open defence-treaty negotiations with Finland, Poland and the Netherlands.
+
+---
+
+### 2026-10-28 21:22:57  #公司 #市場
+
+【英國將把銀行附加稅率從3%上調至6% 加稅力度較輕令銀行業略感寬慰】英國財政大臣約翰·希利週三表示，英國政府將把目前針對銀行利潤徵收的附加稅率從3%上調至6%。希利在公佈其首份預算案時表示，這次加稅將從明年1月開始，僅實施15個月。這一安排令銀行業稍感寬慰。此前，銀行業部分人士預計希利可能把附加稅率提高至8%，即2023年下調至目前水平之前的稅率。希利確認新的稅率後，包括國民西敏寺銀行集團、巴克萊和勞埃德銀行在內的英國銀行股擴大漲幅。
+
+---
+
+### 2026-10-28 21:22:29  #國際
+
+【美國商品貿易逆差擴大至2025年3月以來最高 AI熱潮推動資本品進口大增】美國9月商品貿易逆差擴大至2025年3月以來最大，資本品進口持續大增。美國商務部週三公佈的資料顯示，商品貿易逆差較前月擴大2.1%，至1349億美元。彭博調查的經濟學家預測中值為逆差1302億美元。上述資料未經通脹調整。商品進口額增長2.4%，出口額增長2.6%。資本品進口躍升7.5%，這一類別包括推動人工智慧(AI)基礎設施建設的電腦及配件、半導體和電信裝置。週三的資料表明，在企業加緊為資料中心採購海外生產的零部件之際，資本品進口9月份繼續對貿易平衡構成壓力。隨著AI投資熱潮加速，資本品進口一直是過去一年貿易逆差大幅惡化的主要推動因素。
+
+---
+
+### 2026-10-28 21:22:06  #國際
+
+英國財政大臣希利：將與芬蘭、波蘭及荷蘭啟動防務條約談判。
+
+---
+
+### 2026-10-28 21:21:59  #其他
+
+英國財政大臣希利：啟動國防金融工作組。
+
+---
+
+### 2026-10-28 21:21:52  #其他
+
+英國財政大臣希利：國防開支目標為2030年達到GDP的3%。
+
+---
+
+### 2026-10-28 21:21:50  #MKT News
+
+UK Chancellor Healy said he will set out how the UK will meet its NATO defence commitments.
+
+---
+
+### 2026-10-28 21:21:32  #公司 #國際
+
+【日本自民黨副總裁被曝政治資金醜聞】日本執政黨自由民主黨副總裁麻生太郎近期被曝政治資金爭議，其領導的派閥被指利用政治資金派對籌款約20億日元（約合8454萬元人民幣），並將部分資金支付給一傢俬人會所。麻生太郎現年86歲，曾任日本首相、財務大臣等要職，是自民黨內現存的唯一派閥“麻生派”領導人。按日本媒體說法，麻生太郎的支援在高市早苗去年當選總裁過程中起到關鍵作用，“麻生派”成員目前有約60人。據日本《週刊文春》雜誌28日報道，過去18年間，“麻生派”共計收入約30億日元（約合1.26億元人民幣），其中約20億日元透過舉辦政治資金派對籌得。按這家媒體的說法，“麻生派”曾將約8000萬日元（約合338萬元人民幣）政治資金支付給東京市中心一傢俬人會所，該會所經營者據信與麻生太郎關係密切。（新華社）
+
+---
+
+### 2026-10-28 21:20:51  #國際
+
+英國財政大臣希利：再向烏克蘭提供100億英鎊支援。
+
+---
+
+### 2026-10-28 21:20:26  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+UK Chancellor Healey said reform of the state pension triple-lock will save £50 billion by 2050.
+
+---
+
+### 2026-10-28 21:20:23  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #WTI #Impact bearish
+
+【Economist: U.S. tariff offensive likely to persist even if Democrats win midterms】Coface North America economist Marcos Carias said in a note that even if the Democrats win the upcoming midterms, U.S. president Trump is unlikely to ease tariffs on other countries because he will retain control over trade and foreign policy and Congress will have limited room to act. He warned tariffs remain a material risk to return to the policy spotlight regardless of the midterm outcome, and that pre-election caution by market participants and policymakers is likely to fade after the vote.
+
+---
+
+### 2026-10-28 21:20:16  #國際
+
+英國財政大臣希利：向莫斯科發出的訊號是，英國將與烏克蘭站在一起。
+
+---
+
+### 2026-10-28 21:20:03  #國際
+
+英國財政大臣希利：英國將始終與烏克蘭站在一起，無論需要多久。
+
+---
+
+### 2026-10-28 21:19:53  #其他
+
+【北京市新增6款已完成備案的生成式人工智慧服務】根據《生成式人工智慧服務管理暫行辦法》，截至2026年10月28日，北京市新增6款已完成備案的生成式人工智慧服務，累計已完成325款生成式人工智慧服務備案。
+
+---
+
+### 2026-10-28 21:19:35  #公司 #市場
+
+【沃爾夫研究：重申對SK海力士“跑贏大盤”評級，預計兩年回購規模可達股本28%】沃爾夫研究重申對SK海力士的“跑贏大盤”評級，並給出250美元的目標價，理由是人工智慧基礎設施對高頻寬記憶體（HBM）的需求強勁。分析師克里斯·卡索認為，HBM價格上漲、記憶體產量增加，以及當前估值具有吸引力，都可能為股價帶來上行空間。目前，該股估值約為樂觀情景下預期盈利的4.5倍。沃爾夫研究還估計，若SK海力士按照預期實施股東回報政策，公司未來兩年產生的自由現金流可能足以回購相當於其總股本28%的股份。
+
+---
+
+### 2026-10-28 21:19:16  #MKT News
+
+Interfax reports Russia and Azerbaijan are discussing natural gas swap supplies.
+
+---
+
+### 2026-10-28 21:19:07  #MKT News
+
+UK Chancellor Healy pledged to cut welfare spending in a 'Labour way'.
+
+---
+
+### 2026-10-28 21:19:00  #MKT News
+
+UK finance minister said the government will tighten restrictions on payment of state pensions to beneficiaries living overseas.
+
+---
+
+### 2026-10-28 21:18:50  #MKT News #GBPUSD #Impact mixed #FTSE100 #Impact bearish
+
+UK Chancellor Healey said the government will introduce a benefits-cutting bill and legislate welfare reform next year.
+
+---
+
+### 2026-10-28 21:18:25  #國際
+
+俄羅斯與亞塞拜然討論天然氣供應互換事宜。
+
+---
+
+### 2026-10-28 21:18:15  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+【UK to cut firms' regulatory burden by £800m, chancellor says】In the budget the UK chancellor said the government will cut firms' regulatory and tariff burdens by £800m and boost public investment to tackle underinvestment in high‑growth companies. The plan adds £20.4bn to the National Wealth Fund and the British Business Bank over coming years to support about 140,000 jobs and pledges cooperation with pension providers and asset managers to steer more private capital into innovative, fast‑growing UK firms. The government will legislate a regulatory exemption/sandbox to allow testing and rapid scale‑up of innovations such as drones and medicines under safety safeguards, and will re-establish a regulatory optimisation unit to remove obsolete rules and administrative burdens; the unit was abolished by the previous Conservative government.
+
+---
+
+### 2026-10-28 21:17:49  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Rises Led by Banks — The FTSE 100 edged higher on Wednesday as investors assessed Chancellor John Healey’s first budget, which emphasized fiscal discipline while introducing measures to ease the cost of living. Healey said fiscal headroom would narrow to £15 billion in 2029-30 before recovering to £22 billion the following year. Banking stocks rallied after the government’s tax measures proved less severe than feared, with Standard Chartered gaining over 4%, while Lloyds and Barclays rose around 3.8% each. The temporary increase in the bank surcharge to 6%, below the previously feared 8%, helped support sentiment. Betting companies also advanced after machine games duty was raised to 25% from 20%. However, GSK fell more than 5% following disappointing results, with declining Shingrix vaccine sales raising concerns about future growth. Unilever also dropped over 3%, as weakness in North America overshadowed stronger performance in emerging markets, ahead of the planned food business separation.
+
+---
+
+### 2026-10-28 21:17:46  #其他
+
+英國財政大臣希利：將削減福利支出。
+
+---
+
+### 2026-10-28 21:17:20  #MKT News
+
+UK Chancellor Healey said the next spending review will ring-fence dedicated funding for preventative spending to lower future costs.
+
+---
+
+### 2026-10-28 21:17:14  #其他
+
+英國財政大臣希利：我們正在改革“失靈”的福利制度。
+
+---
+
+### 2026-10-28 21:16:57  #其他
+
+英國財政大臣希利：下一輪支出審查將把能夠降低未來成本的預防性支出列為專項保障。
+
+---
+
+### 2026-10-28 21:16:51  #MKT News
+
+【Israel completes ballot-box count; Netanyahu-led Likud provisionally leads】On the 28th local time, Israeli sources said all ballot boxes in the parliamentary election have been counted and Prime Minister Netanyahu's Likud currently leads in valid votes and remains the largest party. Netanyahu's right-wing bloc and the opposition bloc led by Gadi Eizenkot are deadlocked on seat allocation, and no single bloc currently has a majority to form a government. Tens of thousands of special ballots, including from soldiers and diplomatic staff, remain to be counted, leaving final seat outcomes uncertain. The Israel Central Elections Committee has not yet confirmed these reports.
+
+---
+
+### 2026-10-28 21:16:24  #MKT News
+
+UK Chancellor Healey launches review of productivity at the National Health Service (NHS).
+
+---
+
+### 2026-10-28 21:16:14  #MKT News #Market Themes #AI Revolution
+
+UK finance minister urged investment in artificial intelligence to drive transformation of the civil service.
+
+---
+
+### 2026-10-28 21:16:08  #其他
+
+英國財政大臣希利：啟動對英國國家醫療服務體系生產率的評估。
+
+---
+
+### 2026-10-28 21:15:59  #其他
+
+英國財政大臣希利：投資人工智慧以推動公務員體系轉型。
+
+---
+
+### 2026-10-28 21:15:43  #Trading Economics #Economy #United Kingdom #Full Year GDP Growth #Importance 1
+
+OBR Downgrades UK Growth Forecast for 2027 — The UK economy is forecast to grow by 1% in 2027, according to the latest projections from the Office for Budget Responsibility (OBR), presented by Chancellor John Healey in his first budget statement to Parliament. The forecast marks a downgrade from the OBR’s previous estimate of 1.6%, published in March before the outbreak of the Iran war. Growth is expected to accelerate to 1.6% in 2028, 1.8% in 2029, 1.7% in 2030 and 1.6% in 2031. The latest projections compare with the OBR’s previous forecasts of 1.6% growth in 2028 and 1.5% in both 2029 and 2030. Meanwhile, the growth forecast for 2026 was revised slightly higher to 1.2%, up from 1.1% previously.
+
+---
+
+### 2026-10-28 21:15:21  #國際
+
+俄羅斯總統普京：埃隆·馬斯克是個傑出的人。
+
+---
+
+### 2026-10-28 21:15:06  #MKT News
+
+UK Chancellor Healey said the government will fully fund its defence investment plan.
+
+---
+
+### 2026-10-28 21:15:05  #MKT News
+
+【Research house sees upside for SK Hynix; two-year buybacks could equal 28% of share capital】Wolf Research reiterated an Outperform on SK Hynix and set a $250 price target, citing strong AI infrastructure-driven demand for high-bandwidth memory (HBM). Analyst Chris Kasso said rising HBM prices, increased memory production and an attractive current valuation — the stock trades at roughly 4.5x earnings implied by Wolf’s optimistic case — could drive upside. Wolf estimates that if SK Hynix executes its expected shareholder-return plan, projected free cash flow over the next two years could fund buybacks equivalent to about 28% of shares outstanding.
+
+---
+
+### 2026-10-28 21:14:47  #其他
+
+英國財政大臣希利：將為國防工業計劃提供全額資金。
+
+---
+
+### 2026-10-28 21:14:38  #市場
+
+桑坦德巴西第三季度業績釋出後，其股價下跌3%。
+
+---
+
+### 2026-10-28 21:14:03  #其他
+
+英國財政大臣希利：將在支出審查中繼續明確方向。
+
+---
+
+### 2026-10-28 21:13:37  #MKT News #Important
+
+【Preliminary counts show neither Israeli bloc wins Knesset majority】Preliminary counts from Israel’s election on the 28th show neither the right-wing bloc backing Prime Minister Netanyahu nor the opposition has secured an absolute majority of Knesset seats. Netanyahu’s Likud remains the largest party.
+
+---
+
+### 2026-10-28 21:13:30  #MKT News #FTSE100 #Impact bearish #GBPUSD #DXY #Impact bullish
+
+【UK raises bank surcharge to fund household energy support】UK Chancellor John Healey will raise the bank surcharge to 6% from 3% on profits above £100 million, an additional 3 percentage points. The government says the temporary measure will fund immediate support for household energy bills, takes effect in January and runs for 15 months.
+
+---
+
+### 2026-10-28 21:13:24  #MKT News #GBPUSD #Impact mixed #FTSE100
+
+UK Chancellor Healey announced measures to devolve tax revenue. By the end of this decade business rates will be retained 100% by local governments, and from 2028 a portion of income tax will be allocated to local mayors.
+
+---
+
+### 2026-10-28 21:12:36  #焦點 #國際
+
+俄羅斯總統普京：儘管存在政治問題，與馬斯克的接觸仍在繼續。
+
+---
+
+### 2026-10-28 21:12:17  #焦點 #國際
+
+俄羅斯總統普京：俄羅斯正就低軌衛星問題與馬斯克保持接觸。
+
+---
+
+### 2026-10-28 21:11:57  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+UK Chancellor Healy said flexible funds will be used to invest in local economies.
+
+---
+
+### 2026-10-28 21:11:44  #其他
+
+英國財政大臣希利：向市長級政府機構提供15億英鎊的下放貸款。
+
+---
+
+### 2026-10-28 21:11:37  #其他
+
+英國財政大臣希利：靈活資金用於投資地方經濟。
+
+---
+
+### 2026-10-28 21:11:15  #市場 #焦點
+
+純鹼連續主力合約日內跌1%，現報973.00元。
+
+---
+
+### 2026-10-28 21:11:11  #公司 #焦點 #國際
+
+【初步計票顯示以色列兩大陣營均未獲議會多數席位】28日，以色列議會選舉初步計票結果顯示，支援現任總理內塔尼亞胡的右翼陣營與反對派陣營均未獲得絕對多數席位。內塔尼亞胡領導的利庫德集團仍為議會第一大黨。（新華社）
+
+---
+
+### 2026-10-28 21:11:00  #其他
+
+英國財政大臣希利：將提供靈活資金用於投資地方經濟。
+
+---
+
+### 2026-10-28 21:10:45  #MKT News #NFLX.O
+
+Axios reports senior U.S. Treasury trade official Eric Ettorre will leave to join Netflix (NFLX.O).
+
+---
+
+### 2026-10-28 21:09:29  #MKT News #Market Regions #Europe & UK
+
+UK Chancellor Healey said the next International Investment Summit will be held in spring.
+
+---
+
+### 2026-10-28 21:09:05  #市場 #焦點
+
+燒鹼連續主力合約日內跌2%，現報1446.00元。
+
+---
+
+### 2026-10-28 21:08:49  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+【UK chancellor scraps planned cut to ISA cash allowance】The UK chancellor said in their first budget the annual tax-free cash ISA allowance will remain at £20,000 (about $26,570), reversing a planned reduction. Former chancellor Reeves had proposed cutting the cash ISA allowance for under-65s to £12,000 from next year to channel savings into UK equities. The decision is expected to be welcomed by consumer groups and banks; stable ISA deposits should support mortgage funding for banks and building societies.
+
+---
+
+### 2026-10-28 21:08:42  #其他
+
+【英國財政大臣希利宣佈向家庭發放100英鎊能源補貼】財政大臣丟擲本次預算案第一個重磅驚喜：向家庭發放100英鎊能源補貼。約翰·希利提及今早公佈的一項政策——取消燃氣賬單的固定基礎費。“今年冬季，針對市政稅A至D檔的2000萬戶家庭，發放每戶100英鎊能源補貼。”他稱補貼將直接撥付至居民銀行賬戶，用來應對走高的能源賬單。他補充道：“這項補貼計劃總規模26億英鎊，在最冷的幾個月為民眾減負，幫大家撐到春季。”希利同時呼籲地方分權政府同步推出同類補貼方案。隨後財政大臣公佈另一項惠民舉措：增值稅減免政策延期至7月。希利稱：“今年冬季兩項減稅：增值稅減免省下50英鎊、市政稅減免100英鎊；明年將實現更公平的賬單；長期則推進能源市場深度改革，壓低電價。”
+
+---
+
+### 2026-10-28 21:08:41  #宏觀 #國際
+
+【美國財政部高階貿易官員將離職 轉投奈飛】一名曾在特朗普政府美國財政部高階官員即將離職，加入流媒體巨頭奈飛（Netflix）。此次人事變動正值美國財政部長斯科特·貝森特（Scott Bessent）協助推動特朗普政府全面改革美國貿易政策之際。美國財政部負責國際貿易與發展的代理助理部長埃裡克·埃託雷（Eric Ettorre）將加入奈飛，擔任全球事務部門戰略與運營幕僚長。埃託雷此前曾擔任美國財政部貿易與投資政策副助理部長及高階顧問。他曾就國際經濟政策向貝森特提供建議，包括推動消除影響美國企業的外國貿易壁壘。
+
+---
+
+### 2026-10-28 21:08:36  #MKT News #GBPUSD #Impact bullish #FTSE100
+
+UK Chancellor Healy said he will announce a tax measure for startup founders that caps capital gains tax at below 10% and carries a £10m cap.
+
+---
+
+### 2026-10-28 21:08:00  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+【Copper-clad laminates, PCBs may shift to less/no fabric? Listed electronic-fabric makers respond】Some broker research has suggested copper-clad laminates and PCBs could migrate toward reduced- or no-fabric designs, which would cut fabric usage in the supply chain. Multiple listed electronic-fabric makers said electronic fabric represents about 20% of copper-clad laminate cost and provides benefits for mechanical support, service life, drilling performance and thermal deformation resistance. They said moves to less- or no-fabric solutions are primarily cost-driven and will depend on conditions at downstream copper-clad laminate and PCB firms.
+
+---
+
+### 2026-10-28 21:07:46  #其他
+
+【理想i6首銷擠爆APP】10月28日晚，理想 i6 正式開啟搶購，大量使用者同時下單導致 APP 卡頓崩潰，有網友調侃，搶理想 i6 的熱度像搶紀念幣。
+
+---
+
+### 2026-10-28 21:07:33  #其他
+
+英國財政大臣希利：將宣佈針對初創企業創始人的稅收減免政策，資本利得稅稅率在1000萬英鎊以內限制為10%。
+
+---
+
+### 2026-10-28 21:07:32  #Trading Economics #Economy #United Kingdom #Government Budget #Importance 2
+
+UK Borrowing Forecasts Revised Higher — UK public borrowing is projected to fall to 4.2% of GDP this year, 3.4% next year and 2.9% in 2028–29, according to the latest revised forecasts from the Office for Budget Responsibility (OBR), presented by Chancellor John Healey in the budget. The projections are higher than the OBR’s March forecasts, which put borrowing at 3.6% of GDP this year, 2.9% in 2027–28 and 2.5% in 2028–29, reflecting heightened global uncertainty, with conflicts in the Middle East and Ukraine contributing to higher energy prices, inflation and borrowing costs worldwide. The OBR also estimates that the government’s headroom against its stability rule will stand at £15 billion in 2029–30, rising to £22 billion in 2030–31. Public debt is projected to reach 83.2% of GDP this year and 83.8% in both 2027–28 and 2028–29, before gradually declining to 81.7% by 2031–32.
+
+---
+
+### 2026-10-28 21:07:31  #MKT News #DBX.O #Impact bearish
+
+Dropbox is cutting about 9% of its global workforce.
+
+---
+
+### 2026-10-28 21:07:28  #其他
+
+英國財政大臣取消前任裡夫斯下調現金 ISA 免稅額度的計劃。
+
+---
+
+### 2026-10-28 21:07:02  #MKT News #GBPUSD #Impact bullish #FTSE100 #DXY #Impact bearish
+
+UK Chancellor Healey said he wants firms to succeed and remain in the UK and announced plans to introduce a youth entrepreneurs allowance and to reform skilled‑worker visas and non‑compete clauses.
+
+---
+
+### 2026-10-28 21:06:27  #其他
+
+英國財政大臣希利：改革技術工人簽證和競業禁止條款。
+
+---
+
+### 2026-10-28 21:06:21  #MKT News
+
+A Spanish government spokesman said Prime Minister Pedro Sánchez will travel to Urda, the town closest to the train crash site, to offer support.
+
+---
+
+### 2026-10-28 21:06:17  #其他
+
+【英國銀行稅上調，但幅度低於市場預期】英國財政大臣確認，將提高銀行附加稅。自明年 1 月起，銀行附加稅稅率上調至 3%，徵收週期 15 個月。此前有報道猜測稅率最高可能達到 8%，但看起來希利放棄了這一方案。財政大臣表示：“本國全球領先的銀行業為英國貢獻巨大，體現在繳納的稅收、創造的就業、支撐的產業與投資當中。”
+
+---
+
+### 2026-10-28 21:06:10  #公司 #市場
+
+【覆銅板、PCB向少布、無布升級？多家電子布上市公司回應】近期，部分券商釋出研報提到，覆銅板、PCB有望向少布、無布升級，未來覆銅板、PCB產業鏈用布量或減少。對此，多家電子布上市公司回應中國證券報·中證金牛座記者，目前，電子布在覆銅板的成本佔比大概20%左右。電子布在對覆銅板支撐力度、使用壽命、鑽孔難度、受熱變形度等方面都具有較好的優勢，少布、無布化更多的還是出於成本壓力。具體要看下游覆銅板、PCB企業實際情況。覆銅板頭部上市公司金安國紀方面回應記者，上述機構提到的無布、少布方案，一方面可以降低成本、提高效能；另一方面，穩定性可能會受到影響。目前看，無布、少布方案尚處於實驗室階段，行業對電子布需求較高，且趨勢整體沒有變化。預計無布、少布的基板只適合在特定領域中使用。對於外界關注度較高的11月電子布價格是否還會上漲，多家上市公司回應記者，10月份漲價落地情況良好，11月份漲價是大機率事件，但仍需要市場進一步驗證，目前仍在漲價通道。國際復材方面告訴記者，10月份漲價落地情況較好，電子布市場目前供需仍處於緊平衡狀態。有不願具名的電子布頭部上市公司回應記者，無布方案目前還在驗證階段，目前還沒有主流覆銅板、PCB廠商真正實現無布生產。公司除了佈局電子布外，還佈局了電子紗線相關產能，電子布漲價邏輯經歷了少紗、少織布機、少布等多個階段。當前織布機瓶頸已基本緩解，少紗、少布的供給缺口仍要依靠新增產能補齊。（中證金牛座）
+
+---
+
+### 2026-10-28 21:06:09  #MKT News
+
+UK Chancellor Healey said the tax-free Individual Savings Account (ISA) allowance will remain at £20,000.
+
+---
+
+### 2026-10-28 21:05:22  #MKT News
+
+【Healy warns UK faces "global economic storm" in first budget】Chancellor Healy, unveiling Andy Burnham’s first Labour government budget, pledged fiscal discipline while tapping last year’s fiscal headroom to blunt the impact of a US–Iran war, saying the conflict has pushed up inflation and increased costs for households and businesses. He forecast fiscal headroom would fall to £15bn in 2029/30 — broadly in line with economists’ expectations — before recovering to £22bn in 2030/31, and said the buffer would be used now and rebuilt when conditions allow. The budget eases household energy bills and raises revenue via a bank tax. Gilts ticked higher during Healy’s speech; the 10-year gilt yield fell 2bps to 5.32%. GBP/EUR rose about 0.2% to 0.8377.
 
 ---
 
@@ -11153,5705 +17296,5 @@ Qatar's Emir has arrived at the venue for talks with Russian President Putin.
 ### 2026-10-28 01:15:36  #國際
 
 【伊朗外交部：伊朗外長與巴西外長通電話】伊朗外交部長阿拉格齊於本週二下午同巴西外長通話，祝賀盧拉贏得 2026 年巴西總統選舉。雙方也就重要地區議題以及最新國際局勢交換了意見。
-
----
-
-### 2026-10-28 01:14:46  #國際
-
-卡達埃米爾抵達會場，準備與普京舉行會談。
-
----
-
-### 2026-10-28 01:14:27  #MKT News
-
-【Putin meets Pezeshkian at GECF summit to discuss Middle East】The Kremlin said on Oct. 27 that President Putin met Iranian President Pezeshkian in Moscow during the Gas Exporting Countries Forum summit. They discussed the Middle East and said they hope the situation moves in a positive direction. Putin noted Russia-Iran trade rose 10.4% in the first eight months of the year and that construction of the Bushehr nuclear power plant continues. This was their third meeting this year.
-
----
-
-### 2026-10-28 01:13:23  #MKT News
-
-A meeting between Russian President Putin and Iranian President Pezeshkian has concluded.
-
----
-
-### 2026-10-28 01:13:03  #國際
-
-普京與伊朗總統的會晤已結束。
-
----
-
-### 2026-10-28 01:12:50  #國際
-
-以色列媒體報道：選舉委員會將於19時15分開會，討論推遲投票站關門時間事宜。
-
----
-
-### 2026-10-28 01:12:14  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.90% Higher — The FTSE MIB Index gained 441 points or 0.90 percent on Tuesday to close at 49628 points. Gains were led by STMicroelectronics (7.26%), Technoprobe (3.76%) and Prysmian (3.18%). Biggest losers were Eni (-2.58%), Davide Campari-Milano (-2.36%) and Moncler (-1.67%).
-
----
-
-### 2026-10-28 01:11:30  #國際
-
-【普京與佩澤希齊揚會晤 討論中東局勢】據克里姆林宮網站10月27日訊息，俄羅斯總統普京與伊朗總統佩澤希齊揚當天在莫斯科“天然氣出口國論壇”峰會期間會晤。普京表示，雙方就中東局勢進行了交談，希望局勢朝著積極方向發展。普京還指出，俄伊雙方今年前八個月貿易額增長10.4%，布什爾核電站建設仍在繼續。這是兩人今年以來的第三次會晤。（央視新聞）
-
----
-
-### 2026-10-28 01:11:14  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.71% Higher — The DAX Index went up by 180 points or 0.71 percent on Tuesday to close at 25591 points. The rise was led by Infineon (5.24%), Siemens Energy (4.22%) and Hochtief (2.91%). On the downside, the weakerst performers were Mercedes-Benz AG (-3.79%), Beiersdorf (-2.58%) and BMW (-1.49%).
-
----
-
-### 2026-10-28 01:10:14  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.51% Higher — The CAC 40 Index rose 40 points or 0.51 percent on Tuesday to close at 7887 points. Leading the gains are STMicroelectronics (7.12%), Essilor (3.77%) and ArcelorMittal (3.26%). Top losers were Carrefour (-3.12%), Edenred (-2.68%) and Pernod Ricard (-1.83%).
-
----
-
-### 2026-10-28 01:08:38  #市場 #國際
-
-特朗普：我將前往得克薩斯州的科珀斯克里斯蒂，出席一場座無虛席的集會。得益於我們這場大獲成功的軍事行動，美國將在這裡接收 100 萬桶委內瑞拉石油，後續還會達成史上規模最大的石油交易。得益於我們與委內瑞拉重新建立的良好關係，這批石油不需要美國納稅人掏一分錢。這只是數十億桶原油中的首批到貨。從阿拉斯加一直到委內瑞拉，我釋放了能源主導力，讓西半球成為世界能源中心。汽油和柴油價格很快會大幅下跌，拭目以待！
-
----
-
-### 2026-10-28 01:07:43  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls as Corporate Results Disappoint — The FTSE 100 fell more than 0.5% on Tuesday as disappointing corporate results and weaker energy stocks weighed on the index. HSBC declined 5.4% after reporting third-quarter profits below expectations, while Reckitt dropped 4.9% after cutting its sales outlook amid supply constraints in the US and weaker vitamin sales in China. Oil majors also came under pressure, with Shell losing 1.7% and BP falling 2.8% as Brent crude prices retreated on renewed hopes of a diplomatic resolution to the US-Iran conflict. Mining stocks provided some support, however, as Antofagasta climbed 4.6%, while Endeavour Mining, Fresnillo and Rio Tinto gained around 2.5% each. Anglo American also advanced 2.3%, benefiting from strength across the sector. Meanwhile, UK shop price inflation accelerated to 2.1% year-on-year in October, up from 1.4% in September and above economists’ expectations of 1.6%.
-
----
-
-### 2026-10-28 01:07:14  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.73% Lower — The FTSE 100 Index dropped 79 points or 0.73 percent on Tuesday to close at 10689 points. Losses were led by HSBC Holdings (-5.91%), Reckitt Benckiser (-4.91%) and Pearson (-3.35%). Offsetting the fall, top gainers were Antofagasta (4.60%), Barratt Redrow (3.43%) and Endeavour (2.61%).
-
----
-
-### 2026-10-28 01:07:05  #焦點 #國際
-
-市場訊息：博索納羅正在前往美國途中。
-
----
-
-### 2026-10-28 01:06:32  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-Italian Stocks Close Higher — Milan’s FTSE MIB closed 0.9% higher at 49,628 on Tuesday, recovering from early losses as falling oil prices boosted sentiment across sectors. Tech shares led the rally, with STMicroelectronics (7.1%), Technoprobe (3.4%) and Prysmian (3.3%) extending gains from the previous session. Utilities distributors Snam (2.8%), Italgas (2.4%) and Terna (1.1%) gained as European gas prices remained elevated. However, prices eased mid-session, supporting broader utilities, including Hera (0.7%) and Enel (0.6%). Stellantis gained 0.5% as Canada and the US resumed trade talks on Canadian autos. Financials also moved higher as oil prices fell mid-session, while Milan's bank mergers comes back into focus ahead of MPS shareholders meeting on Thursday. Banco BPM led the sector, rising 2.6%, while its board announced it would skip the meeting. On the downside, ENI lost 2.6%. Luxury shares remain under pressure, with Moncler posting the steepest decline at 2.1%.
-
----
-
-### 2026-10-28 01:06:24  #市場 #國際
-
-美國五年期國債收益率在五年期國債標售後小幅擴大漲幅，最新上漲2.19個基點，報4.846%。
-
----
-
-### 2026-10-28 01:06:11  #國際
-
-美國總統特朗普：1億桶委內瑞拉石油僅為第一批裝運。
-
----
-
-### 2026-10-28 01:05:21  #其他
-
-法國武裝部長沃特蘭：阿聯酋參與陣風戰機升級專案的出資額度尚未確定。
-
----
-
-### 2026-10-28 01:04:57  #其他
-
-法爾斯通訊社訊息：約旦穆瓦法克·薩爾提基地附近發生爆炸。
-
----
-
-### 2026-10-28 01:02:37  #宏觀 #市場 #國際
-
-美國財政部拍賣五年期國債，得標利率4.845%，投標倍數2.33。
-
----
-
-### 2026-10-28 01:02:25  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Rise for 2nd Day — European equities rose for a second consecutive session on Tuesday, with the Stoxx 50 gaining 0.8% and the Stoxx 600 advancing 0.5%, supported by lower oil prices. Italy climbed 0.8%, while Germany and Spain added 0.7% and France rose 0.4%; the UK market bucked the trend, falling 0.7%. Mining and technology stocks led gains, while personal care and automakers underperformed. Brent crude declined amid renewed diplomatic efforts to end the US-Iran conflict. However, corporate earnings remained a source of pressure: HSBC fell 5.4% after missing third-quarter profit expectations, while Reckitt dropped 4.9% after lowering its sales outlook due to supply constraints in the US and weaker vitamin sales in China. Porsche gained 3.8%, as profitability proved resilient despite declining vehicle deliveries.
-
----
-
-### 2026-10-28 01:02:20  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-US 5-year Treasury auction (Oct. 27) — share of awards at the stop-out yield 98.6%, prior 30.34%.
-
----
-
-### 2026-10-28 01:02:18  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-U.S. 5-year Treasury auction on Oct. 27 — stop-out yield 4.845%, prior 5.03%.
-
----
-
-### 2026-10-28 01:02:18  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-U.S. 5-year Treasury auction Oct. 27: bid-cover ratio 2.33, prior 2.21.
-
----
-
-### 2026-10-28 01:02:09  #MKT News #Economic Calendar
-
-United States | 5-Year Note Auction Accepted at High (Oct.27) | actual 98.6% | previous 30.34%
-
----
-
-### 2026-10-28 01:02:09  #MKT News #Economic Calendar
-
-United States | 5-Year Note Auction Bid/Cover Ratio (Oct.27) | actual 2.33 | previous 2.21
-
----
-
-### 2026-10-28 01:02:09  #MKT News #Economic Calendar
-
-United States | 5-Year Note Auction High Yield Rate (Oct.27) | actual 4.845% | previous 5.03%
-
----
-
-### 2026-10-28 01:02:08  #國際
-
-美光科技宣佈在美國愛達荷州新增逾6700萬美元社群投資，用於交通、住房和兒童領域。
-
----
-
-### 2026-10-28 01:01:40  #MKT News
-
-Israeli media report voter turnout at 66.7% as of 6:00 p.m. local time.
-
----
-
-### 2026-10-28 01:01:29  #市場 #國際
-
-美國國債5年期收益率在700億美元拍賣前報4.841%。
-
----
-
-### 2026-10-28 01:01:13  #其他
-
-ASM國際三季度淨利潤3.081億歐元，分析師預期3.023億歐元。三季度運營利潤率32.7%，分析師預期32%。三季度毛利率52%，分析師預期50.8%。
-
----
-
-### 2026-10-28 01:00:33  #MKT News #MU.O
-
-Micron Technology (MU.O) said it will invest over $67 million in community projects in Idaho, U.S., focused on transportation, housing and children’s programs.
-
----
-
-### 2026-10-28 01:00:13  #市場 #國際
-
-美國商品期貨交易委員會起訴，試圖阻止猶他州關停合約交易市場。
-
----
-
-### 2026-10-28 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收漲0.80%，滬銅收漲0.72%，滬鋁收漲0.79%，滬鋅收漲0.37%，滬鉛收漲0.92%，滬鎳收跌0.14%，滬錫收漲0.49%。氧化鋁夜盤收漲1.73%，鋁合金收漲0.61%。不鏽鋼夜盤收跌0.07%。
-
----
-
-### 2026-10-28 00:59:48  #MKT News
-
-France’s army minister said switching from the abandoned European FCAS fighter project to a national independent program would have a "negligible" financial impact.
-
----
-
-### 2026-10-28 00:59:20  #國際
-
-法國武裝部長沃特蘭：從已擱置的歐洲 FCAS 戰機專案轉向本國自研專案，在資金層面幾乎持平。
-
----
-
-### 2026-10-28 00:58:25  #MKT News #Commodities #Energy #Brent #Impact mixed
-
-Fars News reported the Iranian and Russian presidents focused talks on energy cooperation—including deeper oil and gas collaboration—expanded trade, and advancing joint projects that leverage mutual complementarities.
-
----
-
-### 2026-10-28 00:56:14  #MKT News
-
-Putin said bilateral trade between Russia and Iran rose 10.4% YoY through August 2026.
-
----
-
-### 2026-10-28 00:55:06  #其他
-
-梵蒂岡外長表示，梵蒂岡未參與近期俄烏圍繞奧列什基鎮達成的停火。
-
----
-
-### 2026-10-28 00:55:04  #MKT News
-
-European Council President COSTA said the EU stands ready to support Serbia's EU accession process.
-
----
-
-### 2026-10-28 00:54:57  #MKT News
-
-Vatican foreign ministry said it did not take part in recent Russia-Ukraine ceasefire arrangements around the town of Oleshky.
-
----
-
-### 2026-10-28 00:54:05  #國際
-
-歐洲理事會主席科斯塔：隨時準備支援塞爾維亞的入歐程序。
-
----
-
-### 2026-10-28 00:52:55  #國際
-
-【普京與挪芬領導人通話 丹麥首相批削弱歐洲團結】俄羅斯總統普京27日與挪威首相斯特勒、芬蘭總統斯圖布通電話，三方就解決烏克蘭危機交換意見，這是普京一年多來首次與支援烏克蘭的歐洲國家領導人通話。通話持續90分鐘，由斯特勒和斯圖布發起，三國領導人約定繼續保持直接電話聯絡。丹麥首相弗雷澤裡克森質疑挪芬動機，批評兩國“單獨行動”削弱歐洲團結；斯特勒回應稱歐洲國家也必須能與俄羅斯領導人對話。普京強調只有充分、無條件考慮俄方合法利益才可能實現公正持久和平，並稱俄方已在奧列什基地區開展人道主義行動、赫爾松方向實施臨時停火。（新華社）
-
----
-
-### 2026-10-28 00:52:31  #MKT News
-
-【Pezeshkian: multilateralism is the response to US unilateral actions in the region】Iranian President Pezeshkian thanked Russia for sustained political, security and economic support and welcomed continued growth in bilateral trade. He said US unilateral actions in the region underscore the need to reinforce multilateralism and to expand interaction among sanctioned states, adding regional countries do not need to rely on the US and can address challenges through intra‑regional cooperation. He said, on that basis, Iran and Russia are expected to deepen cooperation across technology, economic, industrial, cultural, security and military sectors.
-
----
-
-### 2026-10-28 00:50:58  #國際
-
-伊朗與俄羅斯總統討論能源合作與貿易。
-
----
-
-### 2026-10-28 00:50:23  #公司 #市場 #央行 #國際
-
-【AI融資焦慮或近頂峰 億萬富豪Novogratz預計信貸市場將趨穩】加密金融服務和人工智慧資料中心運營商Galaxy Digital Inc.的億萬富豪創始人兼執行長Michael Novogratz表示，全球信貸市場對AI支出的焦慮可能已接近緩解的轉折點。Galaxy公佈第三財季業績後，Novogratz週二在電話會議上表示，“信貸市場目前有些‘消化不良’。市場的緊張情緒可能已接近頂峰。走出困境並沒有一條輕鬆的路，但我認為時間會讓情況逐漸好轉。”Novogratz認為，Meta Platforms Inc.進行股權融資以及Anthropic PBC計劃首次公開募股，都是壓力可能緩解的跡象，“可以這樣理解：更多股權融資，更少信貸融資。從某種程度上說，過去一週對信貸市場是件好事，因為我們看到了如此大規模的股權融資。”Novogratz認為，伊朗戰爭可能結束也是認為信貸市場趨穩的另一個原因，因為這可能推動油價下跌，從而減輕美聯儲為遏制通脹而加息的壓力。
-
----
-
-### 2026-10-28 00:50:08  #MKT News #Important
-
-ECB President Lagarde and the Governing Council will hold an informal dinner with EU Trade Commissioner Šefčovič in ten minutes to exchange views.
-
----
-
-### 2026-10-28 00:47:30  #國際
-
-伊朗總統對俄羅斯總統普京表示，地區問題可以在沒有美國參與的情況下解決。
-
----
-
-### 2026-10-28 00:45:54  #MKT News
-
-【US strikes 'drug trafficking vessel' in eastern Pacific, kills five】On Oct. 27 local time US Southern Command said its Western Hemisphere Joint Task Force struck a "speedboat operating on an established trafficking route" in the eastern Pacific, killing five "drug terrorists". Since early Sept. 2025 the US has conducted multiple strikes in the Caribbean and eastern Pacific against US-claimed, so-called "drug trafficking boats", but has not released evidence linking targets to narcotics.
-
----
-
-### 2026-10-28 00:44:21  #其他
-
-胡塞武裝宣告：過去24小時內，沙特戰機從海米斯穆謝特和塔伊夫空軍基地出動F-15以及颱風戰機，對首都薩那、塔伊茲、拉赫季、薩達和荷臺達省的民用設施實施81次空襲與導彈打擊，同時從吉贊發動導彈襲擊，造成平民傷亡。自針對我方的衝突升級以來，沙特方面的空襲與導彈攻擊累計已達3379次。
-
----
-
-### 2026-10-28 00:43:51  #MKT News
-
-Houthi forces said Saudi warplanes carried out 81 airstrikes and missile attacks in the past 24 hours on the capital Sanaa and the provinces of Taiz and Lahj, bringing total Saudi airstrikes and missile attacks since the start of the escalation against Yemen to 3,379.
-
----
-
-### 2026-10-28 00:43:02  #MKT News
-
-At the close on Oct 27 (Tue), Germany's DAX rose 186.03 points (0.73%) to 25,596.87; the UK’s FTSE 100 fell 79.41 points (0.74%) to 10,687.92; France's CAC 40 rose 39.82 points (0.51%) to 7,887.14; EUROSTOXX 50 rose 48.42 points (0.79%) to 6,164.65; Spain's IBEX 35 rose 131.99 points (0.69%) to 19,165.29; Italy's FTSE MIB rose 431.69 points (0.88%) to 49,618.50.
-
----
-
-### 2026-10-28 00:43:01  #MKT News
-
-【Report: Russian refinery crude runs rise 25% in late October after Russia-Ukraine energy ceasefire】Refinitiv, citing three industry sources, said Russian refinery crude runs recovered rapidly after drone attacks stopped affecting plants on Oct. 16, rising to about 5.0 mln b/d in the second half of October, roughly 25% above the start of the month. Diesel production increased by at least 50,000 tonnes/day to about 225,000 tonnes/day, with roughly 80,000 tonnes/day available for export. Ukrainian drone strikes since mid-March had caused domestic fuel shortages, prompted temporary bans on gasoline, jet fuel and diesel exports and forced imports of refined products. After the US pushed talks and helped arrange a diesel supply deal, Trump announced on Oct. 11 that Russia and Ukraine had agreed an energy ceasefire. Deputy Prime Minister Novak said refineries are rapidly restarting idled units and that needed oil-and-gas equipment can largely be produced domestically.
-
----
-
-### 2026-10-28 00:40:07  #MKT News
-
-Vatican Foreign Ministry said that after falling ill Pope Leo is not necessarily likely to hasten initiatives during his papacy, though the episode may alter external perceptions of his health.
-
----
-
-### 2026-10-28 00:39:12  #MKT News
-
-Vatican Foreign Ministry said Pope Leo's lung cancer surgery is a 'turning point' for his pontificate.
-
----
-
-### 2026-10-28 00:38:37  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Traders said higher runs at Russia's domestic refineries are expected to reduce the country's oil exports to the West by 100,000-200,000 bpd in November.
-
----
-
-### 2026-10-28 00:38:22  #國際
-
-交易商稱，受國內煉廠增產影響，俄羅斯 11 月面向西方的石油出口預計每日減少 10 萬至 20 萬桶。
-
----
-
-### 2026-10-28 00:37:00  #MKT News #Market Regions #Europe & UK
-
-【Ukraine official says Aleshky ceasefire arrangements fully observed】Verkhovna Rada human rights commissioner Lubinets said on Oct 27 that, as of 17:30 local time, both Ukrainian and Russian forces had complied with designated ceasefire arrangements in Aleshky related to humanitarian operations and no violations were detected. The ceasefire began at 03:00 Kyiv time on Oct 27 and is scheduled to run until 22:59 on Nov 1.
-
----
-
-### 2026-10-28 00:36:14  #國際
-
-以色列媒體報道：資料顯示，截至下午 5 時，以色列國防軍士兵投票率為 68%。
-
----
-
-### 2026-10-28 00:35:33  #MKT News
-
-Israeli media reported voter turnout among Israel Defense Forces soldiers was 68% as of 1700 local time.
-
----
-
-### 2026-10-28 00:33:45  #MKT News
-
-Kremlin spokesman Peskov said Putin held phone calls with Finnish President Stubb and Norwegian Prime Minister Støre under specific circumstances; the calls could affect talks scheduled in Abu Dhabi, but it is too early to judge.
-
----
-
-### 2026-10-28 00:33:32  #國際
-
-市場訊息：俄外交部表示，俄羅斯已禁止七名英國軍工企業高管入境，這些企業向基輔政權供應武器和軍事技術。
-
----
-
-### 2026-10-28 00:32:58  #國際
-
-【烏克蘭官員稱阿列什基停火安排得到全面執行】當地時間10月27日，烏克蘭最高拉達人權專員盧比涅茨表示，截至當天17時30分，烏克蘭和俄羅斯均遵守了阿列什基地區與人道主義任務有關指定區域的停火安排，雙方均未發現違反停火約定的情況。盧比涅茨說，停火安排於當天基輔時間3時開始，將持續至11月1日22時59分。（央視新聞）
-
----
-
-### 2026-10-28 00:31:45  #國際
-
-訊息人士：自10月中旬無人機襲擊停止以來，俄羅斯煉油廠原油加工量增長了25%。
-
----
-
-### 2026-10-28 00:31:36  #其他
-
-德國DAX 30指數初步收漲0.78%，報25608點。法國股指初步收漲0.61%，義大利股指初步收漲0.84%、銀行指數漲1.1%，英國股指初步收跌0.75%。
-
----
-
-### 2026-10-28 00:31:33  #國際
-
-歐洲STOXX 600指數初步收漲0.48%，報643.76點。歐元區STOXX 50指數初步收漲0.84%，報6167.39點。成分股中，英飛凌漲超5%，西門子能源漲4.2%，依視路陸遜梯卡漲3.9%表現第三。富時泛歐績優300指數初步收漲0.46%，報2567.42點。
-
----
-
-### 2026-10-28 00:31:21  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Sources say Russian refinery crude throughput has risen 25% since drone attacks ceased in mid-October.
-
----
-
-### 2026-10-28 00:25:44  #MKT News
-
-Russian President Putin began bilateral talks with Iranian President Pezeshkian.
-
----
-
-### 2026-10-28 00:25:15  #MKT News
-
-U.S. Southern Command said it struck a speedboat in the eastern Pacific, killing five; intelligence confirmed the vessel was actively involved in drug trafficking.
-
----
-
-### 2026-10-28 00:24:45  #國際
-
-俄羅斯總統普京開始與伊朗總統佩澤希齊揚舉行雙邊會晤。
-
----
-
-### 2026-10-28 00:24:14  #國際
-
-美國南方司令部：對東太平洋既定毒品走私航線上的一艘快艇實施了一次致命動能打擊。經確認的情報顯示，該船隻積極參與毒品走私。此次行動擊斃五名毒品恐怖分子。
-
----
-
-### 2026-10-28 00:21:08  #公司 #市場
-
-Cerebras Systems股價上漲8.1%，此前甲骨文公司將在Oracle雲基礎設施上提供該公司的快速推理服務。
-
----
-
-### 2026-10-28 00:19:26  #國際
-
-俄羅斯總統新聞秘書佩斯科夫：普京同斯圖布、斯特勒的通話在特定情況下可能會影響阿布扎比會談的程序，但目前下定論尚早。
-
----
-
-### 2026-10-28 00:18:48  #公司 #市場
-
-【Meta 250億美元股票發行認購需求約為發行規模五倍】據知情人士透露，Meta Platforms Inc.擴大規模後的250億美元股票發行獲得的認購需求約為可供發行股票數量的五倍。該公司尋求籌集980億美元，為其人工智慧相關支出提供資金。知情人士表示，此次普通股發行中，超過一半的股份配售給了只做多投資者和現有投資者。知情人士稱，獲得此次發行中15筆最大配售的投資者合計獲配約70%的股份。此次發行價定為每股625美元，較發行計劃公佈前上週五的收盤價折讓2.7%。此次股票發行只是Meta融資計劃的一部分，該計劃還包括髮行125億美元強制可轉換優先股，以及預計將實施的一項按市價發行股票計劃。整個融資計劃規模達980億美元，將成為史上規模最大的股權融資計劃之一。知情人士稱，強制可轉換優先股發行也獲得數倍超額認購。
-
----
-
-### 2026-10-28 00:17:59  #國際
-
-俄羅斯稱在天然氣出口國論壇間隙討論了天然氣互換供應事宜。
-
----
-
-### 2026-10-28 00:17:04  #國際
-
-美國總統特朗普：華爾街日報何時才會開始將人工智慧（AI）這個糟糕且不準確的名稱改稱為超級智慧（SI）？幾乎其他所有人都在使用這個名稱，或者很快就會使用。很快，我們將正式禁止在所有相關檔案及其他一切場合使用“AI/人工智慧”這一術語，因為該名稱不準確。
-
----
-
-### 2026-10-28 00:16:26  #MKT News #Market Themes #AI Revolution
-
-U.S. President Trump said he will soon formally ban the term "artificial intelligence (AI)" from all relevant documents.
-
----
-
-### 2026-10-28 00:15:45  #焦點 #國際
-
-特朗普：我們很快會在所有相關檔案中正式禁用“AI/人工智慧”這一術語。
-
----
-
-### 2026-10-28 00:15:07  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
-
-Google (GOOG.O) announced research on its Genie 4 model and said it has rolled the model out to a small group of trusted testers.
-
----
-
-### 2026-10-28 00:14:25  #公司
-
-谷歌：向一小批受信任的測試者推出Genie 4。
-
----
-
-### 2026-10-28 00:14:09  #觀點
-
-摩根大通資管旗下 55ip 與 Anthropic 合作，在 Claude 中為理財顧問提供稅務最佳化技術。
-
----
-
-### 2026-10-28 00:13:39  #公司
-
-谷歌：釋出Genie 4相關研究成果。
-
----
-
-### 2026-10-28 00:13:04  #MKT News
-
-Canadian Prime Minister Carney met the Abu Dhabi Crown Prince in Ottawa.
-
----
-
-### 2026-10-28 00:12:52  #其他
-
-【英特爾與甲骨文計劃擴大合作 以支援甲骨文雲基礎設施上的企業級和智慧體AI】英特爾與甲骨文宣佈計劃開展一項多年期合作，以擴大英特爾至強（Xeon）處理器在甲骨文雲基礎設施（OCI）上的部署，從而滿足企業應用、智慧體AI（Agentic AI） 和推理日益增長的需求。雙方將協調路線圖和產能規劃，合作範圍將覆蓋當前及未來的至強平臺，包括基於英特爾下一代伺服器處理器（代號Diamond Rapids）的計劃中OCI X14例項。
-
----
-
-### 2026-10-28 00:11:56  #MKT News
-
-Financial Times reports the EU is pressing allies to address Ukraine's funding shortfall.
-
----
-
-### 2026-10-28 00:11:03  #其他
-
-阿布扎比王儲會見加拿大總理卡尼。
-
----
-
-### 2026-10-28 00:08:26  #國際
-
-【巴西聯邦最高法院要求調查博索納羅涉嫌接受外國資金】巴西聯邦最高法院法官弗拉維奧·迪諾27日裁定，要求巴西聯邦警察就總統選舉中敗選的自由黨候選人博索納羅在競選活動中涉嫌接受外國資金和操縱社交媒體展開調查。調查重點將聚焦美國保守派組織“羅克布里奇網路”與博索納羅競選團隊的資金往來，查明其參與為博索納羅競選提供資金支援談判的性質、參與方及具體目的；部分境外社交媒體賬號疑似有償釋出其競選宣傳內容，需查明付款方身份和資金來源。迪諾強調，巴西不允許外國直接或間接干涉屬於巴西主權範圍的事務。（新華社）
-
----
-
-### 2026-10-28 00:08:13  #MKT News #Market Regions #Europe & UK
-
-The Kremlin said Norway and Finland have not made new proposals to Russia.
-
----
-
-### 2026-10-28 00:07:04  #國際
-
-克里姆林宮稱挪威和芬蘭沒有向俄羅斯提出新提議。
-
----
-
-### 2026-10-28 00:04:45  #國際
-
-以色列總理內塔尼亞胡：還有四小時拯救以色列，投右翼選票。
-
----
-
-### 2026-10-28 00:04:14  #其他
-
-甲骨文推出Oracle Media Fabric。
-
----
-
-### 2026-10-28 00:03:56  #MKT News #Market Themes #AI Revolution #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) launched an AI data platform designed to scale enterprise AI applications.
-
----
-
-### 2026-10-28 00:03:46  #MKT News #Market Themes #AI Revolution #ORCL.O #Impact bullish
-
-CNBC reports Oracle (ORCL.N) is expanding its collaboration with OpenAI.
-
----
-
-### 2026-10-28 00:03:37  #公司 #國際
-
-洛克希德·馬丁公司：將在波蘭設立PAC-3導彈維護設施。
-
----
-
-### 2026-10-28 00:03:00  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #ORCL.N
-
-NVIDIA (NVDA.O) and Oracle (ORCL.N) expand deployment of NVIDIA's Vera Rubin platform.
-
----
-
-### 2026-10-28 00:02:51  #公司
-
-Crusoe執行長：OpenAI正與Abilene合作開發另一款尚未釋出的模型。OpenAI尚未釋出的新模型旨在解決數學問題。
-
----
-
-### 2026-10-28 00:02:36  #其他
-
-甲骨文：Snowflake AI資料雲將作為原生第一方服務在甲骨文雲基礎設施上提供。將在甲骨文雲基礎設施上提供Cerebras的快速推理服務；預計於2027日曆年上線。
-
----
-
-### 2026-10-28 00:02:10  #公司
-
-甲骨文：宣佈與OpenAI合作，將前沿AI整合到企業計算中。將OpenAI模型、ChatGPT和Codex與甲骨文應用、資料及雲基礎設施進行整合。谷歌的張量處理單元將透過甲骨文雲基礎設施提供；將於2027日曆年開放使用。
-
----
-
-### 2026-10-28 00:01:07  #MKT News #INTC.O #Impact bullish #ORCL.N
-
-Market sources: Intel (INTC.O) and Oracle (ORCL.N) plan to expand their cooperation agreement.
-
----
-
-### 2026-10-28 00:01:05  #其他
-
-英偉達：與甲骨文將 Vera Rubin 擴充套件至吉瓦級規模，並在甲骨文雲基礎設施上線英偉達 Vera CPU。Vera Rubin NVL72 與 Vera CPU 現已在甲骨文雲全面上線。甲骨文雲將在x86伺服器中搭載配備八塊Rubin GPU的NVIDIA HGX Rubin NVL8。
-
----
-
-### 2026-10-28 00:00:48  #MKT News #Market Themes #AI Revolution
-
-Crusoe CEO: OpenAI's not-yet-released model is designed to solve mathematical problems.
-
----
-
-### 2026-10-28 00:00:42  #其他
-
-英特爾與甲骨文計劃擴大合作，在甲骨文雲基礎設施上支援企業級 AI 以及智慧體 AI。
-
----
-
-### 2026-10-28 00:00:41  #市場
-
-紐約期金日內漲1%，現報4078.81美元/盎司。
-
----
-
-### 2026-10-28 00:00:25  #MKT News #Market Themes #AI Revolution
-
-Crusoe CEO says OpenAI is collaborating with Abilene to develop another, as-yet-unreleased model.
-
----
-
-### 2026-10-28 00:00:02  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Gains Ahead of ECB and Fed Policy Meetings — The CAC 40 rose 0.7% to close at 7,903 on Tuesday ahead of major central bank decisions later this week. The ECB is will announce its policy decision on Thursday and is expected to leave interest rates unchanged. The US Federal Reserve is also expected to hold rates steady. Financial stocks closed higher, with BNP Paribas (+1.4%) and Société Générale (+1.3%) in focus ahead of their earnings reports on Wednesday and Friday, respectively. Meanwhile, Orange fell 0.4% despite raising its 2026 core earnings growth target and beating revenue and core profit expectations in Q3. STMicroelectronics (+6.4%) and Schneider Electric (+3%) rose, tracking a tech rebound on Wall Street following Anthropic’s IPO filing. Airbus (0%) and Dassault Systèmes (+0.9%) report earnings Wednesday, while TotalEnergies (-0.8%) and Renault (-1%) report Friday. On the data front, consumer confidence fell to 80 in October from 85 in September, amid rising yields, austerity disputes and cost-of-living protests.
-
----
-
-### 2026-10-27 23:59:32  #國際
-
-俄羅斯外長拉夫羅夫：至於普京與特朗普通話後公佈的柴油供應相關協議，這純粹是一項商業安排，不存在任何附加條件。不存在類似 “我們向你們供應柴油，作為交換，你們要在政治層面或是安全議題上，無論是霍爾木茲海峽或是其他地區做出讓步” 這樣的約定。
-
----
-
-### 2026-10-27 23:58:58  #MKT News
-
-U.S. Supreme Court declined to block an agreement between President Trump and Texas that strips immigration judges of the authority to temporarily close deportation cases.
-
----
-
-### 2026-10-27 23:58:26  #國際
-
-【敘利亞過渡政府譴責約旦軍隊空襲敘南部】敘利亞過渡政府27日譴責約旦軍隊26日空襲敘南部多地，稱行動前未與敘方協調，對敘領空構成“不可接受的侵犯”。敘過渡政府應急與災害管理部稱，約旦空軍26日晚襲擊德拉省和蘇韋達省多地，致7人死亡、3人受傷。約旦武裝部隊稱，經與敘過渡政府協調，空襲敘南部恐怖組織據點，打死打傷多名成員，系報復23日卡拉克省教堂恐襲。約旦政府發言人穆罕默德·穆馬尼稱，空襲“伊斯蘭國”據點，打死20多名武裝人員並摧毀其大型武器庫。（新華社）
-
----
-
-### 2026-10-27 23:58:22  #其他
-
-本田警告：加拿大汽車關稅若升至50%，將對汽車行業造成災難性打擊。
-
----
-
-### 2026-10-27 23:58:06  #國際
-
-美國最高法院拒絕叫停特朗普政府與得克薩斯州達成的協議，該協議取消了移民法官暫時擱置驅逐案件的許可權。
-
----
-
-### 2026-10-27 23:57:44  #國際
-
-梅拉尼婭·特朗普：烏克蘭區域性停火已經開始。
-
----
-
-### 2026-10-27 23:57:32  #MKT News
-
-U.S. first lady Melania said a localized ceasefire in Ukraine has already begun.
-
----
-
-### 2026-10-27 23:56:32  #國際
-
-【古巴外長憤怒打斷美國代表發言】10月27日，第81屆聯合國大會審議“必須終止美國對古巴的經濟、商業和金融封鎖”決議草案。美國常駐聯合國代表華爾茲在發言時辯稱“美國沒有封鎖古巴”，並一再指責古巴領導人。現場的古巴代表團敲桌並起立抗議。古巴外長羅德里格斯多次動用聯合國議事規則第71條（注：代表可在討論任何事項時提出程式問題，聯大主席應立即按議事規則對該程式問題作出裁決）打斷華爾茲的講話，表示強烈抗議。華爾茲結束講話下臺時，現場有人高喊他是“騙子”，以及“讓古巴活下去”等口號。（CCTV國際時訊）
-
----
-
-### 2026-10-27 23:54:41  #MKT News
-
-Lavrov, responding to German chancellor Merz's recent remark that defeating Russia is the most important goal, called those making the comment political masochists.
-
----
-
-### 2026-10-27 23:53:34  #國際
-
-【俄烏在阿列什基停火至11月1日】俄羅斯人權事務專員10月27日表示，赫爾松地區阿列什基的臨時停火從莫斯科時間當天4:00（北京時間9:00）開始，持續至11月1日22:59（北京時間11月2日3:59）。這與烏克蘭方面稍早前表示的停火時段一致。據稱截至目前俄烏雙方均未記錄到違反停火的情況。（CCTV國際時訊）
-
----
-
-### 2026-10-27 23:52:29  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Russian presidential aide Ushakov said contacts between Russian and Ukrainian leaders would only be meaningful after negotiations conclude, with the purpose being to sign documents.
-
----
-
-### 2026-10-27 23:52:02  #MKT News #Commodities #Energy
-
-IRNA reports Iran and Belarus have signed a memorandum of understanding on energy cooperation.
-
----
-
-### 2026-10-27 23:51:56  #其他
-
-【盧拉勝選衝擊巴西市場，但GQG的Jain稱此時拋售是個“錯誤”】在巴西總統盧拉出人意料地再次當選後，投資者紛紛撤離巴西市場，而Rajiv Jain正準備再次採取他過去使用的策略：在市場恐慌之際買入。GQG Partners聯合創始人Jain對彭博表示，考慮到巴西企業估值仍具吸引力、盈利強勁且股息收益率較高，投資者對選舉結果的反應過度。管理約1,500億美元資產的Jain表示，“如果從長期來看，我們認為巴西是新興市場中最具吸引力的股票市場之一。”他表示，“如果拋售進一步加劇，我們可能會成為買家。”
-
----
-
-### 2026-10-27 23:51:49  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #HMC.O
-
-Honda top executive warned the auto industry would face a catastrophic outcome if the U.S. and Canada do not reach a new trade agreement by year-end. Trump previously threatened to raise tariffs on Canadian cars and auto parts from 25% to 50% effective Jan. 1 if no deal is reached.
-
----
-
-### 2026-10-27 23:50:45  #公司 #國際
-
-以色列 12 頻道新聞：中央選舉委員會稱尚未收到利庫德集團延長投票時間的申請。
-
----
-
-### 2026-10-27 23:50:08  #MKT News #Important
-
-Ushakov said President Putin told the leaders of Finland and Norway that Ukrainian President Zelensky may visit Moscow; Putin added Russia would provide all necessary conditions, including security guarantees, should the visit take place.
-
----
-
-### 2026-10-27 23:49:50  #國際
-
-市場訊息：伊朗與白俄羅斯簽署能源合作諒解備忘錄。
-
----
-
-### 2026-10-27 23:48:43  #MKT News
-
-The Hill reported that US President Trump, asked whether he would accept midterm election results, replied "if it's an honest election."
-
----
-
-### 2026-10-27 23:47:18  #國際
-
-俄羅斯總統助理烏沙科夫：在談判程序完成後，俄烏領導人層面的接觸才有意義，目的是簽署檔案。
-
----
-
-### 2026-10-27 23:46:49  #國際
-
-俄羅斯總統助理烏沙科夫：俄羅斯總統普京對斯圖布和斯特勒表示，如果澤連斯基訪問莫斯科，將為其提供一切必要安排，包括安全保障。
-
----
-
-### 2026-10-27 23:45:41  #市場
-
-【費城半導體指數日內漲3%】費城半導體指數日內漲3.00%，現報11416.10點。英偉達漲1.20%，博通漲3.89%，美光漲2.76%，英特爾漲3.56%，AMD漲5.43%，高通漲1.09%，臺積電漲3.03%，阿斯麥漲3.00%。
-
----
-
-### 2026-10-27 23:45:24  #焦點 #國際
-
-俄羅斯總統助理烏沙科夫：俄羅斯總統普京在與芬蘭總統斯圖布和挪威首相斯特勒交談時證實，澤連斯基可能訪問莫斯科。
-
----
-
-### 2026-10-27 23:42:49  #MKT News
-
-【5.7-magnitude earthquake strikes offshore near Coiba Island, Panama】The University of Panama's Institute of Earth Sciences reported a preliminary seismic detection: at 10:26 a.m. local time on Oct. 27 a magnitude-5.7 earthquake occurred about 19 km northeast of Coiba Island, Panama, with a focal depth of roughly 5 km.
-
----
-
-### 2026-10-27 23:42:27  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Russian Defence Ministry said this afternoon Russian forces struck an electronics firm in Kharkiv region that produced automation systems and communications equipment for the Ukrainian armed forces. The ministry said a cargo ship carrying supplies to Odesa for Ukrainian forces was also struck while transiting at sea.
-
----
-
-### 2026-10-27 23:41:18  #市場 #焦點
-
-現貨黃金突破4060美元/盎司，日內漲1.08%。
-
----
-
-### 2026-10-27 23:41:15  #國際
-
-俄羅斯總統助理烏沙科夫：芬蘭總統斯圖布與挪威首相斯特勒向普京轉達了澤連斯基的訊息。
-
----
-
-### 2026-10-27 23:40:15  #國際
-
-市場訊息：俄羅斯稱在黑海擊中一艘幹散貨船。
-
----
-
-### 2026-10-27 23:40:00  #其他
-
-【巴拿馬科伊瓦島附近海域發生5.7級地震】據巴拿馬大學地球科學研究所釋出的初步地震監測報告，當地時間10月27日上午10時26分，巴拿馬科伊瓦島東北方向約19公里處海域發生5.7級地震，震源深度約5公里。（央視新聞）
-
----
-
-### 2026-10-27 23:39:43  #MKT News #Market Regions #Europe & UK
-
-Interfax reports Russia says it struck a dry-bulk vessel in the Black Sea.
-
----
-
-### 2026-10-27 23:39:29  #MKT News
-
-President Trump said he expects to visit a tanker carrying Venezuelan oil in Texas and believes U.S. Secretary of State Rubio will accompany him.
-
----
-
-### 2026-10-27 23:39:15  #國際
-
-美國總統特朗普：如果民主黨拿下參眾兩院，我擁有強有力的否決權。如果選舉是公正的，我會接受選舉結果。
-
----
-
-### 2026-10-27 23:39:00  #國際
-
-美國總統特朗普：我們將接收100萬桶委內瑞拉原油。
-
----
-
-### 2026-10-27 23:38:08  #國際
-
-美國總統特朗普：我認為美國國務卿魯比奧會與我並肩。
-
----
-
-### 2026-10-27 23:37:56  #國際
-
-美國總統特朗普：我打算前往得克薩斯州，登上那艘載有委內瑞拉原油的油輪。
-
----
-
-### 2026-10-27 23:37:45  #MKT News
-
-RIA reports a ceasefire in the Russia-controlled Ukrainian town of Oleshky will run until 22:59 Moscow time on Nov 1 (03:59 Beijing time on Nov 2).
-
----
-
-### 2026-10-27 23:36:52  #國際
-
-俄新社：俄控烏克蘭城鎮奧列什基的停火將持續至莫斯科時間11月1日22時59分。
-
----
-
-### 2026-10-27 23:36:48  #MKT News
-
-【Drone strike on western Sudan city kills at least 100】On Oct. 27 local time the Sudan Liberation Movement Transitional Council said a drone struck Nyala, capital of South Darfur, early morning, hitting a market, sparking fires and killing at least 100 people with multiple others wounded. No organisation has claimed responsibility.
-
----
-
-### 2026-10-27 23:35:53  #公司 #國際
-
-【美國能源部長：能源部正在加速推進特朗普總統的美國核能復興計劃】美國能源部長賴特（Chris Wright）計劃於週二晚些時候在伊利諾伊州的一座將為Alphabet Inc.旗下谷歌公司提供電力的核電站宣佈這一資金支援。“能源部正在加速推進特朗普總統的美國核能復興計劃，並釋放我們國家核電堆群的全部潛力，”賴特在宣告中表示。他指出，透過提升現有核設施產出的升級改造，可以在擴充電力供應的同時，支援電網的可靠性，並提升消費者和企業的負擔能力。
-
----
-
-### 2026-10-27 23:35:28  #其他
-
-【蘇丹西部城市遭無人機襲擊 造成至少100人死亡】當地時間10月27日，蘇丹地方武裝“蘇丹解放運動過渡委員會”釋出宣告稱，蘇丹西部南達爾富爾州首府尼亞拉市當天清晨遭無人機襲擊，以當地一處市場為目標引發火災，已造成至少100人死亡、多人受傷，尚無組織或個人宣佈對此次襲擊負責。尼亞拉市自2023年10月以來一直由蘇丹快速支援部隊及“蘇丹解放運動過渡委員會”等結盟地方武裝控制，也是其盟友成立的“平行政府”行政中心所在地，近期多次遭無人機襲擊。2023年4月15日蘇丹武裝部隊與快速支援部隊在首都喀土穆爆發武裝衝突，戰火蔓延至蘇丹其他地區，持續三年多的武裝衝突已造成至少5.9萬人死亡。（央視新聞）
-
----
-
-### 2026-10-27 23:35:19  #Trading Economics #Markets #Canada #stocks #Importance 1
-
-Bank Of Montreal Shares Hit 4-week High — Bank Of Montreal shares increased to 240.73 CAD, the highest since September 2026. Over the past 4 weeks, Bank Of Montreal lost 0.83%, and in the last 12 months, it increased 35.58%.
-
----
-
-### 2026-10-27 23:34:45  #國際
-
-俄羅斯總統助理烏沙科夫：與美國的對話正以工作模式持續進行。
-
----
-
-### 2026-10-27 23:34:43  #MKT News #Market Regions #Emerging Markets
-
-A U.S. Court of Appeals ruled that Venezuela state-owned oil company PDVSA's 2020 bonds are valid and did not require prior approval from the National Assembly.
-
----
-
-### 2026-10-27 23:34:10  #公司 #國際
-
-美國上訴法院確認委內瑞拉國家石油公司（PDVSA）2020年債券有效，裁定該債券無需經國民議會預先批准。
-
----
-
-### 2026-10-27 23:34:09  #MKT News
-
-USHAKOV said dialogue with the United States is continuing in working mode.
-
----
-
-### 2026-10-27 23:33:11  #MKT News
-
-Ukraine ombudsman: to date neither Ukraine nor Russia have reported violations of the Oleshky ceasefire.
-
----
-
-### 2026-10-27 23:32:50  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-US 6-week Treasury auction on Oct. 27: 83.1% of awards allocated at the stop-out rate, versus 78.53% previously.
-
----
-
-### 2026-10-27 23:32:39  #國際
-
-烏克蘭人權專員稱，截至目前，烏克蘭與俄羅斯雙方均報告奧列什基停火未出現違規情況。
-
----
-
-### 2026-10-27 23:32:37  #MKT News #Economic Calendar
-
-United States | 6-week Treasury bill auction allotment percentage at the high rate (Oct.27) | actual 83.1% | previous 78.53%
-
----
-
-### 2026-10-27 23:32:27  #MKT News #Macro & Rates #US10Y #Impact bullish
-
-U.S. 6-week Treasury auction on Oct. 27: bid-cover ratio 2.83, prior 2.74.
-
----
-
-### 2026-10-27 23:32:24  #MKT News #US10Y #Impact bullish
-
-U.S. 6-week Treasury bill auction to Oct. 27: stop-out yield 3.95%, prior 3.98%.
-
----
-
-### 2026-10-27 23:32:19  #宏觀 #市場 #國際
-
-美國財政部拍賣六週期國債，得標利率3.950%，投標倍數2.83。拍賣52週期國債，得標利率4.290%，投標倍數3.15。
-
----
-
-### 2026-10-27 23:32:16  #MKT News #Economic Calendar
-
-United States | 6-week Treasury bill auction bid-to-cover ratio (Oct.27) | actual 2.83 | previous 2.74
-
----
-
-### 2026-10-27 23:32:08  #MKT News #Economic Calendar
-
-United States | 6-week Treasury bill auction high rate (Oct.27) | actual 3.95% | previous 3.98%
-
----
-
-### 2026-10-27 23:31:59  #MKT News #Macro & Rates #Treasury Yields #XAUUSD #Impact bullish #DXY #Impact bearish
-
-US 1-year Treasury auction bid-cover ratio 3.15 on Oct 27; prior 3.07.
-
----
-
-### 2026-10-27 23:31:58  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #S&P500
-
-U.S. 1-year Treasury auction on Oct. 27 — percent awarded at the stop-out yield 65.33%, prior 70.21%.
-
----
-
-### 2026-10-27 23:31:57  #MKT News #XAUUSD #Impact bullish #DXY #Impact bearish #EURUSD
-
-U.S. 1-year Treasury auction on Oct. 27 — stop-out yield 4.29%, prior 4.40%.
-
----
-
-### 2026-10-27 23:31:47  #MKT News #Economic Calendar
-
-United States | 12-Month Bill Auction Accepted at High (Oct.27) | actual 65.33% | previous 70.21%
-
----
-
-### 2026-10-27 23:31:47  #MKT News #Economic Calendar
-
-United States | 12-Month Bill Auction Bid/Cover Ratio (Oct.27) | actual 3.15 | previous 3.07
-
----
-
-### 2026-10-27 23:31:36  #國際
-
-克里姆林宮稱普京、斯圖布和斯特勒如有需要將再次溝通。
-
----
-
-### 2026-10-27 23:30:57  #國際
-
-市場訊息：歐洲投資銀行將與加拿大簽署關鍵原材料合作框架協議。
-
----
-
-### 2026-10-27 23:30:53  #Trading Economics #Markets #Commodity #Importance 0
-
-Arabica Coffee Futures at Over 2-Week Low — Arabica coffee futures traded around $2.9 per pound, their lowest since October 9, amid improving supply prospects and continued selling pressure linked to the Brazilian real. The currency has recovered some ground since its sharp post-election decline following Lula’s surprise re-election. but remained below pre-election levels. Meanwhile, attention remains focused on the development of Brazil’s next crop and the replenishment of global stocks. Recent rainfall has supported flowering and early crop development, improving production prospects, although concerns over irregular precipitation and high temperatures persist. Export figures have also pointed to stronger supply flows, with Brazilian coffee shipments reaching approximately 3.30 million bags by October 22, up 43.2% from the same period a year earlier, according to Cecafé. Certified Arabica stocks remain historically low, which recently raised concerns about deliveries of the nearest contracts.
-
----
-
-### 2026-10-27 23:30:21  #國際
-
-美國向Constellation提供50億美元融資，用於核反應堆專案。
-
----
-
-### 2026-10-27 23:30:10  #Trading Economics #Markets #Bonds #Importance 1
-
-Bonds Update: Brazil 10Y Bond Yield Falls by 48 bps — Majority of government bonds yields are lower on Tuesday. Top losers are Brazil 10Y (-48bps) and Germany 10Y (-1.44bps). Gains are led by Japan 10Y (0.46bps) and US 10Y (0.40bps).
-
----
-
-### 2026-10-27 23:30:08  #國際
-
-【日本政府開出標準 大阪等四地爭當“副首都”】日本政府27日批准一項政令，列明首都東京以外行政區成為指定“副首都”需滿足的各項條件。所謂“副首都”可在東京遭受大地震等重大災難時承擔部分首都功能，也可解決東京首都職能過於集中的問題。根據日本內閣會議27日批准的政令，各道府縣想成為指定“副首都”，必須滿足多項條件，包括經濟規模佔日本國內生產總值(GDP)2.1%以上、轄區內至少有一座城市人口占全國人口1.2%以上、所處地理位置可避開東京大地震或富士山爆發等嚴重災害影響，另外還必須按規定重新構建行政體制。按照已公佈的標準，北海道、愛知縣、大阪府、福岡縣都可能有資格成為指定“副首都”，四地都計劃爭取獲得這一資格。日本內閣官房長官木原稔27日在記者會上說，若這四地均提出申請且符合條件，則四地都會被指定為“副首都”。（央視新聞）
-
----
-
-### 2026-10-27 23:29:47  #公司 #國際
-
-波音CEO：仍未獲得美國聯邦航空管理局批准，無法完成 777X 的適航取證試飛。
-
----
-
-### 2026-10-27 23:26:46  #國際
-
-美國總統特朗普表示，消費者信心上升7.5%，漲幅極大。
-
----
-
-### 2026-10-27 23:26:02  #Trading Economics #Markets #Commodity #Importance 0
-
-Cotton Drops Toward Three-Month Low — Cotton futures fell below 80 cents per pound, approaching a three-month low as rising harvest supplies weighed on prices. The US harvest continues to advance, with 52% of the crop havested by the week ending October 25th, above the five-year average of 45%. Peak harvest typically pressures prices as newly available supplies enter the market. Seasonal supply pressure is compounded by intensifying export competition with Brazil, the world’s leading cotton exporter, which is expected to ship around 3.4 million tonnes, according to Anea, compared with the USDA’s US export forecast of 2.69 million tonnes. Meanwhile, progress in US–China trade talks has yet to deliver clear tariff relief, prompting Chinese buyers to scale back foreign purchases, reflected in a drop in China’s cotton imports of 42.6% year-on-year in September. In contrast, India is expected to extend duty-free cotton imports through December amid tight domestic supplies, supporting some demand.
-
----
-
-### 2026-10-27 23:25:44  #公司 #國際
-
-賽峰執行長：現任英國工黨政府有意與歐洲，包括歐洲工業開展更緊密合作。
-
----
-
-### 2026-10-27 23:25:03  #公司 #國際
-
-以色列媒體報道： 以色列右翼保守政黨利庫德集團稱，我們已提交延長投票時間的申請。
-
----
-
-### 2026-10-27 23:23:06  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Rebounds from 11-Month Lows — Silver prices recovered from early losses to trade around $54.5 an ounce on Tuesday, rebounding from 11-month lows as declining oil prices eased inflation concerns ahead of the US Federal Reserve’s policy meeting. However, gains remained limited by a stronger US dollar and elevated Treasury yields. Oil prices retreated from recent highs amid hopes of de-escalation in the Middle East conflict, helping ease concerns over persistent inflationary pressures. Although the Fed is widely expected to keep interest rates unchanged this week, investors anticipate that the pause may be short-lived, as inflation remains above the central bank’s target and energy prices remain elevated. According to the CME FedWatch Tool, traders are pricing in an 80% probability of a US rate hike in December. Meanwhile, other major central banks are also due to announce policy decisions this week, with both the European Central Bank and the Bank of Japan widely expected to leave interest rates unchanged.
-
----
-
-### 2026-10-27 23:20:38  #公司 #焦點 #國際
-
-市場訊息：SK海力士旗下美國子公司Solidigm正與美國商務部就450億美元在美建廠事宜進行磋商。
-
----
-
-### 2026-10-27 23:20:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Rebounds as Investors Await Fed Policy Decision — Gold prices erased early losses to rise above $4,050 an ounce on Tuesday, as falling oil prices eased inflation concerns ahead of the US Federal Reserve’s policy meeting. However, gains were capped by a stronger US dollar and elevated Treasury yields. Oil prices retreated from recent highs amid hopes of de-escalation in the Middle East conflict, easing some concerns over persistent inflationary pressures. While policymakers are expected to hold rates steady this week, investors anticipate that the pause may be short-lived, as inflation remains above the Fed’s target and energy prices stay elevated. According to the CME FedWatch Tool, traders are pricing in an 80% probability of a US rate hike in December. Meanwhile, other major central banks are also set to announce policy decisions this week, with both the European Central Bank and the Bank of Japan widely expected to keep interest rates unchanged.
-
----
-
-### 2026-10-27 23:18:10  #其他
-
-微軟 AI 推出 MAI image 2.7 預覽版。
-
----
-
-### 2026-10-27 23:17:39  #其他
-
-訊息人士：巴西參議員弗拉維奧・博索納羅未能在最高法院規定期限內向聯邦警察局上交護照。
-
----
-
-### 2026-10-27 23:17:36  #市場
-
-現貨白銀日內漲1%，現報54.49美元/盎司。
-
----
-
-### 2026-10-27 23:16:43  #國際
-
-【俄烏在阿列什基停火成本風險低】俄烏今天（10月27日）起在赫爾松地區阿列什基臨時停火。烏克蘭方面稱，停火將持續至11月1日。阿列什基坐落於第聶伯河左岸，由俄軍控制，與烏軍控制的赫爾松市隔河相望。當地有包括老人和兒童在內的1700至2000人留守，人道狀況嚴峻，沒有供電、供暖、供水，城外道路布有地雷。中國現代國際關係研究院歐亞所副所長陳宇分析指出，俄烏在阿列什基沒有緊迫的攻防壓力，安排停火的成本、風險都相對較少。這次停火本身有積極意義，但對俄烏的整體局勢影響比較有限，很難撬動當前僵局。俄烏在領土歸屬、安全保障等核心問題上分歧很大，短期內難有改變。（CCTV國際時訊）
-
----
-
-### 2026-10-27 23:16:08  #國際
-
-俄羅斯總統新聞秘書佩斯科夫：經美國斡旋達成協議，阿列什基的人道主義任務正按計劃推進。
-
----
-
-### 2026-10-27 23:15:02  #市場 #焦點
-
-納指漲1.00%，現報26431.086點；道指漲0.04%，現報52380.211點；標普500指數漲0.53%，現報7717.250點。
-
----
-
-### 2026-10-27 23:14:32  #國際
-
-烏克蘭外長：和平努力需要注入新的動力。
-
----
-
-### 2026-10-27 23:13:34  #其他
-
-波音CFO：到2029年737產量不會達到2018年的水平。
-
----
-
-### 2026-10-27 23:11:19  #Trading Economics #Markets #Brazil #Government Bond 10Y #Importance 1
-
-Brazil’s 10-Year Yield Retreats After National Treasury Intervention — Brazil’s 10-year government bond yield fell to around 14.97% after reaching as high as 15.6% on October 26th, following President Lula’s runoff victory over Flávio Bolsonaro, as the National Treasury intervened to ease market pressures. The Treasury announced it would suspend its regular Selic-linked bonds auction and the buyback operation for inflation-linked bonds to address market dysfunction. Investors remain focused on fiscal policy, particularly the government’s commitment to controlling spending and public debt, which has risen significantly in recent years. The appointment of the next finance minister will be a key signal. Markets had viewed a Bolsonaro administration as more likely to curb public spending, seen as essential to lowering interest rates. Brazilian assets had rallied after the first round, when Bolsonaro finished ahead of Lula and outperformed polling estimates.
-
----
-
-### 2026-10-27 23:10:23  #資料 #市場 #國際
-
-【房貸利率飆升之際 美國新建住宅銷量下降】美國9月新建住宅銷量小幅下降，建築商努力降價並提供促銷優惠，未能抵消抵押貸款利率飆升的影響。美國政府週二公佈的資料顯示，9月新建單戶型住宅銷量下降0.6%，折年率為67.6萬套。這高於彭博調查經濟學家的預期中值65.1萬套。新建住宅銷售價格中值同比下降3.9%，至400,400美元，今年前九個月中已有七個月同比下跌。9月低迷的銷售資料凸顯美國住房市場面臨的嚴峻挑戰。抵押貸款利率上月升約0.5個百分點，並在10月初升至近三年來最高水平，此後僅小幅回落。借貸成本飆升削弱了潛在購房者的需求，並推動一項住宅建築商信心指標降至14年來最低水平。週二公佈的資料顯示，9月新屋待售庫存同比下降2.3%，至47.6萬套。按當前銷售速度計算，相當於8.4個月的供應量，為今年以來最低，但仍遠高於疫情前水平。
-
----
-
-### 2026-10-27 23:09:13  #公司
-
-波音CEO：目前還無法說我們已經穩定生產機翼以支撐每月47架的737生產速率。
-
----
-
-### 2026-10-27 23:07:22  #國際
-
-俄羅斯外長拉夫羅夫：俄羅斯願幫助非洲國家採用新技術並培訓人員，尤其是在人工智慧發展的背景下。
-
----
-
-### 2026-10-27 23:05:59  #公司 #焦點 #國際
-
-波音股價跌幅擴大至10%，此前該公司下調交付目標。
-
----
-
-### 2026-10-27 23:05:38  #國際
-
-俄羅斯外長拉夫羅夫：包括法國在內的多個西方國家指使烏克蘭軍人在馬裡實施恐怖活動、策劃破壞行動。
-
----
-
-### 2026-10-27 23:04:48  #國際
-
-烏克蘭外長：奧列什基停火或可成為和談中的“建立信任措施”。
-
----
-
-### 2026-10-27 23:04:36  #國際
-
-歐盟官方資料：截至10月25日，2026/27年度軟小麥出口量為921萬噸，上年同期為914萬噸。
-2026/27年度大麥出口量為227萬噸，上年同期為391萬噸。
-2026/27年度玉米進口量為711萬噸，上年同期為524萬噸。
-
----
-
-### 2026-10-27 23:03:46  #國際
-
-五角大樓：波蘭將設“愛國者-3”導彈維護設施。
-
----
-
-### 2026-10-27 23:03:24  #央行 #其他
-
-巴西央行行長：我們打算今年晚些時候宣佈更多措施，參照國際最佳實踐來規範激進的貸款行為。
-
----
-
-### 2026-10-27 23:03:06  #國際
-
-烏克蘭外長：芬蘭和挪威領導人致電俄羅斯總統普京是與基輔協調進行的。
-
----
-
-### 2026-10-27 23:02:53  #其他
-
-市場訊息：Meta人工智慧主管Rohit Patel離職，將對標微軟Office與Google Workspace開展新業務。
-
----
-
-### 2026-10-27 23:02:49  #市場
-
-現貨黃金日內漲1%，現報4057.59美元/盎司。
-
----
-
-### 2026-10-27 23:02:00  #焦點 #國際
-
-俄羅斯外長拉夫羅夫：烏克蘭衝突將持續，且可能升級。
-
----
-
-### 2026-10-27 23:01:29  #國際
-
-俄羅斯外長拉夫羅夫：芬蘭和挪威領導人在與俄羅斯總統普京交談時未就烏克蘭問題提出任何新內容；歐洲只是希望介入談判程序。
-
----
-
-### 2026-10-27 23:00:52  #市場 #焦點
-
-WTI原油失守100美元/桶，日內跌1.76%。
-
----
-
-### 2026-10-27 23:00:44  #市場 #焦點
-
-紐約期金突破4070美元/盎司，日內漲0.79%。
-
----
-
-### 2026-10-27 23:00:36  #公司
-
-【李在鎔走訪三星機器人總部 人形機器人商用提速】三星電子會長李在鎔走訪了作為未來核心增長引擎的機器人研發據點，外界解讀此舉意在佈局機器人業務——三星電子的未來新增長賽道。 據悉，李在鎔27日到訪位於首爾瑞草區牛眠洞首爾研發園區內的機器人體驗（RX）事業推進室，視察三星正在研發的各類機器人，以及技術自研落地進展，並核查三星計劃於明年1月在CES 2027上公開的人形機器人技術籌備情況。 三星已經將機器人選定為新增長動力。公司計劃在半導體、智慧手機、家電工廠內部部署機器人，最大化生產效率；同時定下目標，到2030年把海內外全部工廠改造為AI自主工廠。
-
----
-
-### 2026-10-27 23:00:09  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Increases by 1.25% — Top currency gainers are Brazilian Real (1.25%), Swedish Krona (0.37%), New Zealand Dollar (0.36%) and Dollar Index (0.23%). Biggest losers are Mexican Peso (-0.33%), Euro (-0.22%), British Pound (-0.15%) and Japanese Yen (-0.14%).
-
----
-
-### 2026-10-27 23:00:03  #市場
-
-【夜盤期貨收盤】焦煤連續漲3.17%，焦炭連續漲2.43%，純鹼連續漲2.38%，玻璃連續漲1.80%，燃料油連續跌1.79%。
-
----
-
-### 2026-10-27 22:58:09  #其他
-
-波音預計，貨機和加油機的相關成本將計入上半年業績。
-
----
-
-### 2026-10-27 22:57:51  #市場 #國際
-
-【關鍵價差急劇飆升，銅市場顯現短期供應壓力】 現貨銅較倫敦金屬交易所（LME）基準三個月期銅的溢價飆升至兩個月來的最高水平，表明短期供應壓力不斷加劇。週二，這一關鍵價差一度躍升至每噸206美元的高位，為8月底一場重大市場擠倉（擠市）尾聲以來的最闊水平。現貨合約的溢價（即現貨升水/現貨溢價，Backwardation）是市場供應緊張的顯著特徵，而銅價今年升至創紀錄水平，很大程度上是由美國對精煉金屬加徵關稅的預期所推動的。
-
----
-
-### 2026-10-27 22:57:45  #其他
-
-波音預計777貨機和767加油機專案將產生部分“非正常”成本。
-
----
-
-### 2026-10-27 22:57:38  #國際
-
-波蘭國防部副部長：愛國者攔截彈維護中心的全部投資將約為10億茲羅提。
-
----
-
-### 2026-10-27 22:57:05  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Reverses Early Gains — The Ibovespa edged below 176,000 on Tuesday, erasing earlier gains after plunging 13.7% on Monday following President Lula’s re-election. The index had initially risen in a corrective move after a wave of selling in Brazilian assets in the previous session. Lula’s victory erased the risk-premium reduction that followed the right-wing landslide in the first round. The selloff largely reflects market disappointment over expectations of a faster fiscal adjustment under the next administration. Investors had widely viewed a potential Bolsonaro government as more likely to rein in public spending, seen as essential to lowering interest rates. Financial stocks reversed early gains, with Itaú and Bradesco each falling 1%, extending losses of around 16% on Monday. Petrobras dropped another 1% as oil prices declined, following an 8.2% plunge in the previous session. Vale fell more than 1.5% ahead of its earnings report due Thursday, after outperforming the index on Monday.
-
----
-
-### 2026-10-27 22:56:15  #市場 #國際
-
-【美國商品期貨交易委員會擬將“交易者持倉報告”增至每週釋出兩次】美國商品期貨交易委員會（CFTC）正致力於在今年年底前，將備受市場關注的交易者持倉報告（COT）釋出頻率提高至每週兩次。該報告目前於每週五發布，詳細展示大宗商品市場的買賣情況，並區分對沖基金及其他資產管理機構與商業交易參與者。生產商依靠這份報告輔助制定套期保值決策，投機交易者則透過資料觀察市場持倉變化，以及相關押注是否已過度集中。CFTC主席邁克爾·塞利格上週在堪薩斯州舉行的農業商品期貨會議上表示，提高報告發布頻率的計劃源於農業界的需求。
-
----
-
-### 2026-10-27 22:56:06  #市場 #焦點
-
-焦煤連續主力合約日內漲3%，現報1428.50元。
-
----
-
-### 2026-10-27 22:56:04  #其他
-
-波音2029年787機型月產量將接近12架。
-
----
-
-### 2026-10-27 22:55:51  #公司 #國際
-
-俄羅斯天然氣工業股份公司執行長會見伊朗國家天然氣公司（負責人）。
-
----
-
-### 2026-10-27 22:55:46  #其他
-
-波音2029年737交付量將接近50架區間的上限。
-
----
-
-### 2026-10-27 22:55:23  #國際
-
-美國總統特朗普祝賀普拉蒙東在魁北克選舉中獲勝。
-
----
-
-### 2026-10-27 22:55:12  #國際
-
-美國總統特朗普祝賀加拿大的多爾克森在不列顛哥倫比亞省獲勝。
-
----
-
-### 2026-10-27 22:55:03  #其他
-
-馬士基：電動汽車（電動卡車）和鐵路解決方案目前未受影響。
-
----
-
-### 2026-10-27 22:54:56  #其他
-
-馬士基 ：將對北歐地區的所有內陸貨物徵收臨時“緊急內陸燃油/能源附加費”，直至另行通知。
-
----
-
-### 2026-10-27 22:54:47  #其他
-
-惠譽：預計2026年全球結構性融資評級將保持不變，受信用增級增長、持續去槓桿化和結構性保護的支撐。
-
----
-
-### 2026-10-27 22:54:44  #央行 #其他
-
-巴西央行官員：當我們看到外匯市場出現功能失調時，我們會進行干預，我們只在市場功能失調的情況下進行干預。
-
----
-
-### 2026-10-27 22:53:53  #市場
-
-惠譽：能源價格上漲、通脹壓力及勞動力市場走弱將繼續拖累全球結構性金融資產表現。
-
----
-
-### 2026-10-27 22:53:35  #國際 #兩會
-
-【全國人大常委會副委員長鄭建邦率團出席第十二屆金磚國家議會論壇】
-26日至27日，全國人大常委會副委員長鄭建邦率團出席在印度新德里召開的第十二屆金磚國家議會論壇並作主旨發言。
-鄭建邦表示，中國國家主席習近平在金磚國家領導人第十八次會晤中提出，金磚國家要做促進創新發展的先鋒、維護和平穩定的先鋒、推動文明互鑑的先鋒、改革完善全球治理的先鋒，這為金磚合作明確歷史使命、指出前進方向。金磚國家已經成為名副其實的全球南方第一方陣，金磚國家議會合作作為金磚合作的重要組成部分，是夯實金磚合作根基、增強制度韌性、破解治理困難、守護共同未來的關鍵力量。金磚國家議會要加強團結合作，勇做時代先鋒，引領國際秩序朝著更加公正合理的方向發展。
-會議期間，鄭建邦分別會見了印度、俄羅斯、泰國、烏干達、白俄羅斯、古巴、伊朗等國議會領導人，就深化立法機構合作等交換了意見。（新華社）
-
----
-
-### 2026-10-27 22:53:29  #市場 #焦點
-
-燃料油連續主力合約日內跌2%，現報5189.00元。
-
----
-
-### 2026-10-27 22:52:54  #國際
-
-波蘭總理圖斯克：波蘭將成為“愛國者”系統的歐洲服務中心。
-
----
-
-### 2026-10-27 22:52:35  #國際
-
-美國駐利雅得大使館：這對赴美的沙特旅客是個大訊息。沙烏地阿拉伯現已加入全球入境計劃，為國際航空旅客入境美國時提供快速通關服務。符合條件的、已獲預先批准的沙特公民赴美時，現在可在入境美國時享受快速辦理，這使出行更加便利，同時加強了兩國之間可信賴的旅行往來。
-
----
-
-### 2026-10-27 22:51:49  #其他
-
-紐交所德州分部總裁布萊恩：預計新交易所將取得實質性成果。
-
----
-
-### 2026-10-27 22:51:41  #公司
-
-波音公司首席財務官表示，由於“遺留”現金拖累，2027年自由現金流將降低。
-
----
-
-### 2026-10-27 22:51:24  #國際
-
-國際原子能機構（IAEA）總幹事拉斐爾・格羅西稱，機構將繼續同德黑蘭溝通，釐清已擱置三年、尚無答案的相關問題。解決伊朗核爭端的任何方案都必須包含國際原子能機構核查環節。
-
----
-
-### 2026-10-27 22:51:11  #國際
-
-聯合國核監督機構表示，伊朗尚未允許國際核查人員進入其受損核設施，有關伊朗核計劃的長期疑問仍未得到解決。
-
----
-
-### 2026-10-27 22:51:00  #其他
-
-沙特媒體：利雅得發生墜落碎片造成損壞。
-
----
-
-### 2026-10-27 22:50:44  #其他
-
-波音預計2027年將因防務與航天業務合同授予增加10億美元資本支出。
-
----
-
-### 2026-10-27 22:50:36  #公司
-
-波音公司首席財務官：預計777-9飛機將於2027年年中獲得認證。
-
----
-
-### 2026-10-27 22:50:19  #市場 #焦點
-
-波音股價下跌9.2%，創18個月以來新低。
-
----
-
-### 2026-10-27 22:50:08  #其他
-
-沙特媒體：胡塞武裝攔截導彈產生的碎片落在利雅得。
-
----
-
-### 2026-10-27 22:49:52  #央行 #宏觀
-
-巴西央行加利波洛：我被考慮擔任財政部長的想法是不真實的。
-
----
-
-### 2026-10-27 22:49:19  #國際
-
-全球基金10月27日淨買入424億印度盧比印度股票。
-
----
-
-### 2026-10-27 22:49:11  #央行 #其他
-
-巴西央行加利波洛：央行董事的提名由巴西總統盧拉決定。
-
----
-
-### 2026-10-27 22:48:50  #其他
-
-【葉門胡塞武裝稱打擊沙特西南部機場】薩那訊息：葉門胡塞武裝27日表示，該組織使用一架無人機打擊了沙烏地阿拉伯西南部的艾卜哈國際機場。（新華社）
-
----
-
-### 2026-10-27 22:48:28  #其他
-
-波音首席財務官：第三季度，777貨機和767加油機生產線因機翼零部件供應商問題而中斷。該供應商的發貨已恢復。
-
----
-
-### 2026-10-27 22:48:02  #其他
-
-CMS ENERGY表示，資料中心負荷將在2030年代初緩慢增長。
-
----
-
-### 2026-10-27 22:47:32  #其他
-
-【世界氣象組織：地球大氣溫室氣體濃度再創新高】世界氣象組織10月27日釋出的最新《溫室氣體公報》顯示，2025年地球大氣中二氧化碳和其他主要溫室氣體的濃度升至歷史新高，說明全球長期升溫的趨勢仍在持續發展。公報說，2025年全球平均地表二氧化碳濃度為426.8ppm（1ppm為百萬分之一），是1750年工業化前水平的153%；分列全球第二大和第三大溫室氣體的甲烷和氧化亞氮的濃度則分別上升到工業化前水平的267%和126%。（新華社）
-
----
-
-### 2026-10-27 22:47:07  #其他
-
-穆迪：AI融資正推動私人信貸增長，再融資風險隨之上升。
-
----
-
-### 2026-10-27 22:46:56  #其他
-
-波音預計2027年777X專案將出現“顯著”現金消耗。
-
----
-
-### 2026-10-27 22:46:54  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Boeing Shares Hit 18-month Low — Boeing shares decreased to 172.77 USD, the lowest since April 2025. Over the past 4 weeks, Boeing lost 5.26%, and in the last 12 months, it decreased 21.77%.
-
----
-
-### 2026-10-27 22:46:48  #國際
-
-阿根廷總統府：美國未要求修改馬爾維納斯群島相關立法。
-
----
-
-### 2026-10-27 22:46:36  #公司
-
-【途虎-W：10月27日斥資533.82萬港元回購46.09萬股】途虎-W（09690.HK）釋出翌日披露報表，10月27日，公司回購股份46.09萬股，每股最高回購價為11.6港元，每股最低迴購價為11.51港元，付出的總代價為533.82萬港元。本次回購股份擬登出。
-
----
-
-### 2026-10-27 22:46:02  #其他
-
-波音貨機及加油機生產因機翼交付問題受阻。
-
----
-
-### 2026-10-27 22:45:31  #其他
-
-【Rokid釋出全綵智慧眼鏡，售價4999元起】10月27日，Rokid正式釋出Rokid Glasses 2，搭載第一代驍龍AR1+平臺。全綵智慧眼鏡Rokid Color也在釋出會上正式亮相，其搭載第一代驍龍AR1+平臺，採用定製的0.16cc Micro-LED全綵光機，產品重量為55g（不含鼻託）。價格方面，Rokid Glasses 2售價3699元起，Rokid Color售價4999元起。兩款新品均已開啟預售。
-
----
-
-### 2026-10-27 22:45:11  #國際
-
-波蘭副國防部長瑪格達萊娜·索布科維亞克-恰爾內茨卡在X平臺發帖稱，將在波蘭設立一個“愛國者”系統的PAC-3導彈服務中心。
-
----
-
-### 2026-10-27 22:44:49  #其他
-
-波音預計今年787機型交付量接近90架。
-
----
-
-### 2026-10-27 22:44:44  #其他
-
-波音表示，由於737機型穩定性問題導致延誤，交付目標未能達成。
-
----
-
-### 2026-10-27 22:44:09  #公司
-
-【東山精密(02384.HK)：最終發售價為每股86.8港元 國際發售獲3.17倍認購】東山精密(02384.HK)公佈配發結果，公司全球發售1.14億股H股，香港公開發售佔5.19%，國際發售佔94.81%。最終發售價為每股86.8港元，全球發售淨籌約97.17億港元。每手100股，預期H股將於2026年10月28日上午九時正在聯交所開始買賣。
-
----
-
-### 2026-10-27 22:43:49  #其他
-
-波音今年將無法達到500架交付目標。
-
----
-
-### 2026-10-27 22:43:26  #公司 #國際
-
-印度海灣石油潤滑油公司位於古吉拉特邦的倉庫發生火災。
-
----
-
-### 2026-10-27 22:42:54  #公司 #市場
-
-【據悉Meta 250億美元股票發行獲約5倍超額認購】知情人士透露，Meta Platforms(META.O)擴大後的250億美元股票發行獲得了約為可供認購股份數量5倍的認購需求。該公司正計劃籌集980億美元資金，用於人工智慧領域的支出。知情人士表示，此次普通股發行中，超過一半的股份分配給了長期持股投資者和現有股東。其中，認購規模排名前15位的投資者合計獲得了約70%的發行股份。此次發行定價為每股625美元，較發行訊息公佈前的上週五收盤價折讓2.7%。週二，Meta股價在紐約市場一度下跌1.4%，至每股621.47美元。此次股票發行只是Meta融資計劃的一部分。該計劃還包括髮行125億美元的強制可轉換優先股，以及預計將推出的按市價增發股票計劃。若最終籌資規模達到980億美元，這將成為歷史上規模最大的股權融資計劃之一。
-
----
-
-### 2026-10-27 22:42:49  #國際
-
-俄羅斯副總理諾瓦克表示，俄羅斯準備協助波斯灣國家修復煉油廠，並提供技術和裝置。
-
----
-
-### 2026-10-27 22:42:16  #Trading Economics #Markets #France #stocks #Importance 1
-
-Sanofi Shares Hit 5-week High — Sanofi shares increased to 75.31 EUR, the highest since September 2026. Over the past 4 weeks, Sanofi gained 4.59%, and in the last 12 months, it decreased 13.69%.
-
----
-
-### 2026-10-27 22:42:07  #其他
-
-東山精密H股將於10月28日在港交所上市。
-
----
-
-### 2026-10-27 22:42:02  #Trading Economics #Economy #United States #Dallas Fed Services Index #Importance 1
-
-Dallas Fed Service-Sector Activity Index Rebounds in October — The general business activity index for the service sector, published by the Federal Reserve Bank of Dallas, rose to 4.0 in October 2026 from -1.8 in September. The revenue index increased five points to 4.4. Labor market measures pointed to continued employment growth and longer workweeks. The employment and part-time employment indexes were little changed at 2.8 and 2.6, respectively, while the hours worked index edged up to 2.2 from 0.1. The company outlook index rose to 3.0 from -3.2, while the outlook uncertainty index fell five points to 16.3. Price and wage pressures remained elevated, with the input prices index little changed at 41.7, well above its series average of 28.0. The selling prices index edged up three points to 18.2. Expectations for future activity improved, with the future revenue index rising five points to 43.6 and the future general business activity index climbing to 19.6 from 10.7.
-
----
-
-### 2026-10-27 22:41:44  #其他 #焦點
-
-市場訊息：Meta Platforms(META.O)250億美元股票發行最終獲得五倍超額認購。
-
----
-
-### 2026-10-27 22:41:32  #公司
-
-波音預計，公司具備顯著現金流增長潛力，規模將超過100億美元。
-
----
-
-### 2026-10-27 22:41:03  #其他
-
-波音預計將在2029年實現100億美元自由現金流目標。
-
----
-
-### 2026-10-27 22:40:57  #其他
-
-波音股價跌幅擴大至8.3%，創2025年4月以來最大跌幅。
-
----
-
-### 2026-10-27 22:40:48  #國際
-
-俄羅斯諾瓦克：俄羅斯煉油廠目前在維護後非常迅速地將其裝置恢復線上，幾乎所有必要的石油和天然氣裝置都是在俄羅斯製造的。
-
----
-
-### 2026-10-27 22:40:46  #市場 #焦點
-
-現貨黃金突破4050美元/盎司，日內漲0.84%。
-
----
-
-### 2026-10-27 22:40:44  #焦點 #國際
-
-俄羅斯副總理諾瓦克：俄美在北極的潛在專案可能包括開發氣田或參與聯合液化天然氣專案。
-
----
-
-### 2026-10-27 22:40:35  #其他
-
-波音預計2027年自由現金流約20億美元，2027年為30億美元。
-
----
-
-### 2026-10-27 22:40:29  #其他
-
-泰雷茲：羅馬尼亞選擇泰雷茲提供四套可部署的一次和二次雷達系統。雷達將向國家和北約指揮控制系統提供實時目標資料。
-
----
-
-### 2026-10-27 22:39:34  #公司
-
-【機構：原有iPhone使用者需求釋放 Duo上市初期將供不應求】Counterpoint Research總監Tarun Pathak於27日接受採訪時表示，iPhone Duo的初期需求將會超過供給。 Pathak給出的依據是，全球iPhone存量裝置約有14億臺。他解釋稱，哪怕只有一部分老iPhone使用者選擇換新購買這款新品，需求規模就可能突破Counterpoint Research預估的600萬臺以內的供貨上限。 Counterpoint Research預測，今年全球摺疊屏智慧手機市場規模同比將增長24%。到明年，受益於蘋果銷售週期拉長、三星電子與華為推出新品等因素，市場增速有望達到37%。
-
----
-
-### 2026-10-27 22:39:19  #公司
-
-ORLEN UNIPETROL表示，公司與CEZ旗下ESCO簽署合作備忘錄及十年期協議，將從利特維諾夫附近新建太陽能電站購電。
-
----
-
-### 2026-10-27 22:38:58  #其他
-
-東山精密在香港IPO募集資金98.8億港元。
-
----
-
-### 2026-10-27 22:38:20  #其他
-
-昂跑控股美股跌近4%。
-
----
-
-### 2026-10-27 22:38:01  #市場 #國際
-
-歐洲斯托克600指數漲幅擴大至0.4%，創盤中新高。
-
----
-
-### 2026-10-27 22:37:53  #其他
-
-阿根廷政府表示不會就巴西選舉發表宣告。
-
----
-
-### 2026-10-27 22:37:40  #市場
-
-波音股價延續跌勢，觸及2025年4月以來最低水平；最新下跌6.7%。
-
----
-
-### 2026-10-27 22:37:20  #其他
-
-波音今年將啟動787機型月產10架的過渡。
-
----
-
-### 2026-10-27 22:37:01  #Trading Economics #Markets #Commodity #Importance 0
-
-Lumber Hits Lowest Level in Over 2 Years — Lumber futures fell below $515 per thousand board feet to reach its lowest level since September 2024, amid persistent weakness in the U.S. housing market and elevated input costs. The White House removed 50% tariffs on Canadian plywood, effective October 30th, though softwood lumber tariffs remained in place and elevated, potentially making plywood a relatively cheaper substitute in certain construction applications. While the Commerce Department lowered antidumping and countervailing duties on Canadian softwood to 24.75% from 35.16%, a separate 10% US tariff brings total duties to 34.75%. The US Lumber Coalition backed the decision, as forestry groups have long accused Canada of dumping lumber in the US. President Trump also signed an order aimed at reducing homeownership costs. The measures come as the U.S. housing sector remains under pressure from high mortgage rates and construction costs, with homebuilder confidence falling to its lowest level in 14 years.
-
----
-
-### 2026-10-27 22:36:58  #其他
-
-波音預計737 MAX的月產量將在2027年下半年達到52架。
-
----
-
-### 2026-10-27 22:36:41  #公司
-
-波音公司執行長在電話會議上表示，預計要到明年才能使737飛機的月產量穩定在47架。
-
----
-
-### 2026-10-27 22:36:28  #市場 #國際
-
-【美國耐用品訂單創五個月最大增幅 商用飛機訂單大增】美國9月耐用品訂單創五個月來最大增幅，飛機和其他企業裝置訂單走強，進一步顯示製造業的增長動能。美國商務部週二公佈的資料顯示，使用壽命至少三年的耐用品訂單金額增長1.8%，前一個月的資料上修為增長0.1%。核心資本品訂單9月增長0.5%。耐用品報告顯示，商用飛機訂單增長28.4%。波音9月報告的訂單數量高於前一個月。電腦、機械和汽車訂單也出現增加。在人工智慧(AI)相關支出帶動下，今年企業投資表現強勁。耐用品報告顯示，這一趨勢延續至9月，這意味著週四公佈的第三季度國內生產總值(GDP)初值可能顯示資本支出表現強勁。“9月耐用品報告顯示企業投資具有韌性，”BMO Capital Markets高階經濟學家Priscilla Thiagamoorthy在報告中表示，“飛機訂單推動整體資料上升，但基礎需求繼續擴張，而資本品出貨走強表明，裝置支出在第三季度末對經濟增長起到支撐作用，並在進入第四季度之際保持強勁動能。”
-
----
-
-### 2026-10-27 22:36:18  #市場 #焦點
-
-甲醇連續主力合約日內跌1%，現報3367.00元。
-
----
-
-### 2026-10-27 22:35:58  #其他
-
-波音表示機翼產量正在改善。
-
----
-
-### 2026-10-27 22:35:51  #市場
-
-烏干達先令結束連跌走勢，對美元匯率上漲2%。
-
----
-
-### 2026-10-27 22:35:45  #其他
-
-油價跌至日內低點，布倫特原油交投於每桶114美元附近。
-
----
-
-### 2026-10-27 22:35:10  #國際
-
-惠譽評級：儘管融資環境趨緊，美國信貸前景依然溫和。
-
----
-
-### 2026-10-27 22:35:00  #公司
-
-捷藍航空首席財務官表示，在完成整個機隊的最新評估後，公司已做好充分準備，可進一步獲得以飛機為抵押的融資。
-
----
-
-### 2026-10-27 22:34:55  #公司 #市場
-
-華爾街銀行、黑石集團為博通向 Anthropic 供應 AI 晶片提供 630 億美元融資後，博通股價創兩週新高；最新上漲 2.9%。
-
----
-
-### 2026-10-27 22:34:44  #其他
-
-【沙特主導聯軍稱攔截葉門胡塞武裝向利雅得發射的導彈】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基27日在社交媒體上說，聯軍當天攔截並摧毀葉門胡塞武裝向沙特首都利雅得發射的2枚彈道導彈。新華社記者當天下午在利雅得市區聽到多次爆炸聲，當地居民在手機上收到防空警報。當天早些時候，馬利基還通報說，聯軍攔截並摧毀胡塞武裝向沙特東部省發射的3枚彈道導彈以及該組織向沙特南部地區發射的4架無人機。（新華社）
-
----
-
-### 2026-10-27 22:33:49  #市場 #焦點
-
-紐約期金突破4060美元/盎司，日內漲0.54%。
-
----
-
-### 2026-10-27 22:33:16  #公司
-
-CMS能源在電話會議上表示，儘管投資者存在“噪音”，公司仍有信心應對密歇根州的政治和監管環境。
-
----
-
-### 2026-10-27 22:33:06  #其他
-
-捷藍航空認為債券市場與其業績表現存在脫節。
-
----
-
-### 2026-10-27 22:33:01  #觀點
-
-惠譽評級：儘管市場波動，土耳其債務資本市場仍將增長；伊斯蘭債券佔比上升。
-
----
-
-### 2026-10-27 22:32:34  #央行 #其他
-
-巴西央行監管主管阿基諾：我們正在研究退出規則，以促進未達到最低資本要求的金融機構退出市場。
-
----
-
-### 2026-10-27 22:32:27  #國際
-
-【以色列大選熱情空前高漲 已有超300萬民眾完成投票】以色列中央選舉委員會資料顯示，截至選舉日下午2時，選民投票率達到44.9%；2022年大選同一時段投票率為38.9%，今年明顯抬升。 這是自1973年開始統計分時投票資料以來，該時間節點的最高投票率，已有超300萬民眾完成投票。此前下午2時投票率的歷史紀錄出自1988年，較2026年低2.7個百分點。
-
----
-
-### 2026-10-27 22:31:40  #公司
-
-【水星家紡：董事長提議回購公司股份】水星家紡公告稱，公司於2026年10月27日收到董事長李裕陸提議回購公司股份的函。本次擬透過集中競價交易方式回購A股股份，擬用於股權激勵/員工持股計劃或減少註冊資本，回購價格不超過董事會審議透過回購決議前30個交易日公司股票交易均價的150%，回購資金總額不低於1000萬元、不超過3000萬元，資金來源為自有或自籌資金，回購期限為董事會審議透過回購方案之日起12個月內。李裕陸提議前6個月內無買賣公司股份情況，回購期間暫無增減持計劃，將推動董事會審議該事項並投贊成票。本次回購尚需履行審批程式，存在不確定性。
-
----
-
-### 2026-10-27 22:31:33  #公司 #市場
-
-【廣信股份：董事長提議以不低於人民幣5000萬元（含）、不超過人民幣1億元（含）回購股份】廣信股份公告，公司近日收到董事長黃金祥提議，擬透過集中競價交易方式回購公司股份，資金總額不低於人民幣5000萬元（含）、不超過人民幣1億元（含），回購價格不高於董事會透過回購決議前30個交易日公司股票交易均價的150%，具體以董事會審議透過的方案為準。回購股份擬用於股權激勵和/或員工持股計劃，期限為董事會審議透過方案之日起十二個月內。
-
----
-
-### 2026-10-27 22:31:25  #市場
-
-波音股價下跌5.6%，至去年11月25日以來最低水平。
-
----
-
-### 2026-10-27 22:31:00  #資料 #市場 #國際
-
-【美國消費者信心四個月來首次上升 就業和商業環境看法改善】美國10月消費者信心意外上升，為四個月來首次，民眾對就業市場和商業環境的看法改善。世界大型企業聯合會週二公佈的資料顯示，消費者信心指數上升7.5點至91.7，為6月以來最高。彭博調查的經濟學家預估中值為81。衡量未來六個月預期的指標10月上升近7點至72.6，現狀指標則升至六個月高點。“信心回升與零售汽油價格從9月到10月回落相吻合，”世界大型企業聯合會高階經濟學家Fergus McCormick在宣告中表示。“不過，儘管10月有所上升，消費者信心仍處於過去幾年持續的長期下降趨勢。”調查顯示，認為商業環境良好的美國人多於認為狀況不佳的人，而認為就業機會充足的受訪者比例升至六個月高點。儘管本月信心有所改善，但消費者仍然對物價上漲對家庭預算的影響，以及工資增長滯後於通脹的情況感到擔憂。近期借貸成本也上升，這使得購房、購車及其他大額消費變得更加難以負擔。
-
----
-
-### 2026-10-27 22:30:34  #央行 #其他
-
-達拉斯聯儲公佈的10月份德克薩斯州服務業整體商業活動展望指數為4.0，9月份為-1.8。
-
----
-
-### 2026-10-27 22:30:31  #央行 #其他
-
-達拉斯聯儲10月得克薩斯州服務業收入指數為4.4，9月為-0.9。
-
----
-
-### 2026-10-27 22:29:08  #央行 #其他
-
-巴西官員阿基諾：巴西央行尋求緩解信貸供應過剩帶來的風險。
-
----
-
-### 2026-10-27 22:28:31  #其他 #焦點
-
-【胡塞武裝稱打擊沙特奈季蘭機場和哈立德國王空軍基地】當地時間27日下午，葉門胡塞武裝表示，當天早些時候使用兩枚彈道導彈，分別打擊了沙特奈季蘭機場和沙特海米斯穆謝特的哈立德國王空軍基地，並擊中了基地內的兩架軍用運輸機。胡塞武裝方面稱，兩次行動均成功實現預定目標。沙特方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-10-27 22:27:33  #其他
-
-委內瑞拉代總統羅德里格斯在莫斯科舉行的天然氣出口國論壇峰會上發表講話。
-
----
-
-### 2026-10-27 22:27:26  #國際
-
-芬蘭總統斯圖布表示，美國特使和澤連斯基幫助他為與俄羅斯總統普京的通話做了準備。
-
----
-
-### 2026-10-27 22:26:52  #其他
-
-捷藍航空：在流動性方面，我們有辦法撐到2028年。除了當前的資產負債表外，還有多種途徑可以增強流動性。
-
----
-
-### 2026-10-27 22:26:20  #國際
-
-【普京呼籲天然氣出口國加強合作維護全球市場穩定】天然氣出口國論壇第八次峰會全體會議27日在莫斯科國際貿易中心舉行。俄羅斯總統普京當天出席會議時呼籲天然氣出口國加強合作，共同維護全球天然氣市場穩定。 普京在峰會上發表講話時說，天然氣在全球能源消費結構中佔比達四分之一，到本世紀中葉，全球天然氣需求量將增至每年5.5萬億立方米。他認為，中東局勢升級、天然氣供應路線遭到破壞，以及一些國家對天然氣裝置和技術採購設定障礙，加劇了全球天然氣市場長期失衡的風險。(新華社)
-
----
-
-### 2026-10-27 22:24:26  #市場
-
-瓦萊羅能源股價下跌6.5%，創6月15日以來最大盤中跌幅。
-
----
-
-### 2026-10-27 22:22:54  #Trading Economics #Economy #United States #Richmond Fed Services Index #Importance 1
-
-Richmond Fed Services Index Improves Slightly in October — The Richmond Fed’s Fifth District Service Sector Survey edged up in October 2026, with the revenues index rising to 2 from zero in September and the demand index increasing to 7 from 2. Expectations remained positive, with future revenues and demand indexes firmly in expansionary territory. The local business conditions index improved to -5 from -8, while the future local business conditions index was unchanged. The current employment index rose slightly to 3 from 2, while the future employment index fell to 11 from 19. Both current and future wage indexes remained positive. The average growth rate of prices paid increased, while the growth rate of prices received was unchanged. Over the next 12 months, firms expect price growth for inputs to slow, while price growth for their own products is expected to remain relatively steady.
-
----
-
-### 2026-10-27 22:22:43  #國際
-
-【印度石油部長：美國沒施壓，減少進口俄羅斯原油是因為價格】印度石油部長哈迪普·辛格·普里（HardeepSinghPuri）週二在一場行業活動上表示，印度沒有受到美國要求其減少進口俄羅斯原油的壓力。當被問及美國是否曾施壓要求印度削減俄羅斯石油進口時，普里回答說：“我從未感受到任何壓力。”普里表示，隨著中東地區能夠向外運輸更多石油貨物，來自該地區的石油供應量一直在增加。他說，在烏克蘭戰爭爆發前，印度從俄羅斯進口的石油僅佔其石油進口總量的0.2%。但戰爭爆發後，由於俄羅斯石油以折扣價格出售，印度從俄羅斯進口的石油數量大幅增加。船舶追蹤資料顯示，印度9月份從中東進口的原油大幅增加，恢復至戰前水平。（觀察者網）
-
----
-
-### 2026-10-27 22:22:09  #其他
-
-捷藍航空高管：到2028年，Paisly對營業收入的貢獻將接近翻倍。
-
----
-
-### 2026-10-27 22:21:56  #其他
-
-葉門胡塞武裝稱用無人機襲擊了沙特阿布哈機場；沙特方面未予證實。
-
----
-
-### 2026-10-27 22:21:53  #國際
-
-【歐洲農戶縮減化肥採購，高價抑制需求，農作物產量或承壓】歐洲農戶正在減少化肥採購，居高不下的價格壓制需求，可能給作物單產帶來風險。價格資訊機構 ICIS 的一項市場調研顯示，氮肥採購量較往年同期正常水平最多低 20%。部分預估資料顯示，用於促進植株生長、根系發育的關鍵養分磷肥，需求降幅達到 30% 甚至更高。化肥需求走弱之前，乾旱與極端高溫已經衝擊今年歐洲收成；美伊衝突推高化肥、柴油等農業投入品成本。土壤溼度偏低已經拖累部分越冬作物前景，而化肥施用量下降可能進一步壓低明年產量。
-
----
-
-### 2026-10-27 22:21:10  #國際
-
-芬蘭總統斯圖布：美國和烏克蘭要求挪威和芬蘭發揮更積極的作用。
-
----
-
-### 2026-10-27 22:21:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Falls to 1-Week Low — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, declined for a third session on Tuesday, falling roughly 1% to its lowest since October 20 at 2,603 points. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, was also down for a third day, falling by 0.6% to a one-week low of 3,702 points; and the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, dropped by 2.6% to its lowest since July 29 at 2,021 points. Among smaller vessels, the supramax index decreased by 0.3% to 1,883 points.
-
----
-
-### 2026-10-27 22:19:49  #宏觀 #國際
-
-【伊朗代理石油部長駁斥美財長貝森特囤油言論】伊朗代理石油部長哈米德・博瓦德週二反駁美國財政部長斯科特・貝森特。貝森特此前在伊朗國際電視臺的採訪中呼籲伊朗民眾儲備燃料。博瓦德在 X 平臺發文稱：“美國財長與其勸伊朗民眾儲備燃料，不如操心本國國民面對的油價。”他補充道：“莫斯科正在推進天然氣外交，而美國卻在四處尋找柴油。”博瓦德表示，貝森特應該把儲備燃料的建議留給美國人。他稱，數月以來，美國民眾一直在為特朗普總統的冒險政策買單。
-
----
-
-### 2026-10-27 22:19:49  #Trading Economics #Markets #commodity #Importance 0
-
-EU Carbon Permits Hits 39-week High — EU Carbon Permits increased to 88.86 EUR, the highest since January 2026. Over the past 4 weeks, EU Carbon Permits gained 2.91%, and in the last 12 months, it increased 13.23%.
-
----
-
-### 2026-10-27 22:19:03  #市場 #央行 #國際
-
-【SOFR 基準利率上升，與美聯儲IORB的利差創 8 月以來最大水平】據美國紐約聯儲資料，上個交易日（10月26日）擔保隔夜融資利率（SOFR）報3.93%（之前一天報3.92%），這比當前3.90%的超額準備金利率（IORB）高出3個基點，追平8月31日以來的最大利差。上個交易日有效的聯邦基金利率報3.88%，之前一天報3.88%。紐約聯儲資料顯示，隨著大量美國國債拍賣交割與加拿大銀行業年底財年結算的雙重因素推高了融資利率，一個與隔夜回購協議掛鉤的關鍵利率基準進一步升至美聯儲IORB上方，創下了近兩個月來的最大利差。資料顯示，其他回購利率——三方一般擔保利率（Tri-Party General Collateral Rate）和廣泛一般擔保利率（Broad General Collateral Rate）——均從3.90%上升至3.91%，比IORB高出1個基點。
-
----
-
-### 2026-10-27 22:18:46  #國際
-
-芬蘭總統斯圖布表示，在與俄羅斯總統普京通話期間，他轉達了來自烏克蘭方面的資訊。
-
----
-
-### 2026-10-27 22:18:05  #國際
-
-羅馬尼亞外交部就破壞事件召見俄羅斯大使。
-
----
-
-### 2026-10-27 22:17:52  #其他
-
-捷藍航空首席財務官：我們的流動性和未抵押資產提供了充足的財務靈活性。
-
----
-
-### 2026-10-27 22:17:30  #觀點 #國際
-
-【摩根大通增聘九人，強化小盤股投行業務佈局】摩根大通組建了一支由 12 名投行人員構成的團隊，其中包含九名新入職員工，專門服務小盤企業。這也是該行全球投行部門今年持續擴充團隊的最新動作。一份內部備忘錄顯示，該團隊服務標的企業估值區間為 1 億至 5 億美元。本次新加入人員之中包含四名董事總經理：駐休斯頓的 Gabe Gerenstein、駐紐約的 Mike Goettemoeller、駐邁阿密的 Roberto Hernandez 以及駐芝加哥的 Cameron Soelberg。Gori 在採訪中表示：“我們希望在所有開展業務的產品、地區和國家做到第一。美國小盤股市場就是這一機遇的典型代表。這類企業想要加快擴張、把握戰略機會、安排管理層接班，對投行專業建議的需求正在上升。”Gori 稱，該業務重點覆蓋醫療、科技、基建、私募股權出資方等賽道，同時佈局日本、中東、非洲等地區。
-
----
-
-### 2026-10-27 22:16:53  #國際
-
-【日本政府開出標準 大阪等四地爭當“副首都” 】日本政府27日批准一項政令，列明首都東京以外行政區成為指定“副首都”需滿足的各項條件。所謂“副首都”可在東京遭受大地震等重大災難時承擔部分首都功能，也可解決東京首都職能過於集中的問題。根據日本內閣會議27日批准的政令，各道府縣想成為指定“副首都”，必須滿足多項條件，包括經濟規模佔日本國內生產總值(GDP)2.1%以上、轄區內至少有一座城市人口占全國人口1.2%以上、所處地理位置可避開東京大地震或富士山爆發等嚴重災害影響，另外還必須按規定重新構建行政體制。（新華社）
-
----
-
-### 2026-10-27 22:15:20  #其他
-
-阿根廷移民局表示，尚未記錄到巴西人弗拉維奧·博索納羅入境該國。
-
----
-
-### 2026-10-27 22:15:09  #觀點
-
-摩根大通新增九名員工，以加強小盤股銀行業務。
-
----
-
-### 2026-10-27 22:15:06  #公司
-
-【寶信軟體：擬約25.01億元投建寶之雲華東智算中心馬鞍山基地專案】寶信軟體(600845)10月27日公告，公司擬投建寶之雲華東智算中心馬鞍山基地專案。本專案由公司控股子公司寶信軟體（安徽）股份有限公司負責，專案總投資約25.01億元。該專案設計機櫃約為5328個，IT容量總規模128MW。
-
----
-
-### 2026-10-27 22:14:09  #國際
-
-烏克蘭總理：政府已簡化受戰爭影響的企業及數字基礎設施租賃國家和市政財產的流程。雲服務提供商和資料中心運營商、政府機構和地方當局、國家和市政企業及機構將無需經過拍賣即可租賃場所，以便快速部署或搬遷裝置。我們還在簡化需要安裝網路基礎設施的電子通訊網路和服務提供商的租賃流程。
-
----
-
-### 2026-10-27 22:13:13  #公司
-
-【天有為：實控人之一呂冬芳擬增持3000萬元-5000萬元股份】天有為公告稱，公司實際控制人之一兼董事、總經理呂冬芳擬自增持計劃披露之日起12個月內，以自有或自籌資金透過上交所允許的方式增持公司A股股份，擬增持金額不低於3000萬元（含）且不超過5000萬元（含），本次增持不設定股票價格區間，將擇機實施。呂冬芳承諾增持實施期間及法定期限內不減持所持公司股份。本次增持計劃可能因資本市場情況變化或政策因素等無法實施。
-
----
-
-### 2026-10-27 22:12:19  #公司
-
-【陽光電源：目前沒有生產半固態電池計劃】陽光電源10月27日在互動平臺表示，公司目前沒有生產半固態電池的計劃。公司EnerNeo SST獲得全球知名第三方檢測認證機構TÜV萊茵頒發的基於UL、IEC、EN、2PfG系列標準的系統級和關鍵部件級認證證書，成為全球首款同時透過歐標與美標系統級雙認證的SST產品，率先具備歐美資料中心市場規模化商用部署的實質條件。
-
----
-
-### 2026-10-27 22:12:03  #Trading Economics #Economy #United States #New Home Sales #Importance 3
-
-US New Home Sales Slightly Down in September — New single-family home sales in the US fell 0.6% month-on-month to a seasonally adjusted annual rate of 676,000 in September 2026, down from a revised eight-month high of 680,000 in August but comfortably above market expectations of 650,000. The data point to continued housing market challenges as elevated mortgage rates and rising inflation weigh on affordability, while the Federal Reserve’s latest interest rate hike adds to borrowing costs. Regionally, sales declined sharply in the South (-6.6% to 413,000) and the Midwest (-7.3% to 89,000), while rising in the West (21.4% to 142,000) and the Northeast (28.0% to 32,000). The supply of new homes for sale fell to 476,000, equivalent to 8.4 months of supply at the current sales pace. Meanwhile, the median sales price edged up to $400,400, its highest level in three months.
-
----
-
-### 2026-10-27 22:11:36  #央行 #其他
-
-巴西央行皮切蒂  ：我們看到經濟活動明顯放緩，且集中在週期性行業。
-
----
-
-### 2026-10-27 22:11:06  #央行 #其他
-
-巴西央行皮切蒂  ：外部環境仍不確定。
-
----
-
-### 2026-10-27 22:10:53  #國際
-
-【外交部部長助理蔡偉會見歐洲議會左翼黨團代表團】2026年10月27日，外交部部長助理蔡偉會見來華訪問的歐洲議會左翼黨團聯合主席施爾德萬一行。(外交部網站)
-
----
-
-### 2026-10-27 22:10:16  #其他
-
-UniFirst股價跌至當日低點，跌幅達9%。
-
----
-
-### 2026-10-27 22:10:08  #公司
-
-【華潤雙鶴：擬實施柔性發酵車間及配套粗提取車間建設專案】華潤雙鶴公告，擬由控股子公司神舟生物科技有限責任公司實施柔性發酵車間及配套粗提取車間建設專案，專案總投資額約為6.69億元，擬透過發酵車間、粗提取車間以及配套設施，擴大輔酶Q10產能。
-
----
-
-### 2026-10-27 22:09:15  #Trading Economics #Economy #United States #Richmond Fed Manufacturing Index #Importance 1
-
-US Fifth District Manufacturing Remains in Contraction — The Federal Reserve’s Fifth District manufacturing index stood at -2 in October 2026, unchanged from September, signaling contraction for a second consecutive month. The reading stayed at its lowest level since February and missed market forecasts for stabilization. The new orders index fell to -8 in October from -6 in September, while the employment index declined to 3 from 7. In contrast, the shipments index improved to zero from -5. The local business conditions index weakened to -8 in October from -6 in September; while the future local business conditions index also fell to 7 from 10. The future indexes for shipments and new orders remained in positive territory while the expectations index for employment remained at 8 in October. On prices, the average growth rate of prices paid was unchanged from September, while prices received increased at a faster pace. Over the next 12 months, firms expect growth in both prices paid and prices received to moderate.
-
----
-
-### 2026-10-27 22:09:03  #公司
-
-【江南新材：部分董監高擬合計增持5000萬-1億元股份】江南新材公告稱，公司副董事長、副總經理孫佳麗，副總經理、財務總監趙一可，董事會秘書倪暉計劃自公告披露之日起6個月內，以自有及自籌資金透過集中競價方式增持公司A股股份，累計增持金額不低於5000萬元且不超過1億元，增持價格不超過148元/股。其中孫佳麗擬增持2000萬元-4000萬元，趙一可擬增持2000萬元-4000萬元，倪暉擬增持1000萬元-2000萬元。本次增持計劃可能因資本市場變化等因素無法達到預期，敬請投資者注意投資風險。
-
----
-
-### 2026-10-27 22:09:03  #市場 #焦點
-
-PVC連續主力合約日內漲2%，現報5201.00元。
-
----
-
-### 2026-10-27 22:08:50  #市場
-
-捷藍航空股價上漲20%，創下自2025年4月以來最大單日漲幅。
-
----
-
-### 2026-10-27 22:07:50  #公司
-
-捷藍航空執行長：在跑道方面，預計國內頭等艙座位“藍艙優先”將帶來五個百分點的單位收入改善。
-
----
-
-### 2026-10-27 22:07:48  #市場 #焦點
-
-現貨黃金突破4040美元/盎司，日內漲0.58%。
-
----
-
-### 2026-10-27 22:07:12  #央行 #其他
-
-委內瑞拉政府與央行表示，2027年GDP增長目標為6%至10%。
-
----
-
-### 2026-10-27 22:07:03  #其他
-
-【美股儲存概念股漲幅擴大 西部資料漲超7%】美股儲存概念股漲幅擴大，西部資料漲超7%，希捷科技漲超4%，閃迪漲超3%，SK海力士、美光科技漲超1%。訊息面上，馬斯克堅定看好記憶體需求，稱機器人所需記憶體將超過其他任何領域。
-
----
-
-### 2026-10-27 22:06:48  #市場 #國際
-
-美國諮商會：10 月更多消費者預期未來 12 個月股價將會上漲，而非下跌。
-
----
-
-### 2026-10-27 22:05:45  #公司
-
-【利柏特：截至10月27日累計回購股份190.19萬股】利柏特公告稱，公司回購股份方案實施期限為2026年7月30日至2026年10月29日，擬回購金額3000萬元-6000萬元，回購用途為維護公司價值及股東權益。2026年10月1日至10月27日，公司透過集中競價交易方式回購股份93.45萬股，佔總股本0.18%，支付金額1364.52萬元。截至2026年10月27日，公司累計回購股份190.19萬股，佔總股本0.37%，累計支付總金額2915.76萬元，回購價格區間為13.10元/股-16.89元/股。
-
----
-
-### 2026-10-27 22:05:37  #公司 #市場
-
-【永安期貨：浙江東方提前終止不超過3%減持計劃，實際減持0股】永安期貨公告，持股5%以上股東浙江東方此前計劃透過集中競價和大宗交易減持不超過4351.33萬股，即不超過公司總股本的3%。2026年10月22日至2026年10月27日，浙江東方未減持公司股票，並決定提前終止本次減持計劃。
-
----
-
-### 2026-10-27 22:04:31  #市場 #焦點
-
-紐約期金突破4050美元/盎司，日內漲0.30%。
-
----
-
-### 2026-10-27 22:04:05  #公司
-
-捷藍航空執行長：客戶需求仍具韌性。
-
----
-
-### 2026-10-27 22:03:31  #公司
-
-捷藍航空執行長：預計第四季度單位營收增長將進一步加速。
-
----
-
-### 2026-10-27 22:01:14  #央行 #國際
-
-歐洲央行稱外匯儲備減少2億歐元，至3493億歐元。
-
----
-
-### 2026-10-27 22:01:02  #經濟數據 #美國
-
-美國10月里奇蒙德聯儲製造業指數為-2，預估為0。
-
----
-
-### 2026-10-27 22:01:00  #央行 #國際
-
-美國10月里士滿聯儲非製造業本地商業狀況指數為-5。
-
----
-
-### 2026-10-27 22:00:54  #國際
-
-美國10月諮商會消費者預期指數 72.6，前值 63.6。
-
----
-
-### 2026-10-27 22:00:41  #央行 #國際
-
-美國10月里士滿聯儲工廠指數-2.0；預期值為0.0。
-
----
-
-### 2026-10-27 22:00:39  #經濟數據 #美國
-
-美國10月諮商會消費者信心指數91.7，預期81，前值由81.9修正為84.2。
-
----
-
-### 2026-10-27 22:00:25  #央行 #其他
-
-德國央行10月當前景氣指數120.4。
-
----
-
-### 2026-10-27 22:00:23  #經濟數據 #美國
-
-美國9月新屋銷售總數年化67.6萬戶，預期65萬戶，前值由68.4萬戶修正為68萬戶。
-
----
-
-### 2026-10-27 22:00:14  #資料 #國際
-
-美國9月新建住宅銷量摺合年率676,000套 預估為650,500套。
-
----
-
-### 2026-10-27 22:00:09  #資料 #焦點 #國際
-
-美國10月消費者信心指數為91.7，高於預期的81.0。
-
----
-
-### 2026-10-27 21:59:41  #國際
-
-【外交部部長助理蔡偉出席冰島駐華使館慶祝冰中建交55週年招待會】據外交部官網，2026年10月27日，外交部部長助理蔡偉應邀出席冰島駐華使館舉辦的慶祝冰中建交55週年招待會，並同訪華的冰島外交部長貢納爾斯多蒂爾簡短友好交談。
-
----
-
-### 2026-10-27 21:58:25  #其他
-
-【“深海一號”船攜“蛟龍”號訪問諾魯】當地時間26日，正在進行中國大洋100航次第二航段科學考察的“深海一號”船在諾魯艾沃港靠泊，舉辦以“凝聚‘認識海洋、保護海洋’共識”為主題的開放日活動，這也是中國科考船首次在諾魯舉辦開放日活動。（新華社）
-
----
-
-### 2026-10-27 21:57:44  #其他
-
-八年期鉅額協議旨在幫助扎克伯格留在加州。
-
----
-
-### 2026-10-27 21:57:23  #其他
-
-扎克伯格旗下Meta的股票交易在特拉華州訴訟中受到質疑。
-
----
-
-### 2026-10-27 21:56:50  #國際
-
-基輔市長：相關市政機構的專家正在制定額外的技術方案，以保護橫跨第聶伯河的橋樑結構。委員會聽取了軍方官員就此問題提出的建議。
-
----
-
-### 2026-10-27 21:55:19  #市場 #國際
-
-【德意志銀行：美股可能正處於年內最後一輪下跌的低點，年底上漲行情有望啟動】德意志銀行全球宏觀研究主管Jim Reid 10月27日表示，根據1928年以來標普500指數的歷史季節性表現，美股可能正處於年內最後一輪下跌的低點，隨後有望迎來年底上漲行情。歷史資料顯示，普通年份美股通常在9月初見頂、9月底觸底反彈，隨後於10月下旬再次回落，並從此逐步上漲至年底。美國中期選舉年份的規律更為明顯，標普500指數通常從4月底高點下跌約4%至5%，於10月初觸底；過去23箇中期選舉年份中，有21次指數在10月初之後的三個月內上漲。Reid指出，今年標普500指數5月29日創下歷史新高後，近五個月累計漲幅不足1%，整體走勢與歷史中期選舉年份較為接近。隨著11月3日中期選舉臨近，選舉週期與年底季節性上漲因素可能形成共振，但伊朗局勢、AI及法國政治風險仍可能擾亂市場，歷史規律也不意味著股市必然上漲。
-
----
-
-### 2026-10-27 21:55:12  #國際
-
-【法國電價受風電大跌影響升至四年高點】受風電出力下滑、核電發電量減少影響，法國不得不更多啟用成本高昂的天然氣電廠發電，電力價格飆升至 2022 年能源危機最嚴峻階段以來的最高水平。歐洲電力交易所 Epex Spot 的拍賣結果顯示，週三日前電價收於每兆瓦時 253 歐元。電網運營商 RTE 資料預測，法國週三風電平均出力不足 3 吉瓦，不到 10 月迄今平均水平的一半。本次電價飆升預示，今年冬季可再生能源發電走弱時，歐洲或將頻繁遭遇類似高價局面。作為歐洲電力體系支柱，法國核電機組可用率下降進一步加劇供應緊張。該國 57 臺核反應堆週二的負荷率為 64%，較去年同期明顯走低。
-
----
-
-### 2026-10-27 21:54:52  #公司
-
-【年內科創板公司新增回購計劃114單，擬回購金額上限合計180億元】截至10月26日，2026年以來，科創板公司新增回購計劃114單，擬回購金額上限合計180億元；新增增持計劃42單，擬增持金額上限合計15億元。進入10月，相關行動提速，當月新增回購計劃23單，擬回購金額上限達58億元，約佔年內總額的三分之一；新增增持計劃6單，擬增持金額上限合計2.5億元。（一財）
-
----
-
-### 2026-10-27 21:53:55  #公司
-
-【南方電網與中國電子簽署戰略合作框架協議】10月26日，南方電網公司與中國電子在廣州簽署戰略合作框架協議。
-
----
-
-### 2026-10-27 21:53:24  #國際
-
-【黑龍江黑河口岸開啟秋季氣墊船客運國際運輸】記者從黑河出入境邊防檢查站瞭解到，10月27日，2026年度黑河口岸開啟秋季氣墊船客運國際運輸。黑龍江黑河段即將進入秋季流冰期，氣墊船憑藉吃水淺、航速快的優勢成為客船的接續運力，僅需兩分鐘即可抵達對岸的俄羅斯布拉戈維申斯克市。（新華社）
-
----
-
-### 2026-10-27 21:53:16  #行業 #國際
-
-【受伊朗戰事推動 歐洲遊客轉赴南美度假】南美最大航司負責人表示，由於伊朗衝突使得前往亞洲的出行風險上升，越來越多歐洲遊客將南美選為更安全的度假目的地。 拉美航空（Latam Airlines）執行長羅伯託·阿爾沃稱，自2月衝突爆發以來，該航司歐洲旅客運量“確實”有所增長，高階酒店預訂和平價遊客數量均出現上升。 “遊客正在更換目的地，”他在採訪中表示，“歐洲往返南美的出行需求異常旺盛。” 他補充道，南美地理位置足夠遙遠，“這反倒成了優勢，遠離這場衝突的波及範圍。”
-
----
-
-### 2026-10-27 21:52:37  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Edges Higher Ahead of BoC and Fed Meetings — The S&P/TSX Composite Index edged above 36,000 on Tuesday as investors awaited monetary policy decisions from the Bank of Canada and the US Federal Reserve later this week. The BoC meets Wednesday, with markets pricing in a 25 bps hike, while the Fed is widely expected to hold rates steady. Canadian yields fell as the oil rally paused, easing energy-driven inflation concerns and supporting banks. RBC, TD Bank, BMO, Scotiabank and CIBC edged higher. Meanwhile, the US and Canada are reportedly negotiating a deal to ease US tariffs on Canadian steel and autos. BRP rose nearly 1%, while Algoma gained almost 2%. Celestica surged more than 11% after posting better-than-expected third-quarter results and issuing an upbeat 2027 revenue outlook, recovering from last week’s sharp losses. Agnico Eagle (+0.5%) reports Wednesday, Fairfax (-0.5%) on Thursday, and Imperial Oil (-1%), Cameco (+3%) and National Railway (+0.5%) on Friday.
-
----
-
-### 2026-10-27 21:52:29  #市場 #焦點
-
-納斯達克中國金龍指數跌超1%，寶尊電商跌6.75%，再鼎醫藥跌6.16%，陸金所控股跌3.95%，網易跌3.87%，禾賽科技跌3.83%。
-
----
-
-### 2026-10-27 21:50:55  #其他
-
-Markit資料：CoreWeave五年期信用違約互換（CDS）利差收窄至一週多以來最低水平，最新報1041.4個基點。
-
----
-
-### 2026-10-27 21:48:32  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Rise as Chipmakers Rally — US stocks mostly advanced on Tuesday, supported by gains in semiconductor shares, falling oil prices and corporate earnings. The S&P 500 rose 0.3%, the Nasdaq 100 gained 0.7%, while the Dow Jones was little changed. Broadcom climbed more than 4% after a consortium of banks and Blackstone announced $63 billion in financing related to the use of Broadcom’s technology by Anthropic. JetBlue surged 12% on an upbeat margin outlook, while UPS rose 2% after beating earnings expectations. Meanwhile, Boeing tumbled 9% after posting bigger Q3 loss than expected, while Corning slumped 4% despite delivering better-than-expected results. Whirlpool declined more than 1% after posting a quarterly loss, while PayPal slipped 0.5% following a Q3 revenue miss. Investors now await the Fed’s policy decision due Wednesday, with interest rates widely expected to remain unchanged. Markets will focus on policymakers’ guidance for clues about the potential for further tightening before year-end.
-
----
-
-### 2026-10-27 21:48:21  #國際
-
-挪威能源部：挪威將在冬季來臨前向烏克蘭提供 5 億挪威克朗的能源援助。
-
----
-
-### 2026-10-27 21:40:02  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.01% Lower — The Dow Jones Index is falling 6 points. Losses were driven by Sherwin-Williams (-3.28%), Boeing (-1.16%) and Travelers Companies (-1.04%). Biggest rises came from Goldman Sachs (1.75%), Caterpillar (1.72%) and Nvidia (0.97%).
-
----
-
-### 2026-10-27 21:34:48  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Brazilian Stocks Rebound After Election Rout — The Ibovespa rose around 0.5% to hover near 177,500 on Tuesday, rebounding after plunging 13.7% in the previous session following President Lula’s re-election, with corporate earnings in focus. Gerdau fell 1% despite beating EBITDA estimates. Itaú BBA maintained a positive outlook for its operating performance in Q4, while Bradesco BBI viewed the results favorably but retained a neutral rating, citing a positive outlook for the coming quarters. Santander (+0.1%) reports earnings Wednesday. Ambev (+1%) and Vale (-1.5%) report Thursday, both outperformed the index during Monday’s rout. Axia gained 1% after tumbling 12.4% on Monday, following news that it had signed a mandate letter with IDB Invest to structure potential financing for transmission investments. Petrobras fell 1% as oil prices declined, extending losses after dropping 8.2% on Monday. Meanwhile, several banks, including Morgan Stanley and Citi, downgraded Brazilian assets following the post-election selloff.
-
----
-
-### 2026-10-27 21:30:12  #Trading Economics #Markets #United States #stocks #Importance 1
-
-HCA Shares Hit 27-week High — HCA shares increased to 482.32 USD, the highest since April 2026. Over the past 4 weeks, HCA gained 10.71%, and in the last 12 months, it increased 2.36%.
-
----
-
-### 2026-10-27 21:30:00  #Trading Economics #Markets #Canada #stocks #Importance 1
-
-Royal Bank of Canada Shares Hit 4-week High — Royal Bank of Canada shares increased to 284.84 CAD, the highest since September 2026. Over the past 4 weeks, Royal Bank of Canada lost 0.28%, and in the last 12 months, it increased 37.03%.
-
----
-
-### 2026-10-27 21:12:21  #Trading Economics #Economy #United States #Case Shiller Home Price Index YoY #Importance 2
-
-US Home Price Growth Accelerates Further — The S&P Cotality Case-Shiller 20-City Home Price Index rose 2.7% year-on-year in August 2026, marking its strongest annual increase since May 2025 and exceeding market expectations of 2.5%. Chicago led all metropolitan areas for the sixth consecutive month, with prices rising 6.7%, followed by New York (6.2%) and Cleveland (4.3%). On the West Coast, Seattle recorded the steepest annual decline for the third consecutive month at 2.0%, followed by Las Vegas (-1.3%) and Denver (-0.8%). On a monthly basis, home prices fell 0.4% in August after remaining unchanged in July. However, inflation-adjusted prices rose 0.3%, suggesting underlying strength despite the typical post-summer slowdown. S&P Dow Jones Indices’ Rebecca Kaufman noted that affordability remains challenging, as elevated living costs, oil prices near $100 per barrel and mortgage rates in the mid-to-high 6% range continue to weigh on households.
-
----
-
-### 2026-10-27 21:07:06  #Trading Economics #Economy #United States #House Price Index MoM #Importance 1
-
-US House Prices Rise More than Expected: FHFA — US single-family home prices backed by Fannie Mae and Freddie Mac rose 0.3% from the previous month in August 2026, above market expectations of 0.2%. The previously reported 0.3% price increase in July was revised down to 0.2%. For the nine census divisions, home price changes ranged from -0.8% in the New England division to +2.1% in the East South Central division. Year-on-year, house prices rose 2.4%, easing from 2.5% in the previous month. The 12-month changes ranged from +0.5% in the Mountain division to +4.4% in the East North Central division.
-
----
-
-### 2026-10-27 21:00:30  #經濟數據 #美國
-
-【美國8月FHFA房價指數環比增長0.3%】美國8月FHFA房價指數環比增長0.3%，前值由0.30%修正為0.2%。
-
----
-
-### 2026-10-27 21:00:07  #Trading Economics #Markets #Brazil #Currency #Importance 1
-
-Brazilian Real Rebounds Following Post-Election Rout — Brazil’s real recovered some ground, strengthening to around 5.36 per US dollar after weakening to as low as 5.60, near its weakest level since mid-2025, immediately following President Lula’s runoff victory over Flávio Bolsonaro. On October 26th, the first trading day after the election, the dollar closed at R$5.40, up 8.21%, amid market turmoil. Markets are focused on fiscal policy, particularly the government’s commitment to controlling spending and public debt, which has risen significantly in recent years. The appointment of the next finance minister will be a key signal. Markets had viewed a Bolsonaro administration as more likely to curb public spending, seen as essential to lowering interest rates. Brazilian assets had rallied after the first round, when Bolsonaro finished ahead of Lula and outperformed polling estimates.
-
----
-
-### 2026-10-27 20:55:59  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Rebound — European stocks traded higher on Tuesday afternoon, with the STOXX 50 rising 0.5% and the STOXX 600 gaining 0.2%, recovering from losses at the open and extending gains from the previous session. Investors assessed fresh corporate earnings while awaiting key central bank policy decisions this week, including those from the Federal Reserve and the European Central Bank. Schneider Electric advanced 2.1%, while ASML Holding gained 1.2%, SAP rose 1.1% and Siemens added 0.8%. Novartis also climbed 1.2% after beating earnings expectations and raising its full-year guidance. On the downside, HSBC plunged more than 6% after reporting disappointing revenue, while Reckitt fell 4.4% after cutting its sales outlook.
-
----
-
-### 2026-10-27 20:45:32  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Futures Retreat — US gasoline futures fell below $3.20 per gallon after reaching a one-week high amid hopes of a diplomatic resolution to the conflict in the Middle East. Iranian leader Khamenei said officials should ensure conditions for ending the war are met, urging an end to the "neither war nor peace" state. The statement adds optimism to a persistently tight fuel market. EIA data showed US gasoline inventories fell by nearly 3 million barrels in the week ending October 16th, reversing previous builds and and leaving stocks below seasonal norms. Supplies are expected to stay constrained as refineries prioritize higher-demand diesel ahead of winter. Routine maintenance also limits gasoline output despite facilities running near capacity, with Morgan Stanley warning tight conditions could persist through mid-2027. Still, pump prices have eased in recent weeks as driving demand wavers. Geopolitical risks added to concerns, with Russia and Ukraine continuing to exchange heavy air strikes.
-
----
-
-### 2026-10-27 20:37:01  #Trading Economics #Economy #United States #Durable Goods Orders #Importance 3
-
-US Durable Goods Orders Rise More Than Expected — New orders for US-manufactured durable goods increased 1.8% month-on-month in September 2026, following an upwardly revised 0.1% gain in August and exceeding market expectations of a 1.5% rise. The increase was driven by a strong rebound in transportation equipment orders, which climbed 4.6% after falling 0.3% in August, led by a 28.4% surge in civilian aircraft bookings. Elsewhere, orders rose for machinery (1.2% vs. 1.0%), computers and electronic products (0.8% vs. 0.5%), primary metals (0.5% vs. 1.9%) and fabricated metal products (0.4% vs. -1.4%). Excluding transportation, new orders increased 0.5%, following a 0.3% gain in August, while orders excluding defense surged 2.2%, compared with a 0.3% rise in the previous month. Meanwhile, orders for non-defense capital goods excluding aircraft, a closely watched indicator of business investment plans, rose 0.5% after increasing 1.6% in August.
-
----
-
-### 2026-10-27 20:30:33  #經濟數據 #美國
-
-美國9月耐用品訂單環比增長1.8%，預期1.7%。
-
----
-
-### 2026-10-27 20:29:27  #Trading Economics #Economy #Mexico #Balance of Trade #Importance 2
-
-Mexico Trade Deficit Wider Than Expected — Mexico’s trade balance posted a deficit of $606 million in September 2026, compared with a $240 million deficit a year earlier and market expectations of a $400 million shortfall. Total merchandise exports rose 37.9% year over year to $77.80 billion, with non-oil shipments up 38.8% and oil exports up 9.6%. Within non-oil exports, shipments to the US increased 43.5%, while sales to other markets rose 16.4%. Manufactured goods sales increased 39%, led by electrical and electronic equipment (94.7%), mining and metallurgical products (15.5%), and machinery and equipment for various industries (14.7%). Imports climbed 33.1% to $78.40 billion, as intermediate goods purchases jumped 38.8%, capital goods imports rose 18.7%, and consumer goods imports increased 11.4%. From August, the trade balance swung from a $605 million surplus, as the non-oil surplus narrowed to $2.75 billion from $4.05 billion. In the first nine months of 2026, the trade balance recorded a $9.25 billion surplus.
-
----
-
-### 2026-10-27 20:28:11  #市場 #焦點
-
-現貨黃金突破4020美元/盎司，日內漲0.08%。
-
----
-
-### 2026-10-27 20:27:50  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
-
-UK PM Starmer's spokesperson says the UK will not restore freedom of movement with the EU during this parliamentary term.
-
----
-
-### 2026-10-27 20:27:38  #市場
-
-【COMEX鋁期貨漲超1%】COMEX鋁期貨漲超1%，現報3156.0美元/公噸。
-
----
-
-### 2026-10-27 20:27:37  #公司
-
-BESI確認應用材料公司增持股份。
-
----
-
-### 2026-10-27 20:27:27  #公司 #國際
-
-【華東醫藥：HDM1005正式進入Ⅲ期臨床階段】華東醫藥10月27日對外宣佈，公司全資子公司杭州中美華東製藥有限公司自主研發的GLP-1/GIP雙靶點長效激動劑HDM1005注射液，於近日先後完成阻塞性睡眠呼吸暫停（OSA）合併肥胖或超重適應症兩項中國Ⅲ期臨床研究(HDM1005-304和HDM1005-305)的首例試驗參與者隨機給藥。這標誌著HDM1005在該適應症上正式進入Ⅲ期臨床階段。
-
----
-
-### 2026-10-27 20:27:23  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
-
-UK PM Starmer's spokesperson said PM Burnham will outline next steps on UK-EU relations around the EU summit; the summit may adopt concrete measures but they will remain insufficient.
-
----
-
-### 2026-10-27 20:27:09  #公司 #市場
-
-【均普智慧：股價異常波動，機器人、資料採集概念受關注】均普智慧公告，公司股票連續3個交易日（2026年10月23日、2026年10月26日和2026年10月27日）收盤價格漲幅偏離值累計達到30%。近期人形機器人、資料採集等概念活躍，市場關注度較高；2026年上半年，公司具身智慧機器人製造業務收入6452.36萬元，佔營業收入5.25%，毛利率16.70%，資料採集業務暫未形成規模化收入。截至2026年10月27日，公司滾動市盈率為1037.5倍，高於行業最近一個月平均滾動市盈率36.59倍。
-
----
-
-### 2026-10-27 20:26:25  #國際
-
-英國首相發言人：英國首相伯納姆將在峰會前後公佈有關歐盟的下一步舉措。
-
----
-
-### 2026-10-27 20:26:11  #國際
-
-英國首相發言人：歐盟峰會或採取具體措施，但力度不夠。
-
----
-
-### 2026-10-27 20:26:02  #國際
-
-英國首相發言人：本屆議會期間英國不會恢復歐盟自由流動。
-
----
-
-### 2026-10-27 20:25:10  #公司
-
-【北新路橋：2026年前三季度虧損4.21億元，上年同期虧損9819.61萬元】北新路橋公告，2026年第三季度營業收入15.83億元，同比下降41.80%；歸母淨利潤虧損1.63億元，扣非淨利潤虧損6158.47萬元。2026年前三季度營業收入60.8億元，同比下降20.79%；歸母淨利潤虧損4.21億元，上年同期虧損9819.61萬元；扣非淨利潤虧損3.27億元。
-
----
-
-### 2026-10-27 20:25:03  #公司
-
-【星湖科技：2026年第三季度淨利潤虧損1481.11萬元，同比由盈轉虧】星湖科技公告，2026年第三季度營業收入41.19億元，同比增長5.13%；歸母淨利潤虧損1481.11萬元，同比由盈轉虧；扣非淨利潤虧損5351.13萬元。2026年前三季度營業收入123.08億元，同比增長1.91%；歸母淨利潤5590.75萬元，同比下降94.49%；扣非淨利潤177.34萬元，同比下降99.82%。公司稱，金海生物投產帶來營業收入及利潤增量，但賴氨酸、蘇氨酸等主要產品銷售價格同比下降。
-
----
-
-### 2026-10-27 20:24:54  #公司
-
-【利和興：2026年前三季度淨利潤虧損3453.6萬元，上年同期虧損6588.33萬元】利和興公告，2026年第三季度營業收入1.42億元，同比增長0.55%；淨利潤186.71萬元，同比增長106.68%；扣非淨利潤129.58萬元，同比增長104.83%。2026年前三季度營業收入4.45億元，同比增長35.78%；淨利潤虧損3453.6萬元，上年同期虧損6588.33萬元；扣非淨利潤虧損3510.53萬元。
-
----
-
-### 2026-10-27 20:24:52  #宏觀 #市場
-
-【國開新型政策性金融工具3650億元投放完成】據新華社，國家開發銀行堅決貫徹黨中央、國務院決策部署，在國家發展改革委、財政部、中國人民銀行、金融監管總局指導下，紮實提升新型政策性金融工具投放質效，於10月27日完成3650億元投放任務，全部用於補充專案資本金，涉及專案總投資5.5萬億元，有效發揮主力行作用，助力推動經濟持續向新向優向好發展。
-
----
-
-### 2026-10-27 20:24:42  #MKT News #ABNB.O #Impact bullish
-
-Oppenheimer raises PT on Airbnb (ABNB.O) to $210 from $190.
-
----
-
-### 2026-10-27 20:24:38  #公司
-
-【振邦智慧：2026年第三季度淨利潤2110.03萬元，同比下降7.84%】振邦智慧公告，2026年第三季度營業收入4.8億元，同比增長22.37%；歸母淨利潤2110.03萬元，同比下降7.84%；扣非淨利潤2500.15萬元，同比增長12.69%。2026年前三季度營業收入11.99億元，同比增長15.30%；歸母淨利潤3781.56萬元，同比下降50.16%；扣非淨利潤3309.97萬元，同比下降56.03%。
-
----
-
-### 2026-10-27 20:23:43  #市場
-
-在盧拉勝選後，巴西雷亞爾週一大幅下跌，兌美元匯率上漲超過1%。
-
----
-
-### 2026-10-27 20:23:37  #公司
-
-自由港麥克莫蘭銅金公司預計2027年銅銷量將增加7億磅/年，2028年將增加4億磅/年。
-
----
-
-### 2026-10-27 20:23:13  #公司
-
-【5連板上海九百：收到股價異常波動監管工作函】上海九百(600838.SH)公告稱，公司收到上交所關於股價異常波動事項的監管工作函，涉及物件包括上市公司、董事、高階管理人員、一般股東、控股股東及實際控制人及其他相關方。
-
----
-
-### 2026-10-27 20:22:49  #公司
-
-【強一股份：控股股東提議擬以5000萬元至1億元回購公司股份】強一股份公告，2026年10月27日，公司控股股東、實際控制人、董事長周明提議公司以自有資金或自籌資金回購股份，擬用於員工持股計劃或股權激勵，回購資金總額不低於人民幣5000萬元（含本數）、不高於人民幣1億元（含本數）。回購價格不高於董事會審議透過回購方案前30個交易日公司股票交易均價的150%，回購期限為董事會審議透過方案之日起12個月。
-
----
-
-### 2026-10-27 20:22:10  #其他
-
-【中國大陸首條通航冰島定期航班開飛，冰方：期待直航進一步增進兩國人員交流、拓展雙方市場】10月26日，中國與冰島之間的第一條定期客運航線—中國國航北京至雷克雅未克航班首航儀式在冰島凱夫拉維克機場舉行。何大使表示，直航開通是兩國元首會晤的成果之一，是中冰建交55週年的最好禮物，順應了雙方各界的共同期待，是兩國合作持續深化的生動體現，將為雙邊關係發展注入新的動力。冰基礎設施部長奧爾曼松熱烈祝賀中冰直航開通，期待直航進一步增進兩國人員交流、拓展雙方市場，助力深化各領域交流合作，推動雙邊關係進一步發展。
-
----
-
-### 2026-10-27 20:22:03  #市場
-
-【瑞穗金融美股盤前跌超5%】瑞穗金融美股盤前跌超5%，現報9.02美元。
-
----
-
-### 2026-10-27 20:21:48  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Freeport-McMoran earnings above expectations at 0.88 USD — Freeport-McMoran (FCX) released earnings per share at 0.88 USD, compared to market expectations of 0.78 USD.
-
----
-
-### 2026-10-27 20:21:36  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Edge Higher Ahead of BoC Meeting — Canadian stock futures edged higher on Tuesday as investors awaited monetary policy decisions from the Bank of Canada and the US Federal Reserve later this week. The BoC meets Wednesday, with markets pricing in a 25-basis-point rate hike, while the Fed is widely expected to hold rates steady. Canadian bond yields fell as the oil rally paused, easing energy-driven inflation concerns and supporting bank stocks. Meanwhile, the US and Canada are reportedly negotiating a deal to ease US tariffs on Canadian steel and autos as both sides seek to repair relations following the breakdown of trade talks in August. Elsewhere, gold prices slipped slightly and silver fell, weighing on mining stocks.
-
----
-
-### 2026-10-27 20:21:11  #MKT News
-
-Norwegian prime minister: Our views align with the 'Alliance of the Willing'.
-
----
-
-### 2026-10-27 20:21:09  #國際
-
-美國聯邦通訊委員會警告TP-Link部分Wi-Fi路由器超出功率限制。
-
----
-
-### 2026-10-27 20:20:59  #公司
-
-【抖音李亮：騰訊公司短劇、短影片增長速度遠超抖音和紅果】抖音集團李亮發文稱，隨著紅果短劇內容質量不斷提升，越來越受到使用者喜愛。我之前推薦過《冒姓琅琊》，再推薦幾部短劇給大家：歷史劇《持械入宋》《魏家逆子成首輔》《大明，李景隆的別樣人生》；科普劇《急診摸魚王》《並肩》《向陽而生》。我們也同時發現，不斷有關於紅果短劇的不實資訊傳出，這些資訊甚至影響到一些有權威的專家學者，一位我非常尊重的學者居然提出“中國網際網路的位元組時間”，這個定性極不嚴謹，純屬瞎扯！網際網路競爭激烈，沒有哪家公司成為“中國網際網路的xx時間”。網際網路產品中，只有即時通訊因為有關係鏈這個護城河，市場格局相對穩定。短劇、短影片這類產品屬於充分競爭行業，市場競爭激烈，市場格局變動快，沒有哪家公司能穩居市場第一，真實情況是，騰訊公司短劇、短影片增長速度，遠遠超過抖音和紅果，而且在網際網路應用中，即時通訊，遊戲、電商、音樂都佔據使用者非常多的“時間”。這位學者提出所謂“中國網際網路的xx時間”，非常誇張，不嚴謹，不符合事實，也經不住時間的考驗，其實也不符合他本人真實的風格。
-
----
-
-### 2026-10-27 20:20:53  #MKT News
-
-Shekel rose 0.9% against the dollar intraday to 3.05 per dlr, a three-week high, after reports of higher voter turnout in Israel's election.
-
----
-
-### 2026-10-27 20:20:31  #其他
-
-挪威首相：我們的觀點與“志願者聯盟”的觀點一致。
-
----
-
-### 2026-10-27 20:20:19  #市場 #國際
-
-據報道以色列大選投票率較高，謝克爾兌美元上漲0.9%，至3周高位3.05。
-
----
-
-### 2026-10-27 20:20:04  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact mixed #US10Y #EURUSD
-
-U.S. September durable goods orders (MoM) due in 10 minutes.
-
----
-
-### 2026-10-27 20:19:30  #國際
-
-挪威首相：與俄羅斯總統普京的通話持續了90分鐘。
-
----
-
-### 2026-10-27 20:18:52  #Trading Economics #Economy #United States #Building Permits #Importance 1
-
-US Building Permits Fall for Second Consecutive Month — US building permits declined by 0.4% month-on-month in September 2026, reaching a seasonally adjusted annual rate of 1.398 million. The figure came in slightly below the preliminary estimate of 1.4 million, marking a second consecutive monthly decline and the lowest level since June.
-
----
-
-### 2026-10-27 20:18:48  #公司
-
-【和順電氣：2026年第三季度淨利潤719.17萬元，同比增長82.36%】和順電氣公告，2026年第三季度營業收入1.42億元，同比下降9.97%；歸母淨利潤719.17萬元，同比增長82.36%；扣非淨利潤610.28萬元，同比增長95.39%。2026年前三季度營業收入4.08億元，同比增長42.68%；歸母淨利潤156.44萬元，同比增長108.23%；扣非淨利潤20.73萬元，同比增長100.96%。
-
----
-
-### 2026-10-27 20:18:45  #公司 #市場
-
-ARTIVA BIOTHERAPEUTICS 公司盤前股價下跌 30%；在兩名患者死亡後，公司停止細胞療法，裁員 94%。
-
----
-
-### 2026-10-27 20:18:39  #MKT News #ABTX.O #Impact bearish
-
-Artiva Biotherapeutics shares fell about 30% in pre-market trading after the company halted its cell therapy program following two patient deaths and cut roughly 94% of its workforce.
-
----
-
-### 2026-10-27 20:18:35  #市場
-
-PAYPAL股價盤前漲幅延續至4%。
-
----
-
-### 2026-10-27 20:17:56  #MKT News
-
-Norwegian prime minister said a call with Russian President Putin lasted 90 minutes and that Norway must seek to de‑escalate the war in Ukraine.
-
----
-
-### 2026-10-27 20:17:46  #MKT News
-
-Norwegian prime minister said he is under the impression that Moscow is making full preparations for the Abu Dhabi meeting.
-
----
-
-### 2026-10-27 20:17:30  #公司
-
-【海思科：第三季度歸母淨利潤5.25億元，同比增長207.26%】海思科10月27日公告，2026年第三季度實現營業收入18.75億元，同比增長44.3%；歸母淨利潤5.25億元，同比增長207.26%；基本每股收益0.4671元。前三季度實現營業收入49.7億元，同比增長50.61%；歸母淨利潤13.76億元，同比增長314.01%；基本每股收益1.224元。報告期內，公司業績主要受到BD業務收入增長、成品藥銷量持續提升及合作產品銷售收入增加的影響。
-
----
-
-### 2026-10-27 20:17:22  #Trading Economics #Economy #Brazil #Producer Price Inflation MoM #Importance 2
-
-Brazil Producer Prices Rise the Most in 5 Months — Brazil’s producer prices rose 1.54% month-on-month in September 2026, marking its highest level since April and accelerating sharply from a 0.34% rise in the prior month. Inflation in the mining and quarrying sector surged to 11.04%, its highest level since March, from 4.34% in the previous month. This reflected higher prices for crude petroleum oils, mined iron and iron concentrates. Price growth in manufacturing accelerated to 1.12% from 0.17% in August. Food price inflation increased to 2.4%, its highest level since September 2024, from 1.99%, while prices in the manufacture of coke, refined petroleum products and biofuels rebounded by 4.88% following a 0.16% decline in the previous month. On an annual basis, producer prices accelerated to 4.34% in September, its highest level since May 2025, up from 2.5% in August.
-
----
-
-### 2026-10-27 20:16:48  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-PACCAR earnings above expectations at 1.61 USD — PACCAR (PCAR) released earnings per share at 1.61 USD, compared to market expectations of 1.52 USD.
-
----
-
-### 2026-10-27 20:16:44  #公司
-
-【電廣傳媒：2026年第三季度淨利潤虧損9351.34萬元，同比由盈轉虧】電廣傳媒公告，2026年第三季度營業收入9.12億元，同比下降25.42%；歸母淨利潤虧損9351.34萬元，扣非淨利潤虧損9688.6萬元。2026年前三季度營業收入31.28億元，同比下降1.93%；歸母淨利潤虧損1.49億元，上年同期為1.32億元，同比由盈轉虧；扣非淨利潤虧損1.56億元。公司表示，受二級市場股票價格波動影響，所持交易性金融資產公允價值下降，對當期利潤造成較大不利影響。
-
----
-
-### 2026-10-27 20:16:14  #其他
-
-挪威首相：我的印象是，莫斯科正在為阿布扎比會議做充分準備。
-
----
-
-### 2026-10-27 20:16:07  #國際
-
-49North與烏克蘭的Unwave建立合作，共同提供反無人機支援。
-
----
-
-### 2026-10-27 20:15:57  #公司
-
-【東北證券：前三季度淨利潤10.17億元，同比下降4.63%】東北證券(000686)10月27日披露2026年三季報，公司第三季度營業總收入12.89億元，同比下降28.97%；歸母淨利潤2.53億元，同比下降60.24%。2026年前三季度營業總收入39.37億元，同比增長1.95%；歸母淨利潤10.17億元，同比下降4.63%。
-
----
-
-### 2026-10-27 20:15:49  #國際
-
-【晶科能源簽約中東310.53MW飛虎3分銷訂單】據晶科能源訊息，近日，晶科能源與中東地區核心分銷商正式簽署310.53MW飛虎3（Tiger Neo 3.0）高效元件分銷協議，將專項服務於當地快速增長的工商業分散式光伏市場。
-
----
-
-### 2026-10-27 20:15:37  #經濟數據 #美國
-
-ADP資料顯示，截至10月10日的四周內，美國私營部門就業平均每週增加16,750人。
-
----
-
-### 2026-10-27 20:15:30  #國際
-
-CACI獲美國海軍1.45億美元任務訂單。
-
----
-
-### 2026-10-27 20:15:09  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
-
-US ADP weekly employment change for week through Oct 10: +16,750, prior +18,500.
-
----
-
-### 2026-10-27 20:15:05  #國際
-
-美國至10月10日當週ADP就業人數週度變動 1.675萬人，前值1.85萬人。
-
----
-
-### 2026-10-27 20:15:00  #MKT News #Economic Calendar #Important
-
-United States | ADP weekly employment change (Oct.10) | actual 16750K | previous 18500K
-
----
-
-### 2026-10-27 20:14:49  #MKT News
-
-Norway's prime minister said all partners and allies were briefed on the situation before he spoke with Russian President Putin.
-
----
-
-### 2026-10-27 20:14:34  #國際
-
-挪威首相：在與普京通話前，所有夥伴和盟友都已被告知。
-
----
-
-### 2026-10-27 20:14:04  #公司
-
-【帝奧微：控股股東提議公司以5000萬元-1億元回購股份並登出】帝奧微公告，控股股東、實際控制人、董事長鞠建宏於2026年10月27日提議公司使用首次公開發行普通股取得的超募資金回購股份並依法登出，回購資金總額不低於人民幣5000萬元、不超過人民幣1億元，回購價格不高於董事會透過回購股份決議前30個交易日公司股票交易均價的150%。回購事項尚需履行審批程式，公司將研究制定回購方案。
-
----
-
-### 2026-10-27 20:13:56  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Gains for 3rd Session — The dollar index strengthened to 102.2 on Tuesday, extending gains for a third consecutive session and reaching its highest level in about two weeks. Investors brace for a busy week of monetary policy decisions from major central banks, with the FOMC meeting kicking off today. The Federal Reserve is widely expected to leave the fed funds rate unchanged, although investors will look for clues on whether a rate hike in December remains a possibility. The European Central Bank, Bank of Japan and Bank of Canada are also due to announce their policy decisions this week. The greenback also drew support from improved stability in equity markets, as sentiment surrounding AI-related stocks steadied following last week’s volatility. Meanwhile, the dollar traded mostly higher against the euro, which remained under pressure from France’s deteriorating fiscal outlook and mounting concerns in the bond market.
-
----
-
-### 2026-10-27 20:12:09  #MKT News
-
-【Hongguo Short Drama denies claims of ~40 bln yuan annual revenue】On Oct 27 Hongguo Short Drama said on its official account that online reports claiming annualized revenue near 40 bln yuan and this year’s revenue of 42–45 bln yuan are inaccurate. The company said cited “institutional,” “industry” and “expert” figures are not official and related comparisons, extrapolations and interpretations lack factual basis. It added most revenue is being allocated to creator revenue-sharing, copyright minimum guarantees and support for premium content as it grows with short-drama industry partners.
-
----
-
-### 2026-10-27 20:11:55  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Illinois Tool Works earnings above expectations at 3.00 USD — Illinois Tool Works (ITW) released earnings per share at 3.00 USD, compared to market expectations of 2.92 USD.
-
----
-
-### 2026-10-27 20:11:54  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Ecolab earnings below expectations at 2.18 USD — Ecolab (ECL) released earnings per share at 2.18 USD, compared to market expectations of 2.22 USD.
-
----
-
-### 2026-10-27 20:11:10  #公司
-
-【宏盛華源：2026年第三季度淨利潤4007.51萬元，同比下降52.65%】宏盛華源公告，2026年第三季度營業收入20.66億元，同比下降15.24%；歸母淨利潤4007.51萬元，同比下降52.65%；扣非淨利潤3856.06萬元，同比下降52.99%。2026年前三季度營業收入69.52億元，同比下降5.33%；歸母淨利潤2.24億元，同比下降20.95%；扣非淨利潤2.14億元，同比下降20.69%。
-
----
-
-### 2026-10-27 20:11:02  #公司
-
-【銀座股份：2026年第三季度歸母淨利潤虧損1120.91萬元】銀座股份公告，2026年第三季度營業收入13.75億元，同比下降0.02%；歸母淨利潤虧損1120.91萬元，扣非淨利潤虧損4574.66萬元。2026年前三季度營業收入42.5億元，同比下降2.23%；歸母淨利潤6301.03萬元，同比下降28.50%；扣非淨利潤331.35萬元，同比下降92.72%。
-
----
-
-### 2026-10-27 20:11:01  #國際
-
-【AI競選廣告轟炸美中期選舉】隨著11月3日美國中期選舉臨近，大量由人工智慧（AI）生成的競選廣告出現在電視和社交媒體上。追蹤美國選舉的“衛斯理媒體專案”組織稱，已在全國識別出220個至少部分使用AI工具生成的政治廣告，總耗資超過1.37億美元，而2024年選舉週期此類廣告支出不足5萬美元。據不完全統計，這些廣告中81%由共和黨候選人或團體贊助，12%由民主黨贊助，且大部分未標註“AI生成”字樣。 民主黨籍聯邦參議員奧索夫本人就在AI廣告中被“黑”。他直言“看到深度偽造影片被用來捏造政治廣告，深感不安”。近期調查顯示，73%的受訪者認為競選活動不應使用AI生成的影象或影片。不過，研究人員認為，AI廣告對“選擇投給誰”影響目前來看相對較小，但可能在動員投票或籌款方面更有效。“衛斯理媒體專案”負責人福勒指出，美國聯邦層面目前對AI政治廣告沒有任何監管，競選團隊沒有義務標註，而未標註的AI廣告“特別危險”，建議公眾對資訊多留心眼、回源頭核實。（CCTV國際時訊）
-
----
-
-### 2026-10-27 20:10:14  #國際
-
-【中國足協回應姆巴佩發表涉華錯誤言論】中國足協10月27日發文，效力於西班牙皇家馬德里俱樂部的運動員姆巴佩在接受海外媒體採訪時公開發表涉華錯誤言論。中國足協高度重視，第一時間與皇家馬德里俱樂部進行嚴正交涉，要求涉事球員和皇家馬德里俱樂部作出公開正式道歉。中國足協堅決反對任何傷害中國人民感情的言論。國際知名運動員尤其應當嚴守底線、理性發聲，珍惜自身公眾影響力。中國足協將充分利用國際多邊交流平臺，倡導相互尊重的國際足球交流交往準則，共同促進足球運動的健康發展與文明互鑑。
-
----
-
-### 2026-10-27 20:09:53  #公司
-
-【競業達：2026年第三季度淨利潤虧損6262.66萬元】競業達公告，2026年第三季度營業收入6730.75萬元，同比下降7.12%；歸母淨利潤虧損6262.66萬元，扣非淨利潤虧損5632.23萬元。2026年前三季度營業收入1.8億元，同比下降5.87%；歸母淨利潤虧損1.37億元，扣非淨利潤虧損1.31億元。
-
----
-
-### 2026-10-27 20:09:48  #公司
-
-【凡拓數創：2026年第三季度淨利潤虧損4611.44萬元】凡拓數創公告，2026年第三季度營業收入1.07億元，同比增長7.20%；歸母淨利潤虧損4611.44萬元，扣非淨利潤虧損4500.71萬元。2026年前三季度營業收入3.38億元，同比下降19.45%；歸母淨利潤虧損1.23億元，扣非淨利潤虧損1.25億元。
-
----
-
-### 2026-10-27 20:09:46  #MKT News
-
-Brazil's benchmark stock-index futures rose 0.25%, reversing Monday's sharp sell-off. The Brazilian real gained 0.4% against the dollar.
-
----
-
-### 2026-10-27 20:09:44  #其他
-
-巴西雷亞爾領漲新興市場。
-
----
-
-### 2026-10-27 20:09:33  #國際
-
-【歐盟呼籲胡塞武裝立即停止襲擊、推動局勢降級】歐洲理事會主席科斯塔表示，他與葉門總統領導委員會主席拉沙德·阿里米通話，重申歐盟完全聲援並支援葉門政府及其恢復和平與穩定的努力。科斯塔轉達了歐盟對胡塞武裝在葉門境內發動襲擊、襲擊沙烏地阿拉伯以及襲擊紅海航運的強烈譴責。歐盟呼籲胡塞武裝立即停止襲擊、推動局勢降級，並在聯合國主持下重返談判。只有透過包容性的政治解決方案，才能為葉門帶來持久和平。
-
----
-
-### 2026-10-27 20:09:21  #MKT News
-
-【Long-dated large-denomination CDs return; some banks offer up to 1.85%】Since early October, Chinese banks — from joint-stock to city, rural and private lenders — have reintroduced 3- and 5-year large-denomination CDs, with some institutions relisting identical tenors multiple times. Hengfeng Bank and several branches on Oct. 20 launched seven personal large-denomination CDs; the 5-year product carries a 1.75% annualized rate. CITIC Bank on Oct. 1 listed multiple large-denomination CDs including a 3-year at 1.70%; the bank had resumed same-tenor issuance on Sept. 1, making this a one-month follow-up. Bank of Tibet on Oct. 16 issued a 3-year personal large-denomination CD at a 1.85% annualized rate.
-
----
-
-### 2026-10-27 20:08:44  #MKT News #INTC.O #Impact bullish
-
-Intel (INTC.O) to acquire quantum startup Classiq for about $2.3 billion.
-
----
-
-### 2026-10-27 20:08:38  #其他
-
-【青島至寮國永珍國際航線今天開通】中國青島至寮國永珍的國際航線今天（27日）正式開通，為兩地之間新增一條常態化空中通道。10月27日早上8點多，青島航空QW9915航班從青島膠東國際機場起飛，計劃經停西雙版納後飛往寮國首都永珍。（央視新聞）
-
----
-
-### 2026-10-27 20:08:24  #公司
-
-【上海九百：2026年第三季度淨利潤403.57萬元，同比下降12.93%】上海九百公告，2026年第三季度營業收入1987.91萬元，同比增長7.33%；淨利潤403.57萬元，同比下降12.93%；扣非淨利潤471.18萬元，同比下降4.37%。2026年前三季度營業收入6310.44萬元，同比下降0.74%；淨利潤2910.96萬元，同比增長2.41%；扣非淨利潤2821.32萬元，同比增長2.05%。
-
----
-
-### 2026-10-27 20:07:36  #其他
-
-【紅果短劇：網傳“紅果短劇年收入400億”等為不實資訊】10月27日，紅果短劇官方賬號釋出宣告：網路上集中出現“紅果短劇年化收入逼近400億元”“紅果短劇今年營收達420億至450億元”等說法，經核實，上述收入資料不實。網傳內容中所謂的“機構資料”“行業資料”“專家預計”都不是官方資訊，據此作出的比較、推算和延伸解讀也沒有事實依據。請大家不要傳播不實資訊。目前，紅果短劇大部分收入持續用於內容創作者分賬、版權保底和優質內容扶持，與短劇行業夥伴共同成長。
-
----
-
-### 2026-10-27 20:06:58  #公司
-
-【富創精密：2026年第三季度淨利潤9902.15萬元，同比增長292.82%】富創精密公告，2026年第三季度營業收入14.82億元，同比增長47.31%；歸母淨利潤9902.15萬元，同比增長292.82%；扣非淨利潤9936.3萬元，同比增長358.48%。2026年前三季度營業收入38億元，同比增長39.19%；歸母淨利潤2.33億元，同比增長522.10%；扣非淨利潤1.89億元，同比增長844.04%。
-
----
-
-### 2026-10-27 20:05:40  #其他
-
-Stellantis：弗蘭克·穆拉德將於11月1日接管歐寶艾森納赫工廠的管理工作。
-
----
-
-### 2026-10-27 20:05:06  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact mixed #EURUSD #US10Y
-
-US ADP private payrolls change for the week to Oct. 10 due in 10 minutes.
-
----
-
-### 2026-10-27 20:04:14  #公司
-
-【祥生醫療：2026年第三季度淨利潤2423.35萬元，同比增長0.04%】祥生醫療公告，2026年第三季度營業收入1.1億元，同比增長2.40%；歸母淨利潤2423.35萬元，同比增長0.04%；扣非淨利潤2071.21萬元，同比下降10.49%。2026年前三季度營業收入3.51億元，同比增長2.29%；歸母淨利潤9319.11萬元，同比下降0.78%；扣非淨利潤7391.41萬元，同比下降15.01%。
-
----
-
-### 2026-10-27 20:03:35  #其他
-
-Vuzix：正按六位數訂單交付LX1智慧眼鏡。
-
----
-
-### 2026-10-27 20:03:26  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
-
-Putin warned against excluding Russia from the global natural gas market and stressed expanding energy exports.
-
----
-
-### 2026-10-27 20:03:21  #其他
-
-英國考慮對資料中心提出在當地投資的新要求。
-
----
-
-### 2026-10-27 20:03:08  #其他
-
-【央視要求皇馬和姆巴佩書面道歉】針對西甲皇家馬德里隊球員姆巴佩嚴重涉華負面言論，中央廣播電視總檯於10月26日第一時間進行反制，叫停了西甲賽事以及涉及姆巴佩的所有比賽和其代言廣告的播出。總檯負責人同時致函西甲聯盟主席特巴斯，要求皇馬和姆巴佩本人立即公開誠懇道歉，消除不良影響，並向總檯遞交書面道歉信。北京時間10月27日下午，西甲聯盟主席哈維爾·特巴斯致函總檯負責人，對姆巴佩的行為予以譴責並表示道歉。特巴斯說：“我希望立即且明確地表達我們對球員基利安·姆巴佩行為的譴責。這是不可接受的行為，不代表我們賽事或者西班牙足球的價值觀。我們理解此事在中國引發的憤慨，並對造成的冒犯深表歉意。”特巴斯還表示，我謹親自向中國人民轉達我們的尊重，以及我們對多年來所建立關係的堅定承諾。我們正在採取適當措施，以最嚴肅的態度處理這一情況，並將隨時向各位通報所採取的行動。在收到特巴斯的信函後，中央廣播電視總檯快速做了回應：先賠禮道歉，否則一切免談。在以總檯臺長名義的回函中，總檯明確表示：西甲、皇家馬德里俱樂部，特別是姆巴佩本人必須儘快公開道歉，這是基本前提。（上觀新聞）
-
----
-
-### 2026-10-27 20:02:40  #其他
-
-自由港麥克莫蘭第三季度營收為75.46億美元，而路孚特IBES預估為74.24億美元。
-
----
-
-### 2026-10-27 20:01:55  #公司 #市場
-
-自由港邁克墨倫銅金公司(FREEPORT-MCMORAN)：第三季度合併總產量為8.32億磅銅、23.4萬盎司黃金、2200萬磅鉬。
-
----
-
-### 2026-10-27 20:01:46  #其他
-
-【REDMI K100釋出，限時2999元起售】REDMI正式推出K100旗艦機型，搭載驍龍8至尊版+AI獨顯D2雙芯配置，全系配備10000mAh金沙江大電池、165Hz高刷屏，預裝澎湃OS 4。該機型售價3499元起，10月31日上午十點開售，開售後至雙十一限時調價至2999元起。
-
----
-
-### 2026-10-27 20:01:17  #其他
-
-戴爾將網路安全防護擴充套件至人工智慧環境。
-
----
-
-### 2026-10-27 20:01:12  #其他
-
-戴爾擴充套件網路安全與韌性產品組合。
-
----
-
-### 2026-10-27 20:00:43  #公司
-
-【中鎢高新董事長沈慧明與中國一冶董事長袁斯浪舉行工作會談】據中鎢高新訊息，10月26日，中鎢高新黨委書記、董事長沈慧明與到訪的中國一冶集團有限公司（簡稱“中國一冶”）黨委書記、董事長袁斯浪舉行工作會談。沈慧明對袁斯浪一行的來訪表示歡迎，詳細介紹了中鎢高新整體發展情況、重點工程專案進展等，希望以此次會談為契機，建立常態化溝通對接機制，在工程建設、科技創新、產業鏈上下游協同等方面務實推進合作。
-
----
-
-### 2026-10-27 20:00:40  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange Gold T+D opened the Oct. 27 evening session (Tuesday) up 0.03% at 860.45 yuan/gram; Silver T+D opened down 2.13% at 12,740.0 yuan/kg.
-
----
-
-### 2026-10-27 20:00:35  #其他
-
-墨西哥9月貿易逆差6.0608億美元；預計-3.974 億美元。
-
----
-
-### 2026-10-27 20:00:18  #市場
-
-SOFI股票盤前漲幅延續至10%。
-
----
-
-### 2026-10-27 19:58:54  #國際
-
-卡達埃米爾辦公室：卡達埃米爾與伊朗總統在莫斯科會晤中討論了戰爭和霍爾木茲問題。
-
----
-
-### 2026-10-27 19:58:31  #公司
-
-【深市有色金屬行業三季報業績亮眼 近八成淨利潤同比增長16家翻倍】統計資料顯示，截至2026年10月27日，有色金屬行業的78家深市A股公司中已有56家披露三季報，其中78.6%的公司淨利潤同比增長，16家淨利潤同比翻倍。中國稀土2026年第三季度實現營業收入10.11億元，同比增長63.19%；歸母淨利潤1.71億元，同比大幅增長461.73%，扣非淨利潤為1.70億元，同比增長477.12%，環比Q2分別增長22.36%、73.97%和66.05%。銅陵有色前三季實現營業收入1844.63億元，同比增長51.33%；歸母淨利潤50.47億元，同比增長184.75%；扣非歸母淨利潤51.33億元，同比增長201.22%。
-
----
-
-### 2026-10-27 19:58:11  #公司
-
-【凌雲股份：擬以3912萬元收購西安凌雲50%股權】凌雲股份公告，公司擬以自有資金收購瑞士喬治費歇爾有限公司持有的西安凌雲工業有限公司50%股權，交易價格為3912萬元。收購完成後，西安凌雲將成為公司全資子公司。本次交易已於2026年10月27日經公司第九屆董事會第十三次會議審議透過，無需提交股東會審議。
-
----
-
-### 2026-10-27 19:58:03  #公司
-
-【凌雲股份：2026年第三季度淨利潤6970.17萬元，同比下降55.11%】凌雲股份公告，2026年第三季度營業收入47.18億元，同比下降1.90%；歸母淨利潤6970.17萬元，同比下降55.11%；扣非淨利潤5865.07萬元，同比下降55.08%。2026年前三季度營業收入143.94億元，同比增長2.31%；歸母淨利潤3.74億元，同比下降36.43%；扣非淨利潤3.32億元，同比下降34.06%。
-
----
-
-### 2026-10-27 19:57:42  #公司
-
-【中長期大額存單密集返場 有銀行利率達1.85%】10月以來，從股份制銀行到城商行、農商行乃至民營銀行，多家金融機構相繼官宣發行3年期、5年期大額存單，部分機構甚至在短期內多次上架同期限產品。恆豐銀行及其下屬多家分行於10月20日宣佈推出7款個人大額存單，其中5年期產品年化利率定為1.75%。中信銀行自10月1日起上線多款包含3年期品種的大額存單，年化利率為1.70%；鑑於該行曾於9月1日重啟過同期限產品發行，此次上架被視為時隔一個月的再度補充。西藏銀行10月16日發行了年化利率1.85%的3年期個人大額存單。(21世紀經濟報道)
-
----
-
-### 2026-10-27 19:56:59  #MKT News
-
-Putin says Russia should not go too far on the "green agenda".
-
----
-
-### 2026-10-27 19:56:35  #國際
-
-【約旦空襲敘利亞南部，敘外交部發聲譴責：不可接受】據《以色列時報》27日援引法新社訊息報道，敘利亞外交部發表一份宣告，以“最強烈的措辭”對約旦方面26日空襲敘利亞南部一事予以“譴責和反對”。報道說，敘外交部在宣告中稱，此次空襲未經事前協調，是對敘利亞領空進行的“不可接受的侵犯行為”。宣告提到，這次襲擊“公然違反睦鄰友好原則、侵犯敘利亞國家主權”。（環球網）
-
----
-
-### 2026-10-27 19:56:35  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
-
-Putin said Russia needs to consider ending the ongoing conflict and lifting sanctions.
-
----
-
-### 2026-10-27 19:55:58  #公司
-
-【寧德時代：全固態電池2027年有望實現小批次生產】寧德時代10月27日在投資者互動平臺表示，公司在全固態電池上持續堅定投入，技術處於行業領先水平，2027年有望實現小批次生產。另外，近年來公司根據市場需求加快產能建設進度，隨著今年產能的陸續投產，產能緊張程度有所緩解。但市場需求也在持續增長，整體而言，接下來產能利用率仍將處於較高水平，保持較健康的狀態。
-
----
-
-### 2026-10-27 19:55:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Saudi-led coalition said it intercepted and destroyed two ballistic missiles launched by Houthi militants toward Riyadh.
-
----
-
-### 2026-10-27 19:55:48  #公司
-
-【京基智農：2026年第三季度淨利潤虧損1.94億元】京基智農公告，2026年第三季度營業收入8.43億元，同比下降34.32%；歸母淨利潤虧損1.94億元，扣非淨利潤虧損1.73億元。2026年前三季度營業收入29.73億元，同比下降18.99%；歸母淨利潤虧損6.83億元，扣非淨利潤虧損6.34億元。
-
----
-
-### 2026-10-27 19:55:45  #國際
-
-普京：我們需要考慮結束持續衝突並解除制裁。
-
----
-
-### 2026-10-27 19:54:09  #其他
-
-沙特領導的聯盟：攔截兩枚瞄準利雅得的導彈。
-
----
-
-### 2026-10-27 19:53:24  #公司
-
-【可口可樂上調業績指引 海外汽水銷售強勁】可口可樂上調2026年全年業績展望，因海外汽水需求強勁，尤其是無糖飲料。這家飲料公司目前預計，今年有機營收至少增長5%，此前預期為增長約5%。可口可樂7月已經上調過業績指引，當時表示對全年業績的信心增強。執行長Henrique Braun在宣告中表示：“本季度業績顯示，我們的業務體系持續保持增長勢頭，這增強了我們對更新後全年指引的信心。”這家總部位於亞特蘭大的公司表示，其碳痠軟飲料銷量增長5%，其中Coca-Cola Zero Sugar增長16%，健怡可樂增長6%。不過在北美，可口可樂汽水的增長被水、運動飲料、咖啡和茶飲銷量下降所抵消。北美銷量持平，低於分析師平均預期的增長2.3%。
-
----
-
-### 2026-10-27 19:50:36  #MKT News
-
-Saudi authorities said the danger in Riyadh has been neutralized.
-
----
-
-### 2026-10-27 19:50:17  #其他
-
-沙烏地阿拉伯稱阿爾卡吉的危險已解除。
-
----
-
-### 2026-10-27 19:49:40  #其他
-
-沙烏地阿拉伯稱利雅得市的危險已經過去。
-
----
-
-### 2026-10-27 19:49:37  #MKT News
-
-The National Bank of Serbia said it does not expect changes to monetary or foreign-exchange policy.
-
----
-
-### 2026-10-27 19:49:36  #宏觀 #焦點
-
-【10月27日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.習近平致電祝賀盧拉當選連任巴西總統； 2.習近平向日本前首相福田康夫遺屬致唁電； 3.【持之以恆推進全面從嚴治黨】以優良作風厚植黨的執政根基； 4.前三季度規模以上工業企業利潤實現較快增長； 5.各地重大水利工程加快建設； 6.【在希望的田野上】各地秋收秋種有序推進； 7.我國風電光伏累計裝機容量突破20億千瓦； 8.第140屆廣交會第二期線下展今天閉展； 9.城市公交通行 模式活起來服務暖起來； 10.國內聯播快訊： （1）前三季度西部陸海新通道沿線經通道進出口超7870億元； （2）第三季度全國農產品質量安全狀況保持穩定； （3）民政部部署開展“寒冬送溫暖”專項救助行動； （4）前三季度全國環境空氣質量總體向好； （5）我國首條至冰島定期客運航線正式開通； （6）新建銀川至巴彥浩特鐵路正式啟動聯調聯試； （7）2026年電影票房超315億元； 11.全面從嚴治黨為世界政黨治理提供重要借鑑——國際人士高度關注中國共產黨二十屆五中全會； 12.紀念東京審判開庭80週年圖片展在紐約聯合國總部開幕； 13.國際聯播快訊： （1）俄烏在阿列什基實行人道主義停火； （2）胡塞武裝稱打擊沙特軍隊和機場等目標； （3）伊沙土巴四國同意磋商以加強安全合作； （4）歐洲天然氣價格升至近四年來最高水平。
-
----
-
-### 2026-10-27 19:49:31  #其他
-
-匈牙利對亞當·馬托爾奇發出國際逮捕令。
-
----
-
-### 2026-10-27 19:48:29  #MKT News #Commodities #Energy
-
-Tanzania's energy minister said gas resources estimated at 223 billion cubic feet (bcf) were discovered at Mnazi Bay.
-
----
-
-### 2026-10-27 19:48:11  #國際
-
-俄羅斯總統普京談歐洲：歐洲拒絕俄羅斯能源供應並終止長期合同，這是在打擊自身的工業和社會部門。要知道，俄羅斯有句俗話，“別給別人挖坑，否則你可能自己掉進去。”在我看來，歐盟國家當前正是這種情況。
-
----
-
-### 2026-10-27 19:47:58  #市場
-
-【沙特股指有望創下九年多以來最大兩日漲幅】沙特全股指數一度上漲3.1%，有望創下2017年6月以來最大兩日漲幅。本月早些時候的大跌令該指數進入超賣區間。利雅得時間該指數上漲2.1%，兩日累計漲幅達到5.9%。週二，Al Rajhi（+3%）和沙特阿美（+2.3%）對指數上漲貢獻最大。全股指數14日相對強弱指標週日跌至15，為2020年以來最低。部分技術分析師認為，指標低於30意味著標的下跌速度過快、跌幅過大。截至週日，沙特全股指數本月最大跌幅達9.6%，目前本月累計下跌4%。
-
----
-
-### 2026-10-27 19:47:30  #公司
-
-【上海萊士：前三季度淨利潤同比下降33.44%】上海萊士(002252.SZ)公告稱，第三季度營業收入為17.35億元，同比下降18.90%；歸屬於上市公司股東的淨利潤為3.18億元，同比下降27.93%。前三季度營業收入為49.44億元，同比下降18.83%；歸屬於上市公司股東的淨利潤為9.79億元，同比下降33.44%。
-
----
-
-### 2026-10-27 19:46:14  #其他
-
-【沙特首都利雅得傳出兩聲巨響】當地時間27日上午，在居民收到防空警報後，沙特首都利雅得上空傳來兩聲巨響。（央視）
-
----
-
-### 2026-10-27 19:45:51  #公司
-
-【軟通動力：智通國際簽訂1.9億美元合同】軟通動力公告，近期全資子公司智通國際資訊科技有限公司與A公司簽署國際貨物購銷合同，合同總金額為1.9億美元，銷售並交付30.9萬臺MECHREVO膝上型電腦並提供本地維修中心保修服務，最長交貨期為合同簽署之日起130個日曆日。
-
----
-
-### 2026-10-27 19:45:49  #國際
-
-據伊朗法爾斯通訊社：沙烏地阿拉伯首都利雅得傳出爆炸聲。
-
----
-
-### 2026-10-27 19:45:39  #MKT News #Important
-
-Iranian Fars news agency reported explosion sounds were heard in Riyadh, the capital of Saudi Arabia.
-
----
-
-### 2026-10-27 19:45:26  #國際
-
-【烏官員稱阿列什基停火將持續至11月1日】當地時間10月27日，烏克蘭最高拉達人民公僕黨議會黨團領導人阿拉哈米亞在其官方社交平臺發文表示，阿列什基停火將持續至11月1日。俄羅斯國防部於莫斯科時間10月27日4時（北京時間27日9時）釋出宣告稱，赫爾松地區阿列什基停火生效。烏克蘭最高拉達（議會）人權事務專員、烏方談判小組負責人也在社媒發帖確認，烏方已於同一時間停火。（央視新聞）
-
----
-
-### 2026-10-27 19:44:22  #其他
-
-L&T第二季度淨利潤為520.2億盧比，高於預期的457.6億盧比。
-
----
-
-### 2026-10-27 19:44:15  #公司
-
-【五方光電：2026年第三季度淨利潤2266.72萬元，同比增長160.42%】五方光電公告，2026年第三季度營業收入3.32億元，同比增長1.21%；淨利潤2266.72萬元，同比增長160.42%；扣非淨利潤2117.05萬元，同比增長208.85%。2026年前三季度營業收入9.51億元，同比增長1.13%；淨利潤3747.6萬元，同比增長3.21%；扣非淨利潤3118.98萬元，同比增長8.65%。
-
----
-
-### 2026-10-27 19:44:14  #公司
-
-【寧德時代：產能利用率仍將處於較高水平，保持較健康狀態】寧德時代10月27日在互動平臺表示，近年來公司根據市場需求加快產能建設進度，隨著今年產能的陸續投產，產能緊張程度有所緩解。但市場需求也在持續增長，整體而言，接下來產能利用率仍將處於較高水平，保持較健康的狀態。
-
----
-
-### 2026-10-27 19:43:42  #公司
-
-【美新科技：2026年第三季度淨利潤476.35萬元，同比下降21.22%】美新科技公告，2026年第三季度營業收入2.92億元，同比增長28.78%；淨利潤476.35萬元，同比下降21.22%；扣非淨利潤虧損21.75萬元。2026年前三季度營業收入8.22億元，同比增長22.26%；淨利潤2927.23萬元，同比增長3.09%；扣非淨利潤2366.42萬元，同比下降13.98%。
-
----
-
-### 2026-10-27 19:43:30  #公司
-
-【恆運昌：2026年第三季度淨利潤3916.02萬元，同比增長76.17%】恆運昌公告，2026年第三季度營業收入1.68億元，同比增長73.00%；歸母淨利潤3916.02萬元，同比增長76.17%；扣非淨利潤3570.35萬元，同比增長73.35%。2026年前三季度營業收入4.47億元，同比增長11.29%；歸母淨利潤9151.07萬元，同比下降0.07%；扣非淨利潤8603.87萬元，同比增長0.80%。
-
----
-
-### 2026-10-27 19:43:11  #其他
-
-姆巴佩道歉。（極目新聞）
-
----
-
-### 2026-10-27 19:42:18  #其他
-
-【中歐基金葛蘭三季度大幅加倉金斯瑞生物科技，四季度仍看好創新藥】中歐基金投資總監葛蘭最新前十大重倉股曝光，旗下獨管產品三季度淨值增長率大幅跑贏基準。10月27日，葛蘭旗下在管產品披露三季報。目前，葛蘭在管2只醫藥主題基金，分別是中歐醫療健康、中歐醫療創新。其中規模最大的產品是中歐醫療健康，截至2026年三季度末時的基金資產淨值為255.44億元。2025年7月，中歐醫療健康增聘趙磊為基金經理，與葛蘭共同管理該產品。（澎湃）
-
----
-
-### 2026-10-27 19:41:57  #公司
-
-【羅博特科：2026年第三季度淨利潤5492.86萬元，同比增長232.62%】羅博特科公告，2026年第三季度營業收入3.93億元，同比增長134.13%；歸母淨利潤5492.86萬元，同比增長232.62%；扣非淨利潤5429.21萬元，同比增長226.58%。2026年前三季度營業收入10.01億元，同比增長140.51%；歸母淨利潤6148.54萬元，同比增長182.26%；扣非淨利潤5817.25萬元，同比增長155.02%。
-
----
-
-### 2026-10-27 19:41:48  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Boeing earnings below expectations at -0.34 USD — Boeing (BA) released earnings per share at -0.34 USD, compared to market expectations of -0.14 USD.
-
----
-
-### 2026-10-27 19:41:39  #公司
-
-【羅博特科：擬以5000萬元至1億元回購公司股份】羅博特科公告，擬以自有資金或自籌資金透過集中競價方式回購公司A股股份，回購金額不低於5000萬元且不超過1億元，回購價格不超過803.46元/股，回購股份將全部登出並減少註冊資本。本方案尚需提交股東會審議。
-
----
-
-### 2026-10-27 19:41:35  #市場
-
-可口可樂股價抹去漲幅，盤前下跌1%。
-
----
-
-### 2026-10-27 19:41:19  #其他
-
-【首批商業不動產REITs三季報披露，平均年化現金流分派率6.5%】首批4單滬市商業不動產REITs近期完成上市後首份定期報告披露。報告期內，4只產品合計實現基金收入3.87億元、可供分配金額2.43億元，底層資產出租率普遍在95%以上，租金收繳率接近100%；截至三季度末，年化現金流分派率平均為6.5%。
-
----
-
-### 2026-10-27 19:41:04  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Point to Gains at the Open — US stock futures rose on Tuesday, with S&P 500 futures gaining 0.3%, Nasdaq 100 futures advancing 0.5% and Dow Jones futures climbing 130 points, extending gains from the previous session. Sentiment was supported by falling oil prices, while investors assessed fresh corporate developments ahead of the Federal Reserve’s monetary policy decision tomorrow. Nvidia rose 0.6% in premarket trading after announcing plans to invest $3 billion in Meta to expand their AI partnership, while Meta shares slipped 0.3%. Boeing gained 1.4% after narrowing its third-quarter loss, supported by stronger defense sales, while UPS advanced 1.5% after raising its revenue forecast. In contrast, Coca-Cola fell 0.4% as its results failed to impress investors despite beating earnings and revenue expectations. Alphabet and Amazon both edged up 0.4% ahead of their earnings reports later this week.
-
----
-
-### 2026-10-27 19:40:50  #公司
-
-【聲迅股份：2026年前三季度淨利潤虧損1862.75萬元，上年同期虧損314.16萬元】聲迅股份公告，2026年第三季度營業收入8700.63萬元，同比增長32.25%；歸屬於上市公司股東的淨利潤虧損619.82萬元，扣非淨利潤虧損578.38萬元。2026年前三季度營業收入1.86億元，同比增長34.24%；歸屬於上市公司股東的淨利潤虧損2082.21萬元，扣非淨利潤虧損2052.41萬元。前三季度淨利潤虧損1862.75萬元，上年同期虧損314.16萬元。
-
----
-
-### 2026-10-27 19:39:43  #公司
-
-【福事特：擬投4.5億元之內建設湖南製造基地】福事特公告，公司擬與寧鄉經濟技術開發區管理委員會簽訂專案落戶合同，在寧鄉市建設湖南製造基地，計劃總投資4.5億元之內（含流動資金）。公司第二屆董事會第十九次會議已審議透過該對外投資事項。
-
----
-
-### 2026-10-27 19:38:58  #其他
-
-【瑞銀丁月麗：AH股銅礦企業具備明確估值重估邏輯】瑞銀中國基礎材料行業研究主管丁月麗最新判斷，電氣化、電網投資和AI基礎設施拓寬銅需求，估計到2030年，AI資料中心及相關電力基礎設施可能貢獻全球銅需求增長的15%—20%。疊加礦石品位下降、專案建設週期長以及資本開支受限，預計未來3—5年甚至更長時間內，銅供應仍將偏緊。結構性需求和供應受限支撐13000美元/噸的銅價成為新常態，而非週期性高點。然而，AH股銅礦企業目前其PE約為海外同業的一半，EV/EBITDA也顯著折價，因此其估值重估的潛力較大。
-
----
-
-### 2026-10-27 19:38:24  #MKT News
-
-Saudi civil defense issued an alert over a potential hazard in Riyadh.
-
----
-
-### 2026-10-27 19:37:46  #MKT News #BA.O #Impact bearish
-
-【Boeing jet production issues weigh on Q3 results】Boeing reported Q3 revenue $24.19bln and GAAP loss per share $0.26; adjusted loss per share $0.34 versus analyst expected loss of $0.21. Commercial Airplanes revenue fell to $10.7bln; operating loss was $697m, with an operating margin of -6.5%. Management attributed the shortfall to weaker delivery profitability and rising production costs, including supply-chain inflation. Boeing said it still cannot lift 737 monthly output from 42 to 47, citing wing production as the bottleneck. Regulators approved the 737-7 and 737-10 models; Boeing also won the US Navy F/A-XX contract and posted a second consecutive quarter of positive free cash flow.
-
----
-
-### 2026-10-27 19:37:39  #其他
-
-沙烏地阿拉伯還針對阿爾卡吉釋出了潛在危險警報。
-
----
-
-### 2026-10-27 19:37:37  #MKT News
-
-Putin said he discussed cooperating with the US in the Arctic.
-
----
-
-### 2026-10-27 19:37:34  #公司
-
-【甬矽電子：2026年第三季度淨利潤虧損896.55萬元，同比由盈轉虧】甬矽電子公告，2026年第三季度營業收入13.71億元，同比增長18.23%；歸母淨利潤虧損896.55萬元，同比由盈轉虧；扣非淨利潤虧損3554.12萬元。2026年前三季度營業收入37.82億元，同比增長19.32%；歸母淨利潤3039.53萬元，同比下降51.85%；扣非淨利潤虧損4591.98萬元。
-
----
-
-### 2026-10-27 19:37:27  #其他
-
-坦尚尼亞能源部長宣佈，在姆納齊灣發現估計儲量達 2230 億立方英尺的天然氣。
-
----
-
-### 2026-10-27 19:37:26  #MKT News
-
-Iraq's military said a drone was intercepted near Baghdad's Green Zone.
-
----
-
-### 2026-10-27 19:37:07  #國際
-
-俄羅斯總統普京：討論與美國在北極的合作。
-
----
-
-### 2026-10-27 19:36:57  #MKT News #Important
-
-Russian President Putin said Russia is exploring the possibility of cooperation with U.S. partners.
-
----
-
-### 2026-10-27 19:36:51  #焦點 #國際
-
-普京：我們正在探索與美國合作伙伴合作的可能性。
-
----
-
-### 2026-10-27 19:36:47  #其他
-
-Artiva Bio報告第二例死亡，與試驗治療無關。
-
----
-
-### 2026-10-27 19:36:38  #公司
-
-【兩面針：2026年第三季度淨利潤虧損2722.74萬元，同比由盈轉虧】兩面針公告，2026年第三季度營業收入2.38億元，同比下降18.76%；歸母淨利潤虧損2722.74萬元，2025年同期為2857.45萬元，同比由盈轉虧；扣非淨利潤虧損747.26萬元，2025年同期為1069.3萬元，同比由盈轉虧。2026年前三季度營業收入7.12億元，同比下降12.65%；歸母淨利潤虧損3190.86萬元，2025年同期為2349.03萬元，同比由盈轉虧；扣非淨利潤虧損1407.48萬元，2025年同期為1550.43萬元，同比由盈轉虧。
-
----
-
-### 2026-10-27 19:36:35  #MKT News #Commodities #Energy
-
-Putin says Russia is open to cooperation in the natural gas sector.
-
----
-
-### 2026-10-27 19:36:33  #公司
-
-【兩面針：2026年第三季度旅遊牙膏均價同比增長11.89%】兩面針公告，2026年第三季度，公司家用牙膏產量630.12萬支、銷量653.92萬支、營業收入2990.64萬元；旅遊牙膏產量3.79億支、銷量3.49億支、營業收入3134.71萬元。家用牙膏、旅遊牙膏平均售價分別為45733.81元/萬支、898.93元/萬支，同比分別增長7.45%、11.89%；二氧化矽、山梨醇平均進價同比分別下降3.46%、1.17%。
-
----
-
-### 2026-10-27 19:36:22  #MKT News #Commodities #Energy
-
-Russian President Putin said gas-producing countries should strengthen coordination and discuss risks.
-
----
-
-### 2026-10-27 19:36:18  #其他
-
-沙烏地阿拉伯就利雅得的潛在危險發出警告。
-
----
-
-### 2026-10-27 19:36:01  #國際
-
-普京：俄羅斯願在天然氣領域開展合作。
-
----
-
-### 2026-10-27 19:35:58  #宏觀
-
-【進出口銀行完成2026年新型政策性金融工具投放】中國進出口銀行堅決貫徹落實黨中央、國務院決策部署，堅守政策性金融職能定位，高標準高質量完成2026年新型政策性金融工具投放任務，為我國穩投資穩預期，推動經濟動能向新、結構向優提供有力支撐。截至10月27日，進出口銀行新型政策性金融工具已支援專案超500個，投放金額1200億元，拉動總投資逾1.7萬億元，槓桿撬動作用顯著。(新華社)
-
----
-
-### 2026-10-27 19:35:42  #國際
-
-俄羅斯總統普京：天然氣生產國應協調立場、討論風險。
-
----
-
-### 2026-10-27 19:35:29  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Eases as Diplomacy Picks Up — Brent crude fell below $115 a barrel on Tuesday, following a 0.8% loss on Monday, as renewed diplomatic efforts raised hopes of ending the US-Iran war and easing pressure on energy markets. Iran’s Supreme Leader Mojtaba Khamenei called for an end to the current state of “neither war nor peace,” signaling a possible opening for negotiations. Officials from Saudi Arabia, Pakistan and Turkey met in Tehran on Monday and agreed to continue discussions, while Russian President Vladimir Putin was expected to meet Iran’s President Masoud Pezeshkian and Qatar’s emir in Moscow. These developments improved prospects for de-escalation, although significant risks remain. A Saudi-led coalition reported intercepting drones and ballistic missiles launched by Iran-backed Houthi rebels, while Hezbollah was reportedly preparing for renewed conflict in Lebanon. Investors are also monitoring upcoming elections, including in Israel, for potential implications for regional stability and oil supply.
-
----
-
-### 2026-10-27 19:34:33  #國際
-
-【俄烏開始在奧列什基區域性停火 擬撤離受困平民】俄羅斯和烏克蘭27日各自宣佈，在赫爾松地區的奧列什基開始區域性停火，以便人道主義行動的展開。俄美烏三方均未表示誰將監督停火，也沒有介紹相關人道主義行動的細節。（新華社）
-
----
-
-### 2026-10-27 19:34:31  #其他
-
-【標普全球評估Capital IQ等資料業務的未來安排】標普全球已啟動戰略評估，研究針對Capital IQ及相關資料業務的各種方案，包括可能剝離這些業務。這些業務構成標普全球市場財智旗下Kensho Data & Platforms的大部分業務。
-
----
-
-### 2026-10-27 19:34:05  #國際
-
-俄羅斯總統普京：我們需要增加天然氣供應。
-
----
-
-### 2026-10-27 19:34:03  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Falls for 2nd Session — Crude oil fell toward $100 a barrel on Tuesday, following a 1.5% loss on Monday, as renewed diplomatic efforts raised hopes of ending the US-Iran war and easing pressure on energy markets. Iran’s Supreme Leader Mojtaba Khamenei called for an end to the current state of “neither war nor peace,” signaling a possible opening for negotiations. Officials from Saudi Arabia, Pakistan and Turkey met in Tehran on Monday and agreed to continue discussions, while Russian President Vladimir Putin was expected to meet Iran’s President Masoud Pezeshkian and Qatar’s emir in Moscow. These developments improved prospects for de-escalation, although significant risks remain. A Saudi-led coalition reported intercepting drones and ballistic missiles launched by Iran-backed Houthi rebels, while Hezbollah was reportedly preparing for renewed conflict in Lebanon. Investors are also monitoring upcoming elections, including in Israel, for potential implications for regional stability and oil supply.
-
----
-
-### 2026-10-27 19:33:58  #公司
-
-【金禾實業：2026年第三季度淨利潤1.02億元，同比增長79.97%】金禾實業公告，2026年第三季度營業收入14.66億元，同比增長33.38%；歸母淨利潤1.02億元，同比增長79.97%；扣非淨利潤8718.58萬元，同比增長529.51%。2026年前三季度營業收入45.04億元，同比增長27.11%；歸母淨利潤3.58億元，同比下降8.48%；扣非淨利潤3.24億元，同比下降8.05%。
-
----
-
-### 2026-10-27 19:33:57  #其他
-
-無人機在巴格達綠區附近被攔截。
-
----
-
-### 2026-10-27 19:33:53  #其他
-
-【陳永慶出任西藏銀行行長人選，原系交行雲南省分行副行長】西藏銀行資訊顯示，陳永慶已出任該行黨委副書記、副董事長、行長人選。據瞭解，陳永慶原系交通銀行雲南省分行副行長。
-
----
-
-### 2026-10-27 19:33:32  #MKT News #Commodities #Energy
-
-Putin said Russia needs to optimize gas transport routes.
-
----
-
-### 2026-10-27 19:33:29  #MKT News #BA.N #Impact bullish
-
-Boeing (BA.N): 737 production is progressing toward a stable 47-per-month target. The 777X is still expected to see first delivery in 2027.
-
----
-
-### 2026-10-27 19:33:04  #公司
-
-【天地數碼：實控人韓瓊被訴，原告請求轉讓700萬股】天地數碼公告，實際控制人之一韓瓊收到法院傳票等訴訟材料，案件為離婚後財產糾紛，尚未開庭審理。原告請求將韓瓊持有的公司700萬股股票變更登記至女兒韓雨辰名下，並要求支付2025年度利潤分配中的455萬元。公司稱，本次訴訟對生產經營無重大影響，目前暫不會對公司控制權產生影響。
-
----
-
-### 2026-10-27 19:32:59  #MKT News #BA.N #Impact bullish
-
-Boeing (BA.N) reported third-quarter adjusted free cash flow of $464 million, above market expectations.
-
----
-
-### 2026-10-27 19:32:49  #國際
-
-俄羅斯總統普京：我們需要努力最佳化出口路線。
-
----
-
-### 2026-10-27 19:32:35  #MKT News #Commodities #Energy
-
-Putin said gas-exporting countries need to strengthen cooperation.
-
----
-
-### 2026-10-27 19:32:25  #MKT News #BA.N #Impact bullish
-
-Boeing (BA.N) reported third-quarter results; shares rose 1.4% in premarket trading.
-
----
-
-### 2026-10-27 19:32:23  #國際
-
-俄羅斯總統普京：天然氣出口國需要加強合作。
-
----
-
-### 2026-10-27 19:32:17  #國際
-
-美國9月建築許可最終資料環比下降0.4%；此前預期下降0.3%。
-
----
-
-### 2026-10-27 19:32:02  #公司
-
-【天地數碼：實控人韓瓊被訴，原告請求轉讓700萬股】天地數碼公告，實際控制人之一韓瓊收到法院傳票等訴訟材料，案件為離婚後財產糾紛，尚未開庭審理。原告請求將韓瓊持有的公司700萬股股票變更登記至女兒韓雨辰名下，並要求支付2025年度利潤分配中的455萬元。公司稱，本次訴訟對生產經營無重大影響，目前暫不會對公司控制權產生影響。
-
----
-
-### 2026-10-27 19:31:58  #公司 #市場
-
-【弘景光電：經營環境未發生重大變化】弘景光電公告，公司股票於2026年10月23日、10月26日、10月27日連續3個交易日收盤價格漲幅偏離值累計達到30%，屬於異常波動。公司稱生產經營情況及內外部經營環境未發生重大變化；向不特定物件發行可轉換公司債券申請已獲深交所受理，尚需深交所稽核及證監會同意註冊。
-
----
-
-### 2026-10-27 19:31:48  #MKT News #BA.N #Impact bullish
-
-Boeing (BA.N) said Q3 operating cash flow was $1.50 bln, versus market expected $1.24 bln.
-
----
-
-### 2026-10-27 19:31:47  #國際
-
-俄羅斯總統普京：任何將俄羅斯排除在全球天然氣市場之外的企圖都將帶來嚴重後果。
-
----
-
-### 2026-10-27 19:31:36  #MKT News #BA.N #Impact bearish #Dow
-
-Boeing (BA.N) Q3 commercial airplane revenue $10.72 bln vs $10.94 bln expected, a $220 mln miss.
-
----
-
-### 2026-10-27 19:31:14  #MKT News #BA.N #Impact bullish
-
-Boeing (BA.N) reported third-quarter revenue of $24.19 bln, above $23.85 bln expected.
-
----
-
-### 2026-10-27 19:31:08  #其他
-
-D.A. Davidson將博通（Broadcom Inc，AVGO.O）評級從“中性”上調至“買入”。
-
----
-
-### 2026-10-27 19:31:00  #公司 #市場
-
-波音公司公佈第三季度業績後，盤前股價上漲1.4%。
-
----
-
-### 2026-10-27 19:30:50  #市場 #國際
-
-俄羅斯總統普京：天然氣價格大幅上漲，但也可能大幅下跌。
-
----
-
-### 2026-10-27 19:30:45  #其他
-
-波音：787專案生產速率穩定在每月8架。第三季度商用飛機業務表現受交付結構不利、未來生產速率調整的預計成本上升以及供應鏈成本上升影響。
-
----
-
-### 2026-10-27 19:30:31  #其他
-
-波音第三季度全球服務業務營業利潤率為18.3%。
-
----
-
-### 2026-10-27 19:30:29  #公司
-
-波音公司：737專案繼續朝著每月47架的穩定生產目標推進。
-
----
-
-### 2026-10-27 19:30:24  #公司
-
-波音公司第三財季收入242億美元。
-
----
-
-### 2026-10-27 19:30:11  #公司
-
-波音公司第三季度調整後自由現金流為4.64億美元，高於預期3.251億美元。
-
----
-
-### 2026-10-27 19:30:07  #公司
-
-【上海國投先導參與投資的木瀾和聚基金完成備案】10月27日，據上海國投先導基金訊息，其參與投資的上海木瀾和聚私募投資基金合夥企業（有限合夥）完成備案，登記規模25.125億元，管理人為上海木瀾投資管理有限公司。LP陣容包括瀾起投資、中微半導體、聚辰股份三家產業資本以及地方國資平臺。
-
----
-
-### 2026-10-27 19:30:00  #市場
-
-【小米在武漢首個員工住宅開售，備案均價每平1.38萬】近日，小米生態鏈總經理陳波在微博釋出影片稱，小米首個員工住宅專案武漢“光谷夢享家”於10月25日正式開盤。該專案主要面向小米體系內員工銷售。從房管平臺公示資訊來看，專案整體備案均價為13885元/平方米，不同樓棟價格略有差別。1號樓為33層高層，主打三房戶型，備案均價13609元/平方米，房源總價區間為138.8萬元至180萬元；2、3、4號樓為小高層產品，備案均價在13884元/平方米-13892元/平方米，房源總價大多集中在183萬元至213萬元區間。有市場訊息顯示，小米員工內部價預計僅1.2萬元/平方米左右，但小米方面未予以證實。
-
----
-
-### 2026-10-27 19:29:34  #公司
-
-【天陽科技：2026年第三季度淨利潤917.56萬元，同比增長36.43%】天陽科技公告，2026年第三季度營業收入4.67億元，同比下降10.14%；歸母淨利潤917.56萬元，同比增長36.43%；扣非淨利潤895.47萬元，同比增長197.84%。2026年前三季度營業收入14.31億元，同比下降5.64%；歸母淨利潤6919.27萬元，同比增長19.78%；扣非淨利潤202.51萬元，同比下降66.20%。
-
----
-
-### 2026-10-27 19:29:28  #MKT News
-
-Hungary to submit its 2027 budget to parliament ahead of Friday.
-
----
-
-### 2026-10-27 19:29:12  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【India diesel exports set to surge, likely easing global supply tightness next year】India’s diesel exports are expected to rise sharply next year as new refining capacity comes online, potentially relieving shortages in markets from the US to Europe. Oil Minister Hardeep Singh Puri said state refiners will add at least 15 mln tonnes/year of diesel production through new refineries and expansions, allowing India to meet domestic demand and supply global markets.
-
----
-
-### 2026-10-27 19:29:06  #公司
-
-【樂通股份：控股股東一致行動人以股抵債致權益變動觸及5%】樂通股份公告稱，控股股東大晟資產之一致行動人優悅美晟所持947萬股質押股份（佔公司總股本4.52%）已完成以股抵債過戶，分別向崔佳過戶663萬股、向肖詩強過戶284萬股，同步解除質押，用於清償大晟資產相關債務。本次變動後，優悅美晟持股比例從4.52%降至不足0.01%，大晟資產及其一致行動人合計持股比例從29.35%降至24.83%，觸及5%整數倍，不會導致公司控股股東、實控人變更。目前大晟資產及其一致行動人累計質押、司法凍結股份佔其所持股份比例均超80%。
-
----
-
-### 2026-10-27 19:28:56  #宏觀
-
-匈牙利財政部長卡爾曼表示，匈牙利將於週五向議會提交2027年預算。
-
----
-
-### 2026-10-27 19:28:53  #MKT News
-
-A spokesperson for Argentine President Milei denied reports that Bolsonaro had entered Argentina.
-
----
-
-### 2026-10-27 19:28:19  #其他
-
-米萊發言人否認有關博索納羅進入阿根廷的報道。
-
----
-
-### 2026-10-27 19:28:06  #MKT News
-
-Egypt's supply minister said the government targets a 20% rise in domestic wheat procurement next season and aims to achieve wheat self-sufficiency by 2030.
-
----
-
-### 2026-10-27 19:27:40  #公司
-
-【崑崙金租“換帥”：劉興東已出任黨委書記、擬任董事長】崑崙金租官網資訊顯示，劉興東已出任公司黨委書記、擬任董事長，王明東出任公司黨委副書記、擬任總經理。在此之前，崑崙金租原黨委書記、董事長嚴九已於9月底調任崑崙信託黨委書記、擬任董事長；劉興東則原為崑崙金租黨委副書記、總經理，王明東原為崑崙銀行副行長、資訊長。
-
----
-
-### 2026-10-27 19:27:34  #公司
-
-【華體科技：2026年第三季度淨利潤虧損2754.32萬元】華體科技公告，2026年第三季度營業收入9431.14萬元，同比下降47.92%；歸母淨利潤虧損2754.32萬元，扣非淨利潤虧損3285.28萬元。2026年前三季度營業收入3.77億元，同比增長0.78%；歸母淨利潤虧損5576.12萬元，扣非淨利潤虧損5604.73萬元。
-
----
-
-### 2026-10-27 19:27:32  #國際
-
-供應部長稱埃及計劃到2030年實現小麥自給自足。
-
----
-
-### 2026-10-27 19:27:27  #市場
-
-通用汽車宣佈將交易所上市轉移至納斯達克後，其股價在盤前交易中上漲2.8%。
-
----
-
-### 2026-10-27 19:26:51  #公司
-
-【清研環境：2026年第三季度淨利潤虧損1971.01萬元，同比由盈轉虧】清研環境公告，2026年第三季度營業收入6670.97萬元，同比下降11.65%；歸母淨利潤虧損1971.01萬元，扣非淨利潤虧損1953.23萬元。2026年前三季度營業收入1.43億元，同比增長41.65%；歸母淨利潤虧損3725.77萬元，扣非淨利潤虧損3824.89萬元。
-
----
-
-### 2026-10-27 19:26:48  #公司
-
-【元隆雅圖：2026年第三季度淨利潤虧損788.25萬元，同比由盈轉虧】元隆雅圖公告，2026年第三季度營業收入5.19億元，同比下降36.95%；淨利潤虧損788.25萬元，扣非淨利潤虧損1139.59萬元，均同比由盈轉虧。2026年前三季度營業收入16.83億元，同比下降24.01%；淨利潤虧損1156.04萬元，扣非淨利潤虧損1702.31萬元，均同比由盈轉虧。
-
----
-
-### 2026-10-27 19:26:43  #公司
-
-【樂通股份：優悅美晟947萬股抵債過戶完成】樂通股份公告，控股股東大晟資產的一致行動人優悅美晟此前擬以質押股份抵債。本次公告稱，合計947萬股已過戶至崔佳、肖詩強名下並完成解除質押，以股抵債事項已完成。過戶後，大晟資產及優悅美晟合計持股降至5200.25萬股，佔公司總股本24.83%，權益變動觸及5%整數倍，控股股東、實際控制人未發生變更。
-
----
-
-### 2026-10-27 19:26:35  #公司
-
-【澄星股份：2026年第三季度淨利潤1.47億元，同比增長1,471.96%】澄星股份公告，2026年第三季度營業收入14.52億元，同比增長65.00%；歸屬於上市公司股東的淨利潤1.47億元，同比增長1,471.96%；扣非淨利潤1.42億元，同比增長2,433.90%。2026年前三季度營業收入35.9億元，同比增長35.15%；歸屬於上市公司股東的淨利潤2.65億元，同比增長848.20%；扣非淨利潤2.6億元，同比增長1,037.25%。
-
----
-
-### 2026-10-27 19:26:20  #公司
-
-【合肥城建：2026年第三季度淨利潤6398.48萬元，同比增長224.69%】合肥城建公告，2026年第三季度營業收入2.66億元，同比下降84.13%；淨利潤6398.48萬元，同比增長224.69%；扣非淨利潤虧損1.85億元。2026年前三季度營業收入36.19億元，同比下降43.07%；淨利潤虧損1.29億元，扣非淨利潤虧損3.89億元。公司稱，營業收入下降主要系本期交付專案減少、結轉收入減少；淨利潤下降主要系收入規模下降及存貨、信用減值損失計提增加。
-
----
-
-### 2026-10-27 19:26:09  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Closes Almost Muted — India’s BSE Sensex closed virtually unchanged at 73,598.7 after a choppy session on Tuesday, amid continued pressure from elevated crude oil prices and foreign fund outflows, while caution prevailed ahead of the US Federal Reserve’s policy decision. Weakness in banking and information technology stocks was cushioned by gains in auto and pharma stocks following upbeat earnings from companies in both sectors.Among individual stocks, SBIN (-1.6%), Axis Bank (-1.5%), Asian Paints (-1.4%), HDFC Bank (-1.2%) and ICICI Bank (-1%) emerged as the biggest laggards. On the upside, Bharti Airtel climbed 3.2% to the top of the index, on expectations of tariff hikes and stronger earnings ahead of Jio Platforms’ listing, scheduled for October 28. Other top performers included Maruti (2.3%), which reported higher second-quarter revenue despite a decline in net profit. Trent, Power Grid, Eternal, BEL ,Tata Steel and Sun Pharma also advanced solidly, rising between 1%-2.4%.
-
----
-
-### 2026-10-27 19:26:02  #公司 #市場
-
-標普全球股價盤前上漲2.1%，公司將重新評估部分業務的期權。
-
----
-
-### 2026-10-27 19:25:57  #MKT News
-
-A senior Ukrainian official said the Oleshky ceasefire will last until November 1.
-
----
-
-### 2026-10-27 19:25:49  #國際
-
-供應部長稱，埃及目標在下一季將當地採購的小麥增加20%。
-
----
-
-### 2026-10-27 19:25:41  #國際
-
-烏克蘭一名高階官員表示，奧列什基的停火將持續至11月1日。
-
----
-
-### 2026-10-27 19:25:27  #公司
-
-【中泰化學：2026年第三季度淨利潤374.58萬元，同比下降74.86%】中泰化學公告，2026年第三季度營業收入80.05億元，同比增長9.80%；歸母淨利潤374.58萬元，同比下降74.86%；扣非淨利潤1427.86萬元，同比增長754.50%。2026年前三季度營業收入233.71億元，同比增長10.00%；歸母淨利潤7859.06萬元，同比增長143.85%；扣非淨利潤虧損1909.11萬元。
-
----
-
-### 2026-10-27 19:24:43  #公司
-
-【迅遊科技：海知天、海貴天增持計劃時間過半，累計增持50000股】迅遊科技公告，重慶海知天科技合夥企業（有限合夥）、重慶海貴天企業管理合夥企業（有限合夥）此前計劃在增持計劃公告披露之日起6個月內合計增持不低於人民幣4000萬元（含）、不超過人民幣8000萬元（含）。截至公告披露日，計劃實施時間已過半，兩主體透過集中競價累計增持50000股，佔公司總股本的0.02%，合計增持金額為人民幣149.8萬元（不含交易手續費）。
-
----
-
-### 2026-10-27 19:24:41  #公司
-
-【達威股份：2026年第三季度淨利潤虧損927.68萬元】達威股份公告，2026年第三季度營業收入1.87億元，同比增長0.54%；歸母淨利潤虧損927.68萬元，扣非淨利潤虧損985.74萬元。2026年前三季度營業收入5.35億元，同比增長1.07%；歸母淨利潤虧損1794.57萬元，扣非淨利潤虧損1864.37萬元。
-
----
-
-### 2026-10-27 19:24:30  #其他
-
-【比亞迪商用車與密爾克衛達成戰略合作】10月26日，比亞迪商用車與密爾克衛戰略合作簽約暨車輛交付儀式在深圳坪山比亞迪六角大樓舉行。此次交付的比亞迪純電動牽引車Q3搭載600kWh刀片電池，綜合工況續航達450公里。
-
----
-
-### 2026-10-27 19:24:18  #國際
-
-俄羅斯總統普京抵達國際貿易中心，出席天然氣出口國論壇峰會。
-
----
-
-### 2026-10-27 19:23:31  #其他
-
-馬魯蒂鈴木高管：我們不得不進行一些價格上調，因為大宗商品價格並未回落。
-
----
-
-### 2026-10-27 19:23:27  #其他
-
-【招商證券梁廣楷：中國創新藥產業鏈正在發生三大新變化】招商證券生物醫藥首席分析師梁廣楷最新表示，中國創新藥產業鏈前端有AI與工程師紅利，中端有全球最完整的研發生產服務能力，後端有正在被國際市場驗證的原研管線。中國創新藥產業鏈正在發生三大新變化，中國企業正在將研發端、生產端與市場端緊密結合，加快發展生物醫藥新質生產力，讓更多創新藥走向全球市場。在研發端，人工智慧的應用正在加深。在生產端，隨著靶向蛋白降解劑、分子膠、多肽等複雜分子形式不斷湧現，化學合成與製劑開發的難度顯著增加，全球客戶對前沿工藝開發與質量控制的要求也隨之提高。在市場端，據不完全統計，2026年上半年創新藥產品內生收入同比增速中位數達25.0%。中國創新藥“出海”也正從前期的商務授權簽約，向後期臨床轉化與海外上市縱深推進。(人民財訊)
-
----
-
-### 2026-10-27 19:23:25  #其他
-
-【湖北釋出智慧建造產業發展三年行動計劃】2026國際（武漢）智慧建造產業博覽會10月27日在武漢光谷科技會展中心開幕，會上正式釋出《湖北省智慧建造產業發展三年行動計劃》，為湖北省智慧建造產業發展建立量化觀測標尺。此次釋出的行動計劃圍繞產業鏈培育、技術創新、場景落地等設定階段性任務，推動建築資訊模型、建築機器人、數字孿生等技術在工程建設全流程深度落地，打通設計、投資、建造、運營全鏈條。同步亮相會展的“智慧建造產業發展指數”，圍繞設計、建造、運維、供應鏈四大環節，從16個維度、52項指標，系統反映智慧建造在產品品質、產業效率和社會價值方面的發展水平，體現了產品化、工業化、數智化、綠色化導向。
-
----
-
-### 2026-10-27 19:22:59  #觀點 #國際
-
-【印度新增煉油產能明年投產 柴油出口將大增】隨著新煉油產能投產，印度柴油出口將在明年放量，為美國、歐洲等燃油緊缺市場送去亟需的供應。印度石油部長Hardeep Singh Puri週二表示，透過新建煉廠以及現有裝置擴建，國有煉油商將新增至少1500萬噸的年度柴油產能。他在果阿一場行業會議間隙對記者稱：“我們將迎來有利局面，不僅能滿足本國煉油需求，還可以供應全球。”這場市場動盪給印度帶來機遇。印度本就是全球主要柴油供應國之一，柴油是支撐農業、工廠與重型運輸的核心燃料。Kpler資料顯示，印度今年已超越俄羅斯，成為全球第二大柴油出口國。高盛預計全球柴油供應緊張局面將持續至2027年，本次煉廠擴建將進一步提升印度在全球燃油市場的份額。
-
----
-
-### 2026-10-27 19:22:26  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-S&P Global earnings below expectations at 4.58 USD — S&P Global (SPGI) released earnings per share at 4.58 USD, compared to market expectations of 4.71 USD.
-
----
-
-### 2026-10-27 19:21:44  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-QatarEnergy extended force majeure on Edison LNG through December.
-
----
-
-### 2026-10-27 19:20:56  #公司
-
-【德國總統體驗大眾在華自研電動汽車】今天（10月27日）上午，正在訪華的德國總統施泰因邁爾訪問了位於安徽合肥的大眾汽車（中國）科技有限公司，親身體驗了大眾集團基於中國創新優勢、在華自主研發的智駕電動汽車，見證中德汽車產業創新融合。（CCTV國際時訊）
-
----
-
-### 2026-10-27 19:20:27  #公司
-
-【隆揚電子：2026年第三季度歸母淨利潤2691.58萬元，同比下降0.89%】隆揚電子公告，2026年第三季度營業收入1.97億元，同比增長44.13%；歸母淨利潤2691.58萬元，同比下降0.89%；扣非淨利潤2573.95萬元，同比增長9.08%。2026年前三季度營業收入5.39億元，同比增長84.99%；歸母淨利潤6833.24萬元，同比下降16.38%；扣非淨利潤5296.63萬元，同比下降27.19%。
-
----
-
-### 2026-10-27 19:20:25  #公司
-
-【隆揚電子：2026年第三季度歸母淨利潤2691.58萬元，同比下降0.89%】隆揚電子公告，2026年第三季度營業收入1.97億元，同比增長44.13%；歸母淨利潤2691.58萬元，同比下降0.89%；扣非淨利潤2573.95萬元，同比增長9.08%。2026年前三季度營業收入5.39億元，同比增長84.99%；歸母淨利潤6833.24萬元，同比下降16.38%；扣非淨利潤5296.63萬元，同比下降27.19%。
-
----
-
-### 2026-10-27 19:20:08  #觀點
-
-摩根士丹利策略師認為，英鎊匯率已“幾乎反映了所有利好”，並警告投資者可能對預算案過於樂觀。
-
----
-
-### 2026-10-27 19:19:39  #MKT News #GBPUSD #Impact bearish #EURUSD
-
-【Institutions warn UK budget tightening could hit pound】UK budget tightening could dent the pound, market strategists warned. Morgan Stanley strategists said GBP has "almost priced in all the positives" and warned investors may be too optimistic; they see GBP/USD sliding to about 1.30 by year-end from roughly 1.33 now and expect further weakness next year. Markets expect Chancellor John Healey to unveil a fiscally cautious budget on Wednesday. Strategists at Spain's External Bank and Crédit Agricole also project year-end GBP/USD around 1.31 and flag potential sterling weakness versus the euro; the euro has been under pressure after recent turmoil in the French government bond market.
-
----
-
-### 2026-10-27 19:19:21  #公司
-
-【香港交易所披露檔案：騰訊減持雲跡科技 持股比例降至6.79%】香港交易所披露檔案顯示，騰訊出售北京雲跡科技股份，對雲跡的持股比例由7.15%降至6.79%。
-
----
-
-### 2026-10-27 19:18:41  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Raymond James raises Microsoft (MSFT.O) PT to $630 from $540.
-
----
-
-### 2026-10-27 19:18:36  #央行 #國際
-
-印度央行副行長普納姆·古普塔週二表示，包括印度在內的新興市場需要增強自身財政實力，並建立緩衝機制，以應對波動較大的外國資本流動。
-
----
-
-### 2026-10-27 19:18:17  #公司 #焦點
-
-卡達能源將愛迪生公司液化天然氣不可抗力延長至12月。
-
----
-
-### 2026-10-27 19:18:09  #公司
-
-【特力Ａ：2026年第三季度淨利潤3674.14萬元，同比下降7.19%】特力Ａ公告，2026年第三季度營業收入9835.13萬元，同比下降65.92%；淨利潤3674.14萬元，同比下降7.19%；扣非淨利潤3475.12萬元，同比下降13.50%。2026年前三季度營業收入3.91億元，同比下降66.53%；淨利潤1.21億元，同比下降1.76%；扣非淨利潤1.13億元，同比下降3.35%。
-
----
-
-### 2026-10-27 19:18:07  #其他
-
-Raymond James將微軟目標價從540美元上調至630美元。
-
----
-
-### 2026-10-27 19:17:58  #MKT News #DXY #Impact bullish
-
-【Reserve Bank of India deputy governor: Emerging markets must bolster domestic financing capacity】Reserve Bank of India deputy governor Punam Gupta said on Tuesday that external capital flows are highly unstable and emerging markets, including India, need to strengthen domestic financing capacity and build buffers to withstand volatile foreign flows. She urged countries to reduce macro-level reliance on external financing. Despite rapid Indian growth, foreign funding has become less reliable, increasing depreciation pressure on the rupee. Through the fiscal year to March, capital inflows weakened sharply, forcing India to draw on FX reserves to plug external financing gaps. Earlier this month the RBI unveiled a package of measures aimed at curbing market bets on excessive rupee depreciation.
-
----
-
-### 2026-10-27 19:17:11  #Trading Economics #Economy #Greece #Loan Growth #Importance 1
-
-Greece Credit Growth Slows to Lowest in Over 2 Years — The annual growth of total credit extended to the Greek economy slowed to 2.4% in September 2026, its weakest pace since January 2024, down from 3.5% in August. Despite this deceleration, net lending flows turned positive, reaching €744 million after a €250 million outflow in the previous month. Credit growth to the private sector eased to 6% from 7.3%, although monthly net flows improved markedly to €735 million from €489 million. Meanwhile, credit to the general government contracted at a faster annual pace of 3.6%, compared with 2.7% in August. However, monthly net flows turned marginally positive at €9 million, following a €250 million decline in the previous month.
-
----
-
-### 2026-10-27 19:17:07  #Trading Economics #Economy #Ireland #Producer Prices Change #Importance 0
-
-Ireland Wholesale Inflation Highest Since 2022 — Wholesale prices in Ireland rose 7.4% year-on-year in September 2026, marking the highest level since October 2022, accelerating from a 6.5% increase in August. Domestic prices increased 2.4%, while export producer prices rose 8.1%. Producer prices recorded notable year-on-year increases in chemicals and chemical products (16.5%), other non-metallic mineral products (6.3%), electrical equipment (6.1%), fabricated metal products excluding machinery and equipment (5.5%), and basic metals (5.1%). Food products rose 1.2%, driven by fish and fish products (9.6%) and other food products (6.3%), while meat and meat products fell 9.4%. Meanwhile, energy fuels surged 47.6%, electricity prices jumped 92.8%, and construction products rose 3.8%. On a monthly basis, wholesale prices rose 0.5% in September, reversing a 0.8% decline in August.
-
----
-
-### 2026-10-27 19:16:50  #MKT News #Market Regions #Emerging Markets
-
-India's 10-year government bond yield fell 5bps to 7.43%.
-
----
-
-### 2026-10-27 19:16:37  #公司 #市場
-
-【青島食品：華通集團擬向青啤集團轉讓29.24%股份，交易條款磋商中】青島食品公告，公司股票於2026年10月26日、2026年10月27日連續二個交易日收盤價格漲幅偏離值累計達到20%以上。經核查，控股股東華通集團正籌劃以非公開協議方式向青啤集團轉讓5701.76萬股公司股份，佔公司股份總數的29.24%；交易協議尚未簽署，雙方正在論證和磋商交易價格等核心條款。若交易完成，青啤集團將成為公司控股股東。
-
----
-
-### 2026-10-27 19:16:28  #其他
-
-【伊拉克首都巴格達傳出多次爆炸聲】當地時間27日，位於伊拉克首都巴格達南部的多拉區和巴格達東部的魯薩法區傳出多次爆炸聲，爆炸原因尚不明確。（央視新聞）
-
----
-
-### 2026-10-27 19:16:19  #市場 #國際
-
-印度10年期國債收益率下跌5個基點，至7.43%。
-
----
-
-### 2026-10-27 19:15:43  #MKT News
-
-RIA reported an attack in Russia's Belgorod region that killed one person.
-
----
-
-### 2026-10-27 19:15:30  #公司
-
-【中國石化提前發力為冬供蓄能】供暖季臨近，中國石化各單位按照集團公司黨組部署，以紮實舉措做好天然氣保供準備。從氣田到管網、從儲氣庫到LNG接收站，各單位抓實新井上產與老區穩產，倒排節點組織增產；對裝置設施進行專項檢維修，開展隱患排查治理；最佳化船期安排，提升接卸週轉效率，全力以赴守護千家萬戶溫暖過冬。（上海石油天然氣交易中心）
-
----
-
-### 2026-10-27 19:15:24  #國際
-
-俄羅斯別爾哥羅德州遭襲致一人死亡。
-
----
-
-### 2026-10-27 19:14:42  #公司
-
-【辰安科技：2026年第三季度淨利潤虧損6724.93萬元】辰安科技公告，2026年第三季度營業收入2.91億元，同比增長38.72%；淨利潤虧損6724.93萬元，扣非淨利潤虧損7056.03萬元。2026年前三季度營業收入8.68億元，同比增長13.09%；淨利潤虧損1.26億元，扣非淨利潤虧損1.38億元。
-
----
-
-### 2026-10-27 19:14:05  #國際
-
-【澤連斯基稱俄軍對烏克蘭基礎設施襲擊“嚴重升級”】烏克蘭總統澤連斯基27日在社交媒體發文稱，俄羅斯軍隊對烏克蘭基礎設施的襲擊“嚴重升級”。 澤連斯基表示，俄軍26日晚對烏克蘭一所大學及其周邊地區發動襲擊，已造成12人受傷，其中包括5名大學生和校方人員。烏方開展緊急救援工作時，俄軍發動了新一輪彈道導彈襲擊。 澤連斯基還稱，俄軍當天夜間發射了16枚彈道導彈和超過280架無人機。烏克蘭基輔州、文尼察州、扎波羅熱州等地報告遭到襲擊。俄軍的打擊目標為烏能源設施、物流設施和城市基礎設施。(新華社)
-
----
-
-### 2026-10-27 19:13:25  #其他
-
-【股票型ETF連續16個交易日淨流入】10月27日，多隻中證A500ETF成交顯著放量。從近期資金流向看，大量資金借道ETF入市。9月28日以來，截至10月26日，股票型ETF連續16個交易日淨流入，合計淨流入近3500億元。（上海證券報）
-
----
-
-### 2026-10-27 19:12:45  #MKT News
-
-【PBOC vice governor and SAFE head Zhu Hexin meets Peterson Institute delegation】PBOC vice governor and State Administration of Foreign Exchange (SAFE) head Zhu Hexin met visiting Peterson Institute for International Economics president Adam Posen, former De Nederlandsche Bank governor Klaas Knot and former Bank of Korea governor Lee Chang-yong to discuss the international economic and financial outlook; SAFE deputy governors Li Hongyan and Li Bin attended.
-
----
-
-### 2026-10-27 19:12:30  #公司
-
-【傑普特：2026年第三季度淨利潤2.33億元，同比增長114.15%】傑普特公告，2026年第三季度營業收入11.43億元，同比增長81.86%；歸母淨利潤2.33億元，同比增長114.15%；扣非淨利潤2.31億元，同比增長114.61%。2026年前三季度營業收入26.3億元，同比增長74.28%；歸母淨利潤4.28億元，同比增長109.99%；扣非淨利潤4.24億元，同比增長112.88%。
-
----
-
-### 2026-10-27 19:12:25  #公司 #國際
-
-【美企擬培育“超級軍犬”投入戰場】據美國《華爾街日報》網站10月23日報道，美軍長期寄望透過各類新技術，讓士兵在未來戰場上佔據優勢。如今有一家初創企業想讓軍犬也獲得類似優勢：透過對人類“最忠實的朋友”進行基因改造，使其跑得更快、嗅覺更靈敏，同時規避常見的遺傳性疾病。 打造“超級軍犬”的想法，最初由防務技術企業安杜里爾工業公司聯合創始人帕爾默·勒基，與生物工程企業科洛薩爾生物科學公司的聯合創始人本·拉姆共同提出。（參考訊息）
-
----
-
-### 2026-10-27 19:11:41  #公司
-
-【偉測科技：2026年第三季度淨利潤8754.19萬元，同比下降13.63%】偉測科技公告，2026年第三季度營業收入6.09億元，同比增長35.86%；歸母淨利潤8754.19萬元，同比下降13.63%；扣非淨利潤7058.47萬元，同比下降21.73%。2026年前三季度營業收入16.81億元，同比增長55.27%；歸母淨利潤2.47億元，同比增長21.94%；扣非淨利潤2.16億元，同比增長50.34%。
-
----
-
-### 2026-10-27 19:11:33  #公司
-
-【偉測科技：董事會透過10億元總部基地二期投資】偉測科技公告，公司此前已開展上海總部基地專案建設，本次擬投資10億元建設上海總部基地二期專案，包含土地出讓金、廠房建設及裝置購置費等。該事項已獲第三屆董事會第七次會議審議透過，專案目前尚處於准入申請環節，後續將參與土地使用權招拍掛並辦理相關審批或備案。
-
----
-
-### 2026-10-27 19:11:23  #央行 #其他
-
-【中國人民銀行副行長、國家外匯管理局局長朱鶴新會見彼得森國際經濟研究所代表團】近日，中國人民銀行副行長、國家外匯管理局局長朱鶴新會見來訪的彼得森國際經濟研究所長亞當·波森、荷蘭央行前行長克拉斯·諾特、韓國央行前行長李昌鏞。雙方就國際經濟金融形勢進行了交流。國家外匯管理局副局長李紅燕、李斌陪同會見。(外管局)
-
----
-
-### 2026-10-27 19:11:10  #MKT News #GLW.N #Impact bullish
-
-Corning (GLW.N) shares rose 2.9% premarket after the company said it expects fourth-quarter revenue and EPS to exceed expectations.
-
----
-
-### 2026-10-27 19:11:00  #公司
-
-【德賽西威：惠創投向惠州產投集團轉讓6%股份，剩餘70%價款限10個工作日內支付】德賽西威公告，公司此前披露，持股5%以上股東惠州市創新投資有限公司擬向惠州市產業投資集團有限公司協議轉讓3580.86萬股，佔公司總股本的6%。2026年10月27日，公司收到通知，受讓方已支付股份總轉讓價款30%作為履約保證金；雙方簽署補充協議，約定受讓方在補充協議簽訂之日起10個工作日內支付剩餘70%轉讓款人民幣22.53億元。本次轉讓尚需取得深交所合規性確認並辦理股份過戶登記。
-
----
-
-### 2026-10-27 19:10:58  #其他
-
-Needham將安靠科技（Amkor Technology）目標價從90美元下調至55美元。
-
----
-
-### 2026-10-27 19:10:56  #公司
-
-【立昂技術：2026年第三季度淨利潤357.38萬元，同比增長1,768.69%】立昂技術公告，2026年第三季度營業收入1.56億元，同比下降20.38%；歸母淨利潤357.38萬元，同比增長1,768.69%；扣非淨利潤334.73萬元，同比增長374.84%。2026年前三季度營業收入5.15億元，同比下降9.95%；歸母淨利潤虧損4534.55萬元，扣非淨利潤虧損4984.33萬元。
-
----
-
-### 2026-10-27 19:10:38  #公司
-
-【創業慧康：2026年第三季度淨利潤虧損1.14億元】創業慧康公告，2026年第三季度營業收入2.34億元，同比下降18.05%；歸屬於上市公司股東的淨利潤虧損1.14億元，扣非淨利潤虧損1.16億元。2026年前三季度營業收入6.88億元，同比下降20.13%；歸屬於上市公司股東的淨利潤虧損3.11億元，扣非淨利潤虧損3.2億元。
-
----
-
-### 2026-10-27 19:09:39  #MKT News #ENI.MI
-
-ENI CEO says it's too early to seek additional partners for Venezuela's Perla gas field.
-
----
-
-### 2026-10-27 19:08:45  #公司
-
-【ST諾泰：2026年第三季度淨利潤1.2億元，同比下降10.72%】ST諾泰公告，2026年第三季度營業收入6.08億元，同比增長26.92%；歸母淨利潤1.2億元，同比下降10.72%；扣非淨利潤1.23億元，同比下降6.19%。2026年前三季度營業收入17.47億元，同比增長14.43%；歸母淨利潤3.35億元，同比下降24.61%；扣非淨利潤3.72億元，同比下降14.89%。
-
----
-
-### 2026-10-27 19:08:44  #公司 #市場
-
-SOFI TECHNOLOGIES 股價盤前上漲 4.8%，此前公司上調了年度營收預期。
-
----
-
-### 2026-10-27 19:07:39  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper #CSI300
-
-【China's Canton Fair Phase II closes with 278,000 overseas buyers; attendance up 13.4%】The 140th Canton Fair's second-phase in-person exhibition closed as of 17:00 on Oct 27. 278,000 overseas buyers from 218 countries and regions attended, up 13.4% versus the previous comparable session. 152 overseas trade bodies and 384 leading buyer firms participated in delegations.
-
----
-
-### 2026-10-27 19:07:28  #央行 #其他
-
-巴西央行：家庭信貸不良資產已升至2012年以來的最高水平，且大多數貸款類別均出現這一趨勢。
-
----
-
-### 2026-10-27 19:07:09  #其他
-
-【西甲聯盟致歉】西甲聯盟稱：對於基利安·姆巴佩近期言論給中國球迷帶來的冒犯與傷害，西甲聯盟深感遺憾。相關言論屬於球員個人表達，絕不代表西甲聯盟的立場。作為聯賽管理機構，在我們應承擔的責任範圍內，西甲聯盟謹代表聯盟及旗下所有俱樂部，向中國球迷致以誠摯的歉意。 西班牙足球始終秉持尊重、和諧共處的理念，致力於促進不同文化背景的人們團結相連。我們始終對中國、各相關機構及中國人民懷有深切的敬意，也無比珍視數百萬中國球迷每週給予我們的關注與支援。我們在此重申，將一如既往地珍惜並維護多年來與中國建立的深厚關係。 目前，西甲聯盟正與中國的合作伙伴及相關機構共同努力，妥善處理此次事件。此外，我們將攜手各俱樂部及球員，建立並推行文化認知與溝通規範，進一步促進對不同文化的理解與尊重，努力避免類似情況再次發生。 （北京青年報）
-
----
-
-### 2026-10-27 19:06:41  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-IQVIA Holdings earnings above expectations at 3.34 USD — IQVIA Holdings (IQV) released earnings per share at 3.34 USD, compared to market expectations of 3.24 USD.
-
----
-
-### 2026-10-27 19:06:41  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-PayPal earnings above expectations at 1.45 USD — PayPal (PYPL) released earnings per share at 1.45 USD, compared to market expectations of 1.33 USD.
-
----
-
-### 2026-10-27 19:06:41  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-American Tower earnings above expectations at 1.64 USD — American Tower (AMT) released earnings per share at 1.64 USD, compared to market expectations of 1.59 USD.
-
----
-
-### 2026-10-27 19:06:40  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-HCA earnings below expectations at 7.22 USD — HCA (HCA) released earnings per share at 7.22 USD, compared to market expectations of 7.26 USD.
-
----
-
-### 2026-10-27 19:06:40  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Corning earnings above expectations at 0.91 USD — Corning (GLW) released earnings per share at 0.91 USD, compared to market expectations of 0.85 USD.
-
----
-
-### 2026-10-27 19:06:27  #公司 #市場 #國際
-
-【歐洲股市收復早盤跌幅，美伊重啟談判預期抵消滙豐財報利空】市場對美伊有望重啟談判以結束衝突的樂觀情緒，抵消了權重股滙豐控股不及預期的財報帶來的負面影響，歐洲股市回吐早前跌幅。倫敦時間上午11:01，斯托克歐洲600指數上漲0.2%。建築股與礦業股表現居前，個人護理板塊和能源板塊跌幅居前。伊朗最高領袖Mojtaba Khamenei表示願按照伊朗官員提出的條件推動結束衝突，布倫特原油下跌1%，報每桶115美元。個股方面，滙豐控股第三季度業績不及預期，且維持剩餘年度業績指引不變，股價下跌6.5%。保時捷股份公司儘管銷量再度大幅下滑，但盈利保持韌性，股價上漲4.5%。
-
----
-
-### 2026-10-27 19:05:45  #MKT News
-
-Brazil's central bank says corporate and household debt‑servicing capacity still faces challenges.
-
----
-
-### 2026-10-27 19:05:27  #其他
-
-【第140屆廣交會第二期線下展今日閉展 27.8萬名境外採購商到會】 今天，第140屆廣交會第二期線下展閉展。截至10月27日17時，共有來自218個國家和地區的27.8萬名境外採購商到會，比上屆同期增長13.4%；152家境外工商機構、384家頭部採購企業組團參會。（央視新聞）
-
----
-
-### 2026-10-27 19:05:07  #MKT News #DXY #Impact bearish
-
-【Westpac expects RBNZ to hike this week; OCR may reach 3.5% by Feb next year】Westpac expects the RBNZ to raise rates again this week, citing significant upside inflation risks versus the central bank’s prior forecasts and leaving scope for further tightening. Westpac forecasts another 25bps in December and a further hike in February next year that would lift the official cash rate to 3.5%, roughly the RBNZ’s estimate of neutral. Westpac expects the RBNZ to slow the pace of hikes thereafter.
-
----
-
-### 2026-10-27 19:05:03  #MKT News #DXY #Impact bearish
-
-【Survey: BOC may hike as inflation-rebound risk rises】Most economists in a Wall Street Journal survey expect the BOC to raise rates on Wednesday, the bank's first hike in over three years. Governor MACKLEM has highlighted rising fuel costs that could push up non-energy goods prices, a key driver of market expectations for tightening. The survey and analysts report higher inflation expectations among firms and households, prompting a bias toward earlier action. Despite US trade-policy uncertainty, Canada’s economy remains relatively resilient with retail sales and exports beating forecasts. In the WSJ poll of 15 economists, 11 forecast a 25bp hike to a 2.50% overnight rate target and four expect no change; most still see at least one additional hike later despite some soft patches in the economy.
-
----
-
-### 2026-10-27 19:04:59  #市場
-
-納指ETF國泰：本基金將於2026年10月28日開市起，至當日10:30停牌。
-全球晶片LOF：本基金將於2026年10月28日開市起停牌，自2026年10月28日10:30起復牌，停牌期間本基金贖回業務照常辦理。
-
----
-
-### 2026-10-27 19:04:58  #MKT News #Brent #Impact bullish #WTI
-
-NOVAK said Russia could reroute supplies and sell all its natural gas if Europe refuses.
-
----
-
-### 2026-10-27 19:04:40  #MKT News
-
-Brazil's central bank says there are no major risks to financial stability.
-
----
-
-### 2026-10-27 19:04:19  #國際
-
-俄羅斯副總理諾瓦克：若歐洲拒絕，俄羅斯可改道並售出全部天然氣。
-
----
-
-### 2026-10-27 19:04:16  #市場
-
-【康寧第三季度核心銷售額達50.8億美元，高於預期】康寧第三季度核心銷售額達50.8億美元，高於預期的50.2億美元。康寧盤前漲超5%。
-
----
-
-### 2026-10-27 19:04:13  #MKT News
-
-Brazil's central bank said the labor market remains hot, but some indicators show signs of cooling.
-
----
-
-### 2026-10-27 19:04:10  #MKT News
-
-Brazil's central bank said the economy has been expanding at a more moderate pace.
-
----
-
-### 2026-10-27 19:03:51  #公司
-
-【鈳銳鍶：科創板IPO發行價確定為45.37元/股】鈳銳鍶公告稱，公司首次公開發行股票並在科創板上市，經初步詢價及協商確定發行價格為45.37元/股，對應發行後扣非後市盈率41.86倍，未超出四數孰低值。本次發行股份1712.86萬股，佔發行後總股本25%，預計募集資金總額7.77億元。發行採用戰略配售、網下發行、網上發行結合方式，戰略配售342.572萬股，佔比20%；回撥前網下發行959.238萬股，網上發行411.05萬股。網上、網下申購日均為2026年10月29日，繳款日均為2026年11月2日。
-
----
-
-### 2026-10-27 19:03:40  #MKT News #Market Themes #Chip Wars
-
-Global Chip LOF will be suspended from market open on Oct 28, 2026 and will resume trading at 10:30 on Oct 28, 2026; redemptions will be processed normally during the suspension.
-
----
-
-### 2026-10-27 19:03:34  #公司
-
-【海正藥業：簽署小核酸授權協議，首付款1000萬元】海正藥業公告，公司與蘇州炫景生物及其全資子公司簽署專利技術平臺及產品授權合作協議，擬引進小核酸開發專利技術平臺及處於臨床前早期開發階段的RGN6669產品，取得合作產品全球權利及獨家開發、註冊、生產和商業化權益。協議約定首付款1000萬元，開發里程碑付款累計不超過3.48億元，銷售里程碑付款累計不超過6.3億元；議案已獲董事會審議透過，尚需提交2026年第四次臨時股東會審議。
-
----
-
-### 2026-10-27 19:03:25  #公司
-
-【海正藥業：2026年第三季度淨利潤5.09億元，同比增長214.61%】海正藥業公告，2026年第三季度營業收入20.45億元，同比下降23.47%；歸母淨利潤5.09億元，同比增長214.61%；扣非淨利潤4.68億元，同比增長176.63%。2026年前三季度營業收入65.21億元，同比下降17.70%；歸母淨利潤11.46億元，同比增長148.56%；扣非淨利潤9.82億元，同比增長100.11%。公司稱，利潤總額增長主要受主營業務盈利能力提升與一次性處置收益共同影響。
-
----
-
-### 2026-10-27 19:03:23  #MKT News #KO.N #Impact bullish
-
-Coca-Cola Co (KO.N) shares rose about 1% in premarket trading after the company raised its full-year profit guidance.
-
----
-
-### 2026-10-27 19:03:18  #MKT News
-
-Guotai NASDAQ ETF will suspend trading from market open on Oct. 28, 2026 until 10:30 a.m. that day.
-
----
-
-### 2026-10-27 19:03:13  #市場
-
-LME倫銅漲幅擴大，現漲1.0%，最新報14471.05美元/噸。
-
----
-
-### 2026-10-27 19:03:09  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Sherwin-Williams earnings above expectations at 3.63 USD — Sherwin-Williams (SHW) released earnings per share at 3.63 USD, compared to market expectations of 3.58 USD.
-
----
-
-### 2026-10-27 19:03:09  #公司
-
-【艾可藍：控股子公司十方雲與上海匯倫醫藥達成戰略合作】據艾可藍訊息，近日，艾可藍旗下的控股子公司十方雲（上海）科技有限公司（簡稱“十方雲”）與上海匯倫醫藥股份有限公司（簡稱“上海匯倫醫藥”）正式簽署戰略合作協議，雙方將圍繞共建“一體化AI科研患管平臺”，整合醫藥研發、臨床醫學資源與人工智慧、資料治理能力，共同構建覆蓋“科研—患管”全週期的AI一體化解決方案。
-
----
-
-### 2026-10-27 19:02:59  #其他
-
-【青茂口岸智慧通關啟用四個月 使用人數創新高】10月27日，記者從珠海出入境邊防檢查總站青茂邊檢站獲悉，青茂口岸智慧通關啟用滿四個月，執行整體平穩有序。使用智慧快捷通道通關人數達到約884萬人次，佔總客流約57%，粵澳往來更加便捷。 該便民舉措實施是在“合作查驗一次放行”通關模式上又一次創新突破，實現“刷臉”代替“刷證”，進一步簡化了粵澳兩地居民及旅客跨境往來流程，提升了通關體驗。截至10月27日，該口岸累計授權備案人數約26萬人次。（大灣區之聲）
-
----
-
-### 2026-10-27 19:02:43  #公司
-
-COINSHARES：為股票回購做準備，公司早前出售了公司持有的以太坊（1660萬），以及公司持有的50%的Solana。
-
----
-
-### 2026-10-27 19:02:34  #公司
-
-【泛亞微透：具身智慧相關產品目前尚處於客戶測試驗證】泛亞微透(688386.SH)釋出異動公告，具身智慧行業尚處於商業化早期，技術成熟度、下游市場需求培育、產業鏈配套能力均存在不確定性。同時，物理AI技術從實驗室演示走向真實場景的規模化落地仍面臨感知精度、運動控制穩定性、資料積累及軟硬體協同等多重挑戰，相關技術路徑與商業模式的成熟尚需時間驗證。在具身智慧行業公司依託ePTFE核心材料平臺主要佈局電子皮膚基材、高耐彎折機器人線纜兩大產品，公司相關產品目前尚處於客戶測試驗證，小批次出貨階段，其技術路線、研發進度、效能表現及商業化應用均需持續驗證，存在較大不確定性。截至本公告日，公司相關產品2026年銷售金額佔2025年度營業收入的比重不超過1.00%，該業務目前對公司整體營業收入和利潤貢獻較小，短期內不會對公司經營業績產生重大影響，敬請關注投資風險。
-
----
-
-### 2026-10-27 19:02:18  #MKT News #PYPL.O #Impact bearish
-
-PayPal (PYPL.O) is cutting more than 2,000 jobs and reducing management positions by over 25%.
-
----
-
-### 2026-10-27 19:02:12  #公司
-
-【福元醫藥：2026年第三季度淨利潤8761.94萬元，同比下降18.47%】福元醫藥公告，2026年第三季度營業收入9.13億元，同比增長2.97%；歸母淨利潤8761.94萬元，同比下降18.47%；扣非淨利潤7976.84萬元，同比下降22.99%。2026年前三季度營業收入26.23億元，同比增長4.07%；歸母淨利潤2.74億元，同比下降27.05%；扣非淨利潤2.5億元，同比下降30.87%。
-
----
-
-### 2026-10-27 19:02:10  #其他
-
-PAYPAL：裁員超2000人；管理崗位縮減超25%。
-
----
-
-### 2026-10-27 19:02:07  #其他
-
-貝寶：最佳化外部服務；整合供應商；優先考慮投資國家。
-
----
-
-### 2026-10-27 19:01:57  #其他
-
-貝寶（PAYPAL）：在未來2-3年內，目標實現至少15億美元的總執行率節省，到年底實現約7億美元的執行率節省。
-
----
-
-### 2026-10-27 19:01:51  #公司 #市場
-
-PAYPAL股價在第三季度財報釋出後盤前下跌4.4%。
-
----
-
-### 2026-10-27 19:01:42  #MKT News #Macro & Rates #DXY #Impact bearish
-
-Wall Street Journal survey: respondents say the BOC is eager to restore credibility around its 2% inf target; 11 of 15 economists expect a rate hike on Wednesday.
-
----
-
-### 2026-10-27 19:01:38  #國際
-
-俄羅斯副總理諾瓦克：（關於俄美柴油交易）第四艘裝載俄羅斯柴油的油輪將於10月28日啟程；目前另有3艘油輪正在途中。
-
----
-
-### 2026-10-27 19:01:30  #公司
-
-【*ST英飛：全資子公司訴訟調解結案，涉7000萬股質押】*ST英飛公告，全資子公司新普互聯此前就掌酷公司逾期債權及劉肇懷提供的質押股份提起訴訟。近日，新普互聯收到深圳市中級人民法院《民事調解書》，各方一審調解結案。掌酷公司確認截至2026年7月28日應償還1.14億元，並按協議分期償還；如未按期足額履行，新普互聯有權申請強制執行並就質押的7000萬股股票行使質權。相關調解事項尚在履行中。
-
----
-
-### 2026-10-27 19:01:23  #其他
-
-巴基斯坦KSE-100指數收漲0.9%，報164,467.20點。
-
----
-
-### 2026-10-27 19:01:16  #市場
-
-【華強北商家：記憶體條銷量大降】記者走訪廣東深圳華強北多家記憶體櫃檯，商家告訴記者，近期記憶體價格相比前期高點，出現了回撥，但是幅度都不大，16G、32G記憶體條分別下跌20元到50元，1T硬碟跌20元到30元，整體記憶體價格仍居高位。多位商家反映，10月份以來他們的銷量普遍下滑20%至30%，整個記憶體流通渠道甚至出現了價格倒掛的情況。(央視財經)
-
----
-
-### 2026-10-27 19:01:05  #公司
-
-【華天酒店：2026年第三季度歸母淨利潤虧損3611.57萬元】華天酒店公告，2026年第三季度營業收入1.44億元，同比下降0.85%；歸母淨利潤虧損3611.57萬元，扣非淨利潤虧損4091.15萬元。2026年前三季度營業收入3.84億元，同比下降3.44%；歸母淨利潤虧損1.49億元，扣非淨利潤虧損1.6億元。
-
----
-
-### 2026-10-27 19:01:00  #公司
-
-【中巖大地：2026年第三季度新簽訂單1.28億元】中巖大地公告，公司2026年第三季度新簽訂單14個，金額1.28億元；截至報告期末累計已簽約未完工訂單90個，金額5.92億元；三季度已中標尚未簽約訂單3個，金額641.77萬元。浙江金七門核電廠1、2號機組陸域形成基地及處理專案已完成專案施工的73.84%。
-
----
-
-### 2026-10-27 19:00:48  #公司
-
-【華鋒股份：暫緩投資建設2.1億元新疆專案】華鋒股份公告，公司此前擬由全資子公司與關聯方共同投資設立合資公司，建設年產400萬平方米高壓化成箔生產線，專案總投資2.1億元。目前專案建設用地已購置，並已投入部分建設資金。公司於2026年10月27日審議透過暫緩投資建設該專案，後續將根據市場情況及公司經營實際審慎研判是否繼續推進。
-
----
-
-### 2026-10-27 19:00:48  #MKT News
-
-Novak said on Russia-U.S. diesel shipments the fourth tanker carrying Russian diesel is due to depart on Oct. 28; three other tankers are currently en route.
-
----
-
-### 2026-10-27 19:00:45  #公司
-
-【華鋒股份：2026年前三季度歸母淨利潤虧損3023.82萬元，上年同期虧損992.68萬元】華鋒股份公告，2026年第三季度營業收入3.39億元，同比增長22.86%；歸母淨利潤虧損934.01萬元，扣非淨利潤虧損1134.49萬元。2026年前三季度營業收入9.21億元，同比增長6.85%；歸母淨利潤虧損3023.82萬元，上年同期虧損992.68萬元；扣非淨利潤虧損3143.16萬元。
-
----
-
-### 2026-10-27 19:00:42  #其他
-
-PAYPAL仍然預測全年資本支出大約10億美元，預估9.441億美元。
-
----
-
-### 2026-10-27 19:00:30  #公司
-
-【眾辰科技：2026年第三季度淨利潤4478.9萬元，同比下降8.44%】眾辰科技公告，2026年第三季度營業收入2.32億元，同比增長14.28%；歸母淨利潤4478.9萬元，同比下降8.44%；扣非淨利潤3628.38萬元，同比下降8.70%。2026年前三季度營業收入6.66億元，同比增長25.60%；歸母淨利潤1.42億元，同比增長1.66%；扣非淨利潤1.12億元，同比增長0.09%。
-
----
-
-### 2026-10-27 19:00:18  #其他
-
-PAYPAL預計全年調整後每股收益約為5.60美元，此前約為5.38美元。
-
----
-
-### 2026-10-27 18:59:49  #公司
-
-【衛寧健康：2026年第三季度淨利潤虧損6415.51萬元】衛寧健康公告，2026年第三季度營業收入4.88億元，同比增長6.81%；淨利潤虧損6415.51萬元，扣非淨利潤虧損6147.41萬元。2026年前三季度營業收入14.82億元，同比增長14.38%；淨利潤虧損2.41億元，扣非淨利潤虧損2.47億元。
-
----
-
-### 2026-10-27 18:59:44  #公司
-
-【浩物股份：2026年第三季度淨利潤1139.33萬元，同比下降7.70%】浩物股份公告，2026年第三季度營業收入5.07億元，同比下降30.20%；淨利潤1139.33萬元，同比下降7.70%；扣非淨利潤995.67萬元，同比增長21.35%。2026年前三季度營業收入15.15億元，同比下降30.61%；淨利潤3009.39萬元，同比下降29.65%；扣非淨利潤2470.24萬元，同比下降29.27%。
-
----
-
-### 2026-10-27 18:59:39  #公司
-
-【金固股份：2026年第三季度淨利潤587.6萬元，同比下降49.93%】金固股份公告，2026年第三季度營業收入9.1億元，同比下降5.46%；歸母淨利潤587.6萬元，同比下降49.93%；扣非淨利潤619.49萬元，同比下降36.72%。2026年前三季度營業收入32億元，同比增長3.72%；歸母淨利潤5014.52萬元，同比增長19.37%；扣非淨利潤4818.8萬元，同比增長36.90%。
-
----
-
-### 2026-10-27 18:59:37  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Johnson Controls earnings above expectations at 1.59 USD — Johnson Controls (JCI) released earnings per share at 1.59 USD, compared to market expectations of 1.52 USD.
-
----
-
-### 2026-10-27 18:58:58  #焦點 #國際
-
-卡達表示，伊朗需要開放霍爾木茲海峽，才能實現地區繁榮。
-
----
-
-### 2026-10-27 18:58:47  #Trading Economics #Markets #Germany #Government Bond 10Y #Importance 0
-
-European Bond Markets Mixed Ahead of Policy Decisions — European government bonds traded mixed, with Germany’s 10-year Bund yield easing to 3.34%, near its lowest level since early September, as renewed concerns over a prolonged Middle East conflict boosted safe-haven demand. Meanwhile, borrowing costs in France and Italy rose as investors took profits following sharp declines on Monday. French 10-year yields fell around 11 basis points on Monday after Moody’s affirmed the country’s sovereign credit rating. Weekend protests also passed without the widespread unrest seen the previous week, easing immediate concerns over domestic instability. Investors now await policy decisions from the European Central Bank and the US Federal Reserve. Both central banks are widely expected to keep interest rates unchanged this week, leaving markets focused on their forward guidance for clues about the future path of monetary policy.
-
----
-
-### 2026-10-27 18:58:35  #公司
-
-【八方股份：2026年第三季度淨利潤5103.92萬元，同比增長47.06%】八方股份公告，2026年第三季度營業收入4.6億元，同比增長17.57%；歸屬於上市公司股東的淨利潤5103.92萬元，同比增長47.06%；扣非淨利潤4739.27萬元，同比增長57.25%。2026年前三季度營業收入13.21億元，同比增長27.67%；歸屬於上市公司股東的淨利潤1.58億元，同比增長136.67%；扣非淨利潤1.48億元，同比增長176.70%。
-
----
-
-### 2026-10-27 18:58:31  #公司
-
-【華鑫股份：儀電集團擬轉讓26.99%股份，股票復牌】華鑫股份公告，2026年10月27日，儀電集團與國盛集團、國茂控股簽署股份轉讓框架協議，擬轉讓公司2.86億股A股股份，佔公司現有股份總數的26.99%。轉讓完成後，公司控股股東擬由儀電集團變更為國盛集團，實際控制人不變。公司股票自2026年10月28日開市起復牌。
-
----
-
-### 2026-10-27 18:58:29  #公司
-
-【天壕能源：2026年第三季度淨利潤5053.06萬元，同比增長89.09%】天壕能源公告，2026年第三季度營業收入6.3億元，同比增長10.66%；歸母淨利潤5053.06萬元，同比增長89.09%；扣非淨利潤4589.5萬元，同比增長51.16%。2026年前三季度營業收入20.37億元，同比增長4.92%；歸母淨利潤1.23億元，同比增長27.99%；扣非淨利潤9348.01萬元，同比增長4.05%。
-
----
-
-### 2026-10-27 18:58:26  #其他
-
-胡塞武裝：葉門武裝部隊用彈道導彈打擊了東部省拉斯坦努拉煉油廠。此次打擊精準，在目標地點引發大火。
-
----
-
-### 2026-10-27 18:58:12  #國際
-
-卡達：伊朗需展現“誠意”，停止對鄰國的威脅。
-
----
-
-### 2026-10-27 18:57:45  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Coca-Cola earnings above expectations at 0.91 USD — Coca-Cola (KO) released earnings per share at 0.91 USD, compared to market expectations of 0.88 USD.
-
----
-
-### 2026-10-27 18:57:35  #公司
-
-【鉑力特：2026年第三季度淨利潤5634.28萬元，同比下降29.07%】鉑力特公告，2026年第三季度營業收入4.9億元，同比下降0.79%；歸母淨利潤5634.28萬元，同比下降29.07%；扣非淨利潤4792.21萬元，同比下降27.26%。2026年前三季度營業收入12.6億元，同比增長8.54%；歸母淨利潤1.07億元，同比下降30.99%；扣非淨利潤6408.82萬元，同比下降41.33%。
-
----
-
-### 2026-10-27 18:57:34  #MKT News #Market Regions #Europe & UK
-
-【Zelenskiy says he spoke with Finnish, Norwegian leaders; preparing US-Russia-Ukraine trilateral meeting in November】Zelenskiy said he spoke with Finnish President Stubb and Norwegian Prime Minister Støre. He said both leaders had earlier spoken with Russia’s president and conveyed requests that Putin ease strikes on Ukrainian energy and infrastructure. The talks follow Oslo meetings with US, European and NATO representatives and included preparation for a US–Russia–Ukraine trilateral meeting planned for November, plus coordination with European partners to support diplomacy, bolster Ukraine’s defence and maintain shared security.
-
----
-
-### 2026-10-27 18:57:22  #國際
-
-以色列報道：截至中午12點，投票率為31.5%。
-
----
-
-### 2026-10-27 18:56:50  #其他
-
-卡達表示，該地區需要新的安全安排。
-
----
-
-### 2026-10-27 18:56:44  #其他
-
-可口可樂預計全年資本支出大約22億美元，此前預計22億美元。
-
----
-
-### 2026-10-27 18:56:33  #焦點 #國際
-
-【伊朗最高領袖會見最高國家安全委員會秘書雷扎伊】當地時間27日，伊朗最高領袖穆傑塔巴會見伊朗最高國家安全委員會秘書雷扎伊。穆傑塔巴表示，制定一份基於對每項行動的全面路線圖，是做出合理穩健決策的先決條件。加強民族凝聚力和團結、增進人民與官員之間的互信；利用憲法，賦予總統和行政機構的權力，協助其促進和加快解決國家問題；透過對霍爾木茲海峽的有效管控來維護國家和地區安全；在可持續和共同利益的基礎上加強與鄰國的關係，是本次會議討論的議題。穆傑塔巴認為，敵人的絕望是伊朗抵抗的成果之一，並強調要積極及時地傳遞資訊，使人民繼續參與保衛國家的鬥爭。同時要透過落實國家官員提出的各項需求，維護伊朗及整個抵抗陣線的權利和利益，以期結束戰爭。會議上，雷扎伊就國家各領域的現狀和正在開展的工作進行了彙報。（央視新聞）
-
----
-
-### 2026-10-27 18:56:19  #公司
-
-【能輝科技：2026年第三季度淨利潤虧損1852.73萬元，同比由盈轉虧】能輝科技公告，2026年第三季度營業收入1.56億元，同比增長30.81%；歸母淨利潤虧損1852.73萬元，扣非淨利潤虧損1964.97萬元。2026年前三季度營業收入4.56億元，同比下降55.26%；歸母淨利潤虧損4176.15萬元，扣非淨利潤虧損4506.83萬元。
-
----
-
-### 2026-10-27 18:56:16  #公司
-
-【聚飛光電：2026年第三季度淨利潤3941.41萬元，同比下降54.60%】聚飛光電公告，2026年第三季度營業收入9.45億元，同比增長1.77%；淨利潤3941.41萬元，同比下降54.60%；扣非淨利潤3067.95萬元，同比下降40.49%。2026年前三季度營業收入26.22億元，同比增長1.44%；淨利潤1.25億元，同比下降40.85%；扣非淨利潤7498萬元，同比下降45.17%。
-
----
-
-### 2026-10-27 18:56:09  #公司
-
-【萊伯泰科：2026年第三季度淨利潤516.69萬元，同比下降54.89%】萊伯泰科公告，2026年第三季度營業收入9432.5萬元，同比增長1.52%；歸母淨利潤516.69萬元，同比下降54.89%；扣非淨利潤387.21萬元，同比下降55.23%。2026年前三季度營業收入2.84億元，同比下降0.23%；歸母淨利潤1854.06萬元，同比下降43.03%；扣非淨利潤1500.44萬元，同比下降45.50%。
-
----
-
-### 2026-10-27 18:55:47  #公司
-
-可口可樂公司：2026年第三季度全球單位案例銷量增長5%。
-
----
-
-### 2026-10-27 18:55:38  #其他
-
-馬魯蒂鈴木高管：視1月份起的產能擴張計劃而定，我們有信心實現較去年下半年的兩位數增長。
-
----
-
-### 2026-10-27 18:55:36  #其他
-
-可口可樂展望本財年有機營收增長5%。
-
----
-
-### 2026-10-27 18:55:20  #其他
-
-可口可樂第三季度可比每股收益0.91美元，預估0.88美元；第三季度單位箱銷量+5％，預估+2.98％。
-
----
-
-### 2026-10-27 18:55:07  #其他
-
-可口可樂第三季度淨營收134億美元。
-
----
-
-### 2026-10-27 18:55:00  #公司
-
-【東南電子：前三季營收3.20億元 淨利同比增14.93%】東南電子公告稱，2026年第三季度實現營業收入1.16億元，同比增長33.23%；歸母淨利潤1608.88萬元，同比增長100.18%。2026年前三季度實現營業收入3.20億元，同比增長32.29%；歸母淨利潤3404.79萬元，同比增長14.93%。截至報告期末，公司股份回購方案已實施完畢，累計回購股份79萬股，佔總股本0.66%，成交總金額1417.29萬元。
-
----
-
-### 2026-10-27 18:54:43  #其他
-
-會議期間，伊斯蘭革命領袖稱敵人的絕望是國家抵抗的成果之一。
-
----
-
-### 2026-10-27 18:54:39  #公司
-
-【康希諾：2026年第三季度淨利潤1701.21萬元，同比下降39.08%】康希諾公告，2026年第三季度營業收入3.32億元，同比增長7.17%；淨利潤1701.21萬元，同比下降39.08%；扣非淨利潤507.14萬元，同比增長66.56%。2026年前三季度營業收入8.82億元，同比增長27.40%；淨利潤1629.13萬元，同比增長12.82%；扣非淨利潤虧損4497.72萬元。
-
----
-
-### 2026-10-27 18:54:04  #公司
-
-【朗特智慧：2026年第三季度淨利潤1550.85萬元，同比下降46.26%】朗特智慧公告，2026年第三季度營業收入4.37億元，同比增長4.47%；歸母淨利潤1550.85萬元，同比下降46.26%；扣非淨利潤2215.16萬元。2026年前三季度營業收入11.81億元，同比下降3.57%；歸母淨利潤2131.74萬元，同比下降75.32%；扣非淨利潤1835.32萬元。
-
----
-
-### 2026-10-27 18:54:00  #公司
-
-【逸豪新材：公司具備HVLP1-2製造能力 近期產品已陸續獲得客戶訂單】逸豪新材(301176)10月27日在互動平臺表示，公司HVLP銅箔具備HVLP1-2製造能力，近期產品已陸續獲得客戶訂單。公司積極佈局HVLP3-5的研發，相關產品已向客戶送樣，認證進度按計劃有序推進。
-
----
-
-### 2026-10-27 18:53:54  #MKT News #Market Regions #Emerging Markets
-
-Brazil's Ministry of Planning said the government's diesel subsidy will be extended for one month.
-
----
-
-### 2026-10-27 18:53:48  #國際
-
-泰國外長：東盟特使將於週三訪問緬甸。
-
----
-
-### 2026-10-27 18:53:16  #公司
-
-【“牛散”章建平夫婦買入東材科技、方正科技】10月27日晚，東材科技、方正科技分別釋出2026年三季報。與半年報相比，“牛散”章建平新進成為東材科技第三大股東，持股數量為2974.73萬股，佔公司總股本比例2.94%；章建平之妻方文豔新進成為方正科技第七大股東，持股數量為4069.94萬股，佔公司總股本比例0.92%。(中國證券報)
-
----
-
-### 2026-10-27 18:52:44  #國際
-
-據伊朗最高領袖網站27日釋出的宣告，伊朗最高領袖穆傑塔巴當天會見伊朗最高國家安全委員會秘書雷扎伊。（新華社）
-
----
-
-### 2026-10-27 18:52:27  #其他
-
-巴西規劃部在一份宣告中表示，柴油補貼將延長一個月。
-
----
-
-### 2026-10-27 18:51:48  #公司
-
-【陽光電源等在山西成立科技公司 含航空運營相關業務】企查查APP顯示，近日，山西億航科技有限公司成立，法定代表人為蔡長旺，註冊資本為1200萬元，經營範圍包含：大資料服務；資料處理和儲存支援服務；航空商務服務；航空運營支援服務；智慧無人飛行器製造等。企查查股權穿透顯示，該公司由交口縣國有資本運營有限公司、陽光電源旗下合肥靈陽新能源科技有限公司等共同持股。
-
----
-
-### 2026-10-27 18:51:47  #MKT News
-
-【Iran supreme leader urges implementation of conditions to end war】Iran supreme leader Mujtaba Khamenei met with Major General Rezai, secretary of the Supreme National Security Council, and discussed managing the Strait of Hormuz to safeguard national and regional security and deepening mutually beneficial bilateral ties with neighbouring states. Khamenei said Iran's enemies are in trouble due to sustained resistance, urged active, timely information releases to sustain public mobilisation in defence, and called for implementation of conditions set by Iranian officials to protect the rights and interests of the Iranian people and the 'resistance front' as the path to ending the war and the current 'neither war nor peace' status. Rezai said the security council secretariat is advancing strategic policy, including plans to establish regionally led arrangements and order.
-
----
-
-### 2026-10-27 18:51:42  #國際
-
-【伊朗最高領袖強調落實伊方條件，推動結束戰爭】伊朗最高國家安全委員會秘書、少將雷扎伊會見了伊朗最高領袖穆傑塔巴·哈梅內伊。會談中討論了透過對霍爾木茲海峽實施管理來維護國家及地區安全，以及基於持久互利鞏固與鄰國的雙邊關係。哈梅內伊表示，敵人陷入困境是伊朗堅持民族抵抗所取得的成果。他強調，應積極、及時地釋出資訊，以維持民眾持續參與保衛國家和體制的行動；同時，應透過落實伊朗官員提出的相關條件，爭取維護伊朗人民及抵抗陣線的權利和利益，以結束戰爭以及“既非戰爭、也非和平”的局面。雷扎伊表示，最高國家安全委員會秘書處正在推進伊朗的戰略政策，其中包括“建立由地區自身主導的地區安排與秩序”。
-
----
-
-### 2026-10-27 18:51:18  #公司
-
-【炬申股份：2026年第三季度淨利潤2828.2萬元，同比增長53.39%】炬申股份公告，2026年第三季度營業收入4.08億元，同比下降36.38%；淨利潤2828.2萬元，同比增長53.39%；扣非淨利潤2782.75萬元，同比增長56.97%。2026年前三季度營業收入13.07億元，同比增長0.31%；淨利潤5765.63萬元，同比下降2.68%；扣非淨利潤5672.13萬元，同比增長5.67%。
-
----
-
-### 2026-10-27 18:51:15  #公司
-
-【西上海：2026年第三季度淨利潤1279.5萬元，同比增長60.86%】西上海公告，2026年第三季度營業收入4.89億元，同比增長7.06%；歸母淨利潤1279.5萬元，同比增長60.86%；扣非淨利潤1065.25萬元，同比增長83.25%。2026年前三季度營業收入13.79億元，同比增長7.13%；歸母淨利潤4701.67萬元，同比增長5,365.43%；扣非淨利潤4247.63萬元，同比增長1,870.49%。
-
----
-
-### 2026-10-27 18:51:10  #國際
-
-美國地質調查局：萬那杜奧爾里港西北184公里處發生5.0級地震。
-
----
-
-### 2026-10-27 18:51:08  #公司 #市場
-
-【瑞達期貨：2026年第三季度淨利潤9736.86萬元，同比下降38.37%】瑞達期貨公告，2026年第三季度營業總收入2.61億元，同比下降20.73%；歸母淨利潤9736.86萬元，同比下降38.37%；扣非淨利潤1.03億元，同比下降33.38%。2026年前三季度營業總收入10.59億元，同比增長28.05%；歸母淨利潤5.07億元，同比增長31.53%；扣非淨利潤5.04億元，同比增長31.60%。
-
----
-
-### 2026-10-27 18:51:03  #公司
-
-【中順潔柔：2026年第三季度淨利潤1.42億元，同比增長78.05%】中順潔柔公告，2026年第三季度營業收入20.96億元，同比下降2.43%；淨利潤1.42億元，同比增長78.05%；扣非淨利潤1.42億元，同比增長70.96%。2026年前三季度營業收入65.06億元，同比增長0.43%；淨利潤3.68億元，同比增長59.84%；扣非淨利潤3.66億元，同比增長59.33%。
-
----
-
-### 2026-10-27 18:50:53  #公司
-
-【恆爍股份：2026年第三季度淨利潤6203.76萬元，前三季度2.02億元】恆爍股份公告，2026年第三季度營業收入2.25億元，同比增長70.78%；歸母淨利潤6203.76萬元，扣非淨利潤6017.89萬元。2026年前三季度營業收入7.53億元，同比增長146.22%；歸母淨利潤2.02億元，扣非淨利潤1.95億元。公司稱，受益於儲存晶片行業景氣度提升，儲存晶片營收規模擴大、毛利率顯著提高。
-
----
-
-### 2026-10-27 18:50:48  #公司
-
-【敦煌種業：2026年第三季度淨利潤虧損2587.73萬元】敦煌種業公告，2026年第三季度營業收入1.24億元，同比增長71.12%；歸母淨利潤虧損2587.73萬元，扣非淨利潤虧損2701.31萬元。2026年前三季度營業收入9.92億元，同比增長25.52%；歸母淨利潤1.19億元，同比增長219.13%；扣非淨利潤1.15億元，同比增長276.45%。
-
----
-
-### 2026-10-27 18:50:46  #公司
-
-【蘇墾農發：2026年第三季度淨利潤9241.32萬元，同比增長1.78%】蘇墾農發公告，2026年第三季度營業收入21.74億元，同比下降2.11%；歸母淨利潤9241.32萬元，同比增長1.78%；扣非淨利潤7038.53萬元，同比增長1.47%。2026年前三季度營業收入65.05億元，同比下降4.46%；歸母淨利潤2.36億元，同比下降22.25%；扣非淨利潤1.86億元，同比下降23.84%。
-
----
-
-### 2026-10-27 18:50:44  #公司
-
-【思瑞浦：Q3淨利潤同比增長402%環比增長49% 光模組等領域訂單與交貨規模穩步提升】思瑞浦(688536.SH)公告稱，前三季度實現營業收入26.92億元，同比增長75.87%；歸屬於上市公司股東的淨利潤6.10億元，同比增長384.33%。第三季度營業收入10.86億元，同比增長86.77%，環比增長20.23%；歸屬於上市公司股東的淨利潤3.03億元，同比增長401.54%，環比增長49.51%。公司單季度營收、淨利潤規模創歷史新高。業績增長主要系公司在光模組、汽車、工業等下游市場業務持續拓展，訂單與交貨規模穩步提升；同時公司持續精細化管控研發、銷售、管理等期間費用，費用增速得到有效控制。公司Q3淨利潤3.03億，Q2淨利潤2.02億，據此計算，Q3淨利潤環比增長49%。
-
----
-
-### 2026-10-27 18:50:42  #MKT News
-
-The Norwegian Nobel Committee welcomed Nobel Peace Prize laureate María Corina Machado's return to Venezuela.
-
----
-
-### 2026-10-27 18:50:35  #公司
-
-【海油發展：2026年第三季度淨利潤11.1億元，同比增長8.42%】海油發展公告，2026年第三季度營業收入128.39億元，同比增長13.12%；歸屬於上市公司股東的淨利潤11.1億元，同比增長8.42%；扣非淨利潤10.73億元，同比增長4.52%。2026年前三季度營業收入359.18億元，同比增長5.81%；歸屬於上市公司股東的淨利潤29.78億元，同比增長4.38%；扣非淨利潤28.13億元，同比下降1.65%。
-
----
-
-### 2026-10-27 18:49:53  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-U.S. Treasuries rose after a speech by Iran's leader.
-
----
-
-### 2026-10-27 18:49:47  #市場
-
-挪威郵輪和嘉年華郵輪的股價抹去跌幅，盤前轉為上漲。
-
----
-
-### 2026-10-27 18:49:40  #市場 #焦點 #國際
-
-伊朗領導人發表評論後，油價下跌，美國國債價格上漲。
-
----
-
-### 2026-10-27 18:49:27  #公司
-
-【樂山電力：2026年第三季度淨利潤3035.94萬元，同比下降53.24%】樂山電力公告，2026年第三季度營業收入7.56億元，同比下降2.57%；歸母淨利潤3035.94萬元，同比下降53.24%；扣非淨利潤2727.23萬元，同比下降54.54%。2026年前三季度營業收入22.89億元，同比下降4.59%；歸母淨利潤3725.8萬元，同比下降48.84%；扣非淨利潤3170.86萬元，同比下降52.15%。
-
----
-
-### 2026-10-27 18:49:25  #公司
-
-【4連板賽福天：人形機器人腱繩相關產品目前尚處於研發及客戶送樣驗證階段】賽福天(603028.SH)釋出股票交易異常波動公告，公司關注到近期市場上公司涉及“人形機器人概念股”相關內容。公司現有金屬製品類業務以鋼絲繩及索具的研發、生產和銷售為主，公司人形機器人腱繩相關產品目前尚處於研發及客戶送樣驗證階段，尚未實現規模化量產，未形成相應業務收入。該類產品的客戶驗證流程週期較長，驗證結果及後續合作推進存在不確定性，不排除出現技術指標未達客戶要求、客戶終止測試等情形，未來能否落地批次訂單、形成穩定業務規模存在較大不確定性。同時，相關業務後續在技術研發迭代、市場競爭拓展、持續盈利能力兌現等方面均存在重大不確定性。
-
----
-
-### 2026-10-27 18:49:20  #MKT News
-
-Zelenskiy said the leaders of Finland and Norway told Putin to scale back attacks on Ukraine's energy and infrastructure.
-
----
-
-### 2026-10-27 18:49:07  #MKT News
-
-Ukrainian President Zelenskiy said Stub and Steller briefed him on their calls with Russian President Putin.
-
----
-
-### 2026-10-27 18:48:43  #市場
-
-彭博美元現貨指數下跌，上漲0.2%，油價下跌。
-
----
-
-### 2026-10-27 18:48:40  #MKT News
-
-Zelenskiy said he discussed plans for trilateral talks between the US, Russia and Ukraine scheduled for November.
-
----
-
-### 2026-10-27 18:48:23  #MKT News #Market Regions #Europe & UK
-
-Ukraine President Zelenskiy said he held calls with Finland's Stubb and Norway's Støre.
-
----
-
-### 2026-10-27 18:47:54  #市場
-
-納斯達克100指數期貨延續漲勢，觸及盤中高點0.5%。
-
----
-
-### 2026-10-27 18:47:51  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-U.S. equity index futures rose: S&P 500 futures +0.3%, Nasdaq-100 futures +0.5%, Dow Jones futures +0.4%.
-
----
-
-### 2026-10-27 18:47:31  #MKT News
-
-Israeli Prime Minister Netanyahu said they are trying to steal the election from us.
-
----
-
-### 2026-10-27 18:47:30  #公司
-
-【鼎通科技：2026年第三季度淨利潤4193.18萬元，同比下降31.46%】鼎通科技公告，2026年第三季度營業收入5.09億元，同比增長36.89%；淨利潤4193.18萬元，同比下降31.46%；扣非淨利潤3329.2萬元，同比下降43.79%。2026年前三季度營業收入15.38億元，同比增長33.01%；淨利潤2.26億元，同比增長27.82%；扣非淨利潤2.08億元，同比增長24.87%。第三季度淨利潤下降主要受研發、市場相關投入增加，以及匯兌損失和利息增加影響。
-
----
-
-### 2026-10-27 18:47:28  #國際
-
-澤連斯基：討論了計劃於11月舉行的團隊級三方會談。
-
----
-
-### 2026-10-27 18:47:22  #公司
-
-【科倫藥業：蘆康沙妥珠單抗新適應症上市申請獲受理】科倫藥業(002422.SZ)公告稱，公司控股子公司科倫博泰核心產品TROP2ADC蘆康沙妥珠單抗(佳泰萊®)一項新適應症上市申請獲國家藥監局受理，用於聯合帕博利珠單抗一線治療PD-L1TPS＜1%的EGFR突變陰性和ALK陰性的區域性晚期或轉移性非鱗狀非小細胞肺癌成人患者。該申請為蘆康沙妥珠單抗獲受理的第七項適應症上市申請，基於3期OptiTROP-Lung06研究積極結果，該聯合療法在無進展生存期方面顯示出統計學和臨床意義的顯著改善。截至目前，該產品已有4項適應症在中國獲批上市，其中2項已納入醫保。
-
----
-
-### 2026-10-27 18:47:08  #其他
-
-內塔尼亞胡：他們正試圖從我們手中偷走選舉。
-
----
-
-### 2026-10-27 18:46:40  #市場 #國際
-
-美國股指期貨走高；標普500 E-mini期貨上漲0.3%，納斯達克100期貨上漲0.5%，道指期貨上漲0.4%。
-
----
-
-### 2026-10-27 18:46:30  #公司
-
-【樂奇Rokid釋出全綵AI眼鏡】10月27日，智慧眼鏡公司樂奇Rokid正式釋出全綵AI眼鏡Rokid Color與互動戒指Rokid Ring。其中，全綵AI眼鏡Rokid Color黑色2G+64GB官方售價4999元、玳瑁色4GB+64GB官方售價5499元；互動戒指Rokid Ring官方售價1699元。記者在現場瞭解到，兩款產品以全綵顯示與微手勢互動協同，推動AI眼鏡從單一的資訊提示工具邁向全新的個人AI互動終端。
-
----
-
-### 2026-10-27 18:46:25  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold recovered from intraday lows, last at $4,015/oz.
-
----
-
-### 2026-10-27 18:46:04  #市場
-
-標普500指數期貨延續漲勢，觸及盤中高點0.3%。
-
----
-
-### 2026-10-27 18:45:54  #國際
-
-澤連斯基：我與芬蘭總統斯圖布和挪威首相斯特勒進行了交談，此前他們與俄羅斯領導人通了電話，這也是我們在奧斯陸與美國、歐洲及北約代表討論的延續。感謝他們詳細通報情況，並積極支援我們的外交努力以及我們與所有夥伴共同推進的和平努力。
-
----
-
-### 2026-10-27 18:45:15  #其他
-
-芒果超媒第三季度淨利潤1,160萬元人民幣。
-
----
-
-### 2026-10-27 18:44:54  #公司
-
-馬魯蒂鈴木公司董事長：儘管今年爆發了戰爭，我們預計出口量仍將超過去年。
-
----
-
-### 2026-10-27 18:44:49  #國際
-
-據俄羅斯克里姆林宮網站27日訊息，俄羅斯總統普京當天與挪威首相斯特勒、芬蘭總統斯圖布通電話，三方對11月上半月在阿布扎比恢復有美國參與的烏克蘭問題會談表示歡迎。（新華社）
-
----
-
-### 2026-10-27 18:44:45  #公司
-
-【高凌資訊：被列入軍隊採購暫停處理名單】高凌資訊公告稱，公司因投標提供虛假材料，於2026年10月27日被軍隊採購網列入全軍範圍軍隊採購暫停處理名單，暫停公司參加軍採網軍隊物資工程服務採購活動資格，同時暫停法定代表人馮志峰等關聯人員相關採購參與資格。本次暫停處理時間暫未明確，涉及業務近3年營收佔比低於5%、毛利額佔比低於3%，對生產經營影響較小。公司將依規提起申訴，申訴結果存在不確定性。
-
----
-
-### 2026-10-27 18:44:21  #公司
-
-【瀚藍環境：前三季度淨利潤18.46億元，同比增長15.01%】瀚藍環境(600323)10月27日披露2026年三季報，公司第三季度營業收入40.29億元，同比增長1.40%；歸屬於上市公司股東的淨利潤6.40億元，同比增長0.24%。2026年前三季度營業收入117.66億元，同比增長20.84%；歸屬於上市公司股東的淨利潤18.46億元，同比增長15.01%。前三季度業績變動主要由於去年前三季度粵豐環保納入並表4個月（2025年6月—9月），今年前三季度同比新增1—5月份資料並表。粵豐環保2026年1—9月實現營業收入32.08億元，同比增加17.23億元。
-
----
-
-### 2026-10-27 18:43:21  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Royal Caribbean Cruises earnings above expectations at 6.57 USD — Royal Caribbean Cruises (RCL) released earnings per share at 6.57 USD, compared to market expectations of 6.33 USD.
-
----
-
-### 2026-10-27 18:43:04  #公司
-
-【正泰電器成立光伏發電公司】企查查APP顯示，近日，健泰（黃岡）光伏發電有限公司成立，法定代表人為朱煩，經營範圍包含：合同能源管理；光伏裝置及元器件製造；太陽能熱發電產品銷售；發電技術服務；電力電子元器件製造等。企查查股權穿透顯示，該公司由正泰電器間接全資持股。
-
----
-
-### 2026-10-27 18:42:56  #其他
-
-景順（INVESCO）於 2026 年 10 月 26 日簽署了 15 億美元的 5 年期定期貸款協議。
-
----
-
-### 2026-10-27 18:42:47  #公司
-
-【科陸電子：董事會透過收購上海東自34.9173%股權】科陸電子公告，公司及全資子公司擬以1.41億元收購上海東自34.9173%股權。公司董事會於2026年10月26日審議透過該議案，交易完成後，公司及全資子公司將合計持有上海東自100%股權。
-
----
-
-### 2026-10-27 18:42:45  #公司
-
-【科陸電子：2026年第三季度淨利潤虧損1.84億元】科陸電子公告，2026年第三季度營業收入22.69億元，同比增長124.11%；歸屬於上市公司股東的淨利潤虧損1.84億元，扣非淨利潤虧損2.14億元。2026年前三季度營業收入44.53億元，同比增長24.20%；歸屬於上市公司股東的淨利潤虧損4.03億元，扣非淨利潤虧損4.27億元。
-
----
-
-### 2026-10-27 18:42:42  #公司
-
-【易點天下2026年前三季度營收增長25.38%，AI驅動經營質量持續提升】易點天下（301171.SZ）披露2026年三季度報告。前三季度，公司實現營業收入34.07億元，同比增長25.38%；剔除匯兌損益和股份支付影響後的扣非歸母淨利潤2.05億元，同比增長27.70%；研發費用1.35億元，同比增長24.03%。
-
----
-
-### 2026-10-27 18:42:27  #MKT News #GM.O
-
-【General Motors to move listing from NYSE to Nasdaq on Nov. 17】General Motors (GM.N) plans to transfer its common stock listing from the New York Stock Exchange to Nasdaq on Nov. 17, seeking to bolster a tech-focused corporate image. The company expects its ticker to remain "GM" and says the move will make it eligible for Nasdaq-100 inclusion. Existing shareholders are not required to take any action.
-
----
-
-### 2026-10-27 18:42:22  #公司
-
-【彤程新材：2026年第三季度淨利潤1.33億元，同比下降7.09%】彤程新材公告，2026年第三季度營業收入11.28億元，同比增長29.87%；歸母淨利潤1.33億元，同比下降7.09%；扣非淨利潤1.29億元，同比下降8.41%。2026年前三季度營業收入32.64億元，同比增長29.37%；歸母淨利潤5.22億元，同比增長5.66%；扣非淨利潤4.9億元，同比增長4.99%。
-
----
-
-### 2026-10-27 18:42:13  #其他
-
-美、布兩油短線下挫約0.8美元，最新報100.94美元/桶和110.3美元/桶。
-
----
-
-### 2026-10-27 18:42:06  #市場
-
-瑞士運動品牌昂跑盤前跌超4%。
-
----
-
-### 2026-10-27 18:42:04  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-WTI and Brent briefly slid about $0.80; last at $100.94/bbl and $110.30/bbl.
-
----
-
-### 2026-10-27 18:41:31  #公司
-
-【科德教育：累計回購股份比例達2.02%】科德教育公告稱，公司回購股份方案已經股東會審議透過，擬使用不低於1億元且不超過2億元資金以集中競價方式回購股份，用於股權激勵或員工持股計劃，回購價格不超過23.27元/股，實施期限為股東會審議透過之日起12個月內。截至2026年10月27日，公司累計回購股份930萬股，佔總股本的2.02%，最高成交價22.50元/股，最低成交價17.18元/股，成交總金額1.80億元（不含交易費用）。後續公司將在回購期限內繼續推進回購計劃。
-
----
-
-### 2026-10-27 18:41:22  #市場
-
-標普500指數期貨最新漲幅為0.1%。
-
----
-
-### 2026-10-27 18:41:15  #市場 #國際
-
-歐洲斯托克600指數抹去了跌幅，交易基本保持不變。
-
----
-
-### 2026-10-27 18:41:10  #公司
-
-【烽雲科技：2026年上半年營收6.83億元 淨利潤3721.70萬元】烽雲科技公告稱，2025年度實現營業收入12.54億元，歸屬於母公司所有者的淨利潤4623.92萬元；2026年1-6月實現營業收入6.83億元，歸屬於母公司所有者的淨利潤3726.72萬元。截至2026年6月30日，公司總資產7.40億元，所有者權益合計1.70億元。
-
----
-
-### 2026-10-27 18:41:01  #市場 #國際
-
-貝萊德策略師表示，美國與伊朗衝突引發的能源價格大幅上漲，將對歐洲經濟產生持久的負面影響，但可能利好能源基礎設施企業。
-
----
-
-### 2026-10-27 18:40:59  #MKT News #Important
-
-Iran's supreme leader urged proposals for conditions acceptable to end the war.
-
----
-
-### 2026-10-27 18:40:35  #國際
-
-歐盟委員會主席：歐洲的升溫速度是全球平均水平的兩倍。要真正具備氣候韌性，我們需要在過程中不斷調整和學習。我們的歐洲氣候韌性框架將幫助我們預判、防範和管理氣候風險。具體做法是將氣候韌性納入歐盟各項政策，並支援投資、創新和長期增長。
-
----
-
-### 2026-10-27 18:40:05  #MKT News #Commodities #Energy #Market Regions #Europe & UK #WTI #Impact bullish #S&P500 #Impact bearish #DAX
-
-【BlackRock: Energy shock to leave long-term scars on European economy】BlackRock strategists said the US–Iran conflict-driven energy price surge will have a persistent negative impact on the European economy, while potentially benefiting energy infrastructure firms. They warned that buffers that absorbed the first-round shock earlier this year are fading and Europe is particularly vulnerable. Rising energy costs have knocked about 0.5% off euro-area GDP relative to a no-price-rise baseline. Strategists expect assets able to withstand future energy shocks—energy infrastructure—to attract increasing investor demand, and note that higher bond yields have depressed equities, leaving US and European utility stocks looking relatively attractive.
-
----
-
-### 2026-10-27 18:39:48  #公司
-
-【新特電氣：2026年第三季度淨利潤虧損176.01萬元，同比由盈轉虧】新特電氣公告，2026年第三季度營業收入1.5億元，同比增長14.34%；歸母淨利潤虧損176.01萬元，扣非淨利潤虧損337.07萬元。2026年前三季度營業收入4.07億元，同比增長25.88%；歸母淨利潤939.41萬元，同比下降75.10%；扣非淨利潤336.9萬元，同比增長359.67%。
-
----
-
-### 2026-10-27 18:39:02  #公司
-
-【九豐能源：前三季度淨利潤13.04億元，同比增長5.08%】九豐能源10月27日披露2026年三季報，公司第三季度營業收入47.80億元，同比下降7.73%；淨利潤3.54億元，同比下降6.97%。2026年前三季度營業收入144.15億元，同比下降7.65%；淨利潤13.04億元，同比增長5.08%。第三季度在國內LNG市場價格震盪上行的環境下，公司實現LNG生產與服務業務單噸毛利同比增長超70%；氦氣方面，公司持續提升終端直接覆蓋比例，銷量同比增長超200%。
-
----
-
-### 2026-10-27 18:38:47  #國際
-
-【“罕見直接接觸”，外媒：芬蘭總統和挪威首相與普京通話，討論俄烏衝突】據路透社、法新社報道，芬蘭總統斯圖布辦公室表示，斯圖布和挪威首相斯特勒27日與俄羅斯總統普京進行通話，三方討論了俄烏衝突，並稱這次通話“坦誠且具實質性”。（環球網）
-
----
-
-### 2026-10-27 18:38:38  #公司
-
-【秋田微：2026年第三季度淨利潤671.05萬元，同比下降46.21%】秋田微公告，2026年第三季度營業收入3.49億元，同比增長1.34%；歸母淨利潤671.05萬元，同比下降46.21%；扣非淨利潤435.35萬元，同比下降61.72%。2026年前三季度營業收入9.89億元，同比增長1.48%；歸母淨利潤4120.71萬元，同比下降35.34%，2025年前三季度為6373.17萬元；扣非淨利潤3518.22萬元，同比下降39.61%。
-
----
-
-### 2026-10-27 18:38:34  #公司
-
-【國儀公司：2026年第三季度淨利潤虧損7610.94萬元】國儀公司公告，2026年第三季度營業收入1.46億元，同比增長57.65%；淨利潤虧損7610.94萬元，扣非淨利潤虧損7921.28萬元。2026年前三季度營業收入4.04億元，同比增長53.35%；淨利潤虧損1.46億元，扣非淨利潤虧損1.57億元。
-
----
-
-### 2026-10-27 18:37:50  #公司
-
-【先河環保：智新達能擬增持不超過3億元人民幣】先河環保公告，控股股東河北智新達能新能源科技有限公司及董事、副總經理、董事會秘書時若棟擬自本公告披露之日起6個月內增持公司股份。智新達能增持金額不低於1.5億元人民幣（含）、不超過3億元人民幣（含）；時若棟增持金額不低於1000萬元人民幣（含）。二者擬透過集中競價交易、大宗交易等方式增持，資金來源為自有資金或自籌資金。
-
----
-
-### 2026-10-27 18:37:49  #資料
-
-【債券拋售潮及社會動盪衝擊下 法國消費者信心指數降至13年低點】受債券市場拋售及抗議活動演變為騷亂等多重衝擊影響，法國10月消費者信心指數跌至13年低點。法國統計機構Insee週二表示，這一月度指標下降5點至80，受訪者對自身財務狀況、生活水平和失業問題的擔憂加劇。這一數字低於預估中值85。在通脹反覆抬頭以及政治和預算局勢動盪的背景下，該指標已連續五年徘徊在長期均值100以下。最新資料尚未反映法國當前困局的全部影響，雖然統計截止日期為10月19日，但大多數回覆是在為期三週的調查期開始時收集的。
-
----
-
-### 2026-10-27 18:37:46  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Supreme Leader met Supreme National Security Council Secretary Rezaei to discuss war, national unity and management of the Strait of Hormuz.
-
----
-
-### 2026-10-27 18:37:42  #公司
-
-【四方達：2026年第三季度淨利潤1045.27萬元，同比增長64.74%】四方達公告，2026年第三季度營業收入1.79億元，同比增長21.59%；淨利潤1045.27萬元，同比增長64.74%；扣非淨利潤701.44萬元，同比增長301.58%。2026年前三季度營業收入5.53億元，同比增長35.77%；淨利潤8863.24萬元，同比增長48.80%；扣非淨利潤7697.24萬元，同比增長93.84%。
-
----
-
-### 2026-10-27 18:37:32  #公司
-
-【金徽酒：2026年第三季度淨利潤虧損3564.38萬元，同比由盈轉虧】金徽酒公告，2026年第三季度營業收入5.23億元，同比下降4.16%；歸母淨利潤虧損3564.38萬元，同比由盈轉虧；扣非淨利潤虧損2696.32萬元。2026年前三季度營業收入23.39億元，同比增長1.45%；歸母淨利潤1.78億元，同比下降44.90%；扣非淨利潤1.92億元，同比下降39.59%。
-
----
-
-### 2026-10-27 18:37:27  #焦點 #國際
-
-伊朗最高領袖提出結束戰爭的會面條件。
-
----
-
-### 2026-10-27 18:37:21  #其他
-
-【科陸電子與新加坡ERA簽署合作諒解備忘錄，共拓模組化光儲應用】10月27日，在新加坡國際能源週期間，科陸電子與新加坡可再生能源企業Equator Renewables Asia（ERA）就模組化光伏平臺SolarBox專案簽署合作諒解備忘錄，共同探索儲能與模組化光伏的協同應用。
-
----
-
-### 2026-10-27 18:37:10  #公司
-
-【縱橫通訊：2026年第三季度淨利潤526.08萬元，同比下降72.09%】縱橫通訊公告，2026年第三季度營業收入3.16億元，同比下降38.98%；淨利潤526.08萬元，同比下降72.09%；扣非淨利潤虧損53.42萬元。2026年前三季度營業收入12.99億元，同比下降1.20%；淨利潤2018.49萬元，同比下降34.02%；扣非淨利潤251.13萬元，同比下降73.88%。
-
----
-
-### 2026-10-27 18:37:08  #公司
-
-【均勝電子：2026年第三季度淨利潤2.19億元，同比下降46.98%】均勝電子公告，2026年第三季度營業收入137.96億元，同比下降10.98%；歸屬於上市公司股東的淨利潤2.19億元，同比下降46.98%；扣非淨利潤2.16億元，同比下降48.21%。2026年前三季度營業收入418.87億元，同比下降8.63%；歸屬於上市公司股東的淨利潤9.58億元，同比下降14.51%；扣非淨利潤8.71億元，同比下降22.39%。
-
----
-
-### 2026-10-27 18:36:56  #公司
-
-【三力士：2026年第三季度淨利潤虧損1058.6萬元，同比由盈轉虧】三力士公告，2026年第三季度營業收入2.32億元，同比下降15.07%；淨利潤虧損1058.6萬元，同比由盈轉虧。2026年前三季度營業收入7.61億元，同比增長6.59%；淨利潤虧損2215.27萬元，上年同期為2765.11萬元，同比由盈轉虧。
-
----
-
-### 2026-10-27 18:36:12  #其他
-
-【通用汽車將普通股上市地從紐交所遷至納斯達克】據10月27日宣告，通用汽車將把普通股上市地從紐交所遷至納斯達克全球精選市場，繼續沿用“GM”這一股票程式碼。納斯達克交易預計將於當地時間11月17日開始。
-
----
-
-### 2026-10-27 18:35:56  #市場
-
-通用汽車：股價上漲帶來被納入納斯達克100指數的潛在資格。
-
----
-
-### 2026-10-27 18:35:50  #公司 #市場
-
-皇家加勒比郵輪公司第四季度利潤預測低於預期，盤前股價下跌 2%。
-
----
-
-### 2026-10-27 18:35:42  #公司
-
-【廣日股份：2026年第三季度淨利潤1.55億元，同比下降11.39%】廣日股份公告，2026年第三季度營業收入17.36億元，同比增長2.10%；淨利潤1.55億元，同比下降11.39%；扣非淨利潤1.41億元，同比下降8.71%。2026年前三季度營業收入48.56億元，同比增長0.81%；淨利潤2.87億元，同比下降28.01%；扣非淨利潤3億元，同比下降10.16%。
-
----
-
-### 2026-10-27 18:35:33  #公司
-
-【光莆股份：2026年第三季度淨利潤513.42萬元，同比下降78.73%】光莆股份公告，2026年第三季度營業收入2.05億元，同比下降6.05%；淨利潤513.42萬元，同比下降78.73%；扣非淨利潤虧損2474.87萬元。2026年前三季度營業收入5.88億元，同比下降4.94%；淨利潤虧損1948.24萬元，扣非淨利潤虧損5662.52萬元。
-
----
-
-### 2026-10-27 18:35:28  #公司
-
-【賽恩斯：2026年第三季度淨利潤2326.02萬元，同比下降6.99%】賽恩斯公告，2026年第三季度營業收入2.91億元，同比增長14.53%；歸母淨利潤2326.02萬元，同比下降6.99%；扣非淨利潤2251.8萬元，同比下降9.01%。2026年前三季度營業收入8.43億元，同比增長24.48%；歸母淨利潤9135.88萬元，同比增長23.40%；扣非淨利潤8903.48萬元，同比增長23.72%。
-
----
-
-### 2026-10-27 18:35:15  #公司
-
-【五洲新春：2026年第三季度歸母淨利潤9.22億元，同比增長3,875.18%】五洲新春公告，2026年第三季度營業收入7.16億元，同比下降6.59%；歸母淨利潤9.22億元，同比增長3,875.18%；扣非淨利潤1468.33萬元，同比下降34.88%。2026年前三季度營業收入22.5億元，同比下降15.45%；歸母淨利潤9.83億元，同比增長898.01%；扣非淨利潤7044.11萬元，同比下降22.90%。
-
----
-
-### 2026-10-27 18:35:12  #國際
-
-伊朗最高領袖哈梅內伊與伊朗最高國家安全委員會秘書雷扎伊討論了團結及霍爾木茲管理問題。
-
----
-
-### 2026-10-27 18:35:04  #MKT News
-
-Israeli Prime Minister Netanyahu urged Israelis to "vote in the right way" as he cast his ballot.
-
----
-
-### 2026-10-27 18:34:56  #公司
-
-【邁為股份：2026年第三季度淨利潤3390.04萬元，同比下降87.41%】邁為股份公告，2026年第三季度營業收入12.37億元，同比下降37.84%；歸母淨利潤3390.04萬元，同比下降87.41%；扣非淨利潤1334.09萬元，同比下降94.13%。2026年前三季度營業收入41.46億元，同比下降33.16%；歸母淨利潤2.86億元，同比下降56.88%；扣非淨利潤1.29億元，同比下降78.22%。
-
----
-
-### 2026-10-27 18:34:48  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #WTI
-
-Kremlin: President Putin said EU and NATO's confrontational policies are prolonging the conflict.
-
----
-
-### 2026-10-27 18:34:45  #公司
-
-【國際復材：前三季度淨利潤同比增長371.19%】國際復材(301526.SZ)公告稱，第三季度營業收入為30.31億元，同比增長34.10%；歸屬於上市公司股東的淨利潤為6.46億元，同比增長1452.60%。前三季度實現營業收入79.95億元，同比增長24.66%；歸屬於上市公司股東的淨利潤為12.86億元，同比增長371.19%。歸屬於母公司所有者的淨利潤變動主要系報告期內業績同比上升。
-
----
-
-### 2026-10-27 18:34:43  #MKT News
-
-The Kremlin said President Putin told the leaders of Norway and Finland that peace is possible only if Russia’s interests are taken fully and unconditionally into account.
-
----
-
-### 2026-10-27 18:34:21  #國際 #兩會
-
-【何維會見歐洲議會左翼黨團代表團】全國人大常委會副委員長何維27日在京會見黨團聯合主席施爾德萬率領的歐洲議會左翼黨團代表團。雙方就鞏固中歐夥伴關係定位，加強立法機構交往和各領域互利合作，推動中歐關係健康穩定發展等交換意見。(新華社)
-
----
-
-### 2026-10-27 18:34:15  #MKT News #SPCX.O #Impact bullish
-
-BOFA Global Research added SpaceX (SPCX.O) to its list of preferred US stocks.
-
----
-
-### 2026-10-27 18:33:54  #國際
-
-克里姆林宮：普京表示，歐盟和北約的對抗政策正在延長衝突。
-
----
-
-### 2026-10-27 18:33:40  #公司
-
-【格力電器：京海互聯擬6個月內增持6億元至12億元】格力電器公告，持股5%以上股東京海互聯擬自公告披露之日起6個月內，透過集中競價交易和大宗交易增持公司股份，增持金額不低於人民幣6億元且不超過人民幣12億元。渤海銀行深圳分行承諾提供不超過人民幣9.9億元專項貸款，期限不超過3年。京海互聯目前持有公司4.39億股，佔總股本的7.83%。
-
----
-
-### 2026-10-27 18:33:33  #公司
-
-【正虹科技：2026年第三季度淨利潤虧損682.25萬元】正虹科技公告，2026年第三季度營業收入3.01億元，同比增長0.84%；歸母淨利潤虧損682.25萬元，扣非淨利潤虧損820.73萬元。2026年前三季度營業收入8.7億元，同比增長9.19%；歸母淨利潤虧損2752.08萬元，扣非淨利潤虧損2988.2萬元。
-
----
-
-### 2026-10-27 18:33:33  #MKT News #GM.N
-
-GM will move its listing from the New York Stock Exchange to Nasdaq.
-
----
-
-### 2026-10-27 18:33:31  #公司
-
-【華潤材料：2026年第三季度淨利潤823.7萬元，同比下降68.24%】華潤材料公告，2026年第三季度營業收入53.34億元，同比增長56.88%；歸母淨利潤823.7萬元，同比下降68.24%；扣非淨利潤虧損2354.04萬元。2026年前三季度營業收入124.43億元，同比增長20.85%；歸母淨利潤2.61億元，同比增加3.56億元，實現扭虧為盈。
-
----
-
-### 2026-10-27 18:33:28  #國際
-
-新加坡與印度尼西亞同意就森林火災問題組建聯合工作組。
-
----
-
-### 2026-10-27 18:33:21  #公司
-
-加拿大儲蓄保險局將以24.5億加元收購Bell Tower Infrastructure公司的股份。
-
----
-
-### 2026-10-27 18:33:12  #公司
-
-【德冠新材：2026年第三季度淨利潤1676.45萬元，同比下降24.80%】德冠新材公告，2026年第三季度營業收入5.05億元，同比增長36.87%；歸母淨利潤1676.45萬元，同比下降24.80%；扣非淨利潤1584.16萬元，同比下降10.43%。2026年前三季度營業收入13.9億元，同比增長25.74%；歸母淨利潤7770.17萬元，同比增長30.60%；扣非淨利潤7210.08萬元，同比增長46.05%。
-
----
-
-### 2026-10-27 18:33:07  #公司
-
-【華潤材料：簽訂採購框架協議，2027年上限18.92億元】華潤材料公告，公司於2026年10月27日與華潤飲料（控股）有限公司簽署聚酯瓶片PET採購框架協議，約定華潤飲料及其附屬公司2027年、2028年、2029年向公司採購聚酯瓶片PET的交易金額上限分別為18.92億元、20.82億元、22.9億元。協議已獲雙方董事會審議透過，尚需提交雙方股東會（股東特別大會）審議，具體交易以實際訂單為準。
-
----
-
-### 2026-10-27 18:33:03  #公司
-
-【中科創達：2026年第三季度淨利潤8989.56萬元，同比增長27.39%】中科創達公告，2026年第三季度營業收入26.64億元，同比增長44.12%；歸母淨利潤8989.56萬元，同比增長27.39%；扣非淨利潤6658.64萬元，同比增長4.66%。2026年前三季度營業收入69.68億元，同比增長35.37%；歸母淨利潤3.35億元，同比增長46.48%；扣非淨利潤3億元，同比增長50.11%。
-
----
-
-### 2026-10-27 18:33:00  #其他
-
-通用汽車將把股票上市地點從紐約證券交易所轉至納斯達克。
-
----
-
-### 2026-10-27 18:32:53  #公司
-
-【盛天網路：2026年第三季度淨利潤2169.07萬元，同比增長200.42%】盛天網路公告，2026年第三季度營業收入3.18億元，同比增長3.97%；歸母淨利潤2169.07萬元，同比增長200.42%；扣非淨利潤607.43萬元，同比增長118.19%。2026年前三季度營業收入8.81億元，同比下降6.03%；歸母淨利潤虧損9684.17萬元，上年同期為3070.53萬元，同比由盈轉虧；扣非淨利潤虧損1.15億元。
-
----
-
-### 2026-10-27 18:32:50  #其他
-
-【新疆阿克蘇地區庫車市發生3.6級地震】中國地震臺網正式測定：10月27日18時26分在新疆阿克蘇地區庫車市（北緯41.24度，東經83.74度）發生3.6級地震，震源深度18千米。
-
----
-
-### 2026-10-27 18:32:44  #公司
-
-【海航科技：2026年第三季度淨利潤3664.28萬元，同比增長44.61%】海航科技公告，2026年第三季度營業收入3.57億元，同比下降3.72%；歸屬於上市公司股東的淨利潤3664.28萬元，同比增長44.61%；扣非淨利潤6506.87萬元，同比增長368.68%。2026年前三季度營業收入12.71億元，同比增長21.52%；歸母淨利潤8154.16萬元，同比下降15.79%；扣非淨利潤1.08億元，同比增長58.91%。公司稱，全球幹散貨航運市場回暖、運營效率提高，帶動航運業務經營收益提升。
-
----
-
-### 2026-10-27 18:32:40  #公司
-
-【浙商中拓：2026年前三季度歸母淨利潤2.59億元，同比增長36.43%】浙商中拓公告，2026年第三季度營業收入641.11億元，同比增長1.03%；歸母淨利潤703.43萬元，扣非淨利潤2562萬元。2026年前三季度營業收入1900.15億元，同比增長11.37%；歸母淨利潤2.59億元，同比增長36.43%；扣非淨利潤1.58億元。
-
----
-
-### 2026-10-27 18:32:35  #國際
-
-伊朗安全部長會見最高領袖，討論戰爭問題。
-
----
-
-### 2026-10-27 18:31:50  #其他
-
-阿卡邁推出人工智慧推理服務測試版。
-
----
-
-### 2026-10-27 18:31:42  #市場
-
-挪威郵輪股價下跌1.6%，嘉年華郵輪股價下跌1%。
-
----
-
-### 2026-10-27 18:31:34  #MKT News
-
-Israel's Central Elections Committee says, contrary to reports, there is no systemic spoilage or tampering of ballots in the election.
-
----
-
-### 2026-10-27 18:31:01  #公司
-
-【中國外運：2026年第三季度歸母淨利潤9.51億元，同比增長29.88%】中國外運公告，2026年第三季度營業收入255.35億元，同比增長4.16%；歸母淨利潤9.51億元，同比增長29.88%；扣非淨利潤8.85億元，同比增長29.05%。2026年前三季度營業收入719.87億元，同比下降4.07%；歸母淨利潤26.76億元，同比下降0.12%；扣非淨利潤25.25億元，同比增長21.18%。
-
----
-
-### 2026-10-27 18:30:46  #其他
-
-通用汽車將把股票上市地點從紐交所轉至納斯達克。
-
----
-
-### 2026-10-27 18:30:12  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-The SENSEX Index Closes 0.01% Lower — The SENSEX Index fell 8 points or 0.01 percent on Tuesday to close at 73599 points. Leading the losses are ITC (-1.52%), Tata Consultancy (-1.37%) and Infosys (-1.27%). Top gainers were Bharti Airtel (2.94%), Power Grid (2.51%) and NTPC (1.78%).
-
----
-
-### 2026-10-27 18:30:07  #其他
-
-【深圳股交獲批私募股權投資和創業投資基金份額轉讓試點】中國證監會近日正式批覆，同意在深圳前海股權交易中心開展私募股權投資和創業投資基金份額轉讓試點，這是深圳區域性股權市場服務創新資本的關鍵突破。此次試點獲批，標誌著深圳股交具備了開展私募基金份額轉讓及相關配套服務的合規資質。深圳股交現已制定完成“1+N”業務規則體系，明確基金份額轉讓的掛牌條件、材料要求、交易方式及監管機制；同時，已上線業務系統，為私募基金份額交易提供綜合服務。深圳股交將進一步補齊深圳私募創投行業退出環節短板，打通“募投管退”良性迴圈通道，為創新資本“進得來、留得住、退得出”提供堅實的平臺支撐。
-
----
-
-### 2026-10-27 18:29:51  #公司
-
-港交所檔案：小米於10月27日回購200萬股B類股份，涉資5000萬港元。
-
----
-
-### 2026-10-27 18:29:46  #MKT News #UNH.N #Impact bullish
-
-Morgan Stanley raised its target price for UnitedHealth (UNH.N) to $531 from $529.
-
----
-
-### 2026-10-27 18:29:27  #MKT News
-
-Kremlin says talks in Abu Dhabi will discuss post-war security issues.
-
----
-
-### 2026-10-27 18:29:04  #公司
-
-【華新精科：2026年第三季度淨利潤2946.58萬元，同比下降20.94%】華新精科公告，2026年第三季度營業收入4.49億元，同比增長8.69%；淨利潤2946.58萬元，同比下降20.94%；扣非淨利潤2734.34萬元，同比下降27.46%。2026年前三季度營業收入11.62億元，同比下降0.19%；淨利潤9637.41萬元，同比下降28.94%；扣非淨利潤8359.21萬元，同比下降38.41%。
-
----
-
-### 2026-10-27 18:29:01  #公司
-
-【中塑股份：2026年第三季度淨利潤2805.4萬元，同比下降20.51%】中塑股份公告，2026年第三季度營業收入2.94億元，同比增長40.44%；歸屬於上市公司股東的淨利潤2805.4萬元，同比下降20.51%；扣非淨利潤2787.12萬元，同比下降17.14%。2026年前三季度營業收入7.37億元，同比增長34.85%；歸屬於上市公司股東的淨利潤8868.91萬元，同比下降6.08%；扣非淨利潤8677.68萬元，同比下降4.53%。
-
----
-
-### 2026-10-27 18:28:56  #公司
-
-【衛光生物：2026年第三季度淨利潤3684.18萬元，同比下降26.63%】衛光生物公告，2026年第三季度營業收入2.08億元，同比下降23.83%；淨利潤3684.18萬元，同比下降26.63%；扣非淨利潤3793.39萬元，同比下降22.82%。2026年前三季度營業收入6.57億元，同比下降16.95%；淨利潤8122.77萬元，同比下降48.54%；扣非淨利潤8128.17萬元，同比下降47.71%。
-
----
-
-### 2026-10-27 18:28:56  #MKT News
-
-Qatar Foreign Ministry spokesman said the efforts of Saudi Arabia and the Makkah Alliance countries complement those of Qatar and Pakistan.
-
----
-
-### 2026-10-27 18:28:09  #國際
-
-新加坡外長：我們對印度尼西亞的未來充滿信心，希望印尼取得成功。
-
----
-
-### 2026-10-27 18:28:07  #MKT News #XAUUSD #Impact bearish #WTI #S&P500 #Impact bullish
-
-Kremlin says US-Russia-Ukraine trilateral talks will resume in Abu Dhabi in November.
-
----
-
-### 2026-10-27 18:27:43  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Saudi media Hadath reported Houthi forces launched a ballistic missile from south of Sanaa.
-
----
-
-### 2026-10-27 18:27:40  #其他
-
-南亞新材：籌劃發行H股股票並在香港聯交所上市。
-
----
-
-### 2026-10-27 18:27:09  #國際
-
-克里姆林宮：俄羅斯總統普京、芬蘭總統斯圖布與挪威首相同意保持直接接觸。
-
----
-
-### 2026-10-27 18:26:48  #公司
-
-【經緯輝開：2026年第三季度歸母淨利潤1090.18萬元，同比增長146.70%】經緯輝開公告，2026年第三季度營業收入8.87億元，同比增長38.55%；歸母淨利潤1090.18萬元，同比增長146.70%；扣非淨利潤1026.24萬元，同比增長142.61%。2026年前三季度營業收入26.55億元，同比增長38.65%；歸母淨利潤虧損3029.04萬元，扣非淨利潤虧損2898.46萬元。收入增長主要因收購中興系統技術有限公司併入報表；利潤受複合銅箔專案終止及觸控顯示板塊毛利下降等因素影響。
-
----
-
-### 2026-10-27 18:26:45  #公司
-
-【升達林業：前三季營收5.16億元 淨利同比增538.73%】升達林業公告稱，2026年第三季度實現營業收入1.17億元，同比下降53.20%；歸母淨利潤3565.98萬元，同比增長545.60%。2026年前三季度實現營業收入5.16億元，同比下降28.00%；歸母淨利潤1.25億元，同比增長538.73%；扣非歸母淨利潤4823.34萬元，同比增長32.91%。業績變動主要系對蔡遠遠案終止確認債務並調整對升達集團應收款項減值準備，及成本、財務費用下降所致。此外，獨立董事何淑靜因任期屆滿辭職，公司已啟動董事會換屆選舉工作。
-
----
-
-### 2026-10-27 18:26:20  #公司 #國際
-
-【泰瑞機器：2026年前三季度境外收入佔比達65.2%】泰瑞機器公告稱，公司2026年第三季度業績說明會披露，2026年1-9月公司境外收入佔比提升至65.2%，主要集中在歐洲、南美、北美及亞洲等區域。2026年前三季度公司歸母淨虧損1141.20萬元，主要受營收規模下降導致毛利額減少、匯兌損失大幅增加綜合影響。2026年第三季度公司營業收入2.21億元，同比下降；截至三季度末公司合同負債較上年末增長86.68%。公司國內市場優先將產能傾斜至高毛利外銷市場，未跟進國內行業價格競爭。
-
----
-
-### 2026-10-27 18:26:14  #公司
-
-【凱文教育：前三季營收2.71億元 淨利同比增94.33%】凱文教育公告稱，2026年第三季度營業收入8736.87萬元，同比增長11.17%；歸母淨利潤85.97萬元，同比增長288.03%。2026年前三季度營業收入2.71億元，同比增長8.44%；歸母淨利潤185.90萬元，同比增長94.33%；扣非歸母淨利潤144.68萬元，同比增長554.43%。業績增長主要系教育服務業務盈利能力提升所致。
-
----
-
-### 2026-10-27 18:26:10  #公司
-
-【展鵬科技：2026年第三季度淨利潤虧損1696.05萬元】展鵬科技公告，2026年第三季度營業收入7454.88萬元，同比下降15.83%；淨利潤虧損1696.05萬元，扣非淨利潤虧損1530.39萬元。2026年前三季度營業收入2.5億元，同比增長10.23%；淨利潤虧損4954.43萬元，扣非淨利潤虧損5243.96萬元。
-
----
-
-### 2026-10-27 18:26:08  #公司
-
-【中信出版：2026年前三季度計提資產減值準備4291.73萬元】中信出版公告稱，公司對2026年9月30日存在減值跡象的應收款項、預付款項、存貨等資產進行減值測試，2026年前三季度合計計提資產減值準備4291.73萬元，其中信用減值準備68.91萬元、資產減值準備4222.82萬元。本次計提將減少公司2026年前三季度淨利潤4291.73萬元，相關財務資料未經審計。
-
----
-
-### 2026-10-27 18:25:53  #MKT News
-
-TASS reports Putin, Norway's prime minister and Finland's president discussed security in the Baltic and Nordic regions.
-
----
-
-### 2026-10-27 18:25:40  #國際
-
-【卡尼稱加美貿易談判“小幅回暖”】加拿大總理卡尼26日透露，加拿大與美國的貿易談判進展情況略有起色。美國總統特朗普日前接受採訪時同樣釋放樂觀訊號，稱美加貿易協議可能於11月3日美國國會改選、即中期選舉投票日前達成。訊息分析認為，美國關稅政策已“反噬”美國內政治、經濟等多個層面，特朗普政府為在中期選舉前提振共和黨選情，不得不重返美加貿易談判桌。(央視新聞)
-
----
-
-### 2026-10-27 18:25:34  #其他
-
-克里姆林宮：阿布扎比會談將討論衝突後的安全安排。
-
----
-
-### 2026-10-27 18:25:10  #公司
-
-【粵桂股份：2026年第三季度歸母淨利潤4.98億元，同比增長137.78%】粵桂股份公告，2026年第三季度營業收入16.01億元，同比增長104.06%；歸母淨利潤4.98億元，同比增長137.78%；扣非淨利潤4.97億元，同比增長140.85%。2026年前三季度營業收入39.43億元，同比增長83.96%；歸母淨利潤11.61億元，同比增長161.53%；扣非淨利潤11.58億元，同比增長164.05%。
-
----
-
-### 2026-10-27 18:25:09  #MKT News
-
-Israeli Prime Minister Netanyahu cast his ballot in Israel's election.
-
----
-
-### 2026-10-27 18:25:05  #公司
-
-【廣合科技：2026年第三季度淨利潤5.33億元，同比增長129.29%】廣合科技公告，2026年第三季度營業收入26.01億元，同比增長84.44%；淨利潤5.33億元，同比增長129.29%；扣非淨利潤5.25億元，同比增長132.48%。2026年前三季度營業收入69.9億元，同比增長82.25%；淨利潤14.88億元，同比增長105.59%；扣非淨利潤14.65億元，同比增長108.20%。
-
----
-
-### 2026-10-27 18:24:55  #公司
-
-【夢網科技：2026年第三季度淨利潤虧損4811.07萬元】夢網科技公告，2026年第三季度營業收入5.42億元，同比增長2.76%；淨利潤虧損4811.07萬元，扣非淨利潤虧損5018.22萬元。2026年前三季度營業收入16.65億元，同比下降19.44%；淨利潤虧損1.46億元，扣非淨利潤虧損1.56億元。
-
----
-
-### 2026-10-27 18:24:50  #公司
-
-【數字認證：2026年前三季度淨利潤虧損6475.78萬元】數字認證公告，2026年第三季度營業收入1.76億元，同比下降4.29%；淨利潤虧損1608.91萬元，扣非淨利潤虧損1876.74萬元。2026年前三季度營業收入5.16億元，同比增長1.34%；淨利潤虧損6475.78萬元，扣非淨利潤虧損6828.95萬元。
-
----
-
-### 2026-10-27 18:24:46  #公司
-
-【中信出版：2026年第三季度淨利潤2672.67萬元，同比下降32.61%】中信出版公告，2026年第三季度營業收入4.3億元，同比增長2.70%；歸母淨利潤2672.67萬元，同比下降32.61%；扣非淨利潤2492.17萬元，同比下降36.26%。2026年前三季度營業收入12.2億元，同比下降1.66%；歸母淨利潤1.04億元，同比下降35.48%；扣非淨利潤9762.64萬元，同比下降36.65%。
-
----
-
-### 2026-10-27 18:24:41  #焦點 #國際
-
-克里姆林宮：俄羅斯-美國-烏克蘭三方會談將於11月在阿布扎比恢復舉行。
-
----
-
-### 2026-10-27 18:24:34  #公司
-
-【潤貝航科：前三季度營收8.49億元 淨利同比增32.71%】潤貝航科公告稱，2026年第三季度實現營業收入2.76億元，同比下降2.47%；歸母淨利潤4461.41萬元，同比增長9.71%；扣非歸母淨利潤4398.47萬元，同比增長18.80%。2026年前三季度實現營業收入8.49億元，同比增長12.79%；歸母淨利潤1.56億元，同比增長32.71%；扣非歸母淨利潤1.54億元，同比增長36.47%；經營活動產生的現金流量淨額1.23億元，同比增長40.74%。
-
----
-
-### 2026-10-27 18:24:24  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-RIA reported that Putin, Norway’s prime minister and Finland’s president discussed a ceasefire in Oleshky.
-
----
-
-### 2026-10-27 18:23:52  #公司
-
-【長光華芯：2026年第三季度淨利潤2173.8萬元，同比增長81.63%】長光華芯公告，2026年第三季度營業收入2.42億元，同比增長92.86%；歸母淨利潤2173.8萬元，同比增長81.63%；扣非淨利潤1318.39萬元。2026年前三季度營業收入6.33億元，同比增長86.43%；歸母淨利潤5207.58萬元，同比增長148.66%；扣非淨利潤279.95萬元。
-
----
-
-### 2026-10-27 18:23:49  #公司
-
-【吉峰科技：2026年第三季度淨利潤虧損1265.52萬元】吉峰科技公告，2026年第三季度營業收入8.46億元，同比增長10.90%；歸屬於上市公司股東的淨利潤虧損1265.52萬元，扣非淨利潤虧損1385.09萬元。2026年前三季度營業收入24.5億元，同比增長10.15%；歸屬於上市公司股東的淨利潤虧損716.05萬元，扣非淨利潤虧損1048.42萬元。
-
----
-
-### 2026-10-27 18:23:38  #公司 #焦點
-
-【君正股份：2026年第三季度淨利潤14.19億元，同比增長2,595.49%】君正股份公告，2026年第三季度營業收入31.45億元，同比增長164.85%；歸母淨利潤14.19億元，同比增長2,595.49%；扣非淨利潤14.29億元，同比增長3,436.84%。2026年前三季度營業收入71.02億元，同比增長106.66%；歸母淨利潤26.16億元，同比增長922.95%；扣非淨利潤25.95億元，同比增長1,188.99%。
-
----
-
-### 2026-10-27 18:23:33  #公司
-
-【聯動科技：2026年第三季度淨利潤1945.79萬元，同比增長729.41%】聯動科技公告，2026年第三季度營業收入1.54億元，同比增長99.61%；歸母淨利潤1945.79萬元，同比增長729.41%；扣非淨利潤1761.08萬元，同比增長7,501.32%。2026年前三季度營業收入3.77億元，同比增長62.02%；歸母淨利潤4285.79萬元，同比增長196.44%；扣非淨利潤3615.52萬元，同比增長382.16%。
-
----
-
-### 2026-10-27 18:23:30  #其他
-
-【安宏資本全球基金組合已募資300億美元】10月27日，私募股權投資機構安宏資本宣佈，其全球基金組合已募資300億美元，其中包括第十一隻旗艦基金Advent International GPE XI/安宏十一號全球私募股權基金（GPE XI）募資近270億美元，超過其260億美元的募資目標；以及全新中型市場策略旗下的Advent Mid-Market Private Equity/安宏中型市場私募股權（Mid-Market Fund/中型市場基金）募資超30億美元。
-
----
-
-### 2026-10-27 18:23:26  #MKT News
-
-Danish prime minister told DR she is "very skeptical" of Norway and Finland engaging in talks with Putin.
-
----
-
-### 2026-10-27 18:23:16  #MKT News
-
-【Malaysia palm oil oversupply strains storage in main producing region】Malaysia's palm oil stocks have climbed to record levels, pressuring storage capacity in key producing regions. Industry sources say output in Sarawak on Borneo has exceeded expectations and a surge in freight rates has slowed shipments, leaving local storage tanks nearing capacity. As the world's second-largest palm oil producer, Malaysia's September stocks rose to a record 3.51 mln t and monthly production hit a historic high, with the seasonal October peak not yet arrived. Rising inventories have increased pressure on the government to clear backlogs; officials are considering exempting crude palm oil export tax to boost overseas sales. The supply glut has weighed on prices: Kuala Lumpur benchmark futures fell as much as 2.2% on Tuesday, the largest drop in over a month and trading near a four-month low reached in early October. The price decline has widened palm oil's discount to competing vegetable oils, supporting this month's exports, but elevated stocks limit upside for a sustained rebound.
-
----
-
-### 2026-10-27 18:23:03  #Trading Economics #Economy #Bosnia and Herzegovina #Inflation Rate #Importance 0
-
-Bosnia and Herzegovina Inflation at 5-Month High — The annual inflation rate in Bosnia and Herzegovina rose to 6.0% in September 2026, marking the highest level since April, from 4.9% in the previous month. Inflation accelerated for housing and utilities (12.7% vs 11.3% in August), transport (27.6% vs 22.9%), furnishings, household equipment, and routine maintenance (2.2% vs 1.9%), health (5.8% vs 5.5%), education (2.3% vs 1.8%), and other goods and services (2.0% vs 1.4%). Conversely, inflation eased for alcoholic beverages and tobacco (3.8% vs 3.9%), communication (1.7% vs 3.1%), recreation and culture (3.8% vs 3.9%), and restaurants and hotels (4.3% vs 4.8%). Meanwhile, deflation eased for food and non-alcoholic beverages (-0.1% vs -0.9%) and clothing and footwear (-6.9% vs -8.7%). On a monthly basis, consumer prices rose 1.2% in September, following a 1.1% increase in August.
-
----
-
-### 2026-10-27 18:22:47  #公司
-
-【佛山照明：2026年第三季度淨利潤1093.73萬元，同比下降57.95%】佛山照明公告，2026年第三季度營業收入20.34億元，同比下降5.25%；歸母淨利潤1093.73萬元，同比下降57.95%；扣非淨利潤虧損1256.38萬元。2026年前三季度營業收入61.29億元，同比下降6.17%；歸母淨利潤5264.29萬元，同比下降62.67%；扣非淨利潤1069.05萬元，同比下降91.24%。
-
----
-
-### 2026-10-27 18:22:44  #公司
-
-【思特威：2026年第三季度淨利潤3.11億元，同比增長2.87%】思特威公告，2026年第三季度營業收入29.62億元，同比增長17.03%；歸母淨利潤3.11億元，同比增長2.87%；扣非淨利潤3.69億元，同比增長25.64%。2026年前三季度營業收入75.61億元，同比增長19.70%；歸母淨利潤8.4億元，同比增長20.05%；扣非淨利潤8.71億元，同比增長26.27%。
-
----
-
-### 2026-10-27 18:22:36  #國際
-
-市場訊息：丹麥首相表示，她對挪威和芬蘭與普京通話持“非常懷疑”態度。
-
----
-
-### 2026-10-27 18:22:16  #公司
-
-【多倫科技：前三季度營收3.00億元 淨虧損2771.07萬元】多倫科技公告稱，2026年第三季度實現營業收入7581.66萬元，同比下降32.26%；歸母淨利潤854.96萬元，同比增長159.13%；扣非淨虧損2354.72萬元，同比下降234.35%。2026年前三季度實現營業收入3.00億元，同比下降3.94%；歸母淨虧損2771.07萬元，同比下降39.89%；扣非淨虧損4246.09萬元，同比下降33.18%。業績變動主要系報告期內取得的驗收報告較上年同期減少，及交易性金融資產公允價值變動影響所致。
-
----
-
-### 2026-10-27 18:22:07  #公司
-
-【深圳航信中標深圳邊檢總站快捷通道聯合維保資訊化專案】據航天資訊訊息，近日，深圳航天資訊有限公司中標深圳出入境邊防檢查總站快捷通道及查驗系統外部裝置聯合維保資訊化專案。
-
----
-
-### 2026-10-27 18:21:30  #公司
-
-【海南機場：前三季營收42.37億元 同比增29.17%】海南機場公告稱，2026年第三季度實現營業收入12.25億元，同比增長26.31%；歸母淨虧損1.33億元。2026年前三季度實現營業收入42.37億元，同比增長29.17%；歸母淨虧損1384.02萬元，同比下降121.51%。營收增長主要系本期合併美蘭空港帶動整體收入增加，利潤下滑主要系美蘭空港客流量處於爬坡期、三亞鳳凰國際機場T3航站樓投運致機場業務成本增加。
-
----
-
-### 2026-10-27 18:21:22  #公司
-
-【郴電國際：2026年第三季度淨利潤5893萬元，同比增長7.04%】郴電國際公告，2026年第三季度營業收入11.3億元，同比增長0.67%；歸屬於上市公司股東的淨利潤5893萬元，同比增長7.04%；扣非淨利潤5459.83萬元，同比下降1.29%。2026年前三季度營業收入31.36億元，同比增長1.84%；歸屬於上市公司股東的淨利潤1.11億元，同比增長36.96%；扣非淨利潤9843.83萬元，同比增長64.59%。
-
----
-
-### 2026-10-27 18:21:08  #國際
-
-俄羅斯總統普京、斯特勒和芬蘭總統斯圖布同意繼續保持接觸。
-
----
-
-### 2026-10-27 18:20:52  #公司
-
-【盛視科技：前三季度營收12.19億元 淨利同比增221.47%】盛視科技公告稱，2026年前三季度實現營業收入12.19億元，同比增長27.91%；歸屬於上市公司股東的淨利潤1.97億元，同比增長221.47%；扣非淨利潤1.96億元，同比增長304.27%。2026年第三季度實現營業收入4.85億元，同比增長19.99%；歸母淨利潤9041.78萬元，同比增長142.90%。業績增長主要系新增智算業務確認收入6.13億元，且計提資產減值較上年同期減少3340.30萬元。
-
----
-
-### 2026-10-27 18:20:34  #公司
-
-【勁嘉股份：2026年第三季度淨利潤2592.62萬元，同比增長17.42%】勁嘉股份公告，2026年第三季度營業收入6.93億元，同比增長5.65%；歸母淨利潤2592.62萬元，同比增長17.42%；扣非淨利潤2846.27萬元，同比增長77.65%。2026年前三季度營業收入22.83億元，同比增長20.52%；歸母淨利潤7419.59萬元，同比下降48.56%；扣非淨利潤6819.23萬元，同比下降41.73%。
-
----
-
-### 2026-10-27 18:20:09  #國際
-
-印尼外長：已同意加強與新加坡的雙邊關係。
-
----
-
-### 2026-10-27 18:19:28  #公司
-
-【景業智慧：2026年第三季度淨利潤虧損980.12萬元】景業智慧公告，2026年第三季度營業收入3333.51萬元，同比下降0.91%；歸母淨利潤虧損980.12萬元，2025年同期虧損2251.69萬元；扣非淨利潤虧損2213.27萬元，2025年同期虧損2066.07萬元。2026年前三季度營業收入1.36億元，同比下降3.64%；歸母淨利潤虧損2231.01萬元，2025年同期虧損1947.65萬元；扣非淨利潤虧損5775.1萬元，2025年同期虧損1884.48萬元。
-
----
-
-### 2026-10-27 18:19:01  #公司
-
-【寶利國際：前三季營收10.05億元 同比降5.76%】寶利國際公告稱，2026年前三季度實現營業收入10.05億元，同比下降5.76%；歸屬於上市公司股東的淨利潤312.32萬元，同比增長130.83%，同比扭虧為盈；扣除非經常性損益的淨利潤5074.69萬元，同比增長200.68%。2026年第三季度實現營業收入4.92億元，同比下降10.13%；歸屬於上市公司股東的淨虧損985.96萬元，同比下降203.71%。截至報告期末，公司回購專用證券賬戶持有公司股份600萬股，持股比例為0.65%。
-
----
-
-### 2026-10-27 18:18:48  #公司 #觀點
-
-【中金嶺南：前三季營收607.50億元 淨利增65.25%】中金嶺南公告稱，2026年第三季度實現營業收入186.17億元，同比增長7.18%；歸母淨利潤2.48億元，同比下降12.25%；扣非歸母淨利潤2.67億元，同比下降5.17%。2026年前三季度實現營業收入607.50億元，同比增長25.36%；歸母淨利潤13.90億元，同比增長65.25%；扣非歸母淨利潤13.86億元，同比增長68.17%。基本每股收益0.31元/股，同比增長40.91%。
-
----
-
-### 2026-10-27 18:18:42  #公司
-
-【通則康威：前三季營收16.24億元 淨利同比增189.68%】通則康威公告稱，2026年第三季度實現營業收入4.70億元，同比增長19.58%；歸母淨利潤2919.30萬元，同比增長152.46%；扣非歸母淨利潤2740.09萬元，同比增長424.66%。2026年前三季度實現營業收入16.24億元，同比增長52.63%；歸母淨利潤1.18億元，同比增長189.68%；扣非歸母淨利潤1.16億元，同比增長234.67%。業績增長主要系客戶需求持續放量及新產品推廣帶動，公司業務增長、訂單增加所致。
-
----
-
-### 2026-10-27 18:18:04  #公司
-
-【超圖軟體：中標貴州不動產專案，金額1891.5萬元】超圖軟體公告，貴州省公共資源交易中心、黔雲招採電子招標採購交易平臺公示，公司中標貴州省不動產統一登記雲平臺系統重構及GIS引擎採購專案，中標金額1891.5萬元。截至公告披露日，公司尚未收到中標通知書，也尚未簽署正式合同。
-
----
-
-### 2026-10-27 18:18:01  #公司
-
-【北投科技：2026年第三季度淨利潤虧損2331.93萬元】北投科技公告，2026年第三季度營業收入4.93億元，同比下降54.94%；歸母淨利潤虧損2331.93萬元，扣非淨利潤虧損2329.54萬元。2026年前三季度營業收入19.05億元，同比下降39.21%；歸母淨利潤2903.36萬元，扣非淨利潤2868.6萬元。公司稱，營業收入下降主要受上年同期收入基數包含原廣電業務及部分專案尚未滿足收入確認條件影響。
-
----
-
-### 2026-10-27 18:17:57  #公司
-
-【科銳國際：2026年第三季度淨利潤7444.42萬元，同比下降20.15%】科銳國際公告，2026年第三季度營業收入39.46億元，同比增長7.24%；歸母淨利潤7444.42萬元，同比下降20.15%；扣非淨利潤7342.12萬元，同比增長21.17%。2026年前三季度營業收入120.65億元，同比增長12.18%；歸母淨利潤2.26億元，同比增長2.81%；扣非淨利潤1.95億元，同比增長24.02%。
-
----
-
-### 2026-10-27 18:17:50  #其他
-
-民調顯示，民主黨人傑克遜在緬因州參議員競選中領先2個百分點。
-
----
-
-### 2026-10-27 18:17:40  #公司
-
-【芒果超媒：2026年第三季度淨利潤1155.19萬元，同比下降95.42%】芒果超媒公告，2026年第三季度營業收入31.58億元，同比增長1.87%；歸母淨利潤1155.19萬元，同比下降95.42%；扣非淨利潤234.33萬元，同比下降98.71%。2026年前三季度營業收入93.51億元，同比增長3.18%；歸母淨利潤2.13億元，同比下降79.01%；扣非淨利潤1.83億元，同比下降76.82%。
-
----
-
-### 2026-10-27 18:17:25  #公司 #市場
-
-希爾頓全球酒店集團公佈第三季度業績後，股價下跌3.1%。
-
----
-
-### 2026-10-27 18:17:09  #公司 #焦點
-
-【五糧液：第三季度歸母淨利潤9.58億元，同比下降48.25%】五糧液10月27日公告，2026年第三季度實現營業收入44.42億元，同比下降37.68%；歸母淨利潤9.58億元，同比下降48.25%；基本每股收益0.2475元。前三季度實現營業收入328.58億元，同比增長7.25%；歸母淨利潤97.11億元，同比增長49.98%；基本每股收益2.5043元。報告期內，公司業績主要受到市場需求偏弱，相關產品銷量減少的影響。
-
----
-
-### 2026-10-27 18:16:55  #公司
-
-索尼網路通訊公司：因未經授權訪問，超過200萬條客戶記錄遭洩露，其中包括姓名和電話號碼。
-
----
-
-### 2026-10-27 18:16:46  #其他
-
-匈牙利總理毛焦爾介紹自2027年起實施的新住房計劃。
-
----
-
-### 2026-10-27 18:16:25  #公司
-
-【影石創新：2026年第三季度淨利潤1742.82萬元，同比下降93.59%】影石創新公告，2026年第三季度營業收入39.19億元，同比增長33.30%；淨利潤1742.82萬元，同比下降93.59%；扣非淨利潤2047.35萬元，同比下降91.82%。2026年前三季度營業收入94.36億元，同比增長42.73%；淨利潤4783.56萬元，同比下降93.96%；扣非淨利潤513.44萬元，同比下降99.31%。
-
----
-
-### 2026-10-27 18:16:16  #公司
-
-【鼎信通訊：2026年第三季度淨利潤虧損7791.2萬元】鼎信通訊公告，2026年第三季度營業收入2.65億元，同比下降26.82%；淨利潤虧損7791.2萬元，扣非淨利潤虧損7664.46萬元。2026年前三季度營業收入7.17億元，同比下降32.76%；淨利潤虧損2.76億元，扣非淨利潤虧損2.79億元。
-
----
-
-### 2026-10-27 18:16:12  #公司
-
-【盛達資源：2026年第三季度淨利潤2.95億元，同比增長16.64%】盛達資源公告，2026年第三季度營業收入8.65億元，同比增長15.91%；歸母淨利潤2.95億元，同比增長16.64%；扣非淨利潤2.99億元，同比增長16.49%。2026年前三季度營業收入20.17億元，同比增長22.04%；歸母淨利潤6.85億元，同比增長112.20%；扣非淨利潤6.82億元，同比增長105.99%。
-
----
-
-### 2026-10-27 18:16:04  #公司
-
-【中科曙光：前三季度歸母淨利潤17.25億元，同比增長78.51%】中科曙光公告，2026年前三季度營業收入122.38億元，同比增長38.75%；歸母淨利潤17.25億元，同比增長78.51%；扣非淨利潤15.53億元，同比增長105.02%。第三季度單季營業收入47.73億元，同比增長60.68%；歸母淨利潤7.53億元，同比增長217.19%；扣非淨利潤7.09億元，同比增長275.46%。業績增長主要因國內算力領域市場需求向好，高階計算機等IT裝置產品銷量同比增加，核心產品在重點客戶實現落地，配套軟體等高毛利產品銷售同步增加。
-
----
-
-### 2026-10-27 18:15:59  #公司
-
-【兄弟科技：2026年第三季度淨利潤1752.69萬元，同比下降52.50%】兄弟科技公告，2026年第三季度營業收入8.98億元，同比下降1.84%；歸母淨利潤1752.69萬元，同比下降52.50%；扣非淨利潤2432.17萬元，同比下降32.66%。2026年前三季度營業收入29.59億元，同比增長8.56%；歸母淨利潤1.16億元，同比增長13.92%；扣非淨利潤1.14億元，同比增長15.45%。
-
----
-
-### 2026-10-27 18:15:56  #公司
-
-【拓邦股份：2026年第三季度淨利潤6936.56萬元，同比下降23.25%】拓邦股份公告，2026年第三季度營業收入32.66億元，同比增長21.63%；歸屬於上市公司股東的淨利潤6936.56萬元，同比下降23.25%；扣非淨利潤6638.49萬元，同比下降22.50%。2026年前三季度營業收入90.75億元，同比增長10.84%；歸屬於上市公司股東的淨利潤1.98億元，同比下降52.87%；扣非淨利潤1.78億元，同比下降55.13%。
-
----
-
-### 2026-10-27 18:15:51  #公司
-
-【農尚環境：前三季營收2.90億元 淨虧損1.40億元】農尚環境公告稱，2026年前三季度實現營業收入2.90億元，同比增長531.41%；歸屬於上市公司股東的淨虧損1.40億元，同比增虧83.07%；扣除非經常性損益的淨虧損1.30億元，同比增虧68.86%。2026年第三季度單季實現營業收入2.45億元，同比增長1261.50%；單季淨虧損1.11億元，同比增虧73.29%。業績變動主要系算力業務收入及成本大幅增長，應收賬款壞賬計提增加所致。
-
----
-
-### 2026-10-27 18:15:37  #公司
-
-【泡泡瑪特：公司實施庫存動態管理，減少不必要的商品召回】藍鯨新聞10月27日電，在今日泡泡瑪特三季度財報電話會上，公司管理層談及今年備貨情況時表示，Q4要持續降低整體庫存水位，同時保障新品供給。公司會重點關注頭程調撥的有效性，具體而言，一些國家和地區內部的商品網路具備較大的調撥空間，透過貨品調配（allocation），可以持續補充網路內的缺貨，提高銷售。公司已開始逐步實施動態管理，在初次配貨後持續調整，而不是等到終端售罄率達到較高水平，再開展後續調撥。這有助於減少不必要的商品召回，以及門店間高頻、反覆的調貨。（藍鯨新聞）
-
----
-
-### 2026-10-27 18:15:29  #公司
-
-【泡泡瑪特：公司仍以中國為核心生產基地】藍鯨新聞10月27日電，在今日泡泡瑪特三季度財報電話會上，公司管理層表示，目前，公司仍以中國為核心生產基地，國內生產基地正從廣東向內陸地區拓展，以降低部分生產成本。越南是公司嘗試海外生產的第一站，當地生產的效率和質量仍處於爬坡階段，基本達到公司要求。雖然越南生產具有一定成本優勢，但其面向歐美市場的物流時效優勢並不明顯，難以顯著縮短海外訂單交付週期。此外公司也在墨西哥進行了輕量嘗試，但認為墨西哥未來成為主要生產基地的可能性較低。目前解決海外訂單交付問題主要透過前置規劃、多次出貨和結合多種物流方式解決。（藍鯨新聞 ）
-
----
-
-### 2026-10-27 18:15:15  #其他
-
-【知情人士：iPhone Duo鉸鏈找平工藝與OPPO Find N6採用同源方案】藍鯨新聞10月27日電，近日，網上流傳出iPhone Duo拆機影片，影片可見其鉸鏈中板使用膠體填充找平，用於改善內屏平整度。對此，有供應鏈人士向藍鯨科技記者表示，iPhone Duo鉸鏈找平工藝與OPPO Find N6採用同源方案。此外，工藝對應的高分子3D列印技術，由OPPO在今年3月釋出的摺疊旗艦Find N6上首發。（藍鯨新聞）
-
----
-
-### 2026-10-27 18:14:58  #公司
-
-【百奧泰：2026年第三季度淨利潤虧損8096.14萬元】百奧泰公告，2026年第三季度營業收入2.79億元，同比增長15.47%；歸母淨利潤虧損8096.14萬元，扣非淨利潤虧損8661.11萬元。2026年前三季度營業收入7.98億元，同比增長16.68%；歸母淨利潤虧損3.33億元，扣非淨利潤虧損3.41億元。
-
----
-
-### 2026-10-27 18:14:52  #公司
-
-【美圖RoboNeo新版本釋出 聚焦短劇創作者建立IP】美圖公司旗下AI影像創作平臺RoboNeo釋出新版本，聚焦於短劇創作者建立IP，全新上線IP創作入口、專業劇本工作臺、IP垂類多元創作工作流能力。據介紹，RoboNeo圍繞IP創作推出系列功能，意味AI短劇創作的關注點從“完成作品”延伸到“持續運營IP”，分別從角色建立、故事延展、內容衍生維度為IP的持續創作提供了更多可能。（新浪科技）
-
----
-
-### 2026-10-27 18:14:17  #公司
-
-【艾迪藥業：1類新藥ACC085片獲批臨床試驗】艾迪藥業公告，公司及全資子公司瀘州艾迪醫藥技術有限公司近日收到國家藥監局核准簽發的《藥物臨床試驗批准通知書》，同意公司自主研發的1類新藥ACC085片開展臨床試驗，用於有HIV-1感染風險的成人和體重至少35kg青少年進行暴露前預防（PrEP）。ACC085片與前期已獲批臨床的ACC085注射液為同一活性成份的不同給藥劑型。
-
----
-
-### 2026-10-27 18:14:12  #公司
-
-【聯發股份：2026年第三季度淨利潤2378.44萬元，同比下降70.03%】聯發股份公告，2026年第三季度營業收入8.04億元，同比下降15.16%；歸母淨利潤2378.44萬元，同比下降70.03%；扣非淨利潤2851.75萬元，同比下降35.41%。2026年前三季度營業收入25.67億元，同比下降13.69%；歸母淨利潤4315.74萬元，同比下降83.63%；扣非淨利潤1.3億元，同比下降24.83%。
-
----
-
-### 2026-10-27 18:14:08  #公司
-
-【快意電梯：2026年第三季度淨利潤虧損615.35萬元，同比由盈轉虧】快意電梯公告，2026年第三季度營業收入3.43億元，同比增長4.91%；歸母淨利潤虧損615.35萬元，扣非淨利潤虧損558.75萬元。2026年前三季度營業收入9.52億元，同比增長0.06%；歸母淨利潤1144.53萬元，同比下降78.02%；扣非淨利潤虧損689.22萬元。
-
----
-
-### 2026-10-27 18:14:04  #公司
-
-【東南網架：2026年第三季度淨利潤316.37萬元，同比下降63.89%】東南網架公告，2026年第三季度營業收入19.36億元，同比下降11.01%；歸母淨利潤316.37萬元，同比下降63.89%。2026年前三季度營業收入58.46億元，同比下降12.92%；歸母淨利潤3186.09萬元，同比下降37.42%；扣非淨利潤3226.4萬元，同比增長12.14%。
-
----
-
-### 2026-10-27 18:13:58  #公司
-
-【貴州輪胎：2026年第三季度淨利潤1.51億元，同比下降25.02%】貴州輪胎公告，2026年第三季度營業收入29.77億元，同比增長7.74%；淨利潤1.51億元，同比下降25.02%；扣非淨利潤1.52億元，同比下降17.82%。2026年前三季度營業收入87.15億元，同比增長9.54%；淨利潤5.1億元，同比增長13.23%；扣非淨利潤5.13億元，同比增長19.96%。
-
----
-
-### 2026-10-27 18:13:51  #公司
-
-【中一科技：2026年第三季度淨利潤1.22億元，同比增長421.97%】中一科技公告，2026年第三季度營業收入25.03億元，同比增長64.38%；歸母淨利潤1.22億元，同比增長421.97%；扣非淨利潤1.12億元，同比增長711.27%。2026年前三季度營業收入64.42億元，同比增長53.40%；歸母淨利潤2.89億元，同比增長645.95%；扣非淨利潤2.59億元，同比增長2,872.21%。
-
----
-
-### 2026-10-27 18:13:47  #公司
-
-【廣生堂：2026年第三季度淨利潤虧損3541.82萬元】廣生堂公告，2026年第三季度營業收入1.09億元，同比增長1.50%；歸母淨利潤虧損3541.82萬元，扣非淨利潤虧損3811.71萬元。2026年前三季度營業收入3.29億元，同比增長4.08%；歸母淨利潤虧損1.04億元，扣非淨利潤虧損1.1億元。
-
----
-
-### 2026-10-27 18:13:23  #其他
-
-五糧液:第三季度營收44.4億元人民幣。
-
----
-
-### 2026-10-27 18:12:58  #公司
-
-【元祖股份：2026年第三季度淨利潤1.46億元，同比增長12.75%】元祖股份公告，2026年第三季度營業收入7.83億元，同比增長8.84%；淨利潤1.46億元，同比增長12.75%；扣非淨利潤1.45億元，同比增長13.84%。2026年前三季度營業收入15.32億元，同比下降1.06%；淨利潤8319.33萬元，同比下降36.53%；扣非淨利潤7223.98萬元，同比下降19.70%。
-
----
-
-### 2026-10-27 18:12:42  #公司
-
-【艾為電子：2026年第三季度淨利潤1243.37萬元，同比下降89.57%】艾為電子公告，2026年第三季度營業收入7.66億元，同比下降5.05%；歸母淨利潤1243.37萬元，同比下降89.57%；扣非淨利潤1355.72萬元，同比下降80.77%。2026年前三季度營業收入21.17億元，同比下降2.75%；歸母淨利潤1.07億元，同比下降61.08%；扣非淨利潤2411.33萬元，同比下降87.53%。
-
----
-
-### 2026-10-27 18:12:15  #公司
-
-【廣匯能源：2026年第三季度淨利潤14.95億元 同比增長842.20%】廣匯能源公告，2026年第三季度營業收入88.42億元，同比增長30.37%；歸母淨利潤14.95億元，同比增長842.20%；扣非淨利潤14.94億元，同比增長1,328.25%。2026年前三季度營業收入230.83億元，同比增長2.45%；歸母淨利潤27.73億元，同比增長174.04%；扣非淨利潤28.26億元，同比增長201.10%。
-
----
-
-### 2026-10-27 18:11:54  #公司
-
-【愛朋醫療：2026年第三季度淨利潤虧損683.97萬元，同比由盈轉虧】愛朋醫療公告，2026年第三季度營業收入8295.9萬元，同比下降10.30%；淨利潤虧損683.97萬元，扣非淨利潤虧損703.34萬元。2026年前三季度營業收入2.32億元，同比下降7.92%；淨利潤虧損1672.45萬元，扣非淨利潤虧損1561.79萬元。
-
----
-
-### 2026-10-27 18:11:49  #公司
-
-【東田微：2026年第三季度淨利潤7326.3萬元，同比增長149.65%】東田微公告，2026年第三季度營業收入3.25億元，同比增長24.70%；歸母淨利潤7326.3萬元，同比增長149.65%；扣非淨利潤7083.2萬元，同比增長146.70%。2026年前三季度營業收入8.26億元，同比增長29.82%；歸母淨利潤1.6億元，同比增長100.20%；扣非淨利潤1.57億元，同比增長99.70%。
-
----
-
-### 2026-10-27 18:11:45  #公司
-
-【東方盛虹：2026年第三季度淨利潤1.43億元，同比增長155.08%】東方盛虹公告，2026年第三季度營業收入229.19億元，同比下降26.65%；歸母淨利潤1.43億元，同比增長155.08%；扣非淨利潤4271.17萬元，同比增長112.45%。2026年前三季度營業收入928.43億元，同比增長0.74%；歸母淨利潤46.43億元，同比增長3,573.11%；扣非淨利潤43.58億元，同比增長6,200.82%。
-
----
-
-### 2026-10-27 18:11:41  #公司 #焦點
-
-【泡泡瑪特：LABUBU電影目前還在劇本環節】藍鯨新聞10月27日電，在今日泡泡瑪特三季度財報電話會上，公司管理層表示，LABUBU電影目前還在劇本環節，劇本開發的週期會相對長一些，除此以外也在和海外知名公司探索了動畫的可能性。（藍鯨新聞）
-
----
-
-### 2026-10-27 18:11:32  #公司
-
-【寧波聯合：前三季度營收3.96億元 淨利同比降90.51%】寧波聯合公告稱，2026年第三季度實現營業收入1.15億元，同比下降62.05%；淨虧損1196.53萬元，同比轉虧。2026年前三季度實現營業收入3.96億元，同比下降55.56%；歸母淨利潤636.63萬元，同比下降90.51%；扣非歸母淨利潤15.81萬元，同比下降99.71%。業績變動主要系處置投資性房地產收入減少、聯營企業投資收益減少及持有的其他上市公司股票市值下降等所致。
-
----
-
-### 2026-10-27 18:11:14  #公司 #焦點
-
-【音飛儲存：前三季度營收8.63億元 淨利同比增111.23%】音飛儲存公告稱，2026年第三季度實現營業收入2.32億元，同比增長59.89%；淨虧損865.64萬元。2026年前三季度實現營業收入8.63億元，同比增長25.43%；歸屬於上市公司股東的淨利潤1.32億元，同比增長111.23%；扣除非經常性損益的淨利潤5025.04萬元，同比下降8.70%。第三季度營收增長主要系前期承接專案集中達到收入確認節點，前三季度淨利增長主要系全資子公司增資擴股投資收益影響。
-
----
-
-### 2026-10-27 18:11:08  #其他
-
-鈴木第二季度營業利潤280.4億盧比，市場預期278.8億盧比。
-
----
-
-### 2026-10-27 18:10:41  #公司
-
-【杭叉集團：2026年第三季度淨利潤5.75億元，同比下降9.76%】杭叉集團公告，2026年第三季度營業收入50.24億元，同比增長7.45%；歸屬於上市公司股東的淨利潤5.75億元，同比下降9.76%；扣非淨利潤5.78億元，同比下降7.24%。2026年前三季度營業收入151.24億元，同比增長8.25%；歸母淨利潤17.9億元，同比增長2.11%；扣非淨利潤17.8億元，同比增長3.81%。
-
----
-
-### 2026-10-27 18:10:10  #公司
-
-【景嘉微：前三季度營收5.53億元 淨虧損1.85億元】景嘉微公告稱，2026年第三季度實現營業收入2.18億元，同比下降27.55%；淨虧損7664.97萬元，同比轉虧。2026年前三季度實現營業收入5.53億元，同比增長11.71%；淨虧損1.85億元，同比轉虧。前三季度研發投入4.41億元，同比增長90.72%，主要系並表範圍增加及子公司業務規模擴大所致。
-
----
-
-### 2026-10-27 18:10:06  #公司
-
-【國盛證券：前三季營收13.27億元 淨利同比增3.06%】國盛證券公告稱，2026年第三季度實現營業總收入3.997億元，同比下降19.40%；歸母淨利潤3385.32萬元，同比增長3.21%。2026年前三季度實現營業總收入13.27億元，同比下降6.10%；歸母淨利潤2.49億元，同比增長3.06%。因涉嫌違反賬戶實名制相關規定，公司於2026年7月31日被證監會立案，9月24日收到江西證監局行政處罰事先告知書等相關監管文書。
-
----
-
-### 2026-10-27 18:09:51  #公司
-
-【華北製藥：擬不超2.20億元參股增資安源醫藥】華北製藥公告稱，公司擬分三輪參與對安源醫藥科技(上海)有限公司的增資，合計出資不超過2.20億元。本次交易整體分四階段實施：第一階段公司股東華藥集團以2.45億元受讓安源生物持有的安源醫藥47.1154%股權；後續三輪增資華藥集團與公司分別同額出資，第一輪各出9000萬元、第二輪各出7950萬元、第三輪各出5000萬元。本次股權轉讓及第一輪增資完成後，華藥集團持有安源醫藥47.8572%股權，為其控股股東，公司持有安源醫藥12.8571%股權，安源醫藥為公司參股公司。本次交易構成關聯交易，不構成重大資產重組，已經公司董事會審議透過，無需提交股東會審議。
-
----
-
-### 2026-10-27 18:09:47  #公司
-
-【金運鐳射：2026年第三季度淨利潤虧損294.14萬元，同比由盈轉虧】金運鐳射公告，2026年第三季度營業收入6042.77萬元，同比下降3.24%；淨利潤虧損294.14萬元，扣非淨利潤虧損309.37萬元。2026年前三季度營業收入1.75億元，同比下降1.71%；淨利潤虧損774.71萬元，扣非淨利潤虧損864.21萬元。
-
----
-
-### 2026-10-27 18:09:45  #公司
-
-【萊寶高科：2026年第三季度淨利潤2836.54萬元，同比下降43.72%】萊寶高科公告，2026年第三季度營業收入12.24億元，同比下降20.65%；歸母淨利潤2836.54萬元，同比下降43.72%。2026年前三季度營業收入40.94億元，同比下降12.67%；歸母淨利潤1.24億元，同比下降46.81%；扣非淨利潤8569.87萬元，同比下降62.90%。公司稱，銷售收入下降主要受中大尺寸電容式觸控式螢幕全貼合產品與車載蓋板玻璃產品銷售收入減少影響。
-
----
-
-### 2026-10-27 18:07:53  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-United Parcel Service earnings below expectations at 1.69 USD — United Parcel Service (UPS) released earnings per share at 1.69 USD, compared to market expectations of 1.72 USD.
-
----
-
-### 2026-10-27 18:05:59  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Hilton Worldwide earnings above expectations at 2.45 USD — Hilton Worldwide (HLT) released earnings per share at 2.45 USD, compared to market expectations of 2.43 USD.
-
----
-
-### 2026-10-27 18:01:53  #Trading Economics #Markets #Sweden #Earnings #Importance 0
-
-Assa Abloy earnings below expectations at 4.24 SEK — Assa Abloy (ASSAB) released earnings per share at 4.24 SEK, compared to market expectations of 4.29 SEK.
-
----
-
-### 2026-10-27 18:01:08  #Trading Economics #Markets #France #Government Bond 10Y #Importance 1
-
-French Bond Yields Rebound on Profit-Taking — France’s 10-year OAT yield climbed above 4.95% as investors took profits following its largest daily decline in five months, while concerns over a prolonged Middle East conflict dampened demand for riskier assets. On Monday, the yield fell around 11 basis points after Moody’s affirmed France’s sovereign credit rating, offering temporary relief amid strained public finances, a fragmented parliament and growing political uncertainty ahead of next year’s presidential election. Weekend protests also passed without the widespread unrest seen the previous week, easing immediate concerns over domestic instability. Meanwhile, attention shifted to upcoming policy decisions from the European Central Bank and the US Federal Reserve. Both central banks are widely expected to leave interest rates unchanged this week, leaving investors focused on their forward guidance for clues about the future path of monetary policy.
-
----
-
-### 2026-10-27 18:00:03  #Trading Economics #Markets #South Africa #Currency #Importance 0
-
-South African Rand at Near 1-Month Low — The South African rand traded around 16.7 per USD, its lowest since early October, pressured by a firmer greenback and lower prices of key precious metals such as gold and platinum group metals (PGMs). Elevated oil prices and geopolitical uncertainty added to the headwinds, increasing costs for energy-importing economies such as South Africa and complicating central banks’ policy decisions. However, domestic fiscal developments provided a counterweight to external pressures, with Finance Minister Enoch Godongwana’s Medium-Term Budget Policy Statement (MTBPS) signalling continued progress towards fiscal consolidation and earning a favourable response from major credit rating agencies. Meanwhile, South Africa’s annual inflation edged up to 4.5% in September from 4.4% in August, below expectations of 4.7%, but is expected to rise again in October. Despite improved inflation prospects following November fuel tax relief, persistent price pressures leave the SARB’s next move uncertain.
-
----
-
-### 2026-10-27 17:18:26  #Trading Economics #Economy #Spain #Unemployment Rate #Importance 2
-
-Spain Unemployment Rate Back Above 10% — Spain’s unemployment rate rose to 10.18% in Q3 2026, up from 9.87% in Q2 and above market expectations of 9.9%. The number of unemployed people increased by 95,900, or 3.8%, from the previous quarter, marking the largest rise for a third quarter since Q3 2020. Nevertheless, the unemployment rate was the lowest recorded for a third quarter since 2007. The number of unemployed people reached 2.591 million. Meanwhile, employment increased by 73,600, or 0.3%, marking the weakest gain for a third quarter since 2019. Despite the modest growth, total employment reached a record high of 22.852 million. The number of employed foreign nationals rose by 75,400, or 2%, while employment among Spanish nationals declined by 1,800. By sector, public employment increased by 89,900, while private-sector employment fell by 16,300. The labour force expanded by 169,500 to a record 25.443 million, pushing the participation rate up to 59.5%.
 
 ---
