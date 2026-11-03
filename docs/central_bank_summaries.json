@@ -1,6 +1,348 @@
 {
-  "updated": "2026-11-02 07:03:50",
+  "updated": "2026-11-03 09:15:45",
   "items": [
+    {
+      "id": "20261103",
+      "date": "2026-11-03",
+      "range_start": "2026-11-02 07:00:00",
+      "range_end": "2026-11-03 07:00:00",
+      "generated_at": "2026-11-03 09:15:45",
+      "schema_version": 7,
+      "count": 97,
+      "headline": "澳洲聯儲維持利率，Fed及ECB政策動向備受關注",
+      "central_banks": [
+        {
+          "id": "Fed",
+          "name": "美國聯準會 Fed",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [
+            "根據CME FedWatch顯示，2026年12月FOMC加息25個基點機率約為74.9%，維持利率不變機率為25.1%。2027年1月維持利率不變機率為18.2%，加息25個基點累計機率61.2%，加息50個基點機率20.7%。",
+            "市場普遍預期Fed即便在12月加息一次，亦可能釋放加息周期終點的訊號，短期內支撐債券市場及長端利率下降。"
+          ],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "ECB",
+          "name": "歐洲央行 ECB",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "拉加德",
+              "venue": "接受總檯《高階訪談》欄目專訪",
+              "analysis": "拉加德行長近期就歐洲儲蓄及創新發展問題發表言論，強調盤活歐洲儲蓄資源以支持本土創新的重要性，並宣布將提前於2027年2月離任歐洲央行行長職務。言論透露出對未來政策持續關注與穩定交接的意圖。拉加德未就利率調整發表新觀點。主要聚焦科技發展與資本流動。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "於2026年11月2日在接受總檯《高階訪談》欄目專訪發言。"
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "拉加德表示歐洲資金為全球儲蓄大戶，資金大量流往美國支撐美國科技創新，歐洲應盤活儲蓄促成本土創新體系發展。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "歐洲面臨通膨依然高企、經濟成長壓力大環境下，強調長期成長動力的資本配置與創新投資重要性。"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "此發言暗示歐洲央行關注資本流動與創新生態，或成為未來政策考量之一，但未明確指出貨幣政策方向。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "拉加德提前離職消息被認為不會影響政策延續性，市場仍關注年底前是否有加息可能。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "原文未披露更多具體貨幣政策措施或利率調整細節。"
+                }
+              ]
+            }
+          ],
+          "expectations": [
+            "多位ECB管委表示市場可能低估貨幣政策緊縮力度，年底前加息25個基點仍有可能，但須觀察持續通膨證據。",
+            "ECB管委Escriva指出利率前景高度複雜，維持2%利率以穩定通膨在2%左右是合理，未來前瞻指引因不確定性將保持謹慎。"
+          ],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "BoE",
+          "name": "英國央行 BoE",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [
+            "市場普遍預期BoE本周會議將重啟貨幣緊縮，預計可能再度升息以抑制通膨。",
+            "英國債券殖利率及英鎊匯價反映投資者對BoE加息及停滯經濟風險有所消化。"
+          ],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "BoJ",
+          "name": "日本央行 BoJ",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "植田",
+              "venue": "來源未提供具體場合",
+              "analysis": "植田行長強調人口持續減少使得整體居民消費難以實現強勁增長，認為消費減弱不等同經濟疲軟至無法持續加息，並透露將於11月30日在名古屋發表演講並召開新聞釋出會。言論顯示即使面臨人口結構挑戰，BoJ仍維持謹慎加息立場。 主要涵蓋人口趨勢與貨幣政策展望。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "2026年11月2日，官方發布資料中無具體場合。"
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "人口減少導致消費增長放緩，是日本面臨的結構性問題，消費疲軟不等同經濟全面疲軟。"
+                },
+                {
+                  "title": "利率立場",
+                  "text": "雖人口挑戰明顯，BoJ仍保持對進一步利率調整的考慮，不放棄加息可能。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "日本央行10月最新資料顯示潛在通膨約2%，符合2%目標但實際利率仍偏低。"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "提醒市場人口結構風險，但政策可能仍趨鷹派，預示慢慢正常化利率政策。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "將2026年底前的官方演講視為重要觀察指標，有利於理解BoJ未來貨幣政策態度。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "缺乏具體加息時間點和貨幣政策行動細節。 "
+                }
+              ]
+            },
+            {
+              "official": "植田",
+              "venue": "來源未提供具體場合",
+              "analysis": "植田行長披露將於11月30日在名古屋發表演講並舉行記者會，為市場提供貨幣政策最新動向窗口。此舉顯示BoJ正計劃主動與市場溝通，釋放政策訊號。細節待後續公開。主要為未來政策溝通安排。 來源未提供具體場合。細節待補充。未明示貨幣政策內容。市場靜待演講。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "2026年11月2日官方消息，無明確公開場合。"
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "植田行長表示將於11月30日在日本中部名古屋進行演講和記者會。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "此安排可能用於闡述BoJ最新貨幣政策看法及經濟評估。"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "演講可能成為貨幣政策走向的重要參考，市場關注其措辭。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "投資者預期該次講話將提供對進一步加息或政策正常化的線索。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "目前只有演講安排，缺乏具體政策內容。 }] }] ,"
+                },
+                {
+                  "title": "plant details",
+                  "text": "The plan will hold a press conference after speech."
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "RBA",
+          "name": "澳洲聯儲 RBA",
+          "status": "政策決議日",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": true,
+            "summary": "澳洲聯儲於本日宣布維持現行政策利率不變，表態持續關注通膨壓力與經濟成長動能。市場普遍預期今年接下來仍可能有升息行動，此次維持利率顯示決策者在當前數據與通膨形勢間取得微妙平衡。此舉亦反映RBA對未來通膨路徑抱持審慎態度，強調必要時會採取行動遏制價格壓力。",
+            "decision": [
+              "維持現行現金利率於5.35%，無變動。此利率水準反映連續多次緊縮措施後的政策定位。",
+              "無調整存款便利利率與再融資利率，政策工具維持穩定。",
+              "無重大資產負債表操作或量化寬鬆/緊縮措施更新，保持政策中性。"
+            ],
+            "statement": [
+              "聲明強調澳洲通膨仍高於2-3%目標區間，且商品價格漲幅有放緩跡象，但勞動市場依然強勁，消費者信心與支出持續穩定。",
+              "政策立場呈現謹慎態度，認為需要密切監測國際及國內通膨變化，準備於必要時調整政策以保障物價穩定。",
+              "強調貨幣政策必須因應最新的經濟數據而調整，並未排除年底前再次升息可能性。"
+            ],
+            "economic_view": [
+              "澳洲通膨持續超過目標區間，9月商品價格指數顯示價格漲幅幅度放緩，整體經濟成長保持穩健，失業率維持低位。",
+              "全球經濟存在不確定性，包括商品價格波動和貿易條件變化，但澳洲經濟基本面穩健，通膨壓力持續受到關注。"
+            ],
+            "forward_guidance": [
+              "貨幣政策將繼續根據經濟數據調整，強調不排除進一步緊縮可能。",
+              "短期內將密切監控價格與就業變動，確保通膨返回目標範圍。"
+            ],
+            "press_conference": [
+              "資料有限，無發布記者會相關詳細內容。",
+              "市場關注RBA是否在未來議息會上再次加息，並分析其語調與政策指引變化。"
+            ],
+            "market_reaction": [
+              "澳幣在維持利率決定公布後小幅波動，投資者對後續貨幣政策動向保持謹慎態度。",
+              "地方債券殖利率呈現穩定，反映市場消化了政策立場與未來升息不確定性。"
+            ]
+          }
+        },
+        {
+          "id": "BoC",
+          "name": "加拿大央行 BoC",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "RBI",
+          "name": "印度央行 RBI",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "BCB",
+          "name": "巴西央行 BCB",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "SNB",
+          "name": "瑞士央行 SNB",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "馬丁",
+              "venue": "來源未提供具體場合",
+              "analysis": "馬丁官員近期作出多次政策相關評論，涉及通膨與貨幣政策調整的觀察，聚焦瑞士經濟當前表現及風險評估。言論反映央行對維持金融穩定及物價目標的重視。細節未公開場合。建議關注後續正式聲明。此分析基於當前可查資料。10月CPI數據將於今日發布，市場預期將進一步影響貨幣政策判斷。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "原文未明確指出具體場合。內容為2026年11月2日至3日間相關評論彙整。"
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "馬丁就瑞士通膨形勢及政策調整持謹慎態度，強調貨幣政策需因應最新經濟指標。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "瑞士通膨近年呈現回落趨勢，央行維持穩健貨幣政策以確保價格穩定。"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "未透露近期會議明確政策調整，但暗示有持續評估可能。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "市場視馬丁言論為穩定政策預期信號，未對利率動向作出重大調整。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "缺乏具體利率或政策工具變化細節。}]},{"
+                },
+                {
+                  "title": "喬丹",
+                  "text": "來源未提供具體場合；本人近期無公開發言記錄，僅有一般性經濟評述，暫不納入官員發言。"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        }
+      ]
+    },
     {
       "id": "20261102",
       "date": "2026-11-02",
@@ -9171,339 +9513,6 @@
                 {
                   "title": "資料限制",
                   "text": "無具體政策決策或前瞻經濟展望。偏重防範與監管說明。"
-                }
-              ]
-            }
-          ],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "20261013",
-      "date": "2026-10-13",
-      "range_start": "2026-10-12 07:00:00",
-      "range_end": "2026-10-13 07:00:00",
-      "generated_at": "2026-10-13 08:15:02",
-      "schema_version": 7,
-      "count": 131,
-      "headline": "美聯儲哈瑪克表明貨幣政策仍需收緊，ECB強調法國經濟韌性",
-      "central_banks": [
-        {
-          "id": "Fed",
-          "name": "美國聯準會 Fed",
-          "status": "官員密集發言",
-          "officials": [
-            {
-              "official": "哈瑪克",
-              "venue": "來源未提供具體場合",
-              "analysis": "美聯儲理事哈瑪克的近期多次發言揭示他對政策走向的多維度看法，強調貨幣政策還需進一步收緊以達到通脹目標，並指出當前通脹風險和經濟狀況的挑戰。他的觀點反映出對未來加息力度和時機仍持開放態度，但已明確政策限制性仍不足，通脹預期可能固化的風險顯著。",
-              "details": [
-                {
-                  "title": "發言時間與場合",
-                  "text": "多次發言，來源未具體披露場合，時間集中於2026-10-12至10-13期間。"
-                },
-                {
-                  "title": "可驗證原文重點",
-                  "text": "哈瑪克多次表示政策仍需進一步收緊，倾向小幅頻繁加息，通脹壓力正擴散且存在固化風險。"
-                },
-                {
-                  "title": "貨幣政策立場",
-                  "text": "堅持貨幣政策依然偏鷹派，強調限制性政策需要以抑制總需求和通脹回落為目標。"
-                },
-                {
-                  "title": "通膨及就業觀點",
-                  "text": "指出通脹處於中高位，即使有適當政策仍需時間回落；勞動市場穩健為應對通脹留有空間。"
-                },
-                {
-                  "title": "經濟與金融環境評估",
-                  "text": "經濟持續增長，商業聯絡人反映擴張態勢，低收入勞工消費模式出現壓力，金融條件需更嚴格。"
-                },
-                {
-                  "title": "政策反應函數及前瞻指引",
-                  "text": "明確反應函數≠承諾性前瞻指引，政策透明促使企業與家庭規劃，有助市場穩定。"
-                },
-                {
-                  "title": "通脹預期風險",
-                  "text": "發現通脹預期存在不穩定跡象，企業計劃以超過成本的幅度提價，通脹心態逐步固化。"
-                },
-                {
-                  "title": "市場解讀與風險",
-                  "text": "加息步伐開放，警告政策不行動將改變市場環境，提高高通脹持續風險。"
-                },
-                {
-                  "title": "債券利率見解",
-                  "text": "中性利率偏高難精確估算，當前國債收益率歷史標準下處於適中水平，抵押貸款利率若回落至3%可能顯示經濟出現問題。"
-                },
-                {
-                  "title": "政策語調與市場反應",
-                  "text": "雖不希望抑制增長，但須邊際降溫經濟；保持對加息頻率與幅度彈性；強調政策獨立性重要。"
-                }
-              ]
-            }
-          ],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "ECB",
-          "name": "歐洲央行 ECB",
-          "status": "官員密集發言",
-          "officials": [
-            {
-              "official": "穆蘭",
-              "venue": "來源未提供具體場合",
-              "analysis": "歐洲央行官員穆蘭提及法國經濟面對能源衝擊仍具韌性，並指出產業不確定性指數處於高位。此言論凸顯ECB對通膨壓力及地區經濟波動的密切關注，尤其在當前能源價格動盪背景下，反映ECB仍警覺於貨幣政策調整節奏與經濟承受能力。分析指向ECB可能繼續維持偏鷹立場，因應持續的價格壓力與結構性挑戰。",
-              "details": [
-                {
-                  "title": "發言時間與場合",
-                  "text": "2026-10-13 02:04，來自市場快訊，無具體場合披露。"
-                },
-                {
-                  "title": "可驗證原文重點",
-                  "text": "指出法國工業不確定性指數升至2026年4月以來最高，反映經濟面臨挑戰。"
-                },
-                {
-                  "title": "政策背景",
-                  "text": "能源價格高企是驅動通膨及產業不確定性重要因素。"
-                },
-                {
-                  "title": "經濟觀點",
-                  "text": "法國經濟依然展現韌性，支撐歐元區整體經濟穩定。"
-                },
-                {
-                  "title": "通膨與金融穩定",
-                  "text": "高不確定性可能影響未來通膨動態，央行需密切監控並調整政策。"
-                },
-                {
-                  "title": "政策含意",
-                  "text": "歐洲央行可能繼續偏鷹，維持收緊政策以控制通膨。"
-                },
-                {
-                  "title": "市場解讀",
-                  "text": "法國經濟韌性短期內有助歐元抗壓，但債券市場已反映財政關切。"
-                },
-                {
-                  "title": "資料限制",
-                  "text": "缺乏具體政策決議或指引，陳述多為宏觀經濟評估。"
-                }
-              ]
-            }
-          ],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoE",
-          "name": "英國央行 BoE",
-          "status": "官員密集發言",
-          "officials": [
-            {
-              "official": "曼恩",
-              "venue": "泰國曼谷講話",
-              "analysis": "英國央行貨幣政策委員曼恩在曼谷發言時表達對工資-價格漂移條件已具備的觀察，暗示薪資與物價螺旋風險不可忽視，反映BoE對持續通膨壓力的警覺。曼恩此言論可能預示BoE貨幣政策仍保持強硬，以抑制工資動能過快上升及追高物價態勢。整體來說，他的發言為市場提供薪資通膨風險的直接訊號。",
-              "details": [
-                {
-                  "title": "發言時間與場合",
-                  "text": "2026-10-13 11:00，英國央行貨幣政策委員曼恩於泰國曼谷發表演講。"
-                },
-                {
-                  "title": "可驗證原文重點",
-                  "text": "指出工資-價格漂移可能出現的條件已經具備。"
-                },
-                {
-                  "title": "政策觀點",
-                  "text": "暗示持續的薪資壓力可能導致物價進一步上揚。"
-                },
-                {
-                  "title": "通膨及薪資動態",
-                  "text": "強調需密切關注薪資和物價互動帶來的風險。"
-                },
-                {
-                  "title": "市場含意",
-                  "text": "或支持BoE維持限制性政策立場。缺乏明確利率調整訊號。"
-                },
-                {
-                  "title": "資料限制",
-                  "text": "未披露具體貨幣政策決議或前瞻指引。整體分析建基於單次發言。"
-                }
-              ]
-            }
-          ],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoJ",
-          "name": "日本央行 BoJ",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "RBA",
-          "name": "澳洲聯儲 RBA",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoC",
-          "name": "加拿大央行 BoC",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "RBI",
-          "name": "印度央行 RBI",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [
-            "印度央行要求外匯風險保證金(FERR)必須以現金形式存入RBI帳戶並每日維持，金額為合約名義價值20%。",
-            "授權交易商僅能向非居民使用者提供以印度盧比為參考的不可交割遠期(NDF)合約，且限於對沖目的。"
-          ],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BCB",
-          "name": "巴西央行 BCB",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "SNB",
-          "name": "瑞士央行 SNB",
-          "status": "官員密集發言",
-          "officials": [
-            {
-              "official": "喬丹",
-              "venue": "來源未提供具體場合",
-              "analysis": "瑞士央行主席喬丹近期有多次發言，提及貨幣政策走向和歐元區相關變化，顯示對通膨與金融市場環境變化的審慎評估。其立場多傾向維持現有政策框架，密切關注外部衝擊對瑞士經濟及貨幣政策的影響。分析認為喬丹發言反映SNB仍在平衡通膨抑制與經濟成長之間尋求合適政策空間。",
-              "details": [
-                {
-                  "title": "發言時間與場合",
-                  "text": "2026-10-13當日前後，來源未提供具體場合。"
-                },
-                {
-                  "title": "可驗證原文重點",
-                  "text": "提及貨幣政策立場及歐元區經濟波動對瑞士的影響。"
-                },
-                {
-                  "title": "政策背景",
-                  "text": "在全球高通膨及歐洲不確定因素下，慎重評估政策調整必要性。"
-                },
-                {
-                  "title": "通膨觀點",
-                  "text": "持續關注通膨走勢與預期，政策將以此為判斷依據。"
-                },
-                {
-                  "title": "金融穩定考量",
-                  "text": "注重金融市場波動風險及其對經濟的可能影響。"
-                },
-                {
-                  "title": "政策含義",
-                  "text": "可能傾向於維持現有利率水準，保持靈活性。"
-                },
-                {
-                  "title": "市場解讀",
-                  "text": "市場視其發言為SNB短期政策趨於穩定的信號。"
                 }
               ]
             }
