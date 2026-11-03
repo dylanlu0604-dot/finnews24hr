@@ -1,7 +1,134 @@
 {
-  "updated": "2026-11-03 23:59:55",
-  "count": 12215,
+  "updated": "2026-11-04 00:04:32",
+  "count": 12214,
   "items": [
+    {
+      "id": "mkt:01a1a226-a74f-7ee0-aa51-fc059c241e3b",
+      "time": "2026-11-04 00:03:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said heightened uncertainty means future policy decisions will be made on a meeting-by-meeting basis."
+    },
+    {
+      "id": "mkt:01a1a226-7892-7ee0-aa51-f13169f8f808",
+      "time": "2026-11-04 00:03:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "BOC Governor Macklem said the inflation outlook has deteriorated. The ongoing Middle East war has pushed global oil prices higher and they are expected to remain elevated for longer, weighing on Canadians' fuel spending and raising costs for many businesses."
+    },
+    {
+      "id": "5191423",
+      "time": "2026-11-04 00:03:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家安全委員會宣佈，由國防部FutureG辦公室出資，發放超5000萬美元通感一體化（ISAC）專案資助。"
+    },
+    {
+      "id": "5191422",
+      "time": "2026-11-04 00:02:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲4%】費城半導體指數日內漲4.00%，現報10741.56點。英偉達漲3.03%，博通漲3.90%，美光漲3.62%，英特爾漲3.28%，AMD漲5.81%，高通漲1.28%，臺積電漲2.32%，阿斯麥漲2.46%。"
+    },
+    {
+      "id": "mkt:01a1a225-850e-7ee0-aa51-eb518ce1e95a",
+      "time": "2026-11-04 00:02:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "BOC Governor Macklem reiterated that further policy-rate increases may be necessary."
+    },
+    {
+      "id": "5191421",
+      "time": "2026-11-04 00:01:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "丹麥央行表示10月未在外匯市場進行干預。"
+    },
+    {
+      "id": "5191420",
+      "time": "2026-11-04 00:01:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統新聞秘書：安全不可分割原則是俄立場基石】俄羅斯總統新聞秘書佩斯科夫3日在接受俄媒體採訪時表示，安全不可分割原則是俄羅斯在烏克蘭問題上所持立場的基石。佩斯科夫說，俄羅斯、美國和烏克蘭將在阿布扎比舉行的三方會談中討論安全及與安全保障相關的問題。“一個國家的安全保障不能以犧牲另一個國家的安全（為代價）來實現。”（新華社）"
+    },
+    {
+      "id": "mkt:01a1a224-6d0a-7ee0-aa51-e30d5b703cb5",
+      "time": "2026-11-04 00:00:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Denmark's central bank said it did not intervene in the foreign-exchange market in October."
+    },
+    {
+      "id": "mkt:01a1a224-528c-7ee0-aa51-dc8ba9f4a725",
+      "time": "2026-11-04 00:00:51",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq extends gains to 1%."
+    },
+    {
+      "id": "5191419",
+      "time": "2026-11-04 00:00:33",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部將拍賣1150億美元的四周期國庫券。"
+    },
+    {
+      "id": "5191418",
+      "time": "2026-11-04 00:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "丹麥10月外匯儲備環比減少74億丹麥克朗。"
+    },
+    {
+      "id": "5191417",
+      "time": "2026-11-04 00:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "丹麥10月外匯儲備為6858億丹麥克朗。"
+    },
+    {
+      "id": "5191416",
+      "time": "2026-11-03 23:59:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲1.00%，現報25416.387點；道指跌0.19%，現報51887.430點；標普500指數漲0.56%，現報7583.470點。"
+    },
+    {
+      "id": "5191415",
+      "time": "2026-11-03 23:59:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股延續漲勢，納斯達克指數上漲1.00%。"
+    },
     {
       "id": "5191414",
       "time": "2026-11-03 23:54:41",
@@ -112170,153 +112297,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡：還有四小時拯救以色列，投右翼選票。"
-    },
-    {
-      "id": "5173397",
-      "time": "2026-10-28 00:04:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "甲骨文推出Oracle Media Fabric。"
-    },
-    {
-      "id": "mkt:01a17e1a-9f4d-7ee0-a99d-4cccbc071fbc",
-      "time": "2026-10-28 00:03:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oracle (ORCL.N) launched an AI data platform designed to scale enterprise AI applications."
-    },
-    {
-      "id": "mkt:01a17e1a-7b6b-7ee0-a99d-42b1099dfd30",
-      "time": "2026-10-28 00:03:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "ORCL.O",
-        "Impact bullish"
-      ],
-      "text": "CNBC reports Oracle (ORCL.N) is expanding its collaboration with OpenAI."
-    },
-    {
-      "id": "5173396",
-      "time": "2026-10-28 00:03:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "洛克希德·馬丁公司：將在波蘭設立PAC-3導彈維護設施。"
-    },
-    {
-      "id": "mkt:01a17e19-c453-7ee0-a99d-3bb760c124bf",
-      "time": "2026-10-28 00:03:00",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "ORCL.N"
-      ],
-      "text": "NVIDIA (NVDA.O) and Oracle (ORCL.N) expand deployment of NVIDIA's Vera Rubin platform."
-    },
-    {
-      "id": "5173395",
-      "time": "2026-10-28 00:02:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "Crusoe執行長：OpenAI正與Abilene合作開發另一款尚未釋出的模型。OpenAI尚未釋出的新模型旨在解決數學問題。"
-    },
-    {
-      "id": "5173394",
-      "time": "2026-10-28 00:02:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "甲骨文：Snowflake AI資料雲將作為原生第一方服務在甲骨文雲基礎設施上提供。將在甲骨文雲基礎設施上提供Cerebras的快速推理服務；預計於2027日曆年上線。"
-    },
-    {
-      "id": "5173393",
-      "time": "2026-10-28 00:02:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "甲骨文：宣佈與OpenAI合作，將前沿AI整合到企業計算中。將OpenAI模型、ChatGPT和Codex與甲骨文應用、資料及雲基礎設施進行整合。谷歌的張量處理單元將透過甲骨文雲基礎設施提供；將於2027日曆年開放使用。"
-    },
-    {
-      "id": "mkt:01a17e18-0def-7ee0-a99d-343af9cbb88c",
-      "time": "2026-10-28 00:01:07",
-      "tags": [
-        "MKT News",
-        "INTC.O",
-        "Impact bullish",
-        "ORCL.N"
-      ],
-      "text": "Market sources: Intel (INTC.O) and Oracle (ORCL.N) plan to expand their cooperation agreement."
-    },
-    {
-      "id": "5173392",
-      "time": "2026-10-28 00:01:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：與甲骨文將 Vera Rubin 擴充套件至吉瓦級規模，並在甲骨文雲基礎設施上線英偉達 Vera CPU。Vera Rubin NVL72 與 Vera CPU 現已在甲骨文雲全面上線。甲骨文雲將在x86伺服器中搭載配備八塊Rubin GPU的NVIDIA HGX Rubin NVL8。"
-    },
-    {
-      "id": "mkt:01a17e17-c0ff-7ee0-a99d-2de273b8e46f",
-      "time": "2026-10-28 00:00:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Crusoe CEO: OpenAI's not-yet-released model is designed to solve mathematical problems."
-    },
-    {
-      "id": "5173391",
-      "time": "2026-10-28 00:00:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾與甲骨文計劃擴大合作，在甲骨文雲基礎設施上支援企業級 AI 以及智慧體 AI。"
-    },
-    {
-      "id": "5173390",
-      "time": "2026-10-28 00:00:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內漲1%，現報4078.81美元/盎司。"
-    },
-    {
-      "id": "mkt:01a17e17-66b4-7ee0-a99d-22140398b721",
-      "time": "2026-10-28 00:00:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Crusoe CEO says OpenAI is collaborating with Abilene to develop another, as-yet-unreleased model."
-    },
-    {
-      "id": "te:markets:595503",
-      "time": "2026-10-28 00:00:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Gains Ahead of ECB and Fed Policy Meetings — The CAC 40 rose 0.7% to close at 7,903 on Tuesday ahead of major central bank decisions later this week. The ECB is will announce its policy decision on Thursday and is expected to leave interest rates unchanged. The US Federal Reserve is also expected to hold rates steady. Financial stocks closed higher, with BNP Paribas (+1.4%) and Société Générale (+1.3%) in focus ahead of their earnings reports on Wednesday and Friday, respectively. Meanwhile, Orange fell 0.4% despite raising its 2026 core earnings growth target and beating revenue and core profit expectations in Q3. STMicroelectronics (+6.4%) and Schneider Electric (+3%) rose, tracking a tech rebound on Wall Street following Anthropic’s IPO filing. Airbus (0%) and Dassault Systèmes (+0.9%) report earnings Wednesday, while TotalEnergies (-0.8%) and Renault (-1%) report Friday. On the data front, consumer confidence fell to 80 in October from 85 in September, amid rising yields, austerity disputes and cost-of-living protests."
     }
   ]
 }

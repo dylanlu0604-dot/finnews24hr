@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-04",
+  "count": 12,
+  "items": [
+    {
+      "id": "mkt:01a1a226-a74f-7ee0-aa51-fc059c241e3b",
+      "time": "2026-11-04 00:03:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said heightened uncertainty means future policy decisions will be made on a meeting-by-meeting basis."
+    },
+    {
+      "id": "mkt:01a1a226-7892-7ee0-aa51-f13169f8f808",
+      "time": "2026-11-04 00:03:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "BOC Governor Macklem said the inflation outlook has deteriorated. The ongoing Middle East war has pushed global oil prices higher and they are expected to remain elevated for longer, weighing on Canadians' fuel spending and raising costs for many businesses."
+    },
+    {
+      "id": "5191423",
+      "time": "2026-11-04 00:03:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家安全委員會宣佈，由國防部FutureG辦公室出資，發放超5000萬美元通感一體化（ISAC）專案資助。"
+    },
+    {
+      "id": "5191422",
+      "time": "2026-11-04 00:02:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲4%】費城半導體指數日內漲4.00%，現報10741.56點。英偉達漲3.03%，博通漲3.90%，美光漲3.62%，英特爾漲3.28%，AMD漲5.81%，高通漲1.28%，臺積電漲2.32%，阿斯麥漲2.46%。"
+    },
+    {
+      "id": "mkt:01a1a225-850e-7ee0-aa51-eb518ce1e95a",
+      "time": "2026-11-04 00:02:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "BOC Governor Macklem reiterated that further policy-rate increases may be necessary."
+    },
+    {
+      "id": "5191421",
+      "time": "2026-11-04 00:01:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "丹麥央行表示10月未在外匯市場進行干預。"
+    },
+    {
+      "id": "5191420",
+      "time": "2026-11-04 00:01:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統新聞秘書：安全不可分割原則是俄立場基石】俄羅斯總統新聞秘書佩斯科夫3日在接受俄媒體採訪時表示，安全不可分割原則是俄羅斯在烏克蘭問題上所持立場的基石。佩斯科夫說，俄羅斯、美國和烏克蘭將在阿布扎比舉行的三方會談中討論安全及與安全保障相關的問題。“一個國家的安全保障不能以犧牲另一個國家的安全（為代價）來實現。”（新華社）"
+    },
+    {
+      "id": "mkt:01a1a224-6d0a-7ee0-aa51-e30d5b703cb5",
+      "time": "2026-11-04 00:00:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Denmark's central bank said it did not intervene in the foreign-exchange market in October."
+    },
+    {
+      "id": "mkt:01a1a224-528c-7ee0-aa51-dc8ba9f4a725",
+      "time": "2026-11-04 00:00:51",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq extends gains to 1%."
+    },
+    {
+      "id": "5191419",
+      "time": "2026-11-04 00:00:33",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部將拍賣1150億美元的四周期國庫券。"
+    },
+    {
+      "id": "5191418",
+      "time": "2026-11-04 00:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "丹麥10月外匯儲備環比減少74億丹麥克朗。"
+    },
+    {
+      "id": "5191417",
+      "time": "2026-11-04 00:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "丹麥10月外匯儲備為6858億丹麥克朗。"
+    }
+  ]
+}
