@@ -1,7 +1,34 @@
 {
   "date": "2026-11-04",
-  "count": 86,
+  "count": 89,
   "items": [
+    {
+      "id": "5191470",
+      "time": "2026-11-04 00:58:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國與委內瑞拉就恢復貿易中的新一批鋁貨物進行談判。"
+    },
+    {
+      "id": "5191469",
+      "time": "2026-11-04 00:56:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "德國漢莎航空股份公司：收購的完成仍需獲得相關部門的批准，尤其是歐盟委員會。"
+    },
+    {
+      "id": "mkt:01a1a256-9fea-7ee0-aa52-ba8ae81212d7",
+      "time": "2026-11-04 00:55:48",
+      "tags": [
+        "MKT News",
+        "LHA.DE",
+        "Impact mixed"
+      ],
+      "text": "Deutsche Lufthansa said its stake in TAP could rise to 49.9% through buying employee-held shares."
+    },
     {
       "id": "te:economy:597758",
       "time": "2026-11-04 00:55:05",
