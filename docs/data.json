@@ -1,7 +1,92 @@
 {
-  "updated": "2026-11-04 01:03:42",
-  "count": 12225,
+  "updated": "2026-11-04 01:07:33",
+  "count": 12227,
   "items": [
+    {
+      "id": "mkt:01a1a260-43d4-7ee0-aa52-efa6a27bf27d",
+      "time": "2026-11-04 01:06:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "ZELENSKIY said Putin does not understand this form of dialogue and that it is insufficient; Putin prefers pressure and hard measures, so at times Ukraine must speak his language."
+    },
+    {
+      "id": "mkt:01a1a260-1ff8-7ee0-aa52-e7553f552aba",
+      "time": "2026-11-04 01:06:10",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Ukraine President Zelenskiy said Europe is very strong and, despite internal problems, united; that unity makes Europe several times stronger than Russia today."
+    },
+    {
+      "id": "5191477",
+      "time": "2026-11-04 01:06:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：日本火山列島地區發生5.2級地震。"
+    },
+    {
+      "id": "mkt:01a1a260-043d-7ee0-aa52-da73dc6a1443",
+      "time": "2026-11-04 01:06:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Zelenskiy said if sanctions are fully enforced and no one undermines them by selectively lifting oligarch measures, Russia will be unable to hold out."
+    },
+    {
+      "id": "5191476",
+      "time": "2026-11-04 01:04:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：俄羅斯總統普京不理解這種對話形式，這還不夠。他喜歡壓力和強硬舉措，因此有時我們需要用他的語言與他對話。"
+    },
+    {
+      "id": "mkt:01a1a25e-99f2-7ee0-aa52-d257fa76e08c",
+      "time": "2026-11-04 01:04:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NETANYAHU forwarded a Likud statement demanding an investigation into alleged foreign interference in Israel's elections and accusing the Israeli attorney general of obstructing a Shin Bet probe."
+    },
+    {
+      "id": "5191475",
+      "time": "2026-11-04 01:04:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "Palantir股價跌幅收窄，最新下跌2.6%。"
+    },
+    {
+      "id": "5191474",
+      "time": "2026-11-04 01:03:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：如果制裁百分之百真正生效，如果沒有人玩弄這些把戲，比如解除對一些寡頭的制裁等等，俄羅斯將無法生存。"
+    },
+    {
+      "id": "5191473",
+      "time": "2026-11-04 01:03:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列最高法院駁回了針對議會議長的請願，不要求其確定國家審計長選舉日期。"
+    },
     {
       "id": "te:markets:597760",
       "time": "2026-11-04 01:02:05",
@@ -112369,72 +112454,6 @@
         "Importance 1"
       ],
       "text": "FTSE 100 Falls as Corporate Results Disappoint — The FTSE 100 fell more than 0.5% on Tuesday as disappointing corporate results and weaker energy stocks weighed on the index. HSBC declined 5.4% after reporting third-quarter profits below expectations, while Reckitt dropped 4.9% after cutting its sales outlook amid supply constraints in the US and weaker vitamin sales in China. Oil majors also came under pressure, with Shell losing 1.7% and BP falling 2.8% as Brent crude prices retreated on renewed hopes of a diplomatic resolution to the US-Iran conflict. Mining stocks provided some support, however, as Antofagasta climbed 4.6%, while Endeavour Mining, Fresnillo and Rio Tinto gained around 2.5% each. Anglo American also advanced 2.3%, benefiting from strength across the sector. Meanwhile, UK shop price inflation accelerated to 2.1% year-on-year in October, up from 1.4% in September and above economists’ expectations of 1.6%."
-    },
-    {
-      "id": "te:markets:595512",
-      "time": "2026-10-28 01:07:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.73% Lower — The FTSE 100 Index dropped 79 points or 0.73 percent on Tuesday to close at 10689 points. Losses were led by HSBC Holdings (-5.91%), Reckitt Benckiser (-4.91%) and Pearson (-3.35%). Offsetting the fall, top gainers were Antofagasta (4.60%), Barratt Redrow (3.43%) and Endeavour (2.61%)."
-    },
-    {
-      "id": "5173439",
-      "time": "2026-10-28 01:07:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：博索納羅正在前往美國途中。"
-    },
-    {
-      "id": "te:markets:595511",
-      "time": "2026-10-28 01:06:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Italian Stocks Close Higher — Milan’s FTSE MIB closed 0.9% higher at 49,628 on Tuesday, recovering from early losses as falling oil prices boosted sentiment across sectors. Tech shares led the rally, with STMicroelectronics (7.1%), Technoprobe (3.4%) and Prysmian (3.3%) extending gains from the previous session. Utilities distributors Snam (2.8%), Italgas (2.4%) and Terna (1.1%) gained as European gas prices remained elevated. However, prices eased mid-session, supporting broader utilities, including Hera (0.7%) and Enel (0.6%). Stellantis gained 0.5% as Canada and the US resumed trade talks on Canadian autos. Financials also moved higher as oil prices fell mid-session, while Milan's bank mergers comes back into focus ahead of MPS shareholders meeting on Thursday. Banco BPM led the sector, rising 2.6%, while its board announced it would skip the meeting. On the downside, ENI lost 2.6%. Luxury shares remain under pressure, with Moncler posting the steepest decline at 2.1%."
-    },
-    {
-      "id": "5173438",
-      "time": "2026-10-28 01:06:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國五年期國債收益率在五年期國債標售後小幅擴大漲幅，最新上漲2.19個基點，報4.846%。"
-    },
-    {
-      "id": "5173437",
-      "time": "2026-10-28 01:06:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：1億桶委內瑞拉石油僅為第一批裝運。"
-    },
-    {
-      "id": "5173436",
-      "time": "2026-10-28 01:05:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國武裝部長沃特蘭：阿聯酋參與陣風戰機升級專案的出資額度尚未確定。"
-    },
-    {
-      "id": "5173435",
-      "time": "2026-10-28 01:04:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "法爾斯通訊社訊息：約旦穆瓦法克·薩爾提基地附近發生爆炸。"
     }
   ]
 }

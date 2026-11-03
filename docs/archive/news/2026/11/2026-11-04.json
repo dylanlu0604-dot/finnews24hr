@@ -1,7 +1,92 @@
 {
   "date": "2026-11-04",
-  "count": 94,
+  "count": 103,
   "items": [
+    {
+      "id": "mkt:01a1a260-43d4-7ee0-aa52-efa6a27bf27d",
+      "time": "2026-11-04 01:06:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "ZELENSKIY said Putin does not understand this form of dialogue and that it is insufficient; Putin prefers pressure and hard measures, so at times Ukraine must speak his language."
+    },
+    {
+      "id": "mkt:01a1a260-1ff8-7ee0-aa52-e7553f552aba",
+      "time": "2026-11-04 01:06:10",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Ukraine President Zelenskiy said Europe is very strong and, despite internal problems, united; that unity makes Europe several times stronger than Russia today."
+    },
+    {
+      "id": "5191477",
+      "time": "2026-11-04 01:06:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：日本火山列島地區發生5.2級地震。"
+    },
+    {
+      "id": "mkt:01a1a260-043d-7ee0-aa52-da73dc6a1443",
+      "time": "2026-11-04 01:06:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Zelenskiy said if sanctions are fully enforced and no one undermines them by selectively lifting oligarch measures, Russia will be unable to hold out."
+    },
+    {
+      "id": "5191476",
+      "time": "2026-11-04 01:04:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：俄羅斯總統普京不理解這種對話形式，這還不夠。他喜歡壓力和強硬舉措，因此有時我們需要用他的語言與他對話。"
+    },
+    {
+      "id": "mkt:01a1a25e-99f2-7ee0-aa52-d257fa76e08c",
+      "time": "2026-11-04 01:04:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NETANYAHU forwarded a Likud statement demanding an investigation into alleged foreign interference in Israel's elections and accusing the Israeli attorney general of obstructing a Shin Bet probe."
+    },
+    {
+      "id": "5191475",
+      "time": "2026-11-04 01:04:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "Palantir股價跌幅收窄，最新下跌2.6%。"
+    },
+    {
+      "id": "5191474",
+      "time": "2026-11-04 01:03:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：如果制裁百分之百真正生效，如果沒有人玩弄這些把戲，比如解除對一些寡頭的制裁等等，俄羅斯將無法生存。"
+    },
+    {
+      "id": "5191473",
+      "time": "2026-11-04 01:03:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列最高法院駁回了針對議會議長的請願，不要求其確定國家審計長選舉日期。"
+    },
     {
       "id": "te:markets:597760",
       "time": "2026-11-04 01:02:05",
