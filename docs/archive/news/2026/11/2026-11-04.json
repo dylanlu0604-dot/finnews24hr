@@ -1,7 +1,15 @@
 {
   "date": "2026-11-04",
-  "count": 428,
+  "count": 429,
   "items": [
+    {
+      "id": "mkt:01a1a3a4-e279-7ee0-aa57-bd574cfeb3df",
+      "time": "2026-11-04 07:00:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polls in Indiana and Kentucky have closed."
+    },
     {
       "id": "5191713",
       "time": "2026-11-04 06:56:47",
