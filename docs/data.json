@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-04 00:36:33",
-  "count": 12234,
+  "updated": "2026-11-04 00:40:23",
+  "count": 12230,
   "items": [
+    {
+      "id": "5191454",
+      "time": "2026-11-04 00:39:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬拉松石油：出售兩家煉油廠可為墨西哥灣沿岸業務增長提供資金。"
+    },
     {
       "id": "5191453",
       "time": "2026-11-04 00:34:15",
@@ -112459,53 +112467,6 @@
         "MKT News"
       ],
       "text": "【Report: Russian refinery crude runs rise 25% in late October after Russia-Ukraine energy ceasefire】Refinitiv, citing three industry sources, said Russian refinery crude runs recovered rapidly after drone attacks stopped affecting plants on Oct. 16, rising to about 5.0 mln b/d in the second half of October, roughly 25% above the start of the month. Diesel production increased by at least 50,000 tonnes/day to about 225,000 tonnes/day, with roughly 80,000 tonnes/day available for export. Ukrainian drone strikes since mid-March had caused domestic fuel shortages, prompted temporary bans on gasoline, jet fuel and diesel exports and forced imports of refined products. After the US pushed talks and helped arrange a diesel supply deal, Trump announced on Oct. 11 that Russia and Ukraine had agreed an energy ceasefire. Deputy Prime Minister Novak said refineries are rapidly restarting idled units and that needed oil-and-gas equipment can largely be produced domestically."
-    },
-    {
-      "id": "mkt:01a17e3b-c2c7-7ee0-a99d-bfe2302ef9fe",
-      "time": "2026-10-28 00:40:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Vatican Foreign Ministry said that after falling ill Pope Leo is not necessarily likely to hasten initiatives during his papacy, though the episode may alter external perceptions of his health."
-    },
-    {
-      "id": "mkt:01a17e3a-eba2-7ee0-a99d-b584bddba244",
-      "time": "2026-10-28 00:39:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Vatican Foreign Ministry said Pope Leo's lung cancer surgery is a 'turning point' for his pontificate."
-    },
-    {
-      "id": "mkt:01a17e3a-5f7f-7ee0-a99d-acd3866367e2",
-      "time": "2026-10-28 00:38:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Traders said higher runs at Russia's domestic refineries are expected to reduce the country's oil exports to the West by 100,000-200,000 bpd in November."
-    },
-    {
-      "id": "5173420",
-      "time": "2026-10-28 00:38:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "交易商稱，受國內煉廠增產影響，俄羅斯 11 月面向西方的石油出口預計每日減少 10 萬至 20 萬桶。"
-    },
-    {
-      "id": "mkt:01a17e38-e5f2-7ee0-a99d-a271abd687ab",
-      "time": "2026-10-28 00:37:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Ukraine official says Aleshky ceasefire arrangements fully observed】Verkhovna Rada human rights commissioner Lubinets said on Oct 27 that, as of 17:30 local time, both Ukrainian and Russian forces had complied with designated ceasefire arrangements in Aleshky related to humanitarian operations and no violations were detected. The ceasefire began at 03:00 Kyiv time on Oct 27 and is scheduled to run until 22:59 on Nov 1."
     }
   ]
 }
