@@ -1,7 +1,70 @@
 {
-  "updated": "2026-11-04 06:16:39",
-  "count": 12193,
+  "updated": "2026-11-04 06:20:32",
+  "count": 12197,
   "items": [
+    {
+      "id": "5191694",
+      "time": "2026-11-04 06:18:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD執行長蘇姿豐：：目前預計2027年營收將增長超過80%。"
+    },
+    {
+      "id": "mkt:01a1a37d-c460-7ee0-aa57-75a8998b512d",
+      "time": "2026-11-04 06:18:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bearish"
+      ],
+      "text": "AMD (AMD.O) CEO said the company expects PC shipments in 2027 to decline by a double-digit percentage."
+    },
+    {
+      "id": "5191693",
+      "time": "2026-11-04 06:17:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD執行長蘇姿豐：預計我們的嵌入式業務將實現強勁的兩位數年度營收增長。"
+    },
+    {
+      "id": "mkt:01a1a37d-6456-7ee0-aa57-68fb2582842d",
+      "time": "2026-11-04 06:17:46",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD's CEO said the company now expects 2027 server revenue to double YoY and that by 2027 its data-center business will account for more than 80% of total revenue, becoming the primary driver of revenue and profit growth."
+    },
+    {
+      "id": "mkt:01a1a37d-1fa9-7ee0-aa57-614acb0c682b",
+      "time": "2026-11-04 06:17:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says US must meet seven conditions to reopen Strait of Hormuz; Trump says military action after midterms not ruled out】On the 3rd, Iran said talks with the US have made no new progress and reiterated that Washington must fully and explicitly accept and implement seven conditions before the Strait of Hormuz will be reopened. Iran said it is battle-ready and on the highest defensive alert. Qatar, acting as mediator, said US and Iranian parties are reviewing a mediation proposal, remain willing to continue talks but significant gaps persist, and Qatari mediators expect responses to a new proposal within 36 hours. President Trump said he would not rule out military action against Iran after the US midterm elections."
+    },
+    {
+      "id": "mkt:01a1a37d-0938-7ee0-aa57-5b45ace87254",
+      "time": "2026-11-04 06:17:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "AMD (AMD.O) CEO expects data-center revenue growth to accelerate in Q4 and full-year data-center revenue to more than double versus 2025."
+    },
     {
       "id": "5191692",
       "time": "2026-11-04 06:15:47",
@@ -112225,23 +112288,6 @@
         "國際"
       ],
       "text": "【以色列議會選舉投票率達77.7% 創1999年以來新高】當地時間27日晚，據以色列中央選舉委員會公佈的資料，截至晚間10點，當天以色列議會選舉的選民投票率達到77.7%，高於2022年選舉同一時間點的70.6%，創下1999年以來同一時間點的最高紀錄。（央視新聞）"
-    },
-    {
-      "id": "5173820",
-      "time": "2026-10-28 06:17:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國航空排程員與運營專員批准了一份新的五年期合同，該合同由美國航空與專業航空飛行管制協會達成，包含立即生效的加薪條款。"
-    },
-    {
-      "id": "5173819",
-      "time": "2026-10-28 06:16:50",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國民主黨高層計劃一旦奪回國會控制權，就調查特朗普進口俄羅斯柴油協議，敦促銀行與港口留存相關記錄；財政部為該安排豁免制裁並稱其合法。"
     }
   ]
 }

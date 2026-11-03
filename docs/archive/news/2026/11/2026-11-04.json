@@ -1,7 +1,70 @@
 {
   "date": "2026-11-04",
-  "count": 386,
+  "count": 392,
   "items": [
+    {
+      "id": "5191694",
+      "time": "2026-11-04 06:18:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD執行長蘇姿豐：：目前預計2027年營收將增長超過80%。"
+    },
+    {
+      "id": "mkt:01a1a37d-c460-7ee0-aa57-75a8998b512d",
+      "time": "2026-11-04 06:18:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bearish"
+      ],
+      "text": "AMD (AMD.O) CEO said the company expects PC shipments in 2027 to decline by a double-digit percentage."
+    },
+    {
+      "id": "5191693",
+      "time": "2026-11-04 06:17:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD執行長蘇姿豐：預計我們的嵌入式業務將實現強勁的兩位數年度營收增長。"
+    },
+    {
+      "id": "mkt:01a1a37d-6456-7ee0-aa57-68fb2582842d",
+      "time": "2026-11-04 06:17:46",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD's CEO said the company now expects 2027 server revenue to double YoY and that by 2027 its data-center business will account for more than 80% of total revenue, becoming the primary driver of revenue and profit growth."
+    },
+    {
+      "id": "mkt:01a1a37d-1fa9-7ee0-aa57-614acb0c682b",
+      "time": "2026-11-04 06:17:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says US must meet seven conditions to reopen Strait of Hormuz; Trump says military action after midterms not ruled out】On the 3rd, Iran said talks with the US have made no new progress and reiterated that Washington must fully and explicitly accept and implement seven conditions before the Strait of Hormuz will be reopened. Iran said it is battle-ready and on the highest defensive alert. Qatar, acting as mediator, said US and Iranian parties are reviewing a mediation proposal, remain willing to continue talks but significant gaps persist, and Qatari mediators expect responses to a new proposal within 36 hours. President Trump said he would not rule out military action against Iran after the US midterm elections."
+    },
+    {
+      "id": "mkt:01a1a37d-0938-7ee0-aa57-5b45ace87254",
+      "time": "2026-11-04 06:17:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "AMD (AMD.O) CEO expects data-center revenue growth to accelerate in Q4 and full-year data-center revenue to more than double versus 2025."
+    },
     {
       "id": "5191692",
       "time": "2026-11-04 06:15:47",
