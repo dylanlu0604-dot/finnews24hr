@@ -1,7 +1,97 @@
 {
-  "updated": "2026-11-03 10:13:33",
-  "count": 12496,
+  "updated": "2026-11-03 10:17:24",
+  "count": 12501,
   "items": [
+    {
+      "id": "5189010",
+      "time": "2026-11-03 10:16:41",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利CEO表示，市場或將迎來“聖誕行情”."
+    },
+    {
+      "id": "mkt:01a19f31-c2a4-7ee0-aa3b-00eeff7e73da",
+      "time": "2026-11-03 10:16:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "【Emerging pillar industries seen topping 10 tln yuan by end of 15th Five-Year Plan】The National Development and Reform Commission said China’s emerging pillar industries generated nearly 6 tln yuan in output last year as R&D spending accelerates and new technologies and products scale up. In the first three quarters, integrated circuit output reached 442.8 bln units, up 23.3% YoY, and outbound technology licensing for innovative drugs totaled about $130 bln, close to last year’s full-year level. The NDRC projects output could double to over 10 tln yuan by the end of the 15th Five-Year Plan, becoming a key support for higher-quality economic growth."
+    },
+    {
+      "id": "5189008",
+      "time": "2026-11-03 10:16:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "5189004",
+      "time": "2026-11-03 10:16:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "滬深300指數抹去了一度達1.2%的跌幅。"
+    },
+    {
+      "id": "te:markets:597468",
+      "time": "2026-11-03 10:16:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Edge Higher on China Support Hopes — The Hang Seng Index rose 0.4%, or 101 points, to around 23,500 on Tuesday, supported by gains in technology services, retail trade and consumer-related shares, which outweighed weakness in energy, electronics and healthcare stocks. Sentiment also drew support from China's latest measures to shore up its equity markets, including plans to provide more than CNY100 billion in potential liquidity for stock purchases and lower interest rates on share-buyback loans. A sharp decline in oil prices amid hopes of a US-Iran diplomatic breakthrough also eased inflation concerns. However, worries over heavy AI spending and uncertain returns continued to weigh on sentiment following the recent selloff in US technology shares. Among notable movers, Tencent (1.3%), NetEase (2.0%), Meituan (2.1%), Alibaba (1.5%) and CATL (6.1%) advanced. Investors also awaited Hong Kong's preliminary third-quarter GDP and September retail sales figures."
+    },
+    {
+      "id": "5188996",
+      "time": "2026-11-03 10:15:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德銀：上調CrowdStrike目標價至300美元，評級升至“買入”】德意志銀行將CrowdStrike的評級由“持有”上調至“買入”，並將基於DCF估值的目標價上調至300美元，指出投資者仍低估了AI對網路安全市場的擴張潛力。分析師Brad Zelnick表示，CrowdStrike在其Fal.Con大會上披露的2034年可觸達市場規模(TAM)估計為5,650億美元，看起來相當保守。分析師預計，CrowdStrike將提前完成其2030財年實現100億美元年度經常性收入的目標，且未來多年的複合增長率將維持在20%以上。"
+    },
+    {
+      "id": "te:markets:597466",
+      "time": "2026-11-03 10:15:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Increases by 0.40% — Top currency gainer is South Korean Won (0.40%). Biggest loser is Chinese Yuan (-0.30%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "5188990",
+      "time": "2026-11-03 10:14:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊再度拉昇，華智數媒觸及20cm漲停】影視院線板塊再度拉昇，華智數媒、文投控股觸及漲停，上海電影、歡瑞世紀、金逸影視跟漲。"
+    },
+    {
+      "id": "mkt:01a19f2f-3ede-7ee0-aa3a-f803a16af7d2",
+      "time": "2026-11-03 10:13:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【JEFFERIES: Middle East aluminum capacity restarts likely to slow】JEFFERIES said aluminum prices have dropped about 17% since early June, partly reflecting resumed production at Middle East smelters that boosted supply. Citing a Monday meeting with executives of a U.S. aluminum producer, the firm said producers now expect restarts of previously idled Middle East capacity to be slower as local smelters face severe economics, notably high alumina import costs. U.S. management also expects many pre-war planned capacity additions in the Middle East will be harder to bring to market."
+    },
     {
       "id": "5188976",
       "time": "2026-11-03 10:12:46",
@@ -114501,49 +114591,6 @@
         "原創"
       ],
       "text": "【韓國央行警告：若AI支出放緩，韓國晶片出口可能減少多達1000億美元】根據韓國央行的資料，如果美國大型科技公司明年放緩在人工智慧領域的資本支出，韓國的半導體出口額可能會比此前的預測減少500億至1000億美元。在提交給議員安道傑（Ahn Do-geol）的書面回覆中，韓國央行構建了一種“悲觀情境”，旨在評估如果美國科技巨頭削減其大規模基礎設施投入，會對韓國經濟造成何種衝擊。在這種情境下，出口額的驟減將導致韓國明年的國內生產總值（GDP）增長率下降約0.4個百分點；同時，這也將使韓國的經常賬戶盈餘大幅低於韓國央行此前對2027年4300億美元盈餘的預測。該情境假設韓國半導體產品的單價將下跌10%。"
-    },
-    {
-      "id": "te:markets:595227",
-      "time": "2026-10-27 10:15:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: New Zealand Dollar Appreciates by 0.30% — Top currency gainers are New Zealand Dollar (0.30%) and South Korean Won (0.20%). Biggest loser is Japanese Yen (-0.07%). Meanwhile Chinese Yuan was little changed."
-    },
-    {
-      "id": "5171330",
-      "time": "2026-10-27 10:14:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【食品飲料板塊異動拉昇 桂發祥2連板】食品飲料板塊盤中異動拉昇，桂發祥2連板，此前青島食品2連板，陽光乳業漲停，一鳴食品、海欣食品、蓋世食品、朱老六等衝高。"
-    },
-    {
-      "id": "te:markets:595225",
-      "time": "2026-10-27 10:14:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Struggle for Direction — The Shanghai Composite edged down 0.1% to 3,694 on Tuesday, while the Shenzhen Component traded flat around 11,538 as investors weighed stronger economic data against concerns over corporate profitability. China’s industrial profits rose 15.5% year-on-year to CNY 6.03 trillion in the first nine months of 2026, easing from 15.7% growth in the January-August period. Industrial output also strengthened, expanding 5.5% year-on-year in September from 5.2% in August and marking the fastest growth since March. On the corporate front, CITIC Securities fell nearly 3% after reporting a decline in Q3 net profit, as market volatility weighed on investment income. Concerns over corporate profitability continue to weigh on Chinese equities, which slid into a bear market late last week, erasing USD 2.4 trillion in market value from their May peak. Investors are now watching developments at the Communist Party’s Fifth Plenum for policy signals and further details on China’s economic priorities."
-    },
-    {
-      "id": "te:markets:595223",
-      "time": "2026-10-27 10:13:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Asian Tech Stocks Rise on Renewed AI Optimism — Asian technology stocks rebounded on Tuesday as Anthropic’s IPO filing revived investor interest in artificial intelligence-related shares. Market participants are also awaiting earnings reports this week from South Korean chipmakers Samsung and SK Hynix, as well as major US technology companies, including Amazon, Alphabet, and Microsoft, for further insights into the outlook for AI demand. Global equity markets have faced significant selling pressure in recent weeks amid growing concerns over the sustainability of massive investments in artificial intelligence. South Korea’s KOSPI Composite led regional gains, surging 4%, while Japan’s Nikkei 225 advanced nearly 2%."
     }
   ]
 }
