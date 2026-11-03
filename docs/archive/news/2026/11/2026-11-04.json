@@ -1,7 +1,56 @@
 {
   "date": "2026-11-04",
-  "count": 38,
+  "count": 43,
   "items": [
+    {
+      "id": "5191440",
+      "time": "2026-11-04 00:20:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士披露持有Penguin Solutions 9.1%股份後，Penguin Solutions股價上漲12.5%。"
+    },
+    {
+      "id": "5191439",
+      "time": "2026-11-04 00:18:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：整合後的導彈與火炮系統最初不會將人工智慧納入決策過程，發射及其他決策仍由指揮官掌控。"
+    },
+    {
+      "id": "mkt:01a1a233-fdbb-7ee0-aa52-6fee3cb2b613",
+      "time": "2026-11-04 00:17:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Nikkei reports the system will not initially incorporate AI into decision-making; launch and other decisions will remain under commander control."
+    },
+    {
+      "id": "mkt:01a1a233-c91d-7ee0-aa52-6309cf7599d6",
+      "time": "2026-11-04 00:17:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Nikkei reports Japan plans to integrate missile and artillery systems to strengthen its defenses."
+    },
+    {
+      "id": "5191438",
+      "time": "2026-11-04 00:16:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "Palantir美國政府部門季度營收激增96%至9.53億美元。"
+    },
     {
       "id": "5191437",
       "time": "2026-11-04 00:15:59",
