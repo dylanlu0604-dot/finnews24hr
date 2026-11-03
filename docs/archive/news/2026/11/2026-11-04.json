@@ -1,7 +1,55 @@
 {
   "date": "2026-11-04",
-  "count": 409,
+  "count": 414,
   "items": [
+    {
+      "id": "mkt:01a1a390-e99d-7ee0-aa57-a503e384dc5f",
+      "time": "2026-11-04 06:39:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UN elects five judges to International Court of Justice】Nov 3 — The UN General Assembly and Security Council separately voted to elect five judges to the International Court of Justice for nine-year terms beginning Feb. 6, 2027. UK candidate Dapo Akande, France candidate François Alabruna, Jordan candidate Mahmoud Hammoud and Singapore candidate Chen Huijing won election in the first round. The fifth seat required multiple ballots after Sierra Leone, South Korea and Ecuador withdrew their nominees; Kenya candidate Phoebe Okowa secured the absolute majority in both bodies and was re-elected."
+    },
+    {
+      "id": "5191706",
+      "time": "2026-11-04 06:38:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：正在商討的方案顯示，CVS 將分拆其零售藥房業務。"
+    },
+    {
+      "id": "5191705",
+      "time": "2026-11-04 06:37:36",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 時間待定 蘋果Apple智慧接入阿里千問，開放測試；半導體封測年會將舉行，多家上市公司參會；\n② 09:45 中國10月RatingDog服務業、綜合PMI；\n③ 13:00 印度10月服務業、綜合PMI終值；\n④ 時間待定 以色列議會選舉投票最終結果正式公佈；\n⑤ 16:50 法國10月服務業、綜合PMI終值；\n⑥ 16:55 德國10月服務業、綜合PMI終值；\n⑦ 17:00 歐元區10月服務業、綜合PMI終值；\n⑧ 17:30 英國10月服務業、綜合PMI終值；\n⑨ 18:00 歐元區10月CPI初值；\n⑩ 美股盤前 格羅方德半導體（格芯）、Circle Internet、優步、麥當勞等釋出業績報告；\n⑪ 21:15 美國10月ADP就業人數（小非農）；\n⑫ 21:20 歐洲央行首席經濟學家Lane講話；\n⑬ 21:30 美國9月貿易帳，加拿大9月貿易帳；\n⑭ 22:45 美國10月標普全球服務業、綜合PMI終值；\n⑮ 23:00 美國10月ISM非製造業指數；\n⑯ 23:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n⑰ 次日02:45 歐洲央行管委兼法國央行行長Moulin講話；\n⑱ 美股盤後 高通、Arm控股、高意公司/相干公司Coherent、Applovin釋出業績報告。"
+    },
+    {
+      "id": "te:economy:597793",
+      "time": "2026-11-04 06:37:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Industry Index",
+        "Importance 2"
+      ],
+      "text": "Australia Industry Index Remains Under Pressure — The Australian Industry Index rose 6.4 points to -19.1 in October 2026 from September, indicating a slight improvement in business conditions, although the index remained firmly in negative territory. Activity, employment, new orders and input indicators all improved modestly but continued to signal weak conditions. Activity remained constrained by subdued sales, weaker demand and fewer orders, despite some improvement ahead of Christmas. Cost pressures intensified as higher fuel prices continued to feed through supply chains. However, weak market conditions have limited businesses’ ability to pass these costs on, putting further pressure on margins. Manufacturing remained particularly affected by rising costs, with no clear signs of recovery. Downstream manufacturers faced additional challenges from a weakening consumer economy. Business services and construction also improved in October compared with September, but conditions in both sectors remained weak by historical standards."
+    },
+    {
+      "id": "5191704",
+      "time": "2026-11-04 06:36:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構間REITs擴容提速，保險理財資金踴躍佈局】近日，上海證券交易所舉辦了機構間REITs業務專題培訓會。據悉，此次培訓聚焦機構間REITs業務宣介與培育，有望進一步激發市場主體活力。隨著機構間REITs市場規模持續擴容，該類資產獲得越來越多機構投資者的青睞。記者調研發現，機構間REITs正吸引險資和理財資金積極配置。今年以來，機構間REITs的發行數量和發行規模已超過去年全年。預期收益率較高、估值較穩定、條款機制較靈活等特點，與配置型資金的需求較為匹配。另外，久期匹配、風險因子較低等特點，也成為險資偏愛機構間REITs的重要原因。（中證報）"
+    },
     {
       "id": "te:markets:597792",
       "time": "2026-11-04 06:35:16",
