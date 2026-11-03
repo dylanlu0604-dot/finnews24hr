@@ -1,7 +1,178 @@
 {
   "date": "2026-11-03",
-  "count": 1033,
+  "count": 1056,
   "items": [
+    {
+      "id": "te:economy:597586",
+      "time": "2026-11-03 16:14:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Armenia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Armenia Raises Policy Rate to 7.0% — The Central Bank of Armenia raised its policy rate by 25 basis points to 7.0% at its November 2026 meeting, citing persistent inflationary pressures and strong domestic demand. The latest increase brought the benchmark rate to its highest level since January 2025. The deposit rate was increased to 5.5%, while the lending rate rose to 8.5%."
+    },
+    {
+      "id": "5190403",
+      "time": "2026-11-03 16:14:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英聯食品執行長：關於英國與歐盟達成動植物衛生檢疫（SPS）協議的報道，“如果貿易變得更容易、成本更低、摩擦更少，那將是一件好事。”"
+    },
+    {
+      "id": "5190402",
+      "time": "2026-11-03 16:14:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【傳騰訊將推面向C端使用者的AI 搜尋引擎，官方暫無回應】今日，有媒體報道稱，騰訊即將釋出一款面向 C 端使用者的 AI 搜尋引擎，介面極簡、全面 AI 化，強化權威信源排序，會將 AI 問答與網頁搜尋揉在同一體驗裡。根據報道，有騰訊內部人士透露，這款 C 端搜尋引擎與元寶App內建搜尋、騰訊雲“元寶搜尋”API 共享同一套底層能力，即在面向瀏覽器與網頁搜尋場景時，三者本質是同一套能力在不同入口下的產品化呈現。對此訊息，新浪科技向騰訊官方進行求證，截至發稿暫無回應。（新浪科技）"
+    },
+    {
+      "id": "5190401",
+      "time": "2026-11-03 16:14:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其部長：對大眾汽車可能的投資持樂觀態度。"
+    },
+    {
+      "id": "5190400",
+      "time": "2026-11-03 16:14:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶科科技成立儲能技術公司】企查查APP顯示，近日，連雲港市灌雲縣晶雲儲能技術有限公司成立，法定代表人為於元緒，經營範圍包含：儲能技術服務；電力行業高效節能技術研發；太陽能發電技術服務；新材料技術推廣服務等。企查查股權穿透顯示，該公司由晶科科技間接全資持股。"
+    },
+    {
+      "id": "mkt:01a1a079-2aa8-7ee0-aa45-39ab128249a4",
+      "time": "2026-11-03 16:14:17",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index"
+      ],
+      "text": "【Hong Kong close: Hang Seng +0.57% as consumer sectors lead; Hang Seng Tech +0.74%】Hang Seng Index held a narrow intraday range of about 200 points and closed up 0.57% at 23,525.97, while the Hang Seng Tech Index rose 0.74% to 3,867.73 after an early rally faded into the afternoon. Market turnover totaled HK$236.4bn vs HK$204.8bn the prior session. Sector moves: restaurants and dairy led gains; pork, wind power and airlines also outperformed. Compute-hardware names fell; optical communications and PCB segments were among the weakest, and pharmaceuticals underperformed. Notable stock moves: Haidilao (06862.HK) +6.43%, Muyuan Foods (02714.HK) +6.43%, Longyuan Power (00916.HK) +8.03%; Zhongji Xuchuang (03308.HK) -10.92%, Dongshan Precision (02384.HK) -9.09%, BeiGene (06160.HK) -4.80%."
+    },
+    {
+      "id": "5190399",
+      "time": "2026-11-03 16:14:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【埃泰克：董事長、總經理提議以3000萬元至5000萬元回購股份】埃泰克公告，董事長、總經理CHEN ZEJIAN提議公司以集中競價交易方式回購A股，回購資金總額不低於人民幣3000萬元、不超過人民幣5000萬元，價格不超過董事會審議透過回購決議前30個交易日公司股票交易均價的150%。回購股份擬用於股權激勵或員工持股計劃，資金來源為自有資金或自籌資金，期限為董事會審議透過回購方案之日起12個月內。具體內容以董事會審議透過的方案為準。"
+    },
+    {
+      "id": "5190398",
+      "time": "2026-11-03 16:14:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽檢察機關依法對魏學林涉嫌受賄案提起公訴】日前，安徽省當塗縣原二級巡視員魏學林涉嫌受賄罪一案，由馬鞍山市監察委員會調查終結，移送檢察機關審查起訴。經馬鞍山市人民檢察院指定管轄，由馬鞍山市雨山區人民檢察院依法向馬鞍山市雨山區人民法院提起公訴。案件正在進一步辦理中。"
+    },
+    {
+      "id": "5190397",
+      "time": "2026-11-03 16:13:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【10月私募調研超5300次】10月私募調研熱情高漲。私募排排網資料顯示，截至2026年10月31日，當月共有1037傢俬募機構參與到A股調研活動中，合計調研達5310次，調研範圍覆蓋到27個申萬一級行業中的463只個股。其中58家百億私募當月調研達704次，覆蓋到27個申萬一級行業中的277只個股。"
+    },
+    {
+      "id": "5190396",
+      "time": "2026-11-03 16:13:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華康潔淨：中標1.93億元光通訊產業基地專案一期機電工程1標段】華康潔淨公告，公司於2026年11月2日收到淮安旭創科技有限公司發出的《中標通知書》，確認公司中標光通訊產業基地專案一期機電工程1標段，中標價1.93億元，佔公司2025年度經審計營業收入的8.44%。截至公告披露日，該專案尚未簽署正式合同，合同簽訂及合同條款尚存在不確定性，具體內容以最終簽署的合同為準。"
+    },
+    {
+      "id": "5190395",
+      "time": "2026-11-03 16:13:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【檢察機關依法分別對韓玉明、白立柱、鮑長山、李國鋒、魏學林提起公訴】11月3日訊息，最高檢通報，檢察機關依法分別對潞安化工集團有限公司原副總經理韓玉明，內蒙古自治區通遼市政府原黨組成員、副市長白立柱，吉林省白城市委原常委、鎮賚縣委原書記鮑長山，山東省應急管理廳原黨委委員、副廳長李國鋒，安徽省當塗縣原二級巡視員魏學林提起公訴。"
+    },
+    {
+      "id": "5190394",
+      "time": "2026-11-03 16:13:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【埃科光電：已有部分產品初步具備AI邊緣計算能力 目前處於應用探索階段】埃科光電(688610)近日在接待機構調研中表示，當前AI應用正加速向工業領域滲透，公司持續關注“AI+視覺”的演進方向，已有部分產品初步具備AI邊緣計算能力，目前處於應用探索階段，可能受技術迭代、研發進度、市場需求影響存在不確定性。"
+    },
+    {
+      "id": "5190393",
+      "time": "2026-11-03 16:13:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東檢察機關依法對李國鋒涉嫌受賄案提起公訴】日前，山東省應急管理廳原黨委委員、副廳長李國鋒（副廳級）涉嫌受賄罪一案，由山東省監察委員會調查終結，移送檢察機關審查起訴。經山東省人民檢察院指定管轄，由聊城市人民檢察院依法向聊城市中級人民法院提起公訴。案件正在進一步辦理中。"
+    },
+    {
+      "id": "5190392",
+      "time": "2026-11-03 16:12:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五糧液：已累計回購2453.74萬股 支付金額18.01億元】五糧液(000858.SZ)公告稱，截至2026年10月31日，公司已累計回購股份2453.74萬股，佔總股本的0.63%，最高成交價85.25元/股，最低成交價70.19元/股，已支付總金額18.01億元。其中10月回購840.97萬股，支付金額6億元。本次回購符合相關法律法規及公司回購方案。"
+    },
+    {
+      "id": "5190391",
+      "time": "2026-11-03 16:12:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佐力藥業：多微（I）上市許可持有人變更獲批】佐力藥業公告，公司此前收購多種微量元素注射液資產組，並持續推進協議產品上市許可人資格及權益變更。本次公司收到國家藥監局簽發的《藥品補充申請批准通知書》，多種微量元素注射液（I）的上市許可持有人由合肥市未來藥物開發有限公司變更為浙江佐力藥業股份有限公司，藥品批准文號不變。多微資產組其他產品的權證變更正在辦理中，本次批件預計不會對公司近期經營業績產生重大影響。"
+    },
+    {
+      "id": "mkt:01a1a077-44b9-7ee0-aa45-35afeae13948",
+      "time": "2026-11-03 16:12:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said Ukrainian President Zelenskiy will visit Berlin on Tuesday."
+    },
+    {
+      "id": "5190390",
+      "time": "2026-11-03 16:12:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【東北證券宏觀首席廖博：A股有望穩步兌現內涵式增長】當前市場怎麼看？東北證券宏觀首席分析師廖博在接受券商中國記者採訪時表示，近期市場波動主要表現為流動性再平衡。新舊動能比較視野下流動性或成為大類資產定價主線，中觀產業趨勢和宏觀基本面暫未顯現明顯變化，預計股市表現有望向內涵價值收斂，前期調整較多的科創板和創業板有望實現估值修復，市場風險偏好也有望在美國中期選舉靴子落地後得到一定提振，特別是計算機、電子、通訊和機械等硬科技領域，比較明朗的是產業維度長期向好的發展勢頭沒有顯著變化。"
+    },
+    {
+      "id": "5190389",
+      "time": "2026-11-03 16:12:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿美公司執行長：東西管道擴建的初步工程正在進行中。"
+    },
+    {
+      "id": "5190388",
+      "time": "2026-11-03 16:11:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國默茨表示，烏克蘭總統澤連斯基將於週二訪問柏林。"
+    },
+    {
+      "id": "mkt:01a1a076-b019-7ee0-aa45-2cc6bfa00710",
+      "time": "2026-11-03 16:11:35",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【CSRC to strengthen market-stabilization mechanisms and consolidate market stability】On Nov. 3 at the 2026 International Financial Leaders Investment Summit, CSRC vice chairman Li Chao said the regulator will tighten monitoring and market-stabilization mechanisms to safeguard smooth capital-market functioning and consolidate the foundations of market stability. The CSRC will deepen the institutional ecosystem for long-term capital to steadily raise the scale and share of long-term funds entering the market, accelerate a new round of capital-market reform and opening, and improve market functions to better coordinate investment and financing."
+    },
     {
       "id": "mkt:01a1a076-8694-7ee0-aa45-25fa5f90d1f6",
       "time": "2026-11-03 16:11:24",
@@ -9,6 +180,14 @@
         "MKT News"
       ],
       "text": "HSI closed up 132.65 pts (0.57%) at 23,525.97 on Nov 3. Hang Seng Tech Index rose 28.32 pts (0.74%) to 3,867.73. H-share index gained 36.99 pts (0.47%) to 7,943.10. Red-chip index advanced 49.62 pts (1.27%) to 3,961.37."
+    },
+    {
+      "id": "5190387",
+      "time": "2026-11-03 16:11:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "李強在2026年世界網際網路大會烏鎮峰會開幕式上的主旨演講（全文）。（新華社）"
     },
     {
       "id": "mkt:01a1a076-5065-7ee0-aa45-1d8501a831be",
@@ -22,6 +201,14 @@
         "Brent"
       ],
       "text": "ARAMCO CEO says initial work on expansion of the East–West pipeline is underway."
+    },
+    {
+      "id": "5190386",
+      "time": "2026-11-03 16:11:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【證監會：加強穩市機制建設 著力夯實市場穩的基礎】11月3日，中國證監會副主席李超在2026年國際金融領袖投資峰會上表示，全力維護資本市場平穩執行，中國證監會密切加強監測監控和穩市機制建設，著力夯實市場穩的基礎，進一步健全“長錢長投”的制度生態，推動中長期資金入市規模和比例穩步提升。加快推動實施新一輪資本市場改革開放，健全投資和融資相協調的資本市場功能。（證券時報）"
     },
     {
       "id": "5190385",
@@ -47,6 +234,16 @@
         "市場"
       ],
       "text": "中期協釋出2026年11月3日期貨公司高管人員專業能力水平評價測試合格人員名單。"
+    },
+    {
+      "id": "5190382",
+      "time": "2026-11-03 16:10:30",
+      "tags": [
+        "央行",
+        "公司",
+        "市場"
+      ],
+      "text": "【國泰海通中標央行第三批互換便利操作100億元】記者獲悉，國泰海通再度中標“證券、基金、保險公司互換便利（SFISF）”業務，中標利率為10bp，中標規模100億元，規模較前兩次大幅提升。此前，國泰海通先後兩次中標互換便利操作，並迅速推動業務落地，是市場首家透過借入國債進行回購融資增持A股的證券公司。截至目前，前兩批互換便利額度已全部用來增持A股及股票ETF。國泰海通黨委書記、董事長朱健表示，本次中標的100億規模，將在互換便利操作後儘快全部投入使用，與同業機構一起形成合力，最大化發揮政策工具效果。 (財聯社）"
     },
     {
       "id": "5190381",
