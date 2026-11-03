@@ -1,7 +1,335 @@
 {
-  "updated": "2026-11-03 16:00:48",
-  "count": 12346,
+  "updated": "2026-11-03 16:04:32",
+  "count": 12382,
   "items": [
+    {
+      "id": "5190364",
+      "time": "2026-11-03 16:04:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿斯麥在阿姆斯特丹市場股價下跌3.4%。"
+    },
+    {
+      "id": "5190363",
+      "time": "2026-11-03 16:03:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：推出新一攬子財政支援措施，使中小型機構更容易獲得網路安全基本認證。"
+    },
+    {
+      "id": "5190362",
+      "time": "2026-11-03 16:03:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "拜耳上調盈利預期後股價上漲3.8%。"
+    },
+    {
+      "id": "5190361",
+      "time": "2026-11-03 16:03:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "DRAX 與布魯克菲爾德和 RADIANT 簽署開發資料中心協議後，股價上漲超 8%。"
+    },
+    {
+      "id": "5190360",
+      "time": "2026-11-03 16:03:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "倫敦證券交易所集團：富時羅素推出富時ZARONIA期限指數，以支援南非的基準過渡。"
+    },
+    {
+      "id": "5190359",
+      "time": "2026-11-03 16:03:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利普睿司曼、泰克諾普羅布和意法半導體的股價在早盤交易中下跌約3%。"
+    },
+    {
+      "id": "mkt:01a1a06f-22ad-7ee0-aa44-ca1490719b76",
+      "time": "2026-11-03 16:03:20",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK government launches fiscal support package to help SMEs obtain basic cybersecurity certification."
+    },
+    {
+      "id": "5190358",
+      "time": "2026-11-03 16:03:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯啟動程式，遴選負責出售Sovcomflot 7.8%減一股股份的機構。"
+    },
+    {
+      "id": "mkt:01a1a06e-e2e7-7ee0-aa44-c195abe0d469",
+      "time": "2026-11-03 16:03:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China, Greece hold 15th economic and trade committee meeting in Ningbo】On Nov 3 in Ningbo, Zhejiang, China and Greece held the 15th China‑Greece economic and trade joint committee meeting, co‑chaired by the MOFCOM vice minister and Greece’s deputy foreign minister. China said the sides have made gains in trade and investment, ports and shipping, green energy, tourism and agriculture, and signalled willingness to deepen cooperation in services trade, the digital economy and the marine economy to generate new growth points. Beijing also noted China and the EU held two regular meetings of the China‑EU trade and investment consultation mechanism this year, reached a series of agreements, and said it will continue dialogue with the EU on the basis of reciprocity, balance and WTO rules to help maintain stable China‑EU economic relations."
+    },
+    {
+      "id": "5190357",
+      "time": "2026-11-03 16:03:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守49美元/盎司，日內跌3.73%。"
+    },
+    {
+      "id": "5190356",
+      "time": "2026-11-03 16:02:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國—希臘經貿混委會第十五次會議在浙江寧波召開】11月3日，商務部副部長兼中華人民共和國國際貿易談判副代表凌激與希臘外交部副部長塞奧哈里斯共同主持召開中國—希臘經貿混委會第十五次會議。凌激表示，雙方在貿易投資、港口航運、綠色能源、旅遊、農業等領域取得豐碩成果。中方願與希方進一步拓展服務貿易、數字經濟、海洋經濟等領域合作，打造中希經貿合作的新增長點。今年以來，中歐兩次舉行貿易投資磋商機制例會，取得一系列成果共識。中方願與歐方繼續在對等、平衡、符合世貿組織規則的基礎上，加強對話合作，共同維護中歐經貿關係穩定發展。"
+    },
+    {
+      "id": "mkt:01a1a06e-5698-7ee0-aa44-b9088f0aa095",
+      "time": "2026-11-03 16:02:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【China implements 150 national and industry standards for new energy storage】China has implemented 150 national and industry standards for new energy storage, establishing an initial full‑chain standards framework covering basic/general, planning and design, equipment and testing, construction and acceptance, grid connection and operation, O&M and maintenance, decommissioning and disposal, and safety and management. The framework is intended to help accelerate the sector’s shift from a \"new track\" to the \"main track.\" Chinese new energy storage projects now account for more than 50% of global installed capacity."
+    },
+    {
+      "id": "5190355",
+      "time": "2026-11-03 16:02:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普說會保護馬斯克】當地時間11月2日，《紐約郵報》專欄作家米蘭達·德文釋出對美國總統特朗普的採訪影片。特朗普在採訪中回應有關“如果民主黨在中期選舉中獲得國會參眾兩院足夠席位，可能會‘清算’美國企業家、億萬富翁馬斯克”的傳聞，稱“如果他們（民主黨人）真的這麼做，就不得不保護（包括馬斯克在內的）那些人”。德文還在採訪中提及“一些民主黨人正談論要報復特朗普及其家人”的言論，特朗普回應稱，這些民主黨人“都是非常‘邪惡’的人”。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a1a06d-f72d-7ee0-aa44-b2f0f099cf8f",
+      "time": "2026-11-03 16:02:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "EUROSTOXX50"
+      ],
+      "text": "European stocks opened lower on Tuesday, Nov. 3: Germany's DAX down 273.71 points (-1.05%) at 25,709.16; UK's FTSE 100 down 59.60 points (-0.55%) at 10,701.73; France's CAC 40 down 50.10 points (-0.62%) at 7,997.59; EUROSTOXX 50 down 69.51 points (-1.13%) at 6,106.55; Spain's IBEX 35 down 203.48 points (-1.07%) at 18,768.42; Italy's FTSE MIB down 631.44 points (-1.26%) at 49,316.50."
+    },
+    {
+      "id": "5190354",
+      "time": "2026-11-03 16:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黑龍江省公安廳原二級警務專員史衍芳被開除黨籍】經查，史衍芳喪失理想信念，背棄初心使命，對黨不忠誠、不老實，對抗組織審查；違反中央八項規定精神，違規接受宴請和旅遊活動安排；違背組織原則，不按規定報告個人有關事項，在幹部選拔任用工作中為他人謀取利益並收受錢款；廉潔底線失守，大肆收受禮金，借用管理服務物件錢款，違規從事營利活動；不正確履行職責，造成不良影響；與不法商人沆瀣一氣，利用職務上的便利，在幹部選拔任用、工程專案承攬等方面為他人謀取利益並收受鉅額財物。"
+    },
+    {
+      "id": "5190353",
+      "time": "2026-11-03 16:01:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐元區債券收益率跟隨美債走高，市場聚焦美國中期選舉】受美國國債收益率上升帶動，加之油價從週一的跌勢中小幅反彈，歐元區政府債券收益率在早盤交易中走高。由於歐元區當天沒有重要經濟資料公佈，政府債券發行也僅涉及奧地利和德國，投資者的關注焦點轉向美國中期選舉。民主黨同時贏得國會參眾兩院控制權的可能性有所上升。德國商業銀行分析師克里斯托夫·裡格在報告中表示：“總體而言，民主黨控制國會應對美國國債構成利好。”他指出：“預測選舉結果是一回事，預判特朗普及市場將如何反應，則是另一回事。”德國10年期國債收益率盤中上升2.1個基點，至3.316%。比利時10年期線性債券（OLO）表現相對落後，收益率上漲3.2個基點，至4.428%，此前該國預算談判破裂。"
+    },
+    {
+      "id": "5190352",
+      "time": "2026-11-03 16:01:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報3906.71美元/盎司。"
+    },
+    {
+      "id": "5190351",
+      "time": "2026-11-03 16:01:36",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "歐元集團將於11月9日評估歐洲央行高層職位提名情況。"
+    },
+    {
+      "id": "te:economy:597582",
+      "time": "2026-11-03 16:01:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Government Budget Value",
+        "Importance 1"
+      ],
+      "text": "France Budget Deficit Widens in January-September — France recorded a state budget deficit of €159.2 billion in the January-September 2026 period, widening from €155.4 billion a year ago, as expenditure rose more than revenues. Expenditures increased 4.9% year-on-year to €404.1 billion, primarily driven by higher personnel costs, operating expenses and debt-servicing costs. Meanwhile, revenues rose 4.1% to €275.0 billion, supported by higher tax receipts. Net tax revenue increased 3.9% to €250.5 billion, mainly driven by VAT and income tax collections. Non-tax revenue also climbed 11.6% to €19.5 billion. Meanwhile, the deficit in special Treasury accounts narrowed to €30.1 billion from €34.3 billion a year earlier."
+    },
+    {
+      "id": "5190350",
+      "time": "2026-11-03 16:01:22",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "歐元集團呼籲在11月6日前提交歐洲央行行長候選人提名。"
+    },
+    {
+      "id": "5190349",
+      "time": "2026-11-03 16:01:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "飛利浦股票因波動停牌，此前公司釋出第三季度業績並宣佈與美國司法部達成協議。"
+    },
+    {
+      "id": "mkt:01a1a06d-0fdc-7ee0-aa44-ad375e913ed5",
+      "time": "2026-11-03 16:01:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell about 1% intraday, trading at $3,906.47/oz."
+    },
+    {
+      "id": "5190348",
+      "time": "2026-11-03 16:00:50",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【傳達學習貫徹中共二十屆五中全會精神 全國政協十四屆常委會第十九次會議開幕 王滬寧主持 李希作報告】政協第十四屆全國委員會常務委員會第十九次會議3日上午在京開幕，專題傳達學習貫徹中共二十屆五中全會精神。中共中央政治局常委、全國政協主席王滬寧主持開幕會。中共中央政治局常委、中央紀律檢查委員會書記李希應邀出席開幕會並作報告。王滬寧在主持講話中表示，中共二十屆五中全會是在基本實現社會主義現代化的關鍵時期召開的一次十分重要的會議。人民政協要始終堅持中國共產黨全面領導和黨中央集中統一領導，把深入學習貫徹中共二十屆五中全會精神作為當前和今後一個時期的重大政治任務，深刻領悟習近平黨建思想，深刻把握中共中央關於深入推進新時代黨的建設新的偉大工程、持之以恆推進全面從嚴治黨的戰略部署，自覺把思想和行動統一到習近平總書記重要講話精神和全會決策部署上來，更加緊密地團結在以習近平同志為核心的中共中央周圍，為全面建成社會主義現代化強國、以中國式現代化全面推進中華民族偉大復興貢獻智慧和力量。（新華社）"
+    },
+    {
+      "id": "5190347",
+      "time": "2026-11-03 16:00:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞美尼亞中央銀行將再融資利率從6.75%上調至7%。"
+    },
+    {
+      "id": "5190346",
+      "time": "2026-11-03 16:00:30",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行透過傳統方式開啟了為期一週的黃金兌里拉賣方掉期拍賣，規模為6噸。"
+    },
+    {
+      "id": "mkt:01a1a06c-8051-7ee0-aa44-a16c907c539b",
+      "time": "2026-11-03 16:00:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European stocks opened lower: EUROSTOXX 50 down 1.14%, Germany's DAX down 1.02%, UK FTSE 100 down 0.64%."
+    },
+    {
+      "id": "mkt:01a1a06c-7462-7ee0-aa44-9b9a959cd6fb",
+      "time": "2026-11-03 16:00:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Counterpoint Research: Q3 2026 global smartphone shipments down 19% YoY; Apple posts quarter revenue record】According to Counterpoint Research, global smartphone shipments fell 19% YoY in Q3 2026 while industry revenue rose 3% to $114.0 bln as ASPs jumped 27% to a quarterly record $442, offsetting the volume decline. Counterpoint attributes the ASP surge to a stronger high‑end mix and industry-wide price hikes driven by rising memory costs; Apple recorded its highest revenue for the quarter."
+    },
+    {
+      "id": "mkt:01a1a06c-6be0-7ee0-aa44-97fa0b5618b2",
+      "time": "2026-11-03 16:00:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Eurozone bond yields rise with US Treasuries as markets eye US midterms】Eurozone government bond yields climbed in early trading, tracking higher US Treasury yields and a modest rebound in oil after Monday’s declines. With no major eurozone data and issuance limited to Austria and Germany, market attention shifted to the US midterm elections as the probability of Democrats winning both chambers rose. Analyst Christoph Rieg said Democratic control would be supportive for US Treasuries, but how markets would react to Trump is a separate question. Germany’s 10-year yield rose 2.1bps to 3.316%; Belgium’s 10-year OLO lagged, up 3.2bps to 4.428% after budget talks collapsed."
+    },
+    {
+      "id": "5190345",
+      "time": "2026-11-03 16:00:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南VN指數收跌0.6%，報1699.62點。"
+    },
+    {
+      "id": "5190344",
+      "time": "2026-11-03 16:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國已制定實施新型儲能國家標準及行業標準150項】記者今天瞭解到，我國已制定實施新型儲能國家標準及行業標準150項，初步形成涵蓋基礎通用、規劃設計、裝置及檢驗、施工及驗收、併網執行、運維及檢修、退役及處置、安全與管理全鏈條的新型儲能標準體系，有力支撐新型儲能產業加速從“新賽道”邁向“主賽道”。目前，我國新型儲能專案裝機規模佔全球市場份額50%以上。（央視新聞）"
+    },
+    {
+      "id": "te:markets:597581",
+      "time": "2026-11-03 16:00:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Gains by 2.37% — Top commodity gainers are Natural Gas UK (2.37%), Natural Gas EU (2.30%), Heating Oil (1.89%), Brent Oil (1.66%) and Crude Oil (1.41%)."
+    },
+    {
+      "id": "5190343",
+      "time": "2026-11-03 16:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普漲，德國DAX指數漲0.64%，英國富時100指數漲0.29%，法國CAC40指數漲1.01%，歐洲斯托克50指數漲0.73%，義大利富時MIB指數漲0.98%。"
+    },
+    {
+      "id": "5190342",
+      "time": "2026-11-03 15:59:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇通客車：2026年10月銷量2956輛，同比下降2.76%】宇通客車公告，2026年10月生產量3158輛，同比下降2.17%；銷售量2956輛，同比下降2.76%。本年累計生產量34882輛，同比下降5.98%；累計銷售量33885輛，同比下降7.41%。"
+    },
+    {
+      "id": "5190341",
+      "time": "2026-11-03 15:59:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【原油從上日大跌中反彈 有報道稱美伊協議仍遙遙無期】原油價格上漲，從上日大跌走勢中反彈，市場擔心伊朗和美國在達成結束戰爭的協議方面還有很長的路要走。布倫特原油和WTI原油期貨均上漲逾1%，此前週一均大跌逾7%。“考慮到緊張局勢如此嚴重，出現週一這樣的價格下跌並不是很合理。”哥倫比亞大學國際與公共事務學院高階研究學者Karen Young說，“但新聞動向正在推動市場波動，這意味著，如果美國和以色列對伊朗展開更多實際軍事打擊，價格將有更大的飆升空間。”週一油價下跌正值美國選民週二將參加中期選舉投票。戰爭推高能源價格，特朗普和共和黨面臨日益加大的政治壓力。特朗普過去一再表示，他將以某種方式解決這場衝突，並威脅在選舉結束後恢復對伊朗的打擊。"
+    },
     {
       "id": "5190340",
       "time": "2026-11-03 15:59:15",
@@ -79,6 +407,14 @@
         "焦點"
       ],
       "text": "南向資金淨買入額達230億港元。"
+    },
+    {
+      "id": "5190333",
+      "time": "2026-11-03 15:56:17",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【2026年度省級黨委和政府安全生產考核巡查受理問題隱患線索工作啟動】按照2026年度中央安全生產考核巡查工作安排，自11月中旬起，24箇中央安全生產考核巡查組將陸續進駐31個省、自治區、直轄市和新疆生產建設兵團開展2026年度省級黨委和政府安全生產考核巡查。11月3日至12日，國務院安全生產委員會辦公室將透過網際網路、電話、信件等3種途徑，受理群眾反映和職工報告問題隱患線索。受理範圍主要包括：生產經營單位安全生產重大事故隱患、非法違法行為；謊報瞞報生產安全事故；落實安全生產職責、推進重點任務過程中，作風不實、推諉扯皮、敷衍塞責的行為。（新華社）"
     },
     {
       "id": "5190332",
@@ -326,6 +662,14 @@
         "國際"
       ],
       "text": "【訊息人士：美國佛州墜機事故遇難者身份已確認】據美國方面2日訊息，1日美國佛羅里達州棕櫚灘縣墜機事故的9名遇難者身份已確認，其中包括1名來自得克薩斯州的科技企業家。據悉，44歲的科技企業家亞當·魯濱遜、其妻子海倫·夏普和他們的兩個孩子以及孩子的保姆都在事故飛機上，同行的還有他們的兩個朋友。機長為55歲的傑夫·格雷戈裡，副駕駛為20歲的納塔利婭·菲爾蓋拉斯。（央視新聞）"
+    },
+    {
+      "id": "5190312",
+      "time": "2026-11-03 15:44:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【劉海星會見巴基斯坦穆斯林聯盟（謝里夫派）秘書長、政府計劃發展部長伊克巴爾】11月3日，中共中央對外聯絡部部長劉海星在伊斯蘭堡會見巴基斯坦穆斯林聯盟（謝里夫派）秘書長、政府計劃發展部長伊克巴爾。劉海星表示，在習近平總書記和巴方領導人戰略引領下，中巴全天候戰略合作伙伴關係不斷深化。當前，雙方正按照兩國領導人戰略指引，打造中巴經濟走廊“2.0升級版”。雙方要搞好重大標誌性工程，也要辦好“小而美”民生專案。將走廊建設和安全保障、大城市與偏遠地區發展更好地統籌起來，讓更多民眾從中巴友好合作中獲益。中國共產黨願同穆盟（謝）落實好新形勢下加強兩黨交流合作諒解備忘錄，深入開展機制化交往，用好中巴政黨論壇、“巴中治黨治國研究中心”等平臺機制，拓展“政黨＋”合作廣度，推動兩黨兩國關係邁向新臺階。伊克巴爾表示，巴中自建交以來，兩國關係一直像春天般地欣欣向榮。數百年前，巴一位著名詩人曾寫道，中國雄獅一旦醒來，將像喜馬拉雅山脈一樣，為人類提供源源不斷的清泉。近年來，在共建“一帶一路”框架下，巴中經濟走廊迅速從藍圖變成一系列合作專案，取得許多重大成果，使巴中友誼增加了戰略經濟夥伴的維度。巴方願同中方共同努力，推動走廊建設“2.0升級版”取得更多成果，包括加強經貿合作，使巴方更多產品進入中國市場。中國擁有世界一流大學，希望巴方有更多學生赴中國學習人工智慧、新能源等新興技術，為走廊建設提供更多人才資源。"
     },
     {
       "id": "5190311",
