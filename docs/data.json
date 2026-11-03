@@ -1,7 +1,42 @@
 {
-  "updated": "2026-11-03 09:19:39",
-  "count": 12474,
+  "updated": "2026-11-03 09:23:29",
+  "count": 12472,
   "items": [
+    {
+      "id": "5188718",
+      "time": "2026-11-03 09:21:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展6210億元隔夜逆回購操作，投標量6210億元，中標量6210億元，操作利率為1.25%"
+    },
+    {
+      "id": "5188717",
+      "time": "2026-11-03 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數漲0.33%，恒生科技指數漲0.36%】騰訊音樂-SW漲4.06%，攜程集團-S漲2.82%，海底撈漲2.30%，小米集團-W漲1.99%，新東方-S漲1.94%，藥明生物漲1.88%，京東集團-SW漲1.87%。"
+    },
+    {
+      "id": "5188712",
+      "time": "2026-11-03 09:20:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內跌4%，現報16395.00元。"
+    },
+    {
+      "id": "5188708",
+      "time": "2026-11-03 09:19:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "星展銀行CEO稱不允許使用自主型人工智慧代理。"
+    },
     {
       "id": "te:markets:597451",
       "time": "2026-11-03 09:18:39",
@@ -114315,58 +114350,6 @@
         "Importance 1"
       ],
       "text": "South Korea Shares Rebound on AI Optimism — South Korea’s benchmark KOSPI climbed 4.06% to above 5,690 on Tuesday, rebounding after falling in the previous session, as renewed optimism over artificial intelligence, gains on Wall Street, and easing oil prices lifted investor sentiment. AI-related stocks rallied after startup Anthropic disclosed strong revenue growth in its US IPO filing, boosting enthusiasm ahead of major technology earnings. Samsung Electronics rose 5.05%, SK Hynix gained 6.82%, SK Square surged 10.92%, and LG Energy Solution advanced 1.87%. Meanwhile, hopes of easing Middle East tensions following reported mediation efforts by Qatar helped ease concerns over oil supply. Sentiment was further supported by stronger-than-expected economic growth, with South Korea’s GDP expanding 1% quarter-on-quarter in the third quarter, exceeding forecasts of 0.8%, as the semiconductor boom boosted exports and investment. Investors also looked ahead to the Federal Reserve’s interest rate decision."
-    },
-    {
-      "id": "5171236",
-      "time": "2026-10-27 09:23:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "Resona稱客戶資料可能在供應商駭客攻擊中被盜。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202610273909176189",
-      "time": "2026-10-27 09:22:37",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "中國人民銀行以固定利率、數量招標方式開展了4120億元7天期逆回購操作，全額滿足了一級交易商需求。同時，開展了10000億元隔夜逆回購操作。"
-    },
-    {
-      "id": "5171235",
-      "time": "2026-10-27 09:21:48",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行逆回購今日淨投放10,140.0億元人民幣。"
-    },
-    {
-      "id": "5171234",
-      "time": "2026-10-27 09:21:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿里巴巴、交銀人壽保險入股創奕晟華股權投資企業】企查查APP顯示，近日，杭州創奕晟華股權投資合夥企業（有限合夥）發生工商變更，新增阿里巴巴關聯公司杭州灝月企業管理有限公司、交銀人壽保險有限公司等為合夥人。企查查資訊顯示，該企業成立於2026年4月，經營範圍包含：股權投資。"
-    },
-    {
-      "id": "5171233",
-      "time": "2026-10-27 09:21:19",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展4120億元7天逆回購操作，投標量4120億元，中標量4120億元，操作利率為1.40%。同時，開展了10000億元隔夜逆回購操作。"
-    },
-    {
-      "id": "5171232",
-      "time": "2026-10-27 09:21:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股開盤：恒生指數漲0.21%，恒生科技指數漲0.74%】藥明康德漲5.15%，聯想集團漲4.88%，華虹宏力漲4.12%，天數智芯漲3.68%，MINIMAX-W漲3.50%，李寧漲3.43%，智譜漲2.87%。"
     }
   ]
 }
