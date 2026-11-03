@@ -1,7 +1,1958 @@
 {
-  "updated": "2026-11-04 01:15:21",
-  "count": 12229,
+  "updated": "2026-11-04 05:48:53",
+  "count": 12152,
   "items": [
+    {
+      "id": "5191669",
+      "time": "2026-11-04 05:47:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭元因就業資料不及預期下跌。"
+    },
+    {
+      "id": "mkt:01a1a361-3a54-7ee0-aa56-557de1636922",
+      "time": "2026-11-04 05:47:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude 5.0 earthquake in Kyrgyzstan at 05:34 on Nov. 4; focal depth 10 km."
+    },
+    {
+      "id": "mkt:01a1a360-9378-7ee0-aa56-492ef916056a",
+      "time": "2026-11-04 05:46:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Israeli officials concerned after Trump says US will end security aid】Israeli media report officials and defense bodies are concerned after President Trump said the US will end security assistance to Israel. The prime minister’s office has not issued formal documents; some ministries said they were surprised and worried about consequences. Channel 12 cited a source saying the move could materially affect signed US‑Israel military procurement deals and the IDF’s future acquisition plans, while the defense ministry said the statement’s meaning, implementation timeline and implications for bilateral security ties remain unclear."
+    },
+    {
+      "id": "5191668",
+      "time": "2026-11-04 05:45:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：以方對美國將結束安全援助“感到擔憂”】據以色列媒體3日報道，以方官員和國防機構對美國總統特朗普當天稱即將結束向以色列提供安全援助“感到擔憂”。《以色列時報》3日援引一名以方官員的話說，以總理辦公室目前沒有公佈任何關於此事的正式檔案。報道稱，以色列一些政府部門對美方結束援助的決定“感到驚訝”，並對其可能產生的後果“感到擔憂”。（新華社）"
+    },
+    {
+      "id": "5191667",
+      "time": "2026-11-04 05:45:28",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭第三季度失業率 5.7%，預期5.50%，前值5.60%。\n紐西蘭第三季度就業人數季率 -0.1%，預期0.4%，前值由0.50%修正為0.40%。\n紐西蘭第三季度就業參與率 70.4%，預期70.7%，前值70.70%。\n紐西蘭第三季度勞工成本指數季率 0.4%，預期0.5%，前值0.70%。\n紐西蘭第三季度勞工成本指數年率 2%，預期2.1%，前值2.1%。"
+    },
+    {
+      "id": "mkt:01a1a35f-95d4-7ee0-aa56-47fcf7a3d1f6",
+      "time": "2026-11-04 05:45:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "New Zealand Q3 Labour Cost Index YoY 2.0%, below 2.1% expected and prior 2.1%."
+    },
+    {
+      "id": "mkt:01a1a35f-8ec0-7ee0-aa56-3e66ede583d1",
+      "time": "2026-11-04 05:45:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "New Zealand Q3 labour force participation rate 70.4% vs 70.7% expected; prior 70.70%."
+    },
+    {
+      "id": "mkt:01a1a35f-8726-7ee0-aa56-32979bb0e8b5",
+      "time": "2026-11-04 05:45:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "New Zealand Q3 employment -0.1% QoQ, below 0.4% expected; prior quarter revised to 0.4% from 0.5%."
+    },
+    {
+      "id": "mkt:01a1a35f-86e7-7ee0-aa56-2b5db260e000",
+      "time": "2026-11-04 05:45:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "New Zealand Q3 labour cost index QoQ 0.4% (consensus 0.5%), prior 0.7%."
+    },
+    {
+      "id": "mkt:01a1a35f-8659-7ee0-aa56-24134c4dd2a4",
+      "time": "2026-11-04 05:45:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q3 unemployment rate 5.7% (consensus 5.5%; prior 5.6%)."
+    },
+    {
+      "id": "mkt:01a1a35f-6842-7ee0-aa55-f81cc19e9fae",
+      "time": "2026-11-04 05:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Labor Cost Index (YoY) (Q3) | actual 2% | consensus 2.1% | previous 2.1%"
+    },
+    {
+      "id": "mkt:01a1a35f-68a0-7ee0-aa56-13bbf8e2c270",
+      "time": "2026-11-04 05:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Labor Cost Index (QoQ) (Q3) | actual 0.4% | consensus 0.5% | previous 0.70%"
+    },
+    {
+      "id": "mkt:01a1a35f-685d-7ee0-aa56-022ca5401e82",
+      "time": "2026-11-04 05:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Labor Force Participation Rate (Q3) | actual 70.4% | consensus 70.7% | previous 70.70%"
+    },
+    {
+      "id": "mkt:01a1a35f-6897-7ee0-aa56-0ec2ef012270",
+      "time": "2026-11-04 05:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Employment Change (QoQ) (Q3) | actual -0.1% | consensus 0.4% | previous 0.50%"
+    },
+    {
+      "id": "mkt:01a1a35f-68b1-7ee0-aa56-1a2d2d53ede0",
+      "time": "2026-11-04 05:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Unemployment Rate (Q3) | actual 5.7% | consensus 5.50% | previous 5.60%"
+    },
+    {
+      "id": "5191666",
+      "time": "2026-11-04 05:44:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破78000美元，日內漲1.55%。"
+    },
+    {
+      "id": "5191665",
+      "time": "2026-11-04 05:42:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：11月04日05時34分在新疆克孜勒蘇州烏恰縣附近（北緯39.45度，東經74.08度）發生5.0級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:01a1a35c-ef8e-7ee0-aa55-f7dd9256dc8c",
+      "time": "2026-11-04 05:42:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "AMD.O",
+        "Impact bullish",
+        "NVDA.O",
+        "000660.KS"
+      ],
+      "text": "【AMD Q3 revenue, outlook beat estimates; after-hours up >9%】AMD reported 2026 Q3 revenue $13.38bn, up 45% YoY and above consensus $13.09bn; adjusted EPS $2.09 vs $1.95 expected. Data center revenue nearly doubled YoY to $8.5bn, representing 64% of sales (vs 47% a year earlier), driven by AI processor demand; CEO Lisa Su said data center processor demand is expected to accelerate and the company can meet AI chip demand. AMD guided Q4 revenue ~ $17.0bn, above street $16.2–16.3bn, but gave gross margin guidance of 55% vs consensus 55.3% (a mild miss). PC and gaming revenue fell 8% YoY to $3.7bn, with gaming down 40%, citing memory supply tightness and rising prices. AMD shares rose over 9% after hours, lifting NVIDIA, SK Hynix and other chip stocks."
+    },
+    {
+      "id": "5191664",
+      "time": "2026-11-04 05:41:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿曼附近海域一艘油輪遭兩枚不明彈體擊中】當地時間11月3日，英國海上貿易行動辦公室（UKMTO）釋出通報稱，當天19時（格林尼治時間），阿曼利馬東北方向約14海里（約26公里）處發生一起船隻遇襲事件。通報稱，一艘油輪所屬公司的安全負責人報告，該油輪遭兩枚不明彈體擊中。英國海上貿易行動辦公室表示，截至目前，尚未收到人員傷亡或環境汙染的報告。（央視新聞）"
+    },
+    {
+      "id": "te:markets:597786",
+      "time": "2026-11-04 05:37:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Cuts Losses as Middle East Tensions Persist — Brent crude trimmed losses to near $104.5 a barrel on Tuesday after plunging more than 7% in the previous session. Reports indicated that the US and Iran remained far from reaching a deal to end their war, while mediator Qatar stepped up efforts to bridge differences and avert renewed escalation after the US midterm elections. Overnight, the US reportedly carried out defensive strikes on Iran, targeting surface-to-air missiles used against US assets. The strikes appeared limited and did not signal a return to major combat operations. Meanwhile, US President Trump renewed threats of possible military action. Qatari mediators traveled to Tehran on Monday night to discuss a version of a draft US-Iran deal that had been under consideration. The secretary of Iran’s National Security Council later said the US response to Iran's demands “was not convincing.” Still, Qatar’s Foreign Ministry spokesperson said both the US and Tehran were reviewing proposals put forward by mediators."
+    },
+    {
+      "id": "5191663",
+      "time": "2026-11-04 05:35:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦預計全年毛利率為11.8%至12.2%。"
+    },
+    {
+      "id": "te:markets:597785",
+      "time": "2026-11-04 05:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.51% Lower — The Dow Jones Index dropped 267 points or 0.51 percent on Tuesday to close at 51717 points. Losses were led by Sherwin-Williams (-3.33%), Merck (-2.62%) and Home Depot (-2.24%). Offsetting the fall, top gainers were Microsoft (2.82%), Nvidia (2.34%) and Amazon (2.06%)."
+    },
+    {
+      "id": "mkt:01a1a353-3276-7ee0-aa55-ee27a8533069",
+      "time": "2026-11-04 05:31:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuela interim president Rodriguez said the country will secure $17 bln in financing over the next five years for the private and public sectors."
+    },
+    {
+      "id": "te:markets:597784",
+      "time": "2026-11-04 05:30:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Rebounds as Middle East Tensions Persist — Crude oil rebounded slightly to near $97 a barrel on Tuesday after plunging more than 7% in the previous session. Reports indicated that the US and Iran remained far from reaching a deal to end their war, while mediator Qatar stepped up efforts to bridge differences and avert renewed escalation after the US midterm elections. Overnight, the US reportedly carried out defensive strikes on Iran, targeting surface-to-air missiles used against US assets. The strikes appeared limited and did not signal a return to major combat operations. Meanwhile, US President Trump renewed threats of possible military action. Qatari mediators traveled to Tehran on Monday night to discuss a version of a draft US-Iran deal that had been under consideration. The secretary of Iran’s National Security Council later said the US response to Iran's demands “was not convincing.” Still, Qatar’s Foreign Ministry spokesperson said both the US and Tehran were reviewing proposals put forward by mediators."
+    },
+    {
+      "id": "5191661",
+      "time": "2026-11-04 05:30:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AMD營收展望超預期 人工智慧晶片需求強勁】作為英偉達在AI晶片領域的主要挑戰者，AMD給出的營收預測高於分析師預期，顯示資料中心處理器需求仍然強勁。AMD週二在宣告中表示，預計第四季度營收為170億美元，上下浮動3%。相比之下，分析師平均預期為163億美元。最新展望進一步表明AI支出具有持續性，可能有助於緩解投資者的緊張情緒。最近幾周，由於市場擔心AI基礎設施行業存在泡沫，晶片製造商和其他科技公司股價遭到重挫。在執行長蘇姿豐領導下，AMD已成為最重要的處理器與計算裝置供應商之一，為大量新興AI服務提供支撐。AMD首席財務官Jean Hu在宣告中表示：“我們的第四季度展望反映出營收和利潤增長加速，這得益於資料中心產品組合的強勁需求。”財報釋出後，AMD股價盤後上漲約6%。即使經歷近期波動，該股年迄今仍上漲逾一倍。公司市值9月達到1萬億美元，躋身少數達到這一規模的企業之列。"
+    },
+    {
+      "id": "mkt:01a1a352-30c3-7ee0-aa55-e7c5e818ebf0",
+      "time": "2026-11-04 05:30:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【White House circulates midterm messaging stressing Trump campaigned for GOP】The White House circulated internal materials to officials and outside supporters stressing Trump’s active role in the midterm campaign, saying he and Vice President Vance have held more than 50 rallies since the September GOP convention and claiming Republican standing has improved versus four weeks ago. The packet labeled the administration’s past two years as \"the most successful two years in history,\" highlighted immigration, public safety and economic policies, attacked six Democratic candidates, and was presented as a preemptive framing should Republicans face unfavorable election results."
+    },
+    {
+      "id": "mkt:01a1a351-688a-7ee0-aa55-d81d9d0ac90c",
+      "time": "2026-11-04 05:29:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Venezuela's interim president Rodriguez said 80 contracts have been signed under the new oil and gas law."
+    },
+    {
+      "id": "5191660",
+      "time": "2026-11-04 05:28:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：過去12個月石油產量增長了8.5%。"
+    },
+    {
+      "id": "mkt:01a1a34e-e2eb-7ee0-aa55-d002c5107455",
+      "time": "2026-11-04 05:26:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuela interim president RODRIGUEZ said October MoM inf was 6.2%."
+    },
+    {
+      "id": "mkt:01a1a34e-1326-7ee0-aa55-cfcea2847818",
+      "time": "2026-11-04 05:26:05",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) expects Q4 growth to accelerate as it scales up Helios and Venice."
+    },
+    {
+      "id": "5191659",
+      "time": "2026-11-04 05:24:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉10月通脹率為24個月來最低，委內瑞拉已簽署80項油氣協議。"
+    },
+    {
+      "id": "te:markets:597783",
+      "time": "2026-11-04 05:24:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Prudential Financial earnings above expectations at 3.77 USD — Prudential Financial (PRU) released earnings per share at 3.77 USD, compared to market expectations of 3.47 USD."
+    },
+    {
+      "id": "5191658",
+      "time": "2026-11-04 05:23:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國土安全部長：除非受到威脅否則ICE特工不會出現在投票站。"
+    },
+    {
+      "id": "te:markets:597782",
+      "time": "2026-11-04 05:21:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "AIG earnings above expectations at 2.06 USD — AIG (AIG) released earnings per share at 2.06 USD, compared to market expectations of 1.84 USD."
+    },
+    {
+      "id": "5191657",
+      "time": "2026-11-04 05:21:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD預計第四季度增長將加速，因Helios和Venice產品規模擴大。"
+    },
+    {
+      "id": "mkt:01a1a349-880f-7ee0-aa55-c535b7d4e30e",
+      "time": "2026-11-04 05:21:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "AMD.O",
+        "Impact bullish",
+        "NVDA.O",
+        "MU.O"
+      ],
+      "text": "AMD (AMD.O) gained 7% in after-hours U.S. trading, lifting SK Hynix (SKHY.O) about 2%; NVIDIA (NVDA.O) and Micron Technology (MU.O) rose just over 1%."
+    },
+    {
+      "id": "mkt:01a1a348-c6d5-7ee0-aa55-ba8428623371",
+      "time": "2026-11-04 05:20:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB executive board member Kocher said the ECB will continue to respond to inflation as necessary."
+    },
+    {
+      "id": "mkt:01a1a348-96a7-7ee0-aa55-b03ec8b9e2a9",
+      "time": "2026-11-04 05:20:05",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB executive board member Kocher said a December rate hike is possible if conditions do not change."
+    },
+    {
+      "id": "mkt:01a1a348-9529-7ee0-aa55-ad74c3d8ff7a",
+      "time": "2026-11-04 05:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "API weekly U.S. crude inventories for the week to Oct. 30 due in 10 minutes."
+    },
+    {
+      "id": "5191656",
+      "time": "2026-11-04 05:19:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "AMD財測超預期，英偉達股價上漲1.2%，Arm漲超3%。"
+    },
+    {
+      "id": "5191655",
+      "time": "2026-11-04 05:19:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD預計第四季度調整後運營費用約為37.5億美元。"
+    },
+    {
+      "id": "mkt:01a1a347-4c51-7ee0-aa55-a2d13ee6d9cf",
+      "time": "2026-11-04 05:18:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O"
+      ],
+      "text": "AMD (AMD.O) reported a 54% gross margin for Q3 2026."
+    },
+    {
+      "id": "5191654",
+      "time": "2026-11-04 05:18:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD 預計第四季度經調整毛利率大約55％，預估55.5％。"
+    },
+    {
+      "id": "mkt:01a1a346-d593-7ee0-aa55-99651a57a8ef",
+      "time": "2026-11-04 05:18:10",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "AMD (AMD.O) reported Q3 2026 net income $2.40 billion, up from $1.243 billion a year earlier; consensus $2.372 billion."
+    },
+    {
+      "id": "te:markets:597781",
+      "time": "2026-11-04 05:17:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Advanced Micro Devices earnings above expectations at 2.09 USD — Advanced Micro Devices (AMD) released earnings per share at 2.09 USD, compared to market expectations of 1.85 USD."
+    },
+    {
+      "id": "mkt:01a1a346-63b9-7ee0-aa55-9553852b2635",
+      "time": "2026-11-04 05:17:41",
+      "tags": [
+        "MKT News",
+        "AMD.O"
+      ],
+      "text": "AMD (AMD.O) expects adjusted gross margin of 55% for Q4 2026."
+    },
+    {
+      "id": "mkt:01a1a346-52d6-7ee0-aa55-887492e91dad",
+      "time": "2026-11-04 05:17:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) US-listed shares rose about 6% in after-hours trading after the company's quarterly revenue and earnings guidance beat estimates."
+    },
+    {
+      "id": "5191653",
+      "time": "2026-11-04 05:17:08",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "AMD預計第四季度營收約為170億美元，上下浮動3%，市場預期為163億美元。AMD美股盤後上漲6%。"
+    },
+    {
+      "id": "mkt:01a1a345-184e-7ee0-aa55-826ea2f27aa5",
+      "time": "2026-11-04 05:16:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) guides Q4 2026 revenue at $17.0 bln; market consensus $16.234 bln."
+    },
+    {
+      "id": "mkt:01a1a344-78dd-7ee0-aa55-7ab08b7b5082",
+      "time": "2026-11-04 05:15:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) Q3 2026 revenue $13.377 bln, vs $9.246 bln a year earlier; market consensus $13.09 bln."
+    },
+    {
+      "id": "mkt:01a1a344-216e-7ee0-aa55-74364130dfc3",
+      "time": "2026-11-04 05:15:13",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB policymaker Kocher said inflation risks remain elevated."
+    },
+    {
+      "id": "5191652",
+      "time": "2026-11-04 05:15:11",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "AMD 第三季度營收133.8億美元，預估130.8億美元。\n第三季度調整後每股收益2.09美元，預估1.97美元。\n第三季度調整後運營利潤率29％，預估28％。\n第三季度資本支出6.48億美元，預估6.47億美元。\n第三季度調整後運營收益39.2億美元，預估36.8億美元。\n第三季度研發支出28.0億美元，預估27.2億美元。"
+    },
+    {
+      "id": "5191651",
+      "time": "2026-11-04 05:14:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委科赫爾：若情況不變，12月可能加息。"
+    },
+    {
+      "id": "5191650",
+      "time": "2026-11-04 05:14:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委科赫爾：歐洲央行將在必要時繼續對通脹作出反應。"
+    },
+    {
+      "id": "5191649",
+      "time": "2026-11-04 05:13:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委科赫爾：通脹風險仍處於高位。"
+    },
+    {
+      "id": "mkt:01a1a341-e2cd-7ee0-aa55-6b40637eb1a3",
+      "time": "2026-11-04 05:12:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "New York Times reporter: air-raid sirens sounded in Kyiv; possible Russian missile attack."
+    },
+    {
+      "id": "5191648",
+      "time": "2026-11-04 05:12:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "Block第四季度調整後運營收入10.1億美元，預期10億美元。"
+    },
+    {
+      "id": "5191647",
+      "time": "2026-11-04 05:11:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多鄰國第三季度每股收益0.54美元】多鄰國第三季度每股收益為0.54美元。公司預計第四財季預訂額為3.82億美元、營收為3.22億美元、調整後EBITDA為8400萬美元；全財年預訂額展望為12.96億美元、營收展望為12.21億美元、調整後EBITDA展望為3.23億美元。"
+    },
+    {
+      "id": "mkt:01a1a340-b9c9-7ee0-aa55-62b835f232f7",
+      "time": "2026-11-04 05:11:30",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Super Micro Computer (SMCI.O) reported net sales in the first fiscal quarter of $19.9 bln, versus $16.389 bln expected."
+    },
+    {
+      "id": "te:markets:597780",
+      "time": "2026-11-04 05:11:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Wall Street Closes Higher as AI Stocks Recover — The S&P 500 edged up 0.4% and the Nasdaq gained 0.7% on Tuesday, while the Dow fell 197 points, as a revival of the AI trade powered gains on Wall Street. Chipmakers rallied after a recent selloff fueled by concerns over the massive capital spending on AI. Nvidia rose 2.3% after four consecutive sessions of losses, while AMD gained 3.6% ahead of its quarterly earnings release after the closing bell. Broadcom added 3.1% and Micron advanced 2.6% as well. Hyperscalers also gained, with Microsoft up 2.7%, Meta adding 2.4% and Oracle jumping 6%. Meanwhile, Apple shares fell 1.9% after warning that rising memory chip costs could pressure holiday-quarter margins. Palantir shed 1.6% amid slowing growth in US commercial total contract value. Investors also awaited the US midterm election results, with Democrats favored to regain control of the House, while the Senate outcome remained uncertain."
+    },
+    {
+      "id": "te:markets:597779",
+      "time": "2026-11-04 05:09:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Arista Networks earnings above expectations at 1.20 USD — Arista Networks (ANET) released earnings per share at 1.20 USD, compared to market expectations of 0.91 USD."
+    },
+    {
+      "id": "mkt:01a1a33e-bd5a-7ee0-aa55-5c196e15b092",
+      "time": "2026-11-04 05:09:20",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Super Micro Computer (SMCI.O) shares rose about 6% in after-hours trading on U.S. markets."
+    },
+    {
+      "id": "mkt:01a1a33e-61a9-7ee0-aa55-55170531ccde",
+      "time": "2026-11-04 05:08:56",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Super Micro Computer (SMCI.O) forecasts second fiscal quarter net sales of $19.5–21.5bn, versus $16.53bn expected."
+    },
+    {
+      "id": "mkt:01a1a33d-ca92-7ee0-aa55-49b8256cfc35",
+      "time": "2026-11-04 05:08:18",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Super Micro Computer (SMCI.O) now expects full-year net sales of $72–82 billion, versus prior guidance of $65–72 billion."
+    },
+    {
+      "id": "te:markets:597778",
+      "time": "2026-11-04 05:08:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Block earnings above expectations at 1.13 USD — Block (SQ) released earnings per share at 1.13 USD, compared to market expectations of 1.03 USD."
+    },
+    {
+      "id": "te:markets:597777",
+      "time": "2026-11-04 05:07:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Booking Holdings earnings above expectations at 4.66 USD — Booking Holdings (BKNG) released earnings per share at 4.66 USD, compared to market expectations of 4.54 USD."
+    },
+    {
+      "id": "5191646",
+      "time": "2026-11-04 05:05:45",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "超微電腦第一財季淨銷售額199.5億美元，預期149.9億美元。\n預計第二季度淨銷售額為195億至215億美元，市場預期為165.3億美元。\n預計全年淨銷售額為720億至820億美元，此前預期為650億至720億美元。"
+    },
+    {
+      "id": "te:markets:597776",
+      "time": "2026-11-04 05:04:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Amgen earnings above expectations at 6.45 USD — Amgen (AMGN) released earnings per share at 6.45 USD, compared to market expectations of 5.76 USD."
+    },
+    {
+      "id": "5191645",
+      "time": "2026-11-04 05:03:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "Booking第三季度總預訂額為545億美元，預期為526.9億美元。\n第三季度營收88.9億美元，市場預期為95.4億美元。\n第三季度調整後每股收益4.66美元，去年同期為99.50美元。\n第三季度調整後EBITDA為46.1億美元，市場預期為44.9億美元。\n第三季度售出客房夜數3.45億，預估3.3924億。\n預計第四季度總預訂額增長2%至4%。\n預計第四季度客房夜數增長1%至3%。\n預計第四季度按固定匯率計算營收增長2%至4%。"
+    },
+    {
+      "id": "mkt:01a1a339-3d31-7ee0-aa55-46a4fe910fa4",
+      "time": "2026-11-04 05:03:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities on Tuesday, Nov. 3: Dow Jones Industrial Average closed down 197.12 points (-0.38%) at 51,786.86; S&P 500 closed up 27.55 points (0.37%) at 7,568.95; Nasdaq Composite closed up 207.65 points (0.83%) at 25,372.01."
+    },
+    {
+      "id": "mkt:01a1a337-e845-7ee0-aa55-3e07798c6f09",
+      "time": "2026-11-04 05:01:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "ORCL.O",
+        "Impact bullish",
+        "AAPL.O",
+        "Impact bearish",
+        "NVDA.O"
+      ],
+      "text": "【US close: major indexes mixed; Oracle up nearly 6%】US stocks closed mixed on Tuesday: Dow Jones Industrial Average down 0.38%, S&P 500 up 0.37%, Nasdaq Composite up 0.83%. Micron Technology, SK Hynix and NVIDIA rose over 2% each; AMD gained 3.6%; Oracle jumped 5.8%; Apple fell about 2%. The Nasdaq Golden Dragon China Index rose 0.21%, with JD.com up 2.3%."
+    },
+    {
+      "id": "5191644",
+      "time": "2026-11-04 05:01:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "安進第三季度調整後每股收益6.45美元，預估5.77美元。"
+    },
+    {
+      "id": "5191643",
+      "time": "2026-11-04 05:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指跌0.38%，標普500指數漲0.37%，納指漲0.80%。費哲漲12.49%，BE漲9.05%，杜邦漲8.66%，RVTY漲7.94%，加特納跌13.29%，湯姆遜-路透跌9.93%，西思科公司跌9.33%。“七姐妹”方面：微軟漲2.70%，Meta Platforms漲2.33%，英偉達漲2.26%，亞馬遜漲2.09%，谷歌漲0.09%，特斯拉跌1.32%，蘋果跌1.97%。"
+    },
+    {
+      "id": "mkt:01a1a336-5499-7ee0-aa55-37dd0a0d9cd4",
+      "time": "2026-11-04 05:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's foreign-exchange reserves were USD 443.16 bln in October, up from USD 440.56 bln previously."
+    },
+    {
+      "id": "5191642",
+      "time": "2026-11-04 05:00:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國10月外匯儲備 4431.6億美元，前值4405.6億美元。"
+    },
+    {
+      "id": "5191641",
+      "time": "2026-11-04 05:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.15%】晶科能源漲7.76%，阿特斯漲7.33%，虎虎科技漲5.04%，高途漲5.05%，大全新能源漲4.89%。"
+    },
+    {
+      "id": "mkt:01a1a336-339e-7ee0-aa55-2ef7125c614e",
+      "time": "2026-11-04 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Foreign Exchange Reserves (Oct) | actual 443160000000.00006B | previous 440560000000.00006B"
+    },
+    {
+      "id": "te:markets:597775",
+      "time": "2026-11-04 04:54:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Brazilian Stocks Fall Ahead of Copom Decision — The Ibovespa fell 1.5% to close at 165,362, reaching a one-year low following Monday’s holiday, as Petrobras and credit-sensitive stocks posted losses. Petrobras dropped 4% as oil prices plunged during the holiday amid signs of progress in US-Iran diplomacy. Investors monitored the upcoming Copom decision after the first Focus Bulletin since the election showed higher forecasts for inflation, interest rates and the dollar. In contrast, growth expectations were revised down. The S&P Global Brazil Manufacturing PMI for October also remained in contraction territory. Most market participants expect the benchmark Selic rate to remain unchanged at 13.75% per year, amid concerns over the country’s fiscal outlook. Major banks posted losses, with Itaú down 0.6% and Bradesco shedding 2.2%. Utilities declined as well, with Axia falling 2.3%."
+    },
+    {
+      "id": "5191640",
+      "time": "2026-11-04 04:50:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "Politico援引一份備忘錄報道，FBI今年早些時候發生資料洩露事件，可能波及司法部工作人員。"
+    },
+    {
+      "id": "mkt:01a1a32d-1cf4-7ee0-aa55-255171e7da66",
+      "time": "2026-11-04 04:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact mixed"
+      ],
+      "text": "AMD will report earnings after the U.S. market close."
+    },
+    {
+      "id": "mkt:01a1a328-a368-7ee0-aa55-1f14a9ece6c7",
+      "time": "2026-11-04 04:45:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Global oil prices slip on 3rd】NYMEX December-delivery light, sweet crude (WTI) futures fell $0.37 to $96.09/bbl, down 0.38% at the close; ICE January-delivery Brent futures fell $1.17 to $103.60/bbl, down 1.12%."
+    },
+    {
+      "id": "mkt:01a1a325-cc22-7ee0-aa55-13a89f9f364b",
+      "time": "2026-11-04 04:42:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UK Maritime Trade Operations said a tanker company security officer reported the oil tanker’s engine room was struck by two unidentified shells."
+    },
+    {
+      "id": "mkt:01a1a323-225a-7ee0-aa55-098bb7c8e5f3",
+      "time": "2026-11-04 04:39:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations (UKMTO) said it received a report that a vessel was struck by an unidentified projectile 9 nm northeast of Lima, Oman; the vessel and crew are reported safe."
+    },
+    {
+      "id": "5191639",
+      "time": "2026-11-04 04:38:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "大型押注平臺Kalshi和Polymarket的最新交易價格顯示，民主黨控制眾議院的隱含機率維持在94%左右，奪取參議院的勝算則微降至約73%。"
+    },
+    {
+      "id": "mkt:01a1a320-e678-7ee0-aa55-05391866238e",
+      "time": "2026-11-04 04:36:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Latvian government resigns en masse】Latvia's government led by Prime Minister Andris Kurbergs resigned en masse on the 3rd and will serve as a caretaker until a new cabinet is formed, the Latvian parliament's website said. The country's 15th parliament held its first session the same day; 100 newly elected MPs were sworn in and a new presidium was elected, and the outgoing cabinet submitted its resignation report. Under Latvian law the incumbent government is deemed resigned when a new parliament convenes and remains in office until a new government wins a parliamentary vote of confidence."
+    },
+    {
+      "id": "5191638",
+      "time": "2026-11-04 04:34:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【拉脫維亞政府集體辭職】據拉脫維亞議會網站訊息，拉脫維亞總理安德里斯·庫爾貝格斯領導的政府3日集體辭職，開始履行看守政府職責直至新政府成立。拉脫維亞第15屆議會當天舉行首次會議，100名新當選議員宣誓就職，議會隨後選舉產生新一屆主席團。會議最後一項議程為內閣提交卸任報告。根據拉脫維亞相關法律，新一屆議會召開首次會議時，原政府即視為辭職，並繼續履行職責，直至新一屆政府透過議會信任投票。（新華社）"
+    },
+    {
+      "id": "5191637",
+      "time": "2026-11-04 04:33:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海軍：收到報告稱，在阿曼利馬東北9海里處，一艘船隻被不明發射物擊中；船隻和船員安全。"
+    },
+    {
+      "id": "5191636",
+      "time": "2026-11-04 04:33:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價3日微跌】截至當天收盤，紐約商品交易所12月交貨的輕質原油期貨價格下跌37美分，收於每桶96.09美元，跌幅為0.38%；1月交貨的倫敦布倫特原油期貨價格下跌1.17美元，收於每桶103.60美元，跌幅為1.12%。"
+    },
+    {
+      "id": "5191635",
+      "time": "2026-11-04 04:31:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一年內發生兩次重大高鐵事故 西班牙交通大臣宣佈辭職】當地時間11月3日，西班牙交通大臣奧斯卡·普恩特宣佈辭職。他表示：“在西班牙這樣的國家，不到一年內發生兩次重大高鐵事故後，交通大臣不能繼續留任。”（央視新聞）"
+    },
+    {
+      "id": "5191634",
+      "time": "2026-11-04 04:31:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部長布蘭奇：美國司法部就阿拉斯加州參議院選舉相關裁決提起上訴。"
+    },
+    {
+      "id": "5191633",
+      "time": "2026-11-04 04:29:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數3日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.15%，在匯市尾市收於101.867。截至紐約匯市尾市，1歐元兌換1.1190美元，低於前一交易日的1.1194美元；1英鎊兌換1.3415美元，高於前一交易日的1.3410美元。1美元兌換158.73日元，高於前一交易日的157.91日元；1美元兌換0.8209瑞士法郎，高於前一交易日的0.8183瑞士法郎；1美元兌換1.4003加元，高於前一交易日的1.3987加元；1美元兌換9.7940瑞典克朗，高於前一交易日的9.7807瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a1a31a-066b-7ee0-aa54-fb2e847c58be",
+      "time": "2026-11-04 04:29:14",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDCAD"
+      ],
+      "text": "【Dollar index up on the 3rd】The dollar index, measuring the dollar against six major currencies, rose 0.15% to 101.867 at the New York close. EURUSD 1.1190 (from 1.1194); GBPUSD 1.3415 (from 1.3410); USDJPY 158.73 (from 157.91); USDCHF 0.8209 (from 0.8183); USDCAD 1.4003 (from 1.3987); USDSEK 9.7940 (from 9.7807)."
+    },
+    {
+      "id": "mkt:01a1a319-b325-7ee0-aa54-f1b0a8e15ddf",
+      "time": "2026-11-04 04:28:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's Foreign Ministry said the foreign ministers of Brazil and Venezuela discussed bilateral trade ties and cooperation in the Amazon region."
+    },
+    {
+      "id": "5191632",
+      "time": "2026-11-04 04:27:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "巴西外交部：巴西與委內瑞拉兩國外長討論了貿易關係和亞馬遜地區合作。"
+    },
+    {
+      "id": "5191631",
+      "time": "2026-11-04 04:26:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 我會見了德國總統。我感謝德國在各個領域對烏克蘭提供支援，尤其是在保護民眾生命方面。我們深入探討了烏方與美國為推動和平所開展的共同努力。重要的是，歐洲也是這一程序的組成部分。明天，布魯塞爾將舉行工作組層面會談，美國、北約、歐洲各方以及烏克蘭都會參與其中。我們正在為阿布扎比會晤做準備，開展建設性工作。我們希望俄羅斯同樣拿出建設性態度。"
+    },
+    {
+      "id": "mkt:01a1a317-439d-7ee0-aa54-eec17d339000",
+      "time": "2026-11-04 04:26:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he met Germany’s president and held lengthy talks on coordinating with the United States to advance the peace process."
+    },
+    {
+      "id": "mkt:01a1a316-4b13-7ee0-aa54-e10ac9ebaeda",
+      "time": "2026-11-04 04:25:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Senate Commerce Committee will hold a confirmation hearing on Nov. 10 for Federal Communications Commission commissioner nominee Tuman."
+    },
+    {
+      "id": "5191630",
+      "time": "2026-11-04 04:24:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院商務委員會將於11月10日就聯邦通訊委員會委員提名人圖曼舉行確認聽證會。"
+    },
+    {
+      "id": "5191628",
+      "time": "2026-11-04 04:18:34",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【受戰爭與阿美費用影響，沙特預算赤字翻倍有餘】由於美國與伊朗戰爭引發的動盪以及國家石油巨頭沙特阿美（Aramco）支付的費用減少，導致該王國石油收入驟降，沙烏地阿拉伯第三季度財政赤字擴大了一倍多，達到840里亞爾。石油收入較上一季度暴跌近40%，降至約1160億里亞爾，創2020年以來的最低水平；而非石油收入下降約7%，整體支出則下降8%。經濟學家預計，由於原油價格走強以及阿美公司特許權使用費的增加，第四季度石油收入將有所反彈，但他們預測財政赤字將大於此前預期，佔國內生產總值（GDP）的比例估計在5.6%-6%之間。"
+    },
+    {
+      "id": "5191627",
+      "time": "2026-11-04 04:18:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【加拿大原油較美國價格折讓幅度創 2018 年以來最大】加拿大重質原油價格相對美國原油期貨的疲軟程度創2018年以來的最高紀錄，當時大規模的管道瓶頸曾迫使阿爾伯塔省政府對最大原油生產商實施生產限制。根據現代商品（Modern Commodities）和通用指數（General Index）的價格資料，11月3日早盤，加拿大西部精選原油（Western Canadian Select）在阿爾伯塔省相對於西德克薩斯中質原油（WTI）月度平均期貨價格的折讓幅度擴大至每桶31.70美元，創2018年11月以來的最大折讓幅度。另一種基準原油——加拿大冷湖（Cold Lake）原油在美國墨西哥灣沿岸的折讓幅度也達到了八年來未見的極高水平，報23.10美元。"
+    },
+    {
+      "id": "5191626",
+      "time": "2026-11-04 04:15:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈飛在電視應用中面向部分會員推出AI發現標籤頁。"
+    },
+    {
+      "id": "mkt:01a1a30a-ffec-7ee0-aa54-d86068342087",
+      "time": "2026-11-04 04:12:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain's transport minister Óscar Puente resigned after a rail accident."
+    },
+    {
+      "id": "5191625",
+      "time": "2026-11-04 04:11:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙交通部長在列車事故後辭職。"
+    },
+    {
+      "id": "5191617",
+      "time": "2026-11-04 04:00:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【法國央行或下調2026年增長預測 行長Moulin稱當前預期偏樂觀】法國央行行長Emmanuel Moulin表示，在第三季度經濟活動意外萎縮後，法國央行可能不得不下調對2026年經濟增長的預測。目前的預測是今年經濟增長0.4%，要達到這一水平，第四季度必須實現非常強勁的增長。“遺憾的是，我認為這有點過於樂觀，”Moulin在法國里昂舉行的Jeco會議上表示。“我們肯定得做些微調，稍微調低一點。”法國央行定於12月更新宏觀經濟預測，時間在歐洲央行下一次利率會議之後，市場普遍預計屆時將進行伊朗戰爭爆發以來的第三次加息。"
+    },
+    {
+      "id": "5191616",
+      "time": "2026-11-04 03:59:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：推出FlashProve，可讓開發者驗證某一回復是否來自特定AI模型。"
+    },
+    {
+      "id": "5191615",
+      "time": "2026-11-04 03:56:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌4%，現報926.88美元/盎司。"
+    },
+    {
+      "id": "5191614",
+      "time": "2026-11-04 03:55:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據耶路撒冷郵報：兩名地區訊息人士透露，美國和伊朗之間的談判陷入僵局。"
+    },
+    {
+      "id": "mkt:01a1a2fa-c607-7ee0-aa54-d147c02df25d",
+      "time": "2026-11-04 03:55:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Jerusalem Post cites two regional sources saying U.S.-Iran talks are deadlocked."
+    },
+    {
+      "id": "5191613",
+      "time": "2026-11-04 03:54:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗革命衛隊旗下塔斯尼姆通訊社週二報道，伊朗南部阿巴斯港與錫裡克地區傳出槍聲。 塔斯尼姆表示，相關訊息來自當地居民，暫無官方信源予以證實。"
+    },
+    {
+      "id": "mkt:01a1a2f2-f808-7ee0-aa54-c8f17f8b7de9",
+      "time": "2026-11-04 03:46:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $103.60/bbl, down $1.17, or 1.12%."
+    },
+    {
+      "id": "5191607",
+      "time": "2026-11-04 03:45:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Skydance備忘錄稱，派拉蒙與華納兄弟探索合並後將有八名高管離職。"
+    },
+    {
+      "id": "5191606",
+      "time": "2026-11-04 03:42:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【格陵蘭島自治政府議會批准與美國達成的安全協議】當地時間11月3日，格陵蘭島自治政府議會正式批准了美國、丹麥和格陵蘭島三方於9月22日在紐約簽署的安全協議。根據安排，協議接下來還需獲得丹麥議會批准。丹麥議會將於11月12日啟動審議程式，預計11月19日完成。一旦格陵蘭島和丹麥兩地議會均完成批准程式，並正式通知美國，協議即可生效。（央視新聞）"
+    },
+    {
+      "id": "5191602",
+      "time": "2026-11-04 03:37:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍：擊落一架射向南部地區的無人機。"
+    },
+    {
+      "id": "5191600",
+      "time": "2026-11-04 03:35:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：FSG 正洽談從 TWG 手中收購凱迪拉克 F1 車隊股權。"
+    },
+    {
+      "id": "5191599",
+      "time": "2026-11-04 03:34:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【阿拉伯航空運輸組織：今年成員航司預計約虧損43億美元】當地時間11月3日，阿拉伯航空運輸組織第59屆年度大會在卡達首都多哈舉行工作會議。會上釋出的最新行業報告顯示，受地區衝突、能源成本上漲及航班運營受阻等因素影響，預計2026年該組織成員航空公司合計淨虧損約43億美元。報告還顯示，2025年該組織成員航空公司的貨運業務同比增長4%，但預計2026年將下降5.2%。（央視新聞）"
+    },
+    {
+      "id": "5191598",
+      "time": "2026-11-04 03:33:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭交易所：10月現貨市場日均成交金額為1.44億紐西蘭元。"
+    },
+    {
+      "id": "5191596",
+      "time": "2026-11-04 03:31:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 12月原油期貨收報96.09美元/桶。NYMEX 12月天然氣期貨收報2.8950美元/百萬英熱單位。NYMEX 12月汽油期貨收報2.9355美元/加侖，NYMEX 12月取暖油期貨收報4.5306美元/加侖。"
+    },
+    {
+      "id": "5191592",
+      "time": "2026-11-04 03:28:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克：就最高法院達成協議將很困難，已提出本週就最高法院問題與納夫羅茨基總統會面。"
+    },
+    {
+      "id": "5191591",
+      "time": "2026-11-04 03:27:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：吉爾·黑澤爾巴克於2026年11月3日出任OpenAI首席企業事務官。"
+    },
+    {
+      "id": "5191589",
+      "time": "2026-11-04 03:25:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印度 Jio 與南非 MTN 因估值分歧終止談判。"
+    },
+    {
+      "id": "5191585",
+      "time": "2026-11-04 03:21:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及外交部：埃及外長向伊朗外長強調，有必要繼續保持克制，並加大努力和溝通，以防止地區軍事升級。"
+    },
+    {
+      "id": "5191584",
+      "time": "2026-11-04 03:19:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及外交部宣告：埃及外長向伊朗外長表示，各方都需要展現必要的靈活性，並努力推動地區危機的政治解決。"
+    },
+    {
+      "id": "5191583",
+      "time": "2026-11-04 03:13:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元漲0.5%，報158.73。"
+    },
+    {
+      "id": "5191582",
+      "time": "2026-11-04 03:06:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.6718元，較週一夜盤收盤跌236點。成交量995.49億美元。"
+    },
+    {
+      "id": "5191580",
+      "time": "2026-11-04 03:05:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果向所有開發者開放Siri人工智慧預覽版。"
+    },
+    {
+      "id": "5191578",
+      "time": "2026-11-04 03:03:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委斯萊彭：法國的問題必須在巴黎解決。"
+    },
+    {
+      "id": "5191576",
+      "time": "2026-11-04 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.51%，報23379.69點，低水146.28點。"
+    },
+    {
+      "id": "5191575",
+      "time": "2026-11-04 02:59:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦成功試射首枚國產空對空導彈】巴基斯坦三軍新聞局3日發表宣告稱，當天成功試射首枚國產空對空導彈，標誌著該國航空航天與國防能力發展邁出重要一步。該導彈配備先進的末端制導系統，可在更遠距離攔截敵方空中目標，將顯著提升巴空軍的作戰靈活性，進一步鞏固國家的整體防禦態勢。巴武裝部隊高階軍官及參研參試科學家、工程師共同見證此次試射，總統扎爾達里、總理夏巴茲、陸軍參謀長穆尼爾嚮導彈成功試射表示祝賀。（新華社）"
+    },
+    {
+      "id": "5191574",
+      "time": "2026-11-04 02:58:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國暫緩審批SK海力士的晶片製造裝置相關許可。"
+    },
+    {
+      "id": "5191572",
+      "time": "2026-11-04 02:56:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：北美中游業務受益於強勁的需求和有利的行業趨勢。"
+    },
+    {
+      "id": "5191571",
+      "time": "2026-11-04 02:56:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部表示，特朗普拱門的建設至少需要33個月，地面施工要到2027年5月才會開始。"
+    },
+    {
+      "id": "5191570",
+      "time": "2026-11-04 02:55:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，OpenAI員工多年來一直就運營安全問題發出警告。"
+    },
+    {
+      "id": "5191569",
+      "time": "2026-11-04 02:54:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【義大利公佈超市制冷裝置遭網路攻擊初步調查結果】當地時間11月3日，義大利政府針對超市制冷裝置遭網路攻擊事件在總理府召開會議。義大利農業部長、國家網路安全域性局長及情報機構負責人等官員出席會議。初步調查結果顯示，受影響設施大多使用老舊的安全系統，存在控制介面直接暴露於網際網路、身份認證機制不足等問題。目前尚未發現因冷凍食品解凍而危及公眾健康的案例。義大利內政部長表示，襲擊發生在多個歐洲國家，可能是一起經過協調的行動。目前，襲擊者身份及其動機尚未查明。（央視新聞）"
+    },
+    {
+      "id": "5191568",
+      "time": "2026-11-04 02:53:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "寶馬釋出盈利預警，法蘭克福股價下跌3.4%（BMWG.F）。"
+    },
+    {
+      "id": "5191566",
+      "time": "2026-11-04 02:52:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士漲幅縮窄至2%。"
+    },
+    {
+      "id": "5191565",
+      "time": "2026-11-04 02:48:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部在阿拉斯加選舉相關調查中，向約20名民主黨人士寄出調查函件。"
+    },
+    {
+      "id": "5191564",
+      "time": "2026-11-04 02:46:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐將南方航空A股評級下調至減持，目標價3.40元人民幣。"
+    },
+    {
+      "id": "5191563",
+      "time": "2026-11-04 02:46:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬：打算利用員工重組計劃所產生的勢頭，加快擴大組織與流程的調整。"
+    },
+    {
+      "id": "5191562",
+      "time": "2026-11-04 02:45:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬：削減管理職能的實施速度將快於此前公佈的計劃。"
+    },
+    {
+      "id": "5191561",
+      "time": "2026-11-04 02:45:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：完成對約旦的第三次韌性與可持續性基金（RSF）審查後，將釋放約1.61億美元資金，此前批准的總額約為7億美元。"
+    },
+    {
+      "id": "5191559",
+      "time": "2026-11-04 02:42:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "Kraken：正在調查部分客戶可能在Kraken Pro網頁版和移動端看到永續期貨持倉的預估強平價格不正確的問題。"
+    },
+    {
+      "id": "5191558",
+      "time": "2026-11-04 02:41:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "Gemini現已上線Zcash和Hyperliquid的新預測市場。"
+    },
+    {
+      "id": "5191557",
+      "time": "2026-11-04 02:41:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬ADR股價在預期下調後跌幅擴大至5%。"
+    },
+    {
+      "id": "5191556",
+      "time": "2026-11-04 02:40:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "Gemini：預測合約結果正確時支付1美元，最大損失為購買價格。"
+    },
+    {
+      "id": "5191555",
+      "time": "2026-11-04 02:40:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "Gemini推出按小時和按日結算的合約，均設有固定結算時間。"
+    },
+    {
+      "id": "5191554",
+      "time": "2026-11-04 02:39:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委納格爾：相信法國能夠控制預算問題。"
+    },
+    {
+      "id": "5191553",
+      "time": "2026-11-04 02:39:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委納格爾：這不是貨幣政策應承擔的任務。"
+    },
+    {
+      "id": "5191551",
+      "time": "2026-11-04 02:39:10",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "投資者對Meta美元債券發行的認購訂單高達580億美元，預計此次發行規模至少為150億美元。"
+    },
+    {
+      "id": "5191550",
+      "time": "2026-11-04 02:35:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股指漲幅擴大；標普500指數上漲0.70%，納斯達克指數上漲1.2%。"
+    },
+    {
+      "id": "5191549",
+      "time": "2026-11-04 02:35:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "寶馬ADR跌幅迅速擴大至3.8%。"
+    },
+    {
+      "id": "5191548",
+      "time": "2026-11-04 02:34:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織就約旦第六次評估審查達成工作人員級別協議。"
+    },
+    {
+      "id": "5191547",
+      "time": "2026-11-04 02:34:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委斯萊彭：緊縮政策正在放緩歐洲經濟。"
+    },
+    {
+      "id": "5191546",
+      "time": "2026-11-04 02:34:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬：預計汽車業務單元中純電動車型佔比將小幅上升。"
+    },
+    {
+      "id": "5191545",
+      "time": "2026-11-04 02:33:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬預計全年摩托車交付量小幅下降，此前預計持平。"
+    },
+    {
+      "id": "5191544",
+      "time": "2026-11-04 02:33:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委斯萊彭：能源風險上升會推高通脹的連鎖效應。"
+    },
+    {
+      "id": "5191543",
+      "time": "2026-11-04 02:33:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬預計本財年汽車交付量將適度下降。"
+    },
+    {
+      "id": "5191542",
+      "time": "2026-11-04 02:32:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬汽車預計2026年全電動汽車交付量佔比將小幅增長。"
+    },
+    {
+      "id": "5191540",
+      "time": "2026-11-04 02:32:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬：因投資組合擴張和結構性措施而調整2026年指引。"
+    },
+    {
+      "id": "5191538",
+      "time": "2026-11-04 02:31:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "Trade Desk任命聯合創始人Pickles領導新設的CTO委員會。"
+    },
+    {
+      "id": "5191537",
+      "time": "2026-11-04 02:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬維持汽車業務自由現金流高於25億歐元的預期。"
+    },
+    {
+      "id": "5191536",
+      "time": "2026-11-04 02:31:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委斯萊彭：目前確實尚未看到第二輪效應。"
+    },
+    {
+      "id": "5191535",
+      "time": "2026-11-04 02:31:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬預計本財年汽車業務息稅前利潤率在-0.5%至0.5%之間，此前預期為1%至3%。"
+    },
+    {
+      "id": "te:markets:597774",
+      "time": "2026-11-04 02:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Rises by 2.59% — Top crypto gainers are XRP (2.59%), Ether (1.95%) and Bitcoin (1.16%)."
+    },
+    {
+      "id": "5191533",
+      "time": "2026-11-04 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌2.32%，報678.80元人民幣/桶。滬金夜盤收跌0.11%，滬銀收跌1.29%。"
+    },
+    {
+      "id": "5191532",
+      "time": "2026-11-04 02:29:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司：重新設計的健康應用已在iOS 27.3開發者測試版中上線，將於2026年晚些時候作為免費更新推出。"
+    },
+    {
+      "id": "5191531",
+      "time": "2026-11-04 02:28:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：重新設計的健康應用支援語言擴充套件至11種，包括中文、法語、日語、韓語、葡萄牙語、西班牙語、土耳其語和越南語。"
+    },
+    {
+      "id": "5191530",
+      "time": "2026-11-04 02:27:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將蘋果目標價從360.00美元/股下調至355.00美元，維持蘋果“增持”評級。"
+    },
+    {
+      "id": "5191528",
+      "time": "2026-11-04 02:27:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "荷蘭央行行長斯萊彭：伊朗衝擊的持續性超出此前預期。"
+    },
+    {
+      "id": "te:markets:597773",
+      "time": "2026-11-04 02:25:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Sugar Falls by 3.75% — Top commodity losers are Sugar (-3.75%), Coffee (-2.74%) and Palm Oil (-2.11%). Gains are led by Rice (0.78%)."
+    },
+    {
+      "id": "5191527",
+      "time": "2026-11-04 02:23:54",
+      "tags": [
+        "央行",
+        "公司",
+        "國際"
+      ],
+      "text": "【AI熱潮：10萬億美元支出浪潮加劇金融風險】美國前紐約聯儲行長比爾·達德利警告稱，人工智慧基礎設施投資可能超過10萬億美元，或造成大規模產能過剩。達德利估計，當前7至8家有意成為AI超大規模企業的公司中，最終可能只有2至3家主導市場。AI基礎設施每年可能需要超過3萬億美元的收入才能覆蓋其投資成本。不透明的私人信貸融資、表外債務以及英偉達的晶片價值擔保進一步增加了風險。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611043920668252",
+      "time": "2026-11-04 02:22:24",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週二使用規模為4.27億美元（交易對手3家），上個交易日報50.87億美元。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202611043920668252",
+      "time": "2026-11-04 02:22:24",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週二使用規模為4.27億美元（交易對手3家），上個交易日報50.87億美元。"
+    },
+    {
+      "id": "5191523",
+      "time": "2026-11-04 02:20:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "協議將為美軍繼續駐留委內瑞拉創造條件。"
+    },
+    {
+      "id": "te:markets:597772",
+      "time": "2026-11-04 02:20:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Aluminum Alloy Falls by 2.58% — Top commodity losers are Aluminum Alloy (-2.58%), Copper (-2.51%), Silver (-1.80%) and Gold (-0.37%)."
+    },
+    {
+      "id": "5191522",
+      "time": "2026-11-04 02:18:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普正就美國駐軍問題與委內瑞拉談判達成協議。"
+    },
+    {
+      "id": "5191521",
+      "time": "2026-11-04 02:18:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿波羅計劃在奧斯汀投資3.5億美元用於私募信貸交易。"
+    },
+    {
+      "id": "5191520",
+      "time": "2026-11-04 02:17:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "胡塞武裝軍事訊息人士：阿美石油公司的設施處於直接射擊範圍內。"
+    },
+    {
+      "id": "5191519",
+      "time": "2026-11-04 02:16:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數漲幅擴大至0.6%，創盤中新高。"
+    },
+    {
+      "id": "5191518",
+      "time": "2026-11-04 02:16:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "3家交易對手在美聯儲逆回購操作中獲得4.27億美元。"
+    },
+    {
+      "id": "te:markets:597771",
+      "time": "2026-11-04 02:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Gains by 2.58% — Top commodity gainers are Heating Oil (2.58%), Germany Natural Gas THE (2.17%) and Gasoline (1.34%). Biggest losers are Natural Gas UK (-2.50%), Natural Gas EU (-1.86%), Methanol (-1.26%), Brent Oil (-1.15%) and Crude Oil (-0.43%)."
+    },
+    {
+      "id": "5191516",
+      "time": "2026-11-04 02:14:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX、特斯拉、亞馬遜以及奈飛現已反對OKX和洲際交易所（ICE Markets）將自家股票代幣化，提出反對的公司合計達到56家。"
+    },
+    {
+      "id": "5191515",
+      "time": "2026-11-04 02:11:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "科技記者馬克·古爾曼：iOS 27.3首個開發者測試版現已推出。"
+    },
+    {
+      "id": "5191511",
+      "time": "2026-11-04 02:08:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【奈飛電視端推出AI Discover功能】奈飛上線AI Discover功能，這是電視應用內的一個欄目，可根據觀看心情、主創班底或者可用時長來幫使用者查詢內容。首批面向使用英文介面、裝置適配的美國奈飛使用者開放。未來幾周將逐步擴大覆蓋人群。每一個內容條目都配有“調整推薦”按鈕，使用者可以最佳化或者遮蔽後續推薦。部分AI Discover功能後續或將整合進奈飛主產品體驗中。"
+    },
+    {
+      "id": "5191510",
+      "time": "2026-11-04 02:07:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行和桑坦德銀行為倫敦瑰麗酒店提供2.25億英鎊債務融資。"
+    },
+    {
+      "id": "5191509",
+      "time": "2026-11-04 02:03:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "倫敦證券交易所集團資料顯示，兩艘船計劃在法國各裝載超過6萬公噸小麥運往沙烏地阿拉伯。"
+    },
+    {
+      "id": "5191508",
+      "time": "2026-11-04 02:03:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "奈飛在電視應用推出AI Discover功能，該功能正面向使用英文介面的美國使用者逐步上線，將在未來幾周逐步向更多人開放。"
+    },
+    {
+      "id": "5191507",
+      "time": "2026-11-04 02:02:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈飛在電視應用中推出AI發現功能。"
+    },
+    {
+      "id": "5191506",
+      "time": "2026-11-04 02:02:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委：12月加息目前可能性極高】歐洲央行管委納格爾表示，除非通脹前景大幅好轉，否則歐洲央行12月再度加息幾乎無法避免。歐洲央行上週將存款利率維持在2.50%，但政策制定者越來越認為本次暫停加息只是暫時的。預計未來數月通脹將高於4%，是歐洲央行2%目標的兩倍以上。保加利亞央行行長迪米塔爾·拉德夫也警示，自9月以來通脹前景已經惡化。"
+    },
+    {
+      "id": "5191505",
+      "time": "2026-11-04 02:01:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "Polymarket獲得美國全國期貨協會批准，可作為期貨佣金商開展PM衍生品業務。"
+    },
+    {
+      "id": "5191504",
+      "time": "2026-11-04 02:00:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委納格爾：自9月以來通脹形勢已惡化。"
+    },
+    {
+      "id": "5191503",
+      "time": "2026-11-04 02:00:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委納格爾：12月可能不得不加息。"
+    },
+    {
+      "id": "5191502",
+      "time": "2026-11-04 02:00:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列告知美國，伊朗正在考慮使用化學武器】以色列向美國情報官員發出警告，稱伊朗可能準備使用化學武器，但這一說法在特朗普政府內部引發巨大分歧。部分美國官員重視該威脅，另一些官員則懷疑內塔尼亞胡試圖將美國重新拖入大規模軍事行動。海灣國家官員也對以色列的評估提出質疑。與此同時，據報道美國中央司令部擬定了最早在11月4日實施打擊的方案，但特朗普尚未批准發起新一輪襲擊。在軍事部署推進的同時，各方仍在開展外交斡旋，力求重啟霍爾木茲海峽通航。"
+    },
+    {
+      "id": "5191501",
+      "time": "2026-11-04 01:58:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥10月非製造業指數為50.6。"
+    },
+    {
+      "id": "5191500",
+      "time": "2026-11-04 01:58:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥10月製造業指數為49.8。"
+    },
+    {
+      "id": "5191499",
+      "time": "2026-11-04 01:51:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列情報引發美國官員警惕與質疑。"
+    },
+    {
+      "id": "5191498",
+      "time": "2026-11-04 01:50:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列告知美國，伊朗正在考慮使用化學武器。"
+    },
+    {
+      "id": "5191497",
+      "time": "2026-11-04 01:50:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國本田：10月電動汽車銷量為33,760輛。"
+    },
+    {
+      "id": "5191496",
+      "time": "2026-11-04 01:45:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽評級：土耳其金融動盪的影響程度不一，證券公司受影響最大。"
+    },
+    {
+      "id": "5191495",
+      "time": "2026-11-04 01:44:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【第四屆明斯克歐亞安全國際會議呼籲以合作應對失序】第四屆明斯克歐亞安全國際會議3日在白俄羅斯首都明斯克開幕。本屆會議以“用合作精神克服國際失序”為主題，吸引來自約50個國家和地區的600餘名代表共繪歐亞和全球安全圖景。（新華社）"
+    },
+    {
+      "id": "5191494",
+      "time": "2026-11-04 01:41:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【扎波羅熱核電站稱一員工在烏軍無人機襲擊中身亡】扎波羅熱核電站方面表示，烏克蘭武裝部隊無人機襲擊了一輛行駛中的民用汽車，造成兩人死亡，其中一人為該核電站員工。核電站方面稱，這是過去兩週內第三名遇襲身亡的核電站員工，也是今年4月以來第13名遇難員工。 (央視新聞)"
+    },
+    {
+      "id": "5191493",
+      "time": "2026-11-04 01:39:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：受主權評級展望調整影響，法國銀行業評級空間收窄。"
+    },
+    {
+      "id": "5191492",
+      "time": "2026-11-04 01:39:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱過去24小時沙特聯軍發動93次空襲】當地時間3日晚間，葉門胡塞武裝釋出宣告稱，過去24小時內，沙特主導的聯軍對葉門首都薩那以及焦夫省、塔伊茲省、薩達省、馬裡卜省、阿姆蘭省、拉赫季省和哈傑省發動了93次空襲。宣告還表示，自新一輪軍事升級以來，沙特主導的聯軍發動的空襲和導彈襲擊總數已達4032次。（央視新聞）"
+    },
+    {
+      "id": "5191491",
+      "time": "2026-11-04 01:38:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "芝加哥期權交易所加入資本市場聯盟，對美國商品期貨交易委員會批准個股永續衍生品提出異議。"
+    },
+    {
+      "id": "te:markets:597768",
+      "time": "2026-11-04 01:35:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Falls as Harvest Advances — Cotton futures fell below 78 cents per pound, reaching its lowest level in four months as rising harvest supplies weighed on prices. The US harvest continues to advance, with 63% of the crop harvested by the week ended October 25, above the five-year average of 54%. Peak harvest typically adds seasonal pressure as new supplies enter the market. Competition from Brazil, the world’s leading cotton exporter, is also intensifying, with Anea forecasting shipments of around 3.4 million tonnes, compared with the USDA’s US export forecast of 2.69 million tonnes. Meanwhile, progress in US-China trade talks has yet to deliver meaningful tariff relief, prompting Chinese buyers to scale back foreign purchases. In addition, an accelerating negative feedback from downstream textile demand in China, the world's largest producer of textiles, acts as a marginal driver, where the expected seasonal recovery in September and October failed to materialise."
+    },
+    {
+      "id": "5191490",
+      "time": "2026-11-04 01:33:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：服務業的重複性工作流程導致人工智慧替代風險最高。"
+    },
+    {
+      "id": "5191489",
+      "time": "2026-11-04 01:32:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭對外情報局局長烏梅羅夫：美國、北約和世界銀行將參加布魯塞爾烏克蘭問題會談。"
+    },
+    {
+      "id": "5191488",
+      "time": "2026-11-04 01:31:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行拍賣2年期聯邦國庫券（CETES），平均收益率7.85%。"
+    },
+    {
+      "id": "5191487",
+      "time": "2026-11-04 01:31:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭對外情報局局長烏梅羅夫：布魯塞爾會談將涉及對烏克蘭的安全保障問題。"
+    },
+    {
+      "id": "5191486",
+      "time": "2026-11-04 01:31:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭對外情報局局長烏梅羅夫：烏克蘭及夥伴方將於11月4日至5日在布魯塞爾舉行會談。"
+    },
+    {
+      "id": "5191485",
+      "time": "2026-11-04 01:30:18",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通全球固定收益主管米切爾向美國財長貝森特提出建議：取消20年期國債。沒人看好這個品種，為什麼還要發行？它在過去的環境下有存在意義，但現在已經不合時宜。"
+    },
+    {
+      "id": "5191484",
+      "time": "2026-11-04 01:23:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：《每日郵報》曲解了我在總統新聞釋出會上的玩笑。昨天，林肯紀念堂美麗的倒影池正式開放，我當時說打算把它命名為 “特朗普”，這只是一句玩笑，但該報卻裝作這不是玩笑。 這件事足以說明新聞有多假。我當時說得非常清楚：“我是在開玩笑。” 假新聞實在太敗壞風氣了。"
+    },
+    {
+      "id": "te:markets:597766",
+      "time": "2026-11-04 01:21:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls as French Fiscal Concerns Persist — The CAC 40 fell 0.3% to close at 8,020 on Tuesday, reversing the previous session’s gains as concerns over France’s deteriorating fiscal outlook weighed on markets. French equities remained under pressure after Fitch unexpectedly revised the country’s outlook to negative, citing deteriorating public finances, elevated government debt and borrowing costs, sluggish economic growth and political uncertainty. The budget deficit widened to €159.2 billion in January-September 2026, from €155.4 billion a year earlier. Airbus fell 1.4%, Safran lost 1.1%, while EssilorLuxottica and Vinci each shed 1.4%. In the luxury sector, Hermès lost 0.6% and L’Oréal declined 0.9%. In contrast, LVMH rose 2% on the session, although its shares remained down around 40% year-to-date amid slowing Chinese demand. In the energy sector, TotalEnergies lost 1.1% as oil prices extended the previous session’s plunge after US President Trump announced the US would end its financial support for Israel by year-end."
+    },
     {
       "id": "5191483",
       "time": "2026-11-04 01:13:31",
@@ -109879,2607 +111830,6 @@
         "MKT News"
       ],
       "text": "Yisrael Beiteinu leader Avigdor Lieberman said there must be an internal revolt within Likud to oust Benjamin Netanyahu."
-    },
-    {
-      "id": "5173806",
-      "time": "2026-10-28 05:44:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：我對博索納羅離開巴西感到遺憾，因為他本可以留在這裡，證明媒體上的指控不實。我曾試圖讓他證明自己清白，為此向選舉法院提交了我本人、我妻子以及我子女的全部檔案。他沒有提交自己的檔案。"
-    },
-    {
-      "id": "5173804",
-      "time": "2026-10-28 05:43:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "Visa執行長：使用AI代理的消費者“非常少”。"
-    },
-    {
-      "id": "5173803",
-      "time": "2026-10-28 05:42:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "Visa執行長：本季度是AI代理技術的轉折點。"
-    },
-    {
-      "id": "mkt:01a17f50-ee34-7ee0-a9a2-4a42eed729b2",
-      "time": "2026-10-28 05:42:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yisrael Beiteinu leader Lieberman said he was unsure whether polls accurately reflected the actual vote and expected final election results to be announced Friday morning."
-    },
-    {
-      "id": "5173802",
-      "time": "2026-10-28 05:40:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西將於11月4日啟動12月1日到期外匯掉期的展期操作。"
-    },
-    {
-      "id": "5173797",
-      "time": "2026-10-28 05:37:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：我曾收到許多離開巴西的邀請，也曾收到許多前往使館尋求避難的邀請。我決定留在巴西，並決定向聯邦警察自首，因為我想揭露指控我的人的真面目，證明我的清白。如今我在這裡，因為你們而再次當選，獲得又一個任期。"
-    },
-    {
-      "id": "5173795",
-      "time": "2026-10-28 05:37:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【出口民調：以議會兩大陣營均未獲過半數席位】以色列第26屆議會選舉27日22時結束投票。以媒出口民調顯示，現任總理內塔尼亞胡領導的右翼陣營與以國防軍前總參謀長埃森科特領導的反對派陣營均未能獲得組建政府所需的多數席位，但反對派陣營領先。根據以色列第13頻道電視臺出口民調，內塔尼亞胡領導的利庫德集團預計獲得25席，埃森科特領導的中間派政黨正直黨預計獲得23席，分別位列第一和第二。前總理納夫塔利·貝內特領導的反對黨團結黨預計獲得14席，位列第三。（新華社）"
-    },
-    {
-      "id": "5173792",
-      "time": "2026-10-28 05:36:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "比特幣重回81000美元。"
-    },
-    {
-      "id": "mkt:01a17f48-e789-7ee0-a9a2-40c3fc921e34",
-      "time": "2026-10-28 05:34:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mansour Abbas, leader of an Arab party in Israel, said he will convert the seats won into a new political reality for Israel."
-    },
-    {
-      "id": "5173770",
-      "time": "2026-10-28 05:27:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：偷偷出境，說明你有所虧欠。"
-    },
-    {
-      "id": "5173768",
-      "time": "2026-10-28 05:26:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客獲兩份新增伽利略衛星合同。"
-    },
-    {
-      "id": "5173767",
-      "time": "2026-10-28 05:26:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：博索納羅家族就是這樣的人，巴西是他們的第二祖國，美國才是第一祖國。"
-    },
-    {
-      "id": "mkt:01a17f41-c383-7ee0-a9a2-3bd4366aa137",
-      "time": "2026-10-28 05:26:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian President Lula said the Bolsonaro family considers Brazil their second homeland and the United States their first."
-    },
-    {
-      "id": "mkt:01a17f40-ef21-7ee0-a9a2-32611d6819f4",
-      "time": "2026-10-28 05:25:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said since President Trump took office the private sector has added more than 1 mln jobs, while the federal workforce fell by about 328k to its lowest level since the 1960s."
-    },
-    {
-      "id": "mkt:01a17f40-ca9d-7ee0-a9a2-2d7bef2d6cc1",
-      "time": "2026-10-28 05:25:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【FT: US, Russia discuss post-war return of US firms to Russian energy sector】FT reports US and Russia have discussed economic incentives to advance peace talks that would permit US firms to re-enter Russia’s energy sector. Proposals cited include restoring Sakhalin oil and gas JVs, resuming Russian oil exports to Europe via the Druzhba pipeline, partial restoration of Nord Stream gas flows, Novatek participation in Alaska LNG, sale of Lukoil’s overseas assets to investors close to the White House, easing potash sanctions, and transferring management of the ZAPORIZHZHIA NUCLEAR PLANT to a US entity. US officials say any cooperation must be part of a comprehensive peace framework and no agreement has been reached. The FT adds Europe opposes sanction relief before the conflict ends and US companies are reportedly cautious, leaving implementation highly uncertain."
-    },
-    {
-      "id": "5173764",
-      "time": "2026-10-28 05:25:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：我很遺憾他（博爾索納羅）離開了巴西，他本可以留下來證明這些指控不實，離開巴西是可恥的。"
-    },
-    {
-      "id": "mkt:01a17f40-2ca2-7ee0-a9a2-25f3b1068a27",
-      "time": "2026-10-28 05:24:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian President LULA said leaving Brazil is shameful."
-    },
-    {
-      "id": "mkt:01a17f3f-fcb7-7ee0-a9a2-1d1cb5e04441",
-      "time": "2026-10-28 05:24:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian President Lula said he regretted that former president Bolsonaro's son left Brazil, saying the son could have stayed to prove the allegations were false."
-    },
-    {
-      "id": "5173758",
-      "time": "2026-10-28 05:23:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：我剛聽說我的對手離開了這個國家。"
-    },
-    {
-      "id": "te:markets:595544",
-      "time": "2026-10-28 05:22:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Drops on Middle East Diplomacy Hopes — Brent crude fell to around $114 a barrel on Tuesday, as renewed diplomatic efforts raised hopes of de-escalating tensions in the Middle East. Iran’s Supreme Leader Mojtaba Khamenei called for an end to the current state of “neither war nor peace,” signaling a possible opening for negotiations. Officials from Saudi Arabia, Pakistan, and Turkey met in Tehran on Monday and agreed to continue discussions, while Russian President Vladimir Putin was expected to meet Iranian President Masoud Pezeshkian and Qatar’s emir in Moscow. These developments improved prospects for de-escalation, although significant risks remain. Meanwhile, US crude inventories fell by 2.031 million barrels in the week ended October 23rd, defying expectations for an increase of 800,000 barrels and extending the previous week’s 4.93 million-barrel draw, adding to supply concerns. Houthi attacks on Saudi energy infrastructure and Iranian strikes on tankers in the Strait of Hormuz continued to support prices."
-    },
-    {
-      "id": "5173757",
-      "time": "2026-10-28 05:22:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆公佈了應對英國住房危機的計劃，承諾提供更多社會住房、為首次購房者提供幫助，並對出租劣質房產的房東採取更嚴厲的措施。"
-    },
-    {
-      "id": "te:markets:595543",
-      "time": "2026-10-28 05:21:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "ONEOK earnings above expectations at 2.13 USD — ONEOK (OKE) released earnings per share at 2.13 USD, compared to market expectations of 1.48 USD."
-    },
-    {
-      "id": "mkt:01a17f3d-63d7-7ee0-a9a2-141c70bee19f",
-      "time": "2026-10-28 05:21:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market news: Brazilian lawmaker Flavio Bolsonaro arrived in the United States."
-    },
-    {
-      "id": "te:markets:595542",
-      "time": "2026-10-28 05:20:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Drops on Middle East Diplomacy Hopes — Crude oil fell toward $100 a barrel on Tuesday, as renewed diplomatic efforts raised hopes of de-escalating tensions in the Middle East. Iran’s Supreme Leader Mojtaba Khamenei called for an end to the current state of “neither war nor peace,” signaling a possible opening for negotiations. Officials from Saudi Arabia, Pakistan, and Turkey met in Tehran on Monday and agreed to continue discussions, while Russian President Vladimir Putin was expected to meet Iranian President Masoud Pezeshkian and Qatar’s emir in Moscow. These developments improved prospects for de-escalation, although significant risks remain. Meanwhile, US crude inventories fell by 2.031 million barrels in the week ended October 23rd, defying expectations for an increase of 800,000 barrels and extending the previous week’s 4.93 million-barrel draw, adding to supply concerns. Houthi attacks on Saudi energy infrastructure and Iranian strikes on tankers in the Strait of Hormuz continued to support prices."
-    },
-    {
-      "id": "5173748",
-      "time": "2026-10-28 05:19:24",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "巴西議員弗拉維奧·博爾索納羅抵達美國。"
-    },
-    {
-      "id": "5173747",
-      "time": "2026-10-28 05:18:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名美國官員表示，委內瑞拉第二大私營石油生產商NABEP已向美國交付首批100萬桶免費原油，這批委內瑞拉原油將運往西特戈以及埃克森美孚煉油廠。"
-    },
-    {
-      "id": "5173745",
-      "time": "2026-10-28 05:17:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合宣告稱，約旦外交大臣在與敘利亞外交大臣通話時，對敘利亞境內伊斯蘭國據點遭襲造成平民死亡表示遺憾。"
-    },
-    {
-      "id": "5173737",
-      "time": "2026-10-28 05:15:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.48%，報13093點。"
-    },
-    {
-      "id": "mkt:01a17f37-1eb1-7ee0-a9a2-0b18dbf934d8",
-      "time": "2026-10-28 05:14:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Joint statement: Jordan and Syria foreign ministers agreed to form a joint security committee to probe details of Jordan's recent strikes on \"Islamic State\" targets inside Syria."
-    },
-    {
-      "id": "mkt:01a17f36-f962-7ee0-a9a2-01199ba96632",
-      "time": "2026-10-28 05:14:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli media reported the final voter turnout in the election at 77.7%."
-    },
-    {
-      "id": "5173736",
-      "time": "2026-10-28 05:14:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "約旦和敘利亞外交部長同意成立聯合安全委員會，調查約旦最近對敘利亞境內伊斯蘭國目標的襲擊細節。"
-    },
-    {
-      "id": "5173735",
-      "time": "2026-10-28 05:14:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗戰事施壓特朗普 支援率下滑至36%】伊朗戰爭給美國總統特朗普帶來壓力，部分共和黨人也流露擔憂。福克斯新聞民調顯示，特朗普支援率從戰前44%降至36%。85%選民擔憂通脹，83%擔憂汽油價格，75%擔憂戰爭；共和黨正為守住國會控制權苦戰，壓力持續上升。"
-    },
-    {
-      "id": "te:markets:595541",
-      "time": "2026-10-28 05:13:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Baker Hughes earnings above expectations at 0.70 USD — Baker Hughes (BKR) released earnings per share at 0.70 USD, compared to market expectations of 0.59 USD."
-    },
-    {
-      "id": "te:economy:595540",
-      "time": "2026-10-28 05:12:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Chile",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Chile Holds Key Interest Rate Amid External Risks — Chile’s central bank kept its benchmark interest rate unchanged at 4.5% at its October 2026 meeting, citing geopolitical tensions, tighter international financial conditions, and rising global inflation risks. The Board noted that escalating tensions in the Middle East had worsened the outlook for energy prices. Meanwhile, an unusually intense El Niño phenomenon had begun to affect international food prices, adding to cost pressures from energy, transportation, and fertilizers associated with armed conflicts. Copper prices, however, remained near the levels recorded at the previous meeting. Against this backdrop, concerns about global inflation continued to mount. Policymakers also highlighted tighter international financial conditions amid expectations of a more restrictive monetary policy stance, falling equity markets, a stronger US dollar, and rising long-term interest rates. The Board left the future path of monetary policy open."
-    },
-    {
-      "id": "5173726",
-      "time": "2026-10-28 05:10:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列選舉最終投票率為77.7%。"
-    },
-    {
-      "id": "5173723",
-      "time": "2026-10-28 05:08:23",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行：強烈的厄爾尼諾現象已影響全球食品價格。"
-    },
-    {
-      "id": "5173721",
-      "time": "2026-10-28 05:07:17",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行：國內投資前景繼續向好。"
-    },
-    {
-      "id": "mkt:01a17f30-2179-7ee0-a9a1-fec650b04940",
-      "time": "2026-10-28 05:07:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A State Dept official said the U.S. will issue visas to Flavio Bolsonaro, who lost Brazil's presidential election, and his family, and permit their entry into the United States."
-    },
-    {
-      "id": "5173720",
-      "time": "2026-10-28 05:06:53",
-      "tags": [
-        "央行",
-        "資料"
-      ],
-      "text": "智利央行：市場對短期CPI的預期已大幅上升。"
-    },
-    {
-      "id": "5173719",
-      "time": "2026-10-28 05:06:12",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國務院高階官員表示，國務院將向弗拉維奧·博索納羅及其家人發放簽證，並允許他們進入美國。"
-    },
-    {
-      "id": "mkt:01a17f2f-4c42-7ee0-a9a1-f240f9fb7813",
-      "time": "2026-10-28 05:06:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Central Bank of Chile said its C.BANK will closely monitor signs that transmission of inf shocks is intensifying or becoming persistent."
-    },
-    {
-      "id": "5173718",
-      "time": "2026-10-28 05:06:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西博索納羅競選陣營負責人：博索納羅沒有透露任何離境安排。"
-    },
-    {
-      "id": "mkt:01a17f2e-c083-7ee0-a9a1-ed7c7003f1d5",
-      "time": "2026-10-28 05:05:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "IMF reached a staff-level agreement on the third review under Argentina's Extended Fund Facility; the deal could unlock about $900m in potential financing."
-    },
-    {
-      "id": "5173715",
-      "time": "2026-10-28 05:05:18",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行認為不確定性高於往常水平。"
-    },
-    {
-      "id": "5173713",
-      "time": "2026-10-28 05:05:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西博索納羅競選陣營負責人：沒有關於其下落的資訊。"
-    },
-    {
-      "id": "mkt:01a17f2e-2201-7ee0-a9a1-e51fca843c9f",
-      "time": "2026-10-28 05:04:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "CVX.N",
-        "XOM.N"
-      ],
-      "text": "White House official said the U.S. government has sold this batch of crude from Venezuelan state oil company NABEP to CITGO Petroleum, affiliated with Chevron (CVX.N), and to ExxonMobil (XOM.N)."
-    },
-    {
-      "id": "te:economy:595539",
-      "time": "2026-10-28 05:04:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "API Crude Oil Stock Change",
-        "Importance 1"
-      ],
-      "text": "US Crude Inventories Fall Unexpectedly — US crude oil inventories fell by 2.031 million barrels in the week ended October 23rd, compared with market expectations for an increase of 800,000 barrels. In the previous week, crude stocks declined by 4.93 million barrels. Inventories at Cushing fell by 453,000 barrels after rising by 900,000 barrels a week earlier. In contrast, gasoline inventories increased by 2.39 million barrels, following a 2 million-barrel decline in the previous week. Distillate stocks rose by 380,000 barrels, partially reversing the previous week's 2.6 million-barrel draw. Meanwhile, US oil production fell to 13.269 million barrels per day in the week ended October 16th, down from 13.679 million barrels per day a week earlier."
-    },
-    {
-      "id": "5173709",
-      "time": "2026-10-28 05:04:19",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行：預計本國經濟將在2027年前逐步復甦。"
-    },
-    {
-      "id": "mkt:01a17f2d-4169-7ee0-a9a1-dd562d1f5baa",
-      "time": "2026-10-28 05:03:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "A White House official said the US government has received the first crude shipments from Venezuela's state oil company NABEP. Under an agreement reached in August, the cargoes were provided to the US government at zero cost."
-    },
-    {
-      "id": "5173708",
-      "time": "2026-10-28 05:03:31",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行：理事會將密切關注消費者物價指數持續走高的訊號。"
-    },
-    {
-      "id": "5173706",
-      "time": "2026-10-28 05:02:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織關於阿根廷：協議可能釋放約9億美元的潛在資金。"
-    },
-    {
-      "id": "5173705",
-      "time": "2026-10-28 05:02:25",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行：未來數月通脹預期正在上升。"
-    },
-    {
-      "id": "5173704",
-      "time": "2026-10-28 05:02:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "IMF與阿根廷達成工作人員級別協議。"
-    },
-    {
-      "id": "mkt:01a17f2b-8e0b-7ee0-a9a1-d2e59efaa2f5",
-      "time": "2026-10-28 05:02:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Central Bank of Chile says future policy-rate path will be assessed on a meeting-by-meeting basis."
-    },
-    {
-      "id": "5173699",
-      "time": "2026-10-28 05:00:44",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行：關鍵利率決定獲一致透過。"
-    },
-    {
-      "id": "mkt:01a17f29-f0a5-7ee0-a9a1-cdef8e319928",
-      "time": "2026-10-28 05:00:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Central Bank of Chile said the decision was reached unanimously."
-    },
-    {
-      "id": "mkt:01a17f29-e0f7-7ee0-a9a1-c08095e27f3e",
-      "time": "2026-10-28 05:00:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Chile's central bank set the policy rate at 4.50%."
-    },
-    {
-      "id": "5173698",
-      "time": "2026-10-28 05:00:01",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行維持關鍵利率在4.5%不變，預期為4.50%。"
-    },
-    {
-      "id": "mkt:01a17f29-5222-7ee0-a9a1-b884fc655d06",
-      "time": "2026-10-28 04:59:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said regarding Brazil that the Democratic Party is most adept at manipulating elections, but Brazil does it fairly well too."
-    },
-    {
-      "id": "5173695",
-      "time": "2026-10-28 04:58:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統候選人博索納羅的律師表示，尚未收到任何離境相關安排的通知。"
-    },
-    {
-      "id": "5173687",
-      "time": "2026-10-28 04:56:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談巴西：民主黨是選舉中最大的作弊者，不過巴西在這方面也做得相當不錯，不是嗎？你看到了嗎？那可不太好看。我沒有選邊站，但看起來不太妙。"
-    },
-    {
-      "id": "5173686",
-      "time": "2026-10-28 04:55:20",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國債總額創下40.5萬億美元的歷史新高。"
-    },
-    {
-      "id": "5173684",
-      "time": "2026-10-28 04:55:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：你甚至可以來海湖莊園，做我的客人。問題是，5000美元最多也就夠買個漢堡，或許再加個小甜點。我甚至不確定這點錢夠不夠買這些！"
-    },
-    {
-      "id": "mkt:01a17f24-9c22-7ee0-a9a1-b2ab4066e61c",
-      "time": "2026-10-28 04:54:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "Trump said the United States has never been more prosperous and that this will become apparent soon."
-    },
-    {
-      "id": "mkt:01a17f23-9255-7ee0-a9a1-aba497b484ce",
-      "time": "2026-10-28 04:53:19",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Kremlin spokesman said the ceasefire originally stipulated that areas around the town of Aleppo would remain quiet."
-    },
-    {
-      "id": "mkt:01a17f23-8269-7ee0-a9a1-a618d02e20e2",
-      "time": "2026-10-28 04:53:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Gantz, chair of Israel's National Unity alliance, urged all parties to begin immediate talks to form a cross‑bloc unity government to tackle domestic and external challenges and avoid another election."
-    },
-    {
-      "id": "mkt:01a17f22-87ff-7ee0-a9a1-9ca3fd716fd2",
-      "time": "2026-10-28 04:52:11",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "GBP/USD fell below 1.33, down 0.30% intraday."
-    },
-    {
-      "id": "5173677",
-      "time": "2026-10-28 04:50:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯總統新聞秘書佩斯科夫表示，停火協議最初規定阿勒頗鎮周邊地區實施一段靜默期。"
-    },
-    {
-      "id": "mkt:01a17f1e-53df-7ee0-a9a1-97413c2d7574",
-      "time": "2026-10-28 04:47:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Commodities",
-        "Energy",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100"
-      ],
-      "text": "The Daily Telegraph reports UK Chancellor Healy is preparing a £50 cut to household gas bills."
-    },
-    {
-      "id": "5173674",
-      "time": "2026-10-28 04:46:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將向德克薩斯州提供更多聯邦緊急事務管理署（FEMA）資金。"
-    },
-    {
-      "id": "5173673",
-      "time": "2026-10-28 04:46:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國財政大臣希利準備推出措施，削減家庭燃氣費用50英鎊。"
-    },
-    {
-      "id": "mkt:01a17f1b-4339-7ee0-a9a1-883b8c80c8b8",
-      "time": "2026-10-28 04:44:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. API weekly refinery crude runs change for week to Oct. 23: +47,000 b/d, prior -408,000 b/d."
-    },
-    {
-      "id": "mkt:01a17f1b-23b9-7ee0-a9a1-865947152199",
-      "time": "2026-10-28 04:44:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Runs (Oct.23) | actual 47000M | previous -408000M"
-    },
-    {
-      "id": "mkt:01a17f1b-206e-7ee0-a9a1-7cf0a361a51a",
-      "time": "2026-10-28 04:44:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US API refined product imports -379,000 b/d for the week to Oct. 23; prior +329,000 b/d."
-    },
-    {
-      "id": "5173672",
-      "time": "2026-10-28 04:44:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：巴西在選舉舞弊方面做得很老練。"
-    },
-    {
-      "id": "mkt:01a17f1b-030d-7ee0-a9a1-713bdbaedff3",
-      "time": "2026-10-28 04:43:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "API weekly US crude imports -137k bbl in week to Oct. 23; prior +69k bbl."
-    },
-    {
-      "id": "mkt:01a17f1b-0198-7ee0-a9a1-6e73e826f8bf",
-      "time": "2026-10-28 04:43:58",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Petroleum Products Imports (Oct.23) | actual -379000M | previous 329000M"
-    },
-    {
-      "id": "mkt:01a17f1a-e7de-7ee0-a9a1-62485d737b43",
-      "time": "2026-10-28 04:43:52",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Imports (Oct.23) | actual -137000M | previous 69000M"
-    },
-    {
-      "id": "mkt:01a17f1a-bd3b-7ee0-a9a1-5ee0177f7790",
-      "time": "2026-10-28 04:43:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "API: U.S. heating oil stocks up 380,000 barrels in week to Oct. 23, prior week showed a 169,000-barrel draw."
-    },
-    {
-      "id": "mkt:01a17f1a-a070-7ee0-a9a1-56d4a919305e",
-      "time": "2026-10-28 04:43:33",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Heating Oil Stocks Change (Oct.23) | actual 380000M | previous -169000M"
-    },
-    {
-      "id": "mkt:01a17f1a-97a1-7ee0-a9a1-4c0537d37bbd",
-      "time": "2026-10-28 04:43:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. API Cushing crude inventories -453,000 bbl in the week to Oct. 23; prior +936,000 bbl."
-    },
-    {
-      "id": "mkt:01a17f1a-7a27-7ee0-a9a1-42f1f4e81f8d",
-      "time": "2026-10-28 04:43:23",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Oct.23) | actual -453000M | previous 936000M"
-    },
-    {
-      "id": "mkt:01a17f1a-4d3f-7ee0-a9a1-3fb2e2c130e0",
-      "time": "2026-10-28 04:43:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US API weekly refined product inventories +426k bbl in week to Oct. 23; expected -888k bbl; prior -2.577m bbl."
-    },
-    {
-      "id": "mkt:01a17f1a-2c0f-7ee0-a9a1-3385a9b34077",
-      "time": "2026-10-28 04:43:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Distillate Stocks Change (Oct.23) | actual 426000M | consensus -888000M | previous -2577000M"
-    },
-    {
-      "id": "5173671",
-      "time": "2026-10-28 04:42:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國石油協會（API）資料顯示，上週，美國API原油庫存 -203.1萬桶，之前一週 -493.1萬桶。"
-    },
-    {
-      "id": "mkt:01a17f1a-1324-7ee0-a9a1-2a37f573ca57",
-      "time": "2026-10-28 04:42:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "API: US gasoline stocks +2.39 mln bbl in week to Oct 23 vs -1.288 mln expected; prior -1.954 mln."
-    },
-    {
-      "id": "mkt:01a17f19-f4c6-7ee0-a9a1-22ebd5a7995b",
-      "time": "2026-10-28 04:42:49",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Gasoline Stocks Change (Oct.23) | actual 2390000M | consensus -1288000M | previous -1954000M"
-    },
-    {
-      "id": "mkt:01a17f19-e14d-7ee0-a9a1-1fd58c084a2d",
-      "time": "2026-10-28 04:42:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. API weekly crude inventories fell 2.031 mln barrels in the week to Oct. 23; market had expected a 0.522 mln-barrel build. Prior week showed a 4.931 mln-barrel draw."
-    },
-    {
-      "id": "mkt:01a17f19-beff-7ee0-a9a1-1374e3564508",
-      "time": "2026-10-28 04:42:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Crude Oil Stocks Change (Oct.23) | actual -2031000M | consensus 522000M | previous -4931000M"
-    },
-    {
-      "id": "mkt:01a17f18-4aaf-7ee0-a9a1-0f5d3b605ac3",
-      "time": "2026-10-28 04:41:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he did not win the Nobel Prize but saved 30 million lives, adding that was much better."
-    },
-    {
-      "id": "mkt:01a17f17-eaa8-7ee0-a9a1-015da4825413",
-      "time": "2026-10-28 04:40:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Axios: Eizenkot may seek Arab party support to form government】If Israeli exit polls are confirmed, Netanyahu's bloc would fall to about 50 seats, down 14 from 64 in 2022. Former army chief Gadi Eizenkot says he will move to replace the government. The opposition is projected at only 52–53 seats, so Eizenkot may need backing from two Arab parties to form a minority government; his partners' willingness is uncertain. Axios says an Eizenkot victory could shift Israel's foreign relations and domestic policy while he would remain hawkish on security."
-    },
-    {
-      "id": "te:markets:595538",
-      "time": "2026-10-28 04:37:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Waste Management earnings below expectations at 2.15 USD — Waste Management (WM) released earnings per share at 2.15 USD, compared to market expectations of 2.20 USD."
-    },
-    {
-      "id": "5173669",
-      "time": "2026-10-28 04:35:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【出口民調：利庫德集團仍為以色列議會最大黨】27日晚，以色列議會選舉出口民調顯示反對派陣營領先，但內塔尼亞胡領導的利庫德集團仍為議會最大黨。（新華社）"
-    },
-    {
-      "id": "mkt:01a17f13-58fa-7ee0-a9a0-fbdb836e9642",
-      "time": "2026-10-28 04:35:36",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Exit poll: Neither Netanyahu bloc nor opposition secures Knesset majority】Channel 11 exit poll projects Netanyahu-aligned bloc at 50 seats: Likud 25, Otzma Yehudit (Jewish Power) 7, Religious Zionism 6, Shas 6, United Torah Judaism 6. Anti-Netanyahu bloc projected at 53 seats: Yesh Atid 21, National Unity 14, Democratic Party 10, Yisrael Beiteinu 8. Arab parties projected at 17 seats: Joint List 10, United Arab List (Ra'am) 7."
-    },
-    {
-      "id": "te:markets:595537",
-      "time": "2026-10-28 04:35:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.03% Higher — The Dow Jones Index went up by 17 points or 0.03 percent on Tuesday to close at 52378 points. The rise was led by Caterpillar (3.15%), Goldman Sachs (2.08%) and Amazon (1.67%). On the downside, the weakerst performers were Boeing (-10.74%), Sherwin-Williams (-2.74%) and Salesforce (-2.71%)."
-    },
-    {
-      "id": "te:markets:595536",
-      "time": "2026-10-28 04:34:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Extends Post-Election Losses — The Ibovespa fell 0.5% to close at 175,710, extending losses after plunging 13.7% on Monday following President Lula’s re-election. Lula’s victory erased the reduction in the risk premium that followed the right-wing landslide in the first round. Investors had widely viewed a potential Bolsonaro government as more likely to rein in public spending, seen as essential to lowering interest rates. Major banks fell, with Itaú down 1.2% and Bradesco losing 1.4%. Santander shed 2.2% ahead of its earnings report on Wednesday. Petrobras dropped another 2% as oil prices declined, following an 8.2% plunge on Monday. Vale fell 2.1% ahead of its Thursday earnings report, after outperforming the index during Monday’s rout. Gerdau shed 2.7% despite strong results. WEG extended gains by 3.7% after reporting upbeat earnings last week. Ambev added 1.3% ahead of its results on Wednesday."
-    },
-    {
-      "id": "te:markets:595535",
-      "time": "2026-10-28 04:33:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Teradyne earnings above expectations at 2.29 USD — Teradyne (TER) released earnings per share at 2.29 USD, compared to market expectations of 1.50 USD."
-    },
-    {
-      "id": "5173664",
-      "time": "2026-10-28 04:28:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：關閉邊境無需新立法，只需要換一位總統】美國總統特朗普回顧拜登曾堅稱需要立法才能關閉邊境一事時說：“不，你需要一位新總統。”特朗普表示，其政府在就職後數月內便控制了邊境，無需國會透過新立法。"
-    },
-    {
-      "id": "mkt:01a17f0c-1a4e-7ee0-a9a0-f79ffad56cd2",
-      "time": "2026-10-28 04:27:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said voters' memories last about two weeks."
-    },
-    {
-      "id": "5173661",
-      "time": "2026-10-28 04:26:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "博通兜底保障覆蓋客戶租賃金額的72.5%。"
-    },
-    {
-      "id": "mkt:01a17f0a-a2ac-7ee0-a9a0-ef82965216ae",
-      "time": "2026-10-28 04:26:05",
-      "tags": [
-        "MKT News",
-        "AVGO.O",
-        "Impact bearish"
-      ],
-      "text": "SEC filings show Broadcom provided residual-value support to a special-purpose vehicle; maximum potential liability under the guarantee arrangements is about $43 billion."
-    },
-    {
-      "id": "5173660",
-      "time": "2026-10-28 04:25:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "博通承擔最高430億美元AI機架兜底賠付責任。"
-    },
-    {
-      "id": "5173659",
-      "time": "2026-10-28 04:25:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【貝克休斯拿下美國科技企業大型發電及冷卻裝置訂單】貝克休斯表示，已獲得一家美國科技公司的大型發電與冷卻裝置訂單，發電訂單于2026年第三季度入賬，冷卻裝置訂單于2026年第四季度入賬，公司將為高密度人工智慧算力負載供應Chart乾式冷卻器。"
-    },
-    {
-      "id": "mkt:01a17f09-b76f-7ee0-a9a0-e75854e52e8f",
-      "time": "2026-10-28 04:25:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "SEC filing shows Broadcom Inc. (AVGO.O) arranged for financial partners to purchase AI server racks built around its custom AI accelerators."
-    },
-    {
-      "id": "te:markets:595534",
-      "time": "2026-10-28 04:24:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises Ahead of BoC and Fed Meetings — The S&P/TSX Composite Index rose 0.6% to close at 36,171 ahead of monetary policy decisions from the Bank of Canada and the US Federal Reserve later this week. The BoC meets Wednesday, with markets pricing in a 25-basis-point hike, while the Fed is widely expected to hold rates steady. Canadian bond yields fell as the oil rally paused, easing energy-driven inflation concerns and supporting bank stocks. BMO gained 1.2%, Scotiabank rose 0.8%, and CIBC added 1.1%. Mining stocks advanced as gold prices picked up, with Agnico Eagle rising 2.9% ahead of its earnings report on Wednesday, Barrick gaining 2.8%, and Wheaton Precious Metals climbing 3.1%. Meanwhile, the US and Canada are reportedly negotiating a deal to ease US tariffs on Canadian steel and autos. BRP rose 2.7%, while Teck Resources gained 3.5%. Celestica surged 11.9% after posting better-than-expected third-quarter results and issuing an upbeat 2027 revenue outlook, recovering from last week’s sharp losses."
-    },
-    {
-      "id": "mkt:01a17f08-f579-7ee0-a9a0-da53c33d699d",
-      "time": "2026-10-28 04:24:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli opposition leader Lapid said Netanyahu's camp suffered a crushing defeat and called it a total collapse."
-    },
-    {
-      "id": "5173655",
-      "time": "2026-10-28 04:23:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：選民的記憶大約只能維持兩週。"
-    },
-    {
-      "id": "5173654",
-      "time": "2026-10-28 04:22:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：期待與更多機構合作。"
-    },
-    {
-      "id": "5173653",
-      "time": "2026-10-28 04:22:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：希望與儘可能多的研究人員分享。"
-    },
-    {
-      "id": "5173652",
-      "time": "2026-10-28 04:22:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic收購Mithril Medicine，以開展罕見病專案。"
-    },
-    {
-      "id": "5173650",
-      "time": "2026-10-28 04:22:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝克休斯：第三季度獲得發電裝置訂單。"
-    },
-    {
-      "id": "5173649",
-      "time": "2026-10-28 04:22:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "貝克休斯贏得美國科技公司發電與冷卻訂單。"
-    },
-    {
-      "id": "5173648",
-      "time": "2026-10-28 04:21:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：希望與藥物研發研究人員共享模型。"
-    },
-    {
-      "id": "5173647",
-      "time": "2026-10-28 04:20:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "恩智浦半導體股價在盤後交易中下跌6.51%，至237美元。"
-    },
-    {
-      "id": "5173644",
-      "time": "2026-10-28 04:20:19",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "Anthropic：隨著藥物專案推進，計劃繼續將Claude的應用範圍拓展至臨床試驗領域。"
-    },
-    {
-      "id": "mkt:01a17f05-4b96-7ee0-a9a0-d1662a32696f",
-      "time": "2026-10-28 04:20:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China urges parties to advance US-Iran ceasefire and talks】China's UN ambassador Fu Cong told a Security Council open meeting on the Iran nuclear file on 27 that parties should push for a US-Iran ceasefire and talks. Fu blamed the US's unilateral withdrawal from the JCPOA and the reinstatement and escalation of unilateral sanctions and 'maximum pressure' for the current impasse. He said the JCPOA and UNSC Resolution 2231 demonstrate political-diplomatic means are the only way to resolve the issue, and that the agreement's core objectives and principles — including step-by-step reciprocity and balanced rights and obligations — must be preserved. Fu added Iran should honour its commitment not to develop nuclear weapons and that states must respect Iran's NPT-guaranteed right to peaceful nuclear energy."
-    },
-    {
-      "id": "mkt:01a17f05-1fc0-7ee0-a9a0-cc649d523a67",
-      "time": "2026-10-28 04:20:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "API weekly US crude inventories for week to Oct 23 due in 10 minutes."
-    },
-    {
-      "id": "5173642",
-      "time": "2026-10-28 04:19:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡競爭對手艾森科特：出口民調顯示以色列民眾對內塔尼亞胡“完全不信任”。"
-    },
-    {
-      "id": "te:markets:595533",
-      "time": "2026-10-28 04:19:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Netherlands",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "NXP Semiconductors earnings above expectations at 4.20 USD — NXP Semiconductors (NXPI) released earnings per share at 4.20 USD, compared to market expectations of 3.97 USD."
-    },
-    {
-      "id": "mkt:01a17f04-94fb-7ee0-a9a0-c0e618fdd2d3",
-      "time": "2026-10-28 04:19:28",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Exit polls show no clear winner in Israeli parliamentary vote】Voting in Israel's 26th Knesset election ended at 04:00 Beijing time on Oct. 28. The Central Elections Committee said turnout had reached 74.3% by 20:00 that day, versus 66.3% at the same point in 2022 — the highest for that time slot since 1988; final turnout is expected to rise. Parties must pass a 3.25% threshold to enter the 120-seat Knesset. Exit polls from Channel 12 and Channel 11 project Prime Minister NETANYAHU's Likud as the largest party with 24–25 seats, and the list led by former IDF chief of staff Gadi Eizenkot on 21–22 seats."
-    },
-    {
-      "id": "5173640",
-      "time": "2026-10-28 04:18:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：在加速藥物研發方面取得初步進展。"
-    },
-    {
-      "id": "5173634",
-      "time": "2026-10-28 04:17:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列出口民調顯示，總理內塔尼亞胡領導的執政聯盟與反對派均未獲得議會多數席位。第12頻道預測反對派陣營將獲52席，內塔尼亞胡陣營50席，阿拉伯政黨18席。獲得多數席位需達到61席。"
-    },
-    {
-      "id": "mkt:01a17f02-4686-7ee0-a9a0-bd5bb4f10f0d",
-      "time": "2026-10-28 04:16:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli opposition leader Gadi Eizenkot said exit polls indicate Israelis have rejected Prime Minister Netanyahu."
-    },
-    {
-      "id": "mkt:01a17f02-1b2c-7ee0-a9a0-b3cbd131f215",
-      "time": "2026-10-28 04:16:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Trump on Iran said short-term pain for long-term gain and added, \"You will soon say, 'What's wrong with gasoline? It's so cheap!'\""
-    },
-    {
-      "id": "5173630",
-      "time": "2026-10-28 04:16:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列媒體：艾森科特與內塔尼亞胡將分別和各自陣營內的政黨領導人舉行首輪會談。"
-    },
-    {
-      "id": "mkt:01a17f00-392b-7ee0-a9a0-ad8ebcd9d019",
-      "time": "2026-10-28 04:14:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Channel 13 exit poll projects Arab parties winning 17 Knesset seats."
-    },
-    {
-      "id": "5173626",
-      "time": "2026-10-28 04:12:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【出口民調顯示內塔尼亞胡陣營未獲議會多數席位】當地時間27日晚，以色列議會選舉出口民調資料顯示，以色列總理內塔尼亞胡陣營未獲議會多數席位。當天22點（北京時間28日4點），以色列第26屆議會選舉投票結束。根據以色列中央選舉委員會公佈的資料，截至當天晚間8時，以色列議會選舉的投票率已達到74.3%，高於2022年大選同一時段的66.3%。中央選舉委員會表示，這是自1988年以來，該時段錄得的全國最高投票率。預計最終投票率將繼續升高。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a17efe-7439-7ee0-a9a0-a7090c22500f",
-      "time": "2026-10-28 04:12:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump said he would attack Iran again if given the chance, calling it \"one of the best things I have ever done.\""
-    },
-    {
-      "id": "5173620",
-      "time": "2026-10-28 04:12:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "恩智浦半導體股價盤後下跌8%。"
-    },
-    {
-      "id": "mkt:01a17efd-82e8-7ee0-a9a0-9c14325b2cd8",
-      "time": "2026-10-28 04:11:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Iran is \"a crazy country\"."
-    },
-    {
-      "id": "5173619",
-      "time": "2026-10-28 04:11:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普表示，如果讓他重新選擇，他“絕對會”再次對伊朗發動攻擊。"
-    },
-    {
-      "id": "5173618",
-      "time": "2026-10-28 04:10:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "Robinhood：將此前2026年調整後運營支出預期的上限下調2500萬美元，至26.75億至27.5億美元區間。"
-    },
-    {
-      "id": "te:markets:595532",
-      "time": "2026-10-28 04:10:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Wall Street Rises as Tech Stocks Rebound — US stock indices closed higher on Tuesday as technology stocks rebounded ahead of earnings from major industry players. The S&P 500 rose 0.6%, the Nasdaq gained 1.3%, and the Dow closed flat. The AI trade largely recovered, lifting chipmakers and most hyperscalers. Broadcom climbed 4% after a consortium of banks and Blackstone announced $63 billion in financing related to the use of its technology by Anthropic. Meta fell 1.6% despite its $25 billion stock sale being five times oversubscribed. Oracle advanced 3.6% as it expanded its partnership with OpenAI. Alphabet (+1.2%), Microsoft (-0.2%) and Amazon (+1.6%) are expected to report healthy growth when they release earnings this week. Elsewhere, Boeing tumbled 10.7% after posting a larger-than-expected Q3 loss. Corning fell 1.1% despite strong results. Whirlpool rose 3.7% despite reporting a quarterly loss. PayPal added 2% despite a revenue miss. Meanwhile, the Federal Reserve is widely expected to hold interest rates steady this week."
-    },
-    {
-      "id": "mkt:01a17efc-8997-7ee0-a9a0-9460dda6f6f9",
-      "time": "2026-10-28 04:10:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli journalist Neriya Kraus says Netanyahu is not expected to be Israel’s next prime minister; it remains unclear what governing coalition will be formed."
-    },
-    {
-      "id": "5173617",
-      "time": "2026-10-28 04:09:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "西部資料股價跟隨希捷股價下跌，跌幅達3%。"
-    },
-    {
-      "id": "5173616",
-      "time": "2026-10-28 04:09:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "Robinhood：10月迄今淨存款已超過130億美元，其中包括戴爾家族向美國總統特朗普賬戶投入的60億美元。"
-    },
-    {
-      "id": "5173615",
-      "time": "2026-10-28 04:08:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "Robinhood股價在盤後交易中迅速下跌4.9%。"
-    },
-    {
-      "id": "5173614",
-      "time": "2026-10-28 04:08:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列記者Neira Kraus援引以色列選舉預測稱，內塔尼亞胡預計不會成為以色列下一任總理。不過，目前尚不清楚可能組成何種聯盟。"
-    },
-    {
-      "id": "te:markets:595531",
-      "time": "2026-10-28 04:08:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Ireland",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Seagate Technology earnings above expectations at 7.68 USD — Seagate Technology (STX) released earnings per share at 7.68 USD, compared to market expectations of 5.78 USD."
-    },
-    {
-      "id": "te:markets:595530",
-      "time": "2026-10-28 04:08:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Visa earnings above expectations at 3.48 USD — Visa (V) released earnings per share at 3.48 USD, compared to market expectations of 3.45 USD."
-    },
-    {
-      "id": "5173611",
-      "time": "2026-10-28 04:07:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談德國：德國嘗試過綠色能源，其他國家也嘗試過，它們都幾乎破產。如果德國沒有改變路線，德國將不復存在。"
-    },
-    {
-      "id": "5173608",
-      "time": "2026-10-28 04:07:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "Robinhood：第三季度平臺總資產同比增長19%，達到3960億美元。"
-    },
-    {
-      "id": "5173605",
-      "time": "2026-10-28 04:06:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "Visa第四財季淨營收121億美元，預估120.9億美元。"
-    },
-    {
-      "id": "5173604",
-      "time": "2026-10-28 04:06:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "Visa第四季度調整後每股收益3.48美元，市場預期3.44美元。"
-    },
-    {
-      "id": "te:markets:595529",
-      "time": "2026-10-28 04:06:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Bermuda",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Arch Capital earnings above expectations at 2.67 USD — Arch Capital (ACGL) released earnings per share at 2.67 USD, compared to market expectations of 1.84 USD."
-    },
-    {
-      "id": "5173603",
-      "time": "2026-10-28 04:06:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "希捷股價在第一季度財報釋出後下跌5%。"
-    },
-    {
-      "id": "mkt:01a17ef8-37c6-7ee0-a9a0-8d00ec6025a3",
-      "time": "2026-10-28 04:05:58",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Google (GOOG.O): VMware solution on Google Cloud available in 22 regions; company plans further regional expansion."
-    },
-    {
-      "id": "5173602",
-      "time": "2026-10-28 04:05:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方呼籲各方推進美伊止戰促談】中國常駐聯合國代表傅聰27日在安理會伊朗核問題公開會上發言，強調各方應推進美伊止戰促談。傅聰說，當前，中東地區局勢持續緊張，外溢影響不斷擴散，嚴重衝擊地區和世界和平與穩定。美國和伊朗的談判陷入僵持，有關醞釀對伊朗開展新一輪軍事打擊的言論推高緊張局勢，令人深感關切。伊核問題作為美伊矛盾之一，曾經幾次擺上談判桌，卻一再錯失機遇。各方應以史為鑑，堅持真正的多邊主義和政治解決大方向不動搖，推進止戰促談，重振外交努力。（新華社）"
-    },
-    {
-      "id": "mkt:01a17ef7-c409-7ee0-a9a0-80091c3473ff",
-      "time": "2026-10-28 04:05:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "Dow Jones Industrial Average closed up 15.99 points (0.03%) at 52,377.57 on Tuesday, Oct. 27; S&P 500 closed up 45.85 points (0.60%) at 7,722.62; Nasdaq Composite closed up 308.43 points (1.18%) at 26,477.81."
-    },
-    {
-      "id": "5173601",
-      "time": "2026-10-28 04:05:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "三份以色列出口民調顯示埃森科特陣營領先，無陣營取得多數席位。"
-    },
-    {
-      "id": "mkt:01a17ef7-2cd6-7ee0-a9a0-7cf28081e29b",
-      "time": "2026-10-28 04:04:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Google (GOOG.O) announced VMware solutions are now generally available on Google Cloud."
-    },
-    {
-      "id": "5173597",
-      "time": "2026-10-28 04:04:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：谷歌雲上的VMware解決方案已在22個地區推出，計劃進一步擴充套件。"
-    },
-    {
-      "id": "mkt:01a17ef6-f737-7ee0-a9a0-74bccb64e2f2",
-      "time": "2026-10-28 04:04:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Channel 12 exit poll projects the bloc led by Netanyahu rival Gadi Eizenkot will win more Knesset seats than Netanyahu's bloc."
-    },
-    {
-      "id": "5173596",
-      "time": "2026-10-28 04:04:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列議會選舉投票結束】當地時間10月27日晚10點（北京時間10月28日凌晨4點），以色列第26屆議會選舉投票結束。根據以色列中央選舉委員會公佈的資料，截至當天晚間8時，選舉的投票率已達到74.3%，高於2022年大選同一時段的66.3%。中央選舉委員會表示，這是自1988年以來，該時段錄得的全國最高投票率。預計最終投票率將繼續升高。 根據以色列選舉法，政黨須跨過3.25%的得票門檻方可進入議會，並按比例分配120個席位。初步計票結果預計10月28日或29日公佈，最終結果由中央選舉委員會於11月4日正式公佈。此後，中央選舉委員會向總統赫爾佐格提交最終結果，赫爾佐格將在一週內與各黨議員代表協商，並授權最有可能成功組閣的議員組建政府。獲授權議員擁有28天組閣期，可申請延長14天；若失敗，總統可授權另一名議員，期限28天且不得延期；仍失敗則由61名議員聯名請求授權第三名候選人，期限14天，否則議會解散並舉行新一輪選舉。（CCTV國際時訊）"
-    },
-    {
-      "id": "5173595",
-      "time": "2026-10-28 04:04:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "禮來公司表示，禮來國際業務總裁Jonsson將退休。"
-    },
-    {
-      "id": "mkt:01a17ef6-4d0d-7ee0-a9a0-6acfeb2a8905",
-      "time": "2026-10-28 04:03:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Channel 12 exit poll projects the party led by Netanyahu's rival Gadi Eizenkot to win 22 of the Knesset's 120 seats."
-    },
-    {
-      "id": "5173592",
-      "time": "2026-10-28 04:03:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：宣佈谷歌雲平臺上的VMware解決方案正式上線。"
-    },
-    {
-      "id": "5173591",
-      "time": "2026-10-28 04:03:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "富士膠片將在截至2028財年期間，向其位於東京附近小田原的工廠投資100億日元。"
-    },
-    {
-      "id": "mkt:01a17ef5-fd94-7ee0-a9a0-64cb8630e2a4",
-      "time": "2026-10-28 04:03:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "BA.N",
-        "Impact bearish",
-        "TSLA.O",
-        "Impact bullish",
-        "NTES.O"
-      ],
-      "text": "【US close: major indexes higher; Boeing plunges 10.7%】US equities closed higher on Tuesday: Dow +0.03%, S&P 500 +0.60%, Nasdaq +1.18%. Boeing (BA.N) fell 10.7%. SK Hynix (SKHY.O) rose 1.9%, Tesla (TSLA.O) +4.0%, Dell (DELL.N) +7.0%. Nasdaq Golden Dragon China Index -0.11%; NetEase (NTES.O) down >3.0%."
-    },
-    {
-      "id": "5173590",
-      "time": "2026-10-28 04:03:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列第11頻道出口民調：埃森科特陣營預計席位多於內塔尼亞胡陣營。"
-    },
-    {
-      "id": "5173587",
-      "time": "2026-10-28 04:02:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西10月大豆出口預計將達到615萬噸，而前一週的預估為640萬噸。"
-    },
-    {
-      "id": "5173586",
-      "time": "2026-10-28 04:02:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡對手艾森科特領導的政黨預計將在以色列議會120個席位中贏得21席。"
-    },
-    {
-      "id": "5173583",
-      "time": "2026-10-28 04:01:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "以色列第11頻道出口民調顯示，內塔尼亞胡領導的利庫德集團將在議會120個席位中贏得25席。"
-    },
-    {
-      "id": "5173582",
-      "time": "2026-10-28 04:01:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "UPS股價上漲5.8%，創一年來最佳單日漲幅。"
-    },
-    {
-      "id": "5173581",
-      "time": "2026-10-28 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.03%，標普500指數漲0.60%，納指漲1.18%。濱特爾漲12.82%，NBIS漲11.22%，Astera Labs Inc漲10.47%，RKLB漲8.34%，偉創力國際漲8.26%，CoreWeave漲7.94%，戴爾漲7.38%。“七姐妹”方面：特斯拉漲4.04%，亞馬遜漲1.61%，蘋果漲0.93%，英偉達漲0.90%，谷歌漲0.84%，微軟跌0.24%，Meta Platforms跌1.64%。"
-    },
-    {
-      "id": "5173580",
-      "time": "2026-10-28 04:00:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "出口民調顯示，內塔尼亞胡的利庫德集團將在以色列議會120個席位中贏得24個席位。"
-    },
-    {
-      "id": "5173577",
-      "time": "2026-10-28 04:00:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "以色列出口民調：內塔尼亞胡所屬利庫德集團在以色列選舉中領先。"
-    },
-    {
-      "id": "5173573",
-      "time": "2026-10-28 04:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.12%】虎虎科技跌9.91%，寶尊電商跌7.58%，震坤行跌4.49%，世紀互聯跌4.20%，愛奇藝跌4.18%。"
-    },
-    {
-      "id": "5173572",
-      "time": "2026-10-28 03:59:04",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我知道油價會上漲。我實際上認為漲幅會高出兩三倍，但我仍然願意這麼做。"
-    },
-    {
-      "id": "5173569",
-      "time": "2026-10-28 03:58:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "Polsat（波蘭衛視）與YouTube簽署內容分發協議，Polsat將在YouTube上直接銷售影片廣告。"
-    },
-    {
-      "id": "5173566",
-      "time": "2026-10-28 03:57:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：過去的領導人早該解決這個問題，但他們沒有勇氣或智慧去做。"
-    },
-    {
-      "id": "5173564",
-      "time": "2026-10-28 03:56:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：美國沒有對伊朗發動戰爭。自1979年以來，伊朗一直在對美國發動這場戰爭。"
-    },
-    {
-      "id": "5173560",
-      "time": "2026-10-28 03:54:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談委內瑞拉：委內瑞拉正在出現人們此前認為根本不可能發生的就業增長。"
-    },
-    {
-      "id": "5173559",
-      "time": "2026-10-28 03:53:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "UPS執行長：美加貿易爭端導致加拿大邊境出現“疲軟”跡象。"
-    },
-    {
-      "id": "5173555",
-      "time": "2026-10-28 03:52:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談委內瑞拉：也許不久的將來，它會成為一個繁榮的第51個州。讓我們把它變成第51個州，屆時不再設總統，而是選舉州長。"
-    },
-    {
-      "id": "5173551",
-      "time": "2026-10-28 03:51:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥航空批准最高1億美元的股票回購計劃。"
-    },
-    {
-      "id": "5173548",
-      "time": "2026-10-28 03:50:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們正在慶祝史上最偉大的石油勝利。戰利品歸勝者所有，對吧？"
-    },
-    {
-      "id": "5173545",
-      "time": "2026-10-28 03:49:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申石油正從霍爾木茲海峽運出。"
-    },
-    {
-      "id": "5173543",
-      "time": "2026-10-28 03:48:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽確認博通評級為“A-”，展望正面。"
-    },
-    {
-      "id": "5173540",
-      "time": "2026-10-28 03:48:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "UPS執行長表示，GLP-1相關需求正在提振公司醫療保健業務。"
-    },
-    {
-      "id": "5173539",
-      "time": "2026-10-28 03:48:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "UPS執行長認為資料中心物流是一項長期業務線。"
-    },
-    {
-      "id": "5173537",
-      "time": "2026-10-28 03:47:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普暗示委內瑞拉可能成為美國的一個州。"
-    },
-    {
-      "id": "5173536",
-      "time": "2026-10-28 03:46:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普表示，來自委內瑞拉的一百萬桶石油已運抵得克薩斯州。"
-    },
-    {
-      "id": "5173535",
-      "time": "2026-10-28 03:46:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特表示，俄羅斯目前無法出口柴油，霍爾木茲海峽的成品油流量有所增加，Constellation Energy交易將新增1.1吉瓦裝機容量。"
-    },
-    {
-      "id": "5173532",
-      "time": "2026-10-28 03:45:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數日內漲4%】費城半導體指數日內漲4.00%，現報11526.90點。英偉達漲1.13%，博通漲4.61%，美光漲3.52%，英特爾漲4.05%，AMD漲6.03%，高通漲2.02%，臺積電漲3.33%，阿斯麥漲3.38%。"
-    },
-    {
-      "id": "5173531",
-      "time": "2026-10-28 03:42:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "Physical Intelligence新一輪融資談判將使這家人工智慧初創公司的估值接近翻倍。"
-    },
-    {
-      "id": "5173530",
-      "time": "2026-10-28 03:42:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "知情人士透露，Physical Intelligence正就一輪估值200億美元的融資展開洽談。"
-    },
-    {
-      "id": "5173529",
-      "time": "2026-10-28 03:42:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天然氣出口國論壇第八次峰會發表《莫斯科宣言》】天然氣出口國論壇第八次峰會27日在莫斯科國際貿易中心舉行。峰會於當天閉幕並發表《莫斯科宣言》，重申天然氣出口國對本國自然資源擁有絕對、不可動搖的主權權利。（新華社）"
-    },
-    {
-      "id": "5173528",
-      "time": "2026-10-28 03:41:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在得克薩斯州科珀斯克里斯蒂市的競選集會上發表講話。"
-    },
-    {
-      "id": "5173527",
-      "time": "2026-10-28 03:40:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我知道汽油價格居高不下。"
-    },
-    {
-      "id": "5173517",
-      "time": "2026-10-28 03:38:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌推出Genie 4世界模型，原生支援音訊。"
-    },
-    {
-      "id": "5173516",
-      "time": "2026-10-28 03:34:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "洛克希德·馬丁公司獲得價值6.94億美元的空射快速響應武器（ARRW）生產合同。"
-    },
-    {
-      "id": "5173515",
-      "time": "2026-10-28 03:33:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "甲骨文計劃向美國政府擴充套件多雲人工智慧資料庫服務，將把服務擴充套件至美國政府和公共部門的工作負載。"
-    },
-    {
-      "id": "5173514",
-      "time": "2026-10-28 03:30:57",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【烏克蘭外長：烏方已準備好參加烏美俄三方會談】烏克蘭外交部長瑟比加27日表示，烏方已準備好參加在阿拉伯聯合大公國舉行的烏克蘭、美國和俄羅斯三方會談，將利用一切機會推動實現和平。（新華社）"
-    },
-    {
-      "id": "5173513",
-      "time": "2026-10-28 03:29:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國水務公司公佈季度股息為每股0.8950美元。"
-    },
-    {
-      "id": "5173512",
-      "time": "2026-10-28 03:24:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價27日下跌 】國際油價27日下跌。截至當天收盤，紐約商品交易所12月交貨的輕質原油期貨價格下跌1.86美元，收於每桶99.90美元，跌幅為1.83%；12月交貨的倫敦布倫特原油期貨價格下跌1.93美元，收於每桶113.88美元，跌幅為1.67%。"
-    },
-    {
-      "id": "5173511",
-      "time": "2026-10-28 03:24:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數27日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.35%，在匯市尾市收於102.319。截至紐約匯市尾市，1歐元兌換1.1135美元，低於前一交易日的1.1183美元；1英鎊兌換1.3313美元，低於前一交易日的1.3350美元。1美元兌換157.95日元，高於前一交易日的157.43日元；1美元兌換0.8287瑞士法郎，高於前一交易日的0.8273瑞士法郎；1美元兌換1.4052加元，高於前一交易日的1.4020加元；1美元兌換9.9489瑞典克朗，低於前一交易日的9.9510瑞典克朗。"
-    },
-    {
-      "id": "5173510",
-      "time": "2026-10-28 03:18:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美俄探討戰後石油巨頭合資專案】知情人士稱，美國和俄羅斯提出一項方案，考慮戰後在俄羅斯遠東薩哈林近海設立美俄石油巨頭合資企業。磋商內容還包括引入美國石油企業，重啟德魯日巴管道向歐洲輸送俄羅斯原油。"
-    },
-    {
-      "id": "5173509",
-      "time": "2026-10-28 03:15:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局表示，安進公司Vectibix的影片廣告內容虛假或具有誤導性。"
-    },
-    {
-      "id": "5173508",
-      "time": "2026-10-28 03:14:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普將宣佈放寬石油公司甲烷洩漏規定。"
-    },
-    {
-      "id": "5173507",
-      "time": "2026-10-28 03:13:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：10月28日02時57分在青海玉樹州雜多縣（北緯32.50度，東經93.99度）發生4.9級地震，震源深度10千米。"
-    },
-    {
-      "id": "5173506",
-      "time": "2026-10-28 03:12:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國和俄羅斯討論美國參與對歐洲石油銷售的問題。"
-    },
-    {
-      "id": "5173505",
-      "time": "2026-10-28 03:11:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Millennium探索利用預測市場資料輔助制定交易策略】Millennium Management加入其他華爾街公司的行列，探索利用預測市場來輔助制定交易策略。知情人士稱，Millennium正在為投資組合經理開發工具，將提取Polymarket和Kalshi等預測平臺的資料作為傳統資產類別的交易訊號。知情人士表示，Millennium雖然正在研究這些資料的用途，但目前並未交易預測市場的合約。其中一位訊息人士表示，該公司部分投資經理有興趣使用與地緣政治、經濟和大宗商品結果相關的預測市場資料。"
-    },
-    {
-      "id": "5173504",
-      "time": "2026-10-28 03:11:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國和俄羅斯建議戰後在薩哈林海岸附近開展石油合資專案。"
-    },
-    {
-      "id": "5173503",
-      "time": "2026-10-28 03:10:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚表示，美國在波斯灣的侵略行徑威脅能源安全和經濟增長。"
-    },
-    {
-      "id": "5173502",
-      "time": "2026-10-28 03:08:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：華盛頓方面在烏克蘭和平談判中討論了美國石油巨頭與俄羅斯的交易事宜。"
-    },
-    {
-      "id": "5173501",
-      "time": "2026-10-28 03:08:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "市場資訊：由於材料成本上漲，個人電腦製造商正在尋求更高的製造效率。"
-    },
-    {
-      "id": "5173500",
-      "time": "2026-10-28 03:05:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士透露，戴爾也在評估將部分個人電腦生產業務遷回中國。"
-    },
-    {
-      "id": "5173499",
-      "time": "2026-10-28 03:04:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "受AI驅動成本上漲影響，惠普與華碩將部分PC生產遷回中國。"
-    },
-    {
-      "id": "5173498",
-      "time": "2026-10-28 03:00:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿拉斯加航空將開通安克雷奇至東京成田直飛航線。"
-    },
-    {
-      "id": "5173497",
-      "time": "2026-10-28 03:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.24%，報23067.00點，高水25.68點。"
-    },
-    {
-      "id": "5173496",
-      "time": "2026-10-28 02:58:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：博索納羅盟友稱美國總統特朗普政府已釋放庇護訊號。"
-    },
-    {
-      "id": "5173495",
-      "time": "2026-10-28 02:57:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列媒體報道：截至當地時間晚8點，投票率為74.3%。"
-    },
-    {
-      "id": "te:markets:595528",
-      "time": "2026-10-28 02:55:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Analog Devices Shares Hit 17-week High — Analog Devices shares increased to 422.79 USD, the highest since June 2026. Over the past 4 weeks, Analog Devices gained 6.89%, and in the last 12 months, it increased 76.59%."
-    },
-    {
-      "id": "5173494",
-      "time": "2026-10-28 02:53:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚已離開俄羅斯。"
-    },
-    {
-      "id": "5173493",
-      "time": "2026-10-28 02:47:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic研究顯示，分析師在86%的情況下會採信AI智慧體給出的結論。"
-    },
-    {
-      "id": "5173492",
-      "time": "2026-10-28 02:47:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：和伊朗爆發衝突，時機很不巧。"
-    },
-    {
-      "id": "5173491",
-      "time": "2026-10-28 02:45:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：新英格蘭的住宅應當用天然氣來取暖。"
-    },
-    {
-      "id": "5173490",
-      "time": "2026-10-28 02:40:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京與卡達埃米爾舉行會晤 討論中東局勢】據克里姆林宮網站10月27日訊息，俄羅斯總統普京與卡達埃米爾（國家元首）塔米姆當天在莫斯科“天然氣出口國論壇”峰會期間舉行會晤。普京指出，卡達在調解各種危機局勢、包括波斯灣局勢中發揮著重要作用，俄卡在國際舞臺上的協調有所加強。卡達和巴基斯坦斡旋下籤署的美伊諒解備忘錄作為推進談判程序的基礎仍然有效。俄方從伊朗衝突一開始就主張停止軍事行動和尋求政治外交解決，並準備採取一切力所能及的措施幫助解決問題。塔米姆表示，當前中東正經歷困難時期，美伊緊張局勢對整個地區產生負面影響和後果，包括霍爾木茲海峽危機和能源領域危機。卡達珍視並期待俄方調解霍爾木茲海峽局勢和地區其他危機，包括巴勒斯坦問題以及加沙的人道主義問題。經濟合作方面，普京表示，俄羅斯和卡達都是天然氣生產大國，也都是出口大國，全球能源市場穩定很大程度上取決於兩國合作與協調。塔米姆表示，過去十年兩國關係在經濟和投資領域積極發展，卡達對俄投資規模顯著。（央視新聞）"
-    },
-    {
-      "id": "5173489",
-      "time": "2026-10-28 02:40:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：伊朗戰事是付出了代價的。"
-    },
-    {
-      "id": "5173488",
-      "time": "2026-10-28 02:30:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝稱沙特主導聯軍對葉門多地發動81次空襲】當地時間27日晚間，葉門胡塞武裝發表宣告稱，過去24小時內，沙特主導的聯軍對葉門首都薩那及塔伊茲省、拉赫季省和哈傑省發動81次空襲和導彈襲擊，造成平民傷亡。宣告稱，自本輪局勢升級以來，沙特主導聯軍對葉門發動的空襲和導彈襲擊總數已達3379次。（央視新聞）"
-    },
-    {
-      "id": "5173487",
-      "time": "2026-10-28 02:30:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌2.56%，報712.90元人民幣/桶。滬金夜盤收漲1.05%，滬銀收漲0.93%。"
-    },
-    {
-      "id": "te:markets:595527",
-      "time": "2026-10-28 02:30:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Increases by 1.02% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.02% increase."
-    },
-    {
-      "id": "5173486",
-      "time": "2026-10-28 02:27:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "蓋亞那官方資料：9月石油產量達到90.6萬桶/日。"
-    },
-    {
-      "id": "5173485",
-      "time": "2026-10-28 02:25:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【梅拉尼婭：俄烏奧列什基停火提前生效 範圍已擴大】美國總統特朗普夫人梅拉尼婭27日在社交媒體發文稱，俄烏在赫爾松地區奧列什基的停火協議當天提前生效，比原計劃提前兩天，範圍已擴大至奧列什基以外區域，以便人道主義救援車隊通行；俄軍總參謀長格拉西莫夫已證實。俄方和烏方高階官員均證實雙方當天在奧列什基停火以開展人道主義行動。白宮23日宣告稱，梅拉尼婭促成該停火協議，停火從10月29日開始，範圍僅限於奧列什基市，俄烏同意暫停一切軍事行動，安排平民透過指定安全通道撤離；衝突爆發以來奧列什基大部分居民已離開，現估計仍有1700人至2000人留守，主要是無法離開的老年人，另有約50名兒童。（新華社）"
-    },
-    {
-      "id": "5173484",
-      "time": "2026-10-28 02:25:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐盟委員會提出加強歐盟氣候風險應對能力】歐盟委員會27日釋出歐盟氣候韌性框架，旨在加強歐盟預判、應對和管理氣候風險的能力。歐委會當天釋出公告說，今年夏季歐洲遭遇持續的熱浪和乾旱天氣。近年來，歐洲還多次遭遇嚴重洪災，氣候變化對民眾、企業和基礎設施的影響日益凸顯。根據估算，2022年至2025年間，氣候災害造成的經濟損失約為2000億歐元。歐盟氣候韌性框架提出加強氣候風險預判和應對，將氣候韌性納入歐盟主要政策領域，併為地方和區域政府提供適應氣候變化的支援。歐委會預計，歐洲每年需要約700億歐元的投資，才能使基礎設施和經濟適應未來的氣候條件。（央視新聞）"
-    },
-    {
-      "id": "te:markets:595526",
-      "time": "2026-10-28 02:25:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Falls by 2.23% — Top commodity losers are Coffee (-2.23%), Oat (-1.87%) and Palm Oil (-1.84%). Gains are led by Cocoa (1.33%) and Rice (0.64%)."
-    },
-    {
-      "id": "5173483",
-      "time": "2026-10-28 02:23:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：美國正在加大液化天然氣（LNG）出口規模。對俄製裁的暫緩安排屬於臨時性質。"
-    },
-    {
-      "id": "5173482",
-      "time": "2026-10-28 02:21:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列選舉官員裁定：不延長投票時間。"
-    },
-    {
-      "id": "5173481",
-      "time": "2026-10-28 02:20:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：俄羅斯目前無法出口柴油。"
-    },
-    {
-      "id": "te:markets:595525",
-      "time": "2026-10-28 02:20:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Titanium Falls by 4.65% — Top commodity losers are Titanium (-4.65%), Iron Ore CNY (-1.12%) and Platinum (-0.69%). Gains are led by Copper (1.80%), Lithium Carbonate (1.07%) and Gold (1.01%)."
-    },
-    {
-      "id": "5173480",
-      "time": "2026-10-28 02:19:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：經霍爾木茲海峽外運的成品油流量有所上升。"
-    },
-    {
-      "id": "5173479",
-      "time": "2026-10-28 02:18:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會透過Nexstar和解協議，批准部分廣播牌照續期。"
-    },
-    {
-      "id": "5173478",
-      "time": "2026-10-28 02:18:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：很快將有新建反應堆的相關訊息公佈。"
-    },
-    {
-      "id": "5173477",
-      "time": "2026-10-28 02:16:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：Constellation Energy這筆交易將新增1.1吉瓦電力。"
-    },
-    {
-      "id": "te:markets:595524",
-      "time": "2026-10-28 02:15:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Rises by 3.73% — Top commodity gainer is Natural gas (3.73%). Biggest losers are Heating Oil (-2.79%), Gasoline (-2.42%), Germany Natural Gas THE (-2.19%), Crude Oil (-1.74%) and Brent Oil (-1.66%)."
-    },
-    {
-      "id": "5173476",
-      "time": "2026-10-28 02:13:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列媒體報道：投票時間不會延長。選舉委員會已決定不延長投票站的關閉時間。"
-    },
-    {
-      "id": "5173475",
-      "time": "2026-10-28 02:07:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【保加利亞總統選舉將進入第二輪投票】根據保加利亞中央選舉委員會27日公佈的結果，現任總統約託娃和前看守政府總理安德烈·古羅夫在總統選舉投票中位居前兩位，但得票均未過半，兩人將於11月1日在第二輪投票中對決。委員會說，保加利亞約有659萬名合格選民，其中約152萬人參與25日的總統選舉投票。27名候選人中，約託娃獲得近53萬票，古羅夫獲得近49萬票。由於投票人數不足合格選民的一半，且沒有候選人獲得超過半數的選票，總統選舉將進入第二輪投票。（新華社）"
-    },
-    {
-      "id": "5173474",
-      "time": "2026-10-28 02:07:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯將7名英國軍工企業高管列入禁止入境名單】俄羅斯外交部27日發表宣告說，為回應英國當局的敵對政策，俄羅斯決定將7名英國軍工企業高管列入俄禁止入境名單。宣告說，這7名高管向烏克蘭提供武器和軍事技術，且被用於深入俄羅斯境內實施打擊，目標是給俄羅斯造成破壞。宣告還提及，英國稱其軍工企業從中獲得某種“國防紅利”。宣告稱，俄方將繼續擴大制裁名單。（新華社）"
-    },
-    {
-      "id": "5173473",
-      "time": "2026-10-28 02:03:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐盟擬藉助全球稅改協議收入充實下一期預算。"
-    },
-    {
-      "id": "5173472",
-      "time": "2026-10-28 01:59:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音：截至9月30日的九個月內，收到約4.2億美元此前核定關稅對應的退款。"
-    },
-    {
-      "id": "5173471",
-      "time": "2026-10-28 01:57:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音：預計777-8客機不會在2030年前進行首次交付。"
-    },
-    {
-      "id": "5173470",
-      "time": "2026-10-28 01:56:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音：第三季度遭遇供應商短缺問題，工廠生產受到干擾，對KC-46A加油機以及777貨機專案造成不利影響。"
-    },
-    {
-      "id": "5173469",
-      "time": "2026-10-28 01:56:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國武裝部長沃特蘭：政府正與四家意向方洽談，接手這家已進入破產接管程式的關鍵彈殼生產商的技術資產。"
-    },
-    {
-      "id": "mkt:01a17e81-2a4e-7ee0-a99e-f10d631ed6c1",
-      "time": "2026-10-28 01:55:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Boeing (BA.N) said disruptions from supplier shortages are expected to continue through 2027 and will generate abnormal production costs, which the company will expense as incurred."
-    },
-    {
-      "id": "mkt:01a17e80-e587-7ee0-a99e-efd56d3da92d",
-      "time": "2026-10-28 01:55:38",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bearish",
-        "Dow"
-      ],
-      "text": "Boeing (BA.N) encountered supplier shortages in Q3 that halted factory operations and negatively affected its KC-46A tanker and 777 freighter programs."
-    },
-    {
-      "id": "5173468",
-      "time": "2026-10-28 01:55:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音：預計供應商短缺造成的干擾將持續至2027年，並導致異常生產成本，這些成本在發生時計入費用。"
-    },
-    {
-      "id": "mkt:01a17e7d-f69f-7ee0-a99e-e44c2cd5307a",
-      "time": "2026-10-28 01:52:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Vice President Vance said he recalled waiting hours at gas stations as oil prices surged following events in a foreign region, adding he could not even pronounce some of the country names involved."
-    },
-    {
-      "id": "5173467",
-      "time": "2026-10-28 01:52:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收漲147美元，報14474美元/噸。LME期鋁收漲46美元，報3087美元/噸。LME期鋅收漲28美元，報3842美元/噸。LME期鉛收漲10美元，報1933美元/噸。LME期鎳收漲68美元，報15629美元/噸。LME期錫收漲444美元，報51461美元/噸。LME期鈷收平，報34620美元/噸。"
-    },
-    {
-      "id": "5173466",
-      "time": "2026-10-28 01:51:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府獲悉博索納羅即將到美國，博索納羅所乘坐飛機預計將在達拉斯或邁阿密降落。"
-    },
-    {
-      "id": "5173465",
-      "time": "2026-10-28 01:50:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：中東領導人“發脾氣”時，汽油價格就會攀升。"
-    },
-    {
-      "id": "mkt:01a17e7b-51a2-7ee0-a99e-d9a0105140b9",
-      "time": "2026-10-28 01:49:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. Vice President Vance said he understands gasoline prices are very high."
-    },
-    {
-      "id": "5173464",
-      "time": "2026-10-28 01:48:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "Anduril Industries Inc.與高通合作，試圖重新在美國設計、裝配膝上型電腦。"
-    },
-    {
-      "id": "5173463",
-      "time": "2026-10-28 01:48:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯：我知道汽油價格很高。"
-    },
-    {
-      "id": "5173462",
-      "time": "2026-10-28 01:45:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會批准亞馬遜LEO收購Globalstar。"
-    },
-    {
-      "id": "mkt:01a17e74-42b4-7ee0-a99e-d7e5376292a9",
-      "time": "2026-10-28 01:41:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) launched the Genie 4 world model with native audio support."
-    },
-    {
-      "id": "5173461",
-      "time": "2026-10-28 01:40:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌推出Genie 4世界模型，原生支援音訊。"
-    },
-    {
-      "id": "mkt:01a17e71-6a99-7ee0-a99e-ce036f8283b4",
-      "time": "2026-10-28 01:38:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude oil futures down 2.00% intraday, trading at $99.72/bbl."
-    },
-    {
-      "id": "5173460",
-      "time": "2026-10-28 01:38:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：密歇根州是本週美國最重要的選舉。"
-    },
-    {
-      "id": "mkt:01a17e70-8df0-7ee0-a99e-c64a18781971",
-      "time": "2026-10-28 01:37:47",
-      "tags": [
-        "MKT News",
-        "GM.N",
-        "Impact bullish"
-      ],
-      "text": "GM (GM.N) plans to launch a hybrid SUV; it is adjusting arrangements with the DOE for previously approved domestic manufacturing transformation grant funds, reallocating those funds to its Lansing Delta Township plant."
-    },
-    {
-      "id": "5173459",
-      "time": "2026-10-28 01:36:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用汽車：計劃上市混合動力SUV。"
-    },
-    {
-      "id": "5173458",
-      "time": "2026-10-28 01:36:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及外交部表示，正就一名越過邊境進入以色列後被拘留的埃及公民的遣返事宜採取必要措施。"
-    },
-    {
-      "id": "mkt:01a17e6e-e235-7ee0-a99e-bfd9a6c41a35",
-      "time": "2026-10-28 01:35:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Egypt's Foreign Ministry said it is taking necessary measures to arrange the return of an Egyptian citizen detained after crossing the border into Israel."
-    },
-    {
-      "id": "5173457",
-      "time": "2026-10-28 01:34:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "通用汽車：公司與美國能源部正在調整此前獲批的本土製造轉型補助資金，這筆資金將劃撥至蘭辛德爾塔鎮工廠。"
-    },
-    {
-      "id": "5173456",
-      "time": "2026-10-28 01:34:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：巴西的弗拉維奧·博索納羅正乘機前往美國。"
-    },
-    {
-      "id": "5173455",
-      "time": "2026-10-28 01:33:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌2%，現報99.70美元/桶。"
-    },
-    {
-      "id": "5173454",
-      "time": "2026-10-28 01:32:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大與阿聯酋簽署防務合作更新諒解備忘錄。"
-    },
-    {
-      "id": "5173453",
-      "time": "2026-10-28 01:30:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "義大利經濟部長：預計評級機構將在未來幾周確認義大利的評級，由於中東局勢動盪，評級上調的可能性不大。"
-    },
-    {
-      "id": "mkt:01a17e69-d79e-7ee0-a99e-b5ccc7d47459",
-      "time": "2026-10-28 01:30:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Italy's economy minister said rating agencies are likely to confirm Italy's sovereign rating in the coming weeks, and an upgrade is unlikely amid turmoil in the Middle East."
-    },
-    {
-      "id": "mkt:01a17e68-c67b-7ee0-a99e-ad69d1622a6d",
-      "time": "2026-10-28 01:29:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Refinitiv: Russia Baltic, Black Sea crude exports seen down 100,000-200,000 bpd in November】Refinitiv, citing traders, expects crude exports from Russia’s Baltic and Black Sea ports to fall 100,000–200,000 bpd MoM in November. Traders attribute the decline to refineries exiting maintenance and raising runs to increase diesel output for a Russia‑US diesel supply agreement reached on Oct 9; Russia has partly restored diesel export quotas and the US has eased fuel-export sanctions. Risks remain: Ukrainian strikes on energy infrastructure, roughly three-week loading delays at Novorossiysk, and falling Russian crude production that may limit further refinery throughput, leaving November export plans subject to change."
-    },
-    {
-      "id": "mkt:01a17e68-55d8-7ee0-a99e-a60bb6241518",
-      "time": "2026-10-28 01:28:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Canada and the UAE signed an energy cooperation agreement."
-    },
-    {
-      "id": "5173452",
-      "time": "2026-10-28 01:28:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大與阿聯酋簽署能源合作協議。"
-    },
-    {
-      "id": "5173451",
-      "time": "2026-10-28 01:26:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大與阿聯酋簽署全面貿易協定，加拿大總理馬克·卡尼和阿布扎比王儲出席簽約儀式。"
-    },
-    {
-      "id": "mkt:01a17e65-ecee-7ee0-a99e-98a59ae8b7f2",
-      "time": "2026-10-28 01:26:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada and the United Arab Emirates signed a comprehensive trade agreement."
-    },
-    {
-      "id": "em:qqyh_mlc:202610283910634584",
-      "time": "2026-10-28 01:25:22",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲隔夜逆回購協議（RRP）週二使用規模為2.26億美元（交易對手2家），上個交易日報2億美元。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202610283910634584",
-      "time": "2026-10-28 01:25:22",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美聯儲隔夜逆回購協議（RRP）週二使用規模為2.26億美元（交易對手2家），上個交易日報2億美元。"
-    },
-    {
-      "id": "5173450",
-      "time": "2026-10-28 01:25:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國五年期國債收益率在拍賣後上漲1.11個基點，報4.835%。"
-    },
-    {
-      "id": "te:markets:595518",
-      "time": "2026-10-28 01:20:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Closes Higher — Frankfurt's DAX 40 rose 0.7% to close at 25,607 on Tuesday, recovering from early losses and posting a second consecutive daily gain. Lower oil prices and stabilizing bond yields supported market sentiment, while attention remained on corporate earnings and the upcoming monetary policy decisions from the Fed and ECB. Tech and AI-related stocks powered the rally, amid optimism surrounding AI investment. Infineon Technologies surged 4.6% after announcing plans to invest around €1.1 billion in its Austrian site in Villach by 2034 to expand production of gallium nitride power semiconductors. Siemens Energy (4.4%), Hochtief (2.8%) and Siemens (1.8%) also advanced firmly."
-    },
-    {
-      "id": "5173449",
-      "time": "2026-10-28 01:20:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "海地安全官員稱，約1000名薩爾瓦多士兵已部署至海地。"
-    },
-    {
-      "id": "mkt:01a17e60-4d93-7ee0-a99e-96c3c4b4cb5b",
-      "time": "2026-10-28 01:20:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Haitian security official said about 1,000 Salvadoran troops have been deployed to Haiti."
-    },
-    {
-      "id": "5173448",
-      "time": "2026-10-28 01:19:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京與卡達埃米爾舉行雙邊會晤。"
-    },
-    {
-      "id": "mkt:01a17e5e-fc9b-7ee0-a99e-8ade5c90ed4e",
-      "time": "2026-10-28 01:18:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CNN reports an ally of Brazilian senator Flavio Bolsonaro said he has traveled to the United States."
-    },
-    {
-      "id": "mkt:01a17e5e-cc4a-7ee0-a99e-87152aac6fc5",
-      "time": "2026-10-28 01:18:24",
-      "tags": [
-        "MKT News",
-        "Bitcoin",
-        "Impact bearish",
-        "Ethereum",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Sources: US regulators are probing whether prediction-market operator Polymarket breached a 2022 agreement banning US users. The Commodity Futures Trading Commission is examining Polymarket’s US controls and marketing, and is also reviewing customer onboarding and protection measures on its US platform."
-    },
-    {
-      "id": "5173447",
-      "time": "2026-10-28 01:18:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "訊息人士稱，美國商品期貨交易委員會（CFTC）正在調查 Polymarket 在美國的風控機制以及宣傳推廣活動。美國監管機構正在調查預測市場運營商 Polymarket 是否違反 2022 年達成的禁止美國使用者使用平臺的協議。監管機構同時還在調查 Polymarket 美國平臺的使用者准入流程與防護機制。"
-    },
-    {
-      "id": "mkt:01a17e5e-2f36-7ee0-a99e-7a2923a0825f",
-      "time": "2026-10-28 01:17:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister Araghchi phoned Brazil's foreign minister to congratulate Lula on winning Brazil's 2026 presidential election; they exchanged views on key regional issues and recent international developments."
-    },
-    {
-      "id": "mkt:01a17e5d-954c-7ee0-a99e-7183b706ba48",
-      "time": "2026-10-28 01:17:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted dlr 226 mln from two counterparties in fixed-rate reverse repurchase operations."
-    },
-    {
-      "id": "5173446",
-      "time": "2026-10-28 01:16:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週二（10月27日），美聯儲隔夜逆回購協議（RRP）使用規模為2.26億美元（交易對手2家），上個交易日報2億美元。"
-    },
-    {
-      "id": "mkt:01a17e5c-84a9-7ee0-a99e-6809f1fce622",
-      "time": "2026-10-28 01:15:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's Emir has arrived at the venue for talks with Russian President Putin."
-    },
-    {
-      "id": "5173445",
-      "time": "2026-10-28 01:15:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：伊朗外長與巴西外長通電話】伊朗外交部長阿拉格齊於本週二下午同巴西外長通話，祝賀盧拉贏得 2026 年巴西總統選舉。雙方也就重要地區議題以及最新國際局勢交換了意見。"
     }
   ]
 }
