@@ -1,7 +1,101 @@
 {
-  "updated": "2026-11-03 10:05:55",
-  "count": 12489,
+  "updated": "2026-11-03 10:09:44",
+  "count": 12494,
   "items": [
+    {
+      "id": "te:markets:597463",
+      "time": "2026-11-03 10:09:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Fall as Rescue Efforts Falter — The Shanghai Composite fell 1.2% to 3,595 on Tuesday, while the Shenzhen Component dropped 0.2% to 10,998, as renewed efforts to revive 2024 stock market rescue measures failed to lift sentiment. The central bank said it would resume operations under its securities, funds and insurance companies swap facility (SFISF) when necessary, allowing eligible institutions to exchange assets for more liquid ones to fund stock purchases and expand participation and lower swap fees. Meanwhile, the PBOC will cut its relending rate to 1% from 1.25%, make the facility permanent and encourage banks to expand lending for corporate share buybacks and major shareholders’ stake increases. The measures have so far failed to reignite investor confidence amid persistent economic weakness and uncertainty over corporate earnings. AI-linked hardware and PCB stocks also came under pressure, led by Zhongji Innolight (-7.3%), Shennan Circuit (-4.8%), WUS Printed Circuit (-4.1%) and NAURA Technology (-1.9%)."
+    },
+    {
+      "id": "5188958",
+      "time": "2026-11-03 10:08:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國大熊貓圈養種群達830只】從四川成都舉行的2026全球熊貓夥伴大會上獲悉，截至目前，我國大熊貓圈養種群達830只，種群遺傳多樣性持續提升。近年來，透過開展生態廊道建設，13個大熊貓局域種群迴歸大家庭，生境連通性顯著提升，廊道區域監測到150餘次大熊貓及其他物種活動，大熊貓“串門”“相親”成為常態。大熊貓是我國特有旗艦物種，也是世界生物多樣性保護的明星物種。據統計，全球觀賞大熊貓遊客總數累計超過10億人次。（央視）"
+    },
+    {
+      "id": "5188957",
+      "time": "2026-11-03 10:08:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【以違規換得房率，這種歪風要剎住】近段時間，有購房人反映，有些打著“四代住宅”的樓盤，以超高得房率引流，這可靠嗎？對於市場上的兩種“高得房率”，確實需要清晰區分：一種是最佳化戶型、科學佈局帶來的合理高得房率，這類值得鼓勵；另一種是透過“偷面積”、突破規範甚至犧牲安全、規避管控形成的違規違法高得房率，這類要堅決叫停。支援合理最佳化戶型、守住規章制度底線，是房地產商業活動必須遵循的底線，也是維護房地產市場良好執行秩序、推動高質量發展該有的姿態。房地產業迴歸居住屬性，核心是守底線、提品質。我們歡迎立足規範、匠心設計的合理高得房率，鼓勵行業在規則框架內打磨更好戶型，也堅決反對突破規劃、消防、產權管理規定的違規高得房率。（中國房地產報）"
+    },
+    {
+      "id": "5188956",
+      "time": "2026-11-03 10:08:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高通AI Hub面向中國開發者開放】11月3日，高通技術公司宣佈，高通AI Hub現已面向中國開發者開放，為開發者提供用於構建和部署終端側AI的平臺。據介紹，高通AI Hub集高通AI Hub Models、高通AI Hub Workbench、高通AI Hub Apps以及面向終端側生成式AI推理的GenieX於一體，這些工具能夠幫助開發者進行模型探索、模型最佳化並實現應用整合，以及在智慧手機、PC、物聯網裝置和其他形態上的終端側部署。"
+    },
+    {
+      "id": "5188955",
+      "time": "2026-11-03 10:07:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓馬榮火山噴發 火山灰柱高約1600米】據菲律賓火山地震研究所訊息，當地時間11月3日8時22分左右，菲律賓馬榮火山發生噴發，灰柱高度達1600米。馬榮火山目前仍處於3級警戒狀態，禁止進入半徑6公里的永久危險區。"
+    },
+    {
+      "id": "te:economy:597462",
+      "time": "2026-11-03 10:07:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Vietnam Posts Largest-Ever Trade Surplus — Vietnam's trade surplus surged to USD 7.31 billion in October 2026, up from USD 2.38 billion in the same month a year earlier. It was the second straight month of trade surplus and the largest on record, as both exports and imports surged. Exports jumped 51.4% year-on-year to USD 64.67 billion, while imports soared 43.1% to USD 57.36 billion."
+    },
+    {
+      "id": "5188952",
+      "time": "2026-11-03 10:07:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "羊年概念股大漲，太陽能、大西洋、魯陽節能、岳陽興長、聖陽股份、華陽國際、陽光照明漲停，長陽科技、久之洋等大漲。此外，七匹狼連續漲停。"
+    },
+    {
+      "id": "te:economy:597461",
+      "time": "2026-11-03 10:06:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Vietnam Inflation Rate Hits 5-Month High — Vietnam’s annual inflation rate edged up to 5.09% in October 2026 from 5.08 in the previous month, marking the highest reading since May. On a monthly basis, consumer prices rose 0.2% down sharply from 0.62% in September."
+    },
+    {
+      "id": "5188945",
+      "time": "2026-11-03 10:06:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【PCB概念板塊探底回升，明陽電路、長陽科技漲超10%】PCB概念板塊探底回升，明陽電路、長陽科技漲超10%，傳藝科技、久日新材、海目星、寶明科技、新北洋跟漲。"
+    },
+    {
+      "id": "5188940",
+      "time": "2026-11-03 10:05:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌8%，現報4910.00元。"
+    },
     {
       "id": "5188930",
       "time": "2026-11-03 10:05:05",
@@ -114437,57 +114531,6 @@
         "市場"
       ],
       "text": "【乳業板塊短線拉昇，陽光乳業漲超8%】乳業板塊短線拉昇，陽光乳業漲超8%，青島食品此前漲停，一鳴食品、均瑤健康、天潤乳業、萬辰集團等跟漲。"
-    },
-    {
-      "id": "te:markets:595222",
-      "time": "2026-10-27 10:09:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Decline Despite Renewed AI Optimism — The Hang Seng Index edged down 0.3%, or 63 points, to around 23,150 on Tuesday, diverging from a broader rally across Asian markets as losses in healthcare, consumer and manufacturing shares outweighed gains in technology stocks. The decline came despite renewed optimism surrounding Anthropic’s US IPO filing, which lifted Wall Street overnight and revived interest in AI-related shares. However, concerns over the sustainability of massive AI investments persisted, particularly after Meta announced plans to raise up to US$95 billion to fund its AI infrastructure expansion. Meanwhile, Brent crude fell for a second day amid diplomatic efforts to ease US-Iran tensions, retreating from a six-month high. Investors also awaited HSBC’s earnings for further clues on the outlook for Hong Kong-listed banks. Notable lossers were Duality Biotherapeutics (-21.9%), Xiaomi (-2.3%), Meituan (-1.5%), Akeso (-1.4%), and Wuxi Biologics (-1.1%)."
-    },
-    {
-      "id": "mkt:01a17b1d-38b1-7ee0-a989-8e5de227fbb9",
-      "time": "2026-10-27 10:07:54",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "China A-share CRO sector extended losses: Lingkang Pharmaceutical hit the daily limit, Nearshore Protein plunged more than 12%, and Lanwei Medical, Joinn Laboratories and Jinshi Yiyao also fell."
-    },
-    {
-      "id": "te:markets:595220",
-      "time": "2026-10-27 10:07:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Starts Week Higher, Rebounds from 6-Week Low — The TAIEX, Taiwan’s benchmark stock index, climbed 294 points, or 0.6%, to 46,355 in Tuesday morning trade, erasing losses from the previous session as trading resumed after a two-day market closure. The broader index moved away from its lowest level since September 15, touched last Thursday, tracking gains on Wall Street overnight amid a rebound in AI-related stocks. The technology, financial, and commercial services sectors mainly lifted the index, with electronic technology rising 0.7%. Moderating oil prices also boosted sentiment, easing concerns about inflation risks and interest rate hikes. TSMC, the world’s largest contract chipmaker, which accounts for more than 40% of the market’s total value, recovered, rising 0.8%. Meanwhile, MediaTek, Hon Hai Precision, and ASE Technology Holding gained 0.6%, 1.0%, and 0.9%, respectively. However, gains were limited by traders’ caution ahead of the Fed’s monetary policy decision this week."
-    },
-    {
-      "id": "5171323",
-      "time": "2026-10-27 10:07:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普否認“再次表態支援內塔尼亞胡是應後者要求”：我從未與他談及此事】據《以色列時報》當地時間26日報道，美國總統特朗普表示，以色列總理內塔尼亞胡並未要求自己在週二（27日）舉行的以色列議會選舉前再次公開為其站臺。 此前一天，美方訊息人士向美國阿克西奧斯新聞網透露，內塔尼亞胡近日尋求特朗普對其競選活動展現更多的公開支援。（環球網）"
-    },
-    {
-      "id": "5171322",
-      "time": "2026-10-27 10:06:52",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【瑞銀：降CoreWeave目標價至105美元，維持“買入”評級，長期看法仍偏正面】瑞銀分析師Karl Keirstead在上週五的研報中指出，即使信用市場收緊，CoreWeave仍可透過私募信貸、供應商融資，或出售更大比例股權等方式，降低對外部債務融資的需求。他以Nebius上週取得花旗35億美元授信額度為例，說明新雲端業者仍有機會取得資金，並指出最新科技業財報尚未顯示AI 投資出現放緩跡象。同時，他也承認，重建投資人信心可能需要數季時間，CoreWeave股價短期內仍可能盤整或表現疲弱。該行維持對CoreWeave“買入”評級，但將目標價由120美元下調至105美元，理由是公司基本面尚未出現實質惡化，長期看法仍偏正面。"
     }
   ]
 }

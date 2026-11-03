@@ -1,7 +1,101 @@
 {
   "date": "2026-11-03",
-  "count": 553,
+  "count": 563,
   "items": [
+    {
+      "id": "te:markets:597463",
+      "time": "2026-11-03 10:09:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Fall as Rescue Efforts Falter — The Shanghai Composite fell 1.2% to 3,595 on Tuesday, while the Shenzhen Component dropped 0.2% to 10,998, as renewed efforts to revive 2024 stock market rescue measures failed to lift sentiment. The central bank said it would resume operations under its securities, funds and insurance companies swap facility (SFISF) when necessary, allowing eligible institutions to exchange assets for more liquid ones to fund stock purchases and expand participation and lower swap fees. Meanwhile, the PBOC will cut its relending rate to 1% from 1.25%, make the facility permanent and encourage banks to expand lending for corporate share buybacks and major shareholders’ stake increases. The measures have so far failed to reignite investor confidence amid persistent economic weakness and uncertainty over corporate earnings. AI-linked hardware and PCB stocks also came under pressure, led by Zhongji Innolight (-7.3%), Shennan Circuit (-4.8%), WUS Printed Circuit (-4.1%) and NAURA Technology (-1.9%)."
+    },
+    {
+      "id": "5188958",
+      "time": "2026-11-03 10:08:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國大熊貓圈養種群達830只】從四川成都舉行的2026全球熊貓夥伴大會上獲悉，截至目前，我國大熊貓圈養種群達830只，種群遺傳多樣性持續提升。近年來，透過開展生態廊道建設，13個大熊貓局域種群迴歸大家庭，生境連通性顯著提升，廊道區域監測到150餘次大熊貓及其他物種活動，大熊貓“串門”“相親”成為常態。大熊貓是我國特有旗艦物種，也是世界生物多樣性保護的明星物種。據統計，全球觀賞大熊貓遊客總數累計超過10億人次。（央視）"
+    },
+    {
+      "id": "5188957",
+      "time": "2026-11-03 10:08:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【以違規換得房率，這種歪風要剎住】近段時間，有購房人反映，有些打著“四代住宅”的樓盤，以超高得房率引流，這可靠嗎？對於市場上的兩種“高得房率”，確實需要清晰區分：一種是最佳化戶型、科學佈局帶來的合理高得房率，這類值得鼓勵；另一種是透過“偷面積”、突破規範甚至犧牲安全、規避管控形成的違規違法高得房率，這類要堅決叫停。支援合理最佳化戶型、守住規章制度底線，是房地產商業活動必須遵循的底線，也是維護房地產市場良好執行秩序、推動高質量發展該有的姿態。房地產業迴歸居住屬性，核心是守底線、提品質。我們歡迎立足規範、匠心設計的合理高得房率，鼓勵行業在規則框架內打磨更好戶型，也堅決反對突破規劃、消防、產權管理規定的違規高得房率。（中國房地產報）"
+    },
+    {
+      "id": "5188956",
+      "time": "2026-11-03 10:08:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高通AI Hub面向中國開發者開放】11月3日，高通技術公司宣佈，高通AI Hub現已面向中國開發者開放，為開發者提供用於構建和部署終端側AI的平臺。據介紹，高通AI Hub集高通AI Hub Models、高通AI Hub Workbench、高通AI Hub Apps以及面向終端側生成式AI推理的GenieX於一體，這些工具能夠幫助開發者進行模型探索、模型最佳化並實現應用整合，以及在智慧手機、PC、物聯網裝置和其他形態上的終端側部署。"
+    },
+    {
+      "id": "5188955",
+      "time": "2026-11-03 10:07:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓馬榮火山噴發 火山灰柱高約1600米】據菲律賓火山地震研究所訊息，當地時間11月3日8時22分左右，菲律賓馬榮火山發生噴發，灰柱高度達1600米。馬榮火山目前仍處於3級警戒狀態，禁止進入半徑6公里的永久危險區。"
+    },
+    {
+      "id": "te:economy:597462",
+      "time": "2026-11-03 10:07:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Vietnam Posts Largest-Ever Trade Surplus — Vietnam's trade surplus surged to USD 7.31 billion in October 2026, up from USD 2.38 billion in the same month a year earlier. It was the second straight month of trade surplus and the largest on record, as both exports and imports surged. Exports jumped 51.4% year-on-year to USD 64.67 billion, while imports soared 43.1% to USD 57.36 billion."
+    },
+    {
+      "id": "5188952",
+      "time": "2026-11-03 10:07:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "羊年概念股大漲，太陽能、大西洋、魯陽節能、岳陽興長、聖陽股份、華陽國際、陽光照明漲停，長陽科技、久之洋等大漲。此外，七匹狼連續漲停。"
+    },
+    {
+      "id": "te:economy:597461",
+      "time": "2026-11-03 10:06:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Vietnam Inflation Rate Hits 5-Month High — Vietnam’s annual inflation rate edged up to 5.09% in October 2026 from 5.08 in the previous month, marking the highest reading since May. On a monthly basis, consumer prices rose 0.2% down sharply from 0.62% in September."
+    },
+    {
+      "id": "5188945",
+      "time": "2026-11-03 10:06:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【PCB概念板塊探底回升，明陽電路、長陽科技漲超10%】PCB概念板塊探底回升，明陽電路、長陽科技漲超10%，傳藝科技、久日新材、海目星、寶明科技、新北洋跟漲。"
+    },
+    {
+      "id": "5188940",
+      "time": "2026-11-03 10:05:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌8%，現報4910.00元。"
+    },
     {
       "id": "5188930",
       "time": "2026-11-03 10:05:05",
