@@ -1,7 +1,38 @@
 {
-  "updated": "2026-11-04 06:24:19",
-  "count": 12199,
+  "updated": "2026-11-04 06:28:07",
+  "count": 12198,
   "items": [
+    {
+      "id": "mkt:01a1a386-05f2-7ee0-aa57-8ec370c7b369",
+      "time": "2026-11-04 06:27:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "SEC filing shows Meta Platforms (META.O) priced a five-tranche $15 billion senior notes offering."
+    },
+    {
+      "id": "5191697",
+      "time": "2026-11-04 06:26:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta Platforms：分五批發行150億美元高階票據。"
+    },
+    {
+      "id": "mkt:01a1a385-3a9b-7ee0-aa57-83ace4ed88ef",
+      "time": "2026-11-04 06:26:19",
+      "tags": [
+        "MKT News",
+        "NZDUSD",
+        "Impact bearish"
+      ],
+      "text": "【New Zealand unemployment highest since mid-2015 ahead of election】New Zealand unemployment rose to 5.7% in Q3 from 5.6% in Q2, versus economists’ expectation of 5.5%. Part-time employment increased by 15,000 while full-time employment fell by 17,000; labour underutilisation held at 13.8% and the employment rate slipped to 66.4% from 66.7%. Released Wednesday ahead of Saturday’s closely contested election, the data runs counter to market expectations and supports the RBNZ’s recent caution on further hikes. The RBNZ MPC voted 4-3 to hold the OCR at 2.75% days earlier, though Governor Anna Breman signalled the possibility of additional rate increases; money markets had largely priced in further tightening."
+    },
     {
       "id": "5191696",
       "time": "2026-11-04 06:23:16",
@@ -112277,38 +112308,6 @@
         "其他"
       ],
       "text": "波音獲4.998億美元合同修訂，用於阿帕奇AH-64工程服務和技術支援。"
-    },
-    {
-      "id": "5173825",
-      "time": "2026-10-28 06:25:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Claude Enterprise正透過FedRAMP 20X專案接受FedRAMP Moderate授權認證。"
-    },
-    {
-      "id": "5173824",
-      "time": "2026-10-28 06:24:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Claude產品折扣範圍擴大至州、地方、部落及領地政府。"
-    },
-    {
-      "id": "5173823",
-      "time": "2026-10-28 06:24:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：還啟動了一項專門計劃，幫助各機構實施並充分利用Claude。"
-    },
-    {
-      "id": "5173822",
-      "time": "2026-10-28 06:24:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：擴大與GSA的合作，面向政府客戶提供Claude產品40%折扣。"
     }
   ]
 }
