@@ -1,7 +1,60 @@
 {
   "date": "2026-11-04",
-  "count": 348,
+  "count": 354,
   "items": [
+    {
+      "id": "5191676",
+      "time": "2026-11-04 05:55:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉議會推遲就電力系統法案進行表決。"
+    },
+    {
+      "id": "mkt:01a1a368-4a41-7ee0-aa56-e2730eba46aa",
+      "time": "2026-11-04 05:54:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says, under President Trump's directive, the United States will return to the Moon before 2028."
+    },
+    {
+      "id": "te:markets:597787",
+      "time": "2026-11-04 05:54:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Turkey",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Turkish Lira traded above 50 — The US Dollar exchange rate rose above 50 Turkish Lira in the foreign exchange interbank market."
+    },
+    {
+      "id": "5191675",
+      "time": "2026-11-04 05:54:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【默茨：德國將繼續全力支援烏克蘭】德國總理默茨3日表示，德國將繼續全力支援烏克蘭。他說，俄烏戰事結果將長期影響歐洲安全域性勢，支援烏克蘭符合德國及歐洲的利益。默茨當天與到訪的烏克蘭總統澤連斯基舉行會談。在會後舉行的聯合記者會上默茨說，面對即將到來的冬季，防空和能源至關重要。德國已啟動進一步對烏防空和能源援助計劃，目前正在落實。（新華社）"
+    },
+    {
+      "id": "5191674",
+      "time": "2026-11-04 05:53:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：美國將為永久性月球駐留奠定基礎。"
+    },
+    {
+      "id": "5191673",
+      "time": "2026-11-04 05:52:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "白宮：根據特朗普的命令，美國將在2028年前重返月球。"
+    },
     {
       "id": "mkt:01a1a365-bb2e-7ee0-aa56-dad1dd1993b2",
       "time": "2026-11-04 05:51:55",
