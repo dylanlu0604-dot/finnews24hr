@@ -1,7 +1,113 @@
 {
   "date": "2026-11-04",
-  "count": 12,
+  "count": 23,
   "items": [
+    {
+      "id": "mkt:01a1a229-ea5e-7ee0-aa52-3fa600b935a3",
+      "time": "2026-11-04 00:06:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "AMD.O",
+        "AVGO.O"
+      ],
+      "text": "Philadelphia Semiconductor Index extended gains to 4%; AMD (AMD.O) rose 5.6%, Broadcom (AVGO.O) rose 3.8%, NVIDIA (NVDA.O) rose 3.2%."
+    },
+    {
+      "id": "mkt:01a1a228-5180-7ee0-aa52-3166ef34fae5",
+      "time": "2026-11-04 00:05:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "BOC Governor MACKLEM said rising oil prices and higher refining margins are pushing up consumer and business costs, and pass-through to inf is likely to become more pronounced over the next year."
+    },
+    {
+      "id": "mkt:01a1a228-3097-7ee0-aa52-2ea4108dfd64",
+      "time": "2026-11-04 00:05:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Iranian senior official said no deadline has been set for exchanging information with the US via mediators or for reviewing related responses."
+    },
+    {
+      "id": "5191425",
+      "time": "2026-11-04 00:04:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階官員：透過調解人與華盛頓交換資訊或審查回應沒有最後期限。"
+    },
+    {
+      "id": "mkt:01a1a227-39dd-7ee0-aa52-22d514d2275f",
+      "time": "2026-11-04 00:04:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem expects GDP growth of 1% in 2026 and about 2% in both 2027 and 2028."
+    },
+    {
+      "id": "mkt:01a1a227-3839-7ee0-aa52-1fcca5e8acc4",
+      "time": "2026-11-04 00:04:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Bank of Canada Governor Macklem expects Q4 growth to slow due to new U.S. tariffs, with a recovery anticipated in 2027."
+    },
+    {
+      "id": "mkt:01a1a227-157d-7ee0-aa52-103d9d58fcb1",
+      "time": "2026-11-04 00:03:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor MACKLEM said Canada's economy remains resilient despite U.S. trade measures, and the growth outlook has edged up slightly."
+    },
+    {
+      "id": "mkt:01a1a226-fafe-7ee0-aa52-08119d82dfb2",
+      "time": "2026-11-04 00:03:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "BOC Governor Macklem said Q2 GDP grew 3.3% and Q3 growth is expected to be around 2%."
+    },
+    {
+      "id": "5191424",
+      "time": "2026-11-04 00:03:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆表示，近期指標顯示第三季度經濟將增長2%。"
+    },
+    {
+      "id": "mkt:01a1a226-c5aa-7ee0-aa52-01b89bcc2be7",
+      "time": "2026-11-04 00:03:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor MACKLEM expects CPI inflation to rise to 3.5% by year-end, remain at 3% or above for most of 2027, and fall back to around 2% by mid-2028."
+    },
     {
       "id": "mkt:01a1a226-a74f-7ee0-aa51-fc059c241e3b",
       "time": "2026-11-04 00:03:24",
@@ -28,6 +134,15 @@
         "國際"
       ],
       "text": "美國國家安全委員會宣佈，由國防部FutureG辦公室出資，發放超5000萬美元通感一體化（ISAC）專案資助。"
+    },
+    {
+      "id": "em:qqyh_jndyh:202611043920651570",
+      "time": "2026-11-04 00:03:02",
+      "tags": [
+        "央行",
+        "加拿大央行"
+      ],
+      "text": "加拿大央行行長麥克勒姆在向眾議院作證時重申，可能有必要進一步提高政策利率。"
     },
     {
       "id": "5191422",

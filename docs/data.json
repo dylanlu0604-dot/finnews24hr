@@ -1,7 +1,113 @@
 {
-  "updated": "2026-11-04 00:04:32",
-  "count": 12214,
+  "updated": "2026-11-04 00:08:44",
+  "count": 12221,
   "items": [
+    {
+      "id": "mkt:01a1a229-ea5e-7ee0-aa52-3fa600b935a3",
+      "time": "2026-11-04 00:06:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "AMD.O",
+        "AVGO.O"
+      ],
+      "text": "Philadelphia Semiconductor Index extended gains to 4%; AMD (AMD.O) rose 5.6%, Broadcom (AVGO.O) rose 3.8%, NVIDIA (NVDA.O) rose 3.2%."
+    },
+    {
+      "id": "mkt:01a1a228-5180-7ee0-aa52-3166ef34fae5",
+      "time": "2026-11-04 00:05:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "BOC Governor MACKLEM said rising oil prices and higher refining margins are pushing up consumer and business costs, and pass-through to inf is likely to become more pronounced over the next year."
+    },
+    {
+      "id": "mkt:01a1a228-3097-7ee0-aa52-2ea4108dfd64",
+      "time": "2026-11-04 00:05:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Iranian senior official said no deadline has been set for exchanging information with the US via mediators or for reviewing related responses."
+    },
+    {
+      "id": "5191425",
+      "time": "2026-11-04 00:04:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階官員：透過調解人與華盛頓交換資訊或審查回應沒有最後期限。"
+    },
+    {
+      "id": "mkt:01a1a227-39dd-7ee0-aa52-22d514d2275f",
+      "time": "2026-11-04 00:04:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem expects GDP growth of 1% in 2026 and about 2% in both 2027 and 2028."
+    },
+    {
+      "id": "mkt:01a1a227-3839-7ee0-aa52-1fcca5e8acc4",
+      "time": "2026-11-04 00:04:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Bank of Canada Governor Macklem expects Q4 growth to slow due to new U.S. tariffs, with a recovery anticipated in 2027."
+    },
+    {
+      "id": "mkt:01a1a227-157d-7ee0-aa52-103d9d58fcb1",
+      "time": "2026-11-04 00:03:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor MACKLEM said Canada's economy remains resilient despite U.S. trade measures, and the growth outlook has edged up slightly."
+    },
+    {
+      "id": "mkt:01a1a226-fafe-7ee0-aa52-08119d82dfb2",
+      "time": "2026-11-04 00:03:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "BOC Governor Macklem said Q2 GDP grew 3.3% and Q3 growth is expected to be around 2%."
+    },
+    {
+      "id": "5191424",
+      "time": "2026-11-04 00:03:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆表示，近期指標顯示第三季度經濟將增長2%。"
+    },
+    {
+      "id": "mkt:01a1a226-c5aa-7ee0-aa52-01b89bcc2be7",
+      "time": "2026-11-04 00:03:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor MACKLEM expects CPI inflation to rise to 3.5% by year-end, remain at 3% or above for most of 2027, and fall back to around 2% by mid-2028."
+    },
     {
       "id": "mkt:01a1a226-a74f-7ee0-aa51-fc059c241e3b",
       "time": "2026-11-04 00:03:24",
@@ -28,6 +134,15 @@
         "國際"
       ],
       "text": "美國國家安全委員會宣佈，由國防部FutureG辦公室出資，發放超5000萬美元通感一體化（ISAC）專案資助。"
+    },
+    {
+      "id": "em:qqyh_jndyh:202611043920651570",
+      "time": "2026-11-04 00:03:02",
+      "tags": [
+        "央行",
+        "加拿大央行"
+      ],
+      "text": "加拿大央行行長麥克勒姆在向眾議院作證時重申，可能有必要進一步提高政策利率。"
     },
     {
       "id": "5191422",
@@ -112263,40 +112378,6 @@
         "其他"
       ],
       "text": "阿布扎比王儲會見加拿大總理卡尼。"
-    },
-    {
-      "id": "5173400",
-      "time": "2026-10-28 00:08:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴西聯邦最高法院要求調查博索納羅涉嫌接受外國資金】巴西聯邦最高法院法官弗拉維奧·迪諾27日裁定，要求巴西聯邦警察就總統選舉中敗選的自由黨候選人博索納羅在競選活動中涉嫌接受外國資金和操縱社交媒體展開調查。調查重點將聚焦美國保守派組織“羅克布里奇網路”與博索納羅競選團隊的資金往來，查明其參與為博索納羅競選提供資金支援談判的性質、參與方及具體目的；部分境外社交媒體賬號疑似有償釋出其競選宣傳內容，需查明付款方身份和資金來源。迪諾強調，巴西不允許外國直接或間接干涉屬於巴西主權範圍的事務。（新華社）"
-    },
-    {
-      "id": "mkt:01a17e1e-8c7d-7ee0-a99d-52ca38346cc9",
-      "time": "2026-10-28 00:08:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "The Kremlin said Norway and Finland have not made new proposals to Russia."
-    },
-    {
-      "id": "5173399",
-      "time": "2026-10-28 00:07:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮稱挪威和芬蘭沒有向俄羅斯提出新提議。"
-    },
-    {
-      "id": "5173398",
-      "time": "2026-10-28 00:04:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：還有四小時拯救以色列，投右翼選票。"
     }
   ]
 }
