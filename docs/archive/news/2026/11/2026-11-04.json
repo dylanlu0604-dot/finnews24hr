@@ -1,7 +1,76 @@
 {
   "date": "2026-11-04",
-  "count": 23,
+  "count": 31,
   "items": [
+    {
+      "id": "mkt:01a1a22e-0378-7ee0-aa52-511c97718f6b",
+      "time": "2026-11-04 00:11:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said fiscal policy has not made reducing inflation more difficult in the current circumstances."
+    },
+    {
+      "id": "mkt:01a1a22d-f98a-7ee0-aa52-4ba6abf4a224",
+      "time": "2026-11-04 00:11:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Three people familiar with the matter said the Boli consortium purchased, via a bank, tens of billions of dollars of Lukoil securities for use in swap transactions."
+    },
+    {
+      "id": "5191430",
+      "time": "2026-11-04 00:11:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆表示，在當前情況下，他不認為財政政策會加大降低通脹的難度。"
+    },
+    {
+      "id": "mkt:01a1a22d-c849-7ee0-aa52-45a72b836d84",
+      "time": "2026-11-04 00:11:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Four people familiar with the matter said a consortium led by US billionaire Todd Boehly is preparing a securities swap to acquire Lukoil's overseas assets."
+    },
+    {
+      "id": "5191429",
+      "time": "2026-11-04 00:11:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士稱，博利財團透過一家銀行購買了數十億美元的盧克石油證券，用於互換交易。"
+    },
+    {
+      "id": "5191428",
+      "time": "2026-11-04 00:10:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "知情人士透露，由美國億萬富翁託德·波利領導的集團正準備透過證券互換方式收購盧克石油的海外資產。"
+    },
+    {
+      "id": "5191427",
+      "time": "2026-11-04 00:10:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國中期選舉結果今將陸續公佈】當地時間11月3日，美國中期選舉開始投票。今年的中期選舉，共和黨和民主黨將角逐國會眾議院全部435個席位和參議院100個席位中的35個。同時，選民還將選出36個州的州長以及部分州的州議會議員等地方公職人員。此前，全美已有創紀錄的超5000萬人提前投票。11月3日開放的大部分投票站通常於當地時間清晨開放，並於當晚關閉。隨後，各州將對包含郵寄選票、海外選票和臨時選票在內的所有選票進行最終核對與認證。初步結果通常會在當地時間3日晚陸續公佈。不過，由於一些“搖擺州”的計票工作量較大，最終結果可能需要幾天甚至幾周才能公佈。（CCTV國際時訊）"
+    },
+    {
+      "id": "5191426",
+      "time": "2026-11-04 00:08:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏稱能源設施遭俄大規模襲擊 多地緊急停電】烏克蘭國家電力公司3日通報稱，俄軍從當天凌晨開始持續襲擊烏克蘭能源系統，稱這是規模最大的一輪襲擊之一；過去一天俄軍針對性襲擊能源設施20多次，致基礎設施嚴重受損，基輔等多地緊急停電。基輔市長克利奇科3日表示，基輔能源樞紐設施遭襲受損，基輔市及基輔州正實施緊急停電，基輔市供水中斷，電力公共交通執行出現問題。（央視新聞）"
+    },
     {
       "id": "mkt:01a1a229-ea5e-7ee0-aa52-3fa600b935a3",
       "time": "2026-11-04 00:06:58",
