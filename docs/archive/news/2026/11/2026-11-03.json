@@ -1,7 +1,105 @@
 {
   "date": "2026-11-03",
-  "count": 589,
+  "count": 599,
   "items": [
+    {
+      "id": "te:economy:597474",
+      "time": "2026-11-03 10:24:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "Vietnam Tourist Arrivals Up 7.0% YoY in October — International arrivals to Vietnam rose 7.0% year-on-year to 1.85 million in October 2026, easing sharply from a 16.1% increase in the previous month. Still, tourism activity continued to benefit from favorable visa policies, tourism promotion efforts, and attractive tourism offerings. Arrivals from Asia increased by 4.6%, supported by gains from Japan (36.5%), Malaysia (11.7%), Taiwan (2.9%), and India (4.6%), while arrivals from China (-0.2%) and South Korea (-13.7%) declined. Meanwhile, visitors from the US fell by 0.6%, while arrivals from Canada dropped by 8.1%. In the January–October period, total arrivals grew by 13.8% to 19.5 million compared with the same period a year earlier."
+    },
+    {
+      "id": "mkt:01a19f38-b2a3-7ee0-aa3b-213099fe4845",
+      "time": "2026-11-03 10:24:15",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "Blackstone (BX.N) president Jon Gray said the technology sector will see increased fundraising to keep pace with AI industry growth, and he expects most large tech companies to raise additional capital."
+    },
+    {
+      "id": "5189054",
+      "time": "2026-11-03 10:24:03",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發改委：引導社會資本支援新興支柱產業發展】11月3日，國家發展改革委召開奮進“十五五”系列新聞釋出會，介紹培育壯大新動能有關情況。國家發展改革委創新和高技術發展司副司長任中保表示，我們將按照應用牽引、因地制宜、深化改革、擴大開放的要求，充分發揮市場在資源配置中的決定性作用，切實抓好新興支柱產業培育計劃工作。在資金籌措方面，將統籌用好多種資金渠道，加大財政金融等政策支援，引導社會資本支援新興支柱產業發展。需要強調的是統籌發展和安全，牢牢守住安全底線，對新興支柱產業持續健康發展十分重要。我們要在確保安全的前提下，推動有關產業健康有序發展，逐步釋放發展潛力。"
+    },
+    {
+      "id": "mkt:01a19f38-19e4-7ee0-aa3b-1e3b7477ba2c",
+      "time": "2026-11-03 10:23:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "300750.SZ",
+        "Impact bullish"
+      ],
+      "text": "China A-share lithium battery sector extended gains; Shidai Wanheng hit the daily limit, Lingpai Technology and Boliwei rose over 10%, and Jinyang Precision, Penghui Energy, Xianhui Technology, Tianhong Lithium and CATL also advanced."
+    },
+    {
+      "id": "te:economy:597473",
+      "time": "2026-11-03 10:22:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Foreign Direct Investment",
+        "Importance 1"
+      ],
+      "text": "FDI Into Vietnam Up 13.1% in Jan-Oct — Foreign direct investment (FDI) implemented in Vietnam rose 13.1% year-on-year to USD 24.08 billion in the first ten months of 2026. Meanwhile, Vietnamese investment abroad reached USD 3.41 billion, surging 3.1 times from the same period last year. This included USD 1.87 billion in newly licensed projects across 132 investments and an additional USD 1.54 billion in adjusted capital across 34 projects. Ho Chi Minh City attracted USD 19.1 billion in FDI during January–October, equivalent to 73.9% of its annual target, with nearly USD 5.7 billion in additional capital registered by operating projects. The city remains Vietnam's top FDI destination, with investors increasingly targeting high technology, digital infrastructure, logistics and strategic infrastructure projects."
+    },
+    {
+      "id": "mkt:01a19f37-697d-7ee0-aa3b-10b006efca97",
+      "time": "2026-11-03 10:22:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's vice foreign minister Miao Deyu meets Iran Supreme National Security Council deputy secretary Bagheri】On Oct. 31, 2026, China's Vice Foreign Minister Miao Deyu met in Beijing with Iran Supreme National Security Council Deputy Secretary Bagheri to discuss China‑Iran ties and the situation in the Gulf."
+    },
+    {
+      "id": "5189049",
+      "time": "2026-11-03 10:22:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【鋰電池板塊走高，時代萬恆漲停】鋰電池板塊走高，時代萬恆漲停，領湃科技、博力威漲超10%，金楊精密、鵬輝能源、先惠技術、天宏鋰電、寧德時代等跟漲。"
+    },
+    {
+      "id": "5189045",
+      "time": "2026-11-03 10:22:12",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛CEO：全球資本充裕。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202611033919916917",
+      "time": "2026-11-03 10:21:42",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【今年前三季度廣州民營經濟增加值破萬億 佔GDP比重超四成】今年前三季度，廣州民營經濟增加值10864.59億元，同比增長8.0%，佔GDP比重43.7%。廣州市民營經濟服務周2日啟動，現場同步開設三大主題服務板塊，變“企業上門找政策”為“部門靠前送服務”，直面解決民營企業痛點難題。"
+    },
+    {
+      "id": "5189038",
+      "time": "2026-11-03 10:20:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部副部長苗得雨同伊朗最高國家安全委員會副秘書巴蓋裡舉行會談】2026年10月31日，外交部副部長苗得雨在北京同來訪的伊朗最高國家安全委員會副秘書巴蓋裡舉行會談，就中伊關係和中東海灣局勢深入交換了意見。"
+    },
     {
       "id": "5189033",
       "time": "2026-11-03 10:20:10",
