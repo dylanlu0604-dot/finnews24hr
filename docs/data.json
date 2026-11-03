@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-04 06:47:10",
-  "count": 12206,
+  "updated": "2026-11-04 06:50:56",
+  "count": 12209,
   "items": [
+    {
+      "id": "te:economy:597797",
+      "time": "2026-11-04 06:50:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Industry Index Construction",
+        "Importance 0"
+      ],
+      "text": "Australian Construction Index Remains in Contraction — The Ai Group Industry Index for Australia’s construction sector improved modestly by 8 points to -26.9 in October 2026, recovering from the previous month but remaining firmly in contractionary territory. The sector continued to face pressure from rising costs, labour shortages and tight cash flow, while subdued investment and cautious clients weighed on the pipeline of new projects."
+    },
+    {
+      "id": "5191712",
+      "time": "2026-11-04 06:49:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯電商 Ozon 稱旗下一處物流樞紐遭無人機襲擊。"
+    },
+    {
+      "id": "5191711",
+      "time": "2026-11-04 06:49:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月份中國倉儲指數為49.8%】中國物流與採購聯合會今天釋出10月份中國倉儲指數。指數低位稍有回升，但仍連續三個月執行在收縮區間，需求基礎仍需鞏固。10月份，中國倉儲指數為49.8%，較上月回升0.1個百分點，景氣水平繼續在榮枯線附近徘徊。"
+    },
     {
       "id": "te:economy:597796",
       "time": "2026-11-04 06:45:55",
