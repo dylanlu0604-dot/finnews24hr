@@ -1,7 +1,50 @@
 {
   "date": "2026-11-04",
-  "count": 375,
+  "count": 379,
   "items": [
+    {
+      "id": "5191686",
+      "time": "2026-11-04 06:10:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：美國要求更少，提供更多。仍有重大問題需要解決。與美國的貿易談判正在取得進展。"
+    },
+    {
+      "id": "mkt:01a1a375-e9e4-7ee0-aa57-505474f680ec",
+      "time": "2026-11-04 06:09:36",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "Carney said U.S. demands are receding while the conditions being offered are increasing, but no agreement has been reached."
+    },
+    {
+      "id": "mkt:01a1a375-e60c-7ee0-aa57-4bb742b8eaec",
+      "time": "2026-11-04 06:09:35",
+      "tags": [
+        "MKT News",
+        "DXY"
+      ],
+      "text": "Canada's prime minister Carney said trade negotiators do not always need direct talks with the U.S. Trade Representative's office and that Canada maintains good lines of communication."
+    },
+    {
+      "id": "mkt:01a1a375-d749-7ee0-aa57-400e51133a0d",
+      "time": "2026-11-04 06:09:31",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Canada's prime minister Carney said some red lines in Canada's trade talks with the United States have been removed."
+    },
     {
       "id": "5191685",
       "time": "2026-11-04 06:07:44",
