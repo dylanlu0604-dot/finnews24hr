@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-04 00:44:16",
+  "updated": "2026-11-04 00:48:13",
   "count": 12232,
   "items": [
+    {
+      "id": "5191458",
+      "time": "2026-11-04 00:46:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門否認沙特關於無人機襲擊麥加的指控，稱其為“誹謗”。"
+    },
+    {
+      "id": "5191457",
+      "time": "2026-11-04 00:46:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國大選盤面交易趨於平淡，而大選預測市場交易量大幅攀升。"
+    },
+    {
+      "id": "5191456",
+      "time": "2026-11-04 00:45:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年前十個月 經深圳機場口岸出入境外籍客流創新高】亞太經合組織（APEC）第三十三次領導人非正式會議將於本月在深圳舉行，盛會已進入倒計時階段。2日，記者從深圳邊檢總站深圳機場邊檢站瞭解到，今年前十個月，經深圳機場口岸出入境的外籍旅客數量創歷史同期新高。（央視新聞）"
+    },
     {
       "id": "te:markets:597755",
       "time": "2026-11-04 00:43:26",
@@ -112477,30 +112501,6 @@
         "Important"
       ],
       "text": "ECB President Lagarde and the Governing Council will hold an informal dinner with EU Trade Commissioner Šefčovič in ten minutes to exchange views."
-    },
-    {
-      "id": "5173422",
-      "time": "2026-10-28 00:47:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統對俄羅斯總統普京表示，地區問題可以在沒有美國參與的情況下解決。"
-    },
-    {
-      "id": "mkt:01a17e41-0e2b-7ee0-a99d-da310332a720",
-      "time": "2026-10-28 00:45:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US strikes 'drug trafficking vessel' in eastern Pacific, kills five】On Oct. 27 local time US Southern Command said its Western Hemisphere Joint Task Force struck a \"speedboat operating on an established trafficking route\" in the eastern Pacific, killing five \"drug terrorists\". Since early Sept. 2025 the US has conducted multiple strikes in the Caribbean and eastern Pacific against US-claimed, so-called \"drug trafficking boats\", but has not released evidence linking targets to narcotics."
-    },
-    {
-      "id": "5173421",
-      "time": "2026-10-28 00:44:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "胡塞武裝宣告：過去24小時內，沙特戰機從海米斯穆謝特和塔伊夫空軍基地出動F-15以及颱風戰機，對首都薩那、塔伊茲、拉赫季、薩達和荷臺達省的民用設施實施81次空襲與導彈打擊，同時從吉贊發動導彈襲擊，造成平民傷亡。自針對我方的衝突升級以來，沙特方面的空襲與導彈攻擊累計已達3379次。"
     }
   ]
 }
