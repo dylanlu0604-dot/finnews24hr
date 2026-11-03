@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04 00:24:49",
-  "count": 12230,
+  "updated": "2026-11-04 00:28:44",
+  "count": 12228,
   "items": [
     {
       "id": "5191445",
@@ -112446,22 +112446,6 @@
         "Brent"
       ],
       "text": "Sources say Russian refinery crude throughput has risen 25% since drone attacks ceased in mid-October."
-    },
-    {
-      "id": "mkt:01a17e2e-96e6-7ee0-a99d-80134c37145f",
-      "time": "2026-10-28 00:25:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian President Putin began bilateral talks with Iranian President Pezeshkian."
-    },
-    {
-      "id": "mkt:01a17e2e-2538-7ee0-a99d-7e0db262898a",
-      "time": "2026-10-28 00:25:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Southern Command said it struck a speedboat in the eastern Pacific, killing five; intelligence confirmed the vessel was actively involved in drug trafficking."
     }
   ]
 }
