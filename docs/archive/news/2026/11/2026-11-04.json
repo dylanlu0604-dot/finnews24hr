@@ -1,7 +1,65 @@
 {
   "date": "2026-11-04",
-  "count": 65,
+  "count": 70,
   "items": [
+    {
+      "id": "te:markets:597755",
+      "time": "2026-11-04 00:43:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls as Commodity-linked Stocks Weigh — The FTSE 100 fell 1% to a three-week low on Tuesday, underperforming broader European markets as weakness in commodities weighed on the index. Mining stocks led the declines, with Endeavour down more than 4%, while Antofagasta and Glencore lost around 3.5% and 2.8%, respectively. Anglo American and Rio Tinto also fell over 1.5% as gold, silver and copper prices weakened amid uncertainty over US-Iran diplomacy and caution ahead of the US midterm elections. Oil majors Shell and BP dropped around 1.5% and 2%, respectively, as crude prices extended losses for a second session. Unilever slipped around 1% after outlining plans to cut €1 billion in costs by the end of 2029. Associated British Foods and Coca-Cola Europacific Partners also declined following their latest updates. In contrast, Hiscox gained more than 2% after reporting a 9.5% increase in gross written premiums during the first nine months of the year compared with the same period in 2025."
+    },
+    {
+      "id": "5191455",
+      "time": "2026-11-04 00:42:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院的保守派大法官似乎對天主教團體提出的豁免請求表示同情，該請求旨在豁免科羅拉多州一項禁止在公共資助的幼兒園中實施反LGBT歧視的法律。"
+    },
+    {
+      "id": "mkt:01a1a249-36b1-7ee0-aa52-a4fc719c7459",
+      "time": "2026-11-04 00:41:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "EUROSTOXX 50"
+      ],
+      "text": "European equities closed lower on Nov 3 (Tue): Germany's DAX down 118.94 pts (-0.46%) to 25,863.93; FTSE 100 down 121.06 pts (-1.12%) to 10,640.27; France's CAC 40 down 27.38 pts (-0.34%) to 8,020.31; EUROSTOXX 50 down 37.51 pts (-0.61%) to 6,138.55; Spain's IBEX 35 down 171.90 pts (-0.91%) to 18,800.00; Italy's FTSE MIB down 30.44 pts (-0.06%) to 49,917.50."
+    },
+    {
+      "id": "te:economy:597754",
+      "time": "2026-11-04 00:40:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uganda",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Uganda Inflation Rate Hits Near 3-1/2-Year High — The annual inflation rate in Uganda picked up to 5.8% in October 2026, the highest since May 2023, from 4.6% in September. Inflation has been rising consistently since April, reflecting the depreciation of the Ugandan shilling and higher fuel prices linked to the Middle East conflict. Annual food crop inflation accelerated to 10.7% in October from 4.5% in September, driven by higher prices for dry beans, tomatoes, sweet potatoes, matoke and pineapples. Energy, fuels and utilities inflation registered 15.4%, up from 14.5% in September, with petrol prices rising 34.3%, diesel 49.2% and firewood 15.5%. The core inflation, which excludes volatile components such as raw food and fuel, quickened to 4.4%, the highest since June 2023, from 3.7% previously. On a monthly basis, the CPI rose by 1.1% in October, after a 0.9% increase in September."
+    },
+    {
+      "id": "te:markets:597753",
+      "time": "2026-11-04 00:40:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Fall on Tuesday — European stocks closed off their session lows on Tuesday, with the Stoxx 50 and the broader Stoxx 600 down by around 0.5% each. The UK and Spain underperformed, while German and French markets recorded smaller declines and Italy was little changed. Basic resources led the declines, falling nearly 2% as gold, silver and copper prices weakened amid uncertainty over US-Iran diplomacy. Retailers also lost over 1.5%, while oil and gas stocks fell nearly 1% as crude prices declined. Technology shares dropped around 0.9%, with SAP down about 2% and ASML also lower. Inditex and Banco Santander declined, while L’Oréal and Linde posted smaller losses. On the other hand, Bayer surged more than 4.5% after raising its 2026 profit outlook, and Philips gained almost 5% after beating profit estimates. LVMH also advanced 2%. Investors remained cautious ahead of the US midterm elections, which could determine control of Congress and influence the country’s political direction."
+    },
     {
       "id": "5191454",
       "time": "2026-11-04 00:39:05",
