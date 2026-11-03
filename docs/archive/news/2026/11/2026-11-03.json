@@ -1,7 +1,117 @@
 {
   "date": "2026-11-03",
-  "count": 1067,
+  "count": 1079,
   "items": [
+    {
+      "id": "mkt:01a1a081-1341-7ee0-aa45-5cfc5850e7ff",
+      "time": "2026-11-03 16:22:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said Russia launched a complex, large-scale overnight attack primarily targeting Ukraine's critical infrastructure."
+    },
+    {
+      "id": "mkt:01a1a080-a794-7ee0-aa45-51abbd92d3e6",
+      "time": "2026-11-03 16:22:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Aramco CEO said global oil demand has been more resilient than many expected and will rebound strongly."
+    },
+    {
+      "id": "5190422",
+      "time": "2026-11-03 16:22:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎龍股份：第五期回購完成，累計回購177.87萬股，成交價57元/股至75.44元/股，支付人民幣1.2億元】鼎龍股份公告，此前披露第五期回購方案，擬使用不低於人民幣1億元且不超過人民幣2億元自有資金，以不超過人民幣128元/股回購，用於維護公司價值及股東權益。截至公告披露日，本次回購已實施完畢，累計回購177.87萬股，佔當前總股本0.19%，最高成交價75.44元/股，最低成交價57元/股，成交金額人民幣1.2億元（不含交易費用）。實際使用資金總額超過下限且不超過上限。"
+    },
+    {
+      "id": "5190421",
+      "time": "2026-11-03 16:22:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "TEAMVIEWER股價延續跌勢，目前下跌21.8%，有望創下2021年以來最大單日跌幅。"
+    },
+    {
+      "id": "5190420",
+      "time": "2026-11-03 16:22:06",
+      "tags": [
+        "央行"
+      ],
+      "text": "【國泰海通中標央行第三批互換便利操作100億元】11月3日，國泰海通再度中標“證券、基金、保險公司互換便利(SFISF)”業務，中標利率為10bp，中標規模100億元，規模較前兩次大幅提升。此前，國泰海通先後兩次中標互換便利操作，並迅速推動業務落地，是市場首家透過借入國債進行回購融資增持A股的證券公司。截至目前，前兩批互換便利額度已全部用來增持A股及股票ETF。(澎湃新聞）"
+    },
+    {
+      "id": "5190419",
+      "time": "2026-11-03 16:21:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿美公司執行長：我們今天看到的全球需求比許多人此前預期的更為強勁，需求將更強勁地回升。"
+    },
+    {
+      "id": "5190418",
+      "time": "2026-11-03 16:21:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "YPF執行長表示，與XRG、埃尼合作的阿根廷液化天然氣專案可能於2月開工，計劃本月做出最終投資決定。"
+    },
+    {
+      "id": "5190417",
+      "time": "2026-11-03 16:21:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "YPF執行長表示，到2026年底，我們將建成石油出口管道，使阿根廷能夠出口100萬桶/日的石油。"
+    },
+    {
+      "id": "5190416",
+      "time": "2026-11-03 16:21:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "YPF執行長表示，預計最早將於2030年從阿根廷液化天然氣專案發出第一艘船，第二艘船將在第一艘船之後6-12個月發出。"
+    },
+    {
+      "id": "5190415",
+      "time": "2026-11-03 16:21:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "YPF執行長表示，我們將透過阿根廷液化天然氣專案向歐洲和亞洲出售液化天然氣，目前正在簽署合同。"
+    },
+    {
+      "id": "mkt:01a1a07d-ee0b-7ee0-aa45-495eff814201",
+      "time": "2026-11-03 16:19:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02359.HK",
+        "00992.HK",
+        "01347.HK"
+      ],
+      "text": "【HKEX to launch 12 new single-stock futures on Jan. 18, 2027】HKEX said it will introduce 12 new single-stock futures contracts on Jan. 18, 2027, including MINIMAX-W (00100.HK), WuXi AppTec (02359.HK), Hua Hong Semiconductor (01347.HK) and Lenovo Group (00992.HK)."
+    },
+    {
+      "id": "te:markets:597591",
+      "time": "2026-11-03 16:19:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Heating Oil Trims Losses — Heating oil prices in the US rose above $4.50 per gallon, paring a more than 5% decline in the previous session as markets assessed the viability of a US-Iran resolution. Reports of a US strike on Iran’s Qeshm Island contrasted with recent diplomatic efforts, including talks between Iranian and Qatari officials, dampening hopes for the two countries to reach a potential deal. Meanwhile, Europe plans to release 42 million barrels from strategic reserves over three months, half of which will be diesel. Additional Chinese export quotas and higher output elsewhere could boost supply. Potentially higher Russian diesel shipments to the US and global markets may also ease tightness following temporary US Treasury authorization for certain transactions involving Russian diesel. However, inventories remained 10% below their five-year seasonal average as of October 23, underscoring lingering supply constraints."
+    },
     {
       "id": "5190412",
       "time": "2026-11-03 16:18:57",
