@@ -1,7 +1,48 @@
 {
   "date": "2026-11-04",
-  "count": 49,
+  "count": 54,
   "items": [
+    {
+      "id": "mkt:01a1a241-0db7-7ee0-aa52-85b2a50d762e",
+      "time": "2026-11-04 00:32:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President ZELENSKIY said the United States, which served as the world’s security guarantor for the past 80 years, no longer exists in that role; people in the Gulf, who once relied on U.S. security guarantees, are now focused on avoiding another full-scale war."
+    },
+    {
+      "id": "5191448",
+      "time": "2026-11-04 00:29:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：不同國家現在都在建設各自版本的“星鏈”。這是正確的做法，因為關鍵問題是誰掌控開關按鈕。"
+    },
+    {
+      "id": "5191447",
+      "time": "2026-11-04 00:28:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "格陵蘭議會批准與美國的安全協議。"
+    },
+    {
+      "id": "5191446",
+      "time": "2026-11-04 00:28:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬拉松石油公司預計全球汽油、柴油和航空燃油需求將保持韌性。"
+    },
+    {
+      "id": "mkt:01a1a23d-a667-7ee0-aa52-78c7b717d029",
+      "time": "2026-11-04 00:28:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Greenland's parliament approved a security agreement with the United States."
+    },
     {
       "id": "5191445",
       "time": "2026-11-04 00:24:14",

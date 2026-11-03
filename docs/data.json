@@ -1,7 +1,48 @@
 {
-  "updated": "2026-11-04 00:28:44",
-  "count": 12228,
+  "updated": "2026-11-04 00:32:36",
+  "count": 12229,
   "items": [
+    {
+      "id": "mkt:01a1a241-0db7-7ee0-aa52-85b2a50d762e",
+      "time": "2026-11-04 00:32:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President ZELENSKIY said the United States, which served as the world’s security guarantor for the past 80 years, no longer exists in that role; people in the Gulf, who once relied on U.S. security guarantees, are now focused on avoiding another full-scale war."
+    },
+    {
+      "id": "5191448",
+      "time": "2026-11-04 00:29:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：不同國家現在都在建設各自版本的“星鏈”。這是正確的做法，因為關鍵問題是誰掌控開關按鈕。"
+    },
+    {
+      "id": "5191447",
+      "time": "2026-11-04 00:28:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "格陵蘭議會批准與美國的安全協議。"
+    },
+    {
+      "id": "5191446",
+      "time": "2026-11-04 00:28:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬拉松石油公司預計全球汽油、柴油和航空燃油需求將保持韌性。"
+    },
+    {
+      "id": "mkt:01a1a23d-a667-7ee0-aa52-78c7b717d029",
+      "time": "2026-11-04 00:28:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Greenland's parliament approved a security agreement with the United States."
+    },
     {
       "id": "5191445",
       "time": "2026-11-04 00:24:14",
@@ -112409,43 +112450,6 @@
         "國際"
       ],
       "text": "【烏克蘭官員稱阿列什基停火安排得到全面執行】當地時間10月27日，烏克蘭最高拉達人權專員盧比涅茨表示，截至當天17時30分，烏克蘭和俄羅斯均遵守了阿列什基地區與人道主義任務有關指定區域的停火安排，雙方均未發現違反停火約定的情況。盧比涅茨說，停火安排於當天基輔時間3時開始，將持續至11月1日22時59分。（央視新聞）"
-    },
-    {
-      "id": "5173416",
-      "time": "2026-10-28 00:31:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：自10月中旬無人機襲擊停止以來，俄羅斯煉油廠原油加工量增長了25%。"
-    },
-    {
-      "id": "5173415",
-      "time": "2026-10-28 00:31:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國DAX 30指數初步收漲0.78%，報25608點。法國股指初步收漲0.61%，義大利股指初步收漲0.84%、銀行指數漲1.1%，英國股指初步收跌0.75%。"
-    },
-    {
-      "id": "5173414",
-      "time": "2026-10-28 00:31:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收漲0.48%，報643.76點。歐元區STOXX 50指數初步收漲0.84%，報6167.39點。成分股中，英飛凌漲超5%，西門子能源漲4.2%，依視路陸遜梯卡漲3.9%表現第三。富時泛歐績優300指數初步收漲0.46%，報2567.42點。"
-    },
-    {
-      "id": "mkt:01a17e33-b985-7ee0-a99d-8d773e35d70d",
-      "time": "2026-10-28 00:31:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Sources say Russian refinery crude throughput has risen 25% since drone attacks ceased in mid-October."
     }
   ]
 }
