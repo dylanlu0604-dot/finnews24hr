@@ -1,7 +1,201 @@
 {
-  "updated": "2026-11-03 16:45:37",
-  "count": 12564,
+  "updated": "2026-11-03 16:49:18",
+  "count": 12584,
   "items": [
+    {
+      "id": "mkt:01a1a098-c154-7ee0-aa46-7b40d8afe227",
+      "time": "2026-11-03 16:48:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Court of Justice of the European Union said courts should find that AI chatbots that, in response to specific queries, retrieve and reuse online news publications in real time may infringe news publishers' rights."
+    },
+    {
+      "id": "5190507",
+      "time": "2026-11-03 16:48:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫銅日內跌超3.00%，現報13911.500美元/噸。"
+    },
+    {
+      "id": "5190506",
+      "time": "2026-11-03 16:48:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST金頂：下屬子公司頂金黃金完成登出登記】ST金頂公告稱，公司此前審議透過登出下屬5家子公司的議案，以聚焦主業、最佳化資源配置。2026年11月2日，下屬子公司頂金黃金礦業（深圳）有限公司收到深圳市市場監督管理局出具的《登記通知書》，已完成登出登記手續。頂金黃金自設立至今未發生實際經營業務，本次登出不會對公司整體業務發展和盈利水平產生重大影響，登出完成後其不再納入公司合併報表範圍。"
+    },
+    {
+      "id": "5190505",
+      "time": "2026-11-03 16:48:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱因科技：截至10月31日累計回購股份91萬股】凱因科技公告稱，公司擬以4000萬元-8000萬元自有資金回購A股股份，用於員工持股計劃或股權激勵，回購價格不超過25.87元/股，回購期限為2026年8月21日至2027年8月20日。截至2026年10月31日，公司累計回購股份91萬股，佔總股本的0.5323%，回購價格區間為15.56元/股-18.22元/股，累計支付資金1438.31萬元（不含交易費用）。"
+    },
+    {
+      "id": "5190504",
+      "time": "2026-11-03 16:48:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫竹高科：控股子公司終止掛牌事項獲股東會審議透過】紫竹高科公告稱，公司控股子公司上海紫江新材料科技股份有限公司因經營發展及自身戰略規劃整體考慮，擬主動申請其股票在全國中小企業股份轉讓系統終止掛牌。紫江新材於2026年11月3日召開2026年第二次臨時股東會，審議並一致透過終止掛牌相關議案。該事項尚需報全國中小企業股份轉讓系統有限責任公司審批，具體終止掛牌時間以其批准日期為準。"
+    },
+    {
+      "id": "5190503",
+      "time": "2026-11-03 16:48:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟最高法院：法院應認定，AI聊天機器人針對特定查詢實時抓取並再利用網路新聞出版物，可能侵犯新聞出版商的權益。"
+    },
+    {
+      "id": "5190502",
+      "time": "2026-11-03 16:47:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新金路：終止轉讓全資子公司高新公司100%股權】新金路公告稱，公司此前擬以公開徵集意向受讓方的方式，轉讓全資子公司四川金路高新材料有限公司100%股權。鑑於截至公開徵集期限屆滿，未徵集到符合條件的意向受讓方，公司董事長同意終止本次股權轉讓事項。本次終止不會對公司正常生產經營產生重大影響，高新公司仍為公司全資子公司，不會導致公司合併報表範圍發生變更。後續如再次涉及上述股權處置事宜，公司將依規履行審議及資訊披露義務。"
+    },
+    {
+      "id": "5190501",
+      "time": "2026-11-03 16:47:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太陽能：1-10月，公司新增光伏運營專案容量1,311.24MW】太陽能公告，經初步統計，2026年1-10月，公司新增光伏運營專案容量1,311.24MW，新增開工的光伏專案容量650MW，新增取得備案的光伏專案容量1,074.94MW，新增獨立儲能備案容量4,320MW/12,287MWh。截至2026年10月末，公司2026年累計完成發電量83.94億千瓦時，同比增加17.6%；較2025年全年發電量增加0.25億千瓦時，增幅0.3%。"
+    },
+    {
+      "id": "5190500",
+      "time": "2026-11-03 16:47:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福萊特玻璃：10月登出14萬股A股回購股份】福萊特玻璃公告稱，截至2026年10月31日，公司H股法定/註冊股份數4.42億股、已發行股份（不含庫存股）4.30億股、庫存股1212.20萬股，本月無變動，符合H股公眾持股量要求；A股本月登出回購股份14萬股，登出價15.8751元/股，登出後A股已發行股份（不含庫存股）18.88億股、庫存股1330.84萬股。截至2026年10月31日，公司累計回購A股1330.84萬股尚未登出。"
+    },
+    {
+      "id": "5190499",
+      "time": "2026-11-03 16:47:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇文電能：截至10月31日累計回購股份364.79萬股】蘇文電能公告稱，公司2026年7月17日審議透過回購股份方案，擬以3000萬元-6000萬元自有資金透過集中競價方式回購股份，用於員工持股計劃或股權激勵，回購價格不超過18.00元/股，實施期限為董事會審議透過之日起12個月內。截至2026年10月31日，公司累計回購股份364.79萬股，佔總股本的1.7626%，回購最高價13.99元/股，最低價12.85元/股，成交總金額4998.18萬元（不含交易費用）。後續公司將在回購期限內繼續推進回購計劃。"
+    },
+    {
+      "id": "te:markets:597614",
+      "time": "2026-11-03 16:47:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Sugar Hits 4-week Low — Sugar decreased to 18.83 USd/Lbs, the lowest since October 2026. Over the past 4 weeks, Sugar lost 9.01%, and in the last 12 months, it increased 28.75%."
+    },
+    {
+      "id": "mkt:01a1a097-1f5f-7ee0-aa46-71e7a2acaaa7",
+      "time": "2026-11-03 16:47:00",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB official Machado said the bank should adhere to strict capital standards and maintain a capital-output floor."
+    },
+    {
+      "id": "5190498",
+      "time": "2026-11-03 16:46:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天臣醫療：截至10月31日累計回購股份121.91萬股】天臣醫療公告稱，公司回購股份方案實施期限為2026年3月30日至2027年3月26日，擬使用3600萬元-7200萬元資金回購股份，用於員工持股計劃或股權激勵，回購價格上限調整為59.21元/股。2026年10月公司未進行回購交易。截至2026年10月31日，公司累計回購股份121.9117萬股，佔總股本比例1.50%，回購價格區間為21.66元/股-30.32元/股，累計支付金額3382.79萬元。"
+    },
+    {
+      "id": "te:economy:597613",
+      "time": "2026-11-03 16:46:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Q3 GDP Exceeds Expectations — Hong Kong’s economy expanded 5.2% year-on-year in the third quarter of 2026, beating market expectations of 3.7% and accelerating from a downwardly revised 4.2% in the previous quarter, according to preliminary estimates. Government spending climbed to 1.7% after stalling in Q2, while gross domestic fixed capital formation nearly doubled its growth rate to 7.3% from 3.7%. In contrast, private consumption growth edged down to 2.8% from 2.9%. On the external front, exports of goods increased 30.4% from 28.9% in the previous quarter, while imports of goods rose to 29.9% from 29.3%. Looking ahead, Hong Kong’s growth momentum is expected to remain firm, supported by robust global AI investment, which should underpin merchandise exports, while continued growth in inbound tourism, cross-boundary travel and financial market activity is expected to support services exports. On a seasonally adjusted quarterly basis, GDP rebounded 1.9% in Q3, following an upwardly revised 1.7% decline in Q2."
+    },
+    {
+      "id": "5190497",
+      "time": "2026-11-03 16:46:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀘州老窖：2026年前三季度營收146.68億元 同比降36.58%】瀘州老窖公告稱，2026年第三季度實現營業收入41.95億元，同比下降37.14%；歸母淨利潤13.32億元，同比下降57.03%。2026年前三季度實現營業收入146.68億元，同比下降36.58%；歸母淨利潤56.71億元，同比下降47.31%。"
+    },
+    {
+      "id": "mkt:01a1a096-9160-7ee0-aa46-6aef3e7797a8",
+      "time": "2026-11-03 16:46:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $3,900/oz, down 1.18% on the day."
+    },
+    {
+      "id": "5190495",
+      "time": "2026-11-03 16:46:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3900美元/盎司，日內跌1.19%。"
+    },
+    {
+      "id": "5190494",
+      "time": "2026-11-03 16:46:11",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "【姚順宇否認創業，“目前仍是DeepMind員工”】“我沒有創辦公司，目前仍是谷歌DeepMind的員工。”11月2日晚間，針對網傳其正在籌備一家RSI（遞迴自我改進）公司的訊息，華人AI科學家姚順宇向澎湃科技（www.thepaper.cn）做出了否認。11月2日，有報道稱，市場傳言姚順宇正在推進一家專注於遞迴自我改進（RSI）的AI公司，聯合創始團隊已基本成形，其中一位聯創為Google DeepMind的資深員工，團隊還在吸引其他來自Google DeepMind、Anthropic、OpenAI等頭部AI實驗室的研究和工程人才，專案估值高達20億美元。對此，姚順宇表示，“我完全不知道這個假訊息是從哪裡來的。”（澎湃）"
+    },
+    {
+      "id": "5190493",
+      "time": "2026-11-03 16:45:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙特阿美首席財務官：透過延長租期緩解運費上漲壓力。"
+    },
+    {
+      "id": "5190492",
+      "time": "2026-11-03 16:45:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙特阿美首席財務官：透過短途運輸限制貨運價格上漲。"
+    },
+    {
+      "id": "5190491",
+      "time": "2026-11-03 16:45:30",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【品茗科技：因涉嫌操縱證券市場 實控人莫緒軍遭證監會立案】品茗科技(688109.SH)公告稱，公司控股股東、實際控制人莫緒軍收到證監會下發的《立案告知書》，因涉嫌操縱證券市場，證監會決定對其立案。本次立案系對莫緒軍個人的調查，其除擔任公司名譽董事長外未參與日常經營管理，與公司經營無關，不會對公司產生重大影響，公司生產經營及財務狀況正常。"
+    },
+    {
+      "id": "5190490",
+      "time": "2026-11-03 16:45:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷軍公佈小米機器人最新進展 小米機器人首次挑戰8小時穩定作業】小米集團創始人雷軍發文稱，小米人形機器人在汽車工廠中控臺側蓋板排序工站首次挑戰8小時穩定作業，滿足了工站全天生產需求，並實現作業過程異常自主糾偏與產線系統級協同。小米具身基座模型，開始在小米青年公寓“試運營”，目前可以完成連續超30分鐘、覆蓋3個房間、包含50+任務的長程任務鏈。"
+    },
     {
       "id": "5190489",
       "time": "2026-11-03 16:45:02",
@@ -115155,30 +115349,6 @@
         "Importance 0"
       ],
       "text": "Taiwan M2 Money Supply Hits Record High — Taiwan’s M2 money supply rose 7.24% year-on-year to a record TWD 71,361 billion in September 2026, accelerating from 6.79% in the previous month. The faster expansion reflected higher annual growth in lending and investment, as well as the temporary repatriation of overseas financing funds by enterprises. On a monthly basis, M2 increased 0.97%, while average growth for the first nine months of the year stood at 6.69%. Meanwhile, lending and investment by all monetary institutions grew 9.79% year-on-year, up from 9.43% in August, driven primarily by increased claims on the private sector, public enterprises, and government debt. Including lending and investment by life insurers and adjusting for bad-debt write-offs transferred by monetary institutions, the broader measure rose 8.06%, accelerating from 7.69% in the previous month."
-    },
-    {
-      "id": "te:markets:595365",
-      "time": "2026-10-27 16:48:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Edges Down — Frankfurt's DAX 40 traded slightly lower around 25,360 on Tuesday, after a positive start to the week, as investors digested corporate earnings and positioned themselves ahead of key policy decisions from the Fed and the ECB. At the same time, political instability in France and broader geopolitical uncertainty kept investors cautious. Among key movers, Beiersdorf plunged over 4% after narrowly missing third-quarter sales growth expectations. Autos also faced pressure, led by Mercedes Benz-Group, which dropped 4% as it lowered its 2026 profit margin outlook for its core cars division, citing tougher market conditions in China and higher costs in Q4..In contrast, Porsche advanced 1.7% in the MDAX after reporting a recovery in profit over the first nine months of the year and reaffirming its 2026 outlook. Technology and AI-related stocks such Siemens Energy, Infineon Technologies, SAP were among the top performers."
-    },
-    {
-      "id": "te:markets:595363",
-      "time": "2026-10-27 16:46:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Fall as ECB Decision Looms — The CAC 40 fell 0.4% to 7,817 on Tuesday, reversing gains from the previous session as investors braced for major central bank decisions later this week. The European Central Bank is due to announce its policy decision on Thursday and is widely expected to leave interest rates unchanged. The decline came despite a tech-led rebound in other markets following Anthropic’s IPO filing and improving hopes for a diplomatic breakthrough in the Middle East. Domestically, France’s consumer confidence indicator fell to 80 in October 2026 from 85 in September, missing expectations and reaching its lowest level since June 2013, amid rising bond yields, austerity disputes and cost-of-living protests. On the corporate front, Orange fell 1.5% despite raising its 2026 core earnings growth target and maintaining solid revenue in Q3. Other notable decliners included ENGIE (-1.8%), Saint-Gobain (-1.3%) and Dassault Systèmes (-1%)."
     }
   ]
 }
