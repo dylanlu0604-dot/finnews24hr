@@ -1,7 +1,265 @@
 {
-  "updated": "2026-11-04 17:12:23",
-  "count": 12407,
+  "updated": "2026-11-04 17:16:18",
+  "count": 12433,
   "items": [
+    {
+      "id": "mkt:01a1a5d7-b2c4-7ee0-aa69-030b11d3340d",
+      "time": "2026-11-04 17:15:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Google to invest $15 billion to expand Malaysia data-center business】Google plans to invest $15 billion to expand data centers and cloud computing in Malaysia to meet AI-driven infrastructure demand. The company will build new compute campuses and invest in local water security, power generation and workforce training, with projects to be implemented in 2027–2028. Google said the new campuses will add about $1.1 billion to the Malaysian economy during construction and support more than 37,000 local jobs annually; once operational, the data centers are expected to sustain over 9,000 local jobs across technical, mechanical and electrical engineering, logistics and security roles. Google joins other global tech firms expanding in Malaysia, which has become a Southeast Asian data-center hub—attracting Oracle and Amazon—on the back of lower operating costs, reliable infrastructure and proximity to Singapore."
+    },
+    {
+      "id": "5192998",
+      "time": "2026-11-04 17:15:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海石油化工股份：11月4日回購56.2萬股股份】上海石油化工股份公告稱，公司於2026年11月4日在香港聯交所回購普通股562,000股，回購價格區間為每股1.225港元至1.24港元，合計付出694,238.6港元。本次回購股份將全部用於登出，截至2026年11月4日，公司已發行股份總數為3,213,804,000股。本次回購的股份登出後30天內，未經聯交所批准公司不得發行新股或出售轉讓庫存股份。"
+    },
+    {
+      "id": "5192997",
+      "time": "2026-11-04 17:15:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳獨立調查報告：美英澳核潛艇合作應立即終止】澳大利亞一項獨立調查4日釋出最終報告，呼籲澳政府立即終止美英澳三邊安全夥伴關係框架下的核潛艇合作，認為這是澳大利亞歷史上風險最大、代價最高的國防決策。（新華社）"
+    },
+    {
+      "id": "5192996",
+      "time": "2026-11-04 17:15:06",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、美國總統特朗普3日接受採訪時表示，美國沒有立即打擊伊朗的計劃，並稱其對美伊的僵局“感到滿意”。他在採訪中說：“我們似乎正在得到我們想要的一切。”\n2、特朗普：如果伊朗表現良好，我們可以簽署一些協議。石油正從霍爾木茲海峽運出，我們做得太棒了！我可以很輕鬆地完成在伊朗的任務。\n3、美國總統特朗普向民主黨在中期選舉中獲勝表示祝賀。“我想說的是，祝賀民主黨，我期待與你們合作，共同為我們的國家努力，”他表示。\n4、美國總統特朗普稱，他認為民主黨贏得眾議院和參議院控制權的原因是高油價，而非美國與伊朗的戰爭。特朗普說，他認為美國民眾在伊朗戰爭問題上與他意見一致。\n5、美國總統特朗普3日晚對美國媒體表示，伊朗戰事對共和黨在中期選舉中的表現“有一定影響”。特朗普在接受媒體電話採訪時說，“我認為其中一部分原因是伊朗，但與此同時，人們也理解我處理伊朗問題的重要性。從歷史角度看，這比今晚更重要。”\n6、特朗普：不會調整內閣人事，選舉失利與我的內閣無關。可以在移民議題上與民主黨人合作。我不該為這個結果感到內疚。伊朗戰爭是共和黨敗選的部分原因。希望不必動用否決權，我們可以與民主黨人合作。\n7、受中期選舉敗選影響，特朗普媒體科技集團(DJT.O)股價盤前下跌6.7%。\n8、美國總統特朗普正就美國駐軍問題與委內瑞拉談判達成協議。\n9、特朗普：如果美聯儲降息，我們本可以實現預算平衡。"
+    },
+    {
+      "id": "te:markets:598075",
+      "time": "2026-11-04 17:14:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Advances on Wednesday — Frankfurt's DAX 40 rose 0.6% to cross the 26,000 mark on Wednesday, following a previous downbeat session. Global market sentiment improved following the Democratic victory in the US Congress, which will likely constrain President Trump's legislative agenda. Meanwhile, investors continued to monitor geopolitical developments and the ongoing earnings season."
+    },
+    {
+      "id": "mkt:01a1a5d6-f219-7ee0-aa68-fb2920510c5c",
+      "time": "2026-11-04 17:14:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "UNH.N",
+        "Impact bullish",
+        "HCA.N",
+        "CNC.N"
+      ],
+      "text": "U.S. health insurers and hospital operators rose in pre-market trading: UnitedHealth (UNH.N) +2.0%, Molina Healthcare +6.3%, Centene +4.5%, HCA Healthcare +2.6%."
+    },
+    {
+      "id": "5192995",
+      "time": "2026-11-04 17:14:41",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國中期選舉民主黨大獲全勝後，美國健康保險公司和醫院運營商的股票盤前上漲。聯合健康集團股價上漲2%，莫利納醫療保健公司股價上漲6.3%，Centene股價上漲4.5%，HCA醫療保健公司股價上漲2.6%。"
+    },
+    {
+      "id": "5192994",
+      "time": "2026-11-04 17:14:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾和諾德執行長：公司將立即直接向消費者銷售Cagrisema。"
+    },
+    {
+      "id": "5192992",
+      "time": "2026-11-04 17:14:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【國投白銀LOF：二級市場交易價格溢價 提示投資風險】國投白銀LOF公告稱，本基金二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。2026年11月4日二級市場收盤價為1.507元，截至2026年11月3日基金份額淨值為1.3546元。若2026年11月5日溢價幅度未有效回落，基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。本基金運作正常，無應披露而未披露的重大資訊，提醒投資者關注溢價風險，審慎決策。"
+    },
+    {
+      "id": "mkt:01a1a5d6-757b-7ee0-aa68-f201f1b0e361",
+      "time": "2026-11-04 17:14:17",
+      "tags": [
+        "MKT News",
+        "APLD.O",
+        "Impact bearish",
+        "CORZ.O",
+        "WULF.O"
+      ],
+      "text": "U.S. data-center operators fell in pre-market trading: Applied Digital down 3.6%, Core Scientific down 3.3%, Iren down 3.6%, TeraWulf down 3%."
+    },
+    {
+      "id": "5192991",
+      "time": "2026-11-04 17:14:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "泡泡瑪特11月4日回購價值4950萬港元的股份。"
+    },
+    {
+      "id": "te:markets:598074",
+      "time": "2026-11-04 17:14:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Philippines",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Philippines 10-Year Yield Hits Highest Since 2010 — The Philippines’ 10-year government bond yield climbed to 8.33%, reaching its highest level since May 2010, marking a 31.5 bps gain over the past four weeks. The advance reflects mounting inflation concerns and expectations of further monetary tightening, after BSP Governor Eli Remolona recently noted that the central bank remains in a tightening cycle, with inflation expected to peak only in the coming months. Economists forecast annual inflation to accelerate to a median 7.6% in October from 7.2% in September, driven by higher fuel costs, electricity rates, transport fares and peso depreciation. Elevated global oil prices and potential El Niño-related supply disruptions have added to inflation risks. Meanwhile, the government's record PHP 19.66 trillion debt stock has heightened fiscal concerns, with rising borrowing needs and debt-servicing costs adding to upward pressure on yields."
+    },
+    {
+      "id": "5192990",
+      "time": "2026-11-04 17:13:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中胤時尚：完成公司名稱及經營範圍工商變更登記】中胤時尚公告稱，公司已辦理完成名稱、經營範圍的工商變更及章程備案，領取新營業執照。公司中文名稱由“浙江中胤時尚股份有限公司”變更為“浙江中胤科技股份有限公司”，證券程式碼300901保持不變，後續將申請辦理證券簡稱變更，最終以深交所稽核結果為準。變更後經營範圍新增積體電路設計銷售、軟體開發銷售等科技類業務。"
+    },
+    {
+      "id": "te:economy:598073",
+      "time": "2026-11-04 17:13:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "France Services Activity Revised Lower — The S&P Global France Services PMI fell to 46.2 in October 2026, revising lower from the preliminary estimate of 48.4 and slipping from 51.2 in the previous month. This marked the steepest contraction since May, primarily driven by subdued demand, tighter financial conditions and cautious client behavior. New business declined at its fastest pace in five months, largely reflecting weaker domestic demand, while export orders edged higher. Employment also fell, extending the current period of job losses to six months, as firms cited restructuring, retirements and the expiration of fixed-term contracts. On the price front, cost pressures remained elevated across the services sector, driven by higher fuel prices, supplier fees and wages. Service providers responded by raising selling prices in an effort to pass on increased costs to clients. Lastly, French service providers turned pessimistic about the 12-month outlook for the first time since April 2020."
+    },
+    {
+      "id": "5192989",
+      "time": "2026-11-04 17:13:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF廣發：因交易價格溢價 11月5日起臨時停牌】納指ETF廣發公告稱，基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年11月4日，基金二級市場收盤價為1.644元，收盤時基金份額參考淨值為1.4094元。為保護投資者利益，基金將於2026年11月5日開市起停牌，當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。"
+    },
+    {
+      "id": "5192988",
+      "time": "2026-11-04 17:13:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF嘉實：因二級市場溢價風險 11月5日起臨時停牌】納指ETF嘉實公告稱，基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年11月4日，基金二級市場收盤價為2.142元，收盤時基金份額參考淨值為1.7705元。為保護投資者利益，基金將於2026年11月5日開市起停牌，當日10:30起復牌，停牌期間贖回業務照常辦理。若11月5日溢價幅度未有效回落，基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。目前基金運作正常，無其他應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "5192987",
+      "time": "2026-11-04 17:13:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創業板定開南方：二級市場交易價格出現較大幅度溢價】創業板定開南方公告稱，截至2026年11月3日，該基金基金份額淨值為1.1602元，2026年11月4日二級市場收盤價為1.307元，交易價格明顯高於基金份額淨值，出現較大幅度溢價。該基金目前處於封閉期，封閉期內不辦理申購與贖回業務，場內份額可透過深交所轉讓。若後續溢價幅度未有效回落，基金管理人有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。目前基金運作正常，無應披露而未披露的重大資訊，提醒投資者關注溢價風險，審慎投資。"
+    },
+    {
+      "id": "5192986",
+      "time": "2026-11-04 17:13:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國資料中心運營商在中期選舉中民主黨大獲全勝引發對人工智慧的擔憂後，盤前股價下跌。APPLIED DIGITAL 下跌 3.6%，CORE SCIENTIFIC 下跌 3.3%，IREN 下跌 3.6%，TERAWULF 下跌 3%。"
+    },
+    {
+      "id": "5192985",
+      "time": "2026-11-04 17:13:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【永臻股份：股票交易異常波動 無應披露未披露重大事項】永臻股份公告稱，公司股票於2026年11月2日、11月3日、11月4日連續3個交易日內日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查並向控股股東、實控人核實，截至公告披露日，公司生產經營活動正常，內外部經營環境未發生重大變化，不存在應披露而未披露的重大資訊，董監高、控股股東及實控人及其一致行動人在異動期間不存在買賣公司股票的情況。敬請廣大投資者注意二級市場交易風險，理性決策、審慎投資。"
+    },
+    {
+      "id": "mkt:01a1a5d5-69ec-7ee0-aa68-e945c3495663",
+      "time": "2026-11-04 17:13:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【ADP report at 21:15 Beijing — jobs data could test markets】Due to the end of US daylight saving, the ADP private payrolls report will be released at 21:15 Beijing time. Markets broadly expect October ADP payrolls around +70k. After the Fed paused hikes in October, continued employment resilience would affect pricing of a potential December rate hike and could move USD, US equities and gold."
+    },
+    {
+      "id": "5192984",
+      "time": "2026-11-04 17:13:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣大特材：擬3000萬元增資多維科技 構成關聯交易】廣大特材公告稱，公司擬以自有資金3000萬元，按每股12元的價格對江蘇多維科技股份有限公司增資，認購250萬股新增股份，佔其增資完成後總股本的0.4097%。本次投資為財務性投資，不謀求標的控制權，不參與日常經營。因公司實控人兼董事長徐衛明控制的億成投資為多維科技現有股東，本次交易構成關聯交易，已經公司董事會審議透過，無需提交股東會審議。"
+    },
+    {
+      "id": "mkt:01a1a5d5-3fd7-7ee0-aa68-e7fa59024515",
+      "time": "2026-11-04 17:12:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Guangfa Nasdaq ETF will be suspended from market open on Nov. 5, 2026 and will resume trading at 10:30 on Nov. 5, 2026."
+    },
+    {
+      "id": "5192983",
+      "time": "2026-11-04 17:12:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度批准武裝部隊吸納“烈火戰士”的計劃。"
+    },
+    {
+      "id": "5192982",
+      "time": "2026-11-04 17:12:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "泰特斯在內華達州第一選區贏得連任。"
+    },
+    {
+      "id": "5192981",
+      "time": "2026-11-04 17:12:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【水晶光電：董事長提議以1億元-2億元回購公司股份】水晶光電公告，公司董事長李夏雲於2026年11月4日提議以集中競價方式回購公司部分股份，回購金額不低於1億元、不超過2億元，資金來源為自有資金及/或自籌資金。回購股份擬用於維護公司價值及股東權益，披露回購結果暨股份變動公告12個月後將全部出售；如回購實施完成後3年內未實施上述用途，尚未使用的股份將予以登出。回購價格上限不高於董事會審議透過回購方案決議前30個交易日公司股票交易均價的150%，回購期限為董事會審議透過方案之日起3個月內。該提議尚需董事會審議透過。"
+    },
+    {
+      "id": "5192980",
+      "time": "2026-11-04 17:12:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【達實智慧與迅馳智慧簽署戰略合作協議】11月4日，深圳達實智慧股份有限公司與蘇州迅馳智慧科技有限公司於達實智慧大廈簽訂戰略合作協議，雙方將以長三角為核心起步區，共同拓展全國高階製造、生物醫藥、半導體、新能源產業園等市場領域。"
+    },
+    {
+      "id": "5192979",
+      "time": "2026-11-04 17:11:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "超微電腦股價盤前上漲6.6%，此前該公司預計第二季度營收高於預期。"
+    },
     {
       "id": "mkt:01a1a5d3-9196-7ee0-aa68-df8e8c159164",
       "time": "2026-11-04 17:11:08",
@@ -114308,18 +114566,6 @@
         "Importance 1"
       ],
       "text": "Bank of Namibia Lifts Policy Rate to 7% — The Bank of Namibia raised its benchmark repo rate by 25 bps to 7% during its October 2026 meeting, the highest level since Janaury 2025, following a pause in August. The decision aims to continue safeguarding the Namibian dollar’s one-to-one peg to the South African rand while limiting the broader inflationary impact of rising fuel costs. Namibia's inflation has accelerated sharply since early 2026, climbing from 2.1% in March to an over two-year high of 5.4% in September, mainly on account of elevated crude oil prices linked to the Middle East conflict. Inflation forecasts were revised up to 4.2% in 2026 and 4% in 2027, compared to previous estimates of 4% and 3.9%, respectively, reflecting expectations of a prolonged energy price shock. The central bank kept its growth outlook unchanged, projecting expansion of 2.1% in 2026 and 2.8% in 2027, although foot-and-mouth disease, weaker global growth and potential El Niño conditions continue to pose risks."
-    },
-    {
-      "id": "te:markets:595771",
-      "time": "2026-10-28 17:15:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "French Bond Yields Rise Ahead of Central Bank Decisions — France’s 10-year OAT yield climbed to 4.95%, approaching the 5% threshold breached last week, as oil prices rebounded amid renewed supply concerns and investors braced for a series of key central bank decisions. French government bonds have come under increasing pressure in recent weeks, with 10-year yields reaching their highest levels in more than two decades. Concerns over France’s fiscal outlook, ahead of next year’s presidential election, have weighed on investor sentiment, while civil unrest has added to the pressure on President Emmanuel Macron’s government. Meanwhile, markets have turned their attention to upcoming monetary policy decisions from the European Central Bank and the US Federal Reserve. Both are widely expected to keep interest rates unchanged this week, shifting the focus to policymakers’ forward guidance for signals on the future direction of monetary policy."
     }
   ]
 }
