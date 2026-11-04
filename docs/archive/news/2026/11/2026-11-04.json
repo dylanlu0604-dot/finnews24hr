@@ -1,7 +1,152 @@
 {
   "date": "2026-11-04",
-  "count": 1388,
+  "count": 1404,
   "items": [
+    {
+      "id": "5192783",
+      "time": "2026-11-04 16:24:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建業股份：公司超純氨屬於電子特氣，目前產能為21000噸/年】有投資者向建業股份（603948.SH）提問，尊敬的董秘您好！請問公司超純氨產能是多少？是否屬於工業氣體，請您詳細介紹一下。11月4日，公司在互動平臺回答表示，公司超純氨屬於電子特氣，目前產能為21000噸/年。"
+    },
+    {
+      "id": "mkt:01a1a5a8-0f96-7ee0-aa66-a99604742aff",
+      "time": "2026-11-04 16:23:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia warned of potential security threats in Najran."
+    },
+    {
+      "id": "5192782",
+      "time": "2026-11-04 16:23:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【拜耳塞伐艾替尼片在中國獲批一線治療HER2突變非小細胞肺癌】11月4日，拜耳中國宣佈，國家藥品監督管理局已批准肺癌新型靶向治療藥物赫新諾®（塞伐艾替尼片）單藥用於治療存在HER2（ERBB2）啟用突變的不可切除的區域性晚期或轉移性非小細胞肺癌（NSCLC）成人患者。"
+    },
+    {
+      "id": "mkt:01a1a5a7-3709-7ee0-aa66-a4dfa8394fea",
+      "time": "2026-11-04 16:22:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【Spanish services expand in October; growth momentum eases】A business survey released Wednesday showed Spain's services sector continued to expand strongly in October but at a slower pace as new business growth cooled and export sales fell. S&P Global Market Intelligence's Spain services PMI business activity index eased to 57.2 in October from 58.3 in September, remaining above trend. Paul Smith, economics director at S&P Global Market Intelligence, said activity is expanding above average, suggesting Spain has started Q4 well. Business confidence rose to its highest since February, supported by previously planned investment and hopes that the Nov. 29 election will bring positive change."
+    },
+    {
+      "id": "5192781",
+      "time": "2026-11-04 16:22:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國鋅業：第三季度營業利潤為1417億韓元，同比下降48%。"
+    },
+    {
+      "id": "5192780",
+      "time": "2026-11-04 16:22:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯就納季蘭地區潛在危險發出警告。"
+    },
+    {
+      "id": "5192779",
+      "time": "2026-11-04 16:22:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聚飛光電：11月4日首次回購股份 成交金額142.22萬元】聚飛光電公告稱，公司回購股份方案於2026年10月27日經董事會審議透過，擬使用5000萬元-8000萬元自有或自籌資金，以不超過9.69元/股的價格集中競價回購股份，回購實施期限為董事會審議透過之日起12個月內。截至2026年10月31日公司尚未實施回購，11月4日公司首次回購股份25.42萬股，佔總股本的0.0179%，最高成交價5.76元/股，最低成交價5.58元/股，成交總金額142.22萬元（不含交易費用）。"
+    },
+    {
+      "id": "5192778",
+      "time": "2026-11-04 16:22:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美聯新材：控股股東新增質押658萬股股份】美聯新材公告稱，公司控股股東黃偉汕近日辦理部分股份新增質押手續，合計質押658萬股，佔其所持股份比例2.84%，佔公司總股本比例0.93%，均為補充質押，質權人分別為中國銀河證券、萬聯證券、國泰海通證券。截至公告披露日，黃偉汕累計質押股份1.04億股，佔其所持股份比例45.09%，佔公司總股本比例14.67%。上述質押股份不負擔重大資產重組等業績補償義務。"
+    },
+    {
+      "id": "5192777",
+      "time": "2026-11-04 16:22:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "美聯社預測：民主黨候選人KATIE HOBBS贏得亞利桑那州州長競選。"
+    },
+    {
+      "id": "5192776",
+      "time": "2026-11-04 16:22:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬勝智慧：中標國家電網專案，金額約2.09億元】萬勝智慧公告，公司此前為國家電網有限公司2026年營銷專案第二次裝置公開招標採購及智慧融合終端公開招標採購的中標候選人，預計中標總金額約為2.09億元。公司近日收到國家電網有限公司及國網物資有限公司發出的《中標通知書》，確認中標上述專案，中標總金額約為2.09億元，約佔公司2025年度經審計營業收入的14.91%。公司尚未簽訂正式合同，合同相關條款及結算金額以最終簽訂的合同為準。"
+    },
+    {
+      "id": "5192775",
+      "time": "2026-11-04 16:22:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成都6宗涉宅用地17.12億元底價成交】11月4日，成都有6宗涉宅用地出讓，總土地出讓面積205141.08㎡，總規劃建築面積449754.96㎡，總起始價17.12億元。最終6宗地塊均底價成交，總成交金額17.12億元。"
+    },
+    {
+      "id": "5192774",
+      "time": "2026-11-04 16:21:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大豪科技：子公司興漢網際業務進入規模化落地階段】大豪科技在2026年第三季度業績說明會上表示，子公司興漢網際業務已進入規模化落地階段，鯤鵬、海光、飛騰等國產化平臺產品完成批次交付，相關硬體已應用於金融、電信、政企等領域的客戶。目前興漢網際正加速推進向“雲—網—邊—端”全層級硬體產品的升級，產品已具備規模化市場應用的基礎。"
+    },
+    {
+      "id": "mkt:01a1a5a5-e74e-7ee0-aa66-9e171e98b49b",
+      "time": "2026-11-04 16:21:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【Meta launches first euro bond after $15bn U.S. note sale】Meta Platforms launched its first euro-denominated bond offering after completing a $15 billion U.S. dollar bond sale on Tuesday. The euro deal is split into six tranches, maturities from just over 4 years to more than 38 years; initial price guidance is roughly +140bps versus mid-swap for the shortest tranche and about +370bps for the longest. Meta's U.S. issuance drew strong demand with indications of interest up to $58 billion. Citigroup and Morgan Stanley are arranging the euro offering, with pricing expected Wednesday night. This is Meta’s first bond issuance outside the U.S."
+    },
+    {
+      "id": "mkt:01a1a5a5-e47f-7ee0-aa66-9187a10b41dc",
+      "time": "2026-11-04 16:21:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Azerbaijan's Ministry of Economy expects the oil and gas sector to contract 1.8% in 2027, unchanged from its 2026 forecast."
+    },
+    {
+      "id": "5192773",
+      "time": "2026-11-04 16:20:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "DDHQ預測：內華達州第7號公投提案獲得透過，該提案要求實施選民身份核驗，屬於無黨派投票議題。"
+    },
+    {
+      "id": "5192772",
+      "time": "2026-11-04 16:20:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中創智領：10月回購464.79萬股A股股份】中創智領公告稱，截至2026年10月31日，公司H股法定/註冊股份2.43億股、已發行股份2.43億股，無變動，符合公眾持股量要求；A股法定/註冊股份15.42億股，本月回購464.79萬股A股並持作庫存股，回購均價區間為每股13.20元-14.59元。截至10月底，A股已發行股份（不含庫存股）15.33億股，庫存股942.82萬股，總股本無變動。"
+    },
     {
       "id": "5192771",
       "time": "2026-11-04 16:19:48",
