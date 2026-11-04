@@ -1,7 +1,264 @@
 {
-  "updated": "2026-11-04 16:05:59",
-  "count": 12052,
+  "updated": "2026-11-04 16:09:49",
+  "count": 12077,
   "items": [
+    {
+      "id": "mkt:01a1a59a-e904-7ee0-aa66-2767e1412c51",
+      "time": "2026-11-04 16:09:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UEDA, governor of the BANK OF JAPAN, will visit the United States and Switzerland from Nov 5 to 10."
+    },
+    {
+      "id": "5192742",
+      "time": "2026-11-04 16:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲1.67%，恒生科技指數漲1.77%】華虹宏力漲15.67%，天數智芯漲12.78%，藥明生物漲12.54%，藥明康德漲12.27%，信義光能漲10.46%，百濟神州漲10.28%，智譜漲9.64%。"
+    },
+    {
+      "id": "mkt:01a1a59a-8f96-7ee0-aa66-1bde51822c4d",
+      "time": "2026-11-04 16:08:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "02359.HK"
+      ],
+      "text": "Hong Kong stocks closed higher. Hang Seng Index rose 1.67%, Hang Seng TECH Index rose 1.77%. Innovative-drug sector outperformed; WuXi AppTec (02359.HK) jumped 12.39%."
+    },
+    {
+      "id": "mkt:01a1a59a-8469-7ee0-aa66-17727ce8c5bb",
+      "time": "2026-11-04 16:08:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "EURUSD"
+      ],
+      "text": "Meta Platforms (META.O) launches six-tranche inaugural euro-denominated bond offering."
+    },
+    {
+      "id": "5192741",
+      "time": "2026-11-04 16:08:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家發展改革委：將建設一批骨幹農產品批發市場】在國家發展改革委今天舉行的“奮進‘十五五’”系列新聞釋出會上，經貿司副司長寇榮介紹，“十五五”期間，相關部門將進一步加強生鮮農產品產地市場體系和檢驗能力建設，加快補齊田頭預冷、產地冷鏈集配中心短板，建設一批骨幹農產品批發市場，努力降低生鮮農產品流通損耗。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1a59a-2fb3-7ee0-aa66-0d999c484965",
+      "time": "2026-11-04 16:08:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "U.S. stock index futures all turned positive; Nasdaq-100 futures had earlier been down more than 2%."
+    },
+    {
+      "id": "5192740",
+      "time": "2026-11-04 16:08:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團將以每股88000韓元收購SK Ecoplant股份。"
+    },
+    {
+      "id": "5192737",
+      "time": "2026-11-04 16:07:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Meta開始發售其六部分組成的首次歐元債券。"
+    },
+    {
+      "id": "mkt:01a1a599-926f-7ee0-aa66-03766e7827cd",
+      "time": "2026-11-04 16:07:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "S&P 500 index futures turned positive, erasing an earlier decline of as much as 1.4%."
+    },
+    {
+      "id": "5192736",
+      "time": "2026-11-04 16:07:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華鵬飛：控股股東張京豫質押627萬股公司股份】華鵬飛公告稱，公司控股股東、實際控制人張京豫於2026年11月3日將其持有的627萬股公司股份辦理質押，佔其所持股份比例7.10%，佔公司總股本比例1.12%，質權人為深圳市高新投融資擔保有限公司，質押用途為償還債務。本次質押後，張京豫及其一致行動人累計質押股份4304萬股，佔其所持股份比例35.70%，佔公司總股本比例7.66%。本次股份質押事項對公司生產經營、公司治理等均不產生影響。"
+    },
+    {
+      "id": "5192735",
+      "time": "2026-11-04 16:07:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男將於11月5日至10日前往美國和瑞士。"
+    },
+    {
+      "id": "te:markets:598005",
+      "time": "2026-11-04 16:07:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Cut Some Losses — US stock futures were mixed on Wednesday, with S&P 500 futures down 0.1% and Nasdaq 100 futures slipping 0.3%, while Dow Jones futures gained about 100 points as investors assessed the implications of the Democratic sweep of Congress.Futures pared some early losses after an initial slide as investors were said to be buying on the dip. Democrats won control of both the Senate and the House in the midterm elections. While a Democratic victory raises the prospect of tighter regulatory scrutiny, it is also seen as limiting the scope for further tax cuts and government spending. Hyperscalers were all lower in premarket trading, including Nvidia (-0.3%), Apple (-0.6%), Microsoft (-0.9%), Alphabet (-0.5%), Amazon (-0.9%), Meta (-0.5%). Tesla (-1.8%) and SpaceX (-1.8%) also booked losses. On the other hand, AMD jumped more than 5% after reporting stronger-than-expected earnings and revenue."
+    },
+    {
+      "id": "5192734",
+      "time": "2026-11-04 16:07:18",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會：10月1-31日，全國乘用車市場零售169.3萬輛，同比去年10月同期下降25%】據乘聯分會，10月1-31日，全國乘用車市場零售169.3萬輛，同比去年10月同期下降25%，較上月同期增長5%，今年以來累計零售1,502.7萬輛，同比下降22%；10月1-31日,全國乘用車廠商批發263.5萬輛，同比去年10月同期下降10%，較上月同期增長3%，今年以來累計批發2,237.2萬輛，同比下降6%。"
+    },
+    {
+      "id": "5192733",
+      "time": "2026-11-04 16:07:09",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會：10月1-31日，全國乘用車市場新能源車零售114.8萬輛，同比去年10月同期下降10%】據乘聯分會，10月1-31日，全國乘用車市場新能源車零售114.8萬輛，同比去年10月同期下降10%，較上月同期增長6%，今年以來累計零售890.7萬輛，同比下降12%；10月1-31日，全國乘用車廠商新能源批發180.7萬輛，同比去年10月同期增長12%，較上月同期增長8%，今年以來累計批發1,325.6萬輛，同比增長10%。"
+    },
+    {
+      "id": "5192732",
+      "time": "2026-11-04 16:06:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美股三大股指期貨悉數翻紅，納斯達克100指數期貨此前一度跌超2%。"
+    },
+    {
+      "id": "5192731",
+      "time": "2026-11-04 16:06:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百度披露Apollo World世界模型：讓AI教AI開車，已全無人運營超百萬公里】在百度AI Day Apollo專場上，百度Apollo首次披露面向物理AI的智慧體驅動全模態世界模型Apollo World，並提出世界模型“2+3”判斷標準。目前，該模型已用於蘿蔔快跑全球化測試與驗證，端到端全無人運營超百萬公里，助力無人駕駛規模化落地。據悉，目前蘿蔔快跑已落地全球28座城市，累計完成超2300萬次出行服務，自動駕駛總里程突破3.5億公里，其中全無人駕駛里程超過2.4億公里，並已在左右舵市場開展無人駕駛實踐。依託真實駕駛資料，Apollo World提取高價值場景，虛擬測試結果再反哺車端迭代，形成真實運營與虛擬驗證相互促進的閉環。（新浪科技）"
+    },
+    {
+      "id": "5192730",
+      "time": "2026-11-04 16:06:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4030美元/盎司，日內漲2.57%。"
+    },
+    {
+      "id": "te:markets:598004",
+      "time": "2026-11-04 16:06:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Italy Hit 4-week High — IT40 increased to 50395.00 Index Points, the highest since October 2026. Over the past 4 weeks, Italy Stock Market Index (IT40) lost 0.86%, and in the last 12 months, it increased 15.98%."
+    },
+    {
+      "id": "5192729",
+      "time": "2026-11-04 16:05:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4040美元/盎司，日內漲2.53%。"
+    },
+    {
+      "id": "mkt:01a1a597-a05f-7ee0-aa65-f8b5b76ddb51",
+      "time": "2026-11-04 16:05:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CHINA STATE PLANNER issues Public Credit Information Catalogue for Bidding and Tendering (2026)】CHINA STATE PLANNER has issued the Public Credit Information Catalogue for the Bidding and Tendering Sector (2026 edition). The catalogue was compiled under the National Public Credit Information Basic Catalogue to implement the Interim Measures for Credit Management in the Bidding and Tendering Sector (Order No.44 of CHINA STATE PLANNER and other departments)."
+    },
+    {
+      "id": "5192728",
+      "time": "2026-11-04 16:05:35",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利：將AMD目標價從510美元上調至550美元。"
+    },
+    {
+      "id": "mkt:01a1a597-7dd4-7ee0-aa65-f433e29b0a98",
+      "time": "2026-11-04 16:05:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Julius Baer says divided U.S. government could support Treasuries】Julius Baer chief investment officer Andrew Jackson said in a note that after Republicans lost majority control of both chambers of Congress, a divided government — with different parties controlling the two houses — could support U.S. Treasuries by limiting further fiscal expansion. He warned, \"Blocking new spending is not the same as reducing the existing fiscal deficit.\" Jackson said persistent deficits and heavy Treasury issuance could still cap downside in long-term U.S. yields even if Congress increases checks on the Trump administration. He added that inflation dynamics and Fed policy are likely to matter more for the bond market than the election outcome, and a renewed rise in energy prices would complicate the outlook."
+    },
+    {
+      "id": "5192727",
+      "time": "2026-11-04 16:05:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發改委印發《招標投標領域公共信用資訊目錄（2026年版）》】據國家發改委，為落實《招標投標領域信用管理暫行辦法》（國家發展改革委等部門令第44號），國家發展改革委根據《全國公共信用資訊基礎目錄》，編制了《招標投標領域公共信用資訊目錄（2026年版）》，現予以印發。"
+    },
+    {
+      "id": "mkt:01a1a597-6c73-7ee0-aa65-ece2212c8a64",
+      "time": "2026-11-04 16:05:26",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "MORGAN STANLEY raised its PT on AMD (AMD.O) to $550 from $510."
+    },
+    {
+      "id": "5192726",
+      "time": "2026-11-04 16:05:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【佈局歐洲智慧家儲 章魚能源、新能安與寧德時代簽署MOU】近日，英國最大能源公司章魚能源(Octopus Energy)、新能安與寧德時代簽署戰略合作備忘錄(MoU)。三方將共同探索麵向歐洲市場的智慧家用儲能解決方案。這是繼今年6月歐洲重卡換電合作後，章魚能源與寧德時代在家庭能源場景的延伸。"
+    },
+    {
+      "id": "te:markets:598003",
+      "time": "2026-11-04 16:05:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 3.82% — Top commodity gainers are Silver (3.82%), Gold (2.41%) and Iron Ore CNY (1.71%). Biggest loser is Lithium Carbonate (-1.01%)."
+    },
     {
       "id": "5192725",
       "time": "2026-11-04 16:04:39",
@@ -111006,18 +111263,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Rice Gains by 0.82% — Top commodity gainer is Rice (0.82%). Biggest loser is Rubber (-0.70%)."
-    },
-    {
-      "id": "te:markets:595721",
-      "time": "2026-10-28 16:07:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Thailand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Thai Baht Under Pressure — The Thai baht traded around 33.8 per US dollar, hovering near its weakest level since July, as the Bank of Thailand maintained its accommodative monetary stance. The central bank unanimously kept its policy rate unchanged at 1.00% for a fourth consecutive meeting, as expected, stating that the current rate remains appropriate to support the economic recovery, diverging from regional peers that have tightened policy to curb inflation. The decision reinforced expectations of persistently low domestic borrowing costs, limiting the baht’s yield appeal amid a firmer US dollar. Policymakers raised its GDP growth forecasts to 2.4% for 2026 and 2.1% for 2027, from 2.3% and 1.8%, respectively, in its June projections, but noted that growth remains below potential. Meanwhile, elevated oil prices are increasing Thailand’s energy import bill, adding to external pressures as the trade deficit widened to $5.86 billion in September from $2.48 billion in August."
     }
   ]
 }
