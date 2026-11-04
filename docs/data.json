@@ -1,7 +1,78 @@
 {
-  "updated": "2026-11-05 06:27:06",
-  "count": 11835,
+  "updated": "2026-11-05 06:31:04",
+  "count": 11840,
   "items": [
+    {
+      "id": "te:markets:598326",
+      "time": "2026-11-05 06:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Oil Plunges by 8.66% — Top commodity losers are Brent Oil (-8.66%), Crude Oil (-8.38%) and Natural Gas EU (-7.69%). Gains are led by Natural gas (1.90%)."
+    },
+    {
+      "id": "5194240",
+      "time": "2026-11-05 06:30:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公募機構持續自購旗下基金 權益產品受青睞】近期，公募機構持續運用自有資金投資旗下基金，部分機構透過多次申購同一產品持續佈局。 隨著公募基金三季報披露收官，公募機構自購情況進一步明晰。機構持續自購背後的投資邏輯及其對基金運作、投資者信心的影響受到關注。（證券日報）"
+    },
+    {
+      "id": "5194239",
+      "time": "2026-11-05 06:29:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【10月份私募機構調研超5300次 電子等四大行業關注度居前】10月份私募機構調研保持較高積極性。私募排排網資料顯示，當月共有1037傢俬募機構參與A股上市公司調研活動，合計調研5310次，調研範圍覆蓋463只個股。 從行業分佈看，私募調研呈現出一定的集中特徵。10月份，13個申萬一級行業獲得私募機構調研次數不少於100次，其中電子、醫藥生物、電力裝置、機械裝置四大行業被調研次數均超過500次。具體來看，10月份，電子行業被私募機構調研986次，居各行業首位，涉及73只個股；醫藥生物行業的62家上市公司合計被私募機構調研976次；電力裝置、機械裝置行業均被私募機構調研超過500次。上述四大行業合計被私募機構調研3039次，佔總調研次數的57.23%，顯示10月份私募機構調研行業集中度較高。 （證券日報）"
+    },
+    {
+      "id": "5194237",
+      "time": "2026-11-05 06:28:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首批18只主動ETF完成募集 合計資金達360億元】11月4日晚，建信基金髮布公告稱，旗下建信均衡優選主動管理ETF（交易型開放式指數基金）提前結束募集。隨著這隻產品收官，國內首批18只主動ETF已全部完成募集，合計募集資金達360億元。（證券日報）"
+    },
+    {
+      "id": "5194236",
+      "time": "2026-11-05 06:27:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受持續乾旱影響 西班牙“降水量最高城市”面臨水資源危機】據西班牙方面當地時間11月3日訊息，素有“西班牙降水量最高城市”之稱的加利西亞自治區重鎮比哥正面臨一場嚴重的水資源危機。受持續乾旱及降雨量大幅減少影響，當地主要水庫蓄水量急劇下降，引發地方政府與自治區層面關於是否進入“緊急狀態”的激烈爭議。據悉，作為比哥及周邊共9個市鎮主要水源地的埃拉斯水庫，目前蓄水量已跌至33.6%的極低水平，而去年同期該數值曾高達77.3%。比哥市長阿貝爾·卡瓦列羅公開警告稱，按照當前的消耗速度，全市具備完全質量保證的優質飲用水僅能維持22天。卡瓦列羅嚴厲批評加利西亞自治區政府至今未將該地區列入“緊急狀態”，並呼籲上級部門立即採取實質性干預措施。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1a8ab-e5c0-7ee0-aa7c-70ceb1a1222f",
+      "time": "2026-11-05 06:26:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Trump says he can cooperate with Democrats on many issues but rules out removing tariffs】President Trump told CNBC on Wednesday he could work with a Democratic-majority in the next Congress on “many issues,” including fiscal proposals he said would be mutually beneficial. He ruled out removing tariffs, insisting that lifting them would force construction on roughly 3,000 factories now underway to stop."
+    },
+    {
+      "id": "mkt:01a1a8ab-a5b2-7ee0-aa7c-694cfa71fa92",
+      "time": "2026-11-05 06:26:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) CEO expects to retain over 70% share in next-generation Samsung smartphones."
+    },
     {
       "id": "5194235",
       "time": "2026-11-05 06:25:44",
@@ -108891,29 +108962,6 @@
         "國際"
       ],
       "text": "【報道：銀行業擱置與Anthropic相關的美國得州資料中心債券發行】在美國得克薩斯州因評估電網風險而暫停新專案審批後，銀行正推遲出售一筆150億美元貸款中用於資助與Anthropic PBC相關資料中心的債券發行計劃。此次債券發行推遲發生在Anthropic正為其大規模首次公開募股（IPO）前大舉投資計算基礎設施之際，這將迫使銀行在資產負債表上持有這筆債務的時間長於原計劃。由摩根士丹利牽頭的貸款方已籌集約150億美元，用於資助位於得克薩斯州韋科附近哈伯德（Hubbard）的資料中心建設。據知情人士透露，銀行原本希望在9月向高收益債券投資者出售50億-70億美元，以對部分貸款進行再融資。現在銷售可能在未來一年內分批進行。該債務包包括一筆142億美元的一年期貸款和一筆14億美元的五年期迴圈信貸額度，貸款方正尋求透過高收益債券投資者對部分貸款進行再融資。"
-    },
-    {
-      "id": "te:markets:595987",
-      "time": "2026-10-29 06:30:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Germany Natural Gas THE Rises by 4.59% — Top commodity gainers are Germany Natural Gas THE (4.59%), Natural Gas EU (2.40%), Natural Gas UK (2.22%), Crude Oil (2.05%) and Brent Oil (0.15%). Biggest loser is Methanol (-2.24%)."
-    },
-    {
-      "id": "te:markets:595986",
-      "time": "2026-10-29 06:29:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Hindustan Unilever earnings above expectations at 12.10 INR — Hindustan Unilever (HUVR) released earnings per share at 12.10 INR, compared to market expectations of 11.76 INR."
     }
   ]
 }
