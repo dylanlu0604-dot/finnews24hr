@@ -1,7 +1,139 @@
 {
-  "updated": "2026-11-05 00:28:21",
-  "count": 12073,
+  "updated": "2026-11-05 00:32:27",
+  "count": 12078,
   "items": [
+    {
+      "id": "5193898",
+      "time": "2026-11-05 00:31:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛爾蘭截至10月底的2026年所得稅收入同比增長8.4%，增值稅同比增長7.3%，年初至今企業稅（不含蘋果稅款）同比增長23.4%。"
+    },
+    {
+      "id": "te:markets:598249",
+      "time": "2026-11-05 00:31:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Drops to Four-Month Low — US gasoline futures traded around $2.82 per gallon, holding close to a four-month low as markets weighed diplomatic efforts between Washington and Tehran against persistently tight supplies. Ongoing negotiations helped ease concerns over disruptions to the Strait of Hormuz, with flows reportedly nearing normal levels. US President Trump said he has no immediate plans to strike Iran following a Democratic sweep in the US midterm elections, weighing on prices as the political outcome could complicate the President's foreign policy. However, tight US gasoline inventories remain a concern, with EIA data showing a 222,000-barrel draw in the week ending October 30th. Energy Secretary Wright said the administration is working with refiners to boost output and restart idled facilities, adding that prices peaked in September and should decline further. Still, seasonal refinery maintenance and a shift toward diesel production ahead of winter could constrain gasoline supply."
+    },
+    {
+      "id": "5193897",
+      "time": "2026-11-05 00:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛爾蘭截至10月底的2026年稅收收入同比增長10.3%（不含蘋果補繳稅款），總投票支出同比增長7.4%。"
+    },
+    {
+      "id": "mkt:01a1a766-3728-7ee0-aa77-58b0ff82783a",
+      "time": "2026-11-05 00:30:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK 30-year gilt yield fell about 11 bps to 5.595%, the lowest since July 10."
+    },
+    {
+      "id": "5193896",
+      "time": "2026-11-05 00:30:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "參議院民主黨領袖舒默：存在如此嚴重的腐敗，必須展開調查。"
+    },
+    {
+      "id": "te:markets:598247",
+      "time": "2026-11-05 00:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Oil is down by 5% — Brent Oil decreased 5% to 98.421 USD/Bbl"
+    },
+    {
+      "id": "5193895",
+      "time": "2026-11-05 00:30:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌5%，現報98.41美元/桶。"
+    },
+    {
+      "id": "mkt:01a1a765-30ce-7ee0-aa77-53b42b9cb597",
+      "time": "2026-11-05 00:29:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SCHUMER: With or without President Trump, we will push to reduce costs."
+    },
+    {
+      "id": "mkt:01a1a764-f92b-7ee0-aa77-4e0cee1a3cfe",
+      "time": "2026-11-05 00:29:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US has extended its national emergency with respect to Nicaragua through November 2027."
+    },
+    {
+      "id": "5193894",
+      "time": "2026-11-05 00:29:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "參議院民主黨領袖舒默：無論有沒有美國總統特朗普，都將推動成本下降。"
+    },
+    {
+      "id": "mkt:01a1a764-9079-7ee0-aa77-41bd9a7929cc",
+      "time": "2026-11-05 00:29:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senate minority leader Schumer said he will end the war and that some Republicans have joined him."
+    },
+    {
+      "id": "te:markets:598246",
+      "time": "2026-11-05 00:28:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Itau Unibanco Holding earnings below expectations at 0.20 BRL — Itau Unibanco Holding (ITUB) released earnings per share at 0.20 BRL, compared to market expectations of 0.23 BRL."
+    },
+    {
+      "id": "mkt:01a1a764-0faf-7ee0-aa77-3db6612be263",
+      "time": "2026-11-05 00:28:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK 10-year government bond yield fell 12 bps to 5.143%, its lowest since Sept. 4."
+    },
+    {
+      "id": "5193893",
+      "time": "2026-11-05 00:27:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "參議院民主黨領袖舒默：尚未與總統交談。"
+    },
     {
       "id": "5193892",
       "time": "2026-11-05 00:27:28",
@@ -111294,93 +111426,6 @@
         "國際"
       ],
       "text": "荷蘭首相耶滕：（美國）購買俄羅斯能源是非常愚蠢的想法。我可以向你們保證，未來幾年內不會有任何歐洲領導人願意購買俄羅斯天然氣。我們希望的是俄羅斯停止這場衝突。"
-    },
-    {
-      "id": "5176865",
-      "time": "2026-10-29 00:30:56",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤漲跌不一】歐洲STOXX 600指數上漲0.06%，歐洲斯托克指數上漲0.07%；歐元區藍籌股上漲0.06%。法國CAC40指數上漲0.07%，西班牙IBEX指數下跌1.45%，英國富時100指數上漲0.05%，德國DAX指數上漲0.42%。"
-    },
-    {
-      "id": "5176864",
-      "time": "2026-10-29 00:29:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌宣佈，AlloyDB Omni Web UI面向Red Hat和容器全面可用。"
-    },
-    {
-      "id": "5176863",
-      "time": "2026-10-29 00:29:44",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：西班牙火車事故致數名美國公民受傷。"
-    },
-    {
-      "id": "5176862",
-      "time": "2026-10-29 00:29:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲天然氣價格自2022年能源危機以來首次突破100歐元。"
-    },
-    {
-      "id": "5176861",
-      "time": "2026-10-29 00:28:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "菲利普斯66公司在電話會議上表示，已按低於當前貨運市場的價格簽訂了40艘額外船隻的合同，預計將對煉油業務帶來益處。"
-    },
-    {
-      "id": "te:markets:595919",
-      "time": "2026-10-29 00:28:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Spain",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Ferrovial earnings below expectations at 0.28 EUR — Ferrovial (FER) released earnings per share at 0.28 EUR, compared to market expectations of 0.33 EUR."
-    },
-    {
-      "id": "te:markets:595918",
-      "time": "2026-10-29 00:28:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Orange earnings above expectations at 0.33 EUR — Orange (ORA) released earnings per share at 0.33 EUR, compared to market expectations of 0.21 EUR."
-    },
-    {
-      "id": "te:markets:595917",
-      "time": "2026-10-29 00:28:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Maruti Suzuki earnings below expectations at 76.80 INR — Maruti Suzuki (MSIL) released earnings per share at 76.80 INR, compared to market expectations of 123.18 INR."
-    },
-    {
-      "id": "5176860",
-      "time": "2026-10-29 00:28:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：柴油價格將大幅下降，阿拉伯灣柴油出口可能增加。"
     }
   ]
 }
