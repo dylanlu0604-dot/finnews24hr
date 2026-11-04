@@ -1,7 +1,91 @@
 {
   "date": "2026-11-04",
-  "count": 854,
+  "count": 863,
   "items": [
+    {
+      "id": "te:markets:597878",
+      "time": "2026-11-04 10:21:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Steady as US Midterms, Iran Talks in Focus — Gold prices were little changed around $3,930 an ounce on Wednesday as investors tracked Middle East diplomacy and awaited US midterm results for clues on interest rates and fiscal policy. Early results showed Democrats making gains and leading in key races, raising the prospect of a shift in congressional control that could constrain President Donald Trump’s agenda and affect expectations for US spending and debt. Meanwhile, mixed signals on US-Iran negotiations continued to lend support to bullion, while oil hovered near a four-week low as Tehran and Washington reviewed proposals from mediators following reported US airstrikes on Iran’s Qeshm Island. Lower energy prices could ease inflation concerns and reduce expectations of prolonged monetary tightening, further supporting non-yielding gold. However, markets still see a 78% chance of a Fed rate hike in December, according to CME’s FedWatch Tool."
+    },
+    {
+      "id": "5192017",
+      "time": "2026-11-04 10:21:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【衛星導航板塊短線拉昇，上海滬工漲停】衛星導航板塊短線拉昇，上海滬工漲停，電科藍天、中國衛星、西側測試、通宇通訊跟漲。"
+    },
+    {
+      "id": "5192016",
+      "time": "2026-11-04 10:21:04",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【國臺辦：民進黨當局種種惡行是對“中山精神”的背叛】國務院臺辦舉行例行新聞釋出會，有記者就臺陸委會稱孫中山與中國共產黨“有差別”相關言論提問。對此，發言人朱鳳蓮表示，孫中山先生是偉大的民族英雄、偉大的愛國主義者、中國民主革命的偉大先驅。今年是孫中山先生誕辰160週年，大陸有關方面透過各種形式舉辦紀念活動，很多臺灣同胞在島內也舉辦紀念活動，共同表達對孫中山先生的敬仰、繼承和發揚他的寶貴精神。中國共產黨人是孫中山先生革命事業最堅定的支持者、最忠誠的合作者、最忠實的繼承者。在中國共產黨領導下，中國人民經過百餘年奮鬥，取得了舉世公認的偉大成就，孫中山先生擘畫的很多藍圖在今天已經變成了現實，我們成功走出了一條中國式現代化道路，中華民族偉大復興勢不可擋，祖國統一前景一片光明。民進黨當局頑固堅持“臺獨”分裂立場，拒不承認體現一箇中國原則的“九二共識”，不斷扭曲臺灣同胞抵禦外侮的光榮歷史，持續淡化、美化日本殖民統治，對外部勢力奴顏婢膝，甚至阻撓臺灣同胞參與大陸舉辦的紀念孫中山先生誕辰160週年活動，民進黨當局犯下種種惡行，是對孫中山先生高尚人格的褻瀆，也是對“中山精神”的背叛。正告民進黨當局，歷史不容背叛，大勢不可阻擋，祖國統一終將實現也必然實現。"
+    },
+    {
+      "id": "mkt:01a1a45b-94e0-7ee0-aa5b-62994f9975d4",
+      "time": "2026-11-04 10:20:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's financial regulator announced new sanctions targeting stock market violations."
+    },
+    {
+      "id": "mkt:01a1a45b-5f50-7ee0-aa5b-5ec2127b9036",
+      "time": "2026-11-04 10:20:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【Decision Desk HQ projects Democrats regain control of U.S. House, creating divided government】Decision Desk HQ (per The Hill) projected on Tuesday that Democrats have won control of the U.S. House, returning to the majority after four years in the minority and ushering in a divided government. The shift will immediately constrain the White House legislative agenda and set up clashes between the House and White House on immigration enforcement, government spending, Trump’s global tariff policy and potential action on Iran. Democrats have pledged broad investigations into Trump and his inner circle, focusing on the Epstein scandal, violence tied to mass deportation operations and the finances of Trump and his family, increasing oversight and political risk heading into next year."
+    },
+    {
+      "id": "5192015",
+      "time": "2026-11-04 10:20:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼金融監管機構宣佈針對股市違規行為的新制裁措施。"
+    },
+    {
+      "id": "5192014",
+      "time": "2026-11-04 10:19:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【概倫電子、麒麟軟體與海光資訊達成戰略合作】近日，海光資訊、麒麟軟體與概倫電子簽署戰略合作協議。三方將圍繞海光晶片、銀河麒麟作業系統與概倫電子EDA工具鏈協同適配，提升國產EDA工具執行的流暢性與穩定性，推動軟硬體協同應用與共建國產晶片設計生態，加強EDA與國產軟硬體領域的複合型人才培養。"
+    },
+    {
+      "id": "5192013",
+      "time": "2026-11-04 10:19:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數跌破61,000點。"
+    },
+    {
+      "id": "5192012",
+      "time": "2026-11-04 10:18:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【投資者擔心民主黨掌控國會不利於馬斯克系公司  SpaceX、特斯拉股票盤後下跌】投資者認為，民主黨掌控國會將給馬斯克系公司帶來麻煩。持有重大政府合同的SpaceX股票在盤後交易中下跌近1.7%。特斯拉股價跌幅相近。預測市場顯示，民主黨奪回國會參眾兩院的機率徘徊在99%左右。其他人工智慧相關股票也在盤後交易中下跌，原因是市場擔心週二的選舉結果可能導致資料中心建設面臨更嚴格監管。"
+    },
     {
       "id": "mkt:01a1a459-45af-7ee0-aa5b-53c7d3cdd568",
       "time": "2026-11-04 10:17:56",
