@@ -1,7 +1,92 @@
 {
   "date": "2026-11-04",
-  "count": 832,
+  "count": 841,
   "items": [
+    {
+      "id": "5192003",
+      "time": "2026-11-04 10:12:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【後摩智慧完成數十億元B輪融資，端側大模型AI晶片進入規模化兌現期】存算一體AI晶片企業後摩智慧已於近期完成B輪融資，單筆融資金額高達數十億元人民幣，近一年內連續完成多輪融資。本輪融資上下游重磅產業資本集體押注、國有資本及國際投資人聯袂入局，多家老股東持續加碼，進一步印證了國內外資本市場對後摩智慧技術路線與商業前景的高度認可。"
+    },
+    {
+      "id": "mkt:01a1a454-6cc2-7ee0-aa5b-32a00b966094",
+      "time": "2026-11-04 10:12:38",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact mixed",
+        "Nasdaq100"
+      ],
+      "text": "【Analysis: US equity reaction to midterms hinges on gap between results and market expectations】Market strategist James Ooi said US equities' response to the midterms will depend less on which party wins than on how far outcomes deviate from market-priced expectations. A clearer post-election political map should ease some of the uncertainty currently depressing sentiment. If Republicans outperform expectations, sectors that benefit from policy continuity could gain. A split between the White House and Congress may slow legislation while limiting major policy shifts. Ooi also flagged the Texas governor race as market-relevant given Texas's rising role as a destination for AI data-center investment."
+    },
+    {
+      "id": "5192002",
+      "time": "2026-11-04 10:11:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【拓竹釋出新款3D印表機H3C】11月3日晚，拓竹釋出新款3D印表機H3C。據瞭解，H3C標配9個採用硬化鋼噴嘴的列印頭，其中8個用於多材料及全綵列印，另1個專門支援2.85毫米規格的75A TPU柔性耗材。上述共同構成了最多支援9種材料的列印系統，可在6秒內完成材料切換，且無需沖刷。"
+    },
+    {
+      "id": "mkt:01a1a453-067f-7ee0-aa5b-2c14304f7e4e",
+      "time": "2026-11-04 10:11:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Election forecaster Decision Desk HQ (DDHQ) forecasts Democrats will win control of the US House of Representatives."
+    },
+    {
+      "id": "5192001",
+      "time": "2026-11-04 10:11:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "DDHQ預測，民主黨贏得美國眾議院控制權。"
+    },
+    {
+      "id": "mkt:01a1a452-a575-7ee0-aa5b-25f705d8d0d6",
+      "time": "2026-11-04 10:10:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chief Cabinet Secretary Kihara said the U.S.-Japan alliance is vital and Japan will maintain close cooperation with the United States."
+    },
+    {
+      "id": "te:markets:597873",
+      "time": "2026-11-04 10:10:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Rebound as Beijing Steps Up Market Support — The Shanghai Composite edged higher to around 3,609 on Wednesday, while the Shenzhen Component rose 0.6% to 10,942, rebounding from the previous session as Beijing expanded its share buyback and relending facilities. The PBoC reported that applications for its stock-purchase loan program topped 200 billion yuan ($30 billion), a swift response to a recent regulatory meeting aimed at streamlining buyback financing. These aggressive interventions underscore Beijing’s commitment to steadying equities amid soft consumer demand, sluggish broad economy, and a deep property downturn. On the economic front, a private survey showed that the Composite PMI edged down to a three-month low of 52 in October from 52.4 in September, with the Manufacturing PMI slightly easing to 52 from 52.1 and the Services PMI falling to a three-month low of 50.8 from 51.6. Gains were widespread across major tickers, led by WuXi AppTec (3.9%), NAURA Technology (2.5%), and Foxconn Industrial Internet (2%)."
+    },
+    {
+      "id": "mkt:01a1a452-7488-7ee0-aa5b-1d65a1e3ef20",
+      "time": "2026-11-04 10:10:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Chief Cabinet Secretary Kihara said he would not comment on the U.S. midterm elections."
+    },
+    {
+      "id": "te:markets:597872",
+      "time": "2026-11-04 10:10:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Falls on Strong Democratic Showing — The US dollar index fell below 101.5 on Wednesday, hitting a five-week low as investors monitored incoming midterm election results, with early polls indicating a potentially strong performance by Democrats. Markets are assessing the possibility of Democrats gaining control of both the House of Representatives and the Senate, raising prospects of a political gridlock in Washington and lower government spending. A Democratic sweep could also pave the way for tighter AI regulations and greater corporate oversight, potentially weighing on the economic growth outlook. On the geopolitical front, investors are closely monitoring whether President Trump will resume military strikes against Iran following the election, as both sides continue to struggle to reach a diplomatic settlement. Meanwhile, attention is turning to the closely watched US jobs report due later this week, which could offer fresh indications of labor market strength and shape expectations for Federal Reserve policy."
+    },
     {
       "id": "mkt:01a1a452-0363-7ee0-aa5b-141272290a9d",
       "time": "2026-11-04 10:10:00",
