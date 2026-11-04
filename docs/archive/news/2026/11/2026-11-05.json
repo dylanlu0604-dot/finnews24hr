@@ -1,7 +1,26 @@
 {
   "date": "2026-11-05",
-  "count": 423,
+  "count": 425,
   "items": [
+    {
+      "id": "mkt:01a1a89f-d215-7ee0-aa7c-571457b27c92",
+      "time": "2026-11-05 06:13:28",
+      "tags": [
+        "MKT News",
+        "00697.HK"
+      ],
+      "text": "Shoucheng Holdings (00697.HK) said a fund managed by its Shoucheng Capital recently invested in robotics technology firm Jianzhi."
+    },
+    {
+      "id": "mkt:01a1a89d-98b7-7ee0-aa7c-492a12f9231f",
+      "time": "2026-11-05 06:11:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU official: Bosnia made no substantive progress on integration in past year】EU head of delegation to Bosnia and Herzegovina Luigi Soreca said on the 4th that Bosnia made no substantive progress toward European integration over the past year. He warned that if Bosnia fails to meet conditions to implement the Western Balkans Growth Plan by year-end, the EU may further cut its funding support."
+    },
     {
       "id": "mkt:01a1a89d-2563-7ee0-aa7c-4493b7bf34a5",
       "time": "2026-11-05 06:10:33",
