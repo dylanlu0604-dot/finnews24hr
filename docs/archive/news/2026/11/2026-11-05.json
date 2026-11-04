@@ -1,7 +1,42 @@
 {
   "date": "2026-11-05",
-  "count": 122,
+  "count": 126,
   "items": [
+    {
+      "id": "5193947",
+      "time": "2026-11-05 01:16:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：眾議院民主黨領導層選舉將於11月18日至19日舉行。"
+    },
+    {
+      "id": "5193946",
+      "time": "2026-11-05 01:16:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院民主黨領袖傑弗里斯：民主黨將在眾議院至少贏得255個席位。"
+    },
+    {
+      "id": "5193945",
+      "time": "2026-11-05 01:13:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【西班牙請求歐盟鐵路局協助調查高鐵事故】歐盟委員會可持續交通和旅遊專員阿波斯托洛斯·齊齊科斯塔斯4日表示，西班牙方面當天上午請求歐盟鐵路局提供技術支援，協助調查10月28日在西班牙卡斯蒂利亞－拉曼查自治區發生的高速列車事故，相關援助已在進行。 齊齊科斯塔斯當天在布魯塞爾舉行的新聞釋出會上表示，事故原因仍在調查中，歐盟方面將為西班牙提供技術支援。 10月28日發生的這起事故造成69人死亡，目前由西班牙獨立交通事故調查機構負責調查。 齊齊科斯塔斯表示，西班牙一年內發生兩起重大列車事故令人擔憂，尤其是事故造成了人員傷亡。他說，歐盟委員會將繼續監督各成員國落實歐盟鐵路安全規則。 齊齊科斯塔斯還呼籲，儘快在所有鐵路線路上部署歐洲鐵路交通管理系統，以提高歐洲鐵路網的安全水平。(新華社)"
+    },
+    {
+      "id": "te:markets:598264",
+      "time": "2026-11-05 01:13:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Rebounds From 16-Month Low — Palladium futures rose above $935 an ounce but remained near their lowest level since June 2025, following a Democratic sweep in the US midterm elections. The results could complicate President Trump’s foreign policy agenda and efforts to secure additional funds for the war with Iran. Still, markets continue to price in further monetary tightening as still elevated energy costs linked to the Middle East conflict fuel inflation concerns. Higher rates put downward pressure in investment demand for the non-yielding metal. Meanwhile, the auto sector, which accounts for over 80% of palladium demand, faces pressure from rapid EV adoption, weak vehicle sales and tighter consumer spending amid the conflict. Still, a modest recovery is expected in 2027 amid stable hybrid-catalyst driven demand. Constrained output from Russia, the world's largest palladium producer, offers some support, with Nornickel warning that an overhaul at one of its plants could extend into 2028."
+    },
     {
       "id": "te:markets:598263",
       "time": "2026-11-05 01:12:12",
