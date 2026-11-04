@@ -1,7 +1,52 @@
 {
   "date": "2026-11-04",
-  "count": 965,
+  "count": 971,
   "items": [
+    {
+      "id": "mkt:01a1a478-5a72-7ee0-aa5c-7bb1a59675ed",
+      "time": "2026-11-04 10:51:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Decision Desk HQ (DDHQ) projects Republican Alan Wilson to win the South Carolina gubernatorial race."
+    },
+    {
+      "id": "5192081",
+      "time": "2026-11-04 10:51:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "DDHQ預測ALAN WILSON當選美國南卡羅來納州州長。"
+    },
+    {
+      "id": "te:markets:597895",
+      "time": "2026-11-04 10:50:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Bitcoin Falls as US Midterm Results Roll In — Bitcoin fell toward $76,000 on Wednesday, reaching its lowest level since mid-September, as early US midterm election results pointed to potential Democratic gains in Congress. This raised uncertainty over the outlook for crypto-related legislation, as a Democratic takeover could complicate efforts to advance industry-backed measures, including the Clarity Act, and alter the regulatory priorities of Congress. The cryptocurrency also remained under pressure from lingering fallout from last week's $6.3 billion Binance hack and subdued retail demand amid the growing appeal of artificial intelligence investments. Bitcoin has now lost around 6% over the past week. Meanwhile, US-listed spot Bitcoin ETFs saw more than $1 billion in outflows on Friday and Monday as investors increased downside protection ahead of the elections."
+    },
+    {
+      "id": "5192080",
+      "time": "2026-11-04 10:49:11",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【上海交警主動聯絡臺灣演員明道歸還其遺失物 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問：近日，臺灣演員明道及其團隊在上海遺失一隻手包，當地交警主動聯絡歸還。明道向上海交警送錦旗表達謝意，並表示“只有我們中國能做到，這說明我們治安好，什麼都沒丟”，受到兩岸網友廣泛好評，請問對此有何評論？發言人朱鳳蓮表示：“我也看到了有關的報道，的確很溫暖動人。”朱鳳蓮指出，拾金不昧是我們的傳統美德，也是我們現在生活常態。大陸是世界上最安全的地區之一，廣大臺灣同胞在大陸工作生活，是切身體會到了安全感、幸福感。我們熱忱歡迎更多臺灣同胞，特別是青年朋友，來大陸“開箱”各種體驗，實地瞭解大陸的萬千氣象和蓬勃活力。"
+    },
+    {
+      "id": "5192079",
+      "time": "2026-11-04 10:48:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "丸紅CEO：我們預計2026財年美國政策不會有任何重大變化。"
+    },
     {
       "id": "mkt:01a1a474-a5c1-7ee0-aa5c-75b8c4dc34ba",
       "time": "2026-11-04 10:47:50",
@@ -77,6 +122,15 @@
         "Importance 1"
       ],
       "text": "European Natural Gas Prices Steady — European natural gas prices stabilized above €92/MWh on Wednesday after two straight days of declines, as the market weighed diplomatic efforts to end the Middle East conflict against concerns that continued attacks could further disrupt energy supplies. Qatar continues its mediation efforts to ease tensions between the US and Iran, with both sides reportedly reviewing fresh proposals to resolve their differences. The talks come amid continued Iranian strikes on commercial vessels in the Strait of Hormuz, while the US conducted limited defensive strikes on Iranian targets. Still, supply concerns persisted amid rising heating demand and Europe's storage levels remaining below seasonal targets. Germany’s storage facilities were around 61% full, below the government’s 70% target, while EU-wide reserves remained below 75%, the lowest level recorded for this time of year. With temperatures across Northwest Europe expected to fall further this week, heating demand is likely to increase."
+    },
+    {
+      "id": "em:jjsj_zgsj:202611043921441735",
+      "time": "2026-11-04 10:45:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【中國黃金協會：2026年前三季度我國黃金消費量同比增長0.28%】中國黃金協會最新統計資料顯示：2026年前三季度，我國黃金消費量684.623噸，同比增長0.28%。其中，黃金首飾178.612噸，同比下降33.86%；金條及金幣444.576噸，同比增長26.26%；工業及其他用金61.434噸，同比增長1.41%。前三季度，國內黃金ETF累計增倉量為56.114噸，同比下降28.98%。截至9月底，國內黃金ETF持倉量為303.965噸。"
     },
     {
       "id": "5192075",
