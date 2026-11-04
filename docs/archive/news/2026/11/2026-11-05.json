@@ -1,7 +1,2346 @@
 {
   "date": "2026-11-05",
-  "count": 161,
+  "count": 416,
   "items": [
+    {
+      "id": "5194220",
+      "time": "2026-11-05 06:00:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【10月中國大宗商品價格指數同比上漲21.0%】據中國物流與採購聯合會訊息，10月份中國大宗商品價格指數為137.0點，同比上漲21.0%。從指數執行情況看，中國大宗商品價格指數同比保持較大漲幅，表明大宗商品市場總體執行平穩，整體好於去年同期。（央視新聞）"
+    },
+    {
+      "id": "5194219",
+      "time": "2026-11-05 06:00:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月中國電商物流指數持續回暖向好 旺季履約保障有力】中國物流與採購聯合會今天釋出10月份中國電商物流指數。10月份中國電商物流指數環比小幅回升，電商物流供給端提質增效，旺季履約保障有力。10月份中國電商物流指數為112.1點，環比回升0.2點。分項指數走勢分化，供給端改善成為主要亮點。具體來看，供給側庫存週轉率指數、物流時效指數等分項指數有所回升，需求側總業務量指數、農村業務量指數、成本指數等小幅回落。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1a893-8102-7ee0-aa7c-29353065bd0b",
+      "time": "2026-11-05 06:00:01",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "【Meta Platforms issues €9 billion senior bonds】Meta Platforms (META.O) sold €9 billion of senior bonds on Nov. 4 across six tranches maturing 2031–2065, with coupons from 4.30% to 6.40%. Bonds are rated Moody’s Aa3 (stable) and S&P AA- (negative). Citigroup and Morgan Stanley were joint bookrunners."
+    },
+    {
+      "id": "5194218",
+      "time": "2026-11-05 05:59:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱不後悔對伊動武 伊稱美選舉結果難改敵意 雙方分歧仍難彌合】當地時間4日，伊朗最高領袖穆傑塔巴就伊美關係發表宣告稱，美國中期選舉結果不會改變美方對伊朗的敵意，對“霸權敵人”稍有屈服傾向就會令其更加肆無忌憚；若美國侵略重演，伊朗反應將更廣泛、戰爭規模更大。同日，美國總統特朗普稱，伊朗戰事何時結束將由他決定，並表示不後悔發動伊朗戰事，將視情決定是否升級對伊行動。與此同時，卡達、埃及等調解方繼續斡旋，但伊美在解除石油制裁、結束海上封鎖、解凍資金等關鍵問題上分歧明顯，軍事對峙未緩和。（央視新聞）"
+    },
+    {
+      "id": "te:economy:598324",
+      "time": "2026-11-05 05:57:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Brazil's Central Bank Pauses Rate-Cutting Cycle — Brazil's central bank kept the benchmark Selic rate unchanged at 13.75% at its November meeting, pausing its rate-cutting cycle as worsening inflation expectations and mounting fiscal pressure complicate the policy outlook. Expectations for loose public spending are driving inflation forecasts further above the 3% goal. Copom noted that the external environment has become more adverse amid prolonged conflicts in the Middle East, which drove up oil and refined product prices, as well as tighter monetary policy in advanced economies. Domestically, indicators released since the previous meeting point to a sharper moderation in economic activity, particularly in more cyclical sectors. The labor market remains resilient but is showing signs of marginal cooling. Meanwhile, headline inflation and the average of underlying inflation measures have risen, remaining above the upper bound of the inflation target tolerance range. Copom emphasized the need for caution amid heightened uncertainty."
+    },
+    {
+      "id": "5194217",
+      "time": "2026-11-05 05:56:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國品牌亮相第83屆米蘭國際兩輪車展】在義大利米蘭舉行的第83屆米蘭國際兩輪車展上，多家中國摩托車、電動出行與配件品牌亮相，展示新產品與前沿技術，吸引眾多專業客商與觀眾駐足交流。（新華社）"
+    },
+    {
+      "id": "mkt:01a1a890-5967-7ee0-aa7c-2676b6d52c49",
+      "time": "2026-11-05 05:56:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "QCOM.O",
+        "Impact bullish",
+        "META.O"
+      ],
+      "text": "Qualcomm (QCOM.O) CEO said the Dragonfly C1000 CPU remains on track to ship to Meta Platforms (META.O) as scheduled."
+    },
+    {
+      "id": "5194216",
+      "time": "2026-11-05 05:56:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta提交定價條款清單，擬分六批發行至多90億歐元高階票據。"
+    },
+    {
+      "id": "mkt:01a1a890-0258-7ee0-aa7c-1c80978fb17b",
+      "time": "2026-11-05 05:56:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bullish",
+        "AMZN.O"
+      ],
+      "text": "Qualcomm (QCOM.O) CEO said custom accelerators will begin shipping in October; the connectivity solution with Amazon Web Services (AMZN.O) will ramp later this month."
+    },
+    {
+      "id": "5194215",
+      "time": "2026-11-05 05:55:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通CEO：Dragonfly C1000 CPU仍按計劃如期向Meta出貨。"
+    },
+    {
+      "id": "5194214",
+      "time": "2026-11-05 05:53:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通CEO：定製加速器將於10月開始出貨，我們與亞馬遜雲科技的連線解決方案將於本月晚些時候加速推進。"
+    },
+    {
+      "id": "5194213",
+      "time": "2026-11-05 05:51:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通CEO：展望未來，我們的計劃假設2027日曆年全球手機出貨量將持平至下降。"
+    },
+    {
+      "id": "mkt:01a1a88b-5b1a-7ee0-aa7c-11a38b7b6295",
+      "time": "2026-11-05 05:51:07",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) CEO said the data center business is beginning to scale and expects December-quarter revenue to exceed $650 mln."
+    },
+    {
+      "id": "5194212",
+      "time": "2026-11-05 05:51:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通CEO：到2027財年，QCT非手機業務收入將同比增長超過60%。"
+    },
+    {
+      "id": "5194211",
+      "time": "2026-11-05 05:50:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通CEO：資料中心業務開始放量，預計12月當季營收將超過6.5億美元."
+    },
+    {
+      "id": "mkt:01a1a88b-170b-7ee0-aa7c-0de014f20a93",
+      "time": "2026-11-05 05:50:49",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "Qualcomm (QCOM.O) CEO said management’s planning assumes global smartphone shipments in calendar year 2027 will be flat to declining."
+    },
+    {
+      "id": "mkt:01a1a886-7087-7ee0-aa7c-01a47e0ba530",
+      "time": "2026-11-05 05:45:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index falls on the 4th】The dollar index, which measures the dollar against six major currencies, fell 0.3% to 101.566 at the New York close. EUR/USD 1.1223, up from 1.1190; GBP/USD 1.3468, up from 1.3415. USD/JPY 158.49, down from 158.73; USD/CHF 0.8172, down from 0.8209; USD/CAD 1.3972, down from 1.4003; USD/SEK 9.7435, down from 9.7940."
+    },
+    {
+      "id": "5194210",
+      "time": "2026-11-05 05:44:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院軍事委員會民主黨高層要求五角大樓對馬斯克展開調查。"
+    },
+    {
+      "id": "te:markets:598323",
+      "time": "2026-11-05 05:44:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Slides on Hopes of Iran Peace Deal — Brent crude fell over 8% to settle near $95 a barrel on Wednesday, extending losses for a third consecutive session and hitting a one-month low. Markets are increasingly pricing in an end to the Iran war after the White House linked Republicans’ midterm election losses to the conflict. Washington and Tehran have signaled openness to negotiations, with President Donald Trump telling reporters that Iran wants “to make a deal and that could happen.” Trump also cited gasoline prices as a factor behind the Republican defeat, while Vice President JD Vance blamed the war in a post on X. Qatar continues to mediate talks between the two sides. Trump told the Financial Times that the US had no immediate plans to strike Iran. Meanwhile, Democratic control of Congress could constrain military spending in the Middle East, further raising hopes for a near-term peace deal. Supply dynamics also weighed on prices, renewed Gulf exports pushed Middle Eastern oil availability above near-term demand."
+    },
+    {
+      "id": "mkt:01a1a884-a6a6-7ee0-aa7b-fcf87f9c6985",
+      "time": "2026-11-05 05:43:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ZELENSKIY, Witkoff, Kushner discuss Nov 10-11 US-Russia-Ukraine talks】ZELENSKIY said on Nov 4 he held a roughly 90-minute call with US presidential envoy Witkoff and Kushner ahead of trilateral talks planned for Nov 10-11 in Abu Dhabi; Ukraine has submitted proposals to the US seeking to accelerate negotiations and urged Washington to provide more air-defence interceptors. Russia confirmed on Nov 3 the talks will be held Nov 10-11 in Abu Dhabi and said its delegation will be led by presidential aide Mekinsky, who will remain Russia's chief negotiator."
+    },
+    {
+      "id": "5194209",
+      "time": "2026-11-05 05:43:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基與威特科夫通話 討論烏美俄三方談判】烏克蘭總統澤連斯基當地時間11月4日表示，他與美國總統特使威特科夫以及女婿庫什納就下週即將舉行的烏美俄三方會談進行了約一個半小時的通話。澤連斯基稱，烏方已向美方提交相關建議，希望加快談判程序，儘早結束衝突。烏方同時呼籲美國提供更多防空攔截彈。（央視新聞）"
+    },
+    {
+      "id": "5194208",
+      "time": "2026-11-05 05:42:35",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "預測交易平臺Kalshi：因擔憂內幕交易風險，平臺正在開展選舉相關調查。"
+    },
+    {
+      "id": "te:markets:598322",
+      "time": "2026-11-05 05:42:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Slides on Hopes of Iran Peace Deal — Crude oil fell about 8% to settle around $88 a barrel on Wednesday, extending losses for a third consecutive session and hitting a one-month low. Markets are increasingly pricing in an end to the Iran war after the White House linked Republicans’ midterm election losses to the conflict. Washington and Tehran have signaled openness to negotiations, with President Donald Trump telling reporters that Iran wants “to make a deal and that could happen.” Trump also cited gasoline prices as a factor behind the Republican defeat, while Vice President JD Vance blamed the war in a post on X. Qatar continues to mediate talks between the two sides. Trump told the Financial Times that the US had no immediate plans to strike Iran. Meanwhile, Democratic control of Congress could constrain military spending in the Middle East, further raising hopes for a near-term peace deal. Supply dynamics also weighed on prices, renewed Gulf exports pushed Middle Eastern oil availability above near-term demand."
+    },
+    {
+      "id": "5194207",
+      "time": "2026-11-05 05:40:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【高通營收超預期 利潤同比大幅下滑】高通第四財季調整後營收104.4億美元，同比降7.3%，高於預期；調整後每股收益2.17美元，去年同期3美元，略超預期。汽車業務收入19.9億美元，同比大漲89%；物聯網收入18.9億美元，同比增4.5%。調整後營業利潤27.7億美元，同比下滑27%。全年資本開支24.9億美元，高於預期。下一財季指引：營收104億–112億美元（預期105.55億），調整後每股收益2.15–2.35美元（預期2.32美元），盈利指引偏弱。CEO安蒙表態：2027財年非手機收入將啟動高增，預計同比增超60%，維持資料中心業務50億美元營收目標；產品漲價對沖成本，利好將在2027財年下半年體現在QCT毛利率。"
+    },
+    {
+      "id": "mkt:01a1a87f-6b47-7ee0-aa7b-f6d588f2746c",
+      "time": "2026-11-05 05:38:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Microsoft completes $25bn bond offering】Microsoft completed a $25 billion bond offering on Nov. 4 across 10 tranches: a $2 billion floating-rate note and $23 billion of fixed-rate notes maturing 2028–2066. Fixed coupons range 4.85%–6.35%. Joint bookrunners were JP Morgan, UBS and Wells Fargo."
+    },
+    {
+      "id": "5194206",
+      "time": "2026-11-05 05:38:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：勞動力市場邊際上顯現放緩跡象。"
+    },
+    {
+      "id": "5194205",
+      "time": "2026-11-05 05:37:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院軍事委員會民主黨首席議員要求對五角大樓（國防部）展開調查。"
+    },
+    {
+      "id": "5194204",
+      "time": "2026-11-05 05:36:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：通脹面臨的上行和下行風險仍高於正常水平，且存在上行不對稱性。"
+    },
+    {
+      "id": "te:markets:598321",
+      "time": "2026-11-05 05:35:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 3.05% Higher — The Dow Jones Index rose 1578 points or 3.05 percent on Wednesday to close at 53365 points. Leading the gains are 3M (9.59%), Microsoft (6.82%) and Sherwin-Williams (6.66%)."
+    },
+    {
+      "id": "mkt:01a1a87c-65b6-7ee0-aa7b-eecf10027adf",
+      "time": "2026-11-05 05:34:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's central bank said it will continue to monitor how domestic fiscal policy developments affect monetary policy and financial assets, and will reinforce a cautious stance amid rising uncertainty."
+    },
+    {
+      "id": "mkt:01a1a87c-5485-7ee0-aa7b-e069b6ead38a",
+      "time": "2026-11-05 05:34:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil central bank said domestic economic activity is showing a more pronounced slowdown."
+    },
+    {
+      "id": "mkt:01a1a87c-2c91-7ee0-aa7b-d91700b91db4",
+      "time": "2026-11-05 05:34:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil's central bank said the situation creates a challenging environment for monetary policy and calls for calm and caution in policy implementation."
+    },
+    {
+      "id": "mkt:01a1a87c-24ea-7ee0-aa7b-d6755a6469a1",
+      "time": "2026-11-05 05:34:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRAZIL CENTRAL BANK said the current situation is marked by a markedly restrictive Selic rate, a sharp rise in uncertainty around the reference scenario, and higher inflation expectations."
+    },
+    {
+      "id": "te:markets:598320",
+      "time": "2026-11-05 05:33:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Motorola Solutions Msi earnings above expectations at 4.69 USD — Motorola Solutions Msi (MSI) released earnings per share at 4.69 USD, compared to market expectations of 4.41 USD."
+    },
+    {
+      "id": "5194203",
+      "time": "2026-11-05 05:33:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：委員會將監測財政政策動向。"
+    },
+    {
+      "id": "mkt:01a1a87a-9edf-7ee0-aa7b-c98f48adf2e8",
+      "time": "2026-11-05 05:32:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil central bank said its policy rate decision was approved unanimously."
+    },
+    {
+      "id": "mkt:01a1a87a-6814-7ee0-aa7b-c59bb8c8680d",
+      "time": "2026-11-05 05:32:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ARM.O",
+        "Impact bullish"
+      ],
+      "text": "【Arm Q2 revenue up 27% as AI demand expands data-center business】Arm (ARM.O) reported FY2026 Q2 revenue $1.44bn, up 27% YoY and above consensus $1.38bn; adjusted EPS $0.52 vs $0.47 expected. Q3 revenue guidance about $1.54bn, roughly in line with the $1.53bn consensus. Data-center demand tied to AI offsets smartphone weakness. Arm said it is shifting from an architecture licensor toward a chipmaker; its in‑house CPUs could contribute up to $2.0bn of revenue across FY2027–28. CEO Haas said confidence in hitting that target has risen but supply capacity currently constrains growth. Q2 licensing revenue rose 50% YoY to $773m; royalties rose 8% to $670m. Shares traded volatile after the print—initially up more than 4% in after‑hours, later down about 3.8%."
+    },
+    {
+      "id": "5194202",
+      "time": "2026-11-05 05:31:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行維持基準利率不變，仍為13.75%。"
+    },
+    {
+      "id": "mkt:01a1a879-a11b-7ee0-aa7b-bbb286add939",
+      "time": "2026-11-05 05:31:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil Selic rate 13.75% as of Nov 4; market expected 13.75%; prior 13.75%."
+    },
+    {
+      "id": "mkt:01a1a879-9128-7ee0-aa7b-b3fd73b7f365",
+      "time": "2026-11-05 05:31:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Global crude settlement prices fall more than 8%】At the close on the 4th, NYMEX WTI December fell $7.97 to $88.12/bbl, down 8.29%; ICE Brent January fell $8.98 to $94.62/bbl, down 8.67%."
+    },
+    {
+      "id": "mkt:01a1a879-84f3-7ee0-aa7b-a8f3d1de698d",
+      "time": "2026-11-05 05:31:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Brazil | Selic Interest Rate (Nov.4) | actual 13.75% | consensus 13.75% | previous 13.75%"
+    },
+    {
+      "id": "5194201",
+      "time": "2026-11-05 05:31:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價4日大幅下跌】截至當天收盤，紐約商品交易所12月交貨的輕質原油期貨價格下跌7.97美元，收於每桶88.12美元，跌幅為8.29%；1月交貨的倫敦布倫特原油期貨價格下跌8.98美元，收於每桶94.62美元，跌幅為8.67%。"
+    },
+    {
+      "id": "mkt:01a1a878-d3a4-7ee0-aa7b-a57de719c3d2",
+      "time": "2026-11-05 05:30:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Goldman, Apollo pitch about $40bn SpaceX GPU financing; $500m pre-allocations ahead of syndication】Goldman Sachs and Apollo Global Management are marketing portions of about $40bn in GPU financing linked to SpaceX to Wall Street investors, people familiar with the matter said. SpaceX said the deal is structured to keep the debt off its balance sheet and would be the largest GPU financing of its kind on record. Before a formal syndication, some investors were invited to precommit up to $500m to accelerate execution; formal syndication is expected to begin soon, sources said. The report comes as Democrats swept the US midterms, coinciding with turbulence in the AI sector. The firms did not immediately respond to requests for comment."
+    },
+    {
+      "id": "mkt:01a1a877-c224-7ee0-aa7b-9c2de183576b",
+      "time": "2026-11-05 05:29:43",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "【Memory chip shortage trims phone demand; Qualcomm Q4 slightly beats, Q next EPS guide below estimates】Qualcomm (QCOM.O) reported fiscal 2026 Q4 revenue $10.32 bln and adjusted EPS $2.17, versus market expectations of $10.11 bln and $2.16. It guided next-quarter revenue $10.4–11.2 bln (market $10.48 bln) and adjusted EPS $2.15–2.35, with the EPS midpoint below the $2.32 consensus. Qualcomm said a memory-chip shortage and rising component and manufacturing costs led smartphone OEMs to cut production; handset chip revenue fell 26% YoY to $5.14 bln and company revenue declined 8% YoY. CEO Amon said data-center weakness reflects supply constraints, not demand, and the company expects fiscal 2027 data-center revenue of $5 bln. Automotive revenue rose 89% YoY to about $2 bln and IoT revenue rose 4% to about $1.89 bln, both beating estimates. Shares fell more than 5% in after-hours trading."
+    },
+    {
+      "id": "5194200",
+      "time": "2026-11-05 05:29:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Arm季度營收展望符合預期 資料中心業務助其抵禦智慧手機市場低迷】Arm本財季營收展望符合分析師預期，顯示該公司進軍資料中心晶片領域的努力正在幫助其抵消智慧手機市場低迷的影響。Arm預計截至12月的財季營收達到約15.4億美元。分析師平均預估為15.3億美元，部分預測接近17億美元。資料中心運營商及其供應商迅速增加了對Arm晶片設計和授權的支出。這波需求增長幫助彌補了智慧手機行業下滑帶來的影響。長期以來，智慧手機晶片一直是Arm最大的收入來源。業績公佈後，Arm股價在盤後交易中下跌。截至週三收盤，該股今年以來上漲逾75%。"
+    },
+    {
+      "id": "te:markets:598319",
+      "time": "2026-11-05 05:29:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Jumps on Favorable Foreign Trade Backdrop — The S&P/TSX Composite Index rose 2.3% to close at 36,341 as Democrats regained control of both chambers of Congress in the US, raising hopes of easing trade tensions. A Democratic majority could constrain some of President Trump’s trade policy decisions. Meanwhile, Canada’s trade surplus widened to C$5.35 billion in September, as higher energy and gold exports to the US appeared to offset the impact of tariffs. Canada and China also extended a deal to reduce Beijing’s agricultural tariffs through the end of 2028. Auto exporters gained, with Magna International up 3.9% and BRP soaring 7.7%. Miners rallied as gold prices climbed alongside a weaker US dollar. Agnico Eagle surged 9.4%, Barrick gained 8% and Wheaton Precious Metals jumped 11.7%. Lower oil prices also supported credit-sensitive stocks, with RBC up 2.5%, TD Bank and CIBC gaining 2.4% and BMO advancing 2.9%."
+    },
+    {
+      "id": "5194199",
+      "time": "2026-11-05 05:29:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數4日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.3%，在匯市尾市收於101.566。截至紐約匯市尾市，1歐元兌換1.1223美元，高於前一交易日的1.1190美元；1英鎊兌換1.3468美元，高於前一交易日的1.3415美元。1美元兌換158.49日元，低於前一交易日的158.73日元；1美元兌換0.8172瑞士法郎，低於前一交易日的0.8209瑞士法郎；1美元兌換1.3972加元，低於前一交易日的1.4003加元；1美元兌換9.7435瑞典克朗，低於前一交易日的9.7940瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a1a874-d507-7ee0-aa7b-91a6c82b08cd",
+      "time": "2026-11-05 05:26:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【French blood agency refrigeration systems hit by cyberattack】The French blood agency said on the 3rd that a recent cyberattack altered operating parameters at some refrigerated storage units. Monitoring systems raised timely alerts and there was no loss of blood products."
+    },
+    {
+      "id": "te:markets:598318",
+      "time": "2026-11-05 05:25:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "MetLife earnings above expectations at 2.78 USD — MetLife (MET) released earnings per share at 2.78 USD, compared to market expectations of 2.53 USD."
+    },
+    {
+      "id": "te:markets:598317",
+      "time": "2026-11-05 05:23:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Allstate earnings above expectations at 9.76 USD — Allstate (ALL) released earnings per share at 9.76 USD, compared to market expectations of 5.89 USD."
+    },
+    {
+      "id": "5194198",
+      "time": "2026-11-05 05:23:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【法國血液機構冷藏設施遭網路攻擊】法國血液機構3日釋出公報說，因網路攻擊，該機構部分冷庫近日執行引數遭篡改。所幸監控系統及時發出警報，事件未造成血液製品損失。 據法國《鴨鳴報》3日報道，攻擊發生在1日晚至2日凌晨，目標是為法國血液機構提供製冷裝置維護服務的酷世界公司。駭客遠端修改部分冷庫的溫度設定值，將原本約零下30攝氏度的目標溫度更改為110攝氏度。遭攻擊設施包括位於法國勃艮第-弗朗什-孔泰大區的冷藏裝置。 法國血液機構說，受影響的冷庫用於儲存尚未配送至醫療機構的血液製品等。在監控系統發現異常後，該機構及時控制或停用相關裝置，並將部分庫存轉移至其他設施。 該機構表示，技術團隊正與法國國家資訊系統安全域性及衛生部保持聯絡，並加強對所有裝置執行情況的監測。 近期，法國及其他歐洲國家的超市冷藏冷凍設施也接連遭遇網路攻擊。11月初，歐洲多國超市制冷系統遭駭客入侵，溫度被惡意升高致食物變質；10月11日，法國數百家超市也被入侵，損失可能高達數百萬歐元。目前尚無證據表明此次血液機構製冷裝置維護服務商遭襲與此前事件存在關聯。(新華社)"
+    },
+    {
+      "id": "mkt:01a1a871-10f1-7ee0-aa7b-8c5bcf5037ef",
+      "time": "2026-11-05 05:22:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Documents show U.S. Senate Republicans urged a federal appeals court to overturn a ruling that found the EPA had improperly allowed procedures to revoke California's vehicle emissions regulations."
+    },
+    {
+      "id": "te:markets:598316",
+      "time": "2026-11-05 05:21:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Edwards Lifesciences earnings above expectations at 0.80 USD — Edwards Lifesciences (EW) released earnings per share at 0.80 USD, compared to market expectations of 0.75 USD."
+    },
+    {
+      "id": "5194196",
+      "time": "2026-11-05 05:17:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心現已確認今年美國有四例麻疹死亡病例。"
+    },
+    {
+      "id": "5194195",
+      "time": "2026-11-05 05:17:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "開市客10月同店銷售總額增長11.1%，預估為增長10.1%。"
+    },
+    {
+      "id": "mkt:01a1a86c-0d61-7ee0-aa7b-808eff383b7f",
+      "time": "2026-11-05 05:16:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "Goldman Sachs and Apollo Global Management are in talks with Wall Street investors to begin selling a portion of a roughly $40 billion SpaceX (SPCX.O) chip‑financing deal."
+    },
+    {
+      "id": "5194194",
+      "time": "2026-11-05 05:16:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "固特異輪胎股價盤後下跌6%。"
+    },
+    {
+      "id": "5194193",
+      "time": "2026-11-05 05:15:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.55%，報13101點。"
+    },
+    {
+      "id": "mkt:01a1a86a-1014-7ee0-aa7b-7b4dc5316fde",
+      "time": "2026-11-05 05:14:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "The Information reports Microsoft (MSFT.O) has cut data-center spending after delayed deliveries from cloud-services provider Iren."
+    },
+    {
+      "id": "te:markets:598315",
+      "time": "2026-11-05 05:13:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Aflac earnings above expectations at 2.43 USD — Aflac (AFL) released earnings per share at 2.43 USD, compared to market expectations of 1.80 USD."
+    },
+    {
+      "id": "5194192",
+      "time": "2026-11-05 05:13:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩托羅拉：第三季度末積壓訂單達166億美元，創歷史新高。"
+    },
+    {
+      "id": "te:markets:598314",
+      "time": "2026-11-05 05:13:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rally Following Midterm Elections — US stocks closed sharply higher on Wednesday, with the S&P 500 rising 1.6%, the Dow gaining 1,569 points to a two-month high and the Nasdaq advancing 0.9%. Democratic gains in Congress, alongside opposition to the war in Iran, extended this week’s oil price slump, helping drive post-election gains in stocks and bonds. Expectations that political gridlock could limit further fiscal expansion and ease pressure on bond markets also supported equities. Credit-sensitive stocks led the rally. Financials advanced, with JPMorgan up 4.2% and Berkshire Hathaway gaining 3.9%. Major technology companies also climbed, despite growing borrowing needs tied to AI investment. Microsoft jumped 6.7%, Alphabet rose 3.2% and Meta added 1.4%. Microsoft also benefited from strong quarterly results released last week. In contrast, chipmakers fell as the Democratic victory raised expectations of tighter regulatory scrutiny of the AI sector."
+    },
+    {
+      "id": "5194191",
+      "time": "2026-11-05 05:13:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩托羅拉：預計全財年調整後每股收益在17.94美元至17.99美元之間。"
+    },
+    {
+      "id": "5194190",
+      "time": "2026-11-05 05:12:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩托羅拉：將全年運營現金流預期上調至30.5億美元。"
+    },
+    {
+      "id": "5194189",
+      "time": "2026-11-05 05:12:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "Snap股價盤後下跌9.5%。"
+    },
+    {
+      "id": "5194188",
+      "time": "2026-11-05 05:11:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "Snap預計第四季度調整後EBITDA為4.90億美元至5.25億美元。"
+    },
+    {
+      "id": "5194187",
+      "time": "2026-11-05 05:10:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "Snap第三季度調整後EBITDA為3.826億美元，預估為3.381億美元。"
+    },
+    {
+      "id": "5194186",
+      "time": "2026-11-05 05:10:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Snap預計第四季度營收19.5億美元至19.9億美元，預估19.6億美元。"
+    },
+    {
+      "id": "5194185",
+      "time": "2026-11-05 05:10:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "Snap第三季度日活躍使用者為5億，預估為5億。"
+    },
+    {
+      "id": "5194184",
+      "time": "2026-11-05 05:10:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "Snap第三季度營收17.2億美元，預估17.3億美元。"
+    },
+    {
+      "id": "te:markets:598313",
+      "time": "2026-11-05 05:09:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "AppLovin earnings above expectations at 4.30 USD — AppLovin (APP) released earnings per share at 4.30 USD, compared to market expectations of 4.06 USD."
+    },
+    {
+      "id": "5194183",
+      "time": "2026-11-05 05:09:57",
+      "tags": [
+        "觀點",
+        "焦點"
+      ],
+      "text": "高盛與阿波羅正洽談出讓SpaceX一筆400億美元AI融資份額。"
+    },
+    {
+      "id": "mkt:01a1a865-71d3-7ee0-aa7b-71bc2abcbafe",
+      "time": "2026-11-05 05:09:42",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) expects mobile business revenue to rise more than 60% YoY."
+    },
+    {
+      "id": "5194182",
+      "time": "2026-11-05 05:09:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Arm：通用人工智慧CPU營收預計將呈指數級增長，到2031財年末達到約150億美元。"
+    },
+    {
+      "id": "5194181",
+      "time": "2026-11-05 05:09:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Arm：預計2026財年至2031財年特許權收入複合年增長率為20%。"
+    },
+    {
+      "id": "mkt:01a1a864-cf6b-7ee0-aa7b-6889ac5854a8",
+      "time": "2026-11-05 05:09:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ARM.O",
+        "Impact bullish"
+      ],
+      "text": "Arm (ARM.O): Arm-based PCs now account for roughly 20% of global PC shipments."
+    },
+    {
+      "id": "mkt:01a1a864-cb07-7ee0-aa7b-6335e8d2882a",
+      "time": "2026-11-05 05:09:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ARM.O",
+        "Impact bullish"
+      ],
+      "text": "Arm (ARM.O): Arm partners for the first time reported quarterly shipments exceeding 10 billion Arm-based chips."
+    },
+    {
+      "id": "mkt:01a1a864-3e43-7ee0-aa7b-5ed4e143b051",
+      "time": "2026-11-05 05:08:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ARM.O",
+        "Impact bullish"
+      ],
+      "text": "Arm (ARM.O) said purchase orders for its Arm AGI CPU are booked through calendar 2027, and first commercial deliveries are expected in the fourth fiscal quarter."
+    },
+    {
+      "id": "mkt:01a1a864-0395-7ee0-aa7b-53adedd68b56",
+      "time": "2026-11-05 05:08:09",
+      "tags": [
+        "MKT News",
+        "ARM.O",
+        "Impact bullish"
+      ],
+      "text": "Arm (ARM.O) median revenue outlook for fiscal 2027 Q3 $1.54 bln, versus market expectation $1.53 bln."
+    },
+    {
+      "id": "5194180",
+      "time": "2026-11-05 05:08:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "AppLovin股價盤後上漲12%，此前該公司第四季度銷售預期超出市場預期。"
+    },
+    {
+      "id": "te:markets:598312",
+      "time": "2026-11-05 05:07:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "ARM Holdings earnings above expectations at 0.52 USD — ARM Holdings (ARM) released earnings per share at 0.52 USD, compared to market expectations of 0.41 USD."
+    },
+    {
+      "id": "5194179",
+      "time": "2026-11-05 05:07:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "Arm：在持續增長的各終端市場中不斷提升市場份額。"
+    },
+    {
+      "id": "5194178",
+      "time": "2026-11-05 05:06:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "AppLovin將股票回購規模提高32億美元，使總回購規模達到36億美元。"
+    },
+    {
+      "id": "mkt:01a1a862-8b47-7ee0-aa7b-494a66c90490",
+      "time": "2026-11-05 05:06:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "ARM.O",
+        "Impact bullish"
+      ],
+      "text": "Arm (ARM.O) said fiscal 2027 Q2 revenue was $1.44 bln, up from $1.14 bln a year earlier and above the $1.376 bln consensus."
+    },
+    {
+      "id": "te:markets:598311",
+      "time": "2026-11-05 05:06:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Expedia earnings above expectations at 9.39 USD — Expedia (EXPE) released earnings per share at 9.39 USD, compared to market expectations of 8.44 USD."
+    },
+    {
+      "id": "te:markets:598310",
+      "time": "2026-11-05 05:06:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Uruguay",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "MercadoLibre earnings below expectations at 8.83 USD — MercadoLibre (MELI) released earnings per share at 8.83 USD, compared to market expectations of 9.30 USD."
+    },
+    {
+      "id": "mkt:01a1a861-f937-7ee0-aa7b-47210fd61445",
+      "time": "2026-11-05 05:05:55",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "Qualcomm (QCOM.O) reported fiscal 2026 fourth-quarter net income of $1.251 billion, versus a loss of $3.117 billion a year earlier and below the $1.566 billion market consensus."
+    },
+    {
+      "id": "5194177",
+      "time": "2026-11-05 05:05:53",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "微軟透過分10批發行的債券交易融資250億美元。"
+    },
+    {
+      "id": "5194176",
+      "time": "2026-11-05 05:05:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "AppLovin預計第四季度總營收為23.7億美元至24.0億美元，市場預期為22.5億美元。"
+    },
+    {
+      "id": "mkt:01a1a861-a2b1-7ee0-aa7b-3984565e9c07",
+      "time": "2026-11-05 05:05:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "Qualcomm (QCOM.O) U.S. shares fell more than 5% in after-hours trading."
+    },
+    {
+      "id": "mkt:01a1a861-8f9a-7ee0-aa7b-3714a669b106",
+      "time": "2026-11-05 05:05:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "At the close on Wednesday, Nov. 4, the Dow Jones Industrial Average rose 1,569.76 points, or 3.03%, to 53,356.48; the S&P 500 rose 119.72 points, or 1.58%, to 7,688.64; the Nasdaq Composite rose 364.50 points, or 1.44%, to 25,736.51."
+    },
+    {
+      "id": "5194175",
+      "time": "2026-11-05 05:05:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通預計第一財季每股收益為1.03美元至1.23美元。"
+    },
+    {
+      "id": "mkt:01a1a861-4586-7ee0-aa7b-2bec869b186b",
+      "time": "2026-11-05 05:05:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact mixed"
+      ],
+      "text": "Qualcomm (QCOM.O) is implementing price increases across its product range to reflect rising semiconductor input costs."
+    },
+    {
+      "id": "mkt:01a1a860-fd61-7ee0-aa7b-21cf133dda74",
+      "time": "2026-11-05 05:04:50",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Qualcomm expects fiscal Q1 data-center revenue to exceed $650 mln, with sequential growth each quarter and an annualized run-rate of $7 bln by the end of fiscal 2027."
+    },
+    {
+      "id": "5194174",
+      "time": "2026-11-05 05:04:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "高通股價盤後下跌3%，第一財季每股收益預期低於預期中值。"
+    },
+    {
+      "id": "5194173",
+      "time": "2026-11-05 05:04:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "Arm預計第三財季調整後運營費用約為8.25億美元，市場預期為8.236億美元。"
+    },
+    {
+      "id": "mkt:01a1a860-85d8-7ee0-aa7b-1c15b1d66d1d",
+      "time": "2026-11-05 05:04:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) expects non-handset business revenue to rise more than 60% YoY."
+    },
+    {
+      "id": "mkt:01a1a860-81c7-7ee0-aa7b-13a5bb334a44",
+      "time": "2026-11-05 05:04:19",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) said it expects the full benefits of product pricing actions to be reflected in QCT gross margin in H2 of fiscal 2027."
+    },
+    {
+      "id": "mkt:01a1a860-4398-7ee0-aa7b-0a9152a04f05",
+      "time": "2026-11-05 05:04:03",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) reiterated its fiscal 2027 data-center revenue target of $5 billion."
+    },
+    {
+      "id": "5194172",
+      "time": "2026-11-05 05:04:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "Arm Holdings預計第三財季營收為14.9億至15.9億美元，市場預期為15.3億美元。"
+    },
+    {
+      "id": "5194171",
+      "time": "2026-11-05 05:03:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "Arm Holdings第二財季總營收14.4億美元，市場預期13.8億美元。"
+    },
+    {
+      "id": "5194170",
+      "time": "2026-11-05 05:03:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "Arm Holdings第二財季調整後毛利率為97.9%，市場預期為98%。"
+    },
+    {
+      "id": "5194169",
+      "time": "2026-11-05 05:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "Arm Holdings第二財季調整後每股收益52美分，預期47美分。"
+    },
+    {
+      "id": "5194168",
+      "time": "2026-11-05 05:02:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通第四財季每股收益1.17美元。"
+    },
+    {
+      "id": "mkt:01a1a85f-2699-7ee0-aa7b-06838dd512af",
+      "time": "2026-11-05 05:02:50",
+      "tags": [
+        "MKT News",
+        "QCOM.O"
+      ],
+      "text": "Qualcomm (QCOM.O) said QCT mobile business revenue was $5.14 billion in fiscal 2026 Q4."
+    },
+    {
+      "id": "5194167",
+      "time": "2026-11-05 05:02:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西10月汽車銷量為265,589輛。"
+    },
+    {
+      "id": "mkt:01a1a85e-bece-7ee0-aa7a-f8e4ea5e4fa5",
+      "time": "2026-11-05 05:02:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O"
+      ],
+      "text": "Qualcomm (QCOM.O) guided fiscal 2027 Q1 revenue at $10.4-11.2 bln; consensus $10.48 bln."
+    },
+    {
+      "id": "mkt:01a1a85e-b581-7ee0-aa7a-f232fd3bf094",
+      "time": "2026-11-05 05:02:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Microsoft",
+        "Amazon",
+        "NVIDIA",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bullish",
+        "NVDA.O",
+        "Impact bearish",
+        "BABA.N"
+      ],
+      "text": "【US close: major indices higher as tech sector shows pronounced divergence】US stocks closed higher Wednesday: Dow Jones Industrial Average +3.00%, S&P 500 +1.58%, Nasdaq +1.44%. Tech sector diverged sharply: Trump Media & Technology (DJT.O) -24.0%; SpaceX (SPCX.O) and Tesla (TSLA.O) down >3%; SK Hynix (SKHY.O) -5%; Micron Technology (MU.O) -7%; NVIDIA (NVDA.O) -3%. Mega-cap leaders rose: Apple (AAPL.O) +5%; Amazon (AMZN.O) +6%; Microsoft (MSFT.O) +6.6%. Nasdaq Golden Dragon China index +3.48%; Alibaba (BABA.N) +5%."
+    },
+    {
+      "id": "te:markets:598309",
+      "time": "2026-11-05 05:02:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Qualcomm earnings below expectations at 2.17 USD — Qualcomm (QCOM) released earnings per share at 2.17 USD, compared to market expectations of 2.36 USD."
+    },
+    {
+      "id": "5194166",
+      "time": "2026-11-05 05:01:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "3M股價上漲9.6%，創2024年以來最大漲幅，此前該公司與PFAS達成協議。"
+    },
+    {
+      "id": "5194165",
+      "time": "2026-11-05 05:01:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500能源板塊下跌4.7%，創2025年4月以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:01a1a85e-0892-7ee0-aa7a-e84cbf5fbab1",
+      "time": "2026-11-05 05:01:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) reported fiscal 2026 fourth-quarter revenue of $10.44 billion, down from $11.27 billion a year earlier, versus a consensus $10.116 billion."
+    },
+    {
+      "id": "5194164",
+      "time": "2026-11-05 05:01:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通展望第一財季QCT營收為90億美元至96億美元。"
+    },
+    {
+      "id": "5194163",
+      "time": "2026-11-05 05:00:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通：正與新的潛在客戶推進談判，重點關注高頻寬計算和CPU平臺的吉瓦級機會。"
+    },
+    {
+      "id": "5194162",
+      "time": "2026-11-05 05:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲3.03%，標普500指數漲1.58%，納指漲1.46%。美國美盛漲17.32%，XYZ漲15.14%，Moderna漲13.18%，Zimmer Biomet Holdings Inc漲13.15%，美國史丹利公司漲13.01%，CDW Corporation漲12.73%。“七姐妹”方面：微軟漲6.71%，亞馬遜漲6.19%，蘋果漲5.32%，谷歌漲3.27%，Meta Platforms漲1.43%，英偉達跌3.17%，特斯拉跌3.32%。"
+    },
+    {
+      "id": "5194161",
+      "time": "2026-11-05 05:00:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通：重申2027財年資料中心營收目標為50億美元。"
+    },
+    {
+      "id": "5194160",
+      "time": "2026-11-05 05:00:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通公司預計第一財季調整後每股收益為 2.15 美元至 2.35 美元，此前預期為 2.32 美元。"
+    },
+    {
+      "id": "5194159",
+      "time": "2026-11-05 05:00:23",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "高通預計第一財季營收為104億美元至112億美元，此前預期為105.5億美元。"
+    },
+    {
+      "id": "mkt:01a1a85c-ce85-7ee0-aa7a-e60322946899",
+      "time": "2026-11-05 05:00:16",
+      "tags": [
+        "MKT News",
+        "RYTM.O",
+        "Impact bullish",
+        "AZN.O",
+        "Impact mixed"
+      ],
+      "text": "Wall Street Journal reports AstraZeneca (AZN.O) made a $10 bln takeover offer for Rhythm Pharmaceuticals, people familiar with the matter said."
+    },
+    {
+      "id": "5194158",
+      "time": "2026-11-05 05:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲3.60%】世紀互聯漲18.46%，汽車之家漲12.88%，逸仙電商漲12.02%，大全新能源漲9.87%，禾賽科技漲8.37%。"
+    },
+    {
+      "id": "5194157",
+      "time": "2026-11-05 04:59:17",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "Rhythm Pharmaceuticals股價飆升22%後觸發停牌。"
+    },
+    {
+      "id": "5194156",
+      "time": "2026-11-05 04:58:18",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "阿斯利康對Rhythm Pharmaceuticals提出100億美元收購要約。"
+    },
+    {
+      "id": "5194155",
+      "time": "2026-11-05 04:53:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【卡達有望在2033年成為美國液化天然氣最大買家】卡達能源公司10月新增700萬噸美國液化天然氣採購額度。該公司持有得州金門專案70%股權，依託該專案，到2033年其每年可掌控2370萬噸美國液化天然氣。"
+    },
+    {
+      "id": "5194154",
+      "time": "2026-11-05 04:51:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普對民主黨劃出合作邊界，金融議題可談，關稅維持不變】美國總統特朗普表示，他可以在金融議題上與國會中的民主黨多數派合作，但在移民問題以及跨性別運動員參加女子體育專案的問題上則無法合作。他還排除了取消關稅的可能性，稱這樣做將導致美國3000家計劃建設的工廠停工。"
+    },
+    {
+      "id": "mkt:01a1a853-e876-7ee0-aa7a-dfc8ad771333",
+      "time": "2026-11-05 04:50:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jeffries tells colleagues he is running for U.S. House speaker】House Democratic leader Hakeem Jeffries wrote to House Democrats on Wednesday formally announcing his bid for Speaker of the U.S. House and seeking colleagues’ support, Axios reported. If elected, Jeffries would be the first Black speaker in U.S. history."
+    },
+    {
+      "id": "mkt:01a1a853-7a89-7ee0-aa7a-d41e705fb811",
+      "time": "2026-11-05 04:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "QCOM.O",
+        "Impact mixed"
+      ],
+      "text": "Qualcomm will report earnings after the U.S. market close."
+    },
+    {
+      "id": "5194153",
+      "time": "2026-11-05 04:48:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐委會公佈四國入盟路線圖 敦促烏克蘭加快改革】歐盟委員會4日公佈烏克蘭及另外三個歐盟候選國的入盟路線圖，敦促基輔加快改革，以爭取在2028年底前完成入盟談判。（新華社）"
+    },
+    {
+      "id": "5194152",
+      "time": "2026-11-05 04:48:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院多數黨領袖圖恩與美國總統特朗普今日早些時候通電話。"
+    },
+    {
+      "id": "mkt:01a1a851-a58d-7ee0-aa7a-cd755795203f",
+      "time": "2026-11-05 04:48:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US media: Trump says he was misled on Iran; aides weighing post‑White House moves】CNN reports multiple Trump aides say many US officials are already lining up post‑White House jobs. A senior political adviser privately blamed the Iran war for poor Republican election performance and said Trump may be seeking a scapegoat; an adviser quoted Trump as saying he 'feels he was misled' on the Iran war and that someone must pay. Allies identify Defense Secretary Hegseth, a supporter of the conflict, as a possible target; Democrats and some Republicans have flagged him as a potential focus for impeachment and other probes. Trump told Fox News on Tuesday he is not considering a cabinet reshuffle, while an insider said the president has told aides Hegseth should fight any impeachment. It is unclear whether personnel changes will occur before the Iran conflict is resolved."
+    },
+    {
+      "id": "5194151",
+      "time": "2026-11-05 04:46:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中企亮相阿布扎比石油展 綠色轉型與數字技術成亮點】第42屆阿布扎比國際石油展11月2日在阿聯酋首都阿布扎比開幕。展會上，多家中國能源企業集中展示綠色低碳、人工智慧、深地深海勘探、油氣田增產等領域成果及相關解決方案，展現中國能源產業服務全球能源安全和轉型發展的綜合實力。（新華社）"
+    },
+    {
+      "id": "5194150",
+      "time": "2026-11-05 04:46:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "中領館：提醒中國公民謹慎選擇從檀香山國際機場入境。"
+    },
+    {
+      "id": "te:markets:598308",
+      "time": "2026-11-05 04:45:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Gains as Investors Await Copom Announcement — The Ibovespa rose 1% to close at 167,292 on Wednesday ahead of the BCB’s monetary policy decision. Copom is expected to either cut the Selic rate again or hold it at 13.75%. The latest Focus survey points to a possible reduction to 13.50%, although inflation concerns, a stronger US dollar and fiscal risks have added uncertainty. At its September meeting, Copom cut the rate from 14% to 13.75% but stressed the need to monitor risks before further easing. Financial stocks advanced, with Itaú up 2.9% and Bradesco gaining 3%. Exporters also rallied on hopes of progress in trade talks following the Republican Party’s defeat in the US midterms. WEG rose 1.9%, Embraer gained 2.9% and CSN jumped 4.6%, while CSN Mineração soared 16.5%, also supported by the planned sale of CSN’s cement subsidiary. Higher iron ore prices lifted the mining sector, with Vale up 3.7%. Petrobras, however, sank 7.4% as oil prices plunged."
+    },
+    {
+      "id": "5194149",
+      "time": "2026-11-05 04:41:08",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "花旗銀行：隨著市場焦點重新回到美聯儲的政策路徑，美元疲軟態勢將逐漸消退。"
+    },
+    {
+      "id": "mkt:01a1a84a-c93f-7ee0-aa7a-c4876029bc0e",
+      "time": "2026-11-05 04:40:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Democrats downplay impeachment, seek repeal of Trump tariffs and to end Iran war】House Democratic leader Jeffries said midterm gains give Democrats a buffer to advance next year’s agenda if he succeeds Johnson as speaker, prioritizing expanded ACA subsidies, reversal of Republican Medicaid cuts, repeal of Trump-era tariffs and an end to the war with Iran—moves he linked to lower gasoline prices and reduced consumer costs. Senate Democratic leader Schumer said he will pursue limits on presidential war powers and work with Republicans. Democrats also pledged investigations into alleged government corruption that benefited Trump and his family; Jeffries said no House Democrat has raised impeachment and the caucus will focus on affordability and accountability."
+    },
+    {
+      "id": "5194148",
+      "time": "2026-11-05 04:40:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "據白宮訊息，路易斯安那州立大學（LSU）與第一夫人梅拉尼婭·特朗普設立500萬美元捐贈基金。"
+    },
+    {
+      "id": "5194147",
+      "time": "2026-11-05 04:38:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：可以在“比人們理解的更多的事情上”與民主黨合作。"
+    },
+    {
+      "id": "5194146",
+      "time": "2026-11-05 04:38:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院國土安全委員會資深民主黨人湯普森正式參選眾議院國土安全委員會主席。"
+    },
+    {
+      "id": "mkt:01a1a848-7fed-7ee0-aa7a-b9bf6ee1d211",
+      "time": "2026-11-05 04:38:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he can work with Democrats on 'more issues than people realize'."
+    },
+    {
+      "id": "5194145",
+      "time": "2026-11-05 04:36:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國伯靈頓北方聖達菲鐵路公司（BNSF）：美國中部夏令時上午約9點13分收到初步報告，華盛頓州普利茅斯附近發生列車脫軌事故，主線軌道受影響。主線軌道預計恢復通行時間目前尚未確定。"
+    },
+    {
+      "id": "mkt:01a1a846-4127-7ee0-aa7a-b3b6001f9f15",
+      "time": "2026-11-05 04:35:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reported U.S. House Minority Leader Hakeem Jeffries wrote to colleagues announcing he will run for House speaker."
+    },
+    {
+      "id": "mkt:01a1a845-e730-7ee0-aa7a-a85b47e7ce87",
+      "time": "2026-11-05 04:35:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump asked whether canceling tariffs would cause each of roughly 3,000 factories currently under construction to stop."
+    },
+    {
+      "id": "5194144",
+      "time": "2026-11-05 04:34:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：如果我現在取消關稅呢？目前我們有3000家工廠正在建設中。每一家都會立即停工，對吧？"
+    },
+    {
+      "id": "mkt:01a1a845-6d91-7ee0-aa7a-a249bc0f02f6",
+      "time": "2026-11-05 04:34:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "President Trump ruled out cutting his tariffs."
+    },
+    {
+      "id": "5194143",
+      "time": "2026-11-05 04:33:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院民主黨領袖傑弗里斯宣佈競選眾議院議長。"
+    },
+    {
+      "id": "5194142",
+      "time": "2026-11-05 04:33:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "委內瑞拉10月份消費者價格環比上漲6.2%。"
+    },
+    {
+      "id": "5194141",
+      "time": "2026-11-05 04:32:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普拒絕就信用卡利率上限問題置評。"
+    },
+    {
+      "id": "5194140",
+      "time": "2026-11-05 04:31:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：可以在金融相關議題上與民主黨合作，這些金融方案將實現互利共贏。"
+    },
+    {
+      "id": "te:markets:598307",
+      "time": "2026-11-05 04:30:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Morgan Stanley Shares Hit 5-week High — Morgan Stanley shares increased to 193.31 USD, the highest since September 2026. Over the past 4 weeks, Morgan Stanley gained 1.57%, and in the last 12 months, it increased 16.95%."
+    },
+    {
+      "id": "5194139",
+      "time": "2026-11-05 04:26:48",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【蘋果為控制成本削減員工人工智慧使用預算】蘋果正在縮減員工的人工智慧使用預算，這是其整體控本舉措的一部分。蘋果上月將部分工程師每日人工智慧使用額度由300美元下調至200美元。該公司正考慮對部分工程團隊進一步削減額度，日限額或降至100美元。部分非工程團隊目前的日上限已是100美元，該額度最低可能被下調至25美元。員工若需要更高額度使用人工智慧工具，可向高管申請豁免。"
+    },
+    {
+      "id": "5194138",
+      "time": "2026-11-05 04:23:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國總統特朗普認為自己在伊朗戰爭問題上被誤導，並可能在共和黨中期選舉失利後尋求問責高階官員。"
+    },
+    {
+      "id": "5194137",
+      "time": "2026-11-05 04:18:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟委員會公佈2027年工作計劃】歐盟委員會4日公佈2027年工作計劃，提出將透過深化單一市場、降低能源成本、減少行政負擔等措施提升歐盟國家經濟競爭力，同時加強國防安全、改善社會民生、應對氣候變化並擴大國際合作。（央視新聞）"
+    },
+    {
+      "id": "5194136",
+      "time": "2026-11-05 04:13:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "墨西哥石油公司位於德克薩斯州迪爾帕克的煉油廠報告稱，第三方斷路器跳閘，導致多臺裝置停運，斷路器跳閘原因正在調查中。"
+    },
+    {
+      "id": "5194135",
+      "time": "2026-11-05 04:10:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta發言人：Meta將決定其在俄亥俄州皮奎市投資專案的後續走向，會與當地官員商討皮奎專案方案。"
+    },
+    {
+      "id": "5194134",
+      "time": "2026-11-05 04:08:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲8%，現報1008.46美元/盎司。"
+    },
+    {
+      "id": "5194133",
+      "time": "2026-11-05 04:03:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列因擔憂伊朗可能發動襲擊而處於高度安全警戒狀態。"
+    },
+    {
+      "id": "5194132",
+      "time": "2026-11-05 04:01:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國汽車工人聯合會（UAW）對迪爾公司關閉艾奧瓦州工廠表示“厭惡”。"
+    },
+    {
+      "id": "5194131",
+      "time": "2026-11-05 04:01:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國汽車工人聯合會將動用一切可用手段阻止迪爾公司關閉工廠。"
+    },
+    {
+      "id": "5194130",
+      "time": "2026-11-05 03:56:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "弗拉維奧·博爾索納羅明天將在海湖莊園發表講話。"
+    },
+    {
+      "id": "5194129",
+      "time": "2026-11-05 03:54:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普與俄羅斯的柴油協議遇挫，美國燃料供應降至20年低點。"
+    },
+    {
+      "id": "5194128",
+      "time": "2026-11-05 03:52:20",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗銀行：已獲利了結歐元/挪威克朗的空頭交易，獲利2.6%。"
+    },
+    {
+      "id": "5194127",
+      "time": "2026-11-05 03:52:02",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國原油期貨收於8月31日以來最低收盤價。"
+    },
+    {
+      "id": "5194126",
+      "time": "2026-11-05 03:51:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "賽峰集團與MSI防務系統公司就反無人機炮塔系統簽署英法合作協議。"
+    },
+    {
+      "id": "5194125",
+      "time": "2026-11-05 03:49:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：與美國特使威特科夫和庫什納進行了長達一個半小時的詳細交談。正籌備在團隊層面舉行烏克蘭、美國、俄羅斯三方形式會談，預計不到一週內舉行。"
+    },
+    {
+      "id": "5194124",
+      "time": "2026-11-05 03:49:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普選舉失利後表現彙總】\n1. 中期選舉失利後首次出鏡，未接受記者提問，先出席白宮宴會廳主樑簽署儀式，發言話題圍繞這座宴會廳專案，而非選舉；被追問時稱選舉日前一天在倒影池的講話主題是倒影池、基建，不是中期選舉。\n2. 表態：如果本次選舉他本人參選，共和黨本可以取勝；失利很大程度和伊朗戰爭有關，但就算重來，他仍會做出同樣決定，不能讓伊朗擁有核武器。\n3. 稱和民主黨人或許可以好好相處；警告民主黨若發起彈劾，會反噬民主黨自身；同時表示自己不擔心被彈劾。\n4. 對外釋放訊號：伊朗戰爭的收尾必須妥善處理，戰爭要走向終結。\n5. 對外表態擁有否決權，可否決民主黨法案，同時稱願意和民主黨就國家利益合作。\n6. 公開表態不會撤換國防部長赫格塞思，評價赫格塞思履職表現出色。\n7. 社交平臺發文，強調美股多次重新整理歷史新高，401(k)賬戶收益走高，突出股市成績。\n8. 被問及選舉失利原因時，先後給出兩套說法：一度稱失利主因是物價通脹，也承認伊朗戰爭是重要因素。"
+    },
+    {
+      "id": "5194123",
+      "time": "2026-11-05 03:47:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "訊息人士稱，美國頁岩油生產商Enduring Resources IV的所有者正在探索以超過40億美元的估值出售該公司。"
+    },
+    {
+      "id": "5194122",
+      "time": "2026-11-05 03:46:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果削減內部AI使用預算以縮減開支。"
+    },
+    {
+      "id": "5194121",
+      "time": "2026-11-05 03:46:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果計劃進一步削減員工的AI使用額度。"
+    },
+    {
+      "id": "5194120",
+      "time": "2026-11-05 03:45:57",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "蘋果將部分工程師每日AI使用額度從300美元下調至200美元。"
+    },
+    {
+      "id": "5194119",
+      "time": "2026-11-05 03:44:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價為每桶94.62美元，下跌8.98美元，跌幅8.67%。"
+    },
+    {
+      "id": "5194118",
+      "time": "2026-11-05 03:40:48",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通將阿波羅全球管理公司的目標股價從每股153.00美元上調至157.00美元，維持增持評級。"
+    },
+    {
+      "id": "5194112",
+      "time": "2026-11-05 03:36:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "敘利亞財政部宣告：沙烏地阿拉伯和敘利亞簽署了六項優惠發展貸款協議，價值超過 4.03 億美元，以支援敘利亞的發展和服務部門。"
+    },
+    {
+      "id": "5194108",
+      "time": "2026-11-05 03:31:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價為每桶88.12美元，下跌7.97美元，跌幅8.29%。"
+    },
+    {
+      "id": "5194105",
+      "time": "2026-11-05 03:27:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國佛州坦帕市發生槍擊事件 2人死亡】當地時間11月4日，總檯記者獲悉，美國佛羅里達州坦帕市發生一起槍擊事件。當地警方證實，一名嫌疑人和一名受害者已經死亡。（央視新聞）"
+    },
+    {
+      "id": "5194101",
+      "time": "2026-11-05 03:25:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "地區官員稱，烏克蘭無人機襲擊造成俄羅斯邊境別爾哥羅德州三人死亡，其中包括一名兒童。"
+    },
+    {
+      "id": "5194100",
+      "time": "2026-11-05 03:25:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國紐約市長馬姆達尼：民主黨僅僅贏得權力還不夠。我們必須運用這份權力，拿出實實在在的變革，讓美國人能從錢包裡感受到實惠。"
+    },
+    {
+      "id": "5194097",
+      "time": "2026-11-05 03:23:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委穆蘭：對政府提高受監管儲蓄上限的計劃持懷疑態度。"
+    },
+    {
+      "id": "5194096",
+      "time": "2026-11-05 03:23:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "尚乘數科旗下尚乘國際（AMTD IDEA）正進入深度磋商階段，擬收購紐約市第三家酒店。"
+    },
+    {
+      "id": "5194094",
+      "time": "2026-11-05 03:22:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委穆蘭：銀行與主權國家之間的迴圈風險已不復存在。"
+    },
+    {
+      "id": "5194093",
+      "time": "2026-11-05 03:21:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委穆蘭：法國的財政問題解決方案在法國，而非法蘭克福。"
+    },
+    {
+      "id": "5194092",
+      "time": "2026-11-05 03:21:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委穆蘭：銀行能夠應對利率上升。"
+    },
+    {
+      "id": "5194086",
+      "time": "2026-11-05 03:15:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美媒預測民主黨中期選舉大勝 金價大漲】多家美國主流媒體預測，美國民主黨在3日舉行的中期選舉中大獲全勝。美元和美國國債收益率走低，黃金、白銀期價4日大幅上漲。（新華社）"
+    },
+    {
+      "id": "5194084",
+      "time": "2026-11-05 03:14:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國上訴法院駁回針對紐約市第二居所稅（俗稱豪宅二套房稅）落地實施的訴訟。"
+    },
+    {
+      "id": "5194078",
+      "time": "2026-11-05 03:09:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲3.01%，現報53342.910點；納指漲2.00%，現報25878.438點；標普500指數漲1.86%，現報7709.500點。"
+    },
+    {
+      "id": "5194077",
+      "time": "2026-11-05 03:09:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞對蘇丹衝突中的高階指揮官實施制裁。"
+    },
+    {
+      "id": "5194076",
+      "time": "2026-11-05 03:08:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美股漲幅擴大，道瓊斯指數上漲3.00%。"
+    },
+    {
+      "id": "5194075",
+      "time": "2026-11-05 03:08:29",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗銀行：墨西哥分析師將2026年GDP增長預期從1.40%上調至1.80%。"
+    },
+    {
+      "id": "5194074",
+      "time": "2026-11-05 03:07:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic為其Claude應用市場新增14家合作伙伴。"
+    },
+    {
+      "id": "5194071",
+      "time": "2026-11-05 03:06:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國媒體預測：民主黨候選人威廉·勞倫斯贏得密歇根州眾議院第7選區席位。"
+    },
+    {
+      "id": "5194066",
+      "time": "2026-11-05 03:03:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織與布吉納法索就中期貸款機制和韌性與可持續性基金安排達成協議。"
+    },
+    {
+      "id": "5194061",
+      "time": "2026-11-05 03:01:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織與布吉納法索達成工作人員級別協議。"
+    },
+    {
+      "id": "5194060",
+      "time": "2026-11-05 03:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲2.11%，報24417.46點，高水497.96點。"
+    },
+    {
+      "id": "5194059",
+      "time": "2026-11-05 02:58:45",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗調查：預計到2027年底墨西哥比索將升至1美元兌19.00比索。"
+    },
+    {
+      "id": "5194058",
+      "time": "2026-11-05 02:58:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一架載有3人的直升機在美國邁阿密附近海域墜毀】當地時間11月4日，一架載有3人的直升機在美國邁阿密附近的比斯坎灣墜毀。目前，官方尚未提供有關機上人員狀況及其他相關細節。（央視新聞）"
+    },
+    {
+      "id": "5194057",
+      "time": "2026-11-05 02:58:26",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗調查：預計墨西哥2026年底利率維持在6.50%。"
+    },
+    {
+      "id": "5194056",
+      "time": "2026-11-05 02:58:14",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗調查：預計到2026年底墨西哥比索將報18.50比索兌1美元。"
+    },
+    {
+      "id": "5194051",
+      "time": "2026-11-05 02:53:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "調查顯示，預計美國能源資訊署（EIA）週四釋出的報告將顯示，上週美國天然氣庫存增加810億立方英尺。"
+    },
+    {
+      "id": "5194050",
+      "time": "2026-11-05 02:53:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱自行決定伊朗戰事何時結束】當地時間11月4日，美國總統特朗普在白宮對媒體表示，他並沒有說過對伊朗戰爭會在中期選舉後立即結束。特朗普稱，“伊朗戰爭將在我想要的時候結束，戰爭的結束必須是正確的。（CCTV國際時訊）"
+    },
+    {
+      "id": "5194049",
+      "time": "2026-11-05 02:53:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國密西西比州一化工廠發生爆炸】美國密西西比州一家化工廠發生爆炸，應急救援人員已趕赴現場進行處置。據當地政府釋出的訊息，有關部門在當地時間4日上午7時許接到報告，稱位於密西西比州格林維爾的“洛夫蘭產品公司”工廠發生爆炸。華盛頓縣應急管理副主任、同時也是當地消防員的薩拉·莫蘭·赫斯特表示，目前暫無人員傷亡報告。她稱，截至當天上午，火勢已得到控制，但尚未完全撲滅。 (央視新聞)"
+    },
+    {
+      "id": "5194047",
+      "time": "2026-11-05 02:48:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委卡扎克斯：利率可能會逐步上調。"
+    },
+    {
+      "id": "5194046",
+      "time": "2026-11-05 02:47:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委卡扎克斯：若通脹風險擴散，則需加息。"
+    },
+    {
+      "id": "5194045",
+      "time": "2026-11-05 02:46:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特： 正如我們多次所言，在 “經濟放逐行動” 框架下，各方要麼站在我們一邊，要麼就是我們的對手。我們掌握各方動向，對於持續支援伊朗政權的主體，無論透過陸路、海路還是空運渠道，我們都將實施制裁。"
+    },
+    {
+      "id": "5194043",
+      "time": "2026-11-05 02:34:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱不懼民主黨彈劾】當地時間11月4日，美國總統特朗普在中期選舉失利後首次露面，向媒體介紹白宮宴會廳的建設進展。他對媒體談及中期選舉時表示，如果他的名字出現在選票上，他們本可以獲勝。他稱，他或許能與民主黨人相處融洽，而如果民主黨彈劾他，那將摧毀民主黨。（CCTV國際時訊）"
+    },
+    {
+      "id": "5194039",
+      "time": "2026-11-05 02:30:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普中期選舉失利後首次露面】當地時間11月4日，美國總統特朗普在中期選舉失利後首次露面。他在白宮對媒體表示，選舉失利在很大程度上確實是由與伊朗的衝突所致，但如果重來一次，他仍會作同樣的決定。特朗普稱，絕不能讓伊朗擁有核武器。在被問及國防部長赫格塞思的去留問題時，特朗普表示，不會換掉赫格塞思，他“幹得非常出色”。（CCTV國際時訊）"
+    },
+    {
+      "id": "5194036",
+      "time": "2026-11-05 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌7.07%，報628.40元人民幣/桶。滬金夜盤收漲2.61%，滬銀收漲4.82%。"
+    },
+    {
+      "id": "te:markets:598305",
+      "time": "2026-11-05 02:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Soars by 7.04% — Top crypto gainers are Ether (7.04%), Bitcoin (4.13%) and XRP (3.15%)."
+    },
+    {
+      "id": "5194033",
+      "time": "2026-11-05 02:26:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼將於11月11日至19日訪問歐洲和亞洲。"
+    },
+    {
+      "id": "te:economy:598304",
+      "time": "2026-11-05 02:26:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Non Farm Payrolls",
+        "Importance 1"
+      ],
+      "text": "Brazil Job Creation Falls Short of Expectations — Brazil created 121,305 formal jobs in September 2026, below expectations of 171,000 and down from 165,827 in August, a four-month high. The result reflected 2.21 million hires and 2.09 million dismissals. Four of the five major sectors posted positive balances, led by services (+81,241), industry (+19,285), commerce (+15,697) and construction (+9,468). Agriculture recorded a net loss of 4,381 jobs. All five regions added jobs, with the Northeast leading at 49,142. Year to date, Brazil created 1,248,914 formal jobs, while the 12-month net balance reached 787,073. The stock of active formal employment contracts totaled 48.36 million in September, up 0.25% from August."
+    },
+    {
+      "id": "te:markets:598303",
+      "time": "2026-11-05 02:25:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rapeseed Drops by 2.00% — Top commodity losers are Rapeseed (-2%) and Rubber (-1.29%). Gains are led by Cotton (1.81%) and Corn (0.84%)."
+    },
+    {
+      "id": "5194029",
+      "time": "2026-11-05 02:24:32",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "Al-Jadeed援引阿拉伯外交訊息：美伊談判的走向將於週五進一步明朗，目前談判已取得重大進展。"
+    },
+    {
+      "id": "5194028",
+      "time": "2026-11-05 02:23:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：伊朗戰爭的結束必須處理得當。"
+    },
+    {
+      "id": "5194025",
+      "time": "2026-11-05 02:22:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：不考慮更換國防部長赫格塞斯，赫格塞斯做得非常好。"
+    },
+    {
+      "id": "5194024",
+      "time": "2026-11-05 02:22:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：伊朗戰爭我想什麼時候結束就什麼時候結束。"
+    },
+    {
+      "id": "5194023",
+      "time": "2026-11-05 02:22:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗多地民眾舉行集會 譴責美以霸權】11月4日伊朗“反對全球傲慢日”，伊朗民眾在全國多地舉行反美反以集會，譴責美以霸權。德黑蘭市長扎卡尼表示，伊朗人民與美國鬥爭旨在對抗其壓迫和犯罪行為，美以試圖尋求伊朗政權更迭必將失敗，美國無法透過經濟戰實現其目標，伊朗正採取一系列行動徹底擊敗美國的經濟和認知侵略；民眾表示若美國以推翻伊朗政權為目標發動戰爭，伊朗必將繼續頑強抵抗。（央視新聞）"
+    },
+    {
+      "id": "5194022",
+      "time": "2026-11-05 02:21:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：在伊朗戰爭問題上，我不會採取任何不同的做法。美國副總統萬斯也許不會參選（下一屆總統選舉）。"
+    },
+    {
+      "id": "5194021",
+      "time": "2026-11-05 02:21:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普認為Salesforce能夠加速增長，年營收增速有望超過10%。"
+    },
+    {
+      "id": "5194020",
+      "time": "2026-11-05 02:20:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我早就知道這場戰爭會影響選舉。"
+    },
+    {
+      "id": "te:markets:598302",
+      "time": "2026-11-05 02:20:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Surges by 5.17% — Top commodity gainers are Silver (5.17%), Platinum (4.81%) and Gold (3.42%). Biggest loser is Lithium Carbonate (-1.01%)."
+    },
+    {
+      "id": "5194019",
+      "time": "2026-11-05 02:19:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：美國副總統萬斯的帖子不錯，我知道萬斯對戰爭持何種看法。"
+    },
+    {
+      "id": "5194018",
+      "time": "2026-11-05 02:19:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：預計Salesforce的自由經營現金流將幾乎全部用於股東回報和併購。"
+    },
+    {
+      "id": "5194017",
+      "time": "2026-11-05 02:19:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：預計Salesforce將基於剩餘履約義務繼續提升訂閱收入與盈利。"
+    },
+    {
+      "id": "5194016",
+      "time": "2026-11-05 02:18:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：Meta收購AI初創公司Conductor。"
+    },
+    {
+      "id": "5194013",
+      "time": "2026-11-05 02:16:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯稱中期選舉失利因伊朗戰事】美國副總統萬斯當地時間11月4日在社交媒體發文，將共和黨中期選舉失利歸咎於對伊朗的戰爭。萬斯表示：“我們輸掉選舉的根源，就是這場戰爭。總統本人也承認了這一點。”萬斯在帖文中指出，共和黨選民的投票率並不低，“但核心問題不在於投票率，真正的問題是：很多2024年投給特朗普和我的選民，在2026年中期選舉中投給了民主黨”。萬斯表示，一位知名民調專家向“倒戈”的選民提問怎樣才能讓他們重新回到共和黨陣營，佔絕大多數反饋的前四條答案是：結束戰爭，聚焦生活成本、通脹問題，堅持“美國優先”，調整和以色列的關係。（CCTV國際時訊）"
+    },
+    {
+      "id": "em:qqyh_mlc:202611053922367320",
+      "time": "2026-11-05 02:16:37",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週三使用規模為2.25億美元（交易對手1家），上個交易日報4.27億美元。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202611053922367320",
+      "time": "2026-11-05 02:16:37",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週三使用規模為2.25億美元（交易對手1家），上個交易日報4.27億美元。"
+    },
+    {
+      "id": "5194012",
+      "time": "2026-11-05 02:16:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週三（11月4日），美聯儲隔夜逆回購協議（RRP）使用規模為2.25億美元（交易對手1家），上個交易日報4.27億美元。"
+    },
+    {
+      "id": "te:markets:598300",
+      "time": "2026-11-05 02:15:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Oil Slumps by 7.88% — Top commodity losers are Brent Oil (-7.88%), Natural Gas EU (-7.68%) and Crude Oil (-7.55%). Gains are led by Natural gas (2.59%)."
+    },
+    {
+      "id": "5194008",
+      "time": "2026-11-05 02:13:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：如果民主黨人彈劾我，將毀掉民主黨。"
+    },
+    {
+      "id": "5194007",
+      "time": "2026-11-05 02:12:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：不擔心被彈劾。"
+    },
+    {
+      "id": "5194003",
+      "time": "2026-11-05 02:12:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我們未能將這種支援傳遞給候選人。"
+    },
+    {
+      "id": "5194002",
+      "time": "2026-11-05 02:11:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普： 如果本次選舉我本人參選，我們本可以取勝。"
+    },
+    {
+      "id": "5194001",
+      "time": "2026-11-05 02:11:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普：中期選舉失利的原因是物價，而非戰爭。"
+    },
+    {
+      "id": "5194000",
+      "time": "2026-11-05 02:11:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：伊朗問題是我們必須做的事，我們會繼續做下去。"
+    },
+    {
+      "id": "5193999",
+      "time": "2026-11-05 02:11:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我大概會和民主黨人相處得來。"
+    },
+    {
+      "id": "5193998",
+      "time": "2026-11-05 02:10:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我認為對伊朗的戰爭是值得的。"
+    },
+    {
+      "id": "5193997",
+      "time": "2026-11-05 02:10:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普：共和黨失利很大程度上是因為伊朗問題。"
+    },
+    {
+      "id": "5193996",
+      "time": "2026-11-05 02:10:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：將不介入共和黨眾議院領導層角逐。"
+    },
+    {
+      "id": "5193995",
+      "time": "2026-11-05 02:09:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：沒有要求眾議院議長約翰遜辭去共和黨領袖職務。"
+    },
+    {
+      "id": "te:markets:598297",
+      "time": "2026-11-05 02:09:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss Bond Yields Fall Toward 2-Month Low — The Swiss 10-year sovereign yield fell below 0.5%, approaching its lowest level in just over two months, as oil prices declined while markets assessed the impact of a Democratic sweep in the US midterm elections on the conflict between Washington and Tehran. The results could constrain President Trump’s foreign policy agenda, particularly his approach to the war with Iran. Safe-haven demand amid Europe’s uncertain fiscal outlook is also providing some support. However, signs of persistent inflationary pressures limited gains. In Switzerland, inflation climbed to a nearly three-year high of 1.5% in October, driven by a weaker franc and higher energy prices. While still within the SNB’s 0%-2% target range, inflation moved closer to its upper limit. The SNB kept its policy rate at 0%, with Chair Schlegel signalling no immediate need for a change. While markets expect a hike in early 2027, economists anticipate a move only in late 2027 as core inflation remained steady at 0.5%."
+    },
+    {
+      "id": "5193994",
+      "time": "2026-11-05 02:07:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4070美元/盎司，日內漲3.57%。"
+    },
+    {
+      "id": "5193993",
+      "time": "2026-11-05 02:07:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普未接受在場媒體的提問，隨後繼續前往，去參加宴會廳房梁的簽署儀式。"
+    },
+    {
+      "id": "5193990",
+      "time": "2026-11-05 02:03:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局局長：目前每週約有3艘液化天然氣船透過巴拿馬運河，而戰前為每天兩艘。"
+    },
+    {
+      "id": "5193989",
+      "time": "2026-11-05 02:03:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局局長表示，今年一艘船透過巴拿馬運河支付的最高費用為520萬美元。"
+    },
+    {
+      "id": "5193987",
+      "time": "2026-11-05 02:00:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部外國資產控制辦公室（OFAC）釋出新的行業警示，提醒業界注意與可能虛假懸掛船旗的船舶進行交易的風險。"
+    },
+    {
+      "id": "5193986",
+      "time": "2026-11-05 02:00:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：被錯誤標記的船隻不享有任何有效保護或保險，可能對其運營所在國家造成數十億美元損失。"
+    },
+    {
+      "id": "5193985",
+      "time": "2026-11-05 01:59:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "新興市場外匯指數（EMFX）觸及日內高點，美國中期選舉過後美元走弱。"
+    },
+    {
+      "id": "te:markets:598296",
+      "time": "2026-11-05 01:58:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Germany 10-Year Bond Yield Falls Slightly — Germany’s 10-year Bund yield fell by 3bps to below 3.78% on Wednesday, tracking a decline in US Treasury yields following an unexpected Democratic sweep in the US midterm elections. The Democrats’ takeover of the House and Senat is seen as reducing the likelihood of further deficit-expanding legislation under the Trump administration, easing concerns about government borrowing. However, the decline in German yields was more modest than across other European bond markets, as new data pointed to persistent inflationary pressures, reinforcing expectations that further rate increases may be necessary. Eurozone annual inflation accelerated to 4% in October, its highest since September 2023 and well above the ECB’s 2% target, largely driven by surging energy prices. Despite last week’s decision to leave rates unchanged, officials signalled that further increases may be needed to contain inflation and prevent price pressures from spilling over into wages."
+    },
+    {
+      "id": "te:markets:598293",
+      "time": "2026-11-05 01:58:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Italy's BTP Yield Drops to 2-Month Low — Italy’s 10-year BTP yield fell below 4.40%, hitting a two-month low as oil prices declined while markets assessed the impact of a Democratic sweep in the US midterm elections on the conflict between Washington and Tehran. The results could constrain President Trump’s foreign policy agenda, particularly his approach to the war with Iran. However, elevated energy prices continue to fuel inflationary pressures and concerns over public spending. Eurozone headline inflation rose to 4% in October, double the ECB’s target. Policymakers have signalled readiness for a another rate hike if the inflation outlook fails to ease, while markets continue to price in a December increase. Across Europe, governments are expanding energy support to shield households from rising costs ahead of next year’s elections, as cost-of-living protests spread, including in Italy. Meanwhile, Rome plans to approve a decree this week to limit the impact of soaring gas prices on electricity costs."
+    },
+    {
+      "id": "5193984",
+      "time": "2026-11-05 01:55:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌25美元，報14011美元/噸。LME期鋁收漲2美元，報3047美元/噸。LME期鋅收漲16美元，報3807美元/噸。LME期鉛收跌2美元，報1882美元/噸。LME期鎳收漲432美元，報15779美元/噸。LME期錫收跌440美元，報46995美元/噸。LME期鈷收平，報33525美元/噸。"
+    },
+    {
+      "id": "5193983",
+      "time": "2026-11-05 01:55:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：伊朗駐波蘭大使於週三拜會伊朗外長阿拉格奇，就使館最新工作進展、雙邊關係態勢以及德黑蘭 — 華沙雙邊議程重點專案進行彙報。"
+    },
+    {
+      "id": "5193980",
+      "time": "2026-11-05 01:51:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局局長表示，最大授權船舶吃水深度可能根據未來幾個月的降雨情況進行調整。"
+    },
+    {
+      "id": "5193977",
+      "time": "2026-11-05 01:51:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局長稱，受近期降雨補給，航道得以維持每日33艘次深吃水船舶的通行配額；預計旱季結束前，每日獲批通行量將維持在32至33艘次區間。"
+    },
+    {
+      "id": "5193975",
+      "time": "2026-11-05 01:49:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國9月貿易逆差維持在相對高位】美國商務部4日釋出的資料顯示，美國9月商品和服務貿易逆差金額為1050億美元，環比減少6.9億美元，繼續維持去年3月以來的相對高位。 資料顯示，美國9月商品與服務出口金額為3215億美元，環比增加1.9%，而商品與服務進口金額為4266億美元，環比增加1.2%。當月，商品貿易逆差減少7億美元至1359億美元，而服務貿易順差為309億美元，環比微降。 資料還顯示，受資本貨物和食品、飼料和飲料等出口增加推動，美國9月商品出口金額增加51億美元。同期，資本貨物和消費品進口分別增加116億美元和24億美元，而工業用品和材料進口則減少37億美元，推動商品進口金額增加44億美元。 美國商務部表示，美國9月服務貿易出口、商品和服務進口金額均創下有記錄以來的新高。(新華社)"
+    },
+    {
+      "id": "5193973",
+      "time": "2026-11-05 01:45:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "庫拉腫瘤（Kura Oncology）股價下跌 18.5%，原因是強生公佈了一款血液腫瘤療法的相關資料。"
+    },
+    {
+      "id": "5193972",
+      "time": "2026-11-05 01:44:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：白宮媒體隨行團剛剛接到通知，前往棕櫚廳門口集合。這將是中期選舉結果出爐後，特朗普總統首次出鏡，就選舉結果作出表態。"
+    },
+    {
+      "id": "5193971",
+      "time": "2026-11-05 01:43:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：沙特與敘利亞簽署能源、軍事合作協議。"
+    },
     {
       "id": "5193967",
       "time": "2026-11-05 01:37:17",
