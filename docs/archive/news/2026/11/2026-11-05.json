@@ -1,7 +1,82 @@
 {
   "date": "2026-11-05",
-  "count": 110,
+  "count": 118,
   "items": [
+    {
+      "id": "mkt:01a1a788-f266-7ee0-aa78-46144cd83292",
+      "time": "2026-11-05 01:08:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Several presidents and heads of state have arrived in Madrid, Spain, to attend the Ibero‑American Summit."
+    },
+    {
+      "id": "5193943",
+      "time": "2026-11-05 01:08:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "芝商所Duffy：CFTC的監管方式不可持續。對體育賽事結果的預測無異於賭博。"
+    },
+    {
+      "id": "te:markets:598260",
+      "time": "2026-11-05 01:07:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises the Most since May — The FTSE 100 climbed 1.9% on Wednesday, its strongest daily gain since May 6, as investor sentiment improved following the Democrats’ victory in both chambers of the US Congress in the midterm elections. Banks led the rally, with HSBC surging nearly 5% and Lloyds, Barclays and Standard Chartered gaining around 4% each. Consumer, healthcare and mining stocks also advanced. Among individual stocks, Marks & Spencer rose more than 6% after reporting first-half sales ahead of expectations, while Smith & Nephew gained over 6% despite lowering its full-year guidance. In contrast, defence stocks and oil majors underperformed. BAE Systems fell more than 3%, while Shell and BP lost 1.6% and 2.7%, respectively, as crude prices slumped on reduced expectations of further US strikes against Iran. Weir dropped nearly 10% despite maintaining its outlook. Investors now turn to Thursday’s Bank of England decision, with a rate increase widely expected."
+    },
+    {
+      "id": "mkt:01a1a787-a768-7ee0-aa78-3a11aa8ecba9",
+      "time": "2026-11-05 01:07:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said 46 drones have been shot down over several Russian regions since Wednesday morning."
+    },
+    {
+      "id": "5193942",
+      "time": "2026-11-05 01:07:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：自週三上午以來，俄各地區上空已擊落46架無人機。"
+    },
+    {
+      "id": "te:markets:598259",
+      "time": "2026-11-05 01:07:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 1.88% Higher — The FTSE 100 Index went up by 200 points or 1.88 percent on Wednesday to close at 10838 points. The rise was led by Fresnillo (7.00%), Marks & Spencer (6.71%) and Smith & Nephew (6.67%)."
+    },
+    {
+      "id": "5193941",
+      "time": "2026-11-05 01:06:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "多國總統和國家元首抵達馬德里，出席伊比利亞美洲峰會。"
+    },
+    {
+      "id": "5193940",
+      "time": "2026-11-05 01:05:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局局長：巴拿馬運河將於2026年底前公佈新碼頭專案的預審合格投標方名單。"
+    },
     {
       "id": "mkt:01a1a784-e101-7ee0-aa78-355f72ec6956",
       "time": "2026-11-05 01:04:25",
