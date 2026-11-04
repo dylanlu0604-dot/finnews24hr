@@ -1,7 +1,37 @@
 {
   "date": "2026-11-05",
-  "count": 430,
+  "count": 433,
   "items": [
+    {
+      "id": "mkt:01a1a8a6-d36f-7ee0-aa7c-636f4978a3fb",
+      "time": "2026-11-05 06:21:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "Qualcomm (QCOM.O) CFO said that with Apple product revenue declining, the December quarter is not expected to be the company's strongest quarter."
+    },
+    {
+      "id": "5194229",
+      "time": "2026-11-05 06:21:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普道瓊斯指數在12月季度調整中不會納入任何土耳其證券。"
+    },
+    {
+      "id": "5194228",
+      "time": "2026-11-05 06:20:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通首席財務官：隨著蘋果產品收入下降，我們預計12月不會是我們業績最高的季度。"
+    },
     {
       "id": "5194227",
       "time": "2026-11-05 06:18:19",
