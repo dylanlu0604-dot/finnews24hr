@@ -1,7 +1,77 @@
 {
   "date": "2026-11-05",
-  "count": 60,
+  "count": 68,
   "items": [
+    {
+      "id": "5193914",
+      "time": "2026-11-05 00:40:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守96美元/桶，日內跌7.47%。"
+    },
+    {
+      "id": "mkt:01a1a76e-16fd-7ee0-aa77-b27d03b6977a",
+      "time": "2026-11-05 00:39:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ireland total tax revenue rose 10.3% YoY in the year to end-October 2026, excluding Apple back-tax payments; parliament-approved government spending rose 7.4% YoY."
+    },
+    {
+      "id": "mkt:01a1a76e-08b7-7ee0-aa77-accb5cd57167",
+      "time": "2026-11-05 00:39:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ireland to end-October 2026: personal income tax receipts rose 8.4% YoY and VAT receipts rose 7.3% YoY; corporate tax receipts YTD were up 23.4% YoY excluding a retrospective tax payment from Apple (AAPL.O)."
+    },
+    {
+      "id": "mkt:01a1a76d-ce90-7ee0-aa77-a4fb0fdb4f6f",
+      "time": "2026-11-05 00:39:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ireland's fiscal balance stood at a €3.1 bln deficit through end-October, versus a €0.9 bln deficit a year earlier. The widening mainly reflected a back-tax payment from Apple (AAPL.O) and transfers to a sovereign wealth fund."
+    },
+    {
+      "id": "5193913",
+      "time": "2026-11-05 00:38:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【以軍對黎南部發動空襲 造成1死1傷】當地時間4日，以軍釋出宣告表示，當天在黎巴嫩南部、以軍單方面劃定的軍事緩衝區以外地區，以軍發現兩名正在觀察以軍士兵的人員。以軍隨後對該二人發動空襲。黎巴嫩方面訊息稱，以軍本次襲擊造成1死1傷。（央視新聞）"
+    },
+    {
+      "id": "5193912",
+      "time": "2026-11-05 00:38:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守90美元/桶，日內跌6.35%。"
+    },
+    {
+      "id": "5193911",
+      "time": "2026-11-05 00:37:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌7%，現報96.32美元/桶。"
+    },
+    {
+      "id": "5193910",
+      "time": "2026-11-05 00:36:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌6%，現報90.32美元/桶。"
+    },
     {
       "id": "5193909",
       "time": "2026-11-05 00:35:28",

@@ -1,7 +1,77 @@
 {
-  "updated": "2026-11-05 00:36:40",
-  "count": 12095,
+  "updated": "2026-11-05 00:40:49",
+  "count": 12097,
   "items": [
+    {
+      "id": "5193914",
+      "time": "2026-11-05 00:40:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守96美元/桶，日內跌7.47%。"
+    },
+    {
+      "id": "mkt:01a1a76e-16fd-7ee0-aa77-b27d03b6977a",
+      "time": "2026-11-05 00:39:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ireland total tax revenue rose 10.3% YoY in the year to end-October 2026, excluding Apple back-tax payments; parliament-approved government spending rose 7.4% YoY."
+    },
+    {
+      "id": "mkt:01a1a76e-08b7-7ee0-aa77-accb5cd57167",
+      "time": "2026-11-05 00:39:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ireland to end-October 2026: personal income tax receipts rose 8.4% YoY and VAT receipts rose 7.3% YoY; corporate tax receipts YTD were up 23.4% YoY excluding a retrospective tax payment from Apple (AAPL.O)."
+    },
+    {
+      "id": "mkt:01a1a76d-ce90-7ee0-aa77-a4fb0fdb4f6f",
+      "time": "2026-11-05 00:39:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ireland's fiscal balance stood at a €3.1 bln deficit through end-October, versus a €0.9 bln deficit a year earlier. The widening mainly reflected a back-tax payment from Apple (AAPL.O) and transfers to a sovereign wealth fund."
+    },
+    {
+      "id": "5193913",
+      "time": "2026-11-05 00:38:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【以軍對黎南部發動空襲 造成1死1傷】當地時間4日，以軍釋出宣告表示，當天在黎巴嫩南部、以軍單方面劃定的軍事緩衝區以外地區，以軍發現兩名正在觀察以軍士兵的人員。以軍隨後對該二人發動空襲。黎巴嫩方面訊息稱，以軍本次襲擊造成1死1傷。（央視新聞）"
+    },
+    {
+      "id": "5193912",
+      "time": "2026-11-05 00:38:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守90美元/桶，日內跌6.35%。"
+    },
+    {
+      "id": "5193911",
+      "time": "2026-11-05 00:37:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌7%，現報96.32美元/桶。"
+    },
+    {
+      "id": "5193910",
+      "time": "2026-11-05 00:36:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌6%，現報90.32美元/桶。"
+    },
     {
       "id": "5193909",
       "time": "2026-11-05 00:35:28",
@@ -111534,62 +111604,6 @@
         "公司"
       ],
       "text": "谷歌雲：宣佈為Cloud SQL for MySQL推出全託管藍綠部署預覽版。"
-    },
-    {
-      "id": "5176874",
-      "time": "2026-10-29 00:39:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "房地美出售380萬美元不良貸款。"
-    },
-    {
-      "id": "5176873",
-      "time": "2026-10-29 00:39:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "義大利總理梅洛尼排除了金融公司因預算案帶來的額外收入而產生法律問題的可能性。"
-    },
-    {
-      "id": "te:economy:595922",
-      "time": "2026-10-29 00:38:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Russia Unemployment Rate Steady at 2.2% — Russia’s unemployment rate was unchanged at 2.2% in September 2026, the same as in August and matching market expectations. On a yearly basis, the unemployment rate was also unchanged from 2.2% in September 2025. The labor force aged 15 and over held at 76.7 million people, including 75 million employed and 1.7 million unemployed, up from 1.6 million in the previous month. Registered unemployment remained low at around 0.3 million people, or 0.4% of the labor force. The number of unemployed increased by 0.3% from a year earlier, while employment rose by 0.6%. Labor market conditions remain tight, reflecting persistent worker shortages across multiple sectors amid military mobilization following Russia’s invasion of Ukraine in February 2022 and sustained emigration. Authorities expect labor constraints to persist, projecting a shortfall of around 3.1 million workers by 2030."
-    },
-    {
-      "id": "5176871",
-      "time": "2026-10-29 00:37:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "幣安：幣安支付計劃到2026年第三季度將加密貨幣二維碼支付擴充套件至10個以上國家。"
-    },
-    {
-      "id": "te:economy:595920",
-      "time": "2026-10-29 00:37:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Russia Retail Sales Rise More than Expected — Retail sales in Russia rose by 3.9% year-on-year in September 2026, following a 3.3% increase in August and overshooting market forecasts for a 3.5% advance. Spending on food products rose at a faster 3.7% in September, compared to 2.3% in August. Sales of non-food products increased by 4.1%, maintaining the pace seen in the month before. On a monthly basis, retail trade declined by 4%, the most since January, after a 0.3% rise in the previous month. In the third quarter of 2026, retail sales grew by 4.2% over a year ago."
-    },
-    {
-      "id": "5176870",
-      "time": "2026-10-29 00:37:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "幣安：Binance Pay已接入阿根廷、玻利維亞和哥倫比亞的二維碼網路。"
     }
   ]
 }
