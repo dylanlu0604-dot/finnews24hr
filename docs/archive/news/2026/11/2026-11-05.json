@@ -1,7 +1,52 @@
 {
   "date": "2026-11-05",
-  "count": 416,
+  "count": 421,
   "items": [
+    {
+      "id": "mkt:01a1a899-8a06-7ee0-aa7c-3e5355072b47",
+      "time": "2026-11-05 06:06:36",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "Qualcomm (QCOM.O) CFO said QCT mobile revenue in fiscal 2027 Q1 is expected to decline sequentially by mid-single digits (~5%)."
+    },
+    {
+      "id": "5194223",
+      "time": "2026-11-05 06:05:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國將部署7萬名警察和憲兵應對示威活動】當地時間11月4日，法國內政部長洛朗·努內茲宣佈，11月5日全國示威活動期間，將部署7萬名警察和憲兵，安保力量配置與10月31日完全相同。（央視新聞）"
+    },
+    {
+      "id": "5194222",
+      "time": "2026-11-05 06:04:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通首席財務官：公司預計2027年第一季度QCT手機業務收入將環比下降中個位數百分比。"
+    },
+    {
+      "id": "mkt:01a1a897-9af5-7ee0-aa7c-301f4909def8",
+      "time": "2026-11-05 06:04:30",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) CFO said FY2027 Q1 guidance reflects that shipments of custom chips to two hyperscale cloud-service customers have begun."
+    },
+    {
+      "id": "5194221",
+      "time": "2026-11-05 06:04:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲12月加息的機率為81.5%】據CME“美聯儲觀察”：美聯儲12月維持利率不變的機率為18.5%，加息25個基點的機率為81.5%。美聯儲到明年1月維持利率不變的機率14.2%，累計加息25個基點的機率67.1%，累計加息50個基點的機率為18.7%。"
+    },
     {
       "id": "5194220",
       "time": "2026-11-05 06:00:45",
