@@ -1,7 +1,488 @@
 {
   "date": "2026-11-04",
-  "count": 1588,
+  "count": 1636,
   "items": [
+    {
+      "id": "5192935",
+      "time": "2026-11-04 17:03:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳能源：獲中誠信國際AAA主體信用評級 展望穩定】深圳能源公告稱，中誠信國際出具2025年度信用評級報告，評定公司主體信用等級為AAA，評級展望為穩定，評級有效期為2025年12月16日至2026年12月16日。評級肯定了公司獲政府有力支援、業務具規模優勢、營收規模顯著、盈利及獲現能力強、償債能力強、融資渠道通暢等優勢；同時關注到燃料價格、電力市場化政策及交易因素對盈利影響較大、面臨一定資本支出壓力等風險。2024年公司實現營業總收入412.14億元，淨利潤26.32億元；2025年1-9月實現營業總收入324.40億元，淨利潤28.33億元。"
+    },
+    {
+      "id": "5192934",
+      "time": "2026-11-04 17:03:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【引力傳媒：股票交易異常波動 無應披露未披露重大事項】引力傳媒公告稱，公司股票於2026年11月2日、11月3日、11月4日連續三個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。公司最新滾動市盈率為277.78倍，高於所屬廣告營銷行業63.47倍的滾動市盈率，三個交易日換手率分別為10.73%、12.73%、8.15%。經自查並向控股股東、實控人核實，公司日常經營正常，不存在應披露而未披露的重大資訊，董監高、控股股東及其一致行動人在異常波動期間無買賣公司股票行為，敬請投資者注意投資風險。"
+    },
+    {
+      "id": "te:economy:598065",
+      "time": "2026-11-04 17:03:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Germany Services Growth Slows Slightly in October — Germany’s S&P Global Services PMI was revised higher to 52.5 in October 2026 from a preliminary estimate of 51.7, but eased from 52.9 in September. This indicated continued expansion for a second consecutive month, albeit at a slightly slower pace, as new business inflows declined again, partly due to weaker domestic and foreign demand. Meanwhile, activity was supported by work on outstanding orders. Employment also fell for the first time since July, marking the sharpest decline in six months. On the price front, input cost inflation eased for the first time in four months, partly reflecting the reinstatement of fuel discounts, although price pressures remained elevated by historical standards. Output price inflation also moderated. Despite softer demand and declining employment, business confidence improved to its highest level since February, supported by hopes of a recovery in economic conditions."
+    },
+    {
+      "id": "5192933",
+      "time": "2026-11-04 17:03:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【谷歌擬斥資 150 億美元在馬來西亞擴建資料中心】Alphabet 旗下谷歌表示，人工智慧熱潮拉動數字基礎設施需求，公司計劃投入 150 億美元，在馬來西亞擴建資料中心與雲業務。公司週三釋出公告稱，將新建算力中心，並投入資金改善當地供水保障、發電設施以及馬來西亞本土人才培訓。相關投資將在 2027、2028 兩年落地。馬來西亞成本相對較低、基建可靠，且毗鄰新加坡等商業中心，谷歌也加入了多家全球科技企業的本地擴產行列。谷歌稱，未來兩年新園區建設階段將為馬來西亞經濟帶來 11 億美元增量，每年帶動超 3.7 萬個本地就業崗位。資料中心投運後，每年可穩定提供 9000 多個崗位，包含技術員、機電工程師、物流及安保管理人員。Alphabet 首席投資官露絲・波拉特在吉隆坡的一場活動上表示，馬來西亞總理安瓦爾・易卜拉欣出席了本次活動。她稱，這筆投資 “體現我們對馬來西亞領導層、熟練勞動力以及數字化轉型熱情的信心”。安瓦爾表示，谷歌這項投資尊重馬來西亞本土資源，也代表對本國人才的認可。“我們國傢俱備穩定環境、人才儲備和發展雄心，有望成為東南亞頂尖數字強國。”"
+    },
+    {
+      "id": "mkt:01a1a5cb-d962-7ee0-aa68-9b38f7207f8f",
+      "time": "2026-11-04 17:02:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Continental CFO said the implications of the US midterm election for the company and the broader economy remain uncertain but have added stability. The company raised its year‑end oil price forecast to above $90 per barrel, from $85 in May."
+    },
+    {
+      "id": "te:markets:598064",
+      "time": "2026-11-04 17:02:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Philippines",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Philippines 10Y Bond Yield Hits 16-1/2-year High — Philippines 10 Year Government Bond Yield increased to 8.33%, the highest since May 2010. Over the past 4 weeks, Philippines 10Y Bond Yield gained 31.50 basis points, and in the last 12 months, it increased 216.10 basis points."
+    },
+    {
+      "id": "mkt:01a1a5cb-c766-7ee0-aa68-95b4c4830d04",
+      "time": "2026-11-04 17:02:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google said it will invest $15 billion in Malaysia in 2027-28."
+    },
+    {
+      "id": "mkt:01a1a5cb-8652-7ee0-aa68-8a9d89dfcd86",
+      "time": "2026-11-04 17:02:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Alphabet (GOOG.O) said the investment will fund data center campuses, clean energy, water-resource security measures and workforce upskilling."
+    },
+    {
+      "id": "5192931",
+      "time": "2026-11-04 17:02:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東省揭陽市委原副書記王紹樂被“雙開”】中央紀委國家監委網站11月4日通報，據廣東省紀委監委訊息：經中共廣東省委批准，廣東省紀委監委對廣東省揭陽市委原副書記王紹樂嚴重違紀違法問題進行了立案審查調查。經查，王紹樂喪失理想信念，背棄初心使命，對抗組織審查；違反中央八項規定精神，違規收受禮品禮金；違背組織原則，不按規定報告個人有關事項，在職工錄用工作中為親屬謀取利益；廉潔底線失守，透過民間借貸獲取大額回報，違規借用管理和服務物件錢款，違規買賣股票，利用職權或職務影響為親屬謀取利益；將公權力作為謀取私利的工具，大肆收錢斂財，利用職務便利以及職權地位形成的便利條件，為他人在涉稅業務承攬、專案推進等方面謀利，並非法收受鉅額財物。王紹樂嚴重違反黨的政治紀律、組織紀律、廉潔紀律和生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經廣東省紀委常委會會議研究並報中共廣東省委批准，決定給予王紹樂開除黨籍處分；由廣東省監委給予其開除公職處分；終止其廣東省第十三次黨代會代表、揭陽市第七次黨代會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
+    },
+    {
+      "id": "te:economy:598062",
+      "time": "2026-11-04 17:02:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "French Private Sector Shrinks More than Initialy Thought — The S&P Global France Composite PMI for October 2026 was revised sharply down to 46.6 from the flash estimate of 48.4, falling below September’s 51.1. The data confirmed a return to contraction in the country’s private sector, which was the steepest since May. Both manufacturing and services activity declined, with the downturn significantly more pronounced in services."
+    },
+    {
+      "id": "mkt:01a1a5cb-4f5a-7ee0-aa68-8663ba0dafc3",
+      "time": "2026-11-04 17:02:07",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB wage tracker at 2.7% in H2 2026."
+    },
+    {
+      "id": "5192930",
+      "time": "2026-11-04 17:02:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【顧家家居：擬回購登出5.4萬股限制性股票】顧家家居公告稱，公司2026年第三次臨時股東會審議五項議案，包括減少註冊資本並修訂《公司章程》、修訂董事會議事規則、對外投資管理制度、對外擔保決策制度，以及回購登出2024年限制性股票激勵計劃部分限制性股票。其中，因1名激勵物件離職，擬以9.08元/股回購登出其持有的54,000股限制性股票，回購金額49.03萬元，資金為自有資金。回購完成後公司總股本將變為925,583,012股，控股股東及實控人不變，股權分佈仍符合上市條件。"
+    },
+    {
+      "id": "mkt:01a1a5cb-3de9-7ee0-aa68-7ebc00f31628",
+      "time": "2026-11-04 17:02:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Economist: Eurozone growth momentum weakening; new orders near stall】S&P Global Market Intelligence chief business economist Chris Williamson said October PMI data show the eurozone economy grew 0.3% at the start of Q4, extending Q3 strength, but momentum is weakening. After three months of robust sales growth, new orders have slowed to near-stagnation and business growth expectations have fallen to their lowest since May, with firms citing inflation, geopolitical uncertainty and higher borrowing costs. Markets are now almost certain the ECB will hike in December, but if growth softens further markets may begin to question the need for additional tightening as we move into 2027."
+    },
+    {
+      "id": "mkt:01a1a5cb-1188-7ee0-aa68-764cbe6fe237",
+      "time": "2026-11-04 17:01:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB says wage-tracker indicator at 2.4% in H2 2027."
+    },
+    {
+      "id": "5192929",
+      "time": "2026-11-04 17:01:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：2027年下半年薪資追蹤指數為2.4%。"
+    },
+    {
+      "id": "5192928",
+      "time": "2026-11-04 17:01:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【倫銅庫存增加2600噸】倫敦金屬交易所(LME)資料顯示：鉛庫存減少650噸，銅庫存增加2600噸，鋁庫存減少725噸，鎳庫存減少2262噸，鋅庫存減少3900噸，錫庫存減少30噸。"
+    },
+    {
+      "id": "5192927",
+      "time": "2026-11-04 17:01:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "科倫坡全股指數收盤上漲2.3%，報20580.81點。"
+    },
+    {
+      "id": "5192926",
+      "time": "2026-11-04 17:01:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "特斯拉股價盤前交易下跌5.4%，SPACEX股價下跌6.9%。"
+    },
+    {
+      "id": "5192925",
+      "time": "2026-11-04 17:01:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞富時交易所吉隆坡綜合指數收盤下跌0.3%，報1616.56點。"
+    },
+    {
+      "id": "5192924",
+      "time": "2026-11-04 17:01:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國牽頭制定多項物流領域國際標準釋出】據國家標準委訊息，我國深度參與國際標準化組織、國際電工委員會物流領域標準化工作，積極推動國際標準立項、研製及釋出落地。其中，我國牽頭制定的《綠色物流活動應用案例》是全球綠色物流領域首個國際標準，我國牽頭制定的另一項國際標準《基於分散式賬本技術（DLT）的電子提單業務流程與資料互動》為全球航運貿易電子提單確立了統一的數字化規則。"
+    },
+    {
+      "id": "mkt:01a1a5ca-7780-7ee0-aa68-6da2dc4f4327",
+      "time": "2026-11-04 17:01:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "AMD.O",
+        "Impact bullish",
+        "SMCI.O",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Markets had largely discounted a Democratic 'blue wave' in the US midterms; US AI-related stocks showed divergent premarket moves, with Super Micro Computer (SMCI.O) and AMD (AMD.O) up over 7% while SpaceX (SPCX.O) and Tesla (TSLA.O) were down about 4%."
+    },
+    {
+      "id": "5192923",
+      "time": "2026-11-04 17:01:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行工資追蹤資料顯示，2026 年下半年工資增長率為 2.7%。"
+    },
+    {
+      "id": "5192922",
+      "time": "2026-11-04 17:01:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行預計2027年第二季度工資增長率為2.8%，第三季度為2.4%。"
+    },
+    {
+      "id": "5192921",
+      "time": "2026-11-04 17:01:02",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【光模組王者歸來，“易中天”暴漲超10%，創業板人工智慧ETF華寶（159363）放量大漲7.8%】11月4日，創業板人工智慧ETF華寶（159363）放量大漲7.8%，成交額10.57億元，規模和流動性優勢顯著。權重股方面，君正股份漲17.8%，協創資料、新易盛、中際旭創、江波龍、天孚通訊漲幅超10%。中信建投表示，FAU是實現光耦合的關鍵無源器件，傳統方案以MT-FA形態為主，隨著CPO/NPO等高密度光互聯方案迭代，FAU呈現高通道、高密度的發展趨勢，通道擴容、芯距壓縮帶來工藝難度上升、良率承壓，帶動價值量提升。傳統可插拔光模組帶動基礎FAU需求穩步增長，隨著CPO/NPO產業化持續推進，高通道FAU需求也將迎來爆發，FAU相關廠商將同時受益傳統光模組的需求擴容與下一代CPO/NPO架構帶來的量價齊升紅利。金元證券認為，中際旭創三季報再度驗證全球高速光模組市場景氣度，且下一代光互聯技術有望進一步開啟公司成長空間，公司在全球光模組產業中居於龍頭地位，股價大幅調整後估值已處於較低位置，給予公司增持評級。資料顯示，創業板人工智慧ETF華寶（159363）跟蹤指數的一半權重集中在光模組CPO板塊，另一半權重覆蓋國產算力、AI軟體應用領域，形成“硬體+應用”的均衡佈局。全方位把握AI主題機會，關注全市場首隻創業板人工智慧ETF華寶（159363）及場外聯接基金（023407，023408）。"
+    },
+    {
+      "id": "mkt:01a1a5ca-3dc1-7ee0-aa68-6718fcc688bd",
+      "time": "2026-11-04 17:00:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "PBOC will conduct a CNY300bn three-month outright reverse repo on Nov 5, 2026 to maintain ample banking-system liquidity. The operation will be a fixed-quantity, rate tender with multiple-price allotment; term 91 days, maturing Feb 4, 2027 (rolled to the next business day if a holiday)."
+    },
+    {
+      "id": "5192920",
+      "time": "2026-11-04 17:00:51",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "央行：為保持銀行體系流動性充裕，2026年11月5日，中國人民銀行將以固定數量、利率招標、多重價位中標方式開展3000億元買斷式逆回購操作，期限為3個月（91天），到期日為2027年2月4日（遇節假日順延）。"
+    },
+    {
+      "id": "5192919",
+      "time": "2026-11-04 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前漲跌不一】美光漲0.57%，閃迪漲0.81%，SK海力士跌0.56%，西部資料跌0.30%，希捷科技跌0.06%。"
+    },
+    {
+      "id": "5192918",
+      "time": "2026-11-04 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股算力雲相關股票盤前普跌】甲骨文跌2.04%，CoreWeave跌3.27%，Nebius跌0.36%，IREN跌4.19%，Applied Digital跌3.54%。"
+    },
+    {
+      "id": "5192917",
+      "time": "2026-11-04 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股盤前普漲】Lumentum漲2.98%，康寧漲0.79%，Coherent漲2.66%，應用光電漲3.39%，Ciena漲2.54%，博通漲0.67%，邁威爾科技漲0.71%。"
+    },
+    {
+      "id": "5192916",
+      "time": "2026-11-04 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤前普漲】禮來漲0.63%，強生漲1.03%，Moderna漲0.88%，諾和諾德漲4.08%，艾伯維漲1.00%，默沙東漲0.35%。"
+    },
+    {
+      "id": "5192915",
+      "time": "2026-11-04 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤前：“七姐妹”漲跌不一】英偉達漲0.39%，蘋果跌0.05%，微軟跌0.35%，谷歌跌0.10%，亞馬遜漲0.53%，Meta漲0.47%，特斯拉跌4.59%。"
+    },
+    {
+      "id": "5192914",
+      "time": "2026-11-04 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股太空概念股盤前普漲】SpaceX跌3.68%，Rocket Lab漲0.64%，Planet Labs漲0.15%，AST SpaceMobile漲1.21%，Intuitive Machines漲0.57%。"
+    },
+    {
+      "id": "5192913",
+      "time": "2026-11-04 17:00:47",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【中國鐵道建築集團有限公司黨委常委李興龍接受審查調查】中央紀委國家監委網站11月4日通報，據中央紀委國家監委駐國務院國資委紀檢監察組訊息：中國鐵道建築集團有限公司黨委常委李興龍涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國務院國資委紀檢監察組紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:01a1a5ca-1161-7ee0-aa68-5d7e88f2d890",
+      "time": "2026-11-04 17:00:45",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME inventories: lead down 650 tonnes, copper up 2,600 tonnes, aluminium down 725 tonnes, nickel down 2,262 tonnes, zinc down 3,900 tonnes, tin down 30 tonnes."
+    },
+    {
+      "id": "mkt:01a1a5c9-cec0-7ee0-aa68-570e56e27590",
+      "time": "2026-11-04 17:00:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME nickel inventory change (Nov.4) | actual -2262 | previous -384"
+    },
+    {
+      "id": "mkt:01a1a5c9-b2a3-7ee0-aa68-4a28b04874d0",
+      "time": "2026-11-04 17:00:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME zinc inventory change (Nov.4) | actual -3900 | previous -4225"
+    },
+    {
+      "id": "mkt:01a1a5c9-a90a-7ee0-aa68-446f2ea3dd95",
+      "time": "2026-11-04 17:00:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME aluminum inventory change (Nov.4) | actual -725 | previous -1300"
+    },
+    {
+      "id": "mkt:01a1a5c9-9fec-7ee0-aa68-3ac51bc6ee46",
+      "time": "2026-11-04 17:00:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME tin inventory change (Nov.4) | actual -30 | previous -60"
+    },
+    {
+      "id": "5192912",
+      "time": "2026-11-04 17:00:13",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區10月服務業PMI終值 51.4，預期51.7，前值51.7。\n歐元區10月綜合PMI終值 51.7，預期51.9，前值51.9。"
+    },
+    {
+      "id": "mkt:01a1a5c9-8f74-7ee0-aa68-34bbe39dde17",
+      "time": "2026-11-04 17:00:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME copper inventory change (Nov.4) | actual 2600 | previous 15875"
+    },
+    {
+      "id": "mkt:01a1a5c9-8dde-7ee0-aa68-2eb06aefa0ad",
+      "time": "2026-11-04 17:00:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME lead inventory change (Nov.4) | actual -650 | previous -475"
+    },
+    {
+      "id": "te:markets:598059",
+      "time": "2026-11-04 17:00:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Mexican Peso Increases by 1.17% — Top currency gainers are Mexican Peso (1.17%), New Zealand Dollar (0.72%), Norwegian Krone (0.70%), British Pound (0.50%), Euro (0.49%) and Japanese Yen (0.29%). Biggest loser is Dollar Index (-0.47%)."
+    },
+    {
+      "id": "mkt:01a1a5c9-7e27-7ee0-aa68-23ee8f3db510",
+      "time": "2026-11-04 17:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Eurozone October services PMI (final) 51.4, forecast 51.7, prior 51.7."
+    },
+    {
+      "id": "mkt:01a1a5c9-7cb7-7ee0-aa68-1b47cfa899ba",
+      "time": "2026-11-04 17:00:07",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Eurozone October composite PMI (final) 51.7, versus 51.9 expected and 51.9 prior."
+    },
+    {
+      "id": "mkt:01a1a5c9-7901-7ee0-aa68-15f99fa05c24",
+      "time": "2026-11-04 17:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME aluminum alloy inventory change (Nov.4) | actual 0 | previous 0"
+    },
+    {
+      "id": "em:qqyh_zgyh:202611043922002198",
+      "time": "2026-11-04 17:00:05",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：11月5日將開展3000億元買斷式逆回購操作】為保持銀行體系流動性充裕，2026年11月5日，中國人民銀行將以固定數量、利率招標、多重價位中標方式開展3000億元買斷式逆回購操作，期限為3個月（91天），到期日為2027年2月4日（遇節假日順延）。"
+    },
+    {
+      "id": "mkt:01a1a5c9-61bb-7ee0-aa68-0d9a1d023420",
+      "time": "2026-11-04 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Composite PMI Final (Oct) | actual 51.7 | consensus 51.9 | previous 51.9"
+    },
+    {
+      "id": "mkt:01a1a5c9-6168-7ee0-aa68-023b80f4d707",
+      "time": "2026-11-04 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Services PMI Final (Oct) | actual 51.4 | consensus 51.7 | previous 51.7"
+    },
     {
       "id": "5192911",
       "time": "2026-11-04 16:59:24",
