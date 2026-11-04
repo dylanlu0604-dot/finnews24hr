@@ -1,7 +1,99 @@
 {
-  "updated": "2026-11-04 09:40:20",
-  "count": 12054,
+  "updated": "2026-11-04 09:44:16",
+  "count": 12055,
   "items": [
+    {
+      "id": "5191940",
+      "time": "2026-11-04 09:43:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元跌幅擴大，彭博美元指數下跌0.4%。"
+    },
+    {
+      "id": "5191939",
+      "time": "2026-11-04 09:43:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【新易盛盤中漲超5%】A股新易盛盤中漲超5%，現報182.03元。"
+    },
+    {
+      "id": "5191938",
+      "time": "2026-11-04 09:42:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長亮科技中標股份制銀行個人信貸業務平臺專案】據長亮科技訊息，近日，長亮科技中標股份制銀行個人信貸業務平臺專案，專案金額近3000萬元。"
+    },
+    {
+      "id": "5191937",
+      "time": "2026-11-04 09:42:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨跌幅擴大至1%。"
+    },
+    {
+      "id": "5191936",
+      "time": "2026-11-04 09:41:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌3%。"
+    },
+    {
+      "id": "mkt:01a1a437-f299-7ee0-aa5a-0a79bfe96c0a",
+      "time": "2026-11-04 09:41:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225"
+      ],
+      "text": "Japan's Nikkei 225 index intraday range widened to 3%; currently at 61,165.92 points."
+    },
+    {
+      "id": "te:economy:597857",
+      "time": "2026-11-04 09:40:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Morocco",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Morocco Jobless Rate Rises to 10.5% in Q3 — Morocco's strict unemployment rate increased to 10.5% in the third quarter of 2026 from 9.5% in the second quarter, with 1.224 million people unemployed out of a labor force of 11.69 million, up from 1.121 million in Q2. The unemployment rate was higher among women, at 16.7%, compared with 8.7% for men, while youth unemployment among those aged 15–24 rose to 30.5% from 27.2% in Q2. Meanwhile, employment totaled 10.47 million, down from 10.64 million, while the participation rate stood at 42.2%. The services sector remained the largest employer, accounting for 5.155 million jobs, or 49.2% of total employment, followed by agriculture (2.425 million), industry (1.526 million), and construction (1.356 million). The figures are based on the newly introduced EMO 2026 labour force survey, launched in the first quarter of 2026, which applies updated international standards."
+    },
+    {
+      "id": "mkt:01a1a436-c44a-7ee0-aa5a-000a5a5751be",
+      "time": "2026-11-04 09:40:14",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share speed-reducer sector fell in early trade; Xiangyang Bearing hit the daily down limit, with Guangyang Co., Mingyang Technology, Jinyang Precision, Ningbo Dongli and Henghe Precision also sliding."
+    },
+    {
+      "id": "5191935",
+      "time": "2026-11-04 09:39:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌5%，現報4768.00元。"
+    },
+    {
+      "id": "5191934",
+      "time": "2026-11-04 09:39:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股人工智慧股走強 海清智元漲超5%】截至發稿，海清智元(01392.HK)漲5.30%，飛速創新(03355.HK)漲4.11%，中科聞歌(01956.HK)漲3.10%，國民技術(02701.HK)漲2.29%。"
+    },
     {
       "id": "5191933",
       "time": "2026-11-04 09:39:13",
@@ -110856,91 +110948,6 @@
         "Importance 1"
       ],
       "text": "Australia 10Y Yield Rises from 7-Week Low — Australia’s 10-year government bond yield rose toward 5.2%, climbing off a recent seven-week low after hotter-than-expected inflation data boosted expectations for a fifth rate hike this year. Monthly CPI rose 0.8% in September, the biggest increase in six months and above the expected 0.7%, while the annual pace jumped to 4.3% from 4.0% in August, also exceeding forecasts of 4.2% and hitting its highest since March. The monthly core inflation rose 0.3%, matching expectations, while the annual rate edged up to 3.6% from 3.5%, also in line with forecasts. The pickup pushed inflation further above the RBA’s 2–3% target range, boosting bets on a hike at the November 3 meeting. The data followed remarks from RBA Governor Michele Bullock earlier on Wednesday, when she warned that upside risks to inflation were materializing and price pressures would likely exceed the central bank’s August forecast. Traders raised the odds of a November hike to 88%, up from 60% before the inflation print."
-    },
-    {
-      "id": "5174432",
-      "time": "2026-10-28 09:43:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破111美元/桶，日內漲1.46%。"
-    },
-    {
-      "id": "5174431",
-      "time": "2026-10-28 09:43:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破111美元/桶，日內漲1.46%。"
-    },
-    {
-      "id": "5174430",
-      "time": "2026-10-28 09:42:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲2%，現報6466.00點。"
-    },
-    {
-      "id": "5174429",
-      "time": "2026-10-28 09:42:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲2%，現報6536.00點。"
-    },
-    {
-      "id": "5174428",
-      "time": "2026-10-28 09:42:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深300指數期貨連續主力合約日內漲1%，現報4031.40點。"
-    },
-    {
-      "id": "mkt:01a1802b-741b-7ee0-a9a8-7f6d2080f5ce",
-      "time": "2026-10-28 09:41:33",
-      "tags": [
-        "MKT News",
-        "USDILS",
-        "Impact bullish"
-      ],
-      "text": "USD/ILS up about 1% at 3.084 after Israeli exit polls showed a tight race, signaling a setback for Prime Minister Netanyahu."
-    },
-    {
-      "id": "mkt:01a1802b-6273-7ee0-a9a8-7756629552ad",
-      "time": "2026-10-28 09:41:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "China A-share snow-and-ice sector pulled back; Bingshan Cold & Heat tumbled over 6%, Tongda Chuangzhi, Snowman Group and Jilin Chemical Fiber dropped more than 4%, while Huafa and Longjian also declined."
-    },
-    {
-      "id": "5174422",
-      "time": "2026-10-28 09:41:11",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國KOSPI指數上漲6%，至5,978.51點。三星電子漲9%，SK海力士漲超8%。"
-    },
-    {
-      "id": "5174421",
-      "time": "2026-10-28 09:40:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "光刻機板塊上揚，新萊應材上漲6.13%，超純應材上漲6.06%，百傲化學上漲5.34%，高凱技術、茂萊光學、路維光電漲超4%。"
     }
   ]
 }
