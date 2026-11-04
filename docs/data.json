@@ -1,7 +1,201 @@
 {
-  "updated": "2026-11-04 17:08:27",
-  "count": 12386,
+  "updated": "2026-11-04 17:12:23",
+  "count": 12407,
   "items": [
+    {
+      "id": "mkt:01a1a5d3-9196-7ee0-aa68-df8e8c159164",
+      "time": "2026-11-04 17:11:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangzhou names first four \"super partners\" for 2026 including CloudWalk, Asia Data Group, Jiushi, Bank of East Asia】At the 12th Guangzhou International Investment Conference, the city announced its first batch of four 2026 \"super partners\": CloudWalk Technology, Asia Data Group (IDG), Jiushi, and Bank of East Asia."
+    },
+    {
+      "id": "mkt:01a1a5d3-706e-7ee0-aa68-d0e53b06a1e8",
+      "time": "2026-11-04 17:10:59",
+      "tags": [
+        "MKT News",
+        "DD.O",
+        "Impact bullish"
+      ],
+      "text": "Barclays raises DuPont PT to $176 from $156."
+    },
+    {
+      "id": "5192978",
+      "time": "2026-11-04 17:10:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "海信家電：下屬公司於7月20日至11月4日期間認購西部信託理財產品，累計金額達人民幣14.3億元。"
+    },
+    {
+      "id": "5192977",
+      "time": "2026-11-04 17:10:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州2026年首批“超級合夥人”名單公佈 雲從科技、亞洲資料集團等入選】11月4日，記者在第12屆廣州國際投資年會上獲悉，本屆年會公佈了廣州2026年首批4家“超級合夥人”名單，分別包括雲從科技、亞洲資料集團（IDG）、九識、東亞銀行。"
+    },
+    {
+      "id": "5192976",
+      "time": "2026-11-04 17:10:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金<XAU=>漲幅擴大，最新上漲近 3%，報 4,044.91 美元/盎司。"
+    },
+    {
+      "id": "5192974",
+      "time": "2026-11-04 17:10:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度批准92吉瓦時儲能計劃。"
+    },
+    {
+      "id": "5192973",
+      "time": "2026-11-04 17:10:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破52美元/盎司，日內漲4.53%。"
+    },
+    {
+      "id": "5192972",
+      "time": "2026-11-04 17:10:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織與幾內亞比索就擴充套件信貸機制貸款協議審查達成工作人員級別協議。"
+    },
+    {
+      "id": "5192971",
+      "time": "2026-11-04 17:09:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙版傳媒等成立科技新公司 含多項AI業務】企查查APP顯示，近日，浙江文鼎智源科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧理論與演算法軟體開發等。企查查股權穿透顯示，該公司由浙版傳媒等共同持股。"
+    },
+    {
+      "id": "5192970",
+      "time": "2026-11-04 17:09:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會主席團成員週三表示，德黑蘭擁有更強的軍事能力，可以打擊其選擇的任何美國利益目標。阿里雷扎·薩利米表示，美國選舉結果表明伊朗的影響力已延伸至美國國內事態。“從伊斯蘭共和國的角度來看，美國兩黨在欺凌問題上沒有區別，”他在議會會議上說。“美國選舉結果顯示了伊斯蘭共和國對全球事務乃至美國國內事態的影響力有多大。”"
+    },
+    {
+      "id": "mkt:01a1a5d2-29f9-7ee0-aa68-cae411df81d6",
+      "time": "2026-11-04 17:09:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The IMF and Guinea-Bissau reached a staff-level agreement on the review of the Extended Credit Facility (ECF)."
+    },
+    {
+      "id": "5192969",
+      "time": "2026-11-04 17:09:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "道明考恩將埃克森美孚目標價由 180 美元上調至 193 美元。"
+    },
+    {
+      "id": "5192968",
+      "time": "2026-11-04 17:09:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發改委等三部門印發《生態產品總值核算規範》】國家發展改革委、自然資源部、國家統計局印發《生態產品總值核算規範》。其中提到，各地區核算本級行政區域生態產品總值時，要充分考慮核算資料的銜接性，科學組織實施核算工作，不得擅自簡化、合併或變更核算環節。要在資料採集與預處理、核算模板設定、結果校驗與稽核、成果彙總與存檔等環節建立質量檢查制度，確保核算過程可追溯、可核驗，核算結果可應用、可解釋。根據工作需要，可對特定地域單元或特定生態系統型別的生態產品價值進行核算。"
+    },
+    {
+      "id": "te:markets:598071",
+      "time": "2026-11-04 17:09:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "French Bond Yields Decline — France’s 10-year OAT yield fell towards 4.9%, tracking a decline in US Treasury yields following the Democratic sweep in the US midterm elections. A Democratic takeover of the House is seen as reducing the likelihood of further deficit-expanding legislation under the Trump administration, easing concerns over US government borrowing. However, persistent concerns over France’s own fiscal outlook continued to weigh on domestic bonds. Meanwhile, increasingly hawkish rhetoric from European Central Bank policymakers reinforced expectations of a tighter monetary policy outlook. Despite last week’s decision to leave interest rates unchanged, ECB officials signaled that further rate hikes may be necessary to contain inflationary pressures and prevent them from spilling over into wages."
+    },
+    {
+      "id": "5192967",
+      "time": "2026-11-04 17:08:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華特達因：控股股東增持股份達0.51% 增持計劃推進中】華特達因公告稱，公司控股股東華特集團計劃自2026年11月4日起6個月內增持公司股份不低於352萬股、不超過703.86萬股。2026年11月4日，華特集團透過集中競價方式增持公司股份120.49萬股，佔公司總股本的0.5142%。本次增持後，華特集團合計持有公司股份5274.924萬股，佔總股本比例由21.9963%升至22.5105%。本次增持不會導致公司控股股東及實控人變更，增持計劃尚未實施完畢。"
+    },
+    {
+      "id": "5192966",
+      "time": "2026-11-04 17:08:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正虹科技：2026年10月生豬銷售0.98萬頭，同比增長142.52%】正虹科技公告，2026年10月銷售生豬0.98萬頭，環比增長2.80%，同比增長142.52%；銷售收入511.42萬元，環比下降30.78%，同比增長18.37%。2026年1-10月累計銷售生豬9.92萬頭，較去年同期下降8.33%；累計銷售收入7715.88萬元，較去年同期下降47.58%。10月份商品豬銷售均價9.36元/公斤，同比下降16.65%。"
+    },
+    {
+      "id": "5192965",
+      "time": "2026-11-04 17:08:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天電器：全資子公司航電系統吸收合併斯瑪爾特】航天電器公告稱，公司第八屆董事會2026年第九次臨時會議審議透過議案，同意全資子公司深圳市航天電機系統有限公司吸收合併全資子公司深圳斯瑪爾特微電機有限公司。本次吸收合併以2026年5月31日為基準日，合併完成後航電系統存續，斯瑪爾特登出獨立法人資格，其全部資產、負債、業務及人員由航電系統承繼，無需支付對價。本次事項屬董事會審批許可權，無需提交股東會審議，不構成關聯交易及重大資產重組，不會對公司合併財務報表產生實質性影響。"
+    },
+    {
+      "id": "mkt:01a1a5d1-1943-7ee0-aa68-c143617e46a9",
+      "time": "2026-11-04 17:08:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold breached $4,040/oz, up 2.79% intraday."
+    },
+    {
+      "id": "5192964",
+      "time": "2026-11-04 17:08:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4040美元/盎司，日內漲2.82%。"
+    },
+    {
+      "id": "te:economy:598070",
+      "time": "2026-11-04 17:08:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Italy Services Activity Picks Up in October — The S&P Global Italy Services PMI rose to 52.0 in October 2026 from a three-month low of 51.7 in the previous month, beating market forecasts of 51.5. This marked the fifth consecutive month of expansion and a return to its long-run trend. Activity was supported by stronger new business inflows, particularly from the domestic market, as new contracts and customer wins lifted order books. However, export sales growth moderated to a fractional pace. Employment increased at a slightly faster rate as backlogs of work rose for the first time in seven months, encouraging further recruitment, although job creation remained marginal. On the price front, input cost inflation surged to its highest level in almost four years, largely reflecting energy-related pressures linked to the Middle East conflict. Output price inflation also picked up as firms faced mounting cost pressures. Meanwhile, business confidence strengthened to its highest level since November 2025."
+    },
+    {
+      "id": "5192963",
+      "time": "2026-11-04 17:08:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【高通美股盤前跌超1%】高通美股盤前下跌1.33%，公司將於當地時間11月4日美股盤後披露最新財報。"
+    },
+    {
+      "id": "5192962",
+      "time": "2026-11-04 17:08:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4050美元/盎司，日內漲2.78%。"
+    },
     {
       "id": "mkt:01a1a5d0-86d7-7ee0-aa68-ba693fd42fd4",
       "time": "2026-11-04 17:07:48",
@@ -114126,18 +114320,6 @@
         "Importance 1"
       ],
       "text": "French Bond Yields Rise Ahead of Central Bank Decisions — France’s 10-year OAT yield climbed to 4.95%, approaching the 5% threshold breached last week, as oil prices rebounded amid renewed supply concerns and investors braced for a series of key central bank decisions. French government bonds have come under increasing pressure in recent weeks, with 10-year yields reaching their highest levels in more than two decades. Concerns over France’s fiscal outlook, ahead of next year’s presidential election, have weighed on investor sentiment, while civil unrest has added to the pressure on President Emmanuel Macron’s government. Meanwhile, markets have turned their attention to upcoming monetary policy decisions from the European Central Bank and the US Federal Reserve. Both are widely expected to keep interest rates unchanged this week, shifting the focus to policymakers’ forward guidance for signals on the future direction of monetary policy."
-    },
-    {
-      "id": "te:economy:595770",
-      "time": "2026-10-28 17:10:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Austria",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Austria Manufacturing Sector Reaches 4-Year High — The UniCredit Bank of Austria Manufacturing PMI rose to 55.9 in October 2026 from 54.9 in September, reaching its highest level since May 2022. The recovery was driven by stronger demand, with total new orders increasing at the fastest pace since January 2022, supported by higher investment spending and a sharp rise in export business. Output also expanded at its fastest pace in more than four and a half years, while rising backlogs of work prompted manufacturers to increase hiring for a third consecutive month. Meanwhile, purchasing activity grew at its strongest rate in over four years. On the price front, input cost inflation accelerated to its highest level since June, while supplier delivery delays worsened amid component shortages. Output price inflation eased to a three-month low, although it remained elevated. Looking ahead, business confidence edged higher, with manufacturers expecting larger order books and a sustained improvement in market conditions."
     }
   ]
 }
