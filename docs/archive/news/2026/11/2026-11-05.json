@@ -1,7 +1,57 @@
 {
   "date": "2026-11-05",
-  "count": 460,
+  "count": 466,
   "items": [
+    {
+      "id": "mkt:01a1a8cb-f7b0-7ee0-aa7c-8f77de722bcc",
+      "time": "2026-11-05 07:01:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank Chairman Schlegel said Swiss inflation has risen and October data exceeded expectations; the SNB will not hesitate to adjust monetary policy if price stability is at risk."
+    },
+    {
+      "id": "5194254",
+      "time": "2026-11-05 07:01:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國9月季調後經常專案順差585.6億美元。"
+    },
+    {
+      "id": "5194253",
+      "time": "2026-11-05 07:01:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國1至9月經常專案收支暫為順差3406.6億美元，上年同期為順差838.9億美元。"
+    },
+    {
+      "id": "5194252",
+      "time": "2026-11-05 07:00:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國9月經常賬戶盈餘614.6億美元，8月盈餘為461.1億美元。"
+    },
+    {
+      "id": "mkt:01a1a8ca-9c0d-7ee0-aa7c-8224732c4f23",
+      "time": "2026-11-05 07:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea September current-account balance, not seasonally adjusted: $61.46bn; prior reading revised from $46.113bn to $46.11bn."
+    },
+    {
+      "id": "mkt:01a1a8ca-6d97-7ee0-aa7c-7bf564ea4d67",
+      "time": "2026-11-05 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Current Account NSA (Sep) | actual 61460000000B | previous 46113000000B"
+    },
     {
       "id": "5194250",
       "time": "2026-11-05 06:57:48",

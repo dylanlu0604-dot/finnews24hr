@@ -1,7 +1,57 @@
 {
-  "updated": "2026-11-05 06:58:18",
-  "count": 11835,
+  "updated": "2026-11-05 07:04:29",
+  "count": 11837,
   "items": [
+    {
+      "id": "mkt:01a1a8cb-f7b0-7ee0-aa7c-8f77de722bcc",
+      "time": "2026-11-05 07:01:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank Chairman Schlegel said Swiss inflation has risen and October data exceeded expectations; the SNB will not hesitate to adjust monetary policy if price stability is at risk."
+    },
+    {
+      "id": "5194254",
+      "time": "2026-11-05 07:01:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國9月季調後經常專案順差585.6億美元。"
+    },
+    {
+      "id": "5194253",
+      "time": "2026-11-05 07:01:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國1至9月經常專案收支暫為順差3406.6億美元，上年同期為順差838.9億美元。"
+    },
+    {
+      "id": "5194252",
+      "time": "2026-11-05 07:00:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國9月經常賬戶盈餘614.6億美元，8月盈餘為461.1億美元。"
+    },
+    {
+      "id": "mkt:01a1a8ca-9c0d-7ee0-aa7c-8224732c4f23",
+      "time": "2026-11-05 07:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea September current-account balance, not seasonally adjusted: $61.46bn; prior reading revised from $46.113bn to $46.11bn."
+    },
+    {
+      "id": "mkt:01a1a8ca-6d97-7ee0-aa7c-7bf564ea4d67",
+      "time": "2026-11-05 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Current Account NSA (Sep) | actual 61460000000B | previous 46113000000B"
+    },
     {
       "id": "5194250",
       "time": "2026-11-05 06:57:48",
@@ -108876,42 +108926,6 @@
         "國際"
       ],
       "text": "【澳大利亞監管機構ASIC就Firmus IPO失敗一事向相關投行進行問詢】本月早些時候，Firmus Grid Ltd.（Firmus）的首次公開募股（IPO）宣告失敗。針對此事，澳大利亞企業監管機構正尋求從相關投資銀行獲取資訊，但目前尚未就此啟動正式調查。澳大利亞證券和投資委員會（ASIC）主席莎拉·考特（Sarah Court）在10月28日的一封信中回應了本月早些時候戴夫·夏爾馬（Dave Sharma）參議員就Firmus IPO提出的疑問。她在信中表示，ASIC正對該IPO的聯席主承銷商進行“針對性問詢”。考特稱：“這些問詢正在進行中，ASIC將評估所獲取的資訊，並考慮是否有必要採取進一步的行動。”此次交易的聯席主承銷商包括美國銀行、摩根大通、摩根士丹利以及Morgans Financial Ltd.。美國銀行的一位發言人拒絕置評，而其他幾家機構也未回覆媒體的採訪請求。"
-    },
-    {
-      "id": "5177362",
-      "time": "2026-10-29 07:03:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "百威亞太 第三季度淨利潤9,200萬美元，預估1.008億美元。"
-    },
-    {
-      "id": "mkt:01a184c0-019c-7ee0-a9cd-2013c2f048e9",
-      "time": "2026-10-29 07:02:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates"
-      ],
-      "text": "Hong Kong Monetary Authority kept its base rate at 4.25%; the Federal Reserve left policy rates unchanged overnight."
-    },
-    {
-      "id": "5177361",
-      "time": "2026-10-29 07:00:31",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "香港金管局將基準利率維持在4.25%不變。"
-    },
-    {
-      "id": "5177360",
-      "time": "2026-10-29 06:58:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【兩傢俬募同日自購傳遞長期信心】基於對資本市場長期發展的堅定信心，10月27日，上海誠奇私募基金管理有限公司與深圳翰榮私募證券基金管理有限公司同日釋出自購公告。其中，誠奇基金計劃於近期使用自有資金人民幣1億元，跟投旗下各類私募證券基金產品。據私募排排網資料統計，截至10月27日，10月以來已有至少8傢俬募機構宣佈自購旗下產品，合計公告自購金額2.20億元。從整體情況看，截至10月27日，年內至少有35傢俬募機構宣佈自購旗下產品，合計公告自購金額超18億元。（證券日報）"
     }
   ]
 }
