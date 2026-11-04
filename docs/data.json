@@ -1,7 +1,54 @@
 {
-  "updated": "2026-11-05 06:14:59",
-  "count": 11831,
+  "updated": "2026-11-05 06:18:47",
+  "count": 11832,
   "items": [
+    {
+      "id": "5194227",
+      "time": "2026-11-05 06:18:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普道瓊斯指數公佈針對土耳其的市場分類處置方案，對土耳其股票部分企業事件調整不予執行。"
+    },
+    {
+      "id": "mkt:01a1a8a1-e3de-7ee0-aa7c-5ac1d61b278e",
+      "time": "2026-11-05 06:15:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) CEO said the company is in deep talks with a data‑center accelerator customer about follow-on custom chips."
+    },
+    {
+      "id": "te:markets:598325",
+      "time": "2026-11-05 06:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Mexican Peso Increases by 1.37% — Top currency gainers are Mexican Peso (1.37%), Polish Zloty (0.94%), New Zealand Dollar (0.70%), British Pound (0.39%), Euro (0.31%) and Japanese Yen (0.18%). Biggest loser is Dollar Index (-0.32%)."
+    },
+    {
+      "id": "5194226",
+      "time": "2026-11-05 06:14:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通CEO：公司正與一家資料中心加速器客戶就“後續定製晶片”進行“深入洽談”。"
+    },
+    {
+      "id": "5194225",
+      "time": "2026-11-05 06:14:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟官員稱波黑過去一年入盟程序缺乏實質進展】歐盟駐波黑代表團團長路易吉·索雷卡4日表示，波黑過去一年在推進歐洲一體化方面未取得實質性進展。如果波黑未能在年底前滿足實施“西巴爾幹增長計劃”的相關條件，歐盟可能進一步削減對其資金支援。（新華社）"
+    },
     {
       "id": "mkt:01a1a89f-d215-7ee0-aa7c-571457b27c92",
       "time": "2026-11-05 06:13:28",
@@ -108840,47 +108887,6 @@
         "國際"
       ],
       "text": "【10月29日隔夜要聞一覽】\n1、美聯儲以10比2維持利率不變，美聯儲主席沃什稱金融條件有所收緊，美聯儲將逐步調整會議安排，減少制定利率的會議。\n2、蘋果正式釋出更新版的MacBook Pro，搭載觸控式螢幕，採用OLED螢幕，配備靈動島。\n3、谷歌推出Gemini 4 Carbon前沿AI模型。\n4、俄羅斯總統助理烏沙科夫稱，烏克蘭問題三方談判將於11月4日後舉行，具體日期待定。俄方稱不邀歐洲參加。\n5、微軟Q3營收922.8億美元，分析師預期906.3億美元。 運營利潤459.2億美元，分析師預期439.2億美元。\n6、西班牙高鐵事故關鍵錄音曝光：排程員違規下令列車“恢復全速”。\n7、特朗普下令美國貿易代表就機器人和機械進口尋求談判。\n8、谷歌母公司Alphabet仍然預測全年資本支出1950億美元至2050億美元，預計2027年資本支出仍將大幅增加。\n9、邁威爾科技公司正就收購Lumentum進行深入談判。"
-    },
-    {
-      "id": "mkt:01a18496-bd18-7ee0-a9cd-07f61b168788",
-      "time": "2026-10-29 06:17:13",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft CFO said Azure revenue growth for fiscal Q2 is expected at 49–50% on a constant-currency basis."
-    },
-    {
-      "id": "mkt:01a18495-e2e2-7ee0-a9cc-fd99bc78c4c5",
-      "time": "2026-10-29 06:16:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Head of Brazil's electoral authority said the electoral process is proceeding normally and fully complies with relevant laws and the constitution."
-    },
-    {
-      "id": "5177340",
-      "time": "2026-10-29 06:15:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西選舉機構負責人發表宣告稱，選舉正常進行，完全符合法律和憲法規定。"
-    },
-    {
-      "id": "te:markets:595985",
-      "time": "2026-10-29 06:15:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Depreciates by 1.24% — Top currency losers are South Korean Won (-1.24%), New Zealand Dollar (-1.03%), Indian Rupee (-0.32%) and Dollar Index (-0.16%). Gains are led by Norwegian Krone (0.76%), Swedish Krona (0.53%), Canadian Dollar (0.41%), Euro (0.23%), British Pound (0.11%) and Japanese Yen (0.08%)."
     }
   ]
 }
