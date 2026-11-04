@@ -1,7 +1,187 @@
 {
-  "updated": "2026-11-05 00:32:27",
-  "count": 12078,
+  "updated": "2026-11-05 00:36:40",
+  "count": 12095,
   "items": [
+    {
+      "id": "5193909",
+      "time": "2026-11-05 00:35:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守97美元/桶，日內跌6.42%。"
+    },
+    {
+      "id": "5193908",
+      "time": "2026-11-05 00:35:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【義大利銀行板塊漲超5%】德國DAX 30指數初步收漲2.58%，報26531.65點。法國股指初步收漲2.4%，義大利股指初步收漲2.52%、銀行指數漲5.5%，英國股指初步收漲1.99%。"
+    },
+    {
+      "id": "5193907",
+      "time": "2026-11-05 00:35:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲2%，報58.60點，銀行板塊漲4.8%。歐元區STOXX 50指數初步收漲2.35%，報6289.04點。富時泛歐績優300指數初步收漲2.11%，報2628.05點。"
+    },
+    {
+      "id": "mkt:01a1a76a-0110-7ee0-aa77-99c738704a81",
+      "time": "2026-11-05 00:35:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude fell 7.0% intraday to $96.45/barrel. WTI declined more than 6.0% to $90.25/barrel."
+    },
+    {
+      "id": "5193906",
+      "time": "2026-11-05 00:34:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌6%，現報635.20元。"
+    },
+    {
+      "id": "5193905",
+      "time": "2026-11-05 00:34:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌6%，現報97.36美元/桶。"
+    },
+    {
+      "id": "5193904",
+      "time": "2026-11-05 00:33:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守91美元/桶，日內跌5.30%。"
+    },
+    {
+      "id": "mkt:01a1a768-85e3-7ee0-aa77-920990b20e2e",
+      "time": "2026-11-05 00:33:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senate Minority Leader SCHUMER said he will be re-elected as Majority Leader."
+    },
+    {
+      "id": "mkt:01a1a768-61f4-7ee0-aa77-881d0a5460d5",
+      "time": "2026-11-05 00:33:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 4-month Treasury bill auction as of Nov. 4: bid-cover ratio 3.26, prior 3.08."
+    },
+    {
+      "id": "mkt:01a1a768-3bbd-7ee0-aa77-81271adcdaa9",
+      "time": "2026-11-05 00:33:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 4-month Treasury auction as of Nov. 4: allocation at the stop-out rate 94.88%, prior 35.48%."
+    },
+    {
+      "id": "mkt:01a1a768-21ce-7ee0-aa77-7a168891b830",
+      "time": "2026-11-05 00:33:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Nov.4) | actual 3.26 | previous 3.08"
+    },
+    {
+      "id": "mkt:01a1a768-09f1-7ee0-aa77-744236c15887",
+      "time": "2026-11-05 00:32:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-month Treasury bill auction allotment percentage at the high rate (Nov.4) | actual 94.88% | previous 35.48%"
+    },
+    {
+      "id": "mkt:01a1a767-fd14-7ee0-aa77-6a7a950fb5a4",
+      "time": "2026-11-05 00:32:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "US 4-month Treasury auction maturing Nov. 4 stop-out yield 4.09%, prior 4.14%."
+    },
+    {
+      "id": "mkt:01a1a767-d6a0-7ee0-aa77-6459c499d266",
+      "time": "2026-11-05 00:32:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Nov.4) | actual 4.09% | previous 4.14%"
+    },
+    {
+      "id": "5193903",
+      "time": "2026-11-05 00:32:29",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率4.090%，投標倍數3.26。"
+    },
+    {
+      "id": "5193902",
+      "time": "2026-11-05 00:32:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌5%，現報642.30元。"
+    },
+    {
+      "id": "5193901",
+      "time": "2026-11-05 00:32:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌5%，現報91.28美元/桶。"
+    },
+    {
+      "id": "5193900",
+      "time": "2026-11-05 00:32:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守98美元/桶，日內跌5.44%。"
+    },
+    {
+      "id": "5193899",
+      "time": "2026-11-05 00:31:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "參議院民主黨領袖舒默：我將再次當選多數黨領袖。"
+    },
     {
       "id": "5193898",
       "time": "2026-11-05 00:31:11",
@@ -111410,22 +111590,6 @@
         "其他"
       ],
       "text": "幣安：Binance Pay已接入阿根廷、玻利維亞和哥倫比亞的二維碼網路。"
-    },
-    {
-      "id": "5176868",
-      "time": "2026-10-29 00:34:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩真主黨秘書長：以色列佔領政權由誰執政對我們而言並不重要，但對方必須明白無法持續佔領，應當撤出我們的土地。"
-    },
-    {
-      "id": "5176867",
-      "time": "2026-10-29 00:32:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "荷蘭首相耶滕：（美國）購買俄羅斯能源是非常愚蠢的想法。我可以向你們保證，未來幾年內不會有任何歐洲領導人願意購買俄羅斯天然氣。我們希望的是俄羅斯停止這場衝突。"
     }
   ]
 }
