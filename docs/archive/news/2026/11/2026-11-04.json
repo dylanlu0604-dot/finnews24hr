@@ -1,7 +1,186 @@
 {
   "date": "2026-11-04",
-  "count": 801,
+  "count": 821,
   "items": [
+    {
+      "id": "mkt:01a1a44e-5a10-7ee0-aa5a-fa180446446f",
+      "time": "2026-11-04 10:06:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSNBC reports Democratic candidate Boduns won the Georgia gubernatorial election."
+    },
+    {
+      "id": "5191992",
+      "time": "2026-11-04 10:05:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量668億元。"
+    },
+    {
+      "id": "te:markets:597870",
+      "time": "2026-11-04 10:05:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Trade Lower — The Hang Seng Index fell 0.4% on Wednesday, as weakness in technology and consumer shares weighed on sentiment amid concerns over tighter AI regulations in the US. US stock futures declined, with Nasdaq 100 futures down 0.9% and S&P 500 futures losing 0.5%, as investors assessed the potential implications of a Democratic victory in the midterm elections. However, stronger-than-expected third-quarter results from AMD boosted semiconductor shares in after-hours trading, offering some support to technology stocks. Meanwhile, the CSI 300 slipped 0.2% in the previous session despite Beijing's market-support measures. Hong Kong's GDP growth accelerated to 5.2% year-on-year in Q3 from 4.2% in Q2. Among notable movers, Xiaomi (-2.2%), Trip.com (-2.6%) and Meituan (-1.4%) declined, while SMIC (1.1%) and Wuxi Biologics (4.3%) advanced. Investors also monitored China's currency policy after the PBoC announced plans to raise the foreign exchange reserve requirement ratio to curb yuan appreciation."
+    },
+    {
+      "id": "mkt:01a1a44d-e901-7ee0-aa5a-f5c7c222e232",
+      "time": "2026-11-04 10:05:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【Major Chinese cities' October resale market active; stabilization still needs consolidation】Multiple market monitors' October property reports show the traditional 'Silver October' peak ending with clear structural divergence: second‑hand markets in China's key cities remained highly active in October, led by core cities, while new‑home markets continue to adjust. Market participants say resale activity confirms an orderly release of genuine housing demand, but overall market stabilization is not yet secure and will require sustained, coordinated policy support to consolidate the recovery."
+    },
+    {
+      "id": "5191991",
+      "time": "2026-11-04 10:05:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重點城市二手房“銀十”成交活躍 市場回穩仍需鞏固】近期，多家市場機構釋出的10月房地產監測資料顯示，傳統銷售旺季“銀十”收官，房地產市場呈現顯著的結構性分化特徵。其中，10月全國重點城市二手房市場保持較高活躍度，核心城市表現尤為突出；新房市場仍處於調整階段。業內人士指出，二手房市場的活躍印證了真實居住需求仍在有序釋放，但市場整體回穩的基礎仍需鞏固，後續需持續發揮政策協同效應，夯實企穩修復態勢。（新華社）"
+    },
+    {
+      "id": "5191990",
+      "time": "2026-11-04 10:05:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "據預測，民主黨候選人邁卡·拉舍爾贏得紐約州眾議院第12選區席位。"
+    },
+    {
+      "id": "mkt:01a1a44d-60bf-7ee0-aa5a-eb4fbf9a21fd",
+      "time": "2026-11-04 10:04:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Decision Desk HQ (DDHQ) projects Democrat Paige Konetti will win the Pennsylvania U.S. House seat."
+    },
+    {
+      "id": "mkt:01a1a44d-5026-7ee0-aa5a-e5711982dce3",
+      "time": "2026-11-04 10:04:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000300.SS",
+        "Impact bullish",
+        "000001.SS"
+      ],
+      "text": "China A-share humanoid-robot sector rallied. Yongzhen hit a second straight daily limit; Xinya Process, Fulai New Materials and Zhenghe Industrial also hit the daily up-limit. Suocheng Technology surged over 10%. Huashi Technology, Debang Technology, Zhaowei Electromechanical, Tianbo Intelligence and Beite Technology advanced."
+    },
+    {
+      "id": "5191989",
+      "time": "2026-11-04 10:04:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "據預測，民主黨候選人博頓斯將贏得佐治亞州州長競選。"
+    },
+    {
+      "id": "5191988",
+      "time": "2026-11-04 10:04:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【強腦科技完成股份制改造 註冊資本增至7.5億元】天眼查App顯示，近日，浙江強腦科技有限公司發生工商變更，企業名稱變更為強腦科技股份有限公司，註冊資本增至7.5億元，企業型別變更為股份有限公司。該公司成立於2018年12月，法定代表人為韓璧丞。天眼查頁面顯示，北京強腦科技有限公司、湖南強腦科技有限公司、無錫強腦科技有限公司等多家企業的股東均為強腦科技股份有限公司。此次變更同時涉及企業名稱、組織形式和註冊資本，工商登記中的“未上市”不代表公司已完成上市。"
+    },
+    {
+      "id": "5191987",
+      "time": "2026-11-04 10:04:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "據預測，共和黨候選人HARRIET HAGEMAN贏得懷俄明州美國參議員選舉。"
+    },
+    {
+      "id": "5191986",
+      "time": "2026-11-04 10:04:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【衛龍換帥：“90後”表弟餘風接任CEO，原雀巢老將加盟】11月3日晚間，辣味休閒食品龍頭衛龍美味釋出一則高管變更公告，CEO、CFO兩大核心管理崗位同時換人。其中，公司聯合創始人之一劉福平辭任CEO，轉任聯席副董事長；35歲的餘風卸任CFO，接任CEO併兼任聯席副董事長；曾在雀巢、徐福記等跨國食品企業擔任財務管理職務的陳陽出任CFO。上述任命均自11月3日起生效。一個值得關注的細節在於，新任CEO餘風與衛龍創始家族關係密切——他是董事長劉衛平、原CEO劉福平及劉忠思三人的表弟，在衛龍已紮根工作15年，可謂是一手培養起來的“接班人”。“上述調整是本公司基於業務發展需要及長遠戰略規劃而作出的重要安排，有助於進一步最佳化管理團隊配置，提升管理決策及執行效率，強化集團整體經營管理能力。”衛龍在公告中表示。（21財經）"
+    },
+    {
+      "id": "5191985",
+      "time": "2026-11-04 10:04:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人板塊走高，永臻股份2連板】人形機器人板塊走高，永臻股份2連板，新亞製程、福萊新材、徵和工業漲停，索辰科技漲超10%，華是科技、德邦科技、兆威機電、天博智慧、北特科技跟漲。"
+    },
+    {
+      "id": "mkt:01a1a44c-5829-7ee0-aa5a-dee5bfdd50c0",
+      "time": "2026-11-04 10:03:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AP projects Democrats John Hickenlooper to win the Colorado Senate seat and Ben Ray Luján to win the New Mexico Senate race."
+    },
+    {
+      "id": "5191984",
+      "time": "2026-11-04 10:03:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【快手系晶片公司凌川科技完成10億元B輪融資】11月4日，據啟明創投訊息，近日，凌川科技完成10億元B輪融資，本輪融資由亦莊國投屹唐盛和基金、啟明創投、朝暉資本聯合領投，國泰海通開元、華控投資、國壽長三角科創基金、北工投資、建信（北京）投資、沛坤資本、香港科技園創投基金、鼎暉百孚、金舵投資、廈門恆興、銘時資本等機構，以及石溪資本、龍芯創投、安徽文旅投等產業投資方參與投資，老股東順禧基金、水木投資集團、九智資本持續追加。本輪融資將主要用於下一代晶片研發與量產及全球市場拓展。"
+    },
+    {
+      "id": "5191983",
+      "time": "2026-11-04 10:03:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【抖音李亮：“位元組時間”將騰訊從“壟斷”中解套，將位元組摁在“可能壟斷”的敘事中】抖音集團副總裁李亮發文表示，“我說秦朔不是壞就是蠢，是我真心的認為。”李亮指出，“我與秦朔的爭論，本想到此為止，但看到著名大v胡錫進對我的批評，微博還推了熱搜，微信裡面更是鋪天蓋地精準推送攻擊我的文章，我覺得還是有必要說清楚。”李亮稱，說他壞，因為他關於“位元組時間”的定性，非常險惡。作為幾十年的行業觀察者，他當然知道用日本野村報告來定性中國網際網路的局勢，得出的結論肯定“不嚴謹”“不周全”，但為什麼不願意改？8年前，微信依靠微信壟斷地位，禁止抖音分享，雙方訴訟至今仍無結果。秦朔“位元組時間”，無疑將騰訊從痛苦掙扎幾十年的“壟斷”中解套，並將位元組摁在“可能壟斷”的敘事中，攻守易位，我想如果這個定位成為共識，秦朔會成為騰訊歷史上最大的“恩人”！李亮還稱，說他蠢，因為他現在的角色更像商人，自己旗下有多家公司，並承接收費發稿，為企業站臺的業務，他的稿件以及出場是明碼標價的，費用很高，這個事情，行業都知道，證據也不難找。而在此之前幾天，他還毫不避諱的為騰訊站臺發稿，我認為這不明智，蠢。“綜上，惡語，談不上，是真心覺得他是這個情況，或許應該只在心裡想，不應該說出來。”李亮說。（新浪科技）"
+    },
+    {
+      "id": "5191982",
+      "time": "2026-11-04 10:03:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昇興股份投資成立智慧科技子公司】企查查APP顯示，近日，昇興（湛江）智慧科技有限公司成立，經營範圍包含金屬製品研發；金屬包裝容器及材料製造；金屬包裝容器及材料銷售等。企查查股權穿透顯示，該公司由昇興股份全資持股。"
+    },
+    {
+      "id": "5191981",
+      "time": "2026-11-04 10:03:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾兌美元升至18,100。"
+    },
+    {
+      "id": "5191980",
+      "time": "2026-11-04 10:02:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "DDHQ預測PAIGE COGNETTI贏得賓夕法尼亞州美國眾議院席位選舉。"
+    },
+    {
+      "id": "5191979",
+      "time": "2026-11-04 10:02:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "DDHQ預測民主黨候選人LASHER贏得紐約州美國眾議院席位選舉。"
+    },
     {
       "id": "5191978",
       "time": "2026-11-04 10:02:28",
