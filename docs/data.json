@@ -1,7 +1,79 @@
 {
-  "updated": "2026-11-05 00:56:59",
-  "count": 12108,
+  "updated": "2026-11-05 01:01:04",
+  "count": 12111,
   "items": [
+    {
+      "id": "mkt:01a1a781-4764-7ee0-aa78-269a0965137a",
+      "time": "2026-11-05 01:00:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU said this includes identifying instruments and measures that can support Ukraine’s future development and its own efforts."
+    },
+    {
+      "id": "mkt:01a1a781-1257-7ee0-aa78-1bb41ddab827",
+      "time": "2026-11-05 01:00:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU says its immediate and ongoing focus is on fleshing out scenarios for Ukraine's post-war economic development and prosperity."
+    },
+    {
+      "id": "5193937",
+      "time": "2026-11-05 01:00:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟宣告：烏克蘭、德國、法國、英國、美國代表團以及北約和世界銀行代表舉行會晤，討論烏克蘭戰後重建與繁榮問題。"
+    },
+    {
+      "id": "mkt:01a1a780-f95a-7ee0-aa78-13399a9caf72",
+      "time": "2026-11-05 01:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The EU said delegations from Ukraine, Germany, France, the UK and the US, together with NATO and WBG representatives, met to discuss Ukraine's post-war reconstruction and prosperity."
+    },
+    {
+      "id": "5193936",
+      "time": "2026-11-05 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.26%，滬銅收漲0.31%，滬鋁收漲0.02%，滬鋅收漲0.08%，滬鉛收漲0.86%，滬鎳收漲2.37%，滬錫收漲0.06%。氧化鋁夜盤收跌0.08%，鋁合金收漲0.56%。不鏽鋼夜盤收漲1.38%。"
+    },
+    {
+      "id": "mkt:01a1a77f-b0a1-7ee0-aa78-0aa85cdfeac9",
+      "time": "2026-11-05 00:58:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezaei said Iran inflicted a strategic defeat on Trump over battlefield operations and the Strait of Hormuz and had dealt him a political defeat in Washington. He said US citizens would pay for Trump's wars and warned anyone who attempts to confront Iran will pay a price, either on the battlefield or on their own soil."
+    },
+    {
+      "id": "5193935",
+      "time": "2026-11-05 00:57:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書穆赫辛·雷扎伊：伊朗民族在戰場、霍爾木茲海峽令特朗普遭遇重大戰略挫敗，同時在華盛頓方面承受沉重政治失利。美國民眾與政府正在親身承擔特朗普好戰政策帶來的高昂代價。任何與伊朗發生衝突的勢力，都將從戰場直至本土家門口付出沉重代價。"
+    },
+    {
+      "id": "mkt:01a1a77d-b5ea-7ee0-aa78-000e9d7176e6",
+      "time": "2026-11-05 00:56:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Panama Canal administrator says LNG vessel transits have yet to fully recover."
+    },
     {
       "id": "5193934",
       "time": "2026-11-05 00:55:27",
@@ -111682,46 +111754,6 @@
         "其他"
       ],
       "text": "Meta：宣佈支援印第安納大學和休斯頓大學健康科學中心的研究。"
-    },
-    {
-      "id": "5176898",
-      "time": "2026-10-29 01:00:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果CEO約翰·特努斯在蘋果釋出會上發言。"
-    },
-    {
-      "id": "5176897",
-      "time": "2026-10-29 01:00:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果觸控式螢幕MacBook釋出會在洛杉磯開始。"
-    },
-    {
-      "id": "5176896",
-      "time": "2026-10-29 01:00:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "荷蘭政府因暴發禽流感在全國範圍內實施圈養和篩查強制措施。"
-    },
-    {
-      "id": "5176895",
-      "time": "2026-10-29 01:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.04%，滬銅收漲0.04%，滬鋁收跌0.98%，滬鋅收漲0.06%，滬鉛收跌1.26%，滬鎳收跌0.05%，滬錫收跌0.82%。氧化鋁夜盤收跌0.46%，鋁合金收跌0.28%。不鏽鋼夜盤收跌0.30%。"
-    },
-    {
-      "id": "5176894",
-      "time": "2026-10-29 00:59:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員馬克·凱利表示正在考慮參加2028年總統競選，稱將在中期選舉後決定是否參選。"
     }
   ]
 }
