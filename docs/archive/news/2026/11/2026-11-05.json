@@ -1,7 +1,18 @@
 {
   "date": "2026-11-05",
-  "count": 453,
+  "count": 454,
   "items": [
+    {
+      "id": "te:markets:598329",
+      "time": "2026-11-05 06:45:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates largely by 7.43% — Top crypto gainers are Ether (7.43%), Bitcoin (4.54%) and Binance (3.67%)."
+    },
     {
       "id": "te:markets:598328",
       "time": "2026-11-05 06:40:15",
