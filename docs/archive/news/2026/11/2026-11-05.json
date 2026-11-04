@@ -1,7 +1,85 @@
 {
   "date": "2026-11-05",
-  "count": 146,
+  "count": 155,
   "items": [
+    {
+      "id": "mkt:01a1a79e-38c7-7ee0-aa78-8dacdc5a0316",
+      "time": "2026-11-05 01:32:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panama Canal Authority head said Maersk and Mediterranean Shipping Co. may bid for a new terminal project."
+    },
+    {
+      "id": "5193964",
+      "time": "2026-11-05 01:32:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲5%，現報12631.00元。"
+    },
+    {
+      "id": "5193963",
+      "time": "2026-11-05 01:31:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國眾議院民主黨領袖傑弗里斯：將推動透過法案以阻止特朗普關稅政策，結束伊朗戰爭。"
+    },
+    {
+      "id": "mkt:01a1a79d-e637-7ee0-aa78-809664a2c499",
+      "time": "2026-11-05 01:31:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "House Democratic Leader Jeffries said he has not yet received any communication from U.S. President Trump."
+    },
+    {
+      "id": "5193962",
+      "time": "2026-11-05 01:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西勞工部稱，9月正式就業崗位淨增12.1305萬個，調查預期為增加17.0852萬個。"
+    },
+    {
+      "id": "5193961",
+      "time": "2026-11-05 01:30:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院民主黨領袖傑弗里斯：尚未收到美國總統特朗普的訊息。"
+    },
+    {
+      "id": "5193960",
+      "time": "2026-11-05 01:30:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守94美元/桶，日內跌9.30%。"
+    },
+    {
+      "id": "5193959",
+      "time": "2026-11-05 01:30:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院民主黨領袖傑弗里斯：必須逆轉醫療補助削減，延長《平價醫療法案》稅收抵免。"
+    },
+    {
+      "id": "te:markets:598275",
+      "time": "2026-11-05 01:29:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum Climbs From 1-Year Low — Platinum futures rose above $1,430 an ounce but remained close to their lowest since September 2025, following a Democratic sweep in the US midterm elections. The results could complicate President Trump’s foreign policy agenda and efforts to secure additional funds for the war with Iran. Still, markets continue to price in further monetary tightening as energy costs linked to the Middle East conflict remain elevated and fuel inflation concerns. Higher rates put downward pressure in investment demand for the non-yielding metal. Expensive fuel and costlier auto financing also threaten vehicle sales and could curb demand for platinum in catalytic converters. Automotive demand is expected to decline 4%, partly offset by a projected 5% increase in industrial demand. The World Platinum Investment Council now expects a 265,000-ounce surplus in 2026, as weaker investment demand and softer jewelry consumption weigh on the outlook."
+    },
     {
       "id": "mkt:01a1a79b-f95a-7ee0-aa78-790cc3a2b95d",
       "time": "2026-11-05 01:29:39",
