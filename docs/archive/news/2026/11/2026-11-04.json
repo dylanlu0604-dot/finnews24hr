@@ -1,7 +1,85 @@
 {
   "date": "2026-11-04",
-  "count": 780,
+  "count": 789,
   "items": [
+    {
+      "id": "mkt:01a1a447-3138-7ee0-aa5a-b29d219294f5",
+      "time": "2026-11-04 09:58:11",
+      "tags": [
+        "MKT News",
+        "SOXX",
+        "Impact bullish",
+        "SMH",
+        "Nasdaq100"
+      ],
+      "text": "【Multiple semiconductor-equipment ETFs rise more than 4%】A-share morning trading: semiconductor sector active; semiconductor-equipment thematic ETFs from GF Fund, ChinaAMC and E Fund rose over 4%."
+    },
+    {
+      "id": "mkt:01a1a446-e6a4-7ee0-aa5a-af3db7839ecf",
+      "time": "2026-11-04 09:57:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【N. Korea says U.S. continues to send hostile signals】KCNA reported on the 4th that Workers' Party Central Committee minister Kim Yo-jong said the U.S. continues to send hostile signals, prompting Pyongyang to reassess the U.S. on multiple fronts. She said that as U.S. hostility toward North Korea reaches new highs, Pyongyang's \"reflexive responses\" should also set new records. Pyongyang has repeatedly said Washington's abandonment of its hostile policy toward the North is the essential precondition for resolving all issues."
+    },
+    {
+      "id": "em:jjsj_zgsj:202611043921302542",
+      "time": "2026-11-04 09:57:01",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局公佈10月下旬流通領域重要生產資料市場價格變動情況】國家統計局11月4日訊息，據對全國流通領域9大類50種重要生產資料市場價格的監測顯示，2026年10月下旬與10月中旬相比，17種產品價格上漲，28種下降，5種持平。"
+    },
+    {
+      "id": "5191970",
+      "time": "2026-11-04 09:56:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多隻半導體裝置ETF漲超4%】半導體裝置ETF廣發、科創半導體裝置ETF華夏、半導體裝置ETF易方達等多隻半導體、科創半導體主題ETF漲超4%。成分股上，北方華創漲超6%，中微公司、拓荊科技等跟漲。"
+    },
+    {
+      "id": "mkt:01a1a445-ec3f-7ee0-aa5a-a3bcf0caf08a",
+      "time": "2026-11-04 09:56:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "Singapore equities are down 10% from their September peak and look set to enter a technical correction."
+    },
+    {
+      "id": "5191969",
+      "time": "2026-11-04 09:56:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡股市較9月高點下跌10%，或將進入回撥。"
+    },
+    {
+      "id": "5191968",
+      "time": "2026-11-04 09:56:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "鎧俠股價下跌13%，軟銀集團下跌7.1%，愛德萬測試下跌8.1%。"
+    },
+    {
+      "id": "5191967",
+      "time": "2026-11-04 09:55:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【朝鮮說美國持續發出對朝敵對訊號】據朝中社4日報道，朝鮮勞動黨中央委員會部長金與正當天發表談話，稱美國持續發出對朝敵對訊號，促使朝鮮從多方面重新考慮美國這一實體。金與正說，所謂“朝鮮所為加密貨幣駭客攻擊事件”，不過是顯示美國對朝敵對政策實質的冰山一角。朝方不把此事看作一次偶然或孤立事件，而將其視為美方長期對朝敵視政策的延續。美國企圖利用此次事件“獲取某種政治利益”，這種“惡意”正在產生“政治副作用”。金與正說，近期，美國連同日本、韓國借各種名目強行推進聯合軍演、啟動單邊及多邊制裁、發表所謂“人口販賣報告”等，針對朝鮮在無核化、人權、網路、軍事等各領域的敵對舉措連日重新整理紀錄。金與正說，在美國對朝鮮實施敵對政策連創新高的今天，朝方的“反射性應對也應創下新紀錄”。朝方不止一次地表示，美國放棄對朝敵視政策是解決一切問題的大前提和關鍵。（新華社）"
+    },
     {
       "id": "mkt:01a1a444-33e8-7ee0-aa5a-9cecf02a09ed",
       "time": "2026-11-04 09:54:55",
@@ -92,6 +170,15 @@
         "CNH"
       ],
       "text": "【CHINA'S HE delivers video address at Hong Kong International Financial Leaders' Investment Summit】CHINA'S HE delivered a video address at the Hong Kong International Financial Leaders' Investment Summit, saying Xi prioritises Hong Kong and that firm central government support has reinforced Hong Kong’s stability and economic progress. He said the national 15th Five‑Year Plan includes specific measures to help Hong Kong consolidate and enhance competitiveness and better integrate with national development. He added Hong Kong has issued its first five‑year plan aligned with the national plan, which should strengthen consensus, spur innovation and boost development momentum."
+    },
+    {
+      "id": "em:jjsj_zgsj:202611043921298971",
+      "time": "2026-11-04 09:53:01",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【商務部服貿司負責人介紹2026年1-9月服務貿易發展情況】2026年1-9月，我國服務進出口總額57687.7億元（人民幣，下同），同比增長8.5%。其中，出口22714億元，增長14.8%；進口34973.7億元，增長4.8%。服務貿易逆差12259.7億元，同比縮小1326.6億元。"
     },
     {
       "id": "5191960",
