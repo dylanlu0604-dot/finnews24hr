@@ -1,7 +1,43 @@
 {
   "date": "2026-11-05",
-  "count": 142,
+  "count": 146,
   "items": [
+    {
+      "id": "mkt:01a1a79b-f95a-7ee0-aa78-790cc3a2b95d",
+      "time": "2026-11-05 01:29:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Trump says US stocks have recorded 91 all-time highs in under two years and that 401(k) retirement account balances have risen sharply."
+    },
+    {
+      "id": "5193958",
+      "time": "2026-11-05 01:29:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普：股市剛剛再創歷史新高，在不到兩年的短時間內就創下91次新高。你們的401(k)退休賬戶大幅增值。全部創下紀錄！"
+    },
+    {
+      "id": "5193957",
+      "time": "2026-11-05 01:28:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝：過去 24 小時內，沙特戰機發動 104 次空襲與導彈打擊，襲擊首都薩那以及焦夫、貝達、薩達、阿姆蘭、馬裡卜、塔伊茲、拉赫季省的民用設施。執行任務的 F‑15 和颱風戰機從海米斯穆謝特、塔伊夫空軍基地起飛，同時沙特還從奈季蘭、吉贊方向發起導彈攻擊，造成數十人死傷，其中大部分為婦女和兒童。自針對我方的軍事升級開始以來，沙特發動的空襲與導彈打擊累計已達 4136 次。"
+    },
+    {
+      "id": "mkt:01a1a799-1f17-7ee0-aa78-7788d01e59a4",
+      "time": "2026-11-05 01:26:32",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "SEC filing shows Intel (INTC.O) CEO Chen Liwu bought 150,000 shares of Intel common stock in the open market on Nov. 2 at an average price of $64.7312 per share. After the filing, Intel shares pared intraday losses to about 2% after earlier falling nearly 6%."
+    },
     {
       "id": "mkt:01a1a796-f24c-7ee0-aa78-6e31738717a3",
       "time": "2026-11-05 01:24:09",
