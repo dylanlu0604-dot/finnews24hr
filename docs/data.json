@@ -1,7 +1,73 @@
 {
-  "updated": "2026-11-05 00:52:58",
-  "count": 12104,
+  "updated": "2026-11-05 00:56:59",
+  "count": 12108,
   "items": [
+    {
+      "id": "5193934",
+      "time": "2026-11-05 00:55:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "Moderna在季度業績釋出前市值突破1000億美元，最新上漲9.5%。"
+    },
+    {
+      "id": "mkt:01a1a77c-38d1-7ee0-aa77-fd64d7d1d6ba",
+      "time": "2026-11-05 00:54:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【OPEC: Oil transport and insurance costs surge, amplify global inflationary pressure】OPEC Secretary-General Haitham Al Ghais said on Nov. 4 that since 2026 international energy transport and insurance costs have risen sharply and now exceed one-third of crude oil’s value. Rising transport and risk costs are transmitting along the oil and energy supply chain, increasing economic burdens on oil-producing and consuming countries and further adding to global inflationary pressure."
+    },
+    {
+      "id": "5193933",
+      "time": "2026-11-05 00:54:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河負責人：液化天然氣（LNG）船舶的通行量尚需完全恢復。"
+    },
+    {
+      "id": "te:markets:598254",
+      "time": "2026-11-05 00:54:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Italian Stocks Climb to One-Month High — Milan’s FTSE MIB closed 2.2% higher at 51,031 on Wednesday, reaching its highest level in a month, as markets assessed a Democratic sweep in the US midterm elections. The results weighed on global oil prices, as the results could complicate President Trump's foreign policy, particularly in additional funding for the war. Sovereign yields declined, offering some relief to bank's balance sheets while tracking a broader rally across the sector, which led gains. Merging activity also remains in focus in Milan, with gains in Unicredit (5.5%) and MPS (5.1%). Intesa rose 4.9%, continuing to be lifted by upbeat sentiment surrounding its bid for MPS, and consequently Mediobanca (3.8%) after that. Utilities advanced on lower European gas prices. Tech stocks Technoprobe (-7.1%), Prysmian (-6.9%) and STMicroelectronics (-5.1%) lagged, however, while defence firms Avio (-6.4%), Leonardo (-1%) and Fincantieri (-1.3%) declined on expectations of lower US military spending. Energy shares also tumbled."
+    },
+    {
+      "id": "5193932",
+      "time": "2026-11-05 00:53:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：特朗普徵詢顧問意見，考慮是否撤換赫格塞思】多名知情人士透露，共和黨在週二晚間中期選舉遭遇慘敗之後，特朗普正在當面以及電話徵詢身邊顧問的意見，研判國防部長赫格塞思是否應當留任。部分白宮助理預判，共和黨中期選舉失利的部分責任，將會歸咎於美國中央司令部司令布拉德・庫珀海軍上將，以及參謀長聯席會議主席丹・凱恩將軍；二人均在伊朗戰爭相關決策指引中扮演關鍵角色。但另有訊息表示，特朗普尚未做出撤換赫格塞思的最終決定。選舉之前，民主黨就已經發起針對赫格塞思的彈劾嘗試；如今民主黨參眾兩院均取得大幅優勢，彈劾行動的可能性進一步上升。一位訊息人士透露，外界已在討論佛羅里達州共和黨州長德桑蒂斯作為赫格塞思的潛在繼任人選。提議觀點認為，可以在國會跛腳鴨會期完成德桑蒂斯的參議院任命確認，待其州長任期 1 月 5 日屆滿之後，正式就任國防部長。"
+    },
+    {
+      "id": "5193931",
+      "time": "2026-11-05 00:52:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌9%，現報94.23美元/桶。"
+    },
+    {
+      "id": "5193930",
+      "time": "2026-11-05 00:52:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌8%，現報88.40美元/桶。"
+    },
     {
       "id": "mkt:01a1a779-d5d9-7ee0-aa77-f4d410aaa1d2",
       "time": "2026-11-05 00:52:21",
@@ -111656,35 +111722,6 @@
         "國際"
       ],
       "text": "美國參議員馬克·凱利表示正在考慮參加2028年總統競選，稱將在中期選舉後決定是否參選。"
-    },
-    {
-      "id": "te:markets:595924",
-      "time": "2026-10-29 00:56:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Italian Stocks Inch Higher — Italy’s FTSE MIB extended gains, closing 0.4% higher at 49,824 on Wednesday, supported by a 15.4% surge in Stellantis after the automaker reaffirmed its 2026 outlook and expressed confidence in its cost-cutting efforts. Meanwhile, Italy approved its 2027 budget bill, which is expected to include contributions from the financial and energy sectors. Energy stocks outperformed amid higher oil prices, with Saipem rising 0.4% and Tenaris gaining 1.3%, while Eni added 1.6% as it continued its buyback program. Banks traded mostly flat, although MPS (-0.7%) and Intesa (-0.5%) fell more sharply after the ECB approved Intesa’s takeover of MPS. The offer document is expected to receive Consob approval early next month. Banca BPM rose 1.3%, while utilities advanced, led by Hera (+0.5%). Technoprobe and Prysmian gained 1.7% and 1.4%, respectively. On the downside, Telecom Italia fell 1.5%, while Campari and Brunello Cucinelli lost 0.7% and 0.8%, respectively."
-    },
-    {
-      "id": "5176893",
-      "time": "2026-10-29 00:55:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "菲利普斯66公司：俄羅斯的餾分油供應不足以對全球市場產生實質性影響。"
-    },
-    {
-      "id": "5176892",
-      "time": "2026-10-29 00:55:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊：武裝力量已做好保衛國土的充分準備，同時伊朗繼續為外交取得成功提供機會；我們正與中間方保持密切、持續的接觸，以審視相關設想，確保我們的七日計劃能在不到一週內得以落實。"
     }
   ]
 }

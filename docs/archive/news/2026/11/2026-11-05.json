@@ -1,7 +1,73 @@
 {
   "date": "2026-11-05",
-  "count": 91,
+  "count": 98,
   "items": [
+    {
+      "id": "5193934",
+      "time": "2026-11-05 00:55:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "Moderna在季度業績釋出前市值突破1000億美元，最新上漲9.5%。"
+    },
+    {
+      "id": "mkt:01a1a77c-38d1-7ee0-aa77-fd64d7d1d6ba",
+      "time": "2026-11-05 00:54:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【OPEC: Oil transport and insurance costs surge, amplify global inflationary pressure】OPEC Secretary-General Haitham Al Ghais said on Nov. 4 that since 2026 international energy transport and insurance costs have risen sharply and now exceed one-third of crude oil’s value. Rising transport and risk costs are transmitting along the oil and energy supply chain, increasing economic burdens on oil-producing and consuming countries and further adding to global inflationary pressure."
+    },
+    {
+      "id": "te:markets:598254",
+      "time": "2026-11-05 00:54:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Italian Stocks Climb to One-Month High — Milan’s FTSE MIB closed 2.2% higher at 51,031 on Wednesday, reaching its highest level in a month, as markets assessed a Democratic sweep in the US midterm elections. The results weighed on global oil prices, as the results could complicate President Trump's foreign policy, particularly in additional funding for the war. Sovereign yields declined, offering some relief to bank's balance sheets while tracking a broader rally across the sector, which led gains. Merging activity also remains in focus in Milan, with gains in Unicredit (5.5%) and MPS (5.1%). Intesa rose 4.9%, continuing to be lifted by upbeat sentiment surrounding its bid for MPS, and consequently Mediobanca (3.8%) after that. Utilities advanced on lower European gas prices. Tech stocks Technoprobe (-7.1%), Prysmian (-6.9%) and STMicroelectronics (-5.1%) lagged, however, while defence firms Avio (-6.4%), Leonardo (-1%) and Fincantieri (-1.3%) declined on expectations of lower US military spending. Energy shares also tumbled."
+    },
+    {
+      "id": "5193933",
+      "time": "2026-11-05 00:54:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河負責人：液化天然氣（LNG）船舶的通行量尚需完全恢復。"
+    },
+    {
+      "id": "5193932",
+      "time": "2026-11-05 00:53:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：特朗普徵詢顧問意見，考慮是否撤換赫格塞思】多名知情人士透露，共和黨在週二晚間中期選舉遭遇慘敗之後，特朗普正在當面以及電話徵詢身邊顧問的意見，研判國防部長赫格塞思是否應當留任。部分白宮助理預判，共和黨中期選舉失利的部分責任，將會歸咎於美國中央司令部司令布拉德・庫珀海軍上將，以及參謀長聯席會議主席丹・凱恩將軍；二人均在伊朗戰爭相關決策指引中扮演關鍵角色。但另有訊息表示，特朗普尚未做出撤換赫格塞思的最終決定。選舉之前，民主黨就已經發起針對赫格塞思的彈劾嘗試；如今民主黨參眾兩院均取得大幅優勢，彈劾行動的可能性進一步上升。一位訊息人士透露，外界已在討論佛羅里達州共和黨州長德桑蒂斯作為赫格塞思的潛在繼任人選。提議觀點認為，可以在國會跛腳鴨會期完成德桑蒂斯的參議院任命確認，待其州長任期 1 月 5 日屆滿之後，正式就任國防部長。"
+    },
+    {
+      "id": "5193931",
+      "time": "2026-11-05 00:52:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌9%，現報94.23美元/桶。"
+    },
+    {
+      "id": "5193930",
+      "time": "2026-11-05 00:52:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌8%，現報88.40美元/桶。"
+    },
     {
       "id": "mkt:01a1a779-d5d9-7ee0-aa77-f4d410aaa1d2",
       "time": "2026-11-05 00:52:21",
