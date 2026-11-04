@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-05 01:01:04",
-  "count": 12111,
+  "updated": "2026-11-05 01:05:19",
+  "count": 12105,
   "items": [
+    {
+      "id": "mkt:01a1a784-e101-7ee0-aa78-355f72ec6956",
+      "time": "2026-11-05 01:04:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US media: Trump asks advisers whether to remove Defense Secretary Hegseth】CBS, citing multiple sources, reports that after the GOP’s heavy midterm losses Trump has asked close advisers and phone contacts whether Defense Secretary Hegseth should remain in office, but has made no removal decision. Some White House aides say CENTCOM commander Brad Cooper and chair of the Joint Chiefs Dan Kain could also be held accountable for Iran-war decision-making. Another source said Florida governor DeSantis is being considered as a potential replacement and could assume the role after his gubernatorial term ends on Jan. 5, 2027."
+    },
+    {
+      "id": "5193939",
+      "time": "2026-11-05 01:02:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局局長：運河方面計劃在2027財年安排10750次深吃水船舶通行，低於2026財年的12636次。"
+    },
+    {
+      "id": "mkt:01a1a782-8945-7ee0-aa78-2ce1e08b1c51",
+      "time": "2026-11-05 01:01:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panama Canal Authority plans to schedule 10,750 deep-draft vessel transits in fiscal 2027, down from 12,636 in fiscal 2026."
+    },
+    {
+      "id": "5193938",
+      "time": "2026-11-05 01:00:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟宣告：這包括確定可支援烏克蘭未來發展和自身努力的工具與手段。今天以及今後的工作重點是完善烏克蘭戰後經濟發展與繁榮的各類方案。"
+    },
     {
       "id": "mkt:01a1a781-4764-7ee0-aa78-269a0965137a",
       "time": "2026-11-05 01:00:29",
@@ -111668,92 +111700,6 @@
         "公司"
       ],
       "text": "谷歌正式釋出XREAL Aura。"
-    },
-    {
-      "id": "5176907",
-      "time": "2026-10-29 01:04:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "Alphabet漲幅擴大。"
-    },
-    {
-      "id": "5176906",
-      "time": "2026-10-29 01:04:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果CEO約翰·特努斯：蘋果觸控屏 MacBook Pro 將配備 OLED 螢幕。"
-    },
-    {
-      "id": "5176905",
-      "time": "2026-10-29 01:03:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：將對輸入token定價為每百萬2美元，輸出token定價為每百萬10美元。"
-    },
-    {
-      "id": "te:markets:595925",
-      "time": "2026-10-29 01:03:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Closes Slightly Higher — Frankfurt's DAX 40 reversed early losses to close about 0.4% up at 25,697 on Wednesday, buoyed by gains in banks, tech and utilities. Market participants remained focused on corporate earnings ahead of the Fed's policy outcome later in the day and the ECB meeting tomorrow. Meanwhile, oil prices climbed again amid heightened Middle East hostilities and fears of potential escalation. Deutsche Bank led individual stock gains, rising nearly 4% after reporting record third-quarter profits that exceeded market expectations. BASF shares rose more than 1%, as it raised its earnings forecast for 2026 after reporting performance above expectations, despite weakness in its agriculture division. On the losing side, Symrise plunged 10%, as it flagged slower year-end organic growth and margin pressure, despite recording stronger sales volumes and a modest quarterly growth beat."
-    },
-    {
-      "id": "5176904",
-      "time": "2026-10-29 01:02:59",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "蘋果釋出配備觸控屏的全新MacBook Pro。"
-    },
-    {
-      "id": "5176903",
-      "time": "2026-10-29 01:02:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：透過Microsoft Foundry提供Copilot Harness。"
-    },
-    {
-      "id": "5176902",
-      "time": "2026-10-29 01:02:00",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "谷歌推出Gemini 4 Carbon前沿大模型。"
-    },
-    {
-      "id": "5176901",
-      "time": "2026-10-29 01:01:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國運輸部批准ST LNG金額82億美元的深水港許可申請。"
-    },
-    {
-      "id": "5176900",
-      "time": "2026-10-29 01:01:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta宣佈支援加州理工學院、俄亥俄州立大學醫學院和路易斯安那州立大學的研究。"
-    },
-    {
-      "id": "5176899",
-      "time": "2026-10-29 01:01:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：宣佈支援印第安納大學和休斯頓大學健康科學中心的研究。"
     }
   ]
 }
