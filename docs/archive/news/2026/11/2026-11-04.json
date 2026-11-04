@@ -1,7 +1,128 @@
 {
   "date": "2026-11-04",
-  "count": 841,
+  "count": 854,
   "items": [
+    {
+      "id": "mkt:01a1a459-45af-7ee0-aa5b-53c7d3cdd568",
+      "time": "2026-11-04 10:17:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AP: Republican Andy Barr is projected to win the Kentucky Senate seat."
+    },
+    {
+      "id": "mkt:01a1a458-54c2-7ee0-aa5b-4a2e1804305b",
+      "time": "2026-11-04 10:16:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "KIHARA said Japan supports and is liaising with the International Criminal Court and is considering financial countermeasures."
+    },
+    {
+      "id": "5192011",
+      "time": "2026-11-04 10:16:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國媒體預計民主黨將奪回眾議院多數席位】美國媒體3日晚預測，民主黨將在此次中期選舉中從共和黨手中奪回多個眾議院席位，重新掌控國會眾議院。(新華社)"
+    },
+    {
+      "id": "mkt:01a1a458-267b-7ee0-aa5b-4580f9901c3d",
+      "time": "2026-11-04 10:16:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesian equities fell 1.6%, hitting their lowest level since September 2020."
+    },
+    {
+      "id": "mkt:01a1a458-0132-7ee0-aa5b-3c98d63a146c",
+      "time": "2026-11-04 10:16:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US equity futures fell after election forecaster Decision Desk HQ (DDHQ) projected Democrats would win control of the US House."
+    },
+    {
+      "id": "5192010",
+      "time": "2026-11-04 10:16:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價延續跌勢；最新下跌1.8%，報215,500韓元。"
+    },
+    {
+      "id": "5192009",
+      "time": "2026-11-04 10:16:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價延續跌勢；最新下跌2.6%，報1,362,000韓元。"
+    },
+    {
+      "id": "5192008",
+      "time": "2026-11-04 10:15:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【端側AI概念震盪走高 龍迅股份、樂鑫科技漲超10%】端側AI概念盤中震盪走高，龍迅股份、樂鑫科技漲超10%，泰凌微、敏芯股份、中科藍訊、博通整合等跟漲。"
+    },
+    {
+      "id": "5192007",
+      "time": "2026-11-04 10:15:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市下跌1.6%，創2020年9月以來新低。"
+    },
+    {
+      "id": "te:markets:597877",
+      "time": "2026-11-04 10:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Japanese Yen Increases by 0.55% — Top currency gainers are Japanese Yen (0.55%) and South Korean Won (0.52%). Biggest loser is Chinese Yuan (-0.11%)."
+    },
+    {
+      "id": "5192006",
+      "time": "2026-11-04 10:15:08",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國臺辦：歡迎更多臺商臺企積極融入大陸新發展格局】國務院臺辦舉行例行新聞釋出會。有記者問：11月5日，第九屆中國國際進口博覽會將在上海開幕，請介紹臺商臺企參加進博會情況。本屆進博會將給臺商臺企帶來哪些機遇？發言人朱鳳蓮表示，第九屆中國國際進口博覽會將於11月5日在上海國家會展中心開幕，臺灣地區有30多家企業參與了本屆進博會，展位面積約4200平方米，涵蓋食品、日化、消費品、醫療、健康、精密製造、現代服務等多個產業領域。舉辦進博會是祖國大陸推動新一輪高水平對外開放，主動向世界開放市場的重要舉措。我們歡迎更多的臺商臺企充分利用好進博會這個重要平臺，推薦企業的產品，拓展大陸的內需市場，積極融入新發展格局，和大陸同胞一道，共創共享中國式現代化的發展成果。"
+    },
+    {
+      "id": "5192005",
+      "time": "2026-11-04 10:14:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州省人民政府：推薦陳光虎為貴州銀行副行長人選，建議安鵬不再擔任該行副行長職務】11月3日，貴州省人民政府釋出關於陳光虎等職務調整的通知稱，省人民政府同意：推薦陳光虎為貴州銀行股份有限公司副行長人選；推薦邱祖軍為貴州鋁業集團有限公司董事、董事長人選，建議不再擔任貴州磷化（集團）有限責任公司副總經理職務。建議安鵬不再擔任貴州銀行股份有限公司副行長職務；建議蔡東不再擔任貴州銀行股份有限公司董事職務。"
+    },
+    {
+      "id": "5192004",
+      "time": "2026-11-04 10:14:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華是科技等成立奇遊網路資訊公司】企查查APP顯示，近日，廣州奇遊網路資訊有限公司成立，經營範圍包含數字文化創意軟體開發；市場營銷策劃；軟體開發；軟體銷售等。企查查股權穿透顯示，該公司由華是科技等共同持股。"
+    },
     {
       "id": "5192003",
       "time": "2026-11-04 10:12:47",
