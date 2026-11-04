@@ -1,7 +1,163 @@
 {
   "date": "2026-11-04",
-  "count": 1404,
+  "count": 1418,
   "items": [
+    {
+      "id": "te:economy:598019",
+      "time": "2026-11-04 16:28:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Spain Services Sector Growth Slows — The S&P Global Services PMI eased to 57.2 in October 2026 from 58.3 in September, marking its lowest reading in four months, although it continued to signal robust expansion in the services sector. New business volumes continued to grow in October, supported by stronger demand and improved market conditions. However, the pace of growth slowed to a five-month low, hampered by weaker export demand. New export business fell for the second month, with the latest decline the steepest since May."
+    },
+    {
+      "id": "5192790",
+      "time": "2026-11-04 16:28:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，谷歌將自願買斷計劃擴充套件至多個國家。"
+    },
+    {
+      "id": "te:markets:598017",
+      "time": "2026-11-04 16:27:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium is up by 5.03% — Palladium increased 5.03% to 980.5 USD/t.oz"
+    },
+    {
+      "id": "5192788",
+      "time": "2026-11-04 16:27:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "西班牙首相桑切斯將於歐洲中部時間上午9點45分在馬德里發表講話。"
+    },
+    {
+      "id": "5192787",
+      "time": "2026-11-04 16:27:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "葡萄牙郵政集團（CTT）股價跌幅擴大，目前下跌12.5%，有望創下近9年來最大單日跌幅。"
+    },
+    {
+      "id": "5192786",
+      "time": "2026-11-04 16:27:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長信科技：參股公司智行暢聯有涉及光通訊領域，並推出光模組產品】有投資者向長信科技（300088.SZ）提問，公司參加光博會，官網和公眾號都不及時釋出訊息。請問你們是怎麼想的？11月4日，公司回答表示，目前公司參股公司智行暢聯有涉及光通訊領域，並推出光模組產品，相關業務尚處於業務拓展階段，未來業務開展尚存在不確定性風險。"
+    },
+    {
+      "id": "mkt:01a1a5ab-5568-7ee0-aa66-c8fff1e943f2",
+      "time": "2026-11-04 16:27:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "PCA: China's preliminary October passenger vehicle retail sales rose 5% MoM."
+    },
+    {
+      "id": "mkt:01a1a5ab-1eda-7ee0-aa66-c3a77c94325a",
+      "time": "2026-11-04 16:26:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "PCA: China's preliminary October new-energy vehicle retail sales rose 6% MoM."
+    },
+    {
+      "id": "mkt:01a1a5aa-fb6c-7ee0-aa66-bac9bae5492b",
+      "time": "2026-11-04 16:26:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "PCA: China preliminary October retail new-energy vehicle (NEV) sales down 10% YoY."
+    },
+    {
+      "id": "5192785",
+      "time": "2026-11-04 16:26:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【君逸數碼：簽署1.74億元GPU卡採購合同】君逸數碼公告稱，公司此前擬採購高效能算力伺服器等硬體裝置，總金額預計不超過3.10億元。近日公司與供應商A簽署銷售合同，採購高效能算力伺服器的GPU卡，合同總金額1.74億元（含稅），資金來源為自有或自籌資金，標的尚未交付，乙方最遲不晚於2027年6月30日前完成約定數量標的物交付。本次交易不構成重大資產重組及關聯交易，無需提交股東會審議。目前公司雲算力服務尚未有收入貢獻，未來業務拓展存在不確定性。"
+    },
+    {
+      "id": "mkt:01a1a5aa-b55d-7ee0-aa66-b4543963b748",
+      "time": "2026-11-04 16:26:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "PCA: Preliminary October China passenger vehicle sales down 25% YoY."
+    },
+    {
+      "id": "5192784",
+      "time": "2026-11-04 16:25:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【東山精密今日漲7.04%，有4家機構專用席位淨賣出10.64億元】東山精密今日漲7.04%，成交額176.52億元，換手率14.34%，盤後龍虎榜資料顯示，深股通專用席位買入14.34億元並賣出20.36億元，有4家機構專用席位淨賣出10.64億元。"
+    },
+    {
+      "id": "te:economy:598016",
+      "time": "2026-11-04 16:25:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Composite PMI",
+        "Importance 2"
+      ],
+      "text": "Spain Private Sector Growth Remains Strong — The S&P Global Spain Composite PMI edged down to 56.2 in October 2026 from 56.8 in September, signaling a sixth consecutive month of strong private sector activity growth. Services remained the main driver of expansion, while manufacturing growth accelerated, with its PMI rising to 52.2 from 51.0, the highest since August 2025. Both sectors recorded increases in new orders, while employment continued to rise in services. However, new business growth in services slowed to a five-month low, partly reflecting weaker export demand. Meanwhile, input price inflation accelerated amid higher energy, fuel and transportation costs, with manufacturers reporting their fastest cost increases since May. Business confidence also weakened in manufacturing, while stronger optimism was seen among service providers."
+    },
+    {
+      "id": "te:markets:598015",
+      "time": "2026-11-04 16:24:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Higher Helped by Falling Bond Yields — London’s FTSE 100 rose 0.2% to around 10,660 points on Wednesday, supported by falling global bond yields following the Democratic sweep in the US midterm elections. Investors also digested a fresh batch of corporate earnings while positioning ahead of the Bank of England’s monetary policy decision on Thursday. In the US, the unexpected political shift is seen as reducing the likelihood of further deficit-expanding legislation under the Trump administration. On the corporate front, Smith & Nephew fell more than 2% after cutting its full-year revenue and profit guidance on weaker-than-expected growth in Orthopaedics. Marks & Spencer dropped over 1% despite reporting first-half sales ahead of expectations, while JD Wetherspoon gained 0.8% after reporting higher like-for-like sales and expressing confidence in current market expectations. Meanwhile, markets widely expect the Bank of England to resume monetary tightening on Thursday, delivering its first interest rate hike since 2023."
+    },
     {
       "id": "5192783",
       "time": "2026-11-04 16:24:05",
