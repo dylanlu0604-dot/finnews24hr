@@ -1,7 +1,113 @@
 {
   "date": "2026-11-04",
-  "count": 821,
+  "count": 832,
   "items": [
+    {
+      "id": "mkt:01a1a452-0363-7ee0-aa5b-141272290a9d",
+      "time": "2026-11-04 10:10:00",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share physical-AI concept stocks rebounded intraday: Fulai New Materials hit limit-up, Suochen Technology rose >10%, while Aopute, Huayi Technology, Haitian Ruisheng and Jack Technology also advanced."
+    },
+    {
+      "id": "5192000",
+      "time": "2026-11-04 10:09:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電池回收板塊震盪走弱，科力遠跌停】電池回收板塊震盪走弱，科力遠跌停，ST合縱、龍蟠科技、ST南都、泰爾股份、天賜材料、實豐文化等跟跌。"
+    },
+    {
+      "id": "5191999",
+      "time": "2026-11-04 10:09:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "DDHQ預測ZACH DEMBO贏得肯塔基州美國眾議員席位選舉。"
+    },
+    {
+      "id": "5191998",
+      "time": "2026-11-04 10:08:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【物理AI概念震盪反彈 福萊新材漲停】物理AI概念盤中震盪反彈，福萊新材漲停，索辰科技漲超10%，奧普特、華依科技、海天瑞聲、傑克科技跟漲。"
+    },
+    {
+      "id": "5191997",
+      "time": "2026-11-04 10:08:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "HELM進軍澳大利亞市場，在悉尼設立辦事處。"
+    },
+    {
+      "id": "5191996",
+      "time": "2026-11-04 10:08:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報6348.00點。"
+    },
+    {
+      "id": "5191995",
+      "time": "2026-11-04 10:08:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度支付公司RAZORPAY獲得印度證券交易委員會（SEBI）批准IPO。"
+    },
+    {
+      "id": "mkt:01a1a450-4068-7ee0-aa5b-093c6320c4e1",
+      "time": "2026-11-04 10:08:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China's CSI 500 index futures (IC) main contract rose 1.00% intraday to 6,336.8 points."
+    },
+    {
+      "id": "mkt:01a1a450-1e02-7ee0-aa5b-00c72be98f59",
+      "time": "2026-11-04 10:07:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02359.HK",
+        "Impact bullish",
+        "06160.HK",
+        "02269.HK"
+      ],
+      "text": "Hong Kong-listed innovative-drug stocks extended gains: WuXi AppTec (02359.HK) and BeiGene (06160.HK) rose more than 5%; WuXi Biologics (02269.HK) and Kangfang Biotech (09926.HK) also advanced."
+    },
+    {
+      "id": "5191994",
+      "time": "2026-11-04 10:07:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報6236.00點。"
+    },
+    {
+      "id": "5191993",
+      "time": "2026-11-04 10:06:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "民主黨候選人博特姆斯據預測贏得佐治亞州州長選舉，將成為美國歷史上第一位黑人女州長。"
+    },
     {
       "id": "mkt:01a1a44e-5a10-7ee0-aa5a-fa180446446f",
       "time": "2026-11-04 10:06:00",

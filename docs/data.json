@@ -1,7 +1,113 @@
 {
-  "updated": "2026-11-04 10:06:52",
-  "count": 12143,
+  "updated": "2026-11-04 10:10:38",
+  "count": 12152,
   "items": [
+    {
+      "id": "mkt:01a1a452-0363-7ee0-aa5b-141272290a9d",
+      "time": "2026-11-04 10:10:00",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share physical-AI concept stocks rebounded intraday: Fulai New Materials hit limit-up, Suochen Technology rose >10%, while Aopute, Huayi Technology, Haitian Ruisheng and Jack Technology also advanced."
+    },
+    {
+      "id": "5192000",
+      "time": "2026-11-04 10:09:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電池回收板塊震盪走弱，科力遠跌停】電池回收板塊震盪走弱，科力遠跌停，ST合縱、龍蟠科技、ST南都、泰爾股份、天賜材料、實豐文化等跟跌。"
+    },
+    {
+      "id": "5191999",
+      "time": "2026-11-04 10:09:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "DDHQ預測ZACH DEMBO贏得肯塔基州美國眾議員席位選舉。"
+    },
+    {
+      "id": "5191998",
+      "time": "2026-11-04 10:08:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【物理AI概念震盪反彈 福萊新材漲停】物理AI概念盤中震盪反彈，福萊新材漲停，索辰科技漲超10%，奧普特、華依科技、海天瑞聲、傑克科技跟漲。"
+    },
+    {
+      "id": "5191997",
+      "time": "2026-11-04 10:08:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "HELM進軍澳大利亞市場，在悉尼設立辦事處。"
+    },
+    {
+      "id": "5191996",
+      "time": "2026-11-04 10:08:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報6348.00點。"
+    },
+    {
+      "id": "5191995",
+      "time": "2026-11-04 10:08:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度支付公司RAZORPAY獲得印度證券交易委員會（SEBI）批准IPO。"
+    },
+    {
+      "id": "mkt:01a1a450-4068-7ee0-aa5b-093c6320c4e1",
+      "time": "2026-11-04 10:08:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China's CSI 500 index futures (IC) main contract rose 1.00% intraday to 6,336.8 points."
+    },
+    {
+      "id": "mkt:01a1a450-1e02-7ee0-aa5b-00c72be98f59",
+      "time": "2026-11-04 10:07:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02359.HK",
+        "Impact bullish",
+        "06160.HK",
+        "02269.HK"
+      ],
+      "text": "Hong Kong-listed innovative-drug stocks extended gains: WuXi AppTec (02359.HK) and BeiGene (06160.HK) rose more than 5%; WuXi Biologics (02269.HK) and Kangfang Biotech (09926.HK) also advanced."
+    },
+    {
+      "id": "5191994",
+      "time": "2026-11-04 10:07:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報6236.00點。"
+    },
+    {
+      "id": "5191993",
+      "time": "2026-11-04 10:06:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "民主黨候選人博特姆斯據預測贏得佐治亞州州長選舉，將成為美國歷史上第一位黑人女州長。"
+    },
     {
       "id": "mkt:01a1a44e-5a10-7ee0-aa5a-fa180446446f",
       "time": "2026-11-04 10:06:00",
@@ -111752,29 +111858,6 @@
         "Importance 1"
       ],
       "text": "Hong Kong Stocks Hold Steady — The Hang Seng Index was little changed at around 23,043 on Wednesday, as gains on Wall Street were offset by concerns over rising US Treasury yields, a stronger dollar and weakening mainland buying support. The Nasdaq gained 1.18% ahead of earnings from major US technology companies and the Federal Reserve’s policy decision. Meanwhile, mainland A-shares trade at a 33% premium to Hong Kong-listed counterparts, reflecting Beijing’s market-support measures and growing investor preference for onshore equities. Mainland investors have also recorded approximately HK$20 billion in net selling of Hong Kong stocks this month, potentially removing a key source of market support. On the data front, investors also awaited Hong Kong’s September trade data, due later in the day. Notable movers included Genscript Biotech (+8.67%), Kingboard Laminates (+6.77%), Semiconductor Manufacturing International Corp. (+4.10%) and Z.AI (+3.54%), while AIA Group (-2.90%) and Pop Mart (-1.59%) declined."
-    },
-    {
-      "id": "te:markets:595599",
-      "time": "2026-10-28 10:10:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Extends Losses — Heating oil prices in the US remained below $4.80 per gallon, falling for a third consecutive session amid expectations of increased Russian diesel supplies. US Energy Secretary Chris Wright said Washington could allow more Russian diesel into global markets, depending on Moscow’s actions. This follows a reported US-Russia agreement to resume diesel shipments, while Russian refineries reportedly increased processing by around 25% in the second half of October. The US also plans to loan up to 315,000 barrels from its Northeast Home Heating Oil Reserve. However, supply risks remained elevated as Yemen’s Iran-aligned Houthis claimed to have struck Saudi Arabia’s largest oil refinery with a missile, while reports said Washington warned Gulf states to prepare for a possible post-midterm military campaign against Iran. US distillate inventories remained relatively tight, standing around 9% below their five-year seasonal average in the week ended October 16."
-    },
-    {
-      "id": "te:markets:595598",
-      "time": "2026-10-28 10:06:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Rebound on Renewed AI Optimism — The Shanghai Composite rose 0.3% to 3,660 on Wednesday, while the Shenzhen Component climbed 1.4% to 11,407, rebounding from steep losses in the previous session, buoyed by a resurgence in artificial intelligence sentiment. The optimism came amid anticipation of upcoming earnings reports from US tech giants Alphabet Inc., Microsoft Corp. and Amazon.com Inc. Domestic hardware leaders such as Zhongji Innolight and Victory Giant Technology also face high expectations as investors demand solid financial results to justify current valuations. Technology stocks led the session's gains, with Cambricon Technologies climbing 3%, NAURA Technology jumping 3.6%, EOptolink Technology rising 3.2%, Zhongji Innolight gaining 2.8% and SMIC advancing 1.4%. Meanwhile, investors are watching the ongoing Communist Party’s Fifth Plenum, which concludes on Thursday, for further policy signals and clarity on China’s economic priorities."
     }
   ]
 }
