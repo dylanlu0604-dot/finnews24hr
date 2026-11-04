@@ -1,7 +1,51 @@
 {
   "date": "2026-11-05",
-  "count": 86,
+  "count": 91,
   "items": [
+    {
+      "id": "mkt:01a1a779-d5d9-7ee0-aa77-f4d410aaa1d2",
+      "time": "2026-11-05 00:52:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said he expects US President Trump to bypass Congress via executive orders after the US midterm elections."
+    },
+    {
+      "id": "5193929",
+      "time": "2026-11-05 00:49:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨表示，他預計美國總統特朗普將在中期選舉後透過行政令繞過國會。"
+    },
+    {
+      "id": "5193928",
+      "time": "2026-11-05 00:49:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "五角大樓：2026年我們在中東部署了超過2.5萬套無人機及反無人機系統。"
+    },
+    {
+      "id": "mkt:01a1a776-87a7-7ee0-aa77-e89f2c7d019e",
+      "time": "2026-11-05 00:48:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "i24News reported Shas formally recommended Benjamin Netanyahu to President Isaac Herzog to form Israel's next government during coalition consultations."
+    },
+    {
+      "id": "mkt:01a1a776-5077-7ee0-aa77-e68d8cd5f7ad",
+      "time": "2026-11-05 00:48:31",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "NOC.O",
+        "RTX.O"
+      ],
+      "text": "The Pentagon said it deployed more than 25,000 unmanned aerial systems and counter‑UAS systems in the Middle East in 2026."
+    },
     {
       "id": "5193927",
       "time": "2026-11-05 00:47:59",

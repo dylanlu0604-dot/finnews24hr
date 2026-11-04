@@ -1,7 +1,51 @@
 {
-  "updated": "2026-11-05 00:49:01",
-  "count": 12101,
+  "updated": "2026-11-05 00:52:58",
+  "count": 12104,
   "items": [
+    {
+      "id": "mkt:01a1a779-d5d9-7ee0-aa77-f4d410aaa1d2",
+      "time": "2026-11-05 00:52:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said he expects US President Trump to bypass Congress via executive orders after the US midterm elections."
+    },
+    {
+      "id": "5193929",
+      "time": "2026-11-05 00:49:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨表示，他預計美國總統特朗普將在中期選舉後透過行政令繞過國會。"
+    },
+    {
+      "id": "5193928",
+      "time": "2026-11-05 00:49:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "五角大樓：2026年我們在中東部署了超過2.5萬套無人機及反無人機系統。"
+    },
+    {
+      "id": "mkt:01a1a776-87a7-7ee0-aa77-e89f2c7d019e",
+      "time": "2026-11-05 00:48:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "i24News reported Shas formally recommended Benjamin Netanyahu to President Isaac Herzog to form Israel's next government during coalition consultations."
+    },
+    {
+      "id": "mkt:01a1a776-5077-7ee0-aa77-e68d8cd5f7ad",
+      "time": "2026-11-05 00:48:31",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "NOC.O",
+        "RTX.O"
+      ],
+      "text": "The Pentagon said it deployed more than 25,000 unmanned aerial systems and counter‑UAS systems in the Middle East in 2026."
+    },
     {
       "id": "5193927",
       "time": "2026-11-05 00:47:59",
@@ -111641,22 +111685,6 @@
         "國際"
       ],
       "text": "伊朗外長阿拉格齊：武裝力量已做好保衛國土的充分準備，同時伊朗繼續為外交取得成功提供機會；我們正與中間方保持密切、持續的接觸，以審視相關設想，確保我們的七日計劃能在不到一週內得以落實。"
-    },
-    {
-      "id": "5176891",
-      "time": "2026-10-29 00:51:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客仍預計全年交付量約870架飛機（此前預期867架）。"
-    },
-    {
-      "id": "5176889",
-      "time": "2026-10-29 00:49:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲加沙地帶多地造成多名巴勒斯坦人傷亡】當地時間10月28日，據巴勒斯坦方面訊息，當天下午以軍戰機對加沙地帶南部城市拉法發動空襲，造成3名巴勒斯坦人死亡、10人受傷。（央視新聞）"
     }
   ]
 }
