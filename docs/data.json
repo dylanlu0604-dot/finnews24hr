@@ -1,7 +1,224 @@
 {
-  "updated": "2026-11-04 09:44:16",
-  "count": 12055,
+  "updated": "2026-11-04 09:48:09",
+  "count": 12076,
   "items": [
+    {
+      "id": "5191950",
+      "time": "2026-11-04 09:47:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "DDHQ預測民主黨人Helena Foulkes贏得羅德島州州長選舉。"
+    },
+    {
+      "id": "mkt:01a1a43d-3ca7-7ee0-aa5a-51a914a37ed7",
+      "time": "2026-11-04 09:47:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share printed circuit board sector rallied briefly; Xiehe Electronics hit the daily price limit, Mankun Technology rose more than 10%, while Chaoying Electronics, Zecheng Electronics, Jin'an Guoji, Shennan Circuits and Huidian Co. also advanced."
+    },
+    {
+      "id": "5191949",
+      "time": "2026-11-04 09:47:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元指數下跌0.6%，至101.27。"
+    },
+    {
+      "id": "te:markets:597860",
+      "time": "2026-11-04 09:47:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Yangtze Power Shares Hit 15-month High — China Yangtze Power shares increased to 30.01 CNY, the highest since July 2025. Over the past 4 weeks, China Yangtze Power gained 3.63%, and in the last 12 months, it increased 5.38%."
+    },
+    {
+      "id": "mkt:01a1a43c-ef66-7ee0-aa5a-4f91c6f3a5ca",
+      "time": "2026-11-04 09:46:59",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Nikkei 225",
+        "CSI300"
+      ],
+      "text": "MSCI Asia Pacific Composite Index fell 1% to 253.24 points."
+    },
+    {
+      "id": "5191948",
+      "time": "2026-11-04 09:46:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內跌7%，現報5360.00元。"
+    },
+    {
+      "id": "5191947",
+      "time": "2026-11-04 09:46:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元上漲0.45%，至1.3474。"
+    },
+    {
+      "id": "mkt:01a1a43c-867f-7ee0-aa5a-40dd337424d2",
+      "time": "2026-11-04 09:46:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "South Korean and Japanese equities extended losses: South Korea's KOSPI down about 2% intraday; Japan's Nikkei 225 off more than 3%."
+    },
+    {
+      "id": "5191946",
+      "time": "2026-11-04 09:45:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【印製電路板板塊短線拉昇，協和電子漲停】印製電路板板塊短線拉昇，協和電子漲停，滿坤科技漲超10%，超穎電子、則成電子、金安國紀、深南電路、滬電股份等跟漲。"
+    },
+    {
+      "id": "mkt:01a1a43b-f430-7ee0-aa5a-3e139892f9ab",
+      "time": "2026-11-04 09:45:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China October RatingDog composite PMI 52, prior 52.4."
+    },
+    {
+      "id": "mkt:01a1a43b-e4e2-7ee0-aa5a-33521ac5767f",
+      "time": "2026-11-04 09:45:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "06693.HK",
+        "Impact bullish",
+        "02259.HK",
+        "00340.HK"
+      ],
+      "text": "Hong Kong-listed gold shares rallied: Chifeng Gold (06693.HK) rose over 6%, Zijin Gold International (02259.HK) gained more than 5%, while Zhufeng Gold (01815.HK) and Tongguan Gold (00340.HK) also advanced."
+    },
+    {
+      "id": "5191945",
+      "time": "2026-11-04 09:45:49",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至2%】韓國綜指跌幅擴大至2%，現報5534.42點。個股方面，SK海力士跌超3%，三星電子跌超2%。"
+    },
+    {
+      "id": "mkt:01a1a43b-d120-7ee0-aa5a-2a9dd4bee664",
+      "time": "2026-11-04 09:45:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | S&P Global/Ratingdog China General Composite PMI (Oct) | actual 52 | previous 52.4"
+    },
+    {
+      "id": "5191944",
+      "time": "2026-11-04 09:45:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【固態電池概念延續強勢 紫竹高科3連板】固態電池概念延續昨日強勢，紫竹高科3連板，新亞製程、聖陽股份觸及漲停，海博思創、紫建電子、尚水智慧、武漢藍電跟漲。"
+    },
+    {
+      "id": "5191943",
+      "time": "2026-11-04 09:45:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1%至253.24點。"
+    },
+    {
+      "id": "mkt:01a1a43b-8f97-7ee0-aa5a-26368318d618",
+      "time": "2026-11-04 09:45:29",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share innovative-drug sector rallied; Guilin Sanjin hit the daily limit, with Laimei Pharmaceutical, Shiyao Innovation, Yifang Bio-U, BeiGene, Nuocheng Jianhua and Tainomai Bo-U also advancing."
+    },
+    {
+      "id": "te:markets:597858",
+      "time": "2026-11-04 09:45:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "SSE Commodity Index Hits 5-week High — SSE Commodity Index increased to 7064.00 Index Points, the highest since September 2026. Over the past 4 weeks, SSE Consume Commodity Index gained 1.89%, and in the last 12 months, it decreased 15.41%."
+    },
+    {
+      "id": "5191942",
+      "time": "2026-11-04 09:45:14",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國10月RatingDog服務業PMI 50.8，前值 51.6。中國10月RatingDog綜合PMI 52，前值 52.4。"
+    },
+    {
+      "id": "mkt:01a1a43b-52a5-7ee0-aa5a-1dfa4604394e",
+      "time": "2026-11-04 09:45:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "China October RatingDog services PMI 50.8, prior 51.6."
+    },
+    {
+      "id": "mkt:01a1a43b-1ec8-7ee0-aa5a-12795a858583",
+      "time": "2026-11-04 09:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | S&P Global/Ratingdog China General Services PMI (Oct) | actual 50.8 | previous 51.6"
+    },
+    {
+      "id": "5191941",
+      "time": "2026-11-04 09:44:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥概念異動拉昇，桂林三金直線漲停】創新藥概念異動拉昇，桂林三金直線漲停，萊美藥業、石藥創新、益方生物-U、百濟神州、諾誠健華、泰諾麥博-U等跟漲。"
+    },
     {
       "id": "5191940",
       "time": "2026-11-04 09:43:40",
