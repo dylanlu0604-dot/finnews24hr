@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-05 01:09:23",
-  "count": 12107,
+  "updated": "2026-11-05 01:13:45",
+  "count": 12096,
   "items": [
+    {
+      "id": "te:markets:598263",
+      "time": "2026-11-05 01:12:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 2.18% Higher — The FTSE MIB Index went up by 1089 points or 2.18 percent on Wednesday to close at 51031 points. The rise was led by UniCredit (5.40%), Intesa Sanpaolo (5.38%) and Banca Monte dei Paschi di Siena (5.07%)."
+    },
+    {
+      "id": "te:markets:598262",
+      "time": "2026-11-05 01:11:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 2.22% Higher — The DAX Index rose 573 points or 2.22 percent on Wednesday to close at 26438 points. Leading the gains are HeidelbergCement (9.74%), Zalando (8.66%) and Scout24 (7.60%)."
+    },
+    {
+      "id": "te:markets:598261",
+      "time": "2026-11-05 01:10:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 1.96% Higher — The CAC 40 Index gained 158 points or 1.96 percent on Wednesday to close at 8178 points. Gains were led by Kering (6.57%), Renault (5.03%) and Hermes International (5.03%)."
+    },
     {
       "id": "mkt:01a1a788-f266-7ee0-aa78-46144cd83292",
       "time": "2026-11-05 01:08:52",
@@ -9,6 +45,14 @@
         "MKT News"
       ],
       "text": "Several presidents and heads of state have arrived in Madrid, Spain, to attend the Ibero‑American Summit."
+    },
+    {
+      "id": "5193944",
+      "time": "2026-11-05 01:08:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀（UBS）在倫敦裁員約 200 人，其中包含投行人員。"
     },
     {
       "id": "5193943",
@@ -111586,143 +111630,6 @@
         "國際"
       ],
       "text": "烏克蘭方面：第聶伯羅彼得羅夫斯克州遭俄軍襲擊，5人受傷，當日該州四個地區累計遇襲超40次。"
-    },
-    {
-      "id": "5176927",
-      "time": "2026-10-29 01:13:34",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "蘋果新款MacBook Pro電池續航最長可達24小時。"
-    },
-    {
-      "id": "5176925",
-      "time": "2026-10-29 01:12:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司：MacBook Pro今日（10月28日）起開放預訂，11月6日（下週五）開始發售。"
-    },
-    {
-      "id": "5176924",
-      "time": "2026-10-29 01:12:25",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "蘋果14英寸MacBook Pro搭載M5 Pro晶片，起售價2899美元；16英寸版本起售價3399美元。"
-    },
-    {
-      "id": "5176923",
-      "time": "2026-10-29 01:12:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：配備ProLED XDR顯示屏的MacBook Pro租用服務已上線，租期36個月，月租55.99美元起。"
-    },
-    {
-      "id": "te:markets:595931",
-      "time": "2026-10-29 01:12:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.32% Higher — The FTSE MIB Index rose 157 points or 0.32 percent on Wednesday to close at 49785 points. Leading the gains are Stellantis N.V. (15.61%), Lottomatica (3.00%) and Eni (1.63%). Top losers were Telecom Italia (-1.65%), Davide Campari-Milano (-1.42%) and Fincantieri (-1.42%)."
-    },
-    {
-      "id": "5176922",
-      "time": "2026-10-29 01:12:06",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "蘋果14英寸MacBook Pro（搭載M5 Max晶片）起售價4499美元；16英寸機型起售價4799美元。"
-    },
-    {
-      "id": "5176921",
-      "time": "2026-10-29 01:11:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果首次在Mac上推出配備ProLED XDR顯示屏和觸控功能的突破性MacBook Pro。"
-    },
-    {
-      "id": "te:markets:595930",
-      "time": "2026-10-29 01:11:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.34% Higher — The DAX Index gained 86 points or 0.34 percent on Wednesday to close at 25677 points. Gains were led by Deutsche Bank (3.86%), Siemens Energy (3.64%) and Infineon (1.77%). Biggest losers were Symrise (-9.79%), Zalando (-2.18%) and Deutsche Post (-1.82%)."
-    },
-    {
-      "id": "5176920",
-      "time": "2026-10-29 01:10:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：將透過Fairwind計劃逐步向更多可信合作伙伴開放Gemini Carbon的訪問許可權。"
-    },
-    {
-      "id": "5176919",
-      "time": "2026-10-29 01:10:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：Chrome增強自動填充功能現可從Gmail中提取資訊，為線上表單提供建議。"
-    },
-    {
-      "id": "te:markets:595929",
-      "time": "2026-10-29 01:10:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.02% Lower — The CAC 40 Index decreased 2 points or 0.02 percent on Wednesday to close at 7886 points. The decline was led by Dassault Systemes (-4.58%), Essilor (-2.20%) and ArcelorMittal (-1.91%). On the upside, the strongest performers were Stellantis NV (15.47%), Danone (2.95%) and Legrand (2.94%)."
-    },
-    {
-      "id": "5176917",
-      "time": "2026-10-29 01:10:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：從本週開始，將向一部分網路防禦人員開放 Carbon 模型。"
-    },
-    {
-      "id": "5176916",
-      "time": "2026-10-29 01:09:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：XREAL AURA正式釋出，年底前優惠價1099美元。"
-    },
-    {
-      "id": "5176915",
-      "time": "2026-10-29 01:09:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌稱Gemini 4 Carbon將審慎推進落地，主動參與美國政府模型預釋出自願測試流程。"
-    },
-    {
-      "id": "5176914",
-      "time": "2026-10-29 01:09:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超2%，虎虎科技跌42.00%，新東方跌12.44%，陸金所控股跌8.12%，高途跌7.20%，迅雷跌6.77%。"
     }
   ]
 }

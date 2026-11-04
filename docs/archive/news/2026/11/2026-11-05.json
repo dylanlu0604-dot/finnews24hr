@@ -1,7 +1,43 @@
 {
   "date": "2026-11-05",
-  "count": 118,
+  "count": 122,
   "items": [
+    {
+      "id": "te:markets:598263",
+      "time": "2026-11-05 01:12:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 2.18% Higher — The FTSE MIB Index went up by 1089 points or 2.18 percent on Wednesday to close at 51031 points. The rise was led by UniCredit (5.40%), Intesa Sanpaolo (5.38%) and Banca Monte dei Paschi di Siena (5.07%)."
+    },
+    {
+      "id": "te:markets:598262",
+      "time": "2026-11-05 01:11:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 2.22% Higher — The DAX Index rose 573 points or 2.22 percent on Wednesday to close at 26438 points. Leading the gains are HeidelbergCement (9.74%), Zalando (8.66%) and Scout24 (7.60%)."
+    },
+    {
+      "id": "te:markets:598261",
+      "time": "2026-11-05 01:10:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 1.96% Higher — The CAC 40 Index gained 158 points or 1.96 percent on Wednesday to close at 8178 points. Gains were led by Kering (6.57%), Renault (5.03%) and Hermes International (5.03%)."
+    },
     {
       "id": "mkt:01a1a788-f266-7ee0-aa78-46144cd83292",
       "time": "2026-11-05 01:08:52",
@@ -9,6 +45,14 @@
         "MKT News"
       ],
       "text": "Several presidents and heads of state have arrived in Madrid, Spain, to attend the Ibero‑American Summit."
+    },
+    {
+      "id": "5193944",
+      "time": "2026-11-05 01:08:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀（UBS）在倫敦裁員約 200 人，其中包含投行人員。"
     },
     {
       "id": "5193943",
