@@ -1,7 +1,70 @@
 {
-  "updated": "2026-11-04 16:17:25",
-  "count": 12118,
+  "updated": "2026-11-04 16:21:15",
+  "count": 12124,
   "items": [
+    {
+      "id": "5192771",
+      "time": "2026-11-04 16:19:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Revolut完成融資 估值達1150億美元】Revolut釋出公告稱，已完成最新一輪融資，公司估值1150億美元。本輪融資由格萊德布魯克資本、Coatue、Durable Capital Partners、T. Rowe Price以及巴利吉福德領投。"
+    },
+    {
+      "id": "5192770",
+      "time": "2026-11-04 16:19:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞塞拜然經濟部：預計2027年石油和天然氣行業將下降1.8%，與2026年預測相符。"
+    },
+    {
+      "id": "5192768",
+      "time": "2026-11-04 16:18:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【京能電力：前三季度營收250.67億元 淨利同比降23.34%】京能電力公告稱，2026年前三季度實現營業收入250.67億元，同比下降4.78%；歸母淨利潤24.60億元，同比下降23.34%；扣非歸母淨利潤24.31億元，同比下降23.04%。第三季度營收84.80億元，同比下降7.16%；歸母淨利潤4.71億元，同比下降61.51%，利潤下滑因上網電價下降、標煤單價上漲。公司定增專案獲上交所受理，擬募資不超50億元，控股股東擬認購10億-25億元。2026年長協煤簽約覆蓋率100%，1-9月實際採購佔比超90%。"
+    },
+    {
+      "id": "mkt:01a1a5a3-1d1e-7ee0-aa66-8f5817a71cfc",
+      "time": "2026-11-04 16:18:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "02359.HK",
+        "06693.HK"
+      ],
+      "text": "【Hong Kong close: Hang Seng up 1.67% after strong afternoon rally; new-drug stocks lead】Hong Kong stocks finished higher after a strong afternoon surge. The Hang Seng closed up 1.67% at 23,919.5, roughly a 400-point intraday gain; the Hang Seng TECH index rose 1.77% to 3,936.02. Turnover was HKD 236.896 bln (prior session HKD 236.404 bln). New-drug and precious-metals sectors led gains, while optical-communications and PCB/compute-infrastructure names also rallied; pork and beverage sectors lagged. Select movers: WuXi AppTec (02359.HK) +12.39%, Chifeng Gold (06693.HK) +18.15%, Junzheng (03223.HK) +18.25%, Haiguang Xinzheng (01191.HK) +26.32%; Muyuan Foods (02714.HK) -2.25%, Mixue Group (02097.HK) -3.00%."
+    },
+    {
+      "id": "5192767",
+      "time": "2026-11-04 16:17:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【vivo與人民日報達成影像技術戰略合作，圍繞真實新聞場景開展技術共創】在2026“一帶一路”媒體合作論壇期間，vivo與人民日報舉行“人民日報影像技術戰略合作伙伴”簽約儀式，正式達成影像技術戰略合作關係。雙方將圍繞真實新聞場景開展技術共創，探索移動影像技術在媒體傳播領域的更多可能，為媒體融合發展注入技術動能。（新浪科技）"
+    },
+    {
+      "id": "te:markets:598013",
+      "time": "2026-11-04 16:17:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Iberdrola Shares Hit 15-year High — Iberdrola shares increased to 22.30 EUR, the highest since August 2011. Over the past 4 weeks, Iberdrola gained 5.98%, and in the last 12 months, it increased 25.17%."
+    },
     {
       "id": "5192766",
       "time": "2026-11-04 16:16:18",
