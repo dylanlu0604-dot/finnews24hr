@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-05 06:38:46",
-  "count": 11841,
+  "updated": "2026-11-05 06:42:39",
+  "count": 11838,
   "items": [
+    {
+      "id": "te:markets:598328",
+      "time": "2026-11-05 06:40:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Butter Drops by 3.32% — Top commodity losers are Butter (-3.32%) and Rapeseed (-1.99%). Gains are led by Cotton (1.43%) and Sugar (0.71%)."
+    },
+    {
+      "id": "5194245",
+      "time": "2026-11-05 06:39:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "星展銀行任命Anthony Lim為董事長，自1月1日起接替Peter Seah。"
+    },
     {
       "id": "te:markets:598327",
       "time": "2026-11-05 06:35:15",
@@ -108926,51 +108945,6 @@
         "其他"
       ],
       "text": "【科技抱團未散，公募調倉現分歧】在三季度，上半年表現亮眼的科技板塊出現調整，公募對科技抱團是否鬆動的討論隨之升溫。一方面，電子、通訊兩大行業的公募投資佔比仍處高位，資金並未系統性撤離；另一方面，前期投向AI算力產業鏈的基金經理操作分化，堅守算力者調整細分賽道，先行者轉向AI應用端，謹慎者均衡配置，防守者清倉換賽道。展望後市，基金經理長期看好AI產業的共識未變，但對估值與結構性方向的判斷正趨於精細化。（中證報）"
-    },
-    {
-      "id": "5177352",
-      "time": "2026-10-29 06:40:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【透視31省份經濟“三季報”：經濟大省挑大樑，新動能增長強勁】31個省份前三季度經濟“成績單”近日陸續出爐。其中，經濟大省持續發揮“壓艙石”作用，多地增速跑贏全國，新動能加速集聚，新質生產力培育提速。接受採訪的專家認為，後續仍要持續擴內需、穩預期，因地制宜培育長效增長動力，護航全年經濟平穩執行。 從經濟總量看，前三季度經濟總量前十強省份為：廣東、江蘇、山東、浙江、四川、河南、湖北、福建、上海和安徽，其經濟總量均超4萬億元。其中，廣東以111090.8億元位居首位，江蘇以108631.3億元緊隨其後。（中證報）"
-    },
-    {
-      "id": "te:markets:595989",
-      "time": "2026-10-29 06:40:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Drops by 2.52% — Top commodity losers are Coffee (-2.52%), Cocoa (-2.07%) and Oat (-1.84%). Gains are led by Lumber (1.58%) and Sugar (0.78%)."
-    },
-    {
-      "id": "5177351",
-      "time": "2026-10-29 06:40:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油公司第三季度石油及衍生品出口量為130萬桶/日。"
-    },
-    {
-      "id": "mkt:01a184ab-1236-7ee0-a9cd-0bdca2680435",
-      "time": "2026-10-29 06:39:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Petrobras said in filings Q3 production of oil, gas and condensate averaged 3.5 mln boe/d; crude production in Brazil averaged 2.8 mln bpd in Q3."
-    },
-    {
-      "id": "5177350",
-      "time": "2026-10-29 06:39:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西石油公司（Petrobras）第三季度石油、天然氣及天然氣凝液產量為350萬桶油當量/日。"
     }
   ]
 }
