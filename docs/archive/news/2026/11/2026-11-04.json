@@ -1,7 +1,212 @@
 {
   "date": "2026-11-04",
-  "count": 1716,
+  "count": 1740,
   "items": [
+    {
+      "id": "5193018",
+      "time": "2026-11-04 17:19:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國瓷材料：累計回購股份比例達1.17%】國瓷材料公告稱，截至2026年11月3日，公司本次及前次透過集中競價方式累計回購股份1162.19萬股，佔公司總股本的1.17%，成交總金額為3.00億元（不含交易費用）。本次回購方案資金總額為1億元-2億元，回購價格上限經調整後為39.85元/股，回購期限為董事會審議透過之日起12個月內，後續公司將繼續推進回購計劃。"
+    },
+    {
+      "id": "mkt:01a1a5da-aeb3-7ee0-aa69-182d9061e669",
+      "time": "2026-11-04 17:18:54",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Cboe VIX slid below 19."
+    },
+    {
+      "id": "5193017",
+      "time": "2026-11-04 17:18:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港交易所：貝萊德持有贛鋒鋰業 <1772.HK> H股的多頭頭寸於10月30日從9.33%增至10.42%。"
+    },
+    {
+      "id": "5193016",
+      "time": "2026-11-04 17:18:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江天化學：持股5%以上股東減持比例達1.0250%】江天化學公告稱，公司持股5%以上股東南通江山農藥化工股份有限公司於2026年11月3日透過集中競價、大宗交易方式合計減持公司股份147.97萬股，佔公司總股本的1.0250%。本次權益變動後，該股東持股數量從869.76萬股降至721.79萬股，持股比例從6.0249%降至4.9999%，權益變動觸及5%及1%整數倍。本次減持符合此前披露的減持計劃，該減持計劃尚未實施完畢，不會導致公司控股股東及實控人變更。"
+    },
+    {
+      "id": "5193015",
+      "time": "2026-11-04 17:18:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "金價上漲3%，因民主黨勝選導致美元與收益率下跌。"
+    },
+    {
+      "id": "5193014",
+      "time": "2026-11-04 17:18:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲3%，現報4048.10美元/盎司。"
+    },
+    {
+      "id": "5193013",
+      "time": "2026-11-04 17:18:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雅創電子：全資子公司收購永佳實業70%股權完成】雅創電子公告，公司此前披露全資子公司TEXIN (HONGKONG) ELECTRONICS CO.LIMITED擬以現金合計4088萬美元受讓龍啟宇持有的永佳實業70%股權。近日，永佳實業已在當地辦理完成股權變更登記手續，本次收購完成，永佳實業成為公司控股子公司，納入公司合併報表範圍。"
+    },
+    {
+      "id": "5193012",
+      "time": "2026-11-04 17:18:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所波動率指數跌破19點。"
+    },
+    {
+      "id": "mkt:01a1a5d9-c4a0-7ee0-aa69-11f1c8b37cb6",
+      "time": "2026-11-04 17:17:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Central Elections Committee approved the election results."
+    },
+    {
+      "id": "5193011",
+      "time": "2026-11-04 17:17:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京港洽談會簽約商業航天等47個專案 金額超500億元】第29屆北京·香港經濟合作研討洽談會（京港洽談會）今日在北京國家會議中心開幕。本屆洽談會共簽約專案47個，簽約金額74.79億美元（按1美元兌6.8元人民幣折算約508.6億元）。其中，在京投資專案34個、金額53.71億美元，在港投資專案6個、金額13.55億美元，協議類專案7個、金額7.52億美元。從產業分佈看，簽約專案覆蓋科技服務、商務服務、生物醫藥、金融、人工智慧、軟體和資訊科技服務、商業航天、文化旅遊、智慧製造與裝備等領域。"
+    },
+    {
+      "id": "5193010",
+      "time": "2026-11-04 17:17:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精測電子：控股股東、實際控制人、董事長、總經理彭騫提議回購，金額1億元-2億元】精測電子公告，董事會近日收到控股股東、實際控制人、董事長、總經理彭騫提議回購函，提議以自有資金或自籌資金集中競價回購部分A股，資金總額不低於人民幣1億元（含）且不超過人民幣2億元（含），回購價格不高於董事會審議透過回購方案決議前30個交易日公司股票交易均價的150%，用途為股權激勵/員工持股計劃或減少註冊資本，或維護公司價值及股東權益，具體以審議透過方案為準。"
+    },
+    {
+      "id": "5193009",
+      "time": "2026-11-04 17:17:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "BLOCK盤前股價上漲6.1%，此前該公司上調了年度利潤預期。"
+    },
+    {
+      "id": "5193008",
+      "time": "2026-11-04 17:17:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要 BIST-100 指數 <.XU100> 上漲 3.3%，主要銀行指數 <.XBANK> 上漲 3.6%。"
+    },
+    {
+      "id": "5193007",
+      "time": "2026-11-04 17:17:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾和諾德執行長：正考慮核心業務領域內的“所有資產”。"
+    },
+    {
+      "id": "5193006",
+      "time": "2026-11-04 17:17:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：伊斯蘭銀團貸款將持續增長；海灣國家仍是最大市場，但東盟份額上升。"
+    },
+    {
+      "id": "5193005",
+      "time": "2026-11-04 17:17:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "納指科技ETF景順：為保護投資者利益，本基金將於 2026 年 11 月 5 日開市起停牌，自 2026年 11 月 5 日 10:30 起復牌，停牌期間本基金贖回業務照常辦理。"
+    },
+    {
+      "id": "5193004",
+      "time": "2026-11-04 17:17:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破52美元/盎司，日內漲4.48%。"
+    },
+    {
+      "id": "mkt:01a1a5d8-cb58-7ee0-aa69-09af0231ed0c",
+      "time": "2026-11-04 17:16:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【XPeng Group, university teams unveil GroundingPI pretraining model】XPeng Group, with research teams from Peking University, the University of Hong Kong and other universities, released GroundingPI, an embodied-perception foundation pretraining model following a \"perception-first\" approach. At about 4 billion parameters it ranks first in a composite evaluation across 34 public perception benchmarks and reports higher data-processing efficiency and stronger scene generalization in robotic simulation tasks."
+    },
+    {
+      "id": "5193003",
+      "time": "2026-11-04 17:16:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬聯合高校團隊釋出GroundingPI預訓練模型】小鵬集團聯合北京大學、香港大學等高校研究團隊聯合釋出具身感知基座模型的研究成果GroundingPI。該研究提出“感知優先”的技術路線，以約40億引數規模，在34項公開感知基準的綜合評測中位列第一，並在機器人模擬任務中展現出更高的資料處理效率與更強的場景泛化能力。"
+    },
+    {
+      "id": "5193002",
+      "time": "2026-11-04 17:16:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列選舉委員會會議批准選舉結果。"
+    },
+    {
+      "id": "te:economy:598077",
+      "time": "2026-11-04 17:16:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Euro Area Services PMI Revised Lower — The S&P Global Eurozone Services PMI was revised lower to 51.4 in October 2026 from a preliminary of 51.7 and compared to 53 in September, signalling a slowdown in the services sector at the start of the fourth quarter. New business intakes dipped slightly, a notable deviation from the solid growth seen throughout each month of the third quarter. To support activity, firms depleted backlogs of work. Outstanding order volumes declined for the eleventh time in the past 12 months. October data signalled a renewed drop in services employment, the first seen since May. Price pressures in the service sector eased slightly, with the rates of inflation for output charges and input costs ticking down for the first time since July."
+    },
+    {
+      "id": "5193001",
+      "time": "2026-11-04 17:16:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "Crédit Mutuel Arkéa遭遇加密貨幣駭客攻擊，損失超過1億美元。"
+    },
+    {
+      "id": "5193000",
+      "time": "2026-11-04 17:15:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "諾和諾德執行長表示，美國藥品價格壓力是兩黨共同關注的問題。"
+    },
+    {
+      "id": "5192999",
+      "time": "2026-11-04 17:15:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門警告吉贊地區存在潛在危險 。"
+    },
     {
       "id": "mkt:01a1a5d7-b2c4-7ee0-aa69-030b11d3340d",
       "time": "2026-11-04 17:15:38",
