@@ -1,7 +1,27 @@
 {
   "date": "2026-11-05",
-  "count": 449,
+  "count": 451,
   "items": [
+    {
+      "id": "te:markets:598327",
+      "time": "2026-11-05 06:35:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Gains by 4.93% — Top commodity gainers are Platinum (4.93%), Silver (4.86%) and Gold (3.27%). Biggest loser is Lithium Carbonate (-1.01%)."
+    },
+    {
+      "id": "5194244",
+      "time": "2026-11-05 06:34:46",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【OpenAI自動化漏洞鏈路發現1724個Linux核心漏洞】OpenAI自動化漏洞研究鏈路共識別出2308個Linux核心漏洞候選樣本，透過動態復現確認1724個漏洞，並生成948個本地提權（LPE）利用程式，這類漏洞可讓無許可權使用者獲取root最高許可權。該鏈路分為五個階段：漏洞發現、動態驗證、可利用性評估、補丁生成、人工複核。第二次掃描的全流程成本約121萬美元API點數，產出948個獨立本地提權漏洞。若按漏洞賞金標準估算，這948個利用程式價值區間為1890萬至6630萬美元，是鏈路成本的16至55倍。智慧體使用了10種全新漏洞利用技術，已經第三方核心漏洞專家核驗確認為新方法。OpenAI正向Linux核心維護人員提交漏洞資訊與對應補丁。"
+    },
     {
       "id": "5194243",
       "time": "2026-11-05 06:32:09",
