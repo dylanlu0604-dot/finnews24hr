@@ -1,7 +1,35 @@
 {
   "date": "2026-11-05",
-  "count": 24,
+  "count": 27,
   "items": [
+    {
+      "id": "5193892",
+      "time": "2026-11-05 00:27:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "參議院民主黨領袖舒默：我們將結束這場戰爭，一些共和黨人已加入我們。"
+    },
+    {
+      "id": "5193891",
+      "time": "2026-11-05 00:25:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "參議院民主黨領袖舒默：若美國總統特朗普違背民眾意願，將啟動調查。"
+    },
+    {
+      "id": "te:markets:598245",
+      "time": "2026-11-05 00:25:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Verizon Shares Hit 4-week High — Verizon shares increased to 46.55 USD, the highest since October 2026. Over the past 4 weeks, Verizon gained 1.16%, and in the last 12 months, it increased 16.86%."
+    },
     {
       "id": "mkt:01a1a75d-73ef-7ee0-aa77-34cf5ebb7ba3",
       "time": "2026-11-05 00:21:21",

@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-05 00:24:14",
-  "count": 12078,
+  "updated": "2026-11-05 00:28:21",
+  "count": 12073,
   "items": [
+    {
+      "id": "5193892",
+      "time": "2026-11-05 00:27:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "參議院民主黨領袖舒默：我們將結束這場戰爭，一些共和黨人已加入我們。"
+    },
+    {
+      "id": "5193891",
+      "time": "2026-11-05 00:25:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "參議院民主黨領袖舒默：若美國總統特朗普違背民眾意願，將啟動調查。"
+    },
+    {
+      "id": "te:markets:598245",
+      "time": "2026-11-05 00:25:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Verizon Shares Hit 4-week High — Verizon shares increased to 46.55 USD, the highest since October 2026. Over the past 4 weeks, Verizon gained 1.16%, and in the last 12 months, it increased 16.86%."
+    },
     {
       "id": "mkt:01a1a75d-73ef-7ee0-aa77-34cf5ebb7ba3",
       "time": "2026-11-05 00:21:21",
@@ -111353,75 +111381,6 @@
         "國際"
       ],
       "text": "美國能源部長賴特：柴油價格將大幅下降，阿拉伯灣柴油出口可能增加。"
-    },
-    {
-      "id": "5176859",
-      "time": "2026-10-29 00:27:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：俄羅斯只有結束衝突才能從柴油機出口中獲益。"
-    },
-    {
-      "id": "5176858",
-      "time": "2026-10-29 00:27:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽：與2022-2023年緊縮週期開始時相比，美國銀行似乎更有能力適應進一步的加息。"
-    },
-    {
-      "id": "5176857",
-      "time": "2026-10-29 00:26:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級：隨著利率上升，美國銀行已做好更充分準備來吸收未實現損失。"
-    },
-    {
-      "id": "te:markets:595916",
-      "time": "2026-10-29 00:26:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Bounces Back Toward 2022 Highs — Brent crude rose above $116 a barrel on Wednesday, moving closer to its highest level since June 2022, as escalating Middle East hostilities heightened concerns about supply disruptions. Yemen’s Iran-aligned Houthis attacked Aden airport and claimed a missile strike on Saudi Arabia’s largest oil refinery, which has a capacity of 550,000 barrels per day, although Saudi authorities had not confirmed the reported refinery attack. Also, there are increased fears that the US could resume military operations against Iran after the November 3 midterm elections, potentially intensifying regional instability and threatening oil flows. Meanwhile, Qatari mediators presented Tehran with a new draft proposal to end the war involving the US and Israel. However, an Iranian official dismissed the ideas as unacceptable, leaving the prospects for a settlement uncertain. On the data front, US crude inventories fell by 1.9 million barrels in the week ended October 23, broadly matching industry estimates."
-    },
-    {
-      "id": "5176856",
-      "time": "2026-10-29 00:26:21",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "義大利總理梅洛尼：義大利計劃從能源公司徵收 7 億歐元，另外從博彩業徵收 7 億歐元。"
-    },
-    {
-      "id": "5176855",
-      "time": "2026-10-29 00:26:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "菲利普斯66公司：公司有一個可靠的計劃，可使中游業務收益每年增長約5%。"
-    },
-    {
-      "id": "5176854",
-      "time": "2026-10-29 00:25:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利能源企業將向預算繳納7億歐元。"
-    },
-    {
-      "id": "5176853",
-      "time": "2026-10-29 00:25:26",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "義大利總理梅洛尼：義大利計劃從銀行和保險公司籌集約50億歐元，提高金融交易稅。"
     }
   ]
 }
