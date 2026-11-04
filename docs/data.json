@@ -1,7 +1,89 @@
 {
-  "updated": "2026-11-05 00:40:49",
-  "count": 12097,
+  "updated": "2026-11-05 00:44:56",
+  "count": 12099,
   "items": [
+    {
+      "id": "5193919",
+      "time": "2026-11-05 00:43:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普正在徵詢顧問意見，討論美國國防部長赫格塞斯是否應當離職。"
+    },
+    {
+      "id": "mkt:01a1a771-907e-7ee0-aa77-cc4971db4523",
+      "time": "2026-11-05 00:43:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS, citing sources, says President Trump is asking advisers whether U.S. Defense Secretary Hegseth should resign."
+    },
+    {
+      "id": "te:markets:598251",
+      "time": "2026-11-05 00:43:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rise the Most in 6 Months — European stocks rallied on Wednesday, with the Euro Stoxx 50 climbing 2.3% and the broader Stoxx 600 gaining nearly 2%, marking their strongest advances since May 6. The gains followed the US midterm elections, in which Democrats secured control of both chambers of Congress, prompting a broad improvement in risk appetite. Banks, luxury companies and renewable energy stocks led the advance, supported by falling bond yields and expectations that the new political balance could constrain the Trump administration’s fiscal agenda. Renewable energy shares outperformed, with Orsted rising 5% and Vestas gaining 3.1%, as the Democratic victory was seen as supportive of clean-energy investment. In contrast, defence stocks lagged amid expectations that congressional control could limit increases in US military spending and influence European defence investment."
+    },
+    {
+      "id": "mkt:01a1a770-cb4b-7ee0-aa77-c0e6b56fa36c",
+      "time": "2026-11-05 00:42:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed to $4,060/oz, up 3.31% intraday."
+    },
+    {
+      "id": "5193918",
+      "time": "2026-11-05 00:42:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4060美元/盎司，日內漲3.33%。"
+    },
+    {
+      "id": "5193917",
+      "time": "2026-11-05 00:41:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌7%，現報628.80元。"
+    },
+    {
+      "id": "5193916",
+      "time": "2026-11-05 00:41:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4070美元/盎司，日內漲3.29%。"
+    },
+    {
+      "id": "mkt:01a1a76f-801a-7ee0-aa77-bdd9214ea006",
+      "time": "2026-11-05 00:41:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【International oil prices extend decline】Brent crude fell more than 8% intraday to $95.20 per barrel; WTI dropped over 7% to $89.27 per barrel."
+    },
     {
       "id": "5193914",
       "time": "2026-11-05 00:40:00",
@@ -111551,59 +111633,6 @@
         "其他"
       ],
       "text": "空客第三季度調整後息稅前利潤17.7億歐元，市場預期17.9億歐元。"
-    },
-    {
-      "id": "5176880",
-      "time": "2026-10-29 00:42:54",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "義大利財政部副部長表示，對銀行加稅旨在避免影響資本充足率。"
-    },
-    {
-      "id": "te:markets:595923",
-      "time": "2026-10-29 00:42:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Little Changed on Wednesday — European stocks were broadly flat on Wednesday, with the Euro Stoxx 50 and Stoxx 600 little changed as gains in Germany and Italy offset a decline of more than 1% in Spain following a rail crash that killed 68 people. UK and French markets were also subdued. Sector performance was mixed, with oil and gas stocks rising over 1% as renewed Middle East tensions pushed crude prices higher on supply disruption concerns. Automobiles and parts gained more than 1%, while utilities advanced over 0.5%. Media stocks fell nearly 2%, and miners, household goods and chemicals also weakened. Among individual shares, Logitech plunged 10% on supply chain concerns, while GSK dropped 5% after disappointing investors with its results. Banco Santander slid 5.5% following lower net profit, and UBS lost 1%. Mercedes-Benz edged up 0.4% despite cutting its outlook, while BNP Paribas rose 0.3%. Worldline gained 5%, Standard Chartered climbed 2.7%, and Deutsche Bank advanced 4% on stronger results or guidance."
-    },
-    {
-      "id": "5176879",
-      "time": "2026-10-29 00:42:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普政府將要求管理數千億美元藥品開支的企業，披露其收費方式的詳細資訊。"
-    },
-    {
-      "id": "5176878",
-      "time": "2026-10-29 00:41:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "義大利經濟部副部長表示，義大利上調銀行、保險公司和能源集團的IRES和IRAP企業所得稅，以為預算提供資金。"
-    },
-    {
-      "id": "5176876",
-      "time": "2026-10-29 00:41:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌雲：Cloud SQL的PostgreSQL藍綠部署支援即將推出。"
-    },
-    {
-      "id": "5176875",
-      "time": "2026-10-29 00:41:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌雲：宣佈為Cloud SQL for MySQL推出全託管藍綠部署預覽版。"
     }
   ]
 }
