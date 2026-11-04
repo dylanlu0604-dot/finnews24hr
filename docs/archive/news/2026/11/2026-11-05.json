@@ -1,7 +1,75 @@
 {
   "date": "2026-11-05",
-  "count": 155,
+  "count": 161,
   "items": [
+    {
+      "id": "5193967",
+      "time": "2026-11-05 01:37:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4080美元/盎司，日內漲3.54%。"
+    },
+    {
+      "id": "5193966",
+      "time": "2026-11-05 01:37:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌9%，現報87.42美元/桶。"
+    },
+    {
+      "id": "mkt:01a1a7a1-3f0a-7ee0-aa78-a1e54adbee41",
+      "time": "2026-11-05 01:35:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Brent down more than 10% intraday】International crude extended losses: Brent crude down more than 10% intraday at $93.27/bbl, WTI down more than 9% at $87.05/bbl."
+    },
+    {
+      "id": "mkt:01a1a7a0-6485-7ee0-aa78-99df411ca805",
+      "time": "2026-11-05 01:34:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "House Democratic Leader Jeffries said Democrats will pass legislation to block Trump's tariff policy and end the war with Iran."
+    },
+    {
+      "id": "mkt:01a1a79f-ff7a-7ee0-aa78-93049fb33cdf",
+      "time": "2026-11-05 01:34:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury website: U.S. announces a new round of Iran-related sanctions."
+    },
+    {
+      "id": "5193965",
+      "time": "2026-11-05 01:33:51",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部網站：美國發布新一輪涉伊朗制裁。"
+    },
     {
       "id": "mkt:01a1a79e-38c7-7ee0-aa78-8dacdc5a0316",
       "time": "2026-11-05 01:32:06",
