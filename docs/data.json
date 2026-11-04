@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-05 06:07:13",
-  "count": 11828,
+  "updated": "2026-11-05 06:10:59",
+  "count": 11829,
   "items": [
+    {
+      "id": "mkt:01a1a89d-2563-7ee0-aa7c-4493b7bf34a5",
+      "time": "2026-11-05 06:10:33",
+      "tags": [
+        "MKT News",
+        "WDS.N"
+      ],
+      "text": "Woodside Energy (WDS.N) expects to cut its global workforce by more than 500 employees."
+    },
+    {
+      "id": "5194224",
+      "time": "2026-11-05 06:09:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國原油庫存降至7月以來最低水平，墨西哥灣沿岸庫存則跌至2022年12月以來新低。"
+    },
     {
       "id": "mkt:01a1a899-8a06-7ee0-aa7c-3e5355072b47",
       "time": "2026-11-05 06:06:36",
@@ -108845,14 +108862,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: South Korean Won Depreciates by 1.24% — Top currency losers are South Korean Won (-1.24%), New Zealand Dollar (-1.03%), Indian Rupee (-0.32%) and Dollar Index (-0.16%). Gains are led by Norwegian Krone (0.76%), Swedish Krona (0.53%), Canadian Dollar (0.41%), Euro (0.23%), British Pound (0.11%) and Japanese Yen (0.08%)."
-    },
-    {
-      "id": "5177339",
-      "time": "2026-10-29 06:10:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國宣佈對烏克蘭追加百億英鎊援助】據英國政府網站28日訊息，英國財政大臣約翰·希利28日在議會下院公佈新政府首份財政預算案時宣佈，英國將向烏克蘭追加100億英鎊（1英鎊約合人民幣8.9元）經濟和軍事援助。希利說，這筆援助將包括貸款、出口融資擔保以及為今年冬季提供的5億英鎊緊急軍事資金。希利與英國首相伯納姆已於當天早些時候將追加援助的承諾告知烏克蘭總統澤連斯基。（新華社）"
     }
   ]
 }

@@ -1,7 +1,24 @@
 {
   "date": "2026-11-05",
-  "count": 421,
+  "count": 423,
   "items": [
+    {
+      "id": "mkt:01a1a89d-2563-7ee0-aa7c-4493b7bf34a5",
+      "time": "2026-11-05 06:10:33",
+      "tags": [
+        "MKT News",
+        "WDS.N"
+      ],
+      "text": "Woodside Energy (WDS.N) expects to cut its global workforce by more than 500 employees."
+    },
+    {
+      "id": "5194224",
+      "time": "2026-11-05 06:09:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國原油庫存降至7月以來最低水平，墨西哥灣沿岸庫存則跌至2022年12月以來新低。"
+    },
     {
       "id": "mkt:01a1a899-8a06-7ee0-aa7c-3e5355072b47",
       "time": "2026-11-05 06:06:36",
