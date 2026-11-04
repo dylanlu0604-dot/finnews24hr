@@ -1,7 +1,28 @@
 {
-  "updated": "2026-11-05 00:19:59",
-  "count": 12084,
+  "updated": "2026-11-05 00:24:14",
+  "count": 12078,
   "items": [
+    {
+      "id": "mkt:01a1a75d-73ef-7ee0-aa77-34cf5ebb7ba3",
+      "time": "2026-11-05 00:21:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The U.S. will extend the national emergency with respect to Iran through November 2027."
+    },
+    {
+      "id": "mkt:01a1a75b-8481-7ee0-aa77-2cbad4bdbcfe",
+      "time": "2026-11-05 00:19:15",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nikkei reports Japan wants US tech companies to share undisclosed software vulnerabilities as risks rise."
+    },
     {
       "id": "5193890",
       "time": "2026-11-05 00:18:21",
@@ -111401,74 +111422,6 @@
         "焦點"
       ],
       "text": "義大利總理梅洛尼：義大利計劃從銀行和保險公司籌集約50億歐元，提高金融交易稅。"
-    },
-    {
-      "id": "te:markets:595915",
-      "time": "2026-10-29 00:23:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Extends Gains to Over 3% — Crude oil rose more than 3% to above $103 a barrel on Wednesday as escalating Middle East hostilities heightened concerns about supply disruptions. Yemen’s Iran-aligned Houthis attacked Aden airport and claimed a missile strike on Saudi Arabia’s largest oil refinery, which has a capacity of 550,000 barrels per day, although Saudi authorities had not confirmed the reported refinery attack. Also, there are increased fears that the US could resume military operations against Iran after the November 3 midterm elections, potentially intensifying regional instability and threatening oil flows. Meanwhile, Qatari mediators presented Tehran with a new draft proposal to end the war involving the US and Israel. However, an Iranian official dismissed the ideas as unacceptable, leaving the prospects for a settlement uncertain. Supporting prices further, US crude inventories fell by 1.9 million barrels in the week ended October 23, broadly matching industry estimates."
-    },
-    {
-      "id": "5176849",
-      "time": "2026-10-29 00:23:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國將在艾奧瓦州推進兩個風電專案。"
-    },
-    {
-      "id": "5176848",
-      "time": "2026-10-29 00:23:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：與荷蘭首相耶滕進行了良好會晤。感謝荷蘭向烏克蘭提供新一輪軍事支援，金額為5億歐元。"
-    },
-    {
-      "id": "5176847",
-      "time": "2026-10-29 00:22:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國將批准兩個因五角大樓受阻的風電專案。"
-    },
-    {
-      "id": "5176846",
-      "time": "2026-10-29 00:22:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國水務監管局OFWAT委任安永為泰晤士水務獨立監察機構。"
-    },
-    {
-      "id": "5176845",
-      "time": "2026-10-29 00:21:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴西最高法院否認授權搜查弗拉維奧·博索納羅住所】據巴西當地媒體28日報道，巴西最高聯邦法院28日否認了此前關於法官德莫賴斯授權對在總統選舉中落敗的自由黨候選人弗拉維奧·博索納羅住所進行搜查的傳聞。（新華社）"
-    },
-    {
-      "id": "5176844",
-      "time": "2026-10-29 00:21:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階外交官員：特朗普仍決心徹底消除伊朗的軍事核計劃，並消除對霍爾木茲海峽及伊朗鄰國構成的軍事威脅。"
-    },
-    {
-      "id": "5176843",
-      "time": "2026-10-29 00:20:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【內塔尼亞胡陣營在議會選舉中領先 但未過半數】以色列中央選舉委員會28日公佈議會選舉初步計票結果顯示，以總理內塔尼亞胡領導的右翼陣營領先於以色列國防軍前總參謀長加迪·埃森科特領銜的反對派陣營，但雙方均未達到議會多數席位。內塔尼亞胡領導的右翼政黨利庫德集團仍為議會第一大黨。（新華社）"
     }
   ]
 }

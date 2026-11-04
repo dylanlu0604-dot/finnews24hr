@@ -1,7 +1,28 @@
 {
   "date": "2026-11-05",
-  "count": 22,
+  "count": 24,
   "items": [
+    {
+      "id": "mkt:01a1a75d-73ef-7ee0-aa77-34cf5ebb7ba3",
+      "time": "2026-11-05 00:21:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The U.S. will extend the national emergency with respect to Iran through November 2027."
+    },
+    {
+      "id": "mkt:01a1a75b-8481-7ee0-aa77-2cbad4bdbcfe",
+      "time": "2026-11-05 00:19:15",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nikkei reports Japan wants US tech companies to share undisclosed software vulnerabilities as risks rise."
+    },
     {
       "id": "5193890",
       "time": "2026-11-05 00:18:21",
