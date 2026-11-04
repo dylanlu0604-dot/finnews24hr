@@ -1,7 +1,216 @@
 {
   "date": "2026-11-04",
-  "count": 1418,
+  "count": 1440,
   "items": [
+    {
+      "id": "te:markets:598030",
+      "time": "2026-11-04 16:32:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yields Fall — The UK 10-year gilt yield fell to 5.23% on Wednesday, tracking a decline in US Treasury yields following the Democratic sweep in the US midterm elections. A Democratic takeover of the House is seen as reducing the likelihood of further deficit-expanding legislation under the Trump administration, easing concerns over federal borrowing. Meanwhile, investors are positioning for an expected return to monetary tightening by the Bank of England on Thursday, with markets widely anticipating the first interest rate hike since 2023. Inflationary pressures stemming from the Iran war, alongside resilience in the UK economy, have strengthened the case for higher borrowing costs. However, policymakers are expected to push back against market expectations of several further rate increases next year."
+    },
+    {
+      "id": "te:markets:598029",
+      "time": "2026-11-04 16:32:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.04% Higher — The FTSE 100 Index is picking up 4 points or 0.04 percent on Wednesday. Gains are led by Fresnillo (3.94%), Endeavour (3.40%) and HSBC Holdings (2.73%). Biggest losers are Weir (-6.01%), BAE Systems (-4.89%) and Babcock International (-2.43%)."
+    },
+    {
+      "id": "5192799",
+      "time": "2026-11-04 16:31:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行表示，全球通脹壓力依然高企。"
+    },
+    {
+      "id": "mkt:01a1a5af-903a-7ee0-aa66-fc380e95691a",
+      "time": "2026-11-04 16:31:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Riksbank says policy rate very likely to be raised further over the next year."
+    },
+    {
+      "id": "5192798",
+      "time": "2026-11-04 16:31:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東本地生活業務負責人郭慶離職】11月4日，媒體瞭解到，京東本地生活業務負責人郭慶近期因個人原因離職。2024年1月，原美團S-team成員郭慶加入了京東，擔任京東集團顧問。2024年8月，達達釋出公告，郭慶出任達達集團董事會主席。京東外賣業務在去年年初官宣上線。（第一財經）"
+    },
+    {
+      "id": "mkt:01a1a5af-029d-7ee0-aa66-f7e26f56d372",
+      "time": "2026-11-04 16:31:12",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "Onshore RMB closed at 6.6770 per US dollar at 16:30 on Nov 4, down 5 pips from the previous trading day."
+    },
+    {
+      "id": "te:markets:598026",
+      "time": "2026-11-04 16:31:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.44% Higher — The DAX Index is up by 114 points or 0.44 percent on Wednesday. Top gainers are HeidelbergCement (6.80%), Continental (4.75%) and Deutsche Bank (3.18%). Biggest losses came from Rheinmetall (-2.05%), Siemens Energy (-1.63%) and Daimler Truck Holding AG (-0.78%)."
+    },
+    {
+      "id": "5192797",
+      "time": "2026-11-04 16:31:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元收盤報6.6770，較上一交易日下降5點。"
+    },
+    {
+      "id": "mkt:01a1a5ae-c344-7ee0-aa66-eae472d16176",
+      "time": "2026-11-04 16:30:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Sweden's Riksbank raised its policy rate by 25 bps to 2.00% from 1.75%."
+    },
+    {
+      "id": "te:markets:598025",
+      "time": "2026-11-04 16:30:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Fall as Democrats Sweep Congress — The yield on the US 10-year Treasury note went down to 4.93% on Wednesday, as traders react to the Democratic sweep of Congress in the midterm elections. While a Democratic victory raises the prospect of tighter regulatory scrutiny, particularly on AI, it is also seen as limiting the scope for further tax cuts and government spending, easing concerns over increased federal borrowing. Additionally, tighter AI regulation could weigh on growth and reduce the need for further interest-rate hikes. The odds for a 25bps rate increase by the Fed in December currently stand around 77%, below 84% a week ago. Meanwhile, the US Treasury said on Monday it expects to borrow $618 billion in the fourth quarter, $10 billion less than its August estimate. The revision reflects a higher-than-expected opening cash balance, partly offset by lower projected net cash flows. Excluding the benefit of the larger initial cash cushion, however, borrowing needs are $24 billion higher than previously estimated."
+    },
+    {
+      "id": "5192796",
+      "time": "2026-11-04 16:30:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行可能進一步加息。"
+    },
+    {
+      "id": "mkt:01a1a5ae-4938-7ee0-aa66-e6ff6b47c1cd",
+      "time": "2026-11-04 16:30:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Riksbank policy rate 2.00% as of Nov 4; market expected 2.00%, prior 1.75%."
+    },
+    {
+      "id": "5192795",
+      "time": "2026-11-04 16:30:21",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "瑞典央行將政策利率從1.75%上調至2.0%。"
+    },
+    {
+      "id": "mkt:01a1a5ae-1f67-7ee0-aa66-dec8ff4d9b45",
+      "time": "2026-11-04 16:30:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Sweden | Riksbank's Benchmark Interest Rate (Nov.4) | actual 2% | consensus 2% | previous 1.75%"
+    },
+    {
+      "id": "te:markets:598023",
+      "time": "2026-11-04 16:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Increases by 1.91% — Top crypto gainers are Ether (1.91%) and Bitcoin (1.21%)."
+    },
+    {
+      "id": "mkt:01a1a5ae-0532-7ee0-aa66-d4b41b87021b",
+      "time": "2026-11-04 16:30:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AP projects Republican Pete Ricketts to win Nebraska Senate seat."
+    },
+    {
+      "id": "te:markets:598022",
+      "time": "2026-11-04 16:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.35% Higher — The CAC 40 Index is picking up 28 points or 0.35 percent on Wednesday. Gains are led by Societe Generale (2.99%), BNP Paribas (2.22%) and ArcelorMittal (2.07%). Biggest losers are Thales (-4.68%), TP (-2.06%) and Stellantis NV (-1.81%)."
+    },
+    {
+      "id": "5192794",
+      "time": "2026-11-04 16:29:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿里雲部分無影硬體終端漲價】11月4日，據阿里雲網站訊息，近期受全球供應鏈環境變化影響，核心原材料成本持續上漲，導致硬體生產成本顯著增加。前期已透過內部最佳化努力消化部分成本壓力，但為確保產品品質的穩定性及服務的可持續性，經內部產品及供應鏈側多方評估後，已完成了部分無影硬體終端的銷售價格漲價調整，涉及到的產品有無影方舟Pro-NS01、無影方舟-NE01、無影一體機23.8-US01、無影一體機21.5-US05、無影魔方Ultra-AX01、無影魔方Pro-AS06。另，鑑於成本壓力的持續性，阿里雲將陸續啟動對其他無影硬體型號的價格調整工作。"
+    },
+    {
+      "id": "5192793",
+      "time": "2026-11-04 16:29:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：特朗普態度轉折，又稱他“渴望”與民主黨達成協議，“我不想否決一切”】據美國“政治”新聞網報道，美國總統特朗普接受該媒體採訪時稱，他“渴望”與民主黨達成協議，不想“否決一切”。多家美媒早些時候報道，美國民主黨在2026年11月的中期選舉中取得勝利，預計將奪回參眾兩院控制權。據報道，特朗普稱，過去20分鐘內他一直在與民主黨高層交談，他“渴望”與政治對手達成協議。他還補充說：“我不想只是坐在那裡兩年，否決一切。”美媒認為，本次中期選舉期間，特朗普的態度出現轉折。特朗普接受福克斯新聞採訪時表示，“否決權是總統擁有的最強大權力之一。他們（民主黨人）會把一些瘋狂的法案提交給我，而我會否決它們。經過幾個月的否決之後，他們就會打電話過來，問‘我們該怎樣才能把這些事情辦成？’到那時我們就會攜手合作了。”特朗普還在社交平臺上釋出了一張紅色棒球帽的照片，帽子上印有“VETO”（否決）字樣。（環球網）"
+    },
+    {
+      "id": "5192792",
+      "time": "2026-11-04 16:28:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子收購TCL華星光電10.16%股權，深化戰略協同與業務合作。"
+    },
+    {
+      "id": "5192791",
+      "time": "2026-11-04 16:28:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯稱納季蘭的危險已經過去。"
+    },
     {
       "id": "te:economy:598019",
       "time": "2026-11-04 16:28:21",
@@ -21,6 +230,14 @@
         "公司"
       ],
       "text": "訊息人士稱，谷歌將自願買斷計劃擴充套件至多個國家。"
+    },
+    {
+      "id": "5192789",
+      "time": "2026-11-04 16:28:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "美聯社預測，共和黨人皮特·裡基茨贏得內布拉斯加州參議院席位。"
     },
     {
       "id": "te:markets:598017",
