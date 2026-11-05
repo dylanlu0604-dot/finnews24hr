@@ -1,7 +1,43 @@
 {
   "date": "2026-11-06",
-  "count": 214,
+  "count": 218,
   "items": [
+    {
+      "id": "5197168",
+      "time": "2026-11-06 01:53:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所三個月期鎳收漲543美元，報每噸16322美元。"
+    },
+    {
+      "id": "5197167",
+      "time": "2026-11-06 01:52:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所三個月期鋁收漲17美元，報每噸3064美元。三個月期銅收跌168美元，報每噸13844美元。三個月期鉛收漲12美元，報每噸1894美元。"
+    },
+    {
+      "id": "5197166",
+      "time": "2026-11-06 01:50:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率日內下跌10個基點至4.48%。"
+    },
+    {
+      "id": "mkt:01a1acd5-1fcc-7ee0-aa99-f34a2726bec5",
+      "time": "2026-11-06 01:50:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde and Governing Council member Duolunci are due to speak in ten minutes."
+    },
     {
       "id": "mkt:01a1acd4-02df-7ee0-aa99-ec162f5713d7",
       "time": "2026-11-06 01:48:57",
