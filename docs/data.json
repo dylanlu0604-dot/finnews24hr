@@ -1,7 +1,32 @@
 {
-  "updated": "2026-11-05 11:06:05",
-  "count": 11791,
+  "updated": "2026-11-05 11:09:52",
+  "count": 11789,
   "items": [
+    {
+      "id": "5195125",
+      "time": "2026-11-05 11:08:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【網路安全概念震盪走強 博彙科技等多股漲超10%】網路安全概念盤中震盪走強，博彙科技、天億馬、亞信安全漲超10%，永信至誠、中新賽克、眾誠科技、天融信等跟漲。"
+    },
+    {
+      "id": "5195122",
+      "time": "2026-11-05 11:08:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國電投（嵊泗）能源有限公司成立，註冊資本2億元】天眼查App顯示，近日，國電投（嵊泗）能源有限公司成立，法定代表人為伍浩，註冊資本2億元人民幣，註冊地址位於浙江省舟山市嵊泗縣，經營範圍包括髮電業務、輸電業務、供（配）電業務、熱力生產和供應、核電裝置成套及工程技術研發、儲能技術服務等。股東資訊顯示，該公司由電投產融全資子公司國電投核能有限公司、浙江浙能電力股份有限公司分別持股90%、10%，認繳出資額分別為1.8億元、2000萬元。"
+    },
+    {
+      "id": "5195113",
+      "time": "2026-11-05 11:06:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "老鋪黃金港股漲9.2%，六福集團上漲4.7%"
+    },
     {
       "id": "5195108",
       "time": "2026-11-05 11:05:19",
@@ -29,6 +54,15 @@
         "Importance 2"
       ],
       "text": "Yen Strengthens on Hawkish BOJ Minutes — The Japanese yen strengthened past 158 per dollar on Thursday, extending gains for a second consecutive session as minutes from the Bank of Japan's September meeting reinforced expectations of further monetary tightening. One board member indicated that there may be room to accelerate interest rate increases as the central bank assessed the effects of Middle East developments, growing demand linked to artificial intelligence, and foreign exchange movements. The BOJ raised its policy rate to a 31-year high of 1.25% in September before keeping it unchanged in October, while signaling that underlying inflation had reached its 2% target, potentially setting the stage for another rate hike in December. The yen also drew support from a weaker US dollar following Democratic victories in the US midterm elections. The decisive outcome eased political uncertainty and lowered expectations that President Donald Trump would resume military strikes against Iran."
+    },
+    {
+      "id": "em:qqyh_zgyh:202611053923306011",
+      "time": "2026-11-05 11:04:44",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【國務院關於金融工作情況的報告】11月5日，據央行網站，國務院關於金融工作情況的報告發布。"
     },
     {
       "id": "5195105",
@@ -108543,67 +108577,6 @@
         "國際"
       ],
       "text": "生豬期貨主力合約跌超3%，報9575元/噸。"
-    },
-    {
-      "id": "5178321",
-      "time": "2026-10-29 11:09:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泰國SET指數下跌1%，至1549.73點。"
-    },
-    {
-      "id": "5178320",
-      "time": "2026-10-29 11:09:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智元機器人2026年上半年出貨量9700臺】10月29日，在智元機器人創新日活動上，智元聯合創始人、總裁兼CTO彭志輝透露，2026年上半年，智元機器人出貨量達9700臺（2025年出貨量超5000臺），佔全球市場份額超43%，收入接近20億元。今年9月份，智元第2萬臺機器人已下線。"
-    },
-    {
-      "id": "mkt:01a185a0-de32-7ee0-a9d2-e5d700435989",
-      "time": "2026-10-29 11:07:54",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "【Hefei Q1–Q3 GDP up 6.5% YoY】Hefei municipal government reports Q1–Q3 GDP of 1.118 tln yuan, up 6.5% YoY at constant prices. By sector, value added: primary 17.99 bln yuan, +2.2% YoY; secondary 420.22 bln yuan, +10.4% YoY; tertiary 679.79 bln yuan, +4.4% YoY."
-    },
-    {
-      "id": "mkt:01a185a0-d122-7ee0-a9d2-da8ea128b3ad",
-      "time": "2026-10-29 11:07:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "006400.KS",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【Samsung SDI targets ESS battery growth after stronger-than-expected Q3】Samsung SDI reported Q3 operating profit nearly doubled QoQ to 407.8 billion won (about $306m), its strongest quarter since 2023, and net profit beat expectations. The company attributed the upside to higher ESS sales driven by global AI data-center demand. It said it has secured more than 60 GWh of ESS battery orders in the U.S. this year, will accelerate production-line conversions to meet demand, and expects ESS market growth to continue into Q4. On EVs, Samsung SDI sees rising demand in Europe while U.S. demand remains weak for now."
-    },
-    {
-      "id": "5178319",
-      "time": "2026-10-29 11:06:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【合肥：前三季度GDP同比增長6.5%】10月29日，合肥市人民政府釋出2026年前三季度合肥市經濟執行情況。根據地區生產總值統一核算結果，前三季度，全市地區生產總值（GDP）11180億元，按不變價格計算，同比增長6.5%。分產業看，第一產業增加值179.9億元，增長2.2%；第二產業增加值4202.2億元，增長10.4%；第三產業增加值6797.9億元，增長4.4%。"
-    },
-    {
-      "id": "te:markets:596052",
-      "time": "2026-10-29 11:06:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Natural Gas Hovers Near Peak Levels — European natural gas prices eased to €98 per megawatt-hour on Thursday after reaching €100 in the previous session, the highest level since December 2022. The recent rally has been driven by rising heating demand, low gas reserves in Europe, and concerns about a renewed escalation in the Middle East conflict. Prices have more than tripled since the outbreak of the war, as disruptions to shipments through the Strait of Hormuz halted LNG deliveries from several sources, primarily Qatar. This has left the region scrambling for alternatives and hampered efforts to refill storage over the summer. European gas storage facilities were about 75% full as of October 28, significantly below historical levels. Meanwhile, forecasts of colder weather across northwestern Europe in the coming days could boost heating demand, while potential cold snaps in parts of Asia may further intensify competition for available cargoes."
     }
   ]
 }
