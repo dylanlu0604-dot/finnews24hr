@@ -1,7 +1,55 @@
 {
   "date": "2026-11-05",
-  "count": 944,
+  "count": 949,
   "items": [
+    {
+      "id": "5195062",
+      "time": "2026-11-05 10:56:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊入股匠心互娛】天眼查App顯示，近日，北京匠心互娛科技有限公司發生工商變更，新增廣西騰訊創業投資有限公司為股東，同時，註冊資本由100萬元人民幣增至約136.75萬元人民幣。該公司成立於2026年6月，法定代表人為劉佳志，經營範圍包括軟體開發、人工智慧應用軟體開發、組織文化藝術交流活動等，現由劉佳志、張春秀、萍鄉明天科技有限公司及上述新增股東共同持股。"
+    },
+    {
+      "id": "mkt:01a1a9a2-6c7a-7ee0-aa81-20306bba19a2",
+      "time": "2026-11-05 10:55:56",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "【Indian regulator eases overseas individual investor access, allows remote account opening】SEBI has relaxed KYC rules for overseas individual investors from FATF‑compliant jurisdictions, permitting remote digital account onboarding without travel to India. The revisions take effect Dec 3 and apply to persons of Indian origin who are not Indian nationals and to foreign nationals. Foreign nationals seeking access via the Foreign Portfolio Investor (FPI) route will remain governed by SEBI’s existing FPI framework."
+    },
+    {
+      "id": "te:markets:598392",
+      "time": "2026-11-05 10:55:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Taiwan Stocks Hold at Over 3-Month Low — The TAIEX, Taiwan’s benchmark stock index, fell 635 points, or 1.5%, to 42,314 in Thursday morning trade, extending losses for a sixth consecutive session, mainly dragged down by electronic technology. The broader index lingered at its lowest level since July 30, with electronic technology declining 2.9%, amid concerns over massive spending on AI infrastructure. Traders also anticipated the release of October inflation data after the market closed. However, moderating oil prices helped limit losses as inflation concerns and expectations of interest rate hikes eased. An upbeat session on Wall Street overnight also prevented the index from falling further, after Democrats won back control of Congress. Heavyweight stocks shed value, including MediaTek (-3.8%), Delta Electronics (-5.7%), and ASE Technology (-6.5%). However, TSMC, the world’s largest contract chipmaker, which accounts for more than 40% of the market’s total value, rose 0.2%."
+    },
+    {
+      "id": "5195061",
+      "time": "2026-11-05 10:55:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞基準股指<KLSI>一度上漲1.3%至1637.23點，創10月6日以來最高。"
+    },
+    {
+      "id": "5195059",
+      "time": "2026-11-05 10:54:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "Palo Alto Networks據悉洽談以5億美元收購以色列人工智慧初創公司CLUTCH SECURITY。"
+    },
     {
       "id": "5195052",
       "time": "2026-11-05 10:53:45",

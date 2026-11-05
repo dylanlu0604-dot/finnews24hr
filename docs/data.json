@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-05 10:54:26",
-  "count": 11800,
+  "updated": "2026-11-05 10:58:33",
+  "count": 11802,
   "items": [
+    {
+      "id": "5195062",
+      "time": "2026-11-05 10:56:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊入股匠心互娛】天眼查App顯示，近日，北京匠心互娛科技有限公司發生工商變更，新增廣西騰訊創業投資有限公司為股東，同時，註冊資本由100萬元人民幣增至約136.75萬元人民幣。該公司成立於2026年6月，法定代表人為劉佳志，經營範圍包括軟體開發、人工智慧應用軟體開發、組織文化藝術交流活動等，現由劉佳志、張春秀、萍鄉明天科技有限公司及上述新增股東共同持股。"
+    },
+    {
+      "id": "mkt:01a1a9a2-6c7a-7ee0-aa81-20306bba19a2",
+      "time": "2026-11-05 10:55:56",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "【Indian regulator eases overseas individual investor access, allows remote account opening】SEBI has relaxed KYC rules for overseas individual investors from FATF‑compliant jurisdictions, permitting remote digital account onboarding without travel to India. The revisions take effect Dec 3 and apply to persons of Indian origin who are not Indian nationals and to foreign nationals. Foreign nationals seeking access via the Foreign Portfolio Investor (FPI) route will remain governed by SEBI’s existing FPI framework."
+    },
+    {
+      "id": "te:markets:598392",
+      "time": "2026-11-05 10:55:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Taiwan Stocks Hold at Over 3-Month Low — The TAIEX, Taiwan’s benchmark stock index, fell 635 points, or 1.5%, to 42,314 in Thursday morning trade, extending losses for a sixth consecutive session, mainly dragged down by electronic technology. The broader index lingered at its lowest level since July 30, with electronic technology declining 2.9%, amid concerns over massive spending on AI infrastructure. Traders also anticipated the release of October inflation data after the market closed. However, moderating oil prices helped limit losses as inflation concerns and expectations of interest rate hikes eased. An upbeat session on Wall Street overnight also prevented the index from falling further, after Democrats won back control of Congress. Heavyweight stocks shed value, including MediaTek (-3.8%), Delta Electronics (-5.7%), and ASE Technology (-6.5%). However, TSMC, the world’s largest contract chipmaker, which accounts for more than 40% of the market’s total value, rose 0.2%."
+    },
+    {
+      "id": "5195061",
+      "time": "2026-11-05 10:55:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞基準股指<KLSI>一度上漲1.3%至1637.23點，創10月6日以來最高。"
+    },
+    {
+      "id": "5195059",
+      "time": "2026-11-05 10:54:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "Palo Alto Networks據悉洽談以5億美元收購以色列人工智慧初創公司CLUTCH SECURITY。"
+    },
     {
       "id": "5195052",
       "time": "2026-11-05 10:53:45",
@@ -108656,38 +108704,6 @@
         "公司"
       ],
       "text": "【三星迴應家電撤出香港】近日有傳聞稱三星即將把部分大型家電（洗衣機、冰箱）業務撤出香港特別行政區市場，且官網多款大型家電均顯示為售罄狀態，引發使用者擔憂。有韓媒援引知情人士訊息指，三星香港子公司大約在 1-2 個月前，就已經開始為撤出市場做準備。 同時港媒記者以顧客身份前往電器零售商豐澤。但店內員工表示，三星家電已在今年 8 月 31 日正式撤出香港。 三星香港對此回應稱，目前的本地業務營運依然穩健，管理層一直會評估及調整整體的產品組合，目的是切合市場環境和消費者喜好。 此外三星香港表示，公司正將所有營運資源重新集中於幾個主要領域，包括電視、顯示器、音箱產品、商用顯示器及流動通訊裝置（手機等）。公司將維持已售產品的售後服務、保養服務及維修支援，持續為消費者提供專業服務。（IT之家）"
-    },
-    {
-      "id": "te:markets:596049",
-      "time": "2026-10-29 10:58:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Steadies Ahead of BOJ Policy Decision — The Japanese yen steadied around 157.7 per dollar on Thursday after coming under pressure earlier in the week, as investors awaited the Bank of Japan’s upcoming policy announcement. The central bank is widely expected to keep interest rates unchanged, although policymakers could signal a potential rate hike in December amid persistent inflationary pressures. Investors are also monitoring upcoming Japanese economic data, including unemployment, industrial production, retail sales, and Tokyo’s inflation figures, which are due ahead of the BOJ decision. Meanwhile, the US Federal Reserve maintained interest rates as widely anticipated, though two officials dissented in favor of a 25-basis-point increase, strengthening market expectations for a possible rate hike in December. Elsewhere, the yen received renewed safe-haven support as disappointing earnings from Alphabet and Samsung revived concerns over the sustainability of AI-related investments."
-    },
-    {
-      "id": "mkt:01a18597-8a5b-7ee0-a9d2-a2bb23196b17",
-      "time": "2026-10-29 10:57:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "00857.HK",
-        "Impact bullish"
-      ],
-      "text": "【Citigroup: PetroChina Q3 in line; keeps Buy and HK$12 PT】Citigroup says PetroChina (00857.HK) posted Q3 net profit of 51.8 bln yuan, down 7% QoQ and up 22% YoY; nine-month net profit equals 83% of Citigroup’s full-year forecast. Citigroup notes Minas crude has risen about 16% since Q3 through October, and expects Q4 earnings to remain steady. Despite higher pipeline import gas costs, elevated LNG import prices sustain a procurement advantage that should allow PetroChina’s gas marketing to defend market share. Citigroup maintains Buy rating and HK$12 PT, citing attractive dividend yield and solid near-term earnings visibility."
-    },
-    {
-      "id": "5178306",
-      "time": "2026-10-29 10:56:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼股市跌2%。"
     }
   ]
 }
