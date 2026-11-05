@@ -1,7 +1,95 @@
 {
   "date": "2026-11-05",
-  "count": 840,
+  "count": 849,
   "items": [
+    {
+      "id": "5194856",
+      "time": "2026-11-05 10:11:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中國電信盤中跌超5%】A股中國電信盤中跌超5%，現報6.51元。"
+    },
+    {
+      "id": "te:markets:598377",
+      "time": "2026-11-05 10:11:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Split on Lingering Caution — The Shanghai Composite fell 0.7% to 3,663 on Thursday, while the Shenzhen Component rose 1.1% to 11,453, as investor caution persisted amid the view that Beijing's latest interventions were aimed more at stemming further market losses than sparking a sustained bull run. Earlier this week, Chinese authorities introduced measures including targeted liquidity injections, lower interest rates on stock buyback loans, and relaxed restrictions on leveraged trading. However, investors remained cautious, noting that a lasting recovery would require stronger economic growth, improved corporate earnings, and a revival in investor confidence. Financial heavyweights such as Industrial and Commercial Bank of China (-1.2%) and Agricultural Bank of China (-1.4%) lagged, alongside energy stocks PetroChina (-7.3%) and CNOOC (-6%). In contrast, CATL (2.7%), BYD (1.2%), NAURA Technology (3.4%), and Luxshare Precision Industry (2.6%) gained."
+    },
+    {
+      "id": "5194855",
+      "time": "2026-11-05 10:10:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州銀行股份有限公司原監事長肖慈發接受審查調查】中央紀委國家監委網站11月5日通報，據貴州省紀委監委訊息：貴州銀行股份有限公司原黨委委員、監事長肖慈發涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:01a1a978-5cbe-7ee0-aa80-7dafd20be613",
+      "time": "2026-11-05 10:09:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "300274.SZ",
+        "Impact bullish"
+      ],
+      "text": "Sungrow Power rose over 10% intraday on the A-share market, trading at 89.30 yuan."
+    },
+    {
+      "id": "5194854",
+      "time": "2026-11-05 10:09:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
+    {
+      "id": "5194853",
+      "time": "2026-11-05 10:08:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【人形機器人概念探底回升 徵和工業2連板】人形機器人概念日內探底回升，徵和工業2連板，麥迪科技、福萊新材、傑克科技、智微智慧、上緯新材等跟漲。"
+    },
+    {
+      "id": "mkt:01a1a977-260c-7ee0-aa80-77582ec058fd",
+      "time": "2026-11-05 10:08:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China PET bottle-chip most-active contract hit the daily limit, down 6.02% at 7,676 yuan/ton."
+    },
+    {
+      "id": "5194852",
+      "time": "2026-11-05 10:08:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【OpenAI總裁稱做好明年上市準備】OpenAI總裁格雷格·布羅克曼（Greg Brockman）週三表示，公司目前的大部分收入來自企業銷售，他相信公司將在2027年做好上市準備。布羅克曼表示，這家人工智慧實驗室一直在加大對企業的銷售力度，以應對競爭對手Anthropic的挑戰。Anthropic很可能在年底前上市，OpenAI正在大力推廣其Codex智慧代理。這位人工智慧高管在加州納帕舉行的一次科技大會上發表了講話。當被問及OpenAI明年是否準備好進行IPO時，他回答說：“我認為是的。”"
+    },
+    {
+      "id": "mkt:01a1a976-ee0a-7ee0-aa80-6dda2a57be33",
+      "time": "2026-11-05 10:08:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "China A-share market extended gains; ChiNext Index rose over 2% after falling as much as 2% in early trade, Shenzhen Composite Index up nearly 2% and STAR 50 Index up 3.6%."
+    },
     {
       "id": "5194844",
       "time": "2026-11-05 10:07:29",
