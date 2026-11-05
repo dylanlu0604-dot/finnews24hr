@@ -1,7 +1,119 @@
 {
   "date": "2026-11-06",
-  "count": 481,
+  "count": 494,
   "items": [
+    {
+      "id": "5197608",
+      "time": "2026-11-06 07:01:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "華僑銀行第三季淨利潤報20.4億新元，預估為20億新元。"
+    },
+    {
+      "id": "5197607",
+      "time": "2026-11-06 07:01:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克總理扎伊迪與特朗普通電話討論地區局勢】伊拉克總理新聞辦公室5日發表宣告說，伊拉克總理扎伊迪當日與美國總統特朗普通電話，討論地區局勢發展。扎伊迪強調，伊拉克尊重各國領土主權，反對將伊拉克領土作為攻擊鄰國的跳板，表示必須尋求和平的解決方式並開展建設性對話，以維護地區安全與穩定。通話還談及，兩國就應對當前地區挑戰開展協調磋商具有重要意義，同時雙方將致力於維護地區穩定，優先透過對話和外交手段處置危機，以遏制緊張局勢，防止衝突進一步升級。雙方表示，兩國將繼續保持溝通，就共同關心的問題協調立場，以促進雙邊關係、服務兩國共同利益。(新華社)"
+    },
+    {
+      "id": "mkt:01a1adf1-c4c3-7ee0-aa9d-6e1298c85d97",
+      "time": "2026-11-06 07:01:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BOC updates five-year monetary policy framework, keeps inflation target at 2%】BOC and the Department of Finance agreed a five-year monetary policy framework on Thursday that keeps the inflation target at 2%. The framework, effective Jan. 1, preserves the 1–3% control range and the 2% midpoint that has guided policy for 35 years. The BOC said it will continue to use flexibility within the 1–3% range, where conditions allow, to pursue sustainable full employment. The joint statement said monetary policy will be implemented symmetrically, treating deviations above and below the target equally."
+    },
+    {
+      "id": "5197606",
+      "time": "2026-11-06 07:00:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1030.50美元/盎司。"
+    },
+    {
+      "id": "5197605",
+      "time": "2026-11-06 07:00:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4090美元/盎司，日內漲0.01%。"
+    },
+    {
+      "id": "5197604",
+      "time": "2026-11-06 07:00:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破52美元/盎司，日內跌0.12%。"
+    },
+    {
+      "id": "5197603",
+      "time": "2026-11-06 07:00:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破52美元/盎司，日內跌1.14%。"
+    },
+    {
+      "id": "5197602",
+      "time": "2026-11-06 07:00:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4100美元/盎司，日內跌0.34%。"
+    },
+    {
+      "id": "mkt:01a1adf1-3432-7ee0-aa9d-64f46faa3b2c",
+      "time": "2026-11-06 07:00:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US media predict Democrats may widen majorities in both chambers】As of 16:00 ET on Nov 5 (05:00 Beijing Nov 6), CNN projects Democrats hold 54 Senate seats to Republicans' 44 and the House stands 253-155 in favor of Democrats. With midterm vote counting ongoing, multiple US outlets say Democratic margins in both chambers could still expand."
+    },
+    {
+      "id": "te:markets:598832",
+      "time": "2026-11-06 07:00:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper Hits 17-week Low — Copper decreased to 6.18 USD/Lbs, the lowest since July 2026. Over the past 4 weeks, Copper lost 6.2%, and in the last 12 months, it increased 24.81%."
+    },
+    {
+      "id": "5197601",
+      "time": "2026-11-06 06:59:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：銀湖資本（Silver Lake）與沙特公共投資基金（PIF）已展開洽談，擬收購 Unity Software（優尼蒂軟體，遊戲引擎廠商）。"
+    },
+    {
+      "id": "5197600",
+      "time": "2026-11-06 06:57:33",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "巴西總統盧拉將於週五提交法案，設立公共安全部。"
+    },
+    {
+      "id": "5197599",
+      "time": "2026-11-06 06:57:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：原土耳其部長Kaya在基金行業調查中被逮捕。"
+    },
     {
       "id": "te:markets:598830",
       "time": "2026-11-06 06:56:01",

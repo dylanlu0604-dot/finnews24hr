@@ -1,7 +1,119 @@
 {
-  "updated": "2026-11-06 06:58:09",
+  "updated": "2026-11-06 07:03:16",
   "count": 11212,
   "items": [
+    {
+      "id": "5197608",
+      "time": "2026-11-06 07:01:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "華僑銀行第三季淨利潤報20.4億新元，預估為20億新元。"
+    },
+    {
+      "id": "5197607",
+      "time": "2026-11-06 07:01:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克總理扎伊迪與特朗普通電話討論地區局勢】伊拉克總理新聞辦公室5日發表宣告說，伊拉克總理扎伊迪當日與美國總統特朗普通電話，討論地區局勢發展。扎伊迪強調，伊拉克尊重各國領土主權，反對將伊拉克領土作為攻擊鄰國的跳板，表示必須尋求和平的解決方式並開展建設性對話，以維護地區安全與穩定。通話還談及，兩國就應對當前地區挑戰開展協調磋商具有重要意義，同時雙方將致力於維護地區穩定，優先透過對話和外交手段處置危機，以遏制緊張局勢，防止衝突進一步升級。雙方表示，兩國將繼續保持溝通，就共同關心的問題協調立場，以促進雙邊關係、服務兩國共同利益。(新華社)"
+    },
+    {
+      "id": "mkt:01a1adf1-c4c3-7ee0-aa9d-6e1298c85d97",
+      "time": "2026-11-06 07:01:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BOC updates five-year monetary policy framework, keeps inflation target at 2%】BOC and the Department of Finance agreed a five-year monetary policy framework on Thursday that keeps the inflation target at 2%. The framework, effective Jan. 1, preserves the 1–3% control range and the 2% midpoint that has guided policy for 35 years. The BOC said it will continue to use flexibility within the 1–3% range, where conditions allow, to pursue sustainable full employment. The joint statement said monetary policy will be implemented symmetrically, treating deviations above and below the target equally."
+    },
+    {
+      "id": "5197606",
+      "time": "2026-11-06 07:00:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1030.50美元/盎司。"
+    },
+    {
+      "id": "5197605",
+      "time": "2026-11-06 07:00:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4090美元/盎司，日內漲0.01%。"
+    },
+    {
+      "id": "5197604",
+      "time": "2026-11-06 07:00:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破52美元/盎司，日內跌0.12%。"
+    },
+    {
+      "id": "5197603",
+      "time": "2026-11-06 07:00:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破52美元/盎司，日內跌1.14%。"
+    },
+    {
+      "id": "5197602",
+      "time": "2026-11-06 07:00:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4100美元/盎司，日內跌0.34%。"
+    },
+    {
+      "id": "mkt:01a1adf1-3432-7ee0-aa9d-64f46faa3b2c",
+      "time": "2026-11-06 07:00:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US media predict Democrats may widen majorities in both chambers】As of 16:00 ET on Nov 5 (05:00 Beijing Nov 6), CNN projects Democrats hold 54 Senate seats to Republicans' 44 and the House stands 253-155 in favor of Democrats. With midterm vote counting ongoing, multiple US outlets say Democratic margins in both chambers could still expand."
+    },
+    {
+      "id": "te:markets:598832",
+      "time": "2026-11-06 07:00:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper Hits 17-week Low — Copper decreased to 6.18 USD/Lbs, the lowest since July 2026. Over the past 4 weeks, Copper lost 6.2%, and in the last 12 months, it increased 24.81%."
+    },
+    {
+      "id": "5197601",
+      "time": "2026-11-06 06:59:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：銀湖資本（Silver Lake）與沙特公共投資基金（PIF）已展開洽談，擬收購 Unity Software（優尼蒂軟體，遊戲引擎廠商）。"
+    },
+    {
+      "id": "5197600",
+      "time": "2026-11-06 06:57:33",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "巴西總統盧拉將於週五提交法案，設立公共安全部。"
+    },
+    {
+      "id": "5197599",
+      "time": "2026-11-06 06:57:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：原土耳其部長Kaya在基金行業調查中被逮捕。"
+    },
     {
       "id": "te:markets:598830",
       "time": "2026-11-06 06:56:01",
@@ -103052,133 +103164,6 @@
         "公司"
       ],
       "text": "恒大物業 ： 已向交易所申請自10月30日上午9:00起恢復股份交易。"
-    },
-    {
-      "id": "5180843",
-      "time": "2026-10-30 07:02:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳新銀行：將12月31日布倫特原油預測從95美元/桶上調至105美元/桶】澳新銀行：將12月31日布倫特原油預測從95美元/桶上調至105美元/桶。新的12月31日石油預測反映出，年底前導致石油市場供應緊張的實際限制因素不太可能消散。中東地區若出現可信的外交突破，同時航運條件得到實質性改善，布倫特原油價格可能回落至每桶90-95美元。"
-    },
-    {
-      "id": "mkt:01a189e6-ada8-7ee0-a9f1-799579257006",
-      "time": "2026-10-30 07:02:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "ANZ raised its Dec. 31 Brent crude price forecast to $105/bbl from $95/bbl."
-    },
-    {
-      "id": "5180842",
-      "time": "2026-10-30 07:02:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英媒：俄批准運糧船駛離亞速海，許可有效期將持續至11月15日】路透社28日報道說，多名業內訊息人士透露，俄羅斯已發放許可，允許載有出口糧食的船隻離開亞速海。這是自今年7月10日該水域因烏克蘭無人機襲擊而關閉海上交通以來，首次有此類船隻獲准離開。這些船隻獲准透過連線亞速海與黑海的刻赤海峽，許可有效期將持續至11月15日。訊息人士稱，相關船隻穿越黑海期間將由俄海軍艦隊護航。報道稱，此次發放通行許可表明，俄官員認為目前經由刻赤海峽進入黑海的航道相對安全。據報道，自7月以來，俄烏一直在黑海地區互襲彼此港口和船隻，導致曾經繁榮的黑海農產品貿易陷入停滯。"
-    },
-    {
-      "id": "5180841",
-      "time": "2026-10-30 07:00:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國9月週期領先指標環比下跌0.1點。"
-    },
-    {
-      "id": "5180840",
-      "time": "2026-10-30 07:00:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果iPhone代工商有信心滿足兩款機型的需求激增。"
-    },
-    {
-      "id": "mkt:01a189e4-6f1b-7ee0-a9f1-74597870fa00",
-      "time": "2026-10-30 07:00:11",
-      "tags": [
-        "MKT News",
-        "Market Regions"
-      ],
-      "text": "South Korea September industrial production rose 1.2% YoY, above the 1.0% consensus; the prior reading was revised from -2.20% to -1.7%."
-    },
-    {
-      "id": "5180839",
-      "time": "2026-10-30 07:00:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國9月工業產值環比增長9%；預期增長3.1%。"
-    },
-    {
-      "id": "mkt:01a189e4-5fd5-7ee0-a9f1-6dad9e290d0d",
-      "time": "2026-10-30 07:00:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "South Korea September seasonally adjusted industrial production m/m +9.0% vs. +3.4% expected; August revised to -4.6% from -4.8%."
-    },
-    {
-      "id": "mkt:01a189e4-43f1-7ee0-a9f1-6030a88267ad",
-      "time": "2026-10-30 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Industrial Production SA (MoM) (Sep) | actual 9% | consensus 3.4% | previous -4.80%"
-    },
-    {
-      "id": "mkt:01a189e4-438e-7ee0-a9f1-5f473a5929e6",
-      "time": "2026-10-30 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Industrial Production (YoY) (Sep) | actual 1.2% | consensus 1% | previous -2.20%"
-    },
-    {
-      "id": "5180838",
-      "time": "2026-10-30 06:59:14",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【鎧俠股價較6月高點暴跌60% 今日財報面臨高預期考驗】日本鎧俠控股週五將公佈的業績面臨較高的市場預期。由於市場擔憂大型科技公司能否繼續為AI基礎設施建設提供資金，鎧俠股價受到全球晶片製造商大規模拋售潮的衝擊。此外，面對韓國競爭對手在市場推廣方面的優勢，鎧俠也面臨激烈競爭。鎧俠東京上市股票較6月高點已下跌60%，在中信里昂追蹤的全球主要儲存與記憶晶片股票組合中表現最差。市場一致預期公司有望實現連續第三個季度四位數的利潤增長，意味著其需要拿出更強勁的表現才能令投資者滿意。Syz銀行首席投資官Charles-Henry Monchau稱：“市場已經預期公司將交出強勁的季度業績，因此即使再公佈一份不錯的成績單也可能難以改變市場情緒。”鎧俠在NAND快閃記憶體市場的份額落後於三星電子和SK海力士，後兩者在爭取資料中心客戶方面更具優勢，因為它們能夠將儲存晶片與HBM捆綁銷售，而鎧俠目前沒有HBM產品。"
-    },
-    {
-      "id": "mkt:01a189e3-63ae-7ee0-a9f1-526923e780ef",
-      "time": "2026-10-30 06:59:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "【Kioxia down 60% from June peak; earnings due today face high expectations】Kioxia Holdings reports earnings today into elevated market expectations. Tokyo-listed shares have plunged about 60% from their June peak amid a global chipmaker sell-off driven by concern major tech firms may pull back funding for AI infrastructure; Kioxia is the weakest performer in the global memory-stock basket tracked by CITIC CLSA. Markets expect a third consecutive quarter of four-digit profit growth, raising the bar for a positive surprise. Syz Bank CIO Charles-Henry Monchau said the market has largely priced in a strong quarter, so even a good print may not shift sentiment. Kioxia trails Samsung Electronics and SK Hynix in NAND flash share; those rivals are better placed to win data-center business by bundling storage chips with HBM, a product Kioxia currently lacks."
-    },
-    {
-      "id": "5180837",
-      "time": "2026-10-30 06:58:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "Paxos表示，幣安平臺持有的PAXG代幣已發生轉移。"
     }
   ]
 }
