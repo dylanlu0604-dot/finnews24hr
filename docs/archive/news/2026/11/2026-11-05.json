@@ -1,7 +1,125 @@
 {
   "date": "2026-11-05",
-  "count": 1534,
+  "count": 1548,
   "items": [
+    {
+      "id": "5196137",
+      "time": "2026-11-05 18:29:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度市場監管機構：交易可以是買入或賣出一種證券，但不能同時進行。"
+    },
+    {
+      "id": "mkt:01a1ab41-6aae-7ee0-aa8c-901c8d6f9adf",
+      "time": "2026-11-05 18:29:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cristiano Ronaldo announced his retirement from the Portugal national team."
+    },
+    {
+      "id": "5196136",
+      "time": "2026-11-05 18:29:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "維也納機場收到針對4個航班的威脅。"
+    },
+    {
+      "id": "mkt:01a1ab41-3c13-7ee0-aa8c-886424d8a71a",
+      "time": "2026-11-05 18:29:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Guanglun Intelligence and Yushu Technology reach strategic cooperation】Guanglun Intelligence and Yushu Technology have reached a strategic cooperation to combine Guanglun’s data, evaluation and deployment infrastructure with Yushu’s robot bodies, motion control, perception systems, force-controlled dexterous hands and developer ecosystem. The partners will collaborate on model training, robot capability validation and real-world application deployment."
+    },
+    {
+      "id": "mkt:01a1ab41-3a30-7ee0-aa8c-84f792f60386",
+      "time": "2026-11-05 18:29:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Austrian Press Agency (APA) reports Vienna airport received threats against four flights."
+    },
+    {
+      "id": "5196135",
+      "time": "2026-11-05 18:28:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度市場監管機構：允許共同基金計劃內交易進行淨額結算。"
+    },
+    {
+      "id": "5196134",
+      "time": "2026-11-05 18:28:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級將豐田工業的評級展望調整為穩定。"
+    },
+    {
+      "id": "5196133",
+      "time": "2026-11-05 18:28:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【林洋能源成立科技公司，含量子計算技術服務業務】近日，甘肅甘曜宏算科技有限公司成立，法定代表人為尹彪，註冊資本為1000萬元，經營範圍包含：人工智慧硬體銷售；資料處理和儲存支援服務；量子計算技術服務；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由林洋能源間接全資持股。"
+    },
+    {
+      "id": "5196132",
+      "time": "2026-11-05 18:28:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海天味業：11月5日回購A股及H股股份】海天味業公告稱，2026年11月5日，公司在上交所回購A股29.99萬股，回購價區間為35.18元/股-35.7元/股，總耗資1065.66萬元，擬用於登出減資及員工持股計劃或股權激勵，該部分股份佔事件前已發行A股的0.0054%。同日公司在港交所回購H股30萬股，回購價區間為26.32港元/股-26.58港元/股，總耗資793.89萬港元，擬用於登出。截至2026年11月5日，公司A股庫存股為2892.47萬股，H股已發行股份無變動。"
+    },
+    {
+      "id": "mkt:01a1ab40-1cbb-7ee0-aa8c-7e1702a48b30",
+      "time": "2026-11-05 18:27:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Oman and Iran discussed efforts to restore navigation through the Strait of Hormuz."
+    },
+    {
+      "id": "te:economy:598594",
+      "time": "2026-11-05 18:27:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "New Passenger Car Registrations YoY",
+        "Importance 1"
+      ],
+      "text": "UK New Car Registrations Rise for 11th Consecutive Month — UK new car registrations increased 5.4% year-on-year to 152,730 units in October 2026, marking an 11th consecutive monthly gain, although growth slowed following September's seasonal surge. Fleet registrations rose 5.4%, private demand increased 4.1%, while business registrations jumped 24.5%. Growth was driven entirely by plug-in hybrids (PHEVs) and battery electric vehicles (BEVs), with registrations rising 30.1% and 32.7%, respectively. BEVs reached a 32.0% market share, their highest this year, as manufacturers stepped up efforts to meet annual sales targets. Meanwhile, conventional hybrids (HEVs) declined 5.0% for a second consecutive month. Overall, electrified vehicles accounted for 59.0% of new registrations."
+    },
+    {
+      "id": "5196131",
+      "time": "2026-11-05 18:26:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "阿曼與伊朗討論恢復霍爾木茲海峽通航的努力。"
+    },
+    {
+      "id": "5196130",
+      "time": "2026-11-05 18:26:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【KimiK3.1Pro殺進全球大模型第一梯隊】11月5日，Kimi K3.1 Pro完整權重正式對外公開，配套模型卡同步披露架構引數、六模型對標評測結果與自研許可證全文。記者注意到，K3.1 Pro的底層架構延續K3：總引數2.8萬億，啟用引數1040億，上下文視窗100萬token。能力提升主要來自後訓練階段強化學習加碼。權重採用MXFP4低精度量化，2.8萬億引數以16位精度儲存約需5.6TB，量化壓縮至1.56TB。 同日，Arena旗下Agent Arena排名資料對外披露。K3.1 Pro（Max）排在開放權重模型首位，在全部參評模型中列第13，工作、程式設計、聊天三類均居開放模型第一。上述榜單基於超過1.75萬次真實使用者長週期智慧體會話。K3.1 Pro淨改進率為+5.1%，上一代K3（Max）僅+0.9%。（21財經）"
+    },
     {
       "id": "5196129",
       "time": "2026-11-05 18:24:59",
@@ -109,6 +227,15 @@
         "Impact bullish"
       ],
       "text": "An ECB Governing Council member said it is too early to say how much further tightening is needed."
+    },
+    {
+      "id": "em:qqyh_ozyh:202611053923612135",
+      "time": "2026-11-05 18:19:44",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行管委Zigman稱，12月加息“可能性相當大”。"
     },
     {
       "id": "5196122",
