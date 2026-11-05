@@ -1,7 +1,200 @@
 {
   "date": "2026-11-05",
-  "count": 820,
+  "count": 840,
   "items": [
+    {
+      "id": "5194844",
+      "time": "2026-11-05 10:07:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲2.00%，現報2595.733點；上證指數漲0.20%，現報3693.608點；深證成指漲1.83%，現報11542.625點。"
+    },
+    {
+      "id": "te:markets:598376",
+      "time": "2026-11-05 10:06:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Surge to Five-Week High — The Hang Seng Index jumped 2.9%, or 702 points, to 24,618 on Thursday, extending gains for a second consecutive session and reaching a five-week high. The rally was primarily driven by improved global risk appetite following Democratic victories in the US midterm elections, which fueled hopes of renewed efforts to end the Middle East conflict. Brent crude plunged more than 8% to below US$95 per barrel, easing inflation concerns, while lower US Treasury yields and a weaker dollar. Buying interest was further boosted by Wall Street’s strong rebound, with the S&P 500 rising 1.6% on Wednesday, its biggest advance in three months, while the Nasdaq 100 gained 0.9%. Domestically, Beijing’s market-stabilization efforts reinforced sentiment, as state-backed funds directed around US$11.5 billion into nine ETFs, while applications for PBOC-backed share-buyback loans exceeded CNY200 billion. Top gainers were Tencent (4.9%), Xiaomi (4.0%), Meituan (5.6%), Alibaba (2.6%), and AIA (2.4%)."
+    },
+    {
+      "id": "5194836",
+      "time": "2026-11-05 10:06:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華福證券入股興業期貨 後者增資至6.25億】天眼查App顯示，近日，興業期貨有限公司發生工商變更，新增華福證券股份有限公司為股東，同時，註冊資本由5億元人民幣增至6.25億元人民幣，增幅25%。該公司成立於1993年3月，法定代表人為陳文奇，經營範圍為商品期貨經紀、金融期貨經紀、期貨投資諮詢、資產管理，現由興業國際信託有限公司及上述新增股東共同持股。"
+    },
+    {
+      "id": "mkt:01a1a975-2dd6-7ee0-aa80-62b1ece2afbe",
+      "time": "2026-11-05 10:06:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Palladium front-month contract extended intraday gains to 8.0%, trading at 242.50 yuan/gram."
+    },
+    {
+      "id": "5194835",
+      "time": "2026-11-05 10:06:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1023.46美元/盎司。"
+    },
+    {
+      "id": "5194834",
+      "time": "2026-11-05 10:06:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內漲8%，現報242.25元。"
+    },
+    {
+      "id": "5194833",
+      "time": "2026-11-05 10:05:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市上漲3%，創10月20日以來最大漲幅。"
+    },
+    {
+      "id": "5194832",
+      "time": "2026-11-05 10:05:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "現代汽車股價上漲 4.2%，起亞汽車股價上漲 4.9%。"
+    },
+    {
+      "id": "5194831",
+      "time": "2026-11-05 10:05:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.00%，成分股中，連城數控漲13.04%，納科諾爾漲6.60%，錦波生物漲6.51%，並行科技漲5.54%。"
+    },
+    {
+      "id": "5194830",
+      "time": "2026-11-05 10:05:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊藤忠商事與Adways達成資本及商業聯盟。"
+    },
+    {
+      "id": "5194829",
+      "time": "2026-11-05 10:05:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲5%，現報35850.00元。"
+    },
+    {
+      "id": "5194828",
+      "time": "2026-11-05 10:05:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股指上漲2.9%至5063.38點。"
+    },
+    {
+      "id": "mkt:01a1a974-04e7-7ee0-aa80-5befbb7504de",
+      "time": "2026-11-05 10:05:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Treasury yields dip after U.S. midterms; gold rises】Asian session spot gold and silver rose after U.S. midterms as U.S. Treasury yields fell, lifting demand for precious metals. ANZ said in a research note that lower yields typically support gold because it is a non-yielding asset, but analysts added markets expect a Democratic win would tighten the U.S. fiscal outlook, which could erode gold’s support over the longer term. Spot gold was up over 1.7% intraday at $4,130/oz."
+    },
+    {
+      "id": "mkt:01a1a973-e971-7ee0-aa80-518ba46e77ae",
+      "time": "2026-11-05 10:05:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's STAR 50 Index continued to rally, rising more than 3%."
+    },
+    {
+      "id": "5194823",
+      "time": "2026-11-05 10:05:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達3.01%，成分股中，中科飛測漲14.16%，阿特斯漲9.80%，芯原股份漲9.52%，盛科通訊漲9.39%。"
+    },
+    {
+      "id": "te:markets:598375",
+      "time": "2026-11-05 10:04:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Rebounds from 2-Week Low — The Australian dollar strengthened above $0.70, recovering from a recent two-week low as a weaker US dollar and improved global risk appetite lifted demand for risk-sensitive currencies. Global markets rallied after Democratic victories in the US midterm elections boosted hopes for progress toward ending the US-Iran conflict, which also triggered a sharp decline in oil prices. In Australia, better-than-expected trade data added support, with the trade surplus widening sharply to its largest in seven months and beating expectations for a deficit. Meanwhile, the Reserve Bank of Australia's latest quarter-point rate hike to 4.85%, its fifth increase this year, continues to provide some yield support. However, a split 6–3 decision and softer policy guidance have raised expectations that the central bank could pause in December. Governor Michele Bullock stressed that further tightening remains uncertain, although persistent inflation risks leave the door open for another increase."
+    },
+    {
+      "id": "5194821",
+      "time": "2026-11-05 10:04:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報6712.00點。"
+    },
+    {
+      "id": "5194820",
+      "time": "2026-11-05 10:04:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守87美元/桶，日內跌1.32%。"
+    },
+    {
+      "id": "5194817",
+      "time": "2026-11-05 10:04:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【風電裝置板塊延續反彈 大金重工漲停】風電裝置板塊延續昨日反彈，大金重工漲停，海力風電、振宏股份、振江股份、電氣風電、新強聯、金風科技等跟漲。"
+    },
+    {
+      "id": "mkt:01a1a972-e909-7ee0-aa80-4f5bdbae8022",
+      "time": "2026-11-05 10:04:02",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "Main contract of China CSI 1000 index futures (IM) broke above 6,600, rising 1.92% intraday."
+    },
     {
       "id": "5194814",
       "time": "2026-11-05 10:03:43",
