@@ -1,7 +1,53 @@
 {
   "date": "2026-11-06",
-  "count": 205,
+  "count": 210,
   "items": [
+    {
+      "id": "5197161",
+      "time": "2026-11-06 01:45:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "康菲石油公司在電話會議上表示，尚未就可能出售挪威資產做出決定。"
+    },
+    {
+      "id": "5197160",
+      "time": "2026-11-06 01:45:01",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲股市逆轉漲勢 受到科技股和國防股下跌拖累】歐洲股市從紀錄高位回落，科技股隨美國晶片製造商股價一道大幅下跌。斯托克歐洲600指數收盤下跌0.4%，盤中一度上漲多達0.8%，隨後回吐漲幅。科技股拖累基準指數走低，阿斯麥控股下跌6.5%，與此同時納斯達克100指數一度重挫6.4%。由於擔心民主黨橫掃國會可能影響人工智慧的推廣，投資者正在削減對該板塊的敞口。瑞銀集團編制的一籃子歐洲半導體股票指數下跌8.6%，降至4月以來最低水平。國防股也拖累基準指數，此前德國萊茵金屬釋出的展望令人失望。這家德國國防巨頭的股價一度下跌18%，此前該公司週四以Boxer裝甲車專案延誤為由，第二次下調2026年銷售目標。"
+    },
+    {
+      "id": "mkt:01a1accf-d90f-7ee0-aa99-e619b70a77d7",
+      "time": "2026-11-06 01:44:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French prosecutors have opened an investigation into whether the pilot of an Aer Lingus flight refused to land after a bomb threat."
+    },
+    {
+      "id": "5197159",
+      "time": "2026-11-06 01:44:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國檢方就愛爾蘭航空客機飛行員在炸彈威脅後是否拒絕降落展開調查。"
+    },
+    {
+      "id": "te:markets:598794",
+      "time": "2026-11-06 01:42:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Swiss Franc Holds Near 2-Month High — The Swiss franc strengthened to 0.81 per USD, holding close to its highest level since mid-September, as a Democratic sweep raised expectations of tighter regulation of the AI buildout and lifted safe-haven demand. It could also lead to a political gridlock and raised the prospect of fiscal restraint in the US. Higher safe-haven demand could prompt traders to unwind franc-funded carry trades, which had benefited from the widening interest rate differential with the US and weighed heavily on the currency. Swiss borrowing costs have remained at the world's lowest for over a year, making the franc an attractive funding currency for higher-yielding investments. The SNB is not expected to raise rates in the near term, further supported by Chair Schlegel’s remarks which reinforced that Swiss inflationary pressures remain contained. Swiss inflation rose in October on higher energy costs and a weaker franc, although the currency's subsequent appreciation could ease imported cost pressures."
+    },
     {
       "id": "te:markets:598793",
       "time": "2026-11-06 01:41:11",
