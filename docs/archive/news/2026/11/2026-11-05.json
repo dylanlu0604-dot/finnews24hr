@@ -1,7 +1,44 @@
 {
   "date": "2026-11-05",
-  "count": 953,
+  "count": 957,
   "items": [
+    {
+      "id": "5195108",
+      "time": "2026-11-05 11:05:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國拒絕巴基斯坦提出的100億美元援助計劃請求。"
+    },
+    {
+      "id": "mkt:01a1a9aa-ce78-7ee0-aa81-310e21303c68",
+      "time": "2026-11-05 11:05:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chip and energy import surge leaves Australia's trade surplus at decade low】Australia's trade surplus is set to hit a ten-year low as imports for data-centre chips and servers and sharply higher energy costs push up the import bill, the Australian Bureau of Statistics said on Thursday. September imports rose over 13% to A$45.2bn (second only to August's record); exports rose about 10% to A$48.0bn, leaving a monthly surplus of A$2.8bn. The cumulative trade surplus for the first nine months was slightly above A$17.0bn, the weakest in ten years. Strong commodity exports persist, but record-priced fuel purchases and robust demand for Chinese-made cars and for chips from South Korea and Taiwan have swollen imports, narrowing net exports and weighing on GDP growth."
+    },
+    {
+      "id": "te:markets:598398",
+      "time": "2026-11-05 11:04:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Yen Strengthens on Hawkish BOJ Minutes — The Japanese yen strengthened past 158 per dollar on Thursday, extending gains for a second consecutive session as minutes from the Bank of Japan's September meeting reinforced expectations of further monetary tightening. One board member indicated that there may be room to accelerate interest rate increases as the central bank assessed the effects of Middle East developments, growing demand linked to artificial intelligence, and foreign exchange movements. The BOJ raised its policy rate to a 31-year high of 1.25% in September before keeping it unchanged in October, while signaling that underlying inflation had reached its 2% target, potentially setting the stage for another rate hike in December. The yen also drew support from a weaker US dollar following Democratic victories in the US midterm elections. The decisive outcome eased political uncertainty and lowered expectations that President Donald Trump would resume military strikes against Iran."
+    },
+    {
+      "id": "5195105",
+      "time": "2026-11-05 11:03:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行行長：MPI（工業生產指數）改革可能使GDP增速提高0.2至0.5個百分點。"
+    },
     {
       "id": "5195090",
       "time": "2026-11-05 11:01:15",

@@ -1,7 +1,44 @@
 {
-  "updated": "2026-11-05 11:02:20",
-  "count": 11798,
+  "updated": "2026-11-05 11:06:05",
+  "count": 11791,
   "items": [
+    {
+      "id": "5195108",
+      "time": "2026-11-05 11:05:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國拒絕巴基斯坦提出的100億美元援助計劃請求。"
+    },
+    {
+      "id": "mkt:01a1a9aa-ce78-7ee0-aa81-310e21303c68",
+      "time": "2026-11-05 11:05:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chip and energy import surge leaves Australia's trade surplus at decade low】Australia's trade surplus is set to hit a ten-year low as imports for data-centre chips and servers and sharply higher energy costs push up the import bill, the Australian Bureau of Statistics said on Thursday. September imports rose over 13% to A$45.2bn (second only to August's record); exports rose about 10% to A$48.0bn, leaving a monthly surplus of A$2.8bn. The cumulative trade surplus for the first nine months was slightly above A$17.0bn, the weakest in ten years. Strong commodity exports persist, but record-priced fuel purchases and robust demand for Chinese-made cars and for chips from South Korea and Taiwan have swollen imports, narrowing net exports and weighing on GDP growth."
+    },
+    {
+      "id": "te:markets:598398",
+      "time": "2026-11-05 11:04:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Yen Strengthens on Hawkish BOJ Minutes — The Japanese yen strengthened past 158 per dollar on Thursday, extending gains for a second consecutive session as minutes from the Bank of Japan's September meeting reinforced expectations of further monetary tightening. One board member indicated that there may be room to accelerate interest rate increases as the central bank assessed the effects of Middle East developments, growing demand linked to artificial intelligence, and foreign exchange movements. The BOJ raised its policy rate to a 31-year high of 1.25% in September before keeping it unchanged in October, while signaling that underlying inflation had reached its 2% target, potentially setting the stage for another rate hike in December. The yen also drew support from a weaker US dollar following Democratic victories in the US midterm elections. The decisive outcome eased political uncertainty and lowered expectations that President Donald Trump would resume military strikes against Iran."
+    },
+    {
+      "id": "5195105",
+      "time": "2026-11-05 11:03:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行行長：MPI（工業生產指數）改革可能使GDP增速提高0.2至0.5個百分點。"
+    },
     {
       "id": "5195090",
       "time": "2026-11-05 11:01:15",
@@ -108567,108 +108604,6 @@
         "Importance 1"
       ],
       "text": "European Natural Gas Hovers Near Peak Levels — European natural gas prices eased to €98 per megawatt-hour on Thursday after reaching €100 in the previous session, the highest level since December 2022. The recent rally has been driven by rising heating demand, low gas reserves in Europe, and concerns about a renewed escalation in the Middle East conflict. Prices have more than tripled since the outbreak of the war, as disruptions to shipments through the Strait of Hormuz halted LNG deliveries from several sources, primarily Qatar. This has left the region scrambling for alternatives and hampered efforts to refill storage over the summer. European gas storage facilities were about 75% full as of October 28, significantly below historical levels. Meanwhile, forecasts of colder weather across northwestern Europe in the coming days could boost heating demand, while potential cold snaps in parts of Asia may further intensify competition for available cargoes."
-    },
-    {
-      "id": "5178318",
-      "time": "2026-10-29 11:05:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【任天堂Switch 2海外旗艦店在天貓國際開業】10月29日，淘寶官微宣佈，Nintendo Switch 2首家官方旗艦店已在天貓國際開業。《塞爾達傳說：時之笛》重製版、“塞爾達傳說40週年紀念版”主機及配套Pro手柄現已開啟預售。"
-    },
-    {
-      "id": "5178317",
-      "time": "2026-10-29 11:05:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智元釋出最新具身基座模型GO-3 Preview 將於2026年底開源】10月29日，在2026智元創新日上，智元聯合創始人、聯席總裁、具身智慧業務體系總裁姚卯青現場正式釋出新一代具身基座模型GO-3 Preview。該模型將於2026年底全面開源。"
-    },
-    {
-      "id": "mkt:01a1859e-3bb4-7ee0-a9d2-d1f1e00546fc",
-      "time": "2026-10-29 11:05:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Zhiyuan unveils embodied base model GO-3 Preview; to be open-sourced end-2026】Zhiyuan co-founder and co-president Yao Maoqing, who also leads its embodied intelligence business, unveiled the next-generation embodied base model GO-3 Preview at Zhiyuan Innovation Day 2026. The company said the model will be fully open-sourced at the end of 2026."
-    },
-    {
-      "id": "5178316",
-      "time": "2026-10-29 11:04:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟產業省與西門子能源將在浮式海上風電專案上展開合作。"
-    },
-    {
-      "id": "mkt:01a1859e-1f12-7ee0-a9d2-cac49dd40d04",
-      "time": "2026-10-29 11:04:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Hongban Technology: AI server PCBs still at customer validation stage】At its Q3 2026 earnings briefing, Hongban Technology said AI server PCBs and high-speed, multi-layer boards are strategic priorities, but AI server PCBs remain in customer validation. The company will target AI compute and optical-module opportunities and accelerate scaling of high-end products. Production capacity is currently full."
-    },
-    {
-      "id": "5178315",
-      "time": "2026-10-29 11:04:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【紅板科技：當前AI伺服器PCB尚處於客戶驗證階段】紅板科技(603459)在2026年第三季度業績說明會上表示，AI伺服器PCB和高速高多層板是公司重點拓展的方向之一，當前AI伺服器PCB尚處於客戶驗證階段。公司將持續把握AI算力、光模組等賽道機會，推進高階產品放量。目前公司產能飽滿。"
-    },
-    {
-      "id": "mkt:01a1859d-cfef-7ee0-a9d2-c1b26b44b027",
-      "time": "2026-10-29 11:04:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Luoyang Molybdenum says DRC operating environment stable; production normal】Addressing market reports on Congo (DRC) security, Luoyang Molybdenum said it is recruiting about 100 security personnel via a third‑party firm as its DRC expansion project accelerates and the mine operating area will significantly expand. The company said the recruitment is routine reserve-building for its security team, not an emergency measure; the external operating environment in the DRC is stable and production and operations are normal. Luoyang Molybdenum added that strengthening overseas security capability is a long-term, institutional priority to protect projects and improve local security control."
-    },
-    {
-      "id": "mkt:01a1859c-bf6f-7ee0-a9d2-be98abed4e14",
-      "time": "2026-10-29 11:03:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "002202.SZ",
-        "Impact bullish"
-      ],
-      "text": "China A-share wind-power equipment sector rallied: Feiwo Technology surged over 15%, Tianshun Wind Energy hit the daily trading limit, and Haili Wind Power, Taisheng Wind Energy and Goldwind also gained."
-    },
-    {
-      "id": "5178314",
-      "time": "2026-10-29 11:03:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長聯科技在浙江成立新材料科技公司】企查查APP顯示，近日，浙江長聯新材料科技有限公司成立，經營範圍包含服裝輔料製造；服裝輔料銷售；塑膠製品製造；塑膠製品銷售等。企查查股權穿透顯示，該公司由長聯科技全資持股。"
-    },
-    {
-      "id": "5178313",
-      "time": "2026-10-29 11:02:56",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【花旗：降紫金礦業目標價至48港元，維持“買入”評級，列入確信名單】高盛發表研報指，紫金礦業第三季淨利潤184億元，每股盈利0.69元，同比升26%；剔除一次性收益後經常性淨利潤180億元，同比升42%。首九個月經常性淨利潤568億元，相當於該行全年預測及市場預期的70%至71%，大致符合預期。金礦業務毛利低於預期，主要受產量較預期低、金價較弱及單位成本較高拖累；銅礦業務毛利則優於預期，受惠銅價強於預期及單位成本較低。高盛預期紫金礦業2026至2028年經常性溢利複合增長率達22%，由金、銅價格上升及產量增長(金、銅產量複合年增長率8%)共同推動，並預期2027年銅產量同比增長將重新加速至9%。該行將2026至2028年盈利預測分別下調2%、上調1%及下調5%，維持“買入”評級，列入確信名單，並將目標價由51港元下調至48港元。"
-    },
-    {
-      "id": "mkt:01a1859c-1ae4-7ee0-a9d2-b45ea786968c",
-      "time": "2026-10-29 11:02:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02318.HK",
-        "Impact bullish",
-        "02628.HK",
-        "02328.HK"
-      ],
-      "text": "Hong Kong-listed insurers rose; Ping An (02318.HK) gained over 3%, China Life (02628.HK) and China P&C (02328.HK) climbed more than 2%, with AIA (01299.HK) and China Pacific Insurance (02601.HK) also advancing."
     }
   ]
 }
