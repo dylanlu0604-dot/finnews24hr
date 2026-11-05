@@ -1,7 +1,70 @@
 {
-  "updated": "2026-11-05 10:50:39",
-  "count": 11796,
+  "updated": "2026-11-05 10:54:26",
+  "count": 11800,
   "items": [
+    {
+      "id": "5195052",
+      "time": "2026-11-05 10:53:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華信永道、長光衛星成立星圖智慧科技公司】企查查APP顯示，近日，吉林省永道長光星圖智慧科技有限公司成立，經營範圍包含人工智慧應用軟體開發；衛星技術綜合應用系統整合；衛星遙感資料處理等。企查查股權穿透顯示，該公司由華信永道、長光衛星技術股份有限公司共同持股。"
+    },
+    {
+      "id": "5195051",
+      "time": "2026-11-05 10:53:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀擴大漲幅，最新上漲2.0%，報每盎司53.26美元。"
+    },
+    {
+      "id": "te:markets:598391",
+      "time": "2026-11-05 10:53:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Hits 8-Month Low — US gasoline futures fell to around $2.70 per gallon, hitting their lowest level since early March, as expectations of faster progress toward ending the US-Iran war weighed on prices. Democrats' victory in both chambers of Congress in the US midterm elections raised the prospect of greater constraints on military escalation and renewed diplomatic efforts. Adding to bearish pressures, Energy Secretary Wright said the administration is working with refiners to boost output and restart idled facilities, noting that prices peaked in September and should decline further. However, supply conditions remained tight as EIA data showed that US gasoline inventories fell by 222 thousand barrels in the week ending October 30th, leaving it 2% below the five-year average. Seasonal refinery maintenance and a shift toward diesel production ahead of winter could also constrain gasoline supply."
+    },
+    {
+      "id": "mkt:01a1a99f-d69f-7ee0-aa81-1be11ac4159a",
+      "time": "2026-11-05 10:53:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shentong Technology says automotive-grade optical products enter mass supply】At its Q3 2026 results briefing, Shentong Technology said it is leveraging injection-molding and optical expertise to expand optical lens products for smart cockpits and ADAS — including LiDAR, mmWave radar and HUD — and is progressing an optical-lens production base. Automotive-grade optical products have entered mass shipments and are contributing revenue."
+    },
+    {
+      "id": "5195049",
+      "time": "2026-11-05 10:52:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮發圖稱特朗普依然是總統】美國白宮官方賬號當地時間11月4日在社交媒體釋出一張美國總統特朗普的照片，並在照片上提示：“特朗普依然是你們的總統。” 多家媒體3日晚預測，民主黨將在此次美國中期選舉中奪回國會參議院和眾議院控制權，全面掌控國會。在民主黨被預測奪回眾議院控制權後，一名白宮官員對美國媒體表示，白宮內部對此表示“不服氣”。 這名官員稱，當伊朗戰事解決、汽油價格迅速下降時，今天投票給民主黨的人都會患上“嚴重的買家悔恨症”。美國總統特朗普3日發聲，祝賀民主黨在中期選舉中獲勝，他願意接受中期選舉的結果，準備與民主黨合作。 特朗普還稱，這麼多共和黨人落選是因為他沒有出現在選票上。“我覺得我沒有出現在選票上，對此無能為力，”他說，“如果我出現在選票上，我們本會獲勝。”（中國新聞網）"
+    },
+    {
+      "id": "te:markets:598390",
+      "time": "2026-11-05 10:52:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Stocks Recover from 6-Year Low — Indonesian shares surged 114 points, or 2.3%, to 5,036 in early trading Thursday, extending prior gains as bargain hunters set in after markets fell to a six-year low earlier this week. An overnight rally on Wall Street also boosted sentiment amid sharply lower oil prices and reduced uncertainty following Democrats’ U.S. midterm wins. Locally, sentiment improved after regulators announced new sanctions for alleged stock market violations as part of reforms following MSCI’s warning of a potential market downgrade. All major sectors strengthened, led by basic materials, industrials, and non-cyclicals. Notable gainers included Merdeka Copper Gold (12%), Archi Indonesia (10.3%), and Telkom (6.6%). However, the rally was capped by caution ahead of Q3 GDP data due later today, with growth expected to slow further amid mounting economic headwinds. Meanwhile, the deployment of 20,000 troops across Jakarta following the arrest of three senior police officers added to political tensions."
+    },
+    {
+      "id": "5195044",
+      "time": "2026-11-05 10:52:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神通科技：車規級光學業務相關產品已實現批次供貨】神通科技(605228)在2026年第三季度業績說明會上表示，在車規級光學業務領域，公司依託注塑工藝與光學技術積累，持續拓展與智慧座艙和高階輔助駕駛有關的鐳射雷達、毫米波雷達和抬頭顯示（HUD）等光學鏡片產品，並穩步推進光學鏡片生產基地建設。公司車規級光學業務相關產品目前已實現批次供貨，並已形成相應的收入貢獻。"
+    },
     {
       "id": "te:markets:598389",
       "time": "2026-11-05 10:50:06",
@@ -108625,33 +108688,6 @@
         "國際"
       ],
       "text": "印尼股市跌2%。"
-    },
-    {
-      "id": "mkt:01a18592-5760-7ee0-a9d2-9fd8d819ede7",
-      "time": "2026-10-29 10:52:02",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【AMP says RBA December sixth rate hike a 'high-risk' event】Australian markets are bracing for a near-certain RBA rate rise next week; markets should also weigh the risk of a further December hike, which would be the sixth increase. AMP chief economist Shane Oliver called a December move 'high-risk' but said it is not his base case. He expects next week’s hike should allow the RBA to pause; if the central bank intends another increase it may wait until February to assess the impact after two consecutive meetings."
-    },
-    {
-      "id": "5178305",
-      "time": "2026-10-29 10:51:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲安全初創公司Upwind完成4億美元融資，估值達38億美元】雲安全初創公司Upwind宣佈，在由Bessemer Venture Partners領投的一輪融資中籌集了4億美元，公司估值達到38億美元。本輪融資將用於產品擴充套件。包括Greylock Partners、Cyber starts、Craft Ventures、Salesforce Ventures、Alta Park和TCV的現有投資者參與了本輪融資，Canapi Ventures則作為新投資方加入。該公司在2024年12月的一輪1億美元融資中，估值約為9億美元；而九個月前完成的2.5億美元B輪融資則未披露估值。自2022年成立以來，該公司累計融資總額已超過8億美元。"
-    },
-    {
-      "id": "mkt:01a18591-5f23-7ee0-a9d2-944b2b7873ec",
-      "time": "2026-10-29 10:50:59",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "【RBA rate‑hike odds surge; AUD/USD extends gains】AUD/USD strengthened in Asian trade on Thursday, trading around 0.7055. Australian inflation surprised to the upside, lifting market odds that the Reserve Bank of Australia will raise the cash rate to 4.85% at the next policy meeting to roughly 82% (vs ~62% before the print). Markets will focus on US September PCE data due later Thursday. Commonwealth Bank FX strategist Carol Kong said markets read the absence of explicit discussion of further hikes as dovish or at least not sufficiently hawkish. Brown Brothers Harriman noted September headline CPI rose 4.3% YoY (vs 4.2% expected, 4.0% in August), driven by housing and transport, reinforcing the case for another RBA hike and supporting the AUD."
     }
   ]
 }
