@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-06 02:48:24",
-  "count": 11484,
+  "updated": "2026-11-06 02:52:19",
+  "count": 11483,
   "items": [
+    {
+      "id": "mkt:01a1ad0c-fcf2-7ee0-aa9a-59ec6bf95ad4",
+      "time": "2026-11-06 02:51:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N",
+        "Impact bullish"
+      ],
+      "text": "FT reports the UK plans to extend Palantir (PLTR.N)'s contract with the NHS while drawing up potential alternatives."
+    },
+    {
+      "id": "5197263",
+      "time": "2026-11-06 02:50:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國計劃延長Palantir的英國國家醫療服務體系合同。"
+    },
     {
       "id": "5197261",
       "time": "2026-11-06 02:46:37",
@@ -105668,38 +105688,6 @@
         "國際"
       ],
       "text": "特朗普：美國經濟正以3.4%的速度蓬勃發展。"
-    },
-    {
-      "id": "5180493",
-      "time": "2026-10-30 02:52:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：現任及前任美國官員稱，特朗普政府計劃在下週美國中期選舉結束後對伊朗發動打擊，美軍飛機正調往相關位置，預計將使用MOAB（“炸彈之母”）大型空爆炸彈。"
-    },
-    {
-      "id": "mkt:01a18900-ed86-7ee0-a9ed-5b7b4827bc97",
-      "time": "2026-10-30 02:51:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Saudi-led coalition says intercepted two ballistic missiles aimed at Riyadh】Saudi-led coalition spokesman Turki al-Maliki said on the evening of the 29th the coalition intercepted two ballistic missiles launched at Riyadh by Yemen’s Houthi movement. A Xinhua reporter in Riyadh heard multiple explosions and residents received air-defence alerts on their phones. Al-Maliki also said in the early hours the coalition intercepted a Houthi-fired ballistic missile aimed at Saudi Arabia’s Eastern Province."
-    },
-    {
-      "id": "mkt:01a18900-45e8-7ee0-a9ed-560a2a7d79cd",
-      "time": "2026-10-30 02:50:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude futures settled at $114.88 a barrel, down $0.44 (-0.38%)."
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
   "date": "2026-11-06",
-  "count": 273,
+  "count": 275,
   "items": [
+    {
+      "id": "mkt:01a1ad0c-fcf2-7ee0-aa9a-59ec6bf95ad4",
+      "time": "2026-11-06 02:51:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N",
+        "Impact bullish"
+      ],
+      "text": "FT reports the UK plans to extend Palantir (PLTR.N)'s contract with the NHS while drawing up potential alternatives."
+    },
+    {
+      "id": "5197263",
+      "time": "2026-11-06 02:50:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國計劃延長Palantir的英國國家醫療服務體系合同。"
+    },
     {
       "id": "5197261",
       "time": "2026-11-06 02:46:37",
