@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-06 02:09:28",
-  "count": 11477,
+  "updated": "2026-11-06 02:13:16",
+  "count": 11478,
   "items": [
+    {
+      "id": "5197208",
+      "time": "2026-11-06 02:11:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【參議院少數黨領袖舒默列出民主黨優先事項】美國參議院少數黨領袖查克·舒默表示，明年的立法議程包括禁止國會議員和總統交易股票。舒默在美國進步中心發表講話時表示，結束伊朗戰爭、叫停關稅，以及確保資料中心不會推高能源賬單，也都是民主黨的優先事項。"
+    },
+    {
+      "id": "mkt:01a1ace8-50df-7ee0-aa9a-155e422cf46e",
+      "time": "2026-11-06 02:11:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran national security secretary delivers Supreme Leader's message to Putin】TASNIM NEWS reported on the 5th that Mohsen Rezaei, secretary of Iran's Supreme National Security Council, met President Vladimir Putin in Moscow and delivered a message from Iran's Supreme Leader Mojtaba Khamenei. The two discussed bilateral ties and recent regional developments; no further details were given. TASNIM said Putin had phoned Rezaei on the 2nd to exchange views on the regional situation, especially West Asia, and stressed continuing to strengthen Russia‑Iran strategic cooperation."
+    },
+    {
+      "id": "5197200",
+      "time": "2026-11-06 02:09:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及內閣稱，已批准一項可延長的三個月限電計劃，將把用電量減少20%。"
+    },
+    {
+      "id": "5197199",
+      "time": "2026-11-06 02:09:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗安全官員向普京轉達伊最高領袖訊息】據伊朗伊斯蘭共和國通訊社5日報道，正在俄羅斯訪問的伊朗最高國家安全委員會秘書穆赫辛·雷扎伊在莫斯科與普京會面時，轉達了來自伊朗最高領袖穆傑塔巴·哈梅內伊的訊息，雙方還討論了雙邊關係和地區最新局勢，報道未透露更多細節。伊朗塔斯尼姆通訊社稱，普京2日與雷扎伊通電話，就地區最新局勢特別是西亞局勢交換意見，並強調繼續加強俄伊戰略合作的必要性。伊朗外交部5日發表宣告，外交部長阿拉格齊當天分別與阿曼、約旦、卡達、沙烏地阿拉伯、土耳其和科威特的外交負責人通電話，討論地區局勢。（新華社）"
+    },
     {
       "id": "5197196",
       "time": "2026-11-06 02:07:30",
@@ -105577,38 +105609,6 @@
         "國際"
       ],
       "text": "特朗普：加拿大近來對我們態度不錯。"
-    },
-    {
-      "id": "te:markets:596426",
-      "time": "2026-10-30 02:12:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Prysmian earnings above expectations at 1.65 EUR — Prysmian (PRY) released earnings per share at 1.65 EUR, compared to market expectations of 1.48 EUR."
-    },
-    {
-      "id": "te:markets:596425",
-      "time": "2026-10-30 02:12:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Ambev earnings above expectations at 0.28 BRL — Ambev (ABEV3) released earnings per share at 0.28 BRL, compared to market expectations of 0.25 BRL."
-    },
-    {
-      "id": "5180476",
-      "time": "2026-10-30 02:09:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新疆博爾塔拉州精河縣發生3.4級地震 震源深度19公里】中國地震臺網正式測定：10月30日1時53分，在新疆博爾塔拉州精河縣（北緯44.30度，東經82.68度）發生3.4級地震，震源深度19公里。(央視新聞)"
     }
   ]
 }
