@@ -1,7 +1,140 @@
 {
-  "updated": "2026-11-05 18:18:28",
-  "count": 11537,
+  "updated": "2026-11-05 18:22:16",
+  "count": 11551,
   "items": [
+    {
+      "id": "mkt:01a1ab3a-bed4-7ee0-aa8c-6cec938b1349",
+      "time": "2026-11-05 18:21:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps navy says an oil tanker struck a mine and caught fire east of the Strait of Hormuz."
+    },
+    {
+      "id": "5196125",
+      "time": "2026-11-05 18:21:17",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券策略王偉光：AI產業敘事尚未結束 但行情將由全面普漲進入“中場休整”】針對市場對AI能否延續主線的關注，王偉光認為，AI產業敘事尚未結束，但行情將由全面普漲進入“中場休整”，投資重心將從算力投入轉向回報驗證，可重點關注物理AI、端側AI、AI應用及電力等方向。"
+    },
+    {
+      "id": "5196124",
+      "time": "2026-11-05 18:20:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【東方財富證券陳果：A股大盤藍籌股估值定價具備配置吸引力】11月5日，東方財富證券研究所首席策略官陳果在接受採訪時表示，具有核心競爭壁壘的優質藍籌公司業績將持續增長，在低利率環境和人民幣升值的前景下，其估值定價具備配置吸引力。在陳果看來，無風險利率是資產定價的“錨”，利率中樞下移意味著持有低風險資產的機會成本下降，當前10年期國債收益率已處於1.6%左右的水平，這對業績穩定增長的藍籌股是極其有利的估值環境。當前滬深300指數的靜態市盈率僅13.6倍，市淨率僅1.35倍，如果考慮無風險收益率，以ERP來衡量權益資產相對債券的吸引力，滬深300的股債價效比處於近十年72%分位；而核心藍籌指數的市盈率則處於2021年釋出以來10%以下的分位，與2021年相比，對應的盈利分別增長約六成和近三倍。大量央國企藍籌公司PB在1倍左右甚至低於1倍PB；大量具備競爭壁壘的行業龍頭公司除了業績持續正增長之外，目前股價對應的股息率也在3.5%—5%左右的水平（中證紅利指數對應的股息率在4%以上），相對於債券、房地產等資產，這些大盤藍籌股配置吸引力突出。（中證金牛座）"
+    },
+    {
+      "id": "mkt:01a1ab39-08d4-7ee0-aa8c-66781256fbb3",
+      "time": "2026-11-05 18:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "DXY"
+      ],
+      "text": "U.S. Challenger job cuts for October due in 10 minutes."
+    },
+    {
+      "id": "5196123",
+      "time": "2026-11-05 18:20:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "盧甘斯克州長稱，烏克蘭襲擊造成七人死亡。"
+    },
+    {
+      "id": "mkt:01a1ab38-be33-7ee0-aa8c-5a045aa94ef3",
+      "time": "2026-11-05 18:19:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "An ECB Governing Council member said it is too early to say how much further tightening is needed."
+    },
+    {
+      "id": "5196122",
+      "time": "2026-11-05 18:19:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華曙高科：擬定增募資不超17.54億元投向增材製造等專案】華曙高科公告稱，公司2026年度向特定物件發行A股股票事項已經董事會、股東會審議透過，尚需上交所稽核透過並取得中國證監會同意註冊的批覆後方可實施。本次發行物件不超過35名，發行價格不低於定價基準日前二十個交易日公司股票交易均價的80%，發行數量不超過發行前總股本的30%即1.25億股，募集資金總額不超過17.54億元，扣除發行費用後將用於增材製造綜合服務平臺建設專案、全球運營中心建設專案。發行物件認購的股票自發行結束之日起六個月內不得轉讓。"
+    },
+    {
+      "id": "5196121",
+      "time": "2026-11-05 18:19:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【引力傳媒：AI短劇業務規模小 提示股價波動風險】引力傳媒公告稱，公司股票於2026年11月2日、11月3日、11月4日連續三個交易日收盤價格漲幅偏離值累計達20%，11月5日再次漲停，四個交易日累計漲幅37.79%。公司最新滾動市盈率305.57倍，高於所屬廣告營銷行業64.89倍的滾動市盈率水平。公司AI短劇業務尚處於前期投入階段，業務規模較小，截至10月末該業務收入佔2025年經審計營業收入比例不足0.1%，不會對公司業績構成重大影響。公司目前經營正常，不存在應披露未披露的重大資訊，董監高及控股股東等在異動期間未買賣公司股票，敬請投資者注意投資風險。"
+    },
+    {
+      "id": "5196120",
+      "time": "2026-11-05 18:19:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國為全球海洋生物多樣性治理貢獻力量】2026年11月5日，《〈海洋生物多樣性協定〉地位、作用、前景與中國角色》研究報告中英文版對外發布。報告由自然資源部海洋發展戰略研究所組織編制，系統闡釋《〈聯合國海洋法公約〉下國家管轄範圍以外區域海洋生物多樣性的養護和可持續利用協定》（簡稱《海洋生物多樣性協定》或《協定》）生效的重大意義和中國做出的積極貢獻，展現中國在推動國際規則構建、助力《協定》落地實施中的責任擔當。(新華社)"
+    },
+    {
+      "id": "5196119",
+      "time": "2026-11-05 18:19:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "匈牙利油氣集團（MOL）獲得美國外國資產控制辦公室（OFAC）許可，可就塞爾維亞石油工業公司（NIS）交易開展前期準備工作。"
+    },
+    {
+      "id": "mkt:01a1ab38-35f5-7ee0-aa8c-5497886bad9f",
+      "time": "2026-11-05 18:19:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "An ECB official said the probability of a December rate hike is \"quite large\"."
+    },
+    {
+      "id": "5196118",
+      "time": "2026-11-05 18:19:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華曙高科：調整定增募投專案及募資規模】華曙高科公告稱，公司調整向特定物件發行股票方案，募集資金總額由不超過39.10億元調減至不超過17.54億元。原募投專案中“先進增材製造裝置產能提升專案”不再納入本次募投，擬由公司以自有或自籌資金建設；剩餘“增材製造綜合服務平臺建設專案”“全球運營中心建設專案”擬投入募集資金分別調減至15.13億元、2.41億元。本次調整已經公司董事會審議透過，相關申請尚需上交所稽核。"
+    },
+    {
+      "id": "5196117",
+      "time": "2026-11-05 18:18:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京首款CAR-T細胞治療藥物獲批上市】從北京藝妙神州生物醫藥股份有限公司瞭解到，該公司首款自主原研的CAR-T細胞藥品泊基奧侖賽注射液獲得國家藥品監督管理局頒發的《藥品註冊證書》，用於治療經過二線或以上系統性治療後成人復發或難治性大B細胞淋巴瘤患者。這也是北京市首款獲批的CAR-T細胞藥品。（北京日報）"
+    },
+    {
+      "id": "5196116",
+      "time": "2026-11-05 18:18:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成都6宗涉宅用地14.05億元底價成交】11月5日，成都市本級範圍內有6宗涉宅用地出讓，總土地出讓面積165973.26㎡，總規劃建築面積331655.46㎡，總起始價14.05億元。最終6宗地塊均底價成交，總成交金額14.05億元。"
+    },
     {
       "id": "5196115",
       "time": "2026-11-05 18:17:25",
@@ -324,6 +457,14 @@
         "公司"
       ],
       "text": "【海南礦業：境外孫公司被要求補繳稅款及罰息合計1.81億瑞典克朗】海南礦業公告，公司全資子公司洛克石油之全資子公司特提斯公司近日收到瑞典稅務局出具的《決定》，瑞典稅務局認定特提斯公司與阿曼子公司Tethys Oil Block 3&4 Limited之間就阿曼3&4區塊相關年度運營利潤的分配不符合獨立交易定價原則，據此作出轉讓定價納稅調整，要求其於2026年11月26日前補繳稅款及罰息合計1.81億瑞典克朗，涉及應繳稅費及罰息合計約人民幣1.24億元。特提斯公司可在規定期限內申請複議或向瑞典行政法院提起訴訟，並可在申請複議或提起訴訟的同時申請延期繳款。"
+    },
+    {
+      "id": "5196085",
+      "time": "2026-11-05 18:03:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東北中小企業融資再擔保股份有限公司原黨委書記、董事長柴偉被開除黨籍和公職】據新華社，吉林省紀委監委5日通報，日前，經吉林省委批准，吉林省紀委監委對中共吉林省第十二屆委員會委員，東北中小企業融資再擔保股份有限公司原黨委書記、董事長柴偉嚴重違紀違法問題進行了立案審查調查。"
     },
     {
       "id": "mkt:01a1ab2a-27f0-7ee0-aa8c-2d396c41b1d4",
@@ -106280,18 +106421,6 @@
         "Importance 1"
       ],
       "text": "Portugal Business Confidence Falls for 2nd Month — The business confidence in Portugal edged down for a second straight month to 2.6 in October 2026, the lowest since May 2025, compared to 2.8 in September. Confidence fell in the services sector (7.5 vs 8.8) amid weaker outlook regarding the evolution of demand, and, significantly, assessments of the company’s activity as well as opinions on the order book. Sentiment also weakened in construction (4 vs 4.5), retail (1.6 vs 1.7) and remained subdued in manufacturing (-4.1 vs -4.3). For 2027, the majority of companies in the manufacturing industry (61.9%) and in the services sector (73.3%) anticipate that investment will stabilize compared to 2026."
-    },
-    {
-      "id": "te:economy:596243",
-      "time": "2026-10-29 18:20:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Euro Area",
-        "Economic Optimism Index",
-        "Importance 2"
-      ],
-      "text": "Eurozone Sentiment Falls Again in October — The Eurozone Economic Sentiment Indicator fell for a second consecutive month to 96.9 in October 2026, missing market expectations of 97.5. Consumer confidence deteriorated to -17.9, its lowest level since May, as households became more pessimistic about their past and future financial situations. Meanwhile, inflation expectations remained elevated at 33.9, easing slightly from 34.7 in September. Sentiment also weakened among retailers (-8.0 vs. -6.5), construction firms (-5.9 vs. -5.3), and service providers (5.3 vs. 5.9). In contrast, confidence among manufacturers improved to -3.4 from -3.9. Among major economies, sentiment declined sharply in the Netherlands (-3.4 points), while Germany (-0.7) and Spain (-0.5) recorded more moderate decreases. Italy saw a modest improvement (+0.8), while France remained broadly stable (+0.1)."
     }
   ]
 }
