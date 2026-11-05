@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-05 18:41:43",
+  "updated": "2026-11-06 01:42:30",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 434,
+  "count": 438,
   "history_summary": {
     "cached": 434,
-    "fetched": 0,
+    "fetched": 4,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 259,
+      "count": 263,
       "dates": [
         {
           "date": "2026-11-01",
@@ -9231,7 +9231,7 @@
         },
         {
           "date": "2026-11-05",
-          "count": 42,
+          "count": 46,
           "events": [
             {
               "id": "capital:1189673",
@@ -11044,8 +11044,8 @@
               "importance": 2,
               "previous": "4.3281",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "4.3994",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179899",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -11102,7 +11102,7 @@
               "importance": 1,
               "previous": "-19.9 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "-71.3 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178851",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -11160,7 +11160,7 @@
               "importance": 1,
               "previous": "-18.15 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "1.64 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179900",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -11276,7 +11276,7 @@
               "importance": 3,
               "previous": "3.75 %",
               "forecast": "4 %",
-              "actual": "-- %",
+              "actual": "4 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178852",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -11322,6 +11322,180 @@
               "history_checked_at": "2026-10-25 01:14:19"
             },
             {
+              "id": "capital:1189946",
+              "fid": "1189946",
+              "interval": "this_week",
+              "date": "2026-11-05",
+              "time": "20:00",
+              "datetime": "2026-11-05 20:00:00",
+              "display_time": "11/05 20:00",
+              "country": "英國",
+              "title": "英國至11月5日英國央行MPC投票贊成加息",
+              "importance": 1,
+              "previous": "3",
+              "forecast": "7",
+              "actual": "9",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189946",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/17",
+                  "actual": "3",
+                  "forecast": "3",
+                  "previous": "3"
+                },
+                {
+                  "date": "07/30",
+                  "actual": "3",
+                  "forecast": "2",
+                  "previous": "2"
+                },
+                {
+                  "date": "06/18",
+                  "actual": "2",
+                  "forecast": "2",
+                  "previous": "1"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "1",
+                  "forecast": "1",
+                  "previous": "0"
+                },
+                {
+                  "date": "03/19",
+                  "actual": "0",
+                  "forecast": "0",
+                  "previous": "0"
+                },
+                {
+                  "date": "02/05",
+                  "actual": "0",
+                  "forecast": "0",
+                  "previous": "0"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-06 01:42:26"
+            },
+            {
+              "id": "capital:1189947",
+              "fid": "1189947",
+              "interval": "this_week",
+              "date": "2026-11-05",
+              "time": "20:00",
+              "datetime": "2026-11-05 20:00:00",
+              "display_time": "11/05 20:00",
+              "country": "英國",
+              "title": "英國至11月5日英國央行MPC投票贊成維持利率不變",
+              "importance": 1,
+              "previous": "6",
+              "forecast": "2",
+              "actual": "0",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189947",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/17",
+                  "actual": "6",
+                  "forecast": "6",
+                  "previous": "6"
+                },
+                {
+                  "date": "07/30",
+                  "actual": "6",
+                  "forecast": "7",
+                  "previous": "7"
+                },
+                {
+                  "date": "06/18",
+                  "actual": "7",
+                  "forecast": "7",
+                  "previous": "8"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "8",
+                  "forecast": "8",
+                  "previous": "9"
+                },
+                {
+                  "date": "03/19",
+                  "actual": "9",
+                  "forecast": "7",
+                  "previous": "5"
+                },
+                {
+                  "date": "02/05",
+                  "actual": "5",
+                  "forecast": "7",
+                  "previous": "4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-06 01:42:26"
+            },
+            {
+              "id": "capital:1189948",
+              "fid": "1189948",
+              "interval": "this_week",
+              "date": "2026-11-05",
+              "time": "20:00",
+              "datetime": "2026-11-05 20:00:00",
+              "display_time": "11/05 20:00",
+              "country": "英國",
+              "title": "英國至11月5日英國央行MPC投票贊成降息",
+              "importance": 1,
+              "previous": "0",
+              "forecast": "0",
+              "actual": "0",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189948",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/17",
+                  "actual": "0",
+                  "forecast": "0",
+                  "previous": "0"
+                },
+                {
+                  "date": "07/30",
+                  "actual": "0",
+                  "forecast": "0",
+                  "previous": "0"
+                },
+                {
+                  "date": "06/18",
+                  "actual": "0",
+                  "forecast": "0",
+                  "previous": "0"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "0",
+                  "forecast": "0",
+                  "previous": "0"
+                },
+                {
+                  "date": "03/19",
+                  "actual": "0",
+                  "forecast": "2",
+                  "previous": "4"
+                },
+                {
+                  "date": "02/05",
+                  "actual": "4",
+                  "forecast": "2",
+                  "previous": "5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-06 01:42:26"
+            },
+            {
               "id": "capital:1178854",
               "fid": "1178854",
               "interval": "this_week",
@@ -11333,8 +11507,8 @@
               "title": "美國第三季度非農單位勞動力成本初值",
               "importance": 1,
               "previous": "1.2 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "0.6 %",
+              "actual": "-0.7 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178854",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -11391,8 +11565,8 @@
               "title": "美國第三季度非農生產力初值",
               "importance": 1,
               "previous": "1.4 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "2.8 %",
+              "actual": "3.6 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178853",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -11449,9 +11623,9 @@
               "title": "美國至10月24日當週續請失業金人數(萬人)",
               "importance": 1,
               "previous": "170.1",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "171",
+              "actual": "171.8",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178857",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -11507,9 +11681,9 @@
               "title": "美國至10月31日當週初請失業金人數(萬人)",
               "importance": 3,
               "previous": "19.4",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "19.6",
+              "actual": "18.9",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178855",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -11566,8 +11740,8 @@
               "importance": 1,
               "previous": "19.675",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "19.475",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178856",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -11612,6 +11786,64 @@
               "history_checked_at": "2026-10-25 01:14:19"
             },
             {
+              "id": "capital:1189950",
+              "fid": "1189950",
+              "interval": "this_week",
+              "date": "2026-11-05",
+              "time": "23:00",
+              "datetime": "2026-11-05 23:00:00",
+              "display_time": "11/05 23:00",
+              "country": "美國",
+              "title": "美國10月全球供應鏈壓力指數",
+              "importance": 2,
+              "previous": "1.28",
+              "forecast": "--",
+              "actual": "1.28",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189950",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/04",
+                  "actual": "1.06",
+                  "forecast": "-",
+                  "previous": "0.8"
+                },
+                {
+                  "date": "08/06",
+                  "actual": "0.8",
+                  "forecast": "-",
+                  "previous": "1.25"
+                },
+                {
+                  "date": "07/06",
+                  "actual": "1.25",
+                  "forecast": "-",
+                  "previous": "1.77"
+                },
+                {
+                  "date": "06/04",
+                  "actual": "1.77",
+                  "forecast": "-",
+                  "previous": "1.82"
+                },
+                {
+                  "date": "05/06",
+                  "actual": "1.82",
+                  "forecast": "-",
+                  "previous": "0.68"
+                },
+                {
+                  "date": "04/06",
+                  "actual": "0.68",
+                  "forecast": "-",
+                  "previous": "0.49"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-06 01:42:26"
+            },
+            {
               "id": "capital:1178858",
               "fid": "1178858",
               "interval": "this_week",
@@ -11622,10 +11854,10 @@
               "country": "美國",
               "title": "美國至10月30日當週EIA天然氣庫存(億立方英尺)",
               "importance": 2,
-              "previous": "--",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "previous": "800",
+              "forecast": "810",
+              "actual": "770",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178858",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -11686,9 +11918,9 @@
               "country": "美國",
               "title": "美國至11月5日4周國債競拍-得標利率",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.91 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "3.89 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189682",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -11746,7 +11978,7 @@
               "importance": 1,
               "previous": "16.96 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "5.33 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189612",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -11802,10 +12034,10 @@
               "country": "美國",
               "title": "美國至11月5日4周國債競拍-投標倍數",
               "importance": 1,
-              "previous": "--",
+              "previous": "3.1",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "2.46",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189683",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -11860,9 +12092,9 @@
               "country": "美國",
               "title": "美國至11月5日8周國債競拍-得標利率",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "4.02 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "3.975 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189685",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -11920,7 +12152,7 @@
               "importance": 1,
               "previous": "66.2 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "93.38 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189613",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -11976,10 +12208,10 @@
               "country": "美國",
               "title": "美國至11月5日8周國債競拍-投標倍數",
               "importance": 1,
-              "previous": "--",
+              "previous": "2.63",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "2.68",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189684",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -36167,8 +36399,8 @@
       "importance": 2,
       "previous": "4.3281",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "4.3994",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179899",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -36225,7 +36457,7 @@
       "importance": 1,
       "previous": "-19.9 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "-71.3 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178851",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -36283,7 +36515,7 @@
       "importance": 1,
       "previous": "-18.15 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "1.64 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179900",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -36399,7 +36631,7 @@
       "importance": 3,
       "previous": "3.75 %",
       "forecast": "4 %",
-      "actual": "-- %",
+      "actual": "4 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178852",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -36445,6 +36677,180 @@
       "history_checked_at": "2026-10-25 01:14:19"
     },
     {
+      "id": "capital:1189946",
+      "fid": "1189946",
+      "interval": "this_week",
+      "date": "2026-11-05",
+      "time": "20:00",
+      "datetime": "2026-11-05 20:00:00",
+      "display_time": "11/05 20:00",
+      "country": "英國",
+      "title": "英國至11月5日英國央行MPC投票贊成加息",
+      "importance": 1,
+      "previous": "3",
+      "forecast": "7",
+      "actual": "9",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189946",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/17",
+          "actual": "3",
+          "forecast": "3",
+          "previous": "3"
+        },
+        {
+          "date": "07/30",
+          "actual": "3",
+          "forecast": "2",
+          "previous": "2"
+        },
+        {
+          "date": "06/18",
+          "actual": "2",
+          "forecast": "2",
+          "previous": "1"
+        },
+        {
+          "date": "04/30",
+          "actual": "1",
+          "forecast": "1",
+          "previous": "0"
+        },
+        {
+          "date": "03/19",
+          "actual": "0",
+          "forecast": "0",
+          "previous": "0"
+        },
+        {
+          "date": "02/05",
+          "actual": "0",
+          "forecast": "0",
+          "previous": "0"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-06 01:42:26"
+    },
+    {
+      "id": "capital:1189947",
+      "fid": "1189947",
+      "interval": "this_week",
+      "date": "2026-11-05",
+      "time": "20:00",
+      "datetime": "2026-11-05 20:00:00",
+      "display_time": "11/05 20:00",
+      "country": "英國",
+      "title": "英國至11月5日英國央行MPC投票贊成維持利率不變",
+      "importance": 1,
+      "previous": "6",
+      "forecast": "2",
+      "actual": "0",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189947",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/17",
+          "actual": "6",
+          "forecast": "6",
+          "previous": "6"
+        },
+        {
+          "date": "07/30",
+          "actual": "6",
+          "forecast": "7",
+          "previous": "7"
+        },
+        {
+          "date": "06/18",
+          "actual": "7",
+          "forecast": "7",
+          "previous": "8"
+        },
+        {
+          "date": "04/30",
+          "actual": "8",
+          "forecast": "8",
+          "previous": "9"
+        },
+        {
+          "date": "03/19",
+          "actual": "9",
+          "forecast": "7",
+          "previous": "5"
+        },
+        {
+          "date": "02/05",
+          "actual": "5",
+          "forecast": "7",
+          "previous": "4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-06 01:42:26"
+    },
+    {
+      "id": "capital:1189948",
+      "fid": "1189948",
+      "interval": "this_week",
+      "date": "2026-11-05",
+      "time": "20:00",
+      "datetime": "2026-11-05 20:00:00",
+      "display_time": "11/05 20:00",
+      "country": "英國",
+      "title": "英國至11月5日英國央行MPC投票贊成降息",
+      "importance": 1,
+      "previous": "0",
+      "forecast": "0",
+      "actual": "0",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189948",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/17",
+          "actual": "0",
+          "forecast": "0",
+          "previous": "0"
+        },
+        {
+          "date": "07/30",
+          "actual": "0",
+          "forecast": "0",
+          "previous": "0"
+        },
+        {
+          "date": "06/18",
+          "actual": "0",
+          "forecast": "0",
+          "previous": "0"
+        },
+        {
+          "date": "04/30",
+          "actual": "0",
+          "forecast": "0",
+          "previous": "0"
+        },
+        {
+          "date": "03/19",
+          "actual": "0",
+          "forecast": "2",
+          "previous": "4"
+        },
+        {
+          "date": "02/05",
+          "actual": "4",
+          "forecast": "2",
+          "previous": "5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-06 01:42:26"
+    },
+    {
       "id": "capital:1178854",
       "fid": "1178854",
       "interval": "this_week",
@@ -36456,8 +36862,8 @@
       "title": "美國第三季度非農單位勞動力成本初值",
       "importance": 1,
       "previous": "1.2 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "0.6 %",
+      "actual": "-0.7 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178854",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -36514,8 +36920,8 @@
       "title": "美國第三季度非農生產力初值",
       "importance": 1,
       "previous": "1.4 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "2.8 %",
+      "actual": "3.6 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178853",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -36572,9 +36978,9 @@
       "title": "美國至10月24日當週續請失業金人數(萬人)",
       "importance": 1,
       "previous": "170.1",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "171",
+      "actual": "171.8",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178857",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -36630,9 +37036,9 @@
       "title": "美國至10月31日當週初請失業金人數(萬人)",
       "importance": 3,
       "previous": "19.4",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "19.6",
+      "actual": "18.9",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178855",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -36689,8 +37095,8 @@
       "importance": 1,
       "previous": "19.675",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "19.475",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178856",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -36735,6 +37141,64 @@
       "history_checked_at": "2026-10-25 01:14:19"
     },
     {
+      "id": "capital:1189950",
+      "fid": "1189950",
+      "interval": "this_week",
+      "date": "2026-11-05",
+      "time": "23:00",
+      "datetime": "2026-11-05 23:00:00",
+      "display_time": "11/05 23:00",
+      "country": "美國",
+      "title": "美國10月全球供應鏈壓力指數",
+      "importance": 2,
+      "previous": "1.28",
+      "forecast": "--",
+      "actual": "1.28",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189950",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/04",
+          "actual": "1.06",
+          "forecast": "-",
+          "previous": "0.8"
+        },
+        {
+          "date": "08/06",
+          "actual": "0.8",
+          "forecast": "-",
+          "previous": "1.25"
+        },
+        {
+          "date": "07/06",
+          "actual": "1.25",
+          "forecast": "-",
+          "previous": "1.77"
+        },
+        {
+          "date": "06/04",
+          "actual": "1.77",
+          "forecast": "-",
+          "previous": "1.82"
+        },
+        {
+          "date": "05/06",
+          "actual": "1.82",
+          "forecast": "-",
+          "previous": "0.68"
+        },
+        {
+          "date": "04/06",
+          "actual": "0.68",
+          "forecast": "-",
+          "previous": "0.49"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-06 01:42:26"
+    },
+    {
       "id": "capital:1178858",
       "fid": "1178858",
       "interval": "this_week",
@@ -36745,10 +37209,10 @@
       "country": "美國",
       "title": "美國至10月30日當週EIA天然氣庫存(億立方英尺)",
       "importance": 2,
-      "previous": "--",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "previous": "800",
+      "forecast": "810",
+      "actual": "770",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178858",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -36803,9 +37267,9 @@
       "country": "美國",
       "title": "美國至11月5日4周國債競拍-得標利率",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.91 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "3.89 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189682",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -36863,7 +37327,7 @@
       "importance": 1,
       "previous": "16.96 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "5.33 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189612",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -36919,10 +37383,10 @@
       "country": "美國",
       "title": "美國至11月5日4周國債競拍-投標倍數",
       "importance": 1,
-      "previous": "--",
+      "previous": "3.1",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "2.46",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189683",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -36977,9 +37441,9 @@
       "country": "美國",
       "title": "美國至11月5日8周國債競拍-得標利率",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "4.02 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "3.975 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189685",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -37037,7 +37501,7 @@
       "importance": 1,
       "previous": "66.2 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "93.38 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189613",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -37093,10 +37557,10 @@
       "country": "美國",
       "title": "美國至11月5日8周國債競拍-投標倍數",
       "importance": 1,
-      "previous": "--",
+      "previous": "2.63",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "2.68",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189684",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [

@@ -1,7 +1,1632 @@
 {
   "date": "2026-11-05",
-  "count": 1614,
+  "count": 1787,
   "items": [
+    {
+      "id": "5197024",
+      "time": "2026-11-05 23:59:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉會見經濟團隊及其他人士，討論下屆任期計劃。"
+    },
+    {
+      "id": "te:markets:598729",
+      "time": "2026-11-05 23:59:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Treasury Yield Hovers Near Two-Month Lows — The yield on the US 10-year Treasury note fell to 4.83% on Thursday, hovering near two-month lows, as a sharp equity market sell-off triggered a flight to safety. Investors continued to scale back exposure to technology stocks amid concerns over the potential implications of a Democratic blue wave for AI and data centre investment. Following the midterm election results, the 10-year yield had already declined by around 8bps in the previous session. Meanwhile, investors are turning their attention to Friday’s US jobs report for further clues about the health of the labour market. Recent data painted a mixed but relatively resilient picture, with private businesses adding 86K jobs in October, according to ADP, while initial jobless claims fell to their lowest level in 57 years. In addition, third-quarter productivity growth came in stronger than expected. Against this backdrop, markets are pricing in an approximately 75% probability of a 25bps Fed rate hike next month."
+    },
+    {
+      "id": "5197023",
+      "time": "2026-11-05 23:59:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "BLOOM ENERGY 股價下跌 20.2%。"
+    },
+    {
+      "id": "te:markets:598728",
+      "time": "2026-11-05 23:58:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Italian Stocks Plunge Amid Tech Selloff — Milan’s FTSE MIB closer 1% lower at 50,506 on Thursday, reversing earlier gains as a selloff in chipmakers weighed on the benchmark. STMicroelectronics and Technoprobe plunged 9.3%, while Prysmian dropped 4%, tracking losses among US chipmakers as investors reassessed the pace of the AI buildout following the US midterm elections. A Democratic takeover could increase regulation on AI and data centers. In turn, Stellantis declined 4.5%, as its extends the production stoppage at its Fiat 500 factory in Turin. Defence stocks also extended their declines, tracking a sharp fall in Rheinmetall after the German firm cut its 2026 sales target for a second time. Fincantieri dropped 4.8%, while Leonardo, which has projects with the German firm, fell 3.5% despite raising its 2026 outlook. Avio lost 2.8%. Weakness among heavyweight financials added to the pressure, with BPER Banca shedding 3%. MPS, Mediobanca, Unicredit and Unipol all tumbled over 1%."
+    },
+    {
+      "id": "5197022",
+      "time": "2026-11-05 23:58:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫三比克液化天然氣進口專案開發商預計2027年完成融資關閉。"
+    },
+    {
+      "id": "5197021",
+      "time": "2026-11-05 23:57:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國艾奧瓦州一郵局發生槍擊事件 多人受傷】據美國媒體報道，美國艾奧瓦州一家郵局5日發生槍擊事件，造成多人受傷。警方稱嫌疑人已被逮捕。（新華社）"
+    },
+    {
+      "id": "5197018",
+      "time": "2026-11-05 23:56:45",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "渣打銀行預計英國央行將在2027年2月加息25個基點，此前預測為2026年11月後不再加息。"
+    },
+    {
+      "id": "5197017",
+      "time": "2026-11-05 23:55:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：美國中期選舉可能會對關稅產生影響，但需要時間。"
+    },
+    {
+      "id": "te:markets:598727",
+      "time": "2026-11-05 23:55:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Bond Yield Hits 8-week Low — US 10 Year Government Bond Yield decreased to 4.83%, the lowest since September 2026. Over the past 4 weeks, US 10 Year Note Bond Yield lost 44.10 basis points, and in the last 12 months, it increased 76.00 basis points."
+    },
+    {
+      "id": "5197016",
+      "time": "2026-11-05 23:55:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率跌至9月以來最低水平。"
+    },
+    {
+      "id": "5197015",
+      "time": "2026-11-05 23:55:04",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列謝克爾兌美元下跌1.4%，至3.20，為2025年12月以來最弱，因科技股下跌。"
+    },
+    {
+      "id": "5197014",
+      "time": "2026-11-05 23:54:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：預計美國關稅不會立即重新調整。"
+    },
+    {
+      "id": "5197013",
+      "time": "2026-11-05 23:54:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "6K獲得美國戰爭部2.5億美元貸款的有條件承諾，以支援美國國內正極活性材料的擴張。"
+    },
+    {
+      "id": "5197012",
+      "time": "2026-11-05 23:54:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報51.67美元/盎司。"
+    },
+    {
+      "id": "5197011",
+      "time": "2026-11-05 23:54:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nutrien預計地緣政治衝突將導致氮肥和鉀肥供應鏈中斷持續至2027年。"
+    },
+    {
+      "id": "5197010",
+      "time": "2026-11-05 23:54:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報51.74美元/盎司。"
+    },
+    {
+      "id": "5197009",
+      "time": "2026-11-05 23:54:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "恐慌指數VIX突破28，日內漲幅擴大至67%。"
+    },
+    {
+      "id": "5197008",
+      "time": "2026-11-05 23:53:46",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "亞馬遜(AMZN.O)跌超5%，此前一度漲超2%。"
+    },
+    {
+      "id": "te:markets:598726",
+      "time": "2026-11-05 23:53:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Nestle Shares Hit 16-month High — Nestle shares increased to 87.27 CHF, the highest since June 2025. Over the past 4 weeks, Nestle gained 15.97%, and in the last 12 months, it increased 10.55%."
+    },
+    {
+      "id": "5197007",
+      "time": "2026-11-05 23:53:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數跌幅擴大至0.7%，創盤中新低。"
+    },
+    {
+      "id": "te:markets:598725",
+      "time": "2026-11-05 23:52:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ADP Shares Hit 14-month High — ADP shares increased to 309.88 USD, the highest since August 2025. Over the past 4 weeks, Automatic Data Processing gained 19%, and in the last 12 months, it increased 19.31%."
+    },
+    {
+      "id": "5197006",
+      "time": "2026-11-05 23:52:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "安賽樂米塔爾首席財務官：在停產前，烏克蘭的產能已受到顯著影響，我們當時並未向歐洲出口。"
+    },
+    {
+      "id": "te:markets:598724",
+      "time": "2026-11-05 23:51:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Hits 4-week Low — The South Korean Won touched 1353.00 against the USD, the lowest since October 2026. Over the past 4 weeks, US Dollar South Korean Won gained 1.1%, and in the last 12 months, it decreased 6.65%."
+    },
+    {
+      "id": "te:markets:598723",
+      "time": "2026-11-05 23:51:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Trims Gains Amid Global Technology Sell-Off — The CAC 40 trimmed its gains to 0.5% to hover around 8,000 on Thursday as technology stocks tumbled alongside US chipmakers. Investors reduced their exposure to the sector amid concerns that the Democrats’ sweep of Congress could affect the rollout of artificial intelligence. A UBS basket of European semiconductor stocks fell nearly 8%, reaching its lowest since April. STMicroelectronics plunged more than 9.5%, while Schneider Electric lost nearly 2%. On the other hand, the Democrats’ victory gives them a stronger platform to challenge US President Trump’s trade policies. Among the sectors most exposed to Trump’s tariffs, luxury goods are particularly vulnerable given their reliance on wealthy US consumers. Hermès edged higher, while L’Oréal gained nearly 2%. Broader markers were supported by a rotation out of technology stocks into other sectors. Most industrial shares advanced, with Sanofi rising over 1%, Air Liquide up nearly 2% and Bouygues adding close to 3%."
+    },
+    {
+      "id": "te:markets:598722",
+      "time": "2026-11-05 23:51:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Goldman Sachs Shares Hit 30-week Low — Goldman Sachs shares decreased to 857.40 USD, the lowest since April 2026. Over the past 4 weeks, Goldman Sachs lost 3.97%, and in the last 12 months, it increased 9.4%."
+    },
+    {
+      "id": "te:markets:598721",
+      "time": "2026-11-05 23:51:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Progressive Shares Hit 12-month High — Progressive shares increased to 240.46 USD, the highest since October 2025. Over the past 4 weeks, Progressive gained 13.06%, and in the last 12 months, it increased 15.05%."
+    },
+    {
+      "id": "5197005",
+      "time": "2026-11-05 23:51:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌11%】費城半導體指數日內跌11.01%，現報9138.52點。英偉達跌8.52%，博通跌9.46%，美光跌15.92%，英特爾跌9.11%，AMD跌16.17%，高通跌13.21%，臺積電跌9.89%，阿斯麥跌8.49%。"
+    },
+    {
+      "id": "5197004",
+      "time": "2026-11-05 23:51:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：即將公佈的資料將有助於我們判斷是否有必要加息。"
+    },
+    {
+      "id": "5197003",
+      "time": "2026-11-05 23:51:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：從現在到12月，我們將有許多指標。"
+    },
+    {
+      "id": "5197002",
+      "time": "2026-11-05 23:50:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，天演藥業跌11.62%，世紀互聯跌12.22%，萬國資料跌11.13%，億航跌10.29%，文遠知行跌9.20%。"
+    },
+    {
+      "id": "5197001",
+      "time": "2026-11-05 23:50:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破76000美元，日內跌5.60%。"
+    },
+    {
+      "id": "5197000",
+      "time": "2026-11-05 23:50:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "新興市場基金管理公司Ashmore股價下跌9.6%，創兩年來最大單日跌幅，為富時250指數中跌幅最大的股票。"
+    },
+    {
+      "id": "5196999",
+      "time": "2026-11-05 23:50:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌5.01%，現報24448.159點；道指跌2.12%，現報52225.859點；標普500指數跌3.23%，現報7440.330點。"
+    },
+    {
+      "id": "5196998",
+      "time": "2026-11-05 23:50:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：能源成本是通脹過高的主要推手。"
+    },
+    {
+      "id": "5196997",
+      "time": "2026-11-05 23:48:58",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "VIX 恐慌指數自 4 月以來首次升至 25 以上。"
+    },
+    {
+      "id": "5196996",
+      "time": "2026-11-05 23:48:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：仍有必要運用工具以避免通脹失控。"
+    },
+    {
+      "id": "5196995",
+      "time": "2026-11-05 23:48:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "安賽樂米塔爾首席財務官：我們不認為安賽樂米塔爾烏克蘭業務停產會對歐洲鋼鐵市場產生重大影響。"
+    },
+    {
+      "id": "5196994",
+      "time": "2026-11-05 23:47:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME三個月期銅<CMCU3>跌至每噸13,816.50美元，為8月3日以來最低；最新下跌1.3%。"
+    },
+    {
+      "id": "5196993",
+      "time": "2026-11-05 23:47:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：很難區分供給驅動型衝擊和需求驅動型衝擊。"
+    },
+    {
+      "id": "5196992",
+      "time": "2026-11-05 23:47:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：能源衝擊與人工智慧正朝相反方向拉動，當前形勢因此變得艱難。"
+    },
+    {
+      "id": "5196991",
+      "time": "2026-11-05 23:47:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指跌2.04%，現報52267.691點；納指跌4.86%，現報24486.366點；標普500指數跌3.14%，現報7447.470點。"
+    },
+    {
+      "id": "5196990",
+      "time": "2026-11-05 23:46:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "羅素2000指數下跌2.5%，有望創下6月5日以來最大單日跌幅。"
+    },
+    {
+      "id": "5196989",
+      "time": "2026-11-05 23:46:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內跌4%，現報339360.00元。"
+    },
+    {
+      "id": "te:markets:598718",
+      "time": "2026-11-05 23:45:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "European Natural Gas Prices Rebound from 2-Week Low — European natural gas prices rebounded to around €90/MWh from a two-week low of €88 on November 4, as persistent supply constraints continued to underpin the market. Despite the recent decline from record levels above €100/MWh, Europe’s energy balance remains fragile, with LNG deliveries from the Persian Gulf still disrupted by the Iran conflict. Tehran reported that a tanker had struck a mine in the Strait of Hormuz, while discussions with Oman are underway to restore shipping traffic. The conflict removed nearly a fifth of global LNG exports, leaving European inventories unusually low ahead of winter and intensifying competition with Asian buyers. EU storage levels have fallen to 74%, compared with a five-year seasonal average of 90%, while Germany’s reserves are below 61%. Colder temperatures and weaker wind and solar generation have increased withdrawals. Also, Norwegian pipeline supplies remain below capacity due to outages."
+    },
+    {
+      "id": "5196988",
+      "time": "2026-11-05 23:45:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數跌3.00%，現報7457.890點；道指跌1.91%，現報52335.941點；納指跌4.67%，現報24535.169點。"
+    },
+    {
+      "id": "5196987",
+      "time": "2026-11-05 23:45:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【費城半導體指數日內跌10%】費城半導體指數日內跌10.02%，現報9239.93點。英偉達跌7.73%，博通跌8.12%，美光跌14.48%，英特爾跌7.86%，AMD跌15.25%，高通跌12.59%，臺積電跌8.91%，阿斯麥跌7.80%。"
+    },
+    {
+      "id": "5196986",
+      "time": "2026-11-05 23:43:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟加強對Nebius、IREN和Nscale的監管。"
+    },
+    {
+      "id": "5196985",
+      "time": "2026-11-05 23:43:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟資料中心延期與得克薩斯州IREN站點有關。"
+    },
+    {
+      "id": "5196984",
+      "time": "2026-11-05 23:43:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟因資料中心交付延遲與成本上升而對新興雲服務商態度轉冷，微軟已退出三個Nscale專案。"
+    },
+    {
+      "id": "te:markets:598717",
+      "time": "2026-11-05 23:43:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Belgium",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Anheuser-Busch Shares Hit 7-year High — Anheuser-Busch shares increased to 76.32 EUR, the highest since October 2019. Over the past 4 weeks, Anheuser-Busch gained 12.82%, and in the last 12 months, it increased 39.96%."
+    },
+    {
+      "id": "te:markets:598716",
+      "time": "2026-11-05 23:42:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Tech Shares Sink — The S&P 500 tumbled 3.4%, while the Nasdaq plunged 5.3%, officially entering correction territory. The Dow Jones also shed more than 1300 points on Thursday, wiping out the previous session’s gains, as a sharp sell-off in technology stocks weighed heavily on the broader market. The rotation away from AI-related and technology stocks continued, amid concerns that the Democrats’ victory could pave the way for tighter regulation of US data centres and AI, potentially dampening demand for semiconductors. Chipmakers came under heavy selling pressure, with Nvidia falling 7.5%, Broadcom dropping 7.6%, Micron declining more than 13%, AMD plunging 15% and Applied Materials losing 11%. Tesla also extended losses, falling 11%. Meanwhile, Qualcomm plunged 12% after issuing a lacklustre profit forecast. Consumer discretionary, industrials and communication services stocks also came under significant pressure, while consumer staples proved more resilient, outperforming the broader market."
+    },
+    {
+      "id": "5196983",
+      "time": "2026-11-05 23:42:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：有報道稱美軍已做好準備，隨時聽從特朗普命令對伊朗展開大規模作戰行動。"
+    },
+    {
+      "id": "5196982",
+      "time": "2026-11-05 23:41:00",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根士丹利股價也創下2月份以來最大跌幅，下跌5.6%。"
+    },
+    {
+      "id": "5196981",
+      "time": "2026-11-05 23:40:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股費城銀行指數跌2%。"
+    },
+    {
+      "id": "te:markets:598715",
+      "time": "2026-11-05 23:39:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Citigroup Shares Hit 24-week Low — Citigroup shares decreased to 119.93 USD, the lowest since May 2026. Over the past 4 weeks, Citigroup lost 6.46%, and in the last 12 months, it increased 18.25%."
+    },
+    {
+      "id": "5196980",
+      "time": "2026-11-05 23:39:13",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛股價創2月以來最大跌幅，下跌5.9%。"
+    },
+    {
+      "id": "5196978",
+      "time": "2026-11-05 23:38:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "L3Harris Technologies完成10億美元票據發行，包括5億美元2029年到期、利率5.200%的票據，以及5億美元2032年到期、利率5.400%的票據。"
+    },
+    {
+      "id": "5196977",
+      "time": "2026-11-05 23:36:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【里士滿聯儲行長：加息應保持循序漸進步伐】里士滿聯儲行長巴爾金週四表示支援以漸進步伐加息，但沒有就利率最終需要升至多高釋放訊號。“如果你認為當前世界存在不確定性，而且認為在此期間還會獲得新的資訊，那麼循序漸進是合理的，”巴爾金在北卡羅來納州夏洛特舉行的一場會議上表示。“我認為，這仍然是對我而言合理的步伐”巴爾金表示，通脹目前仍是美聯儲面臨的最大風險，但他希望美聯儲9月加息的決定，以及“我們未來可能選擇採取的任何其他行動，都能產生一定影響”，緩解高企的價格壓力巴爾金還表示，加息不會立即影響油價，但隨著時間推移，可以透過給需求降溫來影響油價巴爾金表示，“我不認為制約或減少AI投資的首要因素會是利率，投資者的資產負債表上有大量現金。我們正在經歷一場可能具有歷史意義的變革，而人們都希望參與其中”"
+    },
+    {
+      "id": "5196976",
+      "time": "2026-11-05 23:36:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "福特汽車土耳其公司第三季度淨利潤83.5億里拉，市場預期為77.1億里拉。"
+    },
+    {
+      "id": "5196975",
+      "time": "2026-11-05 23:35:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所三個月期錫價格跌至每噸45,985美元，為4月7日以來最低；最新下跌2%。"
+    },
+    {
+      "id": "te:economy:598714",
+      "time": "2026-11-05 23:35:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Natural Gas Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Stocks Rise Less Than Expected — US energy companies added 77 billion cubic feet (bcf) of natural gas to storage in the week ended October 30, below market expectations for an injection of 81 bcf. Total gas inventories rose to 3.801 trillion cubic feet, standing 2.8% below year-earlier levels but 1.4% above the five-year average for this time of year. The latest figures followed an injection of 80 bcf in the previous week ended October 23."
+    },
+    {
+      "id": "5196974",
+      "time": "2026-11-05 23:35:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲科技股下跌3.3%。"
+    },
+    {
+      "id": "5196973",
+      "time": "2026-11-05 23:34:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數<.STOXX>當日下跌0.23%。"
+    },
+    {
+      "id": "5196972",
+      "time": "2026-11-05 23:32:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）公佈天然氣庫存增幅略低於預期後，美國天然氣期貨價格基本持平。"
+    },
+    {
+      "id": "5196971",
+      "time": "2026-11-05 23:32:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國安理會透過主席宣告 強調加強外交在武裝衝突中的作用】當地時間11月5日，聯合國安理會一致透過“加強外交在武裝衝突中的作用”的主席宣告。該宣告草案由巴基斯坦起草，強調即使武裝衝突已經爆發，各方仍應保持外交接觸，這對於控制衝突升級、推動停止敵對行動和實現停火，以及創造有利於透過和平政治方式解決爭端的條件，具有重要意義。這也是安理會首次專門透過強調以外交手段控制和緩和正在發生的武裝衝突的檔案。（央視新聞）"
+    },
+    {
+      "id": "5196970",
+      "time": "2026-11-05 23:30:46",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "標普500指數與納斯達克指數跌至7月下旬以來的最低水平，兩大指數均將創下五個月來最大單日跌幅。"
+    },
+    {
+      "id": "5196969",
+      "time": "2026-11-05 23:30:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "兩年期美國國債收益率觸及9月10日以來最低水平，隨後跌幅收窄，最新下跌2.31個基點，至4.558%。"
+    },
+    {
+      "id": "te:markets:598711",
+      "time": "2026-11-05 23:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: France 10Y Bond Yield Falls by 8 bps — Government bonds yields are lower on Thursday. Top losers are France 10Y (-8.38bps), South Korea 10Y (-7.60bps), New Zealand 10Y (-7.07bps), Japan 10Y (-5.78bps), Germany 10Y (-3.33bps) and US 10Y (-1.80bps)."
+    },
+    {
+      "id": "5196968",
+      "time": "2026-11-05 23:30:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至10月30日當週EIA天然氣庫存 770億立方英尺，預期810億立方英尺，前值800億立方英尺。"
+    },
+    {
+      "id": "5196967",
+      "time": "2026-11-05 23:29:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美股恐慌指數VIX飆升逾47% 突破24關口創4月7日以來新高】美國股市波動率顯著上升，標普500波動率指數（VIX）報24.44點，大漲7.83點，漲幅達47.14%，盤中最高觸及24.44點，創4月7日以來新高。與此同時，美股三大指數集體下跌，道指跌1.50%，標普500指數跌2.65%，納指綜合指數跌4.25%。"
+    },
+    {
+      "id": "5196966",
+      "time": "2026-11-05 23:28:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【塞爾維亞航空一航班收到炸彈威脅】當地時間11月5日，塞爾維亞航空公司釋出公告稱，一架從該國貝爾格萊德飛往羅馬尼亞布加勒斯特的塞爾維亞航空航班收到炸彈威脅，飛機目前已安全降落。羅馬尼亞相關部門隨後執行了後續檢查程式。（央視新聞）"
+    },
+    {
+      "id": "5196965",
+      "time": "2026-11-05 23:28:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克100指數跌幅擴大至5.1%，標普500指數下跌2.8%。"
+    },
+    {
+      "id": "5196964",
+      "time": "2026-11-05 23:28:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯麥控股跌7.9%。"
+    },
+    {
+      "id": "5196963",
+      "time": "2026-11-05 23:27:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "費城半導體指數跌幅擴大至9.4%。"
+    },
+    {
+      "id": "5196962",
+      "time": "2026-11-05 23:26:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元AUD/USD日內跌超0.50%，現報0.6969。"
+    },
+    {
+      "id": "5196961",
+      "time": "2026-11-05 23:26:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：俄羅斯襲擊了與核電站相關的能源設施。"
+    },
+    {
+      "id": "5196960",
+      "time": "2026-11-05 23:26:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "META股價下跌5.7%，至兩個月低點。"
+    },
+    {
+      "id": "5196959",
+      "time": "2026-11-05 23:26:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京會見雷扎伊】俄羅斯總統普京今天（11月5日）在克里姆林宮會見了正在莫斯科訪問的伊朗最高國家安全委員會秘書雷扎伊。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:598710",
+      "time": "2026-11-05 23:25:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Analog Devices Shares Hit 5-week Low — Analog Devices shares decreased to 381.86 USD, the lowest since September 2026. Over the past 4 weeks, Analog Devices lost 8.81%, and in the last 12 months, it increased 61.94%."
+    },
+    {
+      "id": "5196958",
+      "time": "2026-11-05 23:24:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌9%】費城半導體指數日內跌9.01%，現報9343.09點。英偉達跌7.56%，博通跌7.32%，美光跌12.52%，英特爾跌8.94%，AMD跌14.67%，高通跌9.93%，臺積電跌7.96%，阿斯麥跌7.24%。"
+    },
+    {
+      "id": "5196957",
+      "time": "2026-11-05 23:24:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱俄羅斯11月2日轟炸造成的死亡人數接近100人。"
+    },
+    {
+      "id": "5196956",
+      "time": "2026-11-05 23:24:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世行：最不發達國家外債成本創下近40年來新高】當地時間11月5日，世界銀行釋出報告稱，最不發達國家面臨自1989年以來最高的外部債務成本。2025年，發展中國家外債攀升至創紀錄的9.4萬億美元。（央視新聞）"
+    },
+    {
+      "id": "5196955",
+      "time": "2026-11-05 23:23:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌4.00%，現報24706.469點；道指跌1.30%，現報52664.961點；標普500指數跌2.39%，現報7504.660點。"
+    },
+    {
+      "id": "5196954",
+      "time": "2026-11-05 23:22:33",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達跌幅擴大至7.3%，為2025年4月以來最大跌幅。"
+    },
+    {
+      "id": "5196953",
+      "time": "2026-11-05 23:21:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "Ormat執行長：新地熱購電協議價格仍高於每兆瓦時100美元。"
+    },
+    {
+      "id": "5196952",
+      "time": "2026-11-05 23:20:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊朗最高領袖代表、最高國家安全委員會秘書穆赫辛·雷扎伊在莫斯科會見俄羅斯總統普京，並向普京轉達了最高領袖的口信。"
+    },
+    {
+      "id": "5196951",
+      "time": "2026-11-05 23:17:59",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "隨著美股下挫，恐慌指數VIX飆升5點，至22.6點。"
+    },
+    {
+      "id": "5196950",
+      "time": "2026-11-05 23:17:51",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "惠譽將30家法國政府相關實體的評級展望調整為負面。"
+    },
+    {
+      "id": "5196949",
+      "time": "2026-11-05 23:17:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大自然資源公司執行長在電話會議上表示，跨山管道的減阻劑專案目前正助力提升管道運力。"
+    },
+    {
+      "id": "5196948",
+      "time": "2026-11-05 23:17:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞地質公園專案計劃於2027年啟動石油壓裂作業。"
+    },
+    {
+      "id": "5196947",
+      "time": "2026-11-05 23:16:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基與歐洲理事會主席會晤 磋商烏克蘭入盟等事宜】當地時間11月5日，烏克蘭總統澤連斯基表示，他與歐洲理事會主席科斯塔舉行會晤，雙方重點磋商烏克蘭加入歐盟談判程序、推動歐洲一體化的新方案，以及阿布扎比烏美俄三方會晤的籌備事宜。澤連斯基提出，歐洲應當參與烏克蘭安全保障和戰後重建相關談判，這一主張得到科斯塔支援。（央視）"
+    },
+    {
+      "id": "5196946",
+      "time": "2026-11-05 23:16:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股儲存板塊跌勢進一步擴大 閃迪跌超17% 美光跌逾12%】美股儲存板塊持續遭遇拋售，費城半導體指數跌8.31%。個股方面，閃迪跌幅擴大至17.09%，鎧俠ADR跌15.20%，美光科技跌12.57%，西部資料跌13.48%，希捷科技跌13.43%，SK海力士跌10.80%。儲存晶片及硬碟產業鏈全線重挫。"
+    },
+    {
+      "id": "5196945",
+      "time": "2026-11-05 23:15:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "COREWEAVE股價跌至2025年4月以來的最低點，下跌11%。"
+    },
+    {
+      "id": "5196944",
+      "time": "2026-11-05 23:15:20",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "克利夫蘭聯儲主席哈馬克：勞動力市場可能走強。"
+    },
+    {
+      "id": "5196943",
+      "time": "2026-11-05 23:13:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【英偉達股價下挫7% 總市值跌至4.5萬億美元】英偉達股價下跌6.7%，報186.730美元/股，總市值報4.50萬億美元。"
+    },
+    {
+      "id": "5196942",
+      "time": "2026-11-05 23:13:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國防部與6K公司簽署2.5億美元有條件貸款承諾。"
+    },
+    {
+      "id": "5196941",
+      "time": "2026-11-05 23:12:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國防部：向6K公司提供貸款，用於擴大鎳錳鈷正極材料產量。"
+    },
+    {
+      "id": "5196940",
+      "time": "2026-11-05 23:12:38",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "沙特領導的聯軍稱在東部地區攔截了一架無人機。"
+    },
+    {
+      "id": "5196939",
+      "time": "2026-11-05 23:12:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破77000美元，日內跌4.48%。"
+    },
+    {
+      "id": "te:markets:598709",
+      "time": "2026-11-05 23:12:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Schneider Electric Shares Hit 31-week Low — Schneider Electric shares decreased to 226.80 EUR, the lowest since March 2026. Over the past 4 weeks, Schneider Electric lost 12.89%, and in the last 12 months, it decreased 3.5%."
+    },
+    {
+      "id": "5196938",
+      "time": "2026-11-05 23:11:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指跌1.00%，現報52820.121點；納指跌3.72%，現報24778.571點；標普500指數跌2.11%，現報7526.570點。"
+    },
+    {
+      "id": "5196937",
+      "time": "2026-11-05 23:11:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數跌幅擴大至2%；納斯達克100指數下跌4.3%。"
+    },
+    {
+      "id": "5196936",
+      "time": "2026-11-05 23:11:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "STX：美國商品期貨交易委員會批准STX成為受監管的預測市場構建商交易所和清算所。"
+    },
+    {
+      "id": "5196935",
+      "time": "2026-11-05 23:10:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克表示，波蘭與歐盟在法院爭端上的“情緒化階段”已接近尾聲。"
+    },
+    {
+      "id": "5196934",
+      "time": "2026-11-05 23:10:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【費城半導體指數日內跌8%】費城半導體指數日內跌8.00%，現報9447.10點。英偉達跌6.22%，博通跌6.27%，美光跌11.80%，英特爾跌8.12%，AMD跌13.11%，高通跌9.40%，臺積電跌7.18%，阿斯麥跌6.60%。"
+    },
+    {
+      "id": "5196933",
+      "time": "2026-11-05 23:10:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "以太坊跌破2300美元，日內跌5.30%。"
+    },
+    {
+      "id": "5196932",
+      "time": "2026-11-05 23:10:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數跌2.01%，現報7533.950點；道指跌0.96%，現報52843.289點；納指跌3.53%，現報24828.173點。"
+    },
+    {
+      "id": "5196931",
+      "time": "2026-11-05 23:10:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "BLOOM ENERGY股價下跌18%，創6月26日以來最大單日跌幅。"
+    },
+    {
+      "id": "5196930",
+      "time": "2026-11-05 23:10:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【晶片股拋售加劇 納斯達克100指數下跌逾3%】晶片股跌勢加劇，投資者正在評估民主黨橫掃國會可能對AI交易帶來的影響。AI主題此前一直是推動美股牛市的重要動力。衡量晶片巨頭表現的一項指數較6月創下的紀錄高點累計下跌35%。高通和Arm Holdings釋出的業績展望未能令華爾街滿意。納斯達克100指數下跌3.5%。蘋果計劃透過發行投資級債券籌資約70億美元，用於支援股票回購，為近期美國科技巨頭密集發債再添一筆。特斯拉股價跌10%。隨著資金輪動至防禦性更強的行業，標普500指數中多數成分股上漲。美國就業報告公佈前，投資者湧向避險資產，推動美國國債走高。布倫特原油升至每桶97美元。美國中期選舉後，油價上一交易日大幅下挫，交易員目前正在重新評估市場形勢。"
+    },
+    {
+      "id": "5196929",
+      "time": "2026-11-05 23:09:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "South Bow在電話會議上預計，到2027年末，加拿大西部石油產量的增長將開始超過新增管道的運力。"
+    },
+    {
+      "id": "5196928",
+      "time": "2026-11-05 23:08:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "克利夫蘭聯儲主席哈馬克：8次FOMC會議中降為6次將是一個溫和的調整。"
+    },
+    {
+      "id": "5196927",
+      "time": "2026-11-05 23:07:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "Verisk Analytics股價在第三季度業績超預期後上漲6.9%。"
+    },
+    {
+      "id": "5196926",
+      "time": "2026-11-05 23:07:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【特斯拉一度暴跌10% 市場擔憂民主黨將阻礙馬斯克擴張商業帝國】特斯拉股價再度下跌，市場日益擔憂民主黨在本週選舉中的勝利將阻礙馬斯克擴大其商業帝國。紐約週四開盤後不久，特斯拉股價一度暴跌10%，週三已下跌3.3%。今年以來，特斯拉股價累計下跌約23%。週四紐約時間上午9:59，SpaceX下跌7.5%。"
+    },
+    {
+      "id": "5196925",
+      "time": "2026-11-05 23:07:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度中小微企業部與三星印度簽署為期三年的協議。"
+    },
+    {
+      "id": "5196924",
+      "time": "2026-11-05 23:07:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克綜合指數較10月6日的歷史收盤高點下跌逾10%。"
+    },
+    {
+      "id": "5196923",
+      "time": "2026-11-05 23:06:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "隨著美股下挫，恐慌指數VIX飆升4點，至21點。"
+    },
+    {
+      "id": "te:markets:598708",
+      "time": "2026-11-05 23:05:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Altria Shares Hit 52-1/2-year High — Altria shares increased to 79.86 USD, the highest since May 1974. Over the past 4 weeks, Altria gained 17.49%, and in the last 12 months, it increased 39.52%."
+    },
+    {
+      "id": "te:markets:598707",
+      "time": "2026-11-05 23:05:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "McDonalds Shares Hit 17-week High — McDonalds shares increased to 281.22 USD, the highest since July 2026. Over the past 4 weeks, McDonalds gained 20.4%, and in the last 12 months, it decreased 8.2%."
+    },
+    {
+      "id": "5196922",
+      "time": "2026-11-05 23:05:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "貓途鷹股價下跌18.2%，此前公司公佈第三季度業績，執行長馬特·戈德堡宣佈將卸任。"
+    },
+    {
+      "id": "5196921",
+      "time": "2026-11-05 23:04:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic對20.7萬次Claude會話開展人工智慧用於科學研究的情況分析。"
+    },
+    {
+      "id": "5196920",
+      "time": "2026-11-05 23:04:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "DOORDASH股價下跌近14%，創近一年來最大單日跌幅。"
+    },
+    {
+      "id": "5196919",
+      "time": "2026-11-05 23:04:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾和諾德：高管馬丁·霍爾斯特·朗格出售公司股票，合計出售金額為340萬丹麥克朗。"
+    },
+    {
+      "id": "5196918",
+      "time": "2026-11-05 23:03:49",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "瑞典央行行長泰登：10月初值CPI顯示，10月通脹率顯著低於我們9月的預測。"
+    },
+    {
+      "id": "5196917",
+      "time": "2026-11-05 23:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "費城半導體指數跌7.2%，創4月20日以來新低。"
+    },
+    {
+      "id": "te:markets:598706",
+      "time": "2026-11-05 23:03:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Volatile Following Post-US Elections Rally — The S&P/TSX Composite Index fluctuated around 36,000 on Thursday, following Wednesday’s rally after the US midterm election results. The Democrats’ gains give them a stronger platform to challenge President Trump’s trade policies. However, they still lack the votes needed to override a presidential veto on efforts to reverse tariffs or revoke trade authorities. Among major exporters, Enbridge gained 1%, while Nutrien rose more than 0.5% despite missing profit expectations. In contrast, Magna International fell more than 0.5%, and BRP edged lower. Major banks traded mostly near flat as a rebound in oil prices renewed concerns about energy-driven inflation. Technology stocks underperformed, with Shopify falling nearly 5% and Celestica tumbling 6.5% amid a broader tech sell-off on Wall Street. Elsewhere, Canadian Natural rose 1.5% after beating third-quarter profit estimates, supported by higher crude prices and stronger production. Mining stocks also advanced amid higher gold prices."
+    },
+    {
+      "id": "5196916",
+      "time": "2026-11-05 23:03:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "據俄羅斯方面訊息，俄羅斯稱在黑海擊中一艘貨船。"
+    },
+    {
+      "id": "5196915",
+      "time": "2026-11-05 23:02:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：波蘭通常不會在12月調整利率。"
+    },
+    {
+      "id": "5196914",
+      "time": "2026-11-05 23:02:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行行長泰登：我們知道單月通脹資料可能存在波動。"
+    },
+    {
+      "id": "5196913",
+      "time": "2026-11-05 23:02:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽將達美航空高階票據評級定為“BBB”。"
+    },
+    {
+      "id": "te:markets:598705",
+      "time": "2026-11-05 23:02:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Rheinmetall earnings below expectations at 5.98 EUR — Rheinmetall (RHM) released earnings per share at 5.98 EUR, compared to market expectations of 6.99 EUR."
+    },
+    {
+      "id": "te:markets:598704",
+      "time": "2026-11-05 23:02:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Targa Resources earnings below expectations at 2.76 USD — Targa Resources (TRGP) released earnings per share at 2.76 USD, compared to market expectations of 2.85 USD."
+    },
+    {
+      "id": "te:markets:598703",
+      "time": "2026-11-05 23:02:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "TransCanada earnings above expectations at 0.94 CAD — TransCanada (TRP) released earnings per share at 0.94 CAD, compared to market expectations of 0.83 CAD."
+    },
+    {
+      "id": "te:markets:598702",
+      "time": "2026-11-05 23:02:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Anglogold Ashanti earnings below expectations at 1.54 USD — Anglogold Ashanti (ANG) released earnings per share at 1.54 USD, compared to market expectations of 2.01 USD."
+    },
+    {
+      "id": "5196912",
+      "time": "2026-11-05 23:02:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行行長泰登：10月通脹低於我們9月的預測。"
+    },
+    {
+      "id": "5196911",
+      "time": "2026-11-05 23:01:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：更新版Events功能將在未來數週內逐步推出。"
+    },
+    {
+      "id": "5196910",
+      "time": "2026-11-05 23:01:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破78000美元，日內跌3.17%。"
+    },
+    {
+      "id": "5196909",
+      "time": "2026-11-05 23:01:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta將在WhatsApp上推出活動新功能。"
+    },
+    {
+      "id": "5196908",
+      "time": "2026-11-05 23:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際金融協會(IIF)表示：受人工智慧（AI）相關擔憂影響，韓國股市10月有146億美元資金流出。10月外國投資者從新興市場投資組合淨撤出338億美元，為3月以來最大規模的資金流出。"
+    },
+    {
+      "id": "5196907",
+      "time": "2026-11-05 23:01:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際金融協會（IIF）：10月新興市場股票資金流出317億美元，債券資金流出21億美元；"
+    },
+    {
+      "id": "5196906",
+      "time": "2026-11-05 23:00:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Humble Robotics完成5100萬美元A輪融資。"
+    },
+    {
+      "id": "5196905",
+      "time": "2026-11-05 23:00:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國10月全球供應鏈壓力指數 1.28，前值1.28。"
+    },
+    {
+      "id": "5196904",
+      "time": "2026-11-05 23:00:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國陸軍授予Pega一份為期十年的企業合同，以加速業務現代化。"
+    },
+    {
+      "id": "te:markets:598701",
+      "time": "2026-11-05 23:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CME Shares Hit 30-week High — CME shares increased to 311.40 USD, the highest since April 2026. Over the past 4 weeks, CME gained 15.18%, and in the last 12 months, it increased 16.05%."
+    },
+    {
+      "id": "te:markets:598700",
+      "time": "2026-11-05 23:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Drops by 0.58% — Top currency losers are Swedish Krona (-0.58%), South Korean Won (-0.54%), Brazilian Real (-0.41%), Euro (-0.12%) and British Pound (-0.07%). Gains are led by Japanese Yen (0.22%). Meanwhile Dollar Index was little changed."
+    },
+    {
+      "id": "5196903",
+      "time": "2026-11-05 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】液化石油氣連續跌4.46%，聚丙烯連續跌4.01%，焦炭連續漲2.80%，乙二醇連續跌2.33%，菜粕連續漲2.16%。"
+    },
+    {
+      "id": "5196901",
+      "time": "2026-11-05 22:59:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數抹去漲幅。"
+    },
+    {
+      "id": "5196900",
+      "time": "2026-11-05 22:58:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯軍事情報總局局長科斯秋科夫參加了俄羅斯總統普京與伊朗方面的會晤。"
+    },
+    {
+      "id": "5196899",
+      "time": "2026-11-05 22:57:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基重申，他反對波蘭加入歐元區。"
+    },
+    {
+      "id": "te:markets:598694",
+      "time": "2026-11-05 22:56:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss Bond Yields Hold Near 2-Month Low — The Swiss 10-year government bond yield fell to around 0.45%, close to its lowest level in just over two months, while markets assess a Democratic takeover of the US congress, which could lead to political gridlock and raised the prospect of fiscal restraint in the US. It could also affect President Trump’s foreign policy agenda, particularly his approach to the war with Iran, while expectations of tighter regulation of the AI buildout lifted safe-haven demand. Further support came from SNB Chairman Schlegel’s remarks, which reinforced expectations that Swiss inflationary pressures remain contained and are largely driven by higher gasoline, diesel and heating oil prices since the outbreak of the US-Iran conflict. Swiss inflation reached a near three-year high of 1.5% in October, also reflecting a weaker franc. The SNB kept its policy rate unchanged at 0%. While markets anticipate a hike in early 2027, economists expect the first increase only in late 2027."
+    },
+    {
+      "id": "te:economy:598683",
+      "time": "2026-11-05 22:37:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Tunisia",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Tunisia Inflation Rate Holds at 1-1/2-Year High — Tunisia’s annual inflation rate stood at 5.6% in October 2026, unchanged from the previous month and remaining at its highest level since April 2025. Food and non-alcoholic beverage prices continued to drive inflation, accelerating to 8.5% from 8.4% in September, amid sharp increases in fresh fruit (20%), lamb (14.7%), poultry (14.5%), beef (13%), vegetables (12.9%) and fish (8.9%). Price growth also remained elevated for clothing & footwear (9.1% vs 9.2%); restaurants & hotels (6.2% vs 6.5%); education (5.5% vs 5.5%) and furnihings & household equipment (4.7% vs 4.8%). On a monthly basis, the CPI rose by 0.7% in October, after a 0.8% increase in the month earlier."
+    },
+    {
+      "id": "em:qqyh_mlc:202611053923847361",
+      "time": "2026-11-05 22:22:51",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲巴爾金表示，在我看來，逐步加息仍然是合理的。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611053923813033",
+      "time": "2026-11-05 21:52:29",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲哈馬克：漸進式加息是推動通脹迴歸2%的最佳路徑】美聯儲官員哈馬克表示，貨幣政策需要轉向限制性立場，漸進式加息對經濟和金融體系的衝擊較小，也是推動通脹迴歸2%的最佳路徑。她指出，美國通脹水平仍然過高，且走勢正在朝錯誤方向發展。哈馬克還表示，美聯儲獨立性對於實現2%的通脹目標至關重要，美元仍是全球主要儲備貨幣，其地位得益於美國的制度和法律體系。"
+    },
+    {
+      "id": "te:economy:598659",
+      "time": "2026-11-05 21:37:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Czech Central Bank Hikes Key Rate to 4% — The Czech National Bank raised its repo rate by 25 basis points to 4% at its November 2026 meeting, as expected, marking the highest level in borrowing costs since early 2025. Headline inflation eased slightly to 2.4% in October from 2.5% in September, according to preliminary estimates. However, strong domestic demand, higher energy prices and food costs continue to pose upside risks. Although inflation remains within the CNB’s 1%-3% tolerance range, it is expected to peak at an average of 3.5% in the first quarter of 2027 and then resume its decline. With price stability remaining the central bank’s priority, core inflation also remains a concern, having reached 3.1% in September, above the upper end of its tolerance range. The CNB raised its inflation forecast to 2.1% for 2026 and 3.2% for 2027, while lowering its 2028 projection to 2.3%. Meanwhile, GDP growth is expected to slow to 1.7%, down from the previous 2.2% forecast, before recovering to 2.5% in both 2027 and 2028."
+    },
+    {
+      "id": "te:economy:598658",
+      "time": "2026-11-05 21:36:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Unit Labour Costs QoQ",
+        "Importance 1"
+      ],
+      "text": "US Labor Costs Fall in Q3 — Unit labor costs in the US nonfarm business sector decreased 0.7% in the third quarter of 2026, missing market expectations of a 0.6% increase, preliminary data showed. Hourly compensation rose 2.9%, while labor productivity grew 3.6%. In the total manufacturing sector, unit labor costs increased 2.7%, as hourly compensation increased 3% and labor productivity increased 0.3%. On a year-over-year basis, unit labor costs in the nonfarm business sector rose 2.4%, while manufacturing unit labor costs surged 4%."
+    },
+    {
+      "id": "te:economy:598655",
+      "time": "2026-11-05 21:34:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Initial Jobless Claims",
+        "Importance 2"
+      ],
+      "text": "US Jobless Claims Match July's 57-Year Low — Initial jobless claims in the US fell by 6,000 to 189,000 in the final week of October, below market expectations of 196,000 and down from a revised 195,000 in the previous week. The reading matched the 57-year low recorded in mid-July, pointing to continued labor market resilience despite mounting economic headwinds. Robust corporate profits and resilient domestic demand are helping limit layoffs, while employers remain cautious about staffing changes amid uncertainty over the Iran war, elevated energy costs, Fed policy and trade policy. Meanwhile, continuing claims increased by 23,000 to 1.718 million in the week ended October 24."
+    },
+    {
+      "id": "te:economy:598654",
+      "time": "2026-11-05 21:33:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Nonfarm Productivity QoQ",
+        "Importance 2"
+      ],
+      "text": "US Q3 Productivity Stronger than Anticipated — US nonfarm business sector labor productivity climbed by 3.6% in the third quarter of 2026, marking the strongest increase since Q3 2025 and comfortably beating expectations of a 2.8% rise. The figure also marked an acceleration from the upwardly revised 2.1% gain in Q2. The improvement was driven by a 3.7% increase in output, while hours worked rose just 0.1%, pointing to stronger production relative to labour input. In the manufacturing sector, productivity rose 0.3%, as a 2.2% increase in durable goods productivity was partly offset by a 1.7% decline in nondurable goods. Durable goods productivity benefited from a 3.8% increase in output against a 1.6% rise in hours worked, while nondurable goods output fell 1.6% and hours worked increased 0.1%. Compared with the same quarter a year earlier, nonfarm business productivity grew by 2.1%."
+    },
+    {
+      "id": "em:jjsj_mgsj:202611053923776963",
+      "time": "2026-11-05 21:30:38",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國上週首次申領失業救濟人數為18.9萬人 低於市場預期】美國上週首次申領失業救濟人數為18.9萬人，預估為19.6萬人，前值為19.4萬人。"
+    },
+    {
+      "id": "te:economy:598653",
+      "time": "2026-11-05 21:14:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Brazil Services Activity Contracts at Fastest Pace Since — The headline S&P Global Brazil Services Business Activity Index fell to 44.5 in October 2026 from 49.2 in September, signaling the sharpest contraction in output since April 2021. The downturn was driven by a further decline in new business inflows, marking the second consecutive monthly decrease. Sales fell at the fastest pace in more than five years, as weak demand weighed on business sentiment among service providers. Although growth expectations remained positive, overall confidence slipped from September. Softer demand also affected employment, with spare capacity prompting further job cuts across Brazil's services sector. On the price front, cost pressures eased in October but remained steep by historical standards. Meanwhile, prices charged for services increased at the slowest pace since mid-2025, although the rate of inflation remained above its long-run average."
+    },
+    {
+      "id": "te:economy:598651",
+      "time": "2026-11-05 21:05:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Brazil Private Sector Contracts the Most in Over 6 Years — The S&P Global Composite PMI for Brazil fell to 44.4 in October 2026, the lowest in over six years, from 47.4 in September, signalling a fourth consecutive month of contraction in the Brazilian private sector. The downturn was broad-based across manufacturing and services, with aggregate activity dropping at the steepest pace since the period before late 2020. New business also fell the most since mid-2020. Manufacturers reported sharper declines in sales and output than service providers, although their rates of reduction eased from September. Weaker workloads led firms to cut headcounts, but the fall in employment was only marginal, while backlogs of work declined substantially. On the price front, input costs and output charges rose at softer rates than in September, although both remained above their long-run averages. Cost pressures were stronger in services, while manufacturers raised their selling prices at a faster pace."
+    },
+    {
+      "id": "em:qqyh_mlc:202611053923713160",
+      "time": "2026-11-05 20:22:57",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【特朗普中期選舉受挫 美聯儲主席沃什或卸下政治束縛】特朗普週二在中期選舉中遭到選民廣泛否定，可能反而為美聯儲主席凱文沃什卸下一層政治壓力，使他能夠減少政治因素的干擾，將更多精力放在遏制通脹上。"
+    },
+    {
+      "id": "te:economy:598622",
+      "time": "2026-11-05 20:11:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Private Investment YoY",
+        "Importance 1"
+      ],
+      "text": "Mexico Fixed Investment Rises Below Expectations — Mexico’s gross fixed investment increased 5.7% year-on-year in August 2026, easing from a 6.6% rise in July and coming in below market expectations of a 6.5% gain. This marks a fifth consecutive month of expansion, albeit at a softer pace as investment growth slowed in the private sector (4.8% vs 6.7%). By contrast, investment in the public sector surged 11.1% following a 6.2% rise. Investment growth in machinery and equipment slowed to 3.5% from 6.2%, largely due to a persistent decline in domestic capital of transport equipment (-1.1%) and a slowdown in foreign capital growth (5.2% vs 11.5%). Contruction investment growth accelerated to 7.6% from 7.1%, driven by a 6.4% rise in non-residential construction and a 8.9% increase in residential construction. In the first eight months of 2026, gross fixed investment increased 2.2% from the same period a year earlier. From the prior month, gross fixed investment fell 1.8%."
+    },
+    {
+      "id": "em:qqyh_ygyh:202611053923705063",
+      "time": "2026-11-05 20:08:32",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "英國央行Mann投反對票，主張加息50個基點至4.25%。"
+    },
+    {
+      "id": "te:economy:598620",
+      "time": "2026-11-05 20:05:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Consumer Confidence",
+        "Importance 2"
+      ],
+      "text": "Mexico Consumer Confidence Edges Down in October — Mexico’s consumer confidence fell 0.1 point to 45.0 in October 2026 from September, remaining negative. The decline was mild, as two of the five components improved. Expectations for households’ economic situation over the next 12 months rose 0.5 point to 58.2, while households’ willingness to purchase durable goods, such as furniture and appliances, edged up 0.3 point to 32.4. In contrast, households’ assessment of their current economic situation slipped 0.1 point to 51.8. Assessments of the country’s current economic situation declined 0.5 point to 38.5, and expectations for the country’s economic outlook over the next 12 months also fell 0.5 point to 44.3. Year over year, consumer confidence declined 0.6 point."
+    },
+    {
+      "id": "em:qqyh_ygyh:202611053923697754",
+      "time": "2026-11-05 20:05:00",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "交易員加大了對英國央行加息的押注，認為12月加息的可能性為35%。"
+    },
+    {
+      "id": "em:qqyh_ygyh:202611053923696757",
+      "time": "2026-11-05 20:03:29",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "【英國央行上調GDP增長預測 預計2026年為1.6%】英國央行上調GDP增長預測，預計2026年為1.6%，2027年為1.3%，2028年為1.2%；7月時預測，2026年為1.1%，2027年為1.1%，2028年為1.7%。"
+    },
+    {
+      "id": "te:economy:598618",
+      "time": "2026-11-05 20:03:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Interest Rate",
+        "Importance 3"
+      ],
+      "text": "BoE Raises Rates for 1st Time Since 2023 — The Bank of England voted by a majority of 8-1 to raise the key bank rate by 25bps to 4% in November 2026, in line with expectations. It is the first increase in borrowing costs since August 2023, with one policymaker, Catherine Mann, voting for a hike of 0.5 percentage points to 4.25%. UK inflation is now expected to rise to around 5% by the middle of next year from the current 3.5%. It is then projected to fall as the impact of rising energy prices fades, and still restrictive monetary policy bears down on inflation. In addition, activity data in recent months have generally been stronger than expected, adding to the case for modestly tighter monetary policy. Policymakers added that monetary policy is not on a pre-set path and the Committee will continue to assess the evidence at each meeting and will adjust Bank Rate as necessary to ensure CPI inflation returns to the 2% target in the medium term."
+    },
+    {
+      "id": "te:economy:598617",
+      "time": "2026-11-05 20:02:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uganda",
+        "Business Confidence",
+        "Importance 0"
+      ],
+      "text": "Uganda Business Confidence Hits Over 3-Year Low — Uganda’s Business Tendency Index fell to 53.5 in October 2026 from an upwardly revised 56.7 in September, its lowest reading since February 2023. Assessments weakened across most indicators, including the present business situation (50.3 vs 53.7), supplier order volumes (53.9 vs 57.7), current employment (47.9 vs 51.9), expected employment (54.6 vs 57.3), sector competition (70.8 vs 72.4), financial situation (47.1 vs 52.6), access to credit (38.9 vs 41.2), and current and future demand for services (50.9 vs 56.8 and 65.5 vs 70.9, respectively). The three-month business outlook also weakened (59.2 vs 62.3). Meanwhile, average selling prices (66.4 vs 61.5), stocks of finished products (48.1 vs 47.9), and order books (46.5 vs 41.9) increased. Across sectors, confidence declined in construction (39.8 vs 46.0), manufacturing (52.6 vs 53.1), wholesale trade (46.7 vs 49.2), financial services (77.7 vs 85.0), and other services (53.4 vs 59.7), while improving in agriculture (57.5 vs 56.4)."
+    },
+    {
+      "id": "em:qqyh_ygyh:202611053923694851",
+      "time": "2026-11-05 20:01:30",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "英國央行預測通脹將在2027年第二季度見頂於4.9%。"
+    },
+    {
+      "id": "em:qqyh_ygyh:202611053923693370",
+      "time": "2026-11-05 20:00:10",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "【英國央行三年來首次加息】英國央行加息25個基點至4.00%，為2023年8月以來首次加息，符合市場預期。"
+    },
+    {
+      "id": "te:economy:598615",
+      "time": "2026-11-05 19:35:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Israel",
+        "Tourist Arrivals",
+        "Importance 0"
+      ],
+      "text": "Israel Tourist Arrivals Slow in October — The number of tourist arrivals in Israel jumped 16.5% year-on-year to 150.1 thousand in October 2026, slowing from 19.2% in the previous month. Total visitor arrivals rose to 152.4 thousand from 131.2 thousand, while day visitors increased to 2.3 thousand from 2.4 thousand. In January-October, tourist arrivals totaled 938.6 thousand, down from 1,056.7 thousand in the same period of 2025. The US accounted for the largest share of arrivals at 34.4%, followed by France at 12.6%, the UK at 8.2%, and Russia at 4.8%."
+    },
+    {
+      "id": "te:economy:598614",
+      "time": "2026-11-05 19:14:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Serbia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Serbia Producer Inflation Rises for 3rd Month — Producer inflation in Serbia edged up to 10.6% year-on-year in October 2026 from 10.5% in September, matching its highest level since January 2023 and marking a third consecutive monthly acceleration. Inflation accelerated sharply in mining and quarrying (30.8% vs 24.1%) and manufacturing (13% vs 12%). In contrast, price growth slowed significantly in electricity, gas, steam and air conditioning supply (0.4% vs 3.8%), while easing slightly in water supply, sewerage, waste management and remediation activities (5.5% vs 5.8%). Compared to the previous month, producer prices edged up 0.6%, slowing from a 1.6% increase in the prior month."
+    },
+    {
+      "id": "te:economy:598612",
+      "time": "2026-11-05 19:12:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macedonia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "North Macedonia Trade Gap Narrows in September — North Macedonia’s trade deficit narrowed to $168 million in September 2026, the smallest since January 2021, from $303 million in the same month a year earlier. Exports jumped 23.9% year-on-year to $1,018 million, while imports rose a much slower 5.5% to $1,186 million. In the January-September period, exports rose 14.9% to $7,688 million, supported by chemicals and related products (22.7%), machinery and transport equipment (5.5%), and manufactured goods classified chiefly by material (10.2%). Exports grew to Bulgaria (22.1%), Serbia (21.7%), and Germany (5.2%). Meanwhile, imports climbed 12.0% to $10,666 million, driven by higher purchases of mineral fuels, lubricants and related materials (23.8%), manufactured goods classified chiefly by material (13.8%), and chemicals and related products (11.7%). Import growth was strongest from Great Britain (43.5%), Greece (56.7%), and China (9.0%). Over the first nine months of the year, the trade gap totaled $2,978 million."
+    },
+    {
+      "id": "te:economy:598602",
+      "time": "2026-11-05 18:43:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Challenger Job Cuts",
+        "Importance 2"
+      ],
+      "text": "US Job Cuts Hit a Three-Year Low for October — US-based employers announced 43,994 job cuts in October 2026, up 2% from 43,281 cuts in September, but down 71% from last year and the lowest for an October month since 2023. It is the eighth month this year in which cuts came in below the same month one year earlier. Food companies led all industries in the amount of cuts (9,677), followed by technology (5,576) and services (5,458). Through October, employers have announced 617,189 job cuts, down 44% year-on-year. It is the lowest year-to-date total through October since 2022, when 243,338 cuts were announced. The tech sector leads all industries with 171,501 cuts up 21% yoy. “This is a low-fire environment. Employers are holding on to the workers they have heading into the holidays, and the hiring they are announcing is largely short-term, seasonal work. Companies want the flexibility to meet holiday demand without adding permanent headcount,” said Andy Challenger, from Challenger, Gray & Christmas."
+    },
     {
       "id": "mkt:01a1ab4c-1c36-7ee0-aa8d-0a585c4dfa1b",
       "time": "2026-11-05 18:40:54",
