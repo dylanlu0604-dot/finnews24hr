@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-06 02:52:19",
-  "count": 11483,
+  "updated": "2026-11-06 02:56:11",
+  "count": 11482,
   "items": [
+    {
+      "id": "5197268",
+      "time": "2026-11-06 02:54:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【神秘賣方擬拋售5億美後設資料中心貸款】一筆規模約5億美元的資料中心貸款資產包進入拍賣流程，此類拍賣較為少見。待售貸款包含Vantage Data Centers、CyrusOne等運營商的相關債務，投標截止日期為11月19日，單筆投標最低金額1000萬美元。本次拍賣折射出在美國中期選舉結束後，市場對AI建設熱潮整體趨於悲觀，華爾街投資者質疑相關收入能否匹配鉅額投入。"
+    },
+    {
+      "id": "5197266",
+      "time": "2026-11-06 02:54:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特阿美：12月銷往亞洲的阿拉伯輕質原油官方售價定為貼水7美元/桶。"
+    },
+    {
+      "id": "5197265",
+      "time": "2026-11-06 02:52:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：神秘賣家擬折價出售5億美後設資料中心貸款。"
+    },
     {
       "id": "mkt:01a1ad0c-fcf2-7ee0-aa9a-59ec6bf95ad4",
       "time": "2026-11-06 02:51:11",
@@ -105649,45 +105673,6 @@
         "國際"
       ],
       "text": "【普京：俄方支援與歐盟國家恢復關係的任何步驟】俄羅斯總統普京當地時間10月29日表示，他與芬蘭總統斯圖布、挪威首相斯特勒於27日的通話討論了廣泛問題。普京說，斯圖布和斯特勒在通話開始時就強調，他們不代表歐盟，而代表各自國家。普京表示，俄方支援與歐盟國家恢復關係的任何步驟。(央視新聞)"
-    },
-    {
-      "id": "mkt:01a18904-efa3-7ee0-a9ed-6dfdaf99cb51",
-      "time": "2026-10-30 02:56:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Polymarket said it is restoring service and expects trading to resume around 3:00 p.m. ET."
-    },
-    {
-      "id": "5180495",
-      "time": "2026-10-30 02:55:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【特朗普：美國經濟增速達 3.4%，民主黨若贏下中期選舉將毀掉經濟成果】美國總統特朗普在真相社交平臺發文稱，很高興宣佈，美國經濟正以 3.4% 的增速蓬勃發展，創下歷史性增長水平。消費支出大幅上漲，企業投資顯著增加，新裝置投資暴漲 21%，意味著美國有數量創紀錄的工廠和企業正在興建、擴建。核心通脹維持低位，這一點尤為關鍵。資料遠超預期，今日公佈數值優於 72% 經濟學家的預測。我們的經濟一片向好，但如果民主黨拿下中期選舉，他們會毀掉這一切。想要延續這份增長勢頭，就必須投共和黨！"
-    },
-    {
-      "id": "mkt:01a18904-7ad7-7ee0-a9ed-64a21a7dbaac",
-      "time": "2026-10-30 02:55:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Trump says US economy growing at 3.4%】Trump said the US economy is growing at 3.4%, led by a large rise in consumer spending and stronger business investment; he said new equipment investment jumped 21% and core inflation remains low. He added the latest data exceeded forecasts from roughly 72% of economists."
-    },
-    {
-      "id": "5180494",
-      "time": "2026-10-30 02:54:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國經濟正以3.4%的速度蓬勃發展。"
     }
   ]
 }
