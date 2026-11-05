@@ -1,7 +1,29 @@
 {
   "date": "2026-11-06",
-  "count": 269,
+  "count": 271,
   "items": [
+    {
+      "id": "mkt:01a1ad01-6baa-7ee0-aa9a-52bfd477919c",
+      "time": "2026-11-06 02:38:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Market sources: Apple (AAPL.O) investment-grade bond offering drew $31.0 bln of orders."
+    },
+    {
+      "id": "5197255",
+      "time": "2026-11-06 02:38:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，蘋果高評級債券發行獲310億美元認購訂單。"
+    },
     {
       "id": "mkt:01a1acfd-1e0e-7ee0-aa9a-49920100f75e",
       "time": "2026-11-06 02:33:51",
