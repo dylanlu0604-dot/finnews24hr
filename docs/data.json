@@ -1,7 +1,89 @@
 {
-  "updated": "2026-11-06 02:28:57",
-  "count": 11478,
+  "updated": "2026-11-06 02:32:51",
+  "count": 11481,
   "items": [
+    {
+      "id": "5197243",
+      "time": "2026-11-06 02:32:16",
+      "tags": [
+        "觀點"
+      ],
+      "text": "OpenAI與摩根大通建立戰略合作伙伴關係。"
+    },
+    {
+      "id": "mkt:01a1acfb-7997-7ee0-aa9a-3ccd7e0d98f1",
+      "time": "2026-11-06 02:32:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) introduced voice and emoji-based virtual avatars in its Muse app."
+    },
+    {
+      "id": "5197241",
+      "time": "2026-11-06 02:31:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta為Muse推出語音聊天功能。"
+    },
+    {
+      "id": "mkt:01a1acfb-3d6c-7ee0-aa9a-32163e5bb22c",
+      "time": "2026-11-06 02:31:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session most-active contracts close】At the 02:30 night close, SHFE most-active gold contract rose 0.27% to 882 yuan/gram; SHFE most-active silver contract fell 0.06% to 12,584 yuan/kg; SC crude oil most-active contract rose 0.22% to 640 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a1acfb-3132-7ee0-aa9a-2bc321c85e2d",
+      "time": "2026-11-06 02:31:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange: gold T+D closed down 0.28% at 880.0 yuan/gram and silver T+D closed down 0.72% at 12,554.0 yuan/kg in the Nov 5 evening session."
+    },
+    {
+      "id": "5197240",
+      "time": "2026-11-06 02:31:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認BLUE OWL CAPITAL的RTGS評級為“BBB”，展望穩定。"
+    },
+    {
+      "id": "te:markets:598804",
+      "time": "2026-11-06 02:30:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Weakens by 7.04% — Top crypto losers are Ether (-7.04%), XRP (-5.43%) and Bitcoin (-5.43%)."
+    },
+    {
+      "id": "5197237",
+      "time": "2026-11-06 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲0.22%，報639.80元人民幣/桶。滬金夜盤收漲0.27%，滬銀收跌0.07%。"
+    },
     {
       "id": "5197235",
       "time": "2026-11-06 02:27:18",
@@ -105576,50 +105658,6 @@
         "國際"
       ],
       "text": "特朗普警告稱，民主黨若在中期選舉中獲勝，將引發類似1929年的經濟大蕭條。"
-    },
-    {
-      "id": "5180488",
-      "time": "2026-10-30 02:32:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，烏克蘭已掌握有關俄羅斯計劃發動新一輪彈道導彈襲擊的情報，需要具備應對這些襲擊的手段。"
-    },
-    {
-      "id": "5180487",
-      "time": "2026-10-30 02:32:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普預測石油和汽油價格將大幅下跌。"
-    },
-    {
-      "id": "5180486",
-      "time": "2026-10-30 02:31:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 12月原油期貨收報102美元/桶。NYMEX 11月天然氣期貨收報2.9520美元/百萬英熱單位。NYMEX 11月汽油期貨收報3.1850美元/加侖，NYMEX 11月取暖油期貨收報4.7360美元/加侖。"
-    },
-    {
-      "id": "te:markets:596431",
-      "time": "2026-10-30 02:30:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Drops by 2.87% — Top crypto losers are XRP (-2.87%), Binance (-1.92%), Ether (-1.08%) and Bitcoin (-0.72%)."
-    },
-    {
-      "id": "5180485",
-      "time": "2026-10-30 02:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌1.96%，報721.50元人民幣/桶。滬金夜盤收跌1.02%，滬銀收跌4.10%。"
     }
   ]
 }
