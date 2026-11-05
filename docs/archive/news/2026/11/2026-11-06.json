@@ -1,7 +1,39 @@
 {
   "date": "2026-11-06",
-  "count": 255,
+  "count": 258,
   "items": [
+    {
+      "id": "5197235",
+      "time": "2026-11-06 02:27:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國國債大漲 科技股拋售激發避險需求】美國國債大漲，民主黨在中期選舉中橫掃國會後，大型科技股遭到拋售，推動避險需求升溫。美國國債市場週四上漲，各期限收益率最多下跌12個基點，降至9月初以來最低水平。收益率在美股開盤後開始下行，納斯達克100指數下跌6.09%，費城半導體指數下跌11.11%。美債市場上月錄得逾兩年來最大漲幅，因為投資者對AI基礎設施資本支出的可持續性失去信心，進而從股票轉向債券。“晶片股下跌進一步反映出市場認為資本支出增速可能放緩，”The Capital Group固定收益投資總監Anmol Sinha表示。“這在引發市場反應。”"
+    },
+    {
+      "id": "te:markets:598803",
+      "time": "2026-11-06 02:25:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Yield Extends 10-Year High — Brazil’s 10-year government bond yield was little changed around 15.29%, remaining near a decade high after the BCB kept the Selic rate at 13.75% at its November meeting. The decision reflected a outlook marked by weaker growth, higher inflation and heightened uncertainty following President Lula’s reelection. Investors remain focused on fiscal policy, particularly the government’s commitment to controlling spending and public debt, which has risen significantly in recent years. Expectations ahead of the decision were divided, with some investors anticipating a hold and others pricing in a sixth consecutive 25 bps cut. Policymakers cited rising inflation expectations, increased uncertainty and a “more pronounced deceleration” in economic activity. The Copom statement highlighted the slowdown and uncertainty surrounding its own projections. Labor market data further pointed to cooling activity, as Brazil created 121,305 formal jobs in September, below market expectations of 171,000."
+    },
+    {
+      "id": "te:markets:598802",
+      "time": "2026-11-06 02:25:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Tumbles by 5.41% — Top commodity losers are Cocoa (-5.41%), Palm Oil (-2.65%) and Canola (-1.71%). Gains are led by Cotton (0.94%), Sugar (0.70%) and Rice (0.60%)."
+    },
     {
       "id": "te:markets:598801",
       "time": "2026-11-06 02:20:19",
