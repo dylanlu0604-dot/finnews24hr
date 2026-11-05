@@ -1,7 +1,91 @@
 {
   "date": "2026-11-05",
-  "count": 1496,
+  "count": 1506,
   "items": [
+    {
+      "id": "te:economy:598586",
+      "time": "2026-11-05 18:14:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro area",
+        "Producer Price Inflation MoM",
+        "Importance 2"
+      ],
+      "text": "Eurozone Producer Prices Surge in October — Eurozone producer prices rose by 2.5% month over month in October 2026, following an upwardly revised 2.0% increase in September. This marked the sharpest monthly rise since March, when the US-Israeli war with Iran began, as energy prices climbed 7.8%, accelerating from a 5.6% increase in the previous month. Among other components, prices of non-durable consumer goods increased at a faster pace (0.2% vs. 0.1%). In contrast, price growth moderated for intermediate goods (0.2% vs. 0.5%), durable consumer goods (0.3% vs. 0.4%) and capital goods (0.1% vs. 0.2%). On an annual basis, producer price inflation accelerated sharply to 11.1% in October, exceeding market expectations and reaching its highest level since February 2023, highlighting the renewed inflationary pressure stemming primarily from rising energy costs."
+    },
+    {
+      "id": "5196109",
+      "time": "2026-11-05 18:14:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "芬蘭航空表示，兩架航班因炸彈威脅受到影響。"
+    },
+    {
+      "id": "5196108",
+      "time": "2026-11-05 18:13:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "烏茲別克10月份消費者價格環比上漲0.6%。"
+    },
+    {
+      "id": "mkt:01a1ab33-5b66-7ee0-aa8c-41e90c0541e6",
+      "time": "2026-11-05 18:13:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LOT Polish Airlines flight from Warsaw to Brussels landed safely in Brussels after receiving a security alert; the reported threat has not been confirmed."
+    },
+    {
+      "id": "5196107",
+      "time": "2026-11-05 18:12:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭航空：從華沙飛往布魯塞爾的航班在收到安全警告後安全降落在布魯塞爾，威脅未得到證實。"
+    },
+    {
+      "id": "5196106",
+      "time": "2026-11-05 18:11:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "民調機構Verian調查顯示，法國總統馬克龍的民眾支援率下降4個百分點至14%。"
+    },
+    {
+      "id": "mkt:01a1ab31-1b57-7ee0-aa8c-3866b680975b",
+      "time": "2026-11-05 18:11:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hy4 demand surges; WorkBuddy scales inference cluster 10x】Hy4 launched on WorkBuddy on Nov 4. WorkBuddy has expanded the Hy4 inference cluster tenfold and raised free-usage quotas, with dynamic resource allocation to follow. Limited high-end compute capacity and concentrated peak concurrency mean intermittent per-user limits may persist; users are advised to switch to Hy3 or shift to off-peak hours. WorkBuddy has extended Hy3 free access through 23:59 on Nov 15, 2026."
+    },
+    {
+      "id": "5196105",
+      "time": "2026-11-05 18:11:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港交易所檔案顯示，渣打銀行於11月4日在其他交易所回購了總計407,217股股票，價值870萬英鎊。"
+    },
+    {
+      "id": "5196104",
+      "time": "2026-11-05 18:11:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金龍羽：為全資子公司提供合計6.4億元擔保】金龍羽公告稱，公司近日為全資子公司惠州市金龍羽電纜實業發展有限公司融資提供擔保：與交通銀行續簽保證合同，擔保最高金額2億元；與杭州銀行續簽最高額保證合同，擔保最高金額3.5億元；將其在中國銀行的保函擔保額度由8000萬元增至9000萬元。上述擔保均為連帶責任保證，擔保金額在年度對外擔保預計額度內。截至公告披露日，公司及控股子公司對外擔保預計總額度29.50億元，擔保總餘額16.97億元，佔最近一期經審計淨資產的80.24%，無逾期擔保。"
+    },
+    {
+      "id": "5196103",
+      "time": "2026-11-05 18:10:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首都線上：控股股東及實際控制人提議回購公司股份，資金總額2000萬元-3000萬元】首都線上公告，公司於2026年11月5日收到控股股東及實際控制人曲寧先生《關於回購公司股份的提議》，提議公司使用自有或自籌資金以集中競價交易方式回購公司已發行的部分人民幣普通股（A股）股票，用於股權激勵或員工持股計劃。本次回購資金總額不低於人民幣2000萬元（含），且不超過人民幣3000萬元（含）；回購價格不高於公司董事會審議透過回購決議前30個交易日公司股票交易均價的150%，具體以董事會審議透過的回購方案為準。曲寧先生承諾將積極推動公司儘快召開董事會審議回購股份事項，並在審議本次回購股份事項的董事會上投贊成票。"
+    },
     {
       "id": "5196102",
       "time": "2026-11-05 18:09:57",
