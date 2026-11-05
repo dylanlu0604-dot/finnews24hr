@@ -1,7 +1,76 @@
 {
-  "updated": "2026-11-05 10:46:50",
+  "updated": "2026-11-05 10:50:39",
   "count": 11796,
   "items": [
+    {
+      "id": "te:markets:598389",
+      "time": "2026-11-05 10:50:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Prices Drop Further — European natural gas prices fell to €85/MWh on Thursday, extending their losses to about 18% so far this week and hovering at their lowest level in over three weeks. The decline reflects growing optimism over diplomatic efforts to resolve the US-Iran war, with Qatar continuing to mediate between the two sides. A sweeping Democratic victory in the US midterm elections also eased concerns about further military escalation, as the results could give Democrats greater influence over government spending, potentially limiting President Trump's ability to sustain military operations against Iran. However, supply tightness persists, as LNG deliveries from the Persian Gulf remain disrupted. The bloc is entering winter with its lowest gas storage levels in more than a decade, with inventories standing at 74.33% of capacity as of November 4 and well below the minimum target of 80%. Meanwhile, forecasts of colder temperatures across Northwest Europe are likely to boost heating demand."
+    },
+    {
+      "id": "5195027",
+      "time": "2026-11-05 10:49:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST喜臨門：公司應收款項規模處於可控區間】ST喜臨門(603008)在2026年第三季度業績說明會上表示，公司整體應收賬款週轉率與去年同期基本持平，應收款項規模處於可控區間。後續公司將持續把回款指標納入各業務板塊的考核體系，進一步強化應收款項的全流程管理。"
+    },
+    {
+      "id": "5195014",
+      "time": "2026-11-05 10:48:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國時空資訊集團等成立新公司 含多項AI業務】企查查APP顯示，近日，中時空資訊（重慶）有限公司成立，經營範圍包含衛星導航多模增強應用服務系統整合；衛星遙感應用系統整合；人工智慧基礎資源與技術平臺；人工智慧公共服務平臺技術諮詢服務；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由中國時空資訊集團有限公司等共同持股。"
+    },
+    {
+      "id": "te:markets:598388",
+      "time": "2026-11-05 10:48:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Hits Near Two-Month Low — The yield on the US 10-year Treasury note declined to around 4.85% on Thursday, reaching its lowest level in nearly two months as the Democrats' decisive victory in the US midterm elections eased political uncertainty and strengthened demand for both bonds and equities. Meanwhile, artificial intelligence-related stocks faced selling pressure amid concerns over how Democratic control could affect future investments in data-center development. The election outcome also increased expectations of political gridlock in Washington and lowered the likelihood of President Donald Trump resuming military strikes against Iran. This contributed to a sharp drop in oil prices, helping ease inflationary concerns and reducing expectations for further aggressive interest rate increases. Investors are now turning their attention to Friday's closely watched US employment report, while markets currently reflect a 79% probability of a Federal Reserve rate hike in December."
+    },
+    {
+      "id": "mkt:01a1a99a-b486-7ee0-aa81-1723127ecec9",
+      "time": "2026-11-05 10:47:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME tin up 2.00% intraday at $48,190/tonne."
+    },
+    {
+      "id": "5195010",
+      "time": "2026-11-05 10:47:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "野村證券：預計10月份印度股市資金流入將下降18%。"
+    },
+    {
+      "id": "te:markets:598387",
+      "time": "2026-11-05 10:46:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Hits 10-Week Low — Australia’s 10-year government bond yield fell around 5%, hitting its lowest level in ten-weeks as the Reserve Bank of Australia's less hawkish-than-expected policy guidance dampened expectations for further interest rate hikes. Although the central bank raised its cash rate by 25 bps to 4.85% on November 3, the split 6–3 decision, with three policymakers favoring no change, and the removal of explicit language on further tightening pointed to a possible pause in December. Governor Michele Bullock also indicated that policymakers would assess the impact of previous rate increases before making further decisions. Elsewhere, Democratic victories in the US midterm elections fueled hopes of progress toward ending the US-Iran conflict, contributing to a sharp drop in oil prices. This eased concerns over energy-driven inflation and helped reinforce the decline in global bond yields."
+    },
     {
       "id": "5195001",
       "time": "2026-11-05 10:45:29",
@@ -108583,81 +108652,6 @@
         "Macro & Rates"
       ],
       "text": "【RBA rate‑hike odds surge; AUD/USD extends gains】AUD/USD strengthened in Asian trade on Thursday, trading around 0.7055. Australian inflation surprised to the upside, lifting market odds that the Reserve Bank of Australia will raise the cash rate to 4.85% at the next policy meeting to roughly 82% (vs ~62% before the print). Markets will focus on US September PCE data due later Thursday. Commonwealth Bank FX strategist Carol Kong said markets read the absence of explicit discussion of further hikes as dovish or at least not sufficiently hawkish. Brown Brothers Harriman noted September headline CPI rose 4.3% YoY (vs 4.2% expected, 4.0% in August), driven by housing and transport, reinforcing the case for another RBA hike and supporting the AUD."
-    },
-    {
-      "id": "mkt:01a18591-0209-7ee0-a9d2-8a6681a12287",
-      "time": "2026-10-29 10:50:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "Chip Wars"
-      ],
-      "text": "【Tencent Cloud says it has deployed over 2 million servers globally】Tencent Cloud said it has deployed more than 2 million servers worldwide and is accelerating global data center construction; overseas AI demand rose by triple digits over the past year and active international customers doubled. In collaboration with the Hunyuan team, Tencent Cloud boosted single-card throughput of a Chinese-made chip fivefold in the two weeks before launch, and plans to release its new model Hy4 imminently."
-    },
-    {
-      "id": "mkt:01a18590-0489-7ee0-a9d2-81d5e8b72903",
-      "time": "2026-10-29 10:49:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【HKMA: Wide HKD-USD interest-rate differential may allow carry trades to gradually weaken the Hong Kong dollar】The Hong Kong Monetary Authority said the Fed’s decision to hold rates met market expectations and Hong Kong money and financial markets remain orderly. A persistent wide HKD‑USD interest-rate differential means carry trades could gradually weaken the HKD; the HKD exchange rate and HIBOR path face material uncertainty, depending on market appetite for carry, HKD funding supply/demand from capital-market activity and seasonal factors. US policy rates remain uncertain and will depend on inflation, the labour market and incoming data, which will affect Hong Kong’s rate environment. Market participants should factor and manage interest-rate risk for property, investment and borrowing decisions. HKMA will continue to monitor markets closely to maintain monetary and financial stability."
-    },
-    {
-      "id": "em:qqyh_mlc:202610293913614998",
-      "time": "2026-10-29 10:48:45",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【安本預計美聯儲或將在12月和3月加息】安本投資表示，美聯儲主席凱文·沃什在最新一次政策會議上仍然對美國經濟持樂觀態度，但也重申通脹仍然過高。“我們仍預期美聯儲將在12月和3月進一步加息，利率終點將達到4.25%-4.50%，我們認為這更像是預防性加息，而不是對通脹高企而採取的激進的壓制需求的措施，”新興市場經濟學家MichaelLangham在一份報告中寫道。"
-    },
-    {
-      "id": "mkt:01a1858e-a43f-7ee0-a9d2-7d391ad001c3",
-      "time": "2026-10-29 10:48:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Fed's hawkish pause supports dollar; dollar index holds above 102】The dollar index ticked up in Asian trade Thursday and remained above the 102.00 mark, near Wednesday's two-week high. Traders are waiting for U.S. Q3 preliminary GDP and the PCE price index later today; strong prints would reinforce market pricing of a December Fed rate hike and push the dollar higher. The Fed signalled a hawkish pause on Wednesday, so softer data may have limited immediate impact. Qatar-led mediation is working to restart U.S.-Iran talks to avert renewed conflict; a persistent geopolitical risk premium is likely to attract dip-buying and cap downside for the dollar."
-    },
-    {
-      "id": "te:markets:596044",
-      "time": "2026-10-29 10:47:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesian Stocks Under Pressure as Protests Fuel Political Risks — Indonesian equities slipped 94 points, or 1.8%, to 5,188 in early deals on Thursday, reversing modest gains in the prior session. Sentiment weakened as Nasdaq 100 and S&P 500 futures fell after disappointing Alphabet earnings that fueled concerns over AI investment. Meanwhile, the Fed held rates steady, but its outlook for fewer policy-setting meetings next year prompted traders to reassess the rate path. Locally, student protests in several major cities heightened political risks, while oil above USD 100 per barrel added to fiscal pressures. Meanwhile, persistent foreign outflows peristed amid rupiah weakness. Traders also turned cautious ahead of next week’s key data release, including October inflation data after September figures accelerated to 3.28%. Losses were broad-based, led by infrastructure, consumer cyclicals, property, and financials. Notable decliners included Indosat (-6.7%), Bakrie & Brothers (-6.4%), Energi Mega Persada (-5.6%), and Sarana Menara Nusantara (-4.6%)."
-    },
-    {
-      "id": "5178303",
-      "time": "2026-10-29 10:47:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永藝股份、山科智慧等成立金芯創投合夥企業】企查查APP顯示，近日，杭州臨蕭金芯創業投資合夥企業（有限合夥）成立，經營範圍包含創業投資（限投資未上市企業）；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由永藝股份、山科智慧等共同出資。"
-    },
-    {
-      "id": "5178302",
-      "time": "2026-10-29 10:47:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬辰集團：社群零售空間廣闊 在部分割槽域開展新店型嘗試】萬辰集團(300972)10月28日在電話會議上表示，社群零售空間廣闊，公司在部分割槽域開展的新店型嘗試（例如便利店和全品類硬折扣門店），是在聚焦主業的同時，結合公司現有核心能力、供應鏈效率和硬折扣邏輯的普適性所進行的初步探索嘗試。在單店模型充分跑通之前，公司不會設立激進目標和盲目複製擴張，並僅投入有限資源和精力，始終以主業的健康發展為核心。"
     }
   ]
 }

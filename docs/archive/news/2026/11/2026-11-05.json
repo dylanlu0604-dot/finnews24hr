@@ -1,7 +1,76 @@
 {
   "date": "2026-11-05",
-  "count": 930,
+  "count": 937,
   "items": [
+    {
+      "id": "te:markets:598389",
+      "time": "2026-11-05 10:50:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Prices Drop Further — European natural gas prices fell to €85/MWh on Thursday, extending their losses to about 18% so far this week and hovering at their lowest level in over three weeks. The decline reflects growing optimism over diplomatic efforts to resolve the US-Iran war, with Qatar continuing to mediate between the two sides. A sweeping Democratic victory in the US midterm elections also eased concerns about further military escalation, as the results could give Democrats greater influence over government spending, potentially limiting President Trump's ability to sustain military operations against Iran. However, supply tightness persists, as LNG deliveries from the Persian Gulf remain disrupted. The bloc is entering winter with its lowest gas storage levels in more than a decade, with inventories standing at 74.33% of capacity as of November 4 and well below the minimum target of 80%. Meanwhile, forecasts of colder temperatures across Northwest Europe are likely to boost heating demand."
+    },
+    {
+      "id": "5195027",
+      "time": "2026-11-05 10:49:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST喜臨門：公司應收款項規模處於可控區間】ST喜臨門(603008)在2026年第三季度業績說明會上表示，公司整體應收賬款週轉率與去年同期基本持平，應收款項規模處於可控區間。後續公司將持續把回款指標納入各業務板塊的考核體系，進一步強化應收款項的全流程管理。"
+    },
+    {
+      "id": "5195014",
+      "time": "2026-11-05 10:48:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國時空資訊集團等成立新公司 含多項AI業務】企查查APP顯示，近日，中時空資訊（重慶）有限公司成立，經營範圍包含衛星導航多模增強應用服務系統整合；衛星遙感應用系統整合；人工智慧基礎資源與技術平臺；人工智慧公共服務平臺技術諮詢服務；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由中國時空資訊集團有限公司等共同持股。"
+    },
+    {
+      "id": "te:markets:598388",
+      "time": "2026-11-05 10:48:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Hits Near Two-Month Low — The yield on the US 10-year Treasury note declined to around 4.85% on Thursday, reaching its lowest level in nearly two months as the Democrats' decisive victory in the US midterm elections eased political uncertainty and strengthened demand for both bonds and equities. Meanwhile, artificial intelligence-related stocks faced selling pressure amid concerns over how Democratic control could affect future investments in data-center development. The election outcome also increased expectations of political gridlock in Washington and lowered the likelihood of President Donald Trump resuming military strikes against Iran. This contributed to a sharp drop in oil prices, helping ease inflationary concerns and reducing expectations for further aggressive interest rate increases. Investors are now turning their attention to Friday's closely watched US employment report, while markets currently reflect a 79% probability of a Federal Reserve rate hike in December."
+    },
+    {
+      "id": "mkt:01a1a99a-b486-7ee0-aa81-1723127ecec9",
+      "time": "2026-11-05 10:47:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME tin up 2.00% intraday at $48,190/tonne."
+    },
+    {
+      "id": "5195010",
+      "time": "2026-11-05 10:47:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "野村證券：預計10月份印度股市資金流入將下降18%。"
+    },
+    {
+      "id": "te:markets:598387",
+      "time": "2026-11-05 10:46:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Hits 10-Week Low — Australia’s 10-year government bond yield fell around 5%, hitting its lowest level in ten-weeks as the Reserve Bank of Australia's less hawkish-than-expected policy guidance dampened expectations for further interest rate hikes. Although the central bank raised its cash rate by 25 bps to 4.85% on November 3, the split 6–3 decision, with three policymakers favoring no change, and the removal of explicit language on further tightening pointed to a possible pause in December. Governor Michele Bullock also indicated that policymakers would assess the impact of previous rate increases before making further decisions. Elsewhere, Democratic victories in the US midterm elections fueled hopes of progress toward ending the US-Iran conflict, contributing to a sharp drop in oil prices. This eased concerns over energy-driven inflation and helped reinforce the decline in global bond yields."
+    },
     {
       "id": "5195001",
       "time": "2026-11-05 10:45:29",
