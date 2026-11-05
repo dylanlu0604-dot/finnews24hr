@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-05 10:58:33",
-  "count": 11802,
+  "updated": "2026-11-05 11:02:20",
+  "count": 11798,
   "items": [
+    {
+      "id": "5195090",
+      "time": "2026-11-05 11:01:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達30億港元。"
+    },
+    {
+      "id": "5195079",
+      "time": "2026-11-05 10:58:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市一度上漲1.7%，至5，789.05點，為10月22日以來最高。"
+    },
+    {
+      "id": "5195078",
+      "time": "2026-11-05 10:57:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美共和黨“替罪羊”出現！美媒爆：眾議院計劃投票彈劾防長赫格塞思】據美國有線電視新聞網（CNN）4日最新報道，美國共和黨在中期選舉中遭遇“歷史性慘敗”，促使一些共和黨人將矛頭對準美國國防部長赫格塞思，眾議院最早可能於下週就彈劾赫格塞思進行投票。 CNN稱，美國對伊朗軍事行動令共和黨的選民支援率暴跌，導致該黨在中期選舉中慘敗。許多共和黨議員及其盟友對這次選舉失利感到震驚，並正迅速將責任歸咎於赫格塞思。他們私下表示，赫格塞思在說服美國總統特朗普對伊朗發動攻擊方面發揮了關鍵作用，但當時的行動既沒有制定撤軍策略，也沒有為應對戰爭不可避免帶來的政治後果做好準備。 報道說，美國肯塔基州共和黨籍聯邦眾議員托馬斯·梅西稱，他計劃在下週國會復會時就彈劾赫格塞思發起投票。多名共和黨訊息人士稱，他們預計這項彈劾動議將獲得透過。 （環球網）"
+    },
     {
       "id": "5195062",
       "time": "2026-11-05 10:56:05",
@@ -112,6 +138,15 @@
         "公司"
       ],
       "text": "【神通科技：車規級光學業務相關產品已實現批次供貨】神通科技(605228)在2026年第三季度業績說明會上表示，在車規級光學業務領域，公司依託注塑工藝與光學技術積累，持續拓展與智慧座艙和高階輔助駕駛有關的鐳射雷達、毫米波雷達和抬頭顯示（HUD）等光學鏡片產品，並穩步推進光學鏡片生產基地建設。公司車規級光學業務相關產品目前已實現批次供貨，並已形成相應的收入貢獻。"
+    },
+    {
+      "id": "mkt:01a1a9a7-e0e5-7ee0-aa81-2c83afbf2631",
+      "time": "2026-11-05 10:51:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's most-active LPG futures contract hit the daily limit, down 8.99% at 6,730 yuan/ton."
     },
     {
       "id": "te:markets:598389",
@@ -108634,76 +108669,6 @@
         "02328.HK"
       ],
       "text": "Hong Kong-listed insurers rose; Ping An (02318.HK) gained over 3%, China Life (02628.HK) and China P&C (02328.HK) climbed more than 2%, with AIA (01299.HK) and China Pacific Insurance (02601.HK) also advancing."
-    },
-    {
-      "id": "te:markets:596050",
-      "time": "2026-10-29 11:01:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Eases Amid Fed Uncertainty — The US 10-year Treasury yield slipped slightly below 5% on Thursday, resuming its decline after the Federal Reserve left interest rates unchanged as widely expected but offered limited guidance on its next policy move. Fed Chair Kevin Warsh also suggested that the central bank could reduce the number of interest-rate decisions from eight to six per year, potentially adding to market uncertainty. Meanwhile, two policymakers dissented in favor of a 25-basis-point rate hike, reinforcing expectations for a possible increase in December amid persistent energy-driven inflation. Investors are now awaiting the US PCE price index, the Fed’s preferred inflation gauge, for further clues on the future direction of monetary policy. Market attention is also focused on upcoming policy announcements from the European Central Bank and the Bank of Japan, with both institutions widely expected to keep interest rates unchanged."
-    },
-    {
-      "id": "mkt:01a1859a-3809-7ee0-a9d2-acb1c51f5310",
-      "time": "2026-10-29 11:00:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Merchants Securities International cuts Pop Mart (09992.HK) PT 6.6% to HKD113; maintains Overweight】China Merchants Securities International cut its target price for Pop Mart (09992.HK) by 6.6% to HKD113 from HKD121 and maintained an Overweight rating. The broker cited weaker-than-expected Q3 results, with domestic and overseas sales under pressure, stalled sales growth and margin compression. It expects net profit to continue declining in 2027 and 2028, lowering 2026–2028 net profit forecasts by about 28% and trimming 2026–2028 revenue forecasts by an average 22%, reflecting softer-than-expected growth momentum in both domestic and international markets."
-    },
-    {
-      "id": "5178312",
-      "time": "2026-10-29 11:00:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陝鼓動力：綠色氫氨醇還處於技術儲備和標杆專案階段】陝鼓動力(601369)在2026年第三季度業績說明會上表示，目前針對壓縮空氣儲能，公司已覆蓋10MW—350MW，並簽訂多臺套訂單，CCUS已有投產示範專案，綠色氫氨醇還處於技術儲備和標杆專案階段。"
-    },
-    {
-      "id": "5178311",
-      "time": "2026-10-29 11:00:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【於東來：未來中國優秀的超市品牌不會是胖東來】10月29日凌晨，胖東來創始人於東來在社交平臺發文表示，“未來中國優秀的超市品牌不會是胖東來！因為非常優秀的一定是非常喜歡和熱愛！胖東來的重心在文化研究輔助解決一些人們生活上和社會存在的問題！胖東來只是盡力為行業做一個樣板供大家參考學習、分享一些零售的發展方向和經營管理方法！”"
-    },
-    {
-      "id": "5178310",
-      "time": "2026-10-29 11:00:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【風電裝置板塊逆勢反彈 天順風能漲停】風電裝置板塊盤中逆勢反彈，天順風能漲停，海力風電、振宏股份、中環海陸、天順風能、新強聯跟漲。"
-    },
-    {
-      "id": "5178309",
-      "time": "2026-10-29 10:59:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【銀行板塊持續走強 青島銀行漲7%】銀行板塊持續走強，青島銀行漲7%，成都銀行、瑞豐銀行、齊魯銀行等跟漲。"
-    },
-    {
-      "id": "5178308",
-      "time": "2026-10-29 10:58:51",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【巴西央行稱金融體系具備抗風險能力】巴西央行27日釋出2026年上半年《金融穩定報告》稱，金融體系資本和流動性水平充足，具備抵禦不利情形和抗風險能力。受高利率和經濟活動放緩影響，家庭和企業信貸增長放緩，金融機構放貸更審慎；報告預計消費者償債能力今年下半年仍將承壓，信用卡領域風險偏好上升趨勢依然存在。調查顯示，約四分之三受訪金融機構對金融體系抱有信心。（新華社）"
-    },
-    {
-      "id": "5178307",
-      "time": "2026-10-29 10:58:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星迴應家電撤出香港】近日有傳聞稱三星即將把部分大型家電（洗衣機、冰箱）業務撤出香港特別行政區市場，且官網多款大型家電均顯示為售罄狀態，引發使用者擔憂。有韓媒援引知情人士訊息指，三星香港子公司大約在 1-2 個月前，就已經開始為撤出市場做準備。 同時港媒記者以顧客身份前往電器零售商豐澤。但店內員工表示，三星家電已在今年 8 月 31 日正式撤出香港。 三星香港對此回應稱，目前的本地業務營運依然穩健，管理層一直會評估及調整整體的產品組合，目的是切合市場環境和消費者喜好。 此外三星香港表示，公司正將所有營運資源重新集中於幾個主要領域，包括電視、顯示器、音箱產品、商用顯示器及流動通訊裝置（手機等）。公司將維持已售產品的售後服務、保養服務及維修支援，持續為消費者提供專業服務。（IT之家）"
     }
   ]
 }
