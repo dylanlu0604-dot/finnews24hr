@@ -1,7 +1,42 @@
 {
   "date": "2026-11-06",
-  "count": 266,
+  "count": 269,
   "items": [
+    {
+      "id": "mkt:01a1acfd-1e0e-7ee0-aa9a-49920100f75e",
+      "time": "2026-11-06 02:33:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose to $97 a barrel, up 3.3% on the day."
+    },
+    {
+      "id": "mkt:01a1acfc-8319-7ee0-aa9a-4213b7eeb4fd",
+      "time": "2026-11-06 02:33:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) launched a Muse voice-conversation feature for its AI glasses and introduced a companion product called Muse Charm."
+    },
+    {
+      "id": "5197244",
+      "time": "2026-11-06 02:32:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "META ：將在AI眼鏡和MUSE CHARM上推出與MUSE的語音對話功能。"
+    },
     {
       "id": "5197243",
       "time": "2026-11-06 02:32:16",

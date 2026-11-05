@@ -1,7 +1,42 @@
 {
-  "updated": "2026-11-06 02:32:51",
-  "count": 11481,
+  "updated": "2026-11-06 02:36:50",
+  "count": 11482,
   "items": [
+    {
+      "id": "mkt:01a1acfd-1e0e-7ee0-aa9a-49920100f75e",
+      "time": "2026-11-06 02:33:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose to $97 a barrel, up 3.3% on the day."
+    },
+    {
+      "id": "mkt:01a1acfc-8319-7ee0-aa9a-4213b7eeb4fd",
+      "time": "2026-11-06 02:33:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) launched a Muse voice-conversation feature for its AI glasses and introduced a companion product called Muse Charm."
+    },
+    {
+      "id": "5197244",
+      "time": "2026-11-06 02:32:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "META ：將在AI眼鏡和MUSE CHARM上推出與MUSE的語音對話功能。"
+    },
     {
       "id": "5197243",
       "time": "2026-11-06 02:32:16",
@@ -105642,22 +105677,6 @@
         "公司"
       ],
       "text": "【寧德時代尋求擴大阿根廷電網儲能業務，瞄準礦山儲能機會】寧德時代拉美區總經理Harry Liu等高管在布宜諾斯艾利斯的活動上表示，該公司正與多家在阿根廷儲能招標中勝出的企業洽談供貨事宜。寧德時代已參與阿根廷電網的四個儲能專案。其中兩個與Central Puerto合作，一個與Neuss家族支援的新公司Edison合作，第四個未具名。隨著電網運營商Cammesa尋求增加儲能容量，寧德時代對未來相關機會有興趣。寧德時代還瞄準為礦山提供儲能系統的機會。寧德時代最近在阿根廷建立了業務團隊，配備銷售和技術人員。"
-    },
-    {
-      "id": "5180490",
-      "time": "2026-10-30 02:35:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "Polymarket：我們已發現並修復了影響國際平臺polymarket.com的問題。我們的一家第三方服務提供商遭到入侵，我們已將此事移交相關執法部門。所有受影響者都將獲得全額補償。出於高度謹慎，我們已暫時停止交易，並正在努力使平臺恢復上線。"
-    },
-    {
-      "id": "5180489",
-      "time": "2026-10-30 02:32:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普警告稱，民主黨若在中期選舉中獲勝，將引發類似1929年的經濟大蕭條。"
     }
   ]
 }
