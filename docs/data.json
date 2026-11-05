@@ -1,7 +1,120 @@
 {
-  "updated": "2026-11-05 10:20:02",
-  "count": 11795,
+  "updated": "2026-11-05 10:24:05",
+  "count": 11800,
   "items": [
+    {
+      "id": "5194878",
+      "time": "2026-11-05 10:23:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達3.11%，成分股中，連城數控漲18.80%，諾思蘭德漲8.57%，納科諾爾漲7.32%，錦波生物漲6.66%。"
+    },
+    {
+      "id": "mkt:01a1a984-3b3f-7ee0-aa80-b9dd21f532ad",
+      "time": "2026-11-05 10:22:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "China's ChiNext index continued to rally, rising over 3%, led by BC batteries and advanced packaging stocks and driving gains across A-share markets."
+    },
+    {
+      "id": "5194877",
+      "time": "2026-11-05 10:22:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲3.01%，現報2621.204點；上證指數漲0.34%，現報3698.559點；深證成指漲2.34%，現報11600.932點。"
+    },
+    {
+      "id": "5194876",
+      "time": "2026-11-05 10:22:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大唐發電等成立儲能開發新公司】企查查APP顯示，近日，大唐眾聯（蔚縣）儲能開發有限公司成立，經營範圍包含儲能技術服務；節能管理服務；合同能源管理；通用裝置修理等。企查查股權穿透顯示，該公司由大唐發電等共同持股。"
+    },
+    {
+      "id": "5194875",
+      "time": "2026-11-05 10:22:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生指數上漲3%至24,637.30點。"
+    },
+    {
+      "id": "mkt:01a1a983-b64d-7ee0-aa80-b0c97ee5fbf4",
+      "time": "2026-11-05 10:22:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "06181.HK"
+      ],
+      "text": "Hang Seng up more than 3% in early trade; Laopu Gold (06181.HK) jumps over 10%, leading index constituents."
+    },
+    {
+      "id": "5194874",
+      "time": "2026-11-05 10:21:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【結束近22年科學觀測任務 美“雨燕”天文臺重返大氣層】當地時間11月4日，美國國家航空航天局的尼爾·格雷爾斯·斯威夫特（又稱“雨燕”）天文臺結束近22年科學觀測任務，按預期脫離軌道，在印度尼西亞上空重返地球大氣層並燃燒解體。美國太空軍確認，天文臺於美國東部時間當天7時39分以約22倍音速進入印度尼西亞北蘇門答臘省上空大氣層。NASA表示，預計大部分結構在重返大氣層過程中燒燬，可能有少量碎片落至地面，目前尚未收到地面人員傷亡或財產損失報告。該天文臺2004年發射升空，最初設計任務期限為兩年。（央視新聞）"
+    },
+    {
+      "id": "5194873",
+      "time": "2026-11-05 10:21:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量3782億元。"
+    },
+    {
+      "id": "5194872",
+      "time": "2026-11-05 10:21:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科德數控：燃氣輪機、半導體等領域訂單均按期履約交付】科德數控(688305)在2026年第三季度業績說明會上表示，公司在燃氣輪機、半導體等領域訂單均按期履約交付，新簽訂單也在持續推進。公司將堅持航空航天基本盤，同時向半導體、能源、醫療、汽車等多元領域延伸，依託新廠等基地產能釋放、核心部件高國產化率及國產替代視窗，加快高附加值訂單落地轉化。"
+    },
+    {
+      "id": "mkt:01a1a982-1693-7ee0-aa80-ad2138c1c1f6",
+      "time": "2026-11-05 10:20:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【Samsung, SK Hynix tumble on US post-midterm data‑center/AI regulation fears】Samsung Electronics and SK Hynix fell sharply in early trade as investors worried that tighter US regulation of data centers and AI infrastructure after the US midterm elections could pressure semiconductor shares and weigh on sentiment toward Korean chip names. Kiwoom Securities said the impact on data‑center projects already under way, existing supply contracts and downward revisions to earnings expectations for AI‑infrastructure suppliers would likely be limited."
+    },
+    {
+      "id": "5194871",
+      "time": "2026-11-05 10:20:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多隻科創新能源ETF與光伏ETF漲超7%】光伏裝置板塊漲超9%，BC電池板塊漲超7%。 科創新能源ETF易方達、科創新能源ETF鵬華等多隻科創新能源ETF漲超7%，海博思創漲超11%，晶科能源、天合光能等跟漲。光伏龍頭ETF廣發漲超7%，成分股中陽光電源漲超9%，特變電工等跟漲。"
+    },
+    {
+      "id": "5194870",
+      "time": "2026-11-05 10:19:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【高股息紅利股持續走弱 中國石油等多股跌超5%】高股息紅利股盤中持續走弱，煤炭、石油方向領跌，中國石油跌超8%，中國海油、鄂爾多斯、廣匯能源、中國神華、兗礦能源均跌超5%。"
+    },
     {
       "id": "5194869",
       "time": "2026-11-05 10:19:24",
@@ -108580,78 +108693,6 @@
         "WTI"
       ],
       "text": "【Institutions see domestic fuel prices likely to rise in next adjustment】China's next domestic refined-fuel price window opens at 24:00 on Oct 29; the pricing cycle runs from 24:00 on Oct 15 to 24:00 on Oct 29. Several market analysts expect an upward adjustment, citing sustained Middle East tensions — US‑Iran standoff and Houthi attacks on Saudi Arabia — that bolster crude risk premia. Brent has remained above $100/bbl, keeping international crude high; the domestic crude-change rate for this cycle is increasingly positive, implying a higher probability and larger magnitude of a fuel-price increase. Year-to-date China has had 20 adjustments (13 up, 5 down, 2 neutral); a rise in this round would make 2026’s tally 14 up, 5 down, 2 neutral."
-    },
-    {
-      "id": "mkt:01a18577-c211-7ee0-a9d2-11092d114f7c",
-      "time": "2026-10-29 10:23:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Zhongfu Information launches Wujou attack‑defense AI agent】Zhongfu Information said its Yuanheng Lab has launched the Wujou attack‑defense AI agent, embedding AI collaboration into security attack‑and‑defense workflows for enterprise security and authorized teams. The agent automates project‑centric information collection, analysis and validation, gives teams real‑time progress visibility, preserves process records and evidence‑based conclusions, and uses a task‑tree workflow to iterate objectives — aimed at smoother operations, clearer handovers and easier review and delivery."
-    },
-    {
-      "id": "mkt:01a18577-b91a-7ee0-a9d2-0d7f6af63c0d",
-      "time": "2026-10-29 10:22:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese researchers synthesize pentagon-heptagon carbon nanoribbon showing efficient electron transport】Researchers at the University of Science and Technology of China reported they used stepwise surface synthesis to produce a metallic carbon nanoribbon composed exclusively of five- and seven-membered rings. The team said the sub-nanometer-wide, one-dimensional structure—carbon atoms joined by covalent bonds—exhibits efficient electronic transport; results were published online in Nature on the 29th."
-    },
-    {
-      "id": "mkt:01a18577-1e28-7ee0-a9d2-042961b6485c",
-      "time": "2026-10-29 10:22:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Hang Seng Index",
-        "Impact bearish",
-        "02513.HK",
-        "00100.HK"
-      ],
-      "text": "Hang Seng Tech index extends losses to 2%; Hang Seng Index down 0.13%. AI sector slides: Zhipu (02513.HK) down 7.7%, MINIMAX-W (00100.HK) down 6.3%."
-    },
-    {
-      "id": "5178209",
-      "time": "2026-10-29 10:22:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊正式釋出Buddy One、騰訊網盤】今日騰訊正式釋出辦公套件Buddy One、騰訊網盤。據悉，Buddy One以WorkBuddy為工作臺，整合騰訊文件、ima、騰訊設計等工具，透過統一賬號、積分池、資料池，針對不同的需求呼叫不同的工具來生成多模態內容。同時，騰訊網盤將為WorkBuddy套件提供統一儲存，使企業內容一體管理，同時支援Agent在工作中積累的上下文生成成果安全儲存，隨時呼叫沉澱為組織資產。 (財聯社)"
-    },
-    {
-      "id": "5178204",
-      "time": "2026-10-29 10:21:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中孚資訊正式釋出無咎攻防智慧體】據中孚資訊訊息，中孚資訊元亨實驗室推出無咎攻防智慧體，將AI協作嵌入安全攻防過程，面向企業安全團隊與授權團隊，圍繞專案目標組織安全攻防工作AI全自動資訊收集、分析與驗證，團隊則能隨時檢視進展，並基於過程記錄和證據審閱結論，使用任務樹模式迭代目標演進，讓安全攻防推進更連貫、交接更清晰、成果更便於複核與交付。"
-    },
-    {
-      "id": "5178203",
-      "time": "2026-10-29 10:21:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超2%，現報3776.610點；恒生指數現跌0.141%。"
-    },
-    {
-      "id": "mkt:01a18575-120d-7ee0-a9d1-fac73a0f73e1",
-      "time": "2026-10-29 10:20:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "000660.KS"
-      ],
-      "text": "【Dollar rebound and safe‑haven outflows weigh on yen ahead of BOJ decision】USD/JPY recovered part of the prior session's losses, trading around 158.00 in the Asian session on Thursday. A broad dollar rebound and safe‑haven outflows have pressured the yen, alongside falling government bond prices and improved AI-sector sentiment. SK Hynix reported strong Q3 results and said it will raise shareholder returns as AI-driven profit growth accelerates, boosting market optimism for the AI theme. Market attention is on the BOJ policy meeting Friday; markets largely expect policy to be left unchanged, but officials could signal a possible December rate hike amid persistent inflation. RABOBANK strategists note the yen is the second‑strongest G10 currency in H2 to date after the Norwegian krone and ranks fourth year‑to‑date among G10 currencies."
     }
   ]
 }
