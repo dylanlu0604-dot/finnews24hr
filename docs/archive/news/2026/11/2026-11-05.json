@@ -1,7 +1,89 @@
 {
   "date": "2026-11-05",
-  "count": 880,
+  "count": 888,
   "items": [
+    {
+      "id": "mkt:01a1a987-ddb7-7ee0-aa80-d3624cef7482",
+      "time": "2026-11-05 10:26:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "02015.HK",
+        "Impact bullish",
+        "09863.HK",
+        "01211.HK"
+      ],
+      "text": "Hong Kong-listed auto stocks extended gains; Li Auto (02015.HK) rose more than 8%, Leapmotor (09863.HK) climbed over 6%, while Geely (00175.HK) and BYD Co. (01211.HK) also gained."
+    },
+    {
+      "id": "5194901",
+      "time": "2026-11-05 10:26:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國擬將清海部隊行動範圍擴大至更靠近霍爾木茲海峽水域】韓國國防部表示，韓國計劃將執行反海盜任務的清海(Cheonghae)部隊行動範圍擴大至更靠近霍爾木茲海峽的水域。此前美國總統特朗普施壓，要求韓國為對伊朗戰爭提供支援。韓國國防部一名發言人證實，政府將向國會提交一項動議，延長清海部隊在中東的部署期限。該部隊目前的部署授權將於2026年底到期。自2009年以來，清海部隊一直部署在亞丁灣，以保障商船航行安全。根據該動議，清海部隊的行動範圍將擴大至阿曼杜庫姆港(Duqm)附近水域。該地距離霍爾木茲海峽約650公里(403英里)。"
+    },
+    {
+      "id": "5194892",
+      "time": "2026-11-05 10:25:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數回吐早前漲幅，目前下跌0.2%，報62069.01點。"
+    },
+    {
+      "id": "5194891",
+      "time": "2026-11-05 10:25:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達5.02%，成分股中，中科飛測漲18.95%，阿特斯漲15.32%，盛科通訊漲12.34%，芯原股份漲12.32%。"
+    },
+    {
+      "id": "5194890",
+      "time": "2026-11-05 10:25:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "滬指重新站上3700點，現漲0.38%。"
+    },
+    {
+      "id": "mkt:01a1a985-c6a2-7ee0-aa80-ce5fa335dc8d",
+      "time": "2026-11-05 10:24:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "A-shares extended gains in the morning session; the Shanghai Composite reclaimed 3,700 points and the STAR 50 index rose over 5% intraday."
+    },
+    {
+      "id": "5194883",
+      "time": "2026-11-05 10:24:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【雙創火爆！科創50ETF華夏54分鐘百億成交】開盤不到1小時，科創50ETF華夏（588000）成交額達100億元，較昨日此時大幅放量，當前漲幅為4.63%，多隻科創50ETF跟隨放量上漲：科創50ETF易方達（588080）成交額超23億元、科創50ETF廣發（588060）成交額近10億元。此外，創業板易方達（159915）成交額超80億元，當前漲幅3%，創業板ETF廣發（159952）成交額超11億元。"
+    },
+    {
+      "id": "mkt:01a1a984-ed4b-7ee0-aa80-c7dfad89b2cd",
+      "time": "2026-11-05 10:23:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "00981.HK",
+        "Impact bullish",
+        "09903.HK",
+        "02878.HK"
+      ],
+      "text": "Hong Kong semiconductor stocks extended gains: SMIC (00981.HK) up over 5%, Tianshu Zhixin (09903.HK) up over 12%, Hongguang Semiconductor (06908.HK) and Jingmen Semiconductor (02878.HK) also higher."
+    },
     {
       "id": "5194878",
       "time": "2026-11-05 10:23:08",

@@ -1,7 +1,89 @@
 {
-  "updated": "2026-11-05 10:24:05",
-  "count": 11800,
+  "updated": "2026-11-05 10:27:50",
+  "count": 11799,
   "items": [
+    {
+      "id": "mkt:01a1a987-ddb7-7ee0-aa80-d3624cef7482",
+      "time": "2026-11-05 10:26:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "02015.HK",
+        "Impact bullish",
+        "09863.HK",
+        "01211.HK"
+      ],
+      "text": "Hong Kong-listed auto stocks extended gains; Li Auto (02015.HK) rose more than 8%, Leapmotor (09863.HK) climbed over 6%, while Geely (00175.HK) and BYD Co. (01211.HK) also gained."
+    },
+    {
+      "id": "5194901",
+      "time": "2026-11-05 10:26:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國擬將清海部隊行動範圍擴大至更靠近霍爾木茲海峽水域】韓國國防部表示，韓國計劃將執行反海盜任務的清海(Cheonghae)部隊行動範圍擴大至更靠近霍爾木茲海峽的水域。此前美國總統特朗普施壓，要求韓國為對伊朗戰爭提供支援。韓國國防部一名發言人證實，政府將向國會提交一項動議，延長清海部隊在中東的部署期限。該部隊目前的部署授權將於2026年底到期。自2009年以來，清海部隊一直部署在亞丁灣，以保障商船航行安全。根據該動議，清海部隊的行動範圍將擴大至阿曼杜庫姆港(Duqm)附近水域。該地距離霍爾木茲海峽約650公里(403英里)。"
+    },
+    {
+      "id": "5194892",
+      "time": "2026-11-05 10:25:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數回吐早前漲幅，目前下跌0.2%，報62069.01點。"
+    },
+    {
+      "id": "5194891",
+      "time": "2026-11-05 10:25:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達5.02%，成分股中，中科飛測漲18.95%，阿特斯漲15.32%，盛科通訊漲12.34%，芯原股份漲12.32%。"
+    },
+    {
+      "id": "5194890",
+      "time": "2026-11-05 10:25:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "滬指重新站上3700點，現漲0.38%。"
+    },
+    {
+      "id": "mkt:01a1a985-c6a2-7ee0-aa80-ce5fa335dc8d",
+      "time": "2026-11-05 10:24:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "A-shares extended gains in the morning session; the Shanghai Composite reclaimed 3,700 points and the STAR 50 index rose over 5% intraday."
+    },
+    {
+      "id": "5194883",
+      "time": "2026-11-05 10:24:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【雙創火爆！科創50ETF華夏54分鐘百億成交】開盤不到1小時，科創50ETF華夏（588000）成交額達100億元，較昨日此時大幅放量，當前漲幅為4.63%，多隻科創50ETF跟隨放量上漲：科創50ETF易方達（588080）成交額超23億元、科創50ETF廣發（588060）成交額近10億元。此外，創業板易方達（159915）成交額超80億元，當前漲幅3%，創業板ETF廣發（159952）成交額超11億元。"
+    },
+    {
+      "id": "mkt:01a1a984-ed4b-7ee0-aa80-c7dfad89b2cd",
+      "time": "2026-11-05 10:23:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "00981.HK",
+        "Impact bullish",
+        "09903.HK",
+        "02878.HK"
+      ],
+      "text": "Hong Kong semiconductor stocks extended gains: SMIC (00981.HK) up over 5%, Tianshu Zhixin (09903.HK) up over 12%, Hongguang Semiconductor (06908.HK) and Jingmen Semiconductor (02878.HK) also higher."
+    },
     {
       "id": "5194878",
       "time": "2026-11-05 10:23:08",
@@ -108611,88 +108693,6 @@
         "國際"
       ],
       "text": "日本內閣官房長官木原稔：難以說明各類網路攻擊對GDP影響的具體細節。"
-    },
-    {
-      "id": "5178233",
-      "time": "2026-10-29 10:27:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "道達爾能源收購了雪佛龍在美國近海26個區塊中25%的權益。"
-    },
-    {
-      "id": "5178229",
-      "time": "2026-10-29 10:27:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "道達爾能源進入由雪佛龍運營的26個海上區塊。"
-    },
-    {
-      "id": "mkt:01a1857b-40d8-7ee0-a9d2-261af91ca1ed",
-      "time": "2026-10-29 10:26:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhiyuan Robotics 1H2026 revenue near 2 bln yuan; general AI robot production 20,000 units】At its 2026 Innovation Day, co-founder, president and CTO Peng Zhihui said Zhiyuan Robotics' 1H2026 revenue was close to 2 bln yuan and cumulative production of its general AI robots reached 20,000 units."
-    },
-    {
-      "id": "5178222",
-      "time": "2026-10-29 10:25:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【機構預測本輪油價或將上調】國內成品油新一輪調價視窗將在10月29日24時開啟。多家機構預測，本輪油價或將上調。本輪計價週期為2026年10月15日24時至10月29日24時。隆眾資訊分析師劉炳娟稱，近期中東局勢整體偏緊，美伊博弈僵持，胡塞武裝襲擾沙特，地緣風險短期難以消解，為油價提供較強底部支撐。劉炳娟指出，國際原油維持高位執行，布倫特穩居100美元/桶以上的高區間執行。受此影響，本輪計價週期對應的國內原油變化率持續正向擴大，對應上調幅度不斷放大。金聯創分析師徐鵬也認為，本輪成品油計價週期，國際原油受中東地緣風險驅動持續走強，原油變化率正向發展，國內成品油上調預期幅度不斷擴大。今年以來，國內油價已經歷20輪調價，總體格局為“十三漲五跌二擱淺”。若本輪調價如預期上調，2026年的調價格局將變為“十四漲五跌二擱淺”。（中新經緯）"
-    },
-    {
-      "id": "5178219",
-      "time": "2026-10-29 10:25:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多隻創業板人工智慧ETF跌超6%】創業板人工智慧ETF華夏（159371）、 創業板人工智慧ETF富國（159246）、創業板人工智慧ETF國泰（159388）等跌超6%，創業板人工智慧ETF南方跌超8%。"
-    },
-    {
-      "id": "5178215",
-      "time": "2026-10-29 10:24:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【四大行總市值盤中突破10萬億元大關 創出歷史新高】10月29日上午，銀行指數大漲超1%，重新整理階段新高。青島銀行、成都銀行、齊魯銀行等個股均漲超3%。四大行也全線上漲，工商銀行漲超2%，創出歷史新高。值得一提的是，中農工建四大行總市值盤中突破10萬億元大關，創出歷史新高。其中，工商銀行總市值超過2.9萬億元，建設銀行超過2.35萬億元，農業銀行逼近2.6萬億元，中國銀行超過2.1萬億元。"
-    },
-    {
-      "id": "5178214",
-      "time": "2026-10-29 10:24:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：培養並留住網路安全人才刻不容緩。"
-    },
-    {
-      "id": "te:markets:596039",
-      "time": "2026-10-29 10:24:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Asian Stocks Mostly Lower on Weak Tech Earnings — Asian equity markets mostly declined on Thursday as disappointing results from major technology companies reignited concerns over the sustainability of heavy investments in artificial intelligence. Shares of Alphabet, Google’s parent company, plunged nearly 10% in after-hours trading after reporting weaker-than-expected third-quarter revenue across most of its core businesses, which help finance its AI spending. Meanwhile, South Korean chipmaker Samsung Electronics fell more than 5% after its results failed to meet lofty investor expectations. The Kospi Index, a key gauge of sentiment toward AI-related stocks, dropped around 3%, while benchmark indexes in Japan, China, and Hong Kong also came under pressure. On the monetary policy front, the US Federal Reserve kept interest rates unchanged in a widely anticipated decision, although two policymakers dissented in favor of a rate hike, adding to uncertainty over the future policy outlook."
-    },
-    {
-      "id": "mkt:01a18578-de97-7ee0-a9d2-1e4085a8384b",
-      "time": "2026-10-29 10:24:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Institutions see domestic fuel prices likely to rise in next adjustment】China's next domestic refined-fuel price window opens at 24:00 on Oct 29; the pricing cycle runs from 24:00 on Oct 15 to 24:00 on Oct 29. Several market analysts expect an upward adjustment, citing sustained Middle East tensions — US‑Iran standoff and Houthi attacks on Saudi Arabia — that bolster crude risk premia. Brent has remained above $100/bbl, keeping international crude high; the domestic crude-change rate for this cycle is increasingly positive, implying a higher probability and larger magnitude of a fuel-price increase. Year-to-date China has had 20 adjustments (13 up, 5 down, 2 neutral); a rise in this round would make 2026’s tally 14 up, 5 down, 2 neutral."
     }
   ]
 }
