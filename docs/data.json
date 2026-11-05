@@ -1,7 +1,81 @@
 {
-  "updated": "2026-11-05 10:39:16",
-  "count": 11805,
+  "updated": "2026-11-05 10:43:05",
+  "count": 11801,
   "items": [
+    {
+      "id": "te:markets:598385",
+      "time": "2026-11-05 10:41:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Weakens After Democratic Victory — The US dollar index declined to around 101.3 on Thursday, extending losses from the previous session as markets continued to evaluate the impact of Democratic gains in the US midterm elections. The decisive outcome eased a source of political uncertainty, supporting a rally in global equity markets, which generally weighs on demand for the greenback. However, AI-related shares came under pressure amid concerns about the potential impact of Democratic control on future data-center investments. The election results also heightened expectations of political gridlock in Washington and reduced the likelihood of President Trump resuming military strikes against Iran. These developments contributed to a sharp decline in oil prices and weakened safe-haven demand for the dollar. Investors are now focused on Friday's key US employment report, with traders currently pricing in a 79% probability of a Federal Reserve rate hike in December."
+    },
+    {
+      "id": "5194990",
+      "time": "2026-11-05 10:41:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京國管與香港投資推廣署簽署合作備忘錄】11月4日，北京國管與香港特別行政區政府投資推廣署在第29屆北京·香港經濟合作研討洽談會開幕式上籤署合作備忘錄。根據合作備忘錄，雙方將圍繞京港雙向交流協作、企業跨境投資佈局、國際化經營發展等領域開展全方位合作，依託香港國際化平臺優勢，支援北京優質企業立足香港、佈局全球，促進京港產業、資本等要素雙向流動。"
+    },
+    {
+      "id": "5194989",
+      "time": "2026-11-05 10:41:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中期選舉失利後首度露面，特朗普再提中國人民大會堂：“令人驚歎”】當地時間11月4日，特朗普在白宮宴會廳施工現場觀看橫樑架設並在橫樑上簽名。當被問及是否擔心被彈劾時，特朗普說：“一點兒也不擔心。” 特朗普威脅稱：“我認為如果他們真的這麼做，那隻會毀了民主黨。”隨後特朗普反問：“這種彈劾毫無理由。為什麼？難道是因為我們國家治理得很成功嗎？我們國家現在的成功程度在歷史上是前所未有的。” 最後特朗普轉移話題結束記者的問詢，他說：“等著看鋼樑升起來吧。” 據悉，特朗普當天來到白宮宴會廳的施工現場參觀，並與記者進行交談，此時最後一根鋼樑即將安裝到位，這是特朗普在中期選舉失利後首次公開露面。 在談及新建的白宮宴會廳時，他再度提及中國的人民大會堂。特朗普說：“我之前在中國時曾去過‘大會堂’，也就是中國的‘人民大會堂’，確實令人驚歎。”（國是直通車）"
+    },
+    {
+      "id": "mkt:01a1a994-d573-7ee0-aa81-09452a8a24f0",
+      "time": "2026-11-05 10:41:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "Mainland A-share energy metals sector extended gains; Rongjie Co. hit the daily limit. Yongshan Lithium, Shengxin Lithium Energy, Ganfeng Lithium, TTANQT LITHIUM and Yongxing Materials also advanced."
+    },
+    {
+      "id": "5194988",
+      "time": "2026-11-05 10:41:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【能源金屬板塊持續走高，融捷股份漲停】能源金屬板塊持續走高，融捷股份漲停，永杉鋰業、盛新鋰能、贛鋒鋰業、天齊鋰業、永興材料等紛紛走高。"
+    },
+    {
+      "id": "5194984",
+      "time": "2026-11-05 10:40:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達20億港元。"
+    },
+    {
+      "id": "5194983",
+      "time": "2026-11-05 10:40:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：寧德時代淨買入超8億】截至目前，今日主力資金淨流入175.55億；淨流入轉融券標的、融資融券、科創企業同股同權等板塊，其中轉融券標的板塊淨流入162.11億；淨流出CPO概念、超大盤、元件等板塊，其中CPO概念板塊淨流出39.84億。\n  \n個股方面，寧德時代淨買入8.20億元位居首位，中微公司、利歐股份、陽光電源主力資金淨流入居前；東山精密淨賣出11.47億元位居首位，中際旭創、長鑫科技、新易盛淨流出額居前。"
+    },
+    {
+      "id": "5194968",
+      "time": "2026-11-05 10:39:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "寧德時代A股成交額超100億元，現漲6.75%。"
+    },
     {
       "id": "5194967",
       "time": "2026-11-05 10:38:16",
@@ -108633,115 +108707,6 @@
         "市場"
       ],
       "text": "30年期美債收益率下跌5個基點，報5.311%。"
-    },
-    {
-      "id": "mkt:01a18589-69e8-7ee0-a9d2-773a99b867fd",
-      "time": "2026-10-29 10:42:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 10-year Treasury yield fell 6 bps to 4.984%."
-    },
-    {
-      "id": "5178293",
-      "time": "2026-10-29 10:42:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【矩僑工業完成億元A輪融資，螞蟻集團領投】10月29日，據多維資本訊息，矩僑工業近日宣佈完成億元A輪融資，由螞蟻集團領投，零以創投、威海港融和青島和信作為老股東繼續加註，多維資本擔任長期獨家財務顧問。公司將藉助本輪融資擴大織物電子皮膚的生產與交付，推進觸覺及多模態技術研發，並加快機器人、家居和康養產品的應用拓展。"
-    },
-    {
-      "id": "5178292",
-      "time": "2026-10-29 10:41:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：成都國星宇航科技股份有限公司透過港交所上市聆訊。"
-    },
-    {
-      "id": "mkt:01a18588-f8d3-7ee0-a9d2-6cc03f4d1649",
-      "time": "2026-10-29 10:41:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HKEX filing: Chengdu Guoxing Aerospace Technology Co. passed its HKEX listing hearing."
-    },
-    {
-      "id": "5178291",
-      "time": "2026-10-29 10:41:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債收益率最新下跌6個基點，至4.984%。"
-    },
-    {
-      "id": "mkt:01a18587-bcfe-7ee0-a9d2-60d4b45cecae",
-      "time": "2026-10-29 10:40:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Xinhecheng preparing filings for glufosinate-ammonium project】In an online investor meeting Xinhecheng said it is pursuing a glufosinate-ammonium project to capture supply-chain synergies and expand its crop-protection portfolio. The refined glufosinate project has received environmental impact assessment (EIA) approval and the company is preparing project-approval filings. Timing and scale of large-scale production investment will be determined based on company strategy and market conditions."
-    },
-    {
-      "id": "5178290",
-      "time": "2026-10-29 10:40:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【橫店東磁投資成立新能源科技公司】企查查APP顯示，近日，浙江東磁新能源科技有限公司成立，經營範圍包含新興能源技術研發；電池製造；電池銷售；新材料技術研發等。企查查股權穿透顯示，該公司由橫店東磁全資持股。"
-    },
-    {
-      "id": "5178289",
-      "time": "2026-10-29 10:40:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：天孚通訊淨賣出超16億】截至目前，今日主力資金淨流出373.72億；淨流入衛星導航、航天裝備概念、軍民融合等板塊，其中衛星導航板塊淨流入16.60億；淨流出融資融券、轉融券標的、TMT等板塊，其中融資融券板塊淨流出355.57億。\n  \n個股方面，中國衛星淨買入3.80億元位居首位，鈞達股份、順灝股份、西部材料主力資金淨流入居前；天孚通訊淨賣出16.93億元位居首位，新易盛、滬電股份、佰維儲存淨流出額居前。"
-    },
-    {
-      "id": "5178288",
-      "time": "2026-10-29 10:40:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新和成：目前正在進行草銨膦立項準備工作】新和成(002001)10月28日在與投資者的線上會議中表示，公司佈局草銨膦專案主要考慮產業鏈的協同性，公司積極關注植保。精草銨膦專案目前已獲環評審批，目前正在進行草銨膦立項準備工作，大生產投建計劃需結合公司戰略及市場情況確定。"
-    },
-    {
-      "id": "mkt:01a18587-2621-7ee0-a9d2-594ccae940bf",
-      "time": "2026-10-29 10:39:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US two-year Treasury yield fell 5.8 bps to 4.676%."
-    },
-    {
-      "id": "5178287",
-      "time": "2026-10-29 10:39:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【冰雪經濟概念異動拉昇 冰山冷熱直線漲停】冰雪經濟概念異動拉昇，冰山冷熱直線漲停，龍江交通回封漲停，晶雪節能、雪人集團、長白山、大連聖亞跟漲。"
-    },
-    {
-      "id": "5178286",
-      "time": "2026-10-29 10:39:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "木原稔：不便透露日德GCAP會談的任何細節。"
     }
   ]
 }
