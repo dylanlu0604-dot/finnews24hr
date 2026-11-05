@@ -1,7 +1,79 @@
 {
-  "updated": "2026-11-05 18:14:41",
-  "count": 11532,
+  "updated": "2026-11-05 18:18:28",
+  "count": 11537,
   "items": [
+    {
+      "id": "5196115",
+      "time": "2026-11-05 18:17:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傑普特：擬以5000萬元-7000萬元回購公司股份】傑普特公告，擬以自有資金或自籌資金透過集中競價交易方式回購公司股份，回購資金總額不低於人民幣5000萬元（含）且不超過人民幣7000萬元（含），回購價格不超過550元/股（含）。本次回購的股份擬將全部予以登出並減少公司註冊資本。按回購價格上限測算，預計回購股份數量為9.09萬股~12.73萬股，佔總股本比例0.10%~0.13%。回購期限自公司股東會審議透過本次回購方案之日起12個月內。"
+    },
+    {
+      "id": "te:economy:598587",
+      "time": "2026-11-05 18:16:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Retail Sales MoM",
+        "Importance 1"
+      ],
+      "text": "Italian Retail Trade Barely Grows in September — Retail sales in Italy rose by just 0.1% month-on-month in September 2026, following a 0.3% increase in August and missing forecasts of a 0.2% gain. Food sales remained unchanged, compared with a 0.7% increase in August, while non-food sales rose by 0.3%, after being flat in the previous month. On a yearly basis, retail sales grew by 1.6%, picking up from a 0.5% increase in the prior month."
+    },
+    {
+      "id": "5196114",
+      "time": "2026-11-05 18:16:26",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行齊格曼：12月加息的可能性“相當大”。"
+    },
+    {
+      "id": "5196113",
+      "time": "2026-11-05 18:16:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本足協主席田嶋幸三將競選國際足聯主席。"
+    },
+    {
+      "id": "mkt:01a1ab34-982b-7ee0-aa8c-4b4c2377e2a2",
+      "time": "2026-11-05 18:15:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Czech police say four aircraft bound for Prague received bomb threats and are preparing to land; authorities assess the threats as having low credibility."
+    },
+    {
+      "id": "5196112",
+      "time": "2026-11-05 18:15:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷克警方：四架飛往布拉格的飛機遭遇炸彈威脅；正在為降落做準備。評估認為相關威脅的可信度較低。"
+    },
+    {
+      "id": "5196111",
+      "time": "2026-11-05 18:14:46",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗海軍稱，週四上午一艘油輪在霍爾木茲海域觸雷。"
+    },
+    {
+      "id": "5196110",
+      "time": "2026-11-05 18:14:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "芬蘭航空表示，其中一架航班為赫爾辛基至羅馬，另一架為赫爾辛基至維也納。"
+    },
     {
       "id": "5196109",
       "time": "2026-11-05 18:14:05",
@@ -106220,42 +106292,6 @@
         "Importance 2"
       ],
       "text": "Eurozone Sentiment Falls Again in October — The Eurozone Economic Sentiment Indicator fell for a second consecutive month to 96.9 in October 2026, missing market expectations of 97.5. Consumer confidence deteriorated to -17.9, its lowest level since May, as households became more pessimistic about their past and future financial situations. Meanwhile, inflation expectations remained elevated at 33.9, easing slightly from 34.7 in September. Sentiment also weakened among retailers (-8.0 vs. -6.5), construction firms (-5.9 vs. -5.3), and service providers (5.3 vs. 5.9). In contrast, confidence among manufacturers improved to -3.4 from -3.9. Among major economies, sentiment declined sharply in the Netherlands (-3.4 points), while Germany (-0.7) and Spain (-0.5) recorded more moderate decreases. Italy saw a modest improvement (+0.8), while France remained broadly stable (+0.1)."
-    },
-    {
-      "id": "te:economy:596242",
-      "time": "2026-10-29 18:17:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Montenegro",
-        "Tourist Arrivals",
-        "Importance 1"
-      ],
-      "text": "Montenegro Tourist Arrivals Rise 9.3% in September — The number of tourist arrivals in Montenegro rose 9.3% year-on-year in September 2026 from a 8.0% rise in the previous month. Foreign visitors remained the primary source of arrivals, accounting for 92.2% of the total, or 190,932 arrivals, while domestic arrivals represented 7.8% or 16,186. Among foreign tourists, Europe continued to be the largest source region, accounting for 77.2% of arrivals, led by Germany, Poland, Serbia, France, and the United Kingdom. Outside Europe, which accounted for 22.8% of arrivals, the largest shares came from the United States, Israel, and China, including Hong Kong. By type of accommodation, seaside resorts remained the most popular, accounting for 79.3% of arrivals, followed by the capital (11.4%), mountain resorts (5.6%), and other resorts (3.7%). Meanwhile, overnight stays in collective accommodation totaled 757,128, with foreign visitors accounting for 91.3% and domestic visitors for 8.7%."
-    },
-    {
-      "id": "te:economy:596241",
-      "time": "2026-10-29 18:16:39",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Euro Area",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Eurozone Consumer Confidence Confirmed at 5-Month Low — Consumer confidence in the Euro Area was at -17.9 in October 2026, down from -16.8 in September and reaching its lowest level since May, in line with the preliminary estimate. Consumer confidence weakened for the second consecutive month, as consumers became more pessimistic about their household’s past and expected financial situation and less willing to make major purchases. Meanwhile, expectations regarding the country’s general economic situation remained largely unchanged. Sentiment also weakened across the broader European Union, with the index falling to -17.3 from -16.1 in September."
-    },
-    {
-      "id": "te:economy:596240",
-      "time": "2026-10-29 18:16:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Croatia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Croatia Industrial Output Rises in September — Croatia’s industrial production rose by 7.0% year-on-year in September 2026 from 5.2% in the previous month. Output growth strengthened for intermediate goods (22.8% vs. 14.3%), while it slowed for energy (4.1% vs. 10.4%). Conversely, output declined for capital goods (-12.4% vs. -4.2%), durable consumer goods (-18.2% vs. 1.0%), and non-durable consumer goods (-1.4% vs. -1.7%). By sector, manufacturing output accelerated (6.6% vs. 4.8% in August), particularly for beverages (22.1% vs. -0.7%), electrical equipment (111.5% vs. 79.9%), and basic metals (5.7% vs. 1.8%). Meanwhile, production growth slowed in electricity, gas, steam and air conditioning supply (9.1% vs. 13.4%), while the decline in mining and quarrying deepened (-7.6% vs. -3.7%). On a seasonally adjusted monthly basis, industrial production rose by 2.4%, rebounding from a 0.4% decline in the previous month. Over the January-September period, industrial output increased by 2.4% compared with the same period last year."
     }
   ]
 }

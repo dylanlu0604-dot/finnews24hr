@@ -1,7 +1,79 @@
 {
   "date": "2026-11-05",
-  "count": 1506,
+  "count": 1514,
   "items": [
+    {
+      "id": "5196115",
+      "time": "2026-11-05 18:17:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傑普特：擬以5000萬元-7000萬元回購公司股份】傑普特公告，擬以自有資金或自籌資金透過集中競價交易方式回購公司股份，回購資金總額不低於人民幣5000萬元（含）且不超過人民幣7000萬元（含），回購價格不超過550元/股（含）。本次回購的股份擬將全部予以登出並減少公司註冊資本。按回購價格上限測算，預計回購股份數量為9.09萬股~12.73萬股，佔總股本比例0.10%~0.13%。回購期限自公司股東會審議透過本次回購方案之日起12個月內。"
+    },
+    {
+      "id": "te:economy:598587",
+      "time": "2026-11-05 18:16:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Retail Sales MoM",
+        "Importance 1"
+      ],
+      "text": "Italian Retail Trade Barely Grows in September — Retail sales in Italy rose by just 0.1% month-on-month in September 2026, following a 0.3% increase in August and missing forecasts of a 0.2% gain. Food sales remained unchanged, compared with a 0.7% increase in August, while non-food sales rose by 0.3%, after being flat in the previous month. On a yearly basis, retail sales grew by 1.6%, picking up from a 0.5% increase in the prior month."
+    },
+    {
+      "id": "5196114",
+      "time": "2026-11-05 18:16:26",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行齊格曼：12月加息的可能性“相當大”。"
+    },
+    {
+      "id": "5196113",
+      "time": "2026-11-05 18:16:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本足協主席田嶋幸三將競選國際足聯主席。"
+    },
+    {
+      "id": "mkt:01a1ab34-982b-7ee0-aa8c-4b4c2377e2a2",
+      "time": "2026-11-05 18:15:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Czech police say four aircraft bound for Prague received bomb threats and are preparing to land; authorities assess the threats as having low credibility."
+    },
+    {
+      "id": "5196112",
+      "time": "2026-11-05 18:15:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷克警方：四架飛往布拉格的飛機遭遇炸彈威脅；正在為降落做準備。評估認為相關威脅的可信度較低。"
+    },
+    {
+      "id": "5196111",
+      "time": "2026-11-05 18:14:46",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗海軍稱，週四上午一艘油輪在霍爾木茲海域觸雷。"
+    },
+    {
+      "id": "5196110",
+      "time": "2026-11-05 18:14:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "芬蘭航空表示，其中一架航班為赫爾辛基至羅馬，另一架為赫爾辛基至維也納。"
+    },
     {
       "id": "te:economy:598586",
       "time": "2026-11-05 18:14:05",
