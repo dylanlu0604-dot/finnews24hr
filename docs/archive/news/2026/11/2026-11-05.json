@@ -1,7 +1,129 @@
 {
   "date": "2026-11-05",
-  "count": 1346,
+  "count": 1360,
   "items": [
+    {
+      "id": "mkt:01a1ab0c-7c29-7ee0-aa8a-f5fc5d5ec1ec",
+      "time": "2026-11-05 17:31:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Southbound Stock Connect registered a net sell of RMB 21.326 bln today. HK Stock Connect (Shanghai) saw Tracker Fund of Hong Kong and Xiaomi-W as top net sells at HKD 4.085 bln and HKD 2.138 bln; Kingboard Laminates led net buys at HKD 774 mln. HK Stock Connect (Shenzhen) recorded net sells in Tracker Fund of Hong Kong and China Southern Hang Seng TECH ETF of HKD 3.579 bln and HKD 2.707 bln; Alibaba-W was top net buy at HKD 318 mln."
+    },
+    {
+      "id": "5196007",
+      "time": "2026-11-05 17:30:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中阿（聯酋）舉行第三輪領事磋商】2026年11月4日，外交部領事司司長龍舟與阿聯酋外交部領事事務助理次長謝赫希薩在阿布扎比共同主持中阿第三輪領事磋商。雙方重點就中阿領事關係、便利人員往來、維護海外公民安全與合法權益等議題深入交換意見。雙方一致同意要落實好兩國元首重要共識，加強領事領域溝通協調，進一步提升雙方人員往來便利化水平，維護好雙方人員和機構安全與合法權益，為兩國人文交流和各領域務實合作創造安全、便利條件，推動中阿關係不斷邁上新臺階。（外交部）"
+    },
+    {
+      "id": "5196006",
+      "time": "2026-11-05 17:30:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【融捷股份：回購方案實施完畢，累計回購100萬股支付5102.78萬元】融捷股份公告，公司於2026年8月5日召開臨時股東會審議透過回購方案，擬使用自有資金以集中競價方式回購公司股份，用於維護公司價值及股東權益，回購資金總額不低於人民幣5000萬元（含）且不高於人民幣1億元（含），回購價格不超過人民幣73元/股（含），實施期限自股東會審議透過之日起不超過三個月。截至2026年11月4日，回購期限已屆滿，公司累計回購股份100萬股，佔公司當前總股本的比例為0.39%，最高成交價70.74元/股，最低成交價44.08元/股，成交總金額5102.78萬元（不含交易費用），實際回購金額已超過方案下限且不超過上限，本次回購方案實施完畢。"
+    },
+    {
+      "id": "mkt:01a1ab0b-5eac-7ee0-aa8a-eea48873a34b",
+      "time": "2026-11-05 17:30:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK construction PMI 43.6 in October, below forecast 46.1 and prior 46.1."
+    },
+    {
+      "id": "te:markets:598582",
+      "time": "2026-11-05 17:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Greece 10Y Bond Yield Falls by 8 bps — Government bonds yields are lower on Thursday. Top losers are Greece 10Y (-7.70bps), South Korea 10Y (-7.30bps), New Zealand 10Y (-7.07bps), Japan 10Y (-5.78bps), US 10Y (-1.50bps) and Germany 10Y (-1.30bps)."
+    },
+    {
+      "id": "mkt:01a1ab0b-33db-7ee0-aa8a-e0519b647b00",
+      "time": "2026-11-05 17:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Construction PMI (Oct) | actual 43.6 | consensus 46.1 | previous 46.1"
+    },
+    {
+      "id": "5196005",
+      "time": "2026-11-05 17:29:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【文化和旅遊部公示新一批擬確定為國家5A級旅遊景區】根據中華人民共和國國家標準《旅遊景區質量等級劃分》和《旅遊景區質量等級管理辦法》，經有關省(區、市)文化和旅遊行政部門推薦，文化和旅遊部按程式組織綜合評定，以下17家旅遊景區達到國家5A級旅遊景區標準要求，擬確定為國家5A級旅遊景區，現予公示。(新華社)"
+    },
+    {
+      "id": "mkt:01a1ab0a-c36f-7ee0-aa8a-d97ff162d93c",
+      "time": "2026-11-05 17:29:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Hengshuo: Some NOR Flash products AEC‑Q100 certified; supplier qualification for branded automakers underway】Hengshuo said NOR Flash benefited from industry improvement and active market strategy in 1H, delivering volume and price gains; investors should watch the company’s periodic report for Q4 updates. Its edge AI voice‑recognition algorithm has reached mass shipments in 3C digital products and has been deployed on an AIGC hardware platform; AI module products are commercialized. Some NOR Flash products have passed AEC‑Q100 certification and are undergoing supplier qualification and product onboarding with branded automakers."
+    },
+    {
+      "id": "5196004",
+      "time": "2026-11-05 17:29:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【索尼盤前漲近5%，Q2營業利潤同比增45%，上調全年利潤指引】索尼(SONY.US)盤前漲近5%，報27.24美元。訊息面上，索尼2026財年第二季度營業利潤同比增長45%至6223億日元（約39.5億美元），顯著超出市場預期。營收3.43萬億日元，同比增長10.3%；歸母淨利潤4496億日元，同比增長24.2%。"
+    },
+    {
+      "id": "mkt:01a1ab0a-370c-7ee0-aa8a-d5a56e43e84a",
+      "time": "2026-11-05 17:28:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "i24News: Israeli opposition bloc demands a vote as early as next Tuesday to replace the Knesset speaker."
+    },
+    {
+      "id": "5196003",
+      "time": "2026-11-05 17:28:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【選舉當日全美爆發反資料中心浪潮 AI或為2028美國大選頭號議題】當地時間週二，全美至少38個轄區的選民透過禁令或管控措施限制資料中心建設，反映出公眾對這類設施普遍的反感，也進一步阻礙人工智慧產業的擴張計劃。 在多個資料中心建設熱門州，承諾遏制算力倉庫無序擴張的民主黨候選人贏下州長選舉，資料中心建設接連受挫。 民眾對資料中心與AI的牴觸今年首次升級為大選核心議題，尤其成為民主黨競選抓手。奧巴馬、OpenAI首席政策官克里斯·萊漢等重量級人物預測，AI將會是2028年總統大選的頭號議題。 面對民眾反感，AI企業已經被迫調整宣傳話術和策略。 微軟、谷歌、亞馬遜表示，將取消一份爭議合同條款——該條款要求地方官員對資料中心早期方案向本地居民保密。OpenAI現在對外宣傳時，改用AI“算力園區”這個說法，不再提資料中心。 不少AI高管和特朗普都在公開、私下抱怨：對資料中心的抵制已經過火，很多反對理由不實，最終會損害美國國家安全與經濟競爭力。"
+    },
+    {
+      "id": "mkt:01a1ab09-7052-7ee0-aa8a-c89c3b17b8cd",
+      "time": "2026-11-05 17:28:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's Ministry of Finance warned against using new debt issuance to finance defense expansion."
+    },
+    {
+      "id": "5196002",
+      "time": "2026-11-05 17:27:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "港交所：2026年10月日均成交額為1807億港元，衍生產品市場前十個月期貨及期權日均成交量為170萬張合約。"
+    },
     {
       "id": "5196001",
       "time": "2026-11-05 17:26:34",
@@ -70,6 +192,15 @@
         "其他"
       ],
       "text": "市場訊息：松下在中國臺灣工廠發生爆炸，造成兩人死亡。"
+    },
+    {
+      "id": "5195997",
+      "time": "2026-11-05 17:24:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機構：三星電子第三季度DRAM市場份額排名第一】市場調研機構Counterpoint Research 5日釋出資料稱，第三季度DRAM市場份額第一為三星電子，佔比38%；SK海力士29%、美光21%。 根據Counterpoint Research的調研結果，三星電子曾在去年一季度因HBM供應受阻，將DRAM榜首位置讓給SK海力士。此後，三星成功拿下主要AI晶片客戶的HBM供應訂單，並依託DRAM產能優勢，於去年四季度重回第一。 Counterpoint Research介紹，三季度全球DRAM總營收接近去年同期的5倍，達到2000億美元。本季度DRAM位元出貨量僅增長4%，營收增長主要由平均售價（ASP）上漲拉動。"
     },
     {
       "id": "5195996",

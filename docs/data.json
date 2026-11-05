@@ -1,7 +1,129 @@
 {
-  "updated": "2026-11-05 17:27:58",
-  "count": 11474,
+  "updated": "2026-11-05 17:31:53",
+  "count": 11458,
   "items": [
+    {
+      "id": "mkt:01a1ab0c-7c29-7ee0-aa8a-f5fc5d5ec1ec",
+      "time": "2026-11-05 17:31:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Southbound Stock Connect registered a net sell of RMB 21.326 bln today. HK Stock Connect (Shanghai) saw Tracker Fund of Hong Kong and Xiaomi-W as top net sells at HKD 4.085 bln and HKD 2.138 bln; Kingboard Laminates led net buys at HKD 774 mln. HK Stock Connect (Shenzhen) recorded net sells in Tracker Fund of Hong Kong and China Southern Hang Seng TECH ETF of HKD 3.579 bln and HKD 2.707 bln; Alibaba-W was top net buy at HKD 318 mln."
+    },
+    {
+      "id": "5196007",
+      "time": "2026-11-05 17:30:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中阿（聯酋）舉行第三輪領事磋商】2026年11月4日，外交部領事司司長龍舟與阿聯酋外交部領事事務助理次長謝赫希薩在阿布扎比共同主持中阿第三輪領事磋商。雙方重點就中阿領事關係、便利人員往來、維護海外公民安全與合法權益等議題深入交換意見。雙方一致同意要落實好兩國元首重要共識，加強領事領域溝通協調，進一步提升雙方人員往來便利化水平，維護好雙方人員和機構安全與合法權益，為兩國人文交流和各領域務實合作創造安全、便利條件，推動中阿關係不斷邁上新臺階。（外交部）"
+    },
+    {
+      "id": "5196006",
+      "time": "2026-11-05 17:30:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【融捷股份：回購方案實施完畢，累計回購100萬股支付5102.78萬元】融捷股份公告，公司於2026年8月5日召開臨時股東會審議透過回購方案，擬使用自有資金以集中競價方式回購公司股份，用於維護公司價值及股東權益，回購資金總額不低於人民幣5000萬元（含）且不高於人民幣1億元（含），回購價格不超過人民幣73元/股（含），實施期限自股東會審議透過之日起不超過三個月。截至2026年11月4日，回購期限已屆滿，公司累計回購股份100萬股，佔公司當前總股本的比例為0.39%，最高成交價70.74元/股，最低成交價44.08元/股，成交總金額5102.78萬元（不含交易費用），實際回購金額已超過方案下限且不超過上限，本次回購方案實施完畢。"
+    },
+    {
+      "id": "mkt:01a1ab0b-5eac-7ee0-aa8a-eea48873a34b",
+      "time": "2026-11-05 17:30:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK construction PMI 43.6 in October, below forecast 46.1 and prior 46.1."
+    },
+    {
+      "id": "te:markets:598582",
+      "time": "2026-11-05 17:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Greece 10Y Bond Yield Falls by 8 bps — Government bonds yields are lower on Thursday. Top losers are Greece 10Y (-7.70bps), South Korea 10Y (-7.30bps), New Zealand 10Y (-7.07bps), Japan 10Y (-5.78bps), US 10Y (-1.50bps) and Germany 10Y (-1.30bps)."
+    },
+    {
+      "id": "mkt:01a1ab0b-33db-7ee0-aa8a-e0519b647b00",
+      "time": "2026-11-05 17:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Construction PMI (Oct) | actual 43.6 | consensus 46.1 | previous 46.1"
+    },
+    {
+      "id": "5196005",
+      "time": "2026-11-05 17:29:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【文化和旅遊部公示新一批擬確定為國家5A級旅遊景區】根據中華人民共和國國家標準《旅遊景區質量等級劃分》和《旅遊景區質量等級管理辦法》，經有關省(區、市)文化和旅遊行政部門推薦，文化和旅遊部按程式組織綜合評定，以下17家旅遊景區達到國家5A級旅遊景區標準要求，擬確定為國家5A級旅遊景區，現予公示。(新華社)"
+    },
+    {
+      "id": "mkt:01a1ab0a-c36f-7ee0-aa8a-d97ff162d93c",
+      "time": "2026-11-05 17:29:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Hengshuo: Some NOR Flash products AEC‑Q100 certified; supplier qualification for branded automakers underway】Hengshuo said NOR Flash benefited from industry improvement and active market strategy in 1H, delivering volume and price gains; investors should watch the company’s periodic report for Q4 updates. Its edge AI voice‑recognition algorithm has reached mass shipments in 3C digital products and has been deployed on an AIGC hardware platform; AI module products are commercialized. Some NOR Flash products have passed AEC‑Q100 certification and are undergoing supplier qualification and product onboarding with branded automakers."
+    },
+    {
+      "id": "5196004",
+      "time": "2026-11-05 17:29:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【索尼盤前漲近5%，Q2營業利潤同比增45%，上調全年利潤指引】索尼(SONY.US)盤前漲近5%，報27.24美元。訊息面上，索尼2026財年第二季度營業利潤同比增長45%至6223億日元（約39.5億美元），顯著超出市場預期。營收3.43萬億日元，同比增長10.3%；歸母淨利潤4496億日元，同比增長24.2%。"
+    },
+    {
+      "id": "mkt:01a1ab0a-370c-7ee0-aa8a-d5a56e43e84a",
+      "time": "2026-11-05 17:28:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "i24News: Israeli opposition bloc demands a vote as early as next Tuesday to replace the Knesset speaker."
+    },
+    {
+      "id": "5196003",
+      "time": "2026-11-05 17:28:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【選舉當日全美爆發反資料中心浪潮 AI或為2028美國大選頭號議題】當地時間週二，全美至少38個轄區的選民透過禁令或管控措施限制資料中心建設，反映出公眾對這類設施普遍的反感，也進一步阻礙人工智慧產業的擴張計劃。 在多個資料中心建設熱門州，承諾遏制算力倉庫無序擴張的民主黨候選人贏下州長選舉，資料中心建設接連受挫。 民眾對資料中心與AI的牴觸今年首次升級為大選核心議題，尤其成為民主黨競選抓手。奧巴馬、OpenAI首席政策官克里斯·萊漢等重量級人物預測，AI將會是2028年總統大選的頭號議題。 面對民眾反感，AI企業已經被迫調整宣傳話術和策略。 微軟、谷歌、亞馬遜表示，將取消一份爭議合同條款——該條款要求地方官員對資料中心早期方案向本地居民保密。OpenAI現在對外宣傳時，改用AI“算力園區”這個說法，不再提資料中心。 不少AI高管和特朗普都在公開、私下抱怨：對資料中心的抵制已經過火，很多反對理由不實，最終會損害美國國家安全與經濟競爭力。"
+    },
+    {
+      "id": "mkt:01a1ab09-7052-7ee0-aa8a-c89c3b17b8cd",
+      "time": "2026-11-05 17:28:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's Ministry of Finance warned against using new debt issuance to finance defense expansion."
+    },
+    {
+      "id": "5196002",
+      "time": "2026-11-05 17:27:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "港交所：2026年10月日均成交額為1807億港元，衍生產品市場前十個月期貨及期權日均成交量為170萬張合約。"
+    },
     {
       "id": "5196001",
       "time": "2026-11-05 17:26:34",
@@ -70,6 +192,15 @@
         "其他"
       ],
       "text": "市場訊息：松下在中國臺灣工廠發生爆炸，造成兩人死亡。"
+    },
+    {
+      "id": "5195997",
+      "time": "2026-11-05 17:24:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機構：三星電子第三季度DRAM市場份額排名第一】市場調研機構Counterpoint Research 5日釋出資料稱，第三季度DRAM市場份額第一為三星電子，佔比38%；SK海力士29%、美光21%。 根據Counterpoint Research的調研結果，三星電子曾在去年一季度因HBM供應受阻，將DRAM榜首位置讓給SK海力士。此後，三星成功拿下主要AI晶片客戶的HBM供應訂單，並依託DRAM產能優勢，於去年四季度重回第一。 Counterpoint Research介紹，三季度全球DRAM總營收接近去年同期的5倍，達到2000億美元。本季度DRAM位元出貨量僅增長4%，營收增長主要由平均售價（ASP）上漲拉動。"
     },
     {
       "id": "5195996",
@@ -105507,302 +105638,6 @@
         "Impact bullish"
       ],
       "text": "Renault shares extended gains, up 6.4%, leading the CAC 40."
-    },
-    {
-      "id": "5179376",
-      "time": "2026-10-29 17:31:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江蘇銀行：第三季度歸母淨利潤112.19億元，同比增長8.46%】江蘇銀行10月29日公告，2026年第三季度實現營業收入271.27億元，同比增長21.54%；歸母淨利潤112.19億元，同比增長8.46%；基本每股收益0.6元。前三季度實現營業收入760.79億元，同比增長13.24%；歸母淨利潤330.95億元，同比增長8.21%；基本每股收益1.73元。"
-    },
-    {
-      "id": "mkt:01a18700-2a61-7ee0-a9db-66ea46d9296f",
-      "time": "2026-10-29 17:31:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Star Stocks",
-        "Alibaba",
-        "Tencent",
-        "9988.HK",
-        "Impact bearish",
-        "0700.HK",
-        "2318.HK",
-        "Impact bullish"
-      ],
-      "text": "Southbound funds net sold 3.359 bln yuan today. Via Shanghai Stock Connect, Alibaba-W and Tencent were net sold HKD 385 mln and HKD 16 mln respectively; CNOOC was the largest net buy at HKD 239 mln. Via Shenzhen Stock Connect, SMIC and CNOOC were net sold HKD 963 mln and HKD 826 mln respectively; Ping An was the largest net buy at HKD 285 mln."
-    },
-    {
-      "id": "te:economy:596214",
-      "time": "2026-10-29 17:31:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Zambia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Zambia Inflation Rate Rises to 6.3% in October — The annual inflation rate in Zambia inched up to 6.3% in October 2026 from 6.1% in the prior month, which was the lowest level since February 2018. The increase came amid the expiration of the fuel-tax suspension and zero-rated VAT, as well as the recent weakness in the local currency. Non-food inflation accelerated to 7.4% from 6.6% previously, while food price growth eased to 5.7% from 5.8% in September. On a monthly basis, the CPI rose by 0.7% in October, after a 0.4% increase in the month before."
-    },
-    {
-      "id": "mkt:01a18700-118f-7ee0-a9db-5a8a0000117c",
-      "time": "2026-10-29 17:31:30",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "Scotiabank lowers Alphabet (GOOG.O) PT to $375 from $450."
-    },
-    {
-      "id": "5179375",
-      "time": "2026-10-29 17:31:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亞星化學：前三季營收6.64億元 淨虧損1.04億元】亞星化學公告稱，2026年第三季度實現營業收入2.46億元，同比增長15.66%；歸屬於上市公司股東的淨虧損3826.72萬元。2026年前三季度實現營業收入6.64億元，同比增長3.55%；歸屬於上市公司股東的淨虧損1.04億元；歸屬於上市公司股東的扣除非經常性損益的淨虧損1.14億元。基本每股收益-0.27元，加權平均淨資產收益率-30.56%。"
-    },
-    {
-      "id": "mkt:01a186ff-9bf3-7ee0-a9db-57ccd421e7c6",
-      "time": "2026-10-29 17:31:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK M4 money supply YoY 3.9% in September, down from 4.40% previously."
-    },
-    {
-      "id": "mkt:01a186ff-7ca9-7ee0-a9db-4ee5fd5b17e5",
-      "time": "2026-10-29 17:30:52",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | M4 Money Supply (YoY) (Sep) | actual 3.9% | previous 4.40%"
-    },
-    {
-      "id": "5179374",
-      "time": "2026-10-29 17:30:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統辦公室：韓國與德國將在研發、關鍵礦產和能源安全領域展開合作。"
-    },
-    {
-      "id": "em:jjsj_ygsj:202610293914332919",
-      "time": "2026-10-29 17:30:38",
-      "tags": [
-        "經濟數據",
-        "英國"
-      ],
-      "text": "【英國9月央行消費信貸19.14億英鎊 預期21.5億英鎊】英國9月央行消費信貸19.14億英鎊，預期21.5億英鎊，前值由24.64億英鎊修正為26.83億英鎊。"
-    },
-    {
-      "id": "5179373",
-      "time": "2026-10-29 17:30:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【艾迪藥業：擬以1000萬元-2000萬元回購公司股份】艾迪藥業公告，擬以集中競價交易方式回購公司股份，回購資金總額不低於人民幣1000萬元（含）、不超過人民幣2000萬元（含），回購價格不超過人民幣22.39元/股（含），用於員工持股計劃或股權激勵，資金來源為自有資金，回購期限自董事會審議透過回購方案之日起12個月內。預計回購44.66萬股~89.32萬股，佔總股本0.11%~0.21%。"
-    },
-    {
-      "id": "mkt:01a186fe-ff64-7ee0-a9db-40d4660886a6",
-      "time": "2026-10-29 17:30:20",
-      "tags": [
-        "MKT News",
-        "GBPUSD"
-      ],
-      "text": "UK M4 money supply MoM (Sep) +0.1%; prior +0.4%."
-    },
-    {
-      "id": "mkt:01a186fe-f94c-7ee0-a9db-3bb2dc1af6bb",
-      "time": "2026-10-29 17:30:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "UK Bank of England mortgage lending in September was £3.866 bln, below expectations of £4.2 bln; August was revised down to £4.174 bln from £4.41 bln."
-    },
-    {
-      "id": "5179372",
-      "time": "2026-10-29 17:30:18",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國9月央行抵押貸款許可 5.3443萬件，預期5.4萬件，前值由5.4918萬件修正為5.4814萬件。"
-    },
-    {
-      "id": "mkt:01a186fe-f13b-7ee0-a9db-309457d62e16",
-      "time": "2026-10-29 17:30:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "UK Bank of England mortgage approvals, September: 53,443 vs. 54,000 expected; August revised to 54,814 from 54,918."
-    },
-    {
-      "id": "mkt:01a186fe-f0d2-7ee0-a9db-2d4fecdc63ba",
-      "time": "2026-10-29 17:30:16",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "Bank of England data: UK consumer credit in September £1.914bn, below £2.15bn expected; August revised up to £2.683bn from £2.464bn."
-    },
-    {
-      "id": "5179371",
-      "time": "2026-10-29 17:30:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奕瑞科技：2026年第三季度淨利潤1.67億元，同比增長22.65%】奕瑞科技公告，2026年第三季度營業收入8.29億元，同比增長71.92%；歸屬於上市公司股東的淨利潤1.67億元，同比增長22.65%；扣非淨利潤1.65億元，同比增長47.86%。2026年前三季度營業收入25億元，同比增長61.41%；歸屬於上市公司股東的淨利潤5.72億元，同比增長21.65%；扣非淨利潤5.41億元，同比增長23.16%。第三季度營業收入增長主要系矽基微顯示背板新業務較上年同期大幅增長，同時X線核心部件及綜合解決方案業務保持平穩增長。"
-    },
-    {
-      "id": "5179370",
-      "time": "2026-10-29 17:30:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統辦公室：韓國和德國將簽署經濟和高科技產業夥伴關係協議。"
-    },
-    {
-      "id": "mkt:01a186fe-c89b-7ee0-a9db-1f0da89b2a29",
-      "time": "2026-10-29 17:30:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | BOE Consumer Credit (Sep) | actual 1914000000B | consensus 2150000000B | previous 2464000000B"
-    },
-    {
-      "id": "mkt:01a186fe-c82d-7ee0-a9db-1452d9edd1e3",
-      "time": "2026-10-29 17:30:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | M4 Money Supply (MoM) (Sep) | actual 0.1% | previous 0.40%"
-    },
-    {
-      "id": "mkt:01a186fe-c82c-7ee0-a9db-08d6dab04994",
-      "time": "2026-10-29 17:30:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | BOE Mortgage Approvals (Sep) | actual 53442.99999999999K | consensus 54000K | previous 54917.99999999999K"
-    },
-    {
-      "id": "mkt:01a186fe-c89e-7ee0-a9db-2770c0fd3851",
-      "time": "2026-10-29 17:30:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | BOE Mortgage Loan (Sep) | actual 3865999999.999999B | consensus 4200000000B | previous 4410000000B"
-    },
-    {
-      "id": "te:markets:596213",
-      "time": "2026-10-29 17:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: New Zealand 10Y Bond Yield Drops by 6 bps — Majority of government bonds yields are lower on Thursday. Top losers are New Zealand 10Y (-5.90bps), Germany 10Y (-2.89bps) and US 10Y (-2.70bps). Gains are led by Japan 10Y (0.81bps)."
-    },
-    {
-      "id": "mkt:01a186fe-af22-7ee0-a9db-067e41a12dc3",
-      "time": "2026-10-29 17:29:59",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "A court statement said Meta Platforms (META.O) lost its case against publishers at the Paris Court of Appeal."
-    },
-    {
-      "id": "5179369",
-      "time": "2026-10-29 17:29:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國防部督察長拒絕調查烏軍方所用“星鏈”限速一事】美國共和、民主兩黨9名聯邦參議員日前要求國防部督察長調查烏克蘭軍方所用“星鏈”衛星系統服務遭限速一事，但這一要求遭拒絕，引發議員們對美國太空探索技術公司(SpaceX)執行長馬斯克影響力的擔憂。據美國方面28日訊息稱，4名共和黨籍聯邦參議員和5名民主黨籍聯邦參議員要求美國國防部督察長調查國防部或其他政府部門官員是否“指示、授權、批准，或是事先知道”對涉及烏克蘭的“星鏈”“星盾”服務作出的改變。牽頭提出要求的為美國參議院北約觀察小組聯合主席珍妮·沙欣和湯姆·蒂利斯，兩人分屬民主黨和共和黨。（央視新聞）"
-    },
-    {
-      "id": "5179368",
-      "time": "2026-10-29 17:29:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "泡泡瑪特回購了價值1.65億港元的股票。"
-    },
-    {
-      "id": "5179367",
-      "time": "2026-10-29 17:29:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國10年期國債收益率下跌3個基點，降至五週低點5.29%。"
-    },
-    {
-      "id": "5179366",
-      "time": "2026-10-29 17:29:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統辦公室：韓國與德國將把雙邊關係升級為“強化戰略伙伴關係”。"
-    },
-    {
-      "id": "5179365",
-      "time": "2026-10-29 17:28:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【友升股份：2026年第三季度淨利潤同比下降15.63%】友升股份公告，2026年第三季度營業收入11.51億元，同比下降10.52%；歸屬於上市公司股東的淨利潤1.16億元，同比下降15.63%；扣非淨利潤1.14億元，同比下降16.49%。2026年前三季度營業收入33.92億元，同比下降2.05%；歸屬於上市公司股東的淨利潤3.66億元，同比增長1.83%；扣非淨利潤3.6億元，同比增長0.28%。"
-    },
-    {
-      "id": "5179364",
-      "time": "2026-10-29 17:28:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大明電子：2026年第三季度淨利潤2696.9萬元，同比下降65.63%】大明電子公告，2026年第三季度營業收入6.44億元，同比下降16.95%；歸屬於上市公司股東的淨利潤2696.9萬元，同比下降65.63%；扣非淨利潤2596.23萬元，同比下降65.76%。2026年前三季度營業收入18.09億元，同比下降12.70%；歸屬於上市公司股東的淨利潤5960.57萬元，同比下降69.09%；扣非淨利潤5806.12萬元，同比下降69.16%。"
-    },
-    {
-      "id": "5179363",
-      "time": "2026-10-29 17:28:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【至信股份：2026年第三季度淨利潤同比下降35.13%】至信股份公告，2026年第三季度營業收入12.89億元，同比增長17.99%；歸屬於上市公司股東的淨利潤4574.78萬元，同比下降35.13%；扣非淨利潤4117.66萬元，同比下降38.94%。2026年前三季度營業收入31.59億元，同比增長17.14%；歸屬於上市公司股東的淨利潤9976.61萬元，同比下降39.54%；扣非淨利潤9056.45萬元，同比下降41.42%。"
     }
   ]
 }
