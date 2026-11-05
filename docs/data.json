@@ -1,7 +1,56 @@
 {
-  "updated": "2026-11-05 11:13:44",
-  "count": 11792,
+  "updated": "2026-11-05 11:17:28",
+  "count": 11790,
   "items": [
+    {
+      "id": "mkt:01a1a9b4-deab-7ee0-aa81-454c2ebb40a2",
+      "time": "2026-11-05 11:16:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Houthi demand $51 billion; Saudi faces hard choice over ceasefire】The Wall Street Journal reports that after Houthi attacks on Saudi oil tankers in the Red Sea and seizure of the Bab al-Mandeb choke point, Riyadh opened contact to learn what price would end hostilities. The Houthis initially demanded $51 billion, saying it would compensate for years of Saudi air strikes and blockade; negotiators later floated other sums but signalled any Saudi exit could cost hundreds of billions. They also sought formal Saudi recognition of Houthi rule in Yemen, which would effectively force Riyadh to accept an Iran-armed hostile force on its southern border. Saudi and Houthi leaders did not respond to requests for comment."
+    },
+    {
+      "id": "5195167",
+      "time": "2026-11-05 11:16:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安將於協調世界時 11月5日04:00重新開放更多資產提現功能。"
+    },
+    {
+      "id": "te:markets:598402",
+      "time": "2026-11-05 11:15:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japan’s Nikkei Falls on Persistent AI Worries — The Nikkei 225 Index declined 0.4% to below 62,000 on Thursday, surrendering earlier gains as technology shares remained under pressure amid growing concerns over artificial intelligence development. Investors grew increasingly cautious about the possibility of tighter regulations on data-center investments following Democratic victories in the US midterm elections. Among the biggest decliners were Kioxia Holdings (-6%), Advantest (-9.2%) and Ibiden Co (-12.9%). Meanwhile, investors shifted toward other sectors, particularly consumer and financial stocks, lifting shares of Fast Retailing (6%), Toyota Motor (5.8%) and Mitsubishi UFJ (3.2%). The election outcome also triggered a sharp drop in oil prices on expectations of a potential resolution to the Middle East conflict. Elsewhere, minutes from the Bank of Japan's September meeting further strengthened expectations of additional interest rate increases."
+    },
+    {
+      "id": "5195166",
+      "time": "2026-11-05 11:15:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【張朝陽稱短劇爆火不是全球普遍現象】據中國證券報，在2026年世界網際網路大會烏鎮峰會現場，搜狐創始人張朝陽談對當下短劇爆火的看法。 張朝陽稱短劇在國內的火爆程度在美國並沒有出現，在美國依然流行長劇，短劇目前還不是一個全球普遍現象。 至於短劇是曇花一現還是未來能幾分天下，都還需要時間來證明。"
+    },
+    {
+      "id": "5195161",
+      "time": "2026-11-05 11:14:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達40億港元。"
+    },
     {
       "id": "5195153",
       "time": "2026-11-05 11:12:51",
@@ -108532,70 +108581,6 @@
         "宏觀"
       ],
       "text": "【上海：對清理拖欠中小企業賬款情況加強審計監督，將清欠任務納入國有企業績效考核】上海市人民政府辦公廳印發《上海市推動中小企業高質量發展行動方案》。方案提到，夯實清欠長效機制。貫徹落實《保障中小企業款項支付條例》和《國務院辦公廳關於加強中小企業回款難問題治理有關工作的通知》。推動大型企業最佳化供應鏈管理，督促其依法在企業年度報告中公示逾期尚未支付中小企業款項資訊。完善防範化解政府和國有企業拖欠中小企業賬款的長效機制，對清理拖欠中小企業賬款情況加強審計監督，將清欠任務納入國有企業績效考核，發揮國企及時支付表率作用。進一步加強商業匯票、電子憑證等非現金支付的規範管理，嚴格限制期限、壓降規模。"
-    },
-    {
-      "id": "mkt:01a185a9-2610-7ee0-a9d2-fb0cb3a184c0",
-      "time": "2026-10-29 11:16:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Venezuela acting president demands Bank of England return gold reserves】Venezuela's acting president Delcy Rodríguez on the 28th demanded the Bank of England return Venezuelan gold reserves it holds, calling the freeze a \"farce\" and alleging an illegal seizure. She said the foreign and trade ministry and the attorney general's office will initiate mechanisms to secure the return. On the 21st the government and some opposition delegates concluded a third round of talks and agreed to form a joint committee to engage UK authorities to seek unfreezing of the gold held at the Bank of England."
-    },
-    {
-      "id": "5178332",
-      "time": "2026-10-29 11:16:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：建立重大科技基礎設施向科技型中小企業開放比例指標 研究面向科技型中小企業的積分制度】上海市人民政府辦公廳印發《上海市推動中小企業高質量發展行動方案》。其中提出 ，加大創新資源開放共享力度。建立重大科技基礎設施向科技型中小企業開放比例指標，納入我市設施分類評價體系，透過科技創新券降低企業使用者使用成本。完善“滬科積分”，研究面向科技型中小企業的積分制度。發放專業服務券、新質服務券、出海服務券，助力中小企業購買服務和拓展業務。提升中小企業網路和資料安全防護能力，加強惠企服務。"
-    },
-    {
-      "id": "5178331",
-      "time": "2026-10-29 11:16:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大眾汽車集團正研發最高可支援L4級自動駕駛能力系統級晶片C7H】在10月28日舉行的首次大眾汽車集團（中國）技術日上，大眾汽車集團（中國）介紹，自2026年第三季度起，大眾汽車集團已在所有搭載CEA架構的車型上部署AI智慧體。2027年，CEA架構將進一步覆蓋集團在華生產的插電混動及燃油車型。到2029年，CEA 3.0將支援全域智慧體AI。此外，大眾汽車集團計劃於2027年實現L3級自動駕駛功能就緒，並正在研發最高可支援L4級自動駕駛能力的自研系統級晶片C7H。大眾汽車集團（中國）已正式在合肥獲得L3級自動駕駛道路測試牌照，目前相關測試工作已正式啟動。"
-    },
-    {
-      "id": "5178330",
-      "time": "2026-10-29 11:15:52",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【委內瑞拉代總統要求英格蘭銀行歸還黃金儲備】委內瑞拉代總統德爾西·羅德里格斯28日要求英國央行英格蘭銀行歸還其所持黃金儲備，稱英方凍結委黃金是“鬧劇”，旨在非法攫取委國家黃金儲備，委外交與外貿部和總檢察長辦公室將啟動相關機制確保黃金歸還。委政府與部分反對派代表21日結束第三輪政治對話，同意成立聯合委員會與英國相關機構交涉，爭取解凍黃金。據英國《金融時報》9月18日報道，委政府與反對派即將達成協議，將價值約40億美元的黃金從英格蘭銀行轉移至美國紐約聯邦儲備銀行，可能用作政府借貸抵押物，用於支付包括“6·24”連環強震重建等支出。委在英央行存有31噸黃金，2018年大選後美英等國拒絕承認馬杜羅當選，英方以此為由凍結委方黃金。（新華社）"
-    },
-    {
-      "id": "5178329",
-      "time": "2026-10-29 11:14:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：整合資料、算力、軟體、模型等數智服務 為中小企業提供免費試用或優惠折扣】上海市人民政府辦公廳印發《上海市推動中小企業高質量發展行動方案》。其中提出 ，驅動數智化躍升。建設數字公共服務體系，整合資料、算力、軟體、模型等數智服務，為中小企業提供免費試用或優惠折扣。加強市級智慧算力統籌排程，最佳化算力券、模型券（Token券）、語料券政策，完善算力、模型服務商統籌申報機制，擴大對中小企業的覆蓋面，賦能中小企業發展。落實國家中小企業數字化轉型城市試點政策，持續徵集“小快輕準”數字化產品，助力專精特新、製造類中小企業在生產、質檢、能耗、供應鏈等環節數字化智慧化改造。推動積體電路首輪流片政策向符合條件的中小企業專案傾斜。"
-    },
-    {
-      "id": "mkt:01a185a6-eef4-7ee0-a9d2-f3840d5f8a19",
-      "time": "2026-10-29 11:14:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai to optimize compute, model (Token) and corpus vouchers, streamline provider application for SMEs】Shanghai municipal government office issued an action plan to accelerate SME digitalization and high-quality development. The plan will build a digital public service platform integrating data, compute, software and models and offer SMEs free trials or discounts; strengthen city-level intelligent compute scheduling; optimize compute, model (Token) and corpus vouchers; and create a unified application mechanism for compute and model service providers to expand SME coverage. It implements the national SME digitalization pilot, will continue sourcing small-fast-light-accurate digital products to help specialized, high-tech and manufacturing SMEs digitalize production, quality inspection, energy use and supply chains, and directs the integrated-circuit first-round wafer flow policy to tilt toward eligible SME projects."
-    },
-    {
-      "id": "5178328",
-      "time": "2026-10-29 11:14:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基說願開展任何形式談判】烏克蘭總統澤連斯基在英國《太陽報》10月28日播出的專訪中表示，烏方已做好談判準備，願意進行任何形式的談判，並願討論對烏克蘭來說很敏感的議題。澤連斯基同時表示，美國在談判中保持中立至關重要。當被問及是否信任美國總統特朗普時，澤連斯基說，他相信美國人和美國兩黨對烏克蘭的支援，並感謝美政府解決了“星鏈”與情報共享問題，他強調，烏克蘭不想失去來自美國的支援。 （CCTV國際時訊）"
     }
   ]
 }

@@ -1,7 +1,56 @@
 {
   "date": "2026-11-05",
-  "count": 969,
+  "count": 974,
   "items": [
+    {
+      "id": "mkt:01a1a9b4-deab-7ee0-aa81-454c2ebb40a2",
+      "time": "2026-11-05 11:16:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Houthi demand $51 billion; Saudi faces hard choice over ceasefire】The Wall Street Journal reports that after Houthi attacks on Saudi oil tankers in the Red Sea and seizure of the Bab al-Mandeb choke point, Riyadh opened contact to learn what price would end hostilities. The Houthis initially demanded $51 billion, saying it would compensate for years of Saudi air strikes and blockade; negotiators later floated other sums but signalled any Saudi exit could cost hundreds of billions. They also sought formal Saudi recognition of Houthi rule in Yemen, which would effectively force Riyadh to accept an Iran-armed hostile force on its southern border. Saudi and Houthi leaders did not respond to requests for comment."
+    },
+    {
+      "id": "5195167",
+      "time": "2026-11-05 11:16:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安將於協調世界時 11月5日04:00重新開放更多資產提現功能。"
+    },
+    {
+      "id": "te:markets:598402",
+      "time": "2026-11-05 11:15:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japan’s Nikkei Falls on Persistent AI Worries — The Nikkei 225 Index declined 0.4% to below 62,000 on Thursday, surrendering earlier gains as technology shares remained under pressure amid growing concerns over artificial intelligence development. Investors grew increasingly cautious about the possibility of tighter regulations on data-center investments following Democratic victories in the US midterm elections. Among the biggest decliners were Kioxia Holdings (-6%), Advantest (-9.2%) and Ibiden Co (-12.9%). Meanwhile, investors shifted toward other sectors, particularly consumer and financial stocks, lifting shares of Fast Retailing (6%), Toyota Motor (5.8%) and Mitsubishi UFJ (3.2%). The election outcome also triggered a sharp drop in oil prices on expectations of a potential resolution to the Middle East conflict. Elsewhere, minutes from the Bank of Japan's September meeting further strengthened expectations of additional interest rate increases."
+    },
+    {
+      "id": "5195166",
+      "time": "2026-11-05 11:15:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【張朝陽稱短劇爆火不是全球普遍現象】據中國證券報，在2026年世界網際網路大會烏鎮峰會現場，搜狐創始人張朝陽談對當下短劇爆火的看法。 張朝陽稱短劇在國內的火爆程度在美國並沒有出現，在美國依然流行長劇，短劇目前還不是一個全球普遍現象。 至於短劇是曇花一現還是未來能幾分天下，都還需要時間來證明。"
+    },
+    {
+      "id": "5195161",
+      "time": "2026-11-05 11:14:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達40億港元。"
+    },
     {
       "id": "5195153",
       "time": "2026-11-05 11:12:51",
