@@ -1,7 +1,47 @@
 {
   "date": "2026-11-06",
-  "count": 251,
+  "count": 255,
   "items": [
+    {
+      "id": "te:markets:598801",
+      "time": "2026-11-06 02:20:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Copper Drops by 2.46% — Top commodity losers are Copper (-2.46%), Cobalt Hydroxide (-1.38%) and Lithium Carbonate (-1.24%). Gains are led by Platinum (1.82%), Iron Ore CNY (1.32%) and Gold (0.97%)."
+    },
+    {
+      "id": "5197218",
+      "time": "2026-11-06 02:18:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破98美元/桶，日內漲3.57%。"
+    },
+    {
+      "id": "te:markets:598800",
+      "time": "2026-11-06 02:18:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls on Global Technology Selloff — The S&P/TSX Composite Index fell more than 2% to below 36,000 points as a selloff in US semiconductor and AI-related stocks spilled over into Canadian technology shares. The decline erased the previous session’s post-midterm election rally, as Democratic gains in the US midterm elections fuelled concerns about increased regulatory scrutiny of the rapid expansion of AI. Celestica plunged 14%, while Shopify tumbled more than 5.5%, tracking losses among US chipmakers and hyperscalers. Major banks also traded lower as rebounding oil prices renewed concerns about energy-driven inflation. RBC, BMO and CIBC fell around 2%, while Scotiabank and TD Bank lost more than 2.5%. On the earnings front, Canadian Natural edged higher after beating third-quarter profit estimates, supported by stronger crude prices and production. Meanwhile, Nutrien gained 1% despite missing earnings expectations, as Democratic gains raised hopes of renewed US-Canada trade talks."
+    },
+    {
+      "id": "mkt:01a1acee-6ffb-7ee0-aa9a-2008bc329192",
+      "time": "2026-11-06 02:17:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【AP: US maintained secret contact with Iran during hostilities to coordinate repatriations】AP cited unsealed court filings on Thursday saying the Trump administration maintained contact with Iranian officials during hostilities, coordinating the repatriation of Iranian nationals detained in the United States, including provision of travel documents and return routes. Filings show U.S. officials planned, by mid-October at the latest, to repatriate Iranians via a third country; earlier coordination arranged more than 100 Iranians on three flights home. A related lawsuit alleges U.S. immigration authorities provided Iran with confidential information on Iranian asylum applicants, endangering their safety; the Department of Homeland Security denies sharing such records."
+    },
     {
       "id": "5197216",
       "time": "2026-11-06 02:16:26",
