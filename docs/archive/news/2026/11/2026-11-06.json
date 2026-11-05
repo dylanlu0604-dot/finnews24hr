@@ -1,7 +1,45 @@
 {
   "date": "2026-11-06",
-  "count": 247,
+  "count": 251,
   "items": [
+    {
+      "id": "5197216",
+      "time": "2026-11-06 02:16:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "南方公司在電話會議上表示，五年資本計劃規模可能接近1000億美元，其中包括對各業務板塊的額外投資。"
+    },
+    {
+      "id": "mkt:01a1aced-0b51-7ee0-aa9a-19a5f9725d26",
+      "time": "2026-11-06 02:16:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $125 million from one counterparty in a fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "5197213",
+      "time": "2026-11-06 02:15:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週四（11月5日），美聯儲隔夜逆回購協議（RRP）使用規模為1.25億美元，上個交易日報2.25億美元。"
+    },
+    {
+      "id": "te:markets:598799",
+      "time": "2026-11-06 02:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Oil Rises by 3.42% — Top commodity gainers are Brent Oil (3.42%), Heating Oil (2.84%) and Crude Oil (2.80%). Biggest losers are Methanol (-2.59%) and Germany Natural Gas THE (-2.05%)."
+    },
     {
       "id": "5197208",
       "time": "2026-11-06 02:11:27",
