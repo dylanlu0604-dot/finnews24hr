@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-06 07:06:59",
-  "count": 11215,
+  "updated": "2026-11-06 07:10:41",
+  "count": 11208,
   "items": [
+    {
+      "id": "5197616",
+      "time": "2026-11-06 07:09:59",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國股指期貨下跌行情持續，預示亞洲市場開盤將表現低迷】美國股指期貨早盤已開始走弱，這對亞洲股市來說無疑是雪上加霜，此前費城半導體指數收跌12%。 三星股價在NextTrade盤前交易中下跌12%，SK海力士股價下跌15%。WTI原油價格持穩，美國國債期貨小幅上漲。黃金和比特幣價格變動不大。"
+    },
     {
       "id": "5197615",
       "time": "2026-11-06 07:06:21",
@@ -103117,82 +103127,6 @@
         "公司"
       ],
       "text": "【恒大物業股權轉讓大結局，太盟投資將成新東家】10月30日，恒大物業（6666.HK）釋出公告稱，太盟投資集團下屬投資控股平臺已與中國恒大集團及其子公司CEGHoldings(BVI)Limited簽署關於恒大物業股份買賣的正式交易檔案。太盟投資將以0.8359港元/股收購中國恒大持有的恒大物業1.361%股份，以0.7271港元/股收購CEGHoldings(BVI)Limited持有的恒大物業49.655%股份並承擔其稅費等負債合計5億元人民幣，按每股折算，合計對價兩者一致。"
-    },
-    {
-      "id": "mkt:01a189ed-f36a-7ee0-a9f1-8e9bd542abbf",
-      "time": "2026-10-30 07:10:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened up 38.70 points, or 0.44%, at 8,930.50 on Friday, Oct. 30."
-    },
-    {
-      "id": "te:economy:596465",
-      "time": "2026-10-30 07:10:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Industrial Production Mom",
-        "Importance 1"
-      ],
-      "text": "South Korea Industrial Output Growth Strongest on Record — South Korea’s industrial production grew 9% month-on-month in September 2026, recovering sharply from a revised 4.6% decline in August. It was the highest growth on record, as production manufacturing rebounded rebounded sharply to 9.9% after contracting 4.9%, mainly boosted by a jump in semiconductor production (19.2%). Production expanded at a faster pace for overseas markets (1.4% vs 0.3%), while declining at a much softer pace in the domestic market (-3.3% vs -5.8%). On an annual basis, industrial production expanded 3.6% in September, rebounding from a revised 1.7% decline in August, which was the first contraction since May."
-    },
-    {
-      "id": "5180853",
-      "time": "2026-10-30 07:09:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方呼籲推動新興科技更好服務於海上安全和人民福祉】中國常駐聯合國代表傅聰29日在安理會“新興科技與海上安全”公開辯論會上發言，呼籲國際社會推動新興科技更好服務於海上安全和人民福祉。(新華社)"
-    },
-    {
-      "id": "5180852",
-      "time": "2026-10-30 07:09:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "幣安：幣安阿爾法交易已被暫停。一旦安全問題得到解決，交易將會立即恢復。"
-    },
-    {
-      "id": "5180851",
-      "time": "2026-10-30 07:09:01",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【10月30日隔夜要聞一覽】\n1、為準備重啟針對伊朗的軍事行動，10架美軍大型運輸機28日緊急飛抵以色列南部的奧夫達和內瓦蒂姆兩個空軍基地，向以軍運送大批防空導彈和攔截導彈，以補充以軍的武器庫存。\n2、美軍司令布拉德·庫珀當天在白宮向美國總統特朗普彙報了針對伊朗的軍事行動選項。\n3、普京說，斯圖布和斯特勒在通話開始時就強調，他們不代表歐盟，而代表各自國家。普京表示，俄方支援與歐盟國家恢復關係的任何步驟。\n4、加拿大總理卡尼當地時間29日宣佈推出名為“更強大的加拿大計劃”的國家安全戰略，這是加拿大20多年來制定的首份國家安全戰略。\n5、自伊朗方面獲悉，美國副總統萬斯致信伊朗最高國家安全委員會秘書穆赫辛·雷扎伊，伊朗已收到該信函，但尚未作出回應。\n6、歐洲央行官員據悉準備在12月加息。\n7、英特爾季度營收展望遜於分析師預期，個人電腦處理器需求低迷且利潤豐厚的資料中心零部件面臨供應鏈問題。該公司股價盤後重挫20%。\n8、亞馬遜公佈的資本支出高於預期，與此同時電商業務營收增長放緩，而公司的假日季銷售展望顯示，線上業務恐怕難以迅速反彈。\n9、閃迪第一財季營收和利潤均超出市場預期，AI推理需求正在把NAND推向更核心的基礎設施位置。"
-    },
-    {
-      "id": "5180850",
-      "time": "2026-10-30 07:08:50",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、前三季度消費市場規模穩步擴大\n2、中歐班列開行突破14萬列\n3、綠色航運加快發展（政策解讀）\n4、警惕“中國AI跑偏論”（人民銳評）\n5、4部門發文進一步提高海南自貿港貿易自由化便利化水平\n6、楊凌農高會十月二十五日至二十九日舉行 三十餘年推動超萬項科技成果和技術落地\n7、上海熱軋卷板合約在倫敦金屬交易所正式上市\n8、AI+，塑造智慧經濟新形態（高質量發展故事匯·第24期）\n9、3D列印，讓“製造”擁有更多可能（國際科技前沿）\n10、讓“小個子”機器人跳得高、走得遠（創新匯）\n11、從“世界之亂”看“中國之治”（每週經濟評論）。"
-    },
-    {
-      "id": "5180849",
-      "time": "2026-10-30 07:08:40",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、中共二十屆五中全會在京舉行 中央政治局主持全會 中央委員會總書記習近平發表重要講話 全會聽取和討論了習近平受中央政治局委託所作的工作報告，審議透過了《中共中央關於持之以恆推進全面從嚴治黨若干重大問題的決定》。習近平就《決定（討論稿）》向全會作了說明 全會充分肯定黨的二十屆四中全會以來中央政治局的工作。決定中國共產黨第二十一次全國代表大會於2027年下半年在北京召開 全會增選張升民為中央政治局委員\n2、中共中央將於30日上午舉行新聞釋出會 介紹和解讀黨的二十屆五中全會精神。"
-    },
-    {
-      "id": "mkt:01a189ea-ade4-7ee0-a9f1-827c0b6fd62e",
-      "time": "2026-10-30 07:07:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact mixed"
-      ],
-      "text": "ANZ says if the Middle East achieves a credible diplomatic breakthrough and shipping conditions improve materially, Brent crude could fall to about $90–95/bbl. If the conflict escalates materially, Brent could rise above $120/bbl."
     }
   ]
 }
