@@ -1,7 +1,244 @@
 {
   "date": "2026-11-05",
-  "count": 1548,
+  "count": 1573,
   "items": [
+    {
+      "id": "5196152",
+      "time": "2026-11-05 18:33:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲釋出Agent Sandbox 極速版自定義模板預熱計費預告】自北京時間 2026 年 11 月 15 日 00:00 起，Agent Sandbox 極速版自定義模板的模板預熱功能開啟商業化計費。自定義模板需主動呼叫 API 預熱，按預熱資料的儲存量計費。預熱費用 = 預熱資料容量（GiB）× 磁碟單價 × 時長（小時）。磁碟單價：中國內地 0.0021 元/GiB/小時，中國香港及海外 0.001672 元/GiB/小時。"
+    },
+    {
+      "id": "5196151",
+      "time": "2026-11-05 18:32:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會根據支援貸款向烏克蘭撥付43.6億歐元。"
+    },
+    {
+      "id": "5196150",
+      "time": "2026-11-05 18:32:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST豆神：董事趙伯奇、朱雅特完成增持計劃，合計增持629.25萬股】ST豆神公告，公司董事兼執行長趙伯奇、董事兼副總裁朱雅特此前披露增持計劃，擬分別增持不低於1200萬元、800萬元，實施期限為2026年5月6日至2026年11月6日。截至本公告披露日，趙伯奇透過集中競價累計增持公司股份389.5萬股，佔公司總股本的0.1885%，增持金額約1202.07萬元；朱雅特累計增持239.75萬股，佔公司總股本的0.1160%，增持金額約800.91萬元。本次增持計劃已完成，合計增持629.25萬股，佔公司總股本的0.3045%。"
+    },
+    {
+      "id": "mkt:01a1ab44-1507-7ee0-aa8c-d592cf55ff18",
+      "time": "2026-11-05 18:32:08",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "US Challenger job-cut announcements: October year-on-year -71.3% (prior -19.9%)."
+    },
+    {
+      "id": "5196149",
+      "time": "2026-11-05 18:32:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一艘油輪在卡達以北海域遭襲】英國海上貿易行動辦公室5日通報，一艘油輪在卡達以北海域遭兩枚不明發射物擊中，船員狀況、船舶受損程度及環境影響尚未確認。事件發生於協調世界時4日23時20分（北京時間5日7時20分），地點位於卡達北部城市沙邁勒以北50海里（約93公里）處。相關部門正在調查，過往船舶應謹慎航行並報告可疑活動。近期霍爾木茲海峽及周邊海域襲船事件持續發生，襲擊範圍不斷向波斯灣內部水域延伸，此次遇襲地點位於卡達半島以北、霍爾木茲海峽以西的波斯灣海域。（新華社）"
+    },
+    {
+      "id": "mkt:01a1ab43-f646-7ee0-aa8c-cd3b22e32064",
+      "time": "2026-11-05 18:32:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Challenger Job Cuts (YoY) (Oct) | actual -71.3% | previous -19.90%"
+    },
+    {
+      "id": "mkt:01a1ab43-a699-7ee0-aa8c-c2f6ec59e19b",
+      "time": "2026-11-05 18:31:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Challenger job-cut report: US announced 43,994 layoffs in October, the lowest October total since 2023."
+    },
+    {
+      "id": "te:economy:598597",
+      "time": "2026-11-05 18:31:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "New Passenger Car Registrations YoY",
+        "Importance 1"
+      ],
+      "text": "German Car Registrations Rise for Eighth Month — Germany’s new car registrations rose 1.7% year-on-year to 254,492 units in October 2026, marking an eighth consecutive monthly increase. Private registrations, which accounted for 40.7% of the total, jumped 20.6%, while commercial registrations fell 8.2%. Battery electric vehicles (BEVs) made up 37% of the market, with 94,086 new registrations. By contrast, hybrid registrations declined 5.6% to 95,931, including a 7.9% drop in plug-in hybrids. Gasoline car registrations plunged 40.5% to 38,516, representing a 15.1% market share and highlighting the continued shift toward electrified vehicles. In the first ten months of 2026, total new car registrations reached 2.48 million, up 4.9% year-on-year."
+    },
+    {
+      "id": "5196148",
+      "time": "2026-11-05 18:31:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南王科技：持股5%以上股東變更執行事務合夥人致權益變動】南王科技公告稱，公司持股5%以上股東惠安創輝投資中心（有限合夥）已於2026年11月3日完成工商變更，執行事務合夥人由陳正蒞變更為華鵬程。本次權益變動不涉及持股數量增減，陳正蒞不再控制惠安創輝，雙方一致行動關係解除，陳正蒞可支配表決權股份由1291萬股（佔總股本6.6172%）降至200萬股（佔總股本1.0251%）。本次變動不會導致公司控股股東、實控人變化，不觸及要約收購，雙方將在解除一致行動關係起六個月內繼續遵守減持相關規定。"
+    },
+    {
+      "id": "5196147",
+      "time": "2026-11-05 18:31:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署署長孫梅君會見澳大利亞農漁林業部部長朱莉·柯林斯】11月4日，海關總署署長孫梅君在署會見澳大利亞農漁林業部部長朱莉·柯林斯一行。雙方就落實中澳兩國領導人重要共識，進一步鞏固拓展中澳動植物衛生與食品安全合作，促進雙邊農食產品貿易安全便利，擴大電子證書應用範圍等議題交換意見。澳大利亞駐華大使吉思德參加會見。（海關釋出）"
+    },
+    {
+      "id": "5196146",
+      "time": "2026-11-05 18:31:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新鄉化纖：回覆定增稽核問詢 控股股東擬認購不低於1億元】新鄉化纖公告稱，公司就深交所2026年8月19日出具的向特定物件發行A股股票稽核問詢函進行逐項回覆。本次定增擬募資不超過13.00億元，發行物件含控股股東白鷺集團、新鄉國資集團等不超35名投資者，二者合計認購金額不低於1.00億元且不高於3.60億元，發行後合計持股比例不低於25%、不高於30%，認購資金為自有資金，已出具相關期限內不減持公司股份的承諾。"
+    },
+    {
+      "id": "5196145",
+      "time": "2026-11-05 18:31:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會（SEBI）：自2027年4月1日起，共同基金計劃將允許淨額結算。"
+    },
+    {
+      "id": "mkt:01a1ab42-d26a-7ee0-aa8c-bac3122c49a4",
+      "time": "2026-11-05 18:30:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US Challenger job-cut announcements rose 1.64% MoM in October, versus -18.15% in September."
+    },
+    {
+      "id": "5196144",
+      "time": "2026-11-05 18:30:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：義大利正敲定對烏克蘭的新一輪軍事援助方案。"
+    },
+    {
+      "id": "mkt:01a1ab42-af21-7ee0-aa8c-b66afe213b4a",
+      "time": "2026-11-05 18:30:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Challenger Job Cuts (MoM) (Oct) | actual 1.64% | previous -18.15%"
+    },
+    {
+      "id": "5196143",
+      "time": "2026-11-05 18:30:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數初步上漲1.8%，至175,191.30點。"
+    },
+    {
+      "id": "5196142",
+      "time": "2026-11-05 18:30:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國10月裁員總數為43,994人，為2023年以來10月最低水平。"
+    },
+    {
+      "id": "5196141",
+      "time": "2026-11-05 18:30:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國挑戰者集團10月份共裁員43994人。"
+    },
+    {
+      "id": "mkt:01a1ab42-44ba-7ee0-aa8c-accaeee6bacd",
+      "time": "2026-11-05 18:30:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US October Challenger job-cut announcements 43,994, previously 43,281."
+    },
+    {
+      "id": "te:markets:598596",
+      "time": "2026-11-05 18:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 2.60% Higher — The SENSEX Index rose 2009 points or 2.60 percent on Thursday to close at 79310 points. Leading the gains are Bajaj Finance (7.64%), Maruti Suzuki (5.46%) and Tata Motors (5.44%)."
+    },
+    {
+      "id": "5196140",
+      "time": "2026-11-05 18:30:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國挑戰者10月裁員人數同比下降71.3%。"
+    },
+    {
+      "id": "mkt:01a1ab42-3864-7ee0-aa8c-a05c5b3dbbad",
+      "time": "2026-11-05 18:30:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy is finalising a new round of military aid for Ukraine."
+    },
+    {
+      "id": "mkt:01a1ab42-25e3-7ee0-aa8c-9808cc951362",
+      "time": "2026-11-05 18:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Challenger Job Cuts (Oct) | actual 43994K | previous 43281K"
+    },
+    {
+      "id": "5196139",
+      "time": "2026-11-05 18:29:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度證券交易委員會：同一基金公司的不同計劃之間不允許淨額結算。"
+    },
+    {
+      "id": "5196138",
+      "time": "2026-11-05 18:29:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里斯蒂亞諾·羅納爾多宣佈退出葡萄牙國家隊。"
+    },
     {
       "id": "5196137",
       "time": "2026-11-05 18:29:19",
