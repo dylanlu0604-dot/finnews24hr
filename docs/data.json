@@ -1,7 +1,107 @@
 {
-  "updated": "2026-11-05 10:31:34",
-  "count": 11799,
+  "updated": "2026-11-05 10:35:28",
+  "count": 11801,
   "items": [
+    {
+      "id": "mkt:01a1a98f-4dbc-7ee0-aa80-f03fc62c90ee",
+      "time": "2026-11-05 10:35:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SHFE nickel most-active contract jumped 4.00% intraday to 121,250 yuan/ton."
+    },
+    {
+      "id": "mkt:01a1a98f-1c0a-7ee0-aa80-e86fb8253cbd",
+      "time": "2026-11-05 10:34:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China to implement first batch of new train numbers this month; tickets to be progressively sold and honored】China State Railway Group said the national train-numbering reform is proceeding and the first batch of changes will take effect: conventional passenger trains will use new numbers from 00:00 on Nov 25 and freight trains from 18:00 on Nov 24. Tickets will be progressively put on sale and honored under the new numbers."
+    },
+    {
+      "id": "5194937",
+      "time": "2026-11-05 10:34:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鎳連續主力合約日內漲4%，現報121250.00元。"
+    },
+    {
+      "id": "5194936",
+      "time": "2026-11-05 10:33:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行1000億元人民幣3個月國庫現金定期存款中標利率1.47%。"
+    },
+    {
+      "id": "5194935",
+      "time": "2026-11-05 10:33:32",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行1000億元人民幣1個月國庫現金定期存款中標利率1.42%。"
+    },
+    {
+      "id": "5194934",
+      "time": "2026-11-05 10:33:14",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度市場監管機構放寬海外個人投資者准入要求。"
+    },
+    {
+      "id": "5194933",
+      "time": "2026-11-05 10:33:07",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "比亞迪：比亞迪與vivo達成戰略合作，實現AI智慧體跨端融合，共建智慧出行新生態。"
+    },
+    {
+      "id": "mkt:01a1a98c-b976-7ee0-aa80-e4d0bcb9ffc8",
+      "time": "2026-11-05 10:32:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active lithium carbonate futures rose more than 2.00% intraday to 90,140 yuan/ton."
+    },
+    {
+      "id": "5194924",
+      "time": "2026-11-05 10:32:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數早盤收盤下跌0.4%，至61913.51點；東證指數早盤收盤上漲1.5%，至3955.29點。"
+    },
+    {
+      "id": "5194923",
+      "time": "2026-11-05 10:31:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達10億港元。"
+    },
+    {
+      "id": "5194922",
+      "time": "2026-11-05 10:31:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報91850元/噸，較上日16:30價格下跌950元/噸。"
+    },
     {
       "id": "5194921",
       "time": "2026-11-05 10:30:49",
@@ -108609,92 +108709,6 @@
         "市場"
       ],
       "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報96900元/噸，較上日16:30價格下跌2000元/噸。"
-    },
-    {
-      "id": "5178269",
-      "time": "2026-10-29 10:34:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿維塔新車線上釋出會取消 售價及配置今晚公佈】日前，阿維塔官方宣佈“取消新車線上釋出會”。 阿維塔表示：“原定於10月29日舉行的阿維塔07L Max純電版線上釋出會，決定取消。釋出會可以不辦，但產品的誠意不能少。” 阿維塔稱：“為了讓阿維塔07L Max純電版以更有誠意的價格與大家見面，我們在產品配置、使用者需求與價格之間，進行了多輪討論和反覆權衡。新品釋出計劃不變，產品資訊不藏。” 阿維塔還表示：“今晚18:30，阿維塔07L Max純電版將如期公佈正式售價、產品配置及上市權益。同時，我們也將公開一段內部會議影片，帶大家看看這次上市決策背後的故事。”"
-    },
-    {
-      "id": "mkt:01a18581-9114-7ee0-a9d2-3f30f3b4b29b",
-      "time": "2026-10-29 10:33:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "601939.SS",
-        "Impact bullish",
-        "601398.SS",
-        "601088.SS"
-      ],
-      "text": "【China's four largest state banks' combined market value tops 10 tln yuan intraday, a record high】China's banking index rose more than 1%, hitting a fresh high. Qingdao Bank jumped over 7%; Chengdu Bank and Qilu Bank gained more than 4%. The four largest state-owned banks all advanced; Industrial and Commercial Bank of China rose over 2% to a record market cap. Combined market value of ICBC, China Construction Bank, Agricultural Bank of China and Bank of China exceeded 10 tln yuan intraday, a record. Individual market caps: ICBC >3.12 tln yuan, CCB >3.13 tln yuan, ABC >2.6 tln yuan, BOC >2.3 tln yuan."
-    },
-    {
-      "id": "mkt:01a18581-29a8-7ee0-a9d2-3382f33deb50",
-      "time": "2026-10-29 10:33:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【US may resume military action against Iran; oil re-prices Middle East supply-risk premium】West Texas Intermediate traded near $101.20/bbl in Asian morning trade on Thursday as markets repriced the risk of further Middle East supply disruption. BOK Financial senior trading vice president Dennis Kissler said reports the US may soon resume military action have prompted futures to price near-term tightening; given recent attacks on Saudi Arabia and other regional allies any new operation could be more intense than previous actions. TD Securities expects oil to remain supported in the near term, citing elevated escalation risk ahead of Israeli and US midterm elections. Analysts said recent Houthi attacks have lifted the geopolitical risk premium and Iranian strikes on tankers appear to have reduced some flows through the Strait of Hormuz."
-    },
-    {
-      "id": "5178261",
-      "time": "2026-10-29 10:32:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "越南政府：政府在越南投資發展銀行（BIDV）的持股比例為 76.73%，在越南外貿股份商業銀行（VIETCOMBANK）的持股比例為 74.80%，在越南投資發展銀行（VIETINBANK）的持股比例為 64.46%。"
-    },
-    {
-      "id": "5178260",
-      "time": "2026-10-29 10:32:23",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【國金證券：數採行業處於探索早期階段 核心圍繞邊界的調整和資產的升級】國金證券釋出研報稱，數採服務是整個資料採集產業訂單可見度最高，現金流最穩定的環節，龍頭公司將持續受益於供需缺口的放大和路線收斂帶來的格局集中。短期關注具備訂單、產能和交付能力的數採服務商，中長期優選能夠將資料處理平臺化，並向模型評測、後訓練及部署迴流延伸的公司。重點關注三類公司：(1)擁有傳統AI資料服務經驗的傳統龍頭;(2)以模擬資產為底座，構建軟硬體一體平臺的模擬龍頭;(3)佈局“資料—模擬—訓練—遷移—場景”閉環的全流程平臺。"
-    },
-    {
-      "id": "5178259",
-      "time": "2026-10-29 10:32:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股指期貨進一步下跌；標普500指數期貨下跌0.5%，納斯達克期貨下跌1.6%。"
-    },
-    {
-      "id": "5178258",
-      "time": "2026-10-29 10:32:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港金管局表示，港元與美元之間的利率差依然存在。"
-    },
-    {
-      "id": "5178257",
-      "time": "2026-10-29 10:32:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "香港金管局回應美聯儲利率決定，提醒公眾管理利率風險。"
-    },
-    {
-      "id": "5178256",
-      "time": "2026-10-29 10:31:54",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中泰證券：鐳射雕刻新興賽道加速成長 國產智造引領出海 】中泰證券釋出研報稱，全球消費級鐳射雕刻市場已進入加速滲透期，年複合增長率達到21.0%，成為鐳射產業從工業向消費端延伸的核心增量賽道。這一增長是供給端國產化突破與需求端場景擴容形成的雙向共振。上游鐳射器、振鏡是產業鏈的核心價值所在。消費級鐳射雕刻下游市場已形成“頭部引領+多元競爭”的清晰格局。"
     }
   ]
 }

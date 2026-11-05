@@ -1,7 +1,107 @@
 {
   "date": "2026-11-05",
-  "count": 897,
+  "count": 908,
   "items": [
+    {
+      "id": "mkt:01a1a98f-4dbc-7ee0-aa80-f03fc62c90ee",
+      "time": "2026-11-05 10:35:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SHFE nickel most-active contract jumped 4.00% intraday to 121,250 yuan/ton."
+    },
+    {
+      "id": "mkt:01a1a98f-1c0a-7ee0-aa80-e86fb8253cbd",
+      "time": "2026-11-05 10:34:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China to implement first batch of new train numbers this month; tickets to be progressively sold and honored】China State Railway Group said the national train-numbering reform is proceeding and the first batch of changes will take effect: conventional passenger trains will use new numbers from 00:00 on Nov 25 and freight trains from 18:00 on Nov 24. Tickets will be progressively put on sale and honored under the new numbers."
+    },
+    {
+      "id": "5194937",
+      "time": "2026-11-05 10:34:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鎳連續主力合約日內漲4%，現報121250.00元。"
+    },
+    {
+      "id": "5194936",
+      "time": "2026-11-05 10:33:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行1000億元人民幣3個月國庫現金定期存款中標利率1.47%。"
+    },
+    {
+      "id": "5194935",
+      "time": "2026-11-05 10:33:32",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行1000億元人民幣1個月國庫現金定期存款中標利率1.42%。"
+    },
+    {
+      "id": "5194934",
+      "time": "2026-11-05 10:33:14",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度市場監管機構放寬海外個人投資者准入要求。"
+    },
+    {
+      "id": "5194933",
+      "time": "2026-11-05 10:33:07",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "比亞迪：比亞迪與vivo達成戰略合作，實現AI智慧體跨端融合，共建智慧出行新生態。"
+    },
+    {
+      "id": "mkt:01a1a98c-b976-7ee0-aa80-e4d0bcb9ffc8",
+      "time": "2026-11-05 10:32:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active lithium carbonate futures rose more than 2.00% intraday to 90,140 yuan/ton."
+    },
+    {
+      "id": "5194924",
+      "time": "2026-11-05 10:32:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數早盤收盤下跌0.4%，至61913.51點；東證指數早盤收盤上漲1.5%，至3955.29點。"
+    },
+    {
+      "id": "5194923",
+      "time": "2026-11-05 10:31:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達10億港元。"
+    },
+    {
+      "id": "5194922",
+      "time": "2026-11-05 10:31:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報91850元/噸，較上日16:30價格下跌950元/噸。"
+    },
     {
       "id": "5194921",
       "time": "2026-11-05 10:30:49",
