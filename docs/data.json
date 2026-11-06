@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-06 11:04:57",
-  "count": 11172,
+  "updated": "2026-11-06 11:08:44",
+  "count": 11160,
   "items": [
+    {
+      "id": "5198255",
+      "time": "2026-11-06 11:07:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【曹操出行接入中國移動12580個人智慧助理】曹操出行宣佈接入中國移動12580個人智慧助理，成為中國移動首個打車生態合作伙伴。使用者可透過自然語言發起打車需求，在12580個人智慧助理內完成行程確認、車型及價格選擇、車費結算等操作，無需跳轉至其他應用。據介紹，此次合作為雙方首期試點，曹操出行透過A2A協議接入中國移動靈犀主控，後續計劃拓展至更多中國移動生態入口。目前，曹操出行的打車服務已接入豆包手機助手、榮耀YOYO、OPPO小布、千問AI眼鏡等AI終端及應用。"
+    },
+    {
+      "id": "5198253",
+      "time": "2026-11-06 11:07:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲意電氣等投資成立羿芯能源科技公司】企查查APP顯示，近日，江蘇羿芯能源科技有限公司成立，經營範圍包含合同能源管理；新興能源技術研發；新型陶瓷材料銷售；特種陶瓷製品銷售等。企查查股權穿透顯示，該公司由雲意電氣等共同持股。"
+    },
+    {
+      "id": "5198250",
+      "time": "2026-11-06 11:06:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代電池壽命預測專利獲授權】天眼查智慧財產權資訊顯示，11月3日，寧德時代新能源科技股份有限公司申請的“電池的健康狀態確定方法、壽命預測方法、裝置和系統”專利獲授權，授權公告號為CN122307376B，申請日期為2026年5月29日。專利摘要顯示，該方法獲取車輛執行過程中的電池狀態資料，包括多個時間戳對應的實測電壓，結合電池標稱資料和電化學模型，確定使實測電壓與模型模擬電壓之間誤差最小的多個電池單體的目標電化學引數值，涉及電池健康狀態評估及壽命預測。"
+    },
+    {
+      "id": "te:markets:598887",
+      "time": "2026-11-06 11:06:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Japan 10-Year Bond Yield Drops to Four-Month Low — Japan’s 10-year government bond yield fell to around 2.67% on Friday, reaching its lowest level in four months as a deepening global equity selloff spurred safe-haven demand for government bonds. The decline followed a sweeping Democratic victory in the US midterm elections, which heightened concerns over stricter oversight of the artificial intelligence industry and a possible slowdown in data center expansion. Investors also expect Democrats to push for an end to the conflict with Iran, potentially putting downward pressure on oil prices and easing inflationary concerns. Domestically, minutes from the Bank of Japan’s September meeting reinforced expectations of further interest rate hikes. One board member indicated that the central bank could accelerate monetary tightening while evaluating the impact of developments in the Middle East, growing AI-related demand and foreign exchange movements."
+    },
     {
       "id": "5198236",
       "time": "2026-11-06 11:04:21",
@@ -102558,151 +102594,6 @@
         "國際"
       ],
       "text": "日本央行談風險：受原油價格高企、人工智慧相關需求及外匯因素影響，企業間交易的價格傳導極有可能蔓延至大範圍消費品價格的上漲。"
-    },
-    {
-      "id": "5181278",
-      "time": "2026-10-30 11:08:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：完成所持ETF的出售預計需約43年，此前預計需約112年。"
-    },
-    {
-      "id": "5181277",
-      "time": "2026-10-30 11:08:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：日本金融活動未出現嚴重失衡。"
-    },
-    {
-      "id": "5181276",
-      "time": "2026-10-30 11:08:18",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行決議公佈後，日經平均指數期貨跌幅擴大，最新下跌 2.9%。"
-    },
-    {
-      "id": "5181275",
-      "time": "2026-10-30 11:07:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：仍需關注原油採購成本進一步上升對經濟活動和物價的影響。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202610303916051321",
-      "time": "2026-10-30 11:07:00",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行：從明年1月起 將每年出售ETF的規模由3300億日元上調至約8600億日元】日本央行宣佈，從明年1月起將每年出售ETF的規模提高至每年約8600億日元，之前為每年約3300億日元，完成出售的時間預計從之前的約112年縮短至約43年。"
-    },
-    {
-      "id": "5181274",
-      "time": "2026-10-30 11:06:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：金融機構的放貸態度依然積極。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202610303916048379",
-      "time": "2026-10-30 11:06:38",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行表示，物價首次達到2%通脹目標。"
-    },
-    {
-      "id": "5181273",
-      "time": "2026-10-30 11:06:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：將密切關注中東局勢、人工智慧和外匯市場。"
-    },
-    {
-      "id": "5181272",
-      "time": "2026-10-30 11:06:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：近期實際利率有所上升，但短期利率仍處於低位。"
-    },
-    {
-      "id": "5181271",
-      "time": "2026-10-30 11:06:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【世運電路：高附加值產品逐步實現批次交付】世運電路(603920)在2026年第三季度業績說明會上表示，公司目前訂單飽滿，客戶對價格的接受程度較高，新一輪調價方案已與客戶協商確認，相關調整自10月起全面落地。與此同時，高附加值產品逐步實現批次交付，透過產品結構最佳化提升整體毛利率，增強內部成本消化能力與盈利韌性，長期提升公司的盈利能力。"
-    },
-    {
-      "id": "5181270",
-      "time": "2026-10-30 11:05:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行公佈利率決議後，美元兌日元從157.51跌至157.41。"
-    },
-    {
-      "id": "5181269",
-      "time": "2026-10-30 11:05:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：需關注利率加息時機的展望和風險。"
-    },
-    {
-      "id": "5181268",
-      "time": "2026-10-30 11:05:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：經濟活動面臨的風險總體均衡。"
-    },
-    {
-      "id": "5181267",
-      "time": "2026-10-30 11:05:33",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "日本央行將從1月份起調整ETF出售節奏，年出售規模約為8600億日元。"
-    },
-    {
-      "id": "5181266",
-      "time": "2026-10-30 11:05:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：潛在通脹總體上與2%的目標一致。"
-    },
-    {
-      "id": "5181265",
-      "time": "2026-10-30 11:05:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行暗示通脹趨勢達到目標。"
     }
   ]
 }

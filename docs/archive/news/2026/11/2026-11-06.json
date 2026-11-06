@@ -1,7 +1,43 @@
 {
   "date": "2026-11-06",
-  "count": 865,
+  "count": 869,
   "items": [
+    {
+      "id": "5198255",
+      "time": "2026-11-06 11:07:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【曹操出行接入中國移動12580個人智慧助理】曹操出行宣佈接入中國移動12580個人智慧助理，成為中國移動首個打車生態合作伙伴。使用者可透過自然語言發起打車需求，在12580個人智慧助理內完成行程確認、車型及價格選擇、車費結算等操作，無需跳轉至其他應用。據介紹，此次合作為雙方首期試點，曹操出行透過A2A協議接入中國移動靈犀主控，後續計劃拓展至更多中國移動生態入口。目前，曹操出行的打車服務已接入豆包手機助手、榮耀YOYO、OPPO小布、千問AI眼鏡等AI終端及應用。"
+    },
+    {
+      "id": "5198253",
+      "time": "2026-11-06 11:07:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲意電氣等投資成立羿芯能源科技公司】企查查APP顯示，近日，江蘇羿芯能源科技有限公司成立，經營範圍包含合同能源管理；新興能源技術研發；新型陶瓷材料銷售；特種陶瓷製品銷售等。企查查股權穿透顯示，該公司由雲意電氣等共同持股。"
+    },
+    {
+      "id": "5198250",
+      "time": "2026-11-06 11:06:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代電池壽命預測專利獲授權】天眼查智慧財產權資訊顯示，11月3日，寧德時代新能源科技股份有限公司申請的“電池的健康狀態確定方法、壽命預測方法、裝置和系統”專利獲授權，授權公告號為CN122307376B，申請日期為2026年5月29日。專利摘要顯示，該方法獲取車輛執行過程中的電池狀態資料，包括多個時間戳對應的實測電壓，結合電池標稱資料和電化學模型，確定使實測電壓與模型模擬電壓之間誤差最小的多個電池單體的目標電化學引數值，涉及電池健康狀態評估及壽命預測。"
+    },
+    {
+      "id": "te:markets:598887",
+      "time": "2026-11-06 11:06:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Japan 10-Year Bond Yield Drops to Four-Month Low — Japan’s 10-year government bond yield fell to around 2.67% on Friday, reaching its lowest level in four months as a deepening global equity selloff spurred safe-haven demand for government bonds. The decline followed a sweeping Democratic victory in the US midterm elections, which heightened concerns over stricter oversight of the artificial intelligence industry and a possible slowdown in data center expansion. Investors also expect Democrats to push for an end to the conflict with Iran, potentially putting downward pressure on oil prices and easing inflationary concerns. Domestically, minutes from the Bank of Japan’s September meeting reinforced expectations of further interest rate hikes. One board member indicated that the central bank could accelerate monetary tightening while evaluating the impact of developments in the Middle East, growing AI-related demand and foreign exchange movements."
+    },
     {
       "id": "5198236",
       "time": "2026-11-06 11:04:21",
