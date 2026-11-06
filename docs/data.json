@@ -1,7 +1,72 @@
 {
-  "updated": "2026-11-07 02:22:23",
-  "count": 10661,
+  "updated": "2026-11-07 02:26:12",
+  "count": 10664,
   "items": [
+    {
+      "id": "te:markets:599256",
+      "time": "2026-11-07 02:25:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Falls by 2.72% — Top commodity losers are Palm Oil (-2.72%), Sugar (-1.67%) and Wool (-1.45%). Gains are led by Coffee (1.33%) and Oat (0.52%)."
+    },
+    {
+      "id": "mkt:01a1b219-c0d8-7ee0-aaba-56e5f63bbf22",
+      "time": "2026-11-07 02:23:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "DALY: Service-sector inflation has not fallen as expected."
+    },
+    {
+      "id": "mkt:01a1b219-842f-7ee0-aaba-4e6e241d304d",
+      "time": "2026-11-07 02:22:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's DALY said policy rates may be somewhat restrictive relative to neutral."
+    },
+    {
+      "id": "5200122",
+      "time": "2026-11-07 02:22:56",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將新興市場貨幣評級下調至市場權重（標配），理由是全球週期性不確定性。"
+    },
+    {
+      "id": "5200121",
+      "time": "2026-11-07 02:22:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：服務通脹並未如我們預期那樣下降。"
+    },
+    {
+      "id": "5200120",
+      "time": "2026-11-07 02:22:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：利率可能會略微具有限制性。"
+    },
     {
       "id": "te:markets:599254",
       "time": "2026-11-07 02:20:16",
@@ -97642,37 +97707,6 @@
         "XAUUSD"
       ],
       "text": "【Houthi forces say Saudi Arabia carried out 93 strikes on Yemen in 24 hours】On the evening of Oct. 30 local time, the Houthi movement said Saudi Arabia launched 93 air and missile strikes on Yemen in the prior 24 hours, hitting the capital Sanaa and the governorates of Al Jawf, Taiz, Saada, Marib, Zamar, Hajjah, Ibb and Lahj. The group said total Saudi air and missile strikes since the current escalation now amount to 3,689."
-    },
-    {
-      "id": "te:markets:596954",
-      "time": "2026-10-31 02:25:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Rubber Drops by 2.11% — Top commodity loser is Rubber (-2.11%). Gains are led by Palm Oil (1.17%), Canola (0.73%) and Coffee (0.60%)."
-    },
-    {
-      "id": "te:economy:596953",
-      "time": "2026-10-31 02:24:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Uruguay’s Trade Deficit Narrows in September — Uruguay’s trade deficit narrowed to $35.3 million in September 2025, from $124.4 million a year earlier. Exports grew 7.8% year-on-year to $1.14 billion, led by an 11.5% increase in manufacturing exports. Within the sector, sales of food and beverage products rose 5.8%, tobacco product exports increased 52%, and textile product sales climbed 84.4%. Exports of primary products grew 2%, as higher sales of forestry and wood extraction products (+16.5%) offset declines in other subsectors. Meanwhile, utility exports rose 2.4%. On the import side, purchases edged down 0.6% to $1.17 billion. Imports of intermediate goods recorded the largest decline, falling 5.7%, as purchases of oil and distillates dropped 53.3%. Imports of capital goods slipped 0.8%, amid an 8.4% decline in purchases of machinery and equipment. In contrast, imports of consumer goods rose 9.9%, driven by a 28.1% increase in vehicle purchases."
-    },
-    {
-      "id": "5183530",
-      "time": "2026-10-31 02:23:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "ARIES FINANCIAL：在ARIES移動端推出針對2026年美國中期選舉、經濟資料及金融市場的預測市場。"
     }
   ]
 }
