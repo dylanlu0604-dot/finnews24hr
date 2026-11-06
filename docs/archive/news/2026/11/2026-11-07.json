@@ -1,7 +1,75 @@
 {
   "date": "2026-11-07",
-  "count": 239,
+  "count": 246,
   "items": [
+    {
+      "id": "5200136",
+      "time": "2026-11-07 02:39:46",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "馬斯克：SpaceX有望在12月實現1000億美元年化營收。"
+    },
+    {
+      "id": "mkt:01a1b228-b9f8-7ee0-aaba-aeb7e9be8ff8",
+      "time": "2026-11-07 02:39:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "ICE: Speculative net-long positions in diesel fell by 8,314 contracts to 60,745 in the week to Nov. 3."
+    },
+    {
+      "id": "mkt:01a1b228-7a5d-7ee0-aaba-a3864886ceb4",
+      "time": "2026-11-07 02:39:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Intercontinental Exchange data: speculative net long positions in ICE Brent crude fell 63,487 contracts to 181,970 in the week to Nov. 3."
+    },
+    {
+      "id": "5200135",
+      "time": "2026-11-07 02:39:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "ICE柴油投機客在截至11月3日當週將淨多頭頭寸削減8314份合約，至60745份。"
+    },
+    {
+      "id": "5200134",
+      "time": "2026-11-07 02:39:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）布倫特原油投機者在截至11月3日當週將淨多頭頭寸削減63,487份合約，至181,970份。"
+    },
+    {
+      "id": "5200133",
+      "time": "2026-11-07 02:38:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克外長與伊朗外長通電話 討論伊朗重啟談判方案】當地時間6日晚，據伊拉克外交部宣告，伊拉克外長侯賽因當天與伊朗外長阿拉格齊通電話。阿拉格齊在通話中回顧了伊朗關於恢復談判準備工作的方案，該方案此前已在美國中期選舉前提出。阿拉格齊表示，該方案包括設定與啟動談判程序相關的時間表、重新開放霍爾木茲海峽、恢復在巴基斯坦達成的諒解備忘錄中所包含的要點，以及增加與伊朗核問題相關的要點。（央視新聞）"
+    },
+    {
+      "id": "5200132",
+      "time": "2026-11-07 02:37:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價延續漲勢觸及盤中高點，漲幅8.3%。"
+    },
     {
       "id": "5200131",
       "time": "2026-11-07 02:37:09",
