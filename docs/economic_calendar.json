@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-06 12:13:54",
+  "updated": "2026-11-06 18:39:02",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 438,
+  "count": 441,
   "history_summary": {
     "cached": 438,
-    "fetched": 0,
+    "fetched": 3,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 263,
+      "count": 266,
       "dates": [
         {
           "date": "2026-11-01",
@@ -11905,7 +11905,7 @@
         },
         {
           "date": "2026-11-06",
-          "count": 53,
+          "count": 56,
           "events": [
             {
               "id": "capital:1189682",
@@ -12847,8 +12847,8 @@
               "title": "德國9月季調後工業產出月率",
               "importance": 2,
               "previous": "2 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "0 %",
+              "actual": "0.7 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178863",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -12905,8 +12905,8 @@
               "title": "德國9月工作日調整後工業產出年率",
               "importance": 1,
               "previous": "2.3 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "1.2 %",
+              "actual": "0.4 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178864",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -12952,6 +12952,122 @@
               "history_checked_at": "2026-10-25 01:14:19"
             },
             {
+              "id": "capital:1189952",
+              "fid": "1189952",
+              "interval": "this_week",
+              "date": "2026-11-06",
+              "time": "15:00",
+              "datetime": "2026-11-06 15:00:00",
+              "display_time": "11/06 15:00",
+              "country": "英國",
+              "title": "英國10月Halifax季調後房價指數年率",
+              "importance": 1,
+              "previous": "0 %",
+              "forecast": "-0.3 %",
+              "actual": "-1.2 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189952",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/07",
+                  "actual": "-0.4",
+                  "forecast": "0.2",
+                  "previous": "0.1"
+                },
+                {
+                  "date": "08/07",
+                  "actual": "0.1",
+                  "forecast": "0.4",
+                  "previous": "0.6"
+                },
+                {
+                  "date": "07/07",
+                  "actual": "0.6",
+                  "forecast": "0.8",
+                  "previous": "0.5"
+                },
+                {
+                  "date": "06/05",
+                  "actual": "0.5",
+                  "forecast": "1",
+                  "previous": "0.4"
+                },
+                {
+                  "date": "05/08",
+                  "actual": "0.4",
+                  "forecast": "0.6",
+                  "previous": "0.8"
+                },
+                {
+                  "date": "04/08",
+                  "actual": "0.8",
+                  "forecast": "1.5",
+                  "previous": "1.3"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-06 18:39:00"
+            },
+            {
+              "id": "capital:1189951",
+              "fid": "1189951",
+              "interval": "this_week",
+              "date": "2026-11-06",
+              "time": "15:00",
+              "datetime": "2026-11-06 15:00:00",
+              "display_time": "11/06 15:00",
+              "country": "英國",
+              "title": "英國10月Halifax季調後房價指數月率",
+              "importance": 2,
+              "previous": "0 %",
+              "forecast": "0.1 %",
+              "actual": "-0.6 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189951",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/07",
+                  "actual": "-0.2",
+                  "forecast": "0.1",
+                  "previous": "0"
+                },
+                {
+                  "date": "08/07",
+                  "actual": "0",
+                  "forecast": "0.1",
+                  "previous": "0.2"
+                },
+                {
+                  "date": "07/07",
+                  "actual": "0.2",
+                  "forecast": "0.1",
+                  "previous": "-0.1"
+                },
+                {
+                  "date": "06/05",
+                  "actual": "-0.1",
+                  "forecast": "0.1",
+                  "previous": "-0.1"
+                },
+                {
+                  "date": "05/08",
+                  "actual": "-0.1",
+                  "forecast": "-0.1",
+                  "previous": "-0.5"
+                },
+                {
+                  "date": "04/08",
+                  "actual": "-0.5",
+                  "forecast": "0.1",
+                  "previous": "0.3"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-06 18:39:00"
+            },
+            {
               "id": "capital:1189840",
               "fid": "1189840",
               "interval": "this_week",
@@ -12964,8 +13080,8 @@
               "importance": 1,
               "previous": "541.76",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "553.41",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189840",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -13022,8 +13138,8 @@
               "importance": 1,
               "previous": "-15",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "-27",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189690",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -13080,8 +13196,8 @@
               "importance": 2,
               "previous": "-61.22",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "-73.14",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189691",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -13138,8 +13254,8 @@
               "importance": 1,
               "previous": "602.98",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "626.55",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189839",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -13196,7 +13312,7 @@
               "importance": 1,
               "previous": "0.7 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "0.2 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178865",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -13254,8 +13370,8 @@
               "importance": 1,
               "previous": "7705",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "7585.04",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178866",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -13311,9 +13427,9 @@
               "title": "瑞士10月消費者信心指數",
               "importance": 2,
               "previous": "-35.8",
-              "forecast": "-35",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "-35.5",
+              "actual": "-44.9",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178867",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -13370,7 +13486,7 @@
               "importance": 1,
               "previous": "1.5 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "2 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178868",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -13428,7 +13544,7 @@
               "importance": 1,
               "previous": "1.6 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "2.5 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178869",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -13486,8 +13602,8 @@
               "importance": 1,
               "previous": "4330",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "4405",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178870",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -13532,6 +13648,64 @@
               "history_checked_at": "2026-10-25 01:14:19"
             },
             {
+              "id": "capital:1190073",
+              "fid": "1190073",
+              "interval": "this_week",
+              "date": "2026-11-06",
+              "time": "17:00",
+              "datetime": "2026-11-06 17:00:00",
+              "display_time": "11/06 17:00",
+              "country": "新加坡",
+              "title": "新加坡10月外匯儲備(億美元)",
+              "importance": 1,
+              "previous": "4334",
+              "forecast": "--",
+              "actual": "4315",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190073",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "10/07",
+                  "actual": "4334",
+                  "forecast": "-",
+                  "previous": "4329.7"
+                },
+                {
+                  "date": "09/07",
+                  "actual": "4330",
+                  "forecast": "-",
+                  "previous": "4278.7"
+                },
+                {
+                  "date": "08/07",
+                  "actual": "4279",
+                  "forecast": "-",
+                  "previous": "4262.5"
+                },
+                {
+                  "date": "07/07",
+                  "actual": "4262",
+                  "forecast": "-",
+                  "previous": "4301.4"
+                },
+                {
+                  "date": "06/08",
+                  "actual": "4301",
+                  "forecast": "-",
+                  "previous": "4272.6"
+                },
+                {
+                  "date": "05/07",
+                  "actual": "4273",
+                  "forecast": "-",
+                  "previous": "4191.9"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-06 18:39:00"
+            },
+            {
               "id": "capital:1178872",
               "fid": "1178872",
               "interval": "this_week",
@@ -13543,8 +13717,8 @@
               "title": "歐元區9月零售銷售年率",
               "importance": 1,
               "previous": "0.8 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "0.6 %",
+              "actual": "0.4 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178872",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -13601,8 +13775,8 @@
               "title": "歐元區9月零售銷售月率",
               "importance": 2,
               "previous": "0.1 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "-0.1 %",
+              "actual": "-0.7 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178871",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -14239,7 +14413,7 @@
               "title": "美國10月季調後非農就業人口(萬人)",
               "importance": 3,
               "previous": "2.9",
-              "forecast": "6.5",
+              "forecast": "7",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178874",
@@ -38196,8 +38370,8 @@
       "title": "德國9月季調後工業產出月率",
       "importance": 2,
       "previous": "2 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "0 %",
+      "actual": "0.7 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178863",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -38254,8 +38428,8 @@
       "title": "德國9月工作日調整後工業產出年率",
       "importance": 1,
       "previous": "2.3 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "1.2 %",
+      "actual": "0.4 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178864",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -38301,6 +38475,122 @@
       "history_checked_at": "2026-10-25 01:14:19"
     },
     {
+      "id": "capital:1189952",
+      "fid": "1189952",
+      "interval": "this_week",
+      "date": "2026-11-06",
+      "time": "15:00",
+      "datetime": "2026-11-06 15:00:00",
+      "display_time": "11/06 15:00",
+      "country": "英國",
+      "title": "英國10月Halifax季調後房價指數年率",
+      "importance": 1,
+      "previous": "0 %",
+      "forecast": "-0.3 %",
+      "actual": "-1.2 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189952",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/07",
+          "actual": "-0.4",
+          "forecast": "0.2",
+          "previous": "0.1"
+        },
+        {
+          "date": "08/07",
+          "actual": "0.1",
+          "forecast": "0.4",
+          "previous": "0.6"
+        },
+        {
+          "date": "07/07",
+          "actual": "0.6",
+          "forecast": "0.8",
+          "previous": "0.5"
+        },
+        {
+          "date": "06/05",
+          "actual": "0.5",
+          "forecast": "1",
+          "previous": "0.4"
+        },
+        {
+          "date": "05/08",
+          "actual": "0.4",
+          "forecast": "0.6",
+          "previous": "0.8"
+        },
+        {
+          "date": "04/08",
+          "actual": "0.8",
+          "forecast": "1.5",
+          "previous": "1.3"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-06 18:39:00"
+    },
+    {
+      "id": "capital:1189951",
+      "fid": "1189951",
+      "interval": "this_week",
+      "date": "2026-11-06",
+      "time": "15:00",
+      "datetime": "2026-11-06 15:00:00",
+      "display_time": "11/06 15:00",
+      "country": "英國",
+      "title": "英國10月Halifax季調後房價指數月率",
+      "importance": 2,
+      "previous": "0 %",
+      "forecast": "0.1 %",
+      "actual": "-0.6 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189951",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/07",
+          "actual": "-0.2",
+          "forecast": "0.1",
+          "previous": "0"
+        },
+        {
+          "date": "08/07",
+          "actual": "0",
+          "forecast": "0.1",
+          "previous": "0.2"
+        },
+        {
+          "date": "07/07",
+          "actual": "0.2",
+          "forecast": "0.1",
+          "previous": "-0.1"
+        },
+        {
+          "date": "06/05",
+          "actual": "-0.1",
+          "forecast": "0.1",
+          "previous": "-0.1"
+        },
+        {
+          "date": "05/08",
+          "actual": "-0.1",
+          "forecast": "-0.1",
+          "previous": "-0.5"
+        },
+        {
+          "date": "04/08",
+          "actual": "-0.5",
+          "forecast": "0.1",
+          "previous": "0.3"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-06 18:39:00"
+    },
+    {
       "id": "capital:1189840",
       "fid": "1189840",
       "interval": "this_week",
@@ -38313,8 +38603,8 @@
       "importance": 1,
       "previous": "541.76",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "553.41",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189840",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -38371,8 +38661,8 @@
       "importance": 1,
       "previous": "-15",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "-27",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189690",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -38429,8 +38719,8 @@
       "importance": 2,
       "previous": "-61.22",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "-73.14",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189691",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -38487,8 +38777,8 @@
       "importance": 1,
       "previous": "602.98",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "626.55",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189839",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -38545,7 +38835,7 @@
       "importance": 1,
       "previous": "0.7 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "0.2 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178865",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -38603,8 +38893,8 @@
       "importance": 1,
       "previous": "7705",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "7585.04",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178866",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -38660,9 +38950,9 @@
       "title": "瑞士10月消費者信心指數",
       "importance": 2,
       "previous": "-35.8",
-      "forecast": "-35",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "-35.5",
+      "actual": "-44.9",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178867",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -38719,7 +39009,7 @@
       "importance": 1,
       "previous": "1.5 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "2 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178868",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -38777,7 +39067,7 @@
       "importance": 1,
       "previous": "1.6 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "2.5 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178869",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -38835,8 +39125,8 @@
       "importance": 1,
       "previous": "4330",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "4405",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178870",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -38881,6 +39171,64 @@
       "history_checked_at": "2026-10-25 01:14:19"
     },
     {
+      "id": "capital:1190073",
+      "fid": "1190073",
+      "interval": "this_week",
+      "date": "2026-11-06",
+      "time": "17:00",
+      "datetime": "2026-11-06 17:00:00",
+      "display_time": "11/06 17:00",
+      "country": "新加坡",
+      "title": "新加坡10月外匯儲備(億美元)",
+      "importance": 1,
+      "previous": "4334",
+      "forecast": "--",
+      "actual": "4315",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190073",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "10/07",
+          "actual": "4334",
+          "forecast": "-",
+          "previous": "4329.7"
+        },
+        {
+          "date": "09/07",
+          "actual": "4330",
+          "forecast": "-",
+          "previous": "4278.7"
+        },
+        {
+          "date": "08/07",
+          "actual": "4279",
+          "forecast": "-",
+          "previous": "4262.5"
+        },
+        {
+          "date": "07/07",
+          "actual": "4262",
+          "forecast": "-",
+          "previous": "4301.4"
+        },
+        {
+          "date": "06/08",
+          "actual": "4301",
+          "forecast": "-",
+          "previous": "4272.6"
+        },
+        {
+          "date": "05/07",
+          "actual": "4273",
+          "forecast": "-",
+          "previous": "4191.9"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-06 18:39:00"
+    },
+    {
       "id": "capital:1178872",
       "fid": "1178872",
       "interval": "this_week",
@@ -38892,8 +39240,8 @@
       "title": "歐元區9月零售銷售年率",
       "importance": 1,
       "previous": "0.8 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "0.6 %",
+      "actual": "0.4 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178872",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -38950,8 +39298,8 @@
       "title": "歐元區9月零售銷售月率",
       "importance": 2,
       "previous": "0.1 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "-0.1 %",
+      "actual": "-0.7 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178871",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -39588,7 +39936,7 @@
       "title": "美國10月季調後非農就業人口(萬人)",
       "importance": 3,
       "previous": "2.9",
-      "forecast": "6.5",
+      "forecast": "7",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178874",
