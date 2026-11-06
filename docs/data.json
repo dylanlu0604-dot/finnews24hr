@@ -1,7 +1,83 @@
 {
-  "updated": "2026-11-07 03:01:43",
-  "count": 10666,
+  "updated": "2026-11-07 03:05:39",
+  "count": 10674,
   "items": [
+    {
+      "id": "mkt:01a1b23e-6b89-7ee0-aaba-e974f311acac",
+      "time": "2026-11-07 03:03:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kallas: EU participation required to implement any Russia-Ukraine peace deal】EU foreign policy chief Kallas said on the 6th she cannot say when or how Ukraine and Russia will reach a peace agreement, but any implementation of such a deal would require EU participation. She added Europe already has a security architecture with distinct NATO and EU roles and that Ukraine must be integrated into that architecture."
+    },
+    {
+      "id": "5200153",
+      "time": "2026-11-07 03:03:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮辦公廳主任威爾斯：儘管我的角色可能發生變化，但我對總統和使命的承諾永遠不會改變。"
+    },
+    {
+      "id": "5200152",
+      "time": "2026-11-07 03:02:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮辦公廳主任威爾斯在社交平臺發文，談及自己離任一事。"
+    },
+    {
+      "id": "5200151",
+      "time": "2026-11-07 03:02:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮辦公廳主任威爾斯：今天是我擔任白宮辦公廳主任的最後一天。"
+    },
+    {
+      "id": "5200150",
+      "time": "2026-11-07 03:02:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "賓夕法尼亞州衛生部網站顯示，截至11月6日，該州已報告1487例麻疹病例。"
+    },
+    {
+      "id": "5200149",
+      "time": "2026-11-07 03:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "DDHQ預測肖恩·麥肯贏得密歇根州第四選區眾議院大選。"
+    },
+    {
+      "id": "mkt:01a1b23d-2ce1-7ee0-aaba-e21d35687878",
+      "time": "2026-11-07 03:01:55",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.6% at 24,647, trading 165 points above the cash index."
+    },
+    {
+      "id": "5200148",
+      "time": "2026-11-07 03:01:32",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國國務院：美國國務卿魯比奧將於下週出席在巴黎舉行的七國集團外長會議。"
+    },
+    {
+      "id": "5200147",
+      "time": "2026-11-07 03:01:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "CRUSOE：谷歌已收購CRUSOE在懷俄明州東南部的資料中心站點。"
+    },
     {
       "id": "mkt:01a1b23c-024a-7ee0-aaba-da1c95caabf2",
       "time": "2026-11-07 03:00:39",
@@ -97749,14 +97825,6 @@
         "其他"
       ],
       "text": "胡塞武裝衛生部：沙特敵方空軍24小時內發動空襲，造成29人死亡和受傷。"
-    },
-    {
-      "id": "5183563",
-      "time": "2026-10-31 03:05:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國海上貿易行動辦公室：一艘船隻在伊朗拉萬島以南40海里處被不明發射物擊中。"
     }
   ]
 }
