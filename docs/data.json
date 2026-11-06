@@ -1,7 +1,46 @@
 {
-  "updated": "2026-11-07 02:41:38",
-  "count": 10668,
+  "updated": "2026-11-07 02:45:48",
+  "count": 10667,
   "items": [
+    {
+      "id": "mkt:01a1b22d-a5d6-7ee0-aaba-c6285f4c7cc4",
+      "time": "2026-11-07 02:44:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said he still expects SpaceX (SPCX.O) to have annualized revenue exceeding $500 billion in December 2027."
+    },
+    {
+      "id": "mkt:01a1b22d-1f12-7ee0-aaba-ba9d0f9d7981",
+      "time": "2026-11-07 02:44:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Iraq, Iran foreign ministers hold call to discuss Iran plan to restart negotiations】On the evening of the 6th local time, Iraq’s foreign minister spoke by phone with Iran’s foreign minister. Iran reviewed a plan to resume preparations for talks that includes setting a timetable to launch negotiations, reopening the Strait of Hormuz, reinstituting points from a memorandum of understanding reached in Pakistan, and adding items related to Iran’s nuclear file. Iraq proposed creating a committee of regional ministers to mediate between Iran and the United States and to discuss reaching a peaceful understanding to resolve disputes and bolster regional stability."
+    },
+    {
+      "id": "5200137",
+      "time": "2026-11-07 02:42:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克仍預計SpaceX在2027年12月的年化營收將超過5000億美元。"
+    },
+    {
+      "id": "mkt:01a1b22a-6dce-7ee0-aaba-b647c802c20c",
+      "time": "2026-11-07 02:41:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O"
+      ],
+      "text": "Elon Musk said SpaceX (SPCX.O) could achieve $100 billion in annualized revenue by December."
+    },
     {
       "id": "5200136",
       "time": "2026-11-07 02:39:46",
@@ -97725,46 +97764,6 @@
         "其他"
       ],
       "text": "葉門軍方發言人表示：“針對機場的襲擊暴露出解除封鎖的說法與對葉門民眾的實際做法之間的矛盾。”"
-    },
-    {
-      "id": "5183549",
-      "time": "2026-10-31 02:45:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門軍方發言人：胡塞民武裝彈道導彈襲擊了亞丁機場和馬希克宮。"
-    },
-    {
-      "id": "5183548",
-      "time": "2026-10-31 02:44:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic正與開發商Beacon Data Centers洽談，擬成為一擬建專案的租戶。"
-    },
-    {
-      "id": "5183547",
-      "time": "2026-10-31 02:44:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "截至10月27日當週，洲際交易所(ICE)布倫特原油投機者將淨多頭頭寸增加3,576手，至245,457手。"
-    },
-    {
-      "id": "5183546",
-      "time": "2026-10-31 02:44:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "洲際交易所（ICE）：截至10月27日當週，柴油投機者將淨多頭頭寸減少6,563張，至69,059張。"
-    },
-    {
-      "id": "5183545",
-      "time": "2026-10-31 02:43:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "ANTHROPIC正就租賃埃德蒙頓附近的大型超大規模資料中心園區進行談判。"
     }
   ]
 }

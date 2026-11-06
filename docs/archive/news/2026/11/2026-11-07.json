@@ -1,7 +1,46 @@
 {
   "date": "2026-11-07",
-  "count": 246,
+  "count": 250,
   "items": [
+    {
+      "id": "mkt:01a1b22d-a5d6-7ee0-aaba-c6285f4c7cc4",
+      "time": "2026-11-07 02:44:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said he still expects SpaceX (SPCX.O) to have annualized revenue exceeding $500 billion in December 2027."
+    },
+    {
+      "id": "mkt:01a1b22d-1f12-7ee0-aaba-ba9d0f9d7981",
+      "time": "2026-11-07 02:44:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Iraq, Iran foreign ministers hold call to discuss Iran plan to restart negotiations】On the evening of the 6th local time, Iraq’s foreign minister spoke by phone with Iran’s foreign minister. Iran reviewed a plan to resume preparations for talks that includes setting a timetable to launch negotiations, reopening the Strait of Hormuz, reinstituting points from a memorandum of understanding reached in Pakistan, and adding items related to Iran’s nuclear file. Iraq proposed creating a committee of regional ministers to mediate between Iran and the United States and to discuss reaching a peaceful understanding to resolve disputes and bolster regional stability."
+    },
+    {
+      "id": "5200137",
+      "time": "2026-11-07 02:42:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克仍預計SpaceX在2027年12月的年化營收將超過5000億美元。"
+    },
+    {
+      "id": "mkt:01a1b22a-6dce-7ee0-aaba-b647c802c20c",
+      "time": "2026-11-07 02:41:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O"
+      ],
+      "text": "Elon Musk said SpaceX (SPCX.O) could achieve $100 billion in annualized revenue by December."
+    },
     {
       "id": "5200136",
       "time": "2026-11-07 02:39:46",
