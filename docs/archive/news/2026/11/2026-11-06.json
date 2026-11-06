@@ -1,7 +1,98 @@
 {
   "date": "2026-11-06",
-  "count": 995,
+  "count": 1004,
   "items": [
+    {
+      "id": "5198533",
+      "time": "2026-11-06 12:08:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯訊儀器：控股股東提議回購公司股份，回購資金總額不低於1億元且不高於1.5億元】 聯訊儀器公告，公司於2026年11月5日收到控股股東、實際控制人、董事長鬍海洋先生出具的《關於提議蘇州聯訊儀器股份有限公司回購公司股份的函》，提議公司以自有資金或自籌資金透過上海證券交易所交易系統以集中競價交易方式回購公司已發行的部分人民幣普通股（A股）股份。回購資金總額不低於人民幣1億元（含本數），不高於人民幣1.5億元（含本數），回購的股份將用於員工持股計劃或股權激勵。為減輕公司本次回購的資金壓力，公司計劃向相關金融機構申請股票回購專項貸款支援，公司實際貸款金額與用於回購的自有資金金額合計不超過本次回購金額上限。本次回購的具體方案以公司董事會審議透過的回購股份方案為準。"
+    },
+    {
+      "id": "5198532",
+      "time": "2026-11-06 12:08:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本東證指數跌至4月以來最低水平，最新跌幅超過6%。"
+    },
+    {
+      "id": "te:markets:598914",
+      "time": "2026-11-06 12:07:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Heads for Steepest Weekly Loss in Near 2 Years — Malaysian palm oil futures extended their decline, hovering below MYR 4,350 per tonne at their lowest level since March. Prices are poised for their deepest weekly drop in almost two years, pressured by plunging rival edible oil prices and record-high inventories. A sharp weekly drop in crude oil prices also weighed on sentiment, reducing palm oil's appeal as a biodiesel feedstock amid easing concerns over Middle East supply disruptions. Meanwhile, regional competition intensified as top supplier Indonesia cut its Nov. crude palm oil reference price by over 6% and lowered its export levy, making its supplies more competitive. Uncertainty over potential changes to Malaysia's CPO export tax further dampened sentiment. Still, the downside was partly cushioned by solid exports, with Oct. shipments surging 45.4%–73.5% from Sept. Palm oil imports by key buyer India also climbed to a 14-month high ahead of Diwali. Traders now await the Malaysian Palm Oil Board's monthly report, due Nov. 10."
+    },
+    {
+      "id": "te:markets:598913",
+      "time": "2026-11-06 12:07:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Hits 18-week Low — AUDUSD decreased to 0.69, the lowest since July 2026. Over the past 4 weeks, Australian Dollar US Dollar lost 0.96%, and in the last 12 months, it increased 6.22%."
+    },
+    {
+      "id": "mkt:01a1af0a-628b-7ee0-aaa3-cd439a540cc9",
+      "time": "2026-11-06 12:07:35",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "AUD/USD fell 0.50% intraday to 0.6894."
+    },
+    {
+      "id": "mkt:01a1af09-bebc-7ee0-aaa3-c0c4f4c5a439",
+      "time": "2026-11-06 12:06:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's TOPIX fell to its lowest level since April, with the latest decline exceeding 6%."
+    },
+    {
+      "id": "5198524",
+      "time": "2026-11-06 12:06:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司天然氣公司：阿布扎比國家石油公司天然氣公司與沙迦國家石油公司簽署戰略合作協議，推進阿聯酋天然氣網路一體化。"
+    },
+    {
+      "id": "5198519",
+      "time": "2026-11-06 12:05:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港交易所 9個月滬深港通收入及其他收益42.9億港元。"
+    },
+    {
+      "id": "te:markets:598912",
+      "time": "2026-11-06 12:05:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Singapore",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "STI Falls to Over 4-Month Low, Set for 2nd Weekly Drop — The Straits Times Index (STI) shed 118 points, or 2.2%, to 5,179 on Friday around noon, after rising in the previous session, tracking a fall on Wall Street overnight due to plunges in AI-related stocks amid worries that Democrats could introduce stricter regulations on the AI industry. The broader index touched its lowest level since July 1, mainly weighed down by losses in the electronic technology, communication, technology services, and financials sectors. However, Q3 earnings reports from banking heavyweight OCBC failed to lift the financial sector, which fell 0.9%, despite the bank posting net profit above estimates. Among the biggest laggards were Yangzijiang Shipbuilding (-6.0%), Singapore Technologies Engineering (-5.4%), Keppel (-4.8%), UOB (-2.9%), DBS (-2.3%), and OCBC (-0.5%). For the week, the index is heading for a 3.7% drop, which would mark its second straight weekly loss."
+    },
     {
       "id": "5198508",
       "time": "2026-11-06 12:04:16",

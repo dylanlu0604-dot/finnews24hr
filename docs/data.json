@@ -1,7 +1,98 @@
 {
-  "updated": "2026-11-06 12:05:41",
-  "count": 11199,
+  "updated": "2026-11-06 12:09:43",
+  "count": 11202,
   "items": [
+    {
+      "id": "5198533",
+      "time": "2026-11-06 12:08:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯訊儀器：控股股東提議回購公司股份，回購資金總額不低於1億元且不高於1.5億元】 聯訊儀器公告，公司於2026年11月5日收到控股股東、實際控制人、董事長鬍海洋先生出具的《關於提議蘇州聯訊儀器股份有限公司回購公司股份的函》，提議公司以自有資金或自籌資金透過上海證券交易所交易系統以集中競價交易方式回購公司已發行的部分人民幣普通股（A股）股份。回購資金總額不低於人民幣1億元（含本數），不高於人民幣1.5億元（含本數），回購的股份將用於員工持股計劃或股權激勵。為減輕公司本次回購的資金壓力，公司計劃向相關金融機構申請股票回購專項貸款支援，公司實際貸款金額與用於回購的自有資金金額合計不超過本次回購金額上限。本次回購的具體方案以公司董事會審議透過的回購股份方案為準。"
+    },
+    {
+      "id": "5198532",
+      "time": "2026-11-06 12:08:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本東證指數跌至4月以來最低水平，最新跌幅超過6%。"
+    },
+    {
+      "id": "te:markets:598914",
+      "time": "2026-11-06 12:07:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Heads for Steepest Weekly Loss in Near 2 Years — Malaysian palm oil futures extended their decline, hovering below MYR 4,350 per tonne at their lowest level since March. Prices are poised for their deepest weekly drop in almost two years, pressured by plunging rival edible oil prices and record-high inventories. A sharp weekly drop in crude oil prices also weighed on sentiment, reducing palm oil's appeal as a biodiesel feedstock amid easing concerns over Middle East supply disruptions. Meanwhile, regional competition intensified as top supplier Indonesia cut its Nov. crude palm oil reference price by over 6% and lowered its export levy, making its supplies more competitive. Uncertainty over potential changes to Malaysia's CPO export tax further dampened sentiment. Still, the downside was partly cushioned by solid exports, with Oct. shipments surging 45.4%–73.5% from Sept. Palm oil imports by key buyer India also climbed to a 14-month high ahead of Diwali. Traders now await the Malaysian Palm Oil Board's monthly report, due Nov. 10."
+    },
+    {
+      "id": "te:markets:598913",
+      "time": "2026-11-06 12:07:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Hits 18-week Low — AUDUSD decreased to 0.69, the lowest since July 2026. Over the past 4 weeks, Australian Dollar US Dollar lost 0.96%, and in the last 12 months, it increased 6.22%."
+    },
+    {
+      "id": "mkt:01a1af0a-628b-7ee0-aaa3-cd439a540cc9",
+      "time": "2026-11-06 12:07:35",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "AUD/USD fell 0.50% intraday to 0.6894."
+    },
+    {
+      "id": "mkt:01a1af09-bebc-7ee0-aaa3-c0c4f4c5a439",
+      "time": "2026-11-06 12:06:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's TOPIX fell to its lowest level since April, with the latest decline exceeding 6%."
+    },
+    {
+      "id": "5198524",
+      "time": "2026-11-06 12:06:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司天然氣公司：阿布扎比國家石油公司天然氣公司與沙迦國家石油公司簽署戰略合作協議，推進阿聯酋天然氣網路一體化。"
+    },
+    {
+      "id": "5198519",
+      "time": "2026-11-06 12:05:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港交易所 9個月滬深港通收入及其他收益42.9億港元。"
+    },
+    {
+      "id": "te:markets:598912",
+      "time": "2026-11-06 12:05:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Singapore",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "STI Falls to Over 4-Month Low, Set for 2nd Weekly Drop — The Straits Times Index (STI) shed 118 points, or 2.2%, to 5,179 on Friday around noon, after rising in the previous session, tracking a fall on Wall Street overnight due to plunges in AI-related stocks amid worries that Democrats could introduce stricter regulations on the AI industry. The broader index touched its lowest level since July 1, mainly weighed down by losses in the electronic technology, communication, technology services, and financials sectors. However, Q3 earnings reports from banking heavyweight OCBC failed to lift the financial sector, which fell 0.9%, despite the bank posting net profit above estimates. Among the biggest laggards were Yangzijiang Shipbuilding (-6.0%), Singapore Technologies Engineering (-5.4%), Keppel (-4.8%), UOB (-2.9%), DBS (-2.3%), and OCBC (-0.5%). For the week, the index is heading for a 3.7% drop, which would mark its second straight weekly loss."
+    },
     {
       "id": "5198508",
       "time": "2026-11-06 12:04:16",
@@ -102890,63 +102981,6 @@
         "其他"
       ],
       "text": "【非洲進出口銀行擬推出首筆離岸人民幣貸款】據知情人士透露，隨著中非貿易聯絡日益緊密，非洲進出口銀行正計劃推出一筆10億美元的銀團貸款，該貸款可能包含離岸人民幣部分。這將是該行首次涉足離岸人民幣市場。這些要求匿名以討論私人資訊的知情人士稱，這筆為期三年的貸款將包含美元和離岸人民幣兩個部分，具體規模將根據銀團籌組的最終結果確定。知情人士還表示，中國銀行和渣打銀行將擔任該貸款安排的全球協調人。"
-    },
-    {
-      "id": "te:economy:596587",
-      "time": "2026-10-30 12:08:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Thailand",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Thailand Industrial Output Growth Below Estimates — Thailand’s industrial production increased 2.05% year-on-year in September 2026, below expectations for 2.8% growth, marking the third consecutive month of expansion, though at the slowest pace in the sequence. The increase was driven mainly by higher output in the electronics and circuit board sectors, supported by demand for AI- and data center-related products. However, ongoing conflict in the Middle East, intense competition from low-priced imported goods, and high household debt continued to pose challenges, with the latter constraining domestic purchasing power. For the third quarter, industrial production rose 3.40%, with a capacity utilization rate of 60.58%. Last month, Thailand’s Industry Ministry revised its forecast for factory output growth in 2026 to a range of 2.75% to 3.55%, up from the previous forecast of 0.0%–0.5%, and its forecast for industrial GDP growth to 0.8%–1.8%, up from 0.75%–1.75%, after changing its methodology."
-    },
-    {
-      "id": "5181360",
-      "time": "2026-10-30 12:08:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【淨利潤腰斬！千億PCB龍頭跌12%，勝宏科技回應：投資浮虧所致】記者以投資者身份致電勝宏科技，接線工作人員表示，公司存在部分非經常性損益，源於公司參與的部分產業鏈合作伙伴的A股、港股IPO專案，一方面是為加強雙方合作關係，另一方面為支援對方上市，部分夥伴亦參與公司港股專案，公司相應作了及時投資。該投資二季度曾產生浮盈，三季度市場表現不佳轉為部分浮虧，截至三季度末公司仍持有部分相關股權。上述工作人員補充道，公司近期已經修訂了證券投資管理制度，後續會在內部強化股票投資專案的前期研究與風險研判，未來證券投資業務將執行更加審慎的風控標準，規避二級市場波動帶來的業績衝擊。該人士同時強調，公司扣非淨利潤環比、同比均保持上升；當前訂單能見度處於歷史較高位置，客戶需求直至2027年、2028年仍較為充足，公司正積極擴充產能。（21財經）"
-    },
-    {
-      "id": "mkt:01a18afe-293a-7ee0-a9f9-0e4de8aa84f9",
-      "time": "2026-10-30 12:07:54",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Shenghong Technology says stock drop driven by investment mark-to-market losses】Shenghong Technology shares opened sharply lower and fell more than 12% today after the company’s Q3 results. Third-quarter revenue was 6.831 billion yuan, up 34.3% YoY, while net profit attributable to shareholders was 527 million yuan, down 52.2% YoY and down about 66% QoQ from 1.568 billion yuan in Q2—creating a clear divergence between revenue growth and earnings. The company said part of the profit decline reflects non-recurring gains/losses from equity investments tied to partner A‑share and Hong Kong IPO projects: those investments showed unrealized gains in Q2 but produced unrealized losses in Q3. Shenghong said it still holds some related equity at the end of Q3 and made the investments to reinforce industrial partnerships and support listings, including where partners participated in the company’s Hong Kong project."
-    },
-    {
-      "id": "5181359",
-      "time": "2026-10-30 12:07:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：Neuralink 的第一個產品名為 Telepathy。 它只需透過思考，就能實現與計算機或人類的超高速溝通。輸出頻寬將在幾年內遠遠超過人類最快的語音或打字速度。"
-    },
-    {
-      "id": "te:markets:596586",
-      "time": "2026-10-30 12:06:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Edges Higher — The New Zealand dollar edged up to $0.564 on Friday, extending its recovery from a two-week low, as investors assessed the Reserve Bank’s policy outlook. RBNZ Assistant Governor Karen Silk indicated that a December rate hike could be warranted if price pressures persisted and domestic and global economic conditions proved more resilient than expected. Her remarks followed comments from Governor Anna Breman on Thursday, who signaled a strong likelihood of a rate increase in December, adding that all MPC members agreed further tightening would likely be likely, though the timing would depend on inflation and the economic outlook. The central bank caught markets off guard on Wednesday by holding its cash rate at 2.75%, while leaving the door open for future hikes. Currently, traders imply a 76% chance of a hike in December and see the OCR peaking at 3.75% or higher. Despite the gains, the kiwi is down 1% this week after two straight weeks of advances, but remains up 0.1% for the month."
-    },
-    {
-      "id": "5181358",
-      "time": "2026-10-30 12:06:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【武漢2宗宅地底價成交 總成交金額4.25億元】10月30日，武漢有2宗住宅用地出讓，最終均由武漢軍山科融城市開發有限公司以底價競得，總成交金額4.25億元競得該地塊，成交樓面價分別為2050元/平方米、2100元/平方米。"
     }
   ]
 }
