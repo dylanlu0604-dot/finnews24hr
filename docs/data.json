@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-07 02:53:30",
-  "count": 10669,
+  "updated": "2026-11-07 02:57:20",
+  "count": 10664,
   "items": [
+    {
+      "id": "5200143",
+      "time": "2026-11-07 02:56:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏方提出烏美俄會談優先議題 不指望會談取得突破】烏克蘭外長瑟比加6日說，安全保障、黑海局勢降級、能源停火、遣返烏克蘭兒童和交換戰俘將是烏方在即將舉行的烏美俄三方會談中優先討論的議題。與此同時，烏克蘭總統辦公室主任布達諾夫對媒體表示，不指望此次會談取得突破。（新華社）"
+    },
     {
       "id": "5200142",
       "time": "2026-11-07 02:52:45",
@@ -97733,62 +97741,6 @@
         "其他"
       ],
       "text": "納斯達克100指數較10月高位回撤10%，料將進入回撥階段。"
-    },
-    {
-      "id": "te:economy:596957",
-      "time": "2026-10-31 02:55:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Colombia Central Bank Holds Key Rate at 12.25% — The Central Bank of Colombia left its benchmark interest rate unchanged at 12.25% at its October 2026 meeting, in line with market expectations. The Board of Directors noted that annual inflation edged up to 6.3% in September, slightly below forecasts. Core inflation, meanwhile, declined from 6.1% in August to 6.0% in September. However, the El Niño weather phenomenon represents a significant upside risk to the outlook for food and regulated prices. Inflation expectations for December 2026 edged up to 6.9%. The Board also noted that Colombia’s annual economic growth is estimated to have slowed in the third quarter compared with the previous quarter. Domestic demand indicators point to weaker consumption growth in both the private and public sectors. The Board emphasized the importance of thoroughly reviewing the Economic Rescue Bill submitted to Congress, noting that the evolution of public finances is a key factor in future monetary policy decisions."
-    },
-    {
-      "id": "5183559",
-      "time": "2026-10-31 02:55:23",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院批准向烏克蘭出售“愛國者先進能力-3”（PAC-3）導彈分段增強（MSE）導彈，估計價值21億美元。"
-    },
-    {
-      "id": "5183558",
-      "time": "2026-10-31 02:54:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊表示，已在格什姆島上空擊落一架美軍MQM-170偵察無人機，並稱這是其第二次俘獲此類飛行器。"
-    },
-    {
-      "id": "5183557",
-      "time": "2026-10-31 02:54:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門政府軍稱胡塞武裝襲擊亞丁國際機場等地】當地時間10月30日晚，葉門政府軍方發言人稱，胡塞武裝透過彈道導彈襲擊了亞丁國際機場和亞丁馬阿希克宮。據悉，馬阿希克宮是葉門總統在臨時首都亞丁的駐地，也是葉門政府在亞丁的辦公地點。（央視新聞）"
-    },
-    {
-      "id": "5183556",
-      "time": "2026-10-31 02:54:04",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "墨西哥財政部長：就短期而言，管理石油公司墨西哥國家石油公司(PEMEX)債務的最重要部分已經完成。"
-    },
-    {
-      "id": "5183555",
-      "time": "2026-10-31 02:53:59",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【倫敦股市30日上漲】英國倫敦股市《金融時報》100種股票平均價格指數30日報收於10729.78點，較前一交易日上漲7.71點，漲幅為0.07%。歐洲三大股指當天漲跌不一。當天倫敦股市成分股中位於漲幅前五位的個股分別為：阿斯利康製藥公司股價上漲6.96%，英國電信集團股價上漲6.71%，可口可樂歐洲太平洋合作伙伴公司股價上漲3.28%，酒業公司帝亞吉歐股價上漲3.26%，出版集團勵訊股價上漲2.64%。當天倫敦股市成分股中位於跌幅前五位的個股分別為：國民威斯敏斯特銀行集團股價下跌8.75%，資訊科技服務公司康普塔森特股價下跌6.03%，極地資本科技信託公司股價下跌5.95%，電信運營商非洲電信公司股價下跌5.54%，獅子金融集團有限公司股價下跌5.42%。歐洲其他兩大主要股指方面，法國巴黎股市CAC40指數報收於7969.42點，較前一交易日下跌0.58點，跌幅為0.01%；德國法蘭克福股市DAX指數報收於25818.21點，較前一交易日下跌221.47點，跌幅為0.85%。（新華社）"
     }
   ]
 }
