@@ -1,7 +1,103 @@
 {
   "date": "2026-11-06",
-  "count": 1505,
+  "count": 1515,
   "items": [
+    {
+      "id": "mkt:01a1b093-b5aa-7ee0-aaad-f15957989ce2",
+      "time": "2026-11-06 19:17:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shenzhen Exchange revises ChiNext index methodology to gradually raise single-stock cap to 15%】The Shenzhen Stock Exchange and Shenzhen Securities Information Co. have revised the ChiNext index methodology to progressively lift the single-constituent weight cap to 15%. Under the new rule, at each periodic rebalance, if the largest constituent's actual weight immediately before the rebalance exceeds 14.5%, the exchange will add 0.5 percentage point to that actual weight and round up; that value will set the adjusted single-stock cap. During the transition the cap and the weight-adjustment factor may only be lowered, not raised, until the largest constituent's actual weight is 14.5% or below, at which point the 15% cap is achieved. The change takes effect at the regular rebalance on Dec. 14, 2026."
+    },
+    {
+      "id": "5199513",
+      "time": "2026-11-06 19:16:28",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【深交所修訂創業板指數編制方案 於2026年12月14日定期調整時生效】為進一步完善指數編制方法，深圳證券交易所和深圳證券資訊有限公司決定對創業板指數的編制方案進行修訂，將單隻樣本股權重上限逐步調整至15%。調整方式為：在每次定期調整期間，如果臨近定期調整時第一大樣本股實際權重超過14.5%，則對其實際權重加0.5%後向上取整，作為調整後的單隻樣本股權重上限。調整期間權重上限、權重調整因子只下調，不上調，直至第一大樣本股實際權重不超過14.5%，實現權重上限15%的目標。本次修訂於2026年12月14日定期調整時生效。"
+    },
+    {
+      "id": "te:economy:599122",
+      "time": "2026-11-06 19:16:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Chile Inflation Rate Hits Highest Since April 2025 — Chile’s annual inflation rate rose to 4.5% in October 2026, the highest since April 2025, from 4.1% in September. Inflation accelerated for transport (10.0% vs 7.9%), food and non-alcoholic beverages (4.9% vs 4.3%), housing and utilities (3.8% vs 3.6%) and restaurants and lodging (5.8% vs 5.6%), while deflation in clothing and footwear deepened to 4.1% from 3.1%. In contrast, inflation eased for recreation, sport and culture (4.6% vs 5.2%), while health (5.1%) and education (5.8%) were unchanged, and the decline in prices for insurance and financial services held at 9.7%. On a monthly basis, consumer prices rose 0.5%, following a 0.4% increase in September, led by transport (2.0%), mainly gasoline (4.5%), and food (1.0%). Core consumer prices, which exclude food and energy, were unchanged over the month. Year-to-date inflation reached 4.5%."
+    },
+    {
+      "id": "5199512",
+      "time": "2026-11-06 19:15:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天晟新材：收到江蘇證監局行政處罰事先告知書】天晟新材(300169)11月6日公告，11月6日，公司收到江蘇證監局下發的《行政處罰事先告知書》，經查明，天晟新材涉嫌未及時披露關聯關係及關聯交易；涉嫌2023年年度報告存在重大遺漏。江蘇證監局擬決定：對天晟新材責令改正，給予警告，並處以四百五十萬元罰款；對天晟新材董事長吳海宙給予警告，並處以四百九十萬元罰款。"
+    },
+    {
+      "id": "te:markets:599121",
+      "time": "2026-11-06 19:15:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Falls to 4-Month Low — Wheat fell below $6.00 a bushel on Friday, reaching their lowest level since early July, as optimism over renewed peace efforts in the Black Sea region reduced the geopolitical risk premium. US-mediated talks between Ukraine and Russia are scheduled for November 10-11 in Abu Dhabi, with technical teams from both countries and the US expected to participate. US President Donald Trump also suggested that the conflict could end soon following discussions with a Kremlin envoy, raising hopes for an agreement that could eventually restore grain shipments from the region, a major global agricultural supplier. However, the prospect of peace adds to existing downward pressure from strong global supply. Wheat prices have declined steadily since reaching a 3-1/2-year high of $7.67 on August 28, as production is expected to reach its second-highest level on record, supported by larger harvests in Australia and Argentina."
+    },
+    {
+      "id": "mkt:01a1b092-11ef-7ee0-aaad-ed2c775dc1ba",
+      "time": "2026-11-06 19:15:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhao Leji presides over close of 14th NPC Standing Committee session; law revisions reviewed】Zhao Leji chaired the closing meeting of the 14th National People’s Congress Standing Committee’s 25th session on the morning of the 6th. The committee flagged a Water Law revision as important for sustainable water use and national water security. The draft State-owned Assets Law and draft Financial Law received a second reading; drafts amending the Criminal Procedure Law and revisions to the Renewable Energy Law and the Tax Collection and Administration Law were given initial review. The committee instructed that public comments and submissions be studied and the bills further amended. Zhao stressed the Party’s leadership over NPC work, called for unifying rule of law with party discipline, urged improvements to the anti-corruption legal framework, and directed strengthening the NPC’s supervisory role within the state oversight system."
+    },
+    {
+      "id": "5199511",
+      "time": "2026-11-06 19:14:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖法爾斯省代表呼籲審視核與威懾政策】伊朗最高領袖駐法爾斯省代表洛特福拉·德日卡姆週五以面臨軍事威脅為由，呼籲重新審議伊朗的核政策與威懾政策。德日卡姆在設拉子的主麻日禮拜上稱，伊朗已經擁有製造核武器的技術能力，並提出當前的威脅形勢是否需要調整核政策。他表示，決定權在最高領袖穆傑塔巴·哈梅內伊手中。他同時呼籲發展伊朗導彈能力，並表示若遭遇襲擊，伊朗的反擊將即時發起，且不受地域限制。"
+    },
+    {
+      "id": "te:markets:599119",
+      "time": "2026-11-06 19:13:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Extends Rally, Posts Strong Weekly Gain — India’s BSE Sensex gained ground to close about 2.2% firmer at 81,028 on Friday, its highest level since early March and extending its winning streak to seven sessions. Foreign investor inflows and lower oil prices amid hopes of a potential resolution to the Middle East conflict have been supporting market sentiment. Investors bought around 15,000 crore rupees ($1.6 billion) of Indian equities on Thursday, their biggest single-day net purchase in nearly six years, underpinned by the global rotation away from AI stocks and expectations of relief on the long-term capital gains (LTCG) tax front. Gains were widepread across sectors, particularly financials, banks, autos, consumer goods and metals. M&M led gains among stocks, climbing 6.2%, after the automaker’s second-quarter fiscal year 2027 earnings came in well above expectations. The index recorded a weekly gain of 8.8%, its strongest performance in six years."
+    },
+    {
+      "id": "5199510",
+      "time": "2026-11-06 19:13:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "11月6日，仰望汽車宣佈U9 Xtreme（簡稱U9X）取得503.17km/h的極速成績，該成績於11月1日在阿聯酋阿布扎比E11高速公路的封閉測試路段取得，並由車手馬克 · 巴森（Marc Basseng）擔綱駕駛。（央廣網）"
+    },
+    {
+      "id": "5199509",
+      "time": "2026-11-06 19:13:09",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【趙樂際主持十四屆全國人大常委會第二十五次會議閉幕會並作講話強調 深入學習貫徹習近平黨建思想 以高質量黨建引領人大工作高質量發展】全國人大常委會委員長趙樂際6日上午主持十四屆全國人大常委會第二十五次會議閉幕會。在會議完成有關表決事項後，趙樂際作了講話。趙樂際說，本次會議共審議10件法律草案，透過其中5件，決定批准1件協定，審議“一府兩院”5個專項工作報告和全國人大常委會3個執法檢查報告等，順利完成各項議程。趙樂際指出，制定檢察公益訴訟法，對於更好維護國家利益、守護公共福祉、推進全面依法治國具有重要意義。制定南極活動與環境保護法，有利於我國更好參與南極全球治理，促進南極事業高質量發展。制定反跨境腐敗法，為預防和懲治跨境腐敗行為、營造市場化法治化國際化一流營商環境、參與全球反腐敗治理提供了法律保障。修訂水法，對於實現水資源可持續利用、保障國家水安全、促進經濟社會高質量發展具有重要意義。會議對國有資產法、金融法草案進行了二次審議，對刑事訴訟法修正草案和可再生能源法、稅收徵收管理法修訂草案進行了初次審議，要認真研究各方面提出的意見建議，進一步修改完善法律草案。（新華社）"
+    },
     {
       "id": "mkt:01a1b08f-ea6e-7ee0-aaad-e08a0372048f",
       "time": "2026-11-06 19:13:03",
