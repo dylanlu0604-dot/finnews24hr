@@ -1,7 +1,52 @@
 {
   "date": "2026-11-07",
-  "count": 142,
+  "count": 147,
   "items": [
+    {
+      "id": "mkt:01a1b1ff-1ded-7ee0-aab9-3f2bf5c2bd73",
+      "time": "2026-11-07 01:54:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CoreWeave (CRWV.O) turned negative after earlier gains of more than 9%; Nebius (NBIS.O) pared gains to 2.5% after an earlier rally exceeding 13%."
+    },
+    {
+      "id": "5200089",
+      "time": "2026-11-07 01:53:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【倫銅跌勢放緩，但恐仍創3月以來最大單週跌幅】LME期銅收跌76美元，報13768美元/噸。LME期鋁收跌2美元，報3062美元/噸。LME期鋅收跌82美元，報3711美元/噸。LME期鉛收跌8美元，報1886美元/噸。LME期鎳收漲31美元，報16353美元/噸。LME期錫收漲988美元，報46467美元/噸。LME期鈷收平，報33525美元/噸。"
+    },
+    {
+      "id": "5200088",
+      "time": "2026-11-07 01:52:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "CoreWeave轉跌，此前一度漲9.3%。"
+    },
+    {
+      "id": "mkt:01a1b1fc-c3c2-7ee0-aab9-3231ab8a85c5",
+      "time": "2026-11-07 01:51:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine presidential office chief to lead delegation to trilateral talks with US and Russia in Abu Dhabi on Nov 10-11】Ukraine presidential office chief Budanov said on Nov 6 he will lead Kyiv’s delegation to trilateral talks with the US and Russia in Abu Dhabi on Nov 10-11. He said he does not expect a breakthrough but called the resumption of face-to-face talks after several months a positive signal for the negotiation process and stressed restoring direct contact is important."
+    },
+    {
+      "id": "mkt:01a1b1fb-6644-7ee0-aab9-2c806ee53c09",
+      "time": "2026-11-07 01:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "US oil rig count for the week through Nov. 6 due in 10 minutes."
+    },
     {
       "id": "mkt:01a1b1fa-0d8d-7ee0-aab9-201a9c962cbe",
       "time": "2026-11-07 01:48:36",

@@ -1,7 +1,52 @@
 {
-  "updated": "2026-11-07 01:50:48",
-  "count": 10627,
+  "updated": "2026-11-07 01:54:44",
+  "count": 10624,
   "items": [
+    {
+      "id": "mkt:01a1b1ff-1ded-7ee0-aab9-3f2bf5c2bd73",
+      "time": "2026-11-07 01:54:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CoreWeave (CRWV.O) turned negative after earlier gains of more than 9%; Nebius (NBIS.O) pared gains to 2.5% after an earlier rally exceeding 13%."
+    },
+    {
+      "id": "5200089",
+      "time": "2026-11-07 01:53:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【倫銅跌勢放緩，但恐仍創3月以來最大單週跌幅】LME期銅收跌76美元，報13768美元/噸。LME期鋁收跌2美元，報3062美元/噸。LME期鋅收跌82美元，報3711美元/噸。LME期鉛收跌8美元，報1886美元/噸。LME期鎳收漲31美元，報16353美元/噸。LME期錫收漲988美元，報46467美元/噸。LME期鈷收平，報33525美元/噸。"
+    },
+    {
+      "id": "5200088",
+      "time": "2026-11-07 01:52:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "CoreWeave轉跌，此前一度漲9.3%。"
+    },
+    {
+      "id": "mkt:01a1b1fc-c3c2-7ee0-aab9-3231ab8a85c5",
+      "time": "2026-11-07 01:51:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine presidential office chief to lead delegation to trilateral talks with US and Russia in Abu Dhabi on Nov 10-11】Ukraine presidential office chief Budanov said on Nov 6 he will lead Kyiv’s delegation to trilateral talks with the US and Russia in Abu Dhabi on Nov 10-11. He said he does not expect a breakthrough but called the resumption of face-to-face talks after several months a positive signal for the negotiation process and stressed restoring direct contact is important."
+    },
+    {
+      "id": "mkt:01a1b1fb-6644-7ee0-aab9-2c806ee53c09",
+      "time": "2026-11-07 01:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "US oil rig count for the week through Nov. 6 due in 10 minutes."
+    },
     {
       "id": "mkt:01a1b1fa-0d8d-7ee0-aab9-201a9c962cbe",
       "time": "2026-11-07 01:48:36",
@@ -97225,72 +97270,6 @@
         "國際"
       ],
       "text": "美聯儲傳聲筒：目前看來，多位委員會成員正一如既往地頻繁發聲，以確保市場理解其綜合反應函式。"
-    },
-    {
-      "id": "5183513",
-      "time": "2026-10-31 01:54:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我們正就防空系統和F-16彈藥問題繼續與所有夥伴合作。我們正在為近期的新決定做準備。希望11月能夠推進長期以來討論的各類形式。"
-    },
-    {
-      "id": "mkt:01a18df2-a4ae-7ee0-aa13-6ea17625431f",
-      "time": "2026-10-31 01:54:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian real in spot trading weakened 1.07% versus the dollar to 1 USD = 5.445 BRL."
-    },
-    {
-      "id": "5183512",
-      "time": "2026-10-31 01:53:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西雷亞爾兌美元即期匯率下跌1.07%，至5.445雷亞爾兌1美元。"
-    },
-    {
-      "id": "5183511",
-      "time": "2026-10-31 01:51:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "標普500指數跌2.00%，現報7565.740點；道指跌1.04%，現報51796.949點；納指跌3.23%，現報25338.109點。"
-    },
-    {
-      "id": "5183510",
-      "time": "2026-10-31 01:51:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守3880美元/盎司，日內跌3.51%。"
-    },
-    {
-      "id": "5183509",
-      "time": "2026-10-31 01:51:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：伊朗革命衛隊有關擊毀美軍海上無人艇的說法不實。事實上，目前美國在中東地區的所有軍用無人水面艇均已確認狀態完好，其中包括一支正在霍爾木茲海峽巡邏、為美國中央司令部防禦體系提供支援的先進海上無人艇分隊。"
-    },
-    {
-      "id": "5183508",
-      "time": "2026-10-31 01:51:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股延續跌勢，標普500指數<.SPX>下跌2.00%。"
-    },
-    {
-      "id": "mkt:01a18def-8e87-7ee0-aa13-619b92b57556",
-      "time": "2026-10-31 01:50:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Chinese regulators seek to ensure companies adequately disclose AI-related risks to investors amid a surge in corporate AI spending."
     }
   ]
 }
