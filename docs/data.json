@@ -1,7 +1,112 @@
 {
-  "updated": "2026-11-06 11:27:32",
-  "count": 11164,
+  "updated": "2026-11-06 11:31:15",
+  "count": 11168,
   "items": [
+    {
+      "id": "mkt:01a1aee8-ce74-7ee0-aaa3-356acc8ebf5d",
+      "time": "2026-11-06 11:30:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FADA: India commercial vehicle retail sales rose 2.3% YoY in October."
+    },
+    {
+      "id": "mkt:01a1aee8-a898-7ee0-aaa3-2f82ea50dc39",
+      "time": "2026-11-06 11:30:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FADA: India passenger car retail sales down 14.2% YoY in October."
+    },
+    {
+      "id": "5198324",
+      "time": "2026-11-06 11:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破100美元/桶，日內漲1.80%。"
+    },
+    {
+      "id": "5198323",
+      "time": "2026-11-06 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約漲0.28%， 10年期主力合約漲0.07%， 5年期主力合約漲0.02%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5198322",
+      "time": "2026-11-06 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續跌1.20%， 滬深300指數期貨連續跌1.24%， 中證500指數期貨連續跌1.34%， 上證50指數期貨連續跌0.89%。"
+    },
+    {
+      "id": "5198321",
+      "time": "2026-11-06 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】蘋果連續漲4.87%，丙烯連續跌4.19%，塑膠連續跌3.90%，液化石油氣連續跌3.40%，聚丙烯連續跌3.30%。"
+    },
+    {
+      "id": "mkt:01a1aee7-9ea4-7ee0-aaa3-21f3e11387fe",
+      "time": "2026-11-06 11:29:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Philippine Q3 agricultural output posts largest decline since 1999; rice output down sharply】Philippine agricultural output fell 5% YoY in Q3, the largest decline on record since 1999, adding pressure to the economy. Rice production dropped 17.8% YoY to 3.0 mln tonnes, hit by disrupted monsoon rains. Agriculture minister Francisco Tiu Laurel said El Nifio has altered rainfall patterns and could worsen drought, and high fertilizer costs likely contributed. He expects agricultural output to remain weak this quarter."
+    },
+    {
+      "id": "mkt:01a1aee7-74da-7ee0-aaa3-1b243ff7445f",
+      "time": "2026-11-06 11:29:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump’s Washington Arch project won critical approval from a government committee, but a judge could still block construction."
+    },
+    {
+      "id": "5198320",
+      "time": "2026-11-06 11:28:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深深房、深紡織等成立私募股權投資基金】企查查APP顯示，近日，深圳深投控弘義一號私募股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由深深房A(000029)、深紡織A(000045)、國任財產保險股份有限公司等共同出資。"
+    },
+    {
+      "id": "5198317",
+      "time": "2026-11-06 11:28:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨上漲1美元，至每桶91.52美元。布倫特原油期貨 <LCOc1> 上漲 1.50 美元，至每桶 99.79 美元。"
+    },
+    {
+      "id": "mkt:01a1aee5-be99-7ee0-aaa3-14497a12acc5",
+      "time": "2026-11-06 11:27:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Oil set for sharp weekly drop but Middle East supply worries cap declines】Foreign media report markets expect a de-escalation of conflict with Iran after Trump’s party suffered midterm losses, pushing Brent futures toward a roughly 12% weekly decline and WTI toward about 12.1%. Conflict-driven Middle East supply concerns, however, continue to underpin prices. On Friday both U.S. crude and Brent futures rose; ANZ said traders viewed Wednesday’s sell-off as overdone, prompting a rebound."
+    },
+    {
+      "id": "5198311",
+      "time": "2026-11-06 11:27:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國移動智慧網正式釋出 促進智慧要素融合融通】11月6日，中國移動在2026行動網路大會上正式釋出智慧網。該智慧網是與通訊網、算力網協同構建的網路化人工智慧基礎設施。作為智慧要素的“交換機”和“路由器”，中國移動智慧網透過促進智慧要素融合融通，將有效支撐上層智慧應用更加泛在普惠、敏捷高效、安全可信、韌性可靠。據悉，在Token生產方面，中國移動打造“芯合”異構超融合平臺，遮蔽底層異構硬體差異，實現主流模型在10多款主流國產晶片上跨架構遷移和部署最佳化。在Token分發方面，中國移動打造MoMA模型服務平臺，以及推理算力網路和算力池，使單位算卡Token產出的效能更高、效能更佳。在Token應用方面，中國移動創新TraaS（Trust as a service）可信服務機制，以安全可信，構建開放生態。"
+    },
     {
       "id": "mkt:01a1aee5-5f8e-7ee0-aaa3-0f51adfef4b5",
       "time": "2026-11-06 11:27:10",
@@ -102551,77 +102656,6 @@
         "其他"
       ],
       "text": "【地球系統資料國際交換節點（上海）啟用】10月30日，地球系統資料國際交換節點（上海）在2026全球數商大會上啟用，將承擔跨境資料流通、國際氣象服務與區域協調支撐等職能，推動我國氣象資料“出海”。節點面向共建“一帶一路”國家氣象機構提供本地化氣象產品研製與智慧預警服務，支撐“媽祖”方案落地；面向國際氣象機構、防災減災主體開展國際氣象資料交換、預報模型聯合研發、預警方案協同迭代；面向境內出海企業、科研機構提供境外氣象資料標準化加工與定製化產品服務。後續將持續豐富高價值資料供給，氣象部門將進一步加快“媽祖”資料底座區域支撐平臺部署，面向亞洲、非洲共建“一帶一路”國家開展定製化預警產品試執行。（央視新聞）"
-    },
-    {
-      "id": "5181315",
-      "time": "2026-10-30 11:31:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【清華大學聯合無問芯穹、智元提出機器人群體學習正規化】近日，清華大學聯合無問芯穹、智元提出群體經驗學習（Collective Experience Learning，CEL）正規化，並在96臺真實機器人組成的叢集中完成規模化驗證。CEL讓機器人可以不只依靠人類示範學習，還能借鑑群體中其他機器人的成功經驗。透過共享和積累經驗，機器人群體能夠在持續實踐中共同提升能力，為推動機器人的自主進化和規模化應用提供了新的技術路徑。"
-    },
-    {
-      "id": "5181314",
-      "time": "2026-10-30 11:30:57",
-      "tags": [
-        "公司",
-        "市場",
-        "A股"
-      ],
-      "text": "【午評：滬指探底回升跌0.3%，白酒、CRO概念、港口航運板塊漲幅居前】A股三大指數早盤集體下跌，截至午盤，上證指數跌0.3%，深證成指跌0.58%，創業板指跌1.18%，北證50漲0.75%，科創50指數跌1.74%。全市場成交額10180億元，較上日放量215億元，全市場超2800只個股下跌。板塊題材上，白酒、醫療服務、港口航運、CRO概念、機場航運板塊漲幅居前；影視院線、遊戲、文化傳媒、AI語料、軟體開發板塊跌幅居前。盤面上，白酒板塊低開高走，皇臺酒業、古井貢酒、迎駕貢酒觸及漲停，瀘州老窖、今世緣、山西汾酒漲幅居前。醫療服務板塊探底回升，畢得醫藥、澳洋健康漲停，萬邦醫藥、睿智醫藥、皓元醫藥漲幅居前。港口航運板塊表現活躍，錦江航運漲停，中遠海控、國航遠洋、上港集團漲幅居前。影視院線板塊重挫，文投控股、橫店影視跌停，慈文傳媒、捷成股份、歡瑞世紀額跌幅居前。遊戲板塊震盪走低，三七互娛跌停，凱撒文化、掌趣科技、星輝娛樂跌幅居前。"
-    },
-    {
-      "id": "5181313",
-      "time": "2026-10-30 11:30:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨早盤收盤】白銀連續跌4.91%，鉑連續跌4.59%，蘋果連續漲4.53%，錫連續跌3.38%，瀝青連續漲3.35%，燒鹼連續漲3.14%。"
-    },
-    {
-      "id": "5181312",
-      "time": "2026-10-30 11:30:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續跌0.66%， 滬深300指數期貨連續跌0.15%， 中證500指數期貨連續跌0.66%， 上證50指數期貨連續漲0.14%。"
-    },
-    {
-      "id": "5181311",
-      "time": "2026-10-30 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.52%， 10年期主力合約跌0.14%， 5年期主力合約跌0.12%， 2年期主力合約跌0.06%。"
-    },
-    {
-      "id": "5181310",
-      "time": "2026-10-30 11:29:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經股指期貨收窄跌幅，最新下跌2.3%。"
-    },
-    {
-      "id": "te:markets:596570",
-      "time": "2026-10-30 11:28:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Trades at Over 2-Month Low, Set for Monthly Fall — The TAIEX, Taiwan’s benchmark stock index, plunged 1,446 points, or 3.1%, to 44,922 around noon on Friday, extending losses from the previous session and tracking a sharp fall in US stock futures amid disappointing earnings from major technology companies. The broader index touched its lowest level since August 24, mainly weighed down by declines in electronic technology, technology services, producer manufacturing, and process industries. Electronic technology slumped 3.6%, with TSMC, the world’s largest contract chipmaker, which accounts for more than 40% of the market’s total value, falling 1.9%. Meanwhile, MediaTek, Hon Hai Precision, and Delta Electronics plunged 4.6%, 9.8%, and 3%, respectively. Technology services also fell sharply by 4.2%, mainly weighed down by a 5.0% decline in Wiwynn Corporation. For the week, the index was heading for a 1.1% drop, while plunging 6.3% for the month after rising in the previous month, amid a sell-off in technology stocks."
-    },
-    {
-      "id": "5181309",
-      "time": "2026-10-30 11:28:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時放量169億元。"
     }
   ]
 }
