@@ -1,7 +1,48 @@
 {
-  "updated": "2026-11-07 02:57:20",
-  "count": 10664,
+  "updated": "2026-11-07 03:01:43",
+  "count": 10666,
   "items": [
+    {
+      "id": "mkt:01a1b23c-024a-7ee0-aaba-da1c95caabf2",
+      "time": "2026-11-07 03:00:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US State Department said US Secretary of State Rubio will attend next week’s G7 foreign ministers’ meeting in Paris."
+    },
+    {
+      "id": "mkt:01a1b23b-ea1d-7ee0-aaba-d21a125ffb71",
+      "time": "2026-11-07 03:00:33",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "Musk said SpaceX (SPCX.O) plans on a test flight in about a week to attempt to catch both the Starship booster and the spacecraft simultaneously."
+    },
+    {
+      "id": "5200146",
+      "time": "2026-11-07 03:00:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷9月工業生產同比下降1.8%。"
+    },
+    {
+      "id": "5200145",
+      "time": "2026-11-07 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.55%，報24627.00點，高水145.14點。"
+    },
+    {
+      "id": "5200144",
+      "time": "2026-11-07 02:58:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX 計劃在大約一週後的試飛任務中，嘗試同時捕獲星艦的兩個箭體。"
+    },
     {
       "id": "5200143",
       "time": "2026-11-07 02:56:45",
@@ -97716,31 +97757,6 @@
         "國際"
       ],
       "text": "英國海上貿易行動辦公室：一艘船隻在伊朗拉萬島以南40海里處被不明發射物擊中。"
-    },
-    {
-      "id": "5183562",
-      "time": "2026-10-31 03:00:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "調查：預計波蘭央行下週將維持主要利率在3.75%不變。"
-    },
-    {
-      "id": "5183561",
-      "time": "2026-10-31 03:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.18%，報23330.20點，高水35.78點。"
-    },
-    {
-      "id": "5183560",
-      "time": "2026-10-31 02:59:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數較10月高位回撤10%，料將進入回撥階段。"
     }
   ]
 }
