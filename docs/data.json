@@ -1,7 +1,86 @@
 {
-  "updated": "2026-11-06 18:46:43",
-  "count": 11018,
+  "updated": "2026-11-06 18:50:38",
+  "count": 11014,
   "items": [
+    {
+      "id": "mkt:01a1b07a-5b55-7ee0-aaad-7f80f834b862",
+      "time": "2026-11-06 18:49:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【6.1-magnitude earthquake off eastern Kanto, Japan】Japan Meteorological Agency said at about 19:39 local time on the 6th a magnitude-6.1 earthquake occurred offshore eastern Kanto; hypocenter depth 10 km; maximum JMA seismic intensity 3."
+    },
+    {
+      "id": "5199445",
+      "time": "2026-11-06 18:49:29",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【上海地方國企首單機構間REITs擴募落地】11月4日，“中信建投-外高橋集團持有型不動產資產支援專項計劃”完成2026年第一次擴募，擴募規模14.98億元。這是上海市地方國企首單機構間REITs擴募專案。 對市場而言，這次擴募的意義不僅在於單隻產品規模增加。機構間REITs不只是一次性融資工具，更是一個可以持續裝入新資產的“機構版REITs平臺”。本次擴募意味著，地方國企盤活存量物業，正從“單個專案一次性變現”，走向“同一平臺分批裝入、資金迴圈使用”。（21財經）"
+    },
+    {
+      "id": "5199444",
+      "time": "2026-11-06 18:49:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【開勒股份：擬收購福建威泰思40%股權並對其增資】開勒股份11月6日公告，公司與陳華民、朱維鋒、福州高新區威泰斯投資合夥企業（有限合夥）、吳樂超、福州華長、郭少琴、福州高新區芯和聚光科技合夥企業（有限合夥）以及福建威泰思簽署了《關於福建威泰思光電有限公司之股權轉讓及增資協議》。公司擬受讓陳華民、福州華長持有的標的公司合計40%股權，對應400萬元註冊資本，股權轉讓價款為人民幣5,472萬元；並在本次股權轉讓事宜完成的同時出資1億元認繳標的公司全部新增註冊資本694.4444萬元，溢價部分計入標的公司資本公積。上述股權轉讓和增資共同構成本次交易，支付股權轉讓款和增資款合計15,472萬元。本次交易完成後，公司將合計持有標的公司64.5902%股權，福建威泰思將成為公司控股子公司。"
+    },
+    {
+      "id": "mkt:01a1b079-cfca-7ee0-aaad-7369fd02bd11",
+      "time": "2026-11-06 18:48:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "German government spokesman said Chancellor Merz spoke by phone with U.S. President Trump."
+    },
+    {
+      "id": "5199443",
+      "time": "2026-11-06 18:48:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國政府發言人稱，德國總理默茨與特朗普通了電話。"
+    },
+    {
+      "id": "5199442",
+      "time": "2026-11-06 18:48:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本關東地區東部近海發生6.1級地震】據日本氣象廳公佈的資料，當地時間6日19時39分左右，日本關東地區東部近海發生6.1級地震，震源深度10千米，最大震感為震度3。"
+    },
+    {
+      "id": "5199441",
+      "time": "2026-11-06 18:48:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國地球科學研究中心（GFZ）：日本本州島東海岸附近海域發生5.99級地震。"
+    },
+    {
+      "id": "5199440",
+      "time": "2026-11-06 18:48:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐股跌幅擴大，德國DAX指數跌超2%，英國富時100指數跌2%，歐洲斯托克50指數跌1.4%，法國CAC 40指數跌1.7%。"
+    },
+    {
+      "id": "5199439",
+      "time": "2026-11-06 18:46:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【智動力：股票交易異常波動 無應披露未披露重大事項】智動力公告稱，公司股票於2026年11月4日、11月5日、11月6日連續三個交易日收盤價格漲幅偏離值累計達30%，屬於股票交易異常波動情形。經自查並向控股股東、實際控制人核實，公司前期披露資訊無需更正補充，未發現對股價產生較大影響的未公開重大資訊，近期生產經營及內外部經營環境未發生重大變化，公司、控股股東及實際控制人均不存在應披露而未披露的重大事項，控股股東及實控人在異常波動期間未買賣公司股票。敬請廣大投資者理性投資，注意風險。"
+    },
     {
       "id": "5199438",
       "time": "2026-11-06 18:46:05",
@@ -100878,124 +100957,6 @@
         "其他"
       ],
       "text": "【前三季度電網企業固定資產投資超過6000億元】國家能源局今天舉行新聞釋出會，相關負責人介紹，今年夏天，我國用電負荷連續創歷史新高，但是各地電力供應充足，截至9月底，電網企業完成固定資產投資超過6000億元。（央視新聞）"
-    },
-    {
-      "id": "5182747",
-      "time": "2026-10-30 18:50:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奧飛資料：實際控制人馮康提議以5000萬元-1億元回購公司股份】奧飛資料公告，公司實際控制人暨董事長、總經理馮康於2026年10月30日提議公司回購股份，回購資金總額不低於5000萬元且不超過1億元，資金來源為自有資金或自籌資金。回購股份擬用於登出並減少註冊資本、可轉換公司債券轉股或未來適宜時機用於股權激勵、員工持股計劃等；回購價格不高於董事會審議透過回購方案決議前30個交易日公司股票交易均價的150%，回購期限為方案經董事會或股東會審議透過之日起12個月內。公司董事會將盡快研究並制定回購方案，履行審議程式和資訊披露義務。"
-    },
-    {
-      "id": "5182746",
-      "time": "2026-10-30 18:50:09",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【國泰海通：2026年第三季度淨利潤46.25億元，同比下降27.01%】國泰海通公告，2026年第三季度營業收入118.13億元，同比下降46.35%；歸屬於母公司所有者的淨利潤46.25億元，同比下降27.01%；扣非歸母淨利潤44.37億元，同比下降50.84%。2026年前三季度營業收入589.76億元，同比增長28.51%；歸屬於母公司所有者的淨利潤248.85億元，同比增長12.73%；扣非歸母淨利潤239.47億元，同比增長46.87%。"
-    },
-    {
-      "id": "5182745",
-      "time": "2026-10-30 18:50:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西藏城投：前三季度營收3.18億元 同比降61.96%】西藏城投公告稱，2026年第三季度實現營業收入9761.67萬元，同比增長3.73%；淨虧損3944.47萬元。2026年前三季度實現營業收入3.18億元，同比下降61.96%；歸屬於上市公司股東的淨虧損1.08億元，扣除非經常性損益的淨虧損1.12億元。業績下滑主要受房地產市場波動影響，房地產專案銷售收入有所下降。"
-    },
-    {
-      "id": "te:economy:596803",
-      "time": "2026-10-30 18:50:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Belgium",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Belgium Producer Inflation Highest Since 2022 — Belgium’s producer prices rose 13.6% year-on-year in September 2026, up from a revised 11.4% in the previous month, marking the highest reading since December 2022. Inflation increased for capital goods (2.96% vs. 2.94% in August) and energy (13.6% vs. 11.4%). In contrast, costs eased for durable consumer goods (4.7% vs. 5.0%) and intermediate goods (15.1% vs. 15.9%), while deflation moderated for non-durable goods (-0.4% vs. -0.8%). By sector, prices rose for manufacturing (12.7% vs. 11.2%) and electricity, gas, steam, and air conditioning supply (25.7% vs. 15.7%). Meanwhile, price growth moderated for mining and quarrying (2.5% vs. 5.2%), while it remained unchanged for water supply, sewerage, waste management, and remediation services at 4.2%. By market, inflation accelerated in both the domestic (12.2% vs. 10.5%) and non-domestic markets (16.6% vs. 13.5%). On a monthly basis, producer prices rose 1.9%, slowing from a revised 2.1% increase in the previous month."
-    },
-    {
-      "id": "5182744",
-      "time": "2026-10-30 18:50:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南方航空：2026年第三季度淨利潤虧損6.09億元】南方航空公告，2026年第三季度營業收入525.33億元，同比增長2.26%；歸屬於上市公司股東的淨利潤虧損6.09億元，扣除非經常性損益的淨利潤虧損8.8億元。2026年年初至報告期末營業收入1472.12億元，同比增長6.93%；歸屬於上市公司股東的淨利潤虧損43.05億元，扣除非經常性損益的淨利潤虧損55.9億元。公司表示，受油價波動衝擊影響，第三季度效益大幅下降，年初至報告期末出現經營虧損。"
-    },
-    {
-      "id": "5182743",
-      "time": "2026-10-30 18:49:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "國泰海通證券股份有限公司第三季度淨利潤46.3億元人民幣。"
-    },
-    {
-      "id": "5182742",
-      "time": "2026-10-30 18:49:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "南方航空第三季度營收525.3億元人民幣。"
-    },
-    {
-      "id": "5182740",
-      "time": "2026-10-30 18:48:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外媒爆料：美國多個軍事基地發生一系列冰櫃故障事件，五角大樓懷疑遭駭客攻擊】據路透社當地時間10月29日援引4名知情官員訊息披露，針對今年8月美國多地軍事基地發生的一系列神秘冰櫃故障、導致大量食品變質事件，五角大樓正將其定性為疑似駭客攻擊事件並展開調查。一名官員表示，美軍方調查人員正與法國同行保持聯絡，瞭解本月早些時候法國發生的一起針對商用冰櫃的類似網路攻擊事件。據報道，這起事件導致法國350多家商戶的製冷裝置溫控設定遭到惡意篡改，多家超市冷凍食品區的大量商品因此變質。（環球網）"
-    },
-    {
-      "id": "te:markets:596800",
-      "time": "2026-10-30 18:48:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Switzerland",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Swiss Bond Yields Hold Near 7-Week Low — The Swiss 10-year sovereign yield held near 0.5%, close to its lowest level in seven weeks, supported by safe-haven demand amid geopolitical uncertainty. As the US-Iran war enters its ninth month and the Russia-Ukraine war continues, rising energy and defense spending has increased fiscal pressures across Europe, particularly in France. Switzerland, by contrast, has one of Europe's lowest public debt levels. Officials are also seeking to strengthen its safe-haven status by tightening rules for too-big-to-fail banks and reducing bailout risks, although discussions remain inconclusive. Meanwhile, SNB minutes indicated that inflationary pressures had not spilled over into the broader economy. The SNB kept its policy rate at 0%, with Chair Schlegel seeing no immediate need for a change. While economists expect rates to hold through 2027, markets are pricing in a hike in early 2027. Still, elevated oil prices fuel bets on monetary tightening elsewhere and pressure Swiss yields."
-    },
-    {
-      "id": "5182739",
-      "time": "2026-10-30 18:48:29",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【中國稀土：股票11月2日開市起停牌，擬發行股份收購中稀涼山股權】中國稀土公告，公司擬透過發行股份方式購買中稀（涼山）稀土有限公司股權並募集配套資金，預計構成重大資產重組及關聯交易，不構成重組上市。本次交易尚處於籌劃階段，公司股票自2026年11月2日開市起停牌，預計在不超過10個交易日內披露交易方案，即在2026年11月16日前披露相關資訊；若未能在期限內召開董事會審議並披露交易方案，股票最晚將於2026年11月16日開市起復牌並終止籌劃相關事項。"
-    },
-    {
-      "id": "5182738",
-      "time": "2026-10-30 18:48:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西藏城投：2026年第三季度淨利潤虧損3944.47萬元】西藏城投公告，2026年第三季度營業收入9761.67萬元，同比增長3.73%；淨利潤虧損3944.47萬元；扣非淨利潤虧損3961.27萬元。2026年前三季度營業收入3.18億元，同比下降61.96%；淨利潤虧損1.08億元；扣非淨利潤虧損1.12億元。"
-    },
-    {
-      "id": "te:markets:596799",
-      "time": "2026-10-30 18:47:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Kenvue Inc earnings below expectations at 0.29 USD — Kenvue Inc (KVUE) released earnings per share at 0.29 USD, compared to market expectations of 0.37 USD."
-    },
-    {
-      "id": "5182737",
-      "time": "2026-10-30 18:47:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【衢州發展：2026年第三季度淨利潤3501.19萬元，同比下降87.55%】衢州發展公告，2026年第三季度營業收入3.69億元，同比增長7.34%；歸屬於上市公司股東的淨利潤3501.19萬元，同比下降87.55%；扣除非經常性損益的淨利潤8334.18萬元，同比下降74.33%。2026年前三季度營業收入7.53億元，同比下降28.32%；歸屬於上市公司股東的淨利潤2.04億元，同比下降62.27%；扣除非經常性損益的淨利潤8.94億元，同比下降6.37%。"
     }
   ]
 }
