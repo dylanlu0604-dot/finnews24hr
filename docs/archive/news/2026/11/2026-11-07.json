@@ -1,0 +1,1398 @@
+{
+  "date": "2026-11-07",
+  "count": 142,
+  "items": [
+    {
+      "id": "mkt:01a1b1fa-0d8d-7ee0-aab9-201a9c962cbe",
+      "time": "2026-11-07 01:48:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "ORCL.O",
+        "Impact bearish",
+        "MSFT.O"
+      ],
+      "text": "【Report: Microsoft ends Oracle AI compute rental agreement】Microsoft has stopped renewing its AI compute rental contract with Oracle and has been winding down rented capacity over recent months, people familiar with the matter said. Oracle supplied servers using older-generation NVIDIA GPUs that Microsoft says no longer meet its specifications. The parties struck the deal in 2023 to support the revamped Bing; financial terms were not disclosed. Oracle said demand for its AI infrastructure remains strong and that older GPUs still have a market. Microsoft is reassessing external AI compute partners and has committed more than $80 billion of compute rentals to emerging providers including CoreWeave, Nscale and Nebius. Microsoft executives have grown increasingly frustrated with high supplier costs and delivery delays, tightening data-center project reviews, exiting some higher-risk projects and reconsidering new compute agreements. Oracle’s cloud is expanding rapidly but heavy capex has pushed free cash flow negative, stoking investor concern over AI infrastructure returns; shares fell as much as 4.6% intraday after the report and were about 3% lower at the time of reporting after an earlier ~3.5% gain."
+    },
+    {
+      "id": "5200087",
+      "time": "2026-11-07 01:47:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏總統辦公室主任透露將率代表團參加烏美俄三方會談】當地時間11月6日，烏克蘭總統辦公室主任布達諾夫在採訪中透露，他將率領烏克蘭代表團，於11月10日至11日在阿聯酋阿布扎比參加烏俄美三方會談。布達諾夫表示，他並不期待本次會談能夠取得突破性成果，但俄烏時隔數月重啟面對面磋商，本身就是談判程序中的積極訊號。他強調，能夠恢復雙方直接接觸具有重要意義。（央視新聞）"
+    },
+    {
+      "id": "5200086",
+      "time": "2026-11-07 01:47:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX本季度單季營收將大幅高於NASA全年預算。"
+    },
+    {
+      "id": "5200085",
+      "time": "2026-11-07 01:44:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率小幅走低，10年期和30年期國債收益率觸及當日低點。"
+    },
+    {
+      "id": "mkt:01a1b1f4-6c79-7ee0-aab9-190a712ef983",
+      "time": "2026-11-07 01:42:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An official at the Italian Prime Minister's Office said Italy has no candidate to recommend for ECB president, is assessing nominations from Spain and the Netherlands, and will make a reasoned choice."
+    },
+    {
+      "id": "5200084",
+      "time": "2026-11-07 01:41:57",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【報道：微軟正逐步終止從甲骨文租賃AI雲算力的協議】微軟公司正逐步終止向甲骨文租用 AI 算力的合作安排，這是其對規模達數十億美元的多項雲合作進行全面重新評估的一部分。知情人士稱，近幾個月，微軟決定不再續約，並陸續關停從甲骨文處租用的算力資源。這些不願具名的訊息人士表示，隨著時間推移，這批算力已經無法滿足微軟的技術標準，甲骨文該批硬體搭載的是英偉達老一代晶片。甲骨文發言人表示，公司 AI 基礎設施（包括較早一代 GPU）的需求依舊旺盛。甲骨文曾在 9 月稱，部分已使用四年的 GPU 合約續期價格較原始協議溢價 20%。"
+    },
+    {
+      "id": "5200083",
+      "time": "2026-11-07 01:39:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數收窄漲幅，觸及盤中低點。"
+    },
+    {
+      "id": "mkt:01a1b1f0-84c6-7ee0-aab9-14c5603f068f",
+      "time": "2026-11-07 01:38:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) is gradually winding down agreements to lease AI cloud compute capacity from Oracle (ORCL.N)."
+    },
+    {
+      "id": "5200082",
+      "time": "2026-11-07 01:37:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文短線跳水，現跌超4%。"
+    },
+    {
+      "id": "5200081",
+      "time": "2026-11-07 01:36:54",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：微軟正在逐步終止與甲骨文有關租用人工智慧雲算力的交易。"
+    },
+    {
+      "id": "mkt:01a1b1eb-1a8a-7ee0-aab9-0dbb79fcc1e6",
+      "time": "2026-11-07 01:32:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【UKMTO: 155 maritime security incidents tied to US‑Iran conflict recorded year‑to‑date】On Nov 6 UK Maritime Trade Operations (UKMTO) reported 155 maritime security incidents linked to the US‑Iran conflict within its voluntary reporting area so far this year. As of Nov 6 the office has issued 166 security alerts and 22 security advisories year‑to‑date. UKMTO said it continues to monitor security in the Middle East and adjacent key shipping lanes and issues risk warnings to transiting merchant vessels."
+    },
+    {
+      "id": "mkt:01a1b1ea-8f1d-7ee0-aab9-07b1c1f6b783",
+      "time": "2026-11-07 01:31:41",
+      "tags": [
+        "MKT News",
+        "CLF.O"
+      ],
+      "text": "Canada's minister of industry has asked the Commissioner of Competition to investigate whether enforcement action can be taken against Cleveland-Cliffs."
+    },
+    {
+      "id": "mkt:01a1b1ea-0775-7ee0-aab8-f9f28878ace9",
+      "time": "2026-11-07 01:31:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Qatari PM said the US and Iran cannot reach a \"perfect deal\" and should accept a good deal rather than pursue perfection."
+    },
+    {
+      "id": "5200080",
+      "time": "2026-11-07 01:30:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國海事機構：今年已記錄155起與美伊衝突有關的海上安全事件】當地時間11月6日，英國海上貿易行動辦公室（UKMTO）釋出最新一期海上安全週報，報告顯示，今年以來其自願報告區域內已記錄155起與美國和伊朗衝突有關的海上安全事件；截至11月6日，該機構今年累計釋出166份安全警告和22份安全通告。UKMTO持續監測中東及周邊重要航運通道的安全形勢，並向過往商船釋出風險預警。（央視新聞）"
+    },
+    {
+      "id": "5200079",
+      "time": "2026-11-07 01:29:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達首相：美國和伊朗應接受一項好協議，而非追求完美協議。"
+    },
+    {
+      "id": "5200078",
+      "time": "2026-11-07 01:29:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達首相：美國和伊朗無法達成“完美協議”。"
+    },
+    {
+      "id": "mkt:01a1b1e7-cf67-7ee0-aab8-f317acc88d2f",
+      "time": "2026-11-07 01:28:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin and the Russian Security Council discussed upcoming Ukraine talks."
+    },
+    {
+      "id": "5200077",
+      "time": "2026-11-07 01:27:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京與俄羅斯安全委員會討論即將舉行的烏克蘭問題談判。"
+    },
+    {
+      "id": "5200076",
+      "time": "2026-11-07 01:26:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德國10年期國債收益率漲超1個基點，使得本週累計跌幅收窄至不足7個基點】週五（11月6日）歐市尾盤，德國10年期國債收益率漲1.4個基點，報3.254%，本週累計下跌6.8個基點，整體交投於3.342%-3.207%區間，11月2-4日高位持穩，4日美股開盤至6日歐股開盤此前持續下跌。兩年期德債收益率漲1.4個基點，報2.992%，本週累跌5.0個基點，整體交投於3.081%-2.930%區間；30年期德債收益率累跌4.8個基點，報3.631%。2/10年期德債收益率利差累跌1.918個基點，報+25.971個基點。"
+    },
+    {
+      "id": "mkt:01a1b1e1-40b1-7ee0-aab8-e8faa5d031f9",
+      "time": "2026-11-07 01:21:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said air-defence systems shot down 21 Ukrainian drones over Russian territory within 24 hours."
+    },
+    {
+      "id": "5200075",
+      "time": "2026-11-07 01:20:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部通報，防空系統一天內在俄羅斯多個地區擊落21架烏克蘭無人機。"
+    },
+    {
+      "id": "5200074",
+      "time": "2026-11-07 01:19:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉利德：半年給藥一次的lenacapavir在HIV預防中的一年永續性接近每日口服F/TDF的兩倍】吉利德披露資料顯示，半年給藥一次的lenacapavir在HIV預防中的一年永續性接近每日口服F/TDF的兩倍。lenacapavir在第52周實現85.6%的PrEP一年永續性；52周研究期內，lenacapavir組未出現HIV感染，每日口服F/TDF組報告1例感染；嚴重不良事件不常見且與治療無關，lenacapavir組無因不良事件導致的治療中止。"
+    },
+    {
+      "id": "mkt:01a1b1dd-e27e-7ee0-aab8-e06d21c94c5b",
+      "time": "2026-11-07 01:17:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "President Zelenskiy said Russian Shahed drones and missiles continue to strike Ukrainian power plants, grids, heating and water infrastructure and civilian logistics. He said Russia has not altered its tactics, has rejected de-escalation proposals from Ukraine’s partners and is prepared to continue strikes. Ukraine has identified its next countermeasures."
+    },
+    {
+      "id": "mkt:01a1b1dd-b288-7ee0-aab8-d91c4e432e89",
+      "time": "2026-11-07 01:17:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine’s strikes on Russia’s oil refining industry continue in response to Russian attacks on Ukrainian energy infrastructure."
+    },
+    {
+      "id": "5200073",
+      "time": "2026-11-07 01:16:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國法院駁回哈里王子針對《每日郵報》出版商的隱私訴訟後，哈里王子已提起上訴。"
+    },
+    {
+      "id": "5200072",
+      "time": "2026-11-07 01:12:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美銀預計債務上限將提前至2027年2月形成約束，“X日”落在11月】美國銀行策略師Katie Craig和Mark Cabana在一份報告中表示，預計財政部一般賬戶（TGA）餘額將高於此前預期，這將使債務上限形成約束的時間以及財政部耗盡騰挪空間的時間提前。策略師目前預計債務上限將在2027年2月形成硬性約束，此前預期為5月。他們維持對“X日”（X-date）2027年11月的預測，但認為財政部最早可能在2027年8月就“令人不安地逼近”該日期。"
+    },
+    {
+      "id": "te:markets:599248",
+      "time": "2026-11-07 01:12:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.95% Lower — The FTSE MIB Index fell 479 points or 0.95 percent on Friday to close at 50027 points. Leading the losses are Nexi (-4.50%), Banco BPM SPA (-3.15%) and Bper Banca (-2.68%). Top gainers were Tenaris (2.97%), Buzzi Unicem (1.90%) and Amplifon (1.32%)."
+    },
+    {
+      "id": "te:markets:599246",
+      "time": "2026-11-07 01:11:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 2.08% Lower — The DAX Index dropped 547 points or 2.08 percent on Friday to close at 25778 points. Losses were led by Deutsche Post (-4.77%), Hannover Rueck (-4.50%) and Munich RE (-3.94%)."
+    },
+    {
+      "id": "te:markets:599245",
+      "time": "2026-11-07 01:10:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.87% Lower — The CAC 40 Index decreased 71 points or 0.87 percent on Friday to close at 8134 points. The decline was led by TP (-15.05%), Capgemini (-3.10%) and LVMH (-2.60%). On the upside, the strongest performers were STMicroelectronics (1.69%), Legrand (1.55%) and Essilor (1.28%)."
+    },
+    {
+      "id": "te:markets:599244",
+      "time": "2026-11-07 01:07:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 1.05% Lower — The FTSE 100 Index fell 113 points or 1.05 percent on Friday to close at 10670 points. Leading the losses are BT (-5.97%), Metlen Energy & Metals (-4.84%) and Airtel Africa (-3.80%)."
+    },
+    {
+      "id": "mkt:01a1b1d3-1af7-7ee0-aab8-d606393e2335",
+      "time": "2026-11-07 01:06:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI CFO: Midterms won’t change data‑center investment; eyeing 2027 IPO at $1.25 tln pre‑money】OpenAI CFO Sara Friar told CNBC the company will not alter AI infrastructure investment plans after the US midterms, will continue partnering with major hyperscale cloud providers, and expects to use financing to meet customer demand. She said election outcomes would not materially change OpenAI’s business but that increased scrutiny of data centers has prompted greater local community outreach. Local ballots in 10 states covered 41 data‑center measures; only one backed limits — voter concerns centered on higher power bills, environmental impact and jobs. Friar said OpenAI filed a confidential IPO submission with the SEC in June, is considering a 2027 listing and is negotiating a new funding round at a $1.25 tln pre‑money valuation, adding AI demand is real and persistent."
+    },
+    {
+      "id": "mkt:01a1b1d2-4af4-7ee0-aab8-ca85f3d99f99",
+      "time": "2026-11-07 01:05:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Bowman due to speak in 10 minutes."
+    },
+    {
+      "id": "5200071",
+      "time": "2026-11-07 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.14%，滬銅收跌0.05%，滬鋁收漲0.43%，滬鋅收跌1.31%，滬鉛收跌0.44%，滬鎳收漲0.39%，滬錫收漲1.02%。氧化鋁夜盤收漲0.49%，鋁合金收漲0.11%。不鏽鋼夜盤收漲0.56%。"
+    },
+    {
+      "id": "mkt:01a1b1cb-19bd-7ee0-aab8-c00d391059e6",
+      "time": "2026-11-07 00:57:19",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish"
+      ],
+      "text": "Boeing (BA.N) may deliver about 32 737 MAX aircraft in October, potentially the weakest single-month delivery tally in nearly a year."
+    },
+    {
+      "id": "mkt:01a1b1ca-0189-7ee0-aab8-bac77fdcf773",
+      "time": "2026-11-07 00:56:08",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish"
+      ],
+      "text": "Cirium data and Jefferies analyst Sheila Kahyaoglu report Boeing (BA.N) deliveries fell to about 32 aircraft in October from 43 in September, the lowest monthly total since last November."
+    },
+    {
+      "id": "5200070",
+      "time": "2026-11-07 00:55:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "義大利財政部：將於11月11日拍賣發行85億歐元短期國庫券。"
+    },
+    {
+      "id": "mkt:01a1b1c8-ab0a-7ee0-aab8-b3d999b2c64c",
+      "time": "2026-11-07 00:54:40",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor Ueda said core inflation is currently 2% and the BOJ's objective is to maintain it at that level."
+    },
+    {
+      "id": "5200069",
+      "time": "2026-11-07 00:53:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：目前基礎通脹率已達2%，我們的目標是將其維持在2%水平。"
+    },
+    {
+      "id": "5200068",
+      "time": "2026-11-07 00:53:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音公司10月份可能交付大約32架737 Max飛機，那將是最近約一年來最差單月表現。"
+    },
+    {
+      "id": "5200067",
+      "time": "2026-11-07 00:52:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "富國銀行：建議在週末紐西蘭大選之前買入紐元兌美元。"
+    },
+    {
+      "id": "mkt:01a1b1c6-d389-7ee0-aab8-a962e40bd15b",
+      "time": "2026-11-07 00:52:39",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Bank of Japan Governor UEDA said clearly stating the policy framework being followed is a good idea, but policymakers must strike the right balance."
+    },
+    {
+      "id": "5200066",
+      "time": "2026-11-07 00:52:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：明確所遵循的政策框架是妥當做法，必須把握好平衡。"
+    },
+    {
+      "id": "mkt:01a1b1c6-0d64-7ee0-aab8-a4eb6953dea5",
+      "time": "2026-11-07 00:51:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ueda said the Bank of Japan is discussing its communication approach but has not made any formal commitments."
+    },
+    {
+      "id": "5200065",
+      "time": "2026-11-07 00:51:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：我們正在討論央行的溝通方式，但尚未作出正式承諾。"
+    },
+    {
+      "id": "mkt:01a1b1c4-e0a6-7ee0-aab8-9e79612daf15",
+      "time": "2026-11-07 00:50:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said cyberattacks in Japan have risen sharply over the past one to two months."
+    },
+    {
+      "id": "5200064",
+      "time": "2026-11-07 00:49:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：過去一兩個月日本網路攻擊事件急劇增加。"
+    },
+    {
+      "id": "5200063",
+      "time": "2026-11-07 00:49:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：我們一直在識別薄弱環節，包括一些在防範網路風險方面做得不夠的小型銀行和小型企業。"
+    },
+    {
+      "id": "mkt:01a1b1c4-00a4-7ee0-aab8-97f39ea80a6b",
+      "time": "2026-11-07 00:49:34",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "UEDA said the Bank of Japan has been identifying weak links, including some small banks and small firms that have not taken sufficient measures to guard against cybersecurity risks."
+    },
+    {
+      "id": "mkt:01a1b1c3-93af-7ee0-aab8-886844c42f36",
+      "time": "2026-11-07 00:49:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor Ueda said he is concerned about cyber risks to financial stability."
+    },
+    {
+      "id": "5200062",
+      "time": "2026-11-07 00:48:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：就金融穩定而言，我對網路風險感到擔憂。"
+    },
+    {
+      "id": "5200061",
+      "time": "2026-11-07 00:48:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：由於勞動力嚴重短缺，日本在人工智慧替代勞動力方面可能表現良好。"
+    },
+    {
+      "id": "mkt:01a1b1c3-1aee-7ee0-aab8-8631ad02d38c",
+      "time": "2026-11-07 00:48:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor UEDA said Japan could fare well from AI substituting for labor, citing a significant labor shortage."
+    },
+    {
+      "id": "mkt:01a1b1c0-f572-7ee0-aab8-786dcb270bce",
+      "time": "2026-11-07 00:46:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "UEDA, governor of the Bank of Japan, said AI has been a positive demand shock for Japan's economy overall, but supply-side factors must also be monitored."
+    },
+    {
+      "id": "5200060",
+      "time": "2026-11-07 00:46:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：總體而言，人工智慧對我國經濟而言一直是正面的需求衝擊，同時也必須關注供給側因素。"
+    },
+    {
+      "id": "5200059",
+      "time": "2026-11-07 00:45:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：我們非常非常仔細地關注其他央行的行動，因為這些行動會影響資產價格，包括匯率和利率。"
+    },
+    {
+      "id": "mkt:01a1b1c0-3bd3-7ee0-aab8-7713529d0734",
+      "time": "2026-11-07 00:45:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor Ueda said the central bank is closely monitoring other central banks' actions because they influence asset prices, notably FX and interest rates."
+    },
+    {
+      "id": "mkt:01a1b1c0-05d3-7ee0-aab8-6e005c209f18",
+      "time": "2026-11-07 00:45:13",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor UEDA said consumer prices are currently around 3% and are expected to rise further early next year."
+    },
+    {
+      "id": "mkt:01a1b1bf-fc62-7ee0-aab8-6125af76c3fe",
+      "time": "2026-11-07 00:45:11",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Ueda, governor of the Bank of Japan, said if the central bank needs to use unconventional tools again it should consider how to minimize their negative side effects."
+    },
+    {
+      "id": "mkt:01a1b1bf-bd8b-7ee0-aab8-59de3d2599ef",
+      "time": "2026-11-07 00:44:55",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan Governor UEDA said unconventional monetary tools have produced some positive effects but cannot fully substitute for rate cuts while interest rates remain in positive territory."
+    },
+    {
+      "id": "mkt:01a1b1bf-9390-7ee0-aab8-514f56c80f81",
+      "time": "2026-11-07 00:44:44",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor UEDA said the central bank may need to re-deploy unconventional policy tools depending on the severity of shocks."
+    },
+    {
+      "id": "5200058",
+      "time": "2026-11-07 00:44:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：潛在通脹率可能將維持在2%左右，但我們認為存在一些上行風險。"
+    },
+    {
+      "id": "mkt:01a1b1bf-5f37-7ee0-aab8-4f706eca3067",
+      "time": "2026-11-07 00:44:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "CNBC reports OpenAI CFO confirmed the company is in fundraising talks, with the implied valuation roughly 50% higher than the financing round completed in March."
+    },
+    {
+      "id": "5200057",
+      "time": "2026-11-07 00:44:31",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：目前消費者價格約在3%，預計到明年年初將進一步上漲。"
+    },
+    {
+      "id": "mkt:01a1b1bd-c895-7ee0-aab8-46a957d0413f",
+      "time": "2026-11-07 00:42:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Governor Ueda said energy-related price rises are beginning to push up consumer prices in Japan."
+    },
+    {
+      "id": "mkt:01a1b1bd-a7b5-7ee0-aab8-3d6b9d95d9b6",
+      "time": "2026-11-07 00:42:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "EUROSTOXX50"
+      ],
+      "text": "Closed Nov 6 (Fri): Germany DAX 30 down 540.55 pts (-2.05%) at 25,789.50; UK FTSE 100 down 109.28 pts (-1.01%) at 10,673.38; France CAC 40 down 66.37 pts (-0.81%) at 8,139.00; EUROSTOXX 50 down 69.99 pts (-1.12%) at 6,161.55; Spain IBEX 35 down 100.51 pts (-0.52%) at 19,350.39; Italy FTSE MIB down 460.37 pts (-0.91%) at 50,045.50."
+    },
+    {
+      "id": "5200056",
+      "time": "2026-11-07 00:42:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：如果我們需要再次動用非常規工具，就應當考慮如何將負面影響降至最低。"
+    },
+    {
+      "id": "5200055",
+      "time": "2026-11-07 00:42:31",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：能源相關產品價格上漲的影響已開始傳導至日本消費者價格。"
+    },
+    {
+      "id": "5200054",
+      "time": "2026-11-07 00:42:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：非常規貨幣政策工具產生了一定積極效果，但並不能完全替代在利率處於正值區間時實施的降息。"
+    },
+    {
+      "id": "5200053",
+      "time": "2026-11-07 00:41:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：若出現重大沖擊，可能被迫動用非常規政策。"
+    },
+    {
+      "id": "mkt:01a1b1bc-692d-7ee0-aab8-336e87102558",
+      "time": "2026-11-07 00:41:17",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said manufacturing employment has risen by more than 100,000 since the start of 2026 and that the administration is shifting policy away from government-led growth toward private investment, productive jobs and rebuilding the U.S. industrial base."
+    },
+    {
+      "id": "mkt:01a1b1bc-5c84-7ee0-aab8-29fbe93a465c",
+      "time": "2026-11-07 00:41:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said U.S. reindustrialization and re-privatization are gaining strong momentum, citing today’s jobs report showing U.S. firms added nearly 400,000 private‑sector jobs over the past three months."
+    },
+    {
+      "id": "5200052",
+      "time": "2026-11-07 00:40:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：非常規政策產生了一些積極效果。"
+    },
+    {
+      "id": "5200051",
+      "time": "2026-11-07 00:40:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "OpenAI首席財務官：公司正在進行融資談判，估值較3月完成的一輪融資接近上漲50%。"
+    },
+    {
+      "id": "5200050",
+      "time": "2026-11-07 00:39:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 我們討論了在阿布扎比舉行的三邊會晤的籌備工作。在布魯塞爾舉行了北約和歐洲國家參與的會議，我與美國總統代表進行了接觸，談判團隊實際上一直保持聯絡。我們相信在阿聯酋的會晤應該是富有成效的，我們已向美方傳達了我們關於真正潛在成果的提議。我們都同意，歐洲安全問題應在歐洲國家參與下討論，所有這些國家都同樣值得獲得安全保障。"
+    },
+    {
+      "id": "mkt:01a1b1ba-af3e-7ee0-aab8-27c5ec9117d0",
+      "time": "2026-11-07 00:39:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "BOJ Governor Ueda said real interest rates have not risen significantly."
+    },
+    {
+      "id": "5200049",
+      "time": "2026-11-07 00:38:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：實際利率並未大幅上升。"
+    },
+    {
+      "id": "mkt:01a1b1b9-e091-7ee0-aab8-18ce2b0230a9",
+      "time": "2026-11-07 00:38:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor UEDA said he believes Japan is currently in such an equilibrium, but it is uncertain whether it can be sustained over the long term."
+    },
+    {
+      "id": "mkt:01a1b1b9-1ed3-7ee0-aab8-145c3432a715",
+      "time": "2026-11-07 00:37:41",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor UEDA said 2% inf has not yet fully become the norm in Japanese society."
+    },
+    {
+      "id": "mkt:01a1b1b8-ca74-7ee0-aab8-0ed2853008fb",
+      "time": "2026-11-07 00:37:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "XAUUSD"
+      ],
+      "text": "Bank of Japan Governor Ueda said the BOJ has not yet heard significant complaints about rising rates."
+    },
+    {
+      "id": "5200048",
+      "time": "2026-11-07 00:37:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：我們尚未聽到關於利率上升的明顯抱怨。"
+    },
+    {
+      "id": "5200047",
+      "time": "2026-11-07 00:36:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：2%的通脹率尚未完全成為社會常態。"
+    },
+    {
+      "id": "5200046",
+      "time": "2026-11-07 00:36:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：不知道能否長期維持均衡狀態。"
+    },
+    {
+      "id": "mkt:01a1b1b8-0f5a-7ee0-aab8-041ffaa1375c",
+      "time": "2026-11-07 00:36:32",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor Ueda said it is necessary to keep inf at 2%."
+    },
+    {
+      "id": "mkt:01a1b1b7-c4bf-7ee0-aab7-fbe361abbdbe",
+      "time": "2026-11-07 00:36:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan Governor UEDA said his overall view on inf is that there remains much work to do."
+    },
+    {
+      "id": "mkt:01a1b1b7-98cd-7ee0-aab7-f11a5b642d59",
+      "time": "2026-11-07 00:36:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor UEDA said wage growth is consistent with the 2% inf target and that the economy is in a balanced state."
+    },
+    {
+      "id": "5200045",
+      "time": "2026-11-07 00:35:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：工資增速與2%通脹目標相符，我們正處於均衡狀態。"
+    },
+    {
+      "id": "mkt:01a1b1b7-45e5-7ee0-aab7-ecda1fa9b701",
+      "time": "2026-11-07 00:35:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "Bank of Japan Governor UEDA said Japan's core inflation has reached 2% for the first time in decades."
+    },
+    {
+      "id": "5200044",
+      "time": "2026-11-07 00:35:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：有必要將通脹維持在2%。"
+    },
+    {
+      "id": "mkt:01a1b1b6-f796-7ee0-aab7-e4862e6d48bd",
+      "time": "2026-11-07 00:35:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An FAA aide said Administrator Bedford will testify before Congress next week on the agency's air-traffic-control modernization program."
+    },
+    {
+      "id": "5200043",
+      "time": "2026-11-07 00:35:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：通脹的整體氛圍是，仍有大量工作要做。"
+    },
+    {
+      "id": "mkt:01a1b1b6-80f5-7ee0-aab7-d8c9233b524a",
+      "time": "2026-11-07 00:34:50",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Governor Ueda said if monetary policy normalization is achieved, nominal variables will be less of an impediment to official resource allocation."
+    },
+    {
+      "id": "5200042",
+      "time": "2026-11-07 00:34:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：如果貨幣政策正常化得以實現，名義變數對官方資源配置的阻礙將會減小。"
+    },
+    {
+      "id": "5200041",
+      "time": "2026-11-07 00:34:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：基礎通脹數十年來首次達到2%。"
+    },
+    {
+      "id": "5200040",
+      "time": "2026-11-07 00:34:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局局長貝德福德將於下週就空中交通管制現代化計劃向國會作證。"
+    },
+    {
+      "id": "mkt:01a1b1b5-c4d9-7ee0-aab7-d533879543ff",
+      "time": "2026-11-07 00:34:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yemen market struck; government and Houthis offer conflicting accounts】A state news agency said no warplanes conducted airstrikes in the market area that day and that a Houthi-launched ballistic missile attack failed, causing the incident. Houthi-controlled Masirah TV said the market was hit by three Saudi airstrikes, resulting in more than 30 casualties. A Yemeni government official said the attack killed at least 28 civilians and wounded dozens, several critically, and that the death toll could rise."
+    },
+    {
+      "id": "mkt:01a1b1b5-c094-7ee0-aab7-cbb3a54dcf3b",
+      "time": "2026-11-07 00:34:00",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor UEDA said policy normalization is intended to achieve price stability."
+    },
+    {
+      "id": "5200039",
+      "time": "2026-11-07 00:32:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：政策正常化的目標是價格穩定。"
+    },
+    {
+      "id": "5200038",
+      "time": "2026-11-07 00:32:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃：日本央行的政策正常化程序平穩得令人印象深刻。"
+    },
+    {
+      "id": "5200037",
+      "time": "2026-11-07 00:30:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌1.13%，報647.48點，本週累計上漲大約0.1%。歐元區STOXX 50指數初步收跌1.17%，報6158.94點，本週累漲約0.5%，整體衝高回落。富時泛歐績優300指數初步收跌1.15%，報2581.02點。"
+    },
+    {
+      "id": "mkt:01a1b1b1-706d-7ee0-aab7-c5f5a9cfbd58",
+      "time": "2026-11-07 00:29:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O",
+        "AMD.O"
+      ],
+      "text": "CNBC reported OpenAI CFO said the company will continue investing in AI data centers regardless of the election outcome."
+    },
+    {
+      "id": "mkt:01a1b1af-8634-7ee0-aab7-ba5a2520d193",
+      "time": "2026-11-07 00:27:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BOJ Governor UEDA said Japanese domestic investment is expected to rise, but the extent of the increase is highly uncertain."
+    },
+    {
+      "id": "5200036",
+      "time": "2026-11-07 00:27:05",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "OpenAI首席財務官：無論選舉結果如何，OpenAI都將繼續投資人工智慧資料中心。"
+    },
+    {
+      "id": "5200035",
+      "time": "2026-11-07 00:26:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴拉圭國會拒絕為總統推遲彈劾程式】巴拉圭參議院6日拒絕了總統培尼亞要求將其在國會自我辯護的環節推遲72小時的請求，按照此前計劃繼續推進總統彈劾程式。培尼亞5日因該國最大數字銀行韋諾銀行被查封引發危機而遞交辭呈，以避免被彈劾，但其辭呈因國會投票人數未達法定人數而未獲透過。國會隨即啟動了對他的彈劾程式。按照程式，6日上午培尼亞本人應到國會為自己辯護。（新華社）"
+    },
+    {
+      "id": "5200034",
+      "time": "2026-11-07 00:26:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：預計日本國內投資將上升，但上升幅度非常不確定。"
+    },
+    {
+      "id": "te:economy:599230",
+      "time": "2026-11-07 00:25:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Costa Rica",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Costa Rica Inflation Rate Rises to 19-Month High — Consumer prices in Costa Rica rose 0.55% year-on-year in October 2026, the highest reading since March 2025, from 0.34% in September. On a monthly basis, consumer prices increased 0.39% after rising 0.11% in September. The rise was driven by transport (1.71% from the previous month), as fuel prices jumped, with gasoline up 3.10% and diesel up 17.39%, alongside higher taxi (5.73%) and bus fares (2.02%). Prices also rose for recreation, sports and culture (0.96%), led by entertainment event tickets (8.45%) and cinema admissions (7.90%), and for health (0.25%). In contrast, prices fell for personal care and miscellaneous goods and services (-0.21%), alcoholic beverages and tobacco (-0.11%), and information and communication (-0.07%)."
+    },
+    {
+      "id": "te:economy:599229",
+      "time": "2026-11-07 00:25:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Country List",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Nov 9th — Next week, the AI trade is likely to remain in the spotlight, with investors assessing whether last week's rotation out of technology stocks will continue or whether enthusiasm for the sector will return following the sell-off triggered by the Democrats' sweep of the US Congress. In the US, CPI and PPI reports will provide fresh insights into the inflation outlook and help shape expectations for the Fed's next policy move, with another 25bps rate hike currently priced in for December. A series of appearances by Fed policymakers will also be closely scrutinised for further clues on the interest rate outlook. Elsewhere, investors will focus on China's inflation and trade figures, Japan's PPI, inflation data from India, Brazil and Mexico, trade figures for Germany and the UK, and GDP releases from the UK, Russia, Poland and the Philippines."
+    },
+    {
+      "id": "5200033",
+      "time": "2026-11-07 00:25:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門一市場遭襲葉門政府與胡塞武裝說法不一】亞丁訊息：據葉門政府控制的薩巴通訊社6日報道，葉門西南部塔伊茲省地方政府發表宣告強烈譴責當天針對該省一市場的襲擊，並指責葉門胡塞武裝應對這一嚴重事件負責。薩巴通訊社還否認了胡塞武裝控制的媒體關於沙烏地阿拉伯戰機襲擊該市場的說法。胡塞武裝控制的馬西拉電視臺稍早前報道，該市場遭到沙特戰機3次空襲，造成30餘人死傷。薩巴通訊社的報道則說，當天沒有戰機在該市場所在地區實施任何空襲。胡塞武裝發動彈道導彈襲擊失敗，導致這一事件發生。一名葉門政府官員當日告訴新華社記者，襲擊發生在塔伊茲省瓦齊耶地區的哈達拉市場，事發時有數百人在市場內。(新華社)"
+    },
+    {
+      "id": "mkt:01a1b1ac-c062-7ee0-aab7-b553db763852",
+      "time": "2026-11-07 00:24:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "HSBC Holdings (HSBC.N): persistent security risks and low inventories skew oil-price risk higher in the very near term, until new rerouting capacity coming online in early 2027 begins to ease crude-market tightness."
+    },
+    {
+      "id": "5200032",
+      "time": "2026-11-07 00:23:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐：持續存在的安全風險與低庫存水平，使油價風險在極短期內偏向上行，直到2027年初新增繞行產能開始緩解原油供應緊張局面。"
+    },
+    {
+      "id": "mkt:01a1b1ab-f1c8-7ee0-aab7-abeddb7ebd65",
+      "time": "2026-11-07 00:23:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "HSBC Holdings (HSBC.N): Attacks on tankers or energy infrastructure that disrupt 2–3 mln barrels per day would return the market to shortage and put upward pressure on oil prices."
+    },
+    {
+      "id": "5200031",
+      "time": "2026-11-07 00:23:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐：油輪或基礎設施遇襲導致每日200萬至300萬桶石油供應再度中斷，將使市場重回轉至短缺狀態，並對油價構成上行壓力。"
+    },
+    {
+      "id": "mkt:01a1b1ab-a78f-7ee0-aab7-a31e236c98be",
+      "time": "2026-11-07 00:22:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "HSBC: Oil market is less protected against another supply loss."
+    },
+    {
+      "id": "5200030",
+      "time": "2026-11-07 00:22:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐：石油市場對再次出現供應損失的保護更少。"
+    },
+    {
+      "id": "mkt:01a1b1ab-258b-7ee0-aab7-9a994096dfbd",
+      "time": "2026-11-07 00:22:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "HSBC (HSBC.N) says that although exports from the Middle East are broadly stable and fundamentals are largely unchanged, oil prices remain highly sensitive to geopolitical news."
+    },
+    {
+      "id": "5200029",
+      "time": "2026-11-07 00:22:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "滙豐：儘管中東出口總體穩定且基本面幾無變化，油價仍對地緣政治訊息高度敏感。"
+    },
+    {
+      "id": "5200028",
+      "time": "2026-11-07 00:21:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：即使在這一調整基本完成之後，企業儲蓄仍處於高位，而海外投資變得日益重要。"
+    },
+    {
+      "id": "5200027",
+      "time": "2026-11-07 00:21:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：泡沫破裂後，企業縮減投資，並花費多年時間償還債務、修復資產負債表。"
+    },
+    {
+      "id": "5200026",
+      "time": "2026-11-07 00:20:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日本的經歷凸顯了企業調整的重要性。"
+    },
+    {
+      "id": "5200025",
+      "time": "2026-11-07 00:19:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列反對派領導人稱組閣取得“顯著進展”】以色列國防軍前總參謀長、正直黨領導人加迪·埃森科特6日說，他在組建政府方面已取得“顯著進展”，預計將在下週獲得組閣的授權。(新華社)"
+    },
+    {
+      "id": "5200024",
+      "time": "2026-11-07 00:19:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日本20世紀90年代的人口下降壓低了國內市場對國內資本的預期回報。"
+    },
+    {
+      "id": "5200023",
+      "time": "2026-11-07 00:18:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：直到最近幾年，巨大的稀缺程度才成為現實。"
+    },
+    {
+      "id": "5200022",
+      "time": "2026-11-07 00:18:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲多地收到炸彈威脅 多國開展排查】法國、保加利亞、捷克、奧地利、丹麥等國一些航班自5日起陸續收到炸彈威脅。愛爾蘭和英國的媒體機構也收到炸彈威脅或安全威脅。歐洲多國有關部門正追查威脅來源、評估安全形勢，協調採取應對措施。（新華社）"
+    },
+    {
+      "id": "5200021",
+      "time": "2026-11-07 00:17:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "PPL公司：預計到2032年，英偉達能源業務有望帶來至少60億至90億美元的潛在未來投資。"
+    },
+    {
+      "id": "5200020",
+      "time": "2026-11-07 00:14:59",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行行長候選人僅剩下Knot和De Cos.。"
+    },
+    {
+      "id": "5200019",
+      "time": "2026-11-07 00:14:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬斯克稱特斯拉無政府訂單，SpaceX 政府訂單質優價低且佔比將持續走低】馬斯克表示特斯拉沒有任何政府合同，美國總統特朗普已經取消了聯邦電動車補貼。 SpaceX 和政府的合作訂單，既是最優產品，同時報價最低！此外，本季度 SpaceX 來自政府的收入佔比將低於 10%，一年後將低於 5%。 如果政府不再需要相關訂單，我很樂意取消，只需一句話！"
+    },
+    {
+      "id": "5200018",
+      "time": "2026-11-07 00:12:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：本季度 SpaceX 來自政府的收入佔其總營收比重不足 10%。"
+    },
+    {
+      "id": "5200017",
+      "time": "2026-11-07 00:09:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "哥倫比亞礦業部長：管道重啟將取決於監管審批和美國外國資產控制辦公室許可證。"
+    },
+    {
+      "id": "5200016",
+      "time": "2026-11-07 00:09:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞礦業部長：與委內瑞拉共用的輸油管道修復工作將於年底前啟動，運營將於2027年年中開始。"
+    },
+    {
+      "id": "5200015",
+      "time": "2026-11-07 00:08:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉表示，巴西將繼續履行社會責任。"
+    },
+    {
+      "id": "te:markets:599228",
+      "time": "2026-11-07 00:08:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Slips Amid Fiscal Concerns and Civil Unrest — The CAC 40 fell 0.8% to close at 8,139 on Friday as the government struggles to push a budget through parliament. National protest turnout hit new highs on Thursday. Investors have been selling French bonds in recent weeks, partly on deficit concerns and doubts over whether a minority government can push spending cuts through parliament. The spread between French and German 10-year government bond yields rose to levels not seen since the 2011 euro-area debt crisis. The government deficit is set to widen to 5.4% of economic output this year, while rising borrowing costs add pressure. France’s trade deficit widened to €7.3 billion in September, above expectations of a €5.8 billion shortfall. It was the second-largest gap since October 2024. Luxury stocks posted losses, with LVMH down 2.4%, Hermes losing 1.8% and Kering down 1.8%. Industrials were also mostly lower. Elsewhere, TotalEnergies shed 1.2% amid growing hopes of a US-Iran peace deal. On the week, the CAC 40 added 2.3%."
+    },
+    {
+      "id": "5200014",
+      "time": "2026-11-07 00:07:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國經濟、財政和工業部長萊斯屈爾：法國根據國際能源署計劃釋放了360萬桶柴油。法國柴油銷售是1000萬桶庫存釋放計劃的一部分。"
+    },
+    {
+      "id": "5200013",
+      "time": "2026-11-07 00:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：巴西的財政責任感強於許多國家。"
+    },
+    {
+      "id": "5200012",
+      "time": "2026-11-07 00:06:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際原子能機構警告：烏克蘭核設施面臨持續安全風險】國際原子能機構總幹事格羅西11月6日警告，烏克蘭核設施周邊軍事活動增加，核設施及相關基礎設施面臨持續安全風險，呼籲各方保持最大限度軍事剋制，停止可能危及核設施、工作人員及相關基礎設施的軍事行動，防止發生嚴重核事故。過去一週烏克蘭多座核電站周邊發生無人機襲擊和軍事活動，部分核電站外部供電線路受影響；扎波羅熱核電站目前僅靠一條外部輸電線路維持供電，柴油儲備也面臨壓力。該核電站一名工作人員10月29日在前往核電站途中遭無人機襲擊身亡。格羅西表示，機構持續開展對烏克蘭核安全和安保援助，近期已向切爾諾貝利核電站運送鉛酸蓄電池、不間斷電源裝置等物資。（央視新聞）"
+    },
+    {
+      "id": "5200011",
+      "time": "2026-11-07 00:05:06",
+      "tags": [
+        "資料"
+      ],
+      "text": "哥斯大黎加10月CPI同比增長0.55%，環比增長0.39%。"
+    },
+    {
+      "id": "5200010",
+      "time": "2026-11-07 00:04:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部長布蘭奇：美國助理司法部長約翰·艾森伯格已辭職。"
+    },
+    {
+      "id": "5200009",
+      "time": "2026-11-07 00:04:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男在講話中未對經濟或政策前景置評。"
+    },
+    {
+      "id": "5200008",
+      "time": "2026-11-07 00:04:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臺積電據報擬進軍先進儲存晶片製造 應英偉達要求佈局3D DRAM】據報道，臺積電考慮將其業務範圍拓展至先進儲存晶片製造領域，此舉將進一步擴大這家全球最大晶片製造商在AI硬體供應鏈中的份額。報道援引兩名知情人士稱，應最大客戶英偉達的要求，臺積電最近開始制定計劃，生產一種名為3D DRAM的特殊型別先進儲存晶片。由於AI硬體需求激增，儲存晶片嚴重短缺，導致價格飆升，促使英偉達和蘋果等晶片設計公司尋找更多供應來源。蘋果今年早些時候上調了部分產品價格，理由是儲存晶片成本上升。"
+    },
+    {
+      "id": "5200007",
+      "time": "2026-11-07 00:01:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日本經常賬戶發生了顯著變化。"
+    },
+    {
+      "id": "5200006",
+      "time": "2026-11-07 00:00:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日本經常賬戶目前主要由收入流動驅動。"
+    },
+    {
+      "id": "5200005",
+      "time": "2026-11-07 00:00:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "《以色列時報》援引一名美國官員和一名知情外交官報道：伊朗談判代表正在審議有關伊朗限制其核計劃的提案。一名熟悉談判的外交官補充說，這些提案未達到徹底拆除的程度，但確實涉及伊朗的高濃縮鈾庫存；並表示，這些提議將使伊朗從美國獲得大幅制裁緩解。"
+    },
+    {
+      "id": "5200004",
+      "time": "2026-11-07 00:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數突破102關口，日內漲0.61%。"
+    },
+    {
+      "id": "5200003",
+      "time": "2026-11-07 00:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數突破102關口，日內漲0.61%。"
+    }
+  ]
+}
