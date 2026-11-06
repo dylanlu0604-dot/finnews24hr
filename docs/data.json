@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-07 02:26:12",
+  "updated": "2026-11-07 02:30:03",
   "count": 10664,
   "items": [
+    {
+      "id": "5200126",
+      "time": "2026-11-07 02:29:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問委員會主席費蘭談中期選舉：與民眾爭論並非明智之舉。"
+    },
+    {
+      "id": "mkt:01a1b21f-1fd3-7ee0-aaba-770cb6499019",
+      "time": "2026-11-07 02:29:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "White House Council of Economic Advisers chair said public dissatisfaction mainly reflects that prices remain elevated."
+    },
+    {
+      "id": "mkt:01a1b21e-ffcc-7ee0-aaba-6ad8d9b12522",
+      "time": "2026-11-07 02:28:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "White House Council of Economic Advisers chair Feilan said markets should not expect a strong US nonfarm payrolls report to prompt the Federal Reserve to raise interest rates."
+    },
+    {
+      "id": "5200125",
+      "time": "2026-11-07 02:27:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問委員會主席費蘭：民眾不滿是因為物價仍高得多。"
+    },
+    {
+      "id": "mkt:01a1b21d-7531-7ee0-aaba-679e735ee9b8",
+      "time": "2026-11-07 02:27:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "S&P500",
+        "DXY"
+      ],
+      "text": "White House Council of Economic Advisers chair Feilan said the next US consumer price index (CPI) release is needed to determine how the Fed will act."
+    },
+    {
+      "id": "5200124",
+      "time": "2026-11-07 02:27:01",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "白宮經濟顧問委員會主席費蘭：我們需要看下一份CPI資料才能判斷美聯儲將採取什麼行動。"
+    },
+    {
+      "id": "5200123",
+      "time": "2026-11-07 02:26:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮經濟顧問委員會主席費蘭：不要指望強勁的非農就業報告會促使美聯儲加息。"
+    },
+    {
+      "id": "mkt:01a1b21c-4420-7ee0-aaba-5dbb46966c58",
+      "time": "2026-11-07 02:25:59",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "JP Morgan lowered emerging-market FX ratings to market-neutral."
+    },
     {
       "id": "te:markets:599256",
       "time": "2026-11-07 02:25:16",
@@ -97632,81 +97720,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Bitcoin Depreciates by 1.33% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a -1.33% decrease."
-    },
-    {
-      "id": "5183536",
-      "time": "2026-10-31 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲4.25%，報758.50元人民幣/桶。滬金夜盤收跌3.51%，滬銀收跌6.80%。"
-    },
-    {
-      "id": "te:markets:596955",
-      "time": "2026-10-31 02:28:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Broadcom Shares Hit 29-week Low — Broadcom shares decreased to 320.22 USD, the lowest since April 2026. Over the past 4 weeks, Broadcom Inc lost 6.77%, and in the last 12 months, it decreased 13.33%."
-    },
-    {
-      "id": "5183535",
-      "time": "2026-10-31 02:27:56",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行利率決議獲得七名董事會成員的多數支援。"
-    },
-    {
-      "id": "5183534",
-      "time": "2026-10-31 02:27:52",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行將利率維持在12.25%。"
-    },
-    {
-      "id": "5183533",
-      "time": "2026-10-31 02:27:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "ARC：獲得陸軍作戰能力發展司令部軍備中心價值1090萬美元的合同，以推進在競爭環境中的小型部隊補給。"
-    },
-    {
-      "id": "5183532",
-      "time": "2026-10-31 02:27:29",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行行長萊昂納多·比利亞爾表示，董事會批准從政府購買20億美元用於儲備。"
-    },
-    {
-      "id": "5183531",
-      "time": "2026-10-31 02:27:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝稱沙特24小時內對葉門發動93次襲擊】當地時間10月30日晚，葉門胡塞武裝發表宣告稱，過去24小時內，沙特對葉門發動93次空襲和導彈襲擊，目標涉及首都薩那以及焦夫省、塔伊茲省、薩達省、馬裡卜省、扎馬爾省、哈傑省、伊卜省和拉赫季省。據胡塞武裝方面統計，自本輪局勢升級以來，沙特對葉門發動的空襲和導彈襲擊累計已達3689次。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a18e10-d7ad-7ee0-aa13-b7647f8a8258",
-      "time": "2026-10-31 02:27:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Houthi forces say Saudi Arabia carried out 93 strikes on Yemen in 24 hours】On the evening of Oct. 30 local time, the Houthi movement said Saudi Arabia launched 93 air and missile strikes on Yemen in the prior 24 hours, hitting the capital Sanaa and the governorates of Al Jawf, Taiz, Saada, Marib, Zamar, Hajjah, Ibb and Lahj. The group said total Saudi air and missile strikes since the current escalation now amount to 3,689."
     }
   ]
 }

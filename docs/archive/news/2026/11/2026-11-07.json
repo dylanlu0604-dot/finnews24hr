@@ -1,7 +1,95 @@
 {
   "date": "2026-11-07",
-  "count": 219,
+  "count": 227,
   "items": [
+    {
+      "id": "5200126",
+      "time": "2026-11-07 02:29:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問委員會主席費蘭談中期選舉：與民眾爭論並非明智之舉。"
+    },
+    {
+      "id": "mkt:01a1b21f-1fd3-7ee0-aaba-770cb6499019",
+      "time": "2026-11-07 02:29:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "White House Council of Economic Advisers chair said public dissatisfaction mainly reflects that prices remain elevated."
+    },
+    {
+      "id": "mkt:01a1b21e-ffcc-7ee0-aaba-6ad8d9b12522",
+      "time": "2026-11-07 02:28:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "White House Council of Economic Advisers chair Feilan said markets should not expect a strong US nonfarm payrolls report to prompt the Federal Reserve to raise interest rates."
+    },
+    {
+      "id": "5200125",
+      "time": "2026-11-07 02:27:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問委員會主席費蘭：民眾不滿是因為物價仍高得多。"
+    },
+    {
+      "id": "mkt:01a1b21d-7531-7ee0-aaba-679e735ee9b8",
+      "time": "2026-11-07 02:27:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "S&P500",
+        "DXY"
+      ],
+      "text": "White House Council of Economic Advisers chair Feilan said the next US consumer price index (CPI) release is needed to determine how the Fed will act."
+    },
+    {
+      "id": "5200124",
+      "time": "2026-11-07 02:27:01",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "白宮經濟顧問委員會主席費蘭：我們需要看下一份CPI資料才能判斷美聯儲將採取什麼行動。"
+    },
+    {
+      "id": "5200123",
+      "time": "2026-11-07 02:26:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮經濟顧問委員會主席費蘭：不要指望強勁的非農就業報告會促使美聯儲加息。"
+    },
+    {
+      "id": "mkt:01a1b21c-4420-7ee0-aaba-5dbb46966c58",
+      "time": "2026-11-07 02:25:59",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "JP Morgan lowered emerging-market FX ratings to market-neutral."
+    },
     {
       "id": "te:markets:599256",
       "time": "2026-11-07 02:25:16",
