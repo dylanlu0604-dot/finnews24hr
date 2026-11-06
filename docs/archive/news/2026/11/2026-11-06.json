@@ -1,7 +1,138 @@
 {
   "date": "2026-11-06",
-  "count": 919,
+  "count": 933,
   "items": [
+    {
+      "id": "5198343",
+      "time": "2026-11-06 11:32:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國移動董事長陳忠嶽：2027年計劃進一步提升採購總量，加大算力投資、確保智算能力倍增】11月6日上午，中國移動董事長陳忠嶽出席2026行動網路大會並發表演講。陳忠嶽表示，2027年，中國移動計劃進一步提升採購總量，加大算力投資、確保智算能力倍增，擴大終端採銷、實現銷售過億臺；加強渠道資源投放、加速萬店煥新。充分發揮產投協同“彩虹橋”作用，強化資本賦能，加大行動網路、晶片、模型、量子和具身智慧等領域的資本合作，協同壯大智慧服務產業。中國移動將釋出移動生態聚合平臺，作為服務全球合作伙伴的統一入口，實現商機與產品、技術與場景、需求與交付、產業與投資的高效對接。"
+    },
+    {
+      "id": "te:markets:598894",
+      "time": "2026-11-06 11:32:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Holds Rebound — Platinum futures held above $1,500 an ounce after recovering from a recent one-year low, as a weaker US dollar and lower Treasury yields supported prices. The dollar and bond yields declined following the sweeping Democratic victory in the US midterm elections, as investors anticipated limits on government spending and a possible easing of Middle East tensions, which could help cool inflation. Still, concerns that tighter AI regulations could slow data center expansion triggered a sharp technology stock selloff, prompting some liquidity-driven selling in precious metals. Meanwhile, the automotive sector, a major source of platinum demand, faces pressure from weaker vehicle production, elevated financing costs and the gradual shift toward EVs, although growing hybrid production and continued demand for catalytic converters are helping cushion the decline. Industrial demand is expected to grow 5% in 2026, partly offsetting a projected 4% drop in automotive consumption."
+    },
+    {
+      "id": "5198340",
+      "time": "2026-11-06 11:32:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度汽車經銷商協會（FADA）：2026年11月至2027年1月季度前景謹慎樂觀，基調審慎。"
+    },
+    {
+      "id": "5198338",
+      "time": "2026-11-06 11:32:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度汽車經銷商協會（FADA）：10月份整體汽車零售銷量同比下降23.8%，乘用車零售銷量同比下降14.2%，商用車零售銷量同比增長 2.3%，兩輪車零售量同比下降28.4%。"
+    },
+    {
+      "id": "mkt:01a1aee9-7e5d-7ee0-aaa3-6702bbe0d531",
+      "time": "2026-11-06 11:31:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude is up 1.00% intraday at $98.82/bbl; WTI is up 0.74% at $91.84/bbl."
+    },
+    {
+      "id": "mkt:01a1aee9-795a-7ee0-aaa3-5ee11b731d15",
+      "time": "2026-11-06 11:31:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【South Korea stocks plunge, $1.7tn wiped out; retail losses put Lee Jae-myung’s equity-push under pressure】South Korea’s equity market has tumbled from its year-to-date highs, erasing about $1.7 trillion in market value and provoking strong retail investor backlash that tests President Lee Jae-myung’s policy to shift household funds from property into stocks. Lee pledged during the campaign to lift the KOSPI to 5,000. Driven by AI flows the index hit a record 9,114.55 before reversing. On Friday KOSPI plunged as much as 8.8% intraday, breached the 5,000 level and is down more than 40% from its June peak. Retail investors say they heeded government encouragement to abandon home purchases and move into equities and have suffered large losses; Seoul house prices have nonetheless risen for 91 consecutive weeks. One investor said a 40 mln won allocation to a small-cap index fund has lost about 65% of its value. The market setback is intensifying criticism of government policy."
+    },
+    {
+      "id": "mkt:01a1aee9-528f-7ee0-aaa3-57c3dc819fa5",
+      "time": "2026-11-06 11:31:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "IF",
+        "Impact bearish",
+        "IH",
+        "IC"
+      ],
+      "text": "【Equity index futures morning session close】CSI 300 index futures (IF) main contract down 1.24% at the morning-session close; SSE 50 index futures (IH) down 0.89%; CSI 500 index futures (IC) down 1.34%; CSI 1000 index futures (IM) down 1.20%."
+    },
+    {
+      "id": "mkt:01a1aee9-4037-7ee0-aaa3-4b3fa8ff5b02",
+      "time": "2026-11-06 11:31:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures morning session close】2-year government bond futures (TS) most-active contract unchanged; 5-year (TF) +0.02 pct; 10-year (T) +0.07 pct; 30-year (TL) +0.28 pct."
+    },
+    {
+      "id": "mkt:01a1aee9-2d45-7ee0-aaa3-4216a7a453b8",
+      "time": "2026-11-06 11:31:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "At the morning close, China's main futures contracts were mostly lower: propylene fell more than 4% and plastics nearly 4%; LPG, polypropylene, benzene, eggs and Shanghai tin declined over 3%; the polypropylene monthly-average contract slipped more than 2%. On the upside, apples rose nearly 5%, coke gained roughly 3%; low-sulfur fuel oil (LU) and red dates advanced over 2%; Shanghai nickel, rapeseed meal, coking coal, glass and lithium carbonate were up more than 1%."
+    },
+    {
+      "id": "mkt:01a1aee9-2979-7ee0-aaa3-3d5ccb9f657d",
+      "time": "2026-11-06 11:31:18",
+      "tags": [
+        "MKT News",
+        "MSIL.NS",
+        "Impact bearish",
+        "TATAMOTORS.NS"
+      ],
+      "text": "FADA: India's overall auto retail sales fell 23.8% YoY in October."
+    },
+    {
+      "id": "5198329",
+      "time": "2026-11-06 11:31:13",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中旅國際技術長周源邵：“AI+文旅”的建設邏輯已轉向“一個底座支撐千百場景”】11月6日，由證券時報社、安徽省人民政府駐廣州辦事處、安徽省文化和旅遊廳聯合主辦的“文旅+科技”上市公司安徽行暨國元證券投資思享匯活動在安徽合肥舉辦。香港中旅國際投資有限公司（簡稱“中旅國際”）技術長周源邵在分享中表示，文旅行業服務鏈條長、內容場景豐富、使用者互動頻繁、運營協同複雜，天然適配AI，是AI能力最完整的試驗場，也是最具想象力的落地場。當前，“AI+文旅”的建設邏輯已經從傳統的“一個需求一個系統”的模式，轉向“一個底座支撐千百場景”，需要以統一AI底座沉澱更多可複用能力。"
+    },
+    {
+      "id": "5198327",
+      "time": "2026-11-06 11:31:01",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【午評：創業板指震盪收跌3.5%，算力硬體股集體回撥】A股三大指數早盤集體下跌，截至午盤，上證指數跌1.14%，深證成指跌2.22%，創業板指跌3.5%，北證50跌1.9%，科創50指數跌2.09%。全市場成交額11307億元，較上日縮量3458億元，全市場超4500只個股下跌。板塊題材上，種植業與林業、公路鐵路運輸、電力、農產品加工、銀行板塊漲幅居前；元件、CPO、電子化學品、PCB概念、光纖概念跌幅居前。盤面上，種植業與林業板塊低開高走，新賽股份、萬向德農觸及漲停，秋樂種業、康農種業、神農種業漲幅居前。電力板塊表現活躍，立新能源、新能股份、東方新能漲停，樂山電力、華能水電、珈偉新能漲幅居前。文化傳媒板塊區域性走高，思美傳媒、城市傳媒漲停，無線傳媒、東方明珠、芒果傳媒漲幅居前。元件板塊表現低迷，澳弘電子、東山精密、生益科技跌幅居前。電子化學品板塊亦走勢疲軟，鴻富誠跌超10%，中石科技、天通股份、天承科技跌幅居前。"
+    },
+    {
+      "id": "5198326",
+      "time": "2026-11-06 11:31:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲2%，現報100.26美元/桶。"
+    },
     {
       "id": "mkt:01a1aee8-ce74-7ee0-aaa3-356acc8ebf5d",
       "time": "2026-11-06 11:30:55",
@@ -9,6 +140,15 @@
         "MKT News"
       ],
       "text": "FADA: India commercial vehicle retail sales rose 2.3% YoY in October."
+    },
+    {
+      "id": "5198325",
+      "time": "2026-11-06 11:30:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本篡改核電站資料公司被勒令整改】據日本廣播協會（NHK）電視臺今天（11月6日）報道，就日本中部電力公司濱岡核電站接連發生篡改地震相關資料等違規情況，日本經濟產業省向中部電力公司釋出“整改令”，要求該公司採取措施，防止類似問題再次發生。 此前，中部電力公司承認，為使其運營的濱岡核電站3號和4號機組透過審查重啟，該公司涉嫌存在操縱相關資料、故意低估可能發生的地震最大破壞力的行為。負責調查濱岡核電站地震評估資料造假的第三方委員會9月14日公佈的報告指出，在225項被懷疑存在問題的地震震動評估中，至少確認有208項存在虛假說明、隱瞞等不當行為。（CCTV國際時訊）"
     },
     {
       "id": "mkt:01a1aee8-a898-7ee0-aaa3-2f82ea50dc39",
