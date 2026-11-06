@@ -1,7 +1,84 @@
 {
-  "updated": "2026-11-06 19:10:02",
-  "count": 10996,
+  "updated": "2026-11-06 19:14:03",
+  "count": 10990,
   "items": [
+    {
+      "id": "mkt:01a1b08f-ea6e-7ee0-aaad-e08a0372048f",
+      "time": "2026-11-06 19:13:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Kazakhstan said oil exports to Germany will not resume before end-2026."
+    },
+    {
+      "id": "5199508",
+      "time": "2026-11-06 19:12:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克：對德國的石油出口在2026年底前不會恢復。"
+    },
+    {
+      "id": "5199507",
+      "time": "2026-11-06 19:12:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet公司：持股變動截至2026年9月30日，並與上一季度末2026年6月30日的資料進行比較。"
+    },
+    {
+      "id": "5199506",
+      "time": "2026-11-06 19:12:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【資料中心回收伺服器餘熱 為供暖提供“熱源”】呼和浩特市和林格爾新區是“東數西算”工程的重要樞紐節點，多家企業的資料中心在此落戶。這個供暖季，新區裡的一家企業採用了算力熱量回收的方式進行供暖。這家企業現有總算力19000P，智慧算力15600P，在運算過程中，會產生大量熱能。原本這些熱量全部會透過室外冷卻塔直接散到空氣中浪費掉。現在，企業透過水源熱泵技術，將伺服器冷卻迴路中的低溫餘熱提升至供暖所需溫度，回收部分熱量用於園區供暖。（央視新聞）"
+    },
+    {
+      "id": "5199505",
+      "time": "2026-11-06 19:12:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nostrum Oil & Gas：2026年前九個月日均加工量增長13.3%，至26,724桶油當量/日。"
+    },
+    {
+      "id": "5199504",
+      "time": "2026-11-06 19:11:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國際復材：擬投資11.58億元建設高效能電子纖維布專案】國際復材公告，公司於2026年11月5日召開董事會，審議透過《關於建設高效能電子纖維布（龍山）專案的議案》，同意公司投資11.58億元建設高效能電子纖維布（龍山）專案，其中建設投資11.26億元，鋪底流動資金2023.6萬元，建設期利息1215.9萬元。專案為新建，建設地點為重慶市長壽經濟技術開發區龍山路1號，生產規模為年產1.11億米電子級玻璃纖維布，建設期限為2026年11月至2027年9月，資金來源為自有資金及銀行貸款。本次投資事項在董事會審批許可權內，無需提交股東會審議。"
+    },
+    {
+      "id": "5199503",
+      "time": "2026-11-06 19:11:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛彼迎 Airbnb 計劃明年推出 AI 智慧體，幫助使用者規劃旅行】民宿出租平臺 Airbnb 愛彼迎在 2026 財年第三季度報告中透露，公司正開發全新 AI 智慧體，計劃 2027 年推出，可幫助使用者規劃旅行。Airbnb 表示：“我們的智慧體並沒有採用傳統聊天視窗，而是呼叫帶有數百種旅行專用介面元素的資源庫，它包含地圖、照片、對比資訊、日曆和行程安排，可根據使用者需求實時組合。它將幫助房客探索不同選擇，與同行者共同作出決定，最終直接在 Airbnb 完成預訂。”"
+    },
+    {
+      "id": "5199502",
+      "time": "2026-11-06 19:11:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東芯股份：控股股東東方恆信首次增持19萬股，增持金額1026.75萬元】東芯股份公告，控股股東東方恆信集團有限公司此前披露增持計劃，擬自2026年10月31日起6個月內，透過集中競價交易方式增持公司股份，增持總金額不低於4億元（含）且不高於6億元（含）。2026年11月5日，東方恆信首次增持公司A股股份19萬股，佔公司總股本0.0289%，增持金額合計為1026.75萬元（不含手續費）。本次增持計劃尚未實施完畢，增持主體將繼續按照相關增持計劃，在增持計劃實施期間內增持公司股份。"
+    },
+    {
+      "id": "5199501",
+      "time": "2026-11-06 19:10:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "HUMANA 公司上調年度利潤預測後，其股價在盤前交易中上漲 3.7%。"
+    },
     {
       "id": "5199500",
       "time": "2026-11-06 19:09:26",
@@ -222,6 +299,14 @@
         "公司"
       ],
       "text": "德國交通部發言人：據我們所知，德國航空公司和機場並未受到虛假炸彈威脅的影響。"
+    },
+    {
+      "id": "5199480",
+      "time": "2026-11-06 19:05:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比利時國王拒絕接受首相辭呈】據比利時王宮6日釋出的公報，比利時國王菲利普當天再次接見首相德韋弗，決定不接受其此前遞交的辭呈，並要求他繼續推動聯邦政府預算談判。 德韋弗2日因聯邦政府預算談判失敗向國王遞交辭呈。國王當時暫緩決定是否接受辭呈，並於本週與執政聯盟各政黨領導人舉行磋商，尋求打破預算僵局的辦法。 德韋弗目前領導的聯合政府由5個政黨組成。執政聯盟數月來一直就2027年聯邦預算及到2029年實施總額約100億歐元的財政調整目標進行談判，但各黨在削減公共支出和增加稅收等問題上分歧明顯，始終未能達成協議。（新華社）"
     },
     {
       "id": "5199479",
@@ -100636,155 +100721,6 @@
         "公司"
       ],
       "text": "【華新建材：2026年第三季度淨利潤11.13億元，同比增長23.68%】華新建材公告，2026年第三季度營業收入101.92億元，同比增長13.42%；歸屬於上市公司股東的淨利潤11.13億元，同比增長23.68%；扣除非經常性損益的淨利潤10.09億元，同比增長16.62%。2026年前三季度營業收入296.9億元，同比增長18.6%；歸屬於上市公司股東的淨利潤28.26億元，同比增長41.05%；扣除非經常性損益的淨利潤27.14億元，同比增長40.2%。"
-    },
-    {
-      "id": "5182830",
-      "time": "2026-10-30 19:13:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏沙科夫表示，克里姆林宮官員已獲悉澤連斯基關於願意討論領土問題的表態。"
-    },
-    {
-      "id": "5182829",
-      "time": "2026-10-30 19:13:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【建行：居民購房貸款貼息政策覆蓋面較廣 建行符合貼息條件的貸款筆數佔比約五成】針對8月28日釋出的系列房地產新政策，建設銀行副行長、董事會秘書紀志宏10月30日在建設銀行2026年第三季度業績說明會上回答上海證券報記者提問時表示，建設銀行主動對接新政要求，發揮集團優勢為房企集團、專案公司和個人購房者提供綜合金融服務。紀志宏認為，總體看，系列房地產新政策有利於商業銀行個人住房貸款保持穩定的投放和資產質量平穩，更好服務居民剛性及改善性住房需求。關於房地產開發貸款，紀志宏表示，新政將推動房地產開發貸款投放從傳統模式轉向以專案自身現金流為核心、匹配專案建設全生命週期的精細化管理。從投放節奏看，新政清晰規範了專案融資邏輯，有利於優質合規專案融資需求有序釋放，有利於房地產開發貸款平穩投放。從風險管控看，主辦銀行制與封閉管理推動了專案資金專款專用，有效隔離集團風險向單個專案傳導。關於個人住房貸款，紀志宏表示，新政有助於合理提升居民貸款購房支付能力，提供更多方案供購房人選擇。新政還將從源頭防範交付風險，保障購房人“能拿房、再還貸”，切實維護購房人合法權益，有助於購房者提升信心和住房需求釋放。（上證報）"
-    },
-    {
-      "id": "5182828",
-      "time": "2026-10-30 19:13:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商銀行：擬在西藏林芝市設立一級分行】招商銀行(600036)10月30日公告，董事會已審議透過了《關於在西藏林芝市設立一級分行的議案》，同意設立林芝分行，最終以監管審批意見為準。"
-    },
-    {
-      "id": "5182827",
-      "time": "2026-10-30 19:12:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國武夷：2026年第三季度虧損4.1億元，前三季度虧損8.5億元】中國武夷公告，2026年第三季度營業收入13.39億元，同比增長73.87%；歸屬於上市公司股東的淨利潤虧損4.1億元，同比變動-649.38%；扣非淨利潤虧損4.1億元，同比變動-643.92%。2026年前三季度營業收入30.32億元，同比增長28.93%；歸屬於上市公司股東的淨利潤虧損8.5億元，同比變動-475.57%；扣非淨利潤虧損8.51億元，同比變動-457.19%。"
-    },
-    {
-      "id": "mkt:01a18c82-e6d7-7ee0-aa08-b2dc2953b86f",
-      "time": "2026-10-30 19:12:31",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Hangzhou Qiantang district sets up 38 biopharma sub-funds; fund matrix tops 30 billion yuan】At a Oct. 30 healthcare industry conference in Hangzhou's Qiantang district, officials said the district has built a 'mother fund + X fund' fund-of-funds framework, pooling Zhejiang's '4+1' industry fund, Hangzhou municipal 'Runmiao' fund and social capital to form 38 biopharma sub-funds. The combined fund matrix exceeds 30 billion yuan."
-    },
-    {
-      "id": "mkt:01a18c82-e48d-7ee0-aa08-aa8b1b4727a9",
-      "time": "2026-10-30 19:12:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ireland to set up body to study possible reunification with Northern Ireland】On the 30th, Irish prime minister Martin said Ireland will establish a government body to study and prepare for the possibility of future reunification with Northern Ireland, marking the first formal review. The body will assess different models and challenges, including scenarios in which Northern Ireland remains in the UK or retains devolved status within a united Ireland, and will consult relevant communities. Under the 1998 Good Friday Agreement, if there are signs a majority in Northern Ireland favour unity the UK is obliged to hold a referendum. Martin said he aims to submit initial measures to cabinet by year-end."
-    },
-    {
-      "id": "5182826",
-      "time": "2026-10-30 19:12:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌日元USD/JPY向下觸及157，日內跌0.44%。"
-    },
-    {
-      "id": "5182825",
-      "time": "2026-10-30 19:12:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陝建股份：2026年第三季度虧損12.61億元，前三季度虧損10.35億元】陝建股份公告，2026年第三季度營業收入188.52億元，同比下降36.95%；歸屬於上市公司股東的淨利潤虧損12.61億元，上年同期淨利潤為正；扣非淨利潤虧損13.09億元。2026年前三季度營業收入623.04億元，同比下降28.62%；歸屬於上市公司股東的淨利潤虧損10.35億元，上年同期淨利潤為正；扣非淨利潤虧損14.18億元。公司表示，業績變動主要受市場環境影響，建築業增速趨緩、建築施工收入減少，計提信用減值損失增加。"
-    },
-    {
-      "id": "mkt:01a18c82-6c7a-7ee0-aa08-a21c40e95d39",
-      "time": "2026-10-30 19:11:59",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "USD/JPY slid to 157, down 0.44% intraday."
-    },
-    {
-      "id": "mkt:01a18c82-2d87-7ee0-aa08-9c96554828dc",
-      "time": "2026-10-30 19:11:43",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Mizuho raises Amazon (AMZN.O) PT to $335 from $330."
-    },
-    {
-      "id": "mkt:01a18c81-f829-7ee0-aa08-933968996d1e",
-      "time": "2026-10-30 19:11:30",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Axios reports Qatari mediators have arrived in Tehran to discuss the US proposal for peace talks."
-    },
-    {
-      "id": "te:economy:596809",
-      "time": "2026-10-30 19:11:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Government Budget Value",
-        "Importance 1"
-      ],
-      "text": "India's Fiscal Deficit Widens in April-September — India’s fiscal deficit widened to INR 7.1 trillion in April-September 2026-27, up from INR 5.7 trillion a year earlier, reaching 42.1% of the full-year target, compared with 36.5% previously. Total expenditure rose 10.7% year-on-year to INR 25.5 trillion, with capital spending increasing to INR 6.5 trillion from INR 5.8 trillion, reaching 53.6% of the annual target. Total receipts rose 6.1% to INR 18.4 trillion, supported by higher net tax revenue of INR 12.8 trillion, up from INR 12.3 trillion a year earlier. Non-tax revenue also increased to INR 4.8 trillion from INR 4.7 trillion. India is targeting a fiscal deficit of INR 17.0 trillion, or 4.3% of GDP, for 2026-27."
-    },
-    {
-      "id": "5182824",
-      "time": "2026-10-30 19:10:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【愛爾蘭政府將首次研究與北愛爾蘭實現統一的可能性】當地時間30日，愛爾蘭總理馬丁表示，愛爾蘭將成立政府機構，首次就未來與由英國管轄的北愛爾蘭實現統一的可能性開展研究和準備工作。馬丁表示，該機構將研究不同模式及面臨的挑戰，包括北愛爾蘭繼續留在英國，或保留地方自治地位併成為統一後的愛爾蘭的一部分，馬丁表示將充分聽取不同群體的意見。（央視新聞）"
-    },
-    {
-      "id": "te:economy:596808",
-      "time": "2026-10-30 19:10:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Serbia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Serbia Retail Sales Growth at 6-Month High — Retail sales in Serbia rose by 8.8% year-on-year in September 2026 from a 6.3% increase in the previous month, marking the strongest growth since March. Sales growth continued for food, beverages, and tobacco (12.7% vs. 9.0% in August) and non-food products (5.7% vs. 2.8%). Meanwhile, growth in automotive fuel sales at specialized stores moderated to 5.6% from 6.2% in August. On a monthly basis, retail sales declined by 0.9% in September, following a 0.7% decrease in the previous month."
-    },
-    {
-      "id": "5182823",
-      "time": "2026-10-30 19:10:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "伯恩斯坦：亞馬遜廣告收入低於預期，將加劇投資者對人工智慧正在衝擊搜尋業務模式的擔憂。"
-    },
-    {
-      "id": "5182822",
-      "time": "2026-10-30 19:10:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【快克智慧：2026年第三季度淨利潤8342.94萬元，同比增長27.29%】快克智慧公告，2026年第三季度營業收入3.48億元，同比增長14.57%；歸屬於上市公司股東的淨利潤8342.94萬元，同比增長27.29%；扣除非經常性損益後的淨利潤6984.94萬元，同比增長11.40%。2026年前三季度營業收入10.13億元，同比增長25.33%；歸屬於上市公司股東的淨利潤2.35億元，同比增長18.37%；扣除非經常性損益後的淨利潤2.15億元，同比增長22.28%。"
     }
   ]
 }
