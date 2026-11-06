@@ -1,7 +1,91 @@
 {
-  "updated": "2026-11-07 01:58:34",
-  "count": 10625,
+  "updated": "2026-11-07 02:02:30",
+  "count": 10631,
   "items": [
+    {
+      "id": "mkt:01a1b206-6dd8-7ee0-aab9-7d1f18b4f1ab",
+      "time": "2026-11-07 02:02:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Meta Platforms (META.O) launches Spaces feature in its Muse app."
+    },
+    {
+      "id": "mkt:01a1b206-5bfc-7ee0-aab9-7780924bb8a4",
+      "time": "2026-11-07 02:02:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US total rig count for the week to Nov. 6: 604 rigs, prior 603."
+    },
+    {
+      "id": "mkt:01a1b205-cff1-7ee0-aab9-6d439eafc703",
+      "time": "2026-11-07 02:01:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Nov.6) | actual 604 | previous 603"
+    },
+    {
+      "id": "5200094",
+      "time": "2026-11-07 02:01:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西10月貿易盈餘擴大至93.18億美元，預期91.50億美元。"
+    },
+    {
+      "id": "5200093",
+      "time": "2026-11-07 02:00:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至11月6日當週石油鑽井總數 463口，前值462口。\n美國至11月6日當週天然氣鑽井總數 131口，前值130口。\n美國至11月6日當週總鑽井總數 604口，前值603口。"
+    },
+    {
+      "id": "mkt:01a1b205-56e9-7ee0-aab9-67aefbe85d49",
+      "time": "2026-11-07 02:00:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US oil rig count for week to Nov. 6: 463 rigs, prior 462."
+    },
+    {
+      "id": "mkt:01a1b205-54b3-7ee0-aab9-59893f07d494",
+      "time": "2026-11-07 02:00:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US natural gas-directed rig count 131 for week ending Nov 6, up from 130 the prior week."
+    },
+    {
+      "id": "mkt:01a1b205-1144-7ee0-aab9-52f155a5fc7e",
+      "time": "2026-11-07 02:00:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Nov.6) | actual 131 | previous 130"
+    },
+    {
+      "id": "mkt:01a1b205-1134-7ee0-aab9-4cbda034600b",
+      "time": "2026-11-07 02:00:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Nov.6) | actual 463 | previous 462"
+    },
     {
       "id": "5200092",
       "time": "2026-11-07 01:57:41",
@@ -97247,40 +97331,6 @@
         "焦點"
       ],
       "text": "紐約期銀失守49美元/盎司，日內跌6.51%。"
-    },
-    {
-      "id": "mkt:01a18df9-b5ff-7ee0-aa13-7bdb50baacec",
-      "time": "2026-10-31 02:01:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Zelenskiy says Russia continues strikes on Ukraine's energy infrastructure; Ukraine will respond appropriately."
-    },
-    {
-      "id": "te:markets:596948",
-      "time": "2026-10-31 02:01:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "SpaceX Shares Hit 9-week Low — SpaceX shares decreased to 135.90 USD, the lowest since August 2026. Over the past 4 weeks, SpaceX lost 8.19%, and in the last 12 months, it increased 0.7%."
-    },
-    {
-      "id": "mkt:01a18df7-386b-7ee0-aa13-779a2bd2ff24",
-      "time": "2026-10-31 01:59:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "TIMIRAOS: At present, FOMC members continue to speak frequently to ensure markets fully understand the Fed's overall policy reaction function."
     }
   ]
 }
