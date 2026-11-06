@@ -1,7 +1,73 @@
 {
   "date": "2026-11-07",
-  "count": 197,
+  "count": 205,
   "items": [
+    {
+      "id": "mkt:01a1b210-b38d-7ee0-aaba-2b180b0fcb02",
+      "time": "2026-11-07 02:13:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "DALY: If we temporarily set aside these \"painful\" market swings, this is the economic rebalancing we want to see."
+    },
+    {
+      "id": "5200117",
+      "time": "2026-11-07 02:13:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：如果暫時忽略“令人痛苦”的波動，這正是你所希望看到的那種再平衡。"
+    },
+    {
+      "id": "5200116",
+      "time": "2026-11-07 02:11:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：如果我沒有阻止伊朗擁有核武器，以色列、事實上整個中東，今天都不會存在。沒人願意這麼說，但所有人都知道這是真的！"
+    },
+    {
+      "id": "5200115",
+      "time": "2026-11-07 02:11:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI與Hacktron合作，以發現OpenAI系統中的漏洞。"
+    },
+    {
+      "id": "mkt:01a1b20e-a014-7ee0-aaba-1d9bdead2307",
+      "time": "2026-11-07 02:11:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said if he had not prevented Iran from obtaining nuclear weapons, Israel — and effectively the entire Middle East — would not exist today, and that no one wants to say it but everyone knows it is true."
+    },
+    {
+      "id": "mkt:01a1b20e-48aa-7ee0-aaba-16263161b9b7",
+      "time": "2026-11-07 02:10:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Daly: Fed prepared to raise rates further if needed, urges cautious policy steps】San Francisco Fed President Daly said the Fed is prepared to raise rates further if needed and that policy still needs tightening. She said how much more tightening and the timing depend on additional incoming information, and emphasized the Fed must act cautiously."
+    },
+    {
+      "id": "5200114",
+      "time": "2026-11-07 02:10:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京確認俄美烏三方會談將於11月10日在阿布扎比舉行】俄羅斯總統普京在會議上確認，俄美烏三方烏克蘭問題會談將於11月10日在阿聯酋首都阿布扎比舉行。普京表示，俄羅斯代表團成員當天參加了俄聯邦安全會議。與會人員包括俄羅斯總統助理梅金斯基、俄武裝部隊總參謀部情報總局局長科斯秋科夫、俄總統助理烏沙科夫、俄外交部副部長加盧津和里亞布科夫。會議討論了即將舉行的俄美烏三方會談相關事宜。普京對阿聯酋領導層為推動解決烏克蘭危機所作的努力表示感謝。 (央視新聞)"
+    },
     {
       "id": "mkt:01a1b20c-76dd-7ee0-aaba-0a892dbc34dd",
       "time": "2026-11-07 02:08:43",
@@ -384,6 +450,19 @@
         "其他"
       ],
       "text": "Meta：向Muse應用推出多款專用人工智慧模型。"
+    },
+    {
+      "id": "mkt:01a1b210-3497-7ee0-aaba-237e549b05fe",
+      "time": "2026-11-07 02:03:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Baker Hughes: US energy firms increased their rig count for the first time in four weeks."
     },
     {
       "id": "5200096",
