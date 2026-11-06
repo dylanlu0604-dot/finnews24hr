@@ -1,7 +1,51 @@
 {
   "date": "2026-11-06",
-  "count": 890,
+  "count": 895,
   "items": [
+    {
+      "id": "5198289",
+      "time": "2026-11-06 11:22:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【國債期貨拉昇 30年期主力合約漲0.3%】國債期貨拉昇，30年期主力合約盤中漲0.30%，現報118.760元。10年期漲0.07%，現報110.24元。5年期漲0.02%，現報106.905元。2年期漲0.01%，現報102.688元。"
+    },
+    {
+      "id": "5198288",
+      "time": "2026-11-06 11:22:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【本田中國10月汽車銷量同比暴跌52.2%】本田中國發布公告稱，10月汽車銷量為28,652輛，同比下降52.2%。1-10月累計銷量達311,835輛，同比下降40.9%。"
+    },
+    {
+      "id": "5198287",
+      "time": "2026-11-06 11:21:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【ST萬邦：WP107多劑量爬坡臨床研究完成首個佇列入組】11月5日，ST萬邦對外宣佈，WP107（石杉鹼甲口服溶液）多劑量爬坡臨床研究完成首個佇列入組。WP107是公司創新藥研發團隊基於石杉鹼甲注射液已有臨床資料自主研發的新型口服溶液劑型，為中美雙報品種。專案已獲美國FDA授予的孤兒藥認定，並獲得溫州醫科大學附屬第二醫院/溫州醫科大學附屬育英兒童醫院醫學倫理委員會的審查批件。此次國內首個佇列入組完成，是這一國際化開發鏈條向前邁進的又一步伐。"
+    },
+    {
+      "id": "5198286",
+      "time": "2026-11-06 11:21:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【券商佣金調整投訴高居不下 追溯退還訴求成處置難點】記者瞭解到，監管最新下發了券商第三季度投訴處理情況。今年前三季度，券商共收到客戶投訴25919件，其中佣金調整及稅費相關投訴合計4355件，投訴情況逐季有所降溫，但仍是投訴的主要問題。從訴求看，二季度投訴主要涉及佣金調整申請未及時處理、稅費收取標準不透明、佣金費率爭議；三季度佣金糾紛主要與歷史成因有關，部分老牌營業部存量客戶早期佣金費率標準相對偏高，投資者經同業對比後牴觸情緒強烈；亦有投資者以現階段市場佣金水平衡量早年開戶費率，要求機構主動下調並追溯退還差額，此類訴求超出合規調整空間，溝通安撫難度較大。此外，信用賬戶佣金費率問題成為新的投訴增長點，個別投資者已簽署佣金調整協議但系統未及時設定，引發“承諾未兌現”爭議。 (財聯社)"
+    },
+    {
+      "id": "mkt:01a1aedf-15a2-7ee0-aaa3-0566e140ff94",
+      "time": "2026-11-06 11:20:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Novartis: China becoming a global first‑launch market for breakthrough therapies】Nov 6 — Novartis showcased investigational immunology drug Ianalumab at the 9th China International Import Expo, presenting clinical progress in Sjögren’s syndrome and marking the drug’s first China exhibition. Gao Rong, head of Novartis drug development in China, said the company is positioning China as a global first‑launch market for its breakthrough therapies."
+    },
     {
       "id": "5198283",
       "time": "2026-11-06 11:19:13",
