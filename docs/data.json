@@ -1,7 +1,71 @@
 {
-  "updated": "2026-11-06 11:38:42",
-  "count": 11191,
+  "updated": "2026-11-06 11:42:30",
+  "count": 11195,
   "items": [
+    {
+      "id": "mkt:01a1aef1-987e-7ee0-aaa3-83c9bac9d71f",
+      "time": "2026-11-06 11:40:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures rose more than $2 intraday, reclaiming levels above $100/bbl."
+    },
+    {
+      "id": "mkt:01a1aef1-8c48-7ee0-aaa3-7c015ccbe05c",
+      "time": "2026-11-06 11:40:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Counterpoint: Q3 DRAM 'supercycle' pushes market revenue toward $200 billion】Counterpoint Research's Q3 2026 global memory tracker says AI accelerators, data-center demand and rising prices lifted DRAM revenue in Q3 2026 to nearly 5x year-earlier levels, approaching $200 billion. DRAM bit shipments grew only about 4%, indicating the upcycle is price-driven rather than shipment-driven. Counterpoint says AI has turned memory from a commodity into a scarce, high-value resource, and buyers are now competing for supply rather than price. With prices still rising, suppliers are expected to set new profit highs next quarter."
+    },
+    {
+      "id": "5198386",
+      "time": "2026-11-06 11:40:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨 <LCOc1> 上漲逾 2 美元，突破 100 美元/桶。"
+    },
+    {
+      "id": "5198380",
+      "time": "2026-11-06 11:39:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰海通：保險業Q3研究值回落 年內預定利率保持穩定】國泰海通釋出研報稱，看好利率企穩回升推動保險板塊估值修復。負債端，高基數下壽險新單保費增速階段下滑不改長期保險儲蓄需求旺盛趨勢，提升產品期限結構利好支撐價值增長;關注保險2027年開門紅表現。資產端，權益市場波動下利潤階段承壓，預計保險公司基於外部市場環境動態調整股債配置策略推動盈利及分紅穩健。當前股價反應極度悲觀的投資端預期，利率企穩回升下上市險企估值修復空間可期。維持行業“增持”評級。"
+    },
+    {
+      "id": "5198375",
+      "time": "2026-11-06 11:39:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比兌美元基本持平，報94.4800。"
+    },
+    {
+      "id": "mkt:01a1aef0-439a-7ee0-aaa3-7211d19ab60a",
+      "time": "2026-11-06 11:39:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Germany warns cutting US arms reliance could harm transatlantic ties】An internal German Defence Ministry brief, reported by Politico, warned a rapid reduction in reliance on US weaponry could damage relations with Washington and deprive German defence firms of participation in US weapons production. The memo, discussed at the Bundestag defence committee, said Germany’s public push for autonomy in arms programmes will attract US criticism and that Germany cannot abruptly change course without risking the partnership. From 2021–25 the US accounted for 37% of Germany’s major weapons imports, including F-35 fighters, CH-47 Chinook helicopters and Patriot air-defence systems."
+    },
+    {
+      "id": "5198374",
+      "time": "2026-11-06 11:38:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：第三季度DRAM “超級週期” 市場營收逼近2000億美元】11月6日，根據Counterpoint Research最新發布的2026年第三季度全球儲存市場追蹤報告，受AI加速器與資料中心強勁需求及價格上漲帶動，2026年第三季度DRAM營收同比增長接近5倍。該機構表示，當前市場正處於價格驅動的超級週期，而非出貨量驅動的週期。本季度DRAM位元出貨量僅增長約4%，但市場營收已接近2000億美元，約為去年同期的5倍。AI已將儲存從一種大宗商品轉變為稀缺的高價值資源，如今買方競爭的是供應保障，而非在價格上反覆博弈。在價格持續上行的情況下，供應商有望在下一季度再創盈利新高。"
+    },
     {
       "id": "5198368",
       "time": "2026-11-06 11:38:06",
@@ -102854,31 +102918,6 @@
         "國際"
       ],
       "text": "5年期日本國債收益率最新下跌3個基點，報1.32%。"
-    },
-    {
-      "id": "5181323",
-      "time": "2026-10-30 11:41:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【公安部就修訂《公安機關辦理行政案件程式規定》公開徵求意見】為貫徹落實修訂後的治安管理處罰法、行政處罰法等法律法規，進一步規範公安行政執法，提高公安機關行政案件辦理質量和執法水平，公安部10月30日釋出公告，就《公安機關辦理行政案件程式規定（修訂徵求意見稿）》，向社會公開徵求意見。公眾可透過公安部網站（www.mps.gov.cn）查閱公開徵求意見稿，有關意見可透過郵箱或信函方式反饋，意見反饋截止時間為2026年11月28日。這次修訂的主要內容包括如下4個方面：貫徹落實上位法規定要求，進一步保障當事人合法權益，進一步規範公安機關執法行為，進一步健全銜接機制、嚴密執法程式。（新華社）"
-    },
-    {
-      "id": "5181322",
-      "time": "2026-10-30 11:41:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【臺積電計劃發行148億元臺幣公司債】據公開說明書，臺積電計劃於11月發行148億元臺幣無擔保普通公司債，5年期與10年期利率分別為2.3%與2.42%，較上次在7月發行利率走高。5年期發行利率較上次上漲27基點，10年期上漲32基點。此次5年期將發行124億元臺幣，10年期將發行24億元，均為綠色債券。"
-    },
-    {
-      "id": "5181321",
-      "time": "2026-10-30 11:39:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【芯和半導體釋出面向韜定律場景的Agentic AI】在今日舉行的2026芯和使用者生態大會上，芯和半導體釋出面向晶片韜和系統韜定律場景的Agentic AI超級智慧體平臺AgentEvo，用於編排工程任務，內建先進封裝、封裝與PCB、多物理場耦合三大超級智慧體。芯和半導體研發副總裁蔣歷國表示，該平臺以時間微縮為牽引，協同最佳化架構，可實現設計迭代效率提升4倍，人工操作減少80%。"
     }
   ]
 }
