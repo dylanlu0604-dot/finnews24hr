@@ -1,7 +1,112 @@
 {
   "date": "2026-11-06",
-  "count": 1406,
+  "count": 1419,
   "items": [
+    {
+      "id": "5199438",
+      "time": "2026-11-06 18:46:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "一名機場管理機構訊息人士稱，因炸彈恐慌，威茲航空（Wizz Air）一架從布拉格飛往羅馬的航班改道飛往威尼斯，並已在威尼斯降落。"
+    },
+    {
+      "id": "mkt:01a1b077-0c43-7ee0-aaad-68e4ab788489",
+      "time": "2026-11-06 18:45:54",
+      "tags": [
+        "MKT News",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "UK FTSE 100 fell as much as 2.00% intraday."
+    },
+    {
+      "id": "mkt:01a1b077-005e-7ee0-aaad-6038560e50c2",
+      "time": "2026-11-06 18:45:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "London Underground drivers in the UK will stage a series of 24-hour strikes."
+    },
+    {
+      "id": "5199437",
+      "time": "2026-11-06 18:45:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我們與史蒂夫·威特科夫和賈裡德·庫什納進行了交談，昨天我與亞歷山大·斯圖布通了話。我們正在準備新的外交步驟。"
+    },
+    {
+      "id": "5199436",
+      "time": "2026-11-06 18:45:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦地鐵司機將舉行一系列24小時罷工。"
+    },
+    {
+      "id": "5199435",
+      "time": "2026-11-06 18:44:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：西班牙將提供一項新的防務援助計劃，價值4.37億歐元，這將有助於我們在前線計程車兵。德國將提供一項冬季支援計劃，幫助我們的民眾維持韌性，包括能源方面的支援。我們還在推動加快愛國者導彈、IRIS-T系統的供應，以及對F-16的援助。"
+    },
+    {
+      "id": "5199434",
+      "time": "2026-11-06 18:44:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "NSDL：全球基金在前一交易日淨買入價值1628億盧比的印度股票。"
+    },
+    {
+      "id": "5199433",
+      "time": "2026-11-06 18:43:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【永臻股份：股票交易異常波動 無應披露未披露重大事項】永臻股份公告稱，公司股票於2026年11月5日、11月6日連續2個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。自2026年11月3日以來公司股票連續漲停，累計漲幅達46.47%，同期上證指數累計漲幅為0.31%。經自查並向控股股東、實控人核實，截至公告披露日，不存在應披露而未披露的重大資訊，董監高、控股股東及實控人等在異動期間不存在買賣公司股票的情況。公司目前生產經營正常，所處行業處於景氣週期底部，下游需求釋放節奏存在不確定性，敬請投資者注意投資風險。"
+    },
+    {
+      "id": "5199432",
+      "time": "2026-11-06 18:43:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "越秀地產：10月合約銷售金額-0.7％。"
+    },
+    {
+      "id": "mkt:01a1b074-b73b-7ee0-aaad-582e85df7aff",
+      "time": "2026-11-06 18:43:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "【14th NPC Standing Committee ends 25th session; approves 15 laws including anti‑cross‑border corruption, removes MIIT minister Li Lecheng】The 25th session of the 14th National People’s Congress Standing Committee concluded, voting to approve 15 laws and related decisions, notably a Prosecutorial Public‑Interest Litigation Law, an Anti‑Cross‑Border Corruption Law, a revised Water Law, an Antarctic Activities and Environmental Protection Law, and amendments to the Emergency Response Law. CHINA signed presidential Orders Nos.86–91 enacting the measures. The meeting also voted to remove Li Lecheng from his post as minister of the Ministry of Industry and Information Technology (MIIT). The committee approved a decision to ratify the agreement establishing the World Artificial Intelligence Cooperation Organization."
+    },
+    {
+      "id": "5199431",
+      "time": "2026-11-06 18:43:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時100指數下跌2%，報10567.01點。"
+    },
+    {
+      "id": "5199430",
+      "time": "2026-11-06 18:42:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【十四屆全國人大常委會第二十五次會議在京閉幕 表決透過檢察公益訴訟法、反跨境腐敗法等 習近平簽署主席令 趙樂際主持會議】十四屆全國人大常委會第二十五次會議6日上午在北京人民大會堂閉幕。會議經表決，透過了檢察公益訴訟法、南極活動與環境保護法、新修訂的水法、反跨境腐敗法、關於修改突發事件應對法等十五部法律的決定；決定免去李樂成的工業和資訊化部部長職務。國家主席習近平分別簽署第86、87、88、89、90、91號主席令。趙樂際委員長主持閉幕會。\n常委會組成人員154人出席會議，出席人數符合法定人數。\n會議表決透過了全國人大常委會關於批准《關於成立世界人工智慧合作組織的協定》的決定。\n會議表決透過了全國人大監察和司法委員會、財政經濟委員會、環境與資源保護委員會、農業與農村委員會、社會建設委員會分別提出的關於十四屆全國人大四次會議主席團交付審議的代表提出的議案審議結果的報告。\n會議表決透過了全國人大常委會代表資格審查委員會關於個別代表的代表資格的報告。\n會議經表決，任命王君正、王寧為全國人大民族委員會副主任委員，王凱為全國人大監察和司法委員會副主任委員，龔正、毛偉明為全國人大財政經濟委員會副主任委員，梁言順、王予波為全國人大教育科學文化衛生委員會副主任委員，劉寧、任振鶴、王正譜為全國人大農業與農村委員會副主任委員，沈曉明、王清憲為全國人大社會建設委員會副主任委員；免去陳福利的全國人大常委會副秘書長職務。\n會議表決透過了全國人大常委會關於接受陳福利辭去全國人大常委會委員等職務的請求的決定。\n會議還表決透過了其他任免案。\n全國人大常委會副委員長李鴻忠、王東明、肖捷、鄭建邦、丁仲禮、郝明金、蔡達峰、何維、武維華、鐵凝、彭清華、張慶偉、洛桑江村、雪克來提·扎克爾，秘書長劉奇出席會議。\n國務院副總理劉國中，國家監察委員會主任劉金國，最高人民法院院長張軍，最高人民檢察院檢察長應勇，全國人大各專門委員會成員，各省區市人大常委會負責同志，部分副省級城市人大常委會主要負責同志，部分全國人大代表，有關部門負責同志等列席會議。\n閉幕會後，十四屆全國人大常委會舉行第二十五講專題講座，趙樂際委員長主持。中國社會科學院院長、黨組書記高翔作了題為《深入學習貫徹黨的二十屆五中全會精神 持之以恆推進全面從嚴治黨》的講座。（新華社）"
+    },
     {
       "id": "5199429",
       "time": "2026-11-06 18:41:58",
@@ -297,6 +402,14 @@
         "NVDA.O"
       ],
       "text": "【NVIDIA hardware worth $11.4 mln stolen in Oakland, California】Oakland police are investigating the theft of NVIDIA computer hardware valued at $11.4 mln in East Oakland. The shipment, scheduled for transport to Texas, was picked up by a truck operating under the guise of a food-transport company and disappeared before leaving Oakland."
+    },
+    {
+      "id": "5199404",
+      "time": "2026-11-06 18:31:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甘肅省武威市委書記武和謙接受審查調查】中央紀委國家監委網站11月6日通報，據甘肅省紀委監委訊息：甘肅省武威市委書記武和謙涉嫌嚴重違紀違法，目前正接受甘肅省紀委監委紀律審查和監察調查。"
     },
     {
       "id": "5199403",
