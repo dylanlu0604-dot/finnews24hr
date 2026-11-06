@@ -1,7 +1,72 @@
 {
   "date": "2026-11-06",
-  "count": 878,
+  "count": 885,
   "items": [
+    {
+      "id": "5198279",
+      "time": "2026-11-06 11:15:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【波音與Avolon完成140架737-10飛機訂單】11月6日，波音公司宣佈與Avolon完成飛機租賃公司有史以來最大的一筆單通道飛機訂單，涵蓋140架737-10飛機，也使Avolon的737 MAX儲備訂單總量超過240架。據瞭解，737-10最多可搭載230名乘客，航程可達5740公里（3100海里）。"
+    },
+    {
+      "id": "mkt:01a1aeda-36cf-7ee0-aaa2-f393e5be5537",
+      "time": "2026-11-06 11:14:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FTSE Straits Times Index losses narrowed to 2.2%."
+    },
+    {
+      "id": "5198278",
+      "time": "2026-11-06 11:14:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前三季度全國專利轉讓許可備案次數達49.6萬次】從第十五屆中國國際專利技術與產品交易會開幕式上瞭解到，國家智慧財產權局深入實施專利轉化運用三年專項行動，著力推進專利轉化運用機制化、常態化、長效化，取得明顯成效。今年前三季度，全國專利轉讓許可備案次數達49.6萬次，同比增長7.1%。其中，高校、科研院所同比增長20.3%。我國智慧財產權使用費進出口總額達到3315.9億元，繼續保持穩定增長。在世界智慧財產權組織釋出的《2026年全球創新指數報告》中，中國連續第二年躋身全球前十，擁有的全球百強創新叢集數量連續四年位居各國之首。據瞭解，第十五屆中國國際專利技術與產品交易會以“專利鏈通創新、轉化釋放價值”為主題，初步統計，本屆專交會共有近400家單位的展品參展，其中專利金獎獲獎單位就有40家，首發首展的原創性成果有50多件，參展單位數量、專利技術與產品的成色、潛在的市場價值均創歷史新高。"
+    },
+    {
+      "id": "5198277",
+      "time": "2026-11-06 11:14:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡富時海峽時報指數縮減早前跌幅；最新下跌2.2%，報5178.21點。"
+    },
+    {
+      "id": "5198276",
+      "time": "2026-11-06 11:14:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安：繼續推進恢復提現服務的進展，將從協調世界時間 04:00 開始重新開放更多資產的提現。"
+    },
+    {
+      "id": "te:economy:598890",
+      "time": "2026-11-06 11:12:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Foreign Exchange Reserves",
+        "Importance 1"
+      ],
+      "text": "Indonesia Forex Reserves Largest in 7 Months — Indonesia’s foreign exchange reserves slightly increased to USD 146.8 billion in October from USD 146.3 billion in the previous month. It was the highest level of foreign exchange reserves since March, supported by government external loan withdrawals and tax and service revenues. However, the increase was partly offset by repayments of maturing government foreign debt and Bank Indonesia’s rupiah stabilization measures in response to persistent uncertainty in global financial markets. The reserve assets were equivalent to 5.3 months of imports, or 5.2 months of imports and government external debt servicing, well above the international adequacy benchmark of around three months of imports. Looking ahead, Bank Indonesia expects external sector resilience to remain solid, supported by ample foreign exchange reserves and sustained foreign capital inflows."
+    },
+    {
+      "id": "mkt:01a1aed7-ac7f-7ee0-aaa2-e8edf5c8e4dc",
+      "time": "2026-11-06 11:12:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Tech sell-off spurs foreign inflows, supports Indian rupee】Foreign inflows returned to India after months of outflows, supporting the Indian rupee as a tech-sector sell-off redirected capital into the market. Week-to-date the rupee is up 0.5%; intraday on Thursday it hit 94.32, a two-week high, before settling at 94.4750. The currency had been under pressure for most of the year and has relied on central bank intervention for support. This week two prior drags — oil prices and equity flows — eased, giving the rupee some relief. Global funds’ earlier rotation into AI-related assets had sidelined Indian equities; the recent reversal of that trade has helped draw foreign buying back into India."
+    },
     {
       "id": "5198275",
       "time": "2026-11-06 11:11:44",
