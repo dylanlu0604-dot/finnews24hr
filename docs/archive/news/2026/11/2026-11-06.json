@@ -1,7 +1,45 @@
 {
   "date": "2026-11-06",
-  "count": 964,
+  "count": 968,
   "items": [
+    {
+      "id": "mkt:01a1aef9-48e4-7ee0-aaa3-8c26311892be",
+      "time": "2026-11-06 11:48:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【Capital Economics: US equities unlikely to regain early-October highs in near term】Capital Economics market economist Joe Mach said in a note that even if political fears prove overblown and stocks stage a short rebound, US equities are unlikely to reclaim early-October highs in the near term. He said the overnight sell-off appeared driven by investor concerns that Democrats, at federal or state level, may pursue regulation of the AI sector and limit data center construction. Mach added that AI trade sentiment had already shown fragility and the US market displayed several late-cycle features, so the episode could trigger a more prolonged unwind of the AI trade."
+    },
+    {
+      "id": "5198431",
+      "time": "2026-11-06 11:46:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅博特科：繼續透過回購等方式，維護公司價值和廣大投資者利益】羅博特科公告，公司關注到中國人民銀行於2026年11月4日釋出《中國人民銀行加力實施股票回購增持再貸款政策》明確自2026年11月4日起，下調股票回購增持再貸款利率0.25個百分點至1%，為上市公司透過回購等方式維護公司價值提供了有力支援。公司後續將結合回購再貸款政策、公司資金情況、市場走勢等，充分運用政策工具，繼續透過回購等方式，維護公司價值和廣大投資者利益。"
+    },
+    {
+      "id": "5198426",
+      "time": "2026-11-06 11:46:12",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【大普微：積極研判透過股份回購等多種方式維護公司價值和廣大投資者利益】大普微公告，隨著AI資料中心應用場景和系統架構不斷演進，企業級SSD的設計正在從單一效能或容量指標，向儲存密度、部署靈活性與系統協同等多維度拓展。圍繞AI訓練、推理及大規模資料儲存等不同場景，公司持續完善產品佈局，透過大容量QLC、高效能TLC、液冷及雙模等不同產品組合及技術路徑，滿足各場景下的差異化需求。在市場開拓方面，公司將持續加強海外團隊建設，拓展全球市場影響力，實現全球市場與技術領域的雙重突破。同時，公司近日關注到回購再貸款等政策出臺，公司將結合自身經營發展需要、資金情況等因素，合理運用政策工具，積極研判透過股份回購等多種方式維護公司價值和廣大投資者利益。"
+    },
+    {
+      "id": "5198425",
+      "time": "2026-11-06 11:46:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協鑫科技在宜賓成立新材料公司 含電池製造業務】企查查APP顯示，近日，宜賓鑫能新材料有限責任公司成立，法定代表人為龐勇敢，註冊資本為1000萬元，經營範圍包含新型膜材料製造；電子專用裝置銷售；電子元器件批發；電子元器件製造；電池製造；新材料技術推廣服務等。企查查股權穿透顯示，該公司由協鑫科技（蘇州）有限公司間接全資持股。"
+    },
     {
       "id": "5198421",
       "time": "2026-11-06 11:45:29",

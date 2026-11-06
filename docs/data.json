@@ -1,7 +1,45 @@
 {
-  "updated": "2026-11-06 11:46:14",
+  "updated": "2026-11-06 11:49:59",
   "count": 11200,
   "items": [
+    {
+      "id": "mkt:01a1aef9-48e4-7ee0-aaa3-8c26311892be",
+      "time": "2026-11-06 11:48:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【Capital Economics: US equities unlikely to regain early-October highs in near term】Capital Economics market economist Joe Mach said in a note that even if political fears prove overblown and stocks stage a short rebound, US equities are unlikely to reclaim early-October highs in the near term. He said the overnight sell-off appeared driven by investor concerns that Democrats, at federal or state level, may pursue regulation of the AI sector and limit data center construction. Mach added that AI trade sentiment had already shown fragility and the US market displayed several late-cycle features, so the episode could trigger a more prolonged unwind of the AI trade."
+    },
+    {
+      "id": "5198431",
+      "time": "2026-11-06 11:46:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅博特科：繼續透過回購等方式，維護公司價值和廣大投資者利益】羅博特科公告，公司關注到中國人民銀行於2026年11月4日釋出《中國人民銀行加力實施股票回購增持再貸款政策》明確自2026年11月4日起，下調股票回購增持再貸款利率0.25個百分點至1%，為上市公司透過回購等方式維護公司價值提供了有力支援。公司後續將結合回購再貸款政策、公司資金情況、市場走勢等，充分運用政策工具，繼續透過回購等方式，維護公司價值和廣大投資者利益。"
+    },
+    {
+      "id": "5198426",
+      "time": "2026-11-06 11:46:12",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【大普微：積極研判透過股份回購等多種方式維護公司價值和廣大投資者利益】大普微公告，隨著AI資料中心應用場景和系統架構不斷演進，企業級SSD的設計正在從單一效能或容量指標，向儲存密度、部署靈活性與系統協同等多維度拓展。圍繞AI訓練、推理及大規模資料儲存等不同場景，公司持續完善產品佈局，透過大容量QLC、高效能TLC、液冷及雙模等不同產品組合及技術路徑，滿足各場景下的差異化需求。在市場開拓方面，公司將持續加強海外團隊建設，拓展全球市場影響力，實現全球市場與技術領域的雙重突破。同時，公司近日關注到回購再貸款等政策出臺，公司將結合自身經營發展需要、資金情況等因素，合理運用政策工具，積極研判透過股份回購等多種方式維護公司價值和廣大投資者利益。"
+    },
+    {
+      "id": "5198425",
+      "time": "2026-11-06 11:46:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協鑫科技在宜賓成立新材料公司 含電池製造業務】企查查APP顯示，近日，宜賓鑫能新材料有限責任公司成立，法定代表人為龐勇敢，註冊資本為1000萬元，經營範圍包含新型膜材料製造；電子專用裝置銷售；電子元器件批發；電子元器件製造；電池製造；新材料技術推廣服務等。企查查股權穿透顯示，該公司由協鑫科技（蘇州）有限公司間接全資持股。"
+    },
     {
       "id": "5198421",
       "time": "2026-11-06 11:45:29",
@@ -102932,40 +102970,6 @@
         "其他"
       ],
       "text": "【快手-W港股漲超3%】快手-W港股漲3.05%，報27.02港元。"
-    },
-    {
-      "id": "5181335",
-      "time": "2026-10-30 11:49:55",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日經指數對日本央行加速拋售ETF計劃反應平淡】日經225指數下跌約2.3%，較早盤跌幅略有收窄。投資者認為，日本央行決定加快ETF拋售步伐對市場的影響有限。大和證券高階策略師Shuji Hosoi表示：“與主要海外投資者的交易規模相比，此次拋售的規模仍然很小。”Aizawa Securities高階策略師川西幸宏（Yukihiro Kawanishi）表示，這對市場供需的影響有限，實際上，隨著股票流動性的改善，甚至可能帶來一些益處。"
-    },
-    {
-      "id": "5181333",
-      "time": "2026-10-30 11:48:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東北證券：硫磺短期供給擾動弱化 中長期迴歸資源屬性定價】東北證券釋出研報稱，硫磺是無機化工重要基礎原料，是最核心的無機化工產品之一。短期內硫磺供應仍受地緣衝突等因素影響擾動，中長期來看有色金屬礦伴生硫和硫鐵礦難有明顯增幅，由於新能源對傳統汽柴油需求的替代，全球煉廠產能增速趨勢放緩，整體增量較為有限。整體來看硫磺資源的供需格局有望向好，硫磺產品價格中樞有望迎來上行。"
-    },
-    {
-      "id": "5181331",
-      "time": "2026-10-30 11:47:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊音樂-SW港股漲超3%】騰訊音樂-SW港股漲3.04%，報33.20港元。"
-    },
-    {
-      "id": "5181329",
-      "time": "2026-10-30 11:47:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞證券和投資委員會（ASIC）：就市場運營機構的財務資源要求進行諮詢。"
     }
   ]
 }
