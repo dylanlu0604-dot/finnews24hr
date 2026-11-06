@@ -1,7 +1,38 @@
 {
-  "updated": "2026-11-07 02:18:31",
-  "count": 10662,
+  "updated": "2026-11-07 02:22:23",
+  "count": 10661,
   "items": [
+    {
+      "id": "te:markets:599254",
+      "time": "2026-11-07 02:20:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 2.07% — Top commodity gainers are Lithium Carbonate (2.07%) and Platinum (1.05%). Biggest losers are Silicon (-0.76%) and Gold (-0.62%)."
+    },
+    {
+      "id": "mkt:01a1b215-b306-7ee0-aaba-467087fe477c",
+      "time": "2026-11-07 02:18:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports the White House is considering an executive order to designate certain nonprofit organizations as terrorist organizations."
+    },
+    {
+      "id": "mkt:01a1b215-703a-7ee0-aaba-3e884583f29b",
+      "time": "2026-11-07 02:18:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "【Citigroup cuts 0–3 month copper forecast to $13,300/t, sees 2027–28 surplus】Citigroup cut its 0–3 month copper price forecast to $13,300/t from $14,500/t and said it expects a supply surplus in 2027–28. The bank had previously been neutral on copper, forecasting $14,000–15,000/t short term and projecting stronger supply growth in 2027."
+    },
     {
       "id": "mkt:01a1b213-c6e9-7ee0-aaba-359e74bfa2da",
       "time": "2026-11-07 02:16:42",
@@ -13,6 +44,18 @@
       "text": "The Federal Reserve accepted $150 mln from one counterparty in fixed-rate reverse repo operations."
     },
     {
+      "id": "te:markets:599253",
+      "time": "2026-11-07 02:16:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Recovers on Mining Gains — The S&P/TSX Composite Index rose over 0.5% to hover near 36,000 on Friday, recovering from earlier losses with support from mining shares. Democrats regained control of both chambers of Congress in the US, raising hopes of easing trade tensions, as a Democratic majority could constrain some of President Trump’s trade policy decisions. Meanwhile, Canada’s trade surplus widened to C$5.35 billion in September, as higher energy and gold exports to the US appeared to offset tariff impacts. Agnico Eagle and Franco-Nevada rose about 1%, while WPM added nearly 2% after reporting record nine-month results on Thursday, with Q3 revenue soaring 62%. Broader sectors were mixed as investors assessed weaker-than-expected jobs data. Canadian employment fell by 4,700 in October, improving from September’s 68,300 decline but missing forecasts of a 13,600 increase. On the week, the index is set to gain over 1%."
+    },
+    {
       "id": "5200119",
       "time": "2026-11-07 02:16:17",
       "tags": [
@@ -20,6 +63,17 @@
         "國際"
       ],
       "text": "週五（11月6日），美聯儲隔夜逆回購協議（RRP）使用規模為1.5億美元，上個交易日報1.25億美元。"
+    },
+    {
+      "id": "te:markets:599252",
+      "time": "2026-11-07 02:15:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Plunges by 5.60% — Top commodity losers are Natural Gas UK (-5.60%), Natural Gas EU (-5.55%), Germany Natural Gas THE (-5.53%), Brent Oil (-1.06%) and Crude Oil (-0.72%). Gains are led by Natural gas (2.18%)."
     },
     {
       "id": "5200118",
@@ -97619,58 +97673,6 @@
         "國際"
       ],
       "text": "ARIES FINANCIAL：在ARIES移動端推出針對2026年美國中期選舉、經濟資料及金融市場的預測市場。"
-    },
-    {
-      "id": "5183529",
-      "time": "2026-10-31 02:20:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數日內跌9%】費城半導體指數日內跌9.00%，現報10481.41點。英偉達跌5.51%，博通跌6.97%，美光跌7.41%，英特爾跌30.87%，AMD跌12.21%，高通跌12.46%，臺積電跌6.82%，阿斯麥跌8.25%。"
-    },
-    {
-      "id": "5183528",
-      "time": "2026-10-31 02:20:29",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "墨西哥財政部：9月財政收支差額為-2223.376億比索。"
-    },
-    {
-      "id": "5183527",
-      "time": "2026-10-31 02:20:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐利雅得大使館表示，胡塞武裝對沙特民用機場和關鍵基礎設施的襲擊存在安全風險。"
-    },
-    {
-      "id": "te:markets:596952",
-      "time": "2026-10-31 02:20:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Plunges by 6.12% — Top commodity losers are Silver (-6.12%), Platinum (-4.39%) and Gold (-3.51%)."
-    },
-    {
-      "id": "5183526",
-      "time": "2026-10-31 02:19:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，在聯合國秘書長非正式投票中，哥斯大黎加的格里斯潘擴大領先優勢。"
-    },
-    {
-      "id": "5183525",
-      "time": "2026-10-31 02:19:28",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國駐利雅得大使館：美國國務院命令非緊急工作人員及其家屬於10月23日起離開沙烏地阿拉伯。"
     }
   ]
 }
