@@ -1,7 +1,79 @@
 {
-  "updated": "2026-11-06 19:21:53",
-  "count": 10987,
+  "updated": "2026-11-06 19:25:44",
+  "count": 10980,
   "items": [
+    {
+      "id": "5199532",
+      "time": "2026-11-06 19:24:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科電氣：控股子公司完成增資擴股工商變更，持股54.5702%】中科電氣公告，公司此前披露控股子公司湖南中科星城控股有限公司增資擴股暨關聯交易事項。根據協議約定，相關方已完成出資義務，控股子公司已更名為四川中科星城新能源科技發展有限公司，並於近日完成增資擴股工商變更登記，取得換髮的《營業執照》。變更後，中科星城科技持有其54.5702%股權，成都產投先進投持有45.4298%股權，該公司仍為中科電氣合併報表範圍內的子公司。"
+    },
+    {
+      "id": "5199531",
+      "time": "2026-11-06 19:24:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界動物衛生組織：墨西哥尤卡坦半島爆發H5N1禽流感。"
+    },
+    {
+      "id": "mkt:01a1b09a-71c7-7ee0-aaae-19865b17e5c6",
+      "time": "2026-11-06 19:24:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【State Council executive meeting to bolster capital-market stability and stock-market resilience】Li Qiang chaired a State Council executive meeting that ordered full use of policy funds with timely, full disbursement to grassroots bodies and enterprises to support domestic demand via fiscal–financial coordination. The meeting called for improving capital-market stabilization mechanisms to strengthen the stock market’s intrinsic stability and promote steady, healthy capital-market development. It directed continued resolution of local government debt risks and risks in small- and medium-sized financial institutions, and instructed study of next year’s economic plan with stronger cross-year policy coordination to sustain the recovery. The meeting also emphasised employment stabilisation and social safety nets — including targeted job support for poverty-alleviated households, minimum-living-subsidy (dibao) households, zero-employment households and distressed graduates — plus measures to safeguard supply and prices, speed disaster recovery, and protect vulnerable households’ living standards."
+    },
+    {
+      "id": "5199530",
+      "time": "2026-11-06 19:24:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯衛星通訊社援引俄羅斯安全委員會的話稱，星鏈和一網衛星通訊服務可能會破壞主權國家的社會政治穩定。"
+    },
+    {
+      "id": "mkt:01a1b09a-377a-7ee0-aaae-1159147def13",
+      "time": "2026-11-06 19:24:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Belgium avoids immediate government collapse; king urges coalition to continue budget talks】King Philippe has asked Prime Minister Bart De Wever’s coalition to resume budget negotiations to repair strained public finances after De Wever offered his resignation; the king delayed accepting the resignation and will reconvene coalition leaders on Nov. 16. The five‑party coalition remains deadlocked on the budget as the dispute intensifies amid a worsening fiscal outlook: following two downgrades last year Belgium has suffered two more this year, and the central bank forecasts a 2025 deficit of 5.2% of GDP—the euro‑area’s highest—rising to 5.7% by 2028."
+    },
+    {
+      "id": "mkt:01a1b09a-2b2d-7ee0-aaae-0fd4092cfa0b",
+      "time": "2026-11-06 19:24:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【State Council executive meeting urges faster delivery of major projects and 'six networks' construction】Premier Li Qiang chaired a State Council executive meeting directing faster policy implementation to ensure delivery of this year’s economic and social targets. The meeting ordered accelerated rollout of major projects and construction of the 'six networks', support for firms to expand equipment upgrades and intangible-asset investment, and stronger online–offline and urban–rural links to boost consumption and restore a virtuous investment–consumption cycle."
+    },
+    {
+      "id": "5199529",
+      "time": "2026-11-06 19:22:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬來西亞總檢察署宣佈暫緩執行納吉布居家服刑安排】當地時間11月6日傍晚，馬來西亞總檢察署宣佈，暫緩執行前總理納吉布的居家服刑安排。在進一步釐清相關法律問題之前，納吉布必須繼續留在目前的羈押地點。當天早些時候，納吉布在繳清5000萬林吉特罰款後，吉隆坡高等法院根據國家元首此前批准的有條件特赦安排，發出了允許其居家服刑的命令。當地媒體隨後拍攝到納吉布一度乘車離開監獄，準備返回位於吉隆坡的住所。（央視新聞）"
+    },
     {
       "id": "5199528",
       "time": "2026-11-06 19:21:19",
@@ -9,6 +81,15 @@
         "其他"
       ],
       "text": "【全國人民代表大會常務委員會關於批准《關於成立世界人工智慧合作組織的協定》的決定】全國人民代表大會常務委員會關於批准《關於成立世界人工智慧合作組織的協定》的決定（2026年11月6日第十四屆全國人民代表大會常務委員會第二十五次會議透過）第十四屆全國人民代表大會常務委員會第二十五次會議決定：批准2026年7月16日由中華人民共和國政府代表在上海簽署的《關於成立世界人工智慧合作組織的協定》。（新華社）"
+    },
+    {
+      "id": "5199527",
+      "time": "2026-11-06 19:21:02",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "李強主持召開國務院常務會議，會議指出，完善資本市場穩市機制，增強股市內在穩定性，促進資本市場平穩健康發展。（央視）"
     },
     {
       "id": "mkt:01a1b097-251b-7ee0-aaae-03080b0c9931",
@@ -100562,146 +100643,6 @@
         "國際"
       ],
       "text": "美國中央司令部司令：我們成功清除了霍爾木茲海峽過境航線上的水雷。"
-    },
-    {
-      "id": "5182863",
-      "time": "2026-10-30 19:25:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部司令：自夏季以來，我們已透過霍爾木茲海峽出口了15億桶原油。"
-    },
-    {
-      "id": "mkt:01a18c8e-ec0b-7ee0-aa08-fa9ecae4fd51",
-      "time": "2026-10-30 19:25:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "CENTCOM commander said he visited the Strait of Hormuz earlier this week."
-    },
-    {
-      "id": "5182862",
-      "time": "2026-10-30 19:25:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：在某個階段將需要歐洲代表參與烏克蘭和平解決談判 。"
-    },
-    {
-      "id": "5182861",
-      "time": "2026-10-30 19:25:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局黨組傳達學習黨的二十屆五中全會精神】會議要求，統計部門各級黨組織和全體黨員幹部要從鞏固黨的執政地位、實現中華民族偉大復興的戰略高度，深刻認識持之以恆推進全面從嚴治黨的重要性緊迫性，加強黨對統計工作的全面領導，以實際行動堅定擁護“兩個確立”、堅決做到“兩個維護”。要把增強黨性作為全面從嚴治黨的根本性任務，強化對黨忠誠教育，在實踐中錘鍊堅強黨性。要認真貫徹執行民主集中制，充分發揚黨內民主，有效實行正確的集中。要樹立正確選人用人導向，嚴格幹部教育培養、選拔任用、管理監督。要統籌推進統計部門各級黨組織建設，強化黨組織政治功能和組織功能。要深化正風肅紀，鍥而不捨落實中央八項規定及其實施細則精神，從嚴監督執紀問責。要一體推進不敢腐不能腐不想腐，以更加徹底的自我革命精神堅決打好反腐敗鬥爭攻堅戰、持久戰、總體戰。"
-    },
-    {
-      "id": "te:markets:596811",
-      "time": "2026-10-30 19:24:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Pound Gains on Rate Hike Bets — The pound climbed above $1.34, reaching its highest level since mid-September and gaining around 1% this month. This marks its first monthly advance since August, supported by the government’s budget and growing expectations of a Bank of England rate hike in November. Chancellor John Healey delivered his first budget on Wednesday, with spending plans largely meeting expectations and offering few surprises for markets. He said the government would use part of its fiscal headroom, now reduced to £15 billion from £24 billion, to meet its main fiscal target while continuing efforts to restore public finances amid the economic fallout from the Iran conflict. Money markets are almost fully pricing in a BoE rate hike on November 5, followed by further increases in February and July, with a 50% chance of another by December 2027, as persistent inflation above target, rising bond yields and stronger-than-expected economic data have reinforced expectations of tighter policy."
-    },
-    {
-      "id": "te:economy:596812",
-      "time": "2026-10-30 19:24:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Serbia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Serbia Industrial Output Growth at 5-Month High — Industrial production in Serbia rose by 3.2% year-on-year in September 2026, rebounding from a 0.5% decline in the previous month. This marked the strongest growth since April, as manufacturing output recovered, advancing by 5.1% after falling by 1.8% in August. Meanwhile, production growth slowed in mining and quarrying (0.6% vs 6.7%), while output in electricity, gas, steam and air conditioning supply contracted by 7.2%, compared with 0.8% growth in August. By economic destination, output increased in energy (1.9% vs 0.8%), capital goods (16.1% vs 0.1%), and non-durable consumer goods (5.0% vs -0.5%). In contrast, production fell further in durable consumer goods (-13.4% vs -12.1%) and intermediate goods excluding energy (-1.4% vs -1.3%). On a seasonally adjusted monthly basis, industrial production rose by 2.4%, recovering from a 0.6% decrease in August. Over the January–September 2026 period, industrial production was 0.5% higher than in the corresponding period a year earlier."
-    },
-    {
-      "id": "5182860",
-      "time": "2026-10-30 19:24:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國中央司令部司令：本週早些時候，我訪問了霍爾木茲海峽。我在霍爾木茲海峽期間完全沒有看到伊朗革命衛隊。"
-    },
-    {
-      "id": "5182859",
-      "time": "2026-10-30 19:24:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST萬邦：實控人莊惠部分股份擬被司法處置】ST萬邦公告稱，公司收到杭州市西湖區人民法院通知書，因借款合同糾紛，公司實際控制人之一致行動人莊惠作為擔保人未履行連帶清償義務，法院擬司法處置其持有的公司股份。莊惠當前持有公司股份2118.36萬股，佔總股本3.46%；本次擬處置股份不超過258.91萬股，佔總股本0.42%，減持方式為集中競價交易，減持期間為通知書送達之日起20個交易日內。本次股份變動不會導致公司實際控制權變更，不會對公司治理及持續經營產生重大影響。"
-    },
-    {
-      "id": "5182858",
-      "time": "2026-10-30 19:23:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【德銀：“AI美元”時代已來 美元避險屬性面臨疑問】德意志銀行認為，如果人工智慧推動的市場行情出現回撥，美元傳統上的避險資產地位不能再被視為理所當然。德意志銀行全球外匯策略主管George Saravelos週五在給客戶的報告中表示，美元面臨的風險“比過去幾周市場定價所反映的要雙向得多”。近期科技股與美元同時走弱的情況支援了這一觀點。其中一個原因是海外投資者對美國股票的敞口達到前所未有的規模。Saravelos表示，目前海外投資者為美國全部經常賬戶赤字提供融資，但他們持有的美國資產規模增長主要來自估值上漲，而不是新增買入。德意志銀行估計，外國投資者持有的逾20萬億美元美國股票中，約90%反映的是價格上漲帶來的估值增益。"
-    },
-    {
-      "id": "mkt:01a18c8c-fb6b-7ee0-aa08-f177cfbf6b32",
-      "time": "2026-10-30 19:23:31",
-      "tags": [
-        "MKT News",
-        "SNDK.O",
-        "Impact bearish"
-      ],
-      "text": "Mizuho cut SanDisk (SNDK.O) price target to $1,900 from $2,050."
-    },
-    {
-      "id": "mkt:01a18c8c-bc41-7ee0-aa08-e965f0e9e553",
-      "time": "2026-10-30 19:23:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact mixed",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "China's Ministry of Finance said Jan-Sep total operating revenue at state-owned and state-controlled enterprises fell 3.2% YoY, while aggregate profits rose 3.0% YoY."
-    },
-    {
-      "id": "5182857",
-      "time": "2026-10-30 19:23:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國鐵建：下屬公司擬設8億元股權投資基金】中國鐵建公告，公司全資子公司中鐵建資本集團及鐵建基金擬合計認繳4.1億元參與設立重慶鐵建基金，基金規模8億元。其中中鐵建資本集團認繳4億元、鐵建基金認繳0.1億元，合計佔51.25%；重慶高速公路投資控股有限公司認繳3.8億元、重慶高速公路產業股權投資基金管理有限公司認繳0.1億元。本次交易已經董事會審議透過，無需提交股東會審議。"
-    },
-    {
-      "id": "5182856",
-      "time": "2026-10-30 19:22:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國鐵建：2026年第三季度淨利潤同比下降83.98%】中國鐵建公告，2026年第三季度營業收入2110.09億元，同比下降11.79%；歸屬於上市公司股東的淨利潤6.58億元，同比下降83.98%；扣除非經常性損益後的淨利潤6.35億元，同比下降84.08%。2026年前三季度營業收入6394.47億元，同比下降12.21%；歸屬於上市公司股東的淨利潤93.48億元，同比下降36.88%；扣除非經常性損益後的淨利潤87.12億元，同比下降37.19%。"
-    },
-    {
-      "id": "5182855",
-      "time": "2026-10-30 19:22:38",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【財政部：1-9月，全國國有及國有控股企業營業總收入同比下降3.2%，利潤總額同比增長3.0%】財政部：一、營業總收入。1-9月，國有企業營業總收入600060.9億元，同比下降3.2%。二、利潤總額。1-9月，國有企業利潤總額33103.5億元，同比增長3.0%。三、應交稅費。1-9月，國有企業應交稅費46589.8億元，同比增長4.7%。四、資產負債率。9月末，國有企業資產負債率65.5%，同比上升0.4個百分點。"
-    },
-    {
-      "id": "5182854",
-      "time": "2026-10-30 19:21:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金迪克：2026年第三季度淨利潤虧損3831.02萬元】金迪克公告，2026年第三季度營業收入9536.38元，同比下降99.99%；淨利潤虧損3831.02萬元，扣非淨利潤虧損3898.8萬元。2026年前三季度營業收入92.05萬元，同比下降98.77%；淨利潤虧損8938.06萬元，扣非淨利潤虧損9211.65萬元。"
     }
   ]
 }
