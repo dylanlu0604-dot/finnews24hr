@@ -1,7 +1,90 @@
 {
   "date": "2026-11-06",
-  "count": 1591,
+  "count": 1599,
   "items": [
+    {
+      "id": "mkt:01a1b0ac-9de0-7ee0-aaae-5ce5c797a059",
+      "time": "2026-11-06 19:44:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【France raises wine output forecast but remains 10% below five-year average】France raised its wine production forecast for this year to about 36.7 million hectolitres, up from an October estimate of 35.0 million hl, the agriculture ministry said. That implies a 3% YoY increase but remains roughly 10% below the five-year average. Late-summer rain eased drought losses, but consecutive heatwaves and continued vineyard area contraction keep overall output constrained; Champagne output is expected to be nearly half of 2025 levels. Weak domestic demand from changing drinking habits and a soft economy, together with falling wine and spirits exports, are weighing on France's food trade balance. The upward revision reflected better-than-expected yields in Languedoc-Roussillon and Charente — regions that together account for about half of national production — with improvements also in Champagne and southeast France."
+    },
+    {
+      "id": "5199582",
+      "time": "2026-11-06 19:43:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【泡泡瑪特1999元聯名麻將10分鐘售罄】11月5日，泡泡瑪特與潮流品牌CLOT聯名推出的“槓上開發”麻將套裝上線。產品定價1999元，限量發售，採用亞克力麻將牌，融入CLOT絲綢紋樣與SPACE MOLLY形象，上架10分鐘後售罄。市場價格隨之走高，截至11月6日9時，得物App平臺上該款麻將最高成交價已達到2660元，漲幅超30%.（南方日報）"
+    },
+    {
+      "id": "mkt:01a1b0ab-8679-7ee0-aaae-55dab77f7a77",
+      "time": "2026-11-06 19:43:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【AI now a core driver of US equities; tech makes up nearly half of S&P 500 market cap】A sell-off this week underscored AI’s outsized market impact: concern that newly elected Democratic lawmakers could curb data center construction was enough to trigger broad declines in US equities. As of Nov. 3, since OpenAI released ChatGPT the S&P 500’s market capitalization has risen by about $32 trln, with more than half of that gain concentrated in just 10 AI-linked firms. US pension funds have roughly 44% of assets tied to the tech sector, about $6.1 trln. Non-tech industries — including power generators, turbine manufacturers and uranium miners — have increasingly linked growth narratives to the AI boom, and their share prices are moving with the wider AI supply chain."
+    },
+    {
+      "id": "5199581",
+      "time": "2026-11-06 19:42:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股晶片股盤前漲勢擴大，英偉達漲超5%，AMD漲超8%、閃迪漲超12%。"
+    },
+    {
+      "id": "mkt:01a1b0ab-0365-7ee0-aaae-4b7c21f4ffe8",
+      "time": "2026-11-06 19:42:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish",
+        "AMD.O",
+        "SNDK.O"
+      ],
+      "text": "US-listed chip stocks extended premarket gains; NVIDIA (NVDA.O) up more than 5%, AMD (AMD.O) up more than 8%, SanDisk (SNDK.O) up more than 12%."
+    },
+    {
+      "id": "te:markets:599131",
+      "time": "2026-11-06 19:42:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Humana earnings below expectations at -0.70 USD — Humana (HUM) released earnings per share at -0.70 USD, compared to market expectations of -0.20 USD."
+    },
+    {
+      "id": "5199580",
+      "time": "2026-11-06 19:42:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Lumentum控股美股盤前漲超10%】Lumentum控股美股盤前漲超10%，現報560.9美元。"
+    },
+    {
+      "id": "5199578",
+      "time": "2026-11-06 19:41:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "希臘國民在英國被控協助外國情報機構，其本人表示不認罪。"
+    },
     {
       "id": "5199577",
       "time": "2026-11-06 19:40:46",

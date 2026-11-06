@@ -1,7 +1,90 @@
 {
-  "updated": "2026-11-06 19:41:27",
-  "count": 10969,
+  "updated": "2026-11-06 19:45:23",
+  "count": 10957,
   "items": [
+    {
+      "id": "mkt:01a1b0ac-9de0-7ee0-aaae-5ce5c797a059",
+      "time": "2026-11-06 19:44:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【France raises wine output forecast but remains 10% below five-year average】France raised its wine production forecast for this year to about 36.7 million hectolitres, up from an October estimate of 35.0 million hl, the agriculture ministry said. That implies a 3% YoY increase but remains roughly 10% below the five-year average. Late-summer rain eased drought losses, but consecutive heatwaves and continued vineyard area contraction keep overall output constrained; Champagne output is expected to be nearly half of 2025 levels. Weak domestic demand from changing drinking habits and a soft economy, together with falling wine and spirits exports, are weighing on France's food trade balance. The upward revision reflected better-than-expected yields in Languedoc-Roussillon and Charente — regions that together account for about half of national production — with improvements also in Champagne and southeast France."
+    },
+    {
+      "id": "5199582",
+      "time": "2026-11-06 19:43:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【泡泡瑪特1999元聯名麻將10分鐘售罄】11月5日，泡泡瑪特與潮流品牌CLOT聯名推出的“槓上開發”麻將套裝上線。產品定價1999元，限量發售，採用亞克力麻將牌，融入CLOT絲綢紋樣與SPACE MOLLY形象，上架10分鐘後售罄。市場價格隨之走高，截至11月6日9時，得物App平臺上該款麻將最高成交價已達到2660元，漲幅超30%.（南方日報）"
+    },
+    {
+      "id": "mkt:01a1b0ab-8679-7ee0-aaae-55dab77f7a77",
+      "time": "2026-11-06 19:43:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【AI now a core driver of US equities; tech makes up nearly half of S&P 500 market cap】A sell-off this week underscored AI’s outsized market impact: concern that newly elected Democratic lawmakers could curb data center construction was enough to trigger broad declines in US equities. As of Nov. 3, since OpenAI released ChatGPT the S&P 500’s market capitalization has risen by about $32 trln, with more than half of that gain concentrated in just 10 AI-linked firms. US pension funds have roughly 44% of assets tied to the tech sector, about $6.1 trln. Non-tech industries — including power generators, turbine manufacturers and uranium miners — have increasingly linked growth narratives to the AI boom, and their share prices are moving with the wider AI supply chain."
+    },
+    {
+      "id": "5199581",
+      "time": "2026-11-06 19:42:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股晶片股盤前漲勢擴大，英偉達漲超5%，AMD漲超8%、閃迪漲超12%。"
+    },
+    {
+      "id": "mkt:01a1b0ab-0365-7ee0-aaae-4b7c21f4ffe8",
+      "time": "2026-11-06 19:42:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish",
+        "AMD.O",
+        "SNDK.O"
+      ],
+      "text": "US-listed chip stocks extended premarket gains; NVIDIA (NVDA.O) up more than 5%, AMD (AMD.O) up more than 8%, SanDisk (SNDK.O) up more than 12%."
+    },
+    {
+      "id": "te:markets:599131",
+      "time": "2026-11-06 19:42:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Humana earnings below expectations at -0.70 USD — Humana (HUM) released earnings per share at -0.70 USD, compared to market expectations of -0.20 USD."
+    },
+    {
+      "id": "5199580",
+      "time": "2026-11-06 19:42:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Lumentum控股美股盤前漲超10%】Lumentum控股美股盤前漲超10%，現報560.9美元。"
+    },
+    {
+      "id": "5199578",
+      "time": "2026-11-06 19:41:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "希臘國民在英國被控協助外國情報機構，其本人表示不認罪。"
+    },
     {
       "id": "5199577",
       "time": "2026-11-06 19:40:46",
@@ -100295,203 +100378,6 @@
         "公司"
       ],
       "text": "【華菱精工：南京新華海獲司法裁定抵償700萬股，尚未完成過戶】華菱精工公告，持股5%以上股東捷登零碳與南京新華海存在民間借貸糾紛，司法拍賣流拍後，法院裁定將捷登零碳持有的700萬股公司股份以1.18億元交付南京新華海抵償相應債權。權益變動後，南京新華海持股700萬股，佔總股本5.25%；捷登零碳持股降至66.73萬股，佔0.50%。截至公告披露日，股份尚未完成過戶。南京新華海受讓股份後6個月內不得減持。"
-    },
-    {
-      "id": "5182913",
-      "time": "2026-10-30 19:45:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上交所向*ST航圖下發監管工作函】10月30日，上交所就*ST航圖退市風險及定期報告資訊披露相關事項下發監管工作函，涉及物件為上市公司、董事、高階管理人員。"
-    },
-    {
-      "id": "5182912",
-      "time": "2026-10-30 19:45:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【蘋果美股盤前跌超2%】蘋果美股盤前跌超2%，現報341.81美元。"
-    },
-    {
-      "id": "mkt:01a18ca0-9791-7ee0-aa09-d115afb683c9",
-      "time": "2026-10-30 19:44:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iran's navy said it destroyed a US drone in the eastern Strait of Hormuz, Iranian media reported; US authorities have not confirmed."
-    },
-    {
-      "id": "mkt:01a18ca0-770d-7ee0-aa09-cc0d2787bb9c",
-      "time": "2026-10-30 19:44:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "【National Financial Regulatory Administration to cautiously reform small and mid-sized financial institutions to cut risk and improve quality; will support property and local-government debt resolution】China’s National Financial Regulatory Administration said it will cautiously advance reforms of small and mid-sized financial institutions to resolve risks, reduce scale and improve asset quality, and will actively support and coordinate efforts to address property-sector and local-government debt risks. The agency reiterated a commitment to strict, focused supervision to strengthen regulatory effectiveness. It also said it will push industry reform and transformation, require firms to tighten business, performance and risk governance, align activity with key tasks of the 15th Five-Year Plan, optimize financial resource allocation and improve the suitability of financial services."
-    },
-    {
-      "id": "5182911",
-      "time": "2026-10-30 19:44:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：董事會會議評估了經濟前景面臨的潛在風險。"
-    },
-    {
-      "id": "5182910",
-      "time": "2026-10-30 19:44:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗海軍稱在霍爾木茲海峽東部摧毀一艘美軍無人艇。"
-    },
-    {
-      "id": "mkt:01a18c9f-79fd-7ee0-aa09-c6a117cfca9d",
-      "time": "2026-10-30 19:43:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Spain's transport minister said the prime minister has not asked him to resign and that such a request would be out of character."
-    },
-    {
-      "id": "5182909",
-      "time": "2026-10-30 19:43:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：當地時間週四特朗普聽取了關於伊朗潛在軍事選項的簡報。"
-    },
-    {
-      "id": "mkt:01a18c9f-41c8-7ee0-aa09-bd7eae0c7cf6",
-      "time": "2026-10-30 19:43:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "President Trump said the US must ensure Iran never acquires nuclear weapons."
-    },
-    {
-      "id": "5182908",
-      "time": "2026-10-30 19:42:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普就伊朗問題表態：我們需要得到保證，伊朗永遠不會擁有核武器。"
-    },
-    {
-      "id": "5182907",
-      "time": "2026-10-30 19:42:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家金融監督管理總局黨委召開擴大會議傳達學習黨的二十屆五中全會精神】會議強調，全系統要堅決把思想和行動統一到習近平總書記重要講話精神和全會部署上來，深刻領悟“兩個確立”的決定性意義，增強“四個意識”、堅定“四個自信”、做到“兩個維護”，切實扛牢管黨治黨責任，以更高標準、更實舉措持之以恆推進總局系統全面從嚴治黨。要始終把黨的政治建設擺在首位，堅持黨中央對金融工作的集中統一領導。把增強黨性作為全面從嚴治黨的根本性任務，強化對黨忠誠教育，始終保持共產黨人政治本色。推進作風建設常態化長效化，圍繞“強黨性、轉作風、嚴監管、提效能”，部署開展作風最佳化提升專項行動。保持反腐敗高壓態勢，一體推進“三不腐”。深刻汲取總局系統嚴重違紀違法案件教訓，深化以案促改促治。著力加強幹部隊伍建設，貫徹新時代黨的組織路線，努力鍛造政治過硬、能力過硬、作風過硬的監管鐵軍。要以高質量黨建引領金融監管高質量發展。穩妥推進中小金融機構改革化險、減量提質，積極支援配合化解房地產和地方政府債務風險。堅持嚴監管強監管，堅守監管姓監定位，做到嚴格監管、專注監管，不斷提升監管有效性。持續推動行業改革轉型，督促機構樹牢正確的經營觀、業績觀、風險觀，引導行業圍繞“十五五”規劃綱要重點任務，最佳化金融資源配置，持續提升金融服務適配性。"
-    },
-    {
-      "id": "mkt:01a18c9e-3eda-7ee0-aa09-b3909f85026a",
-      "time": "2026-10-30 19:42:23",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "President Trump said Iran must reach an agreement."
-    },
-    {
-      "id": "mkt:01a18c9e-386a-7ee0-aa09-af996849509f",
-      "time": "2026-10-30 19:42:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Egypt buys six high-sulphur fuel oil cargoes for Nov–Dec delivery】Refinitiv: trade sources say the Egyptian state oil company bought six cargoes of high-sulphur fuel oil via tender, each about 90,000–100,000 mt, for delivery in November–December. Shipping-data firm Kpler shows Egypt's October fuel oil imports exceeded 640,000 mt, roughly flat with September and up since April; Jan–Oct imports fell to 3.94 mln mt, down from 5.95 mln mt in the same period of 2025. Egypt's LNG imports rose earlier this year and peaked in July but have slowed since August. One analyst warned the oil ministry's spending could exceed budget totals ahead of the spring–summer demand peak."
-    },
-    {
-      "id": "mkt:01a18c9e-02e6-7ee0-aa09-a0e1aa638218",
-      "time": "2026-10-30 19:42:07",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Governing Council member MAKHLOUF said he had seriously considered the possibility of an ECB rate hike this week."
-    },
-    {
-      "id": "5182906",
-      "time": "2026-10-30 19:42:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗必須達成協議。"
-    },
-    {
-      "id": "mkt:01a18c9d-c263-7ee0-aa09-9ecda3cc9fcb",
-      "time": "2026-10-30 19:41:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he did not know who to talk to and that many Iranian leaders are no longer there."
-    },
-    {
-      "id": "mkt:01a18c9d-9b82-7ee0-aa09-96c31b61bdee",
-      "time": "2026-10-30 19:41:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "ECB Governing Council member Makhlouf said upside risks remain and the ECB must remain vigilant."
-    },
-    {
-      "id": "mkt:01a18c9d-815f-7ee0-aa09-8b65eb8ad0e0",
-      "time": "2026-10-30 19:41:34",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "ECB Governing Council member MAKHLOUF said the current inf backdrop is worrying."
-    },
-    {
-      "id": "5182905",
-      "time": "2026-10-30 19:41:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委馬赫盧夫：我認真考慮了本週歐洲央行加息的可能性。"
-    },
-    {
-      "id": "mkt:01a18c9d-6dc7-7ee0-aa09-819fa4a94653",
-      "time": "2026-10-30 19:41:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "CENTCOM said this week it reached a milestone in assisting Gulf oil exports."
     }
   ]
 }
