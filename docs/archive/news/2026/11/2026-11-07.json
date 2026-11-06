@@ -1,7 +1,236 @@
 {
   "date": "2026-11-07",
-  "count": 177,
+  "count": 197,
   "items": [
+    {
+      "id": "mkt:01a1b20c-76dd-7ee0-aaba-0a892dbc34dd",
+      "time": "2026-11-07 02:08:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DALY: Businesses remain cautiously optimistic about the outlook."
+    },
+    {
+      "id": "5200113",
+      "time": "2026-11-07 02:08:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：企業對前景持謹慎樂觀態度。"
+    },
+    {
+      "id": "mkt:01a1b20c-3d48-7ee0-aaba-026787062e8f",
+      "time": "2026-11-07 02:08:28",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "DALY said firms want inf to ease."
+    },
+    {
+      "id": "mkt:01a1b20c-1e0e-7ee0-aab9-fd01f5ad8e40",
+      "time": "2026-11-07 02:08:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's Daly said she is not worried that growth will sharply slow."
+    },
+    {
+      "id": "5200112",
+      "time": "2026-11-07 02:08:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：如果人工智慧相關資產重新定價預示需求放緩，可能會看到經濟增長略有回落。不擔心增長會大幅下滑。企業希望通脹下降。"
+    },
+    {
+      "id": "mkt:01a1b20b-fc57-7ee0-aab9-f3b067b5717d",
+      "time": "2026-11-07 02:08:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "DALY said if AI-driven repricing signals weaker demand, economic growth could ease slightly."
+    },
+    {
+      "id": "mkt:01a1b20b-9f51-7ee0-aab9-ef150c9c8eef",
+      "time": "2026-11-07 02:07:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Daly said AI-driven repricing trades have proceeded in an orderly fashion so far."
+    },
+    {
+      "id": "5200111",
+      "time": "2026-11-07 02:07:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：人工智慧相關交易的重定價迄今有序進行。"
+    },
+    {
+      "id": "mkt:01a1b20b-69ef-7ee0-aab9-e1120af54ac6",
+      "time": "2026-11-07 02:07:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Daly says prepared to raise rates if necessary."
+    },
+    {
+      "id": "mkt:01a1b20b-217e-7ee0-aab9-db2784c1bc21",
+      "time": "2026-11-07 02:07:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Daly said more information is needed to determine how much further to tighten policy and when to do so."
+    },
+    {
+      "id": "mkt:01a1b20b-1366-7ee0-aab9-d3303d6070ca",
+      "time": "2026-11-07 02:07:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DALY said policymakers need to act cautiously."
+    },
+    {
+      "id": "5200110",
+      "time": "2026-11-07 02:06:51",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲戴利：需要保持審慎。如有需要，準備加息。"
+    },
+    {
+      "id": "5200109",
+      "time": "2026-11-07 02:06:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：還需收緊多少以及何時收緊，需要更多資訊。"
+    },
+    {
+      "id": "mkt:01a1b20a-676e-7ee0-aab9-c8894f575248",
+      "time": "2026-11-07 02:06:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Daly: Fed will have to tighten policy further."
+    },
+    {
+      "id": "5200108",
+      "time": "2026-11-07 02:06:26",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲戴利：預計我們將不得不進一步收緊政策。"
+    },
+    {
+      "id": "5200107",
+      "time": "2026-11-07 02:06:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：關稅、戰爭和人工智慧方面存在不確定性，但通脹比希望看到的更為頑固。"
+    },
+    {
+      "id": "mkt:01a1b20a-278c-7ee0-aab9-c3a4fe321234",
+      "time": "2026-11-07 02:06:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "DALY: tariffs, war and AI add uncertainty, but inf is proving more persistent than expected."
+    },
+    {
+      "id": "mkt:01a1b20a-1d9d-7ee0-aab9-bb845177f43c",
+      "time": "2026-11-07 02:06:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "DALY: Strong labor market gives the Fed room to complete its task of curbing inf."
+    },
+    {
+      "id": "5200106",
+      "time": "2026-11-07 02:06:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：通脹必須成為頭號優先事項。"
+    },
+    {
+      "id": "mkt:01a1b20a-077c-7ee0-aab9-b503f697378b",
+      "time": "2026-11-07 02:06:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "DALY said a September rate hike was the right move and that holding policy at the prior meeting was also appropriate."
+    },
     {
       "id": "5200105",
       "time": "2026-11-07 02:05:54",

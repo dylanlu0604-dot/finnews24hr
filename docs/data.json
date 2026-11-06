@@ -1,7 +1,236 @@
 {
-  "updated": "2026-11-07 02:06:21",
-  "count": 10644,
+  "updated": "2026-11-07 02:10:09",
+  "count": 10659,
   "items": [
+    {
+      "id": "mkt:01a1b20c-76dd-7ee0-aaba-0a892dbc34dd",
+      "time": "2026-11-07 02:08:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DALY: Businesses remain cautiously optimistic about the outlook."
+    },
+    {
+      "id": "5200113",
+      "time": "2026-11-07 02:08:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：企業對前景持謹慎樂觀態度。"
+    },
+    {
+      "id": "mkt:01a1b20c-3d48-7ee0-aaba-026787062e8f",
+      "time": "2026-11-07 02:08:28",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "DALY said firms want inf to ease."
+    },
+    {
+      "id": "mkt:01a1b20c-1e0e-7ee0-aab9-fd01f5ad8e40",
+      "time": "2026-11-07 02:08:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's Daly said she is not worried that growth will sharply slow."
+    },
+    {
+      "id": "5200112",
+      "time": "2026-11-07 02:08:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：如果人工智慧相關資產重新定價預示需求放緩，可能會看到經濟增長略有回落。不擔心增長會大幅下滑。企業希望通脹下降。"
+    },
+    {
+      "id": "mkt:01a1b20b-fc57-7ee0-aab9-f3b067b5717d",
+      "time": "2026-11-07 02:08:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "DALY said if AI-driven repricing signals weaker demand, economic growth could ease slightly."
+    },
+    {
+      "id": "mkt:01a1b20b-9f51-7ee0-aab9-ef150c9c8eef",
+      "time": "2026-11-07 02:07:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Daly said AI-driven repricing trades have proceeded in an orderly fashion so far."
+    },
+    {
+      "id": "5200111",
+      "time": "2026-11-07 02:07:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：人工智慧相關交易的重定價迄今有序進行。"
+    },
+    {
+      "id": "mkt:01a1b20b-69ef-7ee0-aab9-e1120af54ac6",
+      "time": "2026-11-07 02:07:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Daly says prepared to raise rates if necessary."
+    },
+    {
+      "id": "mkt:01a1b20b-217e-7ee0-aab9-db2784c1bc21",
+      "time": "2026-11-07 02:07:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Daly said more information is needed to determine how much further to tighten policy and when to do so."
+    },
+    {
+      "id": "mkt:01a1b20b-1366-7ee0-aab9-d3303d6070ca",
+      "time": "2026-11-07 02:07:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DALY said policymakers need to act cautiously."
+    },
+    {
+      "id": "5200110",
+      "time": "2026-11-07 02:06:51",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲戴利：需要保持審慎。如有需要，準備加息。"
+    },
+    {
+      "id": "5200109",
+      "time": "2026-11-07 02:06:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：還需收緊多少以及何時收緊，需要更多資訊。"
+    },
+    {
+      "id": "mkt:01a1b20a-676e-7ee0-aab9-c8894f575248",
+      "time": "2026-11-07 02:06:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Daly: Fed will have to tighten policy further."
+    },
+    {
+      "id": "5200108",
+      "time": "2026-11-07 02:06:26",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲戴利：預計我們將不得不進一步收緊政策。"
+    },
+    {
+      "id": "5200107",
+      "time": "2026-11-07 02:06:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：關稅、戰爭和人工智慧方面存在不確定性，但通脹比希望看到的更為頑固。"
+    },
+    {
+      "id": "mkt:01a1b20a-278c-7ee0-aab9-c3a4fe321234",
+      "time": "2026-11-07 02:06:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "DALY: tariffs, war and AI add uncertainty, but inf is proving more persistent than expected."
+    },
+    {
+      "id": "mkt:01a1b20a-1d9d-7ee0-aab9-bb845177f43c",
+      "time": "2026-11-07 02:06:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "DALY: Strong labor market gives the Fed room to complete its task of curbing inf."
+    },
+    {
+      "id": "5200106",
+      "time": "2026-11-07 02:06:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：通脹必須成為頭號優先事項。"
+    },
+    {
+      "id": "mkt:01a1b20a-077c-7ee0-aab9-b503f697378b",
+      "time": "2026-11-07 02:06:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "DALY said a September rate hike was the right move and that holding policy at the prior meeting was also appropriate."
+    },
     {
       "id": "5200105",
       "time": "2026-11-07 02:05:54",
@@ -97409,60 +97638,6 @@
         "國際"
       ],
       "text": "俄羅斯正考慮對液化石油氣（LPG）出口徵收禁止性關稅。"
-    },
-    {
-      "id": "mkt:01a18e01-2828-7ee0-aa13-999e3c977ee1",
-      "time": "2026-10-31 02:10:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Russia says talks prep not a pledge to curb military operations】RIA on Oct. 30 quoted Kremlin spokesman Dmitry Peskov saying preparations for Russia–U.S.–Ukraine trilateral talks are underway but do not constitute a Russian pledge to limit military operations. Peskov said Moscow opposes ceasefires that would give Ukraine a “breathing space,” is retaliating for Ukrainian strikes on Russian refineries but will not raise that issue in talks, and that the aim of the special military operation is to deprive Ukraine of the ability to carry out attacks. Kremlin aide Yury Ushakov said on Oct. 30 the talks, mediated by the U.S., are planned and could take place in mid‑November in Abu Dhabi."
-    },
-    {
-      "id": "te:markets:596949",
-      "time": "2026-10-31 02:08:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Tech Selloff Drags Wall Street Lower — US stock indices slumped on Friday amid a major selloff in technology shares. The S&P 500 fell 2%, the Nasdaq tumbled about 4%, and the Dow lost more than 500 points following disappointing tech earnings. Intel plunged more than 30% after issuing weaker-than-expected guidance. Amazon fell 1.7% after reporting results that missed expectations and announcing higher capital spending. Signs of a slowdown in AI-related business growth have sharpened scrutiny of the durability of AI demand and whether the huge sums being invested in the technology will generate sufficient returns. Among chipmakers, AMD slumped 12%, Broadcom shed 6.5%, and Micron tumbled 7%. Among hyperscalers, Alphabet extended losses by 2% after a slump of 12.6%. Elsewhere, ExxonMobil gained 1% and Chevron advanced 1.5% as both topped third-quarter forecasts. For the week, the S&P 500 fell 1%, the Nasdaq shed 3%, and the Dow lost 500 points. For the month, the S&P 500 declined 1%, the Nasdaq lost 7%, while the Dow added 2%."
-    },
-    {
-      "id": "mkt:01a18dfe-3502-7ee0-aa13-953789d5e4e1",
-      "time": "2026-10-31 02:06:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA said the substation had been included in the assessment scope, but the assessment team was unable to carry out an on-site visit due to local security conditions."
-    },
-    {
-      "id": "5183520",
-      "time": "2026-10-31 02:06:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄方：籌備三方會談不代表俄“承諾限制軍事行動”】據俄新社30日報道，俄羅斯總統新聞秘書佩斯科夫當天對俄媒表示，俄美烏三方會談籌備工作仍在推進，但籌備會談不意味著俄方“承諾限制軍事行動”。佩斯科夫說，俄方一貫反對會使烏克蘭獲得“喘息機會”的停火。他表示，俄方正在對烏方襲擊俄煉油廠加以反制，但不會在會談中提出這一問題。“俄開展特別軍事行動的目標，是使烏克蘭喪失發動襲擊的能力。”俄副總理諾瓦克30日說，烏克蘭當天襲擊俄3家煉油廠和一座天然氣化工綜合設施，俄防空系統總體發揮作用，一座煉油廠輕微受損。同天，俄總統助理烏沙科夫說，美國總統特朗普在要求烏軍停止襲擊俄煉油廠問題上態度堅定，但烏方未聽從。此前，俄總統普京在同美國總統特使威特科夫會晤時確認，俄方準備恢復俄美烏三方會談。烏沙科夫30日說，俄方計劃在美國斡旋下同烏方舉行會談，會談可能於11月中旬在阿聯酋阿布扎比舉行。佩斯科夫同日表示，歐洲方面可能在三方會談的某一階段參與進來。（新華社）"
-    },
-    {
-      "id": "mkt:01a18dfd-f199-7ee0-aa13-8a760e719c5b",
-      "time": "2026-10-31 02:06:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "IAEA said it was informed that the Slavutych substation had been attacked and that all its 330 kV transmission lines were reportedly out of service."
     }
   ]
 }
