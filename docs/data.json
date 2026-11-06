@@ -1,7 +1,100 @@
 {
-  "updated": "2026-11-07 02:30:03",
-  "count": 10664,
+  "updated": "2026-11-07 02:33:52",
+  "count": 10665,
   "items": [
+    {
+      "id": "5200130",
+      "time": "2026-11-07 02:33:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克預計SpaceX第四季度營收較第三季度增長“約70%”。"
+    },
+    {
+      "id": "mkt:01a1b222-05cc-7ee0-aaba-927c8d48acf3",
+      "time": "2026-11-07 02:32:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "White House Council of Economic Advisers chair said they do not at all believe the U.S. will enter a recession."
+    },
+    {
+      "id": "mkt:01a1b221-2e03-7ee0-aaba-8b12b6ee3825",
+      "time": "2026-11-07 02:31:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 night-session close, Shanghai gold main contract fell 0.53% to 875 yuan/gram; Shanghai silver main contract fell 0.41% to 12,523 yuan/kg; SC crude oil main contract rose 0.36% to 639 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a1b221-12b7-7ee0-aaba-85ce6a3094e2",
+      "time": "2026-11-07 02:31:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House Council of Economic Advisers Chair Feilan said bipartisan legislation may be needed in the next two years."
+    },
+    {
+      "id": "5200129",
+      "time": "2026-11-07 02:31:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問委員會主席費蘭：我完全不認為會出現經濟衰退。"
+    },
+    {
+      "id": "mkt:01a1b220-d96f-7ee0-aaba-78a157dd41ba",
+      "time": "2026-11-07 02:30:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed up 0.05% at 872.5 yuan/gram in the Nov 6 evening session; Silver T+D closed up 0.23% at 12,444.0 yuan/kg."
+    },
+    {
+      "id": "te:markets:599257",
+      "time": "2026-11-07 02:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 1.67% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -1.67% decrease."
+    },
+    {
+      "id": "5200128",
+      "time": "2026-11-07 02:30:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問委員會主席費蘭：未來兩年可能需要兩黨共同立法。"
+    },
+    {
+      "id": "5200127",
+      "time": "2026-11-07 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲0.33%，報633.90元人民幣/桶。滬金夜盤收跌0.53%，滬銀收跌0.41%。"
+    },
     {
       "id": "5200126",
       "time": "2026-11-07 02:29:10",
@@ -97633,93 +97726,6 @@
         "MKT News"
       ],
       "text": "【Blackstone trims expectations for ANTHROPIC rating; supplier credit guarantees gain importance】Blackstone told investors ANTHROPIC may not secure an investment‑grade rating immediately after an IPO and is now seen as more likely to receive double‑B or higher (sub‑investment‑grade) rather than the investment‑grade rating it had expected by year‑end. Because some insurers and pension funds are barred from holding high‑yield debt, ANTHROPIC’s access to broad institutional buyers could be constrained, increasing reliance on high‑rated suppliers to provide credit guarantees for its debt financing."
-    },
-    {
-      "id": "5183538",
-      "time": "2026-10-31 02:33:33",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨<Clc1>結算價創下9月15日以來最高收盤水平。"
-    },
-    {
-      "id": "mkt:01a18e15-a6b2-7ee0-aa13-dd0919f072fa",
-      "time": "2026-10-31 02:32:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude oil futures settlement hit its highest closing level since Sept. 15."
-    },
-    {
-      "id": "mkt:01a18e14-fff1-7ee0-aa13-d3f4ac124d75",
-      "time": "2026-10-31 02:31:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude oil futures settled at $104.12/bbl, up $2.12 or 2.08%."
-    },
-    {
-      "id": "mkt:01a18e14-9b05-7ee0-aa13-c8c6e8288dfd",
-      "time": "2026-10-31 02:31:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Night session main contracts close】At the 02:30 close, Shanghai gold main contract fell 3.51% to 832 yuan/gram, Shanghai silver main contract fell 6.80% to 11,532 yuan/kg, and SC crude oil main contract rose 4.25% to 759 yuan/barrel."
-    },
-    {
-      "id": "5183537",
-      "time": "2026-10-31 02:31:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 12月原油期貨收報104.12美元/桶。NYMEX 11月汽油期貨收報3.3120美元/加侖，NYMEX 11月取暖油期貨收報4.7905美元/加侖。"
-    },
-    {
-      "id": "mkt:01a18e13-ddcc-7ee0-aa13-c331dedb6f33",
-      "time": "2026-10-31 02:30:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pakistan military says cautiously optimistic about mediating US‑Iran de‑escalation】Spokesman Lt. Gen. Ahmed Sharif Chaudhry said on Friday Pakistan is \"cautiously optimistic\" about mediating a US‑Iran de‑escalation, noting Army chief General Munir visited Tehran twice this month, most recently on Monday accompanied by Saudi Defense Minister Khalid bin Salman and Turkish intelligence chief Ibrahim Kalin. Chaudhry said the repeat trips indicate some positive progress but warned powerful spoilers remain and declined to disclose meeting details or whether the US supported the visit. He said defence agreements among Pakistan, Saudi Arabia and Turkey do not preclude new members; Iran could be welcomed if it endorses collective deterrence and regional peace, but any admission would require political sign‑off by the three governments. Pakistan reaffirmed it will honour commitments to defend Saudi Arabia and the holy sites of Mecca and Medina, but said any additional troop deployments under the pact would depend on the situation and political leadership. He added Pakistan is not a party to the Yemen conflict and views it as an internal matter."
-    },
-    {
-      "id": "mkt:01a18e13-bc23-7ee0-aa13-bea74d1ef658",
-      "time": "2026-10-31 02:30:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed down 3.11% at 831.1 yuan/gram in Friday's evening session; silver T+D fell 5.76% to 11,503.0 yuan/kg."
-    },
-    {
-      "id": "te:markets:596956",
-      "time": "2026-10-31 02:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Depreciates by 1.33% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a -1.33% decrease."
     }
   ]
 }

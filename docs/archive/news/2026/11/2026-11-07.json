@@ -1,7 +1,100 @@
 {
   "date": "2026-11-07",
-  "count": 227,
+  "count": 236,
   "items": [
+    {
+      "id": "5200130",
+      "time": "2026-11-07 02:33:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克預計SpaceX第四季度營收較第三季度增長“約70%”。"
+    },
+    {
+      "id": "mkt:01a1b222-05cc-7ee0-aaba-927c8d48acf3",
+      "time": "2026-11-07 02:32:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "White House Council of Economic Advisers chair said they do not at all believe the U.S. will enter a recession."
+    },
+    {
+      "id": "mkt:01a1b221-2e03-7ee0-aaba-8b12b6ee3825",
+      "time": "2026-11-07 02:31:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 night-session close, Shanghai gold main contract fell 0.53% to 875 yuan/gram; Shanghai silver main contract fell 0.41% to 12,523 yuan/kg; SC crude oil main contract rose 0.36% to 639 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a1b221-12b7-7ee0-aaba-85ce6a3094e2",
+      "time": "2026-11-07 02:31:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House Council of Economic Advisers Chair Feilan said bipartisan legislation may be needed in the next two years."
+    },
+    {
+      "id": "5200129",
+      "time": "2026-11-07 02:31:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問委員會主席費蘭：我完全不認為會出現經濟衰退。"
+    },
+    {
+      "id": "mkt:01a1b220-d96f-7ee0-aaba-78a157dd41ba",
+      "time": "2026-11-07 02:30:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed up 0.05% at 872.5 yuan/gram in the Nov 6 evening session; Silver T+D closed up 0.23% at 12,444.0 yuan/kg."
+    },
+    {
+      "id": "te:markets:599257",
+      "time": "2026-11-07 02:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 1.67% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -1.67% decrease."
+    },
+    {
+      "id": "5200128",
+      "time": "2026-11-07 02:30:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問委員會主席費蘭：未來兩年可能需要兩黨共同立法。"
+    },
+    {
+      "id": "5200127",
+      "time": "2026-11-07 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲0.33%，報633.90元人民幣/桶。滬金夜盤收跌0.53%，滬銀收跌0.41%。"
+    },
     {
       "id": "5200126",
       "time": "2026-11-07 02:29:10",
