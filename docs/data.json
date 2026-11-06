@@ -1,7 +1,177 @@
 {
-  "updated": "2026-11-07 02:02:30",
-  "count": 10631,
+  "updated": "2026-11-07 02:06:21",
+  "count": 10644,
   "items": [
+    {
+      "id": "5200105",
+      "time": "2026-11-07 02:05:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：9月加息是正確之舉，上次會議按兵不動也是合適的選擇。"
+    },
+    {
+      "id": "5200104",
+      "time": "2026-11-07 02:05:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：強勁的勞動力市場讓美聯儲有空間完成遏制通脹的任務。"
+    },
+    {
+      "id": "mkt:01a1b209-8228-7ee0-aab9-acff7ccc907e",
+      "time": "2026-11-07 02:05:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "DALY: inflation must be the top priority."
+    },
+    {
+      "id": "5200103",
+      "time": "2026-11-07 02:05:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：通脹居高不下的時間已經過長，人們正感受到這一負擔。"
+    },
+    {
+      "id": "mkt:01a1b209-3f92-7ee0-aab9-a7bedae197c8",
+      "time": "2026-11-07 02:05:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "DALY: High inflation has persisted too long."
+    },
+    {
+      "id": "5200102",
+      "time": "2026-11-07 02:05:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：希望自己對通脹的信心能更高一些。"
+    },
+    {
+      "id": "mkt:01a1b209-0569-7ee0-aab9-9fdfab6458cc",
+      "time": "2026-11-07 02:04:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "DALY says she is hopeful about the US labor market."
+    },
+    {
+      "id": "mkt:01a1b208-ff6f-7ee0-aab9-9504e3fe4cac",
+      "time": "2026-11-07 02:04:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DALY said on inflation she hopes confidence could be higher."
+    },
+    {
+      "id": "mkt:01a1b208-d2d9-7ee0-aab9-8f6e94918e57",
+      "time": "2026-11-07 02:04:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Governor Daly said wage growth has not increased substantially; real wages are falling."
+    },
+    {
+      "id": "5200101",
+      "time": "2026-11-07 02:04:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：想到美國勞動力市場時感到樂觀。"
+    },
+    {
+      "id": "mkt:01a1b208-99df-7ee0-aab9-840983898855",
+      "time": "2026-11-07 02:04:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Daly said the jobs report is good news."
+    },
+    {
+      "id": "5200100",
+      "time": "2026-11-07 02:04:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：實際工資正在下降。"
+    },
+    {
+      "id": "5200099",
+      "time": "2026-11-07 02:04:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：薪資增長並未大幅上升。"
+    },
+    {
+      "id": "5200098",
+      "time": "2026-11-07 02:03:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：對工薪階層而言，就業報告是好訊息。"
+    },
+    {
+      "id": "5200097",
+      "time": "2026-11-07 02:03:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：向Muse應用推出多款專用人工智慧模型。"
+    },
+    {
+      "id": "5200096",
+      "time": "2026-11-07 02:03:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta在Muse應用中推出Spaces功能。"
+    },
+    {
+      "id": "5200095",
+      "time": "2026-11-07 02:03:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏方澄清：布達諾夫將出席烏美俄談判，不擔任代表團團長】11月6日，烏克蘭總統新聞事務顧問利特溫稱，烏總統辦公室主任布達諾夫將出席11月10日至11日在阿聯酋阿布扎比舉行的烏美俄三方談判，但不會出任烏克蘭代表團團長。利特溫表示，布達諾夫此前只是確認將隨烏代表團赴阿布扎比，並未表態自己擔任團長。他同時透露，烏方談判團隊成員正全力籌備本次會談，6日當天各方已就相關籌備事宜開展多輪溝通。（央視）"
+    },
     {
       "id": "mkt:01a1b206-6dd8-7ee0-aab9-7d1f18b4f1ab",
       "time": "2026-11-07 02:02:08",
@@ -97293,44 +97463,6 @@
         "S&P500"
       ],
       "text": "IAEA said it was informed that the Slavutych substation had been attacked and that all its 330 kV transmission lines were reportedly out of service."
-    },
-    {
-      "id": "mkt:01a18dfd-88a9-7ee0-aa13-81b9cd2e596c",
-      "time": "2026-10-31 02:06:05",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "IAEA said it has recently completed assessments of 19 nuclear safety-critical substations in Ukraine."
-    },
-    {
-      "id": "5183519",
-      "time": "2026-10-31 02:05:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際原子能機構總幹事格羅西表示，國際原子能機構已完成對烏克蘭核安全至關重要的19座變電站的考察任務，而在考察結束數日前，該機構才獲悉其中一座經團隊評估的變電站遭到襲擊。10月27日，國際原子能機構獲悉斯拉武蒂奇變電站遭到襲擊，據報道該站所有330千伏線路均失電。該變電站屬於國際原子能機構自2024年9月以來第九次此類考察任務中評估的設施之一，但當地安全形勢導致團隊未能前往該站實地檢視。"
-    },
-    {
-      "id": "5183518",
-      "time": "2026-10-31 02:03:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【納斯達克100指數跌幅擴大至4% 費城半導體指數跌8.7%】納斯達克100指數跌幅擴大至4%，重新整理日低。費城半導體指數跌8.7%，英特爾現跌30.8%，閃迪跌15%，AMD、高通、ARM跌12%，希捷科技跌超9%，西部資料、應用材料跌超8%，Cerebras、阿斯麥、拉姆研究跌超7%，臺積電、博通跌超6%。"
-    },
-    {
-      "id": "5183517",
-      "time": "2026-10-31 02:03:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守49美元/盎司，日內跌6.51%。"
     }
   ]
 }

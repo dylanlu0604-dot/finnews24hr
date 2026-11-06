@@ -1,7 +1,177 @@
 {
   "date": "2026-11-07",
-  "count": 160,
+  "count": 177,
   "items": [
+    {
+      "id": "5200105",
+      "time": "2026-11-07 02:05:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：9月加息是正確之舉，上次會議按兵不動也是合適的選擇。"
+    },
+    {
+      "id": "5200104",
+      "time": "2026-11-07 02:05:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：強勁的勞動力市場讓美聯儲有空間完成遏制通脹的任務。"
+    },
+    {
+      "id": "mkt:01a1b209-8228-7ee0-aab9-acff7ccc907e",
+      "time": "2026-11-07 02:05:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "DALY: inflation must be the top priority."
+    },
+    {
+      "id": "5200103",
+      "time": "2026-11-07 02:05:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：通脹居高不下的時間已經過長，人們正感受到這一負擔。"
+    },
+    {
+      "id": "mkt:01a1b209-3f92-7ee0-aab9-a7bedae197c8",
+      "time": "2026-11-07 02:05:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "DALY: High inflation has persisted too long."
+    },
+    {
+      "id": "5200102",
+      "time": "2026-11-07 02:05:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：希望自己對通脹的信心能更高一些。"
+    },
+    {
+      "id": "mkt:01a1b209-0569-7ee0-aab9-9fdfab6458cc",
+      "time": "2026-11-07 02:04:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "DALY says she is hopeful about the US labor market."
+    },
+    {
+      "id": "mkt:01a1b208-ff6f-7ee0-aab9-9504e3fe4cac",
+      "time": "2026-11-07 02:04:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DALY said on inflation she hopes confidence could be higher."
+    },
+    {
+      "id": "mkt:01a1b208-d2d9-7ee0-aab9-8f6e94918e57",
+      "time": "2026-11-07 02:04:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Governor Daly said wage growth has not increased substantially; real wages are falling."
+    },
+    {
+      "id": "5200101",
+      "time": "2026-11-07 02:04:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：想到美國勞動力市場時感到樂觀。"
+    },
+    {
+      "id": "mkt:01a1b208-99df-7ee0-aab9-840983898855",
+      "time": "2026-11-07 02:04:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Daly said the jobs report is good news."
+    },
+    {
+      "id": "5200100",
+      "time": "2026-11-07 02:04:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：實際工資正在下降。"
+    },
+    {
+      "id": "5200099",
+      "time": "2026-11-07 02:04:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：薪資增長並未大幅上升。"
+    },
+    {
+      "id": "5200098",
+      "time": "2026-11-07 02:03:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：對工薪階層而言，就業報告是好訊息。"
+    },
+    {
+      "id": "5200097",
+      "time": "2026-11-07 02:03:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：向Muse應用推出多款專用人工智慧模型。"
+    },
+    {
+      "id": "5200096",
+      "time": "2026-11-07 02:03:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta在Muse應用中推出Spaces功能。"
+    },
+    {
+      "id": "5200095",
+      "time": "2026-11-07 02:03:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏方澄清：布達諾夫將出席烏美俄談判，不擔任代表團團長】11月6日，烏克蘭總統新聞事務顧問利特溫稱，烏總統辦公室主任布達諾夫將出席11月10日至11日在阿聯酋阿布扎比舉行的烏美俄三方談判，但不會出任烏克蘭代表團團長。利特溫表示，布達諾夫此前只是確認將隨烏代表團赴阿布扎比，並未表態自己擔任團長。他同時透露，烏方談判團隊成員正全力籌備本次會談，6日當天各方已就相關籌備事宜開展多輪溝通。（央視）"
+    },
     {
       "id": "mkt:01a1b206-6dd8-7ee0-aab9-7d1f18b4f1ab",
       "time": "2026-11-07 02:02:08",
