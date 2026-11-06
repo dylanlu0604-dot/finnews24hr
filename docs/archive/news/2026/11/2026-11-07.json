@@ -1,7 +1,35 @@
 {
   "date": "2026-11-07",
-  "count": 205,
+  "count": 208,
   "items": [
+    {
+      "id": "mkt:01a1b213-c6e9-7ee0-aaba-359e74bfa2da",
+      "time": "2026-11-07 02:16:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $150 mln from one counterparty in fixed-rate reverse repo operations."
+    },
+    {
+      "id": "5200119",
+      "time": "2026-11-07 02:16:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週五（11月6日），美聯儲隔夜逆回購協議（RRP）使用規模為1.5億美元，上個交易日報1.25億美元。"
+    },
+    {
+      "id": "5200118",
+      "time": "2026-11-07 02:14:33",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "花旗：下調0-3個月LME銅期貨價格至13300美元/噸，之前預計為14500美元。"
+    },
     {
       "id": "mkt:01a1b210-b38d-7ee0-aaba-2b180b0fcb02",
       "time": "2026-11-07 02:13:21",
