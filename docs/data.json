@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-07 06:35:15",
-  "count": 10645,
+  "updated": "2026-11-07 06:39:11",
+  "count": 10646,
   "items": [
+    {
+      "id": "te:markets:599276",
+      "time": "2026-11-07 06:35:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Rises by 2.07% — Top commodity gainers are Lithium Carbonate (2.07%) and Platinum (0.96%). Biggest losers are Silicon (-0.76%), Iron Ore CNY (-0.51%) and Gold (-0.42%)."
+    },
     {
       "id": "te:markets:599275",
       "time": "2026-11-07 06:30:09",
