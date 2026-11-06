@@ -1,7 +1,27 @@
 {
   "date": "2026-11-07",
-  "count": 250,
+  "count": 252,
   "items": [
+    {
+      "id": "5200138",
+      "time": "2026-11-07 02:47:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌收購Crusoe位於懷俄明州的資料中心選址。"
+    },
+    {
+      "id": "te:economy:599259",
+      "time": "2026-11-07 02:45:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Brazil Trade Surplus Hits Six-Month High — Brazil’s trade surplus rose 39.4% year on year to $9.32 billion in October 2026, beating forecasts of $9 billion and reaching a six-month high. Exports grew 20% to $37.81 billion. Agricultural exports rose 12.8%, led by live animals (212.1%), rye, oats and other unmilled cereals (12,208.8%), and soybeans (8.9%). Extractive-industry exports surged 53.5%, driven by nickel ores (103.1%), precious-metal ores (900.6%), and crude petroleum oils (122.6%). Manufacturing exports rose 7.7% on stronger soybean meal and animal feed (39.1%), pulp (25.8%), and fuel oils (164.5%). Imports grew 14.8% to $28.49 billion, with agricultural purchases up 10.1%, extractive-industry imports up 51.4%, and manufacturing purchases up 13.1%."
+    },
     {
       "id": "mkt:01a1b22d-a5d6-7ee0-aaba-c6285f4c7cc4",
       "time": "2026-11-07 02:44:58",

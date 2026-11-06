@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-07 02:45:48",
-  "count": 10667,
+  "updated": "2026-11-07 02:49:39",
+  "count": 10664,
   "items": [
+    {
+      "id": "5200138",
+      "time": "2026-11-07 02:47:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌收購Crusoe位於懷俄明州的資料中心選址。"
+    },
+    {
+      "id": "te:economy:599259",
+      "time": "2026-11-07 02:45:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Brazil Trade Surplus Hits Six-Month High — Brazil’s trade surplus rose 39.4% year on year to $9.32 billion in October 2026, beating forecasts of $9 billion and reaching a six-month high. Exports grew 20% to $37.81 billion. Agricultural exports rose 12.8%, led by live animals (212.1%), rye, oats and other unmilled cereals (12,208.8%), and soybeans (8.9%). Extractive-industry exports surged 53.5%, driven by nickel ores (103.1%), precious-metal ores (900.6%), and crude petroleum oils (122.6%). Manufacturing exports rose 7.7% on stronger soybean meal and animal feed (39.1%), pulp (25.8%), and fuel oils (164.5%). Imports grew 14.8% to $28.49 billion, with agricultural purchases up 10.1%, extractive-industry imports up 51.4%, and manufacturing purchases up 13.1%."
+    },
     {
       "id": "mkt:01a1b22d-a5d6-7ee0-aaba-c6285f4c7cc4",
       "time": "2026-11-07 02:44:58",
@@ -97724,46 +97744,6 @@
         "國際"
       ],
       "text": "【倫敦股市30日上漲】英國倫敦股市《金融時報》100種股票平均價格指數30日報收於10729.78點，較前一交易日上漲7.71點，漲幅為0.07%。歐洲三大股指當天漲跌不一。當天倫敦股市成分股中位於漲幅前五位的個股分別為：阿斯利康製藥公司股價上漲6.96%，英國電信集團股價上漲6.71%，可口可樂歐洲太平洋合作伙伴公司股價上漲3.28%，酒業公司帝亞吉歐股價上漲3.26%，出版集團勵訊股價上漲2.64%。當天倫敦股市成分股中位於跌幅前五位的個股分別為：國民威斯敏斯特銀行集團股價下跌8.75%，資訊科技服務公司康普塔森特股價下跌6.03%，極地資本科技信託公司股價下跌5.95%，電信運營商非洲電信公司股價下跌5.54%，獅子金融集團有限公司股價下跌5.42%。歐洲其他兩大主要股指方面，法國巴黎股市CAC40指數報收於7969.42點，較前一交易日下跌0.58點，跌幅為0.01%；德國法蘭克福股市DAX指數報收於25818.21點，較前一交易日下跌221.47點，跌幅為0.85%。（新華社）"
-    },
-    {
-      "id": "5183554",
-      "time": "2026-10-31 02:49:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨 <LCOc1> 結算價創下4月29日以來最高收盤水平。"
-    },
-    {
-      "id": "5183553",
-      "time": "2026-10-31 02:47:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨結算價報每桶117.64美元，上漲2.76美元，漲幅2.4%。"
-    },
-    {
-      "id": "5183552",
-      "time": "2026-10-31 02:47:28",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "墨西哥財政部長：我們在財政趨同方面正按計劃推進，這是在回答有關赤字的問題時所說的。"
-    },
-    {
-      "id": "5183551",
-      "time": "2026-10-31 02:46:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西稱，墨西哥將對巴西禽類產品的進口禁令範圍從全國縮小至聖卡塔琳娜州。"
-    },
-    {
-      "id": "5183550",
-      "time": "2026-10-31 02:46:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門軍方發言人表示：“針對機場的襲擊暴露出解除封鎖的說法與對葉門民眾的實際做法之間的矛盾。”"
     }
   ]
 }
