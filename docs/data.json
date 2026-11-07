@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-08 00:03:29",
-  "count": 10793,
+  "updated": "2026-11-08 00:08:31",
+  "count": 10789,
   "items": [
+    {
+      "id": "5200961",
+      "time": "2026-11-08 00:04:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱沙特空襲致死人數升至22人】葉門胡塞武裝控制的馬西拉電視臺7日援引當地醫療部門負責人的訊息報道稱，葉門首都薩那附近一座村莊當天遭沙烏地阿拉伯空襲造成的死亡人數已升至22人，另有30人受傷。（新華社）"
+    },
     {
       "id": "5200951",
       "time": "2026-11-07 23:59:53",
@@ -98728,55 +98736,6 @@
         "國際"
       ],
       "text": "澤連斯基表示，他與土耳其總統埃爾多安討論了美國、烏克蘭和俄羅斯和平談判代表即將舉行的會議。"
-    },
-    {
-      "id": "mkt:01a192b7-fa02-7ee0-aa1a-3f5aca8d1905",
-      "time": "2026-11-01 00:08:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said Ukraine hopes to involve Turkey and European countries in negotiations to end the Russia-Ukraine war."
-    },
-    {
-      "id": "mkt:01a192b7-b590-7ee0-aa1a-324b7bce6ff1",
-      "time": "2026-11-01 00:07:55",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Ukrainian President Zelenskiy said he discussed with Turkish President Erdogan the upcoming US-Ukraine-Russia representative-level peace talks."
-    },
-    {
-      "id": "mkt:01a192b6-9dfa-7ee0-aa1a-2f3b98b2c00f",
-      "time": "2026-11-01 00:06:43",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Meta Platforms (META.O) partnered with Chinese startup Fourier Intelligent (Fourier) to develop a humanoid robot prototype, producing a roughly 106 lb machine codenamed “Max” in just three months, The Information reported."
-    },
-    {
-      "id": "5184802",
-      "time": "2026-11-01 00:06:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Meta聯合中國初創企業打造人形機器人原型，加碼機器人業務佈局】據知情人士透露，Meta正加緊研發面向家庭場景的機器人，已經和中國機器人企業傅利葉智慧合作開發了一款人形機器人原型，並且已經著手研發第二代產品。Meta與傅利葉智慧僅用三個月時間就造出了這款重約106磅的人形機器人，內部代號Max。該專案旨在幫助Meta旗下機器人部門打磨未來更成熟的產品，最終有望對外推出，目前尚未設定上市時間。Meta將人形機器人視作其Muse智慧體的實體載體，可執行各類居家任務。"
-    },
-    {
-      "id": "mkt:01a192b4-e810-7ee0-aa1a-244bdd9f7e43",
-      "time": "2026-11-01 00:04:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkish President Erdogan urged all parties to act responsibly and said Turkey will continue negotiations with parties to restore navigational safety in the Black Sea."
     }
   ]
 }
