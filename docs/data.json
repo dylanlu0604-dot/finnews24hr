@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-07 17:33:22",
-  "count": 10777,
+  "updated": "2026-11-07 17:37:26",
+  "count": 10776,
   "items": [
+    {
+      "id": "5200690",
+      "time": "2026-11-07 17:34:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西釋出暴雪黃色預警】山西省氣象臺2026年11月7日16時2分升級釋出暴雪黃色預警。預警區域：大同市東部、朔州市東部、忻州市、呂梁市北部、太原市北部、陽泉市北部。預計未來12小時預警區域降雪量將達6毫米以上。請有關單位和人員做好防範準備。"
+    },
+    {
+      "id": "mkt:01a1b55b-8942-7ee0-aabe-b0c372bb1851",
+      "time": "2026-11-07 17:33:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China-Austria Entrepreneurs Committee holds inaugural meeting in Beijing】Nov. 6 — MOFCOM and Austria’s Federal Ministry for Economy, Energy and Tourism co‑hosted the inaugural China‑Austria Entrepreneurs Committee meeting in Beijing. Ministers Wang Wentao and Hartmannsdorfer attended; more than 100 political and business delegates were present. The committee was established to deepen bilateral economic ties, promote alignment between China’s 15th Five‑Year Plan and Austria’s Industrial Strategy 2035, and drive sector‑focused, pragmatic cooperation. China urged Austria to provide a fair, open, non‑discriminatory environment for Chinese investment. Delegates expressed confidence in trade and investment prospects and said they will use the committee mechanism to advance China‑Austria and China‑EU economic engagement."
+    },
+    {
+      "id": "5200689",
+      "time": "2026-11-07 17:33:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒爆料：內塔尼亞胡曾謀劃選舉前對伊發起秘密行動，因美國意外獲悉訊息而失敗】據《以色列時報》11月6日報道，以色列第12頻道電視臺爆料稱，以色列總理內塔尼亞胡及其親信、情報和特勤局（摩薩德）局長戈夫曼曾試圖在10月27日以色列大選前夕對伊朗發動一次秘密行動，然而，該計劃意外讓美國獲悉，因此未能實現。（環球網）"
+    },
     {
       "id": "5200688",
       "time": "2026-11-07 17:32:13",
@@ -98585,38 +98609,6 @@
         "MKT News"
       ],
       "text": "【Turkey nominates former foreign minister Sinirlioglu for next UN secretary-general】Turkish media reported on Oct. 31 that Turkey has formally nominated former foreign minister Sinirlioglu as its candidate for the next UN secretary-general."
-    },
-    {
-      "id": "5184544",
-      "time": "2026-10-31 17:37:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "據土耳其媒體31日報道，土耳其正式提名前外長西尼爾利奧盧參選下一任聯合國秘書長。（新華社）"
-    },
-    {
-      "id": "5184543",
-      "time": "2026-10-31 17:36:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長鑫科技：已與多家頭部客戶協商長期供貨協議】記者獲悉，在長鑫科技2026年第三季度業績說明會上，公司管理層就投資者關注的盈利前景回應稱，已與多家頭部客戶協商長期供貨協議，從而鎖定中長期確定性需求，公司預計第四季度毛利率將繼續保持穩定。注：資料顯示，公司前三季度綜合毛利率達86.85%；第三季度單季毛利率達到89.53%。（藍鯨新聞）"
-    },
-    {
-      "id": "mkt:01a19150-e67d-7ee0-aa18-71707315ca37",
-      "time": "2026-10-31 17:36:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iranian media: 'enemy' drones attacked two fishing boats】A state news agency reported on the 31st that 'enemy' drones attacked two fishing boats south of Qeshm Island. Preliminary reports say two fishermen are missing and two were injured."
-    },
-    {
-      "id": "5184542",
-      "time": "2026-10-31 17:35:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗法爾斯通訊社31日報道，“敵方”無人機當天在格什姆島南部襲擊了兩艘漁船。初步報告顯示，襲擊造成兩名漁民失蹤，另有兩人受傷。（新華社）"
     }
   ]
 }
