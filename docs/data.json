@@ -1,7 +1,52 @@
 {
-  "updated": "2026-11-08 04:22:59",
-  "count": 10731,
+  "updated": "2026-11-08 04:26:41",
+  "count": 10735,
   "items": [
+    {
+      "id": "mkt:01a1b7b0-7fa3-7ee0-aac2-1b48be9919a2",
+      "time": "2026-11-08 04:25:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli opposition leader Eizenkot said he will do everything to make a national government a reality."
+    },
+    {
+      "id": "mkt:01a1b7b0-2014-7ee0-aac2-13d191a6e2d3",
+      "time": "2026-11-08 04:25:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli opposition leader Gadi Eizenkot said it is time to form a national emergency government."
+    },
+    {
+      "id": "5201098",
+      "time": "2026-11-08 04:24:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺記者稱，爆炸事件可能與伊朗軍方在霍爾木茲海峽的活動有關。"
+    },
+    {
+      "id": "mkt:01a1b7af-3884-7ee0-aac2-0e86b469e3ca",
+      "time": "2026-11-08 04:24:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state television said an explosion in southern Iran may be linked to Iranian military activity in the Strait of Hormuz."
+    },
+    {
+      "id": "5201097",
+      "time": "2026-11-08 04:23:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗南部的賈斯克、西里克、阿巴斯港和格什姆島傳出爆炸聲，原因不明。"
+    },
     {
       "id": "mkt:01a1b7ac-d42c-7ee0-aac2-028996bd17db",
       "time": "2026-11-08 04:21:59",
@@ -98240,15 +98285,6 @@
         "國際"
       ],
       "text": "【OPEC+原則同意維持產量目標不變】OPEC+原則上同意維持12月石油產量目標不變。在明年之前預計不會進一步調整產量政策。該組織定於週日舉行線上會議。受伊朗戰事出口受阻影響，海灣產油國實際產量仍遠低於目標水平。該組織需在第四季度完成產能評估，之後才能確定2027年基準線及後續配額。"
-    },
-    {
-      "id": "5184897",
-      "time": "2026-11-01 04:24:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【《華爾街日報》勝訴，特朗普100億美元誹謗訴訟被駁回】美國一名聯邦法官駁回了唐納德·特朗普重新提起的、針對《華爾街日報》的100億美元誹謗訴訟，並裁定該案不得再次起訴，這是特朗普在與媒體的法律糾紛中遭遇的又一次挫折。邁阿密法官Darrin Gayles於週六批准了《華爾街日報》的撤訴申請。訴狀指控該報在一篇關於特朗普與已故傑弗裡·愛潑斯坦往來的報道中對其構成誹謗。Gayles曾在4月以證據不足為由首次駁回該案，但當時允許特朗普補充訴求後重新起訴。特朗普在5月提交新版本訴狀，而《華爾街日報》認為新版本並未做出有效完善。這項裁決對《華爾街日報》、其母公司新聞集團以及名譽主席魯珀特·默多克（均為該案被告）而言是重大勝利。被告方在撤訴申請中稱，相關報道內容屬實，特朗普提起訴訟意在壓制媒體對他的批評。引發這起訴訟的《華爾街日報》報道稱，特朗普曾向愛潑斯坦寄送一封帶有暗示性內容的生日信件。"
     }
   ]
 }

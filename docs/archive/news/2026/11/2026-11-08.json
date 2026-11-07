@@ -1,7 +1,52 @@
 {
   "date": "2026-11-08",
-  "count": 85,
+  "count": 90,
   "items": [
+    {
+      "id": "mkt:01a1b7b0-7fa3-7ee0-aac2-1b48be9919a2",
+      "time": "2026-11-08 04:25:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli opposition leader Eizenkot said he will do everything to make a national government a reality."
+    },
+    {
+      "id": "mkt:01a1b7b0-2014-7ee0-aac2-13d191a6e2d3",
+      "time": "2026-11-08 04:25:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli opposition leader Gadi Eizenkot said it is time to form a national emergency government."
+    },
+    {
+      "id": "5201098",
+      "time": "2026-11-08 04:24:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺記者稱，爆炸事件可能與伊朗軍方在霍爾木茲海峽的活動有關。"
+    },
+    {
+      "id": "mkt:01a1b7af-3884-7ee0-aac2-0e86b469e3ca",
+      "time": "2026-11-08 04:24:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state television said an explosion in southern Iran may be linked to Iranian military activity in the Strait of Hormuz."
+    },
+    {
+      "id": "5201097",
+      "time": "2026-11-08 04:23:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗南部的賈斯克、西里克、阿巴斯港和格什姆島傳出爆炸聲，原因不明。"
+    },
     {
       "id": "mkt:01a1b7ac-d42c-7ee0-aac2-028996bd17db",
       "time": "2026-11-08 04:21:59",
