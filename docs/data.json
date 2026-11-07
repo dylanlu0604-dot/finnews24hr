@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-07 17:41:30",
-  "count": 10777,
+  "updated": "2026-11-07 17:45:21",
+  "count": 10776,
   "items": [
+    {
+      "id": "5200692",
+      "time": "2026-11-07 17:42:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【強冷空氣來襲 遼寧釋出暴雪、大風預警】遼寧省氣象臺7日11時釋出暴雪藍色預警和大風藍色預警。受冷空氣影響，遼寧局地將出現大雪到暴雪。據氣象部門介紹，預計7日14時至8日20時，朝陽大部、葫蘆島地區有大雪到暴雪，區域性大暴雪，積雪深度5到15釐米；大連西部、錦州南部地區雨夾雪轉大雪，積雪深度4到7釐米；上述地區將出現道路積雪、結冰或溼滑。同時，遼寧省氣象臺持續釋出大風預警，預計7日20時至8日20時，渤海、黃海部分海域陣風將達8到9級，區域性可達11級。大連、丹東南部、錦州南部、營口、盤錦、葫蘆島地區陣風預計可達7到9級。"
+    },
     {
       "id": "5200691",
       "time": "2026-11-07 17:39:42",
@@ -98603,28 +98611,6 @@
         "MKT News"
       ],
       "text": "【ChangXin Memory says it has negotiated long-term supply agreements with multiple leading customers】At its third-quarter 2026 earnings briefing, ChangXin Memory Technologies management said it has negotiated long-term supply agreements with several leading customers, securing medium-to-long-term confirmed demand, and expects fourth-quarter gross margin to remain stable."
-    },
-    {
-      "id": "mkt:01a19159-08d6-7ee0-aa18-8385d8288940",
-      "time": "2026-10-31 17:44:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Market sources: India has scrapped its petrol export tax and raised export taxes on aviation turbine fuel (ATF) and diesel."
-    },
-    {
-      "id": "5184545",
-      "time": "2026-10-31 17:42:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度取消汽油出口稅，上調航空燃油和柴油出口稅。"
     }
   ]
 }
