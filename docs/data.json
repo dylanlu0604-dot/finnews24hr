@@ -1,7 +1,44 @@
 {
-  "updated": "2026-11-07 17:53:11",
-  "count": 10781,
+  "updated": "2026-11-07 17:57:09",
+  "count": 10785,
   "items": [
+    {
+      "id": "mkt:01a1b570-068f-7ee0-aabe-e26483043ed6",
+      "time": "2026-11-07 17:56:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand opposition leader Hipkins said the next Parliament will require all members to work together and seek consensus."
+    },
+    {
+      "id": "mkt:01a1b56f-dd2d-7ee0-aabe-d8938d2f5ac6",
+      "time": "2026-11-07 17:56:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Opposition Leader Hipkins said it was clear the composition of the next government could not be known in the short term."
+    },
+    {
+      "id": "5200697",
+      "time": "2026-11-07 17:55:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭反對黨領袖希普金斯：顯然，我們在一段時間內不會知道下一屆政府的組成。下一屆議會將需要我們所有人共同努力，尋求共識。"
+    },
+    {
+      "id": "mkt:01a1b56d-e123-7ee0-aabe-d5b26e0ccf62",
+      "time": "2026-11-07 17:53:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Israeli media report: Netanyahu plotted pre‑election secret operation against Iran; US learned and halted plan】Times of Israel on Nov. 6, citing Channel 12, reported Prime Minister Netanyahu and close aides — including Mossad chief Gofman — allegedly plotted a secret operation against Iran timed for the eve of Israel’s Oct. 27 election. Senior Israeli security officials reportedly opposed the plan over escalation and the risk of disrupting the vote, but the operation reportedly advanced until a security officer’s error alerted the US; Washington then intervened to stop it. The Prime Minister’s Office denied the report, saying Netanyahu had clarified there was no plan to strike before the election."
+    },
     {
       "id": "5200696",
       "time": "2026-11-07 17:51:36",
