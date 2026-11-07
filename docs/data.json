@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-07 23:59:21",
-  "count": 10797,
+  "updated": "2026-11-08 00:03:29",
+  "count": 10793,
   "items": [
+    {
+      "id": "5200951",
+      "time": "2026-11-07 23:59:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦各部隊和派別發表宣告：呼籲調解人和擔保人施加壓力，確保人道主義議定書得到全面執行。"
+    },
+    {
+      "id": "5200949",
+      "time": "2026-11-07 23:59:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦各派別發表宣告：呼籲全國委員會立即前往加沙地帶，開始履行其職責。"
+    },
+    {
+      "id": "5200948",
+      "time": "2026-11-07 23:59:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦各派別發表宣告：隨著冬季臨近，我們認為佔領當局和和平委員會應對加沙地帶的人道主義災難負責。"
+    },
     {
       "id": "5200932",
       "time": "2026-11-07 23:50:30",
@@ -98753,62 +98777,6 @@
         "MKT News"
       ],
       "text": "Turkish President Erdogan urged all parties to act responsibly and said Turkey will continue negotiations with parties to restore navigational safety in the Black Sea."
-    },
-    {
-      "id": "5184801",
-      "time": "2026-11-01 00:03:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴黎警方稱，約7萬名抗議者在巴黎參與示威，社會動盪進入第三階段。"
-    },
-    {
-      "id": "mkt:01a192b2-d08a-7ee0-aa1a-1949197e0008",
-      "time": "2026-11-01 00:02:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ERDOGAN said he discussed Black Sea navigation safety with ZELENSKIY during their meeting, and that attacks on Black Sea merchant vessels are unacceptable regardless of who carried them out."
-    },
-    {
-      "id": "5184800",
-      "time": "2026-11-01 00:02:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安：土耳其還將與俄羅斯討論黑海安全問題。"
-    },
-    {
-      "id": "5184799",
-      "time": "2026-11-01 00:02:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安敦促各方在黑海問題上負責任地行事。"
-    },
-    {
-      "id": "5184798",
-      "time": "2026-11-01 00:00:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安：對民用船隻的襲擊對任何人都沒有好處。"
-    },
-    {
-      "id": "5184797",
-      "time": "2026-11-01 00:00:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安：樂見和平努力加速推進。"
-    },
-    {
-      "id": "5184796",
-      "time": "2026-11-01 00:00:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安：與澤連斯基討論了黑海安全問題。"
     }
   ]
 }
