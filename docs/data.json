@@ -1,7 +1,38 @@
 {
-  "updated": "2026-11-08 00:08:31",
-  "count": 10789,
+  "updated": "2026-11-08 00:13:17",
+  "count": 10787,
   "items": [
+    {
+      "id": "5200979",
+      "time": "2026-11-08 00:12:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱打擊烏多地區目標 烏稱能源設施遭大規模襲擊】俄羅斯國防部7日釋出通報說，過去一天，俄軍在33個地區挫敗烏軍進攻，並打擊了烏方位於139個地區的多類目標。同日，烏克蘭稱，該國多地能源設施遭大規模襲擊。（新華社）"
+    },
+    {
+      "id": "5200978",
+      "time": "2026-11-08 00:12:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安任命Justin Yek為新任CFO，Kaiser Ng離職創業。"
+    },
+    {
+      "id": "mkt:01a1b6c4-fee7-7ee0-aac0-9fa4778f06d4",
+      "time": "2026-11-08 00:08:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthi forces say six missile, drone strikes hit Riyadh airport and oil facilities】On the evening of the 7th local time, Houthi forces said they launched six missile and drone operations against Saudi targets in response to Saudi airstrikes and hostile acts, striking Riyadh’s King Khalid International Airport and multiple Saudi oil facilities. The statement said Houthi strikes hit a Saudi National Guard camp in NAJRAN, causing heavy casualties among assembled personnel, and attacked Saudi military concentrations in Yemen’s Jawf and Marib provinces. Saudi authorities had no immediate response."
+    },
     {
       "id": "5200961",
       "time": "2026-11-08 00:04:23",
@@ -98696,46 +98727,6 @@
         "MKT News"
       ],
       "text": "France's Interior Ministry said nationwide protests drew 320,000 participants, 70,000 in Paris."
-    },
-    {
-      "id": "mkt:01a192b9-de3b-7ee0-aa1a-401ee6dbeba0",
-      "time": "2026-11-01 00:10:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【6.1-magnitude earthquake strikes southern Panama】A magnitude 6.1 earthquake struck southern Panama at 10:50 a.m. local time on Oct. 31; the epicenter was about 18 km east of Tonosí in Los Santos province and the depth was 10 km, the University of Panama Institute of Earth Sciences said."
-    },
-    {
-      "id": "5184806",
-      "time": "2026-11-01 00:10:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴拿馬南部地區發生6.1級地震】根據巴拿馬大學地球科學研究所釋出的初步報告，當地時間10月31日10時50分，巴拿馬南部發生6.1級地震，震中位於巴拿馬洛斯桑托斯省託諾西以東約18公里處，震源深度10公里。（央視新聞）"
-    },
-    {
-      "id": "5184805",
-      "time": "2026-11-01 00:09:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名伊朗高階安全官員表示，（中東）地區人工智慧基礎設施現已被列入伊朗的報復目標清單，下一場衝突將是一場漫長的“驚喜之戰”。"
-    },
-    {
-      "id": "5184804",
-      "time": "2026-11-01 00:09:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，烏克蘭希望土耳其和歐洲參與結束俄烏衝突的談判。"
-    },
-    {
-      "id": "5184803",
-      "time": "2026-11-01 00:08:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，他與土耳其總統埃爾多安討論了美國、烏克蘭和俄羅斯和平談判代表即將舉行的會議。"
     }
   ]
 }

@@ -1,7 +1,38 @@
 {
   "date": "2026-11-08",
-  "count": 1,
+  "count": 4,
   "items": [
+    {
+      "id": "5200979",
+      "time": "2026-11-08 00:12:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱打擊烏多地區目標 烏稱能源設施遭大規模襲擊】俄羅斯國防部7日釋出通報說，過去一天，俄軍在33個地區挫敗烏軍進攻，並打擊了烏方位於139個地區的多類目標。同日，烏克蘭稱，該國多地能源設施遭大規模襲擊。（新華社）"
+    },
+    {
+      "id": "5200978",
+      "time": "2026-11-08 00:12:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安任命Justin Yek為新任CFO，Kaiser Ng離職創業。"
+    },
+    {
+      "id": "mkt:01a1b6c4-fee7-7ee0-aac0-9fa4778f06d4",
+      "time": "2026-11-08 00:08:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthi forces say six missile, drone strikes hit Riyadh airport and oil facilities】On the evening of the 7th local time, Houthi forces said they launched six missile and drone operations against Saudi targets in response to Saudi airstrikes and hostile acts, striking Riyadh’s King Khalid International Airport and multiple Saudi oil facilities. The statement said Houthi strikes hit a Saudi National Guard camp in NAJRAN, causing heavy casualties among assembled personnel, and attacked Saudi military concentrations in Yemen’s Jawf and Marib provinces. Saudi authorities had no immediate response."
+    },
     {
       "id": "5200961",
       "time": "2026-11-08 00:04:23",
