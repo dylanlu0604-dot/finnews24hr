@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-08 00:28:48",
-  "count": 10781,
+  "updated": "2026-11-08 00:32:40",
+  "count": 10774,
   "items": [
+    {
+      "id": "mkt:01a1b6d8-99fa-7ee0-aac0-ce2264c7f744",
+      "time": "2026-11-08 00:30:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yemen government forces say 875 strikes on Houthi targets in recent hours】Al Arabiya reported the Yemeni armed forces said government troops struck Houthi positions across multiple fronts around Taiz, carrying out 875 strikes in recent hours. About 130 Houthi leaders and fighters were killed and 50 military vehicles and trucks plus one rocket launcher were destroyed, the forces said."
+    },
     {
       "id": "mkt:01a1b6d0-fed2-7ee0-aac0-c6fe1a6197f7",
       "time": "2026-11-08 00:21:52",
@@ -98604,80 +98612,6 @@
         "EURUSD"
       ],
       "text": "US Secretary of State Rubio said India and Turkey have proposals to restore Black Sea grain shipments."
-    },
-    {
-      "id": "5184821",
-      "time": "2026-11-01 00:32:19",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【外交部副部長馬朝旭出席二十國集團外長會】2026年10月30日至31日，外交部副部長馬朝旭在美國亞特蘭大出席二十國集團外長會。馬朝旭表示，當前國際形勢深刻演變，地緣政治局勢緊張，發展議程嚴重滯後。習近平主席提出全球安全倡議，倡導共同、綜合、合作、可持續的安全觀，走對話而不對抗、結伴而不結盟、共贏而非零和的新型安全之路，為化解國際地區爭端發揮了重要作用。（外交部網站）"
-    },
-    {
-      "id": "5184820",
-      "time": "2026-11-01 00:31:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：傾向於以和平、外交方式解決伊朗問題。"
-    },
-    {
-      "id": "5184819",
-      "time": "2026-11-01 00:30:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧談伊朗談判：對話經常透過中間人進行。"
-    },
-    {
-      "id": "mkt:01a192cc-13c6-7ee0-aa1a-6bc750edf926",
-      "time": "2026-11-01 00:30:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Secretary of State Rubio said he did not know whether the Qatar-led talks have a timetable."
-    },
-    {
-      "id": "mkt:01a192cb-d93c-7ee0-aa1a-65783d7cdf68",
-      "time": "2026-11-01 00:29:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "U.S. Secretary of State Rubio said the U.S. is open to resolving the war with Iran through diplomatic means."
-    },
-    {
-      "id": "5184818",
-      "time": "2026-11-01 00:29:54",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國願意透過外交途徑解決伊朗戰爭。"
-    },
-    {
-      "id": "5184817",
-      "time": "2026-11-01 00:29:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：不知道卡達主導的談判是否有時間限制。"
-    },
-    {
-      "id": "mkt:01a192cb-0e72-7ee0-aa1a-59c7d40989bf",
-      "time": "2026-11-01 00:29:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Rubio said G20 foreign ministers agreed on the importance of food security, critical minerals supply chains and freedom of navigation."
     }
   ]
 }
