@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-08 04:11:54",
-  "count": 10733,
+  "updated": "2026-11-08 04:15:36",
+  "count": 10731,
   "items": [
+    {
+      "id": "5201090",
+      "time": "2026-11-08 04:12:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗格什姆島傳出爆炸聲】當地時間7日晚，從伊朗方面獲悉，格什姆島傳來兩聲爆炸聲。當地訊息稱，爆炸發生在該島內，位於島嶼東部。伊朗官方暫未公佈細節。"
+    },
     {
       "id": "mkt:01a1b794-77e3-7ee0-aac1-e9f618b5cab8",
       "time": "2026-11-08 03:55:22",
@@ -98232,34 +98240,6 @@
         "國際"
       ],
       "text": "敘利亞國防部：國防部長穆哈雷夫·阿布·卡斯拉少將將於明天週日（星期天）在卡達首都多哈會見副首相兼國防事務國務大臣謝赫·沙特·本·阿卜杜勒拉赫曼·阿勒薩尼，討論一系列共同議題。"
-    },
-    {
-      "id": "mkt:01a1939a-48d5-7ee0-aa1b-b3d9e0e921bc",
-      "time": "2026-11-01 04:15:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Yemen's foreign minister said delaying action against Houthi forces will make future responses to their expanding regional and international threat more costly."
-    },
-    {
-      "id": "mkt:01a19399-77bc-7ee0-aa1b-aa3e88ed06ee",
-      "time": "2026-11-01 04:14:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【UK Maritime Trade Operations: large fishing vessel boarded by unauthorised personnel】UK Maritime Trade Operations said on Oct 31 that on Oct 30 a large fishing vessel was boarded by unauthorised personnel. Authorities said they are concerned the incident may be linked to pirate gangs. The notice did not specify a location. An investigation is under way."
-    },
-    {
-      "id": "5184894",
-      "time": "2026-11-01 04:14:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國海上貿易行動辦公室：一大型漁船遭非法人員登船】英國海上貿易行動辦公室10月31日通報稱，當地時間30日，一艘大型漁船遭未經授權人員登船，相關部門擔心可能與海盜行動團伙有關。通報並未說明事發地點。有關部門正在對此展開調查。（央視新聞）"
     }
   ]
 }
