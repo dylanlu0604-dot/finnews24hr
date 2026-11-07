@@ -1,7 +1,15 @@
 {
   "date": "2026-11-08",
-  "count": 8,
+  "count": 9,
   "items": [
+    {
+      "id": "mkt:01a1b6cf-af95-7ee0-aac0-bda98a1b505a",
+      "time": "2026-11-08 00:20:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA: Russian Defence Ministry said a Soyuz-2.1b launch vehicle carrying satellites successfully launched from the Plesetsk Cosmodrome."
+    },
     {
       "id": "mkt:01a1b6cc-02ed-7ee0-aac0-b1f441fc717d",
       "time": "2026-11-08 00:16:25",
