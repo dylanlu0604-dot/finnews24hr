@@ -1,7 +1,32 @@
 {
   "date": "2026-11-07",
-  "count": 851,
+  "count": 854,
   "items": [
+    {
+      "id": "mkt:01a1b549-cb68-7ee0-aabe-a717a858d64b",
+      "time": "2026-11-07 17:14:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi rebels say Saudi-led coalition airstrike near Sanaa causes multiple casualties】Yemen's Houthi rebels said on the 7th (local time) a Saudi-led coalition airstrike struck the Bani Hashish area east of Sanaa, causing multiple casualties. The coalition had no immediate comment."
+    },
+    {
+      "id": "mkt:01a1b549-55df-7ee0-aabe-9a504f74ff1d",
+      "time": "2026-11-07 17:14:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Finance Minister Willis said her chances of returning to Parliament are very small."
+    },
+    {
+      "id": "5200682",
+      "time": "2026-11-07 17:13:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行：土耳其國際收支平衡表統計資料將納入加密貨幣交易資料，將首先發布2026年9月的統計資料，該資料將於11月13日釋出；將使用土耳其中央證券存管機構追蹤的加密貨幣資料。"
+    },
     {
       "id": "5200681",
       "time": "2026-11-07 17:11:49",
