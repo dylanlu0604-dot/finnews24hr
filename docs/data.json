@@ -1,7 +1,63 @@
 {
-  "updated": "2026-11-07 18:05:26",
-  "count": 10781,
+  "updated": "2026-11-07 18:09:45",
+  "count": 10785,
   "items": [
+    {
+      "id": "mkt:01a1b57a-4dd6-7ee0-aabf-0cce0a12b220",
+      "time": "2026-11-07 18:07:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【USS Theodore Roosevelt docks in Singapore】On Nov 6 the US Navy carrier USS Theodore Roosevelt docked at Changi Naval Base in Singapore. Refinitiv said this is the ship’s final stop before deploying to the Middle East; the Roosevelt left San Diego on Sept. 27 and is expected to join the carriers Washington and Bush on the Middle East deployment."
+    },
+    {
+      "id": "5200705",
+      "time": "2026-11-07 18:07:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超3億元算力訂單 格力中標中國移動、中國鐵塔集採】據格力電器訊息，近日，格力成功中標中國移動、中國鐵塔溫控裝置集中採購專案，訂單規模超3億元。中標產品涵蓋風冷型氟泵機房專用空調、冷凍水型列間空調、乾溼複合機房空調、基站專用空調，為全國範圍內資料機房、通訊基站提供安全可靠、節能高效的一體化溫控解決方案。"
+    },
+    {
+      "id": "5200704",
+      "time": "2026-11-07 18:06:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【暴雪黃色預警持續！京津冀等地有大到暴雪】中央氣象臺11月7日18時繼續釋出暴雪黃色預警。預計11月7日20時至8日20時，北京西部和北部、天津北部、河北北部、遼寧西部和南部、內蒙古東南部、山西東北部以及甘肅中西部、青海東北部等地部分地區有大到暴雪，其中遼寧西部、河北東北部等地部分地區有大暴雪，局地特大暴雪（30～32毫米）。上述部分地區新增積雪深度5～15釐米，局地可達20釐米以上。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1b579-7445-7ee0-aabf-01cc0e722ca7",
+      "time": "2026-11-07 18:06:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an alert saying Jizan may be at risk."
+    },
+    {
+      "id": "5200703",
+      "time": "2026-11-07 18:06:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特釋出吉贊地區潛在危險警報。"
+    },
+    {
+      "id": "5200702",
+      "time": "2026-11-07 18:05:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍羅斯福號航母停靠新加坡】11月6日，美國海軍“羅斯福”號航空母艦停靠新加坡樟宜海軍基地。路透社表示，這是該艦部署至中東前的最後一站。“羅斯福”號航母於9月27日離開加利福尼亞州聖迭戈港，預計將加入“華盛頓”號和“布什”號在中東的部署行列。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a1b578-2890-7ee0-aabe-fa3c7be5d1c6",
+      "time": "2026-11-07 18:05:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ESA: international team finds signs of volcanic activity on Mars】The European Space Agency said an international team using the Trace Gas Orbiter detected anomalous hydrogen chloride (HCl) concentrations and surface fissures above Alba Mons on Mars, indicating residual subsurface heat that could support volcanic activity. In a Science Advances paper the researchers said HCl normally peaks in the Martian northern winter and disappears in summer, but anomalous HCl spikes were observed above some Alba Mons fissures in early northern summer; they hypothesise magmatic gases vent through fractures sealed by winter ice and released as ice melts, and note lava–groundwater interaction could create localized warm environments that merit targeted life-detection searches."
+    },
     {
       "id": "5200701",
       "time": "2026-11-07 18:03:34",
@@ -98642,30 +98698,6 @@
         "國際"
       ],
       "text": "【奧列什基撤離居民抵達白俄羅斯】據白俄羅斯國家通訊社31日報道，3架載有奧列什基撤離居民的飛機當天早晨抵達白俄羅斯戈梅利機場。（新華社）"
-    },
-    {
-      "id": "5184555",
-      "time": "2026-10-31 18:08:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國首相稱對為奴隸貿易正式道歉持開放態度，但排除賠償可能性】英國首相安迪·伯納姆表示，對於有關英國應就其在歷史上參與奴隸貿易一事進行正式道歉的呼籲，他持開放態度。下週，他將出席英聯邦峰會，屆時他很可能會面臨有關經濟賠償的要求。伯納姆撰文稱，英國正尋求“與那些受跨大西洋奴隸貿易影響的人們展開結構性對話”；在那場奴隸貿易中，至少有1250萬非洲人被綁架並被販賣為奴。他補充道：“傾聽有關代表英國國家進行正式道歉的呼籲，將是這一程序的重要組成部分，我對這些呼籲持開放態度。”但伯納姆拒絕了有關經濟賠償的呼籲，他寫道：“我不認為今天的英國人應當為歷史上的罪行承擔責任——無論這些罪行多麼令人髮指；畢竟，它們發生在不同的時代，受當時不同的法律管轄，且今天的英國人並未親身參與其中。”根據“跨大西洋奴隸貿易資料庫”的記錄，從15世紀到19世紀，數百萬非洲人被歐洲商人販賣為奴；其中，英國經由大西洋運送的人數估計達320萬人。"
-    },
-    {
-      "id": "5184554",
-      "time": "2026-10-31 18:06:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱打擊烏基礎設施 烏稱擊退俄進攻】俄羅斯國防部10月31日午間釋出的24小時戰報顯示，俄軍共打擊148處區域，目標包括烏軍使用的交通基礎設施、無人機和地面無人戰車的儲存和發射場地、彈藥倉庫，以及烏武裝部隊和外國僱傭兵臨時部署點。俄防空系統擊落604架固定翼無人機。俄方稱烏軍在各作戰方向共損失約1220人。當天早些時候，俄國防部通報稱，俄軍無人機當天凌晨擊中基輔市為軍事物流設施和武器裝備存放點供電的1座熱電廠、生產烏軍武器裝備零部件的多個車間，以及一艘為烏軍供貨的乾貨船。烏克蘭空軍當地時間10月31日通報稱，自30日18時起，俄軍出動134架無人機襲擊烏克蘭。截至31日8時30分，烏防空部隊已擊落或壓制105架俄軍無人機。過去一天，烏軍導彈部隊和炮兵部隊打擊了俄軍1個指揮所和3個無人機控制點。烏方稱俄軍死傷1670人。（央視新聞）"
-    },
-    {
-      "id": "5184553",
-      "time": "2026-10-31 18:05:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "半島航空恢復每日往返利雅得的航班。"
     }
   ]
 }
