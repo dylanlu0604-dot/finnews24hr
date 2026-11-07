@@ -1,7 +1,27 @@
 {
   "date": "2026-11-07",
-  "count": 647,
+  "count": 649,
   "items": [
+    {
+      "id": "mkt:01a1b3d3-3336-7ee0-aabd-45094d2b333f",
+      "time": "2026-11-07 10:25:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Rubio to attend G7 foreign ministers meeting in Paris; Ukraine support expected to dominate】U.S. Secretary of State Rubio will visit Paris Nov. 8-10 to attend the G7 foreign ministers meeting, where support for Ukraine is expected to dominate the agenda as winter approaches. Market-sensitive issues include whether the G7 can agree concrete measures on aid and energy ahead of the colder months. Recent Iranian military action has already pushed fuel prices higher and was cited in U.S. political fallout after the midterms. U.S. officials report emerging internal disagreement on next-step policy; attention will center on Rubio’s policy stance. The State Department said Rubio will advance U.S. national interests and he will hold bilateral meetings in Paris. AI and Indo-Pacific developments are also on the agenda."
+    },
+    {
+      "id": "5200518",
+      "time": "2026-11-07 10:21:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中央氣象臺11月7日10時繼續釋出暴雪黃色預警】預計11月7日14時至8日14時，內蒙古東南部、遼寧西部和南部、山西北部、河北西部和北部、北京西部和北部、天津北部以及甘肅中西部、青海東北部等地部分地區有大到暴雪，其中，遼寧西部、河北東北部、天津北部、北京東北部等地部分地區有大暴雪，遼寧西部、河北東北部局地特大暴雪（30～32毫米）。上述部分地區新增積雪深度5～15釐米，局地可達20釐米以上。"
+    },
     {
       "id": "5200517",
       "time": "2026-11-07 10:18:40",
