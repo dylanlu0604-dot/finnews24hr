@@ -1,7 +1,1389 @@
 {
   "date": "2026-11-07",
-  "count": 891,
+  "count": 1045,
   "items": [
+    {
+      "id": "5200886",
+      "time": "2026-11-07 23:25:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭警方在X平臺上表示，克拉科夫槍擊事件已造成5人死亡，10餘人受傷。"
+    },
+    {
+      "id": "mkt:01a1b699-40dd-7ee0-aac0-8ce49b826f8b",
+      "time": "2026-11-07 23:20:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Zakharova: Western states unwilling to heed Russia's concerns, continue provoking escalation】On Nov 7, Russian Foreign Ministry spokeswoman Zakharova said the Koalicja multinational exercises due to start in Poland on Nov 9 — timed on the eve of Abu Dhabi three-way talks between Russia, the US and Ukraine — indicate European states have nothing to do at the negotiating table. She said Western countries remain unwilling to address Russian security concerns and are provoking escalation. Zakharova warned that deploying foreign troops inside Ukraine would amount to de facto armed intervention and would consciously project additional security threats at Russia; such deployments are unacceptable to Moscow and, if made, would become legitimate targets for Russian strikes."
+    },
+    {
+      "id": "mkt:01a1b698-8825-7ee0-aac0-801978cf9229",
+      "time": "2026-11-07 23:20:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish police said they are not currently searching for additional suspects."
+    },
+    {
+      "id": "5200871",
+      "time": "2026-11-07 23:18:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國魚類及野生動物管理局的改革也受到特朗普政府的關注。"
+    },
+    {
+      "id": "mkt:01a1b695-f980-7ee0-aac0-7afd32b2b1de",
+      "time": "2026-11-07 23:17:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish police said a shooting in Krakow killed at least three people; the shooter was captured while attempting to flee."
+    },
+    {
+      "id": "5200870",
+      "time": "2026-11-07 23:17:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府考慮改革國家公園管理局。"
+    },
+    {
+      "id": "5200866",
+      "time": "2026-11-07 23:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭發生槍擊事件 已致2人死亡】當地時間11月7日，波蘭克拉科夫發生槍擊事件，造成兩人死亡，十人受傷。據警方稱，槍手已被逮捕。（央視新聞）"
+    },
+    {
+      "id": "5200859",
+      "time": "2026-11-07 23:08:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【初步計票結果：紐西蘭執政聯盟獲議會過半席位】紐西蘭選舉委員會8日凌晨公佈的初步計票結果顯示，在7日結束的新一屆議會選舉中，國家黨主導的現執政聯盟贏得超半數席位。（新華社）"
+    },
+    {
+      "id": "5200857",
+      "time": "2026-11-07 23:07:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【扎哈羅娃：西方國家無意顧及俄方關切 持續挑動局勢升級】針對將於11月9日在波蘭境內開展的“聯盟”（Koalicja）多國軍事演習，當地時間11月7日，俄羅斯外交部發言人扎哈羅娃表示，“該演習在阿布扎比俄美烏三方談判前夕開始舉行，說明歐洲國家在談判桌後無事可做”。她還指出，西方國家仍無意願顧及俄方在安全領域的關切，持續挑動局勢升級。在烏克蘭境內部署外國軍隊將意味著事實上的武裝干涉以及有意識地向俄羅斯投射額外的安全威脅。對俄方而言，這是堅決不可接受的。外國武裝力量一旦部署，就將成為俄方的合法打擊目標。（央視新聞）"
+    },
+    {
+      "id": "5200851",
+      "time": "2026-11-07 23:06:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統呼籲民眾助力降低能源消耗。"
+    },
+    {
+      "id": "5200850",
+      "time": "2026-11-07 23:05:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：在昨晚俄羅斯發動的襲擊中，我們只攔截了36枚彈道導彈中的4枚。"
+    },
+    {
+      "id": "mkt:01a1b68a-ac9b-7ee0-aac0-72ba0be73bad",
+      "time": "2026-11-07 23:05:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Polish Prime Minister Tusk said he is being briefed by the interior ministry on the Krakow shooting and that police are investigating the attack."
+    },
+    {
+      "id": "5200840",
+      "time": "2026-11-07 23:01:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭媒體：該國發生槍擊事件致人員傷亡】據波蘭媒體7日報道，波蘭克拉科夫發生槍擊事件，造成人員傷亡。（新華社）"
+    },
+    {
+      "id": "5200839",
+      "time": "2026-11-07 23:00:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克：內政部通知我有關克拉科夫槍擊事件，警方正在調查襲擊事件。"
+    },
+    {
+      "id": "5200836",
+      "time": "2026-11-07 22:59:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：我們正在努力擺脫“既非戰爭也非和平”的狀態。"
+    },
+    {
+      "id": "5200829",
+      "time": "2026-11-07 22:55:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "標題伊拉克外長：伊拉克歡迎同伊朗發展友好關係，但拒絕任何干涉本國內政的行為。"
+    },
+    {
+      "id": "mkt:01a1b681-a3b0-7ee0-aac0-6f026c58bfdd",
+      "time": "2026-11-07 22:55:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish broadcaster TVN24 reports a shooting at Krakow's main square."
+    },
+    {
+      "id": "5200828",
+      "time": "2026-11-07 22:54:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日媒：日本新版防衛戰略或強化“持續作戰能力”】日本共同社7日援引相關人士訊息稱，日本政府正考慮在擬於年底修訂的《國家防衛戰略》中，明確寫入強化“持續作戰能力”的內容。相關動向在日本政府內外引發擔憂。（新華社）"
+    },
+    {
+      "id": "5200827",
+      "time": "2026-11-07 22:53:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【七天內近五千名非法移民抵達西班牙加那利群島】當地時間11月7日，據西班牙迦納利自治區最新統計，在剛剛過去的七天內，已有近五千名非法移民搭乘木船和多艘小型船隻抵達加那利群島，其中大部分人員集中登陸耶羅島。僅在過去24小時內，群島各港口就接納了超過1100名獲救人員。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1b67f-3bbd-7ee0-aac0-67db366a7eaa",
+      "time": "2026-11-07 22:52:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "President Zelenskiy said additional personnel in the Security Service of Ukraine’s (SBU) security department will be dismissed after a corruption scandal came to light."
+    },
+    {
+      "id": "5200821",
+      "time": "2026-11-07 22:44:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧釋出暴雪預警多趟列車停運】受降雪影響，11月8日，遼寧葫蘆島北站有多趟列車臨時停運。停運車次包括G1797次、D8071次、D8072次、D8087次、D8088次、G1798次等。據瞭解，隨著天氣情況變化，停運車次情況還將有變動。（央廣網）"
+    },
+    {
+      "id": "5200816",
+      "time": "2026-11-07 22:37:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，在腐敗醜聞之後，烏克蘭安全域性還將有更多人員被解職。"
+    },
+    {
+      "id": "5200811",
+      "time": "2026-11-07 22:35:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：伊朗導彈的射程限制已被解除，伊朗正在進行一場不對稱戰爭。"
+    },
+    {
+      "id": "mkt:01a1b66f-552e-7ee0-aac0-585bf7a7fa71",
+      "time": "2026-11-07 22:35:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【GPU prices plunge after 11-day rally; Huaqiangbei vendors adjust prices intra-day】GPUs, used for graphics and increasingly for AI compute, reversed course after an 11-trading-day rally that was sparked by overseas shutdown rumours. Since Oct. 28, prices have fallen sharply: the RTX 5080 slid from nearly 20,000 yuan to about 16,000 yuan, a roughly 20% drop. Vendors say distributors and retailers had pre-stocked inventory, amplifying price swings and producing significant intra-day volatility. Despite the correction, average retail prices for the RTX 50 series remain about 1.7x MSRP, leaving earlier gains largely intact. Huaqiangbei price moves have drawn overseas buyers; visits and cross-border procurement for GPUs and memory have intensified, with one merchant saying foreign customers made up over 50% of October sales."
+    },
+    {
+      "id": "te:markets:599284",
+      "time": "2026-11-07 22:32:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Berkshire Hathaway earnings above expectations at 10.33 USD — Berkshire Hathaway (BRKB) released earnings per share at 10.33 USD, compared to market expectations of 5.32 USD."
+    },
+    {
+      "id": "5200805",
+      "time": "2026-11-07 22:30:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行行長拉加德：不能保證12月一定行動 但當前事態仍與預期一致】被問到有人指出歐洲央行在此前面對能源衝擊到俄烏衝突時反應遲緩。歐洲央行行長拉加德表示，這並非歐洲獨有的問題，而是我們所有人面臨的問題。進一步被問及從這次事件中吸取的教訓，以及是否認為在任何次生影響顯現之前，有必要提高利率時，拉加德稱，我認為我們近期經歷並仍在經歷的是巨大的不確定性、不可預測性、我們所熟知的世界格局的瓦解、貿易中斷、供應鏈中斷，以及對安全而非效率的過度關注——所有這些都在徹底改變經濟參與者的運作環境。正因如此，我們決定根據資料，並逐次會議地制定貨幣政策。所以，我今天不能保證我們一定會在12月行動。但我可以肯定的是，根據我們目前掌握的資訊，除非出現重大變故，否則事態的發展方向不會與我的預期有所不同。我在新聞釋出會上也是這麼說的。"
+    },
+    {
+      "id": "mkt:01a1b66b-5b2b-7ee0-aac0-506af89b56fc",
+      "time": "2026-11-07 22:30:51",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "【ECB President Lagarde: cannot guarantee action in December but current developments align with expectations】ECB President Lagarde said the bank cannot guarantee it will act at its December meeting and that policy will remain data-dependent and decided on a meeting-by-meeting basis. She described the backdrop as one of large uncertainty — citing energy shocks, the Russia-Ukraine conflict, a breakdown of the familiar world order, trade and supply-chain disruptions and a shift from efficiency to security — and said that, barring a major new shock, recent developments are consistent with her expectations."
+    },
+    {
+      "id": "5200802",
+      "time": "2026-11-07 22:30:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統稱正努力擺脫“非戰非和”局面】伊朗總統佩澤希齊揚週六表示，伊朗政府正努力使國家擺脫目前“非戰非和”的局面，同時維護國家尊嚴。佩澤希齊揚說：“政府正努力使國家有尊嚴地走出這種‘非戰非和’的局面。”他補充道：“然而，這不應妨礙我們制定認真細緻的計劃來管理和節約燃料和能源消耗。”"
+    },
+    {
+      "id": "5200799",
+      "time": "2026-11-07 22:26:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【顯示卡價格連漲11個交易日後急跌】顯示卡是主要用於圖形渲染的硬體，如今也廣泛用於AI算力運算。此前受海外停產傳聞刺激，RTX 50系列顯示卡開啟連續上漲，一口氣連漲11個交易日。從10月28日開始，行情突然掉頭向下。RTX 5080從最高近2萬元，跌到1.6萬元，價格回撥兩成。有商戶告訴記者：“代理商、商戶提前囤貨，導致價格發生了很大浮動，甚至早上跟下午價格都變動很大。”儘管價格有所回落，但目前主流顯示卡RTX 50系列均價仍是建議零售價的1.7倍，之前較大的價格漲幅仍未消化。華強北市場硬體價格的走向，也吸引著海外採購商的目光。記者走訪發現，近期海外客商密集到店詢價，顯示卡、記憶體等硬體跨境採購熱度明顯提升。有商戶稱，“10月份外國客戶銷售額佔了50%以上。”（央視財經）"
+    },
+    {
+      "id": "5200792",
+      "time": "2026-11-07 22:23:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滬武高速潛山段發生多車追尾事故】記者從消防、公安等多部門瞭解到，11月7日下午，滬武高速安徽潛山段發生一起多車追尾事故。滬武高速嶽西往桐城南方向，一輛載有電池的貨車發生自燃，後方多車追尾。目前事故傷亡情況還在瞭解中，記者從當地有關部門瞭解到，有人被送到醫院治療。（新華社）"
+    },
+    {
+      "id": "5200791",
+      "time": "2026-11-07 22:20:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德稱未來幾個季度通脹率將居高不下，第二輪通脹效應並不高於預期。"
+    },
+    {
+      "id": "5200790",
+      "time": "2026-11-07 22:19:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【餘承東轉發鴻蒙智行微博，疑回應此前“不再直管華為汽車業務”傳聞】11月7日下午，華為常務董事、終端BG董事長餘承東發微博表示，享界V8全國試駕正式開啟。這條微博被外界視為變相回應早前的傳聞。早前，有網友注意到，近一個月以來，餘承東的社交平臺未釋出任何汽車相關內容，市場上也因此傳出“餘承東不再直接管理華為汽車業務”的訊息。對此，紅星資本局於11月7日向華為相關負責人求證，但對方表示“沒收到相關訊息”。（紅星新聞）"
+    },
+    {
+      "id": "5200789",
+      "time": "2026-11-07 22:17:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拉圭前總統佩尼亞抵達檢方聽證會現場。"
+    },
+    {
+      "id": "mkt:01a1b65d-cf46-7ee0-aac0-4d1ac7b7a3ef",
+      "time": "2026-11-07 22:16:03",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "【Zelenskiy: Ukraine still severely short of Patriot interceptor missiles】Ukrainian President Zelenskiy said on the 7th Russian forces fired 36 missiles in strikes that day and Ukraine intercepted only four. He said Ukraine remains severely short of Patriot interceptor missiles and is seeking at all levels to accelerate deliveries, having passed relevant information to the US."
+    },
+    {
+      "id": "mkt:01a1b65d-35cb-7ee0-aac0-473e2d367b59",
+      "time": "2026-11-07 22:15:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's Oil Ministry said it will continue efforts to raise oil output next year."
+    },
+    {
+      "id": "mkt:01a1b65d-1d58-7ee0-aac0-39f03fa07da1",
+      "time": "2026-11-07 22:15:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iraq's oil ministry said it will adhere to an OPEC+ production level of 4.31 mln bpd; any increase to the output ceiling requires unanimous OPEC+ approval."
+    },
+    {
+      "id": "5200788",
+      "time": "2026-11-07 22:14:33",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行行長拉加德：尚未發現預測之外的第二輪效應跡象】歐洲央行行長拉加德表示，目前，我們尚未觀察到超出我們預測範圍的第二輪影響跡象。我們正在密切關注前瞻性指標——如多年期工資協議、企業的工資預期等——但目前尚未發現任何變化的跡象。對於是否上調預測值的問題，拉加德認為，現在就對預測結果做出預判並不合適。但顯然，自我們9月份的預測以來，已經出現了一些重要變化。能源期貨曲線走高，這將對通脹和經濟增長都產生影響，儘管近期油價有所回落。長期利率也走高。我們的預測將確定這些不同因素將如何影響中期通脹。"
+    },
+    {
+      "id": "mkt:01a1b65b-a9fb-7ee0-aac0-33d8024547e2",
+      "time": "2026-11-07 22:13:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Lagarde: no signs yet of second‑round effects beyond ECB projections】ECB President Lagarde said the bank has not observed second‑round effects beyond its projections and is monitoring forward‑looking indicators such as multi‑year wage deals and firms' wage expectations, but has seen no signs of change. She said it is premature to pre-judge adjustments to the projections, while noting that since the September forecasts the energy futures curve and long‑term yields have risen — which will affect inflation and growth, despite a recent pullback in oil — and the ECB's updated projections will determine how these factors feed into medium‑term inflation."
+    },
+    {
+      "id": "5200787",
+      "time": "2026-11-07 22:12:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在被問及能否避免侮辱民主黨人時表示：這“很容易”。"
+    },
+    {
+      "id": "mkt:01a1b658-ab6c-7ee0-aac0-2d475948f3af",
+      "time": "2026-11-07 22:10:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD"
+      ],
+      "text": "【ECB President Lagarde: Euro-area headline inflation rising but underlying indicators stable】ECB President Lagarde said euro-area headline inflation was 4% in October, above expectations a few months ago but in line with market pricing. The increase is largely energy-driven: energy inflation rose to 20.8% in October from 18.9% in September, reflecting the Middle East conflict and weaker global refining capacity; food inflation also picked up. Core inflation excluding energy, food, alcohol and tobacco remained 2.5%, unchanged from September; services inflation edged up to 3.3% but stayed within its four-month range. Lagarde said detailed breakdowns are not yet available and will be needed to assess whether services inflation stems from energy-intensive sectors such as transport or from broader indirect pass-through. She warned inflation is likely to remain elevated over the coming quarters, and that higher, more persistent inflation raises risks to the ECB’s medium-term target."
+    },
+    {
+      "id": "5200786",
+      "time": "2026-11-07 22:10:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：烏仍嚴重缺乏“愛國者”防空系統攔截彈】烏克蘭總統澤連斯基7日表示，俄軍在當天的襲擊中發射36枚導彈，烏方僅成功攔截4枚。烏方目前仍嚴重缺乏“愛國者”防空系統攔截彈。澤連斯基表示，烏方正在各個層面尋求加快攔截彈交付，並向美方傳遞相關資訊。"
+    },
+    {
+      "id": "5200785",
+      "time": "2026-11-07 22:06:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在接受採訪時表示：我可以與民主黨人合作。"
+    },
+    {
+      "id": "5200784",
+      "time": "2026-11-07 22:03:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【七天內近五千移民抵西屬加那利群島】當地時間11月7日，據西班牙最新統計，過去七天近5000名非法移民乘船抵達加那利群島，大部分集中登陸耶羅島；僅過去24小時各港口接納超1100名獲救人員，當地民防與救援部門稱接待和安置能力已逼近極限。今年7月底，一則西班牙邊境政策錯誤資訊在社交媒體傳播，致約8萬人以泅渡等方式從摩洛哥偷渡至西班牙北非飛地休達，約百人溺亡，大多數非法越境者已返回摩洛哥。（CCTV國際時訊）"
+    },
+    {
+      "id": "5200781",
+      "time": "2026-11-07 21:50:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美中央司令部成立特遣隊 阻止伊朗透過陸路運輸先進武器】當地時間11月7日，美國中央司令部司令庫珀下令成立一支名為“鐵門”（Task Force Iron Gate）的特遣隊，旨在配合美國政府正在開展的相關行動，阻止伊朗透過陸路運輸先進武器及其他物資。據介紹，該特遣隊由約20名文職及軍事人員組成，駐紮在美國佛羅里達州坦帕市。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1b641-8062-7ee0-aac0-253bf9523204",
+      "time": "2026-11-07 21:45:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iraq foreign minister warns Middle East could return to war】Iraq foreign minister Hussein said current developments suggest the Middle East could again erupt into war. He said Iraq has lost about $60 billion after oil exports via the Strait of Hormuz were halted; following an agreement with the US and Iran Iraq has resumed oil exports through the strait. Hussein said the US has formally requested closure of all Iraq–Iran land border crossings except two crossings. Iraq has told Iran it seeks a friendly partnership but rejects interference, and there are signs external actors are using Iraqi territory to strike neighboring states."
+    },
+    {
+      "id": "mkt:01a1b641-07d0-7ee0-aac0-186913233738",
+      "time": "2026-11-07 21:44:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "【Guojin Securities' Mu Yiling: core blue‑chip valuations at historically low levels】Guojin Securities chief strategist and deputy head Mu Yiling said the A‑share market has been under pressure since mid‑to‑late September, with rising external uncertainty the main driver of the recent pullback. Core blue‑chip valuations are at historically low levels, with growth‑style large‑cap blue chips offering particularly attractive value. On AI, Mu said accelerating domestic substitution gives China’s current AI development clear self‑reliance; if overseas AI prospects waver, China-focused domestic‑substitution tech sectors could become a haven for global growth capital."
+    },
+    {
+      "id": "5200780",
+      "time": "2026-11-07 21:44:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克外長警告稱中東地區或再陷戰火】當地時間7日，伊拉克外長侯賽因在接受媒體採訪時表示，當前局勢表明中東地區或將重新爆發戰爭。侯賽因指出，伊拉克由於霍爾木茲海峽石油出口停滯已損失了約600億美元，在與美國和伊朗達成協議後，伊拉克恢復透過霍爾木茲海峽出口石油。他表示，美國已正式要求關閉除兩個口岸外伊拉克與伊朗的所有邊境口岸。伊拉克也已通知伊朗，接受與其發展聯盟友好關係，但拒絕其干涉伊拉克事務，有跡象表明，存在外部勢力利用伊拉克領土攻擊鄰國。"
+    },
+    {
+      "id": "5200779",
+      "time": "2026-11-07 21:43:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長表示，提高產量上限須經歐佩克+共識。"
+    },
+    {
+      "id": "5200778",
+      "time": "2026-11-07 21:43:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長： 將繼續爭取明年提高產量。"
+    },
+    {
+      "id": "5200777",
+      "time": "2026-11-07 21:42:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長：伊拉克重申對歐佩克+產量目標的承諾，維持443.1萬桶/日的產量水平。"
+    },
+    {
+      "id": "5200776",
+      "time": "2026-11-07 21:40:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達CEO黃仁勳之女據悉取消原定韓國之行】據訊息人士週六透露，英偉達公司高階總監、執行長黃仁勳之女黃敏珊原定的韓國之行已被突然取消。黃敏珊原計劃於週日訪問韓國，出席將於週一和週二在首爾COEX展覽中心舉行的“英偉達人工智慧日首爾2026”活動，並與韓國政府官員會面。但訊息人士稱，由於“家庭原因”，她的行程被突然取消，但未透露具體細節。"
+    },
+    {
+      "id": "mkt:01a1b63b-f600-7ee0-aac0-15c4fe5e6829",
+      "time": "2026-11-07 21:39:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.N. Office for the Coordination of Humanitarian Affairs said emergency stockpiles in Gaza are insufficient to meet the needs of people affected by recent heavy rains and urged immediate entry of winter relief supplies."
+    },
+    {
+      "id": "5200775",
+      "time": "2026-11-07 21:37:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美中央司令部成立 “鐵閘特遣隊”，封堵伊朗先進武器陸路輸送通道】11 月 7 日，美國中央司令部司令下令組建一支特遣部隊，配合美國政府現有行動，阻止伊朗透過陸路運輸先進武器及其他物資。布拉德・庫珀上將下令成立 “鐵閘特遣隊”，這支內設工作組約由 20 名文職與軍事人員組成，駐地位於佛羅里達州坦帕。這支中央司令部新團隊將和美國其他政府機構協同，阻止先進武器系統、軍民兩用技術、受制裁物資以及非法資金流經由伊朗陸地邊境和裡海流通。"
+    },
+    {
+      "id": "mkt:01a1b639-f06c-7ee0-aac0-0aa4d1c56bac",
+      "time": "2026-11-07 21:36:52",
+      "tags": [
+        "MKT News",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "text": "Berkshire Hathaway (BRK.A, BRK.B) repurchased shares in Q4 totaling the equivalent of about 2,554 Class A shares as of Oct. 28."
+    },
+    {
+      "id": "mkt:01a1b638-b5d2-7ee0-aac0-042aeefdc25f",
+      "time": "2026-11-07 21:35:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CENTCOM establishes Task Force Iron Gate to disrupt Iranian land routes for illicit shipments】CENTCOM said on Nov. 7 its commander ordered the creation of Task Force Iron Gate, a roughly 20-person civil-military team based in Tampa, Florida. The unit will coordinate with other U.S. agencies to prevent advanced weapons systems, dual-use technology, sanctioned goods and illicit financial flows from transiting Iran's land borders and the Caspian Sea. CENTCOM said the task force consolidates recent maritime pressure and is intended to further constrain Iran's ability to fund terrorism, rebuild weapons production capacity and replenish forces. It added U.S. maritime measures in recent months have cost Iran more than $25 billion in crude export revenue and that strict controls on vessels entering and leaving Iranian ports remain in place."
+    },
+    {
+      "id": "5200774",
+      "time": "2026-11-07 21:33:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：特遣部隊將配合打擊伊朗先進武器的現有行動。"
+    },
+    {
+      "id": "5200773",
+      "time": "2026-11-07 21:32:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：特遣部隊將打擊用於非法運輸的線路。"
+    },
+    {
+      "id": "mkt:01a1b635-a2ab-7ee0-aabf-f95c90704ce4",
+      "time": "2026-11-07 21:32:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "CENTCOM ordered the formation of a task force to support U.S. government efforts to prevent Iran from using overland routes to transport advanced weapons and other materiel."
+    },
+    {
+      "id": "5200772",
+      "time": "2026-11-07 21:31:46",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【國金證券牟一凌：核心藍籌股的估值水平已經處於歷史偏低水平】國金證券首席策略官、副所長牟一凌接受記者採訪時表示，9月中下旬以來，A股市場表現承壓，外部不確定性加劇是本輪迴調的核心擾動。當前核心藍籌股的估值水平已經處於歷史偏低水平，尤其成長類大盤藍籌價效比凸顯。對於AI產業，牟一凌表示，隨著國產替代的加速，本輪中國AI產業的發展具備明顯的自主可控性。在未來海外AI產業發展預期發生波動時，國產替代相關的科技板塊有望成為全球成長資金的避風港。（券商中國）"
+    },
+    {
+      "id": "5200771",
+      "time": "2026-11-07 21:30:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "伯克希爾哈撒韋公司第三季度營收增長11%至1056.5億美元。"
+    },
+    {
+      "id": "te:markets:599283",
+      "time": "2026-11-07 21:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 1.18% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -1.18% decrease."
+    },
+    {
+      "id": "mkt:01a1b631-9c0f-7ee0-aabf-f54dabe84663",
+      "time": "2026-11-07 21:27:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Refinitiv reports the U.S. Central Command (CENTCOM) is forming a task force to intensify efforts to curb Iran's use of overland and Caspian Sea routes to move weapons and other materiel after months of maritime blockade."
+    },
+    {
+      "id": "5200770",
+      "time": "2026-11-07 21:26:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾哈撒韋：第四季度截至10月28日回購了相當於約2，554股A類股票。"
+    },
+    {
+      "id": "mkt:01a1b62f-c040-7ee0-aabf-e9c00348209c",
+      "time": "2026-11-07 21:25:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Yonhap reported NVIDIA CEO Jensen Huang's daughter canceled a planned trip to South Korea."
+    },
+    {
+      "id": "5200769",
+      "time": "2026-11-07 21:25:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方稱將擴大海上封鎖範圍，組建特遣部隊，以加強美國限制伊朗使用陸路和裡海的努力。"
+    },
+    {
+      "id": "5200768",
+      "time": "2026-11-07 21:24:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達CEO黃仁勳之女取消原定韓國之行。"
+    },
+    {
+      "id": "mkt:01a1b62d-19b2-7ee0-aabf-e1f1010d1264",
+      "time": "2026-11-07 21:22:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "GOOG.O",
+        "BAC.N"
+      ],
+      "text": "Berkshire Hathaway (BRK.A.N, BRK.B.N) said as of Sept. 30, 65% of the fair value of its equity investments was concentrated in ALPHABET (GOOG.O), American Express (AXP.N), Apple (AAPL.O), BofA (BAC.N) and Coca-Cola (KO.N)."
+    },
+    {
+      "id": "5200767",
+      "time": "2026-11-07 21:21:02",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "伯克希爾哈撒韋：截至9月30日，其股權投資總公允價值的65%集中於Alphabet、美國運通、蘋果、美國銀行和可口可樂。"
+    },
+    {
+      "id": "5200766",
+      "time": "2026-11-07 21:20:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶市司法局原黨委委員、副局長熊世明接受審查調查】中央紀委國家監委網站11月7日通報，據重慶市紀委監委訊息：重慶市司法局原黨委委員、副局長熊世明涉嫌嚴重違紀違法，目前正接受重慶市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5200765",
+      "time": "2026-11-07 21:17:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱薩那周邊遭沙特空襲 至少11人死亡】葉門胡塞武裝控制的馬西拉電視臺7日報道，葉門首都薩那周邊一座村莊當天遭到沙烏地阿拉伯戰機空襲，造成至少11人死亡。報道說，空襲摧毀了薩那以東的貝尼·胡謝什地區舍爾耶村的5棟民宅，死者包括婦女和兒童。報道援引當地衛生部門負責人的話說，救援人員已從廢墟中找到11具遺體。由於搜救工作仍在進行，目前公佈的死亡人數僅為初步統計。（新華社）"
+    },
+    {
+      "id": "5200764",
+      "time": "2026-11-07 21:17:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我召開了一次會議，討論俄羅斯襲擊事件的後續影響以及正在進行的恢復工作。昨晚的襲擊使用了36枚導彈，其中只有4枚導彈被攔截。不幸的是，愛國者導彈系統的攔截彈嚴重短缺，我們正在各個層面尋求加快攔截彈供應的途徑，並向美方傳達局勢的緊迫性。"
+    },
+    {
+      "id": "mkt:01a1b627-1955-7ee0-aabf-dbe53b445fca",
+      "time": "2026-11-07 21:16:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BRK.A.O",
+        "Impact mixed"
+      ],
+      "text": "【Berkshire Hathaway accelerates buybacks; operating profit falls】Berkshire Hathaway (BRK.A, BRK.B) reported third-quarter operating profit declined 6% to $12.71bn from $13.49bn a year earlier, citing weaker insurance underwriting. The firm repurchased $9.6bn of stock in the quarter, additional to $4.8bn bought earlier this year. Operating profit equated to roughly $8,954 per Class A share. Net profit fell 28% to $22.11bn, including unrealized gains and losses on securities the company still holds."
+    },
+    {
+      "id": "5200763",
+      "time": "2026-11-07 21:13:42",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【伯克希爾哈撒韋第三季度加快股票回購，營業利潤下滑】伯克希爾哈撒韋公司週六公佈，受保險承保業績下滑影響，其第三季度營業利潤有所下降，並表示當季回購了96億美元的股票。此次回購是伯克希爾今年早些時候回購的48億美元股票之外的額外回購。季度營業利潤從上年同期的134.9億美元下降5.8%，至127.1億美元，相當於每股A類股約8954美元。淨利潤下降28%至221.1億美元，其中包含總部位於內布拉斯加州奧馬哈市的伯克希爾公司目前仍持有的股票未實現損益。截至第三季度末，伯克希爾哈撒韋的現金儲備達3774億美元，較3月底3802億美元的歷史高點有所下降。"
+    },
+    {
+      "id": "mkt:01a1b623-2816-7ee0-aabf-d7489c4d7bd5",
+      "time": "2026-11-07 21:11:59",
+      "tags": [
+        "MKT News",
+        "BRK.A.N"
+      ],
+      "text": "Berkshire Hathaway (BRK.A.N, BRK.B.N): Class A-equivalent shares outstanding 1,418,900 as of Sept. 30, 2026."
+    },
+    {
+      "id": "5200762",
+      "time": "2026-11-07 21:11:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾哈撒韋：截至9月30日現金頭寸為3569億美元。"
+    },
+    {
+      "id": "mkt:01a1b622-cf24-7ee0-aabf-cf14fd87a28b",
+      "time": "2026-11-07 21:11:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BRK.A.O",
+        "BRK.B.O"
+      ],
+      "text": "Berkshire Hathaway (BRK.A, BRK.B): Cash holdings totaled $356.9 billion as of Sept. 30 (end of Q3)."
+    },
+    {
+      "id": "5200761",
+      "time": "2026-11-07 21:10:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "伯克希爾哈撒韋：截至2026年9月30日，流通在外的 A 類等價股票為 1,418,900 股。"
+    },
+    {
+      "id": "mkt:01a1b61d-c99e-7ee0-aabf-c7275ad00a3b",
+      "time": "2026-11-07 21:06:07",
+      "tags": [
+        "MKT News",
+        "BRK.A.N",
+        "BRK.B.N"
+      ],
+      "text": "Berkshire Hathaway (BRK.A, BRK.B) insurance float stood at $178.5 billion as of Sept. 30, 2026."
+    },
+    {
+      "id": "mkt:01a1b61d-6f14-7ee0-aabf-b87c21905f2a",
+      "time": "2026-11-07 21:05:44",
+      "tags": [
+        "MKT News",
+        "BRK.A",
+        "Impact bearish",
+        "BRK.B"
+      ],
+      "text": "Berkshire Hathaway (BRK.A, BRK.B): Q3 net investment gains $9.407 billion, versus $17.311 billion a year earlier."
+    },
+    {
+      "id": "5200760",
+      "time": "2026-11-07 21:05:28",
+      "tags": [
+        "宏觀",
+        "其他"
+      ],
+      "text": "【李家超發表致辭 紀念基本法頒佈36週年】憲法和香港基本法推介聯席會議11月7日舉辦紀念基本法頒佈三十六週年研討會。香港特別行政區行政長官李家超發表視像致辭，強調憲法和基本法共同構成香港的憲制基礎，特區政府已公佈《香港第一個五年規劃》，將全力融入和服務國家發展大局。 李家超指出，三十六年前基本法的頒佈將“一國兩制”理念落實到條文，為香港維持長期繁榮穩定奠下根基。今年研討會主題為“國家發展，香港從不缺席”，回顧改革開放以來，香港始終堅定成為國家高質量發展的參與者與貢獻者。 李家超表示，特區政府公佈《香港第一個五年規劃》，主動對接國家發展戰略。香港將發揮“背靠祖國、聯通世界”的獨特優勢，善用國際化營商環境與中英雙語普通法體系，鞏固提升國際金融、航運、貿易中心地位。他呼籲社會各界同心同行，在基本法的保障下，為國家和香港的發展開啟精彩新篇章。（大灣區之聲）"
+    },
+    {
+      "id": "5200759",
+      "time": "2026-11-07 21:04:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾哈撒韋第三季度淨投資收益為 94.07 億美元，去年同期為 173.11 億美元。"
+    },
+    {
+      "id": "5200758",
+      "time": "2026-11-07 21:04:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾哈撒韋：第三季度其他業務營業利潤12.4億美元，同比下降10%。"
+    },
+    {
+      "id": "5200757",
+      "time": "2026-11-07 21:04:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾哈撒韋：第三季度淨利潤 221.1 億美元，同比下滑 28%；保險浮存金 1785 億美元。"
+    },
+    {
+      "id": "mkt:01a1b61b-200e-7ee0-aabf-b37d141e0086",
+      "time": "2026-11-07 21:03:13",
+      "tags": [
+        "MKT News",
+        "BRK.A"
+      ],
+      "text": "Berkshire Hathaway (BRK.A/BRK.B) reported third-quarter net earnings per A-equivalent common share of $15,502."
+    },
+    {
+      "id": "5200756",
+      "time": "2026-11-07 21:02:48",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "伯克希爾哈撒韋公司第三季度末現金儲備達3774億美元。"
+    },
+    {
+      "id": "5200755",
+      "time": "2026-11-07 21:02:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾哈撒韋第三季度平均等價A類股每股淨收益15,502美元。"
+    },
+    {
+      "id": "mkt:01a1b619-ef7f-7ee0-aabf-a913834f820c",
+      "time": "2026-11-07 21:01:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BRK.A.O",
+        "Impact bearish",
+        "BRK.B.O"
+      ],
+      "text": "Berkshire Hathaway (BRK.A, BRK.B) said third-quarter net income attributable to shareholders was $22.112 bln, down from $30.796 bln a year earlier."
+    },
+    {
+      "id": "5200754",
+      "time": "2026-11-07 21:01:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾哈撒韋第三季度製造、服務及零售業務營業利潤 40.4 億美元，同比增 12%。"
+    },
+    {
+      "id": "mkt:01a1b619-5d73-7ee0-aabf-a7e735d425be",
+      "time": "2026-11-07 21:01:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BRK.A.O",
+        "Impact bullish",
+        "BRK.B.O"
+      ],
+      "text": "Berkshire Hathaway (BRK.A, BRK.B) repurchased $9.6 billion of stock in Q3."
+    },
+    {
+      "id": "5200753",
+      "time": "2026-11-07 21:01:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "伯克希爾哈撒韋第三季度歸屬於普通股股東的淨收益為221.12億美元，而去年同期為307.96億美元。"
+    },
+    {
+      "id": "mkt:01a1b619-0afe-7ee0-aabf-9fa639fd2bf6",
+      "time": "2026-11-07 21:00:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BRK.A.N",
+        "BRK.B.N"
+      ],
+      "text": "Berkshire Hathaway (BRK.A, BRK.B) said third-quarter operating profit was $12.705 bln, down from $13.485 bln a year earlier."
+    },
+    {
+      "id": "5200752",
+      "time": "2026-11-07 21:00:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【包鋼股份在奇瑞汽車主機廠供貨推進中取得新突破】日前，包鋼股份在奇瑞汽車主機廠供貨推進中取得新突破，某車型多個關鍵覆蓋件完成多輪試模，已由試模驗證向材料切換和批次供貨穩步邁進，高階汽車鋼市場拓展再進一步。此次推進的某車型專案中，包鋼股份供應的冷軋汽車鋼，主要應用於車型左右側圍、前後門外板等核心關鍵覆蓋件。"
+    },
+    {
+      "id": "5200751",
+      "time": "2026-11-07 21:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾哈撒韋能源業務三季度營業利潤 16.1 億美元，同比增長 8.3%。"
+    },
+    {
+      "id": "5200750",
+      "time": "2026-11-07 20:59:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾哈撒韋三季度 BNSF 鐵路業務營業利潤 17.3 億美元，同比增 19%。"
+    },
+    {
+      "id": "5200749",
+      "time": "2026-11-07 20:59:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾三季度保險及投資業務營業利潤 27.3 億美元，同比下滑 14%。"
+    },
+    {
+      "id": "5200748",
+      "time": "2026-11-07 20:58:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾哈撒韋第三季度保險承保業務營業利潤為 13.5 億美元，同比下降 43%。"
+    },
+    {
+      "id": "5200747",
+      "time": "2026-11-07 20:56:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "伯克希爾哈撒韋公司：第三季度回購約96億美元股票。"
+    },
+    {
+      "id": "5200746",
+      "time": "2026-11-07 20:55:28",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "伯克希爾哈撒韋公司第三季度營業利潤為127.1億美元，同比下降5.8%。"
+    },
+    {
+      "id": "5200745",
+      "time": "2026-11-07 20:53:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗Press TV稱Instagram封禁其賬號】在未事先警告或解釋哪些帖子違反其規則的情況下，Meta旗下的Instagram封禁了 Press TV 的主賬號，該賬號擁有超過 29.2 萬粉絲。"
+    },
+    {
+      "id": "mkt:01a1b610-d56f-7ee0-aabf-92955184662c",
+      "time": "2026-11-07 20:51:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Reform Holdings denies affiliation after third party used subsidiary name in registration】China Reform Holdings Co., Ltd. said it discovered that Hengyun Energy Technology (Beijing) Center (Limited Partnership) listed its subsidiary Guoxin Holdings (Shanghai) Co., Ltd. as the investing party in a market-entity registration. China Reform and its affiliates said they have no equity, investment or business relationship with that entity or its affiliates; have not signed any agreements or authorized use of their name; are not aware of or involved in the entity’s activities; and accept no responsibility. The company warned the public to guard against personal or property losses."
+    },
+    {
+      "id": "5200744",
+      "time": "2026-11-07 20:47:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海軍首批艦載機女飛行學員結業赴一線部隊】記者11月7日從海軍航空大學獲悉，海軍首批艦載機女飛行學員全部透過結業考核赴一線部隊。這標誌著海軍航空兵人才梯隊建設再添新生力量，海軍艦載機飛行人才培養取得突破性進展。（新華社）"
+    },
+    {
+      "id": "5200743",
+      "time": "2026-11-07 20:47:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國國新，嚴正宣告】11月7日，中國國新公眾號釋出宣告稱，近期“恆耘能源科技（北京）中心（有限合夥）”將我司下屬企業國新控股（上海）有限公司假冒為其投資主體進行市場主體登記，謹在此提示：一、我司及關聯方與上述實體或關聯方不存在任何股權隸屬、投資或者業務合作等關係，也沒有與上述實體或者其關聯方簽訂任何協議，我司或關聯方不知悉且沒有參與上述實體或關聯方開展的任何活動，該等活動均與我司及關聯方無任何關係，我司及關聯方對該等活動不承擔任何責任。二、我司及關聯方從未透過任何渠道、以任何形式對上述實體或關聯方進行任何授權。三、我司在此提醒廣大公眾，如您發現有任何冒用我司及下屬企業名義的不法行為，請透過官網“聯絡我們”頁面的資訊與我們聯絡溝通；為了您的人身及財產安全，請勿相信及參與和上述不法人員有關的一切活動；如您已因此遭受財產損失，請立即向公安機關報案。"
+    },
+    {
+      "id": "mkt:01a1b607-50f2-7ee0-aabf-8946113dff8e",
+      "time": "2026-11-07 20:41:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Trafigura's heavy Asian spot copper buying pushes regional premiums to record highs】Trafigura has aggressively bought spot copper in Asia over the past two weeks, targeting large volumes for November and December delivery. Regional supply tightness and the firm's willingness to pay above competitors have driven Asian spot copper premiums to record highs as it bid for metal from multiple Asian producers and traders."
+    },
+    {
+      "id": "5200742",
+      "time": "2026-11-07 20:36:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家海洋預報臺釋出海浪和風暴潮黃色警報】從自然資源部獲悉，國家海洋預報臺今天（7日）下午釋出海浪和風暴潮黃色警報。海浪方面：受冷空氣和低壓的共同影響，預計11月7日夜間到8日下午，渤海將出現3到3.8米的大浪區；山東北部近岸海域將出現2.5到3.5米的大浪，該近岸海域海浪預警級別為黃色。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。風暴潮方面：受冷空氣和低壓的共同影響，預計11月7日傍晚至8日夜間，渤海灣和萊州灣將出現100到180釐米的風暴增水，山東半島北部沿海將出現40到70釐米的風暴增水。河北省滄州市和山東省濱州市的風暴潮預警級別為黃色。請沿海政府及相關部門按照職責做好防禦風暴潮的應急準備工作；組織各類船隻回港避風，做好養殖水產設施和養殖漁排的維護、加固等防禦措施；加強沿海海堤、水閘等設施的巡查，薄弱地區和危險地區的海堤及時加固除險。"
+    },
+    {
+      "id": "mkt:01a1b600-ae49-7ee0-aabf-82fbf8d9ff02",
+      "time": "2026-11-07 20:34:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense said the danger in Najran has passed."
+    },
+    {
+      "id": "5200741",
+      "time": "2026-11-07 20:34:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：奈季蘭的危險已解除。"
+    },
+    {
+      "id": "5200740",
+      "time": "2026-11-07 20:31:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【基輔市長回應澤連斯基指責：中央當局不擇手段想要除掉我】據俄新社11月6日報道，基輔市長維塔利·克利奇科抨擊烏克蘭總統澤連斯基，以此回應有關基輔未準備好應對俄羅斯打擊的指責。 克利奇科在“電報”社交平臺發文稱：“中央當局反覆唸叨基輔做得最差，不斷操縱輿論、編造謊言，這很糟糕。中央當局不擇手段想要除掉我克利奇科，處處設定障礙，不給首都提供支援，實際上是在毀掉基輔。這對於首都居民而言十分卑劣。” 克利奇科指出，澤連斯基指責基輔市政當局供暖季籌備工作不力，可事實上烏克蘭多個地區都出現設施受損情況。 報道提到，6日早些時候，澤連斯基指責基輔市政府沒有落實過冬籌備工作相關決議，稱烏克蘭首都的能源供應形勢是全國最嚴峻的。 澤連斯基和克利奇科二人之間的政治矛盾由來已久。上一次引人注目的衝突發生在10月，當時克利奇科在接受《圖片報》採訪時稱澤連斯基身邊存在貪腐問題。澤連斯基隨即指責他在冬季來臨前未解決首都能源領域的一系列問題。（參考訊息）"
+    },
+    {
+      "id": "mkt:01a1b5fd-5437-7ee0-aabf-780a52080bf9",
+      "time": "2026-11-07 20:30:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iraq oil minister: daily crude output tops 5 mln bpd】Iraq oil minister Basim Mohammed told the state news agency on Saturday the country’s crude production has surpassed 5.0 mln bpd. Citing economic shock from the Iran war and increased investment by international oil majors, Iraq is seeking a higher OPEC quota. The conflict forced large cuts to Iraqi oil exports and pushed government oil revenue sharply lower; oil made up 88% of government revenue last year versus about 55% in Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a1b5fa-b15c-7ee0-aabf-742ab15dbcff",
+      "time": "2026-11-07 20:27:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an alert over a possible threat to NAJRAN."
+    },
+    {
+      "id": "5200739",
+      "time": "2026-11-07 20:22:22",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【10月以來市場震盪調整，基金投顧逆勢加倉A股】今年10月以來，市場震盪調整，基金投顧逆勢加倉A股。據券商統計，A股資產是10月基金投顧組合加倉最多的資產，且這種低位佈局的傾向11月以來還在延續。記者獲悉，在10月以來的市場波動中，資金逆勢流入部分基金投顧機構的組合。開源證券資料顯示，今年10月，基金投顧組合主動增配A股、黃金、新興市場等資產，主動減配債券、貨幣及現金、美股等資產，反映主理人在大類資產層面對風險敞口的結構性再平衡。其中，A股在10月出現了震盪調整，基金投顧對其增配比例最高，超過了1.5%，排名第二的黃金增配比例不到0.5%。（上證報）"
+    },
+    {
+      "id": "5200738",
+      "time": "2026-11-07 20:01:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國學生與教師號召下週二舉行新一輪罷工。"
+    },
+    {
+      "id": "mkt:01a1b5e2-6971-7ee0-aabf-6df869446cc6",
+      "time": "2026-11-07 20:01:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran's Islamic Revolutionary Guard Corps says it has lifted missile range limits】Iran's Islamic Revolutionary Guard Corps said on the 7th it has lifted range limits on its missiles and can strike \"unexpected locations\" in an \"asymmetric war.\" The IRGC said commanders have stressed the need to respond immediately and effectively to any threat without geographic constraints; its spokesperson added the force must demonstrate that capability in action."
+    },
+    {
+      "id": "5200737",
+      "time": "2026-11-07 20:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週大盤主力資金累計淨流入-164.74億元，半導體、光伏裝置板塊淨流入居前，個股中微公司、寧德時代淨流入最多。"
+    },
+    {
+      "id": "5200736",
+      "time": "2026-11-07 19:58:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐以色列大使邁克·赫卡比：從 2025 年夏季到 2026 年春季的一年內，伊朗將其彈道導彈的射程從 2000 公里提高到 4100 公里。"
+    },
+    {
+      "id": "5200735",
+      "time": "2026-11-07 19:57:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊稱已解除導彈射程限制】伊朗伊斯蘭革命衛隊發言人7日說，已解除了伊朗導彈的射程限制，伊朗能在一場“不對稱戰爭”中打擊敵人“預想不到的地點”。伊朗學生通訊社報道，革命衛隊領導人近日強調需要對任何程度或種類的威脅立即予以有效回擊而不受地理因素限制，革命衛隊發言人侯賽因·穆赫比當天在記者會上回應說：“伊朗的導彈射程限制已經解除。然而，我們必須在實際行動中展現這樣的能力。我們的職責是在戰場上展現這類能力。”“我們在打一場不對稱戰爭。我們能打擊敵人永遠預想不到的地點，讓敵人陷入癱瘓。”穆赫比說。（新華社）"
+    },
+    {
+      "id": "5200734",
+      "time": "2026-11-07 19:56:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風“查帕卡”強度逐漸加強 未來對我國海區無影響】今年第32號颱風“查帕卡”（熱帶風暴級，中文名：查帕卡；英文名：Cempaka；名字來源：馬來西亞；意義：以其芬芳的花聞名的植物）於今天（11月7日）下午2點鐘在西北太平洋洋麵生成，下午5點鐘其中心位於美國關島北偏西方向大約760公里的洋麵上。預計“查帕卡”將以每小時30公里的速度向西偏北方向移動，強度逐漸加強。未來“查帕卡”對我國海區無影響。"
+    },
+    {
+      "id": "5200733",
+      "time": "2026-11-07 19:55:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【影禾醫脈：聯合釋出主動脈CTA智慧體】11月7日，在中關村論壇系列活動——北京城市副中心創新醫療器械場景供需對接會上，首都醫科大學附屬北京安貞醫院與影禾醫脈聯合釋出主動脈CTA AIR V1.0報告生成智慧體、“安心智影”心臟MRI診斷大模型及智慧體等。"
+    },
+    {
+      "id": "5200732",
+      "time": "2026-11-07 19:49:15",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【11月7日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【學習貫徹黨的二十屆五中全會精神】踔厲奮發勇爭先 不斷開創中國式現代化新局面； 2.中共中央發出通知 部署黨的二十一大代表選舉工作； 3.【學習貫徹黨的二十屆五中全會精神】中央宣講團在各地宣講黨的二十屆五中全會精神； 4.第七屆世界媒體峰會在北京舉辦； 5.新一代通訊網加快建設 築牢高質量發展數字底座； 6.我國加快推進核能綜合利用； 7.【賡續長征精神 奮進復興征程】河南：傳承紅色基因 繪就振興新畫卷； 8.【新聞特寫】深耕中國 共享機遇； 9.華北迎大範圍降雪 中東部降溫明顯； 10.國內聯播快訊： （1）截至10月末我國外匯儲備規模為34052億美元； （2）2026年第二批質量督察工作啟動； （3）兩部門集中整治網上金融“黑灰產”資訊亂象； （4）2026中非經貿和文化論壇在浙江義烏舉行； （5）前三季度我國開展補貼性培訓超800萬人次； （6）電視劇《偉大的長征》創作座談會在京舉行； （7）2026年中國金雞百花電影節在廈門開幕； （8）中國記協傳播矩陣數智化建設成果集中上線； 11.“中國之治與世界發展”全球對話會繼續在多國進行； 12.美稱打擊伊朗防空裝置 伊朗稱擊落美無人機； 13.國際聯播快訊： （1）葉門塔伊茲一市場遭襲 相關方相互指責； （2）國際海事組織呼籲保障重要航道安全； （3）歐盟機構稱今年10月為全球最熱10月； （4）旅美大熊貓“平平”“福雙”正式亮相； 14.二十四節氣·立冬。"
+    },
+    {
+      "id": "5200731",
+      "time": "2026-11-07 19:48:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "美國天然氣暗盤突破3.1美元，日內漲幅0.9%。"
+    },
+    {
+      "id": "5200730",
+      "time": "2026-11-07 19:46:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破98美元，日內跌超1.1%。"
+    },
+    {
+      "id": "5200729",
+      "time": "2026-11-07 19:45:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紐西蘭執政聯盟在議會選舉中贏得過半席位】紐西蘭選舉委員會7日晚公佈的初步計票結果顯示，在當天結束的新一屆議會選舉中，國家黨領導的執政聯盟贏得超半數席位。在已經產生的議會130個席位中，國家黨、行動黨和紐西蘭優先黨組成的執政聯盟奪得67席，反對陣營的工黨、綠黨和毛利黨贏得56席，其他黨派獲得剩餘席位。"
+    },
+    {
+      "id": "5200728",
+      "time": "2026-11-07 19:41:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門遭沙特空襲致22死30傷】葉門胡塞武裝當地時間7日表示，沙特主導的聯軍當天對葉門薩那以東的巴尼雜湊什地區發動空襲，造成多人傷亡。據總檯報道員7日中午訊息，葉門首都薩那傳出戰機飛過的聲音和爆炸聲。隨後，巴尼雜湊什地區的醫院負責人透露，截至記者發稿時，該醫院已接收22名遇難者和30名傷者。傷亡者包括婦女和兒童。（央視新聞）"
+    },
+    {
+      "id": "5200727",
+      "time": "2026-11-07 19:38:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府：期待與巴拉圭總統阿利亞納合作。"
+    },
+    {
+      "id": "5200726",
+      "time": "2026-11-07 19:36:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026中非經貿和文化論壇專案簽約總金額409.6億元】2026中非經貿和文化論壇7日在浙江金華義烏舉行。活動期間，49箇中非合作專案簽約，總金額達409.6億元，專案型別涉及貿易、境外投資、工程承包和對外合作等。"
+    },
+    {
+      "id": "5200725",
+      "time": "2026-11-07 19:30:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第七屆世界媒體峰會發布北京共識】第七屆世界媒體峰會7日在北京舉行。峰會開幕式上，釋出了《第七屆世界媒體峰會北京共識》。共識說，與會代表看到，人工智慧正在引領新一輪科技革命和產業變革，深刻改變了人類生產生活方式和世界發展格局。願發揮媒體獨特優勢，凝聚各方共識，共同推進合作行動落地見效，推動人工智慧時代全球媒體轉型發展。共識說，人工智慧逐漸成為媒體轉型的核心動能，推動技術普惠共享是全球媒體的普遍訴求。與會代表致力於推動人工智慧在媒體領域的普及和負責任應用，讓技術成果惠及處於不同發展階段的各國媒體。（新華社）"
+    },
+    {
+      "id": "5200724",
+      "time": "2026-11-07 19:24:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多家銀行公告贖回優先股，合計規模超2025年全年】2026年以來，8家銀行公告已贖回或即將贖回優先股，合計規模達1855億元，超過2025年全年境內銀行優先股贖回規模。業內人士介紹，近期大量優先股進入可贖回視窗期，同時永續債發行成本下降，銀行透過“贖舊換新”來降低資本補充成本，也就是贖回較高成本的優先股，接續為利率更低的永續債。據悉，優先股是相對於普通股的一種股份類別，作為銀行補充資本的重要工具，核心特徵是在利潤分配和剩餘財產分配上優先於普通股。（央視財經）"
+    },
+    {
+      "id": "mkt:01a1b5bc-64df-7ee0-aabf-62ff97a62d77",
+      "time": "2026-11-07 19:19:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude 5.6 quake offshore Ibaraki felt in Tokyo】The Japan Meteorological Agency said a magnitude-5.6 earthquake struck offshore near Ibaraki Prefecture on the 7th; tremors were felt in Tokyo."
+    },
+    {
+      "id": "5200723",
+      "time": "2026-11-07 19:19:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬興科技：萬興劇廠海外版ReelMate AI已開啟公測】萬興科技在機構調研時表示，公司在今年3月正式推出新產品萬興劇廠，產品初期聚焦2D漫劇創作，後續逐步拓展至AI真人短劇、AI廣告劇、海外AI模擬人劇、AI電影等多元化內容形態，目前產品定位為AI驅動的一站式精品影視內容創作平臺，打通劇本創作、分鏡生成、素材製作、後期剪輯與團隊協作全流程AI影視創作閉環，客戶復購率超過85%，以三季度資料年化測算ARR已突破500萬美元。目前，萬興劇廠海外版ReelMate AI已開啟公測，賦能海外AI短劇等影視內容本地化創作，當前處於使用者共創與產品迭代打磨階段。"
+    },
+    {
+      "id": "5200722",
+      "time": "2026-11-07 19:17:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本茨城縣近海發生5.6級地震】據日本氣象廳釋出，當地時間7日20時07分左右，日本茨城縣近海發生5.6級地震，震源深度20千米，最大震感為震度3。東京有震感。（央視新聞）"
+    },
+    {
+      "id": "5200721",
+      "time": "2026-11-07 19:16:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【全球媒體人工智慧應用標準共建計劃正式啟動】11月7日，在第七屆世界媒體峰會開幕式上，由新華通訊社發起的全球媒體人工智慧應用標準共建計劃正式啟動，旨在邀請全球重要媒體及專業機構參與共建應用標準，共同維護資訊真實、保障資料安全、恪守新聞倫理。包括新華通訊社在內的22家中外機構加入，首批共建夥伴有人民日報社、中央廣播電視總檯、俄羅斯塔斯社、馬來西亞國家新聞社、南非獨立傳媒集團等。計劃擬用兩年左右時間形成經中外媒體共同驗證的應用規範，建立持續開展標準共建與應用合作的國際機制，並計劃建設全球媒體人工智慧應用案例庫、開展全球媒體人工智慧應用交流研討。（新華社）"
+    },
+    {
+      "id": "mkt:01a1b5b2-4f85-7ee0-aabf-593f1bd30a39",
+      "time": "2026-11-07 19:08:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine reportedly received nearly $49.4bn from yields on frozen Russian assets】Russian sources on the 7th, citing calculations based on Ukrainian Finance Ministry data, said Ukraine secured $49.4bn in support over the past two years from returns on frozen Russian assets. They said $10.5bn of that was provided in 2026. In 2024, G7 leaders agreed to use returns on frozen Russian assets as collateral for a $50bn loan to Ukraine. Kremlin spokesman Dmitry Peskov said transferring those returns is illegal."
+    },
+    {
+      "id": "mkt:01a1b5af-70c2-7ee0-aabf-55d004b65c8d",
+      "time": "2026-11-07 19:05:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Prime Minister Luxon said negotiation and compromise will be necessary."
+    },
+    {
+      "id": "mkt:01a1b5af-40a8-7ee0-aabf-495288e60d93",
+      "time": "2026-11-07 19:05:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Prime Minister Luxon said he has found a path to form the next government, but the outcome remains uncertain."
+    },
+    {
+      "id": "mkt:01a1b5af-2432-7ee0-aabf-4559b86e507d",
+      "time": "2026-11-07 19:05:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Prime Minister Luxon said current data indicate his party will be the largest in parliament and described that as encouraging."
+    },
+    {
+      "id": "5200720",
+      "time": "2026-11-07 19:05:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭總理拉克森：需要進行談判和妥協。"
+    },
+    {
+      "id": "5200719",
+      "time": "2026-11-07 19:04:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭總理拉克森：我們有組建下一屆政府的途徑，但現在下結論還為時過早。"
+    },
+    {
+      "id": "5200718",
+      "time": "2026-11-07 19:04:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭總理拉克森：從目前資料來看，我們是議會第一大黨，這令人振奮。"
+    },
+    {
+      "id": "5200717",
+      "time": "2026-11-07 19:00:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傑瑞股份：截至10月底公司股東總戶數56032戶，較9月底有所下降】傑瑞股份在互動平臺表示，截至10月底，公司股東總戶數56032戶，機構11800戶。此前，截至9月底，公司股東總戶數58122戶，機構10870戶。"
+    },
+    {
+      "id": "5200716",
+      "time": "2026-11-07 18:59:42",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【利用俄被凍結資產 烏克蘭據稱獲得近500億美元支援】據俄羅斯方面7日訊息，根據烏克蘭財政部發布的資料進行計算，過去兩年間，利用被凍結的俄羅斯資產的收益，烏克蘭已獲得494億美元資金支援。僅2026年，烏克蘭就獲得105億美元的資金支援，這都來源於被凍結俄資產的收益。2024年，七國集團領導人同意以俄羅斯被凍結資產所產生收益作為抵押，向烏克蘭提供500億美元貸款。俄羅斯總統新聞秘書佩斯科夫曾表示，向烏克蘭移交這些收益的行為屬於非法行為。"
+    },
+    {
+      "id": "5200715",
+      "time": "2026-11-07 18:58:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱一艘油輪在霍爾木茲海峽起火停航】據伊朗伊斯蘭共和國廣播電視臺7日報道，伊朗海軍公共關係部門當天發表宣告稱，一艘油輪在霍爾木茲海峽東部觸雷起火併停止航行。宣告稱，該油輪當天上午“一再無視警告”，在禁航且不安全海域航行，並關閉了導航系統。宣告強調，“所有無視警告、在禁航區域航行的違規船隻和艦艇，下場都會如此”。（新華社）"
+    },
+    {
+      "id": "mkt:01a1b5a7-576a-7ee0-aabf-39cdbf6d4fe8",
+      "time": "2026-11-07 18:56:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【New Zealand Electoral Commission: National-led coalition secures enough seats to stay in power】The New Zealand Electoral Commission said on the 7th that with 95% of parliamentary votes counted, the National Party-led governing coalition has secured enough seats to continue in government."
+    },
+    {
+      "id": "5200714",
+      "time": "2026-11-07 18:55:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭選舉委員會7日表示，對95%的議會選舉選票統計結果顯示，國家黨領導的執政聯盟贏得足夠議席繼續執政。（新華社）"
+    },
+    {
+      "id": "5200713",
+      "time": "2026-11-07 18:54:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為釋出五大北京F5G-A全光網樣板點】華為中國政企全光產業峰會2026日前在北京舉行，峰會上華為釋出五大北京F5G-A全光網樣板點，包含中信數科智慧光傳輸骨幹網、首都國際會展中心F5G-A全光智慧場館、北重科技文化產業園、北京中關村（京西）人工智慧科技園、北京中關村溫泉科技園（三期）F5G-A全光園區等標杆專案。據悉，這是華為“光智共融”戰略從理念走向規模化落地的關鍵實踐，將打造可量化、可驗證的實踐樣本，支撐經驗向全國範圍複製推廣。華為政企光領域總裁楊曦表示，華為依託“光智共融”戰略，推動 F5G-A全光網從傳輸管道，演進為集通訊、感知、物聯和安防於一體的智慧底座。期待以北京標杆實踐沉澱經驗，攜手產業各方協同共建，加速AI普惠千行萬業。（國是直通車）"
+    },
+    {
+      "id": "5200712",
+      "time": "2026-11-07 18:45:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【博索納羅稱赴美行程將保密至死】當地時間11月5日，巴西前總統雅伊爾·博索納羅之子弗拉維奧·博索納羅在接受美國媒體採訪時，談及了自己離開巴西前往美國的經過。他表示，自己合法進入阿根廷和美國，沒有得到任何個人或政府的幫助。美國總統特朗普曾告訴他，可以根據自身需求決定在美停留時間。當被問及具體如何抵達美國時，弗拉維奧·博索納羅拒絕透露細節，並稱要將這一秘密帶進墳墓。 （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a1b59c-0939-7ee0-aabf-30f1db23f7b0",
+      "time": "2026-11-07 18:44:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's oil minister said the country's average daily crude production exceeds 5 million barrels per day."
+    },
+    {
+      "id": "5200711",
+      "time": "2026-11-07 18:43:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長表示，伊拉克石油日產量超過500萬桶。"
+    },
+    {
+      "id": "5200710",
+      "time": "2026-11-07 18:37:06",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【2026年第二批質量督察工作啟動 4個督察組陸續進駐有關省份】記者今天瞭解到，國家質量強國建設協調推進領導小組辦公室會同有關成員單位近日組成4個質量督察組，啟動2026年第二批質量督察工作。從11月5日起，4個質量督察組陸續進駐安徽、江西、河南、四川等省份，將持續聚焦貫徹落實黨中央、國務院關於質量工作決策部署情況，質量責任落實情況，形成部門合力處置質量問題隱患情況等內容，圍繞重點領域、重點產品、重點行為開展抽查核查，推動解決一批社會關切和群眾反映強烈的突出質量問題，更好服務經濟社會高質量發展和人民群眾高品質生活需要。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1b595-55e1-7ee0-aabf-2b61f2116f3d",
+      "time": "2026-11-07 18:37:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Armed Venezuelan arrested near White House after claiming intent to assassinate Trump】The Department of Homeland Security said Secret Service agents arrested a Venezuelan national near the White House after he told agents \"a voice in my head told me to come to Washington to assassinate President Trump.\" Agents recovered a rifle, two handguns, dozens of rounds and a stolen vehicle. DHS said the man illegally entered the U.S. in 2024; he faces multiple weapons-related charges. The Secret Service said the White House has increasingly been a target of people with mental-health issues."
+    },
+    {
+      "id": "mkt:01a1b594-81ee-7ee0-aabf-267287a315ae",
+      "time": "2026-11-07 18:36:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【GEM signs joint declaration with UNIDO to deepen cooperation on circular economy and battery critical minerals】GEM Co., Ltd. attended the United Nations Industrial Development Organization’s Global Circular Economy and Green Industry Week in Vienna on Nov. 2–4. On Nov. 2 GEM and UNIDO signed a joint declaration at UNIDO headquarters to deepen comprehensive cooperation in the circular economy and promote sustainable development of the critical-minerals value chain for batteries."
+    },
+    {
+      "id": "5200709",
+      "time": "2026-11-07 18:28:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【格林美與聯合國工業發展組織簽署聯合宣言 深化迴圈經濟與電池領域關鍵礦產合作】據格林美訊息，11月2日至11月4日，格林美股份有限公司受聯合國工業發展組織（UNIDO，以下簡稱工發組織）邀請參加UNIDO在奧地利維也納舉行的全球迴圈經濟與綠色工業周。11月2日，格林美股份有限公司（GEM）與聯合國工業發展組織（工發組織）於工發組織總部簽署聯合宣言，雙方將深化迴圈經濟領域全方位合作，共同推動電池關鍵礦產價值鏈可持續發展。"
+    },
+    {
+      "id": "mkt:01a1b585-3fd0-7ee0-aabf-1eda6a024f50",
+      "time": "2026-11-07 18:19:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosions reported in Yemen's capital Sanaa】At midday on the 7th local time, residents in Yemen's capital Sanaa reported warplane overflights and explosions. Local reports say a Saudi-led coalition conducted airstrikes on Sanaa."
+    },
+    {
+      "id": "5200708",
+      "time": "2026-11-07 18:17:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門首都薩那傳出爆炸聲】當地時間7日中午，葉門首都薩那傳出戰機飛過的聲音和爆炸聲。有訊息稱，沙特主導的聯軍空襲了薩那。（央視）"
+    },
+    {
+      "id": "mkt:01a1b580-4d30-7ee0-aabf-11039421ab74",
+      "time": "2026-11-07 18:14:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense said the danger in Jizan has passed."
+    },
+    {
+      "id": "5200707",
+      "time": "2026-11-07 18:13:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門稱吉贊市的危險已經解除。"
+    },
     {
       "id": "5200706",
       "time": "2026-11-07 18:11:32",
