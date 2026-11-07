@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-07 17:37:26",
-  "count": 10776,
+  "updated": "2026-11-07 17:41:30",
+  "count": 10777,
   "items": [
+    {
+      "id": "5200691",
+      "time": "2026-11-07 17:39:42",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【浙江鏡嶺水庫關鍵輸水隧洞建設突破萬米】記者7日從中鐵十八局集團有限公司獲悉，國家重點水利工程浙江鏡嶺水庫關鍵輸水隧洞建設取得新突破，應用於這一工程的“鏡嶺2號”全斷面隧道掘進機（TBM）順利掘進突破萬米大關，實現在“長距離、極硬巖、多斷層”複雜地質條件下順利推進隧洞施工。（新華社）"
+    },
+    {
+      "id": "mkt:01a1b55e-bf91-7ee0-aabe-bfd750269664",
+      "time": "2026-11-07 17:37:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【ECB presidential candidate warns of inflation risk】Pablo Hernández de Cos, an ECB Governing Council member and candidate for ECB president, said policymakers should stay alert to inflation risks from elevated energy prices. He said second-round effects have not emerged so far but noted hopes for a quick end to the Iran war — and a resulting fall in energy prices — have not materialized, so vigilance is necessary. He declined to comment on his candidacy. Hernández de Cos also warned that high public debt in some economies, coupled with persistent deficits, is a vulnerability if borrowing costs rise further, since higher rates would increase debt-servicing costs."
+    },
     {
       "id": "5200690",
       "time": "2026-11-07 17:34:02",
@@ -98601,14 +98625,6 @@
         "國際"
       ],
       "text": "印度取消汽油出口稅，上調航空燃油和柴油出口稅。"
-    },
-    {
-      "id": "mkt:01a19153-2be3-7ee0-aa18-7f8fd636ae51",
-      "time": "2026-10-31 17:38:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Turkey nominates former foreign minister Sinirlioglu for next UN secretary-general】Turkish media reported on Oct. 31 that Turkey has formally nominated former foreign minister Sinirlioglu as its candidate for the next UN secretary-general."
     }
   ]
 }
