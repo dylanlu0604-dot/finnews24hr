@@ -1,7 +1,38 @@
 {
   "date": "2026-11-07",
-  "count": 652,
+  "count": 655,
   "items": [
+    {
+      "id": "5200524",
+      "time": "2026-11-07 10:36:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "Datavault AI創始人提起訴訟，尋求推翻有爭議的CEO免職決定。"
+    },
+    {
+      "id": "5200523",
+      "time": "2026-11-07 10:36:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武漢衝刺全國城市經濟總量前五】11月7日，武漢市委書記盛閱春在華中科技大學第十八屆企業家大會上提出“雙五願景”，推動武漢衝刺全國城市經濟總量前五、華科大沖擊全國高校前五，依託校地雙向協同，共建開放創新生態，加速科技成果就地產業化。（第一財經）"
+    },
+    {
+      "id": "mkt:01a1b3dd-2de9-7ee0-aabd-4faf3535ce5d",
+      "time": "2026-11-07 10:36:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Beijing backs super-node servers, AI terminals, super‑intelligent agents, quantum cloud platforms and next‑gen mobile communications】The Beijing Economic‑Technological Development Area management committee issued measures to accelerate an open‑source, domestically trusted IT industry hub. The program encourages software and hardware upstream/downstream firms to form alliances for joint adaptation and to develop integrated solutions that address complex, critical business scenarios. It explicitly supports new technologies and products — including super‑node servers, AI terminals, super‑intelligent agents, quantum computing cloud platforms and next‑generation mobile communications — and offers first‑trial/first‑use and pilot validation services. Financial support of up to 30 mln yuan will be awarded based on technological innovation, scenario demonstration, application scalability and ecosystem collaboration."
+    },
     {
       "id": "5200522",
       "time": "2026-11-07 10:33:27",

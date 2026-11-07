@@ -1,7 +1,38 @@
 {
-  "updated": "2026-11-07 10:33:58",
-  "count": 10724,
+  "updated": "2026-11-07 10:37:50",
+  "count": 10725,
   "items": [
+    {
+      "id": "5200524",
+      "time": "2026-11-07 10:36:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "Datavault AI創始人提起訴訟，尋求推翻有爭議的CEO免職決定。"
+    },
+    {
+      "id": "5200523",
+      "time": "2026-11-07 10:36:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武漢衝刺全國城市經濟總量前五】11月7日，武漢市委書記盛閱春在華中科技大學第十八屆企業家大會上提出“雙五願景”，推動武漢衝刺全國城市經濟總量前五、華科大沖擊全國高校前五，依託校地雙向協同，共建開放創新生態，加速科技成果就地產業化。（第一財經）"
+    },
+    {
+      "id": "mkt:01a1b3dd-2de9-7ee0-aabd-4faf3535ce5d",
+      "time": "2026-11-07 10:36:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Beijing backs super-node servers, AI terminals, super‑intelligent agents, quantum cloud platforms and next‑gen mobile communications】The Beijing Economic‑Technological Development Area management committee issued measures to accelerate an open‑source, domestically trusted IT industry hub. The program encourages software and hardware upstream/downstream firms to form alliances for joint adaptation and to develop integrated solutions that address complex, critical business scenarios. It explicitly supports new technologies and products — including super‑node servers, AI terminals, super‑intelligent agents, quantum computing cloud platforms and next‑generation mobile communications — and offers first‑trial/first‑use and pilot validation services. Financial support of up to 30 mln yuan will be awarded based on technological innovation, scenario demonstration, application scalability and ecosystem collaboration."
+    },
     {
       "id": "5200522",
       "time": "2026-11-07 10:33:27",
@@ -98173,24 +98204,6 @@
         "其他"
       ],
       "text": "【資料要素流通交易系列標準釋出】10月31日，在2026全球數商大會之資料產業高質量發展與國際合作論壇上，資料要素流通交易系列標準正式釋出，以資料市場建設和價值釋放為主線，回應市場關於資料產品、資料資產、資料基礎設施、高質量資料集、行業資料等領域的標準化問題。"
-    },
-    {
-      "id": "mkt:01a18fd1-a788-7ee0-aa17-2c386bf36075",
-      "time": "2026-10-31 10:37:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Lavrov says Putin willing to meet Zelensky if he travels to Moscow】Russian Foreign Minister Sergey Lavrov said President Vladimir Putin remains willing to meet Ukrainian President Volodymyr Zelensky provided Zelensky travels to Moscow. Lavrov reiterated that Russia’s position on the Ukraine conflict has not changed. He said continued Ukrainian strikes inside Russia are complicating preparations for planned Russia-Ukraine-US trilateral talks in Abu Dhabi; the meeting date will be announced once finalized. Lavrov added that recent actions by European countries show they cannot be regarded as reliable guarantors for any future agreement."
-    },
-    {
-      "id": "5184416",
-      "time": "2026-10-31 10:35:48",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行"
-      ],
-      "text": "【經濟學家：日本央行加快ETF出售節奏 或為高市早苗支出計劃提供資金支援】日本央行週五宣佈，自明年1月起，按賬面價值口徑，ETF年度出售規模將從目前3300億日元提升至8600億日元（摺合55億美元）。出售提速後，預計完成全部出售所需時長將從112年縮短至約43年。依照法律規定，日本央行在扣除分紅及其他開支後，需要將盈餘收入上繳政府。出售ETF產生的收益可以提高上繳金額，為政府帶來額外非稅收入。高階經濟學家木村太郎估算，出售提速後，日本央行每年可新增約8000億日元收入。這筆潛在的額外收入，有助於高市早苗在編制下一年度預算時為其政策籌措資金。她提出的政策承諾包含為期兩年的食品消費稅減免、為期14年的增長投資計劃以及增加國防開支。 日本央行新增上繳資金，還有可能用於資助本屆政府計劃設立的經濟安全專項賬戶。瑞銀三井住友信託財富管理策略師、前內閣府官員石井和正表示：“相比於填補消費稅減免這類政策造成的大額臨時性收入缺口，日本央行上繳資金更適合用於支援跨年度專案，例如經濟安全專項賬戶。”"
     }
   ]
 }
