@@ -1,7 +1,17 @@
 {
   "date": "2026-11-07",
-  "count": 843,
+  "count": 844,
   "items": [
+    {
+      "id": "mkt:01a1b53e-3d46-7ee0-aabe-8e1b5c527441",
+      "time": "2026-11-07 17:01:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Multiple European media outlets receive bomb threats】On Nov. 6 local time, multiple European media outlets, including Ireland’s public broadcaster, the UK’s Sky and Bulgaria’s Nova TV, received bomb threats; staff were evacuated and some broadcasts were disrupted. Threat letters said a device would detonate \"within 45 minutes\" and the sender claimed to be one of the organisers of this week’s bomb threats to European flights. European security agencies have not confirmed a link between the flight and media threats; national officials and aviation authorities reported ongoing investigations and tightened security measures."
+    },
     {
       "id": "5200675",
       "time": "2026-11-07 17:00:25",

@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-07 17:01:58",
+  "updated": "2026-11-07 17:05:53",
   "count": 10777,
   "items": [
+    {
+      "id": "mkt:01a1b53e-3d46-7ee0-aabe-8e1b5c527441",
+      "time": "2026-11-07 17:01:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Multiple European media outlets receive bomb threats】On Nov. 6 local time, multiple European media outlets, including Ireland’s public broadcaster, the UK’s Sky and Bulgaria’s Nova TV, received bomb threats; staff were evacuated and some broadcasts were disrupted. Threat letters said a device would detonate \"within 45 minutes\" and the sender claimed to be one of the organisers of this week’s bomb threats to European flights. European security agencies have not confirmed a link between the flight and media threats; national officials and aviation authorities reported ongoing investigations and tightened security measures."
+    },
     {
       "id": "5200675",
       "time": "2026-11-07 17:00:25",
@@ -98609,14 +98619,6 @@
         "其他"
       ],
       "text": "【今年前三季度東北地區貨物貿易進出口超9900億元 創歷史同期新高】從瀋陽海關瞭解到，今年前三季度，東北地區貨物貿易進出口總值9952.6億元，同比增長8.7%，規模創歷史同期新高。區域外貿韌性持續彰顯，進出口結構持續最佳化。今年前三季度，東北地區出口4995.5億元，進口4957.1億元，進出口雙向協同、均衡發展。今年以來，東北地區外貿呈現穩中有進、持續向好的發展態勢，月度增幅均保持正增長，月度進出口值已連續7個月超1000億元，外貿大盤執行穩定性持續增強。（央視新聞）"
-    },
-    {
-      "id": "5184533",
-      "time": "2026-10-31 17:04:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加政府推動提升港口吞吐能力以降低對美出口依賴】加拿大聯邦政府10月30日宣佈，正式將該國最大港口溫哥華港羅伯茨灘2號碼頭專案列為國家利益專案，此舉旨在推動提升港口吞吐能力，以促進貿易多元化並降低對美出口依賴。據加拿大交通部當天釋出的新聞稿，該專案計劃以加強貿易基礎設施建設，降低對美國市場的依賴，推動實現到2035年將對非美市場出口額翻倍的目標。據新聞稿，該專案計劃投資59億加元（約合42億美元），將溫哥華港集裝箱吞吐能力提升約50%，每年新增240萬個集裝箱處理能力，每年可支援高達1000億加元的貿易額。加交通部表示，將其列為國家利益專案將為後續監管審批提供確定性，從而將專案商業運營時間提前至2035年，較原計劃縮短最多四年。（新華社）"
     }
   ]
 }
