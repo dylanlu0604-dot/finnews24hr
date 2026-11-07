@@ -1,7 +1,35 @@
 {
   "date": "2026-11-08",
-  "count": 11,
+  "count": 14,
   "items": [
+    {
+      "id": "mkt:01a1b6dd-7eb6-7ee0-aac0-d848ef527992",
+      "time": "2026-11-08 00:35:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Palestinian factions demand immediate entry to Gaza and full implementation of humanitarian protocol】Palestinian armed groups and factions said that with winter approaching the occupying power and the peace committee bear responsibility for Gaza’s humanitarian crisis. They called on the national committee to enter the Gaza Strip immediately and begin fulfilling its duties, and urged mediators and guarantors to pressure parties to ensure full implementation of the humanitarian protocol."
+    },
+    {
+      "id": "mkt:01a1b6da-e8f6-7ee0-aac0-d4ff20371f06",
+      "time": "2026-11-08 00:32:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Syria denies deploying troops to Yemen; says military cooperation with Saudi Arabia limited to training and consultations】Al Arabiya cited Syrian diplomatic sources saying reports that Syria deployed troops to Yemen are unfounded. Syrian-Saudi military cooperation is focused on training, skills exchange and military consultations. The agreement centers on training military forces, and Saudi Arabia will begin coordinated visits to Syria next month."
+    },
+    {
+      "id": "5201020",
+      "time": "2026-11-08 00:32:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網正式測定：11月08日00時04分在日本本州島（北緯34.80度，東經137.70度）發生5.3級地震，震源深度20千米。"
+    },
     {
       "id": "mkt:01a1b6d8-99fa-7ee0-aac0-ce2264c7f744",
       "time": "2026-11-08 00:30:10",

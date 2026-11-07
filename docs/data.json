@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-08 00:32:40",
-  "count": 10774,
+  "updated": "2026-11-08 00:36:39",
+  "count": 10769,
   "items": [
+    {
+      "id": "mkt:01a1b6dd-7eb6-7ee0-aac0-d848ef527992",
+      "time": "2026-11-08 00:35:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Palestinian factions demand immediate entry to Gaza and full implementation of humanitarian protocol】Palestinian armed groups and factions said that with winter approaching the occupying power and the peace committee bear responsibility for Gaza’s humanitarian crisis. They called on the national committee to enter the Gaza Strip immediately and begin fulfilling its duties, and urged mediators and guarantors to pressure parties to ensure full implementation of the humanitarian protocol."
+    },
+    {
+      "id": "mkt:01a1b6da-e8f6-7ee0-aac0-d4ff20371f06",
+      "time": "2026-11-08 00:32:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Syria denies deploying troops to Yemen; says military cooperation with Saudi Arabia limited to training and consultations】Al Arabiya cited Syrian diplomatic sources saying reports that Syria deployed troops to Yemen are unfounded. Syrian-Saudi military cooperation is focused on training, skills exchange and military consultations. The agreement centers on training military forces, and Saudi Arabia will begin coordinated visits to Syria next month."
+    },
+    {
+      "id": "5201020",
+      "time": "2026-11-08 00:32:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網正式測定：11月08日00時04分在日本本州島（北緯34.80度，東經137.70度）發生5.3級地震，震源深度20千米。"
+    },
     {
       "id": "mkt:01a1b6d8-99fa-7ee0-aac0-ce2264c7f744",
       "time": "2026-11-08 00:30:10",
@@ -98532,86 +98560,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧：特朗普尚未就對伊朗採取軍事行動做出決定。"
-    },
-    {
-      "id": "5184826",
-      "time": "2026-11-01 00:35:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：四方安全對話並非針對任何一方的聯盟。"
-    },
-    {
-      "id": "mkt:01a192d0-eace-7ee0-aa1a-8640a10e68a9",
-      "time": "2026-11-01 00:35:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Sources say OPEC+ has reached an agreement in principle to keep December production targets unchanged."
-    },
-    {
-      "id": "5184825",
-      "time": "2026-11-01 00:35:10",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "訊息人士稱，歐佩克+已原則上達成協議，12月份維持產量目標不變。"
-    },
-    {
-      "id": "mkt:01a192cf-bd5d-7ee0-aa1a-7ca9b4b78cbe",
-      "time": "2026-11-01 00:34:10",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "U.S. Secretary of State Rubio said the international community is increasingly concerned about the limited ceasefire in the Black Sea."
-    },
-    {
-      "id": "5184824",
-      "time": "2026-11-01 00:34:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧就黑海問題表態：正在研究土耳其提出的方案。"
-    },
-    {
-      "id": "5184823",
-      "time": "2026-11-01 00:33:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：國際社會對黑海有限停火方案的關注度日益上升。"
-    },
-    {
-      "id": "5184822",
-      "time": "2026-11-01 00:33:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：印度、土耳其有恢復黑海糧食運輸的想法。"
-    },
-    {
-      "id": "mkt:01a192ce-bbab-7ee0-aa1a-75c2254366d9",
-      "time": "2026-11-01 00:33:04",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "US Secretary of State Rubio said India and Turkey have proposals to restore Black Sea grain shipments."
     }
   ]
 }
