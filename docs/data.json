@@ -1,7 +1,546 @@
 {
-  "updated": "2026-11-08 00:44:25",
-  "count": 10758,
+  "updated": "2026-11-08 03:38:32",
+  "count": 10731,
   "items": [
+    {
+      "id": "5201078",
+      "time": "2026-11-08 03:36:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駐維也納聯合國代表團指控美國藉助“正義懸賞”計劃招募同夥，用以襲擊伊朗核科學家和核設施，並警告任何提供相關資訊的主體，包括國際原子能機構，都可能面臨法律後果。"
+    },
+    {
+      "id": "mkt:01a1b782-dfda-7ee0-aac1-d3a061c250b8",
+      "time": "2026-11-08 03:36:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Office of Israel's president says Gadi Eizenkot has 28 days to form a government, extendable by up to 14 days under law if needed."
+    },
+    {
+      "id": "mkt:01a1b781-57b9-7ee0-aac1-cd1b5219420d",
+      "time": "2026-11-08 03:34:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian Students News Agency reports explosions heard on Qeshm Island, Iran."
+    },
+    {
+      "id": "5201077",
+      "time": "2026-11-08 03:33:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗格什姆島傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:01a1b77c-a0d4-7ee0-aac1-c4b99d1187c1",
+      "time": "2026-11-08 03:29:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israeli media report Israel's president has selected Netanyahu rival Gadi Eizenkot to form a new government."
+    },
+    {
+      "id": "5201076",
+      "time": "2026-11-08 03:27:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列總統選擇內塔尼亞胡的對手加迪·艾森科特組建政府。"
+    },
+    {
+      "id": "mkt:01a1b776-6dd6-7ee0-aac1-bd68058f3fd9",
+      "time": "2026-11-08 03:22:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's interior minister said all signs indicate the shooter was obsessed with far-right ideology."
+    },
+    {
+      "id": "5201075",
+      "time": "2026-11-08 03:20:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭內政部長基爾溫斯基：所有跡象都表明槍手痴迷於極右翼意識形態。"
+    },
+    {
+      "id": "mkt:01a1b773-50d9-7ee0-aac1-b0463270f245",
+      "time": "2026-11-08 03:19:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense lifted the danger alert for Jizan."
+    },
+    {
+      "id": "5201074",
+      "time": "2026-11-08 03:18:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，吉讚的危險已經過去。"
+    },
+    {
+      "id": "5201073",
+      "time": "2026-11-08 03:15:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普宣佈邀請達納·懷特擔任白宮新聞秘書】美國總統特朗普7日在社交媒體上發文說，他已邀請美國終極格鬥冠軍賽總裁達納·懷特擔任白宮新聞秘書一職。他稱懷特將會是一名“與眾不同”的新聞秘書。（新華社）"
+    },
+    {
+      "id": "mkt:01a1b76c-2f6b-7ee0-aac1-a976341d0f0d",
+      "time": "2026-11-08 03:11:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Ministry of Foreign Affairs reiterated its firm rejection of violence, terrorism and criminal acts regardless of motive."
+    },
+    {
+      "id": "mkt:01a1b76b-ec1c-7ee0-aac1-a66e7c8c82c7",
+      "time": "2026-11-08 03:11:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Qatar's foreign ministry condemned the shooting in Poland."
+    },
+    {
+      "id": "mkt:01a1b76b-4d84-7ee0-aac1-9ceded3a11e9",
+      "time": "2026-11-08 03:10:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued a potential danger alert for JIZAN."
+    },
+    {
+      "id": "5201071",
+      "time": "2026-11-08 03:09:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門釋出吉贊地區潛在危險警報。"
+    },
+    {
+      "id": "mkt:01a1b764-5cb8-7ee0-aac1-90d94652ee44",
+      "time": "2026-11-08 03:02:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Russian cosmonaut says nuclear power plant necessary for further lunar exploration】Andrei Babkin, deputy commander of the cosmonaut detachment at Russia’s space corporation, said a nuclear power plant on the Moon is a prerequisite for further exploration, including crewed missions, adding “without such a plant, further lunar exploration is simply impossible.” He cited the ~14-Earth-day lunar night and extreme cold as reasons nuclear is the only reliable, safe power solution. Rosatom chief Alexey Likhachev has said Russia plans to build its first lunar nuclear power plant by the mid-2030s."
+    },
+    {
+      "id": "mkt:01a1b762-0a0d-7ee0-aac1-8ff4a7702e09",
+      "time": "2026-11-08 03:00:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni government forces said warplanes and drones struck Houthi assembly areas and vehicles in the Masrah and Mukatra areas."
+    },
+    {
+      "id": "5201070",
+      "time": "2026-11-08 02:59:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CoreWeave承諾在資料中心開發方面與德州候任州長合作】CoreWeave致信德克薩斯州候任州長Gina Hinojosa，承諾將與她以及該州各地社群合作，推動負責任的資料中心開發。"
+    },
+    {
+      "id": "mkt:01a1b75a-f467-7ee0-aac1-85d7c34e2f50",
+      "time": "2026-11-08 02:52:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni government forces said they repelled an attack by Houthi forces in the Kanb area on Taiz's eastern front."
+    },
+    {
+      "id": "5201069",
+      "time": "2026-11-08 02:51:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普斥責民主黨的調查威脅是“犯罪行為” 下令司法部立即介入】美國總統特朗普猛烈抨擊民主黨人威脅調查其政府和共和黨捐款人，並稱他已下令司法部對這些人展開調查。民主黨在中期選舉中取得決定性勝利後即將於明年1月掌控國會參眾兩院，並誓言對特朗普政府展開多項調查，警告關鍵人物要“找好律師”。特朗普批評民主黨以彈劾“威脅很多人”，稱這是“敲詐”，並表示相關人員應被追究責任，但他沒有具體說明他指的是什麼罪行。“這是更高層次的武器化和法律戰，”他在社交媒體發帖稱。“我正下令司法部立即調查這一犯罪行為！”民主黨已表示，將利用新獲得的調查權力深入調查一系列議題，包括與已故金融家傑弗裡·愛潑斯坦有關的證據，以及特朗普政府如何處理國會所要求公開檔案的審查工作。民主黨還誓言要調查特朗普的關稅、移民政策和股票交易等諸多問題。"
+    },
+    {
+      "id": "mkt:01a1b758-c97a-7ee0-aac1-7c7e25994c4b",
+      "time": "2026-11-08 02:50:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump urges reports to DOJ or him of Democrats' 'illegal threats'】President Trump renewed accusations that Democrats have issued 'unprecedented' and 'completely illegal' threats against Republican donors and party members, and urged those affected to report incidents immediately to the Department of Justice or to him personally. He said alleged perpetrators should face legal liability, including imprisonment, and urged the Senate, DOJ and House to act, warning the Senate should not be pressured to avoid Republican electoral losses or 'more serious consequences.'"
+    },
+    {
+      "id": "5201068",
+      "time": "2026-11-08 02:44:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：要求懷特帶一些助手來，“儘管有些不是我們國家的人”。"
+    },
+    {
+      "id": "mkt:01a1b752-6f50-7ee0-aac1-737ace1853c8",
+      "time": "2026-11-08 02:43:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump invites Dana White to be White House press secretary】President Trump invited UFC president Dana White to serve as White House press secretary and proposed recruiting fighters Islam Makhachev, Khabib Nurmagomedov, Justin Gaethje, Daniel Cormier, Amanda Nunes and Kayla Harris as aides. Trump acknowledged several of the proposed aides are not U.S. citizens and publicly urged White to accept the role."
+    },
+    {
+      "id": "5201067",
+      "time": "2026-11-08 02:41:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：達娜·懷特已獲邀擔任白宮新聞秘書一職。"
+    },
+    {
+      "id": "mkt:01a1b750-a904-7ee0-aac1-6afbde0381fe",
+      "time": "2026-11-08 02:41:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Dana White has been invited to serve as press secretary."
+    },
+    {
+      "id": "5201066",
+      "time": "2026-11-08 02:34:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "CoreWeave致信美國得州候任州長伊諾霍薩，承諾將與其開展合作。"
+    },
+    {
+      "id": "mkt:01a1b74a-2ecd-7ee0-aac1-65cc22d3f45e",
+      "time": "2026-11-08 02:34:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported anti-Netanyahu protests in Tel Aviv, with demonstrators demanding the government's removal and formation of a new cabinet that includes Arab parties."
+    },
+    {
+      "id": "mkt:01a1b749-6835-7ee0-aac1-59c85a9273f1",
+      "time": "2026-11-08 02:33:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Musk: California’s high taxes and heavy regulation push business to Texas】Musk retweeted a Wall Street Journal article titled \"Musk bets his commercial empire on Texas, now local Democrats try to rein him in\" and wrote that SpaceX and Tesla shifted major U.S. expansion projects and headquarters to Texas because they no longer face what he called an increasingly oppressive, extractive California state government. He added he needs to be near factories to personally oversee production."
+    },
+    {
+      "id": "mkt:01a1b745-ea3e-7ee0-aac1-542eb181fe5a",
+      "time": "2026-11-08 02:29:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Musk said SpaceX and Tesla have been able to thrive in Texas because they do not have to operate under an oppressive, predatory state government."
+    },
+    {
+      "id": "5201065",
+      "time": "2026-11-08 02:28:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：特拉維夫市中心爆發示威遊行，要求內塔尼亞胡政府下臺，並組建由阿拉伯政黨組成的新政府。"
+    },
+    {
+      "id": "5201064",
+      "time": "2026-11-08 02:23:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "閃迪暗盤漲超1%，現報839.845美元。"
+    },
+    {
+      "id": "mkt:01a1b739-f668-7ee0-aac1-4eebf410fa6a",
+      "time": "2026-11-08 02:16:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Musk said Tesla (TSLA.O) has a Cybertruck order backlog well above current production capacity; around June or July next year the company will dismantle existing production lines to expand Cybercab output."
+    },
+    {
+      "id": "5201063",
+      "time": "2026-11-08 02:15:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉公司：我們將增加一個班次，力爭按時完成所有Cybercab訂單。"
+    },
+    {
+      "id": "mkt:01a1b738-db41-7ee0-aac1-437224bdf174",
+      "time": "2026-11-08 02:15:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) said it will add a shift and aims to complete all Cybercab orders on schedule."
+    },
+    {
+      "id": "5201062",
+      "time": "2026-11-08 02:15:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：特斯拉賽博卡車訂單積壓目前遠遠超過我們明年6月/7月左右為擴大賽博卡車生產而拆除生產線之前的產能。"
+    },
+    {
+      "id": "5201061",
+      "time": "2026-11-08 02:02:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其拘留銀行業監管機構副主管埃裡森。"
+    },
+    {
+      "id": "5201060",
+      "time": "2026-11-08 02:00:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拉圭檢察官起訴前總統培尼亞，指控其背信及以權謀私。"
+    },
+    {
+      "id": "5201059",
+      "time": "2026-11-08 01:55:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱民主黨高層寄出威脅信件，下令司法部展開調查】美國總統特朗普聲稱收到來自“民主黨政界高層”的威脅信件，並表示他正要求司法部對此展開調查。特朗普在真實社交平臺發文稱：“這屬於最高層級的敲詐，相關人員應當為此承擔責任。”"
+    },
+    {
+      "id": "mkt:3dd7729c-adc0-4533-8d9f-6af0b5655168",
+      "time": "2026-11-08 01:54:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump orders DOJ probe into alleged Democratic threats to use impeachment, imprisonment as political tools】President Trump ordered the Department of Justice to immediately investigate what he called Democratic threats to use impeachment and imprisonment as political weapons, accusing Democrats of targeting the attorney general and other officials and of threatening criminal penalties against Republican donors and supporters despite, he said, lacking grounds. Trump singled out Michigan Democrat Elissa Slotkin as an example of a lawmaker who has threatened to prosecute young people for espousing Republican views and urged Republicans to respond quickly."
+    },
+    {
+      "id": "5201058",
+      "time": "2026-11-08 01:50:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄方批評烏“志願聯盟”舉行演習惡化局勢】俄羅斯外交部發言人扎哈羅娃7日重申，援助烏克蘭的“志願聯盟”旗下多國部隊將要舉行的演習會加劇局勢升級，俄方絕不接受在烏部署外國軍隊。（新華社）"
+    },
+    {
+      "id": "mkt:18cdbdbc-3246-4e84-90b4-84c490ebefc5",
+      "time": "2026-11-08 01:47:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP said Democrats are threatening many people, including the Attorney General and others, and are threatening to impeach them. He called it the highest form of extortion and said they should be held accountable."
+    },
+    {
+      "id": "5201057",
+      "time": "2026-11-08 01:46:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：司法部將調查這起“犯罪”行為。"
+    },
+    {
+      "id": "5201056",
+      "time": "2026-11-08 01:46:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：民主黨人在威脅很多人，這是敲詐勒索。"
+    },
+    {
+      "id": "5201055",
+      "time": "2026-11-08 01:43:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃爾多安與特朗普通話討論地區和全球局勢】土耳其埃爾多安辦公室稱，埃爾多安與特朗普通電話，討論了地區和全球局勢。埃爾多安告訴特朗普，美伊緊張局勢應透過外交途徑解決，安卡拉將繼續為和平努力，他希望結束烏克蘭戰爭的外交努力將取得積極成果。"
+    },
+    {
+      "id": "mkt:01a1b71b-2304-7ee0-aac1-3bc7f39fc769",
+      "time": "2026-11-08 01:42:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Erdogan told US President Trump he hopes diplomatic efforts to end the war in Ukraine will yield positive results."
+    },
+    {
+      "id": "mkt:c1e927de-6b37-4f08-b1ba-ffdc2da7f6b3",
+      "time": "2026-11-08 01:42:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Erdogan told U.S. President Trump that U.S.-Iran tensions should be resolved through diplomacy and that Ankara will continue efforts to promote peace."
+    },
+    {
+      "id": "mkt:05a87e62-8b90-4581-adb5-fa3b38d809ae",
+      "time": "2026-11-08 01:42:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's presidential office said President Erdogan spoke by phone with US President Trump to discuss regional and global developments."
+    },
+    {
+      "id": "mkt:01a1b713-e186-7ee0-aac1-31fe92ccae94",
+      "time": "2026-11-08 01:34:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shooting in Krakow kills six, injures 15】On Nov 7 afternoon local time a shooter opened fire from a vehicle at the Main Market Square in Krakow, southern Poland, killing six and wounding 15, regional authorities said. Several of the injured were police officers hit during an exchange of fire; one officer is in serious condition. Police returned fire and detained a suspect wearing military-style clothing and armed with a military-type weapon. Motive remains unknown."
+    },
+    {
+      "id": "mkt:01a1b712-1dc4-7ee0-aac1-2946c43861f6",
+      "time": "2026-11-08 01:33:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said Russian air-defence forces shot down 28 Ukrainian drones in one day."
+    },
+    {
+      "id": "mkt:01a1b70c-e8e2-7ee0-aac1-2467dcf3f2c7",
+      "time": "2026-11-08 01:27:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said there are plans to form a government that would include supporters of terrorism."
+    },
+    {
+      "id": "mkt:01a1b70c-cafb-7ee0-aac1-1abee8262b36",
+      "time": "2026-11-08 01:27:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he will not rush to form a new government."
+    },
+    {
+      "id": "mkt:01a1b70a-14a2-7ee0-aac1-140f4d08ca04",
+      "time": "2026-11-08 01:24:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu called for forming a coalition government."
+    },
+    {
+      "id": "5201054",
+      "time": "2026-11-08 01:24:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝發言人葉海亞·薩里週六表示，使用導彈和無人機對沙烏地阿拉伯和葉門的石油和軍事目標發動了六次襲擊。"
+    },
+    {
+      "id": "mkt:01a1b709-c5a1-7ee0-aac1-0d4b475a3d59",
+      "time": "2026-11-08 01:23:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said now is the time to preserve unity."
+    },
+    {
+      "id": "mkt:01a1b703-8203-7ee0-aac1-00e90c0a9f91",
+      "time": "2026-11-08 01:17:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local authorities in Krakow, Poland reported a shooting that left 6 dead and 15 injured."
+    },
+    {
+      "id": "5201053",
+      "time": "2026-11-08 01:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭克拉科夫地方當局稱，槍擊事件造成6人死亡、15人受傷。"
+    },
+    {
+      "id": "mkt:01a1b700-4cfa-7ee0-aac0-f8506b1f1920",
+      "time": "2026-11-08 01:13:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthi militia says Saudi carried out 105 airstrikes in 24 hours, dozens of civilians killed or injured】Houthi military spokesman Yahya Sarea said Saudi warplanes carried out 105 airstrikes and missile strikes over the past 24 hours, hitting civilian infrastructure in Sanaa and the provinces of Al Jawf, Taiz, Amran, Hajjah, Saada, Marib and Lahij. Sarea said strikes were conducted by F-15s and Typhoon jets based at Khamis Mushait and Taif, with additional missile attacks from Najran and Jizan. He said the attacks killed or injured dozens of civilians, mostly women and children, and that total air and missile strikes since Saudi’s latest military escalation have reached 4,369."
+    },
+    {
+      "id": "mkt:01a1b6fe-2204-7ee0-aac0-f1341758b4da",
+      "time": "2026-11-08 01:11:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Houthi military spokesman Yahya Saree said the Saudi-led coalition carried out 105 airstrikes in the past 24 hours, bringing the cumulative total to 4,369."
+    },
+    {
+      "id": "mkt:01a1b6fc-d8e3-7ee0-aac0-ec033dad146e",
+      "time": "2026-11-08 01:09:46",
+      "tags": [
+        "MKT News",
+        "2914.T",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Putin ordered the seizure of additional Japan Tobacco assets in Russia."
+    },
+    {
+      "id": "5201052",
+      "time": "2026-11-08 01:08:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京下令沒收日本菸草在俄更多資產。"
+    },
+    {
+      "id": "5201037",
+      "time": "2026-11-08 00:47:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗安全負責人雷扎伊與俄羅斯總統普京於11月5日週四在克里姆林宮舉行三小時會談，商討戰略合作事宜。"
+    },
+    {
+      "id": "mkt:01a1b6e6-947b-7ee0-aac0-e7f5d0dbcadd",
+      "time": "2026-11-08 00:45:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zakharova: Plans to inflict 'strategic failure' on Russia will not succeed】Russian Foreign Ministry spokeswoman Maria Zakharova said plans to cause a 'strategic failure' for Russia are doomed to fail and that responsibility for the escalation lies with those launching new military adventures against Russia. She added that all objectives set within the framework of the special operation will be achieved."
+    },
     {
       "id": "mkt:01a1b6dd-7eb6-7ee0-aac0-d848ef527992",
       "time": "2026-11-08 00:35:31",
@@ -97699,776 +98238,6 @@
         "國際"
       ],
       "text": "迦納表示俄羅斯將支援建設2000兆瓦核電站，深化雙邊關係。"
-    },
-    {
-      "id": "5184891",
-      "time": "2026-11-01 03:33:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗陸軍發言人：我們已從俄羅斯採購蘇-35戰機。我們將在戰爭結束後接收這些戰機。"
-    },
-    {
-      "id": "mkt:01a19372-07d8-7ee0-aa1b-99d114ad6ffe",
-      "time": "2026-11-01 03:31:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's Supreme National Security Council secretary Rezaei said if the US and Trump do not pay a price for this action, other countries may be emboldened tomorrow to attack Iran because nothing would stop them."
-    },
-    {
-      "id": "5184890",
-      "time": "2026-11-01 03:22:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "法院檔案顯示：美國法官駁回特朗普對《華爾街日報》的訴訟。"
-    },
-    {
-      "id": "mkt:01a19365-5860-7ee0-aa1b-92e7abb708c9",
-      "time": "2026-11-01 03:17:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP said he will hold a phone rally at 3:30 p.m. ET on Saturday, to be broadcast live (03:30 Beijing time Sunday)."
-    },
-    {
-      "id": "mkt:01a19362-418e-7ee0-aa1b-8a03fb907119",
-      "time": "2026-11-01 03:14:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【France holds third nationwide protest in three weeks; 422 arrested】On Oct. 31 local time France held the third nationwide large-scale protest in three weeks. Interior Minister Laurent Nunez said police carried out about 40,000 security checks and arrested 422 people. Nunez said marches largely proceeded smoothly but that each procession included individuals who committed vandalism and looting, and clashes erupted in some areas as demonstrations wound down. The interior ministry put turnout at roughly 320,000 nationwide; student unions estimated nearly 500,000 participants, including about 200,000 in Paris. The government had classified the protests as \"high risk\" and deployed roughly 70,000 police and gendarmes nationwide."
-    },
-    {
-      "id": "5184889",
-      "time": "2026-11-01 03:13:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭總理圖斯克表示不會向暴力屈服。"
-    },
-    {
-      "id": "5184888",
-      "time": "2026-11-01 03:13:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國再現大規模示威活動 警方逮捕422人】當地時間10月31日，法國發生三週以來第三輪全國性大規模示威活動。當天晚間，法國內政部長洛朗·努涅斯表示，在當天法國各地舉行的示威活動中，警方累計實施約4萬次檢查，逮捕422人。（央視新聞）"
-    },
-    {
-      "id": "5184887",
-      "time": "2026-11-01 03:06:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭總理圖斯克：我相信憲法法庭將開始運作。"
-    },
-    {
-      "id": "5184886",
-      "time": "2026-11-01 03:05:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭總理圖斯克表示，波蘭依法選舉產生的法官遭到了攻擊。"
-    },
-    {
-      "id": "5184885",
-      "time": "2026-11-01 03:02:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗安全負責人雷扎伊：在伊朗的條件得到滿足之前，霍爾木茲海峽將繼續關閉。"
-    },
-    {
-      "id": "5184884",
-      "time": "2026-11-01 03:02:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI與Anthropic稱，其AI模型證偽了指數時間假說，這項理論突破或將改變研究人員評估加密安全性的方式。"
-    },
-    {
-      "id": "mkt:01a19354-bada-7ee0-aa1b-84fac07a23d6",
-      "time": "2026-11-01 02:59:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran Supreme National Security Council secretary Rezaei said if further rounds of nuclear talks are held, Iran's rights under the Nuclear Non‑Proliferation Treaty (NPT) should be respected."
-    },
-    {
-      "id": "mkt:01a19352-07e8-7ee0-aa1b-7d9f1266d523",
-      "time": "2026-11-01 02:56:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Supreme National Security Council secretary Rezaei said Iran will not negotiate or reopen the Strait of Hormuz until seven conditions set by Tehran are met."
-    },
-    {
-      "id": "5184883",
-      "time": "2026-11-01 02:54:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室：有關方面擔憂相關活動可能是海盜行為。"
-    },
-    {
-      "id": "mkt:01a19350-55d1-7ee0-aa1b-76823624900b",
-      "time": "2026-11-01 02:54:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Supreme National Security Council secretary Rezaei said the war must end permanently and no country should \"dare\" attack Iran again."
-    },
-    {
-      "id": "5184882",
-      "time": "2026-11-01 02:54:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗安全負責人雷扎伊：戰爭應永久結束，任何國家都不應“膽敢”再次攻擊伊朗。"
-    },
-    {
-      "id": "5184881",
-      "time": "2026-11-01 02:53:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海事貿易行動辦公室：一艘漁船遭未經授權人員登船。"
-    },
-    {
-      "id": "5184880",
-      "time": "2026-11-01 02:53:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗安全負責人雷扎伊對國家電視臺表示：我們認真對待外交，但不會放棄伊朗人民的權利。"
-    },
-    {
-      "id": "mkt:01a1934f-0a4e-7ee0-aa1b-6f138fd5c73d",
-      "time": "2026-11-01 02:53:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Supreme National Security Council secretary Rezaei said Iran takes diplomacy seriously but will not give up the rights of the Iranian people."
-    },
-    {
-      "id": "mkt:01a1934d-33ec-7ee0-aa1b-655a0323ae9e",
-      "time": "2026-11-01 02:51:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's top military commander warned any renewed U.S.-Israeli aggression would elicit a response more severe than before."
-    },
-    {
-      "id": "5184879",
-      "time": "2026-11-01 02:43:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：截至10月31日，美軍已要求144艘商船改變航向，以確保封鎖得到遵守。"
-    },
-    {
-      "id": "5184878",
-      "time": "2026-11-01 02:40:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "幣安：SAFU基金的另一半資金將保留在基金中。"
-    },
-    {
-      "id": "5184877",
-      "time": "2026-11-01 02:38:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "幣安：從SAFU基金中撥出50%的資金用於彌補損失。"
-    },
-    {
-      "id": "5184876",
-      "time": "2026-11-01 02:37:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我與土耳其總統埃爾多安討論了土耳其作為可能舉辦地點的選項。"
-    },
-    {
-      "id": "5184875",
-      "time": "2026-11-01 02:36:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我與土耳其總統埃爾多安討論了讓土耳其和歐洲參與其中的方式。"
-    },
-    {
-      "id": "5184874",
-      "time": "2026-11-01 02:35:19",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "澤連斯基：正籌備在11月上半月舉行三方會談。"
-    },
-    {
-      "id": "mkt:01a1933b-87da-7ee0-aa1b-5ab1b04b1bb9",
-      "time": "2026-11-01 02:31:54",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Russia's Sputnik news agency reported Russian forces struck a vessel carrying Ukrainian military supplies south of Odesa."
-    },
-    {
-      "id": "5184873",
-      "time": "2026-11-01 02:28:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗海軍：所有商船必須避免進入霍爾木茲不安全區域，並不得關閉其系統。"
-    },
-    {
-      "id": "5184872",
-      "time": "2026-11-01 02:28:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國秘書長強烈譴責蘇丹衝突各方不斷升級的無人機襲擊】當地時間10月31日，聯合國秘書長古特雷斯透過發言人發表宣告，強烈譴責蘇丹衝突各方不斷升級的無人機襲擊，以及這些襲擊給平民造成的災難性傷亡。宣告指出，在蘇丹全國各地以及阿卜耶伊地區，無人機襲擊已造成數百名平民死亡，其中包括婦女和兒童。這些襲擊違反了國際人道法。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a19337-76cd-7ee0-aa1b-569bacaa41f7",
-      "time": "2026-11-01 02:27:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Supreme National Security Council Secretary Rezai said Iran's nuclear issue can only be discussed after the U.S. meets Iran's demands."
-    },
-    {
-      "id": "5184871",
-      "time": "2026-11-01 02:27:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家安全負責人雷扎伊表示，只有在美方滿足伊朗的要求之後，才能討論伊朗的核問題。"
-    },
-    {
-      "id": "5184870",
-      "time": "2026-11-01 02:24:57",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "馬斯克：到今年年底，Colossus 2將總共擁有約120萬塊Blackwell晶片。"
-    },
-    {
-      "id": "5184869",
-      "time": "2026-11-01 02:23:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗海軍：一艘違規油輪在霍爾木茲海峽東側禁行區域航行時觸雷，海軍對其開火。"
-    },
-    {
-      "id": "5184868",
-      "time": "2026-11-01 02:22:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴黎警方與抗議者發生衝突。"
-    },
-    {
-      "id": "mkt:01a19332-b704-7ee0-aa1b-4bcdfe3ee3fb",
-      "time": "2026-11-01 02:22:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "G20 chair said food and agricultural trade should not be used as tools of economic or political coercion."
-    },
-    {
-      "id": "5184867",
-      "time": "2026-11-01 02:21:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "二十國集團：小型模組化反應堆有助於保障能源安全。"
-    },
-    {
-      "id": "5184866",
-      "time": "2026-11-01 02:20:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "二十國集團表示，譴責將糧食供應鏈用作脅迫工具。"
-    },
-    {
-      "id": "5184865",
-      "time": "2026-11-01 02:19:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄烏同意定期開展人道主義救援行動】俄羅斯人權事務專員亞娜·蘭特拉託娃10月31日在社交媒體釋出訊息說，俄烏雙方已同意定期開展人道主義救援行動。（新華社）"
-    },
-    {
-      "id": "mkt:01a19330-4f2d-7ee0-aa1b-44a3f3dc311b",
-      "time": "2026-11-01 02:19:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russia and Ukraine agree to hold regular humanitarian relief operations】Russian human rights commissioner Yana Lantratova said on social media on Oct. 31 that Russia and Ukraine have agreed to hold regular humanitarian relief operations, Xinhua reported."
-    },
-    {
-      "id": "5184864",
-      "time": "2026-11-01 02:18:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "二十國集團主席就會議發表宣告。"
-    },
-    {
-      "id": "5184863",
-      "time": "2026-11-01 02:17:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國媒體的一項分析發現，伊朗最初瞄準的是美國在中東的預警和防空系統，隨後才對軍事設施發動進一步攻擊，這一系列行動造成了數十億美元的損失。"
-    },
-    {
-      "id": "mkt:01a19329-0099-7ee0-aa1b-3ecfa8aecfb6",
-      "time": "2026-11-01 02:11:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Syria says it is discussing possible entry to Saudi-Turkey-Pakistan defense pact】At the Manama Dialogue security meeting in Bahrain, Syrian Foreign Minister Assad Shibani said discussions are underway to assess Syria joining the Mecca alliance — the joint defense agreement Saudi Arabia, Turkey and Pakistan signed in August. He said defending Gulf Arab states is vital to Syria’s security and that Syria will stand with all Gulf states, adding they face threats from cross‑border militia groups. Shibani gave no detail on whether support might include sending troops to Yemen; Damascus has previously denied reports Riyadh asked for Syrian deployments."
-    },
-    {
-      "id": "5184862",
-      "time": "2026-11-01 02:08:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【魯比奧稱美國尚未決定恢復打擊】美國國務卿魯比奧表示，美國尚未就恢復對伊朗的打擊作出任何決定，總統特朗普更傾向於透過外交途徑解決問題。他補充稱，無論特朗普決定尋求實現何種軍事目標，美國都有實現這些目標的能力。“伊朗基本上是在說，除非我們得到想要的東西，否則我們不僅會炸燬船隻，還會摧毀整個地區鄰國的能源基礎設施，”魯比奧在亞特蘭大舉行的G20外長會議結束後的新聞釋出會上表示。“想想這一點，因為我覺得我們往往一帶而過，好像這是什麼正常行為似的。這不是正常行為。不是。”"
-    },
-    {
-      "id": "5184861",
-      "time": "2026-11-01 01:59:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基：從奧列什基撤離的烏克蘭人將獲得援助】烏克蘭總統澤連斯基10月31日在社交媒體上發文說，從奧列什基撤離的烏克蘭人都將獲得必要援助。澤連斯基表示，在奧列什基開展了人道主義救援行動，其間赫爾松方向保持“靜默”狀態。需要撤離的烏公民已從奧列什基及其周邊地區轉移，透過烏克蘭與白俄羅斯接壤的切爾尼戈夫州邊境進入烏境內。“他們都將獲得必要的援助。”（新華社）"
-    },
-    {
-      "id": "5184860",
-      "time": "2026-11-01 01:56:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗安全負責人雷扎伊：尚未就改變核原則做出新決定，但正在討論如果再次爆發戰爭是否應維持相同原則。"
-    },
-    {
-      "id": "5184859",
-      "time": "2026-11-01 01:56:01",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【伊斯坦布林證券交易所執行長因基金調查被拘留】土耳其伊斯坦布林證券交易所執行長科爾克馬茲·埃爾貢在土耳其投資基金危機相關調查中被拘留。埃爾貢因涉嫌受賄和加入犯罪組織而接受調查。他同時擔任土耳其結算與託管銀行（Takasbank）副董事長。此舉標誌著對投資基金和股票涉嫌操縱行為的大規模調查進一步擴大。資本市場委員會前主席易卜拉欣·奧梅爾·格努爾也作為嫌疑人接受調查。土耳其基金危機期間撤換市場監管機構負責人。這場危機於9月爆發，已牽涉土耳其金融界多位知名人物。"
-    },
-    {
-      "id": "5184858",
-      "time": "2026-11-01 01:55:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員：伊方目前尚未作出任何新的修改核戰略的決定】當地時間31日，伊朗最高國家安全委員會秘書雷扎伊在談到該國核戰略時表示，伊朗人民在修改核戰略方面有訴求，當人民看到敵人攻擊伊朗核設施時，他們通常會問，為什麼還要繼續沿用之前的模式？雷扎伊強調，目前伊朗尚未作出任何新的、修改核戰略的決定。當前關於核問題爭論的焦點在於，如果戰爭再次爆發，伊朗是否希望沿用之前的戰略。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a19319-c9d9-7ee0-aa1b-35546df66f23",
-      "time": "2026-11-01 01:55:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Iran says no new decision to alter nuclear strategy; domestic pressure rises after attacks】Iran's Supreme National Security Council secretary said on Oct. 31 Tehran has not made any new decision to modify its nuclear strategy. He said public pressure has grown after attacks on Iranian nuclear facilities, and the current debate centres on whether Iran would stick to its previous strategy if war resumes."
-    },
-    {
-      "id": "mkt:01a1930f-2ec4-7ee0-aa1b-28df56337554",
-      "time": "2026-11-01 01:43:28",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Iran NSC secretary says he has not replied to letter from U.S. vice president Vance】On the 31st (local time), Iran’s Supreme National Security Council Secretary Rezaei said he had read a letter from U.S. Vice President Vance but has not responded. He said the letter’s tone had changed and, because it contained no concrete proposals, he declined to comment further."
-    },
-    {
-      "id": "mkt:01a1930e-d851-7ee0-aa1b-226341d446d9",
-      "time": "2026-11-01 01:43:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China vice foreign minister Ma Zhaoxu attends G20 foreign ministers' meeting in Atlanta】Oct. 30-31, 2026 — China’s vice foreign minister Ma Zhaoxu attended the G20 foreign ministers’ meeting in Atlanta. Ma warned of deepening shifts in the international landscape, heightened geopolitical tensions and a lagging development agenda. He reiterated President Xi Jinping’s Global Security Initiative—advocating a common, comprehensive, cooperative and sustainable security concept that favors dialogue over confrontation, partnerships over alliances and win-win outcomes over zero-sum approaches—and said it has helped defuse regional disputes. Ma urged the G20 to help maintain global peace and stability, cool regional hotspots, address root causes of conflict and strengthen global security governance. He emphasized energy as the lifeline of economic and social development and said China supports G20 cooperation on energy security and sustainable development, improving affordability, accelerating energy-structure transition and enhancing international energy governance."
-    },
-    {
-      "id": "5184857",
-      "time": "2026-11-01 01:41:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗批評歐洲支援美國和以色列對伊朗的戰爭，稱那些支援侵略的政府如今正在承受戰爭與恐怖主義的代價。"
-    },
-    {
-      "id": "5184856",
-      "time": "2026-11-01 01:39:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗最高國家安全委員會秘書：尚未回應美國信函】當地時間31日，伊朗最高國家安全委員會秘書雷扎伊表示，其已閱讀美國副總統萬斯的來信，但尚未回覆。“他們的語氣完全變了，這是一個好兆頭，表明伊朗人民已經鞏固了勝利和權威。”雷扎伊表示，由於該信函沒有提出任何具體內容，因此他目前不會發表任何評論。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a19309-53a9-7ee0-aa1b-183157debe9b",
-      "time": "2026-11-01 01:37:04",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US Secretary of State Rubio said the Houthis would not have their current capabilities without direct support from the Iranian regime."
-    },
-    {
-      "id": "mkt:01a19308-5630-7ee0-aa1b-12af89705130",
-      "time": "2026-11-01 01:35:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Supreme National Security Council Secretary Rezaei, referring to a letter from U.S. Vice President Vance, said their tone had completely changed and called it a good sign demonstrating the Iranian people had achieved victory."
-    },
-    {
-      "id": "5184855",
-      "time": "2026-11-01 01:35:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗安全委員會秘書雷扎伊就美國副總統萬斯的來信表示：我已讀過這封信，尚未作出回覆。信的語氣已完全改變。這是一個很好的跡象，表明伊朗民族鞏固了自身的勝利與權威。"
-    },
-    {
-      "id": "5184854",
-      "time": "2026-11-01 01:34:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：我們將繼續就選舉誠信問題展開鬥爭。"
-    },
-    {
-      "id": "5184853",
-      "time": "2026-11-01 01:32:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "伊斯坦布林證券交易所執行長因涉嫌在基金調查中收受賄賂被拘留。"
-    },
-    {
-      "id": "5184852",
-      "time": "2026-11-01 01:32:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "幣安：下一個關注的重點是恢復使用者提現服務。"
-    },
-    {
-      "id": "mkt:01a19304-e9fe-7ee0-aa1b-0a2846d7284e",
-      "time": "2026-11-01 01:32:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Rubio: US-Iran diplomatic talks \"have in effect never stopped\"】On Saturday U.S. Secretary of State Rubio said US-Iran diplomatic talks \"have in effect never stopped\" and that President Trump’s first choice in addressing global challenges is diplomacy and peaceful means where possible. Iran’s top diplomat said on Saturday Tehran currently has no plans to hold talks with the United States, despite growing concern the two sides could rekindle hostilities."
-    },
-    {
-      "id": "5184851",
-      "time": "2026-11-01 01:31:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國財政大臣希利談提高青年最低工資：問題只在於何時實施。"
-    },
-    {
-      "id": "mkt:01a19302-f24f-7ee0-aa1b-02a745e9d947",
-      "time": "2026-11-01 01:30:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Eisenkot, leader of the Yashar Party, said tonight he intends to act immediately to secure a clear parliamentary majority to pursue the welfare of all Israeli citizens."
-    },
-    {
-      "id": "mkt:01a19302-5537-7ee0-aa1a-f9dcdc0dfc83",
-      "time": "2026-11-01 01:29:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's \"Yashar\" party leader Eisenkot said any Knesset member who endorses the principles he set out before the election may join the government. He said he will immediately seek a parliamentary majority to repeal the reform bill and expand civil service headcount."
-    },
-    {
-      "id": "5184850",
-      "time": "2026-11-01 01:29:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "土耳其拘留伊斯坦布林證券交易所執行長Korkmaz Enes Ergun。"
-    },
-    {
-      "id": "5184849",
-      "time": "2026-11-01 01:29:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：全球可以離開伊朗石油。"
-    },
-    {
-      "id": "5184848",
-      "time": "2026-11-01 01:28:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：除伊朗原油外，霍爾木茲海峽通行量已恢復至戰前水平。"
-    },
-    {
-      "id": "mkt:01a192f8-1c3c-7ee0-aa1a-f2e28affe3c4",
-      "time": "2026-11-01 01:18:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nigeria Centre for Disease Control says two people have been isolated; contact tracing and registration are ongoing and laboratory testing is underway."
-    },
-    {
-      "id": "5184847",
-      "time": "2026-11-01 01:17:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國：巴黎生活成本遊行尾聲，騷亂者向警方投擲燃燒瓶。 至少一名警員的裝備被引燃。"
-    },
-    {
-      "id": "mkt:01a192f7-13d4-7ee0-aa1a-e871768d4cf3",
-      "time": "2026-11-01 01:17:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nigeria Centre for Disease Control says two suspected Ebola cases have been detected in northeast Nigeria."
-    },
-    {
-      "id": "mkt:01a192f3-c5d5-7ee0-aa1a-e6b877db08b4",
-      "time": "2026-11-01 01:13:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Carney says he won't rush to sign US trade deal if terms don't serve Canada】Prime Minister Carney said he will not rush to sign a trade agreement with the US if the terms are not in Canada’s best interests. He indicated Canada could remain a target of pressure from Trump after the US midterm elections and said he would not sign an agreement he deems disadvantageous even if that means waiting for a new White House administration."
-    },
-    {
-      "id": "5184846",
-      "time": "2026-11-01 01:08:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱一艘違規油輪在霍爾木茲海峽東部觸雷起火】當地時間31日，伊朗海軍宣佈，當天下午，一艘違規油輪在霍爾木茲海峽東部禁航區航行，無視伊朗警告後觸雷起火。伊朗革命衛隊表示，美國總統發表了不實言論，伊朗在霍爾木茲海峽的管控政策不會改變。所有船舶，特別是油輪和商船，必須嚴格遵守伊朗釋出的海上警告和禁航區規定，不得進入危險區域和關閉跟蹤系統。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a192ea-ec27-7ee0-aa1a-d8f5fd6e5ee0",
-      "time": "2026-11-01 01:03:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Secretary of State Rubio said the United States will continue to honor its defense agreement with Saudi Arabia."
-    },
-    {
-      "id": "5184845",
-      "time": "2026-11-01 01:03:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：總統不認為會談、不認為與某人會面是一種讓步。"
-    },
-    {
-      "id": "5184844",
-      "time": "2026-11-01 01:03:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國將繼續履行與沙特的防務協議。"
-    },
-    {
-      "id": "mkt:01a192ea-24f2-7ee0-aa1a-d6b5074417a0",
-      "time": "2026-11-01 01:03:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US Secretary of State Rubio said President Trump does not view negotiating or meeting with someone as a concession."
-    },
-    {
-      "id": "5184843",
-      "time": "2026-11-01 00:59:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧談俄烏衝突：我們正試圖制止一場極其致命的衝突。一方面，基輔每晚都面臨針對其能源基礎設施的毀滅性襲擊，同時平民死亡人數也在不斷增加。即便在俄羅斯一方，每月也有2萬名俄羅斯人喪生。這是一場極其致命且具有破壞性的衝突，每過一個月，傷亡都在不斷增加。"
-    },
-    {
-      "id": "5184842",
-      "time": "2026-11-01 00:58:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏土兩國總統舉行會談 聚焦黑海安全域性勢】當地時間10月31日，烏克蘭總統澤連斯基在伊斯坦布林與土耳其總統埃爾多安舉行會談，雙方圍繞俄烏衝突以及黑海安全域性勢等問題進行了探討。在會後的聯合記者會上，埃爾多安強調，針對民用船隻的襲擊不可接受，加劇黑海緊張局勢的行為對任何一方無益。土耳其將繼續與各方接觸，以恢復黑海航行安全，並呼籲透過外交手段和平解決衝突。澤連斯基表示，雙方討論了當前俄烏衝突形勢和即將舉行的和平談判，並同意就黑海糧食通道問題開展工作。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a192e6-496e-7ee0-aa1a-cedbd0994903",
-      "time": "2026-11-01 00:58:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zelenskiy and Erdogan meet in Istanbul to discuss Black Sea security】October 31 — Ukrainian President Zelenskiy met Turkish President Erdogan in Istanbul to discuss the Russia-Ukraine conflict and Black Sea security. At a joint briefing Erdogan said attacks on civilian vessels are unacceptable, warned that actions which escalate tensions in the Black Sea benefit no party, and said Turkey will continue diplomatic engagement to restore safe navigation. Zelenskiy said they discussed the current conflict and upcoming peace talks and agreed to cooperate on the Black Sea grain corridor."
-    },
-    {
-      "id": "5184841",
-      "time": "2026-11-01 00:57:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗海軍稱該油輪“在受限區域作業”。"
-    },
-    {
-      "id": "mkt:01a192e4-2a28-7ee0-aa1a-c18b37774505",
-      "time": "2026-11-01 00:56:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian navy says an oil tanker caught fire after striking a mine in the Strait of Hormuz."
-    },
-    {
-      "id": "5184840",
-      "time": "2026-11-01 00:56:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：外交政策最終由行政部門決定。"
-    },
-    {
-      "id": "5184839",
-      "time": "2026-11-01 00:56:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家媒體報道，伊朗海軍稱一艘油輪在霍爾木茲海峽與水雷相撞後起火。"
-    },
-    {
-      "id": "5184838",
-      "time": "2026-11-01 00:55:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：中期選舉不太可能影響美國總統特朗普的外交指令。"
-    },
-    {
-      "id": "mkt:01a192e1-6cac-7ee0-aa1a-ba93d4266b45",
-      "time": "2026-11-01 00:53:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Rubio: Trump has not decided whether to resume strikes on Iran】U.S. Secretary of State Rubio said at a Saturday press briefing that President Trump has not decided whether to resume military action against Iran. Rubio said he did not know whether Qatar-led talks aimed at resolving U.S.-Iran hostilities have a specific timeline. Refinitiv earlier reported Iranian officials were in Doha meeting with Qatari mediators."
-    },
-    {
-      "id": "5184837",
-      "time": "2026-11-01 00:51:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國認為戰爭對俄羅斯和烏克蘭而言代價都非常高昂。"
-    },
-    {
-      "id": "mkt:01a192de-1521-7ee0-aa1a-b6536c17e199",
-      "time": "2026-11-01 00:49:50",
-      "tags": [
-        "MKT News",
-        "Market Regions"
-      ],
-      "text": "U.S. Secretary of State Rubio said he spoke with Brazil's foreign minister and will meet him again at the G7 meeting in France."
-    },
-    {
-      "id": "5184836",
-      "time": "2026-11-01 00:49:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：已與巴西外交部長通電話，將在法國舉行的七國集團（G7）會議上再次與他會面。"
-    },
-    {
-      "id": "mkt:01a192db-e62f-7ee0-aa1a-aae16ceaa5bb",
-      "time": "2026-11-01 00:47:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said he has discussed with Russian Foreign Minister Lavrov the possibility of a meeting between Trump and Putin next month at the APEC summit."
-    },
-    {
-      "id": "5184835",
-      "time": "2026-11-01 00:46:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：已與俄羅斯外長拉夫羅夫就特朗普與普京下月在亞太經合組織（APEC）會議期間會晤的可能性進行了溝通。"
-    },
-    {
-      "id": "mkt:01a192d9-e84c-7ee0-aa1a-a4d26d499e9d",
-      "time": "2026-11-01 00:45:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. Secretary of State Rubio said Iran has been waging war against its neighbors since 1979."
     }
   ]
 }

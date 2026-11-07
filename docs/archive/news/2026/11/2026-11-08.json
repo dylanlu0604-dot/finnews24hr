@@ -1,7 +1,546 @@
 {
   "date": "2026-11-08",
-  "count": 14,
+  "count": 76,
   "items": [
+    {
+      "id": "5201078",
+      "time": "2026-11-08 03:36:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駐維也納聯合國代表團指控美國藉助“正義懸賞”計劃招募同夥，用以襲擊伊朗核科學家和核設施，並警告任何提供相關資訊的主體，包括國際原子能機構，都可能面臨法律後果。"
+    },
+    {
+      "id": "mkt:01a1b782-dfda-7ee0-aac1-d3a061c250b8",
+      "time": "2026-11-08 03:36:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Office of Israel's president says Gadi Eizenkot has 28 days to form a government, extendable by up to 14 days under law if needed."
+    },
+    {
+      "id": "mkt:01a1b781-57b9-7ee0-aac1-cd1b5219420d",
+      "time": "2026-11-08 03:34:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian Students News Agency reports explosions heard on Qeshm Island, Iran."
+    },
+    {
+      "id": "5201077",
+      "time": "2026-11-08 03:33:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗格什姆島傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:01a1b77c-a0d4-7ee0-aac1-c4b99d1187c1",
+      "time": "2026-11-08 03:29:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israeli media report Israel's president has selected Netanyahu rival Gadi Eizenkot to form a new government."
+    },
+    {
+      "id": "5201076",
+      "time": "2026-11-08 03:27:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列總統選擇內塔尼亞胡的對手加迪·艾森科特組建政府。"
+    },
+    {
+      "id": "mkt:01a1b776-6dd6-7ee0-aac1-bd68058f3fd9",
+      "time": "2026-11-08 03:22:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's interior minister said all signs indicate the shooter was obsessed with far-right ideology."
+    },
+    {
+      "id": "5201075",
+      "time": "2026-11-08 03:20:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭內政部長基爾溫斯基：所有跡象都表明槍手痴迷於極右翼意識形態。"
+    },
+    {
+      "id": "mkt:01a1b773-50d9-7ee0-aac1-b0463270f245",
+      "time": "2026-11-08 03:19:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense lifted the danger alert for Jizan."
+    },
+    {
+      "id": "5201074",
+      "time": "2026-11-08 03:18:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，吉讚的危險已經過去。"
+    },
+    {
+      "id": "5201073",
+      "time": "2026-11-08 03:15:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普宣佈邀請達納·懷特擔任白宮新聞秘書】美國總統特朗普7日在社交媒體上發文說，他已邀請美國終極格鬥冠軍賽總裁達納·懷特擔任白宮新聞秘書一職。他稱懷特將會是一名“與眾不同”的新聞秘書。（新華社）"
+    },
+    {
+      "id": "mkt:01a1b76c-2f6b-7ee0-aac1-a976341d0f0d",
+      "time": "2026-11-08 03:11:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Ministry of Foreign Affairs reiterated its firm rejection of violence, terrorism and criminal acts regardless of motive."
+    },
+    {
+      "id": "mkt:01a1b76b-ec1c-7ee0-aac1-a66e7c8c82c7",
+      "time": "2026-11-08 03:11:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Qatar's foreign ministry condemned the shooting in Poland."
+    },
+    {
+      "id": "mkt:01a1b76b-4d84-7ee0-aac1-9ceded3a11e9",
+      "time": "2026-11-08 03:10:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued a potential danger alert for JIZAN."
+    },
+    {
+      "id": "5201071",
+      "time": "2026-11-08 03:09:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門釋出吉贊地區潛在危險警報。"
+    },
+    {
+      "id": "mkt:01a1b764-5cb8-7ee0-aac1-90d94652ee44",
+      "time": "2026-11-08 03:02:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Russian cosmonaut says nuclear power plant necessary for further lunar exploration】Andrei Babkin, deputy commander of the cosmonaut detachment at Russia’s space corporation, said a nuclear power plant on the Moon is a prerequisite for further exploration, including crewed missions, adding “without such a plant, further lunar exploration is simply impossible.” He cited the ~14-Earth-day lunar night and extreme cold as reasons nuclear is the only reliable, safe power solution. Rosatom chief Alexey Likhachev has said Russia plans to build its first lunar nuclear power plant by the mid-2030s."
+    },
+    {
+      "id": "mkt:01a1b762-0a0d-7ee0-aac1-8ff4a7702e09",
+      "time": "2026-11-08 03:00:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni government forces said warplanes and drones struck Houthi assembly areas and vehicles in the Masrah and Mukatra areas."
+    },
+    {
+      "id": "5201070",
+      "time": "2026-11-08 02:59:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CoreWeave承諾在資料中心開發方面與德州候任州長合作】CoreWeave致信德克薩斯州候任州長Gina Hinojosa，承諾將與她以及該州各地社群合作，推動負責任的資料中心開發。"
+    },
+    {
+      "id": "mkt:01a1b75a-f467-7ee0-aac1-85d7c34e2f50",
+      "time": "2026-11-08 02:52:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni government forces said they repelled an attack by Houthi forces in the Kanb area on Taiz's eastern front."
+    },
+    {
+      "id": "5201069",
+      "time": "2026-11-08 02:51:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普斥責民主黨的調查威脅是“犯罪行為” 下令司法部立即介入】美國總統特朗普猛烈抨擊民主黨人威脅調查其政府和共和黨捐款人，並稱他已下令司法部對這些人展開調查。民主黨在中期選舉中取得決定性勝利後即將於明年1月掌控國會參眾兩院，並誓言對特朗普政府展開多項調查，警告關鍵人物要“找好律師”。特朗普批評民主黨以彈劾“威脅很多人”，稱這是“敲詐”，並表示相關人員應被追究責任，但他沒有具體說明他指的是什麼罪行。“這是更高層次的武器化和法律戰，”他在社交媒體發帖稱。“我正下令司法部立即調查這一犯罪行為！”民主黨已表示，將利用新獲得的調查權力深入調查一系列議題，包括與已故金融家傑弗裡·愛潑斯坦有關的證據，以及特朗普政府如何處理國會所要求公開檔案的審查工作。民主黨還誓言要調查特朗普的關稅、移民政策和股票交易等諸多問題。"
+    },
+    {
+      "id": "mkt:01a1b758-c97a-7ee0-aac1-7c7e25994c4b",
+      "time": "2026-11-08 02:50:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump urges reports to DOJ or him of Democrats' 'illegal threats'】President Trump renewed accusations that Democrats have issued 'unprecedented' and 'completely illegal' threats against Republican donors and party members, and urged those affected to report incidents immediately to the Department of Justice or to him personally. He said alleged perpetrators should face legal liability, including imprisonment, and urged the Senate, DOJ and House to act, warning the Senate should not be pressured to avoid Republican electoral losses or 'more serious consequences.'"
+    },
+    {
+      "id": "5201068",
+      "time": "2026-11-08 02:44:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：要求懷特帶一些助手來，“儘管有些不是我們國家的人”。"
+    },
+    {
+      "id": "mkt:01a1b752-6f50-7ee0-aac1-737ace1853c8",
+      "time": "2026-11-08 02:43:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump invites Dana White to be White House press secretary】President Trump invited UFC president Dana White to serve as White House press secretary and proposed recruiting fighters Islam Makhachev, Khabib Nurmagomedov, Justin Gaethje, Daniel Cormier, Amanda Nunes and Kayla Harris as aides. Trump acknowledged several of the proposed aides are not U.S. citizens and publicly urged White to accept the role."
+    },
+    {
+      "id": "5201067",
+      "time": "2026-11-08 02:41:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：達娜·懷特已獲邀擔任白宮新聞秘書一職。"
+    },
+    {
+      "id": "mkt:01a1b750-a904-7ee0-aac1-6afbde0381fe",
+      "time": "2026-11-08 02:41:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Dana White has been invited to serve as press secretary."
+    },
+    {
+      "id": "5201066",
+      "time": "2026-11-08 02:34:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "CoreWeave致信美國得州候任州長伊諾霍薩，承諾將與其開展合作。"
+    },
+    {
+      "id": "mkt:01a1b74a-2ecd-7ee0-aac1-65cc22d3f45e",
+      "time": "2026-11-08 02:34:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported anti-Netanyahu protests in Tel Aviv, with demonstrators demanding the government's removal and formation of a new cabinet that includes Arab parties."
+    },
+    {
+      "id": "mkt:01a1b749-6835-7ee0-aac1-59c85a9273f1",
+      "time": "2026-11-08 02:33:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Musk: California’s high taxes and heavy regulation push business to Texas】Musk retweeted a Wall Street Journal article titled \"Musk bets his commercial empire on Texas, now local Democrats try to rein him in\" and wrote that SpaceX and Tesla shifted major U.S. expansion projects and headquarters to Texas because they no longer face what he called an increasingly oppressive, extractive California state government. He added he needs to be near factories to personally oversee production."
+    },
+    {
+      "id": "mkt:01a1b745-ea3e-7ee0-aac1-542eb181fe5a",
+      "time": "2026-11-08 02:29:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Musk said SpaceX and Tesla have been able to thrive in Texas because they do not have to operate under an oppressive, predatory state government."
+    },
+    {
+      "id": "5201065",
+      "time": "2026-11-08 02:28:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：特拉維夫市中心爆發示威遊行，要求內塔尼亞胡政府下臺，並組建由阿拉伯政黨組成的新政府。"
+    },
+    {
+      "id": "5201064",
+      "time": "2026-11-08 02:23:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "閃迪暗盤漲超1%，現報839.845美元。"
+    },
+    {
+      "id": "mkt:01a1b739-f668-7ee0-aac1-4eebf410fa6a",
+      "time": "2026-11-08 02:16:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Musk said Tesla (TSLA.O) has a Cybertruck order backlog well above current production capacity; around June or July next year the company will dismantle existing production lines to expand Cybercab output."
+    },
+    {
+      "id": "5201063",
+      "time": "2026-11-08 02:15:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉公司：我們將增加一個班次，力爭按時完成所有Cybercab訂單。"
+    },
+    {
+      "id": "mkt:01a1b738-db41-7ee0-aac1-437224bdf174",
+      "time": "2026-11-08 02:15:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) said it will add a shift and aims to complete all Cybercab orders on schedule."
+    },
+    {
+      "id": "5201062",
+      "time": "2026-11-08 02:15:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：特斯拉賽博卡車訂單積壓目前遠遠超過我們明年6月/7月左右為擴大賽博卡車生產而拆除生產線之前的產能。"
+    },
+    {
+      "id": "5201061",
+      "time": "2026-11-08 02:02:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其拘留銀行業監管機構副主管埃裡森。"
+    },
+    {
+      "id": "5201060",
+      "time": "2026-11-08 02:00:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拉圭檢察官起訴前總統培尼亞，指控其背信及以權謀私。"
+    },
+    {
+      "id": "5201059",
+      "time": "2026-11-08 01:55:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱民主黨高層寄出威脅信件，下令司法部展開調查】美國總統特朗普聲稱收到來自“民主黨政界高層”的威脅信件，並表示他正要求司法部對此展開調查。特朗普在真實社交平臺發文稱：“這屬於最高層級的敲詐，相關人員應當為此承擔責任。”"
+    },
+    {
+      "id": "mkt:3dd7729c-adc0-4533-8d9f-6af0b5655168",
+      "time": "2026-11-08 01:54:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump orders DOJ probe into alleged Democratic threats to use impeachment, imprisonment as political tools】President Trump ordered the Department of Justice to immediately investigate what he called Democratic threats to use impeachment and imprisonment as political weapons, accusing Democrats of targeting the attorney general and other officials and of threatening criminal penalties against Republican donors and supporters despite, he said, lacking grounds. Trump singled out Michigan Democrat Elissa Slotkin as an example of a lawmaker who has threatened to prosecute young people for espousing Republican views and urged Republicans to respond quickly."
+    },
+    {
+      "id": "5201058",
+      "time": "2026-11-08 01:50:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄方批評烏“志願聯盟”舉行演習惡化局勢】俄羅斯外交部發言人扎哈羅娃7日重申，援助烏克蘭的“志願聯盟”旗下多國部隊將要舉行的演習會加劇局勢升級，俄方絕不接受在烏部署外國軍隊。（新華社）"
+    },
+    {
+      "id": "mkt:18cdbdbc-3246-4e84-90b4-84c490ebefc5",
+      "time": "2026-11-08 01:47:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP said Democrats are threatening many people, including the Attorney General and others, and are threatening to impeach them. He called it the highest form of extortion and said they should be held accountable."
+    },
+    {
+      "id": "5201057",
+      "time": "2026-11-08 01:46:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：司法部將調查這起“犯罪”行為。"
+    },
+    {
+      "id": "5201056",
+      "time": "2026-11-08 01:46:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：民主黨人在威脅很多人，這是敲詐勒索。"
+    },
+    {
+      "id": "5201055",
+      "time": "2026-11-08 01:43:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃爾多安與特朗普通話討論地區和全球局勢】土耳其埃爾多安辦公室稱，埃爾多安與特朗普通電話，討論了地區和全球局勢。埃爾多安告訴特朗普，美伊緊張局勢應透過外交途徑解決，安卡拉將繼續為和平努力，他希望結束烏克蘭戰爭的外交努力將取得積極成果。"
+    },
+    {
+      "id": "mkt:01a1b71b-2304-7ee0-aac1-3bc7f39fc769",
+      "time": "2026-11-08 01:42:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Erdogan told US President Trump he hopes diplomatic efforts to end the war in Ukraine will yield positive results."
+    },
+    {
+      "id": "mkt:c1e927de-6b37-4f08-b1ba-ffdc2da7f6b3",
+      "time": "2026-11-08 01:42:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Erdogan told U.S. President Trump that U.S.-Iran tensions should be resolved through diplomacy and that Ankara will continue efforts to promote peace."
+    },
+    {
+      "id": "mkt:05a87e62-8b90-4581-adb5-fa3b38d809ae",
+      "time": "2026-11-08 01:42:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's presidential office said President Erdogan spoke by phone with US President Trump to discuss regional and global developments."
+    },
+    {
+      "id": "mkt:01a1b713-e186-7ee0-aac1-31fe92ccae94",
+      "time": "2026-11-08 01:34:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shooting in Krakow kills six, injures 15】On Nov 7 afternoon local time a shooter opened fire from a vehicle at the Main Market Square in Krakow, southern Poland, killing six and wounding 15, regional authorities said. Several of the injured were police officers hit during an exchange of fire; one officer is in serious condition. Police returned fire and detained a suspect wearing military-style clothing and armed with a military-type weapon. Motive remains unknown."
+    },
+    {
+      "id": "mkt:01a1b712-1dc4-7ee0-aac1-2946c43861f6",
+      "time": "2026-11-08 01:33:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said Russian air-defence forces shot down 28 Ukrainian drones in one day."
+    },
+    {
+      "id": "mkt:01a1b70c-e8e2-7ee0-aac1-2467dcf3f2c7",
+      "time": "2026-11-08 01:27:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said there are plans to form a government that would include supporters of terrorism."
+    },
+    {
+      "id": "mkt:01a1b70c-cafb-7ee0-aac1-1abee8262b36",
+      "time": "2026-11-08 01:27:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he will not rush to form a new government."
+    },
+    {
+      "id": "mkt:01a1b70a-14a2-7ee0-aac1-140f4d08ca04",
+      "time": "2026-11-08 01:24:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu called for forming a coalition government."
+    },
+    {
+      "id": "5201054",
+      "time": "2026-11-08 01:24:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝發言人葉海亞·薩里週六表示，使用導彈和無人機對沙烏地阿拉伯和葉門的石油和軍事目標發動了六次襲擊。"
+    },
+    {
+      "id": "mkt:01a1b709-c5a1-7ee0-aac1-0d4b475a3d59",
+      "time": "2026-11-08 01:23:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said now is the time to preserve unity."
+    },
+    {
+      "id": "mkt:01a1b703-8203-7ee0-aac1-00e90c0a9f91",
+      "time": "2026-11-08 01:17:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local authorities in Krakow, Poland reported a shooting that left 6 dead and 15 injured."
+    },
+    {
+      "id": "5201053",
+      "time": "2026-11-08 01:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭克拉科夫地方當局稱，槍擊事件造成6人死亡、15人受傷。"
+    },
+    {
+      "id": "mkt:01a1b700-4cfa-7ee0-aac0-f8506b1f1920",
+      "time": "2026-11-08 01:13:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthi militia says Saudi carried out 105 airstrikes in 24 hours, dozens of civilians killed or injured】Houthi military spokesman Yahya Sarea said Saudi warplanes carried out 105 airstrikes and missile strikes over the past 24 hours, hitting civilian infrastructure in Sanaa and the provinces of Al Jawf, Taiz, Amran, Hajjah, Saada, Marib and Lahij. Sarea said strikes were conducted by F-15s and Typhoon jets based at Khamis Mushait and Taif, with additional missile attacks from Najran and Jizan. He said the attacks killed or injured dozens of civilians, mostly women and children, and that total air and missile strikes since Saudi’s latest military escalation have reached 4,369."
+    },
+    {
+      "id": "mkt:01a1b6fe-2204-7ee0-aac0-f1341758b4da",
+      "time": "2026-11-08 01:11:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Houthi military spokesman Yahya Saree said the Saudi-led coalition carried out 105 airstrikes in the past 24 hours, bringing the cumulative total to 4,369."
+    },
+    {
+      "id": "mkt:01a1b6fc-d8e3-7ee0-aac0-ec033dad146e",
+      "time": "2026-11-08 01:09:46",
+      "tags": [
+        "MKT News",
+        "2914.T",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Putin ordered the seizure of additional Japan Tobacco assets in Russia."
+    },
+    {
+      "id": "5201052",
+      "time": "2026-11-08 01:08:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京下令沒收日本菸草在俄更多資產。"
+    },
+    {
+      "id": "5201037",
+      "time": "2026-11-08 00:47:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗安全負責人雷扎伊與俄羅斯總統普京於11月5日週四在克里姆林宮舉行三小時會談，商討戰略合作事宜。"
+    },
+    {
+      "id": "mkt:01a1b6e6-947b-7ee0-aac0-e7f5d0dbcadd",
+      "time": "2026-11-08 00:45:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zakharova: Plans to inflict 'strategic failure' on Russia will not succeed】Russian Foreign Ministry spokeswoman Maria Zakharova said plans to cause a 'strategic failure' for Russia are doomed to fail and that responsibility for the escalation lies with those launching new military adventures against Russia. She added that all objectives set within the framework of the special operation will be achieved."
+    },
     {
       "id": "mkt:01a1b6dd-7eb6-7ee0-aac0-d848ef527992",
       "time": "2026-11-08 00:35:31",
