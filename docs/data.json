@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-08 03:53:24",
-  "count": 10734,
+  "updated": "2026-11-08 03:57:06",
+  "count": 10735,
   "items": [
+    {
+      "id": "mkt:01a1b794-77e3-7ee0-aac1-e9f618b5cab8",
+      "time": "2026-11-08 03:55:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's UN mission in Vienna accused the United States of using a \"Justice Bounty\" program to recruit accomplices to attack Iranian nuclear scientists and facilities, and warned any party supplying related information—including the IAEA—could face legal consequences."
+    },
     {
       "id": "5201080",
       "time": "2026-11-08 03:47:05",
