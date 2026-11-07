@@ -1,7 +1,15 @@
 {
   "date": "2026-11-08",
-  "count": 9,
+  "count": 10,
   "items": [
+    {
+      "id": "mkt:01a1b6d0-fed2-7ee0-aac0-c6fe1a6197f7",
+      "time": "2026-11-08 00:21:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan Meteorological Agency said there is no tsunami risk from the earlier earthquake in Japan."
+    },
     {
       "id": "mkt:01a1b6cf-af95-7ee0-aac0-bda98a1b505a",
       "time": "2026-11-08 00:20:26",
