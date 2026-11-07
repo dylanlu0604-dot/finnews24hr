@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-08 04:15:36",
-  "count": 10731,
+  "updated": "2026-11-08 04:19:17",
+  "count": 10732,
   "items": [
+    {
+      "id": "mkt:01a1b7a7-b6c5-7ee0-aac1-fb97ffbe4576",
+      "time": "2026-11-08 04:16:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's public broadcaster, citing sources, said Prime Minister Netanyahu has not proposed a rotational premiership but would agree to one if talks begin."
+    },
+    {
+      "id": "mkt:01a1b7a7-7abd-7ee0-aac1-f272216b4b11",
+      "time": "2026-11-08 04:16:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian state TV reported explosions were heard in southern Iran in Jask, Sirik, Bandar Abbas and Qeshm Island; cause unclear."
+    },
     {
       "id": "5201090",
       "time": "2026-11-08 04:12:45",
@@ -98232,14 +98252,6 @@
         "其他"
       ],
       "text": "【聯合國要求胡塞武裝調查其工作人員在被羈押期間死亡事件】聯合國人權事務高階專員圖爾克10月31日表示，聯合國人權高專辦駐葉門工作人員穆罕默德·沙米在被胡塞武裝羈押期間死亡。沙米自2024年6月6日起被胡塞武裝拘押，據其家人提供的資訊，他於一個多月前死亡，但家人直到近日才獲知這一訊息。圖爾克要求胡塞武裝對其死因進行獨立全面的調查，並確保資訊透明、追究不當行為責任。圖爾克還對其他仍被拘押的聯合國人員的安全表示嚴重關切。（央視新聞）"
-    },
-    {
-      "id": "5184895",
-      "time": "2026-11-01 04:16:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞國防部：國防部長穆哈雷夫·阿布·卡斯拉少將將於明天週日（星期天）在卡達首都多哈會見副首相兼國防事務國務大臣謝赫·沙特·本·阿卜杜勒拉赫曼·阿勒薩尼，討論一系列共同議題。"
     }
   ]
 }

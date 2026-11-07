@@ -1,7 +1,27 @@
 {
   "date": "2026-11-08",
-  "count": 82,
+  "count": 84,
   "items": [
+    {
+      "id": "mkt:01a1b7a7-b6c5-7ee0-aac1-fb97ffbe4576",
+      "time": "2026-11-08 04:16:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's public broadcaster, citing sources, said Prime Minister Netanyahu has not proposed a rotational premiership but would agree to one if talks begin."
+    },
+    {
+      "id": "mkt:01a1b7a7-7abd-7ee0-aac1-f272216b4b11",
+      "time": "2026-11-08 04:16:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian state TV reported explosions were heard in southern Iran in Jask, Sirik, Bandar Abbas and Qeshm Island; cause unclear."
+    },
     {
       "id": "5201090",
       "time": "2026-11-08 04:12:45",
