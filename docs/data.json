@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-08 00:13:17",
-  "count": 10787,
+  "updated": "2026-11-08 00:17:07",
+  "count": 10789,
   "items": [
+    {
+      "id": "mkt:01a1b6cc-02ed-7ee0-aac0-b1f441fc717d",
+      "time": "2026-11-08 00:16:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc reported a magnitude 3.2 earthquake at 00:06 on Nov 8 in Haixi prefecture, Qinghai (37.89°N, 95.51°E); depth 10 km."
+    },
+    {
+      "id": "mkt:01a1b6cb-3814-7ee0-aac0-ab03855d5c70",
+      "time": "2026-11-08 00:15:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude-5.7 quake strikes western Shizuoka】Japan Meteorological Agency said a magnitude-5.7 earthquake struck western Shizuoka prefecture at about 01:04 JST on the 8th. Hypocenter depth was 40 km and maximum seismic intensity reached shindo 5-upper; tremors were felt in Aichi, Hyogo, Shizuoka and Tokyo prefectures."
+    },
+    {
+      "id": "5200981",
+      "time": "2026-11-08 00:15:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本靜岡縣西部發生5.7級地震】據日本氣象廳釋出的訊息，當地時間8日凌晨1時04分左右，日本靜岡縣西部發生5.7級地震，震源深度40千米，最大震感為震度5強。日本愛知縣、兵庫縣、靜岡縣、東京等較大範圍區域均有震感。日本氣象廳表示本次地震沒有引發海嘯的風險。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1b6ca-720d-7ee0-aac0-a1256f5e478e",
+      "time": "2026-11-08 00:14:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Ukraine reports large-scale strikes on energy facilities; Russia says it struck targets across 139 Ukrainian areas】Ukraine said on the 7th that energy facilities in multiple regions were hit in large-scale attacks. Russia's Defence Ministry said the same day that Russian forces repelled Ukrainian assaults in 33 localities and struck various Ukrainian targets across 139 areas; in Kharkiv region and elsewhere it said attacks by 31 Ukrainian units were repelled in 33 towns and villages, causing personnel and equipment losses. The two sides reported fighting in 13 towns and villages, including Kramatorsk and Sloviansk."
+    },
     {
       "id": "5200979",
       "time": "2026-11-08 00:12:33",
@@ -98711,22 +98747,6 @@
         "國際"
       ],
       "text": "【俄方稱從美方獲悉莫斯科可能發生恐襲】據俄媒10月31日報道，俄羅斯聯邦安全域性當天透過美國方面獲得有關俄首都莫斯科可能發生恐怖襲擊的情報，俄方已採取應對舉措。美國駐俄大使館同日在社交媒體釋出安全警告稱，莫斯科察裡津諾莊園31日存在可能造成重大人員傷亡的威脅。美方建議遠離該區域，避免前往人群密集場所。（新華社）"
-    },
-    {
-      "id": "5184807",
-      "time": "2026-11-01 00:16:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "幣安：SAFU基金轉賬已完成。"
-    },
-    {
-      "id": "mkt:01a192bf-286e-7ee0-aa1a-4ac9e22538dc",
-      "time": "2026-11-01 00:16:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "France's Interior Ministry said nationwide protests drew 320,000 participants, 70,000 in Paris."
     }
   ]
 }
