@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-07 17:25:40",
-  "count": 10776,
+  "updated": "2026-11-07 17:29:36",
+  "count": 10777,
   "items": [
+    {
+      "id": "mkt:01a1b556-77e7-7ee0-aabe-ac1349b78c2f",
+      "time": "2026-11-07 17:28:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Apple discloses HALO humanoid-control system; 91% average single-task success in real-world tests】Apple researchers submitted a paper to arXiv on Nov. 4, Perceptive Humanoid Motion from Simulation, detailing HALO, a humanoid autonomous-control system. They deployed HALO on Unitree’s G1 humanoid to transfer simulation-trained motions into unfamiliar real rooms and published data, training and deployment code covering motion generation, tracking, task sequencing and sim-to-real operation. In six unscanned real environments the team ran 360 single-task trials with an average success rate of 91%. In one real environment they ran three composite tasks 10 times each, averaging 70% success; the sequence duck-under-obstacle → walk-to-target → push-box succeeded 50% of the time."
+    },
+    {
+      "id": "5200686",
+      "time": "2026-11-07 17:26:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三麗鷗再回應終止《VIVANT》聯名產品：如果會讓中國消費者難過就不該做】據《參考訊息》報道，日本三麗鷗公司6日表示，鑑於該公司與熱門電視劇《VIVANT》(《別班》)的聯名商品受到中國方面批評並下架，公司將加強在開展聯合開發專案時的審查機制。共同社報道稱，在6日舉行的2026年9月中期業績線上釋出會上，三麗鷗常務執行董事松本成一郎回應提問時解釋稱，雙方的聯合開發合作是基於此前播出的《VIVANT》第一季內容決定的，而此次引發中方批評的是第二季情節：把中國人拍成慘無人道的施暴者，把日本自衛隊情報人員美化成正義反擊者。松本成一郎表示，三麗鷗始終將“大家和睦相處”作為企業理念。雖然聯名商品僅在日本國內銷售，但“如果讓中國消費者難過，就不屬於三麗鷗應該開展的業務”，並承認此前在稽核環節存在疏漏。同時他強調，“中國是一個重要市場，我們無意改變對華投資計劃。”"
+    },
     {
       "id": "5200685",
       "time": "2026-11-07 17:23:21",
@@ -10,6 +32,14 @@
         "國際"
       ],
       "text": "【中國駐墨爾本總領事就領區一名中國公民不幸遇害案件同澳大利亞維多利亞州州長緊急通話】11月7日下午，房新文總領事應約同維多利亞州州長卡羅爾緊急通話。卡羅爾對11月6日晚一名中國公民在墨爾本市區不幸遇害身亡深感痛心、深表震驚，表示兇手目前已被警方逮捕，請房總領事向遇害者家屬轉達他的深切哀悼和誠摯慰問。房總領事允儘快向家屬轉告，並要求卡羅爾州長和維州政府及警方依法公正處理此案，嚴懲兇手，切實維護中國公民生命安全和合法權益。卡羅爾表示，我們將堅定表明立場，絕不容忍這樣的行徑，正義必須得到伸張。（ 中國駐墨爾本總領事館  ）"
+    },
+    {
+      "id": "5200684",
+      "time": "2026-11-07 17:22:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果研究團隊披露機器人“大腦”進展 單項任務測試平均成功率為91%】蘋果研究團隊披露機器人“大腦”研究進展。當地時間11月4日，蘋果研究團隊在預印本平臺arXiv提交論文《Perceptive Humanoid Motion from Simulation》，披露了人形機器人自主控制系統HALO。研究團隊還公開了資料生成、模型訓練和部署程式碼，涵蓋動作生成、動作跟蹤、任務編排以及模擬和真實機器人執行等環節。據論文披露，研究團隊在6個未預先掃描或建圖的真實環境中開展360次單項任務測試，平均成功率為91%。另在一個真實環境中，對3種組合任務分別開展10次測試，平均成功率為70%。其中，“俯身透過障礙—走向目標—推箱子”這一組合的成功率為50%。據介紹，研究團隊使用250張英偉達H100 GPU，耗時約48小時合成主要訓練資料。動作生成器透過模仿學習訓練，使用64張B200；動作跟蹤器經強化學習、策略蒸餾等步驟訓練，使用4張H100。需要指出的是，模擬生成資料並未完全擺脫人工參與。團隊表示，新增物理任務仍需人工編寫提示詞、設計動作關鍵幀，部分動作還使用了人類影片或動捕素材。研究團隊同時指出，目前機器人主要依賴視覺感知，難以直接感知接觸情況；當物體離開相機視野或被遮擋時，涉及較多接觸的任務表現會下降。加入觸覺感知，是後續改進方向之一。"
     },
     {
       "id": "5200683",
@@ -98587,25 +98617,6 @@
         "公司"
       ],
       "text": "【首款國產新能源公務機已進入研發週期】2026南昌航空產業博覽會今日在南昌綠地國際博覽中心舉行。記者獲悉，北京通航飛機有限責任公司（簡稱“北京通飛”）首次攜比鄰Belyn 100系列，包括Belyn 100HF與Belyn 100HP兩款衍生型號。Belyn 100HF採用HDF系列並聯混合動力系統與電動增推方案，面向高速、遠端公務飛行需求；Belyn 100HP採用HDP系列串聯混合動力系統與全電推進方案，側重綠色、高效與靈活運營。據悉，北京通飛已於今年完成了首輪融資，領投方為新鼎資本，金額暫未披露，此次融資為公司推進產品設計、技術驗證和團隊建設提供了資金支援，也其後續研製提供資金支援。 (財聯社)"
-    },
-    {
-      "id": "mkt:01a19149-8f8b-7ee0-aa18-6f06ebad4df7",
-      "time": "2026-10-31 17:27:59",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【CITIC Securities: Chinese banks may be re‑rated from high‑dividend defensive assets to high‑certainty equities】Since July’s style rotation the Chinese bank sector has rebounded, delivering positive absolute and relative returns. Public mutual fund holdings rose 0.92 percentage points to 1.93%, the highest since 3Q2025. CITIC Securities cites a convergence of style rotation, improved liquidity/flow conditions and stable operating expectations. Near term the sector may see increased volatility from flows; mid term it should be driven by fundamentals and allocation demand. CITIC expects the sector to be re‑rated from a high‑dividend defensive asset to a high‑certainty equity and forecasts upward valuation pressure through the year."
-    },
-    {
-      "id": "mkt:01a19149-0f61-7ee0-aa18-6591cb189c32",
-      "time": "2026-10-31 17:27:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian media Fars News reported that \"enemy\" drones struck two fishing boats 14 nautical miles south of Qeshm Island, leaving two fishermen missing and two injured."
     }
   ]
 }
