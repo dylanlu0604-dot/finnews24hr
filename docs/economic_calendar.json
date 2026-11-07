@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07 07:49:26",
+  "updated": "2026-11-07 10:22:39",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -15173,9 +15173,9 @@
               "title": "中國10月外匯儲備(億美元)",
               "importance": 2,
               "previous": "34002.5",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "34200",
+              "actual": "34051.78",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178898",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -40690,9 +40690,9 @@
       "title": "中國10月外匯儲備(億美元)",
       "importance": 2,
       "previous": "34002.5",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "34200",
+      "actual": "34051.78",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178898",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
