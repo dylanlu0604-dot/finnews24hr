@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-07 17:09:42",
-  "count": 10775,
+  "updated": "2026-11-07 17:13:39",
+  "count": 10777,
   "items": [
+    {
+      "id": "5200681",
+      "time": "2026-11-07 17:11:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱葉門遭沙特主導的聯軍空襲致多人傷亡】葉門胡塞武裝方面當地時間7日表示，沙特主導的聯軍當天對葉門首都薩那以東的巴尼雜湊什地區發動空襲，造成多人傷亡。目前聯軍方面暫無回應。"
+    },
+    {
+      "id": "5200680",
+      "time": "2026-11-07 17:10:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國科普作家協會發布2026年度十大科普熱詞 人工智慧相關佔據七席】中國科普作家協會11月7日釋出2026年度十大科普熱詞，人工智慧(AI)相關佔據七席，包括“人工智慧+”“人機協同”“腦機介面”“智慧體”“人形機器人”“詞元”“具身智慧”，另三大科普熱詞分別是“科學玩具”“科技倫理”“健康管理”。"
+    },
+    {
+      "id": "5200679",
+      "time": "2026-11-07 17:09:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "紐西蘭財政部長威利斯表示，我重返議會的可能性非常低。"
+    },
+    {
+      "id": "5200678",
+      "time": "2026-11-07 17:09:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭據悉將襲擊俄羅斯薩拉托夫煉油廠。"
+    },
     {
       "id": "5200677",
       "time": "2026-11-07 17:08:31",
@@ -98588,22 +98620,6 @@
         "DXY"
       ],
       "text": "【Rezaei: If war erupts again, Iran's retaliation will be more devastating】Rezaei, secretary of Iran’s Supreme National Security Council, told an interview that Iran’s defensive and offensive capabilities have materially improved and are now stronger and more complete. He said missile destructive power and speed have been upgraded, missile performance now exceeds previous levels and penetration of enemy air-defence systems has improved. He warned that if another confrontation occurs, Iran’s response will be stronger, more destructive and more punitive, and the United States and Israel would suffer greater losses."
-    },
-    {
-      "id": "mkt:01a19139-d788-7ee0-aa18-44f597263f94",
-      "time": "2026-10-31 17:10:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense: danger in Najran has been eliminated."
-    },
-    {
-      "id": "mkt:01a19139-7bd2-7ee0-aa18-3e334854283f",
-      "time": "2026-10-31 17:10:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Canada designates Roberts Bank Terminal 2 as national interest to boost port capacity and reduce U.S. export reliance】On Oct. 30 Canada’s federal government designated Vancouver’s Roberts Bank Terminal 2 a national interest project to raise port throughput, diversify trade and cut reliance on U.S. exports. Transport Canada said the CAD5.9 bln (about USD4.2 bln) project would lift Vancouver’s container capacity by roughly 50%, adding ~2.4 mln TEU and supporting up to CAD100 bln of annual trade. The designation aims to provide regulatory certainty and could accelerate commercial operations to 2035—up to four years earlier than previously planned—supporting a government target to double exports to non-U.S. markets by 2035."
     }
   ]
 }
