@@ -1,7 +1,38 @@
 {
   "date": "2026-11-08",
-  "count": 95,
+  "count": 98,
   "items": [
+    {
+      "id": "mkt:01a1b7be-08da-7ee0-aac2-3048679a3cb6",
+      "time": "2026-11-08 04:40:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CENTCOM said US aircraft fired precision-guided munitions at the stern of the cargo ship, disabling its ability to navigate. CENTCOM forces had ordered the crew to evacuate the area designated as the strike zone before the action. The vessel had previously called at an Iranian port and then attempted to depart the area."
+    },
+    {
+      "id": "5201111",
+      "time": "2026-11-08 04:39:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部多地區傳爆炸聲】據伊朗國家電視臺報道，當地時間11月7日晚，伊朗南部賈斯克、錫裡克、阿巴斯港及格什姆島均傳出爆炸聲，“可能與伊朗武裝部隊在霍爾木茲海峽的行動有關”。 （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a1b7bc-04df-7ee0-aac2-284d0dd3039e",
+      "time": "2026-11-08 04:38:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said US forces disabled a merchant vessel in the Gulf of Oman on Saturday after the ship's civilian crew repeatedly ignored US warnings and made multiple attempts to breach a maritime blockade targeting Iran."
+    },
     {
       "id": "mkt:01a1b7b6-f77b-7ee0-aac2-23ef84ead0b5",
       "time": "2026-11-08 04:33:03",
