@@ -1,7 +1,20 @@
 {
   "date": "2026-11-08",
-  "count": 84,
+  "count": 85,
   "items": [
+    {
+      "id": "mkt:01a1b7ac-d42c-7ee0-aac2-028996bd17db",
+      "time": "2026-11-08 04:21:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Explosions reported in multiple southern Iranian locations; cause unclear】Iranian state TV reported explosions in Jask, Sirik, Bandar Abbas and Qeshm island; authorities have not confirmed the source. Semi-official Tasnim agency earlier said two missiles struck Qeshm, though no official damage assessment has been released. The incidents follow U.S. strikes on Qeshm in recent days; a U.S. official described that strike as limited and not indicative of a return to large-scale operations. U.S. strikes were paused by Trump ahead of the midterms, and Iran has warned it would hit U.S. and Israeli targets in neighboring countries if attacked again."
+    },
     {
       "id": "mkt:01a1b7a7-b6c5-7ee0-aac1-fb97ffbe4576",
       "time": "2026-11-08 04:16:24",
