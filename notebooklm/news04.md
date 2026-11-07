@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-11-08 04:26:41_
-_本檔包含 2374 則快訊，約 431795 字_
+_更新時間：2026-11-08 07:54:25_
+_本檔包含 2373 則快訊，約 430716 字_
+
+---
+
+### 2026-11-04 07:23:24  #其他
+
+Alamar Biosciences稱，將使用其Nulisa平臺與葛蘭素史克(GSK)合作，研究迴圈蛋白特徵和疾病進展。Alamar稱，該研究將考察迴圈蛋白特徵與疾病進展、生物學亞型和治療反應之間的關係，覆蓋呼吸系統、肝臟、腎臟、神經系統和自身免疫病症。
+
+---
+
+### 2026-11-04 07:22:40  #公司 #市場
+
+【3M公司承諾支付近74億美元以了結與PFAS相關的索賠】3M公司表示，作為與該公司產品中使用名為PFAS的化學物質有關的和解協議的一部分，承諾在未來九年支付73.5億美元。該公司表示，這項承諾涵蓋了目前與訴訟相關的約99%的人身傷害索賠。據一份宣告，3M公司將在2026年支付5000萬美元，2027年不支付任何款項。該公司稱，約20%的款項將在最後兩年支付。紐約市場尾盤交易中，3M公司股價漲1.7%。
+
+---
+
+### 2026-11-04 07:21:24  #國際
+
+【美國中期選舉部分地區投票結束 國會兩院控制權為重中之重】美國印第安納州和肯塔基州部分地區週二結束投票，美國選民對唐納德·特朗普第二個總統任期頭兩年的動盪局面作出評判。初步計票結果可能為美國中期選舉最終結果提供一些線索。本次選舉期間，選民對高生活成本的不滿一直是焦點，其中包括美國和以色列對伊朗開戰後飆升的燃油價格。無論是民調還是歷史趨勢，都顯示民主黨有望贏得眾議院多數席位，而參議院控制權則更難預測。當然，自特朗普2016年打破民調預期贏得總統大選以來，美國選舉結果已經變得越來越難預測。隨著民調顯示佔據優勢，民主黨的信心日益增強。共和黨則不得不投入時間和資金，保衛堪薩斯州、德克薩斯州、阿拉斯加州和南卡羅來納州等傳統紅州的席位。
+
+---
+
+### 2026-11-04 07:19:20  #國際
+
+烏克蘭計劃將其歐盟貸款的最高10億歐元用於擴大烏克蘭與歐洲武器製造商之間的合作，優先考慮防空和導彈防禦。
+
+---
+
+### 2026-11-04 07:17:45  #其他
+
+SpaceX：目標11月12日從范登堡太空軍基地4E發射場用獵鷹9號執行USSF-317任務。
+
+---
+
+### 2026-11-04 07:17:22  #公司 #市場
+
+【物料緊張是否會造成淨利潤下降？中際旭創回應】關於“物料緊張是否會造成淨利潤下降”的問題，中際旭創表示，部分物料的確供應偏緊，但並非意味所有物料的價格均上漲。毛利率取決於客戶價格、產品結構和公司內部降本能力。通常來說，高階產品佔比提升有助於保持競爭優勢。同時，矽光產品毛利率優於傳統方案，隨著矽光佔比提升、良率及生產效率改善，以及矽光晶片能力增強，矽光產品BOM結構的最佳化，公司有望進一步降低成本、保持毛利率的穩定甚至提升。
+
+---
+
+### 2026-11-04 07:17:14  #公司
+
+CVS拆分後產生的兩家公司都將公開上市。
+
+---
+
+### 2026-11-04 07:16:59  #市場
+
+標普500指數期貨上漲0.3%，納斯達克100指數期貨上漲0.6%。
+
+---
+
+### 2026-11-04 07:16:47  #公司
+
+據華爾街日報，現任CVS執行長大衛·喬伊納將執掌保留CVS Health名稱的公司。
+
+---
+
+### 2026-11-04 07:15:45  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
+
+US Crude Inventories Fall More Than Expected — US crude oil inventories fell by 5.267 million barrels in the week ended October 30, defying expectations for a 2.1 million-barrel increase and following a 2.031 million-barrel decline in the previous week. Meanwhile, gasoline inventories rose by 1.427 million barrels, compared with a 2.39 million-barrel increase previously, while distillate stocks fell by 270,000 barrels after gaining 380,000 barrels in the prior week. At Cushing, inventories increased by 511,000 barrels, reversing the previous week's 453,000-barrel decline. Separately, 400,000 barrels of crude were released from the Strategic Petroleum Reserve (SPR) to support commercial inventories, bringing total SPR stocks down to 282.2 million barrels. US crude oil production rose to 13.992 million barrels per day in the week ended October 23, up from 13.269 million bpd a week earlier.
+
+---
+
+### 2026-11-04 07:15:43  #公司
+
+【中際旭創談2029年需求及資本開支趨勢】針對“如何看待2029年需求及資本開支趨勢”的問題，中際旭創表示，客戶通常不會提前兩年提供具體需求指引，但公司能夠較清晰地看到客戶未來兩三年的技術路線，包括scale-up和scale-in等領域的技術趨勢和方案。公司認為，未來算力、頻寬及光連線應用場景仍將提升，需要更高階的光互連方案。公司將積極協助客戶持續開發產品方案，行業客戶仍在持續採用光互連方案，未來技術迭代的路線圖清晰，具備持續成長空間。
+
+---
+
+### 2026-11-04 07:14:49  #國際
+
+【歐盟：正密切關注多國客機炸彈威脅事件】歐盟委員會發言人3日就歐洲多國客機收到炸彈威脅一事表示，歐盟正密切關注事態發展，並與受影響的成員國保持聯絡，歐盟航空安全域性也已參與相關工作。發言人稱任何針對平民的威脅都不可接受，保障民眾安全始終是優先事項。波蘭、西班牙、保加利亞和義大利3日相繼報告客機收到炸彈威脅，涉及7架飛機，部分航班改降、機場短暫關閉，多架飛機經檢查未發現爆炸物。各國調查仍在進行，尚不能確定所報告事件是否相互關聯。（新華社）
+
+---
+
+### 2026-11-04 07:14:27  #市場
+
+澳大利亞S&P/ASX 200指數早盤下跌0.7%，報8,822.70點。
+
+---
+
+### 2026-11-04 07:13:57  #其他
+
+市場訊息：CVS分拆預計將於2028年上半年進行。
+
+---
+
+### 2026-11-04 07:10:53  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、在2026年世界網際網路大會烏鎮峰會開幕式上的主旨演講（2026年11月3日）
+2、把握開放大勢 匯聚共贏之力——寫在第九屆中國國際進口博覽會開幕之際
+3、亞太經合組織召開第三十七屆外交和貿易雙部長會議
+4、以改革破堵點、啟用力（人民時評）——找準發展新質生產力的著力點④
+5、從廣交會10組資料看開放的中國（讀數）
+6、七十載廣交會何以常辦常新
+7、北京經開區創新舉措助力機器人表演規範化 具身機器人演出有了“入場憑證”（有問有答）
+8、杭州持續提升高品質供電服務 數智電網守護精密產線
+9、全國放心消費平臺上線
+10、《市場監督管理所條例》本月起施行 釐清基層市場監管的職責許可權
+11、《農村集體經濟組織登記辦法（試行）》本月起施行 集體經濟組織登出後集體財產不得分到個人
+12、養老服務消費補貼惠及243萬失能老年人
+13、人力資源社會保障部召開會議 加力推進穩崗擴容提質行動
+14、中國微短劇何以全球“圈粉”
+15、輕量化、高效率、強共情——中國短劇重構全球文化生產正規化（國際觀瀾）
+16、服務零售額增長5%，折射消費之變（商海觀潮）。
+
+---
+
+### 2026-11-04 07:10:44  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、“做強做優做大實體經濟”（總書記的人民情懷）
+2、強化系統觀念，增強整體效能——論學習貫徹黨的二十屆五中全會精神
+3、劉延東同志遺體在京火化 習近平趙樂際王滬寧蔡奇丁薛祥李希韓正等到八寶山革命公墓送別 劉延東同志病重期間和逝世後，習近平李強趙樂際王滬寧蔡奇丁薛祥李希韓正胡錦濤等同志，前往醫院看望或透過各種形式對劉延東同志逝世表示沉痛哀悼並向其親屬表示深切慰問
+4、李強出席2026年世界網際網路大會烏鎮峰會開幕式並發表主旨演講
+5、十四屆全國人大常委會第二十五次會議舉行第二次全體會議 審議全國人大常委會執法檢查報告、“一府兩院”專項工作報告等 趙樂際出席會議
+6、傳達學習貫徹中共二十屆五中全會精神 全國政協十四屆常委會第十九次會議開幕 王滬寧主持 李希作報告
+7、學習貫徹黨的二十屆五中全會精神中央宣講團首場報告會在京舉行
+8、丁薛祥將出席第九屆進博會開幕式及相關活動。
+
+---
+
+### 2026-11-04 07:08:39  #Trading Economics #Economy #Australia #Services PMI #Importance 2
+
+Australia Services Growth Falls to Seven-Month Low — The S&P Global Australia Services PMI Business Activity Index fell to 48.5 in October 2026 from 51.9 in September, marking a seven-month low and slipping below the 50.0 neutral threshold for the first time since May. Still, the index came above estimates of 47.8. Slower new business growth and operational constraints contributed to the contraction. Nevertheless, total new business continued to increase, supported by foreign demand amid stronger overseas interest and rising tourism activity. Service providers also resumed hiring after cutting staff at the end of the third quarter. Meanwhile, higher fuel, freight, labour and operating costs drove input price inflation to a five-month high. Output prices also increased at their fastest pace in three months, exceeding the long-run survey average. Despite mounting cost pressures and weaker activity, business sentiment remained positive, with firms anticipating new projects and growth initiatives to boost sales over the coming year.
+
+---
+
+### 2026-11-04 07:08:32  #Trading Economics #Economy #Ireland #Consumer Confidence #Importance 1
+
+Irish Consumer Sentiment Edges Higher in October — Ireland’s Credit Union Consumer Sentiment Index rose slightly to 61.6 in October 2026 from 61.1 in September, despite higher inflation, rising energy costs and public sector industrial action. The reading continued a pattern of modest monthly fluctuations within a narrow range since the start of the US-Iran war, leaving overall consumer confidence subdued. Consumers became more pessimistic about the Irish economic outlook and slightly more negative about their household finances, but these declines were offset by greater willingness to spend and a slight easing in concerns about employment. The survey also revealed widespread expectations that household living costs will outpace income gains in 2027, with older consumers, financially strained households and those outside Dublin particularly concerned about further increases. The report suggested that energy costs may be a greater burden for financially vulnerable and rural households.
+
+---
+
+### 2026-11-04 07:06:24  #其他
+
+【紐西蘭大選臨近之際 失業率升至11年來的最高水平】紐西蘭第三季度失業率意外升至11年來的新高，距離大選僅剩三天，這給政府帶來了更大的壓力。紐西蘭統計局週三在惠靈頓公佈的資料顯示，失業率從三個月前的5.6%升至5.7%，為2015年第三季度以來的最高水平，高於經濟學家此前預測的5.5%。就業人數較前三個月下降0.1%，而經濟學家此前預測為增長0.4%。紐西蘭的經濟復甦依然脆弱，油價飆升和11月7日大選臨近打擊了企業信心，限制了招聘。居高不下的失業率（上一季度創下2015年以來的最高水平）對中右翼聯合政府來說無疑是壞訊息，因為選民正在質疑其經濟政策的可靠性。
+
+---
+
+### 2026-11-04 07:04:16  #其他
+
+3M承諾在九年內支付73.5億美元，以了結與PFAS相關的索賠。
+
+---
+
+### 2026-11-04 07:03:10  #Trading Economics #Economy #Australia #Composite PMI #Importance 1
+
+Australia’s Composite PMI Falls to Seven-Month Low — Australia’s S&P Global Flash Composite PMI fell to 48.5 in October 2026 from 51.9 in September, above the preliminary estimate of 47.7 but marking a seven-month low. Falling below the 50.0 no-change threshold, the latest reading signalled a renewed contraction in private-sector business activity, with downturns across both manufacturing and services. New business continued to expand, albeit at a slower and marginal pace, driven mainly by domestic demand, while new export orders remained unchanged. Meanwhile, rising outstanding workloads prompted a renewed increase in employment, although job creation was confined to the services sector. Business optimism remained subdued. Finally, input costs and output prices rose at faster rates in October, with both inflation measures exceeding their respective series averages.
+
+---
+
+### 2026-11-04 07:00:54  #MKT News
+
+Polls in Indiana and Kentucky have closed.
+
+---
+
+### 2026-11-04 06:56:47  #其他
+
+大華銀行第三季度淨利潤12.5億新加坡元，市場預估13.7億新加坡元。
+
+---
+
+### 2026-11-04 06:55:11  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+New Zealand Stocks Muted After Jobs Data — The NZX 50 was almost flat, trading around 13,726 on Tuesday morning, after gaining in the previous session as traders assessed the latest jobs data. The data showed that unemployment unexpectedly rose to an 11-year high of 5.7% in Q3 2026, up from 5.6% in Q2, defying market expectations for a decline to 5.5% in Q3. Traders also monitored early voting in New Zealand ahead of the 7 November general election, with nearly 1 million ballots having been cast in the first week of early voting. Gains in the energy and technology sectors offset declines in communication services, financials, and real estate. However, an upbeat session on Wall Street overnight lifted sentiment, while rising oil prices weighed on market sentiment. Fisher & Paykel increased 0.7%, Freightways Group gained 0.7%, Channel Infrastructure rose 0.6%, and Fletcher Building climbed 0.6%, while Henderson Far East Income and South Port NZ fell by 1.6% and 0.7%, respectively.
+
+---
+
+### 2026-11-04 06:55:02  #MKT News #Market Themes #The Trump Trade
+
+【DNC chair: Do not underestimate Trump while he remains in office】DNC chair Ken Martin said he expects Democrats to score a historic victory Tuesday, expressing confidence they will at minimum retake the House and that their chances in the Senate are substantial. He warned markets and strategists not to underestimate President Trump while he remains in office, saying Trumpism remains a powerful political force; even as a potential lame-duck he retains significant power and control over the GOP. Martin named potential 2028 contenders — Rubio, Vance and Hegseth — as Trump loyalists and said it would be mistaken to assume Trumpism ends with his departure.
+
+---
+
+### 2026-11-04 06:50:02  #Trading Economics #Economy #Australia #Industry Index Construction #Importance 0
+
+Australian Construction Index Remains in Contraction — The Ai Group Industry Index for Australia’s construction sector improved modestly by 8 points to -26.9 in October 2026, recovering from the previous month but remaining firmly in contractionary territory. The sector continued to face pressure from rising costs, labour shortages and tight cash flow, while subdued investment and cautious clients weighed on the pipeline of new projects.
+
+---
+
+### 2026-11-04 06:49:50  #國際
+
+俄羅斯電商 Ozon 稱旗下一處物流樞紐遭無人機襲擊。
+
+---
+
+### 2026-11-04 06:49:24  #其他
+
+【10月份中國倉儲指數為49.8%】中國物流與採購聯合會今天釋出10月份中國倉儲指數。指數低位稍有回升，但仍連續三個月執行在收縮區間，需求基礎仍需鞏固。10月份，中國倉儲指數為49.8%，較上月回升0.1個百分點，景氣水平繼續在榮枯線附近徘徊。
 
 ---
 
@@ -14213,179 +14405,5 @@ T-Mobile：5G光纖套餐將於11月3日推出，自動繳費情況下月費90�
 ### 2026-11-02 22:07:30  #Trading Economics #Markets #United States #Government Bond 10Y #Importance 2
 
 US 10-Year Treasury Yield Lowest in 8 Weeks — The yield on the US 10-year Treasury note fell to 4.9% on Monday, its lowest level since mid-September, as a sharp decline in oil prices helped to ease inflation concerns. Sentiment was also supported by growing hopes for a diplomatic resolution to the conflict in the Middle East, following reports that President Trump wants to give negotiations with Iran more time and that Iran’s Supreme Leader had authorised talks. These developments helped ease concerns over further supply disruptions and their potential impact on inflation, at least for now. Meanwhile, investors are bracing for an event-packed week, with the US midterm elections and key economic releases, including the jobs report, expected to provide further clues about the Federal Reserve’s policy outlook. Last week, the Fed left interest rates unchanged, as widely expected. However, markets continue to price in another 25-basis-point rate hike in December, with the probability of such a move holding at around 75%.
-
----
-
-### 2026-11-02 22:06:52  #公司
-
-巴基斯坦國際航空公司：任命阿德里安·漢密爾頓-曼斯為執行長。
-
----
-
-### 2026-11-02 22:06:08  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Falls Further — Brent crude prices extended their decline on Monday, falling 7% to below $105 a barrel as hopes for a diplomatic resolution to the US-Iran conflict eased concerns about further supply disruptions. According to Iran’s state-run IRNA news agency, the country’s supreme leader approved the government’s pursuit of talks aimed at ending the months-long conflict that has disrupted Middle East energy supplies. This followed reports that US President Donald Trump also wanted to give diplomacy more time before considering renewed military action, telling Israeli Prime Minister Benjamin Netanyahu that he preferred negotiations. US Secretary of State Marco Rubio reiterated that Trump favoured a peaceful resolution, while Iranian officials signalled that an agreement remained possible following two days of Qatar-mediated discussions, provided commitments were implemented in practice.
-
----
-
-### 2026-11-02 22:05:48  #國際
-
-美國出口商向墨西哥出售了1729740噸玉米。
-
----
-
-### 2026-11-02 22:05:02  #焦點 #國際
-
-【伊總統：伊朗最高領袖已賦予政府在談判領域一定的權力】當地時間11月2日，伊朗總統佩澤希齊揚表示，政府正努力透過對話解決問題，在這方面，伊朗最高領袖也賦予了政府一定的權力。佩澤希齊揚強調，敵人無法透過戰爭讓伊朗投降，“我們將堅決抵制他們的謊言和誇大其詞，因此，我們必須努力增強人民的韌性，解決他們的關切和擔憂”。佩澤希齊揚表示，必須在伊朗人民的支援與合作下，克服敵人給伊朗造成的挑戰和危機。政府正在努力透過對話解決問題，在這方面，伊朗最高領袖也賦予了政府一定的權力。（央視新聞）
-
----
-
-### 2026-11-02 22:04:16  #Trading Economics #Markets #Commodity #Importance 0
-
-Arabica Coffee Futures Rally — Arabica coffee futures surged above $2.9 per pound, rebounding recent one-month lows hit in the last week of October. The market remains caught between signs of limited availability in the short term and prospects for increased production in the coming months. Despite rising coffee arrivals at ICE-accredited warehouses, particularly from Brazil, certified Arabica inventories remain historically low. Total stocks stood at 225,068 bags on October 29, remaining close to the 27-year lows recorded in mid-September, while nearly 44,000 bags were awaiting classification. Meanwhile, market attention remains focused on weather conditions in top producer Brazil for the development of the next crop. Conditions have so far remained favourable, although concerns persist over the uneven distribution of rainfall across key producing regions and the potential impact of the El Niño phenomenon. A weaker Brazilian real added to the downward pressure.
-
----
-
-### 2026-11-02 22:03:55  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Extends Losses to Over 7% — Crude oil prices extended their decline on Monday, falling more than 7% to below $95 a barrel as hopes for a diplomatic resolution to the US-Iran conflict eased concerns about further supply disruptions. According to Iran’s state-run IRNA news agency, the country’s supreme leader approved the government’s pursuit of talks aimed at ending the months-long conflict that has disrupted Middle East energy supplies. This followed reports that US President Donald Trump also wanted to give diplomacy more time before considering renewed military action, telling Israeli Prime Minister Benjamin Netanyahu that he preferred negotiations. US Secretary of State Marco Rubio reiterated that Trump favoured a peaceful resolution, while Iranian officials signalled that an agreement remained possible following two days of Qatar-mediated discussions, provided commitments were implemented in practice.
-
----
-
-### 2026-11-02 22:03:48  #其他
-
-【中科星圖推出星圖智源GEOVIS iPipe地下市政管理平臺】11月2日，中科星圖釋出訊息，中科星圖推出中科星圖智源 GEOVIS iPipe 地下市政管理平臺，是面向城市地下管網全生命週期管理打造的硬核智慧數字底座。平臺以"一庫雙網雙平臺·N應用"一體化架構，貫通管線設計審查、竣工測量、監理入庫、資料管理、三維管理、健康評價、查詢出圖、檔案管理八大業務環節，讓地下管線從"各自留檔"走向全生命週期協同管理。
-
----
-
-### 2026-11-02 22:03:23  #市場
-
-土耳其主要的 BIST-100 指數<.XU100>上漲 2%，主要銀行指數<.XBANK>上漲 4.3%。
-
----
-
-### 2026-11-02 22:03:15  #公司
-
-達信收購Triton保險代理公司。
-
----
-
-### 2026-11-02 22:03:02  #其他
-
-金佰利完成對Kenvue的收購，打造全球領先的消費健康與保健企業。
-
----
-
-### 2026-11-02 22:01:32  #國際
-
-埃及內閣稱將討論政府節能措施。
-
----
-
-### 2026-11-02 22:01:01  #公司
-
-波音公司：首架 767-300BCF 改裝計劃於 2027 年第一季度啟動，預計 2027 年第二季度交付。
-
----
-
-### 2026-11-02 22:00:39  #公司
-
-波音與冰島航空租賃公司簽署協議，最多采購三架767-300波音改裝貨機。
-
----
-
-### 2026-11-02 22:00:30  #其他
-
-富國銀行將艾伯維目標價從300.00美元上調至340.00美元。
-
----
-
-### 2026-11-02 22:00:09  #其他
-
-卡特彼勒收購Fabick CAT經銷商。
-
----
-
-### 2026-11-02 21:58:58  #其他
-
-烏拉爾原油油輪追蹤：10月石油流量穩定在每日223萬桶。上個月，俄羅斯三大西部港口的原油裝船量觀察值與9月相比變化不大，原因是普里莫爾斯克出口下降被黑海出口增加所抵消。
-
----
-
-### 2026-11-02 21:57:58  #其他
-
-丹佛斯：在過去的三週裡，我們與客戶保持著密切的對話，並繼續幫助他們應對當前局勢。
-
----
-
-### 2026-11-02 21:56:57  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Marriott International earnings above expectations at 3.02 USD — Marriott International (MAR) released earnings per share at 3.02 USD, compared to market expectations of 2.86 USD.
-
----
-
-### 2026-11-02 21:51:48  #央行 #美聯儲
-
-【沃什究竟是鷹是鴿？經濟學家：其政策重心或在美債收益率 而非通脹】美聯儲主席凱文·沃什究竟是“鷹派”還是“鴿派”，一直令華爾街難以判斷。他的言論和政策行動時常釋放出相互矛盾的訊號。
-
----
-
-### 2026-11-02 21:51:44  #Trading Economics #Markets #Commodity #Importance 0
-
-Lumber Remains Near 2-Year Low — Lumber futures hovered near $520 per thousand board feet, close to their lowest level in over two years, as traders weighed weakness in the US housing market against expectations of tighter supply. Housing demand remains constrained by elevated mortgage rates and higher construction costs linked to tariffs, although mortgage rates have eased for a second consecutive week. Meanwhile, Canada-US trade talks have resumed after collapsing in August, when tariffs on several wood products were introduced. Later in October, the US Commerce Department lowered antidumping and countervailing duties on Canadian softwood to 24.75% from 35.16%, although a separate 10% tariff keeps total duties at 34.75%. Persistent trade barriers continue to weigh on the market, while mill closures across North America could tighten supply. Low selling prices and subdued demand may also prompt mills to scale back production as profitability comes under pressure.
-
----
-
-### 2026-11-02 21:48:17  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Lower to Start November — The US dollar index traded lower around 101.6 at the start of November, extending its losing streak to a fourth consecutive session, following a modest 0.4% gain in October. Investors are bracing for an event-packed week, with the US midterm elections, the jobs report and interest rate decisions from central banks in the UK, Australia, Norway and Sweden in focus. The dollar also came under pressure from falling oil prices, amid growing hopes for a diplomatic resolution to the US-Iran conflict. Meanwhile, markets continue to price in another 25bps Fed rate hike in December, with the probability of such a move holding at around 75%. Last week, the Fed left interest rates unchanged, as widely expected. In contrast, the Bank of England, the Reserve Bank of Australia and Sweden's Riksbank are expected to raise interest rates this week.
-
----
-
-### 2026-11-02 21:38:56  #Trading Economics #Markets #Italy #Government Bond 10Y #Importance 1
-
-Italy 10Y Bond Yield Hits 5-week Low — Italy 10 Year Government Bond Yield decreased to 4.42%, the lowest since September 2026. Over the past 4 weeks, Italy 10Y Bond Yield lost 19.08 basis points, and in the last 12 months, it increased 104.05 basis points.
-
----
-
-### 2026-11-02 21:37:11  #Trading Economics #Markets #commodity #Importance 0
-
-Brent Oil is down by 5% — Brent Oil decreased 5% to 107.764 USD/Bbl
-
----
-
-### 2026-11-02 21:08:47  #Trading Economics #Economy #Singapore #Manufacturing PMI #Importance 1
-
-Singapore Manufacturing Growth Slows in October — Singapore’s Manufacturing PMI eased to 51.4 in October 2026 from 51.7 in September, marking 15 consecutive months of expansion, though at a slower pace as growth in new orders, factory output, input inventories and employment moderated. The Electronics PMI, which accounts for more than one-third of manufacturing output, fell to 52.5 from 52.9, still supported by AI-related demand, with the sector’s new export orders index rising to 53.2, the highest since May 2018. Imports and order backlogs also expanded more slowly, while new exports and input prices picked up slightly. Meanwhile, finished goods inventories declined at a softer pace and supplier deliveries contracted much more slowly, indicating fewer delivery delays, although renewed Middle East shipping disruption could still constrain output.
-
----
-
-### 2026-11-02 20:53:13  #央行 #歐洲央行
-
-歐洲央行管委Kazimir稱，市場或低估所需的政策緊縮力度。
-
----
-
-### 2026-11-02 20:46:53  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Public Service earnings below expectations at 1.15 USD — Public Service (PEG) released earnings per share at 1.15 USD, compared to market expectations of 1.19 USD.
-
----
-
-### 2026-11-02 20:34:45  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks to Kick Off November Higher — US stock futures rose at the start of November, with S&P 500 futures up 0.4%, Nasdaq 100 futures gaining 0.8% and Dow Jones futures advancing nearly 210 points, as technology stocks rebounded following Friday’s sell-off in AI-related shares. Investors are gearing up for an event-packed week, with the US midterm elections, key labour market data and a fresh batch of corporate earnings in focus. A decline in oil prices also helped boost market sentiment. Technology stocks led the premarket gains, with Nvidia rising 1.2%, Micron Technology adding 2.1%, SanDisk climbing 2.5% and Western Digital advancing 2.3%. Marvell Technology edged up 0.2% after announcing an agreement to acquire Lumentum Holdings Inc. in a deal valuing the company at an enterprise value of $115 billion. Elsewhere, Palantir gained 1.6%, while Apple shares were little changed ahead of their earnings releases later in the day.
-
----
-
-### 2026-11-02 20:24:43  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Edge Higher as Oil Prices Slide — S&P/TSX futures rose 0.2% on Monday as a sharp decline in oil prices eased inflation concerns, while investors turned their attention to Tuesday’s US midterm elections and their potential implications for fiscal policy. Oil prices tumbled around 4% after Iranian and Qatari officials held a third consecutive day of talks aimed at ending the US-Israeli war on Iran. Gold, meanwhile, rebounded from one-year lows as investors assessed comments from Federal Reserve officials pointing to the possibility of further rate hikes to combat inflation. The gains followed Friday’s sharpest single-day decline in Canada’s benchmark index in nearly six months, led by technology and mining stocks. Investors are also awaiting earnings from Toromont Industries and Topaz Energy. On the trade front, US President Donald Trump said his administration had established a framework for a new trade deal with Canada, while Prime Minister Mark Carney described discussions as constructive.
-
----
-
-### 2026-11-02 20:15:54  #Trading Economics #Markets #Commodity #Importance 0
-
-Rubber Futures at Over 1-Month Low — Rubber futures traded around 249 US cents per kilogram, their lowest since September 24, pressured by lower oil prices, which make synthetic rubber cheaper and reduce the relative appeal of natural rubber. On the supply side, heavy rainfall in key rubber-producing areas of southern Thailand added to existing concerns over disruptions to tapping activities and short-term supply. Rainfall has also affected northern Thailand, although conditions have been comparatively less severe. As the world's largest natural rubber producer, Thailand plays a crucial role in global supply, amplifying the market's sensitivity to weather-related disruptions. El Niño-related weather conditions also continued to affect cup-lump quality and production, while raw-material shortages in Indonesia added to supply constraints.
 
 ---

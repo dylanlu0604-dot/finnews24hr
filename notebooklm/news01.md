@@ -1,7 +1,275 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-11-08 04:26:41_
-_本檔包含 2086 則快訊，約 432198 字_
+_更新時間：2026-11-08 07:54:25_
+_本檔包含 2099 則快訊，約 431042 字_
+
+---
+
+### 2026-11-08 07:47:29  #國際
+
+【斯洛伐克總理：若歐盟強制要求放棄俄石油 將繼續發起訴訟】斯洛伐克總理菲佐7日表示，斯洛伐克已經向歐盟法院提起訴訟，反對歐盟針對俄羅斯天然氣的進口禁令。如果歐盟進一步強制要求放棄俄羅斯石油進口，斯洛伐克將會繼續向歐盟法院提起訴訟。根據歐盟今年1月透過的禁令，將從2027年1月1日起全面禁止進口俄羅斯液化天然氣，而對俄管道天然氣的全面禁令將於當年秋季生效。今年4月，斯洛伐克就這一天然氣進口禁令向位於盧森堡的歐盟法院提起訴訟。目前，斯洛伐克仍透過“土耳其溪”管道進口俄羅斯天然氣，並透過途經烏克蘭的管道進口俄羅斯石油。（央視新聞）
+
+---
+
+### 2026-11-08 07:42:58  #公司
+
+【COACH中國區總裁：中國市場連續6個季度雙位數增長，開店計劃穩步推進】“此前提出的3至5年新開80家到100家門店的計劃正穩步推進，目前全國已覆蓋超90座城市，門店總數超300家。”第九屆中國國際進口博覽會期間，COACH（蔻馳）中國區總裁李麗安（Liliana Lucioni）在接受澎湃新聞記者採訪時，回應一年前定下的開店目標。11月5日，COACH母公司泰佩思琦集團（Tapestry,Inc.，紐交所：TPR）釋出了截至2026年9月26日的2027財年第一季度業績，泰佩思琦集團銷售額達18.9億美元，同比增長11%，增長主要由COACH品牌16%的增速拉動；非公認會計准則下毛利率提升220個基點至78.7%，營業利潤率23.2%，每股攤薄收益1.82美元，同比增長32%，各項指標均超出前期指引。在財報中，泰佩思琦集團上調了2027財年業績展望。（澎湃 ）
+
+---
+
+### 2026-11-08 07:38:20  #其他
+
+【北京今天雨雪逐漸結束 氣溫繼續下降將創下半年來新低】今天（11月8日），北京雨雪天氣將逐漸結束，但氣溫還會進一步下滑，最高氣溫將降至6℃，最低氣溫也會跌至零下3℃，將度過下半年來最冷的一天。明後兩天，北京晴朗迴歸，最高氣溫將明顯回升，早晚時段依然寒冷，公眾外出需注意保暖。（央視新聞）
+
+---
+
+### 2026-11-08 07:36:10  #國際
+
+美國地質調查局：大西洋中脊中部發生5.9級地震。
+
+---
+
+### 2026-11-08 07:18:00  #央行 #其他
+
+市場訊息：巴拉圭法官下令對前央行行長卡瓦略進行審前羈押。
+
+---
+
+### 2026-11-08 07:06:14  #宏觀 #公司 #國際
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、開放鏈全球 智造啟新程（進博會觀察）——從進博會看先進製造業匯聚創新動能2、解讀稅收徵收管理法修訂——將強化納稅人權益保護貫穿始終
+3、第九屆虹橋國際經濟論壇舉行，與會人士呼籲——堅守多邊主義，推進普惠包容的經濟全球化
+4、何立峰與美國財政部長貝森特、貿易代表格里爾舉行視訊通話
+5、鄭建邦出席非洲國家議員研討班開班式
+6、第十四屆中歐論壇聚焦對話與人工智慧合作
+7、三星連續9年參展，與中國市場共成長 做深度嵌入中國產業鏈的同行者
+8、伊利發揮進博會深化產業協同作用 連結全球資源 持續深耕乳業
+9、進博會持續促進文化交流與市場拓展 “讓產品經得起消費者檢驗”
+
+---
+
+### 2026-11-08 07:03:19  #宏觀 #其他 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、中共中央發出通知 部署黨的二十一大代表選舉工作
+2、黑龍江、河南、湖北紮實推進鄉村全面振興——“三農”發展不斷邁上新臺階
+3、河北邱縣政務服務中心“事辦不成找我”視窗——以更優服務解決群眾急難愁盼
+4、圖片報道
+5、內蒙古鄂爾多斯探索資源型城市綠色轉型新路徑 煤海向綠 “風光”逐新
+6、為全球發展進步注入青春力量
+7、前三季度累計完工改造城鎮老舊小區1.6萬個
+8、前三季度超800萬人次接受補貼性培訓
+
+---
+
+### 2026-11-08 07:01:03  #公司 #國際
+
+螢火蟲航空航天公司：入選美國國家航空航天局100億美元CLPS 2合同的供應商。
+
+---
+
+### 2026-11-08 07:00:32  #公司 #國際
+
+旅行者公司獲得美國國家航空航天局商業月球有效載荷服務2號合同。
+
+---
+
+### 2026-11-08 06:52:29  #焦點 #國際
+
+【人民日報和音：傳承“鼓嶺情緣”，匯聚中美相向而行的力量】“鼓嶺故事告訴我們，國家之間的友誼始於人民之間的關係”“青年在消除隔閡、增進認知方面發揮著重要作用”“希望成為國際青少年交流的橋樑，讓鼓嶺故事為更多人所知”……近日，2026鼓嶺論壇在福建省福州市舉行，中美各界友好人士相聚鼓嶺故事的發源地，重溫跨越重洋的民間情誼，暢談對中美人文交流合作的共同期許，為推動中美建設性戰略穩定關係從願景轉化為行動凝聚民心力量。
+
+---
+
+### 2026-11-08 06:38:47  #國際
+
+波蘭內政部發言人：在克拉科夫槍擊事件中受傷的外國公民來自奧地利、德國、葡萄牙、俄羅斯和英國。
+
+---
+
+### 2026-11-08 06:38:37  #國際
+
+【伊朗解除導彈射程限制 美軍組特遣部隊防伊“跨境運武”】伊朗伊斯蘭革命衛隊發言人7日說，伊朗已解除導彈射程限制，將打擊敵人預想不到的地點。並警告稱，如果美國再次出現誤判，伊朗下一次的打擊將更加沉重。同日，美軍中央司令部宣佈，已下令組建一支特遣部隊，以防止伊朗跨境運輸先進武器等物資。就美伊停火相關程序，最新訊息顯示，美副總統萬斯已著手在幕後推動與伊朗達成新協議。7日晚，伊朗多地傳出類似爆炸巨響，具體原因及相關細節尚不明確。（央視新聞）
+
+---
+
+### 2026-11-08 06:36:08  #國際
+
+【巴林決定恢復其駐伊拉克大使履職】當地時間7日晚，據伊拉克外交部宣告，伊拉克外長侯賽因當天與巴林外交大臣扎耶尼通電話。雙方在通話中討論了當前地區局勢的最新發展，並強調了就該地區局勢保持協調、磋商和意見交流。扎耶尼在通話中確認，巴林已決定恢復該國駐伊拉克大使履職，以體現巴方深化兩國關係、拓展雙邊合作的意願。（央視新聞）
+
+---
+
+### 2026-11-08 06:31:58  #國際
+
+【大風+寒潮雙預警！15省份部分地區降溫超10°C】中央氣象臺11月8日6時繼續釋出大風藍色預警和寒潮藍色預警，詳情如下：預計，11月8日8時至9日8時，新疆東部、內蒙古中西部、寧夏、陝西北部、山西西南部、河北南部、山東、河南中北部、蘇皖中北部、湖北中東部、湖南北部、廣西中部等地的部分地區有5~6級風，陣風7~8級；渤海、渤海海峽、黃海海域、東海西部海域、臺灣海峽、巴士海峽、南海北部和中部海域、北部灣將有7~8級、陣風9級的大風，其中渤海西部、黃海西部海域和北部灣的部分海域風力可達9級、陣風10~11級。
+
+---
+
+### 2026-11-08 06:28:30  #公司 #國際
+
+【內塔尼亞胡呼籲組建民族團結政府】當地時間11月7日晚，以色列總統赫爾佐格發表宣告說，已決定授權正直黨領導人、以軍前總參謀長埃森科特組建新政府。以色列現任總理內塔尼亞胡發表影片講話稱，由埃森科特組建、得到阿拉伯裔政黨支援的政府“將從內部摧毀以色列”，他呼籲反對派陣營與他領導的利庫德集團及政治盟友組建“民族團結政府”。（CCTV國際時訊）
+
+---
+
+### 2026-11-08 06:05:24  #公司
+
+Cyera正以200億美元估值募資8億美元，成為全球估值最高的私有網路安全公司之一。這家資料安全初創企業過去一年的年度經常性收入飆升至數億美元。
+
+---
+
+### 2026-11-08 05:47:43  #國際
+
+【特朗普邀UFC總裁任新聞秘書遭拒】美國總統特朗普當地時間11月7日下午在社交媒體發帖稱，已邀請終極格鬥冠軍賽（UFC）總裁達納·懷特出任‌白宮新聞秘書‌一職 。不過據美國媒體援引訊息人士報道，懷特已拒絕了這一邀請。（CCTV國際時訊）
+
+---
+
+### 2026-11-08 05:39:17  #焦點 #國際
+
+達納·懷特拒絕特朗普提出的白宮新聞秘書任職邀請。
+
+---
+
+### 2026-11-08 05:36:22  #國際
+
+【伊朗40種基本藥品供應緊張】伊朗食品藥品管理局發言人穆罕默德·雜湊米週六表示，伊朗約700種基礎必需藥品中，有大約40種面臨供應困難。相關部門正著手充實戰略藥品儲備。他表示，國內疫苗儲備充足，可以長期滿足需求。雜湊米介紹，伊朗現有200多家製藥企業和約3000家醫療裝置企業，強調維持這些企業生產、保障醫療物資供應十分重要。
+
+---
+
+### 2026-11-08 05:31:48  #其他
+
+英國海事貿易行動組織（UKMTO）：收到一份報告，稱在阿聯酋豪爾法坎以東約18海里的阿曼灣發生一起涉及散貨船和軍事力量的事件。
+
+---
+
+### 2026-11-08 05:31:00  #國際
+
+【波蘭槍擊6死16傷】當地時間11月7日晚，波蘭政府最新通報稱，當天下午南部克拉科夫市槍擊事件已導致6人死亡、16人受傷。6名死者中，有4人身份已經得到確認，其中一名是英國人。16名傷者中，有5名是外國公民。（CCTV國際時訊）
+
+---
+
+### 2026-11-08 05:25:39  #國際
+
+【伊朗稱兩艘油輪在霍爾木茲海峽觸雷起火】當地時間8日凌晨，伊朗伊斯蘭革命衛隊海軍表示，兩艘“違規油輪”稍早前發生觸雷起火，其中一艘位於霍爾木茲海峽東部，另一艘位於霍爾木茲海峽中部。這兩艘油輪試圖透過未經伊朗授權的航道，結果觸雷。革命衛隊海軍警告稱，任何與美國合作、違反伊朗在霍爾木茲海峽規定的船隻都“必將觸雷”。（央視新聞）
+
+---
+
+### 2026-11-08 05:25:00  #其他
+
+巴拉圭法官下令對前總統佩尼亞進行審前拘留。
+
+---
+
+### 2026-11-08 05:18:20  #MKT News #CRWV.O #Impact bullish
+
+【CoreWeave (CRWV.O) writes to Texas governor-elect seeking cooperation on data‑center projects】CoreWeave (CRWV.O) has written to Texas governor‑elect Gina Hinojosa seeking to coordinate with the incoming administration to advance the state’s existing and planned data‑center projects. CEO Michael Intrator said the firm supports the governor‑elect’s view that data‑center development must align with Texas’ interests and welcomed working with the transition team to responsibly complete already‑permitted projects and set clear, stable, long‑term sustainable standards for future development.
+
+---
+
+### 2026-11-08 05:15:14  #國際
+
+伊朗革命衛隊海軍表示，兩艘油輪在霍爾木茲海峽附近觸雷。
+
+---
+
+### 2026-11-08 05:12:34  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #DXY #Impact mixed
+
+【Iran says two tankers struck mines, caught fire in Strait of Hormuz】Iran's Islamic Revolutionary Guard Corps navy said two oil tankers struck mines and caught fire in the Strait of Hormuz after attempting to transit via unauthorized channels and disabling navigation and positioning systems. The IRGC said the vessels, located in the eastern strait and inside the channel, had repeatedly violated regulations; both exploded and remain ablaze. The statement warned that any vessel cooperating with the US and entering Iran's restricted zone would be at risk of striking mines.
+
+---
+
+### 2026-11-08 05:11:33  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+Iran's Islamic Revolutionary Guard Corps says two oil tankers struck mines and caught fire in the Strait of Hormuz.
+
+---
+
+### 2026-11-08 05:00:47  #國際
+
+美國司法部加入德克薩斯州對計劃生育聯合會的訴訟。
+
+---
+
+### 2026-11-08 04:56:54  #國際
+
+波蘭總理：兩名女性和一名男性被發現死於槍手家中，死者很可能是槍手的家人。
+
+---
+
+### 2026-11-08 04:51:40  #國際
+
+波蘭總理圖斯克：槍手家中可能有人員死亡。
+
+---
+
+### 2026-11-08 04:51:32  #MKT News #WTI #Impact bullish #Brent
+
+【US forces disable merchant ship in Gulf of Oman, CENTCOM says】CENTCOM said on Nov. 7 local time US forces intercepted and disabled a merchant vessel in the Gulf of Oman that had previously called at Iranian ports after its crew repeatedly ignored warnings and attempted to breach a maritime blockade against Iran. A US aircraft fired precision-guided munitions at the ship's stern, rendering it unable to navigate; CENTCOM said crew were ordered to evacuate the targeted area beforehand. The vessel, identified as Huda, was flagged to St Kitts and Nevis.
+
+---
+
+### 2026-11-08 04:46:26  #國際
+
+波蘭警方：槍擊案其中一名受害者是英國公民。
+
+---
+
+### 2026-11-08 04:44:19  #其他
+
+達納·懷特：開啟新篇章。
+
+---
+
+### 2026-11-08 04:42:42  #國際
+
+【美軍中央司令部在阿曼灣打擊貨船】11月7日，美國中央司令部部隊在阿曼灣擊沉一艘商船。此前，該船的平民船員無視多次警告，多次試圖突破對伊朗的海上封鎖。一架美國軍用飛機向懸掛聖基茨國旗的“胡達”號貨輪船尾發射精確制導武器，在中央司令部部隊指示船員撤離目標區域後，該船失去行動能力。這艘貨船在訪問伊朗港口後試圖離開該區域水域。
+
+---
+
+### 2026-11-08 04:40:46  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+CENTCOM said US aircraft fired precision-guided munitions at the stern of the cargo ship, disabling its ability to navigate. CENTCOM forces had ordered the crew to evacuate the area designated as the strike zone before the action. The vessel had previously called at an Iranian port and then attempted to depart the area.
+
+---
+
+### 2026-11-08 04:39:14  #國際
+
+【伊朗南部多地區傳爆炸聲】據伊朗國家電視臺報道，當地時間11月7日晚，伊朗南部賈斯克、錫裡克、阿巴斯港及格什姆島均傳出爆炸聲，“可能與伊朗武裝部隊在霍爾木茲海峽的行動有關”。 （CCTV國際時訊）
+
+---
+
+### 2026-11-08 04:38:34  #MKT News #WTI #Impact bullish #Brent
+
+CENTCOM said US forces disabled a merchant vessel in the Gulf of Oman on Saturday after the ship's civilian crew repeatedly ignored US warnings and made multiple attempts to breach a maritime blockade targeting Iran.
+
+---
+
+### 2026-11-08 04:33:03  #MKT News #Important
+
+TASNIM NEWS cited sources saying explosions heard on Qeshm Island were unrelated to a missile strike.
+
+---
+
+### 2026-11-08 04:32:31  #焦點 #國際
+
+訊息人士稱，伊朗格什姆島聽到的爆炸聲與導彈襲擊無關。
+
+---
+
+### 2026-11-08 04:31:23  #其他
+
+【胡塞武裝稱沙特空襲薩那周邊 已致27人死亡】葉門胡塞武裝衛生部門7日晚間釋出訊息稱，沙特主導的聯軍當天針對葉門薩那省巴尼雜湊什地區的空襲已造成27人死亡、36人受傷。傷亡者中包括婦女兒童和民防救援人員。
+
+---
+
+### 2026-11-08 04:31:04  #國際
+
+【抵制AI資料中心的浪潮席捲歐洲 多地爆發抗議示威活動】當地時間週六，歐洲多地繼續爆發針對資料中心的抗議活動，民眾走上街頭，表達他們對資料中心影響社會和環境的擔憂。約2000人在都柏林參加遊行。約1300人在赫爾辛基集會，芬蘭幾個較小城鎮也舉行了示威活動。由地方民主和氣候抗議團體組成的聯盟——停止骯髒的資料中心的代表表示，他們的目標是“遏制AI資料中心不受約束的擴張，防止我們的民主被大型科技行業的利益所挾持”。
+
+---
+
+### 2026-11-08 04:29:27  #國際
+
+【巴勒斯坦總統府譴責以軍加劇加沙人道災難】當地時間7日，巴勒斯坦總統府發表宣告，追究以色列政府對加沙地帶人道主義災難惡化的全部責任，並強烈呼籲聯合國安理會和國際社會立即採取緊急行動，迫使以方落實停火協議並全面開放各口岸。
 
 ---
 
@@ -12420,179 +12688,5 @@ Brent crude futures rose more than $2 intraday, reclaiming levels above $100/bbl
 ### 2026-11-06 11:36:36  #國際
 
 【第六次中澳戰略經濟對話成功召開】國家發展改革委主任鄭柵潔與澳大利亞國庫部部長查默斯11月5日以影片形式共同主持召開第六次中澳戰略經濟對話。對話期間，雙方圍繞宏觀經濟形勢、能源安全和能源轉型、投資趨勢以及中長期發展規劃等議題深入交流。鄭柵潔表示，中方歡迎澳大利亞企業來華投資興業，共享中國市場發展紅利，並支援中國企業赴澳開展投資合作，希望澳方為中國企業營造公平、穩定、可預期的投資環境。中方願與澳方一道，認真落實兩國領導人共識，堅持互利共贏，加強溝通協調，深化務實合作。查默斯表示，澳方願與中方加強機制交流，將中澳戰略經濟對話作為推動務實合作的重要平臺，持續深化政策交流，為兩國經貿合作提供更多便利條件。
-
----
-
-### 2026-11-06 11:36:13  #國際 #原創
-
-【特朗普的華盛頓“凱旋門”專案獲關鍵批准】美國總統特朗普提議在華盛頓建造一座250英尺（76米）高的凱旋門，該專案於週四晚間獲得關鍵性批准，這可能意味著這項旨在重塑美國首都的最新重大工程將迅速開工。國家首都規劃委員會在聽取了約100名反對者的意見後，投票批准了該專案，其中包括民主黨議員。“這將造成交通擁堵數年，影響附近的機場，並對公共安全構成更嚴重的威脅，而委員會卻拒絕承認和解決這些問題，”代表弗吉尼亞州北部的眾議員唐·拜爾表示。一位正在審理幾項法律挑戰的法官仍有可能阻止開工。但如果獲得批准，美國司法部表示，預計最初六到八個月的施工將集中在挖掘和地基工程上，並可能於本週開始。地面以上的施工最早將於2027年5月開始，整個工程預計耗時33至39個月。美國政府在一份法庭檔案中表示，國家公園管理局也可能在週四頒發許可證或其他授權，並於本週開始施工。
-
----
-
-### 2026-11-06 11:36:00  #公司
-
-【興業證券：交運板塊配置價效比與穩定性凸顯 優選具備量價彈性與確定性回報細分賽道】興業證券釋出研報稱，交運板塊配置價效比與穩定性凸顯，疊加《保險公司資產負債管理辦法》推動長線險資強化高股息配置，以及《公路法》等相關政策修訂取得新進展，有望驅動新一輪估值修復。細分板塊基本面持續分化，優選具備量價彈性與確定性回報的細分賽道。
-
----
-
-### 2026-11-06 11:35:47  #市場
-
-WTI原油日內漲2%，現報92.45美元/桶。
-
----
-
-### 2026-11-06 11:35:47  #市場 #焦點
-
-WTI原油突破92美元/桶，日內漲2.14%。
-
----
-
-### 2026-11-06 11:35:35  #MKT News #Market Regions #Greater China #Market Themes #Chip Wars #SSE Composite #Impact bearish #SZSE Component
-
-【A-share midday: ChiNext down 3.5% at half-day; compute-hardware sector retreats】A-shares opened sharply lower; ChiNext opened down 4.99% then recovered intraday before retreating. At midday the Shanghai Composite was down 1.14%, the Shenzhen Composite Index down 2.22% and ChiNext down 3.5%. Combined turnover on the two exchanges exceeded 1.1 tln yuan and more than 4,500 stocks fell. Defensive and financial groups led gains — livestock, planting, power and banks outperformed. PV equipment and battery names spiked then pulled back; cultural media and cinema saw pockets of buying. Compute-hardware stocks fell broadly, with several sub-sectors among the largest decliners.
-
----
-
-### 2026-11-06 11:35:26  #公司
-
-【美芯晟：摩托羅拉首款搭載Qira AI智慧手錶採用公司光學追蹤感測器MT3503】據美芯晟訊息，在IFA 2026期間的Lenovo Innovation World大會上，摩托羅拉釋出了多款新品，其中包括首款內建Motorola Qira AI助手的可穿戴裝置Moto Watch Ultra。其手錶按鍵內部採用了美芯晟超小尺寸、高效能、低功耗的光學追蹤感測器MT3503，支援錶冠旋轉翻頁、縮放地圖、點選進入下一級、開始運動等智慧控制功能。
-
----
-
-### 2026-11-06 11:35:16  #宏觀 #市場 #央行 #國際
-
-【道富資管：貨幣政策對金價影響較顯著 3800至4100美元是入市時機】道富投資管理亞太區黃金策略師徐志傑表示，美國中期選舉後，金價由每盎司3900美元升至4130美元，這輪升勢反映市場正重新評估油價、通脹、利率及美元走勢。當中最關鍵的驅動因素是油價顯著回落，反映市場預期中東局勢進一步升級的可能性降低。油價下跌不僅有助紓緩通脹憂慮，亦減低市場對美聯儲需要在更長時間內維持緊縮政策的預期。因此，美國國債收益率下降，加上美元走弱，均有助降低持有黃金的機會成本，為金價提供支撐。雖然地緣政治局勢降溫或會削弱部分避險需求，但現階段而言，貨幣政策對金價的影響仍較為顯著。該行綜合黃金短期與長期因素，調整了未來12個月的金價預測。在基本情境(60%機率)下，金價區間為每盎司4500至5250美元。該行依然相信，黃金下一次每盎司1000美元級別的重大變動更可能是向上而非向下，並有望於2027年出現。在悲觀情境(35%機率)下，金價區間為每盎司3750至4500美元。該行認為，對長線策略性投資者而言，每盎司3800至4100美元將是具吸引力的入市時機。
-
----
-
-### 2026-11-06 11:35:01  #其他
-
-【港澳平：依法嚴懲危害國家安全犯罪分子 堅持不懈築牢澳門繁榮穩定屏障】11月6日，澳門特區法院對區錦新危害國家安全罪行依法作出判決。這充分彰顯澳門特區維護國家安全的堅定意志，充分彰顯澳門維護國家安全法律制度和執行機制的強大效能，同時也提示人們居安思危，始終保持對國安風險的警惕，不斷築牢澳門繁榮穩定屏障。澳門特區法院的判決有力宣示，國家安全是不能觸碰的底線。區錦新打著所謂“民主”“自由”的旗號，長期勾連外部勢力從事反中亂澳活動，嚴重危害國家安全，嚴重損害澳門繁榮穩定，罪狀昭昭。澳門特區法院依法判決區錦新“顛覆國家政權罪”“與澳門特別行政區以外的組織、團體或個人建立聯絡作出危害國家安全的行為罪”“違反保密罪”罪成，判處十二年六個月徒刑。這一判決有力捍衛法治權威，鮮明昭告：任何人、任何組織，無論打著什麼幌子，無論有什麼後臺撐腰，只要膽敢實施危害國家安全的行為和活動，都必定受到法律嚴懲。（大灣區之聲）
-
----
-
-### 2026-11-06 11:32:59  #其他
-
-【中國移動董事長陳忠嶽：2027年計劃進一步提升採購總量，加大算力投資、確保智算能力倍增】11月6日上午，中國移動董事長陳忠嶽出席2026行動網路大會並發表演講。陳忠嶽表示，2027年，中國移動計劃進一步提升採購總量，加大算力投資、確保智算能力倍增，擴大終端採銷、實現銷售過億臺；加強渠道資源投放、加速萬店煥新。充分發揮產投協同“彩虹橋”作用，強化資本賦能，加大行動網路、晶片、模型、量子和具身智慧等領域的資本合作，協同壯大智慧服務產業。中國移動將釋出移動生態聚合平臺，作為服務全球合作伙伴的統一入口，實現商機與產品、技術與場景、需求與交付、產業與投資的高效對接。
-
----
-
-### 2026-11-06 11:32:38  #Trading Economics #Markets #Commodity #Importance 1
-
-Platinum Holds Rebound — Platinum futures held above $1,500 an ounce after recovering from a recent one-year low, as a weaker US dollar and lower Treasury yields supported prices. The dollar and bond yields declined following the sweeping Democratic victory in the US midterm elections, as investors anticipated limits on government spending and a possible easing of Middle East tensions, which could help cool inflation. Still, concerns that tighter AI regulations could slow data center expansion triggered a sharp technology stock selloff, prompting some liquidity-driven selling in precious metals. Meanwhile, the automotive sector, a major source of platinum demand, faces pressure from weaker vehicle production, elevated financing costs and the gradual shift toward EVs, although growing hybrid production and continued demand for catalytic converters are helping cushion the decline. Industrial demand is expected to grow 5% in 2026, partly offsetting a projected 4% drop in automotive consumption.
-
----
-
-### 2026-11-06 11:32:26  #國際
-
-印度汽車經銷商協會（FADA）：2026年11月至2027年1月季度前景謹慎樂觀，基調審慎。
-
----
-
-### 2026-11-06 11:32:17  #國際
-
-印度汽車經銷商協會（FADA）：10月份整體汽車零售銷量同比下降23.8%，乘用車零售銷量同比下降14.2%，商用車零售銷量同比增長 2.3%，兩輪車零售量同比下降28.4%。
-
----
-
-### 2026-11-06 11:31:40  #MKT News #Important #Commodities #Energy #Brent #Impact bullish #WTI
-
-Brent crude is up 1.00% intraday at $98.82/bbl; WTI is up 0.74% at $91.84/bbl.
-
----
-
-### 2026-11-06 11:31:38  #MKT News #Market Themes #AI Revolution
-
-【South Korea stocks plunge, $1.7tn wiped out; retail losses put Lee Jae-myung’s equity-push under pressure】South Korea’s equity market has tumbled from its year-to-date highs, erasing about $1.7 trillion in market value and provoking strong retail investor backlash that tests President Lee Jae-myung’s policy to shift household funds from property into stocks. Lee pledged during the campaign to lift the KOSPI to 5,000. Driven by AI flows the index hit a record 9,114.55 before reversing. On Friday KOSPI plunged as much as 8.8% intraday, breached the 5,000 level and is down more than 40% from its June peak. Retail investors say they heeded government encouragement to abandon home purchases and move into equities and have suffered large losses; Seoul house prices have nonetheless risen for 91 consecutive weeks. One investor said a 40 mln won allocation to a small-cap index fund has lost about 65% of its value. The market setback is intensifying criticism of government policy.
-
----
-
-### 2026-11-06 11:31:28  #MKT News #Market Regions #Greater China #IF #Impact bearish #IH #IC
-
-【Equity index futures morning session close】CSI 300 index futures (IF) main contract down 1.24% at the morning-session close; SSE 50 index futures (IH) down 0.89%; CSI 500 index futures (IC) down 1.34%; CSI 1000 index futures (IM) down 1.20%.
-
----
-
-### 2026-11-06 11:31:24  #MKT News
-
-【China government bond futures morning session close】2-year government bond futures (TS) most-active contract unchanged; 5-year (TF) +0.02 pct; 10-year (T) +0.07 pct; 30-year (TL) +0.28 pct.
-
----
-
-### 2026-11-06 11:31:19  #MKT News #Important #Commodities #Industrial Metals
-
-At the morning close, China's main futures contracts were mostly lower: propylene fell more than 4% and plastics nearly 4%; LPG, polypropylene, benzene, eggs and Shanghai tin declined over 3%; the polypropylene monthly-average contract slipped more than 2%. On the upside, apples rose nearly 5%, coke gained roughly 3%; low-sulfur fuel oil (LU) and red dates advanced over 2%; Shanghai nickel, rapeseed meal, coking coal, glass and lithium carbonate were up more than 1%.
-
----
-
-### 2026-11-06 11:31:18  #MKT News #MSIL.NS #Impact bearish #TATAMOTORS.NS
-
-FADA: India's overall auto retail sales fell 23.8% YoY in October.
-
----
-
-### 2026-11-06 11:31:13  #公司 #觀點
-
-【中旅國際技術長周源邵：“AI+文旅”的建設邏輯已轉向“一個底座支撐千百場景”】11月6日，由證券時報社、安徽省人民政府駐廣州辦事處、安徽省文化和旅遊廳聯合主辦的“文旅+科技”上市公司安徽行暨國元證券投資思享匯活動在安徽合肥舉辦。香港中旅國際投資有限公司（簡稱“中旅國際”）技術長周源邵在分享中表示，文旅行業服務鏈條長、內容場景豐富、使用者互動頻繁、運營協同複雜，天然適配AI，是AI能力最完整的試驗場，也是最具想象力的落地場。當前，“AI+文旅”的建設邏輯已經從傳統的“一個需求一個系統”的模式，轉向“一個底座支撐千百場景”，需要以統一AI底座沉澱更多可複用能力。
-
----
-
-### 2026-11-06 11:31:01  #公司 #市場 #焦點 #A股
-
-【午評：創業板指震盪收跌3.5%，算力硬體股集體回撥】A股三大指數早盤集體下跌，截至午盤，上證指數跌1.14%，深證成指跌2.22%，創業板指跌3.5%，北證50跌1.9%，科創50指數跌2.09%。全市場成交額11307億元，較上日縮量3458億元，全市場超4500只個股下跌。板塊題材上，種植業與林業、公路鐵路運輸、電力、農產品加工、銀行板塊漲幅居前；元件、CPO、電子化學品、PCB概念、光纖概念跌幅居前。盤面上，種植業與林業板塊低開高走，新賽股份、萬向德農觸及漲停，秋樂種業、康農種業、神農種業漲幅居前。電力板塊表現活躍，立新能源、新能股份、東方新能漲停，樂山電力、華能水電、珈偉新能漲幅居前。文化傳媒板塊區域性走高，思美傳媒、城市傳媒漲停，無線傳媒、東方明珠、芒果傳媒漲幅居前。元件板塊表現低迷，澳弘電子、東山精密、生益科技跌幅居前。電子化學品板塊亦走勢疲軟，鴻富誠跌超10%，中石科技、天通股份、天承科技跌幅居前。
-
----
-
-### 2026-11-06 11:31:00  #市場
-
-布倫特原油日內漲2%，現報100.26美元/桶。
-
----
-
-### 2026-11-06 11:30:55  #MKT News
-
-FADA: India commercial vehicle retail sales rose 2.3% YoY in October.
-
----
-
-### 2026-11-06 11:30:55  #公司 #國際
-
-【日本篡改核電站資料公司被勒令整改】據日本廣播協會（NHK）電視臺今天（11月6日）報道，就日本中部電力公司濱岡核電站接連發生篡改地震相關資料等違規情況，日本經濟產業省向中部電力公司釋出“整改令”，要求該公司採取措施，防止類似問題再次發生。 此前，中部電力公司承認，為使其運營的濱岡核電站3號和4號機組透過審查重啟，該公司涉嫌存在操縱相關資料、故意低估可能發生的地震最大破壞力的行為。負責調查濱岡核電站地震評估資料造假的第三方委員會9月14日公佈的報告指出，在225項被懷疑存在問題的地震震動評估中，至少確認有208項存在虛假說明、隱瞞等不當行為。（CCTV國際時訊）
-
----
-
-### 2026-11-06 11:30:45  #MKT News
-
-FADA: India passenger car retail sales down 14.2% YoY in October.
-
----
-
-### 2026-11-06 11:30:04  #市場 #焦點
-
-布倫特原油突破100美元/桶，日內漲1.80%。
-
----
-
-### 2026-11-06 11:30:03  #市場
-
-【國債期貨早盤收盤】 30年期主力合約漲0.28%， 10年期主力合約漲0.07%， 5年期主力合約漲0.02%， 2年期主力合約基本持平。
-
----
-
-### 2026-11-06 11:30:03  #市場
-
-【股指期貨早盤收盤】 中證1000指數期貨連續跌1.20%， 滬深300指數期貨連續跌1.24%， 中證500指數期貨連續跌1.34%， 上證50指數期貨連續跌0.89%。
-
----
-
-### 2026-11-06 11:30:03  #市場
-
-【商品期貨早盤收盤】蘋果連續漲4.87%，丙烯連續跌4.19%，塑膠連續跌3.90%，液化石油氣連續跌3.40%，聚丙烯連續跌3.30%。
-
----
-
-### 2026-11-06 11:29:37  #MKT News #Market Regions #Emerging Markets
-
-【Philippine Q3 agricultural output posts largest decline since 1999; rice output down sharply】Philippine agricultural output fell 5% YoY in Q3, the largest decline on record since 1999, adding pressure to the economy. Rice production dropped 17.8% YoY to 3.0 mln tonnes, hit by disrupted monsoon rains. Agriculture minister Francisco Tiu Laurel said El Nifio has altered rainfall patterns and could worsen drought, and high fertilizer costs likely contributed. He expects agricultural output to remain weak this quarter.
 
 ---
