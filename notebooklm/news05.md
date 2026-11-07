@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-11-08 00:21:00_
-_本檔包含 2003 則快訊，約 432295 字_
+_更新時間：2026-11-08 04:26:41_
+_本檔包含 1892 則快訊，約 431465 字_
+
+---
+
+### 2026-11-02 20:05:41  #央行 #中國央行
+
+【央行：股票回購增持再貸款政策由階段性安排轉為長期制度性安排 再貸款利率由1.25%降至1%】中國人民銀行、金融監管總局、中國證監會召開支援資本市場兩項工具座談會，會議提出，為維護資本市場穩定，提升市場韌性和信心，中國人民銀行、金融監管總局、中國證監會將繼續加強政策支援，進一步最佳化政策要素和實施細則，激勵金融機構用好用足政策工具。適時開展證券、基金、保險公司互換便利操作，進一步增加參與機構數量，適當降低互換費率，最佳化質押和操作模式。股票回購增持再貸款政策由階段性安排轉為長期制度性安排，再貸款利率由1.25%降至1%；金融機構堅持市場化定價原則，在再貸款利率基礎上合理加點並增加貸款投放。
+
+---
+
+### 2026-11-02 19:45:56  #Trading Economics #Markets #South Africa #Currency #Importance 0
+
+South African Rand Firms Slightly — The South African rand edged up to around 16.6 against the US dollar, recovering some ground but remaining close to its weakest level since late July. The currency found support from a weaker greenback and firmer precious metals prices, which improved South Africa's export revenue prospects. Lower oil prices also provided relief, given the country's reliance on imported crude oil and petroleum products, helping to ease inflationary pressures. However, global uncertainty and domestic economic challenges continue to cloud the outlook. Domestically, inflation quickened to 4.5% in September and is expected to accelerate further in October, driven by fuels. Inflation has remained above the South African Reserve Bank's 3% target since March. Meanwhile, Governor Lesetja Kganyago recently expressed confidence that the current monetary policy stance would bring inflation back towards the 3% target once the initial shocks triggered by the ongoing conflict in the Middle East fade.
+
+---
+
+### 2026-11-02 19:44:47  #Trading Economics #Economy #Chile #Leading Economic Index #Importance 2
+
+Chile Economic Activity Returns to Growth — Chile’s IMACEC economic activity index rose 0.2% year-on-year in September 2026, after a 1.0% drop in August, marking a return to growth following two months of contraction. Goods production fell 2.0%, dragged down by a 12.1% plunge in mining, particularly copper, amid lower ore grades and a temporary suspension of operations. In contrast, other goods rose 4.0%, supported by higher electricity generation due to greater water availability, while manufacturing increased 4.5%, driven by higher output of fishery products and metal products, machinery and equipment. Trade activity rose 4.5%, with all segments posting positive results, led by wholesale and retail sales. Services increased 0.9%, led by personal services, especially health, as well as transport. The non-mining IMACEC rose 2.0%. On a seasonally adjusted monthly basis, economic activity increased 1.9%, following a downwardly revised 0.6% fall in August.
+
+---
+
+### 2026-11-02 19:44:19  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Falls Sharply on Monday — Brent crude fell 4.5% toward $108 a barrel on Monday as hopes for a diplomatic resolution to the conflict between the US and Iran eased concerns about further supply disruptions. Reports indicated that President Donald Trump wants to give negotiations more time before considering renewed military action, telling Israeli Prime Minister Benjamin Netanyahu that he would prefer a diplomatic solution. US Secretary of State Marco Rubio also said Trump favoured resolving the conflict peacefully. Iranian officials similarly signalled that an agreement remained possible following two days of Qatar-mediated talks, provided that commitments were implemented in practice. However, the diplomatic signals come amid continued reports that both sides are preparing for a possible escalation after the November 3 US midterm elections. Separately, OPEC+ agreed to keep its existing production targets unchanged through December as the group continues to assess global supply and demand conditions.
+
+---
+
+### 2026-11-02 19:43:41  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Falls Below $100 — Crude oil fell 4.5% toward $99 a barrel on Monday as hopes for a diplomatic resolution to the conflict between the US and Iran eased concerns about further supply disruptions. Reports indicated that President Donald Trump wants to give negotiations more time before considering renewed military action, telling Israeli Prime Minister Benjamin Netanyahu that he would prefer a diplomatic solution. US Secretary of State Marco Rubio also said Trump favoured resolving the conflict peacefully. Iranian officials similarly signalled that an agreement remained possible following two days of Qatar-mediated talks, provided that commitments were implemented in practice. However, the diplomatic signals come amid continued reports that both sides are preparing for a possible escalation after the November 3 US midterm elections. Separately, OPEC+ agreed to keep its existing production targets unchanged through December as the group continues to assess global supply and demand conditions.
+
+---
+
+### 2026-11-02 19:14:08  #Trading Economics #Economy #Portugal #Retail Sales YoY #Importance 1
+
+Portugal Retail Sales Barely Grow in September — Retail sales in Portugal increased 0.1% year-on-year in September 2026, following a downwardly revised 2% rise in August. It was the smallest gain in retail trade since October 2023. Sales fell for non-food goods (-0.8% vs 3.5% in August), due to declines in clothing and footwear (-4.3% vs 5.4%) and computers and telecommunications equipment (-4.4% vs 3.2%). On the other hand, sales rebounded for food, drinks and tobacco (1.4% vs -0.3%). Compared to the previous month, retail sales decreased 1%, extending a 1% fall in August.
+
+---
+
+### 2026-11-02 19:10:56  #Trading Economics #Economy #Portugal #Industrial Production #Importance 0
+
+Portugal Industrial Activity Contracts for 5th Month — Portugal’s industrial production fell 2.7% year-on-year in September 2026, marking the fifth consecutive month of contraction, although the pace of decline eased from a downwardly revised 4.1% drop in August. Energy output declined further, falling 6% after a 4.9% decrease in August and extending its contraction to a seventh consecutive month. Capital-goods production dropped 6.3%, easing from a 12.2% plunge. Intermediate-goods output fell 1.1%, reversing a 0.7% increase. Consumer goods production edged down 0.3% after a 3.4% drop, as durable-goods output rebounded 3.6% after a 7.1% decline, while non-durable goods declined 1%, easing from 2.7%. On a monthly basis, industrial production rebounded 2.4%, reversing a 2.2% drop in August.
+
+---
+
+### 2026-11-02 18:51:45  #Trading Economics #Economy #Pakistan #Inflation Rate #Importance 1
+
+Pakistan Inflation Rate Eases for 3rd Month — Pakistan’s annual inflation rate eased to 9.6% in October 2026 from 10.3% in September, marking a third consecutive monthly decline. Still, inflation remained well above the State Bank of Pakistan’s 5%-7% target range, as elevated oil prices continued to cloud the outlook amid the country’s heavy reliance on imported energy. Price pressures moderated for housing and utilities (11.03% vs. 12.39%), clothing and footwear (9.19% vs 8.98%), communication (13.41% vs 13.54%) and restaurants and hotels (6% vs 6.1%). Food inflation also eased (7.74% vs. 8.2%), while perishable food prices fell 2.35%, following a sharp 11.78% increase in the previous month. In contrast, inflation accelerated for non-perishable food items (9.55% vs. 7.64%), keeping food inflation elevated. Price growth in transports quickened further to 28.61% from 27.43%. On a monthly basis, consumer prices rose 1.1%, easing from a 1.3% increase in September.
+
+---
+
+### 2026-11-02 18:48:24  #Trading Economics #Economy #Pakistan #Producer Prices Change #Importance 0
+
+Pakistan Wholesale Inflation at 30-Month High — Wholesale price inflation in Pakistan rose to 13.79% year-on-year in October 2026, marking the strongest reading since April 2024, from 13.33% in the previous month. Costs increased for other transportable goods (38.64% vs 34.31% in September) and food, beverages, tobacco, textiles, and leather products (6.85% vs 6.56%), driven largely by stronger inflation for food, beverages, and tobacco (8.43% vs 8.04%), while price increases for textiles and apparel (2.46%) and leather products (20.64%) remained steady. Inflation also edged higher for metal products, machinery, and equipment (5.24% vs 5.14%). Meanwhile, prices slowed for ores, minerals, electricity, gas, and water (4.43% vs 7.28%) and agriculture, forestry, and fishery (6.38% vs 7.29%). On a monthly basis, wholesale prices rose by 0.9% in October, after a 1.9% increase in September.
+
+---
+
+### 2026-11-02 18:25:41  #Trading Economics #Economy #Cyprus #Retail Sales YoY #Importance 0
+
+Cyprus Retail Sales Growth Accelerates in September — Retail sales in Cyprus rose 7.7% year-on-year in September 2026, accelerating from 7.0% in August. Growth strengthened for information and communication equipment (27.5% vs 24.8%), clothing and footwear (22.5% vs 16.7%), other household equipment (14.2% vs 12.0%), and pharmaceuticals, orthopedic goods and cosmetics (7.8% vs 7.1%). Sales of food, beverages and tobacco in specialised stores also rebounded (1.0% vs -1.0%), while declines eased for automotive fuel (-0.4% vs -1.5%) and retail sales not in stores (-1.5% vs -7.0%). In contrast, growth slowed for food, beverages and tobacco in non-specialised stores (4.9% vs 5.1%) and cultural and recreation goods (9.6% vs 12.7%), while sales of flowers, plants, watches, jewellery, optical goods and second-hand goods turned negative (-1.4% vs 1.3%). From January to September, retail sales increased 6.6% from the same period a year earlier.
+
+---
+
+### 2026-11-02 18:03:44  #Trading Economics #Economy #Peru #Inflation Rate #Importance 0
+
+Peru Inflation Rate Climbs to Highest Since 2023 — The annual inflation rate in Peru's capital, Lima, rose to 5.25% in October 2026, its highest level since August 2023, up from 4.55% in the prior month.This marks the eighth consecutive month above the central bank's 1%-3% target range, as higher global fuel prices and adverse weather linked to the El Niño phenomenon continued to impact transport, agriculture and fishing. Food inflation rose to its highest level since October 2023. Additional upward pressure came from restaurants and hotels (4.49% vs. 4.35%), transport (15.75% vs. 15.1%), housing and utilities (4.04% vs. 3.39%), education (3.54% vs. 3.49%), furnishings (3.62% vs. 3.39%), clothing and footwear (1.9% vs. 1.88%), and recreation and culture (2.41% vs. 2.3%). In contrast, communication costs fell further, declining 4.61% after a 4.3% drop. On a monthly basis, consumer prices rose 0.57%, compared with a 0.12% increase in September.
+
+---
+
+### 2026-11-02 17:55:12  #央行 #中國央行
+
+【業內人士：互換便利操作穩步開展 將為資本市場持續帶來“活水”】中國人民銀行11月2日釋出公告稱，將於11月3日開展證券、基金、保險公司互換便利（SFISF）操作，互換期限1年，可視情展期。這是自工具創設以來第三次開展操作。在業內人士看來，互換便利操作穩步開展，將更加有利於盤活資產，統籌安排股市、債市等不同市場間的流動性，為資本市場持續帶來“活水”，增強投資行為長期性和市場內在穩定性。
+
+---
+
+### 2026-11-02 17:47:12  #Trading Economics #Economy #United Kingdom #Manufacturing PMI #Importance 1
+
+UK Manufacturing Growth Picks Up to Highest Since May — The S&P Global UK Manufacturing PMI rose to 52.8 in October 2026 from 51.9 in September, matching forecasts and reaching its highest level since May. Output expanded for a seventh consecutive month and at its fastest pace in just over two years, supported by stronger new business and improved market conditions. New orders also grew at their fastest pace since early in the first quarter. However, stronger activity failed to translate into job creation, with employment unchanged after six consecutive months of growth. Meanwhile, supply chains remained under pressure, as input cost inflation accelerated and vendor lead times lengthened to one of their greatest extents in four years. Output prices rose at their fastest pace in three months. Business confidence climbed to an eight-month high, supported by planned expansions, market recovery prospects, investment in capital equipment and AI, new product launches and stronger order pipelines.
+
+---
+
+### 2026-11-02 17:35:27  #Trading Economics #Economy #Kazakhstan #Inflation Rate #Importance 1
+
+Kazakhstan Inflation Rate Hits 21-Month Low — The annual inflation rate in Kazakhstan eased to 9.2% in October 2026 from 9.3% in September, marking its lowest level since January 2025. The moderation was primarily driven by slower price growth in the food and non-food categories. Food inflation eased to 7.6% from 8.5% in September, reflecting softer price increases for meat and poultry (8.6% vs. 10.2%) and sausages and meat products (11.2% vs. 13.2%). Similarly, non-food inflation moderated to 10.4% from 11.0%, driven by slower price growth in petrol (8.6% vs. 10.1%) and personal goods (11.3% vs. 11.9%). In contrast, inflation in paid services accelerated to 10.3% in October from 8.9% in the previous month, partly offsetting the overall moderation in consumer price growth, which was largely driven by higher housing and utility costs (11.2% vs 6.3%). On a monthly basis, consumer prices edged down by 0.5% in October from 0.6% in September, marking the weakest monthly increase since October 2025.
+
+---
+
+### 2026-11-02 17:31:56  #Trading Economics #Economy #South Africa #Manufacturing PMI #Importance 1
+
+South Africa Factory Activity Remains Under Pressure — South Africa’s seasonally adjusted Absa Purchasing Managers’ Index (PMI) improved for a second successive month, rising to 49.6 in October 2026 from the revised 48.7 in September. While manufacturing activity continued to contract for a fifth month, the latest reading pointed to the slowest pace of deterioration during this period. All five sub-components improved, although overall business conditions remained subdued. The business activity index edged up to 48.6 points in October, following a stronger increase in September. The new sales orders index advanced for a second consecutive month to 46.8 points, accompanied by a further improvement in export sales, with the index approaching the neutral mark. The purchasing prices index climbed to 73.7 points from 71.1 in September, likely reflecting a sharp rise in fuel prices, alongside further weakness in the rand. The index tracking expected business conditions in six months’ time fell to 51.7 points in October from 55.3 in September.
+
+---
+
+### 2026-11-02 17:28:30  #Trading Economics #Economy #Australia #CoreLogic Dwelling Prices MoM #Importance 0
+
+Australian Home Prices Fall 1.2% in October — Australia’s Cotality Home Value Index declined 1.2% month-on-month in October 2026, extending the downturn and leaving home values 6.7% below their March 2026 record high. The decline spread across more capital cities and regional markets, as affordability constraints, higher interest rates, elevated living costs and weaker consumer sentiment continued to erode purchasing power and dampen buyer demand. Among the major cities, Brisbane and Perth recorded the steepest monthly declines, with prices falling 2.0% and 1.7%, respectively. However, the correction remained more pronounced in Sydney, where values dropped a further 1.6% in October, leaving them 9.4% lower year-on-year. Melbourne also continued to experience significant annual declines, with prices down 7.6% over the year, despite a milder monthly fall of 0.8%. Adelaide remained relatively resilient compared with other major markets. Although home values declined 1.2% in October, they remained 3.7% higher than a year earlier.
+
+---
+
+### 2026-11-02 17:26:28  #公司
+
+【遠東股份：10月子公司中標千萬元以上訂單合計14.98億元】遠東股份公告稱，2026年10月份，公司子公司中標/簽約千萬元以上合同訂單合計14.98億元，涵蓋智慧電網線纜、算力中心線纜、智慧製造線纜、鋰電銅箔等多類產品，客戶包括國家電網有限公司及多地戰略客戶。遠東通訊有限公司已預中標中國電信2026-2027年室外光纜集中採購專案，中標金額最終以中標通知書或後續簽訂合同為準。上述合同訂單將對公司未來經營業績產生積極影響，合同履行存在一定履約風險，敬請投資者注意。
+
+---
+
+### 2026-11-02 17:25:49  #公司
+
+【達剛控股：控股子公司取得兩項實用新型及一項發明專利】達剛控股公告稱，公司控股子公司浙江恩科星電氣有限公司近期取得國家智慧財產權局頒發的3項專利證書，包括1項發明專利“基於反饋式自適應滑動窗的充電故障診斷方法及系統”（與杭州電子科技大學共有）、2項實用新型專利“一種防水式電動腳踏車充電樁”“一種用於汽車充電樁繼電器的熱電冷卻控制電路及系統”。上述專利已陸續在子公司相關產品中應用，不會對公司近期生產經營產生重大影響，有利於完善智慧財產權保護體系，增強核心競爭力。
+
+---
+
+### 2026-11-02 17:25:43  #公司
+
+【ST新元：披露股票交易其他風險警示相關事項進展】ST新元公告稱，公司目前仍存在三項其他風險警示情形：近三個會計年度扣非前後淨利潤孰低者均為負且持續經營能力存疑、主要銀行賬戶被凍結、收到證監會行政處罰事先告知書。其中內部控制否定意見相關其他風險警示情形已消除。公司預重整已確定隨銳科技集團為牽頭產業投資人、綠技行（武漢）投資合夥企業（有限合夥）為聯合產業投資人，已簽署《重整投資協議》。截至2026年9月30日，公司歸母淨資產為202.84萬元，若2026年末淨資產為負、或法院受理重整申請，股票將被實施退市風險警示；重整失敗則可能被宣告破產並終止上市。
+
+---
+
+### 2026-11-02 17:25:35  #公司
+
+【航宇微：顏軍辭去名譽董事長及首席科學家職務】航宇微公告稱，公司董事會於2026年11月2日收到名譽董事長、首席科學家顏軍提交的辭職函，因個人原因，顏軍申請辭去公司名譽董事長及首席科學家職務，辭職後不再擔任公司任何職務，辭職函自送達公司董事會之日起生效。本次辭職不構成公司董事及高階管理人員變更，不會影響公司董事會規範運作及正常生產經營。
+
+---
+
+### 2026-11-02 17:25:25  #公司 #市場
+
+【合百集團：股票交易異常波動 無應披露未披露重大事項】合百集團公告稱，公司股票於2026年10月30日、11月2日連續2個交易日內收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查並向控股股東核實，公司前期披露資訊無需更正補充，未發現對股價產生較大影響的未公開重大資訊，近期經營情況正常，內外部經營環境未發生重大變化；公司、控股股東及實控人均不存在應披露而未披露的重大事項或處於籌劃階段的重大事項，異動期間控股股東、實控人均未買賣公司股票。敬請廣大投資者理性投資，注意風險。
+
+---
+
+### 2026-11-02 17:25:19  #公司
+
+【復星醫藥：11月2日回購200萬股H股股份】復星醫藥公告稱，2026年11月2日公司透過香港聯交所回購200萬股H股股份，每股回購價區間為16.32港元至16.85港元，回購總金額為3332.37萬港元，所購股份擬持作庫存股份。本次回購佔期初已發行股份（不含庫存股）的0.38%，回購後公司H股已發行股份（不含庫存股）為5.24億股，庫存股份為2785.35萬股。公司回購授權於2026年6月16日審議透過，授權回購上限為5409.72萬股，截至目前已累計回購1688.45萬股，佔授權透過日已發行股份的3.12%。
+
+---
+
+### 2026-11-02 17:24:45  #公司
+
+【仲景食品：孫耀志向孫鋒無償贈與宛西控股7.87%股權】仲景食品公告，公司收到控股股東宛西控股告知函，其股權結構發生變動。實際控制人之一孫耀志基於家族傳承安排，於2026年10月30日簽署《股權贈與協議》，將其持有的宛西控股7.87%股權無償贈與其子孫鋒。變動後，孫耀志持有宛西控股36.21%股權，孫鋒持有宛西控股17.92%股權。控股股東仍為宛西控股，實際控制人仍為孫耀志、朱新成，宛西控股所持公司股份數量及持股比例未發生變化。
+
+---
+
+### 2026-11-02 17:24:42  #MKT News
+
+【Yuanjie Technology: 100G EML shipments have begun and will ramp; positive on NPO/CPO shipments next year】Yuanjie Technology said at its Q3 2026 results briefing that 100G EML products have begun shipping and will scale; 100G PAM4 EML is in mass production and 200G PAM4 EML is in steady customer validation, with higher‑rate products under development. Datacom demand is growing strongly and is led by CW products; the company will shift more capacity to CW as that demand outpaces others. The telecom market is stable and a product‑mix upgrade—including a 50G PON rollout—should modestly support telecom gross margins. Multiple NPO and CPO variants are in customer validation and the company is positive on NPO/CPO product shipments next year.
 
 ---
 
@@ -11318,815 +11462,5 @@ Foxconn Industrial Internet earnings below expectations at 0.84 CNY — Foxconn 
 ### 2026-11-01 04:26:58  #國際
 
 【OPEC+原則同意維持產量目標不變】OPEC+原則上同意維持12月石油產量目標不變。在明年之前預計不會進一步調整產量政策。該組織定於週日舉行線上會議。受伊朗戰事出口受阻影響，海灣產油國實際產量仍遠低於目標水平。該組織需在第四季度完成產能評估，之後才能確定2027年基準線及後續配額。
-
----
-
-### 2026-11-01 04:24:43  #公司 #國際
-
-【《華爾街日報》勝訴，特朗普100億美元誹謗訴訟被駁回】美國一名聯邦法官駁回了唐納德·特朗普重新提起的、針對《華爾街日報》的100億美元誹謗訴訟，並裁定該案不得再次起訴，這是特朗普在與媒體的法律糾紛中遭遇的又一次挫折。邁阿密法官Darrin Gayles於週六批准了《華爾街日報》的撤訴申請。訴狀指控該報在一篇關於特朗普與已故傑弗裡·愛潑斯坦往來的報道中對其構成誹謗。Gayles曾在4月以證據不足為由首次駁回該案，但當時允許特朗普補充訴求後重新起訴。特朗普在5月提交新版本訴狀，而《華爾街日報》認為新版本並未做出有效完善。這項裁決對《華爾街日報》、其母公司新聞集團以及名譽主席魯珀特·默多克（均為該案被告）而言是重大勝利。被告方在撤訴申請中稱，相關報道內容屬實，特朗普提起訴訟意在壓制媒體對他的批評。引發這起訴訟的《華爾街日報》報道稱，特朗普曾向愛潑斯坦寄送一封帶有暗示性內容的生日信件。
-
----
-
-### 2026-11-01 04:20:28  #MKT News
-
-【UN urges Houthi probe after UN staffer dies in detention】UN rights chief Volker Turk said on Oct. 31 that a staffer from the UN human rights office, Mohamed Shami, died while held by Houthi forces in Yemen. Shami had been detained since June 6, 2024; his family says he died more than a month ago but were only recently informed. Turk demanded the Houthis carry out an independent, comprehensive investigation, ensure transparency and accountability, and said he was seriously concerned for the safety of other detained UN personnel.
-
----
-
-### 2026-11-01 04:20:01  #其他
-
-【聯合國要求胡塞武裝調查其工作人員在被羈押期間死亡事件】聯合國人權事務高階專員圖爾克10月31日表示，聯合國人權高專辦駐葉門工作人員穆罕默德·沙米在被胡塞武裝羈押期間死亡。沙米自2024年6月6日起被胡塞武裝拘押，據其家人提供的資訊，他於一個多月前死亡，但家人直到近日才獲知這一訊息。圖爾克要求胡塞武裝對其死因進行獨立全面的調查，並確保資訊透明、追究不當行為責任。圖爾克還對其他仍被拘押的聯合國人員的安全表示嚴重關切。（央視新聞）
-
----
-
-### 2026-11-01 04:16:19  #國際
-
-敘利亞國防部：國防部長穆哈雷夫·阿布·卡斯拉少將將於明天週日（星期天）在卡達首都多哈會見副首相兼國防事務國務大臣謝赫·沙特·本·阿卜杜勒拉赫曼·阿勒薩尼，討論一系列共同議題。
-
----
-
-### 2026-11-01 04:15:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Yemen's foreign minister said delaying action against Houthi forces will make future responses to their expanding regional and international threat more costly.
-
----
-
-### 2026-11-01 04:14:30  #MKT News
-
-【UK Maritime Trade Operations: large fishing vessel boarded by unauthorised personnel】UK Maritime Trade Operations said on Oct 31 that on Oct 30 a large fishing vessel was boarded by unauthorised personnel. Authorities said they are concerned the incident may be linked to pirate gangs. The notice did not specify a location. An investigation is under way.
-
----
-
-### 2026-11-01 04:14:08  #其他
-
-【英國海上貿易行動辦公室：一大型漁船遭非法人員登船】英國海上貿易行動辦公室10月31日通報稱，當地時間30日，一艘大型漁船遭未經授權人員登船，相關部門擔心可能與海盜行動團伙有關。通報並未說明事發地點。有關部門正在對此展開調查。（央視新聞）
-
----
-
-### 2026-11-01 04:08:25  #其他
-
-【塞內加爾總統宣佈達喀爾青奧會開幕 非洲首次迎來奧林匹克賽事】當地時間10月31日晚，第四屆夏季青年奧林匹克運動會開幕式在塞內加爾賈姆尼亞賈市的阿卜杜拉耶·瓦德體育場舉行。賈姆尼亞賈位於首都達喀爾以東約30公里。塞內加爾總統巴西魯·迪奧馬耶·法耶宣佈達喀爾青奧會開幕。這是奧林匹克系列賽事首次在非洲大陸舉行。（央視新聞）
-
----
-
-### 2026-11-01 04:00:58  #MKT News #Brent #Impact bullish #WTI #DXY
-
-【UKMTO: October saw 30+ attacks on merchant ships near Strait of Hormuz, highest monthly tally since start of war with Iran】The UK Maritime Trade Operations office said more than 30 attacks on merchant vessels were reported in October in the Strait of Hormuz, Gulf of Oman and Arabian Gulf, the highest monthly total since the start of the war with Iran. UKMTO has logged 145 related incidents since Feb. 28 and said actual numbers may be higher as many attacks go unreported.
-
----
-
-### 2026-11-01 03:44:38  #國際
-
-迦納表示俄羅斯將支援建設2000兆瓦核電站，深化雙邊關係。
-
----
-
-### 2026-11-01 03:33:40  #國際
-
-伊朗陸軍發言人：我們已從俄羅斯採購蘇-35戰機。我們將在戰爭結束後接收這些戰機。
-
----
-
-### 2026-11-01 03:31:26  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iran's Supreme National Security Council secretary Rezaei said if the US and Trump do not pay a price for this action, other countries may be emboldened tomorrow to attack Iran because nothing would stop them.
-
----
-
-### 2026-11-01 03:22:38  #國際
-
-法院檔案顯示：美國法官駁回特朗普對《華爾街日報》的訴訟。
-
----
-
-### 2026-11-01 03:17:34  #MKT News #Market Themes #The Trump Trade
-
-TRUMP said he will hold a phone rally at 3:30 p.m. ET on Saturday, to be broadcast live (03:30 Beijing time Sunday).
-
----
-
-### 2026-11-01 03:14:12  #MKT News #Market Regions #Europe & UK
-
-【France holds third nationwide protest in three weeks; 422 arrested】On Oct. 31 local time France held the third nationwide large-scale protest in three weeks. Interior Minister Laurent Nunez said police carried out about 40,000 security checks and arrested 422 people. Nunez said marches largely proceeded smoothly but that each procession included individuals who committed vandalism and looting, and clashes erupted in some areas as demonstrations wound down. The interior ministry put turnout at roughly 320,000 nationwide; student unions estimated nearly 500,000 participants, including about 200,000 in Paris. The government had classified the protests as "high risk" and deployed roughly 70,000 police and gendarmes nationwide.
-
----
-
-### 2026-11-01 03:13:55  #國際
-
-波蘭總理圖斯克表示不會向暴力屈服。
-
----
-
-### 2026-11-01 03:13:16  #其他
-
-【法國再現大規模示威活動 警方逮捕422人】當地時間10月31日，法國發生三週以來第三輪全國性大規模示威活動。當天晚間，法國內政部長洛朗·努涅斯表示，在當天法國各地舉行的示威活動中，警方累計實施約4萬次檢查，逮捕422人。（央視新聞）
-
----
-
-### 2026-11-01 03:06:57  #國際
-
-波蘭總理圖斯克：我相信憲法法庭將開始運作。
-
----
-
-### 2026-11-01 03:05:48  #國際
-
-波蘭總理圖斯克表示，波蘭依法選舉產生的法官遭到了攻擊。
-
----
-
-### 2026-11-01 03:02:54  #國際
-
-伊朗安全負責人雷扎伊：在伊朗的條件得到滿足之前，霍爾木茲海峽將繼續關閉。
-
----
-
-### 2026-11-01 03:02:02  #其他
-
-OpenAI與Anthropic稱，其AI模型證偽了指數時間假說，這項理論突破或將改變研究人員評估加密安全性的方式。
-
----
-
-### 2026-11-01 02:59:25  #MKT News
-
-Iran Supreme National Security Council secretary Rezaei said if further rounds of nuclear talks are held, Iran's rights under the Nuclear Non‑Proliferation Treaty (NPT) should be respected.
-
----
-
-### 2026-11-01 02:56:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Supreme National Security Council secretary Rezaei said Iran will not negotiate or reopen the Strait of Hormuz until seven conditions set by Tehran are met.
-
----
-
-### 2026-11-01 02:54:49  #其他
-
-英國海上貿易行動辦公室：有關方面擔憂相關活動可能是海盜行為。
-
----
-
-### 2026-11-01 02:54:37  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
-
-Iran's Supreme National Security Council secretary Rezaei said the war must end permanently and no country should "dare" attack Iran again.
-
----
-
-### 2026-11-01 02:54:11  #國際
-
-伊朗安全負責人雷扎伊：戰爭應永久結束，任何國家都不應“膽敢”再次攻擊伊朗。
-
----
-
-### 2026-11-01 02:53:58  #其他
-
-英國海事貿易行動辦公室：一艘漁船遭未經授權人員登船。
-
----
-
-### 2026-11-01 02:53:21  #國際
-
-伊朗安全負責人雷扎伊對國家電視臺表示：我們認真對待外交，但不會放棄伊朗人民的權利。
-
----
-
-### 2026-11-01 02:53:13  #MKT News
-
-Iran's Supreme National Security Council secretary Rezaei said Iran takes diplomacy seriously but will not give up the rights of the Iranian people.
-
----
-
-### 2026-11-01 02:51:12  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's top military commander warned any renewed U.S.-Israeli aggression would elicit a response more severe than before.
-
----
-
-### 2026-11-01 02:43:43  #國際
-
-美國中央司令部：截至10月31日，美軍已要求144艘商船改變航向，以確保封鎖得到遵守。
-
----
-
-### 2026-11-01 02:40:42  #其他
-
-幣安：SAFU基金的另一半資金將保留在基金中。
-
----
-
-### 2026-11-01 02:38:13  #其他
-
-幣安：從SAFU基金中撥出50%的資金用於彌補損失。
-
----
-
-### 2026-11-01 02:37:45  #國際
-
-澤連斯基：我與土耳其總統埃爾多安討論了土耳其作為可能舉辦地點的選項。
-
----
-
-### 2026-11-01 02:36:36  #國際
-
-澤連斯基：我與土耳其總統埃爾多安討論了讓土耳其和歐洲參與其中的方式。
-
----
-
-### 2026-11-01 02:35:19  #焦點 #國際
-
-澤連斯基：正籌備在11月上半月舉行三方會談。
-
----
-
-### 2026-11-01 02:31:54  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Russia's Sputnik news agency reported Russian forces struck a vessel carrying Ukrainian military supplies south of Odesa.
-
----
-
-### 2026-11-01 02:28:13  #國際
-
-伊朗海軍：所有商船必須避免進入霍爾木茲不安全區域，並不得關閉其系統。
-
----
-
-### 2026-11-01 02:28:04  #其他
-
-【聯合國秘書長強烈譴責蘇丹衝突各方不斷升級的無人機襲擊】當地時間10月31日，聯合國秘書長古特雷斯透過發言人發表宣告，強烈譴責蘇丹衝突各方不斷升級的無人機襲擊，以及這些襲擊給平民造成的災難性傷亡。宣告指出，在蘇丹全國各地以及阿卜耶伊地區，無人機襲擊已造成數百名平民死亡，其中包括婦女和兒童。這些襲擊違反了國際人道法。（央視新聞）
-
----
-
-### 2026-11-01 02:27:27  #MKT News
-
-Iran's Supreme National Security Council Secretary Rezai said Iran's nuclear issue can only be discussed after the U.S. meets Iran's demands.
-
----
-
-### 2026-11-01 02:27:23  #國際
-
-伊朗國家安全負責人雷扎伊表示，只有在美方滿足伊朗的要求之後，才能討論伊朗的核問題。
-
----
-
-### 2026-11-01 02:24:57  #其他 #焦點
-
-馬斯克：到今年年底，Colossus 2將總共擁有約120萬塊Blackwell晶片。
-
----
-
-### 2026-11-01 02:23:04  #國際
-
-伊朗海軍：一艘違規油輪在霍爾木茲海峽東側禁行區域航行時觸雷，海軍對其開火。
-
----
-
-### 2026-11-01 02:22:37  #其他
-
-巴黎警方與抗議者發生衝突。
-
----
-
-### 2026-11-01 02:22:16  #MKT News
-
-G20 chair said food and agricultural trade should not be used as tools of economic or political coercion.
-
----
-
-### 2026-11-01 02:21:45  #公司
-
-二十國集團：小型模組化反應堆有助於保障能源安全。
-
----
-
-### 2026-11-01 02:20:23  #公司
-
-二十國集團表示，譴責將糧食供應鏈用作脅迫工具。
-
----
-
-### 2026-11-01 02:19:46  #國際
-
-【俄烏同意定期開展人道主義救援行動】俄羅斯人權事務專員亞娜·蘭特拉託娃10月31日在社交媒體釋出訊息說，俄烏雙方已同意定期開展人道主義救援行動。（新華社）
-
----
-
-### 2026-11-01 02:19:39  #MKT News
-
-【Russia and Ukraine agree to hold regular humanitarian relief operations】Russian human rights commissioner Yana Lantratova said on social media on Oct. 31 that Russia and Ukraine have agreed to hold regular humanitarian relief operations, Xinhua reported.
-
----
-
-### 2026-11-01 02:18:17  #公司
-
-二十國集團主席就會議發表宣告。
-
----
-
-### 2026-11-01 02:17:17  #國際
-
-美國媒體的一項分析發現，伊朗最初瞄準的是美國在中東的預警和防空系統，隨後才對軍事設施發動進一步攻擊，這一系列行動造成了數十億美元的損失。
-
----
-
-### 2026-11-01 02:11:40  #MKT News
-
-【Syria says it is discussing possible entry to Saudi-Turkey-Pakistan defense pact】At the Manama Dialogue security meeting in Bahrain, Syrian Foreign Minister Assad Shibani said discussions are underway to assess Syria joining the Mecca alliance — the joint defense agreement Saudi Arabia, Turkey and Pakistan signed in August. He said defending Gulf Arab states is vital to Syria’s security and that Syria will stand with all Gulf states, adding they face threats from cross‑border militia groups. Shibani gave no detail on whether support might include sending troops to Yemen; Damascus has previously denied reports Riyadh asked for Syrian deployments.
-
----
-
-### 2026-11-01 02:08:34  #國際
-
-【魯比奧稱美國尚未決定恢復打擊】美國國務卿魯比奧表示，美國尚未就恢復對伊朗的打擊作出任何決定，總統特朗普更傾向於透過外交途徑解決問題。他補充稱，無論特朗普決定尋求實現何種軍事目標，美國都有實現這些目標的能力。“伊朗基本上是在說，除非我們得到想要的東西，否則我們不僅會炸燬船隻，還會摧毀整個地區鄰國的能源基礎設施，”魯比奧在亞特蘭大舉行的G20外長會議結束後的新聞釋出會上表示。“想想這一點，因為我覺得我們往往一帶而過，好像這是什麼正常行為似的。這不是正常行為。不是。”
-
----
-
-### 2026-11-01 01:59:29  #國際
-
-【澤連斯基：從奧列什基撤離的烏克蘭人將獲得援助】烏克蘭總統澤連斯基10月31日在社交媒體上發文說，從奧列什基撤離的烏克蘭人都將獲得必要援助。澤連斯基表示，在奧列什基開展了人道主義救援行動，其間赫爾松方向保持“靜默”狀態。需要撤離的烏公民已從奧列什基及其周邊地區轉移，透過烏克蘭與白俄羅斯接壤的切爾尼戈夫州邊境進入烏境內。“他們都將獲得必要的援助。”（新華社）
-
----
-
-### 2026-11-01 01:56:28  #國際
-
-伊朗安全負責人雷扎伊：尚未就改變核原則做出新決定，但正在討論如果再次爆發戰爭是否應維持相同原則。
-
----
-
-### 2026-11-01 01:56:01  #宏觀 #公司
-
-【伊斯坦布林證券交易所執行長因基金調查被拘留】土耳其伊斯坦布林證券交易所執行長科爾克馬茲·埃爾貢在土耳其投資基金危機相關調查中被拘留。埃爾貢因涉嫌受賄和加入犯罪組織而接受調查。他同時擔任土耳其結算與託管銀行（Takasbank）副董事長。此舉標誌著對投資基金和股票涉嫌操縱行為的大規模調查進一步擴大。資本市場委員會前主席易卜拉欣·奧梅爾·格努爾也作為嫌疑人接受調查。土耳其基金危機期間撤換市場監管機構負責人。這場危機於9月爆發，已牽涉土耳其金融界多位知名人物。
-
----
-
-### 2026-11-01 01:55:05  #國際
-
-【伊朗官員：伊方目前尚未作出任何新的修改核戰略的決定】當地時間31日，伊朗最高國家安全委員會秘書雷扎伊在談到該國核戰略時表示，伊朗人民在修改核戰略方面有訴求，當人民看到敵人攻擊伊朗核設施時，他們通常會問，為什麼還要繼續沿用之前的模式？雷扎伊強調，目前伊朗尚未作出任何新的、修改核戰略的決定。當前關於核問題爭論的焦點在於，如果戰爭再次爆發，伊朗是否希望沿用之前的戰略。（央視新聞）
-
----
-
-### 2026-11-01 01:55:03  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Iran says no new decision to alter nuclear strategy; domestic pressure rises after attacks】Iran's Supreme National Security Council secretary said on Oct. 31 Tehran has not made any new decision to modify its nuclear strategy. He said public pressure has grown after attacks on Iranian nuclear facilities, and the current debate centres on whether Iran would stick to its previous strategy if war resumes.
-
----
-
-### 2026-11-01 01:43:28  #MKT News #Important
-
-【Iran NSC secretary says he has not replied to letter from U.S. vice president Vance】On the 31st (local time), Iran’s Supreme National Security Council Secretary Rezaei said he had read a letter from U.S. Vice President Vance but has not responded. He said the letter’s tone had changed and, because it contained no concrete proposals, he declined to comment further.
-
----
-
-### 2026-11-01 01:43:05  #MKT News
-
-【China vice foreign minister Ma Zhaoxu attends G20 foreign ministers' meeting in Atlanta】Oct. 30-31, 2026 — China’s vice foreign minister Ma Zhaoxu attended the G20 foreign ministers’ meeting in Atlanta. Ma warned of deepening shifts in the international landscape, heightened geopolitical tensions and a lagging development agenda. He reiterated President Xi Jinping’s Global Security Initiative—advocating a common, comprehensive, cooperative and sustainable security concept that favors dialogue over confrontation, partnerships over alliances and win-win outcomes over zero-sum approaches—and said it has helped defuse regional disputes. Ma urged the G20 to help maintain global peace and stability, cool regional hotspots, address root causes of conflict and strengthen global security governance. He emphasized energy as the lifeline of economic and social development and said China supports G20 cooperation on energy security and sustainable development, improving affordability, accelerating energy-structure transition and enhancing international energy governance.
-
----
-
-### 2026-11-01 01:41:04  #國際
-
-伊朗批評歐洲支援美國和以色列對伊朗的戰爭，稱那些支援侵略的政府如今正在承受戰爭與恐怖主義的代價。
-
----
-
-### 2026-11-01 01:39:34  #國際
-
-【伊朗最高國家安全委員會秘書：尚未回應美國信函】當地時間31日，伊朗最高國家安全委員會秘書雷扎伊表示，其已閱讀美國副總統萬斯的來信，但尚未回覆。“他們的語氣完全變了，這是一個好兆頭，表明伊朗人民已經鞏固了勝利和權威。”雷扎伊表示，由於該信函沒有提出任何具體內容，因此他目前不會發表任何評論。（央視新聞）
-
----
-
-### 2026-11-01 01:37:04  #MKT News #Brent #Impact bullish #XAUUSD
-
-US Secretary of State Rubio said the Houthis would not have their current capabilities without direct support from the Iranian regime.
-
----
-
-### 2026-11-01 01:35:59  #MKT News
-
-Iran's Supreme National Security Council Secretary Rezaei, referring to a letter from U.S. Vice President Vance, said their tone had completely changed and called it a good sign demonstrating the Iranian people had achieved victory.
-
----
-
-### 2026-11-01 01:35:32  #國際
-
-伊朗安全委員會秘書雷扎伊就美國副總統萬斯的來信表示：我已讀過這封信，尚未作出回覆。信的語氣已完全改變。這是一個很好的跡象，表明伊朗民族鞏固了自身的勝利與權威。
-
----
-
-### 2026-11-01 01:34:56  #國際
-
-美國總統特朗普：我們將繼續就選舉誠信問題展開鬥爭。
-
----
-
-### 2026-11-01 01:32:56  #公司
-
-伊斯坦布林證券交易所執行長因涉嫌在基金調查中收受賄賂被拘留。
-
----
-
-### 2026-11-01 01:32:37  #其他
-
-幣安：下一個關注的重點是恢復使用者提現服務。
-
----
-
-### 2026-11-01 01:32:15  #MKT News
-
-【Rubio: US-Iran diplomatic talks "have in effect never stopped"】On Saturday U.S. Secretary of State Rubio said US-Iran diplomatic talks "have in effect never stopped" and that President Trump’s first choice in addressing global challenges is diplomacy and peaceful means where possible. Iran’s top diplomat said on Saturday Tehran currently has no plans to hold talks with the United States, despite growing concern the two sides could rekindle hostilities.
-
----
-
-### 2026-11-01 01:31:44  #其他
-
-英國財政大臣希利談提高青年最低工資：問題只在於何時實施。
-
----
-
-### 2026-11-01 01:30:06  #MKT News
-
-Eisenkot, leader of the Yashar Party, said tonight he intends to act immediately to secure a clear parliamentary majority to pursue the welfare of all Israeli citizens.
-
----
-
-### 2026-11-01 01:29:25  #MKT News
-
-Israel's "Yashar" party leader Eisenkot said any Knesset member who endorses the principles he set out before the election may join the government. He said he will immediately seek a parliamentary majority to repeal the reform bill and expand civil service headcount.
-
----
-
-### 2026-11-01 01:29:24  #公司
-
-土耳其拘留伊斯坦布林證券交易所執行長Korkmaz Enes Ergun。
-
----
-
-### 2026-11-01 01:29:10  #國際
-
-美國財長貝森特：全球可以離開伊朗石油。
-
----
-
-### 2026-11-01 01:28:56  #國際
-
-美國財長貝森特：除伊朗原油外，霍爾木茲海峽通行量已恢復至戰前水平。
-
----
-
-### 2026-11-01 01:18:15  #MKT News
-
-Nigeria Centre for Disease Control says two people have been isolated; contact tracing and registration are ongoing and laboratory testing is underway.
-
----
-
-### 2026-11-01 01:17:34  #其他
-
-法國：巴黎生活成本遊行尾聲，騷亂者向警方投擲燃燒瓶。 至少一名警員的裝備被引燃。
-
----
-
-### 2026-11-01 01:17:08  #MKT News
-
-Nigeria Centre for Disease Control says two suspected Ebola cases have been detected in northeast Nigeria.
-
----
-
-### 2026-11-01 01:13:31  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500 #Impact bearish
-
-【Carney says he won't rush to sign US trade deal if terms don't serve Canada】Prime Minister Carney said he will not rush to sign a trade agreement with the US if the terms are not in Canada’s best interests. He indicated Canada could remain a target of pressure from Trump after the US midterm elections and said he would not sign an agreement he deems disadvantageous even if that means waiting for a new White House administration.
-
----
-
-### 2026-11-01 01:08:49  #國際
-
-【伊朗稱一艘違規油輪在霍爾木茲海峽東部觸雷起火】當地時間31日，伊朗海軍宣佈，當天下午，一艘違規油輪在霍爾木茲海峽東部禁航區航行，無視伊朗警告後觸雷起火。伊朗革命衛隊表示，美國總統發表了不實言論，伊朗在霍爾木茲海峽的管控政策不會改變。所有船舶，特別是油輪和商船，必須嚴格遵守伊朗釋出的海上警告和禁航區規定，不得進入危險區域和關閉跟蹤系統。（央視新聞）
-
----
-
-### 2026-11-01 01:03:51  #MKT News
-
-US Secretary of State Rubio said the United States will continue to honor its defense agreement with Saudi Arabia.
-
----
-
-### 2026-11-01 01:03:38  #國際
-
-美國國務卿魯比奧：總統不認為會談、不認為與某人會面是一種讓步。
-
----
-
-### 2026-11-01 01:03:16  #國際
-
-美國國務卿魯比奧：美國將繼續履行與沙特的防務協議。
-
----
-
-### 2026-11-01 01:03:00  #MKT News #Important #Market Themes #The Trump Trade
-
-US Secretary of State Rubio said President Trump does not view negotiating or meeting with someone as a concession.
-
----
-
-### 2026-11-01 00:59:46  #國際
-
-美國國務卿魯比奧談俄烏衝突：我們正試圖制止一場極其致命的衝突。一方面，基輔每晚都面臨針對其能源基礎設施的毀滅性襲擊，同時平民死亡人數也在不斷增加。即便在俄羅斯一方，每月也有2萬名俄羅斯人喪生。這是一場極其致命且具有破壞性的衝突，每過一個月，傷亡都在不斷增加。
-
----
-
-### 2026-11-01 00:58:54  #國際
-
-【烏土兩國總統舉行會談 聚焦黑海安全域性勢】當地時間10月31日，烏克蘭總統澤連斯基在伊斯坦布林與土耳其總統埃爾多安舉行會談，雙方圍繞俄烏衝突以及黑海安全域性勢等問題進行了探討。在會後的聯合記者會上，埃爾多安強調，針對民用船隻的襲擊不可接受，加劇黑海緊張局勢的行為對任何一方無益。土耳其將繼續與各方接觸，以恢復黑海航行安全，並呼籲透過外交手段和平解決衝突。澤連斯基表示，雙方討論了當前俄烏衝突形勢和即將舉行的和平談判，並同意就黑海糧食通道問題開展工作。（央視新聞）
-
----
-
-### 2026-11-01 00:58:47  #MKT News
-
-【Zelenskiy and Erdogan meet in Istanbul to discuss Black Sea security】October 31 — Ukrainian President Zelenskiy met Turkish President Erdogan in Istanbul to discuss the Russia-Ukraine conflict and Black Sea security. At a joint briefing Erdogan said attacks on civilian vessels are unacceptable, warned that actions which escalate tensions in the Black Sea benefit no party, and said Turkey will continue diplomatic engagement to restore safe navigation. Zelenskiy said they discussed the current conflict and upcoming peace talks and agreed to cooperate on the Black Sea grain corridor.
-
----
-
-### 2026-11-01 00:57:53  #國際
-
-伊朗海軍稱該油輪“在受限區域作業”。
-
----
-
-### 2026-11-01 00:56:28  #MKT News #WTI #Impact bullish #Brent
-
-Iranian navy says an oil tanker caught fire after striking a mine in the Strait of Hormuz.
-
----
-
-### 2026-11-01 00:56:10  #國際
-
-美國國務卿魯比奧：外交政策最終由行政部門決定。
-
----
-
-### 2026-11-01 00:56:00  #國際
-
-伊朗國家媒體報道，伊朗海軍稱一艘油輪在霍爾木茲海峽與水雷相撞後起火。
-
----
-
-### 2026-11-01 00:55:27  #國際
-
-美國國務卿魯比奧：中期選舉不太可能影響美國總統特朗普的外交指令。
-
----
-
-### 2026-11-01 00:53:29  #MKT News #Important #WTI #Impact bullish #Brent
-
-【Rubio: Trump has not decided whether to resume strikes on Iran】U.S. Secretary of State Rubio said at a Saturday press briefing that President Trump has not decided whether to resume military action against Iran. Rubio said he did not know whether Qatar-led talks aimed at resolving U.S.-Iran hostilities have a specific timeline. Refinitiv earlier reported Iranian officials were in Doha meeting with Qatari mediators.
-
----
-
-### 2026-11-01 00:51:42  #國際
-
-美國國務卿魯比奧：美國認為戰爭對俄羅斯和烏克蘭而言代價都非常高昂。
-
----
-
-### 2026-11-01 00:49:50  #MKT News #Market Regions
-
-U.S. Secretary of State Rubio said he spoke with Brazil's foreign minister and will meet him again at the G7 meeting in France.
-
----
-
-### 2026-11-01 00:49:40  #公司 #國際
-
-美國國務卿魯比奧：已與巴西外交部長通電話，將在法國舉行的七國集團（G7）會議上再次與他會面。
-
----
-
-### 2026-11-01 00:47:27  #MKT News
-
-U.S. Secretary of State Rubio said he has discussed with Russian Foreign Minister Lavrov the possibility of a meeting between Trump and Putin next month at the APEC summit.
-
----
-
-### 2026-11-01 00:46:33  #國際
-
-美國國務卿魯比奧：已與俄羅斯外長拉夫羅夫就特朗普與普京下月在亞太經合組織（APEC）會議期間會晤的可能性進行了溝通。
-
----
-
-### 2026-11-01 00:45:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. Secretary of State Rubio said Iran has been waging war against its neighbors since 1979.
-
----
-
-### 2026-11-01 00:44:08  #國際
-
-美國國務卿魯比奧：不知道俄羅斯總統普京是否會來邁阿密。
-
----
-
-### 2026-11-01 00:41:55  #國際
-
-印度政府：向各邦政府撥付1.09萬億盧比的稅收分成預付款。
-
----
-
-### 2026-11-01 00:40:22  #國際
-
-美國國務卿魯比奧：將處理涉及韓國議員的簽證問題。
-
----
-
-### 2026-11-01 00:40:10  #其他
-
-法國各地近50萬人舉行抗議。
-
----
-
-### 2026-11-01 00:40:03  #MKT News
-
-US Secretary of State Rubio said he may invite Ukrainian President Zelenskiy to the G20 summit if Zelenskiy's attendance would bring "positive results".
-
----
-
-### 2026-11-01 00:39:48  #國際
-
-美國國務卿魯比奧：如果澤連斯基出席G20峰會能帶來“積極成果”，可能會向他發出邀請。
-
----
-
-### 2026-11-01 00:39:01  #MKT News
-
-US Secretary of State Rubio said he would not rule out inviting Ukrainian President Zelenskiy to the G20 leaders' summit in December, but that the invitation depends on President Trump.
-
----
-
-### 2026-11-01 00:38:55  #公司 #國際
-
-美國國務卿魯比奧：不排除邀請澤連斯基參加12月的二十國集團（G20）領導人峰會，但這取決於特朗普總統。
-
----
-
-### 2026-11-01 00:38:39  #國際
-
-美國國務卿魯比奧：美國仍是地球上能力最強的軍事力量。只要我們有此意願，就能實現軍事目標。
-
----
-
-### 2026-11-01 00:37:53  #MKT News #Important
-
-U.S. Secretary of State Rubio said President Trump has not decided on military action against Iran.
-
----
-
-### 2026-11-01 00:37:24  #焦點 #國際
-
-美國國務卿魯比奧：特朗普尚未就對伊朗採取軍事行動做出決定。
-
----
-
-### 2026-11-01 00:35:53  #國際
-
-美國國務卿魯比奧：四方安全對話並非針對任何一方的聯盟。
-
----
-
-### 2026-11-01 00:35:27  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
-
-Sources say OPEC+ has reached an agreement in principle to keep December production targets unchanged.
-
----
-
-### 2026-11-01 00:35:10  #其他 #焦點
-
-訊息人士稱，歐佩克+已原則上達成協議，12月份維持產量目標不變。
-
----
-
-### 2026-11-01 00:34:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-U.S. Secretary of State Rubio said the international community is increasingly concerned about the limited ceasefire in the Black Sea.
-
----
-
-### 2026-11-01 00:34:03  #國際
-
-美國國務卿魯比奧就黑海問題表態：正在研究土耳其提出的方案。
-
----
-
-### 2026-11-01 00:33:46  #國際
-
-美國國務卿魯比奧：國際社會對黑海有限停火方案的關注度日益上升。
-
----
-
-### 2026-11-01 00:33:25  #國際
-
-美國國務卿魯比奧：印度、土耳其有恢復黑海糧食運輸的想法。
-
----
-
-### 2026-11-01 00:33:04  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
-
-US Secretary of State Rubio said India and Turkey have proposals to restore Black Sea grain shipments.
-
----
-
-### 2026-11-01 00:32:19  #宏觀 #公司 #國際
-
-【外交部副部長馬朝旭出席二十國集團外長會】2026年10月30日至31日，外交部副部長馬朝旭在美國亞特蘭大出席二十國集團外長會。馬朝旭表示，當前國際形勢深刻演變，地緣政治局勢緊張，發展議程嚴重滯後。習近平主席提出全球安全倡議，倡導共同、綜合、合作、可持續的安全觀，走對話而不對抗、結伴而不結盟、共贏而非零和的新型安全之路，為化解國際地區爭端發揮了重要作用。（外交部網站）
-
----
-
-### 2026-11-01 00:31:25  #國際
-
-美國國務卿魯比奧：傾向於以和平、外交方式解決伊朗問題。
-
----
-
-### 2026-11-01 00:30:19  #國際
-
-美國國務卿魯比奧談伊朗談判：對話經常透過中間人進行。
-
----
-
-### 2026-11-01 00:30:10  #MKT News
-
-US Secretary of State Rubio said he did not know whether the Qatar-led talks have a timetable.
-
----
-
-### 2026-11-01 00:29:55  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-U.S. Secretary of State Rubio said the U.S. is open to resolving the war with Iran through diplomatic means.
-
----
-
-### 2026-11-01 00:29:54  #焦點 #國際
-
-美國國務卿魯比奧：美國願意透過外交途徑解決伊朗戰爭。
-
----
-
-### 2026-11-01 00:29:40  #國際
-
-美國國務卿魯比奧：不知道卡達主導的談判是否有時間限制。
-
----
-
-### 2026-11-01 00:29:03  #MKT News #Commodities #Industrial Metals
-
-Rubio said G20 foreign ministers agreed on the importance of food security, critical minerals supply chains and freedom of navigation.
-
----
-
-### 2026-11-01 00:28:43  #國際
-
-美國國務卿魯比奧：不知道伊朗談判是否有時間框架。
-
----
-
-### 2026-11-01 00:28:19  #國際
-
-美國國務卿魯比奧：四方安全對話領導人會議將於下月舉行。
-
----
-
-### 2026-11-01 00:28:03  #公司 #國際
-
-美國國務卿魯比奧：二十國集團外長們就糧食安全、關鍵礦產供應鏈和航行自由的重要性達成共識。
-
----
-
-### 2026-11-01 00:27:53  #國際
-
-美國國務卿魯比奧談及波蘭：我要肯定波蘭。波蘭這個國家在經濟和安全領域都取得了長足進展。該國將本國利益與公民放在首位。
-
----
-
-### 2026-11-01 00:26:34  #國際
-
-美國國務卿魯比奧：美國總統特朗普認為波蘭應當在領導人席位上佔有一席之地。
-
----
-
-### 2026-11-01 00:24:49  #國際
-
-美國國務卿魯比奧：將很快宣佈四方安全對話領導人馬尼拉會議。
-
----
-
-### 2026-11-01 00:23:46  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Houthis said Saudi warplanes carried out 66 air and missile strikes on civilian facilities in Sanaa and the provinces of Al-Jawf, Taiz, Saada, Hajjah and Lahij over the past 24 hours.
-
----
-
-### 2026-11-01 00:23:08  #國際
-
-美國國務卿魯比奧：我們身處一個伊朗公然瞄準商船的世界，幾乎每晚都要防禦無人機和導彈對船隻的襲擊。
-
----
-
-### 2026-11-01 00:22:21  #其他
-
-胡塞武裝：過去24小時內，沙特戰機對首都薩那及焦夫省、塔伊茲省、薩達省、哈傑省和拉赫季省的民用目標實施了66次空襲和導彈打擊。襲擊由從哈米斯穆謝特和塔伊夫軍事基地起飛的F-15和颱風戰機實施，導彈襲擊則來自奈季蘭。襲擊造成人員傷亡，其中包括婦女和兒童。這使得自我國局勢升級以來，沙特領導的聯軍空襲和導彈打擊總數達到3755次。
 
 ---

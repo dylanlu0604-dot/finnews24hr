@@ -1,7 +1,493 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-11-08 00:21:00_
-_本檔包含 2059 則快訊，約 432998 字_
+_更新時間：2026-11-08 04:26:41_
+_本檔包含 2086 則快訊，約 432198 字_
+
+---
+
+### 2026-11-08 04:25:59  #MKT News
+
+Israeli opposition leader Eizenkot said he will do everything to make a national government a reality.
+
+---
+
+### 2026-11-08 04:25:35  #MKT News
+
+Israeli opposition leader Gadi Eizenkot said it is time to form a national emergency government.
+
+---
+
+### 2026-11-08 04:24:51  #國際
+
+伊朗國家電視臺記者稱，爆炸事件可能與伊朗軍方在霍爾木茲海峽的活動有關。
+
+---
+
+### 2026-11-08 04:24:36  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian state television said an explosion in southern Iran may be linked to Iranian military activity in the Strait of Hormuz.
+
+---
+
+### 2026-11-08 04:23:05  #國際
+
+伊朗南部的賈斯克、西里克、阿巴斯港和格什姆島傳出爆炸聲，原因不明。
+
+---
+
+### 2026-11-08 04:21:59  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+【Explosions reported in multiple southern Iranian locations; cause unclear】Iranian state TV reported explosions in Jask, Sirik, Bandar Abbas and Qeshm island; authorities have not confirmed the source. Semi-official Tasnim agency earlier said two missiles struck Qeshm, though no official damage assessment has been released. The incidents follow U.S. strikes on Qeshm in recent days; a U.S. official described that strike as limited and not indicative of a return to large-scale operations. U.S. strikes were paused by Trump ahead of the midterms, and Iran has warned it would hit U.S. and Israeli targets in neighboring countries if attacked again.
+
+---
+
+### 2026-11-08 04:16:24  #MKT News
+
+Israel's public broadcaster, citing sources, said Prime Minister Netanyahu has not proposed a rotational premiership but would agree to one if talks begin.
+
+---
+
+### 2026-11-08 04:16:08  #MKT News #Important #WTI #Impact bullish #Brent
+
+Iranian state TV reported explosions were heard in southern Iran in Jask, Sirik, Bandar Abbas and Qeshm Island; cause unclear.
+
+---
+
+### 2026-11-08 04:12:45  #國際
+
+【伊朗格什姆島傳出爆炸聲】當地時間7日晚，從伊朗方面獲悉，格什姆島傳來兩聲爆炸聲。當地訊息稱，爆炸發生在該島內，位於島嶼東部。伊朗官方暫未公佈細節。
+
+---
+
+### 2026-11-08 03:55:22  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iran's UN mission in Vienna accused the United States of using a "Justice Bounty" program to recruit accomplices to attack Iranian nuclear scientists and facilities, and warned any party supplying related information—including the IAEA—could face legal consequences.
+
+---
+
+### 2026-11-08 03:47:05  #其他
+
+馬斯克：即將推出的效率提升將使40千瓦時的賽博卡車電池組成為可能。
+
+---
+
+### 2026-11-08 03:47:00  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Musk: upcoming efficiency improvements will enable Cybercab to use a 40 kWh battery pack.
+
+---
+
+### 2026-11-08 03:41:07  #MKT News
+
+【Israeli president authorizes Netanyahu rival Gadi Eisenkot to form government】Israeli President Isaac Herzog concluded consultations and authorized former IDF chief of staff Gadi Eisenkot to try to form a government, the president’s office said. Parties representing 67 Knesset members recommended Eisenkot; parties representing 46 recommended incumbent Prime Minister Benjamin Netanyahu; a 7-seat party made no recommendation. Herzog met with multiple political figures, including Netanyahu and Eisenkot, and informed Eisenkot of the authorization decision. Under Israel’s Basic Law on the Government, the designated lawmaker has 28 days to form a cabinet, extendable once by up to 14 days.
+
+---
+
+### 2026-11-08 03:39:05  #國際
+
+【以色列總統決定授權埃森科特組建新政府】以色列總統府7日發表宣告說，以總統赫爾佐格決定授權正直黨領導人、以軍前總參謀長加迪·埃森科特組建新一屆政府。（新華社）
+
+---
+
+### 2026-11-08 03:36:50  #國際
+
+伊朗駐維也納聯合國代表團指控美國藉助“正義懸賞”計劃招募同夥，用以襲擊伊朗核科學家和核設施，並警告任何提供相關資訊的主體，包括國際原子能機構，都可能面臨法律後果。
+
+---
+
+### 2026-11-08 03:36:09  #MKT News
+
+Office of Israel's president says Gadi Eizenkot has 28 days to form a government, extendable by up to 14 days under law if needed.
+
+---
+
+### 2026-11-08 03:34:29  #MKT News #Important
+
+Iranian Students News Agency reports explosions heard on Qeshm Island, Iran.
+
+---
+
+### 2026-11-08 03:33:36  #焦點 #國際
+
+伊朗格什姆島傳出爆炸聲。
+
+---
+
+### 2026-11-08 03:29:20  #MKT News #Important
+
+Israeli media report Israel's president has selected Netanyahu rival Gadi Eizenkot to form a new government.
+
+---
+
+### 2026-11-08 03:27:24  #焦點 #國際
+
+以色列總統選擇內塔尼亞胡的對手加迪·艾森科特組建政府。
+
+---
+
+### 2026-11-08 03:22:34  #MKT News
+
+Poland's interior minister said all signs indicate the shooter was obsessed with far-right ideology.
+
+---
+
+### 2026-11-08 03:20:06  #國際
+
+波蘭內政部長基爾溫斯基：所有跡象都表明槍手痴迷於極右翼意識形態。
+
+---
+
+### 2026-11-08 03:19:10  #MKT News
+
+Saudi civil defense lifted the danger alert for Jizan.
+
+---
+
+### 2026-11-08 03:18:09  #其他
+
+沙特民防部門表示，吉讚的危險已經過去。
+
+---
+
+### 2026-11-08 03:15:38  #國際
+
+【特朗普宣佈邀請達納·懷特擔任白宮新聞秘書】美國總統特朗普7日在社交媒體上發文說，他已邀請美國終極格鬥冠軍賽總裁達納·懷特擔任白宮新聞秘書一職。他稱懷特將會是一名“與眾不同”的新聞秘書。（新華社）
+
+---
+
+### 2026-11-08 03:11:22  #MKT News
+
+Qatar's Ministry of Foreign Affairs reiterated its firm rejection of violence, terrorism and criminal acts regardless of motive.
+
+---
+
+### 2026-11-08 03:11:05  #MKT News #Market Regions #Europe & UK
+
+Qatar's foreign ministry condemned the shooting in Poland.
+
+---
+
+### 2026-11-08 03:10:25  #MKT News
+
+Saudi civil defense issued a potential danger alert for JIZAN.
+
+---
+
+### 2026-11-08 03:09:12  #其他
+
+沙特民防部門釋出吉贊地區潛在危險警報。
+
+---
+
+### 2026-11-08 03:02:50  #MKT News #Commodities #Energy
+
+【Russian cosmonaut says nuclear power plant necessary for further lunar exploration】Andrei Babkin, deputy commander of the cosmonaut detachment at Russia’s space corporation, said a nuclear power plant on the Moon is a prerequisite for further exploration, including crewed missions, adding “without such a plant, further lunar exploration is simply impossible.” He cited the ~14-Earth-day lunar night and extreme cold as reasons nuclear is the only reliable, safe power solution. Rosatom chief Alexey Likhachev has said Russia plans to build its first lunar nuclear power plant by the mid-2030s.
+
+---
+
+### 2026-11-08 03:00:17  #MKT News
+
+Yemeni government forces said warplanes and drones struck Houthi assembly areas and vehicles in the Masrah and Mukatra areas.
+
+---
+
+### 2026-11-08 02:59:09  #其他
+
+【CoreWeave承諾在資料中心開發方面與德州候任州長合作】CoreWeave致信德克薩斯州候任州長Gina Hinojosa，承諾將與她以及該州各地社群合作，推動負責任的資料中心開發。
+
+---
+
+### 2026-11-08 02:52:33  #MKT News
+
+Yemeni government forces said they repelled an attack by Houthi forces in the Kanb area on Taiz's eastern front.
+
+---
+
+### 2026-11-08 02:51:03  #國際
+
+【特朗普斥責民主黨的調查威脅是“犯罪行為” 下令司法部立即介入】美國總統特朗普猛烈抨擊民主黨人威脅調查其政府和共和黨捐款人，並稱他已下令司法部對這些人展開調查。民主黨在中期選舉中取得決定性勝利後即將於明年1月掌控國會參眾兩院，並誓言對特朗普政府展開多項調查，警告關鍵人物要“找好律師”。特朗普批評民主黨以彈劾“威脅很多人”，稱這是“敲詐”，並表示相關人員應被追究責任，但他沒有具體說明他指的是什麼罪行。“這是更高層次的武器化和法律戰，”他在社交媒體發帖稱。“我正下令司法部立即調查這一犯罪行為！”民主黨已表示，將利用新獲得的調查權力深入調查一系列議題，包括與已故金融家傑弗裡·愛潑斯坦有關的證據，以及特朗普政府如何處理國會所要求公開檔案的審查工作。民主黨還誓言要調查特朗普的關稅、移民政策和股票交易等諸多問題。
+
+---
+
+### 2026-11-08 02:50:11  #MKT News
+
+【Trump urges reports to DOJ or him of Democrats' 'illegal threats'】President Trump renewed accusations that Democrats have issued 'unprecedented' and 'completely illegal' threats against Republican donors and party members, and urged those affected to report incidents immediately to the Department of Justice or to him personally. He said alleged perpetrators should face legal liability, including imprisonment, and urged the Senate, DOJ and House to act, warning the Senate should not be pressured to avoid Republican electoral losses or 'more serious consequences.'
+
+---
+
+### 2026-11-08 02:44:45  #國際
+
+特朗普：要求懷特帶一些助手來，“儘管有些不是我們國家的人”。
+
+---
+
+### 2026-11-08 02:43:15  #MKT News
+
+【Trump invites Dana White to be White House press secretary】President Trump invited UFC president Dana White to serve as White House press secretary and proposed recruiting fighters Islam Makhachev, Khabib Nurmagomedov, Justin Gaethje, Daniel Cormier, Amanda Nunes and Kayla Harris as aides. Trump acknowledged several of the proposed aides are not U.S. citizens and publicly urged White to accept the role.
+
+---
+
+### 2026-11-08 02:41:48  #國際
+
+特朗普：達娜·懷特已獲邀擔任白宮新聞秘書一職。
+
+---
+
+### 2026-11-08 02:41:18  #MKT News
+
+U.S. President Trump said Dana White has been invited to serve as press secretary.
+
+---
+
+### 2026-11-08 02:34:36  #國際
+
+CoreWeave致信美國得州候任州長伊諾霍薩，承諾將與其開展合作。
+
+---
+
+### 2026-11-08 02:34:14  #MKT News
+
+TASNIM NEWS reported anti-Netanyahu protests in Tel Aviv, with demonstrators demanding the government's removal and formation of a new cabinet that includes Arab parties.
+
+---
+
+### 2026-11-08 02:33:23  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7
+
+【Musk: California’s high taxes and heavy regulation push business to Texas】Musk retweeted a Wall Street Journal article titled "Musk bets his commercial empire on Texas, now local Democrats try to rein him in" and wrote that SpaceX and Tesla shifted major U.S. expansion projects and headquarters to Texas because they no longer face what he called an increasingly oppressive, extractive California state government. He added he needs to be near factories to personally oversee production.
+
+---
+
+### 2026-11-08 02:29:34  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7
+
+Musk said SpaceX and Tesla have been able to thrive in Texas because they do not have to operate under an oppressive, predatory state government.
+
+---
+
+### 2026-11-08 02:28:27  #國際
+
+以色列媒體：特拉維夫市中心爆發示威遊行，要求內塔尼亞胡政府下臺，並組建由阿拉伯政黨組成的新政府。
+
+---
+
+### 2026-11-08 02:23:21  #市場 #焦點
+
+閃迪暗盤漲超1%，現報839.845美元。
+
+---
+
+### 2026-11-08 02:16:31  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Musk said Tesla (TSLA.O) has a Cybertruck order backlog well above current production capacity; around June or July next year the company will dismantle existing production lines to expand Cybercab output.
+
+---
+
+### 2026-11-08 02:15:24  #公司
+
+特斯拉公司：我們將增加一個班次，力爭按時完成所有Cybercab訂單。
+
+---
+
+### 2026-11-08 02:15:18  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Tesla (TSLA.O) said it will add a shift and aims to complete all Cybercab orders on schedule.
+
+---
+
+### 2026-11-08 02:15:17  #其他
+
+馬斯克：特斯拉賽博卡車訂單積壓目前遠遠超過我們明年6月/7月左右為擴大賽博卡車生產而拆除生產線之前的產能。
+
+---
+
+### 2026-11-08 02:02:44  #其他
+
+土耳其拘留銀行業監管機構副主管埃裡森。
+
+---
+
+### 2026-11-08 02:00:45  #其他
+
+巴拉圭檢察官起訴前總統培尼亞，指控其背信及以權謀私。
+
+---
+
+### 2026-11-08 01:55:22  #國際
+
+【特朗普稱民主黨高層寄出威脅信件，下令司法部展開調查】美國總統特朗普聲稱收到來自“民主黨政界高層”的威脅信件，並表示他正要求司法部對此展開調查。特朗普在真實社交平臺發文稱：“這屬於最高層級的敲詐，相關人員應當為此承擔責任。”
+
+---
+
+### 2026-11-08 01:54:47  #MKT News #Important
+
+【Trump orders DOJ probe into alleged Democratic threats to use impeachment, imprisonment as political tools】President Trump ordered the Department of Justice to immediately investigate what he called Democratic threats to use impeachment and imprisonment as political weapons, accusing Democrats of targeting the attorney general and other officials and of threatening criminal penalties against Republican donors and supporters despite, he said, lacking grounds. Trump singled out Michigan Democrat Elissa Slotkin as an example of a lawmaker who has threatened to prosecute young people for espousing Republican views and urged Republicans to respond quickly.
+
+---
+
+### 2026-11-08 01:50:00  #國際
+
+【俄方批評烏“志願聯盟”舉行演習惡化局勢】俄羅斯外交部發言人扎哈羅娃7日重申，援助烏克蘭的“志願聯盟”旗下多國部隊將要舉行的演習會加劇局勢升級，俄方絕不接受在烏部署外國軍隊。（新華社）
+
+---
+
+### 2026-11-08 01:47:26  #MKT News
+
+TRUMP said Democrats are threatening many people, including the Attorney General and others, and are threatening to impeach them. He called it the highest form of extortion and said they should be held accountable.
+
+---
+
+### 2026-11-08 01:46:32  #國際
+
+特朗普：司法部將調查這起“犯罪”行為。
+
+---
+
+### 2026-11-08 01:46:05  #國際
+
+特朗普：民主黨人在威脅很多人，這是敲詐勒索。
+
+---
+
+### 2026-11-08 01:43:53  #國際
+
+【埃爾多安與特朗普通話討論地區和全球局勢】土耳其埃爾多安辦公室稱，埃爾多安與特朗普通電話，討論了地區和全球局勢。埃爾多安告訴特朗普，美伊緊張局勢應透過外交途徑解決，安卡拉將繼續為和平努力，他希望結束烏克蘭戰爭的外交努力將取得積極成果。
+
+---
+
+### 2026-11-08 01:42:51  #MKT News
+
+Erdogan told US President Trump he hopes diplomatic efforts to end the war in Ukraine will yield positive results.
+
+---
+
+### 2026-11-08 01:42:47  #MKT News
+
+Erdogan told U.S. President Trump that U.S.-Iran tensions should be resolved through diplomacy and that Ankara will continue efforts to promote peace.
+
+---
+
+### 2026-11-08 01:42:42  #MKT News
+
+Turkey's presidential office said President Erdogan spoke by phone with US President Trump to discuss regional and global developments.
+
+---
+
+### 2026-11-08 01:34:55  #MKT News
+
+【Shooting in Krakow kills six, injures 15】On Nov 7 afternoon local time a shooter opened fire from a vehicle at the Main Market Square in Krakow, southern Poland, killing six and wounding 15, regional authorities said. Several of the injured were police officers hit during an exchange of fire; one officer is in serious condition. Police returned fire and detained a suspect wearing military-style clothing and armed with a military-type weapon. Motive remains unknown.
+
+---
+
+### 2026-11-08 01:33:00  #MKT News
+
+Russian Defence Ministry said Russian air-defence forces shot down 28 Ukrainian drones in one day.
+
+---
+
+### 2026-11-08 01:27:18  #MKT News
+
+Israeli Prime Minister Netanyahu said there are plans to form a government that would include supporters of terrorism.
+
+---
+
+### 2026-11-08 01:27:11  #MKT News
+
+Israeli Prime Minister Netanyahu said he will not rush to form a new government.
+
+---
+
+### 2026-11-08 01:24:13  #MKT News
+
+Israeli Prime Minister Netanyahu called for forming a coalition government.
+
+---
+
+### 2026-11-08 01:24:08  #其他
+
+葉門胡塞武裝發言人葉海亞·薩里週六表示，使用導彈和無人機對沙烏地阿拉伯和葉門的石油和軍事目標發動了六次襲擊。
+
+---
+
+### 2026-11-08 01:23:53  #MKT News
+
+Israeli Prime Minister Netanyahu said now is the time to preserve unity.
+
+---
+
+### 2026-11-08 01:17:02  #MKT News
+
+Local authorities in Krakow, Poland reported a shooting that left 6 dead and 15 injured.
+
+---
+
+### 2026-11-08 01:14:34  #國際
+
+波蘭克拉科夫地方當局稱，槍擊事件造成6人死亡、15人受傷。
+
+---
+
+### 2026-11-08 01:13:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Houthi militia says Saudi carried out 105 airstrikes in 24 hours, dozens of civilians killed or injured】Houthi military spokesman Yahya Sarea said Saudi warplanes carried out 105 airstrikes and missile strikes over the past 24 hours, hitting civilian infrastructure in Sanaa and the provinces of Al Jawf, Taiz, Amran, Hajjah, Saada, Marib and Lahij. Sarea said strikes were conducted by F-15s and Typhoon jets based at Khamis Mushait and Taif, with additional missile attacks from Najran and Jizan. He said the attacks killed or injured dozens of civilians, mostly women and children, and that total air and missile strikes since Saudi’s latest military escalation have reached 4,369.
+
+---
+
+### 2026-11-08 01:11:10  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Houthi military spokesman Yahya Saree said the Saudi-led coalition carried out 105 airstrikes in the past 24 hours, bringing the cumulative total to 4,369.
+
+---
+
+### 2026-11-08 01:09:46  #MKT News #2914.T #Impact bearish #DXY #Impact bullish #XAUUSD
+
+Putin ordered the seizure of additional Japan Tobacco assets in Russia.
+
+---
+
+### 2026-11-08 01:08:58  #國際
+
+俄羅斯總統普京下令沒收日本菸草在俄更多資產。
+
+---
+
+### 2026-11-08 00:47:45  #國際
+
+伊朗安全負責人雷扎伊與俄羅斯總統普京於11月5日週四在克里姆林宮舉行三小時會談，商討戰略合作事宜。
+
+---
+
+### 2026-11-08 00:45:26  #MKT News
+
+【Zakharova: Plans to inflict 'strategic failure' on Russia will not succeed】Russian Foreign Ministry spokeswoman Maria Zakharova said plans to cause a 'strategic failure' for Russia are doomed to fail and that responsibility for the escalation lies with those launching new military adventures against Russia. She added that all objectives set within the framework of the special operation will be achieved.
+
+---
+
+### 2026-11-08 00:35:31  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Palestinian factions demand immediate entry to Gaza and full implementation of humanitarian protocol】Palestinian armed groups and factions said that with winter approaching the occupying power and the peace committee bear responsibility for Gaza’s humanitarian crisis. They called on the national committee to enter the Gaza Strip immediately and begin fulfilling its duties, and urged mediators and guarantors to pressure parties to ensure full implementation of the humanitarian protocol.
+
+---
+
+### 2026-11-08 00:32:42  #MKT News
+
+【Syria denies deploying troops to Yemen; says military cooperation with Saudi Arabia limited to training and consultations】Al Arabiya cited Syrian diplomatic sources saying reports that Syria deployed troops to Yemen are unfounded. Syrian-Saudi military cooperation is focused on training, skills exchange and military consultations. The agreement centers on training military forces, and Saudi Arabia will begin coordinated visits to Syria next month.
+
+---
+
+### 2026-11-08 00:32:34  #國際
+
+中國地震臺網正式測定：11月08日00時04分在日本本州島（北緯34.80度，東經137.70度）發生5.3級地震，震源深度20千米。
+
+---
+
+### 2026-11-08 00:30:10  #MKT News
+
+【Yemen government forces say 875 strikes on Houthi targets in recent hours】Al Arabiya reported the Yemeni armed forces said government troops struck Houthi positions across multiple fronts around Taiz, carrying out 875 strikes in recent hours. About 130 Houthi leaders and fighters were killed and 50 military vehicles and trucks plus one rocket launcher were destroyed, the forces said.
+
+---
+
+### 2026-11-08 00:21:52  #MKT News
+
+Japan Meteorological Agency said there is no tsunami risk from the earlier earthquake in Japan.
 
 ---
 
@@ -12108,329 +12594,5 @@ FADA: India passenger car retail sales down 14.2% YoY in October.
 ### 2026-11-06 11:29:37  #MKT News #Market Regions #Emerging Markets
 
 【Philippine Q3 agricultural output posts largest decline since 1999; rice output down sharply】Philippine agricultural output fell 5% YoY in Q3, the largest decline on record since 1999, adding pressure to the economy. Rice production dropped 17.8% YoY to 3.0 mln tonnes, hit by disrupted monsoon rains. Agriculture minister Francisco Tiu Laurel said El Nifio has altered rainfall patterns and could worsen drought, and high fertilizer costs likely contributed. He expects agricultural output to remain weak this quarter.
-
----
-
-### 2026-11-06 11:29:26  #MKT News
-
-President Trump’s Washington Arch project won critical approval from a government committee, but a judge could still block construction.
-
----
-
-### 2026-11-06 11:28:27  #公司
-
-【深深房、深紡織等成立私募股權投資基金】企查查APP顯示，近日，深圳深投控弘義一號私募股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由深深房A(000029)、深紡織A(000045)、國任財產保險股份有限公司等共同出資。
-
----
-
-### 2026-11-06 11:28:05  #市場 #國際
-
-美國原油期貨上漲1美元，至每桶91.52美元。布倫特原油期貨 <LCOc1> 上漲 1.50 美元，至每桶 99.79 美元。
-
----
-
-### 2026-11-06 11:27:34  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【Oil set for sharp weekly drop but Middle East supply worries cap declines】Foreign media report markets expect a de-escalation of conflict with Iran after Trump’s party suffered midterm losses, pushing Brent futures toward a roughly 12% weekly decline and WTI toward about 12.1%. Conflict-driven Middle East supply concerns, however, continue to underpin prices. On Friday both U.S. crude and Brent futures rose; ANZ said traders viewed Wednesday’s sell-off as overdone, prompting a rebound.
-
----
-
-### 2026-11-06 11:27:14  #其他
-
-【中國移動智慧網正式釋出 促進智慧要素融合融通】11月6日，中國移動在2026行動網路大會上正式釋出智慧網。該智慧網是與通訊網、算力網協同構建的網路化人工智慧基礎設施。作為智慧要素的“交換機”和“路由器”，中國移動智慧網透過促進智慧要素融合融通，將有效支撐上層智慧應用更加泛在普惠、敏捷高效、安全可信、韌性可靠。據悉，在Token生產方面，中國移動打造“芯合”異構超融合平臺，遮蔽底層異構硬體差異，實現主流模型在10多款主流國產晶片上跨架構遷移和部署最佳化。在Token分發方面，中國移動打造MoMA模型服務平臺，以及推理算力網路和算力池，使單位算卡Token產出的效能更高、效能更佳。在Token應用方面，中國移動創新TraaS（Trust as a service）可信服務機制，以安全可信，構建開放生態。
-
----
-
-### 2026-11-06 11:27:10  #MKT News
-
-【Iranian threats, attacks imperil Gulf aviation hubs; hundreds of billions of dollars in infrastructure at risk】Gulf states have poured hundreds of billions of dollars into building aviation hubs linking Europe and Asia, but missile and drone strikes are turning that geographic advantage into a security liability. ACLED reports airports in all Gulf states except Oman have been hit, with at least 28 incidents of projectiles striking airports or nearby areas; passenger traffic at some airports is down roughly one-third year-to-date. Houthi forces recently fired at least 20 projectiles at Riyadh international airport and Iran has threatened strikes on Gulf economic and civilian infrastructure. The attacks have led several international carriers to extend flight suspensions. Airport expansion projects are also affected: Dubai is proceeding with a $35 billion Al Maktoum expansion, with a first phase due in 2032, while Saudi Arabia’s new King Salman International Airport may be delayed and some works have been paused after Houthi strikes.
-
----
-
-### 2026-11-06 11:26:55  #公司
-
-【景旺電子註冊資本增至約10.8億元】天眼查App顯示，11月4日，深圳市景旺電子股份有限公司發生工商變更，註冊資本由約9.8億元人民幣增至約10.8億元人民幣。該公司成立於1993年3月，法定代表人為劉紹柏，經營範圍包括生產經營雙面線路板、多層線路板、柔性線路板等，由深圳市景鴻永泰投資控股有限公司、智創投資有限公司、HKSCC NOMINEES LIMITED等共同持股。
-
----
-
-### 2026-11-06 11:26:40  #其他
-
-土耳其議會批准與沙特和巴基斯坦的防務條約。
-
----
-
-### 2026-11-06 11:25:57  #公司
-
-【徐工集團產業投資發展（徐州）有限公司增資至10.47億，增幅約75%】天眼查App顯示，11月2日，徐工集團產業投資發展（徐州）有限公司發生工商變更，註冊資本由5.97億元人民幣增至10.47億元人民幣，增幅約75%。該公司成立於2020年12月，法定代表人為邵丹蕾，經營範圍包括以自有資金從事投資活動、創業投資、股權投資等，由徐州工程機械集團有限公司全資持股。
-
----
-
-### 2026-11-06 11:25:37  #公司
-
-【祥源文旅董事長王衡：文旅行業正從“養大象”式的重資產粗放投入，轉向“養大熊貓”式運營前置】11月6日，由證券時報社、安徽省人民政府駐廣州辦事處、安徽省文化和旅遊廳聯合主辦的“文旅+科技”上市公司安徽行暨國元證券投資思享匯活動在安徽合肥舉辦。祥源文旅董事長王衡在分享中表示，當前文旅消費端更看重價值匹配，“理性擇優、興趣細分、體驗優先”成為發展趨勢；供給端已從資源比拼，轉向內容創新、場景共建、長期運營的綜合能力競爭，行業正在從“養大象”式的重資產粗放投入，轉向“養大熊貓”式的IP導向、運營前置。對此，祥源文旅將不追求短期流量，堅持走價值型、可持續運營之路。
-
----
-
-### 2026-11-06 11:25:25  #其他
-
-【中奧經貿合作聯委會第29次會議在京舉行】11月5日，索鵬司長與奧地利經濟、能源和旅遊部經濟區位、創新和國際化事務司總司長弗勞舍爾在京共同主持召開中奧經貿合作聯委會第29次會議，就雙邊經貿關係、重點領域合作、兩國營商環境、共同維護多邊貿易體制等議題深入交換意見。（商務部）
-
----
-
-### 2026-11-06 11:25:08  #市場
-
-現貨黃金日內跌1%，現報4046.88美元/盎司。
-
----
-
-### 2026-11-06 11:24:13  #其他 #國際
-
-【習近平復信澳大利亞青年學生】10月28日，國家主席習近平復信澳大利亞110名青年學生，鼓勵他們繼續積極參與中澳友好事業。習近平表示，得知你們不久前來華參加“中澳青年（大學生）賽艇暨龍舟友誼賽”，同中國高校學生同場競賽、深入交流，建立了跨越國界的友誼，留下了美好的回憶，我感到很欣慰。習近平指出，中國和澳大利亞友好交往源遠流長，兩國關係的未來在青年。希望你們繼續積極參與中澳友好事業，做中澳友誼與合作的傳承者，讓中澳友好薪火相傳、生生不息。近日，來自悉尼大學等高校的110名澳大利亞青年學生聯名致信習近平主席和澳大利亞總理阿爾巴尼斯，介紹來華參訪交流經歷，表達對中國悠久歷史文化、科技創新能力的欽佩和傳遞中澳友誼、增進相互瞭解的積極願望。（新華社）
-
----
-
-### 2026-11-06 11:23:53  #公司
-
-【縱橫通訊新設子公司 含電子元器件業務】企查查APP顯示，近日，廈門縱駿推科技有限公司成立，經營範圍包含電子元器件批發；電子元器件零售；計算機軟硬體及輔助裝置零售；計算機軟硬體及輔助裝置批發等。企查查股權穿透顯示，該公司由縱橫通訊全資持股。
-
----
-
-### 2026-11-06 11:23:47  #公司 #市場
-
-【哪吒汽車新增被執行人資訊，執行標的逾1.1億元】天眼查法律訴訟資訊顯示，近日，哪吒汽車關聯公司合眾新能源汽車股份有限公司新增2則被執行人資訊，執行標的1.1億餘元人民幣，執行法院分別為廣西壯族自治區南寧市中級人民法院、溫州市甌海區人民法院。
-
----
-
-### 2026-11-06 11:23:34  #宏觀 #公司
-
-【規範機票退改簽，京津冀三地消協組織敦促10家航司、5家平臺限期整改】據北京市場監管局，為規範航空售票服務秩序，切實維護消費者合法權益，依據《中華人民共和國消費者權益保護法》《中華人民共和國消費者權益保護法實施條例》賦予的職責，11月6日，京津冀三地消協組織召開機票退改簽調查結果通報會，中國國際航空、中國南方航空、中國東方航空、海南航空、廈門航空、四川航空、天津航空、吉祥航空、春秋航空、河北航空等10家航空公司，以及攜程、去哪兒、飛豬、同程旅行、途牛等5家線上售票平臺參會，京津冀三地消協組織敦促相關企業全面自查，於12月10日前反饋整改情況。據瞭解，京津冀三地消協組織於今年9月啟動機票退改簽專項調查，透過線上問卷、體驗式調查與案例徵集相結合的方式，對退改簽環節進行深入梳理，針對調查發現的問題，敦促相關企業就退改簽規則公示不明顯、收費行為不規範、維權保障不充分等方面進行整改。
-
----
-
-### 2026-11-06 11:23:21  #Trading Economics #Economy #Thailand #Inflation Rate #Importance 2
-
-Thailand Inflation Climbs to Over 3-Year High — Thailand’s annual inflation rate surged to 3.9% in October 2026 from 2.82% in September, exceeding market expectations of 3.33% and breaching the Bank of Thailand’s 1%-3% target range for the first time in more than three years. The reading marked the highest level since January 2023. The acceleration was driven largely by higher oil prices and flood-related increases in food costs, reflecting elevated raw material costs and the impact of the conflict in the Middle East. Meanwhile, annual core inflation rose to 1.58% from 1.50% in September, remaining its highest level since May 2023 but remaining slightly below market forecasts of 1.6%. Despite mounting price pressures, the Bank of Thailand expects the inflation surge to be temporary, with Governor Vitai Ratanakorn indicating that the current 1% policy rate remains appropriate amid subdued domestic demand.
-
----
-
-### 2026-11-06 11:22:57  #市場 #國際
-
-【國債期貨拉昇 30年期主力合約漲0.3%】國債期貨拉昇，30年期主力合約盤中漲0.30%，現報118.760元。10年期漲0.07%，現報110.24元。5年期漲0.02%，現報106.905元。2年期漲0.01%，現報102.688元。
-
----
-
-### 2026-11-06 11:22:49  #公司
-
-【本田中國10月汽車銷量同比暴跌52.2%】本田中國發布公告稱，10月汽車銷量為28,652輛，同比下降52.2%。1-10月累計銷量達311,835輛，同比下降40.9%。
-
----
-
-### 2026-11-06 11:21:43  #公司 #國際
-
-【ST萬邦：WP107多劑量爬坡臨床研究完成首個佇列入組】11月5日，ST萬邦對外宣佈，WP107（石杉鹼甲口服溶液）多劑量爬坡臨床研究完成首個佇列入組。WP107是公司創新藥研發團隊基於石杉鹼甲注射液已有臨床資料自主研發的新型口服溶液劑型，為中美雙報品種。專案已獲美國FDA授予的孤兒藥認定，並獲得溫州醫科大學附屬第二醫院/溫州醫科大學附屬育英兒童醫院醫學倫理委員會的審查批件。此次國內首個佇列入組完成，是這一國際化開發鏈條向前邁進的又一步伐。
-
----
-
-### 2026-11-06 11:21:34  #其他
-
-【券商佣金調整投訴高居不下 追溯退還訴求成處置難點】記者瞭解到，監管最新下發了券商第三季度投訴處理情況。今年前三季度，券商共收到客戶投訴25919件，其中佣金調整及稅費相關投訴合計4355件，投訴情況逐季有所降溫，但仍是投訴的主要問題。從訴求看，二季度投訴主要涉及佣金調整申請未及時處理、稅費收取標準不透明、佣金費率爭議；三季度佣金糾紛主要與歷史成因有關，部分老牌營業部存量客戶早期佣金費率標準相對偏高，投資者經同業對比後牴觸情緒強烈；亦有投資者以現階段市場佣金水平衡量早年開戶費率，要求機構主動下調並追溯退還差額，此類訴求超出合規調整空間，溝通安撫難度較大。此外，信用賬戶佣金費率問題成為新的投訴增長點，個別投資者已簽署佣金調整協議但系統未及時設定，引發“承諾未兌現”爭議。 (財聯社)
-
----
-
-### 2026-11-06 11:20:17  #MKT News #Market Regions #Greater China
-
-【Novartis: China becoming a global first‑launch market for breakthrough therapies】Nov 6 — Novartis showcased investigational immunology drug Ianalumab at the 9th China International Import Expo, presenting clinical progress in Sjögren’s syndrome and marking the drug’s first China exhibition. Gao Rong, head of Novartis drug development in China, said the company is positioning China as a global first‑launch market for its breakthrough therapies.
-
----
-
-### 2026-11-06 11:19:13  #公司
-
-【諾華：中國正成為公司突破性療法的全球首發市場】11月6日，諾華在第九屆進博會上首次展出免疫領域創新在研藥物Ianalumab，透過“中國首展”呈現諾華在乾燥綜合徵領域的相關研究進展。諾華藥品開發部中國區負責人高蓉表示，進博會為公司展示全球創新成果提供了絕佳平臺，中國正在成為諾華突破性療法的全球首發市場。
-
----
-
-### 2026-11-06 11:17:33  #其他
-
-【境外銀行卡直刷繳稅在深圳落地】5日，深圳海關聯合交通銀行深圳分行研發的智慧繳稅終端上線，實現境外銀行卡直接刷卡繳稅、稅款直達國庫。當日，皇崗口岸成功完成首筆進境物品稅外卡直繳入庫，標誌著深圳海關旅檢渠道進境物品稅外卡徵繳便利化改革正式落地。（新華社）
-
----
-
-### 2026-11-06 11:17:02  #公司
-
-【雲圖控股：預計明年磷酸鐵行業發展具備較強韌性】雲圖控股(002539)11月5日接受機構調研時表示，從需求端來看，隨著新能源汽車市場和儲能市場的持續擴容，磷酸鐵鋰電池需求有望保持增長，從而帶動上游磷酸鐵需求增加。供給端方面，目前磷酸鐵市場呈現緊平衡狀態。總體來說，預計明年磷酸鐵行業發展具備較強韌性，但行業供給及市場競爭情況也值得關注和跟蹤。公司將充分發揮磷化工一體化產業鏈優勢，持續做好產品質量管理和客戶開發工作，把握行業發展機遇。
-
----
-
-### 2026-11-06 11:16:25  #MKT News #Market Regions #Greater China
-
-【China patent transfer and licensing filings hit 496,000 in first three quarters】China's National Intellectual Property Administration said its three-year campaign to boost patent commercialization is producing results: patent transfer and licensing filings reached 496,000 in the first three quarters, up 7.1% YoY, with filings by universities and research institutes up 20.3% YoY. Total imports and exports of IP royalties reached 331.59 bln yuan. In WIPO's 2026 Global Innovation Index, China is in the global top ten for a second consecutive year and leads all countries for the fourth year in the number of top-100 innovation clusters.
-
----
-
-### 2026-11-06 11:16:18  #公司 #國際
-
-【美國作出N-環己基苯並噻唑-2-亞磺醯胺（CBS）反傾銷初裁】11月4日，美國商務部發布公告，對進口自中國的N-環己基苯並噻唑-2-亞磺醯胺（CBS）（N-Cyclohexylbenzothiazole-2-Sulfenamide (CBS)）作出反傾銷初裁，初步裁定中國生產商/出口商傾銷幅度為285.94%（抵消補貼後的保證金為281.69%）。美國商務部預計將於2027年1月12日作出反傾銷終裁。本案主要涉及美國海關編碼2934.20.8000項下產品。2026年5月28日，美國商務部對進口自中國的N-環己基苯並噻唑-2-亞磺醯胺（CBS）發起反傾銷和反補貼調查。（中國貿易救濟資訊網）
-
----
-
-### 2026-11-06 11:15:23  #公司
-
-【波音與Avolon完成140架737-10飛機訂單】11月6日，波音公司宣佈與Avolon完成飛機租賃公司有史以來最大的一筆單通道飛機訂單，涵蓋140架737-10飛機，也使Avolon的737 MAX儲備訂單總量超過240架。據瞭解，737-10最多可搭載230名乘客，航程可達5740公里（3100海里）。
-
----
-
-### 2026-11-06 11:14:58  #MKT News
-
-FTSE Straits Times Index losses narrowed to 2.2%.
-
----
-
-### 2026-11-06 11:14:57  #其他
-
-【前三季度全國專利轉讓許可備案次數達49.6萬次】從第十五屆中國國際專利技術與產品交易會開幕式上瞭解到，國家智慧財產權局深入實施專利轉化運用三年專項行動，著力推進專利轉化運用機制化、常態化、長效化，取得明顯成效。今年前三季度，全國專利轉讓許可備案次數達49.6萬次，同比增長7.1%。其中，高校、科研院所同比增長20.3%。我國智慧財產權使用費進出口總額達到3315.9億元，繼續保持穩定增長。在世界智慧財產權組織釋出的《2026年全球創新指數報告》中，中國連續第二年躋身全球前十，擁有的全球百強創新叢集數量連續四年位居各國之首。據瞭解，第十五屆中國國際專利技術與產品交易會以“專利鏈通創新、轉化釋放價值”為主題，初步統計，本屆專交會共有近400家單位的展品參展，其中專利金獎獲獎單位就有40家，首發首展的原創性成果有50多件，參展單位數量、專利技術與產品的成色、潛在的市場價值均創歷史新高。
-
----
-
-### 2026-11-06 11:14:37  #市場
-
-新加坡富時海峽時報指數縮減早前跌幅；最新下跌2.2%，報5178.21點。
-
----
-
-### 2026-11-06 11:14:26  #其他
-
-幣安：繼續推進恢復提現服務的進展，將從協調世界時間 04:00 開始重新開放更多資產的提現。
-
----
-
-### 2026-11-06 11:12:26  #Trading Economics #Economy #Indonesia #Foreign Exchange Reserves #Importance 1
-
-Indonesia Forex Reserves Largest in 7 Months — Indonesia’s foreign exchange reserves slightly increased to USD 146.8 billion in October from USD 146.3 billion in the previous month. It was the highest level of foreign exchange reserves since March, supported by government external loan withdrawals and tax and service revenues. However, the increase was partly offset by repayments of maturing government foreign debt and Bank Indonesia’s rupiah stabilization measures in response to persistent uncertainty in global financial markets. The reserve assets were equivalent to 5.3 months of imports, or 5.2 months of imports and government external debt servicing, well above the international adequacy benchmark of around three months of imports. Looking ahead, Bank Indonesia expects external sector resilience to remain solid, supported by ample foreign exchange reserves and sustained foreign capital inflows.
-
----
-
-### 2026-11-06 11:12:12  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish #USDJPY
-
-【Tech sell-off spurs foreign inflows, supports Indian rupee】Foreign inflows returned to India after months of outflows, supporting the Indian rupee as a tech-sector sell-off redirected capital into the market. Week-to-date the rupee is up 0.5%; intraday on Thursday it hit 94.32, a two-week high, before settling at 94.4750. The currency had been under pressure for most of the year and has relied on central bank intervention for support. This week two prior drags — oil prices and equity flows — eased, giving the rupee some relief. Global funds’ earlier rotation into AI-related assets had sidelined Indian equities; the recent reversal of that trade has helped draw foreign buying back into India.
-
----
-
-### 2026-11-06 11:11:44  #其他
-
-【南方電網398家資料中心電量同比增長超兩成】從南方電網獲悉，今年1-10月，南方電網經營區域的398家資料中心售電量達157億千瓦時，同比增長25.6%。（一財）
-
----
-
-### 2026-11-06 11:11:42  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slipped below $4,050/oz, down nearly 1% on the day.
-
----
-
-### 2026-11-06 11:11:30  #市場 #焦點
-
-現貨黃金失守4050美元/盎司，日內跌0.99%。
-
----
-
-### 2026-11-06 11:11:20  #其他
-
-【鴻蒙電腦發貨量超百萬臺 鴻蒙電腦生態已有2.1萬款應用】記者從鴻蒙辦公產業峰會上獲悉，截至目前，鴻蒙電腦發貨量已突破百萬臺，生態應用突破2.1萬款，鴻蒙電腦應用生態正加速佈局，從高頻辦公場景走向AI、設計、程式設計、金融等專業場景。（證券時報）
-
----
-
-### 2026-11-06 11:11:13  #市場 #焦點
-
-紐約期金失守4060美元/盎司，日內跌1.32%。
-
----
-
-### 2026-11-06 11:11:06  #其他
-
-本田中國10月份汽車銷量同比下降52.2%至28,652輛。
-
----
-
-### 2026-11-06 11:10:08  #國際
-
-特朗普將於週五美國東部時間下午6點在佛羅里達州發表講話。
-
----
-
-### 2026-11-06 11:09:29  #公司
-
-【安科生物：參股公司阿法納生物完成5000萬美元A輪融資首關】據安科生物訊息，近日，公司參股公司合肥阿法納生物科技有限公司（簡稱“阿法納生物”）宣佈完成A輪融資首關。A輪融資總規模為5000萬美元，首關由國中資本領投，合肥產投集團旗下生命健康公司、產投國正，安徽策源產業投資有限公司聯合領投，合肥產投集團旗下創業投資引導基金公司追加投資，南京鴻景、深圳久榮、上海欽荔跟投。本輪融資將主要用於加速阿法納生物in vivoCAR-T、腫瘤疫苗等核心管線的高效推進，持續迭代TALENT技術平臺，並進一步加強公司在CMC、註冊開發及產業化等方面的綜合能力，加快具有全球競爭力的創新療法進入臨床及後續開發階段。
-
----
-
-### 2026-11-06 11:08:55  #其他
-
-【國家發展改革委：“十五五”時期 我國糧食安全有堅實保障】從國家發展改革委今天舉行的“奮進‘十五五’”系列新聞釋出會上瞭解到，國內糧食市場供應充足、執行平穩，“十五五”時期我國的糧食安全有堅實保障。國家發展改革委經濟貿易司副司長寇榮表示，我國糧食連年豐收，做到了“穀物基本自給、口糧絕對安全”，人均糧食佔有量超500公斤，高於世界平均水平和國際公認的糧食安全線。全社會糧食庫存消費比遠高於17%～18%的國際糧食安全警戒線。下一步，將進一步抓好糧食生產、最佳化生產結構，加強糧食購銷和儲備管理，強化儲備調節功能，推進糧食流通提質增效。建立穩定可控的海外供應渠道，適度進口緊缺優質品種，把中國人的飯碗牢牢端在自己手中。
-
----
-
-### 2026-11-06 11:07:59  #其他
-
-【曹操出行接入中國移動12580個人智慧助理】曹操出行宣佈接入中國移動12580個人智慧助理，成為中國移動首個打車生態合作伙伴。使用者可透過自然語言發起打車需求，在12580個人智慧助理內完成行程確認、車型及價格選擇、車費結算等操作，無需跳轉至其他應用。據介紹，此次合作為雙方首期試點，曹操出行透過A2A協議接入中國移動靈犀主控，後續計劃拓展至更多中國移動生態入口。目前，曹操出行的打車服務已接入豆包手機助手、榮耀YOYO、OPPO小布、千問AI眼鏡等AI終端及應用。
-
----
-
-### 2026-11-06 11:07:21  #公司
-
-【雲意電氣等投資成立羿芯能源科技公司】企查查APP顯示，近日，江蘇羿芯能源科技有限公司成立，經營範圍包含合同能源管理；新興能源技術研發；新型陶瓷材料銷售；特種陶瓷製品銷售等。企查查股權穿透顯示，該公司由雲意電氣等共同持股。
-
----
-
-### 2026-11-06 11:06:37  #公司
-
-【寧德時代電池壽命預測專利獲授權】天眼查智慧財產權資訊顯示，11月3日，寧德時代新能源科技股份有限公司申請的“電池的健康狀態確定方法、壽命預測方法、裝置和系統”專利獲授權，授權公告號為CN122307376B，申請日期為2026年5月29日。專利摘要顯示，該方法獲取車輛執行過程中的電池狀態資料，包括多個時間戳對應的實測電壓，結合電池標稱資料和電化學模型，確定使實測電壓與模型模擬電壓之間誤差最小的多個電池單體的目標電化學引數值，涉及電池健康狀態評估及壽命預測。
-
----
-
-### 2026-11-06 11:06:24  #Trading Economics #Markets #Japan #Government Bond 10Y #Importance 2
-
-Japan 10-Year Bond Yield Drops to Four-Month Low — Japan’s 10-year government bond yield fell to around 2.67% on Friday, reaching its lowest level in four months as a deepening global equity selloff spurred safe-haven demand for government bonds. The decline followed a sweeping Democratic victory in the US midterm elections, which heightened concerns over stricter oversight of the artificial intelligence industry and a possible slowdown in data center expansion. Investors also expect Democrats to push for an end to the conflict with Iran, potentially putting downward pressure on oil prices and easing inflationary concerns. Domestically, minutes from the Bank of Japan’s September meeting reinforced expectations of further interest rate hikes. One board member indicated that the central bank could accelerate monetary tightening while evaluating the impact of developments in the Middle East, growing AI-related demand and foreign exchange movements.
-
----
-
-### 2026-11-06 11:04:21  #公司 #市場
-
-【農業板塊再度拉昇 新賽股份漲停】農業板塊盤中再度拉昇，新賽股份漲停，此前萬向德農3天2板，秋樂種業、天山生物漲超10%，康農種業、神農種業、敦煌種業、金健米業均漲超6%。
-
----
-
-### 2026-11-06 11:04:15  #國際
-
-日本2026年電動汽車年銷量首次突破10萬輛。
-
----
-
-### 2026-11-06 11:04:12  #MKT News #Market Regions #Japan & APAC
-
-Kyodo reported Japan’s annual electric vehicle sales in 2026 exceeded 100,000 units for the first time.
-
----
-
-### 2026-11-06 11:04:02  #市場 #國際
-
-10年期國債“26附息國債16”收益率下行0.95bp報1.5790%，續創歷史新低。30年期國債“26超長特別國債04”收益率下行1.45bp報2.0360%。國債期貨30年期主力合約一度上漲0.35%。
-
----
-
-### 2026-11-06 11:03:02  #MKT News #Important #Market Regions #Greater China
-
-Taiwan Stock Exchange Weighted Index narrows losses, currently down 3.1%.
-
----
-
-### 2026-11-06 11:02:39  #其他
-
-【上海安踏營運中心正式啟用，近2000名員工將分批入駐】11月6日，上海安踏營運中心正式啟用。上海安踏營運中心位於上海西虹橋商務區核心區域，毗鄰國家會展中心，總建築面積約14.5萬平方米。園區內濱河綠地休閒區和下沉廣場將對外開放，後續還計劃建設上海安踏體育園。從即日起，近2000名員工將從上海原來分散的辦公地點分批匯集入駐園區。
-
----
-
-### 2026-11-06 11:02:39  #MKT News
-
-【Thailand inflation 3.9% in Oct, first breach of BOT target upper bound in over three years】Thailand Oct CPI rose 3.9% YoY, up from 2.82% in Sep and above economists' median 3.33%, driven by higher international oil prices and flood-related food costs. The print exceeds the BOT's 1–3% target range for the first time in more than three years, complicating the central bank's policy outlook. BOT is maintaining a low policy rate to support still-weak domestic demand and says the inflation spike appears temporary and does not yet justify an immediate hike. The governor added the BOT would raise rates if growth accelerates and inflation surprises on the upside, while calling the current 1% policy rate appropriate.
 
 ---

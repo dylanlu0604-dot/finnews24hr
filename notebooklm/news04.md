@@ -1,7 +1,535 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-11-08 00:21:00_
-_本檔包含 2315 則快訊，約 432643 字_
+_更新時間：2026-11-08 04:26:41_
+_本檔包含 2374 則快訊，約 431795 字_
+
+---
+
+### 2026-11-04 06:45:55  #Trading Economics #Economy #Australia #Industry Index Manufacturing #Importance 1
+
+Australian Manufacturing Index Weakens in October — The Australian Ai Group Manufacturing Index fell by 13.4 points to -20.1 in October 2026, reversing the previous month’s gains. The sector faced weaker demand, rising input costs, labour shortages, shipping delays and overseas competition. Downstream manufacturers were particularly affected by weakening consumer demand. Cost pressures intensified as higher fuel prices filtered through supply chains. However, subdued market conditions limited manufacturers’ ability to pass on these costs, squeezing margins. The machinery and equipment index plunged 25 points to -43.2, its lowest level on record. Food and beverage fell 28 points to -13.6, although it has remained relatively stable at around -10 over the past year on a trend basis. Upstream, the chemicals index improved 10.3 points to -2.9, its strongest reading in two years, supported by increased domestic and overseas orders. The metals index rose 4.8 points to -22.2 amid stronger demand and increased pre-Christmas ordering.
+
+---
+
+### 2026-11-04 06:45:28  #MKT News #Hang Seng Index #Impact bearish #CSI300 #CNH
+
+【October China Warehousing Index at 49.8】The China Federation of Logistics and Purchasing released October's China Warehousing Index today. The index edged up 0.1 percentage point to 49.8 but remained below the 50 expansion/contraction line for a third consecutive month, with activity hovering near the threshold and demand conditions described as needing consolidation.
+
+---
+
+### 2026-11-04 06:45:17  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Increases by 2.46% — Top crypto gainers are XRP (2.46%), Ether (1.80%) and Bitcoin (1.37%).
+
+---
+
+### 2026-11-04 06:42:59  #市場
+
+【券商11月A股策略：低位修復與業績確定性成配置主線】隨著10月行情收官、三季報披露結束，券商11月投資策略陸續出爐。10月市場經歷調整後，多家券商對11月行情的判斷逐漸趨於積極，認為經過調整，市場估值壓力和情緒壓力有所釋放，超跌反彈條件正在改善。但市場能否形成持續性反彈，仍取決於增量資金入場和產業催化能否進一步兌現。從券商11月策略和10月券商調研情況等方向看，市場配置思路正由偏防禦逐步轉向攻守兼備。一方面，低估值、業績相對穩定的板塊受到關注；另一方面，電子、機械裝置、醫藥生物等行業成為機構密集調研的重點。低位修復、業績兌現和政策催化，成為機構佈局11月行情的重要線索。（中證報）
+
+---
+
+### 2026-11-04 06:41:43  #公司
+
+【銀行三季報裡的結構之變：對公貸款“挑大樑”，重點領域加速跑】A股上市銀行三季報披露已收官，前三季度貸款投放“成績單”隨之揭曉。Wind資料顯示，截至9月末，有39家上市銀行貸款總額較上年末實現正增長，其中超20家增速超過5%。比總量增長更值得關注的是貸款結構變化：個人貸款增勢趨緩，公司貸款成為拉動貸款整體增長的主引擎。與此同時，信貸“降速提質”特徵逐步顯現，銀行正加快從規模擴張轉向量價險平衡發展。（中證報）
+
+---
+
+### 2026-11-04 06:41:37  #市場
+
+【港股估值吸引力提升，11月市場聚焦盈利改善】10月港股市場結構分化明顯，Wind資料顯示，恒生科技指數單月下跌11.73%，科技成長板塊波動加大，南向資金同期出現階段性淨流出。多家券商11月策略認為，隨著估值壓力釋放、海外利率擾動逐步被消化，港股後續表現將更多取決於企業盈利改善與估值匹配，市場關注點正從主題預期轉向盈利兌現，風格再平衡與結構性機會成為共識。（中證報）
+
+---
+
+### 2026-11-04 06:40:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Sugar Drops by 3.77% — Top commodity losers are Sugar (-3.77%), Coffee (-2.80%) and Palm Oil (-2.11%). Gains are led by Butter (2.43%) and Rice (0.63%).
+
+---
+
+### 2026-11-04 06:39:11  #國際
+
+伊朗將11月銷往亞洲的輕質原油價格定為較阿曼/迪拜均價貼水6.90美元/桶（10月為貼水4.55美元/桶）。
+
+---
+
+### 2026-11-04 06:39:05  #MKT News
+
+【UN elects five judges to International Court of Justice】Nov 3 — The UN General Assembly and Security Council separately voted to elect five judges to the International Court of Justice for nine-year terms beginning Feb. 6, 2027. UK candidate Dapo Akande, France candidate François Alabruna, Jordan candidate Mahmoud Hammoud and Singapore candidate Chen Huijing won election in the first round. The fifth seat required multiple ballots after Sierra Leone, South Korea and Ecuador withdrew their nominees; Kenya candidate Phoebe Okowa secured the absolute majority in both bodies and was re-elected.
+
+---
+
+### 2026-11-04 06:38:45  #其他
+
+市場訊息：正在商討的方案顯示，CVS 將分拆其零售藥房業務。
+
+---
+
+### 2026-11-04 06:37:36  #公司 #資料 #市場 #央行 #國際
+
+【週三重要財經資訊提醒（以下均為北京時間）】
+① 時間待定 蘋果Apple智慧接入阿里千問，開放測試；半導體封測年會將舉行，多家上市公司參會；
+② 09:45 中國10月RatingDog服務業、綜合PMI；
+③ 13:00 印度10月服務業、綜合PMI終值；
+④ 時間待定 以色列議會選舉投票最終結果正式公佈；
+⑤ 16:50 法國10月服務業、綜合PMI終值；
+⑥ 16:55 德國10月服務業、綜合PMI終值；
+⑦ 17:00 歐元區10月服務業、綜合PMI終值；
+⑧ 17:30 英國10月服務業、綜合PMI終值；
+⑨ 18:00 歐元區10月CPI初值；
+⑩ 美股盤前 格羅方德半導體（格芯）、Circle Internet、優步、麥當勞等釋出業績報告；
+⑪ 21:15 美國10月ADP就業人數（小非農）；
+⑫ 21:20 歐洲央行首席經濟學家Lane講話；
+⑬ 21:30 美國9月貿易帳，加拿大9月貿易帳；
+⑭ 22:45 美國10月標普全球服務業、綜合PMI終值；
+⑮ 23:00 美國10月ISM非製造業指數；
+⑯ 23:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；
+⑰ 次日02:45 歐洲央行管委兼法國央行行長Moulin講話；
+⑱ 美股盤後 高通、Arm控股、高意公司/相干公司Coherent、Applovin釋出業績報告。
+
+---
+
+### 2026-11-04 06:37:01  #Trading Economics #Economy #Australia #Industry Index #Importance 2
+
+Australia Industry Index Remains Under Pressure — The Australian Industry Index rose 6.4 points to -19.1 in October 2026 from September, indicating a slight improvement in business conditions, although the index remained firmly in negative territory. Activity, employment, new orders and input indicators all improved modestly but continued to signal weak conditions. Activity remained constrained by subdued sales, weaker demand and fewer orders, despite some improvement ahead of Christmas. Cost pressures intensified as higher fuel prices continued to feed through supply chains. However, weak market conditions have limited businesses’ ability to pass these costs on, putting further pressure on margins. Manufacturing remained particularly affected by rising costs, with no clear signs of recovery. Downstream manufacturers faced additional challenges from a weakening consumer economy. Business services and construction also improved in October compared with September, but conditions in both sectors remained weak by historical standards.
+
+---
+
+### 2026-11-04 06:36:22  #市場
+
+【機構間REITs擴容提速，保險理財資金踴躍佈局】近日，上海證券交易所舉辦了機構間REITs業務專題培訓會。據悉，此次培訓聚焦機構間REITs業務宣介與培育，有望進一步激發市場主體活力。隨著機構間REITs市場規模持續擴容，該類資產獲得越來越多機構投資者的青睞。記者調研發現，機構間REITs正吸引險資和理財資金積極配置。今年以來，機構間REITs的發行數量和發行規模已超過去年全年。預期收益率較高、估值較穩定、條款機制較靈活等特點，與配置型資金的需求較為匹配。另外，久期匹配、風險因子較低等特點，也成為險資偏愛機構間REITs的重要原因。（中證報）
+
+---
+
+### 2026-11-04 06:35:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Aluminum Alloy Drops by 2.58% — Top commodity losers are Aluminum Alloy (-2.58%), Platinum (-2.48%), Copper (-2.39%) and Gold (-0.39%).
+
+---
+
+### 2026-11-04 06:33:12  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Iran set its November light crude official selling price to Asia at a $6.90/bbl discount to the Oman/Dubai average, versus a $4.55/bbl discount in October.
+
+---
+
+### 2026-11-04 06:32:47  #市場
+
+【FOF三季度持倉曝光：債券ETF成壓艙石，黃金主題獲青睞】基金2026年三季報披露完畢，作為“專業買手”，以資產配置見長的基金中基金（FOF）最新持倉路徑浮出水面。梳理發現，三季度FOF的底層資產結構發生顯著變化：債券ETF憑藉其高流動性和透明度，取代部分傳統純債基金成為核心底倉，獲FOF重倉數量及市值均位居前列；與此同時，基金經理對黃金的配置熱情明顯回升，重倉相關主題產品的數量攀升，此前備受追捧的科創主題基金則出現降溫跡象，資金避險與防禦特徵凸顯。（中證報）
+
+---
+
+### 2026-11-04 06:32:04  #央行 #國際
+
+【歐洲央行管委Kocher：若經濟狀況不變 12月存在加息可能】歐洲央行管委Martin Kocher表示，如果經濟狀況保持不變，央行年內可能再次加息。Kocher接受奧地利公共廣播機構ORF採訪時表示：“如果形勢沒有變化，如果價格維持在當前水平，而且沒有其他變化，那麼今年年底前可能加息。”這位奧地利央行行長的言論與德國央行行長Joachim Nagel週二早些時候的表態相呼應。Nagel表示，能源成本反覆飆升增加了其他價格受到連帶影響的風險，因此可能在12月進一步收緊貨幣政策。
+
+---
+
+### 2026-11-04 06:30:54  #公司
+
+AMD執行長蘇姿豐：需求仍然大於供應。
+
+---
+
+### 2026-11-04 06:30:44  #公司
+
+AMD執行長蘇姿豐：對未來數年的營收增長抱有強烈信心。
+
+---
+
+### 2026-11-04 06:30:37  #MKT News #AMD.O
+
+AMD (AMD.O) CFO expects Q4 non-GAAP operating expenses of about $3.75 billion.
+
+---
+
+### 2026-11-04 06:30:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Methanol Drops by 3.28% — Top commodity losers are Methanol (-3.28%), Propane (-1.09%), Coking Coal (-0.96%) and Brent Oil (-0.33%). Gains are led by Heating Oil (3.15%), Germany Natural Gas THE (2.17%), Gasoline (1.74%) and Crude Oil (0.31%).
+
+---
+
+### 2026-11-04 06:29:25  #Trading Economics #Economy #New Zealand #Unemployment Rate #Importance 1
+
+New Zealand Unemployment Rate Rises to 5.7% — New Zealand’s seasonally adjusted unemployment rate edged up to 5.7% in the third quarter of 2026 from 5.6% in the previous quarter, exceeding market expectations of 5.5%. The number of unemployed people reached 174,000, while the underutilisation rate remained unchanged at 13.8%. The employment rate stood at 66.4%. Most employed people were paid employees working in permanent roles. Over the quarter, the share of part-time workers increased, contributing to declines in both usual and actual hours worked. Annual wage inflation was 2.1%, while average ordinary-time hourly earnings stood at NZ$44.86.
+
+---
+
+### 2026-11-04 06:29:03  #央行 #公司 #市場 #國際
+
+【11月4日隔夜要聞一覽】
+1、美國和伊朗之間的談判陷入僵局。
+2、以色列向美國情報官員發出警告，稱伊朗可能準備使用化學武器，但這一說法在特朗普政府內部引發巨大分歧。
+3、伊朗要求美明確回應7項條件，否則不開放霍爾木茲海峽。
+4、中際旭創回應關於一些海外客戶下修需求或砍單的傳言：絕大部分客戶未下修需求或訂單，個別客戶存在產品結構性調整，還有部分客戶1.6T需求甚至較此前還有所增加。
+5、投資者對Meta美元債券發行的認購訂單高達580億美元，預計此次發行規模至少為150億美元。
+6、AMD財報超出華爾街預期，營收同比增長45%，資料中心銷售額較上年同期近乎翻倍。盤後大漲7%。
+7、國際油價3日微跌，WTI原油下跌37美分，收於每桶96.09美元，跌幅為0.38%；布倫特原油下跌1.17美元，收於每桶103.60美元，跌幅為1.12%。
+8、奈飛上線AI Discover功能，可根據觀看心情、主創班底或者可用時長來幫使用者查詢內容。
+9、法國央行或下調2026年增長預測，目前預測是今年經濟增長0.4%。
+
+---
+
+### 2026-11-04 06:27:48  #國際
+
+AMD首席財務官：預計第四季度非美國通用會計準則運營費用約為37.5億美元。
+
+---
+
+### 2026-11-04 06:27:11  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
+
+SEC filing shows Meta Platforms (META.O) priced a five-tranche $15 billion senior notes offering.
+
+---
+
+### 2026-11-04 06:26:55  #其他
+
+Meta Platforms：分五批發行150億美元高階票據。
+
+---
+
+### 2026-11-04 06:26:19  #MKT News #NZDUSD #Impact bearish
+
+【New Zealand unemployment highest since mid-2015 ahead of election】New Zealand unemployment rose to 5.7% in Q3 from 5.6% in Q2, versus economists’ expectation of 5.5%. Part-time employment increased by 15,000 while full-time employment fell by 17,000; labour underutilisation held at 13.8% and the employment rate slipped to 66.4% from 66.7%. Released Wednesday ahead of Saturday’s closely contested election, the data runs counter to market expectations and supports the RBNZ’s recent caution on further hikes. The RBNZ MPC voted 4-3 to hold the OCR at 2.75% days earlier, though Governor Anna Breman signalled the possibility of additional rate increases; money markets had largely priced in further tightening.
+
+---
+
+### 2026-11-04 06:23:16  #公司
+
+【今年前三季度A股股份行增速掉隊】A股上市銀行三季報已全部披露完畢，一組資料勾勒出行業圖景，也折射出股份行面臨的挑戰——統計發現，今年前三季度，9家A股上市股份行的營業收入合計同比增長3.80%，歸母淨利潤同比下降2.80%，是所有型別上市銀行中唯一淨利潤負增長的群體。這意味著，股份行不僅明顯落後於國有大行，也未能跟上部分優質城商行的增長步伐。在分析人士看來，股份行經營承壓，既有宏觀環境變化帶來的行業性影響，也與自身經營有關。淨息差收窄是全行業面臨的共性問題。廣發證券研報顯示，前三季度，淨息差對股份行和農商行延續拖累，而城商行和國有行淨息差對業績貢獻轉正。（上證報）
+
+---
+
+### 2026-11-04 06:20:49  #公司 #觀點
+
+【券商投行業務結構性回暖】今年前三季度，上市券商投行業務手續費淨收入整體復甦，但呈現頭部恆強與尾部承壓並行的格局。多位受訪專家認為，本輪投行復蘇是政策深化、結構升級與週期共振三重邏輯疊加的持續性修復，行業正從“通道投行”走向“產業投行”。在總量回暖的表象下，一場圍繞專案體量、專業能力和收入結構的深層洗牌正在加速。中金公司以53.14億元的投行淨收入穩居榜首，同比大增80.71%。這一斷層式的領跑，背後是長鑫科技等超大專案的集中兌現。緊隨其後的中信證券、國泰海通均保持了40%左右的增速。中小券商的投行業務則普遍承壓。（上證報）
+
+---
+
+### 2026-11-04 06:20:14  #MKT News #Market Themes #Chip Wars #AMD.O #Impact bullish
+
+AMD (AMD.O) CEO said the company currently expects 2027 revenue to increase by more than 80%.
+
+---
+
+### 2026-11-04 06:18:34  #公司
+
+AMD執行長蘇姿豐：：目前預計2027年營收將增長超過80%。
+
+---
+
+### 2026-11-04 06:18:10  #MKT News #Market Themes #Chip Wars #AMD.O #Impact bearish
+
+AMD (AMD.O) CEO said the company expects PC shipments in 2027 to decline by a double-digit percentage.
+
+---
+
+### 2026-11-04 06:17:51  #公司
+
+AMD執行長蘇姿豐：預計我們的嵌入式業務將實現強勁的兩位數年度營收增長。
+
+---
+
+### 2026-11-04 06:17:46  #MKT News #AMD.O #Impact bullish
+
+AMD's CEO said the company now expects 2027 server revenue to double YoY and that by 2027 its data-center business will account for more than 80% of total revenue, becoming the primary driver of revenue and profit growth.
+
+---
+
+### 2026-11-04 06:17:28  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran says US must meet seven conditions to reopen Strait of Hormuz; Trump says military action after midterms not ruled out】On the 3rd, Iran said talks with the US have made no new progress and reiterated that Washington must fully and explicitly accept and implement seven conditions before the Strait of Hormuz will be reopened. Iran said it is battle-ready and on the highest defensive alert. Qatar, acting as mediator, said US and Iranian parties are reviewing a mediation proposal, remain willing to continue talks but significant gaps persist, and Qatari mediators expect responses to a new proposal within 36 hours. President Trump said he would not rule out military action against Iran after the US midterm elections.
+
+---
+
+### 2026-11-04 06:17:22  #MKT News #Market Themes #Chip Wars #AMD.O #Impact bullish #Nasdaq100
+
+AMD (AMD.O) CEO expects data-center revenue growth to accelerate in Q4 and full-year data-center revenue to more than double versus 2025.
+
+---
+
+### 2026-11-04 06:15:47  #公司 #焦點 #國際
+
+AMD執行長蘇姿豐：我們預計2027年PC市場出貨量將出現兩位數百分比下降。
+
+---
+
+### 2026-11-04 06:15:15  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Mexican Peso Drops by 1.33% — Top currency losers are Mexican Peso (-1.33%), Brazilian Real (-0.97%), New Zealand Dollar (-0.52%) and Japanese Yen (-0.48%). Gains are led by Norwegian Krone (0.26%) and Dollar Index (0.13%). Meanwhile, Euro and British Pound were little changed.
+
+---
+
+### 2026-11-04 06:14:37  #市場
+
+週二（11月3日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.6701元，較週一紐約尾盤迴撤225點，日內整體交投於6.6452-6.6756元區間。日線圖上，離岸人民幣脫離週一所創2022年6月6日（當天最高6.6362元、之前一天最高6.6170元）以來盤中最高位6.6426元。
+
+---
+
+### 2026-11-04 06:14:17  #公司
+
+AMD執行長蘇姿豐：預計2027年資料中心業務將佔公司總營收的80%以上，並推動公司大部分營收和盈利增長。
+
+---
+
+### 2026-11-04 06:13:56  #公司 #焦點
+
+AMD執行長蘇姿豐：目前預計2027年伺服器業務收入將同比增長一倍。
+
+---
+
+### 2026-11-04 06:13:16  #公司
+
+AMD執行長蘇姿豐：目前預計第四季度資料中心業務營收增長將加快，全年該業務營收將較2025年增長一倍以上。
+
+---
+
+### 2026-11-04 06:12:44  #公司 #市場
+
+【首批主動ETF結束募集，合計募資超350億元】11月2日，中國證監會有關部門負責人在就近期穩市場穩預期相關工作答記者問中提到，首批18只主動ETF合計募集資金超過350億元，其中已有16只產品達到20億元的單隻募集規模上限並結束募集，下一步將引導和鼓勵已完成募集的18只主動ETF加快開展投資建倉。根據公告顯示，摩根基金、匯添富基金、工銀瑞信基金、建信基金等多家機構近期大手筆自購旗下主動ETF，以 “真金白銀”表達對後市的信心。（上證報）
+
+---
+
+### 2026-11-04 06:10:40  #國際
+
+加拿大總理卡尼：美國要求更少，提供更多。仍有重大問題需要解決。與美國的貿易談判正在取得進展。
+
+---
+
+### 2026-11-04 06:09:36  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #Copper
+
+Carney said U.S. demands are receding while the conditions being offered are increasing, but no agreement has been reached.
+
+---
+
+### 2026-11-04 06:09:35  #MKT News #DXY
+
+Canada's prime minister Carney said trade negotiators do not always need direct talks with the U.S. Trade Representative's office and that Canada maintains good lines of communication.
+
+---
+
+### 2026-11-04 06:09:31  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+Canada's prime minister Carney said some red lines in Canada's trade talks with the United States have been removed.
+
+---
+
+### 2026-11-04 06:07:44  #國際
+
+加拿大總理卡尼：並不總是需要貿易談判代表與美國貿易代表辦公室進行溝通，我們保持著良好的溝通渠道。
+
+---
+
+### 2026-11-04 06:07:34  #公司
+
+AMD執行長蘇姿豐：第三季度已開始EPYC Venice處理器的營收出貨，首批OEM系統預計第四季度上市。
+
+---
+
+### 2026-11-04 06:05:57  #公司
+
+AMD執行長蘇姿豐：資料中心需求正在加速。
+
+---
+
+### 2026-11-04 06:04:47  #MKT News
+
+Canada's prime minister Carney said talks with the U.S. will intensify; progress has been made but trade negotiations with the U.S. are not yet concluded.
+
+---
+
+### 2026-11-04 06:04:47  #MKT News
+
+Carney says some red-line issues remain unresolved.
+
+---
+
+### 2026-11-04 06:04:17  #國際
+
+加拿大總理卡尼：我們正在取得進展，但與美國的貿易談判尚未結束。
+
+---
+
+### 2026-11-04 06:04:02  #國際
+
+加拿大總理卡尼表示，與美國的討論將更加密集。
+
+---
+
+### 2026-11-04 06:03:29  #其他
+
+【聯合國新選出5名國際法院法官】 聯合國大會和安理會3日同時分別以無記名投票方式選舉產生5名國際法院法官。此次選舉共有9名候選人，角逐5個法官席位，以代替任期將於明年2月5日結束的5名法官。（新華社）
+
+---
+
+### 2026-11-04 06:02:35  #資料
+
+澳大利亞10月標普全球服務業PMI終值 48.5，前值47.8。
+澳大利亞10月標普全球綜合PMI終值 48.2，前值47.7。
+澳大利亞10月AIG/PWC製造業表現指數 -20.1，前值由-16.6修正為-16.2。
+澳大利亞10月AIG建築業表現指數 -26.9，前值由-6.9修正為-5。
+
+---
+
+### 2026-11-04 06:01:57  #市場
+
+週二（11月3日）紐約尾盤，現貨黃金跌0.41%，報3929.98美元/盎司。現貨白銀跌1.65%，報49.7990美元/盎司。COMEX銅期貨跌2.44%，報6.4075美元/磅。
+
+---
+
+### 2026-11-04 06:01:44  #央行 #國際
+
+【美聯儲12月加息的機率為78.9%】據CME“美聯儲觀察”：美聯儲12月維持利率不變的機率為21.1%，加息25個基點的機率為78.9%。美聯儲到明年1月維持利率不變的機率15.3%，累計加息25個基點的機率63%，累計加息50個基點的機率為21.8%。
+
+---
+
+### 2026-11-04 06:00:10  #MKT News #AUDUSD #Impact bearish
+
+Australia AIG Construction Performance Index Oct -26.9; prior revised from -6.9 to -5.
+
+---
+
+### 2026-11-04 06:00:07  #MKT News #DXY #Impact bearish #Copper #Impact bullish
+
+Australia October S&P Global Services PMI (final) 48.5, up from 47.8.
+
+---
+
+### 2026-11-04 06:00:06  #MKT News #AUDUSD #Impact bearish
+
+Australia AIG/PwC manufacturing performance index -20.1 in Oct; Sept reading revised to -16.2 from -16.6.
+
+---
+
+### 2026-11-04 06:00:06  #MKT News #Market Regions #Japan & APAC #DXY #Impact bullish #XAUUSD #Impact bearish
+
+Australia October S&P Global Composite PMI (final) 48.2, prior 47.7.
+
+---
+
+### 2026-11-04 06:00:00  #MKT News #Economic Calendar #Important
+
+Australia | Ai Group Australian PCI (construction) (Oct) | actual -26.9 | previous -6.9
+
+---
+
+### 2026-11-04 06:00:00  #MKT News #Economic Calendar #Important
+
+Australia | Ai Group Australian PMI (manufacturing) (Oct) | actual -20.1 | previous -16.6
+
+---
+
+### 2026-11-04 06:00:00  #MKT News #Economic Calendar #Important
+
+Australia | S&P Global Composite PMI, final (Oct) | actual 48.2 | previous 47.7
+
+---
+
+### 2026-11-04 06:00:00  #MKT News #Economic Calendar #Important
+
+Australia | S&P Global Services PMI, final (Oct) | actual 48.5 | previous 47.8
+
+---
+
+### 2026-11-04 05:58:00  #MKT News
+
+CNN reported a person close to U.S. House Speaker Johnson said he has not considered the possibility that Republicans could lose their House majority and has not outlined how he would respond if the party lost control.
+
+---
+
+### 2026-11-04 05:57:09  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Falls as Shopify and Miners Post Losses — The S&P/TSX Composite Index fell 0.7% to close at 35,532 on Tuesday, as losses in Shopify and mining stocks dragged down the benchmark. Shopify plunged 8% after its earnings report showed slower-than-expected growth in gross merchandise volume and subscription revenue. Miners reversed earlier gains as gold, silver and copper prices declined. Agnico Eagle fell 1.8%, while Barrick lost 2.2%. Elsewhere, Thomson Reuters sank 9% amid concerns that higher AI-related spending could weigh on profits. Most major banks were subdued, while a slight recovery in oil prices renewed concerns about energy-driven inflation. Meanwhile, BoC Governor Macklem sought to reassure markets that the government’s existing spending plans were not adding to inflationary pressures. His comments came as the government prepared to unveil its budget on Thursday. The budget’s gap is expected to amount to about 2% of GDP.
+
+---
+
+### 2026-11-04 05:55:00  #其他
+
+委內瑞拉議會推遲就電力系統法案進行表決。
+
+---
+
+### 2026-11-04 05:54:43  #MKT News
+
+White House says, under President Trump's directive, the United States will return to the Moon before 2028.
+
+---
+
+### 2026-11-04 05:54:14  #國際
+
+【默茨：德國將繼續全力支援烏克蘭】德國總理默茨3日表示，德國將繼續全力支援烏克蘭。他說，俄烏戰事結果將長期影響歐洲安全域性勢，支援烏克蘭符合德國及歐洲的利益。默茨當天與到訪的烏克蘭總統澤連斯基舉行會談。在會後舉行的聯合記者會上默茨說，面對即將到來的冬季，防空和能源至關重要。德國已啟動進一步對烏防空和能源援助計劃，目前正在落實。（新華社）
+
+---
+
+### 2026-11-04 05:54:14  #Trading Economics #Markets #Turkey #currency #Importance 0
+
+Turkish Lira traded above 50 — The US Dollar exchange rate rose above 50 Turkish Lira in the foreign exchange interbank market.
+
+---
+
+### 2026-11-04 05:53:17  #國際
+
+白宮：美國將為永久性月球駐留奠定基礎。
+
+---
+
+### 2026-11-04 05:52:53  #焦點 #國際
+
+白宮：根據特朗普的命令，美國將在2028年前重返月球。
+
+---
+
+### 2026-11-04 05:51:55  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+US API Cushing crude stocks, week to Oct 30: +511k barrels; prior -453k.
+
+---
+
+### 2026-11-04 05:51:47  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Cushing Crude Oil Stocks Change (Oct.30) | actual 511000M | previous -453000M
+
+---
+
+### 2026-11-04 05:51:43  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+API estimated U.S. refinery crude runs rose by 195,000 b/d in the week ended Oct. 30, versus a 47,000 b/d increase the prior week.
+
+---
+
+### 2026-11-04 05:51:32  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Runs (Oct.30) | actual 195000M | previous 47000M
+
+---
+
+### 2026-11-04 05:51:21  #國際
+
+美國10月輕型汽車總銷量降至1554萬輛，預期為1580萬輛。
+
+---
+
+### 2026-11-04 05:51:21  #MKT News #Commodities #Energy
+
+US API refined products imports for the week to Oct. 30 were 52,000 b/d, versus -379,000 b/d in the prior week.
+
+---
+
+### 2026-11-04 05:51:13  #MKT News #Economic Calendar
+
+United States | API Weekly Petroleum Products Imports (Oct.30) | actual 52000M | previous -379000M
+
+---
+
+### 2026-11-04 05:51:07  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+API: U.S. crude oil imports for the week to Oct. 30 463,000 bbl; prior -137,000 bbl.
+
+---
+
+### 2026-11-04 05:50:56  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Imports (Oct.30) | actual 463000M | previous -137000M
 
 ---
 
@@ -13859,149 +14387,5 @@ TSX Futures Edge Higher as Oil Prices Slide — S&P/TSX futures rose 0.2% on Mon
 ### 2026-11-02 20:15:54  #Trading Economics #Markets #Commodity #Importance 0
 
 Rubber Futures at Over 1-Month Low — Rubber futures traded around 249 US cents per kilogram, their lowest since September 24, pressured by lower oil prices, which make synthetic rubber cheaper and reduce the relative appeal of natural rubber. On the supply side, heavy rainfall in key rubber-producing areas of southern Thailand added to existing concerns over disruptions to tapping activities and short-term supply. Rainfall has also affected northern Thailand, although conditions have been comparatively less severe. As the world's largest natural rubber producer, Thailand plays a crucial role in global supply, amplifying the market's sensitivity to weather-related disruptions. El Niño-related weather conditions also continued to affect cup-lump quality and production, while raw-material shortages in Indonesia added to supply constraints.
-
----
-
-### 2026-11-02 20:05:41  #央行 #中國央行
-
-【央行：股票回購增持再貸款政策由階段性安排轉為長期制度性安排 再貸款利率由1.25%降至1%】中國人民銀行、金融監管總局、中國證監會召開支援資本市場兩項工具座談會，會議提出，為維護資本市場穩定，提升市場韌性和信心，中國人民銀行、金融監管總局、中國證監會將繼續加強政策支援，進一步最佳化政策要素和實施細則，激勵金融機構用好用足政策工具。適時開展證券、基金、保險公司互換便利操作，進一步增加參與機構數量，適當降低互換費率，最佳化質押和操作模式。股票回購增持再貸款政策由階段性安排轉為長期制度性安排，再貸款利率由1.25%降至1%；金融機構堅持市場化定價原則，在再貸款利率基礎上合理加點並增加貸款投放。
-
----
-
-### 2026-11-02 19:45:56  #Trading Economics #Markets #South Africa #Currency #Importance 0
-
-South African Rand Firms Slightly — The South African rand edged up to around 16.6 against the US dollar, recovering some ground but remaining close to its weakest level since late July. The currency found support from a weaker greenback and firmer precious metals prices, which improved South Africa's export revenue prospects. Lower oil prices also provided relief, given the country's reliance on imported crude oil and petroleum products, helping to ease inflationary pressures. However, global uncertainty and domestic economic challenges continue to cloud the outlook. Domestically, inflation quickened to 4.5% in September and is expected to accelerate further in October, driven by fuels. Inflation has remained above the South African Reserve Bank's 3% target since March. Meanwhile, Governor Lesetja Kganyago recently expressed confidence that the current monetary policy stance would bring inflation back towards the 3% target once the initial shocks triggered by the ongoing conflict in the Middle East fade.
-
----
-
-### 2026-11-02 19:44:47  #Trading Economics #Economy #Chile #Leading Economic Index #Importance 2
-
-Chile Economic Activity Returns to Growth — Chile’s IMACEC economic activity index rose 0.2% year-on-year in September 2026, after a 1.0% drop in August, marking a return to growth following two months of contraction. Goods production fell 2.0%, dragged down by a 12.1% plunge in mining, particularly copper, amid lower ore grades and a temporary suspension of operations. In contrast, other goods rose 4.0%, supported by higher electricity generation due to greater water availability, while manufacturing increased 4.5%, driven by higher output of fishery products and metal products, machinery and equipment. Trade activity rose 4.5%, with all segments posting positive results, led by wholesale and retail sales. Services increased 0.9%, led by personal services, especially health, as well as transport. The non-mining IMACEC rose 2.0%. On a seasonally adjusted monthly basis, economic activity increased 1.9%, following a downwardly revised 0.6% fall in August.
-
----
-
-### 2026-11-02 19:44:19  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Falls Sharply on Monday — Brent crude fell 4.5% toward $108 a barrel on Monday as hopes for a diplomatic resolution to the conflict between the US and Iran eased concerns about further supply disruptions. Reports indicated that President Donald Trump wants to give negotiations more time before considering renewed military action, telling Israeli Prime Minister Benjamin Netanyahu that he would prefer a diplomatic solution. US Secretary of State Marco Rubio also said Trump favoured resolving the conflict peacefully. Iranian officials similarly signalled that an agreement remained possible following two days of Qatar-mediated talks, provided that commitments were implemented in practice. However, the diplomatic signals come amid continued reports that both sides are preparing for a possible escalation after the November 3 US midterm elections. Separately, OPEC+ agreed to keep its existing production targets unchanged through December as the group continues to assess global supply and demand conditions.
-
----
-
-### 2026-11-02 19:43:41  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Falls Below $100 — Crude oil fell 4.5% toward $99 a barrel on Monday as hopes for a diplomatic resolution to the conflict between the US and Iran eased concerns about further supply disruptions. Reports indicated that President Donald Trump wants to give negotiations more time before considering renewed military action, telling Israeli Prime Minister Benjamin Netanyahu that he would prefer a diplomatic solution. US Secretary of State Marco Rubio also said Trump favoured resolving the conflict peacefully. Iranian officials similarly signalled that an agreement remained possible following two days of Qatar-mediated talks, provided that commitments were implemented in practice. However, the diplomatic signals come amid continued reports that both sides are preparing for a possible escalation after the November 3 US midterm elections. Separately, OPEC+ agreed to keep its existing production targets unchanged through December as the group continues to assess global supply and demand conditions.
-
----
-
-### 2026-11-02 19:14:08  #Trading Economics #Economy #Portugal #Retail Sales YoY #Importance 1
-
-Portugal Retail Sales Barely Grow in September — Retail sales in Portugal increased 0.1% year-on-year in September 2026, following a downwardly revised 2% rise in August. It was the smallest gain in retail trade since October 2023. Sales fell for non-food goods (-0.8% vs 3.5% in August), due to declines in clothing and footwear (-4.3% vs 5.4%) and computers and telecommunications equipment (-4.4% vs 3.2%). On the other hand, sales rebounded for food, drinks and tobacco (1.4% vs -0.3%). Compared to the previous month, retail sales decreased 1%, extending a 1% fall in August.
-
----
-
-### 2026-11-02 19:10:56  #Trading Economics #Economy #Portugal #Industrial Production #Importance 0
-
-Portugal Industrial Activity Contracts for 5th Month — Portugal’s industrial production fell 2.7% year-on-year in September 2026, marking the fifth consecutive month of contraction, although the pace of decline eased from a downwardly revised 4.1% drop in August. Energy output declined further, falling 6% after a 4.9% decrease in August and extending its contraction to a seventh consecutive month. Capital-goods production dropped 6.3%, easing from a 12.2% plunge. Intermediate-goods output fell 1.1%, reversing a 0.7% increase. Consumer goods production edged down 0.3% after a 3.4% drop, as durable-goods output rebounded 3.6% after a 7.1% decline, while non-durable goods declined 1%, easing from 2.7%. On a monthly basis, industrial production rebounded 2.4%, reversing a 2.2% drop in August.
-
----
-
-### 2026-11-02 18:51:45  #Trading Economics #Economy #Pakistan #Inflation Rate #Importance 1
-
-Pakistan Inflation Rate Eases for 3rd Month — Pakistan’s annual inflation rate eased to 9.6% in October 2026 from 10.3% in September, marking a third consecutive monthly decline. Still, inflation remained well above the State Bank of Pakistan’s 5%-7% target range, as elevated oil prices continued to cloud the outlook amid the country’s heavy reliance on imported energy. Price pressures moderated for housing and utilities (11.03% vs. 12.39%), clothing and footwear (9.19% vs 8.98%), communication (13.41% vs 13.54%) and restaurants and hotels (6% vs 6.1%). Food inflation also eased (7.74% vs. 8.2%), while perishable food prices fell 2.35%, following a sharp 11.78% increase in the previous month. In contrast, inflation accelerated for non-perishable food items (9.55% vs. 7.64%), keeping food inflation elevated. Price growth in transports quickened further to 28.61% from 27.43%. On a monthly basis, consumer prices rose 1.1%, easing from a 1.3% increase in September.
-
----
-
-### 2026-11-02 18:48:24  #Trading Economics #Economy #Pakistan #Producer Prices Change #Importance 0
-
-Pakistan Wholesale Inflation at 30-Month High — Wholesale price inflation in Pakistan rose to 13.79% year-on-year in October 2026, marking the strongest reading since April 2024, from 13.33% in the previous month. Costs increased for other transportable goods (38.64% vs 34.31% in September) and food, beverages, tobacco, textiles, and leather products (6.85% vs 6.56%), driven largely by stronger inflation for food, beverages, and tobacco (8.43% vs 8.04%), while price increases for textiles and apparel (2.46%) and leather products (20.64%) remained steady. Inflation also edged higher for metal products, machinery, and equipment (5.24% vs 5.14%). Meanwhile, prices slowed for ores, minerals, electricity, gas, and water (4.43% vs 7.28%) and agriculture, forestry, and fishery (6.38% vs 7.29%). On a monthly basis, wholesale prices rose by 0.9% in October, after a 1.9% increase in September.
-
----
-
-### 2026-11-02 18:25:41  #Trading Economics #Economy #Cyprus #Retail Sales YoY #Importance 0
-
-Cyprus Retail Sales Growth Accelerates in September — Retail sales in Cyprus rose 7.7% year-on-year in September 2026, accelerating from 7.0% in August. Growth strengthened for information and communication equipment (27.5% vs 24.8%), clothing and footwear (22.5% vs 16.7%), other household equipment (14.2% vs 12.0%), and pharmaceuticals, orthopedic goods and cosmetics (7.8% vs 7.1%). Sales of food, beverages and tobacco in specialised stores also rebounded (1.0% vs -1.0%), while declines eased for automotive fuel (-0.4% vs -1.5%) and retail sales not in stores (-1.5% vs -7.0%). In contrast, growth slowed for food, beverages and tobacco in non-specialised stores (4.9% vs 5.1%) and cultural and recreation goods (9.6% vs 12.7%), while sales of flowers, plants, watches, jewellery, optical goods and second-hand goods turned negative (-1.4% vs 1.3%). From January to September, retail sales increased 6.6% from the same period a year earlier.
-
----
-
-### 2026-11-02 18:03:44  #Trading Economics #Economy #Peru #Inflation Rate #Importance 0
-
-Peru Inflation Rate Climbs to Highest Since 2023 — The annual inflation rate in Peru's capital, Lima, rose to 5.25% in October 2026, its highest level since August 2023, up from 4.55% in the prior month.This marks the eighth consecutive month above the central bank's 1%-3% target range, as higher global fuel prices and adverse weather linked to the El Niño phenomenon continued to impact transport, agriculture and fishing. Food inflation rose to its highest level since October 2023. Additional upward pressure came from restaurants and hotels (4.49% vs. 4.35%), transport (15.75% vs. 15.1%), housing and utilities (4.04% vs. 3.39%), education (3.54% vs. 3.49%), furnishings (3.62% vs. 3.39%), clothing and footwear (1.9% vs. 1.88%), and recreation and culture (2.41% vs. 2.3%). In contrast, communication costs fell further, declining 4.61% after a 4.3% drop. On a monthly basis, consumer prices rose 0.57%, compared with a 0.12% increase in September.
-
----
-
-### 2026-11-02 17:55:12  #央行 #中國央行
-
-【業內人士：互換便利操作穩步開展 將為資本市場持續帶來“活水”】中國人民銀行11月2日釋出公告稱，將於11月3日開展證券、基金、保險公司互換便利（SFISF）操作，互換期限1年，可視情展期。這是自工具創設以來第三次開展操作。在業內人士看來，互換便利操作穩步開展，將更加有利於盤活資產，統籌安排股市、債市等不同市場間的流動性，為資本市場持續帶來“活水”，增強投資行為長期性和市場內在穩定性。
-
----
-
-### 2026-11-02 17:47:12  #Trading Economics #Economy #United Kingdom #Manufacturing PMI #Importance 1
-
-UK Manufacturing Growth Picks Up to Highest Since May — The S&P Global UK Manufacturing PMI rose to 52.8 in October 2026 from 51.9 in September, matching forecasts and reaching its highest level since May. Output expanded for a seventh consecutive month and at its fastest pace in just over two years, supported by stronger new business and improved market conditions. New orders also grew at their fastest pace since early in the first quarter. However, stronger activity failed to translate into job creation, with employment unchanged after six consecutive months of growth. Meanwhile, supply chains remained under pressure, as input cost inflation accelerated and vendor lead times lengthened to one of their greatest extents in four years. Output prices rose at their fastest pace in three months. Business confidence climbed to an eight-month high, supported by planned expansions, market recovery prospects, investment in capital equipment and AI, new product launches and stronger order pipelines.
-
----
-
-### 2026-11-02 17:35:27  #Trading Economics #Economy #Kazakhstan #Inflation Rate #Importance 1
-
-Kazakhstan Inflation Rate Hits 21-Month Low — The annual inflation rate in Kazakhstan eased to 9.2% in October 2026 from 9.3% in September, marking its lowest level since January 2025. The moderation was primarily driven by slower price growth in the food and non-food categories. Food inflation eased to 7.6% from 8.5% in September, reflecting softer price increases for meat and poultry (8.6% vs. 10.2%) and sausages and meat products (11.2% vs. 13.2%). Similarly, non-food inflation moderated to 10.4% from 11.0%, driven by slower price growth in petrol (8.6% vs. 10.1%) and personal goods (11.3% vs. 11.9%). In contrast, inflation in paid services accelerated to 10.3% in October from 8.9% in the previous month, partly offsetting the overall moderation in consumer price growth, which was largely driven by higher housing and utility costs (11.2% vs 6.3%). On a monthly basis, consumer prices edged down by 0.5% in October from 0.6% in September, marking the weakest monthly increase since October 2025.
-
----
-
-### 2026-11-02 17:31:56  #Trading Economics #Economy #South Africa #Manufacturing PMI #Importance 1
-
-South Africa Factory Activity Remains Under Pressure — South Africa’s seasonally adjusted Absa Purchasing Managers’ Index (PMI) improved for a second successive month, rising to 49.6 in October 2026 from the revised 48.7 in September. While manufacturing activity continued to contract for a fifth month, the latest reading pointed to the slowest pace of deterioration during this period. All five sub-components improved, although overall business conditions remained subdued. The business activity index edged up to 48.6 points in October, following a stronger increase in September. The new sales orders index advanced for a second consecutive month to 46.8 points, accompanied by a further improvement in export sales, with the index approaching the neutral mark. The purchasing prices index climbed to 73.7 points from 71.1 in September, likely reflecting a sharp rise in fuel prices, alongside further weakness in the rand. The index tracking expected business conditions in six months’ time fell to 51.7 points in October from 55.3 in September.
-
----
-
-### 2026-11-02 17:28:30  #Trading Economics #Economy #Australia #CoreLogic Dwelling Prices MoM #Importance 0
-
-Australian Home Prices Fall 1.2% in October — Australia’s Cotality Home Value Index declined 1.2% month-on-month in October 2026, extending the downturn and leaving home values 6.7% below their March 2026 record high. The decline spread across more capital cities and regional markets, as affordability constraints, higher interest rates, elevated living costs and weaker consumer sentiment continued to erode purchasing power and dampen buyer demand. Among the major cities, Brisbane and Perth recorded the steepest monthly declines, with prices falling 2.0% and 1.7%, respectively. However, the correction remained more pronounced in Sydney, where values dropped a further 1.6% in October, leaving them 9.4% lower year-on-year. Melbourne also continued to experience significant annual declines, with prices down 7.6% over the year, despite a milder monthly fall of 0.8%. Adelaide remained relatively resilient compared with other major markets. Although home values declined 1.2% in October, they remained 3.7% higher than a year earlier.
-
----
-
-### 2026-11-02 17:26:28  #公司
-
-【遠東股份：10月子公司中標千萬元以上訂單合計14.98億元】遠東股份公告稱，2026年10月份，公司子公司中標/簽約千萬元以上合同訂單合計14.98億元，涵蓋智慧電網線纜、算力中心線纜、智慧製造線纜、鋰電銅箔等多類產品，客戶包括國家電網有限公司及多地戰略客戶。遠東通訊有限公司已預中標中國電信2026-2027年室外光纜集中採購專案，中標金額最終以中標通知書或後續簽訂合同為準。上述合同訂單將對公司未來經營業績產生積極影響，合同履行存在一定履約風險，敬請投資者注意。
-
----
-
-### 2026-11-02 17:25:49  #公司
-
-【達剛控股：控股子公司取得兩項實用新型及一項發明專利】達剛控股公告稱，公司控股子公司浙江恩科星電氣有限公司近期取得國家智慧財產權局頒發的3項專利證書，包括1項發明專利“基於反饋式自適應滑動窗的充電故障診斷方法及系統”（與杭州電子科技大學共有）、2項實用新型專利“一種防水式電動腳踏車充電樁”“一種用於汽車充電樁繼電器的熱電冷卻控制電路及系統”。上述專利已陸續在子公司相關產品中應用，不會對公司近期生產經營產生重大影響，有利於完善智慧財產權保護體系，增強核心競爭力。
-
----
-
-### 2026-11-02 17:25:43  #公司
-
-【ST新元：披露股票交易其他風險警示相關事項進展】ST新元公告稱，公司目前仍存在三項其他風險警示情形：近三個會計年度扣非前後淨利潤孰低者均為負且持續經營能力存疑、主要銀行賬戶被凍結、收到證監會行政處罰事先告知書。其中內部控制否定意見相關其他風險警示情形已消除。公司預重整已確定隨銳科技集團為牽頭產業投資人、綠技行（武漢）投資合夥企業（有限合夥）為聯合產業投資人，已簽署《重整投資協議》。截至2026年9月30日，公司歸母淨資產為202.84萬元，若2026年末淨資產為負、或法院受理重整申請，股票將被實施退市風險警示；重整失敗則可能被宣告破產並終止上市。
-
----
-
-### 2026-11-02 17:25:35  #公司
-
-【航宇微：顏軍辭去名譽董事長及首席科學家職務】航宇微公告稱，公司董事會於2026年11月2日收到名譽董事長、首席科學家顏軍提交的辭職函，因個人原因，顏軍申請辭去公司名譽董事長及首席科學家職務，辭職後不再擔任公司任何職務，辭職函自送達公司董事會之日起生效。本次辭職不構成公司董事及高階管理人員變更，不會影響公司董事會規範運作及正常生產經營。
-
----
-
-### 2026-11-02 17:25:25  #公司 #市場
-
-【合百集團：股票交易異常波動 無應披露未披露重大事項】合百集團公告稱，公司股票於2026年10月30日、11月2日連續2個交易日內收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查並向控股股東核實，公司前期披露資訊無需更正補充，未發現對股價產生較大影響的未公開重大資訊，近期經營情況正常，內外部經營環境未發生重大變化；公司、控股股東及實控人均不存在應披露而未披露的重大事項或處於籌劃階段的重大事項，異動期間控股股東、實控人均未買賣公司股票。敬請廣大投資者理性投資，注意風險。
-
----
-
-### 2026-11-02 17:25:19  #公司
-
-【復星醫藥：11月2日回購200萬股H股股份】復星醫藥公告稱，2026年11月2日公司透過香港聯交所回購200萬股H股股份，每股回購價區間為16.32港元至16.85港元，回購總金額為3332.37萬港元，所購股份擬持作庫存股份。本次回購佔期初已發行股份（不含庫存股）的0.38%，回購後公司H股已發行股份（不含庫存股）為5.24億股，庫存股份為2785.35萬股。公司回購授權於2026年6月16日審議透過，授權回購上限為5409.72萬股，截至目前已累計回購1688.45萬股，佔授權透過日已發行股份的3.12%。
-
----
-
-### 2026-11-02 17:24:45  #公司
-
-【仲景食品：孫耀志向孫鋒無償贈與宛西控股7.87%股權】仲景食品公告，公司收到控股股東宛西控股告知函，其股權結構發生變動。實際控制人之一孫耀志基於家族傳承安排，於2026年10月30日簽署《股權贈與協議》，將其持有的宛西控股7.87%股權無償贈與其子孫鋒。變動後，孫耀志持有宛西控股36.21%股權，孫鋒持有宛西控股17.92%股權。控股股東仍為宛西控股，實際控制人仍為孫耀志、朱新成，宛西控股所持公司股份數量及持股比例未發生變化。
-
----
-
-### 2026-11-02 17:24:42  #MKT News
-
-【Yuanjie Technology: 100G EML shipments have begun and will ramp; positive on NPO/CPO shipments next year】Yuanjie Technology said at its Q3 2026 results briefing that 100G EML products have begun shipping and will scale; 100G PAM4 EML is in mass production and 200G PAM4 EML is in steady customer validation, with higher‑rate products under development. Datacom demand is growing strongly and is led by CW products; the company will shift more capacity to CW as that demand outpaces others. The telecom market is stable and a product‑mix upgrade—including a 50G PON rollout—should modestly support telecom gross margins. Multiple NPO and CPO variants are in customer validation and the company is positive on NPO/CPO product shipments next year.
 
 ---
