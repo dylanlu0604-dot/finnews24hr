@@ -1,7 +1,19 @@
 {
   "date": "2026-11-09",
-  "count": 17,
+  "count": 18,
   "items": [
+    {
+      "id": "mkt:01a1bc07-51c8-7ee0-aac6-031a5563fcee",
+      "time": "2026-11-09 00:39:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthis say Saudi carried out 91 air and missile strikes in past 24 hours】Houthi military spokesman Yahya Sarea said Saudi warplanes and missiles carried out 91 strikes in the past 24 hours across Saada, Taiz, Hajjah, Hodeidah, al-Jawf and Lahij, striking civilian infrastructure and causing civilian casualties. He said the attacks involved F-15 and Typhoon fighters operating from Khamis Mushait and Taif and missile launches from Najran; Sarea put cumulative Saudi air and missile strikes since the escalation at 4,460."
+    },
     {
       "id": "mkt:01a1bc03-9b2b-7ee0-aac5-fe5775e4053f",
       "time": "2026-11-09 00:35:15",
