@@ -1,7 +1,15 @@
 {
   "date": "2026-11-08",
-  "count": 137,
+  "count": 138,
   "items": [
+    {
+      "id": "mkt:01a1b883-8912-7ee0-aac2-5bc52c72edaf",
+      "time": "2026-11-08 08:16:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CoreWeave urges incoming Texas governor to cooperate on data center projects】CoreWeave has written to incoming Texas governor Gina Hinojosa seeking cooperation to advance the state’s existing and future data center projects. CEO Michael Intrator said the company supports Hinojosa’s stated principle that data center development must align with Texas’s interests and asked to work with her transition team to responsibly complete already‑permitted projects and establish clear, stable, long‑term sustainable standards for future development. Hinojosa told CNN she will change the state’s approach to business, saying firms and government must form partnerships that benefit Texas residents."
+    },
     {
       "id": "5201191",
       "time": "2026-11-08 08:08:08",
