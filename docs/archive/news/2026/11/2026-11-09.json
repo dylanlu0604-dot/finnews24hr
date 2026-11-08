@@ -1,7 +1,15 @@
 {
   "date": "2026-11-09",
-  "count": 128,
+  "count": 129,
   "items": [
+    {
+      "id": "mkt:01a1bcf8-e24f-7ee0-aac7-3835447f7985",
+      "time": "2026-11-09 05:03:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Flight data show two U.S. military aircraft operated same day over Black Sea and near Russia border】Russian sources on the 8th said flight data show a U.S. patrol aircraft operated over the Black Sea that day and a U.S. reconnaissance aircraft flew along Russia's border for more than four hours."
+    },
     {
       "id": "mkt:01a1bcf6-d49c-7ee0-aac7-312f6fa45d1f",
       "time": "2026-11-09 05:00:55",

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-09 05:02:51",
-  "count": 10612,
+  "updated": "2026-11-09 05:06:39",
+  "count": 10611,
   "items": [
+    {
+      "id": "mkt:01a1bcf8-e24f-7ee0-aac7-3835447f7985",
+      "time": "2026-11-09 05:03:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Flight data show two U.S. military aircraft operated same day over Black Sea and near Russia border】Russian sources on the 8th said flight data show a U.S. patrol aircraft operated over the Black Sea that day and a U.S. reconnaissance aircraft flew along Russia's border for more than four hours."
+    },
     {
       "id": "mkt:01a1bcf6-d49c-7ee0-aac7-312f6fa45d1f",
       "time": "2026-11-09 05:00:55",
@@ -97227,22 +97235,6 @@
         "MKT News"
       ],
       "text": "【Iran foreign minister: Mecca agreement signatories did not visit Tehran as pact members】Iran foreign minister Araghchi said the three regional states referred to as \"Tubasha\" jointly signed the Mecca agreement but did not visit Tehran as pact members; they came as three major regional states seeking consultations with Iran. He called it a very good start, described their attitude as positive and constructive, and said the four countries agreed to continue multilevel talks."
-    },
-    {
-      "id": "5186081",
-      "time": "2026-11-02 05:05:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "保加利亞總統候選人安德烈·久羅夫在第二輪選舉中承認敗選。"
-    },
-    {
-      "id": "5186080",
-      "time": "2026-11-02 05:05:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞內陸資料中心取消2028年中期啟動目標，監管機構尋求更多時間。"
     }
   ]
 }
