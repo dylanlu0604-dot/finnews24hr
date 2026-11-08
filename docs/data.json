@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-08 17:19:55",
-  "count": 10618,
+  "updated": "2026-11-08 17:24:29",
+  "count": 10617,
   "items": [
+    {
+      "id": "mkt:01a1ba77-3c21-7ee0-aac3-d0b844afafb9",
+      "time": "2026-11-08 17:22:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IRGC spokesman dismisses U.S. 'Iron Gate' plan to tighten economic pressure on Iran as 'wordplay'】An IRGC spokesman said on Sunday the U.S. cannot force Iran's economic collapse by blocking trade routes because Tehran is prepared and maintains close coordination with neighbouring states. The remarks responded to the U.S. military’s new Iron Gate task force, which Washington says aims to help interdict shipments of advanced weapons and other sanctioned goods over land borders and via the Caspian Sea; the spokesman called the plan \"wordplay\" and said it would not achieve the intended severe economic pressure on Iran."
+    },
+    {
+      "id": "mkt:01a1ba74-49b8-7ee0-aac3-c998018cd19b",
+      "time": "2026-11-08 17:19:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Market sources say the EU is close to a deal to link the UK carbon market to the EU Emissions Trading System (EU ETS) after Brexit."
+    },
     {
       "id": "mkt:01a1ba73-aa6e-7ee0-aac3-c05425bce4f6",
       "time": "2026-11-08 17:18:24",
@@ -97203,30 +97223,6 @@
         "公司"
       ],
       "text": "【10月滬市190家公司披露回購進展公告，已實施回購超326億元】10月以來，面對市場調整，滬市上市公司正以實際行動傳遞市場信心。10月以來，滬市190家公司披露回購進展公告275家次，合計已實施回購金額超過326億元。股東增持落地同步開展，10月以來，53家公司披露62份增持進展公告，累計已增持49.28億元。（介面新聞）"
-    },
-    {
-      "id": "5185683",
-      "time": "2026-11-01 17:24:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中科西光航天聯合西安電子科技大學構建“感-通-算”一體化技術鏈】10月31日，中科西光航天與西安電子科技大學空天地一體化綜合業務網全國重點實驗室簽約，雙方將圍繞“西電二號、三號”開展“感-通-算”一體化組網技術驗證與整星研製。中科西光航天負責星座場景定義與總體規劃、XG-200平臺與整星研製、總裝試驗、發射與資料運營；西安電子科技大學空天地一體化綜合業務網全國重點實驗室提供前沿技術能力，負責“感-通-算”網路架構設計、光電混合路由交換裝置研製和星地協同智慧計算方案。雙方共同產出西電二號、三號在軌驗證平臺、星座介面規範及可複用產品與服務。"
-    },
-    {
-      "id": "5185682",
-      "time": "2026-11-01 17:24:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "TVS Motor 10月汽車銷量700134輛，同比增長29%。"
-    },
-    {
-      "id": "5185681",
-      "time": "2026-11-01 17:21:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北交所上市公司前三季度業績盈利面超八成 51家營收超10億】截至10月30日，北交所354家上市公司已全部披露2026年三季報。前三季度公司平均實現營業收入6.32億元，同比增長15.30%；平均實現歸母淨利潤4768.32萬元，同比增長2.27%。其中288家公司盈利，盈利面81.36%；246家公司營收同比增長、佔比69.49%，51家公司營收超10億元；162家公司歸母淨利潤同比增長、佔比45.76%，41家公司歸母淨利潤超1億元。"
     }
   ]
 }

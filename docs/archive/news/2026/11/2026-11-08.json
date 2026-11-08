@@ -1,7 +1,27 @@
 {
   "date": "2026-11-08",
-  "count": 363,
+  "count": 365,
   "items": [
+    {
+      "id": "mkt:01a1ba77-3c21-7ee0-aac3-d0b844afafb9",
+      "time": "2026-11-08 17:22:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IRGC spokesman dismisses U.S. 'Iron Gate' plan to tighten economic pressure on Iran as 'wordplay'】An IRGC spokesman said on Sunday the U.S. cannot force Iran's economic collapse by blocking trade routes because Tehran is prepared and maintains close coordination with neighbouring states. The remarks responded to the U.S. military’s new Iron Gate task force, which Washington says aims to help interdict shipments of advanced weapons and other sanctioned goods over land borders and via the Caspian Sea; the spokesman called the plan \"wordplay\" and said it would not achieve the intended severe economic pressure on Iran."
+    },
+    {
+      "id": "mkt:01a1ba74-49b8-7ee0-aac3-c998018cd19b",
+      "time": "2026-11-08 17:19:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Market sources say the EU is close to a deal to link the UK carbon market to the EU Emissions Trading System (EU ETS) after Brexit."
+    },
     {
       "id": "mkt:01a1ba73-aa6e-7ee0-aac3-c05425bce4f6",
       "time": "2026-11-08 17:18:24",
