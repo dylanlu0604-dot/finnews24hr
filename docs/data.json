@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-08 17:40:23",
-  "count": 10615,
+  "updated": "2026-11-08 17:44:25",
+  "count": 10617,
   "items": [
+    {
+      "id": "mkt:01a1ba88-812b-7ee0-aac3-d84ad7fe90be",
+      "time": "2026-11-08 17:41:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China Mobile and Z.ai sign cooperation agreement】China Mobile and Z.ai have signed a cooperation agreement to deepen collaboration on domestically produced compute capacity, large-model services and AI commercialization. Z.ai's GLM-series models will be integrated into China Mobile's cloud MaaS platform; the partnership covers the full chain from underlying compute supply and model services to commercial distribution."
+    },
+    {
+      "id": "5201385",
+      "time": "2026-11-08 17:40:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家電網公司37項裝備入選第六批能源領域首臺（套）重大技術裝備】近日，國家能源局釋出第六批能源領域首臺（套）重大技術裝備清單，共90項技術裝備入選。國家電網有限公司申報的±800千伏/5000安特高壓柔性直流工程全系列穿牆套管、750兆伏安特高壓柔性直流大容量換流變壓器等37項裝備入選，入選數量創歷年新高。（國家電網）"
+    },
     {
       "id": "5201384",
       "time": "2026-11-08 17:39:27",
