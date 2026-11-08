@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-09 00:11:08",
-  "count": 10610,
+  "updated": "2026-11-09 00:15:51",
+  "count": 10607,
   "items": [
+    {
+      "id": "5201596",
+      "time": "2026-11-09 00:10:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【塞爾維亞新一屆議會定於11月17日舉行首次會議】據塞爾維亞國民議會發布的訊息，塞國民議會議長布林納比奇8日宣佈，塞爾維亞第十五屆國民議會首次會議將於17日舉行。據當地媒體報道，會議定於17日上午在首都貝爾格萊德的國民議會大廈舉行。根據議程，會議將首先確認新當選議員的資格，隨後選舉國民議會議長及副議長。（新華社）"
+    },
     {
       "id": "mkt:01a1bbe5-a76d-7ee0-aac5-b36756cf2746",
       "time": "2026-11-09 00:02:32",
@@ -97131,40 +97139,6 @@
         "其他"
       ],
       "text": "幣安：淨流出佔1710億美元總管理資產（AUM）的2.1%。"
-    },
-    {
-      "id": "5185853",
-      "time": "2026-11-02 00:15:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【幣安駭客攻擊事件後出現35億美元資金流出】據DefiLlama資料，幣安在發生63億美元加密貨幣被盜事件後恢復提現，週日錄得超過35億美元淨流出。該交易所表示已替換95%的被盜資產，目前提現正趨於穩定。"
-    },
-    {
-      "id": "5185852",
-      "time": "2026-11-02 00:14:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "幣安：在11月1日UTC時間06:00至15:30期間，我們處理了46.49億美元的提款和10.1億美元的存款。"
-    },
-    {
-      "id": "mkt:01a197e3-3a41-7ee0-aa1f-7e0638950c1e",
-      "time": "2026-11-02 00:13:33",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "【Australian house prices fall for seventh month, on track for largest 40-year decline】Private property consultancy Cotality said Australian home values fell for a seventh consecutive month in October, down 1.4% MoM and down 8.1% cumulatively over the past seven months, pushing toward the largest decline in 40 years. Brisbane posted the largest October fall at 2.0%, followed by Perth -1.7%, Sydney -1.6% and Adelaide -1.2%. Markets expect the Reserve Bank of Australia to lift borrowing costs again next week. Cotality research head Tim Lawless said mid-sized capitals that saw outsized gains over the past six years are now broadly adjusting, with almost all suburbs in Brisbane, Perth and Adelaide down over the past three months."
-    },
-    {
-      "id": "5185851",
-      "time": "2026-11-02 00:12:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "幣安：淨流出資金約36.4億美元。"
     }
   ]
 }
