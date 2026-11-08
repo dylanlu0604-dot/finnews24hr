@@ -1,7 +1,78 @@
 {
   "date": "2026-11-08",
-  "count": 378,
+  "count": 386,
   "items": [
+    {
+      "id": "5201397",
+      "time": "2026-11-08 17:53:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：扎波羅熱核電站的團隊獲悉，該電站目前擁有充足的燃料儲備，可在兩週內維持有限數量的應急柴油發電機執行。"
+    },
+    {
+      "id": "mkt:01a1ba93-8871-7ee0-aac3-f5dd2a45040a",
+      "time": "2026-11-08 17:53:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA says the cause and location of the latest loss of connection remain unclear."
+    },
+    {
+      "id": "mkt:01a1ba93-4489-7ee0-aac3-edf0139a3b9e",
+      "time": "2026-11-08 17:52:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "IAEA said the plant's connection to its only remaining external power line, Ferosplavna-1, was cut in the early hours today."
+    },
+    {
+      "id": "5201396",
+      "time": "2026-11-08 17:52:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構就扎波羅熱核電站表示：最近一次斷連的原因和位置尚不清楚。"
+    },
+    {
+      "id": "5201395",
+      "time": "2026-11-08 17:52:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：該核電站與僅剩的外部電力線路費羅普拉夫納-1的連線於今日凌晨中斷。"
+    },
+    {
+      "id": "mkt:01a1ba92-a40a-7ee0-aac3-e1a316e67ceb",
+      "time": "2026-11-08 17:52:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "IAEA said ZAPORIZHZHIA NUCLEAR PLANT has again lost all external power and is forced to rely on emergency diesel generators for reactor cooling."
+    },
+    {
+      "id": "5201394",
+      "time": "2026-11-08 17:52:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：扎波羅熱核電站再次失去所有外部電力，被迫依靠應急柴油發電機為反應堆冷卻。"
+    },
+    {
+      "id": "5201393",
+      "time": "2026-11-08 17:51:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球系統重要性銀行年檢：建行評分預計大幅躍升，規模權重弱化】根據慣例，金融穩定理事會（FSB）將於11月正式釋出新一輪全球系統重要性銀行（G-SIBs）名單。近日，惠譽博華率先發布2026年度預測結果。 預測顯示，五家中資銀行將繼續穩居G-SIBs名單，但內部評分顯著分化——建設銀行預計大幅躍升30分，反超農業銀行；工商銀行以331分險守第三組門檻，僅高出閾值1分；中國銀行小幅下滑。 值得關注的是，G-SIB評分中“規模”因素的權重正在弱化，銀行在全球金融網路中的關聯性與複雜性，正日益成為決定其系統重要性的關鍵。（第一財經）"
+    },
     {
       "id": "5201392",
       "time": "2026-11-08 17:51:07",
