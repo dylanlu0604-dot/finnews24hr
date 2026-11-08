@@ -1,7 +1,38 @@
 {
-  "updated": "2026-11-08 17:56:29",
-  "count": 10625,
+  "updated": "2026-11-08 18:00:42",
+  "count": 10626,
   "items": [
+    {
+      "id": "mkt:01a1ba99-8930-7ee0-aac4-036e7276537c",
+      "time": "2026-11-08 17:59:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel's defense minister KATZ said Iran is attempting to revive efforts to acquire nuclear weapons and is undertaking other actions that pose a serious threat to Israel's security, and that Israel cannot accept those threats."
+    },
+    {
+      "id": "5201398",
+      "time": "2026-11-08 17:56:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨表示，針對伊朗的行動任務尚未完成。"
+    },
+    {
+      "id": "mkt:01a1ba96-5608-7ee0-aac3-fb543743cc8e",
+      "time": "2026-11-08 17:56:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "IAEA says its on-site team at the Zaporizhzhia nuclear plant reports current fuel stocks are sufficient to run a small number of emergency diesel generators for two weeks."
+    },
     {
       "id": "5201397",
       "time": "2026-11-08 17:53:57",
@@ -97267,22 +97298,6 @@
         "其他"
       ],
       "text": "吉利汽車10月汽車銷量310183輛。"
-    },
-    {
-      "id": "5185695",
-      "time": "2026-11-01 18:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "未來一週將有華虹宏力等1家AB股公司披露業績。"
-    },
-    {
-      "id": "5185694",
-      "time": "2026-11-01 17:56:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：四種配置思維來應對當下的市場】中信證券提出四種配置思維來應對當下的市場。一是穩健回報策略，核心是圍繞高股息或具備供給出清潛力的行業，在需求線索混沌的階段聚焦供給的變化。二是預期演繹策略，類似於“2022年的航空和酒店”，找到市場對基本面一致看空，持倉比例極低的板塊，拿到最終政策變化的時點再兌現，只做估值修復博弈。三是海外利率回落策略，把北美AI投融資預期修正、海外長端利率相應回落作為宏觀前提，待市場修正EPS預期後，看非AI領域的製造業出海和資源股能否走出短期需求抑制。四是賽道熱度+籌碼出清策略，類似於找尋“2022年的戶儲和逆變器”，以新領域需求的超預期爆發作為抄底科技的時機，尋找機構和活躍資金能夠共振的領域，而非簡單博弈“無機”。中信證券認為四種策略都有獲取相對收益的潛力，適合不同收益-風險偏好的資金，市場的資金面壓力決定了哪類策略階段性佔優。"
     }
   ]
 }
