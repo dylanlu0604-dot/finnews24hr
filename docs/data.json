@@ -1,7 +1,45 @@
 {
-  "updated": "2026-11-09 04:40:00",
+  "updated": "2026-11-09 04:43:47",
   "count": 10608,
   "items": [
+    {
+      "id": "5201668",
+      "time": "2026-11-09 04:40:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克庫爾德斯坦地區電力部稱，伊拉克霍爾莫爾油田遭襲擊後，電網出現近2.8吉瓦發電容量損失。"
+    },
+    {
+      "id": "mkt:01a1bce4-5fb3-7ee0-aac7-171073890bbf",
+      "time": "2026-11-09 04:40:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【Election shock to AI boom gives US Treasuries fresh momentum】Wall Street sees Democrats' decisive midterm win prompting traders to reassess this year’s steep sell-off in US Treasuries. Tech stocks plunged on the political shift, and markets now price a risk that the AI investment boom—which has supported growth, lifted inflation and pushed yields higher via corporate debt issuance—could slow. A divided government would also likely prevent President Trump from enacting major tax or spending measures, easing some concerns about the US budget deficit. Scott DiMaggio, head of fixed income at AllianceBernstein, said: “AI has been the largest contributor to nominal GDP growth, so any hit to growth could be positive for bonds. The market therefore gains a layer of protection: if the economy falters, rates have substantial downside.”"
+    },
+    {
+      "id": "mkt:01a1bce4-5514-7ee0-aac7-089d75ddc62b",
+      "time": "2026-11-09 04:40:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kurdistan Region power department said the grid lost nearly 2.8 GW of generation capacity after an attack on the Khurmala oilfield."
+    },
     {
       "id": "5201667",
       "time": "2026-11-09 04:37:18",
@@ -97172,32 +97210,6 @@
         "MKT News"
       ],
       "text": "U.S. President Trump said he had just spoken with Israeli Prime Minister Netanyahu and they discussed Iran."
-    },
-    {
-      "id": "mkt:01a198da-233a-7ee0-aa20-7b7a6add4698",
-      "time": "2026-11-02 04:43:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump on Canada: we have a very good deal framework and are very close to reaching an agreement."
-    },
-    {
-      "id": "5186076",
-      "time": "2026-11-02 04:40:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：剛剛與以色列總理內塔尼亞胡進行了一次良好的交談，談到了伊朗問題。"
-    },
-    {
-      "id": "5186075",
-      "time": "2026-11-02 04:40:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：最高領袖穆傑塔巴正在積極工作，士氣高昂，對國內正在發生的事情完全瞭解。他對一切情況都充分掌握並作出決策。我們在這方面絕對沒有任何問題。他的決定以書面形式傳達給我們。"
     }
   ]
 }
