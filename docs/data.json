@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-09 05:06:39",
-  "count": 10611,
+  "updated": "2026-11-09 05:10:31",
+  "count": 10610,
   "items": [
+    {
+      "id": "5201676",
+      "time": "2026-11-09 05:06:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一張漏計儲存卡改寫佐治亞州眾議會選區選情，民主黨新多數地位遭遇威脅】一張儲存卡始終沒有錄入美國塞米諾爾縣選舉系統，這一變故顛覆了佐治亞州州眾議院的一場選區選舉。原本有望被民主黨拿下的席位，如今共和黨現任議員傑拉爾德·E·格林以262票的優勢領先民主黨候選人哈里·詹姆斯。該紕漏是佐治亞州西南部這個縣開展選後常規核查時暴露出來的，此事或將壓縮民主黨來之不易的州眾議院多數席位——這是二十多年來民主黨首次有望掌控該院。縣選舉官員發現這張儲存卡並未上傳至縣級選舉管理系統。投票站簽到選民數和系統上報選票數出現差額：簽到記錄比統計選票多出約388人。補錄儲存卡內選票之後，格林的選情徹底反轉。儲存卡補入計票前，格林落後58票；補錄之後反超262票。計票更新後官方顯示格林處於領先。第154選區的選情，是本屆選舉決定州眾議院控制權歸屬的關鍵膠著戰役之一。"
+    },
     {
       "id": "mkt:01a1bcf8-e24f-7ee0-aac7-3835447f7985",
       "time": "2026-11-09 05:03:09",
@@ -97219,22 +97227,6 @@
         "國際"
       ],
       "text": "伊朗外長： 真主黨就算遭受打擊，此前也經歷過多次打擊，抵抗事業及其目標依舊存續，並且愈發壯大。"
-    },
-    {
-      "id": "mkt:01a198f2-c54e-7ee0-aa20-ab1be9c53daa",
-      "time": "2026-11-02 05:10:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bulgarian presidential candidate Andrey Yurov conceded defeat in the runoff."
-    },
-    {
-      "id": "mkt:01a198f1-90ff-7ee0-aa20-a64303e5c5be",
-      "time": "2026-11-02 05:08:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran foreign minister: Mecca agreement signatories did not visit Tehran as pact members】Iran foreign minister Araghchi said the three regional states referred to as \"Tubasha\" jointly signed the Mecca agreement but did not visit Tehran as pact members; they came as three major regional states seeking consultations with Iran. He called it a very good start, described their attitude as positive and constructive, and said the four countries agreed to continue multilevel talks."
     }
   ]
 }
