@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-08 18:32:22",
-  "count": 10625,
+  "updated": "2026-11-08 18:36:17",
+  "count": 10621,
   "items": [
+    {
+      "id": "5201411",
+      "time": "2026-11-08 18:34:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：為悼念波蘭事件遇難者及英勇的第一響應人員，歐盟降半旗致哀。"
+    },
     {
       "id": "5201410",
       "time": "2026-11-08 18:29:10",
@@ -97237,50 +97245,6 @@
         "國際"
       ],
       "text": "【俄總統助理：普京從未拒絕與澤連斯基對話】當地時間11月1日，俄羅斯總統助理烏沙科夫在一檔電視節目中表示，俄總統普京從未拒絕與烏總統澤連斯基對話。烏沙科夫表示，解決烏克蘭衝突的首輪談判應以俄羅斯、美國、烏克蘭三方會談形式舉行。他表示，談判桌旁也可能有歐洲代表，但開端必須是俄美烏三方形式。烏沙科夫透露，澤連斯基正透過不同渠道傳遞願與普京對話的訊號。烏沙科夫表示，“既然想談，那就讓他來（莫斯科談）吧。”（央視新聞）"
-    },
-    {
-      "id": "5185710",
-      "time": "2026-11-01 18:35:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【查德西部發生暴力衝突致25死22傷】恩賈梅納訊息：查德官方10月31日夜間釋出訊息說，該國西部哈傑爾-拉米斯省與加扎勒河省交界地區近日發生部族衝突，造成25人死亡、22人受傷。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a196ad-9004-7ee0-aa1e-09149412934f",
-      "time": "2026-11-01 18:35:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Violent clashes in western Chad kill 25, injure 22】Chadian authorities said on the night of Oct. 31 tribal fighting near the border between Hadjer-Lamis and Bahr el Gazel regions in western Chad left 25 dead and 22 injured. Intercommunal clashes are frequent in Chad and are often driven by competition for water and land."
-    },
-    {
-      "id": "mkt:01a196ac-c66e-7ee0-aa1e-056c6732bf16",
-      "time": "2026-11-01 18:34:27",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Ukraine's President Zelenskiy said Ukraine attacked the Kamensky plant in Russia's Rostov region."
-    },
-    {
-      "id": "5185709",
-      "time": "2026-11-01 18:34:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱烏克蘭襲擊了俄羅斯羅斯托夫州卡緬斯基工廠。"
-    },
-    {
-      "id": "5185708",
-      "time": "2026-11-01 18:33:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國10月半導體出口額同比增長259% 達到564億美元】資料顯示，受晶片出貨量激增推動，韓國10月份出口額同比增長93.7%，達到創紀錄的1153億美元。報道稱，韓國貿易、工業和資源部在一份新聞稿中表示，上個月半導體出口額同比增長259%，達到564億美元，提振了整體出口資料。"
     }
   ]
 }
