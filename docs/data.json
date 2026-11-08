@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-09 05:14:22",
-  "count": 10609,
+  "updated": "2026-11-09 05:18:11",
+  "count": 10610,
   "items": [
+    {
+      "id": "5201677",
+      "time": "2026-11-09 05:17:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱“鐵門”特遣行動正全面展開 幾乎沒有物資能進出伊朗】當地時間11月8日，美國總統特朗普在社交媒體“真實社交”上發文表示，針對伊朗的“鐵門”特遣行動正在全面展開。再加上他所稱的“歷史上規模最大的海上封鎖”，目前幾乎沒有物資能夠進出伊朗。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1bd03-0894-7ee0-aac7-44fff2b39481",
+      "time": "2026-11-09 05:14:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Merz backs Ilse Aigner to become Germany's first female president】German chancellor Merz has voiced support for Bavarian politician Ilse Aigner, 61, to become Germany's first female president, an insider said after Merz expressed backing at a CDU dinner in Berlin on Sunday. Merz, who also serves as CDU chair, is set to formally announce the support on Monday; Aigner is expected to assume the presidency next year."
+    },
     {
       "id": "5201676",
       "time": "2026-11-09 05:06:13",
@@ -97206,19 +97222,6 @@
         "其他"
       ],
       "text": "英國內政大臣或將在週一宣佈移民新規相關決定。"
-    },
-    {
-      "id": "mkt:01a198f9-c3d1-7ee0-aa20-b3926d3aca7c",
-      "time": "2026-11-02 05:17:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Chinese financial regulators to hold two meetings today】Industry sources say on Nov. 2 around 09:00 Beijing time the People's Bank of China and the CSRC will meet to study measures to promote use of capital-market instruments. The same day the PBOC, the Financial Regulatory Administration and the CSRC will convene major banks at the PBOC to discuss optimizing a re-lending facility to support stock buybacks and increases in shareholdings."
     }
   ]
 }
