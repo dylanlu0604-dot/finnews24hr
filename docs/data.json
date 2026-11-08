@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-08 17:44:25",
-  "count": 10617,
+  "updated": "2026-11-08 17:48:23",
+  "count": 10616,
   "items": [
+    {
+      "id": "5201387",
+      "time": "2026-11-08 17:47:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：今天早上，俄軍使用FPV無人機襲擊了科梅什瓦哈。"
+    },
+    {
+      "id": "5201386",
+      "time": "2026-11-08 17:45:11",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【張亞勤追問大模型護城河，騰訊首席AI科學家姚順雨：壁壘在產品層】在2026未來科學大獎的一場對話中，中國工程院外籍院士張亞勤向騰訊首席AI科學家姚順雨丟擲了一個尖銳的商業問題，模型公司的護城河究竟是什麼？姚順雨的回答是，AI護城河更多存在於產品層，而不是模型層。真正難以替代的，不一定是最聰明的模型，而是能夠理解使用者背景、利用專有資料和上下文，並獲得使用者信任的AI產品。聽完這一回答，張亞勤順勢開起了玩笑。他調侃道，按照姚順雨的邏輯，Anthropic未來或許不值一萬億甚至兩萬億美元，因為模型終有一天可能走向商品化。隨後，他又笑著提醒現場的學生，千萬不要聽他的建議去買股票。除了AI公司的商業護城河，現場的交流還涉及Agent的技術路線、模型開源與閉源的選擇，以及AI如何真正參與科學發現。（第一財經）"
+    },
     {
       "id": "mkt:01a1ba88-812b-7ee0-aac3-d84ad7fe90be",
       "time": "2026-11-08 17:41:10",
@@ -97189,38 +97206,6 @@
         "MKT News"
       ],
       "text": "【Securities firms' Q3 A‑share holdings: three non‑bank sectors over 2 bln yuan】At end-Q3 2026 securities firms were among the top-10 free‑float shareholders at 228 A‑share companies. Aggregate broker-held market value was 55.98 bln yuan, down 27.49% QoQ; shares held totaled about 4.699 bln, down 13.32% QoQ. Excluding non-bank financials and banks, broker stakes in pharma & biotech, basic chemicals and electronics exceeded 2.0 bln yuan, at 4.76 bln, 2.74 bln and 2.66 bln yuan respectively. Eighty-four stocks had broker holdings above 100 mln yuan; 12 stocks above 500 mln yuan. Largest single-stock broker stakes were Jiangsu Bank 11.43 bln yuan, Zhongxin Jiantou 8.82 bln yuan and Yongan Futures 5.32 bln yuan."
-    },
-    {
-      "id": "mkt:01a19681-9493-7ee0-aa1d-cb3b373a1866",
-      "time": "2026-11-01 17:47:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Zelenskiy said Russian overnight strikes hit energy infrastructure in four Ukrainian regions, cutting power to hundreds of thousands."
-    },
-    {
-      "id": "5185691",
-      "time": "2026-11-01 17:46:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基表示，俄羅斯夜間轟炸了烏克蘭四個地區的能源基礎設施，數十萬人斷電。"
-    },
-    {
-      "id": "5185690",
-      "time": "2026-11-01 17:46:03",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【券商三季度重倉股曝光 三大行業獲券商持股市值超20億元】截至2026年三季度末，228家A股公司的前十大流通股東出現證券公司身影，以2026年三季度末收盤價測算，券商持股市值為559.84億元，環比減少27.49%，持股數量約46.99億股，環比下降約13.32%。統計顯示，除非銀金融、銀行兩大金融行業外，醫藥生物、基礎化工、電子行業上市公司持股市值均超過20億元，分別達到47.58億元、27.39億元、26.6億元。個股方面來看，84股獲券商持股市值在1億元以上，其中12股券商持股市值超5億元，江蘇銀行、中信建投、永安期貨居前，分別為114.32億元、88.17億元、53.16億元。"
     }
   ]
 }
