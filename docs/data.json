@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-09 00:50:29",
-  "count": 10620,
+  "updated": "2026-11-09 00:54:22",
+  "count": 10613,
   "items": [
+    {
+      "id": "5201608",
+      "time": "2026-11-09 00:51:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈馬斯：呼籲斡旋方、擔保方及和平委員會向佔領方施壓，促使其在加沙落實人道主義議定書。"
+    },
+    {
+      "id": "5201607",
+      "time": "2026-11-09 00:51:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬斯：佔領方繼續阻撓向加沙運送安置與修復物資以及應對破壞後果所需裝置。"
+    },
+    {
+      "id": "5201606",
+      "time": "2026-11-09 00:51:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈馬斯：佔領方聲稱已滿足加沙冬季需求，實為試圖推卸其製造的人道主義災難責任。"
+    },
     {
       "id": "5201605",
       "time": "2026-11-09 00:47:36",
@@ -97179,88 +97203,6 @@
         "MKT News"
       ],
       "text": "Israeli media report the Knesset secretary-general has invited party leaders to the president's residence on Wednesday for a series of consultations."
-    },
-    {
-      "id": "mkt:01a19807-c604-7ee0-aa1f-998530151545",
-      "time": "2026-11-02 00:53:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian media reported the energy minister said he recently received a letter from the Supreme Leader urging a shift toward an energy system where households no longer rely on external power and can generate their own electricity."
-    },
-    {
-      "id": "5185901",
-      "time": "2026-11-02 00:53:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：能否達成防止戰火重燃的協議，取決於華盛頓對德黑蘭要求的回應；如果條件得到滿足，霍爾木茲海峽可在兩天內重新開放。"
-    },
-    {
-      "id": "mkt:01a19806-9665-7ee0-aa1f-9231dc53dd92",
-      "time": "2026-11-02 00:52:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President ZELENSKIY said if Washington wants Kyiv to refrain from striking Russian refineries, Moscow must stop attacking Ukraine's energy system."
-    },
-    {
-      "id": "mkt:01a19806-6ce5-7ee0-aa1f-8c1ef46d8eaf",
-      "time": "2026-11-02 00:52:00",
-      "tags": [
-        "MKT News",
-        "RTX.O",
-        "Impact bullish"
-      ],
-      "text": "Ukrainian President Zelenskiy said Ukraine has proposed to the United States the purchase of Patriot missiles and is willing to raise the necessary funding."
-    },
-    {
-      "id": "5185900",
-      "time": "2026-11-02 00:51:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列對黎巴嫩南部艾塔賈巴爾鎮郊區發動空襲。"
-    },
-    {
-      "id": "5185899",
-      "time": "2026-11-02 00:51:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞總情報局訊息人士：挫敗了一起針對霍姆斯煉油廠的恐怖襲擊圖謀。"
-    },
-    {
-      "id": "5185898",
-      "time": "2026-11-02 00:51:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：如果華盛頓希望我們不要打擊俄羅斯煉油廠，那麼莫斯科必須停止對烏克蘭能源系統的攻擊。"
-    },
-    {
-      "id": "5185897",
-      "time": "2026-11-02 00:51:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我們已向華盛頓提出購買“愛國者”導彈，並確認我們準備落實所需資金。"
-    },
-    {
-      "id": "mkt:01a19805-8f7b-7ee0-aa1f-8648383f9558",
-      "time": "2026-11-02 00:51:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian presidency says foreign minister briefed the government on the latest progress in talks with the U.S. conducted via intermediaries."
-    },
-    {
-      "id": "5185896",
-      "time": "2026-11-02 00:50:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門政府軍：過去24小時內，作為“葉門黎明”行動的一部分，我們對胡塞武裝的增援部隊實施了1272次打擊。"
     }
   ]
 }
