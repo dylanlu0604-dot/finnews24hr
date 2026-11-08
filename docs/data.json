@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-09 04:59:05",
+  "updated": "2026-11-09 05:02:51",
   "count": 10612,
   "items": [
+    {
+      "id": "mkt:01a1bcf6-d49c-7ee0-aac7-312f6fa45d1f",
+      "time": "2026-11-09 05:00:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Missing memory card clouds Georgia state House control; GOP takes lead in District 154】A Seminole County memory card containing previously unuploaded ballots was found and, once counted, put Republican incumbent Gerald Greene ahead in Georgia’s 154th state House district. The contest is one of four unresolved races and leaves control of the chamber undecided: Democrats have 90 confirmed seats, Republicans 86, and 91 are required for a majority."
+    },
     {
       "id": "5201675",
       "time": "2026-11-09 04:57:27",
@@ -97235,14 +97243,6 @@
         "其他"
       ],
       "text": "澳大利亞內陸資料中心取消2028年中期啟動目標，監管機構尋求更多時間。"
-    },
-    {
-      "id": "mkt:01a198eb-5202-7ee0-aa20-98ab7c04c31c",
-      "time": "2026-11-02 05:02:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Australian inland data centre has abandoned its mid-2028 commissioning target because regulators need more time."
     }
   ]
 }
