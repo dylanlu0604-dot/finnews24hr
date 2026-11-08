@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-09 00:35:16",
-  "count": 10618,
+  "updated": "2026-11-09 00:39:03",
+  "count": 10617,
   "items": [
+    {
+      "id": "mkt:01a1bc03-9b2b-7ee0-aac5-fe5775e4053f",
+      "time": "2026-11-09 00:35:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【House Democratic Leader Jeffries backs impeachment of Defense Secretary Peter Hegseth】House Democratic Leader Hakeem Jeffries said he strongly supports impeaching Defense Secretary Peter Hegseth and backing measures likely to be filed this week. On ABC’s This Week Jeffries accused Hegseth of abusing his office, undermining national security and precipitating a selective, costly military action against Iran that has driven up US prices. House Democrats plan an initial meeting next Tuesday to discuss a potential resolution — their first such meeting since winning both chambers in the midterms."
+    },
     {
       "id": "mkt:01a1bbfd-4270-7ee0-aac5-f5601b0c27ef",
       "time": "2026-11-09 00:28:19",
@@ -97225,22 +97233,6 @@
         "國際"
       ],
       "text": "巴基斯坦方面：一艘駛往巴基斯坦的液化天然氣運輸船在霍爾木茲海峽附近遭襲，儘管伊朗方面已放行。"
-    },
-    {
-      "id": "5185872",
-      "time": "2026-11-02 00:36:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：我們的團隊將在未來幾周內推進協議的落實。"
-    },
-    {
-      "id": "5185871",
-      "time": "2026-11-02 00:35:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：與特朗普就雙邊貿易的未來進行了良好對話。"
     }
   ]
 }

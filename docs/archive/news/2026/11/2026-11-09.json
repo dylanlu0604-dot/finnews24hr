@@ -1,7 +1,15 @@
 {
   "date": "2026-11-09",
-  "count": 16,
+  "count": 17,
   "items": [
+    {
+      "id": "mkt:01a1bc03-9b2b-7ee0-aac5-fe5775e4053f",
+      "time": "2026-11-09 00:35:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【House Democratic Leader Jeffries backs impeachment of Defense Secretary Peter Hegseth】House Democratic Leader Hakeem Jeffries said he strongly supports impeaching Defense Secretary Peter Hegseth and backing measures likely to be filed this week. On ABC’s This Week Jeffries accused Hegseth of abusing his office, undermining national security and precipitating a selective, costly military action against Iran that has driven up US prices. House Democrats plan an initial meeting next Tuesday to discuss a potential resolution — their first such meeting since winning both chambers in the midterms."
+    },
     {
       "id": "mkt:01a1bbfd-4270-7ee0-aac5-f5601b0c27ef",
       "time": "2026-11-09 00:28:19",
