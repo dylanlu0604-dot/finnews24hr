@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-09 04:36:04",
-  "count": 10611,
+  "updated": "2026-11-09 04:40:00",
+  "count": 10608,
   "items": [
+    {
+      "id": "5201667",
+      "time": "2026-11-09 04:37:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：正透過Daybreak Red，向Hacktron開放更多前沿模型的訪問許可權。"
+    },
+    {
+      "id": "mkt:01a1bce1-036c-7ee0-aac7-03ab4ef9b0ca",
+      "time": "2026-11-09 04:37:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said he must speak with Russian President Putin sooner or later. He noted U.S. President Trump has invited Putin to the G20 and said that if Putin attends he would not avoid the opportunity for talks."
+    },
     {
       "id": "5201666",
       "time": "2026-11-09 04:34:04",
@@ -97182,46 +97198,6 @@
         "國際"
       ],
       "text": "伊朗外長：最高領袖穆傑塔巴正在積極工作，士氣高昂，對國內正在發生的事情完全瞭解。他對一切情況都充分掌握並作出決策。我們在這方面絕對沒有任何問題。他的決定以書面形式傳達給我們。"
-    },
-    {
-      "id": "5186074",
-      "time": "2026-11-02 04:39:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談加拿大：他們會修建並支付基斯通輸油管道的費用。"
-    },
-    {
-      "id": "5186073",
-      "time": "2026-11-02 04:39:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談與加拿大的協議：美國農民無需繳納關稅。"
-    },
-    {
-      "id": "5186072",
-      "time": "2026-11-02 04:38:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：前幾天與卡尼進行了交談，我們接近達成協議。"
-    },
-    {
-      "id": "5186071",
-      "time": "2026-11-02 04:36:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普就加拿大問題表態：非常接近達成協議。"
-    },
-    {
-      "id": "5186070",
-      "time": "2026-11-02 04:36:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談加拿大：我們有一個非常好的交易方案。"
     }
   ]
 }

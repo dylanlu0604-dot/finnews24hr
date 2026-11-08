@@ -1,7 +1,23 @@
 {
   "date": "2026-11-09",
-  "count": 112,
+  "count": 114,
   "items": [
+    {
+      "id": "5201667",
+      "time": "2026-11-09 04:37:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：正透過Daybreak Red，向Hacktron開放更多前沿模型的訪問許可權。"
+    },
+    {
+      "id": "mkt:01a1bce1-036c-7ee0-aac7-03ab4ef9b0ca",
+      "time": "2026-11-09 04:37:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said he must speak with Russian President Putin sooner or later. He noted U.S. President Trump has invited Putin to the G20 and said that if Putin attends he would not avoid the opportunity for talks."
+    },
     {
       "id": "5201666",
       "time": "2026-11-09 04:34:04",
