@@ -1,7 +1,690 @@
 {
-  "updated": "2026-11-09 01:24:51",
-  "count": 10618,
+  "updated": "2026-11-09 04:36:04",
+  "count": 10611,
   "items": [
+    {
+      "id": "5201666",
+      "time": "2026-11-09 04:34:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨表示：早晚也必須和普京對話。特朗普已邀請普京出席G20峰會。如果普京到場，我不會迴避對話的機會。"
+    },
+    {
+      "id": "mkt:01a1bcdd-ad93-7ee0-aac6-f909eee0f891",
+      "time": "2026-11-09 04:33:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said in an interview that the deportation policy for illegal immigrants may have been \"a bit too tough.\""
+    },
+    {
+      "id": "5201665",
+      "time": "2026-11-09 04:32:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "安全訊息人士稱，伊拉克霍爾莫爾氣田的生產作業在無人機襲擊後已暫停。"
+    },
+    {
+      "id": "5201664",
+      "time": "2026-11-09 04:32:04",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "Anthropic將於本週啟動首次公開募股路演。"
+    },
+    {
+      "id": "5201663",
+      "time": "2026-11-09 04:28:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳致全體員工：我完全致力於英偉達，並將努力贏回大家的信任。。"
+    },
+    {
+      "id": "5201662",
+      "time": "2026-11-09 04:28:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳致公司內部信：對妻子不忠，承擔全部責任。"
+    },
+    {
+      "id": "5201661",
+      "time": "2026-11-09 04:26:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：驅逐移民政策過去或許、現在也可能“過於嚴苛”。"
+    },
+    {
+      "id": "mkt:01a1bcd7-1546-7ee0-aac6-f43385faf958",
+      "time": "2026-11-09 04:26:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) spokesperson said Jensen Huang will remain CEO and continue to lead the company."
+    },
+    {
+      "id": "5201660",
+      "time": "2026-11-09 04:25:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達發言人：調查訊息不會拖慢英偉達，黃仁勳承諾將繼續不間斷地擔任英偉達執行長領導公司。"
+    },
+    {
+      "id": "5201659",
+      "time": "2026-11-09 04:21:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗霍爾莫爾一名現場工程師表示，一座天然氣儲存設施遭到攜帶爆炸物的無人機襲擊，現場起火併升起黑煙。"
+    },
+    {
+      "id": "mkt:01a1bcd1-e898-7ee0-aac6-eac105c19543",
+      "time": "2026-11-09 04:20:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A source said an on-site engineer at Holmol reported a gas storage facility was struck by a drone laden with explosives, igniting a large fire and producing thick black smoke."
+    },
+    {
+      "id": "mkt:01a1bcce-a7df-7ee0-aac6-e7a9a04072f0",
+      "time": "2026-11-09 04:17:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Sources said the Khor Mor gas field in Iraq's Kurdistan region was struck by a drone attack, with smoke observed near the field."
+    },
+    {
+      "id": "5201658",
+      "time": "2026-11-09 04:16:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "安全訊息人士稱，無人機襲擊了伊拉克庫爾德斯坦地區的霍爾莫爾氣田，氣田附近可見濃煙升起。"
+    },
+    {
+      "id": "mkt:01a1bccd-c4b8-7ee0-aac6-df6af950823f",
+      "time": "2026-11-09 04:16:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS cited a Sirik source saying a few minutes ago three gunshots were fired from Sirik toward the Strait of Hormuz. Iranian media earlier said the shooting was linked to an operation targeting non-compliant vessels in the Strait of Hormuz."
+    },
+    {
+      "id": "5201657",
+      "time": "2026-11-09 04:05:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨在基民盟領導人晚宴期間宣佈決定，支援伊爾塞·艾格納出任德國首位女性總統。"
+    },
+    {
+      "id": "5201656",
+      "time": "2026-11-09 04:04:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳在發給全體員工的郵件中，就婚外情一事致歉。"
+    },
+    {
+      "id": "5201655",
+      "time": "2026-11-09 04:04:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加沙中部流離失所者營地發生沙土塌方 已致5人死亡】據巴勒斯坦方面訊息，當地時間8日晚間，在加沙地帶中部代爾拜拉赫，一個流離失所民眾帳篷營地附近的沙土塌方，導致多個帳篷被掩埋。加沙地帶民防救援部門訊息稱，塌方事件已經造成5人死亡，多人受傷。（央視新聞）"
+    },
+    {
+      "id": "5201654",
+      "time": "2026-11-09 04:02:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達董事會將聘請外部律師進行調查。"
+    },
+    {
+      "id": "5201653",
+      "time": "2026-11-09 04:02:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：董事會對黃仁勳及其領導團隊充滿信心。"
+    },
+    {
+      "id": "5201652",
+      "time": "2026-11-09 04:02:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達董事會發布宣告稱，正啟動對CEO黃仁勳獨立調查。"
+    },
+    {
+      "id": "mkt:01a1bcb3-c335-7ee0-aac6-d061a4d8c26b",
+      "time": "2026-11-09 03:47:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Explosions heard near Iran's Qeshm Island】On the evening of the 8th (local time), four explosions were heard on Iran's southern Qeshm Island and near Bandar Abbas. Fars News Agency cited local sources saying the blasts were believed to be warnings by Iran aimed at vessels transiting the Strait of Hormuz for alleged violations. Iranian authorities have not commented."
+    },
+    {
+      "id": "5201651",
+      "time": "2026-11-09 03:45:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗格什姆島附近傳出爆炸聲】當地時間8日晚，伊朗南部格什姆島傳出4聲爆炸聲，“似乎遭到襲擊”。另據伊朗法爾斯通訊社報道稱，當地部分訊息人士認為，當晚伊朗南部阿巴斯港和格什姆島附近聽到爆炸聲，是伊朗向霍爾木茲海峽違規航行船隻示警造成。伊朗官方尚未對此事發表評論。（央視新聞）"
+    },
+    {
+      "id": "5201650",
+      "time": "2026-11-09 03:44:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者：一篇報道稱，自你重新上任以來，你的淨資產增加了30億美元。\n\n特朗普：大家都漲了。\n\n記者：我的淨資產可沒漲30億美元。\n\n特朗普：那你本該買股票的。"
+    },
+    {
+      "id": "5201649",
+      "time": "2026-11-09 03:36:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗格什姆島傳出爆炸聲】伊朗格什姆島傳出四聲爆炸，多個地點似乎遭到襲擊。伊朗通訊社駐該島記者稱，部分割槽域看上去遭到擊中，但地方及省級當局尚未就該事件作出回應。"
+    },
+    {
+      "id": "mkt:01a1bca6-6659-7ee0-aac6-cb4499daffbc",
+      "time": "2026-11-09 03:33:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iraq says reached US agreement to export oil via channel near Oman through Strait of Hormuz】Iraqi foreign minister Husein told Al Jazeera Iraq has reached an agreement with the United States to allow Iraqi oil exports via a channel near Oman through the Strait of Hormuz. He said Iraq’s losses from the Iran conflict and export disruptions have reached $60 billion. Iraqi energy officials said exports recovered in October after a sharp fall, rising from 2.65 mln bpd in September to about 3.5 mln bpd."
+    },
+    {
+      "id": "mkt:01a1bca5-3d92-7ee0-aac6-c414cce317b6",
+      "time": "2026-11-09 03:31:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports explosions on Iran's Qeshm Island; Iranian authorities have not confirmed."
+    },
+    {
+      "id": "5201648",
+      "time": "2026-11-09 03:30:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗格什姆島傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:01a1bca0-b9aa-7ee0-aac6-ba99006b12ad",
+      "time": "2026-11-09 03:26:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iraq FM: U.S. asked Iraq to close most land border crossings with Iran】Iraq’s foreign minister Hussein said on Nov. 8 the U.S. has asked Iraq to close most land border crossings with Iran as part of U.S. Treasury measures to pressure Iran’s economy. Washington requested closing all crossings except two; one of the exempt crossings leads to the Kurdistan region. At the direction of Prime Minister Al-Zaidi, the Al-Sib border crossing has been closed since Oct. 21, halting passenger travel and commercial freight. The closure has lasted 18 days and has triggered protests in Maysan province."
+    },
+    {
+      "id": "5201647",
+      "time": "2026-11-09 03:22:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思：我對全體軍人說，不要動搖，無視雜音，毫不猶豫。這一切（中期選舉）都只是政治博弈。你們做的事實實在在。堅持到底。"
+    },
+    {
+      "id": "5201646",
+      "time": "2026-11-09 03:16:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美財政部要求伊拉克關閉與伊朗之間大部分邊境口岸】當地時間11月8日，伊拉克外交部長侯賽因稱，美國財政部要求伊拉克關閉與伊朗之間的大部分邊境口岸，僅保留兩個口岸開放。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1bc91-ed09-7ee0-aac6-b34bd2aa843b",
+      "time": "2026-11-09 03:10:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Al Jazeera quoted Iraq's foreign minister as saying losses to Iraq from the Iran war and disrupted oil exports have reached US$60 bln."
+    },
+    {
+      "id": "5201645",
+      "time": "2026-11-09 03:08:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克外長：伊拉克因伊朗戰爭及石油出口業務中斷造成的損失已達600億美元。"
+    },
+    {
+      "id": "mkt:01a1bc90-3dad-7ee0-aac6-af325bbdc86a",
+      "time": "2026-11-09 03:08:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Al Jazeera cites Iraq's foreign minister saying Iraq has reached an understanding with the United States to allow oil exports to transit the Strait of Hormuz via a shipping corridor near Oman; export operations are ongoing."
+    },
+    {
+      "id": "5201644",
+      "time": "2026-11-09 03:07:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊拉克外長：伊拉克已與美國達成諒解，允許石油透過霍爾木茲海峽經靠近阿曼的航道出口，出口業務仍在持續進行。"
+    },
+    {
+      "id": "5201643",
+      "time": "2026-11-09 03:06:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國公司註冊署因存在普遍系統性差錯而受到審查。"
+    },
+    {
+      "id": "mkt:01a1bc8d-1bfc-7ee0-aac6-a4e7e48b3618",
+      "time": "2026-11-09 03:05:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Turkey, Iraq reaffirm cooperation to eliminate PKK presence in Sinjar】Turkey and Iraq said in a joint statement on the 8th they will continue cooperating to restore central government authority in Sinjar, Nineveh province, and to end the presence of the Kurdistan Workers' Party (PKK) there. The Turkish presidency said Turkey will progressively transfer its Bashika military base in Nineveh to the Iraqi government. The two countries agreed to establish a joint security coordination committee to verify and oversee the process of removing PKK forces from Sinjar."
+    },
+    {
+      "id": "mkt:01a1bc8c-d944-7ee0-aac6-98d0e08d5b82",
+      "time": "2026-11-09 03:05:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Nomura: RBA may deliver one final hike around Feb 2027】Nomura says Australian financial conditions are already restrictive and its base case is that the cash rate has peaked. It assigns roughly a 33% probability of one further RBA hike, most likely around February 2027. Thereafter Nomura expects the RBA to begin several rate cuts from about August 2027, contingent on rising unemployment, lower oil prices and confidence that inflation will return to target."
+    },
+    {
+      "id": "5201642",
+      "time": "2026-11-09 03:03:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【土伊重申合作終結庫爾德工人黨在辛賈爾地區的存在】土耳其和伊拉克8日發表聯合宣告，重申將繼續合作，推動在伊拉克北部尼尼微省辛賈爾地區建立中央政府權威，終結庫爾德工人黨在當地的存在。（新華社）"
+    },
+    {
+      "id": "5201641",
+      "time": "2026-11-09 02:55:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：我們需要稍作等待，以便調解方重啟外交路徑。"
+    },
+    {
+      "id": "5201640",
+      "time": "2026-11-09 02:55:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長：美國大選結果使調解方的工作暫停。"
+    },
+    {
+      "id": "5201639",
+      "time": "2026-11-09 02:52:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "易捷航空將在收購投票前削減總部職位。"
+    },
+    {
+      "id": "mkt:01a1bc79-f40a-7ee0-aac6-949bd20f7cb6",
+      "time": "2026-11-09 02:44:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Zaporizhzhia nuclear plant restores external power after Ferroalloy-1 line repaired】On Nov. 8 local time the Zaporizhzhia nuclear plant, under Russian control, said on its official social media account that repairs have returned the 330 kV Ferroalloy-1 line to service, restoring the plant’s external power. The plant earlier reported the Ferroalloy-1 line was disconnected by protection devices after damage and had been running on backup diesel generators. Staff are monitoring parameters and say comprehensive safety measures are in place."
+    },
+    {
+      "id": "5201638",
+      "time": "2026-11-09 02:44:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【扎波羅熱核電站恢復外部供電】當地時間11月8日，由俄方控制的扎波羅熱核電站透過官方社交賬號通報稱，經搶修，330千伏“鐵合金-1”線路已重新投入執行，核電站由此恢復外部供電。（央視新聞）"
+    },
+    {
+      "id": "5201637",
+      "time": "2026-11-09 02:41:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "梅賽德斯車隊贏得一級方程式賽車世界錦標賽冠軍。"
+    },
+    {
+      "id": "5201636",
+      "time": "2026-11-09 02:40:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "魯比奧在今年春季牽頭起草了一份針對英偉達的警示備忘錄，內容涉及英偉達CEO黃仁勳。"
+    },
+    {
+      "id": "mkt:01a1bc76-3310-7ee0-aac6-8e5a11533e73",
+      "time": "2026-11-09 02:40:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Al Jazeera reported Iran's foreign minister Araghchi said the US Treasury has asked Iraq to close most border crossings with Iran, leaving only two open."
+    },
+    {
+      "id": "5201634",
+      "time": "2026-11-09 02:39:37",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "伊拉克外長表示，美國財政部要求伊拉克關閉與伊朗的大部分邊境口岸，僅保留兩個開放。"
+    },
+    {
+      "id": "5201633",
+      "time": "2026-11-09 02:25:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "閃迪暗盤突破850美元，日內漲2.3%。"
+    },
+    {
+      "id": "5201632",
+      "time": "2026-11-09 02:25:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士暗盤突破130美元，日內漲1.5%。"
+    },
+    {
+      "id": "5201631",
+      "time": "2026-11-09 02:20:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特主導的聯軍：葉門胡塞武裝在試圖襲擊東部地區時使用了平臺。"
+    },
+    {
+      "id": "5201630",
+      "time": "2026-11-09 02:20:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍：摧毀了葉門薩那的彈道導彈發射平臺。"
+    },
+    {
+      "id": "5201629",
+      "time": "2026-11-09 02:20:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部表示，在四個俄聯邦以及克里米亞半島上空擊落50架烏克蘭無人機。"
+    },
+    {
+      "id": "mkt:01a1bc63-59e4-7ee0-aac6-8051f2ea6e15",
+      "time": "2026-11-09 02:19:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi-led coalition spokesman Turki al-Maliki said the coalition destroyed a ballistic-missile launch platform in Sanaa. Houthi forces attempted today to use the platform to attack the eastern region."
+    },
+    {
+      "id": "5201628",
+      "time": "2026-11-09 02:18:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國共和黨中期選舉失敗後，民主黨擬對馬斯克、白宮辦公廳主任米勒及美國企業界展開調查。"
+    },
+    {
+      "id": "mkt:01a1bc5b-3c19-7ee0-aac6-7b82fef17319",
+      "time": "2026-11-09 02:10:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran FM: US needs time to digest election result; mediation paused】IRNA reported that during a cabinet meeting Iran’s foreign minister Araghchi said the US election outcome needs time to be digested and to determine how to proceed. He said intermediaries have had no contact in recent days because of the result, and that the situation will need time to improve before intermediaries resume mediation."
+    },
+    {
+      "id": "5201627",
+      "time": "2026-11-09 02:07:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：我們拭目以待，看美國方面何時能消化選舉結果，從而決定如何延續現有路線。"
+    },
+    {
+      "id": "5201626",
+      "time": "2026-11-09 02:07:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：美國大選結果出爐後，要讓重啟談判斡旋的條件成熟還需時日。"
+    },
+    {
+      "id": "5201625",
+      "time": "2026-11-09 02:06:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普在以色列選舉後通話中要求內塔尼亞胡推進加沙和平計劃】特朗普上週四在與以色列總理內塔尼亞胡的電話中表示，希望內塔尼亞胡採取措施落實其加沙和平計劃。該和平路線圖要求解除哈馬斯武裝、實現加沙非軍事化，並將該地帶的治理責任移交新的巴勒斯坦技術官僚政府，但由於10月27日舉行的以色列選舉，該計劃已擱置數月。特朗普政府不希望該計劃的落地在以色列選舉期間成為引發政治爭議的議題。特朗普在選舉前夕剛剛對內塔尼亞胡表示支援，如今選舉已經結束，無論由內塔尼亞胡還是反對派組建新政府，均希望推進其加沙計劃。"
+    },
+    {
+      "id": "mkt:01a1bc56-7733-7ee0-aac6-7711e460f6aa",
+      "time": "2026-11-09 02:05:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump urges Netanyahu to press Gaza peace roadmap regardless of who forms next Israeli government】President Trump told Israeli Prime Minister Netanyahu he wants Netanyahu to advance a Gaza peace roadmap regardless of who forms the next government, Axios reported citing two people. The roadmap envisages disarming Hamas, demilitarizing the Gaza Strip and transferring local governance to a new Palestinian technocratic administration. The plan has been shelved since Israel’s Oct. 27 election; the U.S. seeks to avoid the issue becoming a campaign flashpoint. The day after the call, peace committee member and former British prime minister Tony Blair visited Israel."
+    },
+    {
+      "id": "mkt:01a1bc55-0d6b-7ee0-aac6-6c517c61486c",
+      "time": "2026-11-09 02:04:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Axios, US President Trump told Israeli Prime Minister Netanyahu in a Thursday call that he wants Netanyahu to take steps to advance implementation of Netanyahu's Gaza peace plan."
+    },
+    {
+      "id": "mkt:01a1bc53-089b-7ee0-aac6-65567842c83a",
+      "time": "2026-11-09 02:02:00",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "US10Y"
+      ],
+      "text": "【Rare attack on Riyadh financial district threatens Saudi foreign investment push】Houthi rebels struck a landmark building in the Riyadh Financial District (KAFD), disrupting Riyadh’s plan to return to normal roughly a month after a deadly strike on Riyadh airport that halted travel and forced event cancellations. KAFD houses the Public Investment Fund (PIF), the Saudi stock exchange and global consultancies and asset managers including Goldman Sachs and Brookfield, raising confidence risks for international firms already hit by months of regional conflict. The attack occurred during a remote-working period, limiting immediate operational impact. The escalation could further increase political pressure on Crown Prince Mohammed bin Salman as he seeks to advance a multi-trillion-dollar economic diversification program. Saudi authorities have delayed or cancelled major events in the past month, including the AFC Asian Cup and the Future Investment Initiative, which had been expected to support the economy and attract foreign investment."
+    },
+    {
+      "id": "5201624",
+      "time": "2026-11-09 01:56:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗是一個失敗國家，通脹率已達301%，重返戰事的可能性極小，但如有必要，我也會這麼做。"
+    },
+    {
+      "id": "mkt:01a1bc4c-f031-7ee0-aac6-5e7f91b5fc74",
+      "time": "2026-11-09 01:55:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Saudi media: Iraqi delegation visited Tehran to relay US message】Saudi Al Arabiya Hadath reported an Iraqi delegation visited Tehran and met Iranian officials to convey a message from the US, citing anonymous sources. The visit lasted about eight hours and came after US envoy Tom Barrack’s trip to Baghdad and a phone call between US President Trump and Iraqi prime minister al-Zaidi; the report did not identify delegation members, Iranian interlocutors, or the content of the US message."
+    },
+    {
+      "id": "5201623",
+      "time": "2026-11-09 01:55:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨或將削減英國汽車行業的電動汽車目標。"
+    },
+    {
+      "id": "5201622",
+      "time": "2026-11-09 01:54:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特媒體：伊拉克代表團訪問伊朗並轉達美方資訊】據沙烏地阿拉伯阿拉比亞電視臺旗下哈達斯新聞頻道8日報道，一個伊拉克代表團日前訪問伊朗首都德黑蘭，與伊朗官員舉行會談並轉達美國方面的資訊。報道援引匿名訊息人士的話說，伊拉克代表團此次訪問持續約8小時。訪問發生在美國特使湯姆·巴拉克訪問伊拉克首都巴格達，以及美國總統特朗普與伊拉克總理扎伊迪通電話之後。（新華社）"
+    },
+    {
+      "id": "5201621",
+      "time": "2026-11-09 01:53:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯正加緊推出自主版“星鏈”系統，該系統可能使俄方運營方能夠控制深入烏克蘭境內的無人機。"
+    },
+    {
+      "id": "5201620",
+      "time": "2026-11-09 01:50:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：大機率無需動武，伊朗極度渴望達成協議】特朗普稱伊朗防空體系已被摧毀：“打擊將勢不可擋，他們已經沒有防空裝備，全部防空設施已被消滅。” 特朗普披露伊朗導彈、無人機庫存的最新情況：“他們最多隻能維持約10%的產能，生產少量導彈；無人機產能約15%，大量工廠已經被毀。” 談及新一輪軍事行動的可能性，他再度重申：“大機率無需動武。伊朗極度渴望達成協議。”"
+    },
+    {
+      "id": "mkt:01a1bc46-d912-7ee0-aac6-535cd520b0c3",
+      "time": "2026-11-09 01:48:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump says US military ready to strike Iran again but prefers to avoid new attack】Trump told CNN an attack on Iran would be extremely unlikely if negotiations make progress, but said US forces are prepared to strike if ordered. He said three aircraft carriers are in position and fully mission-ready, and that the US has identified 38 infrastructure targets in Iran, including bridges and power plants, that could be destroyed within an hour. He added he would prefer to avoid destroying such assets because reconstruction would take years. Trump also said Iran’s air defenses have been destroyed and the regime retains roughly 10% of its previous missile capability and 15% of its drone capability."
+    },
+    {
+      "id": "mkt:01a1bc3f-e92f-7ee0-aac6-4ce7dae4d8ee",
+      "time": "2026-11-09 01:41:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump: progress in talks on Iran nuclear program and Strait of Hormuz makes renewed US war 'extremely unlikely'】President Trump said negotiations over Iran’s nuclear program and reopening the Strait of Hormuz, if they make progress, would make it \"extremely unlikely\" he would order the US back into war with Iran. He said any outcome depends on Iran signing a \"very tough\" deal but added military action remains an option—\"if necessary, I'll do it\"—while asserting the US has already struck Iran hard and could \"completely destroy\" it. Trump described Iran as a failing state with rapidly deteriorating finances, citing newly released data showing inflation at 301%."
+    },
+    {
+      "id": "5201619",
+      "time": "2026-11-09 01:39:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：若伊朗談判取得進展，重啟軍事打擊的可能性極低】美國總統特朗普週日接受採訪時表示，如果圍繞伊朗核計劃以及重新開放霍爾木茲海峽的協議談判取得進展，他下令對伊朗實施新一輪軍事打擊的可能性“極低”。他稱伊朗迫切希望達成協議。"
+    },
+    {
+      "id": "5201618",
+      "time": "2026-11-09 01:36:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗：若談判持續取得進展，'極不可能'下令美國重返與伊朗的戰爭。"
+    },
+    {
+      "id": "mkt:01a1bc3a-8868-7ee0-aac6-411826c3d5e5",
+      "time": "2026-11-09 01:35:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "CNN reports Trump said if negotiations with Iran continue to make progress, it is \"highly unlikely\" he would order the United States to return to war with Iran."
+    },
+    {
+      "id": "5201617",
+      "time": "2026-11-09 01:33:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊顧問：伊朗正在對繳獲的美國軍事裝備進行逆向工程。"
+    },
+    {
+      "id": "5201616",
+      "time": "2026-11-09 01:29:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及列車脫軌事故已致7死112傷】當地時間11月8日，根據埃及衛生部的最新通報，當天發生在吉薩省阿亞特地區的列車脫軌事故，已造成7人死亡、112人受傷。其中45名傷者經治療後情況好轉，已出院。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1bc33-1e97-7ee0-aac6-3eceb842f1ed",
+      "time": "2026-11-09 01:27:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Russian Defence Ministry says it struck Ukrainian energy infrastructure and two vessels supporting Ukrainian forces】The Russian Defence Ministry said on the afternoon of the 8th Russian forces used drones to strike Ukrainian energy infrastructure and sea vessels serving Ukrainian forces. The ministry said a dry-cargo ship carrying Ukrainian military equipment was hit in the southwestern Black Sea off Odesa, and a container ship transporting dual-use military-civilian goods was struck at Chornomorsk port. It added the 330 kV Kamyanska substation in Dnipropetrovsk region, previously supplying power to the region's defence-industrial enterprises, was also hit."
+    },
     {
       "id": "5201615",
       "time": "2026-11-09 01:16:38",
@@ -96539,713 +97222,6 @@
         "國際"
       ],
       "text": "特朗普談加拿大：我們有一個非常好的交易方案。"
-    },
-    {
-      "id": "5186069",
-      "time": "2026-11-02 04:35:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在愛荷華州集會前接受記者採訪。"
-    },
-    {
-      "id": "5186068",
-      "time": "2026-11-02 04:34:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長邁克·約翰遜：已經與眾議員史蒂文斯談過話。"
-    },
-    {
-      "id": "mkt:01a198d1-c517-7ee0-aa20-761b848b67a9",
-      "time": "2026-11-02 04:34:06",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Westpac says inflation remains above the Reserve Bank of Australia's target range; interest rates could remain elevated until 2027."
-    },
-    {
-      "id": "5186067",
-      "time": "2026-11-02 04:33:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：史蒂文斯背書羅傑斯一事之後，我會聯絡並向她表達感謝。"
-    },
-    {
-      "id": "mkt:01a198cf-1db3-7ee0-aa20-6b7a877597be",
-      "time": "2026-11-02 04:31:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran foreign minister outlines two-day plan; US compliance could reopen Iran‑US talks】Iran’s foreign minister said after mediation talks in Qatar and Pakistan Tehran has agreed to a two‑day plan: day one the US would take a package of compliance measures; day two the Strait of Hormuz would be reopened and shipping restored. Iran said resumption of Iran‑US negotiations depends on US fulfillment of commitments, which Iran listed as: agreeing new navigation routes through the Strait of Hormuz, unfreezing Iranian assets, ending regional conflicts including in Lebanon, lifting maritime blockades, granting exemptions for Iranian oil exports, and removing US sanctions imposed after the Islamabad memorandum."
-    },
-    {
-      "id": "mkt:01a198c7-ed81-7ee0-aa20-650d46c835eb",
-      "time": "2026-11-02 04:23:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran says two tankers hit mines, exploded in Strait of Hormuz while transiting without authorization】Iran’s Islamic Revolutionary Guard Corps (IRGC) navy said on the evening of Nov. 1 local time that two tankers struck mines and exploded while transiting the Strait of Hormuz without Iranian authorization; one was a supertanker. The IRGC said the vessels had switched off navigation systems and attempted a covert transit with U.S. military support but were forced to stop after hitting mines."
-    },
-    {
-      "id": "5186066",
-      "time": "2026-11-02 04:22:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱兩艘油輪未經授權穿越霍爾木茲海峽觸雷爆炸】當地時間11月1日晚，伊朗伊斯蘭革命衛隊海軍宣佈，兩艘油輪未經伊朗授權穿越霍爾木茲海峽時觸雷爆炸，其中一艘是超級油輪。伊朗伊斯蘭革命衛隊稱，這兩艘油輪關閉了導航系統，企圖在美軍的支援下秘密穿越霍爾木茲海峽，但在觸雷後被迫停航。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a198c6-2ece-7ee0-aa20-5ee483fe2bc2",
-      "time": "2026-11-02 04:21:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera quoted a Gaza Health Ministry spokesman saying last month recorded the highest number of casualties since the ceasefire."
-    },
-    {
-      "id": "mkt:01a198c2-d0a2-7ee0-aa20-52d9fce4cdc0",
-      "time": "2026-11-02 04:17:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FAA said a business jet crashed in Greenex, Florida, with nine people aboard."
-    },
-    {
-      "id": "5186065",
-      "time": "2026-11-02 04:12:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長披露“兩天計劃” 美方履約方能重啟伊美談判】伊朗外長阿拉格齊在接受媒體採訪時表示，伊朗代表團訪問卡達是伊朗與卡達、巴基斯坦等調解方持續溝通的延續。目前，擺在桌面的方案與伊朗此前提出的“七日計劃”基本相同。該計劃提出了伊朗開放霍爾木茲海峽的條件，以及如果伊朗的條件得到滿足，霍爾木茲海峽將於第六天開放，伊美談判將於第七天恢復。卡達和巴基斯坦等調解方也就此進行了多次磋商和討論，並提出了比伊朗“七日計劃”更具可行性和可操作性的建議。阿拉格齊表示，卡達提出的建議之一是“將七天期限縮短至五天甚至更短”。本次伊朗代表團訪問期間也與卡方探討了這一建議。目前，伊朗同意一項“兩天計劃”，即：第一天，美國將採取一系列（履約）措施。第二天，霍爾木茲海峽將開放，海峽交通將恢復到之前的狀態。 (央視新聞)"
-    },
-    {
-      "id": "5186064",
-      "time": "2026-11-02 04:08:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【保加利亞現總統約託娃宣佈在總統選舉中獲勝】當地時間11月1日，保加利亞現任總統伊莉亞娜·約託娃宣佈在當天舉行的總統選舉第二輪投票中勝出，當選保加利亞第七屆總統。她的競選搭檔基里爾·瓦爾採夫也將當選保加利亞副總統。（央視新聞）"
-    },
-    {
-      "id": "5186063",
-      "time": "2026-11-02 04:06:55",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗：兩艘違規油輪在霍爾木茲海峽內爆炸】伊朗革命衛隊海軍公關部門通報：兩艘違規油輪取道霍爾木茲海峽的未經許可航線航行，撞上水雷後發生爆炸。其中一艘為超級油輪，因擅自取道該海峽禁行航線，劇烈爆炸後起火，目前仍在燃燒。這兩艘油輪關閉了導航與識別系統，試圖在美方軍隊的協助下，經由霍爾木茲海峽的這條未獲批航線秘密通行。事故發生後船隻已被截停。"
-    },
-    {
-      "id": "5186062",
-      "time": "2026-11-02 04:05:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "一名參與美伊談判的外交官：談判取得積極進展，斡旋方正在彌合雙方尚存的分歧與關切。"
-    },
-    {
-      "id": "mkt:01a198b7-7d7d-7ee0-aa20-4a7feb70d48c",
-      "time": "2026-11-02 04:05:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "According to Iran's TASNIM NEWS, two oil tankers struck mines while sailing on an unauthorized route in the Strait of Hormuz."
-    },
-    {
-      "id": "5186061",
-      "time": "2026-11-02 04:05:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮官員：特朗普總統將於明天，也就是中期選舉前一日，在倒影池發表講話；其不會赴各州舉辦競選集會。"
-    },
-    {
-      "id": "5186060",
-      "time": "2026-11-02 04:03:56",
-      "tags": [
-        "資料",
-        "央行"
-      ],
-      "text": "【澳大利亞準備迎來年內第五次加息，抗通脹力度持續加碼】澳大利亞央行或將在今年第五次加息，以此遏制通脹。該國通脹水平在發達經濟體中處於高位。多數經濟學家預計，澳洲儲備銀行九人理事會將把現金利率上調25個基點至4.85%，創下18年新高。澳洲聯儲的通脹目標區間為2%‑3%，而通脹長期高於該區間上限，這會損害央行來之不易的公信力。"
-    },
-    {
-      "id": "5186059",
-      "time": "2026-11-02 04:03:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：兩艘油輪在霍爾木茲海峽沿“未經授權的航線”航行時觸雷。"
-    },
-    {
-      "id": "5186058",
-      "time": "2026-11-02 04:02:54",
-      "tags": [
-        "宏觀",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美債市場迎來繁忙一週：中期選舉疊加國債再融資計劃】美國債券持有人剛剛度過一年多以來表現最好的一個月，接下來將面臨多重風險：中期選舉、財政部最新發債方案，以及一連串美聯儲官員講話。投資者將緊盯週二的投票結果，判斷民主黨能否從共和黨手中奪取國會控制權。自上世紀90年代中期以來，國會或政府分立的局面往往利好美債。但部分人士對此存疑，認為本次聯邦赤字規模巨大，該情景未必能給債券帶來同樣利好。轉天，財政部將釋出季度再融資宣告。不少一級交易商預期指引會出現調整，可能為2027年削減長期國債發行鋪路，同時增加短期國庫券和短期限票據供給。除此之外，還有多名美聯儲官員講話、重磅就業資料陸續出爐，都有可能改變市場對貨幣政策路徑的預期。"
-    },
-    {
-      "id": "5186057",
-      "time": "2026-11-02 04:02:05",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【華爾街靜待美債發行迎來多年最大調整】華爾街正準備迎接美國國債發行指引的重大調整，不少交易商預計財政部會在季度政策宣告中修改發行指引。部分交易商預測財政部將宣佈削減20年期、30年期債券的發行規模；另一些人則認為財政部會維持現有指引，拍賣規模保持不變。財政部季度再融資宣告還可能出臺國債回購新指引，多數投資者預期官員會維持現行方案：10年期至30年期品種各自每月60億美元回購額度。"
-    },
-    {
-      "id": "5186056",
-      "time": "2026-11-02 03:59:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟AI執行長蘇萊曼：研發具備意識的人工智慧是魯莽之舉，不該開展這類研究。"
-    },
-    {
-      "id": "5186055",
-      "time": "2026-11-02 03:54:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "悉尼早盤交易中，美元兌G10貨幣匯率保持穩定。"
-    },
-    {
-      "id": "mkt:01a198aa-88d5-7ee0-aa20-41696182f77c",
-      "time": "2026-11-02 03:51:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump says he does not want Netanyahu to interfere in US-Iran talks】US and Israeli sources said Trump and Israeli Prime Minister Netanyahu held a direct, sharp call on Oct. 31 about US-Iran negotiations. Netanyahu urged Trump to resume war against Iran immediately after the Nov. 3 US midterms and expressed concern over Qatar-mediated talks. Trump told Netanyahu he preferred to let the talks proceed and did not want Israeli interference; sources said his stance could change materially if the talks fail. The White House and the Israeli prime minister’s office declined to comment."
-    },
-    {
-      "id": "5186054",
-      "time": "2026-11-02 03:47:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic 將效仿 OpenAI，設立中期選舉“作戰室”。"
-    },
-    {
-      "id": "5186053",
-      "time": "2026-11-02 03:44:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本民間團體舉行集會 反對高市政府擴軍修憲】11月1日，日本民間團體在熊本市舉行以“不要讓九州成為戰場”為主題的集會，關注日本在九州各地的軍事動向，反對高市政權的擴軍修憲政策。（央視新聞）"
-    },
-    {
-      "id": "5186052",
-      "time": "2026-11-02 03:43:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊發言人：戰爭的地理限制已被解除，各類物質和非物質目標已經確定，如果敵人進一步侵略，伊朗將展示新的能力和目標。"
-    },
-    {
-      "id": "5186051",
-      "time": "2026-11-02 03:40:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "幣安：感謝美國特勤局和其他機構追蹤資金。"
-    },
-    {
-      "id": "5186050",
-      "time": "2026-11-02 03:40:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "幣安：執法部門的快速反應有助於控制損失。"
-    },
-    {
-      "id": "5186049",
-      "time": "2026-11-02 03:36:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【義大利那不勒斯機場因改造停航一個月】當地時間11月1日，義大利那不勒斯國際機場開始暫停所有航班起降，停航將持續至11月30日，以進行跑道及滑行道升級改造。停航期間，部分航班將轉至附近的薩萊諾機場。"
-    },
-    {
-      "id": "mkt:01a1989a-2a25-7ee0-aa20-3b3665d8a698",
-      "time": "2026-11-02 03:33:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Exit polls show incumbent Bulgarian President Yotova leading in the second round of the presidential election."
-    },
-    {
-      "id": "5186048",
-      "time": "2026-11-02 03:29:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【出口民調：保現總統約託娃在總統選舉二輪投票中領先】保加利亞國家電視臺1日公佈的出口民調顯示，現任總統約託娃在當天舉行的總統選舉第二輪投票中領先。 據阿爾法研究機構出口民調，約託娃獲得52.5%的選票，前看守政府總理安德烈·古羅夫獲得43.4%，另有4.1%的選民選擇“不支援任何候選人”。 米亞拉社會學機構出口民調顯示，約託娃得票率為51.1%，古羅夫為44.6%，“不支援任何候選人”選項為4.3%。（新華社）"
-    },
-    {
-      "id": "5186047",
-      "time": "2026-11-02 03:22:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：我們的條件之一是，伊朗與阿曼之間就霍爾木茲海峽通行所商定的新航線必須得到接受，南部其他航線將被關閉。我們被凍結的資金必須解凍。"
-    },
-    {
-      "id": "5186046",
-      "time": "2026-11-02 03:17:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國一架小型飛機在佛羅里達州格林埃克斯墜毀。"
-    },
-    {
-      "id": "5186045",
-      "time": "2026-11-02 03:11:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院民主黨領袖舒默：眾議員史蒂文斯此舉是“卑劣的背叛”。"
-    },
-    {
-      "id": "5186044",
-      "time": "2026-11-02 03:04:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：對人工智慧進行沙盒測試的最佳方式，就是把它送上達美航空的航班，根本無法逃脫。3.8萬英尺的空中隔離。"
-    },
-    {
-      "id": "5186043",
-      "time": "2026-11-02 02:56:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞：德拉省東部鄉村傳出爆炸聲，目前正在核實爆炸性質。"
-    },
-    {
-      "id": "mkt:01a19871-145e-7ee0-aa20-304ece20d683",
-      "time": "2026-11-02 02:48:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "On Nov 1 local time, IRGC intelligence said it arrested a spy who had passed operational details of a UAV and missile-parts production center in Markazi province to a foreign adversary."
-    },
-    {
-      "id": "5186042",
-      "time": "2026-11-02 02:47:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊逮捕一名間諜 指其涉嫌洩露軍工情報】當地時間11月1日，伊朗革命衛隊情報機構宣佈逮捕一名間諜，此人向敵方洩露伊朗中央省的無人機和導彈部件生產中心的運作情況。（央視新聞）"
-    },
-    {
-      "id": "5186041",
-      "time": "2026-11-02 02:46:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列完成對伊新一輪作戰準備】以色列已完成與伊朗進行新一輪戰鬥的準備，並認為特朗普可能在數日內下令發動打擊。以色列和美國軍事官員在週末舉行了會談，與此同時，數十架美國運輸機和加油機抵達該地區，包括以色列的奧夫達和內瓦蒂姆空軍基地。以色列還與海灣國家進行了接觸，官員們越來越懷疑與伊朗的談判能否達成協議。"
-    },
-    {
-      "id": "5186040",
-      "time": "2026-11-02 02:40:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱讚美國密歇根州民主黨聯邦眾議員海莉·史蒂文斯對共和黨議員羅傑斯的支援。"
-    },
-    {
-      "id": "5186039",
-      "time": "2026-11-02 02:39:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊警告稱，已鎖定新的敵方目標，若再次遭到襲擊，將動用更多軍事能力。"
-    },
-    {
-      "id": "mkt:01a19868-0052-7ee0-aa20-2cb5a712c54c",
-      "time": "2026-11-02 02:38:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "【Israeli media: Mossad and IDF appear divided on targets for new Iran operations】Jerusalem Post sources say Prime Minister Netanyahu continues to push for Iranian regime change while Mossad chief Roman Gof is drafting plans to advance that aim; the IDF is focused primarily on eliminating concrete threats. Cited potential targets include the PICKAXE MOUNTAIN nuclear site; operations to reduce the risk of Iran retrieving 60% enriched uranium from the rubble of three previously struck nuclear sites; new facilities linked to weapons R&D; newly built or repaired ballistic missile production sites; and strategic-weapons projects. Israeli officials have also publicly threatened strikes on Iran’s major energy infrastructure. It is unclear whether assassinations of senior Iranian officials would be included. Since June 2025 Israel has twice killed dozens of senior Iranian officials, including, the report says, Ayatollah Ali Khamenei, but other senior regime figures have remained defiant. Public discussion of action against Mojtaba Khamenei — identified in the report as Ali Khamenei’s son and the regime’s current top leader — has been limited."
-    },
-    {
-      "id": "mkt:01a19864-0f9e-7ee0-aa20-22826d07e11f",
-      "time": "2026-11-02 02:34:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Israeli media: US seeks to limit any new action against Iran to as short as possible, possibly just days】Jerusalem Post reports Trump is focused on extracting nuclear concessions from Iran and on reopening the Strait of Hormuz. US officials are concentrating on limiting the duration of any new military action against Iran—potentially to only days—and have avoided assassinating senior Iranian officials in past strikes. Israeli officials likewise want to avoid a prolonged campaign like a 40-day war but have placed less emphasis on brevity, pressing instead for large-scale strikes to eliminate Tehran’s long-term threat."
-    },
-    {
-      "id": "mkt:01a19860-9cf4-7ee0-aa20-1d9e686ec688",
-      "time": "2026-11-02 02:30:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Carney: Canada, U.S. working to build mutually beneficial trade agreement】Canadian Prime Minister Carney said he held a productive conversation with U.S. President Trump on bilateral trade and that both sides are exploring a framework for a mutually beneficial Canada‑U.S. trade agreement. He said the deal aims to support jobs, lower household costs and respect Canadian sovereignty, and that negotiating teams will work closely over the coming weeks."
-    },
-    {
-      "id": "5186038",
-      "time": "2026-11-02 02:29:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普不希望以總理干擾美伊談判】據以色列第12頻道電視臺當地時間11月1日報道，以色列和美國訊息人士透露，美國總統特朗普與以色列總理內塔尼亞胡10月31日就美國與伊朗的談判進行了一次“直接而尖銳”的通話。訊息人士稱，內塔尼亞胡敦促特朗普在11月3日美國中期選舉結束後“立即恢復對伊朗的戰爭”，並對目前在卡達斡旋下進行的美伊談判感到擔憂。 特朗普現階段則希望“讓談判充分展開”，不希望以色列干擾談判程序。報道同時稱，如果談判失敗，特朗普的立場可能發生“顯著變化”。 白宮和以色列總理辦公室目前均拒絕就這一報道發表評論。（CCTV國際時訊）"
-    },
-    {
-      "id": "5186034",
-      "time": "2026-11-02 02:29:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名以色列高階官員表示，以色列軍方對可能與伊朗重啟戰事保持戒備，但正在等待政府下令；決定權在特朗普手中。"
-    },
-    {
-      "id": "5186030",
-      "time": "2026-11-02 02:25:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國勞埃德銀行集團開啟一輪自願裁員，接受方案的員工將於2027年第一季度離職。"
-    },
-    {
-      "id": "5186027",
-      "time": "2026-11-02 02:24:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國頭部銀行勞埃德銀行集團啟動一輪自願裁員。"
-    },
-    {
-      "id": "mkt:01a19858-5cf0-7ee0-aa20-126b94d24e79",
-      "time": "2026-11-02 02:21:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Gulf states warn renewed US–Israel strike on Iran could trigger larger regional war】Gulf states warn a renewed US–Israel strike on a better-prepared Iran could spark a far more destructive regional war that the Gulf would ultimately bear the cost of managing, UAE presidential foreign affairs adviser Anwar Gargash said at the Manama Dialogue. He said Gulf states had exhausted diplomatic options and are seeking a political solution. President Trump has repeatedly said the US and Israel will deliver a “final strike”; he ruled out strikes before Tuesday’s US midterm elections but did not rule out resuming military action if peace talks stall. RUSI deputy research fellow Mohammed Basha said he had not heard Gulf officials or civilians support strikes; most expect a new round of conflict and that Iran’s response would be more intense and likely not to follow previously observed rules of engagement."
-    },
-    {
-      "id": "mkt:01a19856-c91c-7ee0-aa20-0b6e5ddffd10",
-      "time": "2026-11-02 02:19:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Israeli military ready to support U.S. strikes on Iran if ordered; targets unclear】Jerusalem Post reports the IDF is prepared to join U.S. air strikes on Iran if ordered by Trump after the Nov. 3 U.S. midterm elections, though plans remain uncertain. The chance of an attack has risen after earlier aborted threats and as some advisers in Trump’s team again back military action. More than 10 U.S. military transport aircraft arrived this week at Nevatim and Ovda air bases in southern Israel, and Washington is moving air-defence systems and interceptors to Israel and select Arab partners. U.S. troop levels in the region remain below earlier peaks but these moves may signal an initial build-up. Washington and Jerusalem still disagree on specific operational targets."
-    },
-    {
-      "id": "5186016",
-      "time": "2026-11-02 02:17:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【卡尼：加美將在未來幾周擬定貿易方案】加拿大總理卡尼表示，已與特朗普通話，雙方將在未來幾周內敲定一份“互利共贏”的美加貿易協議。卡尼沒有詳述和特朗普的通話內容，他稱這次對話延續了近期富有建設性的磋商，協議框架將創造就業、減輕家庭生活負擔，並且“充分尊重加拿大的語言、文化與主權”。他表示：“雙方工作團隊接下來數週將推進相關工作，爭取達成目標。”"
-    },
-    {
-      "id": "5186015",
-      "time": "2026-11-02 02:15:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普就伊朗戰事下一步行動與內塔尼亞胡通話】特朗普與內塔尼亞胡週六就伊朗局勢通了一次氣氛緊張的電話：內塔尼亞胡催促特朗普在美國中期選舉結束後馬上打擊伊朗，特朗普則傾向先繼續談判，同時保留動武選項。美方近期透過副總統萬斯向伊朗高層傳遞資訊，是數月內層級最高的接觸；特朗普稱談判尚可但不信任伊朗，還表示美軍隨時可以快速打擊伊朗名為鎬山的疑似地下核設施。卡達調解方連續三日和伊朗會談斡旋美伊談判，伊朗外長稱尚無協議，要看美方答覆伊朗的訴求，希望美方選擇外交方式。美方延續雙線策略：一邊推動談判，一邊準備中期選舉後重啟大規模作戰。白宮和以總理辦公室均不評論這次通話。"
-    },
-    {
-      "id": "5186012",
-      "time": "2026-11-02 02:10:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美民主黨議員公開支援共和黨候選人】當地時間11月1日，據《紐約時報》報道，美國密歇根州民主黨聯邦眾議員海莉·史蒂文斯當天宣佈，支援共和黨聯邦參議員候選人邁克·羅傑斯。史蒂文斯此前在圍繞參議院議席的民主黨初選中敗給阿卜杜勒·賽義德。她的這一表態使民主黨內部分歧在中期選舉前進一步加劇。此前，史蒂文斯與賽義德因美國對以色列政策發生公開爭執。兩人原計劃共同出席一場旨在促進民主黨內團結的活動，但最終未能成行。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a1984d-8cb5-7ee0-aa20-0110f5d305a8",
-      "time": "2026-11-02 02:09:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "UKMTO reported receiving a report of an incident in the Strait of Hormuz; the ship's master said the vessel was struck by an unknown projectile."
-    },
-    {
-      "id": "5186010",
-      "time": "2026-11-02 02:07:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室：一艘船隻在霍爾木茲海峽被不明發射物擊中。"
-    },
-    {
-      "id": "mkt:01a1984b-a578-7ee0-aa1f-fc670208df33",
-      "time": "2026-11-02 02:07:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Netanyahu urges Trump to strike Iran immediately after midterms】Axios, citing an Israeli and a U.S. source, reported that Trump held a candid Saturday call with Israeli Prime Minister Netanyahu about U.S.-Iran talks and when to rapidly resume combat. The Israeli source said Netanyahu urged Trump to strike Iran immediately after Tuesday’s midterm elections; Trump favors letting negotiations continue, a stance that has worried Netanyahu. The Israeli source called the tone of the call “tough”; the U.S. source described it as “direct.” The White House and the Israeli prime minister’s office declined to comment."
-    },
-    {
-      "id": "5186003",
-      "time": "2026-11-02 02:03:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國南部城市發生槍擊事件致1人受傷】法國內政部長努內茲1日在社交媒體發文說，法國南部萊佩訥米拉博當日發生槍擊事件，造成1人受傷。"
-    },
-    {
-      "id": "5186002",
-      "time": "2026-11-02 02:03:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：特朗普目前希望讓與伊朗的談判繼續進行。"
-    },
-    {
-      "id": "5186001",
-      "time": "2026-11-02 02:02:55",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場資訊：內塔尼亞胡敦促特朗普在中期選舉後立即打擊伊朗。"
-    },
-    {
-      "id": "5185999",
-      "time": "2026-11-02 02:01:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "出口民調：對烏持懷疑立場的約託娃贏得保加利亞總統選舉。"
-    },
-    {
-      "id": "5185998",
-      "time": "2026-11-02 02:00:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：特朗普與內塔尼亞胡就伊朗戰爭的下一步行動通電話。"
-    },
-    {
-      "id": "5185990",
-      "time": "2026-11-02 01:58:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "芬蘭總統斯圖布：與烏克蘭總統澤連斯基通話，梳理了談判的當前進展。將繼續向烏克蘭提供政治、財政和防務支援，並積極開展外交行動，以結束衝突，在烏克蘭實現公正且可持續的和平。"
-    },
-    {
-      "id": "mkt:01a19841-fa87-7ee0-aa1f-f3ac9642d543",
-      "time": "2026-11-02 01:57:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【RIA: U.S. reconnaissance aircraft patrolled near Russian border for 5½ hours】RIA reported a Bombardier Artemis II reconnaissance aircraft, converted from a business jet, conducted a patrol along Russia’s border lasting about 5½ hours. The plane departed Mihail Kogălniceanu air base in southeastern Romania at about 09:47 Moscow time, flew a wide arc toward Kaliningrad Oblast, circled the oblast, proceeded along the border between the Baltic states and Russia, then returned near Kaliningrad before heading back to Romania. RIA said the aircraft’s maneuvers near the Russian border ran from 11:50 to 17:20 Moscow time. The jet is frequently used for radar reconnaissance around Kaliningrad and over the Black Sea along Crimea and southern Russia."
-    },
-    {
-      "id": "5185985",
-      "time": "2026-11-02 01:56:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄媒：美國一偵察機沿俄邊境巡邏五個半小時】據俄新社1日報道，飛行資料顯示，一架美國偵察機當天沿俄羅斯邊境進行了長達五個半小時的巡邏。（新華社）"
-    },
-    {
-      "id": "5185984",
-      "time": "2026-11-02 01:56:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：無人機襲擊導致蘇丹電網瀕臨崩潰。"
-    },
-    {
-      "id": "mkt:01a1983e-f198-7ee0-aa1f-e95897b2e42b",
-      "time": "2026-11-02 01:53:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "On Nov. 1 local time, Sudan's Sovereign Council said drone strikes from Ethiopia caused hundreds of civilian and military casualties in Sudan, CCTV reported."
-    },
-    {
-      "id": "mkt:01a1983e-5948-7ee0-aa1f-e2054c5d8c5c",
-      "time": "2026-11-02 01:53:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Latvian armed forces said an unidentified aerial object has left Latvian airspace and crossed the Latvia–Russia border; the airspace threat has been lifted."
-    },
-    {
-      "id": "5185979",
-      "time": "2026-11-02 01:52:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "拉脫維亞武裝部隊：不明飛行物已離開拉脫維亞領空，越過拉脫維亞與俄羅斯邊境，領空威脅已解除。"
-    },
-    {
-      "id": "5185976",
-      "time": "2026-11-02 01:52:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘇丹稱來自衣索比亞的無人機襲擊已造成數百人傷亡】當地時間11月1日，蘇丹主權委員會發表宣告稱，來自衣索比亞的無人機襲擊已在蘇丹造成數百名平民和軍人傷亡。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a1983c-2c6a-7ee0-aa1f-df2e61f60920",
-      "time": "2026-11-02 01:50:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【White House official: Trump plans Monday Lincoln Memorial reflecting pool speech to close midterm campaign】According to the Wall Street Journal, a senior White House official said Trump plans to deliver a Monday speech at the Lincoln Memorial reflecting pool as a midterm closing address, promoting repair and renovation projects in Washington. The official said the remarks will emphasize the agenda his administration and House Republicans have advanced since the start of a second term. Trump is due in Iowa and Kansas the day before. Restoring the reflecting pool is a stated priority in a broader Washington makeover that also includes a proposed new White House banquet hall."
-    },
-    {
-      "id": "5185973",
-      "time": "2026-11-02 01:48:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門：吉贊地區的危險已經解除。"
-    },
-    {
-      "id": "5185969",
-      "time": "2026-11-02 01:46:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法官駁回特朗普政府對阿拉斯加州美國參議院選舉提起的預防性法律挑戰。"
-    },
-    {
-      "id": "5185965",
-      "time": "2026-11-02 01:40:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國民主黨人黑莉·史蒂文斯在密歇根州關鍵的美國參議院競選中支援共和黨人邁克·羅傑斯。"
-    },
-    {
-      "id": "mkt:01a19831-8e74-7ee0-aa1f-d094053228ed",
-      "time": "2026-11-02 01:39:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zelenskiy proposes face-to-face meeting with Putin in Turkey】On Nov. 1, Ukrainian President Zelenskiy told media he is willing to hold a face-to-face meeting with Russian President Putin in Turkey and urged Turkish President Erdogan to use his communication channels to facilitate talks. Zelenskiy said delegations and technical working groups cannot resolve some issues and that the two heads of state hold final decision-making authority; he backed Turkey as the meeting venue and emphasized he wants to speak directly with Putin because final decisions rest with him."
-    },
-    {
-      "id": "5185960",
-      "time": "2026-11-02 01:38:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基提議在土耳其與普京會晤】當地時間11月1日，烏克蘭總統澤連斯基在接受媒體採訪時表示，他願意在土耳其同俄羅斯總統普京舉行面對面會晤，希望土耳其總統埃爾多安利用其與普京的溝通渠道，促成這場領導人直接談判。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a1982e-e2bd-7ee0-aa1f-c9d142f87e30",
-      "time": "2026-11-02 01:36:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports U.S. Senator Chris Murphy, a Democrat, has been hospitalized after suffering a stroke."
-    },
-    {
-      "id": "5185955",
-      "time": "2026-11-02 01:33:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "三菱重工將擴建由三菱電力美洲公司運營的薩凡納機械廠。"
-    },
-    {
-      "id": "5185954",
-      "time": "2026-11-02 01:33:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "三菱重工計劃投資4.9億美元，用於提升其佐治亞州工廠的產能。"
-    },
-    {
-      "id": "5185953",
-      "time": "2026-11-02 01:33:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國民主黨參議員克里斯·墨菲因中風入院。其為參議院外委會近東、南亞、反恐小組核心民主黨成員。"
-    },
-    {
-      "id": "mkt:01a19826-bd85-7ee0-aa1f-c3ad67c9dc54",
-      "time": "2026-11-02 01:27:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Latvian armed forces warned of threats to airspace over two regions and urged residents to stay indoors."
-    },
-    {
-      "id": "mkt:01a19825-f6f3-7ee0-aa1f-bff9d7128b19",
-      "time": "2026-11-02 01:26:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran foreign minister says Tehran prepared for both defense and diplomacy】Iran's foreign minister told Iranian media on Nov. 1 that Tehran is prepared on both defense and diplomatic fronts; which route it pursues depends on whether the United States acts rationally. Iran urged the US to remain rational and prioritize diplomacy over other options."
-    },
-    {
-      "id": "5185949",
-      "time": "2026-11-02 01:25:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列選舉負責人：儘管存在外國資金試圖影響選舉的嚴重嫌疑，選舉結果仍將維持有效。相關指控性質嚴重，但即使得到證實，也不會使整體選舉結果無效。"
-    },
-    {
-      "id": "5185948",
-      "time": "2026-11-02 01:25:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：伊朗已做好防禦和外交兩手準備，選擇取決於美國是否理性。"
     }
   ]
 }
