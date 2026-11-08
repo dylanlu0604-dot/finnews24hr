@@ -1,7 +1,23 @@
 {
   "date": "2026-11-09",
-  "count": 135,
+  "count": 137,
   "items": [
+    {
+      "id": "mkt:01a1bd0b-b33e-7ee0-aac7-5a0fcb779bc9",
+      "time": "2026-11-09 05:23:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump on $3 billion net-worth rise: 'You should own stocks'】President Trump, asked about reports his net worth rose $3 billion since returning to the White House, said everyone's net worth has increased. A reporter disputed the $3 billion figure; Trump replied, \"You should own stocks.\""
+    },
+    {
+      "id": "mkt:01a1bd0a-7bf6-7ee0-aac7-56b07108853e",
+      "time": "2026-11-09 05:22:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A preliminary assessment by the Iraqi armed forces commander's office showed the attack on Holmoul caused no casualties."
+    },
     {
       "id": "5201679",
       "time": "2026-11-09 05:19:47",

@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-09 05:22:03",
+  "updated": "2026-11-09 05:25:53",
   "count": 10612,
   "items": [
+    {
+      "id": "mkt:01a1bd0b-b33e-7ee0-aac7-5a0fcb779bc9",
+      "time": "2026-11-09 05:23:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump on $3 billion net-worth rise: 'You should own stocks'】President Trump, asked about reports his net worth rose $3 billion since returning to the White House, said everyone's net worth has increased. A reporter disputed the $3 billion figure; Trump replied, \"You should own stocks.\""
+    },
+    {
+      "id": "mkt:01a1bd0a-7bf6-7ee0-aac7-56b07108853e",
+      "time": "2026-11-09 05:22:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A preliminary assessment by the Iraqi armed forces commander's office showed the attack on Holmoul caused no casualties."
+    },
     {
       "id": "5201679",
       "time": "2026-11-09 05:19:47",
@@ -97226,24 +97242,6 @@
         "國際"
       ],
       "text": "特朗普：MAGA運動如今比以往任何時候都更強大。"
-    },
-    {
-      "id": "5186084",
-      "time": "2026-11-02 05:23:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國得州參議院競選耗資創紀錄達5.73億美元】美國得克薩斯州聯邦參議員競選現已成為美國史上耗資最高的非總統類選舉，募款總額達到創紀錄的5.73億美元。福克斯新聞最新民調顯示，共和黨候選人肯·帕克斯頓與民主黨候選人詹姆斯·塔拉里科支援率同為49%，打成平手；而各地選民對最終誰能勝出看法不一。有選民批評這名共和黨候選人，也有人預判得州仍將保持紅州底色。"
-    },
-    {
-      "id": "mkt:01a198fe-07f9-7ee0-aa20-babb442483f8",
-      "time": "2026-11-02 05:22:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Erdogan says opportunities for cooperation with South Korea in nuclear power, AI】Erdogan will visit South Korea from the 2nd to 4th and meet South Korea's Lee, he said on the 1st. He said priorities are deepening political dialogue and reinvigorating economic ties, identifying the defence industry, nuclear power, high-tech, artificial intelligence and renewables as key cooperation areas. He set a target to raise bilateral trade to USD15 billion annually, seek a more balanced trade structure, boost investment and tighten production cooperation. He specifically flagged the planned second nuclear power plant at Sinop in northern Turkey, naming South Korea an important candidate partner for the project."
     }
   ]
 }
