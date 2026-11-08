@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-09 01:01:59",
-  "count": 10616,
+  "updated": "2026-11-09 01:05:45",
+  "count": 10615,
   "items": [
+    {
+      "id": "mkt:01a1bc1e-6509-7ee0-aac6-1a3e637d9961",
+      "time": "2026-11-09 01:04:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran navy says non-compliant tanker struck mine, caught fire east of Strait of Hormuz】Iran's navy said on the 8th that before midday a tanker transiting a closed zone east of the Strait of Hormuz struck a mine and caught fire; the vessel had turned off its navigation system. Iran said the Strait will remain closed to non-compliant vessels until all threats are removed."
+    },
     {
       "id": "5201610",
       "time": "2026-11-09 00:59:01",
@@ -97210,24 +97222,6 @@
         "國際"
       ],
       "text": "澤連斯基：有跡象表明，特朗普總統將邀請我們參加二十國集團峰會，並啟動結束衝突的倡議。"
-    },
-    {
-      "id": "5185921",
-      "time": "2026-11-02 01:04:35",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【巴西石油公司上調航空煤油價格，11月1日起生效】巴西石油公司釋出宣告稱，自2026年11月1日起，上調面向經銷商的航空煤油（航煤）平均售價7.2%，較上月每升上漲0.45雷亞爾（合0.083美元）。這家國企解釋，本次調價源於國際航煤價格上漲，誘因是中東地緣緊張局勢加劇，以及俄烏衝突造成俄、烏煉油產能縮減。"
-    },
-    {
-      "id": "5185919",
-      "time": "2026-11-02 01:03:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭媒體：11月2日烏克蘭將實施停電計劃。當日6時至23時59分，部分地區將對所有類別使用者實施分時段停電，每輪停電時長為1.5至2.5小時。"
     }
   ]
 }

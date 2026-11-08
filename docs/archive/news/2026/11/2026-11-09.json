@@ -1,7 +1,19 @@
 {
   "date": "2026-11-09",
-  "count": 28,
+  "count": 29,
   "items": [
+    {
+      "id": "mkt:01a1bc1e-6509-7ee0-aac6-1a3e637d9961",
+      "time": "2026-11-09 01:04:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran navy says non-compliant tanker struck mine, caught fire east of Strait of Hormuz】Iran's navy said on the 8th that before midday a tanker transiting a closed zone east of the Strait of Hormuz struck a mine and caught fire; the vessel had turned off its navigation system. Iran said the Strait will remain closed to non-compliant vessels until all threats are removed."
+    },
     {
       "id": "5201610",
       "time": "2026-11-09 00:59:01",
