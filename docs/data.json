@@ -1,7 +1,64 @@
 {
-  "updated": "2026-11-09 04:47:44",
-  "count": 10608,
+  "updated": "2026-11-09 04:51:30",
+  "count": 10612,
   "items": [
+    {
+      "id": "mkt:01a1bcec-f9ac-7ee0-aac7-2ed4a9b97cd6",
+      "time": "2026-11-09 04:50:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Zelenskiy orders military to respond to Russian 'unusual activity' in Kherson】Zelenskiy said on the evening of the 8th that Russian forces have recently carried out large-scale personnel and equipment rotations and reinforced positions in Kherson, including rotations on the left bank of the Dnipro in Russian-held areas, and used an Oleshky humanitarian operation as cover. He convened regional governors, instructed the military to propose further measures to protect local civilians, and Ukrainian media have reported abnormal Russian military movements in Kherson."
+    },
+    {
+      "id": "mkt:01a1bcec-f556-7ee0-aac7-25a6c8293490",
+      "time": "2026-11-09 04:50:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market flash: Asked by Fox News whether she would abolish borders, the Supreme Court or prisons, Democratic New York Mayor Mamdani replied \"No\" to each."
+    },
+    {
+      "id": "5201673",
+      "time": "2026-11-09 04:49:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：若抗議者攻入愛麗捨宮，法國安全官員已做好將法國總統馬克龍轉移至巴黎郊外一處秘密避難所的準備。"
+    },
+    {
+      "id": "mkt:01a1bcec-bf2a-7ee0-aac7-19f842594210",
+      "time": "2026-11-09 04:49:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said the \"Iron Gate\" task force—aimed at preventing Iran from using land routes and other channels to move advanced weapons and other materiel across borders—is conducting full-scale operations in Iran. He said that, coupled with the largest maritime blockade in history, almost nothing can enter or leave Iran."
+    },
+    {
+      "id": "5201672",
+      "time": "2026-11-09 04:48:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普表示，在海上封鎖配合下，進出伊朗的物資極少。"
+    },
+    {
+      "id": "5201671",
+      "time": "2026-11-09 04:47:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普表示，鐵門工作組已全面投入運作。"
+    },
     {
       "id": "5201670",
       "time": "2026-11-09 04:46:43",
@@ -97187,30 +97244,6 @@
         "國際"
       ],
       "text": "美國交通部長達菲：棕櫚灘飛機墜毀事故9名遇難者全部確認。"
-    },
-    {
-      "id": "mkt:01a198e0-3ff0-7ee0-aa20-9273a2a73612",
-      "time": "2026-11-02 04:49:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【UAE hopes for US-Iran talks breakthrough, readies for worst】After threats of a renewed Middle East war, the UAE said it hopes US-Iran talks will yield a diplomatic breakthrough while preparing for worst-case outcomes. Anwar, the UAE presidential foreign policy adviser, said “we hope for a diplomatic breakthrough,” adding the region does not want another escalation and that the UAE, as before, is preparing for the worst."
-    },
-    {
-      "id": "mkt:01a198de-e388-7ee0-aa20-8fe2a3f98d69",
-      "time": "2026-11-02 04:48:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Axios: Iranian delegation left Doha; reports that Qatar‑Iran talks 'made no progress' are false】Axios, citing a diplomat who took part in negotiations, said reports that Qatar‑Iran talks had made no progress are inaccurate. The diplomat said the Iranian delegation departed Doha early Sunday, that yesterday’s talks achieved positive progress, and mediators are working to bridge remaining differences and concerns raised in the meeting."
     }
   ]
 }
