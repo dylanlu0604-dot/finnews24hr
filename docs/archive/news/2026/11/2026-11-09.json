@@ -1,7 +1,67 @@
 {
   "date": "2026-11-09",
-  "count": 2,
+  "count": 9,
   "items": [
+    {
+      "id": "mkt:01a1bbf4-48eb-7ee0-aac5-d172cc098052",
+      "time": "2026-11-09 00:18:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he trusts Hegseth and that Hegseth's position is not currently at risk."
+    },
+    {
+      "id": "mkt:01a1bbf3-b643-7ee0-aac5-c81e170c9777",
+      "time": "2026-11-09 00:17:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "President Trump said he trusts US Secretary of Defense Hegseth and that the US fought and won wars in Venezuela and Iran."
+    },
+    {
+      "id": "mkt:01a1bbf3-5d71-7ee0-aac5-c32344e85eeb",
+      "time": "2026-11-09 00:17:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "CBS reports President Trump said he may reshuffle his administration."
+    },
+    {
+      "id": "5201599",
+      "time": "2026-11-09 00:16:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我信任國防部長赫格塞思，我們在委內瑞拉和伊朗打了兩場仗，並都取得了勝利。"
+    },
+    {
+      "id": "mkt:01a1bbf2-2feb-7ee0-aac5-bc60570304a2",
+      "time": "2026-11-09 00:16:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's army commander says a joint security coordination committee with Turkey has been launched."
+    },
+    {
+      "id": "5201598",
+      "time": "2026-11-09 00:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門政府軍：過去24小時內，在多條戰線對胡塞武裝據點實施了992次空襲及炮擊。"
+    },
+    {
+      "id": "5201597",
+      "time": "2026-11-09 00:15:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：可能會對政府進行一些調整，但目前不想透露具體人選。"
+    },
     {
       "id": "5201596",
       "time": "2026-11-09 00:10:19",
