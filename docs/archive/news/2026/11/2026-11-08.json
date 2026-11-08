@@ -1,7 +1,23 @@
 {
   "date": "2026-11-08",
-  "count": 398,
+  "count": 400,
   "items": [
+    {
+      "id": "mkt:01a1baab-af48-7ee0-aac4-1eeb33e5c866",
+      "time": "2026-11-08 18:19:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【University of Cambridge AI-designed avian influenza vaccine shows cross-strain protection in animal tests】The University of Cambridge and a university spinout said an AI-designed candidate broad-spectrum avian influenza vaccine protected animals against multiple genetically distinct strains in preclinical studies. Researchers analysed global surveillance sequence data with AI to design “super-antigens” that capture conserved viral features, screened candidates in cells, then tested the selected immunogen in mice and ferrets. All vaccinated animals survived challenge with several strains that have previously infected humans; a comparison group given an existing avian influenza vaccine had roughly 50% survival. Lead researcher Jonathan Heeney said the candidate aims to offer broad protection against evolving avian influenza viruses and that AI substantially accelerates vaccine design."
+    },
+    {
+      "id": "5201406",
+      "time": "2026-11-08 18:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭已就克拉科夫槍擊案啟動恐怖主義相關調查。"
+    },
     {
       "id": "5201405",
       "time": "2026-11-08 18:13:27",

@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-08 18:16:21",
+  "updated": "2026-11-08 18:20:17",
   "count": 10628,
   "items": [
+    {
+      "id": "mkt:01a1baab-af48-7ee0-aac4-1eeb33e5c866",
+      "time": "2026-11-08 18:19:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【University of Cambridge AI-designed avian influenza vaccine shows cross-strain protection in animal tests】The University of Cambridge and a university spinout said an AI-designed candidate broad-spectrum avian influenza vaccine protected animals against multiple genetically distinct strains in preclinical studies. Researchers analysed global surveillance sequence data with AI to design “super-antigens” that capture conserved viral features, screened candidates in cells, then tested the selected immunogen in mice and ferrets. All vaccinated animals survived challenge with several strains that have previously infected humans; a comparison group given an existing avian influenza vaccine had roughly 50% survival. Lead researcher Jonathan Heeney said the candidate aims to offer broad protection against evolving avian influenza viruses and that AI substantially accelerates vaccine design."
+    },
+    {
+      "id": "5201406",
+      "time": "2026-11-08 18:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭已就克拉科夫槍擊案啟動恐怖主義相關調查。"
+    },
     {
       "id": "5201405",
       "time": "2026-11-08 18:13:27",
@@ -97300,24 +97316,6 @@
         "其他"
       ],
       "text": "【上海電氣與寧德時代達成戰略合作】近日，上海電氣與寧德時代在上海簽署戰略合作協議。雙方將圍繞零碳園區、新型儲能、綠色交通及國際業務等展開合作，推進新型電力系統建設與“雙碳”戰略落地。"
-    },
-    {
-      "id": "5185703",
-      "time": "2026-11-01 18:17:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【名創優品：10月30日於紐交所回購9.93萬股普通股】名創優品公告稱，2026年10月30日（美國時間），公司根據第10b5-1條回購計劃於紐約證券交易所回購24824股美國存托股，對應99296股普通股，擬全部登出。本次回購每股最高價格2.565美元、最低價格2.545美元，付出總金額253797.54美元。公司回購授權於2026年6月18日獲批，可回購股份總數為12140.41萬股，截至本次回購完成累計已回購3372.41萬股，佔授權獲批日已發行股份的2.78%。本次回購後新股發行等事項暫止期截至2026年11月29日。"
-    },
-    {
-      "id": "5185702",
-      "time": "2026-11-01 18:17:40",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【比亞迪10月新能源汽車銷量49.02萬輛 同比增長11%】比亞迪10月新能源汽車銷量49.02萬輛，同比增長10.97%；前10個月累計銷量362.17萬輛，同比下降2.16%。其中，純電動汽車10月銷量30.57萬輛，同比增長37.38%；插電式混合動力汽車銷量17.74萬輛，同比下降17.22%。前10個月純電動汽車累計銷量193.57萬輛，同比增長5.86%；插混汽車累計銷量162.60萬輛，同比下降11.02%。10月出口新能源汽車17.02萬輛。"
     }
   ]
 }
