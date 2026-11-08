@@ -1,7 +1,23 @@
 {
   "date": "2026-11-08",
-  "count": 190,
+  "count": 192,
   "items": [
+    {
+      "id": "mkt:01a1b938-d837-7ee0-aac2-c9208382b0c5",
+      "time": "2026-11-08 11:34:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【White House deputy chief of staff Walters to depart as Miller prepares to take over】Axios reported White House Deputy Chief of Staff Richard Walters will leave the Trump administration. His exit is the first senior departure expected as incoming Chief of Staff Stephen Miller prepares a personnel reshuffle. Walters, a close aide to outgoing Chief of Staff Susie Wiles, submitted his resignation on Friday and will leave by mutual agreement, people familiar with the matter said, signaling a West Wing power handover as Miller’s team moves into senior roles."
+    },
+    {
+      "id": "5201234",
+      "time": "2026-11-08 11:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【史文斌任福建省委委員、常委和省紀委書記】日前，中共中央批准：史文斌同志任福建省委委員、常委和省紀委書記。（新福建）"
+    },
     {
       "id": "5201233",
       "time": "2026-11-08 11:30:31",

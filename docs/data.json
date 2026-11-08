@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-08 11:32:07",
+  "updated": "2026-11-08 11:36:01",
   "count": 10666,
   "items": [
+    {
+      "id": "mkt:01a1b938-d837-7ee0-aac2-c9208382b0c5",
+      "time": "2026-11-08 11:34:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【White House deputy chief of staff Walters to depart as Miller prepares to take over】Axios reported White House Deputy Chief of Staff Richard Walters will leave the Trump administration. His exit is the first senior departure expected as incoming Chief of Staff Stephen Miller prepares a personnel reshuffle. Walters, a close aide to outgoing Chief of Staff Susie Wiles, submitted his resignation on Friday and will leave by mutual agreement, people familiar with the matter said, signaling a West Wing power handover as Miller’s team moves into senior roles."
+    },
+    {
+      "id": "5201234",
+      "time": "2026-11-08 11:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【史文斌任福建省委委員、常委和省紀委書記】日前，中共中央批准：史文斌同志任福建省委委員、常委和省紀委書記。（新福建）"
+    },
     {
       "id": "5201233",
       "time": "2026-11-08 11:30:31",
@@ -97640,22 +97656,6 @@
         "焦點"
       ],
       "text": "暗盤金價突破3900美元/盎司，日內漲幅0.02%。"
-    },
-    {
-      "id": "5185491",
-      "time": "2026-11-01 11:32:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣汽豐田10月銷量同比下降25.95%】11月1日，廣汽豐田公佈，2026年10月銷量53022臺，上年同期為71604臺。廣汽豐田介紹，鉑智3X累計交付超15萬臺。"
-    },
-    {
-      "id": "5185490",
-      "time": "2026-11-01 11:32:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東汽車產業鏈上市公司達28家】“山東整車生產企業已覆蓋比亞迪、吉利、奇瑞、一汽大眾、中國重汽、一汽解放、北汽福田等一批龍頭企業。”省工業和資訊化廳裝備產業處處長賀強介紹，2025年全省智慧網聯汽車產量佔汽車產量比重達62.7%，濰柴等10家企業入圍2026年中國汽車供應鏈百強。圍繞做強新能源重卡優勢、做大新能源乘用車規模、突破智慧網聯業態等方面，山東正持續發力，力爭今年全省汽車製造業增加值增速保持在10%以上、營業收入突破7000億元。（山東釋出）"
     }
   ]
 }
