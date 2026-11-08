@@ -1,7 +1,27 @@
 {
   "date": "2026-11-09",
-  "count": 34,
+  "count": 36,
   "items": [
+    {
+      "id": "5201614",
+      "time": "2026-11-09 01:14:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：洩密資料顯示俄羅斯約40萬人在對烏衝突中死亡。"
+    },
+    {
+      "id": "mkt:01a1bc26-e5de-7ee0-aac6-3514d3f190eb",
+      "time": "2026-11-09 01:13:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran foreign minister says decision now lies with White House】Iran foreign minister Abbas Araghchi said U.S. voters have made their choice and the decision now rests with the White House. He said Iran’s \"48-hour proposal\" remains on the table — demanding, among other items, an end to all wars on all fronts — and warned that if the U.S. opts for war Iran’s alert, well-trained forces will unleash a blazing inferno on the battlefield."
+    },
     {
       "id": "5201613",
       "time": "2026-11-09 01:11:35",

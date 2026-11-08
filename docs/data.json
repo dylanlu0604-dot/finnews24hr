@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-09 01:13:22",
+  "updated": "2026-11-09 01:17:10",
   "count": 10618,
   "items": [
+    {
+      "id": "5201614",
+      "time": "2026-11-09 01:14:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：洩密資料顯示俄羅斯約40萬人在對烏衝突中死亡。"
+    },
+    {
+      "id": "mkt:01a1bc26-e5de-7ee0-aac6-3514d3f190eb",
+      "time": "2026-11-09 01:13:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran foreign minister says decision now lies with White House】Iran foreign minister Abbas Araghchi said U.S. voters have made their choice and the decision now rests with the White House. He said Iran’s \"48-hour proposal\" remains on the table — demanding, among other items, an end to all wars on all fronts — and warned that if the U.S. opts for war Iran’s alert, well-trained forces will unleash a blazing inferno on the battlefield."
+    },
     {
       "id": "5201613",
       "time": "2026-11-09 01:11:35",
@@ -97225,26 +97245,6 @@
         "國際"
       ],
       "text": "澤連斯基：不能在沒有烏克蘭參與的情況下決定烏克蘭的命運。這不公平，也不會產生任何結果。在沒有當事國在場的情況下談判該國的命運毫無意義。已經有過許多討論和會議。許多領導人曾試圖在沒有我們參與的情況下決定我們的命運。如你所知，這些都沒有產生結果。"
-    },
-    {
-      "id": "mkt:01a1981a-d927-7ee0-aa1f-b2e131f0ae88",
-      "time": "2026-11-02 01:14:18",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Saudi-led coalition says it carried out precision strike on Houthi forces】On Nov. 1 local time, Saudi-led coalition spokesman Turki al-Maliki said via social media the coalition carried out a precision strike that morning aimed at destroying key resources the Houthi movement uses to support its military operations. Al-Maliki said Houthi attacks threaten civilian lives, civilian infrastructure and the security of Saudi, Yemeni and southern Red Sea shipping. The coalition affirmed it will continue necessary measures to prevent the Houthis from using such resources. The statement did not disclose the strike’s location or results."
-    },
-    {
-      "id": "mkt:01a1981a-7b4b-7ee0-aa1f-ad856ccc7b7f",
-      "time": "2026-11-02 01:13:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Missile attack near military facility in Aden, Yemen】Local time Nov. 1 — A Yemeni security official said Houthi forces fired missiles at an area near a government military facility in the southern port city of Aden. Residents reported large explosions audible across multiple neighborhoods. The Houthi movement has not commented."
     }
   ]
 }
