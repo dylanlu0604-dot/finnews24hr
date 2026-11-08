@@ -1,7 +1,31 @@
 {
   "date": "2026-11-08",
-  "count": 184,
+  "count": 187,
   "items": [
+    {
+      "id": "5201230",
+      "time": "2026-11-08 11:19:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮迎來首輪高層人事變動，米勒接掌幕僚長】白宮副幕僚長理查德・沃爾特斯即將離任，這是新任白宮幕僚長斯蒂芬・米勒上任、預期內部人事洗牌後的首起重要人員變動。沃爾特斯是即將卸任的幕僚長蘇西・懷爾斯的親信，他的離開標誌著白宮西翼權力交接，米勒的團隊即將接手更多核心崗位。知情人士稱，沃爾特斯於週五遞交辭呈，此次離職過程友好。共和黨在中期選舉失利後，特朗普於週五任命米勒接替懷爾斯擔任白宮幕僚長。沃爾特斯表示：“為特朗普總統服務是我一生的榮幸，我永遠感謝蘇西・懷爾斯給予我的機會。斯蒂芬正在搭建一支優秀、精幹的團隊落實總統施政議程，我將在外部繼續提供支援。”米勒對沃爾特斯予以肯定，稱其會在白宮之外繼續協助政府工作。"
+    },
+    {
+      "id": "5201229",
+      "time": "2026-11-08 11:16:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：白宮副幕僚長沃爾特斯將離職。"
+    },
+    {
+      "id": "mkt:01a1b927-e428-7ee0-aac2-c7def3a05ddd",
+      "time": "2026-11-08 11:16:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Australia pares back defence-property sales, keeps Sydney Victoria Barracks】Australia has scaled back a planned disposal of vacant defence land after public criticism, excluding several heritage military sites including Sydney's Victoria Barracks. The government had proposed selling more than 60 military sites to raise about A$3.0bn (~US$2.1bn) to help fund defence capability upgrades; excluding these properties reduces the pool of assets slated for sale, the government said. Prime Minister Anthony Albanese said Victoria Barracks will be retained as a public asset."
+    },
     {
       "id": "5201228",
       "time": "2026-11-08 11:11:23",

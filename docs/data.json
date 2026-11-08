@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-08 11:15:54",
+  "updated": "2026-11-08 11:19:50",
   "count": 10667,
   "items": [
+    {
+      "id": "5201230",
+      "time": "2026-11-08 11:19:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮迎來首輪高層人事變動，米勒接掌幕僚長】白宮副幕僚長理查德・沃爾特斯即將離任，這是新任白宮幕僚長斯蒂芬・米勒上任、預期內部人事洗牌後的首起重要人員變動。沃爾特斯是即將卸任的幕僚長蘇西・懷爾斯的親信，他的離開標誌著白宮西翼權力交接，米勒的團隊即將接手更多核心崗位。知情人士稱，沃爾特斯於週五遞交辭呈，此次離職過程友好。共和黨在中期選舉失利後，特朗普於週五任命米勒接替懷爾斯擔任白宮幕僚長。沃爾特斯表示：“為特朗普總統服務是我一生的榮幸，我永遠感謝蘇西・懷爾斯給予我的機會。斯蒂芬正在搭建一支優秀、精幹的團隊落實總統施政議程，我將在外部繼續提供支援。”米勒對沃爾特斯予以肯定，稱其會在白宮之外繼續協助政府工作。"
+    },
+    {
+      "id": "5201229",
+      "time": "2026-11-08 11:16:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：白宮副幕僚長沃爾特斯將離職。"
+    },
+    {
+      "id": "mkt:01a1b927-e428-7ee0-aac2-c7def3a05ddd",
+      "time": "2026-11-08 11:16:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Australia pares back defence-property sales, keeps Sydney Victoria Barracks】Australia has scaled back a planned disposal of vacant defence land after public criticism, excluding several heritage military sites including Sydney's Victoria Barracks. The government had proposed selling more than 60 military sites to raise about A$3.0bn (~US$2.1bn) to help fund defence capability upgrades; excluding these properties reduces the pool of assets slated for sale, the government said. Prime Minister Anthony Albanese said Victoria Barracks will be retained as a public asset."
+    },
     {
       "id": "5201228",
       "time": "2026-11-08 11:11:23",
@@ -97640,32 +97664,6 @@
         "其他"
       ],
       "text": "【上汽通用五菱10月銷量142757輛】11月1日，上汽通用五菱公佈，2026年10月全球總銷量142757輛，其中新能源銷量為99958輛。"
-    },
-    {
-      "id": "5185485",
-      "time": "2026-11-01 11:17:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東風本田10月終端銷量同比降逾四成】11月1日，東風本田公佈，2026年10月終端銷量為17,026臺，環比增長16.9%，上年同期為28,896臺。其中，CR-V銷量為10,455臺，環比增長7.9%；HR-V銷量為2,383臺，環比增長71.8%。"
-    },
-    {
-      "id": "mkt:01a1951b-9800-7ee0-aa1c-c0d10e31cceb",
-      "time": "2026-11-01 11:16:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "【Leapmotor: October global deliveries 106,127 units, +51% YoY】Leapmotor reported October global deliveries of 106,127 vehicles, up 51% YoY and marking a fourth consecutive month above 100,000 units. As of end‑October 2026 cumulative deliveries exceed 1.9 million vehicles; the company is set to roll its 2 millionth vehicle off the production line in November."
-    },
-    {
-      "id": "5185484",
-      "time": "2026-11-01 11:16:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【民調：即便中期選舉結果不佳，MAGA也不會拋棄特朗普】民調顯示，無論週二選舉結果如何，特朗普的忠實基本盤都會繼續支援他。 民調結果顯示，多數2024年投票給特朗普、自認屬於MAGA群體的選民認為，如果共和黨遭遇慘敗，共和黨應當進一步向特朗普靠攏。這項由PF Global開展的調查揭示了共和黨聯盟內部的一條裂痕。如果共和黨下週遭遇重大失利，這條裂痕可能進一步擴大，而特朗普在黨內的定位將是矛盾核心。54%的MAGA派特朗普選民表示，如果共和黨下週同時丟掉參眾兩院，這說明共和黨需要更加貼近特朗普及其政策議程；僅有不到四分之一的受訪者認為，共和黨應當和特朗普拉開距離。但非MAGA派特朗普選民的觀點正好相反。44%的非MAGA特朗普選民認為，一旦遭遇重大失利，共和黨就需要和特朗普保持距離，僅31%認為共和黨應當繼續向他靠攏。"
     }
   ]
 }
