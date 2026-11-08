@@ -1,7 +1,35 @@
 {
   "date": "2026-11-09",
-  "count": 9,
+  "count": 12,
   "items": [
+    {
+      "id": "mkt:01a1bbf6-4814-7ee0-aac5-e33b8392f9a4",
+      "time": "2026-11-09 00:20:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni government forces said 267 Houthi leaders and fighters have been killed or wounded and 97 Houthi vehicles and military units destroyed or rendered combat ineffective."
+    },
+    {
+      "id": "mkt:01a1bbf6-2483-7ee0-aac5-dbb71734021b",
+      "time": "2026-11-09 00:20:32",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Yemen government forces said they carried out 992 air and artillery strikes against Houthi positions across multiple fronts in the past 24 hours."
+    },
+    {
+      "id": "5201600",
+      "time": "2026-11-09 00:19:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：今晚將做客《60分鐘》節目。希望他們能完整呈現我們過去兩年取得的所有成果，還不算上第一任期的亮眼成績，第一任期的表現堪稱出色。如果能得到共和黨籍參議員的支援，我們依舊能做出令人驚歎的成就。"
+    },
     {
       "id": "mkt:01a1bbf4-48eb-7ee0-aac5-d172cc098052",
       "time": "2026-11-09 00:18:31",
