@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-09 00:27:27",
-  "count": 10617,
+  "updated": "2026-11-09 00:31:19",
+  "count": 10619,
   "items": [
+    {
+      "id": "mkt:01a1bbfd-4270-7ee0-aac5-f5601b0c27ef",
+      "time": "2026-11-09 00:28:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian navy says an oil tanker struck a mine and caught fire east of the Strait of Hormuz, Iranian media report."
+    },
+    {
+      "id": "mkt:01a1bbfc-917c-7ee0-aac5-eb80f8dd08c8",
+      "time": "2026-11-09 00:27:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says may reshuffle team, reiterates trust in Defense Secretary Pete Hegseth】President Trump told CBS he likes his team and may make personnel adjustments, but reiterated trust in Defense Secretary Pete Hegseth, saying Hegseth will not face a change in position for now. He also said the United States has fought wars in Venezuela and Iran and won both."
+    },
+    {
+      "id": "5201602",
+      "time": "2026-11-09 00:27:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗海軍稱一艘油輪在霍爾木茲海峽以東觸雷起火。"
+    },
     {
       "id": "5201601",
       "time": "2026-11-09 00:26:18",
@@ -97219,14 +97249,6 @@
         "國際"
       ],
       "text": "美國宇航局模擬火星任務的機組人員在隔離378天后出艙。"
-    },
-    {
-      "id": "5185863",
-      "time": "2026-11-02 00:27:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：全球在建核反應堆數量增至79座，人工智慧需求推動增長。"
     }
   ]
 }
