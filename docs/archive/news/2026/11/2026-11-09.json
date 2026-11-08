@@ -1,7 +1,32 @@
 {
   "date": "2026-11-09",
-  "count": 24,
+  "count": 27,
   "items": [
+    {
+      "id": "mkt:01a1bc16-c943-7ee0-aac6-14894f3b54ea",
+      "time": "2026-11-09 00:56:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A US State Department spokesperson said the United States will not tolerate anyone on US soil celebrating or defending terrorist attacks and that the department is continuing to review information on foreign diplomatic mission personnel in the US for any national security concerns."
+    },
+    {
+      "id": "5201609",
+      "time": "2026-11-09 00:56:11",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人表示，繼續對有關在美外國使團成員的資訊進行審查，包括任何國家安全方面的關切。"
+    },
+    {
+      "id": "mkt:01a1bc16-6ded-7ee0-aac6-0adb7f9cbdb6",
+      "time": "2026-11-09 00:55:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. State Department spokesperson said Lebanon's consul in Detroit, Ibrahim Sharara, has been declared persona non grata."
+    },
     {
       "id": "5201608",
       "time": "2026-11-09 00:51:38",
