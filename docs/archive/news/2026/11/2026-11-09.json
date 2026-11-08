@@ -1,7 +1,37 @@
 {
   "date": "2026-11-09",
-  "count": 132,
+  "count": 135,
   "items": [
+    {
+      "id": "5201679",
+      "time": "2026-11-09 05:19:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基指示軍方應對俄軍在赫爾松地區“異動”】烏克蘭總統澤連斯基8日晚說，俄軍近期在赫爾松地區進行大規模人員和裝備輪換並增派兵力，他已指示軍方就採取進一步措施保護當地民眾提出建議。（央視新聞）"
+    },
+    {
+      "id": "5201678",
+      "time": "2026-11-09 05:19:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士暗盤跌超1%，現報127.485美元。"
+    },
+    {
+      "id": "mkt:01a1bd07-7e4e-7ee0-aac7-4d6194ca4800",
+      "time": "2026-11-09 05:19:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Authorities in Iraq's Kurdistan region said the Khor Mor gas field was hit by a \"terrorist attack\" and they are working to minimize the impact."
+    },
     {
       "id": "5201677",
       "time": "2026-11-09 05:17:34",

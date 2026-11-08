@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-09 05:18:11",
-  "count": 10610,
+  "updated": "2026-11-09 05:22:03",
+  "count": 10612,
   "items": [
+    {
+      "id": "5201679",
+      "time": "2026-11-09 05:19:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基指示軍方應對俄軍在赫爾松地區“異動”】烏克蘭總統澤連斯基8日晚說，俄軍近期在赫爾松地區進行大規模人員和裝備輪換並增派兵力，他已指示軍方就採取進一步措施保護當地民眾提出建議。（央視新聞）"
+    },
+    {
+      "id": "5201678",
+      "time": "2026-11-09 05:19:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士暗盤跌超1%，現報127.485美元。"
+    },
+    {
+      "id": "mkt:01a1bd07-7e4e-7ee0-aac7-4d6194ca4800",
+      "time": "2026-11-09 05:19:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Authorities in Iraq's Kurdistan region said the Khor Mor gas field was hit by a \"terrorist attack\" and they are working to minimize the impact."
+    },
     {
       "id": "5201677",
       "time": "2026-11-09 05:17:34",
@@ -97214,14 +97244,6 @@
         "AI Revolution"
       ],
       "text": "【Erdogan says opportunities for cooperation with South Korea in nuclear power, AI】Erdogan will visit South Korea from the 2nd to 4th and meet South Korea's Lee, he said on the 1st. He said priorities are deepening political dialogue and reinvigorating economic ties, identifying the defence industry, nuclear power, high-tech, artificial intelligence and renewables as key cooperation areas. He set a target to raise bilateral trade to USD15 billion annually, seek a more balanced trade structure, boost investment and tighten production cooperation. He specifically flagged the planned second nuclear power plant at Sinop in northern Turkey, naming South Korea an important candidate partner for the project."
-    },
-    {
-      "id": "5186083",
-      "time": "2026-11-02 05:21:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國內政大臣或將在週一宣佈移民新規相關決定。"
     }
   ]
 }
