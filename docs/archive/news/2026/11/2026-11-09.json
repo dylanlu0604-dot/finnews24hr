@@ -1,7 +1,72 @@
 {
   "date": "2026-11-09",
-  "count": 1334,
+  "count": 1342,
   "items": [
+    {
+      "id": "5203765",
+      "time": "2026-11-09 22:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "登臨科技將香港IPO定價為每股231港元。"
+    },
+    {
+      "id": "mkt:01a1c09c-c73e-7ee0-aad9-d95482c3b7bd",
+      "time": "2026-11-09 22:01:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine President Zelenskiy spoke with Indian Prime Minister Modi, briefing him on the current diplomatic situation and saying food security could be an area for cooperation. They discussed Russia's obstruction of Black Sea grain exports. Zelenskiy said India is willing to mediate to push for a grain transport corridor, and he hoped those efforts would continue."
+    },
+    {
+      "id": "5203764",
+      "time": "2026-11-09 21:59:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，11月6日，美國有效聯邦基金利率為3.88%，交易額為1050億美元，而11月5日為3.88%，交易額為1110億美元。"
+    },
+    {
+      "id": "5203763",
+      "time": "2026-11-09 21:58:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "強生：安全性資料令人鼓舞，研究結果顯示，隨著該聯合療法進入第三階段，其有望實現門診給藥。"
+    },
+    {
+      "id": "mkt:01a1c09a-12af-7ee0-aad9-d50cf058af33",
+      "time": "2026-11-09 21:58:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pandora CEO said recent protests in France and Spain have affected company performance; Black Friday promotions this year will focus on Europe and the US."
+    },
+    {
+      "id": "5203762",
+      "time": "2026-11-09 21:58:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "桑坦德銀行美股盤前漲超5%，現報12.34美元。"
+    },
+    {
+      "id": "5203761",
+      "time": "2026-11-09 21:57:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數日內跌幅達0.5%，報101.78點。"
+    },
+    {
+      "id": "5203760",
+      "time": "2026-11-09 21:57:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "強生：在晚期前列腺癌中，其研究性基於pasritamig的免疫聯合療法顯示73%的PSA緩解率。"
+    },
     {
       "id": "mkt:01a1c098-40b6-7ee0-aad9-cf44d8826d72",
       "time": "2026-11-09 21:56:05",
