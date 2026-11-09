@@ -1,7 +1,196 @@
 {
-  "updated": "2026-11-09 22:42:29",
-  "count": 10603,
+  "updated": "2026-11-09 22:46:24",
+  "count": 10614,
   "items": [
+    {
+      "id": "mkt:01a1c0c5-8cd6-7ee0-aada-da250e72475c",
+      "time": "2026-11-09 22:45:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump senior adviser Jared Kushner said he will hold talks with UK and NATO partners before traveling to Abu Dhabi."
+    },
+    {
+      "id": "5203850",
+      "time": "2026-11-09 22:45:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲2.01%，現報25072.476點；道指漲1.36%，現報51983.148點；標普500指數漲1.57%，現報7492.420點。"
+    },
+    {
+      "id": "mkt:01a1c0c5-4fb6-7ee0-aada-d5a4c255e46b",
+      "time": "2026-11-09 22:45:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Nasdaq 100 extends gains to 2%, S&P 500 up 1.5%."
+    },
+    {
+      "id": "te:markets:599636",
+      "time": "2026-11-09 22:45:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises as Oil Dip Eases Inflation Worries — The S&P/TSX Composite Index rose nearly 1% to move above 36,000 on Monday as a dip in oil prices tempered inflation worries. Crude fell on hopes for US-Iran diplomatic efforts, and lower oil prices somewhat eased inflation concerns, with Canadian yields edging lower. Credit-sensitive sectors such as banks, pressured by inflation and higher interest rates, enjoyed respite: BMO, Scotiabank and CIBC each rose nearly 1%. Meanwhile, gold prices rose, supporting miners. Barrick (+5%) posted higher third-quarter profit as higher gold prices outweighed lower production. Franco-Nevada (+3%) is scheduled to report earnings on Wednesday. Elsewhere, Strathcona Resources (-0.5%) said on Sunday it would acquire Greenfire Resources (+38%) in a deal valued at about C$2.7 billion to C$2.9 billion, including debt. Power of Canada (+0.5%) is also due to report Q3 results on Wednesday."
+    },
+    {
+      "id": "te:markets:599635",
+      "time": "2026-11-09 22:44:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rises as Lower Oil Prices Ease Inflation Concerns — Silver climbed more than 1% to $52.7 an ounce on Monday, supported by lower oil prices that eased inflation concerns, as investors awaited US CPI and PPI data due later this week for further clues on the Federal Reserve’s monetary policy outlook. The advance follows a 6% rally last week, after Democrats won control of both chambers of Congress in the US midterm elections, raising hopes for a potential end to the US-Israeli war with Iran. Oil prices fell sharply on Monday after US President Donald Trump downplayed the likelihood of further strikes against Iran. These gains came despite a stronger-than-expected US employment report released on Friday, which reinforced expectations that the Federal Reserve could keep interest rates higher for longer, supporting the US dollar and Treasury yields. Markets currently assign an 81% probability to a Fed rate hike in December, according to the CME FedWatch Tool."
+    },
+    {
+      "id": "5203849",
+      "time": "2026-11-09 22:44:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "庫什納：將會見英國和北約夥伴，隨後前往阿布扎比。"
+    },
+    {
+      "id": "mkt:01a1c0c4-9c26-7ee0-aada-cd01c9630929",
+      "time": "2026-11-09 22:44:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Philadelphia Semiconductor Index (SOX) up 3%."
+    },
+    {
+      "id": "5203848",
+      "time": "2026-11-09 22:44:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達(NVDA.O)跌幅收窄至6%以內。"
+    },
+    {
+      "id": "5203847",
+      "time": "2026-11-09 22:44:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲3%】費城半導體指數日內漲3.00%，現報9671.97點。英偉達跌5.60%，博通漲6.68%，美光漲2.65%，英特爾漲1.44%，AMD漲6.90%，高通漲0.90%，臺積電漲3.02%，阿斯麥漲5.13%。"
+    },
+    {
+      "id": "5203846",
+      "time": "2026-11-09 22:43:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克指數期貨漲2.01%，現報27628.590點；道瓊斯指數期貨漲1.34%，現報52074.540點；標普500指數期貨漲1.42%，現報7507.295點。"
+    },
+    {
+      "id": "mkt:01a1c0c3-cce7-7ee0-aada-c4672e35a0f3",
+      "time": "2026-11-09 22:43:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE data showed Dutch near‑month gas futures fell over 5% to €81.23/MWh."
+    },
+    {
+      "id": "5203845",
+      "time": "2026-11-09 22:43:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股工業概念板塊盤中走高】美股工業概念板塊盤中走高，Builders Firstsource、卡特彼勒漲超4%，康寧、艾默生電氣、沃納企業、江森自控、力拓等上漲。"
+    },
+    {
+      "id": "5203844",
+      "time": "2026-11-09 22:43:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指開盤上漲1%。"
+    },
+    {
+      "id": "5203843",
+      "time": "2026-11-09 22:43:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "美光科技上漲1.7%，ARM控股上漲3.1%。"
+    },
+    {
+      "id": "5203842",
+      "time": "2026-11-09 22:43:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "英特爾上漲1.1%，邁威爾科技上漲4.2%，高通上漲0.7%。"
+    },
+    {
+      "id": "te:markets:599634",
+      "time": "2026-11-09 22:43:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rises on Easing Inflation Concerns — Gold rose more than 1% to $4,125 an ounce on Monday as falling oil prices eased inflation concerns, while investors awaited US CPI and PPI data this week for clues on the Federal Reserve’s policy outlook. The gain follows a 5% rally last week after Democrats won control of both chambers of Congress in the US midterm elections, raising hopes for an end to the US-Israeli war with Iran. Oil prices fell sharply on Monday after US President Donald Trump downplayed the likelihood of further strikes against Iran. Gold’s gains came despite a stronger-than-expected US employment report released on Friday, which reinforced expectations of higher interest rates for longer, supporting the dollar and Treasury yields. Markets currently price in an 81% probability of a Fed rate hike in December, according to CME FedWatch. Meanwhile, China’s central bank purchased 25.8 metric tons of gold in October, its largest monthly addition in three years, according to World Gold Council data."
+    },
+    {
+      "id": "5203841",
+      "time": "2026-11-09 22:42:47",
+      "tags": [
+        "資料"
+      ],
+      "text": "CoFrame完成新一輪融資，由Khosla Ventures和Hanabi Capital共同領投，OpenAI、Anthropic及Google DeepMind的高管參與投資。"
+    },
+    {
+      "id": "mkt:01a1c0c2-6422-7ee0-aada-bd1dde56b4ea",
+      "time": "2026-11-09 22:42:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) pared losses to under 6%."
+    },
+    {
+      "id": "5203840",
+      "time": "2026-11-09 22:42:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "ICE資料顯示，荷蘭近月天然氣期貨下跌逾5%，至81.23歐元/兆瓦時。"
+    },
+    {
+      "id": "5203839",
+      "time": "2026-11-09 22:41:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其TEB銀行獲得分五期發放的歐元和美元銀團貸款。"
+    },
     {
       "id": "5203838",
       "time": "2026-11-09 22:40:50",
@@ -97081,90 +97270,6 @@
         "國際"
       ],
       "text": "美國股市延續漲勢，道瓊斯指數漲幅擴大至1%，標普500指數漲0.60%，納斯達克綜合指數漲0.81%。"
-    },
-    {
-      "id": "te:economy:597349",
-      "time": "2026-11-02 22:46:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Canada Manufacturing Growth Falls to Lowest in 10 Months — The S&P Global Canada Manufacturing PMI fell to 49.6 in October 2026 from 51.5 in September, signalling the first contraction in 2026 so far. Production declined for the first time since March, as delivery delays caused the sharpest deterioration in supplier delivery times since August 2022. Manufacturers increasingly relied on existing inventories, with stocks of purchases falling for a second consecutive month. New orders contracted at the fastest pace in over a year, as tariffs and geopolitical uncertainty weighed on domestic and export demand. New export orders fell for a fifth straight month, recording their steepest decline since January. Meanwhile, input cost inflation accelerated to its highest level since June 2022, driven by tariffs and rising fuel prices. Manufacturers passed on higher costs, pushing output price inflation to a more than four-year high. Employment fell for the first time since March. Business confidence remained historically subdued."
-    },
-    {
-      "id": "5188008",
-      "time": "2026-11-02 22:45:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局批准治療罕見呼吸系統疾病的藥物後，INOVIO製藥公司股價飆升186%。"
-    },
-    {
-      "id": "5188007",
-      "time": "2026-11-02 22:45:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "亞馬遜上漲3.9%，Alphabet上漲2.2%，此前Anthropic第三季度淨虧損較上一季度收窄。"
-    },
-    {
-      "id": "5188006",
-      "time": "2026-11-02 22:45:06",
-      "tags": [
-        "資料",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國10月標普全球製造業PMI終值 54.9，預期56，前值56。"
-    },
-    {
-      "id": "te:markets:597348",
-      "time": "2026-11-02 22:44:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "American Express Shares Hit 6-week High — American Express shares increased to 326.51 USD, the highest since September 2026. Over the past 4 weeks, American Express gained 7.71%, and in the last 12 months, it decreased 9.8%."
-    },
-    {
-      "id": "5188005",
-      "time": "2026-11-02 22:44:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "NAPCO股價在第一季度營收未達預期後下跌17.2%。"
-    },
-    {
-      "id": "5188004",
-      "time": "2026-11-02 22:43:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "KOSMOS ENERGY第三季度營收未達預期，股價下跌13%。"
-    },
-    {
-      "id": "5188003",
-      "time": "2026-11-02 22:43:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【重慶公佈涪陵管道迸裂事故調查報告】2日，重慶市應急管理局向社會公佈了重慶涪陵興涪電力公司管道迸裂事故調查報告。經事故調查組認定，該起事故是一起因重慶興涪電力開發有限公司發電分公司未落實安全風險分級管控制度，未消除壓力鋼管管壁腐蝕減薄安全隱患，未按規定對壓力鋼管進行焊接處理，未明確發電執行與防腐加固交叉作業的安全管理措施導致的較大生產安全責任事故。（新華社）"
-    },
-    {
-      "id": "5188002",
-      "time": "2026-11-02 22:43:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國選定6家主承銷商負責數字國債試點工具。"
     }
   ]
 }
