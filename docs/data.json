@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-09 08:33:12",
-  "count": 10668,
+  "updated": "2026-11-09 08:36:56",
+  "count": 10671,
   "items": [
+    {
+      "id": "5201836",
+      "time": "2026-11-09 08:35:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國Kospi指數扭轉跌勢；最新上漲0.4%，報5079.08點。"
+    },
+    {
+      "id": "mkt:01a1bdbb-b752-7ee0-aac9-6c73e4ec0a09",
+      "time": "2026-11-09 08:35:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose about USD20 intraday, approaching USD4,100/oz."
+    },
+    {
+      "id": "5201835",
+      "time": "2026-11-09 08:35:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伯克希爾·哈撒韋公司準備發行日元債券】據知情人士透露，伯克希爾哈撒韋公司已委託瑞穗證券和美銀證券，籌備一項潛在的基準規模日元計價、固定利率、高階無擔保債券發行計劃。該債券將在美國證券交易委員會（SEC）註冊。知情人士稱，該交易的正式宣佈預計將在近期進行，但“需視市場狀況而定”。"
+    },
+    {
+      "id": "mkt:01a1bdbb-2df4-7ee0-aac9-652862c17867",
+      "time": "2026-11-09 08:35:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures rose to $4,100/oz, up 0.62% intraday."
+    },
+    {
+      "id": "5201834",
+      "time": "2026-11-09 08:35:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報52.49美元/盎司。"
+    },
+    {
+      "id": "5201833",
+      "time": "2026-11-09 08:35:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4100美元/盎司，日內漲0.62%。"
+    },
+    {
+      "id": "5201832",
+      "time": "2026-11-09 08:35:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4090美元/盎司，日內漲0.47%。"
+    },
+    {
+      "id": "te:economy:599291",
+      "time": "2026-11-09 08:34:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Building Permits MoM",
+        "Importance 1"
+      ],
+      "text": "Recovery in Australia Building Permits Confirmed — Australia’s seasonally adjusted dwelling approvals rose 5.1% month-on-month to 17,948 units in September 2026, matching flash estimates and rebounding from a 5.2% decline in August. It marked the first increase in three months, driven by a strong recovery in private-sector dwellings excluding houses, which surged 16.6% to 6,579 units after plunging 21.7% previously. In contrast, private-sector house approvals fell 5.3% to 10,432 units, reversing a 5.4% increase in August. Across states and territories, approvals rose sharply in New South Wales (37.3%) and Queensland (28.0%), but declined in Victoria (-28.9%), Tasmania (-25.7%), Western Australia (-8.7%), and South Australia (-3.2%). Annually, total dwelling approvals slipped 0.8%, reversing August’s 12.1% increase."
+    },
+    {
+      "id": "5201831",
+      "time": "2026-11-09 08:33:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【廣發證券：美國中期選舉加劇算力建設約束 國產算力鏈有望破局】廣發證券研報表示，美國中期選舉落地，民主黨或對AI趨嚴監管；美國算力建設成本承壓，中國製造與部署優勢凸顯。自主可控需求持續強化，國產算力與半導體制造相關產業鏈迎來發展機遇。隨著國產算力需求增長，GPU、交換機晶片及儲存晶片有望加速替代；先進製程受限亦提升先進封裝重要性，3D堆疊等技術有望推動國產算力系統效能突破，帶動國產半導體制造產業鏈發展。建議關注：國產算力：GPU、交換機晶片、儲存晶片及配套產業鏈相關標的；半導體制造：裝置、材料、晶圓代工及先進封測產業鏈相關標的。"
+    },
     {
       "id": "mkt:01a1bdb8-c656-7ee0-aac9-58b63a5b9445",
       "time": "2026-11-09 08:32:45",
@@ -97741,60 +97829,6 @@
         "國際"
       ],
       "text": "【韓國KOSPI指數轉漲】韓國KOSPI指數轉漲，此前一度跌超1.5%。"
-    },
-    {
-      "id": "5186225",
-      "time": "2026-11-02 08:36:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普再稱伊朗戰事將“很快結束”】據《以色列時報》當地時間11月1日報道，美國總統特朗普再稱伊朗戰事將很快結束。他暗示，結束方式要麼是雙方達成協議，要麼由美國再次發起軍事打擊。 “我們已經取得如此巨大的勝利，無論以何種方式，我們都會很快把它收尾。”特朗普接受一家媒體採訪時說，“要麼他們達成協議，要麼我們就直接結束它。結束它——我想你可以說，這也許是更容易的方式。” 特朗普已多次表示伊朗戰事將“很快結束”。但以色列與美國接連迎來的選舉使中東局勢變得微妙。據卡達半島電視臺11月1日報道，美伊均透過外交渠道釋放了談判仍在持續的訊號，但雙方未計劃進行直接對話。同時，面對美以可能對伊朗發動的新一輪軍事打擊，伊朗最高領袖穆傑塔巴於10月31日表示：“如果敵人再次發動軍事攻擊或恐怖襲擊，那麼決定衝突何時結束以及在何種條件下結束的，將是伊朗人民及其武裝力量。”（環球網）"
-    },
-    {
-      "id": "5186224",
-      "time": "2026-11-02 08:36:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【鎧俠股價大跌，業績指引暗示需求增長或將放緩】週一，日本儲存晶片製造商鎧俠控股的股價一度暴跌15%。此前，該公司給出的謹慎業績指引令投資者大失所望，再次引發市場對人工智慧（AI）驅動的爆發式增長可能正在放緩的擔憂。這家總部位於東京的企業上週五表示，預計12月季度的營業利潤為2萬億日元（約合127億美元），低於分析師普遍預期的2.35萬億日元。該預測暗示，其業績較9月季度的1.99萬億日元幾乎沒有增長。而在過去幾個季度裡，鎧俠的營業利潤一直保持著陡峭的增長態勢。作為三星電子、SK海力士和美光科技的競爭對手，鎧俠將這種增長乏力的勢頭主要歸咎於出貨時間點的變化，而非需求惡化。由於客戶的要求，部分原定於本季度的訂單被提前到了9月；而另一些訂單則被推遲到了明年3月，因為企業級儲存產品佔比不斷增加，需要更長的生產週期。"
-    },
-    {
-      "id": "5186223",
-      "time": "2026-11-02 08:34:58",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金：中劇的商業模式或已跑通 有望進入規模化發展快車道】中金公司研報稱，兼具內容深度和高敘事密度，中劇對於劇集內容生態有望形成有效補充。長影片平臺希望主動創作一個穩定供給的中間層，以分賬模式降低風險，中劇正從中小公司的試驗田升級為長影片平臺的防禦與增長新方式。中金認為，中劇的商業模式或已跑通，有望進入規模化發展的快車道，具備三個維度的潛力，成本：中劇的平均成本低於長劇，帶來明顯的ROI優勢，平臺或可更高效豐富供給，承接內容生態分層。分賬：以去中心化的方式，補商業短板。AI：隨技術迭代，拓增量空間。"
-    },
-    {
-      "id": "5186222",
-      "time": "2026-11-02 08:34:32",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：11月仍應以進攻思路尋找結構性機會】中信證券研報認為，11月仍應以進攻思路尋找結構性機會，業績增長有支撐的科技製造龍頭值得重點佈局。大族鐳射、思瑞浦三季度收入和利潤快速增長，反映出部分裝置和晶片需求已進入業績釋放階段。AI投資的拉動正沿產業鏈向儲存、高階PCB裝置及資料中心供電延伸，國產替代則為模擬晶片和工業自動化提供持續增長空間。隨著三季報落地，中信證券判斷市場有望更加重視盈利增長及明年訂單的可見度，看好相關龍頭的表現。科技之外，油運運價鎖定有利於四季度盈利釋放，家電龍頭海外經營、自主摩托車品牌出海與介入器械國產替代也具備各自的增長邏輯。"
-    },
-    {
-      "id": "te:economy:597037",
-      "time": "2026-11-02 08:34:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Indonesia Manufacturing Growth Hits 31-Month High — Indonesia’s S&P Global Manufacturing PMI rose to 54.0 in October 2026 from 52.4 in the prior month, marking the highest print since March 2024. New orders increased for a third month and at the fastest pace since October 2021, while export demand grew the most since data collection began in April 2011. Output rose for a second month, recording its sharpest gain since March 2024. Firms increased input purchases, driving a sharp accumulation of pre-production stocks. However, employment growth stayed marginal, while backlogs rose moderately. Delivery times shortened for the first time in over a year, reflecting improved transport and shipping conditions. On prices, input cost inflation accelerated, driven by higher raw material and fuel prices, as well as unfavorable exchange rate movements. Companies raised selling prices faster. Finally, confidence remained positive and broadly unchanged, helped by hopes of sustained demand, business expansion and easing price and supply constraints."
-    },
-    {
-      "id": "5186221",
-      "time": "2026-11-02 08:33:31",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：消費板塊的悲觀預期已較為充分地反映在價格與配置之中】中信證券研報稱，經歷2026年以來的進一步調整，消費板塊的悲觀預期已較為充分地反映在價格與配置之中。展望2027年，我們對居民就業、收入預期及宏觀總量環境保持中性判斷，但地產對消費信心的負向拖累有望邊際減弱，行業競爭緩和與龍頭股東回報提升正在提供更確定的結構性支撐。消費中期跑贏仍需基本面驗證，當前則更具備“弱需求、高賠率”的左側配置價值。建議短期優先佈局養殖、牧業、乳製品等週期反轉方向，階段性增配供需有望形成新均衡的頭部白酒，並以高股息消費龍頭作為價值底倉；下半年關注成長性消費預期見底後的配置機會。長期繼續沿新產品/品類、新技術、新渠道、新市場佈局。"
     }
   ]
 }

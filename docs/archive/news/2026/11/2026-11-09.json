@@ -1,7 +1,95 @@
 {
   "date": "2026-11-09",
-  "count": 351,
+  "count": 360,
   "items": [
+    {
+      "id": "5201836",
+      "time": "2026-11-09 08:35:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國Kospi指數扭轉跌勢；最新上漲0.4%，報5079.08點。"
+    },
+    {
+      "id": "mkt:01a1bdbb-b752-7ee0-aac9-6c73e4ec0a09",
+      "time": "2026-11-09 08:35:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose about USD20 intraday, approaching USD4,100/oz."
+    },
+    {
+      "id": "5201835",
+      "time": "2026-11-09 08:35:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伯克希爾·哈撒韋公司準備發行日元債券】據知情人士透露，伯克希爾哈撒韋公司已委託瑞穗證券和美銀證券，籌備一項潛在的基準規模日元計價、固定利率、高階無擔保債券發行計劃。該債券將在美國證券交易委員會（SEC）註冊。知情人士稱，該交易的正式宣佈預計將在近期進行，但“需視市場狀況而定”。"
+    },
+    {
+      "id": "mkt:01a1bdbb-2df4-7ee0-aac9-652862c17867",
+      "time": "2026-11-09 08:35:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures rose to $4,100/oz, up 0.62% intraday."
+    },
+    {
+      "id": "5201834",
+      "time": "2026-11-09 08:35:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報52.49美元/盎司。"
+    },
+    {
+      "id": "5201833",
+      "time": "2026-11-09 08:35:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4100美元/盎司，日內漲0.62%。"
+    },
+    {
+      "id": "5201832",
+      "time": "2026-11-09 08:35:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4090美元/盎司，日內漲0.47%。"
+    },
+    {
+      "id": "te:economy:599291",
+      "time": "2026-11-09 08:34:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Building Permits MoM",
+        "Importance 1"
+      ],
+      "text": "Recovery in Australia Building Permits Confirmed — Australia’s seasonally adjusted dwelling approvals rose 5.1% month-on-month to 17,948 units in September 2026, matching flash estimates and rebounding from a 5.2% decline in August. It marked the first increase in three months, driven by a strong recovery in private-sector dwellings excluding houses, which surged 16.6% to 6,579 units after plunging 21.7% previously. In contrast, private-sector house approvals fell 5.3% to 10,432 units, reversing a 5.4% increase in August. Across states and territories, approvals rose sharply in New South Wales (37.3%) and Queensland (28.0%), but declined in Victoria (-28.9%), Tasmania (-25.7%), Western Australia (-8.7%), and South Australia (-3.2%). Annually, total dwelling approvals slipped 0.8%, reversing August’s 12.1% increase."
+    },
+    {
+      "id": "5201831",
+      "time": "2026-11-09 08:33:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【廣發證券：美國中期選舉加劇算力建設約束 國產算力鏈有望破局】廣發證券研報表示，美國中期選舉落地，民主黨或對AI趨嚴監管；美國算力建設成本承壓，中國製造與部署優勢凸顯。自主可控需求持續強化，國產算力與半導體制造相關產業鏈迎來發展機遇。隨著國產算力需求增長，GPU、交換機晶片及儲存晶片有望加速替代；先進製程受限亦提升先進封裝重要性，3D堆疊等技術有望推動國產算力系統效能突破，帶動國產半導體制造產業鏈發展。建議關注：國產算力：GPU、交換機晶片、儲存晶片及配套產業鏈相關標的；半導體制造：裝置、材料、晶圓代工及先進封測產業鏈相關標的。"
+    },
     {
       "id": "mkt:01a1bdb8-c656-7ee0-aac9-58b63a5b9445",
       "time": "2026-11-09 08:32:45",
