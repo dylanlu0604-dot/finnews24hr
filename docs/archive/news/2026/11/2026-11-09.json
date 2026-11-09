@@ -1,7 +1,131 @@
 {
   "date": "2026-11-09",
-  "count": 1471,
+  "count": 1482,
   "items": [
+    {
+      "id": "te:markets:599665",
+      "time": "2026-11-09 23:30:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Advances for 4th Day — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was up for a fourth session on Monday, rising by 1.8% to its highest since October 9 at 2,854 points. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, also advanced for fourth day, up 2.7% to a more than one-month high of 4,459 points. At the same time, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, rose by 1.7% to its highest since October 26 at 2,037 points. Among the smaller vessels, the supramax index fell further by 0.3% to its lowest since October 8 at 1,810 points."
+    },
+    {
+      "id": "te:markets:599664",
+      "time": "2026-11-09 23:26:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Lumber Hits 25-month Low — Lumber decreased to 497.50 USD/1000 board feet, the lowest since September 2024. Over the past 4 weeks, Lumber lost 7.41%, and in the last 12 months, it decreased 5.48%."
+    },
+    {
+      "id": "te:markets:599659",
+      "time": "2026-11-09 23:17:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Reverses on Monday — The dollar Index fell nearly 0.4% to 101.8 on Monday, reversing some of Friday’s 0.7% rally, its largest daily gain in nearly six months. The greenback came under pressure amid declining oil prices, while the AI-driven market rotation lost momentum. Last week, a Democratic sweep of Congress last week prompted investors to price in the possibility of tighter regulation and potential constraints on AI-related capital expenditure. Meanwhile, markets are turning their attention to this week’s CPI and PPI releases, which are expected to signal a moderation in both monthly headline consumer and producer inflation. Against this backdrop, market-implied odds of another 25bps Fed rate hike next month currently stand at around 80%. The dollar weakened broadly, recording its steepest losses against the Australian dollar, euro and British pound."
+    },
+    {
+      "id": "te:economy:599656",
+      "time": "2026-11-09 23:11:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Wholesale Inventories",
+        "Importance 1"
+      ],
+      "text": "US Wholesale Inventories Growth Beats Estimates — US wholesale inventories rose 0.7% month-on-month to $1,013.1 billion in September 2026, above the advance estimate of 0.6% and following an upwardly revised 0.6% increase in August. This marked the eighth consecutive monthly rise, signalling continued stock accumulation across the wholesale sector. Nondurable goods inventories increased 0.9%, accelerating from 0.1% in August, driven by petroleum (+10.6%), chemicals (+1.3%) and apparel (+2.6%). By contrast, farm product and alcohol inventories fell 7.4% and 1.8%, respectively. Durable goods inventories rose 0.6%, slowing from 0.9%, as gains in electrical goods (+2.5%) and hardware (+1.3%) outweighed declines in metal products (-0.9%) and automotive inventories (-0.5%). Compared with September last year, wholesale inventories increased 7.6%, also exceeding the initial estimate."
+    },
+    {
+      "id": "te:markets:599655",
+      "time": "2026-11-09 23:07:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Prices Fall to 4-Week Low — European natural gas prices fell to around €82/MWh, their lowest level since October 9, extending a 17.7% loss in the previous week, as hopes of a diplomatic resolution to the Middle East conflict grew. President Donald Trump said it’s highly unlikely he will order extensive strikes on the Islamic Republic, although Secretary of State Marco Rubio cautioned that negotiations may not deliver rapid progress. However, prices remain well above their pre-war levels, as the disruption of Middle Eastern LNG exports, which previously accounted for around a fifth of global supply, leaves Europe facing a tight market ahead of winter. EU gas storage is below 73%, well below the five-year seasonal average of 90%, while Germany’s inventories are below 60%. Colder temperatures and weaker wind and solar generation have increased withdrawals, while Norwegian pipeline supplies remain constrained by outages. Competition for LNG is also expected to intensify as Asian buyers increase spot purchases."
+    },
+    {
+      "id": "em:jjsj_mgsj:202611093926588623",
+      "time": "2026-11-09 23:07:45",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "11月9日訊息，美國9月批發庫存環比增長0.7%，高於預期。"
+    },
+    {
+      "id": "te:markets:599653",
+      "time": "2026-11-09 23:05:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "French OAT Yields Fall to Lowest Since September — France’s 10-year OAT yield fell to 4.7%, its lowest level since late September, as declining oil prices eased inflationary concerns and prompted traders to scale back expectations for further central bank rate hikes. Brent crude slipped below $95 a barrel after US President Donald Trump downplayed the likelihood of further strikes on Iran, although attacks on vessels near the Strait of Hormuz continued to fuel supply concerns. The move follows a bond rally last week after the Democrats’ sweeping victory in the US midterm elections raised expectations of political gridlock and more limited fiscal spending. Markets currently price in a 66% probability of an ECB rate hike in December, with an increase by February fully priced in, according to LSEG data. However, French bonds remain vulnerable to domestic political and fiscal uncertainties, as well as questions surrounding the ECB leadership transition following Christine Lagarde’s announcement that she intends to step down early."
+    },
+    {
+      "id": "te:markets:599652",
+      "time": "2026-11-09 23:02:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Bund Yields Edge Lower as Oil Prices Retreat — Germany’s 10-year Bund yield edged down to 3.23% as falling oil prices eased inflationary concerns, prompting traders to scale back expectations for further central bank rate hikes. Brent crude slipped below $95 a barrel after US President Donald Trump downplayed the likelihood of further strikes on Iran, although attacks on vessels near the Strait of Hormuz kept supply concerns in focus. The move follows a bond rally last week after the Democrats’ sweeping victory in the US midterm elections raised expectations of political gridlock and more limited fiscal spending. Markets currently price in a 66% chance of a rate hike in December, with an increase by February fully priced in, according to LSEG data. European bonds also remain vulnerable to France’s political and fiscal uncertainties and questions surrounding the ECB leadership transition following Christine Lagarde’s announcement that she intends to step down early."
+    },
+    {
+      "id": "te:markets:599651",
+      "time": "2026-11-09 23:01:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Constellation Energy earnings above expectations at 5.06 USD — Constellation Energy (CEG) released earnings per share at 5.06 USD, compared to market expectations of 3.78 USD."
+    },
+    {
+      "id": "te:markets:599649",
+      "time": "2026-11-09 23:00:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Rises by 1.33% — Top currency gainers are South Korean Won (1.33%), New Zealand Dollar (1.14%), Swedish Krona (0.86%), Euro (0.41%), British Pound (0.41%) and Japanese Yen (0.25%). Biggest losers are Dollar Index (-0.42%) and Brazilian Real (-0.36%)."
+    },
+    {
+      "id": "te:markets:599648",
+      "time": "2026-11-09 22:56:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Rise to Over 3-Week High — US natural gas prices rose more than 4% to $3.13/MMBtu on Monday, reaching their highest level since October 15, as forecasts of a sharp cold spell pointed to stronger heating demand. More than 160 million Americans could face below-average temperatures by November 14, a significant reversal from the unusually warm conditions expected earlier in the week, particularly across the Northeast, Great Lakes and Ohio Valley. Supply-side factors also supported prices, with the latest EIA report showing a smaller-than-expected storage build of 77 Bcf for the week ended October 30. Inventories reached 3.801 trillion cubic feet, remaining 2.8% below year-earlier levels but 1.4% above the five-year average. Meanwhile, Lower 48 production averaged 111.2 Bcf per day in November, down from October’s 113.4 Bcf. LNG export flows also eased slightly, although international demand for US shipments remains strong amid ongoing geopolitical disruptions to global energy supplies."
+    },
     {
       "id": "5203854",
       "time": "2026-11-09 22:48:13",
