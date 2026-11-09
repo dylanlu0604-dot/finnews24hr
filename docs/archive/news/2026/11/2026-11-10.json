@@ -1,7 +1,192 @@
 {
   "date": "2026-11-10",
-  "count": 379,
+  "count": 398,
   "items": [
+    {
+      "id": "5204364",
+      "time": "2026-11-10 07:52:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位成員表示，隨著潛在通脹率向與價格目標一致的水平趨同，繼續加息是合適的。"
+    },
+    {
+      "id": "5204363",
+      "time": "2026-11-10 07:52:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位成員表示，日本央行應在可能時決定加息，而不要過於謹慎。"
+    },
+    {
+      "id": "mkt:01a1c2ba-3010-7ee0-aae5-5805aa1c0f69",
+      "time": "2026-11-10 07:52:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Bank of Japan October meeting minutes: one member said the economy shows some weakness and the economic and price outlooks must be reviewed carefully."
+    },
+    {
+      "id": "5204362",
+      "time": "2026-11-10 07:52:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數上漲1%，報9,119.70點，創8月31日以來最高水平。"
+    },
+    {
+      "id": "5204361",
+      "time": "2026-11-10 07:52:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行10月會議意見摘要：一位成員表示，宜維持政策，以進一步觀察經濟和價格面臨的風險。"
+    },
+    {
+      "id": "5204360",
+      "time": "2026-11-10 07:51:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位成員表示，經濟存在一定疲軟，因此必須仔細觀察經濟和價格前景。"
+    },
+    {
+      "id": "mkt:01a1c2b8-cb03-7ee0-aae5-523d09a19315",
+      "time": "2026-11-10 07:50:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan seasonally adjusted bank lending excluding trusts YoY 5.6% in October, down from 5.7% previously."
+    },
+    {
+      "id": "5204359",
+      "time": "2026-11-10 07:50:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省：日本9月未經調整經常帳盈餘23,723億日元(調查預估為盈餘33,544億日元)，前月為盈餘40,620億日元。"
+    },
+    {
+      "id": "mkt:01a1c2b8-aa85-7ee0-aae5-4a7f436940de",
+      "time": "2026-11-10 07:50:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Seasonally Adjusted Bank Lending Excluding Trust Banks (YoY) (Oct) | actual 5.6% | previous 5.70%"
+    },
+    {
+      "id": "mkt:01a1c2b8-90e8-7ee0-aae5-418d7460dfc1",
+      "time": "2026-11-10 07:50:37",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan seasonally adjusted current account surplus ¥181.8 bln in September, down from ¥2.9794 tln previously."
+    },
+    {
+      "id": "mkt:01a1c2b8-8b70-7ee0-aae5-3903969d4514",
+      "time": "2026-11-10 07:50:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan Sept trade balance deficit ¥187.5 bln; prior -¥687.7 bln."
+    },
+    {
+      "id": "mkt:01a1c2b8-6370-7ee0-aae5-3164fc54fe7e",
+      "time": "2026-11-10 07:50:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan October seasonally adjusted bank lending YoY 5.2% (prior 5.30%)."
+    },
+    {
+      "id": "mkt:01a1c2b8-5b5f-7ee0-aae5-2a53f3297921",
+      "time": "2026-11-10 07:50:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Current Account SA (Sep) | actual 181766000000B | previous 2979400000000B"
+    },
+    {
+      "id": "mkt:01a1c2b8-5ad0-7ee0-aae5-276f600b9eec",
+      "time": "2026-11-10 07:50:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Trade Balance (Sep) | actual -187526000000B | previous -687700000000B"
+    },
+    {
+      "id": "mkt:01a1c2b8-3fa3-7ee0-aae5-18cc2a9e32ff",
+      "time": "2026-11-10 07:50:17",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Outstanding Bank Loans SA (YoY) (Oct) | actual 5.2% | previous 5.30%"
+    },
+    {
+      "id": "mkt:01a1c2b8-3241-7ee0-aae5-14d005d18ed8",
+      "time": "2026-11-10 07:50:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan September current account, not seasonally adjusted: 2,372.3 bln yen; forecast 3,354.4 bln; prior 4,062.0 bln."
+    },
+    {
+      "id": "5204358",
+      "time": "2026-11-10 07:50:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃克森美孚公司表示，已簽署諒解備忘錄，以評估與委內瑞拉及委內瑞拉國家石油公司（PDVSA）的潛在上游合作機會。"
+    },
+    {
+      "id": "mkt:01a1c2b8-01e1-7ee0-aae5-0db2b1a473d2",
+      "time": "2026-11-10 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Current Account NSA (Sep) | actual 2372300000000B | consensus 3354400000000B | previous 4062000000000B"
+    },
+    {
+      "id": "5204357",
+      "time": "2026-11-10 07:49:57",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【券商密集釋出2027年投資策略：AI敘事尚未結束，做好分散配置】進入11月，賣方機構密集釋出2027年投資策略。繼中信證券、華泰證券之後，中信建投證券、浙商證券等多家券商本週將舉辦線下策略會。整體來看，券商普遍認為，AI（人工智慧）產業敘事尚未結束，科技板塊內部走勢或將分化，非AI板塊同樣具備結構性修復空間，市場不必過度悲觀。在結構性機會大於全市場估值抬升的預期下，多家賣方機構建議，投資者佈局2027年市場應立足基本面，做好分散配置。"
+    },
     {
       "id": "5204356",
       "time": "2026-11-10 07:47:38",
