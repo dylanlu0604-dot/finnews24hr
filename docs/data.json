@@ -1,7 +1,44 @@
 {
-  "updated": "2026-11-09 22:25:58",
-  "count": 10627,
+  "updated": "2026-11-09 22:29:59",
+  "count": 10617,
   "items": [
+    {
+      "id": "mkt:01a1c0b6-3911-7ee0-aada-4ebc42e3f17f",
+      "time": "2026-11-09 22:28:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "VON DER LEYEN, arriving in Bucharest, said threats, attacks and violations of airspace and territorial waters along the Black Sea coast are increasing, and Romania and Bulgaria can rely on a strong, united European response."
+    },
+    {
+      "id": "5203801",
+      "time": "2026-11-09 22:27:40",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "航運公司Performance Shipping宣佈400萬美元股票回購計劃。"
+    },
+    {
+      "id": "5203800",
+      "time": "2026-11-09 22:26:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：庫爾德斯坦地區自然資源部表示，伊拉克總理扎伊迪已批准向庫爾德斯坦地區供應所需數量的液化氣，直至庫爾姆氣田恢復生產。"
+    },
+    {
+      "id": "mkt:01a1c0b3-ce6e-7ee0-aada-400ed7cba083",
+      "time": "2026-11-09 22:26:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Kurdistan Region Ministry of Natural Resources said Iraq Prime Minister Zaidi has approved supplying the Kurdistan region with required quantities of liquefied gas until the Kurm gas field resumes production."
+    },
     {
       "id": "5203799",
       "time": "2026-11-09 22:24:55",
@@ -97197,123 +97234,6 @@
         "其他"
       ],
       "text": "加拿大10月標普全球製造業採購經理人指數 49.6，前值51.5。"
-    },
-    {
-      "id": "5187938",
-      "time": "2026-11-02 22:29:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京要求俄羅斯資料中心預留10%的容量。"
-    },
-    {
-      "id": "5187937",
-      "time": "2026-11-02 22:29:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：從2025年9月30日到2026年9月30日，TTM營收增長約1200%，而員工人數增長約170%"
-    },
-    {
-      "id": "5187936",
-      "time": "2026-11-02 22:29:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "ANTHROPIC：截至9月30日的三個月淨虧損為232.9億美元。上年同期121億美元。"
-    },
-    {
-      "id": "5187935",
-      "time": "2026-11-02 22:28:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：截至9月30日，承諾支出總額約8954億美元。"
-    },
-    {
-      "id": "5187934",
-      "time": "2026-11-02 22:28:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：截至9月30日，剩餘履約義務為138億美元。"
-    },
-    {
-      "id": "5187933",
-      "time": "2026-11-02 22:28:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "ANTHROPIC：截至2026年9月30日的三個月內，CLAUDE營收為170億美元。"
-    },
-    {
-      "id": "5187932",
-      "time": "2026-11-02 22:28:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic第三季度運營支出175億美元。"
-    },
-    {
-      "id": "5187931",
-      "time": "2026-11-02 22:27:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic第三季度營收169億美元。上年同期為13.8億美元。"
-    },
-    {
-      "id": "5187929",
-      "time": "2026-11-02 22:27:29",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "ANTHROPIC：截至2026年9月30日的三個月，收入同比增長1127%。"
-    },
-    {
-      "id": "5187928",
-      "time": "2026-11-02 22:27:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國戰略石油儲備原油庫存上週降至2.822億桶，為1982年以來最低水平。"
-    },
-    {
-      "id": "5187927",
-      "time": "2026-11-02 22:27:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic PBC：截至2026年9月30日的三個月，調整後營業收入增至25億美元。"
-    },
-    {
-      "id": "5187926",
-      "time": "2026-11-02 22:27:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "提醒：Anthropic PBC在美股開盤之前釋出S-1/A檔案。"
-    },
-    {
-      "id": "5187925",
-      "time": "2026-11-02 22:26:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic前9個月營收332億美元。"
-    },
-    {
-      "id": "5187924",
-      "time": "2026-11-02 22:26:42",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "Anthropic第三季度淨虧損233億美元，上年同期為121億美元。"
     }
   ]
 }

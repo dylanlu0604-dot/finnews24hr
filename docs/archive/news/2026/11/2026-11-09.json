@@ -1,7 +1,44 @@
 {
   "date": "2026-11-09",
-  "count": 1390,
+  "count": 1394,
   "items": [
+    {
+      "id": "mkt:01a1c0b6-3911-7ee0-aada-4ebc42e3f17f",
+      "time": "2026-11-09 22:28:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "VON DER LEYEN, arriving in Bucharest, said threats, attacks and violations of airspace and territorial waters along the Black Sea coast are increasing, and Romania and Bulgaria can rely on a strong, united European response."
+    },
+    {
+      "id": "5203801",
+      "time": "2026-11-09 22:27:40",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "航運公司Performance Shipping宣佈400萬美元股票回購計劃。"
+    },
+    {
+      "id": "5203800",
+      "time": "2026-11-09 22:26:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：庫爾德斯坦地區自然資源部表示，伊拉克總理扎伊迪已批准向庫爾德斯坦地區供應所需數量的液化氣，直至庫爾姆氣田恢復生產。"
+    },
+    {
+      "id": "mkt:01a1c0b3-ce6e-7ee0-aada-400ed7cba083",
+      "time": "2026-11-09 22:26:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Kurdistan Region Ministry of Natural Resources said Iraq Prime Minister Zaidi has approved supplying the Kurdistan region with required quantities of liquefied gas until the Kurm gas field resumes production."
+    },
     {
       "id": "5203799",
       "time": "2026-11-09 22:24:55",
