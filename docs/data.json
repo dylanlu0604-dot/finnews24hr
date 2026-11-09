@@ -1,7 +1,73 @@
 {
-  "updated": "2026-11-09 09:11:25",
-  "count": 10657,
+  "updated": "2026-11-09 09:15:10",
+  "count": 10654,
   "items": [
+    {
+      "id": "5201885",
+      "time": "2026-11-09 09:14:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上交所ETF連續28個交易日淨流入 合計淨流入5412.35億元】資料顯示，9月22日至11月6日，上交所ETF連續28個交易日淨流入，合計淨流入5412.35億元。分產品看，淨流入前三為滬深300ETF華泰柏瑞（951.52億元）、科創50ETF華夏（716.95億元）、滬深300ETF易方達（601.15億元）。其中，11月3日單日淨流入634.54億元，創年內新高；上述三隻ETF單日淨流入分別達130.12億元、112.24億元和103.10億元，包攬全市場單日淨流入前三。"
+    },
+    {
+      "id": "mkt:01a1bdde-cd43-7ee0-aaca-444805e98a33",
+      "time": "2026-11-09 09:14:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Japan bond yields rise as AI-led safe‑haven bid eases】Japan government bond yields rose on Monday, clawing back part of last week's falls after an AI-related equity sell-off had driven demand for havens. The 5-year yield climbed 5.5bps to 2.10%; the 10-year rose 6.5bps to 2.70%. Yields had hit multi-month lows on Friday amid a tech stock rout. Mitsubishi UFJ Morgan Stanley Securities senior bond strategist Keisuke Tsuruta said uncertainty around AI-related investment remains high and the risk-off effect merits close monitoring, but the rapid late-week drop in yields makes a near-term rebound correction possible."
+    },
+    {
+      "id": "mkt:01a1bdde-a457-7ee0-aaca-3e91ba5a613f",
+      "time": "2026-11-09 09:14:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【SSE-listed ETFs record 28 straight trading-day net inflows totalling 541.24 bln yuan】From Sept. 22 to Nov. 6, Shanghai Stock Exchange-listed ETFs saw 28 consecutive trading-day net inflows totalling 541.24 bln yuan. Top total inflows by product were: CSI 300 ETF (Huatai‑PineBridge) 95.15 bln yuan, STAR/KeChuang 50 ETF (ChinaAMC) 71.70 bln yuan, and CSI 300 ETF (E Fund) 60.12 bln yuan. On Nov. 3 single-day net inflows hit a year-to-date high of 63.45 bln yuan; the three ETFs above contributed 13.01 bln, 11.22 bln and 10.31 bln yuan respectively, ranking first through third in market-wide single-day inflows."
+    },
+    {
+      "id": "5201884",
+      "time": "2026-11-09 09:13:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭： 拜登給了他們價值3500億美元的現金和武器。 我什麼也沒給他們。我把它交給歐洲，以全價出售，他們付錢給我們。"
+    },
+    {
+      "id": "mkt:01a1bddd-95a2-7ee0-aaca-3167cc604e56",
+      "time": "2026-11-09 09:12:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose 1.00% intraday to $4,111.44/oz."
+    },
+    {
+      "id": "5201883",
+      "time": "2026-11-09 09:12:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4110美元/盎司，日內漲0.99%。"
+    },
     {
       "id": "te:markets:599305",
       "time": "2026-11-09 09:10:56",
@@ -97620,88 +97686,6 @@
         "市場"
       ],
       "text": "人民幣兌美元中間價報6.7146元。"
-    },
-    {
-      "id": "5186289",
-      "time": "2026-11-02 09:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.17%，報23328.40點，高水33.98點。"
-    },
-    {
-      "id": "5186288",
-      "time": "2026-11-02 09:14:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【簡智完成A+輪1億美元融資】11月2日，據簡智機器人訊息，今年第三季度，簡智機器人完成新一輪1億美元融資，由全球產業資本與頂級財投共同參與，產業方包括上汽集團、馬來西亞Eastworlds、百度集團、首程控股、GALBOT，財務方包括光合創投、SUNHELM、中信金石投資、中證投、建銀國際、華泰紫金。"
-    },
-    {
-      "id": "5186287",
-      "time": "2026-11-02 09:12:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一批新技術新產品將亮相 2026年“網際網路之光”博覽會開幕】今天，作為世界網際網路大會烏鎮峰會的重要活動板塊，2026年“網際網路之光”博覽會正式開幕。來自54個國家和地區的671家企業，展示了1000餘項新產品新技術。本屆博覽會以“智慧互聯、智見未來”為主題，設定空天地海·新連線、智慧湧現·新空間、人機共生·新入口等6大主題展區，全方位展現“智慧網際網路”的發展成果。其中，衛星網際網路、6G等一批網際網路的新技術新產品在博覽會上首次亮相。本屆博覽會還採用場景化的方式，集中展示了百餘款面向工業製造、康養醫療、文娛教育的具身智慧機器人，呈現科技創新與產業創新深度融合、共同賦能生產生活的高價值應用場景。今年，“網際網路之光”博覽會突出數智普惠，增加許多社會觀眾、面向青少年群體展示與活動，讓前沿科技走進千家萬戶。據瞭解，2026年“網際網路之光”博覽會將持續到11月5日，其間將舉辦115場數智創新發布和10場產業合作對接活動。"
-    },
-    {
-      "id": "mkt:01a199d0-c54f-7ee0-aa23-2eb34afcd0f1",
-      "time": "2026-11-02 09:12:38",
-      "tags": [
-        "MKT News",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix shares rose 3%."
-    },
-    {
-      "id": "5186286",
-      "time": "2026-11-02 09:12:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "李在明：不平等和兩極分化的陰影仍然籠罩著韓國社會。"
-    },
-    {
-      "id": "mkt:01a199d0-6349-7ee0-aa23-2188e5a3124b",
-      "time": "2026-11-02 09:12:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Lee said the \"Future Response Fund\" will be both a strategic investment platform and a fiscal stabilization mechanism."
-    },
-    {
-      "id": "5186285",
-      "time": "2026-11-02 09:12:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價上漲3%。"
-    },
-    {
-      "id": "mkt:01a199d0-0287-7ee0-aa23-1f744b97b61b",
-      "time": "2026-11-02 09:11:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "FTSE China A50 futures continued to advance, rising more than 1% in early trade."
-    },
-    {
-      "id": "5186284",
-      "time": "2026-11-02 09:11:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【富時中國A50指數期貨漲1%】富時中國A50指數期貨漲幅擴大至1%。"
     }
   ]
 }

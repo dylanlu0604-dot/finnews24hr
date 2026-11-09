@@ -1,7 +1,73 @@
 {
   "date": "2026-11-09",
-  "count": 435,
+  "count": 441,
   "items": [
+    {
+      "id": "mkt:01a1bdde-cd43-7ee0-aaca-444805e98a33",
+      "time": "2026-11-09 09:14:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Japan bond yields rise as AI-led safe‑haven bid eases】Japan government bond yields rose on Monday, clawing back part of last week's falls after an AI-related equity sell-off had driven demand for havens. The 5-year yield climbed 5.5bps to 2.10%; the 10-year rose 6.5bps to 2.70%. Yields had hit multi-month lows on Friday amid a tech stock rout. Mitsubishi UFJ Morgan Stanley Securities senior bond strategist Keisuke Tsuruta said uncertainty around AI-related investment remains high and the risk-off effect merits close monitoring, but the rapid late-week drop in yields makes a near-term rebound correction possible."
+    },
+    {
+      "id": "5201885",
+      "time": "2026-11-09 09:14:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上交所ETF連續28個交易日淨流入 合計淨流入5412.35億元】資料顯示，9月22日至11月6日，上交所ETF連續28個交易日淨流入，合計淨流入5412.35億元。分產品看，淨流入前三為滬深300ETF華泰柏瑞（951.52億元）、科創50ETF華夏（716.95億元）、滬深300ETF易方達（601.15億元）。其中，11月3日單日淨流入634.54億元，創年內新高；上述三隻ETF單日淨流入分別達130.12億元、112.24億元和103.10億元，包攬全市場單日淨流入前三。"
+    },
+    {
+      "id": "mkt:01a1bdde-a457-7ee0-aaca-3e91ba5a613f",
+      "time": "2026-11-09 09:14:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【SSE-listed ETFs record 28 straight trading-day net inflows totalling 541.24 bln yuan】From Sept. 22 to Nov. 6, Shanghai Stock Exchange-listed ETFs saw 28 consecutive trading-day net inflows totalling 541.24 bln yuan. Top total inflows by product were: CSI 300 ETF (Huatai‑PineBridge) 95.15 bln yuan, STAR/KeChuang 50 ETF (ChinaAMC) 71.70 bln yuan, and CSI 300 ETF (E Fund) 60.12 bln yuan. On Nov. 3 single-day net inflows hit a year-to-date high of 63.45 bln yuan; the three ETFs above contributed 13.01 bln, 11.22 bln and 10.31 bln yuan respectively, ranking first through third in market-wide single-day inflows."
+    },
+    {
+      "id": "5201884",
+      "time": "2026-11-09 09:13:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭： 拜登給了他們價值3500億美元的現金和武器。 我什麼也沒給他們。我把它交給歐洲，以全價出售，他們付錢給我們。"
+    },
+    {
+      "id": "mkt:01a1bddd-95a2-7ee0-aaca-3167cc604e56",
+      "time": "2026-11-09 09:12:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose 1.00% intraday to $4,111.44/oz."
+    },
+    {
+      "id": "5201883",
+      "time": "2026-11-09 09:12:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4110美元/盎司，日內漲0.99%。"
+    },
     {
       "id": "te:markets:599305",
       "time": "2026-11-09 09:10:56",
