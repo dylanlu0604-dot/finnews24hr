@@ -1,7 +1,69 @@
 {
   "date": "2026-11-09",
-  "count": 315,
+  "count": 322,
   "items": [
+    {
+      "id": "mkt:01a1bda6-8da0-7ee0-aac9-2eeab440735b",
+      "time": "2026-11-09 08:12:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump was interviewed on 60 Minutes last Friday; the interview has now been released."
+    },
+    {
+      "id": "5201805",
+      "time": "2026-11-09 08:12:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀執行長塞爾吉奧·埃爾莫蒂表示，人工智慧投資者和市場此前一直定價完美，直到最近幾周出現回撥。"
+    },
+    {
+      "id": "mkt:01a1bda5-f4f3-7ee0-aac9-21ac7ede7d1a",
+      "time": "2026-11-09 08:12:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "President Trump said employment data were \"very good\" and the numbers \"unprecedented\", adding the problem was \"we failed to get the message across\"."
+    },
+    {
+      "id": "5201804",
+      "time": "2026-11-09 08:12:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普預計，俄羅斯戰爭結束後，烏克蘭將呈現“不同的面貌”。"
+    },
+    {
+      "id": "mkt:01a1bda5-3105-7ee0-aac9-1ac2b9a5ad3e",
+      "time": "2026-11-09 08:11:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the main reason for the Republican defeat was \"I wasn't on the ballot.\""
+    },
+    {
+      "id": "5201803",
+      "time": "2026-11-09 08:11:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【政治分歧日益蔓延，多名高管緊急應對，美科技巨頭面臨國會“傳票威脅”】“隨著民主黨在中期選舉後全面執掌美國國會參眾兩院，原先與白宮關係密切的人工智慧科技大佬正面臨全新挑戰。”“德國之聲”7日稱，金融市場擔心，明年1月正式上任的新一屆美國國會將限制人工智慧產業發展。與此同時，矽谷大佬面臨“傳票威脅”。眾議院共和黨籍議員已要求英偉達執行長（CEO）黃仁勳在11月出席一場簡報會，《紐約時報》認為，這表明輸掉中期選舉的共和黨人不想把與人工智慧相關的議題拱手讓給民主黨人。《華盛頓郵報》披露，民主黨人正將多家科技公司列為國會早期調查的重點目標。“美國國內不斷加深的政治分歧日益向科技領域蔓延，這不僅將影響企業的長期投資決策和產業發展，還可能透過全球供應鏈和金融市場產生連鎖反應。”中國人民大學國際關係學院國際政治系主任保建雲8日接受記者採訪時這樣表示。（環球時報）"
+    },
+    {
+      "id": "5201802",
+      "time": "2026-11-09 08:09:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於美國東部時間中午12點會見卡達首相。"
+    },
     {
       "id": "5201801",
       "time": "2026-11-09 08:09:31",
