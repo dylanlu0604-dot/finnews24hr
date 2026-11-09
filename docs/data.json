@@ -1,7 +1,129 @@
 {
-  "updated": "2026-11-10 07:53:22",
-  "count": 10583,
+  "updated": "2026-11-10 07:57:07",
+  "count": 10592,
   "items": [
+    {
+      "id": "5204372",
+      "time": "2026-11-10 07:56:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一名委員表示，下一次加息對經濟的淨影響不太可能產生顯著的負面影響。"
+    },
+    {
+      "id": "te:economy:599743",
+      "time": "2026-11-10 07:56:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Japan Bank Lending Growth Undershoots Forecasts — Japan’s bank lending grew by 5.2% year-on-year in October 2026, unchanged from September’s downwardly revised figure of 5.2% but falling short of market expectations for a 5.4% increase. Outstanding loans at major, regional, and shinkin banks averaged JPY 684.01 trillion. Lending at major and regional banks rose 5.6%, easing from 5.7% in September, with major-bank lending growth slowing to 7.5% from 7.7%, while regional-bank lending growth edged down to 3.9% from 4.0%. Within regional banks, lending growth eased to 4.4% from 4.5% for regional banks I, while growth at regional banks II held steady at 1.9%. Meanwhile, shinkin-bank lending growth remained unchanged at 2.0%. Foreign-bank lending growth slowed significantly to 8.5% from 14.5% in September."
+    },
+    {
+      "id": "5204371",
+      "time": "2026-11-10 07:56:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一名委員表示，日本的中性利率很可能遠高於1%。"
+    },
+    {
+      "id": "5204370",
+      "time": "2026-11-10 07:56:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位委員表示，必須關注未來加息將對經濟造成壓力、壓低通脹的風險。"
+    },
+    {
+      "id": "mkt:01a1c2bc-c29f-7ee0-aae5-7eebdc0a83b5",
+      "time": "2026-11-10 07:55:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan October meeting minutes: a board member said the BOJ must closely monitor financial conditions in the months after each rate increase when adjusting the degree of monetary easing."
+    },
+    {
+      "id": "5204368",
+      "time": "2026-11-10 07:54:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位委員表示，日本央行必須儘早將政策利率調整至中性水平，以便在加息或降息時能夠靈活應對。"
+    },
+    {
+      "id": "5204367",
+      "time": "2026-11-10 07:54:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【埃克森美孚在委內瑞拉簽署諒解備忘錄】埃克森美孚在一份郵件宣告中表示，公司正在評估“與委內瑞拉政府及委內瑞拉國家石油公司（PDVSA）的潛在上游投資機會”。埃克森美孚表示：“這份備忘錄是意義重大的第一步，但未來的任何投資都需要穩定的政策、明確的法規、強有力的投資保護以及具有競爭力的回報。”"
+    },
+    {
+      "id": "mkt:01a1c2bb-ed12-7ee0-aae5-775210927477",
+      "time": "2026-11-10 07:54:18",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan October meeting summary: one member said underlying inflation has reached 2% and the BOJ should raise the policy rate to a neutral level as soon as possible."
+    },
+    {
+      "id": "mkt:01a1c2bb-d242-7ee0-aae5-6df7478b7c17",
+      "time": "2026-11-10 07:54:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan (BOJ) October meeting minutes: one member said Japan has entered a new phase and the BOJ should accelerate rate hikes to bring policy rates toward a level viewed as neutral for the economy."
+    },
+    {
+      "id": "5204366",
+      "time": "2026-11-10 07:53:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位成員表示，潛在通脹已達到2%，日本央行需要儘快將政策利率調整至中性水平。"
+    },
+    {
+      "id": "5204365",
+      "time": "2026-11-10 07:53:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位委員表示，日本正進入新階段，日本央行需要加快加息步伐，使其達到對經濟中性的水平。"
+    },
+    {
+      "id": "mkt:01a1c2bb-23e5-7ee0-aae5-600f5388852f",
+      "time": "2026-11-10 07:53:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan October meeting minutes: one board member said the BOJ should decide to raise rates when conditions permit and not be overly cautious; another said it is appropriate to maintain policy to further monitor economic and price risks."
+    },
     {
       "id": "5204364",
       "time": "2026-11-10 07:52:42",
@@ -96973,30 +97095,6 @@
         "其他"
       ],
       "text": "對沖基金埃利奧特第三季度收益持平，截至9月的今年漲幅不到2%。"
-    },
-    {
-      "id": "5188446",
-      "time": "2026-11-03 07:55:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武漢一小區發生爆燃，造成2人死亡1人受傷】武漢市公安局武昌區分局11月3日通報：11月2日23時50分許，武昌區一小區發生爆燃，造成2人死亡，1人受傷（無生命危險）。公安、消防救援、120急救等部門迅速趕到現場處置，開展傷員救治、現場勘查等工作。目前，調查、處置工作正在進行中。"
-    },
-    {
-      "id": "5188445",
-      "time": "2026-11-03 07:54:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬物雲與萬科訂立債務清償協議 總代價約6.62億元人民幣】據週一晚間的香港交易所公告，萬物雲與由控股股東萬科最終控制或有關聯的各賣方及債務人訂立一系列債務清償協議。  各賣方及債務人同意透過向萬物雲若干附屬公司轉讓物業或車位的方式，以結清若干應付款項。該等債務清償協議的總計代價約為6.62億元人民幣。收購代價中用於結清各賣方及債務人欠付本集團若干附屬公司應付款項的金額約為6.59億元人民幣。剩餘透過抵扣各賣方及/或債務人應預付本集團業務款項；及本集團以現金支付約225萬元人民幣。萬物雲表示，上述交易有助於降低對關聯方的信用風險敞口，有助於維持本集團資產的流動性。"
-    },
-    {
-      "id": "5188444",
-      "time": "2026-11-03 07:53:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本計劃認證無方向盤的L4級自動駕駛汽車】根據日本經濟新聞報道，日本國土交通省正計劃制定統一的安全標準，從2026年12月起對無方向盤和剎車踏板的 Level 4（L4）及 Level 5（L5）全自動駕駛汽車實施一攬子批次認證（Uniform Certification）。這一監管政策的重大轉變旨在簡化審批流程，促進無人駕駛計程車的量產與普及。"
     }
   ]
 }

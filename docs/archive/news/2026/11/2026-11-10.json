@@ -1,7 +1,129 @@
 {
   "date": "2026-11-10",
-  "count": 398,
+  "count": 410,
   "items": [
+    {
+      "id": "5204372",
+      "time": "2026-11-10 07:56:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一名委員表示，下一次加息對經濟的淨影響不太可能產生顯著的負面影響。"
+    },
+    {
+      "id": "te:economy:599743",
+      "time": "2026-11-10 07:56:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Japan Bank Lending Growth Undershoots Forecasts — Japan’s bank lending grew by 5.2% year-on-year in October 2026, unchanged from September’s downwardly revised figure of 5.2% but falling short of market expectations for a 5.4% increase. Outstanding loans at major, regional, and shinkin banks averaged JPY 684.01 trillion. Lending at major and regional banks rose 5.6%, easing from 5.7% in September, with major-bank lending growth slowing to 7.5% from 7.7%, while regional-bank lending growth edged down to 3.9% from 4.0%. Within regional banks, lending growth eased to 4.4% from 4.5% for regional banks I, while growth at regional banks II held steady at 1.9%. Meanwhile, shinkin-bank lending growth remained unchanged at 2.0%. Foreign-bank lending growth slowed significantly to 8.5% from 14.5% in September."
+    },
+    {
+      "id": "5204371",
+      "time": "2026-11-10 07:56:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一名委員表示，日本的中性利率很可能遠高於1%。"
+    },
+    {
+      "id": "5204370",
+      "time": "2026-11-10 07:56:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位委員表示，必須關注未來加息將對經濟造成壓力、壓低通脹的風險。"
+    },
+    {
+      "id": "mkt:01a1c2bc-c29f-7ee0-aae5-7eebdc0a83b5",
+      "time": "2026-11-10 07:55:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan October meeting minutes: a board member said the BOJ must closely monitor financial conditions in the months after each rate increase when adjusting the degree of monetary easing."
+    },
+    {
+      "id": "5204368",
+      "time": "2026-11-10 07:54:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位委員表示，日本央行必須儘早將政策利率調整至中性水平，以便在加息或降息時能夠靈活應對。"
+    },
+    {
+      "id": "5204367",
+      "time": "2026-11-10 07:54:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【埃克森美孚在委內瑞拉簽署諒解備忘錄】埃克森美孚在一份郵件宣告中表示，公司正在評估“與委內瑞拉政府及委內瑞拉國家石油公司（PDVSA）的潛在上游投資機會”。埃克森美孚表示：“這份備忘錄是意義重大的第一步，但未來的任何投資都需要穩定的政策、明確的法規、強有力的投資保護以及具有競爭力的回報。”"
+    },
+    {
+      "id": "mkt:01a1c2bb-ed12-7ee0-aae5-775210927477",
+      "time": "2026-11-10 07:54:18",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan October meeting summary: one member said underlying inflation has reached 2% and the BOJ should raise the policy rate to a neutral level as soon as possible."
+    },
+    {
+      "id": "mkt:01a1c2bb-d242-7ee0-aae5-6df7478b7c17",
+      "time": "2026-11-10 07:54:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan (BOJ) October meeting minutes: one member said Japan has entered a new phase and the BOJ should accelerate rate hikes to bring policy rates toward a level viewed as neutral for the economy."
+    },
+    {
+      "id": "5204366",
+      "time": "2026-11-10 07:53:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位成員表示，潛在通脹已達到2%，日本央行需要儘快將政策利率調整至中性水平。"
+    },
+    {
+      "id": "5204365",
+      "time": "2026-11-10 07:53:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位委員表示，日本正進入新階段，日本央行需要加快加息步伐，使其達到對經濟中性的水平。"
+    },
+    {
+      "id": "mkt:01a1c2bb-23e5-7ee0-aae5-600f5388852f",
+      "time": "2026-11-10 07:53:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan October meeting minutes: one board member said the BOJ should decide to raise rates when conditions permit and not be overly cautious; another said it is appropriate to maintain policy to further monitor economic and price risks."
+    },
     {
       "id": "5204364",
       "time": "2026-11-10 07:52:42",
