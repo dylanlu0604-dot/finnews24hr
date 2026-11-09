@@ -1,7 +1,56 @@
 {
-  "updated": "2026-11-10 07:38:08",
-  "count": 10566,
+  "updated": "2026-11-10 07:41:56",
+  "count": 10564,
   "items": [
+    {
+      "id": "te:economy:599737",
+      "time": "2026-11-10 07:40:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Household Spending",
+        "Importance 2"
+      ],
+      "text": "Japan Personal Spending Falls the Most in 6 Years — Japan’s household spending dropped 6.8% yoy in September 2026, deepening from August’s decline and market forecasts of a 3.1% fall and marking the tenth straight month of decline. It was also the steepest contraction since September 2020, highlighting the impact of persistent inflation and higher borrowing costs. On a seasonally adjusted monthly basis, household expenditure fell 2.8%, reversing a 0.1% drop in August and pointing to the first decrease in three months. It also missed estimates of a 0.3% increase."
+    },
+    {
+      "id": "mkt:01a1c2ae-ea9f-7ee0-aae5-006c7aac3d43",
+      "time": "2026-11-10 07:40:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's September trade balance and the Bank of Japan's summary of policy board members' opinions from the October monetary policy meeting are due in 10 minutes."
+    },
+    {
+      "id": "5204348",
+      "time": "2026-11-10 07:38:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【今年第九期和第十期電子式儲蓄國債發行】2026年第九期和第十期電子式儲蓄國債今天（10日）起開始發行。兩期國債均為固定利率、固定期限品種。其中，第九期期限3年，票面年利率為1.63%；第十期期限5年，票面年利率為1.7%。投資者可到相關營業網點購買這兩期國債，單一國債賬戶購買每期國債金額最高為50萬元。開立個人養老金賬戶的投資者，也可以使用個人養老金資金賬戶內的資金購買。"
+    },
+    {
+      "id": "5204347",
+      "time": "2026-11-10 07:38:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年臺風數創21世紀新高】從中國氣象局獲悉，11月7日14時，2026年第32號颱風“查帕卡”在西北太平洋洋麵生成。颱風“查帕卡”成為21世紀以來首個“第32號颱風”，2026年的颱風生成數量也創下21世紀以來最高紀錄。（中國科學報）"
+    },
+    {
+      "id": "mkt:01a1c2ad-0a19-7ee0-aae4-fbcd4289f00d",
+      "time": "2026-11-10 07:38:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xia-Jin Bridge (Xiamen section) sea mainline bridge closed】Early on Nov 10 the final steel box girder was installed, completing the sea mainline closure of the Xia-Jin Bridge (Xiamen section) and marking main-structure completion; the project has entered final pre-opening works. The full project is about 19.6 km including the sea mainline, branch bridges and land tunnels; the mainline is 17.34 km, dual 8 lanes, designed speed 100 km/h. The sea mainline is expected to be completed and opened by year-end, which will shorten travel time between Xiamen island and Dadeng Island and markedly improve access from Xiamen island to Xiang'an International Airport."
+    },
     {
       "id": "5204346",
       "time": "2026-11-10 07:37:39",
@@ -96756,63 +96805,6 @@
         "公司"
       ],
       "text": "【幣安駭客慌亂脫手 為加密貨幣交易者創造意外之財】對於大多數加密貨幣投資者而言，幣安遭遇的63億美元盜竊案再次提醒人們，數字資產仍存在諸多風險。但對於一小部分行動迅速的交易公司和技術嫻熟的投資者來說，這則是一次大賺快錢的機會。區塊鏈資料公司Bitquery估計，攻擊者因倉促出手導致交易執行不力，損失了約1.19億美元。“此次駭客攻擊引發了劇烈的價格波動，一個資金規模龐大、對價格極不敏感的單一賣家在薄弱的流動性中行動，”Caerus Global Management首席投資官James Aitchison表示。他說，這種激進的單向拋售扭曲了不同交易場所和區塊鏈上的加密貨幣價格，並補充道：“我們利用這一事件進行了交易，並發現了幾個極具吸引力的錯配。”"
-    },
-    {
-      "id": "5188432",
-      "time": "2026-11-03 07:40:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構稱市場處於反彈孕育期 業績確定性成配置主線】上週，A股延續震盪走弱態勢，算力硬體、半導體、CPO等科技成長方向持續調整，而中證紅利指數逆勢上漲，銀行、石油石化、煤炭、食品飲料等權重板塊相對抗跌。進入11月，市場情緒率先回暖。11月2日，A股主要股指集體反彈。接受記者採訪的機構人士認為，外部流動性偏緊、短期風險偏好仍受壓制，市場難免反覆，但A股正處於反彈的孕育期，而非行情的終點。三季報盈利面持續修復，產業資本以真金白銀回購增持，確認底部區域，構成中期支撐；隨著外部不確定性出清，風險偏好有望修復。操作上，機構建議以紅利資產打底、績優成長接力，短期把握修復視窗，中期錨定業績確定性，在風險偏好修復中順勢佈局。（中國證券報）"
-    },
-    {
-      "id": "5188431",
-      "time": "2026-11-03 07:40:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【達能上海研發與創新中心正式啟用】11月2日上午，達能上海研發與創新中心在浦東金橋開發區正式啟用。據悉，達能上海研發與創新中心面積達5200平方米，專注生命早期營養、成人醫學營養、飲用水及飲料等多品類的研究。中心還擁有達能全球第三個OneBiome實驗室，透過接入達能全球微生物組研究平臺，進一步推進營養、腸道微生物組與健康關係等領域的研究。"
-    },
-    {
-      "id": "5188430",
-      "time": "2026-11-03 07:39:57",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信建投：北美CSP資本開支維持高強度，AI商業化驅動雲業務加速增長】中信建投研報稱，北美四家CSP廠商公佈三季報，資本開支援續增長，全年指引出現分化。北美四大雲廠商2026Q3合計資本開支約2087億美元，同比增長84.2%、環比增長21.9%，AI基礎設施投資保持高強度。全年指引方面，Amazon維持約2200億美元，微軟因第三方算力產能交付延遲，將2026日曆年資本開支預期由1750億美元調整至1700億美元；Google維持1950-2050億美元，Meta將指引由1300-1450億美元收窄至1350-1450億美元。按各公司最新指引或區間中值測算，四家全年資本開支合計約7300億美元，較二季報後的7325億美元略降，主要反映交付節奏調整，整體投資規模仍處高位。中信建投持續看好AI發展帶來的算力需求，維持對北美算力產業鏈和國產AI算力產業鏈的長期看好。"
-    },
-    {
-      "id": "5188429",
-      "time": "2026-11-03 07:39:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【建設銀行推出多項措施支援先進製造業】中國建設銀行昨天（2日）釋出專屬金融服務方案，推出多項措施加大力度支援先進製造業。根據方案，建設銀行將聚焦“十五五”規劃重點產業佈局，圍繞低空經濟、腦機介面、具身智慧、量子資訊、積體電路、生物醫藥等產業，明確重點企業清單和產業鏈圖譜，制定專項金融服務方案。同時，用好再貸款和財政貼息國家專項政策，支援企業裝置更新。此外，還將為先進製造業產業叢集提供專屬金融產品。（央視）"
-    },
-    {
-      "id": "5188428",
-      "time": "2026-11-03 07:39:17",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：AI需求高景氣驅動功率半導體邁向新週期】中信建投研報稱，AIDC爆發+新能源車增量驅動下，2026年以來功率半導體掀起漲價潮。從技術迭代角度來看，以SiC為代表的第三代功率半導體器件非常適配AIDC高壓直流化迭代的技術趨勢，因此在SST、HVDC、固態斷路器等多環節均有滲透率提升趨勢，增量更為明顯。經測算，在AIDC爆發+技術迭代下，預計2030年將帶來百億級SiC功率器件的增量需求。SiC功率器件上下游有望增量共振。"
-    },
-    {
-      "id": "5188427",
-      "time": "2026-11-03 07:39:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國總統李在明及隨行人員個人資訊遭洩露】據韓國《朝鮮日報》援引總統辦公室報道，韓國總統李在明、其夫人以及另外166名搭乘總統專機出行人員的個人資訊曾在網上暴露約五個月。李在明6月前往比利時期間，一份包含168名乘客資訊的檔案被上傳至一個付費安全相關網站。洩露的資訊包括姓名、所屬機構、職務、出生日期、護照號碼，以及護照簽發日期和有效期。名單包括政府高階官員、總統辦公室和外交部工作人員、總統警衛部門人員、醫務人員和記者。總統辦公室表示，在得知資訊洩露後已經採取行動，外交部及其他有關部門還將採取進一步措施。有關部門正在調查洩露源頭，目前尚未查明具體洩露途徑及責任人。"
-    },
-    {
-      "id": "5188426",
-      "time": "2026-11-03 07:38:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【長線資金借道佈局A股 寬基ETF10月以來淨流入超3700億元】11月2日，A股市場在政策預期的託舉下震盪走高。截至11月2日收盤，科創50ETF華夏、創業板ETF易方達、滬深300ETF華泰柏瑞3只寬基品種均實現了逾百億元的成交額。中證1000ETF南方、中證500ETF南方、A500ETF華泰柏瑞、中證A500ETF國泰等成交額均在60億元之上。 拉長週期看，資金在市場震盪之際借道ETF佈局的節奏明顯加快，股票型ETF已經連續一個月保持淨流入態勢。Wind資料顯示，寬基ETF自10月以來的淨流入規模便超過3700億元。可見，長線資金青睞的股票型ETF重回吸金主力位置。"
     }
   ]
 }

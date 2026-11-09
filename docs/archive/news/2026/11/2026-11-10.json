@@ -1,7 +1,56 @@
 {
   "date": "2026-11-10",
-  "count": 364,
+  "count": 369,
   "items": [
+    {
+      "id": "te:economy:599737",
+      "time": "2026-11-10 07:40:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Household Spending",
+        "Importance 2"
+      ],
+      "text": "Japan Personal Spending Falls the Most in 6 Years — Japan’s household spending dropped 6.8% yoy in September 2026, deepening from August’s decline and market forecasts of a 3.1% fall and marking the tenth straight month of decline. It was also the steepest contraction since September 2020, highlighting the impact of persistent inflation and higher borrowing costs. On a seasonally adjusted monthly basis, household expenditure fell 2.8%, reversing a 0.1% drop in August and pointing to the first decrease in three months. It also missed estimates of a 0.3% increase."
+    },
+    {
+      "id": "mkt:01a1c2ae-ea9f-7ee0-aae5-006c7aac3d43",
+      "time": "2026-11-10 07:40:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's September trade balance and the Bank of Japan's summary of policy board members' opinions from the October monetary policy meeting are due in 10 minutes."
+    },
+    {
+      "id": "5204348",
+      "time": "2026-11-10 07:38:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【今年第九期和第十期電子式儲蓄國債發行】2026年第九期和第十期電子式儲蓄國債今天（10日）起開始發行。兩期國債均為固定利率、固定期限品種。其中，第九期期限3年，票面年利率為1.63%；第十期期限5年，票面年利率為1.7%。投資者可到相關營業網點購買這兩期國債，單一國債賬戶購買每期國債金額最高為50萬元。開立個人養老金賬戶的投資者，也可以使用個人養老金資金賬戶內的資金購買。"
+    },
+    {
+      "id": "5204347",
+      "time": "2026-11-10 07:38:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年臺風數創21世紀新高】從中國氣象局獲悉，11月7日14時，2026年第32號颱風“查帕卡”在西北太平洋洋麵生成。颱風“查帕卡”成為21世紀以來首個“第32號颱風”，2026年的颱風生成數量也創下21世紀以來最高紀錄。（中國科學報）"
+    },
+    {
+      "id": "mkt:01a1c2ad-0a19-7ee0-aae4-fbcd4289f00d",
+      "time": "2026-11-10 07:38:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xia-Jin Bridge (Xiamen section) sea mainline bridge closed】Early on Nov 10 the final steel box girder was installed, completing the sea mainline closure of the Xia-Jin Bridge (Xiamen section) and marking main-structure completion; the project has entered final pre-opening works. The full project is about 19.6 km including the sea mainline, branch bridges and land tunnels; the mainline is 17.34 km, dual 8 lanes, designed speed 100 km/h. The sea mainline is expected to be completed and opened by year-end, which will shorten travel time between Xiamen island and Dadeng Island and markedly improve access from Xiamen island to Xiang'an International Airport."
+    },
     {
       "id": "5204346",
       "time": "2026-11-10 07:37:39",
