@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-09 22:10:06",
+  "updated": "2026-11-09 22:14:02",
   "count": 10623,
   "items": [
+    {
+      "id": "5203785",
+      "time": "2026-11-09 22:13:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "力量發展集團微信公眾號釋出訃告：力量發展集團執行董事、寧夏力量礦業有限公司董事長紀坤朋先生，因突發疾病，於2026年11月7日早晨不幸逝世，享年41歲。"
+    },
+    {
+      "id": "5203784",
+      "time": "2026-11-09 22:12:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國－土耳其綠色發展商務論壇促進兩國綠色領域合作】中國－土耳其綠色發展商務論壇9日在土耳其伊斯坦布林舉行。本次活動由中國貿促會和土耳其對外經濟關係委員會共同主辦，中土兩國政商界代表近300人參加，就深化兩國在綠色領域的互利合作展開探討。(新華社)"
+    },
+    {
+      "id": "5203783",
+      "time": "2026-11-09 22:11:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：亞馬遜雲服務與Deerfield Management達成人工智慧醫療合作。"
+    },
+    {
+      "id": "5203782",
+      "time": "2026-11-09 22:10:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際電聯秘書長呼籲共建普惠性數字未來】國際電信聯盟秘書長多琳·波格丹-馬丁9日在卡達首都多哈說，面對人工智慧等新興技術快速發展帶來的機遇與挑戰，各國應加強對話與合作，推動彌合數字鴻溝，共同建設惠及所有人的數字未來。（新華社）"
+    },
+    {
+      "id": "5203781",
+      "time": "2026-11-09 22:10:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰雷茲與Netcompany已簽署諒解備忘錄，旨在進一步探索歐洲網路安全、人工智慧和國防領域的未來商業機會。"
+    },
+    {
+      "id": "5203780",
+      "time": "2026-11-09 22:09:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：對於比特幣支援的證券而言，幣安遭駭客攻擊一事進一步凸顯了在多個交易場所執行交易能力的好處。"
+    },
     {
       "id": "5203779",
       "time": "2026-11-09 22:08:23",
@@ -97213,57 +97261,6 @@
         "公司"
       ],
       "text": "Init 股價跌8.4%，此前公司釋出業績及展望，股價料創3月以來最差單日表現。"
-    },
-    {
-      "id": "te:markets:597334",
-      "time": "2026-11-02 22:12:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Rebounds on Easing Inflation Concerns — Gold prices rose more than 1% to above $3,940 an ounce on Monday, recovering from an over one-year low of $3,870.27 hit on Friday, as falling oil prices eased inflation concerns, while investors turned their attention to the November 3 US midterm elections. Gold had come under pressure on Friday as a sharp selloff in technology and AI stocks triggered a dash for cash, forcing investors to liquidate safe-haven assets. However, optimism over a potential US-Iran diplomatic breakthrough and renewed doubts about the sustainability of the AI boom have prompted some reassessment of the Federal Reserve's tightening outlook. Meanwhile, oil prices tumbled after Iranian and Qatari officials held a third consecutive day of talks aimed at ending the US-Israeli war on Iran. Lower oil prices could ease inflationary pressures and reduce expectations of interest rates staying higher for longer, lowering the opportunity cost of holding non-yielding gold."
-    },
-    {
-      "id": "5187894",
-      "time": "2026-11-02 22:12:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "宜家表示，其零售製冷控制系統遭遇網路安全事件，已受到影響，比利時一家門店受到影響，但不能排除其他地點可能受到影響。"
-    },
-    {
-      "id": "5187893",
-      "time": "2026-11-02 22:11:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "T-Mobile：5G光纖套餐將於11月3日推出，自動繳費情況下月費90美元。"
-    },
-    {
-      "id": "5187891",
-      "time": "2026-11-02 22:11:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "房地美宣佈發行規模超過9.7726億美元的K-184多戶住宅CMBS。"
-    },
-    {
-      "id": "5187890",
-      "time": "2026-11-02 22:11:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "8X8獲得微軟認證，透過8X8 Voice for Microsoft Teams簡化全球通話。"
-    },
-    {
-      "id": "5187888",
-      "time": "2026-11-02 22:10:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "最新資料顯示，截至2026年第43周（10月19日至10月25日），華為Pura X View累計銷量約75.53萬臺，成功突破75萬臺大關。"
     }
   ]
 }
