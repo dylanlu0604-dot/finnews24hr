@@ -1,7 +1,241 @@
 {
   "date": "2026-11-09",
-  "count": 1394,
+  "count": 1419,
   "items": [
+    {
+      "id": "mkt:01a1c0ba-1d7b-7ee0-aada-6c60da616cb5",
+      "time": "2026-11-09 22:33:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "NRG.O",
+        "Impact bullish"
+      ],
+      "text": "NRG Energy is in talks with financing partners to expand data center construction and is expected to announce details by year-end."
+    },
+    {
+      "id": "5203821",
+      "time": "2026-11-09 22:32:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "Sable開盤暴跌70%，因客戶暫停採購。"
+    },
+    {
+      "id": "mkt:01a1c0b9-94b9-7ee0-aada-6634ae758c12",
+      "time": "2026-11-09 22:32:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. stocks opened higher on Monday, Nov. 9: S&P 500 up 59.09 points (+0.80%) at 7,436.01; Nasdaq Composite up 192.68 points (+0.78%) at 24,772.10; Dow Jones Industrial Average up 541.39 points (+1.06%) at 51,827.12."
+    },
+    {
+      "id": "5203820",
+      "time": "2026-11-09 22:32:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲1.01%，現報24826.774點；道指漲1.04%，現報51817.180點；標普500指數漲0.86%，現報7440.200點。"
+    },
+    {
+      "id": "5203819",
+      "time": "2026-11-09 22:32:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "Children's Place申請第11章破產保護後，股價下跌36%。"
+    },
+    {
+      "id": "5203818",
+      "time": "2026-11-09 22:31:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國30年期國債收益率跌至四個月低點5.538%。"
+    },
+    {
+      "id": "mkt:01a1c0b9-0337-7ee0-aada-58ff3ab978fd",
+      "time": "2026-11-09 22:31:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK 30-year gilt yield fell to a four-month low of 5.538%."
+    },
+    {
+      "id": "5203817",
+      "time": "2026-11-09 22:31:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "IONIS製藥股價暴跌21%，創7月9日以來最大跌幅。"
+    },
+    {
+      "id": "5203816",
+      "time": "2026-11-09 22:31:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "Sable Offshore股價因煉油廠停運導致原油銷售停滯、現金流承壓，跌至歷史新低；最新下跌72.8%，報0.52美元。"
+    },
+    {
+      "id": "5203815",
+      "time": "2026-11-09 22:31:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "芬蘭航空表示，其客戶資料涉及Amadeus資料洩露事件。"
+    },
+    {
+      "id": "5203814",
+      "time": "2026-11-09 22:31:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達股價下跌8.8%，創3月以來新低。"
+    },
+    {
+      "id": "5203813",
+      "time": "2026-11-09 22:30:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞德半導體：特拉華州地區法院陪審團裁定未侵犯芯源系統專利。"
+    },
+    {
+      "id": "mkt:01a1c0b8-1d16-7ee0-aada-53cdcea7b4c1",
+      "time": "2026-11-09 22:30:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Alphabet",
+        "Meta Platforms",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "GOOG.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【US stocks open higher; NVIDIA falls over 8%】US equities opened higher: Dow +1.3%, S&P 500 +0.8%, Nasdaq +0.8%. Big tech largely advanced: Alphabet (GOOG.O) +2.6% after launching two new TPUs positioned to challenge NVIDIA; AMD (AMD.O) +5.9%; Meta Platforms (META.O) +3.9%; Micron Technology (MU.O) +1.9%. NVIDIA (NVDA.O) fell about 8.4% at the open amid controversy surrounding Jensen Huang."
+    },
+    {
+      "id": "5203812",
+      "time": "2026-11-09 22:30:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤初普漲】禮來漲1.39%，強生漲0.66%，Moderna漲1.34%，諾和諾德漲1.56%，艾伯維跌0.10%，默沙東漲0.64%。"
+    },
+    {
+      "id": "5203811",
+      "time": "2026-11-09 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股算力雲相關股票盤初漲跌不一】甲骨文跌0.20%，CoreWeave跌0.83%，Nebius漲0.07%，IREN跌1.62%，Applied Digital漲0.90%。"
+    },
+    {
+      "id": "5203810",
+      "time": "2026-11-09 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤初普漲】美光漲1.87%，閃迪漲1.68%，SK海力士跌0.54%，西部資料漲2.83%，希捷科技漲2.51%。"
+    },
+    {
+      "id": "5203809",
+      "time": "2026-11-09 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股太空概念股盤初普漲】SpaceX漲1.37%，Rocket Lab漲0.50%，Planet Labs漲1.04%，AST SpaceMobile漲2.71%，Intuitive Machines漲1.67%。"
+    },
+    {
+      "id": "5203808",
+      "time": "2026-11-09 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股開盤普漲】Lumentum漲2.59%，康寧漲2.72%，Coherent漲4.77%，應用光電跌0.22%，Ciena漲5.74%，博通漲4.40%，邁威爾科技漲1.94%。"
+    },
+    {
+      "id": "5203807",
+      "time": "2026-11-09 22:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲1.05%，標普500指數漲0.81%，納指漲0.87%。NRG能源漲6.34%，超威半導體漲6.26%，BE漲6.20%，FERG漲6.04%，Ciena科技漲5.77%，聯合大陸航空漲5.15%。“七姐妹”方面：亞馬遜漲4.81%，Meta Platforms漲4.19%，微軟漲3.11%，谷歌漲2.67%，特斯拉漲0.89%，蘋果漲0.87%，英偉達跌7.76%。"
+    },
+    {
+      "id": "5203806",
+      "time": "2026-11-09 22:30:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，搜狐跌8.46%，虎虎科技跌7.73%，阿里巴巴跌2.56%，京東跌2.30%，理想汽車跌2.39%。"
+    },
+    {
+      "id": "5203805",
+      "time": "2026-11-09 22:30:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮來旗下Foundayo（orforglipron）顯著降低阻塞性睡眠呼吸暫停嚴重程度，進一步印證其改善健康的潛力不止於減重。"
+    },
+    {
+      "id": "te:markets:599629",
+      "time": "2026-11-09 22:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Airbnb Shares Hit 11-week High — Airbnb shares increased to 193.22 USD, the highest since August 2026. Over the past 4 weeks, Airbnb Inc gained 18.28%, and in the last 12 months, it increased 57.17%."
+    },
+    {
+      "id": "5203804",
+      "time": "2026-11-09 22:30:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【土耳其副總統：高度重視發展對華關係，歡迎更多中企對土投資】中國－土耳其綠色發展商務論壇11月9日在土耳其伊斯坦布林舉行。本次活動由中國貿促會和土耳其對外經濟關係委員會共同主辦，中土兩國政商界代表近300人參加，就深化兩國在綠色領域的互利合作展開探討。土耳其副總統耶爾馬茲在致辭中表示，今年是土中建交55週年，土方高度重視發展對華關係，希望推動兩國經濟關係更加均衡和可持續發展。土方將綠色轉型作為發展政策的基本要素之一，歡迎更多中國企業對土投資，願加強“中間走廊”計劃同共建“一帶一路”倡議對接，鞏固土中及區域互聯互通合作。（新華社）"
+    },
+    {
+      "id": "5203803",
+      "time": "2026-11-09 22:29:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國FDA：要求GLP-1受體激動劑更改安全標籤，因其可能增加罕見但嚴重的眼部疾病風險。"
+    },
+    {
+      "id": "5203802",
+      "time": "2026-11-09 22:29:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【扎波羅熱核電站及附近火電站多名員工遇襲身亡】國際原子能機構當地時間11月9日表示，獲悉烏克蘭扎波羅熱核電站一名員工當天在無人機襲擊中死亡，附近扎波羅熱火電站也有一名員工遭無人機襲擊身亡，幾天前該核電站另一名員工也在無人機襲擊中死亡。機構稱接連襲擊威脅核設施人員安全、加劇核安全風險，總幹事格羅西強烈譴責襲擊，呼籲立即停止針對核電站工作人員的一切襲擊。該核電站自2022年3月以來一直處於俄羅斯控制之下，俄方指責烏克蘭無人機發動襲擊，機構通報未明確襲擊責任方。（央視新聞）"
+    },
     {
       "id": "mkt:01a1c0b6-3911-7ee0-aada-4ebc42e3f17f",
       "time": "2026-11-09 22:28:49",
