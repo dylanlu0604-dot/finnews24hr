@@ -1,7 +1,71 @@
 {
-  "updated": "2026-11-09 21:41:35",
-  "count": 10589,
+  "updated": "2026-11-09 21:45:36",
+  "count": 10596,
   "items": [
+    {
+      "id": "mkt:01a1c08c-e91b-7ee0-aad9-838f6d00fce1",
+      "time": "2026-11-09 21:43:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【U.S. stock futures rise as oil falls; tech sell-off shadow lingers】U.S. stock index futures rose early Monday as oil slid. Nasdaq 100 futures were up 0.7% and S&P 500 futures were up 0.8% as U.S. WTI crude fell 3.6% to about $88/bbl. Tom Essaye, founder of Sevens Report, said President Trump’s comments reduced market odds of renewed U.S. strikes on Iran, weighing on oil and lifting futures; Trump said it was “highly unlikely” he would resume large-scale strikes, while Rubio called some Iranian demands “outrageous and absurd.” Investors remain cautious after last Thursday’s sell-off: the Nasdaq 100 sits 4.8% below its 200-day moving average, a historically rare gap, and breaches larger than 3% typically take about 25 trading days to reclaim that MA. Market participants are split on drivers — SocGen strategists point to institutional de-risking, while other analyses flag large-scale retail liquidations."
+    },
+    {
+      "id": "mkt:01a1c08c-c5f4-7ee0-aad9-7817dd5ea181",
+      "time": "2026-11-09 21:43:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANADOLU reported Turkish authorities detained the chairman of Lydia Holding in a fund investigation."
+    },
+    {
+      "id": "5203745",
+      "time": "2026-11-09 21:43:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其在一起基金調查中拘留了Lydia Holding董事長。"
+    },
+    {
+      "id": "5203744",
+      "time": "2026-11-09 21:42:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通（Qualcomm）5檔基準債券發售。"
+    },
+    {
+      "id": "5203743",
+      "time": "2026-11-09 21:42:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超3.00%，現報3.558美元/百萬英熱。"
+    },
+    {
+      "id": "5203742",
+      "time": "2026-11-09 21:41:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【郴州市與寧德時代簽署戰略合作備忘錄】近日，郴州市人民政府與寧德時代簽署戰略合作備忘錄。雙方將圍繞綠色資源開發、綠電與換電基礎設施、交通電動化、零碳場景展開合作，共建綠色低碳產業體系。"
+    },
+    {
+      "id": "5203741",
+      "time": "2026-11-09 21:41:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【常友科技：現階段無人機業務聚焦機體結構件研發製造與銷售】常友科技(301557)11月9日接受機構調研時表示，現階段公司無人機業務聚焦無人機機體結構件的研發製造與銷售，發揮自身複合材料成型的核心優勢，做好殼體等結構配套；中長期，在結構件業務形成穩定交付、客戶需求充分驗證的基礎上，公司將結合市場需求、合作進展及自身能力邊界，審慎評估開展總裝整合、整機交付的可行性。上述中長期規劃僅為方向性探討，整機業務能否落地、落地節奏存在較大不確定性。"
+    },
     {
       "id": "mkt:01a1c088-4a9c-7ee0-aad9-72fc79bcb5ff",
       "time": "2026-11-09 21:38:39",
