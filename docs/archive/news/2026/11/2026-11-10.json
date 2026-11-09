@@ -1,7 +1,40 @@
 {
   "date": "2026-11-10",
-  "count": 339,
+  "count": 343,
   "items": [
+    {
+      "id": "mkt:01a1c2a1-e6cd-7ee0-aae4-b71859432424",
+      "time": "2026-11-10 07:25:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Saudi-led coalition said it intercepted and destroyed a ballistic missile fired by Houthi militants toward southern Saudi Arabia."
+    },
+    {
+      "id": "5204334",
+      "time": "2026-11-10 07:25:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍：攔截並摧毀了葉門胡塞武裝向沙特南部地區發射的彈道導彈。"
+    },
+    {
+      "id": "5204333",
+      "time": "2026-11-10 07:23:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic釋出Claude Fable 5.2和Mythos 5.2模型，程式設計與科學研究能力提升】當地時間11月9日，人工智慧公司Anthropic釋出Claude Fable 5.2和Claude Mythos 5.2模型，稱新模型在程式設計、推理和視覺理解等方面有所提升，輸出速度較上一代最高提高30%，價格降至每百萬輸入Token 8美元、每百萬輸出Token 40美元。"
+    },
+    {
+      "id": "5204332",
+      "time": "2026-11-10 07:22:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【IBM計劃發行多批次日元債券】據知情人士透露，IBM正計劃發行多批次（multi-tranche）日元債券。期限與利差：3年期：日本中期國債收益率（YMS）+ 70-80個基點；5年期：YMS + 90-100個基點；7年期：YMS + 105-115個基點；10年期：YMS + 125-135個基點；15年期：YMS + 約140個基點；20年期：YMS + 約145個基點；30年期：YMS + 約155個基點；預計定價日期：11月13日。聯席主承銷商：瑞穗銀行（B&D）、三菱日聯銀行（MUFG）、三井住友日興證券（SMBC Nikko）。"
+    },
     {
       "id": "5204331",
       "time": "2026-11-10 07:21:34",
