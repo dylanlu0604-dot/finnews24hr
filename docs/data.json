@@ -1,7 +1,50 @@
 {
-  "updated": "2026-11-09 13:20:51",
-  "count": 10746,
+  "updated": "2026-11-09 13:24:39",
+  "count": 10750,
   "items": [
+    {
+      "id": "5202742",
+      "time": "2026-11-09 13:23:52",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【平安人壽回應實施勵駿酒店專案：打造高品質社群專案】近期，位於北京東城區金寶街的地標五星級勵駿酒店傳出停業訊息。北京商報記者注意到，北京市東城區住建委近日釋出的關於東城區政協第十五屆第五次會議第028號提案的答覆意見（A類）顯示，引入平安人壽實施勵駿酒店專案，打造高階康養服務設施。"
+    },
+    {
+      "id": "5202741",
+      "time": "2026-11-09 13:22:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數<.AXJO>收漲0.1%，報9,029.70點。"
+    },
+    {
+      "id": "mkt:01a1bec1-b410-7ee0-aace-90a2f2f891de",
+      "time": "2026-11-09 13:22:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Philippine Department of Agriculture imposes a 60-day restriction on pork imports to protect the domestic industry."
+    },
+    {
+      "id": "5202740",
+      "time": "2026-11-09 13:21:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓農業部對豬肉進口實施為期60天的限制，以保護國內產業。"
+    },
+    {
+      "id": "mkt:01a1bec0-704e-7ee0-aace-8918d6f2b7d2",
+      "time": "2026-11-09 13:20:44",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia's S&P/ASX 200 closed up 32.20 points, or 0.36 percent, at 9,053.00 on Monday, Nov. 9."
+    },
     {
       "id": "5202739",
       "time": "2026-11-09 13:17:58",
@@ -98360,18 +98403,6 @@
         "Importance 1"
       ],
       "text": "Indonesia Tourist Arrivals Up 2.31% YoY in September — Foreign tourist arrivals to Indonesia increased 2.31% year-on-year to 1.43 million in September 2026, slowing from a 6.27% rise in August. The moderation reflected weaker travel demand amid disruptions caused by recent natural disasters and volcanic activity in some parts of the country. Arrivals rose from Singapore (12.69%), China (35.59%), India (5.625), Japan (21.46%), the U.S. (5.46%), the Middle East (10.19%), and Australia (8.46%). In contrast, visitors dropped from Malaysia (-12.19%) and East Timor (-24.56%). Arrivals from the EU fell 0.8%, mainly from the Netherlands (-12.57%), Germany (-6.15%), and France (-5.80%). In the first nine months of the year, foreign tourist arrivals rose 5.01% from the same period the year earlier to 12.0 million, the highest level since 2020."
-    },
-    {
-      "id": "te:markets:597124",
-      "time": "2026-11-02 13:21:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "China 10Y Yield Falls After PBOC Policy Shift — China’s 10-year government bond yield fell to around 1.64%, reversing the previous session’s advance, as the PBOC’s shift toward an overnight-rate-based monetary policy framework signaled a move toward lower short-term funding costs. Under the new framework, the central bank will conduct daily overnight reverse repo operations at a fixed rate of 1.25%, moving the overnight rate toward becoming its primary policy anchor and gradually phasing out the long-standing seven-day benchmark. The newly disclosed rate is below the existing seven-day reverse repo rate of 1.4% and broadly in line with market expectations and prevailing funding costs. Meanwhile, disappointing official PMI data underscored persistent weakness in economic activity. The manufacturing PMI fell to a three-month low of 49.3 in October 2026 from 50.1 in September, while the non-manufacturing PMI slipped to 49.7 from 50.2, marking its sixth contractionary reading this year."
     }
   ]
 }
