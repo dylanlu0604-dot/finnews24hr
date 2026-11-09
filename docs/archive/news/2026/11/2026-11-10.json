@@ -1,7 +1,89 @@
 {
   "date": "2026-11-10",
-  "count": 352,
+  "count": 360,
   "items": [
+    {
+      "id": "5204342",
+      "time": "2026-11-10 07:32:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經期貨在新加坡交易所開盤上漲2130點，報60950點。"
+    },
+    {
+      "id": "mkt:01a1c2a7-2045-7ee0-aae4-f1341f115b33",
+      "time": "2026-11-10 07:31:34",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia November Westpac-Melbourne Institute consumer confidence index 78.2, down from 80.4 previously."
+    },
+    {
+      "id": "mkt:01a1c2a7-007e-7ee0-aae4-eaebe790104f",
+      "time": "2026-11-10 07:31:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Westpac/Melbourne Institute Consumer Sentiment Index (Nov) | actual 78.2 | previous 80.4"
+    },
+    {
+      "id": "5204341",
+      "time": "2026-11-10 07:31:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "康卡斯特計劃在其連線和平臺部門裁員超過1000人。"
+    },
+    {
+      "id": "5204340",
+      "time": "2026-11-10 07:30:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本9月所有家庭支出較上年同期下降6.7%(調查預估為下降3.1%)，前月為下降3.1%。日本9月家庭支出環比下降2.8%（調查0.3%）。"
+    },
+    {
+      "id": "mkt:01a1c2a5-df0b-7ee0-aae4-e1b1ec82f281",
+      "time": "2026-11-10 07:30:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan total household spending (all households) Sep MoM -2.8% vs +0.3% expected; prior +0.1%."
+    },
+    {
+      "id": "mkt:01a1c2a5-d842-7ee0-aae4-d95cb8aaee8b",
+      "time": "2026-11-10 07:30:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan September all-household spending YoY -6.7% (expected -3.1%; prior -3.1%)."
+    },
+    {
+      "id": "mkt:01a1c2a5-d555-7ee0-aae4-d6cada4a001b",
+      "time": "2026-11-10 07:30:10",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia Nov Westpac/Melbourne Institute consumer sentiment MoM +2.7% (prior -4.7%)."
+    },
     {
       "id": "mkt:01a1c2a5-bed1-7ee0-aae4-cf636eb8d57c",
       "time": "2026-11-10 07:30:04",
