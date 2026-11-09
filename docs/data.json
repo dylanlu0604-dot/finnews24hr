@@ -1,7 +1,44 @@
 {
-  "updated": "2026-11-09 08:40:43",
-  "count": 10672,
+  "updated": "2026-11-09 08:44:30",
+  "count": 10673,
   "items": [
+    {
+      "id": "5201841",
+      "time": "2026-11-09 08:43:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗媒體稱格什姆島遭美軍襲擊】據伊朗塔斯尼姆通訊社8日晚報道，伊朗南部格什姆島遭到美軍襲擊。伊朗伊斯蘭共和國通訊社稍早前報道稱，格什姆島傳出4聲爆炸聲。此前網路上有傳言稱錫裡克島和阿巴斯港也傳出爆炸聲，但目前掌握的資訊顯示，這兩地爆炸與襲擊無關，而是與伊朗為維護霍爾木茲海峽安全所採取的行動有關。（新華社）"
+    },
+    {
+      "id": "mkt:01a1bdc2-09cc-7ee0-aac9-74c7e6037d54",
+      "time": "2026-11-09 08:42:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold hit $4,100/oz, up 0.72% on the day."
+    },
+    {
+      "id": "5201840",
+      "time": "2026-11-09 08:42:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者問：你更信任誰，普京總統還是澤連斯基總統？ 特朗普：嗯，我寧願不說，但我跟他們倆都相處得很好。"
+    },
+    {
+      "id": "5201839",
+      "time": "2026-11-09 08:41:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談俄羅斯： 我沒有取消對俄羅斯的柴油制裁。 我讓俄羅斯能夠向世界提供成千上萬桶石油，而不是向我們提供。"
+    },
     {
       "id": "em:qqyh_ozyh:202611093925763361",
       "time": "2026-11-09 08:38:47",
@@ -97810,38 +97847,6 @@
         "國際"
       ],
       "text": "日本財務大臣片山：與美國的聯合外匯宣告仍然有效，將針對無序波動採取行動。"
-    },
-    {
-      "id": "5186229",
-      "time": "2026-11-02 08:43:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：將盡最大努力準確估算稅收，提高透明度。"
-    },
-    {
-      "id": "te:economy:597039",
-      "time": "2026-11-02 08:43:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Taiwan Manufacturing Maintains Momentum — The S&P Global Taiwan Manufacturing PMI fell to 54.9 in October 2026 from a more than five-year high of 56.7 in the previous month. Nevertheless, it marked the eleventh consecutive month of expansion, supported by continued growth in new orders amid improving demand conditions across domestic and export markets. Output also increased for another month, although at a slower pace, while employment rose for the fourth consecutive month as manufacturers sought to keep pace with rising workloads. Meanwhile, supplier delivery times lengthened markedly in October as strong AI-related demand strained capacity and shipping delays persisted amid the Middle East conflict. On the price front, input costs climbed sharply again, albeit at a slightly slower pace than in September, reflecting higher prices for metals, plastics and electronics. Consequently, selling prices remained elevated. Lastly, business confidence edged lower but stayed above the series average."
-    },
-    {
-      "id": "te:economy:597038",
-      "time": "2026-11-02 08:40:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Building Permits MoM",
-        "Importance 2"
-      ],
-      "text": "Australia Building Permits Rise for 1st Time in 3 Months — Australia’s seasonally adjusted dwelling approvals increased 5.1% month-on-month to 17,948 units in September 2026, rebounding from a revised 5.2% drop in the previous month, preliminary data showed. It was the first expansion since June, with approvals for private-sector dwellings excluding houses rebounding sharply (16.6% vs -21.7% in August) to 6,579 units. In contrast, private-sector house approvals fell (-5.3% vs. 5.4%) to 10,432 units. Across the states, dwelling approvals rose in New South Wales (37.3%) and Queensland (28.0%), while declining in Victoria (-28.9%), Tasmania (-25.7%), Western Australia (-8.7%), and South Australia (-3.2%). On a yearly basis, building approvals fell 0.8%, reversing an upwardly revised 12.1% jump in August."
     }
   ]
 }
