@@ -1,7 +1,55 @@
 {
   "date": "2026-11-09",
-  "count": 1439,
+  "count": 1444,
   "items": [
+    {
+      "id": "5203838",
+      "time": "2026-11-09 22:40:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "第一資本金融股價下跌5.3%，為7月以來最大跌幅。"
+    },
+    {
+      "id": "te:markets:599631",
+      "time": "2026-11-09 22:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 1.16% Higher — The Dow Jones Index is up by 596 points or 1.16 percent on Monday. Top gainers are Amazon (5.82%), Caterpillar (4.06%) and Alphabet (3.46%)."
+    },
+    {
+      "id": "te:markets:599630",
+      "time": "2026-11-09 22:40:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound from Friday Plunge — US stocks rebounded on Monday from their selloff last session as markets reconsidered risks of slower spending on AI and infrastructure. The S&P 500 gained 0.8% and the Dow rose 1%, while the Nasdaq 100 outperformed with a 1.6% jump despite Nvidia's plunge. Broadcom, AMD, and Marvell gained around 6% each to lead a strong session for AI companies following their plunge on Friday, when the Democratic party took control of Congress and drove markets to speculate on lower returns for AI companies, compounding recent concerns that the sector's growth was slowing. Applied Materials and Cisco gained over 4% each ahead of their earnings this week. In turn, Nvidia sank 7% after CEO Jensen Huang admitted to an affair with a suspected Chinese spy, potentially driving a Democratic Congress to tighten export controls of Nvidia chips. CoreWeave dropped 1% ahead of its earnings this week, down 75% from its record last year to remain the leading bellwether for overspending on AI cloud-computing."
+    },
+    {
+      "id": "mkt:01a1c0bf-cc11-7ee0-aada-b6e9f9c5ff5c",
+      "time": "2026-11-09 22:39:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to a memo, the Trump administration pledged to accelerate deployment of counter-UAS systems to address unmanned aerial threats."
+    },
+    {
+      "id": "5203837",
+      "time": "2026-11-09 22:39:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普政府承諾加快反無人機系統的部署，以應對相關威脅。"
+    },
     {
       "id": "5203836",
       "time": "2026-11-09 22:36:48",

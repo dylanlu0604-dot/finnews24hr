@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-09 22:38:02",
-  "count": 10615,
+  "updated": "2026-11-09 22:42:29",
+  "count": 10603,
   "items": [
+    {
+      "id": "5203838",
+      "time": "2026-11-09 22:40:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "第一資本金融股價下跌5.3%，為7月以來最大跌幅。"
+    },
+    {
+      "id": "te:markets:599631",
+      "time": "2026-11-09 22:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 1.16% Higher — The Dow Jones Index is up by 596 points or 1.16 percent on Monday. Top gainers are Amazon (5.82%), Caterpillar (4.06%) and Alphabet (3.46%)."
+    },
+    {
+      "id": "te:markets:599630",
+      "time": "2026-11-09 22:40:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound from Friday Plunge — US stocks rebounded on Monday from their selloff last session as markets reconsidered risks of slower spending on AI and infrastructure. The S&P 500 gained 0.8% and the Dow rose 1%, while the Nasdaq 100 outperformed with a 1.6% jump despite Nvidia's plunge. Broadcom, AMD, and Marvell gained around 6% each to lead a strong session for AI companies following their plunge on Friday, when the Democratic party took control of Congress and drove markets to speculate on lower returns for AI companies, compounding recent concerns that the sector's growth was slowing. Applied Materials and Cisco gained over 4% each ahead of their earnings this week. In turn, Nvidia sank 7% after CEO Jensen Huang admitted to an affair with a suspected Chinese spy, potentially driving a Democratic Congress to tighten export controls of Nvidia chips. CoreWeave dropped 1% ahead of its earnings this week, down 75% from its record last year to remain the leading bellwether for overspending on AI cloud-computing."
+    },
+    {
+      "id": "mkt:01a1c0bf-cc11-7ee0-aada-b6e9f9c5ff5c",
+      "time": "2026-11-09 22:39:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to a memo, the Trump administration pledged to accelerate deployment of counter-UAS systems to address unmanned aerial threats."
+    },
+    {
+      "id": "5203837",
+      "time": "2026-11-09 22:39:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普政府承諾加快反無人機系統的部署，以應對相關威脅。"
+    },
     {
       "id": "5203836",
       "time": "2026-11-09 22:36:48",
@@ -97117,153 +97165,6 @@
         "市場"
       ],
       "text": "英國選定6家主承銷商負責數字國債試點工具。"
-    },
-    {
-      "id": "5188001",
-      "time": "2026-11-02 22:42:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：截至9月30日，付費超過10萬美元的客戶超過11900家。"
-    },
-    {
-      "id": "te:markets:597346",
-      "time": "2026-11-02 22:41:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rise to Kick Off November — US stocks rose at the start of November, with the S&P 500 up 0.7%, the Nasdaq gaining 0.9% and the Dow Jones advancing nearly 500 points, following Friday’s sell-off in AI-related shares. Investors are gearing up for an event-packed week, with the US midterm elections, key labour market data and a fresh batch of corporate earnings in focus. A decline in oil prices also helped boost market sentiment. Consumer discretionary was the best-performing sector, while technology stocks attempted a recovery and energy shares underperformed. Nvidia (1.6%), Amazon (3.3%) and Tesla (2.4%) booked strong gains. In contrast, Oracle slid 4.5% after offering $10 billion of shares and starting a debt sale for the same amount. Marvell Technology fell almost 6% after announcing an agreement to acquire Lumentum Holdings Inc. Elsewhere, Palantir fell 0.3% and Apple shares were down 0.6% ahead of their earnings releases later in the day."
-    },
-    {
-      "id": "5188000",
-      "time": "2026-11-02 22:41:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：截至9月30日，已累計籌集資本1411億美元。"
-    },
-    {
-      "id": "5187999",
-      "time": "2026-11-02 22:41:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：截至9月30日，現金及現金等價物為956億美元。"
-    },
-    {
-      "id": "5187998",
-      "time": "2026-11-02 22:41:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic將谷歌雲支出承諾提高至約1213億美元。"
-    },
-    {
-      "id": "5187997",
-      "time": "2026-11-02 22:41:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：截至9月30日的過去12個月，人均創收超過660萬美元。"
-    },
-    {
-      "id": "5187996",
-      "time": "2026-11-02 22:40:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "德州儀器上漲1.9%，亞德諾半導體上漲2.1%，高通上漲2.6%。"
-    },
-    {
-      "id": "5187995",
-      "time": "2026-11-02 22:40:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達股價上漲1.5%，SK海力士美股上漲3.3%。"
-    },
-    {
-      "id": "5187994",
-      "time": "2026-11-02 22:40:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic表示，有跡象顯示，該公司可能即將符合《負責任擴充套件政策》中“可歸因於AI的顯著加速進展”的定義。"
-    },
-    {
-      "id": "te:markets:597345",
-      "time": "2026-11-02 22:40:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.83% Higher — The Dow Jones Index is up by 429 points or 0.83 percent on Monday. Top gainers are Amazon (3.65%), Sherwin-Williams (2.84%) and Home Depot (2.21%). Biggest losses came from Chevron (-2.22%), J&J (-1.09%) and Cisco Systems (-1.05%)."
-    },
-    {
-      "id": "5187993",
-      "time": "2026-11-02 22:40:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：截至9月30日，淨收入留存率約為900%。"
-    },
-    {
-      "id": "5187992",
-      "time": "2026-11-02 22:39:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic獲授谷歌可購買至多100億美元N類股票的期權。"
-    },
-    {
-      "id": "5187991",
-      "time": "2026-11-02 22:38:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：按過去12個月計算，約有250家客戶的收入貢獻達到或超過1000萬美元。"
-    },
-    {
-      "id": "te:markets:597344",
-      "time": "2026-11-02 22:38:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Slips to Near 1-Week Low — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, snapped its three-day winning streak on Monday, dropping by 2.4% to its lowest since October 27 at 2,648 points. Declines were seen across all vessel segments. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, slipped nearly 4% to 3,963 points, after three consecutive sessions of advances. At the same time, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, decreased by 0.8% to its lowest since April 13 at 1,874 points, extending its losing streak to 14 consecutive sessions. Among smaller vessels, the supramax index fell by 0.5% to a fresh low since October 15 at 1,856 points."
-    },
-    {
-      "id": "5187990",
-      "time": "2026-11-02 22:38:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：強勁的緩衝機制支撐法國擔保債券的穩定展望。"
-    },
-    {
-      "id": "5187989",
-      "time": "2026-11-02 22:38:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：截至9月30日，尚未開始的租賃金額約為4512億美元。"
-    },
-    {
-      "id": "5187988",
-      "time": "2026-11-02 22:38:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "CoreWeave下跌4%，Nebius下跌4.5%，IREN下跌3.1%。"
     }
   ]
 }
