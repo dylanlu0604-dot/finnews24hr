@@ -1,7 +1,105 @@
 {
-  "updated": "2026-11-09 21:33:23",
-  "count": 10572,
+  "updated": "2026-11-09 21:37:36",
+  "count": 10582,
   "items": [
+    {
+      "id": "5203734",
+      "time": "2026-11-09 21:36:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紅果短劇宣佈持續加大對知識類、公益類微短劇的扶持力度】在日前由紅果短劇發起的“紅果有新知”主題活動上，紅果短劇宣佈持續加大對知識類、公益類微短劇的扶持力度。"
+    },
+    {
+      "id": "5203733",
+      "time": "2026-11-09 21:35:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌2%，現報960.00元。"
+    },
+    {
+      "id": "mkt:01a1c085-2040-7ee0-aad9-656efe3d1d89",
+      "time": "2026-11-09 21:35:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell 4.00% intraday, trading at $86.86/bbl."
+    },
+    {
+      "id": "5203732",
+      "time": "2026-11-09 21:34:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿爾法明資源公司：將把剛果（金）比西錫礦的部分錫精礦產量分配給Nathan Trotter & Co。"
+    },
+    {
+      "id": "5203731",
+      "time": "2026-11-09 21:34:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國CAC40指數日內漲幅達1.00%。"
+    },
+    {
+      "id": "mkt:01a1c084-9825-7ee0-aad9-5951cc9d0a53",
+      "time": "2026-11-09 21:34:37",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "France's CAC 40 index is up 1.00% intraday."
+    },
+    {
+      "id": "5203730",
+      "time": "2026-11-09 21:34:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達官員：有關美伊方案細節的報道不實】卡達一名官員表示，網上流傳的一些報道聲稱披露了已向美國和伊朗雙方提交的一份方案的具體內容，這些報道“完全不實”。該官員表示，談判仍在進行，雙方都在與調解方就協議細節進行磋商。相關報道包括有關鈾濃縮、解凍伊朗被凍結資產以及葉門調解工作的說法該官員敦促公眾和媒體從政府官方渠道獲取有關外交努力的最新資訊。"
+    },
+    {
+      "id": "5203729",
+      "time": "2026-11-09 21:33:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守87美元/桶，日內跌4.23%。"
+    },
+    {
+      "id": "mkt:01a1c083-d972-7ee0-aad9-5442f924e9ba",
+      "time": "2026-11-09 21:33:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's Prime Minister Modi spoke by phone with Ukrainian President Volodymyr Zelensky today, the Prime Minister's Office said."
+    },
+    {
+      "id": "5203728",
+      "time": "2026-11-09 21:33:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "Healthspan將Surgery Partners的收購報價上調至每股25美元。"
+    },
+    {
+      "id": "5203727",
+      "time": "2026-11-09 21:32:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度方面表示，莫迪今日與澤連斯基通電話。"
+    },
     {
       "id": "5203726",
       "time": "2026-11-09 21:31:24",
@@ -96797,17 +96895,6 @@
         "Importance 1"
       ],
       "text": "Italy 10Y Bond Yield Hits 5-week Low — Italy 10 Year Government Bond Yield decreased to 4.42%, the lowest since September 2026. Over the past 4 weeks, Italy 10Y Bond Yield lost 19.08 basis points, and in the last 12 months, it increased 104.05 basis points."
-    },
-    {
-      "id": "te:markets:597316",
-      "time": "2026-11-02 21:37:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Oil is down by 5% — Brent Oil decreased 5% to 107.764 USD/Bbl"
     }
   ]
 }
