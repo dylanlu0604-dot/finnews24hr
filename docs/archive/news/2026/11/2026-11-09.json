@@ -1,7 +1,88 @@
 {
   "date": "2026-11-09",
-  "count": 322,
+  "count": 331,
   "items": [
+    {
+      "id": "5201811",
+      "time": "2026-11-09 08:17:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓華航空航天股價早盤下跌3.3%，報638,000韓元。"
+    },
+    {
+      "id": "mkt:01a1bda9-9eab-7ee0-aac9-47cd3a85398f",
+      "time": "2026-11-09 08:16:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 gained 2.00% intraday."
+    },
+    {
+      "id": "5201810",
+      "time": "2026-11-09 08:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安波福與兆易創新達成戰略合作 推動汽車晶片產業鏈協同發展】據安波福訊息，11月6日，安波福與兆易創新正式簽署戰略合作協議。雙方將圍繞車載晶片產品應用、供應鏈協同及產業生態建設等領域開展長期合作，共同推動國產車規級晶片在汽車產業的規模化應用。"
+    },
+    {
+      "id": "5201809",
+      "time": "2026-11-09 08:15:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲2%。"
+    },
+    {
+      "id": "5201808",
+      "time": "2026-11-09 08:15:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破75000美元，日內漲0.20%。"
+    },
+    {
+      "id": "5201807",
+      "time": "2026-11-09 08:15:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報52.47美元/盎司。"
+    },
+    {
+      "id": "5201806",
+      "time": "2026-11-09 08:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，他將對內閣進行一些調整。"
+    },
+    {
+      "id": "mkt:01a1bda7-a32b-7ee0-aac9-38b1f39d62b9",
+      "time": "2026-11-09 08:14:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump plans to continue actively using his pardon power before leaving office."
+    },
+    {
+      "id": "mkt:01a1bda7-5605-7ee0-aac9-30d05071d2c7",
+      "time": "2026-11-09 08:13:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he is \"very likely\" to support his successor, but \"not necessarily\"."
+    },
     {
       "id": "mkt:01a1bda6-8da0-7ee0-aac9-2eeab440735b",
       "time": "2026-11-09 08:12:51",

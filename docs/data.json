@@ -1,7 +1,88 @@
 {
-  "updated": "2026-11-09 08:13:59",
-  "count": 10661,
+  "updated": "2026-11-09 08:17:48",
+  "count": 10663,
   "items": [
+    {
+      "id": "5201811",
+      "time": "2026-11-09 08:17:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓華航空航天股價早盤下跌3.3%，報638,000韓元。"
+    },
+    {
+      "id": "mkt:01a1bda9-9eab-7ee0-aac9-47cd3a85398f",
+      "time": "2026-11-09 08:16:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 gained 2.00% intraday."
+    },
+    {
+      "id": "5201810",
+      "time": "2026-11-09 08:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安波福與兆易創新達成戰略合作 推動汽車晶片產業鏈協同發展】據安波福訊息，11月6日，安波福與兆易創新正式簽署戰略合作協議。雙方將圍繞車載晶片產品應用、供應鏈協同及產業生態建設等領域開展長期合作，共同推動國產車規級晶片在汽車產業的規模化應用。"
+    },
+    {
+      "id": "5201809",
+      "time": "2026-11-09 08:15:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲2%。"
+    },
+    {
+      "id": "5201808",
+      "time": "2026-11-09 08:15:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破75000美元，日內漲0.20%。"
+    },
+    {
+      "id": "5201807",
+      "time": "2026-11-09 08:15:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報52.47美元/盎司。"
+    },
+    {
+      "id": "5201806",
+      "time": "2026-11-09 08:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，他將對內閣進行一些調整。"
+    },
+    {
+      "id": "mkt:01a1bda7-a32b-7ee0-aac9-38b1f39d62b9",
+      "time": "2026-11-09 08:14:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump plans to continue actively using his pardon power before leaving office."
+    },
+    {
+      "id": "mkt:01a1bda7-5605-7ee0-aac9-30d05071d2c7",
+      "time": "2026-11-09 08:13:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he is \"very likely\" to support his successor, but \"not necessarily\"."
+    },
     {
       "id": "mkt:01a1bda6-8da0-7ee0-aac9-2eeab440735b",
       "time": "2026-11-09 08:12:51",
@@ -97664,71 +97745,6 @@
         "國際"
       ],
       "text": "【中信證券：中選對美股影響幾何？】中信證券研報稱，2026年11月3日美國中期選舉在即，我們圍繞“中選―市場”的敘事展開三層分析。其一，歷史覆盤顯示，1946―2022年20次中選後一年標普500回報全部為正、均值+14.4%，且三分類下組間差異遠小於組內離散，“兩院歸屬”對美股方向缺乏獨立定價力。其二，選情方面，預測市場與民調資料一致將“民主黨控制兩院”定價為基準情景（Polymarket約68%、Kalshi約65%），分裂國會為次要替代，但參議院席位測算表明民主黨需淨增4席、且7個Toss-Up州中多數為共和黨現持席位，疊加共和黨在黨組織現金與廣告投放上的優勢，共和黨仍存在守住參議院的現實路徑。其三，兩黨政策分歧顯著、共識有限，行業影響更多取決於“政策能否落地”的確定性——分裂國會對應政策順風最弱，兩黨掌控兩院時其分列政策才構成高彈性的方向性敞口。"
-    },
-    {
-      "id": "5186205",
-      "time": "2026-11-02 08:17:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "鎧俠股價下跌14%。"
-    },
-    {
-      "id": "te:economy:597030",
-      "time": "2026-11-02 08:17:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "MI Inflation Gauge MoM",
-        "Importance 1"
-      ],
-      "text": "Australia Inflation Gauge Accelerates Ahead of RBA Meeting — Australia’s Melbourne Institute Monthly Inflation Gauge rose 0.5% month-on-month in October 2026, up from a 0.3% increase in the previous month and marking a fourth straight monthly gain. The stronger reading highlights persistent price pressures ahead of the Reserve Bank’s policy meeting later this week, where markets widely expect a fifth rate hike this year. Annual headline inflation accelerated to a six-month high of 4.3% in September, remaining well above the RBA’s 2-3% target range. RBA Governor Michele Bullock has cautioned that inflation may stay elevated longer than anticipated, while Assistant Governor Sarah Hunter recently indicated policymakers have “not quite yet” done enough to return inflation sustainably to target, reinforcing expectations of further policy tightening."
-    },
-    {
-      "id": "5186204",
-      "time": "2026-11-02 08:16:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國中冶(01618)截至10月末累計回購H股股份9494.3萬股】中國中冶(01618)釋出公告，截至2026年10月31日，本公司累計回購H股股份9494.3萬股，佔本公司總股本的0.45885%，成交最高價為1.94港元/股，最低價為1.305港元/股，成交總金額為1.45億港元(不含交易費用)。其中，1-6月累計回購的H股股份3200萬股已於2026年6月2日完成登出。"
-    },
-    {
-      "id": "te:markets:597029",
-      "time": "2026-11-02 08:15:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Futures Rise as November Trading Begins — US stock futures edged higher on Monday as investors braced for a packed week of corporate earnings, economic data releases, and the US midterm elections. Dow futures gained 0.3%, while S&P 500 and Nasdaq 100 futures each advanced approximately 0.4%. Market participants are looking ahead to earnings reports from major companies, including Apple, Palantir, AMD, Pfizer, and McDonald’s, among others. On the economic front, the closely monitored US jobs report is due this week, alongside ISM manufacturing and services data. Several Federal Reserve officials are also scheduled to deliver remarks, which could provide further insight into the central bank’s future policy direction. Meanwhile, major US stock indexes ended last week lower, with the tech-heavy Nasdaq Composite falling 2%, while the Dow and S&P 500 declined 0.85% and 0.57%, respectively. Selling pressure intensified toward the end of the week as disappointing tech earnings heightened concerns surrounding the AI trade."
-    },
-    {
-      "id": "5186203",
-      "time": "2026-11-02 08:15:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨上漲0.2%，德國DAX指數期貨上漲0.1%。"
-    },
-    {
-      "id": "5186202",
-      "time": "2026-11-02 08:15:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家資料局召開行業高質量資料集鏈主工作座談會，深化高質量資料集建設“以需定供”“以用促建”】10月28日上午，國家資料局組織召開行業高質量資料集建設鏈主工作座談會，總結鏈主工作進展成效，交流經驗做法，研究部署下一步重點工作。國家資料局黨組成員、副局長夏冰出席會議並講話。會上，來自教育教學、醫療衛生、科學研究、工業製造、生物製造、農業農村、智慧能源、交通運輸、氣象服務等9個領域的21家鏈主單位代表，圍繞高質量資料集建設、技術工具研發、應用賦能等方面交流經驗做法，分享典型案例。會議強調，行業高質量資料集建設要堅持“以需定供、以用促建、以評提質”原則，重點做好以下工作。一是摸清人工智慧用數需求。鏈主單位要立足自身需求，主動拓展產業鏈上下游等外部需求，堅持需求導向，精準推進資料集建設。二是發揮牽引帶動作用。鏈主單位要先行探索建立利益分配和商業回報機制，梳理行業資料地圖，推動行業資料分散式匯聚，引導本行業領域的資料集登記至國家資料集管理服務系統。三是強化應用反饋。依託實際應用場景，建立資料迴流和迭代最佳化機制，持續收集使用者反饋，推動資料集動態更新，不斷提升資料與應用場景的適配性。四是加強產業鏈協同。發揮鏈主單位“聚鏈”作用，聯動產業鏈上下游單位，拓展合作範圍，推動產業生態建設。五是推動設施接入。各鏈主單位要積極接入國家資料基礎設施，依託設施促進資料集規模化流通和高效利用。六是最佳化測評服務。 推動資料集質量測評向工具化、訂單化模式轉變，縮短測評週期、降低測評成本，提升測評效率和交付能力。"
-    },
-    {
-      "id": "5186201",
-      "time": "2026-11-02 08:14:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光智科技：6英寸磷化銦襯底已獲得某全球頭部客戶訂單】光智科技在投資者關係活動中表示，公司磷化銦業務具備“原料+裝置+工藝+大尺寸量產能力”形成的系統效能力。先銳科技已完成2英寸至6英寸三代晶體迭代，為國內首批推出6英寸磷化銦襯底的廠家之一。同時，公司依託先導科技集團鎖定兩大核心原料的穩定供應，並對核心晶體生長裝置進行自研自產。在訂單方面，6英寸磷化銦襯底已獲得某全球頭部客戶訂單，後續有望持續受益於客戶需求的爆發。(21財經)"
     }
   ]
 }
