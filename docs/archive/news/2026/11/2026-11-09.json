@@ -1,7 +1,38 @@
 {
   "date": "2026-11-09",
-  "count": 360,
+  "count": 363,
   "items": [
+    {
+      "id": "em:qqyh_ozyh:202611093925763361",
+      "time": "2026-11-09 08:38:47",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【拉加德臨別鷹派訊號 歐洲央行12月加息幾成定局】歐洲央行行長克里斯蒂娜·拉加德（ChristineLagarde）在接受媒體採訪時暗示，歐洲央行有可能在12月舉行的管理委員會會議上再次加息。"
+    },
+    {
+      "id": "5201838",
+      "time": "2026-11-09 08:38:43",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券2027年科技股投資策略：科技股估值已至低位 把握技術破局與應用擴散新機遇】中信證券釋出2027年科技股投資策略，儘管AI投資回報爭議、高利率與融資環境、交易擁擠度等因素持續壓制科技股估值，但當前創業板的估值均已回到2017年—2018年、2023年—2024年前幾輪美聯儲加息週期低點水平。考慮到算力供需仍偏緊、科技股EPS高增等強現實因子，一旦2027年加息預期發生逆轉、融資成本下行、模型能力突破與新應用驅動下一輪ARR等事件發生，A股科技板塊將有巨大的修復彈性。節奏上，中信證券認為，2027年一季度將成為重要的觀察視窗，一方面基於Rubin訓練的下一代模型有望推出並驗證能力提升，春節前後國模也將進入大版本迭代視窗期，國產HBM則有望進入量產爬坡階段，另一方面2028年算力需求前景有望更加清晰，A股科技整體走勢或前低後高。結構上，中信證券認為AI應用確定性正在提升，AI影視、AI4S、企業AI等應用正在醞釀新的方向，物理AI迎來落地元年，此外國產算力進入放量收穫期、國產儲存擴產帶動裝置高景氣，關注技術升級與業績高確定性等α機會。"
+    },
+    {
+      "id": "te:economy:599292",
+      "time": "2026-11-09 08:37:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Private House Approvals",
+        "Importance 1"
+      ],
+      "text": "Decline in in Australia Private House Approvals Confirmed — Private-sector house approvals in Australia fell 5.3% month-on-month to 10,432 units in September 2026, in line with flash estimates. The decline reversed a 5.4% increase in the previous month, as approvals dropped in New South Wales (-1.8%) and Victoria (-0.1%), while rising in Western Australia (1.9%), South Australia (1.8%), and Queensland (0.4%). On a yearly basis, house approvals increased 9.6%, slowing sharply from a 21.2% surge in August."
+    },
     {
       "id": "5201836",
       "time": "2026-11-09 08:35:59",
