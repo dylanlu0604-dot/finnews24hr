@@ -1,7 +1,93 @@
 {
-  "updated": "2026-11-09 09:07:39",
-  "count": 10660,
+  "updated": "2026-11-09 09:11:25",
+  "count": 10657,
   "items": [
+    {
+      "id": "te:markets:599305",
+      "time": "2026-11-09 09:10:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Extend Losses at Start of New Week — Australian stocks fell 35 points, or 0.4%, to 8,972 in Monday morning trade, marking the second session of losses amid declines in industrials, financials, and transport. Sentiment weakened as S&P 500 and Nasdaq futures dropped ahead of key U.S. inflation data and earnings from major AI companies this week. Traders also turned cautious before several releases in main trading partner China, including October CPI and PPI later Monday and trade data on Tuesday. Meanwhile, RBA Deputy Governor Hauser acknowledged that aggressive rate hikes had caused cash-flow pressures for mortgage holders and renters, but warned that allowing inflation to spiral would inflict greater economic pain. Losses were capped by a confirmed recovery in Australian building approvals for September. The four major banks fell between 0.7% and 2.8%, while Scentre Group (-3.9%) and Qantas Airways (-2.1%) posted sharp losses. In contrast, PLS Group (4.2%), Mineral Resources (3.9%), and Lynas Rare Earths (2.9%) advanced."
+    },
+    {
+      "id": "mkt:01a1bddb-9c1a-7ee0-aaca-2ccd3c9ba955",
+      "time": "2026-11-09 09:10:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japanese 30-year government bond yield rose 4 bps to 3.865%."
+    },
+    {
+      "id": "5201882",
+      "time": "2026-11-09 09:09:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鋁集團與寧德時代簽署戰略合作協議】近日，中鋁集團與寧德時代在福建寧德簽署戰略合作協議。根據協議，雙方將在科技創新協同、綠色低碳轉型、服務共建“一帶一路”等方面開展多方位、深層次合作。"
+    },
+    {
+      "id": "5201881",
+      "time": "2026-11-09 09:09:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美格智慧與微納核芯簽署戰略合作協議】近日，美格智慧與微納核芯（杭州微納核芯電子科技有限公司）在杭州簽署戰略合作協議。雙方將以端側存算一體晶片技術與行業終端商業化能力的深度融合為核心，在產品研發、技術開發、生態拓展等方面深入合作，共同加速端側 AI從技術驗證走向商用規模化。"
+    },
+    {
+      "id": "5201880",
+      "time": "2026-11-09 09:09:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根大通：對券商板塊看法更積極】 摩根大通稱，儘管四季度運營資料目前仍偏平淡，但該行對中國券商板塊的看法正逐步轉向邊際更為積極，因政策支援面持續拓寬、市場情緒初現回暖苗頭以及板塊估值具有吸引力等。在板塊近期經歷調整後，短線獲利拋壓已經明顯釋放；同時行業估值仍處歷史偏低區間，A股和H股券商2026財年預測市淨率分別僅約0.9倍和0.7倍。短期來看，受充裕的國內流動性及ETF資金流入支撐，預計A股券商將繼續跑贏H股同業。"
+    },
+    {
+      "id": "5201879",
+      "time": "2026-11-09 09:08:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談UFO：“我不是很相信，但我在橢圓形辦公室裡，第一任期還有第二任期的一小段時間，見過空軍飛行員，他們是非常優秀、可靠的人。這些不是你會說成陰謀論者的人……他們在某些情況下告訴我一些非常奇怪的事情。他們說，‘是的，那裡有事情在發生……’因為他們正在駕駛F-22……然後有東西以三倍於他們的速度從他們身邊掠過，而且是圓形的。”"
+    },
+    {
+      "id": "5201878",
+      "time": "2026-11-09 09:08:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【北京養老金領取4個條件】在北京上過班但非京籍如何領養老金，北京人社權威解讀：在北京上過班的外地戶籍人員，達到法定退休年齡（或選擇彈性提前退休年齡）時，在本市按月領養老金需要同時滿足下面4個條件： 1、您最後的養老保險關係不在戶籍地； 2、您在北京社保賬戶是“一般賬戶”（非“臨時賬戶”）； 3、北京是您最後一個“養老保險累計繳滿10年”的城市； 4、累計繳費滿15年（在京繳納養老保險的年限和在外地繳納養老保險的年限加在一起，累計繳費年限達到國家規定的最低標準，目前最低是15年。今後，國家出臺了新規定的，按照新規定執行）。（北京日報）"
+    },
+    {
+      "id": "mkt:01a1bdd8-a261-7ee0-aaca-261f7ead0772",
+      "time": "2026-11-09 09:07:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 hit 59,000, up 2.74% on the day."
+    },
+    {
+      "id": "5201877",
+      "time": "2026-11-09 09:07:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲3%，至3819.23。"
+    },
     {
       "id": "5201876",
       "time": "2026-11-09 09:06:35",
@@ -97616,110 +97702,6 @@
         "市場"
       ],
       "text": "【富時中國A50指數期貨漲1%】富時中國A50指數期貨漲幅擴大至1%。"
-    },
-    {
-      "id": "5186283",
-      "time": "2026-11-02 09:11:19",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【南京：積極推動商品住房現房銷售】南京出臺關於貫徹落實《關於完善商品住房銷售制度的通知》的實施意見（試行）。意見提出，有序實施現房銷售。2026年8月28日後，新發布國有建設用地使用權出讓公告的商品住房專案，優先選擇現房銷售；其他商品住房專案鼓勵實行現房銷售。"
-    },
-    {
-      "id": "mkt:01a199cf-3cfd-7ee0-aa23-17c09ac7123b",
-      "time": "2026-11-02 09:10:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Huitian New Material: Some semiconductor-packaging adhesives in volume supply, scale remains small】Huitian New Material said at an investor-relations event that its electronics & electrical segment grew rapidly in Q3 and now accounts for a rising share of revenue. Consumer-electronics sales continued strong, with orders from major customers climbing steadily. Semiconductor-packaging adhesives are undergoing testing at multiple customers and some products have reached batch supply, but current sales volume is still limited. Automotive-electronics adhesives are expanding steadily and optical-module adhesives remain in customer test phases. The company plans to increase resources to scale its high-end electronics business."
-    },
-    {
-      "id": "mkt:01a199ce-2bed-7ee0-aa23-09f63a9cfa79",
-      "time": "2026-11-02 09:09:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's President Lee said new measures are needed to overcome \"K-shaped\" growth that is worsening inequality."
-    },
-    {
-      "id": "mkt:01a199ce-245e-7ee0-aa23-04a58225e97e",
-      "time": "2026-11-02 09:09:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China to adopt differentiated land management for facility agriculture】The Ministry of Natural Resources, Ministry of Agriculture and Rural Affairs and National Forestry and Grassland Administration issued joint guidance to apply differentiated, positive‑list land management for facility agricultural land to boost farmers’ incomes, agricultural modernization and rural revitalization. The notice encourages siting facility farmland on unused areas—Gobi, desert, saline‑alkali land—plus existing construction land and idle land, and permits occupation of arable land outside permanent basic farmland. It removes scale limits on production facilities, imposes land‑share and size caps for different types of ancillary facilities, and encourages facility farmland to be used primarily for agricultural production."
-    },
-    {
-      "id": "5186282",
-      "time": "2026-11-02 09:09:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國綜指漲幅擴大至1%】韓國綜指漲幅擴大至1%，現報5788.31點。個股方面，SK海力士漲超2%。"
-    },
-    {
-      "id": "5186281",
-      "time": "2026-11-02 09:09:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國將對設施農用地實行差異化管理】記者今天（2日）從自然資源部獲悉，為了進一步促進農民群眾增產增收，助力農業現代化發展和鄉村振興，自然資源部、農業農村部、國家林草局近日聯合印發通知，要求透過正面清單方式，對設施農業使用土地實行差異化管理。設施農業，簡單說就是利用溫室、大棚、養殖場等設施搞種養殖的農業，用地形式多樣，耕地、園地乃至建設用地都可能用到。本次釋出的《通知》，把設施農業用的土地分成三類。明確要求，沒有破壞耕作層的設施農業，比如小型的農田水利、水肥一體化設施，仍按原來的土地用途管理，不用新辦理用地手續；對耕作層造成破壞、直接為農業生產服務的種植、養殖等生產設施和附屬設施，按設施農用地管理，需要進行備案；沒納入“設施農業使用土地正面清單”的設施，則需要按建設用地進行管理。在選址上，未來將鼓勵設施農用地使用戈壁、荒漠、鹽鹼地等未利用地和存量建設用地、空閒土地，允許佔用永久基本農田以外的耕地。同時，對生產設施規模不作限制，對不同型別的附屬設施實行用地比例和規模上限控制，鼓勵設施農用地更多直接用於農業生產。"
-    },
-    {
-      "id": "5186280",
-      "time": "2026-11-02 09:08:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳地鐵客運強度連續33個月內地城市居首】今年前三季度，深鐵集團統籌推動建設、運營、經營三大板塊協同發力，核心運營指標居全國前列。地鐵客流成為觀察城市活力最直觀的視窗——今年暑運，深圳地鐵日均客運量達1009.6萬人次，歷史首次突破千萬大關，兩個月累計運送乘客6.26億人次，創歷年同期新高。截至9月21日，單日客流年內已累計86次突破千萬人次、18次突破1100萬人次，全面超越歷年水平。前三季度（截至9月21日），深圳地鐵總客運量24.77億人次，同比增長5.2%。其中，8月客運量、進站量首次登上全國第一，客運強度連續33個月位居內地城市第一，線網密度、公交分擔率、智慧出行指數長期領跑全國。客流的持續攀升，來自軌道線網版圖的不斷生長。今年6月28日，地鐵13號線二期北延段正式開通，深圳軌道交通線網規模增至18條共計653.7公里線路。2026年，深鐵集團同步推進2條鐵路、4條城際及11條（段）地鐵共計558.64公里“三鐵”線路加快建設，穗莞深城際機場至前海段已全線軌通，“軌道上的都市圈”加速成型。(深圳釋出)"
-    },
-    {
-      "id": "5186279",
-      "time": "2026-11-02 09:08:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：需要新的方法來克服不平等加劇的“K型”增長。"
-    },
-    {
-      "id": "te:markets:597056",
-      "time": "2026-11-02 09:08:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Shares Start Week Lower as RBA Decision Looms — Australian stocks fell 26 points, or 0.3%, to 8,883 in early trade on Monday, reversing recent gains as tech, non-energy minerals, and healthcare stocks fell. Caution prevailed ahead of Tuesday’s Reserve Bank interest rate decision, with the central bank expected to raise its cash rate for the fifth time this year to 4.85% amid persistent inflationary pressure. In key trading partner China, official data showed an unexpected drop in manufacturing during October, partly reflecting the impact of the Golden Week break. However, losses were capped by fresh data showing a September rebound in Australia's building permits, driven by a recovery in private-sector dwellings excl. houses. In the U.S., stock futures strengthened ahead of further corporate earnings, jobs data, and the midterm elections. BHP Group fell 1.1% while Rio Tinto lost 1.4%. Gold miners like Northern Star (-3.9%) and Evolution Mining (-2.5%) also slipped. In contrast, the four major banks rose between 0.2% and 1.6%."
-    },
-    {
-      "id": "mkt:01a199cc-c313-7ee0-aa22-f8c744c58fce",
-      "time": "2026-11-02 09:08:15",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI index was up 1.00% intraday."
-    },
-    {
-      "id": "5186278",
-      "time": "2026-11-02 09:08:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧將於美國東部時間上午10點會見委內瑞拉外交部長。"
-    },
-    {
-      "id": "mkt:01a199cc-685b-7ee0-aa22-f166b9300cb0",
-      "time": "2026-11-02 09:07:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China container shipping index (Europe route) front-month contract fell 4.00% intraday to 2,541.5 points."
     }
   ]
 }

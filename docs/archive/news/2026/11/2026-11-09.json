@@ -1,7 +1,93 @@
 {
   "date": "2026-11-09",
-  "count": 426,
+  "count": 435,
   "items": [
+    {
+      "id": "te:markets:599305",
+      "time": "2026-11-09 09:10:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Extend Losses at Start of New Week — Australian stocks fell 35 points, or 0.4%, to 8,972 in Monday morning trade, marking the second session of losses amid declines in industrials, financials, and transport. Sentiment weakened as S&P 500 and Nasdaq futures dropped ahead of key U.S. inflation data and earnings from major AI companies this week. Traders also turned cautious before several releases in main trading partner China, including October CPI and PPI later Monday and trade data on Tuesday. Meanwhile, RBA Deputy Governor Hauser acknowledged that aggressive rate hikes had caused cash-flow pressures for mortgage holders and renters, but warned that allowing inflation to spiral would inflict greater economic pain. Losses were capped by a confirmed recovery in Australian building approvals for September. The four major banks fell between 0.7% and 2.8%, while Scentre Group (-3.9%) and Qantas Airways (-2.1%) posted sharp losses. In contrast, PLS Group (4.2%), Mineral Resources (3.9%), and Lynas Rare Earths (2.9%) advanced."
+    },
+    {
+      "id": "mkt:01a1bddb-9c1a-7ee0-aaca-2ccd3c9ba955",
+      "time": "2026-11-09 09:10:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japanese 30-year government bond yield rose 4 bps to 3.865%."
+    },
+    {
+      "id": "5201882",
+      "time": "2026-11-09 09:09:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鋁集團與寧德時代簽署戰略合作協議】近日，中鋁集團與寧德時代在福建寧德簽署戰略合作協議。根據協議，雙方將在科技創新協同、綠色低碳轉型、服務共建“一帶一路”等方面開展多方位、深層次合作。"
+    },
+    {
+      "id": "5201881",
+      "time": "2026-11-09 09:09:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美格智慧與微納核芯簽署戰略合作協議】近日，美格智慧與微納核芯（杭州微納核芯電子科技有限公司）在杭州簽署戰略合作協議。雙方將以端側存算一體晶片技術與行業終端商業化能力的深度融合為核心，在產品研發、技術開發、生態拓展等方面深入合作，共同加速端側 AI從技術驗證走向商用規模化。"
+    },
+    {
+      "id": "5201880",
+      "time": "2026-11-09 09:09:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根大通：對券商板塊看法更積極】 摩根大通稱，儘管四季度運營資料目前仍偏平淡，但該行對中國券商板塊的看法正逐步轉向邊際更為積極，因政策支援面持續拓寬、市場情緒初現回暖苗頭以及板塊估值具有吸引力等。在板塊近期經歷調整後，短線獲利拋壓已經明顯釋放；同時行業估值仍處歷史偏低區間，A股和H股券商2026財年預測市淨率分別僅約0.9倍和0.7倍。短期來看，受充裕的國內流動性及ETF資金流入支撐，預計A股券商將繼續跑贏H股同業。"
+    },
+    {
+      "id": "5201879",
+      "time": "2026-11-09 09:08:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談UFO：“我不是很相信，但我在橢圓形辦公室裡，第一任期還有第二任期的一小段時間，見過空軍飛行員，他們是非常優秀、可靠的人。這些不是你會說成陰謀論者的人……他們在某些情況下告訴我一些非常奇怪的事情。他們說，‘是的，那裡有事情在發生……’因為他們正在駕駛F-22……然後有東西以三倍於他們的速度從他們身邊掠過，而且是圓形的。”"
+    },
+    {
+      "id": "5201878",
+      "time": "2026-11-09 09:08:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【北京養老金領取4個條件】在北京上過班但非京籍如何領養老金，北京人社權威解讀：在北京上過班的外地戶籍人員，達到法定退休年齡（或選擇彈性提前退休年齡）時，在本市按月領養老金需要同時滿足下面4個條件： 1、您最後的養老保險關係不在戶籍地； 2、您在北京社保賬戶是“一般賬戶”（非“臨時賬戶”）； 3、北京是您最後一個“養老保險累計繳滿10年”的城市； 4、累計繳費滿15年（在京繳納養老保險的年限和在外地繳納養老保險的年限加在一起，累計繳費年限達到國家規定的最低標準，目前最低是15年。今後，國家出臺了新規定的，按照新規定執行）。（北京日報）"
+    },
+    {
+      "id": "mkt:01a1bdd8-a261-7ee0-aaca-261f7ead0772",
+      "time": "2026-11-09 09:07:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 hit 59,000, up 2.74% on the day."
+    },
+    {
+      "id": "5201877",
+      "time": "2026-11-09 09:07:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲3%，至3819.23。"
+    },
     {
       "id": "5201876",
       "time": "2026-11-09 09:06:35",
