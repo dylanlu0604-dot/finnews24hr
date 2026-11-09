@@ -1,7 +1,87 @@
 {
   "date": "2026-11-09",
-  "count": 342,
+  "count": 351,
   "items": [
+    {
+      "id": "mkt:01a1bdb8-c656-7ee0-aac9-58b63a5b9445",
+      "time": "2026-11-09 08:32:45",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【CITIC Securities: Bank stocks remain well-suited to stable allocations; absolute returns to persist】CITIC Securities says short-term trading-driven inflows into China’s bank sector are now reversing as market style shifts, causing near-term outflows. From a fundamentals view, the sector is entering a ROE trough-to-stabilisation band of 8-9%; the slope of ROE has improved, supporting valuation upside. Overall, bank equities remain highly compatible with stable allocation capital and absolute returns will continue."
+    },
+    {
+      "id": "5201830",
+      "time": "2026-11-09 08:32:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4090美元/盎司，日內漲0.38%。"
+    },
+    {
+      "id": "5201829",
+      "time": "2026-11-09 08:32:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國外匯交易中心（CFETS）：11月6日人民幣匯率指數按周跌0.12至103.65。"
+    },
+    {
+      "id": "mkt:01a1bdb8-b11e-7ee0-aac9-500e9395e333",
+      "time": "2026-11-09 08:32:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold touched USD 4,080/oz, up 0.23% intraday."
+    },
+    {
+      "id": "5201828",
+      "time": "2026-11-09 08:32:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4080美元/盎司，日內漲0.23%。"
+    },
+    {
+      "id": "5201827",
+      "time": "2026-11-09 08:32:14",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：銀行股仍高度適配穩定配置型資金 絕對收益將延續】中信證券研報稱，短期而言，由於前期交易型資金流入銀行板塊，市場風格變化下上述資金流出銀行板塊。基本面視角看，銀行板塊正在步入ROE見底企穩區間，區間8%—9%，ROE一階導已經改善，助力板塊估值提升。整體而言，銀行股作為穩定性權益資產，仍高度適配穩定配置型資金，絕對收益仍將延續。"
+    },
+    {
+      "id": "5201826",
+      "time": "2026-11-09 08:31:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：將對內閣進行一些調整】特朗普談及可能的用人變動：“我愛我的內閣——我認為他們很優秀——但我可能會做一些調整。”"
+    },
+    {
+      "id": "5201825",
+      "time": "2026-11-09 08:29:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 當你走進一家酒店，有一個女人在那裡工作，你知道，作為女僕，作為清潔工，作為這個，作為那個，作為女服務員，很多很好的工作，很棒的工作，突然間，她們被帶離這個國家，這很艱難。這是一件艱難的事。 但有一群人，我會說是在相當極端的右翼，他們希望把每個人都帶走。"
+    },
+    {
+      "id": "5201824",
+      "time": "2026-11-09 08:29:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者問：你認為你能與民主黨人合作而不侮辱他們嗎？ 特朗普：是的，我能。"
+    },
     {
       "id": "5201823",
       "time": "2026-11-09 08:28:31",
