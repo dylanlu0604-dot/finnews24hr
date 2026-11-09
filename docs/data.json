@@ -1,7 +1,71 @@
 {
-  "updated": "2026-11-10 07:41:56",
-  "count": 10564,
+  "updated": "2026-11-10 07:45:47",
+  "count": 10567,
   "items": [
+    {
+      "id": "te:markets:599740",
+      "time": "2026-11-10 07:44:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Decline on Iran Deal Prospects — Brent crude traded near $92 per barrel on Tuesday after falling almost 6% in the previous session, hitting its lowest level since late August amid diplomatic efforts to end the Middle East conflict. President Donald Trump expressed optimism about a possible resolution, citing “momentum toward an end” to the conflict following his meeting with Qatar’s prime minister. Meanwhile, Congressional Democrats are considering using the Dec. 11 government shutdown deadline to pressure Trump into ending the war. However, tensions remain elevated as US forces reportedly launched another strike on Iran’s Qeshm Island, while US Secretary of State Marco Rubio tempered expectations for progress in negotiations. Tanker vessels also remained targets of attacks in the Strait of Hormuz, while clashes involving Saudi Arabia and Iran-backed Houthis continued. Elsewhere, investors are awaiting monthly oil market reports from the US EIA, OPEC and IEA for further insights into global supply and demand."
+    },
+    {
+      "id": "5204353",
+      "time": "2026-11-10 07:43:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚表示，未來投資需要穩定的政策。"
+    },
+    {
+      "id": "5204352",
+      "time": "2026-11-10 07:43:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚正在評估委內瑞拉上游業務的機遇。"
+    },
+    {
+      "id": "5204351",
+      "time": "2026-11-10 07:43:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚在委內瑞拉簽署諒解備忘錄。"
+    },
+    {
+      "id": "5204350",
+      "time": "2026-11-10 07:42:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星火災海上保險斥資17億美元取得英國專業保險公司Canopius控制權】三星火災海上保險公司將斥資約2.26萬億韓元（17億美元），把所持英國專業保險公司Canopius Group的股份提高至80.6%。這將成為韓國金融機構規模最大的海外收購交易之一。這筆交易將使韓國最大的非壽險公司取得Canopius的控制權，加快其進軍全球專業保險市場的步伐。隨著韓國金融機構日益向海外尋求增長機會，這一趨勢正在不斷增強。"
+    },
+    {
+      "id": "te:markets:599739",
+      "time": "2026-11-10 07:42:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Decline on Iran Deal Prospects — Crude oil traded near $86 per barrel on Tuesday after falling more than 4% in the previous session, reaching its lowest level since late August amid diplomatic efforts to end the Middle East conflict. President Donald Trump expressed optimism about a possible resolution, citing “momentum toward an end” to the conflict following his meeting with Qatar’s prime minister. Meanwhile, Congressional Democrats are considering using the Dec. 11 government shutdown deadline to pressure Trump into ending the war. However, tensions remain elevated as US forces reportedly launched another strike on Iran’s Qeshm Island, while US Secretary of State Marco Rubio tempered expectations for progress in negotiations. Tanker vessels also remained targets of attacks in the Strait of Hormuz, while clashes involving Saudi Arabia and Iran-backed Houthis continued. Elsewhere, investors are awaiting monthly oil market reports from the US EIA, OPEC and IEA for further insights into global supply and demand."
+    },
+    {
+      "id": "5204349",
+      "time": "2026-11-10 07:41:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普支援的美國許可審批改革計劃獲公用事業公司支援】在立法者於上週末對該法案進行修訂後，美國最大的公用事業遊說團體現已支援一項旨在徹底改革大型能源專案審批體系的聯邦法案。愛迪生電力協會（Edison Electric Institute）的背書為這項跨黨派立法提供了關鍵助力。支持者稱，這是“數十年難遇”的機會，有望徹底改革錯綜複雜的基礎設施審批體系，以滿足電網現代化、建設人工智慧（AI）資料中心以及重振清潔能源開發的需求。該法案定於週一在參議院迎來關鍵投票。愛迪生電力協會執行長德魯·馬洛尼（Drew Maloney）在一份宣告中表示：“我們感謝修訂後的文字，並支援這項新立法，它將有助於讓更多專案破土動工、削減不必要的繁文縟節，並提供更經濟、更可靠的能源。”他補充說，這家代表投資者所有的公用事業公司的行業團體已於週日致信立法者，表達了支援態度。"
+    },
     {
       "id": "te:economy:599737",
       "time": "2026-11-10 07:40:57",
@@ -96773,38 +96837,6 @@
         "國際"
       ],
       "text": "【提醒】今日日本股市因公共假期休市一日。"
-    },
-    {
-      "id": "5188436",
-      "time": "2026-11-03 07:43:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：券商三季度盈利短期承壓，全年基本盤未改】中信建投研報稱，上市券商三季度單季業績回落源於市場回撥與自營高基數，前三季度穩健增長的基本盤未改。42家上市券商前三季度營收同比+18.7%、歸母淨利潤+23.8%，經紀、利息、投行、資管均保持20%以上增長，利潤增速高於營收。三季度單季歸母淨利潤同比-16.9%，其中自營投資淨收入由上年同期745億元高基數降至349億元，是主要拖累；經紀僅小幅下滑，投行、資管仍雙位數增長，輕資產業務韌性充足。當前頭部券商PB普遍在1倍上下，處於近年偏低位置，可關注三類標的：自營敞口低、經紀與兩融佔比高的抗週期券商，投行與資管份額集中的頭部券商，以及直投跟投專案進入兌現期的券商。需留意成交額中樞若繼續下移，單季波動仍會反覆。"
-    },
-    {
-      "id": "5188435",
-      "time": "2026-11-03 07:42:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱打擊烏能源設施 烏稱擊退俄軍進攻】俄羅斯國防部2日通報稱，俄軍共打擊142處區域，打擊目標包括烏軍使用的能源和交通基礎設施、無人機組裝車間及儲存場地，以及烏武裝部隊和外國僱傭兵臨時部署點。俄防空系統擊落658架固定翼無人機。烏克蘭武裝部隊總參謀部2日通報稱，過去一天，前線地區發生205次戰鬥，烏軍在多個方向擊退俄軍進攻。烏空軍、導彈部隊和炮兵打擊了俄炮兵陣地以及無人機控制點。烏軍擊落俄軍936架無人機。"
-    },
-    {
-      "id": "5188434",
-      "time": "2026-11-03 07:42:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【年內回購規模逼近去年全年 登出式回購持續放量】Wind資料顯示，截至10月31日晚，A股684家上市公司年內釋出回購方案，擬回購金額上限約2215.26億元。A股年內已經實施回購金額累計達到1410.96億元，同比增長16.3%；回購家數達1228家，同比下降11.48%。今年以來，累計回購金額接近2025年全年水平。2020年至2025年，A股年回購金額分別達到675.4億元、1205.56億元、1017.98億元、908.33億元、1657.46億元以及1428.11億元。近期，登出式回購案例明顯增加。多位受訪人士表示，對市場而言，持續常態化的登出式回購，有助於引導價值投資理念。（中國證券報）"
-    },
-    {
-      "id": "5188433",
-      "time": "2026-11-03 07:42:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【幣安駭客慌亂脫手 為加密貨幣交易者創造意外之財】對於大多數加密貨幣投資者而言，幣安遭遇的63億美元盜竊案再次提醒人們，數字資產仍存在諸多風險。但對於一小部分行動迅速的交易公司和技術嫻熟的投資者來說，這則是一次大賺快錢的機會。區塊鏈資料公司Bitquery估計，攻擊者因倉促出手導致交易執行不力，損失了約1.19億美元。“此次駭客攻擊引發了劇烈的價格波動，一個資金規模龐大、對價格極不敏感的單一賣家在薄弱的流動性中行動，”Caerus Global Management首席投資官James Aitchison表示。他說，這種激進的單向拋售扭曲了不同交易場所和區塊鏈上的加密貨幣價格，並補充道：“我們利用這一事件進行了交易，並發現了幾個極具吸引力的錯配。”"
     }
   ]
 }
