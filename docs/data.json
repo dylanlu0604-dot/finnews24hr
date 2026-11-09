@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-09 22:17:59",
-  "count": 10623,
+  "updated": "2026-11-09 22:22:02",
+  "count": 10626,
   "items": [
+    {
+      "id": "5203796",
+      "time": "2026-11-09 22:21:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守93美元/桶，日內跌5.52%。"
+    },
+    {
+      "id": "5203795",
+      "time": "2026-11-09 22:21:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌5%，現報86.28美元/桶。"
+    },
+    {
+      "id": "5203794",
+      "time": "2026-11-09 22:21:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌5%，現報599.10元。"
+    },
+    {
+      "id": "5203793",
+      "time": "2026-11-09 22:20:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "波札那總統：全球鑽石財團被選為戴比爾斯的優先競標者。"
+    },
+    {
+      "id": "mkt:01a1c0ae-127d-7ee0-aada-29b1c74c77b4",
+      "time": "2026-11-09 22:19:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Mexico added 161,077 formal jobs in October, President Sheinbaum said."
+    },
+    {
+      "id": "5203792",
+      "time": "2026-11-09 22:19:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆表示，墨西哥10月新增161077個正式就業崗位。"
+    },
+    {
+      "id": "mkt:01a1c0ac-b115-7ee0-aada-26d441b23119",
+      "time": "2026-11-09 22:18:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China-Turkey green development forum advances bilateral green cooperation】A China-Turkey green development business forum was held in Istanbul on the 9th, co-hosted by the China Council for the Promotion of International Trade (CCPIT) and Turkey’s Foreign Economic Relations Board. About 300 government and business delegates from both countries attended. CCPIT chair Ren Hongbin said bilateral economic and trade ties have maintained strong momentum under leaders’ strategic guidance and produced significant results. He said green development is among the most promising areas for cooperation; the forum aims to help firms seize opportunities, deepen linkages and advance mutually beneficial green projects. CCPIT pledged to work with Turkish partners to build high-quality trade platforms and provide professional services to promote China-Turkey green cooperation."
+    },
+    {
+      "id": "mkt:01a1c0ac-66b8-7ee0-aada-1fb2b2fbae30",
+      "time": "2026-11-09 22:18:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dallas Fed and New York Fed launched a pilot survey of the private credit market on Nov 9."
+    },
+    {
+      "id": "5203791",
+      "time": "2026-11-09 22:18:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：達拉斯聯儲與紐約聯儲於11月9日啟動私人信貸市場試點調查。"
+    },
+    {
+      "id": "te:markets:599628",
+      "time": "2026-11-09 22:17:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Oil is down by 5.02% — Brent Oil decreased 5.02% to 93.38 USD/Bbl"
+    },
     {
       "id": "5203790",
       "time": "2026-11-09 22:17:17",
@@ -97206,62 +97294,6 @@
         "國際"
       ],
       "text": "伊朗外長阿拉格齊表示：如果美國接受我們的條件，霍爾木茲海峽將重新開放，談判也將恢復。"
-    },
-    {
-      "id": "5187915",
-      "time": "2026-11-02 22:21:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果代號 J595 的家用機器人專案面臨內部意見分歧 同時軟體推進進度遲緩】蘋果新任 CEO 約翰・特納斯希望公司認真推進機器人業務，但從這款計劃對外發售的初代產品研發進度來看，他或將面臨一場硬仗。該裝置配有一塊 9 英寸螢幕，搭載可活動機械臂，外形酷似皮克斯動畫裡的檯燈。參與該專案的人士透露，機器人大部分硬體方案大約兩年前就已經定型，但軟體團隊一直難以跟上進度。負責 J595 的硬體團隊希望加快節奏、儘快釋出產品；而軟體團隊主張推遲上市。過去一年裡，軟體團隊一直在精簡原定功能，打算把產品核心能力收斂到 FaceTime 通話，以及開燈這類簡單家庭自動化任務。蘋果計劃這款機器人售價約 1000 美元，受元器件行情影響，最終售價可能更高。多名前員工稱，它或將命名為 HomeView Ultra，沿用上月蘋果釋出的固定式桌面裝置 HomeView 的命名體系。蘋果原本希望明年推出，但釋出時間也有可能推遲至 2028 年（硬體團隊最初計劃今年就上市）。一部分 J595 團隊成員希望產品儘快上市；也有人擔心，它會遭遇和 HomeView 一樣冷淡的市場反響。但他們顧慮，蘋果拖得越晚釋出，行業 AI 能力持續升級，外界對這款機器人的期待值也會水漲船高。"
-    },
-    {
-      "id": "5187912",
-      "time": "2026-11-02 22:21:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳市委常委會（擴大）會議和全市幹部大會召開 認真學習貫徹黨的二十屆五中全會精神】會議強調，深入學習宣傳貫徹黨的二十屆五中全會精神，是當前和今後一個時期的重大政治任務。要持續在全市興起學習宣傳貫徹熱潮，抓好學習培訓、集中宣講、宣傳解讀，奮力推動黨的二十屆五中全會精神在深圳落地落實。要切實把學習成果轉化為做好各項工作的實際行動，全力做好APEC會議服務保障，精心籌備好市第八次黨代會，鞏固經濟執行向新向優向好態勢，持續保障和改善民生，更好統籌發展和安全，堅決完成全年發展目標任務，實現“十五五”良好開局。要及早謀劃、紮實做好明年工作，以實際行動迎接黨的二十一大勝利召開。（深圳釋出）"
-    },
-    {
-      "id": "5187911",
-      "time": "2026-11-02 22:20:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗方面訊息，伊朗外長阿拉格齊表示，透過卡達和巴基斯坦等中間人進行的磋商非常密集。"
-    },
-    {
-      "id": "5187908",
-      "time": "2026-11-02 22:19:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "SUPERNUS與INDIVIOR完成合並，打造多元化中樞神經系統生物製藥領軍企業。"
-    },
-    {
-      "id": "5187907",
-      "time": "2026-11-02 22:18:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果J595家用機器人售價約1000美元，釋出或從2025年推遲至2028年。"
-    },
-    {
-      "id": "5187906",
-      "time": "2026-11-02 22:18:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果J595家用機器人專案面臨內部分歧，軟體進展緩慢。"
-    },
-    {
-      "id": "5187904",
-      "time": "2026-11-02 22:17:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗外長阿拉格齊表示，伊朗在軍事應對和外交途徑兩方面都已做好了比以往任何時候都更充分的準備；霍爾木茲海峽的重新開放，前提是伊朗提出的條件必須得到接受。"
     }
   ]
 }

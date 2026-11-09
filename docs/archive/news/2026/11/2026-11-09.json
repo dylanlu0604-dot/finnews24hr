@@ -1,7 +1,95 @@
 {
   "date": "2026-11-09",
-  "count": 1375,
+  "count": 1385,
   "items": [
+    {
+      "id": "5203796",
+      "time": "2026-11-09 22:21:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守93美元/桶，日內跌5.52%。"
+    },
+    {
+      "id": "5203795",
+      "time": "2026-11-09 22:21:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌5%，現報86.28美元/桶。"
+    },
+    {
+      "id": "5203794",
+      "time": "2026-11-09 22:21:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌5%，現報599.10元。"
+    },
+    {
+      "id": "5203793",
+      "time": "2026-11-09 22:20:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "波札那總統：全球鑽石財團被選為戴比爾斯的優先競標者。"
+    },
+    {
+      "id": "mkt:01a1c0ae-127d-7ee0-aada-29b1c74c77b4",
+      "time": "2026-11-09 22:19:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Mexico added 161,077 formal jobs in October, President Sheinbaum said."
+    },
+    {
+      "id": "5203792",
+      "time": "2026-11-09 22:19:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆表示，墨西哥10月新增161077個正式就業崗位。"
+    },
+    {
+      "id": "mkt:01a1c0ac-b115-7ee0-aada-26d441b23119",
+      "time": "2026-11-09 22:18:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China-Turkey green development forum advances bilateral green cooperation】A China-Turkey green development business forum was held in Istanbul on the 9th, co-hosted by the China Council for the Promotion of International Trade (CCPIT) and Turkey’s Foreign Economic Relations Board. About 300 government and business delegates from both countries attended. CCPIT chair Ren Hongbin said bilateral economic and trade ties have maintained strong momentum under leaders’ strategic guidance and produced significant results. He said green development is among the most promising areas for cooperation; the forum aims to help firms seize opportunities, deepen linkages and advance mutually beneficial green projects. CCPIT pledged to work with Turkish partners to build high-quality trade platforms and provide professional services to promote China-Turkey green cooperation."
+    },
+    {
+      "id": "mkt:01a1c0ac-66b8-7ee0-aada-1fb2b2fbae30",
+      "time": "2026-11-09 22:18:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dallas Fed and New York Fed launched a pilot survey of the private credit market on Nov 9."
+    },
+    {
+      "id": "5203791",
+      "time": "2026-11-09 22:18:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：達拉斯聯儲與紐約聯儲於11月9日啟動私人信貸市場試點調查。"
+    },
+    {
+      "id": "te:markets:599628",
+      "time": "2026-11-09 22:17:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Oil is down by 5.02% — Brent Oil decreased 5.02% to 93.38 USD/Bbl"
+    },
     {
       "id": "5203790",
       "time": "2026-11-09 22:17:17",
