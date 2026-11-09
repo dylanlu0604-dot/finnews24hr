@@ -1,7 +1,61 @@
 {
   "date": "2026-11-09",
-  "count": 367,
+  "count": 373,
   "items": [
+    {
+      "id": "5201846",
+      "time": "2026-11-09 08:47:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日減少235.10億元】截至11月6日，上交所融資餘額報11688.37億元，較前一交易日減少119.61億元；深交所融資餘額報10786.31億元，較前一交易日減少115.49億元；兩市合計22474.68億元，較前一交易日減少235.10億元。"
+    },
+    {
+      "id": "5201845",
+      "time": "2026-11-09 08:46:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“壞而失修”“建而不用”，江西贛州成立調查組開展核查】11月8日，央視《財經調查》欄目曝光多地公共便民設施，如電梯、自動扶梯等，出現“壞而失修”，甚至“建而不用”的現象。其中，江西省贛州市存在相關問題。節目播出後，贛州市蓉江新區高度重視，蓉江新區住房和城鄉建設局成立調查組開展核查，後續將根據核查情況依法依規推進問題整改，切實保障無障礙升降電梯正常投入使用。同時將舉一反三，開展同類問題專項排查整治，杜絕類似問題再次發生。（央視新聞）"
+    },
+    {
+      "id": "te:markets:599296",
+      "time": "2026-11-09 08:45:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "New Zealand Dollar Rises as Incumbent Party Gains Election Edge — The New Zealand dollar rose to $0.556 on Monday, attempting to recover from a more than one-year low hit on Friday, as preliminary election results put the incumbent National Party in a stronger position to retain power. Prime Minister Christopher Luxon's centre-right party secured 42 seats, while the opposition Labour Party won 36. Neither party secured an outright majority, though National, combined with its coalition partners ACT and New Zealand First, could secure enough seats to maintain power if a coalition agreement is reached. The prospect of the incumbent coalition retaining power provided support for the kiwi, easing concerns over a potential Labour-led government and its plans to reinstate the Reserve Bank of New Zealand's dual mandate. However, the outcome remains uncertain, with official election results not expected until November 27."
+    },
+    {
+      "id": "5201844",
+      "time": "2026-11-09 08:44:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談2028年大選：我可能會或可能不會參與。我不知道。也許我不參與會更好。"
+    },
+    {
+      "id": "5201843",
+      "time": "2026-11-09 08:44:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4110美元/盎司，日內漲0.87%。"
+    },
+    {
+      "id": "5201842",
+      "time": "2026-11-09 08:44:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4100美元/盎司，日內漲0.73%。"
+    },
     {
       "id": "5201841",
       "time": "2026-11-09 08:43:33",

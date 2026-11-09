@@ -1,7 +1,61 @@
 {
-  "updated": "2026-11-09 08:44:30",
-  "count": 10673,
+  "updated": "2026-11-09 08:48:16",
+  "count": 10665,
   "items": [
+    {
+      "id": "5201846",
+      "time": "2026-11-09 08:47:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日減少235.10億元】截至11月6日，上交所融資餘額報11688.37億元，較前一交易日減少119.61億元；深交所融資餘額報10786.31億元，較前一交易日減少115.49億元；兩市合計22474.68億元，較前一交易日減少235.10億元。"
+    },
+    {
+      "id": "5201845",
+      "time": "2026-11-09 08:46:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“壞而失修”“建而不用”，江西贛州成立調查組開展核查】11月8日，央視《財經調查》欄目曝光多地公共便民設施，如電梯、自動扶梯等，出現“壞而失修”，甚至“建而不用”的現象。其中，江西省贛州市存在相關問題。節目播出後，贛州市蓉江新區高度重視，蓉江新區住房和城鄉建設局成立調查組開展核查，後續將根據核查情況依法依規推進問題整改，切實保障無障礙升降電梯正常投入使用。同時將舉一反三，開展同類問題專項排查整治，杜絕類似問題再次發生。（央視新聞）"
+    },
+    {
+      "id": "te:markets:599296",
+      "time": "2026-11-09 08:45:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "New Zealand Dollar Rises as Incumbent Party Gains Election Edge — The New Zealand dollar rose to $0.556 on Monday, attempting to recover from a more than one-year low hit on Friday, as preliminary election results put the incumbent National Party in a stronger position to retain power. Prime Minister Christopher Luxon's centre-right party secured 42 seats, while the opposition Labour Party won 36. Neither party secured an outright majority, though National, combined with its coalition partners ACT and New Zealand First, could secure enough seats to maintain power if a coalition agreement is reached. The prospect of the incumbent coalition retaining power provided support for the kiwi, easing concerns over a potential Labour-led government and its plans to reinstate the Reserve Bank of New Zealand's dual mandate. However, the outcome remains uncertain, with official election results not expected until November 27."
+    },
+    {
+      "id": "5201844",
+      "time": "2026-11-09 08:44:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談2028年大選：我可能會或可能不會參與。我不知道。也許我不參與會更好。"
+    },
+    {
+      "id": "5201843",
+      "time": "2026-11-09 08:44:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4110美元/盎司，日內漲0.87%。"
+    },
+    {
+      "id": "5201842",
+      "time": "2026-11-09 08:44:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4100美元/盎司，日內漲0.73%。"
+    },
     {
       "id": "5201841",
       "time": "2026-11-09 08:43:33",
@@ -97721,132 +97775,6 @@
         "市場"
       ],
       "text": "【香港證監會稱歡迎香港交易所擴大中國國債作為保證金抵押品的適用範圍】香港證監會稱，歡迎香港交易所擴大中國國債作為保證金抵押品的適用範圍。香港交易所今天擴大中國國債及中國政策性銀行債作為合資格非現金保證金抵押品的適用範圍至旗下的上市衍生工具結算所。有關結算所已將非現金保證金抵押品的融通費用下調至年率0.15%。這些最佳化措施有助降低市場參與者的融資成本，並促進本港固定收益及貨幣市場生態系統的持續發展。"
-    },
-    {
-      "id": "5186239",
-      "time": "2026-11-02 08:48:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：需要避免無序波動。"
-    },
-    {
-      "id": "mkt:01a199b9-ef1b-7ee0-aa22-7af34f35b6d7",
-      "time": "2026-11-02 08:47:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister KATAYAMA said he cannot judge whether the current level is good or bad and that conditions have improved compared with earlier."
-    },
-    {
-      "id": "mkt:01a199b9-dd75-7ee0-aa22-71c8e7ed821e",
-      "time": "2026-11-02 08:47:37",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's finance minister KATAYAMA said the joint currency statement with the US remains in effect and Japan will act against disorderly exchange-rate moves."
-    },
-    {
-      "id": "5186238",
-      "time": "2026-11-02 08:47:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【優必選Thinker-Sim具身智慧模擬平臺釋出】據優必選訊息，優必選Thinker-Sim具身智慧模擬平臺正式釋出。面對真實資料採整合本高、模擬環境構建複雜、演算法驗證週期長等行業痛點，優必選打造以Real2Sim2Real為核心的具身智慧模擬平臺Thinker-Sim，構建覆蓋真實場景數字化、規模化模擬資料合成、機器人能力評測的一站式技術體系。"
-    },
-    {
-      "id": "mkt:01a199b9-7802-7ee0-aa22-6d2cfec51048",
-      "time": "2026-11-02 08:47:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan's finance minister Satsuki Katayama said Prime Minister Sanae Takaichi had previously said yen depreciation poses a problem."
-    },
-    {
-      "id": "5186237",
-      "time": "2026-11-02 08:47:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：無法說當前水平是好是壞。"
-    },
-    {
-      "id": "5186236",
-      "time": "2026-11-02 08:47:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額減少413.4億元】截至10月30日，上交所融資餘額報11989.02億元，較前一交易日減少192.87億元；深交所融資餘額報11089.1億元，較前一交易日減少220.53億元；兩市合計23078.12億元，較前一交易日減少413.4億元。"
-    },
-    {
-      "id": "5186235",
-      "time": "2026-11-02 08:46:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：確保外匯市場穩定至關重要。"
-    },
-    {
-      "id": "te:economy:597042",
-      "time": "2026-11-02 08:46:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Private House Approvals",
-        "Importance 1"
-      ],
-      "text": "Australia Private House Approvals Fall 5.3% in September — Private-sector house approvals in Australia dropped 5.3% month-on-month to 10,432 units in September 2026, flash data showed. The latest result came after rising 5.4% in the previous month. Permits declined in New South Wales (-1.8%) and Victoria (-0.1%), while growing in Western Australia (1.9%), South Australia (1.8%), and Queensland (0.4%). On an annual basis, private-sector house approvals rose 9.6%. \"The September fall in private-sector house approvals is the largest since August 2025,\" Daniel Rossi, ABS head of construction statistics, said."
-    },
-    {
-      "id": "5186234",
-      "time": "2026-11-02 08:46:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：高市首相表示日元被低估是個問題。"
-    },
-    {
-      "id": "5186233",
-      "time": "2026-11-02 08:46:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：不會就具體匯率水平置評。"
-    },
-    {
-      "id": "5186232",
-      "time": "2026-11-02 08:46:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本成長戰略擔當城內實：對宣佈通縮結束仍需謹慎，該觀點不變。"
-    },
-    {
-      "id": "5186231",
-      "time": "2026-11-02 08:45:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "東京電子股價上漲5.6%，此前其第二季度淨利潤超出分析師預期。"
-    },
-    {
-      "id": "5186230",
-      "time": "2026-11-02 08:45:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：與美國的聯合外匯宣告仍然有效，將針對無序波動採取行動。"
     }
   ]
 }
