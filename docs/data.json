@@ -1,7 +1,86 @@
 {
-  "updated": "2026-11-09 21:53:53",
-  "count": 10608,
+  "updated": "2026-11-09 21:57:55",
+  "count": 10615,
   "items": [
+    {
+      "id": "mkt:01a1c098-40b6-7ee0-aad9-cf44d8826d72",
+      "time": "2026-11-09 21:56:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "Treasury Yields",
+        "WTI",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "WTI crude fell to $86.48/bbl, its lowest since early September. The drop in oil pressured U.S. Treasury yields, pushing 10-year and 30-year yields to intraday lows."
+    },
+    {
+      "id": "5203759",
+      "time": "2026-11-09 21:55:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油日內跌5%，現報93.38美元/桶。WTI原油價格一度跌至每桶86.60美元，為9月初以來的最低水平。"
+    },
+    {
+      "id": "mkt:01a1c097-5bf3-7ee0-aad9-c180dcaddfd4",
+      "time": "2026-11-09 21:55:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Canadian Prime Minister CARNEY has hired Bridgewater executive Karniol-Tambour to lead work on sovereign wealth fund matters."
+    },
+    {
+      "id": "5203758",
+      "time": "2026-11-09 21:54:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受油價下跌影響，美國10年期和30年期國債收益率跌至日內低點。"
+    },
+    {
+      "id": "5203757",
+      "time": "2026-11-09 21:54:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼聘請橋水基金的卡尼奧爾-坦布林負責主權基金事務。"
+    },
+    {
+      "id": "5203756",
+      "time": "2026-11-09 21:53:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古特雷斯警示“極端氣候新時代”】《聯合國氣候變化框架公約》第三十一次締約方大會9日在土耳其安塔利亞開幕，聯合國秘書長古特雷斯警示全球已進入“一個極端氣候的新時代”，敦促各國加快減排和能源轉型，向脆弱國家提供資金和保護。世界氣象組織報告稱，2026年全球氣溫異常偏高、冰川融化及海平面上升態勢仍在持續，超強厄爾尼諾預計將進一步加劇高溫與極端天氣，影響將持續至2027年。據美聯社等多家媒體報道，美國政府今年再度缺席大會，特朗普於今年1月簽署備忘錄指示美國退出66個國際組織，其中包括該公約。（新華社）"
+    },
+    {
+      "id": "mkt:01a1c095-b9ab-7ee0-aad9-b877b7030897",
+      "time": "2026-11-09 21:53:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran's Supreme Leader orders military to prioritize rapid response】Nov 9 — Iran's military spokesman Mohammad Akrami‑Nia said the armed forces are implementing recent directives from the Supreme Leader requiring future operations to prioritize rapid response and strike effectiveness and to be conducted without geographic limits. He said Iran's doctrine is shifting from defense and deterrence toward a more offensive posture and that Tehran will continue building military capabilities and strengthening deterrence regardless of US domestic political developments."
+    },
+    {
+      "id": "5203755",
+      "time": "2026-11-09 21:52:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沖繩縣知事要求重新審視日美地位協定】駐日美軍士兵德文·巴拉德涉嫌10月3日在沖繩縣那霸市搶劫殺人，10月4日被捕、10月25日被起訴。沖繩縣知事古謝玄太9日要求重新審視1960年簽署的日美地位協定，稱將呼籲徹底審視該協定，並提出起訴前轉移嫌疑人時美方須迅速回應、將日本國內法適用於駐日美軍、調整協定以允許沖繩縣就有機氟化合物汙染等問題開展現場調查等要求。沖繩縣議會10月9日透過抗議決議和意見書，向美方抗議並向日本政府交涉。據沖繩縣統計，1972年至2025年美軍士兵和軍屬所犯刑事案件達6409起，近年呈上升趨勢。（新華社）"
+    },
     {
       "id": "5203754",
       "time": "2026-11-09 21:52:41",
@@ -97109,18 +97188,6 @@
         "其他"
       ],
       "text": "丹佛斯：在過去的三週裡，我們與客戶保持著密切的對話，並繼續幫助他們應對當前局勢。"
-    },
-    {
-      "id": "te:markets:597324",
-      "time": "2026-11-02 21:56:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Marriott International earnings above expectations at 3.02 USD — Marriott International (MAR) released earnings per share at 3.02 USD, compared to market expectations of 2.86 USD."
     }
   ]
 }
