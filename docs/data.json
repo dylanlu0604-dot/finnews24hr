@@ -1,7 +1,67 @@
 {
-  "updated": "2026-11-09 08:48:16",
-  "count": 10665,
+  "updated": "2026-11-09 08:52:01",
+  "count": 10660,
   "items": [
+    {
+      "id": "5201850",
+      "time": "2026-11-09 08:51:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "8日，英偉達宣佈，針對涉及的安全疑慮啟動獨立調查，由獨立董事組成委員會，並聘請外部律師參與。黃仁勳表示，自己支援這項調查，並將全力配合。（中新網）"
+    },
+    {
+      "id": "5201849",
+      "time": "2026-11-09 08:50:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1037.45美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1bdc8-9961-7ee0-aac9-86e903896042",
+      "time": "2026-11-09 08:50:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【NVIDIA CEO Jensen Huang admits affair; board launches independent probe】On Nov. 8 NVIDIA (NVDA.O) founder and CEO Jensen Huang acknowledged an extramarital affair in a letter to staff posted on the company website, apologizing and saying he will accept responsibility. NVIDIA's board has initiated an independent investigation; Huang said he will fully cooperate. The board has publicly expressed support for Huang and a company spokesperson said the incident will not slow NVIDIA's development and Huang will continue as CEO without interruption."
+    },
+    {
+      "id": "5201848",
+      "time": "2026-11-09 08:49:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國大部進入晴朗模式 寒潮核心降溫區域轉移至南方】11月9日至11日，全國大部將進入降水稀少時段，晴天居多，但云南、貴州一帶仍有頻繁降雨。隨著寒潮南下，降溫核心區域向南推進，長江中下游等地最高氣溫將降至10℃出頭，涼意十足，華南也會退去炎熱轉為涼爽。"
+    },
+    {
+      "id": "5201847",
+      "time": "2026-11-09 08:49:15",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本稱夏季三天干預提振了日元】日本表示，夏季曾三次干預外匯市場以支撐日元，證實了此前報道的干預行動，其中包括日本近30年來首次與美國協調行動支撐日元。日本財務省週一公佈的上季度每日外匯干預資料顯示，日本政府7月30日買入創單日紀錄的7.98萬億日元（504億美元），隨後兩天又分別買入5.55萬億日元和1.87萬億日元。三天合計買入15.4萬億日元，創下日本單月買入日元干預規模之最。日本和美國此前已經證實，雙方7月31日聯手入市干預，這是自1998年以來兩國首次協調行動支撐日元。與華盛頓罕見的聯合干預最初對市場產生了巨大影響。美國財政部長斯科特·貝森特和日本財務大臣片山皋月表示，這次干預旨在遏制匯率無序波動，並稱如有必要，雙方準備再次採取行動。聯合干預令一些市場參與者相信，日元曠日持久的疲軟走勢可能已接近尾聲。日元最終在9月初升至1美元兌152.89日元，隨後回吐部分漲幅。週一東京早盤，日元報約1美元兌158.30日元。"
+    },
+    {
+      "id": "mkt:01a1bdc7-023c-7ee0-aac9-7aa7ad48b296",
+      "time": "2026-11-09 08:48:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【Margin balances on China's two exchanges fall CNY 23.51 bln】As of Nov 6, margin financing balance on the Shanghai Stock Exchange was CNY 1,168.84 bln, down CNY 11.96 bln from the previous trading day; Shenzhen Stock Exchange balance was CNY 1,078.63 bln, down CNY 11.55 bln. Combined margin balances totaled CNY 2,247.47 bln, down CNY 23.51 bln versus the prior session."
+    },
     {
       "id": "5201846",
       "time": "2026-11-09 08:47:47",
@@ -97663,118 +97723,6 @@
         "市場"
       ],
       "text": "韓華海洋有限公司股價上漲8.4%，創20周以來最大漲幅。"
-    },
-    {
-      "id": "te:economy:597047",
-      "time": "2026-11-02 08:51:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Thailand",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Thailand Manufacturing Sector at 10-Month High — Thailand’s S&P Global Manufacturing PMI rose to 54.8 in October 2026 from 54.3 in the previous month, marking its highest level since December 2025, as demand conditions continued to improve. New orders increased at one of the fastest rates on record, supported by an expanding customer base and successful promotional efforts. In response to stronger production requirements and inventory replenishment needs, manufacturers ramped up purchasing activity at the fastest pace since August 2024. However, outstanding business accumulated at its fastest rate in nearly a year, as rising workloads were compounded by reduced workforce capacity amid staff resignations. On the price front, input costs edged up, reflecting higher raw material prices. Meanwhile, manufacturers largely kept selling prices unchanged to support sales. Lastly, business confidence remained positive in October, with firms maintaining strong expectations for output growth over the next 12 months."
-    },
-    {
-      "id": "te:markets:597044",
-      "time": "2026-11-02 08:51:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Slip on Tech Pressure — The Nikkei 225 Index slipped 0.3% toward the 63,000 level on Monday, extending its losses from the previous session as technology shares remained under pressure amid growing concerns over the sustainability of the artificial intelligence trade. Japanese equities also mirrored Friday’s declines on Wall Street, where Intel plunged nearly 30%, marking its steepest single-day drop in more than four decades. Domestically, disappointing tech earnings dragged down AI-related stocks, including Kioxia (-13%), Ibiden Co (-6%), and Screen Holdings (-5.8%). Major banking stocks such as Mitsubishi UFJ (-2.3%),Sumitomo Mitsui (-2.6%) and Mizuho Financial (-2.5%) also posted sharp losses. Meanwhile, investors are turning their attention to Japan’s wage data due this week for further indications of the Bank of Japan’s monetary policy outlook. Last week, the BOJ left rates unchanged but indicated that underlying inflation had finally reached its 2% target."
-    },
-    {
-      "id": "te:economy:597045",
-      "time": "2026-11-02 08:51:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Malaysia Manufacturing PMI Rises to 6-Month High — Malaysia’s S&P Global Manufacturing PMI increased to 51 in October 2026 from 49.9 in September, which marked the first contraction in four months. It was the strongest growth in factory activity since April, as output and new orders returned to growth. Growth in new orders was among the fastest in four-and-a-half years, supported by a further improvement in overseas demand. In response to rising new orders, firms raised employment further and recorded a fresh increase in purchasing activity. Delivery times deteriorated for an eleventh consecutive month, although at a slower pace than in September. On the price front, input cost inflation accelerated due to higher transport and material costs linked to the war in the Middle East. As a result, output cost inflation accelerated as firms passed on higher costs to customers in the form of increased charges. Finally, business sentiment weakened to its lowest level since April amid uncertain economic and geopolitical conditions."
-    },
-    {
-      "id": "em:qqyh_zgyh:202611013917761993",
-      "time": "2026-11-02 08:51:27",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【政策利率換錨後 債市、信貸定價將迎哪些變化？】“換錨”落地後，對市場有何影響？多位市場分析人士認為，本次制度改革不等同於降息，而是貨幣政策價格型調控機制的深度最佳化。“換錨”落地後，將重塑貨幣與債券市場執行格局，壓降銀行整體負債成本，倒逼銀行重構信貸定價體系，對全市場形成多層次深遠影響。"
-    },
-    {
-      "id": "5186244",
-      "time": "2026-11-02 08:50:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部等三部門聯合印發《關於完善設施農用地管理的通知》】《通知》要求區分設施農業用地方式，透過“設施農業使用土地正面清單”實行差異化管理。未對耕作層造成破壞的設施農業等按原土地用途管理，無需辦理用地手續；對耕作層造成破壞、直接為農業生產服務的生產和附屬設施等按設施農用地管理，辦理設施農用地備案手續。未納入“設施農業使用土地正面清單”的設施，辦理建設用地審批手續。《通知》強調規範設施農用地備案並強化監管，將設施農用地備案層級提高到縣級，縣級自然資源主管部門牽頭在嚴把備案關的同時，做好不動產登記服務，切實保護權益、便民利民。要強化設施農用地監管，存在納入“設施農業使用土地負面清單”情形的，登出備案並依法依規嚴肅處置。省級自然資源主管部門要依託國土空間規劃“一張圖”，建立設施農用地管理模組，實施全鏈條、全生命週期監管。"
-    },
-    {
-      "id": "5186243",
-      "time": "2026-11-02 08:50:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "深交所公告，港股通標的證券名單調入深演智慧（新），自2026年11月02日起生效。"
-    },
-    {
-      "id": "5186242",
-      "time": "2026-11-02 08:50:11",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券11月美股科技股市場展望：迎接半導體硬體的反彈】中信證券研報稱，當下市場尚未出現能顯著扭轉AI震盪敘事的產業裂痕，考慮到最近1~2周主要擾動事件的出清，以及AI樂觀敘事的階段性迴歸等，我們看好中期選舉之後美股科技反彈的可能，半導體硬體為首要方向。1）目前美股主要科技企業已完成三季報披露，11月3日的美國中期選舉之後，市場料將進入短暫安靜期。2）美股市場已經將民主黨橫掃兩院視為基準情形。自1958年至今17次中期選舉，市場在中期選舉之後6個月內上漲機率超過70%，相較於最終的選舉結果，選舉過程的結束、不確定性的消除對於市場更為有利。3）階段性閉源、開源前沿模型能力差距的擴大，有助於市場重塑token經濟學的敘事。同時新模型釋出帶來的token消耗量增長等，料將支撐Anthropic 10月ARR資料。而近期SOX指數下跌，伴隨著同期長端債券收益率的下行，反映市場已部分計入後續AI CAPEX放緩的悲觀預期。"
-    },
-    {
-      "id": "mkt:01a199bc-23b3-7ee0-aa22-811bb0ac11be",
-      "time": "2026-11-02 08:50:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Shenzhen Stock Exchange says Shenyan Intelligent has been added to the Hong Kong Stock Connect eligible securities list, effective Nov 2."
-    },
-    {
-      "id": "te:economy:597043",
-      "time": "2026-11-02 08:49:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "South Korea Manufacturing Growth Slows to 8-Month Low — The S&P Global South Korea Manufacturing PMI fell to 51.3 in October 2026 from 53.9 in September, indicating a modest improvement in manufacturing conditions, albeit at the slowest pace since February. Production expanded at its weakest pace so far this year as new order growth slowed, with some firms noting softer demand for automobiles. New export order growth also moderated, reaching its weakest level in the current four-month sequence. Backlogs of work rose at the slowest pace in seven months. Meanwhile, employment decreased for the first time in four months, while purchasing activity rose more slowly. Pre-production inventories also declined at the steepest rate since April 2020. Regarding prices, input costs rose sharply due to higher raw material prices, although output price inflation slowed to an 11-month low. Despite these challenges, business confidence remained robust, supported by planned product launches and sustained semiconductor demand."
-    },
-    {
-      "id": "5186241",
-      "time": "2026-11-02 08:48:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部等三部門聯合發文完善設施農用地管理】近日，自然資源部、農業農村部、國家林業和草原局聯合印發《關於完善設施農用地管理的通知》，採取正面清單方式區分設施農業用地方式，並從設施農用地選址、規模、備案、登記、監管等方面完善舉措，促進農民群眾增產增收，助力農業現代化發展和鄉村振興。"
-    },
-    {
-      "id": "5186240",
-      "time": "2026-11-02 08:48:18",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "【香港證監會稱歡迎香港交易所擴大中國國債作為保證金抵押品的適用範圍】香港證監會稱，歡迎香港交易所擴大中國國債作為保證金抵押品的適用範圍。香港交易所今天擴大中國國債及中國政策性銀行債作為合資格非現金保證金抵押品的適用範圍至旗下的上市衍生工具結算所。有關結算所已將非現金保證金抵押品的融通費用下調至年率0.15%。這些最佳化措施有助降低市場參與者的融資成本，並促進本港固定收益及貨幣市場生態系統的持續發展。"
     }
   ]
 }

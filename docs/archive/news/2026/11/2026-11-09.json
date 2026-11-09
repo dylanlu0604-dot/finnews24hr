@@ -1,7 +1,67 @@
 {
   "date": "2026-11-09",
-  "count": 373,
+  "count": 379,
   "items": [
+    {
+      "id": "5201850",
+      "time": "2026-11-09 08:51:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "8日，英偉達宣佈，針對涉及的安全疑慮啟動獨立調查，由獨立董事組成委員會，並聘請外部律師參與。黃仁勳表示，自己支援這項調查，並將全力配合。（中新網）"
+    },
+    {
+      "id": "5201849",
+      "time": "2026-11-09 08:50:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1037.45美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1bdc8-9961-7ee0-aac9-86e903896042",
+      "time": "2026-11-09 08:50:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【NVIDIA CEO Jensen Huang admits affair; board launches independent probe】On Nov. 8 NVIDIA (NVDA.O) founder and CEO Jensen Huang acknowledged an extramarital affair in a letter to staff posted on the company website, apologizing and saying he will accept responsibility. NVIDIA's board has initiated an independent investigation; Huang said he will fully cooperate. The board has publicly expressed support for Huang and a company spokesperson said the incident will not slow NVIDIA's development and Huang will continue as CEO without interruption."
+    },
+    {
+      "id": "5201848",
+      "time": "2026-11-09 08:49:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國大部進入晴朗模式 寒潮核心降溫區域轉移至南方】11月9日至11日，全國大部將進入降水稀少時段，晴天居多，但云南、貴州一帶仍有頻繁降雨。隨著寒潮南下，降溫核心區域向南推進，長江中下游等地最高氣溫將降至10℃出頭，涼意十足，華南也會退去炎熱轉為涼爽。"
+    },
+    {
+      "id": "5201847",
+      "time": "2026-11-09 08:49:15",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本稱夏季三天干預提振了日元】日本表示，夏季曾三次干預外匯市場以支撐日元，證實了此前報道的干預行動，其中包括日本近30年來首次與美國協調行動支撐日元。日本財務省週一公佈的上季度每日外匯干預資料顯示，日本政府7月30日買入創單日紀錄的7.98萬億日元（504億美元），隨後兩天又分別買入5.55萬億日元和1.87萬億日元。三天合計買入15.4萬億日元，創下日本單月買入日元干預規模之最。日本和美國此前已經證實，雙方7月31日聯手入市干預，這是自1998年以來兩國首次協調行動支撐日元。與華盛頓罕見的聯合干預最初對市場產生了巨大影響。美國財政部長斯科特·貝森特和日本財務大臣片山皋月表示，這次干預旨在遏制匯率無序波動，並稱如有必要，雙方準備再次採取行動。聯合干預令一些市場參與者相信，日元曠日持久的疲軟走勢可能已接近尾聲。日元最終在9月初升至1美元兌152.89日元，隨後回吐部分漲幅。週一東京早盤，日元報約1美元兌158.30日元。"
+    },
+    {
+      "id": "mkt:01a1bdc7-023c-7ee0-aac9-7aa7ad48b296",
+      "time": "2026-11-09 08:48:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【Margin balances on China's two exchanges fall CNY 23.51 bln】As of Nov 6, margin financing balance on the Shanghai Stock Exchange was CNY 1,168.84 bln, down CNY 11.96 bln from the previous trading day; Shenzhen Stock Exchange balance was CNY 1,078.63 bln, down CNY 11.55 bln. Combined margin balances totaled CNY 2,247.47 bln, down CNY 23.51 bln versus the prior session."
+    },
     {
       "id": "5201846",
       "time": "2026-11-09 08:47:47",
