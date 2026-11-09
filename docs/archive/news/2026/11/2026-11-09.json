@@ -1,7 +1,78 @@
 {
   "date": "2026-11-09",
-  "count": 382,
+  "count": 389,
   "items": [
+    {
+      "id": "5201855",
+      "time": "2026-11-09 08:59:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普將會見美伊調解人】當地時間11月8日，白宮公佈的日程顯示，美國總統特朗普將於當地時間11月9日中午在白宮會見卡達首相兼外交大臣穆罕默德。卡達首相是美國和伊朗之間的關鍵調解人。 據美國“阿克西奧斯新聞網（Axios）”此前報道，美國副總統萬斯過去兩週一直參與推動美伊達成新的停火協議並恢復核談判，其間幾乎每天都與卡達首相等調解方保持聯絡。 特朗普11月8日接受美國有線電視新聞網電話採訪時表示，如果美伊談判取得進展，美國再次對伊朗發動軍事打擊的可能性很小，但這取決於伊朗是否簽署一份“非常有力的協議”。"
+    },
+    {
+      "id": "mkt:01a1bdd0-bf13-7ee0-aac9-ae42837c9139",
+      "time": "2026-11-09 08:58:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI suspends large number of ChatGPT accounts, including $200/month Pro subscribers】On Nov. 8 users on Reddit and Chinese developer communities reported a sudden, large-scale suspension of ChatGPT accounts, including Pro subscribers paying $200/month. Many users say they received no prior warning; login attempts returned messages indicating accounts were deleted or disabled. Reports indicate suspensions were triggered by automated backend bulk detection rather than manual review. Major hit groups include low-price subscription accounts, bulk-registered accounts, shared payment cards or devices, proxy/relay access, API-quota resellers and accounts suspected of model distillation; some compliant users report collateral bans from inferred account links. OpenAI previously carried out mass account bans in 2023 and has run cleanups targeting large-scale distillation and API abuse. OpenAI has not issued an official explanation or disclosed how many accounts are affected."
+    },
+    {
+      "id": "mkt:01a1bdd0-a1ae-7ee0-aac9-a58abcfbc912",
+      "time": "2026-11-09 08:58:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【China Index Academy: October judicial-auction 'stock clearance' accelerates; listings and transactions rise, average price and discount fall】China Index Academy said Jan–Oct 2026 across 355 cities judicial-auction listings totaled 654,000 lots, up 31.6% YoY. Lots reaching transaction deadline: 772,000; sold lots 188,000, up 34.6% YoY. Total transaction value 255.28 bln yuan, +19.0% YoY. Overall clearance rate 24.4% (+1.6 ppt). Average discount rate 74.3%. Average transaction price 5,021 yuan/sq m, +4.8% YoY. By transaction value, Shenzhen led with 15.42 bln yuan (clearance rate 71.0%, discount rate 92.4%), followed by Shanghai 11.08 bln yuan (clearance rate 79.4%) and Beijing 9.43 bln yuan (clearance rate 53.8%)."
+    },
+    {
+      "id": "mkt:01a1bdd0-9fb5-7ee0-aac9-9eafc393396a",
+      "time": "2026-11-09 08:58:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan intervened three times this summer to support the yen】Japan's Ministry of Finance (MOF) said on Monday it intervened three times this summer to support the yen, confirming earlier reports including a nearly 30-year-first joint action with the United States. MOF's quarterly daily FX intervention data showed the operations spanned three days, surprising traders who had expected two. On July 30 authorities bought a record JPY 7.98 trillion (~$50.4 billion) of yen; purchases on the following days were JPY 5.55 trillion and JPY 1.87 trillion."
+    },
+    {
+      "id": "5201854",
+      "time": "2026-11-09 08:57:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ChatGPT突然大規模封號，包括付費使用者】11月8日，多家技術社群集中曝出OpenAI突發大規模賬號封禁事件，大量使用者在Reddit、國內開發者社群反饋ChatGPT賬號無預警停用，其中包括每月訂閱費用為200美元的Pro使用者。從使用者反饋來看，本輪被封賬號大多未收到前置郵件提醒，使用者登入時直接提示賬戶已刪除或停用。封禁是由系統後臺批次識別觸發的，並非人工逐一稽核。重災區集中在低價區訂閱賬號、批次註冊賬號、共用支付卡或裝置、中轉反代訪問、API額度轉售以及涉嫌模型蒸餾的賬戶。也有不少使用者自述日常合規使用，卻被系統判定與已封禁賬號存在關聯而受到牽連被封禁。此前OpenAI已有批次封號的先例，早在2023年平臺就曾集中封禁過一批賬號。之後，OpenAI也多次清理大規模蒸餾、濫用API的企業與開發者賬戶。截至目前，OpenAI尚未就近期使用者集中反映的賬號停用問題公佈統一解釋，也未披露具體受影響人數。（21財經）"
+    },
+    {
+      "id": "mkt:01a1bdce-493d-7ee0-aac9-9502049d5183",
+      "time": "2026-11-09 08:56:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump interview: no near-term Iran escalation, plans mass pardons, signals personnel shake-up】In a lengthy CBS 60 Minutes interview, President Trump said he does not intend to escalate military action against Iran for now, while arguing prior strikes weakened Iran’s conventional forces and delayed its nuclear program. He acknowledged the Iran war and higher fuel prices hurt GOP support. Trump said he will issue a large number of pardons before leaving office, including for some January 6 participants. He flagged imminent White House and cabinet personnel changes and possible firings, expressed confidence in Defense Secretary Hegseth and expected Senator Rubio to stay, and said he has not decided whether to endorse a 2028 Republican candidate. He also conceded parts of the administration’s immigration removals were overly harsh."
+    },
+    {
+      "id": "5201853",
+      "time": "2026-11-09 08:55:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【11月6日221股獲融資買入超億元 中際旭創穫買入20.09億元居首】11月6日共有3536只個股獲融資資金買入，有221股買入金額超億元。其中，中際旭創、新易盛、兆易創新融資買入金額排名前三，分別獲買入20.09億元、13.19億元、11.24億元。"
+    },
     {
       "id": "5201852",
       "time": "2026-11-09 08:53:23",
