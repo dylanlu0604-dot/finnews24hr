@@ -1,7 +1,65 @@
 {
   "date": "2026-11-09",
-  "count": 837,
+  "count": 843,
   "items": [
+    {
+      "id": "5202745",
+      "time": "2026-11-09 13:27:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元漲幅擴大至0.8%，跑贏亞洲其他主要貨幣。"
+    },
+    {
+      "id": "5202744",
+      "time": "2026-11-09 13:26:47",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會：10月新能源乘用車出口58.2萬輛，同比增長144.7%】乘聯分會資料顯示，10月新能源乘用車出口58.2萬輛，同比增長144.7%，環比增長3.9%。佔乘用車出口62.8%，較去年同期增長20個百分點；其中純電動佔新能源出口的61.7%（去年同期62.6%），作為核心焦點的A00+A0級純電動車佔純電動出口的56.4%（去年同期42.1%）。10月新能源出口方面優秀的企業是：比亞迪汽車（165,194輛）、奇瑞汽車（83,843輛）、吉利汽車（80,119輛）、特斯拉中國（59,012輛）、上汽乘用車（42,030輛）、長安汽車（30,343輛）、零跑汽車（21,132輛）、上汽通用五菱（16,866輛）、小鵬汽車（13,326輛）、廣汽埃安（12,150輛）、長城汽車（12,029輛）。"
+    },
+    {
+      "id": "5202743",
+      "time": "2026-11-09 13:25:40",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會：11月新能源和中低端燃油車存在結構性機會】乘聯分會資料顯示，11月共有21個工作日，與去年持平，但較10月多2天，因此11月的有效生產時間和銷售時間較長。11月是車市波動較大的時點，外部經濟環境和季節性需求將綜合影響車市，歷史上的車市偏弱常出現在11月。11月有效產銷時間較10月充裕，天氣轉冷與農民工返鄉帶動縣鄉市場購車釋放，新能源和中低端燃油車存在結構性機會。11月是主動加庫存的合理時機：年末需求相對火爆，消費者對庫存現車需求較高，需要提早做好庫儲存備。目前的制約在於經銷商信心不足，部分經銷商伺機退出，渠道蓄水池功能弱化，年末市場去庫存壓力仍大。"
+    },
+    {
+      "id": "mkt:01a1bec4-e2de-7ee0-aace-afdd80ca9064",
+      "time": "2026-11-09 13:25:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【CPCA: November offers structural opportunities in NEVs and low-to-mid-end ICE cars】CPCA said November has 21 working days—same as last year and two more than October—giving a longer effective production and sales window. Cold weather and migrant-worker returns should boost county and township demand; CPCA sees structural opportunities in new-energy vehicles and low- to mid-end internal-combustion-engine cars, but warns November is historically volatile and can be weak as external macro conditions and seasonality interact. CPCA views November as a reasonable time to actively build inventory ahead of typically stronger year-end demand, noting the constraint of weak dealer confidence, some dealer exits and reduced channel stocking, which leaves significant year-end destocking pressure."
+    },
+    {
+      "id": "mkt:01a1bec4-0c84-7ee0-aace-a1695ee8daa5",
+      "time": "2026-11-09 13:24:41",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【CPCA: Oct fuel-vehicle retail -45% YoY; NEV retail -13.7%】CPCA data: China Oct fuel-vehicle retail sales fell 45% YoY; pure-fuel vehicles fell 51% YoY while conventional hybrids rose 28% YoY. Within fuel segment, domestic brands -46% YoY, mainstream joint ventures -46% YoY and luxury -37% YoY — all sharply hit by high oil prices. Oct NEV retail fell 13.7% YoY; domestic NEVs -15% YoY, mainstream joint ventures +69% YoY, luxury NEVs -45% YoY; domestic A00 EV retail dropped markedly after subsidy cuts. Domestic-brand Oct retail was 1.21 mln units (-22% YoY, +7% MoM); domestic brands’ domestic retail share rose to 73.8%, up 4.8 ppt YoY. Overall, domestic brands remain relatively stable in the NEV and export markets."
+    },
+    {
+      "id": "mkt:01a1bec3-da6f-7ee0-aace-9bb7e063f14b",
+      "time": "2026-11-09 13:24:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "China EV Leaders",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "CPCA: Tesla (TSLA.O) exported 59,012 China-made vehicles in October."
+    },
     {
       "id": "5202742",
       "time": "2026-11-09 13:23:52",
