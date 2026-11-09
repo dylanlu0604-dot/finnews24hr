@@ -1,7 +1,60 @@
 {
-  "updated": "2026-11-09 21:45:36",
-  "count": 10596,
+  "updated": "2026-11-09 21:49:35",
+  "count": 10601,
   "items": [
+    {
+      "id": "5203749",
+      "time": "2026-11-09 21:48:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨上漲5%，至3.15美元/百萬英熱。"
+    },
+    {
+      "id": "mkt:01a1c091-0b02-7ee0-aad9-95b4886bae24",
+      "time": "2026-11-09 21:48:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures rose 5% to $3.15/MMBtu."
+    },
+    {
+      "id": "5203748",
+      "time": "2026-11-09 21:47:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：紐約證券交易所將在其即將推出的全天候交易平臺上，僅使用Avalanche區塊鏈結算代幣化股票。"
+    },
+    {
+      "id": "mkt:01a1c08f-9915-7ee0-aad9-8b02b154c72a",
+      "time": "2026-11-09 21:46:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Izmir provincial governor said an explosion at a Turkish steel plant killed 10 workers and injured 15."
+    },
+    {
+      "id": "5203747",
+      "time": "2026-11-09 21:45:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其伊茲密爾省省長表示，一家鋼廠發生爆炸，造成10名工人死亡，15人受傷。"
+    },
+    {
+      "id": "5203746",
+      "time": "2026-11-09 21:45:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "11月9日，外國投資者淨買入830億印度盧比的印度股票衍生品。"
+    },
     {
       "id": "mkt:01a1c08c-e91b-7ee0-aad9-838f6d00fce1",
       "time": "2026-11-09 21:43:42",
@@ -97006,18 +97059,6 @@
         "Importance 0"
       ],
       "text": "Lumber Remains Near 2-Year Low — Lumber futures hovered near $520 per thousand board feet, close to their lowest level in over two years, as traders weighed weakness in the US housing market against expectations of tighter supply. Housing demand remains constrained by elevated mortgage rates and higher construction costs linked to tariffs, although mortgage rates have eased for a second consecutive week. Meanwhile, Canada-US trade talks have resumed after collapsing in August, when tariffs on several wood products were introduced. Later in October, the US Commerce Department lowered antidumping and countervailing duties on Canadian softwood to 24.75% from 35.16%, although a separate 10% tariff keeps total duties at 34.75%. Persistent trade barriers continue to weigh on the market, while mill closures across North America could tighten supply. Low selling prices and subdued demand may also prompt mills to scale back production as profitability comes under pressure."
-    },
-    {
-      "id": "te:markets:597320",
-      "time": "2026-11-02 21:48:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Lower to Start November — The US dollar index traded lower around 101.6 at the start of November, extending its losing streak to a fourth consecutive session, following a modest 0.4% gain in October. Investors are bracing for an event-packed week, with the US midterm elections, the jobs report and interest rate decisions from central banks in the UK, Australia, Norway and Sweden in focus. The dollar also came under pressure from falling oil prices, amid growing hopes for a diplomatic resolution to the US-Iran conflict. Meanwhile, markets continue to price in another 25bps Fed rate hike in December, with the probability of such a move holding at around 75%. Last week, the Fed left interest rates unchanged, as widely expected. In contrast, the Bank of England, the Reserve Bank of Australia and Sweden's Riksbank are expected to raise interest rates this week."
     }
   ]
 }

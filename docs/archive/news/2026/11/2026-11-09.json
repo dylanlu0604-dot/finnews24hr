@@ -1,7 +1,60 @@
 {
   "date": "2026-11-09",
-  "count": 1311,
+  "count": 1317,
   "items": [
+    {
+      "id": "5203749",
+      "time": "2026-11-09 21:48:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨上漲5%，至3.15美元/百萬英熱。"
+    },
+    {
+      "id": "mkt:01a1c091-0b02-7ee0-aad9-95b4886bae24",
+      "time": "2026-11-09 21:48:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures rose 5% to $3.15/MMBtu."
+    },
+    {
+      "id": "5203748",
+      "time": "2026-11-09 21:47:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：紐約證券交易所將在其即將推出的全天候交易平臺上，僅使用Avalanche區塊鏈結算代幣化股票。"
+    },
+    {
+      "id": "mkt:01a1c08f-9915-7ee0-aad9-8b02b154c72a",
+      "time": "2026-11-09 21:46:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Izmir provincial governor said an explosion at a Turkish steel plant killed 10 workers and injured 15."
+    },
+    {
+      "id": "5203747",
+      "time": "2026-11-09 21:45:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其伊茲密爾省省長表示，一家鋼廠發生爆炸，造成10名工人死亡，15人受傷。"
+    },
+    {
+      "id": "5203746",
+      "time": "2026-11-09 21:45:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "11月9日，外國投資者淨買入830億印度盧比的印度股票衍生品。"
+    },
     {
       "id": "mkt:01a1c08c-e91b-7ee0-aad9-838f6d00fce1",
       "time": "2026-11-09 21:43:42",
