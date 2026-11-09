@@ -1,7 +1,68 @@
 {
-  "updated": "2026-11-09 22:14:02",
+  "updated": "2026-11-09 22:17:59",
   "count": 10623,
   "items": [
+    {
+      "id": "5203790",
+      "time": "2026-11-09 22:17:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "全球星（Globalstar）獲得法國對其C-3移動衛星服務（MSS）系統的授權。"
+    },
+    {
+      "id": "mkt:01a1c0aa-9b29-7ee0-aada-15f113e0c846",
+      "time": "2026-11-09 22:16:08",
+      "tags": [
+        "MKT News",
+        "MS.N"
+      ],
+      "text": "Morgan Stanley (MS.N) said it will acquire digital-native transfer agent Vinyl Equity; the deal is expected to close in Q1 2027."
+    },
+    {
+      "id": "5203789",
+      "time": "2026-11-09 22:15:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利：該交易預計於2027年第一季度完成。"
+    },
+    {
+      "id": "5203788",
+      "time": "2026-11-09 22:15:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nominal以30億美元估值完成2.4億美元融資。"
+    },
+    {
+      "id": "te:markets:599627",
+      "time": "2026-11-09 22:15:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Edge Lower — The yield on the US 10-year Treasury note edged lower to 4.84% on Monday, as investors positioned themselves ahead of a series of key economic releases this week that could influence expectations for the Fed’s next policy moves. Meanwhile, declining oil prices helped ease concerns over further inflationary pressures. This followed comments reported by CNN on Sunday, in which President Trump said it was “highly unlikely” that he would order further strikes against Tehran if negotiations showed progress. Markets are now turning their attention to this week’s CPI and PPI releases, with expectations pointing to an acceleration in both annual headline consumer and producer inflation. Against this backdrop, market-implied odds of another 25bps Fed rate hike next month currently stand at around 80%."
+    },
+    {
+      "id": "5203787",
+      "time": "2026-11-09 22:15:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將收購Agent Vinyl的股權。"
+    },
+    {
+      "id": "5203786",
+      "time": "2026-11-09 22:15:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "星座能源公司在電話會議上表示，公用事業公司和電網運營商未能準確估算資料中心數量，導致嚴重高估，引發政策制定者擔憂。"
+    },
     {
       "id": "5203785",
       "time": "2026-11-09 22:13:09",
@@ -97201,66 +97262,6 @@
         "國際"
       ],
       "text": "市場訊息：伊朗外長阿拉格齊表示，伊朗在軍事應對和外交途徑兩方面都已做好了比以往任何時候都更充分的準備；霍爾木茲海峽的重新開放，前提是伊朗提出的條件必須得到接受。"
-    },
-    {
-      "id": "te:markets:597338",
-      "time": "2026-11-02 22:17:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Surges 4% — Silver jumped around 4% to $50.80 an ounce on Monday, rebounding from 11-month lows, as declining oil prices eased inflation concerns, while investors shifted their focus to the November 3 US midterm elections. Precious metals had faced heavy selling pressure on Friday as a sharp selloff in technology and AI stocks triggered a dash for cash, forcing investors to liquidate safe-haven holdings. However, optimism surrounding a potential US-Iran diplomatic breakthrough, coupled with renewed doubts about the sustainability of the AI boom, has prompted some reassessment of the Federal Reserve's tightening outlook. Meanwhile, oil prices tumbled after Iranian and Qatari officials held a third consecutive day of talks aimed at securing an end to the US-Israeli war on Iran. Lower energy prices could help contain inflationary pressures and ease expectations of interest rates remaining higher for longer, reducing the opportunity cost of holding non-yielding assets such as silver."
-    },
-    {
-      "id": "5187900",
-      "time": "2026-11-02 22:17:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟食品專員：增強韌性需要整個食品供應鏈採取協調一致的做法。"
-    },
-    {
-      "id": "5187899",
-      "time": "2026-11-02 22:17:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟食品事務專員：必須確保供應鏈的每一個環節都能抵禦網路威脅並做出應對。"
-    },
-    {
-      "id": "5187898",
-      "time": "2026-11-02 22:16:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "格陵蘭資源公司就加拿大-歐盟協議釋出最新情況。"
-    },
-    {
-      "id": "5187897",
-      "time": "2026-11-02 22:16:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟食品事務專員：目前糧食安全未受威脅，但食品浪費及其影響真實存在。"
-    },
-    {
-      "id": "5187896",
-      "time": "2026-11-02 22:15:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟食品事務專員：冰箱網路攻擊是破壞我們食品供應的企圖。"
-    },
-    {
-      "id": "5187895",
-      "time": "2026-11-02 22:14:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "Init 股價跌8.4%，此前公司釋出業績及展望，股價料創3月以來最差單日表現。"
     }
   ]
 }

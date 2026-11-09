@@ -1,7 +1,68 @@
 {
   "date": "2026-11-09",
-  "count": 1368,
+  "count": 1375,
   "items": [
+    {
+      "id": "5203790",
+      "time": "2026-11-09 22:17:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "全球星（Globalstar）獲得法國對其C-3移動衛星服務（MSS）系統的授權。"
+    },
+    {
+      "id": "mkt:01a1c0aa-9b29-7ee0-aada-15f113e0c846",
+      "time": "2026-11-09 22:16:08",
+      "tags": [
+        "MKT News",
+        "MS.N"
+      ],
+      "text": "Morgan Stanley (MS.N) said it will acquire digital-native transfer agent Vinyl Equity; the deal is expected to close in Q1 2027."
+    },
+    {
+      "id": "5203789",
+      "time": "2026-11-09 22:15:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利：該交易預計於2027年第一季度完成。"
+    },
+    {
+      "id": "5203788",
+      "time": "2026-11-09 22:15:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nominal以30億美元估值完成2.4億美元融資。"
+    },
+    {
+      "id": "te:markets:599627",
+      "time": "2026-11-09 22:15:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Edge Lower — The yield on the US 10-year Treasury note edged lower to 4.84% on Monday, as investors positioned themselves ahead of a series of key economic releases this week that could influence expectations for the Fed’s next policy moves. Meanwhile, declining oil prices helped ease concerns over further inflationary pressures. This followed comments reported by CNN on Sunday, in which President Trump said it was “highly unlikely” that he would order further strikes against Tehran if negotiations showed progress. Markets are now turning their attention to this week’s CPI and PPI releases, with expectations pointing to an acceleration in both annual headline consumer and producer inflation. Against this backdrop, market-implied odds of another 25bps Fed rate hike next month currently stand at around 80%."
+    },
+    {
+      "id": "5203787",
+      "time": "2026-11-09 22:15:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將收購Agent Vinyl的股權。"
+    },
+    {
+      "id": "5203786",
+      "time": "2026-11-09 22:15:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "星座能源公司在電話會議上表示，公用事業公司和電網運營商未能準確估算資料中心數量，導致嚴重高估，引發政策制定者擔憂。"
+    },
     {
       "id": "5203785",
       "time": "2026-11-09 22:13:09",
