@@ -1,7 +1,79 @@
 {
   "date": "2026-11-09",
-  "count": 849,
+  "count": 857,
   "items": [
+    {
+      "id": "mkt:01a1bece-0bd6-7ee0-aace-cc4dfe11e9fa",
+      "time": "2026-11-09 13:35:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan's TAIEX closed up 1,960.06 points (+4.94%) at 41,661.7 on Monday, Nov 9."
+    },
+    {
+      "id": "mkt:01a1becd-e3f2-7ee0-aace-c6f39330f120",
+      "time": "2026-11-09 13:35:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Lithium carbonate most-active futures contract fell 4.00% intraday to 88,200 yuan/ton."
+    },
+    {
+      "id": "5202755",
+      "time": "2026-11-09 13:35:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報88200.00元。"
+    },
+    {
+      "id": "5202754",
+      "time": "2026-11-09 13:34:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣股市收盤上漲4.9%。"
+    },
+    {
+      "id": "5202753",
+      "time": "2026-11-09 13:34:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國工業聯合會：泰國目標到2030年實現年產195萬輛汽車。"
+    },
+    {
+      "id": "mkt:01a1becc-5cea-7ee0-aace-be18f79d78a3",
+      "time": "2026-11-09 13:33:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federation of Thai Industries says Thailand targets annual vehicle production of 1.95 million units by 2030."
+    },
+    {
+      "id": "mkt:01a1becb-3c6d-7ee0-aace-b0e9e734818e",
+      "time": "2026-11-09 13:32:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "688256.SS",
+        "Impact bullish"
+      ],
+      "text": "A-share compute-chip concept stocks rebounded in afternoon trading; Suiyuan Technology rose nearly 15%, with Tianpu, Cambricon, Kede Education, Muxi, Moore Threads and Yuntian Lifi among the top gainers."
+    },
+    {
+      "id": "5202752",
+      "time": "2026-11-09 13:31:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【算力晶片概念震盪反彈 燧原科技漲近15%】午後算力晶片概念震盪反彈，燧原科技漲近15%，天普股份、寒武紀、科德教育、沐曦股份、摩爾執行緒、雲天勵飛等漲幅靠前。訊息面上，中國移動披露2027年計劃總採購超5000億元，其中算力投資突破1000億元，未來兩年計算能力將連續翻番，今明兩年合計規劃建設5個吉瓦級智算園區。"
+    },
     {
       "id": "5202751",
       "time": "2026-11-09 13:31:40",
