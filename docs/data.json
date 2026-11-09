@@ -1,7 +1,195 @@
 {
-  "updated": "2026-11-09 22:33:59",
-  "count": 10614,
+  "updated": "2026-11-09 22:38:02",
+  "count": 10615,
   "items": [
+    {
+      "id": "5203836",
+      "time": "2026-11-09 22:36:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Harmony Gold第一財季集團黃金產量下降12%，至10,661公斤（342,758盎司）。"
+    },
+    {
+      "id": "5203835",
+      "time": "2026-11-09 22:36:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通股價漲幅擴大至6%，報311.435美元/股，總市值報1.49萬億美元。"
+    },
+    {
+      "id": "5203833",
+      "time": "2026-11-09 22:36:06",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "亞馬遜股價上漲5.5%，META股價上漲4.5%，ALPHABET股價上漲3.2%。"
+    },
+    {
+      "id": "5203832",
+      "time": "2026-11-09 22:35:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "IMMUNITYBIO公司公佈第三季度淨虧損後，其股價下跌24.5%。"
+    },
+    {
+      "id": "mkt:01a1c0bc-51d0-7ee0-aada-ad3717a54506",
+      "time": "2026-11-09 22:35:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ecuador to cut diesel prices by 5 US cents from Nov. 12."
+    },
+    {
+      "id": "5203831",
+      "time": "2026-11-09 22:35:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多將從11月12日起將柴油價格下調5美分。"
+    },
+    {
+      "id": "5203830",
+      "time": "2026-11-09 22:35:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲2%】費城半導體指數日內漲2.02%，現報9580.01點。英偉達跌6.24%，博通漲5.75%，美光漲1.46%，英特爾漲0.37%，AMD漲4.99%，高通跌0.24%，臺積電漲2.36%，阿斯麥漲4.72%。"
+    },
+    {
+      "id": "mkt:01a1c0bc-05c8-7ee0-aada-a59b286eb663",
+      "time": "2026-11-09 22:35:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU high representative for foreign affairs and security policy kallas said some EU countries are expected to share details in the coming days about suspects linked to hoax bomb threats."
+    },
+    {
+      "id": "5203829",
+      "time": "2026-11-09 22:35:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "阿卡邁科技股價下跌2.8%，此前公司提議發行22億美元可轉換優先票據。"
+    },
+    {
+      "id": "mkt:01a1c0bb-ea50-7ee0-aada-98a8348831d4",
+      "time": "2026-11-09 22:35:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "kallas said the EU should, under its treaties, assume a leading role on European security."
+    },
+    {
+      "id": "5203828",
+      "time": "2026-11-09 22:35:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯表示，在歐洲安全問題上，歐盟應按照其條約主導相關努力。"
+    },
+    {
+      "id": "mkt:01a1c0bb-d96f-7ee0-aada-9419915921a0",
+      "time": "2026-11-09 22:34:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "EU high representative for foreign affairs and security policy Kallas said Russia has been feigning negotiations and she has seen no goodwill from Moscow."
+    },
+    {
+      "id": "5203827",
+      "time": "2026-11-09 22:34:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯表示，預計未來幾天一些歐盟國家將分享有關虛假炸彈威脅嫌疑的細節。"
+    },
+    {
+      "id": "mkt:01a1c0bb-bb23-7ee0-aada-8bb183e5a102",
+      "time": "2026-11-09 22:34:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU foreign and security policy chief Kallas said Russia had previously agreed to a European security architecture, but Moscow has failed to comply."
+    },
+    {
+      "id": "mkt:01a1c0bb-9ecb-7ee0-aada-85eb777ea125",
+      "time": "2026-11-09 22:34:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "EU foreign policy chief Kallas said she hopes the US will step up pressure on Russia and impose additional sanctions after the US midterm elections."
+    },
+    {
+      "id": "5203824",
+      "time": "2026-11-09 22:34:35",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯表示，希望在美國中期選舉之後，美方將對俄羅斯施加更大壓力，進一步出臺對俄製裁。"
+    },
+    {
+      "id": "mkt:01a1c0bb-1b94-7ee0-aada-7800905559ee",
+      "time": "2026-11-09 22:34:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "UK 10-year gilt yield fell 7bps to 5.08%, its lowest level since Aug. 28."
+    },
+    {
+      "id": "5203823",
+      "time": "2026-11-09 22:33:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率下跌7個基點至5.08%，為8月28日以來最低水平。"
+    },
+    {
+      "id": "mkt:01a1c0ba-df8d-7ee0-aada-74db84c6cddc",
+      "time": "2026-11-09 22:33:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "All three major US stock indexes rose over 1% in early trading; the Nasdaq's advance widened to 1.3%."
+    },
+    {
+      "id": "5203822",
+      "time": "2026-11-09 22:33:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股三大指數均漲超1%】道指漲1.11%，現報51852.691點；納指漲1.31%，現報24900.508點；標普500指數漲1.03%，現報7452.710點。"
+    },
     {
       "id": "mkt:01a1c0ba-1d7b-7ee0-aada-6c60da616cb5",
       "time": "2026-11-09 22:33:04",
@@ -97076,165 +97264,6 @@
         "市場"
       ],
       "text": "CoreWeave下跌4%，Nebius下跌4.5%，IREN下跌3.1%。"
-    },
-    {
-      "id": "5187987",
-      "time": "2026-11-02 22:37:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "ANTHROPIC： 截至2026年9月30日的三個月內，所得稅撥備增至3.96億美元。"
-    },
-    {
-      "id": "5187986",
-      "time": "2026-11-02 22:37:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：9月30日後簽署的新算力協議金額約1002億美元。"
-    },
-    {
-      "id": "5187985",
-      "time": "2026-11-02 22:37:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破3960美元/盎司，日內漲2.18%。"
-    },
-    {
-      "id": "5187984",
-      "time": "2026-11-02 22:37:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽將L3HARRIS擬發行的SR無擔保債券評級為“BBB+”。"
-    },
-    {
-      "id": "5187983",
-      "time": "2026-11-02 22:36:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Claude解題成功率已達約90%。"
-    },
-    {
-      "id": "5187982",
-      "time": "2026-11-02 22:36:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破3970美元/盎司，日內漲1.83%。"
-    },
-    {
-      "id": "5187981",
-      "time": "2026-11-02 22:36:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：未來12個月內到期的承諾金額約698億美元。"
-    },
-    {
-      "id": "5187980",
-      "time": "2026-11-02 22:36:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：預計在2031年前將產生約4475億美元的承諾支出。"
-    },
-    {
-      "id": "5187979",
-      "time": "2026-11-02 22:36:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "法國10年期國債收益率延續跌勢，下跌逾8個基點，至4.8981%。"
-    },
-    {
-      "id": "5187978",
-      "time": "2026-11-02 22:35:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "蘇黎世機場股價走高，目前上漲3%。"
-    },
-    {
-      "id": "5187977",
-      "time": "2026-11-02 22:35:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：短期算力使用量近期將繼續上升。"
-    },
-    {
-      "id": "5187975",
-      "time": "2026-11-02 22:35:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀將加拿大國家鐵路公司目標價從180加元上調至182加元。"
-    },
-    {
-      "id": "te:markets:597343",
-      "time": "2026-11-02 22:35:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "PepsiCo Shares Hit 8-week High — PepsiCo shares increased to 139.06 USD, the highest since September 2026. Over the past 4 weeks, PepsiCo gained 10.52%, and in the last 12 months, it decreased 4.98%."
-    },
-    {
-      "id": "5187974",
-      "time": "2026-11-02 22:34:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：未來前沿模型將需要人類監督。"
-    },
-    {
-      "id": "5187973",
-      "time": "2026-11-02 22:34:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "邁威爾同意以1150億美元收購Lumentum後，後者股價下跌9.55%。"
-    },
-    {
-      "id": "5187972",
-      "time": "2026-11-02 22:34:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "INDIVIOR 與 SUPERNUS 完成合並，11 月 2 日生效。"
-    },
-    {
-      "id": "5187971",
-      "time": "2026-11-02 22:34:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "Strategy：根據美國證券交易委員會（SEC）檔案，公司擬發行最高16.6億美元、票面利率10.00%的A系列永久優先股。"
-    },
-    {
-      "id": "5187970",
-      "time": "2026-11-02 22:34:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic第三季度運營虧損源於50億美元的短期算力支出。"
-    },
-    {
-      "id": "5187969",
-      "time": "2026-11-02 22:34:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農場淨收入創紀錄地下滑26%，降至歷史最低點。"
     }
   ]
 }
