@@ -1,7 +1,60 @@
 {
   "date": "2026-11-09",
-  "count": 1385,
+  "count": 1390,
   "items": [
+    {
+      "id": "5203799",
+      "time": "2026-11-09 22:24:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本遊戲巨頭世嘉稱219萬個使用者郵箱地址外洩】日本遊戲巨頭世嘉11月9日釋出訊息稱，共有219萬個使用者電子郵箱地址發生外洩，原因是為其提供電子雜誌傳送服務的arara公司遭到非法訪問。洩露資訊中不包含姓名、電話號碼、信用卡資訊、登入密碼等。目前尚未確認到洩露資訊被惡意利用，世嘉提醒使用者對今後可能收到冒充該公司的可疑郵件等提高警惕。（介面新聞）"
+    },
+    {
+      "id": "5203798",
+      "time": "2026-11-09 22:22:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nano-X旗下USARAD擴大與AZMED的合作，將獲FDA批准的X射線人工智慧技術整合進其遠端放射學工作流程。"
+    },
+    {
+      "id": "mkt:01a1c0b0-3b9d-7ee0-aada-3f67abd60919",
+      "time": "2026-11-09 22:22:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "China energy futures front-month contracts fell across the board: SC crude down 5.29% to 603.9 yuan/bbl; low-sulfur fuel oil (LU) down 4.64% to 4,912 yuan/ton; fuel oil down 5.36% to 4,042 yuan/ton; bitumen (asphalt) down 3.27% to 4,313 yuan/ton."
+    },
+    {
+      "id": "mkt:01a1c0af-e80f-7ee0-aada-3693e4dc834d",
+      "time": "2026-11-09 22:21:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude fell 5% intraday to $92.98/bbl; WTI fell 4.6% intraday to $86.27/bbl."
+    },
+    {
+      "id": "5203797",
+      "time": "2026-11-09 22:21:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "波札那總統談戴比爾斯：波札那將成為戴比爾斯的最大單一股東。"
+    },
     {
       "id": "5203796",
       "time": "2026-11-09 22:21:14",
