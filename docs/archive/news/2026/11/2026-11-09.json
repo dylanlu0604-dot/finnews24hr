@@ -1,7 +1,76 @@
 {
   "date": "2026-11-09",
-  "count": 1464,
+  "count": 1471,
   "items": [
+    {
+      "id": "5203854",
+      "time": "2026-11-09 22:48:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲4%】費城半導體指數日內漲4.03%，現報9768.69點。英偉達跌5.18%，博通漲6.57%，美光漲4.04%，英特爾漲2.66%，AMD漲8.73%，高通漲2.22%，臺積電漲3.65%，阿斯麥漲5.76%。"
+    },
+    {
+      "id": "mkt:01a1c0c7-cbec-7ee0-aada-f56cf4ebb10a",
+      "time": "2026-11-09 22:48:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Trump senior adviser Jared Kushner said he will meet allies to discuss Ukraine and European security."
+    },
+    {
+      "id": "5203853",
+      "time": "2026-11-09 22:47:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其航空10月客座率同比上升1.6個百分點至86.3%。"
+    },
+    {
+      "id": "mkt:01a1c0c6-c611-7ee0-aada-eaca4605b087",
+      "time": "2026-11-09 22:46:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Interfax reports Russia says it struck a cargo ship in the Black Sea."
+    },
+    {
+      "id": "5203852",
+      "time": "2026-11-09 22:46:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "庫什納與威特科夫將會見盟友，討論烏克蘭及歐洲安全問題。"
+    },
+    {
+      "id": "mkt:01a1c0c6-3d62-7ee0-aada-e7554e416ab4",
+      "time": "2026-11-09 22:46:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "【U.S. stocks open higher and rally; Nasdaq extends gain to 2%】U.S. equities opened higher and extended gains: Nasdaq up 2.0%, S&P 500 up 1.5%, Dow Jones Industrial Average up 1.3%."
+    },
+    {
+      "id": "5203851",
+      "time": "2026-11-09 22:46:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "據俄羅斯方面訊息，俄羅斯稱在黑海擊中一艘貨船。"
+    },
     {
       "id": "mkt:01a1c0c5-8cd6-7ee0-aada-da250e72475c",
       "time": "2026-11-09 22:45:34",
