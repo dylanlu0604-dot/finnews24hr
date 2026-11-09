@@ -1,7 +1,78 @@
 {
-  "updated": "2026-11-09 13:13:11",
-  "count": 10736,
+  "updated": "2026-11-09 13:17:03",
+  "count": 10743,
   "items": [
+    {
+      "id": "5202736",
+      "time": "2026-11-09 13:16:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗媒體稱經霍爾木茲海峽“石油走私”已被完全阻斷】伊朗伊斯蘭共和國廣播電視臺9日援引伊朗伊斯蘭革命衛隊海軍官員的話報道說，霍爾木茲海峽南部的“敵方”導航輔助系統被摧毀後，經該海峽進行的“石油走私”活動已被完全阻斷。報道說，8日夜間沒有任何船隻由“未經授權”航道透過霍爾木茲海峽。報道還說，美國8日晚襲擊伊朗南部格什姆島部分地區，霍爾木茲甘省副省長納菲西表示，島上關鍵基礎設施和服務設施均未遭受任何損失。格什姆島當前局勢處於可控狀態，相關部門已進入“全面戒備狀態”。（新華社）"
+    },
+    {
+      "id": "mkt:01a1bebc-63e6-7ee0-aace-78aa1df460a5",
+      "time": "2026-11-09 13:16:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian state media says oil smuggling via Strait of Hormuz fully blocked】Iran’s state broadcaster IRIB on the 9th cited an IRGC navy officer saying that after the destruction of “enemy” navigational aids in the southern Strait of Hormuz, oil-smuggling transit via the strait has been completely blocked; IRIB said no vessels used unauthorized routes through Hormuz on the night of the 8th. IRIB also reported that the U.S. struck parts of Qeshm Island on the evening of the 8th; Hormozgan deputy governor Nafisi said critical infrastructure and services were undamaged, the situation is under control and authorities are on heightened alert."
+    },
+    {
+      "id": "5202735",
+      "time": "2026-11-09 13:16:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深南電路：擬定增募資不超43.67億元投建AI算力專案】深南電路公告稱，公司2026年度向特定物件發行股票方案已獲深交所稽核透過及中國證監會註冊。本次發行物件不超過35名，發行價格不低於定價基準日前二十個交易日公司股票交易均價的80%，發行數量不超過發行前總股本的30%，募集資金總額不超過43.67億元，扣除發行費用後擬36.00億元用於無錫深南電路AI算力電子電路產品專案，7.67億元用於補充流動資金。本次發行完成後，發行物件認購股份限售期為6個月，公司控股股東、實控人不會發生變化。"
+    },
+    {
+      "id": "mkt:01a1bebb-fd85-7ee0-aace-77526cf3fe75",
+      "time": "2026-11-09 13:15:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "cenc reported a M5.7 earthquake at 12:52 on Nov 9 in waters off eastern Honshu, Japan; hypocenter depth 10 km."
+    },
+    {
+      "id": "5202734",
+      "time": "2026-11-09 13:15:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網正式測定：11月09日12時52分在日本本州東部附近海域（北緯36.25度，東經141.85度）發生5.7級地震，震源深度10千米。"
+    },
+    {
+      "id": "te:markets:599414",
+      "time": "2026-11-09 13:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Increases by 0.82% — Top currency gainers are South Korean Won (0.82%), New Zealand Dollar (0.79%), Australian Dollar (0.34%), British Pound (0.17%), Japanese Yen (0.17%) and Euro (0.08%). Biggest loser is Dollar Index (-0.19%)."
+    },
+    {
+      "id": "5202732",
+      "time": "2026-11-09 13:13:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤基本持平，報9029.70點。"
+    },
+    {
+      "id": "mkt:01a1beb9-2e99-7ee0-aace-6b9a37cb76f3",
+      "time": "2026-11-09 13:12:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's ChiNext index pared intraday gains in the afternoon; component stocks EVE Energy, Sungrow Power, Xiechuang Data and CATL led declines, while \"Yizhongtian\" also pared gains."
+    },
     {
       "id": "mkt:01a1beb8-a155-7ee0-aace-66c310020789",
       "time": "2026-11-09 13:12:13",
@@ -98275,17 +98346,6 @@
         "Importance 0"
       ],
       "text": "Gasoline Drops to Over 2-Month Low — US gasoline futures fell to $3.04 per gallon, their lowest level since late August, amid hopes for diplomatic efforts to ease Middle East tensions. Iranian negotiators held talks in Doha with Qatari mediators for a third consecutive day on Sunday aimed at reaching an agreement to end the US-Israeli war on Iran. Meanwhile, US Secretary of State Marco Rubio said on Saturday that President Trump had not made a decision on fresh strikes against Iran and that Washington remained open to a diplomatic solution. Additional pressure came from rising inventories and weaker demand. EIA data showed an unexpected 3.8 million-barrel increase in gasoline stocks in the week ended October 23, while gasoline supplied, a proxy for demand, fell by 624,000 bpd to 8.36 million bpd. However, inventories remained around 2% below their five-year seasonal average, while seasonal refinery maintenance and strong diesel production ahead of winter could limit gasoline output."
-    },
-    {
-      "id": "te:markets:597121",
-      "time": "2026-11-02 13:15:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Depreciates by 0.73% — Top currency losers are South Korean Won (-0.73%) and Japanese Yen (-0.12%). Gains are led by Euro (0.21%). Meanwhile, British Pound and Dollar Index were little changed."
     }
   ]
 }
