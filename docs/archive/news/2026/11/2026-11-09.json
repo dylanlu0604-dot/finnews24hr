@@ -1,7 +1,73 @@
 {
   "date": "2026-11-09",
-  "count": 419,
+  "count": 426,
   "items": [
+    {
+      "id": "5201876",
+      "time": "2026-11-09 09:06:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲3%至40,903.48點。"
+    },
+    {
+      "id": "5201875",
+      "time": "2026-11-09 09:04:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【五糧液普五八代、習酒君品連續大漲 精品茅臺小幅上揚 飛天茅臺平盤整理 古井貢古20重跌】新浪財經“酒價內參”過去24小時收集的資料顯示，11月9日中國白酒業12大單品的終端零售均價六漲三跌三平，上漲品種的數量繼續佔優，累計漲幅也再次超越下跌端，整體價盤連續第二天溫和回升。上漲端，精品茅臺上漲2元至2433元，結束持續下行弱勢，自近30天低點反彈；五糧液普五八代大漲5元至785元，連續第二天大幅攀升，基本走出階段性低點，是今日漲幅最高的單品；五糧液1618上漲1元至821元，此前的四連陰告終，但依然駐留在近30天最低紀錄附近；洋河夢之藍M6+上漲3元至585元，連續兩天均漲3元，收復前天重跌的失地；習酒君品上漲4元至624元，兩連漲向上突破近期趨勢線；青花郎上漲3元至675元，二連陽累計漲幅達10元，磨底行情宣告結束。下跌端，國窖1573下跌2元至867元，已連續六天非跌即平，迭創過去一個月以來新低；古井貢古20下跌3元至512元，觸底反彈行情遭遇挫折，淪為今日跌幅最高的單品，後市發展值得關注；水晶劍南春下跌2元至400元，昨日小漲勢頭短時即逝，400元關口再度告急。持平方面，飛天茅臺的零售均價保持在1776元，結束連續三天走低行情，進入平盤整理；茅臺1935的零售均價仍為686元，維持在近30天以來高點；青花汾20持平於380元，昨日小漲後步入底部休整期。\n\n今日12大單品的終端零售總價溫和反彈，但量能因週末原因未持續放大。五糧液普五八代、習酒君品等持續大幅上漲，是支撐整體價盤的主要力量。如果12大單品各取一瓶整體打包售賣，今日總售價為10544元，較昨日溫和上漲11元，創下四天以來新高。"
+    },
+    {
+      "id": "5201874",
+      "time": "2026-11-09 09:03:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破53美元/盎司，日內漲2.08%。"
+    },
+    {
+      "id": "mkt:01a1bdd5-4ef7-7ee0-aaca-1dfa23bc41c7",
+      "time": "2026-11-09 09:03:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "SHFE tin most-active contract's intraday gain widened to 2.00%, trading at 353,270 yuan/ton."
+    },
+    {
+      "id": "mkt:01a1bdd5-4dec-7ee0-aaca-157c21db18b4",
+      "time": "2026-11-09 09:03:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA (NVDA.O) fell more than 3% in U.S. after-hours trading after CEO Jensen Huang acknowledged an extramarital affair and apologized; the company said its board has launched an investigation."
+    },
+    {
+      "id": "mkt:01a1bdd5-0957-7ee0-aaca-0d8682711ca3",
+      "time": "2026-11-09 09:03:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Telecom upgrades Star Super Agent TeleAgent to V3.0】China Telecom says its self-developed Star Super Agent, TeleAgent, has been upgraded to V3.0 and is rolling out a nationwide agent + cloud PC model. The release upgrades multi-end collaboration, memory synchronization, office ecosystem and enterprise services, enabling cloud-based execution of agent tasks such as 3D modeling, document processing, code generation and video editing."
+    },
+    {
+      "id": "5201873",
+      "time": "2026-11-09 09:03:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至1%】韓國綜指漲幅擴大至1%，現報5111.65點。個股方面，SK海力士漲超3%，三星電子漲超2%。"
+    },
     {
       "id": "mkt:01a1bdd4-9356-7ee0-aaca-0286db621c3b",
       "time": "2026-11-09 09:03:07",

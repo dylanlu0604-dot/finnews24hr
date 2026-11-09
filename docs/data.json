@@ -1,7 +1,73 @@
 {
-  "updated": "2026-11-09 09:03:47",
-  "count": 10665,
+  "updated": "2026-11-09 09:07:39",
+  "count": 10660,
   "items": [
+    {
+      "id": "5201876",
+      "time": "2026-11-09 09:06:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲3%至40,903.48點。"
+    },
+    {
+      "id": "5201875",
+      "time": "2026-11-09 09:04:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【五糧液普五八代、習酒君品連續大漲 精品茅臺小幅上揚 飛天茅臺平盤整理 古井貢古20重跌】新浪財經“酒價內參”過去24小時收集的資料顯示，11月9日中國白酒業12大單品的終端零售均價六漲三跌三平，上漲品種的數量繼續佔優，累計漲幅也再次超越下跌端，整體價盤連續第二天溫和回升。上漲端，精品茅臺上漲2元至2433元，結束持續下行弱勢，自近30天低點反彈；五糧液普五八代大漲5元至785元，連續第二天大幅攀升，基本走出階段性低點，是今日漲幅最高的單品；五糧液1618上漲1元至821元，此前的四連陰告終，但依然駐留在近30天最低紀錄附近；洋河夢之藍M6+上漲3元至585元，連續兩天均漲3元，收復前天重跌的失地；習酒君品上漲4元至624元，兩連漲向上突破近期趨勢線；青花郎上漲3元至675元，二連陽累計漲幅達10元，磨底行情宣告結束。下跌端，國窖1573下跌2元至867元，已連續六天非跌即平，迭創過去一個月以來新低；古井貢古20下跌3元至512元，觸底反彈行情遭遇挫折，淪為今日跌幅最高的單品，後市發展值得關注；水晶劍南春下跌2元至400元，昨日小漲勢頭短時即逝，400元關口再度告急。持平方面，飛天茅臺的零售均價保持在1776元，結束連續三天走低行情，進入平盤整理；茅臺1935的零售均價仍為686元，維持在近30天以來高點；青花汾20持平於380元，昨日小漲後步入底部休整期。\n\n今日12大單品的終端零售總價溫和反彈，但量能因週末原因未持續放大。五糧液普五八代、習酒君品等持續大幅上漲，是支撐整體價盤的主要力量。如果12大單品各取一瓶整體打包售賣，今日總售價為10544元，較昨日溫和上漲11元，創下四天以來新高。"
+    },
+    {
+      "id": "5201874",
+      "time": "2026-11-09 09:03:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破53美元/盎司，日內漲2.08%。"
+    },
+    {
+      "id": "mkt:01a1bdd5-4ef7-7ee0-aaca-1dfa23bc41c7",
+      "time": "2026-11-09 09:03:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "SHFE tin most-active contract's intraday gain widened to 2.00%, trading at 353,270 yuan/ton."
+    },
+    {
+      "id": "mkt:01a1bdd5-4dec-7ee0-aaca-157c21db18b4",
+      "time": "2026-11-09 09:03:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA (NVDA.O) fell more than 3% in U.S. after-hours trading after CEO Jensen Huang acknowledged an extramarital affair and apologized; the company said its board has launched an investigation."
+    },
+    {
+      "id": "mkt:01a1bdd5-0957-7ee0-aaca-0d8682711ca3",
+      "time": "2026-11-09 09:03:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Telecom upgrades Star Super Agent TeleAgent to V3.0】China Telecom says its self-developed Star Super Agent, TeleAgent, has been upgraded to V3.0 and is rolling out a nationwide agent + cloud PC model. The release upgrades multi-end collaboration, memory synchronization, office ecosystem and enterprise services, enabling cloud-based execution of agent tasks such as 3D modeling, document processing, code generation and video editing."
+    },
+    {
+      "id": "5201873",
+      "time": "2026-11-09 09:03:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至1%】韓國綜指漲幅擴大至1%，現報5111.65點。個股方面，SK海力士漲超3%，三星電子漲超2%。"
+    },
     {
       "id": "mkt:01a1bdd4-9356-7ee0-aaca-0286db621c3b",
       "time": "2026-11-09 09:03:07",
@@ -97654,110 +97720,6 @@
         "MKT News"
       ],
       "text": "China container shipping index (Europe route) front-month contract fell 4.00% intraday to 2,541.5 points."
-    },
-    {
-      "id": "5186277",
-      "time": "2026-11-02 09:07:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報2541.50點。"
-    },
-    {
-      "id": "5186276",
-      "time": "2026-11-02 09:07:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡海峽時報指數下跌2%，至5270.41。"
-    },
-    {
-      "id": "5186275",
-      "time": "2026-11-02 09:06:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破3910美元/盎司，日內漲0.88%。"
-    },
-    {
-      "id": "5186274",
-      "time": "2026-11-02 09:06:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破3920美元/盎司，日內漲0.55%。"
-    },
-    {
-      "id": "mkt:01a199cb-5817-7ee0-aa22-eb6c3464eff0",
-      "time": "2026-11-02 09:06:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's President Lee Jae-myung said the country's annual exports could reach $1 trillion."
-    },
-    {
-      "id": "5186273",
-      "time": "2026-11-02 09:06:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：年出口額有望達到1萬億美元。"
-    },
-    {
-      "id": "mkt:01a199cb-4d3b-7ee0-aa22-e6ce24d3ae5c",
-      "time": "2026-11-02 09:06:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Dalian Maritime Safety Administration said on the China MSA website that from 1200 on Nov 2 to 1200 on Nov 6 parts of the Bohai Sea and Yellow Sea will be closed for military operations and entry is prohibited."
-    },
-    {
-      "id": "5186272",
-      "time": "2026-11-02 09:06:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：韓國經濟持續呈現明顯的V型復甦。"
-    },
-    {
-      "id": "5186271",
-      "time": "2026-11-02 09:05:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲2%，現報50.10美元/盎司。"
-    },
-    {
-      "id": "5186270",
-      "time": "2026-11-02 09:05:36",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【英捷信醫療完成2億元B輪融資】11月2日，據浩悅資本訊息，近日，上海英捷信醫療科技有限公司宣佈完成2億元人民幣B輪融資。本輪融資由中金資本旗下基金領投，珠海科技產業集團、基石資本、啟明創投、厚新健投及映月基金跟投，老股東光合創投持續投資，浩悅資本連續擔任獨家融資財務顧問。本輪融資資金將主要用於進一步提升全球化規模生產與交付能力，加快新一代自我給藥裝置的研發及產業化，並持續推進海外產品註冊、市場拓展及全球客戶服務體系建設。"
-    },
-    {
-      "id": "5186269",
-      "time": "2026-11-02 09:05:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破50美元/盎司，日內漲1.98%。"
-    },
-    {
-      "id": "mkt:01a199c9-676d-7ee0-aa22-d8841707158f",
-      "time": "2026-11-02 09:04:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver reclaimed $50/oz, up 1.78% on the day."
     }
   ]
 }
