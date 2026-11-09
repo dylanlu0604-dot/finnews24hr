@@ -1,7 +1,272 @@
 {
-  "updated": "2026-11-09 08:59:39",
-  "count": 10663,
+  "updated": "2026-11-09 09:03:47",
+  "count": 10665,
   "items": [
+    {
+      "id": "mkt:01a1bdd4-9356-7ee0-aaca-0286db621c3b",
+      "time": "2026-11-09 09:03:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's main live-hog futures contract rose 2.00% intraday to 9,360.00 yuan/ton."
+    },
+    {
+      "id": "5201872",
+      "time": "2026-11-09 09:02:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【來凱醫藥-B：LAE103在超重或肥胖受試者中的I期SAD研究成功完成】來凱醫藥-B(02105)釋出公告，本集團已在澳大利亞成功完成了LAE103(ActRIIB單克隆抗體)在超重或肥胖受試者中的I期單劑量遞增研究(SAD研究)。該SAD研究為一項隨機、雙盲、安慰劑對照研究，旨在評估LAE103(皮下注射)在超重或肥胖受試者中的安全性、耐受性、藥代動力學及藥效學特性。"
+    },
+    {
+      "id": "mkt:01a1bdd4-1135-7ee0-aac9-fd82260d1ff8",
+      "time": "2026-11-09 09:02:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Weighted Index opened 907.57 points higher, or 2.29%, at 40,609.21 on Monday, Nov. 9."
+    },
+    {
+      "id": "5201871",
+      "time": "2026-11-09 09:02:33",
+      "tags": [],
+      "text": "英偉達美股夜盤跌逾3％，此前黃仁勳承認婚外情並致歉，英偉達董事會啟動一項調查。"
+    },
+    {
+      "id": "mkt:01a1bdd3-c9ac-7ee0-aac9-f6d2473f0edf",
+      "time": "2026-11-09 09:02:15",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix shares up 3%."
+    },
+    {
+      "id": "mkt:01a1bdd3-b10a-7ee0-aac9-eb61806f0379",
+      "time": "2026-11-09 09:02:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "China's most-active palladium contract rose more than 2% to 247 yuan/gram."
+    },
+    {
+      "id": "5201870",
+      "time": "2026-11-09 09:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國電信釋出星辰超級智慧體V3.0】近日，中國電信自主研發的星辰超級智慧體TeleAgent正式升級至V3.0版本，在全國範圍內首次推出“智慧體+雲電腦”模式，同步升級多端協同、記憶同步、辦公生態與企業服務能力，實現3D建模、文件處理、程式碼生成、影片剪輯等智慧體任務的雲端執行。"
+    },
+    {
+      "id": "5201869",
+      "time": "2026-11-09 09:01:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺積電中國臺灣上市股票開盤上漲3%。"
+    },
+    {
+      "id": "5201868",
+      "time": "2026-11-09 09:01:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲3%。"
+    },
+    {
+      "id": "5201867",
+      "time": "2026-11-09 09:01:25",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利：下調美團和拼多多評級】摩根士丹利稱，將拼多多和美團的評級下調至平配；將美團目標價從110港元下調至90港元，拼多多目標價從129美元下調至90美元。將同程旅行目標價下調至17港元，快手目標價下調至31港元。阿里巴巴為首選，因其擁有差異化的人工智慧和雲端計算業務敞口，是中國網際網路行業中最佳的人工智慧投資標的。"
+    },
+    {
+      "id": "mkt:01a1bdd2-b6c1-7ee0-aac9-e27c62b6f23e",
+      "time": "2026-11-09 09:01:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver touched $53/oz, up 2.03% on the day."
+    },
+    {
+      "id": "5201866",
+      "time": "2026-11-09 09:01:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報3277.00元。"
+    },
+    {
+      "id": "mkt:01a1bdd2-b056-7ee0-aac9-dbfec5e7b49f",
+      "time": "2026-11-09 09:01:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI index was up 1.00% intraday."
+    },
+    {
+      "id": "mkt:01a1bdd2-a496-7ee0-aac9-d114e2a9df63",
+      "time": "2026-11-09 09:01:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Low-sulfur fuel oil (LU) front-month contract is up more than 2.00% intraday, trading at 5,220.00 yuan/ton."
+    },
+    {
+      "id": "mkt:01a1bdd2-9c01-7ee0-aac9-cc3023f0743a",
+      "time": "2026-11-09 09:00:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D was up 1.17% at 882.28 yuan/gram in early trade on Monday, Nov. 9; silver T+D was up 2.21% at 12,691.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a1bdd2-9139-7ee0-aac9-c739994fe2e6",
+      "time": "2026-11-09 09:00:55",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 futures opened 0.50% higher."
+    },
+    {
+      "id": "5201865",
+      "time": "2026-11-09 09:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲2.2%至40,562.20點。"
+    },
+    {
+      "id": "te:markets:599303",
+      "time": "2026-11-09 09:00:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Rebound After AI-Driven Selloff — The Nikkei 225 jumped more than 2% to above 58,800 on Monday, recovering part of last week’s steep losses as investor sentiment improved, with financial and consumer-related stocks leading the gains. Major banking stocks advanced, including Mitsubishi UFJ (4.6%), Sumitomo Mitsui (4.2%) and Mizuho Financial (4.8%). Retailers and automakers also posted solid gains, with Fast Retailing rising 2.7%, Nintendo gaining 3.4% and Toyota Motor climbing 2.1%. Last week, the Nikkei plunged more than 9%, marking its largest weekly decline since the COVID-19-driven market rout in March 2020. The selloff followed a Democratic sweep in the US midterm elections, which fueled concerns over tighter AI industry regulations and a possible slowdown in data center expansion. Given their significant exposure to the global AI infrastructure boom, Japanese technology companies remain particularly vulnerable to renewed weakness in the sector."
+    },
+    {
+      "id": "5201864",
+      "time": "2026-11-09 09:00:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲1%，現報984.00元。"
+    },
+    {
+      "id": "te:markets:599302",
+      "time": "2026-11-09 09:00:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Wheat Hits 18-week Low — Wheat decreased to 589.25 USd/Bu, the lowest since June 2026. Over the past 4 weeks, Wheat lost 12.08%, and in the last 12 months, it increased 10.32%."
+    },
+    {
+      "id": "mkt:01a1bdd2-011f-7ee0-aac9-bc51529aac81",
+      "time": "2026-11-09 09:00:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "At the open, China's main onshore futures were mixed. Platinum and glass led gains, up over 2%; soda ash nearly 2%. Methanol, fuel oil, low-sulfur fuel oil (LU), palladium, caustic soda, Shanghai tin and synthetic rubber advanced more than 1%. On the downside, container shipping rates to Europe slid over 2%; Shanghai zinc and palm oil fell more than 1%; asphalt, LPG, rapeseed oil and white sugar declined about 1%."
+    },
+    {
+      "id": "5201863",
+      "time": "2026-11-09 09:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高1.6%報40,347.28。"
+    },
+    {
+      "id": "5201862",
+      "time": "2026-11-09 09:00:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報52.97美元/盎司。"
+    },
+    {
+      "id": "5201861",
+      "time": "2026-11-09 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報3266.00元。"
+    },
+    {
+      "id": "5201860",
+      "time": "2026-11-09 09:00:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.53%。"
+    },
+    {
+      "id": "5201859",
+      "time": "2026-11-09 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破53美元/盎司，日內漲2.04%。"
+    },
+    {
+      "id": "5201858",
+      "time": "2026-11-09 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報52.99美元/盎司。"
+    },
+    {
+      "id": "5201857",
+      "time": "2026-11-09 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】鉑連續漲2.74%，線材連續跌2.19%，鈀連續漲2.15%，集運指數歐線期貨連續跌1.91%，甲醇連續漲1.71%。"
+    },
+    {
+      "id": "5201856",
+      "time": "2026-11-09 09:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4115.74美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1bdd1-563e-7ee0-aac9-b5967e13828b",
+      "time": "2026-11-09 08:59:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Axios, the Qatari prime minister will meet privately with US Vice President Vance before meeting Trump."
+    },
     {
       "id": "5201855",
       "time": "2026-11-09 08:59:05",
@@ -97493,273 +97758,6 @@
         "Precious Metals"
       ],
       "text": "Spot silver reclaimed $50/oz, up 1.78% on the day."
-    },
-    {
-      "id": "5186268",
-      "time": "2026-11-02 09:03:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破50美元/盎司，日內漲1.47%。"
-    },
-    {
-      "id": "5186267",
-      "time": "2026-11-02 09:02:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年“網際網路之光”博覽會今天開幕】今天，作為世界網際網路大會烏鎮峰會的重要活動板塊，2026年“網際網路之光”博覽會正式開幕。來自54個國家和地區的671家企業，展示了1000餘項新產品新技術。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a199c6-ce8e-7ee0-aa22-d557ad878676",
-      "time": "2026-11-02 09:01:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude hit an intraday low of $111/bbl, down 1.05% on the day."
-    },
-    {
-      "id": "5186266",
-      "time": "2026-11-02 09:01:43",
-      "tags": [
-        "市場",
-        "焦點",
-        "原創"
-      ],
-      "text": "【青花郎重挫10元再創月新低 習酒君品大跌7元 國窖1573六連陰 五糧液普五逆勢上漲】新浪財經“酒價內參”過去24小時收集的資料顯示，11月2日中國白酒業12大單品的終端零售均價一漲十跌一平，下跌品種佔據絕對優勢，累計跌幅遠超上漲端，整體價盤在昨日平盤整理後再度大幅下挫，重新整理階段性低點。上漲端，五糧液普五八代上漲4元至797元，二連陽且漲幅日增，價格重新逼近800元整數關口。下跌端，飛天茅臺下跌2元至1783元，連續第二日小幅回落，價格進一步滑向近期低位；精品茅臺下跌1元至2445元，昨日短暫上行後再度走低，平近30天最低紀錄；茅臺1935下跌1元至685元，結束昨日平盤，延續近期窄幅波動行情；青花汾20下跌5元至388元，昨日反彈漲幅悉數回吐，390元整十關口得而復失；國窖1573下跌2元至872元，六連陰持續探底，再創近30天價格新低；洋河夢之藍M6+下跌2元至599元，二連陰後跌破600元整數大關；古井貢古20下跌4元至515元，四連陰弱勢延續，進一步逼近前期創下的月內低谷；習酒君品大跌7元至626元，單日跌幅僅次於青花郎，亦跌至近30天最低位；青花郎重跌10元至665元，淪為今日跌幅最大單品，進一步重新整理近一個月最低紀錄；水晶劍南春下跌3元至408元，昨日短暫回升未能延續。持平方面，五糧液1618維持822元不變，連續第三日平盤，繼續停留在近一個月最低點。\n\n今日12大單品的終端零售總價再次明顯下探，十款產品價格下跌，僅五糧液普五八代逆勢上漲4元。多個品種跌幅突出，帶動整體價盤重心進一步下移。如果12大單品各取一瓶整體打包售賣，今日總售價為10605元，較昨日大跌33元，結束短暫平盤後再度下行，並創下一個半月以來最低紀錄。"
-    },
-    {
-      "id": "mkt:01a199c6-ad8b-7ee0-aa22-c8f05ab714bd",
-      "time": "2026-11-02 09:01:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sharpa co-founder says the AI robotics firm is not rushing mass delivery of humanoid robots."
-    },
-    {
-      "id": "5186265",
-      "time": "2026-11-02 09:01:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "小鵬汽車：小鵬MONA L03 10月交付超 20000 臺。"
-    },
-    {
-      "id": "mkt:01a199c6-789d-7ee0-aa22-c019203aeb6b",
-      "time": "2026-11-02 09:01:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "The Taiwan Weighted Index opened down 758.87 points (1.68%) at 44,452.96 on Monday, Nov. 2."
-    },
-    {
-      "id": "mkt:01a199c6-691e-7ee0-aa22-bffc477fa3a6",
-      "time": "2026-11-02 09:01:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Sharpa co-founder said current humanoid robots still lack the intelligence required for large-scale deployment."
-    },
-    {
-      "id": "mkt:01a199c6-4626-7ee0-aa22-b75b79b8547c",
-      "time": "2026-11-02 09:01:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Sharpa co-founder says the company plans long-term deployment of AI robots in F&B, hospitality and retail sectors."
-    },
-    {
-      "id": "5186264",
-      "time": "2026-11-02 09:01:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "蔚來：11月2日，NIO Power 10站上線 NO.4234 蔚來換電站。 截至今日，蔚來全國建成9,785座充換電站，其中換電站4,235座，充電站5,550座、充電樁32,194根，累計提供超1.2億次換電。"
-    },
-    {
-      "id": "mkt:01a199c6-1cc5-7ee0-aa22-ad64d1c24c9f",
-      "time": "2026-11-02 09:00:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D fell 2.62% in early trade on Monday to 835.31 yuan/gram; Silver T+D dropped 3.7% to 11,754 yuan/kg."
-    },
-    {
-      "id": "5186263",
-      "time": "2026-11-02 09:00:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌2%，現報111.15美元/桶。"
-    },
-    {
-      "id": "mkt:01a199c5-b2c2-7ee0-aa22-a303961bdab0",
-      "time": "2026-11-02 09:00:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "FTSE China A50 index futures opened 0.48% higher."
-    },
-    {
-      "id": "te:economy:597053",
-      "time": "2026-11-02 09:00:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Vietnam",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Vietnam Manufacturing Growth Picks Up — Vietnam’s S&P Global Manufacturing PMI rose to 52.3 in October 2026, picking up from a three-month low of 51.9 in the previous month. Manufacturing output expanded for another month, supported by stronger customer demand and continued growth in new orders. However, the pace of expansion eased to a six-month low, with some manufacturers reporting that difficulties sourcing raw materials had constrained production. Meanwhile, supplier delivery times lengthened to their greatest extent since April, largely due to higher fuel costs and adverse weather conditions. On the price front, input cost inflation rose for a second straight month to its fastest pace since June, but remained well below the spike recorded following the outbreak of the Middle East war. Manufacturers subsequently raised selling prices at a faster pace. Lastly, business confidence climbed to an eight-month high, reflecting optimism over improved raw material availability and further strengthening in market conditions."
-    },
-    {
-      "id": "mkt:01a199c5-9186-7ee0-aa22-9abde9790b3c",
-      "time": "2026-11-02 09:00:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "FTSE China A50 futures opened 0.45% higher."
-    },
-    {
-      "id": "5186262",
-      "time": "2026-11-02 09:00:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元下跌0.3%至32.580。"
-    },
-    {
-      "id": "5186261",
-      "time": "2026-11-02 09:00:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌1.5%至44,522.26點。"
-    },
-    {
-      "id": "mkt:01a199c5-7c10-7ee0-aa22-92f41ff44051",
-      "time": "2026-11-02 09:00:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "At the open, China's main commodity futures were mostly lower. Shanghai silver futures led losses, down more than 5%; Shanghai gold fell nearly 3%. Fuel oil, lithium carbonate and caustic soda declined over 2%; Shanghai tin, platinum and Shanghai nickel were down more than 1%. Advance leaders included methanol (over 4%) and propylene (near 4%); p-xylene, LPG, apples, polypropylene monthly-average and PTA were up over 3%, while styrene (EB) and plastics rose more than 2%."
-    },
-    {
-      "id": "5186260",
-      "time": "2026-11-02 09:00:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌5%，現報11754.00元。"
-    },
-    {
-      "id": "5186259",
-      "time": "2026-11-02 09:00:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開低0.4%報45,034.53。"
-    },
-    {
-      "id": "5186258",
-      "time": "2026-11-02 09:00:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內漲2%，現報884.00元。"
-    },
-    {
-      "id": "5186257",
-      "time": "2026-11-02 09:00:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】白銀連續跌4.85%，液化石油氣連續漲3.38%，燃料油連續跌3.33%，黃金連續跌2.95%，蘋果連續漲2.59%。"
-    },
-    {
-      "id": "5186256",
-      "time": "2026-11-02 09:00:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.46%。"
-    },
-    {
-      "id": "5186255",
-      "time": "2026-11-02 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內漲2%，現報10485.00元。"
-    },
-    {
-      "id": "5186254",
-      "time": "2026-11-02 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲1%，現報6696.00元。"
-    },
-    {
-      "id": "5186253",
-      "time": "2026-11-02 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲2%，現報3541.00元。"
-    },
-    {
-      "id": "5186252",
-      "time": "2026-11-02 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌4%，現報11763.00元。"
-    },
-    {
-      "id": "5186251",
-      "time": "2026-11-02 08:59:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌2%，現報102.02美元/桶。"
     }
   ]
 }

@@ -1,7 +1,272 @@
 {
   "date": "2026-11-09",
-  "count": 389,
+  "count": 419,
   "items": [
+    {
+      "id": "mkt:01a1bdd4-9356-7ee0-aaca-0286db621c3b",
+      "time": "2026-11-09 09:03:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's main live-hog futures contract rose 2.00% intraday to 9,360.00 yuan/ton."
+    },
+    {
+      "id": "5201872",
+      "time": "2026-11-09 09:02:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【來凱醫藥-B：LAE103在超重或肥胖受試者中的I期SAD研究成功完成】來凱醫藥-B(02105)釋出公告，本集團已在澳大利亞成功完成了LAE103(ActRIIB單克隆抗體)在超重或肥胖受試者中的I期單劑量遞增研究(SAD研究)。該SAD研究為一項隨機、雙盲、安慰劑對照研究，旨在評估LAE103(皮下注射)在超重或肥胖受試者中的安全性、耐受性、藥代動力學及藥效學特性。"
+    },
+    {
+      "id": "mkt:01a1bdd4-1135-7ee0-aac9-fd82260d1ff8",
+      "time": "2026-11-09 09:02:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Weighted Index opened 907.57 points higher, or 2.29%, at 40,609.21 on Monday, Nov. 9."
+    },
+    {
+      "id": "5201871",
+      "time": "2026-11-09 09:02:33",
+      "tags": [],
+      "text": "英偉達美股夜盤跌逾3％，此前黃仁勳承認婚外情並致歉，英偉達董事會啟動一項調查。"
+    },
+    {
+      "id": "mkt:01a1bdd3-c9ac-7ee0-aac9-f6d2473f0edf",
+      "time": "2026-11-09 09:02:15",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix shares up 3%."
+    },
+    {
+      "id": "mkt:01a1bdd3-b10a-7ee0-aac9-eb61806f0379",
+      "time": "2026-11-09 09:02:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "China's most-active palladium contract rose more than 2% to 247 yuan/gram."
+    },
+    {
+      "id": "5201870",
+      "time": "2026-11-09 09:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國電信釋出星辰超級智慧體V3.0】近日，中國電信自主研發的星辰超級智慧體TeleAgent正式升級至V3.0版本，在全國範圍內首次推出“智慧體+雲電腦”模式，同步升級多端協同、記憶同步、辦公生態與企業服務能力，實現3D建模、文件處理、程式碼生成、影片剪輯等智慧體任務的雲端執行。"
+    },
+    {
+      "id": "5201869",
+      "time": "2026-11-09 09:01:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺積電中國臺灣上市股票開盤上漲3%。"
+    },
+    {
+      "id": "5201868",
+      "time": "2026-11-09 09:01:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲3%。"
+    },
+    {
+      "id": "5201867",
+      "time": "2026-11-09 09:01:25",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利：下調美團和拼多多評級】摩根士丹利稱，將拼多多和美團的評級下調至平配；將美團目標價從110港元下調至90港元，拼多多目標價從129美元下調至90美元。將同程旅行目標價下調至17港元，快手目標價下調至31港元。阿里巴巴為首選，因其擁有差異化的人工智慧和雲端計算業務敞口，是中國網際網路行業中最佳的人工智慧投資標的。"
+    },
+    {
+      "id": "mkt:01a1bdd2-b6c1-7ee0-aac9-e27c62b6f23e",
+      "time": "2026-11-09 09:01:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver touched $53/oz, up 2.03% on the day."
+    },
+    {
+      "id": "5201866",
+      "time": "2026-11-09 09:01:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報3277.00元。"
+    },
+    {
+      "id": "mkt:01a1bdd2-b056-7ee0-aac9-dbfec5e7b49f",
+      "time": "2026-11-09 09:01:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI index was up 1.00% intraday."
+    },
+    {
+      "id": "mkt:01a1bdd2-a496-7ee0-aac9-d114e2a9df63",
+      "time": "2026-11-09 09:01:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Low-sulfur fuel oil (LU) front-month contract is up more than 2.00% intraday, trading at 5,220.00 yuan/ton."
+    },
+    {
+      "id": "mkt:01a1bdd2-9c01-7ee0-aac9-cc3023f0743a",
+      "time": "2026-11-09 09:00:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D was up 1.17% at 882.28 yuan/gram in early trade on Monday, Nov. 9; silver T+D was up 2.21% at 12,691.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a1bdd2-9139-7ee0-aac9-c739994fe2e6",
+      "time": "2026-11-09 09:00:55",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 futures opened 0.50% higher."
+    },
+    {
+      "id": "5201865",
+      "time": "2026-11-09 09:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲2.2%至40,562.20點。"
+    },
+    {
+      "id": "te:markets:599303",
+      "time": "2026-11-09 09:00:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Rebound After AI-Driven Selloff — The Nikkei 225 jumped more than 2% to above 58,800 on Monday, recovering part of last week’s steep losses as investor sentiment improved, with financial and consumer-related stocks leading the gains. Major banking stocks advanced, including Mitsubishi UFJ (4.6%), Sumitomo Mitsui (4.2%) and Mizuho Financial (4.8%). Retailers and automakers also posted solid gains, with Fast Retailing rising 2.7%, Nintendo gaining 3.4% and Toyota Motor climbing 2.1%. Last week, the Nikkei plunged more than 9%, marking its largest weekly decline since the COVID-19-driven market rout in March 2020. The selloff followed a Democratic sweep in the US midterm elections, which fueled concerns over tighter AI industry regulations and a possible slowdown in data center expansion. Given their significant exposure to the global AI infrastructure boom, Japanese technology companies remain particularly vulnerable to renewed weakness in the sector."
+    },
+    {
+      "id": "5201864",
+      "time": "2026-11-09 09:00:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲1%，現報984.00元。"
+    },
+    {
+      "id": "te:markets:599302",
+      "time": "2026-11-09 09:00:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Wheat Hits 18-week Low — Wheat decreased to 589.25 USd/Bu, the lowest since June 2026. Over the past 4 weeks, Wheat lost 12.08%, and in the last 12 months, it increased 10.32%."
+    },
+    {
+      "id": "mkt:01a1bdd2-011f-7ee0-aac9-bc51529aac81",
+      "time": "2026-11-09 09:00:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "At the open, China's main onshore futures were mixed. Platinum and glass led gains, up over 2%; soda ash nearly 2%. Methanol, fuel oil, low-sulfur fuel oil (LU), palladium, caustic soda, Shanghai tin and synthetic rubber advanced more than 1%. On the downside, container shipping rates to Europe slid over 2%; Shanghai zinc and palm oil fell more than 1%; asphalt, LPG, rapeseed oil and white sugar declined about 1%."
+    },
+    {
+      "id": "5201863",
+      "time": "2026-11-09 09:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高1.6%報40,347.28。"
+    },
+    {
+      "id": "5201862",
+      "time": "2026-11-09 09:00:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報52.97美元/盎司。"
+    },
+    {
+      "id": "5201861",
+      "time": "2026-11-09 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報3266.00元。"
+    },
+    {
+      "id": "5201860",
+      "time": "2026-11-09 09:00:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.53%。"
+    },
+    {
+      "id": "5201859",
+      "time": "2026-11-09 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破53美元/盎司，日內漲2.04%。"
+    },
+    {
+      "id": "5201858",
+      "time": "2026-11-09 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報52.99美元/盎司。"
+    },
+    {
+      "id": "5201857",
+      "time": "2026-11-09 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】鉑連續漲2.74%，線材連續跌2.19%，鈀連續漲2.15%，集運指數歐線期貨連續跌1.91%，甲醇連續漲1.71%。"
+    },
+    {
+      "id": "5201856",
+      "time": "2026-11-09 09:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4115.74美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1bdd1-563e-7ee0-aac9-b5967e13828b",
+      "time": "2026-11-09 08:59:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Axios, the Qatari prime minister will meet privately with US Vice President Vance before meeting Trump."
+    },
     {
       "id": "5201855",
       "time": "2026-11-09 08:59:05",
