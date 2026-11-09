@@ -1,7 +1,153 @@
 {
-  "updated": "2026-11-09 22:01:53",
-  "count": 10616,
+  "updated": "2026-11-09 22:06:03",
+  "count": 10623,
   "items": [
+    {
+      "id": "mkt:01a1c0a0-9ea8-7ee0-aada-0a66c3b1d656",
+      "time": "2026-11-09 22:05:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Han Zheng and Turkish Vice President Yilmaz jointly attend China–Turkey Green Development Business Forum; deliver remarks】Istanbul, Nov 9 (local time) — Vice President Han Zheng and Turkish Vice President Yilmaz jointly attended the China–Turkey Green Development Business Forum. Han said bilateral ties have developed healthily and stably under leaders’ strategic guidance; Turkey is an important trade partner in West Asia and a Belt and Road partner. China is willing to work with Turkey to implement leaders’ consensus, deepen pragmatic cooperation across fields, and advance the strategic partnership to a higher level."
+    },
+    {
+      "id": "5203774",
+      "time": "2026-11-09 22:04:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兩艘移民船在希臘海域遇險共造成20人死亡】據希臘國家廣播電視公司9日報道，一艘移民船當天凌晨在該國南部克里特島以南海域被發現，船上12人死亡。另據希臘海岸警衛隊當天通報，在另一起救援行動中共發現8具遺體。（新華社）"
+    },
+    {
+      "id": "5203773",
+      "time": "2026-11-09 22:04:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價盤前延續跌勢，最新下跌5.9%。"
+    },
+    {
+      "id": "5203772",
+      "time": "2026-11-09 22:03:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "*STOKE Space將擴大發射能力，以支援Planet Labs的衛星星座。"
+    },
+    {
+      "id": "mkt:01a1c09f-4dbe-7ee0-aada-0202ff4dec44",
+      "time": "2026-11-09 22:03:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) unveiled GR00T 2, Isaac Lab 3.0 and a new open benchmark at the CoRL conference."
+    },
+    {
+      "id": "mkt:01a1c09f-158a-7ee0-aad9-f85be391a5be",
+      "time": "2026-11-09 22:03:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "French 10-year government bond yield fell to about 4.69%, the lowest since Sept. 25."
+    },
+    {
+      "id": "5203771",
+      "time": "2026-11-09 22:03:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達在CoRL大會上推出GR00T 2、Isaac Lab 3.0及新的開放基準測試。"
+    },
+    {
+      "id": "mkt:01a1c09e-8db7-7ee0-aad9-f23153ebaa8c",
+      "time": "2026-11-09 22:02:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O): AWS Health Impact program will run for five years."
+    },
+    {
+      "id": "mkt:01a1c09e-66a0-7ee0-aad9-e92b82c37144",
+      "time": "2026-11-09 22:02:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "The Information reports Meta Platforms (META.O) plans to form a sales team and establish consulting partnerships to target large enterprise clients."
+    },
+    {
+      "id": "5203770",
+      "time": "2026-11-09 22:02:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Adobe與迪士尼公佈多年期合作伙伴關係。"
+    },
+    {
+      "id": "5203769",
+      "time": "2026-11-09 22:02:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：AWS 健康影響計劃為期五年。"
+    },
+    {
+      "id": "5203768",
+      "time": "2026-11-09 22:02:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：AWS承諾投入1億美元用於人工智慧和雲技術，幫助全球機構擴充套件健康服務。"
+    },
+    {
+      "id": "mkt:01a1c09d-fd96-7ee0-aad9-e6c683ee4fde",
+      "time": "2026-11-09 22:02:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O): Amazon Web Services (AWS) will commit $100 million to AI and cloud technologies to help global institutions scale health services."
+    },
+    {
+      "id": "5203767",
+      "time": "2026-11-09 22:01:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "據報道，Meta計劃組建面向大型諮詢公司的銷售團隊。"
+    },
+    {
+      "id": "5203766",
+      "time": "2026-11-09 22:01:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：與印度總理莫迪進行了交談，並向他通報了當前外交局勢。糧食安全可以成為合作領域之一。我們討論了俄羅斯如何阻撓黑海糧食出口。印度願意擔任調解方，推動建立糧食運輸走廊，我們期待相關努力能夠繼續推進。"
+    },
     {
       "id": "5203765",
       "time": "2026-11-09 22:01:03",
@@ -97126,77 +97272,6 @@
         "Importance 0"
       ],
       "text": "Brent Crude Falls Further — Brent crude prices extended their decline on Monday, falling 7% to below $105 a barrel as hopes for a diplomatic resolution to the US-Iran conflict eased concerns about further supply disruptions. According to Iran’s state-run IRNA news agency, the country’s supreme leader approved the government’s pursuit of talks aimed at ending the months-long conflict that has disrupted Middle East energy supplies. This followed reports that US President Donald Trump also wanted to give diplomacy more time before considering renewed military action, telling Israeli Prime Minister Benjamin Netanyahu that he preferred negotiations. US Secretary of State Marco Rubio reiterated that Trump favoured a peaceful resolution, while Iranian officials signalled that an agreement remained possible following two days of Qatar-mediated discussions, provided commitments were implemented in practice."
-    },
-    {
-      "id": "5187881",
-      "time": "2026-11-02 22:05:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國出口商向墨西哥出售了1729740噸玉米。"
-    },
-    {
-      "id": "5187880",
-      "time": "2026-11-02 22:05:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊總統：伊朗最高領袖已賦予政府在談判領域一定的權力】當地時間11月2日，伊朗總統佩澤希齊揚表示，政府正努力透過對話解決問題，在這方面，伊朗最高領袖也賦予了政府一定的權力。佩澤希齊揚強調，敵人無法透過戰爭讓伊朗投降，“我們將堅決抵制他們的謊言和誇大其詞，因此，我們必須努力增強人民的韌性，解決他們的關切和擔憂”。佩澤希齊揚表示，必須在伊朗人民的支援與合作下，克服敵人給伊朗造成的挑戰和危機。政府正在努力透過對話解決問題，在這方面，伊朗最高領袖也賦予了政府一定的權力。（央視新聞）"
-    },
-    {
-      "id": "te:markets:597326",
-      "time": "2026-11-02 22:04:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Arabica Coffee Futures Rally — Arabica coffee futures surged above $2.9 per pound, rebounding recent one-month lows hit in the last week of October. The market remains caught between signs of limited availability in the short term and prospects for increased production in the coming months. Despite rising coffee arrivals at ICE-accredited warehouses, particularly from Brazil, certified Arabica inventories remain historically low. Total stocks stood at 225,068 bags on October 29, remaining close to the 27-year lows recorded in mid-September, while nearly 44,000 bags were awaiting classification. Meanwhile, market attention remains focused on weather conditions in top producer Brazil for the development of the next crop. Conditions have so far remained favourable, although concerns persist over the uneven distribution of rainfall across key producing regions and the potential impact of the El Niño phenomenon. A weaker Brazilian real added to the downward pressure."
-    },
-    {
-      "id": "te:markets:597325",
-      "time": "2026-11-02 22:03:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Extends Losses to Over 7% — Crude oil prices extended their decline on Monday, falling more than 7% to below $95 a barrel as hopes for a diplomatic resolution to the US-Iran conflict eased concerns about further supply disruptions. According to Iran’s state-run IRNA news agency, the country’s supreme leader approved the government’s pursuit of talks aimed at ending the months-long conflict that has disrupted Middle East energy supplies. This followed reports that US President Donald Trump also wanted to give diplomacy more time before considering renewed military action, telling Israeli Prime Minister Benjamin Netanyahu that he preferred negotiations. US Secretary of State Marco Rubio reiterated that Trump favoured a peaceful resolution, while Iranian officials signalled that an agreement remained possible following two days of Qatar-mediated discussions, provided commitments were implemented in practice."
-    },
-    {
-      "id": "5187879",
-      "time": "2026-11-02 22:03:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中科星圖推出星圖智源GEOVIS iPipe地下市政管理平臺】11月2日，中科星圖釋出訊息，中科星圖推出中科星圖智源 GEOVIS iPipe 地下市政管理平臺，是面向城市地下管網全生命週期管理打造的硬核智慧數字底座。平臺以\"一庫雙網雙平臺·N應用\"一體化架構，貫通管線設計審查、竣工測量、監理入庫、資料管理、三維管理、健康評價、查詢出圖、檔案管理八大業務環節，讓地下管線從\"各自留檔\"走向全生命週期協同管理。"
-    },
-    {
-      "id": "5187877",
-      "time": "2026-11-02 22:03:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其主要的 BIST-100 指數<.XU100>上漲 2%，主要銀行指數<.XBANK>上漲 4.3%。"
-    },
-    {
-      "id": "5187876",
-      "time": "2026-11-02 22:03:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "達信收購Triton保險代理公司。"
-    },
-    {
-      "id": "5187875",
-      "time": "2026-11-02 22:03:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "金佰利完成對Kenvue的收購，打造全球領先的消費健康與保健企業。"
     }
   ]
 }

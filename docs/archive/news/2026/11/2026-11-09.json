@@ -1,7 +1,153 @@
 {
   "date": "2026-11-09",
-  "count": 1342,
+  "count": 1357,
   "items": [
+    {
+      "id": "mkt:01a1c0a0-9ea8-7ee0-aada-0a66c3b1d656",
+      "time": "2026-11-09 22:05:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Han Zheng and Turkish Vice President Yilmaz jointly attend China–Turkey Green Development Business Forum; deliver remarks】Istanbul, Nov 9 (local time) — Vice President Han Zheng and Turkish Vice President Yilmaz jointly attended the China–Turkey Green Development Business Forum. Han said bilateral ties have developed healthily and stably under leaders’ strategic guidance; Turkey is an important trade partner in West Asia and a Belt and Road partner. China is willing to work with Turkey to implement leaders’ consensus, deepen pragmatic cooperation across fields, and advance the strategic partnership to a higher level."
+    },
+    {
+      "id": "5203774",
+      "time": "2026-11-09 22:04:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兩艘移民船在希臘海域遇險共造成20人死亡】據希臘國家廣播電視公司9日報道，一艘移民船當天凌晨在該國南部克里特島以南海域被發現，船上12人死亡。另據希臘海岸警衛隊當天通報，在另一起救援行動中共發現8具遺體。（新華社）"
+    },
+    {
+      "id": "5203773",
+      "time": "2026-11-09 22:04:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價盤前延續跌勢，最新下跌5.9%。"
+    },
+    {
+      "id": "5203772",
+      "time": "2026-11-09 22:03:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "*STOKE Space將擴大發射能力，以支援Planet Labs的衛星星座。"
+    },
+    {
+      "id": "mkt:01a1c09f-4dbe-7ee0-aada-0202ff4dec44",
+      "time": "2026-11-09 22:03:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) unveiled GR00T 2, Isaac Lab 3.0 and a new open benchmark at the CoRL conference."
+    },
+    {
+      "id": "mkt:01a1c09f-158a-7ee0-aad9-f85be391a5be",
+      "time": "2026-11-09 22:03:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "French 10-year government bond yield fell to about 4.69%, the lowest since Sept. 25."
+    },
+    {
+      "id": "5203771",
+      "time": "2026-11-09 22:03:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達在CoRL大會上推出GR00T 2、Isaac Lab 3.0及新的開放基準測試。"
+    },
+    {
+      "id": "mkt:01a1c09e-8db7-7ee0-aad9-f23153ebaa8c",
+      "time": "2026-11-09 22:02:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O): AWS Health Impact program will run for five years."
+    },
+    {
+      "id": "mkt:01a1c09e-66a0-7ee0-aad9-e92b82c37144",
+      "time": "2026-11-09 22:02:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "The Information reports Meta Platforms (META.O) plans to form a sales team and establish consulting partnerships to target large enterprise clients."
+    },
+    {
+      "id": "5203770",
+      "time": "2026-11-09 22:02:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Adobe與迪士尼公佈多年期合作伙伴關係。"
+    },
+    {
+      "id": "5203769",
+      "time": "2026-11-09 22:02:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：AWS 健康影響計劃為期五年。"
+    },
+    {
+      "id": "5203768",
+      "time": "2026-11-09 22:02:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：AWS承諾投入1億美元用於人工智慧和雲技術，幫助全球機構擴充套件健康服務。"
+    },
+    {
+      "id": "mkt:01a1c09d-fd96-7ee0-aad9-e6c683ee4fde",
+      "time": "2026-11-09 22:02:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O): Amazon Web Services (AWS) will commit $100 million to AI and cloud technologies to help global institutions scale health services."
+    },
+    {
+      "id": "5203767",
+      "time": "2026-11-09 22:01:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "據報道，Meta計劃組建面向大型諮詢公司的銷售團隊。"
+    },
+    {
+      "id": "5203766",
+      "time": "2026-11-09 22:01:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：與印度總理莫迪進行了交談，並向他通報了當前外交局勢。糧食安全可以成為合作領域之一。我們討論了俄羅斯如何阻撓黑海糧食出口。印度願意擔任調解方，推動建立糧食運輸走廊，我們期待相關努力能夠繼續推進。"
+    },
     {
       "id": "5203765",
       "time": "2026-11-09 22:01:03",
