@@ -1,7 +1,64 @@
 {
   "date": "2026-11-09",
-  "count": 899,
+  "count": 906,
   "items": [
+    {
+      "id": "5202795",
+      "time": "2026-11-09 14:05:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "全日空與越南航空簽署合資協議。"
+    },
+    {
+      "id": "mkt:01a1bee9-46f3-7ee0-aacf-04821be1a298",
+      "time": "2026-11-09 14:05:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "2330.TW",
+        "Impact bullish"
+      ],
+      "text": "【Taiwan stocks close nearly 5% higher; Asian EM currencies show mixed, muted moves】Taiwan's benchmark index rose as much as 6.6% intraday—its biggest one-day gain since July—and closed nearly 5% higher. TSMC, which accounts for roughly 40% of the index's weighting, climbed more than 7% intraday as investors rotated back into tech after last week's AI-related sell-off; semiconductor names led gains across East Asia. Currencies were more subdued: the South Korean won outperformed, strengthening to 1,356.20 per USD. Mitsubishi UFJ Financial Group analysts said Asian FX is increasingly driven by the global tech cycle and cross-border portfolio flows, with the won especially sensitive to semiconductor performance. Philippine assets came under pressure after data showed economic growth slowed for a fifth consecutive quarter. Indonesian equities gained about 1% but were capped by investor concern over continued inclusion in the MSCI Emerging Markets index; the rupiah weakened to 18,105 per USD, near this year's low of 18,190."
+    },
+    {
+      "id": "te:markets:599428",
+      "time": "2026-11-09 14:05:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Reverses Early Losses to Close Higher — The ASX 200 added 21 points, or 0.2%, to end at 9,030 on Monday, swinging from early losses amid gains in non-energy minerals, tech, and logistics. Stronger U.S. stock futures lifted sentiment as traders assessed the tech sector's recovery ahead of key inflation data and earnings from major AI companies. Locally, RBA data showed the value of transactions through Australia's New Payments Platform jumped 29% yoy in September. In main trading partner China, annual inflation slowed to a three-month low of 0.7% in October, while producer prices rose the most in over four years amid firmer commodity prices and improving industrial demand. Goodman Group gained 1.9% after partnering with Digital Realty to buy a 9.9% stake in NextDC. Gold miners also advanced, led by Evolution Mining (5.3%) and Northern Star Resources (0.8%), while mining giant BHP climbed 2.9%. In contrast, all four big banks fell, with ANZ down 3.4% after reporting slightly weaker-than-expected FY 2026 operating income."
+    },
+    {
+      "id": "5202794",
+      "time": "2026-11-09 14:04:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭元兌美元在紐西蘭選舉後的漲幅擴大至1%。"
+    },
+    {
+      "id": "5202792",
+      "time": "2026-11-09 14:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "裕信銀行第三季度營收69.0億歐元，預估64.7億歐元。\n第三季度淨利潤32.6億歐元，預估28億歐元。\n第三季度淨利息收入38.3億歐元，預估37.2億歐元。\n第三季度手續費及佣金淨收入22.8億歐元，預估22.4億歐元。\n第三季度交易利潤2.93億歐元，預估1.008億歐元。\n第三季度除稅前利潤42.6億歐元，預估38.4億歐元。"
+    },
+    {
+      "id": "5202791",
+      "time": "2026-11-09 14:02:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美眾院民主黨領袖：防長赫格塞思“必須走人”】美國眾議院民主黨領袖哈基姆·傑弗里斯8日在接受美國廣播公司採訪時，表示“強烈支援”彈劾國防部長赫格塞思，認為其“必須走人”，堅決對彈劾決議投贊成票，指責其濫用權力、損害國家安全，策劃“輕率且代價高昂的”伊朗戰事，導致物價飛漲、國家安全受威脅。他表示將於10日上午與眾議院其他民主黨人討論彈劾事宜，相信將獲得強力支援。共和黨眾議員梅西表示最早將於9日再次提出彈劾議案。特朗普在8日接受採訪時表示對赫格塞思“有信心”，彈劾呼籲“不公平”。（新華社）"
+    },
     {
       "id": "5202790",
       "time": "2026-11-09 14:02:13",
@@ -82,6 +139,14 @@
         "其他"
       ],
       "text": "【阿里雲Token Plan今日起額度上調70%以上】今日，阿里雲上調Token Plan個人版訂閱額度，Lite、Essential、Standard三檔套餐月費不變，月度額度提升約74%至78%。具體來看，Lite套餐額度由1.15萬Credits提升至2萬Credits，月費39元；Essential套餐額度由2.55萬提升至4.5萬Credits，月費79元；Standard套餐額度由4.5萬提升至8萬Credits，月費139元。最高一檔的Pro套餐同時調整了額度和價格：額度由18萬提升至20萬Credits，月費由499元降至312元，降幅約37.5%。按月費除以月度額度測算，Lite、Essential、Standard、Pro四檔的單位額度成本分別下降約42.5%、43.3%、43.8%和43.7%，降幅均超過四成。（阿里雲）"
+    },
+    {
+      "id": "5202781",
+      "time": "2026-11-09 13:57:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "肯亞中央銀行將於12月9日舉行下一次利率決議會議。"
     },
     {
       "id": "5202780",
