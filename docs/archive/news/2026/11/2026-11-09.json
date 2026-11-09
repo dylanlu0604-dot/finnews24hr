@@ -1,7 +1,35 @@
 {
   "date": "2026-11-09",
-  "count": 806,
+  "count": 809,
   "items": [
+    {
+      "id": "te:economy:599411",
+      "time": "2026-11-09 13:08:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Japan Leading Economic Index Falls to 3-Month Low — Japan’s leading economic index, which gauges the outlook for economic activity in the coming months using indicators such as job offers and consumer sentiment, declined to 116.4 in September 2026, from a final reading of 118.0 in August, preliminary data showed. It was the lowest level since June, amid continued price pressures. Annual inflation in September was the highest since December 2025, while core inflation exceeded the BoJ’s 2% target for the first time in nine months, amid high oil prices. The acceleration in inflation came despite the government’s record fiscal budget, which included comprehensive measures to ease cost-of-living pressures and emergency energy support to cushion the impact of the Middle East conflict. Meanwhile, consumer confidence weakened slightly, and the unemployment rate edged down in September, with the number of unemployed people declining by 100,000 while employment increased by 340,000, pointing to resilient labor market conditions."
+    },
+    {
+      "id": "5202725",
+      "time": "2026-11-09 13:07:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指、深成指雙雙翻綠。"
+    },
+    {
+      "id": "5202724",
+      "time": "2026-11-09 13:05:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾特表示：如有需要，不排除使用其他政策工具。"
+    },
     {
       "id": "5202723",
       "time": "2026-11-09 13:05:02",

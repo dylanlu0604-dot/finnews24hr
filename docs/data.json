@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-09 13:05:37",
+  "updated": "2026-11-09 13:09:21",
   "count": 10726,
   "items": [
+    {
+      "id": "te:economy:599411",
+      "time": "2026-11-09 13:08:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Japan Leading Economic Index Falls to 3-Month Low — Japan’s leading economic index, which gauges the outlook for economic activity in the coming months using indicators such as job offers and consumer sentiment, declined to 116.4 in September 2026, from a final reading of 118.0 in August, preliminary data showed. It was the lowest level since June, amid continued price pressures. Annual inflation in September was the highest since December 2025, while core inflation exceeded the BoJ’s 2% target for the first time in nine months, amid high oil prices. The acceleration in inflation came despite the government’s record fiscal budget, which included comprehensive measures to ease cost-of-living pressures and emergency energy support to cushion the impact of the Middle East conflict. Meanwhile, consumer confidence weakened slightly, and the unemployment rate edged down in September, with the number of unemployed people declining by 100,000 while employment increased by 340,000, pointing to resilient labor market conditions."
+    },
+    {
+      "id": "5202725",
+      "time": "2026-11-09 13:07:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指、深成指雙雙翻綠。"
+    },
+    {
+      "id": "5202724",
+      "time": "2026-11-09 13:05:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾特表示：如有需要，不排除使用其他政策工具。"
+    },
     {
       "id": "5202723",
       "time": "2026-11-09 13:05:02",
@@ -98159,36 +98187,6 @@
         "Importance 1"
       ],
       "text": "Heating Oil Slides to 4-Week Low — US heating oil prices fell to $4.56 per gallon, their lowest in four weeks, as Qatari-mediated talks to resolve the US-Iran conflict helped ease concerns over renewed hostilities. US Secretary of State Marco Rubio also said on Saturday that President Trump had not made a decision on fresh strikes against Iran and that Washington remained open to a diplomatic solution. Prices also declined amid prospects of increased fuel supplies. Europe plans to release 42 million barrels from strategic reserves over three months, half of which will be diesel, while additional Chinese export quotas and higher production elsewhere are expected to improve availability. Potentially higher Russian diesel shipments to the US and global markets could also help ease supply tightness following temporary US Treasury authorization for certain transactions involving Russian diesel. However, supply constraints persist, with inventories remaining 10% below their 5-year seasonal average as of October 23."
-    },
-    {
-      "id": "em:qqyh_rbyh:202611023918522396",
-      "time": "2026-11-02 13:07:19",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行：潛在通脹已加速至約2%】日本央行稱，潛在通脹已加速至約2%，近年來正逐步在該水平附近固化。實際利率的中位數均值仍處於低位。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202611023918522396",
-      "time": "2026-11-02 13:07:19",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "【日本央行：潛在通脹已加速至約2%】日本央行稱，潛在通脹已加速至約2%，近年來正逐步在該水平附近固化。實際利率的中位數均值仍處於低位。"
-    },
-    {
-      "id": "te:markets:597118",
-      "time": "2026-11-02 13:06:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Ends 0.7% Lower, Snaps 3-Day Winning Streak — The NZX 50 shed 98 points, or 0.7%, to close at 13,699 on Monday, halting gains from the prior three sessions and tracking a decline on Wall Street on Friday due to a sell-off in major tech stocks. Caution also built ahead of the release of New Zealand's Q3 unemployment data due later this week, while traders remained concerned about signals of a possible interest rate hike at the RBNZ's December meeting amid the risk of rising inflation. Disappointing Chinese PMI data also pressured sentiment, as the government's survey showed that factory activity unexpectedly contracted in October, while the private survey showed that manufacturing growth eased. However, moderating oil prices eased inflation concerns. The broader index moved away from its highest level since October 15, touched on Friday, mainly weighed down by materials and healthcare. Notable losers included Fisher & Paykel (-3.2%), Chorus (-2.0%), Freightways Group (-2.0%), and Westpac Banking Corp. (-1.1%)."
     }
   ]
 }
