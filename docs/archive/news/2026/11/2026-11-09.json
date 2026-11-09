@@ -1,7 +1,52 @@
 {
   "date": "2026-11-09",
-  "count": 337,
+  "count": 342,
   "items": [
+    {
+      "id": "5201823",
+      "time": "2026-11-09 08:28:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普：預計俄烏戰爭結束後 烏克蘭版圖將“略有不同”】特朗普總統在回答哥倫比亞廣播公司（CBS）的提問時表示，烏克蘭“最終的版圖會略有不同”。在談及結束俄烏戰爭時，他說：“我認為我們會搞定這件事，而且我認為這事會發生。”"
+    },
+    {
+      "id": "5201822",
+      "time": "2026-11-09 08:26:55",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：建議在行業底部增加對白酒頭部酒企的配置】中信證券研報表示，2026Q3，食品飲料板塊基金持倉規模和佔比均企穩回升，主要因Q3科技投資行情回落後，部分資金迴歸基本面已企穩、股息回報具備吸引力的消費龍頭。分子板塊來看，Q3白酒持倉佔比提升最為明顯，大眾品中乳製品持倉佔比回升最多，其他子板塊基本均有不同程度的環比回升。從個股看，白酒龍頭仍為基金重倉主力，貴州茅臺、山西汾酒、古井貢酒等重倉基金數均有增加，乳製品和餐供龍頭倉位較為穩健。投資建議方面，建議在行業底部增加對白酒頭部酒企的配置；大眾品建議三條主線：1）競爭改善維度。2）高股息維度。3）大健康成長景氣維度。"
+    },
+    {
+      "id": "mkt:01a1bdb2-9afd-7ee0-aac9-4f386e3f1982",
+      "time": "2026-11-09 08:26:01",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【GF Securities: CNY100bln swap facility rolled out; monitor securities-sector recovery opportunities】GF Securities said in a research note the PBOC conducted the third SFISF swap on Nov. 3 for CNY100bln at a 10bp bid rate; by Nov. 6, 26 brokerages had confirmed winning bids. The note said stock-buyback reloan support has been converted into a long-term institutional facility with a lower interest rate, the CSRC will refine protective repurchase rules, and exchanges will work with regulators to ease margin-trading and securities-lending risk metrics to modestly free up financing capacity. The first batch of 18 active ETFs raised over CNY35bln and will accelerate building positions, and the Shanghai and Shenzhen exchanges revised mandatory Stock Connect risk-disclosure clauses for Hong Kong stocks. GF said the swap facility, alongside a fuller market-stabilization toolkit and countercyclical margin adjustments, could speed a shift into equities, boost trading liquidity and expand brokers’ business scope."
+    },
+    {
+      "id": "5201821",
+      "time": "2026-11-09 08:25:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "當被問及魯比奧是否會繼續擔任國務卿時，特朗普表示“我認為會”。"
+    },
+    {
+      "id": "5201820",
+      "time": "2026-11-09 08:25:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣發證券：千億互換便利落地，關注證券板塊修復機會】廣發證券研報表示，千億互換便利落地，穩市政策持續加碼，關注證券板塊修復機會。11月3日，人民銀行開展第三批互換便利（SFISF）操作，規模達1000億元（中標費率10bp），截至11月6日已有26家券商確認中標。制度建設方面，股票回購增持再貸款轉為長期制度性安排且利率下調，證監會擬最佳化護盤式回購規則，並會同交易所研究最佳化兩融風控指標以適度釋放融資空間；首批18只主動ETF募集超350億元並將加快建倉；滬深交易所修訂港股通風險揭示書必備條款。總體來看，互換便利加速向權益配置轉化，疊加穩市場工具箱完善與兩融逆週期調節推進，有望提振市場交投活躍度並拓寬券商業務空間。"
+    },
     {
       "id": "5201817",
       "time": "2026-11-09 08:23:43",
