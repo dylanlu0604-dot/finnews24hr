@@ -1,7 +1,87 @@
 {
-  "updated": "2026-11-09 13:47:27",
-  "count": 10775,
+  "updated": "2026-11-09 13:51:21",
+  "count": 10783,
   "items": [
+    {
+      "id": "mkt:01a1bedc-0bef-7ee0-aace-debcbac0d569",
+      "time": "2026-11-09 13:50:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports Russia struck a vessel in the Black Sea."
+    },
+    {
+      "id": "5202768",
+      "time": "2026-11-09 13:50:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本個人資訊洩露事件頻發，日本企業想出“絕招”：沒有使用者個人資訊就不會洩露】據日本電視臺11月8日報道，近期，因網路安全問題導致的個人資訊洩露事件在日本頻繁發生，日本企業疲於應對。在這種背景下，一些日本企業想出“從根本上”解決這一問題的辦法，那就是不再登記使用者的個人資訊。分析人士認為，一些日本企業很可能將會用回紙質優惠券。據報道，提供汽車租賃服務的“PARK24” 集團日前發生個人資訊洩露事件，約146萬份駕照等個人資訊遭洩露。受事件影響，該集團已刪除了其儲存的所有使用者個人資訊，並稱今後使用者在註冊時提供的駕照等證件的照片將會在賬號完成註冊後立即被刪除。（環球網）"
+    },
+    {
+      "id": "5202767",
+      "time": "2026-11-09 13:50:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部訊息稱，俄羅斯襲擊了基輔地區的變電站。"
+    },
+    {
+      "id": "5202766",
+      "time": "2026-11-09 13:49:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "習近平致電祝賀約託娃當選保加利亞總統。 （新華社）"
+    },
+    {
+      "id": "te:markets:599423",
+      "time": "2026-11-09 13:49:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends Slightly Lower amid Tight Election Results — The NZX 50 fell 25 points, or 0.2%, to close at 13,974 on Monday, extending losses from the previous session amid uncertainty over the general election result. New Zealand's Saturday general election could have resulted in a hung Parliament, although National is best placed to form a coalition with ACT and New Zealand First, while a narrow opposition victory cannot be ruled out. Formal coalition talks will not begin until the final results are announced on November 27. However, moderating oil prices lifted sentiment as inflation and interest-rate-hike concerns eased, while traders anticipated the release of China's trade data and US inflation figures later this week. An upbeat session on Wall Street on Friday, supported by a recovery in tech stocks, limited the decline. Healthcare and tech stocks mainly weighed on the index, with notable losses among ANZ Group (-2.8%), EBOS Group (-2.1%), Chorus (-1.8%), F&C Investment (-1.4%), and Fisher & Paykel (-1.0%)."
+    },
+    {
+      "id": "5202765",
+      "time": "2026-11-09 13:49:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄媒：俄羅斯在黑海襲擊一艘船隻。"
+    },
+    {
+      "id": "5202764",
+      "time": "2026-11-09 13:48:41",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【挪威主權財富基金：可再生能源投資估值過高】挪威主權財富基金希望加快在可再生能源基礎設施領域的投資，但高昂的價格卻成了阻礙。挪威央行投資管理公司去年在可再生能源基礎設施上投資約110億歐元。據該公司能源與基礎設施全球主管哈拉爾德·馮·海登稱，今年投入這類資產的新資金僅“略高於20億歐元”，遠不及去年的水平。他表示：“這並非缺乏嘗試。”“我們確實想加大投資，但這取決於多種因素。市場環境已經從‘買方市場’轉變為‘賣方市場’。”該基金的投資授權允許其將總資產的至多2%投入到可再生能源及非上市基礎設施專案中。截至9月底，未上市可再生能源組合價值1140億克朗（合121億美元），約佔該財富基金總規模的0.5%。如果計入截至2030年的承諾投資，這一比例將達到1%。這些投資Q3回報率為7.5%，而前三個月為1.8%。其他資產類別表現更差：股票回報率為0.5%，未上市房地產略低，固定收益貢獻為負。"
+    },
+    {
+      "id": "5202763",
+      "time": "2026-11-09 13:48:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克庫爾德地區總統會見了伊朗代表團，雙方均強調需要加強並擴大在各領域的雙邊關係。"
+    },
+    {
+      "id": "mkt:01a1bed9-5ccb-7ee0-aace-d45a40af5106",
+      "time": "2026-11-09 13:47:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Norway sovereign wealth fund: renewable valuations elevated, new commitments slow】Norges Bank Investment Management (manager of Norway's sovereign wealth fund) seeks to scale renewable-energy infrastructure investments but elevated valuations are limiting deployment. NBIM invested about €11bn in renewables infrastructure last year; new allocations this year are only slightly above €2bn. NBIM's energy and infrastructure head Harald von Heiden said the market has moved from a buyer's market to a seller's market and that restraint reflects market conditions rather than lack of intent. The fund is authorized to allocate up to 2% of total assets to renewables and unlisted infrastructure. As of end-September the unlisted renewables portfolio stood at NOK 1,140bn (~$12.1bn), about 0.5% of the fund; including commitments through 2030 that would rise to 1%. Q3 return on these assets was 7.5%, versus 1.8% in the prior three months. By comparison, equities returned 0.5%, unlisted real estate slightly less, and fixed income contributed negatively."
+    },
     {
       "id": "5202762",
       "time": "2026-11-09 13:46:36",
@@ -98607,18 +98687,6 @@
         "Importance 1"
       ],
       "text": "ASX 200 Snaps Two-Day Rise Ahead of RBA Rate Decision — The ASX 200 lost 52 points, or 0.6%, to close at 8,857 on the first trading day of a new month, halting gains in the prior two sessions as caution prevailed ahead of Tuesday’s Reserve Bank of Australia rate decision. The central bank is widely expected to deliver its fifth hike this year to curb persistent inflationary pressures. Meanwhile, manufacturing data in top trading partner China sent mixed signals, with the official PMI unexpectedly contracting while a private survey showed further expansion. Still, losses were partly capped by a sharp rise in U.S. stock futures as oil prices fell, amid reports that the U.S. and Iran are seeking diplomatic efforts on the Middle East conflict. Non-energy minerals, healthcare, logistics, and financials led declines, partly offset by strength in transport, consumer, and industrial services. Three of the four major banks fell, while BHP Group (-1.5%) and Rio Tinto (-1.2%) also slipped. Gold miners weakened, led by Northern Star Resources (-4.5%)."
-    },
-    {
-      "id": "te:economy:597136",
-      "time": "2026-11-02 13:48:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Commodity Prices YoY",
-        "Importance 1"
-      ],
-      "text": "Australia Commodity Prices at 7-Month Low — The Reserve Bank of Australia’s Index of Commodity Prices rose 12.5% year-on-year in October 2026, easing from an upwardly revised 15.9% increase in the previous month and marking its slowest growth since March. Gains were broadly based across most commodities, with iron ore and alumina the exceptions. In Australian dollar terms, the index increased 4.6% from a year earlier, down from 6.9% in September. On a monthly basis, commodity prices fell 1.3% in SDR terms in October, reversing a 0.9% increase in September. The decline was broad-based, with the rural, non-rural and base metals subindices all recording decreases. In Australian dollar terms, the index fell 0.3% month-on-month, reversing a 0.5% increase in the previous month."
     }
   ]
 }
