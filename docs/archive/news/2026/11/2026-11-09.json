@@ -1,7 +1,160 @@
 {
   "date": "2026-11-09",
-  "count": 783,
+  "count": 797,
   "items": [
+    {
+      "id": "mkt:01a1beae-7ff3-7ee0-aace-3c8641bff499",
+      "time": "2026-11-09 13:01:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "CPCA: October passenger vehicle sales 1.65 million units, down 27.3% YoY."
+    },
+    {
+      "id": "5202717",
+      "time": "2026-11-09 13:00:56",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【四川：到2030年高質量教育體系基本建成】《四川省教育發展“十五五”規劃》（簡稱《規劃》）已於日前正式出臺。 《規劃》明確，“十五五”期間，我省將堅持教育優先發展，落實立德樹人根本任務，以教育高質量發展為主題，以支撐新質生產力為重點，以服務四川現代化為核心，加快建設“五強”（立德樹人強、培養體系強、支撐引領強、影響輻射強、動力活力強）為特質的教育強省，為實現“三區一高地”目標奠定基礎。到2030年，教育強省建設取得顯著成效，高質量教育體系基本建成，德智體美勞全面培養體系更加健全，人民群眾教育獲得感不斷增強，關鍵領域改革取得實質性進展，教育對產業科技人才的支撐更加有力，全面服務四川現代化建設邁上新臺階。"
+    },
+    {
+      "id": "mkt:01a1beae-4280-7ee0-aace-371cf5a33d8b",
+      "time": "2026-11-09 13:00:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "017670.KS"
+      ],
+      "text": "NVIDIA, Rebellions and SK Telecom announced a partnership to advance sovereign AI infrastructure using NVIDIA's NVLink Fusion."
+    },
+    {
+      "id": "mkt:01a1beae-1494-7ee0-aace-29c881ef81d7",
+      "time": "2026-11-09 13:00:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan coincident index preliminary for September 119.5, expected 119.4, prior 118.8."
+    },
+    {
+      "id": "mkt:01a1bead-f946-7ee0-aace-269131682ba5",
+      "time": "2026-11-09 13:00:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan September leading economic index (preliminary) 116.4; expected 116.4; prior 118.0."
+    },
+    {
+      "id": "mkt:01a1bead-f42a-7ee0-aace-1db13b6e358b",
+      "time": "2026-11-09 13:00:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Coincident Index Flash (Sep) | actual 119.5 | consensus 119.4 | previous 118.8"
+    },
+    {
+      "id": "mkt:01a1bead-dc28-7ee0-aace-13a69cdb3412",
+      "time": "2026-11-09 13:00:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Leading Index Flash (Sep) | actual 116.4 | consensus 116.4 | previous 118"
+    },
+    {
+      "id": "5202716",
+      "time": "2026-11-09 13:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達、Rebellions與SK電訊宣佈合作，藉助英偉達NVLink Fusion推進主權AI基礎設施建設。"
+    },
+    {
+      "id": "mkt:01a1bead-95ba-7ee0-aace-0d9d4057aee3",
+      "time": "2026-11-09 13:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan coincident index preliminary MoM for September +0.7%; August revised to -1.8%."
+    },
+    {
+      "id": "mkt:01a1bead-951d-7ee0-aace-0090d875101d",
+      "time": "2026-11-09 13:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan Sept preliminary leading index MoM -1.6%; prior 0.4%."
+    },
+    {
+      "id": "mkt:01a1bead-73ec-7ee0-aacd-f88b0c690e85",
+      "time": "2026-11-09 13:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Leading Index Flash (MoM) (Sep) | actual -1.6% | previous 0.4%"
+    },
+    {
+      "id": "mkt:01a1bead-73db-7ee0-aacd-f47fde7f668b",
+      "time": "2026-11-09 13:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Coincident Index Flash (MoM) (Sep) | actual 0.7% | previous -1.8%"
+    },
+    {
+      "id": "5202715",
+      "time": "2026-11-09 12:59:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【成功上市類年累計補助最高五千萬元 四川真金白銀鼓勵創新藥研發】近日，四川省衛生健康委、省財政廳、省藥監局聯合印發《四川省1類創新藥臨床試驗財政專項補助實施方案》，明確對在川開展1類創新藥臨床試驗的單位給予財政專項補助，單個持有人年累計補助最高5000萬元；對合規情形下Ⅲ期研發終止的專案，一次性最高補助200萬元，釋放“鼓勵創新、寬容失敗”的鮮明訊號，激發全省醫療機構與醫藥企業協同創新活力。"
+    },
+    {
+      "id": "5202714",
+      "time": "2026-11-09 12:57:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【城堡證券透過擴招與擴充辦公空間，籌劃進一步拓展亞洲業務】城堡證券（Citadel Securities）正籌劃在亞洲進一步拓展其交易業務，透過增加人員編制和擴大辦公空間來推動發展。亞洲目前已成為該公司在美國以外最大的第二大收入來源。據執行長趙鵬（Peng Zhao）表示，這家做市商正尋求與本地及全球銀行建立合作，以擴大在亞太地區的交易量。該公司將其在香港的辦公空間擴大了40%，在國際金融中心二期增加了半個樓層的面積。趙鵬在接受採訪時表示：“隨著我們繼續在美國以外地區發展客戶業務，市場對交易非美國產品的需求將不斷增加，而我們也將做好充分準備。”近年來，作為一家非銀行做市商，城堡證券一直在加大其在亞洲的佈局。該公司在香港推出了結構化產品業務，以鞏固其核心業務——在全球美國股票和固定收益市場中撮合買賣雙方。如今，該公司正尋求邁出更大的一步。趙鵬表示，城堡證券今年在亞洲增加了近100名員工，使該地區的員工總數達到約400人。今年新招聘的員工中，近一半駐紮在香港，其餘則在新加坡、悉尼和東京的辦公室工作。隨著Jane Street等其他量化驅動型基金也在擴大其在香港的版圖，行業競爭正日益加劇。趙鵬表示：“亞洲的人才基礎正在發生轉變，從過去以純技術人才為主，轉變為技術人才與銷售、交易人才兼備的良性組合。”"
+    },
     {
       "id": "mkt:01a1bea9-5939-7ee0-aacd-ee2f5daf052d",
       "time": "2026-11-09 12:55:31",
