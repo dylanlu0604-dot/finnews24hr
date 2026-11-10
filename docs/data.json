@@ -1,7 +1,117 @@
 {
-  "updated": "2026-11-10 21:50:46",
-  "count": 10588,
+  "updated": "2026-11-10 21:54:37",
+  "count": 10590,
   "items": [
+    {
+      "id": "mkt:01a1c5bc-6962-7bbc-ab88-ea9ccef15738",
+      "time": "2026-11-10 21:53:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary Wright said ExxonMobil has reached a preliminary agreement to return to Venezuela, constituting a major investment commitment by one of the world’s largest energy firms and signalling rapid progress in a country earlier this year viewed as lacking investment appeal."
+    },
+    {
+      "id": "mkt:01a1c5bc-554e-7bbc-ab88-e2de0539c937",
+      "time": "2026-11-10 21:53:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Semafor reports ADNOC Gas, the gas unit of Abu Dhabi National Oil Company, will raise profit forecasts by at least 14%."
+    },
+    {
+      "id": "5206454",
+      "time": "2026-11-10 21:53:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【曾毓群博士獲Benchmark終身成就獎】寧德時代董事長兼CEO曾毓群博士獲頒2026年Benchmark終身成就獎(Benchmark Lifetime Achievement Award)。該獎項由Benchmark Mineral Intelligence設立，曾毓群博士是首位獲該獎項的中國動力電池企業創始人。Benchmark是全球領先的鋰電池及關鍵礦產價格評估與產業鏈資料機構，其評估的鋰、鈷價格被洲際交易所(ICE)期貨合約用作結算基準。（寧德時代）"
+    },
+    {
+      "id": "5206453",
+      "time": "2026-11-10 21:53:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司天然氣業務將利潤預期至少上調14%。"
+    },
+    {
+      "id": "mkt:01a1c5bb-9684-7bbc-ab88-dd42a69ea432",
+      "time": "2026-11-10 21:52:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【CNN: US purchasing power lags rising cost of living】CNN reports that in October prices for daily essentials continued to climb, adding pressure on households. Grocery, housing and other household costs rose faster than wages, leaving purchasing power behind the cost of living."
+    },
+    {
+      "id": "mkt:01a1c5bb-6960-7bbc-ab88-d13ec56cc058",
+      "time": "2026-11-10 21:52:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio: Why should we negotiate with Iran over Lebanon?"
+    },
+    {
+      "id": "te:markets:600010",
+      "time": "2026-11-10 21:52:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Slumps on Hotter Inflation and Hawkish Fed Comments — Gold prices fell sharply to below $4,060 an ounce on Tuesday, pressured by stronger-than-expected US inflation data and hawkish remarks from Federal Reserve Governor Christopher Waller, which put a potential 50-basis-point rate hike in December into focus. US headline inflation eased to 0.4% month-on-month in October 2026, from 0.6% in September, but exceeded market expectations of 0.3%. Meanwhile, core inflation held steady at 0.3% for a third consecutive month, above forecasts of 0.2%, pointing to persistent underlying price pressures. Waller said he supports further tightening in December and would favor a half-percentage-point increase if inflation continues to accelerate. Money markets are pricing in around 28 basis points of tightening, suggesting a 25-basis-point hike is fully priced in, with some expectations of a larger increase. Rising rate expectations have weighed on gold by increasing the opportunity cost of holding the non-yielding metal."
+    },
+    {
+      "id": "5206452",
+      "time": "2026-11-10 21:51:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西雷亞爾兌美元在現貨交易中走弱逾1%，至每美元5.57雷亞爾。"
+    },
+    {
+      "id": "5206451",
+      "time": "2026-11-10 21:51:09",
+      "tags": [
+        "宏觀",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【畢馬威報告顯示：美國收到 120 億美元委內瑞拉石油收入】全球金融服務機構畢馬威一份保密報告顯示，今年前九個月，美國政府接收並撥付了來自委內瑞拉自然資源出口的逾 120 億美元收入。畢馬威受美國政府委託撰寫該報告，介紹了 “委內瑞拉託管賬戶” 的運作情況。該賬戶由美國財政部設立，在前總統尼古拉斯・馬杜羅下臺後，用來管理委內瑞拉出口收入流轉。賬戶最初設在卡達，1 月底轉至紐約花旗銀行。報告顯示，從美軍實施干預的 1 月 3 日至 9 月底，該賬戶累計入賬 122.6 億美元。大部分資金在到賬後不久就被撥付回委內瑞拉。報告截止日為 9 月 30 日，當日賬戶餘額約 1.7 億美元。這段時期賬戶還產生約 1200 萬美元利息。但這份畢馬威報告同時證明：委內瑞拉憲法規定自然資源歸屬委內瑞拉人民，但資源銷售收入何時放款、款項流向誰，最終決定權掌握在美國官員手中。報告顯示，賬戶資金絕大部分來自原油銷售；少量資金來自礦產、化肥出口，其中全球大宗商品企業Trafigura為收購委內瑞拉黃金，存入約 1 億美元。這份報告並未覆蓋委內瑞拉全部出口收入。委內瑞拉兩大原油出口方 —— 美國石油巨頭雪佛龍以及本土企業 NABEP，採用另一套結算安排銷售部分開採的原油；還有大量委內瑞拉黃金透過非正式金融渠道出口至中東。"
+    },
+    {
+      "id": "5206450",
+      "time": "2026-11-10 21:51:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國將加快推進服務業統計改革創新】記者從10日舉行的服務業統計部際聯席會議第七次全體會議上獲悉，“十五五”是服務業統計改革創新、提質增效的關鍵時期，我國將加快推進服務業統計改革創新，著力提高服務業統計能力和水平。(新華社)"
+    },
+    {
+      "id": "mkt:01a1c5b9-3312-7bbc-ab88-ce9f348a3b7b",
+      "time": "2026-11-10 21:50:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rubio: Iran's compensation demand will not be met】U.S. Secretary of State Rubio said Trump has indicated there is no need at present for military action against Iran. Rubio said Iran is keen to reach a deal but its current demands are absurd and the parties remain far from agreement. The U.S. will not accept a bad Iran deal and is prepared to negotiate if a negotiable agreement emerges; Iran's demand for compensation will not be met, he said."
+    },
     {
       "id": "te:markets:600008",
       "time": "2026-11-10 21:49:43",
@@ -97249,82 +97359,6 @@
         "國際"
       ],
       "text": "俄羅斯農業市場研究所（IKAR）將俄羅斯糧食出口預測下調至4950萬噸。"
-    },
-    {
-      "id": "5191219",
-      "time": "2026-11-03 21:54:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌2%，現報10005.00元。"
-    },
-    {
-      "id": "5191218",
-      "time": "2026-11-03 21:54:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭農民遊說團體烏克蘭農業委員會（UAC）稱，10月份烏克蘭糧食出口穩定在300萬公噸。"
-    },
-    {
-      "id": "5191217",
-      "time": "2026-11-03 21:54:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及總統呼籲伊朗與美國開展對話、增進相互理解，並達成政治解決方案。"
-    },
-    {
-      "id": "5191216",
-      "time": "2026-11-03 21:53:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "潘興廣場創始人阿克曼：奈飛股價“非常便宜”。"
-    },
-    {
-      "id": "5191215",
-      "time": "2026-11-03 21:53:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨在邁阿密舉行的 G20 會議上表示：“在烏克蘭缺席的情況下，第三國談論烏克蘭問題是不可接受的。”"
-    },
-    {
-      "id": "5191214",
-      "time": "2026-11-03 21:53:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "潘興廣場創始人阿克曼表示，更多流動性更強的預測市場能提供更好的預測訊號。"
-    },
-    {
-      "id": "5191213",
-      "time": "2026-11-03 21:52:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基表示，希望由美國斡旋的談判能為領導人會晤鋪平道路。"
-    },
-    {
-      "id": "te:markets:597690",
-      "time": "2026-11-03 21:52:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Trims Losses — Silver prices pared early losses to trade around $50 an ounce on Tuesday, remaining in negative territory after Monday’s sharp 3.6% gain, as investors weighed falling oil prices ahead of the US midterm elections. Oil prices reversed earlier gains after US President Donald Trump said Washington would end its $4 billion aid programme to Israel by year-end, while US Energy Secretary Chris Wright said overnight strikes on Iran’s Qeshm Island had not disrupted regional oil supplies. Lower oil prices could ease inflationary pressures and reduce expectations of further interest rate hikes. Markets currently price in nearly a 75% chance of a Fed rate hike in December, according to CME’s FedWatch Tool. Meanwhile, US midterm elections are underway, with Democrats favored to regain control of the House of Representatives, while the Senate outcome remains uncertain."
-    },
-    {
-      "id": "5191212",
-      "time": "2026-11-03 21:50:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿聯酋航空天貨運公司開發了產品，以滿足運輸敏感硬體的複雜要求。"
     }
   ]
 }
