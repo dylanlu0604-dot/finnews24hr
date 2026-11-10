@@ -1,7 +1,61 @@
 {
   "date": "2026-11-10",
-  "count": 454,
+  "count": 459,
   "items": [
+    {
+      "id": "5204402",
+      "time": "2026-11-10 08:18:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "軟銀等日本晶片股上漲，漲幅一度達到12%。"
+    },
+    {
+      "id": "mkt:01a1c2d0-4ff4-7ee0-aae6-059eb379ac7b",
+      "time": "2026-11-10 08:16:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AAPL.O",
+        "Impact bullish",
+        "META.O"
+      ],
+      "text": "【China International Capital Co: Agent era positions AI edge hardware for re-rating】China International Capital Co said in a research note that the rollout of personal agents and world models, together with hardware launches from Apple, Meta and OpenAI, supports a potential re-rating of AI edge hardware as the primary interaction gateway. The firm expects a new hardware innovation cycle to begin in 2H26 and extend through 2027."
+    },
+    {
+      "id": "5204399",
+      "time": "2026-11-10 08:16:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "軟銀集團股價上漲11.7%。"
+    },
+    {
+      "id": "mkt:01a1c2cf-dc03-7ee0-aae5-fa0b9fb5ba71",
+      "time": "2026-11-10 08:16:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 jumped 3.00% intraday to 60,563.11."
+    },
+    {
+      "id": "5204398",
+      "time": "2026-11-10 08:15:42",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日經指數上漲3% 東證指數上漲2%】日經225指數大漲3.0%，最新報60563.11點。"
+    },
     {
       "id": "5204397",
       "time": "2026-11-10 08:14:33",

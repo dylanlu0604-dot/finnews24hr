@@ -1,7 +1,61 @@
 {
-  "updated": "2026-11-10 08:16:07",
-  "count": 10622,
+  "updated": "2026-11-10 08:19:53",
+  "count": 10624,
   "items": [
+    {
+      "id": "5204402",
+      "time": "2026-11-10 08:18:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "軟銀等日本晶片股上漲，漲幅一度達到12%。"
+    },
+    {
+      "id": "mkt:01a1c2d0-4ff4-7ee0-aae6-059eb379ac7b",
+      "time": "2026-11-10 08:16:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AAPL.O",
+        "Impact bullish",
+        "META.O"
+      ],
+      "text": "【China International Capital Co: Agent era positions AI edge hardware for re-rating】China International Capital Co said in a research note that the rollout of personal agents and world models, together with hardware launches from Apple, Meta and OpenAI, supports a potential re-rating of AI edge hardware as the primary interaction gateway. The firm expects a new hardware innovation cycle to begin in 2H26 and extend through 2027."
+    },
+    {
+      "id": "5204399",
+      "time": "2026-11-10 08:16:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "軟銀集團股價上漲11.7%。"
+    },
+    {
+      "id": "mkt:01a1c2cf-dc03-7ee0-aae5-fa0b9fb5ba71",
+      "time": "2026-11-10 08:16:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 jumped 3.00% intraday to 60,563.11."
+    },
+    {
+      "id": "5204398",
+      "time": "2026-11-10 08:15:42",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日經指數上漲3% 東證指數上漲2%】日經225指數大漲3.0%，最新報60563.11點。"
+    },
     {
       "id": "5204397",
       "time": "2026-11-10 08:14:33",
@@ -97383,30 +97437,6 @@
         "其他"
       ],
       "text": "市場訊息：迪士尼計劃裁員數千人；管理層被要求削減20%的開支。"
-    },
-    {
-      "id": "5188466",
-      "time": "2026-11-03 08:18:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【騰達科技：11月3日對304材質產品進行價格下調】騰達科技(001379)11月3日釋出調價通知：根據當前原材料及市場行情，公司決定於11月3日對304材質產品進行價格下調，線上騰達優購系統同步執行。"
-    },
-    {
-      "id": "5188465",
-      "time": "2026-11-03 08:18:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國內首套超深豎井智慧焊接成套裝備投用 效率提升超65%】11月3日，我國首套專用於超深豎井的壓力鋼管智慧焊接成套裝備在浙江松陽抽水蓄能電站投用，面向深地工程狹小深井極端工況自主研發，補齊超深豎井高強鋼鋼管自動化焊接短板。裝備配置外環縫焊接機器人和內環縫自動橫焊機，焊接速度可達每分鐘30到50釐米，效率較傳統手工焊提升65%以上，焊縫一次性合格率達99%。該裝備在引水豎井總深637米的松陽電站作業，形成超深豎井壓力鋼管焊接工法。（央視新聞）"
-    },
-    {
-      "id": "5188464",
-      "time": "2026-11-03 08:17:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Salesforce 斥資 27 億美元收購初創公司 Cresta】Salesforce 延續了近期的收購熱潮，宣佈計劃收購 Cresta——一家擁有九年曆史、提供由人工智慧驅動的聯絡中心自動化軟體的供應商。據知情人士透露，Salesforce 並未公開交易價格，但已同意以 27 億美元收購 Cresta。此次收購表明，這家軟體巨頭正在大力強化其客戶服務業務，以應對來自 Sierra 等初創公司的挑戰（Sierra 由 Salesforce 前聯席執行長 Bret Taylor 領導）。今年 9 月，Salesforce 剛剛完成了對 AI 智慧客服提供商 Fin 的收購，交易金額為 36 億美元。Cresta 最初是斯坦福大學人工智慧實驗室的一個專案，於 2017 年由曾在谷歌開創多個 AI 專案的電腦科學家 Sebastian Thrun，以及 Tim Shi 和 Zayd Enam 聯合創立。該公司在 2022 年完成 C 輪融資後估值達到 16 億美元，但其近期的最新估值尚無法得知。根據 PitchBook 的資料，Cresta 已從 Andreessen Horowitz、紅杉資本（Sequoia Capital）和老虎環球基金（Tiger Global Management）等投資者手中籌集了超過 2.8 億美元。"
     }
   ]
 }
