@@ -1,7 +1,104 @@
 {
   "date": "2026-11-11",
-  "count": 378,
+  "count": 389,
   "items": [
+    {
+      "id": "mkt:01a1c750-d625-7bbc-ab93-ac4da93f3bc6",
+      "time": "2026-11-11 05:15:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed governor Bowman said she does not believe artificial intelligence will take jobs in the U.S. economy."
+    },
+    {
+      "id": "mkt:01a1c750-d04d-7bbc-ab93-a36634163535",
+      "time": "2026-11-11 05:15:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Governor Bowman said AI will raise worker productivity, create new jobs and eliminate less-needed positions."
+    },
+    {
+      "id": "5206940",
+      "time": "2026-11-11 05:15:09",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：人工智慧將提高勞動者生產率，創造新的就業崗位，並淘汰不太必要的崗位。"
+    },
+    {
+      "id": "5206939",
+      "time": "2026-11-11 05:14:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：不認為人工智慧會剝奪美國經濟的就業機會。"
+    },
+    {
+      "id": "5206938",
+      "time": "2026-11-11 05:14:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave第三季度資本支出145億美元，上年同期為18.5億美元。"
+    },
+    {
+      "id": "5206937",
+      "time": "2026-11-11 05:13:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave截至9月30日的追索債務為91.8億美元。"
+    },
+    {
+      "id": "mkt:01a1c74f-21f3-7bbc-ab93-9a8056e1e0ec",
+      "time": "2026-11-11 05:13:34",
+      "tags": [
+        "MKT News",
+        "CRWV.O",
+        "Impact bullish"
+      ],
+      "text": "CoreWeave (CRWV.O) Q3 fiscal 2026 net loss $709 mln, market expected $850.4 mln."
+    },
+    {
+      "id": "te:markets:600147",
+      "time": "2026-11-11 05:13:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stock Market Closes Lower Following CPI Report — US stock indices closed lower on Tuesday as higher-than-expected inflation weighed on stocks and bonds following hawkish signals from Fed officials. The S&P 500 lost 0.4%, the Dow shed 158 points, and the Nasdaq declined 0.6%. A surprisingly high CPI reinforced expectations of a quarter-point December hike, with money markets pricing some chance of an even larger move and further hikes next year. Meanwhile, Anthropic is expected to begin trading as early as next week, seeking to raise up to $90 billion at a diluted valuation of around $1.4 trillion. The offering comes amid strong demand for AI services, though growing concerns over excessive capital expenditure have raised questions about the sustainability of the sector’s investment boom. Chipmakers were mostly lower, with Nvidia falling 5.5%, extending the previous session’s losses, while Micron shed 1.1%. Hyperscalers also declined, with Microsoft losing 2.2% and Oracle retreating 1.5%."
+    },
+    {
+      "id": "5206936",
+      "time": "2026-11-11 05:12:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave截至9月30日的流動負債為243.9億美元。"
+    },
+    {
+      "id": "5206935",
+      "time": "2026-11-11 05:12:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "CoreWeave：公司投資與已承諾需求掛鉤，其為GPU及其他資產融資提供的貸款由合同現金流作為支撐。"
+    },
+    {
+      "id": "5206934",
+      "time": "2026-11-11 05:11:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI第三季度營收升至100億美元】OpenAI告知投資者，第三季度營收增長50%，達到約100億美元。市場對該公司近期釋出的模型（包括GPT 5.6和Astra）以及影象模型的需求，推動了其模型透過應用程式程式設計介面的銷售。該公司營收還得益於廣告銷售的持續增長。"
+    },
     {
       "id": "5206933",
       "time": "2026-11-11 05:11:19",
