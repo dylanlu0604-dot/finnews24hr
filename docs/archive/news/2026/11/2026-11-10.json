@@ -1,7 +1,85 @@
 {
   "date": "2026-11-10",
-  "count": 871,
+  "count": 879,
   "items": [
+    {
+      "id": "5205310",
+      "time": "2026-11-10 13:36:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓災難管理官員稱，一架載有六名外籍人士的私人飛機在菲律賓南部墜毀。"
+    },
+    {
+      "id": "5205309",
+      "time": "2026-11-10 13:35:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【諾和諾德：諾和泰®慢性腎臟病適應症獲批專利權期限補償】11月10日，據諾和諾德中國訊息，諾和諾德宣佈，旗下諾和泰®（司美格魯肽注射液）慢性腎臟病（CKD）適應症相關專利的藥品專利權期限補償（Patent Term Extension）已獲國家智慧財產權局批准，相關適應症專利保護期延長5年至2031年3月。"
+    },
+    {
+      "id": "mkt:01a1c3f4-0693-7ee0-aaec-37b40d30a2fc",
+      "time": "2026-11-10 13:35:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Interfax reports Kazakhstan's energy ministry said Kazakhstan plans to raise oil exports by about 4% in 2027 to 79 mln tonnes."
+    },
+    {
+      "id": "mkt:01a1c3f4-0241-7ee0-aaec-2edb0d560006",
+      "time": "2026-11-10 13:35:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "The Taiwan Stock Exchange Weighted Index (TAIEX) closed up 1,050.22 points, or 2.52%, at 42,711.92 on Tuesday, Nov 10."
+    },
+    {
+      "id": "5205308",
+      "time": "2026-11-10 13:35:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克2027年石油出口量預計將增長約4%，達到7900萬噸。"
+    },
+    {
+      "id": "mkt:01a1c3f3-897f-7ee0-aaec-239b1a22deef",
+      "time": "2026-11-10 13:34:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact mixed",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Trilateral Russia-US-Ukraine talks to begin this afternoon】TASS cited sources saying a new round of trilateral talks between Russia, the US and Ukraine will open in Abu Dhabi at 11:50 local time (15:50 Beijing) on Nov. 10. Previously disclosed agenda items include post‑war security arrangements, de‑escalation measures, humanitarian operations and follow‑up steps toward a peace settlement."
+    },
+    {
+      "id": "5205307",
+      "time": "2026-11-10 13:34:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣股指收漲2.5%報42,711.92點。"
+    },
+    {
+      "id": "mkt:01a1c3f2-9bc7-7ee0-aaec-1b756f88beda",
+      "time": "2026-11-10 13:33:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY said Russian forces struck a cargo ship and an oil tanker in the Black Sea."
+    },
     {
       "id": "5205306",
       "time": "2026-11-10 13:32:43",
