@@ -1,7 +1,115 @@
 {
   "date": "2026-11-11",
-  "count": 366,
+  "count": 378,
   "items": [
+    {
+      "id": "5206933",
+      "time": "2026-11-11 05:11:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave：行業將出現一波波整合浪潮，競爭格局將發生變化，公眾情緒也將不斷演變。"
+    },
+    {
+      "id": "5206932",
+      "time": "2026-11-11 05:11:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CoreWeave上調2026財年營收指引 盤後股價上漲7%】CoreWeave第三季度每股虧損1.27美元，低於預期的每股虧損1.46美元；營收36.6億美元，高於預期的35.6億美元；淨虧損7.09億美元，低於預期的8.504億美元虧損。CoreWeave上調2026財年營收指引及年化執行率營收指引，盤後股價上漲7%。"
+    },
+    {
+      "id": "mkt:01a1c74c-19b9-7bbc-ab93-93c1147bdc90",
+      "time": "2026-11-11 05:10:15",
+      "tags": [
+        "MKT News",
+        "CRWV.O",
+        "Impact bullish"
+      ],
+      "text": "CoreWeave (CRWV.O) raised fiscal 2026 revenue guidance and lifted its annualized run‑rate revenue projection."
+    },
+    {
+      "id": "mkt:01a1c74c-15c8-7bbc-ab93-8b036b75a564",
+      "time": "2026-11-11 05:10:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "According to The Information, OpenAI's third-quarter revenue surged to $10 billion."
+    },
+    {
+      "id": "te:markets:600146",
+      "time": "2026-11-11 05:09:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "CoreWeave earnings below expectations at -1.27 USD — CoreWeave (CRWV) released earnings per share at -1.27 USD, compared to market expectations of 0.09 USD."
+    },
+    {
+      "id": "5206931",
+      "time": "2026-11-11 05:09:36",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：與財政部保持暢通的溝通渠道至關重要。"
+    },
+    {
+      "id": "5206930",
+      "time": "2026-11-11 05:08:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI第三季度營收升至100億美元。"
+    },
+    {
+      "id": "mkt:01a1c74a-c9d8-7bbc-ab93-83fe6ffa983e",
+      "time": "2026-11-11 05:08:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Bowman said the Fed is working to gather data on counterparties to AI-related debt transactions."
+    },
+    {
+      "id": "5206929",
+      "time": "2026-11-11 05:08:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "CoreWeave上調全年營收預期，股價上漲7%。"
+    },
+    {
+      "id": "5206928",
+      "time": "2026-11-11 05:08:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "Nebius股價跟隨CoreWeave上漲，漲幅3%。"
+    },
+    {
+      "id": "mkt:01a1c74a-2f4e-7bbc-ab93-7f9f0297b206",
+      "time": "2026-11-11 05:08:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Fed Governor Bowman said open communication channels with the U.S. Treasury are essential."
+    },
+    {
+      "id": "5206927",
+      "time": "2026-11-11 05:07:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "CoreWeave公司將2026財年調整後營業收入指引上調至12.75億至13.75億美元區間。"
+    },
     {
       "id": "mkt:01a1c749-bb84-7bbc-ab93-729711ce6560",
       "time": "2026-11-11 05:07:40",
