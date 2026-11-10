@@ -1,7 +1,41 @@
 {
-  "updated": "2026-11-11 04:38:04",
-  "count": 10533,
+  "updated": "2026-11-11 04:41:53",
+  "count": 10534,
   "items": [
+    {
+      "id": "mkt:01a1c731-6813-7bbc-ab93-02d01c5cfb5e",
+      "time": "2026-11-11 04:41:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Gold briefly falls 3% as hotter US inflation and hawkish Fed comments lift rate‑hike bets】Spot gold tumbled about 3% to below $4,015/oz after US CPI topped expectations, sending US Treasury yields and the dollar sharply higher. Dallas Fed president Lorie Logan said she sees a need for at least two more 25bp hikes and that tightening may need to proceed faster than the Fed’s autumn pace; Fed governor Waller has flagged a possible 50bp move. MKS PAMP metals strategist Nikki Hills said markets now assign a higher probability to a 50bp December hike, and that the CPI beat plus rising odds of larger hikes are highly negative for gold; she added year‑end consensus is mildly bullish-to-rangebound but institutional buying may wait until January."
+    },
+    {
+      "id": "mkt:01a1c731-4ca6-7bbc-ab92-fe35bfb70b58",
+      "time": "2026-11-11 04:40:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senate Republican leader Thune to be re-elected."
+    },
+    {
+      "id": "5206905",
+      "time": "2026-11-11 04:39:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院共和黨領袖圖恩連任參議院共和黨領袖。"
+    },
     {
       "id": "5206904",
       "time": "2026-11-11 04:37:27",
@@ -96981,22 +97015,6 @@
         "WTI"
       ],
       "text": "UK Maritime Trade Operations said a tanker company security officer reported the oil tanker’s engine room was struck by two unidentified shells."
-    },
-    {
-      "id": "mkt:01a1a323-225a-7ee0-aa55-098bb7c8e5f3",
-      "time": "2026-11-04 04:39:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Maritime Trade Operations (UKMTO) said it received a report that a vessel was struck by an unidentified projectile 9 nm northeast of Lima, Oman; the vessel and crew are reported safe."
-    },
-    {
-      "id": "5191639",
-      "time": "2026-11-04 04:38:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "大型押注平臺Kalshi和Polymarket的最新交易價格顯示，民主黨控制眾議院的隱含機率維持在94%左右，奪取參議院的勝算則微降至約73%。"
     }
   ]
 }

@@ -1,7 +1,41 @@
 {
   "date": "2026-11-11",
-  "count": 329,
+  "count": 332,
   "items": [
+    {
+      "id": "mkt:01a1c731-6813-7bbc-ab93-02d01c5cfb5e",
+      "time": "2026-11-11 04:41:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Gold briefly falls 3% as hotter US inflation and hawkish Fed comments lift rate‑hike bets】Spot gold tumbled about 3% to below $4,015/oz after US CPI topped expectations, sending US Treasury yields and the dollar sharply higher. Dallas Fed president Lorie Logan said she sees a need for at least two more 25bp hikes and that tightening may need to proceed faster than the Fed’s autumn pace; Fed governor Waller has flagged a possible 50bp move. MKS PAMP metals strategist Nikki Hills said markets now assign a higher probability to a 50bp December hike, and that the CPI beat plus rising odds of larger hikes are highly negative for gold; she added year‑end consensus is mildly bullish-to-rangebound but institutional buying may wait until January."
+    },
+    {
+      "id": "mkt:01a1c731-4ca6-7bbc-ab92-fe35bfb70b58",
+      "time": "2026-11-11 04:40:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senate Republican leader Thune to be re-elected."
+    },
+    {
+      "id": "5206905",
+      "time": "2026-11-11 04:39:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院共和黨領袖圖恩連任參議院共和黨領袖。"
+    },
     {
       "id": "5206904",
       "time": "2026-11-11 04:37:27",
