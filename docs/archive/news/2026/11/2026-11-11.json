@@ -1,7 +1,49 @@
 {
   "date": "2026-11-11",
-  "count": 406,
+  "count": 410,
   "items": [
+    {
+      "id": "mkt:01a1c75d-8ac2-7bbc-ab93-eb99abf6a218",
+      "time": "2026-11-11 05:29:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Bowman said the Fed needs to consider the pace and timeline for addressing the issue."
+    },
+    {
+      "id": "mkt:01a1c75d-7381-7bbc-ab93-e4289083e712",
+      "time": "2026-11-11 05:29:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor BOWMAN said inflation is not on a downward trend and that should keep the Fed cautious."
+    },
+    {
+      "id": "5206952",
+      "time": "2026-11-11 05:28:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Point72起訴被解僱的量化分析師 指控其利用AI竊取程式碼】Point72 Asset Management旗下量化交易部門指控一名前研究分析師利用Anthropic PBC的Claude和OpenAI的Codex竊取專有原始碼，目的是加入一家競爭對手。Cubist Systematic Strategies週一在康涅狄格州斯坦福德的州法院起訴Xin Jin。Cubist在訴狀中稱，公司經過調查認定，Jin“曾試圖竊取（而且很可能確實竊取了）機密、專有且具有競爭敏感性的資訊”，並於9月將其解僱。"
+    },
+    {
+      "id": "5206951",
+      "time": "2026-11-11 05:27:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲高官接連放鷹：沃勒提示12月或加息50基點，洛根支援至少兩次加息且提速】美聯儲理事沃勒警告稱，12月可能有必要加息50個基點；隨後達拉斯聯儲主席洛根表示支援至少再加息兩次、每次25個基點，並稱加息速度可能需要比官員們今年秋季的行動更快。"
+    },
     {
       "id": "5206950",
       "time": "2026-11-11 05:26:15",

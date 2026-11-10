@@ -1,7 +1,49 @@
 {
-  "updated": "2026-11-11 05:27:20",
-  "count": 10554,
+  "updated": "2026-11-11 05:31:11",
+  "count": 10553,
   "items": [
+    {
+      "id": "mkt:01a1c75d-8ac2-7bbc-ab93-eb99abf6a218",
+      "time": "2026-11-11 05:29:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Bowman said the Fed needs to consider the pace and timeline for addressing the issue."
+    },
+    {
+      "id": "mkt:01a1c75d-7381-7bbc-ab93-e4289083e712",
+      "time": "2026-11-11 05:29:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor BOWMAN said inflation is not on a downward trend and that should keep the Fed cautious."
+    },
+    {
+      "id": "5206952",
+      "time": "2026-11-11 05:28:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Point72起訴被解僱的量化分析師 指控其利用AI竊取程式碼】Point72 Asset Management旗下量化交易部門指控一名前研究分析師利用Anthropic PBC的Claude和OpenAI的Codex竊取專有原始碼，目的是加入一家競爭對手。Cubist Systematic Strategies週一在康涅狄格州斯坦福德的州法院起訴Xin Jin。Cubist在訴狀中稱，公司經過調查認定，Jin“曾試圖竊取（而且很可能確實竊取了）機密、專有且具有競爭敏感性的資訊”，並於9月將其解僱。"
+    },
+    {
+      "id": "5206951",
+      "time": "2026-11-11 05:27:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲高官接連放鷹：沃勒提示12月或加息50基點，洛根支援至少兩次加息且提速】美聯儲理事沃勒警告稱，12月可能有必要加息50個基點；隨後達拉斯聯儲主席洛根表示支援至少再加息兩次、每次25個基點，並稱加息速度可能需要比官員們今年秋季的行動更快。"
+    },
     {
       "id": "5206950",
       "time": "2026-11-11 05:26:15",
@@ -97090,55 +97132,6 @@
         "MKT News"
       ],
       "text": "Venezuela interim president Rodriguez said the country will secure $17 bln in financing over the next five years for the private and public sectors."
-    },
-    {
-      "id": "te:markets:597784",
-      "time": "2026-11-04 05:30:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Rebounds as Middle East Tensions Persist — Crude oil rebounded slightly to near $97 a barrel on Tuesday after plunging more than 7% in the previous session. Reports indicated that the US and Iran remained far from reaching a deal to end their war, while mediator Qatar stepped up efforts to bridge differences and avert renewed escalation after the US midterm elections. Overnight, the US reportedly carried out defensive strikes on Iran, targeting surface-to-air missiles used against US assets. The strikes appeared limited and did not signal a return to major combat operations. Meanwhile, US President Trump renewed threats of possible military action. Qatari mediators traveled to Tehran on Monday night to discuss a version of a draft US-Iran deal that had been under consideration. The secretary of Iran’s National Security Council later said the US response to Iran's demands “was not convincing.” Still, Qatar’s Foreign Ministry spokesperson said both the US and Tehran were reviewing proposals put forward by mediators."
-    },
-    {
-      "id": "5191661",
-      "time": "2026-11-04 05:30:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【AMD營收展望超預期 人工智慧晶片需求強勁】作為英偉達在AI晶片領域的主要挑戰者，AMD給出的營收預測高於分析師預期，顯示資料中心處理器需求仍然強勁。AMD週二在宣告中表示，預計第四季度營收為170億美元，上下浮動3%。相比之下，分析師平均預期為163億美元。最新展望進一步表明AI支出具有持續性，可能有助於緩解投資者的緊張情緒。最近幾周，由於市場擔心AI基礎設施行業存在泡沫，晶片製造商和其他科技公司股價遭到重挫。在執行長蘇姿豐領導下，AMD已成為最重要的處理器與計算裝置供應商之一，為大量新興AI服務提供支撐。AMD首席財務官Jean Hu在宣告中表示：“我們的第四季度展望反映出營收和利潤增長加速，這得益於資料中心產品組合的強勁需求。”財報釋出後，AMD股價盤後上漲約6%。即使經歷近期波動，該股年迄今仍上漲逾一倍。公司市值9月達到1萬億美元，躋身少數達到這一規模的企業之列。"
-    },
-    {
-      "id": "mkt:01a1a352-30c3-7ee0-aa55-e7c5e818ebf0",
-      "time": "2026-11-04 05:30:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【White House circulates midterm messaging stressing Trump campaigned for GOP】The White House circulated internal materials to officials and outside supporters stressing Trump’s active role in the midterm campaign, saying he and Vice President Vance have held more than 50 rallies since the September GOP convention and claiming Republican standing has improved versus four weeks ago. The packet labeled the administration’s past two years as \"the most successful two years in history,\" highlighted immigration, public safety and economic policies, attacked six Democratic candidates, and was presented as a preemptive framing should Republicans face unfavorable election results."
-    },
-    {
-      "id": "mkt:01a1a351-688a-7ee0-aa55-d81d9d0ac90c",
-      "time": "2026-11-04 05:29:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Venezuela's interim president Rodriguez said 80 contracts have been signed under the new oil and gas law."
-    },
-    {
-      "id": "5191660",
-      "time": "2026-11-04 05:28:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：過去12個月石油產量增長了8.5%。"
     }
   ]
 }
