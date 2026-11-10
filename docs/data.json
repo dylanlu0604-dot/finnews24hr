@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-10 13:22:04",
-  "count": 10745,
+  "updated": "2026-11-10 13:25:57",
+  "count": 10744,
   "items": [
+    {
+      "id": "5205301",
+      "time": "2026-11-10 13:22:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲2.01%，現報2507.927點；上證指數漲0.26%，現報3670.330點；深證成指漲1.22%，現報11281.286點。"
+    },
+    {
+      "id": "5205300",
+      "time": "2026-11-10 13:22:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川“民間投資21條”釋出 支援民營企業擴大有效投資】從四川省發展改革委獲悉，《四川省促進民間投資高質量發展工作措施》已印發實施，提出21條具體措施，多措並舉支援民營企業擴大有效投資。21條措施，涵蓋支援民間投資參與重大專案建設、打通民間資本參與堵點卡點、強化民間投資要素保障、最佳化民間投資發展環境等四個方面。在支援參與重大專案建設方面，從專案審批環節論證民間資本參與可行性、支援參與礦產資源與新能源開發、引導參與高精尖產業和低空經濟等新場景應用、鼓勵參與城市基礎設施建設運營、支援參與公共服務最佳化和壯大集體經濟等方面，進一步拓寬民間投資參與領域和渠道。"
+    },
     {
       "id": "mkt:01a1c3e7-9b66-7ee0-aaeb-fd6aef92c4fc",
       "time": "2026-11-10 13:21:37",
@@ -98525,39 +98542,6 @@
         "Importance 1"
       ],
       "text": "NZX 50 Halts Decline, Ends 0.2% Higher — The NZX 50 gained 22 points, or 0.2%, to close at 13,720 on Tuesday, halting losses from the morning session and the previous session, mainly buoyed by communication services and financial stocks. Traders braced for the release of jobs data on Wednesday, with the market expecting the unemployment rate to ease slightly to 5.5% in Q3 from 5.6% in Q2, its highest reading since Q3 2015. Moderating oil prices also lifted sentiment as inflation concerns and fears of interest rate hikes eased. However, a downbeat session on Wall Street capped the gains, as tech stocks continued to fall. Traders also monitored early voting in New Zealand ahead of the November general election, with nearly 1 million ballots having been cast in the first week of early voting. Among the best performers were Fletcher Building (2.6%), Westpac Banking Corp. (2.4%), Chorus (2.0%), Infratil (1.5%), Vulcan Steel (1.2%), Gentrack Group (1.0%), and EBOS Group (-0.8%)."
-    },
-    {
-      "id": "em:qqyh_ozlc:202611033920057576",
-      "time": "2026-11-03 13:24:05",
-      "tags": [
-        "央行",
-        "澳洲聯儲"
-      ],
-      "text": "澳洲聯儲主席布洛克表示，理事會將採取一切必要措施推動通脹回落。"
-    },
-    {
-      "id": "te:markets:597531",
-      "time": "2026-11-03 13:22:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Finds Support Despite Lingering Economic Headwinds — The Indonesian rupiah firmed, hovering around IDR 18,130 per U.S. dollar on Tuesday after briefly touching IDR 18,200 in the prior session. Sentiment improved amid a stronger-than-expected September trade surplus, though imports grew faster than exports. Meanwhile, headline inflation eased slightly in October, remaining within Bank Indonesia's target range despite accelerating food prices amid El Niño-related supply disruptions. Indonesia's manufacturing sector also improved last month, with output, new orders, and export sales posting robust growth. However, overall sentiment remained cautious amid fiscal pressures from higher oil prices and exposure to volatile export earnings and shifting external demand. BI has reiterated its commitment to enhancing policy coordination with the government while maintaining a policy mix to support the rupiah. Globally, the dollar index steadied as traders assessed geopolitical risks and political uncertainty while awaiting U.S. labor-market data."
-    },
-    {
-      "id": "te:markets:597530",
-      "time": "2026-11-03 13:22:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "ICICI Bank Shares Hit 8-week High — ICICI Bank shares increased to 1412.00 INR, the highest since September 2026. Over the past 4 weeks, ICICI Bank gained 5.89%, and in the last 12 months, it increased 5.5%."
     }
   ]
 }
