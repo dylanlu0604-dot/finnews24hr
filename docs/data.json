@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-11 04:49:26",
-  "count": 10539,
+  "updated": "2026-11-11 04:53:11",
+  "count": 10538,
   "items": [
+    {
+      "id": "mkt:01a1c73a-8e1a-7bbc-ab93-19a29f122e93",
+      "time": "2026-11-11 04:51:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sen. Bernie Sanders (D-Vt.) said U.S. military aid to Israel is a highly sensitive issue for tens of millions of Americans and must be debated."
+    },
     {
       "id": "5206911",
       "time": "2026-11-11 04:48:16",
@@ -97024,27 +97032,6 @@
         "Importance 1"
       ],
       "text": "Brazilian Stocks Fall Ahead of Copom Decision — The Ibovespa fell 1.5% to close at 165,362, reaching a one-year low following Monday’s holiday, as Petrobras and credit-sensitive stocks posted losses. Petrobras dropped 4% as oil prices plunged during the holiday amid signs of progress in US-Iran diplomacy. Investors monitored the upcoming Copom decision after the first Focus Bulletin since the election showed higher forecasts for inflation, interest rates and the dollar. In contrast, growth expectations were revised down. The S&P Global Brazil Manufacturing PMI for October also remained in contraction territory. Most market participants expect the benchmark Selic rate to remain unchanged at 13.75% per year, amid concerns over the country’s fiscal outlook. Major banks posted losses, with Itaú down 0.6% and Bradesco shedding 2.2%. Utilities declined as well, with Axia falling 2.3%."
-    },
-    {
-      "id": "5191640",
-      "time": "2026-11-04 04:50:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "Politico援引一份備忘錄報道，FBI今年早些時候發生資料洩露事件，可能波及司法部工作人員。"
-    },
-    {
-      "id": "mkt:01a1a32d-1cf4-7ee0-aa55-255171e7da66",
-      "time": "2026-11-04 04:50:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O",
-        "Impact mixed"
-      ],
-      "text": "AMD will report earnings after the U.S. market close."
     }
   ]
 }
