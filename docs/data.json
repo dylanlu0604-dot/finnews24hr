@@ -1,7 +1,63 @@
 {
-  "updated": "2026-11-10 13:06:32",
-  "count": 10726,
+  "updated": "2026-11-10 13:10:34",
+  "count": 10732,
   "items": [
+    {
+      "id": "5205290",
+      "time": "2026-11-10 13:09:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "據英國金融時報，英國稱需要與俄羅斯建立新的秘密溝通渠道，以降低誤判風險。"
+    },
+    {
+      "id": "mkt:01a1c3db-8f40-7ee0-aaeb-d24206d75ec0",
+      "time": "2026-11-10 13:08:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share AI glasses sector rallied; Chaoyang Technology, Lianchuang Electronics, Kangguan Technology, Skyworth Digital and Yingtong Communications hit daily limit-up, with Guangyang Co. earlier also at the limit. Xingchen Technology, Shiya Technology and Longli Technology rose over 10%; Shuobeide, Runxin Technology, Rockchip and GoerTek also advanced."
+    },
+    {
+      "id": "5205289",
+      "time": "2026-11-10 13:08:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港警方：一小巴司機因涉嫌駕駛前吸食冰毒被拘】據香港電臺網站訊息，香港警方打擊公共服務車輛司機毒後駕駛的違法行為，拘捕一名44歲男小巴司機，涉嫌毒後駕駛。警方東九龍總區交通部執行及管制組高階督察潘俊豪表示，今年6月分別拘捕3名小巴和計程車司機，涉嫌毒後駕駛，於是進行針對性部署，在今日（11月10日）展開執法行動，鎖定一名駕駛來往油塘至安達臣的專線小巴司機，安全截停目標小巴，將車上7名乘客安全帶離車廂後，向該名司機進行快速口腔液測試，初步調查發現他駕駛小巴前，曾經吸食冰毒，隨即將他拘捕。他不獲准保釋，案件明日在觀塘裁判法院提堂。"
+    },
+    {
+      "id": "5205288",
+      "time": "2026-11-10 13:08:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量542億元。"
+    },
+    {
+      "id": "5205287",
+      "time": "2026-11-10 13:07:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影《神探之痕跡》上映41天， 總票房破7億。"
+    },
+    {
+      "id": "5205286",
+      "time": "2026-11-10 13:07:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI眼鏡板塊走高】AI眼鏡板塊走高，朝陽科技、聯創電子、康冠科技、創維數字、瀛通通訊漲停，光洋股份此前封板，星宸科技、視涯科技、隆利科技漲超10%，碩貝德、潤欣科技、瑞芯微、歌爾股份、天鍵股份等跟漲。"
+    },
     {
       "id": "te:markets:599840",
       "time": "2026-11-10 13:03:21",
