@@ -1,7 +1,64 @@
 {
-  "updated": "2026-11-11 05:19:45",
-  "count": 10556,
+  "updated": "2026-11-11 05:23:29",
+  "count": 10554,
   "items": [
+    {
+      "id": "5206947",
+      "time": "2026-11-11 05:22:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "好市多將派發每股30美元的特別股息，並將40億美元的股票回購計劃延期。"
+    },
+    {
+      "id": "mkt:01a1c756-5a54-7bbc-ab93-d34899e93411",
+      "time": "2026-11-11 05:21:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed Governor Bowman said the Fed cut rates gradually last year, paused, then resumed cuts; in the coming months we may respond to inf in the same way."
+    },
+    {
+      "id": "5206946",
+      "time": "2026-11-11 05:21:02",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：美聯儲去年逐步降息，然後暫停，之後又恢復降息，我們可能會在未來幾個月以同樣的方式努力解決通脹問題。"
+    },
+    {
+      "id": "mkt:01a1c755-185f-7bbc-ab93-c9060f92d04d",
+      "time": "2026-11-11 05:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. API weekly crude inventories for the week to Nov. 6 due in 10 minutes."
+    },
+    {
+      "id": "5206945",
+      "time": "2026-11-11 05:19:32",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "Anthropic向澳大利亞監管機構提交IPO招股書。"
+    },
     {
       "id": "mkt:01a1c754-42bd-7bbc-ab93-c7c30747b8e3",
       "time": "2026-11-11 05:19:10",
@@ -97080,84 +97137,6 @@
         "國際"
       ],
       "text": "美國土安全部長：除非受到威脅否則ICE特工不會出現在投票站。"
-    },
-    {
-      "id": "te:markets:597782",
-      "time": "2026-11-04 05:21:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "AIG earnings above expectations at 2.06 USD — AIG (AIG) released earnings per share at 2.06 USD, compared to market expectations of 1.84 USD."
-    },
-    {
-      "id": "5191657",
-      "time": "2026-11-04 05:21:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD預計第四季度增長將加速，因Helios和Venice產品規模擴大。"
-    },
-    {
-      "id": "mkt:01a1a349-880f-7ee0-aa55-c535b7d4e30e",
-      "time": "2026-11-04 05:21:07",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "AMD.O",
-        "Impact bullish",
-        "NVDA.O",
-        "MU.O"
-      ],
-      "text": "AMD (AMD.O) gained 7% in after-hours U.S. trading, lifting SK Hynix (SKHY.O) about 2%; NVIDIA (NVDA.O) and Micron Technology (MU.O) rose just over 1%."
-    },
-    {
-      "id": "mkt:01a1a348-c6d5-7ee0-aa55-ba8428623371",
-      "time": "2026-11-04 05:20:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB executive board member Kocher said the ECB will continue to respond to inflation as necessary."
-    },
-    {
-      "id": "mkt:01a1a348-96a7-7ee0-aa55-b03ec8b9e2a9",
-      "time": "2026-11-04 05:20:05",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB executive board member Kocher said a December rate hike is possible if conditions do not change."
-    },
-    {
-      "id": "mkt:01a1a348-9529-7ee0-aa55-ad74c3d8ff7a",
-      "time": "2026-11-04 05:20:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "API weekly U.S. crude inventories for the week to Oct. 30 due in 10 minutes."
-    },
-    {
-      "id": "5191656",
-      "time": "2026-11-04 05:19:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "AMD財測超預期，英偉達股價上漲1.2%，Arm漲超3%。"
     }
   ]
 }

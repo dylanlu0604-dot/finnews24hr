@@ -1,7 +1,64 @@
 {
   "date": "2026-11-11",
-  "count": 396,
+  "count": 401,
   "items": [
+    {
+      "id": "5206947",
+      "time": "2026-11-11 05:22:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "好市多將派發每股30美元的特別股息，並將40億美元的股票回購計劃延期。"
+    },
+    {
+      "id": "mkt:01a1c756-5a54-7bbc-ab93-d34899e93411",
+      "time": "2026-11-11 05:21:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed Governor Bowman said the Fed cut rates gradually last year, paused, then resumed cuts; in the coming months we may respond to inf in the same way."
+    },
+    {
+      "id": "5206946",
+      "time": "2026-11-11 05:21:02",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：美聯儲去年逐步降息，然後暫停，之後又恢復降息，我們可能會在未來幾個月以同樣的方式努力解決通脹問題。"
+    },
+    {
+      "id": "mkt:01a1c755-185f-7bbc-ab93-c9060f92d04d",
+      "time": "2026-11-11 05:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. API weekly crude inventories for the week to Nov. 6 due in 10 minutes."
+    },
+    {
+      "id": "5206945",
+      "time": "2026-11-11 05:19:32",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "Anthropic向澳大利亞監管機構提交IPO招股書。"
+    },
     {
       "id": "mkt:01a1c754-42bd-7bbc-ab93-c7c30747b8e3",
       "time": "2026-11-11 05:19:10",
