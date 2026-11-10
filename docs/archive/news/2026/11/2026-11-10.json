@@ -1,7 +1,66 @@
 {
   "date": "2026-11-10",
-  "count": 410,
+  "count": 416,
   "items": [
+    {
+      "id": "5204376",
+      "time": "2026-11-10 08:00:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報59372.28點，漲幅1.02%。"
+    },
+    {
+      "id": "mkt:01a1c2bf-9bfe-7ee0-aae5-8c49e38fdd27",
+      "time": "2026-11-10 07:58:19",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan October meeting summary: one member said next year’s annual wage negotiations warrant attention. Another said wage growth is unlikely to rise materially next year and the risk of second-round effects is low. A third member said that as underlying inflation gradually converges toward the price target, additional rate hikes would be appropriate."
+    },
+    {
+      "id": "mkt:01a1c2bf-763f-7ee0-aae5-826e3f251959",
+      "time": "2026-11-10 07:58:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Bank of Japan October meeting minutes: one member said the next rate hike is unlikely to have a material net negative effect on the economy. Another member said Japan’s neutral rate is likely well above 1%. A third member warned to monitor the risk that future hikes could pressure the economy and push down inflation."
+    },
+    {
+      "id": "5204375",
+      "time": "2026-11-10 07:58:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位委員表示，明年的工資增長不太可能在今年的基礎上大幅提高，出現第二輪效應的風險不高。"
+    },
+    {
+      "id": "5204374",
+      "time": "2026-11-10 07:57:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京地鐵：13號線因霍營站裝置故障，影響部分列車有所延誤】11月10日訊息，@北京地鐵 發文稱，目前，地鐵13號線因霍營站裝置故障，影響部分列車有所延誤，工作人員已採取緊急處置措施，運營秩序正在逐步恢復中。"
+    },
+    {
+      "id": "5204373",
+      "time": "2026-11-10 07:57:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位成員表示，明年年度工資談判的結果值得關注。"
+    },
     {
       "id": "5204372",
       "time": "2026-11-10 07:56:23",

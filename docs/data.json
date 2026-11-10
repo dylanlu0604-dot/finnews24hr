@@ -1,7 +1,66 @@
 {
-  "updated": "2026-11-10 07:57:07",
-  "count": 10592,
+  "updated": "2026-11-10 08:00:53",
+  "count": 10595,
   "items": [
+    {
+      "id": "5204376",
+      "time": "2026-11-10 08:00:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報59372.28點，漲幅1.02%。"
+    },
+    {
+      "id": "mkt:01a1c2bf-9bfe-7ee0-aae5-8c49e38fdd27",
+      "time": "2026-11-10 07:58:19",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan October meeting summary: one member said next year’s annual wage negotiations warrant attention. Another said wage growth is unlikely to rise materially next year and the risk of second-round effects is low. A third member said that as underlying inflation gradually converges toward the price target, additional rate hikes would be appropriate."
+    },
+    {
+      "id": "mkt:01a1c2bf-763f-7ee0-aae5-826e3f251959",
+      "time": "2026-11-10 07:58:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Bank of Japan October meeting minutes: one member said the next rate hike is unlikely to have a material net negative effect on the economy. Another member said Japan’s neutral rate is likely well above 1%. A third member warned to monitor the risk that future hikes could pressure the economy and push down inflation."
+    },
+    {
+      "id": "5204375",
+      "time": "2026-11-10 07:58:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位委員表示，明年的工資增長不太可能在今年的基礎上大幅提高，出現第二輪效應的風險不高。"
+    },
+    {
+      "id": "5204374",
+      "time": "2026-11-10 07:57:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京地鐵：13號線因霍營站裝置故障，影響部分列車有所延誤】11月10日訊息，@北京地鐵 發文稱，目前，地鐵13號線因霍營站裝置故障，影響部分列車有所延誤，工作人員已採取緊急處置措施，運營秩序正在逐步恢復中。"
+    },
+    {
+      "id": "5204373",
+      "time": "2026-11-10 07:57:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行摘要：一位成員表示，明年年度工資談判的結果值得關注。"
+    },
     {
       "id": "5204372",
       "time": "2026-11-10 07:56:23",
@@ -97069,32 +97128,6 @@
         "其他"
       ],
       "text": "紐約州州長霍楚爾：紐約州出現30年來首例麻疹相關死亡病例。"
-    },
-    {
-      "id": "5188451",
-      "time": "2026-11-03 08:00:40",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌2.5%，至5715.19點。SK海力士和三星電子均跌超4%。日本股市今日休市。"
-    },
-    {
-      "id": "5188449",
-      "time": "2026-11-03 07:58:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【114家公司10月以來披露在手訂單充裕 9家公司同步推出回購計劃】進入10月份以來，受A股市場劇烈震盪影響，上市公司主動透露經營基本面、穩定預期的意願顯著增強。據證券時報・資料寶不完全統計，114家公司10月以來對外披露在手訂單保持充裕。這些公司中，多家千億科技巨頭髮揮帶頭作用，包括新易盛、中際旭創、天孚通訊、深南電路等。從業績來看，上述114家公司今年前三季度普遍盈利，德明利、深南電路、三環集團等20餘家公司前三季度淨利潤均超過10億元。據證券時報·資料寶統計，按照首次預案日統計，上述114家公司中，10月份以來推出回購預案的公司有9家。"
-    },
-    {
-      "id": "5188448",
-      "time": "2026-11-03 07:57:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "對沖基金埃利奧特第三季度收益持平，截至9月的今年漲幅不到2%。"
     }
   ]
 }
