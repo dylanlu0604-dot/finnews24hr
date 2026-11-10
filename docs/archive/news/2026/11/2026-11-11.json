@@ -1,7 +1,67 @@
 {
   "date": "2026-11-11",
-  "count": 389,
+  "count": 396,
   "items": [
+    {
+      "id": "mkt:01a1c754-42bd-7bbc-ab93-c7c30747b8e3",
+      "time": "2026-11-11 05:19:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Governor Bowman said the Fed is continuing cybersecurity exams of banks and has observed widespread focus on identifying and remediating vulnerabilities."
+    },
+    {
+      "id": "mkt:01a1c754-3697-7bbc-ab93-b90af367da1b",
+      "time": "2026-11-11 05:19:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatic determination: 05:16 on Nov 11 an earthquake of about magnitude 3.0 occurred near Feidong County, Hefei, Anhui; final parameters subject to official rapid bulletin."
+    },
+    {
+      "id": "mkt:01a1c754-1698-7bbc-ab93-b022ecf18221",
+      "time": "2026-11-11 05:18:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Americas Barrick Gold, a Barrick Gold subsidiary, has filed for an IPO."
+    },
+    {
+      "id": "5206944",
+      "time": "2026-11-11 05:17:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【約翰·圖恩連任美國參議院共和黨領袖】美國國會參議院共和黨人當天舉行領導層選舉，參議員約翰·圖恩獲得連任，將在下一屆國會繼續擔任參議院共和黨領袖。（央視新聞）"
+    },
+    {
+      "id": "5206943",
+      "time": "2026-11-11 05:16:28",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國巴里克黃金公司提交IPO申請，尋求以“ABGC”為程式碼在紐交所上市。"
+    },
+    {
+      "id": "5206942",
+      "time": "2026-11-11 05:15:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.29%，報12879點。"
+    },
+    {
+      "id": "5206941",
+      "time": "2026-11-11 05:15:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave下季度客戶預付款和存款將達90億美元。"
+    },
     {
       "id": "mkt:01a1c750-d625-7bbc-ab93-ac4da93f3bc6",
       "time": "2026-11-11 05:15:25",

@@ -1,7 +1,67 @@
 {
-  "updated": "2026-11-11 05:15:57",
-  "count": 10558,
+  "updated": "2026-11-11 05:19:45",
+  "count": 10556,
   "items": [
+    {
+      "id": "mkt:01a1c754-42bd-7bbc-ab93-c7c30747b8e3",
+      "time": "2026-11-11 05:19:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Governor Bowman said the Fed is continuing cybersecurity exams of banks and has observed widespread focus on identifying and remediating vulnerabilities."
+    },
+    {
+      "id": "mkt:01a1c754-3697-7bbc-ab93-b90af367da1b",
+      "time": "2026-11-11 05:19:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatic determination: 05:16 on Nov 11 an earthquake of about magnitude 3.0 occurred near Feidong County, Hefei, Anhui; final parameters subject to official rapid bulletin."
+    },
+    {
+      "id": "mkt:01a1c754-1698-7bbc-ab93-b022ecf18221",
+      "time": "2026-11-11 05:18:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Americas Barrick Gold, a Barrick Gold subsidiary, has filed for an IPO."
+    },
+    {
+      "id": "5206944",
+      "time": "2026-11-11 05:17:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【約翰·圖恩連任美國參議院共和黨領袖】美國國會參議院共和黨人當天舉行領導層選舉，參議員約翰·圖恩獲得連任，將在下一屆國會繼續擔任參議院共和黨領袖。（央視新聞）"
+    },
+    {
+      "id": "5206943",
+      "time": "2026-11-11 05:16:28",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國巴里克黃金公司提交IPO申請，尋求以“ABGC”為程式碼在紐交所上市。"
+    },
+    {
+      "id": "5206942",
+      "time": "2026-11-11 05:15:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.29%，報12879點。"
+    },
+    {
+      "id": "5206941",
+      "time": "2026-11-11 05:15:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave下季度客戶預付款和存款將達90億美元。"
+    },
     {
       "id": "mkt:01a1c750-d625-7bbc-ab93-ac4da93f3bc6",
       "time": "2026-11-11 05:15:25",
@@ -97098,100 +97158,6 @@
         "市場"
       ],
       "text": "AMD財測超預期，英偉達股價上漲1.2%，Arm漲超3%。"
-    },
-    {
-      "id": "5191655",
-      "time": "2026-11-04 05:19:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD預計第四季度調整後運營費用約為37.5億美元。"
-    },
-    {
-      "id": "mkt:01a1a347-4c51-7ee0-aa55-a2d13ee6d9cf",
-      "time": "2026-11-04 05:18:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O"
-      ],
-      "text": "AMD (AMD.O) reported a 54% gross margin for Q3 2026."
-    },
-    {
-      "id": "5191654",
-      "time": "2026-11-04 05:18:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD 預計第四季度經調整毛利率大約55％，預估55.5％。"
-    },
-    {
-      "id": "mkt:01a1a346-d593-7ee0-aa55-99651a57a8ef",
-      "time": "2026-11-04 05:18:10",
-      "tags": [
-        "MKT News",
-        "AMD.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "AMD (AMD.O) reported Q3 2026 net income $2.40 billion, up from $1.243 billion a year earlier; consensus $2.372 billion."
-    },
-    {
-      "id": "te:markets:597781",
-      "time": "2026-11-04 05:17:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Advanced Micro Devices earnings above expectations at 2.09 USD — Advanced Micro Devices (AMD) released earnings per share at 2.09 USD, compared to market expectations of 1.85 USD."
-    },
-    {
-      "id": "mkt:01a1a346-63b9-7ee0-aa55-9553852b2635",
-      "time": "2026-11-04 05:17:41",
-      "tags": [
-        "MKT News",
-        "AMD.O"
-      ],
-      "text": "AMD (AMD.O) expects adjusted gross margin of 55% for Q4 2026."
-    },
-    {
-      "id": "mkt:01a1a346-52d6-7ee0-aa55-887492e91dad",
-      "time": "2026-11-04 05:17:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "AMD (AMD.O) US-listed shares rose about 6% in after-hours trading after the company's quarterly revenue and earnings guidance beat estimates."
-    },
-    {
-      "id": "5191653",
-      "time": "2026-11-04 05:17:08",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "AMD預計第四季度營收約為170億美元，上下浮動3%，市場預期為163億美元。AMD美股盤後上漲6%。"
-    },
-    {
-      "id": "mkt:01a1a345-184e-7ee0-aa55-826ea2f27aa5",
-      "time": "2026-11-04 05:16:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "AMD (AMD.O) guides Q4 2026 revenue at $17.0 bln; market consensus $16.234 bln."
     }
   ]
 }
