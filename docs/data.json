@@ -1,7 +1,69 @@
 {
-  "updated": "2026-11-10 08:27:34",
-  "count": 10626,
+  "updated": "2026-11-10 08:31:23",
+  "count": 10628,
   "items": [
+    {
+      "id": "5204412",
+      "time": "2026-11-10 08:30:21",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國Kospi指數上漲5% 晶片股領漲】 韓國Kospi指數飆升5%，晶片股領漲，追隨隔夜美股漲勢，受原油價格下跌及逢低買盤推動。三星電子和SK海力士股價均上漲至少5%。韓國Kosdaq小盤股指數一度上漲4.3%。"
+    },
+    {
+      "id": "mkt:01a1c2dc-be95-7ee0-aae6-2971c768809e",
+      "time": "2026-11-10 08:30:08",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia October NAB business conditions index -2, prior -1."
+    },
+    {
+      "id": "mkt:01a1c2dc-bc4d-7ee0-aae6-20fd50ae2600",
+      "time": "2026-11-10 08:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia October NAB business confidence index -15, prior -13."
+    },
+    {
+      "id": "mkt:01a1c2dc-9d29-7ee0-aae6-1cf1da1b8473",
+      "time": "2026-11-10 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | NAB Business Confidence Index (Oct) | actual -15 | previous -13"
+    },
+    {
+      "id": "mkt:01a1c2dc-9d13-7ee0-aae6-174c7edd0330",
+      "time": "2026-11-10 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | NAB Business conditions Index (Oct) | actual -2 | previous -1"
+    },
+    {
+      "id": "te:markets:599754",
+      "time": "2026-11-10 08:29:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Rally on Tech Boost — Asian equity markets advanced on Tuesday, following overnight gains on Wall Street as technology shares rebounded from last week’s selloff amid improving sentiment toward the artificial intelligence sector. Tech stocks faced significant selling pressure last week after Democrats secured a sweeping victory in the US midterm elections, raising concerns over tighter AI regulations and a potential slowdown in data center expansion. Meanwhile, oil prices declined after President Donald Trump voiced optimism that the conflict in Iran could be nearing an end following discussions with Qatar’s prime minister, helping ease concerns over inflationary pressures. South Korea’s Kospi Index, a key indicator of AI-related market sentiment, surged more than 5%, leading gains across the region. Japan’s technology-heavy Nikkei 225 also advanced nearly 3%."
+    },
     {
       "id": "5204411",
       "time": "2026-11-10 08:26:14",
@@ -97418,40 +97480,6 @@
         "其他"
       ],
       "text": "中國地震臺網正式測定：11月03日08時27分在西藏那曲市巴青縣（北緯32.42度，東經93.87度）發生3.7級地震，震源深度10千米。"
-    },
-    {
-      "id": "5188480",
-      "time": "2026-11-03 08:31:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破3960美元/盎司，日內漲0.38%。"
-    },
-    {
-      "id": "5188479",
-      "time": "2026-11-03 08:31:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破3970美元/盎司，日內漲0.02%。"
-    },
-    {
-      "id": "5188478",
-      "time": "2026-11-03 08:29:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【皓元醫藥與軒竹生物達成全面戰略合作】據皓元醫藥訊息，近日，皓元醫藥與軒竹生物科技股份有限公司（簡稱“軒竹生物”）正式簽署全面戰略合作協議。雙方將圍繞創新藥早期研發、工藝開發、原料藥商業化生產等關鍵環節開展深度協同，以產業化能力賦能創新研發，共同提升創新藥商業化推進效率。"
-    },
-    {
-      "id": "5188475",
-      "time": "2026-11-03 08:28:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，埃克森美孚將於11月30日關閉得克薩斯州博蒙特煉油廠的流化催化裂化裝置進行維修。"
     }
   ]
 }

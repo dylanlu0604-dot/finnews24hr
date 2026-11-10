@@ -1,7 +1,69 @@
 {
   "date": "2026-11-10",
-  "count": 469,
+  "count": 475,
   "items": [
+    {
+      "id": "5204412",
+      "time": "2026-11-10 08:30:21",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國Kospi指數上漲5% 晶片股領漲】 韓國Kospi指數飆升5%，晶片股領漲，追隨隔夜美股漲勢，受原油價格下跌及逢低買盤推動。三星電子和SK海力士股價均上漲至少5%。韓國Kosdaq小盤股指數一度上漲4.3%。"
+    },
+    {
+      "id": "mkt:01a1c2dc-be95-7ee0-aae6-2971c768809e",
+      "time": "2026-11-10 08:30:08",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia October NAB business conditions index -2, prior -1."
+    },
+    {
+      "id": "mkt:01a1c2dc-bc4d-7ee0-aae6-20fd50ae2600",
+      "time": "2026-11-10 08:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia October NAB business confidence index -15, prior -13."
+    },
+    {
+      "id": "mkt:01a1c2dc-9d29-7ee0-aae6-1cf1da1b8473",
+      "time": "2026-11-10 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | NAB Business Confidence Index (Oct) | actual -15 | previous -13"
+    },
+    {
+      "id": "mkt:01a1c2dc-9d13-7ee0-aae6-174c7edd0330",
+      "time": "2026-11-10 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | NAB Business conditions Index (Oct) | actual -2 | previous -1"
+    },
+    {
+      "id": "te:markets:599754",
+      "time": "2026-11-10 08:29:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Rally on Tech Boost — Asian equity markets advanced on Tuesday, following overnight gains on Wall Street as technology shares rebounded from last week’s selloff amid improving sentiment toward the artificial intelligence sector. Tech stocks faced significant selling pressure last week after Democrats secured a sweeping victory in the US midterm elections, raising concerns over tighter AI regulations and a potential slowdown in data center expansion. Meanwhile, oil prices declined after President Donald Trump voiced optimism that the conflict in Iran could be nearing an end following discussions with Qatar’s prime minister, helping ease concerns over inflationary pressures. South Korea’s Kospi Index, a key indicator of AI-related market sentiment, surged more than 5%, leading gains across the region. Japan’s technology-heavy Nikkei 225 also advanced nearly 3%."
+    },
     {
       "id": "5204411",
       "time": "2026-11-10 08:26:14",
