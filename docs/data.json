@@ -1,7 +1,224 @@
 {
-  "updated": "2026-11-10 21:10:00",
-  "count": 10440,
+  "updated": "2026-11-10 21:14:07",
+  "count": 10461,
   "items": [
+    {
+      "id": "mkt:01a1c597-6b47-7bbc-ab86-5dd44aca7818",
+      "time": "2026-11-10 21:13:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【UAE Murban premium plunges over 60%, cut exceeds ARAMCO】Following Saudi price cuts, Abu Dhabi state oil firm ADNOC cut the premium on December-loading Murban crude by more than 60% to $4/bbl above the Dubai benchmark, traders said. Official selling prices for other major UAE grades were also lowered versus November. The Murban reduction exceeds ARAMCO’s cut announced last week. Middle East crude exports are recovering toward pre-war levels as flows resume via tankers through the Strait of Hormuz and pipelines that bypass it, a development weighing on global oil prices."
+    },
+    {
+      "id": "mkt:01a1c597-5ae2-7bbc-ab86-5330264e013c",
+      "time": "2026-11-10 21:13:13",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli said wage disinflation is proceeding more slowly than expected."
+    },
+    {
+      "id": "5206358",
+      "time": "2026-11-10 21:13:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會成員隆巴德利：工資通脹回落速度不及預期。"
+    },
+    {
+      "id": "5206357",
+      "time": "2026-11-10 21:12:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想落地首個混合詞元母本工廠】11月10日，聯想集團在河北張家口釋出“萬全混合詞元工廠”品牌，首個母本工廠正式落地當地京津冀算力樞紐節點。在國內AI算力供給偏緊、推理側詞元需求爆發的背景下，聯想將內部驗證的全棧調優能力對外輸出，試圖打通從底層算力到上層應用的詞元供給鏈路，並沿著產業聚集路徑推進商業化。此次釋出的萬全混合詞元工廠，是聯想“三層混合動力”架構的中間環節。聯想集團執行副總裁兼中國區總裁劉軍介紹，三層架構中，底層為問天AI基礎設施，覆蓋伺服器、儲存、網路及異構智算平臺；中間層萬全混合詞元工廠負責算力排程與詞元生產；上層則是面向大型政企的擎天智慧體服務與面向中小企業的百應服務。據聯想集團副總裁、全球基礎架構和智慧雲總經理姚振宇介紹，混合詞元工廠的“混合”體現在三個層面，私有詞元池與公有詞元的部署混合，開源權重模型與閉源商業模型的選型混合，以及異構晶片的算力混合。其核心排程機制為模型智慧路由，系統根據請求場景，將複雜任務分配至大引數模型，簡單互動分配至小模型，以此提升整體詞元生產效率。"
+    },
+    {
+      "id": "mkt:01a1c596-c943-7bbc-ab86-4e4f480939f2",
+      "time": "2026-11-10 21:12:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said European allies have finally begun taking concrete action."
+    },
+    {
+      "id": "5206356",
+      "time": "2026-11-10 21:12:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌雲：Gemini for Healthcare今日在美國開放預覽。"
+    },
+    {
+      "id": "5206355",
+      "time": "2026-11-10 21:12:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧迪全球CEO高德諾：任用本土管理者模式有望全球推廣】“奧迪依託兩大合作伙伴、兩大品牌，以兩條互補的發展路徑，回應本土市場需求。其中，四環品牌正在煥新，並持續強化現有業務；AUDI字母標品牌則與本土合作伙伴推出高度本土化產品。”奧迪集團全球CEO高德諾（Gernot Döllner）近日對記者表示，雙品牌戰略調整能進一步集中資源、發揮各自優勢，以更高效地協同和執行推動奧迪在中國市場的長期發展。高德諾稱，隨著全球市場日益複雜，必須進一步推進本土化，任用熟悉本土市場的管理者是順理成章的一步。（第一財經）"
+    },
+    {
+      "id": "5206354",
+      "time": "2026-11-10 21:12:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌4%，現報575.20元。"
+    },
+    {
+      "id": "5206353",
+      "time": "2026-11-10 21:11:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "赫格塞思：歐洲盟友終於開始行動了"
+    },
+    {
+      "id": "5206352",
+      "time": "2026-11-10 21:11:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思讚揚美軍在伊朗和南美的行動表現。"
+    },
+    {
+      "id": "mkt:01a1c595-c768-7bbc-ab86-4637b00af6da",
+      "time": "2026-11-10 21:11:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Defense Secretary Hegseth praised U.S. MILITARY operations in Iran and South America."
+    },
+    {
+      "id": "mkt:01a1c595-7d2f-7bbc-ab86-3d2d9e5d7a98",
+      "time": "2026-11-10 21:11:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Hegseth says impeachment undermines US troops; claims Iran started war, over 80% of Iran nuclear industry destroyed】U.S. Defense Secretary Hegseth said at a press conference that Iran, not the U.S., started the war, that more than 80% of Iran’s nuclear industry base has been destroyed, and that the U.S. controls the Strait of Hormuz. He added impeachment efforts show the U.S. will punish its own, called the resolution deliberate sabotage, and said attempts to remove him amount to acting against U.S. service members."
+    },
+    {
+      "id": "mkt:01a1c595-7a28-7bbc-ab86-315076cdc47d",
+      "time": "2026-11-10 21:11:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli said it is currently difficult to determine whether the UK economy is genuinely more resilient to price shocks or is approaching the limits of households' and firms' capacity to absorb them."
+    },
+    {
+      "id": "5206351",
+      "time": "2026-11-10 21:10:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紐約州州長霍楚爾推出全美首個州級AI測試專案】據媒體提前對外披露的政策公告，紐約州州長凱西・霍楚即將推出一項全美首創計劃：由州政府獨立測試人工智慧系統，並培養新一代人工智慧安全領域專業人才。民主黨籍州長霍楚爾在週二正式釋出公告前表示：“聯邦政府不作為，紐約就牽頭推進 AI 安全監管，對大型科技企業進行約束。風險太高，我們不能只聽信 AI 企業的一面之詞。”該測試中心資金來源包括彭博聯合創始人湯姆・塞昆達捐贈的 3000 萬美元，以及紐約州立大學和紐約州政府配套投入的 2500 萬美元科研經費。中心將在紐約核心 AI 安全法案《RAISE 法案》1 月 1 日生效前投入運營。法案要求在紐約運營的 AI 企業提交詳盡的安全方案，霍楚政府希望新中心的研究人員能夠對這些方案開展審查。霍楚推出的這項新計劃會資助相關研究，以落實對 AI 企業的問責。但研究人員只能獲取 AI 企業依法對外披露的資訊；企業仍在研發中的內部模型，依舊屬於保密資訊。"
+    },
+    {
+      "id": "5206350",
+      "time": "2026-11-10 21:09:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部10日發表宣告說，法國關於伊朗伊斯蘭革命衛隊策劃網路攻擊法國超市制冷系統的說法“毫無根據且充滿敵意”。（新華國際）"
+    },
+    {
+      "id": "mkt:01a1c594-5bf5-7bbc-ab86-2ab24003a721",
+      "time": "2026-11-10 21:09:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said more than 80% of Iran's nuclear industry facilities have been destroyed."
+    },
+    {
+      "id": "mkt:01a1c594-166b-7bbc-ab86-26c77d8987dd",
+      "time": "2026-11-10 21:09:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli said the effect of labour-market slack on inflation is waning."
+    },
+    {
+      "id": "5206349",
+      "time": "2026-11-10 21:09:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "赫格塞思：伊朗核工業基礎已損失超過80%。"
+    },
+    {
+      "id": "5206348",
+      "time": "2026-11-10 21:09:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "GOODRX股價盤前上漲6.4%，此前該公司與GEMINI達成醫療保健協議。"
+    },
+    {
+      "id": "mkt:01a1c593-990e-7bbc-ab86-1f6ef6d3032a",
+      "time": "2026-11-10 21:09:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "US Secretary of Defense Hegseth said the war was not started by the US but by Iran."
+    },
+    {
+      "id": "mkt:01a1c593-5700-7bbc-ab86-147a37e4f213",
+      "time": "2026-11-10 21:08:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli said spare capacity in the UK economy may be lower than the BoE expects, around 0-1% rather than 1%."
+    },
+    {
+      "id": "5206347",
+      "time": "2026-11-10 21:08:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長隆巴德利：我認為英國經濟中的閒置產能可能少於英國央行核心觀點所認為的水平，或許在0%至1%之間，而非1%。"
+    },
     {
       "id": "mkt:01a1c592-e790-7bbc-ab86-0b04a778801c",
       "time": "2026-11-10 21:08:21",
@@ -95771,18 +95988,6 @@
         "美聯儲"
       ],
       "text": "美國總統特朗普表示，如果美聯儲降息，美國就可以實現預算平衡。"
-    },
-    {
-      "id": "te:markets:597684",
-      "time": "2026-11-03 21:11:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Sysco earnings in line with market expectations at 1.19 USD — Sysco (SYY) released earnings per share at 1.19 USD, in line with market expectations."
     }
   ]
 }
