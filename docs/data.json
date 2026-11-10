@@ -1,7 +1,58 @@
 {
-  "updated": "2026-11-10 12:50:53",
-  "count": 10709,
+  "updated": "2026-11-10 12:54:46",
+  "count": 10713,
   "items": [
+    {
+      "id": "mkt:01a1c3ce-8b54-7ee0-aaeb-a3f65b2c7a4c",
+      "time": "2026-11-10 12:54:15",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "【Rubio says US and Israel are discussing new military-aid MoU】US Secretary of State Rubio said on the 9th the United States and Israel are discussing a new memorandum of understanding on US military assistance. Speaking after the G7 foreign ministers' meeting in France, Rubio said President Trump believes Israel is now wealthy enough to buy US weapons and that the US no longer needs to fund them; Trump wants the new MoU implemented quickly."
+    },
+    {
+      "id": "mkt:01a1c3cc-eb41-7ee0-aaeb-9e1f5609bf18",
+      "time": "2026-11-10 12:52:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan Meteorological Agency says El Niño will peak in early winter with 100% probability and is expected to continue through spring 2027."
+    },
+    {
+      "id": "5205278",
+      "time": "2026-11-10 12:51:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【全球晶片LOF將於今日下午開市起停牌至當日收市】景順長城基金管理有限公司11月10日公告，近期，景順長城基金管理有限公司旗下景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）（場內簡稱：全球晶片，擴位簡稱：全球晶片LOF，交易程式碼：501225）二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。2026年11月10日中午收盤，本基金二級市場的收盤價為3.118元，截至2026年11月6日，本基金基金份額淨值為2.3571元。特此鄭重提醒廣大投資者，應密切關注二級市場交易價格溢價風險，審慎做出投資決策,如盲目投資，後續可能遭受重大損失。為保護投資者利益，本基金將於2026年11月10日下午開市起停牌至當日收市，停牌期間本基金贖回業務照常辦理。"
+    },
+    {
+      "id": "5205277",
+      "time": "2026-11-10 12:51:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本氣象廳預測，厄爾尼諾天氣模式在初冬達到峰值的機率為100%，隨後將持續至2027年春季。"
+    },
+    {
+      "id": "mkt:01a1c3cb-6b83-7ee0-aaeb-974190828e7d",
+      "time": "2026-11-10 12:50:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【U.S. withdraws aircraft from UK base for second time amid Iran threat】U.S. forces on Monday evacuated aircraft from RAF Mildenhall after threats from Iran, two people with knowledge said, marking the second such withdrawal from UK bases over Iran-linked threats. Flight-tracking data and officials showed two air-to-air refuelling tankers based at Mildenhall were diverted to Germany early on Monday; later that day several additional tankers were moved to Germany and other locations. A U.S. Air Force spokesman declined to provide details, saying aircraft routinely rotate between facilities for various reasons and that officials are still assessing whether the threat was imminent or general. The move follows the Pentagon’s withdrawal last month of B-1 bombers from RAF Fairford amid concerns about an Iran-backed plot to use drones and other means to target U.S. aircrew and aircraft."
+    },
     {
       "id": "5205276",
       "time": "2026-11-10 12:49:59",
@@ -98220,18 +98271,6 @@
         "澳洲聯儲"
       ],
       "text": "澳洲聯儲主席布洛克表示，當前澳洲勞動力市場依舊偏緊。"
-    },
-    {
-      "id": "te:markets:597527",
-      "time": "2026-11-03 12:51:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Extends Rally for Fourth Straight Day — India’s BSE Sensex rose about 1.0% to 76,408 on Tuesday, extending its winning streak to four sessions and holding near its highest level since September 7, as easing crude oil prices, strong corporate earnings and renewed foreign buying lifted sentiment. Foreign portfolio investors bought a net 31.15 billion rupees ($350 million) worth of Indian shares on Monday, supporting equities after sustained outflows. Sentiment also benefited from SEBI’s proposal to scrap long-term capital gains tax on foreign equity investments, subject to government approval. Among stocks, Marico gained 6.3% after reporting a 31% rise in quarterly net profit, aided by lower copra costs and resilient demand. KRBL climbed 11.8% on a 51% profit increase, while Trident surged 12.3% after reporting a 93.1% rise in profit and announcing a 4,650-crore-rupee expansion, and VRL Logistics jumped 10% on stronger earnings. Meanwhile, KEC International fell 7.3% after quarterly profit plunged 81.5%."
     }
   ]
 }
