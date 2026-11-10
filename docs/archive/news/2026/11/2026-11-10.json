@@ -1,7 +1,55 @@
 {
   "date": "2026-11-10",
-  "count": 442,
+  "count": 448,
   "items": [
+    {
+      "id": "mkt:01a1c2cb-3568-7ee0-aae5-f15b0be18e4d",
+      "time": "2026-11-10 08:10:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange activated a program-trading pause on the KOSDAQ index, suspending programmatic buy orders."
+    },
+    {
+      "id": "te:economy:599748",
+      "time": "2026-11-10 08:10:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "BRC Retail Sales Monitor YoY",
+        "Importance 1"
+      ],
+      "text": "UK Retail Sales Growth Hits 4-Month High — UK retail sales rose by 1.1% year-on-year on a like-for-like basis in October 2026, slightly below market forecasts of 1.2% but faster than the previous month’s 1.0% increase and marking the sharpest rise since June. Total retail sales increased by 1.5% year-on-year, accelerating from September’s 1.3% growth. Food sales rose by 3.2%, while non-food sales remained flat, reflecting cautious consumer spending ahead of the crucial festive shopping season and Black Friday promotions. Meanwhile, Barclays’ measure of consumer card spending increased by 2.3% year-on-year, accelerating from 2.0% in September and marking its strongest growth since July 2025. Essential spending climbed by 3.1%, driven by a 22.7% surge in fuel spending, while non-essential spending rose by 1.9%. However, consumer confidence remained subdued amid higher household costs, inflation concerns, and uncertainty ahead of the government’s upcoming budget."
+    },
+    {
+      "id": "te:markets:599747",
+      "time": "2026-11-10 08:09:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Orix earnings above expectations at 529.09 JPY — Orix (8591) released earnings per share at 529.09 JPY, compared to market expectations of 106.44 JPY."
+    },
+    {
+      "id": "mkt:01a1c2c9-3521-7ee0-aae5-ec2c5e2deabc",
+      "time": "2026-11-10 08:08:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Diplomat says Trump seeks agreement with Iran】A diplomat familiar with the meeting said President Trump told Qatari Prime Minister Mohammed bin Abdulrahman al‑Thani he wants an agreement with Iran and is willing to give talks a chance, but warned he could change his current stance if Iran does not take negotiations seriously."
+    },
+    {
+      "id": "5204391",
+      "time": "2026-11-10 08:08:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皖能集團戰略投資中科星雲】據皖能集團訊息，11月9日，由皖能集團參與發起設立的中科星雲太空智慧科技（合肥）有限公司（簡稱“中科星雲”）成立大會在合肥舉行。本次投資由皖能資本公司牽頭，聯合集團公司兩家上市公司皖能電力、皖天然氣出資1億元，透過皖能天算合夥企業戰略性投資中科星雲。中科星雲承接中國科學院空天資訊創新研究院“太空雲”專項技術積累，匯聚產業鏈龍頭，確立全棧國產化自主技術路線，致力於建設和運營“天地對等”的太空算力網。"
+    },
     {
       "id": "te:markets:599746",
       "time": "2026-11-10 08:07:46",
@@ -13,6 +61,15 @@
         "Importance 1"
       ],
       "text": "US Futures Steady Ahead of CPI Report — US stock futures held steady on Tuesday as investors awaited the October Consumer Price Index report, with both headline and core inflation expected to ease amid stabilizing energy prices. Market participants are also looking to neocloud company CoreWeave’s earnings release for further signals on the artificial intelligence sector. During Monday’s regular session, the Dow rose 2.15%, the S&P 500 advanced gained 2.35%, and the Nasdaq Composite climbed 2.74%. Semiconductor shares rebounded following last week’s sharp selloff, which came after Democrats gained control of Congress, raising concerns over tighter AI oversight and a potential slowdown in data center expansion. Meanwhile, Nvidia shares fell more than 4% after CEO Jensen Huang acknowledged an alleged affair with a suspected Chinese spy, fueling concerns that Congress could impose stricter export restrictions on the company’s chips."
+    },
+    {
+      "id": "5204390",
+      "time": "2026-11-10 08:07:21",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：煤價壓制單季盈利，關注電價上行空間】中信證券研報表示，2026年前三季度，供需環境寬鬆疊加燃料成本上行，導致電力行業經營延續承壓；營收同比持平，淨利潤同比下滑19%，各電源中火電與新能源板塊業績下滑格外突出；受煤價高企、利用小時下滑等拖累，行業淨利潤率和ROE同比下降明顯；電力行業供需重新平衡時點臨近，沿海省份電價有望重回上漲週期，驅動行業盈利整體改善。"
     },
     {
       "id": "mkt:01a1c2c7-7849-7ee0-aae5-e172b6994810",
