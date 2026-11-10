@@ -1,7 +1,41 @@
 {
-  "updated": "2026-11-10 13:18:16",
-  "count": 10742,
+  "updated": "2026-11-10 13:22:04",
+  "count": 10745,
   "items": [
+    {
+      "id": "mkt:01a1c3e7-9b66-7ee0-aaeb-fd6aef92c4fc",
+      "time": "2026-11-10 13:21:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 index closed up 105.90 points, or 1.17%, at 9,135.60 on Tuesday, Nov. 10."
+    },
+    {
+      "id": "5205299",
+      "time": "2026-11-10 13:19:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大眾CEO稱計劃明年實現L3級技術就緒】“能在中國市場取得成功，就能在全球市場取得成功。”大眾汽車集團管理董事會主席奧博穆在進博會期間表示。 智慧駕駛是當前競爭的核心戰場。奧博穆說：“我們建立了明確的KPI，用以衡量自身技術水平並與競爭對手比較。憑藉最新L2++全場景智慧駕駛輔助解決方案，大眾汽車智慧駕駛技術已經在中國市場位居領先地位。”這套系統的目標是做到像人類駕駛員一樣流暢自然，適配國內複雜路況，同時守住安全底線，為高階自動駕駛鋪路。“我們的目標非常明確：在明年實現L3級自動駕駛技術就緒。”奧博穆同時強調，“任何一項技術在正式推向市場之前，都必須確保安全。這是大眾汽車集團不可妥協的基本原則。”他表示，技術就緒不等於商業化落地，投放必須匹配各地法規；集團已經著手規劃L4和訂閱服務模式，看好出行即服務的長期前景，路線為先深耕L2++、落地L3，2030年前向L4邁進，整體進度符合規劃。（一財）"
+    },
+    {
+      "id": "em:jjsj_ozsj:202611103927214740",
+      "time": "2026-11-10 13:18:04",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "【11月澳大利亞消費者信心指數降至近年來新低】西太平洋銀行（WestpacBank）和墨爾本研究院（MelbourneInstitute）10日釋出的報告顯示，2026年11月澳大利亞西太平洋銀行/墨爾本研究院消費者信心指數（暨消費者情緒指數）較10月水平下降2.7%至78.2點。"
+    },
+    {
+      "id": "5205298",
+      "time": "2026-11-10 13:17:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【原油延續跌勢 此前特朗普稱無需進一步打擊伊朗】原油價格從8月以來最低收盤水平進一步下跌，此前美國總統唐納德·特朗普表示，沒必要進一步打擊伊朗。布倫特原油週一大跌近6%，後進一步跌破每桶92美元；WTI原油則跌至每桶86美元之下。美國中期選舉過後，市場對於對伊戰爭提前結束的希望升溫。美國國會民主黨人正在考慮，是否利用12月11日的政府停擺期限向特朗普施壓，促其結束這場已進入第九個月的衝突。特朗普稱，美國仍處於“嚴陣以待”的狀態，同時暗示希望逐步結束衝突。中期選舉結果凸顯了這場戰爭不得人心。“從軍事上來說，伊朗實際上已經完了。”他週一在白宮會見卡達首相謝赫·穆罕默德·本·阿卜杜勒拉赫曼·阿勒薩尼之後對記者表示。卡達是美國和伊朗談判的斡旋方。截至發稿1月結算的布倫特原油期貨下跌1.2%，至每桶91.42美元；12月交割的WTI原油期貨下跌1.2%，報每桶85.82美元。"
+    },
     {
       "id": "te:economy:599843",
       "time": "2026-11-10 13:16:12",
@@ -98524,18 +98558,6 @@
         "Importance 0"
       ],
       "text": "ICICI Bank Shares Hit 8-week High — ICICI Bank shares increased to 1412.00 INR, the highest since September 2026. Over the past 4 weeks, ICICI Bank gained 5.89%, and in the last 12 months, it increased 5.5%."
-    },
-    {
-      "id": "te:economy:597529",
-      "time": "2026-11-03 13:20:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Egypt",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Egypt October Non-Oil Private Sector Activity Unchanged — The S&P Global Egypt PMI remained unchanged at 47.2 in October 2026, signaling a contraction in non-oil private sector activity for the tenth consecutive month. Output and new orders both declined at their fastest rates in four months, as weak client demand, reduced purchasing power, and ongoing Middle East conflict weighed on business activity. Employment also returned to contraction, ending a two-month period of job creation, while backlogs of work fell for the first time since January. Meanwhile, input cost inflation accelerated to a five-month high, driven by higher prices for imported materials, energy, and shipping, as well as currency depreciation. Consequently, firms raised selling prices at the fastest pace since June to pass on higher operating costs. Looking ahead, business confidence weakened further to a seven-month low, with firms expressing concerns over persistent inflation, geopolitical tensions, and supply chain disruptions."
     }
   ]
 }
