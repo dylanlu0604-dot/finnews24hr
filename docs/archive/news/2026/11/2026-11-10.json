@@ -1,7 +1,61 @@
 {
   "date": "2026-11-10",
-  "count": 905,
+  "count": 911,
   "items": [
+    {
+      "id": "mkt:01a1c40b-3ffb-7ee0-aaec-77333bc38f59",
+      "time": "2026-11-10 14:00:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Muscat Securities Market CEO confident FTSE Russell will upgrade Oman to emerging-market status."
+    },
+    {
+      "id": "5205331",
+      "time": "2026-11-10 14:00:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海路威澄雅企業管理合夥企業（有限合夥）成立，出資額約3.1億】天眼查App顯示，近日，上海路威澄雅企業管理合夥企業（有限合夥）成立，執行事務合夥人為路威凱騰（成都）私募基金管理有限公司，出資額約3.1億元人民幣，經營範圍為企業管理、企業管理諮詢。合夥人資訊顯示，該合夥企業由路威凱騰（海南）企業管理諮詢中心（有限合夥）、路威凱騰（成都）私募基金管理有限公司共同出資。"
+    },
+    {
+      "id": "5205330",
+      "time": "2026-11-10 13:59:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：伊斯蘭債券流動性穩定在衝突前水平之下。"
+    },
+    {
+      "id": "te:economy:599851",
+      "time": "2026-11-10 13:59:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Netherlands October Inflation Confirmed at 3.7% — The annual inflation rate in the Netherlands rose to 3.7% in October 2026, picking up from 3.4% in September and confirming preliminary estimates. This marked the highest reading since April 2025, as inflation accelerated for housing and utilities (4.7% vs. 4.2% in September), while transport inflation remained elevated at 9.1%. Gas prices rose faster (11.7% vs. 7.4%), while fuel price growth moderated for petrol (22.6% vs. 27.3%) and diesel (44.4% vs. 45.8%). Costs also rose faster for health (1.9% vs. 1.3%) and alcoholic beverages and tobacco (2.6% vs. 2.3%). Meanwhile, food prices fell at a slower pace (-1.2% vs. -1.8%), while inflation eased for clothing and footwear (0.4% vs. 0.6%) and restaurants (4.0% vs. 4.3%). On a monthly basis, consumer prices rose 0.7% in October, accelerating from a 0.1% increase in September. Meanwhile, annual HICP inflation increased to 3.3% from 3.0% in September."
+    },
+    {
+      "id": "5205329",
+      "time": "2026-11-10 13:58:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【物理AI概念港股走強 群核科技漲近30%】港股機器人及物理AI概念盤中走強。截至發稿，群核科技（00068.HK）漲28.24%，天數智芯（09903.HK）漲14.91%，優必選（09880.HK）漲6.4%，地平線機器人-W（09660.HK）漲7.3%，禾賽-W（02525.HK）漲6.2%，舜宇光學科技（02382.HK）漲4.6%。"
+    },
+    {
+      "id": "5205328",
+      "time": "2026-11-10 13:57:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發改委：今年安排中央投資200多億元，將2萬間4人及以上病房改造為2—3人間】11月10日，國家發展改革委舉行“奮進‘十五五’”系列新聞釋出會第四場，國家發展改革委社會發展司副司長黃瑋茹介紹，今年安排中央投資200多億元，將2萬間4人及以上病房改造為2—3人間。"
+    },
     {
       "id": "5205327",
       "time": "2026-11-10 13:56:41",
