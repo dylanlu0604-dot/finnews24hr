@@ -1,7 +1,75 @@
 {
   "date": "2026-11-11",
-  "count": 412,
+  "count": 419,
   "items": [
+    {
+      "id": "5206959",
+      "time": "2026-11-11 05:37:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）警告預測平臺Kalshi可能即將面臨指控。"
+    },
+    {
+      "id": "5206958",
+      "time": "2026-11-11 05:36:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院共和黨領袖圖恩：可能延長會期並增加投票日，以強勢收尾。"
+    },
+    {
+      "id": "mkt:01a1c763-7651-7bbc-ab93-f02f84fcab8f",
+      "time": "2026-11-11 05:35:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices fell on the 10th】At the close, NYMEX December WTI fell $0.81 to $86.04/bbl, down 0.93%. ICE January Brent fell $1.08 to $91.49/bbl, down 1.17%."
+    },
+    {
+      "id": "5206957",
+      "time": "2026-11-11 05:35:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價10日下跌】截至當天收盤，紐約商品交易所12月交貨的輕質原油期貨價格下跌81美分，收於每桶86.04美元，跌幅為0.93%；1月交貨的倫敦布倫特原油期貨價格下跌1.08美元，收於每桶91.49美元，跌幅為1.17%。"
+    },
+    {
+      "id": "5206956",
+      "time": "2026-11-11 05:35:38",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲理事鮑曼警告AI投資回報不及預期或導致股市估值大幅回撥】美聯儲理事米歇爾·鮑曼表示，她認為金融市場給經濟活動帶來諸多風險，其中包括一旦人工智慧領域的投資回報不及預期，股價可能大幅下跌。鮑曼週二在華盛頓發表講話時警告，AI投資回報問題可能引發“股票估值大幅回撥”的風險，同時還提及“私營部門長期利率急劇上升”的隱患。“股價下跌可能削弱消費者支出的韌性，”她說。“而利率上升可能進一步給住房和小企業投資等利率敏感的經濟領域帶來壓力。”"
+    },
+    {
+      "id": "te:markets:600150",
+      "time": "2026-11-11 05:35:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.18% Lower — The Dow Jones Index dropped 96 points or 0.18 percent on Tuesday to close at 52294 points. Losses were led by Nvidia (-5.44%), Nike (-3.08%) and Caterpillar (-2.39%). Offsetting the fall, top gainers were UnitedHealth (1.84%), Amazon (1.48%) and Travelers Companies (1.46%)."
+    },
+    {
+      "id": "5206955",
+      "time": "2026-11-11 05:34:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院共和黨領袖圖恩：希望在任期結束前確認數名提名人選。"
+    },
     {
       "id": "5206954",
       "time": "2026-11-11 05:31:42",
