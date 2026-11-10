@@ -1,7 +1,450 @@
 {
   "date": "2026-11-10",
-  "count": 1376,
+  "count": 1418,
   "items": [
+    {
+      "id": "mkt:01a1c5aa-073a-7bbc-ab87-c1d58919d4dc",
+      "time": "2026-11-10 21:33:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "After the CPI release, markets are still fully pricing a Fed rate hike in December."
+    },
+    {
+      "id": "5206419",
+      "time": "2026-11-10 21:33:14",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "交易員在消費者通脹資料公佈後，對12月加息的預期維持在100%不變。"
+    },
+    {
+      "id": "5206418",
+      "time": "2026-11-10 21:32:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧就伊朗問題表示：經濟施壓效果顯著，無需採取大規模軍事行動。"
+    },
+    {
+      "id": "te:economy:599994",
+      "time": "2026-11-10 21:32:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Inflation Rate MoM",
+        "Importance 2"
+      ],
+      "text": "US Inflation Slows Down — US consumer inflation moderated in October, with the Consumer Price Index (CPI) rising 0.4% month on month after a 0.6% increase in September. Shelter costs climbed 0.3%, accounting for more than 30% of the overall monthly increase, while core inflation, excluding food and energy, also rose 0.3%, matching the pace recorded in August and September. Food prices increased 0.5%, driven by higher grocery costs, particularly snacks, meat, fruit and vegetables, and dairy products. Prices for meals away from home also advanced 0.5%. Energy prices rose 0.7%, slowing sharply from September’s 5.2% increase, as a 1% rise in gasoline and a 0.9% gain in electricity costs were partly offset by lower natural gas prices. Recreation, medical care and motor vehicle insurance also became more expensive, while used cars and communication costs declined. The BLS said it could not calculate annual inflation rates for October because data for October 2025 were unavailable due to a government funding lapse."
+    },
+    {
+      "id": "5206417",
+      "time": "2026-11-10 21:32:42",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國2至5年期國債收益率當日上漲至少10個基點。"
+    },
+    {
+      "id": "5206416",
+      "time": "2026-11-10 21:32:00",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "美元指數上漲0.3%，在美國CPI資料高於預期後升至日內高點。"
+    },
+    {
+      "id": "mkt:01a1c5a8-7394-7bbc-ab87-bb82e93aea33",
+      "time": "2026-11-10 21:31:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "EURUSD"
+      ],
+      "text": "Stoxx Europe 600 pared gains after US CPI release; last up 0.7%."
+    },
+    {
+      "id": "mkt:01a1c5a8-6d4b-7bbc-ab87-b7d04af672f3",
+      "time": "2026-11-10 21:31:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Dollar index (DXY) jumped nearly 30 points to 101.97."
+    },
+    {
+      "id": "te:economy:599992",
+      "time": "2026-11-10 21:31:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "US CPI Annual Figures Missing — The annual change in US CPI for October 2026 was not published alongside the November 10 release, following an earlier announcement by the Bureau of Labor Statistics (BLS) that it would not report 12-month percentage changes for indexes lacking October 2025 data. This follows the federal government shutdown, which prevented the collection and publication of CPI data for that month. Before the release, market analysts had expected annual headline and core inflation to accelerate to 3.9% and 2.8%, respectively, from 3.7% and 2.6% in September. By comparison, the Cleveland Federal Reserve’s Inflation Nowcasting model had projected annual rates of 3.7% for headline CPI and 2.5% for core CPI. On a seasonally adjusted monthly basis, headline inflation eased to 0.4% in October, from 0.6% in September, although it remained above market expectations of 0.3%. Meanwhile, core CPI inflation was unexpectedly unchanged at 0.3%, also above forecasts of 0.2%."
+    },
+    {
+      "id": "mkt:01a1c5a8-49a4-7bbc-ab87-a9f3ad1b5626",
+      "time": "2026-11-10 21:31:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US Treasury yields extended gains after the US CPI release; 10-year yield up 9.03 bps at 4.952%, 2-year yield up 16.54 bps at 4.715%."
+    },
+    {
+      "id": "5206415",
+      "time": "2026-11-10 21:31:33",
+      "tags": [
+        "資料",
+        "市場",
+        "焦點"
+      ],
+      "text": "CPI指標漲幅超預期後，國債收益率大幅上漲。"
+    },
+    {
+      "id": "mkt:01a1c5a7-f267-7bbc-ab87-a3ce35ae5797",
+      "time": "2026-11-10 21:31:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "After the U.S. CPI release, futures for the three major U.S. stock indexes (S&P 500, Dow, Nasdaq) plunged briefly and have turned negative."
+    },
+    {
+      "id": "5206414",
+      "time": "2026-11-10 21:31:20",
+      "tags": [
+        "資料",
+        "市場",
+        "焦點"
+      ],
+      "text": "美元在CPI資料公佈後擴大漲幅。"
+    },
+    {
+      "id": "5206413",
+      "time": "2026-11-10 21:31:08",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "標普500指數期貨在CPI資料公佈後跌至盤前低點。"
+    },
+    {
+      "id": "mkt:01a1c5a7-91b2-7bbc-ab87-9d28c051959b",
+      "time": "2026-11-10 21:30:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spot gold plunged over $30 intraday to $4,046/oz; spot silver fell more than 3.0% to $51.72/oz."
+    },
+    {
+      "id": "em:jjsj_mgsj:202611103927569164",
+      "time": "2026-11-10 21:30:36",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國10月核心CPI環比增長0.3% 高於市場預期】美國10月核心消費者價格指數（CPI）環比增長0.3%，預估為增長0.2%，前值為增長0.3%。"
+    },
+    {
+      "id": "5206412",
+      "time": "2026-11-10 21:30:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4050美元/盎司，日內跌2.25%。"
+    },
+    {
+      "id": "mkt:01a1c5a7-334b-7bbc-ab87-94fb5e9701c7",
+      "time": "2026-11-10 21:30:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【US October CPI stronger than expected】US October seasonally adjusted CPI rose 0.4% MoM, above market expectations; seasonally adjusted core CPI rose 0.3% MoM, also above expectations."
+    },
+    {
+      "id": "5206411",
+      "time": "2026-11-10 21:30:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報51.64美元/盎司。"
+    },
+    {
+      "id": "5206410",
+      "time": "2026-11-10 21:30:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4050美元/盎司，日內跌1.57%。"
+    },
+    {
+      "id": "5206409",
+      "time": "2026-11-10 21:30:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報51.75美元/盎司。"
+    },
+    {
+      "id": "5206408",
+      "time": "2026-11-10 21:30:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌2%，現報4053.60美元/盎司。"
+    },
+    {
+      "id": "5206407",
+      "time": "2026-11-10 21:30:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4060美元/盎司，日內跌2.11%。"
+    },
+    {
+      "id": "5206406",
+      "time": "2026-11-10 21:30:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數突破102關口，日內漲0.32%。"
+    },
+    {
+      "id": "5206405",
+      "time": "2026-11-10 21:30:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破74000美元，日內跌1.87%。"
+    },
+    {
+      "id": "mkt:01a1c5a6-fb0d-7bbc-ab87-8cb4b77f32ca",
+      "time": "2026-11-10 21:30:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US real personal income, October m/m 0.0%; prior revised from -0.5% to -0.4%."
+    },
+    {
+      "id": "em:jjsj_mgsj:202611103927569095",
+      "time": "2026-11-10 21:30:16",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國10月CPI環比增長0.4% 高於市場預期】美國10月消費者價格指數（CPI）環比增長0.4%，預估為0.3%，前值為0.6%。美國勞工統計局表示，受去年政府停擺影響，不會公佈10月CPI同比資料。"
+    },
+    {
+      "id": "5206404",
+      "time": "2026-11-10 21:30:16",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國CPI和核心CPI月率均高於預期】美國10月季調後CPI月率 0.4%，預期0.30%，前值0.60%。 美國10月季調後核心CPI月率 0.3%，預期0.20%，前值0.30%。 美國10月實際收入月率 0%，前值由-0.5%修正為-0.4%。"
+    },
+    {
+      "id": "mkt:01a1c5a6-ea50-7bbc-ab87-840ddeb5d6ba",
+      "time": "2026-11-10 21:30:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US seasonally adjusted CPI MoM +0.4% in October (expected +0.3%; prior +0.6%)."
+    },
+    {
+      "id": "mkt:01a1c5a6-e5c7-7bbc-ab87-7d14e88ec37e",
+      "time": "2026-11-10 21:30:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US unadjusted CPI index for October 337.511, consensus 337.023, prior 336.94."
+    },
+    {
+      "id": "mkt:01a1c5a6-e521-7bbc-ab87-7740bef4034e",
+      "time": "2026-11-10 21:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US Oct core CPI (seasonally adjusted) +0.3% m/m vs +0.20% consensus; Sep +0.30%."
+    },
+    {
+      "id": "5206403",
+      "time": "2026-11-10 21:30:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守52美元/盎司，日內跌2.77%。"
+    },
+    {
+      "id": "5206402",
+      "time": "2026-11-10 21:30:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4060美元/盎司，日內跌1.43%。"
+    },
+    {
+      "id": "mkt:01a1c5a6-c4fc-7bbc-ab87-6bbe6dfcb063",
+      "time": "2026-11-10 21:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Real Earnings All Private Workers (MoM) (Oct) | actual 0% | previous -0.5%"
+    },
+    {
+      "id": "mkt:01a1c5a6-c3db-7bbc-ab87-647e6df89af5",
+      "time": "2026-11-10 21:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | CPI excluding Food and Energy SA (MoM) (Oct) | actual 0.3% | consensus 0.20% | previous 0.30%"
+    },
+    {
+      "id": "mkt:01a1c5a6-c349-7bbc-ab87-5dc70acad778",
+      "time": "2026-11-10 21:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | CPI SA (MoM) (Oct) | actual 0.4% | consensus 0.30% | previous 0.60%"
+    },
+    {
+      "id": "mkt:01a1c5a6-c068-7bbc-ab87-55eb0be4d469",
+      "time": "2026-11-10 21:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | CPI NSA (Oct) | actual 337.511 | consensus 337.023 | previous 336.94"
+    },
+    {
+      "id": "5206401",
+      "time": "2026-11-10 21:30:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守52美元/盎司，日內跌1.75%。"
+    },
+    {
+      "id": "5206400",
+      "time": "2026-11-10 21:30:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4070美元/盎司，日內跌1.29%。"
+    },
+    {
+      "id": "5206399",
+      "time": "2026-11-10 21:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4061.56美元/盎司。"
+    },
+    {
+      "id": "5206398",
+      "time": "2026-11-10 21:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1010.45美元/盎司。"
+    },
+    {
+      "id": "5206397",
+      "time": "2026-11-10 21:29:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜官網資訊，Ring無人機攝像頭將於2027年1月27日開始向美國客戶發貨，售價249.99美元。"
+    },
     {
       "id": "5206396",
       "time": "2026-11-10 21:29:42",
