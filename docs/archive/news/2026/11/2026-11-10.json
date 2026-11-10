@@ -1,7 +1,351 @@
 {
   "date": "2026-11-10",
-  "count": 1593,
+  "count": 1625,
   "items": [
+    {
+      "id": "5206656",
+      "time": "2026-11-10 23:59:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以色列議會舉行全體會議 多名議員提交動議要求更換議長】當地時間10日下午，以色列正直黨發表宣告說，該黨已向現任議長奧哈納提交超過61名第26屆議會議員的聯署簽名，正式要求罷免奧哈納本人的議長職務，並要求在議會全體會議上投票選舉新任議長。宣告表示，作為該動議的一部分，來自正直黨的議會議員卡哈納已正式獲提名為新任議長候選人。據悉，現任議長奧哈納來自內塔尼亞胡領導的利庫德集團。當天早些時候，反對內塔尼亞胡連任的主要各黨派領導人經過數日談判，最終同意提名卡哈納為新任議長候選人。奧哈納此前表示，若議會多數議員正式提出請求，他將安排全體會議進行新議長選舉。（央視新聞）"
+    },
+    {
+      "id": "5206655",
+      "time": "2026-11-10 23:58:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典首相克里斯特松再獲一週時間嘗試組建新政府。"
+    },
+    {
+      "id": "5206654",
+      "time": "2026-11-10 23:58:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "立陶宛電網運營商CEO稱，10座新電廠預計耗資約8.8億歐元，將由私人投資提供資金。"
+    },
+    {
+      "id": "5206653",
+      "time": "2026-11-10 23:57:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安會見了巴西總統盧拉。"
+    },
+    {
+      "id": "5206652",
+      "time": "2026-11-10 23:57:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯代表團在阿布扎比會談後將於週三舉行新聞釋出會。"
+    },
+    {
+      "id": "5206651",
+      "time": "2026-11-10 23:56:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "德意志銀行預計，美聯儲將在2027年1月再加息25個基點，而此前預測的加息時點為2026年12月和2027年3月。"
+    },
+    {
+      "id": "5206650",
+      "time": "2026-11-10 23:56:38",
+      "tags": [
+        "央行",
+        "其他",
+        "國際"
+      ],
+      "text": "交易員已完全消化英國央行在明年3月之前實施兩次25個基點加息的預期。"
+    },
+    {
+      "id": "5206649",
+      "time": "2026-11-10 23:55:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政總局公佈2026財年營業收入為829億美元，同比增長3.0%。"
+    },
+    {
+      "id": "5206648",
+      "time": "2026-11-10 23:55:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政總局報告2026財年GAAP淨虧損65億美元，較90億美元有所收窄。"
+    },
+    {
+      "id": "5206646",
+      "time": "2026-11-10 23:54:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元指數上漲0.5%，創盤中新高。"
+    },
+    {
+      "id": "te:markets:600075",
+      "time": "2026-11-10 23:44:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Mexican Peso Slips on Narrowing US-Mexico Rate Spread Bets — The Mexican peso weakened to near 18.7 per USD from the three-week high of 18.5 touched on November 9th amid prospects of a narrower US-Mexico interest-rate differential. Hotter-than-expected US inflation in October reinforced expectations of further Federal Reserve hikes. A narrower rate differential would pressure the peso by reducing carry trade. Still, recent data limits the room for looser policy by Banxico. Annual inflation rose to 3.75% from 3.45% in September, above forecasts of 3.65%, moving further above Banxico’s 3% target. Core inflation edged up to 3.80% from 3.75%, broadly in line with forecasts of 3.78%. The central bank unexpectedly cut its benchmark rate to 6.25% at its latest meeting and revised forward guidance, signaling rates would remain at the new level for an “extended period.” Meanwhile, the Democratic Party’s victory in the US midterm elections could soften trade pressures on Mexican growth."
+    },
+    {
+      "id": "te:economy:600074",
+      "time": "2026-11-10 23:35:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Consumer Confidence",
+        "Importance 0"
+      ],
+      "text": "Norway Consumer Confidence Falls in Q4 — Norway’s adjusted consumer confidence indicator fell to -22.5 in the fourth quarter of 2026, down from a revised -19.1 in the previous quarter, signalling a further deterioration in household sentiment. The expectations barometer points to a marked shift in consumers’ outlook for their personal finances, with pessimism increasingly replacing optimism. While a majority of households previously expected their financial situation to improve over the coming year, the latest survey shows that more now anticipate a deterioration. The rise in pessimism is broad-based, spanning all demographic groups, including gender, age, education, income and geographical location. Notably, households in age groups traditionally carrying the highest levels of debt are among the most pessimistic."
+    },
+    {
+      "id": "te:markets:600070",
+      "time": "2026-11-10 23:34:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield Rise From 3-Month Lows — South Africa’s 10-year government bond yield rose above 8.50%, up from recent three-month lows, tracking US peers. Hotter-than-expected US inflation data and hawkish remarks from Fed Governor Christopher Waller fueled concerns over further monetary tightening. Meanwhile, oil prices extended their decline amid growing optimism over a potential US-Iran peace agreement, improving the domestic inflation outlook. As a net oil importer, South Africa is also expected to benefit from November’s fuel levy relief, helping lower costs for households and businesses. However, the sustainability of this relief will depend largely on international oil price movements in the coming months. Meanwhile, the results of last week's local elections showed that the ruling party ANC trailed its rivals in most of South Africa's major metropolitan areas. The setback has weakened its bargaining position in the upcoming coalition talks, reducing its influence over the formation of city governments."
+    },
+    {
+      "id": "te:markets:600069",
+      "time": "2026-11-10 23:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: US 10 Year Note Bond Yield Rises by 10 bps — Government bonds yields are higher on Tuesday. Top gainers are US 10Y (9.70bps), Brazil 10Y (7.50bps), United Kingdom 10Y (6.36bps), Germany 10Y (3.21bps) and Japan 10Y (1.79bps)."
+    },
+    {
+      "id": "te:markets:600063",
+      "time": "2026-11-10 23:21:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss Bond Yields Rise From 2-Month Low — The Swiss 10-year government bond yield rose above 0.45%, recovering from its lowest level in two months and tracking US Treasury yields higher as stronger-than-expected US inflation lifted expectations of another Fed rate hike. In Switzerland, however, SNB Chairman Schlegel said there were no signs of a broadening in price pressures and that the central bank had fulfilled its mandate of maintaining price stability over the medium term. Although inflation reached a three-year high in October amid a weaker franc and rising energy costs, energy accounts for only a small share of the Swiss CPI basket. A decline in oil prices amid expectations of a diplomatic resolution to the conflict in the Middle East has also offered some relief. The SNB is expected to leave rates unchanged at 0% at its meeting next month. While markets anticipate a hike in early 2027, economists expect the first increase only in late 2027."
+    },
+    {
+      "id": "te:markets:600061",
+      "time": "2026-11-10 23:17:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real at Lowest Since June 2025 — The Brazilian real weakened to 5.6 per USD in November, its lowest since June last year, amid the prospects of lower interest rates by the Central Bank of Brazil. Policymakers in the BCB suggested that the elevated interest rates have already dampened economic activity in its latest meeting minutes, hinting that rate cuts may be necessary to tame slower growth and threats to unemployment. The central bank had held its Selic rate unchanged at 13.75%, pausing five consecutive cuts as high oil prices and widening budget deficits added to pro-inflationary risks. In the meantime, hot inflation data in the US in October consolidated bets of multiple rate hikes by the Fed next year and a 25bps hike to 4.25% next month. A narrower differential between the benchmark rates would pressure the real by reducing carry trade."
+    },
+    {
+      "id": "te:markets:600055",
+      "time": "2026-11-10 23:12:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Weakens — The South African rand weakened slightly to around 16.5 per US dollar, pressured by a stronger greenback and falling prices of key precious metals. The decline came as hotter-than-expected US inflation data and hawkish comments from a senior Federal Reserve official reinforced expectations of a possible 50-basis-point rate hike in December. Meanwhile, the continued drop in oil prices amid easing concerns over US-Iran tensions helped alleviate some concerns about imported inflation. At home, latest data painted a gloomy picture, with unemployment reaching an over four-year high of 33.7% in Q3 and manufacturing activity declining for a second straight month in September. On the political front, South Africa’s ANC has suffered its worst-ever local election result, weakening its position in coalition negotiations and signalling a shift away from decades of electoral dominance towards a more competitive multiparty system."
+    },
+    {
+      "id": "te:markets:600054",
+      "time": "2026-11-10 23:08:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Down on Tuesday — The FTSE 100 gave up earlier gains and closed slightly lower on Tuesday, as losses in energy stocks and miners weighed on the market. Shell and BP fell 2% and 0.7%, respectively, as Brent crude dropped below $90 a barrel for the first time since August amid growing hopes of a resolution to the Middle East conflict. Gold producers Fresnillo and Endeavour were among the worst performers, down by around 4.7% and 4.4%. Also, Rio Tinto, Glencore, Anglo American, and Antofagasta declined between 1.4% and 2.1%. The selloff extended across commodities after stronger-than-expected US inflation data reinforced expectations of further Federal Reserve rate hikes, pushing gold and silver down by over 2%. Copper was down more than 1%. AstraZeneca also slipped 0.9%. In contrast, Marks & Spencer gained more than 3.5% after reaffirming its target to cut £600 million in costs by 2028 and announcing plans to double its dividend this fiscal year. Banks also held onto earlier gains."
+    },
+    {
+      "id": "te:economy:600053",
+      "time": "2026-11-10 23:07:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kosovo",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Kosovo Inflation Rate Eases from Over 3-Year High — Kosovo’s annual inflation rate eased to 7.1% in October 2026, the lowest since July, from 7.8% in September. Inflation slowed for transport (21.5% vs 23.9%), housing and utilities (9.7% vs 11.9%), alcoholic beverages, tobacco and narcotics (5% vs 6.3%), restaurants and hotels (4.5% vs 5.2%), health (2.9% vs 4.5%), furnishings (2.9% vs 3.5%), personal care and miscellaneous goods and services (3.7% vs 3.8%), clothing and footwear (2.3% vs 3%) and recreation, sports and culture (1% vs 1.8%), while it was steady for information and communication (0.7%). In contrast, food inflation picked up to 3.2% from 2.4%, the first acceleration in eight months. Meanwhile, prices of educational services fell 0.3%, matching the decline in September. On a monthly basis, consumer prices were unchanged, after a 0.2% rise in September."
+    },
+    {
+      "id": "te:markets:600049",
+      "time": "2026-11-10 23:03:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Mining Stocks Dip — The S&P/TSX Composite fell over 0.5% to hover near 36,000 on Tuesday as declining gold prices pressured mining stocks. Gold fell sharply on hotter-than-expected US inflation and hawkish remarks from Federal Reserve Governor Waller. Agnico Eagle fell and WPM over 4% each, and Barrick shed more than 5%. Oil prices extended losses as investors increasingly anticipated a diplomatic resolution to the US-Iran conflict. Lower energy prices provided some relief to credit-sensitive sectors. TD Bank rose over 0.5%. On the earnings front, iA Financial rose near 3% after beating EPS estimates and raising its quarterly common dividend. Hydro One edged 0.4% higher despite missing EPS expectations. Equinox Gold tumbled 5% as adjusted EPS fell short, and Endeavour Silver tumbled lost almost 4% after narrowing its full-year gold production guidance."
+    },
+    {
+      "id": "te:markets:600046",
+      "time": "2026-11-10 23:03:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Italy's BTP Yield Recovers From 2-Month Low — Italy’s 10-year BTP yield edged above 4.30%, recovering from its lowest level in two months while tracking US Treasury yields higher as stronger-than-expected US inflation lifted expectations of another Fed rate hike. In the Eurozone, markets see a lower likelihood of a December rate hike given its fragile growth outlook. Despite the decline, energy costs remain elevated and continue to fuel inflation, which stood at twice the ECB’s 2% target in October. Borrowing costs near multi-year highs, particularly amid concerns over France's fiscal position, are also an additional drag on growth. Policymakers have signalled their readiness to raise rates again if inflation fails to ease, with markets fully pricing in another rate increase by February. However, the decline in oil prices amid growing expectations of a diplomatic resolution to the conflict in the Middle East has offered some relief. Meanwhile, uncertainty surrounding the ECB’s leadership transition remains in focus."
+    },
+    {
+      "id": "te:markets:600045",
+      "time": "2026-11-10 23:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Drops by 1.60% — Top currency losers are Brazilian Real (-1.60%), Norwegian Krone (-1.04%), Mexican Peso (-0.85%), British Pound (-0.50%), Japanese Yen (-0.49%) and Euro (-0.40%). Gains are led by Dollar Index (0.45%)."
+    },
+    {
+      "id": "te:markets:600042",
+      "time": "2026-11-10 22:59:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Swiss Franc Weakens as Fed Hike Bets Rise — The Swiss franc weakened past 0.82 per USD, reaching its lowest level so far in October, amid rising expectations of another Fed rate hike, which would further widen the interest rate differential between the US and Switzerland. A stronger-than-expected inflation reading and labour report lifted expectations of a Fed hike next month, boosting the greenback. By contrast, Swiss borrowing costs remain at the world's lowest, making the franc an attractive funding currency for carry trades. The shift weakens the currency as traders sell francs to pursue higher-yielding assets abroad. The SNB is expected to leave rates unchanged at its meeting next month. While markets anticipate a hike in early 2027, economists expect the first increase only in late 2027. Expectations of a hold are further supported by Chair Schlegel’s remarks which reinforced that Swiss inflationary pressures remain contained. Nevertheless, the franc's safe-haven status remains a key risk to carry trades."
+    },
+    {
+      "id": "te:markets:600041",
+      "time": "2026-11-10 22:51:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Nears One-Month Low — The Canadian dollar weakened towards 1.42 per USD on November 10th, nearing a one month low amid prospects of a wider US-Canada interest-rate differential. Hotter-than-expected US inflation data in October reinforced expectations of further Federal Reserve rate hikes, supporting the greenback against the loonie on prospects of carry trade into the US. Meanwhile, most market participants are also pricing in a Bank of Canada rate hike due to high inflation. In Canada, annual inflation rose to 3.1% in September from 3.0% in August, its highest level since May’s 3.2%. The increasing prices follow up on a recovering economy with Q2 GDP growth soaring to 0.8%, while the Democratic Party victory in US mid-term elections could soften trade pressures on Canadian growth. Limiting the hawkish certainty, employment fell by 4,700 in October, missing expectations for a 13,600 increase. At its latest meeting, the BoC raised rates by 25 bps to 2.5%, its first hike since 2023."
+    },
+    {
+      "id": "te:markets:600040",
+      "time": "2026-11-10 22:51:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "French 10-Year OAT Yield Rebounds — France's 10-year OAT yield rebounded to 4.75%, tracking higher US Treasury yields as stronger-than-expected US inflation data and hawkish comments from Federal Reserve Governor Christopher Waller heightened expectations of further monetary tightening. Waller signaled the possibility of additional rate increases, while October's elevated inflation reinforced expectations of further Fed tightening in December, bringing a potential 50-basis-point hike into focus. Meanwhile, France's ongoing political and fiscal challenges, coupled with uncertainty surrounding ECB President Christine Lagarde's potential early departure, continued to weigh on sentiment across European bond markets. On the monetary policy front, ECB Chief Economist Philip Lane suggested that another rate increase in December may be necessary, adding to a growing number of policymakers advocating a third hike this year."
+    },
+    {
+      "id": "te:markets:600037",
+      "time": "2026-11-10 22:45:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Bund Yield Rebounds — Germany's 10-year Bund yield erased earlier losses to rise to 3.28%, tracking the upward move in US Treasury yields, as stronger-than-expected US inflation data and hawkish remarks from Federal Reserve Governor Christopher Waller fueled concerns over further monetary tightening. Waller signaled the possibility of additional interest rate increases, while October's stronger-than-expected US inflation reinforced expectations of further Fed tightening in December, bringing a potential 50-basis-point rate hike into focus. Meanwhile, ongoing political and fiscal challenges in France, alongside uncertainty surrounding ECB President Christine Lagarde's potential early departure, added to concerns across European markets. On the monetary policy front, ECB Chief Economist Philip Lane indicated that another rate increase in December may be necessary, joining a growing number of policymakers supporting a third hike this year."
+    },
+    {
+      "id": "te:markets:600034",
+      "time": "2026-11-10 22:40:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "UK 10-Year Gilt Yield Rises — The yield on 10-year UK government bonds reversed its earlier decline, tracking US Treasury yields higher to reach 5.18%, as stronger-than-expected US inflation data and hawkish remarks from Federal Reserve Governor Christopher Waller fueled concerns over further monetary tightening. Waller signalled the possibility of additional interest rate increases, while October's stronger-than-expected US inflation reinforced expectations of further Fed tightening in December, bringing a potential 50-basis-point rate hike into focus. Meanwhile, Bank of England Deputy Governor Clare Lombardelli also signaled the possibility of further monetary tightening, warning that Britain's “low-hire, low-fire” labour market could make it more difficult to ease wage pressures. She noted that another interest rate increase in the near term was likely unless clearer evidence emerged of weakening inflationary pressures. Investors are now turning their attention to UK third-quarter GDP report due Thursday."
+    },
+    {
+      "id": "te:markets:600033",
+      "time": "2026-11-10 22:40:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.35% Lower — The Dow Jones Index is losing 184 points. Losses were led by Nvidia (-3.77%), Caterpillar (-3.29%) and Nike (-2.21%). Offsetting the fall, top gainers were Amazon (1.70%), Travelers Companies (0.88%) and American Express (0.71%)."
+    },
+    {
+      "id": "te:markets:600031",
+      "time": "2026-11-10 22:39:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Equites Decline on Tuesday — US equities fell on Tuesday after the release of higher inflation as markets assessed details surrounding the Anthropic IPO. The S&P 500 and the Dow fell 0.7% and the Nasdaq 100 fell 1%. Both the headline and core US CPIs rose more than expected in October, aligning with the market's certainty of a Federal Reserve rate hike next month and lifting expectations of multiple rate hikes next year. Anthropic is due to start trading by next week, raising up to $90 billion at a diluted valuation of around $1.4 trillion, taking advantage from the market's demand for AI services, before signs of skepticism about whether capital expenditures were overdone could worsen this quarter's correction. Micron, Marvell, and SanDisk fell over 3%, compounded by sharp drop in earnings for SoftBank due to large data-center write-downs. Correspondingly, GE Vernova sank nearly 9%. Meanwhile, Nvidia extended its plunge from yesterday as CEO Huang's affair endangered his leadership stability."
+    },
+    {
+      "id": "te:markets:600030",
+      "time": "2026-11-10 22:38:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Up for 5th Day — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, advanced for a fifth straight session on Tuesday, up 0.3% to a fresh high since October 9 at 2,862 points. The panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, rose by 1.9% to its highest since October 26 at 2,075 points; and the capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, remained steady at an over one-month high of 4,457 points. Among smaller vessels, the supramax index eased further by 0.2% to reach its lowest level since October 7 at 1,806 points."
+    },
+    {
+      "id": "te:markets:600028",
+      "time": "2026-11-10 22:31:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Adobe Systems Shares Hit 4-week Low — Adobe Systems shares decreased to 234.22 USD, the lowest since October 2026. Over the past 4 weeks, Adobe Systems lost 1.38%, and in the last 12 months, it decreased 28.58%."
+    },
+    {
+      "id": "te:markets:600023",
+      "time": "2026-11-10 22:26:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Rice Hits 10-week Low — Rice decreased to 14.75 USD/cwt, the lowest since August 2026. Over the past 4 weeks, Rice gained 4.72%, and in the last 12 months, it increased 67.47%."
+    },
     {
       "id": "mkt:01a1c5d9-2748-7bbc-ab8a-01bf1045fd51",
       "time": "2026-11-10 22:25:05",
