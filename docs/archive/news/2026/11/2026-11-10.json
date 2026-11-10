@@ -1,7 +1,247 @@
 {
   "date": "2026-11-10",
-  "count": 1418,
+  "count": 1442,
   "items": [
+    {
+      "id": "5206432",
+      "time": "2026-11-10 21:37:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "Lesha Bank向阿聯酋航空出售六架空客A380飛機。"
+    },
+    {
+      "id": "te:economy:599997",
+      "time": "2026-11-10 21:37:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core Inflation Rate MoM",
+        "Importance 2"
+      ],
+      "text": "US Core Consumer Prices Overshoot Expectations — Core consumer prices in the United States, which exclude food and energy goods, rose by 0.3% for the third consecutive month in October of 2026, above market expectations of 0.2%. Prices rose sharply for a second month in transportation services (0.8% vs 0.6% in September), indicating that higher oil and fuel prices in the wholesale market is being transmitted into core sectors of the transportation sector. Prices also rose for shelter (0.3% vs 0.4%), medical care commodities (0.5% vs -0.7%), and medical care services (0.3% vs 0.3)."
+    },
+    {
+      "id": "mkt:01a1c5ad-9df2-7bbc-ab88-0b9cd57b4bd8",
+      "time": "2026-11-10 21:37:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【US Oct CPI tops estimates; core +0.3% MoM, headline +0.4%】US October CPI exceeded expectations: headline CPI +0.4% MoM and core CPI (ex food and energy) +0.3% MoM, the Bureau of Labor Statistics said Tuesday. BLS did not publish YoY figures because data collection was interrupted during last October’s government shutdown. This is the final CPI ahead of the Fed’s Dec. 8-9 meeting and should keep pressure on policy; investors price a rate increase at that meeting. Before the release, Fed Governor Waller said a core CPI print of +0.3% or higher could justify a 50bp hike. The report cites the Iran war, tariffs and a data-center boom among this year’s inflation drivers and shows rising price pressures ahead of midterm elections, where Democrats emphasized cost-of-living and regained control of both congressional chambers."
+    },
+    {
+      "id": "5206431",
+      "time": "2026-11-10 21:37:16",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "策略師Ira Jersey表示：全面高於預期的CPI資料讓美聯儲理事沃勒提出的12月降息50個基點的可能性重新擺上檯面，因此債市應聲出現的熊市趨平並不令人意外。我們認為，在美聯儲停止行動之前，收益率曲線將繼續趨平。如果美聯儲確實在12月降息50個基點，我們認為其在明年3月再加息一次的機率極高。"
+    },
+    {
+      "id": "mkt:01a1c5ad-0deb-7bbc-ab88-03fa83d8192b",
+      "time": "2026-11-10 21:36:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "US Secretary of State Rubio said economic pressure on Iran will further intensify."
+    },
+    {
+      "id": "5206430",
+      "time": "2026-11-10 21:36:36",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲傳聲筒”Nick Timiraos：美國10月核心CPI實際漲幅為0.296%，連續第三個月維持在0.3%左右。按年率折算的三個月核心CPI漲幅為3.75%，高於7月份的1.6%。"
+    },
+    {
+      "id": "mkt:01a1c5ac-c27b-7bbc-ab87-f96b0f2beeba",
+      "time": "2026-11-10 21:36:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "TIMIRAOS: US October core CPI rose 0.296% MoM, the third consecutive month around 0.3%. The annualized three-month core CPI increase is 3.75%, versus 1.6% in July."
+    },
+    {
+      "id": "5206429",
+      "time": "2026-11-10 21:36:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國通脹報告走高後，黃金和銅價跌幅延續。"
+    },
+    {
+      "id": "mkt:01a1c5ac-3360-7bbc-ab87-f526d9ab46ed",
+      "time": "2026-11-10 21:35:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "After the CPI release, markets further increased bets that the Fed will raise rates at least twice before mid-2027."
+    },
+    {
+      "id": "5206428",
+      "time": "2026-11-10 21:35:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧就伊朗問題表示：對伊朗的經濟壓力將進一步加大。"
+    },
+    {
+      "id": "5206427",
+      "time": "2026-11-10 21:35:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：目標是在某個階段將烏克蘭三方會談擴大至納入歐洲方面。"
+    },
+    {
+      "id": "mkt:01a1c5ab-a9be-7bbc-ab87-e8522e77b8c7",
+      "time": "2026-11-10 21:35:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "U.S. Secretary of State Rubio said the goal is to ultimately expand three-way talks on Ukraine to include European countries."
+    },
+    {
+      "id": "mkt:01a1c5ab-9fa2-7bbc-ab87-e0eaa096a587",
+      "time": "2026-11-10 21:35:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Hegseth’s response to former Congressman Thomas Massie—whom Trump described as resentful, enraged and defeated in an election—was \"A+++\" and called Massie a complete loser."
+    },
+    {
+      "id": "5206426",
+      "time": "2026-11-10 21:35:16",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐元區2年期國債收益率在美國資料公佈後上升，德國國債收益率最後上漲2個基點，至3.02%。"
+    },
+    {
+      "id": "5206425",
+      "time": "2026-11-10 21:35:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國公佈資料後，美元兌瑞士法郎上漲，最新上漲0.31%，報0.822瑞士法郎。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611103927574468",
+      "time": "2026-11-10 21:34:52",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【交易員加大對美聯儲到2027年中期至少加息兩次的押注】美國10月通脹資料公佈後，交易員對12月美聯儲加息的預期仍維持在100%。交易員加大對美聯儲到2027年中期至少加息兩次的押注。"
+    },
+    {
+      "id": "5206424",
+      "time": "2026-11-10 21:34:52",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "交易員加大對美聯儲到2027年中期至少加息兩次的押注。"
+    },
+    {
+      "id": "5206423",
+      "time": "2026-11-10 21:34:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "特朗稱讚赫格塞思為對抗馬西所做的辯護。"
+    },
+    {
+      "id": "5206422",
+      "time": "2026-11-10 21:34:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普稱讚美國國防部長赫格塞思對記者的表態。"
+    },
+    {
+      "id": "mkt:01a1c5aa-b9fe-7bbc-ab87-df53562d3358",
+      "time": "2026-11-10 21:34:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Secretary of State Rubio said economic pressure on Iran is proving effective and there is no need for large-scale military operations."
+    },
+    {
+      "id": "mkt:01a1c5aa-8a1f-7bbc-ab87-d1e98290bf80",
+      "time": "2026-11-10 21:34:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "U.S. Secretary of State Rubio said there is still much work to be done on Russia and Ukraine."
+    },
+    {
+      "id": "5206421",
+      "time": "2026-11-10 21:34:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：在俄羅斯、烏克蘭問題上仍有大量工作要做。"
+    },
+    {
+      "id": "mkt:01a1c5aa-6631-7bbc-ab87-cebcdedcc4e4",
+      "time": "2026-11-10 21:34:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said talks held in Abu Dhabi were productive."
+    },
+    {
+      "id": "5206420",
+      "time": "2026-11-10 21:33:46",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：在阿布扎比舉行的俄烏會談非常富有成效。"
+    },
     {
       "id": "mkt:01a1c5aa-073a-7bbc-ab87-c1d58919d4dc",
       "time": "2026-11-10 21:33:36",
