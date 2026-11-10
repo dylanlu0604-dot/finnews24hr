@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-11 04:41:53",
-  "count": 10534,
+  "updated": "2026-11-11 04:45:41",
+  "count": 10536,
   "items": [
+    {
+      "id": "5206908",
+      "time": "2026-11-11 04:44:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我注意到美國中東問題特使威特科夫和庫什納的變化。"
+    },
+    {
+      "id": "mkt:01a1c734-8809-7bbc-ab93-17f704d6028d",
+      "time": "2026-11-11 04:44:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he has seen changes brought by US Middle East envoy Witkoff and Kushner."
+    },
+    {
+      "id": "mkt:01a1c734-7c15-7bbc-ab93-08744e6e7d3b",
+      "time": "2026-11-11 04:44:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he is very pleased with recent information from the US."
+    },
+    {
+      "id": "5206907",
+      "time": "2026-11-11 04:44:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我對美國方面最近的訊息感到非常高興。"
+    },
     {
       "id": "mkt:01a1c731-6813-7bbc-ab93-02d01c5cfb5e",
       "time": "2026-11-11 04:41:06",
@@ -96989,32 +97021,6 @@
         "Impact mixed"
       ],
       "text": "AMD will report earnings after the U.S. market close."
-    },
-    {
-      "id": "mkt:01a1a328-a368-7ee0-aa55-1f14a9ece6c7",
-      "time": "2026-11-04 04:45:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Global oil prices slip on 3rd】NYMEX December-delivery light, sweet crude (WTI) futures fell $0.37 to $96.09/bbl, down 0.38% at the close; ICE January-delivery Brent futures fell $1.17 to $103.60/bbl, down 1.12%."
-    },
-    {
-      "id": "mkt:01a1a325-cc22-7ee0-aa55-13a89f9f364b",
-      "time": "2026-11-04 04:42:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "UK Maritime Trade Operations said a tanker company security officer reported the oil tanker’s engine room was struck by two unidentified shells."
     }
   ]
 }
