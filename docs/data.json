@@ -1,7 +1,247 @@
 {
-  "updated": "2026-11-10 21:14:07",
-  "count": 10461,
+  "updated": "2026-11-10 21:18:24",
+  "count": 10485,
   "items": [
+    {
+      "id": "mkt:01a1c59b-5173-7bbc-ab86-a81e167228eb",
+      "time": "2026-11-10 21:17:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said the matter reflects policy differences, not a felony."
+    },
+    {
+      "id": "5206371",
+      "time": "2026-11-10 21:17:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "赫格塞思：這是政策分歧的問題，與重罪無關。"
+    },
+    {
+      "id": "mkt:01a1c59a-a64a-7bbc-ab86-a7e7fde0cc17",
+      "time": "2026-11-10 21:16:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Energy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【US inflation data due; equity futures diverge】US equity futures were mixed after the best session since April as markets await a key inflation report that could pave the way for a Fed rate hike next month. S&P 500 futures were up just under 0.1%; Nasdaq-100 futures fell about 0.4%. WTI crude slid roughly 2% to around $85/bl, its weakest since late August. Sevens Report founder Tom Essaye said recent Fed comments offset oil’s continued decline ahead of today’s CPI release."
+    },
+    {
+      "id": "mkt:01a1c59a-8dea-7bbc-ab86-98380d273439",
+      "time": "2026-11-10 21:16:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli said the December interest-rate decision will be shaped by the outlook for the Middle East, price trends and labour market conditions."
+    },
+    {
+      "id": "5206370",
+      "time": "2026-11-10 21:16:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "英國央行隆巴代利：12月利率投票將受中東局勢、定價和勞動力市場前景影響。"
+    },
+    {
+      "id": "5206369",
+      "time": "2026-11-10 21:16:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行官員隆巴爾代利：對我們而言，每次會議都實時決策。"
+    },
+    {
+      "id": "5206368",
+      "time": "2026-11-10 21:16:13",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【CPI資料公佈前 美聯儲12月維持利率不變的機率為0】據CME“美聯儲觀察”：美聯儲到12月累計加息25個基點的機率為98.9%，累計加息50個基點的機率為1.1%。美聯儲到2027年1月累計加息25個基點的機率為64.9%，累計加息50個基點的機率為34.8%，累計加息75個基點的機率為0.4%。今晚21:30，美國勞工統計局將公佈10月消費者物價指數（CPI）資料，市場將重點關注通脹走勢。"
+    },
+    {
+      "id": "5206367",
+      "time": "2026-11-10 21:16:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "MDA Space：Globalstar 2-R全部8顆衛星透過初步測試。"
+    },
+    {
+      "id": "mkt:01a1c599-e3f3-7bbc-ab86-93418995905b",
+      "time": "2026-11-10 21:15:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli said he does not rule out consecutive rate hikes."
+    },
+    {
+      "id": "5206366",
+      "time": "2026-11-10 21:15:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行官員隆巴爾代利：不排除連續調整利率的可能性。"
+    },
+    {
+      "id": "mkt:01a1c599-cda2-7bbc-ab86-8cd4b4bd491a",
+      "time": "2026-11-10 21:15:53",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England deputy governor Lombardelli said the UK's natural rate of unemployment may be slightly higher than previously estimated."
+    },
+    {
+      "id": "mkt:01a1c599-ab0f-7bbc-ab86-87fb188bc237",
+      "time": "2026-11-10 21:15:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "ADP weekly employment report: private-sector employers added an average of 19,750 jobs per week in the four weeks ending Oct 24, 2026."
+    },
+    {
+      "id": "5206365",
+      "time": "2026-11-10 21:15:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行官員隆巴爾代利：自然失業率略高。"
+    },
+    {
+      "id": "te:markets:599989",
+      "time": "2026-11-10 21:15:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Inditex Shares Hit 12-year High — Inditex shares increased to 60.66 EUR, the highest since July 2014. Over the past 4 weeks, Inditex gained 12.43%, and in the last 12 months, it increased 21.65%."
+    },
+    {
+      "id": "5206364",
+      "time": "2026-11-10 21:15:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "Mercor完成7.5億美元D輪融資，估值達200億美元。"
+    },
+    {
+      "id": "5206363",
+      "time": "2026-11-10 21:15:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至10月24日當週ADP就業人數週度變動 1.975萬人，前值1.675萬人。"
+    },
+    {
+      "id": "mkt:01a1c599-19c9-7bbc-ab86-7b9cbd11bf00",
+      "time": "2026-11-10 21:15:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US ADP private payrolls change for week to Oct 24 +19,750; prior +16,750."
+    },
+    {
+      "id": "mkt:01a1c598-fe21-7bbc-ab86-768d865599a3",
+      "time": "2026-11-10 21:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ADP weekly employment change (Oct.24) | actual 19750K | previous 16750K"
+    },
+    {
+      "id": "5206362",
+      "time": "2026-11-10 21:14:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【被俄接管後 日本菸草損失恐達1.3萬億日元】日本菸草公司旗下7家企業在俄羅斯的資產被俄方臨時接管後，該公司股價連續兩天暴跌。據估算，如果日本菸草公司失去在俄經營管理權，將面臨最多1.3萬億日元（1美元約合158日元）損失。（新華社）"
+    },
+    {
+      "id": "5206361",
+      "time": "2026-11-10 21:14:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將光通訊概念股Lumentum目標價從960美元下調至686美元。"
+    },
+    {
+      "id": "5206360",
+      "time": "2026-11-10 21:14:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國算力總規模已達到310萬PFLOPS 位居世界第二】據國家資料局訊息，今天，全國資料標準化技術委員會2026年第二次“標準周”活動在福建廈門舉行。據相關負責人介紹，全國資料標準化技術委員會此次正式成立具身智慧資料標準起草工作組及氣象、衛生健康、電力、商務等4個行業應用標準起草工作組，加快推進“十五五”期間資料領域相關標準制定，賦能行業產業數字化發展。最新資料顯示，我國算力總規模已達到310萬PFLOPS，位居世界第二。"
+    },
+    {
+      "id": "mkt:01a1c598-63ab-7bbc-ab86-6bf1f66c1ae3",
+      "time": "2026-11-10 21:14:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of Defense Hegseth said he supports every military action."
+    },
+    {
+      "id": "5206359",
+      "time": "2026-11-10 21:14:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "赫格塞思：作為國防部長，我支援每一項軍事行動。"
+    },
+    {
+      "id": "mkt:01a1c598-2c5d-7bbc-ab86-6229b0216a7a",
+      "time": "2026-11-10 21:14:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【China sets up embodied-intelligence data standard group; total compute capacity at 3.1 million PFLOPS, second globally】The National Data Bureau said at a Standards Week event in Xiamen that the national data standardization technical committee has established a drafting working group for embodied-intelligence data standards and four industry application standard drafting groups covering meteorology, health, power and commerce. The committee will accelerate data-standard development during the 15th Five-Year Plan period to support industry digitalization. Latest figures show China’s total computing capacity has reached 3.1 million PFLOPS, ranking second worldwide."
+    },
     {
       "id": "mkt:01a1c597-6b47-7bbc-ab86-5dd44aca7818",
       "time": "2026-11-10 21:13:17",
