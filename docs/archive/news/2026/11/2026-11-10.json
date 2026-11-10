@@ -1,7 +1,151 @@
 {
   "date": "2026-11-10",
-  "count": 1350,
+  "count": 1366,
   "items": [
+    {
+      "id": "mkt:01a1c5a2-d344-7bbc-ab87-2f2fab6b91d7",
+      "time": "2026-11-10 21:25:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Analyst: Gasoline Likely Little Changed in October US inf Report】Analyst Rebecca F. Elliott said the US October inf report is likely to show gasoline prices little changed MoM. AAA said average regular gasoline eased slightly to $4.32/gal in October while diesel edged higher; on a YoY basis gasoline is up about 40% and diesel about 72%."
+    },
+    {
+      "id": "5206390",
+      "time": "2026-11-10 21:25:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思：我同意美國總統特朗普的說法，我會再次對伊朗開戰。"
+    },
+    {
+      "id": "mkt:01a1c5a2-85fc-7bbc-ab87-23b0afd00297",
+      "time": "2026-11-10 21:25:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said Vice President Vance has long been a key member of the team."
+    },
+    {
+      "id": "mkt:01a1c5a2-67b5-7bbc-ab87-1b27482c175e",
+      "time": "2026-11-10 21:25:17",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli said policy restrictiveness is lower than previously expected."
+    },
+    {
+      "id": "mkt:01a1c5a2-65a0-7bbc-ab87-13c0e593d013",
+      "time": "2026-11-10 21:25:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said he has great respect for U.S. Vice President Vance."
+    },
+    {
+      "id": "5206389",
+      "time": "2026-11-10 21:25:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "赫格塞思：萬斯一直是團隊的關鍵成員。"
+    },
+    {
+      "id": "5206388",
+      "time": "2026-11-10 21:25:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行官員隆巴爾代利：政策限制性低於我們此前預期。"
+    },
+    {
+      "id": "5206387",
+      "time": "2026-11-10 21:24:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "赫格塞思：非常尊重副總統。"
+    },
+    {
+      "id": "5206386",
+      "time": "2026-11-10 21:24:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "Rackspace預計到2027年底將部署20至22兆瓦的AMD和英偉達AI算力。"
+    },
+    {
+      "id": "mkt:01a1c5a0-b751-7bbc-ab87-0bc5dca7589a",
+      "time": "2026-11-10 21:23:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Analyst: US October inf likely to ease; sustainability uncertain】Analyst Colby Smith expects US October inf to show easing. He says Fed economists and policymakers will be watching whether the improvement is sustained or transitory, with the outlook hinging on developments in the Iran conflict and the durability of the AI investment boom."
+    },
+    {
+      "id": "mkt:01a1c5a0-abb4-7bbc-ab87-04d67a70923f",
+      "time": "2026-11-10 21:23:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Secretary Hegseth thanked U.S. President Trump for his support."
+    },
+    {
+      "id": "5206385",
+      "time": "2026-11-10 21:23:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "赫格塞思：感謝特朗普總統的支援。"
+    },
+    {
+      "id": "mkt:01a1c5a0-3e37-7bbc-ab86-fd69bc9dfde6",
+      "time": "2026-11-10 21:22:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli said long-term inflation expectations remain well anchored, with no signs of de-anchoring."
+    },
+    {
+      "id": "5206384",
+      "time": "2026-11-10 21:22:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行隆巴爾代利：我不會排除12月或2月（加息）的可能性。長期通脹預期錨定良好，未出現脫錨跡象。"
+    },
+    {
+      "id": "mkt:01a1c5a0-1b5f-7bbc-ab86-f5f6164f2de0",
+      "time": "2026-11-10 21:22:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli said he would not rule out a rate rise in December or February."
+    },
+    {
+      "id": "5206383",
+      "time": "2026-11-10 21:21:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【諾獎得主攜手香港高校研發丙肝疫苗】2020年諾貝爾生理學或醫學獎得主邁克爾·霍頓近日加入香港浸會大學擔任生物系講座教授，並與該校科研團隊開展丙型肝炎疫苗研發工作。（新華社）"
+    },
     {
       "id": "5206382",
       "time": "2026-11-10 21:21:17",
