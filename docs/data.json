@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-11 05:23:29",
+  "updated": "2026-11-11 05:27:20",
   "count": 10554,
   "items": [
+    {
+      "id": "5206950",
+      "time": "2026-11-11 05:26:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會宣告稱，五個州加入了聯邦貿易委員會的訴訟，指控 Hims and Hers 從事欺騙性和非法的隱私行為。"
+    },
+    {
+      "id": "mkt:01a1c75a-9756-7bbc-ab93-dc59377aafb1",
+      "time": "2026-11-11 05:26:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Bowman said focus has shifted to rules and supervision of small banks."
+    },
+    {
+      "id": "5206949",
+      "time": "2026-11-11 05:24:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：已將關注點轉向小型銀行規則和監管方法。"
+    },
+    {
+      "id": "5206948",
+      "time": "2026-11-11 05:24:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：希望並預計在未來幾周內敲定關於全球系統重要性銀行附加資本要求和巴塞爾III的規則。"
+    },
+    {
+      "id": "te:markets:600148",
+      "time": "2026-11-11 05:23:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls on Mining Losses — The S&P/TSX Composite fell 0.8% to close at 36,170 on Tuesday, weighed down by losses in the mining sector. Miners posted sharp losses as gold prices tumbled on hotter-than-expected US inflation and hawkish remarks from Federal Reserve officials. Agnico Eagle fell 4.5%, Barrick tumbled 5.6%, WPM dropped 4.4%, and Franco-Nevada shed 2.5%. Equinox Gold tumbled 6.2% as adjusted Q3 EPS fell short of expectations, and Endeavour Silver lost 2.8% after narrowing its full-year gold production guidance. Meanwhile, oil prices extended losses as investors increasingly anticipated a diplomatic resolution to the US-Iran conflict. Lower energy prices provided some relief to credit-sensitive sectors: Great-West Lifeco rose 2.7% and Fairfax Financial added 2.5%. iA Financial rose 1.5% after beating EPS estimates and raising its quarterly common dividend. Still, most major banks edged lower. Elsewhere, Hydro One gained 0.6% despite missing EPS expectations."
+    },
     {
       "id": "5206947",
       "time": "2026-11-11 05:22:51",
@@ -97091,52 +97139,6 @@
         "其他"
       ],
       "text": "委內瑞拉代總統羅德里格斯：過去12個月石油產量增長了8.5%。"
-    },
-    {
-      "id": "mkt:01a1a34e-e2eb-7ee0-aa55-d002c5107455",
-      "time": "2026-11-04 05:26:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Venezuela interim president RODRIGUEZ said October MoM inf was 6.2%."
-    },
-    {
-      "id": "mkt:01a1a34e-1326-7ee0-aa55-cfcea2847818",
-      "time": "2026-11-04 05:26:05",
-      "tags": [
-        "MKT News",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "AMD (AMD.O) expects Q4 growth to accelerate as it scales up Helios and Venice."
-    },
-    {
-      "id": "5191659",
-      "time": "2026-11-04 05:24:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉10月通脹率為24個月來最低，委內瑞拉已簽署80項油氣協議。"
-    },
-    {
-      "id": "te:markets:597783",
-      "time": "2026-11-04 05:24:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Prudential Financial earnings above expectations at 3.77 USD — Prudential Financial (PRU) released earnings per share at 3.77 USD, compared to market expectations of 3.47 USD."
-    },
-    {
-      "id": "5191658",
-      "time": "2026-11-04 05:23:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國土安全部長：除非受到威脅否則ICE特工不會出現在投票站。"
     }
   ]
 }

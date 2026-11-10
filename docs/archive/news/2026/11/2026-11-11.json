@@ -1,7 +1,55 @@
 {
   "date": "2026-11-11",
-  "count": 401,
+  "count": 406,
   "items": [
+    {
+      "id": "5206950",
+      "time": "2026-11-11 05:26:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會宣告稱，五個州加入了聯邦貿易委員會的訴訟，指控 Hims and Hers 從事欺騙性和非法的隱私行為。"
+    },
+    {
+      "id": "mkt:01a1c75a-9756-7bbc-ab93-dc59377aafb1",
+      "time": "2026-11-11 05:26:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Bowman said focus has shifted to rules and supervision of small banks."
+    },
+    {
+      "id": "5206949",
+      "time": "2026-11-11 05:24:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：已將關注點轉向小型銀行規則和監管方法。"
+    },
+    {
+      "id": "5206948",
+      "time": "2026-11-11 05:24:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：希望並預計在未來幾周內敲定關於全球系統重要性銀行附加資本要求和巴塞爾III的規則。"
+    },
+    {
+      "id": "te:markets:600148",
+      "time": "2026-11-11 05:23:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls on Mining Losses — The S&P/TSX Composite fell 0.8% to close at 36,170 on Tuesday, weighed down by losses in the mining sector. Miners posted sharp losses as gold prices tumbled on hotter-than-expected US inflation and hawkish remarks from Federal Reserve officials. Agnico Eagle fell 4.5%, Barrick tumbled 5.6%, WPM dropped 4.4%, and Franco-Nevada shed 2.5%. Equinox Gold tumbled 6.2% as adjusted Q3 EPS fell short of expectations, and Endeavour Silver lost 2.8% after narrowing its full-year gold production guidance. Meanwhile, oil prices extended losses as investors increasingly anticipated a diplomatic resolution to the US-Iran conflict. Lower energy prices provided some relief to credit-sensitive sectors: Great-West Lifeco rose 2.7% and Fairfax Financial added 2.5%. iA Financial rose 1.5% after beating EPS estimates and raising its quarterly common dividend. Still, most major banks edged lower. Elsewhere, Hydro One gained 0.6% despite missing EPS expectations."
+    },
     {
       "id": "5206947",
       "time": "2026-11-11 05:22:51",
