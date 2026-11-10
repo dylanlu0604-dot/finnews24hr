@@ -1,7 +1,80 @@
 {
   "date": "2026-11-11",
-  "count": 321,
+  "count": 329,
   "items": [
+    {
+      "id": "5206904",
+      "time": "2026-11-11 04:37:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "PlayStation取消線上射擊遊戲《Fairgames》專案。"
+    },
+    {
+      "id": "mkt:01a1c72e-054d-7bbc-ab92-f610dbe86be1",
+      "time": "2026-11-11 04:37:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said a new European security architecture has been added to the Abu Dhabi meeting agenda."
+    },
+    {
+      "id": "5206903",
+      "time": "2026-11-11 04:36:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：歐洲新安全架構議題已列入阿布扎比議程。"
+    },
+    {
+      "id": "5206902",
+      "time": "2026-11-11 04:36:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "索尼發言人證實“Fairgames”專案已取消。"
+    },
+    {
+      "id": "mkt:01a1c72b-e8c0-7bbc-ab92-e9b365019476",
+      "time": "2026-11-11 04:35:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Bowman said time will help the Fed better gauge the durability of AI-driven demand growth."
+    },
+    {
+      "id": "mkt:01a1c72b-cde4-7bbc-ab92-e6218da568a0",
+      "time": "2026-11-11 04:34:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed Governor Bowman said AI development is increasingly attracting external funding."
+    },
+    {
+      "id": "5206901",
+      "time": "2026-11-11 04:34:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：預計若干推升通脹的因素將在2027年減弱。"
+    },
+    {
+      "id": "5206900",
+      "time": "2026-11-11 04:33:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：關注人工智慧回報令人失望可能帶來的金融穩定風險。"
+    },
     {
       "id": "5206899",
       "time": "2026-11-11 04:32:48",
