@@ -1,7 +1,126 @@
 {
-  "updated": "2026-11-10 21:54:37",
-  "count": 10590,
+  "updated": "2026-11-10 21:58:35",
+  "count": 10592,
   "items": [
+    {
+      "id": "mkt:01a1c5bf-d8ac-7bbc-ab89-10feb6bae1e1",
+      "time": "2026-11-10 21:57:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【U.S. Treasuries sell off as markets raise bets on further Fed tightening】Signs of persistent U.S. inflation pushed Treasury prices down and yields up; 2- to 5-year yields rose more than 10 bps after Tuesday's inflation release. Traders stepped up bets on further Fed tightening, pricing at least two rate hikes by mid-2027 and a small probability of a 50-bp move in December. Fed governor Waller, speaking in London, said he would lean toward a 50-bp hike if inflation accelerates. Markets have fully priced a 25-bp Fed hike for December."
+    },
+    {
+      "id": "mkt:01a1c5be-6a1c-7bbc-ab89-0d299c7acb82",
+      "time": "2026-11-10 21:55:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said the United States serves its own national interests, not the global order or other countries."
+    },
+    {
+      "id": "5206459",
+      "time": "2026-11-10 21:55:26",
+      "tags": [
+        "資料",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美CPI超預期 美聯儲12月加息50個基點的機率飆升至13.6%】美國10月整體及核心CPI環比漲幅均高於市場預期，顯示通脹壓力仍然頑固，推動市場進一步加大對美聯儲12月大幅加息的押注。據CME“美聯儲觀察”，美聯儲12月累計加息50個基點的機率從資料公佈前的1.1%升至13.6%，累計加息25個基點的機率從98.9%降至86.4%。到2027年1月，累計加息25個基點的機率為46.7%，累計加息50個基點的機率為47.0%，累計加息75個基點的機率為6.2%。"
+    },
+    {
+      "id": "mkt:01a1c5bd-cc0a-7bbc-ab89-0469f9996b9e",
+      "time": "2026-11-10 21:55:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian government officials said testing of diesel blended with 20% biodiesel is expected to finish in March 2027, with regulatory approval targeted for May or October 2027."
+    },
+    {
+      "id": "5206458",
+      "time": "2026-11-10 21:55:08",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【高盛警示：美聯儲加息或延續至 2027 年】高盛資產管理表示，美國通脹強於預期，可能迫使美聯儲開啟更激進的緊縮週期。多部門固定收益投資主管林賽・羅森納稱，儘管市場對 AI 相關風險擔憂上升，12 月加息仍是該行基準預期。若通脹持續居高不下，美聯儲或將在 2027 年繼續加息，借貸成本將在更長時間維持高位。"
+    },
+    {
+      "id": "mkt:01a1c5bd-bc38-7bbc-ab88-ff87b654381f",
+      "time": "2026-11-10 21:55:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Redbook weekly commercial retail sales YoY for week to Nov 7 +10.1% vs +10.4% prior."
+    },
+    {
+      "id": "5206457",
+      "time": "2026-11-10 21:55:06",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國至11月7日當週紅皮書商業零售銷售年率 10.1%，前值10.4%。"
+    },
+    {
+      "id": "mkt:01a1c5bd-9c42-7bbc-ab88-f0ded50e969e",
+      "time": "2026-11-10 21:55:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Redbook Retail Sales (YoY) (Nov.7) | actual 10.1% | previous 10.4%"
+    },
+    {
+      "id": "te:markets:600012",
+      "time": "2026-11-10 21:54:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises on Corporate Earnings — The Ibovespa rose around 0.5% to hover near 173,000 as investors assessed corporate earnings and the minutes of the BCB’s latest meeting. Embraer (+5%) reported Q3 revenue of R$12.1 billion, beating estimates and setting a third-quarter record, although adjusted profit fell 15.6% year-on-year. Itaúsa (+1%) posted a 25% annual increase in net profit. Brava Energia (-2.5%) beat EBITDA estimates but it still posted a quarterly decline, Bradesco BBI maintained its buy rating. Magazine Luiza surged 10% after reporting results in line with expectations. Petrobras (-1%) is due to report later today amid falling oil prices. Banco do Brasil (+1%) reports tomorrow, followed by B3 (+1.5%) and Rede D’Or (+0.5%) on Thursday. Meanwhile, the Copom minutes maintained the previous statement’s hawkish tone, reiterating that unanchored inflation expectations require tighter monetary conditions for longer."
+    },
+    {
+      "id": "5206456",
+      "time": "2026-11-10 21:54:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "政府官員稱，巴西預計將於2027年3月完成柴油中摻混20%生物柴油的測試。"
+    },
+    {
+      "id": "te:markets:600011",
+      "time": "2026-11-10 21:54:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Prices Fall More Than 2% — Silver prices tumbled below $52 an ounce on Tuesday as hotter-than-expected US inflation figures and hawkish comments from Federal Reserve Governor Christopher Waller strengthened expectations of further monetary tightening in December, including the possibility of a 50-basis-point hike. US headline inflation slowed to 0.4% month-on-month in October 2026, from 0.6% in September, but came in above forecasts of 0.3%. Core inflation also remained elevated at 0.3% for a third consecutive month, exceeding expectations of 0.2% and highlighting persistent underlying price pressures. Waller signaled support for a December rate increase, adding that he would back a 50-basis-point hike if inflation continued to accelerate. Markets are now pricing in approximately 28 basis points of tightening, fully reflecting a quarter-point increase while leaving room for a larger move."
+    },
+    {
+      "id": "5206455",
+      "time": "2026-11-10 21:54:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國能源部長賴特：埃克森美孚初步達成重返委內瑞拉的協議，充分體現了特朗普總統的領導力。今年早些時候還被視為“缺乏投資價值”的國家，如今已吸引全球最大能源公司之一作出重大投資承諾。短時間內便取得了巨大進展。"
+    },
     {
       "id": "mkt:01a1c5bc-6962-7bbc-ab88-ea9ccef15738",
       "time": "2026-11-10 21:53:41",
@@ -97274,91 +97393,6 @@
         "國際"
       ],
       "text": "美聯儲資料顯示，11月2日，美國有效聯邦基金利率為3.88%，交易額為1080億美元；10月30日，有效聯邦基金利率為3.88%，交易額為1090億美元。"
-    },
-    {
-      "id": "5191229",
-      "time": "2026-11-03 21:57:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：如果美國人哪天厭倦了我，我就搬去以色列，當他們的總理。我在那兒的支援率可是有99%。"
-    },
-    {
-      "id": "5191228",
-      "time": "2026-11-03 21:57:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列沙斯黨表示，將推薦內塔尼亞胡組建下一屆政府，理由是他“承諾規範托拉學者的地位”。"
-    },
-    {
-      "id": "5191227",
-      "time": "2026-11-03 21:56:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所資料顯示，英國近月天然氣價格下跌6.13便士/撒姆。"
-    },
-    {
-      "id": "5191226",
-      "time": "2026-11-03 21:56:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "洲際交易所資料顯示，歐洲基準天然氣價格下跌6.14%，至89.04歐元/兆瓦時。"
-    },
-    {
-      "id": "5191225",
-      "time": "2026-11-03 21:56:15",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅同菲律賓外長拉扎羅通電話】中共中央政治局委員、外交部長王毅3日應約同菲律賓外長拉扎羅通電話。王毅表示，中菲關係面臨惡意干擾，菲少數政客攻擊抹黑中國、踩踏中方紅線，菲方應約束有關人員、在對華政策上發出理性統一聲音，應將一箇中國政策落到實處、涉海問題謹言慎行。拉扎羅表示，菲方堅持一箇中國政策立場不會改變，願透過對話協商妥善處理涉海問題。雙方就改善發展中菲關係達成基本共識：保持外交對話，排除內外干擾，反對惡意挑釁，負責任管控分歧、穩定局勢、擴大共同利益。雙方還就即將在菲召開的東亞合作領導人會議及之後在深圳召開的亞太經合組織領導人非正式會議交換意見。（新華社）"
-    },
-    {
-      "id": "5191224",
-      "time": "2026-11-03 21:55:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "現代汽車美國公司：10月總銷量為73,452輛。"
-    },
-    {
-      "id": "5191223",
-      "time": "2026-11-03 21:55:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，俄羅斯在前線沒有優勢。"
-    },
-    {
-      "id": "5191222",
-      "time": "2026-11-03 21:55:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "現代汽車美國公司報告2026年10月銷量創歷史新高。"
-    },
-    {
-      "id": "5191221",
-      "time": "2026-11-03 21:55:08",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國至10月31日當週紅皮書商業零售銷售年率 10.4%，前值9.3%。"
-    },
-    {
-      "id": "5191220",
-      "time": "2026-11-03 21:54:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯農業市場研究所（IKAR）將俄羅斯糧食出口預測下調至4950萬噸。"
     }
   ]
 }
