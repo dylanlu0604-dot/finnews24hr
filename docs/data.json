@@ -1,7 +1,58 @@
 {
-  "updated": "2026-11-10 22:22:24",
-  "count": 10627,
+  "updated": "2026-11-10 22:26:22",
+  "count": 10619,
   "items": [
+    {
+      "id": "mkt:01a1c5d9-2748-7bbc-ab8a-01bf1045fd51",
+      "time": "2026-11-10 22:25:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "2026 FOMC voting member and Dallas Fed President Logan to speak in 10 minutes."
+    },
+    {
+      "id": "te:markets:600021",
+      "time": "2026-11-10 22:24:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Falls as Hawkish Fed Signals Boost Dollar — The euro slipped below $1.12 as hawkish remarks from Federal Reserve Governor Christopher Waller and stronger-than-expected US inflation data boosted the dollar. This followed a recent recovery in the common currency, supported by easing AI and Middle East concerns and falling oil prices. The dollar strengthened on Tuesday after Waller signaled the possibility of further rate increases, while October's stronger-than-expected US inflation reinforced expectations of additional Fed tightening in December. Meanwhile, the euro remains under pressure from France's political and fiscal challenges and uncertainty surrounding ECB President Christine Lagarde's potential early departure. The succession race is gaining attention, with Klaas Knot and Pablo Hernández de Cos emerging as potential candidates. On monetary policy, ECB Chief Economist Philip Lane signaled that another rate increase in December may be necessary, adding to growing calls among policymakers for a third hike this year."
+    },
+    {
+      "id": "5206509",
+      "time": "2026-11-10 22:24:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩洛哥旅遊部長：預計到今年年底遊客人數將達2100萬。"
+    },
+    {
+      "id": "5206508",
+      "time": "2026-11-10 22:23:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長江通訊：回覆上交所2026年半年報問詢函】長江通訊公告稱，公司就上交所出具的2026年半年度報告資訊披露監管問詢函進行回覆。2023年公司完成收購迪愛斯100%股權，迪愛斯2023-2025年業績承諾完成率分別為101.21%、109.89%、106.22%；2026年上半年迪愛斯實現營收2.76億元，淨虧損7801萬元。2023年至2026年6月末公司合同負債餘額持續下降，期末餘額4382.93萬元，較期初下降56.51%。公司及迪愛斯2023年至2026年上半年收入確認政策未發生變更，收入結構未發生重大變化，主要客戶隨專案承接及驗收進度自然更替，具有商業合理性。"
+    },
+    {
+      "id": "te:markets:600020",
+      "time": "2026-11-10 22:22:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Remains on Solid Footing — Frankfurt's DAX 40 maintained a solid advance on Tuesday, paring earlier gains but remaining close to record highs above 25,500. The further decline in oil prices, along with hopes for peace in Iran and the rebound in tech stocks after last week's slides, continued to support European markets. Meanwhile, traders weighed stronger-than-expected US inflation data and hawkish remarks from Federal Reserve Governor Christopher Waller, which raised expectations for a potential Fed's 50 bps hike in December. Most sectors traded in the green, led by banks, tech and insurers. Among infidvidual stocks, Henkel led gains, climbing more than 4%, as the company lifted its 2026 outlook after strong Q3 growth."
+    },
     {
       "id": "5206507",
       "time": "2026-11-10 22:21:23",
@@ -97648,122 +97699,6 @@
         "公司"
       ],
       "text": "義大利聯合聖保羅銀行CEO：義大利選舉未對利差走勢產生負面影響。"
-    },
-    {
-      "id": "5191283",
-      "time": "2026-11-03 22:26:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會秘書雷扎伊：美國對伊朗權利和訴求的回應不令人信服，美方必須全面、明確地回應伊朗的七項條件並付諸行動；只有這樣，霍爾木茲海峽才會重新開放。"
-    },
-    {
-      "id": "5191282",
-      "time": "2026-11-03 22:25:56",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "聯合聖保羅銀行執行長：義大利國債利差更有可能因法國或美國的影響而變動，而非內生原因。"
-    },
-    {
-      "id": "5191281",
-      "time": "2026-11-03 22:25:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：伊朗方面稱美國對其訴求的回應缺乏說服力。"
-    },
-    {
-      "id": "5191280",
-      "time": "2026-11-03 22:25:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "Diamondback認為將在西德克薩斯資料中心建設中發揮作用。"
-    },
-    {
-      "id": "5191279",
-      "time": "2026-11-03 22:25:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【APEC會議期間，騰訊實行靈活工作安排】11月3日，騰訊釋出全員通知，APEC會議即將在深圳舉行。為響應政府靈活辦公、綠色出行的倡議，結合會議期間的交通保障需要、公司業務實際及工作生活安排，11月16日至20日，騰訊深圳地區支援以下靈活工作安排。一、結合實際情況，靈活安排。會議期間，可根據實際情況，提前與上級溝通，申請居家辦公或錯峰上下班。二、倡導綠色出行，共同減少交通壓力。鼓勵有條件的員工優先選擇地鐵、公交、班車、拼車等出行方式，減少非必要自駕，合理規劃出行路線和時間，共同緩解會議期間的交通壓力。會議期間，公司班車和餐廳照常服務。"
-    },
-    {
-      "id": "5191278",
-      "time": "2026-11-03 22:24:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "Energy Transfer與一家評級為A的超大規模資料中心運營商簽署10年期天然氣供應協議。"
-    },
-    {
-      "id": "5191277",
-      "time": "2026-11-03 22:24:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：與德國總理默茨舉行了一場富有成效、意義重大的會晤。我向默茨通報了烏克蘭國內以及前線局勢。我們商討了援助方案以及所需的解決舉措，德國將推出一套冬季援助計劃。雙方還談及進一步的防空援助，包括向烏克蘭提供 PAC-2、PAC-3 以及 IRIS-T 導彈。我我們還商議了針對 F-16 戰機的新一輪援助方案。”"
-    },
-    {
-      "id": "te:markets:597704",
-      "time": "2026-11-03 22:24:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Nears One-Year Low as Oil Extends Monday's Plunge — The Ibovespa fell nearly 2% to trade below 165,000 on Tuesday, nearing a one-year low following Monday’s holiday, as Petrobras shares led losses. Petrobras sank nearly 7% as oil prices extended yesterday's plunge after US President Donald Trump announced that Washington would end its financial support for Israel by year-end, while Iranian officials signaled openness to diplomacy. Prio also fell 5.5%. Meanwhile, major banks were subdued ahead of the BCB’s upcoming monetary policy decision, amid concerns over the country’s fiscal outlook. Itaú and Bradesco edged lower, while Banco do Brasil lost nearly 1%. Utilities also posted losses, with Axia and Sabesp each falling about 2%. Other laggards included WEG (-1%), Ambev (-0.5%) and Rede D’Or (-1.5%)."
-    },
-    {
-      "id": "5191276",
-      "time": "2026-11-03 22:24:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Meta擬發債募資至少200億美元】據知情人士透露，Meta Platforms今日上午啟動一筆投資級債券發行，目標募資規模200億–250億美元，公司持續籌措鉅額資金，用於AI基建建設。訊息稱，本次債券分為五檔發行，幣種結構大致為三分之二美元債、三分之一歐元債。Meta上一次在美國投資級債券市場發債是在今年4月；此後，公司一方面開展股權融資，另一方面透過表外合資專案來籌措資金、投建資料中心。即便是Meta這類高評級主體，今年秋季新增舉債計劃也遭到投資者牴觸。隨著發債成本抬升，資金獲取能力正日益成為AI算力擴產的瓶頸。"
-    },
-    {
-      "id": "5191275",
-      "time": "2026-11-03 22:24:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西石油、天然氣產量9月創紀錄，達每日612萬桶油當量。"
-    },
-    {
-      "id": "5191274",
-      "time": "2026-11-03 22:23:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "TGN管道將把瓦斯從瓦卡穆埃爾塔輸送到北部，投資15億美元，全長753公里。"
-    },
-    {
-      "id": "te:markets:597702",
-      "time": "2026-11-03 22:22:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline Holds Near 3-Month Low — US gasoline futures traded near $2.90 per gallon, holding close to a three-month low as markets assessed diplomatic efforts between Washington and Tehran. Reports of a US strike on Iran’s Qeshm Island initially pressured prices, although Energy Secretary Wright said the strikes had not disrupted flows through the Strait of Hormuz. Ongoing negotiations have also helped ease concerns over further disruptions, with the US approving a draft memorandum of understanding presented to Iran by Qatar on Monday. Meanwhile, US gasoline inventories have shown some recovery. EIA data showed inventories unexpectedly rose by 3.8 million barrels in the week ended October 23rd, while gasoline supplied, a proxy for demand, fell by 624,000 bpd to 8.36 million bpd. However, inventories remain around 2% below their five-year seasonal average. Seasonal refinery maintenance and a shift toward higher diesel production ahead of winter could constrain gasoline output, limiting further downside in prices."
-    },
-    {
-      "id": "5191273",
-      "time": "2026-11-03 22:22:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱擊中敖德薩以南24公里處一艘貨船."
     }
   ]
 }

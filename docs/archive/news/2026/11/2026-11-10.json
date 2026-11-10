@@ -1,7 +1,58 @@
 {
   "date": "2026-11-10",
-  "count": 1588,
+  "count": 1593,
   "items": [
+    {
+      "id": "mkt:01a1c5d9-2748-7bbc-ab8a-01bf1045fd51",
+      "time": "2026-11-10 22:25:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "2026 FOMC voting member and Dallas Fed President Logan to speak in 10 minutes."
+    },
+    {
+      "id": "te:markets:600021",
+      "time": "2026-11-10 22:24:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Falls as Hawkish Fed Signals Boost Dollar — The euro slipped below $1.12 as hawkish remarks from Federal Reserve Governor Christopher Waller and stronger-than-expected US inflation data boosted the dollar. This followed a recent recovery in the common currency, supported by easing AI and Middle East concerns and falling oil prices. The dollar strengthened on Tuesday after Waller signaled the possibility of further rate increases, while October's stronger-than-expected US inflation reinforced expectations of additional Fed tightening in December. Meanwhile, the euro remains under pressure from France's political and fiscal challenges and uncertainty surrounding ECB President Christine Lagarde's potential early departure. The succession race is gaining attention, with Klaas Knot and Pablo Hernández de Cos emerging as potential candidates. On monetary policy, ECB Chief Economist Philip Lane signaled that another rate increase in December may be necessary, adding to growing calls among policymakers for a third hike this year."
+    },
+    {
+      "id": "5206509",
+      "time": "2026-11-10 22:24:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩洛哥旅遊部長：預計到今年年底遊客人數將達2100萬。"
+    },
+    {
+      "id": "5206508",
+      "time": "2026-11-10 22:23:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長江通訊：回覆上交所2026年半年報問詢函】長江通訊公告稱，公司就上交所出具的2026年半年度報告資訊披露監管問詢函進行回覆。2023年公司完成收購迪愛斯100%股權，迪愛斯2023-2025年業績承諾完成率分別為101.21%、109.89%、106.22%；2026年上半年迪愛斯實現營收2.76億元，淨虧損7801萬元。2023年至2026年6月末公司合同負債餘額持續下降，期末餘額4382.93萬元，較期初下降56.51%。公司及迪愛斯2023年至2026年上半年收入確認政策未發生變更，收入結構未發生重大變化，主要客戶隨專案承接及驗收進度自然更替，具有商業合理性。"
+    },
+    {
+      "id": "te:markets:600020",
+      "time": "2026-11-10 22:22:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Remains on Solid Footing — Frankfurt's DAX 40 maintained a solid advance on Tuesday, paring earlier gains but remaining close to record highs above 25,500. The further decline in oil prices, along with hopes for peace in Iran and the rebound in tech stocks after last week's slides, continued to support European markets. Meanwhile, traders weighed stronger-than-expected US inflation data and hawkish remarks from Federal Reserve Governor Christopher Waller, which raised expectations for a potential Fed's 50 bps hike in December. Most sectors traded in the green, led by banks, tech and insurers. Among infidvidual stocks, Henkel led gains, climbing more than 4%, as the company lifted its 2026 outlook after strong Q3 growth."
+    },
     {
       "id": "5206507",
       "time": "2026-11-10 22:21:23",
