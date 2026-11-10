@@ -1,7 +1,129 @@
 {
-  "updated": "2026-11-11 05:00:44",
-  "count": 10538,
+  "updated": "2026-11-11 05:04:35",
+  "count": 10543,
   "items": [
+    {
+      "id": "mkt:01a1c746-05f6-7bbc-ab93-514c4ccc0514",
+      "time": "2026-11-11 05:03:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Governor Bowman said she will shift her focus to inflation."
+    },
+    {
+      "id": "5206920",
+      "time": "2026-11-11 05:03:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心主任表示，即使美國失去麻疹消除狀態，該公共衛生機構也不會改變其應對措施。"
+    },
+    {
+      "id": "mkt:01a1c745-8e23-7bbc-ab93-4d1b02a19b6d",
+      "time": "2026-11-11 05:03:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed Governor Bowman said she needs to see AI-related and Middle East risks ease before she can be confident that inflation will decline next year."
+    },
+    {
+      "id": "5206919",
+      "time": "2026-11-11 05:02:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：需要看到人工智慧和中東風險減弱，才能確信明年通脹會下降。"
+    },
+    {
+      "id": "mkt:01a1c745-0570-7bbc-ab93-4138d7e7a07d",
+      "time": "2026-11-11 05:02:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: ANTHROPIC investors plan to sell up to $500m of IPO shares at a 3–5% selling commission."
+    },
+    {
+      "id": "mkt:01a1c744-a716-7bbc-ab93-3a28864d7662",
+      "time": "2026-11-11 05:02:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Bowman said inflation expectations are an important data point but are not necessarily determinative of her view."
+    },
+    {
+      "id": "mkt:01a1c744-8ed8-7bbc-ab93-33905750d8bc",
+      "time": "2026-11-11 05:02:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Bowman said long-term inflation expectations remain well anchored."
+    },
+    {
+      "id": "mkt:01a1c744-0ffc-7bbc-ab93-2ca01d5503e6",
+      "time": "2026-11-11 05:01:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【US close: major indexes slip; NVIDIA falls 5.4%】US equities closed lower Tuesday: Dow -0.3%, S&P 500 -0.38%, Nasdaq -0.74%. NVIDIA (NVDA.O) -5.4%, SK Hynix (SKHY.O) -3.5%, Microsoft (MSFT.O) -2%, Trump Media & Technology Group (DJT.O) +5%. Nasdaq Golden Dragon China Index -1.2%; NIO (NIO.N) -3%."
+    },
+    {
+      "id": "5206918",
+      "time": "2026-11-11 05:01:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "Fireworks披露了一起駭客攻擊事件，導致客戶模型權重洩露。一週前，該公司剛聘請前Meta戰略主管Dave Wehner擔任首席財務官。"
+    },
+    {
+      "id": "5206917",
+      "time": "2026-11-11 05:00:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：長期通脹預期已得到很好的錨定。"
+    },
+    {
+      "id": "5206916",
+      "time": "2026-11-11 05:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.30%，標普500指數跌0.38%，納指跌0.73%。SKYD跌7.59%，Moderna跌6.75%，第一太陽能跌5.55%。“七姐妹”方面：亞馬遜漲1.48%，特斯拉漲0.46%，Meta Platforms漲0.02%，谷歌跌0.39%，蘋果跌0.61%，微軟跌2.18%，英偉達跌5.49%。"
+    },
     {
       "id": "5206915",
       "time": "2026-11-11 05:00:03",
@@ -96956,77 +97078,6 @@
         "國際"
       ],
       "text": "超微電腦第一財季淨銷售額199.5億美元，預期149.9億美元。\n預計第二季度淨銷售額為195億至215億美元，市場預期為165.3億美元。\n預計全年淨銷售額為720億至820億美元，此前預期為650億至720億美元。"
-    },
-    {
-      "id": "te:markets:597776",
-      "time": "2026-11-04 05:04:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Amgen earnings above expectations at 6.45 USD — Amgen (AMGN) released earnings per share at 6.45 USD, compared to market expectations of 5.76 USD."
-    },
-    {
-      "id": "5191645",
-      "time": "2026-11-04 05:03:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "Booking第三季度總預訂額為545億美元，預期為526.9億美元。\n第三季度營收88.9億美元，市場預期為95.4億美元。\n第三季度調整後每股收益4.66美元，去年同期為99.50美元。\n第三季度調整後EBITDA為46.1億美元，市場預期為44.9億美元。\n第三季度售出客房夜數3.45億，預估3.3924億。\n預計第四季度總預訂額增長2%至4%。\n預計第四季度客房夜數增長1%至3%。\n預計第四季度按固定匯率計算營收增長2%至4%。"
-    },
-    {
-      "id": "mkt:01a1a339-3d31-7ee0-aa55-46a4fe910fa4",
-      "time": "2026-11-04 05:03:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equities on Tuesday, Nov. 3: Dow Jones Industrial Average closed down 197.12 points (-0.38%) at 51,786.86; S&P 500 closed up 27.55 points (0.37%) at 7,568.95; Nasdaq Composite closed up 207.65 points (0.83%) at 25,372.01."
-    },
-    {
-      "id": "mkt:01a1a337-e845-7ee0-aa55-3e07798c6f09",
-      "time": "2026-11-04 05:01:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "ORCL.O",
-        "Impact bullish",
-        "AAPL.O",
-        "Impact bearish",
-        "NVDA.O"
-      ],
-      "text": "【US close: major indexes mixed; Oracle up nearly 6%】US stocks closed mixed on Tuesday: Dow Jones Industrial Average down 0.38%, S&P 500 up 0.37%, Nasdaq Composite up 0.83%. Micron Technology, SK Hynix and NVIDIA rose over 2% each; AMD gained 3.6%; Oracle jumped 5.8%; Apple fell about 2%. The Nasdaq Golden Dragon China Index rose 0.21%, with JD.com up 2.3%."
-    },
-    {
-      "id": "5191644",
-      "time": "2026-11-04 05:01:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "安進第三季度調整後每股收益6.45美元，預估5.77美元。"
-    },
-    {
-      "id": "5191643",
-      "time": "2026-11-04 05:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指跌0.38%，標普500指數漲0.37%，納指漲0.80%。費哲漲12.49%，BE漲9.05%，杜邦漲8.66%，RVTY漲7.94%，加特納跌13.29%，湯姆遜-路透跌9.93%，西思科公司跌9.33%。“七姐妹”方面：微軟漲2.70%，Meta Platforms漲2.33%，英偉達漲2.26%，亞馬遜漲2.09%，谷歌漲0.09%，特斯拉跌1.32%，蘋果跌1.97%。"
     }
   ]
 }

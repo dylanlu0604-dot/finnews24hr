@@ -1,7 +1,129 @@
 {
   "date": "2026-11-11",
-  "count": 345,
+  "count": 356,
   "items": [
+    {
+      "id": "mkt:01a1c746-05f6-7bbc-ab93-514c4ccc0514",
+      "time": "2026-11-11 05:03:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Governor Bowman said she will shift her focus to inflation."
+    },
+    {
+      "id": "5206920",
+      "time": "2026-11-11 05:03:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心主任表示，即使美國失去麻疹消除狀態，該公共衛生機構也不會改變其應對措施。"
+    },
+    {
+      "id": "mkt:01a1c745-8e23-7bbc-ab93-4d1b02a19b6d",
+      "time": "2026-11-11 05:03:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed Governor Bowman said she needs to see AI-related and Middle East risks ease before she can be confident that inflation will decline next year."
+    },
+    {
+      "id": "5206919",
+      "time": "2026-11-11 05:02:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：需要看到人工智慧和中東風險減弱，才能確信明年通脹會下降。"
+    },
+    {
+      "id": "mkt:01a1c745-0570-7bbc-ab93-4138d7e7a07d",
+      "time": "2026-11-11 05:02:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: ANTHROPIC investors plan to sell up to $500m of IPO shares at a 3–5% selling commission."
+    },
+    {
+      "id": "mkt:01a1c744-a716-7bbc-ab93-3a28864d7662",
+      "time": "2026-11-11 05:02:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Bowman said inflation expectations are an important data point but are not necessarily determinative of her view."
+    },
+    {
+      "id": "mkt:01a1c744-8ed8-7bbc-ab93-33905750d8bc",
+      "time": "2026-11-11 05:02:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Bowman said long-term inflation expectations remain well anchored."
+    },
+    {
+      "id": "mkt:01a1c744-0ffc-7bbc-ab93-2ca01d5503e6",
+      "time": "2026-11-11 05:01:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【US close: major indexes slip; NVIDIA falls 5.4%】US equities closed lower Tuesday: Dow -0.3%, S&P 500 -0.38%, Nasdaq -0.74%. NVIDIA (NVDA.O) -5.4%, SK Hynix (SKHY.O) -3.5%, Microsoft (MSFT.O) -2%, Trump Media & Technology Group (DJT.O) +5%. Nasdaq Golden Dragon China Index -1.2%; NIO (NIO.N) -3%."
+    },
+    {
+      "id": "5206918",
+      "time": "2026-11-11 05:01:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "Fireworks披露了一起駭客攻擊事件，導致客戶模型權重洩露。一週前，該公司剛聘請前Meta戰略主管Dave Wehner擔任首席財務官。"
+    },
+    {
+      "id": "5206917",
+      "time": "2026-11-11 05:00:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：長期通脹預期已得到很好的錨定。"
+    },
+    {
+      "id": "5206916",
+      "time": "2026-11-11 05:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.30%，標普500指數跌0.38%，納指跌0.73%。SKYD跌7.59%，Moderna跌6.75%，第一太陽能跌5.55%。“七姐妹”方面：亞馬遜漲1.48%，特斯拉漲0.46%，Meta Platforms漲0.02%，谷歌跌0.39%，蘋果跌0.61%，微軟跌2.18%，英偉達跌5.49%。"
+    },
     {
       "id": "5206915",
       "time": "2026-11-11 05:00:03",
