@@ -1,7 +1,170 @@
 {
   "date": "2026-11-10",
-  "count": 1524,
+  "count": 1542,
   "items": [
+    {
+      "id": "mkt:01a1c5c7-82e5-7bbc-ab89-7ff1f91f851f",
+      "time": "2026-11-10 22:05:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's parliament began a swearing-in ceremony, formally convening the 26th Knesset."
+    },
+    {
+      "id": "5206479",
+      "time": "2026-11-10 22:05:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "大金應用推出60兆瓦AI工廠冷卻參考架構。"
+    },
+    {
+      "id": "5206478",
+      "time": "2026-11-10 22:05:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "ADOBE：ADOBE創意代理現已在PREMIERE、ILLUSTRATOR、INDESIGN、AFTER EFFECTS、FRAME.IO中推出。"
+    },
+    {
+      "id": "mkt:01a1c5c6-d332-7bbc-ab89-71b2ae984c40",
+      "time": "2026-11-10 22:05:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ADBE.O",
+        "Impact bullish",
+        "GOOG.O"
+      ],
+      "text": "Adobe (ADBE.O) announced it will deepen its AI partnership with Google (GOOG.O), introducing leading AI models and integrated workflows to creative professionals and enterprise customers."
+    },
+    {
+      "id": "5206477",
+      "time": "2026-11-10 22:04:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "Adobe與谷歌深化AI合作。"
+    },
+    {
+      "id": "mkt:01a1c5c6-0179-7bbc-ab89-68718b1e80ed",
+      "time": "2026-11-10 22:04:10",
+      "tags": [
+        "MKT News",
+        "ABT.N",
+        "Impact bullish"
+      ],
+      "text": "Abbott (ABT.N) said its Ultisynq lead received U.S. FDA approval and EU CE marking."
+    },
+    {
+      "id": "5206476",
+      "time": "2026-11-10 22:03:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部稱，透過發行5年期伊斯蘭債券籌集了185.3億里拉。"
+    },
+    {
+      "id": "5206475",
+      "time": "2026-11-10 22:03:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "Slate Aviation：將為全部機隊配備星鏈衛星網際網路。"
+    },
+    {
+      "id": "mkt:01a1c5c5-10b5-7bbc-ab89-63c9343cf1aa",
+      "time": "2026-11-10 22:03:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB executive board member Cipellone said the digital euro could be delayed if negotiations are prolonged."
+    },
+    {
+      "id": "mkt:01a1c5c4-b61c-7bbc-ab89-5e86c9afcb33",
+      "time": "2026-11-10 22:02:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "LCID.O",
+        "Impact bullish"
+      ],
+      "text": "Lucid Group (LCID.O) will open a studio and delivery center in Riyadh in Q1 2027 and establish service centers in Riyadh and Dammam in 1H 2027."
+    },
+    {
+      "id": "te:markets:600014",
+      "time": "2026-11-10 22:02:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Rises After Hot CPI — The yield on the 10-year US Treasury note rose to around 4.95%, extending the rebound from a near-two-month low of 4.84% on November 5th after hot inflation data consolidated bets that the Federal Reserve will deliver multiple additional rate hikes in the current cycle. Both headline and core consumer prices rose more than expected in October, adding to evidence that soaring energy prices are being transmitted into core sectors of a resilient economy. The data followed hawkish comments from Fed Governor Waller, who advocated for a 25-bps rate hike in December with the possibility of a larger move should prices rise more than the central bank expects. Treasury yields of all maturities had already rebounded this week as markets regained risk sentiment following a brief flight to safety after the Democratic Party gained control of Congress, driving markets to reconsider advances in the tech sector that has carried investment in the US economy."
+    },
+    {
+      "id": "5206474",
+      "time": "2026-11-10 22:02:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立華股份：肉鵝業務2025年度銷售商品鵝269.98萬隻，同比增長28.79%】立華股份在投資者關係活動記錄表中表示，公司肉鵝業務近年來規模繼續提升，2025年度銷售商品鵝269.98萬隻，同比增長28.79%。"
+    },
+    {
+      "id": "5206473",
+      "time": "2026-11-10 22:02:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "Calibrant Energy獲得1.45億美元專案融資。"
+    },
+    {
+      "id": "mkt:01a1c5c4-5a0e-7bbc-ab89-536a7cfcbeaf",
+      "time": "2026-11-10 22:02:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ADBE.O",
+        "Impact bullish"
+      ],
+      "text": "Adobe (ADBE.O) will expand Firefly into an AI Creative Studio, adding video, design and image tools to the Firefly beta."
+    },
+    {
+      "id": "5206472",
+      "time": "2026-11-10 22:02:21",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【國泰海通： 當前美元流動性尚未成為影響資產定價的主要矛盾，但邊際收緊值得重視 】國泰海通釋出研報指出，10月下旬以來，擔保隔夜融資利率SOFR連續高於準備金餘額利率IORB，疊加美聯儲重啟加息，市場對美元流動性的擔憂升溫。我們沿資金流向，從在岸、離岸到實體逐層觀察，認為當前美元流動性尚未成為影響資產定價的主要矛盾，但邊際收緊值得重視。當前在岸美元流動性壓力集中在回購市場，銀行間仍然平穩；離岸美元供給充裕；向實體的傳匯出現分化，票據和貸款繼續擴張，企業債發行收縮，壓力集中在CCC級等低評級企業。年末前後需關注回購市場的壓力是否向銀行間擴散，以及債券市場發行信用壓力是否向更高評級蔓延。"
+    },
+    {
+      "id": "mkt:01a1c5c4-4fb0-7bbc-ab89-48a9cd7ffc03",
+      "time": "2026-11-10 22:02:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Confidential KPMG report: U.S. drew $12.26 bln from Venezuelan exports】The New York Times reports a confidential KPMG report shows the U.S. government received and spent more than $12 bln from Venezuelan natural-resource exports in the first nine months of this year. The report, dated days before the U.S. midterm elections, says between Jan. 3 — the date it cites as the start of U.S. military intervention — and Sept. 30 the U.S. Treasury’s Venezuela custodial account received $12.26 bln in deposits. Most funds were reallocated shortly after receipt; the account held about $170 mln at Sept. 30 and earned roughly $12 mln in interest. The bulk of funds returned to Venezuela were sold into the market via FX auctions run by Venezuelan commercial banks; the report does not identify the ultimate beneficiaries of those proceeds."
+    },
+    {
+      "id": "5206471",
+      "time": "2026-11-10 22:02:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國海警三都艦抵達馬來西亞開啟港口訪問】10日，中國海警三都艦抵達馬來西亞檳城瑞典鹹港口，開始為期四天的友好訪問，這也是該艦首次對馬來西亞港口進行訪問。馬來西亞海事執法局及當地華人華僑在港口舉行歡迎儀式，馬方人員和當地華人華僑登艦參觀。馬方戰略計劃和國際事務處副處長穆扎菲拉表示，去年馬港訪三亞期間雙方合作進一步加強，今年邀請中國海警艦回訪，希望建立聯絡並設立聯絡點以深化關係。訪問期間，中馬雙方將開展雙邊交流系列活動，三都艦將舉行艦艇開放日、甲板招待會等活動。（央視新聞）"
+    },
     {
       "id": "mkt:01a1c5c4-0b0f-7bbc-ab89-411fdd1000f3",
       "time": "2026-11-10 22:02:01",
@@ -9,6 +172,14 @@
         "MKT News"
       ],
       "text": "【Regan Capital: Stronger inflation and jobs lift odds of Fed December hike】Regan Capital CIO Skyler Weinand said Tuesday’s stronger-than-expected CPI, together with robust October payroll gains and upward revisions to prior months, provides a basis for a Federal Reserve rate increase in December. He added the Fed can likely tighten modestly without materially damaging the labour market given its current strength."
+    },
+    {
+      "id": "5206470",
+      "time": "2026-11-10 22:01:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "Adobe擴充套件Firefly，將其打造為AI創意工作室。"
     },
     {
       "id": "mkt:01a1c5c3-d3f9-7bbc-ab89-3ea3bff98868",
