@@ -1,7 +1,156 @@
 {
-  "updated": "2026-11-10 21:42:37",
-  "count": 10587,
+  "updated": "2026-11-10 21:46:31",
+  "count": 10588,
   "items": [
+    {
+      "id": "mkt:01a1c5b5-50db-7bbc-ab88-9ce847400eff",
+      "time": "2026-11-10 21:45:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said the military is ready at any time, but for now we do not consider it necessary to do so."
+    },
+    {
+      "id": "mkt:01a1c5b5-2c77-7bbc-ab88-9346cb5f87fb",
+      "time": "2026-11-10 21:45:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said the U.S. will not agree to a bad Iran deal."
+    },
+    {
+      "id": "5206446",
+      "time": "2026-11-10 21:45:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "Esperion與Aurobindo就Nexletol和Nexlizet專利達成和解。"
+    },
+    {
+      "id": "mkt:01a1c5b5-0e83-7bbc-ab88-8f0ab26969ec",
+      "time": "2026-11-10 21:45:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Analyst: 50bp December hike option back on table】Analyst Ira Jersey said today's CPI print was broadly above expectations, reviving the possibility of a 50bp Fed hike in December flagged by Fed Governor Waller and prompting a rapid bear‑flattening move. Jersey expects the yield curve to continue flattening until the Fed stops hiking. If the Fed does raise 50bp in December, he sees a high probability of another hike in March next year."
+    },
+    {
+      "id": "mkt:01a1c5b4-cbe6-7bbc-ab88-83a7fa134cdc",
+      "time": "2026-11-10 21:45:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Iran is keen to reach a deal, but its current demands are extremely unreasonable and the two sides remain far from an agreement."
+    },
+    {
+      "id": "5206445",
+      "time": "2026-11-10 21:45:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本政府高官鼓吹應允許緊急情況下運進核武器】據日本共同社10日報道，日本政府高官談及修訂“安保三檔案”時表示，應允許在緊急情況下將核武器運進日本，作為“無核三原則”的例外情況，具體表述將由執政陣營協商。日本媒體本月5日報道稱，政府傾向於暫不直接修改“不擁有、不製造、不運進核武器”，而是以設定例外情況的方式允許緊急情況下運進核武器，主要參照前外務大臣岡田克也2010年3月的國會答辯。自民黨與維新會10日就修訂“安保三檔案”啟動實務磋商，後續磋商中“無核三原則”、核動力潛艇、新的防衛費目標等預計將成為主要議題。（新華社）"
+    },
+    {
+      "id": "5206444",
+      "time": "2026-11-10 21:44:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：如有可談協議，美國隨時準備與伊朗談判。"
+    },
+    {
+      "id": "mkt:01a1c5b4-4e37-7bbc-ab88-7eb4943286c2",
+      "time": "2026-11-10 21:44:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Secretary of State Rubio said the US stands ready at any time to negotiate with Iran if a negotiable agreement exists."
+    },
+    {
+      "id": "mkt:01a1c5b3-d222-7bbc-ab88-7799d8a2613c",
+      "time": "2026-11-10 21:44:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【CNBC: October inflation rings alarm for Fed's efforts to lower inflation】CNBC reported Tuesday that data from the U.S. Bureau of Labor Statistics (BLS) showed October U.S. consumer prices rose more than expected: headline CPI +0.4% MoM and core CPI +0.3% MoM, both above market forecasts and posing a renewed challenge to the Fed's disinflation push. The BLS did not publish YoY inflation because last year’s government shutdown prevented it from collecting sufficient October 2025 benchmark data for a year‑on‑year comparison."
+    },
+    {
+      "id": "5206443",
+      "time": "2026-11-10 21:44:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達盤前跌幅擴大至2%，此前曾一度上漲2%。"
+    },
+    {
+      "id": "mkt:01a1c5b3-8ed5-7bbc-ab88-6bfc1eea86f9",
+      "time": "2026-11-10 21:44:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Secretary of State Rubio says the situation in Iran is not a stalemate."
+    },
+    {
+      "id": "mkt:01a1c5b2-c899-7bbc-ab88-629f7c21a579",
+      "time": "2026-11-10 21:43:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100 futures fell 1.5% to hit premarket lows."
+    },
+    {
+      "id": "mkt:01a1c5b2-5c98-7bbc-ab88-5986c1f8688c",
+      "time": "2026-11-10 21:42:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US Secretary of State Rubio said President Trump has indicated there is currently no need for military action against Iran."
+    },
+    {
+      "id": "5206442",
+      "time": "2026-11-10 21:42:32",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國股指期貨跌幅擴大；標普500指數下跌0.8%。納斯達克100指數期貨下跌1.5%，至盤前低點。"
+    },
+    {
+      "id": "mkt:01a1c5b1-f92c-7bbc-ab88-51809eae97bc",
+      "time": "2026-11-10 21:42:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman Maritime Security Centre said it signed a memorandum of understanding with the Republic of Singapore Navy."
+    },
     {
       "id": "5206441",
       "time": "2026-11-10 21:41:06",
@@ -97153,129 +97302,6 @@
         "其他"
       ],
       "text": "穆迪評級將諾基亞的評級上調至Baa3，展望為正面。"
-    },
-    {
-      "id": "te:markets:597686",
-      "time": "2026-11-03 21:46:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Extends Losses to 3-Week Low — Crude oil fell more than 2% to below $95 a barrel on Tuesday, reaching a three-week low and extending the previous session’s 7.4% decline. Prices reversed earlier gains as President Donald Trump announced that Washington would end its financial support for Israel by year-end, following an agreement with Prime Minister Benjamin Netanyahu to discontinue the $4 billion aid programme. Trump said Israel no longer needed the assistance, although the US would remain willing to provide other forms of support. Also, US Energy Secretary Chris Wright said overnight attacks on Iran’s Qeshm Island had not affected oil flows, while indicating that additional refined products would be supplied from the Persian Gulf and India. Meanwhile, Iran signaled greater flexibility towards diplomacy, with President Masoud Pezeshkian saying Supreme Leader Mojtaba Khamenei had authorized discussions on issues previously considered non-negotiable."
-    },
-    {
-      "id": "5191202",
-      "time": "2026-11-03 21:46:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破3970美元/盎司，日內漲0.62%。"
-    },
-    {
-      "id": "5191201",
-      "time": "2026-11-03 21:46:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破3980美元/盎司，日內漲0.29%。"
-    },
-    {
-      "id": "5191200",
-      "time": "2026-11-03 21:46:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌5%，現報660.00元。"
-    },
-    {
-      "id": "5191199",
-      "time": "2026-11-03 21:45:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌2%，現報5117.00元。"
-    },
-    {
-      "id": "5191198",
-      "time": "2026-11-03 21:45:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守101美元/桶，日內跌3.67%。"
-    },
-    {
-      "id": "5191197",
-      "time": "2026-11-03 21:45:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌3%，現報3343.00元。"
-    },
-    {
-      "id": "5191196",
-      "time": "2026-11-03 21:45:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨在阿布扎比會談上表示：俄羅斯必須認真對待停火及後續和平協議。"
-    },
-    {
-      "id": "5191195",
-      "time": "2026-11-03 21:45:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油價格下跌，黃金收復失地。"
-    },
-    {
-      "id": "5191194",
-      "time": "2026-11-03 21:44:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西：充分釋放資源稟賦優勢 重點引進精深加工、創新型、高附加值等優質專案】廣西日報訊息，11月3日，廣西壯族自治區招商引資暨抓專案促投資工作推進會在南寧召開，自治區主席韋韜出席會議並講話。韋韜強調，要以製造業十大現代化支柱產業、向海經濟“葉脈式”產業佈局、人工智慧、現代特色農業和現代服務業為招商引資主攻方向，充分釋放資源稟賦優勢，重點引進精深加工、創新型、高附加值等優質專案，加快推動傳統產業轉型升級，不斷延鏈補鏈強鏈。要探索創新更多招商引資實操打法，突出“‘一把手’招商”，黨政主要負責同志要親自帶頭謀劃、洽談、服務專案，把資源力量向招商傾斜；堅持“長板招商”，因地制宜梳理比較優勢，建立長板清單，精準匹配企業；抓活“多元招商”，強化招引業務培訓，統籌推進場景招商、跨區域跨境產業鏈供應鏈招商、大資料招商；拓展“以商招商”，常態化實施“桂商興桂”工程，發揮好現有關鍵企業、鏈主企業引領整合和生態主導作用，依託金融機構、商協會、專業機構、科研院所等力量，積極擴大廣西招商“朋友圈”。"
-    },
-    {
-      "id": "5191193",
-      "time": "2026-11-03 21:43:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基尋求在阿布扎比討論能源休戰與糧食問題。"
-    },
-    {
-      "id": "5191192",
-      "time": "2026-11-03 21:43:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀河通用機器人與保利發展控股達成戰略合作】據銀河通用Galbot訊息，11月3日，保利發展控股與北京銀河通用機器人在廣州舉行戰略合作簽約儀式。雙方將推動具身智慧與住宅社群、商業空間及城市服務深度融合，共同探索具身智慧賦能未來城市建設與高品質生活的新路徑。"
-    },
-    {
-      "id": "5191191",
-      "time": "2026-11-03 21:42:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌4%，現報667.10元。"
-    },
-    {
-      "id": "5191190",
-      "time": "2026-11-03 21:42:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌6%，現報4713.00元。"
     }
   ]
 }

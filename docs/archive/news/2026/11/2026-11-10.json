@@ -1,7 +1,156 @@
 {
   "date": "2026-11-10",
-  "count": 1461,
+  "count": 1476,
   "items": [
+    {
+      "id": "mkt:01a1c5b5-50db-7bbc-ab88-9ce847400eff",
+      "time": "2026-11-10 21:45:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said the military is ready at any time, but for now we do not consider it necessary to do so."
+    },
+    {
+      "id": "mkt:01a1c5b5-2c77-7bbc-ab88-9346cb5f87fb",
+      "time": "2026-11-10 21:45:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said the U.S. will not agree to a bad Iran deal."
+    },
+    {
+      "id": "5206446",
+      "time": "2026-11-10 21:45:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "Esperion與Aurobindo就Nexletol和Nexlizet專利達成和解。"
+    },
+    {
+      "id": "mkt:01a1c5b5-0e83-7bbc-ab88-8f0ab26969ec",
+      "time": "2026-11-10 21:45:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Analyst: 50bp December hike option back on table】Analyst Ira Jersey said today's CPI print was broadly above expectations, reviving the possibility of a 50bp Fed hike in December flagged by Fed Governor Waller and prompting a rapid bear‑flattening move. Jersey expects the yield curve to continue flattening until the Fed stops hiking. If the Fed does raise 50bp in December, he sees a high probability of another hike in March next year."
+    },
+    {
+      "id": "mkt:01a1c5b4-cbe6-7bbc-ab88-83a7fa134cdc",
+      "time": "2026-11-10 21:45:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Iran is keen to reach a deal, but its current demands are extremely unreasonable and the two sides remain far from an agreement."
+    },
+    {
+      "id": "5206445",
+      "time": "2026-11-10 21:45:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本政府高官鼓吹應允許緊急情況下運進核武器】據日本共同社10日報道，日本政府高官談及修訂“安保三檔案”時表示，應允許在緊急情況下將核武器運進日本，作為“無核三原則”的例外情況，具體表述將由執政陣營協商。日本媒體本月5日報道稱，政府傾向於暫不直接修改“不擁有、不製造、不運進核武器”，而是以設定例外情況的方式允許緊急情況下運進核武器，主要參照前外務大臣岡田克也2010年3月的國會答辯。自民黨與維新會10日就修訂“安保三檔案”啟動實務磋商，後續磋商中“無核三原則”、核動力潛艇、新的防衛費目標等預計將成為主要議題。（新華社）"
+    },
+    {
+      "id": "5206444",
+      "time": "2026-11-10 21:44:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：如有可談協議，美國隨時準備與伊朗談判。"
+    },
+    {
+      "id": "mkt:01a1c5b4-4e37-7bbc-ab88-7eb4943286c2",
+      "time": "2026-11-10 21:44:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Secretary of State Rubio said the US stands ready at any time to negotiate with Iran if a negotiable agreement exists."
+    },
+    {
+      "id": "mkt:01a1c5b3-d222-7bbc-ab88-7799d8a2613c",
+      "time": "2026-11-10 21:44:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【CNBC: October inflation rings alarm for Fed's efforts to lower inflation】CNBC reported Tuesday that data from the U.S. Bureau of Labor Statistics (BLS) showed October U.S. consumer prices rose more than expected: headline CPI +0.4% MoM and core CPI +0.3% MoM, both above market forecasts and posing a renewed challenge to the Fed's disinflation push. The BLS did not publish YoY inflation because last year’s government shutdown prevented it from collecting sufficient October 2025 benchmark data for a year‑on‑year comparison."
+    },
+    {
+      "id": "5206443",
+      "time": "2026-11-10 21:44:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達盤前跌幅擴大至2%，此前曾一度上漲2%。"
+    },
+    {
+      "id": "mkt:01a1c5b3-8ed5-7bbc-ab88-6bfc1eea86f9",
+      "time": "2026-11-10 21:44:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Secretary of State Rubio says the situation in Iran is not a stalemate."
+    },
+    {
+      "id": "mkt:01a1c5b2-c899-7bbc-ab88-629f7c21a579",
+      "time": "2026-11-10 21:43:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100 futures fell 1.5% to hit premarket lows."
+    },
+    {
+      "id": "mkt:01a1c5b2-5c98-7bbc-ab88-5986c1f8688c",
+      "time": "2026-11-10 21:42:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US Secretary of State Rubio said President Trump has indicated there is currently no need for military action against Iran."
+    },
+    {
+      "id": "5206442",
+      "time": "2026-11-10 21:42:32",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國股指期貨跌幅擴大；標普500指數下跌0.8%。納斯達克100指數期貨下跌1.5%，至盤前低點。"
+    },
+    {
+      "id": "mkt:01a1c5b1-f92c-7bbc-ab88-51809eae97bc",
+      "time": "2026-11-10 21:42:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman Maritime Security Centre said it signed a memorandum of understanding with the Republic of Singapore Navy."
+    },
     {
       "id": "5206441",
       "time": "2026-11-10 21:41:06",
