@@ -1,7 +1,178 @@
 {
   "date": "2026-11-10",
-  "count": 1442,
+  "count": 1461,
   "items": [
+    {
+      "id": "5206441",
+      "time": "2026-11-10 21:41:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：目前伊朗似乎並不想現在達成協議。"
+    },
+    {
+      "id": "5206440",
+      "time": "2026-11-10 21:40:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "瑞穗證券美國高階經濟學家亞歷克斯·佩萊就今晨事件如何改變美聯儲的政策前景表示：“美聯儲10月未採取行動，現在可能需要進行一些補足。”他說，“12月會議的辯論很可能在25個基點與50個基點之間（而非0與25個基點之間）。”"
+    },
+    {
+      "id": "5206439",
+      "time": "2026-11-10 21:40:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cetus Maritime計劃進行私募配售並在泛歐交易所成長板上市。"
+    },
+    {
+      "id": "5206438",
+      "time": "2026-11-10 21:40:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【保加利亞宣佈11月11日為國家哀悼日 悼念連環車禍遇難者】當地時間11月10日，保加利亞政府宣佈11月11日為國家哀悼日，悼念在高速公路連環車禍中的遇難者。保加利亞東部揚博爾市附近高速公路上10日發生連環車禍，已經造成12人死亡，另有40餘人受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1c5b0-212e-7bbc-ab88-4f820be9df88",
+      "time": "2026-11-10 21:40:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Secretary of State Rubio said Iran does not appear willing to reach an agreement at this time."
+    },
+    {
+      "id": "5206437",
+      "time": "2026-11-10 21:40:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉美獨角獸企業Clara融資1.05億美元用於增長"
+    },
+    {
+      "id": "te:economy:600001",
+      "time": "2026-11-10 21:40:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "US Core CPI Annual Inflation Not Published — The annual change in US core CPI for October 2026 was not published alongside the November 10 release, following an earlier announcement by the Bureau of Labor Statistics (BLS) that it would not report 12-month percentage changes for indexes lacking October 2025 data. This follows the federal government shutdown, which disrupted the collection of CPI data for that month, preventing the calculation of annual core inflation rates. On a seasonally adjusted monthly basis, the core CPI rose by 0.3% for the third consecutive month in October, above market expectations of a 0.2% increase."
+    },
+    {
+      "id": "mkt:01a1c5af-f420-7bbc-ab88-46a5ac7e0e9a",
+      "time": "2026-11-10 21:40:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【US October inflation unexpectedly accelerates】US October CPI unexpectedly accelerated: headline CPI rose 0.4% MoM and core CPI (ex food and energy) rose 0.3% MoM. The Bureau of Labor Statistics did not publish a YoY inflation rate because data collection was disrupted during last year’s government shutdown. Two-year Treasury yields jumped after the release; the two-year is highly sensitive to shifts in Fed rate expectations. The print has pushed markets to price a higher probability of additional rate hikes next year."
+    },
+    {
+      "id": "mkt:01a1c5af-d0ae-7bbc-ab88-3fd5686848c2",
+      "time": "2026-11-10 21:39:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said Iran is enduring economic pain not seen before."
+    },
+    {
+      "id": "mkt:01a1c5af-5f2a-7bbc-ab88-338df5eccf23",
+      "time": "2026-11-10 21:39:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "US Secretary of State Rubio said the goal is to expand the trilateral talks on Ukraine to include European participation at some point in the future."
+    },
+    {
+      "id": "mkt:01a1c5af-542f-7bbc-ab88-2fdbe17faad6",
+      "time": "2026-11-10 21:39:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Morocco has suspended exports of certain fresh agricultural products to African countries, a Moroccan minister said."
+    },
+    {
+      "id": "mkt:01a1c5af-3bf7-7bbc-ab88-26969c5925f4",
+      "time": "2026-11-10 21:39:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "US Secretary of State Rubio said Europe should participate in Ukraine negotiations."
+    },
+    {
+      "id": "5206436",
+      "time": "2026-11-10 21:39:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧表示，烏克蘭問題談判應有歐洲參與。"
+    },
+    {
+      "id": "5206435",
+      "time": "2026-11-10 21:38:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩洛哥部長表示，該國已暫停部分生鮮農產品對非洲的出口。"
+    },
+    {
+      "id": "mkt:01a1c5ae-7c12-7bbc-ab88-1db13fb3112c",
+      "time": "2026-11-10 21:38:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said the US and Europe are aligned on objectives regarding Ukraine."
+    },
+    {
+      "id": "5206434",
+      "time": "2026-11-10 21:38:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬來西亞交通部長宣佈其辭職決定立即生效】馬來西亞交通部長陸兆福10日發表宣告，宣佈此前辭職決定立即生效。他稱，鑑於高等法院當天裁定允許涉SRC國際公司案的前總理納吉布以居家監禁方式服完剩餘刑期，根據他此前表明的立場，辭職決定立即生效。陸兆福9月19日曾以抗議納吉布獲有條件特赦、獲准居家服刑為由宣佈辭職，並向總理安瓦爾遞交辭呈，但安瓦爾要求其暫時留任。輿論認為，納吉布涉及的“一馬公司”醜聞是馬來西亞歷史上最嚴重的腐敗案件之一，特赦決定令民主行動黨難以接受。（新華社）"
+    },
+    {
+      "id": "mkt:01a1c5ae-4e32-7bbc-ab88-16984ff48607",
+      "time": "2026-11-10 21:38:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "IMAX.N",
+        "Impact bullish"
+      ],
+      "text": "IMAX (IMAX.N): Meta's VR headset will be the first device to receive IMAX Enhanced certification. The IMAX app will launch on the Meta headset in spring 2027."
+    },
+    {
+      "id": "5206433",
+      "time": "2026-11-10 21:38:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "萊昂納多DRS獲美國海軍航空系統司令部授予三年期不定期交付不定量合同，用於生產DAIRCM系統。"
+    },
     {
       "id": "5206432",
       "time": "2026-11-10 21:37:45",
@@ -106,6 +277,15 @@
         "Impact bearish"
       ],
       "text": "After the CPI release, markets further increased bets that the Fed will raise rates at least twice before mid-2027."
+    },
+    {
+      "id": "em:qqyh_mlc:202611103927583180",
+      "time": "2026-11-10 21:35:59",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "交易員提高對美聯儲下月加息0.5個百分點的押注。"
     },
     {
       "id": "5206428",
