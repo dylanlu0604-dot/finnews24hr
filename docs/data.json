@@ -1,7 +1,94 @@
 {
-  "updated": "2026-11-10 22:10:22",
+  "updated": "2026-11-10 22:14:24",
   "count": 10611,
   "items": [
+    {
+      "id": "mkt:01a1c5ce-a4ea-7bbc-ab89-a78097e48fe2",
+      "time": "2026-11-10 22:13:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Houthi forces said they attacked ARAMCO's facility in Abqaiq and Riyadh's financial center."
+    },
+    {
+      "id": "te:markets:600018",
+      "time": "2026-11-10 22:13:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Sterling Weakens as Hawkish Fed Signals Boost US Dollar — Sterling slipped back below the $1.34 level as hawkish remarks from Federal Reserve Governor Christopher Waller and stronger-than-expected US inflation data boosted demand for the US dollar. The decline follows a recent recovery in the pound, supported by easing concerns over AI and Middle East tensions, alongside falling oil prices, which weakened demand for the greenback and encouraged investors to move towards riskier assets. The dollar strengthened on Tuesday after Waller signaled the possibility of further interest rate increases and US consumer prices rose more than anticipated in October, reinforcing expectations of additional Federal Reserve monetary tightening in December. Meanwhile, investors are turning their attention to the UK's third-quarter GDP report, with third-quarter growth expected to reach 0.7%, driven by resilient services activity. Expectations of further Bank of England rate increases are providing some support to sterling, helping to limit its downside."
+    },
+    {
+      "id": "5206491",
+      "time": "2026-11-10 22:13:04",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "葉門胡塞武裝：襲擊了布蓋格的阿美石油設施和利雅得的金融中心。"
+    },
+    {
+      "id": "mkt:01a1c5cd-4370-7bbc-ab89-9f7863851594",
+      "time": "2026-11-10 22:12:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Houthi militants said they attacked a pumping station on Saudi Arabia's east–west oil pipeline and struck King Khalid International Airport in Riyadh."
+    },
+    {
+      "id": "5206490",
+      "time": "2026-11-10 22:12:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "葉門胡塞武裝稱襲擊了利雅得的哈立德國王國際機場。"
+    },
+    {
+      "id": "5206489",
+      "time": "2026-11-10 22:11:49",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "葉門胡塞武裝稱，他們襲擊了沙烏地阿拉伯東西輸油管道的石油泵站。"
+    },
+    {
+      "id": "5206488",
+      "time": "2026-11-10 22:10:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "樂天與AST SpaceMobile成立合資公司“Rakuten AST”，在日本建設手機直連衛星通訊網路。"
+    },
+    {
+      "id": "mkt:01a1c5cb-68cf-7bbc-ab89-9777c28b848f",
+      "time": "2026-11-10 22:10:04",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "ADNOC Logistics & Services said an attack occurred on Nov. 10 in the Arabian Gulf."
+    },
     {
       "id": "5206487",
       "time": "2026-11-10 22:09:36",
@@ -97514,81 +97601,6 @@
         "國際"
       ],
       "text": "波音公司：中東地區機隊規模的增長將推動商業航空服務領域實現 4750 億美元的投資。"
-    },
-    {
-      "id": "5191261",
-      "time": "2026-11-03 22:14:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【外交部副部長馬朝旭在二十國集團外長會第三階段會議上的發言】\n魯比奧國務卿，\n各位同事：\n\n當前地緣政治形勢複雜多變，產業鏈供應鏈碎片化加劇，威脅世界經濟增長復甦。各國的發展都離不開開放合作的國際環境。保護主義沒有贏家，搞築牆設壘、脫鉤斷鏈，只會擾亂全球產業鏈供應鏈穩定暢通，損害各方利益。二十國集團成員應堅持建設開放型世界經濟，以實際行動維護全球產業鏈供應鏈穩定暢通。中方提出四點建議：\n\n一是深化政策協調。二十國集團作為全球主要經濟體，以推動世界經濟實現強勁、可持續、平衡、包容增長為職責使命，關鍵是要形成政策和行動合力。各經濟體應採取負責任的宏觀經濟政策，同時加強政策溝通協調，防止負面外溢效應。以協調合作促進產供鏈穩定暢通，努力擴大全球總需求，共同培育壯大增長動能，推動普惠包容的經濟全球化。\n\n二是加強貿易暢通。要踐行真正的多邊主義，維護以世貿組織為核心的國際貿易體系，積極營造公平、開放、可預期的市場環境，促進貿易投資自由化便利化。要防止將經貿問題政治化、武器化、泛安全化，更不能以公平競爭為名，行保護主義之實。\n\n三是挖掘創新賦能。要深化技術創新和開放科學合作，推動創新鏈和產供鏈深度融合，以技術進步促進產業發展。要充分發揮人工智慧等前沿領域創新潛力，加快產業數字化、智慧化水平，推動生產方式變革。要秉持以人為本、向上向善理念，讓人工智慧成為促進共同繁榮、維護共同安全的重要動力源，攜手構建公正合理的全球人工智慧治理體系。\n\n四是推動普惠發展。要加強基礎設施建設和互聯互通水平，積極維護全球能源市場開放聯通和平穩執行。加強關鍵礦產互惠合作與和平利用，特別是要保障發展中國家在全球價值鏈中公平受益。中方期待同各方共同構建開放包容、公平合理、合作共贏、綠色清潔的全球關鍵礦產治理體系。\n\n各位同事，\n\n中方堅持推進高水平對外開放。今年前三季度，中國貨物貿易進口額同比增長22.3%，月度增速連續6個月保持兩位數增長。在世界經濟低速增長的大背景下，這是中國為世界供應鏈穩定暢通作出的突出貢獻。\n\n中國始終基於市場化原則和世貿組織規則開展國際貿易，將繼續有效發揮完整產業鏈體系、超大規模市場等優勢，以實際行動維護全球產業鏈供應鏈穩定暢通，繼續做全球產供鏈合作的維護者和建設者。\n\n謝謝。（外交部）"
-    },
-    {
-      "id": "5191260",
-      "time": "2026-11-03 22:13:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "波音公司：2045年，中東地區約85%的機隊將由未來20年內交付的現代化、節能型飛機組成。"
-    },
-    {
-      "id": "5191259",
-      "time": "2026-11-03 22:12:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）首次批准針對美國個股的永續期貨交易。"
-    },
-    {
-      "id": "5191258",
-      "time": "2026-11-03 22:12:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "波音公司：2026 年商業市場展望顯示，未來二十年，中東地區航空公司預計將接收近 3000 架新飛機。"
-    },
-    {
-      "id": "5191257",
-      "time": "2026-11-03 22:12:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta尋求在債券發行的美元部分籌集150億美元。"
-    },
-    {
-      "id": "5191256",
-      "time": "2026-11-03 22:10:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "波音公司：根據該公司釋出的《2026年商業市場展望》，儘管面臨不利因素，預計中東地區客運量將以每年4.3%的速度增長。"
-    },
-    {
-      "id": "te:markets:597698",
-      "time": "2026-11-03 22:10:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Treasury Yield Edges Higher Ahead of Midterm Election Results — The US 10-year Treasury yield rose to 4.94% on Tuesday as investors positioned for potential short-term volatility surrounding the US midterm elections. Initial results are expected once polling stations close, with attention focused on whether Democrats can gain control of both chambers of Congress. While a Democratic sweep remains a possibility, the outcome is far from certain. A divided government could reassure bond investors by limiting further fiscal expansion, although it would do little to address the underlying budget deficit. On the fiscal front, the US Treasury lowered its Q4 borrowing estimate by $10 billion to $618 billion, reflecting a higher-than-expected opening cash balance. However, excluding this additional cash cushion, borrowing needs are actually $24 billion higher than previously projected. Elsewhere, oil prices extended Monday’s sharp decline after President Donald Trump said Washington would end its $4 billion aid programme to Israel by year-end."
-    },
-    {
-      "id": "5191255",
-      "time": "2026-11-03 22:10:42",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "兩會"
-      ],
-      "text": "【十四屆全國人大常委會第二十五次會議舉行第二次全體會議 審議全國人大常委會執法檢查報告、“一府兩院”專項工作報告等 趙樂際出席會議】十四屆全國人大常委會第二十五次會議3日上午在北京人民大會堂舉行第二次全體會議。趙樂際委員長出席。（新華社）"
     }
   ]
 }

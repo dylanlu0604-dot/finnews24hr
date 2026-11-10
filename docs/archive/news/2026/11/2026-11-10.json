@@ -1,7 +1,94 @@
 {
   "date": "2026-11-10",
-  "count": 1553,
+  "count": 1561,
   "items": [
+    {
+      "id": "mkt:01a1c5ce-a4ea-7bbc-ab89-a78097e48fe2",
+      "time": "2026-11-10 22:13:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Houthi forces said they attacked ARAMCO's facility in Abqaiq and Riyadh's financial center."
+    },
+    {
+      "id": "te:markets:600018",
+      "time": "2026-11-10 22:13:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Sterling Weakens as Hawkish Fed Signals Boost US Dollar — Sterling slipped back below the $1.34 level as hawkish remarks from Federal Reserve Governor Christopher Waller and stronger-than-expected US inflation data boosted demand for the US dollar. The decline follows a recent recovery in the pound, supported by easing concerns over AI and Middle East tensions, alongside falling oil prices, which weakened demand for the greenback and encouraged investors to move towards riskier assets. The dollar strengthened on Tuesday after Waller signaled the possibility of further interest rate increases and US consumer prices rose more than anticipated in October, reinforcing expectations of additional Federal Reserve monetary tightening in December. Meanwhile, investors are turning their attention to the UK's third-quarter GDP report, with third-quarter growth expected to reach 0.7%, driven by resilient services activity. Expectations of further Bank of England rate increases are providing some support to sterling, helping to limit its downside."
+    },
+    {
+      "id": "5206491",
+      "time": "2026-11-10 22:13:04",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "葉門胡塞武裝：襲擊了布蓋格的阿美石油設施和利雅得的金融中心。"
+    },
+    {
+      "id": "mkt:01a1c5cd-4370-7bbc-ab89-9f7863851594",
+      "time": "2026-11-10 22:12:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Houthi militants said they attacked a pumping station on Saudi Arabia's east–west oil pipeline and struck King Khalid International Airport in Riyadh."
+    },
+    {
+      "id": "5206490",
+      "time": "2026-11-10 22:12:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "葉門胡塞武裝稱襲擊了利雅得的哈立德國王國際機場。"
+    },
+    {
+      "id": "5206489",
+      "time": "2026-11-10 22:11:49",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "葉門胡塞武裝稱，他們襲擊了沙烏地阿拉伯東西輸油管道的石油泵站。"
+    },
+    {
+      "id": "5206488",
+      "time": "2026-11-10 22:10:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "樂天與AST SpaceMobile成立合資公司“Rakuten AST”，在日本建設手機直連衛星通訊網路。"
+    },
+    {
+      "id": "mkt:01a1c5cb-68cf-7bbc-ab89-9777c28b848f",
+      "time": "2026-11-10 22:10:04",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "ADNOC Logistics & Services said an attack occurred on Nov. 10 in the Arabian Gulf."
+    },
     {
       "id": "5206487",
       "time": "2026-11-10 22:09:36",
