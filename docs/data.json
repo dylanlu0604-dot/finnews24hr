@@ -1,7 +1,76 @@
 {
-  "updated": "2026-11-10 13:49:19",
-  "count": 10768,
+  "updated": "2026-11-10 13:53:31",
+  "count": 10774,
   "items": [
+    {
+      "id": "mkt:01a1c403-271c-7ee0-aaec-61ab9a1d19e1",
+      "time": "2026-11-10 13:51:43",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact mixed",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Economist: Australian inflation could cool faster than expected】Stagnant consumer and business confidence, and falling global oil prices, could see Australian inflation cool faster than expected, data that may be welcomed by the RBA. Wage growth slowed to 3.1% in October from 3.5% in August, the slowest since December, Commonwealth Bank said. Economist Harry Ottley said the monthly slowdown in wages shows no sign that elevated inflation expectations have become embedded in pay."
+    },
+    {
+      "id": "5205320",
+      "time": "2026-11-10 13:51:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東成立乾源科技公司，含AI及機器人業務】企查查APP顯示，近日，無錫京東乾源科技有限公司成立，經營範圍包含：智慧機器人的研發；特殊作業機器人制造；工業機器人銷售；智慧機器人銷售；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由西安京東信成資訊科技有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a1c401-7a19-7ee0-aaec-5f1070d048de",
+      "time": "2026-11-10 13:49:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan",
+        "3690.HK"
+      ],
+      "text": "【Meituan open-sources LongCat-2.5: 1.6 tln parameters, supports one‑million‑token context】Meituan has open-sourced LongCat-2.5 under an MIT license, permitting commercial inference deployment and further training without additional authorization. LongCat-2.5 is a native multimodal model for long-range agent tasks, with improved end-to-end performance in complex codebase development, full project builds, visual coding and professional office workflows. The model totals 1.6 tln parameters, with per-token activation of ~48 bln parameters, and supports a one‑million‑token context. Meituan says the model architecture, chip adaptation and deployment strategies were co-optimized for domestic compute chips with constrained VRAM and bandwidth."
+    },
+    {
+      "id": "5205319",
+      "time": "2026-11-10 13:49:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團LongCat-2.5模型開源：總引數1.6萬億，支援一百萬上下文】美團正式開源 LongCat-2.5，採用MIT協議，支援商用推理部署與二次訓練，無需額外授權。LongCat-2.5是面向長程智慧體任務的原生多模態模型，在複雜程式碼庫開發、完整專案構建、Visual Coding與專業辦公場景中，端到端交付能力均有明顯提升。模型總引數1.6萬億，每個token啟用約480億引數，支援一百萬上下文。針對視訊記憶體與頻寬受限的國產算力晶片，在模型架構、晶片適配與部署策略上也進行了深度協同最佳化。（美團Meituan）"
+    },
+    {
+      "id": "mkt:01a1c401-5614-7ee0-aaec-51b2ba447cb4",
+      "time": "2026-11-10 13:49:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine media reported on the 10th that a private aircraft carrying six foreign nationals crashed in Mindanao that morning, Xinhua said."
+    },
+    {
+      "id": "5205318",
+      "time": "2026-11-10 13:49:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【商務部公佈對原產於歐盟、日本的進口乙叉降冰片烯發起反傾銷立案調查】商務部公告2026年第56號，自2026年11月6日起對原產於歐盟和日本的進口乙叉降冰片烯發起反傾銷立案調查。調查期為2025年7月1日至2026年6月30日，產業損害調查期為2023年1月1日至2026年6月30日。利害關係方應在公告發布之日起20天內登記參加調查並提交答卷，調查通常應在2027年11月6日前結束，特殊情況下可延長6個月。（商務部）"
+    },
+    {
+      "id": "te:markets:599849",
+      "time": "2026-11-10 13:49:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Soars 1.1% to Finish at Over 2-Month Peak — The ASX 200 surged 99 points, or 1.1%, to end at 9,129 on Tuesday, marking its second session of gains and the highest close in over two months. Stronger Dow and S&P 500 futures buoyed sentiment as traders bought the tech dip, while oil prices fell further after U.S. President Trump signaled that further military strikes on Iran were unlikely. Meanwhile, China's Jan–Sep trade surplus topped USD 1 trillion, helped by a solid September surplus. However, gains were capped by fresh data showing weaker Australian consumer and business mood amid elevated cost pressures and higher rates. All sectors rose, led by industrials, tech, and logistics. BHP Group rose 1.4%, while Rio Tinto added 0.4%. Gold miners Northern Star Resources and Evolution Mining gained 3.0% and 2.1%, respectively, on hopes that lower energy costs would ease inflationary and interest-rate pressures. Qantas Airways soared 6.3% on bets of lower fuel costs. Monadelphous Group jumped 15.3% after securing major new contracts."
+    },
     {
       "id": "5205317",
       "time": "2026-11-10 13:48:02",
@@ -98759,15 +98828,6 @@
         "市場"
       ],
       "text": "【主力資金：轉融券標的板塊淨流出超371億】截至目前，今日主力資金淨流出398.25億；淨流入電力裝置、新能源、茅指數等板塊，其中電力裝置板塊淨流入36.05億；淨流出轉融券標的、融資融券、晶片概念等板塊，其中轉融券標的板塊淨流出371.58億。\n  \n個股方面，寧德時代淨買入11.42億元位居首位，陽光電源、N皇冠、貴州茅臺主力資金淨流入居前；長鑫科技淨賣出20.16億元位居首位，中際旭創、寒武紀、天孚通訊淨流出額居前。"
-    },
-    {
-      "id": "em:qqyh_ozlc:202611033920096031",
-      "time": "2026-11-03 13:49:54",
-      "tags": [
-        "央行",
-        "澳洲聯儲"
-      ],
-      "text": "【澳大利亞央行基準利率升至18年新高】澳大利亞儲備銀行（央行）3日宣佈今年第五次加息，將基準利率上調25個基點至4.85%，該利率已升至2008年11月以來最高水平。"
     }
   ]
 }
