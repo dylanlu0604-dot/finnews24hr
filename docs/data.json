@@ -1,7 +1,112 @@
 {
-  "updated": "2026-11-10 08:04:40",
-  "count": 10606,
+  "updated": "2026-11-10 08:08:28",
+  "count": 10612,
   "items": [
+    {
+      "id": "te:markets:599746",
+      "time": "2026-11-10 08:07:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Steady Ahead of CPI Report — US stock futures held steady on Tuesday as investors awaited the October Consumer Price Index report, with both headline and core inflation expected to ease amid stabilizing energy prices. Market participants are also looking to neocloud company CoreWeave’s earnings release for further signals on the artificial intelligence sector. During Monday’s regular session, the Dow rose 2.15%, the S&P 500 advanced gained 2.35%, and the Nasdaq Composite climbed 2.74%. Semiconductor shares rebounded following last week’s sharp selloff, which came after Democrats gained control of Congress, raising concerns over tighter AI oversight and a potential slowdown in data center expansion. Meanwhile, Nvidia shares fell more than 4% after CEO Jensen Huang acknowledged an alleged affair with a suspected Chinese spy, fueling concerns that Congress could impose stricter export restrictions on the company’s chips."
+    },
+    {
+      "id": "mkt:01a1c2c7-7849-7ee0-aae5-e172b6994810",
+      "time": "2026-11-10 08:06:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 index rose above 60,000 points, up 2.39% intraday."
+    },
+    {
+      "id": "5204389",
+      "time": "2026-11-10 08:06:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所對KOSPI指數啟動程式化交易暫停機制，暫停程式化買盤。"
+    },
+    {
+      "id": "5204388",
+      "time": "2026-11-10 08:06:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲2.4%，至60171.90。"
+    },
+    {
+      "id": "mkt:01a1c2c7-3cb4-7ee0-aae5-da4f362da11e",
+      "time": "2026-11-10 08:06:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange activated a program-trading pause on the KOSPI index, suspending program buy orders."
+    },
+    {
+      "id": "5204387",
+      "time": "2026-11-10 08:06:28",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "日本菸草公司股價擴大漲幅，最新上漲5.33%。"
+    },
+    {
+      "id": "mkt:01a1c2c6-d4e7-7ee0-aae5-d02c85b714a6",
+      "time": "2026-11-10 08:06:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI rose 5.00% intraday to 5,274.97 points."
+    },
+    {
+      "id": "mkt:01a1c2c6-bcd6-7ee0-aae5-cf6837e5d261",
+      "time": "2026-11-10 08:06:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China finance deputy minister Liao Min and Canada assistant deputy minister Patrick Haily sign fiscal cooperation MOU】On Nov. 8, 2026, during the second China-Canada economic and financial strategic dialogue in Vancouver, Ministry of Finance Deputy Minister Liao Min and Patrick Haily, Assistant Deputy Minister for International Trade and Finance at Canada’s Department of Finance, signed a memorandum of understanding on fiscal cooperation between the two finance ministries."
+    },
+    {
+      "id": "5204386",
+      "time": "2026-11-10 08:05:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【廖岷副部長與加拿大財政部國際貿易與金融助理副部長帕特里克·海利共同簽署財政合作諒解備忘錄】2026年11月8日，在第二次中加經濟財金戰略對話期間，財政部副部長廖岷與加拿大財政部國際貿易與金融助理副部長帕特里克·海利在加拿大溫哥華共同簽署《中華人民共和國財政部與加拿大財政部合作諒解備忘錄》。"
+    },
+    {
+      "id": "5204385",
+      "time": "2026-11-10 08:05:37",
+      "tags": [
+        "央行",
+        "宏觀",
+        "公司"
+      ],
+      "text": "【第二次中加經濟財金戰略對話聯合情況說明】當地時間2026年11月8日至9日，中國國務院副總理何立峰與加拿大財政部部長商鵬飛、國際貿易部長西杜在加拿大溫哥華共同主持了第二次中加經濟財金戰略對話。本次對話落實兩國領導人2026年1月達成的共識，取得了一系列互利共贏的成果，將加強雙邊經濟財金合作，推進構建中加新型戰略伙伴關係。  雙方就全球經濟前景以及兩國各自宏觀經濟形勢和政策交換了意見，同意加強在二十國集團和亞太經合組織等多邊機制，多邊開發銀行等國際金融機構框架下的合作，完善全球經濟治理。雙方重申維護多邊主義，支援營造透明、可預期的貿易和投資環境。  雙方同意深化金融服務業市場準入等金融部門合作，並促進資本市場和金融監管機構之間的交流。兩國財政部門、金融監管部門和央行分別簽署了中加財政合作諒解備忘錄、金融監管對話的合作協議和金融工作組工作規程。雙方歡迎落實雙邊本幣互換安排。雙方歡迎近期中加經貿磋商取得的積極進展。  雙方期待在中國舉行下一次對話。"
+    },
+    {
+      "id": "5204384",
+      "time": "2026-11-10 08:04:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【登臨科技和芯德半導體週二將登陸港交所】兩家晶片公司登臨科技和芯德半導體週二將登陸港交所。GPU研發公司登臨科技以每股231港元的價格發行了610萬股股票，融資14.1億港元，發行價處於價格區間的下限。半導體封裝測試公司芯德半導體以每股8.88港元發行1.066億股股票，融資9.46億港元，發行價同樣低於價格區間的上限。 這兩隻新股的首日表現將成為香港新股市場的重要風向標。"
+    },
     {
       "id": "5204383",
       "time": "2026-11-10 08:03:21",
@@ -153,6 +258,15 @@
         "Impact bullish"
       ],
       "text": "Japan's Nikkei 225 breached 59,000 points, rising 0.91% on the day."
+    },
+    {
+      "id": "em:qqyh_rbyh:202611103926854621",
+      "time": "2026-11-10 08:00:33",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行委員：潛在通脹率已達到2%】日本央行10月會議意見摘要顯示，一位委員表示，潛在通脹率已達到2%，日本央行需儘快將政策利率調整至中性水平。"
     },
     {
       "id": "5204376",
@@ -97201,59 +97315,6 @@
         "其他"
       ],
       "text": "【寬基火爆！昨日寬基ETF資金淨流入508億元】同花順iFinD資料顯示，2026年11月2日，ETF資金整體淨流入133.07億元，股票型淨流入446.90億元，寬基型淨流入508.21億元。當日ETF資金淨流入榜單排名前3依次為：華泰柏瑞滬深300ETF（510300）淨流入103.61億元，南方中證1000ETF（512100）淨流入71.46億元，華夏上證科創板50成份ETF（588000）淨流入69.19億元。"
-    },
-    {
-      "id": "5188460",
-      "time": "2026-11-03 08:08:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【斯諾克國際錦標賽16強出爐，趙心童、丁俊暉等今日出戰】11月3日，世界斯諾克巡迴賽官方公佈了2026斯諾克國際錦標賽16強以及今日賽程安排。上半區：斯蒂芬·馬奎爾vs丁俊暉，奧利弗·萊恩斯vs凱倫·威爾遜，範爭一vs利亞姆·戴維斯，斯佳輝vs侯賽因·瓦菲；下半區：王信伯vs傅家俊，馬克·威廉姆斯vs約翰·希金斯，袁思俊vs常冰玉，亞倫·希爾vs趙心童。"
-    },
-    {
-      "id": "5188459",
-      "time": "2026-11-03 08:08:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：建議把握當下的轉債配置視窗 依據價格中樞的波動逐步增配】中信建投研報稱，展望11月，雖然短期內權益資產的波動率存在放大的不確定性，但目前價格中位數125元的轉債資產已經初步具備了配置價值。未來一段時間內轉債資產的供需持續錯配，歷史估值的錨定效應有限，建議更多從絕對收益角度評估轉債資產的投資價值，根據資產的配置價值逐步調整風險敞口，適度淡化對於權益資產短期走勢的預測。因此建議把握當下的轉債配置視窗，依據價格中樞的波動逐步增配，優先關注雙低策略或類指數策略，對行業進行均衡配置。"
-    },
-    {
-      "id": "5188458",
-      "time": "2026-11-03 08:07:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國國防預算或將猛增8.2% 韓國要用AI推動軍隊轉型】綜合韓聯社、《韓國經濟》2日報道，韓國總統李在明當天在國會就2027年度預算案發表施政演說。該預算案總額約821萬億韓元（1000韓元約合5元人民幣），創歷史新高，其中國防預算擬同比增加8.2%，首次突破70萬億韓元。 李在明表示，韓國將以自主防衛為目標，加強核心裝備建設，並運用人工智慧（AI）、機器人和無人機等技術，加快向智慧化精銳軍隊轉型。據《京鄉新聞》報道，核動力潛艇設計、研究等初期工作首次獲撥1000億韓元；KF-21戰鬥機量產預算由今年的1.4萬億韓元增至3.3萬億韓元；有人與無人協同作戰體系建設預算由8000億韓元增至1.2萬億韓元。 韓媒分析認為，李在明提出增加國防投入意在回應有關安全形勢的擔憂，並表明加快戰時作戰指揮權移交準備的決心。（環球時報）"
-    },
-    {
-      "id": "5188457",
-      "time": "2026-11-03 08:05:57",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數跌幅擴大至3.1%。 SK海力士領跌晶片股，SK海力士股價早盤下跌4.5%，報1,406,000韓元；三星電子股價早盤下跌4.2%，報219,500韓元。"
-    },
-    {
-      "id": "te:markets:597439",
-      "time": "2026-11-03 08:05:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Gain Slightly Ahead of Midterms — US stock futures edged higher on Tuesday as American voters headed to the polls for the midterm elections, with the Trump administration and Republican Party facing mounting political pressure over elevated energy prices. On the corporate front, Apple shares dropped nearly 3% in after-hours trading following slower sales growth and weaker-than-expected fourth-quarter revenue guidance. Palantir also declined almost 3% despite reporting stronger-than-anticipated Q3 earnings. Meanwhile, Anthropic reported a twelvefold increase in quarterly revenue and outlined plans to invest more than $895 billion over the coming years. Investors are now turning their attention to a series of earnings releases due Tuesday from major companies, including AMD, SMCI, Pfizer, Shopify and Booking Holdings. In Monday's regular session, the Dow gained 0.41%, while the S&P 500 and Nasdaq Composite fell 0.51% and 1.07%, respectively, as losses across semiconductor stocks intensified."
-    },
-    {
-      "id": "5188456",
-      "time": "2026-11-03 08:04:53",
-      "tags": [
-        "觀點"
-      ],
-      "text": "HSBC：恢復跟蹤中際旭創A股，評級買進，目標價727元人民幣。"
     }
   ]
 }

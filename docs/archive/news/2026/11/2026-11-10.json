@@ -1,7 +1,112 @@
 {
   "date": "2026-11-10",
-  "count": 430,
+  "count": 442,
   "items": [
+    {
+      "id": "te:markets:599746",
+      "time": "2026-11-10 08:07:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Steady Ahead of CPI Report — US stock futures held steady on Tuesday as investors awaited the October Consumer Price Index report, with both headline and core inflation expected to ease amid stabilizing energy prices. Market participants are also looking to neocloud company CoreWeave’s earnings release for further signals on the artificial intelligence sector. During Monday’s regular session, the Dow rose 2.15%, the S&P 500 advanced gained 2.35%, and the Nasdaq Composite climbed 2.74%. Semiconductor shares rebounded following last week’s sharp selloff, which came after Democrats gained control of Congress, raising concerns over tighter AI oversight and a potential slowdown in data center expansion. Meanwhile, Nvidia shares fell more than 4% after CEO Jensen Huang acknowledged an alleged affair with a suspected Chinese spy, fueling concerns that Congress could impose stricter export restrictions on the company’s chips."
+    },
+    {
+      "id": "mkt:01a1c2c7-7849-7ee0-aae5-e172b6994810",
+      "time": "2026-11-10 08:06:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 index rose above 60,000 points, up 2.39% intraday."
+    },
+    {
+      "id": "5204389",
+      "time": "2026-11-10 08:06:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所對KOSPI指數啟動程式化交易暫停機制，暫停程式化買盤。"
+    },
+    {
+      "id": "5204388",
+      "time": "2026-11-10 08:06:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲2.4%，至60171.90。"
+    },
+    {
+      "id": "mkt:01a1c2c7-3cb4-7ee0-aae5-da4f362da11e",
+      "time": "2026-11-10 08:06:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange activated a program-trading pause on the KOSPI index, suspending program buy orders."
+    },
+    {
+      "id": "5204387",
+      "time": "2026-11-10 08:06:28",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "日本菸草公司股價擴大漲幅，最新上漲5.33%。"
+    },
+    {
+      "id": "mkt:01a1c2c6-d4e7-7ee0-aae5-d02c85b714a6",
+      "time": "2026-11-10 08:06:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI rose 5.00% intraday to 5,274.97 points."
+    },
+    {
+      "id": "mkt:01a1c2c6-bcd6-7ee0-aae5-cf6837e5d261",
+      "time": "2026-11-10 08:06:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China finance deputy minister Liao Min and Canada assistant deputy minister Patrick Haily sign fiscal cooperation MOU】On Nov. 8, 2026, during the second China-Canada economic and financial strategic dialogue in Vancouver, Ministry of Finance Deputy Minister Liao Min and Patrick Haily, Assistant Deputy Minister for International Trade and Finance at Canada’s Department of Finance, signed a memorandum of understanding on fiscal cooperation between the two finance ministries."
+    },
+    {
+      "id": "5204386",
+      "time": "2026-11-10 08:05:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【廖岷副部長與加拿大財政部國際貿易與金融助理副部長帕特里克·海利共同簽署財政合作諒解備忘錄】2026年11月8日，在第二次中加經濟財金戰略對話期間，財政部副部長廖岷與加拿大財政部國際貿易與金融助理副部長帕特里克·海利在加拿大溫哥華共同簽署《中華人民共和國財政部與加拿大財政部合作諒解備忘錄》。"
+    },
+    {
+      "id": "5204385",
+      "time": "2026-11-10 08:05:37",
+      "tags": [
+        "央行",
+        "宏觀",
+        "公司"
+      ],
+      "text": "【第二次中加經濟財金戰略對話聯合情況說明】當地時間2026年11月8日至9日，中國國務院副總理何立峰與加拿大財政部部長商鵬飛、國際貿易部長西杜在加拿大溫哥華共同主持了第二次中加經濟財金戰略對話。本次對話落實兩國領導人2026年1月達成的共識，取得了一系列互利共贏的成果，將加強雙邊經濟財金合作，推進構建中加新型戰略伙伴關係。  雙方就全球經濟前景以及兩國各自宏觀經濟形勢和政策交換了意見，同意加強在二十國集團和亞太經合組織等多邊機制，多邊開發銀行等國際金融機構框架下的合作，完善全球經濟治理。雙方重申維護多邊主義，支援營造透明、可預期的貿易和投資環境。  雙方同意深化金融服務業市場準入等金融部門合作，並促進資本市場和金融監管機構之間的交流。兩國財政部門、金融監管部門和央行分別簽署了中加財政合作諒解備忘錄、金融監管對話的合作協議和金融工作組工作規程。雙方歡迎落實雙邊本幣互換安排。雙方歡迎近期中加經貿磋商取得的積極進展。  雙方期待在中國舉行下一次對話。"
+    },
+    {
+      "id": "5204384",
+      "time": "2026-11-10 08:04:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【登臨科技和芯德半導體週二將登陸港交所】兩家晶片公司登臨科技和芯德半導體週二將登陸港交所。GPU研發公司登臨科技以每股231港元的價格發行了610萬股股票，融資14.1億港元，發行價處於價格區間的下限。半導體封裝測試公司芯德半導體以每股8.88港元發行1.066億股股票，融資9.46億港元，發行價同樣低於價格區間的上限。 這兩隻新股的首日表現將成為香港新股市場的重要風向標。"
+    },
     {
       "id": "5204383",
       "time": "2026-11-10 08:03:21",
@@ -153,6 +258,15 @@
         "國際"
       ],
       "text": "韓國綜合股價指數（KOSPI）開盤上漲4.6%，至5247.22點。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202611103926854621",
+      "time": "2026-11-10 08:00:33",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行委員：潛在通脹率已達到2%】日本央行10月會議意見摘要顯示，一位委員表示，潛在通脹率已達到2%，日本央行需儘快將政策利率調整至中性水平。"
     },
     {
       "id": "5204376",
