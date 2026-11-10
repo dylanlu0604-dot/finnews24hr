@@ -1,7 +1,106 @@
 {
   "date": "2026-11-10",
-  "count": 1366,
+  "count": 1376,
   "items": [
+    {
+      "id": "5206396",
+      "time": "2026-11-10 21:29:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "埃及央行：1月至9月工人匯款達382億美元。"
+    },
+    {
+      "id": "5206395",
+      "time": "2026-11-10 21:29:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：RING宣佈成立RING ROBOTICS，開啟安全防護新紀元。"
+    },
+    {
+      "id": "5206394",
+      "time": "2026-11-10 21:29:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國算力總規模已達到310萬PFLOPS 位居世界第二】記者從國家資料局瞭解到，今天，全國資料標準化技術委員會2026年第二次“標準周”活動在福建廈門舉行。據相關負責人介紹，全國資料標準化技術委員會此次正式成立具身智慧資料標準起草工作組及氣象、衛生健康、電力、商務等4個行業應用標準起草工作組，加快推進“十五五”期間資料領域相關標準制定，賦能行業產業數字化發展。最新資料顯示，我國算力總規模已達到310萬PFLOPS，位居世界第二。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1c5a5-f8b6-7bbc-ab87-4bb99e6c0952",
+      "time": "2026-11-10 21:29:10",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli said France and some other European countries face particularly challenging debt trajectories."
+    },
+    {
+      "id": "5206393",
+      "time": "2026-11-10 21:29:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "英國央行隆巴爾代利：法國等一些歐洲國家的債務軌跡確實令人擔憂。"
+    },
+    {
+      "id": "mkt:01a1c5a5-86a0-7bbc-ab87-460586f26090",
+      "time": "2026-11-10 21:28:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: U.S. pump prices lag crude oil moves】Analyst Gregory Schmidt said crude has fallen sharply; Brent slipped below $90 a barrel on Tuesday, the first time since August. Iran-related tensions had elevated fuel costs, but growing market expectations of progress in U.S.-Iran talks have started to erode the geopolitical risk premium priced into oil over the past weeks. Schmidt cautioned the reduction in that premium will take time to filter through to U.S. retail gasoline prices, which typically lag crude moves."
+    },
+    {
+      "id": "mkt:01a1c5a4-8e99-7bbc-ab87-3cd1b7547617",
+      "time": "2026-11-10 21:27:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【U.S. defense secretary Hegseth says he would again go to war with Iran if faced with the choice】U.S. Defense Secretary Hegseth told a press conference he agrees with President Trump and, if faced with the choice again, would again wage war against Iran. He thanked Trump for his support, said the U.S. can monitor Iran’s nuclear facilities and act if necessary, and described the blockade of Iran as \"rock solid.\""
+    },
+    {
+      "id": "5206392",
+      "time": "2026-11-10 21:27:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【新華社釋出“共建‘一帶一路’”主題智庫報告】10日，新華社國家高階智庫在陝西西安舉辦的2026年“一帶一路”國際智庫合作論壇暨第四屆絲綢之路（西安）國際傳播大會上，釋出中英文智庫報告《共建“一帶一路”推動建設開放型世界經濟》。報告全面展示了共建“一帶一路”推動建設開放型世界經濟的生動實踐，深入剖析了當前經濟全球化面臨的嚴峻挑戰，闡釋了共建“一帶一路”順應歷史潮流、開闢世界經濟廣闊前景的時代意義。(新華社)"
+    },
+    {
+      "id": "5206391",
+      "time": "2026-11-10 21:26:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "Rackspace目標在AMD和英偉達部署業務上實現4.2億至4.6億美元的年收入。"
+    },
+    {
+      "id": "mkt:01a1c5a3-0bd1-7bbc-ab87-32250cfe05b5",
+      "time": "2026-11-10 21:25:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US Defense Secretary Hegseth said he agrees with President Trump that, if given the choice again, he would again launch a war against Iran."
+    },
     {
       "id": "mkt:01a1c5a2-d344-7bbc-ab87-2f2fab6b91d7",
       "time": "2026-11-10 21:25:44",
