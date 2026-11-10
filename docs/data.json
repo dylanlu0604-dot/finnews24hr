@@ -1,7 +1,94 @@
 {
-  "updated": "2026-11-10 22:06:26",
-  "count": 10609,
+  "updated": "2026-11-10 22:10:22",
+  "count": 10611,
   "items": [
+    {
+      "id": "5206487",
+      "time": "2026-11-10 22:09:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司：襲擊於11月10日在阿拉伯灣發生。"
+    },
+    {
+      "id": "5206486",
+      "time": "2026-11-10 22:09:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "Venture Global執行長邁克·薩貝爾表示，公司預計將在年底前與優質客戶簽署更多長期液化天然氣購銷合同。"
+    },
+    {
+      "id": "mkt:01a1c5ca-b70e-7bbc-ab89-8a9caee54765",
+      "time": "2026-11-10 22:09:18",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【US gasoline price surge eases in October; food inflation rises】The Washington Post reports US monthly inflation cooled in October as gasoline's rapid year-to-date rise moderated. Gasoline prices rose 1.0% MoM in October, down from a 9.1% MoM gain in September, while food prices recorded their largest monthly increase since April."
+    },
+    {
+      "id": "5206485",
+      "time": "2026-11-10 22:08:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司物流船隻遭襲後受損。"
+    },
+    {
+      "id": "5206484",
+      "time": "2026-11-10 22:08:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利總理梅洛尼就可能在Banco BPM與法國農業信貸銀行義大利分支合併交易中動用“黃金權力”一事表示：未來幾周內見分曉。"
+    },
+    {
+      "id": "5206483",
+      "time": "2026-11-10 22:08:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總統在議會開幕式上發表講話。"
+    },
+    {
+      "id": "mkt:01a1c5c9-93fb-7bbc-ab89-812858cfc64b",
+      "time": "2026-11-10 22:08:04",
+      "tags": [
+        "MKT News",
+        "ONON.O",
+        "Impact bearish"
+      ],
+      "text": "U.S.-listed On Holding shares extended premarket losses, down 9%."
+    },
+    {
+      "id": "5206482",
+      "time": "2026-11-10 22:07:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "昂跑控股美股盤前跌幅擴大，最新下跌9%。"
+    },
+    {
+      "id": "5206481",
+      "time": "2026-11-10 22:07:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲外交部批評“某些政府官員”發表涉華不當言論】菲律賓外交部8日發表宣告，批評“某些政府官員”發表涉華不當言論，稱這些言論破壞了菲律賓在國際事務中的信譽，要求菲政府所有官員必須遵循菲總統制定的外交政策。(新華社)"
+    },
+    {
+      "id": "5206480",
+      "time": "2026-11-10 22:06:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "Adobe將把谷歌最新人工智慧模型整合到創意和生產力工具中。"
+    },
     {
       "id": "mkt:01a1c5c7-82e5-7bbc-ab89-7ff1f91f851f",
       "time": "2026-11-10 22:05:49",
@@ -86,6 +173,15 @@
         "Impact bullish"
       ],
       "text": "ECB executive board member Cipellone said the digital euro could be delayed if negotiations are prolonged."
+    },
+    {
+      "id": "em:qqyh_mlc:202611103927619727",
+      "time": "2026-11-10 22:03:04",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國12月加息50個基點機率升至15.3% CPI公佈後市場開始定價更大幅度加息】CME美聯儲觀察工具（FedWatch）顯示，受美國10月CPI資料超預期影響，市場對美聯儲12月加息的預期進一步升溫。12月加息50個基點的機率升至15.3%，前一日為0%；加息25個基點的機率為84.7%。目前市場定價美聯儲12月加息的機率達到100%。"
     },
     {
       "id": "mkt:01a1c5c4-b61c-7bbc-ab89-5e86c9afcb33",
@@ -97493,84 +97589,6 @@
         "兩會"
       ],
       "text": "【十四屆全國人大常委會第二十五次會議舉行第二次全體會議 審議全國人大常委會執法檢查報告、“一府兩院”專項工作報告等 趙樂際出席會議】十四屆全國人大常委會第二十五次會議3日上午在北京人民大會堂舉行第二次全體會議。趙樂際委員長出席。（新華社）"
-    },
-    {
-      "id": "5191254",
-      "time": "2026-11-03 22:10:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "波音公司：根據波音公司釋出的《2026年商業市場展望》，到2045年，受旅行需求推動，中東地區的機隊規模將翻一番。"
-    },
-    {
-      "id": "5191253",
-      "time": "2026-11-03 22:09:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：11月03日22時02分在新疆巴音郭楞州和靜縣（北緯42.66度，東經83.11度）發生3.7級地震，震源深度10千米。"
-    },
-    {
-      "id": "5191252",
-      "time": "2026-11-03 22:09:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外長拉夫羅夫表示：我們注意到塔克·卡爾森所說的話，但其他來源並未證實。在中期選舉前夕，有時會利用預熱選民選舉情緒的做法。我認為這種結論沒有實際依據。"
-    },
-    {
-      "id": "5191251",
-      "time": "2026-11-03 22:08:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿波羅資管CEO：阿波羅將投入3.5億美元開發交易資料。"
-    },
-    {
-      "id": "5191250",
-      "time": "2026-11-03 22:08:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪評級授予Meta新發行的優先無擔保票據Aa3評級，展望穩定。"
-    },
-    {
-      "id": "5191249",
-      "time": "2026-11-03 22:07:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "Realloys公司與美國陸軍就位於圖埃勒陸軍倉庫的重稀土加工設施簽署條款清單。"
-    },
-    {
-      "id": "5191248",
-      "time": "2026-11-03 22:07:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西雷亞爾在現貨交易中兌美元下跌1%。"
-    },
-    {
-      "id": "te:economy:597697",
-      "time": "2026-11-03 22:07:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Brazil Manufacturing PMI Rises but Remains in Contraction — The S&P Global Brazil Manufacturing PMI rose to 46.1 in October 2026, from 44.8 in September, but remained considerably below the neutral 50.0 mark. Production fell for the sixth consecutive month, while new orders declined for the nineteenth month in a row. Although the pace of contraction eased, it remained the second sharpest in three and a half years. Export orders also fell at the start of the final quarter amid weak global demand and rising prices, although the decline was the softest since July. Employment in the manufacturing sector edged down, with some companies filling full-time vacancies while others cut jobs. Cost pressures eased across all three monitored manufacturing categories but remained elevated. Brazilian manufacturers raised selling prices to pass on some of these higher costs, with output price inflation matching September’s rate. Meanwhile, business confidence reached its highest level in nine months."
-    },
-    {
-      "id": "5191247",
-      "time": "2026-11-03 22:06:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海市長朱忠明會見加彭總統恩圭馬】上海市市長朱忠明今天（11月3日）會見了加彭總統恩圭馬一行。朱忠明代表上海市人民政府，對恩圭馬來滬出席第九屆進博會表示熱烈歡迎。朱忠明說，中國和加彭傳統友誼深厚，作為中國最大的經濟中心城市，上海正積極推進高水平對外開放，加強國際合作交流，我們十分重視與加彭的友好往來。面向未來，我們將認真落實習近平主席與您達成的重要共識，發揮地方合作優勢，為兩國務實合作作出上海的積極貢獻。希望以共建“一帶一路”高質量發展為契機，進一步加強與加彭在經貿和產業投資等方面的交流合作，實現更高層次的互利共贏，為兩地人民創造更大福祉。今年加彭將首次參加進博會國家展，令人非常期待，歡迎加彭企業積極參加進博會，把更多優質特色產品帶到上海、帶入中國。同時，希望雙方加強在青年、教育、文化、旅遊等領域的交流合作，進一步促進民心相通，拉緊友誼紐帶。（澎湃）"
     }
   ]
 }

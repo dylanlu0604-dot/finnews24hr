@@ -1,7 +1,94 @@
 {
   "date": "2026-11-10",
-  "count": 1542,
+  "count": 1553,
   "items": [
+    {
+      "id": "5206487",
+      "time": "2026-11-10 22:09:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司：襲擊於11月10日在阿拉伯灣發生。"
+    },
+    {
+      "id": "5206486",
+      "time": "2026-11-10 22:09:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "Venture Global執行長邁克·薩貝爾表示，公司預計將在年底前與優質客戶簽署更多長期液化天然氣購銷合同。"
+    },
+    {
+      "id": "mkt:01a1c5ca-b70e-7bbc-ab89-8a9caee54765",
+      "time": "2026-11-10 22:09:18",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【US gasoline price surge eases in October; food inflation rises】The Washington Post reports US monthly inflation cooled in October as gasoline's rapid year-to-date rise moderated. Gasoline prices rose 1.0% MoM in October, down from a 9.1% MoM gain in September, while food prices recorded their largest monthly increase since April."
+    },
+    {
+      "id": "5206485",
+      "time": "2026-11-10 22:08:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司物流船隻遭襲後受損。"
+    },
+    {
+      "id": "5206484",
+      "time": "2026-11-10 22:08:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利總理梅洛尼就可能在Banco BPM與法國農業信貸銀行義大利分支合併交易中動用“黃金權力”一事表示：未來幾周內見分曉。"
+    },
+    {
+      "id": "5206483",
+      "time": "2026-11-10 22:08:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總統在議會開幕式上發表講話。"
+    },
+    {
+      "id": "mkt:01a1c5c9-93fb-7bbc-ab89-812858cfc64b",
+      "time": "2026-11-10 22:08:04",
+      "tags": [
+        "MKT News",
+        "ONON.O",
+        "Impact bearish"
+      ],
+      "text": "U.S.-listed On Holding shares extended premarket losses, down 9%."
+    },
+    {
+      "id": "5206482",
+      "time": "2026-11-10 22:07:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "昂跑控股美股盤前跌幅擴大，最新下跌9%。"
+    },
+    {
+      "id": "5206481",
+      "time": "2026-11-10 22:07:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲外交部批評“某些政府官員”發表涉華不當言論】菲律賓外交部8日發表宣告，批評“某些政府官員”發表涉華不當言論，稱這些言論破壞了菲律賓在國際事務中的信譽，要求菲政府所有官員必須遵循菲總統制定的外交政策。(新華社)"
+    },
+    {
+      "id": "5206480",
+      "time": "2026-11-10 22:06:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "Adobe將把谷歌最新人工智慧模型整合到創意和生產力工具中。"
+    },
     {
       "id": "mkt:01a1c5c7-82e5-7bbc-ab89-7ff1f91f851f",
       "time": "2026-11-10 22:05:49",
@@ -86,6 +173,15 @@
         "Impact bullish"
       ],
       "text": "ECB executive board member Cipellone said the digital euro could be delayed if negotiations are prolonged."
+    },
+    {
+      "id": "em:qqyh_mlc:202611103927619727",
+      "time": "2026-11-10 22:03:04",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國12月加息50個基點機率升至15.3% CPI公佈後市場開始定價更大幅度加息】CME美聯儲觀察工具（FedWatch）顯示，受美國10月CPI資料超預期影響，市場對美聯儲12月加息的預期進一步升溫。12月加息50個基點的機率升至15.3%，前一日為0%；加息25個基點的機率為84.7%。目前市場定價美聯儲12月加息的機率達到100%。"
     },
     {
       "id": "mkt:01a1c5c4-b61c-7bbc-ab89-5e86c9afcb33",
