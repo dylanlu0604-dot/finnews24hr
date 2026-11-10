@@ -1,7 +1,159 @@
 {
   "date": "2026-11-10",
-  "count": 416,
+  "count": 430,
   "items": [
+    {
+      "id": "5204383",
+      "time": "2026-11-10 08:03:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1.1%至252.49點。"
+    },
+    {
+      "id": "te:economy:599744",
+      "time": "2026-11-10 08:03:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Consumer Confidence MoM",
+        "Importance 2"
+      ],
+      "text": "Australia Consumer Sentiment Sinks to 4-Year Low — Australia’s Westpac–Melbourne Institute Consumer Sentiment Index slipped 2.7% mom to the lowest since November 2022 of 78.2 in November 2026, extending a 4.7% fall in the prior month while marking a third straight month of decline. The latest reading underscored persistent cost-of-living concerns and higher borrowing costs."
+    },
+    {
+      "id": "mkt:01a1c2c3-e01c-7ee0-aae5-c5c7e3253077",
+      "time": "2026-11-10 08:02:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK Oct BRC total retail sales YoY 1.5% (prev 1.3%)."
+    },
+    {
+      "id": "mkt:01a1c2c3-bca1-7ee0-aae5-baa4fb581e0b",
+      "time": "2026-11-10 08:02:50",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | BRC Total Retail Sales (YoY) (Oct) | actual 1.5% | previous 1.3%"
+    },
+    {
+      "id": "mkt:01a1c2c3-9019-7ee0-aae5-b148e09ef526",
+      "time": "2026-11-10 08:02:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "British Retail Consortium (BRC): October total retail sales rose 1.5% YoY, the largest increase since June (September +1.3%)."
+    },
+    {
+      "id": "5204382",
+      "time": "2026-11-10 08:01:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲7%。"
+    },
+    {
+      "id": "5204380",
+      "time": "2026-11-10 08:01:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上升1.5個基點至2.105%。"
+    },
+    {
+      "id": "5204379",
+      "time": "2026-11-10 08:01:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士漲6.7%、三星電子漲5%。"
+    },
+    {
+      "id": "mkt:01a1c2c2-3462-7ee0-aae5-ae7ad47ebca3",
+      "time": "2026-11-10 08:01:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK October BRC like-for-like retail sales YoY 1.1%, prior 1.00%."
+    },
+    {
+      "id": "mkt:01a1c2c2-20a8-7ee0-aae5-a473d747eebc",
+      "time": "2026-11-10 08:01:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI index breached 5,200 in early trade, up 4.55% on the day. SK Hynix rose 6.7% and Samsung Electronics gained 5%."
+    },
+    {
+      "id": "mkt:01a1c2c2-0ffb-7ee0-aae5-9e8af0512aab",
+      "time": "2026-11-10 08:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | BRC Like-for-like Retail Sales (YoY) (Oct) | actual 1.1% | previous 1.00%"
+    },
+    {
+      "id": "5204378",
+      "time": "2026-11-10 08:00:48",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "日本菸草公司股價上漲1.75%。"
+    },
+    {
+      "id": "mkt:01a1c2c1-b9f9-7ee0-aae5-94bbc83a9c6f",
+      "time": "2026-11-10 08:00:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 breached 59,000 points, rising 0.91% on the day."
+    },
+    {
+      "id": "5204377",
+      "time": "2026-11-10 08:00:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲4.6%，至5247.22點。"
+    },
     {
       "id": "5204376",
       "time": "2026-11-10 08:00:26",
