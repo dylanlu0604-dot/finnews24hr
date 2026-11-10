@@ -1,7 +1,34 @@
 {
-  "updated": "2026-11-10 13:02:38",
-  "count": 10723,
+  "updated": "2026-11-10 13:06:32",
+  "count": 10726,
   "items": [
+    {
+      "id": "te:markets:599840",
+      "time": "2026-11-10 13:03:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Hold at Over 3-Week High — US natural gas prices hovered around $3.21/MMBtu, their highest level in more than three weeks, as colder weather outlook, record LNG export flows, and declining production supported the market. Forecasts shifted cooler across parts of the central and eastern US through November 20, raising expectations for stronger heating demand in the coming weeks. Robust LNG export activity also provided support, with average gas flows to the nine major export terminals reaching a record 19.3 bcfd so far in November, surpassing October's previous monthly record of 18.4 bcfd. On the supply side, Lower 48 production averaged 112.1 bcfd so far this month, down from 113.4 bcfd in October. Meanwhile, the latest storage report indicated that inventories remained comfortably within the normal range, with analysts estimating stocks stood 2.1% above the five-year average in the week ended November 6, up from 1.4% the previous week."
+    },
+    {
+      "id": "5205285",
+      "time": "2026-11-10 13:02:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈴木股價跌幅擴大，一度下跌5.2%。"
+    },
+    {
+      "id": "5205284",
+      "time": "2026-11-10 13:02:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：中國人壽正洽談出售其在倫敦辦公樓的股份。"
+    },
     {
       "id": "5205283",
       "time": "2026-11-10 13:01:22",
