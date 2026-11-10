@@ -1,7 +1,44 @@
 {
   "date": "2026-11-11",
-  "count": 419,
+  "count": 423,
   "items": [
+    {
+      "id": "5206961",
+      "time": "2026-11-11 05:40:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "DraftKings股價盤後上漲1.5%。"
+    },
+    {
+      "id": "5206960",
+      "time": "2026-11-11 05:39:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會正就Kalshi推出部分博彩類合約展開調查。"
+    },
+    {
+      "id": "mkt:01a1c766-b556-7bbc-ab94-05801d132235",
+      "time": "2026-11-11 05:39:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reported the U.S. Commodity Futures Trading Commission warned prediction-market platform Kalshi it may soon face charges."
+    },
+    {
+      "id": "mkt:01a1c765-f565-7bbc-ab93-f89e28d33159",
+      "time": "2026-11-11 05:38:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【CoreWeave Q3 revenue tops estimates; debt burden remains key risk】CoreWeave reported Q3 revenue up 167% YoY to $3.66bn vs. $3.55bn expected; adjusted loss per share $1.27 vs. $1.46 expected. The company raised full-year revenue guidance to $13.0–13.3bn from $12.4–13.2bn. Shares jumped as much as 8.7% in after-hours trade, later trimming gains to about 2%; the stock fell >40% over the past month and is down 32% YTD. CoreWeave faces heavy leverage — debt exceeded $50bn at end-June and its 2030 notes yield roughly 15.2%. Management says capex is tied to signed customer contracts and supported by customer prepayments, and that current backlog can cover debt obligations. Microsoft has said some emerging cloud providers’ data center projects are delayed and under tighter oversight; several officials elected in the US midterms have signaled intentions to slow or block data center builds, raising sector expansion uncertainty. CoreWeave plans to broaden revenue via new services and Asia expansion."
+    },
     {
       "id": "5206959",
       "time": "2026-11-11 05:37:52",

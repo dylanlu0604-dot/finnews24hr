@@ -1,7 +1,44 @@
 {
-  "updated": "2026-11-11 05:38:45",
-  "count": 10558,
+  "updated": "2026-11-11 05:42:30",
+  "count": 10560,
   "items": [
+    {
+      "id": "5206961",
+      "time": "2026-11-11 05:40:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "DraftKings股價盤後上漲1.5%。"
+    },
+    {
+      "id": "5206960",
+      "time": "2026-11-11 05:39:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會正就Kalshi推出部分博彩類合約展開調查。"
+    },
+    {
+      "id": "mkt:01a1c766-b556-7bbc-ab94-05801d132235",
+      "time": "2026-11-11 05:39:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reported the U.S. Commodity Futures Trading Commission warned prediction-market platform Kalshi it may soon face charges."
+    },
+    {
+      "id": "mkt:01a1c765-f565-7bbc-ab93-f89e28d33159",
+      "time": "2026-11-11 05:38:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【CoreWeave Q3 revenue tops estimates; debt burden remains key risk】CoreWeave reported Q3 revenue up 167% YoY to $3.66bn vs. $3.55bn expected; adjusted loss per share $1.27 vs. $1.46 expected. The company raised full-year revenue guidance to $13.0–13.3bn from $12.4–13.2bn. Shares jumped as much as 8.7% in after-hours trade, later trimming gains to about 2%; the stock fell >40% over the past month and is down 32% YTD. CoreWeave faces heavy leverage — debt exceeded $50bn at end-June and its 2030 notes yield roughly 15.2%. Management says capex is tied to signed customer contracts and supported by customer prepayments, and that current backlog can cover debt obligations. Microsoft has said some emerging cloud providers’ data center projects are delayed and under tighter oversight; several officials elected in the US midterms have signaled intentions to slow or block data center builds, raising sector expansion uncertainty. CoreWeave plans to broaden revenue via new services and Asia expansion."
+    },
     {
       "id": "5206959",
       "time": "2026-11-11 05:37:52",
@@ -97153,32 +97190,6 @@
         "其他"
       ],
       "text": "中國地震臺網自動測定：11月04日05時34分在新疆克孜勒蘇州烏恰縣附近（北緯39.45度，東經74.08度）發生5.0級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "mkt:01a1a35c-ef8e-7ee0-aa55-f7dd9256dc8c",
-      "time": "2026-11-04 05:42:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "AMD.O",
-        "Impact bullish",
-        "NVDA.O",
-        "000660.KS"
-      ],
-      "text": "【AMD Q3 revenue, outlook beat estimates; after-hours up >9%】AMD reported 2026 Q3 revenue $13.38bn, up 45% YoY and above consensus $13.09bn; adjusted EPS $2.09 vs $1.95 expected. Data center revenue nearly doubled YoY to $8.5bn, representing 64% of sales (vs 47% a year earlier), driven by AI processor demand; CEO Lisa Su said data center processor demand is expected to accelerate and the company can meet AI chip demand. AMD guided Q4 revenue ~ $17.0bn, above street $16.2–16.3bn, but gave gross margin guidance of 55% vs consensus 55.3% (a mild miss). PC and gaming revenue fell 8% YoY to $3.7bn, with gaming down 40%, citing memory supply tightness and rising prices. AMD shares rose over 9% after hours, lifting NVIDIA, SK Hynix and other chip stocks."
-    },
-    {
-      "id": "5191664",
-      "time": "2026-11-04 05:41:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿曼附近海域一艘油輪遭兩枚不明彈體擊中】當地時間11月3日，英國海上貿易行動辦公室（UKMTO）釋出通報稱，當天19時（格林尼治時間），阿曼利馬東北方向約14海里（約26公里）處發生一起船隻遇襲事件。通報稱，一艘油輪所屬公司的安全負責人報告，該油輪遭兩枚不明彈體擊中。英國海上貿易行動辦公室表示，截至目前，尚未收到人員傷亡或環境汙染的報告。（央視新聞）"
     }
   ]
 }
