@@ -1,7 +1,114 @@
 {
   "date": "2026-11-10",
-  "count": 1476,
+  "count": 1486,
   "items": [
+    {
+      "id": "te:markets:600008",
+      "time": "2026-11-10 21:49:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Decline After Hot CPI — US equity futures fell on Tuesday due to evidence of higher inflation as markets assessed details surrounding the Anthropic IPO. Contracts for the S&P 500 fell 0.6% and those for the Nasdaq 100 fell 1.2%, while the Dow was flat. Both the headline and core US CPIs rose more than expected in October, aligning with the market's certainty of a Federal Reserve rate hike next month and lifting expectations of multiple rate hikes next year. Yields rebounded, pressuring high-debt AI infrastructure and services companies. Micron, Marvell, and SanDisk fell over 3% premarket, compounded by sharp losses for SoftBank due to large data-center write-downs. Correspondingly, GE Vernova sank nearly 9%. Meanwhile, Nvidia extended its plunge from yesterday as CEO Huang's affair endangered his leadership stability."
+    },
+    {
+      "id": "5206449",
+      "time": "2026-11-10 21:48:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗要求賠償，但這不會發生。"
+    },
+    {
+      "id": "mkt:01a1c5b7-b8f5-7bbc-ab88-c37b6d37c11f",
+      "time": "2026-11-10 21:48:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Secretary of State Rubio said Iran's demand for compensation will not be met."
+    },
+    {
+      "id": "5206448",
+      "time": "2026-11-10 21:48:30",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【胡塞武裝稱將發表重要宣告】胡塞武裝軍事發言人葉海亞·薩雷亞稱，胡塞武裝將於今晚17時10分（北京時間22:10）釋出一份重要宣告，宣佈在沙特境內縱深地區實施了多項特種軍事行動。宣告將於稍後公佈。"
+    },
+    {
+      "id": "mkt:01a1c5b7-6357-7bbc-ab88-b80730187ca1",
+      "time": "2026-11-10 21:48:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthis say they will issue important statement】Houthi military spokesman Yahya Saree said the group will issue an important statement at 17:10 tonight (Beijing 22:10), announcing multiple special military operations carried out deep inside Saudi territory. The statement will be released later."
+    },
+    {
+      "id": "mkt:01a1c5b7-22a6-7bbc-ab88-b56a744f77c3",
+      "time": "2026-11-10 21:47:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME three-month aluminium fell 2.5% to $2,990.5 a tonne, its lowest level since Oct 20."
+    },
+    {
+      "id": "5206447",
+      "time": "2026-11-10 21:47:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：全球金融服務公司畢馬威的一份機密報告顯示，今年前九個月，美國政府從委內瑞拉的自然資源出口中獲得了超過120億美元的收入，並已將其撥付給相關部門。"
+    },
+    {
+      "id": "mkt:01a1c5b6-e83d-7bbc-ab88-ab930f1d1998",
+      "time": "2026-11-10 21:47:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【US October CPI Cools Slightly but Exceeds Forecast; Energy Pass‑Through Remains a Risk】US Labor Department: October headline CPI rose 0.4% MoM, down from September’s 0.6% but above consensus 0.3%. Core CPI rose 0.3% MoM, unchanged from September and also above forecasts. Gasoline prices did not decline materially; AAA reports average pump price $4.32/gal in October versus $4.34 in September, roughly 34% above pre‑conflict levels. Economists had expected gasoline would not add much to October’s headline print given the lack of a sharp drop. The key market question is the extent to which higher energy costs will continue to filter through the economy and push broader inflation higher. Energy‑sensitive sectors are already showing strain and large fuel purchasers are passing on costs; since energy jumped after the February outbreak of hostilities involving Iran, some economists warn wider pass‑through may still be ahead."
+    },
+    {
+      "id": "mkt:01a1c5b6-c52c-7bbc-ab88-a2bc07cb1403",
+      "time": "2026-11-10 21:47:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to The New York Times, a confidential KPMG report shows the US government received more than $12 bln in the first nine months of this year from exports of Venezuelan natural resources and has disbursed the proceeds to relevant departments."
+    },
+    {
+      "id": "te:markets:600005",
+      "time": "2026-11-10 21:47:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "DXY Rises After Inflation Print — The US dollar index rose 0.3% to around 102 on Tuesday as stronger-than-expected inflation data reinforced expectations that the Federal Reserve will continue raising interest rates. Consumer prices rose 0.4% in October, more than market expectations of a 0.3% increase, while core CPI advanced 0.3% for a third consecutive month, also above forecasts of a 0.2% rise. Money markets increased bets on at least two additional rate hikes by mid-2027, with investors anticipating another increase at the Fed’s December 8-9 meeting. The BLS could not provide annual comparisons because data collection was disrupted by last year’s government shutdown. Meanwhile, traders also raised expectations for a potential de-escalation in the Middle East after President Donald Trump said further strikes on Iran might not be necessary, although he maintained that the US remained “locked and loaded.”"
+    },
     {
       "id": "mkt:01a1c5b5-50db-7bbc-ab88-9ce847400eff",
       "time": "2026-11-10 21:45:56",
