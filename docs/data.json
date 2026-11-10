@@ -1,7 +1,146 @@
 {
-  "updated": "2026-11-10 21:58:35",
-  "count": 10592,
+  "updated": "2026-11-10 22:02:38",
+  "count": 10596,
   "items": [
+    {
+      "id": "mkt:01a1c5c4-0b0f-7bbc-ab89-411fdd1000f3",
+      "time": "2026-11-10 22:02:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Regan Capital: Stronger inflation and jobs lift odds of Fed December hike】Regan Capital CIO Skyler Weinand said Tuesday’s stronger-than-expected CPI, together with robust October payroll gains and upward revisions to prior months, provides a basis for a Federal Reserve rate increase in December. He added the Fed can likely tighten modestly without materially damaging the labour market given its current strength."
+    },
+    {
+      "id": "mkt:01a1c5c3-d3f9-7bbc-ab89-3ea3bff98868",
+      "time": "2026-11-10 22:01:47",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) and Altera have simplified sensor integration for edge AI and embodied AI. Reference solutions will be provided via the Intel Open Edge Platform SDK and the Altera SDK."
+    },
+    {
+      "id": "5206469",
+      "time": "2026-11-10 22:01:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾：參考解決方案將透過英特爾開放邊緣平臺SDK和Altera SDK提供。"
+    },
+    {
+      "id": "5206468",
+      "time": "2026-11-10 22:01:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "CRIBL收購TERO，引領可觀測性進入AI時代。"
+    },
+    {
+      "id": "mkt:01a1c5c3-4dd2-7bbc-ab89-31b01c365477",
+      "time": "2026-11-10 22:01:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ADBE.O",
+        "Impact bullish"
+      ],
+      "text": "Adobe (ADBE.O) announced new AI agents and tools for Firefly and Creative Cloud."
+    },
+    {
+      "id": "5206467",
+      "time": "2026-11-10 22:01:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾：英特爾與Altera將整合技術，簡化原始裝置製造商的感測器整合。"
+    },
+    {
+      "id": "mkt:01a1c5c3-05b8-7bbc-ab89-2deed07eb932",
+      "time": "2026-11-10 22:00:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB said foreign-exchange reserves were unchanged at €349.7 billion."
+    },
+    {
+      "id": "5206466",
+      "time": "2026-11-10 22:00:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，外匯儲備維持在3497億歐元不變。"
+    },
+    {
+      "id": "5206465",
+      "time": "2026-11-10 22:00:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行上週根據緊急抗疫購債計劃（PEPP）持有的債券規模為1.26萬億歐元。"
+    },
+    {
+      "id": "5206464",
+      "time": "2026-11-10 22:00:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾與 Altera 簡化邊緣與物理 AI 的感測器整合。"
+    },
+    {
+      "id": "5206463",
+      "time": "2026-11-10 22:00:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行執行委員奇波洛內警告稱，如果相關談判久拖不決，數字歐元將面臨推遲。"
+    },
+    {
+      "id": "mkt:01a1c5c2-159a-7bbc-ab89-26cc526846bd",
+      "time": "2026-11-10 21:59:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Strategist: AI investment could become new U.S. inflation driver; Waller may back bigger Fed hike】Brian Jacobsen, chief economic strategist at Annex Wealth Management, said monthly core CPI again printed 0.3%. He warned headline CPI remains elevated and recent oil-price moves have fed into core inflation. Chicago Fed president Austan Goolsbee, who does not have a Fed vote this year, flagged AI-driven demand as a potential force the Fed may need to restrain — a view that may mirror other officials. Fed Governor Waller said he may support a larger rate hike. Officials are increasingly worried AI investment could crowd resources and raise input and hiring costs, including for skilled trades such as plumbers and electricians, adding upward pressure on prices."
+    },
+    {
+      "id": "5206462",
+      "time": "2026-11-10 21:59:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，11月9日美國實際聯邦基金利率為3.88%，交易額為950億美元；11月6日利率為3.88%，交易額為1050億美元。"
+    },
+    {
+      "id": "5206461",
+      "time": "2026-11-10 21:59:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "據法國方面訊息，七國集團一致認為，有必要避免聯合國駐黎巴嫩部隊的任務授權到期後，黎巴嫩出現“安全真空”。"
+    },
+    {
+      "id": "mkt:01a1c5c1-9689-7bbc-ab89-1d507681be6b",
+      "time": "2026-11-10 21:59:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French sources said the G7 unanimously agreed it is necessary to avoid a \"security vacuum\" in Lebanon after the UNIFIL (United Nations Interim Force in Lebanon) mandate expires."
+    },
     {
       "id": "mkt:01a1c5bf-d8ac-7bbc-ab89-10feb6bae1e1",
       "time": "2026-11-10 21:57:26",
@@ -97301,98 +97440,6 @@
         "其他"
       ],
       "text": "Anthropic晶片設計團隊正在使用Claude模型。"
-    },
-    {
-      "id": "5191240",
-      "time": "2026-11-03 22:02:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "DocuSign收購Suplari，加速採購領域AI驅動的合同管理。"
-    },
-    {
-      "id": "5191239",
-      "time": "2026-11-03 22:02:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "Expensify宣佈與Visa達成推薦協議。"
-    },
-    {
-      "id": "5191238",
-      "time": "2026-11-03 22:01:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行稱，外匯儲備增加3億歐元，至3496億歐元。"
-    },
-    {
-      "id": "5191237",
-      "time": "2026-11-03 22:00:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "雷諾與約翰·科克里爾將合作開發無人地面車輛。"
-    },
-    {
-      "id": "5191236",
-      "time": "2026-11-03 22:00:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "法拉利稱地緣政治緊張局勢未對需求造成影響。"
-    },
-    {
-      "id": "5191235",
-      "time": "2026-11-03 22:00:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普媒體與科技集團和 TAE 技術公司提交了擬議合併的修訂版 S-4 註冊宣告。"
-    },
-    {
-      "id": "5191234",
-      "time": "2026-11-03 22:00:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "法拉利CEO：Luce車型已售罄至2027年，未看到需求問題。"
-    },
-    {
-      "id": "5191233",
-      "time": "2026-11-03 22:00:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "法拉利首席財務官表示，F80車型將繼續成為重要的利潤貢獻來源。"
-    },
-    {
-      "id": "5191232",
-      "time": "2026-11-03 22:00:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Meta 啟動債券發行，募資用於人工智慧投資佈局】Meta 平臺公司時隔六個月再度推介美元債券，計劃在美國及歐洲市場至少募資 200 億美元債務資金。各大科技巨頭頂著投資者的質疑，持續融資投入人工智慧基礎設施建設。知情人士透露，本次債券分為五檔發行，期限跨度為 5 年至 30 年。該人士補充稱，最長期限債券初始詢價收益率較美債溢價約 2.5 個百分點；因未獲對外發言授權，該訊息源要求匿名。Meta 近期推出市場期待已久的全新前沿 AI 模型 Muse Wonder。管理層表示，該模型在程式碼編寫、金融與法律問題處理能力上，可對標 OpenAI 的 ChatGPT 以及 Anthropic 的 Claude。"
-    },
-    {
-      "id": "5191231",
-      "time": "2026-11-03 21:59:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨：11月19日聯盟會議將決定2027年對烏克蘭的進一步支援。"
-    },
-    {
-      "id": "5191230",
-      "time": "2026-11-03 21:59:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲資料顯示，11月2日，美國有效聯邦基金利率為3.88%，交易額為1080億美元；10月30日，有效聯邦基金利率為3.88%，交易額為1090億美元。"
     }
   ]
 }
