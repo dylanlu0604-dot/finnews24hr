@@ -1,7 +1,104 @@
 {
   "date": "2026-11-11",
-  "count": 356,
+  "count": 366,
   "items": [
+    {
+      "id": "mkt:01a1c749-bb84-7bbc-ab93-729711ce6560",
+      "time": "2026-11-11 05:07:40",
+      "tags": [
+        "MKT News",
+        "CRWV.O",
+        "Impact bullish"
+      ],
+      "text": "CoreWeave (CRWV.O) fiscal 2026 Q3 revenue $3.66 bln, versus $3.56 bln expected."
+    },
+    {
+      "id": "5206926",
+      "time": "2026-11-11 05:07:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave將2026年底的年化執行率營收指引上調至200億至210億美元。"
+    },
+    {
+      "id": "mkt:01a1c749-3568-7bbc-ab93-6aa53487102f",
+      "time": "2026-11-11 05:07:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Nov. 10 (Tuesday) close — Dow Jones Industrial Average down 156.67 points (-0.30%) at 52,233.08; S&P 500 down 28.99 points (-0.38%) at 7,520.95; Nasdaq Composite down 187.26 points (-0.74%) at 25,065.87."
+    },
+    {
+      "id": "5206925",
+      "time": "2026-11-11 05:06:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave預計全年營收130億至133億美元，此前預期為120億至130億美元。"
+    },
+    {
+      "id": "5206924",
+      "time": "2026-11-11 05:06:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "CoreWeave公司預計2026年全年資本支出為370億至390億美元。"
+    },
+    {
+      "id": "mkt:01a1c748-94e1-7bbc-ab93-606446416ac3",
+      "time": "2026-11-11 05:06:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Fed Governor Bowman: Inflation still needs to be controlled; weigh costs of further tightening】Michelle Bowman, Fed vice chair for supervision, said inflationary pressures persist while the labor market is stabilizing and inflation still has room to fall. She expects October core PCE YoY to rise to 3.3%, driven mainly by energy-price increases and AI-related demand, and said the lack of progress on inflation is not due to an overheated labor market. Bowman said core PCE could move toward 2% next year as AI-related construction demand cools and Middle East conflict pressures ease. She warned recent equity declines, higher Treasury yields and a stronger dollar have already tightened financial conditions, and the economy has strengthened year-to-date. Any further policy tightening must be weighed against costs to interest-rate-sensitive sectors; persistence of AI demand and the path of geopolitical risk will be key near-term determinants of policy. She did not explicitly call for rate hikes but stressed the Fed must still drive inflation back to 2%."
+    },
+    {
+      "id": "mkt:01a1c748-9302-7bbc-ab93-5a9cf7e75a7f",
+      "time": "2026-11-11 05:06:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuelan lawmaker says reforms approved to open the power sector to private investment."
+    },
+    {
+      "id": "5206923",
+      "time": "2026-11-11 05:06:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：美聯儲正努力收集有關人工智慧債務交易對手方的資料。"
+    },
+    {
+      "id": "5206922",
+      "time": "2026-11-11 05:05:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "截至9月30日，CoreWeave營收積壓訂單約1325億美元。"
+    },
+    {
+      "id": "5206921",
+      "time": "2026-11-11 05:05:42",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "CoreWeave第三季度營收36.6億美元，預期35.6億美元。"
+    },
     {
       "id": "mkt:01a1c746-05f6-7bbc-ab93-514c4ccc0514",
       "time": "2026-11-11 05:03:37",
