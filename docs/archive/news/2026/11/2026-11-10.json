@@ -1,7 +1,126 @@
 {
   "date": "2026-11-10",
-  "count": 1561,
+  "count": 1574,
   "items": [
+    {
+      "id": "mkt:01a1c5d2-36ca-7bbc-ab89-c8da9ba9eaf2",
+      "time": "2026-11-10 22:17:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【GCC secretary-general welcomes Russia–US–Ukraine talks in Abu Dhabi】On the 10th, Gulf Cooperation Council (GCC) secretary-general Budawi welcomed a new Russia–US–Ukraine trilateral round beginning in Abu Dhabi, saying the UAE's active diplomacy supports international efforts to restore peace. He said hosting the talks reflects international recognition of the UAE’s status and trust in its ability to foster dialogue, and that Emirati diplomacy has created favorable conditions for the parties to increase understanding and engage in talks."
+    },
+    {
+      "id": "5206499",
+      "time": "2026-11-10 22:17:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【海合會秘書長歡迎新一輪俄美烏三方會談在阿布扎比舉行】當地時間10日，海合會秘書長布達維在阿聯酋首都阿布扎比舉行的新一輪俄美烏三方會談啟動時表示歡迎，稱阿聯酋積極發揮外交作用，為各方增進理解、開展對話創造了有利條件，讚賞美國促成會談的努力，希望會談取得積極成果，推動採取切實措施結束俄烏危機，減輕人道主義、安全和經濟影響，實現公正、持久的和平，維護地區和國際安全穩定，重申海合會支援透過和平方式解決爭端的所有外交努力和國際行動，相關努力應遵循國際法原則和《聯合國憲章》。（央視新聞）"
+    },
+    {
+      "id": "5206498",
+      "time": "2026-11-10 22:17:08",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "胡塞武裝發言人： 沙特方面聲稱我們襲擊了麥地那的東-西輸油管，是徹頭徹尾的謊言和誹謗。我們的行動目標是沙特首都利雅得的東-西輸油管，而不是麥地那。"
+    },
+    {
+      "id": "5206497",
+      "time": "2026-11-10 22:17:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱談判人員討論了囚犯交換、安全保障問題。"
+    },
+    {
+      "id": "mkt:01a1c5d1-d3da-7bbc-ab89-c774f3d9e549",
+      "time": "2026-11-10 22:17:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said negotiating teams discussed prisoner exchanges and security guarantees."
+    },
+    {
+      "id": "mkt:01a1c5d1-aaa4-7bbc-ab89-bec3153c3190",
+      "time": "2026-11-10 22:16:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he received a report from negotiators after talks in Abu Dhabi."
+    },
+    {
+      "id": "mkt:01a1c5d1-a7fc-7bbc-ab89-b0fb683a94e5",
+      "time": "2026-11-10 22:16:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Houthi movement says four military operations struck Riyadh airport, pipeline pump stations】On the 10th the Houthi movement said it conducted four rounds of military operations. The first round struck Riyadh’s King Khalid International Airport and multiple pump stations along the east‑west oil pipeline, causing fires and damage to facilities. The second round targeted an ARAMCO facility at Abqaiq and, the group said, achieved its objectives. The third round hit Saudi forces deployed in the Mudariba and Ras Ala areas under officer Badr Halabi, inflicting heavy casualties; the fourth targeted Riyadh’s financial district. The group urged investors and companies to withdraw investments from Saudi Arabia and move capital to peaceful, secure countries, and denied Saudi claims the attack hit a Medina pipeline, saying the strike was on a Riyadh pipeline."
+    },
+    {
+      "id": "5206496",
+      "time": "2026-11-10 22:16:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "標普全球評級將通用汽車公司的展望調整為正面，並確認其“BBB”評級。"
+    },
+    {
+      "id": "5206495",
+      "time": "2026-11-10 22:16:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱在阿布扎比會談後收到了談判代表的報告。"
+    },
+    {
+      "id": "5206494",
+      "time": "2026-11-10 22:16:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "Venture Global執行長邁克·薩貝爾表示，公司目標是在2031年前實現5吉瓦的供電能力，用於向資料中心供電。"
+    },
+    {
+      "id": "5206493",
+      "time": "2026-11-10 22:15:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝否認襲擊麥地那地區的東西管道。"
+    },
+    {
+      "id": "mkt:01a1c5cf-713c-7bbc-ab89-a83c0d5cc7eb",
+      "time": "2026-11-10 22:14:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Themis Trading: US inflation persistence lifts rate-hike bets, likely to weigh on stocks】Joe Saluzzi, partner and co-head of equity trading at Themis Trading, said US inflation running hotter than expected is forcing a market reassessment and has strengthened Fed tightening bets. He noted some Fed governors had signaled a possible 50bps hike by year-end if inflation stays high; Saluzzi called 50bps too large but said a 25bps move remains possible. The print underscores inflation’s persistence; as long as rates and inflation remain elevated, borrowing costs will stay under pressure, squeezing debt-reliant firms, denting earnings and eventually weighing on equity prices — sustained pressure could amplify downside for stocks."
+    },
+    {
+      "id": "5206492",
+      "time": "2026-11-10 22:13:51",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【胡塞武裝宣佈對沙特發動四輪導彈及無人機襲擊，目標包括阿美石油設施和利雅得金融中心】11月10日，葉門胡塞武裝發表宣告稱，為報復沙特近期對葉門的軍事打擊，已動用多枚彈道導彈和無人機，對沙特境內目標發動四輪軍事行動。\n第一輪襲擊針對利雅得哈立德國王國際機場及東西向輸油管道的多個泵站，胡塞武裝聲稱襲擊直接命中目標並引發火災和設施損壞。\n第二輪襲擊針對沙特阿美位於阿布蓋格的石油設施。\n第三輪襲擊針對沙特軍隊在葉門穆達裡巴和拉斯阿拉地區的部署。\n第四輪襲擊則針對利雅得一處金融中心。\n胡塞武裝同時警告外國企業和投資者撤離沙特，並表示將繼續針對沙特境內目標採取軍事行動，直至沙特停止軍事行動並解除對葉門的封鎖。"
+    },
     {
       "id": "mkt:01a1c5ce-a4ea-7bbc-ab89-a78097e48fe2",
       "time": "2026-11-10 22:13:36",

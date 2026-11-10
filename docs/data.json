@@ -1,7 +1,126 @@
 {
-  "updated": "2026-11-10 22:14:24",
-  "count": 10611,
+  "updated": "2026-11-10 22:18:26",
+  "count": 10619,
   "items": [
+    {
+      "id": "mkt:01a1c5d2-36ca-7bbc-ab89-c8da9ba9eaf2",
+      "time": "2026-11-10 22:17:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【GCC secretary-general welcomes Russia–US–Ukraine talks in Abu Dhabi】On the 10th, Gulf Cooperation Council (GCC) secretary-general Budawi welcomed a new Russia–US–Ukraine trilateral round beginning in Abu Dhabi, saying the UAE's active diplomacy supports international efforts to restore peace. He said hosting the talks reflects international recognition of the UAE’s status and trust in its ability to foster dialogue, and that Emirati diplomacy has created favorable conditions for the parties to increase understanding and engage in talks."
+    },
+    {
+      "id": "5206499",
+      "time": "2026-11-10 22:17:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【海合會秘書長歡迎新一輪俄美烏三方會談在阿布扎比舉行】當地時間10日，海合會秘書長布達維在阿聯酋首都阿布扎比舉行的新一輪俄美烏三方會談啟動時表示歡迎，稱阿聯酋積極發揮外交作用，為各方增進理解、開展對話創造了有利條件，讚賞美國促成會談的努力，希望會談取得積極成果，推動採取切實措施結束俄烏危機，減輕人道主義、安全和經濟影響，實現公正、持久的和平，維護地區和國際安全穩定，重申海合會支援透過和平方式解決爭端的所有外交努力和國際行動，相關努力應遵循國際法原則和《聯合國憲章》。（央視新聞）"
+    },
+    {
+      "id": "5206498",
+      "time": "2026-11-10 22:17:08",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "胡塞武裝發言人： 沙特方面聲稱我們襲擊了麥地那的東-西輸油管，是徹頭徹尾的謊言和誹謗。我們的行動目標是沙特首都利雅得的東-西輸油管，而不是麥地那。"
+    },
+    {
+      "id": "5206497",
+      "time": "2026-11-10 22:17:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱談判人員討論了囚犯交換、安全保障問題。"
+    },
+    {
+      "id": "mkt:01a1c5d1-d3da-7bbc-ab89-c774f3d9e549",
+      "time": "2026-11-10 22:17:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said negotiating teams discussed prisoner exchanges and security guarantees."
+    },
+    {
+      "id": "mkt:01a1c5d1-aaa4-7bbc-ab89-bec3153c3190",
+      "time": "2026-11-10 22:16:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he received a report from negotiators after talks in Abu Dhabi."
+    },
+    {
+      "id": "mkt:01a1c5d1-a7fc-7bbc-ab89-b0fb683a94e5",
+      "time": "2026-11-10 22:16:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Houthi movement says four military operations struck Riyadh airport, pipeline pump stations】On the 10th the Houthi movement said it conducted four rounds of military operations. The first round struck Riyadh’s King Khalid International Airport and multiple pump stations along the east‑west oil pipeline, causing fires and damage to facilities. The second round targeted an ARAMCO facility at Abqaiq and, the group said, achieved its objectives. The third round hit Saudi forces deployed in the Mudariba and Ras Ala areas under officer Badr Halabi, inflicting heavy casualties; the fourth targeted Riyadh’s financial district. The group urged investors and companies to withdraw investments from Saudi Arabia and move capital to peaceful, secure countries, and denied Saudi claims the attack hit a Medina pipeline, saying the strike was on a Riyadh pipeline."
+    },
+    {
+      "id": "5206496",
+      "time": "2026-11-10 22:16:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "標普全球評級將通用汽車公司的展望調整為正面，並確認其“BBB”評級。"
+    },
+    {
+      "id": "5206495",
+      "time": "2026-11-10 22:16:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱在阿布扎比會談後收到了談判代表的報告。"
+    },
+    {
+      "id": "5206494",
+      "time": "2026-11-10 22:16:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "Venture Global執行長邁克·薩貝爾表示，公司目標是在2031年前實現5吉瓦的供電能力，用於向資料中心供電。"
+    },
+    {
+      "id": "5206493",
+      "time": "2026-11-10 22:15:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝否認襲擊麥地那地區的東西管道。"
+    },
+    {
+      "id": "mkt:01a1c5cf-713c-7bbc-ab89-a83c0d5cc7eb",
+      "time": "2026-11-10 22:14:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Themis Trading: US inflation persistence lifts rate-hike bets, likely to weigh on stocks】Joe Saluzzi, partner and co-head of equity trading at Themis Trading, said US inflation running hotter than expected is forcing a market reassessment and has strengthened Fed tightening bets. He noted some Fed governors had signaled a possible 50bps hike by year-end if inflation stays high; Saluzzi called 50bps too large but said a 25bps move remains possible. The print underscores inflation’s persistence; as long as rates and inflation remain elevated, borrowing costs will stay under pressure, squeezing debt-reliant firms, denting earnings and eventually weighing on equity prices — sustained pressure could amplify downside for stocks."
+    },
+    {
+      "id": "5206492",
+      "time": "2026-11-10 22:13:51",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【胡塞武裝宣佈對沙特發動四輪導彈及無人機襲擊，目標包括阿美石油設施和利雅得金融中心】11月10日，葉門胡塞武裝發表宣告稱，為報復沙特近期對葉門的軍事打擊，已動用多枚彈道導彈和無人機，對沙特境內目標發動四輪軍事行動。\n第一輪襲擊針對利雅得哈立德國王國際機場及東西向輸油管道的多個泵站，胡塞武裝聲稱襲擊直接命中目標並引發火災和設施損壞。\n第二輪襲擊針對沙特阿美位於阿布蓋格的石油設施。\n第三輪襲擊針對沙特軍隊在葉門穆達裡巴和拉斯阿拉地區的部署。\n第四輪襲擊則針對利雅得一處金融中心。\n胡塞武裝同時警告外國企業和投資者撤離沙特，並表示將繼續針對沙特境內目標採取軍事行動，直至沙特停止軍事行動並解除對葉門的封鎖。"
+    },
     {
       "id": "mkt:01a1c5ce-a4ea-7bbc-ab89-a78097e48fe2",
       "time": "2026-11-10 22:13:36",
@@ -97559,48 +97678,6 @@
         "兩會"
       ],
       "text": "【央行潘功勝：維護股票、債券、外匯等金融市場平穩執行】十四屆全國人大常委會第二十五次會議3日上午在北京人民大會堂舉行第二次全體會議。會議聽取了中國人民銀行行長潘功勝受國務院委託作的關於金融工作情況的報告。報告介紹了2025年10月以來金融工作主要進展及成效、當前經濟金融形勢和問題挑戰，提出下一步工作考慮：繼續實施好適度寬鬆的貨幣政策，為經濟持續向新向優向好發展營造適宜的貨幣金融環境；進一步加強和完善金融監管，不斷增強監管質效；實施好支援資本市場的貨幣政策工具，鞏固完善資本市場穩市機制。維護股票、債券、外匯等金融市場平穩執行，守住不發生系統性金融風險底線。（新華社）"
-    },
-    {
-      "id": "5191266",
-      "time": "2026-11-03 22:17:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "ADM 預計 2027 年盈利將“大致在 2026 年的水平上下小幅波動”。"
-    },
-    {
-      "id": "5191265",
-      "time": "2026-11-03 22:16:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【尹弘會見滴滴董事長兼執行長程維一行】11月3日，江西省委書記尹弘在南昌會見滴滴創始人、董事長兼執行長程維一行。省領導盛秋平、陳敏參加會見。尹弘對程維一行表示歡迎，向滴滴長期以來給予江西發展的支援幫助表示感謝。他說，當下，新業態、新模式、新場景不斷湧現，社會經濟形態正在發生深刻變化，未來想象空間巨大、發展前景廣闊。江西搶抓發展機遇，加快推進新舊動能轉換，積極培育壯大新質生產力，全力推動經濟向新向優向好發展。滴滴是全球領先的一站式移動出行平臺，在智慧出行領域有著豐富經驗和明顯優勢。希望滴滴立足企業行業龍頭地位，更好履行社會責任，充分發揮自身優勢，加大創新力度，深耕江西、支援江西，積極拓展房車旅居出行等服務，深化出行消費與商旅場景共建，推動更多新產業、新業態、新模式在贛落地，共同打造消費服務新場景，更好滿足群眾多層次多樣化需求。江西省委、省政府將持續為滴滴在江西發展創造良好環境、提供開放場景，努力實現雙方互利共贏、共同發展。（江西釋出）"
-    },
-    {
-      "id": "5191264",
-      "time": "2026-11-03 22:15:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "法拉利CEO將在未來幾周公布兩款新車型的詳細資訊。"
-    },
-    {
-      "id": "5191263",
-      "time": "2026-11-03 22:15:37",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅分別會見來華出席瀾湄合作第十一次外長會的泰國、寮國、緬甸客人】11月3日，中共中央政治局委員、外交部長王毅在北京分別會見來華工作訪問並出席瀾湄合作第十一次外長會的泰國副總理兼外長西哈薩，來華出席瀾湄合作第十一次外長會的寮國副總理兼外長通沙萬和緬甸國家計劃、投資與對外經濟部部長昂覺霍。\n會見西哈薩時，王毅表示，近年來，習近平主席同哇集拉隆功國王保持密切溝通，共同引領中泰命運共同體建設走深走實，“中泰一家親”更加深入人心。願與泰方加強戰略溝通，深化互利合作，推動中泰命運共同體建設不斷邁上新水平。\n西哈薩祝賀中共二十屆五中全會成功舉行，表示泰方願共同落實好雙方領導人共識，推進泰中全面戰略合作伙伴關係發展。泰方讚賞中方為瀾湄地區發展作出的貢獻。\n會見通沙萬時，王毅表示，今年6月習近平總書記、國家主席同到訪的通倫總書記、國家主席共同宣佈構建新時代全天候中老命運共同體。中方願同老方落實好兩黨兩國最高領導人重要共識，紮實推進中老命運共同體建設，攜手守護地區和平與安寧。\n通沙萬表示，老方熱烈祝賀中國共產黨二十屆五中全會取得重要成果，願按照兩黨兩國最高領導人共識，毫不動搖推進老中命運共同體建設。\n會見昂覺霍時，王毅表示，今年6月，習近平主席同來華國事訪問的敏昂萊總統舉行重要會晤，雙方一致同意加快推進中緬命運共同體建設。中方支援緬甸實現政治和解，始終是緬可以依賴的戰略伙伴，願同緬方共同努力，推動中緬命運共同體建設走深走實。\n昂覺霍表示，敏昂萊總統不久前成功訪華，有力推進兩國關係發展。緬方願不斷提升兩國互利合作水平，歡迎更多中國企業赴緬投資興業。（新華社）"
-    },
-    {
-      "id": "5191262",
-      "time": "2026-11-03 22:14:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "波音公司：中東地區機隊規模的增長將推動商業航空服務領域實現 4750 億美元的投資。"
     }
   ]
 }
