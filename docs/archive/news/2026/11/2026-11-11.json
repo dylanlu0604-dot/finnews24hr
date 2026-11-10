@@ -1,7 +1,24 @@
 {
   "date": "2026-11-11",
-  "count": 340,
+  "count": 342,
   "items": [
+    {
+      "id": "mkt:01a1c73e-ed15-7bbc-ab93-2658de8e6385",
+      "time": "2026-11-11 04:55:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Thune re-elected Senate Republican leader; leadership largely unchanged】Axios reported John Thune was re-elected Tuesday as Senate Republican leader and will continue to lead the caucus after Republicans lost the Senate majority. A motion by some Republican senators to delay the leadership vote by at least one week failed, receiving 31 votes in favor and 15 against. The Senate GOP leadership team is largely unchanged; Senator Bernie Moreno will replace Tim Scott as chair of the National Republican Senatorial Committee."
+    },
+    {
+      "id": "5206912",
+      "time": "2026-11-11 04:55:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯、美國與烏克蘭之間的談判將於11月11日莫斯科時間上午11點（北京時間16點）在阿布扎比開始。"
+    },
     {
       "id": "mkt:01a1c73a-8e1a-7bbc-ab93-19a29f122e93",
       "time": "2026-11-11 04:51:05",

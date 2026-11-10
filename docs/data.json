@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-11 04:53:11",
-  "count": 10538,
+  "updated": "2026-11-11 04:56:58",
+  "count": 10539,
   "items": [
+    {
+      "id": "mkt:01a1c73e-ed15-7bbc-ab93-2658de8e6385",
+      "time": "2026-11-11 04:55:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Thune re-elected Senate Republican leader; leadership largely unchanged】Axios reported John Thune was re-elected Tuesday as Senate Republican leader and will continue to lead the caucus after Republicans lost the Senate majority. A motion by some Republican senators to delay the leadership vote by at least one week failed, receiving 31 votes in favor and 15 against. The Senate GOP leadership team is largely unchanged; Senator Bernie Moreno will replace Tim Scott as chair of the National Republican Senatorial Committee."
+    },
+    {
+      "id": "5206912",
+      "time": "2026-11-11 04:55:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯、美國與烏克蘭之間的談判將於11月11日莫斯科時間上午11點（北京時間16點）在阿布扎比開始。"
+    },
     {
       "id": "mkt:01a1c73a-8e1a-7bbc-ab93-19a29f122e93",
       "time": "2026-11-11 04:51:05",
@@ -97020,18 +97037,6 @@
         "Important"
       ],
       "text": "South Korea | Foreign Exchange Reserves (Oct) | actual 443160000000.00006B | previous 440560000000.00006B"
-    },
-    {
-      "id": "te:markets:597775",
-      "time": "2026-11-04 04:54:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Brazilian Stocks Fall Ahead of Copom Decision — The Ibovespa fell 1.5% to close at 165,362, reaching a one-year low following Monday’s holiday, as Petrobras and credit-sensitive stocks posted losses. Petrobras dropped 4% as oil prices plunged during the holiday amid signs of progress in US-Iran diplomacy. Investors monitored the upcoming Copom decision after the first Focus Bulletin since the election showed higher forecasts for inflation, interest rates and the dollar. In contrast, growth expectations were revised down. The S&P Global Brazil Manufacturing PMI for October also remained in contraction territory. Most market participants expect the benchmark Selic rate to remain unchanged at 13.75% per year, amid concerns over the country’s fiscal outlook. Major banks posted losses, with Itaú down 0.6% and Bradesco shedding 2.2%. Utilities declined as well, with Axia falling 2.3%."
     }
   ]
 }
