@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-10 13:25:57",
-  "count": 10744,
+  "updated": "2026-11-10 13:29:45",
+  "count": 10746,
   "items": [
+    {
+      "id": "5205303",
+      "time": "2026-11-10 13:26:45",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【江蘇省印發新型儲能產業發展行動計劃 2030年裝機量將超千萬千瓦】近日，江蘇省工信廳、省發展改革委、省科技廳、省市場監管局聯合印發《江蘇省新型儲能產業高質量發展行動計劃》，提出到2030年，全省新型儲能產業規模全國領先，累計裝機規模超過1000萬千瓦。行動計劃以鞏固提升新型儲能全產業鏈競爭優勢為主線，以關鍵技術創新為驅動，以人工智慧賦能為方向，堅持有效供給與擴大需求相結合，圍繞推動新型儲能技術創新、促進示範應用場景拓展、加快智慧化綠色化轉型、構建產業協同發展生態4個方面進行部署，加快構建應用牽引、多元並進、安全高效、生態協同的新型儲能產業體系。具體包括組織實施不少於10項關鍵技術攻關任務，到2030年建成省級以上各類創新載體不少於60家；打造行業大模型1個以上，培育“人工智慧+”典型案例不少於15個；建立優質企業培育庫，到2030年培育儲能領域專精特新“小巨人”企業90家等。"
+    },
+    {
+      "id": "mkt:01a1c3eb-fc19-7ee0-aaec-05e25c53a3ff",
+      "time": "2026-11-10 13:26:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share semiconductor sector rallied in the afternoon. Lexin Technology made a new intraday high; Fuhan Micro and Rockchip hit daily limit-ups. Xingchen Technology jumped over 15%. Allwinner Technology, Qingyi Optoelectronics, Hengxuan Technology, Saiwei Microelectronics, Zhongke Lanxun, Yandong Micro, Longxun and Shengke Communications all rose more than 10%."
+    },
+    {
+      "id": "5205302",
+      "time": "2026-11-10 13:25:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊走高，富瀚微、瑞芯微漲停】半導體板塊走高，樂鑫科技盤中創新高，富瀚微、瑞芯微漲停，星宸科技漲超15%，全志科技、清溢光電、恆玄科技、賽微微電、中科藍訊、燕東微、龍迅股份、盛科通訊漲超10%。"
+    },
     {
       "id": "5205301",
       "time": "2026-11-10 13:22:26",
@@ -98530,18 +98560,6 @@
         "中國央行"
       ],
       "text": "【人民銀行副行長鄒瀾：一如既往支援香港國際金融中心建設】11月3日，中國人民銀行副行長鄒瀾在2026國際金融領袖投資峰會上表示，人民銀行將同各部門一道一如既往地支援香港國際金融中心建設，支援香港長期繁榮穩定發展。他表示，今年以來中國宏觀經濟穩健執行，高質量發展延續向好態勢，背後是新動能加速成長、持續壯大的有力支撐。"
-    },
-    {
-      "id": "te:markets:597532",
-      "time": "2026-11-03 13:26:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Halts Decline, Ends 0.2% Higher — The NZX 50 gained 22 points, or 0.2%, to close at 13,720 on Tuesday, halting losses from the morning session and the previous session, mainly buoyed by communication services and financial stocks. Traders braced for the release of jobs data on Wednesday, with the market expecting the unemployment rate to ease slightly to 5.5% in Q3 from 5.6% in Q2, its highest reading since Q3 2015. Moderating oil prices also lifted sentiment as inflation concerns and fears of interest rate hikes eased. However, a downbeat session on Wall Street capped the gains, as tech stocks continued to fall. Traders also monitored early voting in New Zealand ahead of the November general election, with nearly 1 million ballots having been cast in the first week of early voting. Among the best performers were Fletcher Building (2.6%), Westpac Banking Corp. (2.4%), Chorus (2.0%), Infratil (1.5%), Vulcan Steel (1.2%), Gentrack Group (1.0%), and EBOS Group (-0.8%)."
     }
   ]
 }
