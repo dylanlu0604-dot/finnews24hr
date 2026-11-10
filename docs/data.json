@@ -1,7 +1,58 @@
 {
-  "updated": "2026-11-10 13:37:36",
-  "count": 10758,
+  "updated": "2026-11-10 13:41:36",
+  "count": 10763,
   "items": [
+    {
+      "id": "mkt:01a1c3f9-5e58-7ee0-aaec-4d608225e750",
+      "time": "2026-11-10 13:41:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Front-month palm oil futures surged to 8,761 yuan/ton, up about 1%, reversing an earlier drop of more than 2%."
+    },
+    {
+      "id": "5205312",
+      "time": "2026-11-10 13:39:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌2%，現報960.00元。"
+    },
+    {
+      "id": "mkt:01a1c3f7-72dc-7ee0-aaec-4729fb9cdb5d",
+      "time": "2026-11-10 13:38:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "【TSMC October revenue TWD 586.89 billion, up 59.7% YoY】TSMC said consolidated October revenue was TWD 586.89 billion, up 59.7% YoY and 14.7% MoM. Jan‑Oct cumulative revenue totaled TWD 4.485617 trillion, up 43.3% YoY."
+    },
+    {
+      "id": "mkt:01a1c3f7-462c-7ee0-aaec-3994f57bccd2",
+      "time": "2026-11-10 13:38:44",
+      "tags": [
+        "MKT News",
+        "NVO.N",
+        "Impact bullish"
+      ],
+      "text": "【Novo Nordisk: 5-year patent term extension approved for semaglutide CKD indication】Novo Nordisk said China's National Intellectual Property Administration has approved a 5-year patent term extension for the chronic kidney disease (CKD) indication of its semaglutide injection (brand Nuohetai), extending patent protection to March 2031."
+    },
+    {
+      "id": "5205311",
+      "time": "2026-11-10 13:38:11",
+      "tags": [
+        "央行",
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【富蘭克林鄧普頓： 美元/日元未來12個月或跌向150或更低】富蘭克林鄧普頓稱，日本央行比市場預期更為鷹派，其終端利率可能超過2%。富蘭克林鄧普頓投資組合經理Carol Lye表示，美元/日元未來12個月可能跌向150甚至更低。她看空美元，因人工智慧(AI)資本支出勢頭減弱，這將拖累美國整體經濟增長；她預計資料中心建設將在2028年放緩。她預計美債收益率將在4.5%至略高於5%的區間波動。"
+    },
     {
       "id": "5205310",
       "time": "2026-11-10 13:36:21",
