@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-10 13:45:22",
-  "count": 10765,
+  "updated": "2026-11-10 13:49:19",
+  "count": 10768,
   "items": [
+    {
+      "id": "5205317",
+      "time": "2026-11-10 13:48:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "據菲律賓媒體10日報道，一架載有6名外國公民的私人飛機當天上午在菲律賓棉蘭老島墜毀。（新華社）"
+    },
+    {
+      "id": "5205316",
+      "time": "2026-11-10 13:47:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "Coinbase：我們注意到部分使用者在使用.NET網路時可能會遇到收發延遲的問題。"
+    },
+    {
+      "id": "te:economy:599847",
+      "time": "2026-11-10 13:47:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Manufacturing Production MoM",
+        "Importance 1"
+      ],
+      "text": "Dutch Manufacturing Output Growth Eases — Manufacturing production in the Netherlands rose by 0.2% month-on-month in September 2026, easing sharply from a downwardly revised two-year high of 3.0% rise in the previous month. Production declined in food (-0.3% vs 1.7% in August), textiles (-5.0% vs 7.5%), rubber and plastic products (-0.7% vs 1.7%), machinery (-1.8% vs 7.4%), automotive and trailers (-10.0% vs 24.5%), and furniture (-4.3% vs 0.1%). Moreover, output growth eased in graphics (0.8% vs 1.6%), building materials (0.8% vs 1.1%), and electric appliances (3.2% vs 6.6%). In contrast, activity fell at a softer pace in clothing (-0.5% vs -1.0%), leather and footwear (-2.2% vs -3.0%), paper (-1.1% vs -5.5%), and basic metals (-2.4% vs -4.2%), while production rebounded in petroleum (4.1% vs -13.3%), chemicals (5.2% vs -3.8%), and pharmaceutical products (40.4% vs -18.9%). On a yearly basis, manufacturing output grew by 11.0% in September, easing from a downwardly revised 11.7% increase in August."
+    },
     {
       "id": "5205315",
       "time": "2026-11-10 13:44:31",
