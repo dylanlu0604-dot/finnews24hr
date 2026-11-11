@@ -1,7 +1,274 @@
 {
   "date": "2026-11-11",
-  "count": 684,
+  "count": 713,
   "items": [
+    {
+      "id": "mkt:01a1c825-b9c6-7bbc-ab97-94b3fdd11eef",
+      "time": "2026-11-11 09:07:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Apple has resolved issues affecting iCloud Calendar, iCloud Contacts, iCloud Mail, iWork for iCloud and Game Center."
+    },
+    {
+      "id": "5207169",
+      "time": "2026-11-11 09:07:56",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美財政部長被曝搬至軍事基地居住 】當地時間11月10日，《紐約時報》援引知情人士的話報道，由於受到來自伊朗的威脅，美國財政部長貝森特近期已搬離住所，轉入一處軍事基地居住。報道稱，目前尚不清楚貝森特所面臨威脅的具體嚴重程度。 美國財政部未立即回應置評請求。伊朗此前曾否認策劃過針對美國本土官員及民眾的襲擊。（ CCTV國際時訊  ）"
+    },
+    {
+      "id": "te:markets:600194",
+      "time": "2026-11-11 09:07:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Stocks Advance for Third Straight Session — The Nikkei 225 Index climbed 0.6% to trade above 60,800 on Wednesday, marking its third consecutive session of gains as stronger-than-expected results from neocloud company CoreWeave eased concerns surrounding the artificial intelligence sector. Optimism towards AI stocks was further supported by reports that Anthropic could begin trading as early as next week, targeting a fundraising of up to $90 billion at a diluted valuation of approximately $1.4 trillion. Japanese equities also outperformed a weaker overnight session on Wall Street, where Nvidia’s losses and hotter-than-expected US inflation data pressured broader markets. Among the notable gainers were technology and AI-related stocks, with Advantest rising 0.7%, Taiyo Yuden climbing 3.6%, and Tokyo Electron advancing 1.1%. Financial and consumer shares also moved higher, as Mitsubishi UFJ gained 1.7% and Fast Retailing added 1.1%."
+    },
+    {
+      "id": "5207168",
+      "time": "2026-11-11 09:07:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元升至158.88日元；為10月14日以來最高水平。"
+    },
+    {
+      "id": "5207167",
+      "time": "2026-11-11 09:07:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7位科學家獲頒2026年度邵逸夫獎 】2026年度邵逸夫獎頒獎典禮10日在香港會展中心舉行。7位科學家分獲天文學、生命科學與醫學、數學科學3個獎項，每項獎金120萬美元。邵逸夫獎於2002年創立，由邵逸夫獎基金會管理及執行。2004年起，邵逸夫獎每年頒獎一次。（新華社）"
+    },
+    {
+      "id": "5207166",
+      "time": "2026-11-11 09:06:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司：已解決 iCloud 日曆、iCloud 通訊錄、iCloud 郵件、iCloud 版 iWork 以及遊戲中心的問題。"
+    },
+    {
+      "id": "5207165",
+      "time": "2026-11-11 09:05:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲1%，現報9179.00元。"
+    },
+    {
+      "id": "5207164",
+      "time": "2026-11-11 09:05:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報2486.00點。"
+    },
+    {
+      "id": "5207163",
+      "time": "2026-11-11 09:05:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報3153.00元。"
+    },
+    {
+      "id": "5207162",
+      "time": "2026-11-11 09:04:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic投資者提前兜售IPO配售股份 額外收取最高5%費用】一些Anthropic PBC的支持者正在這宗勢將創下紀錄的上市交易前夕，將其預計獲得的部分首次公開招股（IPO）配售股份提供給新的投資者。 JonesTrading Institutional Services LLC正代表一些預計將在此次IPO中獲得大額配售的投資者，推介一批價值最高5億美元的Anthropic股票。買家除了按IPO最終發行價支付股款外，還要繳納相當於發行價3%至5%的額外費用。 此類交易可以讓投資機構降低部分IPO持倉的風險，同時設法擴大自身的投資者基礎。JonesTrading私人市場主管Jon Jefferies不予評論任何具體的Anthropic交易，但表示，此類交易今後將在市場上越來越多。“此類交易對市場來說非常新鮮。”Jefferies說，“我們第一次看到這種交易是在SpaceX IPO時。我們最初對此持懷疑態度，但很多交易都順利完成了。”"
+    },
+    {
+      "id": "mkt:01a1c821-15e1-7bbc-ab97-8969d25eaebd",
+      "time": "2026-11-11 09:02:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Weighted Index opened on Nov 11 (Wednesday) up 672.61 points, +1.57%, at 43,384.53."
+    },
+    {
+      "id": "mkt:01a1c821-11ae-7bbc-ab97-808013dc9729",
+      "time": "2026-11-11 09:02:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Platinum most-active contract down 2.00% intraday, trading at 376.60 yuan/gram."
+    },
+    {
+      "id": "5207161",
+      "time": "2026-11-11 09:01:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京源環保等在四川成立文旅科技公司】企查查APP顯示，近日，四川源見文旅科技有限公司成立，經營範圍包含：水汙染治理；環保諮詢服務；環境保護專用裝置銷售等。企查查股權穿透顯示，該公司由京源環保等共同持股。"
+    },
+    {
+      "id": "mkt:01a1c81f-722f-7bbc-ab97-7ca0fe946422",
+      "time": "2026-11-11 09:01:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai gold main contract fell 2.00% intraday to 867.96 yuan/gram."
+    },
+    {
+      "id": "te:markets:600191",
+      "time": "2026-11-11 09:01:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Japanese Yen Hits 4-week Low — The Japanese Yen touched 158.85 against the USD, the lowest since October 2026. Over the past 4 weeks, US Dollar Japanese Yen gained 0.13%, and in the last 12 months, it increased 2.6%."
+    },
+    {
+      "id": "mkt:01a1c81f-1560-7bbc-ab97-72c603177ab9",
+      "time": "2026-11-11 09:00:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D fell 2.03% in early trade on Wednesday, Nov 11, to 866.18 yuan/gram; Silver T+D fell 3.56% to 12,264.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a1c81e-c238-7bbc-ab97-6a7a1fe3e635",
+      "time": "2026-11-11 09:00:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At the open, China's most-active futures were mostly lower. SHFE silver and foundry aluminium fell more than 3%; SHFE aluminium, SHFE gold and synthetic rubber dropped over 2%; platinum was down nearly 2%; lithium carbonate and low-sulfur fuel oil (LU) slid more than 1%. On the upside, soymeal and DCE soybean No.2 rose over 2%; palm oil, caustic soda and styrene gained more than 1%; coking coal, pulp and Europe-route container freight advanced about 1%."
+    },
+    {
+      "id": "5207160",
+      "time": "2026-11-11 09:00:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.1%至43,201.28點。"
+    },
+    {
+      "id": "mkt:01a1c81e-b978-7bbc-ab97-64251e4e607e",
+      "time": "2026-11-11 09:00:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures opened down 0.12%."
+    },
+    {
+      "id": "5207159",
+      "time": "2026-11-11 09:00:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破92美元/桶，日內漲0.57%。"
+    },
+    {
+      "id": "5207158",
+      "time": "2026-11-11 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.10%。"
+    },
+    {
+      "id": "5207157",
+      "time": "2026-11-11 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】白銀連續跌3.09%，鑄造鋁合金連續跌2.77%，豆粕連續漲2.64%，鋁連續跌2.41%，豆二連續漲2.25%。"
+    },
+    {
+      "id": "te:markets:600190",
+      "time": "2026-11-11 08:59:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Bitcoin Hits 3-Month Low — Bitcoin fell below $73,500, reaching its lowest level since mid-August, as hotter-than-expected US inflation strengthened expectations of further interest rate hikes and weighed on demand for riskier assets. The decline brings its losses for the year to around 16%. US core consumer prices rose 0.3% month-on-month in October, exceeding market expectations, while headline inflation accelerated to 0.4%. Ahead of the inflation release, Fed Governor Christopher Waller had signaled that a 50 basis point rate increase in December should be considered if core inflation came in at 0.3% or higher. Meanwhile, Dallas Fed President Lorie Logan indicated after the release that a faster pace of rate hikes may be possible. Markets subsequently increased bets on further rate hikes through mid-2027. This drove Treasury yields and the US dollar higher, adding to pressure on cryptocurrencies."
+    },
+    {
+      "id": "5207156",
+      "time": "2026-11-11 08:59:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【11月10日238股獲融資買入超億元 中際旭創穫買入16.53億元居首】11月10日共有3535只個股獲融資資金買入，有238股買入金額超億元。其中，中際旭創、新易盛、長鑫科技融資買入金額排名前三，分別獲買入16.53億元、16.42億元、9.79億元。"
+    },
+    {
+      "id": "5207155",
+      "time": "2026-11-11 08:59:16",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【廖岷在加拿大多倫多出席人民幣綠色主權債券發行活動】當地時間11月9日，中華人民共和國財政部代表中央政府在加拿大多倫多成功發行了40億元人民幣綠色主權債券。11月10日上午，財政部在多倫多交易所舉行儀式。中國財政部副部長廖岷出席活動並致辭。他表示，首次在加拿大發行人民幣綠色主權債券，是落實今年1月習近平主席與卡尼總理達成的重要共識，以及第二次中加經濟財金戰略對話的重要舉措，既彰顯了中國推進綠色低碳發展和高水平對外開放的堅定決心，也體現了中加雙方加強經濟財金對話、深化務實合作的現實意願，對推動中加關係邁入健康、穩定、可持續的發展軌道具有積極意義。（財政部）"
+    },
+    {
+      "id": "mkt:01a1c81d-bb2f-7bbc-ab97-5bf149729ef8",
+      "time": "2026-11-11 08:59:13",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "Japanese metal-materials maker Mitsui Kinzoku said on Tuesday it plans to invest 190 billion yen ($1.2 billion) to build a new copper-foil plant in Malaysia to meet rising demand tied to artificial intelligence applications."
+    },
+    {
+      "id": "5207154",
+      "time": "2026-11-11 08:58:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【洋河夢之藍M6+、古井貢古20大幅回撥 飛天茅臺、精品茅臺持續下滑 五糧液普五、青花汾20逆勢小漲】新浪財經“酒價內參”過去24小時收集的資料顯示，11月11日中國白酒業12大單品的終端零售均價三漲八跌一平，下跌品種的數量顯著佔優，累計跌幅明顯超過上漲端，整體價盤再度大跌，迭創近兩個月以來新低。上漲端，五糧液普五八代上漲3元至783元，逆市上漲擺脫昨日回撥弱勢；青花汾20上漲1元至378元，小幅回升，但依然處在過去一個月的最低點附近；水晶劍南春上漲2元至401元，收復400元關口，但預計後市這一價位的攻守將相當激烈。下跌端，飛天茅臺的零售均價下跌3元至1770元，連續第二天下滑，雙十一市場抑價促量的壓力持續；精品茅臺下跌4元至2425元，再次創下近30天新低，11月11日起，包括精品茅臺在內的16款貴州茅臺酒產品在i茅臺上將採用全天動態補貨的模式投放，目前其售價為2359元/瓶；五糧液1618下跌1元至816元，兩連陰再創近30天最低紀錄；國窖1573下跌2元至858元，連續八天非跌即平，其中六天創或平過去一個月來最低值；洋河夢之藍M6+大跌7元至580元，過去兩天的漲幅悉數吐出，再創過去30天低點；古井貢古20亦大跌7元至510元，與M6+一道淪為今日跌幅最重的單品；習酒君品下跌4元至610元，兩連跌連創過去一個月以來的最低紀錄，所幸今日跌幅略有縮減，而昨日其跌幅達到10元之多；青花郎下跌6元至663元，兩日跌幅均達到6元，創下30天以來新低。持平方面，茅臺1935的零售均價維持在685元，繼續在近30天以來的高位區間休整。\n\n今日12大單品的終端零售總價再度大幅下挫，洋河夢之藍M6+、古井貢古20、青花郎的跌幅都達到或超過6元，導致整體價盤賣壓沉重。如果12大單品各取一瓶整體打包售賣，今日總售價為10479元，較昨日重跌28元，連續兩天創下今年9月中旬以來的近兩個月新低。"
+    },
+    {
+      "id": "mkt:01a1c81c-d0d4-7bbc-ab97-55e052c080cb",
+      "time": "2026-11-11 08:58:13",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "【Vice Minister Liao Min attends CNY 4 bln green sovereign bond issuance in Toronto】On Nov. 9 local time, China’s Ministry of Finance, acting for the central government, issued CNY 4 bln of RMB-denominated green sovereign bonds in Toronto — the first RMB green sovereign issuance in Canada. A ceremony was held at the Toronto Stock Exchange on Nov. 10, attended by Vice Minister Liao Min."
+    },
     {
       "id": "mkt:01a1c81b-ef34-7bbc-ab97-48d5a5ebfce5",
       "time": "2026-11-11 08:57:16",
@@ -163,6 +430,14 @@
         "公司"
       ],
       "text": "【湖北國光華中研發總部落戶光谷 佈局量子晶片中試線】據“中國光谷”公眾號訊息，近日，湖北中科國光量子科技有限公司（簡稱“湖北國光”）與光谷現代服務業園簽署投資合作協議，將在光谷投資約1億元，建設華中研發總部，佈局量子晶片中試線、整機裝配線以及區域運維、人才孵化，將其打造成中部量子產業綜合體。"
+    },
+    {
+      "id": "5207141",
+      "time": "2026-11-11 08:40:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【吉姆·喬丹擔任下一屆美國國會眾議院共和黨領袖 】美國共和黨人週二選出參議院多數黨領袖圖恩(John Thune)和眾議院司法委員會主席喬丹(Jim Jordan)，領導該黨對抗將於明年1月掌權的民主黨國會。特朗普總統任期最後兩年，面臨民主黨掌控國會的局面。參議院共和黨人在一場閉門會議中以鼓掌方式推舉圖恩擔任領袖，其任務是負責阻撓共和黨不認可的民主黨政策。“明年這裡將不再由我們掌管，”圖恩對記者表示，“但可以肯定的是，在未來所有立法工作中...我們會非常積極維護保守派的優先議題。"
     },
     {
       "id": "te:economy:600184",
