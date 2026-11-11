@@ -1,7 +1,51 @@
 {
-  "updated": "2026-11-11 23:38:06",
-  "count": 10205,
+  "updated": "2026-11-11 23:42:05",
+  "count": 10202,
   "items": [
+    {
+      "id": "te:economy:600465",
+      "time": "2026-11-11 23:41:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Car Production",
+        "Importance 1"
+      ],
+      "text": "Brazil Vehicle Output Drops in October — Brazil’s vehicle production fell 5.1% month-over-month to 254.5 thousand units in October 2026, the lowest level since July, after a 1.1% decline in September. Light vehicle output dropped 5.3% to 241.7 thousand units, as passenger car production decreased 3.6% to 201.5 thousand and light commercial vehicles slumped 13% to 40.2 thousand. Truck production edged down 1.9% to 11.4 thousand units, while bus output was nearly flat at 1.4 thousand. Compared with October 2025, production rose 2.7%, as gains in passenger cars (9%) and trucks (12.2%) offset sharp drops in light commercials (-20.6%) and buses (-33.4%). In the first ten months of the year, output increased 8% from the same period of 2025 to about 2.42 million units. However, the sector continued to face external headwinds, with exports plunging 28.3% year-on-year in October, while registrations of imported vehicles jumped 22.3%."
+    },
+    {
+      "id": "5208698",
+      "time": "2026-11-11 23:40:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：已向部分客戶開放AWS南美區域，預計2026年底全面可用。"
+    },
+    {
+      "id": "5208697",
+      "time": "2026-11-11 23:40:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技將在智利推出首個雲基礎設施區域，投資超過40億美元。"
+    },
+    {
+      "id": "5208696",
+      "time": "2026-11-11 23:39:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "輕奢集團Capri Holdings任命雅詩蘭黛資深高管賈斯汀·博克斯福德為執行長。"
+    },
+    {
+      "id": "5208695",
+      "time": "2026-11-11 23:38:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥股市漲幅擴大至1.12%，創下72,702.20點的歷史新高。"
+    },
     {
       "id": "5208694",
       "time": "2026-11-11 23:36:35",
@@ -9,6 +53,24 @@
         "其他"
       ],
       "text": "伊拉克伊斯蘭抵抗組織通報，昨日有20架美軍軍機從約旦方向侵入伊拉克領空。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611113928782755",
+      "time": "2026-11-11 23:36:27",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【野村現預計美聯儲今年12月和明年3月各加息一次 因通脹高於預期】野村經濟學家AichiAmemiya、JeremySchwartz和RuchirSharma在11月10日的一份報告中寫道，在美國通脹資料高於預期後，該行目前預計美聯儲除12月加息外，還將在明年3月再次加息。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611113928782380",
+      "time": "2026-11-11 23:34:59",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲就紐約聯儲行長威廉姆斯2027年還是2028年離職展開辯論。"
     },
     {
       "id": "5208693",
@@ -93475,105 +93537,6 @@
         "MKT News"
       ],
       "text": "Vance said the defeat was caused by that war and the president admitted as much last night."
-    },
-    {
-      "id": "mkt:01a1a739-6716-7ee0-aa76-9eacd15e06ab",
-      "time": "2026-11-04 23:41:59",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. Vice President Vance said everyone knows why we lost; the reason for our defeat is war."
-    },
-    {
-      "id": "5193855",
-      "time": "2026-11-04 23:41:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我們落敗的原因是戰爭。"
-    },
-    {
-      "id": "5193854",
-      "time": "2026-11-04 23:41:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：所有人都知道我們為何落敗。"
-    },
-    {
-      "id": "mkt:01a1a738-2b1f-7ee0-aa76-9531d1e89f4f",
-      "time": "2026-11-04 23:40:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. Vice President Vance said he remains hopeful about the country."
-    },
-    {
-      "id": "mkt:01a1a737-ed2f-7ee0-aa76-8eecccb38fe8",
-      "time": "2026-11-04 23:40:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA report: U.S. distillate fuel inventories fell last week to their lowest level since May 2003."
-    },
-    {
-      "id": "mkt:01a1a737-b59f-7ee0-aa76-80f7b0256ab2",
-      "time": "2026-11-04 23:40:08",
-      "tags": [
-        "MKT News",
-        "SYF.O",
-        "Impact bearish",
-        "COF.O",
-        "BREAD.O"
-      ],
-      "text": "U.S. credit-card shares fell: Synchrony Financial down 3.2%, Capital One Financial down 3.5%, Bread Financial down 3.8%."
-    },
-    {
-      "id": "5193853",
-      "time": "2026-11-04 23:40:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我對我們國家仍抱有希望。"
-    },
-    {
-      "id": "5193852",
-      "time": "2026-11-04 23:39:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "美國信用卡公司股價下跌，Synchrony Financial下跌3.2%，Capital One Financial下跌3.5%，Bread Financial下跌3.8%。"
-    },
-    {
-      "id": "mkt:01a1a737-4d40-7ee0-aa76-78e57ce86d45",
-      "time": "2026-11-04 23:39:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "MMM.N"
-      ],
-      "text": "3M (MMM.N) shares hit an eight-year high, rising as much as 9.7%."
-    },
-    {
-      "id": "mkt:01a1a736-2716-7ee0-aa76-743b4a97881f",
-      "time": "2026-11-04 23:38:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "EIA report: U.S. Midwest gasoline inventories fell to a record low in the latest week."
     }
   ]
 }

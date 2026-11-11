@@ -1,7 +1,51 @@
 {
   "date": "2026-11-11",
-  "count": 1819,
+  "count": 1826,
   "items": [
+    {
+      "id": "te:economy:600465",
+      "time": "2026-11-11 23:41:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Car Production",
+        "Importance 1"
+      ],
+      "text": "Brazil Vehicle Output Drops in October — Brazil’s vehicle production fell 5.1% month-over-month to 254.5 thousand units in October 2026, the lowest level since July, after a 1.1% decline in September. Light vehicle output dropped 5.3% to 241.7 thousand units, as passenger car production decreased 3.6% to 201.5 thousand and light commercial vehicles slumped 13% to 40.2 thousand. Truck production edged down 1.9% to 11.4 thousand units, while bus output was nearly flat at 1.4 thousand. Compared with October 2025, production rose 2.7%, as gains in passenger cars (9%) and trucks (12.2%) offset sharp drops in light commercials (-20.6%) and buses (-33.4%). In the first ten months of the year, output increased 8% from the same period of 2025 to about 2.42 million units. However, the sector continued to face external headwinds, with exports plunging 28.3% year-on-year in October, while registrations of imported vehicles jumped 22.3%."
+    },
+    {
+      "id": "5208698",
+      "time": "2026-11-11 23:40:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：已向部分客戶開放AWS南美區域，預計2026年底全面可用。"
+    },
+    {
+      "id": "5208697",
+      "time": "2026-11-11 23:40:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技將在智利推出首個雲基礎設施區域，投資超過40億美元。"
+    },
+    {
+      "id": "5208696",
+      "time": "2026-11-11 23:39:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "輕奢集團Capri Holdings任命雅詩蘭黛資深高管賈斯汀·博克斯福德為執行長。"
+    },
+    {
+      "id": "5208695",
+      "time": "2026-11-11 23:38:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥股市漲幅擴大至1.12%，創下72,702.20點的歷史新高。"
+    },
     {
       "id": "5208694",
       "time": "2026-11-11 23:36:35",
@@ -9,6 +53,24 @@
         "其他"
       ],
       "text": "伊拉克伊斯蘭抵抗組織通報，昨日有20架美軍軍機從約旦方向侵入伊拉克領空。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611113928782755",
+      "time": "2026-11-11 23:36:27",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【野村現預計美聯儲今年12月和明年3月各加息一次 因通脹高於預期】野村經濟學家AichiAmemiya、JeremySchwartz和RuchirSharma在11月10日的一份報告中寫道，在美國通脹資料高於預期後，該行目前預計美聯儲除12月加息外，還將在明年3月再次加息。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611113928782380",
+      "time": "2026-11-11 23:34:59",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲就紐約聯儲行長威廉姆斯2027年還是2028年離職展開辯論。"
     },
     {
       "id": "5208693",
