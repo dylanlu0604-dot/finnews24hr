@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-12 00:17:55",
-  "count": 10174,
+  "updated": "2026-11-12 00:21:52",
+  "count": 10172,
   "items": [
+    {
+      "id": "5208724",
+      "time": "2026-11-12 00:19:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【集安組織取消亞美尼亞投票權和組織內職務提名權】集體安全條約組織（集安組織）集體安全理事會會議11日在俄羅斯首都莫斯科舉行。會議決定取消亞美尼亞在該組織的投票權，並暫停提名亞美尼亞公民在組織內擔任職務。（新華社）"
+    },
+    {
+      "id": "5208723",
+      "time": "2026-11-12 00:17:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：美國—以色列的非法侵略行為對伊朗造成了嚴重環境破壞。"
+    },
     {
       "id": "5208722",
       "time": "2026-11-12 00:15:39",
@@ -93179,43 +93195,6 @@
         "Importance 1"
       ],
       "text": "Verizon Shares Hit 4-week High — Verizon shares increased to 46.55 USD, the highest since October 2026. Over the past 4 weeks, Verizon gained 1.16%, and in the last 12 months, it increased 16.86%."
-    },
-    {
-      "id": "mkt:01a1a75d-73ef-7ee0-aa77-34cf5ebb7ba3",
-      "time": "2026-11-05 00:21:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The U.S. will extend the national emergency with respect to Iran through November 2027."
-    },
-    {
-      "id": "mkt:01a1a75b-8481-7ee0-aa77-2cbad4bdbcfe",
-      "time": "2026-11-05 00:19:15",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "Nikkei reports Japan wants US tech companies to share undisclosed software vulnerabilities as risks rise."
-    },
-    {
-      "id": "5193890",
-      "time": "2026-11-05 00:18:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國延長與伊朗相關的國家緊急狀態令。"
-    },
-    {
-      "id": "5193889",
-      "time": "2026-11-05 00:18:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國延長與尼加拉瓜相關的國家緊急狀態令。"
     }
   ]
 }
