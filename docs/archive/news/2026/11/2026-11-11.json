@@ -1,7 +1,68 @@
 {
   "date": "2026-11-11",
-  "count": 823,
+  "count": 830,
   "items": [
+    {
+      "id": "5207242",
+      "time": "2026-11-11 09:51:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【PCB概念延續反彈 四會富仕漲超10%】PCB概念延續此前反彈，四會富仕漲超10%，迅捷興、滬電股份、金百澤、方邦股份、景旺電子漲超5%。"
+    },
+    {
+      "id": "5207241",
+      "time": "2026-11-11 09:51:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "元件板塊持續走高，滬電股份、東山精密、景旺電子、世運電路紛紛走高。"
+    },
+    {
+      "id": "mkt:01a1c84d-bfaa-7bbc-ab98-c377007eff99",
+      "time": "2026-11-11 09:51:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "PCB-related A-shares rallied again, with Guangyang posting a third consecutive daily limit-up and hitting a record high; Sihui Fushi, Jeput, Xunjiexing, Dongshan Precision and Hudian each rose more than 5%."
+    },
+    {
+      "id": "5207240",
+      "time": "2026-11-11 09:50:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華新科技等在內蒙古成立環保科技發展公司】企查查APP顯示，近日，華新潤啟（內蒙古）環保科技發展有限公司成立，經營範圍包含：光伏裝置及元器件銷售；玻璃製造；發電機及發電機組製造；資源再生利用技術研發等。企查查股權穿透顯示，該公司由華新科技等共同持股。"
+    },
+    {
+      "id": "5207239",
+      "time": "2026-11-11 09:50:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本首相高市：預計日本央行將實施適當的貨幣政策，以可持續、穩定地實現其 2% 的物價目標"
+    },
+    {
+      "id": "5207238",
+      "time": "2026-11-11 09:50:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼最新一期熊貓債券發行募資 100 億元人民幣。"
+    },
+    {
+      "id": "mkt:01a1c84c-3fe2-7bbc-ab98-bf169e83b001",
+      "time": "2026-11-11 09:50:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Takaichi expects the Bank of Japan to implement appropriate monetary policy to sustainably and stably achieve a 2% inf target."
+    },
     {
       "id": "mkt:01a1c84b-423d-7bbc-ab98-b789f9eeb7b2",
       "time": "2026-11-11 09:48:57",
