@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-12 00:09:51",
-  "count": 10176,
+  "updated": "2026-11-12 00:13:52",
+  "count": 10174,
   "items": [
+    {
+      "id": "5208720",
+      "time": "2026-11-12 00:11:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：儘管面臨嚴厲制裁以及無法獲得國際金融資源和技術，伊朗仍堅持推進減少溫室氣體排放和發展清潔能源。"
+    },
     {
       "id": "5208719",
       "time": "2026-11-12 00:09:16",
@@ -93214,38 +93222,6 @@
         "Impact mixed"
       ],
       "text": "Swiss Federal Council approved the EU's 21st package of sanctions against Russia."
-    },
-    {
-      "id": "5193887",
-      "time": "2026-11-05 00:13:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國參議院少數黨領袖舒默和民主黨參議院競選委員會為密西西比州參議員競選派遣監督員。"
-    },
-    {
-      "id": "mkt:01a1a755-9127-7ee0-aa77-193ebe0fbe2b",
-      "time": "2026-11-05 00:12:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【European Commission unveils 2027 work programme】The European Commission on Nov. 4 published its 2027 work programme, proposing measures to boost member-state competitiveness by deepening the single market, lowering energy costs and cutting administrative burdens. It plans coordinated action in 2027 to address high energy prices, further eliminate single-market barriers and establish a European Critical Raw Materials Company. The commission will table proposals to improve the savings and investment alliance and publish an AI deployment blueprint for healthcare, transport, agri-food, manufacturing, defence and aerospace. It also plans to step up defence investment and advance EU-Ukraine defence industrial cooperation to strengthen European defence capabilities."
-    },
-    {
-      "id": "5193885",
-      "time": "2026-11-05 00:10:48",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐盟委員會公佈2027年工作計劃】歐盟委員會4日公佈2027年工作計劃，提出透過深化單一市場、降低能源成本、減少行政負擔等措施提升歐盟國家經濟競爭力，加強國防安全、改善社會民生、應對氣候變化並擴大國際合作。計劃2027年協調行動應對高能源價格，消除單一市場壁壘，設立歐洲關鍵原材料公司，完善儲蓄與投資聯盟方案，提出人工智慧應用藍圖，推動其在醫療、交通、農業食品、製造業、國防和航天等領域應用；繼續擴大國防投資，推進與烏克蘭國防工業合作，加強外部邊境安全，推動申根簽證制度現代化；提出歐洲水資源倡議和歐洲熱浪應對計劃；深化與加拿大等夥伴戰略合作，繼續支援烏克蘭；與歐元集團和歐洲央行合作加強歐元國際作用，推動數字歐元相關立法談判。（新華社）"
     }
   ]
 }
