@@ -1,7 +1,61 @@
 {
-  "updated": "2026-11-11 15:36:21",
-  "count": 10499,
+  "updated": "2026-11-11 15:40:15",
+  "count": 10490,
   "items": [
+    {
+      "id": "mkt:01a1c98c-59c6-7bbc-ab9e-d6d90a41b5d6",
+      "time": "2026-11-11 15:39:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Iran military warns US, Israel of more lethal strikes if they miscalculate again】Iran’s armed forces chief of staff and Khatam al-Anbiya Central Command commander said in a letter to the IRGC Aerospace Force commander that any positions posing an existential threat to Iran would be direct targets of asymmetric strikes. He warned the United States and Israel that prior hits were only the beginning and that any new miscalculation would be met with far more lethal attacks, a threat he characterized as credible and within Iran’s current operational capabilities."
+    },
+    {
+      "id": "5207722",
+      "time": "2026-11-11 15:38:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【印度股票型基金10月資金流入環比下降14%】印度共同基金協會資料顯示，印度投資者10月股票基金買入規模較上月回落。10月股票型基金淨流入3300億盧比（摺合35億美元），較9月下降約14%。債券基金實現淨流入1.13萬億盧比，9月為淨流出1.83萬億盧比。流動性基金淨流入7053億盧比；貨幣市場基金淨流入150億盧比。同時投資股票與債券的混合基金淨流入351億盧比；小盤股基金淨流入641億盧比，9月為904億盧比。黃金ETF獲347億盧比資金流入，股票ETF淨流入1297億盧比，白銀ETF淨流入309億盧比。"
+    },
+    {
+      "id": "5207721",
+      "time": "2026-11-11 15:38:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福建高速：控股股東首次增持公司股份 增持金額621.63萬元】福建高速公告稱，公司控股股東福建省高速公路集團有限公司於2026年11月10日透過集中競價方式增持公司股份170.31萬股，佔總股本的0.0621%，增持成交總額621.63萬元（不含稅費）。此前省高速集團披露擬自2026年9月18日起12個月內增持公司股份，增持金額不低於1.3億元、不超過2.3億元，增持比例不超過總股本的2%。本次增持為首次增持，後續將繼續按計劃推進，增持計劃實施存在不及預期的風險。"
+    },
+    {
+      "id": "5207720",
+      "time": "2026-11-11 15:38:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞基準毛棕櫚油期貨上漲3.03%，至每公噸4,385林吉特。"
+    },
+    {
+      "id": "5207719",
+      "time": "2026-11-11 15:36:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立昂微：控股股東王敏文解除質押2400萬股股份】立昂微公告稱，公司控股股東王敏文質押給西藏信託有限公司的部分股權已辦理解除質押手續，本次解除質押股份2400萬股，佔其所持股份比例20.37%，佔公司總股本比例3.11%，解除質押時間為2026年11月10日。本次解質後，王敏文累計質押股份2500萬股，佔其所持公司股份數的21.22%，佔公司股份總數的3.24%。截至公告披露日，本次解除質押的股份尚無後續質押計劃。"
+    },
+    {
+      "id": "5207718",
+      "time": "2026-11-11 15:36:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中化國際：擬發行股份購買南通星辰100%股權】中化國際公告稱，公司擬以發行股份方式向藍星集團購買其持有的南通星辰100%股權，交易作價21.10億元，發行價格為3.51元/股，對應發行股份數量為60111.59萬股，佔發行後總股本的14.35%。藍星集團所獲股份鎖定期為36個月，滿足特定條件將延長6個月。本次交易構成關聯交易，不構成重大資產重組及重組上市，設有業績及減值補償承諾。本次交易尚需中國證監會註冊，能否獲批存在不確定性。"
+    },
     {
       "id": "5207717",
       "time": "2026-11-11 15:34:24",
@@ -96403,135 +96457,6 @@
         "國際"
       ],
       "text": "美國標普500 E-MINI期貨下跌0.1%，納斯達克100期貨下跌0.3%，道指期貨上漲0.2%。"
-    },
-    {
-      "id": "5192651",
-      "time": "2026-11-04 15:39:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：《聯合國氣候變化框架公約》第三十一次締約方大會即將在土耳其安塔利亞舉行】11月4日，外交部發言人毛寧主持例行記者會。總檯央視記者提問：中方剛剛釋出了韓正副主席將作為習近平主席特別代表赴土耳其出席《聯合國氣候變化框架公約》第三十一次締約方大會安塔利亞領導人峰會的訊息，能否進一步介紹相關情況，中方對此次峰會有何期待？毛寧介紹，《聯合國氣候變化框架公約》第三十一次締約方大會即將在土耳其安塔利亞舉行。今年《巴黎協定》進入第二個十年，本次大會將主要討論如何在新一個十年強化實施、加速行動、促進合作。中方願同各方攜手努力，堅定維護多邊主義，全面落實《聯合國氣候變化框架公約》及其《巴黎協定》，強化氣候務實行動，助力大會取得成功。（央視新聞）"
-    },
-    {
-      "id": "5192650",
-      "time": "2026-11-04 15:39:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿布扎比國家石油公司：阿布扎比國家石油公司貿易公司與科思創簽署框架合作協議。"
-    },
-    {
-      "id": "5192649",
-      "time": "2026-11-04 15:38:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美眾議長稱輸中期選舉是歷史規律】當地時間11月3日晚，美國媒體預測民主黨在中期選舉中大獲全勝，重奪參眾兩院控制權。對此，美國國會眾議院議長、共和黨人約翰遜表示，過去90年裡，現任總統能在任期前兩年內為本黨增加或保住席位的情況只出現過兩次。他直言，“今晚歷史規律似乎仍將延續。”約翰遜同時表示，如果民主黨人將未來兩年變成關於報復、法律戰以及黨派博弈的鬧劇，會傷害到所有美國人，眾議院共和黨人將構成“防火牆”，確保這種情況不會發生。 （CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a1a57e-ce89-7ee0-aa65-609f903ed429",
-      "time": "2026-11-04 15:38:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Abu Dhabi National Oil Company (ADNOC) and the Japan Bank for International Cooperation (JBIC) signed an agreement securing $1 billion in green financing."
-    },
-    {
-      "id": "5192648",
-      "time": "2026-11-04 15:38:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達10億港元。"
-    },
-    {
-      "id": "mkt:01a1a57e-9457-7ee0-aa65-5ba477499d96",
-      "time": "2026-11-04 15:38:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's anti-corruption police said senior officials in the security service, the national police and the prosecutor's office are implicated in a major fraud case."
-    },
-    {
-      "id": "5192647",
-      "time": "2026-11-04 15:38:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "阿布扎比國家石油公司（ADNOC）：與日本國際協力銀行簽署協議，獲得10億美元綠色融資。"
-    },
-    {
-      "id": "5192646",
-      "time": "2026-11-04 15:37:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【志邦家居：2026年前三季度營收24.41億元 同比降20.60%】志邦家居公告稱，2026年1~9月公司實現營業收入24.41億元，同比減少20.60%；淨虧損1.94億元，較上年同期由盈轉虧。業績下滑主要系定製家居行業市場競爭加劇，業務規模下滑、毛利下降所致。中誠信國際維持公司主體及“志邦轉債”信用等級為AA，評級展望穩定，認為短期內公司整體經營業績仍面臨一定壓力，將持續關注相關事項對公司信用水平的影響。"
-    },
-    {
-      "id": "5192645",
-      "time": "2026-11-04 15:37:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭反腐敗警察表示，安全域性、警察和檢察院的高階官員參與了一起重大欺詐案件。"
-    },
-    {
-      "id": "5192644",
-      "time": "2026-11-04 15:37:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "三井物產執行長：無論美國中期選舉結果如何，我們預計商業環境仍將高度不確定。"
-    },
-    {
-      "id": "5192643",
-      "time": "2026-11-04 15:37:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版實時資料，截至11月4日15時36分，影片《什麼意思夫婦》票房突破4億。"
-    },
-    {
-      "id": "te:economy:597991",
-      "time": "2026-11-04 15:37:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hungary",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Hungary Industrial Output Growth Eases in September — Industrial production in Hungary grew by 8.2% year-on-year in September 2026, easing from an 8.7% increase in the previous month, according to preliminary estimates. Growth was supported by higher output across most manufacturing sub-sectors, particularly vehicle manufacturing, computer, electronic and optical product manufacturing, and electrical equipment manufacturing. In contrast, production declined in the food, beverage and tobacco industries. On a seasonally and working-day adjusted monthly basis, industrial output rose by 0.9% in September, following a 1.1% increase in August. For the January to September period, industrial production was 4.0% higher than in the corresponding period of the previous year."
-    },
-    {
-      "id": "5192642",
-      "time": "2026-11-04 15:37:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉利、湖州國資等成立遠醇航運公司】企查查APP顯示，近日，湖州遠醇航運有限公司成立，法定代表人為張強，註冊資本4000萬，經營範圍包含：水路普通貨物運輸；國內船舶管理業務；船舶設計；國內貨物運輸代理；海上國際貨物運輸代理等。企查查股權穿透顯示，該公司由吉利旗下浙江遠端新能源商用車集團有限公司、湖州市低空產業發展有限公司、湖州南潯交通實業發展集團有限公司共同持股。"
-    },
-    {
-      "id": "5192641",
-      "time": "2026-11-04 15:36:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金山辦公與阿曼簽署合作諒解備忘錄】11月2日，阿曼交通、通訊與資訊科技部、阿曼國家電信公司與北京金山辦公軟體股份有限公司在北京共同簽署合作諒解備忘錄。三方將在阿曼公共部門數字辦公領域開展深度合作。"
-    },
-    {
-      "id": "5192640",
-      "time": "2026-11-04 15:36:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "斯柯達汽車：如果俄羅斯國家隊參加冰球世錦賽，將重新評估是否參與該賽事。"
     }
   ]
 }

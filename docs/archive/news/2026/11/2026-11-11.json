@@ -1,7 +1,61 @@
 {
   "date": "2026-11-11",
-  "count": 1263,
+  "count": 1269,
   "items": [
+    {
+      "id": "mkt:01a1c98c-59c6-7bbc-ab9e-d6d90a41b5d6",
+      "time": "2026-11-11 15:39:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Iran military warns US, Israel of more lethal strikes if they miscalculate again】Iran’s armed forces chief of staff and Khatam al-Anbiya Central Command commander said in a letter to the IRGC Aerospace Force commander that any positions posing an existential threat to Iran would be direct targets of asymmetric strikes. He warned the United States and Israel that prior hits were only the beginning and that any new miscalculation would be met with far more lethal attacks, a threat he characterized as credible and within Iran’s current operational capabilities."
+    },
+    {
+      "id": "5207722",
+      "time": "2026-11-11 15:38:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【印度股票型基金10月資金流入環比下降14%】印度共同基金協會資料顯示，印度投資者10月股票基金買入規模較上月回落。10月股票型基金淨流入3300億盧比（摺合35億美元），較9月下降約14%。債券基金實現淨流入1.13萬億盧比，9月為淨流出1.83萬億盧比。流動性基金淨流入7053億盧比；貨幣市場基金淨流入150億盧比。同時投資股票與債券的混合基金淨流入351億盧比；小盤股基金淨流入641億盧比，9月為904億盧比。黃金ETF獲347億盧比資金流入，股票ETF淨流入1297億盧比，白銀ETF淨流入309億盧比。"
+    },
+    {
+      "id": "5207721",
+      "time": "2026-11-11 15:38:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福建高速：控股股東首次增持公司股份 增持金額621.63萬元】福建高速公告稱，公司控股股東福建省高速公路集團有限公司於2026年11月10日透過集中競價方式增持公司股份170.31萬股，佔總股本的0.0621%，增持成交總額621.63萬元（不含稅費）。此前省高速集團披露擬自2026年9月18日起12個月內增持公司股份，增持金額不低於1.3億元、不超過2.3億元，增持比例不超過總股本的2%。本次增持為首次增持，後續將繼續按計劃推進，增持計劃實施存在不及預期的風險。"
+    },
+    {
+      "id": "5207720",
+      "time": "2026-11-11 15:38:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞基準毛棕櫚油期貨上漲3.03%，至每公噸4,385林吉特。"
+    },
+    {
+      "id": "5207719",
+      "time": "2026-11-11 15:36:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立昂微：控股股東王敏文解除質押2400萬股股份】立昂微公告稱，公司控股股東王敏文質押給西藏信託有限公司的部分股權已辦理解除質押手續，本次解除質押股份2400萬股，佔其所持股份比例20.37%，佔公司總股本比例3.11%，解除質押時間為2026年11月10日。本次解質後，王敏文累計質押股份2500萬股，佔其所持公司股份數的21.22%，佔公司股份總數的3.24%。截至公告披露日，本次解除質押的股份尚無後續質押計劃。"
+    },
+    {
+      "id": "5207718",
+      "time": "2026-11-11 15:36:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中化國際：擬發行股份購買南通星辰100%股權】中化國際公告稱，公司擬以發行股份方式向藍星集團購買其持有的南通星辰100%股權，交易作價21.10億元，發行價格為3.51元/股，對應發行股份數量為60111.59萬股，佔發行後總股本的14.35%。藍星集團所獲股份鎖定期為36個月，滿足特定條件將延長6個月。本次交易構成關聯交易，不構成重大資產重組及重組上市，設有業績及減值補償承諾。本次交易尚需中國證監會註冊，能否獲批存在不確定性。"
+    },
     {
       "id": "5207717",
       "time": "2026-11-11 15:34:24",
