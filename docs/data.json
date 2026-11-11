@@ -1,7 +1,62 @@
 {
-  "updated": "2026-11-11 09:12:31",
-  "count": 10545,
+  "updated": "2026-11-11 09:16:17",
+  "count": 10541,
   "items": [
+    {
+      "id": "mkt:01a1c82c-9091-7bbc-ab97-a40b4407461e",
+      "time": "2026-11-11 09:15:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.85% at 24,368, trading 194 points below the cash index."
+    },
+    {
+      "id": "5207176",
+      "time": "2026-11-11 09:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7191元。"
+    },
+    {
+      "id": "5207175",
+      "time": "2026-11-11 09:15:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "豆粕連續主力合約日內漲3%，現報3166.00元。"
+    },
+    {
+      "id": "5207174",
+      "time": "2026-11-11 09:15:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.90%，報24360.10點，低水196.94點。"
+    },
+    {
+      "id": "5207173",
+      "time": "2026-11-11 09:13:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞林吉特兌美元走弱至 4.066，為 11 月 4 日以來最低水平。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611113928139835",
+      "time": "2026-11-11 09:11:58",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【CPI砸崩美債！華爾街將美聯儲“暴力加息”納入定價】對於前段時間因科技股暴跌而湧入美債避險的投資者而言，本週二的行情無異於一場晴天霹靂——由於美國10月CPI漲幅超出預期，且多位美聯儲官員警告稱央行可能需要更激進地加息，美債價格大幅下挫，長短端美債收益率全線飆升……"
+    },
     {
       "id": "mkt:01a1c828-7583-7bbc-ab97-9f9538ba855f",
       "time": "2026-11-11 09:10:57",
@@ -97007,95 +97062,6 @@
         "焦點"
       ],
       "text": "低硫燃料油連續主力合約日內跌6%，現報5418.00元。"
-    },
-    {
-      "id": "te:markets:597848",
-      "time": "2026-11-04 09:15:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Solar Energy Index Hits 6-week High — Solar Energy Index increased to 46.97 USD, the highest since September 2026. Over the past 4 weeks, Solar Energy Index gained 1.48%, and in the last 12 months, it decreased 14.46%."
-    },
-    {
-      "id": "5191874",
-      "time": "2026-11-04 09:15:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7180元，下調30點。"
-    },
-    {
-      "id": "mkt:01a1a41f-f77b-7ee0-aa59-0c1644a7fa1d",
-      "time": "2026-11-04 09:15:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures opened the day session down 0.75% at 23,334, trading 175 points below the cash index."
-    },
-    {
-      "id": "mkt:01a1a41f-f0d9-7ee0-aa59-01d7dc01263b",
-      "time": "2026-11-04 09:15:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Decision Desk HQ (DDHQ) projects Republican Mudi has won the Florida Senate seat; Democrat Booker has won the New Jersey Senate seat."
-    },
-    {
-      "id": "5191873",
-      "time": "2026-11-04 09:15:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌4%，現報4818.00元。"
-    },
-    {
-      "id": "5191872",
-      "time": "2026-11-04 09:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌0.68%，報23340.00點，低水185.97點。"
-    },
-    {
-      "id": "5191871",
-      "time": "2026-11-04 09:14:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "比特幣和以太坊均下跌1.4%；Solana下跌2%。"
-    },
-    {
-      "id": "5191870",
-      "time": "2026-11-04 09:14:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【納斯達克指數期貨下跌，民主黨在中期選舉初期保持領先】美國股指期貨跌幅擴大，因為早期跡象表明，民主黨在關鍵的美國參議院選情中勢頭強勁。全球市場瀰漫著避險情緒，亞洲股市普遍下跌，但美國科技股的前景主要取決於幾場關鍵選戰的結果。其中，得克薩斯州被視為決定人工智慧（AI）和資料中心建設未來走向的關鍵。甚至可以說，中期選舉對股市前景的影響可能完全取決於該州的選情。在早盤交易中，“拋售科技股、買入美國國債”成為了明確的避險和看空AI策略。"
-    },
-    {
-      "id": "mkt:01a1a41d-bcd8-7ee0-aa58-fa3511c1dfe5",
-      "time": "2026-11-04 09:12:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Decision Desk HQ (DDHQ) projects Democrat Chris Pappas has defeated Republican John Sununu to win New Hampshire's Democratic-held U.S. Senate seat."
-    },
-    {
-      "id": "5191869",
-      "time": "2026-11-04 09:12:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧德時代在鄂爾多斯成立資料科技公司 含AI業務】企查查APP顯示，近日，寧德時代資料科技（鄂爾多斯）有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；人工智慧應用軟體開發；人工智慧基礎軟體開發；機械電氣裝置製造等。企查查股權穿透顯示，該公司由寧德時代全資持股。"
     }
   ]
 }
