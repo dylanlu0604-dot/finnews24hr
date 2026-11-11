@@ -1,7 +1,45 @@
 {
   "date": "2026-11-12",
-  "count": 230,
+  "count": 234,
   "items": [
+    {
+      "id": "te:markets:600514",
+      "time": "2026-11-12 06:35:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Aluminum Alloy Gains by 1.42% — Top commodity gainers are Aluminum Alloy (1.42%) and Silicon (1.18%). Biggest losers are Gold (-1.10%) and Lithium Carbonate (-0.88%)."
+    },
+    {
+      "id": "5208935",
+      "time": "2026-11-12 06:33:44",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "AMD和博通股價盤後漲幅擴大至3%。"
+    },
+    {
+      "id": "5208934",
+      "time": "2026-11-12 06:32:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西銀行預計2026年信貸成本為800億至830億雷亞爾，此前預測為650億至700億雷亞爾。"
+    },
+    {
+      "id": "5208933",
+      "time": "2026-11-12 06:32:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西銀行預計全年調整後淨利潤為90億至110億雷亞爾。"
+    },
     {
       "id": "te:markets:600513",
       "time": "2026-11-12 06:30:14",
