@@ -1,7 +1,40 @@
 {
-  "updated": "2026-11-12 00:41:33",
-  "count": 10146,
+  "updated": "2026-11-12 00:45:41",
+  "count": 10143,
   "items": [
+    {
+      "id": "5208749",
+      "time": "2026-11-12 00:44:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "斯托克歐洲600指數創8月以來首個收盤紀錄新高。"
+    },
+    {
+      "id": "5208748",
+      "time": "2026-11-12 00:43:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲7%】費城半導體指數日內漲7.00%，現報10698.40點。英偉達漲4.05%，博通漲6.66%，美光漲13.37%，英特爾漲9.68%，AMD漲7.46%，高通漲2.49%，臺積電漲4.70%，阿斯麥漲3.52%。"
+    },
+    {
+      "id": "5208747",
+      "time": "2026-11-12 00:42:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長兼談判代表團團長卡利巴夫：我們準備協助沙烏地阿拉伯和胡塞武裝組織，在雙方提出請求時幫助化解彼此間的分歧。"
+    },
+    {
+      "id": "5208746",
+      "time": "2026-11-12 00:41:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長兼談判代表團團長卡利巴夫：我們就霍爾木茲海峽的航道及交通分隔系統與阿曼達成共識。"
+    },
     {
       "id": "5208745",
       "time": "2026-11-12 00:40:52",
@@ -92858,73 +92891,6 @@
         "市場"
       ],
       "text": "WTI原油日內跌7%，現報89.29美元/桶。"
-    },
-    {
-      "id": "5193920",
-      "time": "2026-11-05 00:45:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普尚未決定撤換赫格塞斯，德桑蒂斯被認為是赫格塞斯可能的繼任者。"
-    },
-    {
-      "id": "5193919",
-      "time": "2026-11-05 00:43:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國總統特朗普正在徵詢顧問意見，討論美國國防部長赫格塞斯是否應當離職。"
-    },
-    {
-      "id": "mkt:01a1a771-907e-7ee0-aa77-cc4971db4523",
-      "time": "2026-11-05 00:43:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CBS, citing sources, says President Trump is asking advisers whether U.S. Defense Secretary Hegseth should resign."
-    },
-    {
-      "id": "te:markets:598251",
-      "time": "2026-11-05 00:43:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Rise the Most in 6 Months — European stocks rallied on Wednesday, with the Euro Stoxx 50 climbing 2.3% and the broader Stoxx 600 gaining nearly 2%, marking their strongest advances since May 6. The gains followed the US midterm elections, in which Democrats secured control of both chambers of Congress, prompting a broad improvement in risk appetite. Banks, luxury companies and renewable energy stocks led the advance, supported by falling bond yields and expectations that the new political balance could constrain the Trump administration’s fiscal agenda. Renewable energy shares outperformed, with Orsted rising 5% and Vestas gaining 3.1%, as the Democratic victory was seen as supportive of clean-energy investment. In contrast, defence stocks lagged amid expectations that congressional control could limit increases in US military spending and influence European defence investment."
-    },
-    {
-      "id": "mkt:01a1a770-cb4b-7ee0-aa77-c0e6b56fa36c",
-      "time": "2026-11-05 00:42:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold climbed to $4,060/oz, up 3.31% intraday."
-    },
-    {
-      "id": "5193918",
-      "time": "2026-11-05 00:42:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4060美元/盎司，日內漲3.33%。"
-    },
-    {
-      "id": "5193917",
-      "time": "2026-11-05 00:41:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌7%，現報628.80元。"
     }
   ]
 }
