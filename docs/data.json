@@ -1,7 +1,44 @@
 {
-  "updated": "2026-11-11 09:08:43",
-  "count": 10546,
+  "updated": "2026-11-11 09:12:31",
+  "count": 10545,
   "items": [
+    {
+      "id": "mkt:01a1c828-7583-7bbc-ab97-9f9538ba855f",
+      "time": "2026-11-11 09:10:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 2-year bond yield rose 7 bps to 1.845%."
+    },
+    {
+      "id": "5207172",
+      "time": "2026-11-11 09:10:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率上漲7.0個基點至1.845%。"
+    },
+    {
+      "id": "5207171",
+      "time": "2026-11-11 09:09:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百圖生科與瑞孚迪達成戰略合作 共建AI4S研發體系】據百圖生科訊息，11月6日，百圖生科與瑞孚迪正式簽署戰略合作協議，雙方將圍繞AI4S（AI for Science）開展深度合作，融合人工智慧、生物計算與自動化實驗，推動AI賦能生命科學，加速科學發現、實驗驗證與產業創新。"
+    },
+    {
+      "id": "5207170",
+      "time": "2026-11-11 09:08:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東莞信託有限公司原董事張孟軍嚴重違紀違法被開除黨籍】東莞市紀委監委11月11日通報，東莞市紀委監委對東莞信託有限公司原董事張孟軍嚴重違紀違法問題進行了立案審查調查。經查，張孟軍喪失理想信念，背棄初心使命，廉潔底線失守，違規收受禮金，違規從事營利活動，為謀取不正當利益給予國家工作人員以財物；將公權力異化為謀取個人私利的工具，侵吞公共財物；搞權錢交易，利用職務便利為他人在辦理銀行貸款業務等方面謀利，並非法收受鉅額財物。張孟軍嚴重違反黨的廉潔紀律，構成嚴重職務違法並涉嫌貪汙、受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》等有關規定，經東莞市紀委常委會會議研究，決定給予張孟軍開除黨籍處分；收繳其違紀違法所得；將其涉嫌職務犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
+    },
     {
       "id": "mkt:01a1c825-b9c6-7bbc-ab97-94b3fdd11eef",
       "time": "2026-11-11 09:07:57",
@@ -97059,54 +97096,6 @@
         "公司"
       ],
       "text": "【寧德時代在鄂爾多斯成立資料科技公司 含AI業務】企查查APP顯示，近日，寧德時代資料科技（鄂爾多斯）有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；人工智慧應用軟體開發；人工智慧基礎軟體開發；機械電氣裝置製造等。企查查股權穿透顯示，該公司由寧德時代全資持股。"
-    },
-    {
-      "id": "mkt:01a1a41c-f7b4-7ee0-aa58-f63edbeae7f3",
-      "time": "2026-11-04 09:12:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "SC crude main contract down more than 2.00% intraday at 681.00 yuan/barrel."
-    },
-    {
-      "id": "5191868",
-      "time": "2026-11-04 09:11:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【曦智科技啟動A股IPO輔導】證監會網站披露，上海曦智科技股份有限公司（簡稱“曦智科技”）於2026年11月3日在上海證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為國泰海通證券。輔導備案報告顯示，截至2026年11月2日，曦智科技股權較為分散，無控股股東。其中，上海有光熠輝企業管理合夥企業(有限合夥)持股9.13%，沈亦晨持股6.29%，上海有光致遠企業管理合夥企業(有限合夥)持股5.08%。"
-    },
-    {
-      "id": "5191867",
-      "time": "2026-11-04 09:11:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美股期貨跌幅擴大，納斯達克100指數期貨現跌1.3%。早期投票結果顯示，美國民主黨人在中期選舉中勢頭領先。據Decision Desk HQ預測，參議員Jon Ossoff將在佐治亞州參議院選舉中獲勝。民主黨人Cory Booker、Chris Pappas分別贏得新澤西州、新罕布什爾州參議員選舉。"
-    },
-    {
-      "id": "te:markets:597844",
-      "time": "2026-11-04 09:09:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Share Fall as Tech Rout Persists — The Nikkei 225 Index dropped 1.3% to below 63,300 on Wednesday as markets reopened after a holiday, with technology stocks facing renewed selling pressure amid lingering concerns over the sustainability of the AI trade. Japanese equities also followed declines in US futures as early election polls pointed to a possible Democratic takeover of the House of Representatives and possibly the Senate. Investors are concerned that a potential Democratic sweep could result in stricter AI regulations and greater corporate oversight. Given the significant exposure of Japanese companies to the global AI expansion, the sector remains particularly sensitive to shifts in investor sentiment. Technology and AI-related stocks led the losses, with sharp losses from Kioxia Holdings (-6.7%), Advantest (-4.2%), Tokyo Electron (-3.3%), Lasertec (-3%)a nd Taiyo Yuden (-9.6%)."
-    },
-    {
-      "id": "5191866",
-      "time": "2026-11-04 09:08:49",
-      "tags": [],
-      "text": "韓國綜合指數轉跌，此前一度漲超3％。日經225指數跌超2％。"
     }
   ]
 }
