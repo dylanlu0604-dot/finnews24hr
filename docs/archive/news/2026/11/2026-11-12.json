@@ -1,7 +1,42 @@
 {
   "date": "2026-11-12",
-  "count": 245,
+  "count": 248,
   "items": [
+    {
+      "id": "te:economy:600520",
+      "time": "2026-11-12 06:54:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "New Zealand Tourist Arrivals Climb in September — Overseas visitor arrivals to New Zealand rose 9% year on year to 272,969 in September 2026, picking up from an 8% increase in August. Australia and China led the growth. Arrivals from Australia reached 123,512 million, up 8%, while arrivals from China surged 38% to 94,068. Together, the two countries accounted for almost three-quarters of the total increase. Arrivals from the US were 9,219, a 2% rise and reaching a record high of 390,100 year-to-date. California accounted for the largest share of US arrivals specifying a state of residence, and more than two-thirds of US visitors cited a holiday as their main reason for travelling to New Zealand."
+    },
+    {
+      "id": "5208945",
+      "time": "2026-11-12 06:54:13",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【美加息預期強化，機構把脈金價走向】美國最新發布的通脹資料超出市場預期，不僅強化了市場對美聯儲貨幣政策的鷹派預期，也令國際黃金價格調整，失守4100美元/盎司關口。高盛等機構近日下調金價目標，但有觀點表示，全球央行購金與儲備多元化需求仍為黃金提供結構性支撐，短期承壓與中長期邏輯並存，市場正進入多空因素交織的觀察視窗。（中證報）"
+    },
+    {
+      "id": "te:markets:600519",
+      "time": "2026-11-12 06:53:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Extend Record High. — The NZX 50 climbed 58 points, or 0.4%, to a fresh record peak of 14,238 in Thursday morning trade, extending gains from the previous two sessions and tracking a rally on Wall Street overnight amid renewed optimism over AI stocks following strong results from CoreWeave. Almost all sectors traded in the green, including consumer staples, energy, industrials, and financials. However, rising oil prices pressured sentiment as inflation concerns and expectations of interest rate hikes intensified amid persistent Middle East tensions. Traders also continued to monitor coalition talks while awaiting the announcement of the final election results in November 2027. On the data front, New Zealand's visitor arrivals annual growth accelerated to 9.8% in September from 8% in August, while electronic card transactions continued to decline monthly. Among the top performers were Mainfreight (5.9%), A2 Milk (1.9%), F&C Investment (1.8%), Freightways Group (1.8%), Infratil (1.6%), and EBOS Group (1.4%)."
+    },
     {
       "id": "5208944",
       "time": "2026-11-12 06:47:39",
