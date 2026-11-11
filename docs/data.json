@@ -1,7 +1,59 @@
 {
-  "updated": "2026-11-11 23:42:05",
-  "count": 10202,
+  "updated": "2026-11-11 23:45:59",
+  "count": 10199,
   "items": [
+    {
+      "id": "5208703",
+      "time": "2026-11-11 23:44:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃尼執行長會見英國能源大臣，承諾在英國投資約110億英鎊。"
+    },
+    {
+      "id": "5208702",
+      "time": "2026-11-11 23:43:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯稱已在利雅得上空攔截三枚胡塞武裝巡航導彈。"
+    },
+    {
+      "id": "5208701",
+      "time": "2026-11-11 23:43:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數上漲2.1%，創盤中新高。"
+    },
+    {
+      "id": "5208700",
+      "time": "2026-11-11 23:43:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報告顯示中德企業合作向研發和生產製造領域延伸】德國中國商會和畢馬威德國11日在德國法蘭克福聯合釋出的《在德中資企業營商環境調查報告2026》顯示，德國仍是中國企業在歐洲開展生產投資的首選目的地，中德企業在研發和生產製造領域的合作也進一步深化。這是德國中國商會與畢馬威德國連續第二年聯合開展的在德中資企業營商環境調查，共有超過110家企業參與調查。報告顯示，40%的受訪企業預計未來12個月營業收入將增長，較上年下降3個百分點；43%的企業計劃增加員工人數，較上年下降2個百分點；30%的企業計劃擴大投資，與上年持平。報告說，德國仍是中國企業在歐洲進行生產投資的首選目的地，27%的受訪企業計劃未來五年內在德國進行生產領域投資。受訪企業看好的在德投資領域主要包括電池儲能系統、基礎設施以及工業和服務機器人等。報告指出，中德企業合作正進一步向研發和生產製造領域延伸。34%的受訪企業在德開展研發活動，28%的受訪企業與德企開展研發合作，26%的受訪企業與德企開展生產製造合作，三項佔比均較上年調查資料有所上升。(新華社)"
+    },
+    {
+      "id": "5208699",
+      "time": "2026-11-11 23:42:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所波動率指數跌至11月5日以來最低水平，最新下跌1.64點，報17.82。"
+    },
+    {
+      "id": "te:markets:600466",
+      "time": "2026-11-11 23:42:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Cuts Gains But Remains at Record — Frankfurt's DAX 40 pared its advance to trade around 26,575 on Wednesday, but remained at record levels, extending gains for the third day. Renewed enthusiasm for technology and AI-related stocks offset rising oil prices and concerns about interest rates. Meanwhile, the earnings season remains in focus. Tech stocks such as Infineon Technologies (+5.5%) provided the main boost, on the back of an upbeat outlook from CoreWeave and anticipation ahead of Anthropic's IPO. Siemens Energy surged over 8%, making it the top performer, after reporting record quarterly revenue, raising growth ambitions and expanding its share buyback programme. RWE rose 1.4% after saying its 2026 results are expected at the upper end of its guidance range, following a stronger-than-expected performance in the first nine months of the year. Among losers, Rheinmetall slippped 5.8%, while Brenntag dropped 3.2% as cost pressures and a slight profitability miss overshadowed broadly positive results."
+    },
     {
       "id": "te:economy:600465",
       "time": "2026-11-11 23:41:03",
@@ -93441,102 +93493,6 @@
         "國際"
       ],
       "text": "市場訊息：烏克蘭總統澤連斯基抵達西班牙，將在伊比利亞美洲峰會期間舉行高層會晤。"
-    },
-    {
-      "id": "mkt:01a1a73c-e334-7ee0-aa76-b1a9c73d67ad",
-      "time": "2026-11-04 23:45:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Philadelphia Semiconductor Index extended losses to 3%."
-    },
-    {
-      "id": "5193859",
-      "time": "2026-11-04 23:45:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數日內跌3%】費城半導體指數日內跌3.01%，現報10281.47點。英偉達跌1.62%，博通跌1.67%，美光跌4.91%，英特爾跌4.29%，AMD漲0.32%，高通漲2.29%，臺積電跌1.15%，阿斯麥跌3.23%。"
-    },
-    {
-      "id": "te:markets:598235",
-      "time": "2026-11-04 23:45:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Africa",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "South Africa 10-Year Bond Yield at Over 2-Month Low — South Africa’s 10-year government bond yield eased to near 8.60%, its lowest level since mid-August, benefiting from a broader improvement in global sentiment. The unexpected Democratic victory in both chambers of Congress and Trump's acceptance of the election reduced the prospect of sharp policy shifts, particularly concerning tariffs and Iran. For Pretoria, the election outcome also carries potential diplomatic implications, with President Cyril Ramaphosa viewing it as an opportunity to reset strained relations with Washington. Meanwhile, demand for domestic government debt remains underpinned by attractive yields, improving fiscal prospects, credible monetary policy and growing confidence in the country's economy. Attention is now focused on local elections, which are expected to test the ANC's support and could shape the country's politics."
-    },
-    {
-      "id": "mkt:01a1a73b-0d4a-7ee0-aa76-afb0be06a439",
-      "time": "2026-11-04 23:43:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA reported U.S. diesel stocks fell below 100 mln barrels, the lowest level since 2003."
-    },
-    {
-      "id": "5193857",
-      "time": "2026-11-04 23:43:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：與以色列的關係是共和黨失利的原因之一。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202611043922341967",
-      "time": "2026-11-04 23:43:11",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國柴油庫存已降至1億桶以下，為2003年以來的最低水平。"
-    },
-    {
-      "id": "te:markets:598234",
-      "time": "2026-11-04 23:43:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Western Digital Shares Hit 29-week Low — Western Digital shares decreased to 331.71 USD, the lowest since April 2026. Over the past 4 weeks, Western Digital lost 24.7%, and in the last 12 months, it increased 107.71%."
-    },
-    {
-      "id": "5193856",
-      "time": "2026-11-04 23:42:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國柴油庫存降至1億桶以下，為2003年以來最低水平。"
-    },
-    {
-      "id": "mkt:01a1a73a-0b8b-7ee0-aa76-a4f087a19ffc",
-      "time": "2026-11-04 23:42:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Vance said the defeat was caused by that war and the president admitted as much last night."
     }
   ]
 }

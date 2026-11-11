@@ -1,7 +1,59 @@
 {
   "date": "2026-11-11",
-  "count": 1826,
+  "count": 1832,
   "items": [
+    {
+      "id": "5208703",
+      "time": "2026-11-11 23:44:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃尼執行長會見英國能源大臣，承諾在英國投資約110億英鎊。"
+    },
+    {
+      "id": "5208702",
+      "time": "2026-11-11 23:43:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯稱已在利雅得上空攔截三枚胡塞武裝巡航導彈。"
+    },
+    {
+      "id": "5208701",
+      "time": "2026-11-11 23:43:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數上漲2.1%，創盤中新高。"
+    },
+    {
+      "id": "5208700",
+      "time": "2026-11-11 23:43:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報告顯示中德企業合作向研發和生產製造領域延伸】德國中國商會和畢馬威德國11日在德國法蘭克福聯合釋出的《在德中資企業營商環境調查報告2026》顯示，德國仍是中國企業在歐洲開展生產投資的首選目的地，中德企業在研發和生產製造領域的合作也進一步深化。這是德國中國商會與畢馬威德國連續第二年聯合開展的在德中資企業營商環境調查，共有超過110家企業參與調查。報告顯示，40%的受訪企業預計未來12個月營業收入將增長，較上年下降3個百分點；43%的企業計劃增加員工人數，較上年下降2個百分點；30%的企業計劃擴大投資，與上年持平。報告說，德國仍是中國企業在歐洲進行生產投資的首選目的地，27%的受訪企業計劃未來五年內在德國進行生產領域投資。受訪企業看好的在德投資領域主要包括電池儲能系統、基礎設施以及工業和服務機器人等。報告指出，中德企業合作正進一步向研發和生產製造領域延伸。34%的受訪企業在德開展研發活動，28%的受訪企業與德企開展研發合作，26%的受訪企業與德企開展生產製造合作，三項佔比均較上年調查資料有所上升。(新華社)"
+    },
+    {
+      "id": "5208699",
+      "time": "2026-11-11 23:42:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所波動率指數跌至11月5日以來最低水平，最新下跌1.64點，報17.82。"
+    },
+    {
+      "id": "te:markets:600466",
+      "time": "2026-11-11 23:42:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Cuts Gains But Remains at Record — Frankfurt's DAX 40 pared its advance to trade around 26,575 on Wednesday, but remained at record levels, extending gains for the third day. Renewed enthusiasm for technology and AI-related stocks offset rising oil prices and concerns about interest rates. Meanwhile, the earnings season remains in focus. Tech stocks such as Infineon Technologies (+5.5%) provided the main boost, on the back of an upbeat outlook from CoreWeave and anticipation ahead of Anthropic's IPO. Siemens Energy surged over 8%, making it the top performer, after reporting record quarterly revenue, raising growth ambitions and expanding its share buyback programme. RWE rose 1.4% after saying its 2026 results are expected at the upper end of its guidance range, following a stronger-than-expected performance in the first nine months of the year. Among losers, Rheinmetall slippped 5.8%, while Brenntag dropped 3.2% as cost pressures and a slight profitability miss overshadowed broadly positive results."
+    },
     {
       "id": "te:economy:600465",
       "time": "2026-11-11 23:41:03",
