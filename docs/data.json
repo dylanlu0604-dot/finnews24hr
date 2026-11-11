@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-12 00:13:52",
+  "updated": "2026-11-12 00:17:55",
   "count": 10174,
   "items": [
+    {
+      "id": "5208722",
+      "time": "2026-11-12 00:15:39",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "白宮官員：預計在辦公廳主任米勒的領導下將有更多政府人事變動。"
+    },
+    {
+      "id": "5208721",
+      "time": "2026-11-12 00:13:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌允許員工測試名為Hydrogen的新型“快速”Gemini人工智慧模型。"
+    },
     {
       "id": "5208720",
       "time": "2026-11-12 00:11:47",
@@ -93199,29 +93216,6 @@
         "國際"
       ],
       "text": "美國延長與尼加拉瓜相關的國家緊急狀態令。"
-    },
-    {
-      "id": "5193888",
-      "time": "2026-11-05 00:17:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：網路風險持續攀升，日本要求美國科技企業共享未公開的軟體漏洞。"
-    },
-    {
-      "id": "mkt:01a1a757-3fd3-7ee0-aa77-2566856d0603",
-      "time": "2026-11-05 00:14:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Brent",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "Swiss Federal Council approved the EU's 21st package of sanctions against Russia."
     }
   ]
 }
