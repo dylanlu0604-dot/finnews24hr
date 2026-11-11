@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-11 09:23:51",
-  "count": 10526,
+  "updated": "2026-11-11 09:27:35",
+  "count": 10521,
   "items": [
+    {
+      "id": "5207187",
+      "time": "2026-11-11 09:27:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊區域性高開，文投控股3連板】影視院線板塊區域性高開，文投控股3連板，慈文傳媒、上海電影高開。"
+    },
+    {
+      "id": "5207186",
+      "time": "2026-11-11 09:26:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股新股新荷花漲超27% 公開發售階段獲超2100倍認購】利弗莫爾證券顯示，截至發稿，新荷花(02206.HK)漲27.06%。根據公告，公開發售階段獲2190.99倍認購，國際配售階段獲1.25倍認購。"
+    },
+    {
+      "id": "mkt:01a1c835-e4ba-7bbc-ab97-c80955fd8503",
+      "time": "2026-11-11 09:25:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "XAUUSD"
+      ],
+      "text": "At the A-share open, the Shanghai Composite fell 0.22%, the Shenzhen Composite Index fell 0.32% and the ChiNext Index fell 0.17%. Film exhibition stocks extended gains; precious metals and semiconductor sectors opened lower."
+    },
+    {
+      "id": "5207185",
+      "time": "2026-11-11 09:25:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛利彼半導體啟動IPO輔導】證監會網站披露，愛利彼半導體裝置（上海）股份有限公司（以下簡稱“愛利彼半導體”）於2026年11月10日在上海證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為申萬宏源證券承銷保薦有限責任公司。"
+    },
+    {
+      "id": "5207184",
+      "time": "2026-11-11 09:25:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤齊跌，上證指數跌0.22%，深證成指跌0.32%，創業板指跌0.17%。"
+    },
     {
       "id": "te:markets:600198",
       "time": "2026-11-11 09:23:07",
@@ -96828,103 +96876,6 @@
         "公司"
       ],
       "text": "【浙商證券中標央行第三批互換便利操作40億元】從行業內獲悉，11月3日，浙商證券再度中標“證券、基金、保險公司互換便利(SFISF)”業務，中標費率為10bp，中標規模40億元。此前，浙商證券是首批獲得互換便利業務資格的20家金融機構之一，並於2024年10月28日完成互換便利業務首次操作。浙商證券相關負責人表示，將加快本次中標額度的使用和業務落地，與同業機構協同發力，共同傳遞積極訊號，為資本市場健康穩定發展貢獻浙商力量。(介面新聞)"
-    },
-    {
-      "id": "5191901",
-      "time": "2026-11-04 09:27:33",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【華泰證券積極參與第三批互換便利操作，助力資本市場穩定執行】據中國人民銀行11月3日公告，根據參與機構需求情況，中國人民銀行於2026年11月3日開展了證券、基金、保險公司互換便利（SFISF）操作。本次操作金額1000億元，採用費率招標方式，31家證券、基金公司參與投標，中標費率為10BP。華泰證券響應政策號召，積極參與第三批互換便利操作。華泰證券表示，將充分利用證券、基金、保險公司互換便利工具，發揮證券公司專業優勢，發揮耐心資本和穩定器作用，為資本市場穩定執行和健康發展作出積極貢獻。（介面新聞）"
-    },
-    {
-      "id": "5191900",
-      "time": "2026-11-04 09:27:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "DDHQ 預測，共和黨人巴爾贏得肯塔基州參議員選舉。"
-    },
-    {
-      "id": "5191899",
-      "time": "2026-11-04 09:26:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國民主黨候選人ROY COOPER擊敗共和黨候選人MICHAEL WHATLEY，贏得北卡羅來納州原由共和黨把持的美國參議院席位。"
-    },
-    {
-      "id": "5191898",
-      "time": "2026-11-04 09:25:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股三大股指開盤漲跌不一，上證指數跌0.08%，深證成指漲0.17%，創業板指漲0.33%。"
-    },
-    {
-      "id": "mkt:01a1a429-42df-7ee0-aa59-6ed408078958",
-      "time": "2026-11-04 09:25:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "At the A-share open, the Shanghai Composite was down 0.08%, the Shenzhen Composite was up 0.17%, and the ChiNext was up 0.33%."
-    },
-    {
-      "id": "mkt:01a1a429-3c6d-7ee0-aa59-61de00161294",
-      "time": "2026-11-04 09:25:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Decision Desk HQ (DDHQ) called the race: Roy Cooper defeated Republican challenger Michael Whatley to win the North Carolina Senate seat."
-    },
-    {
-      "id": "5191897",
-      "time": "2026-11-04 09:25:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破3970美元/盎司，日內漲0.75%。"
-    },
-    {
-      "id": "mkt:01a1a428-3fc9-7ee0-aa59-5a4c207ac43f",
-      "time": "2026-11-04 09:24:23",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI fell as much as 1.00% intraday."
-    },
-    {
-      "id": "mkt:01a1a428-1f58-7ee0-aa59-51cef831aa1c",
-      "time": "2026-11-04 09:24:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed",
-        "DXY",
-        "S&P500"
-      ],
-      "text": "Two-year U.S. Treasury yield fell 6 bps to 4.573%; Fed funds futures ticked slightly higher."
-    },
-    {
-      "id": "mkt:01a1a427-d00b-7ee0-aa59-4d627598e37d",
-      "time": "2026-11-04 09:23:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Where to park spare cash — money-market yield snapshot】Tencent Licaitong (demand+) 7-day annualized yield ranged 0.6990%–1.1040%. WeChat Balance (Lingqiantong) 7-day annualized yield ranged 0.7960%–1.0020%. Alipay Yu'ebao 7-day annualized yield ranged 0.9010%–1.0130%."
     }
   ]
 }

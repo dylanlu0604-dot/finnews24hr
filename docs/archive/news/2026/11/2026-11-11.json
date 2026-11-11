@@ -1,7 +1,55 @@
 {
   "date": "2026-11-11",
-  "count": 737,
+  "count": 742,
   "items": [
+    {
+      "id": "5207187",
+      "time": "2026-11-11 09:27:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊區域性高開，文投控股3連板】影視院線板塊區域性高開，文投控股3連板，慈文傳媒、上海電影高開。"
+    },
+    {
+      "id": "5207186",
+      "time": "2026-11-11 09:26:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股新股新荷花漲超27% 公開發售階段獲超2100倍認購】利弗莫爾證券顯示，截至發稿，新荷花(02206.HK)漲27.06%。根據公告，公開發售階段獲2190.99倍認購，國際配售階段獲1.25倍認購。"
+    },
+    {
+      "id": "mkt:01a1c835-e4ba-7bbc-ab97-c80955fd8503",
+      "time": "2026-11-11 09:25:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "XAUUSD"
+      ],
+      "text": "At the A-share open, the Shanghai Composite fell 0.22%, the Shenzhen Composite Index fell 0.32% and the ChiNext Index fell 0.17%. Film exhibition stocks extended gains; precious metals and semiconductor sectors opened lower."
+    },
+    {
+      "id": "5207185",
+      "time": "2026-11-11 09:25:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛利彼半導體啟動IPO輔導】證監會網站披露，愛利彼半導體裝置（上海）股份有限公司（以下簡稱“愛利彼半導體”）於2026年11月10日在上海證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為申萬宏源證券承銷保薦有限責任公司。"
+    },
+    {
+      "id": "5207184",
+      "time": "2026-11-11 09:25:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤齊跌，上證指數跌0.22%，深證成指跌0.32%，創業板指跌0.17%。"
+    },
     {
       "id": "te:markets:600198",
       "time": "2026-11-11 09:23:07",
