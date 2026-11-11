@@ -1,7 +1,144 @@
 {
   "date": "2026-11-11",
-  "count": 772,
+  "count": 787,
   "items": [
+    {
+      "id": "5207216",
+      "time": "2026-11-11 09:38:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光纖概念板塊拉昇，華脈科技漲停】光纖概念板塊拉昇，華脈科技漲停，太辰光、宇特光電、蘅東光、源傑科技、星網宇達跟漲。"
+    },
+    {
+      "id": "mkt:01a1c841-4ad0-7bbc-ab98-4d4b2049dc50",
+      "time": "2026-11-11 09:38:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share paper sector surged; Qingshan Paper jumped straight to its daily limit. Kaien Shares, Songyang Resources, Senlin Packaging, Yibin Paper and Hengda New Materials also advanced."
+    },
+    {
+      "id": "5207215",
+      "time": "2026-11-11 09:37:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克指數期貨漲1.01%，現報28115.120點；道瓊斯指數期貨漲0.24%，現報52440.420點；標普500指數期貨漲0.47%，現報7579.750點。"
+    },
+    {
+      "id": "5207214",
+      "time": "2026-11-11 09:37:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【造紙板塊直線拉昇，青山紙業直線漲停】造紙板塊直線拉昇，青山紙業直線漲停，凱恩股份、松煬資源、森林包裝、宜賓紙業、恆達新材跟漲。"
+    },
+    {
+      "id": "5207213",
+      "time": "2026-11-11 09:37:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股光通訊股走強 劍橋科技漲近9%】截至發稿，劍橋科技(06166.HK)漲8.60%、中際旭創(03308.HK)漲3.70%、華虹宏力(01347.HK)漲3.22%。"
+    },
+    {
+      "id": "mkt:01a1c840-2414-7bbc-ab98-43345a8c264a",
+      "time": "2026-11-11 09:36:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02525.HK",
+        "Impact bullish"
+      ],
+      "text": "Hesai-W (02525.HK) shares rose over 10% after the company reported Q3 2026 revenue of 1.068 bln yuan, up 34.3% YoY, and net profit of 80.8 mln yuan, down 68.5% YoY."
+    },
+    {
+      "id": "5207212",
+      "time": "2026-11-11 09:36:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念震盪反彈 劍橋科技封漲停】早盤CPO概念震盪反彈，劍橋科技封漲停，太辰光、源傑科技、新易盛、中際旭創等漲超5%。"
+    },
+    {
+      "id": "5207211",
+      "time": "2026-11-11 09:36:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國多車相撞致57人受傷】據韓國消防部門通報，當地時間今天（11月11日）早7時34分左右，一輛公交車在京畿道城南市盆唐區連續撞上30多輛等待紅綠燈的車輛，造成9人重傷，48人輕傷。事故發生時，一輛由60多歲男性駕駛的公交車在連續追尾了前方的4輛公交車、1輛貨車和27輛小轎車等32輛車後，撞上中央隔離帶後停了下來。由於相撞車輛中包含多輛公交車，導致多名乘客因衝擊而受傷，經確認，所有傷者都沒有致命傷。（CCTV國際時訊）"
+    },
+    {
+      "id": "5207210",
+      "time": "2026-11-11 09:35:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎石資本：劉宏巍辭任聯席主席及非執行董事】11月11日，鼎石資本在港交所公告，劉宏巍已提呈辭任本公司聯席主席及非執行董事，自2026年11月10日起生效。"
+    },
+    {
+      "id": "mkt:01a1c83f-38b1-7bbc-ab98-3cd457d54dc0",
+      "time": "2026-11-11 09:35:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI index rose 1.00% intraday."
+    },
+    {
+      "id": "mkt:01a1c83e-f970-7bbc-ab98-319823e83725",
+      "time": "2026-11-11 09:35:32",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share humanoid-robot segment rallied intraday; Fenglong Co. posted a third consecutive daily limit-up, Rifa Jingji hit the daily limit; Zhaofeng Co., Top Group, Ruineng Technology and Meili Technology also gained."
+    },
+    {
+      "id": "5207209",
+      "time": "2026-11-11 09:35:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【端側AI概念延續強勢 日海智慧5天3板】早盤端側AI概念延續昨日強勢，日海智慧走出5天3板，瀛通通訊走出2連板，共達電聲、顯盈科技、榮旗科技、富瀚微等跟漲。"
+    },
+    {
+      "id": "5207208",
+      "time": "2026-11-11 09:35:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲1%至5293.96點。"
+    },
+    {
+      "id": "mkt:01a1c83e-6540-7bbc-ab98-2c3a62cfc327",
+      "time": "2026-11-11 09:34:54",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "【ANZ: Reserve Bank of Australia rate-hike expectations ease but inflation remains stubborn】Expectations for further Reserve Bank of Australia (RBA) rate rises have cooled amid signs Australia’s economy is slowing, but inflation remains persistent, ANZ economist Siddhant Kalra says. Q3 trimmed-mean inflation was a strong 3.7% YoY, and market services inflation posted its largest YoY gain since 2024. Given the link between market services inflation and domestic capacity pressures, ANZ says the print will keep the RBA cautious in the coming months."
+    },
+    {
+      "id": "5207207",
+      "time": "2026-11-11 09:34:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念震盪拉昇 鋒龍股份3連板】人形機器人概念震盪拉昇，鋒龍股份3連板，日發精機漲停，兆豐股份、拓普集團、睿能科技、美力科技跟漲。"
+    },
     {
       "id": "5207206",
       "time": "2026-11-11 09:34:39",
