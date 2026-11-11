@@ -1,7 +1,53 @@
 {
-  "updated": "2026-11-12 06:36:02",
-  "count": 9965,
+  "updated": "2026-11-12 06:39:52",
+  "count": 9969,
   "items": [
+    {
+      "id": "5208939",
+      "time": "2026-11-12 06:39:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【21只基金同日成立，年內新發基金規模近萬億元】臨近年底，新基金加速成立。11月11日，21只基金集中釋出基金合同生效公告，發行規模合計為38.62億元。總體來看，截至11月11日，年內共成立1557只新基金，發行規模合計為9617.04億元。（上證報）"
+    },
+    {
+      "id": "5208938",
+      "time": "2026-11-12 06:39:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【氯化亞碸一年漲價近3倍】作為長期被歸入農藥、醫藥中間體序列的氯化亞碸正被電解液產業鏈重新定價。百川盈孚資料顯示，截至11月11日，氯化亞碸國內市場均價為6174元/噸，今年以來上漲76%，同比漲幅為297.81%。行業毛利潤已由去年同期的約100元/噸漲至目前的超過3000元/噸。在成本端，作為氯化亞碸的主要原料，硫磺價格年內呈現先升後降的走勢。有行業研究員對記者表示，氯化亞碸價格在漲，硫磺價格在跌，這說明此輪行情由供需定價，而非成本單向推動。（上證報）"
+    },
+    {
+      "id": "5208937",
+      "time": "2026-11-12 06:38:59",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場"
+      ],
+      "text": "【上證報頭版文章：政策工具最佳化迭代，穩市機制加快完善】金融管理部門部署推動支援資本市場兩項工具調整最佳化、加力實施，一週多來，超過10家券商已在第三批證券、基金、保險公司互換便利項下買入股票，銀行機構兩日即申報股票回購增持再貸款額度超過2000億元，上市公司密集丟擲回購增持方案，政策紅利正快速轉化為真金白銀的穩市力量。 11月6日召開的國務院常務會議提出“完善資本市場穩市機制”。業內專家認為，我國穩市工具體系日益完善，穩市機制從“應急託底”逐漸轉向“長效制度安排”，市場抵禦外部衝擊、平滑波動的韌性有望增強。"
+    },
+    {
+      "id": "te:economy:600515",
+      "time": "2026-11-12 06:38:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Credit Card Spending",
+        "Importance 1"
+      ],
+      "text": "New Zealand Credit Card Spending Extends Decline — New Zealand’s electronic card transactions decreased 0.7% in October 2026, following a 0.4% drop in September. Spending on durable goods fell 2.1%, followed by motor vehicles (-2%) and hospitality (-1.6%). Transactions for consumable goods (-0.3%) and apparel (-0.7%) also declined. The only retail category to record an increase was fuel, up 4.8% amid elevated prices. The total value of electronic card spending, including non-retail categories, decreased 1.2%, as services spending fell 1.1%. Cardholders made 173 million transactions across all industries in October, with the total amount spent using electronic cards reaching $9.6 billion."
+    },
+    {
+      "id": "5208936",
+      "time": "2026-11-12 06:37:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿布扎比會談結束 俄烏宣告達成換俘協議 普京今日會見美特使】為期兩天的俄羅斯、美國和烏克蘭三方會談11日在阿聯酋首都阿布扎比結束，各方就大規模交換被俘人員達成協議，但在結束衝突、領土爭議、烏克蘭安全保障及歐洲未來安全架構等關鍵問題上仍存“重大分歧”。會談10日開始，是俄美烏三方自今年2月以來首次恢復面對面談判。首日會談持續近4小時，第二天會談不到兩小時。(央視新聞)"
+    },
     {
       "id": "te:markets:600514",
       "time": "2026-11-12 06:35:14",
@@ -91114,14 +91160,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Butter Drops by 3.32% — Top commodity losers are Butter (-3.32%) and Rapeseed (-1.99%). Gains are led by Cotton (1.43%) and Sugar (0.71%)."
-    },
-    {
-      "id": "5194245",
-      "time": "2026-11-05 06:39:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "星展銀行任命Anthony Lim為董事長，自1月1日起接替Peter Seah。"
     }
   ]
 }
