@@ -1,7 +1,115 @@
 {
-  "updated": "2026-11-11 16:26:29",
-  "count": 10458,
+  "updated": "2026-11-11 16:30:18",
+  "count": 10451,
   "items": [
+    {
+      "id": "mkt:01a1c9b9-d170-7bbc-ab9f-db948017cf8a",
+      "time": "2026-11-11 16:29:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【European gas rally continues; futures top €85/MWh】European benchmark gas futures climbed above €85/MWh after a 2.7% rise the prior session as traders assess Middle East conflict risks and regional supply uncertainty. Talks to end the Iran war have made little progress and attacks on tankers near the Strait of Hormuz continued this week. IRNA reported Iran’s top security official denied negotiating with the US and called US claims of Qatar-mediated talks false and intended to depress oil prices. European LNG imports lag year-earlier levels and abnormally low winter stocks are drawing down with the heating season. This winter’s supply balance for Europe hinges on a rapid recovery of Strait of Hormuz shipments, especially Qatari flows. The Iran conflict has removed roughly one-fifth of global LNG exports from the market, forcing Europe to compete with Asia for scarce cargoes; regional gas prices are at their highest since 2022 and more than three times their level at the start of the year."
+    },
+    {
+      "id": "te:markets:600331",
+      "time": "2026-11-11 16:29:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rebounds on Wednesday — The FTSE 100 rose 0.8% on Wednesday, recovering from the previous session’s 0.3% decline, as gains in commodity-linked stocks and banks supported the index. Oil majors Shell and BP advanced 1% and 1.6%, respectively, as crude prices attempted to rebound following a two-day selloff, with investors continuing to assess prospects for an end to the US-Iran conflict. Mining stocks also strengthened as metals recovered from the previous session’s losses. Antofagasta climbed nearly 4%, while Anglo American, Glencore and Rio Tinto gained at least 2%, supported by rebounds in copper, gold and silver. Banks also contributed to the advance, with HSBC, Lloyds Banking Group and Barclays each rising by 1% or more. Elsewhere, Spirax-Sarco Engineering gained 2% after the company expressed confidence in meeting its full-year targets, citing improved sales growth at its Steam Thermal Solutions division in the four months to the end of October."
+    },
+    {
+      "id": "te:markets:600329",
+      "time": "2026-11-11 16:28:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Petrobras earnings above expectations at 3.36 BRL — Petrobras (PETR3) released earnings per share at 3.36 BRL, compared to market expectations of 2.86 BRL."
+    },
+    {
+      "id": "5207846",
+      "time": "2026-11-11 16:28:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST中路：朱智恢復履行董事會秘書職責】ST中路公告稱，公司董事會秘書朱智前期因個人身體原因申請休假，休假期間由公司董事長兼總經理陳閃代行董事會秘書職責。目前朱智已正常履行董事會秘書職責，陳閃不再代行該職責。"
+    },
+    {
+      "id": "5207845",
+      "time": "2026-11-11 16:28:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【岱美股份：股票交易異常波動 無應披露未披露重大事項】岱美股份公告稱，公司股票於2026年11月9日、11月10日、11月11日連續三個交易日內收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查並向控股股東、實際控制人發函確認，截至公告披露日，公司及控股股東、實際控制人均不存在應披露而未披露的重大資訊，公司主營業務未發生變化，日常生產經營情況正常，未發現對股價產生重大影響的媒體報道或市場傳聞，董監高、控股股東及實控人及其一致行動人在異動期間均未買賣公司股票。敬請廣大投資者注意投資風險。"
+    },
+    {
+      "id": "5207844",
+      "time": "2026-11-11 16:28:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立華股份：實控人一致行動人完成股份質押及解質押】立華股份公告稱，公司實際控制人之一致行動人常州市奔騰牧業技術服務中心（有限合夥）辦理股份質押及解質押業務。本次質押2200萬股，佔其所持股份15.00%、佔公司總股本2.60%，質押用途為置換前期質押貸款，質押期限為2026年11月9日至2027年11月9日。本次合計解除質押2220萬股，佔其所持股份15.14%、佔公司總股本2.62%。本次變動後，奔騰牧業質押股份數為6300萬股，佔其所持股份42.97%、佔公司總股本7.44%，相關股份不存在平倉風險。"
+    },
+    {
+      "id": "5207843",
+      "time": "2026-11-11 16:28:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綜藝股份：截至目前，神州龍芯處理器尚未直接應用於商業航天領域】11月11日，公司在互動平臺回答表示，公司參股企業神州龍芯長期專注於積體電路（自主智慧財產權處理器）設計、製造與銷售，具備從晶片、板卡到解決方案及終端產品的全產業鏈開發運營能力，產品廣泛應用於工業控制、能源電力等領域。截至目前，神州龍芯處理器尚未直接應用於商業航天領域。"
+    },
+    {
+      "id": "mkt:01a1c9b8-bb6d-7bbc-ab9f-d16204852bf8",
+      "time": "2026-11-11 16:28:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ADIA seeks $7.5bn loan to accelerate portfolio diversification】Abu Dhabi Investment Authority is seeking a $7.5bn one-year revolving loan, with two one-year extension options, to fund investments in private equity, infrastructure and real estate as it diversifies its portfolio. In its 2025 annual report ADIA says it manages more than $1 trillion AUM and has raised its private equity target cap from 17% to 20%; it has also expanded private credit exposure by seeding new platforms and backing specialist asset managers. Initial lead arrangers and bookrunners include First Abu Dhabi Bank, HSBC Middle East, SOCGEN London and Standard Chartered, with Standard Chartered as sole coordinator."
+    },
+    {
+      "id": "5207842",
+      "time": "2026-11-11 16:27:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公司在物理AI、機器人、端測AI等方面有何業務佈局？翱捷科技回應】有投資者向翱捷科技-U（688220.SH）提問，公司在物理AI、機器人、端測AI等有哪些業務佈局？公司前面說有多機器人ASIC訂單請問都是什麼級別的客戶，行業top5嗎？11月11日，公司回答表示，公司自有品牌產品暫不涉直接從事機器人整機及物理AI終端產品等業務；公司ASIC業務在端側已覆蓋AI終端算力、具身智慧及機器人視覺、大/小腦等方向。"
+    },
+    {
+      "id": "5207841",
+      "time": "2026-11-11 16:27:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟官員回應默茨：本月就討論援烏資金安排】歐洲理事會主席科斯塔10日在回覆德國總理默茨的信中說，歐盟領導人將在本月晚些時候歐洲理事會舉行的特別峰會上，討論2027年援助烏克蘭的資金安排。（央視新聞）"
+    },
+    {
+      "id": "5207840",
+      "time": "2026-11-11 16:26:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【共進股份：翔耀芯光系新設主體，業務尚處於起步階段】有投資者向共進股份（603118.SH）提問，據報道武漢翔耀芯光目前400G、800G光模組已經量產，1.6T已經投板，年內量產，NPO/CPO等前沿方案目前在研，請問是否屬實？武漢翔耀芯光的產品主要是自用還是外售？11月11日，公司在互動平臺回答表示，翔耀芯光系新設主體，業務尚處於起步階段，有關該公司經營情況請以公司相關公告及公開披露的資訊為準，請您注意甄別市場資訊，注意投資風險。"
+    },
+    {
+      "id": "5207839",
+      "time": "2026-11-11 16:26:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【玲瓏輪胎：公司目前暫無涉及輪式機器人領域的業務規劃】有投資者在互動平臺向玲瓏輪胎（601966.SH）提問，看市場上有輪式機器人，貴公司在這塊兒有開拓業務或者有計劃開拓這方面業務嗎？11月11日，公司回答表示，公司目前暫無涉及輪式機器人領域的業務規劃。"
+    },
     {
       "id": "5207838",
       "time": "2026-11-11 16:25:22",
@@ -25,6 +133,14 @@
         "國際"
       ],
       "text": "Databricks：預計未來三年內將把歐洲、中東和非洲團隊擴大50%。"
+    },
+    {
+      "id": "5207835",
+      "time": "2026-11-11 16:24:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東物流首次開通西藏班列，4000米高原快遞坐火車出藏最快“次日達”】近日，京東物流拉薩—西寧鐵路班列正式開通。這一班列沿著青藏鐵路，經停那曲、安多、雁石坪、沱沱河、不凍泉等地，單程20.5小時，主要承運西藏特產和消費品。這是京東物流首次在西藏開通鐵路班列，開通後，快遞進出西藏時效較此前平均提前2天，出藏最快可“次日達”。"
     },
     {
       "id": "5207834",
@@ -95901,209 +96017,6 @@
         "焦點"
       ],
       "text": "瑞典央行將政策利率從1.75%上調至2.0%。"
-    },
-    {
-      "id": "mkt:01a1a5ae-1f67-7ee0-aa66-dec8ff4d9b45",
-      "time": "2026-11-04 16:30:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "Sweden | Riksbank's Benchmark Interest Rate (Nov.4) | actual 2% | consensus 2% | previous 1.75%"
-    },
-    {
-      "id": "te:markets:598023",
-      "time": "2026-11-04 16:30:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Increases by 1.91% — Top crypto gainers are Ether (1.91%) and Bitcoin (1.21%)."
-    },
-    {
-      "id": "mkt:01a1a5ae-0532-7ee0-aa66-d4b41b87021b",
-      "time": "2026-11-04 16:30:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AP projects Republican Pete Ricketts to win Nebraska Senate seat."
-    },
-    {
-      "id": "te:markets:598022",
-      "time": "2026-11-04 16:30:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.35% Higher — The CAC 40 Index is picking up 28 points or 0.35 percent on Wednesday. Gains are led by Societe Generale (2.99%), BNP Paribas (2.22%) and ArcelorMittal (2.07%). Biggest losers are Thales (-4.68%), TP (-2.06%) and Stellantis NV (-1.81%)."
-    },
-    {
-      "id": "5192794",
-      "time": "2026-11-04 16:29:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【阿里雲部分無影硬體終端漲價】11月4日，據阿里雲網站訊息，近期受全球供應鏈環境變化影響，核心原材料成本持續上漲，導致硬體生產成本顯著增加。前期已透過內部最佳化努力消化部分成本壓力，但為確保產品品質的穩定性及服務的可持續性，經內部產品及供應鏈側多方評估後，已完成了部分無影硬體終端的銷售價格漲價調整，涉及到的產品有無影方舟Pro-NS01、無影方舟-NE01、無影一體機23.8-US01、無影一體機21.5-US05、無影魔方Ultra-AX01、無影魔方Pro-AS06。另，鑑於成本壓力的持續性，阿里雲將陸續啟動對其他無影硬體型號的價格調整工作。"
-    },
-    {
-      "id": "5192793",
-      "time": "2026-11-04 16:29:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：特朗普態度轉折，又稱他“渴望”與民主黨達成協議，“我不想否決一切”】據美國“政治”新聞網報道，美國總統特朗普接受該媒體採訪時稱，他“渴望”與民主黨達成協議，不想“否決一切”。多家美媒早些時候報道，美國民主黨在2026年11月的中期選舉中取得勝利，預計將奪回參眾兩院控制權。據報道，特朗普稱，過去20分鐘內他一直在與民主黨高層交談，他“渴望”與政治對手達成協議。他還補充說：“我不想只是坐在那裡兩年，否決一切。”美媒認為，本次中期選舉期間，特朗普的態度出現轉折。特朗普接受福克斯新聞採訪時表示，“否決權是總統擁有的最強大權力之一。他們（民主黨人）會把一些瘋狂的法案提交給我，而我會否決它們。經過幾個月的否決之後，他們就會打電話過來，問‘我們該怎樣才能把這些事情辦成？’到那時我們就會攜手合作了。”特朗普還在社交平臺上釋出了一張紅色棒球帽的照片，帽子上印有“VETO”（否決）字樣。（環球網）"
-    },
-    {
-      "id": "5192792",
-      "time": "2026-11-04 16:28:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子收購TCL華星光電10.16%股權，深化戰略協同與業務合作。"
-    },
-    {
-      "id": "5192791",
-      "time": "2026-11-04 16:28:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯稱納季蘭的危險已經過去。"
-    },
-    {
-      "id": "te:economy:598019",
-      "time": "2026-11-04 16:28:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Spain Services Sector Growth Slows — The S&P Global Services PMI eased to 57.2 in October 2026 from 58.3 in September, marking its lowest reading in four months, although it continued to signal robust expansion in the services sector. New business volumes continued to grow in October, supported by stronger demand and improved market conditions. However, the pace of growth slowed to a five-month low, hampered by weaker export demand. New export business fell for the second month, with the latest decline the steepest since May."
-    },
-    {
-      "id": "5192790",
-      "time": "2026-11-04 16:28:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "訊息人士稱，谷歌將自願買斷計劃擴充套件至多個國家。"
-    },
-    {
-      "id": "5192789",
-      "time": "2026-11-04 16:28:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "美聯社預測，共和黨人皮特·裡基茨贏得內布拉斯加州參議院席位。"
-    },
-    {
-      "id": "te:markets:598017",
-      "time": "2026-11-04 16:27:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Palladium is up by 5.03% — Palladium increased 5.03% to 980.5 USD/t.oz"
-    },
-    {
-      "id": "5192788",
-      "time": "2026-11-04 16:27:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "西班牙首相桑切斯將於歐洲中部時間上午9點45分在馬德里發表講話。"
-    },
-    {
-      "id": "5192787",
-      "time": "2026-11-04 16:27:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "葡萄牙郵政集團（CTT）股價跌幅擴大，目前下跌12.5%，有望創下近9年來最大單日跌幅。"
-    },
-    {
-      "id": "5192786",
-      "time": "2026-11-04 16:27:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長信科技：參股公司智行暢聯有涉及光通訊領域，並推出光模組產品】有投資者向長信科技（300088.SZ）提問，公司參加光博會，官網和公眾號都不及時釋出訊息。請問你們是怎麼想的？11月4日，公司回答表示，目前公司參股公司智行暢聯有涉及光通訊領域，並推出光模組產品，相關業務尚處於業務拓展階段，未來業務開展尚存在不確定性風險。"
-    },
-    {
-      "id": "mkt:01a1a5ab-5568-7ee0-aa66-c8fff1e943f2",
-      "time": "2026-11-04 16:27:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "CSI300"
-      ],
-      "text": "PCA: China's preliminary October passenger vehicle retail sales rose 5% MoM."
-    },
-    {
-      "id": "mkt:01a1a5ab-1eda-7ee0-aa66-c3a77c94325a",
-      "time": "2026-11-04 16:26:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Copper"
-      ],
-      "text": "PCA: China's preliminary October new-energy vehicle retail sales rose 6% MoM."
-    },
-    {
-      "id": "mkt:01a1a5aa-fb6c-7ee0-aa66-bac9bae5492b",
-      "time": "2026-11-04 16:26:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "PCA: China preliminary October retail new-energy vehicle (NEV) sales down 10% YoY."
-    },
-    {
-      "id": "5192785",
-      "time": "2026-11-04 16:26:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【君逸數碼：簽署1.74億元GPU卡採購合同】君逸數碼公告稱，公司此前擬採購高效能算力伺服器等硬體裝置，總金額預計不超過3.10億元。近日公司與供應商A簽署銷售合同，採購高效能算力伺服器的GPU卡，合同總金額1.74億元（含稅），資金來源為自有或自籌資金，標的尚未交付，乙方最遲不晚於2027年6月30日前完成約定數量標的物交付。本次交易不構成重大資產重組及關聯交易，無需提交股東會審議。目前公司雲算力服務尚未有收入貢獻，未來業務拓展存在不確定性。"
-    },
-    {
-      "id": "mkt:01a1a5aa-b55d-7ee0-aa66-b4543963b748",
-      "time": "2026-11-04 16:26:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "PCA: Preliminary October China passenger vehicle sales down 25% YoY."
     }
   ]
 }
