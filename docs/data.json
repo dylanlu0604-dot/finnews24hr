@@ -1,7 +1,145 @@
 {
-  "updated": "2026-11-11 16:15:01",
-  "count": 10452,
+  "updated": "2026-11-11 16:18:51",
+  "count": 10457,
   "items": [
+    {
+      "id": "mkt:01a1c9af-d5ca-7bbc-ab9f-9f85d8d4787a",
+      "time": "2026-11-11 16:18:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qunar: Nov 14-15 weekend marks autumn-holiday travel bump; family bookings +70% YoY】On Nov. 11 Qunar reported the upcoming weekend (Nov. 14-15), the first concentrated autumn-holiday travel peak in November, will see hotel bookings rise over 50% week-on-week. Parent-child orders in holiday regions are up 70% YoY and air ticket bookings for children aged 12 and under have risen 75% YoY, signaling a concentrated release of family travel demand."
+    },
+    {
+      "id": "5207820",
+      "time": "2026-11-11 16:17:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【去哪兒旅行：本週末秋假遊迎小高峰 親子訂單同比增長70%】11月11日，去哪兒旅行資料顯示，本週末（11月14日—15日）將迎來11月首個秋假集中出行小高峰，酒店預訂量環比上週增長超五成。其中，秋假地區的親子訂單同比去年增長70%，12歲及以下兒童機票預訂量增長75%，家庭出遊需求集中釋放。"
+    },
+    {
+      "id": "5207819",
+      "time": "2026-11-11 16:17:43",
+      "tags": [
+        "行業",
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "【SpaceX據悉嘗試機架層“去英偉達化”：只買晶片 研發Kessel機櫃繞過L6計算板】半導體研究機構SemiAnalysis在X上披露，SpaceX正在做一件此前只有超大規模雲廠商嘗試過的事：保留英偉達的晶片，但把晶片周圍的機架自己重做一遍。這個自研機架的內部代號是Kessel。 SemiAnalysis稱，SpaceX計劃直接向英偉達採購晶片封裝，其餘部件自行採購，從而跳過英偉達的L6計算板。該機構寫道：“這也改變了誰買哪些零件：SpaceX計劃向英偉達購買晶片封裝、其餘直接採購，繞過英偉達的L6計算板。這會讓SpaceX在供應商選擇與零部件採購上擁有更多控制權。”跳過L6，意味著SpaceX拿到了板卡這一層的設計權與採購權——PCB、聯結器、供電、散熱這些環節，從“英偉達指定”變成“SpaceX自選”。"
+    },
+    {
+      "id": "5207818",
+      "time": "2026-11-11 16:17:33",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【韓國承諾向亞開行人工智慧專案基金出資2000萬美元】韓國財政部週三表示，韓國已承諾向亞洲開發銀行（ADB）的一項信託基金出資2000萬美元，用於支援人工智慧（AI）開發專案。韓國財政經濟部當天在首爾與亞洲開發銀行舉行年度磋商會議，雙方在會上簽署了“韓國人工智慧促進發展信託基金”（Korea AI for Development Trust Fund）出資協議。該基金旨在支援人工智慧創新與發展中心（Center for AI Innovation and Development）的運營。根據韓國與亞開行今年5月達成的協議，該中心將在韓國設立。"
+    },
+    {
+      "id": "te:markets:600323",
+      "time": "2026-11-11 16:17:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Rise, STOXX 600 Hits New High — European stocks advanced on Wednesday, extending gains for a third consecutive session. The STOXX 50 climbed 0.9%, reaching levels not seen in several months, while the STOXX 600 gained 0.7% to hit a fresh record high. The positive momentum reflected a broader improvement in global investor sentiment, driven largely by gains in the technology sector. Sentiment was buoyed by an upbeat outlook from CoreWeave, a company at the centre of concerns over a potential AI bubble, as well as growing anticipation surrounding Anthropic PBC’s planned listing. ASML Holding shares rose 2.6%. Investors also closely monitored a fresh round of corporate earnings and updates from European companies. Siemens Energy reported record quarterly revenue, while ABN Amro posted a 52% year-on-year increase in third-quarter net profit. Meanwhile, RWE’s earnings exceeded market expectations, and E.ON reaffirmed its full-year guidance."
+    },
+    {
+      "id": "mkt:01a1c9ae-d1f8-7bbc-ab9f-927cf11be704",
+      "time": "2026-11-11 16:17:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Star Stocks",
+        "Meituan",
+        "01211.HK",
+        "Impact bearish",
+        "03690.HK",
+        "02015.HK"
+      ],
+      "text": "【Hong Kong close: Hang Seng, Hang Seng Tech down; optical‑communications, PCB and chips outperform】Hang Seng Index closed down 0.98% at 24,315.92; Hang Seng Tech Index fell 1.41% to 4,027.06. Market turnover was HKD180.75 bln, versus HKD178.18 bln in the prior session. Most sectors closed lower; airlines, electric‑vehicle makers and major internet names underperformed. Optical‑communications, PCB and semiconductor sectors outperformed. IPO Xin Hehua (02206.HK) jumped 71.64% on debut; MINIMAX‑W (00100.HK) +4.04%, Zhipu (02513.HK) +3.73%. BYD Co. (01211.HK) slid 3.2%, Meituan (03690.HK) fell 3.51%, Li Auto (02015.HK) down 0.4%."
+    },
+    {
+      "id": "5207817",
+      "time": "2026-11-11 16:17:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昀冢科技：公司MLCC客戶訂單需求超過產能供給】11月11日，昀冢科技（688260.SH）釋出投資者關係活動記錄表。其中指出，2026年前三季度，公司MLCC客戶訂單需求超過產能供給，MLCC產品基本隨產隨銷。公司將統籌產能佈局規劃，有序推進產能釋放，持續加大高容產品產能建設力度，更好匹配下游市場需求。"
+    },
+    {
+      "id": "mkt:01a1c9ae-0912-7bbc-ab9f-8f73f7963888",
+      "time": "2026-11-11 16:16:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "8411.T",
+        "Impact bullish"
+      ],
+      "text": "【ANTHROPIC plans to raise $3.0-3.5bn in Japan】ANTHROPIC is seeking $3.0–3.5bn from Japanese investors, planning to sell 38.5m–50.0m shares at a reference price range of $70–78 per share, according to a filing with Japan’s Ministry of Finance. The company included Japan in its financing plan after launching its IPO roadshow; it has said total proceeds could top $3.5bn. ANTHROPIC’s broader IPO would offer up to $64.4bn of stock; the filing implies a valuation of roughly $1.0tn on listed shares and about $1.4tn on a fully diluted basis. The Japan tranche is an unlisted public offering aimed at domestic high-net-worth households and will help Mizuho Financial Group bolster its role as a lead coordinator on large transactions."
+    },
+    {
+      "id": "5207816",
+      "time": "2026-11-11 16:16:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將英飛凌科技的目標價從96歐元下調至74歐元。"
+    },
+    {
+      "id": "5207815",
+      "time": "2026-11-11 16:16:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中汽協預測：2026年乘用車國內銷量或低於1900萬輛】11月11日，中國汽車工業協會（以下簡稱中汽協）副秘書長陳士華在中汽協資訊釋出會上透露：“我們正在對2026年全年汽車市場銷量進行預估，情況不是很樂觀。”中汽協稱，國內汽車銷量同比降幅連續7個月超過20%。陳士華預計：“2026年乘用車國內銷量會低於1900萬輛，但這不是趨勢。”而在2025年，乘用車國內銷量為2406.5萬輛，同比增長6.4%。（每經）"
+    },
+    {
+      "id": "mkt:01a1c9ad-b2b5-7bbc-ab9f-819d9c53430a",
+      "time": "2026-11-11 16:16:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Biden pelted with milk cartons by pro-Palestinian protesters in Dublin】On the 10th in Dublin, former US president Biden was hit with milk cartons by pro-Palestinian protesters as he left an event at Trinity College Dublin where his son Hunter Biden was receiving an award. Protesters shouted “you have blood on your hands” and hurled milk, some of which spilled. Security shielded Biden with umbrellas and Irish police arrested at least two protesters."
+    },
+    {
+      "id": "5207814",
+      "time": "2026-11-11 16:15:23",
+      "tags": [
+        "行業"
+      ],
+      "text": "乘聯分會：11月1-8日，全國乘用車市場新能源零售21.9萬輛，同比去年11月同期下降7%，較上月同期增長27%，今年以來累計零售908.8萬輛，同比降13%；11月1-8日，全國乘用車廠商新能源批發26.2萬輛，同比去年11月同期下降3%，較上月同期增長63%，今年以來累計批發1,348.6萬輛，同比增長9%。"
+    },
+    {
+      "id": "mkt:01a1c9ac-e66b-7bbc-ab9f-78a06bcfa579",
+      "time": "2026-11-11 16:15:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "1211.HK",
+        "Impact bearish",
+        "NIO.O",
+        "XPEV.O"
+      ],
+      "text": "【CPCA: Nov 1-8 China passenger car NEV retail 219,000, down 7% YoY】CPCA data: Nov 1-8 China passenger car retail 293,000 units, down 21% YoY, up 2% MoM; YTD retail 15.27 mln, down 22% YoY. Manufacturers’ wholesale 333,000 units, down 20% YoY, up 63% MoM; YTD wholesale 22.704 mln, down 6% YoY. NEV retail 219,000 units, down 7% YoY, up 27% MoM; YTD NEV retail 9.088 mln, down 13% YoY. NEV wholesale 262,000 units, down 3% YoY, up 63% MoM; YTD NEV wholesale 13.486 mln, up 9% YoY."
+    },
+    {
+      "id": "5207813",
+      "time": "2026-11-11 16:14:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【常山藥業：控股股東部分股份解除質押】常山藥業公告稱，公司近日接到控股股東高樹華通知，獲悉其持有的公司部分股份解除質押。本次解除質押股份數量為700萬股，佔公司總股本比例0.76%，佔其所持股份比例2.49%，質權人為某典當有限公司，解除日期為2026年11月10日。截至公告披露日，高樹華持股2.81億股，佔公司總股本30.54%；累計質押股份1.66億股，佔其所持股份比例59.30%，佔公司總股本比例18.11%。目前高樹華質押風險總體可控，質押股份不存在平倉風險。"
+    },
     {
       "id": "mkt:01a1c9ab-fff1-7bbc-ab9f-764f25019dbe",
       "time": "2026-11-11 16:14:14",
@@ -95971,105 +96109,6 @@
         "其他"
       ],
       "text": "亞塞拜然經濟部：預計2027年石油和天然氣行業將下降1.8%，與2026年預測相符。"
-    },
-    {
-      "id": "5192768",
-      "time": "2026-11-04 16:18:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【京能電力：前三季度營收250.67億元 淨利同比降23.34%】京能電力公告稱，2026年前三季度實現營業收入250.67億元，同比下降4.78%；歸母淨利潤24.60億元，同比下降23.34%；扣非歸母淨利潤24.31億元，同比下降23.04%。第三季度營收84.80億元，同比下降7.16%；歸母淨利潤4.71億元，同比下降61.51%，利潤下滑因上網電價下降、標煤單價上漲。公司定增專案獲上交所受理，擬募資不超50億元，控股股東擬認購10億-25億元。2026年長協煤簽約覆蓋率100%，1-9月實際採購佔比超90%。"
-    },
-    {
-      "id": "mkt:01a1a5a3-1d1e-7ee0-aa66-8f5817a71cfc",
-      "time": "2026-11-04 16:18:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "02359.HK",
-        "06693.HK"
-      ],
-      "text": "【Hong Kong close: Hang Seng up 1.67% after strong afternoon rally; new-drug stocks lead】Hong Kong stocks finished higher after a strong afternoon surge. The Hang Seng closed up 1.67% at 23,919.5, roughly a 400-point intraday gain; the Hang Seng TECH index rose 1.77% to 3,936.02. Turnover was HKD 236.896 bln (prior session HKD 236.404 bln). New-drug and precious-metals sectors led gains, while optical-communications and PCB/compute-infrastructure names also rallied; pork and beverage sectors lagged. Select movers: WuXi AppTec (02359.HK) +12.39%, Chifeng Gold (06693.HK) +18.15%, Junzheng (03223.HK) +18.25%, Haiguang Xinzheng (01191.HK) +26.32%; Muyuan Foods (02714.HK) -2.25%, Mixue Group (02097.HK) -3.00%."
-    },
-    {
-      "id": "5192767",
-      "time": "2026-11-04 16:17:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【vivo與人民日報達成影像技術戰略合作，圍繞真實新聞場景開展技術共創】在2026“一帶一路”媒體合作論壇期間，vivo與人民日報舉行“人民日報影像技術戰略合作伙伴”簽約儀式，正式達成影像技術戰略合作關係。雙方將圍繞真實新聞場景開展技術共創，探索移動影像技術在媒體傳播領域的更多可能，為媒體融合發展注入技術動能。（新浪科技）"
-    },
-    {
-      "id": "te:markets:598013",
-      "time": "2026-11-04 16:17:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Spain",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "Iberdrola Shares Hit 15-year High — Iberdrola shares increased to 22.30 EUR, the highest since August 2011. Over the past 4 weeks, Iberdrola gained 5.98%, and in the last 12 months, it increased 25.17%."
-    },
-    {
-      "id": "5192766",
-      "time": "2026-11-04 16:16:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海關總署署長孫梅君會見加拿大農業與農業食品部部長麥克唐納】11月3日，海關總署署長孫梅君在署會見加拿大農業與農業食品部部長麥克唐納一行。雙方就落實中加兩國領導人戰略共識，深化海關檢驗檢疫機制性合作、促進農食產品貿易安全便利、開展電子證書聯網核查等議題交換意見，並簽署合作檔案。副署長張寶峰、加拿大食品檢驗署署長科查爾參加會見。"
-    },
-    {
-      "id": "mkt:01a1a5a1-193d-7ee0-aa66-85930698a2be",
-      "time": "2026-11-04 16:16:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Spain October composite PMI 56.2, down from 56.8 in September."
-    },
-    {
-      "id": "mkt:01a1a5a0-ffb2-7ee0-aa66-7ed3b0545aea",
-      "time": "2026-11-04 16:15:54",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Spain | Composite PMI (Oct) | actual 56.2 | previous 56.8"
-    },
-    {
-      "id": "mkt:01a1a5a0-51a2-7ee0-aa66-70c979ea0ef5",
-      "time": "2026-11-04 16:15:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Spain October services PMI 57.2, below forecast 57.6 and down from previous 58.3."
-    },
-    {
-      "id": "mkt:01a1a5a0-3058-7ee0-aa66-69bc80bcb3c5",
-      "time": "2026-11-04 16:15:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Spain | Services PMI (Oct) | actual 57.2 | consensus 57.6 | previous 58.3"
     }
   ]
 }
