@@ -1,7 +1,85 @@
 {
   "date": "2026-11-11",
-  "count": 815,
+  "count": 823,
   "items": [
+    {
+      "id": "mkt:01a1c84b-423d-7bbc-ab98-b789f9eeb7b2",
+      "time": "2026-11-11 09:48:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's prime minister Takaichi said she has no intention of pursuing fiscal policy that would cause excessive inflation."
+    },
+    {
+      "id": "mkt:01a1c84b-1140-7bbc-ab98-acc80f1c331b",
+      "time": "2026-11-11 09:48:45",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【State Street: Global market risk appetite easing modestly】State Street's risk appetite index fell to -0.09 in October, a second straight monthly decline, but the firm says the pullback is limited. Institutional investors trimmed FX and commodity exposures while remaining relatively positive on equities and bonds. Equity allocations edged down in October but remain well above long-run averages; technology positions are being trimmed rather than sold off and overall equity and tech weightings stay elevated, State Street Markets equity research head Marija Veitmane said."
+    },
+    {
+      "id": "5207237",
+      "time": "2026-11-11 09:48:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：無意推行會導致過度通脹的財政政策。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611113928213161",
+      "time": "2026-11-11 09:47:41",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【華爾街熱議10月CPI：美聯儲12月加息板上釘釘 幅度或達50個基點！】當地時間週二，一份超出預期的CPI報告又讓華爾街“炸了鍋”。最新資料，加上美聯儲理事克里斯托弗·沃勒（ChristopherWaller）的鷹派言論，幾乎讓交易員們鎖定12月份加息25個基點的預期，甚至考慮大幅加息50個基點。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202611113928213161",
+      "time": "2026-11-11 09:47:41",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【華爾街熱議10月CPI：美聯儲12月加息板上釘釘 幅度或達50個基點！】當地時間週二，一份超出預期的CPI報告又讓華爾街“炸了鍋”。最新資料，加上美聯儲理事克里斯托弗·沃勒（ChristopherWaller）的鷹派言論，幾乎讓交易員們鎖定12月份加息25個基點的預期，甚至考慮大幅加息50個基點。"
+    },
+    {
+      "id": "mkt:01a1c849-8ca6-7bbc-ab98-a686ddc3bd88",
+      "time": "2026-11-11 09:47:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "Chip Wars",
+        "China Tech Giants"
+      ],
+      "text": "China A-share compute-power chip names rallied after reports Alibaba plans to spin off Pingtouge Semiconductor for a separate HKEX listing. Tianpu hit the daily limit; Dashengda, Xuanji Information, Ankai Micro, Aojie Technology, Suiyuan Technology and Xinyuan jumped."
+    },
+    {
+      "id": "5207236",
+      "time": "2026-11-11 09:46:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI原生晶片設計公司上海泛函式完成近億元天使輪融資】11月11日訊息，介面新聞獲悉，AI原生晶片設計公司上海泛函式智慧科技有限公司近日完成近億元天使輪融資，由上海未來產業基金領投，上海信投、上海科創集團、富海中產基金、深重投、徐匯資本、寬橋恆松、無限基金聯合投資。本輪融資將重點用於AI原生晶片設計垂類模型訓練、全流程工具鏈迭代、晶片工程與AI演算法核心團隊擴充，以及客戶聯合交付與市場拓展。"
+    },
+    {
+      "id": "mkt:01a1c848-c62c-7bbc-ab98-9ff96b81d0e8",
+      "time": "2026-11-11 09:46:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Report: China ice-and-snow tourism demand accelerates; family study-tour demand to rise >30% next season】Nov. 10 — Tongcheng Travel’s 2026–2027 Ice-and-Snow Cultural Tourism Consumption Trend Report says China’s ice-and-snow tourism market shows strong growth momentum. The upcoming snow season could see parent‑child households rise to about 45% of visitors and parent‑child study-trip demand increase by more than 30%. Indoor skiing is driving ice-and-snow consumption toward year‑round demand. Guangdong is the largest cross‑province source market for Northeast snow trips; Harbin is the top destination, and Altay ranks as the leading emerging destination."
+    },
     {
       "id": "5207235",
       "time": "2026-11-11 09:45:51",
