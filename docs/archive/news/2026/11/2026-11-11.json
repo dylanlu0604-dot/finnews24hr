@@ -1,7 +1,65 @@
 {
   "date": "2026-11-11",
-  "count": 1250,
+  "count": 1256,
   "items": [
+    {
+      "id": "mkt:01a1c985-2b6a-7bbc-ab9e-cabc0018cfb9",
+      "time": "2026-11-11 15:31:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 1.25% at 873.05 yuan/gram on Nov 11 (Wednesday); silver T+D closed down 0.15% at 12,698.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a1c984-28b0-7bbc-ab9e-c29dcb5dbe76",
+      "time": "2026-11-11 15:30:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【West Securities' Cao Liulong: Medium-to-long-term view on A-shares need not be pessimistic】West Securities chief strategy analyst Cao Liulong said capital-market reforms are continuing to take effect and large-cap blue-chip valuations are not high, so A-shares need not be viewed pessimistically over the medium to long term. He said securities–fund–insurance swap facilities provide institutions with a reliable liquidity channel, and a special relending facility for repurchases and buybacks supplies cash to listed companies and major shareholders; both measures have helped break negative spirals and restore institutional willingness to buy during stress. With related tool rates reduced and converted into long-term arrangements, market self-stabilization now has institutional support."
+    },
+    {
+      "id": "5207710",
+      "time": "2026-11-11 15:30:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州港：截至10月底，已累計淨增外貿航線6條】廣州港在2026年第三季度業績說明會上表示，今年以來，公司加大外貿航線開拓力度，穩定重點進出口貨源。截至10月底，已累計淨增外貿航線6條（其中歐美航線1條），推動了公司外貿集裝箱吞吐量同比增長超過兩位數，外貿業務實現量效齊升。目前，南沙港區保持高效運作，重箱佔比穩定在65%以上。未來，公司將持續加大港口能力建設，不斷提升南沙港區綜合服務水平。"
+    },
+    {
+      "id": "5207709",
+      "time": "2026-11-11 15:30:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【西部證券曹柳龍：中長期來看對A股市場不必悲觀】展望後市，西部證券首席策略分析師曹柳龍認為資本市場改革持續顯效，大盤藍籌股估值不高，中長期來看對A股市場不必悲觀。曹柳龍表示，證券基金保險互換便利為機構提供流動性支援的可靠渠道，回購增持專項再貸款為上市公司與主要股東帶來真金白銀的資金來源，兩項工具在市場承壓期間有效阻斷了負向螺旋、修復機構增持意願；隨著相關工具利率下調並轉為長期性安排，市場的自我穩定能力有了制度依託。"
+    },
+    {
+      "id": "5207708",
+      "time": "2026-11-11 15:29:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "西門子能源CEO考慮於2027年就工業業務部門與投資者進行洽談。"
+    },
+    {
+      "id": "5207707",
+      "time": "2026-11-11 15:28:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華源證券：珀萊雅盈利釋放可期，維持“買入”評級】華源證券研報指出，珀萊雅花知曉並錶帶動收入提速，盈利釋放可期。26年前三季度歸母淨利潤為12.56億元，同比+22.46%，26Q3歸母淨利潤為0.88億元，同比-61.18%。護膚基本盤短期承壓，彩妝洗護高速放量。毛利率結構性回落，銷售費用投放加大。費用投放拖累利潤，單Q3盈利明顯回落。利潤下降主要系形象宣傳推廣費增加：1）主品牌核心大單品上新期，宣傳推廣投入增加；2）花知曉、原色波塔、OffRelax、驚時等品牌進入快速成長期，推廣費投入增加；3）渠道結構、投流節奏隨市場調整。當前股價對應的2026-2028年PE分別為11/12/10倍，維持“買入”評級。"
+    },
     {
       "id": "5207706",
       "time": "2026-11-11 15:28:01",
