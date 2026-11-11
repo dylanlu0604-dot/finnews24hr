@@ -1,7 +1,162 @@
 {
-  "updated": "2026-11-11 16:07:20",
-  "count": 10475,
+  "updated": "2026-11-11 16:11:08",
+  "count": 10467,
   "items": [
+    {
+      "id": "te:markets:600322",
+      "time": "2026-11-11 16:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Falls by 3.01% — Top commodity loser is Cocoa (-3.01%). Gains are led by Palm Oil (2.70%), Wheat (1.87%) and Oat (1.76%)."
+    },
+    {
+      "id": "5207806",
+      "time": "2026-11-11 16:10:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【時代電氣：公司有向小米澎程汽車提供產品，請關注具體產品配置的披露】有投資者在互動平臺向時代電氣（688187.SH）提問，從多個權威媒體上獲得公司為小米澎程汽車提供電驅總成，請問是否屬實？11月11日，公司回答表示，公司有向小米澎程汽車提供產品，請關注具體產品配置的披露。"
+    },
+    {
+      "id": "5207805",
+      "time": "2026-11-11 16:09:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【董宇輝蛋糕店否認新增防腐劑】近日，董宇輝自有品牌“禾與春時”首款千層蛋糕9個月保質期引發熱議，有網友表示冷凍蛋糕基本上等同於蛋糕“預製菜”。董宇輝隨後在直播中回應稱冷凍環境延長保質期是常識。 對於產品是否為“預製菜”及是否含有防腐劑的疑問，媒體以消費者身份諮詢了“禾與春時旗艦店”客服。店鋪客服並未明確回應產品與新鮮現做口味差異，但表示，商品質量是有保證的，生產日期都是在今年10月以後。“零下18℃及以下的低溫環境能大幅抑制微生物細菌繁殖，因此未額外新增防腐劑，依靠物理冷凍實現9個月的保質期。”客服解釋稱。 此外，針對到手後的儲存問題，客服回應稱，產品需在0-10℃冷藏解凍6-10小時後食用，解凍後冷藏僅建議儲存2天。同時，客服也就配料表進行了澄清，指出榴蓮千層中含有的羥丙基二澱粉磷酸酯與β-胡蘿蔔素屬合規食品新增劑，前者用於穩定狀態，後者用於調整顏色；而純可可脂巧克力千層則未額外新增食品新增劑。（中新經緯）"
+    },
+    {
+      "id": "5207804",
+      "time": "2026-11-11 16:09:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度禁止出口鋰離子電池回收材料】印度政府週二宣佈，立即禁止出口鋰離子電池黑粉。黑粉是一種電池回收材料，含有鋰、鈷、鎳和錳等金屬。印度政府將該產品的出口狀態由“自由出口”調整為“禁止出口”。"
+    },
+    {
+      "id": "5207803",
+      "time": "2026-11-11 16:09:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數跌0.98%，恒生科技指數跌1.41%】蔚來-SW跌3.02%，小鵬集團-W跌3.11%，網易跌3.34%，理想汽車-W跌3.36%，美團-W跌3.51%，比亞迪股份跌3.82%，百威亞太跌4.44%。"
+    },
+    {
+      "id": "mkt:01a1c9a6-fc4e-7bbc-ab9f-5b55c3670df4",
+      "time": "2026-11-11 16:08:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong close: Hang Seng Index down 0.98%; Hang Seng Tech Index down 1.41%. Optical communications, PCB and semiconductor sectors outperformed, closing higher."
+    },
+    {
+      "id": "mkt:01a1c9a6-c02c-7bbc-ab9f-50dbcadd4d48",
+      "time": "2026-11-11 16:08:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【India bans exports of lithium‑ion battery black mass】India on Tuesday imposed an immediate export ban on lithium‑ion battery black mass — a recycling material containing lithium, cobalt, nickel and manganese — reclassifying it from free export to prohibited. Notifications from the Ministry of Commerce and Industry and the Department of Commerce say the ban covers lithium‑ion battery black mass and unclassified battery waste not containing lead, cadmium or mercury, and aims to encourage domestic processing of critical battery materials to support India’s EV supply‑chain strategy. India, one of the fastest‑growing EV markets, targets EVs to account for 30% of new car sales and 80% of new two‑ and three‑wheeler sales by 2030."
+    },
+    {
+      "id": "5207802",
+      "time": "2026-11-11 16:08:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【HVDC相關收入是否已體現在半導體板塊的營收中？時代電氣回應】有投資者向時代電氣（688187.SH）提問，公司此前確認HVDC雙極和IGBT產品已在國內外資料中心批次交付。請問三季報中，HVDC相關收入是否已經體現在半導體板塊的營收中？Q4的交付節奏環比Q3是加速還是持平？11月11日，公司回答表示，HVDC相關收入已經體現在半導體板塊營收中。交付節奏取決於需求方具體要求和專案進展。"
+    },
+    {
+      "id": "mkt:01a1c9a6-b1cf-7bbc-ab9f-4b774014f586",
+      "time": "2026-11-11 16:08:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India has banned exports of lithium‑ion battery recycling materials."
+    },
+    {
+      "id": "5207800",
+      "time": "2026-11-11 16:07:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泉陽泉：重大資產重組財務顧問主辦人變更】泉陽泉公告稱，公司重大資產重組持續督導期已屆滿，但配套募集資金尚未使用完畢，獨立財務顧問東北證券仍需履行持續督導義務。因工作調整，王維不再擔任該重大資產重組持續督導財務顧問主辦人，東北證券指派王誌慶接替其職務，本次變更後，持續督導財務顧問主辦人為王丹丹、王誌慶。"
+    },
+    {
+      "id": "5207799",
+      "time": "2026-11-11 16:07:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧比中光：7萬股限制性股票將於11月17日上市流通】奧比中光公告稱，公司2022年限制性股票激勵計劃預留授予第三個歸屬期歸屬條件已成就，本次符合歸屬條件的激勵物件共11名，可歸屬限制性股票7萬股，對應上市流通日期為2026年11月17日，股票來源為公司定向發行的A股普通股。本次歸屬完成後，公司總股本將由4.13億股增至4.13億股，不會導致控股股東及實控人變更，對公司近期經營成果不構成重大影響。"
+    },
+    {
+      "id": "mkt:01a1c9a5-eb07-7bbc-ab9f-464690b2ed42",
+      "time": "2026-11-11 16:07:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Middle East envoy Zhai Jun visits Oman】On Nov. 10, 2026, Chinese government special envoy for the Middle East Zhai Jun visited Oman and met a minister-level Omani foreign ministry envoy Hina'i to discuss China–Oman relations and the current Middle East situation. Zhai said China seeks to raise bilateral ties under leaders’ diplomatic outcomes, called for resolving disputes through dialogue and negotiation, praised Oman and other countries for efforts to calm fighting, and said China is willing to maintain close communication and coordination with parties to help restore peace and stability in the Gulf."
+    },
+    {
+      "id": "5207798",
+      "time": "2026-11-11 16:07:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海亞虹：控股股東及實控人發生變更】上海亞虹公告稱，公司控股股東寧生集團、持股5%以上股東謝亞明及其一致行動人謝悅，向飛科投資協議轉讓公司29.99%股份事項，已於2026年11月10日完成過戶登記。本次轉讓總價9.00億元，轉讓價格21.43元/股。轉讓完成後，飛科投資持有公司29.99%股份，成為公司控股股東，李丐騰成為公司實際控制人。飛科投資及李丐騰承諾自過戶完成之日起60個月內不轉讓本次所獲股份、36個月內不質押該股份。飛科投資擬後續要約收購公司10.21%股份，該事項尚存不確定性。"
+    },
+    {
+      "id": "5207797",
+      "time": "2026-11-11 16:07:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆鑫通用：籌劃資產置換暨關聯交易 正推進盡調工作】隆鑫通用公告稱，公司擬以持有的通用機械業務相關資產與負債（以重慶新隆鑫機電有限公司股權為核心），與宗申動力持有的摩托車發動機業務相關資產與負債（以重慶宗申發動機製造有限公司股權為核心）進行置換，差額以現金補足。本次交易構成關聯交易，預計不構成重大資產重組，不涉及發行股份，不會導致公司控股股東和實控人變更。目前交易各方正有序推進標的盡職調查工作，交易標的範圍、作價等要素尚未最終確定，雙方未簽署協議，方案仍需論證並履行決策審批程式，交易存在不確定性。"
+    },
+    {
+      "id": "5207796",
+      "time": "2026-11-11 16:07:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大唐發電成立能源開發公司 含風力發電技術服務業務】企查查APP顯示，近日，大唐（撫州臨川）能源開發有限責任公司成立，法定代表人為鄭茂，註冊資本為7840.64萬元，經營範圍包含發電業務、輸電業務、供（配）電業務；太陽能發電技術服務；風力發電技術服務；光伏裝置及元器件銷售等。企查查股權穿透顯示，該公司由大唐發電間接全資持股。"
+    },
+    {
+      "id": "5207795",
+      "time": "2026-11-11 16:07:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "SINGULUS上漲49%，因SPACEX簽署供應合同。"
+    },
+    {
+      "id": "5207794",
+      "time": "2026-11-11 16:06:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CSG股價下跌17%，此前該公司下調了全年利潤率預期。"
+    },
+    {
+      "id": "5207793",
+      "time": "2026-11-11 16:06:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國政府中東問題特使翟雋訪問阿曼】2026年11月10日，中國政府中東問題特使翟雋訪問阿曼，會見阿曼外交部部長級大使希納伊，就中國同阿曼關係及當前中東局勢深入交換意見。翟雋表示，中國同阿曼友好關係源遠流長。前不久，阿曼蘇丹海賽姆成功訪華，習近平主席同海賽姆蘇丹就深化中阿戰略伙伴關係達成一系列重要共識。中方願同阿方一道，以兩國元首外交重要成果為引領，推動雙邊關係向更高水平邁進。當前，中東局勢持續動盪，中方始終積極致力於促和止戰，習近平主席提出一系列致力於中東和平穩定的倡議主張，為破解地區安全困境貢獻了中國智慧和方案。中方呼籲有關各方透過對話談判化解分歧矛盾，讚賞阿曼等國為平息戰事、爭取和平所作的努力，願同各方保持密切溝通和協調，共同為恢復中東海灣地區和平安寧作出貢獻。"
+    },
     {
       "id": "5207792",
       "time": "2026-11-11 16:06:03",
@@ -96056,265 +96211,6 @@
         "MKT News"
       ],
       "text": "BMW spokesperson said the company is awaiting final results of the U.S. midterm elections and has worked cooperatively with both parties for decades."
-    },
-    {
-      "id": "5192750",
-      "time": "2026-11-04 16:11:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興森科技：董事長提議回購4億至5億元股份】興森科技(002436.SZ)公告稱，公司收到控股股東、實際控制人、董事長、總經理邱醒亞提議，擬使用自籌資金或其他合法資金以集中競價方式回購公司股份，回購資金總額不低於4億元且不超過5億元，回購股份將用於股權激勵或員工持股計劃。提議人在提議前六個月內不存在買賣公司股份情況，回購期間暫無增減持計劃。"
-    },
-    {
-      "id": "mkt:01a1a59c-54cc-7ee0-aa66-3ec87e3362f9",
-      "time": "2026-11-04 16:10:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "EURUSD",
-        "S&P500"
-      ],
-      "text": "Italy's FTSE MIB index rose 1.00% intraday."
-    },
-    {
-      "id": "5192749",
-      "time": "2026-11-04 16:10:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼股指抹去此前1.6%的跌幅。"
-    },
-    {
-      "id": "mkt:01a1a59c-23f8-7ee0-aa66-361f741de0a2",
-      "time": "2026-11-04 16:10:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【NDRC to build key agricultural wholesale markets】The National Development and Reform Commission said at a press briefing that over the 15th Five-Year Plan period it will strengthen fresh-produce origin market systems and inspection/testing capacity, accelerate farmgate pre-cooling and origin cold‑chain consolidation centers, and build a number of key agricultural wholesale markets to lower post-harvest and distribution losses."
-    },
-    {
-      "id": "mkt:01a1a59c-0175-7ee0-aa66-2f2b387780b8",
-      "time": "2026-11-04 16:10:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Indonesia's stock index pared an earlier 1.6% loss."
-    },
-    {
-      "id": "5192748",
-      "time": "2026-11-04 16:10:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華鵬飛：控股股東張京豫質押627萬股公司股份】華鵬飛公告稱，公司控股股東、實際控制人張京豫於2026年11月3日將其持有的627萬股公司股份辦理質押，佔其所持股份比例7.10%，佔公司總股本比例1.12%，質權人為深圳市高新投融資擔保有限公司，質押用途為償還債務。本次質押後，張京豫及其一致行動人累計質押股份4304萬股，佔其所持股份比例35.70%，佔公司總股本比例7.66%。本次股份質押事項對公司生產經營、公司治理等均不產生影響。"
-    },
-    {
-      "id": "5192747",
-      "time": "2026-11-04 16:10:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "寶馬公司發言人表示，該公司正在等待美國中期選舉的最終結果，數十年來，公司與兩黨政府都保持了良好的合作關係。"
-    },
-    {
-      "id": "5192746",
-      "time": "2026-11-04 16:10:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【民調：美國選民對現狀多“差評”】美國中期選舉於3日舉行，共和、民主兩黨展開激烈角逐。多項民意調查顯示，選民普遍對美國現狀不滿，生活成本是決定他們抉擇的最重要因素。美聯社3日釋出的民調顯示，選民們渴望改變現狀，約四分之三選民對國家目前發展狀況感到“憤怒”或“不滿”。約六成人認為，物價高於往常的主要原因在於“特朗普的政策”而非“特朗普無法控制的因素”。 美國有線電視新聞網3日釋出的一項民意調查顯示，75%選民認為經濟狀況差，約九成表示生活成本是投票抉擇中的“關鍵”或主要因素。約三分之二選民認為美國總統特朗普令國家經濟狀況惡化。該調查於10月19日至11月3日進行。 路透社和益普索集團10月29日至11月2日在全美範圍調查了1765名成年人。結果顯示，大約48%登記選民將生活成本視為他們決定選擇的最重要因素，26%將民主規範放在首位，13%則優先關注移民問題。（新華社）"
-    },
-    {
-      "id": "te:markets:598007",
-      "time": "2026-11-04 16:10:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cotton Gains by 1.75% — Top commodity gainers are Cotton (1.75%) and Rice (0.74%). Biggest losers are Rubber (-1.29%) and Palm Oil (-1.25%)."
-    },
-    {
-      "id": "te:markets:598006",
-      "time": "2026-11-04 16:09:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "AXA Shares Hit 5-week High — AXA shares increased to 43.43 EUR, the highest since September 2026. Over the past 4 weeks, AXA gained 2.99%, and in the last 12 months, it increased 13.91%."
-    },
-    {
-      "id": "5192745",
-      "time": "2026-11-04 16:09:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【諾和諾德上調2026年全年業績預期】11月4日，一份宣告顯示，諾和諾德2026年第三季度調整後及報告銷售額按固定匯率計算增長4%；調整後營業利潤按固定匯率計算增長27%。諾和諾德表示，截至第三季度末，Wegovy®片劑（司美格魯肽片劑）已在美國、阿聯酋、英國和德國上市，其市場接受度推動2026年第三季度銷售額達到53.94億丹麥克朗。此後，該產品又在另外四個國家上市，使已上市市場總數達到八個。諾和諾德將2026年調整後銷售額和調整後營業利潤預測上調至按固定匯率計算的+2%至-2%區間，該公司表示，這主要得益於對美國和國際市場GLP-1銷售額預期的提高。"
-    },
-    {
-      "id": "5192744",
-      "time": "2026-11-04 16:09:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長江證券：科技創新公司債券擬更名】長江證券公告稱，公司2025年面向專業投資者公開發行的科技創新公司債券採用分期發行方式，徵得主管部門同意後，擬將發行規模不超過5億元（含5億元）的本期債券名稱確定為“長江證券股份有限公司2026年面向專業投資者公開發行科技創新公司債券（第二期）”。本次債券名稱變更不改變原發行相關法律檔案效力，原簽署的相關法律檔案對更名後的債券繼續有效。"
-    },
-    {
-      "id": "5192743",
-      "time": "2026-11-04 16:09:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙江東方：首次出售部分已回購股份30萬股】浙江東方公告稱，公司此前計劃自2026年5月14日披露的出售公告之日起15個交易日後的6個月內，以集中競價方式出售不超過6830.7629萬股已回購股份，佔公司總股本不超過2%。2026年11月4日，公司透過集中競價交易方式首次出售回購股份30萬股，佔公司總股本的0.0088%，出售均價4.32元/股，成交金額129.53萬元（未扣除交易費用、稅金）。本次出售符合既定出售計劃及相關規定，出售後公司剩餘回購股份6802.56萬股，佔總股本1.9917%。"
-    },
-    {
-      "id": "mkt:01a1a59a-e904-7ee0-aa66-2767e1412c51",
-      "time": "2026-11-04 16:09:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UEDA, governor of the BANK OF JAPAN, will visit the United States and Switzerland from Nov 5 to 10."
-    },
-    {
-      "id": "5192742",
-      "time": "2026-11-04 16:09:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數漲1.67%，恒生科技指數漲1.77%】華虹宏力漲15.67%，天數智芯漲12.78%，藥明生物漲12.54%，藥明康德漲12.27%，信義光能漲10.46%，百濟神州漲10.28%，智譜漲9.64%。"
-    },
-    {
-      "id": "mkt:01a1a59a-8f96-7ee0-aa66-1bde51822c4d",
-      "time": "2026-11-04 16:08:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "Hang Seng Tech Index",
-        "02359.HK"
-      ],
-      "text": "Hong Kong stocks closed higher. Hang Seng Index rose 1.67%, Hang Seng TECH Index rose 1.77%. Innovative-drug sector outperformed; WuXi AppTec (02359.HK) jumped 12.39%."
-    },
-    {
-      "id": "mkt:01a1a59a-8469-7ee0-aa66-17727ce8c5bb",
-      "time": "2026-11-04 16:08:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "EURUSD"
-      ],
-      "text": "Meta Platforms (META.O) launches six-tranche inaugural euro-denominated bond offering."
-    },
-    {
-      "id": "5192741",
-      "time": "2026-11-04 16:08:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家發展改革委：將建設一批骨幹農產品批發市場】在國家發展改革委今天舉行的“奮進‘十五五’”系列新聞釋出會上，經貿司副司長寇榮介紹，“十五五”期間，相關部門將進一步加強生鮮農產品產地市場體系和檢驗能力建設，加快補齊田頭預冷、產地冷鏈集配中心短板，建設一批骨幹農產品批發市場，努力降低生鮮農產品流通損耗。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a1a59a-2fb3-7ee0-aa66-0d999c484965",
-      "time": "2026-11-04 16:08:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "Dow"
-      ],
-      "text": "U.S. stock index futures all turned positive; Nasdaq-100 futures had earlier been down more than 2%."
-    },
-    {
-      "id": "5192740",
-      "time": "2026-11-04 16:08:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK集團將以每股88000韓元收購SK Ecoplant股份。"
-    },
-    {
-      "id": "5192739",
-      "time": "2026-11-04 16:08:05",
-      "tags": [
-        "央行",
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金公司中標第三批互換便利163億元 完成首批質押式回購交易】中金公司中標第三批互換便利共計163億元，為券商中最大規模。中金公司黨委書記、董事長陳亮表示，在蓬勃發展的新質生產力引領下，中國經濟持續向新向優，為全球經濟不斷注入確定性和穩定性，中金公司堅定看好中國經濟基本面與資本市場長期前景，繼2024年落地全市場首筆並先後完成兩批互換便利操作以來，此次以更大力度參與第三批互換便利業務，充分踐行金融工作政治性和人民性，積極發揮穩市作用，助力資本市場高質量發展。記者瞭解到，中金公司已於11月4日完成了本次證券、基金、保險公司互換便利操作下的首批質押式回購交易，質押券為2026年第一期互換便利央行票據。"
-    },
-    {
-      "id": "5192737",
-      "time": "2026-11-04 16:07:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Meta開始發售其六部分組成的首次歐元債券。"
-    },
-    {
-      "id": "mkt:01a1a599-926f-7ee0-aa66-03766e7827cd",
-      "time": "2026-11-04 16:07:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "S&P 500 index futures turned positive, erasing an earlier decline of as much as 1.4%."
-    },
-    {
-      "id": "5192736",
-      "time": "2026-11-04 16:07:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華鵬飛：控股股東張京豫質押627萬股公司股份】華鵬飛公告稱，公司控股股東、實際控制人張京豫於2026年11月3日將其持有的627萬股公司股份辦理質押，佔其所持股份比例7.10%，佔公司總股本比例1.12%，質權人為深圳市高新投融資擔保有限公司，質押用途為償還債務。本次質押後，張京豫及其一致行動人累計質押股份4304萬股，佔其所持股份比例35.70%，佔公司總股本比例7.66%。本次股份質押事項對公司生產經營、公司治理等均不產生影響。"
-    },
-    {
-      "id": "5192735",
-      "time": "2026-11-04 16:07:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男將於11月5日至10日前往美國和瑞士。"
-    },
-    {
-      "id": "te:markets:598005",
-      "time": "2026-11-04 16:07:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Futures Cut Some Losses — US stock futures were mixed on Wednesday, with S&P 500 futures down 0.1% and Nasdaq 100 futures slipping 0.3%, while Dow Jones futures gained about 100 points as investors assessed the implications of the Democratic sweep of Congress.Futures pared some early losses after an initial slide as investors were said to be buying on the dip. Democrats won control of both the Senate and the House in the midterm elections. While a Democratic victory raises the prospect of tighter regulatory scrutiny, it is also seen as limiting the scope for further tax cuts and government spending. Hyperscalers were all lower in premarket trading, including Nvidia (-0.3%), Apple (-0.6%), Microsoft (-0.9%), Alphabet (-0.5%), Amazon (-0.9%), Meta (-0.5%). Tesla (-1.8%) and SpaceX (-1.8%) also booked losses. On the other hand, AMD jumped more than 5% after reporting stronger-than-expected earnings and revenue."
     }
   ]
 }
