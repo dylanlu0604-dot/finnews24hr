@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-11 23:45:59",
-  "count": 10199,
+  "updated": "2026-11-11 23:49:51",
+  "count": 10191,
   "items": [
+    {
+      "id": "5208704",
+      "time": "2026-11-11 23:48:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐美大使：推動中美建設性戰略穩定關係行穩致遠】中國駐美國大使謝鋒10日晚表示，近年來，中國、美國和世界發生了重大深刻變化，兩國關係也經歷波折起伏，但中美關係互利共贏的本質特徵沒有變，兩國人民友好交往的良好願望沒有變，國際社會對中美和平共處的普遍期待沒有變。在太平洋兩岸，一個共識越來越清晰：中美合則兩利、鬥則俱傷，必須走出一條大國正確相處之道。（央視新聞）"
+    },
     {
       "id": "5208703",
       "time": "2026-11-11 23:44:39",
@@ -93407,92 +93415,6 @@
         "Importance 2"
       ],
       "text": "Crude Oil Falls for 3rd Session — Crude oil fell below $94 a barrel on Wednesday, extending losses for a third consecutive session and reaching its lowest level in around three weeks. Prices remained under pressure as investors assessed prospects for de-escalation in the US-Israeli conflict with Iran following the Republican Party’s losses in the midterm elections. President Donald Trump said Washington had no immediate plans for further strikes, although he stressed that the US remained prepared to act if necessary. Meanwhile, diplomatic efforts led by Qatar and Pakistan continued, with Qatari officials expecting responses from both sides on proposals to resolve the conflict, despite reports that negotiations remain far from an agreement. Supply dynamics also weighed on prices, as renewed Gulf exports pushed Middle Eastern oil availability above near-term demand for the first time since July. In the US, however, crude inventories fell by 865,000 barrels last week, marking their fifth consecutive weekly decline."
-    },
-    {
-      "id": "mkt:01a1a740-08b9-7ee0-aa76-d1743164bf9a",
-      "time": "2026-11-04 23:49:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA report: U.S. petroleum product supplied last week rose to its highest level since October 2025."
-    },
-    {
-      "id": "5193864",
-      "time": "2026-11-04 23:48:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）資料顯示，最新一週美國石油產品供應量升至2025年10月以來最高水平。"
-    },
-    {
-      "id": "5193863",
-      "time": "2026-11-04 23:47:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "衣索比亞政府要求六名蘇丹外交官在48小時內離境，此前衣索比亞與蘇丹的緊張關係不斷升級。"
-    },
-    {
-      "id": "5193862",
-      "time": "2026-11-04 23:47:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "邁威爾科技股價勢將創下5月12日以來最低水平；最新下跌7.7%。"
-    },
-    {
-      "id": "5193861",
-      "time": "2026-11-04 23:47:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙燃油分銷商Exolum的終端10月向西班牙市場交付的油品同比增長6.4%。"
-    },
-    {
-      "id": "mkt:01a1a73d-fbac-7ee0-aa76-cb50e1028949",
-      "time": "2026-11-04 23:46:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "EIA report: U.S. crude oil production rose to a record high in the most recent week."
-    },
-    {
-      "id": "mkt:01a1a73d-792d-7ee0-aa76-c19b112a7e76",
-      "time": "2026-11-04 23:46:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "UK FTSE 100 rose as much as 2.00% intraday."
-    },
-    {
-      "id": "mkt:01a1a73d-72d3-7ee0-aa76-beeda83639d9",
-      "time": "2026-11-04 23:46:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy has arrived in Spain and will hold high-level meetings during the Ibero-American Summit."
-    },
-    {
-      "id": "5193860",
-      "time": "2026-11-04 23:46:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：烏克蘭總統澤連斯基抵達西班牙，將在伊比利亞美洲峰會期間舉行高層會晤。"
     }
   ]
 }
