@@ -1,7 +1,85 @@
 {
   "date": "2026-11-11",
-  "count": 1445,
+  "count": 1455,
   "items": [
+    {
+      "id": "5207861",
+      "time": "2026-11-11 16:37:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋9月份M3貨幣供應量同比增長12.3%。"
+    },
+    {
+      "id": "mkt:01a1c9c0-f350-7bbc-aba0-0cf8a09905ac",
+      "time": "2026-11-11 16:37:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【AI appetite returns, CoreWeave optimism boosts European tech stocks】European equities rose toward record highs as oil fell and investor appetite for AI trading recovered. Miners led gains on lower oil and a softer dollar; techs advanced after AI compute provider CoreWeave Inc. gave an upbeat earnings outlook and investor anticipation of an Anthropic IPO increased. Siemens Energy jumped 6.5% after saying surging demand for gas turbines and grid equipment could lift margins to as high as 22% by 2030 and helped more than double profits last year. Since the US midterms last Wednesday the STOXX Europe 600 is up about 2% while the S&P 500 is down 0.6%. Roger Lee, head of equity strategy at Cavendish, said reduced post-midterm AI skepticism has reversed some flows in favour of non-US markets."
+    },
+    {
+      "id": "5207860",
+      "time": "2026-11-11 16:36:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美亞光電推出首個口腔數智化信創解決方案】據美亞光電訊息，近日，“數智江淮 科創興皖”2026人工智慧創新生態大會於合肥舉辦。大會同步舉行華為安徽算力生態夥伴聯合解決方案發布儀式，美亞光電攜“口腔數智化場景解決方案”亮相。該方案基於華為昇騰平臺打造，可為口腔專科醫院、綜合醫院口腔科、連鎖口腔機構提供一體化國產本地部署服務，覆蓋AI算力底座、口腔管理軟體、臨床輔助診斷AI應用、智慧裝置協同全鏈路，支撐口腔AI能力院內落地，賦能口腔醫療行業安全、智慧、高質量發展。"
+    },
+    {
+      "id": "mkt:01a1c9c0-58da-7bbc-aba0-05d00169d1dd",
+      "time": "2026-11-11 16:36:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to reports, a Russian delegation will hold a press conference in Abu Dhabi this afternoon to announce the results of three-party talks."
+    },
+    {
+      "id": "5207859",
+      "time": "2026-11-11 16:36:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金安國紀：為兩家全資子公司提供合計3.50億元擔保】金安國紀公告稱，公司為全資子公司金安國紀科技（珠海）有限公司向交通銀行珠海分行融資提供2億元連帶責任保證，主合同期限為2026年9月14日至2028年9月22日；為全資子公司金安國紀商貿有限公司向光大銀行上海松江科技支行融資提供1.5億元連帶責任保證，主合同期限為2026年11月9日至2027年11月8日。本次擔保在公司股東會審議透過的54.50億元擔保額度範圍內。本次擔保後，公司為控股子公司擔保總餘額為38.02億元，佔最近一期經審計淨資產的104.24%。截至2026年10月31日，控股子公司實際使用銀行授信25.87億元，佔最近一期經審計淨資產的70.94%。公司無對外擔保、逾期擔保及涉訴擔保情況。"
+    },
+    {
+      "id": "te:markets:600339",
+      "time": "2026-11-11 16:35:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Rises to Hit Record Highs — Frankfurt's DAX 40 rose more than 1% to around 26,640 on Wednesday, hitting an all-time high and extending its winning streak into three sessions. Global market sentiment gained fresh momentum, underpinned by renewed enthusiasm for technology stocks. CoreWeave’s upbeat business outlook helped counter fears of an AI bubble, while the prospect of Anthropic PBC going public added another layer of excitement. Siemens Energy led gains among stocks, climbing more than 6% after reporting record quarterly revenue, raising its full-year guidance and announcing plans to expand its share buyback programme."
+    },
+    {
+      "id": "5207858",
+      "time": "2026-11-11 16:35:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京市發展和改革委員會關於印發加強設計服務推動居家適老化改造和產業發展實施方案的通知】為進一步加強居家適老化改造設計服務能力，推動高質量居家適老化改造，推進生產性服務業向專業化和價值鏈高階延伸，促進生活性服務業高品質多樣化便利化發展，培育首都經濟發展新動能，提高老年人生活品質，北京市發展和改革委員會制定了《關於加強設計服務推動居家適老化改造和產業發展的實施方案》，現予以印發，請遵照執行。（北京市政府）"
+    },
+    {
+      "id": "5207857",
+      "time": "2026-11-11 16:34:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲4%，現報1061.94美元/盎司。"
+    },
+    {
+      "id": "5207856",
+      "time": "2026-11-11 16:34:03",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利大幅下調三星、海力士長期盈利預期 目標價大降】摩根士丹利與野村對韓國由AI驅動的儲存晶片景氣週期究竟能持續多久觀點分歧巨大。摩根士丹利週一下調SK海力士目標價38%，至160萬韓元（約合1198美元）；同時將三星電子目標價下調19%，至30.9萬韓元。下調理由是：晶片供給增加，疊加2028年資料中心建設進度延後帶來的風險。 野村在上週四釋出的報告中維持原有目標價：SK海力士470萬韓元、三星電子67萬韓元，分別是摩根士丹利調整後目標價的2.9倍與2.2倍。 兩家投行均看好明年盈利表現。摩根士丹利上調三星、SK海力士2027年營業利潤預期，上調幅度分別為9%、13%，但大幅下調了長期利潤率假設。摩根士丹利分析師Shawn Kim在週一報告中表示：“當前儲存晶片市場最核心的爭論，就是我們能否避免2028年出現‘盈利斷崖’。” 對於SK海力士，Kim將其2029–2035年預期平均營業利潤率從53%下調至28%，判斷盈利水平將回歸歷史常態區間。"
+    },
     {
       "id": "mkt:01a1c9bd-ce11-7bbc-ab9f-fb96d902d788",
       "time": "2026-11-11 16:33:41",
@@ -9,6 +87,14 @@
         "MKT News"
       ],
       "text": "Ukraine's prime minister said Russia struck six large power facilities across four regions."
+    },
+    {
+      "id": "5207855",
+      "time": "2026-11-11 16:33:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東北證券廖博：科技為矛、商品為盾，“雙創”板塊有望實現估值修復】11月11日，在東北證券2026上海總量觀瀾論壇上，東北證券宏觀首席分析師廖博表示，近期市場波動主要表現為流動性再平衡，新舊動能比較視野下流動性或成為大類資產定價主線，股市表現有望向內涵價值收斂，前期調整較多的科創板、創業板有望實現估值修復；全球市場將在流動性波動的環境中震盪執行，基本面和企業盈利的韌性共同決定後續表現的斜率與可持續性。產業層面，廖博談到，AI算力、先進儲存等需求帶動硬科技鏈量價齊升，以AI、機器人、創新藥為代表的新質生產力企業業績延續高增，完備製造業體系與產品價效比紅利正轉化為出口出海型企業的全球競爭優勢。配置上可概括為“科技為矛、商品為盾”，2027年出口仍是中國經濟的結構性亮點。"
     },
     {
       "id": "mkt:01a1c9bd-b26a-7bbc-ab9f-f37eb22c32e4",
