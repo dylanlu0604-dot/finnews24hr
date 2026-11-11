@@ -1,7 +1,71 @@
 {
   "date": "2026-11-11",
-  "count": 837,
+  "count": 844,
   "items": [
+    {
+      "id": "mkt:01a1c856-6e16-7bbc-ab98-e7bcbfa5ef68",
+      "time": "2026-11-11 10:01:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Strategist: Fed rate-hike bets rise; BOJ faces \"follow or wait\" choice】SMBC Nikko Securities strategist Ataru Okumura said stronger US inflation data has lifted Fed tightening expectations and may force the BOJ to follow to avoid yen weakness and higher bond yields. He warned Fed tightening that ignores stricter AI regulation could risk a sharp economic slowdown. The JGB market faces a tug of war between concerns the BOJ is lagging on inflation and flows hedging a downturn; yields could swing sharply as focus shifts between those risks."
+    },
+    {
+      "id": "5207252",
+      "time": "2026-11-11 10:00:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行貨幣政策委員會：當前利率適宜支援經濟復甦。"
+    },
+    {
+      "id": "5207251",
+      "time": "2026-11-11 10:00:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南省人大常委會原黨組成員、副主任肖傑被提起公訴】從最高人民檢察院獲悉，海南省人大常委會原黨組成員、副主任肖傑涉嫌受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。最高人民檢察院依法以涉嫌受賄罪對肖傑作出逮捕決定，並指定由廣東省惠州市人民檢察院審查起訴。近日，惠州市人民檢察院已向惠州市中級人民法院提起公訴。檢察機關在審查起訴階段，依法告知了被告人肖傑享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人肖傑利用擔任海南省瓊海市委書記，海南省農業廳黨組書記、廳長，海南省三沙市委書記、市長，海南省委常委、統戰部部長，海南省人大常委會黨組成員、副主任等職務上的便利，為他人謀取利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪追究其刑事責任。"
+    },
+    {
+      "id": "5207250",
+      "time": "2026-11-11 09:58:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富創精密投資成立半導體科技公司】企查查APP顯示，近日，瀋陽創啟半導體科技有限公司成立，經營範圍包含：氣壓動力機械及元件製造；氣壓動力機械及元件銷售；工業自動控制系統裝置製造等。企查查股權穿透顯示，該公司由富創精密全資持股。"
+    },
+    {
+      "id": "mkt:01a1c854-042a-7bbc-ab98-de294f35d754",
+      "time": "2026-11-11 09:58:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share retail sector rallied intraday; Hongqi Chain hit the daily limit. Tianhong, Guofang Group, Xiangjiang Holdings, Yinzuo and Quanxinhao also advanced."
+    },
+    {
+      "id": "5207249",
+      "time": "2026-11-11 09:57:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售板塊短線拉昇，紅旗連鎖漲停】零售板塊短線拉昇，紅旗連鎖漲停，天虹股份、國芳集團、香江控股、銀座股份、全新好跟漲。"
+    },
+    {
+      "id": "5207248",
+      "time": "2026-11-11 09:57:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本NTT DOCOMO 移動服務再次出現部分中斷。"
+    },
     {
       "id": "mkt:01a1c852-dfd8-7bbc-ab98-d6b8f302569c",
       "time": "2026-11-11 09:57:16",

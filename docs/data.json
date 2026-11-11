@@ -1,7 +1,71 @@
 {
-  "updated": "2026-11-11 09:57:49",
-  "count": 10498,
+  "updated": "2026-11-11 10:01:38",
+  "count": 10494,
   "items": [
+    {
+      "id": "mkt:01a1c856-6e16-7bbc-ab98-e7bcbfa5ef68",
+      "time": "2026-11-11 10:01:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Strategist: Fed rate-hike bets rise; BOJ faces \"follow or wait\" choice】SMBC Nikko Securities strategist Ataru Okumura said stronger US inflation data has lifted Fed tightening expectations and may force the BOJ to follow to avoid yen weakness and higher bond yields. He warned Fed tightening that ignores stricter AI regulation could risk a sharp economic slowdown. The JGB market faces a tug of war between concerns the BOJ is lagging on inflation and flows hedging a downturn; yields could swing sharply as focus shifts between those risks."
+    },
+    {
+      "id": "5207252",
+      "time": "2026-11-11 10:00:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行貨幣政策委員會：當前利率適宜支援經濟復甦。"
+    },
+    {
+      "id": "5207251",
+      "time": "2026-11-11 10:00:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南省人大常委會原黨組成員、副主任肖傑被提起公訴】從最高人民檢察院獲悉，海南省人大常委會原黨組成員、副主任肖傑涉嫌受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。最高人民檢察院依法以涉嫌受賄罪對肖傑作出逮捕決定，並指定由廣東省惠州市人民檢察院審查起訴。近日，惠州市人民檢察院已向惠州市中級人民法院提起公訴。檢察機關在審查起訴階段，依法告知了被告人肖傑享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人肖傑利用擔任海南省瓊海市委書記，海南省農業廳黨組書記、廳長，海南省三沙市委書記、市長，海南省委常委、統戰部部長，海南省人大常委會黨組成員、副主任等職務上的便利，為他人謀取利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪追究其刑事責任。"
+    },
+    {
+      "id": "5207250",
+      "time": "2026-11-11 09:58:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富創精密投資成立半導體科技公司】企查查APP顯示，近日，瀋陽創啟半導體科技有限公司成立，經營範圍包含：氣壓動力機械及元件製造；氣壓動力機械及元件銷售；工業自動控制系統裝置製造等。企查查股權穿透顯示，該公司由富創精密全資持股。"
+    },
+    {
+      "id": "mkt:01a1c854-042a-7bbc-ab98-de294f35d754",
+      "time": "2026-11-11 09:58:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share retail sector rallied intraday; Hongqi Chain hit the daily limit. Tianhong, Guofang Group, Xiangjiang Holdings, Yinzuo and Quanxinhao also advanced."
+    },
+    {
+      "id": "5207249",
+      "time": "2026-11-11 09:57:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售板塊短線拉昇，紅旗連鎖漲停】零售板塊短線拉昇，紅旗連鎖漲停，天虹股份、國芳集團、香江控股、銀座股份、全新好跟漲。"
+    },
+    {
+      "id": "5207248",
+      "time": "2026-11-11 09:57:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本NTT DOCOMO 移動服務再次出現部分中斷。"
+    },
     {
       "id": "mkt:01a1c852-dfd8-7bbc-ab98-d6b8f302569c",
       "time": "2026-11-11 09:57:16",
@@ -96540,106 +96604,6 @@
         "國際"
       ],
       "text": "據 DDHQ 預測，民主黨候選人科涅蒂贏得賓夕法尼亞州美國眾議院席位選舉。"
-    },
-    {
-      "id": "mkt:01a1a44a-4976-7ee0-aa5a-c8f6c7f6d8f3",
-      "time": "2026-11-04 10:01:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AP reports U.S. Republican Hageman is expected to win Wyoming's U.S. Senate seat."
-    },
-    {
-      "id": "mkt:01a1a449-c9a2-7ee0-aa5a-c7b7fb48c974",
-      "time": "2026-11-04 10:01:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AP says Democratic governor HOCHUL is projected to win New York's gubernatorial race."
-    },
-    {
-      "id": "5191976",
-      "time": "2026-11-04 10:01:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "民主黨候選人霍楚爾據預測贏得紐約州州長選舉。"
-    },
-    {
-      "id": "5191975",
-      "time": "2026-11-04 10:00:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年世界網際網路大會藍皮書釋出】2026年世界網際網路大會烏鎮峰會今天（4日）進入第三天，由中國網路空間研究院編寫的《中國網際網路發展報告2026》和《世界網際網路發展報告2026》藍皮書正式對外發布。《中國網際網路發展報告2026》顯示，我國網信科技創新步伐加快，人工智慧技術產業蓬勃發展，智慧體與具身智慧產業加速興起。2025年中國企業級AI智慧體市場規模躍升至212億元，具身智慧市場規模約9150億元。截至2026年6月，累計有924款生成式人工智慧服務完成備案，573款生成式人工智慧應用或功能完成登記；2026年3月，我國日均詞元呼叫量攀升至140萬億，兩年間增長超千倍。網路空間對外交流合作持續深化，中國理念贏得廣泛國際認同，網路空間國際影響力感召力塑造力更加彰顯。世界網際網路大會電子商務專委會副主任委員陳柏琿介紹，開源開放降低了技術門檻和使用成本，可以使發展中國家中小企業用得上、用得起人工智慧；而共建共享，可以推動資料保護、人才培養和規則協作等各方溝通，降低跨境應用中的摩擦成本。“開源開放 共建共享”不僅是一種技術理念，也為縮小數字鴻溝，幫助發展中國家提高生產力，融入全球數字經濟的發展提供了重要機遇。《世界網際網路發展報告2026》顯示，新一輪科技革命和產業變革加速突破，全球人工智慧正經歷從量變到質變的跨越，加速走向物理世界，驅動科學研究全面拓展。預計到2030年人工智慧對全球經濟的貢獻將達22.3萬億美元，佔當年全球GDP的3.7%。但同時區域發展不平衡問題日益突出，尤其是人工智慧發展催生了新的智慧鴻溝，進一步拉大了國家之間的數字發展差距。"
-    },
-    {
-      "id": "5191974",
-      "time": "2026-11-04 10:00:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【哈電集團原黨委常委、紀委書記楊宏勇被提起公訴】從最高人民檢察院獲悉，哈爾濱電氣集團有限公司（以下簡稱哈電集團）原黨委常委、紀委書記，國家監委原駐哈電集團監察專員楊宏勇涉嫌受賄、利用影響力受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。經最高人民檢察院指定管轄，安徽省人民檢察院依法以涉嫌受賄罪、利用影響力受賄罪對楊宏勇作出逮捕決定。近日，安徽省蚌埠市人民檢察院已向蚌埠市中級人民法院提起公訴。檢察機關在審查起訴階段依法告知了被告人楊宏勇享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人楊宏勇利用擔任西藏自治區紀委常委、紀委副書記，中央巡視組正局級巡視專員，哈電集團黨委常委、紀委書記、國家監委駐哈電集團監察專員等職務上的便利，為他人謀取利益，以及利用本人職權或地位形成的便利條件，透過其他國家工作人員職務上的行為，為他人謀取不正當利益，非法收受財物，數額特別巨大；退休後，利用原職權或者地位形成的便利條件，透過其他國家工作人員職務上的行為，為他人謀取不正當利益，非法收受財物，數額特別巨大，依法應當以受賄罪、利用影響力受賄罪追究其刑事責任。"
-    },
-    {
-      "id": "5191973",
-      "time": "2026-11-04 10:00:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股票ETF昨日淨流入838億元 924行情以來第三高】成交額大幅放量後，Wind資料顯示，昨日（11月3日）股票ETF淨流入837.59億元，是自2024年“924行情”以來第三高的單日，此前，僅有2024年10月8日（淨流入1061.44億元）、去年4月8日（淨流入1009.76億元）超過這一水平，也是年內的新高單日。具體來看，寬基ETF依舊是淨流入主力，滬深300ETF華泰柏瑞淨流入130.12億元，淨流入最多，最新規模1821.13億元；科創50ETF華夏也淨流入112.24億元，最新規模1274.76億元，續創新高；淨流入超百億的還有上證50ETF華夏，當天淨流入103.1億元，最新規模475.24億元。"
-    },
-    {
-      "id": "mkt:01a1a448-d1f5-7ee0-aa5a-be007c8d3b76",
-      "time": "2026-11-04 09:59:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【U.S. midterms tilt toward Democrats; 10-year Treasury yield drops】Preliminary U.S. midterm results favor Democrats; the 10-year Treasury yield slid from about 4.97% earlier to roughly 4.89%, its lowest since early September. U.S. stock index futures sold off and the dollar weakened to its weakest level since late September. ITC Markets FX strategist said FX moves are intensifying: Swiss franc +0.8%, euro +0.6% vs the dollar, yen +0.5% vs the dollar."
-    },
-    {
-      "id": "5191972",
-      "time": "2026-11-04 09:59:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣東信宜農村商業銀行股份有限公司原黨委書記、董事長黃勇接受紀律審查和監察調查】茂名廉政網11月4日通報，廣東信宜農村商業銀行股份有限公司原黨委書記、董事長黃勇涉嫌嚴重違紀違法，目前正接受廣東省紀委監委駐省農信聯社紀檢監察組紀律審查和信宜市監委監察調查。"
-    },
-    {
-      "id": "5191971",
-      "time": "2026-11-04 09:59:34",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗將其覆蓋的所有印尼銀行的目標股價下調了 22% 至 55%，以反映MSCI可能將印尼從新興市場重新歸類為獨立市場。"
-    },
-    {
-      "id": "mkt:01a1a447-3138-7ee0-aa5a-b29d219294f5",
-      "time": "2026-11-04 09:58:11",
-      "tags": [
-        "MKT News",
-        "SOXX",
-        "Impact bullish",
-        "SMH",
-        "Nasdaq100"
-      ],
-      "text": "【Multiple semiconductor-equipment ETFs rise more than 4%】A-share morning trading: semiconductor sector active; semiconductor-equipment thematic ETFs from GF Fund, ChinaAMC and E Fund rose over 4%."
-    },
-    {
-      "id": "mkt:01a1a446-e6a4-7ee0-aa5a-af3db7839ecf",
-      "time": "2026-11-04 09:57:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【N. Korea says U.S. continues to send hostile signals】KCNA reported on the 4th that Workers' Party Central Committee minister Kim Yo-jong said the U.S. continues to send hostile signals, prompting Pyongyang to reassess the U.S. on multiple fronts. She said that as U.S. hostility toward North Korea reaches new highs, Pyongyang's \"reflexive responses\" should also set new records. Pyongyang has repeatedly said Washington's abandonment of its hostile policy toward the North is the essential precondition for resolving all issues."
     }
   ]
 }
