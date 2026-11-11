@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-11 23:33:59",
-  "count": 10210,
+  "updated": "2026-11-11 23:38:06",
+  "count": 10205,
   "items": [
+    {
+      "id": "5208694",
+      "time": "2026-11-11 23:36:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克伊斯蘭抵抗組織通報，昨日有20架美軍軍機從約旦方向侵入伊拉克領空。"
+    },
+    {
+      "id": "5208693",
+      "time": "2026-11-11 23:33:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲內部就紐約聯儲主席威廉姆斯卸任時間出現分歧，爭論焦點在於2027年還是2028年離任。"
+    },
+    {
+      "id": "5208692",
+      "time": "2026-11-11 23:33:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "野村現預計美聯儲今年12月和明年3月各加息一次。"
+    },
     {
       "id": "5208691",
       "time": "2026-11-11 23:32:13",
@@ -93548,89 +93574,6 @@
         "Impact bullish"
       ],
       "text": "EIA report: U.S. Midwest gasoline inventories fell to a record low in the latest week."
-    },
-    {
-      "id": "mkt:01a1a735-42e8-7ee0-aa76-6be16404e37e",
-      "time": "2026-11-04 23:37:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Decision Desk HQ (DDHQ) projects Teresa Benitez-Thompson to win Nevada's 2nd U.S. House district."
-    },
-    {
-      "id": "5193851",
-      "time": "2026-11-04 23:37:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：衛生部提議，對在特定關鍵引數上被認定質量不達標的藥品，立即吊銷其生產許可證。"
-    },
-    {
-      "id": "mkt:01a1a734-c0e3-7ee0-aa76-6101e0e3d695",
-      "time": "2026-11-04 23:36:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "EIA report: US Gulf Coast crude inventories fell in the latest week to their lowest level since December 2022."
-    },
-    {
-      "id": "mkt:01a1a733-c726-7ee0-aa76-5dd9a470bcf4",
-      "time": "2026-11-04 23:35:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israel Defense Forces said it killed Jamal Abu Saeed, head of the operations department of Hamas's military wing."
-    },
-    {
-      "id": "5193850",
-      "time": "2026-11-04 23:35:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）資料顯示，美國墨西哥灣沿岸原油庫存最新一週降至2022年12月以來最低水平。"
-    },
-    {
-      "id": "te:economy:598232",
-      "time": "2026-11-04 23:34:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Crude Oil Stocks Change",
-        "Importance 1"
-      ],
-      "text": "US Crude Oil Inventories Fall for 5th Week — US crude oil inventories fell by 0.865 million barrels in the week ended October 30, marking a fifth consecutive weekly decline, following a 1.892 million-barrel draw in the previous week. On the other hand, crude stocks at the Cushing, Oklahoma, delivery hub also increased by 280 thousand barrels, while refinery crude runs rose by 199 thousand barrels per day. Distillate inventories, which include diesel and heating oil, declined by 3.565 million barrels, exceeding expectations for a 100,000-barrel decrease. Gasoline inventories decreased by 0.222 million barrels. Meanwhile, net US crude imports rose by 1.179 million barrels per day."
-    },
-    {
-      "id": "mkt:01a1a732-5707-7ee0-aa76-522f2260f8ab",
-      "time": "2026-11-04 23:34:16",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish",
-        "GM.N"
-      ],
-      "text": "Microsoft (MSFT.O) shares briefly rose to a record high and were last up 6.1%. GM shares rose to a record high and were last up 4.0%."
-    },
-    {
-      "id": "5193849",
-      "time": "2026-11-04 23:34:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "通用汽車股價躍升至歷史新高，最新上漲4%。"
     }
   ]
 }
