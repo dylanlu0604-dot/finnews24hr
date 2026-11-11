@@ -1,7 +1,51 @@
 {
-  "updated": "2026-11-11 23:49:51",
+  "updated": "2026-11-11 23:53:49",
   "count": 10191,
   "items": [
+    {
+      "id": "5208708",
+      "time": "2026-11-11 23:52:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數上漲1.1%，創日內新高。"
+    },
+    {
+      "id": "5208707",
+      "time": "2026-11-11 23:52:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：儘管利率上升，歐洲房地產行業前景仍維持中性。"
+    },
+    {
+      "id": "5208706",
+      "time": "2026-11-11 23:52:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書雷扎伊：伊朗與鄰國及美國的外交立足於構建威懾。地區安全應由地區國家自行負責，外部勢力不得在安全安排中擁有最終話語權。"
+    },
+    {
+      "id": "5208705",
+      "time": "2026-11-11 23:50:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲6%】費城半導體指數日內漲6.02%，現報10600.65點。英偉達漲3.72%，博通漲5.79%，美光漲12.26%，英特爾漲8.32%，AMD漲6.78%，高通漲1.71%，臺積電漲3.66%，阿斯麥漲2.56%。"
+    },
+    {
+      "id": "te:economy:600472",
+      "time": "2026-11-11 23:49:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Car Registrations",
+        "Importance 1"
+      ],
+      "text": "Brazil Vehicle Sales Retreat in October — Brazil’s new-vehicle sales fell 5.6% month-over-month to 265,500 units in October 2026, the lowest level since April, after a 2.3% increase in September. Passenger-car sales declined 4.8% to 206,100 and light commercial vehicles dropped 8.3% to 47,800, while truck sales decreased 3.1% to 9,900 and bus sales slumped 29.1% to 1,700. Average daily sales eased to 12,600 units from 13,400 in September, but were 11.5% higher than a year earlier, while total sales rose 1.8% year-on-year. In the first ten months, sales reached 2.52 million units, up 16.1%, supported by the Carro Sustentável program, whose models sold 412,800 units (+22.3%), and by electrified vehicles, which jumped 125.7% to 495,700 units, lifting their share to 20.5% of light-vehicle sales from 10.7%. Imports kept rising, up 22.3% in October, with Chinese models now doubling Argentine ones in registrations this year."
+    },
     {
       "id": "5208704",
       "time": "2026-11-11 23:48:36",
@@ -93368,53 +93412,6 @@
         "焦點"
       ],
       "text": "【布倫特原油自10月7日以來首次跌破100美元】布倫特原油失守100美元/桶，日內跌3.52%。"
-    },
-    {
-      "id": "5193867",
-      "time": "2026-11-04 23:53:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中東股市收盤播報｜土耳其股市收漲超4.1%，連漲三天】週三（11月4日），土耳其伊斯坦布林證交所全國100指數收漲4.12%，連續三個交易日反彈，報11478.13點，持續脫離2025年11月14日（收報10565.74點）以來最低收盤位10759.56點；在美國中期選舉結果揭曉之際，早盤時段持續擴大漲幅，北京時間17:30以來持續交投於11500點附近。在彭博跟蹤的全球92個股票指數中，土耳其股票在11月4日（迄今）表現最佳。截至伊斯坦布林時間下午5:22，BIST 30指數飆升4.6%，創5月22日以來的最大（盤中）漲幅。更廣泛的伊斯坦布林 100 指數上漲4.6%。伊斯坦布林證交所銀行指數收漲5.15%，報15808.40點，時隔一個交易日再次大幅反彈。"
-    },
-    {
-      "id": "5193866",
-      "time": "2026-11-04 23:52:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國環保署表示，已與高露潔-棕欖達成和解，使其遵守大批次化學品進口的相關要求。"
-    },
-    {
-      "id": "te:markets:598237",
-      "time": "2026-11-04 23:52:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Falls to 4-Week Low — Brent crude fell below $101 a barrel on Wednesday, extending losses for a third consecutive session and reaching its lowest level in four weeks. Prices remained under pressure as investors assessed prospects for de-escalation in the US-Israeli conflict with Iran following the Republican Party’s losses in the midterm elections. President Donald Trump said Washington had no immediate plans for further strikes, although he stressed that the US remained prepared to act if necessary. Meanwhile, diplomatic efforts led by Qatar and Pakistan continued, with Qatari officials expecting responses from both sides on proposals to resolve the conflict, despite reports that negotiations remain far from an agreement. Supply dynamics also weighed on prices, as renewed Gulf exports pushed Middle Eastern oil availability above near-term demand for the first time since July. In the US, however, crude inventories fell by 865,000 barrels last week, marking their fifth consecutive weekly decline."
-    },
-    {
-      "id": "5193865",
-      "time": "2026-11-04 23:52:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數日內跌4%】費城半導體指數日內跌4.01%，現報10174.88點。英偉達跌2.35%，博通跌2.31%，美光跌6.23%，英特爾跌5.47%，AMD跌0.84%，高通漲1.21%，臺積電跌2.37%，阿斯麥跌3.93%。"
-    },
-    {
-      "id": "te:markets:598236",
-      "time": "2026-11-04 23:51:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Falls for 3rd Session — Crude oil fell below $94 a barrel on Wednesday, extending losses for a third consecutive session and reaching its lowest level in around three weeks. Prices remained under pressure as investors assessed prospects for de-escalation in the US-Israeli conflict with Iran following the Republican Party’s losses in the midterm elections. President Donald Trump said Washington had no immediate plans for further strikes, although he stressed that the US remained prepared to act if necessary. Meanwhile, diplomatic efforts led by Qatar and Pakistan continued, with Qatari officials expecting responses from both sides on proposals to resolve the conflict, despite reports that negotiations remain far from an agreement. Supply dynamics also weighed on prices, as renewed Gulf exports pushed Middle Eastern oil availability above near-term demand for the first time since July. In the US, however, crude inventories fell by 865,000 barrels last week, marking their fifth consecutive weekly decline."
     }
   ]
 }

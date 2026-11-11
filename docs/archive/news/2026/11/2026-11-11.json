@@ -1,7 +1,51 @@
 {
   "date": "2026-11-11",
-  "count": 1833,
+  "count": 1838,
   "items": [
+    {
+      "id": "5208708",
+      "time": "2026-11-11 23:52:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數上漲1.1%，創日內新高。"
+    },
+    {
+      "id": "5208707",
+      "time": "2026-11-11 23:52:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：儘管利率上升，歐洲房地產行業前景仍維持中性。"
+    },
+    {
+      "id": "5208706",
+      "time": "2026-11-11 23:52:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書雷扎伊：伊朗與鄰國及美國的外交立足於構建威懾。地區安全應由地區國家自行負責，外部勢力不得在安全安排中擁有最終話語權。"
+    },
+    {
+      "id": "5208705",
+      "time": "2026-11-11 23:50:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲6%】費城半導體指數日內漲6.02%，現報10600.65點。英偉達漲3.72%，博通漲5.79%，美光漲12.26%，英特爾漲8.32%，AMD漲6.78%，高通漲1.71%，臺積電漲3.66%，阿斯麥漲2.56%。"
+    },
+    {
+      "id": "te:economy:600472",
+      "time": "2026-11-11 23:49:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Car Registrations",
+        "Importance 1"
+      ],
+      "text": "Brazil Vehicle Sales Retreat in October — Brazil’s new-vehicle sales fell 5.6% month-over-month to 265,500 units in October 2026, the lowest level since April, after a 2.3% increase in September. Passenger-car sales declined 4.8% to 206,100 and light commercial vehicles dropped 8.3% to 47,800, while truck sales decreased 3.1% to 9,900 and bus sales slumped 29.1% to 1,700. Average daily sales eased to 12,600 units from 13,400 in September, but were 11.5% higher than a year earlier, while total sales rose 1.8% year-on-year. In the first ten months, sales reached 2.52 million units, up 16.1%, supported by the Carro Sustentável program, whose models sold 412,800 units (+22.3%), and by electrified vehicles, which jumped 125.7% to 495,700 units, lifting their share to 20.5% of light-vehicle sales from 10.7%. Imports kept rising, up 22.3% in October, with Chinese models now doubling Argentine ones in registrations this year."
+    },
     {
       "id": "5208704",
       "time": "2026-11-11 23:48:36",
