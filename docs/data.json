@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-12 00:02:02",
-  "count": 10181,
+  "updated": "2026-11-12 00:06:00",
+  "count": 10175,
   "items": [
+    {
+      "id": "5208715",
+      "time": "2026-11-12 00:02:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta基礎設施主管桑託什·賈納丹將在2027年卸任，該職位由布朗（Dave Brown）接替。"
+    },
+    {
+      "id": "5208714",
+      "time": "2026-11-12 00:01:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "委內瑞拉國家石油公司批准向休斯頓發運石油裝置。"
+    },
     {
       "id": "5208713",
       "time": "2026-11-12 00:00:54",
@@ -93232,80 +93248,6 @@
         "市場"
       ],
       "text": "【費城半導體指數日內跌5%】費城半導體指數日內跌5.00%，現報10069.86點。英偉達跌2.55%，博通跌3.07%，美光跌7.47%，英特爾跌6.18%，AMD跌1.17%，高通跌0.92%，臺積電跌3.24%，阿斯麥跌4.60%。"
-    },
-    {
-      "id": "5193883",
-      "time": "2026-11-05 00:05:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【民主黨奪下參議院 特朗普重塑美聯儲之路再添屏障】隨著民主黨贏得參議院控制權，唐納德·特朗普試圖重塑美聯儲、讓利率政策順從其意願的行動遭遇了一道強有力的屏障。參議院控制權易手是一次重大的政治轉變，此前一度被認為不太可能發生。這實際上阻斷了白宮讓忠於特朗普的人選獲得確認、進入由七名理事組成的美聯儲理事會的路徑，也使特朗普政府失去了進一步加強對美國央行控制最直接的手段。在民主黨佔據多數後，馬薩諸塞州參議員伊麗莎白·沃倫可能出任參議院銀行委員會主席。這意味著負責監督美聯儲的委員會將由沃倫領導，而預計她會阻止任何被認為過度順從行政部門壓力的提名人選獲得推進。這一選舉結果也可能讓美聯儲及其主席凱文·沃什擁有更大的空間，透過提高利率來抗擊通脹。"
-    },
-    {
-      "id": "mkt:01a1a74e-607f-7ee0-aa77-0cef24e088a5",
-      "time": "2026-11-05 00:04:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German 10-year bond yield fell 2 bps to 3.29%."
-    },
-    {
-      "id": "te:markets:598241",
-      "time": "2026-11-05 00:04:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "P&G Shares Hit 17-month High — P&G shares increased to 167.72 USD, the highest since June 2025. Over the past 4 weeks, Procter & Gamble gained 14.68%, and in the last 12 months, it increased 14.8%."
-    },
-    {
-      "id": "5193882",
-      "time": "2026-11-05 00:04:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "義大利10年期國債收益率下跌9.5個基點，至4.36%。德國10年期國債收益率下跌2個基點，至3.29%。"
-    },
-    {
-      "id": "mkt:01a1a74d-8350-7ee0-aa77-048f4bf1c001",
-      "time": "2026-11-05 00:03:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Italy 10-year bond yield fell 9.5 bps to 4.36%."
-    },
-    {
-      "id": "5193881",
-      "time": "2026-11-05 00:03:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國外交部：埃博拉疫情對英國公眾的風險仍然較低。一名目前在剛果民主共和國的英國公民埃博拉檢測呈陽性。英國在處理此類案件方面有成熟完善的程式，相關程式已經啟動。"
-    },
-    {
-      "id": "mkt:01a1a74c-5763-7ee0-aa76-f822d538c86c",
-      "time": "2026-11-05 00:02:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The UK Foreign Office says a British national currently in the Democratic Republic of Congo has tested positive for Ebola. UK authorities have activated established procedures to handle the case. The risk to the UK public remains very low."
-    },
-    {
-      "id": "5193880",
-      "time": "2026-11-05 00:02:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國科研團隊釋出開源核糖核酸序列基礎模型】記者從中國科學技術大學獲悉，該校教授周少華、特任研究員熊鵬團隊釋出一款開源核糖核酸（RNA）序列基礎模型structRFM，提高了模型在RNA結構預測與功能推斷一系列下游任務中的效能，有望助力人工智慧驅動的科學研究、生物學機制理解、藥物發現等。5日，相關研究成果發表於國際學術期刊《自然》。(新華社)"
     }
   ]
 }
