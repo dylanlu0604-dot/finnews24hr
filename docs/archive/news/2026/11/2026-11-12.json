@@ -1,7 +1,28 @@
 {
   "date": "2026-11-12",
-  "count": 228,
+  "count": 230,
   "items": [
+    {
+      "id": "te:markets:600513",
+      "time": "2026-11-12 06:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Gains by 2.47% — Top commodity gainers are Natural Gas EU (2.47%), Natural Gas UK (2.46%), Germany Natural Gas THE (2.22%), Brent Oil (1.25%) and Crude Oil (0.44%). Biggest loser is Natural gas (-1.55%)."
+    },
+    {
+      "id": "5208931",
+      "time": "2026-11-12 06:29:29",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：英偉達正準備罷免執行長黃仁勳。英偉達董事會準備最快於今日召開會議，以決定執行長黃仁勳的去留。英偉達美股盤後跌幅擴大至8%。"
+    },
     {
       "id": "5208930",
       "time": "2026-11-12 06:27:43",
