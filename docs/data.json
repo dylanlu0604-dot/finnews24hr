@@ -1,7 +1,199 @@
 {
-  "updated": "2026-11-11 09:31:23",
-  "count": 10516,
+  "updated": "2026-11-11 09:35:09",
+  "count": 10514,
   "items": [
+    {
+      "id": "5207206",
+      "time": "2026-11-11 09:34:39",
+      "tags": [
+        "央行",
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗：維持菲律賓央行12月加息25個基點至5.75%的基本預期，同時指出鴿派風險上升，可能將最終利率限制在6%以下。"
+    },
+    {
+      "id": "mkt:01a1c83e-0e92-7bbc-ab98-2707e8a953b9",
+      "time": "2026-11-11 09:34:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 up 1.00% intraday."
+    },
+    {
+      "id": "5207205",
+      "time": "2026-11-11 09:34:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報52.25美元/盎司。"
+    },
+    {
+      "id": "5207203",
+      "time": "2026-11-11 09:34:14",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗將菲律賓明年經濟增長預期從5.8%下調至4.3%。"
+    },
+    {
+      "id": "5207202",
+      "time": "2026-11-11 09:33:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO板塊短線拉昇】CPO板塊短線拉昇，太辰光、劍橋科技、中際旭創、仕佳光子、新易盛紛紛走高、"
+    },
+    {
+      "id": "mkt:01a1c83d-2054-7bbc-ab98-18583275f276",
+      "time": "2026-11-11 09:33:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share optical-communications sector briefly rallied; Cambridge Technology jumped nearly 7%, with Zhongji Xuchuang, Haiguang Xinzhen and Huahong Hongli also rising."
+    },
+    {
+      "id": "5207201",
+      "time": "2026-11-11 09:32:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數上漲1%，至61070.89點。"
+    },
+    {
+      "id": "mkt:01a1c83b-d7ec-7bbc-ab98-131dabf0d8d0",
+      "time": "2026-11-11 09:32:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share photovoltaic equipment sector spiked intraday. Yamadun posted a third consecutive limit-up; Kaisheng New Energy, Jinchen and Qingyuan hit daily limit-ups. Zerun New Energy, Gaoce, Lapulasi and Oputai also rose."
+    },
+    {
+      "id": "5207200",
+      "time": "2026-11-11 09:32:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.02%。運機轉債、三房轉債、福新轉債、盛德轉債、聞泰轉債漲幅居前，分別漲7.44%、3.57%、3.21%、2.41%、2.31%。凱眾轉債、奧飛轉債、絲路轉債、歐通轉債、芯海轉債跌幅居前，分別跌2.03%、1.11%、1.01%、0.93%、0.81%。"
+    },
+    {
+      "id": "5207199",
+      "time": "2026-11-11 09:32:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4050美元/盎司，日內漲0.50%。"
+    },
+    {
+      "id": "5207198",
+      "time": "2026-11-11 09:31:51",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗將菲律賓2026年GDP增長預期從3.3%下調至2.4%。"
+    },
+    {
+      "id": "mkt:01a1c83b-8d81-7bbc-ab98-082a25f588f4",
+      "time": "2026-11-11 09:31:48",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "【China government bond futures open lower】China government bond futures opened lower in the morning session: 2-year (TS) most-active contract down 0.01%, 5-year (TF) down 0.02%, 10-year (T) down 0.04%, 30-year (TL) down 0.11%."
+    },
+    {
+      "id": "mkt:01a1c83b-7db9-7bbc-ab98-0320fd8ab69d",
+      "time": "2026-11-11 09:31:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "IH",
+        "Impact bearish",
+        "IF",
+        "IC",
+        "Impact bullish"
+      ],
+      "text": "【China stock index futures morning open】SSE 50 futures (IH) main contract down 0.35%, CSI 300 futures (IF) main contract down 0.14%, CSI 500 futures (IC) main contract up 0.14%, CSI 1000 futures (IM) main contract up 0.14%."
+    },
+    {
+      "id": "5207197",
+      "time": "2026-11-11 09:31:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報24309.660點；恒生科技指數現跌1.192%。"
+    },
+    {
+      "id": "5207196",
+      "time": "2026-11-11 09:31:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光伏裝置板塊短線拉昇，亞瑪頓3連板】光伏裝置板塊短線拉昇，亞瑪頓3連板，凱盛新能、金辰股份、清源股份漲停，澤潤新能、高測股份、拉普拉斯、歐普泰跟漲。"
+    },
+    {
+      "id": "5207195",
+      "time": "2026-11-11 09:31:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數向上觸及61000點，日內漲0.90%。"
+    },
+    {
+      "id": "5207194",
+      "time": "2026-11-11 09:31:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【交易員：對沖基金11月以來已削減外匯和利率敞口】交易員稱，在美國通脹資料公佈後，許多對沖基金並未受到匯率和利率波動太大沖擊，因為他們本月已經在削減風險敞口。交易員表示，外匯區間震盪和利率波動此前已經促使許多基金減少了倉位。交易員表示，基金正在尋找高勝算交易，但市場上這樣的機會很少。"
+    },
+    {
+      "id": "mkt:01a1c83a-eb7d-7bbc-ab97-fc87af6b32a6",
+      "time": "2026-11-11 09:31:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver is up more than 1.0% intraday at $52.05/oz."
+    },
+    {
+      "id": "mkt:01a1c83a-e529-7bbc-ab97-f2cc081fdd59",
+      "time": "2026-11-11 09:31:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 touched 61,000 points intraday, up 0.90% on the day."
+    },
+    {
+      "id": "5207193",
+      "time": "2026-11-11 09:30:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報52.05美元/盎司。"
+    },
     {
       "id": "mkt:01a1c83a-c043-7bbc-ab97-ed107581d1ef",
       "time": "2026-11-11 09:30:55",
@@ -96623,223 +96815,6 @@
         "焦點"
       ],
       "text": "聚丙烯連續主力合約日內跌1%，現報10109.00元。"
-    },
-    {
-      "id": "5191923",
-      "time": "2026-11-04 09:35:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光晶片概念震盪反彈 雲南鍺業漲停】早盤光晶片概念震盪反彈，雲南鍺業漲停，光智科技、電科思儀、蘅東光、飛凱材料、源傑科技跟漲。訊息面上，雲南鍺業公告，子公司與AOI簽訂合計90萬片磷化銦襯底長期供貨協議，2027年度合同金額約合13.05億元。"
-    },
-    {
-      "id": "te:markets:597856",
-      "time": "2026-11-04 09:35:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Fall on US Election Fears — The benchmark KOSPI fell 1.51% to around 5,563 on Wednesday, extending losses in the previous session as weakening US stock futures and uncertainty surrounding the US midterm elections weighed on investor sentiment. The pullback followed an initially positive session on Wall Street, but futures turned lower as investors assessed the potential for a shift in the balance of power in Congress. S&P 500 futures declined 0.6%, while Nasdaq-100 futures shed 0.5% and Dow Jones futures fell 0.5%. Among individual stocks, notable decliners were LG Energy Solution (-6.21%), Samsung Biologics (-2.0%), and Kia Corp (-1.60%). In contrast, chipmakers Samsung Electronics (+0.34%) and SK Hynix (+1.0%) advanced, alongside financial firms KB Financial (+0.92%) and Shinhan Financial (+1.64%)."
-    },
-    {
-      "id": "mkt:01a1a432-0a98-7ee0-aa59-d03cc97bd151",
-      "time": "2026-11-04 09:35:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "China's October RatingDog Services PMI due in 10 minutes."
-    },
-    {
-      "id": "5191922",
-      "time": "2026-11-04 09:35:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【位元組將大面積限制員工使用外部AI】據大廠日爆 11 月 3 日爆料，位元組迎來新規，將大面積限制 Claude、Codex 等個人賬號的內部使用。 爆料稱，本月起，位元組跳動將會對所有 L4 級別的程式碼倉庫和飛書文件進行外部 AI 訪問封禁，覆蓋範圍全公司，員工個人採買的 AI 賬號不能再用。 爆料還稱，通知自上週發出後，引起了內部一些討論，位元組跳動技術副總裁洪定坤還在內網進行了詳細回應，比如“L3 及以上內容一旦有洩露，後果是非常嚴重的”、“推廣產品不需要用這種禁掉其他選擇強迫使用的方式，因為這樣效果很差”。"
-    },
-    {
-      "id": "mkt:01a1a431-f9f4-7ee0-aa59-cc8aa36fad0d",
-      "time": "2026-11-04 09:35:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-share film and cinema sector extended gains. Wentou Holdings and Zhongguang Tianze both hit their daily upper trading limits; Huazhi Digital Media rose more than 10%. Baina Qiancheng, Shanghai Film, Hengdian Film & TV, Huanrui Century and Ciwen Media also advanced."
-    },
-    {
-      "id": "mkt:01a1a431-a0ab-7ee0-aa59-c2630a56cd6c",
-      "time": "2026-11-04 09:34:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "China's ChiNext index extended gains, rising more than 1%."
-    },
-    {
-      "id": "5191921",
-      "time": "2026-11-04 09:34:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲1.00%，現報2415.631點；上證指數漲0.16%，現報3614.037點；深證成指漲0.77%，現報10960.970點。"
-    },
-    {
-      "id": "mkt:01a1a431-2109-7ee0-aa59-bb1acafaa448",
-      "time": "2026-11-04 09:34:05",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share retail sector was active again; Dalian Youyi hit a second consecutive daily limit-up, while Guangbai, Guoguang Chain, Zhejiang Dongri and Maoye Commercial rose."
-    },
-    {
-      "id": "5191920",
-      "time": "2026-11-04 09:33:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【影視院線板塊直線拉昇，文投控股、中廣天擇雙雙漲停】影視院線板塊直線拉昇，文投控股、中廣天擇雙雙漲停，華智數媒漲超10%，百納千成、上海電影、橫店影視、歡瑞世紀、慈文傳媒跟漲。"
-    },
-    {
-      "id": "mkt:01a1a430-35a2-7ee0-aa59-b1e7c480d47e",
-      "time": "2026-11-04 09:33:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CSI Convertible Bond Index opened 0.11% higher. Weidao, Changhong and Qilin convertible bonds gained 1.86%, 1.64% and 1.63%; Huawei, Baiyang and Huicheng convertible bonds fell 2.10%, 1.40% and 1.04%."
-    },
-    {
-      "id": "5191919",
-      "time": "2026-11-04 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股遊戲Ⅲ板塊異動拉昇】大晟文化觸及漲停，文投控股、掌趣科技、冰川網路、盛天網路、富春股份、湯姆貓跟漲。"
-    },
-    {
-      "id": "5191918",
-      "time": "2026-11-04 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股遊戲Ⅱ板塊異動拉昇】大晟文化觸及漲停，文投控股、掌趣科技、冰川網路、盛天網路、富春股份、湯姆貓跟漲。"
-    },
-    {
-      "id": "5191917",
-      "time": "2026-11-04 09:32:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【零售概念反覆活躍 大連友誼2連板】零售概念反覆活躍，大連友誼2連板，廣百股份、國光連鎖、浙江東日、茂業商業跟漲。"
-    },
-    {
-      "id": "mkt:01a1a42f-e870-7ee0-aa59-ab151cf37388",
-      "time": "2026-11-04 09:32:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Mainland A-share baijiu sector spiked briefly; Huangtai Wine hit the daily trading limit. Jinzhongzi, Shede, Yilite, Jinhuijiu and Jinshiyuan also advanced."
-    },
-    {
-      "id": "5191916",
-      "time": "2026-11-04 09:32:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：10月下旬液化天然氣為7481.9元/噸，環比增長10.9%】據國家統計局，10月下旬流通領域重要生產資料市場價格中液化天然氣為7481.9元/噸，環比增長10.9%；生豬（外三元）為9.3元/千克，環比下降5.1%；複合肥為3488.9元/噸，環比下降1.8%；液化石油氣為7906.2元/噸，環比下降0.8%；電解銅為110175.0元/噸，環比下降0.7%；螺紋鋼為3167.3元/噸，環比下降0.6%。"
-    },
-    {
-      "id": "5191915",
-      "time": "2026-11-04 09:32:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【白酒板塊短線拉昇，皇臺酒業漲停】白酒板塊短線拉昇，皇臺酒業漲停，金種子酒、捨得酒業、伊力特、金徽酒、今世緣跟漲。"
-    },
-    {
-      "id": "mkt:01a1a42f-81fb-7ee0-aa59-a65611a2a089",
-      "time": "2026-11-04 09:32:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Xiaomi",
-        "01810.HK",
-        "Impact bearish",
-        "09961.HK"
-      ],
-      "text": "Hang Seng Tech Index early losses widened to about 1%; Xiaomi (01810.HK) and Trip.com Group‑S (09961.HK) led declines among components."
-    },
-    {
-      "id": "mkt:01a1a42f-0c4a-7ee0-aa59-9e60f382a1f5",
-      "time": "2026-11-04 09:31:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share steel sector staged a short-term rally; Ma Kuang Co. hit the daily limit, while Jiuli Special Materials, Shagang, Shandong Steel, Xinxing Steel and Zhongnan shares rose."
-    },
-    {
-      "id": "5191914",
-      "time": "2026-11-04 09:31:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【AI漫劇概念繼續活躍 大晟文化、浙文影業3連板】早盤AI漫劇概念繼續活躍，大晟文化、浙文影業走出3連板，引力傳媒、傳智教育、德才股份、粵傳媒等衝高。"
-    },
-    {
-      "id": "mkt:01a1a42f-066e-7ee0-aa59-9260626abbb4",
-      "time": "2026-11-04 09:31:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Decision Desk HQ (DDHQ) said Republican candidate Ron DeSantis won the Florida gubernatorial race."
-    },
-    {
-      "id": "5191913",
-      "time": "2026-11-04 09:31:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股物理AI概念股走強 SENASIC漲超5%】截至發稿，SENASIC(06675.HK)漲5.23%，迅策(03317.HK)漲2.43%，群核科技(00068.HK)漲1.58%。"
-    },
-    {
-      "id": "5191912",
-      "time": "2026-11-04 09:31:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【澳洲聯邦銀行稱美國選舉初步結果似有利債市】澳洲聯邦銀行表示，美國中期選舉的初步結果似乎對債券市場有利，因為結果顯示民主黨可能有能力阻擋減稅及支出措施。目前開票仍處於相當早期階段，但澳洲聯邦銀行策略師Michael Tang表示，目前看來，民主黨出現了一些不錯的初步結。他認為，從歷史經驗來看，如果出現民主黨拿下國會兩院，收益率往往會下跌。"
     }
   ]
 }
