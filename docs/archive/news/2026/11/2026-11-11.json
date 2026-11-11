@@ -1,7 +1,132 @@
 {
   "date": "2026-11-11",
-  "count": 1327,
+  "count": 1341,
   "items": [
+    {
+      "id": "5207781",
+      "time": "2026-11-11 16:02:44",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團預計，中國企業赴海外籌資的熱潮將延續至2027年，並將擴充套件到AI硬體以外的領域，主要受到生物科技和先進製造等領域升溫的推動。"
+    },
+    {
+      "id": "5207780",
+      "time": "2026-11-11 16:02:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，大眾汽車在華電動汽車合資企業暫無2027年和2028年推出新車型的計劃。"
+    },
+    {
+      "id": "5207779",
+      "time": "2026-11-11 16:01:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【徐工機械、隧道股份等成立私募投資基金】企查查APP顯示，近日，上海隧創私募投資基金合夥企業（有限合夥）成立，出資額5億元，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由杭州蕭山環境投資發展有限公司、徐工機械旗下徐州徐工產業投資合夥企業（有限合夥）、隧道股份全資子公司上海市城市建設設計研究總院（集團）有限公司等共同持股。"
+    },
+    {
+      "id": "5207778",
+      "time": "2026-11-11 16:00:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國海證券：維持順絡電子“買入”評級，盈利能力持續復甦】國海證券研報指出，順絡電子2026Q3單季度收入再創新高，盈利能力持續復甦。公司作為片式電感產銷量國內第一、全球前三的電子元器件企業，長期致力於底層基礎技術研究與工程技術迭代，持續加大研發投入，已形成多產品線協同發展的業務格局。公司產品應用領域覆蓋通訊、消費電子、汽車電子、工業及控制自動化、資料中心及光伏儲能等多元市場，平臺化元件佈局持續落地，下游協同效應逐步顯現。公司自2019年啟動AI電感相關佈局，當前AI電感、TLVR電感等核心產品訂單規模快速擴張，在AI伺服器、企業級SSD、光通訊等應用場景為客戶提供了多種節能降耗的產品組合與方案。維持“買入”評級。"
+    },
+    {
+      "id": "5207777",
+      "time": "2026-11-11 16:00:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中簡科技：2025年員工持股計劃首個鎖定期屆滿 解鎖147.5萬股】中簡科技公告稱，公司2025年員工持股計劃首批參加部分第一個鎖定期已於2026年11月10日屆滿，解鎖條件已成就。本次解鎖比例為首批參加部分總數的50%，解鎖股份數量為147.5萬股，佔公司總股本比例為0.34%。首批參加部分實際認購股份為295萬股，約佔公司總股本的0.67%，首批參與人數為111人，個人層面績效考核優秀及良好佔比100%，對應解鎖比例100%。股份解鎖後將嚴格遵守市場交易規則及敏感期買賣限制規定。"
+    },
+    {
+      "id": "te:markets:600320",
+      "time": "2026-11-11 16:00:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Sweden",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Sweden Hit All-time High — Stockholm 30 increased to an all-time high of 3352.00 Index Points. Over the past 4 weeks, Sweden Stock Market Index (Stockholm 30) gained 2.51%, and in the last 12 months, it increased 20.1%."
+    },
+    {
+      "id": "5207776",
+      "time": "2026-11-11 16:00:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST威領：山南銻金要約收購完成 成為持股5%以上股東】*ST威領公告稱，華福證券作為西藏山南銻金資源有限公司要約收購公司的財務顧問，出具2026年第三季度持續督導意見。本次要約收購價格18.00元/股，擬收購7817.745萬股，佔總股本30%；要約期為2026年8月31日至9月29日，最終預受股份1593.639萬股，山南銻金全部收購。截至2026年10月12日股份過戶完成，山南銻金持股6.12%，成為持股5%以上股東，公司控制權未變更。督導期內收購人未違反相關承諾，未調整公司主營業務、董監高、分紅政策等，公司未違規為收購方提供擔保或借款。"
+    },
+    {
+      "id": "te:markets:600319",
+      "time": "2026-11-11 16:00:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Rises by 1.44% — Top commodity gainers are Natural Gas EU (1.44%), Natural Gas UK (1.07%), Heating Oil (0.97%), Brent Oil (0.62%) and Crude Oil (0.30%)."
+    },
+    {
+      "id": "5207775",
+      "time": "2026-11-11 16:00:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST廣糖：擬出售兩家子公司股權 交易價4.88億元】*ST廣糖公告稱，公司擬向關聯方廣西廣農供應鏈集團有限公司轉讓所持雲鷗物流99.90%股權、南糖種業100%股權，交易價格為4.88億元。本次交易構成重大資產重組及關聯交易，不構成重組上市，無業績補償及減值補償安排。交易評估及審計基準日為2026年6月30日。"
+    },
+    {
+      "id": "5207774",
+      "time": "2026-11-11 16:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數漲0.46%，英國富時100指數跌0.29%，法國CAC40指數漲0.91%，歐洲斯托克50指數漲0.59%，義大利富時MIB指數漲0.84%。"
+    },
+    {
+      "id": "5207773",
+      "time": "2026-11-11 15:59:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱盛新材：公司目前氯化亞碸產能利用率較高】有投資者在互動平臺向凱盛新材（301069.SZ）提問，氯化亞碸同行江西世龍實業公告，近年來，新能源動力電池和儲能產業鏈快速發展，新型鋰鹽LiFSI（雙氟磺醯亞胺鋰）市場需求同步增長，擬投資3.6億新建年產15萬噸氯化亞碸生產裝置及配套設施，將氯化亞碸生產規模將提高至20萬噸/年。"
+    },
+    {
+      "id": "5207772",
+      "time": "2026-11-11 15:59:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗武裝部隊總參謀長：我們警告美國，此前的打擊僅僅是開端；一旦對方再次誤判，將遭受更為毀滅性的打擊。"
+    },
+    {
+      "id": "5207771",
+      "time": "2026-11-11 15:59:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗武裝部隊參謀長阿卜杜拉希將軍：任何針對伊朗的威脅來源，都將成為武裝力量不對稱作戰的直接打擊目標。"
+    },
+    {
+      "id": "mkt:01a1c99e-6ffb-7bbc-ab9f-281ec9450d67",
+      "time": "2026-11-11 15:59:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Industrial Securities' Wu Feng: A-share market entering sentiment-repair rebound cycle】Wu Feng, chief market strategist at Industrial Securities, said that with third‑quarter results disclosure concluding and a series of domestic and international macro events resolving in late October–early November, China’s A‑share market has moved since November from a low risk‑appetite phase into a sentiment‑repair rebound. The rebound is driven mainly by a reversal in valuation and risk preference; event realization and clearer expectations are the key catalysts for the shift from bottoming to recovery."
+    },
     {
       "id": "mkt:01a1c99e-0fbd-7bbc-ab9f-26820889ad08",
       "time": "2026-11-11 15:59:01",
