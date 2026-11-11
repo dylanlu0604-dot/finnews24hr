@@ -1,7 +1,51 @@
 {
-  "updated": "2026-11-12 06:58:57",
-  "count": 9972,
+  "updated": "2026-11-12 07:04:57",
+  "count": 9964,
   "items": [
+    {
+      "id": "5208952",
+      "time": "2026-11-12 07:01:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4000美元/盎司，日內跌0.01%。"
+    },
+    {
+      "id": "5208951",
+      "time": "2026-11-12 07:00:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破52美元/盎司，日內持平。"
+    },
+    {
+      "id": "5208950",
+      "time": "2026-11-12 07:00:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "調查顯示，今年日本三分之一的企業或其服務提供商遭到網路攻擊。超過80%的日本企業預計2027年工資漲幅將與2026年持平。"
+    },
+    {
+      "id": "5208949",
+      "time": "2026-11-12 07:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破52美元/盎司，日內跌0.70%。"
+    },
+    {
+      "id": "5208948",
+      "time": "2026-11-12 07:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破87美元/桶，日內跌0.12%。"
+    },
     {
       "id": "5208947",
       "time": "2026-11-12 06:57:36",
@@ -91081,119 +91125,6 @@
         "公司"
       ],
       "text": "【第九屆進博會中國企業籤首個能源採購訂單】第九屆中國國際進口博覽會今天將在上海開幕。昨天（4日），第九屆進博會簽下首個能源採購訂單。中國石化與來自18個國家和地區的37家合作伙伴完成簽約，涉及綠色低碳、人工智慧、高階裝備、數字供應鏈等14大類29種產品，採購金額達413億美元。簽約現場，中國石化旗下航油公司與托克集團達成2.3億美元的生物燃料採購合作，雙方將深化國際航油貿易及供應鏈合作，進一步拓展可持續航空燃料等綠色能源合作。"
-    },
-    {
-      "id": "5194259",
-      "time": "2026-11-05 07:04:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "NEXTDC股價飆升39%，受GOODMAN購買股權訊息提振。"
-    },
-    {
-      "id": "mkt:01a1a8cd-d8d8-7ee0-aa7c-910478f89979",
-      "time": "2026-11-05 07:03:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Swiss National Bank Chairman Schlegel said the SNB has not yet seen clear second-round inflation effects but cannot rule out that possibility and will monitor developments closely."
-    },
-    {
-      "id": "te:markets:598331",
-      "time": "2026-11-05 07:02:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Silver is up by 5% — Silver increased 5% to 52.282 USD/t.oz"
-    },
-    {
-      "id": "5194258",
-      "time": "2026-11-05 07:02:46",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞士央行行長施萊格爾：目前尚無明顯的第二輪效應，但後續不能排除。"
-    },
-    {
-      "id": "5194257",
-      "time": "2026-11-05 07:02:37",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞士央行行長施萊格爾：瑞士通脹上升，10月資料超出預期。"
-    },
-    {
-      "id": "5194256",
-      "time": "2026-11-05 07:02:29",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞士央行行長：若物價穩定受到威脅，央行將毫不猶豫調整政策。"
-    },
-    {
-      "id": "5194255",
-      "time": "2026-11-05 07:02:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞士央行行長施萊格爾：央行將密切關注形勢，尤其是通脹的二輪效應。"
-    },
-    {
-      "id": "mkt:01a1a8cb-f7b0-7ee0-aa7c-8f77de722bcc",
-      "time": "2026-11-05 07:01:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Swiss National Bank Chairman Schlegel said Swiss inflation has risen and October data exceeded expectations; the SNB will not hesitate to adjust monetary policy if price stability is at risk."
-    },
-    {
-      "id": "5194254",
-      "time": "2026-11-05 07:01:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國9月季調後經常專案順差585.6億美元。"
-    },
-    {
-      "id": "5194253",
-      "time": "2026-11-05 07:01:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國1至9月經常專案收支暫為順差3406.6億美元，上年同期為順差838.9億美元。"
-    },
-    {
-      "id": "5194252",
-      "time": "2026-11-05 07:00:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國9月經常賬戶盈餘614.6億美元，8月盈餘為461.1億美元。"
-    },
-    {
-      "id": "mkt:01a1a8ca-9c0d-7ee0-aa7c-8224732c4f23",
-      "time": "2026-11-05 07:00:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea September current-account balance, not seasonally adjusted: $61.46bn; prior reading revised from $46.113bn to $46.11bn."
-    },
-    {
-      "id": "mkt:01a1a8ca-6d97-7ee0-aa7c-7bf564ea4d67",
-      "time": "2026-11-05 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Current Account NSA (Sep) | actual 61460000000B | previous 46113000000B"
     }
   ]
 }
