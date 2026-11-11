@@ -1,7 +1,116 @@
 {
   "date": "2026-11-11",
-  "count": 726,
+  "count": 737,
   "items": [
+    {
+      "id": "te:markets:600198",
+      "time": "2026-11-11 09:23:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Rises Past 5% — Australia's 10-year government bond yield held above 5%, after climbing off a recent ten-week low, tracking a broader selloff in global bond markets.US Treasuries led the move, with the 10-year yield rising past the 5% mark after a hotter-than-anticipated US inflation reading boosted chances for a Federal Reserve interest-rate hike of half ?a percentage point next month. The rise in US borrowing costs spilled over into Australian debt markets, pushing local yields higher. Meanwhile, a series of weak economic surveys pointed to a deteriorating outlook for the Australian economy. The disappointing readings reinforced expectations that the Reserve Bank of Australia has finished its tightening cycle following five interest rate increases this year, which brought the cash rate to an eighteen-year high of 4.85%. Markets now imply an 82% probability that rates have peaked, with a quarter-point rate cut fully priced in by the end of 2027."
+    },
+    {
+      "id": "mkt:01a1c832-cdd2-7bbc-ab97-c72aecbd511e",
+      "time": "2026-11-11 09:22:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted an overnight reverse repo of CNY 187 bln; tendered and allotted CNY 187 bln at a 1.25% operation rate."
+    },
+    {
+      "id": "5207183",
+      "time": "2026-11-11 09:21:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.3%至32.964。"
+    },
+    {
+      "id": "5207182",
+      "time": "2026-11-11 09:21:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報51.74美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1c831-c6a1-7bbc-ab97-bfe5e0309650",
+      "time": "2026-11-11 09:21:07",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech",
+        "HSCEI"
+      ],
+      "text": "Hong Kong's HSI opened down 202.85 points, or 0.83%, at 24,354.19; Hang Seng TECH opened down 39.15 points, or 0.96%, at 4,045.30; HSCEI opened down 61.60 points, or 0.75%, at 8,204.21; red-chip index opened down 19.49 points, or 0.48%, at 4,013.98."
+    },
+    {
+      "id": "5207181",
+      "time": "2026-11-11 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數跌0.83%，恒生科技指數跌0.96%】洛陽鉬業跌2.24%，中國宏橋跌2.45%，老鋪黃金跌2.49%，創科實業跌2.63%，紫金礦業跌2.68%，理想汽車-W跌2.68%，蔚來-SW跌3.17%。"
+    },
+    {
+      "id": "5207180",
+      "time": "2026-11-11 09:20:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠30億元人民幣。"
+    },
+    {
+      "id": "mkt:01a1c831-7fd9-7bbc-ab97-b2ac0440d57c",
+      "time": "2026-11-11 09:20:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "02206.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong market opened lower: Hang Seng Index down 0.83%, Hang Seng Tech Index down 0.96%. Xin Hehua (02206.HK) rose 27.61% on its trading debut."
+    },
+    {
+      "id": "em:qqyh_zgyh:202611113928196151",
+      "time": "2026-11-11 09:20:47",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行進行1,870億元人民幣隔夜逆回購操作，操作利率1.25%。"
+    },
+    {
+      "id": "5207179",
+      "time": "2026-11-11 09:20:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行進行 1,870 億元人民幣隔夜逆回購操作，操作利率 1.25%。"
+    },
+    {
+      "id": "5207178",
+      "time": "2026-11-11 09:19:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【昂利康：三條管線靶點相對明確 具備一定成藥機率】昂利康近日接受機構調研時表示，三條管線目前均處於臨床前PCC階段，正按計劃推進。從PCC到IND需完成候選分子確認、藥學及非臨床研究等工作，同時，自主可離子化脂質的生產時間也會結合科瑞生物的研發生產進度，整個週期受技術路線和實驗結果影響較大，正常情況下需要1年至1.5年左右的時間。從目前的實驗資料來看，三條管線靶點相對明確，具備一定成藥的機率。"
+    },
     {
       "id": "te:markets:600195",
       "time": "2026-11-11 09:19:04",

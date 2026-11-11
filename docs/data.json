@@ -1,7 +1,116 @@
 {
-  "updated": "2026-11-11 09:20:03",
-  "count": 10532,
+  "updated": "2026-11-11 09:23:51",
+  "count": 10526,
   "items": [
+    {
+      "id": "te:markets:600198",
+      "time": "2026-11-11 09:23:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Rises Past 5% — Australia's 10-year government bond yield held above 5%, after climbing off a recent ten-week low, tracking a broader selloff in global bond markets.US Treasuries led the move, with the 10-year yield rising past the 5% mark after a hotter-than-anticipated US inflation reading boosted chances for a Federal Reserve interest-rate hike of half ?a percentage point next month. The rise in US borrowing costs spilled over into Australian debt markets, pushing local yields higher. Meanwhile, a series of weak economic surveys pointed to a deteriorating outlook for the Australian economy. The disappointing readings reinforced expectations that the Reserve Bank of Australia has finished its tightening cycle following five interest rate increases this year, which brought the cash rate to an eighteen-year high of 4.85%. Markets now imply an 82% probability that rates have peaked, with a quarter-point rate cut fully priced in by the end of 2027."
+    },
+    {
+      "id": "mkt:01a1c832-cdd2-7bbc-ab97-c72aecbd511e",
+      "time": "2026-11-11 09:22:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted an overnight reverse repo of CNY 187 bln; tendered and allotted CNY 187 bln at a 1.25% operation rate."
+    },
+    {
+      "id": "5207183",
+      "time": "2026-11-11 09:21:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.3%至32.964。"
+    },
+    {
+      "id": "5207182",
+      "time": "2026-11-11 09:21:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報51.74美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1c831-c6a1-7bbc-ab97-bfe5e0309650",
+      "time": "2026-11-11 09:21:07",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech",
+        "HSCEI"
+      ],
+      "text": "Hong Kong's HSI opened down 202.85 points, or 0.83%, at 24,354.19; Hang Seng TECH opened down 39.15 points, or 0.96%, at 4,045.30; HSCEI opened down 61.60 points, or 0.75%, at 8,204.21; red-chip index opened down 19.49 points, or 0.48%, at 4,013.98."
+    },
+    {
+      "id": "5207181",
+      "time": "2026-11-11 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數跌0.83%，恒生科技指數跌0.96%】洛陽鉬業跌2.24%，中國宏橋跌2.45%，老鋪黃金跌2.49%，創科實業跌2.63%，紫金礦業跌2.68%，理想汽車-W跌2.68%，蔚來-SW跌3.17%。"
+    },
+    {
+      "id": "5207180",
+      "time": "2026-11-11 09:20:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠30億元人民幣。"
+    },
+    {
+      "id": "mkt:01a1c831-7fd9-7bbc-ab97-b2ac0440d57c",
+      "time": "2026-11-11 09:20:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "02206.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong market opened lower: Hang Seng Index down 0.83%, Hang Seng Tech Index down 0.96%. Xin Hehua (02206.HK) rose 27.61% on its trading debut."
+    },
+    {
+      "id": "em:qqyh_zgyh:202611113928196151",
+      "time": "2026-11-11 09:20:47",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行進行1,870億元人民幣隔夜逆回購操作，操作利率1.25%。"
+    },
+    {
+      "id": "5207179",
+      "time": "2026-11-11 09:20:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行進行 1,870 億元人民幣隔夜逆回購操作，操作利率 1.25%。"
+    },
+    {
+      "id": "5207178",
+      "time": "2026-11-11 09:19:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【昂利康：三條管線靶點相對明確 具備一定成藥機率】昂利康近日接受機構調研時表示，三條管線目前均處於臨床前PCC階段，正按計劃推進。從PCC到IND需完成候選分子確認、藥學及非臨床研究等工作，同時，自主可離子化脂質的生產時間也會結合科瑞生物的研發生產進度，整個週期受技術路線和實驗結果影響較大，正常情況下需要1年至1.5年左右的時間。從目前的實驗資料來看，三條管線靶點相對明確，具備一定成藥的機率。"
+    },
     {
       "id": "te:markets:600195",
       "time": "2026-11-11 09:19:04",
@@ -96816,173 +96925,6 @@
         "MKT News"
       ],
       "text": "【Where to park spare cash — money-market yield snapshot】Tencent Licaitong (demand+) 7-day annualized yield ranged 0.6990%–1.1040%. WeChat Balance (Lingqiantong) 7-day annualized yield ranged 0.7960%–1.0020%. Alipay Yu'ebao 7-day annualized yield ranged 0.9010%–1.0130%."
-    },
-    {
-      "id": "5191896",
-      "time": "2026-11-04 09:23:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內跌2%，現報5092.00元。"
-    },
-    {
-      "id": "5191895",
-      "time": "2026-11-04 09:23:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國2年期國債收益率下跌6個基點至4.573%，聯邦基金期貨小幅走高。"
-    },
-    {
-      "id": "5191894",
-      "time": "2026-11-04 09:22:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國安達等成立強腦智身機器人公司】企查查APP顯示，近日，強腦智身（廈門）機器人有限公司成立，經營範圍包含智慧機器人的研發；智慧機器人銷售；人工智慧通用應用系統；人工智慧基礎軟體開發；人工智慧基礎資源與技術平臺等。企查查股權穿透顯示，該公司由國安達等共同持股。"
-    },
-    {
-      "id": "5191893",
-      "time": "2026-11-04 09:22:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【武商集團：南昌武商MALL客流與銷售持續向好、虧損穩步收窄】武商集團11月4日在互動平臺表示，南昌武商MALL專案仍處於正常市場培育階段，客流與銷售持續向好、虧損穩步收窄。淨資產為負主要受物業資產折舊攤銷等影響，非當期實際現金流出，不存在國有資產流失情形。公司已制定並實施系列提效措施，全力推動減虧增效。"
-    },
-    {
-      "id": "mkt:01a1a426-4c29-7ee0-aa59-438963c5f004",
-      "time": "2026-11-04 09:22:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "【PBOC nets 514.5 bn yuan withdrawal via reverse repos today】PBOC conducted 257.5 bn yuan of overnight reverse repo operations; 621 bn yuan of overnight and 151 bn yuan of seven-day reverse repos matured today, resulting in a net liquidity drain of 514.5 bn yuan."
-    },
-    {
-      "id": "5191892",
-      "time": "2026-11-04 09:22:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元下跌0.3%至32.860。"
-    },
-    {
-      "id": "5191891",
-      "time": "2026-11-04 09:22:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國綜指跌幅擴大至1%】韓國綜指跌幅擴大至1%，現報5587.76點。個股方面，三星電子、SK海力士跌超1%。"
-    },
-    {
-      "id": "5191890",
-      "time": "2026-11-04 09:21:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價回吐早盤漲幅；最新下跌0.7%，報1,388,000韓元。"
-    },
-    {
-      "id": "mkt:01a1a425-88c7-7ee0-aa59-3cc1097a792d",
-      "time": "2026-11-04 09:21:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Hang Seng Tech Index",
-        "Hang Seng China Enterprises Index"
-      ],
-      "text": "Hong Kong equities opened lower on Wednesday, Nov. 4: Hang Seng Index (HSI) down 74.18 points (-0.32%) at 23,451.79; Hang Seng Tech Index down 19.52 points (-0.50%) at 3,848.21; Hang Seng China Enterprises Index (HSCEI) down 27.96 points (-0.35%) at 7,915.14; red-chip index down 8.28 points (-0.21%) at 3,953.09."
-    },
-    {
-      "id": "5191889",
-      "time": "2026-11-04 09:21:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨回籠5,145億元人民幣。"
-    },
-    {
-      "id": "mkt:01a1a425-7817-7ee0-aa59-34e44ccb0526",
-      "time": "2026-11-04 09:21:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "06160.HK",
-        "Impact bullish",
-        "02359.HK"
-      ],
-      "text": "At the Hong Kong open the Hang Seng Index fell 0.32% and the Hang Seng Tech Index fell 0.50%. Innovative drug-related stocks opened higher: BeiGene (06160.HK) +2.09% at the open, WuXi AppTec (02359.HK) +1.70%."
-    },
-    {
-      "id": "em:qqyh_zgyh:202611043921133529",
-      "time": "2026-11-04 09:21:17",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展2575億元隔夜逆回購操作，操作利率為1.25%。"
-    },
-    {
-      "id": "5191888",
-      "time": "2026-11-04 09:21:01",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行進行2,575.0億元人民幣隔夜逆回購操作，操作利率1.25%。"
-    },
-    {
-      "id": "5191887",
-      "time": "2026-11-04 09:21:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股開盤：恒生指數跌0.32%，恒生科技指數跌0.51%】蔚來-SW跌1.74%，小米集團-W跌1.75%，信義玻璃跌1.81%，京東集團-SW跌1.86%，京東健康跌1.89%，攜程集團-S跌2.29%，國藥控股跌3.11%。"
-    },
-    {
-      "id": "mkt:01a1a424-f0e0-7ee0-aa59-2c4ccc42d216",
-      "time": "2026-11-04 09:20:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "CNH"
-      ],
-      "text": "PBOC conducted CNY257.5bn overnight reverse repo today; bids and allotment both CNY257.5bn, operation rate 1.25%."
-    },
-    {
-      "id": "5191886",
-      "time": "2026-11-04 09:20:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價回吐早盤漲幅；最新下跌0.9%，報217,500韓元。"
-    },
-    {
-      "id": "5191885",
-      "time": "2026-11-04 09:20:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破50美元/盎司，日內漲0.60%。"
     }
   ]
 }
