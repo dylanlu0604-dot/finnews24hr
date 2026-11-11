@@ -1,7 +1,177 @@
 {
-  "updated": "2026-11-11 09:38:55",
-  "count": 10518,
+  "updated": "2026-11-11 09:42:42",
+  "count": 10523,
   "items": [
+    {
+      "id": "mkt:01a1c844-f4c9-7bbc-ab98-869441d2e088",
+      "time": "2026-11-11 09:42:04",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix shares rose 3%."
+    },
+    {
+      "id": "5207226",
+      "time": "2026-11-11 09:41:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破74000美元，日內漲0.30%。"
+    },
+    {
+      "id": "mkt:01a1c844-9e00-7bbc-ab98-7a9293afb835",
+      "time": "2026-11-11 09:41:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold hit an intraday high of $4,050/oz, up 0.42% on the day."
+    },
+    {
+      "id": "5207225",
+      "time": "2026-11-11 09:41:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4050美元/盎司，日內漲0.43%。"
+    },
+    {
+      "id": "5207224",
+      "time": "2026-11-11 09:41:28",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【廣東擬出臺《低空智聯網數字基礎設施技術要求》 在省級層面首次制定技術架構】廣東省《低空智聯網數字基礎設施通用技術要求》公開徵求意見。該標準在省級層面首次系統界定低空空域數字化基礎設施的技術邊界與架構藍圖，填補通、導、監、氣一體化協同領域的標準空白。面向0-600米複雜空域執行特徵，提出“四網一中心”總體架構，深度融合雲邊端協同與多源資料融合技術。該標準契合廣東省“低空經濟先行示範區”戰略部署，依託大灣區高滲透率的5G/5G-A網路基座、完備的智慧硬體產業鏈及高頻多元的城市低空場景，量身打造適配高密度、高動態飛行的基礎設施規範。"
+    },
+    {
+      "id": "5207223",
+      "time": "2026-11-11 09:41:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方呼籲透過對話協商化解各方就西撒問題分歧】10月30日，聯合國安理會先後表決美國和俄羅斯分別提交的兩份西撒哈拉問題決議草案，兩份草案均涉及延長聯合國西撒哈拉全民投票特派團授權，因俄美互投反對票，安理會未能延長西撒特派團任期。11月10日，第81屆聯合國大會舉行會議，中國常駐聯合國副代表孫磊表示，中方讚賞西撒特派團全體人員的努力，西撒問題長期延宕未決，嚴重影響當地人民福祉與地區和平穩定，相關方應保持克制、停止對抗、避免訴諸武力；西撒問題政治程序應透過平等對話談判推進，而不是強加於人、急於求成，相關方要保持戰略耐心、努力化解分歧、增進互信、凝聚共識。（央視新聞）"
+    },
+    {
+      "id": "5207222",
+      "time": "2026-11-11 09:41:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股三大股指悉數翻紅，創業板指漲0.79%，深成指漲0.15%，滬指漲0.14%。光伏、CPO、油氣板塊漲幅居前。"
+    },
+    {
+      "id": "mkt:01a1c844-0dd3-7bbc-ab98-7561b8f09c69",
+      "time": "2026-11-11 09:41:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China A-share indices turned positive: ChiNext rose 0.79%, Shenzhen Component gained 0.15%, Shanghai Composite gained 0.14%. Solar PV, CPO and oil & gas sectors led gains."
+    },
+    {
+      "id": "5207221",
+      "time": "2026-11-11 09:40:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀：37億美後設資料中心資產減記與俄亥俄州專案無關。"
+    },
+    {
+      "id": "mkt:01a1c843-60a3-7bbc-ab98-6a11256f2af5",
+      "time": "2026-11-11 09:40:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China A-share steel sector staged a short-lived rally; Sansteel Mingguang hit the daily limit. Anyang Steel, Xugang Co., Wujin Stainless, Ansteel and Ordos all moved higher."
+    },
+    {
+      "id": "mkt:01a1c842-df43-7bbc-ab98-61866da14772",
+      "time": "2026-11-11 09:39:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Commonwealth Bank: US Treasury yields have further upside】Fed officials’ comments and hotter-than-expected CPI sparked a US market sell-off, putting Treasury yields back in focus. Markets have largely priced Fed tightening, but a sharp drop in oil could temporarily pause the rise in yields in the coming weeks. Commonwealth Bank rate strategist Jack Chambers says he is watching both factors but still sees scope for higher yields: stronger economic momentum and firmer Fed-hike expectations should keep the 10-year US Treasury yield biased to the upside near term."
+    },
+    {
+      "id": "5207220",
+      "time": "2026-11-11 09:39:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報6581.80點。"
+    },
+    {
+      "id": "5207219",
+      "time": "2026-11-11 09:39:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋼鐵板塊短線拉昇，三鋼閩光漲停】鋼鐵板塊短線拉昇，三鋼閩光漲停，安陽鋼鐵、新鋼股份、武進不鏽、鞍鋼股份、鄂爾多斯等紛紛走高。"
+    },
+    {
+      "id": "mkt:01a1c842-8d62-7bbc-ab98-58b57b4f49a0",
+      "time": "2026-11-11 09:39:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share commercial aerospace sector extended gains; Shenkai Co. hit the daily limit. Shanghai Gangwan and Xingwang Yuda rose over 9%; Fiyta, Dinggu Jichuang, Changguang Huaxin and Jingwei Hengrun also advanced."
+    },
+    {
+      "id": "5207218",
+      "time": "2026-11-11 09:39:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海工裝備概念盤初走強，神開股份漲停】海工裝備概念盤初走強，神開股份漲停，中科海訊漲超10%，克萊特、巨力索具、國瑞科技、深水海納、海蘭信等跟漲。"
+    },
+    {
+      "id": "mkt:01a1c842-16fe-7bbc-ab98-57b942e60e1e",
+      "time": "2026-11-11 09:38:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Nasdaq-100 futures rose nearly 1%; S&P 500 futures gained 0.5%."
+    },
+    {
+      "id": "5207217",
+      "time": "2026-11-11 09:38:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.47%，道瓊斯指數期貨漲0.24%。"
+    },
     {
       "id": "5207216",
       "time": "2026-11-11 09:38:12",
@@ -96735,120 +96905,6 @@
         "市場"
       ],
       "text": "【新易盛盤中漲超5%】A股新易盛盤中漲超5%，現報182.03元。"
-    },
-    {
-      "id": "5191938",
-      "time": "2026-11-04 09:42:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長亮科技中標股份制銀行個人信貸業務平臺專案】據長亮科技訊息，近日，長亮科技中標股份制銀行個人信貸業務平臺專案，專案金額近3000萬元。"
-    },
-    {
-      "id": "5191937",
-      "time": "2026-11-04 09:42:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨跌幅擴大至1%。"
-    },
-    {
-      "id": "5191936",
-      "time": "2026-11-04 09:41:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數下跌3%。"
-    },
-    {
-      "id": "mkt:01a1a437-f299-7ee0-aa5a-0a79bfe96c0a",
-      "time": "2026-11-04 09:41:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225"
-      ],
-      "text": "Japan's Nikkei 225 index intraday range widened to 3%; currently at 61,165.92 points."
-    },
-    {
-      "id": "te:economy:597857",
-      "time": "2026-11-04 09:40:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Morocco",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Morocco Jobless Rate Rises to 10.5% in Q3 — Morocco's strict unemployment rate increased to 10.5% in the third quarter of 2026 from 9.5% in the second quarter, with 1.224 million people unemployed out of a labor force of 11.69 million, up from 1.121 million in Q2. The unemployment rate was higher among women, at 16.7%, compared with 8.7% for men, while youth unemployment among those aged 15–24 rose to 30.5% from 27.2% in Q2. Meanwhile, employment totaled 10.47 million, down from 10.64 million, while the participation rate stood at 42.2%. The services sector remained the largest employer, accounting for 5.155 million jobs, or 49.2% of total employment, followed by agriculture (2.425 million), industry (1.526 million), and construction (1.356 million). The figures are based on the newly introduced EMO 2026 labour force survey, launched in the first quarter of 2026, which applies updated international standards."
-    },
-    {
-      "id": "mkt:01a1a436-c44a-7ee0-aa5a-000a5a5751be",
-      "time": "2026-11-04 09:40:14",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "China A-share speed-reducer sector fell in early trade; Xiangyang Bearing hit the daily down limit, with Guangyang Co., Mingyang Technology, Jinyang Precision, Ningbo Dongli and Henghe Precision also sliding."
-    },
-    {
-      "id": "5191935",
-      "time": "2026-11-04 09:39:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌5%，現報4768.00元。"
-    },
-    {
-      "id": "5191934",
-      "time": "2026-11-04 09:39:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股人工智慧股走強 海清智元漲超5%】截至發稿，海清智元(01392.HK)漲5.30%，飛速創新(03355.HK)漲4.11%，中科聞歌(01956.HK)漲3.10%，國民技術(02701.HK)漲2.29%。"
-    },
-    {
-      "id": "5191933",
-      "time": "2026-11-04 09:39:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【乳業奶粉板塊盤初走弱，陽光乳業跌停】乳業奶粉板塊盤初走弱，陽光乳業跌停，均瑤健康、南方乳業、騎士乳業、品渥食品、天潤乳業等跟跌。"
-    },
-    {
-      "id": "mkt:01a1a435-c987-7ee0-aa59-f9b1cb2a8415",
-      "time": "2026-11-04 09:39:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "Dow"
-      ],
-      "text": "U.S. equity index futures extended losses: Nasdaq-100 futures down more than 2%, S&P 500 futures down 0.85%, Dow futures down 0.35%."
-    },
-    {
-      "id": "5191932",
-      "time": "2026-11-04 09:39:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨跌幅擴大至2%。"
-    },
-    {
-      "id": "mkt:01a1a435-a508-7ee0-aa59-f254b9ee543c",
-      "time": "2026-11-04 09:39:01",
-      "tags": [
-        "MKT News",
-        "300274.SZ",
-        "Impact bullish"
-      ],
-      "text": "China A-share photovoltaic equipment sector rallied briefly; Beiteli hit the daily upper trading limit, while Deye, Sungrow, Chint Power, Tongling and Shangneng Electric also advanced."
     }
   ]
 }

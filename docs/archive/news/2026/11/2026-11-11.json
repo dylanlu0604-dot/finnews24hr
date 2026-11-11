@@ -1,7 +1,177 @@
 {
   "date": "2026-11-11",
-  "count": 787,
+  "count": 804,
   "items": [
+    {
+      "id": "mkt:01a1c844-f4c9-7bbc-ab98-869441d2e088",
+      "time": "2026-11-11 09:42:04",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix shares rose 3%."
+    },
+    {
+      "id": "5207226",
+      "time": "2026-11-11 09:41:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破74000美元，日內漲0.30%。"
+    },
+    {
+      "id": "mkt:01a1c844-9e00-7bbc-ab98-7a9293afb835",
+      "time": "2026-11-11 09:41:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold hit an intraday high of $4,050/oz, up 0.42% on the day."
+    },
+    {
+      "id": "5207225",
+      "time": "2026-11-11 09:41:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4050美元/盎司，日內漲0.43%。"
+    },
+    {
+      "id": "5207224",
+      "time": "2026-11-11 09:41:28",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【廣東擬出臺《低空智聯網數字基礎設施技術要求》 在省級層面首次制定技術架構】廣東省《低空智聯網數字基礎設施通用技術要求》公開徵求意見。該標準在省級層面首次系統界定低空空域數字化基礎設施的技術邊界與架構藍圖，填補通、導、監、氣一體化協同領域的標準空白。面向0-600米複雜空域執行特徵，提出“四網一中心”總體架構，深度融合雲邊端協同與多源資料融合技術。該標準契合廣東省“低空經濟先行示範區”戰略部署，依託大灣區高滲透率的5G/5G-A網路基座、完備的智慧硬體產業鏈及高頻多元的城市低空場景，量身打造適配高密度、高動態飛行的基礎設施規範。"
+    },
+    {
+      "id": "5207223",
+      "time": "2026-11-11 09:41:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方呼籲透過對話協商化解各方就西撒問題分歧】10月30日，聯合國安理會先後表決美國和俄羅斯分別提交的兩份西撒哈拉問題決議草案，兩份草案均涉及延長聯合國西撒哈拉全民投票特派團授權，因俄美互投反對票，安理會未能延長西撒特派團任期。11月10日，第81屆聯合國大會舉行會議，中國常駐聯合國副代表孫磊表示，中方讚賞西撒特派團全體人員的努力，西撒問題長期延宕未決，嚴重影響當地人民福祉與地區和平穩定，相關方應保持克制、停止對抗、避免訴諸武力；西撒問題政治程序應透過平等對話談判推進，而不是強加於人、急於求成，相關方要保持戰略耐心、努力化解分歧、增進互信、凝聚共識。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1c844-0dd3-7bbc-ab98-7561b8f09c69",
+      "time": "2026-11-11 09:41:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China A-share indices turned positive: ChiNext rose 0.79%, Shenzhen Component gained 0.15%, Shanghai Composite gained 0.14%. Solar PV, CPO and oil & gas sectors led gains."
+    },
+    {
+      "id": "5207222",
+      "time": "2026-11-11 09:41:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股三大股指悉數翻紅，創業板指漲0.79%，深成指漲0.15%，滬指漲0.14%。光伏、CPO、油氣板塊漲幅居前。"
+    },
+    {
+      "id": "5207221",
+      "time": "2026-11-11 09:40:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀：37億美後設資料中心資產減記與俄亥俄州專案無關。"
+    },
+    {
+      "id": "mkt:01a1c843-60a3-7bbc-ab98-6a11256f2af5",
+      "time": "2026-11-11 09:40:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China A-share steel sector staged a short-lived rally; Sansteel Mingguang hit the daily limit. Anyang Steel, Xugang Co., Wujin Stainless, Ansteel and Ordos all moved higher."
+    },
+    {
+      "id": "mkt:01a1c842-df43-7bbc-ab98-61866da14772",
+      "time": "2026-11-11 09:39:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Commonwealth Bank: US Treasury yields have further upside】Fed officials’ comments and hotter-than-expected CPI sparked a US market sell-off, putting Treasury yields back in focus. Markets have largely priced Fed tightening, but a sharp drop in oil could temporarily pause the rise in yields in the coming weeks. Commonwealth Bank rate strategist Jack Chambers says he is watching both factors but still sees scope for higher yields: stronger economic momentum and firmer Fed-hike expectations should keep the 10-year US Treasury yield biased to the upside near term."
+    },
+    {
+      "id": "5207220",
+      "time": "2026-11-11 09:39:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報6581.80點。"
+    },
+    {
+      "id": "5207219",
+      "time": "2026-11-11 09:39:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋼鐵板塊短線拉昇，三鋼閩光漲停】鋼鐵板塊短線拉昇，三鋼閩光漲停，安陽鋼鐵、新鋼股份、武進不鏽、鞍鋼股份、鄂爾多斯等紛紛走高。"
+    },
+    {
+      "id": "mkt:01a1c842-8d62-7bbc-ab98-58b57b4f49a0",
+      "time": "2026-11-11 09:39:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share commercial aerospace sector extended gains; Shenkai Co. hit the daily limit. Shanghai Gangwan and Xingwang Yuda rose over 9%; Fiyta, Dinggu Jichuang, Changguang Huaxin and Jingwei Hengrun also advanced."
+    },
+    {
+      "id": "5207218",
+      "time": "2026-11-11 09:39:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海工裝備概念盤初走強，神開股份漲停】海工裝備概念盤初走強，神開股份漲停，中科海訊漲超10%，克萊特、巨力索具、國瑞科技、深水海納、海蘭信等跟漲。"
+    },
+    {
+      "id": "mkt:01a1c842-16fe-7bbc-ab98-57b942e60e1e",
+      "time": "2026-11-11 09:38:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Nasdaq-100 futures rose nearly 1%; S&P 500 futures gained 0.5%."
+    },
+    {
+      "id": "5207217",
+      "time": "2026-11-11 09:38:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.47%，道瓊斯指數期貨漲0.24%。"
+    },
     {
       "id": "5207216",
       "time": "2026-11-11 09:38:12",
