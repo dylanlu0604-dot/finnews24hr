@@ -1,7 +1,82 @@
 {
-  "updated": "2026-11-11 16:11:08",
-  "count": 10467,
+  "updated": "2026-11-11 16:15:01",
+  "count": 10452,
   "items": [
+    {
+      "id": "mkt:01a1c9ab-fff1-7bbc-ab9f-764f25019dbe",
+      "time": "2026-11-11 16:14:14",
+      "tags": [
+        "MKT News",
+        "ENR.DE",
+        "Impact bearish"
+      ],
+      "text": "Siemens Energy CEO says Germany is ill-prepared for attacks on energy infrastructure similar to those seen in Ukraine and the Middle East."
+    },
+    {
+      "id": "5207812",
+      "time": "2026-11-11 16:14:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金明精機：聘任鄭芸為公司董事會秘書】金明精機11月11日公告，公司於2026年11月10日召開第六屆董事會第一次會議，審議透過了《關於聘任公司董事會秘書的議案》，董事會決定聘任鄭芸為公司董事會秘書，任期三年，自本次董事會決議透過之日起至第六屆董事會屆滿之日止。"
+    },
+    {
+      "id": "5207811",
+      "time": "2026-11-11 16:14:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三德科技：三德盈泰半導體材料檢測領域業務在公司收入中佔比較低】三德科技(300515)11月11日在互動平臺表示，子公司三德盈泰在半導體材料檢測領域有銷售訂單，但該等業務在公司收入中佔比較低，2025年該子公司營收僅為上市公司的3.32%。公司將持續關注各行業技術發展趨勢，審慎評估相關業務的拓展機會，目前暫無參股、併購或聯合研發方面的計劃。"
+    },
+    {
+      "id": "5207810",
+      "time": "2026-11-11 16:12:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港金融發展局報告：建議研究將內地退休基金納入債券通“南向通”】11月11日，香港金融發展局發表題為《強化香港作為國際資產及財富管理樞紐地位：吸引耐心資本》的研究報告。報告就吸引、引導及培育來自國際機構、內地及香港資金池的長期“耐心資本”，提出核心政策建議，旨在鞏固香港作為亞洲領先國際資產及財富管理樞紐的地位。報告建議，研究將內地退休基金納入債券通“南向通”；研究將目標日期基金、長久期基金，以及環境、社會及管治基金納入跨境理財通與基金互認安排，並推動“保險通”作為受規管的跨境金融互聯互通橋樑。（上證報）"
+    },
+    {
+      "id": "mkt:01a1c9aa-51aa-7bbc-ab9f-6d9797624114",
+      "time": "2026-11-11 16:12:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Hong Kong Financial Development Council proposes studying mainland pension inclusion in Bond Connect 'southbound'】On Nov. 11 the Hong Kong Financial Development Council released a report, Strengthening Hong Kong as an international asset and wealth management hub: Attracting patient capital, recommending research to include mainland pension funds in Bond Connect 'southbound'; to study admitting target‑date, long‑duration and ESG funds into Wealth Management Connect and the Mutual Recognition of Funds; and to advance an 'Insurance Connect' as a regulated cross‑border financial link."
+    },
+    {
+      "id": "mkt:01a1c9a9-38e5-7bbc-ab9f-64de4bf540af",
+      "time": "2026-11-11 16:11:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "HSCEI"
+      ],
+      "text": "Hong Kong's HSI closed down 241.12 points (-0.98%) at 24,315.92 on Nov 11 (Wed). The Hang Seng Tech Index closed down 57.39 points (-1.41%) at 4,027.06. The Hang Seng China Enterprises Index (HSCEI) closed down 94.36 points (-1.14%) at 8,171.45. The Hang Seng Red Chip Index closed down 14.08 points (-0.35%) at 4,019.39."
+    },
+    {
+      "id": "5207808",
+      "time": "2026-11-11 16:10:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微脈釋出“介小智”：支援婦科介入全週期AI管理，已完成落地驗證】近日，由中國婦幼保健協會放射介入專委會李兵主委領銜的專家組與微脈聯合研發的“介小智”婦科介入全週期管理智慧體釋出。該智慧體聚焦子宮肌瘤、子宮腺肌症等重點病種，圍繞診前陽性患者疾病分層管理、風險評估、圍術期管理等環節，能把專科診療與院內外健康管理連線起來，為婦科介入患者提供貫穿診前-診中-診後的連續管理支援。（新浪科技）"
+    },
+    {
+      "id": "5207807",
+      "time": "2026-11-11 16:10:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【新座標：股票交易異常波動 無應披露未披露重大事項】新座標公告稱，公司股票於2026年11月9日、11月10日、11月11日連續三個交易日內日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查並向控股股東、實際控制人函證，截至公告披露日，公司生產經營活動正常，市場環境、行業政策未發生重大調整，不存在應披露而未披露的重大資訊，控股股東、實控人及董監高在異常波動期間不存在買賣公司股票的情況。敬請廣大投資者注意投資風險，理性決策。"
+    },
     {
       "id": "te:markets:600322",
       "time": "2026-11-11 16:10:08",
@@ -95995,222 +96070,6 @@
         "Important"
       ],
       "text": "Spain | Services PMI (Oct) | actual 57.2 | consensus 57.6 | previous 58.3"
-    },
-    {
-      "id": "te:economy:598010",
-      "time": "2026-11-04 16:14:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Austria",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Austria Inflation Steady at 3.6% in October — Austria’s annual inflation rate stood at 3.6% in October 2026, unchanged from the previous month, according to a flash estimate. “Despite the extension of the fuel price brake on October 1, which moderated the increase in fuel prices, energy prices rose by 16.5%, higher than the 15.1% recorded in September. Prices for food, tobacco and alcohol remained unchanged year-on-year in October, following an increase of 0.8% in September,” said Manuela Lenk, Director General of Statistics Austria. The services sector remained the main driver of inflation, although price growth in the sector eased slightly to 4.1% in October from 4.2% in September. In contrast, prices for manufactured goods increased by 0.9% after rising 0.8 in the prior month. On a monthly basis, consumer prices rose by 0.3%, following a 0.2% increase in September. Meanwhile, the harmonised index of consumer prices (HICP) is expected to increase by 3.5% year-on-year and 0.4% month-on-month."
-    },
-    {
-      "id": "5192765",
-      "time": "2026-11-04 16:14:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【康惠股份：子公司算力服務完成整體交付】康惠股份(603139)11月4日公告，公司此前公告，公司全資子公司北京康惠智創科技有限公司（簡稱“北京康惠智創”）與客戶D公司於2026年7月簽署《算力服務合同》，北京康惠智創負責採購並部署高效能算力伺服器，對裝置進行組網、壓測聯調等，D公司按月向北京康惠智創支付算力服務費。截至目前，公司已完成合同約定的算力服務全部交付工作，專案正式進入運營服務階段。本次算力服務完成整體交付，是前述《算力服務合同》執行過程中的重要進展，將對公司經營業績產生積極作用。"
-    },
-    {
-      "id": "5192764",
-      "time": "2026-11-04 16:14:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【立昂微：控股股東王敏文質押2500萬股公司股份】立昂微公告稱，公司控股股東王敏文於2026年11月3日辦理完成股權質押手續，將其持有的2500萬股無限售條件流通股質押給西藏信託，佔其所持公司股份的24.22%，佔公司總股本的3.24%，質押融資用途為歸還其他金融機構借款，質押到期日為2027年11月5日。本次質押後，王敏文累計質押4900萬股，佔其所持股份的41.58%，佔公司總股本的6.35%。"
-    },
-    {
-      "id": "5192763",
-      "time": "2026-11-04 16:14:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【農業農村部部長張柱分別會見加拿大農業及農業食品部部長和澳大利亞農漁林業部部長】11月3日，農業農村部部長張柱在京分別會見加拿大農業及農業食品部部長希思·麥克唐納和澳大利亞農漁林業部部長朱莉·柯林斯，就深化雙邊農業合作交流意見。"
-    },
-    {
-      "id": "mkt:01a1a59f-7b5f-7ee0-aa66-665762603c62",
-      "time": "2026-11-04 16:14:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "ORSTED.CO",
-        "Impact bullish"
-      ],
-      "text": "As US Democrats win control of Congress, Danish renewable-energy developer Orsted's shares extended gains to about 7%."
-    },
-    {
-      "id": "5192762",
-      "time": "2026-11-04 16:14:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "埃及鎊在離岸市場走強至55兌1美元。"
-    },
-    {
-      "id": "5192761",
-      "time": "2026-11-04 16:13:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國預測市場Polymarket加大對密西西比州民主黨參議員押注，民主黨參議員候選者科洛姆勝率從一天前的17%升至86%。"
-    },
-    {
-      "id": "te:economy:598009",
-      "time": "2026-11-04 16:13:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Armenia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Armenia Inflation Rate Steady in October — The annual inflation rate in Armenia increased by 4.3% year-on-year in October 2026, unchanged from the previous month. Inflation remained steady in education at 3.2%, while it edged higher in furnishings, household equipment, and routine maintenance (2.3% vs. 2.2%), alcoholic beverages and tobacco (7.6% vs. 7.5%), communication (0.3% vs. 0.2%), and restaurants and hotels (5.6% vs. 5.4%). Prices also rose at a faster pace for housing and utilities (3.5% vs. 2.1%). Meanwhile, inflation eased in food and non-alcoholic beverages (5.6% vs. 6.2%), clothing and footwear (4.2% vs. 4.6%), health (3.2% vs. 3.3%), transport (2.4% vs. 2.8%), recreation and culture (0.7% vs. 0.8%), and miscellaneous goods and services (2.6% vs. 2.9%). On a monthly basis, consumer prices edged up by 0.3% in October, compared with a 0.2% increase in September."
-    },
-    {
-      "id": "5192760",
-      "time": "2026-11-04 16:12:47",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲軍工防務股早盤下跌】歐洲軍工防務股早盤下跌，BAE系統公司跌3.2%，泰雷茲跌2.5%，萊昂納多、薩博、萊茵金屬均跌1.5%-2%。"
-    },
-    {
-      "id": "mkt:01a1a59e-2315-7ee0-aa66-5d117a664075",
-      "time": "2026-11-04 16:12:46",
-      "tags": [
-        "MKT News",
-        "BA.L",
-        "Impact bearish",
-        "LDO.MI",
-        "SAAB-B.ST"
-      ],
-      "text": "European defense stocks fell in early trade: BAE Systems down 3.2%, Thales down 2.5%, Leonardo, Saab and Rheinmetall down 1.5-2.0%."
-    },
-    {
-      "id": "5192759",
-      "time": "2026-11-04 16:12:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "ISS股價在第三季度業績公佈後下跌3.7%，有望創下5月以來最大單日跌幅。"
-    },
-    {
-      "id": "5192758",
-      "time": "2026-11-04 16:12:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【洪匯新材：副總經理王曉聞辭職】洪匯新材公告稱，公司近日收到副總經理王曉聞遞交的書面辭職報告，王曉聞因工作調動申請辭去公司副總經理職務，辭職後將不再擔任公司及子公司任何職務，其原定任期至2028年7月6日止。辭職報告自送達公司董事會時生效。截至公告披露日，王曉聞未持有公司股份，不存在應當履行而未履行的承諾事項，其辭職不會對公司治理和日常生產經營產生重大影響，後續將按規定做好工作交接。"
-    },
-    {
-      "id": "5192757",
-      "time": "2026-11-04 16:12:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中船特氣：控股股東一致行動人承諾6個月內不減持】中船特氣公告稱，公司控股股東一致行動人中船投資發展有限公司自願承諾，自2026年11月5日起6個月內（即2026年11月5日至2027年5月4日），不以任何形式減持其持有的公司股份；承諾期內若因資本公積轉增股本、派送股票紅利、配股等產生新增股份，亦遵守該不減持承諾。截至公告披露日，中船投資發展有限公司持有公司股份1822.50萬股，佔公司當前總股本的3.44%。"
-    },
-    {
-      "id": "5192756",
-      "time": "2026-11-04 16:12:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大族鐳射：首次回購股份129.5萬股 耗資6285.24萬元】大族鐳射公告稱，公司此前審議透過回購股份方案，擬使用自有資金不低於2億元且不超過3億元，以不超過85元/股的價格回購A股股份，用於維護公司價值及股東權益所必需（出售）。2026年11月3日，公司首次透過集中競價方式回購股份129.5萬股，佔公司總股本的0.13%，最高成交價50.00元/股，最低成交價46.93元/股，成交總金額為6285.24萬元（不含交易費用）。公司後續將在回購期限內繼續實施本次回購方案。"
-    },
-    {
-      "id": "5192755",
-      "time": "2026-11-04 16:12:13",
-      "tags": [
-        "公司",
-        "觀點",
-        "焦點",
-        "國際"
-      ],
-      "text": "【Meta在完成150億美元美元債發行後，首次啟動歐元債券發售】Meta平臺公司週二完成150億美元美元債融資後，現已開啟其首筆歐元債券的簿記建檔工作。知情人士稱，本次歐元債券分為六檔，期限跨度從四年多至38年以上。該匿名訊息人士表示，最短期限檔初始定價在中期互換利率上浮約140個基點，長期檔初始報價在370個基點左右。這是Meta首次在美國本土以外市場發行債券。週二美元債發行時，投資者認購訂單規模高達580億美元。花旗集團與摩根士丹利擔任本次歐元債券發行的承銷商，債券預計於週三晚些時候定價。"
-    },
-    {
-      "id": "5192754",
-      "time": "2026-11-04 16:12:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【伯恩斯坦上調蘋果目標價至380美元，看好AI應用前景】11月4日，伯恩斯坦（Bernstein）將蘋果（Apple）目標價從370美元上調至380美元，維持“跑贏大盤”評級。按照最新股價331.90美元計算，新目標價意味著約14.5%的潛在上漲空間。該機構認為，蘋果在智慧手機及個人電腦市場持續擴大份額，同時作為消費者使用AI服務的重要入口，有望在未來獲得新的增長機會，儘管相關收益可能需要更長時間才能顯現。伯恩斯坦根據蘋果最新業績指引、iPhone定價及產品釋出安排，將未來營收預測上調約2%。不過，考慮到儲存晶片成本上漲、毛利率承壓及研發支出增加，該機構將2027財年和2028財年每股收益預測分別下調約1%至9.78美元和11.13美元，2029財年預測則基本維持在12.43美元。即便如此，伯恩斯坦對2028及2029財年的盈利預測仍高於市場普遍預期約7%至8%，認為蘋果的長期盈利增長潛力尚未得到充分反映。"
-    },
-    {
-      "id": "te:economy:598008",
-      "time": "2026-11-04 16:11:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Czechia Inflation Rate Edges Lower — The annual inflation rate in the Czech Republic edged down to 2.4% in October 2026, below market expectations and September’s five-month high of 2.5%, preliminary estimates showed. Prices increased at a softer pace for energy (5.6% vs 5.9% in September), services (4.5% vs 4.6%) and goods (0.9% vs 1.2%). At the same time, prices moderated for alcoholic beverages and tobacco (4% vs 4.6%), while deflation deepened for food and soft drinks (-4% vs -3.5%), processed foods, alcohol and tobacco (-0.8% vs -0.5%), and unprocessed foods (-3.5% vs -2.4%). On a monthly basis, consumer prices rose 0.4% after remaining flat in September, slightly below market expectations of 0.5%."
-    },
-    {
-      "id": "mkt:01a1a59d-613c-7ee0-aa66-53dc38719def",
-      "time": "2026-11-04 16:11:56",
-      "tags": [
-        "MKT News",
-        "NOVN.SW",
-        "Impact bullish",
-        "ROG.SW"
-      ],
-      "text": "【Julius Baer: Democratic control of both US chambers could ease policy pressure on Swiss drugmakers】Julius Baer analysts say Democratic control of both the US House and Senate after the midterms could ease a policy headwind for Swiss drugmakers by increasing scrutiny of Trump-era international drug-pricing agreements, reducing the likelihood those deals are enacted into law. They caution, however, that Democrats’ focus on lowering prescription drug costs limits the case for broad optimism across the sector."
-    },
-    {
-      "id": "5192753",
-      "time": "2026-11-04 16:11:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【翰宇藥業：HY3003注射液獲美國FDA臨床試驗許可】翰宇藥業公告稱，公司近日收到美國FDA下發的HY3003注射液臨床試驗許可通知，FDA已完成該IND申請的安全性審查，同意公司按提交方案開展首次臨床試驗。HY3003是公司佈局的新型GLP-1R/GIPR/GCGR三重受體激動劑，本次獲批的注射液為每週皮下注射一次的周製劑，擬用於減重、2型糖尿病、代謝相關脂肪性肝炎等適應症。該專案後續尚需完成多期臨床試驗並經FDA審評審批後方可上市，研發存在不確定性。"
-    },
-    {
-      "id": "5192752",
-      "time": "2026-11-04 16:11:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏潤建設：控股股東質押1800萬股公司股份】宏潤建設公告稱，公司控股股東浙江宏潤控股有限公司於2026年11月3日質押1800萬股公司股份，佔其所持股份比例4.77%，佔公司總股本比例1.45%，質權人為中國光大銀行股份有限公司寧波分行，質押用途為融資需要，質押期限至辦理解除質押之日止。本次質押前宏潤控股質押股份數為1.83億股，本次質押後累計質押2.01億股，佔其所持股份比例53.40%，佔公司總股本比例16.28%。目前質押股份不存在平倉風險，不會導致公司實際控制權變更。"
-    },
-    {
-      "id": "mkt:01a1a59c-d8d3-7ee0-aa66-4b8dc7956414",
-      "time": "2026-11-04 16:11:22",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong's Hang Seng Index (HSI) closed up 393.53 points, or 1.67%, at 23,919.50 on Nov. 4; the Hang Seng Tech Index rose 68.29 points, or 1.77%, to 3,936.02; the H-share Index gained 114.49 points, or 1.44%, to 8,057.59; the red-chip Index added 29.45 points, or 0.74%, to 3,990.82."
-    },
-    {
-      "id": "5192751",
-      "time": "2026-11-04 16:11:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三維股份：持股5%以上股東及其一致行動人減持觸及1%刻度】三維股份公告稱，公司持股5%以上股東吳善國的一致行動人葉繼艇於2026年6月10日至2026年11月3日期間，透過集中競價方式累計減持公司股份275.15萬股，佔公司總股本的0.2668%。本次權益變動後，吳善國及其一致行動人葉繼艇合計持股比例由17.2667%下降至16.9999%，觸及1%刻度。本次減持為正常減持行為，不會導致公司控股股東及實控人發生變化，不涉及披露權益變動報告書。"
-    },
-    {
-      "id": "mkt:01a1a59c-a6f3-7ee0-aa66-449d0cb0cac9",
-      "time": "2026-11-04 16:11:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BMW spokesperson said the company is awaiting final results of the U.S. midterm elections and has worked cooperatively with both parties for decades."
     }
   ]
 }
