@@ -1,7 +1,143 @@
 {
   "date": "2026-11-11",
-  "count": 1430,
+  "count": 1445,
   "items": [
+    {
+      "id": "mkt:01a1c9bd-ce11-7bbc-ab9f-fb96d902d788",
+      "time": "2026-11-11 16:33:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's prime minister said Russia struck six large power facilities across four regions."
+    },
+    {
+      "id": "mkt:01a1c9bd-b26a-7bbc-ab9f-f37eb22c32e4",
+      "time": "2026-11-11 16:33:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bundesbank President Nagel: German recovery faster than expected; structural reform still needed】Bundesbank President Nagel said Germany’s economic recovery is running faster than previously expected and recent data may prompt the Bundesbank to raise its growth forecast next month. He warned the government must continue structural reforms, noting that higher public spending on defence and infrastructure plus a cyclical upswing are supporting expansion but do not resolve underlying structural problems. Nagel flagged inflationary pressure from the Iran conflict and US tariff measures. The government has raised its 2026 GDP growth forecast to 1.3%; Nagel said Germany has regained some cyclical growth momentum."
+    },
+    {
+      "id": "5207854",
+      "time": "2026-11-11 16:32:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【有研粉材：公司光伏用銅粉產品處於技術驗證階段】有投資者在互動平臺向有研粉材（688456.SH）提問，公司的奈米銅漿不是用在光伏上嗎？現在和頭部合作怎麼樣了？什麼時候才能大規模量產？11月11日，公司回答表示，公司光伏用銅粉產品處於技術驗證階段，公司密切關注和跟進光伏行業去銀化降本發展動態，匹配終端實際開發進度和量產需求。"
+    },
+    {
+      "id": "5207853",
+      "time": "2026-11-11 16:32:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明新旭騰：明新資產協議轉讓930萬股過戶完成，持股比例降至8.77%】明新旭騰公告，公司持股5%以上股東浙江明新資產管理有限公司此前披露擬以17.5元/股向張亞飛協議轉讓930萬股無限售流通股，佔總股本5.73%，轉讓對價1.63億元。本次協議轉讓已透過上海證券交易所合規性確認，並於2026年11月11日取得中國證券登記結算有限責任公司出具的《證券過戶登記確認書》，過戶日期為2026年11月10日，過戶數量930萬股，佔總股本5.73%。過戶後明新資產持股比例由14.50%降至8.77%，張亞飛持股比例升至5.73%，並承諾轉讓完成後十二個月內不減持。"
+    },
+    {
+      "id": "te:markets:600335",
+      "time": "2026-11-11 16:32:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural gas Hits 6-week High — Natural gas increased to 3.33 USD/MMBtu, the highest since September 2026. Over the past 4 weeks, Natural gas gained 5.16%, and in the last 12 months, it decreased 26.53%."
+    },
+    {
+      "id": "5207852",
+      "time": "2026-11-11 16:32:15",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家統計局2026年常規統計督察第2統計督察組向上海市反饋統計督察意見】經黨中央和國務院批准，國家統計局於11月3日向上海市反饋了2026年常規統計督察意見。國家統計局黨組書記、局長康義通報常規統計督察意見，上海市委副書記、市長朱忠明作表態發言。上海市委常委、常務副市長華源主持會議，督察組有關負責同志，上海市有關部門負責同志參加反饋。 督察認為，近年來，上海市堅持以習近平新時代中國特色社會主義思想為指導，深入學習貫徹習近平總書記關於統計工作重要講話和指示批示精神，紮實開展統計普查調查工作，著力加強統計法治建設，積極推動統計現代化改革創新，以可靠統計保障有力推動上海加快建成具有世界影響力的社會主義現代化國際大都市。 督察發現，上海市統計工作仍然存在一些問題，主要表現在：一是有的區和部門學習貫徹黨中央和國務院關於防治統計造假重大決策部署有差距。二是有的區和部門落實防治統計造假責任還有欠缺。三是統計法定職責履行仍有短板。四是實地調查地區部分企業資料失實。五是統計基層基礎建設抓得不實。六是首輪統計督察整改落實有差距，整改監督和成果運用不足。"
+    },
+    {
+      "id": "te:markets:600334",
+      "time": "2026-11-11 16:32:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.78% Higher — The FTSE 100 Index is picking up 84 points or 0.78 percent on Wednesday. Gains are led by Antofagasta (3.59%), ICG (3.53%) and Standard Chartered (2.78%). Biggest losers are Relx (-0.57%), Experian (-0.54%) and JD Sports Fashion (-0.43%)."
+    },
+    {
+      "id": "mkt:01a1c9bc-0039-7bbc-ab9f-ecf12f94c929",
+      "time": "2026-11-11 16:31:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Offshore trust income taxation transition ends smoothly】China's State Taxation Administration said on Nov 11 the transition period for taxing offshore trust income has ended smoothly and most taxpayers cooperated. Cumulative individual income tax declarations tied to offshore trusts exceed 160 bln yuan, with over 120 bln yuan recorded in October, lifting nationwide October individual income tax receipts by nearly 90%."
+    },
+    {
+      "id": "5207851",
+      "time": "2026-11-11 16:31:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國防部與科欽造船廠簽署一份價值50億盧比的合同，內容為海軍艦艇貝特瓦號的常規整修與動力系統更換。"
+    },
+    {
+      "id": "5207850",
+      "time": "2026-11-11 16:31:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【東方環宇：股價短期漲幅較大 提示交易風險】東方環宇公告稱，公司股票2026年11月6日至11月11日累計漲幅達41.87%，期間有3個交易日漲停，平均換手率6.55%，屬於股票交易異常波動情形，可能存在市場情緒過熱、非理性炒作及短期大幅下跌風險。截至2026年11月11日，公司收盤價24.43元/股，市淨率2.70倍、滾動市盈率21.33倍，均高於燃氣行業同期水平。公司近期生產經營正常，基本面未發生重大變化，2026年前三季度營收7.91億元，同比下降6.81%；歸母淨利潤1.39億元，同比增長0.57%。經核查，公司及控股股東、實控人不存在應披露未披露的重大事項。"
+    },
+    {
+      "id": "mkt:01a1c9bb-9811-7bbc-ab9f-e654924ee00e",
+      "time": "2026-11-11 16:31:16",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "Onshore yuan (CNY) closed at 6.6705 per dollar at 16:30 on Nov 11, down 23 pips from the previous trading day."
+    },
+    {
+      "id": "5207849",
+      "time": "2026-11-11 16:31:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元收盤報6.6705，較上一交易日下降23點。"
+    },
+    {
+      "id": "te:markets:600333",
+      "time": "2026-11-11 16:31:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 1.01% Higher — The DAX Index is up by 266 points or 1.01 percent on Wednesday. Top gainers are Siemens Energy (6.64%), Infineon (5.67%) and Siemens (2.06%)."
+    },
+    {
+      "id": "5207848",
+      "time": "2026-11-11 16:30:57",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【離岸信託收益徵稅平穩有序推進】記者11月11日從國家稅務總局獲悉，目前，離岸信託收益徵稅政策過渡期已平穩結束，絕大多數納稅人積極配合，累計申報離岸信託個人所得稅超1600億元，其中10月當月入庫超1200億元，帶動了全國10月份個人所得稅收入增長近90%。(新華社)"
+    },
+    {
+      "id": "5207847",
+      "time": "2026-11-11 16:30:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "英飛凌科技公司股價上漲5.7%。"
+    },
     {
       "id": "mkt:01a1c9b9-d170-7bbc-ab9f-db948017cf8a",
       "time": "2026-11-11 16:29:20",
