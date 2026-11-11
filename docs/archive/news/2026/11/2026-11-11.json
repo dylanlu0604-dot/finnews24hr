@@ -1,7 +1,38 @@
 {
   "date": "2026-11-11",
-  "count": 723,
+  "count": 726,
   "items": [
+    {
+      "id": "te:markets:600195",
+      "time": "2026-11-11 09:19:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Subdued — Australian equities were little changed in Wednesday morning trade, hovering near 9,133 as gains in utilities, industrial services, and consumer stocks were largely offset by losses in miners, commercial services, and transport. Traders digested fresh data showing Q3 housing lending fell to a five-quarter low amid elevated interest rates. Business sentiment also hit a six-month low in October, while consumer mood sank to a four-year low in November. Overnight, Wall Street ended mostly lower after hotter-than-expected U.S. inflation data lifted expectations of further Fed rate hikes. Regionally, China's trade surplus topped $1 trillion in the first 10 months of the year, supported by strong high-tech exports amid an AI infrastructure boom, which helped offset weak domestic demand. BHP Group slipped 0.3%, and Rio Tinto fell 0.8%. Macquarie Group (-1.5%) and Insurance Australia (-0.8%) also dropped. Conversely, Telix Pharmaceuticals (2.4%), Codan (2.2%), and PLS Group (1.4%) rose."
+    },
+    {
+      "id": "mkt:01a1c82d-28f3-7bbc-ab97-af26a47523f5",
+      "time": "2026-11-11 09:16:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China soybean meal main futures contract rose over 3% to 3,166 yuan/ton."
+    },
+    {
+      "id": "5207177",
+      "time": "2026-11-11 09:15:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7191，較上日調低24點】人民幣兌美元中間價報6.7191，較上日調低24點。"
+    },
     {
       "id": "mkt:01a1c82c-9091-7bbc-ab97-a40b4407461e",
       "time": "2026-11-11 09:15:26",
