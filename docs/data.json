@@ -1,7 +1,109 @@
 {
-  "updated": "2026-11-11 09:27:35",
-  "count": 10521,
+  "updated": "2026-11-11 09:31:23",
+  "count": 10516,
   "items": [
+    {
+      "id": "mkt:01a1c83a-c043-7bbc-ab97-ed107581d1ef",
+      "time": "2026-11-11 09:30:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 5-year government bond yield rose 8.5 bps to 2.185%."
+    },
+    {
+      "id": "5207192",
+      "time": "2026-11-11 09:30:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1031.50美元/盎司。"
+    },
+    {
+      "id": "te:markets:600201",
+      "time": "2026-11-11 09:30:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rise on Bargain Hunting — The benchmark KOSPI edged up 0.52% to around 5,266 on Monday, extending gains for another session as bargain hunting and strength in battery makers and financial firms supported the index. Sentiment also improved slightly following strong trade data, with South Korea's exports more than doubling year-on-year to $33.5 billion in the first 10 days of November, driven largely by a 331.2% surge in semiconductor shipments. Notable gainers included LG Energy Solution (+1.51%), Samsung SDI (+1.64%), KB Financial (+0.72%), and Shinhan Financial (+0.82%). Meanwhile, technology shares declined, with Samsung Electronics falling 0.96% and SK hynix shedding 0.99%, as hotter-than-expected US inflation fueled concerns that the Federal Reserve could maintain tighter monetary policy for longer. US consumer prices rose 0.3% month-on-month in October, above expectations, while Wall Street also closed lower overnight, with the Dow falling 0.3% and the Nasdaq shedding 0.74%."
+    },
+    {
+      "id": "5207191",
+      "time": "2026-11-11 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.13%， 滬深300指數期貨連續跌0.10%， 中證500指數期貨連續跌0.09%， 上證50指數期貨連續跌0.29%。"
+    },
+    {
+      "id": "5207190",
+      "time": "2026-11-11 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.14%， 10年期主力合約跌0.04%， 5年期主力合約跌0.03%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "5207189",
+      "time": "2026-11-11 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4039.400點；恒生指數現跌0.780%。"
+    },
+    {
+      "id": "5207188",
+      "time": "2026-11-11 09:29:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF開盤：豆粕ETF漲2.21%，黃金股ETF領跌2.96%】ETF開盤漲跌不一，恒指港股通ETF（526070）領漲3.25%，溢價率為4.05%，豆粕ETF（159985）漲2.21%，溢價率為4.18%，家電ETF（159730）漲1.75%，黃金股ETF（159562）領跌2.96%，黃金股ETF（159315）跌2.95%，黃金股ETF（517520）跌2.77%。"
+    },
+    {
+      "id": "mkt:01a1c839-0588-7bbc-ab97-e7b7a3245f89",
+      "time": "2026-11-11 09:29:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【CoreWeave says no reason its partnership with NVIDIA should change】CoreWeave CEO Intrator said in a post-earnings interview there is no reason the company’s partnership with NVIDIA should change. He called NVIDIA a key supporter and supplier and said the firms remain in close cooperation. Both stocks have experienced weeks of volatility amid investor concern about an AI spending slowdown and, in NVIDIA’s case, a board probe into Jensen Huang. Intrator declined to comment on NVIDIA’s ongoing board investigation."
+    },
+    {
+      "id": "mkt:01a1c838-2f98-7bbc-ab97-dc5611a8747a",
+      "time": "2026-11-11 09:28:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "At Wednesday's open in China on Nov 11, China's Shanghai Composite Index fell 8.07 points (-0.22%) to 3,655.66; Shenzhen Composite Index fell 36.19 points (-0.32%) to 11,205.35; CSI 300 Index fell 9.68 points (-0.24%) to 4,049.43; ChiNext Index fell 4.30 points (-0.17%) to 2,490.10; STAR 50 Index fell 4.95 points (-0.39%) to 1,260.07."
+    },
+    {
+      "id": "mkt:01a1c837-7d26-7bbc-ab97-d5b28bd1cfe7",
+      "time": "2026-11-11 09:27:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share film and cinema-chain sector opened higher; Wentou Holdings recorded a third consecutive limit-up; Ciwen Media and Shanghai Film also opened higher."
+    },
     {
       "id": "5207187",
       "time": "2026-11-11 09:27:03",
@@ -96738,144 +96840,6 @@
         "國際"
       ],
       "text": "【澳洲聯邦銀行稱美國選舉初步結果似有利債市】澳洲聯邦銀行表示，美國中期選舉的初步結果似乎對債券市場有利，因為結果顯示民主黨可能有能力阻擋減稅及支出措施。目前開票仍處於相當早期階段，但澳洲聯邦銀行策略師Michael Tang表示，目前看來，民主黨出現了一些不錯的初步結。他認為，從歷史經驗來看，如果出現民主黨拿下國會兩院，收益率往往會下跌。"
-    },
-    {
-      "id": "5191911",
-      "time": "2026-11-04 09:31:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【鋼鐵板塊短線拉昇，馬礦股份漲停】鋼鐵板塊短線拉昇，馬礦股份漲停，久立特材、沙鋼股份、山東鋼鐵、新鋼股份、中南股份等紛紛走高。"
-    },
-    {
-      "id": "mkt:01a1a42e-9c01-7ee0-aa59-89e9c8b5b6de",
-      "time": "2026-11-04 09:31:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【China stock index futures open】At the morning open, China stock index futures: CSI 300 (IF) most-active contract +0.52%, SSE 50 (IH) +0.51%, CSI 500 (IC) +0.13%, CSI 1000 (IM) -0.03%."
-    },
-    {
-      "id": "5191910",
-      "time": "2026-11-04 09:31:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "DDHQ預測，民主黨候選人AGER贏得北卡羅來納州美國眾議院席位選舉。"
-    },
-    {
-      "id": "mkt:01a1a42e-8dbc-7ee0-aa59-868dd0cdb715",
-      "time": "2026-11-04 09:31:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China government bond futures open higher in morning trade】2-year (TS) main contract +0.02%; 5-year (TF) +0.05%; 10-year (T) +0.06%; 30-year (TL) +0.18%."
-    },
-    {
-      "id": "5191909",
-      "time": "2026-11-04 09:31:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超1%，現報3828.410點；恒生指數現跌0.416%。"
-    },
-    {
-      "id": "5191908",
-      "time": "2026-11-04 09:30:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤上漲0.11%。微導轉債、昌紅轉債、麒麟轉債、滿坤轉債、歐通轉債漲幅居前，分別漲1.86%、1.64%、1.63%、1.55%、1.48%。華緯轉債、百洋轉債、惠城轉債、金楊轉債、風語轉債跌幅居前，分別跌2.10%、1.40%、1.04%、0.93%、0.70%。"
-    },
-    {
-      "id": "te:markets:597853",
-      "time": "2026-11-04 09:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Japan Hit 13-week Low — JP225 decreased to 61455.00 Index Points, the lowest since July 2026. Over the past 4 weeks, Japan Stock Market Index (JP225) lost 12%, and in the last 12 months, it increased 22.59%."
-    },
-    {
-      "id": "5191907",
-      "time": "2026-11-04 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.27%， 滬深300指數期貨連續漲0.23%， 中證500指數期貨連續漲0.22%， 上證50指數期貨連續漲0.21%。"
-    },
-    {
-      "id": "5191906",
-      "time": "2026-11-04 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.17%， 10年期主力合約漲0.05%， 5年期主力合約漲0.03%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "mkt:01a1a42c-7117-7ee0-aa59-7a5ec1e56039",
-      "time": "2026-11-04 09:28:58",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-share gaming sector opened slightly higher; Dasheng Culture posted its third consecutive daily limit-up, while Zhangqu Technology, Xinghui Entertainment, 37 Interactive Entertainment, Zhongqingbao and Shengtian Network also climbed."
-    },
-    {
-      "id": "5191905",
-      "time": "2026-11-04 09:28:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "DDHQ預測，共和黨候選人唐納德斯贏得佛羅里達州州長競選。"
-    },
-    {
-      "id": "5191904",
-      "time": "2026-11-04 09:28:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【遊戲板塊小幅高開，大晟文化3連板】遊戲板塊小幅高開，大晟文化3連板，掌趣科技、星輝娛樂、三七互娛、中青寶、盛天網路跟漲。"
-    },
-    {
-      "id": "mkt:01a1a42b-9170-7ee0-aa59-71a1ba40c2f1",
-      "time": "2026-11-04 09:28:00",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China's Shanghai Composite Index opened down 2.71 points (-0.08%) at 3,605.39 on Wednesday, Nov. 4; Shenzhen Composite Index opened up 18.81 points (+0.17%) at 10,895.80; CSI 300 Index opened down 1.52 points (-0.04%) at 4,007.35; ChiNext Index opened up 7.81 points (+0.33%) at 2,399.46; China Sci-Tech Innovation 50 (STAR 50) Index opened up 1.06 points (+0.09%) at 1,152.34."
-    },
-    {
-      "id": "5191903",
-      "time": "2026-11-04 09:27:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【濱海能源等成立新能源公司 含石墨及碳素製品業務】企查查APP顯示，近日，商都旭陽新能源有限公司成立，註冊資本10億元，經營範圍包含新材料技術研發；新材料技術推廣服務；石墨及碳素製品製造；石墨及碳素製品銷售等。企查查股權穿透顯示，該公司由濱海能源等共同持股。"
-    },
-    {
-      "id": "5191902",
-      "time": "2026-11-04 09:27:48",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "【浙商證券中標央行第三批互換便利操作40億元】從行業內獲悉，11月3日，浙商證券再度中標“證券、基金、保險公司互換便利(SFISF)”業務，中標費率為10bp，中標規模40億元。此前，浙商證券是首批獲得互換便利業務資格的20家金融機構之一，並於2024年10月28日完成互換便利業務首次操作。浙商證券相關負責人表示，將加快本次中標額度的使用和業務落地，與同業機構協同發力，共同傳遞積極訊號，為資本市場健康穩定發展貢獻浙商力量。(介面新聞)"
     }
   ]
 }

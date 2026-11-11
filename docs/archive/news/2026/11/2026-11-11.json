@@ -1,7 +1,109 @@
 {
   "date": "2026-11-11",
-  "count": 742,
+  "count": 752,
   "items": [
+    {
+      "id": "mkt:01a1c83a-c043-7bbc-ab97-ed107581d1ef",
+      "time": "2026-11-11 09:30:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 5-year government bond yield rose 8.5 bps to 2.185%."
+    },
+    {
+      "id": "5207192",
+      "time": "2026-11-11 09:30:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1031.50美元/盎司。"
+    },
+    {
+      "id": "te:markets:600201",
+      "time": "2026-11-11 09:30:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rise on Bargain Hunting — The benchmark KOSPI edged up 0.52% to around 5,266 on Monday, extending gains for another session as bargain hunting and strength in battery makers and financial firms supported the index. Sentiment also improved slightly following strong trade data, with South Korea's exports more than doubling year-on-year to $33.5 billion in the first 10 days of November, driven largely by a 331.2% surge in semiconductor shipments. Notable gainers included LG Energy Solution (+1.51%), Samsung SDI (+1.64%), KB Financial (+0.72%), and Shinhan Financial (+0.82%). Meanwhile, technology shares declined, with Samsung Electronics falling 0.96% and SK hynix shedding 0.99%, as hotter-than-expected US inflation fueled concerns that the Federal Reserve could maintain tighter monetary policy for longer. US consumer prices rose 0.3% month-on-month in October, above expectations, while Wall Street also closed lower overnight, with the Dow falling 0.3% and the Nasdaq shedding 0.74%."
+    },
+    {
+      "id": "5207191",
+      "time": "2026-11-11 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.13%， 滬深300指數期貨連續跌0.10%， 中證500指數期貨連續跌0.09%， 上證50指數期貨連續跌0.29%。"
+    },
+    {
+      "id": "5207190",
+      "time": "2026-11-11 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.14%， 10年期主力合約跌0.04%， 5年期主力合約跌0.03%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "5207189",
+      "time": "2026-11-11 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4039.400點；恒生指數現跌0.780%。"
+    },
+    {
+      "id": "5207188",
+      "time": "2026-11-11 09:29:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF開盤：豆粕ETF漲2.21%，黃金股ETF領跌2.96%】ETF開盤漲跌不一，恒指港股通ETF（526070）領漲3.25%，溢價率為4.05%，豆粕ETF（159985）漲2.21%，溢價率為4.18%，家電ETF（159730）漲1.75%，黃金股ETF（159562）領跌2.96%，黃金股ETF（159315）跌2.95%，黃金股ETF（517520）跌2.77%。"
+    },
+    {
+      "id": "mkt:01a1c839-0588-7bbc-ab97-e7b7a3245f89",
+      "time": "2026-11-11 09:29:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【CoreWeave says no reason its partnership with NVIDIA should change】CoreWeave CEO Intrator said in a post-earnings interview there is no reason the company’s partnership with NVIDIA should change. He called NVIDIA a key supporter and supplier and said the firms remain in close cooperation. Both stocks have experienced weeks of volatility amid investor concern about an AI spending slowdown and, in NVIDIA’s case, a board probe into Jensen Huang. Intrator declined to comment on NVIDIA’s ongoing board investigation."
+    },
+    {
+      "id": "mkt:01a1c838-2f98-7bbc-ab97-dc5611a8747a",
+      "time": "2026-11-11 09:28:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "At Wednesday's open in China on Nov 11, China's Shanghai Composite Index fell 8.07 points (-0.22%) to 3,655.66; Shenzhen Composite Index fell 36.19 points (-0.32%) to 11,205.35; CSI 300 Index fell 9.68 points (-0.24%) to 4,049.43; ChiNext Index fell 4.30 points (-0.17%) to 2,490.10; STAR 50 Index fell 4.95 points (-0.39%) to 1,260.07."
+    },
+    {
+      "id": "mkt:01a1c837-7d26-7bbc-ab97-d5b28bd1cfe7",
+      "time": "2026-11-11 09:27:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share film and cinema-chain sector opened higher; Wentou Holdings recorded a third consecutive limit-up; Ciwen Media and Shanghai Film also opened higher."
+    },
     {
       "id": "5207187",
       "time": "2026-11-11 09:27:03",
