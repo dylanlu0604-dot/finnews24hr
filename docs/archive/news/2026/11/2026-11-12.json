@@ -1,7 +1,61 @@
 {
   "date": "2026-11-12",
-  "count": 640,
+  "count": 646,
   "items": [
+    {
+      "id": "te:markets:600582",
+      "time": "2026-11-12 11:55:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Aussie Dollar Hits 9-Month Low — The Australian dollar fell below $0.69, hitting its lowest level since late January as the US dollar strengthened on growing expectations of a Federal Reserve interest rate hike. The odds of a half-percentage-point Fed rate hike in December surged after US inflation accelerated more than expected in October and policymakers signaled willingness to tighten policy more aggressively. In contrast, weak housing data and a significant drop in both consumer and business confidence in Australia prompted traders to largely rule out a further interest rate increase by the Reserve Bank of Australia in December. After the central bank had increased interest rates five times this year, which brought the cash rate to an eighteen-year high of 4.85%, markets now imply an 82% probability that rates have peaked, with a quarter-point rate cut fully priced in by the end of 2027. Meanwhile, a broader selloff in global equity markets added pressure to the risk-sensitive Aussie."
+    },
+    {
+      "id": "5209824",
+      "time": "2026-11-12 11:55:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星動紀元自研具身分揀機器人落地十餘個物流中心，分揀峰值達1500件/小時】11月12日，介面新聞獲悉，星動紀元自研具身分揀機器人已在中國郵政、順豐集團的十餘個物流中心投入運營，參與今年雙11大促分揀。據公司披露，該方案在實驗室環境下每小時可分揀1200件包裹，進入真實產線後，初期效率降至800至900件。透過採集一線分揀人員的運算元據並最佳化模型，目前機器人分揀峰值達到每小時1500件，可處理混流包裹及異形件。"
+    },
+    {
+      "id": "5209823",
+      "time": "2026-11-12 11:54:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百度天池1024卡超節點發布】在百度世界2026開幕式上，百度天池1024卡超節點發布，將在明年推向市場，其採用光引擎技術實現全光互聯，支援1024張卡高效協同，相比上一代卡間互聯的頻寬提升三倍。"
+    },
+    {
+      "id": "5209822",
+      "time": "2026-11-12 11:54:02",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【三星與SK海力士密切關注英偉達事態發展】據公司內部人士週四透露，三星電子和SK海力士正密切關注其主要客戶之一英偉達所面臨的領導層不確定性，評估潛在的繼任情況。“如果黃離職，難免會影響到業界高層之間的聯絡與互動，”一位不願透露姓名的公司內部人士表示，“我們不能排除商業洽談放緩，或是既定計劃發生變動的可能性。”不過，也有內部人士表示，現有的供應協議不太可能受到影響。“黃仁勳已成為人工智慧行業的標誌性人物，但不能將英偉達乃至整個AI行業簡單地等同於他個人，”一位要求匿名的公司高管表示。不過，這位高管提醒稱，監管環境的變化或英偉達產品路線圖的變動，可能會從長遠角度給韓國晶片製造商的生產及投資計劃帶來複雜影響。“就目前而言，監管風險不太可能削弱美國企業的競爭力，”該高管補充道。"
+    },
+    {
+      "id": "5209821",
+      "time": "2026-11-12 11:53:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【知情人士：“騰訊裁員50%”系謠言誤讀，該說法完全不屬實】昨日，騰訊28週年內部全員會傳出組織變革與人員調整訊息。在社交媒體上，有訊息稱，“現在都在傳騰訊裁員8000人，職級13的元老同樣被裁員”“騰訊宣佈裁員一半”……對此情況，接近騰訊的知情人士表示，在騰訊28週年的Linktime線上直播中，騰訊管理層主動表達了要加快組織變革的決心，同時特別提到，這和幾年前那次“降本增效”不一樣。前一次相對被動，更偏“降本”；這一次是面向AI時代的主動出擊，更偏“增效”，激發團隊去創造新的價值，鼓勵一線同事積極舉手向前衝，中間的管理層則需要變得更扁平和靈敏。上述知情人士還表示，“為了應對新的變革，內部需要主動思考新打法和新戰場，50%的人像陸軍一樣，守土有責，透過提效去做好現有的核心業務；另50%的人像海軍一樣，擁抱浪潮，探索AI Native、拓展新的發展空間。這是公司資源適應AI時代的重新排程，可能也是所謂'裁員50%'的謠言誤讀出處，該說法完全不屬實。”（新浪科技）"
+    },
+    {
+      "id": "5209820",
+      "time": "2026-11-12 11:53:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼議會發言人：印尼副總統吉布蘭今日將前往國會。"
+    },
     {
       "id": "5209819",
       "time": "2026-11-12 11:52:03",
