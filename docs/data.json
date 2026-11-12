@@ -1,7 +1,274 @@
 {
-  "updated": "2026-11-12 19:58:35",
-  "count": 9744,
+  "updated": "2026-11-12 20:02:25",
+  "count": 9770,
   "items": [
+    {
+      "id": "mkt:01a1cfa2-dae6-7bbc-abaf-7a6849a04571",
+      "time": "2026-11-12 20:01:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's president Zelenskiy said Russia plans to increase production of jet-powered drones."
+    },
+    {
+      "id": "mkt:01a1cfa2-cec4-7bbc-abaf-724116f42e15",
+      "time": "2026-11-12 20:01:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said Russia intends to continue striking energy infrastructure and that Ukraine needs more air-defence interceptors."
+    },
+    {
+      "id": "5210916",
+      "time": "2026-11-12 20:01:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【閃迪美股盤前跌超5%】閃迪美股盤前跌超5%，現報928.2美元。"
+    },
+    {
+      "id": "mkt:01a1cfa2-90ea-7bbc-abaf-69ad94c1e4fe",
+      "time": "2026-11-12 20:01:39",
+      "tags": [
+        "MKT News",
+        "BKR.O"
+      ],
+      "text": "Baker Hughes (BKR.O) and Turkish Petroleum (TPAO) are exploring commercialization of next‑generation geothermal technology in Turkey to enable continuous, stable 24/7 power generation."
+    },
+    {
+      "id": "5210915",
+      "time": "2026-11-12 20:01:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：需要能源支援以度過冬季。"
+    },
+    {
+      "id": "mkt:01a1cfa2-76b6-7bbc-abaf-64b9d6f53ca2",
+      "time": "2026-11-12 20:01:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CVX.N",
+        "Impact bullish"
+      ],
+      "text": "Market sources: Chevron (CVX.N) will restart its Ralston, Iowa biodiesel plant, supported by a feedstock supply agreement with Landus Cooperative."
+    },
+    {
+      "id": "mkt:01a1cfa2-4ab5-7bbc-abaf-5f92b4758bd1",
+      "time": "2026-11-12 20:01:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhaomin Technology says jointly developed multiple precision components for humanoid robots】Zhaomin Technology said at a strategy meeting it is expanding its market presence in the humanoid-robot sector and pursuing new clients. Leveraging years of experience in precision molds and specialty engineering plastics (PEEK, PPS) and precision parts manufacturing, the company and customers have jointly developed several new precision components for humanoid robots, which are now being ramped toward mass production."
+    },
+    {
+      "id": "5210914",
+      "time": "2026-11-12 20:01:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta與Sublime Systems簽署多年期協議，採購18萬噸低碳水泥。"
+    },
+    {
+      "id": "mkt:01a1cfa2-2ca8-7bbc-abaf-56bd115ff2ee",
+      "time": "2026-11-12 20:01:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "【Douyin e-commerce: consumer vouchers helped 20,000+ small merchants top CNY1 MLN in Double 11 sales】Douyin e-commerce data show Oct. 15–Nov. 11, 2026 Double 11 campaign: more than 30,000 new merchants recorded sales above CNY1 MLN; over 15,000 new creators participating for the first time exceeded CNY1 MLN; more than 20,000 small and midsize merchants driven by consumer vouchers topped CNY1 MLN. Shop live-stream rooms with sales above CNY100 MLN rose 200% YoY. Merchants with sales above CNY10 MLN attributed to product cards and search increased 29% and 31% YoY, respectively. In fresh agricultural products and pet supplies, brands with sales above CNY100 MLN rose 200% and 100% YoY. During the promotion, over 330 industrial clusters recorded sales above CNY100 MLN and 44 clusters exceeded CNY1 BLN; more than 13,000 cluster merchants with under 10,000 followers achieved single-category product sales above CNY1 MLN."
+    },
+    {
+      "id": "mkt:01a1cfa2-1efa-7bbc-abaf-4e4d4f2d34f7",
+      "time": "2026-11-12 20:01:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil consumer prices rose 0.14% MoM in October vs 0.25% expected; annual inflation 4.63% YoY vs 4.74% expected."
+    },
+    {
+      "id": "5210913",
+      "time": "2026-11-12 20:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta宣佈就資料中心供應鏈清潔製造達成長期協議。"
+    },
+    {
+      "id": "5210912",
+      "time": "2026-11-12 20:00:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "Salesforce Ventures與Affinity Partners參與量子計算公司2.9億美元融資。"
+    },
+    {
+      "id": "mkt:01a1cfa1-d3c8-7bbc-abaf-47d994739096",
+      "time": "2026-11-12 20:00:51",
+      "tags": [
+        "MKT News",
+        "300015.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Aier Eye Hospital: share of advanced refractive procedures rose in Q3 2026】Aier Eye Hospital said in an investor relations record that in Q3 2026 the proportion of advanced procedures in its refractive segment—including ICL V5 and SMILE Pro—continued to rise, delivering significant QoQ revenue growth and materially improving the business mix."
+    },
+    {
+      "id": "mkt:01a1cfa1-a77e-7bbc-abaf-3ab877bca2c4",
+      "time": "2026-11-12 20:00:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian President Zelenskiy said Kyiv finds it strange that the U.S. is discussing a new security order with Russia."
+    },
+    {
+      "id": "mkt:01a1cfa1-9a81-7bbc-abaf-34b6c7d54940",
+      "time": "2026-11-12 20:00:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 2.2% at the start of the Nov. 12 evening session to 850.55 yuan/gram. Shanghai Gold Exchange silver T+D fell 1.26% to 12,194.0 yuan/kg."
+    },
+    {
+      "id": "5210911",
+      "time": "2026-11-12 20:00:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音電商：“雙11”期間消費券帶動超2萬中小商家成交破百萬】據抖音電商資料，10月15日至11月11日，2026年抖音電商“雙11”期間，超3萬新商家成交額破百萬；超1.5萬新達人首次參加“雙11”，成交額便突破百萬；超2萬中小商家在消費券帶動下，成交額突破百萬門檻。成交額破億的店播直播間數量同比增長200%；商品卡、搜尋帶動成交額破千萬商家數量分別同比增長29%、31%。農產品生鮮、寵物用品行業成交額破億品牌數量分別同比增長200%、100%。大促期間，超330個產業帶成交過億，44個產業帶成交過十億；超過1.3萬個產業帶商家粉絲不足一萬，單一品類商品成交額超過百萬。"
+    },
+    {
+      "id": "mkt:01a1cfa1-61bd-7bbc-abaf-2af55e706ac5",
+      "time": "2026-11-12 20:00:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukrainian President Zelenskiy said he will hold talks with U.S. representatives later on Thursday."
+    },
+    {
+      "id": "5210910",
+      "time": "2026-11-12 20:00:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海市委深改委會議研究改革試點經驗複製推廣、智慧財產權全鏈條高質量發展等事項】會議聽取複製推廣重點區域改革試點經驗有關情況彙報並指出，要結合產業基礎和企業需求，因地制宜抓好改革措施的複製推廣，在形成規模效應上下更大功夫，擴大政策覆蓋，深化改革聯動，充分釋放制度創新紅利。要完善推進機制，深化市區聯動，健全評估考核，加強風險管理，加大培訓指導，形成工作合力，推動改革真正落地見效。（澎湃）"
+    },
+    {
+      "id": "mkt:01a1cfa1-2e87-7bbc-abaf-25bf8434bab7",
+      "time": "2026-11-12 20:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General Rutte said the US, Europe and Ukraine were highly aligned in Abu Dhabi."
+    },
+    {
+      "id": "5210909",
+      "time": "2026-11-12 20:00:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西10月消費者價格指數環比上漲0.14%；此前預期上漲0.25%。"
+    },
+    {
+      "id": "mkt:01a1cfa1-0ea0-7bbc-abaf-1b8023b3c992",
+      "time": "2026-11-12 20:00:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "William Blair downgraded NVIDIA (NVDA.O) to \"Market Perform\"."
+    },
+    {
+      "id": "5210908",
+      "time": "2026-11-12 19:59:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【證監會：全力維護市場平穩執行】記者11月12日從中國證監會獲悉，證監會相關負責同志在2026年上海證券交易所國際投資者大會上表示，證監會將豐富市場投資工具，加大權益類產品供給和創新力度，引導和鼓勵主動ETF加快投資建倉。進一步拓寬中長期資金來源、渠道和入市方式，促進融資融券逆週期調節功能發揮，匯聚各方合力，全力維護市場平穩執行。證監會相關負責同志表示，證監會將完善穩市機制，增強股市內在穩定性，會同相關部門協同發力，打好穩市場、穩預期政策組合拳。用好用足兩項結構性貨幣政策工具，證券、基金公司已開展第三批互換便利操作1000億元。支援上市公司加大回購增持力度，今年以來上市公司新披露的回購計劃金額、實際回購金額、回購登出金額及佔比均創歷史新高。（新華社）"
+    },
+    {
+      "id": "5210907",
+      "time": "2026-11-12 19:59:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：阿布扎比會談看來是嚴肅的，而非空談。"
+    },
+    {
+      "id": "5210906",
+      "time": "2026-11-12 19:59:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基表示，他將於週四晚些時候與美國代表進行會談。"
+    },
+    {
+      "id": "5210905",
+      "time": "2026-11-12 19:58:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "威廉·布萊爾將英偉達評級下調至“與大盤持平”。"
+    },
+    {
+      "id": "5210904",
+      "time": "2026-11-12 19:58:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基在都柏林表示，必須確保歐洲成為談判的常規參與方。"
+    },
+    {
+      "id": "5210903",
+      "time": "2026-11-12 19:58:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：歐洲需要參與同俄羅斯的談判。"
+    },
+    {
+      "id": "mkt:01a1cf9f-666d-7bbc-abaf-1049bc672d12",
+      "time": "2026-11-12 19:58:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Zelenskiy said European participation in talks on the war is welcome and urged that Europe be made a permanent participant in negotiations."
+    },
+    {
+      "id": "5210902",
+      "time": "2026-11-12 19:58:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "William Blair上調AMD評級至跑贏大盤。"
+    },
     {
       "id": "5210901",
       "time": "2026-11-12 19:57:20",
@@ -88718,36 +88985,6 @@
         "Importance 3"
       ],
       "text": "BoE Raises Rates for 1st Time Since 2023 — The Bank of England voted by a majority of 8-1 to raise the key bank rate by 25bps to 4% in November 2026, in line with expectations. It is the first increase in borrowing costs since August 2023, with one policymaker, Catherine Mann, voting for a hike of 0.5 percentage points to 4.25%. UK inflation is now expected to rise to around 5% by the middle of next year from the current 3.5%. It is then projected to fall as the impact of rising energy prices fades, and still restrictive monetary policy bears down on inflation. In addition, activity data in recent months have generally been stronger than expected, adding to the case for modestly tighter monetary policy. Policymakers added that monetary policy is not on a pre-set path and the Committee will continue to assess the evidence at each meeting and will adjust Bank Rate as necessary to ensure CPI inflation returns to the 2% target in the medium term."
-    },
-    {
-      "id": "te:economy:598617",
-      "time": "2026-11-05 20:02:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uganda",
-        "Business Confidence",
-        "Importance 0"
-      ],
-      "text": "Uganda Business Confidence Hits Over 3-Year Low — Uganda’s Business Tendency Index fell to 53.5 in October 2026 from an upwardly revised 56.7 in September, its lowest reading since February 2023. Assessments weakened across most indicators, including the present business situation (50.3 vs 53.7), supplier order volumes (53.9 vs 57.7), current employment (47.9 vs 51.9), expected employment (54.6 vs 57.3), sector competition (70.8 vs 72.4), financial situation (47.1 vs 52.6), access to credit (38.9 vs 41.2), and current and future demand for services (50.9 vs 56.8 and 65.5 vs 70.9, respectively). The three-month business outlook also weakened (59.2 vs 62.3). Meanwhile, average selling prices (66.4 vs 61.5), stocks of finished products (48.1 vs 47.9), and order books (46.5 vs 41.9) increased. Across sectors, confidence declined in construction (39.8 vs 46.0), manufacturing (52.6 vs 53.1), wholesale trade (46.7 vs 49.2), financial services (77.7 vs 85.0), and other services (53.4 vs 59.7), while improving in agriculture (57.5 vs 56.4)."
-    },
-    {
-      "id": "em:qqyh_ygyh:202611053923694851",
-      "time": "2026-11-05 20:01:30",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "英國央行預測通脹將在2027年第二季度見頂於4.9%。"
-    },
-    {
-      "id": "em:qqyh_ygyh:202611053923693370",
-      "time": "2026-11-05 20:00:10",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "【英國央行三年來首次加息】英國央行加息25個基點至4.00%，為2023年8月以來首次加息，符合市場預期。"
     }
   ]
 }
