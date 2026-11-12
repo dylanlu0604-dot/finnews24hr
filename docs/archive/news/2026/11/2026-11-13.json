@@ -1,7 +1,41 @@
 {
   "date": "2026-11-13",
-  "count": 306,
+  "count": 309,
   "items": [
+    {
+      "id": "mkt:01a1d13c-8ab7-7bbc-abbe-eebec5254194",
+      "time": "2026-11-13 03:29:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【Reuters: Resigned NVIDIA CEO Huang reported to have additional intimate relationship with employee】Reuters, citing two people familiar with the matter, reported that Huang, who has resigned as NVIDIA (NVDA.O) CEO, had an intimate relationship with another employee; the employee’s identity was not disclosed. The report said this follows earlier revelations of two extramarital relationships. NVIDIA, Huang and a board representative did not respond to requests for comment."
+    },
+    {
+      "id": "5211722",
+      "time": "2026-11-13 03:29:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【義大利已有3778所學校收到炸彈威脅郵件 77所實施疏散】當地時間11月12日，義大利總理府釋出最新通報稱，據初步統計，當天全國共有3778所學校收到炸彈威脅郵件，其中77所學校實施疏散。根據義大利相關規定，在沒有具體證據表明存在實際危險的情況下，學校不應僅因收到大規模傳送的威脅郵件而實施疏散。如存在明確、具體的風險，地方省督仍有權決定採取疏散措施。義大利政府表示，將進一步完善相關應對機制，在保障師生安全的同時，防止虛假威脅干擾正常教學及公共服務秩序。(央視新聞)"
+    },
+    {
+      "id": "te:economy:600858",
+      "time": "2026-11-13 03:28:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Inflation Rate MoM",
+        "Importance 1"
+      ],
+      "text": "Argentina Monthly Inflation Rate Hits Six-Month High — Argentina's monthly inflation rate rose to 2.2% in October 2026 from 1.9% in the prior month, marking a six-month high. Utilities recorded the largest price increase (4.2%), driven by higher gas prices. Recreation and culture followed, up 3.3%. Food and non-alcoholic beverages contributed the most to the monthly variation across most regions, rising 2% nationally. Prices also rose considerably for clothing and footwear (2.2%), healthcare (1.7%), transport (2.1%), communication (2%), and restaurants and hotels (1.7%). Seasonal prices rose 5.5% and regulated prices increased 2.9%. Core inflation eased to 1.5% from 1.7% in September. Year on year, Argentina's inflation eased slightly to 33.1% from 33.4%, missing estimates of 32.7%."
+    },
     {
       "id": "5211721",
       "time": "2026-11-13 03:25:25",
