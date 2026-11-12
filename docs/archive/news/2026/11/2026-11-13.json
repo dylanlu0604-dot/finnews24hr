@@ -1,7 +1,28 @@
 {
   "date": "2026-11-13",
-  "count": 279,
+  "count": 281,
   "items": [
+    {
+      "id": "5211705",
+      "time": "2026-11-13 03:06:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：11架飛往莫斯科的無人機已被擊落。應急部門正在墜機現場處置。"
+    },
+    {
+      "id": "mkt:01a1d127-01e0-7bbc-abbe-a484f9770f3d",
+      "time": "2026-11-13 03:05:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRNA, citing official sources, said minutes ago that Sirik in Iran's Hormozgan province was struck by hostile forces; the report described the attack as military in nature."
+    },
     {
       "id": "5211704",
       "time": "2026-11-13 03:03:13",
