@@ -1,7 +1,187 @@
 {
-  "updated": "2026-11-12 20:18:02",
-  "count": 9855,
+  "updated": "2026-11-12 20:21:57",
+  "count": 9876,
   "items": [
+    {
+      "id": "5210983",
+      "time": "2026-11-12 20:20:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nebius第三季度剩餘履約義務為387億美元。"
+    },
+    {
+      "id": "5210982",
+      "time": "2026-11-12 20:20:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部：總理訪問菲律賓馬尼拉。"
+    },
+    {
+      "id": "5210981",
+      "time": "2026-11-12 20:20:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nebius不再認為ARR是衡量業務的合適指標。"
+    },
+    {
+      "id": "mkt:01a1cfb3-debb-7bbc-abb0-ef4a47a3f82e",
+      "time": "2026-11-12 20:20:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【BAIC, Huawei agree to deepen strategic cooperation and boost investment in Xiangjie luxury brand】Nov. 10 — BAIC Group chairman Zhang Jianyong led a delegation to Shenzhen for talks with Huawei founder Ren Zhengfei and senior Huawei executives. The parties reviewed years of collaboration and said BAIC’s luxury manufacturing and Huawei’s intelligent-vehicle technology have produced early success with the Xiangjie auto line. They agreed to deepen strategic cooperation and step up investment in the Xiangjie brand, focusing on user experience to pursue differentiated positioning as a Chinese luxury marque. Other strategic cooperation items were discussed."
+    },
+    {
+      "id": "5210979",
+      "time": "2026-11-12 20:20:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使威特科夫：俄羅斯和烏克蘭代表團在阿布扎比進行了有效工作 。在阿布扎比的歐洲人沒有參與談判，但他們隨時瞭解接觸情況。"
+    },
+    {
+      "id": "5210978",
+      "time": "2026-11-12 20:20:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【炬申股份：可轉債募集資金淨額3.72億元，計劃投入炬申幾內亞駁運專案2.66億元】炬申股份在投資者關係活動記錄表中表示，本次向不特定物件發行可轉換公司債券實際募集資金淨額為人民幣3.72億元，其中計劃使用2.66億元投入“炬申幾內亞駁運專案”，計劃使用1.06億元用於補充流動資金及償還銀行貸款。"
+    },
+    {
+      "id": "5210977",
+      "time": "2026-11-12 20:19:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nebius預計2026年客戶預付承諾金額將達100億美元。"
+    },
+    {
+      "id": "mkt:01a1cfb2-e3c5-7bbc-abb0-e548458ff768",
+      "time": "2026-11-12 20:19:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports U.S. presidential envoy Witkoff said he will brief Zelenskiy on his talks with Russian President Putin today."
+    },
+    {
+      "id": "5210976",
+      "time": "2026-11-12 20:19:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "ACS 預計 2026 年資料中心收入為 170 億至 180 億歐元，2030 年資料中心收入為 270 億至 300 億歐元。"
+    },
+    {
+      "id": "5210975",
+      "time": "2026-11-12 20:19:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青島銀行：截至2026年9月末綠色貸款餘額708.37億元，較上年末增長20.44%】青島銀行在投資者關係活動記錄表中表示，截至2026年9月末，科技金融貸款餘額338.3億元，比上年末增加23.72億元，增長7.54%；綠色貸款餘額708.37億元，比上年末增加120.24億元，增長20.44%；藍色貸款餘額270.92億元，比上年末增加43.38億元，增長19.06%。"
+    },
+    {
+      "id": "mkt:01a1cfb2-a2d8-7bbc-abb0-de97608ef948",
+      "time": "2026-11-12 20:19:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Riksbank deputy governor Bunge said gradual changes allow each step to be assessed."
+    },
+    {
+      "id": "5210974",
+      "time": "2026-11-12 20:19:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使威特科夫：我將向澤連斯基通報今天與普京的會談情況 。"
+    },
+    {
+      "id": "mkt:01a1cfb2-7d84-7bbc-abb0-d2d94ff83dbd",
+      "time": "2026-11-12 20:19:03",
+      "tags": [
+        "MKT News",
+        "NBIS.O",
+        "Impact bullish"
+      ],
+      "text": "Nebius (NBIS.O) expects some third-party capacity to come online in 1H 2027."
+    },
+    {
+      "id": "mkt:01a1cfb2-456d-7bbc-abb0-ca37be307ca4",
+      "time": "2026-11-12 20:18:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Interfax reported U.S. presidential envoy Witkoff said the European side did not participate in talks in Abu Dhabi but was kept informed of related contacts."
+    },
+    {
+      "id": "mkt:01a1cfb2-0167-7bbc-abb0-c58742233177",
+      "time": "2026-11-12 20:18:31",
+      "tags": [
+        "MKT News",
+        "NBIS.O",
+        "Impact bullish"
+      ],
+      "text": "Nebius (NBIS.O) will cover 75%-85% of its 2027 capital expenditure via prepayments."
+    },
+    {
+      "id": "mkt:01a1cfb1-dd04-7bbc-abb0-be762ad73719",
+      "time": "2026-11-12 20:18:22",
+      "tags": [
+        "MKT News",
+        "NBIS.O",
+        "Impact mixed"
+      ],
+      "text": "Nebius (NBIS.O) expects 2026 capital expenditure of about $27 billion."
+    },
+    {
+      "id": "5210973",
+      "time": "2026-11-12 20:18:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江豐電子：向香港聯交所遞交H股發行上市申請並刊發申請資料】江豐電子公告，公司已於2026年11月12日向香港聯合交易所有限公司遞交了發行境外上市股份（H股）並在香港聯交所主機板掛牌上市的申請，並於同日在香港聯交所網站刊登了本次發行上市的申請資料。該申請資料為草擬版本，所載資料可能會適時作出更新和修訂。公司本次發行上市尚需取得中國證券監督管理委員會、香港證監會和香港聯交所等相關政府機關、監管機構、證券交易所的備案、批准或核准，並需綜合考慮市場情況以及其他因素方可實施，該事項仍存在不確定性。"
+    },
+    {
+      "id": "5210972",
+      "time": "2026-11-12 20:18:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nebius：部分第三方算力預計將於2027年上半年到位。"
+    },
+    {
+      "id": "mkt:01a1cfb1-8713-7bbc-abb0-b428296ed413",
+      "time": "2026-11-12 20:18:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Riksbank deputy governor Bunge said gradual monetary policy adjustments are important."
+    },
+    {
+      "id": "5210971",
+      "time": "2026-11-12 20:17:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nebius將透過預付款覆蓋2027年75%至85%的資本開支。"
+    },
+    {
+      "id": "mkt:01a1cfb1-233e-7bbc-abb0-aab5a68efe04",
+      "time": "2026-11-12 20:17:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Riksbank Deputy Governor BUNGE said the policy rate may need to be raised further within the next year, but that assessment is conditional on the inflation outlook and economic activity evolving in line with current expectations."
+    },
     {
       "id": "5210970",
       "time": "2026-11-12 20:17:10",
