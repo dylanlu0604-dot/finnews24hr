@@ -1,7 +1,47 @@
 {
-  "updated": "2026-11-13 03:52:39",
-  "count": 9827,
+  "updated": "2026-11-13 03:56:22",
+  "count": 9832,
   "items": [
+    {
+      "id": "mkt:01a1d154-cb58-7bbc-abbf-2bf90f1a465c",
+      "time": "2026-11-13 03:55:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kuo: Cook strong on supply‑chain; only Jensen Huang proven at delivering cutting‑edge AI chips】Analyst Ming‑Chi Kuo said Jensen Huang's sudden departure could create succession uncertainty at NVIDIA (NVDA.O), potentially opening an opportunity for Google's (GOOG.O) in‑house TPU to take market share. On Trump's suggestion that Tim Cook replace Huang, Kuo said Cook's comparative strength is cost and supply‑chain management, and NVIDIA still has clear scope to cut supply‑chain costs. Kuo added that on strategic R&D and the rapid commercialisation of frontier technologies into AI chips and rack solutions, only Jensen Huang has demonstrably succeeded."
+    },
+    {
+      "id": "5211735",
+      "time": "2026-11-13 03:55:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱無需與伊朗達成協議 要求萬斯聚焦國內問題】美國總統特朗普12日稱美國不需要與伊朗達成協議，並要求副總統萬斯將全部精力集中到國內反腐和犯罪問題上。特朗普當天在社交媒體發文說，他已要求萬斯將“全部精力集中在民主黨執政的城市與州的嚴重腐敗和犯罪問題上”，並稱“我們不需要與伊朗達成任何協議，那些日子早已過去，我們掌握著他們數千億美元資金，還控制著他們的（霍爾木茲）海峽”。（新華社）"
+    },
+    {
+      "id": "mkt:01a1d153-a59e-7bbc-abbf-271840854e6d",
+      "time": "2026-11-13 03:54:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's embassy in the UK categorically denied allegations by UK judicial authorities linking Iran to violent activity in the UK and claims of Iranian involvement in related espionage."
+    },
+    {
+      "id": "5211734",
+      "time": "2026-11-13 03:52:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【郭明錤：黃仁勳離職為谷歌TPU創造機會，庫克在供應鏈管理及成本控制方面具備優勢】分析師郭明錤表示，英偉達執行長黃仁勳突然離職所引發的管理層接班不確定性，可能為谷歌自研AI晶片TPU創造擴大市場份額的機會。隨著大型雲端計算企業重新評估AI算力供應方案，谷歌有望進一步贏得客戶及供應鏈的信任，其關鍵合作伙伴博通和聯發科可能成為市場短期關注的重點。"
+    },
+    {
+      "id": "5211733",
+      "time": "2026-11-13 03:52:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：已對全部受影響伺服器啟動重啟，目前正在監控其恢復上線後的執行狀態。"
+    },
     {
       "id": "5211732",
       "time": "2026-11-13 03:47:17",
