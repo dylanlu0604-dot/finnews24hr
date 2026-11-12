@@ -1,7 +1,56 @@
 {
   "date": "2026-11-13",
-  "count": 292,
+  "count": 297,
   "items": [
+    {
+      "id": "mkt:01a1d131-9e16-7bbc-abbe-cb35f6caa73b",
+      "time": "2026-11-13 03:17:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Sources: Sirik in Iran's Hormozgan province hit by hostile attack】Local time on the 12th, Iranian official sources said Sirik in Hormozgan province was struck that evening by a hostile attack, described as \"military in nature\". Iranian authorities have not issued a formal statement."
+    },
+    {
+      "id": "te:economy:600857",
+      "time": "2026-11-13 03:17:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Budget Value",
+        "Importance 1"
+      ],
+      "text": "US Budget Deficit Widens More Than Forecast in October — The US government budget deficit widened to $404 billion in October 2026 from $284 billion a year earlier, missing forecasts of a $298.6 billion gap. Outlays rose to $773 billion from $689 billion. The largest expenditures were Medicare ($170 billion), Social Security ($143 billion), national defense ($103 billion), and net interest ($103 billion), followed by health ($94 billion), income security ($58 billion), and veterans' benefits ($54 billion). Meanwhile, receipts declined to $369 billion from $404 billion, with individual income taxes ($186 billion), social insurance and retirement ($131 billion), and customs duties ($19 billion) as the largest revenue sources."
+    },
+    {
+      "id": "5211715",
+      "time": "2026-11-13 03:17:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智利上調鋰產量預期，市場明年料重返過剩】智利上調了今年的鋰產量預期，儘管需求增長放緩和供應上升預計將推動全球市場在2027年重返過剩狀態。智利國家銅業委員會（Cochilco）週四表示，全球第三大鋰生產國智利在2026年將生產約32.5萬噸碳酸鋰當量（LCE），高於一年前預測的30.5萬噸。2027年產量預計將升至33.5萬噸。受電池儲能系統快速增長的推動，全球鋰需求今年預計將增長25%，達到208萬噸，較Cochilco一年前的預測高出約34%。但需求增長預計在2027年將大幅放緩至8%，屆時消費量將達到225萬噸。Cochilco預計今年全球將出現7.9萬噸的供應短缺，而一年前預測的是6萬噸的供應過剩。到2027年，隨著新供應逐步入市，供應增速預計將超過需求，推動市場重返4.2萬噸的過剩狀態。"
+    },
+    {
+      "id": "5211714",
+      "time": "2026-11-13 03:17:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士稱伊朗霍爾木茲甘省錫裡克遭敵方襲擊】當地時間12日，伊朗官方訊息人士表示，位於伊朗霍爾木茲甘省的錫裡克當晚遭到了敵方襲擊，襲擊屬於“軍事性質”。目前伊朗官方並未就此發表正式宣告。（央視新聞）"
+    },
+    {
+      "id": "5211713",
+      "time": "2026-11-13 03:15:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "伊朗國家通訊社IRNA報道敵方對伊朗發動襲擊後，原油期貨擴大漲幅；WTI最新上漲2.36%，布倫特最新上漲3%。"
+    },
     {
       "id": "mkt:01a1d12e-e12d-7bbc-abbe-c4022fb1c33e",
       "time": "2026-11-13 03:14:32",
