@@ -1,7 +1,46 @@
 {
   "date": "2026-11-13",
-  "count": 260,
+  "count": 264,
   "items": [
+    {
+      "id": "5211695",
+      "time": "2026-11-13 02:58:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國10月份預算赤字為4040.6億美元。"
+    },
+    {
+      "id": "5211694",
+      "time": "2026-11-13 02:57:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長計劃下週三（11月18日）召開公司會議。"
+    },
+    {
+      "id": "mkt:01a1d11e-a1de-7bbc-abbe-6ab887fb2f06",
+      "time": "2026-11-13 02:56:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Chicago Fed's Goolsbee: US inf at 'dangerous moment'; data-center demand a watchpoint】Chicago Fed President Goolsbee said US inflation is at a \"dangerous moment\" after October CPI surprised to the upside, marking a second consecutive monthly increase. He had expected inflation to ease as tariff effects faded and oil fell, but that has not yet occurred. Goolsbee flagged persistent price pressure in services and healthcare that he says is unrelated to tariffs or oil. The Fed is trying to separate supply-side shocks (tariffs, prolonged high oil) from demand-side overheating tied to large-scale data-center construction. AI-related inflation remains concentrated in AI, tech and related sectors and has not yet broadened; the Fed is monitoring for spread. He warned that if data-center driven demand overheating starts to affect the wider economy it would become a problem. Proposals by newly elected Democratic governors to pause data-center builds are not directly connected to the Fed's inflation work."
+    },
+    {
+      "id": "5211693",
+      "time": "2026-11-13 02:56:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【胡塞武裝稱對沙特阿美石油公司實施打擊】當地時間12日晚間，葉門胡塞武裝發表宣告稱，剛剛使用無人機打擊了位於沙特首都利雅得的沙特阿美石油公司，並稱此次行動成功實現目標。（央視新聞）"
+    },
     {
       "id": "5211692",
       "time": "2026-11-13 02:55:29",
