@@ -1,7 +1,149 @@
 {
   "date": "2026-11-12",
-  "count": 1053,
+  "count": 1068,
   "items": [
+    {
+      "id": "mkt:01a1cf77-cd56-7bbc-abae-45c6321c03de",
+      "time": "2026-11-12 19:14:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Lithuanian president said discussions on Europe’s future security architecture should include the EU."
+    },
+    {
+      "id": "5210819",
+      "time": "2026-11-12 19:14:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "立陶宛總統：關於歐洲未來安全架構的討論應在歐盟的參與下進行。"
+    },
+    {
+      "id": "mkt:01a1cf77-772d-7bbc-abae-3c493f56d988",
+      "time": "2026-11-12 19:14:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "BOFA GLOBAL RESEARCH cut its price target on NVIDIA (NVDA.O) to $280 from $350."
+    },
+    {
+      "id": "5210818",
+      "time": "2026-11-12 19:14:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國銀行全球研究將英偉達目標價從350美元下調至280美元。"
+    },
+    {
+      "id": "5210817",
+      "time": "2026-11-12 19:14:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【駿成科技：簽署補充協議，擬收購江蘇新通達44.5312%股份】駿成科技此前披露擬以現金方式收購江蘇新通達股份，交易預計構成重大資產重組暨關聯交易。本次公告披露，公司及交易各方簽署《之補充協議》，擬收購標的調整為徐鎖璋持有的232.03萬股、徐藝萌持有的1771.88萬股，合計2003.91萬股，佔江蘇新通達截至補充協議簽署日總股本的44.5312%。公司同意於補充協議簽署之日起3個工作日內支付排他意向金人民幣900萬元，該款於交割先決條件全部滿足或被公司書面豁免之日的次日衝抵交易價款；交易終止或原協議解除時，交易對方應全額退還。交易仍處於籌劃階段，盡職調查、審計、評估尚未最終完成，正式協議尚未簽署，且仍需履行決策、審批程式。"
+    },
+    {
+      "id": "mkt:01a1cf76-e932-7bbc-abae-3253f385a832",
+      "time": "2026-11-12 19:13:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to reports, a Belarusian citizen was injured in a drone attack in Russia's Bryansk region."
+    },
+    {
+      "id": "5210816",
+      "time": "2026-11-12 19:13:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【領益智造：擬向立敏達增資8.16億元，持股比例升至51%】領益智造公告，公司此前以8.75億元現金收購立敏達35%股權，並取得立敏達控制權。近日，公司與立敏達及其他股東簽訂增資協議，擬以現金增資人民幣8.16億元，認繳新增註冊資本436.56萬元，其中8.12億元計入資本公積；其他股東放棄優先認繳權。增資完成後，公司持有立敏達51%股份，立敏達仍為合併報表範圍內的控股子公司。"
+    },
+    {
+      "id": "mkt:01a1cf76-6488-7bbc-abae-295f87b6abea",
+      "time": "2026-11-12 19:13:24",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "BofA Global Research cuts Intel (INTC.O) target price to $80 from $100."
+    },
+    {
+      "id": "5210815",
+      "time": "2026-11-12 19:13:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行全球研究將英特爾的目標價從100美元下調至80美元。"
+    },
+    {
+      "id": "mkt:01a1cf76-150b-7bbc-abae-26e3d6ed2eb0",
+      "time": "2026-11-12 19:13:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "EVERCORE ISI downgraded NVIDIA (NVDA.O) to In-line from Outperform and cut its PT to $186 from $465."
+    },
+    {
+      "id": "5210814",
+      "time": "2026-11-12 19:12:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨：我預計俄羅斯總統普京會同意歐洲人應在烏克蘭談判中佔有一席之地。俄羅斯願意參與談判，這一點很重要。"
+    },
+    {
+      "id": "mkt:01a1cf75-32bb-7bbc-abae-1e9676e051bd",
+      "time": "2026-11-12 19:12:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "German Chancellor Merz said he expects Russian President Putin will agree that Europeans should have a seat at the table in negotiations over Ukraine."
+    },
+    {
+      "id": "5210813",
+      "time": "2026-11-12 19:11:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中工國際：烏克蘭拉德仁生物質發電廠EPC專案尚未生效 合同生效前對公司經營成果不會產生影響】有投資者在互動平臺向中工國際提問，2020年公司公告烏克蘭拉德仁生物質發電廠EPC專案，合同金額6510萬歐元。請問該專案當前合同是否終止？專案相關資產減值計提金額、應收賬款情況如何？同時想諮詢公司在俄羅斯歷史上承接過哪些工程專案，目前相關專案的執行、資產及回款情況？中工國際回覆稱，烏克蘭拉德仁生物質發電廠EPC專案尚未生效，合同生效前對公司經營成果不會產生影響。公司將密切關注國際形勢變化，緊跟國家“一帶一路”倡議步伐，依託自身的業務優勢和國際化經營經驗，加大市場開發力度，尋找符合公司戰略方向的相關業務機會，並將嚴格按照監管要求及時履行資訊披露義務。"
+    },
+    {
+      "id": "mkt:01a1cf74-fba5-7bbc-abae-131c6b24f204",
+      "time": "2026-11-12 19:11:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chancellor Merz said Russia's willingness to participate in talks is important."
+    },
+    {
+      "id": "5210812",
+      "time": "2026-11-12 19:11:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國支援小微企業融資協調工作機制培訓會在廣西南寧舉辦】11月10日，國家發展改革委財政金融和信用建設司、金融監管總局普惠金融司在廣西壯族自治區南寧市召開全國支援小微企業融資協調工作機制培訓會，總結交流工作機制成效，並就下一步推動小微企業金融服務實現穩投放、優結構、提質量、可持續作出安排部署。會議指出，小微企業是國民經濟和社會發展的重要組成部分，做好小微企業金融服務是踐行金融工作政治性、人民性的重要體現。工作機制執行兩年來，各地專班廣泛走訪企業經營主體，推動完善跨部門“聯合會診”機制，持續加大對服務業等重點領域的投入力度，小微企業融資難、融資貴等問題得到緩解。會議要求，各地專班要樹立和踐行正確政績觀，持續發揮好支援小微企業融資協調工作機制作用，積極拓展融資對接渠道，著力深化信用資訊共享機制，不斷提升小微企業金融服務的獲得感和滿意度。"
+    },
     {
       "id": "5210811",
       "time": "2026-11-12 19:11:17",
