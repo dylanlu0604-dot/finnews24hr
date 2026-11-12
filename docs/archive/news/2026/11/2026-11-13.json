@@ -1,7 +1,152 @@
 {
   "date": "2026-11-13",
-  "count": 264,
+  "count": 279,
   "items": [
+    {
+      "id": "5211704",
+      "time": "2026-11-13 03:03:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社：伊朗南部錫裡克遭到襲擊。"
+    },
+    {
+      "id": "5211703",
+      "time": "2026-11-13 03:02:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿根廷國家統計與人口普查研究所（INDEC）資料顯示，該國 10 月消費者物價較上月上漲 2.2%。"
+    },
+    {
+      "id": "5211702",
+      "time": "2026-11-13 03:02:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲3%，現報95.56美元/桶。"
+    },
+    {
+      "id": "5211701",
+      "time": "2026-11-13 03:01:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷國家統計與人口普查研究所（INDEC）資料顯示，該國 10 月滾動 12 個月通脹率為 33.1%。"
+    },
+    {
+      "id": "5211700",
+      "time": "2026-11-13 03:01:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元夜盤收盤報6.6745，較上一交易日上漲4點。"
+    },
+    {
+      "id": "mkt:01a1d123-2693-7bbc-abbe-9e4761128a07",
+      "time": "2026-11-13 03:01:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury: U.S. October budget deficit $404.0 bln; October 2025 deficit $284.0 bln."
+    },
+    {
+      "id": "mkt:01a1d122-ba8a-7bbc-abbe-929059ec7a7d",
+      "time": "2026-11-13 03:01:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury: October budget outlays $773 bln vs $689 bln in Oct 2025; receipts $369 bln vs $404 bln in Oct 2025."
+    },
+    {
+      "id": "5211699",
+      "time": "2026-11-13 03:01:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國10月預算支出7730億美元，2025年10月為6890億美元；預算收入3690億美元，2025年10月為4040億美元。"
+    },
+    {
+      "id": "mkt:01a1d122-6e23-7bbc-abbe-89f21802cf0b",
+      "time": "2026-11-13 03:00:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury said net customs receipts were $19.22 bln in October and $31.35 bln in October 2025."
+    },
+    {
+      "id": "5211698",
+      "time": "2026-11-13 03:00:42",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部官員：美國10月預算赤字和支出均創當月歷史新高。"
+    },
+    {
+      "id": "mkt:01a1d122-1803-7bbc-abbe-8081c11573ea",
+      "time": "2026-11-13 03:00:34",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "U.S. Treasury: October budget deficit and outlays hit monthly records."
+    },
+    {
+      "id": "5211697",
+      "time": "2026-11-13 03:00:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國10月海關淨收入為192.2億美元，2025年10月為313.5億美元。"
+    },
+    {
+      "id": "mkt:01a1d121-c5f6-7bbc-abbe-7c35955aa04d",
+      "time": "2026-11-13 03:00:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. government budget deficit widened to $404 billion in October, versus a $27 billion deficit previously."
+    },
+    {
+      "id": "5211696",
+      "time": "2026-11-13 03:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.29%，報23901.00點，低水107.55點。"
+    },
+    {
+      "id": "mkt:01a1d121-912c-7bbc-abbe-7006a1e1b560",
+      "time": "2026-11-13 03:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Government Budget (Oct) | actual -404000000000B | previous -27000000000B"
+    },
     {
       "id": "5211695",
       "time": "2026-11-13 02:58:23",
