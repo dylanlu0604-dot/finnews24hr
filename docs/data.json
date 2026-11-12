@@ -1,7 +1,211 @@
 {
-  "updated": "2026-11-12 20:02:25",
-  "count": 9770,
+  "updated": "2026-11-12 20:06:24",
+  "count": 9790,
   "items": [
+    {
+      "id": "5210931",
+      "time": "2026-11-12 20:05:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今日特朗普行程】\n11月12日21:00（北京時間，下同）：在白宮安排行政時間，閉門進行。\n11月12日22:00：在白宮，本地媒體池記者集合待命。\n11月12日23:30：在白宮參加政策會議，閉門進行。\n11月13日00:00：在白宮聽取情報簡報，閉門進行。\n11月13日01:30：在白宮橢圓形辦公室參加預錄電臺採訪，閉門進行。\n11月13日02:30：在白宮羅斯福廳參加預錄採訪，閉門進行。\n11月13日04:00：在白宮橢圓形辦公室參加政策會議，閉門進行。\n11月13日05:00：在白宮橢圓形辦公室參加政策會議，閉門進行。"
+    },
+    {
+      "id": "5210930",
+      "time": "2026-11-12 20:05:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "德意志銀行將沃爾瑪目標價從136美元上調至147美元。"
+    },
+    {
+      "id": "5210929",
+      "time": "2026-11-12 20:05:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【英偉達美股盤前跌超8%】英偉達美股盤前跌超8%，現報159.786美元。"
+    },
+    {
+      "id": "mkt:01a1cfa5-b512-7bbc-abaf-c90a0e5e21f2",
+      "time": "2026-11-12 20:05:05",
+      "tags": [
+        "MKT News",
+        "RDDT.N",
+        "Impact bearish"
+      ],
+      "text": "ARGUS RESEARCH lowers PT on Reddit (RDDT.N) to $150 from $225."
+    },
+    {
+      "id": "5210928",
+      "time": "2026-11-12 20:05:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華特達因：控股股東增持股份觸及1%整數倍】華特達因公告稱，公司控股股東華特集團於2026年11月5日-11月12日透過集中競價交易方式增持公司股份176.21萬股，佔公司總股本的0.7520%。本次權益變動後，華特集團合計持有公司股份5451.13萬股，佔總股本比例由22.5105%增至23.2625%，觸及1%整數倍。截至目前，華特集團已累計增持296.70萬股，佔總股本1.2662%，本次增持為履行此前披露的增持計劃，該計劃尚未實施完畢，不會導致公司控股股東及實控人變更。"
+    },
+    {
+      "id": "5210927",
+      "time": "2026-11-12 20:04:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普表示，墨西哥必須立即阻止移民大篷車。"
+    },
+    {
+      "id": "mkt:01a1cfa5-5a76-7bbc-abaf-c4392cf693bb",
+      "time": "2026-11-12 20:04:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said Ukraine is seeking detailed information from the US on restrictions attached to the Starshield system."
+    },
+    {
+      "id": "5210926",
+      "time": "2026-11-12 20:04:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普威脅就移民大篷車問題將墨西哥關稅提高一倍。"
+    },
+    {
+      "id": "5210925",
+      "time": "2026-11-12 20:04:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱烏克蘭正試圖從美國獲取星盾限制的詳細資訊。"
+    },
+    {
+      "id": "mkt:01a1cfa4-9de8-7bbc-abaf-be2ea9f53923",
+      "time": "2026-11-12 20:03:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin spokesman PESKOV says Russian President Putin's meeting with a US special envoy is about to begin."
+    },
+    {
+      "id": "5210924",
+      "time": "2026-11-12 20:03:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：俄羅斯意圖繼續打擊能源基礎設施。烏克蘭需要更多防空攔截彈。俄羅斯計劃增加噴氣式無人機產量。"
+    },
+    {
+      "id": "mkt:01a1cfa4-6e41-7bbc-abaf-b15bc709699a",
+      "time": "2026-11-12 20:03:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Finland's government has imposed restrictions on entry by Russian athletes."
+    },
+    {
+      "id": "mkt:01a1cfa4-60c8-7bbc-abaf-ace18054a1da",
+      "time": "2026-11-12 20:03:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin spokesman Peskov said President Putin will hold a security meeting today."
+    },
+    {
+      "id": "5210923",
+      "time": "2026-11-12 20:03:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "Moderna計劃2027年現金成本約為40億美元。"
+    },
+    {
+      "id": "5210922",
+      "time": "2026-11-12 20:03:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萃華退：公司股票將於2026年11月13日被摘牌】萃華退公告，公司股票已被深圳證券交易所決定終止上市，於2026年10月23日進入退市整理期，在退市整理期交易十五個交易日，最後交易日期為2026年11月12日，將於2026年11月13日被摘牌。終止上市決定日期為2026年10月15日。公司已聘請太平洋證券股份有限公司擔任主辦券商，確保公司股份在摘牌後45個交易日內可以進入全國股轉公司管理的退市板塊掛牌轉讓。"
+    },
+    {
+      "id": "5210921",
+      "time": "2026-11-12 20:03:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：星盾專案再次出現問題。"
+    },
+    {
+      "id": "mkt:01a1cfa4-0d85-7bbc-abaf-a4532a78d276",
+      "time": "2026-11-12 20:03:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said Ukraine needs special support from the EU to develop a winter resilience plan."
+    },
+    {
+      "id": "5210920",
+      "time": "2026-11-12 20:03:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "佩斯科夫：俄羅斯總統普京今日將召開安全委員會會議。"
+    },
+    {
+      "id": "mkt:01a1cfa3-f20d-7bbc-abaf-9bb911e8e016",
+      "time": "2026-11-12 20:03:10",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) shares rose 2% in premarket trading after William Blair upgraded the stock to Outperform."
+    },
+    {
+      "id": "mkt:01a1cfa3-54f5-7bbc-abaf-953d2df76acc",
+      "time": "2026-11-12 20:02:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China: 26 new funds open subscriptions in week to Nov 15; FOF share jumps】Week Nov 9-15, 2026 — 26 new funds opened subscriptions in China. Sponsor-initiated funds: 9 (34.62%), up 2.8 percentage points week-on-week. FOFs: 5 launches (19.23%), count +66.67% WoW and share +12.41 percentage points. Mixed funds: 8 launches, of which 7 were equity-biased mixed funds (87.5%). Bond funds: 4 launches — three hybrid bond (secondary-category) funds and one medium-to-long-term pure bond fund."
+    },
+    {
+      "id": "5210919",
+      "time": "2026-11-12 20:02:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "京東完成對德國電子產品零售商Ceconomy的自願公開收購要約。"
+    },
+    {
+      "id": "mkt:01a1cfa3-4348-7bbc-abaf-8ff5971f7c3e",
+      "time": "2026-11-12 20:02:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) said it signed a long-term agreement to advance clean manufacturing across its data-center supply chain."
+    },
+    {
+      "id": "5210918",
+      "time": "2026-11-12 20:02:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "超威半導體盤前股價上漲2%；威廉布萊爾將其評級上調至跑贏大盤。"
+    },
+    {
+      "id": "mkt:01a1cfa3-1ec0-7bbc-abaf-87b776d565a9",
+      "time": "2026-11-12 20:02:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said the country needs energy support to get through the winter."
+    },
     {
       "id": "mkt:01a1cfa2-dae6-7bbc-abaf-7a6849a04571",
       "time": "2026-11-12 20:01:58",
@@ -88943,48 +89147,6 @@
         "英國央行"
       ],
       "text": "英國央行Mann投反對票，主張加息50個基點至4.25%。"
-    },
-    {
-      "id": "te:economy:598620",
-      "time": "2026-11-05 20:05:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Consumer Confidence",
-        "Importance 2"
-      ],
-      "text": "Mexico Consumer Confidence Edges Down in October — Mexico’s consumer confidence fell 0.1 point to 45.0 in October 2026 from September, remaining negative. The decline was mild, as two of the five components improved. Expectations for households’ economic situation over the next 12 months rose 0.5 point to 58.2, while households’ willingness to purchase durable goods, such as furniture and appliances, edged up 0.3 point to 32.4. In contrast, households’ assessment of their current economic situation slipped 0.1 point to 51.8. Assessments of the country’s current economic situation declined 0.5 point to 38.5, and expectations for the country’s economic outlook over the next 12 months also fell 0.5 point to 44.3. Year over year, consumer confidence declined 0.6 point."
-    },
-    {
-      "id": "em:qqyh_ygyh:202611053923697754",
-      "time": "2026-11-05 20:05:00",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "交易員加大了對英國央行加息的押注，認為12月加息的可能性為35%。"
-    },
-    {
-      "id": "em:qqyh_ygyh:202611053923696757",
-      "time": "2026-11-05 20:03:29",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "【英國央行上調GDP增長預測 預計2026年為1.6%】英國央行上調GDP增長預測，預計2026年為1.6%，2027年為1.3%，2028年為1.2%；7月時預測，2026年為1.1%，2027年為1.1%，2028年為1.7%。"
-    },
-    {
-      "id": "te:economy:598618",
-      "time": "2026-11-05 20:03:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Interest Rate",
-        "Importance 3"
-      ],
-      "text": "BoE Raises Rates for 1st Time Since 2023 — The Bank of England voted by a majority of 8-1 to raise the key bank rate by 25bps to 4% in November 2026, in line with expectations. It is the first increase in borrowing costs since August 2023, with one policymaker, Catherine Mann, voting for a hike of 0.5 percentage points to 4.25%. UK inflation is now expected to rise to around 5% by the middle of next year from the current 3.5%. It is then projected to fall as the impact of rising energy prices fades, and still restrictive monetary policy bears down on inflation. In addition, activity data in recent months have generally been stronger than expected, adding to the case for modestly tighter monetary policy. Policymakers added that monetary policy is not on a pre-set path and the Committee will continue to assess the evidence at each meeting and will adjust Bank Rate as necessary to ensure CPI inflation returns to the 2% target in the medium term."
     }
   ]
 }
