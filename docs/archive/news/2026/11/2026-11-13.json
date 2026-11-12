@@ -1,7 +1,35 @@
 {
   "date": "2026-11-13",
-  "count": 332,
+  "count": 335,
   "items": [
+    {
+      "id": "te:markets:600861",
+      "time": "2026-11-13 03:58:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Fall on Nvidia Crisis — US stock indices moved lower on Thursday as Nvidia’s leadership crisis curbed risk appetite and an oil price rally lifted Treasury yields. The S&P 500 and the Nasdaq each edged about 0.3% lower, while the Dow shed over 50 points. Nvidia tumbled 6% following the ouster of CEO Huang. The US is investigating Alice Huang, whom officials suspect may be a spy, over whether entities linked to her were involved in efforts to smuggle products to China. The chip sector was mixed, Micron fell nearly 2.5% and Intel lost over 1%, while Broadcom and AMD gained over 5% each. Rising oil prices also weighed on sentiment, reviving energy inflation concerns. Bond yields climbed on expectations that the Federal Reserve will step up the pace of rate hikes to cool inflation, leaving credit-sensitive stocks mostly lower. Meanwhile, Alphabet rose over 2% on its investment in TPU production."
+    },
+    {
+      "id": "5211737",
+      "time": "2026-11-13 03:58:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Truist證券將英偉達評級下調 目標價腰斬】Truist Securities分析師William Stein將英偉達評級從“買入”下調至“持有”。目標價從346美元降至174美元。"
+    },
+    {
+      "id": "5211736",
+      "time": "2026-11-13 03:57:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟稱將繼續參與烏克蘭和平談判】歐洲理事會主席科斯塔和歐盟委員會主席馮德萊恩12日在愛爾蘭首都都柏林會見烏克蘭總統澤連斯基後發表聯合宣告說，歐盟已參與本週在阿聯酋首都阿布扎比舉行的和平談判，並將繼續跟進後續程序。宣告說，歐盟對在阿布扎比舉行會談以及和平程序出現的新勢頭表示歡迎，將繼續向烏克蘭提供財政和軍事援助，增強烏方談判地位。歐盟領導人將在11月26日至27日舉行的歐盟特別峰會上，討論烏克蘭2027年的緊迫融資需求，以及對俄羅斯的第22輪制裁方案。（新華社）"
+    },
     {
       "id": "mkt:01a1d154-cb58-7bbc-abbf-2bf90f1a465c",
       "time": "2026-11-13 03:55:57",
