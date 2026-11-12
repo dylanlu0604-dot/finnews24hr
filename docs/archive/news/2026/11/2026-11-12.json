@@ -1,7 +1,170 @@
 {
   "date": "2026-11-12",
-  "count": 1036,
+  "count": 1053,
   "items": [
+    {
+      "id": "5210811",
+      "time": "2026-11-12 19:11:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星徽股份：一審判決駁回六名原告全部訴訟請求】星徽股份公告，公司此前披露六名原告就損害公司債權人利益責任糾紛起訴公司及三家子公司，要求對人民幣8546.53萬元賠償款承擔連帶清償責任。本次公司收到一審民事判決書，法院判決駁回六名原告的全部訴訟請求，公司及子公司無需承擔連帶清償責任。該判決尚未生效，最終結果仍存在不確定性。"
+    },
+    {
+      "id": "mkt:01a1cf74-1bed-7bbc-abae-0d2ec3c6a33a",
+      "time": "2026-11-12 19:10:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "German Chancellor Merz says supporting Ukraine is in Germany's own interest."
+    },
+    {
+      "id": "mkt:01a1cf74-0646-7bbc-abae-03840c0c6d96",
+      "time": "2026-11-12 19:10:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "German Chancellor MERZ said he sees a likely agreement on budget negotiations before year-end."
+    },
+    {
+      "id": "5210810",
+      "time": "2026-11-12 19:10:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨：歐洲人需要參與烏克蘭問題談判。"
+    },
+    {
+      "id": "5210809",
+      "time": "2026-11-12 19:10:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國默茨：支援烏克蘭符合我們自身利益。"
+    },
+    {
+      "id": "5210808",
+      "time": "2026-11-12 19:10:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【箭牌家居實控人謝嶽榮新增股份司法凍結，全部直接持股2.08億股遭凍結】箭牌家居11月12日公告，公司實際控制人、董事長兼總經理謝嶽榮新增股份司法凍結及輪候凍結，凍結事由為其個人為西安房地產專案提供連帶責任擔保引發的仲裁糾紛，該債務不屬於上市公司債務。公告顯示，本次新增司法凍結股份6612.58萬股，佔謝嶽榮所持股份23.09%，佔公司總股本6.85%，凍結期限自2026年11月9日至2029年11月8日，執行法院為深圳市南山區人民法院；同步新增輪候凍結5222.60萬股，佔公司總股本5.41%。截至公告披露，謝嶽榮全部直接持股合計2.08億股均已被司法凍結，佔公司總股本21.54%，另有5222.60萬股處於輪候凍結狀態。"
+    },
+    {
+      "id": "5210807",
+      "time": "2026-11-12 19:10:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國默茨：支援烏克蘭是歐洲共同的責任。"
+    },
+    {
+      "id": "mkt:01a1cf73-5651-7bbc-abad-ff9a7fcdede9",
+      "time": "2026-11-12 19:10:04",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "German Chancellor Merz said there is a strong likelihood EU budget negotiations will conclude before year-end."
+    },
+    {
+      "id": "5210806",
+      "time": "2026-11-12 19:09:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天賜材料：擬以5000萬元-1億元回購公司股份】 天賜材料公告，擬以自有資金和自籌資金（含商業銀行回購專項貸款等），透過集中競價方式回購公司A股股份，回購資金總額不低於5000萬元且不超過1億元，回購價格不超過45元/股。回購股份將全部用於登出並減少公司註冊資本，實施期限為股東會審議透過方案之日起不超過12個月。本方案已獲董事會審議透過，尚需股東會審議。"
+    },
+    {
+      "id": "mkt:01a1cf73-3ce3-7bbc-abad-f23c625f31ef",
+      "time": "2026-11-12 19:09:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor MERZ said supporting Ukraine is a shared European responsibility."
+    },
+    {
+      "id": "te:markets:600727",
+      "time": "2026-11-12 19:09:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Swiss Franc Stays Weak on Diverging Rate Outlooks — The Swiss franc weakened past 0.83 per USD, close to its lowest level since May of 2025, amid rising expectations of another Fed rate hike, which would further widen the interest rate differential between the US and Switzerland. Stronger-than-expected inflation and labour report in the US lifted expectations of further Fed hikes and boosted the greenback. By contrast, Swiss borrowing costs are expected to remain at 0%, the world's lowest, supporting the franc's appeal as a funding currency for carry trades, where investors pursue higher-yielding assets abroad. While the SNB has dialled down its threat of currency interventions, officials reiterated to lawmakers on Wednesday they stand ready to intervene if necessary to counter sharp appreciation. Nevertheless, the franc's renewed safe-haven status amid worries over a eurozone sovereign debt crisis and risks regarding AI erodes carry trade returns and is prompting an unwinding of these positions, adding upward pressure on the currency."
+    },
+    {
+      "id": "5210805",
+      "time": "2026-11-12 19:09:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨：認為年底前結束歐盟預算談判的可能性較大。"
+    },
+    {
+      "id": "5210804",
+      "time": "2026-11-12 19:09:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國產業通商資源部當地時間今日公佈了端側AI半導體技術開發專案的路線圖，目標透過這一總額8,002億韓元的專案到2030年完成10款AI晶片的開發和驗證。"
+    },
+    {
+      "id": "mkt:01a1cf71-13a2-7bbc-abad-eec1bbdb9abe",
+      "time": "2026-11-12 19:07:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "European Commission President Von der Leyen said the EU will propose a new round of sanctions on Russia and a package of fiscal rules for Ukraine by year-end."
+    },
+    {
+      "id": "5210803",
+      "time": "2026-11-12 19:07:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【黑龍江綠色有機食品認定面積突破1億畝】 黑龍江農業農村廳副廳長朱華生在“中國經濟圓桌會”中表示，黑龍江綠色有機食品認定面積已突破1億畝。黑龍江打造“黑土優品”省級優質農業公共品牌，已授權企業237家，746款產品獲認證，年銷售額突破百億元；在全國率先整省推進定製農業，覆蓋高階大米、有機果蔬等10餘個優勢品類227個具體品種，定製基地面積達180萬畝。黑龍江省委、省政府已出臺新一輪農產品精深加工業高質量發展三年行動計劃及配套政策。（新華社）"
+    },
+    {
+      "id": "5210802",
+      "time": "2026-11-12 19:07:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：我們將在明年之前提出下一輪對俄製裁方案以及關於烏克蘭財政規則的提案。"
+    },
+    {
+      "id": "5210801",
+      "time": "2026-11-12 19:07:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天賜材料：子公司擬投資不超50億元建設年產50萬噸電解液及配套材料專案】天賜材料(002709.SZ)公告稱，公司子公司池州天賜高新材料有限公司或其子公司擬使用自籌資金投資建設“年產50萬噸電解液及配套材料專案”，專案建設週期24個月，總投資不超過50億元。專案主要產品包括鋰離子電池電解液40萬噸、鈉離子電池電解液10萬噸、液體六氟磷酸鋰30萬噸等。"
+    },
     {
       "id": "mkt:01a1cf70-3d1f-7bbc-abad-e3d8e96c653e",
       "time": "2026-11-12 19:06:41",
