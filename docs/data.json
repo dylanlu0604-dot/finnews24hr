@@ -1,7 +1,56 @@
 {
-  "updated": "2026-11-13 03:34:05",
-  "count": 9820,
+  "updated": "2026-11-13 03:37:48",
+  "count": 9824,
   "items": [
+    {
+      "id": "te:markets:600859",
+      "time": "2026-11-13 03:35:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Zambia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Zambia 10Y Bond Yield Hits 14-year Low — Zambia 10 Year Government Bond Yield decreased to 14.74%, the lowest since October 2012. Over the past 4 weeks, Zambia Government Bond 10y lost 2.00 basis points, and in the last 12 months, it decreased 346.00 basis points."
+    },
+    {
+      "id": "5211725",
+      "time": "2026-11-13 03:35:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普連續發帖痛斥民主黨“腐敗”】美國總統特朗普12日在社交媒體連續發帖痛斥民主黨，稱其“腐敗且邪惡”，呼籲共和黨人“奮力抗爭”。特朗普在帖文點名加利福尼亞州、明尼蘇達州和伊利諾伊州等多個民主黨主政的“藍州”，稱這些地方管理不善、腐敗嚴重，每個月都有鉅額資金“被盜”。特朗普說：“腐敗已經滲入民主黨領導層的血液。”他表示，已要求副總統萬斯把全部精力集中於調查民主黨主政地區“正在發生的大規模腐敗與犯罪問題”。特朗普還說，民主黨由一群在美國曆史乃至世界歷史上“最腐敗、最反美”的政客所領導，他們反覆宣稱現任政府存在腐敗問題，竭力轉移公眾對“藍州”腐敗問題的關注。眼下，民主黨又用虛假指控“非法威脅共和黨人”。特朗普說：“除了作弊之外，這就是他們贏得中期選舉的手段。”（新華社）"
+    },
+    {
+      "id": "mkt:01a1d141-6ba7-7bbc-abbf-0df00903a096",
+      "time": "2026-11-13 03:34:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "SMCI.O"
+      ],
+      "text": "【DOJ probes NVIDIA, including antitrust issues】Semafor, citing two U.S. government officials, reports the U.S. Department of Justice is pursuing multiple investigations that may touch NVIDIA (NVDA.O); one probe directly targets NVIDIA and concerns antitrust issues, while another involves Super Micro Computer (SMCI.O). The report says the probes continued after Jensen Huang's resignation but found no sign the DOJ plans criminal charges against NVIDIA or Huang. Super Micro said it is fully cooperating with U.S. and Taiwan authorities, has proactively provided information to Singapore, and maintains a comprehensive compliance framework."
+    },
+    {
+      "id": "mkt:01a1d141-5b0c-7bbc-abbf-01b099420480",
+      "time": "2026-11-13 03:34:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "Microsoft (MSFT.O) said the higher load was not caused by increased traffic but by multiple servers unexpectedly becoming unavailable."
+    },
     {
       "id": "5211724",
       "time": "2026-11-13 03:33:14",
