@@ -1,7 +1,47 @@
 {
   "date": "2026-11-13",
-  "count": 309,
+  "count": 313,
   "items": [
+    {
+      "id": "5211724",
+      "time": "2026-11-13 03:33:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟就服務中斷表示：負載升高並非由流量增加所致，而是由大量伺服器意外不可用造成。"
+    },
+    {
+      "id": "mkt:01a1d13f-4be1-7bbc-abbe-fbf228f1183c",
+      "time": "2026-11-13 03:32:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi-led coalition said it intercepted and destroyed a drone in the eastern region."
+    },
+    {
+      "id": "5211723",
+      "time": "2026-11-13 03:31:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 12月原油期貨收報88.74美元/桶。NYMEX 12月天然氣期貨收報3.34美元/百萬英熱單位。NYMEX 12月汽油期貨收報2.6708美元/加侖，NYMEX 12月取暖油期貨收報4.2865美元/加侖。"
+    },
+    {
+      "id": "mkt:01a1d13e-1787-7bbc-abbe-f6cc8d6f232c",
+      "time": "2026-11-13 03:31:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures settled at $88.74/bbl, up $2.21 or 2.55%."
+    },
     {
       "id": "mkt:01a1d13c-8ab7-7bbc-abbe-eebec5254194",
       "time": "2026-11-13 03:29:28",

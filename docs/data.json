@@ -1,7 +1,47 @@
 {
-  "updated": "2026-11-13 03:30:18",
-  "count": 9819,
+  "updated": "2026-11-13 03:34:05",
+  "count": 9820,
   "items": [
+    {
+      "id": "5211724",
+      "time": "2026-11-13 03:33:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟就服務中斷表示：負載升高並非由流量增加所致，而是由大量伺服器意外不可用造成。"
+    },
+    {
+      "id": "mkt:01a1d13f-4be1-7bbc-abbe-fbf228f1183c",
+      "time": "2026-11-13 03:32:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi-led coalition said it intercepted and destroyed a drone in the eastern region."
+    },
+    {
+      "id": "5211723",
+      "time": "2026-11-13 03:31:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 12月原油期貨收報88.74美元/桶。NYMEX 12月天然氣期貨收報3.34美元/百萬英熱單位。NYMEX 12月汽油期貨收報2.6708美元/加侖，NYMEX 12月取暖油期貨收報4.2865美元/加侖。"
+    },
+    {
+      "id": "mkt:01a1d13e-1787-7bbc-abbe-f6cc8d6f232c",
+      "time": "2026-11-13 03:31:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures settled at $88.74/bbl, up $2.21 or 2.55%."
+    },
     {
       "id": "mkt:01a1d13c-8ab7-7bbc-abbe-eebec5254194",
       "time": "2026-11-13 03:29:28",
@@ -89502,34 +89542,6 @@
         "國際"
       ],
       "text": "【梅拉尼婭稱俄烏奧列什基停火期間撤離近800名居民】美國總統特朗普的夫人梅拉尼婭5日在白宮稱，俄羅斯和烏克蘭在奧列什基停火期間安全撤離了近800名當地居民，並表示希望此次停火能促進合作，以實現持久和平。 梅拉尼婭5日在白宮會見俄烏官員時表示，奧列什基實現停火離不開俄烏兩國總統的努力，“他們的合作為推動整個地區的和平樹立了意義深遠的先例”，希望能創造比臨時停火更持久的和平。 俄羅斯總統特別代表基里爾·德米特里耶夫、烏克蘭執政黨人民公僕黨議會黨團主席達維德·阿拉哈米亞和烏最高拉達（議會）人權事務專員德米特羅·盧比涅茨出席了活動。 奧列什基位於第聶伯河東岸，與烏軍控制的赫爾松市隔河相望。俄羅斯在2022年2月24日對烏克蘭發起特別軍事行動當天控制該市。今年10月23日，美國白宮發表宣告說，梅拉尼婭促成俄烏同意在奧列什基區域性停火。俄烏於10月27日開始在奧列什基區域性停火，以便人道主義物資進入，並安排平民透過指定安全通道撤離。11月1日，俄方宣佈奧列什基人道主義行動區的停火已結束。(新華社)"
-    },
-    {
-      "id": "5197344",
-      "time": "2026-11-06 03:32:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲4%，現報98.41美元/桶。"
-    },
-    {
-      "id": "te:markets:598808",
-      "time": "2026-11-06 03:32:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Mexico",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Mexican Peso Retreats as Banxico Eases Monetary Policy — The Mexican peso weakened to around 18.8 per US dollar after Banxico lowered its benchmark interest rate by 25 bps to 6.25% at its November 2026 meeting, defying market expectations for a hold. The central bank noted that the disinflation process had continued and judged that prevailing economic slack would limit the pass-through of exchange rate movements to consumer prices. It also indicated that keeping rates at the new level for an extended period would support inflation convergence towards its target while helping address external macroeconomic challenges. The narrower interest rate differential between Banxico and the US Federal Reserve reduces the attractiveness of peso-denominated carry trades, weighing on the currency. The peso also surrendered some of its gains following the Democratic Party's victory in the US midterm elections, as markets viewed the outcome as a potential constraint on the Trump administration's ability to maintain elevated tariffs on foreign trade."
-    },
-    {
-      "id": "5197343",
-      "time": "2026-11-06 03:31:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 12月原油期貨收報90.52美元/桶，脫離10月7日以來最低收盤位88.12美元，亞太午盤以來持續走高，逼近50日均線（暫報92.01美元）。NYMEX 12月天然氣期貨收報2.9470美元/百萬英熱單位。NYMEX 12月汽油期貨收報2.7634美元/加侖，NYMEX 12月取暖油期貨收報4.3519美元/加侖。"
     }
   ]
 }
