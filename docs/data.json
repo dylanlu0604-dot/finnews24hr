@@ -1,7 +1,132 @@
 {
-  "updated": "2026-11-12 19:15:53",
-  "count": 9634,
+  "updated": "2026-11-12 19:19:46",
+  "count": 9648,
   "items": [
+    {
+      "id": "5210830",
+      "time": "2026-11-12 19:18:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "塞爾維亞央行因國內外風險上調關鍵利率。"
+    },
+    {
+      "id": "5210829",
+      "time": "2026-11-12 19:18:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "核鑽石電池子公司Atomiq與Curio簽署戰略諒解備忘錄，推進核電池用放射性同位素國內供應。"
+    },
+    {
+      "id": "5210828",
+      "time": "2026-11-12 19:18:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聖湘生物：人類OTX1/MTHFD2/FAR1基因甲基化檢測試劑盒獲醫療器械註冊證】聖湘生物公告，公司人類OTX1/MTHFD2/FAR1基因甲基化檢測試劑盒（PCR-熒光探針法）近日取得國家藥品監督管理局頒發的醫療器械註冊證，註冊類別為境內第三類體外診斷試劑，有效期至2031年11月9日。該產品用於體外定性檢測人外周血血漿中OTX1、MTHFD2、FAR1基因的甲基化狀態，為原發性肝細胞癌高危人群的輔助診斷提供分子層面的參考依據。產品銷售及利潤貢獻受市場拓展力度、品牌綜合影響力及市場實際需求等因素影響，具有不確定性。"
+    },
+    {
+      "id": "5210827",
+      "time": "2026-11-12 19:18:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名伊朗男子在英國被判協助伊朗情報部門有罪。"
+    },
+    {
+      "id": "5210826",
+      "time": "2026-11-12 19:18:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江豐電子遞表港交所】據港交所檔案，11月12日，寧波江豐電子材料股份有限公司向港交所提交上市申請書，獨家保薦人為招商證券（香港）有限公司。"
+    },
+    {
+      "id": "5210825",
+      "time": "2026-11-12 19:17:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：安全保障是歐洲、美國和加拿大的任務。"
+    },
+    {
+      "id": "5210824",
+      "time": "2026-11-12 19:17:04",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "塞爾維亞央行意外將關鍵利率上調至6%。"
+    },
+    {
+      "id": "mkt:01a1cf79-9ea8-7bbc-abae-5a60a4f79686",
+      "time": "2026-11-12 19:16:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "National Bank of Serbia raised its key policy rate by 25bps to 6.00%; market expectation remained at 5.75%."
+    },
+    {
+      "id": "5210823",
+      "time": "2026-11-12 19:16:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西農業部：預計10月下半月巴西南部中心地區乙醇產量為16.8億升，同比下降13.3%。"
+    },
+    {
+      "id": "mkt:01a1cf79-33a6-7bbc-abae-54184c566e51",
+      "time": "2026-11-12 19:16:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "REUTERS SURVEY: All 71 economists surveyed expect the ECB to raise the deposit facility rate to 2.75% in December; in October’s survey 64 of 73 economists held that view. Of the 71 respondents, 46 expect the terminal deposit rate at 2.75% and 25 at 3.00%."
+    },
+    {
+      "id": "mkt:01a1cf78-b0b8-7bbc-abae-4fce65b445ed",
+      "time": "2026-11-12 19:15:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Per bond issuance documents, Alphabet (GOOG.O) has initiated a four-part Singapore dollar bond offering sized SGD 2.28 bln and a three-part Hong Kong dollar bond offering sized HKD 16.0 bln."
+    },
+    {
+      "id": "5210822",
+      "time": "2026-11-12 19:15:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "條款說明書顯示，ALPHABET推出160億港元的三部分港元債券發行。"
+    },
+    {
+      "id": "5210821",
+      "time": "2026-11-12 19:15:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "條款說明書顯示，ALPHABET 推出 22.8 億新元的四部分新加坡元債券發行。"
+    },
+    {
+      "id": "5210820",
+      "time": "2026-11-12 19:15:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "比利時聯合銀行（KBC）執行長：鑑於資料中心貸款存在潛在風險，我們對其幾乎沒有敞口，也不打算為任何此類債務提供承銷服務。"
+    },
     {
       "id": "mkt:01a1cf77-cd56-7bbc-abae-45c6321c03de",
       "time": "2026-11-12 19:14:57",
