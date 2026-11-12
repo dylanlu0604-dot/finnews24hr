@@ -1,7 +1,1033 @@
 {
   "date": "2026-11-12",
-  "count": 1320,
+  "count": 1426,
   "items": [
+    {
+      "id": "5211501",
+      "time": "2026-11-12 23:59:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行副行長武伊契奇：利率走向保持不變。"
+    },
+    {
+      "id": "5211500",
+      "time": "2026-11-12 23:58:58",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "眾議院外交委員會主席表示，黃仁勳已同意向國會作證。"
+    },
+    {
+      "id": "5211499",
+      "time": "2026-11-12 23:58:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "梅賽德斯-賓士生產主管：由於成本過高，在德國的進一步投資已暫停。"
+    },
+    {
+      "id": "5211498",
+      "time": "2026-11-12 23:58:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數和納斯達克100指數轉漲。"
+    },
+    {
+      "id": "5211497",
+      "time": "2026-11-12 23:57:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "克羅埃西亞央行行長武伊契奇：價格壓力可能仍會滯後顯現。"
+    },
+    {
+      "id": "5211496",
+      "time": "2026-11-12 23:57:06",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "黃仁勳已同意向議員作證。"
+    },
+    {
+      "id": "5211495",
+      "time": "2026-11-12 23:56:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超聚變創業板IPO過會】11月12日，深圳證券交易所上市稽核委員會召開2026年第61次審議會議。會議結果顯示，超聚變數字技術股份有限公司（簡稱“超聚變”）首發事項符合發行條件、上市條件和資訊披露要求。據悉，公司此次IPO募集資金重點投向新一代算力產品研發與關鍵核心技術攻關。超聚變成立於2021年，總部位於河南自貿試驗區鄭州片區，是一家算力基礎設施與數智化服務提供商。招股說明書（上會稿）顯示，其定位於企業在AI和資料時代的水平全棧解決方案提供者，在提供算力業務的同時，探索智企生態業務、能源智慧解決方案等新興業務領域。目前公司已穩居國內算力基礎設施第一梯隊。(上海證券報)"
+    },
+    {
+      "id": "5211494",
+      "time": "2026-11-12 23:55:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：我擔心我們正在風險偏好升溫的環境下放鬆監管。"
+    },
+    {
+      "id": "5211493",
+      "time": "2026-11-12 23:55:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "金融市場研究機構VANDA：在交易的前半小時，散戶投資者淨買入價值1.11億美元的英偉達股票，創下該股票開盤競價的最高紀錄。"
+    },
+    {
+      "id": "5211492",
+      "time": "2026-11-12 23:53:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：美國航空一航班報告起落架可能存在故障。"
+    },
+    {
+      "id": "5211491",
+      "time": "2026-11-12 23:53:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：美國航空航班已安全返回洛杉磯國際機場。"
+    },
+    {
+      "id": "5211490",
+      "time": "2026-11-12 23:52:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局將對美國航空公司一架據稱出現起落架故障的航班展開調查。"
+    },
+    {
+      "id": "5211489",
+      "time": "2026-11-12 23:51:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使威特科夫表示，在與普京會面後，雙方已商定舉行新一輪會談。美國特使庫什納稱，與普京的會談“實質且詳細”。"
+    },
+    {
+      "id": "5211488",
+      "time": "2026-11-12 23:51:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "ICE阿拉比卡咖啡期貨上漲3%，至每磅2.7720美元。"
+    },
+    {
+      "id": "5211487",
+      "time": "2026-11-12 23:50:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西雷亞爾即期交易對美元貶值超過1%。"
+    },
+    {
+      "id": "5211486",
+      "time": "2026-11-12 23:49:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：代理式人工智慧將成為銀行面臨的一大問題，銀行需確保該AI工具按照客戶指令行事。"
+    },
+    {
+      "id": "5211485",
+      "time": "2026-11-12 23:48:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生與公眾服務部部長肯尼迪表示，該部門將透過ARPA-H承諾投入最高490萬美元，用於推進伊博格鹼治療創傷後應激障礙的研究。"
+    },
+    {
+      "id": "5211484",
+      "time": "2026-11-12 23:48:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "任天堂宣佈，自2027年1月26日起，使用者將無法再使用蘋果或谷歌賬戶登入任天堂賬戶。"
+    },
+    {
+      "id": "te:markets:600813",
+      "time": "2026-11-12 23:47:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Belgium",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Anheuser-Busch Shares Hit 7-year High — Anheuser-Busch shares increased to 76.94 EUR, the highest since October 2019. Over the past 4 weeks, Anheuser-Busch gained 8.71%, and in the last 12 months, it increased 38.01%."
+    },
+    {
+      "id": "5211483",
+      "time": "2026-11-12 23:46:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡夫亨氏執行長有信心，未來幾年公司創新佔銷售額的比例將翻一番。卡夫亨氏執行長表示，有信心在未來幾年內將創新佔銷售額的比例提高一倍。"
+    },
+    {
+      "id": "5211482",
+      "time": "2026-11-12 23:46:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "西南航空季度股息為每股18.00美分，與此前常規現金股息每股18.00美分持平。"
+    },
+    {
+      "id": "5211481",
+      "time": "2026-11-12 23:45:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "安世半導體高管探討出售多數或少數股權。"
+    },
+    {
+      "id": "5211480",
+      "time": "2026-11-12 23:45:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "安世半導體（Nexperia）管理人士表示，正在評估投資者對安世半導體的興趣。"
+    },
+    {
+      "id": "5211479",
+      "time": "2026-11-12 23:45:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指轉漲，標普跌幅不足0.2%，納指跌0.37%，納斯達克100指數跌0.38%，半導體指數跌0.95%。"
+    },
+    {
+      "id": "5211478",
+      "time": "2026-11-12 23:45:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行監管機構：銀行“高度關注”人工智慧風險管控和使用標準。"
+    },
+    {
+      "id": "5211477",
+      "time": "2026-11-12 23:45:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【費城半導體指數跌幅收窄】費城半導體指數跌幅收窄，現跌1.37%；美光科技現跌超4%，AMD漲超2%。"
+    },
+    {
+      "id": "5211476",
+      "time": "2026-11-12 23:44:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "卡夫亨氏執行長在投資者日表示，美國零售業務已開始復甦，但10年投資不足的影響意味著仍需時間。"
+    },
+    {
+      "id": "5211475",
+      "time": "2026-11-12 23:44:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國反壟斷監管機構：已向該聯盟成員傳送報告，指出可能損害競爭的行為。"
+    },
+    {
+      "id": "5211474",
+      "time": "2026-11-12 23:44:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【費城半導體指數跌幅收窄】費城半導體指數跌幅收窄，現跌1.37%；美光科技現跌超4%，AMD漲超2%。"
+    },
+    {
+      "id": "5211473",
+      "time": "2026-11-12 23:43:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘇黎世保險執行長：瑞士作為金融中心的地位正在倒退。"
+    },
+    {
+      "id": "5211472",
+      "time": "2026-11-12 23:43:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國反壟斷監管機構：已對包括Intermarché、歐尚和Casino在內的“Aura”採購聯盟進行評估。"
+    },
+    {
+      "id": "5211471",
+      "time": "2026-11-12 23:41:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴爾：目前尚未看到人工智慧對勞動力市場產生重大影響，儘管它可能是年輕工人招聘減少和部分崗位受影響的原因之一。"
+    },
+    {
+      "id": "5211470",
+      "time": "2026-11-12 23:40:27",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "D.A. Davidson將英偉達目標價從300美元下調至200美元。"
+    },
+    {
+      "id": "te:markets:600811",
+      "time": "2026-11-12 23:39:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Soars by 7% — European natural gas prices surged 7% to €92.70/MWh, driven by forecasts of colder weather, supply disruptions in Norway and persistent geopolitical tensions in the Middle East. Temperatures are expected to fall across Europe from November 17, with further cold spells possible in late November and early December, boosting heating demand. Meanwhile, Norwegian gas flows declined as outages intensified, particularly at the Troll field, where operator Gassco said the duration of the disruption remained uncertain. Supply concerns have been compounded by low storage levels: EU reserves stood below 72%, compared with a five-year seasonal average of 89%, while Germany’s stocks were below 60%. Geopolitical risks added further support after US President Donald Trump dismissed the need for a deal with Iran, while Tehran maintained a hardline stance on its enriched nuclear material."
+    },
+    {
+      "id": "5211469",
+      "time": "2026-11-12 23:37:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "沃倫要求美國聯邦貿易委員會調查那些截留關稅退款的公司。"
+    },
+    {
+      "id": "5211468",
+      "time": "2026-11-12 23:37:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾表示，美聯儲關注人工智慧相關負債及潛在衝擊。"
+    },
+    {
+      "id": "5211467",
+      "time": "2026-11-12 23:37:10",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【又一家大行下調英偉達目標價】Needham將英偉達目標價從300美元下調至200美元。"
+    },
+    {
+      "id": "5211466",
+      "time": "2026-11-12 23:37:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌6%，現報983.00美元/盎司。"
+    },
+    {
+      "id": "5211465",
+      "time": "2026-11-12 23:36:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【澤連斯基稱美俄談俄歐安全架構“有點奇怪”】烏克蘭總統澤連斯基12日在愛爾蘭首都都柏林舉行的歐洲政治共同體領導人會議上表示，烏方認為美國與俄羅斯討論建立俄歐新安全秩序的做法“有點奇怪”。他還說，烏克蘭正在尋求瞭解美國對“星盾”衛星通訊系統的限制細節，這些限制嚴重擾亂烏防空系統。澤連斯基說，根據烏方代表團反饋，日前在阿聯酋首都阿布扎比舉行的烏俄美三方會談期間，各方就安全保障問題進行了討論。他說，當美俄討論安全保障問題時，涉及的不僅是對烏克蘭的安全保障，實際上更多涉及歐洲與俄羅斯之間某種新的安全框架，“我們覺得這種做法有點奇怪”。烏方正等待了解更多細節，歐洲方面對此也應密切關注。澤連斯基表示，歐洲目前尚未直接參與有俄方代表在場的談判，但已介入相關程序，“我們需要確保歐洲能夠成為這些談判的固定參與方”。澤連斯基呼籲歐洲繼續向烏克蘭提供防空和能源支援，並出臺新的對俄製裁措施。澤連斯基還說，烏軍使用的“星盾”衛星通訊系統在烏克蘭暫時被佔領土再遭限速，影響到烏軍攔截俄羅斯噴氣式無人機的能力。烏方正向美方瞭解詳情，烏克蘭“絕不會以任何方式承認俄羅斯對烏領土的佔領”。（新華社）"
+    },
+    {
+      "id": "5211464",
+      "time": "2026-11-12 23:30:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行聯合主任毛裡西奧·維拉米扎爾表示，必須立即採取貨幣政策措施，以在2028年前實現哥倫比亞的通脹目標。"
+    },
+    {
+      "id": "te:markets:600810",
+      "time": "2026-11-12 23:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Rises by 17 bps — Government bonds yields are higher on Thursday. Top gainers are Brazil 10Y (17bps), US 10Y (8.50bps), United Kingdom 10Y (6.16bps), Germany 10Y (0.28bps) and Japan 10Y (0.17bps)."
+    },
+    {
+      "id": "5211463",
+      "time": "2026-11-12 23:30:08",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普：英偉達執行長黃仁勳表現出色，但他現已辭職，唯一能接替他的人選只有蘋果的蘋果執行董事長庫克。"
+    },
+    {
+      "id": "te:markets:600809",
+      "time": "2026-11-12 23:29:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Extends Winning Streak — The CAC 40 advanced 0.3% to close at 8,361 on Thursday, extending its winning streak to a fourth consecutive session and reaching its highest level since late August. Equities were boosted by strong corporate earnings and investor rotation away from AI-linked stocks in Asia and the US following the resignation of Nvidia's cofounder Jensen Huang as CEO amid allegations of his relations with a Chinese spy. Investors have procured defensive stocks, including European healthcare and consumer-related sectors. In the health sector, Sanofi rose 2%. Luxury shares posted gains, with LVMH up 0.6%. TotalEnergies also gained 1.5% after a sharp third-quarter cash-flow increase. In contrast, defense-related stocks declined with hopes of advancing peace negotiations in the Middle East. Airbus dropped 1.2% and Thales shed 1.3%."
+    },
+    {
+      "id": "5211461",
+      "time": "2026-11-12 23:29:37",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普表示，庫克應該取代黃仁勳擔任英偉達執行長。"
+    },
+    {
+      "id": "5211460",
+      "time": "2026-11-12 23:27:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，他與波蘭總理圖斯克討論了擴大燃料供應運輸線路的事宜。"
+    },
+    {
+      "id": "5211459",
+      "time": "2026-11-12 23:26:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我與波蘭總理還討論了波蘭如何幫助我們為今年冬季做準備，以及擴大兩國之間的運輸聯絡，尤其是燃料供應方面。這確實有助於增強烏克蘭的能源韌性。"
+    },
+    {
+      "id": "5211458",
+      "time": "2026-11-12 23:26:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【英偉達股價收窄跌幅至5%以內 總市值重新觸及4萬億美元】抄底資金湧入，英偉達股價收窄跌幅至4.5%左右，報165.880美元/股，總市值報4.00萬億美元；此前一度大跌14%，市值蒸發近6000億美元。"
+    },
+    {
+      "id": "5211457",
+      "time": "2026-11-12 23:25:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我與波蘭總理還討論了歐洲問題以及可加速烏克蘭加入歐盟的步驟。我們將歐盟成員國身份視為烏克蘭和整個歐洲的安全保障之一。"
+    },
+    {
+      "id": "5211456",
+      "time": "2026-11-12 23:24:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署（USPS）宣佈2027年郵票價格保持不變。"
+    },
+    {
+      "id": "5211455",
+      "time": "2026-11-12 23:24:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及旅遊部長：1月至10月底赴埃及遊客達1620萬人次。"
+    },
+    {
+      "id": "5211454",
+      "time": "2026-11-12 23:23:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京說不接受歐洲在戰後向烏派兵】俄羅斯總統普京今天（11月12日）在與美國特使威特科夫和庫什納會晤時表示，俄方從一開始就說過，任何外國軍隊出現在烏克蘭領土上都是絕對不可接受的，俄方認為這會威脅俄羅斯聯邦的安全。（CCTV國際時訊）"
+    },
+    {
+      "id": "5211453",
+      "time": "2026-11-12 23:21:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "據一份報告，委內瑞拉美國託管賬戶已撥付98.7%的資金。"
+    },
+    {
+      "id": "5211452",
+      "time": "2026-11-12 23:20:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "美民主黨議員梅克斯：準備在下一屆國會就英偉達相關影響設立小組委員會。"
+    },
+    {
+      "id": "5211451",
+      "time": "2026-11-12 23:19:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達盤中觸及當日高點，跌幅收窄至6%以內。"
+    },
+    {
+      "id": "5211450",
+      "time": "2026-11-12 23:17:53",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息：黃仁勳離任後不會再在英偉達擔任任何職務。"
+    },
+    {
+      "id": "5211449",
+      "time": "2026-11-12 23:16:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "義大利造船商芬坎蒂尼（FINCANTIERI）股價轉漲後自動觸發交易暫停機制，漲幅達0.25%。"
+    },
+    {
+      "id": "5211448",
+      "time": "2026-11-12 23:15:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟領導人：將繼續向烏克蘭提供財政和軍事援助】當地時間11月12日，歐盟委員會主席馮德萊恩和歐洲理事會主席科斯塔在愛爾蘭首都都柏林與烏克蘭總統澤連斯基會晤後發表聯合宣告，重申歐盟對烏克蘭的堅定支援，並表示將繼續向烏克蘭提供大規模財政和軍事援助。聯合宣告說，歐盟歡迎本週在阿聯酋阿布扎比舉行的會談以及和平程序取得的新進展。歐盟參與了此次會談，並將繼續參與相關程序。歐盟將繼續與烏克蘭站在一起，致力於推動實現公正持久的和平，維護烏克蘭主權和領土完整以及歐洲大陸的安全。（央視新聞）"
+    },
+    {
+      "id": "te:economy:600808",
+      "time": "2026-11-12 23:15:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Costa Rica",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Costa Rica GDP Growth Slows in Q3 2026 — Costa Rica’s economy expanded 2.7% year on year in Q3 2026, slowing from an upwardly revised 3.53% in the previous quarter and marking the weakest expansion since Q1 2021. Manufacturing output declined 3.7% after contracting 0.98% in Q2, and growth slowed across multiple sectors. Agriculture and fishing eased to 0.06% from 0.63%, while mining and quarrying edged down to 2.99% from 3.11%. Transport and warehousing fell to 2.06% from 3.11%, and accommodation and food services slowed to 2.83% from 3.6%. Financial activities and insurance eased to 4.71% from 5.82%, while growth in professional, scientific, technical, administrative and support services decelerated to 3.32% from 4.15%."
+    },
+    {
+      "id": "5211447",
+      "time": "2026-11-12 23:15:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為新型儲存系統啟動試商用】11月12日，華為新型儲存系統試商用啟動現場會在貴安雲上屯舉行。會上，華為磁電儲存系統客戶聯合試商用正式啟動，標誌著該技術從實驗室驗證進入真實場景驗證階段。長期以來，企業級溫冷儲存的主流商用技術路線僅有HDD與磁帶兩條，核心技術與產能主要集中在少數海外廠商手中。磁電儲存系統是中國廠商首次定義並試商用的儲存新介質，可實現溫冷資料“存得起，取得快”，為溫冷儲存提供了第三條選擇路徑，有望成為AI時代溫冷資料新的儲存底座。目前華為磁電儲存系統已在華為雲烏蘭察布資料中心開始部署。據透露，該系統明年規劃的試商用容量已被客戶全量預定，供不應求。(上海證券報)"
+    },
+    {
+      "id": "te:markets:600807",
+      "time": "2026-11-12 23:14:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Serbia",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Serbian Dinar Hits 19-month Low — The Serbian Dinar touched 106.30 against the USD, the lowest since April 2025. Over the past 4 weeks, US Dollar Serbian Dinar gained 1.32%, and in the last 12 months, it increased 5.5%."
+    },
+    {
+      "id": "te:markets:600806",
+      "time": "2026-11-12 23:14:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Euro Hits 18-month Low — EURUSD decreased to 1.11, the lowest since May 2025. Over the past 4 weeks, Euro US Dollar lost 1.17%, and in the last 12 months, it decreased 4.87%."
+    },
+    {
+      "id": "te:markets:600805",
+      "time": "2026-11-12 23:14:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Denmark",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Danish Krone Hits 19-month Low — The Danish Krone touched 6.75 against the USD, the lowest since April 2025. Over the past 4 weeks, US Dollar Danish Krone gained 1.19%, and in the last 12 months, it increased 5.22%."
+    },
+    {
+      "id": "5211446",
+      "time": "2026-11-12 23:14:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3860美元/盎司，日內跌3.52%。"
+    },
+    {
+      "id": "5211445",
+      "time": "2026-11-12 23:12:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Moderna高管在分析師日表示，公司預計近期將與美國食品藥品監督管理局（FDA）討論新冠流感聯合疫苗的申報事宜。"
+    },
+    {
+      "id": "5211444",
+      "time": "2026-11-12 23:12:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數DXY升至日內高點103.09。"
+    },
+    {
+      "id": "5211443",
+      "time": "2026-11-12 23:10:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "Meta股價下跌1.6%，觸及盤中低點。"
+    },
+    {
+      "id": "5211442",
+      "time": "2026-11-12 23:09:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3860美元/盎司，日內跌3.24%。"
+    },
+    {
+      "id": "5211441",
+      "time": "2026-11-12 23:09:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國大唐首個光熱CCER專案落地】近日，大唐哈密石城子100MW光熱一體化發電專案在全國溫室氣體自願減排註冊登記系統及資訊平臺完成專案登記，標誌著集團公司在全國溫室氣體自願減排市場重啟後，專案開發領域實現“零的突破”。該專案是集團公司百萬千瓦級“光熱+光伏”一體化清潔能源示範專案的光熱主體，也是國家第三批“沙戈荒”大型風電光伏基地專案的組成部分，裝機容量100MW，預計年減排二氧化碳約9萬噸。專案推進過程中，集團公司牽頭協調，物資公司（低碳公司）發揮碳資產專業平臺作用，積極推進專案溫室氣體自願減排專案開發工作；新疆公司及所屬專案公司積極準備申報材料，各方協同聯動，全力保障專案順利完成登記。(中國大唐集團公司)"
+    },
+    {
+      "id": "5211440",
+      "time": "2026-11-12 23:09:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗稱又有兩艘油輪在霍爾木茲海峽以東海域觸雷起火】當地時間12日，伊朗軍隊表示，當天下午，又有兩艘油輪在霍爾木茲海峽以東海域觸碰水雷後起火。此前，這兩艘油輪無視警告，擅自進入了禁航且危險的區域，並關閉了雷達系統。伊朗軍隊表示，此類事件責任首先應歸咎於美國，其次，那些輕信美國虛假言論與恐嚇說辭的船東們也應承擔責任。（央視新聞）"
+    },
+    {
+      "id": "5211439",
+      "time": "2026-11-12 23:08:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿聯酋發生交通事故 已致14死30傷】阿聯酋內政部當地時間12日表示，阿聯酋富查伊拉酋長國當天發生一起涉及18輛汽車和5輛卡車的交通事故，造成14人死亡、另有30人受傷。(央視新聞)"
+    },
+    {
+      "id": "te:economy:600800",
+      "time": "2026-11-12 23:06:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Existing Home Sales",
+        "Importance 3"
+      ],
+      "text": "US Existing Home Sales Lowest Since 2010 — Existing home sales in the US fell 5.5% to a seasonally adjusted annual rate of 3.75 million units in October 2026, the lowest level since August 2010 and below market expectations of 3.85 million. NAR Chief Economist Lawrence Yun attributed the weakness to elevated mortgage rates, which have reached their highest levels since 2000, excluding one month in 2023. He noted that homeowners remain financially secure due to accumulated housing wealth, while lower mortgage rates could unlock significant pent-up demand. Sales were unchanged in the Northeast at 470,000 units, while the Midwest declined 3.2% to 900,000, the South fell 6.5% to 1.73 million and the West dropped 9.7% to 650,000. Meanwhile, housing inventory rose 1.3% from September and 4.6% year over year to 1.59 million homes, equivalent to 5.1 months of supply, up from 4.7 months in September. The median home price increased 0.4% from a year earlier to $416,700."
+    },
+    {
+      "id": "te:economy:600798",
+      "time": "2026-11-12 23:04:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Colombia Consumer Confidence Hits Over One-Year Low — Colombia's Consumer Confidence Index fell 7.2 percentage points to 8.5% in October 2026, down from the prior month and marking its lowest level since September 2025. The Consumer Expectations Index declined 11.3 percentage points to 13.8%. Expectations for the general economic outlook deteriorated to 7.4% from 21.3%, while expectations for the country’s future economic conditions fell to 7.3% from 19.9%. Household economic outlook expectations weakened to 26.8% from 34.1%. Meanwhile, the Economic Conditions Index decreased 1.3 percentage points to 0.4%. Assessments of current household economic conditions deteriorated to -5.9% from -4.8%, and willingness to purchase durable goods fell to 6.7% from 8.1%."
+    },
+    {
+      "id": "te:markets:600797",
+      "time": "2026-11-12 23:02:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium is down by 5.07% — Palladium decreased 5.07% to 993 USD/t.oz"
+    },
+    {
+      "id": "te:markets:600795",
+      "time": "2026-11-12 23:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Depreciates by 0.84% — Top currency losers are Brazilian Real (-0.84%), Australian Dollar (-0.47%), Indian Rupee (-0.41%), British Pound (-0.22%) and Euro (-0.13%). Gains are led by South Korean Won (0.41%) and Dollar Index (0.13%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "te:markets:600793",
+      "time": "2026-11-12 22:59:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Advances for 7th Day — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was up for a seventh straight session on Thursday, rising by 2.1% to its highest since October 5 at 3,020 points. Gains were broad-based across vessel segments, particularly the larger one. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, advanced by 2.9% to its highest since October 2 at 4,836 points. At the same time, the supramax index increased by 1.2% to an over one-week high of 1,831 points; and the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, went up 0.7% to its highest level since October 22 at 2,117 points."
+    },
+    {
+      "id": "te:markets:600792",
+      "time": "2026-11-12 22:59:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Drops on Strong Dollar and Fed Rate Expectations — Silver prices fell around 3% to approximately $50 an ounce on Thursday, retreating to levels not seen in months as a stronger US dollar, rising oil prices and growing expectations of further Federal Reserve tightening weighed on the metal. Stronger-than-expected US consumer inflation data for October, released on Tuesday, pushed the dollar to a 19-month high and reinforced bets on further Fed rate hikes. Meanwhile, renewed gains in oil prices added to inflationary pressures after President Donald Trump said the US did not need a deal with Iran and redirected Vice President JD Vance towards domestic priorities rather than negotiations with Tehran. According to CME’s FedWatch Tool, markets are pricing in nearly a 90% probability of a 25-basis-point rate hike in December, while the likelihood of a larger 50-basis-point increase has climbed to around 10%, up from zero before the inflation data."
+    },
+    {
+      "id": "te:markets:600791",
+      "time": "2026-11-12 22:57:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Slides as Dollar Strength and Fed Rate Bets Weigh — Gold prices dropped more than 2.5% to around $3,870 an ounce on Thursday, retreating to levels not seen in months, pressured by a stronger US dollar, expectations of further monetary tightening by the Federal Reserve and rising oil prices. Stronger-than-expected US consumer inflation data for October, released on Tuesday, boosted the dollar to a 19-month high as traders increased bets on further Fed rate hikes. Meanwhile, renewed oil price gains added to inflation concerns after President Donald Trump said the US did not need a deal with Iran and redirected Vice President JD Vance towards domestic priorities, away from negotiations with Tehran. According to CME’s FedWatch Tool, markets are pricing in nearly a 90% chance of a 25-basis-point rate hike in December, while the probability of a larger 50-basis-point increase has risen to around 10%, from zero before the inflation data."
+    },
+    {
+      "id": "te:markets:600790",
+      "time": "2026-11-12 22:57:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper is down by 2% — Copper decreased 2% to 6.1493 USD/Lbs"
+    },
+    {
+      "id": "te:markets:600788",
+      "time": "2026-11-12 22:52:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls on Tech and Commodity-Linked Stocks Losses — The S&P/TSX Composite Index fell about 0.5% to hover below 36,500 on Thursday, tracking the US stock market following key earnings. The tech sector was pressured by a plunge in Nvidia stock as the company's board met regarding the resignation of CEO and co-founder Jensen Huang over his involvement with a suspected Chinese spy. Shopify declined 1%, and Constellation Software was down more than 1%. In contrast, Celestica gained nearly 4%, extending an 8.4% surge in the prior session following recent investor-day commentary and strong third-quarter results, recovering from the earlier post-US-election global tech selloff. Meanwhile, commodity-backed companies in Canada were under pressure as oil prices fluctuated and gold prices fell. Canadian Natural fell over 0.5%, and Agnico Eagle lost more than 2.5%. Franco-Nevada shed 1% after signaling its annual earnings should land at the midpoint of earlier guidance instead of previous top half estimates."
+    },
+    {
+      "id": "te:markets:600785",
+      "time": "2026-11-12 22:43:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "European Stocks Cut Gains as Nvidia Turmoil Weighs — European equities pared early gains on Tuesday as turmoil at Nvidia rattled investor confidence in the AI trade. The STOXX 50 slipped back to around 6,396 points, while the broader STOXX 600 edged up less than 0.1% after touching a fresh record high earlier in the session. Nvidia shares tumbled following reports that CEO Jensen Huang had been ousted, raising concerns over the outlook for the AI sector. Market sentiment was also pressured by renewed oil volatility after President Donald Trump said the US did not need a deal with Iran and redirected Vice President JD Vance towards domestic priorities. Despite the uncertainty, strong corporate earnings continued to provide some support. Siemens rose 1.8% after raising its growth outlook on strong demand for trains and AI-related data centres. Allianz gained 1.9% following record nine-month results and a more optimistic 2026 outlook, while Burberry jumped almost 7% after retail sales slightly exceeded expectations."
+    },
+    {
+      "id": "te:markets:600784",
+      "time": "2026-11-12 22:43:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Arista Networks Shares Hit 4-week High — Arista Networks shares increased to 199.66 USD, the highest since October 2026. Over the past 4 weeks, Arista Networks lost 5.79%, and in the last 12 months, it increased 47.18%."
+    },
+    {
+      "id": "te:markets:600783",
+      "time": "2026-11-12 22:40:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.02% Lower — The Dow Jones Index is falling 11 points. Losses were driven by Nvidia (-8.62%), Salesforce (-1.21%) and IBM (-0.87%). Biggest rises came from Amazon (1.79%), P&G (0.95%) and McDonalds (0.90%)."
+    },
+    {
+      "id": "te:markets:600782",
+      "time": "2026-11-12 22:40:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Hovers at 4-Month Low — Wheat remained near $6 a bushel, close to its lowest level since early July, on expectations of easing Black Sea tensions despite limited progress in Russia-Ukraine peace talks. The first direct negotiations in months ended with an agreement on a prisoner exchange but no breakthrough on protecting maritime trade. Ukraine also claimed responsibility for a drone strike on Russia’s Baltic Sea port of Ust-Luga, an alternative export route for Russian shipments. Meanwhile, Algeria is believed to have purchased around 700,000 metric tons of wheat in an import tender, with part of the volume expected to come from Argentina, highlighting growing competition from Southern Hemisphere suppliers. Wheat has steadily declined from its 3-1/2-year high of $7.67 on August 28, as production is forecast to reach its second-highest level on record, supported by favourable harvest prospects in Australia and Argentina."
+    },
+    {
+      "id": "te:markets:600781",
+      "time": "2026-11-12 22:39:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Hits Lowest Since May — The Brazilian real weakened towards 5.62 per USD in November, its lowest since May of last year, amid prospects that a vote on the government’s fiscal measures will be postponed. Senate President Alcolumbre said that if any lawmaker needs more time to analyze the complementary fiscal adjustment bill, the discussion could be delayed. The bill combines measures to contain spending and increase revenue; if approved, it is projected to yield savings of R$50 billion to R$60 billion in 2027. The government has faced market pressure to announce fiscal adjustments after Brazilian assets plunged following President Lula’s late-October reelection. Meanwhile, annual inflation rose to 4.63% in October from 4.58% in September, below market expectations of 4.74% but marking a four-month high and remaining above the BCB’s 4.5% target ceiling. With 12-month inflation still above target, the central bank is expected to remain cautious about resuming its Selic easing cycle."
+    },
+    {
+      "id": "te:markets:600778",
+      "time": "2026-11-12 22:33:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Fall With Nvidia Plunge — US stock indices fell after Nvidia president and CEO Jensen Huang resigned, injecting uncertainty into the global AI sector. The S&P 500 fell 0.8%, the Nasdaq 100 fell over 1%, and the Dow was flat. Nvidia shares sank 14% after CFO Colette Kress was named interim CEO following a board meeting that resulted in Huang's resignation, due to his involvement with a Megaspeed executive widely suspected of being a Chinese spy. Huang's stewardship of Nvidia saw the company grow to a market cap of nearly $6 trillion and led deal-making across the entire AI supply chain, implicating the global tech sector in the leadership change. AMD and Broadcom were higher, although AI infrastructure stocks sank sharply. Meanwhile, Nebius sank nearly 10% after delaying some data center capacity buildout. Still, other sectors offered some respite, rebounding after the hot CPI reading on Tuesday supported bets of more Federal Reserve rate hikes in the current tightening cycle."
+    },
+    {
+      "id": "te:markets:600777",
+      "time": "2026-11-12 22:30:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Alibaba Shares Hit 19-week Low — Alibaba shares decreased to 95.51 USD, the lowest since July 2026. Over the past 4 weeks, Alibaba lost 13.9%, and in the last 12 months, it decreased 40.28%."
+    },
+    {
+      "id": "te:markets:600776",
+      "time": "2026-11-12 22:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Coca-Cola Shares Hit 52-year High — Coca-Cola shares increased to 97.93 USD, the highest since July 1974. Over the past 4 weeks, Coca-Cola gained 8.66%, and in the last 12 months, it increased 36.44%."
+    },
+    {
+      "id": "te:markets:600775",
+      "time": "2026-11-12 22:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Nvidia Shares Hit 16-month Low — Nvidia shares decreased to 150.55 USD, the lowest since June 2025. Over the past 4 weeks, Nvidia Corporation lost 23.24%, and in the last 12 months, it decreased 10.36%."
+    },
+    {
+      "id": "te:markets:600774",
+      "time": "2026-11-12 22:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Broadcom Shares Hit 4-week High — Broadcom shares increased to 357.12 USD, the highest since October 2026. Over the past 4 weeks, Broadcom Inc lost 2.68%, and in the last 12 months, it decreased 2.82%."
+    },
+    {
+      "id": "te:markets:600770",
+      "time": "2026-11-12 22:20:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Eases Gains — Brent crude rose to as high as $94.3 a barrel on Thursday before paring gains to $93 a barrel, nearing its lowest since August 31, as signs of recovering Saudi Arabian supply outweighed escalating tensions between Washington and Tehran. Saudi Arabia reported a 26% increase in oil production in October, bringing output to one of its highest monthly levels in years, while Iraq also raised production to a wartime record. Exports remained resilient despite disruptions to the Strait of Hormuz, supported by alternative routes such as Saudi Arabia’s East-West pipeline to the Red Sea and ship-to-ship transfers. Meanwhile, President Donald Trump said the US no longer needs a deal with Iran, signalling a shift away from recent diplomatic efforts. Tehran also maintained a hardline position, with senior official Mohsen Rezaee ruling out the removal of any enriched nuclear material from the country."
+    },
+    {
+      "id": "te:markets:600767",
+      "time": "2026-11-12 22:18:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Pares Gains — Crude oil rose to as high as $87.75 a barrel on Thursday before paring gains toward $86 a barrel, the lowest since August 31, as signs of recovering Saudi Arabian supply outweighed escalating tensions between Washington and Tehran. Saudi Arabia reported a 26% increase in oil production in October, bringing output to one of its highest monthly levels in years, while Iraq also raised production to a wartime record. Exports remained resilient despite disruptions to the Strait of Hormuz, supported by alternative routes such as Saudi Arabia’s East-West pipeline to the Red Sea and ship-to-ship transfers. Meanwhile, President Donald Trump said the US no longer needs a deal with Iran, signalling a shift away from recent diplomatic efforts. Tehran also maintained a hardline position, with senior official Mohsen Rezaee ruling out the removal of any enriched nuclear material from the country."
+    },
+    {
+      "id": "te:markets:600766",
+      "time": "2026-11-12 22:16:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls Following Inflation Report — The Ibovespa fell over 0.5% to hover near 171,000 on Thursday following the release of October’s inflation data and amid a new batch of corporate earnings. Annual inflation rose to 4.63% in October from 4.58% in September, below market expectations of 4.74% but marking a four-month high and remaining above the BCB’s 4.5% target ceiling. With 12-month inflation still above target, the central bank is expected to remain cautious about resuming the Selic easing cycle. Credit-sensitive stocks fell. Financials declined, with Itaú, Bradesco, and Itaúsa each losing nearly 1%. Banco do Brasil plunged nearly 8% after Q3 results missed estimates and the bank cut its projections and dividends. B3 shed 1% ahead of its earnings. Utilities declined, with Axia down 1.5%. Elsewhere, Rede D’Or shed over 0.5% ahead of its results. Vale fell 1% on lower iron ore prices, while Petrobras added over 1% despite volatile oil prices."
+    },
+    {
+      "id": "te:economy:600763",
+      "time": "2026-11-12 22:13:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "German Current Account Surplus Widens in September — Germany’s current account surplus increased to €18.7 billion in September 2026, up from €15.7 billion a year earlier. The primary income surplus rose to €16.0 billion from €13.6 billion, while the secondary income deficit narrowed to €5.3 billion from €7.1 billion. Meanwhile, the goods surplus edged down to €15.6 billion from €16.2 billion, as exports grew 10.4% year-on-year to €129.7 billion, while imports increased at a faster 12.7% to €114.1 billion. The services deficit also widened to €7.4 billion from €7.1 billion. For the first nine months of 2026, Germany’s cumulative current account surplus reached €160.0 billion, compared with €149.4 billion in the same period of 2025."
+    },
+    {
+      "id": "te:markets:600757",
+      "time": "2026-11-12 22:01:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Fall Further After Huang Resigns as Nvidia CEO — US stock futures fell further after Jensen Huang resigned as Nvidia president and CEO, injecting uncertainty into the global AI sector. Contracts for the S&P 500 fell 0.8%, the Nasdaq 100 fell over 1%, and the Dow inched lower. Nvidia shares sank 10% premarket after CFO Colette Kress was named interim CEO following a board meeting that resulted in Huang's resignation over his involvement with a Megaspeed executive widely suspected of being a Chinese spy. Huang's stewardship of Nvidia saw the company grow to a market cap of nearly $6 trillion and led deal-making across the entire AI supply chain, implicating the global tech sector in the leadership change. AMD and Broadcom were higher, although AI infrastructure stocks sank sharply. Meanwhile, Nebius sank nearly 10% after delaying some data center capacity buildout. Still, other sectors offered some respite, rebounding after the hot CPI reading on Tuesday supported bets of more Federal Reserve rate hikes in the current tightening cycle."
+    },
+    {
+      "id": "em:qqyh_mlc:202611123929941181",
+      "time": "2026-11-12 22:01:21",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲哈瑪克：傾向於支援美聯儲採取幅度更小、更穩定的利率調整】美聯儲哈瑪克表示他傾向於支援美聯儲採取幅度更小、更穩定的利率調整，美聯儲需要加息以達到限制性利率政策；不認為美聯儲落後於形勢，若出現這種情況將考慮採取更激進的行動。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611123929938058",
+      "time": "2026-11-12 22:00:29",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲哈馬克表示，每次參加FOMC會議都持開放態度。"
+    },
+    {
+      "id": "te:markets:600754",
+      "time": "2026-11-12 21:59:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Inches Lower — Milan’s FTSE MIB closed 0.3% lower at 51,809 on Thursday, halting a three-session advance, as losses in tech, heavyweight financials and utility firms weighed on the index. Technoprobe dropped 4.7% after the chipmaker cut its 2026 revenue outlook. Prysmian fell 1.2%, while Stellantis (-4.3%) extended its losses. Financial and banking stocks also retreated, where MPS and Intesa both shed 0.9% amid debates over Italy's frequent tax hikes on the sector, while the Bank of Italy warns of it effects in investment decisions. On the upside, Eni rose 1.3% as oil prices edged higher. Gas distributors Snam (1.1%) and Italgas (2.2%) also advanced amid higher European gas prices. Terna climbed 1.5%, supported by solid third-quarter results and an 8.1% increase in nine-month revenue. In turn, wholesale utilities A2A and Hera traded lower. Fincantieri fell 1.5% despite its quarterly results beating expectations."
+    },
+    {
+      "id": "te:markets:600751",
+      "time": "2026-11-12 21:49:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Trims Gains — Frankfurt's DAX 40 pared early gains to close 0.4% up at 26,772 on Thursday, remaining at record levels, buoyed by strong earnings. Meanwhile, President Trump’s remarks reignited uncertainty over a potential US-Iran deal, pushing oil prices higher, while concerns surrounding Nvidia weighed on semiconductor and AI sentiment. Among single stocks, Munich Re led the index, climbing 3.2% after better-than-expected Q3 results. Siemens gained 2.1% after beating Q3 profit expectations on record order intake and raising its medium-term targets. Allianz added 1.9% after reporting stronger-than-expected net profit and raising the upper end of its 2026 operating profit outlook. Fresenius SE advanced 1.1% after announcing plans to reduce its stake in Fresenius Medical Care. On the flip side, GEA Group slid 4.3% to the bottom after announcing a change in leadership. Brenntag and Rheinmetall also faced pressure. Merck fell 1.3%, despite revenue growth and an upward revision to its full-year guidance."
+    },
+    {
+      "id": "em:qqyh_mlc:202611123929922545",
+      "time": "2026-11-12 21:47:03",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲哈瑪克：人工智慧基礎設施建設正在帶來價格上漲壓力】美聯儲哈瑪克表示，人工智慧基礎設施建設正在帶來實實在在的價格上漲壓力。"
+    },
+    {
+      "id": "te:economy:600750",
+      "time": "2026-11-12 21:44:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Building Permits MoM",
+        "Importance 1"
+      ],
+      "text": "Canada Building Permits Fall in September — Canada’s building permits declined 4.1% to C$12.9 billion in September 2026 from August, following a downwardly revised 7.6% jump in the prior month and slightly missing forecasts of a 4% drop. Residential construction intentions fell by C$475.7 million to C$7.8 billion, as a C$529.3 million drop in the multi-family component was partly offset by a C$53.6 million rise in single-family permits. Multi-family declines were led by British Columbia (-C$292.1 million) and Alberta (-C$186.8 million). Meanwhile, non-residential permits fell C$77.1 million to C$5.1 billion, as a C$171.5 million drop in institutional permits was moderated by a C$90.9 million gain in industrial permits. Institutional declines were led by Quebec (-C$95.5 million), Saskatchewan (-C$43.6 million), and Alberta (-C$39.3 million). In Q3 2026, total building permit value decreased 3.6% quarter over quarter to C$38.8 billion."
+    },
+    {
+      "id": "em:qqyh_mlc:202611123929919193",
+      "time": "2026-11-12 21:44:37",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲哈馬克：美國通脹正朝著錯誤的方向發展】美聯儲的哈馬克表示，美國通脹正朝著錯誤的方向發展，需要轉向限制性貨幣政策以降低通脹；擔心美國經濟可能形成通脹思維模式。"
+    },
+    {
+      "id": "te:economy:600748",
+      "time": "2026-11-12 21:36:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Initial Jobless Claims",
+        "Importance 2"
+      ],
+      "text": "US Initial Jobless Claims Hold Low Levels — The number of people claiming unemployment benefits in the US rose by 9,000 to 200,000 in the week ending November 7th, slightly ahead of the median consensus of 195,000. Despite the increase, the levels remained well below historical averages. Continuing claims, a gauge for total outstanding unemployment in the country, fell by 13,000 to 1,679,000 in the last week of October, testing the lowest level since March 2023. The data continued to point to a robust labor market since the second half of the year, as noted by members of the FOMC, despite elevated interest rates and high energy prices. Meanwhile, initial claims filed by federal employees, which remain in the spotlight due to the administration's push to shrink the public sector, rose by 33 to 585."
+    },
+    {
+      "id": "te:markets:600747",
+      "time": "2026-11-12 21:31:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Brazilian Real Hits 15-month Low — The Brazilian Real touched 5.62 against the USD, the lowest since August 2025. Over the past 4 weeks, US Dollar Brazilian Real gained 11.57%, and in the last 12 months, it increased 5.86%."
+    },
+    {
+      "id": "em:jjsj_mgsj:202611123929902273",
+      "time": "2026-11-12 21:30:35",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國上週首次申領失業救濟人數為20萬人，預估為19.5萬人，前值為18.9萬人。"
+    },
+    {
+      "id": "te:economy:600745",
+      "time": "2026-11-12 21:18:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Romania Holds Interest Rate in November — The National Bank of Romania kept its benchmark interest rate unchanged at 6.50% on November 12, as expected, maintaining the Lombard lending rate at 7.50% and the deposit facility rate at 5.50%. The decision comes amid persistent inflationary pressures, with annual inflation rising to 6.94% in October from 6.17% in August, driven largely by higher fuel and energy prices. The central bank expects inflation to increase slightly further towards the end of 2026 before gradually declining, returning to its target range in the first quarter of 2028. Meanwhile, economic activity is expected to recover moderately in the second half of 2026, although fiscal consolidation, weaker consumption and the Middle East conflict pose risks to growth. The NBR also highlighted uncertainty surrounding energy and oil prices, exchange-rate developments and global financial conditions. The bank reaffirmed that maintaining price stability remains its priority amid elevated economic uncertainty."
+    },
+    {
+      "id": "te:markets:600742",
+      "time": "2026-11-12 21:03:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canadian Stock Futures Edged Lower on Thursday — Futures tracking Canadian equities edged lower on Thursday, mirroring the traditional economic sectors of their US counterparts following key earnings. The tech sector was under pressure from a plunge in Nvidia stock as the company's board met to potentially fire CEO and co-founder Jensen Huang due to his involvement with a suspected Chinese spy. Meanwhile, commodity-backed companies in Canada were likely under pressure as oil prices were volatile and gold prices fell. Crude oil futures wavered on fresh evidence of higher output from the Middle East. On top of that, Franco-Nevada was due to open lower after signaling its annual earnings should land at the midpoint of earlier guidance instead of prior estimates of the top half. At the same time, persistent bets on multiple rate hikes by the Federal Reserve next year pressured gold prices."
+    },
     {
       "id": "5210983",
       "time": "2026-11-12 20:20:57",
