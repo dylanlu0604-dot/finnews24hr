@@ -1,7 +1,184 @@
 {
   "date": "2026-11-12",
-  "count": 1250,
+  "count": 1272,
   "items": [
+    {
+      "id": "mkt:01a1cfad-4b37-7bbc-abb0-3890031478ac",
+      "time": "2026-11-12 20:13:22",
+      "tags": [
+        "MKT News",
+        "NBIS.O",
+        "Impact bullish"
+      ],
+      "text": "Nebius (NBIS.O) Q3 revenue $980.8 mln, above consensus $918.5 mln. Q3 adjusted EBITDA $465.8 mln, above consensus $357.4 mln."
+    },
+    {
+      "id": "5210958",
+      "time": "2026-11-12 20:13:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室收到阿拉伯海發生事件的延遲報告。"
+    },
+    {
+      "id": "5210957",
+      "time": "2026-11-12 20:12:59",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "Nebius Group：預計2027年營收為120億至130億美元；預計2027年資本支出為400億至450億美元。Nebius AI Cloud第三季度營收為9.738億美元，同比增長643%。"
+    },
+    {
+      "id": "mkt:01a1cfac-9574-7bbc-abb0-37a983f92f85",
+      "time": "2026-11-12 20:12:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "JP Morgan lowered NVIDIA (NVDA.O) PT to $215 from $320."
+    },
+    {
+      "id": "5210956",
+      "time": "2026-11-12 20:12:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將英偉達目標價從320美元下調至215美元。"
+    },
+    {
+      "id": "5210955",
+      "time": "2026-11-12 20:12:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nebius Group：預計2027年營收為120億至130億美元；預計2027年資本支出為400億至450億美元。"
+    },
+    {
+      "id": "5210954",
+      "time": "2026-11-12 20:12:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "NEBIUS集團股票抹去了跌幅，盤前上漲5%。"
+    },
+    {
+      "id": "5210953",
+      "time": "2026-11-12 20:11:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "NEBIUS集團：預計2026年資本支出約270億美元，因為我們將投資於2027年的產能，特別是在我們自有的場地。"
+    },
+    {
+      "id": "5210952",
+      "time": "2026-11-12 20:11:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "NEBIUS集團：預計2月份年度經常性收入將超過70億美元，預計預付款和針對現有投資級客戶合同的融資將覆蓋2027年資本支出的75%-85%。"
+    },
+    {
+      "id": "mkt:01a1cfab-c6be-7bbc-abb0-2977e814acd0",
+      "time": "2026-11-12 20:11:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax: Russian President Putin told a US envoy that hearing their assessment of the Abu Dhabi talks is important to him."
+    },
+    {
+      "id": "5210951",
+      "time": "2026-11-12 20:11:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京向美國特使表示，聽取他們對阿布扎比會談的評估對他來說非常重要。"
+    },
+    {
+      "id": "mkt:01a1cfab-993a-7bbc-abb0-2275bc090739",
+      "time": "2026-11-12 20:11:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Council President Costa said next week will be a decisive test of whether Russia is willing to stop the war."
+    },
+    {
+      "id": "mkt:01a1cfab-569c-7bbc-abb0-19d7505ff273",
+      "time": "2026-11-12 20:11:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "US research house Melius Research downgraded NVIDIA (NVDA.O) to Hold and lowered its PT to $185 from $315."
+    },
+    {
+      "id": "5210949",
+      "time": "2026-11-12 20:11:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟的科斯塔：下週將是對俄羅斯是否願意停止這場衝突的決定性考驗。"
+    },
+    {
+      "id": "mkt:01a1cfab-441f-7bbc-abb0-1661c519d12b",
+      "time": "2026-11-12 20:11:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【El Niño strains global coffee supply chain】A persistent El Niño and extreme weather are disrupting major coffee-producing regions, posing a material test for the global coffee supply chain. Brazil's southeast has experienced abnormal rainfall and heat; farmers and industry warn the 2027 harvest will face both lower volumes and downgraded quality. A local coffee cooperative CEO, Bernardo, says markets are already on alert and 2027 national output forecasts have been revised down, with overall production expected below prior estimates."
+    },
+    {
+      "id": "5210948",
+      "time": "2026-11-12 20:10:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一博科技：產能基本滿產，PCB二期裝置陸續到位】一博科技在投資者關係活動記錄表中表示，公司目前產能基本滿產，PCB產能較飽滿，正透過增加部分瓶頸工序裝置促進整體產能快速釋放，二期裝置陸續到位併發揮積極作用；PCBA相關產能擴充將結合訂單釋放節奏統籌安排。"
+    },
+    {
+      "id": "5210947",
+      "time": "2026-11-12 20:10:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遼寧成大：董事長提議回購公司股份，資金總額不低於5000萬元且不高於1億元】遼寧成大公告，公司董事長徐飈於2026年11月12日提議公司以自有資金回購部分股份，回購資金總額不低於人民幣5000萬元（含），不高於人民幣1億元（含），上述金額均不含交易佣金等交易費用。回購股份擬用於員工持股計劃或股權激勵，回購方式為透過上海證券交易所交易系統以集中競價交易方式進行，回購價格上限不高於董事會審議透過股份回購決議前30個交易日公司股票交易均價的150%，回購期限為自董事會審議透過本次回購股份方案之日起12個月內。上述回購事宜需按規定履行相關審批程式後方可實施。"
+    },
+    {
+      "id": "mkt:01a1cfaa-c0b0-7bbc-abb0-0c640adf5385",
+      "time": "2026-11-12 20:10:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Putin meets US presidential envoy Witkoff and Kushner】Russian media reported on the 12th that President Putin met in Moscow with US presidential envoy Witkoff and Trump’s son-in-law Kushner."
+    },
+    {
+      "id": "5210946",
+      "time": "2026-11-12 20:10:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大帝國商業銀行將公用事業板塊的評級從“增持”下調至“中性”。"
+    },
+    {
+      "id": "5210945",
+      "time": "2026-11-12 20:10:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "Melius Research將英偉達評級下調至持有，目標價從315美元下調至185美元。"
+    },
     {
       "id": "5210944",
       "time": "2026-11-12 20:09:36",
@@ -33,6 +210,14 @@
         "MKT News"
       ],
       "text": "Interfax: Putin asked the US envoy to convey his thanks to Trump for assistance in promoting engagement between Russia and Ukraine."
+    },
+    {
+      "id": "5210942",
+      "time": "2026-11-12 20:09:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "據俄羅斯媒體12日報道，俄羅斯總統普京當天在莫斯科會見美國總統特使威特科夫和美國總統特朗普的女婿庫什納。（新華社）"
     },
     {
       "id": "5210941",
@@ -390,6 +575,18 @@
         "MKT News"
       ],
       "text": "Zelenskiy said Russia intends to continue striking energy infrastructure and that Ukraine needs more air-defence interceptors."
+    },
+    {
+      "id": "5210917",
+      "time": "2026-11-12 20:01:54",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一，道指期貨持平，標普500指數期貨跌0.44%，納指期貨跌0.92%。\n②德國DAX指數漲0.96%，英國富時100指數漲0.32%，法國CAC40指數漲0.60%，歐洲斯托克50指數漲0.31%。\n③WTI原油漲0.97%，報87.37美元/桶。布倫特原油漲0.98%，報93.67美元/桶。\n④巴克萊私人銀行首席市場策略師Julien Lafargue表示，即使融資風險以及英偉達領導層動盪正在考驗這波AI交易的韌性，投資者仍應保持對AI熱潮的投資敞口。\n⑤摩根大通策略師Nikolaos Panigirtzoglou等人在報告中寫道，股票ETF資金強勁流入，顯示散戶投資者仍然看多股市，而這股支撐對穩定近期遭重創的人工智慧交易至關重要。\n⑥週四，退伍軍人節休市結束後債券市場恢復交易，美國國債收益率小幅上行。投資者正期待最新通脹與住房資料，以此研判經濟形勢以及美聯儲的下一步政策動向。\n⑦英偉達美股盤前跌超7%，此前報道稱，英偉達董事會正準備罷免黃仁勳。\n⑧Coreweave(CRWV.O)盤前下跌7%，據報其擬發行至少40億美元投資級貸款。\n⑨禮來公司股價盤前上漲3%，因中國批准其口服GLP-1藥物。"
     },
     {
       "id": "5210916",
