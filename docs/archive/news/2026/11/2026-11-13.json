@@ -1,7 +1,39 @@
 {
   "date": "2026-11-13",
-  "count": 320,
+  "count": 323,
   "items": [
+    {
+      "id": "mkt:01a1d149-7f8f-7bbc-abbf-12c2c56d4294",
+      "time": "2026-11-13 03:43:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude oil rose 3.00% intraday to trade above $89/barrel."
+    },
+    {
+      "id": "5211729",
+      "time": "2026-11-13 03:41:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "墨西哥國家石油公司計劃到2030年將國內燃料需求的精煉自給率提升至最高90%。"
+    },
+    {
+      "id": "te:economy:600860",
+      "time": "2026-11-13 03:41:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Paraguay Trade Deficit Narrows in October — Paraguay’s trade balance posted a deficit of $98.49 million in October 2026, compared with a $164.17 million deficit a year earlier. Exports rose 15.8% year on year to $1.79 billion. Sales of primary products increased 21.9%, exports of manufactured agricultural and livestock goods grew 7.8%, and sales of manufactured industrial goods rose 18.7%. Exports of fuels and energy increased 14.4%. Meanwhile, imports grew 9.8% to $1.89 billion. Purchases of consumer goods increased 6.5%, intermediate goods rose 14.3%, and capital goods imports grew 9.5%."
+    },
     {
       "id": "5211728",
       "time": "2026-11-13 03:40:04",
