@@ -1,7 +1,70 @@
 {
   "date": "2026-11-13",
-  "count": 286,
+  "count": 292,
   "items": [
+    {
+      "id": "mkt:01a1d12e-e12d-7bbc-abbe-c4022fb1c33e",
+      "time": "2026-11-13 03:14:32",
+      "tags": [
+        "MKT News",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "Microsoft (MSFT.O): paused all deployments, is rerouting additional traffic off affected infrastructure and rebooting impacted servers to restore service."
+    },
+    {
+      "id": "5211712",
+      "time": "2026-11-13 03:14:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：已暫停所有部署，正在將更多流量從受影響的基礎設施上轉移，並重啟受影響的伺服器以使其恢復服務。"
+    },
+    {
+      "id": "mkt:01a1d12e-502f-7bbc-abbe-bfa339ab44c3",
+      "time": "2026-11-13 03:13:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi-led coalition said it intercepted and destroyed a drone launched by Yemen's Houthi movement toward the Riyadh region."
+    },
+    {
+      "id": "mkt:01a1d12e-22cd-7bbc-abbe-b6d4e00d3237",
+      "time": "2026-11-13 03:13:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【White House weighing asking Commerce Secretary Lutnick to step down; Trump says he still trusts him】Foreign media, citing two people familiar with the matter, reported senior White House officials are discussing whether to seek the resignation of Commerce Secretary Lutnick. Lutnick has faced mounting criticism over his performance and related regulatory controversies that have attracted congressional scrutiny. The report said the criticism began before NVIDIA CEO Jensen Huang announced his resignation. A White House official said President Trump still fully trusts Lutnick and his ability to perform; the White House has not issued a formal response on his status."
+    },
+    {
+      "id": "5211711",
+      "time": "2026-11-13 03:13:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱，其攔截並摧毀了一架葉門胡塞武裝向利雅得地區發射的無人機。"
+    },
+    {
+      "id": "mkt:01a1d12c-cdaf-7bbc-abbe-aeec63485c35",
+      "time": "2026-11-13 03:12:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "U.S. Democratic Senator Reid said Congress needs to assess whether NVIDIA (NVDA.O) is \"too big to fail\" and what that could mean for the banking system."
+    },
     {
       "id": "5211710",
       "time": "2026-11-13 03:09:34",

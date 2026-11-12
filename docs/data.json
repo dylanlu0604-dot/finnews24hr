@@ -1,7 +1,70 @@
 {
-  "updated": "2026-11-13 03:11:42",
-  "count": 9807,
+  "updated": "2026-11-13 03:15:24",
+  "count": 9812,
   "items": [
+    {
+      "id": "mkt:01a1d12e-e12d-7bbc-abbe-c4022fb1c33e",
+      "time": "2026-11-13 03:14:32",
+      "tags": [
+        "MKT News",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "Microsoft (MSFT.O): paused all deployments, is rerouting additional traffic off affected infrastructure and rebooting impacted servers to restore service."
+    },
+    {
+      "id": "5211712",
+      "time": "2026-11-13 03:14:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：已暫停所有部署，正在將更多流量從受影響的基礎設施上轉移，並重啟受影響的伺服器以使其恢復服務。"
+    },
+    {
+      "id": "mkt:01a1d12e-502f-7bbc-abbe-bfa339ab44c3",
+      "time": "2026-11-13 03:13:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi-led coalition said it intercepted and destroyed a drone launched by Yemen's Houthi movement toward the Riyadh region."
+    },
+    {
+      "id": "mkt:01a1d12e-22cd-7bbc-abbe-b6d4e00d3237",
+      "time": "2026-11-13 03:13:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【White House weighing asking Commerce Secretary Lutnick to step down; Trump says he still trusts him】Foreign media, citing two people familiar with the matter, reported senior White House officials are discussing whether to seek the resignation of Commerce Secretary Lutnick. Lutnick has faced mounting criticism over his performance and related regulatory controversies that have attracted congressional scrutiny. The report said the criticism began before NVIDIA CEO Jensen Huang announced his resignation. A White House official said President Trump still fully trusts Lutnick and his ability to perform; the White House has not issued a formal response on his status."
+    },
+    {
+      "id": "5211711",
+      "time": "2026-11-13 03:13:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱，其攔截並摧毀了一架葉門胡塞武裝向利雅得地區發射的無人機。"
+    },
+    {
+      "id": "mkt:01a1d12c-cdaf-7bbc-abbe-aeec63485c35",
+      "time": "2026-11-13 03:12:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "U.S. Democratic Senator Reid said Congress needs to assess whether NVIDIA (NVDA.O) is \"too big to fail\" and what that could mean for the banking system."
+    },
     {
       "id": "5211710",
       "time": "2026-11-13 03:09:34",
@@ -89388,14 +89451,6 @@
         "其他"
       ],
       "text": "【聯合國環境署：流向發展中國家氣候適應資金增長放緩】聯合國環境署4日釋出《2026年適應差距報告》稱，發達國家流向發展中國家的國際公共適應資金增長放緩，遠低於實際需求。2024年該資金為282億至317億美元，較2023年增加10億美元；扣除通脹後，流向最不發達國家和小島嶼發展中國家的資金仍低於2022年峰值。報告估算，到2035年發展中國家每年適應資金需求約3050億美元。COP30呼籲發達國家在2025年前將適應資金較2019年水平增加一倍、2035年前增加兩倍，即便實現預期目標，計入通脹後僅能滿足屆時需求的20%至29%。發展中國家間透過多邊開發銀行及南南合作提供的適應資金從2019年38億美元增至2024年96億美元。（新華社）"
-    },
-    {
-      "id": "5197310",
-      "time": "2026-11-06 03:14:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "Engineers Gate裁撤Synthesis股票策略團隊大部分成員。"
     }
   ]
 }
