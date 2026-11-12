@@ -1,7 +1,92 @@
 {
   "date": "2026-11-12",
-  "count": 1139,
+  "count": 1148,
   "items": [
+    {
+      "id": "5210878",
+      "time": "2026-11-12 19:45:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Figure Technology第三季度調整後EBITDA為1.636億美元，預期為1.297億美元。第三季度調整後淨營收為2.83億美元，預期為2.55億美元。"
+    },
+    {
+      "id": "te:economy:600734",
+      "time": "2026-11-12 19:44:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Tanzania",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Tanzania Inflation Rate Eases to 4.2% in October — The annual inflation rate in Tanzania edged down to 4.2% in October 2026 from 4.3% in each of the previous two months. Price growth cooled down mostly for food & non-alcoholic beverages (3.6% vs 3.9% in September); clothing & footwear (1.2% vs 1.7%); housing & utilities (2.3% vs 2.5%) and furnishings & household equipment (1.8% vs 2.6%). On the other hand, prices rose faster for transportation (14.9% vs 14%) and miscellaneous goods & services (3.5% vs 3.3%). On a monthly basis, the CPI fell by 0.3%, after increasing by 0.1% in the month earlier."
+    },
+    {
+      "id": "5210877",
+      "time": "2026-11-12 19:44:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓馬尼拉街頭警匪交火致兩死一傷】據菲律賓警方12日通報，首都馬尼拉街頭當天中午發生一起因持槍搶劫引發的警匪交火事件，造成兩名嫌疑人死亡和一名警察受傷。（新華社）"
+    },
+    {
+      "id": "5210876",
+      "time": "2026-11-12 19:43:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第一創業：創金合信公募基金業務受託資金規模較上年末增長19.59%】 第一創業在投資者關係活動記錄表中表示，截至2026年第三季度末，創金合信公募基金業務受託資金規模為2055.2億元，較上年末增長19.59%。"
+    },
+    {
+      "id": "mkt:01a1cf91-caac-7bbc-abae-cb0d3aff0c0f",
+      "time": "2026-11-12 19:43:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "【Lotu: Q3 iPad sales on major e-commerce platforms fall; Apple quarterly shipments down 45.2% YoY】Lotu Technology reports China consumer tablet all-channel sales were 6.361 mln units in Q3 2026, down 20.1% YoY; cumulative first-three-quarter sales 19.148 mln, down 19.1% YoY. Top-five e‑commerce sellers — Apple, Huawei, Lenovo, Xiaomi (incl. Redmi), OPPO (incl. OnePlus) — held 63.9% share, down 1.4 ppt YoY. Apple quarter shipments plunged 45.2% YoY, cutting its platform share to 19.1% after an end‑June price increase across the iPad lineup; the 11th‑gen iPad ASP rose 14.2% YoY to 3,468 yuan. Major e‑commerce ASP was 3,089 yuan, up 9.1% YoY; the 3,000–3,999 yuan price band’s share increased to 28.0%, +7.4 ppt YoY."
+    },
+    {
+      "id": "mkt:01a1cf91-c6e5-7bbc-abae-c3281dddc708",
+      "time": "2026-11-12 19:43:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman state TV said the Emergency Affairs Committee is continuing to monitor and coordinate operations to handle an oil tanker’s cargo."
+    },
+    {
+      "id": "5210875",
+      "time": "2026-11-12 19:43:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼應急委員會跟蹤處理油輪貨物作業進展。"
+    },
+    {
+      "id": "5210874",
+      "time": "2026-11-12 19:42:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長芯博創：控股股東長飛光纖增持1.22%股份 持股達20%】長芯博創公告稱，公司控股股東、實際控制人長飛光纖於2026年11月9日至11月10日，透過深交所集中競價交易方式增持公司股份360.99萬股，佔公司總股本的1.22%。本次增持後，長飛光纖持股比例由18.78%上升至20.00%，仍為公司控股股東，本次權益變動不會導致公司控股股東及實際控制人發生變化，不觸及要約收購。長飛光纖擬繼續增持公司股份，後續增持計劃詳見相關公告。"
+    },
+    {
+      "id": "5210873",
+      "time": "2026-11-12 19:42:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國南方電力公司擬發行17.5億美元股權單位。"
+    },
     {
       "id": "mkt:01a1cf90-b86e-7bbc-abae-bb9c2f2678d5",
       "time": "2026-11-12 19:42:10",
