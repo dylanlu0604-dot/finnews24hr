@@ -1,7 +1,15 @@
 {
   "date": "2026-11-13",
-  "count": 297,
+  "count": 299,
   "items": [
+    {
+      "id": "5211716",
+      "time": "2026-11-13 03:19:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京正在與俄羅斯安全委員會常任成員舉行會議。"
+    },
     {
       "id": "mkt:01a1d131-9e16-7bbc-abbe-cb35f6caa73b",
       "time": "2026-11-13 03:17:32",
@@ -199,6 +207,18 @@
         "市場"
       ],
       "text": "布倫特原油日內漲3%，現報95.56美元/桶。"
+    },
+    {
+      "id": "mkt:01a1d133-848c-7bbc-abbe-d7cdb6acaef9",
+      "time": "2026-11-13 03:02:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong Hang Seng Index futures night session closed down 0.29% at 23,914, trading 95 points below the cash index."
     },
     {
       "id": "5211701",
