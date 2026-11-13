@@ -1,7 +1,34 @@
 {
-  "updated": "2026-11-13 14:24:53",
-  "count": 9968,
+  "updated": "2026-11-13 14:29:02",
+  "count": 9970,
   "items": [
+    {
+      "id": "mkt:01a1d396-cc30-7bbc-abc7-690054e09ace",
+      "time": "2026-11-13 14:27:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Times reports the UK chancellor said the country must embrace AI and invest in data centres, saying it would deliver a \"productivity revolution\" and lift pay for ordinary workers."
+    },
+    {
+      "id": "5212418",
+      "time": "2026-11-13 14:27:01",
+      "tags": [
+        "觀點",
+        "其他"
+      ],
+      "text": "【央視網評：離岸信託個稅申報超1600億，不是“劫富”，是收舊賬】1600多億申報入庫，10月單月入庫超1200億、帶動當月全國個稅收入增長近90%。數字出來的時候，有些自媒體炒作：“對富人加稅了”？恰恰相反。這1600多億的離岸信託個稅談不上開徵新稅，更談不上對哪一群人定向加稅，它是把本該繳的稅，收回來。一些超高淨值人群的財富，根植於國內市場、生長於本土營商環境、受益於完整的產業鏈與消費群體，其利潤源頭本就在境內，納稅義務就應該落在這裡。不能一邊持續享用國內市場的發展紅利，一邊搭一層境外架構，把本該承擔的責任切割出去。"
+    },
+    {
+      "id": "5212417",
+      "time": "2026-11-13 14:25:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯發科第三季度淨利潤為新臺幣282億元，上年同期為新臺幣254.5億元。"
+    },
     {
       "id": "te:economy:600980",
       "time": "2026-11-13 14:21:34",
@@ -90873,18 +90900,6 @@
         "Importance 1"
       ],
       "text": "The Nikkei 225 Index Closes 5.78% Lower — The Nikkei 225 Index dropped 3528 points or 5.78 percent on Friday to close at 57550 points. Losses were led by Ajinomoto (-12.50%), Yamaha (-12.27%) and Sumitomo Dainippon (-12.12%)."
-    },
-    {
-      "id": "te:markets:598951",
-      "time": "2026-11-06 14:27:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Set for Negative Open — European equity markets were set to open sharply lower on Friday as a widening global stock market selloff intensified, driven by concerns over tighter regulation of the artificial intelligence industry and a possible slowdown in data center expansion following a decisive Democratic victory in the US midterm elections. The tech-heavy Nasdaq Composite has already entered correction territory, with losses spreading across all sectors on Wall Street. AI-related stocks in South Korea and Japan also suffered steep declines as investor concerns rippled across global markets. In Europe, investors will focus on the latest UK house price index, French trade figures and Eurozone retail sales data for further economic signals. On the corporate front, earnings reports are due from ENGIE, Daimler Truck, International Airlines Group, Amadeus IT and Mediobanca, among others. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down approximately 1%."
     }
   ]
 }
