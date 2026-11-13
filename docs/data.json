@@ -1,7 +1,50 @@
 {
-  "updated": "2026-11-14 05:29:27",
-  "count": 9777,
+  "updated": "2026-11-14 05:33:09",
+  "count": 9780,
   "items": [
+    {
+      "id": "5213976",
+      "time": "2026-11-14 05:31:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉國民議會議長羅德里格斯：委內瑞拉政府與反對派已啟動由美國支援的談判。"
+    },
+    {
+      "id": "5213975",
+      "time": "2026-11-14 05:31:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報48.56美元/盎司。"
+    },
+    {
+      "id": "5213974",
+      "time": "2026-11-14 05:30:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約證券交易所暫停LiveWire股票權證交易，並啟動退市程式。LiveWire普通股將繼續交易。"
+    },
+    {
+      "id": "5213973",
+      "time": "2026-11-14 05:29:46",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部考慮提供貸款，幫助委內瑞拉清償對美洲開發銀行的欠款。"
+    },
+    {
+      "id": "mkt:01a1d6d0-9ac5-7bbc-abdd-6ded56910866",
+      "time": "2026-11-14 05:29:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve: U.S. bank deposits rose $56.5 billion last week."
+    },
     {
       "id": "5213971",
       "time": "2026-11-14 05:27:44",
@@ -88960,22 +89003,6 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Closes 0.48% Lower — The Dow Jones Index dropped 246 points or 0.48 percent on Friday to close at 51277 points. Losses were led by Salesforce (-3.94%), Nike (-2.40%) and Cisco Systems (-1.95%). Offsetting the fall, top gainers were Nvidia (2.81%), Honeywell International (2.05%) and J&J (1.40%)."
-    },
-    {
-      "id": "5200302",
-      "time": "2026-11-07 05:31:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲堅持俄方先停戰再談安全關切 與美國立場分歧或加深】知情人士透露，歐洲國家希望俄羅斯先停止對烏克蘭的戰爭，然後才會考慮討論克里姆林宮對歐洲更廣泛安全架構的關切。這一立場可能使歐洲與美國在如何結束這場衝突的問題上產生分歧。知情人士稱，歐洲官員還堅決表示，俄羅斯總統普京在戰前提出的、實際上將削弱北約在東歐存在的要求仍然不可接受。因涉及非公開討論，知情人士要求不具名。部分知情人士表示，現有安全框架的主要目標之一就是阻止俄羅斯攻擊歐洲。在莫斯科繼續對烏克蘭發動戰爭，並違反一系列現有協議的情況下展開這類討論，幾乎沒有什麼意義。"
-    },
-    {
-      "id": "5200301",
-      "time": "2026-11-07 05:30:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝尼奧夫推出由Claude驅動的Agentforce Coworker。"
     }
   ]
 }
