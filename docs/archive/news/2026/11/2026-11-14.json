@@ -1,7 +1,33 @@
 {
   "date": "2026-11-14",
-  "count": 226,
+  "count": 229,
   "items": [
+    {
+      "id": "mkt:01a1d6aa-9de2-7bbc-abdc-8d8b7a5b4128",
+      "time": "2026-11-14 04:47:48",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. Federal Aviation Administration (FAA) says Chicago O'Hare International Airport has implemented a ground stop due to a communications failure."
+    },
+    {
+      "id": "5213911",
+      "time": "2026-11-14 04:46:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：芝加哥奧黑爾機場因通訊問題實施地面停飛。"
+    },
+    {
+      "id": "5213910",
+      "time": "2026-11-14 04:45:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "標普將黑石集團抵押貸款信託的展望下調至負面。"
+    },
     {
       "id": "5213909",
       "time": "2026-11-14 04:44:25",

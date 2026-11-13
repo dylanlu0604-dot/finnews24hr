@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-14 04:44:56",
-  "count": 9751,
+  "updated": "2026-11-14 04:48:36",
+  "count": 9753,
   "items": [
+    {
+      "id": "mkt:01a1d6aa-9de2-7bbc-abdc-8d8b7a5b4128",
+      "time": "2026-11-14 04:47:48",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. Federal Aviation Administration (FAA) says Chicago O'Hare International Airport has implemented a ground stop due to a communications failure."
+    },
+    {
+      "id": "5213911",
+      "time": "2026-11-14 04:46:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：芝加哥奧黑爾機場因通訊問題實施地面停飛。"
+    },
+    {
+      "id": "5213910",
+      "time": "2026-11-14 04:45:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "標普將黑石集團抵押貸款信託的展望下調至負面。"
+    },
     {
       "id": "5213909",
       "time": "2026-11-14 04:44:25",
@@ -88690,14 +88716,6 @@
         "Importance 1"
       ],
       "text": "Brazil 10-Year Yield Cuts Gains to Hover Around 15.19% — Brazil’s 10-year government bond yield trimmed gains to hover around 15.19% in November after President Lula reassured markets on fiscal adjustment. Lula reiterated that his government is committed to fiscal responsibility while also considering social responsibility, amid pressure to announce adjustment measures and a drop in Brazilian assets after his late-October reelection. Investors remain focused on fiscal policy, especially the government’s commitment to controlling spending and public debt, which has risen significantly in recent years. Meanwhile, US nonfarm payrolls increased by 165,000 last month, topping all forecasts, and the unemployment rate edged lower. The stronger figures reinforced expectations that the Fed will maintain a restrictive stance. Higher-for-longer rates in advanced economies could also pressure the BCB to keep policy restrictive. The BCB held the Selic rate at 13.75% at its latest meeting, pausing its easing cycle."
-    },
-    {
-      "id": "5200247",
-      "time": "2026-11-07 04:46:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "投資公司Galapagos裁減全球員工總數的9%。"
     }
   ]
 }
