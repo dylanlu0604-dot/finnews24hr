@@ -1,7 +1,118 @@
 {
-  "updated": "2026-11-13 08:04:55",
-  "count": 9899,
+  "updated": "2026-11-13 08:08:44",
+  "count": 9912,
   "items": [
+    {
+      "id": "5211943",
+      "time": "2026-11-13 08:07:16",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投銀行業2027年投資策略：繼續看好穩健高股息紅利策略】中信建投證券釋出銀行業2027年投資策略報告稱，2026年以來紅利與科技風格輪動延續，高股息策略繼續演繹。資金面來看，險資持續增持、南向資金延續淨買入，公募基金有所增配。今年以來基本面表現改善，負債成本持續最佳化下息差邊際企穩，規模保持大個位數增長，公允價值改善帶動非息收入回暖，部分銀行抓住視窗期主動加速出清存量風險。繼續看好穩健高股息紅利策略，關注績優且兼備紅利屬性的優質銀行。"
+    },
+    {
+      "id": "5211942",
+      "time": "2026-11-13 08:06:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "愛德萬測試股價上漲5%。"
+    },
+    {
+      "id": "5211941",
+      "time": "2026-11-13 08:05:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西參議院批准政府支援的財政方案的主要文字。"
+    },
+    {
+      "id": "mkt:01a1d239-a456-7bbc-abc1-2dfef23b438c",
+      "time": "2026-11-13 08:05:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "Politico reports the chair of the U.S. Senate Banking Committee has subpoenaed NVIDIA CEO Jensen Huang and Lutnick to testify over the NVIDIA controversy."
+    },
+    {
+      "id": "5211940",
+      "time": "2026-11-13 08:05:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【微軟多項服務宕機】微軟旗下Microsoft 365、Outlook（電子郵件）、Teams（即時通訊）及其他應用於美國東部時間11月12日持續中斷多個小時，影響大批使用者。此次宕機還波及美國開放人工智慧研究中心（OpenAI）和安特羅匹克公司（Anthropic）人工智慧服務所使用的連線元件。 截至美國東部時間下午6點，微軟表示仍在努力讓受影響的伺服器恢復服務，並已觀察到有限恢復，使用者正逐步重新連線。據故障追蹤網站資料，美國東部時間下午1點左右，Outlook問題報告量一度達到峰值138058起，到傍晚已降至約34490起。截至美國東部時間下午5點47分，Microsoft 365的問題報告數量已降至近13000起，Teams訪問故障報告為763起。 微軟公司方面當天早些時候稱，故障原因是“多臺伺服器因負載過高意外離線，並非訪問流量激增”。 （CCTV國際時訊）"
+    },
+    {
+      "id": "5211939",
+      "time": "2026-11-13 08:05:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統辦公室：韓國總統李在明將在APEC峰會上與泰國總理阿努廷·參威拉恭舉行峰會。"
+    },
+    {
+      "id": "5211938",
+      "time": "2026-11-13 08:05:00",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投醫藥生物行業2027年投資策略：建議圍繞創新、國際化把握機會】中信建投證券釋出醫藥生物行業2027年投資策略報告稱，2026年前三季度醫藥板塊經營持續改善，2027年趨勢有望延續。展望2027年，創新藥海外臨床與註冊進入密集驗證期，隨著出海增加、戰略聯盟興起，將面對更大的市場和更復雜的競爭環境，機遇和風險並存；CXO訂單轉化與上游需求回暖相互促進，AIDD進一步驅動需求上升。器械業績拐點逐步顯現，中藥及醫藥商業關注經營修復，血製品與疫苗聚焦新品、整合及出海。建議圍繞創新、國際化把握機會，同時建議加大關注邊際改善主線。"
+    },
+    {
+      "id": "5211937",
+      "time": "2026-11-13 08:04:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本5年期國債收益率上升7個基點至2.265%。"
+    },
+    {
+      "id": "5211936",
+      "time": "2026-11-13 08:04:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日經225指數漲幅擴大至1%】日經225指數漲幅擴大至1%，現報61516.31點。"
+    },
+    {
+      "id": "5211935",
+      "time": "2026-11-13 08:03:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破3890美元/盎司，日內漲0.12%。"
+    },
+    {
+      "id": "5211934",
+      "time": "2026-11-13 08:03:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：要讓貨幣政策達到合適的位置，仍有工作要做。"
+    },
+    {
+      "id": "mkt:01a1d236-ee45-7bbc-abc1-236b20d1513e",
+      "time": "2026-11-13 08:02:57",
+      "tags": [
+        "MKT News",
+        "MOD.O",
+        "Impact mixed",
+        "005930.KS"
+      ],
+      "text": "【Samsung Electronics in talks to buy data‑center cooling equipment maker Modine】Samsung Electronics is negotiating to acquire data‑center cooling systems maker Modine Manufacturing Co., sources said. The parties are exploring a possible deal that could be reached within weeks. Modine’s market value is about $5.6 billion. Its shares have fallen about 15% since Nov. 3 after the company reported weaker‑than‑expected fiscal 2027 second‑quarter results. Sources said Samsung has not made a final decision, talks could still collapse, and other bidders may emerge."
+    },
     {
       "id": "mkt:01a1d235-9be1-7bbc-abc1-1b2d37ceb032",
       "time": "2026-11-13 08:01:30",
@@ -95,6 +206,15 @@
         "Impact bearish"
       ],
       "text": "Williams said inflation remains stubbornly high and persistent, and the Fed has been collecting data at a steady pace."
+    },
+    {
+      "id": "em:qqyh_mlc:202611133930273498",
+      "time": "2026-11-13 07:59:34",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲威廉姆斯稱，美國經濟正在走強，但並未過熱。"
     },
     {
       "id": "mkt:01a1d233-b293-7bbc-abc1-015bf2783a5e",
