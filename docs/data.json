@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-13 14:21:01",
-  "count": 9963,
+  "updated": "2026-11-13 14:24:53",
+  "count": 9968,
   "items": [
+    {
+      "id": "te:economy:600980",
+      "time": "2026-11-13 14:21:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Finland Inflation Rises to 3.1% in October — Finland’s annual inflation rate rose to 3.1% in October 2026 from 2.5% in the previous month. It marked the highest reading since January 2024, driven mainly by higher prices for food and non-alcoholic beverages (2.6% vs 1.9% in September), housing and utilities (3% vs 1.6%), and transport (9.6% vs 8.9%). Additional upward pressure came from recreation, sports and culture (1.8% vs 1.5%), furnishings, household equipment and routine household maintenance (3.1% vs. 2.9%), and alcoholic beverages and tobacco (4.3% vs 3.8%). In contrast, price growth slowed for information and communication (3.4% vs 4.5%), restaurants and accommodation services (1.8% vs 2.0%), and health (2.3% vs 2.5%), while remaining unchanged for education at 4.2%. On a monthly basis, consumer prices rose by 0.4%, easing from a 0.7% increase in September."
+    },
+    {
+      "id": "5212416",
+      "time": "2026-11-13 14:21:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【亞洲煉油商將目光重新轉向供應量回升的中東產油國】亞洲煉油商正越來越多地重新轉向中東產油國的原油，從而減少了對包括美國在內的替代供應商的進口需求。經歷數月衝突後，中東原油供應量正在回升。據熟悉此事的交易員透露，亞洲煉油商已增加或恢復了從該地區的採購，其中包括需要穿越仍存在爭議的霍爾木茲海峽的原油。這些交易員因涉及商業事宜而不願具名。他們表示，來自阿聯酋、沙烏地阿拉伯和卡達的原油供應量正在增加。"
+    },
+    {
+      "id": "5212415",
+      "time": "2026-11-13 14:20:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中保投資等在嘉興成立新股權投資合夥企業 出資額約1.05億】天眼查App顯示，近日，中保投智奇辰（嘉興）股權投資合夥企業（有限合夥）成立，執行事務合夥人為中保投資有限責任公司，出資額約1.05億元人民幣，經營範圍為股權投資。合夥人資訊顯示，該合夥企業由嘉興蘊盛凱泓創業投資合夥企業（有限合夥）、江西大道國鼎實業發展有限公司、中保投資有限責任公司共同出資。"
+    },
+    {
+      "id": "5212414",
+      "time": "2026-11-13 14:20:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞幸咖啡在上海成立智研科技公司 註冊資本1000萬】天眼查App顯示，近日，瑞幸智研科技（上海）有限公司成立，法定代表人為王梅傑，註冊資本1000萬元人民幣，經營範圍包括技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣等。股東資訊顯示，該公司由瑞幸咖啡（中國）有限公司全資持股。"
+    },
     {
       "id": "5212413",
       "time": "2026-11-13 14:20:23",
@@ -33,6 +69,15 @@
         "公司"
       ],
       "text": "【頻準鐳射在上海成立波準儀器科技公司 註冊資本500萬】天眼查App顯示，近日，上海波準儀器科技有限公司成立，法定代表人為張磊，註冊資本500萬元人民幣，經營範圍含工程和技術研究和試驗發展、光學儀器製造、電子專用裝置製造等。股東資訊顯示，該公司由上海頻準鐳射科技股份有限公司全資持股。"
+    },
+    {
+      "id": "5212409",
+      "time": "2026-11-13 14:18:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華鑫證券：維持洛陽鉬業“買入”評級，銅產量持續釋放，黃金並表貢獻新增量】華鑫證券研報指出，洛陽鉬業銅產量進一步提升，業績持續高增長。公司2026年前三季度歸母淨利潤240.20億元，同比+68.21%；Q3歸母淨利潤78.67億元，同比+40.28%。銅產量持續釋放，黃金並表貢獻新增量。公司持續推進KFM二期擴建，半年報披露專案土建工作基本完成、主體裝置安裝正在進行，高壓氧釜製造接近50%；截至2026年6月末累計投入6.86億美元。該專案計劃於2027年建成投產，達產後預計新增原礦處理能力726萬噸/年、銅產能約10萬噸/年，構成中期銅產量增量的重要儲備。黃金端，公司年內完成巴西四座在產金礦100%權益交割，專案保有黃金資源量約156噸，平均品位為1.88克/噸；儲量約120噸，平均品位為1.45克/噸。公司預計2026年產金6—8噸，為公司帶來新增產量及利潤貢獻。當前銅價處於上行週期，且公司黃金業務開闢新增長路徑，維持“買入”投資評級。"
     },
     {
       "id": "5212408",
