@@ -1,7 +1,65 @@
 {
-  "updated": "2026-11-13 08:24:28",
-  "count": 9937,
+  "updated": "2026-11-13 08:28:12",
+  "count": 9941,
   "items": [
+    {
+      "id": "5211968",
+      "time": "2026-11-13 08:26:58",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【巴西盧拉政府擬出臺措施，將財政調整目標提升至140億美元】據知情人士透露，面對投資者對公共債務不斷攀升的擔憂，巴西總統盧拉政府正在籌備額外的預算措施，以期改善明年的財政狀況，進一步鞏固公共財政。該知情人士稱，正在審議的提案旨在削減目前被排除在巴西財政目標之外的支出，並限制部分強制性支出。這些提案與本週已提交給國會的措施相結合，有望將2027年的預期財政調整規模提升至約800億雷亞爾（約合142億美元）。由於相關討論屬於機密，該知情人士要求匿名。其表示，盧拉政府計劃將這些措施納入一項擬議的憲法修正案中，併力爭在今年年底前提交給國會。此舉將是對政府週三公佈的一項計劃的補充——當時政府提交了一項立法提案，尋求在2027年將支出削減500億至600億雷亞爾。受此訊息影響，巴西雷亞爾的跌幅一度收窄，同時掉期利率的升幅也有所回落。"
+    },
+    {
+      "id": "5211967",
+      "time": "2026-11-13 08:26:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "賈裡德·庫什納：我們也在努力促成這場戰爭中規模最大的囚犯交換。"
+    },
+    {
+      "id": "mkt:01a1d24c-4f56-7bbc-abc1-5a0081cc345d",
+      "time": "2026-11-13 08:26:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【New York Fed president Williams: inflation too high, action needed in near term】New York Fed president John Williams said US inflation remains too high and policymakers must take further action in the near term to curb price pressures and ensure inflation returns to the 2% target in a timely, sustainable way. He added the Fed should act without unnecessarily damaging the goal of full employment and that, overall, the US economy does not currently appear to be out of balance."
+    },
+    {
+      "id": "5211966",
+      "time": "2026-11-13 08:25:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI Codex產品負責人Tibo：我們今天宣佈了正在開發的新工具，用於網路安全領域，包括自動化修補和自動化紅隊測試。"
+    },
+    {
+      "id": "mkt:01a1d24b-8f23-7bbc-abc1-554d365a6be4",
+      "time": "2026-11-13 08:25:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed",
+        "S&P500",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: Tech leadership changes could amplify short-term market volatility but systemic sell-off risk likely limited】CITIC Securities said NVIDIA CEO Jensen Huang’s departure, combined with shifts in the US political backdrop, could trigger a valuation repricing across the AI supply chain and a style rebalance in US equities, though the medium‑term effect depends on corporate earnings evolution. In tech, markets may short‑term reprice slower AI capex growth and downward revisions to semiconductor earnings; supply‑chain inventory risk appears limited and hardware downside should be manageable. Slower AI capex would improve cloud service providers’ (CSPs’) free cash flow, and, together with a potential retreat in long‑end yields, could support the SaaS sector. For US equities, the midterm elections and tech leadership turnover may increase near‑term volatility but systemic selling pressure is likely limited; as political risk is digested, pricing should refocus on earnings growth and upward revisions to underpin medium‑term performance."
+    },
     {
       "id": "5211965",
       "time": "2026-11-13 08:23:58",
@@ -90574,18 +90632,6 @@
         "觀點"
       ],
       "text": "【中信證券：醫美行業結構性機會持續存在】中信證券研報稱，醫美行業當前處於上游註冊證快速增加的階段，競爭較為激烈，但結構性機會持續存在：差異化新品紅利仍存，營銷獲客、醫學推廣、產品組合、渠道運營等綜合能力強的上游品牌有望在競爭中勝出。下游顯著受益於產業鏈格局變化，能夠夯實自身美譽度、降低獲客成本以及提供綜合解決方案、提升毛利率的下游品牌有望持續提升份額。"
-    },
-    {
-      "id": "te:markets:598844",
-      "time": "2026-11-06 08:27:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Mizuho Financial Shares Hit 23-week Low — Mizuho Financial shares decreased to 7017.00 JPY, the lowest since May 2026. Over the past 4 weeks, Mizuho Financial lost 12.6%, and in the last 12 months, it increased 50.93%."
     }
   ]
 }
