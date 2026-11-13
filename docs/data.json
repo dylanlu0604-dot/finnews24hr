@@ -1,7 +1,106 @@
 {
-  "updated": "2026-11-13 22:09:19",
-  "count": 9867,
+  "updated": "2026-11-13 22:13:12",
+  "count": 9872,
   "items": [
+    {
+      "id": "5213550",
+      "time": "2026-11-13 22:12:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報49.51美元/盎司。"
+    },
+    {
+      "id": "5213549",
+      "time": "2026-11-13 22:11:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗陸軍：數小時前，一架美軍MQ1無人機在科哈斯塔克地區（錫裡克海岸附近）被陸軍鎖定並摧毀。"
+    },
+    {
+      "id": "mkt:01a1d53f-9f31-7bbc-abd6-a61eddc1f53c",
+      "time": "2026-11-13 22:11:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell more than 1.0% intraday to $49.55/oz."
+    },
+    {
+      "id": "mkt:01a1d53f-4b0b-7bbc-abd6-9b7081f27e16",
+      "time": "2026-11-13 22:10:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Collins said rate hikes could impair housing affordability and that fighting inf takes priority over addressing housing distress. He added that housing and the wider economy need long-term price stability."
+    },
+    {
+      "id": "mkt:01a1d53f-45b0-7bbc-abd6-97e39568791e",
+      "time": "2026-11-13 22:10:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "【Mitsubishi UFJ Financial Group: AUD could be hit first in an AI-driven sell-off】Mitsubishi UFJ Financial Group analyst Derek Halpenny said in a report that if an AI-related sell-off occurs, the Australian dollar could be the most vulnerable currency. He cited Australia’s recent surge in data-center construction and other AI investment, which increases the AUD’s sensitivity to AI industry dynamics. Halpenny added the country’s energy and commodity exposure would exacerbate the impact via weaker terms of trade."
+    },
+    {
+      "id": "5213548",
+      "time": "2026-11-13 22:10:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：加息可能損害住房可負擔性。"
+    },
+    {
+      "id": "5213547",
+      "time": "2026-11-13 22:10:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "波士頓聯儲主席柯林斯表示，抗擊通脹的優先順序高於住房困境。"
+    },
+    {
+      "id": "5213546",
+      "time": "2026-11-13 22:09:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：不對貨幣政策前景發表評論。"
+    },
+    {
+      "id": "5213545",
+      "time": "2026-11-13 22:09:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：確保價格穩定是房地產市場的長期利好。"
+    },
+    {
+      "id": "5213544",
+      "time": "2026-11-13 22:09:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：生產率提高有助於抑制部分通脹壓力。"
+    },
     {
       "id": "mkt:01a1d53c-af9a-7bbc-abd6-8d9281f946d2",
       "time": "2026-11-13 22:08:06",
@@ -82,6 +181,15 @@
         "公司"
       ],
       "text": "【馬斯克旗下AI團隊大幅裁撤Grok影片生成團隊】據知情人士透露，SpaceX的人工智慧團隊裁撤了Grok Imagine大部分研發人員，Grok Imagine是該公司用於影片、影象生成的AI工具。上週，SpaceX超級智慧團隊約60名Grok Imagine相關員工被裁員，僅留下少量人員維持產品基本運轉。該工具目前仍可正常使用，但失去專職研發團隊後，它的未來充滿不確定性。 知情人士表示，SpaceX在今年2月以價值2500億美元的股票收購馬斯克旗下AI公司xAI之後，戰略重心轉向AI程式碼工具與GrokBot智慧體產品，優先順序高於其他產品線。8月，SpaceX斥資600億美元收購AI程式碼初創公司Cursor，正是這次戰略調整的一環。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611133930988581",
+      "time": "2026-11-13 22:05:37",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國銀行將2027年1月加息納入預測 預計美聯儲12月、1月及3月各加息25個基點】美國銀行全球研究部（BofA Global Research）將2027年1月美聯儲加息25個基點納入預測，目前預計美聯儲將在2026年12月、2027年1月和3月分別加息25個基點。"
     },
     {
       "id": "mkt:01a1d53a-4c81-7bbc-abd6-6167cdbdc9fb",
@@ -89919,57 +90027,6 @@
         "國際"
       ],
       "text": "俄羅斯央行：將 11 月 7 日盧布兌美元官方匯率設定為 82.1386 盧布兌 1 美元（前值為 81.7947）。"
-    },
-    {
-      "id": "5199863",
-      "time": "2026-11-06 22:12:49",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "歐洲央行考慮審查向資料中心提供的銀行貸款。"
-    },
-    {
-      "id": "5199862",
-      "time": "2026-11-06 22:12:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈塞特：特朗普尊重那些不希望建設資料中心的地區。"
-    },
-    {
-      "id": "5199861",
-      "time": "2026-11-06 22:12:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮國家經濟委員會主任哈塞特：資料中心增長仍有充足空間延續。"
-    },
-    {
-      "id": "5199860",
-      "time": "2026-11-06 22:11:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "福克斯公司完成對Roku的收購。"
-    },
-    {
-      "id": "5199859",
-      "time": "2026-11-06 22:10:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "信件顯示，美國眾議院金融服務委員會民主黨最高委員馬克辛·沃特斯呼籲議員讓她重新擔任委員會主席。"
-    },
-    {
-      "id": "5199858",
-      "time": "2026-11-06 22:09:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國能源部：特朗普政府推遲白宮技術會議，該會議原計劃包括英偉達的黃仁勳和 Meta 的扎克伯格。"
     }
   ]
 }
