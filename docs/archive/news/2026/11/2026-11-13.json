@@ -1,7 +1,49 @@
 {
   "date": "2026-11-13",
-  "count": 724,
+  "count": 728,
   "items": [
+    {
+      "id": "5212019",
+      "time": "2026-11-13 09:06:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達CEO的最後時光 知情人士透露：黃仁勳最後開始頻繁使用“隨便”和“我不在乎”等字眼】據報道，到最後時刻，黃仁勳看起來已經身心俱疲、徹底崩潰，他傳奇般的精力也消耗殆盡。在連續數週否認不忠指控並竭力保住英偉達公司執行長的職位後，他於週三深夜做出了無條件投降。據知情人士透露，黃仁勳以往那種大權在握、發號施令的作風已蕩然無存，他開始頻繁使用“隨便吧”和“我不在乎”這樣的字眼。在將英偉達打造成市值數萬億美元的AI晶片巨頭的數十年裡，黃仁勳以對細節的極致關注而聞名，小到晶片架構，大到公司最基層員工的薪酬方案，他都要過問。但如今，在在場人士的眼中，他已經徹底放棄。對於這位億萬富翁和科技巨頭而言，這場隕落來得極其迅速。就在兩週前，他還是全球人工智慧領域的標誌性人物。他憑藉直率和活力，不僅贏得了美國總統唐納德·特朗普的青睞，塑造了全球科技政策，還在他如同教皇出訪般的國際行程中吸引了無數狂熱的追隨者。"
+    },
+    {
+      "id": "5212018",
+      "time": "2026-11-13 09:04:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "中芯國際聯席CEO趙海軍：需要計算資源的企業客戶仍面臨短缺。"
+    },
+    {
+      "id": "mkt:01a1d26e-c767-7bbc-abc2-3c63a9bdc7db",
+      "time": "2026-11-13 09:03:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Jan–Oct trade in nine mainland Greater Bay Area cities 9.46 trln yuan, +26% YoY】Guangdong branch of Customs says Jan–Oct combined imports and exports for nine mainland Greater Bay Area cities totaled 9.46 trillion yuan, up 26% YoY and 6 percentage points faster than national foreign trade growth. The region accounted for 21.1% of China’s total imports and exports, up 1 percentage point from a year earlier. Exports were 5.54 trillion yuan, up 15.1%; imports were 3.92 trillion yuan, up 45.4%."
+    },
+    {
+      "id": "te:markets:600906",
+      "time": "2026-11-13 09:02:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Head for Weekly Gains — The Nikkei 225 Index climbed 1.5% to above 61,700 on Friday, posting gains in four of the past five sessions and putting the index up more than 7% for the week, its strongest weekly performance since June. Japanese equities recovered from Thursday’s losses as investors reassessed the broader implications of Nvidia’s leadership changes for the artificial intelligence sector. Nvidia CEO Jensen Huang stepped down following reports of extramarital affairs, with CFO Colette Kress assuming the role of interim CEO. Meanwhile, market participants are anticipating Anthropic’s highly awaited IPO next week, which has attracted orders equivalent to roughly six times the shares available, highlighting strong investor demand for the AI company. Technology and AI-related stocks led the market rebound, including Kioxia Holdings (2.8%), Advantest (6.4%), Tokyo Electron (2.9%), Lasertec (2.9%) and Ibiden Co (2.5%)."
+    },
     {
       "id": "5212017",
       "time": "2026-11-13 09:01:38",
