@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-13 13:49:20",
-  "count": 9907,
+  "updated": "2026-11-13 13:53:14",
+  "count": 9910,
   "items": [
+    {
+      "id": "5212371",
+      "time": "2026-11-13 13:51:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.00%，現報10973.541點；上證指數跌0.63%，現報3632.908點；創業板指跌3.28%，現報2427.127點。"
+    },
+    {
+      "id": "5212370",
+      "time": "2026-11-13 13:51:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "中證1000股指期貨(IM)主力合約日內跌超3%，現報6303.6點。"
+    },
+    {
+      "id": "mkt:01a1d374-4a56-7bbc-abc6-f645d67985f5",
+      "time": "2026-11-13 13:49:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share 'Zhong' concept stocks saw pockets of afternoon strength. Zhongcheng Co. jumped to its daily limit; China Railway Assembly, Zhongshi Media, China Textile Standards, China Haicheng and COFCO Tech & Industry also rallied."
+    },
+    {
+      "id": "5212369",
+      "time": "2026-11-13 13:49:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報49.56美元/盎司。"
+    },
     {
       "id": "5212368",
       "time": "2026-11-13 13:48:22",
@@ -90314,18 +90350,6 @@
         "Importance 1"
       ],
       "text": "Estonia Inflation Rises to 11-Month High — The annual inflation rate in Estonia climbed to 4.2% in October 2026 from 3.5% in the previous month, marking the highest reading since November 2025. The acceleration was mainly driven by higher transport and housing costs, which rose 13.9% and 7.5%, respectively. Transport inflation was fueled by sharp increases in gasoline (38.2%) and diesel prices (59.7%), while housing costs were pushed up by higher piped gas, wood fuel and waste collection charges. Additionally, food inflation turned positive, with prices rising 0.7% after declining in September, led by more expensive vegetables, prepared foods and soft drinks, while prices also increased for alcoholic beverages (6%), healthcare (3.2%), and miscellaneous goods and services (3.8%). In contrast, costs declined for education (-8.4%) and insurance and financial services (-3.1%). On a monthly basis, consumer prices increased by 0.6% in October, slowing from a 0.4% gain in September, which was the fastest rise in eight months."
-    },
-    {
-      "id": "te:markets:598935",
-      "time": "2026-11-06 13:50:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Ends 0.7% Lower but Posts 2nd Weekly Gain — The NZX 50 fell 92 points, or 0.7%, to close at 13,999 on Friday, retreating from a record high touched a day earlier, tracking a fall on Wall Street overnight amid a plunge in AI-related chipmaker stocks, as traders assessed the implications of the Democrats' sweeping victory on Tuesday. The broader index fell after marking its best single-day trading session in nearly 19 months on Thursday. Rising oil prices also pressured sentiment as inflation and interest-rate-hike concerns grew amid renewed risks of a US-Iran conflict. Caution was also built ahead of the release of US jobs data later today, Chinese CPI, PPI, and trade data, as well as US inflation data next week and Saturday's general election. Almost all sectors traded in the red, led by consumer staples, with the worst performers including Sanford (-3.6%), F&C Investment (-2.8%), Infratil (-1.9%), A2 Milk (-1.7%), and Mainfreight (-1.1%). For the week, the index rose 1.5%, marking its second straight weekly gain."
     }
   ]
 }
