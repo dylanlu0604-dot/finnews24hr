@@ -1,7 +1,191 @@
 {
   "date": "2026-11-14",
-  "count": 249,
+  "count": 264,
   "items": [
+    {
+      "id": "mkt:01a1d6bb-caf1-7bbc-abdd-165d30885eb0",
+      "time": "2026-11-14 05:06:33",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "S&P affirms Italy's \"BBB+/A-2\" sovereign rating and maintains a positive outlook."
+    },
+    {
+      "id": "5213937",
+      "time": "2026-11-14 05:06:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100 ETF盤後下跌0.7%。"
+    },
+    {
+      "id": "5213936",
+      "time": "2026-11-14 05:06:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：由於雙重赤字不斷擴大，保加利亞的展望從正面調整為穩定；“BBB+/A-2”評級維持不變。"
+    },
+    {
+      "id": "5213935",
+      "time": "2026-11-14 05:05:38",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲半年度金融穩定報告警示AI與高估值風險】美聯儲在週五釋出的半年度金融穩定報告中，對人工智慧（AI）及高資產估值帶來的潛在脆弱性發出警告。美聯儲指出，股票估值指標持續高企，部分受市場對“超級智慧”的熱情推動。不過，這種熱情已因對企業資本支出和債務發行計劃的擔憂而有所降溫。美聯儲官員 Michelle Bowman 本週早些時候警告，若AI投資回報不及預期，可能導致股價大幅下跌。報告及官員均關注到科技巨頭與初創企業間複雜的“迴圈融資”安排（circular deals）及表外負債風險。基於對市場參與者的調查，受訪者認為AI降低了複雜網路攻擊的門檻，增加了金融市場面臨的網路風險。此外，風險資產回撥、長期利率上升及財政債務可持續性也被列為近期的主要脆弱性來源。"
+    },
+    {
+      "id": "mkt:01a1d6ba-632e-7bbc-abdd-0cb639ee20c2",
+      "time": "2026-11-14 05:05:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve report: risk to fiscal debt sustainability rose two ranks to become the fifth-largest risk to the financial system."
+    },
+    {
+      "id": "mkt:01a1d6ba-4ba7-7bbc-abdd-07210d9ae751",
+      "time": "2026-11-14 05:04:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve report: some respondents warned that persistent fiscal deficits and heavy U.S. Treasury issuance could trigger disorderly rises in yields."
+    },
+    {
+      "id": "mkt:01a1d6ba-361f-7bbc-abdc-fc3bc1c77282",
+      "time": "2026-11-14 05:04:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve report: vulnerabilities tied to financial leverage remain significant; hedge fund leverage has climbed to its highest level since 2013."
+    },
+    {
+      "id": "mkt:01a1d6ba-0b2e-7bbc-abdc-f32774a88b55",
+      "time": "2026-11-14 05:04:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed report: through October 2026, issuance of advanced computing-related debt exceeded $680 billion, roughly five times the 2023 level."
+    },
+    {
+      "id": "mkt:01a1d6b9-e039-7bbc-abdc-ed36b43618ad",
+      "time": "2026-11-14 05:04:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact mixed",
+        "US10Y"
+      ],
+      "text": "Federal Reserve report: advanced-computing-related borrowing now accounts for 31% of nonfinancial investment-grade corporate bond issuance."
+    },
+    {
+      "id": "mkt:01a1d6b9-c191-7bbc-abdc-e7c57d3a20a8",
+      "time": "2026-11-14 05:04:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve report names artificial intelligence the top risk facing the financial system."
+    },
+    {
+      "id": "mkt:01a1d6b9-7924-7bbc-abdc-dc0140afb91b",
+      "time": "2026-11-14 05:04:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve report: 87% of survey respondents identified artificial intelligence as a significant risk to financial stability."
+    },
+    {
+      "id": "mkt:01a1d6b9-7382-7bbc-abdc-d47ad3855889",
+      "time": "2026-11-14 05:04:00",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "On Nov. 13 (Friday), the Dow Jones Industrial Average closed up 50.46 points, or 0.10%, at 52,347.55; the S&P 500 closed down 30.73 points, or 0.40%, at 7,561.67; the Nasdaq Composite closed down 229.82 points, or 0.91%, at 25,136.27."
+    },
+    {
+      "id": "mkt:01a1d6b9-6992-7bbc-abdc-c89bf91c5fb7",
+      "time": "2026-11-14 05:03:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bullish",
+        "SOXX.O",
+        "XLK.O"
+      ],
+      "text": "Federal Reserve report: investment in AI computing continues to accelerate; the current investment cycle may soon surpass the scale of the 1990s telecom investment cycle."
+    },
+    {
+      "id": "5213933",
+      "time": "2026-11-14 05:03:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認義大利“BBB+/A-2”評級，展望正面。"
+    },
+    {
+      "id": "5213932",
+      "time": "2026-11-14 05:03:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價連續第六週下跌，創2012年以來最長連跌紀錄。"
+    },
     {
       "id": "mkt:01a1d6b8-69cc-7bbc-abdc-c298682a4d0c",
       "time": "2026-11-14 05:02:52",
