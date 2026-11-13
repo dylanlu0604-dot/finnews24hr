@@ -1,7 +1,28 @@
 {
   "date": "2026-11-14",
-  "count": 273,
+  "count": 275,
   "items": [
+    {
+      "id": "mkt:01a1d6c2-56f1-7bbc-abdd-2d38ce855259",
+      "time": "2026-11-14 05:13:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "Soros Fund Management reduced its stake in NVIDIA (NVDA.O) by 19.3% to 858,822 shares."
+    },
+    {
+      "id": "5213947",
+      "time": "2026-11-14 05:12:38",
+      "tags": [
+        "觀點"
+      ],
+      "text": "惠譽確認摩根大通旗下兩隻貨幣市場基金的評級為“AAAMMF”。"
+    },
     {
       "id": "5213945",
       "time": "2026-11-14 05:09:57",
