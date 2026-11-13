@@ -1,7 +1,448 @@
 {
   "date": "2026-11-13",
-  "count": 1554,
+  "count": 1598,
   "items": [
+    {
+      "id": "mkt:01a1d51c-8435-7bbc-abd5-446726c0a7a1",
+      "time": "2026-11-13 21:32:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada manufacturing new orders MoM +3.9% in September, prior -0.7%."
+    },
+    {
+      "id": "mkt:01a1d51c-649e-7bbc-abd5-3f5b09466465",
+      "time": "2026-11-13 21:32:50",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing New Orders (MoM) (Sep) | actual 3.9% | previous -0.7%"
+    },
+    {
+      "id": "mkt:01a1d51c-5f5d-7bbc-abd5-344502d92d25",
+      "time": "2026-11-13 21:32:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada manufacturing unfilled orders, Sep: MoM +2.1% (prev 0.0%)."
+    },
+    {
+      "id": "5213466",
+      "time": "2026-11-13 21:32:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行行長加利波羅：貨幣政策委員會將根據通脹目標設定利率。"
+    },
+    {
+      "id": "5213465",
+      "time": "2026-11-13 21:32:43",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "彭博美元指數下跌，此前PPI增幅低於預期。"
+    },
+    {
+      "id": "mkt:01a1d51c-3c4e-7bbc-abd5-2a823cb55681",
+      "time": "2026-11-13 21:32:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Unfilled Orders (MoM) (Sep) | actual 2.1% | previous 0%"
+    },
+    {
+      "id": "5213464",
+      "time": "2026-11-13 21:32:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大9月未完成訂單增加2.1%；庫存增加1.7%；庫存銷售比為1.63。"
+    },
+    {
+      "id": "5213463",
+      "time": "2026-11-13 21:32:33",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "新興市場貨幣指數在美國PPI資料公佈後收窄跌幅。"
+    },
+    {
+      "id": "5213462",
+      "time": "2026-11-13 21:32:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大9月份工廠新訂單較8月份增長3.9%，8月份資料由-0.7%修正為-0.6%。"
+    },
+    {
+      "id": "5213461",
+      "time": "2026-11-13 21:32:09",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "美國生產者物價指數(PPI)資料公佈後，現貨黃金<XAU=>擴大漲幅，最新上漲0.5%，報每盎司3,894.57美元。"
+    },
+    {
+      "id": "mkt:01a1d51b-bb49-7bbc-abd5-25a352fd4f60",
+      "time": "2026-11-13 21:32:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Futures on the three major US stock indexes extended gains after October PPI; US Treasury yields moved — the 2-year Treasury yield fell 2.64 bps to 4.853%, the 10-year Treasury yield rose 3.42 bps to 5.125%."
+    },
+    {
+      "id": "em:jjsj_jndsj:202611133930934993",
+      "time": "2026-11-13 21:32:02",
+      "tags": [
+        "經濟數據",
+        "加拿大"
+      ],
+      "text": "【加拿大9月批發銷售環比增長0.7%】加拿大9月批發銷售環比增長0.7%，預期增長0.5%，前值下降1.60%。"
+    },
+    {
+      "id": "5213460",
+      "time": "2026-11-13 21:32:01",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "PPI漲幅低於預期，國債價格小幅走高。"
+    },
+    {
+      "id": "5213459",
+      "time": "2026-11-13 21:31:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在生產者價格指數資料公佈後下跌；10年期美國國債收益率最新上漲3.42個基點，至5.125%。"
+    },
+    {
+      "id": "5213458",
+      "time": "2026-11-13 21:31:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率最新下跌2.64個基點，至4.853%。"
+    },
+    {
+      "id": "5213457",
+      "time": "2026-11-13 21:31:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "兩年期和10年期美國國債收益率差最新為正28.3。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202611133930934146",
+      "time": "2026-11-13 21:31:42",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國10月核心PPI同比增長5% 預期5%】美國10月核心PPI同比增長5%，預期5%，前值5%；10月核心PPI環比增長0.3%，預期0.3%，前值由0.7%修正為0.8%。"
+    },
+    {
+      "id": "5213456",
+      "time": "2026-11-13 21:31:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "資料公佈後，現貨黃金短線走高約20美元，現報3894.43美元/盎司。"
+    },
+    {
+      "id": "5213455",
+      "time": "2026-11-13 21:31:26",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "美國股指期貨在10月PPI資料公佈後擴大漲幅。"
+    },
+    {
+      "id": "mkt:01a1d51b-1a1a-7bbc-abd5-1df4a22ca448",
+      "time": "2026-11-13 21:31:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "After data release, spot gold briefly rose about $20 to $3,894.43/oz."
+    },
+    {
+      "id": "5213454",
+      "time": "2026-11-13 21:31:15",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "標普500指數期貨在PPI資料公佈後上漲0.6%，至盤前高點。"
+    },
+    {
+      "id": "5213453",
+      "time": "2026-11-13 21:31:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大9月工廠銷售額環比持平；預計增長0.1%。"
+    },
+    {
+      "id": "5213452",
+      "time": "2026-11-13 21:31:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "加拿大9月批發（不含石油）價格環比上漲0.7%；預期上漲0.5%。"
+    },
+    {
+      "id": "mkt:01a1d51a-7fe9-7bbc-abd5-14e1198eb316",
+      "time": "2026-11-13 21:30:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "【US October PPI YoY at 6.5%, highest since Nov 2022】US October PPI rose 6.5% YoY, the highest since November 2022, below consensus of 6.6%. PPI rose 0.3% MoM in October, below consensus 0.4%."
+    },
+    {
+      "id": "5213451",
+      "time": "2026-11-13 21:30:45",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國10月PPI年率升至近四年來最高水平】美國10月PPI年率錄得6.5%，為2022年11月以來最高水平，低於市場預期的6.6%。10月PPI月率錄得0.3%，低於市場預期的0.4%。"
+    },
+    {
+      "id": "mkt:01a1d51a-1d91-7bbc-abd5-0f742b67a3f3",
+      "time": "2026-11-13 21:30:20",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US core PPI MoM for October 0.3%, expected 0.30%; September reading revised up from 0.70% to 0.8%."
+    },
+    {
+      "id": "5213450",
+      "time": "2026-11-13 21:30:19",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國10月生產者價格指數同比上漲6.5%；預期上漲6.6%。"
+    },
+    {
+      "id": "mkt:01a1d51a-1466-7bbc-abd5-026ad42af36f",
+      "time": "2026-11-13 21:30:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US October PPI m/m 0.3% vs 0.4% expected; September revised up to 1.4% from 1.3%."
+    },
+    {
+      "id": "mkt:01a1d51a-0c97-7bbc-abd4-fc118871d961",
+      "time": "2026-11-13 21:30:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US October PPI YoY 6.5% vs 6.6% expected; prior 6.3%."
+    },
+    {
+      "id": "em:jjsj_mgsj:202611133930933912",
+      "time": "2026-11-13 21:30:15",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國10月PPI同比增長6.5% 低於市場預期】美國10月生產者價格指數（PPI）同比增長6.5%，預估為6.6%，前值為6.3%。環比上漲0.3%，預估為0.4%。"
+    },
+    {
+      "id": "5213449",
+      "time": "2026-11-13 21:30:12",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國10月生產者價格指數環比上漲0.3%；預期上漲0.4%。"
+    },
+    {
+      "id": "mkt:01a1d51a-0bfd-7bbc-abd4-f61b28f7b45f",
+      "time": "2026-11-13 21:30:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Canada September manufacturing shipments MoM 0.0% vs 0.1% expected; prior 1.5%."
+    },
+    {
+      "id": "mkt:01a1d519-f94f-7bbc-abd4-ed796a246af1",
+      "time": "2026-11-13 21:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada wholesale sales rose 0.7% MoM in September vs. 0.5% expected; prior -1.6%."
+    },
+    {
+      "id": "mkt:01a1d519-f8c1-7bbc-abd4-e5382054cd36",
+      "time": "2026-11-13 21:30:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "US core PPI YoY (Oct) 5.0% vs. 5.0% expected; prior 5.0%."
+    },
+    {
+      "id": "mkt:01a1d519-dc75-7bbc-abd4-df6914d2e9a3",
+      "time": "2026-11-13 21:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PPI (YoY) (Oct) | actual 6.5% | consensus 6.6% | previous 6.30%"
+    },
+    {
+      "id": "mkt:01a1d519-dc21-7bbc-abd4-d67c20a52c28",
+      "time": "2026-11-13 21:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PPI (MoM) (Oct) | actual 0.3% | consensus 0.30% | previous 0.70%"
+    },
+    {
+      "id": "5213448",
+      "time": "2026-11-13 21:30:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重慶市農投集團原黨委書記、董事長何勇嚴重違紀違法被開除黨籍】重慶市紀委監委13日通報，經重慶市委批准，重慶市紀委監委對重慶市農業投資集團有限公司原黨委書記、董事長何勇嚴重違紀違法問題進行了立案審查調查。（新華社）"
+    },
+    {
+      "id": "mkt:01a1d519-da92-7bbc-abd4-ce0ca59bcccc",
+      "time": "2026-11-13 21:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PPI (MoM) (Oct) | actual 0.3% | consensus 0.40% | previous 1.30%"
+    },
+    {
+      "id": "mkt:01a1d519-d989-7bbc-abd4-c44b1f3578a3",
+      "time": "2026-11-13 21:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PPI (YoY) (Oct) | actual 5% | consensus 5% | previous 5.00%"
+    },
+    {
+      "id": "mkt:01a1d519-d798-7bbc-abd4-bcbcc6d31db1",
+      "time": "2026-11-13 21:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Sales (MoM) (Sep) | actual 0.7% | consensus 0.5% | previous -1.60%"
+    },
+    {
+      "id": "mkt:01a1d519-d671-7bbc-abd4-b2f9e54db35c",
+      "time": "2026-11-13 21:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Sales (MoM) (Sep) | actual 0% | consensus 0.1% | previous 1.50%"
+    },
+    {
+      "id": "mkt:01a1d519-15bc-7bbc-abd4-af88ed71f502",
+      "time": "2026-11-13 21:29:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Guinea crackdown on artisanal gold miners leaves 10 dead】Guinean security forces clashed with protesters demanding the reopening of northeast artisanal gold mines, killing 10 people, including five foreign nationals, and wounding 13 civilians and security personnel, the government said. Protesters burned three security vehicles and seized one military weapon. Prosecutors have been asked to investigate the violence. According to World Gold Council and Guinea mining ministry data, Guinea is the world’s largest bauxite producer and Africa’s sixth-largest gold producer; artisanal miners account for the bulk of output. Guinea exported about 2.4m oz of gold last year, roughly 1.8m oz from artisanal mining; industrial producers supplied 555,529 oz and semi‑industrial producers 101,800 oz."
+    },
+    {
+      "id": "5213447",
+      "time": "2026-11-13 21:29:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行行長加里波洛：央行的職責不是提供任何形式的財務諮詢、為任何人擔保回報或提供任何型別的指導。"
+    },
+    {
+      "id": "5213446",
+      "time": "2026-11-13 21:28:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行行長加利波洛：巴西央行不會就下一步行動發出訊號。"
+    },
     {
       "id": "5213445",
       "time": "2026-11-13 21:27:26",
