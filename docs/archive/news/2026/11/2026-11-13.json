@@ -1,7 +1,274 @@
 {
   "date": "2026-11-13",
-  "count": 1779,
+  "count": 1807,
   "items": [
+    {
+      "id": "5213606",
+      "time": "2026-11-13 22:40:19",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：美國國債市場目前執行良好，即使在利率大幅波動的情況下，交易仍在順利進行。"
+    },
+    {
+      "id": "5213605",
+      "time": "2026-11-13 22:40:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克外長：美國對伊拉克與伊朗邊境口岸實施限制對伊拉克而言難以執行，並稱這些限制相當於對伊拉克人民的制裁。"
+    },
+    {
+      "id": "5213604",
+      "time": "2026-11-13 22:38:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國巴黎銀行定價發行5億英鎊6年期不可贖回5年的債券，票面利率較英國國債收益率高140個基點。"
+    },
+    {
+      "id": "mkt:01a1d558-cc48-7bbc-abd7-598d844c187f",
+      "time": "2026-11-13 22:38:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Strategist: Hawkish Fed bets support dollar but leave it vulnerable to repricing shock】Futures markets price a Fed rate hike in December, with some contracts implying a 50bp move. Corpay chief market strategist Karl Schamotta said a hawkish Fed is dollar‑positive because persistently wide rate differentials appear likely to continue supporting the currency into year‑end, but added further gains may prove difficult. He flagged the dollar as overbought versus the euro, pound, yen and Canadian dollar and susceptible to a final repricing shock."
+    },
+    {
+      "id": "mkt:01a1d558-b72c-7bbc-abd7-5364999f603b",
+      "time": "2026-11-13 22:38:43",
+      "tags": [
+        "MKT News",
+        "Nasdaq100"
+      ],
+      "text": "Nasdaq says an earlier email issue has been resolved."
+    },
+    {
+      "id": "mkt:01a1d558-a618-7bbc-abd7-49df508c5eb9",
+      "time": "2026-11-13 22:38:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "Dow",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "S&P 500 erased opening gains; Nasdaq 100 fell 0.5%; Dow Jones Industrial Average rose 0.2%."
+    },
+    {
+      "id": "5213603",
+      "time": "2026-11-13 22:37:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：美國商業地產抵押貸款支援證券（CMBS）辦公室拖欠率在10月攀升至歷史新高。"
+    },
+    {
+      "id": "mkt:01a1d557-c9fe-7bbc-abd7-435710eedaa6",
+      "time": "2026-11-13 22:37:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) erased early gains and turned down 1.3%."
+    },
+    {
+      "id": "5213602",
+      "time": "2026-11-13 22:37:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克：此前的電子郵件問題已得到解決。"
+    },
+    {
+      "id": "5213601",
+      "time": "2026-11-13 22:37:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克綜合指數轉跌，最新下跌0.2%。"
+    },
+    {
+      "id": "5213600",
+      "time": "2026-11-13 22:36:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "勞氏公司股價下跌1%，此前Stifel將其評級從持有下調至賣出。"
+    },
+    {
+      "id": "5213599",
+      "time": "2026-11-13 22:36:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星艦42號正準備發射。"
+    },
+    {
+      "id": "mkt:01a1d556-acc3-7bbc-abd7-3eb3428b36e9",
+      "time": "2026-11-13 22:36:29",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Nov. 13 (Friday) open: Dow Jones Industrial Average +194.58 pts (+0.37%) to 52,491.67; Nasdaq Composite +8.02 pts (+0.03%) to 25,374.12; S&P 500 +26.31 pts (+0.35%) to 7,619.26."
+    },
+    {
+      "id": "5213598",
+      "time": "2026-11-13 22:35:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達股價回吐盤前漲幅，最新下跌0.6%。"
+    },
+    {
+      "id": "mkt:01a1d555-3c3e-7bbc-abd7-371cceef3951",
+      "time": "2026-11-13 22:34:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) shares rose 1.44% to $360.005 per share, hitting a fresh record high and lifting the company's market value to $5.23 trillion."
+    },
+    {
+      "id": "5213597",
+      "time": "2026-11-13 22:34:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "維珍銀河第三季度業績公佈後，股價下跌 14.6%。"
+    },
+    {
+      "id": "5213596",
+      "time": "2026-11-13 22:34:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Stone股價在紐約市場下跌3.9%，此前公司釋出了財報。"
+    },
+    {
+      "id": "5213595",
+      "time": "2026-11-13 22:34:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【蘋果股價升至360美元/股 再次續刷記錄新高】蘋果股價上漲1.44%，報360.005美元/股，續刷記錄新高，總市值報5.23萬億美元。"
+    },
+    {
+      "id": "5213594",
+      "time": "2026-11-13 22:34:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "思科第一季度毛利率下降，股價下跌2%。"
+    },
+    {
+      "id": "5213593",
+      "time": "2026-11-13 22:34:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "NuBank在紐約市場上漲4%，此前其第三季度淨利潤超出預期。"
+    },
+    {
+      "id": "5213592",
+      "time": "2026-11-13 22:34:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國銀金租：擬9.81億元購買廣東數寰智聯資訊科技計算機裝置】國銀金租在港交所公告，公司於2026年11月13日與廣東數寰智聯科技有限公司訂立產品採購協議，擬以約9.81億元人民幣的總代價購買資訊科技計算機裝置。該代價將以公司自有資金及/或商業銀行貸款支付。交易完成後，公司將作為出租人與第三方承租人簽訂經營租賃合同，將採購標的以經營租賃模式出租。"
+    },
+    {
+      "id": "5213591",
+      "time": "2026-11-13 22:33:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "能源業ETF漲0.89%，在美股盤初領跑行業ETF，金融業ETF漲0.64%，網路股指數ETF漲0.41%，全球科技股指數ETF跌0.2%，科技行業ETF跌0.37%，半導體ETF跌0.63%。"
+    },
+    {
+      "id": "5213590",
+      "time": "2026-11-13 22:33:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST金頂：嵩州投資無償劃轉獲金元興51%股權 間接持股20.50%】ST金頂公告稱，資訊披露義務人洛陽嵩州投資發展集團有限公司透過無償劃轉方式受讓洛陽國苑投資控股集團有限公司持有的洛陽金元興投資有限公司51%股權。劃轉完成後，嵩州投資透過金元興間接支配ST金頂7155.35萬股股份對應的表決權，佔公司總股本的20.50%，上市公司實際控制人仍為洛陽市人民政府，本次權益變動未觸發要約收購義務。"
+    },
+    {
+      "id": "5213589",
+      "time": "2026-11-13 22:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：智利西部發生5.2級地震。"
+    },
+    {
+      "id": "5213588",
+      "time": "2026-11-13 22:33:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "微軟股價下跌 1.4%；服務中斷恢復工作仍在繼續。"
+    },
+    {
+      "id": "5213587",
+      "time": "2026-11-13 22:33:13",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【波士頓聯儲行長暗示可能需要進一步加息以遏制通脹】波士頓聯儲行長蘇珊·柯林斯週五暗示，可能需要收緊貨幣政策以遏制通脹。柯林斯在一場以住房市場為主題的演講中表示，更高的利率可能削弱住房負擔能力。儘管如此，她補充稱，確保物價穩定從長期來看將有利於住房市場和整體經濟。“短期而言，為給經濟降溫並控制通脹，有時需要提高利率，而這可能導致購房和建房的成本上升，”柯林斯在為波士頓聯儲年度經濟會議準備的講話中表示。“但從長期來看，物價穩定能夠創造可預測的經濟環境，這有利於住房市場。”美聯儲9月實施三年來首次利率上調後，10月會議維持基準利率不變。在10月通脹資料高於預期後，多位決策者暗示支援12月加息。根據聯邦基金期貨定價，投資者目前預期美聯儲將在12月和1月加息，並將在3月或4月再加息一次。"
+    },
+    {
+      "id": "5213586",
+      "time": "2026-11-13 22:32:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利恢復對福克斯公司的覆蓋，評級為增持，目標價90美元。"
+    },
+    {
+      "id": "5213585",
+      "time": "2026-11-13 22:32:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價漲幅收窄至 0.7%，此前截至週四收盤，該股本週已累計下跌近 11%。"
+    },
     {
       "id": "5213584",
       "time": "2026-11-13 22:32:32",
