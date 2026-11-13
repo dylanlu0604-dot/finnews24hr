@@ -1,7 +1,94 @@
 {
   "date": "2026-11-13",
-  "count": 679,
+  "count": 688,
   "items": [
+    {
+      "id": "mkt:01a1d261-bc70-7bbc-abc1-e13268ea4a9f",
+      "time": "2026-11-13 08:49:42",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【BESSENT says tax code contains many economically meaningless 'tax tricks'】BESSENT said he is watching whether Democrats genuinely intend to reduce US debt and suggested the Trump administration would be willing to include eliminating some tax-code 'tricks' in a deficit-reduction package. He said \"we'll see\" if Democrats take normal action and show willingness to push debt gradually lower, adding many tax-code provisions are economically meaningless and canceling them \"is not a tax increase\" — it could raise revenue without raising rates."
+    },
+    {
+      "id": "5211991",
+      "time": "2026-11-13 08:48:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破3890美元/盎司，日內漲0.35%。"
+    },
+    {
+      "id": "5211989",
+      "time": "2026-11-13 08:48:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海聯金匯：聯動優勢業務團隊有做過AI漫劇方面的業務嘗試 對公司經營業績基本沒有影響】海聯金匯(002537)在互動平臺表示，聯動優勢業務團隊有做過AI漫劇方面的業務嘗試，試點製作少量漫劇並投放媒體，但目前投入的資源及相應的產出均很少，對公司經營業績基本沒有影響，亦不構成公司未來的重點業務方向。公司將在做大做強主業的基礎上，積極關注並審慎推進創新業務發展機會。"
+    },
+    {
+      "id": "mkt:01a1d25f-f56c-7bbc-abc1-dd5db1824356",
+      "time": "2026-11-13 08:47:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China margin balances up CNY 685 mln on Nov 12】As of Nov 12, Shanghai Stock Exchange margin balance CNY 1,177.94 bln (+CNY 1,186 mln); Shenzhen Stock Exchange CNY 1,088.39 bln (-CNY 501 mln); combined CNY 2,266.33 bln (+CNY 685 mln)."
+    },
+    {
+      "id": "5211988",
+      "time": "2026-11-13 08:47:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額增加6.85億元】截至11月12日，上交所融資餘額報11779.36億元，較前一交易日增加11.86億元；深交所融資餘額報10883.93億元，較前一交易日減少5.01億元；兩市合計22663.29億元，較前一交易日增加6.85億元。"
+    },
+    {
+      "id": "mkt:01a1d25f-9828-7bbc-abc1-d35b94d3bfd8",
+      "time": "2026-11-13 08:47:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00017.HK"
+      ],
+      "text": "Hong Kong-listed New World Development (00017.HK) will be placed under a short trading halt from 09:00 HKT today."
+    },
+    {
+      "id": "5211987",
+      "time": "2026-11-13 08:47:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：美國經濟易受人工智慧熱情轉變的影響。"
+    },
+    {
+      "id": "te:markets:600899",
+      "time": "2026-11-13 08:46:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Equities Slip Further but Heads for Third Weekly Gain — Australian stocks fell 73 points, or 0.8%, to 9,074 in Friday morning trade, extending prior losses amid broad-based declines, led by logistics, tech, and non-energy minerals. Caution prevailed ahead of next week's October labor data after unemployment stayed near a five-year high in September as employment eased. Higher borrowing costs in both the U.S. and Australia also dampened appetite for risk assets. A negative lead from Wall Street overnight added to the pressure after the fallout from Nvidia’s leadership upheaval. SGH Ltd. (-3.2%), Codan Ltd. (-2.5%), and Qantas Airways (-1.9%) were among major laggards. The big four banks lost 0.1–0.6%, while BHP Group slipped 0.7% on weaker iron ore prices and a stronger U.S. dollar. Still, the ASX 200 remained on track for a third straight weekly gain, up around 0.7% so far, lifted by sustained buying interest and signs of stronger policy support from top trading partner China to bolster domestic demand amid domestic and external headwinds."
+    },
+    {
+      "id": "em:qqyh_mlc:202611133930320026",
+      "time": "2026-11-13 08:46:12",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲威廉姆斯表示，人工智慧投資水平可以對利率變化做出反應。"
+    },
     {
       "id": "5211986",
       "time": "2026-11-13 08:46:05",
