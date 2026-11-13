@@ -1,7 +1,75 @@
 {
   "date": "2026-11-13",
-  "count": 614,
+  "count": 621,
   "items": [
+    {
+      "id": "5211947",
+      "time": "2026-11-13 08:10:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：貨幣政策目標是通脹，而非價格水平。"
+    },
+    {
+      "id": "5211946",
+      "time": "2026-11-13 08:10:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：試圖降低整體價格水平可能會造成糟糕的經濟狀況。"
+    },
+    {
+      "id": "te:markets:600895",
+      "time": "2026-11-13 08:09:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Semiconductor Manufacturing International earnings above expectations at 0.05 USD — Semiconductor Manufacturing International (0981) released earnings per share at 0.05 USD, compared to market expectations of 0.04 USD."
+    },
+    {
+      "id": "5211945",
+      "time": "2026-11-13 08:09:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟就宕機事件回應：重新投入使用的伺服器一旦接收到流量，可能會再次出現無響應的情況。與此同時，我們正在暫時限制某些地區可訪問受影響基礎設施的流量型別。"
+    },
+    {
+      "id": "mkt:01a1d23c-9d8d-7bbc-abc1-3303829d29a0",
+      "time": "2026-11-13 08:09:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump: Middle East countries asked me to temporarily maintain status quo on Iran】President Trump said he could have ended the war with Iran immediately but, at the request of Middle East countries he protects, adopted a slower, more restrained approach. He said Saudi Arabia asked him to 'temporarily' maintain the status quo, while Qatar, the UAE and Bahrain favored a 'waiting' strategy; he complied but said he was not sure he agreed. He added the US maintains good relations with those states and they are significant investors in the United States."
+    },
+    {
+      "id": "5211944",
+      "time": "2026-11-13 08:08:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國參議院銀行委員會主席要求黃仁勳和盧特尼克就英偉達風波作證】美國參議院銀行委員會主席蒂姆·斯科特（Tim Scott）週四要求已下臺的英偉達CEO黃仁勳和商務部長霍華德·盧特尼克於下個月出席該委員會的聽證會。斯科特於週四晚間向黃仁勳和盧特尼克傳送信件，要求他們分別出席銀行委員會的聽證會，為下個月的兩場備受矚目的監督聽證活動拉開了序幕。這封信的發出正值國會山對這兩人的審查力度不斷加大之際。共和黨人日益對盧特尼克在商務部晶片政策管理上的做法表示擔憂，而黃仁勳也已於週四早些時候辭去了英偉達CEO一職。致黃仁勳的信中警告稱，如果他不主動出席，將對其發出傳票。斯科特希望黃仁勳於12月3日在參議院銀行委員會作證。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202611133930285213",
+      "time": "2026-11-13 08:08:27",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國聯邦政府2027財年首月財政赤字達4041億美元，同比擴大42%】當地時間11月12日，美國財政部發布資料顯示，2027財年首月（2026年10月），聯邦政府財政收入為3689.4億美元，支出為7730.04億美元，財政赤字達4040.64億美元，較2026財年同期的2843.33億美元擴大約42%。2026財年前12個月，聯邦政府財政收入為5.403萬億美元，支出為7.396萬億美元，累計財政赤字為1.993萬億美元。"
+    },
     {
       "id": "5211943",
       "time": "2026-11-13 08:07:16",
