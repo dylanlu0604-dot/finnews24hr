@@ -1,7 +1,78 @@
 {
-  "updated": "2026-11-13 08:12:32",
-  "count": 9917,
+  "updated": "2026-11-13 08:16:53",
+  "count": 9924,
   "items": [
+    {
+      "id": "mkt:01a1d242-c130-7bbc-abc1-3b671946aa8a",
+      "time": "2026-11-13 08:15:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI rose 3.00% intraday to 5,504.44 points."
+    },
+    {
+      "id": "te:markets:600898",
+      "time": "2026-11-13 08:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stock Futures Climb as Nvidia Shares Stabilize — US stock futures moved higher on Friday as selling pressure on Nvidia shares eased following the resignation of CEO Jensen Huang amid an ongoing scandal. Futures tied to the Dow Jones, S&P 500, and Nasdaq 100 gained between 0.2% and 0.6%. In after-hours trading, Nvidia shares advanced more than 1%, rebounding from Thursday’s losses as investors evaluated the potential leadership transition at the chipmaker, with CFO Colette Kress assuming the role of interim CEO. Wall Street’s major indexes ended lower on Thursday, with the Dow falling 0.36%, while the S&P 500 and Nasdaq Composite declined 0.35% and 0.39%, respectively. Investors are now looking ahead to October’s PPI report for further indications of inflationary pressures. A stronger-than-expected consumer inflation reading, coupled with hawkish comments from Federal Reserve officials, has reinforced expectations that interest rates could be raised more aggressively."
+    },
+    {
+      "id": "5211953",
+      "time": "2026-11-13 08:14:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本晶片相關股票大幅上漲。鎧俠股價上漲5.9%，愛德萬測試攀升6.5%，揖斐電電子上漲5.1%。"
+    },
+    {
+      "id": "5211952",
+      "time": "2026-11-13 08:14:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "華碩 9個月營業利潤561.5億元臺幣。華碩 9個月營收7,424.3億元臺幣。"
+    },
+    {
+      "id": "5211951",
+      "time": "2026-11-13 08:13:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "華碩 9個月淨利潤504.8億元臺幣。"
+    },
+    {
+      "id": "5211950",
+      "time": "2026-11-13 08:13:32",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：產業鏈盈利逐步修復，鋰電板塊投資價值凸顯】中信證券研報稱，從電池與能源管理產業鏈2026年前三季度及2026年第三季度經營結果來看，全球儲能需求保持高景氣，新能源汽車需求有所分化，產業鏈多數環節收入實現增長，中上游盈利同比明顯修復，但第三季度環比有所承壓。盈利端，電池環節收入維持較快增長，碳酸鋰、正極、隔膜、電解液及六氟、銅箔&鋁箔等環節盈利同比明顯改善，但部分環節第三季度盈利環比回落。供給端，行業“固定資產+在建工程”同比增速持續回升，2026年第三季度升至20%，同時資本開支呈現明顯分化，電池、正極、負極、結構件等環節同比較快增長，行業逐步由全面收縮轉向結構性擴產。考慮到中國鋰電產業鏈全球競爭優勢顯著、海外佈局逐步完善，同時固態、快充等新技術持續迭代，中信證券認為頭部企業有望憑藉技術、成本及全球化優勢進一步擴大份額和盈利優勢，持續看好產業鏈各環節優質頭部公司。"
+    },
+    {
+      "id": "5211949",
+      "time": "2026-11-13 08:13:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）上漲3%，至5504.44。"
+    },
+    {
+      "id": "5211948",
+      "time": "2026-11-13 08:12:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩年期美國公債收益率升至一個月高位4.8920%。"
+    },
     {
       "id": "5211947",
       "time": "2026-11-13 08:10:42",
@@ -90393,18 +90464,6 @@
         "Importance 1"
       ],
       "text": "Recruit Holdings Shares Hit 4-week Low — Recruit Holdings shares decreased to 17110.00 JPY, the lowest since October 2026. Over the past 4 weeks, Recruit Holdings gained 1.44%, and in the last 12 months, it increased 135.54%."
-    },
-    {
-      "id": "te:markets:598842",
-      "time": "2026-11-06 08:14:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Find Support After AI Rout — US stock futures rose on Friday in likely technical buying after the major averages recorded their suffered their worst one-day drop since the tariff-driven market turmoil in April 2025, amid concerns that Democrats could impose tighter regulations on the artificial intelligence sector. Futures tied to the S&P 500 and Nasdaq 100 were up, though Dow futures edged lower. During Thursday’s regular session, the tech-heavy Nasdaq Composite plunged 5.5%, while the Dow and S&P 500 fell 3.4% and 4.4%, respectively. The Nasdaq Composite also closed more than 10% below its latest peak, officially entering correction territory. All 11 S&P 500 sectors finished lower, with companies linked to AI infrastructure experiencing the steepest declines. Investors grew concerned that Democratic policies could slow data center expansion. Chipmakers and memory-related stocks were among the biggest losers, including Nvidia (-9.3%), AMD (-17.3%), Micron (-17.5%) and Sandisk (-22.3%)."
     }
   ]
 }
