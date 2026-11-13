@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-13 13:33:12",
-  "count": 9892,
+  "updated": "2026-11-13 13:37:26",
+  "count": 9895,
   "items": [
+    {
+      "id": "mkt:01a1d367-5e87-7bbc-abc6-d29ad017e167",
+      "time": "2026-11-13 13:35:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index (TAIEX) closed up 583.25 points, or 1.35%, at 43,675.12 on Friday, Nov 13."
+    },
+    {
+      "id": "5212359",
+      "time": "2026-11-13 13:33:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺股收漲1.35%，報43,675.12點。"
+    },
+    {
+      "id": "5212358",
+      "time": "2026-11-13 13:32:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "東京證券交易所將批准WHI Holdings上市。"
+    },
     {
       "id": "te:markets:600969",
       "time": "2026-11-13 13:30:13",
