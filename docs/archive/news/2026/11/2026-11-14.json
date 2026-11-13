@@ -1,7 +1,34 @@
 {
   "date": "2026-11-14",
-  "count": 238,
+  "count": 241,
   "items": [
+    {
+      "id": "5213923",
+      "time": "2026-11-14 04:57:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國聯邦航空管理局釋出全國性禁飛令】美國聯邦航空管理局：因特殊情況及安全原因，實施全國地面停飛。所有起飛航班應保持地面停飛狀態，直至另行通知。入境國際航班將根據具體情況進行管理。"
+    },
+    {
+      "id": "mkt:01a1d6b1-f4ec-7bbc-abdc-b6509268edb8",
+      "time": "2026-11-14 04:55:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Suspected unauthorized drone activity over RAF Lakenheath; US personnel sheltered】On Nov 13 evening local time, suspected unauthorized drone activity was reported over RAF Lakenheath in Suffolk, and US personnel at the base were temporarily ordered to shelter in place. A US Air Force spokesman said base security forces responded and there was no impact to personnel, aircraft or infrastructure. US forces are working with UK authorities; officials have not disclosed the number, origin or type of drones. Local MP Nick Timothy said the incident has been resolved and poses no public threat."
+    },
+    {
+      "id": "5213920",
+      "time": "2026-11-14 04:55:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱兩艘油輪在霍爾木茲海峽發生爆炸】當地時間14日凌晨，伊朗伊斯蘭革命衛隊海軍表示，不久前有兩艘油輪在霍爾木茲海峽試圖透過未經伊朗授權的航線航行，其間關閉了雷達和定位系統，隨後觸碰水雷，引發爆炸與火災。伊朗伊斯蘭革命衛隊海軍警告稱，若未經衛隊協調擅自透過霍爾木茲海峽，並無視伊朗為該水道制定的相關規定，就可能招致此類後果。（央視新聞）"
+    },
     {
       "id": "mkt:01a1d6b1-7e30-7bbc-abdc-afc36c183ef4",
       "time": "2026-11-14 04:55:18",

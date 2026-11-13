@@ -1,7 +1,34 @@
 {
-  "updated": "2026-11-14 04:56:01",
-  "count": 9759,
+  "updated": "2026-11-14 04:59:42",
+  "count": 9758,
   "items": [
+    {
+      "id": "5213923",
+      "time": "2026-11-14 04:57:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國聯邦航空管理局釋出全國性禁飛令】美國聯邦航空管理局：因特殊情況及安全原因，實施全國地面停飛。所有起飛航班應保持地面停飛狀態，直至另行通知。入境國際航班將根據具體情況進行管理。"
+    },
+    {
+      "id": "mkt:01a1d6b1-f4ec-7bbc-abdc-b6509268edb8",
+      "time": "2026-11-14 04:55:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Suspected unauthorized drone activity over RAF Lakenheath; US personnel sheltered】On Nov 13 evening local time, suspected unauthorized drone activity was reported over RAF Lakenheath in Suffolk, and US personnel at the base were temporarily ordered to shelter in place. A US Air Force spokesman said base security forces responded and there was no impact to personnel, aircraft or infrastructure. US forces are working with UK authorities; officials have not disclosed the number, origin or type of drones. Local MP Nick Timothy said the incident has been resolved and poses no public threat."
+    },
+    {
+      "id": "5213920",
+      "time": "2026-11-14 04:55:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱兩艘油輪在霍爾木茲海峽發生爆炸】當地時間14日凌晨，伊朗伊斯蘭革命衛隊海軍表示，不久前有兩艘油輪在霍爾木茲海峽試圖透過未經伊朗授權的航線航行，其間關閉了雷達和定位系統，隨後觸碰水雷，引發爆炸與火災。伊朗伊斯蘭革命衛隊海軍警告稱，若未經衛隊協調擅自透過霍爾木茲海峽，並無視伊朗為該水道制定的相關規定，就可能招致此類後果。（央視新聞）"
+    },
     {
       "id": "mkt:01a1d6b1-7e30-7bbc-abdc-afc36c183ef4",
       "time": "2026-11-14 04:55:18",
@@ -88741,49 +88768,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收漲1.65%】再鼎醫藥漲12.77%，禾賽科技漲11.64%，迅雷漲10.71%，文遠知行漲10.27%，陸金所控股漲8.40%。"
-    },
-    {
-      "id": "mkt:01a1b2a8-5cee-7ee0-aabb-f1f5e54b593c",
-      "time": "2026-11-07 04:59:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Market sources: OpenAI completed a new 11 bln dlr financing round, valuing the company at 1.25 tln dlr."
-    },
-    {
-      "id": "5200257",
-      "time": "2026-11-07 04:58:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI 的初始融資承諾資金已於週五匯出。"
-    },
-    {
-      "id": "5200255",
-      "time": "2026-11-07 04:58:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI完成新一輪110億美元融資，估值達1.25萬億美元。"
-    },
-    {
-      "id": "mkt:01a1b2a7-177e-7ee0-aabb-e837f81c62cf",
-      "time": "2026-11-07 04:57:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【U.S. October nonfarm +165k; dollar posts largest one-day gain in nearly five months】U.S. nonfarm payrolls rose 165,000 in October vs 65,000 expected; unemployment fell to 4.1%. Strong jobs data lifted the probability of a 25bp Fed hike in December to near 80%. The dollar index climbed 0.71% to 102.31, its biggest one-day move since June 17; the dollar strengthened about 0.72% vs the euro, 0.74% vs the pound and 0.5% vs the yen. U.S. Treasury yields rose, with the 10-year at 4.85% and the 2-year at 4.52%. Fed officials Williams, Musalem and Daly said inflationary pressure remains, and Daly said the Fed may still need to raise rates further."
     }
   ]
 }
