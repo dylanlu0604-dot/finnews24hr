@@ -1,7 +1,46 @@
 {
   "date": "2026-11-13",
-  "count": 1107,
+  "count": 1111,
   "items": [
+    {
+      "id": "mkt:01a1d37a-aff2-7bbc-abc7-078e82ae7ed2",
+      "time": "2026-11-13 13:56:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong AI large-model, semiconductor and PCB shares extended afternoon losses; Zhipu (02513.HK) fell 11.32%, MINIMAX-W (00100.HK) fell 8.31%, Kingboard Laminates (01888.HK) fell 9.70%, Huahong Hongli (01347.HK) fell 6.69%."
+    },
+    {
+      "id": "5212373",
+      "time": "2026-11-13 13:56:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破68000美元，日內跌5.17%。"
+    },
+    {
+      "id": "5212372",
+      "time": "2026-11-13 13:56:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超3%，現報3813.810點；恒生指數現跌1.616%。"
+    },
+    {
+      "id": "mkt:01a1d377-6c47-7bbc-abc6-fc1eb0980fa6",
+      "time": "2026-11-13 13:53:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "Shenzhen Composite Index fell about 2%; electronic components, optical communications and PCB sectors led declines, while pork and banking stocks rose, bucking the broader sell-off."
+    },
     {
       "id": "5212371",
       "time": "2026-11-13 13:51:50",
