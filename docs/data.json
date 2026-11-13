@@ -1,7 +1,57 @@
 {
-  "updated": "2026-11-13 22:21:21",
-  "count": 9874,
+  "updated": "2026-11-13 22:25:19",
+  "count": 9875,
   "items": [
+    {
+      "id": "5213567",
+      "time": "2026-11-13 22:23:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞銀給予海光資訊中性的初始評級】瑞銀給予海光資訊中性的初始評級，目標價215元人民幣。"
+    },
+    {
+      "id": "5213566",
+      "time": "2026-11-13 22:23:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "伯恩斯坦將應用材料公司目標價從700美元下調至600美元。"
+    },
+    {
+      "id": "5213565",
+      "time": "2026-11-13 22:23:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【香港交易所：將於12月推出適用於衍生產品收市後交易時段的數字支付方案】香港交易所宣佈，將於12月14日推出新的數字支付方案，便利結算參與者在衍生產品市場收市後交易時段支付預繳按金。這次新服務是基於香港交易所與香港金融管理局（香港金管局）的合作計劃推出的，探索使用數碼港元支付收市後交易時段的預繳按金。新方案推出後，合資格的香港期貨結算有限公司（期貨結算公司）結算參與者可選用此數字支付方式，於下午5時至凌晨1時30分提交預繳按金申請，以便有關款項可用於相應的收市後交易時段。延長後的支付時段將作為現有支付安排的補充，讓結算參與者可於一般銀行營業時間以外，更靈活地管理其以資本額釐定的持倉限額使用情況。 (中國證券報)"
+    },
+    {
+      "id": "mkt:01a1d549-a1c9-7bbc-abd6-d2d45836882e",
+      "time": "2026-11-13 22:22:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local sources reported an attack by militants in western Niger that killed at least 37 civilians."
+    },
+    {
+      "id": "5213564",
+      "time": "2026-11-13 22:22:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【DeepSeek 釋出全家桶應用 API】DeepSeek發表公告：我們正式開放這套全家桶應用 API：在原有 API 中開啟對應引數，即可獲得深度思考搜尋、檔案輸入等對話功能；語音及相關底層能力也已開放獨立介面（含 OCR、ASR、TTS 等），支援單獨或組合呼叫。開發者可以在自己的應用中輕鬆實現複雜的對話功能，甚至 1:1 復刻出完整的 DeepSeek App。本次更新將 DeepSeek App 的各項互動功能直接整合進原有 API。開啟對應引數後，相關工具呼叫與上下文拼接均由服務端自動完成。目前，V4.1-Flash 模型（deepseek-flash）已在 Messages、Responses 與 Chat Completions 介面下支援以下能力：聯網搜尋、深度思考搜尋、檔案輸入、閱讀連結、模型安全。此外，為方便開發者更靈活地接入自有工作流，上述底層能力及語音能力均支援作為獨立介面單獨呼叫，包括：Search、Fetch、OCR、ASR、TTS。使用上述介面，開發者即可實現與 DeepSeek App 基本一致的功能。為直觀演示這一效果，我們基於新版 API 構建並開源了一份輕量的前端 Demo，支援直接匯入 DeepSeek 歷史對話。"
+    },
+    {
+      "id": "5213563",
+      "time": "2026-11-13 22:21:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲3%，現報4236.00元。"
+    },
     {
       "id": "5213562",
       "time": "2026-11-13 22:20:35",
@@ -90000,52 +90050,6 @@
         "其他"
       ],
       "text": "【南非地方選舉計票逾七成 非國大面臨挑戰】南非地方政府選舉計票工作仍在緊張進行。根據獨立選舉委員會6日釋出的實時計票結果，在完成統計的逾七成選票中，執政黨非洲人國民大會（非國大）以6至7個百分點的優勢領先主要競爭對手民主聯盟。後者則在被視為本次選舉“重中之重”的八大都會區表現強勢。獨立選舉委員會6日10時釋出的實時計票結果顯示，在業已完成統計的近四分之三有效選票中，總統西里爾·拉馬福薩領導的非國大得票率約為32%，民主聯盟得票率略高於24%。非國大在西北、北開普、東開普、姆普馬蘭加、林波波和自由州6個省繼續保持領先。民主聯盟在豪滕、西開普兩個經濟大省領先，前總統雅各布·祖馬領導的民族之矛黨在誇祖盧-納塔爾省領先。（新華社）"
-    },
-    {
-      "id": "5199879",
-      "time": "2026-11-06 22:24:21",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "野村證券表示：中國的人工智慧經濟可能將顯著受益於美國最新選舉中民主黨的壓倒性勝利。"
-    },
-    {
-      "id": "te:markets:599193",
-      "time": "2026-11-06 22:23:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada 10-Year Yield Edges Lower After Jobs Data — Canada’s 10-year government bond yield edged lower to around 3.65% in November, near its lowest level in two months, as markets are assessing weak employment data. Canadian employment fell by 4,700 in October, improving from September’s 68,300 decline but missing forecasts for a 13,600 increase. Private-sector employment dropped by 53,000 (-0.4%), its first decline since February. A softer labor market could prompt the BoC to cut rates to support economic activity and hiring, lowering yields on Canadian assets. However, Canada’s GDP grew 0.8% in Q2 2026, following a 0.1% expansion in Q1. Meanwhile, recent global equity losses boosted demand for safe-haven government bonds. The Democrats won majorities in both chambers of the US Congress in the midterm elections, fueling concerns over tighter AI infrastructure regulations, prompting a rout in equities."
-    },
-    {
-      "id": "5199878",
-      "time": "2026-11-06 22:23:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "提示：哈塞特結束髮言。"
-    },
-    {
-      "id": "em:qqyh_mlc:202611063925158080",
-      "time": "2026-11-06 22:23:00",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "白宮經濟顧問哈塞特被問及美聯儲時表示，我們將尊重沃什和美聯儲的判斷。"
-    },
-    {
-      "id": "5199877",
-      "time": "2026-11-06 22:22:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：英特爾的業績表現對晶片市場來說是個好訊息。"
     }
   ]
 }
