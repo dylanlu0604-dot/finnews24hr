@@ -1,7 +1,89 @@
 {
   "date": "2026-11-13",
-  "count": 688,
+  "count": 697,
   "items": [
+    {
+      "id": "5211998",
+      "time": "2026-11-13 08:54:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【汽油價格高企 但美國人駕車出行熱情未減】根據彭博新能源財經的分析，自伊朗戰爭導致美國汽油價格飆升以來，美國人駕車出行幾乎沒有減少。經通脹調整後的汽油零售價格在5月達到峰值，比戰前的12月至2月平均水平高出53%，超過2008年油價飆升、2011年利比亞內戰以及2022年俄烏戰爭所致漲幅。然而，經季節性因素調整後，5月車輛行駛里程僅比戰前水平下降0.3%，並在6月回升。與以往衝擊相比，一個重要的區別在於消費者的汽油成本負擔。儘管汽油價格上漲，但3月至8月汽油支出僅佔可支配收入的約2.3%，約為2008年和2011年水平的一半。負擔減輕，加上勞動力市場更為強勁，或許可以解釋為何駕車出行依然保持穩定。"
+    },
+    {
+      "id": "mkt:01a1d265-a332-7bbc-abc1-fe30bf39d187",
+      "time": "2026-11-13 08:53:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "0981.HK",
+        "Impact bullish"
+      ],
+      "text": "SMIC expects 2026 revenue to exceed $12.0 bln, up about 30%, and forecasts 2026 gross margin near 26%. Q3 gross margin rose on customer rush orders."
+    },
+    {
+      "id": "5211997",
+      "time": "2026-11-13 08:53:56",
+      "tags": [
+        "央行",
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【中信期貨：美元與利率形成雙重壓制，黃金配置需求尚難扭轉調整】黃金連續第三個交易日下跌。美國兩年期國債收益率本週累計上行約20個基點，美元指數在週二、週三累計上漲近1%，持有成本上升與美元走強共同壓制金價，前期反彈未能延續。 美國10月CPI與核心CPI環比分別上漲0.4%和0.3%，均高於預期，核心價格壓力持續成為政策收緊的依據。古爾斯比對通脹走勢表達明顯擔憂，疊加沃勒此前提出更大幅度加息的可能性，市場已充分計入12月加息25個基點，並開始交易加息50個基點的風險。油價回落雖有助於緩解能源通脹，但尚未消除核心通脹黏性，短期難以推動緊縮預期明顯降溫。 配置需求仍為黃金提供支撐。部分黃金ETF恢復增持，央行9月購金亦有所加快，表明價格回落後配置資金開始入場。但投機資金迴流缺乏持續性，官方購金和ETF買盤尚難完全抵消美元、利率上行帶來的壓力。黃金跌破4000美元/盎司，也說明配置需求對價格的支撐仍會受到宏觀環境變化的考驗。（中信期貨）"
+    },
+    {
+      "id": "5211996",
+      "time": "2026-11-13 08:52:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百勝中國旗下門店突破20000家】11月12日，百勝中國宣佈旗下門店數量突破20000家。公司表示，從1987年到2020年開出第一萬家，百勝中國用了33年；從第一萬家到第兩萬家只用了6年。百勝中國經營著肯德基、必勝客、塔可鍾、小肥羊、黃記煌、LAVAZZA拉瓦薩六大品牌。"
+    },
+    {
+      "id": "mkt:01a1d264-5b5d-7bbc-abc1-f38d71f24bb2",
+      "time": "2026-11-13 08:52:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【ByteDance plans up to $6bn buyback at about $400bn valuation】The Information, citing a shareholder letter and a person familiar with the matter, reports ByteDance intends to repurchase up to $6bn of shares from existing investors at an implied valuation of roughly $400bn, about 20% above its buyback level a year earlier."
+    },
+    {
+      "id": "5211995",
+      "time": "2026-11-13 08:52:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國會眾議院的馬斯特、穆萊納爾與克勞福德向黃仁勳及英偉達發出第二份質詢函。"
+    },
+    {
+      "id": "mkt:01a1d262-eb01-7bbc-abc1-ead0984705c2",
+      "time": "2026-11-13 08:51:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports ByteDance plans a share repurchase valuing the company at $400 billion."
+    },
+    {
+      "id": "5211994",
+      "time": "2026-11-13 08:50:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：位元組跳動計劃回購至多價值60億美元的股票。"
+    },
+    {
+      "id": "5211993",
+      "time": "2026-11-13 08:50:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：位元組跳動將以4000億美元估值來回購股份。"
+    },
     {
       "id": "mkt:01a1d261-bc70-7bbc-abc1-e13268ea4a9f",
       "time": "2026-11-13 08:49:42",
