@@ -1,7 +1,81 @@
 {
-  "updated": "2026-11-14 04:52:20",
-  "count": 9753,
+  "updated": "2026-11-14 04:56:01",
+  "count": 9759,
   "items": [
+    {
+      "id": "mkt:01a1d6b1-7e30-7bbc-abdc-afc36c183ef4",
+      "time": "2026-11-14 04:55:18",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【Dollar index rises 0.23% to 103.412 on 13th】The dollar index, measuring the dollar against six major currencies, rose 0.23% to 103.412 at the FX close on the 13th. EUR/USD 1.1023, below prior 1.1056; GBP/USD 1.3210, below prior 1.3236. USD/JPY 159.78, slightly below 159.83; USD/CHF 0.8395, above 0.8353; USD/CAD 1.4267, above 1.4260; USD/SEK 10.0722, above 10.0226."
+    },
+    {
+      "id": "5213918",
+      "time": "2026-11-14 04:54:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【駐英美軍基地出現疑似非法無人機活動 基地人員緊急避險】當地時間11月13日晚，位於英國薩福克郡的萊肯希思皇家空軍基地出現疑似未經授權的無人機活動，駐紮在該基地的美軍人員一度被要求就地避險。美國空軍發言人表示，當晚，美軍安全部隊針對基地上空的無人機活動採取了應對措施，事件未對人員、飛機或基礎設施造成影響。美軍正與英國有關部門密切合作，確保基地人員及周邊居民的安全。美軍暫未披露無人機數量、來源等細節。當地議員尼克·蒂莫西表示，他已與有關部門取得聯絡，目前事件已經得到解決，不會對公眾構成威脅。(央視新聞)"
+    },
+    {
+      "id": "5213917",
+      "time": "2026-11-14 04:53:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數13日上漲】美元指數13日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.23%，在匯市尾市收於103.412。截至紐約匯市尾市，1歐元兌換1.1023美元，低於前一交易日的1.1056美元；1英鎊兌換1.3210美元，低於前一交易日的1.3236美元。1美元兌換159.78日元，低於前一交易日的159.83日元；1美元兌換0.8395瑞士法郎，高於前一交易日的0.8353瑞士法郎；1美元兌換1.4267加元，高於前一交易日的1.4260加元；1美元兌換10.0722瑞典克朗，高於前一交易日的10.0226瑞典克朗。(新華社)"
+    },
+    {
+      "id": "mkt:01a1d6af-9e34-7bbc-abdc-a3ac4e20d7c7",
+      "time": "2026-11-14 04:53:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "Musk said a petition to reinstate NVIDIA (NVDA.O) CEO Jensen Huang is underway and he will sign in support."
+    },
+    {
+      "id": "5213916",
+      "time": "2026-11-14 04:52:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "Meta股價上漲3.2%，盤中領漲標普500指數。"
+    },
+    {
+      "id": "5213915",
+      "time": "2026-11-14 04:52:30",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "馬斯克：正在發起請願，要求恢復英偉達黃仁勳的職位，我也會簽名。"
+    },
+    {
+      "id": "mkt:01a1d6ae-a590-7bbc-abdc-99573011fb4c",
+      "time": "2026-11-14 04:52:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Alberta's finance minister said adjustments to the royalty regime are expected to bring immediate new oil‑sands investment to the province."
+    },
     {
       "id": "mkt:01a1d6ad-9c08-7bbc-abdc-94e83037b643",
       "time": "2026-11-14 04:51:04",
@@ -88710,14 +88784,6 @@
         "US10Y"
       ],
       "text": "【U.S. October nonfarm +165k; dollar posts largest one-day gain in nearly five months】U.S. nonfarm payrolls rose 165,000 in October vs 65,000 expected; unemployment fell to 4.1%. Strong jobs data lifted the probability of a 25bp Fed hike in December to near 80%. The dollar index climbed 0.71% to 102.31, its biggest one-day move since June 17; the dollar strengthened about 0.72% vs the euro, 0.74% vs the pound and 0.5% vs the yen. U.S. Treasury yields rose, with the 10-year at 4.85% and the 2-year at 4.52%. Fed officials Williams, Musalem and Daly said inflationary pressure remains, and Daly said the Fed may still need to raise rates further."
-    },
-    {
-      "id": "5200253",
-      "time": "2026-11-07 04:53:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "Birch Hill Equity Partners據悉將收購CD&R旗下的TruGreen。"
     }
   ]
 }
