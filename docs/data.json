@@ -1,7 +1,136 @@
 {
-  "updated": "2026-11-13 14:45:43",
-  "count": 10029,
+  "updated": "2026-11-13 14:49:38",
+  "count": 10043,
   "items": [
+    {
+      "id": "te:markets:600989",
+      "time": "2026-11-13 14:49:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Korean Shares Close Nearly 1% Lower — The benchmark KOSPI fell 0.98% to close at 5,290.53 on Friday, erasing earlier gains as investors turned cautious over the potential impact of Nvidia CEO Jensen Huang’s reported departure on the global AI ecosystem. The index initially jumped 2.05% at the open before reversing course and slipping into negative territory around midday. The shift in sentiment followed overnight losses on Wall Street after news of Huang’s exit, with the Dow Jones, S&P 500, and Nasdaq falling 0.36%, 0.35%, and 0.39%, respectively. Meanwhile, investors remained cautious ahead of US producer price data, which could provide further clues on the Federal Reserve’s monetary policy following a stronger-than-expected consumer inflation reading earlier in the week. Among individual stocks, Samsung Biologics (-0.41%), Naver (-0.33%), and LG Chem (-0.62%) declined, while Samsung Electronics (2.64%) and SK Hynix (2.79%) advanced."
+    },
+    {
+      "id": "5212464",
+      "time": "2026-11-13 14:48:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓表示將於11月19日推出零售美元債券。"
+    },
+    {
+      "id": "mkt:01a1d3aa-7720-7bbc-abc8-30424276c6de",
+      "time": "2026-11-13 14:48:46",
+      "tags": [
+        "MKT News",
+        "0700.HK"
+      ],
+      "text": "【Tencent Cloud removes tiered pay-as-you-go pricing for MySQL】Tencent Cloud will change MySQL pricing at 16:00 Beijing time on Jan 1, 2027, eliminating duration-based tiered pricing for pay-as-you-go; after the change pay-as-you-go rates will no longer vary by usage duration. The adjustment applies to local-disk MySQL two-node (formerly high-availability), three-node (formerly financial), four-node and read-only instances; cloud-disk instances are not affected."
+    },
+    {
+      "id": "5212463",
+      "time": "2026-11-13 14:48:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【生益科技觸及跌停】生益科技觸及跌停，成交額84.96億元，封單2581手。"
+    },
+    {
+      "id": "5212462",
+      "time": "2026-11-13 14:48:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "發言人表示，香料航空稱審計耗時超出預期，導致業績釋出延遲。"
+    },
+    {
+      "id": "5212461",
+      "time": "2026-11-13 14:48:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "香料航空發言人稱，已獲准將年度股東大會延期至12月31日舉行。"
+    },
+    {
+      "id": "mkt:01a1d3a9-c3e5-7bbc-abc8-2e4da58bf7ad",
+      "time": "2026-11-13 14:48:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CUSTOMS deputy director Zhang Baofeng meets Somalia trade minister Hassan】Nov 12 — CUSTOMS deputy director Zhang Baofeng met Somalia Minister of Trade and Industry Hassan. They discussed implementing zero-tariff measures, building a smart customs cooperation partnership, promoting healthy development of agricultural and food trade, and systematically advancing China‑Somalia customs inspection and quarantine cooperation. Somalia’s ambassador to China and Dan attended the meeting."
+    },
+    {
+      "id": "mkt:01a1d3a9-0f06-7bbc-abc8-2714f8771b1d",
+      "time": "2026-11-13 14:47:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Weiteng Electric says ample orders for high- and low-voltage busbar products】At its Q3 2026 results briefing, Weiteng Electric said strong AI data-centre construction is driving ample orders for its high- and low-voltage busbar products. The company said it has strengthened domestic and overseas certification systems, improving foreign market access and beginning to win overseas busbar orders that could gradually add to revenue, and has launched a containerized modular data‑centre product to cultivate a new growth driver."
+    },
+    {
+      "id": "5212460",
+      "time": "2026-11-13 14:47:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美股“空軍”正再度集結“利率敏感股”】美銀交易部門最新表示，此前在美股強勁反彈中被迫撤退的對沖基金，如今正捲土重來，重新加碼做空對利率敏感的股票標的。交易員表示，這一反轉可能標誌著做空頭寸新週期的開始。一方面，通脹資料居高不下；另一方面美國成屋銷售表現疲軟——10月成屋銷售環比重挫5.5%至375萬套，不及市場預期的385萬套，這些利空訊息為做空者提供了新的彈藥，促使他們再度瞄準那些深陷高借貸成本壓力的公司。"
+    },
+    {
+      "id": "5212459",
+      "time": "2026-11-13 14:46:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊雲：雲資料庫MySQL取消按量計費階梯定價】雲資料庫 MySQL 將於北京時間 2027 年 1 月 1 日 16 時進行價格調整，取消按量計費的階梯定價，取消後按量計費不再區分使用時長階梯。"
+    },
+    {
+      "id": "mkt:01a1d3a7-f616-7bbc-abc8-1bdeee338230",
+      "time": "2026-11-13 14:46:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose more than 1.0% intraday to $96.71/bbl."
+    },
+    {
+      "id": "5212458",
+      "time": "2026-11-13 14:45:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【威騰電氣：高低壓母線產品訂單充足】威騰電氣在2026年第三季度業績說明會上表示，受益於AI資料中心建設需求旺盛，公司高低壓母線產品訂單充足。母線產品海內外認證體系持續完善，提升海外市場準入能力，陸續獲得海外高低壓母線訂單，未來有望逐步帶來業務增量。同時，公司推出集裝箱式模組化資料中心產品，培育新的業績增長點。"
+    },
+    {
+      "id": "5212457",
+      "time": "2026-11-13 14:45:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報625.70元。"
+    },
+    {
+      "id": "5212456",
+      "time": "2026-11-13 14:45:26",
+      "tags": [
+        "市場",
+        "觀點",
+        "其他"
+      ],
+      "text": "【段永平：目前不會賣出英偉達，實際上還賣出了不少看跌期權】針對黃仁勳離開英偉達一事，段永平表示，黃仁勳的離開“非常可惜，有點不可理喻”。在被問及是否會賣出英偉達、還是等待具體接任人選確定後再作決定時，他回應稱，目前不會賣出英偉達，實際上當天還賣出了不少看跌期權。"
+    },
     {
       "id": "mkt:01a1d3a6-fb6d-7bbc-abc8-100ba8119084",
       "time": "2026-11-13 14:44:58",
