@@ -1,7 +1,105 @@
 {
-  "updated": "2026-11-13 08:35:46",
-  "count": 9945,
+  "updated": "2026-11-13 08:39:40",
+  "count": 9951,
   "items": [
+    {
+      "id": "5211980",
+      "time": "2026-11-13 08:38:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：加拿大皇家銀行在重組過程中裁撤了氣候和ESG相關職位。"
+    },
+    {
+      "id": "5211979",
+      "time": "2026-11-13 08:38:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：資本市場的核心關鍵詞是“信任”。"
+    },
+    {
+      "id": "mkt:01a1d256-bb1c-7bbc-abc1-9abf36dc4a82",
+      "time": "2026-11-13 08:37:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Japan's finance minister Katayama said Japan will consult the US Treasury on foreign-exchange matters and take appropriate action."
+    },
+    {
+      "id": "5211977",
+      "time": "2026-11-13 08:37:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "日本財務大臣片山：將與美國財政部溝通，作出適當回應。"
+    },
+    {
+      "id": "mkt:01a1d256-59de-7bbc-abc1-9702e837d687",
+      "time": "2026-11-13 08:37:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said recent foreign-exchange moves have been one-sided and rapid."
+    },
+    {
+      "id": "5211976",
+      "time": "2026-11-13 08:37:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電氣風電25MW驅動鏈開展六自由度測試】據上海電氣風電集團訊息，近日，電氣風電深遠海25MW海上風電機組驅動鏈在濱海基地完成總裝下線，整套驅動鏈系統將進駐濱海驅動鏈試驗檯，開展六自由度耦合載荷測試。這是該機型樣機下海前的關鍵地面驗證。"
+    },
+    {
+      "id": "5211975",
+      "time": "2026-11-13 08:37:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：近期看到單邊、快速的外匯波動。"
+    },
+    {
+      "id": "5211974",
+      "time": "2026-11-13 08:36:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：韓國股市經歷了大幅回撥。韓國決心實現資產和資本市場的正常化。"
+    },
+    {
+      "id": "mkt:01a1d255-60d8-7bbc-abc1-88d0cada189d",
+      "time": "2026-11-13 08:36:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "Federal Reserve's Williams said the US has the economic tools to manage its debt burden, but resolving the issue will require political will."
+    },
+    {
+      "id": "mkt:01a1d255-42c8-7bbc-abc1-83905a7b66da",
+      "time": "2026-11-13 08:36:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's finance minister Katayama has decided to tap contingency funds to advance winter utility subsidy payments."
+    },
     {
       "id": "5211972",
       "time": "2026-11-13 08:34:59",
@@ -90638,39 +90736,6 @@
         "市場"
       ],
       "text": "羅姆株式會社在公佈第二季度財報後一度下跌21%，創下自 2001 年 8 月以來最大的單日跌幅。"
-    },
-    {
-      "id": "5197753",
-      "time": "2026-11-06 08:39:15",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：電商板塊估值整體處於低位】中信證券研報稱，電商板塊估值整體處於低位。跨境電商受美歐小包關稅政策收緊驅動履約模式迭代，行業集中度有望提升，關注低估值配置視窗。本地生活競爭拐點顯現，平臺UE持續修復，行業轉向效率與服務競爭。國內電商保持超額增長，平臺競爭由低價轉向補貼ROI最佳化。AI電商B端降本先行，C端交易尚處早期。"
-    },
-    {
-      "id": "5197752",
-      "time": "2026-11-06 08:38:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印尼稱 3 家鎳公司計劃明年減產。"
-    },
-    {
-      "id": "5197751",
-      "time": "2026-11-06 08:36:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）在停牌後恢復交易，跌幅收窄至5.4%。"
-    },
-    {
-      "id": "5197750",
-      "time": "2026-11-06 08:35:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式性賣盤。"
     }
   ]
 }
