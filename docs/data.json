@@ -1,7 +1,46 @@
 {
-  "updated": "2026-11-14 05:25:45",
-  "count": 9776,
+  "updated": "2026-11-14 05:29:27",
+  "count": 9777,
   "items": [
+    {
+      "id": "5213971",
+      "time": "2026-11-14 05:27:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：美國上週銀行存款增加565億美元。"
+    },
+    {
+      "id": "mkt:01a1d6ce-c919-7bbc-abdd-64d6004edc85",
+      "time": "2026-11-14 05:27:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【International oil prices mixed on the 13th】NYMEX December light sweet crude settled down $0.18 at $88.56 a barrel (-0.2%); ICE Brent January settled up $0.02 at $95.84 a barrel (+0.02%)."
+    },
+    {
+      "id": "5213968",
+      "time": "2026-11-14 05:26:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：由於裝置故障，使用者應預期在全國空域系統內的任何及所有機場出現空中等待情況。"
+    },
+    {
+      "id": "5213967",
+      "time": "2026-11-14 05:25:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價13日漲跌不一】國際油價13日漲跌不一。截至當天收盤，紐約商品交易所12月交貨的輕質原油期貨價格下跌18美分，收於每桶88.56美元，跌幅為0.2%；1月交貨的倫敦布倫特原油期貨價格上漲2美分，收於每桶95.84美元，漲幅為0.02%。"
+    },
     {
       "id": "mkt:01a1d6cc-6fc7-7bbc-abdd-5c7638fef4d4",
       "time": "2026-11-14 05:24:44",
@@ -88937,31 +88976,6 @@
         "其他"
       ],
       "text": "貝尼奧夫推出由Claude驅動的Agentforce Coworker。"
-    },
-    {
-      "id": "5200300",
-      "time": "2026-11-07 05:29:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國今年麻疹病例數已超過5000例】總檯記者當地時間6日獲悉，根據美國疾病控制與預防中心最新更新的資料，今年美國麻疹病例數已超過5000例。目前已確認至少5182例病例，分佈在45個州及華盛頓特區。據美國疾病控制與預防中心統計，其中18例為來美訪問的國際旅客。2026年迄今已確認8例與麻疹相關的死亡病例：賓夕法尼亞州6例，紐約州1例，威斯康星州1例。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a1b2c2-d085-7ee0-aabc-656b17050f76",
-      "time": "2026-11-07 05:27:54",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "SpaceX (SPCX.O) said director Donald Harrison will resign from the board and that the resignation is not due to any disagreement."
-    },
-    {
-      "id": "5200299",
-      "time": "2026-11-07 05:26:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：哈里森的辭職並非因任何分歧所致。"
     }
   ]
 }
