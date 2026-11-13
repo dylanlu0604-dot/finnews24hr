@@ -1,7 +1,196 @@
 {
   "date": "2026-11-13",
-  "count": 1644,
+  "count": 1665,
   "items": [
+    {
+      "id": "5213509",
+      "time": "2026-11-13 21:49:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列摩薩德局長戈夫曼預計將在邁阿密會見美國中東問題特使威特科夫。"
+    },
+    {
+      "id": "mkt:01a1d52a-fd56-7bbc-abd5-f62816f3c9a3",
+      "time": "2026-11-13 21:48:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports Israel's Mossad chief Gofman will meet U.S. CIA Director Ratcliffe in Washington."
+    },
+    {
+      "id": "mkt:01a1d52a-7800-7bbc-abd5-ebe277c357f7",
+      "time": "2026-11-13 21:48:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "GOOLSBEE said the Fed must continue to rebuild its credibility."
+    },
+    {
+      "id": "5213508",
+      "time": "2026-11-13 21:48:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：在撤銷評級前，安進評級展望為穩定。"
+    },
+    {
+      "id": "5213507",
+      "time": "2026-11-13 21:47:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列情報負責人抵達華盛頓，內塔尼亞胡施壓美國總統特朗普重啟戰事。"
+    },
+    {
+      "id": "5213506",
+      "time": "2026-11-13 21:47:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽將出於商業原因撤銷對安進的評級。"
+    },
+    {
+      "id": "5213505",
+      "time": "2026-11-13 21:47:39",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：服務業通脹和醫療成本上漲感覺不會很快改變。"
+    },
+    {
+      "id": "5213504",
+      "time": "2026-11-13 21:47:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：美聯儲必須繼續重建其公信力。"
+    },
+    {
+      "id": "5213503",
+      "time": "2026-11-13 21:47:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級將撤銷對安進的評級。"
+    },
+    {
+      "id": "mkt:01a1d529-9d50-7bbc-abd5-e2aa5ad6db96",
+      "time": "2026-11-13 21:47:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "GOOLSBEE: I agree the Fed still has work to do on inflation."
+    },
+    {
+      "id": "5213502",
+      "time": "2026-11-13 21:47:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行行長加利波洛：壓縮風險溢價的唯一途徑是壓縮風險，而這與公信力直接相關。"
+    },
+    {
+      "id": "5213501",
+      "time": "2026-11-13 21:46:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報96.83美元/桶。"
+    },
+    {
+      "id": "mkt:01a1d528-ff07-7bbc-abd5-db404f28ef99",
+      "time": "2026-11-13 21:46:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada wholesale inventories YoY +4.7% in September; prior +4.1%."
+    },
+    {
+      "id": "mkt:01a1d528-f37f-7bbc-abd5-d69cf4d5c92a",
+      "time": "2026-11-13 21:46:33",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada wholesale sales YoY for September 7.8%, prior reading 7.2%."
+    },
+    {
+      "id": "mkt:01a1d528-e641-7bbc-abd5-c9413a45f479",
+      "time": "2026-11-13 21:46:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Inventories (YoY) (Sep) | actual 4.7% | previous 4.1%"
+    },
+    {
+      "id": "mkt:01a1d528-d7b1-7bbc-abd5-c3263bdc4eb2",
+      "time": "2026-11-13 21:46:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Sales (YoY) (Sep) | actual 7.8% | previous 7.2%"
+    },
+    {
+      "id": "5213500",
+      "time": "2026-11-13 21:46:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "嘉信理財10月新增經紀賬戶40.9萬個。"
+    },
+    {
+      "id": "5213499",
+      "time": "2026-11-13 21:45:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "嘉信理財10月客戶總資產13.27萬億美元。"
+    },
+    {
+      "id": "5213498",
+      "time": "2026-11-13 21:45:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：通脹正在上升，而且事實證明，其持續時間遠超預期，而此前通脹只是供應衝擊的問題。"
+    },
+    {
+      "id": "5213497",
+      "time": "2026-11-13 21:45:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "嘉信理財10月核心淨新增資產665億美元。"
+    },
+    {
+      "id": "5213496",
+      "time": "2026-11-13 21:45:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克表示，據報告，11月12日晚，美國中東問題特使威特科夫和特朗普女婿庫什納在都柏林向幾個歐洲國家領導人及歐盟代表通報了他們在莫斯科與俄羅斯總統普京會談的結果。"
+    },
     {
       "id": "5213495",
       "time": "2026-11-13 21:44:59",
