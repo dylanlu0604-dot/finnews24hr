@@ -1,7 +1,93 @@
 {
-  "updated": "2026-11-13 22:13:12",
-  "count": 9872,
+  "updated": "2026-11-13 22:17:23",
+  "count": 9873,
   "items": [
+    {
+      "id": "5213556",
+      "time": "2026-11-13 22:16:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超3.00%，現報3.632美元/百萬英熱。"
+    },
+    {
+      "id": "5213555",
+      "time": "2026-11-13 22:16:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國眾議院委員會發布關於內幕交易風險的備忘錄。"
+    },
+    {
+      "id": "5213554",
+      "time": "2026-11-13 22:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Sportradar Group美股盤前跌超10%】Sportradar Group美股盤前跌超10%，現報11.5美元。"
+    },
+    {
+      "id": "mkt:01a1d543-0b01-7bbc-abd6-b53883e25914",
+      "time": "2026-11-13 22:15:03",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【RBC BlueBay: Low FX volatility sidelines currency focus; cuts USD longs, raises MXN】RBC BlueBay Asset Management fixed-income CIO Mark Dowding said in a report that currency markets are trading with persistently low volatility and FX has largely dropped off the agenda at macro roundtables and industry events. He said a fall in energy prices would likely help the euro recover recent post‑US‑midterm-election losses. The firm has closed its USD long positions and increased exposure to the Mexican peso (MXN). More broadly, Dowding said some emerging‑market currencies remain attractive, with carry relative to volatility offering an appealing risk‑return profile."
+    },
+    {
+      "id": "5213553",
+      "time": "2026-11-13 22:14:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "KITKAT否認與微軟宕機事件有關。"
+    },
+    {
+      "id": "5213552",
+      "time": "2026-11-13 22:14:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "據兩位知情人士透露，在巴黎針對愛馬仕失蹤股份的調查中，法官下令對據稱的受害者尼古拉斯·普奇進行認知檢查。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611133930994582",
+      "time": "2026-11-13 22:12:56",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲柯林斯：加息可能損害住房可負擔性】美聯儲柯林斯表示，加息可能損害住房可負擔性。抗擊通脹優先於住房困境。住房和經濟需要長期的價格穩定。"
+    },
+    {
+      "id": "mkt:01a1d541-1abd-7bbc-abd6-ae6b7d84ef6f",
+      "time": "2026-11-13 22:12:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve official Collins said productivity gains help limit some inf pressure."
+    },
+    {
+      "id": "em:qqyh_mlc:202611133930993721",
+      "time": "2026-11-13 22:12:26",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲的柯林斯表示，應對通脹比住房問題更為重要。"
+    },
     {
       "id": "5213550",
       "time": "2026-11-13 22:12:16",
@@ -89956,77 +90042,6 @@
         "其他"
       ],
       "text": "白宮國家經濟委員會主任哈塞特：即便資料中心建設放緩，經濟仍可實現亮眼表現。"
-    },
-    {
-      "id": "5199870",
-      "time": "2026-11-06 22:17:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【法國外貿銀行清倉eBay、減持谷歌】基於法國外貿銀行（Natixis）提交的13F持倉檔案分析顯示：截至9月30日的季度，Natixis減持Alphabet A類股份，並清倉eBay。本次分析覆蓋1080項披露持倉，總市值237億美元。 科技股的配置權重增幅居所有行業首位，新建倉標的包括財捷（Intuit）、英特爾（Intel）。通訊板塊權重降幅最大，清倉標的包括Liberty Global A類股、Yelp。先鋒標普500ETF（Vanguard S&P500 ETF）為第一大持倉，佔資產規模15%。"
-    },
-    {
-      "id": "5199869",
-      "time": "2026-11-06 22:17:06",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【分析師： 美國勞動力供給趨緊，強勁就業資料或將推升薪資】高頻經濟公司首席經濟學家卡爾・溫伯格提出一個值得關注的看法。本次就業報告表現十分強勁，可用於填補新增崗位的勞動力基本已經不足，剩餘閒置勞動力難以投入生產、拉動 GDP 進一步增長。這份資料顯示，就業需求增長正在逼近不斷收縮、彈性有限的勞動力總量，薪資上漲或將隨之而至，美聯儲應當對此保持警惕。"
-    },
-    {
-      "id": "5199868",
-      "time": "2026-11-06 22:16:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：人工智慧泡沫確實值得關注。"
-    },
-    {
-      "id": "5199867",
-      "time": "2026-11-06 22:16:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：回顧過去三個月就業增長的迅猛勢頭。"
-    },
-    {
-      "id": "5199866",
-      "time": "2026-11-06 22:15:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【博通美股盤前漲超6%】博通美股盤前漲超6%，現報309.17美元。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202611063925146489",
-      "time": "2026-11-06 22:15:39",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "據報道，歐洲央行正考慮審查向資料中心發放的銀行貸款。"
-    },
-    {
-      "id": "5199865",
-      "time": "2026-11-06 22:13:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞國家油氣局：9月石油產量同比下降2.92%，日均產量為729593桶。"
-    },
-    {
-      "id": "5199864",
-      "time": "2026-11-06 22:13:15",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯央行：將 11 月 7 日盧布兌美元官方匯率設定為 82.1386 盧布兌 1 美元（前值為 81.7947）。"
     }
   ]
 }

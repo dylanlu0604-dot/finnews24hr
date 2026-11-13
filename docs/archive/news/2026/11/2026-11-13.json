@@ -1,7 +1,93 @@
 {
   "date": "2026-11-13",
-  "count": 1728,
+  "count": 1737,
   "items": [
+    {
+      "id": "5213556",
+      "time": "2026-11-13 22:16:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超3.00%，現報3.632美元/百萬英熱。"
+    },
+    {
+      "id": "5213555",
+      "time": "2026-11-13 22:16:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國眾議院委員會發布關於內幕交易風險的備忘錄。"
+    },
+    {
+      "id": "5213554",
+      "time": "2026-11-13 22:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Sportradar Group美股盤前跌超10%】Sportradar Group美股盤前跌超10%，現報11.5美元。"
+    },
+    {
+      "id": "mkt:01a1d543-0b01-7bbc-abd6-b53883e25914",
+      "time": "2026-11-13 22:15:03",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【RBC BlueBay: Low FX volatility sidelines currency focus; cuts USD longs, raises MXN】RBC BlueBay Asset Management fixed-income CIO Mark Dowding said in a report that currency markets are trading with persistently low volatility and FX has largely dropped off the agenda at macro roundtables and industry events. He said a fall in energy prices would likely help the euro recover recent post‑US‑midterm-election losses. The firm has closed its USD long positions and increased exposure to the Mexican peso (MXN). More broadly, Dowding said some emerging‑market currencies remain attractive, with carry relative to volatility offering an appealing risk‑return profile."
+    },
+    {
+      "id": "5213553",
+      "time": "2026-11-13 22:14:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "KITKAT否認與微軟宕機事件有關。"
+    },
+    {
+      "id": "5213552",
+      "time": "2026-11-13 22:14:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "據兩位知情人士透露，在巴黎針對愛馬仕失蹤股份的調查中，法官下令對據稱的受害者尼古拉斯·普奇進行認知檢查。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611133930994582",
+      "time": "2026-11-13 22:12:56",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲柯林斯：加息可能損害住房可負擔性】美聯儲柯林斯表示，加息可能損害住房可負擔性。抗擊通脹優先於住房困境。住房和經濟需要長期的價格穩定。"
+    },
+    {
+      "id": "mkt:01a1d541-1abd-7bbc-abd6-ae6b7d84ef6f",
+      "time": "2026-11-13 22:12:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve official Collins said productivity gains help limit some inf pressure."
+    },
+    {
+      "id": "em:qqyh_mlc:202611133930993721",
+      "time": "2026-11-13 22:12:26",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲的柯林斯表示，應對通脹比住房問題更為重要。"
+    },
     {
       "id": "5213550",
       "time": "2026-11-13 22:12:16",
