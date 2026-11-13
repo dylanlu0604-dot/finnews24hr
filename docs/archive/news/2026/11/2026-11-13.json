@@ -1,7 +1,53 @@
 {
   "date": "2026-11-13",
-  "count": 728,
+  "count": 733,
   "items": [
+    {
+      "id": "mkt:01a1d271-cc43-7bbc-abc2-487017968b7a",
+      "time": "2026-11-13 09:07:15",
+      "tags": [
+        "MKT News",
+        "2330.TW",
+        "Impact bullish"
+      ],
+      "text": "TSMC's Taiwan-listed shares rose 2%."
+    },
+    {
+      "id": "5212022",
+      "time": "2026-11-13 09:07:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潤邦股份：正持續推進在手船舶訂單的生產建造和交付】潤邦股份11月13日在互動平臺表示，公司正持續推進在手船舶訂單的生產建造和交付，預計今年全年可以交付各類船舶不少於五艘。目前公司環保業務整體發展較為平穩，2026年前三季度公司環保業務累計未出現虧損。"
+    },
+    {
+      "id": "5212021",
+      "time": "2026-11-13 09:07:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣副官房長官：政府系統也受到微軟系統宕機影響。"
+    },
+    {
+      "id": "5212020",
+      "time": "2026-11-13 09:06:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲3%，現報914.00元。"
+    },
+    {
+      "id": "mkt:01a1d271-81ac-7bbc-abc2-42611ed3ba2f",
+      "time": "2026-11-13 09:06:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China live-hog most-active futures contract rose more than 2.00% intraday to 9,845.00 yuan/ton."
+    },
     {
       "id": "5212019",
       "time": "2026-11-13 09:06:07",
