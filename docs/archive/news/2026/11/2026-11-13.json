@@ -1,7 +1,224 @@
 {
   "date": "2026-11-13",
-  "count": 701,
+  "count": 724,
   "items": [
+    {
+      "id": "5212017",
+      "time": "2026-11-13 09:01:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平將出席亞太經合組織第三十三次領導人非正式會議及相關活動】外交部發言人宣佈：亞太經合組織第三十三次領導人非正式會議將於11月18日至19日在深圳舉行，會議主題為“建設亞太共同體，促進共同繁榮”。國家主席習近平將主持會議並發表講話。亞太經合組織工商領導人峰會將於11月17日至18日在深圳舉行，會議主題為“共促繁榮，共贏未來”。國家主席習近平將出席開幕式並作主旨演講。會議期間，習近平主席還將為與會各經濟體領導人或代表舉行歡迎宴會，並同外國領導人舉行雙邊會晤。"
+    },
+    {
+      "id": "mkt:01a1d26c-6378-7bbc-abc2-34d4cb1486fe",
+      "time": "2026-11-13 09:01:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "A person familiar said that in NVIDIA's later period Jensen Huang's normally decisive manner had disappeared; he began saying “whatever” and “I don't care.”"
+    },
+    {
+      "id": "mkt:01a1d26c-4ac0-7bbc-abc2-2bda7e9cb861",
+      "time": "2026-11-13 09:01:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan weighted index opened 916.4 points higher, up 2.13%, at 44,008.27 on Friday, Nov. 13."
+    },
+    {
+      "id": "mkt:01a1d26c-2cfb-7bbc-abc2-218971a505a2",
+      "time": "2026-11-13 09:01:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 2.33% to 835.58 yuan/gram in early trade on Nov. 13 (Fri). Shanghai Gold Exchange silver T+D fell 2.74% to 12,011 yuan/kg."
+    },
+    {
+      "id": "mkt:01a1d26c-16ae-7bbc-abc2-1b2079a8565a",
+      "time": "2026-11-13 09:01:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's Xi to preside at 33rd APEC informal leaders' meeting in Shenzhen on Nov 18-19】The 33rd APEC informal leaders' meeting will be held in Shenzhen on Nov 18-19; Xi will preside and deliver remarks. Related events will accompany the meeting."
+    },
+    {
+      "id": "5212016",
+      "time": "2026-11-13 09:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報2575.50點。"
+    },
+    {
+      "id": "5212015",
+      "time": "2026-11-13 09:00:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上升6個基點，至3.725%。"
+    },
+    {
+      "id": "5212014",
+      "time": "2026-11-13 09:00:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報2547.00點。"
+    },
+    {
+      "id": "5212013",
+      "time": "2026-11-13 09:00:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲2%至43,972.22點。"
+    },
+    {
+      "id": "5212012",
+      "time": "2026-11-13 09:00:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報3258.00元。"
+    },
+    {
+      "id": "mkt:01a1d26b-9cf5-7bbc-abc2-1129bbbddb4f",
+      "time": "2026-11-13 09:00:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Coking coal most-active futures contract rose 2.00% intraday to 1,421.50 yuan/ton."
+    },
+    {
+      "id": "5212011",
+      "time": "2026-11-13 09:00:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺積電開盤上漲1.5%。"
+    },
+    {
+      "id": "5212010",
+      "time": "2026-11-13 09:00:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲2%，現報9371.00元。"
+    },
+    {
+      "id": "mkt:01a1d26b-696c-7bbc-abc2-0c6bfb427124",
+      "time": "2026-11-13 09:00:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures opened up 0.22%."
+    },
+    {
+      "id": "mkt:01a1d26b-65e3-7bbc-abc2-0738e75f60fb",
+      "time": "2026-11-13 09:00:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At the open, China's main futures contracts were mixed with gains outnumbering losses. Ethylene glycol (EG) rose over 4%, styrene (EB) gained over 3%, benzene, glass and low-sulfur fuel oil (LU) were up about 3%, and asphalt and propylene rose more than 2%. On the downside, Shanghai silver fell more than 3%, palladium and Shanghai gold declined about 3%, sunflower oil dropped over 1%, and soybean meal, white sugar, soybean No.2 and platinum fell near 1%."
+    },
+    {
+      "id": "5212009",
+      "time": "2026-11-13 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高1.5%報43,719.75。"
+    },
+    {
+      "id": "5212008",
+      "time": "2026-11-13 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報12040.00元。"
+    },
+    {
+      "id": "5212007",
+      "time": "2026-11-13 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲2%，現報909.00元。"
+    },
+    {
+      "id": "5212006",
+      "time": "2026-11-13 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】乙二醇連續漲4.03%，集運指數歐線期貨連續漲3.78%，白銀連續跌3.60%，苯乙烯連續漲3.43%，瀝青連續漲2.94%，甲醇連續漲2.91%。"
+    },
+    {
+      "id": "5212005",
+      "time": "2026-11-13 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲4%，現報5194.00元。"
+    },
+    {
+      "id": "5212004",
+      "time": "2026-11-13 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.25%。"
+    },
+    {
+      "id": "5212003",
+      "time": "2026-11-13 09:00:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前10個月大灣區內地9市進出口9.46萬億元 同比增長26%】據海關總署廣東分署統計，今年前10個月，大灣區內地9市進出口9.46萬億元，同比增長26%，快於全國外貿增速6個百分點，佔全國進出口總值的比重較去年同期提升1個百分點至21.1%。其中，出口5.54萬億元，增長15.1%；進口3.92萬億元，增長45.4%。"
+    },
+    {
+      "id": "5212002",
+      "time": "2026-11-13 08:59:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1001.45美元/盎司。"
+    },
     {
       "id": "5212001",
       "time": "2026-11-13 08:57:32",
