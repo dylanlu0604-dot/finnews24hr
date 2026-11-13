@@ -1,7 +1,257 @@
 {
   "date": "2026-11-13",
-  "count": 1690,
+  "count": 1717,
   "items": [
+    {
+      "id": "mkt:01a1d53c-af9a-7bbc-abd6-8d9281f946d2",
+      "time": "2026-11-13 22:08:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's foreign ministry said it is necessary to increase pressure on Yemen's Houthi militants to compel them to cease unacceptable attacks, particularly those targeting Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a1d53c-7b07-7bbc-abd6-83883bd569c5",
+      "time": "2026-11-13 22:07:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "BofA Global Research has added a 25bp Fed hike in January 2027 to its forecast and now expects 25bp hikes in December 2026, January 2027 and March 2027."
+    },
+    {
+      "id": "mkt:01a1d53c-4e25-7bbc-abd6-7f7d2815ebfc",
+      "time": "2026-11-13 22:07:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "9868.HK",
+        "Impact bullish"
+      ],
+      "text": "【XPeng plans five right-hand-drive models for UK in 2027】XPeng (09868.HK) said it plans to introduce five new right-hand-drive models to the UK in 2027 and will bring its next-generation NGP driver-assistance system with VLA 2.0 to the market. Over the next year the company plans to establish about 100 retail and service outlets across the UK."
+    },
+    {
+      "id": "5213543",
+      "time": "2026-11-13 22:07:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部：有必要加大對葉門胡塞武裝的施壓力度，以促使其停止不可接受的襲擊，尤其是針對沙烏地阿拉伯的襲擊。"
+    },
+    {
+      "id": "5213542",
+      "time": "2026-11-13 22:06:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行行長加利波洛：我們尚未將消費稅改革帶來的稅率衝擊納入考量。"
+    },
+    {
+      "id": "mkt:01a1d53b-8132-7bbc-abd6-70c33c7bcd8f",
+      "time": "2026-11-13 22:06:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Niushidate Planetary Transmission System's ChiNext IPO approved by SZSE listing committee】The Shenzhen Stock Exchange Listing Review Committee, at its 62nd meeting of 2026, approved Niushidate Planetary Transmission System Technology (Zibo) Co., Ltd.'s initial public offering for the ChiNext board, finding the IPO meets issuance, listing and information-disclosure requirements."
+    },
+    {
+      "id": "mkt:01a1d53b-24c0-7bbc-abd6-6c87e580eb8e",
+      "time": "2026-11-13 22:06:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures fell more than 3.00% intraday, trading at $3.239/MMBtu."
+    },
+    {
+      "id": "5213541",
+      "time": "2026-11-13 22:05:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克旗下AI團隊大幅裁撤Grok影片生成團隊】據知情人士透露，SpaceX的人工智慧團隊裁撤了Grok Imagine大部分研發人員，Grok Imagine是該公司用於影片、影象生成的AI工具。上週，SpaceX超級智慧團隊約60名Grok Imagine相關員工被裁員，僅留下少量人員維持產品基本運轉。該工具目前仍可正常使用，但失去專職研發團隊後，它的未來充滿不確定性。 知情人士表示，SpaceX在今年2月以價值2500億美元的股票收購馬斯克旗下AI公司xAI之後，戰略重心轉向AI程式碼工具與GrokBot智慧體產品，優先順序高於其他產品線。8月，SpaceX斥資600億美元收購AI程式碼初創公司Cursor，正是這次戰略調整的一環。"
+    },
+    {
+      "id": "mkt:01a1d53a-4c81-7bbc-abd6-6167cdbdc9fb",
+      "time": "2026-11-13 22:05:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【TTANQT LITHIUM completes 1,000 t/yr battery-grade metallic lithium plant】TTANQT LITHIUM said on Nov 12 it completed a 1,000 t/yr high-energy battery-grade metallic lithium plant in Tongliang, Chongqing. The plant is China’s first fully automated battery-grade metallic lithium factory. After start-up, TTANQT LITHIUM’s Chongqing metal lithium capacity will rise to 1,600 t/yr."
+    },
+    {
+      "id": "mkt:01a1d53a-01fa-7bbc-abd6-583b43fa2d38",
+      "time": "2026-11-13 22:05:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's foreign minister Wang Yi meets South Korea's foreign minister in Beijing】China foreign minister Wang Yi met with South Korea's foreign minister in Beijing. Both sides pledged to maintain neighbourly ties and multi-level dialogue and to deepen pragmatic cooperation. China said it will seek to build greater mutual trust and expand cooperation beyond traditional areas into artificial intelligence, biopharmaceuticals, green low-carbon technologies and the silver economy to cultivate new growth engines and enlarge shared economic interests."
+    },
+    {
+      "id": "5213540",
+      "time": "2026-11-13 22:05:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，以色列軍隊在黎巴嫩南部城鎮希亞姆和扎瓦塔爾加比亞附近實施了大規模爆炸。"
+    },
+    {
+      "id": "5213539",
+      "time": "2026-11-13 22:05:06",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美銀全球研究將其對2027年1月美聯儲加息的預測上調25個基點；目前預計將在2026年12月、2027年1月和3月加息"
+    },
+    {
+      "id": "5213538",
+      "time": "2026-11-13 22:04:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天齊鋰業1000噸/年高能鋰電材料電池級金屬鋰專案竣工】據天齊鋰業訊息，11月12日，天齊鋰業年產1000噸高能鋰電材料電池級金屬鋰專案竣工儀式在重慶市銅梁區舉行。該專案是全國首個全自動電池級金屬鋰工廠，集大型化、自動化、節能化於一體。專案投產後，天齊鋰業重慶金屬鋰總產能將提升至1600噸/年。"
+    },
+    {
+      "id": "5213537",
+      "time": "2026-11-13 22:04:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【波蘭華沙肖邦國際機場一架客機因無人機干擾中止降落】當地時間13日，波蘭華沙肖邦國際機場一架從布拉格飛往華沙的波蘭航空公司客機因無人機干擾中止降落。客機在較低高度發現無人機出現在進近航線上，機組增加推力復飛，在華沙上空盤旋約十幾分鍾後再次嘗試降落並安全著陸。機場發言人魯茲基證實事件發生，稱中止降落屬標準程式，機場執行安全未受影響。波蘭對華沙周邊空域實施特殊限制，操作無人機需獲許可；若導致航空運輸直接災難危險，責任人最高可能面臨5年監禁。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1d539-14ae-7bbc-abd6-54446525dd0d",
+      "time": "2026-11-13 22:04:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O): service availability continues to improve."
+    },
+    {
+      "id": "mkt:01a1d539-0021-7bbc-abd6-4a61692164c5",
+      "time": "2026-11-13 22:04:04",
+      "tags": [
+        "MKT News",
+        "RBLX.O",
+        "Impact bearish"
+      ],
+      "text": "Roblox (RBLX.N) fell 3% in premarket trading after Citigroup cut its rating."
+    },
+    {
+      "id": "mkt:01a1d538-bc96-7bbc-abd6-466c31691fb7",
+      "time": "2026-11-13 22:03:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's military carried out large-scale demolition operations in the southern Lebanon town of Sheyam and near Zawtar al-Gharbiyah."
+    },
+    {
+      "id": "5213536",
+      "time": "2026-11-13 22:03:32",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "花旗下調評級後，Roblox盤前下跌3%。"
+    },
+    {
+      "id": "5213535",
+      "time": "2026-11-13 22:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：郵件佇列已大幅減少，接近正常水平。"
+    },
+    {
+      "id": "5213534",
+      "time": "2026-11-13 22:03:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：服務可用性繼續提升。"
+    },
+    {
+      "id": "5213533",
+      "time": "2026-11-13 22:03:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX旗下AI業務在Grok Imagine影片團隊裁員60人。"
+    },
+    {
+      "id": "5213532",
+      "time": "2026-11-13 22:02:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Marvell將展示AI基礎設施互聯及記憶體技術 聚焦跨機架擴充套件】Marvell宣佈將在11月15日至20日舉行的Supercomputing 2026大會上展示面向AI基礎設施的互聯及記憶體技術，涵蓋光互聯、CXL記憶體擴充套件、交換晶片及高速電纜等領域。公司表示，隨著AI和高效能運算工作負載增長，互聯和記憶體瓶頸正導致計算資源利用率下降，將透過交換及互聯技術、CXL記憶體擴充套件和加速技術，推動記憶體與互聯作為整體系統協同擴充套件。"
+    },
+    {
+      "id": "5213531",
+      "time": "2026-11-13 22:02:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "微軟就宕機事件回應：在恢復工作持續推進的過程中，部分美國使用者可能仍會遇到間歇性訪問問題或電子郵件延遲送達的情況。"
+    },
+    {
+      "id": "5213530",
+      "time": "2026-11-13 22:02:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃隆·馬斯克旗下的 xAI 目前將 AI 程式設計工具及其 Grok 機器人代理產品列為優先事項。"
+    },
+    {
+      "id": "mkt:01a1d537-18f9-7bbc-abd6-3c7172bc87f6",
+      "time": "2026-11-13 22:02:00",
+      "tags": [
+        "MKT News",
+        "09899.HK",
+        "Impact bullish"
+      ],
+      "text": "NetEase Cloud Music (09899.HK) said it has reached a cooperation agreement with Sony Music Entertainment."
+    },
+    {
+      "id": "5213529",
+      "time": "2026-11-13 22:01:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟就宕機事件回應：我們持續看到服務可用性有所改善，郵件佇列已大幅減少，正接近正常水平。"
+    },
+    {
+      "id": "5213528",
+      "time": "2026-11-13 22:01:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朱忠明會見可口可樂公司執行長，希望公司助力上海國際消費中心城市建設】上海市市長朱忠明今天（11月13日）會見了可口可樂公司執行長柏瑞凱一行。朱忠明說，上海是國家重大戰略的集中承載地，正加快建成具有世界影響力的社會主義現代化國際大都市。我們將加快構建現代化產業體系，加快推動人工智慧賦能，促進消費提質擴容。可口可樂公司的發展理念與上海城市功能定位、發展戰略十分契合，相信我們一定能深化合作、共贏未來。希望公司加大在滬投資佈局力度，持續提升上海總部在全球佈局中的地位，助力上海國際消費中心城市建設，將更多全球新品、限定產品和創新消費場景放在上海首發首秀首展，促進消費領域形成新的增長點。上海將持續打造市場化、法治化、國際化的一流營商環境，歡迎積極建言獻策，幫助我們不斷最佳化服務。（澎湃）"
+    },
     {
       "id": "5213527",
       "time": "2026-11-13 22:00:55",

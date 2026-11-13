@@ -1,7 +1,257 @@
 {
-  "updated": "2026-11-13 22:01:47",
-  "count": 9850,
+  "updated": "2026-11-13 22:09:19",
+  "count": 9867,
   "items": [
+    {
+      "id": "mkt:01a1d53c-af9a-7bbc-abd6-8d9281f946d2",
+      "time": "2026-11-13 22:08:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's foreign ministry said it is necessary to increase pressure on Yemen's Houthi militants to compel them to cease unacceptable attacks, particularly those targeting Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a1d53c-7b07-7bbc-abd6-83883bd569c5",
+      "time": "2026-11-13 22:07:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "BofA Global Research has added a 25bp Fed hike in January 2027 to its forecast and now expects 25bp hikes in December 2026, January 2027 and March 2027."
+    },
+    {
+      "id": "mkt:01a1d53c-4e25-7bbc-abd6-7f7d2815ebfc",
+      "time": "2026-11-13 22:07:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "9868.HK",
+        "Impact bullish"
+      ],
+      "text": "【XPeng plans five right-hand-drive models for UK in 2027】XPeng (09868.HK) said it plans to introduce five new right-hand-drive models to the UK in 2027 and will bring its next-generation NGP driver-assistance system with VLA 2.0 to the market. Over the next year the company plans to establish about 100 retail and service outlets across the UK."
+    },
+    {
+      "id": "5213543",
+      "time": "2026-11-13 22:07:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部：有必要加大對葉門胡塞武裝的施壓力度，以促使其停止不可接受的襲擊，尤其是針對沙烏地阿拉伯的襲擊。"
+    },
+    {
+      "id": "5213542",
+      "time": "2026-11-13 22:06:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行行長加利波洛：我們尚未將消費稅改革帶來的稅率衝擊納入考量。"
+    },
+    {
+      "id": "mkt:01a1d53b-8132-7bbc-abd6-70c33c7bcd8f",
+      "time": "2026-11-13 22:06:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Niushidate Planetary Transmission System's ChiNext IPO approved by SZSE listing committee】The Shenzhen Stock Exchange Listing Review Committee, at its 62nd meeting of 2026, approved Niushidate Planetary Transmission System Technology (Zibo) Co., Ltd.'s initial public offering for the ChiNext board, finding the IPO meets issuance, listing and information-disclosure requirements."
+    },
+    {
+      "id": "mkt:01a1d53b-24c0-7bbc-abd6-6c87e580eb8e",
+      "time": "2026-11-13 22:06:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures fell more than 3.00% intraday, trading at $3.239/MMBtu."
+    },
+    {
+      "id": "5213541",
+      "time": "2026-11-13 22:05:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克旗下AI團隊大幅裁撤Grok影片生成團隊】據知情人士透露，SpaceX的人工智慧團隊裁撤了Grok Imagine大部分研發人員，Grok Imagine是該公司用於影片、影象生成的AI工具。上週，SpaceX超級智慧團隊約60名Grok Imagine相關員工被裁員，僅留下少量人員維持產品基本運轉。該工具目前仍可正常使用，但失去專職研發團隊後，它的未來充滿不確定性。 知情人士表示，SpaceX在今年2月以價值2500億美元的股票收購馬斯克旗下AI公司xAI之後，戰略重心轉向AI程式碼工具與GrokBot智慧體產品，優先順序高於其他產品線。8月，SpaceX斥資600億美元收購AI程式碼初創公司Cursor，正是這次戰略調整的一環。"
+    },
+    {
+      "id": "mkt:01a1d53a-4c81-7bbc-abd6-6167cdbdc9fb",
+      "time": "2026-11-13 22:05:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【TTANQT LITHIUM completes 1,000 t/yr battery-grade metallic lithium plant】TTANQT LITHIUM said on Nov 12 it completed a 1,000 t/yr high-energy battery-grade metallic lithium plant in Tongliang, Chongqing. The plant is China’s first fully automated battery-grade metallic lithium factory. After start-up, TTANQT LITHIUM’s Chongqing metal lithium capacity will rise to 1,600 t/yr."
+    },
+    {
+      "id": "mkt:01a1d53a-01fa-7bbc-abd6-583b43fa2d38",
+      "time": "2026-11-13 22:05:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's foreign minister Wang Yi meets South Korea's foreign minister in Beijing】China foreign minister Wang Yi met with South Korea's foreign minister in Beijing. Both sides pledged to maintain neighbourly ties and multi-level dialogue and to deepen pragmatic cooperation. China said it will seek to build greater mutual trust and expand cooperation beyond traditional areas into artificial intelligence, biopharmaceuticals, green low-carbon technologies and the silver economy to cultivate new growth engines and enlarge shared economic interests."
+    },
+    {
+      "id": "5213540",
+      "time": "2026-11-13 22:05:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，以色列軍隊在黎巴嫩南部城鎮希亞姆和扎瓦塔爾加比亞附近實施了大規模爆炸。"
+    },
+    {
+      "id": "5213539",
+      "time": "2026-11-13 22:05:06",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美銀全球研究將其對2027年1月美聯儲加息的預測上調25個基點；目前預計將在2026年12月、2027年1月和3月加息"
+    },
+    {
+      "id": "5213538",
+      "time": "2026-11-13 22:04:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天齊鋰業1000噸/年高能鋰電材料電池級金屬鋰專案竣工】據天齊鋰業訊息，11月12日，天齊鋰業年產1000噸高能鋰電材料電池級金屬鋰專案竣工儀式在重慶市銅梁區舉行。該專案是全國首個全自動電池級金屬鋰工廠，集大型化、自動化、節能化於一體。專案投產後，天齊鋰業重慶金屬鋰總產能將提升至1600噸/年。"
+    },
+    {
+      "id": "5213537",
+      "time": "2026-11-13 22:04:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【波蘭華沙肖邦國際機場一架客機因無人機干擾中止降落】當地時間13日，波蘭華沙肖邦國際機場一架從布拉格飛往華沙的波蘭航空公司客機因無人機干擾中止降落。客機在較低高度發現無人機出現在進近航線上，機組增加推力復飛，在華沙上空盤旋約十幾分鍾後再次嘗試降落並安全著陸。機場發言人魯茲基證實事件發生，稱中止降落屬標準程式，機場執行安全未受影響。波蘭對華沙周邊空域實施特殊限制，操作無人機需獲許可；若導致航空運輸直接災難危險，責任人最高可能面臨5年監禁。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1d539-14ae-7bbc-abd6-54446525dd0d",
+      "time": "2026-11-13 22:04:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O): service availability continues to improve."
+    },
+    {
+      "id": "mkt:01a1d539-0021-7bbc-abd6-4a61692164c5",
+      "time": "2026-11-13 22:04:04",
+      "tags": [
+        "MKT News",
+        "RBLX.O",
+        "Impact bearish"
+      ],
+      "text": "Roblox (RBLX.N) fell 3% in premarket trading after Citigroup cut its rating."
+    },
+    {
+      "id": "mkt:01a1d538-bc96-7bbc-abd6-466c31691fb7",
+      "time": "2026-11-13 22:03:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's military carried out large-scale demolition operations in the southern Lebanon town of Sheyam and near Zawtar al-Gharbiyah."
+    },
+    {
+      "id": "5213536",
+      "time": "2026-11-13 22:03:32",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "花旗下調評級後，Roblox盤前下跌3%。"
+    },
+    {
+      "id": "5213535",
+      "time": "2026-11-13 22:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：郵件佇列已大幅減少，接近正常水平。"
+    },
+    {
+      "id": "5213534",
+      "time": "2026-11-13 22:03:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：服務可用性繼續提升。"
+    },
+    {
+      "id": "5213533",
+      "time": "2026-11-13 22:03:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX旗下AI業務在Grok Imagine影片團隊裁員60人。"
+    },
+    {
+      "id": "5213532",
+      "time": "2026-11-13 22:02:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Marvell將展示AI基礎設施互聯及記憶體技術 聚焦跨機架擴充套件】Marvell宣佈將在11月15日至20日舉行的Supercomputing 2026大會上展示面向AI基礎設施的互聯及記憶體技術，涵蓋光互聯、CXL記憶體擴充套件、交換晶片及高速電纜等領域。公司表示，隨著AI和高效能運算工作負載增長，互聯和記憶體瓶頸正導致計算資源利用率下降，將透過交換及互聯技術、CXL記憶體擴充套件和加速技術，推動記憶體與互聯作為整體系統協同擴充套件。"
+    },
+    {
+      "id": "5213531",
+      "time": "2026-11-13 22:02:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "微軟就宕機事件回應：在恢復工作持續推進的過程中，部分美國使用者可能仍會遇到間歇性訪問問題或電子郵件延遲送達的情況。"
+    },
+    {
+      "id": "5213530",
+      "time": "2026-11-13 22:02:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃隆·馬斯克旗下的 xAI 目前將 AI 程式設計工具及其 Grok 機器人代理產品列為優先事項。"
+    },
+    {
+      "id": "mkt:01a1d537-18f9-7bbc-abd6-3c7172bc87f6",
+      "time": "2026-11-13 22:02:00",
+      "tags": [
+        "MKT News",
+        "09899.HK",
+        "Impact bullish"
+      ],
+      "text": "NetEase Cloud Music (09899.HK) said it has reached a cooperation agreement with Sony Music Entertainment."
+    },
+    {
+      "id": "5213529",
+      "time": "2026-11-13 22:01:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟就宕機事件回應：我們持續看到服務可用性有所改善，郵件佇列已大幅減少，正接近正常水平。"
+    },
+    {
+      "id": "5213528",
+      "time": "2026-11-13 22:01:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朱忠明會見可口可樂公司執行長，希望公司助力上海國際消費中心城市建設】上海市市長朱忠明今天（11月13日）會見了可口可樂公司執行長柏瑞凱一行。朱忠明說，上海是國家重大戰略的集中承載地，正加快建成具有世界影響力的社會主義現代化國際大都市。我們將加快構建現代化產業體系，加快推動人工智慧賦能，促進消費提質擴容。可口可樂公司的發展理念與上海城市功能定位、發展戰略十分契合，相信我們一定能深化合作、共贏未來。希望公司加大在滬投資佈局力度，持續提升上海總部在全球佈局中的地位，助力上海國際消費中心城市建設，將更多全球新品、限定產品和創新消費場景放在上海首發首秀首展，促進消費領域形成新的增長點。上海將持續打造市場化、法治化、國際化的一流營商環境，歡迎積極建言獻策，幫助我們不斷最佳化服務。（澎湃）"
+    },
     {
       "id": "5213527",
       "time": "2026-11-13 22:00:55",
@@ -89720,95 +89970,6 @@
         "國際"
       ],
       "text": "美國能源部：特朗普政府推遲白宮技術會議，該會議原計劃包括英偉達的黃仁勳和 Meta 的扎克伯格。"
-    },
-    {
-      "id": "5199857",
-      "time": "2026-11-06 22:08:28",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國國債下跌 因強勁非農就業報告提振加息預期】美國國債下跌，美國就業增長意外大幅加快促使交易員加碼押注美聯儲將在12月會議上加息。各期限國債收益率走高，其中對美聯儲利率路徑前景更為敏感的兩年期國債收益率一度上漲7個基點至4.54%。10年期國債收益率上漲4個基點，至4.87%。資料顯示，美國10月新增16.5萬個就業崗位，高於預期。交易員維持對美聯儲進一步加息的預期，市場計入下個月加息25個基點的機率為70%。總體而言，市場預計到2027年9月底，美聯儲將至少再加息40個基點。"
-    },
-    {
-      "id": "5199856",
-      "time": "2026-11-06 22:06:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "安德瑪高管：預計第三季度調整後每股虧損 1 至 3 美分，而市場預期為盈利 4 美分。"
-    },
-    {
-      "id": "5199855",
-      "time": "2026-11-06 22:06:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "EXTREME NETWORKS股價盤前上漲20.5%，此前報道稱該公司正在探索出售事宜。"
-    },
-    {
-      "id": "5199854",
-      "time": "2026-11-06 22:05:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【加拿大皇家銀行： 就業資料波動及頻繁修正令投資者疲憊，美債反應溫和】加拿大皇家銀行資本市場美國利率策略師艾薩克・布魯克表示：“在這份大幅超預期的報告裡，我認為沒有太多全新訊號，僅說明非農資料本身波動很大，整體勞動力市場依舊穩健，而這一點市場早已知曉。” 投資者普遍對非農就業資料的波動以及大幅修正感到倦怠，這也解釋了為何今早資料全面超預期，但美債市場反應相對平淡。美國兩年期國債收益率較資料公佈前僅小幅上行幾個基點，報 4.53%。"
-    },
-    {
-      "id": "5199853",
-      "time": "2026-11-06 22:04:00",
-      "tags": [
-        "市場",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【惠譽： 美國就業資料持續強勁，加大 12 月加息可能性】惠譽評級美國經濟主管奧盧・索諾拉稱，後續趨勢將單向走強： 資料持續向好。繼上週穩健的國內生產總值與消費支出資料之後，本次就業報告表現強勁，鞏固了經濟上行動能。近期市場擔憂 AI 資本開支的可持續性，給這一前景帶來風險，但目前經濟基本面依舊穩固。勞動力市場的韌性令美聯儲持續緊盯通脹，政策討論進一步偏向 12 月加息。"
-    },
-    {
-      "id": "5199852",
-      "time": "2026-11-06 22:03:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【臺積電考慮投產先進儲存晶片，爭奪更多 AI 算力訂單】兩名知情人士透露，臺積電正考慮進軍先進儲存晶片製造領域。一旦落地，這家全球最大晶圓代工廠將在 AI 硬體供應鏈中佔據更大份額。兩位知情人士稱，應其最大客戶英偉達的要求，這家臺灣晶片巨頭近期著手規劃一款特定先進儲存晶片 ——3D DRAM 的生產方案。AI 硬體熱潮催生儲存晶片嚴重緊缺，價格大幅上漲，促使英偉達、蘋果等晶片設計企業尋找新增供給來源。蘋果今年早些時候就以儲存成本上漲為由上調終端產品售價。目前尚不清楚臺積電計劃何時投產，以及將如何獲取所需生產廠房。知情人士補充，臺積電可以選擇新建工廠。知情人士還表示，臺積電同時在考察另一條路徑：收購現有廠房並改造為儲存產線。美光就採取了類似做法。臺積電回應稱：“我們不對市場傳聞與猜測置評。臺積電始終聚焦核心業務，專注積體電路代工。我們的目標是長期作為全球邏輯晶片行業值得信賴的技術與產能供應商。” 英偉達暫未回應置評請求。"
-    },
-    {
-      "id": "5199851",
-      "time": "2026-11-06 22:03:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【最高出資100億美元！SK海力士設立美國AI投資子公司Hyaico 崔泰源掌舵】SK海力士設立美國AI投資子公司Hyaico，由SK集團會長崔泰源出任董事長，統籌最高100億美元規模的美國AI產業投資。 這家晶片廠商周二向美國SEC提交檔案，正式公佈該主體名稱與管理層架構；該計劃在今年1月對外披露時，曾使用臨時名稱AI Co．。Hyaico將依託SK海力士在美國的NAND快閃記憶體子公司Solidigm開展運營，投資美國AI企業以及AI工廠等基礎設施專案。 該投資平臺將助力SK集團從儲存晶片賽道向外拓展，佈局更廣闊的AI生態，同時聯動集團關聯企業共享技術與商業機會。 Hyaico採用出資承諾制（capital calls），SK海力士及其他投資方在出現合適投資機會時再分批出資。規劃的100億美元為最高承諾出資額，並非即刻投入資金。"
-    },
-    {
-      "id": "5199850",
-      "time": "2026-11-06 22:02:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜在美國推出基於文字的Alexa購物功能。"
-    },
-    {
-      "id": "5199849",
-      "time": "2026-11-06 22:02:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電考慮生產先進儲存晶片。"
-    },
-    {
-      "id": "5199848",
-      "time": "2026-11-06 22:02:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【申萬宏源證券完成第三批次互換便利操作】11月6日訊息，申萬宏源證券已開始執行第三批次互換便利操作。公司表示，會持續發揮好互換便利政策工具穩定市場功能，持續推進互換便利資金買入A股股票及基金，為維護資本市場平穩健康發展貢獻力量。截至目前，前兩批次互換便利額度已全部用於投資A股及股票ETF。"
     }
   ]
 }
