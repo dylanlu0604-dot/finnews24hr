@@ -1,7 +1,34 @@
 {
   "date": "2026-11-13",
-  "count": 1091,
+  "count": 1094,
   "items": [
+    {
+      "id": "mkt:01a1d36b-6f7f-7bbc-abc6-e5eb5f910218",
+      "time": "2026-11-13 13:39:55",
+      "tags": [
+        "MKT News",
+        "MSFT.O"
+      ],
+      "text": "【Malaysia: Microsoft 365 outage likely technical or infrastructure issue, not cyberattack】Malaysia’s National Cyber Security Agency (NACSA) said the global Microsoft 365 outage that affected Malaysia is more likely the result of technical or infrastructure problems than a cyberattack. NACSA said the disruption affected Outlook, Teams, SharePoint, Copilot and Microsoft Defender XDR and urged government agencies and critical information infrastructure operators to verify service impact, keep cybersecurity monitoring operational and follow Microsoft’s updates."
+    },
+    {
+      "id": "mkt:01a1d369-9c12-7bbc-abc6-da3f2af35af2",
+      "time": "2026-11-13 13:37:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Xi Jinping directs strengthened Party governance in state-owned enterprises】Xi Jinping instructed sustained, comprehensive strict Party governance to provide a firm guarantee for strengthening, optimizing and expanding state-owned enterprises and state capital."
+    },
+    {
+      "id": "5212360",
+      "time": "2026-11-13 13:37:37",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【習近平對國有企業黨的建設工作作出重要指示】中共中央總書記、國家主席、中央軍委主席習近平近日對國有企業黨的建設工作作出重要指示指出，黨的十八大以來，國有企業認真落實黨中央決策部署，黨的建設得到加強，各項工作取得新成效。習近平強調，新徵程上，要全面貫徹新時代黨建思想，深入貫徹黨的二十屆五中全會部署，堅持和加強黨對國有企業的全面領導，持之以恆推進全面從嚴治黨，以高質量黨建引領企業高質量發展。要著力完善中國特色現代企業制度，推動黨的領導更好融入公司治理各環節；著力增強黨組織政治功能和組織功能，促進黨建工作與生產經營深度融合；著力加強領導班子建設，鍛造高素質專業化幹部人才隊伍；著力落實管黨治黨政治責任，堅定不移正風肅紀反腐，營造風清氣正、幹事創業的良好氛圍，為做強做優做大國有企業和國有資本提供堅強保障。（新華社）"
+    },
     {
       "id": "mkt:01a1d367-5e87-7bbc-abc6-d29ad017e167",
       "time": "2026-11-13 13:35:29",
