@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-14 04:48:36",
+  "updated": "2026-11-14 04:52:20",
   "count": 9753,
   "items": [
+    {
+      "id": "mkt:01a1d6ad-9c08-7bbc-abdc-94e83037b643",
+      "time": "2026-11-14 04:51:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed December hike priced in; markets now expect further 25bp moves in Jan and Mar】Fed officials delivered a string of hawkish comments this week, solidifying market odds of a 25bp hike in December and prompting pricing for additional 25bp moves in January and March. US October CPI showed accelerating inf and broader price pressures, and October wholesale prices' YoY gain rose to the highest level since 2022, strengthening the case for tightening. New York Fed President Williams said inf remains too high; Chicago Fed President Goolsbee called the data worrying; Dallas Fed President Logan said faster tightening may be needed; Fed Governor WALLER flagged a possible 50bp move next month. Markets now price +25bp in Dec, Jan and Mar (vs. prior market view that only Dec and Mar would tighten); BofA has modeled hikes at the next three meetings while Santander expects hikes in Dec and Mar. Officials remain divided on pace — some favour gradual, small steps; Boston Fed President Collins said the direction is clear but declined to pre-judge size or speed. Rising rate expectations have pushed US Treasury yields higher, though weak housing, softer-than-expected AI investment returns and potential energy-price declines remain variables for policy decisions."
+    },
+    {
+      "id": "5213912",
+      "time": "2026-11-14 04:50:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國CFTC計劃對美國的鋁價機制進行全面改革】美國商品期貨交易委員會（CFTC）主席塞利格（Michael Selig）週五表示，該委員會正計劃對美國的鋁價機制進行全面改革，並探討新合約能否提高市場透明度。受中東戰爭引發的供應短缺影響，倫敦金屬交易所（LME）鋁價升至3,700美元以上的四年高點，這使得美國消費者面臨的總成本超過每噸6,000美元。“令人擔憂的是，美國製造商可能會因基準定價機制與美國實物金屬市場脫節，而面臨包含實際供應鏈成本之外因素的鋁價，”塞利格表示。“我已指示全球市場團隊審查這些定價機制，並制定具體的改革方案，以保護美國市場和美國製造商，”他在啤酒協會（Beer Institute）的年度會議上補充道，該協會的部分成員使用鋁材製造飲料罐。"
+    },
     {
       "id": "mkt:01a1d6aa-9de2-7bbc-abdc-8d8b7a5b4128",
       "time": "2026-11-14 04:47:48",
@@ -88694,28 +88718,6 @@
         "其他"
       ],
       "text": "Birch Hill Equity Partners據悉將收購CD&R旗下的TruGreen。"
-    },
-    {
-      "id": "5200252",
-      "time": "2026-11-07 04:52:07",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【拉美股市與貨幣上漲，墨西哥比索在墨西哥央行降息後反彈】週五，多數拉美股票和貨幣小幅走高，並有望以強勁態勢收官本週；投資者正在權衡美國中期選舉結果、強勁的美國就業報告以及地區央行的政策訊號。MSCI拉美貨幣指數表現平淡，整體上恐將連續第二週周線下跌。該地區股票指數上漲0.6%，不過本週仍小幅走低，並有望將連跌走勢延續至第四周。在地區層面，墨西哥比索漲0.6%，收復了週四墨西哥央行意外將基準利率下調25個基點後引發的部分跌幅。該行稱此舉為”一次性調整”。比索本週有望錄得溫和漲幅，這將終結由此前美國貿易談判不確定性以及央行9月會議紀要偏鴿所導致的連續八週下跌。墨西哥股市上漲0.3%，連續第三日上漲，並有望實現周線上漲。"
-    },
-    {
-      "id": "te:markets:599267",
-      "time": "2026-11-07 04:50:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil 10-Year Yield Cuts Gains to Hover Around 15.19% — Brazil’s 10-year government bond yield trimmed gains to hover around 15.19% in November after President Lula reassured markets on fiscal adjustment. Lula reiterated that his government is committed to fiscal responsibility while also considering social responsibility, amid pressure to announce adjustment measures and a drop in Brazilian assets after his late-October reelection. Investors remain focused on fiscal policy, especially the government’s commitment to controlling spending and public debt, which has risen significantly in recent years. Meanwhile, US nonfarm payrolls increased by 165,000 last month, topping all forecasts, and the unemployment rate edged lower. The stronger figures reinforced expectations that the Fed will maintain a restrictive stance. Higher-for-longer rates in advanced economies could also pressure the BCB to keep policy restrictive. The BCB held the Selic rate at 13.75% at its latest meeting, pausing its easing cycle."
     }
   ]
 }
