@@ -1,7 +1,51 @@
 {
-  "updated": "2026-11-14 05:18:20",
-  "count": 9772,
+  "updated": "2026-11-14 05:22:04",
+  "count": 9775,
   "items": [
+    {
+      "id": "5213962",
+      "time": "2026-11-14 05:21:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普的人工智慧工作組討論網路風險。"
+    },
+    {
+      "id": "5213961",
+      "time": "2026-11-14 05:20:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "受停飛令事件影響，美聯航股價盤後下跌1.3%。"
+    },
+    {
+      "id": "5213960",
+      "time": "2026-11-14 05:19:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "受停飛令事件影響，CrowdStrike股價盤後上漲2%，Palo Alto上漲1.2%。"
+    },
+    {
+      "id": "5213958",
+      "time": "2026-11-14 05:19:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "達菲：如有最新訊息，我們會及時通報。"
+    },
+    {
+      "id": "mkt:01a1d6c6-bd16-7bbc-abdd-50377d4ad06f",
+      "time": "2026-11-14 05:18:31",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bearish",
+        "DAL.O",
+        "UAL.O"
+      ],
+      "text": "U.S. Transportation Secretary Duffy said a communications outage affecting all air traffic control centers has prompted the FAA to impose a nationwide ground stop at all U.S. airports. FAA technicians are investigating the outage."
+    },
     {
       "id": "mkt:01a1d6c6-4632-7bbc-abdd-4d9f4c1b0596",
       "time": "2026-11-14 05:18:00",
@@ -88915,24 +88959,6 @@
         "GOOG.O"
       ],
       "text": "Market sources: Google (GOOG.O) purchased $548 million of Qualcomm (QCOM.O) shares."
-    },
-    {
-      "id": "5200293",
-      "time": "2026-11-07 05:21:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：谷歌購入高通價值5.48億美元的股份。"
-    },
-    {
-      "id": "mkt:01a1b2ba-3c7d-7ee0-aabc-51ae287271d7",
-      "time": "2026-11-07 05:18:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【OpenAI receives first $11 bln tranche in new funding round】People familiar said OpenAI has received about $11 billion as the first tranche of a new funding round that values the company at $1.25 tln. The round could total up to $20 bln, with remaining funds expected in coming weeks. The company had earlier aimed to raise at least $30 bln at a $1.4 tln valuation but scaled back its target. In March it completed $122 bln of financing at an $852 bln valuation."
     }
   ]
 }

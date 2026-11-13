@@ -1,7 +1,51 @@
 {
   "date": "2026-11-14",
-  "count": 284,
+  "count": 289,
   "items": [
+    {
+      "id": "5213962",
+      "time": "2026-11-14 05:21:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普的人工智慧工作組討論網路風險。"
+    },
+    {
+      "id": "5213961",
+      "time": "2026-11-14 05:20:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "受停飛令事件影響，美聯航股價盤後下跌1.3%。"
+    },
+    {
+      "id": "5213960",
+      "time": "2026-11-14 05:19:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "受停飛令事件影響，CrowdStrike股價盤後上漲2%，Palo Alto上漲1.2%。"
+    },
+    {
+      "id": "5213958",
+      "time": "2026-11-14 05:19:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "達菲：如有最新訊息，我們會及時通報。"
+    },
+    {
+      "id": "mkt:01a1d6c6-bd16-7bbc-abdd-50377d4ad06f",
+      "time": "2026-11-14 05:18:31",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bearish",
+        "DAL.O",
+        "UAL.O"
+      ],
+      "text": "U.S. Transportation Secretary Duffy said a communications outage affecting all air traffic control centers has prompted the FAA to impose a nationwide ground stop at all U.S. airports. FAA technicians are investigating the outage."
+    },
     {
       "id": "mkt:01a1d6c6-4632-7bbc-abdd-4d9f4c1b0596",
       "time": "2026-11-14 05:18:00",
