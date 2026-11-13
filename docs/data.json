@@ -1,7 +1,49 @@
 {
-  "updated": "2026-11-14 05:33:09",
-  "count": 9780,
+  "updated": "2026-11-14 05:36:51",
+  "count": 9783,
   "items": [
+    {
+      "id": "5213983",
+      "time": "2026-11-14 05:36:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【元旦出境機票預訂量同比增約10%】隨著全國多地陸續公佈中小學秋假安排，今年11月份形成多個“小長假”，傳統民航出行淡季由此顯出暖意。DAST交通資料速遞顯示，截至11月13日，部分城市的秋假已“收官”。從已收官的大連、濟南、青島、煙臺四城出港資料來看，民航出港旅客量均實現同比增長，增幅為0.7%至11.5%。這種態勢有望持續至元旦假期。航旅縱橫民航官方直銷平臺大資料顯示，截至11月13日，2027年元旦假期（1月1日至1月3日）國內航線機票預訂量超45萬張，同比增長約8%；出境航線機票預訂量超24萬張，同比增長約10%；入境航線機票預訂量超20萬張，同比基本持平。(證券日報)"
+    },
+    {
+      "id": "5213982",
+      "time": "2026-11-14 05:34:53",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美股對美全國停飛令的反應】\n美國聯邦航空管理局（FAA）因特殊情況週五向所有機場釋出全國地面停飛令後，追蹤標普500指數的ETF盤後一度下跌0.5%。追蹤納斯達克100指數的ETF盤後一度下跌0.8%。\n航空股亦受此訊息拖累走低，聯合航空跌1.2%，捷藍航空跌2.4%，美國航空跌1.7%。\n相反，網路安全股上漲：Palo Alto漲2%，Zscaler漲1%，Crowdstrike漲2%。"
+    },
+    {
+      "id": "5213979",
+      "time": "2026-11-14 05:33:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報48.50美元/盎司。"
+    },
+    {
+      "id": "5213978",
+      "time": "2026-11-14 05:33:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "根據Sachem Head Capital Management最新披露的第三季度13F檔案，該機構大幅增持了希捷科技（STX）、Riot Platforms（RIOT）及Gildan Activewear（GIL），並新建倉了IonQ（IOND）、Skyworks Solutions（SWKS）、Cipher Mining（CIFR）及Hub Group（HUBG）；同時減持了Talen Energy（TLN）、Permian Resources（PRMB）、Twilio（TWLO）、Carvana（CVNA）及意法半導體（STM），並完全清倉了Dick's Sporting Goods（DKS）、Sotera Health（SHC）、Golar LNG（GLNG）、Bruker（BRKR）及Bitdeer Technologies（BTDR）。"
+    },
+    {
+      "id": "mkt:01a1d6d4-3142-7bbc-abdd-73d191d8634a",
+      "time": "2026-11-14 05:33:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury is considering a loan to help Venezuela repay arrears to the Inter-American Development Bank."
+    },
     {
       "id": "5213976",
       "time": "2026-11-14 05:31:49",
@@ -88983,26 +89025,6 @@
         "國際"
       ],
       "text": "明晟公司MSCI新興市場股票指數跌2.7%，創4月份以來新低，本週累計下跌4.1%，連續第六週走弱，中期選舉結果讓投資者對美國民主黨將收緊對人工智慧（AI）行業監管的風險感到惶恐不安。MSCI發展中國家外匯指數大致持平。"
-    },
-    {
-      "id": "5200303",
-      "time": "2026-11-07 05:36:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "週五（11月6日），資訊科技指數漲2.85%，報333.37點，本週累計下跌11.63%。"
-    },
-    {
-      "id": "te:markets:599273",
-      "time": "2026-11-07 05:35:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.48% Lower — The Dow Jones Index dropped 246 points or 0.48 percent on Friday to close at 51277 points. Losses were led by Salesforce (-3.94%), Nike (-2.40%) and Cisco Systems (-1.95%). Offsetting the fall, top gainers were Nvidia (2.81%), Honeywell International (2.05%) and J&J (1.40%)."
     }
   ]
 }
