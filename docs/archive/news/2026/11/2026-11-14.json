@@ -1,7 +1,51 @@
 {
   "date": "2026-11-14",
-  "count": 317,
+  "count": 322,
   "items": [
+    {
+      "id": "mkt:01a1d6e0-9108-7bbc-abdd-a56b57aada11",
+      "time": "2026-11-14 05:46:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Microsoft outage disrupts commodity trading; oil price feeds and communications affected】Microsoft experienced a large-scale service outage on Thursday, disrupting government, corporate and trading operations globally and forcing some trading teams to revert to phone, fax and instant messaging. The outage added complexity to crude trading amid heightened Middle East tensions and delayed publication of some commodity price data. S&P Global's PLATTS notified clients that updates to certain refined fuels, natural gas and biofuel prices may be delayed; publication of 22 biofuel price series was suspended. Microsoft said on Friday recovery had progressed but more than 20 products and services could still produce errors. The outage prevented some traders from sending or receiving emails, transmitting fuel price reports and viewing P&L and risk exposure reports; some orders were processed by phone or fax. PLATTS later reported the issue had been resolved."
+    },
+    {
+      "id": "5214001",
+      "time": "2026-11-14 05:46:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "捷藍航空股價下跌超過3%，此前美國聯邦航空管理局（FAA）下令停飛。"
+    },
+    {
+      "id": "5214000",
+      "time": "2026-11-14 05:46:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "引執法官員訊息：初步報告顯示，影響全美航空執行的故障並非由網路攻擊導致。"
+    },
+    {
+      "id": "5213999",
+      "time": "2026-11-14 05:45:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "SpaceX：星艦第15次飛行進入倒計時。發射視窗時長75分鐘，美國中部時間下午4時45分開啟。"
+    },
+    {
+      "id": "mkt:01a1d6de-82d2-7bbc-abdd-9a9baff7210b",
+      "time": "2026-11-14 05:44:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US Treasury weighing short-term bridge loan to help Venezuela repay $2.3bn to IDB】The US Treasury is considering a short-term bridge loan to help Venezuela repay about $2.3bn owed to the Inter-American Development Bank (IDB) to restore the country's financing eligibility. The IDB on Friday approved re-engagement; after repayment Venezuela could access up to $6bn from the IDB over the next two years, and the World Bank could provide up to $5bn. The US plans to channel funds to the IDB via overnight financing arrangements rather than direct transfers to Venezuela. The proposal may draw congressional scrutiny—Senator Elizabeth Warren has previously opposed using the Exchange Stabilization Fund to guarantee investments in Venezuelan financial institutions."
+    },
     {
       "id": "mkt:01a1d6dc-fbbd-7bbc-abdd-92be12a95d19",
       "time": "2026-11-14 05:42:48",
