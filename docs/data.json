@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-13 08:31:58",
-  "count": 9946,
+  "updated": "2026-11-13 08:35:46",
+  "count": 9945,
   "items": [
+    {
+      "id": "5211972",
+      "time": "2026-11-13 08:34:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "新世界發展在香港暫停交易，沒有給出暫停交易的理由。"
+    },
+    {
+      "id": "mkt:01a1d253-6826-7bbc-abc1-7c1a05fd8dac",
+      "time": "2026-11-13 08:34:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Senate Banking Committee asks Jensen Huang, Commerce Secretary Lutnick to testify】Politico reports Senate Banking Committee chair Tim Scott on Thursday asked Jensen Huang, the former NVIDIA CEO, and Commerce Secretary Lutnick to appear before the committee next month to testify about allegations of an extramarital affair involving Huang. Scott sent letters to both Thursday evening, flagging two high-profile oversight hearings scheduled for next month."
+    },
+    {
+      "id": "5211971",
+      "time": "2026-11-13 08:33:34",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國總統李在明將討論市場改革措施】根據韓國政府釋出的聯合宣告，韓國總統李在明將與投資者和專家討論市場改革措施。李在明於當地時間上午9:30主持召開資本市場政策會議，財政部長等政府官員、國會議員、投資者以及科斯達克（Kosdaq）上市公司代表出席了此次會議。宣告稱，由於外部因素導致金融市場波動加劇，政府計劃以“高度警惕”的態度評估市場狀況。宣告還表示，政府將推進相關政策，以改善資本市場的根本健康度，確保其不受危機衝擊。"
+    },
     {
       "id": "5211970",
       "time": "2026-11-13 08:29:45",
@@ -90641,44 +90671,6 @@
         "國際"
       ],
       "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式性賣盤。"
-    },
-    {
-      "id": "5197749",
-      "time": "2026-11-06 08:35:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受俄羅斯接管資產影響，日本菸草股價勢將跌停。"
-    },
-    {
-      "id": "5197748",
-      "time": "2026-11-06 08:34:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【分析師：納斯達克期貨小幅反彈，難給亞洲市場帶來慰藉】在週四納斯達克指數遭遇“大屠殺”式暴跌後，納斯達克100指數期貨正出現小幅回升，進入盤整階段。目前該合約上漲約0.4%，而標普500 E-mini期貨基本持平。正如金融市場策略師馬克·克蘭菲爾德（Mark Cranfield）所指出的，鑑於韓國KOSPI指數和日本日經225指數開盤時跌幅極深，這波反彈不太可能促使它們扭轉跌勢。事實上，這似乎已成為一種規律：一旦亞洲現貨市場開盤併成為拋售交易的主戰場，納斯達克期貨往往會隨之出現反彈。"
-    },
-    {
-      "id": "te:markets:598845",
-      "time": "2026-11-06 08:33:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Hitachi Shares Hit 12-month Low — Hitachi shares decreased to 4351.00 JPY, the lowest since October 2025. Over the past 4 weeks, Hitachi lost 15.69%, and in the last 12 months, it decreased 8.25%."
-    },
-    {
-      "id": "5197747",
-      "time": "2026-11-06 08:32:01",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：醫美行業結構性機會持續存在】中信證券研報稱，醫美行業當前處於上游註冊證快速增加的階段，競爭較為激烈，但結構性機會持續存在：差異化新品紅利仍存，營銷獲客、醫學推廣、產品組合、渠道運營等綜合能力強的上游品牌有望在競爭中勝出。下游顯著受益於產業鏈格局變化，能夠夯實自身美譽度、降低獲客成本以及提供綜合解決方案、提升毛利率的下游品牌有望持續提升份額。"
     }
   ]
 }
