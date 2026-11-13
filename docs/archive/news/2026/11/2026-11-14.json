@@ -1,7 +1,69 @@
 {
   "date": "2026-11-14",
-  "count": 310,
+  "count": 317,
   "items": [
+    {
+      "id": "mkt:01a1d6dc-fbbd-7bbc-abdd-92be12a95d19",
+      "time": "2026-11-14 05:42:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Federal Aviation Administration (FAA) has not said when a nationwide ground stop might be lifted."
+    },
+    {
+      "id": "5213998",
+      "time": "2026-11-14 05:42:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局尚未給出任何關於地面停飛可能何時解除的指示。"
+    },
+    {
+      "id": "5213997",
+      "time": "2026-11-14 05:42:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "美聯航股價盤後跌幅擴大至2.6%。"
+    },
+    {
+      "id": "5213996",
+      "time": "2026-11-14 05:41:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲12月加息25個基點的機率為89.8%】據CME“美聯儲觀察”：美聯儲12月加息25個基點的機率為89.8%，加息50個基點的機率為10.2%。美聯儲到明年1月累計加息25個基點的機率24.9%，累計加息50個基點的機率為67.8%，累計加息75個基點的機率為7.4%。"
+    },
+    {
+      "id": "mkt:01a1d6db-2f3c-7bbc-abdd-8a47c5eb32c2",
+      "time": "2026-11-14 05:40:50",
+      "tags": [
+        "MKT News",
+        "UAL.O"
+      ],
+      "text": "United Airlines (UAL.O) said flights already airborne will continue to operate."
+    },
+    {
+      "id": "mkt:01a1d6da-fe8b-7bbc-abdd-87515cb3a240",
+      "time": "2026-11-14 05:40:38",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bearish"
+      ],
+      "text": "United Airlines (UAL.O) said new domestic flights will not take off while the FAA ground-stop order is in effect."
+    },
+    {
+      "id": "mkt:01a1d6da-d202-7bbc-abdd-7b4100364df2",
+      "time": "2026-11-14 05:40:27",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bearish"
+      ],
+      "text": "United Airlines (UAL.O) is responding to a nationwide ground stop issued by the FAA."
+    },
     {
       "id": "5213990",
       "time": "2026-11-14 05:38:51",
