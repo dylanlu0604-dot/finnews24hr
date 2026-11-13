@@ -1,7 +1,158 @@
 {
-  "updated": "2026-11-13 14:32:55",
-  "count": 9984,
+  "updated": "2026-11-13 14:37:34",
+  "count": 10000,
   "items": [
+    {
+      "id": "5212433",
+      "time": "2026-11-13 14:36:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【土航在華拓展第四個航點：今年前九月在華運力提升四成，旅客量增長六成】11月11日，土耳其航空開通成都定期航線，伊斯坦布林至成都航線計劃每週運營三班。成都成為繼北京、上海和廣州之後，土航在中國內地的第四個通航城市。12日晚間，土航董事會主席兼執行委員會主席Murat Şeker接受採訪時介紹，今年前8月，赴土耳其旅遊的中國遊客數創歷史新高。中國市場整體利潤優厚，依託新增航權，今年將原有三座中國城市的航班頻次翻倍。今年前九個月在華運力提升四成、旅客量增長六成、貨運量增二至三成。"
+    },
+    {
+      "id": "mkt:01a1d39e-eec9-7bbc-abc7-e51e6cb81829",
+      "time": "2026-11-13 14:36:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI index rose 4.6% this week."
+    },
+    {
+      "id": "te:markets:600985",
+      "time": "2026-11-13 14:35:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Head for Lower Open — European equity markets were poised to open lower on Friday as this week’s rally showed signs of fading, prompting investors to take profits. Rising bond yields, fueled by growing expectations of a more aggressive US Federal Reserve tightening cycle, also weighed on global equity sentiment. Meanwhile, geopolitical uncertainties added to market concerns after President Donald Trump stated that the US no longer needs an agreement with Iran. In Europe, market participants are awaiting key economic releases, including Eurozone GDP, trade balance and employment figures, final October inflation readings from France and Spain, and Germany’s wholesale price data. On the corporate front, investors will also monitor earnings reports from Enel, Assicurazioni Generali, Grup ACS, and other major companies. In premarket trading, Euro Stoxx 50 futures fell 0.5%, while Stoxx 600 futures declined 0.4%."
+    },
+    {
+      "id": "5212432",
+      "time": "2026-11-13 14:35:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO/CMO板塊大幅調整，百花醫藥跌停】CRO/CMO板塊大幅調整，百花醫藥跌停，義翹神州跌超11%，萬邦醫藥、聯亞藥業、近岸蛋白、百奧賽圖、益諾思等跟跌。"
+    },
+    {
+      "id": "mkt:01a1d39e-66a9-7bbc-abc7-de71bbfb2168",
+      "time": "2026-11-13 14:35:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dongshan Precision hit its daily limit-down; turnover CNY 14.359 bln."
+    },
+    {
+      "id": "5212431",
+      "time": "2026-11-13 14:34:57",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【東山精密觸及跌停】東山精密觸及跌停，成交額143.59億元，封單262手。"
+    },
+    {
+      "id": "mkt:01a1d39d-59f7-7bbc-abc7-d5d9eeb0aac8",
+      "time": "2026-11-13 14:34:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Low-sulfur fuel oil (LU) front-month contract rose 4.0% intraday to 5,115 yuan/ton."
+    },
+    {
+      "id": "mkt:01a1d39d-116e-7bbc-abc7-cb2ab3d48e09",
+      "time": "2026-11-13 14:34:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI closed down 52.19 points, or 0.98%, at 5,290.54 on Friday, Nov. 13."
+    },
+    {
+      "id": "mkt:01a1d39d-1042-7bbc-abc7-c4268215d4e2",
+      "time": "2026-11-13 14:34:08",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 closed up 322.99 points (+0.53%) at 61,142.35 on Friday, Nov. 13."
+    },
+    {
+      "id": "5212430",
+      "time": "2026-11-13 14:33:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲4%，現報5115.00元。"
+    },
+    {
+      "id": "mkt:01a1d39c-5eb3-7bbc-abc7-bcbfe324dc09",
+      "time": "2026-11-13 14:33:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China most-active live hog futures contract up over 3% at 9,940 yuan/ton."
+    },
+    {
+      "id": "mkt:01a1d39c-3a4c-7bbc-abc7-b1c6e501397f",
+      "time": "2026-11-13 14:33:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China launches first optoelectronic information industry joint-insurance consortium in Wuhan】China's first optoelectronic information industry joint-insurance consortium was launched in Wuhan on the 13th. Led by PICC P&C and joined by eight other leading domestic property insurers including China Pacific Property Insurance, Ping An P&C and China Life P&C, the nine-member consortium will operate on a market-based 'risk sharing, profit sharing' principle, cover 53 lead firms in the sector supply chain, introduce bespoke policies for subsegments such as optical chips and optical modules, and provide layered protection schemes tailored to different supply-chain participants."
+    },
+    {
+      "id": "mkt:01a1d39c-2180-7bbc-abc7-ae1cde348f63",
+      "time": "2026-11-13 14:33:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China fuel oil most-active contract rose 4.00% intraday to 4,198.00 yuan/ton."
+    },
+    {
+      "id": "mkt:01a1d39b-fa04-7bbc-abc7-a34497d08aee",
+      "time": "2026-11-13 14:32:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "9984.T",
+        "Impact bearish"
+      ],
+      "text": "Financial Times reports SoftBank has booked a $3.7 billion charge after setbacks in its gas-turbine business tied to its push into AI infrastructure."
+    },
+    {
+      "id": "5212429",
+      "time": "2026-11-13 14:32:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報4198.00元。"
+    },
+    {
+      "id": "5212428",
+      "time": "2026-11-13 14:32:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：軟銀因進軍人工智慧基礎設施燃氣輪機業務受挫，計提37億美元費用。"
+    },
     {
       "id": "5212427",
       "time": "2026-11-13 14:31:47",
