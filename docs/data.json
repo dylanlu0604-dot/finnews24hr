@@ -1,7 +1,141 @@
 {
-  "updated": "2026-11-13 14:41:46",
-  "count": 10015,
+  "updated": "2026-11-13 14:45:43",
+  "count": 10029,
   "items": [
+    {
+      "id": "mkt:01a1d3a6-fb6d-7bbc-abc8-100ba8119084",
+      "time": "2026-11-13 14:44:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China wholesale pork price down 0.4% on Nov 13】According to the Ministry of Agriculture and Rural Affairs monitoring, as of 14:00 on Nov 13 the national agricultural wholesale price 200 index was 111.22 (+0.14 points vs. prior day) and the vegetable-basket wholesale price index was 110.71 (+0.18). Average wholesale prices: pork 14.79 yuan/kg (-0.4%); beef 73.88 yuan/kg (-0.3%); mutton 67.49 yuan/kg (+0.6%); eggs 9.53 yuan/kg (+0.2%); dressed chicken 17.34 yuan/kg (+1.7%)."
+    },
+    {
+      "id": "mkt:01a1d3a6-5eb2-7bbc-abc8-0975878c8235",
+      "time": "2026-11-13 14:44:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Goldman Sachs cut its European energy sector rating to underweight from neutral, downgraded European banks to neutral, and cut European insurers to underweight from neutral."
+    },
+    {
+      "id": "5212455",
+      "time": "2026-11-13 14:44:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【11月13日：“農產品批發價格200指數”比昨天上升0.14個點】據農業農村部監測，11月13日“農產品批發價格200指數”為111.22，比昨天上升0.14個點，“菜籃子”產品批發價格指數為110.71，比昨天上升0.18個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.79元/公斤，比昨天下降0.4%；牛肉73.88元/公斤，比昨天下降0.3%；羊肉67.49元/公斤，比昨天上升0.6%；雞蛋9.53元/公斤，比昨天上升0.2%；白條雞17.34元/公斤，比昨天上升1.7%。重點監測的28種蔬菜平均價格為4.07元/公斤，比昨天上升2.0%；重點監測的6種水果平均價格為6.65元/公斤，比昨天上升0.5%。鯽魚19.02元/公斤，比昨天上升1.4%；鯉魚13.94元/公斤，比昨天上升1.9%；白鰱魚10.22元/公斤，比昨天上升0.7%；大帶魚42.27元/公斤，比昨天上升0.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是油菜、菠菜、西葫蘆、蓮藕和蔥頭，幅度分別為4.7%、4.1%、3.9%、3.7%和3.5%；價格降幅前五名的是土豆、芹菜、豬肉、牛肉和西瓜，幅度分別為0.9%、0.4%、0.4%、0.3%和0.2%。"
+    },
+    {
+      "id": "5212454",
+      "time": "2026-11-13 14:44:08",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛將歐洲保險板塊評級從“中性”下調至“低配”。"
+    },
+    {
+      "id": "5212453",
+      "time": "2026-11-13 14:44:01",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛將歐洲銀行業評級下調至中性。"
+    },
+    {
+      "id": "5212452",
+      "time": "2026-11-13 14:43:58",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛將未來12個月斯托克600指數目標從695點上調至700點。"
+    },
+    {
+      "id": "5212451",
+      "time": "2026-11-13 14:43:55",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛將歐洲能源板塊評級從“中性”下調至“低配”。"
+    },
+    {
+      "id": "mkt:01a1d3a5-faef-7bbc-abc8-0209b8624607",
+      "time": "2026-11-13 14:43:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Goldman Sachs raised its 12-month target for the Stoxx Europe 600 index to 700 from 695."
+    },
+    {
+      "id": "5212450",
+      "time": "2026-11-13 14:43:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "歷峰集團上半年營業利潤為 31 億歐元，而市場普遍預期為 28.05 億歐元。"
+    },
+    {
+      "id": "5212449",
+      "time": "2026-11-13 14:42:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署副署長張寶峰會見索馬利亞貿易與工業部部長哈桑】11月12日，海關總署副署長張寶峰在署會見索馬利亞貿易與工業部部長哈桑。雙方圍繞落實兩國元首重要共識，就零關稅措施實施、建設智慧海關合作伙伴關係、促進農食產品貿易健康發展、系統推進中索海關檢驗檢疫機制性合作等議題深入交換意見。索馬利亞駐華大使和丹參加會見。"
+    },
+    {
+      "id": "5212448",
+      "time": "2026-11-13 14:42:17",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛預測2027年10年期美債收益率將降至4.6%】高盛集團預測，受避險對沖需求上升、通脹形勢溫和的支撐，到2027年底，美國10年期國債收益率將回落至4.6%，低於市場普遍預期。由倫敦的卡馬克什亞·特里維迪牽頭的策略師團隊在研報中寫道，美國國債當前收益可觀，估值也處於“低位”。但他們補充稱，收益率上行正在引發壓力，說明高位水平難以持續。彭博調查的平均預期顯示，10年期美債收益率2027年底將為4.82%，上週五該收益率報5.12%。分析師寫道：“久期資產的利好邏輯已經轉向。儘管能源價格飆升仍是短期風險，但即便在近期上漲之後，我們依然看好債券配置，部分原因在於其對沖價值。”"
+    },
+    {
+      "id": "te:markets:600988",
+      "time": "2026-11-13 14:42:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Slides Toward Four-Year Low — Iron ore futures declined to around CNY 670 per ton, approaching their lowest levels since October 2022 as rising supply and weakening demand continued to weigh on the market. Industry data showed that iron ore inventories at major Chinese ports increased for another week, with Brazilian shipments contributing to the buildup for a fourth consecutive week. Demand prospects were further dampened by anticipated production restrictions across key steelmaking hubs in China's Hebei province. Major steel-producing cities, including Tangshan and Handan, have entered the autumn-winter air pollution control period, during which unfavorable weather conditions have periodically disrupted sintering operations and blast furnace utilization. Meanwhile, industry figures indicated that average hot metal output among Chinese steelmakers, a key gauge of iron ore demand, continued to decline, adding further pressure to prices."
+    },
+    {
+      "id": "5212447",
+      "time": "2026-11-13 14:41:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲6%，現報2596.00點。"
+    },
+    {
+      "id": "5212446",
+      "time": "2026-11-13 14:41:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【黃仁勳創辦英偉達時造的詞 被《經濟學人》用諧音梗“二創”了】此前，《經濟學人》以《黃仁勳必須下臺》為題發文。《經濟學人》用“英偉達”（Nvidia）這一公司名稱與“招致憤恨的、令人反感的”（invidious）這一形容詞，合成了諧音詞“Nvidious”，並單獨用作小標題批評黃仁勳。《經濟學人》還呼籲“his should not be the only head to roll”，即“人頭落地”的不能只有黃仁勳。文章認為，商務部長盧特尼克乃至特朗普政府都該被追責。（中新社）"
+    },
     {
       "id": "5212445",
       "time": "2026-11-13 14:40:45",
