@@ -1,7 +1,63 @@
 {
   "date": "2026-11-13",
-  "count": 1676,
+  "count": 1681,
   "items": [
+    {
+      "id": "5213521",
+      "time": "2026-11-13 21:56:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海軍“邁克爾·墨菲”號驅逐艦結束中東部署返航。"
+    },
+    {
+      "id": "mkt:01a1d530-0a88-7bbc-abd6-1c66cfd2f5a5",
+      "time": "2026-11-13 21:54:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Money markets cut odds of 50bp Fed hike in December after PPI】London Stock Exchange Group data show money-market pricing shifted after US October PPI undershot forecasts. PPI rose 0.3% MoM (est. 0.4%) and 6.5% YoY (est. 6.6%). Implied probability of a 25bp December Fed hike rose to 91% from 86%; probability of a 50bp move fell to 9% from 14%."
+    },
+    {
+      "id": "5213519",
+      "time": "2026-11-13 21:54:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "據報道三星正就收購該公司進行談判，MODINE MANUFACTURING COMPANY 股價在盤前交易中飆升 34.7%。"
+    },
+    {
+      "id": "5213518",
+      "time": "2026-11-13 21:53:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國民技術：N32系列MCU已服務500餘家泛機器人產業鏈客戶】國民技術(300077)11月13日在互動平臺表示，目前公司N32系列MCU已服務500餘家泛機器人產業鏈客戶，其中包含數十家人形及具身智慧機器人產業鏈客戶。公司打造“MCU+安全晶片+無線射頻”三位一體方案，從“小腦”、關節、靈巧手，到感知、能源與安全，機器人全身各部位都有對應的晶片，高中低端產品矩陣齊全。目前該板塊業務規模尚有限，後續放量取決於下游客戶量產節奏。"
+    },
+    {
+      "id": "mkt:01a1d52f-a807-7bbc-abd6-1716b7a5a300",
+      "time": "2026-11-13 21:53:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "GOOLSBEE said the Fed is not currently on track to meet its 2% inflation target and must address the issue, including ensuring demand does not overheat."
+    },
     {
       "id": "5213517",
       "time": "2026-11-13 21:53:05",

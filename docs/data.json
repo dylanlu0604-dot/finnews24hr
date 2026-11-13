@@ -1,7 +1,63 @@
 {
-  "updated": "2026-11-13 21:53:51",
-  "count": 9847,
+  "updated": "2026-11-13 21:57:51",
+  "count": 9846,
   "items": [
+    {
+      "id": "5213521",
+      "time": "2026-11-13 21:56:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海軍“邁克爾·墨菲”號驅逐艦結束中東部署返航。"
+    },
+    {
+      "id": "mkt:01a1d530-0a88-7bbc-abd6-1c66cfd2f5a5",
+      "time": "2026-11-13 21:54:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Money markets cut odds of 50bp Fed hike in December after PPI】London Stock Exchange Group data show money-market pricing shifted after US October PPI undershot forecasts. PPI rose 0.3% MoM (est. 0.4%) and 6.5% YoY (est. 6.6%). Implied probability of a 25bp December Fed hike rose to 91% from 86%; probability of a 50bp move fell to 9% from 14%."
+    },
+    {
+      "id": "5213519",
+      "time": "2026-11-13 21:54:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "據報道三星正就收購該公司進行談判，MODINE MANUFACTURING COMPANY 股價在盤前交易中飆升 34.7%。"
+    },
+    {
+      "id": "5213518",
+      "time": "2026-11-13 21:53:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國民技術：N32系列MCU已服務500餘家泛機器人產業鏈客戶】國民技術(300077)11月13日在互動平臺表示，目前公司N32系列MCU已服務500餘家泛機器人產業鏈客戶，其中包含數十家人形及具身智慧機器人產業鏈客戶。公司打造“MCU+安全晶片+無線射頻”三位一體方案，從“小腦”、關節、靈巧手，到感知、能源與安全，機器人全身各部位都有對應的晶片，高中低端產品矩陣齊全。目前該板塊業務規模尚有限，後續放量取決於下游客戶量產節奏。"
+    },
+    {
+      "id": "mkt:01a1d52f-a807-7bbc-abd6-1716b7a5a300",
+      "time": "2026-11-13 21:53:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "GOOLSBEE said the Fed is not currently on track to meet its 2% inflation target and must address the issue, including ensuring demand does not overheat."
+    },
     {
       "id": "5213517",
       "time": "2026-11-13 21:53:05",
@@ -89713,60 +89769,6 @@
         "國際"
       ],
       "text": "【美國製造業就業重回 “解放日” 關稅前水平】美國製造業就業人數已經反彈，超過特朗普總統推出 “解放日” 關稅、打亂全球貿易秩序之前的水平。勞工部資料顯示，10 月工廠新增就業 1.9 萬人，延續了連續數月的增長勢頭。新增崗位集中在金屬、機械製造以及晶片製造領域。"
-    },
-    {
-      "id": "5199842",
-      "time": "2026-11-06 21:57:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "安德瑪高管：預計第三季度營收將下降約8%至9%。"
-    },
-    {
-      "id": "5199841",
-      "time": "2026-11-06 21:57:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富恆新材：財務總監因涉嫌非國家工作人員受賄罪被刑拘】富恆新材公告，公司於2026年11月5日收到財務總監賴春娟家屬提供的拘留通知書，獲悉賴春娟因涉嫌非國家工作人員受賄罪被刑事拘留，無法正常履職。目前公司經營正常，暫由董事長姚秀珠代為履行財務總監職責。"
-    },
-    {
-      "id": "5199840",
-      "time": "2026-11-06 21:57:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【法國外貿銀行： 薪資難推升通脹】法國外貿銀行的克里斯托弗・霍奇對時薪上漲釋放的訊號持謹慎態度。“這項資料波動較大，表現並不亮眼。薪資已經在一段時間內保持溫和，考慮到就業資料本身的波動性，我們認為薪資才是衡量勞動力市場緊張程度更好的指標。我們的名義收入替代指標以及一系列勞動力緊張度指標仍然顯示，勞動力市場幾乎不會帶來通脹壓力。”"
-    },
-    {
-      "id": "5199839",
-      "time": "2026-11-06 21:56:21",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【工資資料對股票的支撐作用有限】10 月份的招聘人數超出預期，這印證了經濟和消費狀況良好的觀點，這一利好因素將繼續支撐盈利強勁增長。儘管由於就業資料意外亮眼，市場普遍認為這可能為美聯儲加息提供彈藥，導致股指期貨下跌，但政策制定者已明確表示，通脹才是他們目前的首要關注點。工資增長好於預期，但已持續下降一段時間。這表明，目前勞動力市場對經濟通脹的影響並不明顯。對股市而言，更重要的是中期選舉後油價的穩定走勢，以及由此帶來的威脅。 減速 人工智慧建設意味著價格壓力。如果能源成本下降和金融環境收緊，促使美聯儲採取更耐心的政策，這或許可以抵消股市面臨的部分不利因素——尤其是在股市目前依然強勁的情況下。 收益 以及強勁的經濟。"
-    },
-    {
-      "id": "te:markets:599189",
-      "time": "2026-11-06 21:54:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Weakens on Soft Jobs Data — The Canadian dollar weakened to near 1.41 per USD in November following weaker-than-expected domestic jobs data and stronger US employment figures. Canadian employment fell by 4,700 in October, improving from September’s 68,300 decline but missing forecasts for a 13,600 increase. Private-sector employment dropped by 53,000 (-0.4%), its first decline since February. A softer labor market could prompt the BoC to cut rates to support economic activity and encourage hiring, reducing the appeal of Canadian assets. However, Canada’s GDP grew 0.8% in Q2 2026, following a 0.1% expansion in Q1. Meanwhile, US nonfarm payrolls increased by 165,000, beating expectations and reinforcing prospects for a wider US-Canada interest-rate differential, supporting the greenback against the loonie. At its latest meeting, the BoC raised rates by 25 bps to 2.5%, its first hike since 2023. Annual inflation reached 3.1% in September, below forecasts of 3.2%."
-    },
-    {
-      "id": "5199836",
-      "time": "2026-11-06 21:54:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中鋁國際：完成回購登出91.83萬股限制性股票】中鋁國際公告稱，2026年8月，公司完成回購並登出91.83萬股限制性股票的登記手續。本次回購登出完成後，公司註冊資本變更為29.87億元，股本結構相應調整：中鋁集團持有21.77億股，佔比72.88%；洛陽院持有8692.55萬股，佔比2.91%；境外上市H股股東持有3.99億股，佔比13.37%；境內上市無限售條件內資股股東（不含中鋁集團、洛陽院）持有2.96億股，佔比9.91%；境內上市有限售條件內資股股東（不含中鋁集團、洛陽院）持有2785.13萬股，佔比0.93%。"
     }
   ]
 }
