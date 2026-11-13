@@ -1,7 +1,88 @@
 {
   "date": "2026-11-13",
-  "count": 666,
+  "count": 675,
   "items": [
+    {
+      "id": "mkt:01a1d25b-5d42-7bbc-abc1-c61ffa47299d",
+      "time": "2026-11-13 08:42:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Reuters estimates Japan's proposed defense spending may fall short of the 2% of GDP target."
+    },
+    {
+      "id": "mkt:01a1d25a-a856-7bbc-abc1-bbd68fa36cfd",
+      "time": "2026-11-13 08:41:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Japan may reduce missile and aircraft procurement plans, including F-35 fighters."
+    },
+    {
+      "id": "mkt:01a1d25a-9341-7bbc-abc1-b1db3cffe2d5",
+      "time": "2026-11-13 08:41:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say Japan's military expansion plan has been hit by budget tightening; the government has warned weapons suppliers it will sharply cut orders."
+    },
+    {
+      "id": "mkt:01a1d25a-66b3-7bbc-abc1-afa663552891",
+      "time": "2026-11-13 08:41:42",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Sources say Japan's Ministry of Finance has proposed capping five-year defence spending at 50–60 trillion yen, down from the 80 trillion yen previously sought."
+    },
+    {
+      "id": "5211984",
+      "time": "2026-11-13 08:41:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：人工智慧投資水平可以對利率變化做出反應。"
+    },
+    {
+      "id": "5211983",
+      "time": "2026-11-13 08:41:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：韓國需要改革創業板市場。"
+    },
+    {
+      "id": "mkt:01a1d259-cf3a-7bbc-abc1-a0b678ef92b8",
+      "time": "2026-11-13 08:41:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's finance minister Katayama said the U.S. and Japan were aligned on exchange-rate issues at the summit and declined to comment on records of intervention."
+    },
+    {
+      "id": "5211982",
+      "time": "2026-11-13 08:40:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：對干預記錄不予置評。"
+    },
+    {
+      "id": "5211981",
+      "time": "2026-11-13 08:40:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：美日首腦會談就外匯立場達成一致。"
+    },
     {
       "id": "5211980",
       "time": "2026-11-13 08:38:47",
