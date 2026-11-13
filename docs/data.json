@@ -1,7 +1,70 @@
 {
-  "updated": "2026-11-13 14:05:03",
-  "count": 9932,
+  "updated": "2026-11-13 14:09:06",
+  "count": 9938,
   "items": [
+    {
+      "id": "mkt:01a1d384-fa23-7bbc-abc7-460f370b6aa7",
+      "time": "2026-11-13 14:07:49",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY rose to 160.09, the highest level since Sept. 2."
+    },
+    {
+      "id": "5212391",
+      "time": "2026-11-13 14:07:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳茂波：香港經濟連續15季正增長 首十月IPO集資逾4000億港元創同期新高】11月13日，香港財政司司長陳茂波出席星島環球經濟論壇2026並致辭。他表示，香港經濟已連續15個季度錄得正增長，第三季同比增長5.2%，首三季合計增長5.1%，為五年來同期最快。金融市場方面，今年首十個月有121宗新股上市，集資超過4000億港元，創歷來同期新高。"
+    },
+    {
+      "id": "5212390",
+      "time": "2026-11-13 14:07:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲2%，現報5029.00元。"
+    },
+    {
+      "id": "5212389",
+      "time": "2026-11-13 14:06:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達員工正在透過公司內部渠道發起挽留黃仁勳的行動】11月13日，據報道，英偉達員工正在透過公司內部渠道發起挽留黃仁勳的行動。一項由員工自發組織的投票顯示，超過97%的參與者希望黃仁勳繼續擔任CEO。一位英偉達員工表示，公司內部不少人難以接受這一人事變化，希望董事會重新考慮黃仁勳的去留。"
+    },
+    {
+      "id": "5212388",
+      "time": "2026-11-13 14:05:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "群創9個月淨利潤138.5億元新臺幣。"
+    },
+    {
+      "id": "5212387",
+      "time": "2026-11-13 14:04:54",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【法興唱多黃金：逾30億美元買盤將至】隨著美國通脹持續居高不下迫使美聯儲不斷強化鷹派立場，國際金價本週回落至每盎司4000美元下方，並於週四跌破3900美元。然而，受指數再平衡影響，黃金市場或將很快迎來喘息之機。今年以來，國際金價已經累計下跌近10%。法國興業銀行大宗商品分析師週四在報告中表示，這一大幅下跌，可能會為黃金帶來超過30億美元的買盤，因為基金需要重新平衡其對更廣泛的商品基準的敞口，其中包括彭博商品指數（BCOM）。該行分析師稱，將於1月8日至14日進行的年度再平衡，預計將使黃金成為最大受益者。與此同時，分析師預計白銀也將因指數再平衡迎來25億美元的資金流入。"
+    },
+    {
+      "id": "mkt:01a1d382-22f8-7bbc-abc7-380767f5e04c",
+      "time": "2026-11-13 14:04:43",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【Legal director at China's Financial Regulatory Administration: consolidation of small and medium banks is inevitable】China's Financial Regulatory Administration chief lawyer and director of the Legal Affairs Department Wang Shengbang told the Caixin Summit on Nov. 13 that consolidation of small and medium-sized banks is a global trend. He cited US bank legal entities falling from ~12,300 in 1990 to ~3,800 in 2025 (≈69% decline) and Germany's from ~4,500 to ~1,300 (>71% decline). Wang said last year's Central Economic Work Conference directed a reduction in the number of small financial institutions under the principle of \"reduce legal entities, not services,\" using market-based, law-based measures — including absorptions, mergers and restructurings — to lower small-bank legal-entity counts, strengthen banking-system resilience and improve the quality and sustainability of financial supply."
+    },
     {
       "id": "5212386",
       "time": "2026-11-13 14:03:50",
@@ -90549,18 +90612,6 @@
         "Importance 1"
       ],
       "text": "ASX 200 Rises 1.3% Weekly Despite Friday's Retreat — The ASX 200 fell 44 points, or 0.5%, to close at 9,021 on Friday, reversing the prior session’s rally as Dow futures dropped sharply following Thursday’s Wall Street sell-off. Concerns over surging AI spending and whether data center expansion justifies current valuations weighed on sentiment. Tech, logistics, and mining led losses, while financials and transport strengthened. Heavyweights BHP Group (-2.3%) and Rio Tinto (-2.0%) dipped as copper prices slid to their lowest since July, amid worries over potential shifts in U.S. policy following Democratic gains in the midterm elections. Still, early losses narrowed as some investors rotated into defensive stocks. Goodman Group fell 3.2% on fears that U.S. restrictions could curb data center construction. Macquarie Group (-3.7%) and Reece (-3.1%) also lost. In contrast, the four big banks rose 0.6%–2.7%, while Woolworths added 1.8%. For the week, the ASX 200 extended previous gains, up by 1.3%, on a surging trade surplus in September."
-    },
-    {
-      "id": "te:economy:598944",
-      "time": "2026-11-06 14:07:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Estonia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Estonia Inflation Rises to 11-Month High — The annual inflation rate in Estonia climbed to 4.2% in October 2026 from 3.5% in the previous month, marking the highest reading since November 2025. The acceleration was mainly driven by higher transport and housing costs, which rose 13.9% and 7.5%, respectively. Transport inflation was fueled by sharp increases in gasoline (38.2%) and diesel prices (59.7%), while housing costs were pushed up by higher piped gas, wood fuel and waste collection charges. Additionally, food inflation turned positive, with prices rising 0.7% after declining in September, led by more expensive vegetables, prepared foods and soft drinks, while prices also increased for alcoholic beverages (6%), healthcare (3.2%), and miscellaneous goods and services (3.8%). In contrast, costs declined for education (-8.4%) and insurance and financial services (-3.1%). On a monthly basis, consumer prices increased by 0.6% in October, slowing from a 0.4% gain in September, which was the fastest rise in eight months."
     }
   ]
 }
