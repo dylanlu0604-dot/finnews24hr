@@ -1,7 +1,187 @@
 {
   "date": "2026-11-13",
-  "count": 1807,
+  "count": 1825,
   "items": [
+    {
+      "id": "5213617",
+      "time": "2026-11-13 22:43:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "外國投資者11月13日淨賣出326億印度盧比印度股票衍生品。"
+    },
+    {
+      "id": "mkt:01a1d55d-1a8c-7bbc-abd7-97d89e35e732",
+      "time": "2026-11-13 22:43:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "LOGAN said the U.S. Treasury market is functioning well and trading remains orderly even amid significant rate moves."
+    },
+    {
+      "id": "mkt:01a1d55d-0981-7bbc-abd7-8c8f6a35cd84",
+      "time": "2026-11-13 22:43:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "LOGAN said central clearing of the Fed’s repo operations will allow Fed funds to flow more efficiently to a broader set of markets."
+    },
+    {
+      "id": "mkt:01a1d55c-c424-7bbc-abd7-818efae8b9fe",
+      "time": "2026-11-13 22:43:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "LOGAN of the Federal Reserve said it would be prudent for the FOMC to strengthen tools supporting market functioning, provided they do not deliver unnecessary economic stimulus."
+    },
+    {
+      "id": "mkt:01a1d55c-8460-7bbc-abd7-7c92337f91dd",
+      "time": "2026-11-13 22:42:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "LOGAN said the Fed should develop operational capability for centralized clearing services and put it into practice."
+    },
+    {
+      "id": "mkt:01a1d55c-6be2-7bbc-abd7-729b7e1f6691",
+      "time": "2026-11-13 22:42:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "LOGAN said the Fed should extend discount window operations to weekends and holidays."
+    },
+    {
+      "id": "mkt:01a1d55c-4e5c-7bbc-abd7-69c84fb03852",
+      "time": "2026-11-13 22:42:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed official Logan said he is pleased to see that, since 2023, banks have made progress improving operational readiness to access emergency funding."
+    },
+    {
+      "id": "mkt:01a1d55b-ea9c-7bbc-abd7-6255e59d04e7",
+      "time": "2026-11-13 22:42:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense said the national alert platform has issued an alert to Jizan province warning of potential danger."
+    },
+    {
+      "id": "5213616",
+      "time": "2026-11-13 22:42:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌2%】費城半導體指數日內跌2.04%，現報10292.67點。英偉達跌2.24%，博通跌3.94%，美光跌1.74%，英特爾跌1.58%，AMD跌5.26%，高通跌0.91%，臺積電跌0.26%，阿斯麥漲0.25%。"
+    },
+    {
+      "id": "5213615",
+      "time": "2026-11-13 22:41:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲洛根：建議將市場操作與貨幣政策操作清晰分賬】達拉斯聯儲主席洛裡・洛根表示，美國央行應當把為維護市場功能而購買的資產，和用於貨幣政策操作持有的資產分開，以便在金融承壓階段更清晰傳遞政策意圖。洛根在達拉斯聯儲協辦的銀行融資會議的準備發言稿中稱：“要避免維穩市場的購債操作帶來非預期的寬鬆刺激，一個辦法是，FOMC 將購入證券放在獨立賬戶，並承諾儘快賣出。”洛根闡述了多種方案，幫助美聯儲更好區分兩類操作：一類是修復市場失靈的流動性操作，另一類是落實貨幣政策的操作。"
+    },
+    {
+      "id": "5213614",
+      "time": "2026-11-13 22:41:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯就吉贊地區潛在危險釋出警報。"
+    },
+    {
+      "id": "5213613",
+      "time": "2026-11-13 22:41:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "熱傳遞和熱儲存技術供應商Modine Manufacturing Co.漲34%，創2020年11月份以來最大盤中漲幅。11月12日美股盤後，報道稱，三星電子洽談收購這家資料中心冷卻裝置生產商。"
+    },
+    {
+      "id": "5213612",
+      "time": "2026-11-13 22:40:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：美聯儲應將貼現視窗的運營時間延長至週末和節假日。"
+    },
+    {
+      "id": "5213611",
+      "time": "2026-11-13 22:40:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：很高興看到銀行自2023年以來在提升獲取應急資金的運營準備方面取得進展。"
+    },
+    {
+      "id": "5213610",
+      "time": "2026-11-13 22:40:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：美聯儲應進一步提升其向指定金融市場機構放貸的運營準備能力。"
+    },
+    {
+      "id": "5213609",
+      "time": "2026-11-13 22:40:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：美聯儲應發展集中清算業務的操作能力，並將該能力投入使用。"
+    },
+    {
+      "id": "5213608",
+      "time": "2026-11-13 22:40:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：聯邦公開市場委員會加強支援市場運作的工具，同時不提供不必要的經濟刺激，是審慎的做法。"
+    },
+    {
+      "id": "5213607",
+      "time": "2026-11-13 22:40:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：對美聯儲回購操作進行集中清算，將使美聯儲的資金更高效地流向廣泛市場。"
+    },
     {
       "id": "5213606",
       "time": "2026-11-13 22:40:19",
