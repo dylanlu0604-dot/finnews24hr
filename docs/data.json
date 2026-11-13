@@ -1,7 +1,195 @@
 {
-  "updated": "2026-11-13 22:29:24",
-  "count": 9880,
+  "updated": "2026-11-13 22:33:33",
+  "count": 9874,
   "items": [
+    {
+      "id": "5213584",
+      "time": "2026-11-13 22:32:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國飛鶴：與北緯四十七度簽訂採購、銷售及倉儲物流框架協議】中國飛鶴公告，公司與北緯四十七度及其附屬公司於2026年11月13日簽署三項框架協議：重續北緯四十七度採購框架協議(有效期至2028年12月31日)，合作內容包括採購大米、食用油等農產品及ARA粉、DHA粉、植物脂肪粉、GOS、HMO等嬰幼兒配方奶粉原材料；北緯四十七度銷售框架協議，合作內容為向北緯四十七度銷售ARA油、DHA油、WPC及乳糖等原材料，僅限用於生產供應予本集團的ARA粉、DHA粉等；北緯四十七度倉儲及物流服務框架協議，合作內容為提供倉儲、儲存及物流服務（含裝卸、配送）。上述交易構成持續關連交易，已設定年度上限並建立價格比對、成本核驗、80%觸發報告及獨立非執行董事年度審閱等合規執行機制。"
+    },
+    {
+      "id": "5213583",
+      "time": "2026-11-13 22:32:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，虎虎科技跌4.28%，JDZG跌4.18%，汽車之家跌2.51%，BOSS直聘跌2.12%，再鼎醫藥跌2.30%。"
+    },
+    {
+      "id": "5213582",
+      "time": "2026-11-13 22:31:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "人工智慧晶片製造商Cerebras Systems股價大漲17%，為8月以來最大漲幅。"
+    },
+    {
+      "id": "mkt:01a1d552-3867-7bbc-abd7-2f5b3f5343b3",
+      "time": "2026-11-13 22:31:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) opened up as much as 2.3% before trimming gains to under 1%."
+    },
+    {
+      "id": "5213581",
+      "time": "2026-11-13 22:30:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "摩丁製造股價大漲34%，創2020年11月以來最大漲幅。"
+    },
+    {
+      "id": "5213580",
+      "time": "2026-11-13 22:30:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達股價開盤一度上漲2.3%。"
+    },
+    {
+      "id": "mkt:01a1d551-8c7c-7bbc-abd7-2202a0742498",
+      "time": "2026-11-13 22:30:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【GRG Yuntong unit signs over $12m supply contract with Bangladesh partner】GRG Yuntong said its unit Yuntong International signed a supply contract worth over $12m with Bangladeshi partner Zara Zaman Technology Ltd. The agreement covers supply of smart financial devices and establishes cooperation on smart-branch construction, business innovation, localized services and deployment of AI in Bangladeshi financial scenarios to help local institutions advance branch digitalization."
+    },
+    {
+      "id": "5213579",
+      "time": "2026-11-13 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股算力雲相關股票盤初普跌】甲骨文跌0.07%，CoreWeave跌3.16%，Nebius跌6.00%，IREN跌4.24%，Applied Digital跌2.24%。"
+    },
+    {
+      "id": "5213578",
+      "time": "2026-11-13 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股太空概念股盤初漲跌不一】SpaceX漲0.20%，Rocket Lab跌0.53%，Planet Labs跌0.14%，AST SpaceMobile跌0.93%，Intuitive Machines漲0.54%。"
+    },
+    {
+      "id": "5213577",
+      "time": "2026-11-13 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤初普漲】禮來漲0.47%，強生漲0.63%，Moderna跌2.90%，諾和諾德漲0.70%，艾伯維漲0.75%，默沙東跌0.02%。"
+    },
+    {
+      "id": "5213576",
+      "time": "2026-11-13 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股開盤普跌】Lumentum跌1.14%，康寧跌0.39%，Coherent跌0.11%，應用光電跌0.19%，Ciena跌0.13%，博通跌1.92%，邁威爾科技跌1.25%。"
+    },
+    {
+      "id": "5213575",
+      "time": "2026-11-13 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤初普跌】美光跌1.72%，閃迪跌1.69%，SK海力士跌2.39%，西部資料跌1.00%，希捷科技跌1.00%。"
+    },
+    {
+      "id": "5213574",
+      "time": "2026-11-13 22:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.36%，標普500指數漲0.31%，納指漲0.07%。達美樂比薩漲2.78%，加特納漲2.30%，21世紀福克斯漲2.16%，思泰瑞醫療漲2.08%，阿里拉姆製藥漲1.92%，Texas Pacific Land Trust Sub Sha漲1.83%，Hubbell Incorporated漲1.80%。“七姐妹”方面：谷歌漲1.32%，蘋果漲1.10%，英偉達漲0.79%，特斯拉漲0.69%，Meta Platforms漲0.45%，亞馬遜漲0.39%，微軟跌1.05%。"
+    },
+    {
+      "id": "mkt:01a1d551-5360-7bbc-abd7-18eedbc4b0dc",
+      "time": "2026-11-13 22:30:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "NVDA.O"
+      ],
+      "text": "US stocks opened higher: Dow up 0.3%, S&P 500 up 0.3%, Nasdaq up 0.1%. NVIDIA (NVDA.O) rose ~2% at the open; AMD (AMD.O) fell 2.9%; Broadcom (AVGO.O) fell 2.3%. Cisco (CSCO.O) dropped 1.6% after reporting Q1 results."
+    },
+    {
+      "id": "5213573",
+      "time": "2026-11-13 22:30:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股票指數 .GSPTSE 開盤上漲 75.64 點，或 0.21%，至 36,212.83 點。"
+    },
+    {
+      "id": "mkt:01a1d550-ccec-7bbc-abd7-147e1b70c388",
+      "time": "2026-11-13 22:30:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FOMC voter and Dallas Fed President Logan to deliver opening remarks in 10 minutes at the 2026 Bank Financing Conference."
+    },
+    {
+      "id": "mkt:01a1d550-8ab7-7bbc-abd7-0bdfe6de8c19",
+      "time": "2026-11-13 22:29:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars"
+      ],
+      "text": "【China's Li meets Thai PM Anutin in Bangkok】Nov. 13, Bangkok — China's Li met Thai Prime Minister Anutin. China offered to deepen strategic alignment and accelerate high-quality Belt and Road projects, citing the China–Thailand railway and pressing talks on a new five-year economic and trade cooperation plan. Beijing sought early mutual protection of geographical indications, signalled willingness to import more Thai goods and to encourage Chinese firms to invest in Thailand, and proposed expanded cooperation in finance, new energy, semiconductors and artificial intelligence. The two sides also agreed to step up cooperation on disaster risk reduction, water management, tourism and law enforcement and to coordinate in multilateral forums including China–ASEAN, Lancang–Mekong, the UN, WTO and APEC."
+    },
+    {
+      "id": "mkt:01a1d550-3481-7bbc-abd7-01f5dc62d08e",
+      "time": "2026-11-13 22:29:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 10-year Treasury yield hit an intraday high of 5.16%."
+    },
+    {
+      "id": "5213572",
+      "time": "2026-11-13 22:28:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受油價上漲影響，美國10年期國債收益率觸及當日高點5.16%。"
+    },
     {
       "id": "5213571",
       "time": "2026-11-13 22:27:53",
@@ -89875,225 +90063,6 @@
         "國際"
       ],
       "text": "伊朗伊斯蘭革命衛隊6日發表宣告說，革命衛隊在伊朗格什姆島上空擊落一架美軍MQ-1無人機，稱這是他們擊落的第16架該型無人機。（新華國際）"
-    },
-    {
-      "id": "5199903",
-      "time": "2026-11-06 22:33:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "CLOUDFLARE股價飆升17%，創下自2025年4月以來最大漲幅。"
-    },
-    {
-      "id": "5199902",
-      "time": "2026-11-06 22:33:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "AIRBNB股價上漲13%，創8月7日以來最大漲幅。"
-    },
-    {
-      "id": "5199901",
-      "time": "2026-11-06 22:32:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【郎酒旗下峨上威士忌正式投產 年產能1萬噸】11月6日晚間，郎酒股份官微訊息，郎酒旗下峨上威士忌酒廠正式投產，形成1萬噸年產能，規模位居國內單一麥芽威士忌產能第一；郎酒“酒莊化路徑”再落一子，形成了郎酒莊園、龍馬酒莊、峨上酒莊三大酒莊。"
-    },
-    {
-      "id": "5199900",
-      "time": "2026-11-06 22:32:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "AXON股價暴跌17%，創兩年新低。"
-    },
-    {
-      "id": "5199899",
-      "time": "2026-11-06 22:32:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "ONCOC4：CESALATAMIG單藥治療在PD-(L)1耐藥非小細胞肺癌中10 MG/KG劑量下實現33%客觀緩解率、90%疾病控制率。"
-    },
-    {
-      "id": "te:markets:599199",
-      "time": "2026-11-06 22:32:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Enbridge Shares Hit 4-week Low — Enbridge shares decreased to 66.05 CAD, the lowest since October 2026. Over the past 4 weeks, Enbridge gained 1.02%, and in the last 12 months, it decreased 1.25%."
-    },
-    {
-      "id": "5199898",
-      "time": "2026-11-06 22:31:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "費城半導體指數反彈5.5%。"
-    },
-    {
-      "id": "5199897",
-      "time": "2026-11-06 22:31:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "特斯拉股價上漲1.8%，太空探索技術公司（SpaceX）在連續兩個交易日下跌後上漲6%。"
-    },
-    {
-      "id": "5199896",
-      "time": "2026-11-06 22:31:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "MONSTER BEVERAGE股價下跌幅度高達8.2%，創2024年8月以來最大跌幅。"
-    },
-    {
-      "id": "5199895",
-      "time": "2026-11-06 22:30:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "螢火蟲宇航公司股價上漲 12.4%，此前該公司與 AST SpaceMobile 簽署了價值超過 13 億美元的火箭發動機協議。"
-    },
-    {
-      "id": "5199894",
-      "time": "2026-11-06 22:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存板塊盤初普漲】美光漲6.23%，閃迪漲10.86%，SK海力士漲3.41%，西部資料漲4.91%，希捷科技漲6.11%。"
-    },
-    {
-      "id": "5199893",
-      "time": "2026-11-06 22:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股光通訊股開盤普漲】Lumentum漲8.30%，康寧漲5.39%，Coherent漲11.63%，應用光電漲2.39%，Ciena漲9.19%，博通漲4.72%，邁威爾科技漲7.87%。"
-    },
-    {
-      "id": "5199892",
-      "time": "2026-11-06 22:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股太空概念股盤初普漲】SpaceX漲5.74%，Rocket Lab漲4.63%，Planet Labs漲2.90%，AST SpaceMobile跌3.30%，Intuitive Machines漲4.06%。"
-    },
-    {
-      "id": "5199891",
-      "time": "2026-11-06 22:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股算力雲相關股票盤初普漲】甲骨文漲3.27%，CoreWeave漲6.85%，Nebius漲9.49%，IREN漲19.91%，Applied Digital漲11.36%。"
-    },
-    {
-      "id": "5199890",
-      "time": "2026-11-06 22:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股生物科技板塊盤初普跌】禮來跌2.12%，強生跌2.02%，Moderna漲5.57%，諾和諾德跌1.71%，艾伯維跌2.35%，默沙東跌2.48%。"
-    },
-    {
-      "id": "5199889",
-      "time": "2026-11-06 22:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "DRAFTKINGS股價開盤暴跌27%，創2022年以來最大跌幅。"
-    },
-    {
-      "id": "5199888",
-      "time": "2026-11-06 22:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指漲跌不一】道指跌0.99%，標普500指數漲0.22%，納指漲1.27%。Coherent Corp漲11.72%，泛林集團漲11.28%，愛彼迎漲10.92%，Axon Enterprise跌15.46%，特許通訊跌7.98%。“七姐妹”方面：英偉達漲5.66%，特斯拉漲2.16%，谷歌漲1.36%，Meta Platforms漲1.02%，亞馬遜漲0.26%，微軟跌0.98%，蘋果跌1.12%。"
-    },
-    {
-      "id": "te:markets:599198",
-      "time": "2026-11-06 22:30:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "ConocoPhillips Shares Hit 4-week Low — ConocoPhillips shares decreased to 134.62 USD, the lowest since October 2026. Over the past 4 weeks, ConocoPhillips gained 4.56%, and in the last 12 months, it increased 57.89%."
-    },
-    {
-      "id": "5199887",
-      "time": "2026-11-06 22:30:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "NATERA股價開盤暴跌14%，創2022年以來最大單日跌幅。"
-    },
-    {
-      "id": "5199886",
-      "time": "2026-11-06 22:30:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多股票指數 .GSPTSE 開盤下跌 104.63 點，或 0.29%，至 35,500.64 點。"
-    },
-    {
-      "id": "5199885",
-      "time": "2026-11-06 22:30:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數日內漲5%】費城半導體指數日內漲5.37%，現報9495.21點。英偉達漲4.94%，博通漲4.95%，美光漲7.24%，英特爾漲4.94%，AMD漲8.59%，高通漲2.39%，臺積電漲7.50%，阿斯麥漲6.35%。"
-    },
-    {
-      "id": "te:markets:599197",
-      "time": "2026-11-06 22:30:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Chevron Shares Hit 4-week Low — Chevron shares decreased to 210.74 USD, the lowest since October 2026. Over the past 4 weeks, Chevron gained 1.38%, and in the last 12 months, it increased 37.6%."
-    },
-    {
-      "id": "5199884",
-      "time": "2026-11-06 22:30:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其10月份現金預算赤字為3299.4億土耳其里拉。"
-    },
-    {
-      "id": "5199883",
-      "time": "2026-11-06 22:30:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門武裝力量控制俯瞰曼德海峽的高地】胡塞武裝：武裝力量在從兩個方向發起的大規模行動中，襲擊了沙特僱傭兵在卡布卜山區的陣地，出其不意地突破並攻入其掩體和工事。卡布卜山位於塔伊茲省西南部，屬於俯瞰曼德海峽的高地。"
-    },
-    {
-      "id": "te:markets:599196",
-      "time": "2026-11-06 22:30:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "TJX Companies Shares Hit 4-week Low — TJX Companies shares decreased to 135.09 USD, the lowest since October 2026. Over the past 4 weeks, TJX Companies gained 1.14%, and in the last 12 months, it decreased 3.6%."
     }
   ]
 }
