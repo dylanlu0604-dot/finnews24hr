@@ -1,7 +1,129 @@
 {
-  "updated": "2026-11-13 21:34:00",
-  "count": 9776,
+  "updated": "2026-11-13 21:37:55",
+  "count": 9788,
   "items": [
+    {
+      "id": "5213472",
+      "time": "2026-11-13 21:37:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河北雄安新區昝崗組團“站產城一體”開發有序推進】11月13日，雄安新區昝崗西廣場綜合商業一期專案首棟主體結構封頂。作為昝崗組團推進“站產城一體”開發的重要載體，專案總建築面積12.62萬平方米，規劃建設6棟集辦公、酒店、底商於一體的功能型綜合體。（新華社）"
+    },
+    {
+      "id": "5213471",
+      "time": "2026-11-13 21:37:13",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將思科目標價從139美元下調至120美元。"
+    },
+    {
+      "id": "5213470",
+      "time": "2026-11-13 21:36:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紐氏達特創業板IPO過會】深圳證券交易所上市稽核委員會2026年第62次審議會議於2026年11月13日召開，審議結果為紐氏達特行星傳動系統技術（淄博）股份有限公司首發符合發行條件、上市條件和資訊披露要求。"
+    },
+    {
+      "id": "mkt:01a1d51f-3e17-7bbc-abd5-7a31168192d4",
+      "time": "2026-11-13 21:35:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "After the US October PPI release, markets trimmed expectations for Fed rate hikes."
+    },
+    {
+      "id": "5213469",
+      "time": "2026-11-13 21:35:02",
+      "tags": [
+        "資料",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "PPI報告公佈後，交易員下調對美聯儲緊縮的預期。"
+    },
+    {
+      "id": "mkt:01a1d51d-b153-7bbc-abd5-760bbd8e895a",
+      "time": "2026-11-13 21:34:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada manufacturing inventories rose 1.7% MoM in September, versus a 0.2% increase in August."
+    },
+    {
+      "id": "mkt:01a1d51d-97b9-7bbc-abd5-6abaca64099d",
+      "time": "2026-11-13 21:34:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Inventories (MoM) (Sep) | actual 1.7% | previous 0.2%"
+    },
+    {
+      "id": "mkt:01a1d51d-72de-7bbc-abd5-674386ddf43a",
+      "time": "2026-11-13 21:33:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada wholesale inventories rose 1.0% MoM in September, following a 0.0% change in August."
+    },
+    {
+      "id": "mkt:01a1d51d-55d2-7bbc-abd5-5a03042cbc74",
+      "time": "2026-11-13 21:33:51",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Inventories (MoM) (Sep) | actual 1% | previous 0%"
+    },
+    {
+      "id": "5213468",
+      "time": "2026-11-13 21:33:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大9月製造業庫存裝船比 1.63%，前值1.6%。\n加拿大9月批發庫存月率 1%，前值0%。\n加拿大9月製造業庫存月率 1.7%，前值0.2%。"
+    },
+    {
+      "id": "mkt:01a1d51d-21b5-7bbc-abd5-570e0e7369a9",
+      "time": "2026-11-13 21:33:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada manufacturing inventory-to-shipments ratio, September: 1.63% (previous 1.60%)."
+    },
+    {
+      "id": "mkt:01a1d51d-02f8-7bbc-abd5-4fec6e0f8d62",
+      "time": "2026-11-13 21:33:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Inventory-To-Sales Ratio (Sep) | actual 1.63% | previous 1.6%"
+    },
+    {
+      "id": "5213467",
+      "time": "2026-11-13 21:33:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國資料公佈後，歐洲STOXX 600指數<.STOXX>企穩，當日幾乎沒有變化。"
+    },
     {
       "id": "mkt:01a1d51c-8435-7bbc-abd5-446726c0a7a1",
       "time": "2026-11-13 21:32:58",
@@ -89088,18 +89210,6 @@
         "Importance 1"
       ],
       "text": "Canada Unemployment Rate Unexpectedly Rises — Canada’s unemployment rate rose to 6.7% in October 2026 from 6.5% in September, reaching its highest level since April and exceeding expectations that it would remain unchanged at 6.5%. The labour market showed signs of stalling as US tariffs continued to weigh on some sectors. The number of unemployed people increased by 32,800 to 1,507,700. Of these, nearly one-quarter (23.7%) had been unemployed for at least 27 weeks. The share was highest among those aged 55 and over, at 32.7%, while it stood at 25.3% among core-aged workers. Unemployment rates for core-aged people were unchanged for both men (5.8%) and women (5.3%). Young people continued to have the lowest proportion of long-term unemployment, at 15.2%, although their unemployment rate climbed to 13.7% as employment edged lower and more people entered the labour force to seek work. The labor force participation rate was unchanged at 64.8%, while employed persons fell by 4.7 thousand."
-    },
-    {
-      "id": "te:economy:599172",
-      "time": "2026-11-06 21:36:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Employment Change",
-        "Importance 2"
-      ],
-      "text": "Canadian Employment Unexpectedly Falls in October — Canadian employment fell by 4,700 in October 2026, improving from a steep 68,300 decline in September but missing expectations for a 13,600 increase. Private-sector employment dropped by 53,000 (-0.4%), its first decline since February, while public-sector employment rose by 50,000 (+1.1%). Wholesale and retail trade shed 29,000 jobs (-1.0%), while construction added 16,000 (+0.9%) and educational services gained 15,000 (+1.0%). Employment declined in Alberta (-24,000; -0.9%) and Prince Edward Island (-1,300; -1.3%), but increased in British Columbia (+12,000; +0.4%) and Newfoundland and Labrador (+2,900; +1.2%). On a yearly basis, employment was nearly unchanged, rising by just 17,000 (+0.1%). The employment rate fell by 0.1 percentage points to 60.5%, marking its third consecutive monthly decline."
     }
   ]
 }
