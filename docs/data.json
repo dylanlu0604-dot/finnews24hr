@@ -1,7 +1,83 @@
 {
-  "updated": "2026-11-14 04:59:42",
-  "count": 9758,
+  "updated": "2026-11-14 05:03:26",
+  "count": 9757,
   "items": [
+    {
+      "id": "mkt:01a1d6b8-69cc-7bbc-abdc-c298682a4d0c",
+      "time": "2026-11-14 05:02:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US stocks close mixed; AMD falls nearly 9%】US equities closed mixed on Friday: the Dow Jones rose 0.1%, the S&P 500 fell 0.4% and the Nasdaq Composite dropped 0.91%. AMD (AMD.O) fell 8.75%, Dell (DELL.N) declined 7.24%, CoreWeave (CRWV.O) -6.13%, SanDisk (SNDK.O) -5.59%, Broadcom (AVGO.O) -4.76%, SK Hynix ADR (SKHY.O) -4.3% and NVIDIA (NVDA.O) -2.01%; Meta Platforms (META.O) rose 2.9% and Microsoft (MSFT.O) gained 0.17%. The Nasdaq Golden Dragon China Index was up 0.84%; Baidu (BIDU.O) +0.66%, Alibaba (BABA.N) -0.02%."
+    },
+    {
+      "id": "5213929",
+      "time": "2026-11-14 05:01:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "非正式資料顯示，本週標普500指數上漲2.51%，納斯達克指數上漲2.27%，道瓊斯指數上漲2.07%。"
+    },
+    {
+      "id": "5213928",
+      "time": "2026-11-14 05:01:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價下跌13%，創下自2025年4月以來最大單週跌幅。"
+    },
+    {
+      "id": "5213927",
+      "time": "2026-11-14 05:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.10%，標普500指數跌0.40%，納指跌0.91%。NBIS跌9.92%，超威半導體跌8.75%，戴爾跌7.22%，阿里拉姆製藥漲5.36%，特許通訊漲4.32%，思泰瑞醫療漲4.31%。“七姐妹”方面：Meta Platforms漲2.90%，蘋果漲0.39%，微軟漲0.17%，亞馬遜跌0.29%，谷歌跌0.96%，特斯拉跌1.82%，英偉達跌2.00%。"
+    },
+    {
+      "id": "5213926",
+      "time": "2026-11-14 05:00:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲認為，人工智慧是導致資產價格高企的部分原因，並認為存在風險。"
+    },
+    {
+      "id": "5213925",
+      "time": "2026-11-14 05:00:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲釋出金融穩定報告。"
+    },
+    {
+      "id": "5213924",
+      "time": "2026-11-14 05:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.80%】陸金所控股漲9.57%，霸王茶姬漲6.37%，老虎證券漲5.87%，萬物新生漲5.44%，信也科技漲4.96%。"
+    },
+    {
+      "id": "mkt:01a1d6b5-b76c-7bbc-abdc-b8e97fd9af4a",
+      "time": "2026-11-14 04:59:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【U.S. FAA issues nationwide ground stop】The U.S. Federal Aviation Administration said it has implemented a nationwide ground stop, citing special circumstances and safety reasons. All departing flights should remain grounded until further notice; inbound international flights will be handled on a case-by-case basis."
+    },
     {
       "id": "5213923",
       "time": "2026-11-14 04:57:51",
@@ -88689,85 +88765,6 @@
         "市場"
       ],
       "text": "納斯達克100指數和標普500指數連續第四周下跌，創下3月份以來最長連跌紀錄。"
-    },
-    {
-      "id": "5200268",
-      "time": "2026-11-07 05:03:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普將波蘭評級展望下調至負面；下調本幣評級。"
-    },
-    {
-      "id": "5200266",
-      "time": "2026-11-07 05:02:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國批准向墨西哥出售UH-60M“黑鷹”直升機。"
-    },
-    {
-      "id": "5200265",
-      "time": "2026-11-07 05:02:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "費城半導體指數創2025年4月以來最差單週表現，下跌12%。"
-    },
-    {
-      "id": "5200264",
-      "time": "2026-11-07 05:02:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國批准向墨西哥出售價值可能達10.75億美元的軍事裝備。"
-    },
-    {
-      "id": "5200262",
-      "time": "2026-11-07 05:01:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "AXON股價下跌18%，創2013年以來最大單日跌幅，此前該公司下調了銷售預期。"
-    },
-    {
-      "id": "te:markets:599268",
-      "time": "2026-11-07 05:01:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Mexico",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Mexican Peso Recovers After Banxico Rate Cut — The Mexican peso strengthened to around 18.6 per USD in November, recovering from a slump triggered by Banxico’s unexpected cut of its benchmark rate to 6.25%. The narrower rate differential with the US Federal Reserve reduces the appeal of peso-denominated carry trades, weighing on the currency. Banxico also revised its forward guidance, signaling that rates would remain at the new level for an “extended period.” The peso partially recovered after the post-decision move amid optimism over US-Mexico trade talks. Democrats won a majority of congressional seats in the US midterm elections; a Democratic majority could constrain some of President Trump’s trade policy decisions. While USMCA-compliant goods were exempted from Trump administration tariffs, additional tariffs remained on steel, aluminum and automotive imports."
-    },
-    {
-      "id": "5200261",
-      "time": "2026-11-07 05:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指跌0.46%，標普500指數漲0.32%，納指漲1.10%。RKLB漲15.37%，Coherent Corp漲13.54%，愛彼迎漲11.69%，Axon Enterprise跌18.05%，微芯科技跌10.14%。“七姐妹”方面：特斯拉漲4.18%，英偉達漲2.87%，Meta Platforms漲0.84%，谷歌漲0.75%，亞馬遜跌0.33%，蘋果跌0.51%，微軟跌0.98%。"
-    },
-    {
-      "id": "5200260",
-      "time": "2026-11-07 05:00:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "AIRBNB股價收盤上漲12%，創8月7日以來最大單日漲幅。"
-    },
-    {
-      "id": "5200259",
-      "time": "2026-11-07 05:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲1.65%】再鼎醫藥漲12.77%，禾賽科技漲11.64%，迅雷漲10.71%，文遠知行漲10.27%，陸金所控股漲8.40%。"
     }
   ]
 }
