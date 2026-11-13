@@ -1,7 +1,54 @@
 {
-  "updated": "2026-11-13 08:28:12",
-  "count": 9941,
+  "updated": "2026-11-13 08:31:58",
+  "count": 9946,
   "items": [
+    {
+      "id": "5211970",
+      "time": "2026-11-13 08:29:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "新世界在香港暫停交易。"
+    },
+    {
+      "id": "mkt:01a1d24e-9a00-7bbc-abc1-72216640c350",
+      "time": "2026-11-13 08:28:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kushner, Trump's son-in-law, said he is pushing for the largest prisoner exchange to date in this conflict."
+    },
+    {
+      "id": "mkt:01a1d24e-5650-7bbc-abc1-6a72835337d3",
+      "time": "2026-11-13 08:28:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Kushner said both sides have agreed to expand the next round of Russia-Ukraine talks to include our European partners."
+    },
+    {
+      "id": "mkt:01a1d24e-3e80-7bbc-abc1-61e7a8dfa800",
+      "time": "2026-11-13 08:28:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "The Trump Trade",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【Trump urged NVIDIA's Jensen Huang to fight to retain CEO post, NYT】The New York Times, citing two people, reports President Trump phoned NVIDIA (NVDA.O) CEO Jensen Huang on Tuesday urging him to continue fighting to retain his job; the call came before Huang relinquished the CEO role. NYT says the call is the latest example of Trump backing Huang, who has been a prominent ally and an influential AI adviser to Trump's circle."
+    },
+    {
+      "id": "5211969",
+      "time": "2026-11-13 08:27:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "賈裡德·庫什納談俄烏談判：雙方現已同意擴大下一輪談判範圍，將我們的歐洲夥伴納入其中。"
+    },
     {
       "id": "5211968",
       "time": "2026-11-13 08:26:58",
