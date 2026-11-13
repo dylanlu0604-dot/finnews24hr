@@ -1,7 +1,214 @@
 {
   "date": "2026-11-13",
-  "count": 1625,
+  "count": 1644,
   "items": [
+    {
+      "id": "5213495",
+      "time": "2026-11-13 21:44:59",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：同意美聯儲在通脹方面“仍有工作要做”。"
+    },
+    {
+      "id": "5213494",
+      "time": "2026-11-13 21:44:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：如果需求過熱，就不能對通脹視而不見；資料中心建設正在推高價格。"
+    },
+    {
+      "id": "mkt:01a1d527-4a31-7bbc-abd5-ba6a31922f50",
+      "time": "2026-11-13 21:44:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Fed's Goolsbee said AI build-out is adding to economic heating beyond the effects of higher energy costs."
+    },
+    {
+      "id": "mkt:01a1d527-0a42-7bbc-abd5-b766d0a775a1",
+      "time": "2026-11-13 21:44:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed GOOLSBEE: labor market stable and may be slightly tightening."
+    },
+    {
+      "id": "5213493",
+      "time": "2026-11-13 21:44:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：人工智慧建設正在推高能源成本之上的經濟熱度。"
+    },
+    {
+      "id": "mkt:01a1d526-a165-7bbc-abd5-af9ff41ec7bf",
+      "time": "2026-11-13 21:44:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Fed's Goolsbee said officials should be cautious assessing the labor market's impact on inf, noting wages are a lagging indicator of price pressure."
+    },
+    {
+      "id": "mkt:01a1d526-72d6-7bbc-abd5-a5294b5ebc8f",
+      "time": "2026-11-13 21:43:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Governor Goolsbee said current price shocks may not show up in the labor market until later."
+    },
+    {
+      "id": "5213492",
+      "time": "2026-11-13 21:43:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：勞動力市場穩定，可能略有收緊。"
+    },
+    {
+      "id": "mkt:01a1d526-2227-7bbc-abd5-987b0cf19e0d",
+      "time": "2026-11-13 21:43:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "The Fed's Goolsbee said inf will determine the path of interest rates."
+    },
+    {
+      "id": "mkt:01a1d525-ec7a-7bbc-abd5-9262a5752342",
+      "time": "2026-11-13 21:43:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC is investigating a performance degradation; error rates have risen for Claude.AI, its API and Claude Code."
+    },
+    {
+      "id": "5213491",
+      "time": "2026-11-13 21:42:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：通脹將決定利率路徑。"
+    },
+    {
+      "id": "5213490",
+      "time": "2026-11-13 21:42:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：當前的價格衝擊可能稍後才會在勞動力市場顯現。"
+    },
+    {
+      "id": "mkt:01a1d525-5d14-7bbc-abd5-8e9f24522364",
+      "time": "2026-11-13 21:42:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "GOOLSBEE said policymakers should not be reassured by the absence of wage inf."
+    },
+    {
+      "id": "5213489",
+      "time": "2026-11-13 21:42:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic表示正在調查效能下降問題。"
+    },
+    {
+      "id": "5213488",
+      "time": "2026-11-13 21:42:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：需要謹慎評估勞動力市場對通脹的影響，因為工資是價格壓力的滯後指標。"
+    },
+    {
+      "id": "5213487",
+      "time": "2026-11-13 21:41:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic稱Claude.ai、API及Claude Code錯誤率上升。"
+    },
+    {
+      "id": "5213486",
+      "time": "2026-11-13 21:41:53",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "巴西央行行長加利波洛：目前，債務發行主要集中於與基準利率（SELIC）掛鉤的證券。"
+    },
+    {
+      "id": "5213485",
+      "time": "2026-11-13 21:41:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：不要因缺乏薪資通脹而感到寬慰。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611133930965781",
+      "time": "2026-11-13 21:41:16",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲古爾斯比：美國通脹朝著錯誤的方向發展】美聯儲的古爾斯比表示，美國通脹是廣泛的，且朝著錯誤的方向發展。"
+    },
     {
       "id": "5213484",
       "time": "2026-11-13 21:40:31",

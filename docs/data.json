@@ -1,7 +1,214 @@
 {
-  "updated": "2026-11-13 21:41:57",
-  "count": 9801,
+  "updated": "2026-11-13 21:45:48",
+  "count": 9818,
   "items": [
+    {
+      "id": "5213495",
+      "time": "2026-11-13 21:44:59",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：同意美聯儲在通脹方面“仍有工作要做”。"
+    },
+    {
+      "id": "5213494",
+      "time": "2026-11-13 21:44:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：如果需求過熱，就不能對通脹視而不見；資料中心建設正在推高價格。"
+    },
+    {
+      "id": "mkt:01a1d527-4a31-7bbc-abd5-ba6a31922f50",
+      "time": "2026-11-13 21:44:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Fed's Goolsbee said AI build-out is adding to economic heating beyond the effects of higher energy costs."
+    },
+    {
+      "id": "5213493",
+      "time": "2026-11-13 21:44:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：人工智慧建設正在推高能源成本之上的經濟熱度。"
+    },
+    {
+      "id": "mkt:01a1d527-0a42-7bbc-abd5-b766d0a775a1",
+      "time": "2026-11-13 21:44:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed GOOLSBEE: labor market stable and may be slightly tightening."
+    },
+    {
+      "id": "mkt:01a1d526-a165-7bbc-abd5-af9ff41ec7bf",
+      "time": "2026-11-13 21:44:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Fed's Goolsbee said officials should be cautious assessing the labor market's impact on inf, noting wages are a lagging indicator of price pressure."
+    },
+    {
+      "id": "mkt:01a1d526-72d6-7bbc-abd5-a5294b5ebc8f",
+      "time": "2026-11-13 21:43:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Governor Goolsbee said current price shocks may not show up in the labor market until later."
+    },
+    {
+      "id": "5213492",
+      "time": "2026-11-13 21:43:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：勞動力市場穩定，可能略有收緊。"
+    },
+    {
+      "id": "mkt:01a1d526-2227-7bbc-abd5-987b0cf19e0d",
+      "time": "2026-11-13 21:43:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "The Fed's Goolsbee said inf will determine the path of interest rates."
+    },
+    {
+      "id": "mkt:01a1d525-ec7a-7bbc-abd5-9262a5752342",
+      "time": "2026-11-13 21:43:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC is investigating a performance degradation; error rates have risen for Claude.AI, its API and Claude Code."
+    },
+    {
+      "id": "5213491",
+      "time": "2026-11-13 21:42:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：通脹將決定利率路徑。"
+    },
+    {
+      "id": "5213490",
+      "time": "2026-11-13 21:42:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：當前的價格衝擊可能稍後才會在勞動力市場顯現。"
+    },
+    {
+      "id": "mkt:01a1d525-5d14-7bbc-abd5-8e9f24522364",
+      "time": "2026-11-13 21:42:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "GOOLSBEE said policymakers should not be reassured by the absence of wage inf."
+    },
+    {
+      "id": "5213489",
+      "time": "2026-11-13 21:42:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic表示正在調查效能下降問題。"
+    },
+    {
+      "id": "5213488",
+      "time": "2026-11-13 21:42:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：需要謹慎評估勞動力市場對通脹的影響，因為工資是價格壓力的滯後指標。"
+    },
+    {
+      "id": "5213487",
+      "time": "2026-11-13 21:41:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic稱Claude.ai、API及Claude Code錯誤率上升。"
+    },
+    {
+      "id": "5213486",
+      "time": "2026-11-13 21:41:53",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "巴西央行行長加利波洛：目前，債務發行主要集中於與基準利率（SELIC）掛鉤的證券。"
+    },
+    {
+      "id": "5213485",
+      "time": "2026-11-13 21:41:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：不要因缺乏薪資通脹而感到寬慰。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611133930965781",
+      "time": "2026-11-13 21:41:16",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲古爾斯比：美國通脹朝著錯誤的方向發展】美聯儲的古爾斯比表示，美國通脹是廣泛的，且朝著錯誤的方向發展。"
+    },
     {
       "id": "5213484",
       "time": "2026-11-13 21:40:31",
@@ -89297,30 +89504,6 @@
         "Importance 1"
       ],
       "text": "Gold Retreats on Strong US Jobs Data — Gold prices fell toward $4,050 an ounce on Friday as the US dollar strengthened following a stronger-than-expected nonfarm payrolls report, reinforcing expectations that the Federal Reserve could raise interest rates at its policy meeting next month. The US economy added 165,000 jobs in October, well above market expectations of 65,000, while the unemployment rate unexpectedly declined to 4.1%. Employment figures for the previous two months were also revised upward by a combined 84,000. Adding to the hawkish outlook, average hourly earnings rose by 0.4%, exceeding forecasts of 0.3%, while a renewed increase in crude oil prices further fueled inflation concerns. Despite Friday’s pullback, gold remained up more than 4% for the week, supported by safe-haven demand following a sweeping Democratic victory in the US midterm elections, which prompted investors to rotate out of AI stocks and seek defensive assets."
-    },
-    {
-      "id": "te:markets:599181",
-      "time": "2026-11-06 21:44:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "Treasury Yields Soar After NFP — The yield on the US 10-year Treasury note jumped as much as 6bps to 4.9% on Friday, before settling around 4.86%, after a stronger-than-expected jobs report boosted expectations of a Fed rate hike next month. The US economy added 165K jobs in October, well above forecasts of 65K. In addition, the unemployment rate fell to 4.1% and wage growth exceeded expectations, pointing to a resilient labour market capable of withstanding higher borrowing costs as the Fed seeks to contain inflationary pressures. Meanwhile, US stocks were on track to rebound from the sharp losses recorded in the previous session, easing demand for safe-haven assets and contributing to the reversal in Treasury prices. Investors have been reassessing the potential economic implications of the Democrats' sweep in the midterm elections, including the prospect of lower tax cuts and government spending, alongside potentially tighter AI regulation that could weigh on investment in the sector."
-    },
-    {
-      "id": "te:markets:599180",
-      "time": "2026-11-06 21:43:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "DXY Extends Gains After Strong Jobs Report — The US dollar index rose 0.6% to 102.2 on Friday, extending gains after October employment data significantly exceeded expectations. Nonfarm payrolls increased by 165,000, more than double the 65,000 forecast, while the unemployment rate edged down to 4.1%. Job gains were broad-based, led by professional and business services and healthcare, reinforcing evidence of a resilient labour market supported by consumer spending and business investment. The stronger figures strengthened expectations that the Federal Reserve will maintain a restrictive monetary stance, with investors anticipating another interest rate increase in December to contain inflation. Policymakers will receive one more employment report and a full set of inflation data before their next meeting. The dollar also benefited from increased safe-haven demand amid a global equity selloff driven by concerns over AI valuations and tighter regulation."
     }
   ]
 }
