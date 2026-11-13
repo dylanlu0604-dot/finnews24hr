@@ -1,7 +1,91 @@
 {
   "date": "2026-11-14",
-  "count": 275,
+  "count": 284,
   "items": [
+    {
+      "id": "mkt:01a1d6c6-4632-7bbc-abdd-4d9f4c1b0596",
+      "time": "2026-11-14 05:18:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Soros Fund Management increased its stake in Micron Technology (MU.O) by 58.9% to 35,618 shares."
+    },
+    {
+      "id": "5213955",
+      "time": "2026-11-14 05:17:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：由於通訊問題影響所有航路交通管制中心，聯邦航空管理局對所有美國機場實施全國範圍的地面停飛。"
+    },
+    {
+      "id": "5213954",
+      "time": "2026-11-14 05:17:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長：一旦有美國聯邦航空管理局停飛的相關訊息，我們將及時通報。"
+    },
+    {
+      "id": "mkt:01a1d6c4-aeb8-7bbc-abdd-432d7596d450",
+      "time": "2026-11-14 05:16:16",
+      "tags": [
+        "MKT News",
+        "DAL.O",
+        "Impact bearish",
+        "AAL.O",
+        "UAL.O"
+      ],
+      "text": "Air Current said the US Federal Aviation Administration (FAA) nationwide ground stop was caused by a failure of air traffic control (ATC) communication frequencies."
+    },
+    {
+      "id": "5213952",
+      "time": "2026-11-14 05:15:47",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗銀行將贖回2027年到期的22億美元4.876%固定/浮動利率票據。"
+    },
+    {
+      "id": "5213951",
+      "time": "2026-11-14 05:15:35",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗銀行將贖回2027年到期的8億美元浮息票據。"
+    },
+    {
+      "id": "5213950",
+      "time": "2026-11-14 05:15:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Whale Rock Capital 三季度13F披露：增持Meta、微軟，清倉Astera Labs與蘋果 】根據最新披露的13F檔案，波士頓對沖基金 Whale Rock Capital Management 大幅加倉 Meta Platforms (META)、Twilio (TWLO)、Celestica (CLS)、SiTime (SITM) 及 Datadog (FROG)；同時新增 Microsoft (MSFT)、HPE (HPE)、Okta (OKTA)、Vicor (VICR) 及 Monolithic Power Systems (MPWR)。削減了 SanDisk (SNDK)、Alphabet (GOOGL)、Lam Research (LRCX)、Coherent (COHR) 及 AppLovin (APP) 的倉位。完全退出了 Astera Labs (ALAB)、Carvana (CVNA)、Western Digital (WDC) 及 Apple (AAPL)。"
+    },
+    {
+      "id": "mkt:01a1d6c3-3ee6-7bbc-abdd-3ed97d079d2f",
+      "time": "2026-11-14 05:14:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "MSFT.O"
+      ],
+      "text": "Soros Fund Management cut its holdings in Microsoft (MSFT.O) by 35.7% to 122,166 shares."
+    },
+    {
+      "id": "mkt:01a1d6c2-f297-7bbc-abdd-31c8cd11cdaf",
+      "time": "2026-11-14 05:14:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Soros Fund Management trimmed its Amazon (AMZN.O) stake by 10.8% to 1.1 mln shares."
+    },
     {
       "id": "mkt:01a1d6c2-56f1-7bbc-abdd-2d38ce855259",
       "time": "2026-11-14 05:13:42",
