@@ -1,7 +1,85 @@
 {
-  "updated": "2026-11-14 05:07:09",
-  "count": 9763,
+  "updated": "2026-11-14 05:10:52",
+  "count": 9766,
   "items": [
+    {
+      "id": "5213945",
+      "time": "2026-11-14 05:09:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國新奧爾良發生撞船事故 一艘遊船部分沉沒】當地時間11月13日，據美國方面訊息，一艘油輪在新奧爾良撞上一艘內河遊船，造成遊船部分沉沒。密西西比河上的救援行動正在進行中。據悉，一艘體型龐大的油輪撞向一艘似乎正停靠在岸邊的遊船，遊船另一側進一步傾斜，沉入水中。新奧爾良急救醫療服務中心的斯蒂芬妮·C·諾伍德中尉表示，各相關機構均已投入救援工作。目前傷亡情況不明。事故發生後，至少有14人獲救。(央視新聞)"
+    },
+    {
+      "id": "5213944",
+      "time": "2026-11-14 05:09:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普政府允許各州將醫療補助工作要求推遲六個月執行。"
+    },
+    {
+      "id": "5213943",
+      "time": "2026-11-14 05:09:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債跌幅收窄，10年期國債收益率上漲2個基點，至5.15%。"
+    },
+    {
+      "id": "5213942",
+      "time": "2026-11-14 05:08:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局釋出停飛令理由是“情況特殊且出於安全考慮”。"
+    },
+    {
+      "id": "mkt:01a1d6bc-ce20-7bbc-abdd-2523d9f48b3c",
+      "time": "2026-11-14 05:07:40",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "S&P maintained Italy's sovereign rating and positive outlook, saying it expects Italy's external position to gradually improve in line with long-term structural trends."
+    },
+    {
+      "id": "mkt:01a1d6bc-9633-7bbc-abdd-1d8180266546",
+      "time": "2026-11-14 05:07:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P revised Bulgaria's sovereign rating outlook to stable from positive, citing widening twin deficits, and affirmed the BBB+/A-2 rating."
+    },
+    {
+      "id": "5213940",
+      "time": "2026-11-14 05:07:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：確認評級及積極展望反映出我們預計義大利的外部狀況將逐步改善，這與長期結構性趨勢一致。"
+    },
+    {
+      "id": "5213939",
+      "time": "2026-11-14 05:07:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮否認國家經濟委員會主任哈西特即將離職】當地時間11月13日，白宮否認有關白宮國家經濟委員會主任凱文·哈西特將在未來幾周內離職的訊息。此前有美國媒體報道稱，哈西特預計將在未來幾周內離開特朗普政府，成為又一名離任的白宮重量級官員。相關報道還提到，哈西特早在本月3日美國中期選舉前，就已在尋找政府以外的任職機會，傳聞其離職安排和中期選舉結果無關。（央視新聞）"
+    },
+    {
+      "id": "5213938",
+      "time": "2026-11-14 05:06:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "道富SPDR標普500 ETF盤後下跌0.4%。"
+    },
     {
       "id": "5213937",
       "time": "2026-11-14 05:06:33",
@@ -88794,65 +88872,6 @@
         "市場"
       ],
       "text": "週五（11月6日），美股行業ETF漲跌各異，半導體ETF收漲3.62%，全球科技股指數ETF漲2.03%，科技行業ETF漲1.45%，能源業ETF跌0.02%，銀行業ETF跌0.47%。2026年迄今，能源業ETF累計上漲40.55%，半導體ETF、生物科技指數ETF、醫療業ETF漲28.83%-20.86%，可選消費ETF則累跌0.92%，網路股指數ETF跌3.19%。"
-    },
-    {
-      "id": "5200281",
-      "time": "2026-11-07 05:10:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄總統新聞秘書：俄美願繼續開展人道主義工作】俄羅斯總統新聞秘書佩斯科夫6日評價不久前結束的奧列什基人道主義援助行動時表示，俄美雙方保持積極心態，願繼續開展人道主義工作。佩斯科夫在當天舉行的例行新聞釋出會上說，俄總統特別代表德米特里耶夫和俄人權事務專員蘭特拉託娃5日在華盛頓與美國總統特朗普的夫人梅拉尼婭的會面“非常積極”，“梅拉尼婭及其團隊為在奧列什基市開展人道主義援助付出不少努力，他們與俄烏人權事務專員共同開展工作”。佩斯科夫表示，俄美開展人道主義工作與雙方政治接觸“互為補充”，“是很好的實踐”。談及與歐洲國家關係，佩斯科夫指出，在談論俄羅斯與烏克蘭相互保障安全時，勢必談到歐洲地區未來安全體系。在未來某個時期，相關會談不可能沒有其他歐洲國家參與。他表示，“需要與歐洲人對話”，但一些歐洲國家在與俄對話方面猶豫不決且未做好準備。俄烏10月27日開始在赫爾松州奧列什基區域性停火，以便人道主義物資進入，並安排平民透過指定安全通道撤離。11月1日，此次人道主義援助行動順利結束。梅拉尼婭5日在白宮會見俄烏官員，表示希望此次停火能促進合作，以實現持久和平。(新華社)"
-    },
-    {
-      "id": "5200277",
-      "time": "2026-11-07 05:10:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "lululemon任命Ben Hallam為首席品牌官。"
-    },
-    {
-      "id": "mkt:01a1b2b2-54a1-7ee0-aabc-39fb038d4576",
-      "time": "2026-11-07 05:09:53",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "S&P says the Middle East war is transmitting to Poland via higher energy prices, but the Polish economy has remained resilient so far."
-    },
-    {
-      "id": "mkt:01a1b2b1-4e67-7ee0-aabc-36f9c72c7053",
-      "time": "2026-11-07 05:08:46",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index jumps 0.74% to 102.298 at New York close】The dollar index, which measures the dollar against six major currencies, rose 0.74% to 102.298 at the New York close. EUR/USD 1.1140, down from 1.1225 in the prior session; GBP/USD 1.3351, down from 1.3459; USD/JPY 158.49, up from 157.85; USD/CHF 0.8206, up from 0.8165; USD/CAD 1.4132, up from 1.3998; USD/SEK 9.8988, up from 9.7948."
-    },
-    {
-      "id": "mkt:01a1b2b0-fa8d-7ee0-aabc-2d7ff7c202c0",
-      "time": "2026-11-07 05:08:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Series of explosions heard in Kyiv】On the 6th (local time), multiple explosions were reported in Kyiv after air-raid sirens had sounded earlier."
-    },
-    {
-      "id": "mkt:01a1b2b0-c3db-7ee0-aabc-20b2ae5b32e8",
-      "time": "2026-11-07 05:08:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump says he is communicating with Iran】On Nov 6, U.S. President Trump said he is communicating with Iran. Qatar's prime minister and foreign minister Mohammed bin Abdulrahman Al Thani, speaking in Oxford the same day, said the U.S. and Iran failed to reach a \"comprehensive agreement\" and urged both sides to accept a \"good agreement\" rather than pursue a \"perfect\" one."
     }
   ]
 }
