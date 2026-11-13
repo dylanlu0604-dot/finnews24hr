@@ -1,7 +1,41 @@
 {
   "date": "2026-11-14",
-  "count": 289,
+  "count": 293,
   "items": [
+    {
+      "id": "mkt:01a1d6cc-6fc7-7bbc-abdd-5c7638fef4d4",
+      "time": "2026-11-14 05:24:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Semafor reports Trump's AI task force met Thursday to discuss cyber threats and related risks; it did not discuss NVIDIA (NVDA.O)."
+    },
+    {
+      "id": "5213966",
+      "time": "2026-11-14 05:24:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息:美國聯邦航空管理局（FAA）的通訊問題始於內布拉斯加州，隨後蔓延至全國。"
+    },
+    {
+      "id": "5213965",
+      "time": "2026-11-14 05:22:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普的人工智慧工作組會議未討論英偉達。"
+    },
+    {
+      "id": "5213964",
+      "time": "2026-11-14 05:22:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普的人工智慧工作組週四召開會議，討論網路威脅。"
+    },
     {
       "id": "5213962",
       "time": "2026-11-14 05:21:29",

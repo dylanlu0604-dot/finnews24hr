@@ -1,7 +1,41 @@
 {
-  "updated": "2026-11-14 05:22:04",
-  "count": 9775,
+  "updated": "2026-11-14 05:25:45",
+  "count": 9776,
   "items": [
+    {
+      "id": "mkt:01a1d6cc-6fc7-7bbc-abdd-5c7638fef4d4",
+      "time": "2026-11-14 05:24:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Semafor reports Trump's AI task force met Thursday to discuss cyber threats and related risks; it did not discuss NVIDIA (NVDA.O)."
+    },
+    {
+      "id": "5213966",
+      "time": "2026-11-14 05:24:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息:美國聯邦航空管理局（FAA）的通訊問題始於內布拉斯加州，隨後蔓延至全國。"
+    },
+    {
+      "id": "5213965",
+      "time": "2026-11-14 05:22:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普的人工智慧工作組會議未討論英偉達。"
+    },
+    {
+      "id": "5213964",
+      "time": "2026-11-14 05:22:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普的人工智慧工作組週四召開會議，討論網路威脅。"
+    },
     {
       "id": "5213962",
       "time": "2026-11-14 05:21:29",
@@ -88928,37 +88962,6 @@
         "其他"
       ],
       "text": "SpaceX：哈里森的辭職並非因任何分歧所致。"
-    },
-    {
-      "id": "5200298",
-      "time": "2026-11-07 05:25:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX董事唐納德·哈里森將辭去董事會職務。"
-    },
-    {
-      "id": "5200295",
-      "time": "2026-11-07 05:22:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌斥資5.48億美元買入高通股份】根據週五提交的一份證券檔案，谷歌已購入晶片製造商高通近300萬股，佔高通總股本不到0.5%。隨著高通大力進軍AI資料中心市場，這筆投資將使谷歌獲得對高通的業務敞口。該檔案顯示，這家搜尋巨頭斥資約5.48億美元，買入了高通2,976,982股股份。此外，谷歌還持有晶片設計公司Arm的股份，並與晶片設計公司Marvell達成了一項最高達122億美元的股票協議，雙方正合作開發谷歌自研的AI晶片——張量處理單元（TPU）。"
-    },
-    {
-      "id": "mkt:01a1b2bd-d05f-7ee0-aabc-58db6621f54d",
-      "time": "2026-11-07 05:22:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "QCOM.O",
-        "Impact bullish",
-        "GOOG.O"
-      ],
-      "text": "Market sources: Google (GOOG.O) purchased $548 million of Qualcomm (QCOM.O) shares."
     }
   ]
 }
