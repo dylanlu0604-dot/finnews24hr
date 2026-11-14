@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-14 16:26:22",
-  "count": 9835,
+  "updated": "2026-11-14 16:30:23",
+  "count": 9834,
   "items": [
+    {
+      "id": "5214399",
+      "time": "2026-11-14 16:27:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【APEC工商諮詢理事會第四次會議開幕】今天，APEC工商諮詢理事會第四次會議正式拉開帷幕。這場會議一共有60多位來自21個APEC經濟體的工商界代表，以及學界嘉賓等在內的200多人參會，全程進行閉門磋商。本次會議以“開放、互通、協同”為主題，設定五大核心議題，涵蓋區域經濟一體化、可持續發展等重點領域。"
+    },
     {
       "id": "5214398",
       "time": "2026-11-14 16:23:52",
@@ -89525,22 +89533,6 @@
         "國際"
       ],
       "text": "伊朗處決一名被控武裝襲擊警察的男子。"
-    },
-    {
-      "id": "mkt:01a1b51e-e857-7ee0-aabe-55e7d86337dd",
-      "time": "2026-11-07 16:27:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Passenger train fire in India's Punjab; no casualties reported】On the 6th a passenger train caught fire near a railway station in Punjab state, India. The train emitted heavy black smoke while in motion; emergency crews extinguished the blaze and no casualties have been reported. Officials said the fire was caused by a short circuit in a carriage fan."
-    },
-    {
-      "id": "5200661",
-      "time": "2026-11-07 16:26:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度旁遮普邦客運列車起火 暫無人員傷亡報告】據多方訊息，6日，印度旁遮普邦發生客運列車起火事件。據悉，這起事件發生在旁遮普邦一個火車站附近，一趟列車在行駛過程中起火，現場冒出大量黑色濃煙。有關部門人員趕往現場並撲滅大火，目前暫無人員傷亡報告。有官員表示，火災由車廂風扇短路引發。"
     }
   ]
 }
