@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-14 22:45:03",
-  "count": 9804,
+  "updated": "2026-11-14 22:49:08",
+  "count": 9807,
   "items": [
+    {
+      "id": "5214522",
+      "time": "2026-11-14 22:45:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "比特幣跌破66000美元，過去60分鐘內加密貨幣市場爆倉金額達2.05億美元。"
+    },
+    {
+      "id": "mkt:01a1da85-8e46-7bbc-abe1-ee7d2565b1ac",
+      "time": "2026-11-14 22:45:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Musk again backs Jensen Huang, says some NVIDIA partnership deals hinge on him】Elon Musk said Jensen Huang has excelled at managing NVIDIA’s supply chain and that many partnership deals were concluded by handshake rather than formal written contracts; without Huang, at least some key deals could be lost."
+    },
+    {
+      "id": "5214521",
+      "time": "2026-11-14 22:44:33",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【李強會見泰國國會主席兼下議長索蓬】1月14日上午，國務院總理李強在曼谷會見泰國國會主席兼下議長索蓬。（新華社）"
+    },
     {
       "id": "5214520",
       "time": "2026-11-14 22:43:09",
