@@ -1,7 +1,36 @@
 {
-  "updated": "2026-11-15 04:39:06",
+  "updated": "2026-11-15 04:42:49",
   "count": 9842,
   "items": [
+    {
+      "id": "5214704",
+      "time": "2026-11-15 04:41:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX嘗試對星艦飛船本體實施捕獲回收。"
+    },
+    {
+      "id": "5214703",
+      "time": "2026-11-15 04:41:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "Meta暗盤跌超1%，現報627.985美元。"
+    },
+    {
+      "id": "mkt:01a1dbcb-5dab-7bbc-abe3-6f17d4fa4fd9",
+      "time": "2026-11-15 04:41:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran spokesman BAGHAEI says US fabricating excuses to evade responsibility for starting war】Iran Foreign Ministry spokesman BAGHAEI said US officials have invented deceptive arguments to avoid responsibility for the humanitarian, economic and geopolitical consequences of what he called their illegal aggression against Iran. He accused the US of twice launching unprovoked military attacks during diplomatic talks within nine months, assassinating Iran’s supreme leader and senior officials, causing civilian casualties including women and children and destroying critical infrastructure. BAGHAEI said the US is now politically and militarily cornered and is denying responsibility while proclaiming victory to mask its failure to achieve stated objectives."
+    },
     {
       "id": "mkt:01a1dbbf-e555-7bbc-abe3-63ffb0950d25",
       "time": "2026-11-15 04:29:08",
@@ -89560,34 +89589,6 @@
         "其他"
       ],
       "text": "達納·懷特：開啟新篇章。"
-    },
-    {
-      "id": "5201112",
-      "time": "2026-11-08 04:42:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍中央司令部在阿曼灣打擊貨船】11月7日，美國中央司令部部隊在阿曼灣擊沉一艘商船。此前，該船的平民船員無視多次警告，多次試圖突破對伊朗的海上封鎖。一架美國軍用飛機向懸掛聖基茨國旗的“胡達”號貨輪船尾發射精確制導武器，在中央司令部部隊指示船員撤離目標區域後，該船失去行動能力。這艘貨船在訪問伊朗港口後試圖離開該區域水域。"
-    },
-    {
-      "id": "mkt:01a1b7be-08da-7ee0-aac2-3048679a3cb6",
-      "time": "2026-11-08 04:40:46",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "CENTCOM said US aircraft fired precision-guided munitions at the stern of the cargo ship, disabling its ability to navigate. CENTCOM forces had ordered the crew to evacuate the area designated as the strike zone before the action. The vessel had previously called at an Iranian port and then attempted to depart the area."
-    },
-    {
-      "id": "5201111",
-      "time": "2026-11-08 04:39:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗南部多地區傳爆炸聲】據伊朗國家電視臺報道，當地時間11月7日晚，伊朗南部賈斯克、錫裡克、阿巴斯港及格什姆島均傳出爆炸聲，“可能與伊朗武裝部隊在霍爾木茲海峽的行動有關”。 （CCTV國際時訊）"
     }
   ]
 }

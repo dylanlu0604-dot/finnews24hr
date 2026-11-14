@@ -1,7 +1,36 @@
 {
   "date": "2026-11-15",
-  "count": 131,
+  "count": 134,
   "items": [
+    {
+      "id": "5214704",
+      "time": "2026-11-15 04:41:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX嘗試對星艦飛船本體實施捕獲回收。"
+    },
+    {
+      "id": "5214703",
+      "time": "2026-11-15 04:41:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "Meta暗盤跌超1%，現報627.985美元。"
+    },
+    {
+      "id": "mkt:01a1dbcb-5dab-7bbc-abe3-6f17d4fa4fd9",
+      "time": "2026-11-15 04:41:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran spokesman BAGHAEI says US fabricating excuses to evade responsibility for starting war】Iran Foreign Ministry spokesman BAGHAEI said US officials have invented deceptive arguments to avoid responsibility for the humanitarian, economic and geopolitical consequences of what he called their illegal aggression against Iran. He accused the US of twice launching unprovoked military attacks during diplomatic talks within nine months, assassinating Iran’s supreme leader and senior officials, causing civilian casualties including women and children and destroying critical infrastructure. BAGHAEI said the US is now politically and militarily cornered and is denying responsibility while proclaiming victory to mask its failure to achieve stated objectives."
+    },
     {
       "id": "mkt:01a1dbbf-e555-7bbc-abe3-63ffb0950d25",
       "time": "2026-11-15 04:29:08",
