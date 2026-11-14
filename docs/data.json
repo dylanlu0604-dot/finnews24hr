@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-15 04:09:06",
+  "updated": "2026-11-15 04:12:50",
   "count": 9844,
   "items": [
+    {
+      "id": "mkt:01a1dbad-aac7-7bbc-abe3-3980524164c4",
+      "time": "2026-11-15 04:09:14",
+      "tags": [
+        "MKT News",
+        "JPM.O"
+      ],
+      "text": "【JPMorgan credit-card chief Allison Biel to depart】Allison Biel, head of JPMorgan’s credit-card business, has told the bank she will leave to take an external role, JPMorgan said in an internal memo from a co-president. Biel runs one of the world’s largest credit-card franchises; the bank will name a successor for cards and related merchant services in the coming weeks. Biel joined JPMorgan in 2017 from American Express and led an expansion of its card business, launching products targeted at travelers and high-spending customers that directly competed with her former employer."
+    },
     {
       "id": "5214695",
       "time": "2026-11-15 04:07:57",
@@ -89608,14 +89617,6 @@
         "Brent"
       ],
       "text": "Iranian state TV reported explosions were heard in southern Iran in Jask, Sirik, Bandar Abbas and Qeshm Island; cause unclear."
-    },
-    {
-      "id": "5201090",
-      "time": "2026-11-08 04:12:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗格什姆島傳出爆炸聲】當地時間7日晚，從伊朗方面獲悉，格什姆島傳來兩聲爆炸聲。當地訊息稱，爆炸發生在該島內，位於島嶼東部。伊朗官方暫未公佈細節。"
     }
   ]
 }

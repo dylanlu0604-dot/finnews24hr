@@ -1,7 +1,16 @@
 {
   "date": "2026-11-15",
-  "count": 118,
+  "count": 119,
   "items": [
+    {
+      "id": "mkt:01a1dbad-aac7-7bbc-abe3-3980524164c4",
+      "time": "2026-11-15 04:09:14",
+      "tags": [
+        "MKT News",
+        "JPM.O"
+      ],
+      "text": "【JPMorgan credit-card chief Allison Biel to depart】Allison Biel, head of JPMorgan’s credit-card business, has told the bank she will leave to take an external role, JPMorgan said in an internal memo from a co-president. Biel runs one of the world’s largest credit-card franchises; the bank will name a successor for cards and related merchant services in the coming weeks. Biel joined JPMorgan in 2017 from American Express and led an expansion of its card business, launching products targeted at travelers and high-spending customers that directly competed with her former employer."
+    },
     {
       "id": "5214695",
       "time": "2026-11-15 04:07:57",
