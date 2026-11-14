@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-15 03:38:30",
-  "count": 9844,
+  "updated": "2026-11-15 03:42:53",
+  "count": 9843,
   "items": [
+    {
+      "id": "5214692",
+      "time": "2026-11-15 03:38:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "航班追蹤網站FlightAware的資料顯示，週六有超過1萬架次航班延誤或被取消，航空公司正努力恢復正常航班安排。"
+    },
     {
       "id": "5214691",
       "time": "2026-11-15 03:37:39",
@@ -89603,22 +89611,6 @@
         "Impact bullish"
       ],
       "text": "Musk: upcoming efficiency improvements will enable Cybercab to use a 40 kWh battery pack."
-    },
-    {
-      "id": "mkt:01a1b787-6a1d-7ee0-aac1-d83f97f28d00",
-      "time": "2026-11-08 03:41:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli president authorizes Netanyahu rival Gadi Eisenkot to form government】Israeli President Isaac Herzog concluded consultations and authorized former IDF chief of staff Gadi Eisenkot to try to form a government, the president’s office said. Parties representing 67 Knesset members recommended Eisenkot; parties representing 46 recommended incumbent Prime Minister Benjamin Netanyahu; a 7-seat party made no recommendation. Herzog met with multiple political figures, including Netanyahu and Eisenkot, and informed Eisenkot of the authorization decision. Under Israel’s Basic Law on the Government, the designated lawmaker has 28 days to form a cabinet, extendable once by up to 14 days."
-    },
-    {
-      "id": "5201079",
-      "time": "2026-11-08 03:39:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列總統決定授權埃森科特組建新政府】以色列總統府7日發表宣告說，以總統赫爾佐格決定授權正直黨領導人、以軍前總參謀長加迪·埃森科特組建新一屆政府。（新華社）"
     }
   ]
 }
