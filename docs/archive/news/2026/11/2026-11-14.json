@@ -1,7 +1,48 @@
 {
   "date": "2026-11-14",
-  "count": 522,
+  "count": 527,
   "items": [
+    {
+      "id": "5214185",
+      "time": "2026-11-14 09:32:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國土安全部部長：沒有發生網路攻擊。"
+    },
+    {
+      "id": "5214184",
+      "time": "2026-11-14 09:31:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國土安全部部長：此次（停飛）事件與微軟無關。"
+    },
+    {
+      "id": "mkt:01a1d7ad-9a88-7bbc-abde-79b634e6cf94",
+      "time": "2026-11-14 09:30:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Flight-tracking platform Flightradar said the nationwide US grounding order has been lifted, but air traffic will take considerable time to return to normal."
+    },
+    {
+      "id": "5214183",
+      "time": "2026-11-14 09:30:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【知情人士：美國聯邦航空管理局已解除全國停飛令】知情人士透露，美國聯邦航空管理局已解除全國停飛令。 此次通訊故障影響了全國多處空管中心，停飛令隨之解除。航司現在需要重新排期，在運力停擺之後，航班延誤與取消的影響可能持續數小時，各家航司需要重新調配飛機與機組人員。知情人士稱，聯邦調查局判斷本次故障不是網路攻擊或犯罪行為造成的。調查人員正在核查，故障是否由軟體更新觸發。 本次停擺是美國歷史上第三次全國停飛事件，前兩次分別是2023年聯邦航空管理局面向飛行員與排程員的安全通知系統故障，以及2001年“9·11”恐怖襲擊事件。 故障發生之際，聯邦航空管理局正在對老舊空管基礎設施開展大規模現代化升級，國會為此撥付125億美元資金。達菲還申請追加300億美元用於該專案，交通部本週再次提出該資金申請。"
+    },
+    {
+      "id": "mkt:01a1d7ad-048b-7bbc-abde-757424d5280a",
+      "time": "2026-11-14 09:30:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Homeland Security Secretary Mulin and U.S. Transportation Secretary Dafi to hold a press briefing shortly."
+    },
     {
       "id": "mkt:01a1d7aa-7270-7bbc-abde-6ce704a0d840",
       "time": "2026-11-14 09:27:14",
