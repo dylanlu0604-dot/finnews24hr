@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-14 23:16:50",
-  "count": 9816,
+  "updated": "2026-11-14 23:20:49",
+  "count": 9813,
   "items": [
+    {
+      "id": "5214543",
+      "time": "2026-11-14 23:17:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟敦促以色列開放加沙所有過境點】歐盟對外行動署14日發表宣告，對加沙地帶持續、嚴峻的人道主義危機表示嚴重關切，敦促以色列立即開放所有過境點，允許人道主義援助不受阻礙地進入加沙地帶。（新華社）"
+    },
     {
       "id": "5214542",
       "time": "2026-11-14 23:15:22",
@@ -89370,38 +89378,6 @@
         "WTI"
       ],
       "text": "【Zakharova: Western states unwilling to heed Russia's concerns, continue provoking escalation】On Nov 7, Russian Foreign Ministry spokeswoman Zakharova said the Koalicja multinational exercises due to start in Poland on Nov 9 — timed on the eve of Abu Dhabi three-way talks between Russia, the US and Ukraine — indicate European states have nothing to do at the negotiating table. She said Western countries remain unwilling to address Russian security concerns and are provoking escalation. Zakharova warned that deploying foreign troops inside Ukraine would amount to de facto armed intervention and would consciously project additional security threats at Russia; such deployments are unacceptable to Moscow and, if made, would become legitimate targets for Russian strikes."
-    },
-    {
-      "id": "mkt:01a1b698-8825-7ee0-aac0-801978cf9229",
-      "time": "2026-11-07 23:20:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Polish police said they are not currently searching for additional suspects."
-    },
-    {
-      "id": "5200871",
-      "time": "2026-11-07 23:18:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國魚類及野生動物管理局的改革也受到特朗普政府的關注。"
-    },
-    {
-      "id": "mkt:01a1b695-f980-7ee0-aac0-7afd32b2b1de",
-      "time": "2026-11-07 23:17:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Polish police said a shooting in Krakow killed at least three people; the shooter was captured while attempting to flee."
-    },
-    {
-      "id": "5200870",
-      "time": "2026-11-07 23:17:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府考慮改革國家公園管理局。"
     }
   ]
 }
