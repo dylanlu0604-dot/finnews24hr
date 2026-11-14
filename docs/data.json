@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-14 16:02:40",
+  "updated": "2026-11-14 16:06:31",
   "count": 9833,
   "items": [
+    {
+      "id": "5214393",
+      "time": "2026-11-14 16:05:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本大阪市行政系統使用者約108萬條郵箱地址外洩】日本大阪市11月13日就該市線上行政系統的郵件傳送服務稱，該服務使用者的約108萬條郵箱地址遭洩露，提供服務的arara公司遭非法訪問。據悉，未確認到姓名和個人編號資訊外洩。大阪市稱，經調查發現，7至10月期間由系統傳送郵件的收件人郵箱地址已外洩。"
+    },
+    {
+      "id": "5214392",
+      "time": "2026-11-14 16:04:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "本田在美國召回14，648輛汽車，原因是制動壓力損失可能降低制動能力，延長所需停車距離，並增加碰撞風險。"
+    },
     {
       "id": "5214391",
       "time": "2026-11-14 16:01:13",
@@ -89505,22 +89522,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊稱昨晚在霍爾木茲海峽向美國目標開火。"
-    },
-    {
-      "id": "5200657",
-      "time": "2026-11-07 16:04:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家公路交通安全管理局（NHTSA）：福特將在美國召回36,994輛汽車，原因是前排乘客座椅意外移動可能觸及第二排乘客，或迫使前排乘客處於不安全坐姿，從而增加受傷風險。"
-    },
-    {
-      "id": "mkt:01a1b508-60f0-7ee0-aabe-38b279126231",
-      "time": "2026-11-07 16:03:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Kremlin: presidential aide and military intelligence chief to attend talks with US and Ukraine】Kremlin spokesman Peskov told Interfax the Russian delegation to next week’s Russia–US–Ukraine talks in Abu Dhabi (Nov. 10–11) will include presidential aide Vladimir Medinsky, Deputy Foreign Minister Sergei Ryabkov and Mikhail Galuzin. He said the delegation also includes GRU chief Igor Kostyukov, a senior General Staff officer Yuri Zhigarlovsky and other senior diplomatic and military officials."
     }
   ]
 }
