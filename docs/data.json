@@ -1,7 +1,50 @@
 {
-  "updated": "2026-11-14 22:56:57",
-  "count": 9809,
+  "updated": "2026-11-14 23:00:56",
+  "count": 9812,
   "items": [
+    {
+      "id": "mkt:01a1da92-e666-7bbc-abe2-052da877d5c1",
+      "time": "2026-11-14 23:00:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【CSC Financial: Limited further upside in real rates for 2027; gold likely to trend up with volatility】CSC Financial's 2027 gold outlook says rising real rates were the main headwind for gold in 2026. It expects limited further upside in real rates in 2027 and notes current rate‑hike expectations are largely priced. Continued central-bank gold purchases should provide dip-buying and underpin a floor, so gold is forecast to trend upward with volatility in 2027. Key risk is U.S.–Iran geopolitical escalation that pushes oil and disrupts inf, though CSC Financial expects that channel's impact on gold to be marginally reduced."
+    },
+    {
+      "id": "5214531",
+      "time": "2026-11-14 22:58:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤跌破88美元，日內跌超1.1%。"
+    },
+    {
+      "id": "5214530",
+      "time": "2026-11-14 22:58:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：加文·紐森叫停對加州死囚牢全部563名囚犯的死刑執行，其中一些人是地球上有史以來最冷血的殺人犯，這對美國司法而言是一場災難。這些人中許多屢次行兇，他們不敢相信自己竟如此走運，碰上一位如此無能又麻木的州長，竟不讓漫長曲折的法律程式走完。那些慘遭殺害者的家屬理所當然地感到悲痛欲絕。希望這一決定能被推翻。"
+    },
+    {
+      "id": "5214529",
+      "time": "2026-11-14 22:57:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空：將為旅客提供免費改簽航班的選擇。"
+    },
+    {
+      "id": "5214528",
+      "time": "2026-11-14 22:57:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空：今日出行的乘客預計將遇到延誤。"
+    },
     {
       "id": "5214527",
       "time": "2026-11-14 22:56:02",
@@ -89326,22 +89369,6 @@
         "國際"
       ],
       "text": "【波蘭媒體：該國發生槍擊事件致人員傷亡】據波蘭媒體7日報道，波蘭克拉科夫發生槍擊事件，造成人員傷亡。（新華社）"
-    },
-    {
-      "id": "5200839",
-      "time": "2026-11-07 23:00:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭總理圖斯克：內政部通知我有關克拉科夫槍擊事件，警方正在調查襲擊事件。"
-    },
-    {
-      "id": "5200836",
-      "time": "2026-11-07 22:59:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：我們正在努力擺脫“既非戰爭也非和平”的狀態。"
     }
   ]
 }
