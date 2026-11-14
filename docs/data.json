@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-14 16:14:28",
+  "updated": "2026-11-14 16:18:23",
   "count": 9833,
   "items": [
+    {
+      "id": "mkt:01a1d921-c601-7bbc-abe0-11ee0c6cce59",
+      "time": "2026-11-14 16:17:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA rose more than 2% in after-hours trading."
+    },
     {
       "id": "5214395",
       "time": "2026-11-14 16:09:18",
@@ -89512,17 +89526,6 @@
         "國際"
       ],
       "text": "日本政策投資銀行將投資紅鳥基金（RedBird Fund）。"
-    },
-    {
-      "id": "mkt:01a1b515-e96e-7ee0-aabe-4799ef1473e5",
-      "time": "2026-11-07 16:17:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Fars News Agency reported Iran’s Islamic Revolutionary Guard Corps (IRGC) said it fired on US forces in the Strait of Hormuz last night."
     }
   ]
 }

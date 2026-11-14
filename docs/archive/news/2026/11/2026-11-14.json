@@ -1,7 +1,21 @@
 {
   "date": "2026-11-14",
-  "count": 770,
+  "count": 771,
   "items": [
+    {
+      "id": "mkt:01a1d921-c601-7bbc-abe0-11ee0c6cce59",
+      "time": "2026-11-14 16:17:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA rose more than 2% in after-hours trading."
+    },
     {
       "id": "5214395",
       "time": "2026-11-14 16:09:18",
