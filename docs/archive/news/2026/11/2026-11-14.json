@@ -1,7 +1,36 @@
 {
   "date": "2026-11-14",
-  "count": 519,
+  "count": 522,
   "items": [
+    {
+      "id": "mkt:01a1d7aa-7270-7bbc-abde-6ce704a0d840",
+      "time": "2026-11-14 09:27:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior US security official told CNN multiple law enforcement and intelligence agencies mounted a whole-of-government response to Friday's incident in US national airspace, but have found no evidence of a malicious attack."
+    },
+    {
+      "id": "mkt:01a1d7a9-f7ec-7bbc-abde-60d7e9477fbe",
+      "time": "2026-11-14 09:26:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "UAL.O",
+        "Impact bullish",
+        "DAL.O",
+        "AAL.O"
+      ],
+      "text": "U.S. Federal Aviation Administration says ground stop has been lifted."
+    },
+    {
+      "id": "5214182",
+      "time": "2026-11-14 09:26:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【昨日ETF資金整體淨流出234.88億元】2026年11月13日，ETF資金整體淨流出234.88億元，股票型淨流出149.86億元，寬基型淨流出132.78億元。當日ETF資金淨流出榜單排名前3依次為：南方中證1000ETF（512100）淨流出38.30億元，南方中證500ETF（510500）淨流出20.60億元，華夏中證1000ETF（159845）淨流出13.76億元。"
+    },
     {
       "id": "5214181",
       "time": "2026-11-14 09:23:30",
