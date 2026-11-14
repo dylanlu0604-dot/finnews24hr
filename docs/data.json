@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-14 16:34:18",
-  "count": 9837,
+  "updated": "2026-11-14 16:38:13",
+  "count": 9834,
   "items": [
+    {
+      "id": "5214404",
+      "time": "2026-11-14 16:37:15",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【南蘇丹大選推遲至2027年2月】當地時間11月14日，南蘇丹國家選舉委員會修訂選舉時間表，將原定於2026年12月22日的大選推遲至2027年2月11日。（央視新聞）"
+    },
     {
       "id": "mkt:01a1d930-c30b-7bbc-abe0-2c0d87989bf4",
       "time": "2026-11-14 16:33:33",
@@ -89522,47 +89531,6 @@
         "其他"
       ],
       "text": "紐西蘭兩大政黨在已統計的50%選票中幾乎勢均力敵。"
-    },
-    {
-      "id": "5200666",
-      "time": "2026-11-07 16:37:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【白宮在爭議聲中公佈擬建“凱旋門”新方案】美國白宮6日公佈總統特朗普計劃修建的巨型“凱旋門”新設計方案，並將其定位為紀念美國軍事歷史的建築。此前一天，美國一名聯邦法官下令暫緩“凱旋門”專案施工。根據白宮推介新網站公佈的方案，這座凱旋門正式名稱擬定為“美國軍事凱旋門”，高約76米，計劃建在林肯紀念堂與阿靈頓國家公墓之間。新版效果圖顯示，建築主體採用灰色花崗岩，配有大量金色裝飾，刻有“美國黃金時代”等金色字樣。建築頂部有三座鍍金雕像，其中一座女子雕像手持火炬。"
-    },
-    {
-      "id": "5200665",
-      "time": "2026-11-07 16:35:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：俄羅斯正在向烏克蘭的關鍵基礎設施發射彈道導彈，總共使用了172架無人機和36枚彈道導彈，所有導彈都瞄準了基輔及其周邊地區。能源基礎設施再次成為主要目標。基輔正面臨電力、水和供暖供應的嚴重困難。住宅樓和北方大橋受損。一所幼兒園部分被毀。一座連線羅夫諾和赫梅利尼茨基核電站與基輔及烏克蘭中部地區的變電站被擊中。文尼察、茹托米爾、羅夫諾、哈爾科夫和第聶伯羅地區的變電站也受損。除了基輔外，另外十二個地區遭到襲擊。九人受傷，其中包括一名兒童。"
-    },
-    {
-      "id": "mkt:01a1b526-2418-7ee0-aabe-6639649a2ffc",
-      "time": "2026-11-07 16:35:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Ukrainian President Zelenskiy said substations in Lviv, Kharkiv and Dnipro oblasts were damaged. Apart from Kyiv, 12 other regions were attacked and nine people have been injured."
-    },
-    {
-      "id": "mkt:01a1b525-7972-7ee0-aabe-5fc181bedf45",
-      "time": "2026-11-07 16:34:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Ukrainian President Zelenskiy said ahead of trilateral talks Russia is launching ballistic missiles at Ukraine's critical infrastructure, deploying 172 drones and 36 ballistic missiles, all aimed at Kyiv and surrounding areas; energy infrastructure was again the main target."
     }
   ]
 }
