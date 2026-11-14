@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-14 16:18:23",
+  "updated": "2026-11-14 16:22:25",
   "count": 9833,
   "items": [
+    {
+      "id": "5214396",
+      "time": "2026-11-14 16:19:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰海通聯合發起成立遼寧省數智文化產業投資基金】據國泰海通釋出，11月13日，遼寧省數智文化產業投資基金在瀋陽正式揭牌成立。遼寧省數智文化產業投資基金由遼寧省委宣傳部指導，遼寧出版集團聯合國泰海通共同發起，省創新發展引導母基金和鐵西文旅集團聯合賦能。該基金將著力引領文化產業數智化轉型升級，培育高成長文化企業；錨定文化和科技融合方向，重點佈局人工智慧、新一代資訊科技在文化領域的應用；致力於為遼寧搭建整合文化資源、科技能力與資本力量的聯動平臺，引導優質文化科技專案落地。"
+    },
     {
       "id": "mkt:01a1d921-c601-7bbc-abe0-11ee0c6cce59",
       "time": "2026-11-14 16:17:11",
@@ -89518,14 +89526,6 @@
         "Greater China"
       ],
       "text": "【Four cross-strait mini Three Links routes set annual passenger record】Fujian provincial transport department said at 15:00 on Nov 7, 2026 passenger traffic on four cross-strait mini Three Links routes exceeded 2.03 mln for the year, a record. The routes are Xiamen–Kinmen, Quanzhou–Kinmen, Mawei–Matsu and Huangqi–Matsu. Services run 36 sailings daily; operators maintain a regular coordination mechanism, add sailings during holidays and peak periods and have implemented measures to ease cross-strait travel."
-    },
-    {
-      "id": "5200660",
-      "time": "2026-11-07 16:18:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本政策投資銀行將投資紅鳥基金（RedBird Fund）。"
     }
   ]
 }
