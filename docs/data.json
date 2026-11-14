@@ -1,7 +1,57 @@
 {
-  "updated": "2026-11-14 09:43:58",
-  "count": 9831,
+  "updated": "2026-11-14 09:47:44",
+  "count": 9834,
   "items": [
+    {
+      "id": "5214213",
+      "time": "2026-11-14 09:47:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國土安全部長穆林：美國聯邦航空管理局當時正在向系統安裝軟體補丁。"
+    },
+    {
+      "id": "5214212",
+      "time": "2026-11-14 09:46:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國土安全部長穆林：新裝置導致舊系統過載。"
+    },
+    {
+      "id": "5214211",
+      "time": "2026-11-14 09:45:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：修復結果表明，老舊網路存在問題。"
+    },
+    {
+      "id": "5214210",
+      "time": "2026-11-14 09:44:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：已能夠部署修復措施以減少超載。"
+    },
+    {
+      "id": "5214209",
+      "time": "2026-11-14 09:43:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國土安全部長穆林：未發現任何網路或人工智慧攻擊的證據。"
+    },
+    {
+      "id": "5214208",
+      "time": "2026-11-14 09:43:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國土安全部長：特朗普已宣佈空中交通管制系統進入國家緊急狀態。"
+    },
     {
       "id": "5214207",
       "time": "2026-11-14 09:42:55",
@@ -89414,30 +89464,6 @@
         "國際"
       ],
       "text": "【多架客機遭炸彈威脅 專家：暫未對歐洲航空造成系統性衝擊】歐洲多國客機近日接連收到炸彈威脅。繼11月3日和5日，多個歐洲國家的數十個航班收到炸彈威脅後，6日又有多個歐洲國家的客機遭遇炸彈威脅。目前，所有涉事航班均未發現爆炸物，相關威脅最終被證明為虛假資訊。塞爾維亞航空媒體人沃因諾維奇在接受總檯記者採訪時表示，這些威脅會導致航班延誤、影響機場運營、引發乘客安置及賠償等問題。但目前來看，這些事件尚未對歐洲航空運輸體系造成系統性衝擊。（央視新聞）"
-    },
-    {
-      "id": "5200481",
-      "time": "2026-11-07 09:47:14",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【稅款滯納金上不封頂或將成歷史】近日，十四屆全國人大常委會第二十五次會議對《中華人民共和國稅收徵收管理法（修訂草案）》（下稱《稅收徵管法草案》）進行了審議，並向公眾公佈該草案全文徵求意見。《稅收徵管法草案》一大變化體現在稅款滯納金上。根據現行的稅收徵管法，納稅人未按照規定期限繳納稅款的，扣繳義務人未按照規定期限解繳稅款的，稅務機關除責令限期繳納外，從滯納稅款之日起，按日加收滯納稅款萬分之五的滯納金。而上述《稅收徵管法草案》則在這一表述之上，新增了“稅款滯納金不得超出稅款本數的二倍。”這意味著稅款滯納金有了上限，“上不封頂”有望成為歷史。（第一財經）"
-    },
-    {
-      "id": "mkt:01a1b3af-d1d9-7ee0-aabd-07e739bbd3e4",
-      "time": "2026-11-07 09:46:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SASAC deputy director Li Zhen: central SOEs have used over $120 billion in foreign investment as of end-September】Li Zhen, deputy director of the State-owned Assets Supervision and Administration Commission (SASAC), said central state-owned enterprises operate in more than 180 countries and regions with over 17,000 overseas units and projects and hold nearly 10 trillion yuan in offshore assets. In the first three quarters they imported from 177 countries/regions, with import value up 5.1% YoY. As of end-September central SOEs had 301 joint ventures/cooperation projects across 39 countries, with cumulative utilized foreign investment exceeding $120 billion."
-    },
-    {
-      "id": "5200480",
-      "time": "2026-11-07 09:45:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【下半年最強冷空氣來襲 多地氣溫將創新低】今天（11月7日），大範圍降水將影響我國，北方部分地區強降雪具有極端性，長江中下游地區有較強降雨，需防範雨雪天氣對交通出行等方面的不利影響。明天，我國降水有所減少、減弱。氣溫方面，未來三天，新一股冷空氣來襲，我國大部氣溫將創新低，多地體感寒涼，需注意添衣保暖。"
     }
   ]
 }
