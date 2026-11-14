@@ -1,7 +1,15 @@
 {
   "date": "2026-11-14",
-  "count": 587,
+  "count": 588,
   "items": [
+    {
+      "id": "mkt:01a1d7d5-0c4f-7bbc-abde-a754cac6dc0a",
+      "time": "2026-11-14 10:13:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. transportation secretary links nationwide flight groundings to aging systems, seeks $50 billion emergency ATC funding】U.S. Transportation Secretary Sean Duffy said nationwide flight groundings stemmed from a \"telecom failure\" tied to aging network systems and asked Congress for $50 billion in emergency funding to upgrade the air traffic control (ATC) system. Duffy said there was no wholesale communications or radar outage during the ground-stop. Department of Homeland Security Secretary Marlin said the incident was not related to Microsoft's recent service outage and that investigators have found no evidence of a cyberattack or AI interference, warning that system age and data overload represent a national security risk; remediation and investigations are ongoing."
+    },
     {
       "id": "5214240",
       "time": "2026-11-14 10:08:59",

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-14 10:10:19",
-  "count": 9831,
+  "updated": "2026-11-14 10:14:06",
+  "count": 9825,
   "items": [
+    {
+      "id": "mkt:01a1d7d5-0c4f-7bbc-abde-a754cac6dc0a",
+      "time": "2026-11-14 10:13:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. transportation secretary links nationwide flight groundings to aging systems, seeks $50 billion emergency ATC funding】U.S. Transportation Secretary Sean Duffy said nationwide flight groundings stemmed from a \"telecom failure\" tied to aging network systems and asked Congress for $50 billion in emergency funding to upgrade the air traffic control (ATC) system. Duffy said there was no wholesale communications or radar outage during the ground-stop. Department of Homeland Security Secretary Marlin said the incident was not related to Microsoft's recent service outage and that investigators have found no evidence of a cyberattack or AI interference, warning that system age and data overload represent a national security risk; remediation and investigations are ongoing."
+    },
     {
       "id": "5214240",
       "time": "2026-11-14 10:08:59",
@@ -89367,69 +89375,6 @@
         "其他"
       ],
       "text": "【北京：支援超節點伺服器、AI終端、超級智慧體、量子計算雲平臺、下一代行動通訊等新技術新產品】北京經濟技術開發區管理委員會印發《北京經濟技術開發區關於加快建設開源開放信創產業高地的若干措施》的通知。其中提到， 鼓勵軟硬體上下游企業開展生態結盟、聯合適配攻關，打造標杆應用場景。充分發揮應用牽引作用，支援企業聯合使用者單位開展整合創新，“串珠成鏈”形成一體化解決方案，推動產品及服務向複雜、關鍵業務場景拓展。支援超節點伺服器、AI終端、超級智慧體、量子計算雲平臺、下一代行動通訊等新技術新產品，開展首試首用、中試驗證服務。根據技術創新性、場景示範性、應用推廣性、生態協同情況等，給予最高3000萬元支援。"
-    },
-    {
-      "id": "5200514",
-      "time": "2026-11-07 10:13:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：支援企業面向基礎硬體、基礎軟體、工業軟體、網路安全等領域開展自主攻關】北京經濟技術開發區管理委員會印發《北京經濟技術開發區關於加快建設開源開放信創產業高地的若干措施》的通知。其中提到， 支援企業面向基礎硬體、基礎軟體、工業軟體、網路安全等領域開展自主攻關；聚焦通用人工智慧“極基礎+極應用”，支援企業在演算法理論、軟體框架、智算晶片、新型算力叢集，以及軟體智慧、工業智慧、資料智慧、具身智慧等方向創新突破；加快佈局量子計算、6G、腦機介面、光電子等顛覆性前沿科技領域。對在相關領域承擔重大科技攻關任務的企業，給予最高1:1的資金配套支援，每個專案年度支援金額最高3000萬元。"
-    },
-    {
-      "id": "5200513",
-      "time": "2026-11-07 10:13:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：實施雁陣領航行動，打造產業叢集戰略高地】北京經濟技術開發區管理委員會印發《北京經濟技術開發區關於加快建設開源開放信創產業高地的若干措施》的通知。其中提到， 實施“雁陣計劃”，持續推動資訊科技產業強鏈補鏈、聚鏈成群。聚焦人工智慧、6G、量子資訊等前沿領域，加快打造創新引領、聯動高效的資訊科技產業叢集，構建梯度銜接、大中小企業協同的“雁陣”式發展格局。支援企業提升創新創造能力，加大研發力度，圍繞關鍵技術佈局研發計劃，助力產業鏈強鏈升級。綜合考量技術創新力、產業帶動力、市場競爭力、人才隊伍建設等實際成效，按照研發專案總額不超過50%給予支援。"
-    },
-    {
-      "id": "5200512",
-      "time": "2026-11-07 10:13:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：美軍對格什姆島實施了打擊。"
-    },
-    {
-      "id": "5200511",
-      "time": "2026-11-07 10:12:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍對伊朗發動新的定點打擊。"
-    },
-    {
-      "id": "mkt:01a1b3c7-44e7-7ee0-aabd-3d42e1c6b54f",
-      "time": "2026-11-07 10:12:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【State Administration of Foreign Exchange: China's FX reserves US$3.405 trillion at end-Oct 2026】China's foreign exchange reserves stood at US$3.405 trillion at the end of October 2026, up US$4.9 billion (0.14%) from end‑September, the State Administration of Foreign Exchange said. SAFE said a stronger US dollar and mixed global asset returns in October meant exchange‑rate translation and asset‑price movements increased reserve levels; broadly stable domestic economic activity supported overall reserve stability."
-    },
-    {
-      "id": "5200509",
-      "time": "2026-11-07 10:11:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四川新增80家國家級專精特新“小巨人”企業總量超600家】記者近日從省經濟和資訊化廳獲悉，全國第八批國家級專精特新“小巨人”企業名單公佈，四川80家企業入選。目前，全省有效期內專精特新“小巨人”企業總量達604家。 本批新認定的專精特新“小巨人”企業主要分佈在電子資訊、新型材料、生物醫藥等重點產業，深耕積體電路配套、航空航天零部件、創新藥等細分領域，為四川省產業鏈補短板、鍛長板、填空白提供了有力支撐。比如，成都辰顯光電有限公司依託自研核心技術，率先點亮中國大陸首條TFT基Micro-LED量產線並實現量產出貨，構建起多元產品矩陣，先後推出多個“全球首款”。成都越凡創新科技有限公司深耕機器人末端配送，機器人產品累計服務消費者超6500萬人次，社群末端配送領域市場佔有率全國第一。（四川日報）"
-    },
-    {
-      "id": "5200508",
-      "time": "2026-11-07 10:11:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第43次南極考察起航 我國將迎新的南極科考站】由自然資源部組織的中國第43次南極考察隊今天（7日）從海南三亞出征，奔赴南極。記者瞭解到，此次考察，不僅將全面完成我國第五座南極考察站——秦嶺站現場建設收尾和驗收工作，還會推進瑪麗·伯德地考察站擬選配套設施踏勘測繪，併為長城站和中山站升級改造做好前期準備，加快推進極地安全保障能力現代化建設。（央視新聞）"
     }
   ]
 }
