@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-14 22:40:38",
-  "count": 9803,
+  "updated": "2026-11-14 22:45:03",
+  "count": 9804,
   "items": [
+    {
+      "id": "5214520",
+      "time": "2026-11-14 22:43:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克談黃仁勳：沒有黃仁勳，至少部分關鍵交易將會流失。"
+    },
+    {
+      "id": "5214519",
+      "time": "2026-11-14 22:43:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：黃仁勳在英偉達對供應鏈的管理非常出色，但其中許多交易只是與黃仁勳握手達成的，並沒有書面合同。"
+    },
     {
       "id": "5214518",
       "time": "2026-11-14 22:39:42",
@@ -89278,14 +89294,6 @@
         "Europe & UK"
       ],
       "text": "President Zelenskiy said additional personnel in the Security Service of Ukraine’s (SBU) security department will be dismissed after a corruption scandal came to light."
-    },
-    {
-      "id": "5200821",
-      "time": "2026-11-07 22:44:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遼寧釋出暴雪預警多趟列車停運】受降雪影響，11月8日，遼寧葫蘆島北站有多趟列車臨時停運。停運車次包括G1797次、D8071次、D8072次、D8087次、D8088次、G1798次等。據瞭解，隨著天氣情況變化，停運車次情況還將有變動。（央廣網）"
     }
   ]
 }
