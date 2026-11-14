@@ -1,7 +1,20 @@
 {
   "date": "2026-11-15",
-  "count": 114,
+  "count": 115,
   "items": [
+    {
+      "id": "mkt:01a1dba1-3180-7bbc-abe3-320ff5b4718a",
+      "time": "2026-11-15 03:55:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Qatar's UCC in talks to acquire two Venezuelan onshore oilfields】Qatar-based UCC Oil and Gas Holding is negotiating to take over two onshore oil and gas fields in Venezuela, targeting the El Furrial and Jusepin fields in northern Monagas state. Monagas is a major Venezuelan oil-producing region; Shell and other firms have already agreed to develop projects there this year. If completed, an El Furrial deal would give UCC access to one of PDVSA’s most valuable conventional oil assets. Foreign reports say the talks reflect UCC’s push to expand in Venezuela and note that the Trump administration in January removed Maduro and has since cooperated with his successor, Rodriguez."
+    },
     {
       "id": "5214692",
       "time": "2026-11-15 03:38:16",
