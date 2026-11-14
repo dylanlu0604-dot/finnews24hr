@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-15 04:42:49",
-  "count": 9842,
+  "updated": "2026-11-15 04:46:37",
+  "count": 9841,
   "items": [
+    {
+      "id": "5214705",
+      "time": "2026-11-15 04:42:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達暗盤跌超1%，現報158.8309美元。"
+    },
     {
       "id": "5214704",
       "time": "2026-11-15 04:41:59",
@@ -89573,22 +89582,6 @@
         "Brent"
       ],
       "text": "【US forces disable merchant ship in Gulf of Oman, CENTCOM says】CENTCOM said on Nov. 7 local time US forces intercepted and disabled a merchant vessel in the Gulf of Oman that had previously called at Iranian ports after its crew repeatedly ignored warnings and attempted to breach a maritime blockade against Iran. A US aircraft fired precision-guided munitions at the ship's stern, rendering it unable to navigate; CENTCOM said crew were ordered to evacuate the targeted area beforehand. The vessel, identified as Huda, was flagged to St Kitts and Nevis."
-    },
-    {
-      "id": "5201116",
-      "time": "2026-11-08 04:46:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭警方：槍擊案其中一名受害者是英國公民。"
-    },
-    {
-      "id": "5201113",
-      "time": "2026-11-08 04:44:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "達納·懷特：開啟新篇章。"
     }
   ]
 }
