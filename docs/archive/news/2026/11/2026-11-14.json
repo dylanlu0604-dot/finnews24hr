@@ -1,7 +1,1507 @@
 {
   "date": "2026-11-14",
-  "count": 595,
+  "count": 763,
   "items": [
+    {
+      "id": "5214383",
+      "time": "2026-11-14 15:37:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度靛藍航空：此前影響我們電子郵件支援服務的全球性微軟服務中斷問題已得到徹底解決。"
+    },
+    {
+      "id": "mkt:01a1d8fb-6655-7bbc-abe0-01431d996f45",
+      "time": "2026-11-14 15:35:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "【Microsoft says consumer product services fully restored; Microsoft 365 enterprise services showing signs of sustained recovery】Microsoft said on Nov. 13 local time its consumer product services have been fully restored, and Microsoft 365 enterprise services are showing signs of sustained recovery."
+    },
+    {
+      "id": "5214380",
+      "time": "2026-11-14 15:29:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微軟稱消費產品服務已完全恢復】微軟當地時間11月13日表示，其消費產品服務已完全恢復，Microsoft 365企業服務則出現持續復甦跡象。該公司稱，在考慮解決企業服務問題之前，正“監控此次事件期間積壓的電子郵件”。微軟在其服務狀態頁面更新中通報：“由於這一事件造成的影響非常嚴重，我們正在長時間進行監控，以確保不需要採取額外緩解措施。”"
+    },
+    {
+      "id": "mkt:01a1d8f5-2197-7bbc-abdf-fb77facc89e5",
+      "time": "2026-11-14 15:28:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said future Starship missions will deliver more than 50 Tbps of Starlink bandwidth to orbit."
+    },
+    {
+      "id": "5214379",
+      "time": "2026-11-14 15:27:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【越南一裝甲車訓練中沉沒致6名軍人死亡】越南國防部14日釋出通報說，該國北寧市12日發生一起裝甲車訓練事故，造成6名軍人死亡。通報說，事故發生於當地時間12日8時25分，越南第12軍第308師第102團的一輛裝甲車在北寧市一射擊場進行戰備訓練期間發生故障並沉沒，造成6名軍人死亡。越南政府總理黎明興13日簽署決定，給這6名軍人頒發“祖國記功”證書。（新華社）"
+    },
+    {
+      "id": "5214378",
+      "time": "2026-11-14 15:26:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼將11月下半月5300大卡等級煤炭基準價定為每公噸100.11美元。"
+    },
+    {
+      "id": "5214377",
+      "time": "2026-11-14 15:26:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼能源部：印尼將11月下半月4100大卡級煤炭基準價格定為每公噸72.65美元。"
+    },
+    {
+      "id": "mkt:01a1d8f1-8926-7bbc-abdf-f16473f3ab98",
+      "time": "2026-11-14 15:24:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "【Musk says Cybercab $299/month self-driving subscription is too high】Tesla has opened purchase access for select individual buyers to the Cybercab, priced from $29,990, with initial deliveries expected in December and allocations limited to invited customers around Austin, Texas. Buyers must pay a $1,000 non‑refundable deposit and the vehicle must be paired with a $299/month autonomous-driving subscription to operate. Musk said the service will roll out nationwide once it secures regulatory approval but that $299/month is too high and should be aligned with Tesla’s FSD and connectivity fees at roughly $115/month."
+    },
+    {
+      "id": "5214376",
+      "time": "2026-11-14 15:22:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：未來的星艦飛行任務將把超過50太位元/秒的星鏈頻寬送入軌道。"
+    },
+    {
+      "id": "5214375",
+      "time": "2026-11-14 15:21:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟確認服務已全面恢復。"
+    },
+    {
+      "id": "5214374",
+      "time": "2026-11-14 15:19:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達回應CEO繼任者傳聞】據英國《金融時報》13日報道，英偉達董事會已就CEO繼任事宜接觸英國晶片設計公司安謀控股（Arm Holdings）執行長雷內·哈斯。英偉達董事會回應稱，尚未“正式接觸”任何候選人，並稱一切有關候選人的猜測“為時尚早”。據悉，雷內·哈斯曾在英偉達工作約七年，升任計算產品業務副總裁兼總經理，是黃仁勳提攜的高管，二人至今仍保持密切關係。2013年，雷內·哈斯加入安謀控股；2022年出任該公司執行長，並於次年主導完成公司在納斯達克的上市。分析師預計，下一任執行長將面臨向更具機構化管理風格轉型的壓力，同時英偉達還需應對美國國會尋求進一步管制晶片出口的政策壓力。（央視財經）"
+    },
+    {
+      "id": "mkt:01a1d8ec-472f-7bbc-abdf-ed69de570fc0",
+      "time": "2026-11-14 15:18:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CHINA'S LI meets Thailand parliament speaker Sopon in Bangkok】In Bangkok, CHINA'S LI met Thailand parliament speaker Sopon and said Beijing is willing to deepen trade ties, accelerate progress on the China–Thailand railway, and encourage Chinese and Thai firms to cooperate in new energy and electronic information sectors and on collaborative innovation to drive industrial upgrading. He urged parliamentary cooperation to support major project construction and practical cooperation, including legal safeguards to facilitate cross‑border projects."
+    },
+    {
+      "id": "5214370",
+      "time": "2026-11-14 15:15:26",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【李強會見泰國國會主席兼下議長索蓬】11月14日上午，國務院總理李強在曼谷會見泰國國會主席兼下議長索蓬，泰國國會副主席兼上議長蒙坤等參加會見。李強表示，這些年，在習近平主席和哇集拉隆功國王戰略引領下，中泰關係持續穩健發展，各領域合作富有成效。去年，中泰隆重慶祝了建交50週年暨友誼金色50年，兩國關係站上新的歷史起點，迎來新的發展契機。面向未來，中方願同泰方一道弘揚傳統友誼，築牢政治互信，推動中泰命運共同體建設不斷走深走實，為雙方人民帶來更多福祉，更好服務兩國現代化建設。李強指出，中方願同泰方深化經貿往來，加快推進中泰鐵路建設，鼓勵兩國企業開展新能源、電子資訊等新興領域合作，加強協同創新，共促產業升級。雙方要深化文化、青年、教育、地方等領域交流合作，增進國民相互瞭解和友誼，厚植友好民意基礎。加強多邊協調配合，維護兩國共同利益和國際公平正義。希望兩國立法機構加強交流合作，支援兩國重大專案建設和務實合作，在提供法治保障、促進民心相通等方面發揮更大作用。索蓬表示，泰中友誼源遠流長。中國共產黨帶領中國人民取得舉世矚目發展成就，泰方深表敬佩。泰方堅定奉行一箇中國政策，願同中方繼續密切高層交往，推進互聯互通、人文教育、執法安全、旅遊等領域交流合作，加強國際協作，攜手應對共同挑戰。泰國會願為兩國務實互利合作提供良好法治環境和保障，更好造福兩國人民。 (新華社)"
+    },
+    {
+      "id": "5214367",
+      "time": "2026-11-14 15:14:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國高官：特斯拉汽車可能有間諜風險】德國圖林根州憲法保衛局局長斯特凡·克雷默警告稱，馬斯克旗下的特斯拉汽車可能構成間諜風險。克雷默警告說：“聯網汽車上的攝像頭和定位追蹤系統會捕捉敏感資訊。”他還建議，公務員和公共僱員不要在聯網車輛內討論機密事項。（中新社）"
+    },
+    {
+      "id": "5214366",
+      "time": "2026-11-14 15:12:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "馬斯克質疑英偉達董事會：“這就是那個負責做出決策的董事會——而它所掌管的，曾是地球上最有價值的公司！？”"
+    },
+    {
+      "id": "5214365",
+      "time": "2026-11-14 15:05:16",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【馬斯克稱Cybercab每月299美元自動駕駛訂閱費太高】特斯拉宣佈開始向部分個人使用者開放Cybercab購買渠道，起售價 29990 美元，首批車輛預計將於12月交付。不過，目前 Cybercab個人購買資格僅向特定受邀客戶開放，首批交付範圍也暫時集中在德克薩斯州奧斯汀地區。使用者還需支付 1000 美元不可退還的訂購定金。此外，車輛必須搭配每月 299 美元的自動駕駛訂閱服務才能執行。馬斯克在X平臺上回應一位使用者釋出的相關帖子時稱：“一旦獲得監管批准，該服務將在全美範圍內推出。不過它的月費太高了，其定價應與特斯拉其他車型上的 FSD（全自動駕駛）及聯網服務費用相當，即每月約 115 美元。”"
+    },
+    {
+      "id": "5214364",
+      "time": "2026-11-14 15:03:17",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【廖岷主持《金融時報》副主編兼首席經濟評論員馬丁·沃爾夫線上專題講座】2026年11月13日下午，國際經濟關係司邀請英國《金融時報》副主編兼首席經濟評論員馬丁·沃爾夫就全球宏觀經濟形勢作線上專題講座。財政部副部長廖岷出席並主持。（財政部）"
+    },
+    {
+      "id": "5214363",
+      "time": "2026-11-14 15:02:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黃仁勳辭職後動向曝光：親友齊聚舊金山豪宅 炸雞外賣送上門】據報道，黃仁勳宣佈辭去英偉達CEO職務後數小時內，親友陸續前往其位於舊金山的住所，現場還有外賣配送人員及搬運紙箱的車輛出入。現場照片顯示，外賣餐點接連送達，由身穿制服的工作人員接收。其中一份來自當地連鎖餐廳Proposition Chicken，包括約夠四人享用的炸雞和薯條。報道稱，當天清晨，一名工作人員抵達住所，隨後一輛沒有明顯標識的白色廂型車到場，車內裝有多個大型紙箱。這輛車停留不到30分鐘便離開，並帶走了另一批紙箱。部分箱子標註的收件地址為加州奧克蘭的一家UPS門店。不過，紙箱內的具體物品及搬運原因，目前尚不清楚。"
+    },
+    {
+      "id": "mkt:01a1d8d5-3a68-7bbc-abdf-e0ee1ebdadc7",
+      "time": "2026-11-14 14:53:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China, U.S. hold first Trade Council meeting under China‑U.S. economic and trade consultations】On Nov. 13, China and the United States held the first Trade Council meeting under the China‑U.S. Economic and Trade Consultations mechanism via videoconference. Officials said they discussed implementing prior negotiation outcomes, focusing on tariffs, reciprocal tariff reductions on 300 billion vs 300 billion, agricultural trade and other mutually held concerns. Both sides reported candid, substantive and constructive exchanges and said the Trade Council will continue to coordinate to resolve trade issues, expand a cooperation list and narrow a problems list to help build a constructive, stable China‑U.S. strategic relationship based on respect, fairness and reciprocity."
+    },
+    {
+      "id": "5214362",
+      "time": "2026-11-14 14:51:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【全美停飛令衝擊體育賽事 多支球隊出行受阻】美國聯邦航空局13日對全美機場釋出暫停航班起飛指令後，本週末迎來多項國內賽事的美國體育界受到嚴重影響。美國男子職業籃球聯賽（NBA）、國家冰球聯盟（NHL）、全國橄欖球聯盟（NFL）的參賽隊伍以及多支大學球隊因為無法及時飛赴賽事地點，或滯留機場，或返回大學等住宿地點以等待進一步通知。（參考訊息）"
+    },
+    {
+      "id": "5214361",
+      "time": "2026-11-14 14:50:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【中美舉行中美經貿磋商機制項下貿易理事會首次會議】11月13日，中美雙方透過視訊會議方式舉行中美經貿磋商機制項下貿易理事會首次會議。雙方以中美元首會晤重要共識為引領，圍繞落實前期中美經貿磋商成果，就關稅、“300億對300億”對等降稅安排、農產品貿易以及各自關心的其他議題進行了坦誠、深入、建設性的交流。雙方將透過貿易理事會繼續加強溝通，推動解決各自經貿關切，不斷拉長合作清單，壓縮問題清單，助力構建基於尊重、公平、對等的中美建設性戰略穩定關係。"
+    },
+    {
+      "id": "mkt:01a1d8d1-ef66-7bbc-abdf-d986e7914958",
+      "time": "2026-11-14 14:49:59",
+      "tags": [
+        "MKT News",
+        "AZN.O",
+        "Impact bullish"
+      ],
+      "text": "【AstraZeneca China: 13 innovative medicines included in new NRDL and commercial insurance innovative drug lists】AstraZeneca China said 13 of its innovative medicines were included in the new version of China’s National Reimbursement Drug List (NRDL) and the commercial insurance innovative drug list, expanding reimbursement and access for oncology, respiratory, immune, renal and rare-disease patients. On the NRDL, two medicines were listed for the first time, five gained new indications, four were renewed and one was reclassified into regular Category B. Separately, one AstraZeneca medicine was newly included in the commercial insurance innovative drug list."
+    },
+    {
+      "id": "5214359",
+      "time": "2026-11-14 14:48:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿斯利康13款創新藥透過新版國家基本醫保藥品及商保創新藥目錄調整】阿斯利康中國今日宣佈，其13款創新藥透過新版國家基本醫保藥品目錄及商保創新藥目錄調整，將惠及更多腫瘤、呼吸、免疫、腎臟及罕見病患者。在新版醫保目錄中，阿斯利康有2款創新藥首次納入、5款創新藥新增適應症納入、4款成功續約、1款轉入常規乙類。此外，阿斯利康還有1款創新藥首次納入新版商保創新藥目錄。調整後的新版目錄將於2027年1月1日起正式實施。"
+    },
+    {
+      "id": "5214358",
+      "time": "2026-11-14 14:45:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一汽解放CA6DV1發動機透過歐六e+法規認證】近日，一汽解放自主正向研發的CA6DV1-E66C重型柴油發動機順利完成全部試驗，成功透過歐盟歐六e+排放法規全套認證。"
+    },
+    {
+      "id": "mkt:01a1d8cc-cc0a-7bbc-abdf-d5304da4cc57",
+      "time": "2026-11-14 14:44:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【US Treasury Secretary Bessent says he moved to military base after Wall Street Journal photo; reports Iran death threats】US Treasury Secretary Bessent told CNBC he relocated from his home to a military base on the instruction of the US Secret Service after the Wall Street Journal published a photo of his residence that contained geolocation information. He said he had asked editors not to publish his home's location, called the decision irresponsible and dangerous, and cited the photo as one reason for the move. Bessent also said Iranian leadership had issued death threats against him, adding that the threats show the economic-isolation measures his team has launched are having an effect."
+    },
+    {
+      "id": "mkt:01a1d8c8-446e-7bbc-abdf-c8f47cc1a550",
+      "time": "2026-11-14 14:39:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "MSFT.O"
+      ],
+      "text": "Microsoft has completed work to resolve the root cause and has restored service for affected customers and regions."
+    },
+    {
+      "id": "5214357",
+      "time": "2026-11-14 14:39:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【TCL科技高階副總裁趙軍：儲存價格飆漲抑制OLED屏終端需求，苦日子要熬但不悲觀】11月12日下午，TCL科技集團高階副總裁、TCL華星執行長趙軍接受媒體採訪時同樣談到上述話題：“記憶體價格的飆漲，讓我們的客戶在定價和銷量之間產生了巨大的糾結，帶來的影響是OLED下游的需求受到較大抑制。”但他同時表示，“苦日子可能還得熬，但我們對未來也不完全悲觀”。（每經）"
+    },
+    {
+      "id": "5214356",
+      "time": "2026-11-14 14:38:05",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "微軟就宕機事件發表宣告：已完成解決事件根本問題的工作，恢復了其餘受影響客戶和地區的服務。"
+    },
+    {
+      "id": "5214354",
+      "time": "2026-11-14 14:30:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超5.7萬人請願黃仁勳復職】“Stand with Jensen”請願活動要求英偉達董事會在獨立調查期間恢復黃仁勳CEO職務，要求公開調查細節與決策依據。目前已獲超5.7萬人簽名，特斯拉CEO馬斯克等行業人士參與。"
+    },
+    {
+      "id": "5214353",
+      "time": "2026-11-14 14:26:18",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【中國社科院副院長、黨組副書記彭金輝當選國經中心理事長】中國社會科學網訊息，11月12日，中國國際經濟交流中心第四屆第一次會員大會暨理事會在京舉行。會議選舉產生第四屆理事會，中國社會科學院副院長、黨組副書記彭金輝當選理事長，中國社會科學院副院長、黨組成員李雪松，中國僑聯黨組成員、副主席高峰，國務院國資委原副部長級幹部郜風濤，中國社會科學院原秘書長、黨組成員趙志敏當選副理事長，中國社會科學院副秘書長、國經中心黨委書記馬援當選秘書長。馬援等43人當選常務理事，於亮等173人當選理事。"
+    },
+    {
+      "id": "5214352",
+      "time": "2026-11-14 14:26:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星艦目前正以約90分鐘一圈的速度環繞地球飛行。"
+    },
+    {
+      "id": "5214351",
+      "time": "2026-11-14 14:23:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家電網與中核集團舉行會談】11月13日，國家電網公司董事長、黨組書記張智剛與中國核工業集團有限公司董事長、黨組書記申彥鋒，總經理、黨組副書記張濤舉行會談。雙方表示，要圍繞“十五五”發展規劃，共同做好電力保供和新能源消納，圍繞新型電力系統構建，共同推動科技創新，深化戰略性新興產業、未來產業及國際業務合作，推動能源電力高質量發展。"
+    },
+    {
+      "id": "5214350",
+      "time": "2026-11-14 14:22:05",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【卓創資訊：黃金短期波動可能繼續加大】卓創資訊分析師黃加奇表示，國內零售端，多家品牌金飾克價已從年內1700元以上的高位降至1200元/克左右，近兩日累計下調約35元/克至40元/克，降幅約3%。疊加雙十一促銷，部分觀望消費者開始入場。但這更多是回撥和促銷帶來的階段性升溫，需求能否持續仍需觀察。 展望後市，黃加奇認為，黃金短期波動可能繼續加大，重點關注美聯儲貨幣政策、美元及實際利率變化，同時關注全球央行購金和投資資金流向。對消費者而言，有婚嫁、禮贈等實際需求，可以結合預算和促銷力度理性購買；但如果出於投資目的，不宜僅因價格回撥就認為市場已經觸底。尤其黃金首飾還包含加工費和品牌溢價，未來變現時未必能夠收回。黃金具有長期配置價值，但並不意味著價格只漲不跌，消費者應避免盲目追漲和集中投入。（21財經）"
+    },
+    {
+      "id": "5214349",
+      "time": "2026-11-14 14:20:49",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【辛巴威電力企業警告發電量將下降】辛巴威電力企業辛巴威電力控股公司（ZESA Holdings）警告，其最大火電廠機組發電量將縮減，直至2027年1月。辛巴威電力控股公司在一份郵件宣告中表示：“7號機組預計於2027年1月4日恢復執行，8號機組計劃於2027年1月26日恢復執行。”辛巴威電力控股公司已出臺多項應對措施，包括：高峰時段提升卡里巴水電站發電量；從南部非洲電力聯盟進口電力，補充本國發電量；從南部非洲電力聯盟進口電力，補充本國發電量；透過太陽能電站，將可再生能源納入全國電力供應。注：萬蓋電站是該國最大電力來源，裝機容量1500兆瓦，但當前僅發電930兆瓦。"
+    },
+    {
+      "id": "5214348",
+      "time": "2026-11-14 14:20:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【博銳生物：與優時比合作的比奇珠單抗注射液進入新版醫保目錄】11月14日，博銳生物宣佈，其與優時比合作的比奇珠單抗注射液（商品名：倍捷樂®）成功納入新版國家醫保目錄。"
+    },
+    {
+      "id": "5214347",
+      "time": "2026-11-14 14:20:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【諾華：2個新產品及3個新適應症成功納入新版醫保目錄】11月14日，諾華宣佈，其2個新產品及3個新適應症成功納入新版醫保藥品目錄，1個產品納入商保創新藥目錄。此次納入醫保的藥品涵蓋腎病、血液、腫瘤等多個疾病治療領域，其中包括鹽酸阿麴生坦片。"
+    },
+    {
+      "id": "5214346",
+      "time": "2026-11-14 14:20:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國前駐華大使：中美應積累更多互信 在競爭中保持平衡】11月12日，2026中美政黨對話在北京舉行。出席對話的美方代表團團長、美國前駐華大使博卡斯在接受中國日報採訪時表示，中國在促進地區穩定發展、開展人工智慧領域合作等方面發揮積極作用。中國的五年規劃富有遠見，有助於推動國家發展，值得美國借鑑。博卡斯強調，中美應積累更多互信，在競爭中保持平衡，打造更多合作成果。（中國日報）"
+    },
+    {
+      "id": "mkt:01a1d8b6-d38d-7bbc-abdf-c4b2f6a0ff5e",
+      "time": "2026-11-14 14:20:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Turkey, Qatar sign joint defense agreement】Turkey's presidency said on Nov. 13 that Turkey and Qatar signed a joint defense agreement after President Erdogan met visiting Qatari Emir Tamim in Istanbul. The presidency did not disclose details of the pact. Erdogan said the countries will continue efforts to prevent a new war in the Gulf region. The two also signed four additional agreements covering trade, education, consumer protection and diplomatic cooperation."
+    },
+    {
+      "id": "5214345",
+      "time": "2026-11-14 14:14:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【土耳其與卡達簽署共同防禦協議】土耳其總統府11月13日發表宣告說，土耳其與卡達當天簽署共同防禦協議。宣告說，土耳其總統埃爾多安在伊斯坦布林會見來訪的卡達埃米爾塔米姆，雙方簽署共同防禦協議。宣告未披露協議具體內容。埃爾多安表示，雙方將繼續共同努力，防止海灣地區再次爆發戰爭。除共同防禦協議外，雙方還簽署貿易、教育、消費者保護和外交合作等領域的四項協議。 （CCTV國際時訊）"
+    },
+    {
+      "id": "5214344",
+      "time": "2026-11-14 14:13:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【眼底病用藥法瑞西單抗每眼累計支付擴至14支】羅氏研發的全球首個眼科雙通路創新藥物法瑞西單抗注射液（商品名：羅視佳®）成功續約。法瑞西單抗注射液醫保支付支數由“每眼累計最多9支”調整為“每眼累計最多14支”。這是抗VEGF類眼科藥物九年以來累計報銷支數的首次最佳化調整，調整後的支付額度可支援患者完成至少三年的規範治療。"
+    },
+    {
+      "id": "5214343",
+      "time": "2026-11-14 14:13:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球首個IgA腎病靶向生物製劑斯貝利單抗納入醫保】大冢製藥全球首個IgA腎病靶向生物製劑斯貝利單抗注射液（商品名：伊再可®）被納入2026年國家醫保藥品目錄，用於降低存在疾病進展風險的原發性免疫球蛋白A腎病（IgAN）成人患者的蛋白尿。"
+    },
+    {
+      "id": "5214342",
+      "time": "2026-11-14 14:11:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：印度銀河表面活性劑公司與LG電子簽署綠色清潔諒解備忘錄。"
+    },
+    {
+      "id": "5214341",
+      "time": "2026-11-14 14:07:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱霍爾木茲海峽以東一艘違規油輪觸雷起火】伊朗軍隊海軍當地時間14日釋出訊息稱，當天清晨，一艘油輪在霍爾木茲海峽以東觸碰水雷並起火。伊朗方面表示，該油輪此前曾無視警告，在關閉追蹤與識別系統的情況下，擅自航行至霍爾木茲海峽以東的一處不安全禁區。隨後，該油輪觸碰水雷，起火後被迫停航。（央視新聞）"
+    },
+    {
+      "id": "5214339",
+      "time": "2026-11-14 14:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“愛達·花城號”開啟第二個試運營航次】今天（14日），第二艘國產大型郵輪“愛達·花城號”從廣州南沙國際郵輪母港出發，開啟第二個試運營航次。按計劃，“愛達·花城號”將於11月15日抵達香港，並於11月16日返回廣州南沙國際郵輪母港，該航次將重點針對區域航線運營及訪港流程進行測試。（央視新聞）"
+    },
+    {
+      "id": "5214338",
+      "time": "2026-11-14 13:58:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤跌破6.2美元，日內跌幅1.9%。"
+    },
+    {
+      "id": "5214337",
+      "time": "2026-11-14 13:56:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤跌破3.7美元，日內跌幅2.3%。"
+    },
+    {
+      "id": "5214333",
+      "time": "2026-11-14 13:53:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美財長承認移居軍事基地，斥責《華爾街日報》洩露住址資訊】據美國消費者新聞與商業頻道（CNBC）13日報道，美國財政部長貝森特當天在接受該媒體採訪時承認自己已從住所搬至一處軍事基地，並稱搬家的原因之一是美國《華爾街日報》刊登了一張其住所照片，上面包含地理位置資訊。貝森特稱，他“遵照（美國）特勤局的指示，從家搬到了一處軍事基地”。“我不得不搬家的原因之一是《華爾街日報》在我買房當天刊登了一張能夠定位我的住所地理位置的照片。我們曾懇求編輯不要刊登我房子的位置，但她還是這麼做了。（這種行為）極其不負責任，而且非常危險。這種事情必須停止。”貝森特說。據報道，貝森特還稱伊朗領導層曾對他“發出死亡威脅”，“這意味著我們發起的‘經濟孤立’行動正在生效”。（環球網）"
+    },
+    {
+      "id": "5214332",
+      "time": "2026-11-14 13:51:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【強生：安力威及兆珂速新適應症納入2026年國家醫保目錄】11月14日，強生創新制藥宣佈，旗下兩款創新治療方案成功納入2026年國家醫保目錄，其中安力威（尼卡利單抗注射液）為首次納入、兆珂速（達雷妥尤單抗注射液，皮下注射）新增一項適應症納入，覆蓋全身型重症肌無力、多發性骨髓瘤等重大疾病領域。"
+    },
+    {
+      "id": "5214331",
+      "time": "2026-11-14 13:50:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗表示，在“非常時期”不會恢復核安全保障措施。"
+    },
+    {
+      "id": "mkt:01a1d899-c20f-7bbc-abdf-bf605f6abff6",
+      "time": "2026-11-14 13:48:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian prime minister Carney said a bilateral agreement with the US is possible but has not yet been reached."
+    },
+    {
+      "id": "mkt:01a1d899-a041-7bbc-abdf-b6388d7dd7de",
+      "time": "2026-11-14 13:48:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian prime minister Carney said he held a lengthy, substantive meeting with Trump ahead of his trip to Manila."
+    },
+    {
+      "id": "mkt:01a1d899-5034-7bbc-abdf-a867c675896f",
+      "time": "2026-11-14 13:48:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【Quad leaders expected to meet Tuesday in Manila; critical minerals and shipping security likely on agenda】US, Japan, Australia and India leaders are expected to hold a leaders’ meeting on Tuesday in Manila during a major Asian summit — the first Quad leaders’ summit in two years. Sources said critical mineral supply will likely be on the agenda; leaders may discuss ensuring free commercial shipping to safeguard global energy supplies and are likely to raise recent attacks on merchant vessels. A Philippine government source said Trump is expected to arrive Tuesday, the final day of the ASEAN summit, and the Quad leaders are expected to meet shortly after his arrival."
+    },
+    {
+      "id": "5214330",
+      "time": "2026-11-14 13:46:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡尼：在馬尼拉之行前與特朗普進行了長時間的實質性會談。"
+    },
+    {
+      "id": "mkt:01a1d894-de64-7bbc-abdf-a15fcc5633e4",
+      "time": "2026-11-14 13:43:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Carney said Canada will never withdraw from NATO."
+    },
+    {
+      "id": "mkt:01a1d894-296a-7bbc-abdf-9c0154db1c37",
+      "time": "2026-11-14 13:42:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said the security architecture of a free Europe should be determined by free Europe and NATO, not by Russia."
+    },
+    {
+      "id": "5214329",
+      "time": "2026-11-14 13:41:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡尼：自由歐洲的安全架構將由自由歐洲和北約決定。"
+    },
+    {
+      "id": "5214328",
+      "time": "2026-11-14 13:41:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡尼：加拿大絕不會退出北約。"
+    },
+    {
+      "id": "5214327",
+      "time": "2026-11-14 13:39:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京15日正式供暖】11月15日，北京地區將正式供暖。隨著供暖季的臨近，國網北京市電力公司全力落實度冬供電保障重點舉措。國網北京電力排程控制中心預測，今冬北京電網最大負荷可達2900萬千瓦，預計較冬季歷史最大負荷增長約8.29%。（北京日報）"
+    },
+    {
+      "id": "mkt:01a1d890-ee9f-7bbc-abdf-92970b08357b",
+      "time": "2026-11-14 13:38:59",
+      "tags": [
+        "MKT News",
+        "CADUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Prime Minister Carney said Canada will not accept a U.S. trade deal that is not feasible for the Canadian auto industry."
+    },
+    {
+      "id": "mkt:01a1d890-7c1e-7bbc-abdf-8b33bb8e1015",
+      "time": "2026-11-14 13:38:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say leaders of the US, Japan, Australia and India will meet on Tuesday in Manila on the sidelines of the ASEAN summit."
+    },
+    {
+      "id": "5214326",
+      "time": "2026-11-14 13:36:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡尼：加拿大不會接受與美國達成的不符合加拿大汽車行業生存發展的貿易協議。"
+    },
+    {
+      "id": "5214325",
+      "time": "2026-11-14 13:30:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天廣實生物：CD20單抗倍捷欣®雙適應症納入新版醫保目錄】11月14日，天廣實生物宣佈，其自主研發的創新生物製劑倍捷欣®（奧妥珠單抗β）雙適應症成功納入新版醫保目錄。今年2月，倍捷欣®獲批用於治療抗水通道蛋白4（AQP4）抗體陽性的視神經脊髓炎譜系疾病，同年6月又獲批用於中高風險的原發性膜性腎病（pMN）成人患者，成為全球首個獲批pMN適應症的藥物。"
+    },
+    {
+      "id": "mkt:01a1d888-97d4-7bbc-abdf-832963e5e14b",
+      "time": "2026-11-14 13:29:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "1211.HK"
+      ],
+      "text": "【BYD denies reports it will buy Huawei Digital Energy, calls claims false】BYD’s online reporting center said today that circulating reports China’s Huawei Digital Energy would be sold to BYD are baseless and false, and urged users not to believe or repost them. BYD said it reserves the right to pursue legal liability against parties that fabricate or spread false information. The earlier rumor said inverter leader Huawei Digital Energy was again advancing a sale, with BYD among potential buyers and a full divestment to be completed by end‑December."
+    },
+    {
+      "id": "5214324",
+      "time": "2026-11-14 13:27:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【默沙東：兩款罕見病創新藥納入2026國家醫保藥品目錄】11月14日，默沙東宣佈，其全球首個且目前唯一針對肺動脈高壓（PAH）潛在病理生理機制的啟用素訊號傳導抑制劑欣瑞來®（注射用索特西普），以及全球首個且目前唯一缺氧誘導因子2α（HIF-2α）抑制劑維利瑞®（貝組替凡片），正式納入《國家基本醫療保險、生育保險和工傷保險藥品目錄（2026年）》。"
+    },
+    {
+      "id": "5214323",
+      "time": "2026-11-14 13:24:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東陽光藥奧洛格列淨納入2026醫保目錄】11月14日，國家醫保局公佈2026年國家醫保藥品目錄，東陽光藥自主研發的1類創新降糖藥奧洛格列淨膠囊納入2026年國家醫保藥品目錄，該藥可單藥治療或聯合二甲雙胍，改善成人2型糖尿病患者的血糖控制。"
+    },
+    {
+      "id": "5214322",
+      "time": "2026-11-14 13:22:39",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【華為數字能源將出售給比亞迪？比亞迪宣告：無任何事實依據，屬於虛假資訊】比亞迪網路舉報中心今日釋出宣告稱，針對網路流傳“某數字能源出售給比亞迪”相關資訊，經核實：該訊息無任何事實依據，屬於虛假資訊，請廣大網友切勿輕信、轉發。“網路不是法外之地，對於編造、傳播虛假資訊擾亂網路秩序的行為，我們將保留追究相關主體法律責任的權利。”此前有傳言稱，逆變器龍頭華為數字能源再度推進出售計劃，接盤方之一是比亞迪，12月底之前完成徹底切割。"
+    },
+    {
+      "id": "5214321",
+      "time": "2026-11-14 13:22:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面稱，一艘油輪週六凌晨在霍爾木茲海峽以東觸雷。"
+    },
+    {
+      "id": "5214320",
+      "time": "2026-11-14 13:22:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普下週訪問亞洲 被曝會帶馬斯克 迴避提及英偉達、黃仁勳】據美聯社報道，美國總統特朗普計劃下週訪問亞洲時帶上馬斯克。匿名政府官員透露，作為SpaceX和特斯拉的掌門人，馬斯克在經濟和國家安全方面擁有重要利益，這使他成為特朗普的寶貴顧問。 官員還透露，特朗普並不打算提及黃仁勳相關事件，美國政府認為英偉達事件不會對此次訪問產生任何影響。 特朗普將於下週二抵達菲律賓，與東盟各國領導人會晤。在馬尼拉期間，他計劃與泰國簽署貿易協議，並與由美國、印度、澳大利亞和日本組成的“四方安全對話”（Quad）組織舉行會晤。（中新社）"
+    },
+    {
+      "id": "5214319",
+      "time": "2026-11-14 13:21:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：預計未來十年（和菲律賓）兩國間的貿易額將增長兩倍。"
+    },
+    {
+      "id": "5214318",
+      "time": "2026-11-14 13:20:22",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【首個國產原研Bcl-2抑制劑納入2026年國家醫保目錄】今日，國家醫療保障局、人力資源社會保障部發布《國家基本醫療保險、生育保險和工傷保險藥品目錄》（2026年）。其中，首個國產原創Bcl-2抑制劑利沙托克拉首次納入醫保目錄，用於既往經過至少包含布魯頓酪氨酸激酶（BTK）抑制劑在內的一種系統治療的成人慢性淋巴細胞白血病（CLL）/小淋巴細胞淋巴瘤（SLL）患者。這一藥物由亞盛醫藥研發，團隊持續深耕Bcl-2靶點30年，實現了國產原創藥物在這一高難度靶點從0到1的突破。此外，亞盛醫藥旗下的奧雷巴替尼透過重新談判成功續約國家醫保藥品目錄。這是中國首個獲批上市的第三代BCR-ABL抑制劑，打破了國內慢性髓細胞白血病（CML）治療領域的耐藥困局。"
+    },
+    {
+      "id": "5214317",
+      "time": "2026-11-14 13:19:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【英國央行首席經濟學家：小幅漸進加息的空間已經縮小】英國央行首席經濟學家皮爾說道：“進入明年，我們會逐步看到相關訊號，結果存在兩種可能性，我們拭目以待。就我個人傾向而言，我擔心第二輪效應會放大通脹壓力。” 他認為，英國央行本應在本月更早的時候加息，面對巨大不確定性，央行需要“提前站穩更有利的政策位置”。 皮爾說：“在我看來，我們等待得太久了。”他強調，即便英國接連遭遇供給衝擊屬於不利外部環境，央行仍必須達成官方通脹目標。 他表示，加息時機滯後，“小幅漸進加息的空間已經縮小”。 皮爾透露，他的現任任期將於2027年9月到期，屆時不會謀求第三個英國央行首席經濟學家任期。 他說：“我認為引入新面孔符合所有人的利益，新想法是好事。”"
+    },
+    {
+      "id": "mkt:01a1d87b-39cf-7bbc-abdf-780e9b2b9cd0",
+      "time": "2026-11-14 13:15:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Bank of England's chief economist said they will not seek a third term after their current term ends in September 2027."
+    },
+    {
+      "id": "mkt:01a1d87a-d4f3-7bbc-abdf-775d8f7f8adc",
+      "time": "2026-11-14 13:14:50",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England chief economist said the central bank should have raised rates before this month."
+    },
+    {
+      "id": "mkt:01a1d87a-afeb-7bbc-abdf-697e0c8aa722",
+      "time": "2026-11-14 13:14:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England's chief economist said delaying increases in borrowing costs would weaken the ability to deliver modest rate hikes."
+    },
+    {
+      "id": "mkt:01a1d87a-6391-7bbc-abdf-67a4c2df652d",
+      "time": "2026-11-14 13:14:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "【Bank of England chief economist Pill: further hikes may be needed beyond December; 2027 around 5% pricing not unreasonable】Bank of England chief economist Pill warned further rate rises may be needed beyond a likely December increase. He said last week’s 25bp move to 4% was an important step but ‘more to do,’ citing the risk that high energy costs could trigger second‑round effects into wages and corporate pricing. Pill expects evidence next year that could prompt additional tightening, reaffirmed the BOE will act to return inflation to its 2% target, and said market pricing of Bank Rate near 5% in 2027 is not unreasonable—the risks he sees support some of the priced‑in hikes but he would not confirm they justify the full market-implied path."
+    },
+    {
+      "id": "5214316",
+      "time": "2026-11-14 13:12:31",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行首席經濟學家皮爾：由於加息延遲，“小幅加息的餘地已經減小”。"
+    },
+    {
+      "id": "mkt:01a1d876-fa29-7bbc-abdf-5fb386ae08c8",
+      "time": "2026-11-14 13:10:38",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England chief economist says the central bank will take necessary measures to ensure inflation returns to 2% over time."
+    },
+    {
+      "id": "mkt:01a1d876-d50f-7bbc-abdf-502095fd6a33",
+      "time": "2026-11-14 13:10:28",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England chief economist said he is concerned inflation may be amplified through second‑round effects."
+    },
+    {
+      "id": "5214315",
+      "time": "2026-11-14 13:10:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、特朗普稱，應沙特、卡達、科威特、阿聯酋、巴林等中東盟友請求，他暫緩對伊朗採取行動，他原本可以立刻結束伊朗戰事。\n2、特朗普13日接受採訪時表示，美國空管系統故障並非網路攻擊或人工智慧導致，根源是老舊破損的基礎設施，相關排查未發現網路攻擊跡象。\n3、市場訊息：特朗普將於週二在馬尼拉出席四方安全對話領導人會議。\n4、白宮發言人表示，特朗普將在四方安全對話領導人會議結束後，與泰國簽署貿易協議。\n5、特朗普正聯合兩黨議員推進《電影、電視和娛樂振興法案》，希望藉助稅收優惠將外流的影視產業帶回美國，惠及數十萬藍領工人。"
+    },
+    {
+      "id": "5214314",
+      "time": "2026-11-14 13:09:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伏欣奇拜單抗（金蓓欣®）納入國家醫保目錄】11月14日，國家醫療保障局公佈了納入國家醫保目錄、商保創新藥目錄的新增藥品名單，金賽藥業自主研發的1類創新生物藥伏欣奇拜單抗（金蓓欣®）獲得納入目錄。作為目前唯一納入國家醫保的IL-1β抑制劑，此次醫保落地改寫了痛風治療從過去的“以降尿酸為主”轉向“靶向抗炎為本、輔以降尿酸”的治療邏輯，並提供了“半年一針”的長效抗炎機制。"
+    },
+    {
+      "id": "em:qqyh_ygyh:202611143931323755",
+      "time": "2026-11-14 13:09:19",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "英國央行首席經濟學家皮爾表示，將採取必要措施，使通脹在一段時間內回落至2%；目前預計，除12月17日下次會議的加息外，2027年還需進一步加息。"
+    },
+    {
+      "id": "5214313",
+      "time": "2026-11-14 13:09:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員皮爾：我擔心通脹影響會被第二輪效應放大。"
+    },
+    {
+      "id": "mkt:01a1d875-9095-7bbc-abdf-4b371be187f4",
+      "time": "2026-11-14 13:09:05",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England's chief economist says he currently expects further rate rises in 2027 that would be larger than the increase at the Bank's next meeting on Dec. 17."
+    },
+    {
+      "id": "em:qqyh_mlc:202611143931323910",
+      "time": "2026-11-14 13:08:16",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲重磅報告：“AI熱”正推高資產估值 或對金融系統構成風險】美東時間週五，美聯儲釋出半年度金融穩定報告中稱，美聯儲正密切關注資料中心大規模建設浪潮中的槓桿風險。美聯儲還在報告中警告稱，一旦美國人工智慧行業進入下行週期，相關債務違約規模可能高於當前企業資產負債表所體現的水平。"
+    },
+    {
+      "id": "mkt:01a1d874-9592-7bbc-abdf-470bc867df9e",
+      "time": "2026-11-14 13:08:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England chief economist said the bank will take necessary measures to bring inflation back to 2% for a sustained period."
+    },
+    {
+      "id": "mkt:01a1d874-55ab-7bbc-abdf-3c711cf0456d",
+      "time": "2026-11-14 13:07:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England's chief economist said he expects to see evidence that would prompt further rate hikes."
+    },
+    {
+      "id": "5214312",
+      "time": "2026-11-14 13:07:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員皮爾：我的觀點是，我們將看到促使進一步加息的證據。"
+    },
+    {
+      "id": "5214311",
+      "time": "2026-11-14 13:07:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行首席經濟學家皮爾：我們將採取必要措施，使通脹率隨時間回落至2%。"
+    },
+    {
+      "id": "5214310",
+      "time": "2026-11-14 13:05:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【英國央行首席經濟學家：需進一步加息】英國央行首席經濟學家警告，繼12月加息之後，明年央行大機率還需要進一步加息，這表明部分政策制定者對通脹升溫的態度趨於強硬。 休·皮爾表示，上週加息25個基點至4%，是讓貨幣政策迴歸合理狀態的“重要一步”，但“我們還有更多工作要做”。 他釋放訊號，鑑於存在第二輪效應風險——高能源成本傳導至薪資以及更廣範圍的企業定價，除貨幣政策委員會12月17日下次會議的加息外，他目前預計2027年仍有必要繼續加息。 他發表此番言論之際，儘管受伊朗戰事擾動，英國經濟今年迄今增長勢頭強勁。當前通脹率為3.5%，遠高於央行目標，持鷹派立場的經濟學家擔憂，高企的能源成本會傳導至薪資和其他企業成本。"
+    },
+    {
+      "id": "5214309",
+      "time": "2026-11-14 13:04:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員皮爾表示，他目前預計，除了12月17日的下次會議上加息之外，2027年還需要進一步加息。"
+    },
+    {
+      "id": "mkt:01a1d870-6840-7bbc-abdf-33cc56fb9118",
+      "time": "2026-11-14 13:03:27",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England's chief economist says further rate hikes are needed to tackle inf."
+    },
+    {
+      "id": "5214308",
+      "time": "2026-11-14 13:02:31",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行首席經濟學家皮爾表示，仍需進一步加息。"
+    },
+    {
+      "id": "5214307",
+      "time": "2026-11-14 12:59:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "DDHQ預測喬納森·克賴斯-湯姆金斯贏得阿拉斯加州州長選舉。"
+    },
+    {
+      "id": "5214306",
+      "time": "2026-11-14 12:57:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉：賽博無人駕駛電動車在美國已向受邀客戶開售，可在特斯拉限定的地理圍欄內無人駕駛，自主執行。起售價29990美元，預計2026年12月開啟交付。"
+    },
+    {
+      "id": "mkt:01a1d869-1f02-7bbc-abdf-2dbee989caa6",
+      "time": "2026-11-14 12:55:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【On-site meeting on pilot construction of high-quality datasets and data annotation held in Xiamen】China's National Data Bureau said on Nov. 10 an on-site meeting in Xiamen called for accelerating the build-out of high-quality datasets and the data-annotation industry. It said model firms' demand has shifted from simply having data to having the right, sufficient, high-quality data, and urged a demand-led, scenario-first approach to convert real-world scenario advantages into data advantages, then into model capability and industrial competitiveness. The bureau outlined a methodology — one main line, four stages, one closed loop — with a scenario-driven mainline and four stages: demand definition, data governance, professional annotation and quality evaluation, forming a continuous 'data flywheel'. It also stressed that professional data annotation is key to improving dataset quality."
+    },
+    {
+      "id": "mkt:01a1d868-265b-7bbc-abdf-27efe93366ec",
+      "time": "2026-11-14 12:54:26",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "FITCH reaffirmed Germany's AAA sovereign credit rating and kept the outlook at stable."
+    },
+    {
+      "id": "mkt:01a1d868-17eb-7bbc-abdf-1937c5d17c69",
+      "time": "2026-11-14 12:54:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch affirms the UAE's sovereign credit rating at AA- and maintains a stable outlook."
+    },
+    {
+      "id": "5214305",
+      "time": "2026-11-14 12:52:15",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【高質量資料集和資料標註先行先試現場會在廈門市召開】國家資料局訊息，11月10日下午，高質量資料集和資料標註先行先試建設現場會在廈門市召開。會議強調，國家資料局將深入貫徹落實黨中央、國務院關於人工智慧發展的決策部署，加快推進高質量資料集建設和資料標註產業發展。一是更加註重順應人工智慧發展供給高質量資料。模型企業對資料集的需求已經從“有沒有資料”，轉向“有沒有對的、夠用的、高質量的資料”。要緊密圍繞人工智慧發展趨勢，堅持需求牽引、場景優先，明確人工智慧用數需求，把真實場景優勢變成資料優勢，再轉化為模型能力和產業競爭力。二是更加註重做好高質量資料集建設方法的總結。高質量資料集的建設方法可以概括為“一條主線、四個環節、一個閉環”，即以場景牽引建設為主線，聚焦高質量資料集需求定義、資料治理、專業標註、質量測評四個環節，持續形成“資料飛輪”應用閉環。三是更加註重資料標註對資料集質量提升的支撐作用。資料標註正從通用標註向專家深度參與的知識密集型升級，從簡單標籤向過程標註升級。要持續推動資料標註逐漸從傳統的“以人為主”模式向人機協同、專家深度參與的多層次標註模式轉變。"
+    },
+    {
+      "id": "5214304",
+      "time": "2026-11-14 12:51:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽重申阿聯酋“AA-”信用評級，展望維持穩定。"
+    },
+    {
+      "id": "5214303",
+      "time": "2026-11-14 12:51:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽重申德國“AAA”信用評級；展望保持穩定。"
+    },
+    {
+      "id": "5214302",
+      "time": "2026-11-14 12:45:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蔚來與聯合國開發計劃署續簽生態共建協議】11月13日，蔚來與聯合國開發計劃署（UNDP）在北京簽署CleanParks清朗國家公園生態共建計劃二期合作協議。該專案是車企發起的自然保護地共建平臺，目前已在全球落地19個保護地，覆蓋國內五大國家公園。國家林草局相關代表出席簽約儀式。"
+    },
+    {
+      "id": "5214301",
+      "time": "2026-11-14 12:39:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百濟神州宣佈百悅達®新增納入2026年國家新版基本醫保藥品目錄】百濟神州今日宣佈其自主研發的1類新藥新型BCL2抑制劑百悅達®（索托克拉片）攜兩項適應症首次進入國家醫療保障局釋出的《國家基本醫療保險、生育保險和工傷保險藥品目錄（2026年）》。"
+    },
+    {
+      "id": "5214300",
+      "time": "2026-11-14 12:35:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧夏前十月外貿額超222億元 規模超去年全年】記者14日從銀川海關獲悉，今年前10個月，寧夏外貿總值222.1億元，同比增長27.5%，增速高出全國7.5個百分點，在全國排名第七。目前，寧夏外貿規模已達到2025年全年的105.8%，提前兩個月超越去年全年水平，整體呈現逐季抬升、年末加速向好的走勢。（中新網）"
+    },
+    {
+      "id": "5214299",
+      "time": "2026-11-14 12:35:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川首票進口南非油桃抵達成都】一批重約1556千克的南非油桃搭乘ET636航班13日飛抵成都天府國際機場，經成都海關所屬雙流機場海關監管驗放後順利通關。這是四川首票進口南非油桃。"
+    },
+    {
+      "id": "5214298",
+      "time": "2026-11-14 12:31:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京延慶奧林匹克園區啟動造雪，今年計劃開放13條雪道】隨著天氣轉涼，北京各大雪場陸續啟動造雪作業，迎接雪季到來。北京延慶奧林匹克園區，預計11月中下旬迎來2026雪季開板。北京延慶奧林匹克園區是北京首個啟動2026雪季造雪工作的雪場。延慶奧林匹克園區國家高山滑雪中心場館總經理劉文浩介紹，國家高山滑雪中心今年計劃開13條雪道，雪道總長度是25公里左右，在11月中下旬完成整個雪道的初期造雪工作。據瞭解，今年冬季，延慶奧林匹克園區還將首次舉辦耐力挑戰賽、急速挑戰賽等多項“高山之王”系列衍生賽事，拓展團隊協作類冰雪新專案。"
+    },
+    {
+      "id": "mkt:01a1d847-1955-7bbc-abdf-13efe9b61ba2",
+      "time": "2026-11-14 12:18:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's foreign minister said he discussed with Romania's foreign minister ways to strengthen cooperation on Black Sea security, support regional stability and expand defence-industrial cooperation."
+    },
+    {
+      "id": "5214297",
+      "time": "2026-11-14 12:18:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總辦公室安排部署2026—2027年度凌汛期防凌工作】當前，松花江、黑龍江干流部分江段已經封凍，黃河即將進入2026—2027年度凌汛期。受超強厄爾尼諾事件影響，預計今冬明春氣溫總體偏高，冷暖起伏大，可能發生階段性強寒潮，防凌形勢嚴峻複雜。近日，國家防總辦公室向山西、內蒙古、吉林、黑龍江、山東、河南、寧夏、陝西等省（自治區）防汛抗旱指揮機構和黃河、松花江防汛抗旱總指揮部發出通知，要堅持人民至上、生命至上，樹牢底線思維、極限思維，抓實落細各項防凌措施，確保江河防凌安全。（央視新聞）"
+    },
+    {
+      "id": "5214296",
+      "time": "2026-11-14 12:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安：本週重新開放了87個網路的提現；目標是在下週末前重新開放所有剩餘網路和資產的提現。"
+    },
+    {
+      "id": "5214295",
+      "time": "2026-11-14 12:11:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【微軟否認與全美航班停飛事件有關】當地時間11月13日，美國微軟公司在社交媒體發文稱，沒有跡象表明美國聯邦航空管理局在美全國範圍內釋出的航班停飛令與任何微軟服務有關。美國土安全部長馬林當天也表示，此次全美航班停飛事件與微軟無關。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a1d840-e134-7bbc-abdf-0fafeaf25e4a",
+      "time": "2026-11-14 12:11:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Guotai Haitong's Yu Bo: China's exports likely to remain resilient in 2027】On Nov 14, Guotai Haitong macro chief analyst Yu Bo said China's exports are likely to remain resilient in 2027. He noted historical simultaneous gains in the exchange rate and export market share were driven mainly by improved industrial competitiveness. With product upgrading and stronger risk management, a gradual, modest RMB appreciation is compatible with export resilience; export growth will be more sensitive to global demand, the AI supply-chain cycle and changes in trade barriers."
+    },
+    {
+      "id": "5214294",
+      "time": "2026-11-14 12:10:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國泰海通於博：2027年我國出口有望保持韌性】11月14日，國泰海通宏觀首席分析師於博在接受中國證券報·中證金牛座記者採訪時表示，2027年，我國出口有望保持韌性。歷史上的匯率與市場份額同升，更多源於產業競爭力提高。在產品升級與風險管理共同緩衝下，人民幣漸進、溫和升值與出口韌性保持相容，出口增長或更易受到全球需求、AI產業鏈景氣及貿易壁壘變化等因素的影響。"
+    },
+    {
+      "id": "mkt:01a1d83e-8356-7bbc-abdf-044914fe5bf1",
+      "time": "2026-11-14 12:08:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Canada's foreign minister met Mauritania's foreign minister; Canada is Mauritania's largest foreign investor. They discussed expanding cooperation on critical minerals, regional stability, skills development and investment, and are coordinating to support a successful 2028 Francophonie summit."
+    },
+    {
+      "id": "5214293",
+      "time": "2026-11-14 12:02:57",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【9項量和單位領域國家標準釋出 於2028年1月1日起正式實施】市場監管總局（國家標準委）近日批准釋出數學、空間和時間、原子物理學和核物理學等9項量和單位領域國家標準，將自2028年1月1日起正式實施。這是我國量和單位國家標準自1993年以來規模最大的一次整體修訂。此次釋出的9項量和單位標準等同採用ISO/IEC 80000《量和單位》系列國際標準的相應部分，實現與國際標準整體接軌。修訂將原“空間和時間”與“週期及其有關現象”“原子物理學和核物理學”與“核反應和電離輻射”分別合併；同時全面反映國際單位制量子化變革成果，按基本單位新定義系統給出各領域量的名稱、符號、單位，增補了一批新出現的量和單位。（央視新聞）"
+    },
+    {
+      "id": "5214292",
+      "time": "2026-11-14 12:02:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國10噸級電動商用飛機有人駕駛首飛成功】記者從中國商飛獲悉，11月14日，我國自主研製的10噸級電動商用飛機CE-25A在山東濱州完成首次有人駕駛智慧飛行。據悉，CE-25A是中國商飛研製的第一款電動商用飛機，主要用於城市間商業飛行，可搭載19名乘客，最大起飛重量10噸，巡航速度300公里每小時，巡航高度2400米，航程400公里。（新華社）"
+    },
+    {
+      "id": "mkt:01a1d837-50ac-7bbc-abde-fe6bbde13b3e",
+      "time": "2026-11-14 12:01:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft said services in the previously affected environment have been fully restored following the outage."
+    },
+    {
+      "id": "mkt:01a1d837-468e-7bbc-abde-f24df5b0d662",
+      "time": "2026-11-14 12:01:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Wu Qing calls for deeper research into long-term market-stability mechanisms】The CSRC published Wu Qing's opening remarks at the inaugural China Capital Market Academic Conference, in which he called for further research into long-term market-stability mechanisms. He said China's capital markets are now more tightly linked to global markets and, amid high external uncertainty and imported risks, regulators must deepen study of global market cycles, asset-pricing evolution and risk transmission. He urged stronger cross-border, cross-market and cross-industry risk research and response, and systematic construction of stability mechanisms, capabilities and market ecology to effectively guard against abnormal market volatility."
+    },
+    {
+      "id": "5214291",
+      "time": "2026-11-14 11:59:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟就宕機事件回應：此前受影響環境中的服務已全部恢復。"
+    },
+    {
+      "id": "5214290",
+      "time": "2026-11-14 11:59:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百利天恆：宜澤康®成功納入國家醫保目錄】四川百利天恆藥業股份有限公司宣佈，公司自主研發的全球首創（First-in-class）、新概念（New concept）、全球首個且唯一獲批上市的EGFR×HER3雙抗ADC宜澤康®（倫康依隆妥單抗/iza-bren），透過國家醫保談判，成功納入《2026年國家基本醫療保險、生育保險和工傷保險藥品目錄》。"
+    },
+    {
+      "id": "5214289",
+      "time": "2026-11-14 11:57:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【吳清：進一步深化市場穩定長效機制研究】證監會發布吳清在首屆中國資本市場學術年會開幕式上的致辭。其中指出，進一步深化市場穩定長效機制研究。中國資本市場從未像今天這樣與全球資本市場高度聯動、傳導共振。面對高度不確定的外部環境和輸入性風險，需要我們加強對全球資本市場週期變化、資產定價邏輯演變、風險傳導聯動等規律性認識，進一步強化跨境跨市場跨行業風險的研究應對，系統構建穩的機制、穩的力量、穩的生態，有效防範市場異常波動。"
+    },
+    {
+      "id": "5214288",
+      "time": "2026-11-14 11:56:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【吳清：進一步深化人工智慧與資本市場雙向賦能研究】證監會發布吳清在首屆中國資本市場學術年會開幕式上的致辭。其中指出，進一步深化人工智慧與資本市場雙向賦能研究。不可否認，人工智慧對科學研究、產業創新和生產生活的系統性、深層次影響正在快速發生，但其長遠影響仍需結合技術迭代、場景落地、組織變革和有效治理等持續觀察。資本市場既要積極適應新技術變革，在估值定價、資訊披露等方面加強制度研究，精準支援相關“硬科技”企業發展壯大並有效增進社會福祉；又要深入研究人工智慧對生產力和生產關係重塑在資本市場的傳導對映，加快研究責任認定、資料安全、客戶保護、系統風險，有效防範演算法黑箱、AI網路攻擊、提升金融基礎設施韌性等重點問題，推動人工智慧安全規範應用。"
+    },
+    {
+      "id": "mkt:01a1d833-2ed8-7bbc-abde-ef8d54b5b9c5",
+      "time": "2026-11-14 11:56:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CSRC chair Wu Qing says regulators will study optimizing rules on quant trading and insider share reductions】CSRC chairman Wu Qing, speaking at the 2026 China Capital Market Academic Conference, said regulators will deepen market microstructure research. He urged study of reforms to capital supply to expand long-term and patient capital; improvements to expectation-guidance to reduce herding and short-term trading that amplify volatility; and assessment of optimising rules for quant trading and insider share reductions, plus fair and proportionate regulatory arrangements to protect investors’ legal rights."
+    },
+    {
+      "id": "5214287",
+      "time": "2026-11-14 11:56:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【吳清：進一步深化資本市場參與全球金融治理研究】證監會發布吳清在首屆中國資本市場學術年會開幕式上的致辭。其中指出，進一步深化資本市場參與全球金融治理研究。成熟的資本市場天然具有開放性。在全球金融體系進入重新定義規則的新階段，需要加強對市場開放、規則制定、監管合作等問題的研究，重點關注人工智慧、金融穩定、可持續金融等議題，推動建設協同共治的全球金融治理新生態。同時，也要進一步研究提升跨境投融資便利化問題，為國際投資者提供更多中國優質資產供給。"
+    },
+    {
+      "id": "5214286",
+      "time": "2026-11-14 11:56:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【吳清：堅定走好中國特色金融發展之路】證監會發布吳清在首屆中國資本市場學術年會開幕式上的致辭。其中指出，進一步深化中國資本市場發展特點規律研究。A股市場有2億多股票投資者、8億多基金持有人，這一國情市情在全球獨一無二。這要求我們在市場建設中，既要研究借鑑成熟市場發展的一般規律，更要深入研究中國的市場特點和麵臨的結構性問題，堅持市場化、法治化、國際化改革方向的同時，統籌好穩與進、效率與公平、發展與安全等辯證關係，堅定走好中國特色金融發展之路。"
+    },
+    {
+      "id": "5214285",
+      "time": "2026-11-14 11:55:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【吳清：立足中國資本市場新的發展階段，需要更大力度深化改革擴大開放】證監會發布吳清在首屆中國資本市場學術年會開幕式上的致辭。其中指出，立足中國資本市場新的發展階段，需要更大力度深化改革擴大開放。當前，中國資本市場正邁向實現質的有效提升和量的合理增長的攻堅階段。從國際經驗看，這一過程既蘊含巨大發展潛力，也面臨適應適配能力提升的艱鉅任務。比如對新質生產力發展的制度包容性有待提升，市場結構和投資者結構尚待最佳化，基礎性制度機制還要進一步健全，市場內在穩定性和風險防範能力仍需增強，等等。要破解這些體制機制矛盾，需要始終堅持目標導向、問題導向，深化改革、積極探索，加快形成資本市場高質量發展新格局。"
+    },
+    {
+      "id": "5214284",
+      "time": "2026-11-14 11:54:59",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【吳清：科學把握節奏的同時加強對科技企業發行上市的制度適配性研究】11月14日，證監會主席吳清在參加2026中國資本市場學術年會時表示，進一步深化制度包容性適應性研究。資本市場作為市場化資源配置的重要平臺，要進一步研究深化投融資綜合改革，加快構建適應創新規律、產業規律的直接融資體系，統籌發揮私募市場與公開市場、股票市場與債券市場的協同功能，尤其是要在科學把握節奏的同時，加強對大型和新型科技企業發行上市的制度適配性和風險應對機制研究。同時，要全面準確理解新質生產力發展的科學內涵，深入研究支援新型消費、傳統產業升級等不同領域優質企業上市發展，不斷改善和最佳化上市公司結構，促進市場均衡協調發展。"
+    },
+    {
+      "id": "5214283",
+      "time": "2026-11-14 11:54:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【吳清：踐行中國式現代化和金融強國的使命任務，需要加快建設強大資本市場】證監會發布吳清在首屆中國資本市場學術年會開幕式上的致辭。其中指出，踐行中國式現代化和金融強國的使命任務，需要加快建設強大資本市場。一方面，“十五五”時期是中國加快建設現代化產業體系的關鍵時期，傳統產業改造升級、新興產業培育壯大、未來產業前瞻佈局，無論是存量調整還是增量發現，都需要資本市場提供全鏈條、接力式的金融服務，進一步促進科技、產業、資本深度融合與高水平迴圈。另一方面，中國金融結構正在發生深刻變革，人口結構變化、低利率環境下資產配置出現新的動向、面臨深度再平衡，需要持續豐富資本市場投資產品和工具，進一步暢通投資渠道，更好滿足各類主體日益增長的財富管理需求。"
+    },
+    {
+      "id": "5214282",
+      "time": "2026-11-14 11:54:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【吳清：面對新一輪科技革命浪潮，需要資本市場更好統籌發展與安全】證監會發布吳清在首屆中國資本市場學術年會開幕式上的致辭。其中指出，面對新一輪科技革命浪潮，需要資本市場更好統籌發展與安全。這一輪以人工智慧為代表的科技革命，從科技創新到產業變革的邊界更加模糊，“大規模、大體量、大投入”特點更加突出。實踐證明，股權融資和證券化融資所特有的收益與風險分配、定價、交易及激勵約束等機制，更加契合新的科技產業創新規律，全球主要資本市場都在加快改革、調整制度，著力引導資本、資源向創新領域集聚。也要看到，人工智慧作為一項顛覆性技術，各方在技術路線、商業前景及潛在風險等方面的認識在加深，分歧也在加大，需要深入研判其對經濟金融和資本市場的深遠影響和挑戰，堅持趨利避害，努力實現支援創新與安全可控的動態平衡。"
+    },
+    {
+      "id": "5214281",
+      "time": "2026-11-14 11:54:13",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【吳清：適應全球治理新變局，需要資本市場積極應對各種外部不確定性】證監會發布吳清在首屆中國資本市場學術年會開幕式上的致辭。其中指出，適應全球治理新變局，需要資本市場積極應對各種外部不確定性。世界變亂交織下，全球經貿格局和治理體系新舊交替、規則重構，地緣政治衝突延宕反覆，主要經濟體政策走向不確定性加大，全球資本市場正在經歷新一輪的資產再定價、再平衡。這需要我們積極踐行全球治理倡議，深化資本市場監管合作，共同研究應對不確定難預料因素，增強確定性制度供給，不斷提升資本市場抵禦各類“黑天鵝”“灰犀牛”等重大風險事件的能力和韌性。"
+    },
+    {
+      "id": "5214280",
+      "time": "2026-11-14 11:53:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【吳清：堅持“引進來”“走出去”並重，穩步推進市場、機構、產品全方位開放】證監會發布吳清在首屆中國資本市場學術年會開幕式上的致辭。其中指出，開放合作格局持續拓展深化。堅持“引進來”“走出去”並重，穩步推進市場、機構、產品全方位開放。互聯互通等機制不斷完善，機構持股比例全面放開，合格境外投資者覆蓋全球40多個國家和地區，140多個期貨期權品種可供外資交易。加強跨境監管協作，依法打擊非法跨境展業等違法違規活動。高水平開放與高水平安全良性互動日益深化。"
+    },
+    {
+      "id": "mkt:01a1d830-a058-7bbc-abde-e528f50c3c68",
+      "time": "2026-11-14 11:53:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baili Tianheng's Iza‑bren added to China's 2026 national reimbursement drug list】Baili Tianheng's Iza‑bren (iza‑bren), the world's first and only approved EGFR×HER3 bispecific antibody‑drug conjugate (ADC), has been included in the 2026 National Basic Medical Insurance, Work-Related Injury and Maternity Insurance Drug Catalogue following national reimbursement negotiations. Benefiting from this year's new 'pre‑filing' mechanism, Iza‑bren achieved reimbursement inclusion in its first year on market."
+    },
+    {
+      "id": "5214279",
+      "time": "2026-11-14 11:53:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【吳清：研究評估量化、減持等制度的最佳化和公平合理的監管安排】11月14日，證監會主席吳清在參加2026中國資本市場學術年會時表示，進一步深化市場微觀結構研究。為進一步提升市場定價和發展質量，需要深入研究改善資本供給結構，加快發展壯大長期資本、耐心資本；深入研究改善預期引導機制，減少“羊群效應”“短期化”交易帶來的市場波動；還要深入研究評估量化交易、股份減持等制度規則的最佳化和公平合理的監管安排，切實保護好投資者合法權益。"
+    },
+    {
+      "id": "5214278",
+      "time": "2026-11-14 11:53:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吳清：新經濟領域公司數量、營收、市值在全市場佔比均超過一半】證監會發布吳清在首屆中國資本市場學術年會開幕式上的致辭。其中指出，上市公司向新向優態勢不斷鞏固。上市公司結構與產業轉型、構建現代化產業體系的適應性顯著增強。目前，A股5500多家上市公司中，新經濟領域公司數量、營收、市值在全市場佔比均超過一半。同時，上市公司回報投資者意識和能力有效提升，新“國九條”頒佈兩年多來，上市公司分紅近7萬億，約為同期股權融資的3倍，回購登出也日益成為一些上市公司的常態化選擇。"
+    },
+    {
+      "id": "5214277",
+      "time": "2026-11-14 11:53:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【吳清：長錢長投的制度體系不斷完善】證監會發布吳清在首屆中國資本市場學術年會開幕式上的致辭。其中指出，資本市場板塊建設不斷向縱深推進，錯位發展、功能互補的股權市場體系基本健全，A股總市值突破100萬億元。交易所與銀行間市場共同構成的中國債券市場規模超210萬億元，科創債、綠色債、REITs精準對接國家戰略需求。涵蓋商品、金融各類期貨期權品種170多個，基本覆蓋國民經濟主要產業領域。 投資端，2024年以來，社保、保險、年金淨買入A股超1.5萬億元，專業機構力量穩步壯大，指數、ETF等產品供給持續豐富，長錢長投的制度體系不斷完善。融資端，發行上市、併購重組、再融資等制度包容性適應性持續提升。推動中國金融結構迎來深刻調整，今年前九個月，股票、債券等直接融資佔社會融資增量的比重已近50%。"
+    },
+    {
+      "id": "5214276",
+      "time": "2026-11-14 11:52:48",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場"
+      ],
+      "text": "【吳清：以證券法、公司法、基金法、期貨和衍生品法等為主體，資本市場法律制度的“四梁八柱”基本建成】證監會發布吳清在首屆中國資本市場學術年會開幕式上的致辭。其中指出，以證券法、公司法、基金法、期貨和衍生品法等為主體，資本市場法律制度的“四梁八柱”基本建成。新世紀以來大約每10年出臺一個“國九條”推動資本市場制度規則體系整體性、深層次最佳化，特別是2024年國務院釋出的新“國九條”系統性重塑監管理念和底層邏輯，引領資本市場防風險、強監管、促高質量發展邁出新的堅實步伐。"
+    },
+    {
+      "id": "5214275",
+      "time": "2026-11-14 11:52:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【吳清：建立和發展資本市場，是中國共產黨和中國政府從經濟發展全域性和改革開放大局作出的重大戰略決策】證監會發布吳清在首屆中國資本市場學術年會開幕式上的致辭。其中指出，建立和發展資本市場，是中國共產黨和中國政府從經濟發展全域性和改革開放大局作出的重大戰略決策，36年來，中國資本市場始終與中國經濟改革同頻共振，與實體經濟發展共生共榮，在探索創新中不斷成長壯大，股票、債券、期貨市場規模目前均居世界前列，逐步發展成為與中國經濟體量大致匹配，具有全球影響力的重要市場，為最佳化資源配置、促進創新資本形成、推動經濟發展動能轉換髮揮了不可替代的重要作用。"
+    },
+    {
+      "id": "5214274",
+      "time": "2026-11-14 11:45:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【禮來：三款腫瘤領域創新藥物新增適應症納入國家醫保目錄】11月14日，禮來宣佈，三款腫瘤領域創新藥物新增適應症成功納入新版《國家基本醫療保險、工傷保險和生育保險藥品目錄（2026年）》，包括捷帕力®（匹妥布替尼片）、達伯舒®（信迪利單抗注射液）和愛優特®（呋喹替尼膠囊）。新版國家醫保目錄將於2027年1月1日起正式實施。"
+    },
+    {
+      "id": "5214273",
+      "time": "2026-11-14 11:42:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【禮來：安妥來利®和安妥來®（米吉珠單抗）納入國家醫保目錄】11月14日，禮來宣佈，安妥來利®(米吉珠單抗注射液)和安妥來®(米吉珠單抗注射液(皮下注射))成功納入新版《國家基本醫療保險、生育保險和工傷保險藥品目錄（2026年）》，醫保覆蓋範圍適用於成人中重度活動性潰瘍性結腸炎(UC)和成人中重度活動性克羅恩病(CD)患者。"
+    },
+    {
+      "id": "5214272",
+      "time": "2026-11-14 11:42:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東玻纖30萬噸高效能玻纖智造專案（二期）池窯順利點火】11月14日，山東玻纖30萬噸高效能玻纖智造專案（二期）池窯順利點火，二期生產線正式進入烘窯、除錯階段。該專案為省級重點專案，是山東玻纖深耕高階玻纖新材料賽道的重要佈局。總規劃產能30萬噸，分為兩期建設。目前一期生產線已穩定投產，市場表現良好；本次點火的二期生產線，主攻風電、新能源裝備、高階複合材料等應用領域，產品適配風電葉片大型化、輕量化發展趨勢，專案達產後，將顯著提升高階風電紗產能。"
+    },
+    {
+      "id": "5214271",
+      "time": "2026-11-14 11:36:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空：美國聯邦航空管理局（FAA）已解除全國範圍的停飛令。我們正全力運營今晚儘可能多的剩餘航班。"
+    },
+    {
+      "id": "5214270",
+      "time": "2026-11-14 11:35:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會：將調查新奧爾良船隻碰撞事故。"
+    },
+    {
+      "id": "5214269",
+      "time": "2026-11-14 11:32:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信達生物宣佈信爾美®、信美悅®等七款創新產品（含新適應症及續約）成功納入2026版國家醫保藥品目錄】信達生物製藥集團宣佈信達生物七款創新產品成功納入新版《國家基本醫療保險、生育保險和工傷保險藥品目錄（2026年）》（“國家醫保藥品目錄”）。首次納入國家醫保藥品目錄的產品包括信爾美®（瑪仕度肽注射液，GCG/GLP-1雙受體激動劑）、信美悅®（匹康奇拜單抗注射液，IL-23p19抑制劑）、達伯欣®（伊匹木單抗N01注射液，CTLA-4抑制劑）、維復泰®（鹽酸奎扎替尼片，II型FLT3抑制劑）；新增適應症納入目錄的產品包括達伯舒®（信迪利單抗注射液，抗PD-1單克隆抗體）和捷帕力®（匹妥布替尼片，非共價BTK抑制劑）；信必樂®（託萊西單抗注射液，全人源 PCSK9 單抗）成功續約。新版國家醫保藥品目錄將於2027年1月1日起正式實施。"
+    },
+    {
+      "id": "5214268",
+      "time": "2026-11-14 11:30:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【再鼎醫藥宣佈呫諾美林曲司氯銨膠囊(I)/(II)/(III)與艾加莫德α注射液(皮下注射)首次納入2026年國家醫保藥品目錄】再鼎醫藥今日宣佈，公司在國內的多款商業化產品被納入《國家基本醫療保險、生育保險和工傷保險藥品目錄（2026）》。本次更新包括兩款首次納入的產品，提升了全身型重症肌無力(gMG)患者與精神分裂症患者的治療可及性；以及三款續約產品，持續保障腫瘤和感染性疾病領域的用藥可及性。"
+    },
+    {
+      "id": "5214267",
+      "time": "2026-11-14 11:29:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "捷藍航空：美國聯邦航空管理局已解除全國範圍的停飛令，捷藍航空計劃於週六上午恢復航班。"
+    },
+    {
+      "id": "mkt:01a1d81a-193d-7bbc-abde-dfcc1c60441d",
+      "time": "2026-11-14 11:29:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Around 147 Shenzhen firms to engage domestic and foreign peers at 2026 APEC Business Leaders' Summit】Nov 14 — Shenzhen Mayor Li Yun said about 147 Shenzhen companies will participate in the 2026 APEC Business Leaders' Summit during APEC Leaders' Week, meeting domestic and foreign industry leaders to discuss trade and commercial cooperation. The city said outcomes from APEC week will provide major support for deepening Shenzhen's trade ties with Asia‑Pacific economies."
+    },
+    {
+      "id": "mkt:01a1d812-a193-7bbc-abde-d5cb04d7e588",
+      "time": "2026-11-14 11:21:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Shenzhen becomes first Chinese mainland city with foreign trade exceeding 5 trillion yuan】On Nov 14, at a Guangdong–Shenzhen media briefing during the 2026 APEC leaders' week, Shenzhen Commerce Bureau director Zhang Feimeng said latest data show the city's total foreign trade (imports and exports) topped 5 trillion yuan, a record high."
+    },
+    {
+      "id": "5214266",
+      "time": "2026-11-14 11:20:43",
+      "tags": [
+        "行業"
+      ],
+      "text": "【中證協啟動券商財務數智化應用調研，五階段座標勾勒智慧財務路徑】記者從業內獲悉，中國證券業協會日前向各證券公司下發通知，開展財務數智化應用調研，旨在系統瞭解行業財務數智化應用現狀，總結先進經驗、剖析問題挑戰，為行業深化財務數智化建設、提升財務核算質效和推動財務職能升級提供參考。值得注意的是，券商數智化轉型正從財富管理、投資研究等前臺業務，向財務、合規、風控、運營等中後臺部門縱深推進，財務數智化正是這一趨勢的集中縮影。此次調研恰逢證券業智慧化提速。2026年被業內視為“金融智慧體元年”，券商人工智慧應用正從試點探索走向規模化驗證。據易觀千帆資料，截至2026年7月末，已有32家券商完成演算法與模型備案，備案專案總數超過50個，其中10餘家頭部券商完成多模型備案。（中證報）"
+    },
+    {
+      "id": "5214265",
+      "time": "2026-11-14 11:18:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【2026年APEC工商領導人峰會，約147家深圳企業將與境內外企業探討經貿合作】11月14日，2026年APEC領導人會議周新聞中心舉行廣東省、深圳市專場中外媒體吹風會。會上，深圳市人民政府市長李運表示，在即將舉辦的2026年APEC工商領導人峰會，大約有147家深圳企業將與眾多境內外頭部企業、知名企業負責人深入交流，探討經貿合作的廣闊前景。APEC會議周的一系列成果，將為深圳深化與亞太經濟體的經貿合作提供重大助力。"
+    },
+    {
+      "id": "mkt:01a1d80f-a2c6-7bbc-abde-cc3587b659df",
+      "time": "2026-11-14 11:17:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Carney said Canada and the Philippines have concluded free trade agreement (FTA) negotiations, and the deal is planned to take effect next year."
+    },
+    {
+      "id": "5214264",
+      "time": "2026-11-14 11:14:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理馬克・卡尼在馬尼拉表示，加拿大與菲律賓已經結束自由貿易協定談判，計劃於明年正式生效。"
+    },
+    {
+      "id": "5214263",
+      "time": "2026-11-14 11:13:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【深圳已成為中國內地首個外貿進出口超5萬億元的城市】11月14日，2026年APEC領導人會議周新聞中心舉行廣東省、深圳市專場中外媒體吹風會。會上，深圳市商務局局長張非夢表示，根據最新資料，深圳外貿再創新高，已成為中國內地首個外貿進出口超5萬億元的城市。"
+    },
+    {
+      "id": "5214262",
+      "time": "2026-11-14 11:12:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇省市監局通告26批次食品抽檢不合格，其中兩批次龍眼檢出二氧化硫超標】2026年11月13日，江蘇省市場監督管理局釋出26批次食品抽檢不合格情況通告。通告稱，近期,江蘇省市場監督管理局組織食品安全抽檢，抽取保健食品、餐飲食品、茶葉及相關製品、炒貨食品及堅果製品、調味品、方便食品、蜂產品、糕點、罐頭、酒類、可可及焙烤咖啡產品、糧食加工品、肉製品、乳製品、食用農產品、蔬菜製品、水果製品及速凍食品等18大類食品2302批次樣品，檢出其中食用農產品、餐飲食品、糕點、肉製品、調味品、方便食品、炒貨食品及堅果製品和水果製品等8大類食品26批次樣品不合格。澎湃新聞注意到，其中有兩批次龍眼檢出二氧化硫超標。"
+    },
+    {
+      "id": "5214261",
+      "time": "2026-11-14 11:12:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【專用通道、雙語播報 APEC深圳會議期間將有這些便利措施上線】今天（14日）上午，2026年APEC領導人會議周新聞中心舉行廣東省、深圳市專場中外媒體吹風會。釋出會上介紹，在出入境便利化方面，海、陸、空、鐵各型別9個口岸全覆蓋設定參會代表專用通道。寶安國際機場實現托執行李提前查驗、無感通關。皇崗口岸實行“合作查驗、一次放行”。在語言服務便利化方面，規範外語標識超10萬處，口岸、機場、軌道交通、景區商圈等重點場景佈設AI翻譯裝置7000餘套，計程車全面實現“雙語播報”。在支付服務便利化方面，3000餘臺ATM機支援外卡取現，1600餘個銀行網點可辦理外幣兌換。推出“外卡內綁”“外包內用”服務。深圳市地鐵閘機均已支援境外銀行卡拍卡過閘通行。在消費購物便利化方面，深圳市離境退稅的商店增加到3160家，“即買即退稅”商店超1000家。（央視新聞）"
+    },
+    {
+      "id": "5214260",
+      "time": "2026-11-14 11:08:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美聯航恢復運營，包括週五晚間部分航班，此前美國聯邦航空管理局解除停飛令。"
+    },
+    {
+      "id": "mkt:01a1d804-35d2-7bbc-abde-c2c15b4996ab",
+      "time": "2026-11-14 11:05:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【1.29 mln yuan-per-dose CAR-T added to China's reimbursement list】Nov 14 — China’s National Healthcare Security Administration said JW Therapeutics’ CAR-T drug Ruijiaolunsai has been added to the National Reimbursement Drug List. The therapy’s list price was 1.29 mln yuan per dose prior to inclusion; inclusion has cut the price to below 300,000 yuan per dose, according to Ma Jun, director of the Harbin Institute of Hematology and Oncology, who took part in the drug’s review and clinical-consensus drafting."
+    },
+    {
+      "id": "mkt:01a1d803-23c8-7bbc-abde-b99e7b5a9590",
+      "time": "2026-11-14 11:04:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【China adds record 51 Category I new drugs to 2026 national reimbursement drug list】China released its 2026 national reimbursement drug list (NRDL) and a parallel commercial health insurance innovative drug list, adding 107 medicines to the NRDL, including a record 51 Category I new drugs covering oncology, rare diseases, chronic and psychiatric indications. The NRDL now totals 3,331 products (1,935 Western drugs; 1,396 traditional Chinese medicines) and takes effect Jan. 1, 2027. The commercial list added 12 drugs — including the world’s first solid‑tumor CAR‑T and China’s first hemophilia gene therapy — bringing that list to 28."
+    },
+    {
+      "id": "5214259",
+      "time": "2026-11-14 11:02:50",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【百萬級CAR-T抗癌藥首次納入基本醫保 患者自付降至10萬元以內】百萬級CAR-T抗癌療法迎來歷史性突破，藥明巨諾瑞基奧侖賽注射液（商品名：倍諾達®）首次被納入基本醫保，患者經醫保報銷後，自付費用將降至10萬元以內。此次“天價藥”得以大幅降價進入基本醫保，核心在於關鍵原材料實現國產化，能夠大幅壓縮生產成本。（科創板日報）"
+    },
+    {
+      "id": "5214258",
+      "time": "2026-11-14 10:51:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX星鏈：星鏈實現從軌道實時影片流傳輸。"
+    },
+    {
+      "id": "5214257",
+      "time": "2026-11-14 10:47:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Afterpay聯合創始人莫爾納將於年底離開】先買後付平臺Afterpay聯合創始人尼克·莫爾納宣佈，他將於今年年底離開這家公司及其美國母公司Block。 莫爾納在2014年與安東尼·艾森一同創立了這家澳大利亞先買後付企業，他表示自己希望多陪伴家人。他於週六在領英上釋出了這一訊息。由推特聯合創始人傑克·多西執掌的美國支付金融科技公司Block，在2021年以290億美元收購Afterpay。多西一直在對Block進行業務重組，重心轉向人工智慧，並在2月宣佈大規模裁員，據悉Afterpay也有人員被裁。"
+    },
+    {
+      "id": "5214256",
+      "time": "2026-11-14 10:44:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【生態環境部部長黃潤秋出席COP31“中國角”系列邊會活動並會見外方高階代表】黃潤秋表示，中國積極參與全球環境和氣候治理，落實2030年、2035年國家自主貢獻，持續發揮建設性作用，推動歷次聯合國氣候變化大會取得積極成果；推動達成“昆明—蒙特利爾全球生物多樣性框架”，設立並有效執行昆明生物多樣性基金，充分展現負責任大國擔當。中方願同各方一道，深化氣候治理合作，共同推動COP31取得務實成果，攜手構建公平合理、合作共贏的全球氣候治理體系，共建清潔、美麗、可持續的世界。"
+    },
+    {
+      "id": "5214254",
+      "time": "2026-11-14 10:43:16",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【再創新高 51個一類新藥進入新版國家醫保藥品目錄】記者11月14日從國家醫保局獲悉，2026年國家醫保藥品目錄和商業健康保險創新藥品目錄在蘇州釋出。新版國家醫保藥品目錄新增107種藥品，其中51個一類新藥，再創歷史新高。新增品種覆蓋腫瘤、罕見病、慢性病、精神疾病等多個臨床急需治療領域。商業健康保險創新藥品目錄調整同步開展，新增12種藥品，其中包括全球首個實體瘤CAR-T、中國首個血友病基因治療藥物等重大創新藥品。調整後，2026年商業健康保險創新藥品目錄共有28種。此次調整後，2026年版國家醫保藥品目錄藥品總數達到3331個，其中西藥1935個、中成藥1396個。新版目錄於2027年1月1日正式落地執行。（新華社）"
+    },
+    {
+      "id": "mkt:01a1d7ee-0a7d-7bbc-abde-b0ab0b4f3c68",
+      "time": "2026-11-14 10:41:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【China says talk of restarting hostilities against Iran concerning】China's permanent UN representative Fu Cong told a Nov. 13 Security Council meeting the Gulf situation is undergoing profound change, conflicts are protracted across multiple fronts and spillovers are harming regional security and development. He said US‑Iran talks are deadlocked, Yemen is rapidly deteriorating and the risk of large‑scale regional conflict remains high; recent rhetoric about planning to resume military action against Iran is particularly worrying."
+    },
+    {
+      "id": "5214253",
+      "time": "2026-11-14 10:40:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受大霧影響，途經天津所有高速全部封閉】11月14日，天津的大霧橙色預警訊號仍在生效中。預計至今天上午，天津市仍會出現大霧天氣，部分地區有能見度不足200米的強濃霧，局地可能出現能見度不足50米的特強濃霧。受到大霧天氣影響，截至14日上午9:30，途經天津的所有高速公路均處於封閉狀態。"
+    },
+    {
+      "id": "5214252",
+      "time": "2026-11-14 10:36:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年ABAC第四次會議開幕 李凡榮、曾毓群、張偉武等出席】11月14日上午訊息，2026年ABAC（APEC工商諮詢理事會）第四次會議開幕式在深圳舉行。ABAC中國代表中國中化董事長李凡榮、中信集團副總經理曾琪、寧德時代董事長曾毓群，ABAC中國候任代表中國海油副總經理俞進、工商銀行副行長張偉武、中國貿促會國際合作部部長吳蒙出席。"
+    },
+    {
+      "id": "5214251",
+      "time": "2026-11-14 10:35:47",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【新增12種藥品 2026年商業健康保險創新藥品目錄共有28種】11月14日，國家醫保局相關負責人表示：2026年開展的商業健康保險創新藥品目錄調整，新增12種藥品。新版商業健康保險創新藥品目錄新納入：全球首個實體瘤CAR-T、中國首個血友病基因治療藥物等重大創新藥品。同時建立了商保創新藥目錄與基本醫保目錄銜接機制，2個2025年商保創新藥目錄品種納入醫保目錄。調整後，2026年商業健康保險創新藥品目錄共有28種。（央視新聞）"
+    },
+    {
+      "id": "5214250",
+      "time": "2026-11-14 10:31:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破67000美元，日內跌1.93%。"
+    },
+    {
+      "id": "5214249",
+      "time": "2026-11-14 10:30:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：馬克龍、伯納姆等多國領導人在愛爾蘭出席晚宴，警方次日在晚宴地點附近發現爆炸裝置】據英國路透社、《愛爾蘭時報》等外媒報道，當地時間12日，包括英國首相伯納姆、法國總統馬克龍在內的多國領導人在愛爾蘭首都都柏林參加一場峰會並出席晚宴。次日，愛爾蘭陸軍拆彈專家在本次晚宴舉辦場所附近的一棟辦公樓內發現並安全處置了一個簡易爆炸裝置。（環球網）"
+    },
+    {
+      "id": "5214248",
+      "time": "2026-11-14 10:27:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴國家主席：古巴決心抵制任何外國軍事侵略企圖】古巴國家主席迪亞斯-卡內爾13日表示，古巴決心抵制任何外國對古巴發動軍事侵略的企圖，並正為此進行準備。根據古巴國家主席府官網釋出的訊息，迪亞斯-卡內爾當天在哈瓦那省博耶羅斯市參加了國防準備活動。他表示，美國近日一再發出軍事侵略威脅，促使古巴開展民眾的國防準備工作，以保障“全民戰爭”的防禦戰略，加強領土防禦體系各組成部分。（新華社）"
+    },
+    {
+      "id": "5214247",
+      "time": "2026-11-14 10:26:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【人民銳評：超級平臺須讀懂“時間”的公共分量】人民日報看法評論文章指出，強調責任，是為了培育良性的注意力市場。爭取使用者時長不該是壓倒一切的KPI，為公眾創造真實價值才是根本。黨中央的政策指向很明確，“從構築國家競爭新優勢的戰略高度出發，堅持發展和規範並重，把握平臺經濟發展規律，建立健全平臺經濟治理體系”。這意味著，演算法導向需要校準，內容創作需要守住本心，使用者也需主動管理螢幕時間。多方同向發力，才能撐起健康的數字生態。 中國網際網路已走在世界前列，需要的不只是體量夠大的平臺，更是把公共責任做進產品裡、融入經營中的平臺。當演算法更懂得守護人的思考、成長與發展，中國平臺企業定能在商業成功與時代進步、民生改善的同頻共振中，迸發出蓬勃而持久的生命力。"
+    },
     {
       "id": "mkt:01a1d7df-3dd9-7bbc-abde-af3b99ccff21",
       "time": "2026-11-14 10:24:54",
