@@ -1,7 +1,20 @@
 {
   "date": "2026-11-14",
-  "count": 763,
+  "count": 764,
   "items": [
+    {
+      "id": "mkt:01a1d908-995b-7bbc-abe0-09d6007fe6e7",
+      "time": "2026-11-14 15:49:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Moscow mayor says Russian air-defence systems shot down three drones heading toward the capital."
+    },
     {
       "id": "5214383",
       "time": "2026-11-14 15:37:08",
