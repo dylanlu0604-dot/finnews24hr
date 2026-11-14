@@ -1,7 +1,32 @@
 {
-  "updated": "2026-11-14 22:49:08",
-  "count": 9807,
+  "updated": "2026-11-14 22:53:07",
+  "count": 9809,
   "items": [
+    {
+      "id": "mkt:01a1da8b-3739-7bbc-abe1-fc2b0b9f9c34",
+      "time": "2026-11-14 22:51:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU foreign policy chief calls on Israel to reopen crossings into Gaza."
+    },
+    {
+      "id": "mkt:01a1da8a-ed21-7bbc-abe1-f458aa0c0524",
+      "time": "2026-11-14 22:51:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU foreign policy chief urges Israel to allow humanitarian aid into the Gaza Strip."
+    },
+    {
+      "id": "5214523",
+      "time": "2026-11-14 22:50:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國空管系統故障致4小時停飛，交通部長申請500億升級資金】美國交通部長達菲呼籲國會批准500億美元緊急資金，用於對該國老化的空中交通管制系統進行現代化改造。此前，一場持續四小時的地面停飛導致數千架次航班受影響。達菲表示，路由器過載導致資料不一致，促使官員出於預防考慮關閉了該系統。美國國土安全部長穆林表示，沒有證據表明存在網路攻擊或人工智慧入侵，並稱此次中斷似乎是機械故障所致。美國東部時間晚上8點15分，美國空域重新開放，但航空公司仍在努力恢復正常運營。"
+    },
     {
       "id": "5214522",
       "time": "2026-11-14 22:45:55",
@@ -89316,16 +89341,6 @@
         "其他"
       ],
       "text": "【七天內近五千名非法移民抵達西班牙加那利群島】當地時間11月7日，據西班牙迦納利自治區最新統計，在剛剛過去的七天內，已有近五千名非法移民搭乘木船和多艘小型船隻抵達加那利群島，其中大部分人員集中登陸耶羅島。僅在過去24小時內，群島各港口就接納了超過1100名獲救人員。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a1b67f-3bbd-7ee0-aac0-67db366a7eaa",
-      "time": "2026-11-07 22:52:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "President Zelenskiy said additional personnel in the Security Service of Ukraine’s (SBU) security department will be dismissed after a corruption scandal came to light."
     }
   ]
 }
