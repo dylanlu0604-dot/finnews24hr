@@ -1,7 +1,1484 @@
 {
   "date": "2026-11-14",
-  "count": 785,
+  "count": 945,
   "items": [
+    {
+      "id": "mkt:01a1da7b-cdd8-7bbc-abe1-e70d356ef0f0",
+      "time": "2026-11-14 22:35:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Collins said inf expectations remain stable and long-term inf expectations may continue to be stable."
+    },
+    {
+      "id": "mkt:01a1da7b-bc78-7bbc-abe1-dd5bf9f799d5",
+      "time": "2026-11-14 22:35:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Collins said there is ample reason to keep policy rates unchanged at the October FOMC meeting."
+    },
+    {
+      "id": "mkt:01a1da7b-a42d-7bbc-abe1-d15a3d214cb3",
+      "time": "2026-11-14 22:34:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "COLLINS: Financial conditions may restrain the economy more than expected."
+    },
+    {
+      "id": "mkt:01a1da7b-9e2e-7bbc-abe1-cd81968b2ed0",
+      "time": "2026-11-14 22:34:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's COLLINS says the labor market is in an 'unusually stable state' and may strengthen further."
+    },
+    {
+      "id": "5214517",
+      "time": "2026-11-14 22:33:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "柯林斯：預計通脹將回落，而需求將繼續保持。"
+    },
+    {
+      "id": "mkt:01a1da7a-699b-7bbc-abe1-c1f8b71e17c6",
+      "time": "2026-11-14 22:33:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "COLLINS of the Federal Reserve said the Fed must reduce inf to 2%."
+    },
+    {
+      "id": "mkt:01a1da7a-4867-7bbc-abe1-be6e93915d20",
+      "time": "2026-11-14 22:33:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's Collins said restoring inflation stability is the best way to address high living costs."
+    },
+    {
+      "id": "5214516",
+      "time": "2026-11-14 22:33:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "柯林斯：整體薪資壓力並未上升，也未出現擴大趨勢。"
+    },
+    {
+      "id": "mkt:01a1da79-fc48-7bbc-abe1-b3d524d9f488",
+      "time": "2026-11-14 22:33:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Collins said a steady, gradual path of rate hikes is appropriate amid two-sided risks, and that, given inf and employment data, the Fed may need to raise rates above its recent projections."
+    },
+    {
+      "id": "5214515",
+      "time": "2026-11-14 22:33:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "柯林斯：貨幣政策方向明確。"
+    },
+    {
+      "id": "5214514",
+      "time": "2026-11-14 22:32:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "柯林斯：通脹壓力範圍正在擴大，尤其是在商品領域。"
+    },
+    {
+      "id": "5214513",
+      "time": "2026-11-14 22:32:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：需求面臨的風險仍呈兩面性。"
+    },
+    {
+      "id": "5214512",
+      "time": "2026-11-14 22:31:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：在10月FOMC會議上看到了維持利率不變的充分理由。"
+    },
+    {
+      "id": "5214511",
+      "time": "2026-11-14 22:31:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：美聯儲將通脹率恢復至2%至關重要。"
+    },
+    {
+      "id": "5214510",
+      "time": "2026-11-14 22:31:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：美聯儲應對高生活成本的最佳舉措是讓通脹重回穩定。"
+    },
+    {
+      "id": "5214509",
+      "time": "2026-11-14 22:31:35",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：就業市場處於“異常穩定”狀態，可能會進一步走強。"
+    },
+    {
+      "id": "5214508",
+      "time": "2026-11-14 22:31:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：通脹預期已得到錨定。"
+    },
+    {
+      "id": "5214507",
+      "time": "2026-11-14 22:31:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：長期通脹預期保持穩定的可能性最大。"
+    },
+    {
+      "id": "5214506",
+      "time": "2026-11-14 22:31:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：金融狀況可能會比預期更嚴重地抑制經濟。"
+    },
+    {
+      "id": "5214505",
+      "time": "2026-11-14 22:31:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：鑑於通脹和就業資料，美聯儲可能不得不比近期預期更多地加息。"
+    },
+    {
+      "id": "5214504",
+      "time": "2026-11-14 22:29:46",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【烏克蘭“星盾”又被限速，澤連斯基再批SpaceX】烏克蘭總統澤連斯基週六加大了對SpaceX的批評，稱該公司對其軍用級“星盾”（Starshield）衛星終端實施的速度限制，會帶來危險的政治後果，並削弱了烏克蘭關鍵的防空能力。澤連斯基表示，在烏克蘭境內被俄羅斯臨時佔領地區執行的“星盾”終端，過去五天裡被限制在最高161公里/小時的速度，這阻礙了烏克蘭的軍事能力。澤連斯基稱，烏克蘭國防部已就這一問題與SpaceX公司進行了官方層面的交涉。“這些限制措施已經實施五天了。他們聲稱這是某種技術問題，但我們並不相信事實如此。”澤連斯基週六對記者表示。“如果在這方面施加限制，就等同於在一定程度上承認那些被臨時佔領的領土不屬於我們。正因如此，我認為我們有權提出這個問題，並恢復原有的通行速度——確保不再有任何限制。”這是近幾周內發生的第二起此類服務中斷事件。10月中旬，烏克蘭官員表示，由於烏克蘭對俄羅斯煉油廠發動襲擊，導致其與特朗普政府之間關係緊張，SpaceX公司限制了“星鏈”及其“星盾”通訊系統的執行速度（將其限制在約160公里/小時，即100英里/小時）。隨後，相關服務於10月24日得到恢復。"
+    },
+    {
+      "id": "5214503",
+      "time": "2026-11-14 22:22:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【庫布其中北部新能源基地配套支撐性煤電專案產出合格高純除鹽水】據中國三峽能源公眾號，近日，庫布其中北部新能源基地400萬千瓦配套支撐性煤電專案鍋爐補給水系統完成全流程除錯，成功產出合格高純除鹽水，為專案後續機組除錯投產提供了可靠用水保障。"
+    },
+    {
+      "id": "5214502",
+      "time": "2026-11-14 22:21:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正大集團聯手泰國啤酒巨頭 酒類業務再落一子】11月13日，正大集團公眾號釋出訊息，日前與汶洛啤酒廠有限公司（Boon Rawd Brewery Co., Ltd.）舉行合資公司簽約儀式，共同成立正大汶洛飲品貿易（北京）有限公司，雙方各持股50%，將以合資公司為平臺，推動汶洛集團旗下產品在中國市場的業務發展與市場拓展。"
+    },
+    {
+      "id": "5214501",
+      "time": "2026-11-14 22:12:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國聯邦航空管理局（FAA）正檢查一種可追溯至20年前特定型別的路由器。"
+    },
+    {
+      "id": "5214500",
+      "time": "2026-11-14 22:10:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：導致全美地面停飛的故障裝置已被識別並隔離。"
+    },
+    {
+      "id": "5214499",
+      "time": "2026-11-14 22:01:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【受空管系統故障影響 14日美國仍有超3300架次航班被取消】當地時間11月14日，航班追蹤網站FlightAware的資料顯示，在13日空管系統出現通訊故障、導致全美所有飛機停飛後，14日，美國境內及往返美國的航班已有超過3300架次被取消。截至美國東部時間14日6時15分，達美航空已取消當日計劃航班的19%，聯合航空取消了16%，美國航空則取消了14%。美國聯邦航空管理局13日釋出全美地面停飛令，暫停國內機場航班起飛超過4個小時，導致上萬架次航班延誤或取消。美官方表示，航班大規模停飛的原因仍在調查中，但可能由裝置老舊帶來的通訊故障引發。（央視新聞）"
+    },
+    {
+      "id": "5214498",
+      "time": "2026-11-14 21:59:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油暗盤跌破94美元，日內跌超0.8%。"
+    },
+    {
+      "id": "mkt:01a1da58-52c5-7bbc-abe1-aa86edfd4e9b",
+      "time": "2026-11-14 21:56:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Transportation Secretary Duffy said airlines are rescheduling flights and reallocating aircraft and crew to where they are most needed, so passengers may still face some delays or cancellations."
+    },
+    {
+      "id": "mkt:01a1da58-28eb-7bbc-abe1-a046a60af31d",
+      "time": "2026-11-14 21:56:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Transportation Secretary Duffy said flight operations are gradually returning to normal this morning. The department is coordinating closely with airlines and fully supporting ongoing recovery efforts."
+    },
+    {
+      "id": "5214497",
+      "time": "2026-11-14 21:54:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "達菲：我們正與航空公司密切協調，以支援正在進行的恢復。"
+    },
+    {
+      "id": "5214496",
+      "time": "2026-11-14 21:54:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "達菲：乘客將繼續面臨一些延誤和取消，因為航空公司會重新安排航班，並將飛機/機組人員重新部署到最需要的地方。"
+    },
+    {
+      "id": "5214495",
+      "time": "2026-11-14 21:53:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：今天上午，各項運營正逐漸恢復正常；將於上午10:30舉行新聞釋出會，分享更多最新訊息；你們仍會看到一些航班延誤和取消情況。"
+    },
+    {
+      "id": "5214494",
+      "time": "2026-11-14 21:50:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "因降霧， 我市境內各條高速公路均封閉。 （天津高速公路）"
+    },
+    {
+      "id": "mkt:01a1da52-829e-7bbc-abe1-9d6eeeb088c7",
+      "time": "2026-11-14 21:50:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "A Houthi spokesman said the movement struck an enemy assembly site linked to Saudi officer Badr Habib in Lahij province's Hurz area, saying the precision strike caused dozens of casualties and destroyed numerous vehicles."
+    },
+    {
+      "id": "mkt:01a1da51-ae95-7bbc-abe1-973c4d733dc9",
+      "time": "2026-11-14 21:49:08",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Russian drones attacked a Naftogaz facility in Ukraine's central Poltava region, triggering a fire."
+    },
+    {
+      "id": "5214493",
+      "time": "2026-11-14 21:47:08",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "胡塞武裝發言人：我方武裝部隊動用多枚彈道導彈，成功打擊了位於拉赫傑省（Lahij）庫爾茲（Khurz）地區的敵方——沙烏地阿拉伯軍隊——的集結地。此次打擊精準命中目標，造成數十人傷亡，並摧毀了大量車輛。"
+    },
+    {
+      "id": "5214492",
+      "time": "2026-11-14 21:45:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【特強濃霧！天津將大霧橙色預警升級為紅色預警】天津市氣象臺2026年11月14日21時28分將大霧橙色預警訊號升級為紅色預警訊號：今天夜間至明天上午，我市大部地區有能見度低於50米的特強濃霧，請有關單位和人員做好防範準備。"
+    },
+    {
+      "id": "5214491",
+      "time": "2026-11-14 21:42:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國家石油天然氣公司（Naftogaz ）表示，俄羅斯無人機襲擊了該公司位於波爾塔瓦州中部的設施，引發火災。"
+    },
+    {
+      "id": "5214490",
+      "time": "2026-11-14 21:41:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中德產業創新投資合作再搭平臺】11月14日，由北京市投資促進服務中心主辦的“投資北京，贏得未來——法蘭克福投資合作交流會”在德國法蘭克福舉辦。活動得到德中經濟聯合會（DCW）支援，匯聚德國生物醫藥、先進製造、數字科技、綠色能源、消費等領域40餘家企業、商協會、科研機構代表，搭建北京與德國政企對話對接平臺，深化中德產業創新與投資務實合作。"
+    },
+    {
+      "id": "mkt:01a1da45-abfb-7bbc-abe1-89d89e92cd2e",
+      "time": "2026-11-14 21:36:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "【Bank of England MPC member Greene: better to act now to curb inflation】Bank of England MPC member Greene said it is preferable to take action now to curb inflation rather than delay and risk significant second-round effects. Greene was among the majority who backed raising the Bank rate from 3.75% to 4.0% at November’s policy meeting and had previously been in the minority advocating earlier hikes. She said that with the inflation path highly uncertain, policy should aim to minimise mistakes: the risk of overtightening and later easing if second-round effects do not emerge is lower than waiting too long and allowing inflation to get out of control. Given inflation has run above target for about five-and-a-half years, failure to rein it in would be the larger policy error."
+    },
+    {
+      "id": "mkt:01a1da3c-a44f-7bbc-abe1-8353c9b527ae",
+      "time": "2026-11-14 21:26:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China Datang's Lusi Port unit 6 synchronizes to grid】China Datang said on Nov. 14 that unit 6 of the Lusi Port 2×1,000 MW expansion synchronized to the grid on its first attempt. Unit systems are stable and operating normally. The expansion is expected to yield nearly 10 bln kWh of annual generation once fully commissioned."
+    },
+    {
+      "id": "5214489",
+      "time": "2026-11-14 21:23:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比亞迪輔助駕駛車型保有量超419萬輛】據比亞迪汽車公眾號，比亞迪輔助駕駛車型保有量超419萬輛，其中十月銷售24.55萬輛；天神之眼輔助駕駛每天生成資料超2.6億公里。"
+    },
+    {
+      "id": "5214488",
+      "time": "2026-11-14 21:22:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【呂四港6號機組併網成功】據中國大唐公眾號訊息，11月14日，大唐呂四港2×100萬千瓦擴建專案6號機組併網一次成功。目前，6號機組各系統引數穩定、執行狀態良好，該專案投產後，預計年發電量近百億千瓦時。"
+    },
+    {
+      "id": "5214487",
+      "time": "2026-11-14 21:22:15",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【伊朗副總統：伊朗尋求在核權利和主權問題上獲得公正對待】伊朗負責法律/司法事務的副總統馬吉德·安薩里（Majid Ansari）週六表示，伊朗尋求獲得公平對待，並要求各方尊重其核權利、領土主權以及對霍爾木茲海峽的管轄權。在談到敵人未能實現其目標時，他希望對方能從這些挫折中吸取教訓，摒棄威脅與霸凌行徑，轉而尊重伊朗民族，並依據國際法和國際準則與伊朗打交道。安薩里強調，必須尊重伊朗人民在核問題上的權利，並指出施壓與脅迫絕不會奏效。他重申，伊朗尋求在核權利、邊境主權，以及在霍爾木茲海峽的存在與主權問題上，獲得公平和平等的對待。"
+    },
+    {
+      "id": "5214486",
+      "time": "2026-11-14 21:19:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【176家臺企參展第十八屆海峽兩岸茶博會】以“‘三茶’統籌·融合發展”為主題的第十八屆海峽兩岸茶業博覽會14日在福建省武夷山市舉行。本屆茶博會共吸引近900家企業參展，其中來自臺灣的企業176家。（新華社）"
+    },
+    {
+      "id": "mkt:01a1da35-4d6e-7bbc-abe1-7cd043ed6d29",
+      "time": "2026-11-14 21:18:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's vice president told IRNA that Iran seeks fair treatment on its nuclear rights and sovereignty over the Strait of Hormuz."
+    },
+    {
+      "id": "5214485",
+      "time": "2026-11-14 21:15:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中越邊境互聯互通“國門大動脈”將於本月通車】從雲南省文山州政府新聞辦公室獲悉，G5615天保至猴橋高速公路重要組成路段天保至麻栗坡高速公路，各項建設任務全面收官，正式邁入通車倒計時。 雲南天保至麻栗坡高速公路將於11月24日開通。通車後，文山市區至天保口岸車程，由2小時壓縮至80分鐘左右。作為中越邊境互聯互通的“國門大動脈”，天保至麻栗坡高速公路通車後將持續提升天保口岸通行與通關能力，啟用邊境貿易、跨境旅遊和沿線產業發展，助力興邊富民。（中新網）"
+    },
+    {
+      "id": "5214484",
+      "time": "2026-11-14 21:13:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【荷蘭皇家航空前CEO被曝機上違規使用充電寶引發火情】據荷蘭方面11月13日訊息，荷蘭皇家航空公司前執行長（CEO）卡米爾·厄爾林斯9月在該公司一架客機上違規使用充電寶引發火情，荷航日前已就此事向檢方提請指控厄爾林斯。荷航13日在一份宣告中說：“如果乘客嚴重違反安全規定，危及航班、乘客或機組人員安全，公司方面會提出指控，這是標準做法。”荷航沒有公佈當事人身份。訊息人士稱，受指控的是厄爾林斯。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1da2d-b58c-7bbc-abe1-7327c019b4af",
+      "time": "2026-11-14 21:09:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Saudi-led coalition said it intercepted and destroyed two drones launched by Yemen's Houthi militants toward Riyadh and Saudi Arabia's southern regions."
+    },
+    {
+      "id": "5214483",
+      "time": "2026-11-14 21:08:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍：攔截並摧毀了葉門胡塞武裝向利雅得和南部地區發射的兩架無人機。"
+    },
+    {
+      "id": "5214482",
+      "time": "2026-11-14 21:07:59",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【Meta被義大利資料保護機構罰款8.07億歐元】義大利資料保護機構週六表示，已對美國科技巨頭Meta Platforms處以 8.05 億歐元（約合 8.87 億美元）罰款，原因是調查發現該公司在未經使用者同意且未告知使用者的情況下，訪問了安卓（Android）使用者的照片和影片。這筆罰款相當於Meta全球營收的約0.47%。該機構在宣告中表示，Meta曾透過Facebook應用的一項功能獲取安卓使用者的照片和影片，該功能會推薦使用者個人相簿中的內容供其釋出。宣告指出，Meta需在60天內取消該功能的預設開啟狀態，並另行徵求使用者的同意。該監管機構表示，始於2025年的這項調查並未涵蓋將相關內容用於訓練人工智慧模型的可能性。Meta否認存在這一做法。該機構還補充稱，保留針對2026年推出的一項新功能進行單獨評估的權利；該功能允許使用者相簿中的內容在雲端進行處理。"
+    },
+    {
+      "id": "mkt:01a1da22-8a68-7bbc-abe1-6b43e2908909",
+      "time": "2026-11-14 20:57:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU interceptions of illegal border crossings down 29% in first 10 months】European Border and Coast Guard Agency (Frontex) data show interceptions of illegal entries at EU borders fell 29% YoY to about 110,000 in the first 10 months of the year. Frontex said crossings declined across several main routes. EU commissioner for home affairs and migration Magnus Brunner attributed the drop to strengthened international cooperation."
+    },
+    {
+      "id": "5214481",
+      "time": "2026-11-14 20:56:15",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際",
+        "原創"
+      ],
+      "text": "【英國央行委員格林：現在就通脹採取主動行動，才能將決策失誤的負面影響降至最低】英國央行委員梅根·格林（Megan Greene）週六表示，與其採取過於謹慎的態度並冒著引發嚴重“第二輪效應”的風險，不如現在就主動出擊，以有效控制通脹。她在“歐洲改革中心”舉辦的一次會議上表示：“當你無法預知通脹走向，且面臨諸多不確定性時，我認為你需要採取一種思維方式：如何才能將決策失誤的負面影響降至最低？”格林重申了她的觀點：鑑於通脹前景存在不確定性，對英國央行而言，即便加息幅度過大（若後續未出現“第二輪效應”則可再降息），其風險也遠小於因等待過久才收緊政策而導致通脹失控的風險。她說：“我們此前經歷了長達約五年半的通脹高於目標水平的時期；如果現在仍無法控制住通脹，那才是更大的風險，也是更嚴重的政策失誤。”“因此，我認為採取主動行動是有益的——這能最大限度地降低決策失誤所帶來的負面後果。”"
+    },
+    {
+      "id": "mkt:01a1da20-099a-7bbc-abe1-6156225eb776",
+      "time": "2026-11-14 20:54:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Italy backs Germany joining next-generation fighter programme】Italy said on Saturday it fully supports Germany joining the Global Combat Air Programme (GCAP) to develop next‑generation fighters and rejected media reports it tried to block Germany. A government statement called earlier reports misleading and inconsistent with Italy’s longstanding position, saying Italy has welcomed German participation and proposed Germany enter initially as an observer to facilitate information sharing and speed its accession to full membership."
+    },
+    {
+      "id": "5214480",
+      "time": "2026-11-14 20:53:12",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【周小川：AI深刻改變資本市場人機分工格局 錨定三大目標引導其服務實體經濟】第十二屆全國政協副主席、中國人民銀行原行長、中國證監會原主席周小川11月14日在2026中國資本市場學術年會上表示，AI快速發展，深刻改變資本市場人機分工格局，未來AI或將實現遞推式自我改進（RSI），核心是設定好目標函式，錨定最佳化資源配置、管控風險（平衡股權與債券市場融資結構，強化股權資本損失吸收能力）、為投資者尤其是養老金提供合理回報三大目標，統籌協調政府、企業、居民等多方訴求，引導AI服務實體經濟。他認為，科技上市公司市值佔比持續提升，對映新質生產力發展，但傳統估值方法需要調整，流量、Token等新估值指標尚存爭議；AI投資集中於算力大模型、場景應用、底層配套三大方向，資金呈現向頭部集中的特徵。周小川還提到，預籌型養老金的規模越大，就越能體現長期性、耐心性、抗風險的特性，並能支援科技引領型經濟發展。在他看來，算力與通訊技術推高交易頻率，過高頻交易容易脫離基本面、放大正反饋和市場波動，可借鑑控制理論思路，透過調節盈利空間、資訊披露節奏、撮合機制等方式為市場設定“低通濾波器”。“新技術在帶來機遇的同時暗藏風險，資本市場制度與技術應用都要立足本源，更好服務實體經濟高質量發展。”周小川說。（上證報）"
+    },
+    {
+      "id": "5214479",
+      "time": "2026-11-14 20:49:35",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【義大利表示支援德國加入下一代戰鬥機專案】義大利週六表示，完全支援德國參與旨在研發下一代戰鬥機的“全球空戰計劃”（Global Combat Air Programme，簡稱GCAP），並駁斥了有關義大利曾試圖阻止德國加入的媒體報道。義大利政府在一份宣告中指出，此前關於義大利反對德國加入的報道“完全具有誤導性”，且不符合義大利一貫的立場。義大利表示，一直歡迎德國加入GCAP，並曾建議德國初期先以“觀察員”身份參與，以便促進資訊共享，並加快其成為正式成員的程序。義大利方面稱，這一提議旨在加速德國的參與，同時確保該計劃的時間表和進度不受影響，絕非為了限制德國未來的角色。宣告稱，在近期由該專案三個夥伴國參與的“全球作戰空中計劃”（GCAP）視訊會議上，義大利重申了其立場，並補充表示，義大利將德國的參與視為“一個積極的契機”。"
+    },
+    {
+      "id": "mkt:01a1da19-b240-7bbc-abe1-5cab9b1e2ab9",
+      "time": "2026-11-14 20:47:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【17 countries strongly condemn Israeli airstrike on Gaza hospital】Pakistan's foreign ministry said on Nov 14 that the foreign ministers of Pakistan, Egypt, Saudi Arabia, Turkey, Jordan, Qatar, the United Arab Emirates, Indonesia, the State of Palestine, Algeria, Mauritania, Sudan, Libya, Djibouti, Somalia, Lebanon and Oman condemned in the strongest terms Israel's airstrike on the Nasser Medical Center in Khan Younis, Gaza Strip."
+    },
+    {
+      "id": "5214478",
+      "time": "2026-11-14 20:47:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【17國強烈譴責以色列空襲加沙醫院】巴基斯坦外交部今天（11月14日）釋出宣告稱，巴基斯坦、埃及、沙烏地阿拉伯、土耳其、約旦、卡達、阿拉伯聯合大公國、印度尼西亞、巴勒斯坦國、阿爾及利亞、茅利塔尼亞、蘇丹、利比亞、吉布提、索馬利亞、黎巴嫩和阿曼等國外長以最強烈措辭譴責以色列對加沙地帶汗尤尼斯納賽爾醫療中心發動的空襲。此次襲擊造成患者和醫護人員傷亡，違反了國際人道主義法關於醫療設施和醫護人員應受到特殊保護的規定。各國外長還譴責以色列持續襲擊巴勒斯坦平民，包括對收容流離失所者的帳篷及其他避難場所實施打擊。這些襲擊破壞了停火協議以及恢復加沙安全與穩定的努力。 (CCTV國際時訊)"
+    },
+    {
+      "id": "mkt:01a1da19-712e-7bbc-abe1-513b24858f40",
+      "time": "2026-11-14 20:47:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan"
+      ],
+      "text": "【Chengdu tops autumn-holiday destinations】Chengdu ranked first in Meituan air-ticket bookings for travel dates Nov 14–20, becoming the most popular domestic choice for family autumn-holiday travel, Chengdu city release said."
+    },
+    {
+      "id": "5214477",
+      "time": "2026-11-14 20:44:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成都登頂秋假熱門目的地】 據成都發布，11月14日，記者從美團獲悉，在出行日期為11月14日至20日的機票訂單中，成都位列熱門目的地首位，成為全國親子家庭秋假出遊的熱門選擇。"
+    },
+    {
+      "id": "em:qqyh_ygyh:202611143931366273",
+      "time": "2026-11-14 20:36:49",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "【英國央行首席經濟學家：明年或需進一步加息 伊朗衝突結束可能性極低】英國央行首席經濟學家皮爾（HuwPill）在週六刊出的採訪中表示，為抑制通脹，英國央行除了12月下次會議加息之外，2027年可能需要進一步加息。“我的觀點是，我們將看到促使進一步加息的證據，”皮爾表示，“我們將採取必要措施，隨著時間的推移將通脹率降回2%。”"
+    },
+    {
+      "id": "5214476",
+      "time": "2026-11-14 20:34:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【人力資源社會保障部就中奧社保協定答記者問】\n問：中奧社保協定主要內容有哪些？\n答：中奧社保協定共19條，對解決中奧兩國在對方國家投資企業和就業人員雙重繳納社會保險費問題作出安排。\n一是明確雙方互免險種是養老保險和失業保險。對中方來說，包括職工基本養老保險和失業保險；對奧方來說，包括除公證人保險之外的養老保險和失業保險。\n二是明確雙方互免人群範圍。具體包括雙方在對方國家工作的派遣人員，在航海船舶上受僱人員，外交、領事機構人員和公務人員等，並對特定人員或人群規定了例外處理情形。\n三是明確協定的實施方式。雙方主管部門將根據中奧社保協定簽署行政協議，確定協定的實施機構，負責出具參保證明、處理資料交換等具體經辦事宜。\n問：下一步還將與哪些國家商籤社保協定？\n答：當前，我國加速融入全球產業鏈供應鏈，存量外資企業已經超過56萬家；對外投資合作業務規模不斷壯大，截至2025年底在境外共設立對外直接投資企業5.8萬家。隨著跨國企業規模不斷擴大，就業人員持續增多，與相關國家商籤社保協定的重要性不斷凸顯。下一步，我們將繼續推動與發達國家商籤工作，同時把商籤工作拓展到更多共建“一帶一路”發展中國家和周邊國家，促進我企業“走出去”和外資“引進來”，講好中國式現代化程序中的民生故事，推動我國經濟社會高質量發展。（新華社）"
+    },
+    {
+      "id": "5214475",
+      "time": "2026-11-14 20:32:38",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際",
+        "原創"
+      ],
+      "text": "【英國央行首席經濟學家：明年或需進一步加息，伊朗衝突結束可能性極低】英國央行首席經濟學家皮爾（Huw Pill）在週六刊出的採訪中表示，為抑制通脹，英國央行除了12月下次會議加息之外，2027年可能需要進一步加息。“我的觀點是，我們將看到促使進一步加息的證據，”皮爾表示，“我們將採取必要措施，隨著時間的推移將通脹率降回2%。”皮爾認為伊朗衝突結束以及能源價格下跌的“可能性極低”，暗示他下個月將投票支援再次加息25個基點。市場目前英國央行預計到2027年底將加息90個基點，這意味著2027年的利率可能接近5%。皮爾表示，這些預期“並不離譜”。"
+    },
+    {
+      "id": "mkt:01a1d9ff-8970-7bbc-abe1-4f354dcee541",
+      "time": "2026-11-14 20:19:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Italy's data protection authority fined Meta €805 million, alleging the company used Android users' photos and videos on its platforms without consent."
+    },
+    {
+      "id": "5214474",
+      "time": "2026-11-14 20:18:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Meta被義大利罰款8.05億歐元】義大利資料保護機構因Meta平臺涉嫌未經同意使用安卓使用者的影片和照片對其處以8.05億歐元罰款。"
+    },
+    {
+      "id": "5214472",
+      "time": "2026-11-14 20:17:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟今年截獲的非法入境人數下降近三成】歐盟機構歐洲邊境管理局13日釋出的資料顯示，今年前10個月，在歐盟邊境截獲的非法入境人數比去年同期下降29%，約為11萬人次。歐洲邊境管理局說，今年前10個月，在幾條主要的非法入境路線上，非法越境者均有所減少。歐盟委員會負責內政與移民事務的委員馬格努斯·布倫納將這一趨勢歸因於國際合作加強。（新華社）"
+    },
+    {
+      "id": "5214471",
+      "time": "2026-11-14 20:11:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：地中海航運公司（MSC）接近達成收購德國船廠Meyer Werft多數股權的協議。"
+    },
+    {
+      "id": "5214470",
+      "time": "2026-11-14 20:09:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2026年中國上市公司治理指數升幅較上年擴大】2026年中國上市公司治理指數14日在天津發布，中國上市公司綠色治理(ESG)指數同期釋出。結果顯示，治理指數平均值為65.22，較2025年的64.94提高0.28，升幅較上年擴大；ESG指數平均值為60.33，較2025年的59.1提升1.23。（中新網）"
+    },
+    {
+      "id": "5214469",
+      "time": "2026-11-14 20:08:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【復宏漢霖漢斯狀®納入國家醫保目錄】11月14日，國家醫保局公佈2026年新版國家醫保藥品目錄。復宏漢霖自主研發的創新抗PD-1單抗H藥漢斯狀®（斯魯利單抗注射液）首次進入國家醫保目錄，其在中國獲批上市的5項適應症全部納入，覆蓋肺癌、消化道腫瘤等核心治療領域。此外，另一款創新產品復妥寧®（枸櫞酸伏維西利膠囊）一線治療HR+/HER2-晚期乳腺癌適應症新增納入醫保。至此，復宏漢霖國內已上市的8款產品全部納入國家醫保目錄。"
+    },
+    {
+      "id": "mkt:01a1d9f1-13a8-7bbc-abe1-402f1551d83b",
+      "time": "2026-11-14 20:03:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: Iraqi Armed Forces General Command denied reports that Iraqi airspace would be closed for 72 hours."
+    },
+    {
+      "id": "5214468",
+      "time": "2026-11-14 20:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週大盤主力資金累計淨流入-790.33億元，半導體、通訊裝置板塊淨流入居前，個股寒武紀、源傑科技淨流入最多。"
+    },
+    {
+      "id": "5214467",
+      "time": "2026-11-14 19:58:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱攔截並摧毀一架美MQ1無人機】伊朗伊斯蘭革命衛隊表示，當地時間今天（11月14日）下午，一架美國MQ-1型無人機在格什姆島上空被伊朗伊斯蘭革命衛隊航空航天部隊的防空系統攔截並摧毀。（ CCTV國際時訊）"
+    },
+    {
+      "id": "5214466",
+      "time": "2026-11-14 19:54:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【本輪巴以衝突已致加沙地帶74695人死亡】當地時間14日，加沙地帶衛生部門發表宣告稱，在過去48小時內，加沙地帶各醫院共接收了16名死者和68名傷員。宣告表示，自去年10月11日停火協議生效以來，加沙地帶累計新增死亡人數已達1643人，另有5964人受傷；此外，救援人員在廢墟中累計尋獲850具遇難者遺體。自2023年10月7日新一輪巴以大規模衝突爆發以來，以軍在加沙地帶的軍事行動已累計造成74695人死亡、176093人受傷。"
+    },
+    {
+      "id": "5214465",
+      "time": "2026-11-14 19:47:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗國家天然氣公司稱今年的供應將“非常困難”】伊朗國家天然氣公司表示：“今年是天然氣供應的特殊且非常困難的一年，全國11個省份面臨天然氣供應緊張的局面。”據伊朗媒體報道，伊朗過去24小時天然氣日產量達到7.09億立方米，其中68%被居民、商業和小工業部門消耗。伊朗國家天然氣公司警告稱，馬贊德蘭省、戈勒斯坦省和北呼羅珊省等北部省份的供應緊張情況將更加普遍，敦促消費者將室內溫度降低一度。"
+    },
+    {
+      "id": "5214464",
+      "time": "2026-11-14 19:46:20",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【11月14日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【建設亞太共同體 促進共同繁榮】創新亞太 攜手同行； 2.持之以恆推進全面從嚴治黨 以高質量黨建引領企業高質量發展——習近平總書記對國有企業黨的建設工作作出重要指示引發熱烈反響； 3.李強出席泰國總理舉行的歡迎儀式； 4.李強同泰國總理會談； 5.李強會見泰國國會主席兼下議長； 6.【學習貫徹黨的二十屆五中全會精神】中央宣講團在各地宣講黨的二十屆五中全會精神； 7.政策發力顯效 多項先行指標持續改善； 8.2026年APEC領導人會議周活動逐步升溫； 9.【數說APEC】APEC進口農產品豐富中國餐桌； 10.國內聯播快訊： （1）國家防總辦公室安排部署2026—2027年度凌汛期防凌工作； （2）2026年版國家基本醫保藥品目錄釋出 新增107種藥品； （3）《汽車改裝管理辦法》公開徵求意見； （4）我國10噸級電動商用飛機完成首次有人駕駛智慧飛行； （5）川青鐵路紅原2號隧道順利貫通； 11.推動亞太共同體建設邁上新臺階——國際人士期待習近平主席出席亞太經合組織第三十三次領導人非正式會議及相關活動； 12.國際聯播快訊： （1）俄稱擴大烏問題談判取決於歐洲真實意願； （2）空管通訊出故障 全美航班停飛超4小時； （3）土耳其與卡達簽署共同防禦協議。"
+    },
+    {
+      "id": "5214463",
+      "time": "2026-11-14 19:41:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱烏克蘭加入北約話題已“重回議程”】據烏克蘭國家通訊社14日報道，烏總統澤連斯基當天對記者表示，美國方面曾詢問烏克蘭是否願意放棄頓巴斯地區以換取北約成員國資格。 澤連斯基重申，烏克蘭不會撤退，也不會放棄領土。如果夥伴國給出北約和歐盟對烏克蘭的安全保障具體方案，他將就此徵詢烏克蘭公民的意見。澤連斯基表示，他認為烏克蘭加入北約的話題已經“重新回到議程”。 澤連斯基還說，打算盡一切可能確保美國新一屆國會透過一項足夠強有力的對俄製裁和對烏武器援助方案，迫使俄羅斯採取“切實可行的措施”結束戰爭。（新華社）"
+    },
+    {
+      "id": "mkt:01a1d9d8-2f45-7bbc-abe1-3d076f169a9f",
+      "time": "2026-11-14 19:36:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Nikkei 225",
+        "CSI300"
+      ],
+      "text": "【Goldman Sachs upgrades China H-shares to overweight】Goldman Sachs projects MSCI Asia ex-Japan will return 19% in USD next year, saying corporate earnings growth should drive gains despite potential AI-driven volatility. The bank raised China H-shares and India to overweight and maintained overweight on Korea and Japan."
+    },
+    {
+      "id": "mkt:01a1d9d7-39ba-7bbc-abe1-3759424c0b53",
+      "time": "2026-11-14 19:35:23",
+      "tags": [
+        "MKT News",
+        "NOC.O",
+        "Impact bullish"
+      ],
+      "text": "On Nov. 13 the U.S. Air Force and Northrop Grumman said the next-generation stealth strategic bomber B-21 completed a weapons-release test the previous week, successfully releasing conventional munitions."
+    },
+    {
+      "id": "5214462",
+      "time": "2026-11-14 19:28:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美新型轟炸機B-21研製迎來重要里程碑，完成首次武器投放試驗】美國空軍和諾斯羅普·格魯曼公司11月13日對外發布訊息稱，新一代隱身戰略轟炸機B-21在此前一週完成了一次武器投放試驗，成功投放常規武器。（澎湃新聞）"
+    },
+    {
+      "id": "5214461",
+      "time": "2026-11-14 19:23:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普據悉曾就打擊伊朗徵詢沙特王儲和土耳其總統意見】據一位美國高階官員及另一位知情人士透露，在過去兩週的通話中，特朗普曾徵詢沙特王儲穆罕默德·本·薩勒曼和土耳其總統埃爾多安的意見；兩人均敦促他不要對伊朗發動攻擊。據稱，特朗普並未就此做出任何明確表態。另有兩位知情人士表示，10月31日，特朗普曾向本·薩勒曼透露他計劃在選舉後採取攻擊行動，但王儲懇請他暫緩行動，並指出針對伊朗的經濟制裁已見成效。據土耳其總統府稱，自10月28日以來，特朗普已與埃爾多安進行了三次通話。在11月7日通話的官方通報中，特別強調了伊朗與美國之間的緊張局勢必須結束。據兩名獲悉相關情報的美國官員透露，美國情報機構評估認為，美國的海上封鎖和經濟制裁正在損害伊朗經濟，並將繼續對德黑蘭施加壓力。"
+    },
+    {
+      "id": "mkt:01a1d9c8-9d95-7bbc-abe1-2c21cef663fa",
+      "time": "2026-11-14 19:19:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. military readies escalation; third aircraft carrier headed to Middle East as Trump retains option to strike Iran’s underground nuclear sites】Despite consideration of a delay, the U.S. military is prepared to escalate if necessary. A third aircraft carrier is due to enter the Middle East in coming days to replace one of two currently deployed; all three carriers could remain in the region simultaneously if required. Trump retains the option to strike Iran’s underground nuclear facilities; previous strikes have hit those sites and the effectiveness of further attacks is unclear. U.S. intelligence assesses renewed strikes would not significantly change Iran’s negotiating demands."
+    },
+    {
+      "id": "mkt:01a1d9c6-d860-7bbc-abe1-2384ada26535",
+      "time": "2026-11-14 19:17:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump may delay strikes on Iran unless new provocations, Refinitiv sources say】Refinitiv, citing three people, reports Trump told senior advisers he may postpone military strikes on Iran if Iran and Iran-backed Houthi forces in Yemen do not carry out new provocative actions. He has been weighing escalation against winding down operations and has not decided on a course. After meetings with his national security adviser and a series of intelligence briefings, Trump said he was considering a delay and signalled some alignment with regional allies urging avoidance of a wider war."
+    },
+    {
+      "id": "5214458",
+      "time": "2026-11-14 19:17:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大連市長姚華明率團在寧波蘇州開展經貿交流活動】據大連發布，11月13日、14日，市委副書記、市長姚華明率市代表團在浙江省寧波市、江蘇省蘇州市開展經貿交流活動，參觀考察重點企業、精準對接優質資源，高效洽談合作事宜、推動產業強鏈補鏈，為經濟高質量發展深化產業合作、積蓄創新動能。"
+    },
+    {
+      "id": "5214457",
+      "time": "2026-11-14 19:16:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：巴基斯坦將參加在印度新德里舉行的上海合作組織文明對話。"
+    },
+    {
+      "id": "5214456",
+      "time": "2026-11-14 19:14:40",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛預計2027年日本以外亞洲股市回報率將達19%】高盛集團預計，儘管人工智慧（AI）領域的不確定性可能加劇市場波動，但企業盈利增長仍將推動MSCI日本以外亞洲指數（MSCI Asia ex-Japan Index）明年以美元計價實現19%的回報率。該行將中國H股和印度股市的評級上調至“超配”，維持對韓國和日本股市的“超配”觀點。"
+    },
+    {
+      "id": "5214455",
+      "time": "2026-11-14 19:13:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿斯利康：泰適卓®首次被納入基本醫保藥品目錄】11月14日，阿斯利康宣佈，呼吸領域創新生物製劑泰適卓®（英文商品名：Tezspire®，通用名：特澤利尤單抗注射液）首次被納入國家基本醫保藥品目錄。2026年3月，特澤利尤單抗在華獲批，同年8月正式上市，用於成人和12歲及以上青少年重度哮喘的維持治療，以及與鼻用糖皮質激素聯合使用，治療系統性糖皮質激素和/或手術治療無法充分控制疾病的慢性鼻竇炎伴鼻息肉（CRSwNP）成人患者。"
+    },
+    {
+      "id": "mkt:01a1d9c0-6b80-7bbc-abe1-1ceaada38b1c",
+      "time": "2026-11-14 19:10:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Indonesia president orders state to receive at least 70% of mining-license revenues; state may take controlling stakes】President Prabowo Subianto ordered that the state receive a larger share of proceeds from mining licenses, stating at least 70% of such revenues should belong to the state and that the state should take controlling stakes in mining assets if necessary. The presidential office clarified the 70% target refers to revenues from mining-license operations; Prabowo said Indonesia welcomes investors but profits must primarily accrue to the Indonesian people."
+    },
+    {
+      "id": "5214454",
+      "time": "2026-11-14 19:10:20",
+      "tags": [
+        "焦點",
+        "國際",
+        "原創"
+      ],
+      "text": "【特朗普據悉考慮暫緩對伊朗軍事打擊】據知情人士透露，美國總統唐納德·特朗普近日向高階顧問表示，如果美國未受到來自伊朗或葉門胡塞武裝的任何新挑釁，他可能會暫緩對伊朗採取軍事打擊。特朗普在“透過新一輪打擊升級戰事”與“緩和敵對狀態”這兩種立場之間搖擺不定。據現任及前任官員稱，對於如何解決這場並不受民眾歡迎的衝突，特朗普似乎尚未拿定主意。這些知情人士表示，在與國家安全顧問的會議上，以及在聽取了一系列情報簡報後，特朗普稱他正在考慮暫緩實施打擊。他還對該地區的一些盟友表達了同情；這些盟友曾請求他不要讓局勢重回全面戰爭的狀態。"
+    },
+    {
+      "id": "5214453",
+      "time": "2026-11-14 19:03:15",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【印尼總統下令提高國家在礦業收益中的分成比例】印尼總統普拉博沃·蘇比延多週六表示，國家應從各類採礦許可中獲取更大份額的收益；如有必要，還應在礦業資產中持有控股權。他在向印尼最大的伊斯蘭組織之一Muhammadiyah的成員發表演講時稱：“從現在起，所有采礦許可所帶來的收益，至少要有70%歸國家所有。必要時，應由國家對這些資產實施控股。”印尼總統府隨後發表宣告澄清，總統所提到的“70%”是指採礦許可經營所產生的收益。普拉博沃在演講中補充道，印尼歡迎礦業領域的投資者，但“利潤必須主要歸印尼人民所有”。"
+    },
+    {
+      "id": "5214452",
+      "time": "2026-11-14 19:01:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，特朗普最近幾天告訴他的高階顧問，除非伊朗再次挑釁，否則他可能會推遲對伊朗的攻擊。"
+    },
+    {
+      "id": "5214451",
+      "time": "2026-11-14 18:59:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱又有一艘油輪在霍爾木茲海峽觸雷起火】當地時間14日，伊朗海軍稱，當天清晨，又有一艘油輪在霍爾木茲海峽以東的限制區域內觸雷起火。14日早些時候，伊朗海軍表示，當天清晨，一艘油輪在霍爾木茲海峽以東觸碰水雷並起火。伊朗方面表示，該油輪此前曾無視警告，在關閉追蹤與識別系統的情況下，擅自航行至霍爾木茲海峽以東的一處不安全禁區。隨後，該油輪觸碰水雷，起火後被迫停航。（央視新聞）"
+    },
+    {
+      "id": "5214450",
+      "time": "2026-11-14 18:59:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【劉海星：中方將始終做中東和平的建設者、穩定的促進者、發展的貢獻者】以“百年變局下的中阿命運共同體建設：政黨的責任與使命”為主題的第五屆中國—阿拉伯國家政黨對話會13日至14日在江蘇省蘇州市舉行。中聯部部長劉海星在主旨講話中表示，中方將始終做中東和平的建設者、穩定的促進者、發展的貢獻者。（中新網）"
+    },
+    {
+      "id": "mkt:01a1d9b2-a546-7bbc-abe1-17f7cee491fa",
+      "time": "2026-11-14 18:55:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BIDU.O"
+      ],
+      "text": "【Robin Li: AI’s next act is ‘intelligent organizations’; outlines three principles for redesign】At the Baidu World 2026 opening on Nov. 12, Baidu founder Robin Li said AI’s next phase will be intelligent organizations and urged firms to redesign organizational structures like factories, outlining three market-relevant principles. First, break job boundaries and move from industrial-era job units to task networks; roles will not disappear but compress into two types — Builders (create new products/services) and Sellers (connect people and communications). Second, convert tacit knowledge into explicit, platform-stored organizational intelligence that can be accumulated and reused — the company’s deepest moat, he said. Third, design measurable closed-loop processes to enable autonomous organizational evolution, summarized by his formula: measurable + looping = continuous evolution."
+    },
+    {
+      "id": "mkt:01a1d9a7-8be8-7bbc-abe1-0e6cd3bd9c56",
+      "time": "2026-11-14 18:43:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios, citing FlightAware, reports that as of 5:15 a.m. ET Saturday nearly 3,300 U.S. domestic, inbound and outbound flights had been canceled and nearly 1,000 were delayed."
+    },
+    {
+      "id": "mkt:01a1d9a4-5eb1-7bbc-abe1-061cbd4ddd4e",
+      "time": "2026-11-14 18:39:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PAHO no longer recognizes U.S. as measles-free】U.S. media on the 13th reported the Pan American Health Organization has decided not to recognize the U.S. as measles-free, citing people familiar with the matter in the Wall Street Journal and CNN. PAHO is the World Health Organization’s regional body. WHO requires at least 12 consecutive months without local transmission of the same measles strain to confer measles-free status. The U.S. declared measles eliminated in 2000; since 2025 U.S. measles cases have exceeded the cumulative total recorded from 2000–2024."
+    },
+    {
+      "id": "mkt:01a1d9a3-3776-7bbc-abe0-fca00fd6508e",
+      "time": "2026-11-14 18:38:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan foreign minister said the Economic Cooperation Organization (ECO) Council of Foreign Ministers meeting will be held in Islamabad on Nov. 15-16, 2026."
+    },
+    {
+      "id": "5214449",
+      "time": "2026-11-14 18:32:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：泛美衛生組織不再認定美國是無麻疹國家 】美國媒體13日報道，泛美衛生組織已經決定不再把美國認定為無麻疹國家。美國《華爾街日報》和有線電視新聞網（CNN）分別援引知情人士的話報道這一訊息。泛美衛生組織是世界衛生組織的地區性機構。一個國家或地區要被世衛組織認定為無麻疹狀態，必須連續12個月以上沒有出現同一毒株的本地傳播病例。美國於2000年宣佈消除麻疹。但自2025年以來，美國麻疹病例數已超過2000年至2024年這25年間的病例總和。（新華社）"
+    },
+    {
+      "id": "5214448",
+      "time": "2026-11-14 18:30:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "Meta暗盤突破640美元，日內漲1.6%。"
+    },
+    {
+      "id": "5214447",
+      "time": "2026-11-14 18:29:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西成鐵路紅原2號隧道順利貫通】11月14日9時許，隨著最後一次爆破，西寧至成都鐵路全線控制性工程——紅原2號隧道順利貫通，為全線按期通車奠定堅實基礎。"
+    },
+    {
+      "id": "5214446",
+      "time": "2026-11-14 18:26:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿聯酋發生重大交通事故造成多人傷亡，我領館：尚未收到有中國公民傷亡報告】11月12日，阿聯酋富查伊拉酋長國境內發生一起重大交通事故，造成多人傷亡。經向阿方有關部門核實，截至目前，尚未收到本次事故中有中國公民傷亡的報告。（中國駐迪拜總領事館 ）"
+    },
+    {
+      "id": "5214445",
+      "time": "2026-11-14 18:26:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗海軍：今天早上，另一艘違規油輪在霍爾木茲海峽東部限制區域起火，據報系因與海軍水雷相撞所致。霍爾木茲海峽東部由伊朗海軍完全控制和監視。關閉跟蹤系統並在限制區域作業的違規船隻的命運就是起火和爆炸。"
+    },
+    {
+      "id": "mkt:01a1d994-e1f4-7bbc-abe0-f69003606397",
+      "time": "2026-11-14 18:22:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukraine said it attacked an oil pipeline pumping station in Russia's Samara region."
+    },
+    {
+      "id": "mkt:01a1d994-619b-7bbc-abe0-eeec8703c957",
+      "time": "2026-11-14 18:22:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Iranian navy said an oil tanker struck a mine and caught fire in restricted waters east of the Strait of Hormuz, the second such incident reported today."
+    },
+    {
+      "id": "5214444",
+      "time": "2026-11-14 18:22:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭稱襲擊了俄羅斯薩馬拉地區的一處輸油泵站。"
+    },
+    {
+      "id": "mkt:01a1d991-00b8-7bbc-abe0-e06081a4ef4b",
+      "time": "2026-11-14 18:18:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China capital market academic conference opens in Shanghai; Zhou Xiaochuan speaks, CSRC chair sets research agenda】Shanghai, Nov 14, 2026 — The 2026 China Capital Market Academic Conference opened in Shanghai. Zhou Xiaochuan, vice chairman of the 12th CPPCC, delivered the opening address. CSRC chairman Wu Qing, with remarks from Shanghai mayor Zhu Zhongming, outlined research priorities to underpin capital-market reform, development and stability. Wu said after 36 years China’s capital market has become globally influential and urged deeper study of: market development characteristics; long-term market-stability mechanisms; institutional inclusivity and adaptability; AI–capital market two-way empowerment; market microstructure; and China’s role in global financial governance. He called for tighter integration of frontier and foundational research, academic and policy work, and traditional and new research paradigms to inform high-quality reform and policy-making."
+    },
+    {
+      "id": "5214443",
+      "time": "2026-11-14 18:17:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Vera Wang就拖欠押金致歉】11月14日，婚紗品牌Vera Wang相關方就近期被曝拖欠押金等問題釋出致歉宣告。宣告方是Vera Wang HAUTE婚紗在中國大陸的獨立授權合作方TopshelfFashion Group，其表示對此高度重視，已直接對接受影響顧客。目前，所有超出商定退款時限的押金均已退還；其餘相關未到商定退款時限的押金，將與顧客協商按計劃完成退款。"
+    },
+    {
+      "id": "5214442",
+      "time": "2026-11-14 18:15:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【2026年中國資本市場學術年會在滬開幕，周小川作開幕演講，吳清朱忠明致辭】2026年中國資本市場學術年會今天（11月14日）在上海開幕。第十二屆全國政協副主席周小川出席並作開幕演講。中國證監會主席、中國資本市場學會會長吳清，上海市市長朱忠明致辭。周小川指出，資本市場對經濟發展具有重要作用，資本市場健康發展需要加強學術研究和交流討論。當前高科技發展對資本市場可能帶來多種演進的路徑和未知的挑戰，要適應科技創新規律，發揮好人工智慧的重要輔助作用。加強對科技股估值定價以及相關的耐心資本、風險資本培育問題的研究，充分發揮養老金等作為長期資金的作用。加強高科技發展對資本市場交易頻率特性的影響研究，進而更好發揮資本市場功能作用，更好服務高質量發展。吳清指出，經過36年的發展，中國資本市場已逐步發展成為具有全球影響力的重要市場。當前，國際形勢風雲激盪，人工智慧奔湧而來，中國式現代化全面提速，新形勢下推進資本市場改革發展穩定，需要進一步深化中國資本市場發展特點規律、市場穩定長效機制、制度包容性適應性、人工智慧與資本市場雙向賦能、市場微觀結構、資本市場參與全球金融治理等重大理論和實踐問題研究。為此，建議加強前沿動態研究與基礎理論研究融合、學術研究與政策實務研究融合、傳統研究與新研究正規化融合，以高質量研究回答好資本市場時代課題，為全球資本市場改革發展貢獻更多學術力量和中國智慧。朱忠明指出，上海肩負建設國際金融中心的重要使命，近年來著力推進資本市場功能建設和改革開放，國際金融中心能級顯著提升。站在“十五五”新徵程上，我們將全力配合中國證監會加強資本市場建設，完善投資和融資相協調的資本市場功能，提升資本市場服務實體經濟質效，增強資本市場發展活力和安全韌性，推動上海資本市場規模合理增長、結構質量持續改善，加快基本建成人民幣資產全球配置中心、風險管理中心，不斷增強上海國際金融中心競爭力和影響力。期待海內外嘉賓分享真知灼見，幫助我們深化對資本市場高質量發展的認識，為上海國際金融中心建設提出寶貴意見建議。（上觀新聞）"
+    },
+    {
+      "id": "mkt:01a1d987-cb49-7bbc-abe0-d8f121a34618",
+      "time": "2026-11-14 18:08:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's Vice Premier He Lifeng attends opening of APEC Business Advisory Council fourth meeting in Shenzhen】China's Vice Premier He Lifeng attended the opening of the APEC Business Advisory Council's fourth meeting in Shenzhen on Nov. 14 and said the 33rd APEC leaders' informal meeting will be held in Shenzhen soon. He urged the council to promote cooperation, innovation and connectivity to advance APEC toward an Asia‑Pacific community, and met business advisory delegates to discuss deepening regional economic and trade cooperation."
+    },
+    {
+      "id": "5214441",
+      "time": "2026-11-14 18:05:32",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【何立峰出席亞太經合組織工商諮詢理事會第四次會議開幕式並致辭】11月14日，中共中央政治局委員、國務院副總理何立峰在深圳出席亞太經合組織（APEC）工商諮詢理事會第四次會議開幕式並致辭。何立峰指出，亞太經合組織第三十三次領導人非正式會議即將在深圳舉行，為亞太合作明確方向、凝聚力量。希望工商諮詢理事會繼續發揚開拓進取、開放創新的企業家精神，推動APEC向著構建亞太共同體目標再啟航，為亞太區域協同合作、創新發展、互聯互通做出新的貢獻。出席會議期間，何立峰還會見了工商諮詢理事會部分代表，就深化亞太地區經貿合作等相關問題交換意見。 (新華社)"
+    },
+    {
+      "id": "5214440",
+      "time": "2026-11-14 18:04:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蒙商銀行股份有限公司原黨委副書記廉斌被“雙開”】據內蒙古自治區紀委監委訊息：經內蒙古自治區黨委批准，內蒙古自治區紀委監委對蒙商銀行股份有限公司原黨委副書記、工會主席、董事廉斌嚴重違紀違法問題進行了立案審查調查。 經查，廉斌喪失理想信念，背棄初心使命，無視中央八項規定精神，收受可能影響公正執行公務的禮品，接受可能影響公正執行公務的宴請；違反組織原則，不按規定報告個人有關事項，在幹部工作調動、職務晉升中違規為他人謀取利益並收受財物；廉潔底線失守，收受可能影響公正執行公務的禮金，借用管理和服務物件錢款；利用職務便利為他人在貸款和承兌匯票辦理、職務調整等方面謀利，並非法收受財物；違反國家規定發放貸款，數額巨大。 廉斌嚴重違反黨的組織紀律、廉潔紀律，構成嚴重職務違法並涉嫌受賄、違法發放貸款犯罪，且在黨的十八大後不收斂、不收手，特別是黨的二十大後仍不知止，性質嚴重、影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經內蒙古自治區紀委常委會會議研究並報內蒙古自治區黨委批准，決定給予廉斌開除黨籍處分；由內蒙古自治區監委給予其開除公職處分；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
+    },
+    {
+      "id": "mkt:01a1d97f-df4b-7bbc-abe0-d3544fb6394f",
+      "time": "2026-11-14 17:59:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "The IAEA said military operations have destabilized the grid, causing some Ukrainian nuclear units to lose power this week."
+    },
+    {
+      "id": "mkt:01a1d97f-c369-7bbc-abe0-cc4b3d1c5837",
+      "time": "2026-11-14 17:59:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【W5000 unmanned cargo aircraft completes test flight; all 220,000 components domestically produced】A Changzhou (Jiangsu) developer completed a test flight of the W5000 large unmanned cargo aircraft in Ordos, Inner Mongolia. The developer says the W5000 has a max payload of 5 t, empty weight 5.8 t, cargo volume >65 m3, and a max range of 2,600 km; it is compatible with standard air cargo containers and targeted at regional logistics, cold-chain and emergency transport as a low-cost feeder solution. All ~220,000 components are domestically produced. The W5000 has 835 indicative orders from domestic logistics firms and is expected to begin commercial operations by end-2027."
+    },
+    {
+      "id": "5214439",
+      "time": "2026-11-14 17:59:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際原子能機構：軍事活動導致電網不穩定，本週烏克蘭核電站部分執行機組因此降功率執行。"
+    },
+    {
+      "id": "5214438",
+      "time": "2026-11-14 17:57:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【證監會接收！六家頭部公募集體申報，“A500”拼圖將補齊】寬基指數的風格細分佈局又邁出關鍵一步。11月13日，易方達基金、華夏基金、國泰基金、廣發基金、招商基金、博時基金等頭部公募扎堆上報的中證A500成長ETF，申報材料已獲證監會接收。這一批新產品，是市場在中證A500基礎寬基之上，專門為成長風格打造的指數工具，補齊了A500系列的成長拼圖。（券商中國）"
+    },
+    {
+      "id": "mkt:01a1d97c-9a5c-7bbc-abe0-c6d6cceafba4",
+      "time": "2026-11-14 17:56:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Zelenskiy says U.S. suggested ceding Donbas in exchange for NATO membership】Xinhua reported on the 14th that Ukrainian President Zelenskiy told reporters U.S. officials had suggested Ukraine cede the Donbas region in return for a path to NATO membership."
+    },
+    {
+      "id": "5214437",
+      "time": "2026-11-14 17:54:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【整機22萬個零部件全部國產化 大型無人貨運飛機W5000試飛成功】今天，江蘇常州研發製造的大型無人貨運飛機W5000，在內蒙古鄂爾多斯順利完成試飛。該飛機最大載重5噸，最遠可飛2600公里，整機22萬個零部件全部國產化。作為大型支線物流無人機，W5000最大的優勢是“裝得多、飛得遠、成本低”。它機身自重5.8噸，最大載重達5噸，貨艙容積超65立方米，最遠航程2600公里，相容多種標準航空貨箱，可滿足區域物流、冷鏈運輸及應急保障等需求。截至目前，W5000意向訂單已達835架，客戶覆蓋國內多家物流企業，預計於2027年底正式投入商業運營。（央視新聞）"
+    },
+    {
+      "id": "5214436",
+      "time": "2026-11-14 17:52:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度將向義大利Elettra 2.0專案投資逾700萬歐元。"
+    },
+    {
+      "id": "5214435",
+      "time": "2026-11-14 17:47:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國泰晤士水務的債權人提議設立7500萬英鎊的社會基金。"
+    },
+    {
+      "id": "5214434",
+      "time": "2026-11-14 17:46:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：美國建議烏克蘭割讓領土以換取加入北約】據烏克蘭國家通訊社14日報道，烏克蘭總統澤連斯基當天對記者表示，美方曾提出讓烏克蘭放棄頓巴斯地區，以換取北約成員國的資格。（新華社）"
+    },
+    {
+      "id": "5214433",
+      "time": "2026-11-14 17:43:05",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【澤連斯基稱美國提出以讓烏克蘭加入北約來換取其放棄頓巴斯地區】烏克蘭總統澤連斯基表示，美國特使曾詢問烏克蘭是否願意將東部的頓巴斯地區讓給俄羅斯，以此換取加入北約的機會；這表明華盛頓的談判策略可能發生了轉變。“這是首次提出這一問題，”澤連斯基在基輔對記者表示，“我們正與合作伙伴討論一項全面的安全方案，該方案或許能在談判中提供給我們。”澤連斯基表示，美方提出的方案包括：來自北約和歐盟的具體安全保障；一支強大的烏克蘭軍隊（即在特定期限內擁有充足的兵力、武器和財政支援）；以及一項有明確資金來源保障的重建計劃。“如果美方——連同其他北約夥伴——能向我們明確確認這些內容，那麼我會去徵詢烏克蘭民眾的意見：我們是否接受？”澤連斯基說道，“我無權獨自做出這一決定。”"
+    },
+    {
+      "id": "5214432",
+      "time": "2026-11-14 17:41:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞普生物與魯西規模化蛋雞客戶開展深度交流】據瑞普生物公眾號，11月14日，來自魯西區域的規模化蛋雞養殖企業負責人及技術骨幹一行走進瑞普生物天津總部，圍繞蛋雞產業生態轉型、疫病流行動態與精準防控、疫苗工藝與方案落地等議題開展深度交流。雙方就產業協同、技術賦能、服務共建等方向達成多項共識，為後續深化合作奠定基礎。"
+    },
+    {
+      "id": "mkt:01a1d96e-bd61-7bbc-abe0-b8dcfdf5bbcd",
+      "time": "2026-11-14 17:41:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Zelenskiy said Putin's latest security demands are dangerous."
+    },
+    {
+      "id": "mkt:01a1d96c-c212-7bbc-abe0-b0b96346cda8",
+      "time": "2026-11-14 17:39:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukrainian President Zelenskiy said Russia is betting everything on a winter military offensive."
+    },
+    {
+      "id": "mkt:01a1d96b-126f-7bbc-abe0-abe48b064f0f",
+      "time": "2026-11-14 17:37:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yu Donglai says Pangdonglai operations will never be perfect, urges patience on unsettled disputes】Nov 14 — Yu Donglai posted on his personal social account saying Pangdonglai’s operations will never be perfect and that any problems will be dealt with rationally and scientifically under the company’s culture. He said the priority is enabling people to live sincerely, kindly and happily, that improvement requires time, and urged people to focus on positive matters rather than disputing differences of understanding, leaving unclear issues to time."
+    },
+    {
+      "id": "5214431",
+      "time": "2026-11-14 17:35:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【於東來稱胖東來經營永遠不會完美，理論不清的事情交給時間】11月14日，於東來在個人社交賬號上發文稱，“胖東來的經營永遠不會完美，任何事情都不會完美，因為堅定愛的文化，所以出現任何問題都會努力地理性科學地處理得更美，這是胖東來的文化決定的！”他還表示，“因為希望更多的人們能真誠友善幸福的生活，這才是最重要的，這是需要時間的，未來也一定會越來越好。”隨後他再次發文稱，“大家把時間用在快樂的人和事情上面、不要因為認知差異而過度爭執、理論不清的事情交給時間、因為時間會給最好的答案！”"
+    },
+    {
+      "id": "mkt:01a1d966-efd3-7bbc-abe0-a3b2486a6841",
+      "time": "2026-11-14 17:32:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says four tankers struck mines and caught fire in Strait of Hormuz】Iran’s Islamic Revolutionary Guard Corps (IRGC) said on the 14th that at least four oil tankers struck mines and caught fire within hours in the Strait of Hormuz. The IRGC said one was a supertanker that had switched off identification systems and entered an illegal route inside a restricted area east of the Strait before striking a mine and catching fire. The IRGC warned any vessel entering the illegal route would face the same fate and accused the shipowners of trusting US statements and effectively sending their assets into flames."
+    },
+    {
+      "id": "5214430",
+      "time": "2026-11-14 17:30:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【共和黨中期選舉大敗後，魯比奧承認美國民眾“過得艱難”】據美聯社11月13日報道，美國國務卿魯比奧13日晚間向保守派發表長篇講話。他承認，當下美國民眾正飽受經濟壓力，同時猛烈抨擊所謂將國際法“武器化”的做法，稱其目的是束縛美國，讓美國無法依照自身利益採取行動。 報道稱，他在保守派組織聯邦主義者協會的這番發言，觸及本次中期選舉的核心痛點，即民生經濟困境。正是這一點，讓選民把大量選票投給對手，致使魯比奧所屬的共和黨遭遇重挫。 魯比奧說：“我認為我們必須承認民眾日子過得艱難，這一點毋庸置疑。” 魯比奧為伊朗戰爭辯護，稱這場戰爭是為阻止伊朗獲得核武器所必需的。不過他也承認，這場不得人心的衝突推高了美國的汽油價格以及一系列相關開支。（參考訊息）"
+    },
+    {
+      "id": "5214429",
+      "time": "2026-11-14 17:25:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【空軍多型戰機試飛員將亮相第十六屆中國航展】人民空軍14日組織試飛員代表走進清華大學宣講，記者在現場獲悉，空軍多型戰機試飛員將亮相第十六屆中國航展，全方位展現新時代空軍試飛隊伍的風采。（新華社）"
+    },
+    {
+      "id": "5214428",
+      "time": "2026-11-14 17:24:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國通報134起商船襲擊事件】據聯合國官網訊息，聯合國助理秘書長希阿里13日在安理會通報中東局勢時指出，10月，針對商船襲擊事件的數量創下自今年2月以來的月度最高紀錄。截至11月11日，國際海事組織記錄到霍爾木茲海峽及更廣泛中東海域發生134起商船襲擊事件，造成25名海員死亡，多人受傷或下落不明。 希阿里強調，霍爾木茲海峽、曼德海峽及其周邊地區局勢持續緊張，對國際和平與安全、地區穩定和全球經濟構成嚴重風險；呼籲各方立即停止襲擊民用船舶，恢復航行自由，透過外交途徑尋求和平解決方案。（中新社）"
+    },
+    {
+      "id": "5214427",
+      "time": "2026-11-14 17:23:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗通報4艘油輪觸雷起火】伊朗伊斯蘭革命衛隊14日通報稱，幾小時內，至少有4艘油輪在霍爾木茲海峽觸雷起火。上述油輪包括一艘超級油輪，其“無視警告，關閉識別系統後駛入非法航道”，在霍爾木茲海峽以東的限制區域內觸雷起火。 伊方再次強調，任何駛入非法航道的船隻將“面臨同樣命運”，並批評涉事船主沒有吸取教訓，而是相信美方言論，將其資產“送入火焰中”。（中新社）"
+    },
+    {
+      "id": "5214426",
+      "time": "2026-11-14 17:19:18",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【美團：本週末迎來秋假出行小高峰 親子門票預訂量同比增長72%】11月14日，美團釋出資料顯示，本週末（11月14日至15日）迎來秋假集中出行小高峰。出行日期為11月14日至15日的“一大一小”“兩大一小”等親子門票預訂量同比增長72%；從遊玩選擇看，樂園和動物園是近期秋假出行的熱門遊玩場景，其中樂園佔平臺親子相關玩法訂單的64%。"
+    },
+    {
+      "id": "5214425",
+      "time": "2026-11-14 17:14:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【傅藏榮任寧德市人民政府副市長、代理市長】據福建釋出，11月14日，寧德市第五屆人民代表大會常務委員會第四十次會議透過，任命傅藏榮為寧德市人民政府副市長、代理寧德市人民政府市長職務。"
+    },
+    {
+      "id": "5214424",
+      "time": "2026-11-14 17:13:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【先聲藥業依達拉奉右莰醇舌下片首次納入國家醫保目錄】11月14日，2026版國家醫保目錄公佈。先聲藥業腦卒中創新藥依達拉奉右莰醇舌下片首次納入國家醫保目錄。依達拉奉右莰醇注射用濃溶液完成第三次醫保續約，降價幅度12%。"
+    },
+    {
+      "id": "5214423",
+      "time": "2026-11-14 17:13:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Vera Wang婚紗中國內地代理商被曝“拖欠押金退款”後，門店已退還所有超時押金】據報道，近期多位消費者在Vera Wang婚紗門店遭遇押金退款難題。11月14日，Vera Wang婚紗中國內地代理商Topshelf Fashion Group回應稱，該事件對應的是其合作的多品牌婚紗零售業務Nora's Bridals，代理商方面已直接對接受影響顧客，目前所有超出商定退款時限的押金均已退還，其餘相關未到商定退款時限的押金，將與顧客協商按計劃完成退款。Topshelf Fashion Group同時表示，正在覆盤並完善內部流程，確保顧客訴求能夠得到及時、妥善的處理。（介面新聞）"
+    },
+    {
+      "id": "mkt:01a1d954-4e6a-7bbc-abe0-9e469e85e95d",
+      "time": "2026-11-14 17:12:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's Li, Thai PM Anutin attend China-Thailand business forum in Bangkok】Nov 14 — China's Li and Thai Prime Minister Anutin attended a China‑Thailand entrepreneurs' forum in Bangkok. Li said bilateral high-level trust and close leadership communication provide a stable, predictable environment for investment and long-term planning. He noted physical connectivity is strengthening — China‑Thailand railway construction is progressing steadily and the Pinglu Canal has opened to navigation — while trade rules, standards and financial \"soft connectivity\" are being bolstered to facilitate smoother market integration. Li said economic cooperation is extending from traditional sectors into high-tech and emerging industries, with new business models and investment opportunities for firms."
+    },
+    {
+      "id": "5214422",
+      "time": "2026-11-14 17:12:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【近六年我國顛覆性技術產業化指數累計增幅超五成】在13日至14日天津舉辦的2026企業科技創新發展論壇上，《顛覆性技術產業化指數報告（2026）》釋出。報告顯示，2020-2025年，我國顛覆性技術產業化指數從基準值100穩步攀升至158.63，累計增幅58.63%，年均複合增長率約9.67%。指數報告由科技部四司指導，科技日報社與中國工程科技創新戰略研究院聯合牽頭編制，研究物件覆蓋高溫超導材料、可控核聚變、氫能、具身智慧等10個技術領域。（新華社）"
+    },
+    {
+      "id": "5214421",
+      "time": "2026-11-14 17:11:08",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【李強同泰國總理阿努廷共同出席中泰企業家座談會】11月14日，國務院總理李強在曼谷同泰國總理阿努廷共同出席中泰企業家座談會。李強聽取兩國企業界代表發言，表示當前中泰正攜手開創兩國關係新的金色50年，雙方經貿合作面臨更多新的契機。一是中泰高度互信友好帶來的穩定效應。當今世界變亂交織，“穩定”成為稀缺資源。中泰關係與合作恰恰有很強穩定性，兩國領導人保持密切良好溝通，兩國民眾人緣相親、文化相通，這些為雙方企業加大投資、進行長遠規劃提供了穩定、可預期的環境。二是互聯互通日益加強帶來的聚合效應。中泰鐵路建設穩步推進，平陸運河正式通航，雙方經貿規則、標準、金融等“軟聯通”不斷加強，這些都使得兩國市場能夠更加順暢對接，帶動更多企業釋放更大經濟效益。三是創新合作蓬勃開展帶來的賦能效應。中泰經貿合作從傳統領域向高、新、尖領域持續拓展，新業態新賽道不斷湧現，雙方加強優勢互補、拓展創新合作正當其時。李強指出，中泰企業應當順應大勢，把握機遇，推動兩國合作不斷提質升級。要從“餐桌和舌尖”向“數智和綠色”升級。做大傳統農食貿易，推進兩國農業現代化，面向人工智慧、清潔能源、生物醫藥等新興領域開展合作，共同壯大發展新動能。要從“生產協作”向“產業協同”升級。加強產供鏈互補互嵌，開展行業標準對接互認，透過更高效協同，攜手提升競爭力，向全球價值鏈的上游攀升。中方鼓勵中資企業在泰開展更多本土化經營。要從“立足雙邊”向“輻射區域”升級。發揮泰國區位優勢，用好中國－東盟自貿區3.0版升級議定書生效等政策紅利，面向全球第三方市場開展更廣泛合作，更好實現雙贏、多贏。中泰政府將積極努力為兩國企業提供良好營商環境，促進企業深耕當地、長遠發展。也希望雙方企業家爭做民間友好使者，讓中泰關係親上加親、好上加好。（新華社）"
+    },
+    {
+      "id": "5214420",
+      "time": "2026-11-14 17:09:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "煜鼎增材科創板IPO稽核狀態變更為已問詢。"
+    },
+    {
+      "id": "5214419",
+      "time": "2026-11-14 17:08:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鞠振任山西省副省長】據山西日報，11月14日，山西省第十四屆人民代表大會常務委員會第三十一次會議舉行第二次全體會議。會議表決透過了人事任免名單。決定任命鞠振為山西省人民政府副省長。"
+    },
+    {
+      "id": "mkt:01a1d950-186e-7bbc-abe0-932d293dbfc3",
+      "time": "2026-11-14 17:07:47",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry says Russia struck Ukrainian energy and transport infrastructure used for military purposes, and drone production and storage facilities."
+    },
+    {
+      "id": "5214418",
+      "time": "2026-11-14 17:07:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部表示，俄方打擊了烏克蘭用於軍事目的的能源和交通基礎設施，以及無人機生產和儲存設施。"
+    },
+    {
+      "id": "mkt:01a1d94e-a0ee-7bbc-abe0-8f45807e070a",
+      "time": "2026-11-14 17:06:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian President Zelenskiy said a U.S. negotiator asked whether Ukraine would be willing to cede the Donbas region in exchange for NATO membership."
+    },
+    {
+      "id": "mkt:01a1d94e-4ece-7bbc-abe0-878537827d39",
+      "time": "2026-11-14 17:05:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said its forces have captured the Jieerxiangka settlement in Ukraine's Zaporizhzhia region."
+    },
+    {
+      "id": "mkt:01a1d94e-108d-7bbc-abe0-78508850b471",
+      "time": "2026-11-14 17:05:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Ukrainian President Zelenskiy said he believes Ukraine's relationship with NATO has been put back on the agenda."
+    },
+    {
+      "id": "5214417",
+      "time": "2026-11-14 17:05:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【亞馬遜海外購中國業務負責人：中國跨境電商市場具備三大優勢】11月13日，亞馬遜海外購“黑色星期五”快閃店首次落地杭州，向消費者展示海外產品。 亞馬遜海外購亞太區及中國業務負責人李巖川接受採訪時表示，中國跨境電商市場優勢明顯，一是有超大規模消費市場，需求體量大、層次豐富；二是平臺履約成本更低；三是物流基礎設施與配套規則更完善，能打通跨境電商網路“最後一公里”。 李巖川介紹，今年亞馬遜海外購“黑色星期五”全球購物季期間，將有超300萬件海外商品、4萬餘個品牌參與在華促銷，其中超1.5萬個品牌為此次大促上新。物流方面，亞馬遜海外購寧波前置倉計劃於今年底啟動擴倉，屆時容積將提升30%以上，推動更多訂單實現配送兩日達。（國是直通車）"
+    },
+    {
+      "id": "mkt:01a1d94d-ec67-7bbc-abe0-71966294332e",
+      "time": "2026-11-14 17:05:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said the U.S. envoy reported Putin agreed to allow European participation in the next round of talks."
+    },
+    {
+      "id": "mkt:01a1d94d-b33e-7bbc-abe0-68d1a495b79b",
+      "time": "2026-11-14 17:05:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Ukrainian President Zelenskiy said Russia is unwilling to agree to an energy ceasefire and did not authorize discussion of the issue at talks in Abu Dhabi."
+    },
+    {
+      "id": "mkt:01a1d94d-4cbb-7bbc-abe0-675db2455f46",
+      "time": "2026-11-14 17:04:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukraine President Zelenskiy urged European allies to decide by end-November who will represent Europe in peace negotiations."
+    },
+    {
+      "id": "5214416",
+      "time": "2026-11-14 17:04:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱其部隊已控制烏克蘭扎波羅熱地區的特爾西安卡定居點。"
+    },
+    {
+      "id": "5214415",
+      "time": "2026-11-14 17:04:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，烏克蘭和丹麥正在討論為F-16戰鬥機提供80萬發炮彈，以滿足6個月的需求。烏克蘭需要為PURL計劃提供更多捐款以購買武器"
+    },
+    {
+      "id": "5214414",
+      "time": "2026-11-14 17:04:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，他已要求歐洲盟友在11月底前決定誰將代表歐洲參加和平談判。"
+    },
+    {
+      "id": "5214413",
+      "time": "2026-11-14 17:03:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，俄羅斯不願同意能源停火，且在阿布扎比沒有討論該問題的授權。"
+    },
+    {
+      "id": "mkt:01a1d94c-7c81-7bbc-abe0-5b8bf707411f",
+      "time": "2026-11-14 17:03:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine and Denmark are in talks to supply 800,000 rounds of ammunition for F-16 fighters to meet requirements over the next six months, President Zelenskiy said."
+    },
+    {
+      "id": "5214412",
+      "time": "2026-11-14 17:03:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，美國特使告訴他，普京已同意在下一輪談判中讓歐洲參與同一談判桌。"
+    },
+    {
+      "id": "5214411",
+      "time": "2026-11-14 17:03:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，他相信烏克蘭加入北約的問題已重新提上議程。"
+    },
+    {
+      "id": "5214410",
+      "time": "2026-11-14 17:03:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，美國談判代表提出了一個問題，即如果烏克蘭加入北約，是否準備放棄頓巴斯地區。"
+    },
+    {
+      "id": "5214409",
+      "time": "2026-11-14 17:03:16",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：丹麥提供了一項價值6.45億歐元的國防援助計劃，以及一項價值2000萬歐元的能源援助計劃。英國也出臺了針對俄羅斯石油行業的新制裁措施。在對丹麥和愛爾蘭進行密集訪問後，我們帶著切實的成果回國了。"
+    },
+    {
+      "id": "5214408",
+      "time": "2026-11-14 17:02:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海正藥業與炫景生物簽署小核酸授權合作協議】11月13日，浙江海正藥業股份有限公司（簡稱“海正藥業”）與蘇州炫景生物科技有限公司及其全資子公司北京炫景瑞醫藥科技有限公司（簡稱“炫景生物”）正式簽署小核酸授權合作協議。炫景生物授予海正藥業在若干指定靶點利用炫景生物肝靶向GalNAc遞送等小核酸技術平臺開發藥物的使用權，基於心血管、代謝和呼吸病領域開展合作；炫景生物授權海正藥業開發一款臨床前早期開發階段的肝靶向siRNA藥物RGN6669的後續開發和商業化權利。"
+    },
+    {
+      "id": "5214407",
+      "time": "2026-11-14 17:01:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國科技部：將評估微軟服務中斷對韓國使用者影響】韓國科技資訊通訊部週六表示，在美國科技巨頭微軟的服務發生全球性中斷後，該部門將對韓國國內企業運營所受的影響進行核查。計劃與微軟韓國分公司合作，核實微軟各項服務的恢復情況，並評估其對韓國使用者可能造成的影響。該部門還表示，將與微軟組建聯合應急響應小組，持續監測事態發展。"
+    },
+    {
+      "id": "5214406",
+      "time": "2026-11-14 16:59:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本郵政將於2027年秋季設立100億日元的房地產基金。"
+    },
     {
       "id": "5214405",
       "time": "2026-11-14 16:44:52",
