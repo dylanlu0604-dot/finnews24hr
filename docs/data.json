@@ -1,7 +1,51 @@
 {
-  "updated": "2026-11-15 04:27:50",
-  "count": 9843,
+  "updated": "2026-11-15 04:31:40",
+  "count": 9845,
   "items": [
+    {
+      "id": "mkt:01a1dbbf-e555-7bbc-abe3-63ffb0950d25",
+      "time": "2026-11-15 04:29:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "wright said the US is the world’s largest oil and gas producer and exporter and that under TRUMP this position will be further consolidated. DOE loans will help expand production from existing offshore platforms, bolster US energy security and generate about $1.6 bln in lease revenue."
+    },
+    {
+      "id": "mkt:01a1dbbf-7c82-7bbc-abe3-59fc9f1e8d17",
+      "time": "2026-11-15 04:28:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's military says air defenses are intercepting multiple drones launched by Houthi forces toward Marib city. The city is densely populated and hosts large numbers of residents and internally displaced persons."
+    },
+    {
+      "id": "5214702",
+      "time": "2026-11-15 04:28:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：53分鐘後進行著陸點火。"
+    },
+    {
+      "id": "5214701",
+      "time": "2026-11-15 04:28:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：離軌制動點火正常。"
+    },
+    {
+      "id": "5214700",
+      "time": "2026-11-15 04:27:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門軍方：防空系統正在攔截胡塞武裝向馬里布市發射的多架無人機，該市居民和流離失所者密集。"
+    },
     {
       "id": "5214699",
       "time": "2026-11-15 04:18:34",
@@ -89573,30 +89617,6 @@
         "國際"
       ],
       "text": "訊息人士稱，伊朗格什姆島聽到的爆炸聲與導彈襲擊無關。"
-    },
-    {
-      "id": "5201104",
-      "time": "2026-11-08 04:31:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝稱沙特空襲薩那周邊 已致27人死亡】葉門胡塞武裝衛生部門7日晚間釋出訊息稱，沙特主導的聯軍當天針對葉門薩那省巴尼雜湊什地區的空襲已造成27人死亡、36人受傷。傷亡者中包括婦女兒童和民防救援人員。"
-    },
-    {
-      "id": "5201103",
-      "time": "2026-11-08 04:31:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【抵制AI資料中心的浪潮席捲歐洲 多地爆發抗議示威活動】當地時間週六，歐洲多地繼續爆發針對資料中心的抗議活動，民眾走上街頭，表達他們對資料中心影響社會和環境的擔憂。約2000人在都柏林參加遊行。約1300人在赫爾辛基集會，芬蘭幾個較小城鎮也舉行了示威活動。由地方民主和氣候抗議團體組成的聯盟——停止骯髒的資料中心的代表表示，他們的目標是“遏制AI資料中心不受約束的擴張，防止我們的民主被大型科技行業的利益所挾持”。"
-    },
-    {
-      "id": "5201100",
-      "time": "2026-11-08 04:29:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴勒斯坦總統府譴責以軍加劇加沙人道災難】當地時間7日，巴勒斯坦總統府發表宣告，追究以色列政府對加沙地帶人道主義災難惡化的全部責任，並強烈呼籲聯合國安理會和國際社會立即採取緊急行動，迫使以方落實停火協議並全面開放各口岸。"
     }
   ]
 }

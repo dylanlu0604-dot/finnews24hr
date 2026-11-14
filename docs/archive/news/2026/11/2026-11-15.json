@@ -1,7 +1,51 @@
 {
   "date": "2026-11-15",
-  "count": 126,
+  "count": 131,
   "items": [
+    {
+      "id": "mkt:01a1dbbf-e555-7bbc-abe3-63ffb0950d25",
+      "time": "2026-11-15 04:29:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "wright said the US is the world’s largest oil and gas producer and exporter and that under TRUMP this position will be further consolidated. DOE loans will help expand production from existing offshore platforms, bolster US energy security and generate about $1.6 bln in lease revenue."
+    },
+    {
+      "id": "mkt:01a1dbbf-7c82-7bbc-abe3-59fc9f1e8d17",
+      "time": "2026-11-15 04:28:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's military says air defenses are intercepting multiple drones launched by Houthi forces toward Marib city. The city is densely populated and hosts large numbers of residents and internally displaced persons."
+    },
+    {
+      "id": "5214702",
+      "time": "2026-11-15 04:28:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：53分鐘後進行著陸點火。"
+    },
+    {
+      "id": "5214701",
+      "time": "2026-11-15 04:28:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：離軌制動點火正常。"
+    },
+    {
+      "id": "5214700",
+      "time": "2026-11-15 04:27:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門軍方：防空系統正在攔截胡塞武裝向馬里布市發射的多架無人機，該市居民和流離失所者密集。"
+    },
     {
       "id": "5214699",
       "time": "2026-11-15 04:18:34",
