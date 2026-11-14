@@ -1,7 +1,61 @@
 {
   "date": "2026-11-14",
-  "count": 776,
+  "count": 782,
   "items": [
+    {
+      "id": "mkt:01a1d930-c30b-7bbc-abe0-2c0d87989bf4",
+      "time": "2026-11-14 16:33:33",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bearish",
+        "DAL.O",
+        "UAL.O"
+      ],
+      "text": "UK Civil Aviation Authority said that after the U.S. Federal Aviation Administration (FAA) lifted the nationwide ground stop, flights to and from the United States have resumed, but airlines' rebooking of affected passengers is likely to cause continued delays, cancellations and passenger rebookings in the near term."
+    },
+    {
+      "id": "5214403",
+      "time": "2026-11-14 16:33:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【江蘇證監局對申港證券江蘇分公司、李季採取責令改正行政監管措施】江蘇證監局釋出關於對申港證券股份有限公司江蘇分公司、李季採取責令改正行政監管措施的決定，申港證券江蘇分公司存在以下問題：一是委託經紀人以外的第三方進行客戶招攬。二是分公司適當性管理不到位。三是內部控制與合規管理存在較大缺陷。四是部分員工合規意識淡薄,不配合監管檢查。上述行為違反了《證券經紀業務管理辦法》(證監會令第204號)第八條第(七)項,《證券期貨投資者適當性管理辦法》(證監會令第202號)第三條,《證券公司和證券投資基金管理公司合規管理辦法》(證監會令第166號)第三條、第二十六條以及《證券基金經營機構董事、監事、高階管理人員及從業人員監督管理辦法》(證監會令第227號)第二十二條第一項的規定。李季作為分公司負責人,對上述問題負有責任,違反了《證券經紀業務管理辦法》(證監會令第204號)第八條第(七)項、《證券公司和證券投資基金管理公司合規管理辦法》(證監會令第166號)第十條第二款的規定。"
+    },
+    {
+      "id": "5214402",
+      "time": "2026-11-14 16:32:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：推動《電影、電視與娛樂產業振興法案》】特朗普表示，正在聯合共和、民主兩黨多名參議員和眾議員，共同推動《電影、電視與娛樂產業振興法案》，希望透過立法和稅收優惠，將流向加拿大、英國、澳大利亞等國的影視製作專案重新吸引回美國。"
+    },
+    {
+      "id": "mkt:01a1d92f-c722-7bbc-abe0-26de895d71b5",
+      "time": "2026-11-14 16:32:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump pushes Film, Television and Entertainment Industry Revitalization Act】Trump said he is working with a bipartisan group of senators and representatives to advance the Film, Television and Entertainment Industry Revitalization Act, seeking legislation and tax incentives to attract film and TV productions now flowing to Canada, the UK and Australia back to the US."
+    },
+    {
+      "id": "5214401",
+      "time": "2026-11-14 16:32:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "南蘇丹將選舉推遲至2027年2月11日。"
+    },
+    {
+      "id": "5214400",
+      "time": "2026-11-14 16:32:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國民航局- 在美國聯邦航空管理局解除停飛令後，美國航班已恢復，但由於航空公司正在為乘客重新預訂航班，預計後續仍會出現中斷。"
+    },
     {
       "id": "5214399",
       "time": "2026-11-14 16:27:50",
