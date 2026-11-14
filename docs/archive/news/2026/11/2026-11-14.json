@@ -1,7 +1,15 @@
 {
   "date": "2026-11-14",
-  "count": 588,
+  "count": 590,
   "items": [
+    {
+      "id": "5214243",
+      "time": "2026-11-14 10:17:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【青海柴達木盆地水資源配置一期工程總幹段輸水管道全線貫通】據中國南水北調集團訊息，近日，柴達木盆地水資源配置一期工程（總幹段）控制性工程—4號隧洞最後一節輸水管道精準焊接並檢測合格，標誌著總幹段輸水管道全部安裝完成，為後續全線聯調聯試並實現年底通水目標奠定堅實基礎。"
+    },
     {
       "id": "mkt:01a1d7d5-0c4f-7bbc-abde-a754cac6dc0a",
       "time": "2026-11-14 10:13:46",
@@ -9,6 +17,14 @@
         "MKT News"
       ],
       "text": "【U.S. transportation secretary links nationwide flight groundings to aging systems, seeks $50 billion emergency ATC funding】U.S. Transportation Secretary Sean Duffy said nationwide flight groundings stemmed from a \"telecom failure\" tied to aging network systems and asked Congress for $50 billion in emergency funding to upgrade the air traffic control (ATC) system. Duffy said there was no wholesale communications or radar outage during the ground-stop. Department of Homeland Security Secretary Marlin said the incident was not related to Microsoft's recent service outage and that investigators have found no evidence of a cyberattack or AI interference, warning that system age and data overload represent a national security risk; remediation and investigations are ongoing."
+    },
+    {
+      "id": "5214242",
+      "time": "2026-11-14 10:13:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局局長章軻：今年有兩款商保創新藥目錄藥品成功納入基本醫保目錄】從今日舉行的2026年創新藥高質量發展大會現場獲悉，國家醫保局局長章軻表示，從去年首發商保創新藥目錄，到今年建立基本醫保與商保創新藥目錄銜接機制，創新藥多元支付路徑進一步拓展。今年已有兩種商保創新藥目錄藥品成功納入基本醫保目錄，並明確仍適用相關除外支援政策，為臨床使用進一步提供保障。"
     },
     {
       "id": "5214240",

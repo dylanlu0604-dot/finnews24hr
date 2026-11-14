@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-14 10:14:06",
+  "updated": "2026-11-14 10:17:58",
   "count": 9825,
   "items": [
+    {
+      "id": "5214243",
+      "time": "2026-11-14 10:17:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【青海柴達木盆地水資源配置一期工程總幹段輸水管道全線貫通】據中國南水北調集團訊息，近日，柴達木盆地水資源配置一期工程（總幹段）控制性工程—4號隧洞最後一節輸水管道精準焊接並檢測合格，標誌著總幹段輸水管道全部安裝完成，為後續全線聯調聯試並實現年底通水目標奠定堅實基礎。"
+    },
     {
       "id": "mkt:01a1d7d5-0c4f-7bbc-abde-a754cac6dc0a",
       "time": "2026-11-14 10:13:46",
@@ -9,6 +17,14 @@
         "MKT News"
       ],
       "text": "【U.S. transportation secretary links nationwide flight groundings to aging systems, seeks $50 billion emergency ATC funding】U.S. Transportation Secretary Sean Duffy said nationwide flight groundings stemmed from a \"telecom failure\" tied to aging network systems and asked Congress for $50 billion in emergency funding to upgrade the air traffic control (ATC) system. Duffy said there was no wholesale communications or radar outage during the ground-stop. Department of Homeland Security Secretary Marlin said the incident was not related to Microsoft's recent service outage and that investigators have found no evidence of a cyberattack or AI interference, warning that system age and data overload represent a national security risk; remediation and investigations are ongoing."
+    },
+    {
+      "id": "5214242",
+      "time": "2026-11-14 10:13:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局局長章軻：今年有兩款商保創新藥目錄藥品成功納入基本醫保目錄】從今日舉行的2026年創新藥高質量發展大會現場獲悉，國家醫保局局長章軻表示，從去年首發商保創新藥目錄，到今年建立基本醫保與商保創新藥目錄銜接機制，創新藥多元支付路徑進一步拓展。今年已有兩種商保創新藥目錄藥品成功納入基本醫保目錄，並明確仍適用相關除外支援政策，為臨床使用進一步提供保障。"
     },
     {
       "id": "5214240",
@@ -89359,22 +89375,6 @@
         "行業"
       ],
       "text": "【北京：持續推動市區政府引導基金和市場化基金賦能資訊科技產業領域企業發展】北京經濟技術開發區管理委員會印發《北京經濟技術開發區關於加快建設開源開放信創產業高地的若干措施》的通知。其中提到， 持續推動市區政府引導基金和市場化基金賦能資訊科技產業領域企業發展，依託產業基金、科創基金、併購基金等，加大科技金融供給。鼓勵企業透過併購重組等資本市場工具，提升產業鏈整合能力，聚焦主業做優做大做強。"
-    },
-    {
-      "id": "5200516",
-      "time": "2026-11-07 10:17:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：加快佈局人工智慧、量子資訊、6G等前沿領域技術轉化、試驗驗證、中試熟化等共性技術賦能中心】北京經濟技術開發區管理委員會印發《北京經濟技術開發區關於加快建設開源開放信創產業高地的若干措施》的通知。其中提到， 支援一批關鍵資訊基礎設施行業信創實驗室、資訊保安測評機構、軟硬體適配測試中心、產教融合基地、綜合服務平臺建設，加快佈局人工智慧、量子資訊、6G等前沿領域技術轉化、試驗驗證、中試熟化等共性技術賦能中心。對實體化執行的相關平臺，根據平臺建設單位能力、平臺建設方案、平臺成效、運營和發展潛力等，給予連續不超過三年，每年最高3000萬元支援。"
-    },
-    {
-      "id": "5200515",
-      "time": "2026-11-07 10:16:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：支援超節點伺服器、AI終端、超級智慧體、量子計算雲平臺、下一代行動通訊等新技術新產品】北京經濟技術開發區管理委員會印發《北京經濟技術開發區關於加快建設開源開放信創產業高地的若干措施》的通知。其中提到， 鼓勵軟硬體上下游企業開展生態結盟、聯合適配攻關，打造標杆應用場景。充分發揮應用牽引作用，支援企業聯合使用者單位開展整合創新，“串珠成鏈”形成一體化解決方案，推動產品及服務向複雜、關鍵業務場景拓展。支援超節點伺服器、AI終端、超級智慧體、量子計算雲平臺、下一代行動通訊等新技術新產品，開展首試首用、中試驗證服務。根據技術創新性、場景示範性、應用推廣性、生態協同情況等，給予最高3000萬元支援。"
     }
   ]
 }
