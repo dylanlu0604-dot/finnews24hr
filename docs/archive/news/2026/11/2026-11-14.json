@@ -1,7 +1,15 @@
 {
   "date": "2026-11-14",
-  "count": 783,
+  "count": 784,
   "items": [
+    {
+      "id": "mkt:01a1d937-9ec2-7bbc-abe0-3233bc045ee1",
+      "time": "2026-11-14 16:41:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Sudan election postponed to Feb 11, 2027】On Nov 14 local time, South Sudan's National Elections Commission revised the electoral timetable, moving the vote originally scheduled for Dec 22, 2026 to Feb 11, 2027."
+    },
     {
       "id": "5214404",
       "time": "2026-11-14 16:37:15",

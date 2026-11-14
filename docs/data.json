@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-14 16:38:13",
+  "updated": "2026-11-14 16:42:31",
   "count": 9834,
   "items": [
+    {
+      "id": "mkt:01a1d937-9ec2-7bbc-abe0-3233bc045ee1",
+      "time": "2026-11-14 16:41:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Sudan election postponed to Feb 11, 2027】On Nov 14 local time, South Sudan's National Elections Commission revised the electoral timetable, moving the vote originally scheduled for Dec 22, 2026 to Feb 11, 2027."
+    },
     {
       "id": "5214404",
       "time": "2026-11-14 16:37:15",
@@ -89523,14 +89531,6 @@
         "MKT News"
       ],
       "text": "【Alliana sworn in as Paraguay president】Paraguay's Congress impeached President Santiago Peña on Nov. 6 and Vice President Pedro Alliana was sworn in to serve the remaining one year and nine months of the term. In his inaugural address Alliana pledged that customers whose funds were frozen in the Veno Bank case will have their assets returned. Peña is accused of intervening in the private bank's operations, conflicts of interest, financial manipulation and improper use of pension funds."
-    },
-    {
-      "id": "5200667",
-      "time": "2026-11-07 16:40:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭兩大政黨在已統計的50%選票中幾乎勢均力敵。"
     }
   ]
 }
