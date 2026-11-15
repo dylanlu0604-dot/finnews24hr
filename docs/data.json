@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-16 06:34:15",
-  "count": 9859,
+  "updated": "2026-11-16 06:38:01",
+  "count": 9857,
   "items": [
+    {
+      "id": "5216133",
+      "time": "2026-11-16 06:36:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "北京先通醫藥：全球發售H股最高發售價為每股68港元。"
+    },
+    {
+      "id": "5216127",
+      "time": "2026-11-16 06:36:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：美聯儲的職責不是影響任何單一商品或服務的價格。"
+    },
     {
       "id": "5216118",
       "time": "2026-11-16 06:33:30",
@@ -89791,40 +89808,6 @@
         "Impact bullish"
       ],
       "text": "The Times reports Meta Platforms (META.O) is preparing to launch Muse, its AI assistant, in the UK."
-    },
-    {
-      "id": "mkt:01a1bd4f-aa3b-7ee0-aac7-d3cd5e35d335",
-      "time": "2026-11-09 06:37:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Sources: Trump administration unlikely to scale back immigration enforcement after midterms; Miller named White House chief of staff】Multiple U.S. officials told CBS the Trump administration is unlikely to scale back hardline operations against illegal immigration despite Republican midterm losses, citing Stephen Miller’s elevation to White House chief of staff. Exit polls showed Texas Latino voters ranked immigration alongside the economy as top concerns and swung markedly toward Democrats, and 58% of voters nationwide said the administration’s deportation actions went too far."
-    },
-    {
-      "id": "5201709",
-      "time": "2026-11-09 06:37:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta準備在英國推出Muse AI助手。"
-    },
-    {
-      "id": "5201708",
-      "time": "2026-11-09 06:37:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta將宣佈與多家零售商達成合作。"
-    },
-    {
-      "id": "5201707",
-      "time": "2026-11-09 06:37:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta將於未來數週內推出Muse AI助手。"
     }
   ]
 }
