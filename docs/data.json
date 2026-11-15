@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-15 18:56:09",
-  "count": 9878,
+  "updated": "2026-11-15 18:59:59",
+  "count": 9879,
   "items": [
+    {
+      "id": "mkt:01a1deda-83fe-7bbc-abe5-988b1add2fd5",
+      "time": "2026-11-15 18:57:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukraine said missiles struck a petrochemical plant and a refinery in Russia's Tatarstan and defence facilities in Bryansk."
+    },
+    {
+      "id": "mkt:01a1deda-5565-7bbc-abe5-9283913bd5cc",
+      "time": "2026-11-15 18:56:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says French allegation linking it to supermarket refrigeration cyberattack unfounded】Iranian foreign ministry spokesman Baghaei on Nov. 15 dismissed French claims that Iran was responsible for a recent cyberattack on refrigeration systems at French supermarkets as baseless, saying European states have developed a habit of making accusations without providing evidence. He urged the French government to stop the allegations, calling the conduct an internationally unlawful act."
+    },
     {
       "id": "5215676",
       "time": "2026-11-15 18:55:06",
@@ -89901,14 +89920,6 @@
         "國際"
       ],
       "text": "【吸金無底洞：歐盟各國為援助烏克蘭已欠下逾兩千億債務】據測算及歐盟委員會內部資料包道稱，歐盟各國因對烏援助產生的共同債務可能突破2000億歐元。布魯塞爾將不得不籌措逾400億歐元的額外貸款用於向基輔撥付資金。"
-    },
-    {
-      "id": "5201420",
-      "time": "2026-11-08 18:56:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊：美軍特遣部隊無法達到施壓伊朗目的】據伊朗法爾斯通訊社8日報道，伊朗伊斯蘭革命衛隊發言人穆赫比當天表示，美國無法透過組建“鐵門”特遣部隊計劃實現其給伊朗施加經濟壓力的目的。穆赫比說，“鐵門”計劃“不過是文字遊戲”，美國無法透過這一計劃實現其給伊朗施加巨大經濟壓力的目的，伊朗經濟不會崩潰。（新華社）"
     }
   ]
 }

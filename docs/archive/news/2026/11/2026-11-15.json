@@ -1,7 +1,26 @@
 {
   "date": "2026-11-15",
-  "count": 487,
+  "count": 489,
   "items": [
+    {
+      "id": "mkt:01a1deda-83fe-7bbc-abe5-988b1add2fd5",
+      "time": "2026-11-15 18:57:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukraine said missiles struck a petrochemical plant and a refinery in Russia's Tatarstan and defence facilities in Bryansk."
+    },
+    {
+      "id": "mkt:01a1deda-5565-7bbc-abe5-9283913bd5cc",
+      "time": "2026-11-15 18:56:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says French allegation linking it to supermarket refrigeration cyberattack unfounded】Iranian foreign ministry spokesman Baghaei on Nov. 15 dismissed French claims that Iran was responsible for a recent cyberattack on refrigeration systems at French supermarkets as baseless, saying European states have developed a habit of making accusations without providing evidence. He urged the French government to stop the allegations, calling the conduct an internationally unlawful act."
+    },
     {
       "id": "5215676",
       "time": "2026-11-15 18:55:06",
