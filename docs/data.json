@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16 06:56:33",
-  "count": 9854,
+  "updated": "2026-11-16 07:01:18",
+  "count": 9850,
   "items": [
     {
       "id": "5216156",
@@ -89741,46 +89741,6 @@
         "Brent"
       ],
       "text": "WTI crude opened down 0.5% on Monday at $90/bbl; Brent down 0.6% at $96.55/bbl."
-    },
-    {
-      "id": "mkt:01a1bd65-041e-7ee0-aac7-f57b5bbad35f",
-      "time": "2026-11-09 07:01:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold opened Monday down $8 at $4,062/oz."
-    },
-    {
-      "id": "5201716",
-      "time": "2026-11-09 07:00:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1027.66美元/盎司。"
-    },
-    {
-      "id": "mkt:01a1bd63-78cb-7ee0-aac7-ef193ebcef0c",
-      "time": "2026-11-09 06:59:35",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【New Zealand’s National Party gains coalition edge; NZD strengthens】NZD rose modestly in early trade after New Zealand’s weekend election left the governing National Party in a favourable position to form a coalition. NZD/USD climbed as much as 0.5% to 0.5569, recovering from a one-plus-year low last week. New Zealand two-year and 10-year government bond yields were broadly unchanged. Jason Wong, senior strategist at BNZ in Wellington, said the result is mildly positive for the NZD and markets currently lean toward a centre-right coalition remaining in power."
-    },
-    {
-      "id": "5201715",
-      "time": "2026-11-09 06:56:37",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "澳大利亞聯儲助理行長亨特：人工智慧需求對消費者價格指數的拉動作用相對有限。"
     }
   ]
 }
