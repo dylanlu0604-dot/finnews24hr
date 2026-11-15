@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-15 18:15:45",
-  "count": 9886,
+  "updated": "2026-11-15 18:19:45",
+  "count": 9885,
   "items": [
+    {
+      "id": "5215668",
+      "time": "2026-11-15 18:17:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年醫保目錄國談藥品採購金額數量雙增長】《全國醫保資訊平臺藥品採購年度報告（2026）》11月14日在江蘇蘇州釋出。報告顯示，從2018年醫保目錄啟動動態調整以來，截至2024年國談藥品累計達到530種。對比2024年資料，84.2%國談藥品在2025年實現採購金額、採購數量雙增長。（新華社）"
+    },
     {
       "id": "mkt:01a1deb3-c423-7bbc-abe5-7b4587395764",
       "time": "2026-11-15 18:14:45",
@@ -89957,22 +89965,6 @@
         "其他"
       ],
       "text": "【新加州大學校董怒噴馬斯克：叛徒】加州大學校董斯科特·加洛韋（Scott Galloway）近日在播客節目《Pivot》中稱埃隆·馬斯克（Elon Musk）為“對西方的叛徒”，並將其與冷戰時期犯下間諜罪的羅森伯格夫婦相提並論，暗示應適用同樣標準。加洛韋系紐約大學教授，今年7月由加州州長紐森提名出任加州大學董事會成員（待參議院確認），該董事會共26名有投票權成員，負責治理全美規模最大的公立大學系統之一。"
-    },
-    {
-      "id": "mkt:01a1baab-af48-7ee0-aac4-1eeb33e5c866",
-      "time": "2026-11-08 18:19:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【University of Cambridge AI-designed avian influenza vaccine shows cross-strain protection in animal tests】The University of Cambridge and a university spinout said an AI-designed candidate broad-spectrum avian influenza vaccine protected animals against multiple genetically distinct strains in preclinical studies. Researchers analysed global surveillance sequence data with AI to design “super-antigens” that capture conserved viral features, screened candidates in cells, then tested the selected immunogen in mice and ferrets. All vaccinated animals survived challenge with several strains that have previously infected humans; a comparison group given an existing avian influenza vaccine had roughly 50% survival. Lead researcher Jonathan Heeney said the candidate aims to offer broad protection against evolving avian influenza viruses and that AI substantially accelerates vaccine design."
-    },
-    {
-      "id": "5201406",
-      "time": "2026-11-08 18:19:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭已就克拉科夫槍擊案啟動恐怖主義相關調查。"
     }
   ]
 }
