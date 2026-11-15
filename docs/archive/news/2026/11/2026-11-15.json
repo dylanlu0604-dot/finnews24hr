@@ -1,7 +1,27 @@
 {
   "date": "2026-11-15",
-  "count": 492,
+  "count": 494,
   "items": [
+    {
+      "id": "mkt:01a1def2-0ade-7bbc-abe5-a8b0ded0a378",
+      "time": "2026-11-15 19:22:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Romania's prime minister said three merchant vessels were struck by drone attacks in the Black Sea near the Sulina Canal."
+    },
+    {
+      "id": "5215679",
+      "time": "2026-11-15 19:20:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞總理稱，三艘商船在蘇利納運河附近的黑海海域遭到無人機襲擊。"
+    },
     {
       "id": "5215678",
       "time": "2026-11-15 19:10:52",

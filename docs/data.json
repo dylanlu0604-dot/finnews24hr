@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-15 19:20:06",
-  "count": 9874,
+  "updated": "2026-11-15 19:24:00",
+  "count": 9875,
   "items": [
+    {
+      "id": "mkt:01a1def2-0ade-7bbc-abe5-a8b0ded0a378",
+      "time": "2026-11-15 19:22:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Romania's prime minister said three merchant vessels were struck by drone attacks in the Black Sea near the Sulina Canal."
+    },
+    {
+      "id": "5215679",
+      "time": "2026-11-15 19:20:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞總理稱，三艘商船在蘇利納運河附近的黑海海域遭到無人機襲擊。"
+    },
     {
       "id": "5215678",
       "time": "2026-11-15 19:10:52",
@@ -89866,14 +89886,6 @@
         "S&P500"
       ],
       "text": "【CITIC Securities maintains long-term bullish view on North American and domestic AI compute supply chains】CITIC Securities in its 2027 telecom strategy report says large-model commercialization expands rapidly in 2026; as of end‑September 2026 OpenAI and Anthropic had combined ARR of about $124 bln. North America’s four major cloud service providers reported combined capex of roughly $208.7 bln in Q3 2026, up 84.2% YoY, signalling continued high-intensity AI infrastructure investment. The report warns recursive self-improvement (RSI) could drive step-changes in model capability. AI demand is broadening: AI-assisted programming shows a clearer commercialization path, while design, modeling/simulation, AI4Science and robotics expand longer-term compute demand. CITIC Securities remains optimistic and keeps a long-term preference for North American compute exposure and the domestic Chinese AI compute supply chain."
-    },
-    {
-      "id": "mkt:01a1bae3-1506-7ee0-aac4-5550ddc62265",
-      "time": "2026-11-08 19:20:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Anthropic commits $3.4 bln to 1.7 GW gas-fired generators for data-center power】Financial Times reports Anthropic agreed in late September to a $3.4 billion purchase commitment for 1.7 GW of heavy gas-fired generators from OnePWR Solutions (San Antonio, Texas). The deal includes engineering and construction capacity to install the units; Anthropic did not acquire OnePWR or its employees. OnePWR had ordered the Caterpillar-built generators about two years ago but required financing; Anthropic initially planned to be OnePWR’s customer and ultimately took over its Caterpillar order."
     }
   ]
 }
