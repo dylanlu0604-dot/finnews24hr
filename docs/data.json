@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-16 06:04:12",
-  "count": 9873,
+  "updated": "2026-11-16 06:07:55",
+  "count": 9869,
   "items": [
+    {
+      "id": "5216002",
+      "time": "2026-11-16 06:05:25",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "三星將在美國為SpaceX生產衛星晶片。"
+    },
+    {
+      "id": "5215993",
+      "time": "2026-11-16 06:03:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯選手米拉·安德烈耶娃擊敗烏克蘭選手埃琳娜·斯維託麗娜，奪得WTA年終總決賽冠軍。"
+    },
     {
       "id": "5215968",
       "time": "2026-11-16 06:01:06",
@@ -89898,56 +89916,6 @@
         "MKT News"
       ],
       "text": "Rubio said both U.S. parties have long agreed that Iran possessing nuclear weapons would be completely unacceptable and very dangerous for the United States."
-    },
-    {
-      "id": "5201696",
-      "time": "2026-11-09 06:07:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：如果有機會，美方將探討透過外交途徑解決伊朗問題的方案。"
-    },
-    {
-      "id": "5201695",
-      "time": "2026-11-09 06:07:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧就伊朗問題表示，有時外交解決方案並不可行。"
-    },
-    {
-      "id": "5201694",
-      "time": "2026-11-09 06:05:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：伊朗的要求令人憤慨，部分要求甚至荒謬可笑。"
-    },
-    {
-      "id": "5201693",
-      "time": "2026-11-09 06:05:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "魯比奧談烏克蘭會談：阿布扎比會談可能會取得一些進展。"
-    },
-    {
-      "id": "5201692",
-      "time": "2026-11-09 06:04:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：會談毫無成效，伊朗的要求完全不可接受。"
-    },
-    {
-      "id": "mkt:01a1bd30-db6d-7ee0-aac7-6ab93605032d",
-      "time": "2026-11-09 06:04:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China successfully launches 29 LEO satellite‑internet satellites】Beijing time 04:24 on Nov. 9, 2026, China used a Long March‑12 rocket from the Hainan commercial spaceport to place 29 low‑earth‑orbit satellites for a satellite‑internet constellation into their designated orbits; the mission was successful."
     }
   ]
 }
