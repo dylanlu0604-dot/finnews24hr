@@ -1,7 +1,23 @@
 {
   "date": "2026-11-15",
-  "count": 489,
+  "count": 491,
   "items": [
+    {
+      "id": "5215677",
+      "time": "2026-11-15 19:00:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "新世界發展擬透過供股融資約249億港元。"
+    },
+    {
+      "id": "mkt:01a1dedd-48ef-7bbc-abe5-a77acd7c3045",
+      "time": "2026-11-15 19:00:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China 2026 film box office tops CNY 32.0 bln】As of Nov. 15, 2026, China’s 2026 film box office including presales exceeded CNY 32.0 bln. The current top-five releases are all domestic films. The film sector’s full-chain output since the start of 2026 is estimated near CNY 500 bln."
+    },
     {
       "id": "mkt:01a1deda-83fe-7bbc-abe5-988b1add2fd5",
       "time": "2026-11-15 18:57:04",
