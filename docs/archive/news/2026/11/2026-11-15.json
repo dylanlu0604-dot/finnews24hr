@@ -1,7 +1,1163 @@
 {
   "date": "2026-11-15",
-  "count": 494,
+  "count": 622,
   "items": [
+    {
+      "id": "5215765",
+      "time": "2026-11-15 23:59:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝：過去24小時內，沙特戰機對薩達、塔伊茲、拉赫季、焦夫和馬裡卜等省的民用目標實施了75次空襲和導彈打擊。襲擊造成平民傷亡，包括死傷。沙特領導的聯軍空襲和導彈打擊總數達到5095次。"
+    },
+    {
+      "id": "5215764",
+      "time": "2026-11-15 23:57:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者：你是否也覺得應該向美國民眾道歉？這件事（全美飛機停飛）發生在你任內。\n\n美國交通部長達菲：我無法為別人移交給我們的東西道歉。"
+    },
+    {
+      "id": "mkt:01a1dfeb-0342-7bbc-abe7-07dd9c9ad0c3",
+      "time": "2026-11-15 23:54:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lavrov says EU ignoring Russian interests 'absolutely won't work'】Russian media on the 15th quoted Foreign Minister Lavrov as saying any Ukraine settlement that does not take Russian interests into account will \"absolutely not work.\" Responding to von der Leyen's remark that talks must be premised on a ceasefire, Lavrov said Russia will not accept solutions that ignore its interests, warned the EU appears unclear about the role it can play in negotiations, and reiterated that Russia insists talks be premised on achieving the goals of its \"special military operation,\" \"this has not changed.\""
+    },
+    {
+      "id": "5215763",
+      "time": "2026-11-15 23:53:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外長：歐盟不考慮俄利益“絕對行不通”】據俄羅斯媒體15日報道，俄外長拉夫羅夫日前表示，歐盟在解決烏克蘭問題方案上如不考慮俄利益，將“絕對行不通”。（新華社）"
+    },
+    {
+      "id": "5215762",
+      "time": "2026-11-15 23:51:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院情報委員會成員海姆斯：要求商務部長盧特尼克週五與眾議院情報委員會會面。"
+    },
+    {
+      "id": "5215761",
+      "time": "2026-11-15 23:46:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【俄羅斯提議將四種金屬排除在暴利稅之外】俄羅斯財政部副部長薩扎諾夫在預算和稅收委員會會議上表示，俄財政部提議將錳、鉻、鎢和鉬的開採排除在暴利稅的計算範圍之外。該提議是在政府內部討論後提出的。薩扎諾夫稱，這些礦物幾乎從不出口，主要用於履行國家國防合同。"
+    },
+    {
+      "id": "5215760",
+      "time": "2026-11-15 23:45:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國週末示威活動中超過400人被拘捕】當地時間11月15日，法國內政部和巴黎檢察院公佈的最新資料顯示，在14日舉行的全國性示威活動中，共有404人被警方拘捕，其中在巴黎被拘捕的人員為134人。（央視新聞）"
+    },
+    {
+      "id": "5215759",
+      "time": "2026-11-15 23:43:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍：在麥地那地區摧毀了一架無人機。"
+    },
+    {
+      "id": "5215758",
+      "time": "2026-11-15 23:41:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特談伊朗：許多領導層人物就像下水管道里的老鼠。他們藏身地下掩體，看不到上面情況有多糟。"
+    },
+    {
+      "id": "mkt:01a1dfdd-98ff-7bbc-abe6-fa2224fc2625",
+      "time": "2026-11-15 23:40:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese foreign minister said Beirut is working to place all weapons under state control and to reclaim the authority to decide war and peace."
+    },
+    {
+      "id": "5215757",
+      "time": "2026-11-15 23:39:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩外長：正致力於將所有武器置於國家控制之下，並收回決定戰爭與和平的權力。"
+    },
+    {
+      "id": "5215756",
+      "time": "2026-11-15 23:35:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津正式供熱 清潔能源佔比達98.6%】記者從天津市城市管理委員會瞭解到，11月15日天津正式供熱，集中供熱面積6.29億平方米。今年天津供暖季清潔能源佔比達到98.6%。（新華社）"
+    },
+    {
+      "id": "mkt:01a1dfd8-cac9-7bbc-abe6-f090dc480ae2",
+      "time": "2026-11-15 23:34:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "【Treasury Secretary Bessent urges major NVIDIA leadership overhaul, recommends external CEO search】Treasury Secretary Bessent said that after Jensen Huang was removed, NVIDIA (NVDA.O) needs a major leadership overhaul and should consider hiring a CEO from outside the company. He said he wants to know whether NVIDIA knowingly ignored warning signs about shell companies and questioned whether the firm's culture pushed potentially illegal sales to boost revenue and profit. Bessent said the board and outside legal counsel should provide answers within 10 days."
+    },
+    {
+      "id": "5215755",
+      "time": "2026-11-15 23:30:43",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【貝森特：預計下月通脹顯著回落，呼籲美聯儲著眼未來】美國財政部長貝森特就當前經濟形勢發表系列表態。在通脹方面，他指出核心通脹保持溫和，已接近美聯儲目標，並預計下個月通貨膨脹率將大幅下降。針對貨幣政策，貝森特警告美聯儲不要進一步收緊，並呼籲其“應向前看，而非糾結於過去”。他表示，總統特朗普與自己都對美聯儲主席沃什履行雙重使命充滿信心。此外，貝森特還提及對伊朗的經濟施壓政策，稱“正在奏效”，並預測由於天然氣短缺，伊朗將面臨一個艱難的冬季。"
+    },
+    {
+      "id": "mkt:01a1dfcd-1f2a-7bbc-abe6-ef49f13ea4e1",
+      "time": "2026-11-15 23:22:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US Treasury's Bessent said Iran will face a difficult winter due to natural gas shortages."
+    },
+    {
+      "id": "mkt:01a1dfcc-faf3-7bbc-abe6-e65788374002",
+      "time": "2026-11-15 23:21:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. is applying economic pressure on Iran and that it is working."
+    },
+    {
+      "id": "mkt:01a1dfcb-e2eb-7bbc-abe6-de05f9707079",
+      "time": "2026-11-15 23:20:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury Secretary Bessent warned on Fox that the Federal Reserve should not tighten monetary policy further."
+    },
+    {
+      "id": "mkt:01a1dfcb-15ee-7bbc-abe6-d7edc73b592f",
+      "time": "2026-11-15 23:19:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said President Trump and he both believe Federal Reserve Chair Kevin Warsh will fulfill his dual‑mandate responsibilities."
+    },
+    {
+      "id": "5215754",
+      "time": "2026-11-15 23:19:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特預測，由於天然氣短缺，伊朗將面臨艱難的冬季。"
+    },
+    {
+      "id": "5215753",
+      "time": "2026-11-15 23:19:26",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特警告美聯儲不要進一步收緊貨幣政策。"
+    },
+    {
+      "id": "5215752",
+      "time": "2026-11-15 23:19:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們正在經濟上對伊朗施壓，而且正在奏效。"
+    },
+    {
+      "id": "5215751",
+      "time": "2026-11-15 23:18:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊已前往伊斯蘭堡，出席經濟合作組織第30次外長理事會會議。"
+    },
+    {
+      "id": "5215750",
+      "time": "2026-11-15 23:18:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：核心通脹溫和，接近美聯儲目標。"
+    },
+    {
+      "id": "5215749",
+      "time": "2026-11-15 23:18:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯常駐維也納國際組織代表：俄羅斯無意恢復核試驗，但如果美國或其他國家採取類似行動，俄方將採取適當措施予以回應。"
+    },
+    {
+      "id": "mkt:01a1dfc8-c00b-7bbc-abe6-cc9869d3472d",
+      "time": "2026-11-15 23:17:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he thinks U.S. inflation will fall sharply next month."
+    },
+    {
+      "id": "5215748",
+      "time": "2026-11-15 23:17:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：總統特朗普和我對美聯儲主席沃什履行雙重使命有信心。"
+    },
+    {
+      "id": "5215747",
+      "time": "2026-11-15 23:16:53",
+      "tags": [
+        "宏觀",
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美財長施壓英偉達：要求外部換帥，限期10天回應合規問題】針對英偉達近期的出口限制爭議，美國財政部長貝森特發表系列強硬表態，要求英偉達必須從外部尋找新領導人，並對公司現有領導層進行“大幅調整”。貝森特強調，審查英偉達是否遵守出口限制至關重要，並將密切觀察該公司是否故意無視了警示訊號。此外，貝森特指出，報告顯示在新加坡銷售的晶片中僅有1%留在當地，這引發了對晶片違規流向的嚴重質疑。他要求英偉達董事會及外部律師必須在“未來10天內”就公司的出口限制合規文化作出正式回應。"
+    },
+    {
+      "id": "mkt:01a1dfc8-431a-7bbc-abe6-c28aa227610c",
+      "time": "2026-11-15 23:16:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "US Treasury Secretary Bessent said he does not believe legislation is needed on advanced-chip sales."
+    },
+    {
+      "id": "mkt:01a1dfc7-f4e3-7bbc-abe6-b8c1b9e9d48c",
+      "time": "2026-11-15 23:16:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi has departed for Pakistan."
+    },
+    {
+      "id": "5215746",
+      "time": "2026-11-15 23:16:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我認為下個月通貨膨脹率會大幅下降。"
+    },
+    {
+      "id": "5215745",
+      "time": "2026-11-15 23:16:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特對美聯儲表示：應向前看，而非糾結於過去。"
+    },
+    {
+      "id": "5215744",
+      "time": "2026-11-15 23:14:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特談先進晶片銷售：不認為我們需要立法。"
+    },
+    {
+      "id": "mkt:01a1dfc6-09e2-7bbc-abe6-b6feca46b1b9",
+      "time": "2026-11-15 23:14:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY said a dry-cargo vessel carrying supplies to Ukrainian armed forces was struck in the Black Sea."
+    },
+    {
+      "id": "5215743",
+      "time": "2026-11-15 23:14:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱，一艘向烏克蘭武裝部隊運送物資的乾貨船在黑海遭到打擊。"
+    },
+    {
+      "id": "mkt:01a1dfc5-78a6-7bbc-abe6-aba9930c0d26",
+      "time": "2026-11-15 23:13:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "BESSENT said Huang Renxun is a remarkable innovator and that NVIDIA is outstanding."
+    },
+    {
+      "id": "5215742",
+      "time": "2026-11-15 23:12:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：黃仁勳是了不起的創新者，英偉達非常出色。"
+    },
+    {
+      "id": "mkt:01a1dfc4-1a8d-7bbc-abe6-a72f2849f890",
+      "time": "2026-11-15 23:12:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "BESSENT said NVIDIA's board and external counsel must respond within 10 days on the company's export-control compliance culture."
+    },
+    {
+      "id": "5215741",
+      "time": "2026-11-15 23:12:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：報告顯示，在新加坡銷售的晶片中僅有1%留在當地。"
+    },
+    {
+      "id": "mkt:01a1dfc3-ed3c-7bbc-abe6-993856c48c8f",
+      "time": "2026-11-15 23:12:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "U.S. Treasury Secretary Bessent reiterated that the U.S. Commerce Department holds decision-making authority over chip export controls."
+    },
+    {
+      "id": "5215740",
+      "time": "2026-11-15 23:11:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄武裝力量打擊了扎波羅熱的一處物流中心，該中心被烏克蘭武裝力量用於儲存軍用物資。"
+    },
+    {
+      "id": "mkt:01a1dfc3-7ef0-7bbc-abe6-925bbe782235",
+      "time": "2026-11-15 23:11:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "The Russian Defence Ministry said Russian forces struck a logistics hub in Zaporizhzhia used by Ukrainian forces to store military supplies."
+    },
+    {
+      "id": "5215739",
+      "time": "2026-11-15 23:11:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國財長貝森特：英偉達董事會及外部律師須在“未來10天內”就公司出口限制合規文化作出回應。"
+    },
+    {
+      "id": "5215738",
+      "time": "2026-11-15 23:11:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特重申，商務部對晶片出口管制握有決定權。"
+    },
+    {
+      "id": "mkt:01a1dfc2-5cd1-7bbc-abe6-8f7a4c611a03",
+      "time": "2026-11-15 23:10:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent said romantic relationships between supervisors and subordinates are a major corporate taboo."
+    },
+    {
+      "id": "5215737",
+      "time": "2026-11-15 23:10:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍發言人：在馬傑達爾祖恩村行動期間，部隊與亞哈隆部隊合作，摧毀了一條長約35米的地下隧道，隧道內設有兩處生活區。"
+    },
+    {
+      "id": "5215736",
+      "time": "2026-11-15 23:08:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：上級與下屬建立戀愛關係是企業大忌。"
+    },
+    {
+      "id": "mkt:01a1dfc0-cae9-7bbc-abe6-83365748f632",
+      "time": "2026-11-15 23:08:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said NVIDIA should seek an external candidate to serve as its new CEO."
+    },
+    {
+      "id": "mkt:01a1dfc0-3138-7bbc-abe6-7ef1b6e9b312",
+      "time": "2026-11-15 23:07:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "US Treasury Secretary Bessent said NVIDIA's leadership needs a 'major overhaul'."
+    },
+    {
+      "id": "5215735",
+      "time": "2026-11-15 23:07:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特：英偉達應該從外部尋找新的領導人。"
+    },
+    {
+      "id": "5215734",
+      "time": "2026-11-15 23:07:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特：英偉達領導層需要“大幅調整”。"
+    },
+    {
+      "id": "mkt:01a1dfbf-9ad7-7bbc-abe6-7291fe16eca0",
+      "time": "2026-11-15 23:07:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "US Treasury Secretary Bessent said reviewing whether NVIDIA is complying with export controls is critical."
+    },
+    {
+      "id": "5215733",
+      "time": "2026-11-15 23:07:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們將觀察英偉達是否故意無視了警示訊號。"
+    },
+    {
+      "id": "5215732",
+      "time": "2026-11-15 23:06:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特質疑英偉達的“不合規文化”。"
+    },
+    {
+      "id": "5215731",
+      "time": "2026-11-15 23:06:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：審查英偉達是否遵守出口限制至關重要。"
+    },
+    {
+      "id": "mkt:01a1dfbd-a442-7bbc-abe6-6ac50165da09",
+      "time": "2026-11-15 23:05:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Peru September GDP rose 2.43% YoY, government data showed."
+    },
+    {
+      "id": "5215730",
+      "time": "2026-11-15 23:03:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯政府：秘魯9月GDP同比增長2.43%。"
+    },
+    {
+      "id": "5215729",
+      "time": "2026-11-15 23:03:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "愛沙尼亞外長：關閉邊境是因為有明確證據表明，俄羅斯軍事情報機構格魯烏下令對一家愛沙尼亞國防工業公司發動破壞襲擊。"
+    },
+    {
+      "id": "mkt:01a1dfba-e9ae-7bbc-abe6-63ae2c4da5a6",
+      "time": "2026-11-15 23:02:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Estonia's foreign minister said it has closed its border after clear evidence showed Russian military intelligence ordered sabotage against defence companies."
+    },
+    {
+      "id": "mkt:01a1dfb9-9dba-7bbc-abe6-580f81a305c9",
+      "time": "2026-11-15 23:00:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Estonia will close all border crossing points with Russia from Dec 1, the foreign minister said."
+    },
+    {
+      "id": "5215728",
+      "time": "2026-11-15 23:00:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛沙尼亞外交部長：自12月1日起將關閉所有愛沙尼亞-俄羅斯邊境過境點。"
+    },
+    {
+      "id": "mkt:01a1dfb8-5c39-7bbc-abe6-5236390f7bd0",
+      "time": "2026-11-15 22:59:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Ambassador to the United Nations Mike Waltz arrived in Beirut."
+    },
+    {
+      "id": "5215727",
+      "time": "2026-11-15 22:43:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統發表宣告稱，若山火對新加坡和馬來西亞造成影響，他將代表政府致歉。"
+    },
+    {
+      "id": "mkt:01a1dfa5-00f0-7bbc-abe6-4ad6794dd682",
+      "time": "2026-11-15 22:38:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Transportation Secretary Duffy said he expects flights to run at full capacity tomorrow."
+    },
+    {
+      "id": "mkt:01a1dfa4-cfa5-7bbc-abe6-44d7e370a2c9",
+      "time": "2026-11-15 22:38:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Judge pauses golf-course reconstruction two weeks; Trump says Interior will appeal urgently, repairs urgent】Trump said a federal judge has delayed the Interior Department’s planned repair and reconstruction of a golf course for two weeks. He said the Interior will immediately file an expedited appeal to overturn the order. The course, nicknamed \"Trash Island\" and shown in widely circulated images as severely dilapidated, must be repaired immediately, he said, warning the delay would jeopardize the golf season, jobs, reputation and significant funds."
+    },
+    {
+      "id": "5215726",
+      "time": "2026-11-15 22:36:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：期待明日能實現航班滿負荷運轉。"
+    },
+    {
+      "id": "5215725",
+      "time": "2026-11-15 22:34:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國二疊紀盆地地區石油產量穩健增長再次超出預期】據Enverus資料，以二疊紀盆地地區為首的美國石油生產商有望在今年年底前將產量提高37.8萬桶/日，增幅為2.8%。二疊紀盆地佔美國原油總產量的近一半，且因美國頁岩油鑽探商能夠在幾個月內迅速提高產量，該盆地備受全球石油投資者的密切關注。據Enverus統計，新增原油產量中有85%將來自二疊紀盆地。Permian Resources和Diamondback Energy Inc.等公司在今年全年不斷上調其產量預期。"
+    },
+    {
+      "id": "5215724",
+      "time": "2026-11-15 22:29:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家消防救援局：11月30日前完成五類問題自查自改】11月15日，國家消防救援局釋出通告，要求各相關社會單位（場所）於11月30日前完成佔堵“生命通道”、消防設施停用癱瘓、人員密集場所違規動火作業、未按要求開展培訓演練、多業態混合經營場所消防安全管理混亂五類情節嚴重的火災隱患和消防安全違法行為自查自改，歡迎公眾舉報，消防救援部門將核查並依法依規查處，構成犯罪的移交司法機關追究刑事責任。（央視新聞）"
+    },
+    {
+      "id": "5215723",
+      "time": "2026-11-15 22:26:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華語科幻AI影像聯盟成立，何夕《天年》等首批影視專案啟動】2026科幻星雲嘉年華期間，華語科幻AI影像聯盟11月14日在成都成立，300餘名科幻作家、影視編劇與產業界人士見證。聯盟由海南壹天視界、青春你好傳媒和完美世界影視發起，分工構建華語科幻產業鏈條。何夕《天年》、江波《南海救援48小時》、程婧波《燈花》、蕭星寒《異重慶四重奏》四部作品成為首批啟動的科幻影視專案。海南壹天視界董事長甘偉康表示，未來IP影像開發不止AIGC影視，還有真人劇集、遊戲、動漫等。（澎湃新聞）"
+    },
+    {
+      "id": "5215722",
+      "time": "2026-11-15 22:24:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國馬里蘭州聯邦參議員範霍倫：如果美國需要更多的航空通訊資金，就應當給出正當理由。將支援建立安全航空通訊系統所需的各項措施。"
+    },
+    {
+      "id": "mkt:01a1df92-0dcc-7bbc-abe6-39c19fa7825a",
+      "time": "2026-11-15 22:17:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Open-source Pangu model openPangu-2.1-Pro launched on Huawei Cloud】Huawei Cloud said on Nov 15 its MaaS model-as-a-service platform has launched the open-source Pangu model openPangu-2.1-Pro. The release upgrades capabilities around Agent development, AI coding and inference optimization, with enhancements for deep-research scenarios, HarmonyOS control and app development, Ascend operator generation and inference-pipeline optimization."
+    },
+    {
+      "id": "5215721",
+      "time": "2026-11-15 22:17:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "達菲表示：“今天我們會看到情況恢復正常，明天將完全恢復正常。”"
+    },
+    {
+      "id": "5215720",
+      "time": "2026-11-15 22:16:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【開源盤古模型openPangu-2.1-Pro正式上線華為雲】據華為雲訊息，11月15日，華為雲MaaS模型即服務平臺正式上線開源盤古模型openPangu-2.1-Pro。該模型圍繞Agent開發、AI編碼和推理最佳化三大方向進行能力升級，在深度研究、鴻蒙系統操控、鴻蒙APP開發、昇騰運算元生成及推理鏈路最佳化等場景實現增強。"
+    },
+    {
+      "id": "5215719",
+      "time": "2026-11-15 22:14:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲表示，航空停飛事件的涉事路由器在2006年就已過時。"
+    },
+    {
+      "id": "mkt:01a1df89-9ec1-7bbc-abe6-3379f48ee724",
+      "time": "2026-11-15 22:08:20",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bullish",
+        "UAL.O",
+        "LUV.O"
+      ],
+      "text": "U.S. Transportation Secretary Duffy said disruptions to U.S. air travel will end \"today or tomorrow.\""
+    },
+    {
+      "id": "5215718",
+      "time": "2026-11-15 22:06:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲稱：美國航空出行的中斷狀況將在“今天結束前或明天結束前”恢復。"
+    },
+    {
+      "id": "5215717",
+      "time": "2026-11-15 22:02:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：我需要資金用於新的電信系統和軟體。"
+    },
+    {
+      "id": "5215716",
+      "time": "2026-11-15 22:01:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：空中交通雷達將於春季開始交付。"
+    },
+    {
+      "id": "5215715",
+      "time": "2026-11-15 21:58:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國貿促會：將組織更多中國企業赴APEC經濟體考察交流 把亞太企業供需對接做深做實】中國貿促會國際合作部部長、APEC工商諮詢理事會中國候任代表吳蒙11月15日在2026年APEC工商界活動專題新聞釋出會上表示，中國貿促會將進一步發揮聯通政企、融通內外、暢通供需優勢，織密服務企業網、擴大國際朋友圈，促進亞太工商界務實合作，為發展亞太更緊密、更全面、更牢固的經貿夥伴關係注入工商力量。"
+    },
+    {
+      "id": "5215714",
+      "time": "2026-11-15 21:55:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：菲律賓烏尼翁以東9公里處發生5.5級地震。"
+    },
+    {
+      "id": "5215713",
+      "time": "2026-11-15 21:54:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【集泰股份：已具備浸沒式矽基冷卻液產品規模化生產條件與交付能力】集泰股份(002909)近日在接待投資者調研時表示，公司浸沒式矽基冷卻液產品已完成從小試、小試放大、中試到規模化生產的相關工藝驗證，公司目前已具備浸沒式矽基冷卻液產品的規模化生產條件與交付能力。公司現有矽油產線的產能為8000噸，該產線可根據市場需求和訂單情況推進改產，及時滿足市場需求。"
+    },
+    {
+      "id": "mkt:01a1df73-ff5f-7bbc-abe6-2dd54854fb87",
+      "time": "2026-11-15 21:44:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump is holding meetings at the White House on multiple issues."
+    },
+    {
+      "id": "5215712",
+      "time": "2026-11-15 21:43:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我正在白宮開會，議題涉及多個方面。"
+    },
+    {
+      "id": "mkt:01a1df72-8847-7bbc-abe6-26fb80310dd8",
+      "time": "2026-11-15 21:43:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Transportation Secretary Duffy said there is no sign a cyberattack occurred and the department will continue to investigate with the FBI."
+    },
+    {
+      "id": "em:qqyh_zgyh:202611153931496197",
+      "time": "2026-11-15 21:42:34",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【遏制資金利率下行勢頭 11月6個月期買斷式逆回購縮量續做】新一期買斷式逆回購操作將落地。根據人民銀行官網日前釋出的公告，為保持銀行體系流動性充裕，2026年11月16日，人民銀行將以固定數量、利率招標、多重價位中標方式開展2000億元買斷式逆回購操作，期限為6個月（180天），到期日為2027年5月15日（遇節假日順延）。"
+    },
+    {
+      "id": "5215710",
+      "time": "2026-11-15 21:41:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：沒有跡象表明發生了網路攻擊，我們將與聯邦調查局繼續調查。"
+    },
+    {
+      "id": "5215709",
+      "time": "2026-11-15 21:40:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：聯邦航空管理局、Juniper和思科工程師也在協助。"
+    },
+    {
+      "id": "5215708",
+      "time": "2026-11-15 21:40:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國交通部長達菲：L3Harris公司目前正在進行深度診斷測試。"
+    },
+    {
+      "id": "mkt:01a1df6f-62df-7bbc-abe6-18fab51bd97d",
+      "time": "2026-11-15 21:39:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says air-traffic-control funding should be provided in one lump sum】President Trump said Congress should approve urgent, one-time funding for the US air-traffic control system, arguing a lump-sum appropriation would allow rapid, efficient completion of upgrades and deliver the world’s best air-traffic control. He said large parts of the existing system have been in use for about 50 years and called that situation ridiculous. Trump said work has begun but the upgrade should be advanced in one go rather than piecemeal, urged Congress to approve the funds, and said the Biden administration had set the project back at least several years."
+    },
+    {
+      "id": "5215707",
+      "time": "2026-11-15 21:38:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛沙尼亞總理在社交平臺發文稱：出於國家安全考慮，愛沙尼亞正考慮關閉俄羅斯邊境。"
+    },
+    {
+      "id": "5215706",
+      "time": "2026-11-15 21:37:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：空中交通管制資金應一次性撥付到位。"
+    },
+    {
+      "id": "5215705",
+      "time": "2026-11-15 21:32:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮法律顧問威爾·沙夫表示，如果國會進行恐嚇，白宮將予以強力回應。"
+    },
+    {
+      "id": "mkt:01a1df67-8e66-7bbc-abe6-169e3784bda5",
+      "time": "2026-11-15 21:31:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's western air defense units announced today they shot down an \"Orbiter-4\" unmanned aerial vehicle in Hamadan province on Nov. 14."
+    },
+    {
+      "id": "mkt:01a1df67-4af5-7bbc-abe6-0cd7e68aecee",
+      "time": "2026-11-15 21:30:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【One-year anniversary of Guangdong vehicles southbound; Hong Kong–Zhuhai–Macao Bridge crossings top 41,000 vehicle trips】Nov 15 marked one year since the Guangdong vehicles southbound policy took effect. Border checkpoint data for the Hong Kong–Zhuhai–Macao Bridge show more than 41,000 vehicle entries/exits via the Zhuhai road port since launch; 26,000 drivers and 26,000 vehicles have been registered with border authorities."
+    },
+    {
+      "id": "5215704",
+      "time": "2026-11-15 21:24:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“粵車南下”一週年 港珠澳大橋出入境車輛超4.1萬輛次】今年11月15日是“粵車南下”政策實施滿一週年的日子。據港珠澳大橋邊檢站資料，政策落地至今，經港珠澳大橋珠海公路口岸出入境“粵車南下”車輛超4.1萬輛次，經邊檢備案司機數量已達2.6萬人，備案車輛已達2.6萬輛。（新華社）"
+    },
+    {
+      "id": "5215703",
+      "time": "2026-11-15 21:22:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛沙尼亞稱俄羅斯策劃了針對無人機製造商的未遂縱火事件。"
+    },
+    {
+      "id": "5215702",
+      "time": "2026-11-15 21:19:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱擊落一架軌道飛行器無人機】伊朗西部防空部隊今天（11月15日）宣佈，11月14日，其在哈馬丹省擊落一架“軌道飛行器-4”型號無人機。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a1df5d-0867-7bbc-abe6-06b5e5d82ed9",
+      "time": "2026-11-15 21:19:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump: Biden administration wasted funds, worsened FAA systems; urges Congress to appropriate funding】Trump said the Biden administration wasted substantial funds and left the FAA’s legacy, poorly functioning systems in a worse state. He said a technical solution and implementation plan for the air-traffic control system are in hand and urged Congress to appropriate funding immediately. He said the FAA is performing well and is ready to proceed with the work."
+    },
+    {
+      "id": "5215701",
+      "time": "2026-11-15 21:18:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國等五機構就蘇丹無人機襲擊發表聯合宣告】當地時間11月15日，聯合國、非洲聯盟、阿拉伯國家聯盟、歐盟和東非政府間發展組織（伊加特）發表聯合宣告，強烈譴責蘇丹境內持續升級的無人機襲擊，呼籲衝突各方立即停止敵對行動，保護平民安全。宣告表示，相關襲擊波及喀土穆州、青尼羅州、加達裡夫州、傑濟拉州、森納爾、紅海州以及科爾多凡和達爾富爾地區，造成大量平民傷亡，發電站、醫療機構等重要民用基礎設施遭到破壞。宣告重申，蘇丹武裝衝突不存在軍事解決方案，呼籲各方立即停止敵對行動，停止針對平民與民用設施的襲擊，同時終止助長局勢升級的外部支援。宣告還呼籲各方嚴格遵守國際人道主義法，並強調應當追究相關違法者的責任。（央視新聞）"
+    },
+    {
+      "id": "5215700",
+      "time": "2026-11-15 21:17:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們需要國會為（空中）飛行控制系統提供資金。"
+    },
+    {
+      "id": "5215699",
+      "time": "2026-11-15 21:14:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱兩艘油輪在霍爾木茲海峽觸雷爆炸】當地時間15日，伊朗伊斯蘭革命衛隊海軍宣佈，過去幾小時內，兩艘在霍爾木茲海峽南部海域沿未經伊朗授權航線行駛的油輪觸碰了水雷，引發了劇烈爆炸。這些油輪在美國軍方的誘導與支援下，關閉了所有識別及定位系統，試圖秘密透過該海峽。衛隊稱，其中一艘載有超過200萬桶原油的超級油輪，在爆炸和起火後，已沉沒在波斯灣南部海域。衛隊建議在上述海域作業的漁民務必採取安全防範措施，避免與這些沉沒油輪的殘骸發生碰撞。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1df50-8d40-7bbc-abe5-f834499fce71",
+      "time": "2026-11-15 21:06:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps navy said two oil tankers struck mines and caught fire in the Strait of Hormuz."
+    },
+    {
+      "id": "5215698",
+      "time": "2026-11-15 21:04:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗方面訊息，伊朗伊斯蘭革命衛隊（IRGC）海軍稱，兩艘油輪在霍爾木茲海峽觸雷後起火。"
+    },
+    {
+      "id": "5215697",
+      "time": "2026-11-15 21:04:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰海通資管澄清網傳不實資訊：從未曾以私募基金作為交易對手開展交易】近日，網路流傳有關“某機構資金委託某公司投顧管理、與私募基金開展協議式回購併發生回購違約”等傳言。對此，國泰海通資管11月14日釋出公告澄清稱，該網傳內容與上海國泰海通證券資產管理有限公司無關，網傳業務並非國泰海通資管開展。國泰海通資管長期以來禁止與私募基金開展任何形式的現券、回購業務，從未曾以私募基金作為交易對手開展交易。國泰海通資管堅持獨立投資決策與執行，建立了嚴格的准入、審批與風險管控機制，不存在上述網傳業務情形。"
+    },
+    {
+      "id": "5215696",
+      "time": "2026-11-15 21:02:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：斯潘伯格應當對獎學金組織進行資質認證。"
+    },
+    {
+      "id": "5215695",
+      "time": "2026-11-15 21:02:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "在2026年肥胖周（ObesityWeek® 2026）上公佈的REDEFINE 1試驗事後分析中，諾和諾德的CagriSema在早期應答者中實現了平均25%的減重效果。"
+    },
+    {
+      "id": "mkt:01a1df4a-6175-7bbc-abe5-f5618dcf34de",
+      "time": "2026-11-15 20:59:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "CSI300",
+        "Impact mixed",
+        "Hang Seng Index"
+      ],
+      "text": "【CITIC Securities: Late‑Oct market low likely; oversold recovery underway】CITIC Securities says the late‑October trough is likely this cycle’s market bottom and AIAE shows valuations are depressed; November should mark the start of a repair rally, but momentum is likely choppy—expect a ‘two steps forward, one step back’ pattern and a constrained recovery slope. Policy stance has shifted from emergency backstops to building mechanisms: Huijin’s quasi‑stabilization fund, state investor Guoxin and Chengtong’s structural guidance, inflows into broad‑market ETFs, equity buybacks and re‑lending together form a downside floor; late‑October levels can serve as a short‑term support reference. Offshore rate hikes, the NVIDIA episode and AI regulatory uncertainty have raised risk premia near term, while strengthening a mid‑term domestic self‑reliance rationale. Into year‑end watch for valuation rotation: institutional positions are concentrated, with upside skewed to low‑allocation, low‑crowding names; also position for cross‑year themes. Sector priorities: defense, agriculture/forestry/animal husbandry/fisheries, food & beverage, pharmaceuticals, banks, non‑bank finance, utilities. Theme priorities: short‑form AI content, physical AI, and domestic compute capacity."
+    },
+    {
+      "id": "5215694",
+      "time": "2026-11-15 20:55:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：市場底大機率確認 超跌修復行情開啟】中信建投研報顯示，十月底低點大機率已是本輪市場底，AIAE顯示估值偏低，11月是修復起點，但節奏更可能“進二退一”，修復斜率仍受一定約束。穩市政策已從應急託底轉向機制建設，匯金“類平準基金”、國新誠通“結構引導”、寬基ETF流入與回購增持再貸款共同構築下沿，10月底位置可視為短期底部支撐參考。海外加息、英偉達事件與AI監管不確定性短期抬升風險溢價，中期強化自主可控邏輯。年末關注估值切換：機構倉位集中，補漲賠率來自“低配+低擁擠”，同時佈局跨年主題。行業重點關注：軍工、農林牧漁、食品飲料、醫藥、銀行、非銀、公用事業等，主題關注：AI短劇、物理AI、國產算力等。"
+    },
+    {
+      "id": "mkt:01a1df37-ac1d-7bbc-abe5-ecac9e4b86e8",
+      "time": "2026-11-15 20:38:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japanese media: government considers replacing ambassador to Russia within year】Japanese media reported the government is considering replacing its ambassador to Russia before year-end and will formalize the move at an upcoming Cabinet meeting, proposing former foreign ministry European Affairs bureau chief Hideki Uyama as the new envoy. Incumbent Akira Muto was appointed in October 2023 and took up the post in December; ambassadorial terms are typically three years. The report gave no reason. Tokyo–Moscow ties have deteriorated: Russia arrested a Japanese journalist in October and earlier this month temporarily seized assets of seven Russia-based companies owned by Japan Tobacco, prompting Japanese protests. Moscow has repeatedly summoned Ambassador Muto to protest Japanese firms’ investments in Ukraine and comments by politicians Sanae Takaichi and Toshimitsu Motegi regarding Putin’s landing on Iturup."
+    },
+    {
+      "id": "5215693",
+      "time": "2026-11-15 20:35:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我軍集中督導檢查被裝生產運輸】近日，中央軍委後勤保障部指導聯勤保障部隊，利用1個月時間，集中開展被裝生產運輸專項督導檢查。這是軍地有關部門規範軍服管理、助力練兵備戰的重要舉措。具體內容包括，排查面料企業超計劃生產和變通出售，成品企業違規對外銷售，物流企業截流外流等問題。（央視軍事）"
+    },
+    {
+      "id": "5215692",
+      "time": "2026-11-15 20:28:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日媒：日本政府考慮年內更換駐俄羅斯大使】日本媒體15日援引訊息人士報道，日本政府考慮年內更換駐俄大使，將在近期內閣會議上正式決定，擬任命日本外務省前歐洲局局長宇山秀樹為新任大使。現任大使武藤顯2023年10月獲任命、12月赴俄履職，任期通常為3年。報道未提及換人原因。日俄關係持續惡化，今年10月俄方逮捕一名日本記者，本月初俄方臨時接管日本菸草公司旗下7家企業在俄資產，日方提出抗議；俄方還多次召見武藤顯，就日本企業向烏方投資及高市早苗、茂木敏充對普京登伊圖魯普島言論提出抗議。（新華社）"
+    },
+    {
+      "id": "mkt:01a1df2b-2b8d-7bbc-abe5-e2d283b5d066",
+      "time": "2026-11-15 20:25:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's Li arrives in Manila for China-ASEAN leaders' meeting】China's Li arrived in Manila on the evening of Nov. 15 by chartered plane to attend the China-ASEAN leaders' meeting at the invitation of Philippine President Marcos. He was met at Ninoy Aquino International Airport by the Philippine finance minister and China's ambassadors to the Philippines and to ASEAN. Li travelled to Manila after completing a formal visit to Thailand; Thailand's deputy prime minister and finance minister and China's ambassador to Thailand saw him off in Bangkok."
+    },
+    {
+      "id": "5215691",
+      "time": "2026-11-15 20:23:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世界首顆全整合一步求解矩陣方程模擬計算晶片問世】從模擬計算晶片公司安納智芯瞭解到，該公司自主研發的AX100晶片已於10月完成流片，這是世界首顆全整合一步求解矩陣方程模擬計算晶片。經測試，該晶片單次矩陣方程求解時間小於100納秒，單次計算功耗約為80毫瓦，完全符合理論模擬與設計預期。"
+    },
+    {
+      "id": "5215690",
+      "time": "2026-11-15 20:22:08",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【李強抵馬尼拉出席中國－東盟領導人會議】應東盟輪值主席國菲律賓總統馬科斯邀請，國務院總理李強乘包機於11月15日晚抵達馬尼拉尼諾伊·阿基諾國際機場，將出席中國－東盟領導人會議。菲律賓財政部長吳詩澤和中國駐菲律賓大使井泉、駐東盟大使王擎等到機場迎接。李強是在結束對泰國正式訪問後赴馬尼拉的。離開曼谷時，泰國副總理兼財政部長艾尼迪和中國駐泰國大使張建衛等到機場送行。（新華社）"
+    },
+    {
+      "id": "5215689",
+      "time": "2026-11-15 20:20:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週兩融餘額增幅最大：大勝達兩融餘額：3.82億元，餘額增幅：93.98%，融資買入額：2.27億元，融券賣出量：0；菲沃泰兩融餘額：1.9億元，餘額增幅：70.85%，融資買入額：0.81億元，融券賣出量：200"
+    },
+    {
+      "id": "mkt:01a1df20-bea2-7bbc-abe5-d9c5566c8742",
+      "time": "2026-11-15 20:13:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign minister to visit Oman on Tuesday】Iranian foreign ministry spokesman BAGHAEI said Foreign Minister Araghchi will visit Islamabad and Muscat in coming days. On Monday Araghchi will attend the 30th Economic Cooperation Organization (ECO) foreign ministers’ meeting in Islamabad to discuss economic and trade cooperation among the organization’s 10 member states. On Tuesday he will travel to Muscat to meet Omani foreign minister for consultations."
+    },
+    {
+      "id": "mkt:01a1df1b-a063-7bbc-abe5-d5a1653b7b79",
+      "time": "2026-11-15 20:08:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports Iran's foreign minister plans to visit Oman on Tuesday for talks."
+    },
+    {
+      "id": "5215688",
+      "time": "2026-11-15 20:07:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【僑銀股份：僑銀轉債存在無法按期足額兌付本息風險】僑銀股份公告稱，“僑銀轉債”到期日為2026年11月16日，到期兌付價格為130元/張（含稅及最後一期年度利息），兌付資金髮放日為2026年11月17日。該轉債已於2026年11月12日停止交易，停止交易後至11月16日仍可轉股，當前轉股價格為10.60元/股。截至2026年11月12日，未轉股轉債共419.65萬張，佔發行總量的99.92%。因公司資金週轉承壓，兌付資金尚未全部到位，存在無法按期足額兌付本息的重大風險。公司正透過催收應收賬款、處置資產等方式籌措資金，相關措施效果存在不確定性。"
+    },
+    {
+      "id": "5215687",
+      "time": "2026-11-15 20:06:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗方面訊息，伊朗外交部長將於週二訪問阿曼，與阿曼外交大臣舉行會談。"
+    },
+    {
+      "id": "mkt:01a1df16-1a31-7bbc-abe5-c83e1b177cb2",
+      "time": "2026-11-15 20:02:09",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UK Maritime Trade Operations said a tanker was attacked while eastbound in the Persian Gulf as it prepared to enter the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a1df15-51f3-7bbc-abe5-c089dc79d47a",
+      "time": "2026-11-15 20:01:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran says it has agreed with two littoral states on Strait of Hormuz transit route】Iran’s parliament National Security and Foreign Policy Committee spokesman Kashkavi told state media the committee completed a technical review and has reached agreement with two littoral states on a transit corridor through the Strait of Hormuz. The corridor will be implemented initially on a temporary basis before being made permanent and is awaiting the parliament presidium to place it on the plenary agenda for a vote. Kashkavi added Iran has not initiated aggression, is in a defensive posture, and, under international law, considers itself in a state of war in the Persian Gulf and Gulf of Oman."
+    },
+    {
+      "id": "5215686",
+      "time": "2026-11-15 19:55:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：該油輪在進入霍爾木茲海峽前正東向航行。"
+    },
+    {
+      "id": "5215685",
+      "time": "2026-11-15 19:54:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗：就霍爾木茲海峽航道與兩個沿岸國家達成協議】據伊朗塔斯尼姆通訊社15日報道，伊朗議會國家安全與外交政策委員會發言人卡什卡維表示，該委員會已完成霍爾木茲海峽相關方案的專業審議，就有關通行航道與兩個沿岸國家達成協議。商定的航道將先以臨時方式實施，之後轉為永久性安排。目前正等待議會主席團將其列入全體會議議程、提交表決。卡什卡維還表示，伊朗從未主動發動侵略，目前處於防禦狀態；根據國際法，伊方認為本國目前在波斯灣和阿曼灣地區都處於戰爭狀態。（新華社）"
+    },
+    {
+      "id": "5215684",
+      "time": "2026-11-15 19:54:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：已獲悉阿拉伯灣一艘油輪遭襲的報告。"
+    },
+    {
+      "id": "5215683",
+      "time": "2026-11-15 19:48:52",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【11月15日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【建設亞太共同體 促進共同繁榮】共擔時代責任 共促亞太發展； 2.中共中央印發《中國共產黨地方委員會工作條例》； 3.李強會見泰國國王； 4.李強同泰國總理共同出席中泰企業家座談會； 5.【學習貫徹黨的二十屆五中全會精神】中央宣講團在各地宣講黨的二十屆五中全會精神； 6.守護公平正義 高質量司法護航中國式現代化； 7.2026年APEC工商領導人峰會準備就緒； 8.【數說APEC】中國生態治理經驗為亞太增“綠”； 9.國內聯播快訊： （1）今年1—10月全國期貨市場累計成交額同比增長32.44%； （2）深圳口岸迎來APEC客流高峰； （3）APEC大使與CEO圓桌會在深圳舉行； （4）2026年“秋招”提供崗位551.5萬個； （5）中國空間站完成第四次空間輻射生物裝置暴露實驗； （6）我國重新整理6000米井深陸相頁岩油井最短鑽井週期紀錄； （7）2026年中文水平考試考生人數首次突破100萬人次； （8）我國中東部將有大範圍大風降溫和雨雪天氣； 10.多國人士期待中國攜手亞太夥伴共啟發展繁榮新航程； 11.國際聯播快訊： （1）聯合國呼籲恢復霍爾木茲海峽化肥運輸； （2）阿盟及18國譴責以軍空襲加沙醫院； （3）美停飛令取消次日仍有上萬航班受影響； （4）擅自讀取使用者資料 元宇宙在義大利遭罰。"
+    },
+    {
+      "id": "mkt:01a1defa-c384-7bbc-abe5-b85843d046a8",
+      "time": "2026-11-15 19:32:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenzhen airport ports handle 6.064 mln inbound/outbound passengers YTD】Shenzhen border inspection authority said as of 24:00 on Nov 13 Shenzhen airport ports have processed 6.064 million inbound and outbound passengers year-to-date, up 5% YoY; the 6 million mark was reached 15 days earlier than last year, a record for the period and the fourth-largest throughput among China’s major airports."
+    },
+    {
+      "id": "5215682",
+      "time": "2026-11-15 19:31:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【帶動消費超45.4億元 第二十五屆中國上海國際藝術節閉幕】11月15日晚，第二十五屆中國上海國際藝術節閉幕。從10月17日到11月15日，本屆藝術節吸引來自80多個國家和地區的近2萬名藝術工作者匯聚申城，呈現了1125場的精彩演出、展覽活動，覆蓋線上線下觀眾近1300萬人次，整體辦節滿意率達99.5%。超40萬張演出票撬動46個商業體、約1000家商戶深度合作，體量較上屆翻了近三倍，綜合帶動消費規模超45.4億元（較上屆增長2.6%），觀演直接產生的消費規模達11.86億元。調研顯示，來滬觀演的觀眾人均在滬停留5.12天，過夜率達81.86%。重點劇場在演出前後周邊日均消費金額同比增長9.28%，環比增長3.14%。（央視新聞）"
+    },
+    {
+      "id": "5215681",
+      "time": "2026-11-15 19:27:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【維德角舉行總統選舉】當地時間11月15日，維德角舉行總統選舉，包括現任總統若澤·馬里亞·內韋斯在內的6名候選人角逐下屆總統。選舉投票於當地時間15日早上8時開始，選民在1300多個投票站進行投票。（央視新聞）"
+    },
+    {
+      "id": "5215680",
+      "time": "2026-11-15 19:26:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱在過去48小時內，有5艘油輪在霍爾木茲海峽觸雷。"
+    },
     {
       "id": "mkt:01a1def2-0ade-7bbc-abe5-a8b0ded0a378",
       "time": "2026-11-15 19:22:46",
