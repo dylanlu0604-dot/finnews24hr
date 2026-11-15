@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-16 05:49:00",
-  "count": 9878,
+  "updated": "2026-11-16 05:52:45",
+  "count": 9879,
   "items": [
+    {
+      "id": "mkt:01a1e12f-e423-7bbc-abe8-976632c484a3",
+      "time": "2026-11-16 05:49:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【New Zealand services PSI expands fifth month, hits 3.5-year high】New Zealand's October services performance index (PSI) rose to 51.7 from 50.9, the highest since mid-2023 and the fifth consecutive month of expansion, driven by new orders and sales. The employment subindex fell to 49.9, the only component below the 50 expansion threshold. The print signals a broadening recovery and provides modest support to the New Zealand dollar by easing pressure on the RBNZ to add further policy support; however, flat employment and ongoing cost-of-living pressures indicate spare capacity persists. Traders are likely to view the data as confidence-boosting rather than a regime shift and will watch upcoming releases to see if consumption suppressed during the election begins to re-emerge."
+    },
     {
       "id": "5215897",
       "time": "2026-11-16 05:46:42",
