@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-16 01:53:11",
-  "count": 9873,
+  "updated": "2026-11-16 01:57:00",
+  "count": 9870,
   "items": [
+    {
+      "id": "5215801",
+      "time": "2026-11-16 01:54:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場資訊：日本航運集團海洋網聯船務（ONE）時隔約三年首次派遣一艘集裝箱船透過曼德海峽。"
+    },
+    {
+      "id": "5215800",
+      "time": "2026-11-16 01:52:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗警告地區國家，若為美國和以色列針對德黑蘭的軍事行動提供任何協助，相關國家須對由此產生的後果負責。"
+    },
     {
       "id": "5215799",
       "time": "2026-11-16 01:50:54",
@@ -89850,47 +89867,6 @@
         "US10Y"
       ],
       "text": "【Rare attack on Riyadh financial district threatens Saudi foreign investment push】Houthi rebels struck a landmark building in the Riyadh Financial District (KAFD), disrupting Riyadh’s plan to return to normal roughly a month after a deadly strike on Riyadh airport that halted travel and forced event cancellations. KAFD houses the Public Investment Fund (PIF), the Saudi stock exchange and global consultancies and asset managers including Goldman Sachs and Brookfield, raising confidence risks for international firms already hit by months of regional conflict. The attack occurred during a remote-working period, limiting immediate operational impact. The escalation could further increase political pressure on Crown Prince Mohammed bin Salman as he seeks to advance a multi-trillion-dollar economic diversification program. Saudi authorities have delayed or cancelled major events in the past month, including the AFC Asian Cup and the Future Investment Initiative, which had been expected to support the economy and attract foreign investment."
-    },
-    {
-      "id": "5201624",
-      "time": "2026-11-09 01:56:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗是一個失敗國家，通脹率已達301%，重返戰事的可能性極小，但如有必要，我也會這麼做。"
-    },
-    {
-      "id": "mkt:01a1bc4c-f031-7ee0-aac6-5e7f91b5fc74",
-      "time": "2026-11-09 01:55:21",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Saudi media: Iraqi delegation visited Tehran to relay US message】Saudi Al Arabiya Hadath reported an Iraqi delegation visited Tehran and met Iranian officials to convey a message from the US, citing anonymous sources. The visit lasted about eight hours and came after US envoy Tom Barrack’s trip to Baghdad and a phone call between US President Trump and Iraqi prime minister al-Zaidi; the report did not identify delegation members, Iranian interlocutors, or the content of the US message."
-    },
-    {
-      "id": "5201623",
-      "time": "2026-11-09 01:55:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國工黨或將削減英國汽車行業的電動汽車目標。"
-    },
-    {
-      "id": "5201622",
-      "time": "2026-11-09 01:54:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【沙特媒體：伊拉克代表團訪問伊朗並轉達美方資訊】據沙烏地阿拉伯阿拉比亞電視臺旗下哈達斯新聞頻道8日報道，一個伊拉克代表團日前訪問伊朗首都德黑蘭，與伊朗官員舉行會談並轉達美國方面的資訊。報道援引匿名訊息人士的話說，伊拉克代表團此次訪問持續約8小時。訪問發生在美國特使湯姆·巴拉克訪問伊拉克首都巴格達，以及美國總統特朗普與伊拉克總理扎伊迪通電話之後。（新華社）"
-    },
-    {
-      "id": "5201621",
-      "time": "2026-11-09 01:53:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯正加緊推出自主版“星鏈”系統，該系統可能使俄方運營方能夠控制深入烏克蘭境內的無人機。"
     }
   ]
 }
