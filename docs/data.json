@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-16 06:38:01",
+  "updated": "2026-11-16 06:41:43",
   "count": 9857,
   "items": [
+    {
+      "id": "mkt:01a1e15e-6928-7bbc-abe8-c71a9bfd1ed5",
+      "time": "2026-11-16 06:40:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios, citing two people familiar with the matter, reports Vice President Vance may wait until late spring 2027 to announce a 2028 US presidential bid."
+    },
     {
       "id": "5216133",
       "time": "2026-11-16 06:36:58",
@@ -89794,20 +89802,6 @@
         "公司"
       ],
       "text": "【港股綠鞋機制充當隱形穩定器，年內48家企業啟動超額配售】今年以來，港股IPO市場使用綠鞋機制規模已超去年全年。Wind資料顯示，今年以來，48家公司授予主承銷商使用綠鞋機制，超額配售募資淨額累計達到284.73億元。去年全年，45家公司授予主承銷商使用綠鞋機制，超額配售募資淨額累計達到241.98億元。"
-    },
-    {
-      "id": "mkt:01a1bd51-af21-7ee0-aac7-dd10364baf88",
-      "time": "2026-11-09 06:40:09",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "The Times reports Meta Platforms (META.O) is preparing to launch Muse, its AI assistant, in the UK."
     }
   ]
 }

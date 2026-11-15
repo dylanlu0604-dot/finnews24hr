@@ -1,7 +1,15 @@
 {
   "date": "2026-11-16",
-  "count": 149,
+  "count": 150,
   "items": [
+    {
+      "id": "mkt:01a1e15e-6928-7bbc-abe8-c71a9bfd1ed5",
+      "time": "2026-11-16 06:40:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios, citing two people familiar with the matter, reports Vice President Vance may wait until late spring 2027 to announce a 2028 US presidential bid."
+    },
     {
       "id": "5216133",
       "time": "2026-11-16 06:36:58",
