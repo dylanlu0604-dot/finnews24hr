@@ -1,7 +1,41 @@
 {
-  "updated": "2026-11-15 08:27:51",
-  "count": 9880,
+  "updated": "2026-11-15 08:31:39",
+  "count": 9883,
   "items": [
+    {
+      "id": "mkt:01a1dc9d-8ab8-7bbc-abe3-b55a8ba3cc1f",
+      "time": "2026-11-15 08:31:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi-led coalition spokesperson Turki al-Maliki said the coalition intercepted and destroyed a drone in the eastern region."
+    },
+    {
+      "id": "5214782",
+      "time": "2026-11-15 08:28:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年中文水平考試考生人數首破百萬人次】11月13日至15日，2026世界中文大會在北京舉行，來自160多個國家和地區的約5000名代表參會。記者從大會獲悉，今年中文水平考試（HSK）考生人數首次突破100萬人次。隨著中文學習需求不斷增長，中文的應用場景也在不斷拓展。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1dc9a-4c59-7bbc-abe3-acd12867f689",
+      "time": "2026-11-15 08:27:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. diesel prices fell below $6.00/gal for the first time since September, GasBuddy analyst Patrick DeHaan said."
+    },
+    {
+      "id": "5214781",
+      "time": "2026-11-15 08:27:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶開通跨航司國際通程中轉業務】據重慶釋出訊息，自11月14日起，海南航空、天津航空、西部航空在重慶江北國際機場正式開通“跨航司國際通程中轉”業務。重慶成為全國第四個、中西部地區第一個獲批開展跨航司國際通程航班業務的航空口岸。"
+    },
     {
       "id": "5214780",
       "time": "2026-11-15 08:26:55",
@@ -89877,17 +89911,6 @@
         "MKT News"
       ],
       "text": "【Trump to meet UFC CEO Dana White to discuss White House press secretary role】UFC CEO Dana White said he plans to meet President Trump on Monday to discuss an offer to become White House press secretary, the Wall Street Journal reported. Trump said on social media Saturday he offered White the job; it is unclear whether White will accept. At a UFC news conference White said he already has \"a lot of work to do.\" A person close to White said Trump had previously raised the position. Trump framed the offer amid preparations following the GOP’s midterm defeats."
-    },
-    {
-      "id": "mkt:01a1b88f-4e81-7ee0-aac2-638002450cad",
-      "time": "2026-11-08 08:29:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "UKMTO reported an incident in the Gulf of Oman, 18 nm east of Khorfakkan, UAE, involving a bulk carrier and military forces."
     }
   ]
 }
