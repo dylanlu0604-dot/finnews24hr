@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-16 02:08:20",
+  "updated": "2026-11-16 02:12:01",
   "count": 9865,
   "items": [
+    {
+      "id": "5215803",
+      "time": "2026-11-16 02:08:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約原油暗盤突破87美元，日內漲超0.6%。"
+    },
     {
       "id": "5215802",
       "time": "2026-11-16 02:00:11",
@@ -89816,14 +89824,6 @@
         "國際"
       ],
       "text": "美國共和黨中期選舉失敗後，民主黨擬對馬斯克、白宮辦公廳主任米勒及美國企業界展開調查。"
-    },
-    {
-      "id": "mkt:01a1bc5b-3c19-7ee0-aac6-7b82fef17319",
-      "time": "2026-11-09 02:10:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran FM: US needs time to digest election result; mediation paused】IRNA reported that during a cabinet meeting Iran’s foreign minister Araghchi said the US election outcome needs time to be digested and to determine how to proceed. He said intermediaries have had no contact in recent days because of the result, and that the situation will need time to improve before intermediaries resume mediation."
     }
   ]
 }
