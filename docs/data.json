@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-15 11:50:03",
-  "count": 9930,
+  "updated": "2026-11-15 11:53:47",
+  "count": 9933,
   "items": [
+    {
+      "id": "mkt:01a1dd55-53a2-7bbc-abe4-77b2e5921ef2",
+      "time": "2026-11-15 11:51:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's Interior Ministry reissued a danger alert."
+    },
+    {
+      "id": "5215540",
+      "time": "2026-11-15 11:51:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林內政部發布潛在威脅警報。"
+    },
+    {
+      "id": "mkt:01a1dd53-5e7e-7bbc-abe4-69fb1d3e18cc",
+      "time": "2026-11-15 11:49:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Federal judge temporarily blocks Trump plan to close historic Washington park and golf course】A federal judge temporarily blocked the U.S. government's plan to close a historic Washington park and its golf course, finding President Trump lacked authority to shut the site but noting the administration is not required to perform day-to-day management. In a 30-page ruling, U.S. District Judge Anna Reyes said the administration’s stated reasons were pretext and that the proposed closure, advanced to meet an arbitrary deadline, violated at least two federal laws. Reyes added the government sought an indefinite closure that would run counter to public use of national park land. Trump had called the course a \"garbage island\" and in October announced a 15-month renovation to make the site publicly accessible and capable of hosting world-class events."
+    },
     {
       "id": "5215535",
       "time": "2026-11-15 11:47:31",
