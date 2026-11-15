@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-16 06:11:38",
-  "count": 9869,
+  "updated": "2026-11-16 06:15:25",
+  "count": 9867,
   "items": [
+    {
+      "id": "5216037",
+      "time": "2026-11-16 06:14:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星將在美國生產SpaceX衛星晶片】三星電子將擴建位於得克薩斯州奧斯汀的晶片工廠，為馬斯克旗下太空企業SpaceX生產星鏈衛星搭載的STM32V8微控制器（MCU）。三星已經在得州佈局晶圓代工基地，如今在原有客戶（特斯拉、英偉達、AMD的AI晶片訂單）之外新增SpaceX衛星晶片業務，其美國業務版圖正快速拓展至航天與國防領域。"
+    },
+    {
+      "id": "5216026",
+      "time": "2026-11-16 06:12:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟銀行監管機構放棄單一存款保險計劃。"
+    },
     {
       "id": "mkt:01a1e143-3bf2-7bbc-abe8-ac57971a92f6",
       "time": "2026-11-16 06:10:42",
@@ -89885,39 +89902,6 @@
         "宏觀"
       ],
       "text": "【穩市政策持續加碼，機構：A股震盪反彈行情有望延續】上週A股市場整體呈現震盪反彈格局，主要指數回升。此外，11月6日召開的國務院常務會議指出，完善資本市場穩市機制，增強股市內在穩定性，促進資本市場平穩健康發展。展望後市，多家機構策略研報認為：隨著穩定資本市場措施持續加碼，海外不確定性因素階段性落地，A股震盪反彈行情有望延續。（上證報）"
-    },
-    {
-      "id": "mkt:01a1bd3a-e904-7ee0-aac7-8c394685e23b",
-      "time": "2026-11-09 06:15:16",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Rubio: Iran's demands completely unacceptable; U.S. still open to diplomacy if possible】U.S. Secretary of State Rubio said talks via intermediaries produced no results and Iran's demands are completely unacceptable, calling some demands outrageous and even absurd. He added that diplomacy can sometimes fail, but the U.S. will pursue a diplomatic solution if there remains a chance."
-    },
-    {
-      "id": "5201698",
-      "time": "2026-11-09 06:14:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：我認為特朗普總統承接了其他總統未能完成的事。有時候，當你做正確的事時，你並不清楚它是否受歡迎，但這依然是應該做的事。總統是經選舉產生的，職責就是承接棘手的事，有時是困難的事，但都是必要的事。"
-    },
-    {
-      "id": "5201697",
-      "time": "2026-11-09 06:12:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國採取防禦性行動。如果本地區美軍部隊面臨威脅，美方將對相關方採取行動。"
-    },
-    {
-      "id": "mkt:01a1bd38-bd79-7ee0-aac7-841f1b94f370",
-      "time": "2026-11-09 06:12:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said if shipping is threatened, the U.S. will defend shipping."
     }
   ]
 }
