@@ -1,7 +1,565 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-11-15 04:46:37_
-_本檔包含 1603 則快訊，約 364715 字_
+_更新時間：2026-11-15 08:39:11_
+_本檔包含 1654 則快訊，約 366460 字_
+
+---
+
+### 2026-11-09 21:21:32  #公司
+
+【公司的腦機產品是否形成銷售收入？熵基科技回應】有投資者向熵基科技（301330.SZ）提問，請問公司腦機產品設計的晶片是自研自產嗎？技術含量跟同業公司相比是否有競爭優勢？腦機產品是否形成銷售收入？全球是否已佈局銷售網路？如何參與國際競爭？11月9日，公司回答表示，腦機產品晶片分自研和外採。公司腦電模組實現少量銷售，該部分收入當前佔公司營業收入的比例較低，公司依託多模態 BioCV 等差異化能力及成熟全球銷售網路等優勢推進腦機業務落地，腦機介面作為前沿技術領域，仍面臨技術迭代、市場接受度、產業化程序等多方面不確定性。公司提請投資者注意投資風險。
+
+---
+
+### 2026-11-09 21:20:15  #MKT News #Macro & Rates #Treasury Yields
+
+UK government bonds extended gains; 10-year gilt yield fell 5bps intraday to 5.10%.
+
+---
+
+### 2026-11-09 21:19:56  #市場
+
+英國國債收益率延續漲勢；英國10年期國債收益率下跌5個基點至5.10%。
+
+---
+
+### 2026-11-09 21:19:47  #市場
+
+坦尚尼亞10月份消費者價格指數同比上漲4.2%。
+
+---
+
+### 2026-11-09 21:18:24  #國際
+
+【烏代表團已啟程赴阿布扎比參加烏美俄會談】當地時間9日，烏克蘭談判代表團團長烏梅羅夫證實，烏代表團已啟程前往阿聯酋首都阿布扎比，籌備相關會談。烏、美、俄三方定於11月10日至11日在阿布扎比舉行會談。烏梅羅夫稱，三方會談期間，英國、法國、德國、義大利以及北約、歐盟委員會代表也在阿布扎比停留。烏梅羅夫強調，歐洲參與外交程序十分重要，烏克蘭需要和主要合作伙伴密切協調，統一立場。（央視新聞）
+
+---
+
+### 2026-11-09 21:18:21  #MKT News
+
+【Ukrainian delegation departs for Abu Dhabi for Ukraine-US-Russia talks】Ukraine chief negotiator Umerov said on Nov. 9 the Ukrainian delegation has departed for Abu Dhabi to prepare trilateral talks with the US and Russia scheduled for Nov. 10-11. Umerov said UK, French, German and Italian representatives, plus NATO and the European Commission, will also be in Abu Dhabi. He said European participation is important and that Ukraine needs close coordination with key partners to align positions.
+
+---
+
+### 2026-11-09 21:17:56  #公司 #國際
+
+據報道，美國政府將就英偉達CEO黃仁勳相關事宜向國會作情況通報。
+
+---
+
+### 2026-11-09 21:17:47  #公司
+
+【君正股份：AI伺服器主要用SPI NOR】有投資者向君正股份（300223.SZ）提問，ai伺服器主要需要的是octal nor 還是spi nor？是不是octal nor單價貴的多？11月9日，公司回答表示，AI伺服器主要用SPI NOR。
+
+---
+
+### 2026-11-09 21:16:56  #公司
+
+瑞銀將沃爾瑪公司<WMT.O>的目標價從130美元上調至149美元。
+
+---
+
+### 2026-11-09 21:16:45  #MKT News #WMT.N #Impact bullish
+
+UBS raised its PT on Walmart (WMT.N) to $149 from $130.
+
+---
+
+### 2026-11-09 21:16:11  #公司
+
+【TVB與TME達成戰略合作 打造旗艦專案《大灣區勁歌金榜》】11月9日，無線集團有限公司（TVB）與騰訊音樂娛樂集團（TME）共同舉行戰略合作釋出會。釋出會上，雙方宣佈將致力打造大灣區一站式粵語音樂文化新生態，推出首個旗艦專案《大灣區勁歌金榜》。
+
+---
+
+### 2026-11-09 21:14:04  #其他
+
+秘魯共和國宣佈對符合條件的債券進行置換併發行新債券。
+
+---
+
+### 2026-11-09 21:13:11  #MKT News
+
+UAE's Khor Fakkan closed a local beach after a suspected oil spill, according to a notice.
+
+---
+
+### 2026-11-09 21:13:07  #公司
+
+【AMD：第五代EPYC處理器為谷歌TPU 8tx提供主機基礎設施】AMD宣佈，第五代EPYC伺服器處理器將為谷歌雲TPU 8tx提供主機基礎設施。TPU 8tx是首個支援硬體強制機密計算的雲端TPU系統。雙方將結合AMD EPYC處理器、Infinity Guard安全技術及谷歌TPU算力，幫助企業在雲端執行推理、微調和強化學習等AI工作負載，同時保護敏感資料。AMD表示，其EPYC處理器已成為全球超過10家主要超大規模雲服務商及前沿AI實驗室的主機CPU選擇。
+
+---
+
+### 2026-11-09 21:12:47  #MKT News
+
+Politico reports Senator Elizabeth Warren plans to work with Republican Senator Tim Scott to advance a housing bill.
+
+---
+
+### 2026-11-09 21:12:44  #市場 #國際
+
+【美國天然氣期貨日內漲幅達3%】美國天然氣期貨日內漲幅達3%，現報3.088美元/百萬英熱。
+
+---
+
+### 2026-11-09 21:12:33  #公司 #市場 #國際
+
+【博通將於12月9日公佈2026財年第四季度及全年業績】博通宣佈，將於美國當地時間12月9日（週三）美股收盤後公佈2026財年第四季度及全年財務業績，並於太平洋時間當日下午2時召開財報電話會議。
+
+---
+
+### 2026-11-09 21:12:13  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O #Impact bullish
+
+Google (GOOG.O) said Cloud Pathways is now generally available on Google Kubernetes Engine (GKE) and will serve as a core runtime for the Google Cloud AI Supercomputer.
+
+---
+
+### 2026-11-09 21:12:11  #其他
+
+阿聯酋豪爾法坎已在發現“漏油”後關閉當地海灘。
+
+---
+
+### 2026-11-09 21:11:54  #國際
+
+美國參議員沃倫計劃與參議員蒂姆·斯科特共同推進住房法案。
+
+---
+
+### 2026-11-09 21:11:42  #MKT News #EURUSD
+
+Eurogroup president Pierakakis said the group plans to make a swift, flexible decision on the next ECB president.
+
+---
+
+### 2026-11-09 21:11:38  #MKT News #Market Regions #Europe & UK
+
+Eurogroup President Pilarakis is meeting European Council President Costa to discuss ECB-related issues.
+
+---
+
+### 2026-11-09 21:11:17  #MKT News
+
+POLITICO, citing Senator Elizabeth Warren's banking-policy adviser, reports she plans to push to cap credit-card interest rates and to include that cap in her policy agenda.
+
+---
+
+### 2026-11-09 21:10:49  #MKT News #Market Regions #Europe & UK
+
+Eurogroup chair Pierrakakis said it would be ideal to decide on the next European Central Bank president before year-end.
+
+---
+
+### 2026-11-09 21:10:47  #公司 #央行 #國際
+
+歐盟歐元集團主席皮埃拉卡基斯：將與歐洲理事會主席科斯塔舉行會晤，討論歐洲央行相關事宜。
+
+---
+
+### 2026-11-09 21:10:31  #公司 #央行 #國際
+
+歐元集團主席：理想情況是在年底前就歐洲央行新行長人選做出決定。
+
+---
+
+### 2026-11-09 21:10:22  #MKT News #Market Regions #Europe & UK
+
+Allies of Italian prime minister Meloni said Italy's exit tax on wealthy residents needs to be revised.
+
+---
+
+### 2026-11-09 21:10:19  #公司
+
+谷歌宣佈，Cloud Pathways已在谷歌Kubernetes引擎上全面開放商用，作為谷歌雲AI超級計算機的核心執行時支柱。
+
+---
+
+### 2026-11-09 21:09:58  #其他
+
+訊息稱，美國參議員沃倫計劃推動設定信用卡利率上限。
+
+---
+
+### 2026-11-09 21:09:58  #MKT News #Brent #Impact bullish #WTI #DXY
+
+IMF says Middle East conflict is a key risk to Denmark and expects Danish inflation to rise to about 2.5% by end-2026.
+
+---
+
+### 2026-11-09 21:09:17  #MKT News #Important
+
+Qatar official says reports on details of a US-Iran cooperation plan are inaccurate. The US and Iran are discussing agreement details with mediators.
+
+---
+
+### 2026-11-09 21:08:27  #其他
+
+義大利總理梅洛尼的盟友表示，義大利財富離境稅需進行修訂。
+
+---
+
+### 2026-11-09 21:08:15  #MKT News #Commodities #Energy
+
+U.S. natural gas futures gained as much as 3.00% intraday, trading at $3.088/MMBtu.
+
+---
+
+### 2026-11-09 21:08:13  #國際
+
+卡達官員：美國和伊朗正與調解人商討協議細節。
+
+---
+
+### 2026-11-09 21:08:00  #其他
+
+卡達官員：美伊談判仍在進行中。
+
+---
+
+### 2026-11-09 21:07:53  #其他 #焦點
+
+卡達官員表示，有關美伊提案細節的報道不實。
+
+---
+
+### 2026-11-09 21:07:26  #其他
+
+國際貨幣基金組織預測，到2026年底，丹麥通脹率將升至約2.5%。
+
+---
+
+### 2026-11-09 21:07:23  #MKT News #Market Regions #Europe & UK
+
+IMF: Denmark's economy continues to expand despite shocks; growth risks skewed to the downside.
+
+---
+
+### 2026-11-09 21:06:38  #其他
+
+國際貨幣基金組織：儘管受到衝擊，丹麥經濟仍持續增長。
+
+---
+
+### 2026-11-09 21:06:01  #公司
+
+谷歌推出擴容後的第八代TPU產品系列。
+
+---
+
+### 2026-11-09 21:05:48  #公司
+
+谷歌：公司最新款TPU為8TX和8I MAX。
+
+---
+
+### 2026-11-09 21:05:33  #市場
+
+臺積電美股盤前漲超2%，現報382.952美元。
+
+---
+
+### 2026-11-09 21:05:30  #市場 #焦點
+
+液化石油氣連續主力合約日內跌5%，現報6260.00元。
+
+---
+
+### 2026-11-09 21:05:18  #公司
+
+量子計算公司QUANOME：就對 QAI LABS 進行戰略投資達成協議，推進量子生命科學戰略，全股票交易將使QUANOME獲得QAI LABS約5%的股份。
+
+---
+
+### 2026-11-09 21:04:21  #國際
+
+美國證券交易委員會檔案顯示，IBM宣佈發行多期以日元計價的票據。
+
+---
+
+### 2026-11-09 21:03:54  #公司
+
+德國軍工企業萊茵金屬公司表示，萊茵金屬公司將向比利時提供20套“天空遊騎兵“防空系統，合同金額達數億歐元。
+
+---
+
+### 2026-11-09 21:03:44  #其他
+
+國際貨幣基金組織表示，已就為期18個月的快速融資工具達成工作人員層面協議，涉及約7.1億特別提款權。
+
+---
+
+### 2026-11-09 21:03:15  #其他
+
+國際貨幣基金組織已就厄瓜多《經濟與財政方案》項下的第六次審查達成工作人員層面協議。
+
+---
+
+### 2026-11-09 21:02:19  #其他
+
+Strategy於11月2日至11月8日以平均購買價79,012美元購入1,036枚比特幣。
+
+---
+
+### 2026-11-09 21:02:10  #其他
+
+加拿大皇家銀行（RBC）將收購 Yarra 的全部股權，交易預計於 2027 年第一季度完成。
+
+---
+
+### 2026-11-09 21:01:30  #市場 #焦點
+
+苯乙烯連續主力合約日內跌3%，現報8802.00元。
+
+---
+
+### 2026-11-09 21:01:26  #市場 #焦點
+
+甲醇連續主力合約日內跌4%，現報3116.00元。
+
+---
+
+### 2026-11-09 21:01:10  #市場 #焦點
+
+低硫燃料油連續主力合約日內跌4%，現報4944.00元。
+
+---
+
+### 2026-11-09 21:01:09  #其他
+
+Bayou Midstream II收購Argent Gas Solutions。
+
+---
+
+### 2026-11-09 21:00:43  #市場 #焦點
+
+液化石油氣連續主力合約日內跌4%，現報6326.00元。
+
+---
+
+### 2026-11-09 21:00:40  #MKT News #UBER.N #Impact bullish #MCD.N
+
+McDonald's (MCD.N) designated Uber (UBER.N) as its preferred partner in 14 countries.
+
+---
+
+### 2026-11-09 21:00:38  #其他
+
+麥當勞已將優步列為14個國家的優先合作伙伴。
+
+---
+
+### 2026-11-09 21:00:33  #市場 #焦點
+
+上海原油連續主力合約日內跌4%，現報605.40元。
+
+---
+
+### 2026-11-09 21:00:19  #資料
+
+加拿大至11月6日全國經濟信心指數 50.8，前值51。
+
+---
+
+### 2026-11-09 21:00:12  #MKT News
+
+Canada national economic confidence index 50.8 as of Nov. 6, down from 51.0 previously.
+
+---
+
+### 2026-11-09 21:00:09  #MKT News #Important #Commodities #Energy #Precious Metals #XAUUSD #Impact bullish
+
+At the night session open, China’s main futures contracts were mostly lower: fuel oil fell more than 6%, SC crude nearly 5%, low-sulfur fuel oil (LU) over 4%; methanol and LPG about 4% lower; polypropylene, propylene and benzene each down more than 3%. Shanghai gold rose over 1%.
+
+---
+
+### 2026-11-09 21:00:06  #MKT News #Economic Calendar #Important
+
+Canada | National Economic Confidence Index (Nov.6) | actual 50.8 | previous 51
+
+---
+
+### 2026-11-09 21:00:04  #市場 #焦點
+
+甲醇連續主力合約日內跌3%，現報3124.00元。
+
+---
+
+### 2026-11-09 21:00:04  #市場 #焦點
+
+燃料油連續主力合約日內跌6%，現報3998.00元。
+
+---
+
+### 2026-11-09 21:00:03  #市場 #焦點
+
+苯乙烯連續主力合約日內跌2%，現報8806.00元。
+
+---
+
+### 2026-11-09 21:00:03  #市場 #焦點
+
+聚丙烯連續主力合約日內跌3%，現報9150.00元。
+
+---
+
+### 2026-11-09 21:00:03  #市場 #焦點
+
+純鹼連續主力合約日內跌1%，現報969.00元。
+
+---
+
+### 2026-11-09 21:00:03  #市場 #焦點
+
+PTA連續主力合約日內跌2%，現報5976.00元。
+
+---
+
+### 2026-11-09 20:59:46  #市場
+
+波羅的海乾散貨運價指數上漲1.75%，報2854點。
+
+---
+
+### 2026-11-09 20:59:40  #MKT News
+
+Baltic Dry Index rose 1.75% to 2,854 points.
+
+---
+
+### 2026-11-09 20:59:24  #公司
+
+嘉士伯集團宣佈已達成協議出售Britvic巴西業務。
+
+---
+
+### 2026-11-09 20:59:13  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iraq's prime minister said the country plans to raise oil output to 7.0 mln bpd by 2030 and to 10.0 mln bpd by 20321.
+
+---
+
+### 2026-11-09 20:59:02  #MKT News
+
+Eurogroup chair Pierakakis said the nomination process for the ECB president has been initiated.
+
+---
+
+### 2026-11-09 20:58:50  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Futures Rise as Oil Slips — Futures tracking Canadian equities rose on Monday after a dip in oil prices tempered inflation worries. Crude fell on hopes for US-Iran diplomatic efforts, and lower oil prices somewhat eased inflation concerns, with Canadian yields edging lower. Credit-sensitive sectors such as banks that have been pressured by inflation and higher interest rates enjoyed respite. Gold prices rose, supporting miners. Barrick posted higher third-quarter profit as higher gold prices outweighed lower production. Franco-Nevada is scheduled to report earnings on Wednesday. Elsewhere, Strathcona Resources said on Sunday it would acquire Greenfire Resources in a deal valued at about C$2.7 billion to C$2.9 billion, including debt, expanding its presence in Alberta’s oil sands. Power of Canada is also due to report Q3 results on Wednesday.
+
+---
+
+### 2026-11-09 20:58:28  #其他
+
+伊拉克總理表示，伊拉克的目標是到2030年將石油產量提高到700萬桶/日，到2032年提高到1000萬桶/日。
+
+---
+
+### 2026-11-09 20:58:24  #公司 #央行 #國際
+
+歐元集團主席皮埃拉卡基斯表示，歐洲央行的提名程式已經啟動。
+
+---
+
+### 2026-11-09 20:57:51  #公司
+
+【Strategy上週購買1037枚比特幣】Strategy公司購買了1037枚比特幣，使得其持有的比特幣總數增加到850,364枚。
+
+---
+
+### 2026-11-09 20:57:38  #國際
+
+【伊朗對核監督立場趨強硬 稱面臨襲擊威脅時無義務全面配合】伊朗表示，在面臨美國軍事打擊威脅的情況下，沒有義務接受全面的核監督，進一步強化了其對國際核查人員的強硬立場。伊朗在上週晚些時候提交給國際原子能機構(IAEA)並在外交官之間傳閱的一份10頁報告中表示，其核設施遭到襲擊，加之受到再次遭受打擊的威脅，已使正常核查工作無法進行。伊朗駐IAEA代表Reza Najafi寫道，只有在能夠安全地對相關設施進行核查後，伊朗才會考慮開展更全面的合作。這需要德黑蘭與華盛頓之間的和平談判取得突破，但迄今雙方一直未能實現這樣的突破。
+
+---
+
+### 2026-11-09 20:57:17  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+Eurogroup chair Pierrakakis says negotiations on a digital euro have entered the final stage.
+
+---
+
+### 2026-11-09 20:57:08  #其他
+
+伊拉克方面報道稱：官方宣告稱，雙方均對針對霍爾莫爾油田的襲擊予以譴責，並強調保護石油設施與基礎設施的重要性，同時採取必要措施防止此類襲擊再度發生。
+
+---
+
+### 2026-11-09 20:56:49  #公司
+
+歐元集團主席皮埃拉卡基斯表示，數字歐元相關磋商正進入最後階段。
+
+---
+
+### 2026-11-09 20:55:58  #MKT News #Market Regions #Emerging Markets #DXY #Impact bullish
+
+Fitch: Iraq's sovereign rating reflects high dependence on commodities, weak governance, elevated political risk and rigid fiscal expenditure adjustment.
+
+---
+
+### 2026-11-09 20:55:48  #其他
+
+【惠譽確認伊拉克B-評級 關注霍爾木茲海峽局勢與原油前景】惠譽評級確認伊拉克長期外幣發行人違約評級為B-，展望穩定。該評級反映伊拉克高度依賴大宗商品、治理薄弱、政治風險高、財政剛性強等短板；利好支撐因素包括規模可觀但正在回落的外匯儲備、政府存款充裕、政府債務結構較好、利息支出較低。基準情景假設，2027年一季度前後有望達成某種持續性協議，霍爾木茲海峽恢復通航。在此之前，預計會出現間歇性打擊與反制行動，打擊物件主要為軍事目標與船隻。這類事件可能持續干擾伊拉克石油外運，但預計不會造成重大實體損毀。不排除2027年下半年及之後衝突再度升級的可能性。這場衝突凸顯伊拉克的脆弱性：石油出口依賴海灣航道，極易受到地區安全衝擊；同時伊拉克武裝派系再度捲入地區戰事，也存在石油出口和國內安全被擾亂的風險。
+
+---
+
+### 2026-11-09 20:55:20  #MKT News #Brent #Impact bullish #WTI
+
+Fitch: With limited scope to cut spending, Iraq's total expenditure is expected to fall as authorities adjust to lower revenues; a renewed escalation of hostilities tied to the Iran war in late 2027 or thereafter cannot be ruled out.
+
+---
+
+### 2026-11-09 20:55:01  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
+
+Eurogroup chair Pierrakakis said Europe’s economy has shown resilience.
+
+---
+
+### 2026-11-09 20:54:59  #國際
+
+惠譽關於伊拉克：不能排除2027年晚些時候或之後因伊朗戰爭導致敵對行動再次升級。
+
+---
+
+### 2026-11-09 20:54:51  #公司
+
+【中遠海能：全資子公司擬投資新造10艘VLCC原油輪】中遠海能(600026)11月9日公告，全資子公司海南中遠海運能源運輸有限公司（簡稱“海南海能”）擬投資新造10艘VLCC原油輪。其中，海南海能在揚州中遠海運重工有限公司投資建造6艘VLCC原油輪，合同船價（含稅）總額為56.89億元。海南海能在大連船舶重工集團有限公司投資建造4艘VLCC原油輪，合同船價（含稅）總額37.93億元。此外，公司下屬全資子公司寰宇船務計劃從交銀金租、工銀金租、農銀金租、中銀金租、中信金租以及民生金租合計光租租入14艘VLCC新造船，租期均不超過20年，總租金合計不超過174億元。集團透過光租方式補充VLCC油輪運力，可有效降低綜合財務成本和一次性資金投入。
+
+---
+
+### 2026-11-09 20:54:23  #MKT News #WTI #Impact bearish #Brent
+
+Fitch confirmed Iraq's sovereign rating at B- with a stable outlook. Fitch's baseline assumes the parties will reach a durable agreement and the Strait of Hormuz will reopen around Q1 2027.
+
+---
+
+### 2026-11-09 20:54:13  #國際
+
+【伊朗議員：美軍打擊未損毀離心機與60%丰度濃縮鈾】伊朗一名議員週一表示，在為期12天的衝突裡，美軍打擊摧毀了伊朗中部福爾多、納坦茲、伊斯法罕核設施周邊的地面建築，但離心機以及丰度60%的濃縮鈾未受損。伊斯梅爾·科薩里稱：“核設施旁邊的地面建築被毀，離心機和60%丰度濃縮鈾均安然無恙。”他還談及美國中期選舉，稱民主黨與共和黨都謀求支配其他國家，只是手段不同。他認為民主黨方式更為隱晦，共和黨則更加直白地推行目標。
+
+---
+
+### 2026-11-09 20:53:54  #公司 #國際
+
+歐盟歐元集團主席皮埃拉卡基斯表示，歐洲經濟已展現出韌性。
+
+---
+
+### 2026-11-09 20:53:34  #國際
+
+據沙特阿拉比亞電視臺：訊息人士透露，伊拉克總理在與美國總統特朗普的電話會談中，提出了結束伊朗戰爭的建議。特朗普對伊拉克總理在電話會談中提出的建議表示贊同。特朗普要求伊拉克總理在伊朗問題上發揮調解作用。
+
+---
+
+### 2026-11-09 20:53:13  #國際
+
+訊息人士向阿拉比亞英語頻道透露，伊拉克代表團對伊朗首都德黑蘭進行的秘密訪問由總理阿里·扎伊迪率領。
+
+---
+
+### 2026-11-09 20:53:01  #Trading Economics #Markets #Mexico #Currency #Importance 1
+
+Mexican Peso Supported by Hawkish Banxico Bets — The Mexican peso rebounded to 18.6 per USD from 17-month low of 18.86 on October 29th as higher inflation supported a hawkish Banxico. Annual inflation rose to 3.75% from 3.45% in September, above forecasts of 3.65%, moving further above Banxico’s 3% target. Core inflation edged up to 3.80% from 3.75%, broadly in line with forecasts of 3.78%. Elevated inflation could prompt Banxico to adopt a more restrictive stance, supporting the peso by widening the US-Mexico rate differential and favoring peso-denominated carry trades. However, Banxico unexpectedly cut its benchmark rate to 6.25% at its latest meeting and revised forward guidance, signaling rates would remain at the new level for an “extended period.” Meanwhile, Democratic midterm wins in the US could constrain some of President Trump’s foreign trade policy decisions, supporting the peso. USMCA-compliant goods were exempted from Trump administration tariffs, additional tariffs remained on steel, aluminum and automotive imports.
 
 ---
 
@@ -9436,281 +9994,5 @@ Saudi civil defense issued an alert for a possible threat in Dammam.
 ### 2026-11-08 08:42:49  #MKT News
 
 【Trump to meet UFC CEO Dana White to discuss White House press secretary role】UFC CEO Dana White said he plans to meet President Trump on Monday to discuss an offer to become White House press secretary, the Wall Street Journal reported. Trump said on social media Saturday he offered White the job; it is unclear whether White will accept. At a UFC news conference White said he already has "a lot of work to do." A person close to White said Trump had previously raised the position. Trump framed the offer amid preparations following the GOP’s midterm defeats.
-
----
-
-### 2026-11-08 08:29:21  #MKT News #WTI #Impact bullish #Brent
-
-UKMTO reported an incident in the Gulf of Oman, 18 nm east of Khorfakkan, UAE, involving a bulk carrier and military forces.
-
----
-
-### 2026-11-08 08:25:39  #其他
-
-英國海事貿易行動辦公室（UKMTO）表示，目前仍無法獲得有關船員安全、船舶受損情況及可能產生的環境後果的資訊。
-
----
-
-### 2026-11-08 08:22:44  #國際
-
-【卡達首相稱美伊之間斡旋仍在繼續】據卡達方面訊息，卡達首相兼外交大臣穆罕默德7日表示，卡達在美國和伊朗之間的調解斡旋仍在繼續，美國政府在中期選舉後仍願尋求伊朗問題的解決方案。（央視新聞）
-
----
-
-### 2026-11-08 08:22:11  #其他
-
-英國海上貿易行動辦公室：收到阿曼灣一艘散貨船發生事件的報告。
-
----
-
-### 2026-11-08 08:22:05  #其他
-
-【河北秦皇島凌晨釋出暴雪紅色預警，降雪仍在持續】秦皇島市氣象臺2026年11月8日00時22分發布暴雪紅色預警訊號。目前秦皇島大部分地區已經出現暴雪天氣，其中青龍、盧龍、撫寧、昌黎、海港區北部、山海關區，6小時降雪量將達到15毫米以上。預計到今天下午兩點前，秦皇島全市中南部地區仍有3～10毫米降雪，北部地區仍有2～5毫米降雪。截至發稿前，降雪仍在持續，積雪、結冰風險高，提醒大家儘量減少外出，注意出行安全。（央視新聞）
-
----
-
-### 2026-11-08 08:16:30  #MKT News
-
-【CoreWeave urges incoming Texas governor to cooperate on data center projects】CoreWeave has written to incoming Texas governor Gina Hinojosa seeking cooperation to advance the state’s existing and future data center projects. CEO Michael Intrator said the company supports Hinojosa’s stated principle that data center development must align with Texas’s interests and asked to work with her transition team to responsibly complete already‑permitted projects and establish clear, stable, long‑term sustainable standards for future development. Hinojosa told CNN she will change the state’s approach to business, saying firms and government must form partnerships that benefit Texas residents.
-
----
-
-### 2026-11-08 08:08:08  #國際
-
-【中國駐加拿大使館發言人就加方涉黃之鋒案錯誤宣告答記者問】中國駐加拿大使館發言人就加方涉黃之鋒案錯誤宣告答記者問。
-
-問：11月6日，加拿大外交部與美國、英國、澳大利亞等國家外交部門就黃之鋒案量刑裁決發表聯合宣告。中方對此有何評論？
-
-答：加方夥同個別國家發表所謂聯合宣告，對香港特區法院就黃之鋒案依法作出量刑裁決指手畫腳，公然干預香港司法，干涉中國內政，中方對此強烈不滿、堅決反對。
-
-香港是法治社會，有法必依、違法必究是基本原則。黃之鋒長期串謀勾結外國或境外勢力危害國家安全，香港國安法實施後仍不收手，其行徑嚴重損害國家主權與尊嚴，危害香港廣大人民的切身利益與社會長治久安。黃在大量事實和證據面前無從狡辯、選擇認罪。香港特區法院依法公正審理並作出量刑裁決，不容置喙。
-
-香港事務純屬中國內政，不容任何外部勢力干涉。香港國安法公佈實施以來，香港法律體系更加完善，社會更加安定團結，香港居民依法享有的各項權利和自由得到更加充分的保障。中方要求加方停止包庇反中亂港分子，停止干涉中國內政，切實尊重中國主權和香港法治。
-
----
-
-### 2026-11-08 08:07:06  #其他
-
-【雨雪降溫來襲 天津部分高速封閉限行】受冷空氣影響，天津市迎來一輪雨雪降溫天氣過程，北部區域降雪強度大，多地先後釋出道路結冰、暴雪預警，受雨雪、大霧影響，天津轄區多條高速採取封閉、限行管制措施。天津市氣象臺於2026年11月7日19時40分釋出道路結冰黃色預警訊號：受冷空氣影響，7日後半夜至8日上午，天津市大部分地區路表溫度低於0℃，疊加雨雪天氣，易出現道路結冰風險。薊州區氣象臺已於11月8日凌晨將暴雪藍色預警升級為黃色預警，寶坻區同步釋出暴雪藍色預警，天津北部部分割槽域處於暴雪黃色預警影響範圍，北部地區降雪明顯。受降雪影響，途經天津的所有高速都受到不同程度影響。京哈高速全線收費站封閉，津滄高速部分站點因霧封閉，京滬、榮烏、長深、秦濱、京秦等多條高速對貨車、黃牌車輛實施入口限行。交管部門提醒，路面易結冰，公眾出行務必注意交通安全。（央視新聞）
-
----
-
-### 2026-11-08 08:05:36  #其他
-
-市場訊息：胡塞武裝運營的衛生部門稱，沙烏地阿拉伯週六對葉門首都薩那以東的一個村莊發動空襲，造成33人死亡、39人受傷。
-
----
-
-### 2026-11-08 07:57:17  #公司
-
-【首批18只主動ETF全部提前結募】截至11月7日，首批18只主動ETF已有17只發布成立公告，但18只產品整體的募集天數、配售比例等資料已率先披露。最新資料顯示，18只主動ETF全部提前結束募集，3只產品一日售罄；17只產品啟動比例配售的總認購金額近440億元，較340億元募集規模超出近百億元（超額認購金額）。具體來看，已成立的17只產品有效認購戶數超過30萬戶，除外部投資者，還有基金公司固有資金、高管和投研等從業者以及股東方等“內部人”。截至11月6日，部分ETF已出現淨值波動。據受訪人士表示，首批主動ETF預計在11月中下旬上市交易，個別公募初步確認的上市時間是11月23日。
-
----
-
-### 2026-11-08 07:55:16  #市場
-
-【澳大利亞房屋銷售上升，初現樓市復甦跡象】澳大利亞房屋銷量及拍賣清盤率走高，為今年因利率上行而陷入低迷的樓市帶來複蘇希望。房產研究機構 Cotality 資料顯示，上週澳洲首府城市舉辦的拍賣會數量環比上升 1.2%，至 1734 場，預計未來一週將突破 2000 場。清盤率在上週跌至六年低點後，回升 4.3 個百分點至 51.5%。Cotality 稱，墨爾本單城清盤率接近 10 個百分點的拉昇推動了本次資料回暖。這組資料帶來一絲樂觀訊號：在買家逢低價入場的背景下，這場或為數十年來最嚴重的澳洲樓市下行行情可能築底。
-
----
-
-### 2026-11-08 07:47:29  #國際
-
-【斯洛伐克總理：若歐盟強制要求放棄俄石油 將繼續發起訴訟】斯洛伐克總理菲佐7日表示，斯洛伐克已經向歐盟法院提起訴訟，反對歐盟針對俄羅斯天然氣的進口禁令。如果歐盟進一步強制要求放棄俄羅斯石油進口，斯洛伐克將會繼續向歐盟法院提起訴訟。根據歐盟今年1月透過的禁令，將從2027年1月1日起全面禁止進口俄羅斯液化天然氣，而對俄管道天然氣的全面禁令將於當年秋季生效。今年4月，斯洛伐克就這一天然氣進口禁令向位於盧森堡的歐盟法院提起訴訟。目前，斯洛伐克仍透過“土耳其溪”管道進口俄羅斯天然氣，並透過途經烏克蘭的管道進口俄羅斯石油。（央視新聞）
-
----
-
-### 2026-11-08 07:42:58  #公司
-
-【COACH中國區總裁：中國市場連續6個季度雙位數增長，開店計劃穩步推進】“此前提出的3至5年新開80家到100家門店的計劃正穩步推進，目前全國已覆蓋超90座城市，門店總數超300家。”第九屆中國國際進口博覽會期間，COACH（蔻馳）中國區總裁李麗安（Liliana Lucioni）在接受澎湃新聞記者採訪時，回應一年前定下的開店目標。11月5日，COACH母公司泰佩思琦集團（Tapestry,Inc.，紐交所：TPR）釋出了截至2026年9月26日的2027財年第一季度業績，泰佩思琦集團銷售額達18.9億美元，同比增長11%，增長主要由COACH品牌16%的增速拉動；非公認會計准則下毛利率提升220個基點至78.7%，營業利潤率23.2%，每股攤薄收益1.82美元，同比增長32%，各項指標均超出前期指引。在財報中，泰佩思琦集團上調了2027財年業績展望。（澎湃 ）
-
----
-
-### 2026-11-08 07:38:20  #其他
-
-【北京今天雨雪逐漸結束 氣溫繼續下降將創下半年來新低】今天（11月8日），北京雨雪天氣將逐漸結束，但氣溫還會進一步下滑，最高氣溫將降至6℃，最低氣溫也會跌至零下3℃，將度過下半年來最冷的一天。明後兩天，北京晴朗迴歸，最高氣溫將明顯回升，早晚時段依然寒冷，公眾外出需注意保暖。（央視新聞）
-
----
-
-### 2026-11-08 07:36:10  #國際
-
-美國地質調查局：大西洋中脊中部發生5.9級地震。
-
----
-
-### 2026-11-08 07:18:00  #央行 #其他
-
-市場訊息：巴拉圭法官下令對前央行行長卡瓦略進行審前羈押。
-
----
-
-### 2026-11-08 07:06:14  #宏觀 #公司 #國際
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、開放鏈全球 智造啟新程（進博會觀察）——從進博會看先進製造業匯聚創新動能2、解讀稅收徵收管理法修訂——將強化納稅人權益保護貫穿始終
-3、第九屆虹橋國際經濟論壇舉行，與會人士呼籲——堅守多邊主義，推進普惠包容的經濟全球化
-4、何立峰與美國財政部長貝森特、貿易代表格里爾舉行視訊通話
-5、鄭建邦出席非洲國家議員研討班開班式
-6、第十四屆中歐論壇聚焦對話與人工智慧合作
-7、三星連續9年參展，與中國市場共成長 做深度嵌入中國產業鏈的同行者
-8、伊利發揮進博會深化產業協同作用 連結全球資源 持續深耕乳業
-9、進博會持續促進文化交流與市場拓展 “讓產品經得起消費者檢驗”
-
----
-
-### 2026-11-08 07:03:19  #宏觀 #其他 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、中共中央發出通知 部署黨的二十一大代表選舉工作
-2、黑龍江、河南、湖北紮實推進鄉村全面振興——“三農”發展不斷邁上新臺階
-3、河北邱縣政務服務中心“事辦不成找我”視窗——以更優服務解決群眾急難愁盼
-4、圖片報道
-5、內蒙古鄂爾多斯探索資源型城市綠色轉型新路徑 煤海向綠 “風光”逐新
-6、為全球發展進步注入青春力量
-7、前三季度累計完工改造城鎮老舊小區1.6萬個
-8、前三季度超800萬人次接受補貼性培訓
-
----
-
-### 2026-11-08 07:01:03  #公司 #國際
-
-螢火蟲航空航天公司：入選美國國家航空航天局100億美元CLPS 2合同的供應商。
-
----
-
-### 2026-11-08 07:00:32  #公司 #國際
-
-旅行者公司獲得美國國家航空航天局商業月球有效載荷服務2號合同。
-
----
-
-### 2026-11-08 06:52:29  #焦點 #國際
-
-【人民日報和音：傳承“鼓嶺情緣”，匯聚中美相向而行的力量】“鼓嶺故事告訴我們，國家之間的友誼始於人民之間的關係”“青年在消除隔閡、增進認知方面發揮著重要作用”“希望成為國際青少年交流的橋樑，讓鼓嶺故事為更多人所知”……近日，2026鼓嶺論壇在福建省福州市舉行，中美各界友好人士相聚鼓嶺故事的發源地，重溫跨越重洋的民間情誼，暢談對中美人文交流合作的共同期許，為推動中美建設性戰略穩定關係從願景轉化為行動凝聚民心力量。
-
----
-
-### 2026-11-08 06:38:47  #國際
-
-波蘭內政部發言人：在克拉科夫槍擊事件中受傷的外國公民來自奧地利、德國、葡萄牙、俄羅斯和英國。
-
----
-
-### 2026-11-08 06:38:37  #國際
-
-【伊朗解除導彈射程限制 美軍組特遣部隊防伊“跨境運武”】伊朗伊斯蘭革命衛隊發言人7日說，伊朗已解除導彈射程限制，將打擊敵人預想不到的地點。並警告稱，如果美國再次出現誤判，伊朗下一次的打擊將更加沉重。同日，美軍中央司令部宣佈，已下令組建一支特遣部隊，以防止伊朗跨境運輸先進武器等物資。就美伊停火相關程序，最新訊息顯示，美副總統萬斯已著手在幕後推動與伊朗達成新協議。7日晚，伊朗多地傳出類似爆炸巨響，具體原因及相關細節尚不明確。（央視新聞）
-
----
-
-### 2026-11-08 06:36:08  #國際
-
-【巴林決定恢復其駐伊拉克大使履職】當地時間7日晚，據伊拉克外交部宣告，伊拉克外長侯賽因當天與巴林外交大臣扎耶尼通電話。雙方在通話中討論了當前地區局勢的最新發展，並強調了就該地區局勢保持協調、磋商和意見交流。扎耶尼在通話中確認，巴林已決定恢復該國駐伊拉克大使履職，以體現巴方深化兩國關係、拓展雙邊合作的意願。（央視新聞）
-
----
-
-### 2026-11-08 06:31:58  #國際
-
-【大風+寒潮雙預警！15省份部分地區降溫超10°C】中央氣象臺11月8日6時繼續釋出大風藍色預警和寒潮藍色預警，詳情如下：預計，11月8日8時至9日8時，新疆東部、內蒙古中西部、寧夏、陝西北部、山西西南部、河北南部、山東、河南中北部、蘇皖中北部、湖北中東部、湖南北部、廣西中部等地的部分地區有5~6級風，陣風7~8級；渤海、渤海海峽、黃海海域、東海西部海域、臺灣海峽、巴士海峽、南海北部和中部海域、北部灣將有7~8級、陣風9級的大風，其中渤海西部、黃海西部海域和北部灣的部分海域風力可達9級、陣風10~11級。
-
----
-
-### 2026-11-08 06:28:30  #公司 #國際
-
-【內塔尼亞胡呼籲組建民族團結政府】當地時間11月7日晚，以色列總統赫爾佐格發表宣告說，已決定授權正直黨領導人、以軍前總參謀長埃森科特組建新政府。以色列現任總理內塔尼亞胡發表影片講話稱，由埃森科特組建、得到阿拉伯裔政黨支援的政府“將從內部摧毀以色列”，他呼籲反對派陣營與他領導的利庫德集團及政治盟友組建“民族團結政府”。（CCTV國際時訊）
-
----
-
-### 2026-11-08 06:05:24  #公司
-
-Cyera正以200億美元估值募資8億美元，成為全球估值最高的私有網路安全公司之一。這家資料安全初創企業過去一年的年度經常性收入飆升至數億美元。
-
----
-
-### 2026-11-08 05:47:43  #國際
-
-【特朗普邀UFC總裁任新聞秘書遭拒】美國總統特朗普當地時間11月7日下午在社交媒體發帖稱，已邀請終極格鬥冠軍賽（UFC）總裁達納·懷特出任‌白宮新聞秘書‌一職 。不過據美國媒體援引訊息人士報道，懷特已拒絕了這一邀請。（CCTV國際時訊）
-
----
-
-### 2026-11-08 05:39:17  #焦點 #國際
-
-達納·懷特拒絕特朗普提出的白宮新聞秘書任職邀請。
-
----
-
-### 2026-11-08 05:36:22  #國際
-
-【伊朗40種基本藥品供應緊張】伊朗食品藥品管理局發言人穆罕默德·雜湊米週六表示，伊朗約700種基礎必需藥品中，有大約40種面臨供應困難。相關部門正著手充實戰略藥品儲備。他表示，國內疫苗儲備充足，可以長期滿足需求。雜湊米介紹，伊朗現有200多家製藥企業和約3000家醫療裝置企業，強調維持這些企業生產、保障醫療物資供應十分重要。
-
----
-
-### 2026-11-08 05:31:48  #其他
-
-英國海事貿易行動組織（UKMTO）：收到一份報告，稱在阿聯酋豪爾法坎以東約18海里的阿曼灣發生一起涉及散貨船和軍事力量的事件。
-
----
-
-### 2026-11-08 05:31:00  #國際
-
-【波蘭槍擊6死16傷】當地時間11月7日晚，波蘭政府最新通報稱，當天下午南部克拉科夫市槍擊事件已導致6人死亡、16人受傷。6名死者中，有4人身份已經得到確認，其中一名是英國人。16名傷者中，有5名是外國公民。（CCTV國際時訊）
-
----
-
-### 2026-11-08 05:25:39  #國際
-
-【伊朗稱兩艘油輪在霍爾木茲海峽觸雷起火】當地時間8日凌晨，伊朗伊斯蘭革命衛隊海軍表示，兩艘“違規油輪”稍早前發生觸雷起火，其中一艘位於霍爾木茲海峽東部，另一艘位於霍爾木茲海峽中部。這兩艘油輪試圖透過未經伊朗授權的航道，結果觸雷。革命衛隊海軍警告稱，任何與美國合作、違反伊朗在霍爾木茲海峽規定的船隻都“必將觸雷”。（央視新聞）
-
----
-
-### 2026-11-08 05:25:00  #其他
-
-巴拉圭法官下令對前總統佩尼亞進行審前拘留。
-
----
-
-### 2026-11-08 05:18:20  #MKT News #CRWV.O #Impact bullish
-
-【CoreWeave (CRWV.O) writes to Texas governor-elect seeking cooperation on data‑center projects】CoreWeave (CRWV.O) has written to Texas governor‑elect Gina Hinojosa seeking to coordinate with the incoming administration to advance the state’s existing and planned data‑center projects. CEO Michael Intrator said the firm supports the governor‑elect’s view that data‑center development must align with Texas’ interests and welcomed working with the transition team to responsibly complete already‑permitted projects and set clear, stable, long‑term sustainable standards for future development.
-
----
-
-### 2026-11-08 05:15:14  #國際
-
-伊朗革命衛隊海軍表示，兩艘油輪在霍爾木茲海峽附近觸雷。
-
----
-
-### 2026-11-08 05:12:34  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #DXY #Impact mixed
-
-【Iran says two tankers struck mines, caught fire in Strait of Hormuz】Iran's Islamic Revolutionary Guard Corps navy said two oil tankers struck mines and caught fire in the Strait of Hormuz after attempting to transit via unauthorized channels and disabling navigation and positioning systems. The IRGC said the vessels, located in the eastern strait and inside the channel, had repeatedly violated regulations; both exploded and remain ablaze. The statement warned that any vessel cooperating with the US and entering Iran's restricted zone would be at risk of striking mines.
-
----
-
-### 2026-11-08 05:11:33  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Iran's Islamic Revolutionary Guard Corps says two oil tankers struck mines and caught fire in the Strait of Hormuz.
-
----
-
-### 2026-11-08 05:00:47  #國際
-
-美國司法部加入德克薩斯州對計劃生育聯合會的訴訟。
-
----
-
-### 2026-11-08 04:56:54  #國際
-
-波蘭總理：兩名女性和一名男性被發現死於槍手家中，死者很可能是槍手的家人。
-
----
-
-### 2026-11-08 04:51:40  #國際
-
-波蘭總理圖斯克：槍手家中可能有人員死亡。
-
----
-
-### 2026-11-08 04:51:32  #MKT News #WTI #Impact bullish #Brent
-
-【US forces disable merchant ship in Gulf of Oman, CENTCOM says】CENTCOM said on Nov. 7 local time US forces intercepted and disabled a merchant vessel in the Gulf of Oman that had previously called at Iranian ports after its crew repeatedly ignored warnings and attempted to breach a maritime blockade against Iran. A US aircraft fired precision-guided munitions at the ship's stern, rendering it unable to navigate; CENTCOM said crew were ordered to evacuate the targeted area beforehand. The vessel, identified as Huda, was flagged to St Kitts and Nevis.
 
 ---

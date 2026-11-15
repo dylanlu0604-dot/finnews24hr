@@ -1,7 +1,877 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-11-15 04:46:37_
-_本檔包含 1869 則快訊，約 366056 字_
+_更新時間：2026-11-15 08:39:11_
+_本檔包含 1979 則快訊，約 366725 字_
+
+---
+
+### 2026-11-12 03:17:47  #國際
+
+烏克蘭總統澤連斯基：談判能否取得進展，在一定程度上取決於美國特使明天如何與俄方溝通。
+
+---
+
+### 2026-11-12 03:17:33  #國際
+
+市場訊息：特朗普女婿庫什納與美國總統中東問題特使威特科夫將於明日就一項提案向俄羅斯總統普京施壓。
+
+---
+
+### 2026-11-12 03:14:34  #國際
+
+澤連斯基：將盡全力在年底前取得和平成果。
+
+---
+
+### 2026-11-12 03:13:59  #國際
+
+澤連斯基：美歐政治格局變化帶來機會視窗。
+
+---
+
+### 2026-11-12 03:13:49  #國際
+
+市場訊息：美國要求俄羅斯提交新的歐洲安全提案。
+
+---
+
+### 2026-11-12 03:12:26  #其他
+
+【胡塞武裝稱過去24小時內沙特聯軍發動93次空襲】當地時間11日晚，葉門胡塞武裝發表宣告稱，過去24小時內，沙特主導的聯軍對葉門拉赫季省、塔伊茲省、焦夫省、哈傑省、馬裡卜省和扎馬爾省發動了93次空襲。宣告還稱，自新一輪軍事升級以來，沙特主導的聯軍發動的空襲和導彈襲擊總數已達4765次。（央視新聞）
+
+---
+
+### 2026-11-12 03:11:19  #國際
+
+愛爾蘭總理馬丁：誰將代表歐洲的問題將在峰會上提出。
+
+---
+
+### 2026-11-12 03:10:14  #國際
+
+愛爾蘭總理馬丁：談判桌上必須有歐盟的聲音。
+
+---
+
+### 2026-11-12 03:09:40  #國際
+
+澤連斯基：對俄施壓取決於我們。
+
+---
+
+### 2026-11-12 03:09:21  #其他
+
+巴西總統盧拉與羅德里格斯討論了巴西在石油領域的投資，雙方同意全面恢復兩國關係。
+
+---
+
+### 2026-11-12 03:08:44  #其他
+
+巴西政府：能源部長今年將訪問委內瑞拉。
+
+---
+
+### 2026-11-12 03:08:32  #國際
+
+澤連斯基：我們需要選擇由誰代表歐洲。
+
+---
+
+### 2026-11-12 03:08:24  #國際
+
+澤連斯基：需要“非常具體”的安全保障。
+
+---
+
+### 2026-11-12 03:08:16  #市場
+
+美元兌瑞郎觸及盤中高點，最新上漲0.98%，報0.83325瑞郎。
+
+---
+
+### 2026-11-12 03:05:46  #其他
+
+巴西總統盧拉在土耳其會見委內瑞拉代總統羅德里格斯。
+
+---
+
+### 2026-11-12 03:04:36  #其他
+
+沙特民防部門表示，塔伊夫、延布和哈米斯穆謝特的危險已經過去。
+
+---
+
+### 2026-11-12 03:04:22  #國際
+
+烏克蘭總統澤連斯基：俄羅斯的特使拒絕停火提議。
+
+---
+
+### 2026-11-12 03:03:37  #國際
+
+烏克蘭總統澤連斯基：基輔和美國歡迎歐盟加入俄羅斯會談。
+
+---
+
+### 2026-11-12 03:02:47  #市場
+
+在岸人民幣兌美元夜盤收盤報6.6749，較上一交易日上漲56點。
+
+---
+
+### 2026-11-12 03:02:27  #國際
+
+澤連斯基：將於週四在都柏林會見庫什納和威特科夫。
+
+---
+
+### 2026-11-12 03:00:04  #市場
+
+恒指期貨夜盤收跌0.70%，報24098.08點，低水217.84點。
+
+---
+
+### 2026-11-12 02:58:47  #公司 #焦點
+
+【谷歌將Gemini語音AI助手接入蘋果CarPlay】谷歌正在把Gemini人工智慧應用接入蘋果CarPlay系統。谷歌在週三的部落格文章中稱，使用者可以在車機螢幕上和Gemini語音模式擴音對話，聊天記錄將同步至iPhone上的Gemini應用。該功能現已面向全球所有iOS端Gemini使用者逐步推送，支援Gemini語音模式覆蓋的全部語言。使用者可使用該功能，例如在自駕途中查詢附近午餐地點；如果已經將Gemini關聯郵箱與日曆，還能讓它總結未讀郵件、草擬回覆。
+
+---
+
+### 2026-11-12 02:57:12  #國際
+
+美國汽車工人聯合會致信敦促議員在下一屆國會繼續保留眾議院特別委員會。
+
+---
+
+### 2026-11-12 02:57:04  #其他
+
+沙特就海米斯穆謝特可能存在的危險發出警告。
+
+---
+
+### 2026-11-12 02:43:38  #國際
+
+美國眾議院推動愛潑斯坦法案表決的解除擱置請願已集齊所需簽名。
+
+---
+
+### 2026-11-12 02:42:52  #國際
+
+【美中央司令部：美軍嚴格執行對伊朗海上封鎖】當地時間11月11日，美國中央司令部表示，美軍持續晝夜不停地開展行動，以確保霍爾木茲海峽對商業航運保持開放。同時，美軍嚴格執行針對伊朗的嚴密海上封鎖，並與美國政府各相關部門協作，防止伊朗伊斯蘭革命衛隊利用陸路及裡海通道，轉移先進武器系統、軍民兩用技術、受制裁物資，或進行“非法資金往來”。（央視新聞）
+
+---
+
+### 2026-11-12 02:41:32  #國際
+
+美國眾議院議員將推動就愛潑斯坦案相關檔案進行新一輪投票。
+
+---
+
+### 2026-11-12 02:40:04  #其他
+
+野村探索出售Laser Digital加密業務部門。
+
+---
+
+### 2026-11-12 02:39:13  #央行 #其他
+
+英國央行貨幣政策委員格林：適宜主動收緊貨幣政策。
+
+---
+
+### 2026-11-12 02:38:22  #央行 #其他
+
+英國央行貨幣政策委員格林：薪資增速可能穩定在3.5%或以上。
+
+---
+
+### 2026-11-12 02:38:02  #國際
+
+美國鋁業和力拓正與幾內亞就鋁土礦加工展開合作。
+
+---
+
+### 2026-11-12 02:36:35  #央行 #其他
+
+英國央行貨幣政策委員格林：認為勞動力市場閒置程度低於此前預期。
+
+---
+
+### 2026-11-12 02:36:15  #其他
+
+葉門胡塞武裝否認襲擊麥加地區。
+
+---
+
+### 2026-11-12 02:35:58  #央行 #其他
+
+英國央行官員格林：資料顯示英國工資增長過高。
+
+---
+
+### 2026-11-12 02:35:40  #其他
+
+葉門胡塞武裝稱使用無人機襲擊了延布地區的泵站。
+
+---
+
+### 2026-11-12 02:33:19  #國際
+
+美國中央司令部：霍爾木茲海峽主要航道仍無水雷。
+
+---
+
+### 2026-11-12 02:32:42  #其他
+
+安聯預計本財年營業利潤為164億至186億歐元。
+
+---
+
+### 2026-11-12 02:32:32  #公司
+
+智利科德爾科公司與阿達尼集團就智利科佈雷卡布林卡阿拉勘探專案簽署諒解備忘錄。
+
+---
+
+### 2026-11-12 02:32:13  #其他
+
+安聯前九個月營業利潤141億歐元。
+
+---
+
+### 2026-11-12 02:30:45  #其他
+
+安聯保險：預計全年營業利潤大約164億歐元至186億歐元。
+
+---
+
+### 2026-11-12 02:30:13  #其他 #焦點
+
+英偉達股價漲幅擴大至5%。
+
+---
+
+### 2026-11-12 02:30:05  #央行 #其他
+
+英國央行官員格林表示，主動收緊貨幣政策立場是合適的，以防範薪資增長固化在較高水平的風險。
+
+---
+
+### 2026-11-12 02:30:02  #市場
+
+上期所原油期貨夜盤收漲2.26%，報597.30元人民幣/桶。滬金夜盤收跌1.30%，滬銀收漲0.22%。
+
+---
+
+### 2026-11-12 02:30:02  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Rises by 1.76% — Top crypto gainers are Ether (1.76%), Binance (1.10%) and Bitcoin (0.92%).
+
+---
+
+### 2026-11-12 02:28:34  #其他
+
+胡塞武裝：我方武裝部隊使用三枚翼式導彈成功打擊了沙烏地阿拉伯首都利雅得的哈立德國王國際機場。
+
+---
+
+### 2026-11-12 02:25:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Rises by 3.94% — Top commodity gainers are Cocoa (3.94%), Palm Oil (3.62%) and Rapeseed (2.37%). Biggest losers are Coffee (-0.85%) and Butter (-0.65%).
+
+---
+
+### 2026-11-12 02:22:59  #市場 #焦點
+
+納斯達克100指數漲幅擴大至3%，標普500指數漲1.6%。
+
+---
+
+### 2026-11-12 02:22:09  #市場
+
+納斯達克指數期貨漲3.00%，現報28670.525點；道瓊斯指數期貨漲0.46%，現報52555.090點；標普500指數期貨漲1.60%，現報7665.273點。
+
+---
+
+### 2026-11-12 02:20:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Aluminum Alloy Rises by 1.42% — Top commodity gainers are Aluminum Alloy (1.42%), Silicon (1.18%) and Silver (0.97%). Biggest losers are Gold (-1.01%) and Lithium Carbonate (-0.88%).
+
+---
+
+### 2026-11-12 02:18:05  #公司
+
+谷歌推出Gemini Decisions API，搭載Decision 1模型，輸入token價格為每百萬token 0.10美元。
+
+---
+
+### 2026-11-12 02:17:52  #市場
+
+iHeartMedia股價迅速上漲，最高漲幅達31%。
+
+---
+
+### 2026-11-12 02:17:22  #市場
+
+標普500指數上漲1.54%，納斯達克指數上漲2.17%，道瓊斯指數上漲0.38%。
+
+---
+
+### 2026-11-12 02:15:57  #其他
+
+iHeart正在探索出售其核心播客業務。
+
+---
+
+### 2026-11-12 02:15:19  #公司 #市場 #國際
+
+特朗普媒體與科技集團股價上漲超25%，有望創下2025年12月以來最大單日漲幅。
+
+---
+
+### 2026-11-12 02:15:00  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Rises by 2.65% — Top commodity gainers are Natural Gas UK (2.65%), Heating Oil (2.57%), Germany Natural Gas THE (2.22%), Brent Oil (2.11%) and Crude Oil (1.45%). Biggest loser is Natural gas (-1.23%).
+
+---
+
+### 2026-11-12 02:13:38  #市場
+
+Lululemon股價迅速收窄跌幅，觸及盤中高點。
+
+---
+
+### 2026-11-12 02:12:59  #其他
+
+【中國氣象智慧預警方案“媽祖”一體機向全球釋出】當地時間11月11日，在土耳其安塔利亞舉行的《聯合國氣候變化框架公約》第三十一次締約方大會（COP31）應對氣候變化南南合作高階別論壇上，中國以主題宣傳片形式向全球正式釋出中國氣象智慧預警方案“媽祖”一體機（以下簡稱“媽祖”一體機），分享中國氣象防災減災技術成果。“媽祖”一體機是輕量化軟硬體一體的早期預警方案，是“媽祖”方案本地化部署的重要載體，軟硬體一體整合儲存、智算、網路、顯示、計算五大模組，支援乙太網、5G、衛星三種通訊方式，具備短臨預報、總覽駕駛艙、業務監控、人工智慧現場輔助等功能，便於發展中國家快速接入本地觀測資料。裝置既可本地獨立執行業務，也可對接雲端資源接入現有業務系統協同執行，支援模組化擴充套件和持續升級，助力當地快速提升早期預警業務能力。截至2026年10月，“媽祖”方案已在巴基斯坦、衣索比亞、斯里蘭卡等8個國家落地，在50多個國家開展雲端試用，成為面向全球的防災減災公共服務產品，不斷提升當地防災減災能力。(央視新聞)
+
+---
+
+### 2026-11-12 02:10:35  #國際
+
+俄羅斯農業諮詢機構SovEcon預計黑海航運在春季前不會恢復正常。
+
+---
+
+### 2026-11-12 02:10:25  #國際
+
+俄羅斯農業諮詢機構SovEcon下調2026-27作物季俄羅斯小麥出口預估至3600萬噸。
+
+---
+
+### 2026-11-12 02:08:37  #其他
+
+SpaceXSI：Grok Voice 3.0 API定價為每分鐘0.08美元。
+
+---
+
+### 2026-11-12 02:08:19  #其他
+
+SpaceXSI：Grok語音3.0已在語音到語音API中上線。
+
+---
+
+### 2026-11-12 02:08:11  #其他
+
+邁克爾·伯裡稱其買入了Lululemon的股票。
+
+---
+
+### 2026-11-12 02:07:50  #市場
+
+Meta股價迅速轉跌，下跌0.5%。
+
+---
+
+### 2026-11-12 02:07:24  #國際
+
+Revolut擴大與優步在英國及歐洲的合作，將Revolut Pay接入優步應用。
+
+---
+
+### 2026-11-12 02:06:37  #國際
+
+美國中央司令部：美軍正全天候維持霍爾木茲海峽的商業航運暢通，嚴格執行對伊朗的嚴密海上封鎖，並與美國跨部門夥伴合作，防止伊朗伊斯蘭革命衛隊利用陸路和裡海運輸先進武器系統、兩用技術、受制裁物資及非法收入來源。
+
+---
+
+### 2026-11-12 02:05:52  #焦點 #國際
+
+訊息人士稱，伊朗攻擊了阿曼代達馬爾島上的航運導航系統。
+
+---
+
+### 2026-11-12 02:05:00  #公司
+
+約55%的捷藍航空貸款方簽署了一項協議，以防止該公司與已加入該協議的貸款方達成私下交易。
+
+---
+
+### 2026-11-12 02:04:07  #市場 #焦點
+
+現貨黃金失守3990美元/盎司，日內跌1.07%。
+
+---
+
+### 2026-11-12 02:04:02  #公司
+
+巴西國家石油公司執行長表示，截至第三季度，透過連線49口油井增加了石油產量，而全年計劃連線44口油井。
+
+---
+
+### 2026-11-12 02:02:03  #央行 #美聯儲
+
+【威廉姆斯應於何時卸任紐約聯儲行長的問題在美聯儲內部引發爭論】據知情人士透露，隨著美聯儲任職時間最長的政策制定者即將退休，美聯儲內部圍繞地區聯儲負責人任期限制的規則展開了討論。美聯儲官員正在研究，紐約聯儲行長約翰·威廉姆斯是否可以任職至2028年6月，屆時他擔任現職將滿10年；還是按照內部規定，他應在2027年6月年滿65歲時卸任。如果威廉姆斯明年離任，將使美聯儲主席凱文·沃什提前一年獲得影響這一美聯儲最重要地區聯儲負責人任命的機會。
+
+---
+
+### 2026-11-12 02:01:47  #市場
+
+現貨黃金日內跌1%，現報3991.66美元/盎司。
+
+---
+
+### 2026-11-12 02:01:02  #國際
+
+俄羅斯統計局：截至11月9日的一週，俄羅斯消費者通脹率為0.12%，而一週前為通縮0.04%。
+
+---
+
+### 2026-11-12 02:00:56  #其他 #焦點
+
+美聯航禁止AI機器人預訂機票。
+
+---
+
+### 2026-11-12 02:00:01  #市場 #焦點
+
+紐約期金失守4000美元/盎司，日內跌0.75%。
+
+---
+
+### 2026-11-12 01:54:07  #國際
+
+加拿大政府已正式通知加拿大冰球協會和國際冰球聯合會，不會向俄羅斯公民發放參加2027年世界青年冰球錦標賽的簽證。
+
+---
+
+### 2026-11-12 01:51:23  #其他
+
+紐約證券交易所附屬機構將於本月推出7*24代幣化股票交易。
+
+---
+
+### 2026-11-12 01:51:00  #公司 #國際
+
+美國航空公司自2019年以來首次將新鮮食物重新引入紐約至芝加哥頭等艙。
+
+---
+
+### 2026-11-12 01:49:11  #其他
+
+【越來越多國會共和黨人考慮讓魯比奧參選2028年總統】國會山越來越多共和黨人希望推舉魯比奧角逐2028年總統大選。在中期選舉遭遇慘敗之後，他們開始把目光投向副總統JD·萬斯之外的人選。這次潰敗，在國會共和黨人中引發了由誰來帶領本黨的新討論。對大約24名共和黨議員的採訪顯示，很多人認為黨內提名之爭現在局勢開放。其中一派認為魯比奧更合適，因為選民可能會持續把萬斯和現任總統低迷的支援率繫結在一起。
+
+---
+
+### 2026-11-12 01:41:34  #其他
+
+胡塞武裝：武裝部隊不久前成功攔截了一支沙特F-15戰機編隊，阻止其進入首都領空，並迫使其離開。
+
+---
+
+### 2026-11-12 01:39:59  #其他
+
+【皇崗口岸開通首月 超344萬人次順暢通關】據深圳邊檢總站統計，新皇崗口岸開通以來，皇崗邊檢站累計查驗經皇崗口岸出入境人員344萬人次，日均11.4萬人次，較2025年同期增長120%，查驗出入境車輛28萬輛次。單日查驗量連續三次突破歷史紀錄，其中，10月31日單日客流達16.1萬人次，創2019年以來最高紀錄，口岸執行整體平穩有序。
+
+---
+
+### 2026-11-12 01:35:04  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+EU Stocks Rise to Record — European stocks closed sharply higher for a third session on Wednesday, supported by strong earnings in the tech sector. The Euro STOXX 50 gained 1% to 6,393 and the STOXX Europe 600 jumped 0.7% to a record high of 663.1. The tech sector extended its rebound from the selloff last week after positive results from CoreWeave in the US, easing the market’s concern that the high levels of debt taken by AI companies could hamper more investment in the area. On top of that, Siemens Energy rose after soaring data center demand lifted its margins in the last quarter, boosting profits and their outlook. AI infrastructure companies received a boost from both, with ASML and Infineon adding 3.2% and 6.4%, respectively. Banks also continued to gain, with Deutsche Bank and ING adding 2% and 1.3%.
+
+---
+
+### 2026-11-12 01:34:13  #其他 #焦點
+
+馬斯克：順便說一句，從利潤最大化的角度看，這（延長Cybertruck生產週期）並非最明智的舉動，但這個世界總得給情感留點空間，否則還有什麼意義？
+
+---
+
+### 2026-11-12 01:31:07  #國際
+
+以色列戰機對黎巴嫩南部的曼蘇里和哈達塔兩鎮發動兩次空襲。
+
+---
+
+### 2026-11-12 01:30:00  #公司
+
+巴西國家石油公司首席財務官表示，計劃在另外六個石油平臺上增加產量。
+
+---
+
+### 2026-11-12 01:29:24  #國際
+
+澤連斯基抵達愛爾蘭，計劃會見美國中東問題特使威特科夫和特朗普女婿庫什納。
+
+---
+
+### 2026-11-12 01:29:16  #國際
+
+【特朗普：與伊朗的衝突將很快結束】美國總統特朗普表示，與伊朗的衝突將很快結束，但他堅持稱華盛頓要的是“徹底勝利”，並稱伊朗需要25年才能重建被美軍摧毀的一切。特朗普說：“美國沒有對伊朗發動戰爭。自1979年以來，伊朗一直在對美國發動戰爭。”他補充說：“我們要確保取得徹底勝利，而不是93%的勝利。”他說：“當這場衝突結束時——而且很快就會結束——整個世界將變得更加安全和美好。”
+
+---
+
+### 2026-11-12 01:24:44  #市場
+
+標普500指數漲幅擴大至1.5%，納斯達克100指數上漲2.9%。
+
+---
+
+### 2026-11-12 01:21:27  #市場
+
+瑞士法郎跌幅擴大，兌美元下跌1%。
+
+---
+
+### 2026-11-12 01:16:47  #國際
+
+美國總統特朗普談伊朗：希望我們不必再摧毀那個國家的更多地方。
+
+---
+
+### 2026-11-12 01:16:31  #國際
+
+【俄方高度評價中國任APEC東道主工作】當地時間11月11日，俄羅斯外交部發言人扎哈羅娃在例行記者會上回答總檯提問時表示，俄方高度評價中國擔任2026年亞太經合組織（APEC）東道主期間的工作，期待即將在深圳舉行的APEC領導人非正式會議為深化俄羅斯與亞太地區合作提供新的機遇。（CCTV國際時訊）
+
+---
+
+### 2026-11-12 01:15:41  #國際
+
+美國總統特朗普談伊朗戰爭：我們贏了。我們要確保取得徹底勝利，而不是93%的勝利。
+
+---
+
+### 2026-11-12 01:14:29  #國際
+
+美國總統特朗普：伊朗需要25年才能重建失去的一切。
+
+---
+
+### 2026-11-12 01:14:05  #國際
+
+美國總統特朗普就伊朗問題表示：美國沒有對伊朗發動戰爭。自1979年以來，伊朗一直在對美國發動戰爭。這個問題早就應該解決了。
+
+---
+
+### 2026-11-12 01:13:17  #其他
+
+馬斯克：生產將延長至2027年夏末。
+
+---
+
+### 2026-11-12 01:13:11  #其他
+
+馬斯克：Cybertruck的生產週期將延長。
+
+---
+
+### 2026-11-12 01:12:08  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.33% Higher — The FTSE MIB Index went up by 168 points or 0.33 percent on Wednesday to close at 51923 points. The rise was led by Technoprobe (7.27%), STMicroelectronics (5.28%) and Prysmian (4.15%). On the downside, the weakerst performers were Stellantis N.V. (-3.39%), Fincantieri (-3.11%) and A2A (-2.48%).
+
+---
+
+### 2026-11-12 01:11:08  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 1.06% Higher — The DAX Index rose 279 points or 1.06 percent on Wednesday to close at 26626 points. Leading the gains are Siemens Energy (10.60%), Infineon (6.48%) and RWE (2.20%).
+
+---
+
+### 2026-11-12 01:09:39  #公司 #焦點
+
+谷歌將Gemini Live功能在全球範圍接入蘋果CarPlay。
+
+---
+
+### 2026-11-12 01:09:28  #國際
+
+美國總統特朗普：一個沒有英雄的國家，就像沒有星辰的天空，或沒有天使的天堂。
+
+---
+
+### 2026-11-12 01:08:57  #國際
+
+美國總統特朗普：伊朗永遠不會擁有核武器。
+
+---
+
+### 2026-11-12 01:07:08  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.69% Higher — The FTSE 100 Index went up by 74 points or 0.69 percent on Wednesday to close at 10826 points. The rise was led by Polar Capital Holdings (4.82%), Computacenter (3.70%) and Spirax-Sarco Engineering (2.92%). On the downside, the weakerst performers were JD Sports Fashion (-2.62%), Babcock International (-1.88%) and GlaxoSmithKline (-1.63%).
+
+---
+
+### 2026-11-12 01:05:10  #其他
+
+扎波羅熱核電站通報：一名員工在家中遭烏軍襲擊身亡。
+
+---
+
+### 2026-11-12 01:00:04  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.05%，滬銅收漲0.31%，滬鋁收漲0.96%，滬鋅收漲0.53%，滬鉛收跌0.47%，滬鎳收漲0.57%，滬錫收漲0.74%。氧化鋁夜盤收漲0.04%，鋁合金收漲0.44%。不鏽鋼夜盤收漲0.25%。
+
+---
+
+### 2026-11-12 00:59:42  #國際
+
+伊朗媒體：儘管平臺發生火災，伊朗南部天然氣產量仍保持穩定。
+
+---
+
+### 2026-11-12 00:59:29  #國際
+
+烏克蘭軍方稱，其打擊了俄羅斯波羅的海港口烏斯季盧加，該港口的儲罐受損。
+
+---
+
+### 2026-11-12 00:58:12  #公司
+
+谷歌更新政策，禁止AI生成的公眾人物模仿廣告。
+
+---
+
+### 2026-11-12 00:57:59  #國際
+
+美國總統特朗普：國防部長赫格塞思做得非常出色。
+
+---
+
+### 2026-11-12 00:56:33  #其他
+
+【國際海事組織呼籲各國加強執行霍爾木茲海峽航行安全規則】當地時間11月11日，國際海事組織（IMO）秘書長阿塞尼奧·多明格斯發表宣告，呼籲各成員國採取更加有力的措施，確保霍爾木茲海峽及周邊海域的海上安全與安保規則得到有效執行。（央視新聞）
+
+---
+
+### 2026-11-12 00:55:49  #國際
+
+歐盟外交與安全政策高階代表卡拉斯就中東問題表示：這些戰爭結束後，中東新的安全架構也需要納入歐洲，因為中東是我們的近鄰。
+
+---
+
+### 2026-11-12 00:55:33  #國際
+
+美國總統特朗普談美國副總統萬斯：副總統做得非常出色，我們對此非常感激。
+
+---
+
+### 2026-11-12 00:55:16  #國際
+
+【伊朗議長：美國必須滿足伊方提出的七項條件】當地時間11日，伊朗議會議長卡利巴夫表示，伊朗已向美方給出了明確且直白的答覆，闡述了伊朗的正當訴求。迄今為止，美國尚未就伊朗提交的資訊和提議給出任何官方或具體的答覆。卡利巴夫強調，若要重新開放霍爾木茲海峽並重啟談判，美國必須全面落實伊朗提出的七項條件。（央視新聞）
+
+---
+
+### 2026-11-12 00:53:48  #市場 #焦點
+
+納指漲2.01%，現報25569.105點；道指漲0.10%，現報52286.039點；標普500指數漲1.31%，現報7619.460點。
+
+---
+
+### 2026-11-12 00:52:54  #市場
+
+美股擴大漲幅，納斯達克指數上漲2.00%。
+
+---
+
+### 2026-11-12 00:51:32  #國際
+
+烏克蘭方面表示，打擊了俄羅斯烏斯季盧加港的諾瓦泰克（Novatek）能源終端。
+
+---
+
+### 2026-11-12 00:50:09  #國際
+
+歐盟外交與安全政策高階代表卡拉斯談與俄羅斯談判：俄羅斯希望從這些談判中得到的是解除制裁以及解凍資產。這些是歐洲的決定。除了歐洲，任何其他方都不能作出這些決定。當然，俄羅斯不想與歐洲談判，因為與美國談判更容易。
+
+---
+
+### 2026-11-12 00:48:02  #市場 #焦點
+
+CoreWeave延續漲勢，漲幅擴大至25%，創2025年6月以來最大漲幅。
+
+---
+
+### 2026-11-12 00:47:26  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+French Stocks Rise for a Third Session — The CAC 40 rose 0.7% to 8,333 on Wednesday, its highest level since August 31, extending gains for a third straight session as AI-related stocks rallied after upbeat outlooks from CoreWeave and Siemens Energy. Trading was subdued with France on a public holiday and no domestic data or earnings due. STMicroelectronics jumped 5.3%, Schneider Electric gained 3.1%, Legrand 2.1% and Capgemini 0.5%. TotalEnergies rose 1.3% as Brent crude rebounded above $93 after fresh attacks on shipping near the Strait of Hormuz. In contrast, EssilorLuxottica fell 2.4%, Unibail-Rodamco-Westfield 1.8% and Thales 1.1%. Meanwhile, investors weighed bets on a Fed rate hike in December.
+
+---
+
+### 2026-11-12 00:44:48  #市場 #國際
+
+斯托克歐洲600指數創8月以來首個收盤紀錄新高。
+
+---
+
+### 2026-11-12 00:43:07  #市場
+
+【費城半導體指數日內漲7%】費城半導體指數日內漲7.00%，現報10698.40點。英偉達漲4.05%，博通漲6.66%，美光漲13.37%，英特爾漲9.68%，AMD漲7.46%，高通漲2.49%，臺積電漲4.70%，阿斯麥漲3.52%。
+
+---
+
+### 2026-11-12 00:42:11  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：我們準備協助沙烏地阿拉伯和胡塞武裝組織，在雙方提出請求時幫助化解彼此間的分歧。
+
+---
+
+### 2026-11-12 00:41:08  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：我們就霍爾木茲海峽的航道及交通分隔系統與阿曼達成共識。
+
+---
+
+### 2026-11-12 00:40:52  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：在談判或戰爭中，我們不區分以色列和華盛頓，它們是一夥的，而我們與抵抗力量是一夥的。
+
+---
+
+### 2026-11-12 00:40:33  #市場 #焦點
+
+現貨黃金失守4000美元/盎司，日內跌0.82%。
+
+---
+
+### 2026-11-12 00:34:12  #公司
+
+英國航空CEO：商務及長途航線需求強勁。
+
+---
+
+### 2026-11-12 00:33:14  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：如果對方接受我們的條件，我們的首要任務是實現和平；我們不希望戰爭繼續。
+
+---
+
+### 2026-11-12 00:32:59  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：持續戰爭將損害本地區各國的安全與經濟。
+
+---
+
+### 2026-11-12 00:32:24  #市場 #焦點 #國際
+
+【歐洲主要股指收盤普漲】歐洲STOXX 600指數上漲0.67%，歐洲斯托克指數上漲 0.83%，歐元區藍籌股上漲 1%。英國富時100指數上漲0.66%，德國DAX指數上漲1.12%，法國CAC 40指數上漲0.6%，西班牙IBEX指數上漲0.43%。
+
+---
+
+### 2026-11-12 00:30:19  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：華盛頓對我們實施了封鎖，阻止食品供應，並阻礙貿易和醫療服務。
+
+---
+
+### 2026-11-12 00:29:33  #其他
+
+沙特主導的聯軍發言人：在麥加及南部區域攔截並摧毀胡塞武裝民兵發射的兩架無人機。
+
+---
+
+### 2026-11-12 00:28:52  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：我們決心打破這種既非戰爭也非和平的狀態，而且不一定非要透過談判，而是依靠可持續的威懾。
+
+---
+
+### 2026-11-12 00:27:47  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：美國人曾訪問莫斯科，要求普京與伊朗進行對話，以便促成我們之間的直接談判。
+
+---
+
+### 2026-11-12 00:27:25  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：如果特朗普再次作出開戰決定，他將遭遇新的失敗。
+
+---
+
+### 2026-11-12 00:26:49  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：只要美國遵守已達成的協議、不再採取破壞信任的舉動，雙方就有望達成協議。
+
+---
+
+### 2026-11-12 00:26:37  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：談判團隊未作任何變動，我仍負責談判工作。
+
+---
+
+### 2026-11-12 00:26:17  #國際
+
+伊朗最高國家安全委員會秘書雷扎伊：我們正在設計核動力艦船和核動力潛艇，因此需要我們的濃縮材料。我們還可能希望在某個階段生產小型模組化反應堆（SMR），屆時同樣需要這些材料。濃縮材料的哪怕最小一粒也不會離開伊朗。
+
+---
+
+### 2026-11-12 00:23:22  #國際
+
+俄羅斯鄂木斯克州州長表示，受無人機襲擊影響，呼籲當地居民待在室內避險。
+
+---
+
+### 2026-11-12 00:22:54  #國際
+
+【俄羅斯駐美國大使達爾奇耶夫去世】俄羅斯外交部11月11日釋出訊息稱，俄羅斯駐美國大使亞歷山大·達爾奇耶夫當天突然去世，終年66歲。（央視新聞）
+
+---
+
+### 2026-11-12 00:22:32  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：現在球在美國人腳下，他們必須作出決定並予以公佈。
+
+---
+
+### 2026-11-12 00:22:13  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：華盛頓必須落實我方關於開放霍爾木茲海峽並恢復談判的七項條件。
+
+---
+
+### 2026-11-12 00:22:06  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：截至目前，華盛頓尚未就我們的函件作出正式且具體的回覆。
+
+---
+
+### 2026-11-12 00:21:58  #國際
+
+伊朗議長兼談判代表團團長卡利巴夫：我們已向美國提交了一份明確且透明的答覆，其中列出了我們的各項訴求。
+
+---
+
+### 2026-11-12 00:19:57  #國際
+
+【集安組織取消亞美尼亞投票權和組織內職務提名權】集體安全條約組織（集安組織）集體安全理事會會議11日在俄羅斯首都莫斯科舉行。會議決定取消亞美尼亞在該組織的投票權，並暫停提名亞美尼亞公民在組織內擔任職務。（新華社）
+
+---
+
+### 2026-11-12 00:17:17  #國際
+
+伊朗總統：美國—以色列的非法侵略行為對伊朗造成了嚴重環境破壞。
+
+---
+
+### 2026-11-12 00:15:39  #其他 #焦點
+
+白宮官員：預計在辦公廳主任米勒的領導下將有更多政府人事變動。
+
+---
+
+### 2026-11-12 00:13:59  #公司
+
+谷歌允許員工測試名為Hydrogen的新型“快速”Gemini人工智慧模型。
 
 ---
 
@@ -11066,215 +11936,5 @@ Rice Futures Hover Around 2024-Highs — Rice prices eased to around $17.2 per h
 ### 2026-11-11 00:05:37  #Trading Economics #Economy #United States #Debt Balance Total #Importance 1
 
 US Household Debt Hits Record $19.1 Trillion — Total household debt in the US expanded by $334 billion from the prior quarter to $19.1 trillion in Q3 2026, the highest on record. Mortgage balances rose by $257 billion to $13.4 trillion, and home equity lines of credit (HELOC) balances rose by $23 billion to $481 billion, the largest increase since 2005. Credit card balances rose by $22 billion to $1.29 trillion, and auto loan balances increased by $21 billion to $1.73 trillion. Student loan balances edged up by $5 billion to $1.66 trillion. “Household debt levels rose moderately, led by increases in mortgage and home equity line of credit originations” said Donghoon Lee, Economic Research Advisor at the New York Fed. “Although delinquency transition rates for housing debts have crept up, the overall credit quality of these loans remains strong.”
-
----
-
-### 2026-11-11 00:05:09  #公司
-
-谷歌推出.eat、.fly和.here三個新域名。
-
----
-
-### 2026-11-11 00:04:16  #國際
-
-【伊朗總參謀長強調使命就是抗敵】伊朗伊斯蘭革命衛隊一座新建的“導彈城”11月10日正式亮相。伊朗武裝部隊總參謀長阿卜杜拉希視察了革命衛隊航空航天部隊的最新成果及戰備狀態。 阿卜杜拉希表示，以色列總理內塔尼亞胡最近稱“要麼摧毀伊朗、要麼被伊朗摧毀”，這並非什麼新鮮的說法——“顯而易見，以色列及其背後的美國已經遭遇了徹底的失敗，也註定要失敗”。 阿卜杜拉希強調，伊朗軍人的意志“讓美國未能得逞”，伊朗武裝力量的使命就是抗擊敵人，奉勸敵人不要覬覦伊朗的領土。（CCTV國際時訊）
-
----
-
-### 2026-11-11 00:03:23  #公司
-
-蘋果公司：Apple TV推出新的手語翻譯功能。新的手語翻譯功能將於11月13日上線。
-
----
-
-### 2026-11-11 00:03:17  #資料 #央行 #焦點 #國際
-
-【達拉斯聯儲行長支援至少再加息兩次 稱利率調整步伐可能需加快】達拉斯聯儲行長洛根表示，她仍認為至少需要進行兩次幅度25基點的加息，但步伐可能需要比美聯儲今年秋季的行動更快。洛根週二在為休斯敦一場會議準備的講稿中表示：“鑑於當前前景，我仍然明確認為，聯邦公開市場委員會(FOMC)需要至少再實施兩次25個基點的加息。”洛根今年在FOMC擁有投票權。洛根還表示，雖然加息步伐將取決於經濟資料和金融條件，但“今年冬季的行動速度可能可以比FOMC秋季迄今的步伐更快”。週二早上公佈的報告顯示，10月消費者價格指數(CPI)漲幅超過預期，核心通脹環比增速加快至0.3%。洛根表示，她擔心本月晚些時候公佈的另一項通脹指標可能顯示類似10月的加速。
-
----
-
-### 2026-11-11 00:02:35  #其他
-
-英偉達擴大開源承諾，捐贈OpenShell並推出新AI基礎設施。
-
----
-
-### 2026-11-11 00:02:21  #央行 #其他
-
-紐約聯儲：第三季度流入“嚴重”拖欠狀態的總體流量較2025年第三季度下降。截至9月底，5%的債務處於某種形式的拖欠狀態。
-
----
-
-### 2026-11-11 00:02:11  #Trading Economics #Markets #Spain #stocks #Importance 0
-
-Iberdrola Shares Hit 15-year High — Iberdrola shares increased to 23.11 EUR, the highest since July 2011. Over the past 4 weeks, Iberdrola gained 6.42%, and in the last 12 months, it increased 30.16%.
-
----
-
-### 2026-11-11 00:02:03  #央行 #其他
-
-紐約聯儲：抵押貸款轉為拖欠的比例上升，但仍處於歷史低位。
-
----
-
-### 2026-11-11 00:01:56  #央行 #其他
-
-紐約聯儲：第三季度貸款拖欠情況因借款型別而異。
-
----
-
-### 2026-11-11 00:01:50  #央行 #其他
-
-紐約聯儲：信用卡拖欠率預計將改善。
-
----
-
-### 2026-11-11 00:01:45  #其他
-
-波音：截至10月31日，按ASC 606調整後的官方積壓訂單為6457架，9月30日為6341架。截至10月，扣除取消訂單後，今年迄今累計獲得783架飛機訂單。波音10月交付49架飛機。10月錄得165架飛機總訂單，無取消訂單。
-
----
-
-### 2026-11-11 00:01:07  #央行 #國際
-
-俄羅斯央行：10月非金融企業淨外匯銷售環比下降1.3%，至234億美元。
-
----
-
-### 2026-11-11 00:01:02  #央行 #其他
-
-紐約聯儲資料顯示，第三季度抵押貸款餘額增加2570億美元。
-
----
-
-### 2026-11-11 00:00:51  #央行 #國際
-
-紐約聯儲：美國家庭債務第三季度增加3340億美元。
-
----
-
-### 2026-11-11 00:00:32  #公司
-
-谷歌公司在全球範圍內釋出Gemini 4 Carbon。
-
----
-
-### 2026-11-11 00:00:11  #市場 #焦點
-
-美元指數突破102關口，日內漲0.60%。
-
----
-
-### 2026-11-10 23:59:27  #公司 #國際
-
-【以色列議會舉行全體會議 多名議員提交動議要求更換議長】當地時間10日下午，以色列正直黨發表宣告說，該黨已向現任議長奧哈納提交超過61名第26屆議會議員的聯署簽名，正式要求罷免奧哈納本人的議長職務，並要求在議會全體會議上投票選舉新任議長。宣告表示，作為該動議的一部分，來自正直黨的議會議員卡哈納已正式獲提名為新任議長候選人。據悉，現任議長奧哈納來自內塔尼亞胡領導的利庫德集團。當天早些時候，反對內塔尼亞胡連任的主要各黨派領導人經過數日談判，最終同意提名卡哈納為新任議長候選人。奧哈納此前表示，若議會多數議員正式提出請求，他將安排全體會議進行新議長選舉。（央視新聞）
-
----
-
-### 2026-11-10 23:58:59  #其他
-
-瑞典首相克里斯特松再獲一週時間嘗試組建新政府。
-
----
-
-### 2026-11-10 23:58:49  #公司
-
-立陶宛電網運營商CEO稱，10座新電廠預計耗資約8.8億歐元，將由私人投資提供資金。
-
----
-
-### 2026-11-10 23:57:18  #其他
-
-土耳其總統埃爾多安會見了巴西總統盧拉。
-
----
-
-### 2026-11-10 23:57:02  #國際
-
-俄羅斯代表團在阿布扎比會談後將於週三舉行新聞釋出會。
-
----
-
-### 2026-11-10 23:56:50  #央行 #國際
-
-德意志銀行預計，美聯儲將在2027年1月再加息25個基點，而此前預測的加息時點為2026年12月和2027年3月。
-
----
-
-### 2026-11-10 23:56:38  #央行 #其他 #國際
-
-交易員已完全消化英國央行在明年3月之前實施兩次25個基點加息的預期。
-
----
-
-### 2026-11-10 23:55:29  #國際
-
-美國郵政總局公佈2026財年營業收入為829億美元，同比增長3.0%。
-
----
-
-### 2026-11-10 23:55:17  #國際
-
-美國郵政總局報告2026財年GAAP淨虧損65億美元，較90億美元有所收窄。
-
----
-
-### 2026-11-10 23:54:24  #市場
-
-彭博美元指數上漲0.5%，創盤中新高。
-
----
-
-### 2026-11-10 23:44:26  #Trading Economics #Markets #Mexico #Currency #Importance 1
-
-Mexican Peso Slips on Narrowing US-Mexico Rate Spread Bets — The Mexican peso weakened to near 18.7 per USD from the three-week high of 18.5 touched on November 9th amid prospects of a narrower US-Mexico interest-rate differential. Hotter-than-expected US inflation in October reinforced expectations of further Federal Reserve hikes. A narrower rate differential would pressure the peso by reducing carry trade. Still, recent data limits the room for looser policy by Banxico. Annual inflation rose to 3.75% from 3.45% in September, above forecasts of 3.65%, moving further above Banxico’s 3% target. Core inflation edged up to 3.80% from 3.75%, broadly in line with forecasts of 3.78%. The central bank unexpectedly cut its benchmark rate to 6.25% at its latest meeting and revised forward guidance, signaling rates would remain at the new level for an “extended period.” Meanwhile, the Democratic Party’s victory in the US midterm elections could soften trade pressures on Mexican growth.
-
----
-
-### 2026-11-10 23:35:45  #Trading Economics #Economy #Norway #Consumer Confidence #Importance 0
-
-Norway Consumer Confidence Falls in Q4 — Norway’s adjusted consumer confidence indicator fell to -22.5 in the fourth quarter of 2026, down from a revised -19.1 in the previous quarter, signalling a further deterioration in household sentiment. The expectations barometer points to a marked shift in consumers’ outlook for their personal finances, with pessimism increasingly replacing optimism. While a majority of households previously expected their financial situation to improve over the coming year, the latest survey shows that more now anticipate a deterioration. The rise in pessimism is broad-based, spanning all demographic groups, including gender, age, education, income and geographical location. Notably, households in age groups traditionally carrying the highest levels of debt are among the most pessimistic.
-
----
-
-### 2026-11-10 23:34:12  #Trading Economics #Markets #South Africa #Government Bond 10Y #Importance 0
-
-South Africa 10-Year Bond Yield Rise From 3-Month Lows — South Africa’s 10-year government bond yield rose above 8.50%, up from recent three-month lows, tracking US peers. Hotter-than-expected US inflation data and hawkish remarks from Fed Governor Christopher Waller fueled concerns over further monetary tightening. Meanwhile, oil prices extended their decline amid growing optimism over a potential US-Iran peace agreement, improving the domestic inflation outlook. As a net oil importer, South Africa is also expected to benefit from November’s fuel levy relief, helping lower costs for households and businesses. However, the sustainability of this relief will depend largely on international oil price movements in the coming months. Meanwhile, the results of last week's local elections showed that the ruling party ANC trailed its rivals in most of South Africa's major metropolitan areas. The setback has weakened its bargaining position in the upcoming coalition talks, reducing its influence over the formation of city governments.
-
----
-
-### 2026-11-10 23:30:16  #Trading Economics #Markets #Bonds #Importance 1
-
-Bonds Update: US 10 Year Note Bond Yield Rises by 10 bps — Government bonds yields are higher on Tuesday. Top gainers are US 10Y (9.70bps), Brazil 10Y (7.50bps), United Kingdom 10Y (6.36bps), Germany 10Y (3.21bps) and Japan 10Y (1.79bps).
-
----
-
-### 2026-11-10 23:21:49  #Trading Economics #Markets #Switzerland #Government Bond 10Y #Importance 0
-
-Swiss Bond Yields Rise From 2-Month Low — The Swiss 10-year government bond yield rose above 0.45%, recovering from its lowest level in two months and tracking US Treasury yields higher as stronger-than-expected US inflation lifted expectations of another Fed rate hike. In Switzerland, however, SNB Chairman Schlegel said there were no signs of a broadening in price pressures and that the central bank had fulfilled its mandate of maintaining price stability over the medium term. Although inflation reached a three-year high in October amid a weaker franc and rising energy costs, energy accounts for only a small share of the Swiss CPI basket. A decline in oil prices amid expectations of a diplomatic resolution to the conflict in the Middle East has also offered some relief. The SNB is expected to leave rates unchanged at 0% at its meeting next month. While markets anticipate a hike in early 2027, economists expect the first increase only in late 2027.
-
----
-
-### 2026-11-10 23:17:48  #Trading Economics #Markets #Brazil #Currency #Importance 1
-
-Brazilian Real at Lowest Since June 2025 — The Brazilian real weakened to 5.6 per USD in November, its lowest since June last year, amid the prospects of lower interest rates by the Central Bank of Brazil. Policymakers in the BCB suggested that the elevated interest rates have already dampened economic activity in its latest meeting minutes, hinting that rate cuts may be necessary to tame slower growth and threats to unemployment. The central bank had held its Selic rate unchanged at 13.75%, pausing five consecutive cuts as high oil prices and widening budget deficits added to pro-inflationary risks. In the meantime, hot inflation data in the US in October consolidated bets of multiple rate hikes by the Fed next year and a 25bps hike to 4.25% next month. A narrower differential between the benchmark rates would pressure the real by reducing carry trade.
-
----
-
-### 2026-11-10 23:12:53  #Trading Economics #Markets #South Africa #Currency #Importance 0
-
-South African Rand Weakens — The South African rand weakened slightly to around 16.5 per US dollar, pressured by a stronger greenback and falling prices of key precious metals. The decline came as hotter-than-expected US inflation data and hawkish comments from a senior Federal Reserve official reinforced expectations of a possible 50-basis-point rate hike in December. Meanwhile, the continued drop in oil prices amid easing concerns over US-Iran tensions helped alleviate some concerns about imported inflation. At home, latest data painted a gloomy picture, with unemployment reaching an over four-year high of 33.7% in Q3 and manufacturing activity declining for a second straight month in September. On the political front, South Africa’s ANC has suffered its worst-ever local election result, weakening its position in coalition negotiations and signalling a shift away from decades of electoral dominance towards a more competitive multiparty system.
-
----
-
-### 2026-11-10 23:08:08  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Edges Down on Tuesday — The FTSE 100 gave up earlier gains and closed slightly lower on Tuesday, as losses in energy stocks and miners weighed on the market. Shell and BP fell 2% and 0.7%, respectively, as Brent crude dropped below $90 a barrel for the first time since August amid growing hopes of a resolution to the Middle East conflict. Gold producers Fresnillo and Endeavour were among the worst performers, down by around 4.7% and 4.4%. Also, Rio Tinto, Glencore, Anglo American, and Antofagasta declined between 1.4% and 2.1%. The selloff extended across commodities after stronger-than-expected US inflation data reinforced expectations of further Federal Reserve rate hikes, pushing gold and silver down by over 2%. Copper was down more than 1%. AstraZeneca also slipped 0.9%. In contrast, Marks & Spencer gained more than 3.5% after reaffirming its target to cut £600 million in costs by 2028 and announcing plans to double its dividend this fiscal year. Banks also held onto earlier gains.
-
----
-
-### 2026-11-10 23:07:38  #Trading Economics #Economy #Kosovo #Inflation Rate #Importance 1
-
-Kosovo Inflation Rate Eases from Over 3-Year High — Kosovo’s annual inflation rate eased to 7.1% in October 2026, the lowest since July, from 7.8% in September. Inflation slowed for transport (21.5% vs 23.9%), housing and utilities (9.7% vs 11.9%), alcoholic beverages, tobacco and narcotics (5% vs 6.3%), restaurants and hotels (4.5% vs 5.2%), health (2.9% vs 4.5%), furnishings (2.9% vs 3.5%), personal care and miscellaneous goods and services (3.7% vs 3.8%), clothing and footwear (2.3% vs 3%) and recreation, sports and culture (1% vs 1.8%), while it was steady for information and communication (0.7%). In contrast, food inflation picked up to 3.2% from 2.4%, the first acceleration in eight months. Meanwhile, prices of educational services fell 0.3%, matching the decline in September. On a monthly basis, consumer prices were unchanged, after a 0.2% rise in September.
 
 ---
