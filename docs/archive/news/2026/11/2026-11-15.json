@@ -1,7 +1,31 @@
 {
   "date": "2026-11-15",
-  "count": 302,
+  "count": 305,
   "items": [
+    {
+      "id": "5215255",
+      "time": "2026-11-15 11:10:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌CEO：祝賀SpaceX成功用發射塔捕獲星艦，這仍讓人感覺像科幻小說！觀看直播令人難以置信。繼續向上！"
+    },
+    {
+      "id": "mkt:01a1dd2f-4492-7bbc-abe4-5006e253cf4b",
+      "time": "2026-11-15 11:10:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CCPIT deputy chair Li Qingshuang: US firms 20% of foreign participants at APEC business summit】At a Shenzhen briefing on the 2026 APEC business leaders forum, CCPIT deputy chair Li Qingshuang said the event attracted at least 115 Global Fortune 500 company representatives. US firms are the largest foreign contingent, accounting for 20% of foreign participating companies."
+    },
+    {
+      "id": "mkt:01a1dd2d-18ba-7bbc-abe4-4afbe5de9a90",
+      "time": "2026-11-15 11:08:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Representatives of 115 Fortune Global 500 companies to attend APEC Business Leaders' Summit】At a 15th press briefing on APEC business events, China Council for the Promotion of International Trade vice‑chair Li Qingshuang said representatives of 115 Fortune Global 500 companies will attend the APEC Business Leaders' Summit. US firms account for nearly 20% of that cohort, the largest share among foreign economies. Heads of several international organisations and business associations from the United States, Russia and Japan are also expected to attend."
+    },
     {
       "id": "5215245",
       "time": "2026-11-15 11:06:40",
