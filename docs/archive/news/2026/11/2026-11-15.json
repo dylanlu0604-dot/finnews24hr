@@ -1,7 +1,28 @@
 {
   "date": "2026-11-15",
-  "count": 298,
+  "count": 300,
   "items": [
+    {
+      "id": "5215217",
+      "time": "2026-11-15 11:01:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破65000美元，日內漲1.54%。"
+    },
+    {
+      "id": "mkt:01a1dd26-f1df-7bbc-abe4-417e325a109d",
+      "time": "2026-11-15 11:01:19",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【China proposal to re-establish connectivity working group wins broad support】At an APEC business event in Shenzhen on Nov 15, 2026, Wu Meng, minister of the international department at the China Council for the Promotion of International Trade (CCPIT), said China’s proposal to re-establish a connectivity working group after an eight-year hiatus won broad support, reflecting Asia‑Pacific business consensus on strengthening regional connectivity projects."
+    },
     {
       "id": "5215208",
       "time": "2026-11-15 10:59:23",

@@ -1,7 +1,28 @@
 {
-  "updated": "2026-11-15 11:00:31",
-  "count": 9926,
+  "updated": "2026-11-15 11:04:26",
+  "count": 9927,
   "items": [
+    {
+      "id": "5215217",
+      "time": "2026-11-15 11:01:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破65000美元，日內漲1.54%。"
+    },
+    {
+      "id": "mkt:01a1dd26-f1df-7bbc-abe4-417e325a109d",
+      "time": "2026-11-15 11:01:19",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【China proposal to re-establish connectivity working group wins broad support】At an APEC business event in Shenzhen on Nov 15, 2026, Wu Meng, minister of the international department at the China Council for the Promotion of International Trade (CCPIT), said China’s proposal to re-establish a connectivity working group after an eight-year hiatus won broad support, reflecting Asia‑Pacific business consensus on strengthening regional connectivity projects."
+    },
     {
       "id": "5215208",
       "time": "2026-11-15 10:59:23",
@@ -90307,14 +90328,6 @@
         "其他"
       ],
       "text": "【巴拉圭檢方正式起訴前總統，新總統承諾保障民眾權益】巴拉圭公共檢察官辦公室11月7日正式對前總統聖地亞哥·培尼亞提起刑事訴訟，指控其涉嫌挪用公款並唆使其他政府官員違規金融操作，要求法院對其還押候審。同日，新總統佩德羅·阿利亞納承諾將採取緊急救助措施，按時發放退休人員養老金和年度獎金。（新華社）"
-    },
-    {
-      "id": "5201224",
-      "time": "2026-11-08 11:04:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【啟境GX7累計交付量突破4000臺 全系標配面向L3級自動駕駛架構】啟境GX7集體交付活動在深圳鹽田雲海廣場舉行。20組車主在啟境高管與明星車主代表的見證下完成新車交付。自9月23日上市以來，啟境GX7市場熱度持續走高，L3架構、20秒一鍵成床和終身質保成為使用者購車的驅動因素，上市至今累計交付已突破4000臺，全國70城火熱交付進行中。啟境GX7定位行業首款闊五座智慧百變SUV，全系標配面向L3級自動駕駛架構，搭載華為乾崑智駕ADS 5與鴻蒙座艙6。服務權益方面，配套整車及核心零部件終身質保政策，為使用者提供全週期服務保障。"
     }
   ]
 }
