@@ -1,7 +1,29 @@
 {
   "date": "2026-11-16",
-  "count": 135,
+  "count": 137,
   "items": [
+    {
+      "id": "mkt:01a1e143-3bf2-7bbc-abe8-ac57971a92f6",
+      "time": "2026-11-16 06:10:42",
+      "tags": [
+        "MKT News",
+        "DXY"
+      ],
+      "text": "In early FX trading, the dollar index (DXY) slipped 0.04% to 103.37."
+    },
+    {
+      "id": "mkt:01a1e141-2bd4-7bbc-abe8-a2bb38e96692",
+      "time": "2026-11-16 06:08:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "SPCX.O"
+      ],
+      "text": "South Korea's Seoul Economic Daily reports Samsung Electronics will produce satellite chips in the United States for SpaceX (SPCX.O)."
+    },
     {
       "id": "5216002",
       "time": "2026-11-16 06:05:25",

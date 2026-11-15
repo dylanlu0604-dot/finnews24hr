@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-16 06:07:55",
+  "updated": "2026-11-16 06:11:38",
   "count": 9869,
   "items": [
+    {
+      "id": "mkt:01a1e143-3bf2-7bbc-abe8-ac57971a92f6",
+      "time": "2026-11-16 06:10:42",
+      "tags": [
+        "MKT News",
+        "DXY"
+      ],
+      "text": "In early FX trading, the dollar index (DXY) slipped 0.04% to 103.37."
+    },
+    {
+      "id": "mkt:01a1e141-2bd4-7bbc-abe8-a2bb38e96692",
+      "time": "2026-11-16 06:08:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "SPCX.O"
+      ],
+      "text": "South Korea's Seoul Economic Daily reports Samsung Electronics will produce satellite chips in the United States for SpaceX (SPCX.O)."
+    },
     {
       "id": "5216002",
       "time": "2026-11-16 06:05:25",
@@ -89896,26 +89918,6 @@
         "MKT News"
       ],
       "text": "U.S. Secretary of State Rubio said if shipping is threatened, the U.S. will defend shipping."
-    },
-    {
-      "id": "mkt:01a1bd37-59d8-7ee0-aac7-7a473a7fe4ba",
-      "time": "2026-11-09 06:11:23",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "US Secretary of State Rubio said the US is taking defensive action and will respond if its forces in the region are threatened."
-    },
-    {
-      "id": "mkt:01a1bd36-0d67-7ee0-aac7-7653534aed44",
-      "time": "2026-11-09 06:09:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rubio said both U.S. parties have long agreed that Iran possessing nuclear weapons would be completely unacceptable and very dangerous for the United States."
     }
   ]
 }
