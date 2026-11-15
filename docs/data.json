@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16 02:19:35",
-  "count": 9864,
+  "updated": "2026-11-16 02:23:25",
+  "count": 9860,
   "items": [
     {
       "id": "5215803",
@@ -89780,42 +89780,6 @@
         "焦點"
       ],
       "text": "SK海力士暗盤突破130美元，日內漲1.5%。"
-    },
-    {
-      "id": "5201631",
-      "time": "2026-11-09 02:20:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特主導的聯軍：葉門胡塞武裝在試圖襲擊東部地區時使用了平臺。"
-    },
-    {
-      "id": "5201630",
-      "time": "2026-11-09 02:20:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特領導的聯軍：摧毀了葉門薩那的彈道導彈發射平臺。"
-    },
-    {
-      "id": "5201629",
-      "time": "2026-11-09 02:20:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部表示，在四個俄聯邦以及克里米亞半島上空擊落50架烏克蘭無人機。"
-    },
-    {
-      "id": "mkt:01a1bc63-59e4-7ee0-aac6-8051f2ea6e15",
-      "time": "2026-11-09 02:19:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi-led coalition spokesman Turki al-Maliki said the coalition destroyed a ballistic-missile launch platform in Sanaa. Houthi forces attempted today to use the platform to attack the eastern region."
     }
   ]
 }
