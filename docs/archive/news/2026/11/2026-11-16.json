@@ -1,7 +1,30 @@
 {
   "date": "2026-11-16",
-  "count": 131,
+  "count": 133,
   "items": [
+    {
+      "id": "5215968",
+      "time": "2026-11-16 06:01:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛將H股評級上調至超配，A股降至平配。"
+    },
+    {
+      "id": "mkt:01a1e139-f448-7bbc-abe8-9bb2380deecd",
+      "time": "2026-11-16 06:00:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【CME FedWatch: 95% chance of 25bp Fed hike in December】CME FedWatch shows a 95% probability the Federal Reserve will raise rates by 25bp in December and a 5% probability of a 50bp move. By January, probabilities are 25.2% for cumulative 25bp, 71.1% for cumulative 50bp and 3.7% for cumulative 75bp."
+    },
     {
       "id": "5215934",
       "time": "2026-11-16 05:54:32",

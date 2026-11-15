@@ -1,7 +1,30 @@
 {
-  "updated": "2026-11-16 06:00:29",
-  "count": 9872,
+  "updated": "2026-11-16 06:04:12",
+  "count": 9873,
   "items": [
+    {
+      "id": "5215968",
+      "time": "2026-11-16 06:01:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛將H股評級上調至超配，A股降至平配。"
+    },
+    {
+      "id": "mkt:01a1e139-f448-7bbc-abe8-9bb2380deecd",
+      "time": "2026-11-16 06:00:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【CME FedWatch: 95% chance of 25bp Fed hike in December】CME FedWatch shows a 95% probability the Federal Reserve will raise rates by 25bp in December and a 5% probability of a 50bp move. By January, probabilities are 25.2% for cumulative 25bp, 71.1% for cumulative 50bp and 3.7% for cumulative 75bp."
+    },
     {
       "id": "5215934",
       "time": "2026-11-16 05:54:32",
@@ -89925,15 +89948,6 @@
         "Greater China"
       ],
       "text": "【China successfully launches 29 LEO satellite‑internet satellites】Beijing time 04:24 on Nov. 9, 2026, China used a Long March‑12 rocket from the Hainan commercial spaceport to place 29 low‑earth‑orbit satellites for a satellite‑internet constellation into their designated orbits; the mission was successful."
-    },
-    {
-      "id": "5201691",
-      "time": "2026-11-09 06:02:57",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【我國成功發射衛星網際網路低軌29組衛星】北京時間2026年11月9日4時24分，我國在海南商業航天發射場使用長征十二號運載火箭，成功將衛星網際網路低軌29組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。（央視新聞）"
     }
   ]
 }
