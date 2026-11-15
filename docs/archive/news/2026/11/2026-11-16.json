@@ -1,7 +1,49 @@
 {
   "date": "2026-11-16",
-  "count": 151,
+  "count": 154,
   "items": [
+    {
+      "id": "5216156",
+      "time": "2026-11-16 06:55:08",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週一重要財經資訊提醒（以下均為北京時間）】\n① 07:50 日本三季度實際GDP季環比初值；\n② 08:01 英國11月Rightmove平均房屋要價指數；\n③ 09:30 國家統計局公佈70個大中城市住宅銷售價格月度報告；\n④ 10:00 中國10月規模以上工業增加值、社會消費品零售總額、1至10月城鎮固定資產投資等月度經濟資料，國新辦就國民經濟執行情況舉行新聞釋出會；\n⑤ 12:00 日本央行審議委員高田創發表講話；\n⑥ 12:30 日本9月工業產出、裝置利用指數；\n⑦ 16:30 歐洲央行副行長武伊契奇為第29屆歐洲金融周致開幕詞；\n⑧ 美股盤前 百度釋出財報；\n⑨ 18:00 歐元區9月工業產出；\n⑩ 21:30 美國11月紐約聯儲製造業指數、加拿大10月CPI；\n⑪ 22:05 FOMC永久票委、紐約聯儲主席威廉姆斯發表講話；\n⑫ 22:15 歐洲央行管委科赫爾、卡茲米爾、奇格曼發表講話。"
+    },
+    {
+      "id": "mkt:01a1e16b-a2b2-7bbc-abe8-d2e38f07291a",
+      "time": "2026-11-16 06:54:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Alibaba",
+        "Tencent",
+        "JD.com",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【This week's events/data: NVIDIA earnings, ANTHROPIC listing; APEC summit and Fed speakers】Top themes: NVIDIA earnings (Tue US close), ANTHROPIC listing (Thu) and the FOMC minutes (Thu) are primary rate/liquidity catalysts; multiple Fed speeches and Eurozone/UK central bankers (LAGARDE, BAILEY) could shift policy pricing; APEC leaders’ meeting in Shenzhen (Nov 18–19) is the key regional political event. Monday: China releases Oct retail sales and industrial output, plus NBS monthly house-price report; NY Fed president Williams speaks. Tuesday: US Oct retail sales, import PPI and industrial production data are headline risk for growth/inflation and markets; UK and Germany ZEW; KEVIN WARSH opens a Fed productivity/employment forum; NVIDIA reports after US close; JD.com, Weibo and Walt Disney report. Wednesday: US housing starts/permits and weekly API/EIA oil stocks will drive energy and rates sentiment; BOE chief BAILEY and ECB chief LAGARDE speak; Tencent reports. Thursday: FOMC minutes released (market-moving for rate path); ANTHROPIC begins trading; US initial jobless claims and Philly Fed manufacturing; SWIFT publishes RMB global payments share for Oct (FX/liquidity relevance); Kuaishou, NetEase, Alibaba, PDD and Futu report; NVIDIA interim CEO holds all-staff meeting. Friday: Japan core CPI, UK GfK confidence, Germany PPI and US Michigan final consumer sentiment; China posts one-year LPR to Nov 20 (policy rate signal); Leapmotor reports. Operational notes: NYMEX Dec WTI rolls on Nov 21 — final pit trade 03:30 and final electronic trade 06:00 (platforms may have earlier expiries); South Korea equity trading hours shortened to 09:00–15:30 on Thu for national exams. Minor data/events omitted."
+    },
+    {
+      "id": "5216147",
+      "time": "2026-11-16 06:52:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普將中期選舉失利與奧巴馬、克林頓和里根作比較】美國總統特朗普在社交媒體上釋出圖表，將共和黨在中期選舉中的失利與巴拉克·奧巴馬、比爾·克林頓和羅納德·里根執政時期的中期選舉失利進行比較，在其任上共和黨在眾議院失去48個席位，在參議院失去8個席位，損失席位最少。"
+    },
     {
       "id": "mkt:01a1e162-396b-7bbc-abe8-cb57349ac5c2",
       "time": "2026-11-16 06:44:33",
