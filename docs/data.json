@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-16 06:22:54",
-  "count": 9864,
+  "updated": "2026-11-16 06:26:38",
+  "count": 9866,
   "items": [
+    {
+      "id": "mkt:01a1e150-aa61-7bbc-abe8-bce8d73ee821",
+      "time": "2026-11-16 06:25:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Musk says Starship 42 in good condition, could fly after weeks of refurbishment】Musk wrote on social media that he inspected Starship’s heat shield earlier on Sunday local time and found the heat shield and engines generally in very good condition. He estimated Starship 42 could be ready to fly again after a few weeks of refurbishment, but said achieving aircraft‑like immediate reuse — i.e., no repairs beyond planned maintenance — would require many small fixes."
+    },
+    {
+      "id": "5216071",
+      "time": "2026-11-16 06:22:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國目前在中央司令部轄區內有3個航母打擊群。"
+    },
     {
       "id": "5216069",
       "time": "2026-11-16 06:22:08",
@@ -101,6 +117,15 @@
         "S&P500"
       ],
       "text": "【CME FedWatch: 95% chance of 25bp Fed hike in December】CME FedWatch shows a 95% probability the Federal Reserve will raise rates by 25bp in December and a 5% probability of a 50bp move. By January, probabilities are 25.2% for cumulative 25bp, 71.1% for cumulative 50bp and 3.7% for cumulative 75bp."
+    },
+    {
+      "id": "5215967",
+      "time": "2026-11-16 06:00:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據CME“美聯儲觀察”：美聯儲12月加息25個基點的機率為95%。"
     },
     {
       "id": "5215934",
@@ -89874,14 +89899,6 @@
         "國際"
       ],
       "text": "【魯比奧：伊朗方面的要求不可接受】美國國務卿魯比奧表示，伊朗提出的各項要求不僅無法接受，部分訴求更是離譜荒唐。他稱，目前與伊朗的談判進展有限。他表示，特朗普總統“始終傾向以外交方式解決這一問題以及所有爭端，但遺憾的是，有時外交途徑行不通。”他同時說，如果存在外交解決的可能性，美國會予以嘗試。"
-    },
-    {
-      "id": "mkt:01a1bd44-ccd5-7ee0-aac7-9d657655446d",
-      "time": "2026-11-09 06:26:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said election outcomes can trend one way and then reverse years later."
     }
   ]
 }
