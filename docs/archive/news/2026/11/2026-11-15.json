@@ -1,7 +1,19 @@
 {
   "date": "2026-11-15",
-  "count": 478,
+  "count": 479,
   "items": [
+    {
+      "id": "mkt:01a1dec5-f7fe-7bbc-abe5-854bc01c9df8",
+      "time": "2026-11-15 18:34:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Southern Yemeni forces withdraw near Bab al-Mandeb, may cede control to Houthi forces】Southern Armed Forces, aligned with the Saudi-backed internationally recognized Yemeni government, said they have redeployed troops from Zubab airport and areas around the Bab al-Mandeb in western Taiz province. The withdrawal may leave Iran-backed Houthi forces controlling terrain overlooking the Bab al-Mandeb, increasing their leverage over the strategic international shipping chokepoint. Southern forces said the redeployment is intended to strengthen defenses around Aden and neighbouring provinces. Separately, Iran continues to disrupt maritime traffic via the Strait of Hormuz."
+    },
     {
       "id": "5215668",
       "time": "2026-11-15 18:17:01",

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-15 18:31:27",
+  "updated": "2026-11-15 18:35:33",
   "count": 9881,
   "items": [
+    {
+      "id": "mkt:01a1dec5-f7fe-7bbc-abe5-854bc01c9df8",
+      "time": "2026-11-15 18:34:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Southern Yemeni forces withdraw near Bab al-Mandeb, may cede control to Houthi forces】Southern Armed Forces, aligned with the Saudi-backed internationally recognized Yemeni government, said they have redeployed troops from Zubab airport and areas around the Bab al-Mandeb in western Taiz province. The withdrawal may leave Iran-backed Houthi forces controlling terrain overlooking the Bab al-Mandeb, increasing their leverage over the strategic international shipping chokepoint. Southern forces said the redeployment is intended to strengthen defenses around Aden and neighbouring provinces. Separately, Iran continues to disrupt maritime traffic via the Strait of Hormuz."
+    },
     {
       "id": "5215668",
       "time": "2026-11-15 18:17:01",
@@ -89925,14 +89937,6 @@
         "焦點"
       ],
       "text": "【第三艘油輪在霍爾木茲海峽發生爆炸】伊斯蘭革命衛隊海軍公共關係部門通報：自今日凌晨至今，第三艘違規油輪在霍爾木茲海峽的非授權航道上發生爆炸並引發嚴重火災，產生的濃煙已籠罩霍爾木茲海峽上空。由於這些油輪關閉了自身的導航和識別系統， 加之美軍的“惡意行為”，目前該遊輪正持續燃燒。"
-    },
-    {
-      "id": "5201411",
-      "time": "2026-11-08 18:34:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：為悼念波蘭事件遇難者及英勇的第一響應人員，歐盟降半旗致哀。"
     }
   ]
 }
