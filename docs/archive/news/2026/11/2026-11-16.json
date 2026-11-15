@@ -1,7 +1,27 @@
 {
   "date": "2026-11-16",
-  "count": 139,
+  "count": 141,
   "items": [
+    {
+      "id": "5216069",
+      "time": "2026-11-16 06:22:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達風波衝擊全球算力格局 基金研判AI投資新變數】從一封道歉信到官宣辭任，短短數日，英偉達創始人黃仁勳的個人風波已經演變為一場席捲全球AI產業鏈的巨震。多家基金及相關機構認為，此次風波衝擊的並非全球AI產業的長期需求，而是英偉達作為全球AI晶片龍頭的確定性溢價。隨著全球算力競爭格局加速重塑，產業鏈有望從“一枝獨秀”走向“百花齊放”，國產算力也有望迎來重估契機。（證券時報）"
+    },
+    {
+      "id": "mkt:01a1e14c-0c9c-7bbc-abe8-b1d2a46ed28b",
+      "time": "2026-11-16 06:20:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Axios reported a U.S. official said the U.S. Navy carrier Roosevelt arrived in CENTCOM's area early Sunday. The U.S. military now has three carrier strike groups operating in the CENTCOM region."
+    },
     {
       "id": "5216037",
       "time": "2026-11-16 06:14:36",

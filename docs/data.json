@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-16 06:19:10",
-  "count": 9865,
+  "updated": "2026-11-16 06:22:54",
+  "count": 9864,
   "items": [
+    {
+      "id": "5216069",
+      "time": "2026-11-16 06:22:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達風波衝擊全球算力格局 基金研判AI投資新變數】從一封道歉信到官宣辭任，短短數日，英偉達創始人黃仁勳的個人風波已經演變為一場席捲全球AI產業鏈的巨震。多家基金及相關機構認為，此次風波衝擊的並非全球AI產業的長期需求，而是英偉達作為全球AI晶片龍頭的確定性溢價。隨著全球算力競爭格局加速重塑，產業鏈有望從“一枝獨秀”走向“百花齊放”，國產算力也有望迎來重估契機。（證券時報）"
+    },
+    {
+      "id": "mkt:01a1e14c-0c9c-7bbc-abe8-b1d2a46ed28b",
+      "time": "2026-11-16 06:20:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Axios reported a U.S. official said the U.S. Navy carrier Roosevelt arrived in CENTCOM's area early Sunday. The U.S. military now has three carrier strike groups operating in the CENTCOM region."
+    },
     {
       "id": "5216037",
       "time": "2026-11-16 06:14:36",
@@ -89862,30 +89882,6 @@
         "MKT News"
       ],
       "text": "U.S. Secretary of State Rubio said election outcomes can trend one way and then reverse years later."
-    },
-    {
-      "id": "5201702",
-      "time": "2026-11-09 06:21:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧談伊朗：我們有權自衛。"
-    },
-    {
-      "id": "mkt:01a1bd3f-e44d-7ee0-aac7-922cc782272c",
-      "time": "2026-11-09 06:20:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said he believes President Trump has done what previous presidents did not; sometimes the right action is unpopular, but it remains the right choice."
-    },
-    {
-      "id": "5201701",
-      "time": "2026-11-09 06:20:24",
-      "tags": [
-        "資料"
-      ],
-      "text": "【年內新備案私募基金數量已超去年全年】增量資金入市步伐可從私募發行情況一窺端倪。私募排排網最新資料顯示，截至10月底，今年以來新備案私募證券投資基金數量已經超過去年全年，同比增長超過20%。分策略來看，股票策略備受資金青睞，年內新備案私募產品數量佔比高達66%。與此同時，據統計，截至11月8日，今年以來私募合計自購金額超過25億元。在部分業內人士看來，經過前期調整，A股中長期配置價值進一步凸顯。（上證報）"
     }
   ]
 }
