@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-15 11:27:20",
+  "updated": "2026-11-15 11:31:04",
   "count": 9931,
   "items": [
+    {
+      "id": "mkt:01a1dd40-d751-7bbc-abe4-624b362e61ac",
+      "time": "2026-11-15 11:29:36",
+      "tags": [
+        "MKT News",
+        "LUV.O",
+        "Impact bearish"
+      ],
+      "text": "Dallas Love Field airport in Texas has suspended arrivals and departures after a possible bomb threat; local, state and federal law enforcement are responding. Inbound flights have been diverted to other Dallas-area airports."
+    },
+    {
+      "id": "mkt:01a1dd40-b751-7bbc-abe4-5f46a0ca68cf",
+      "time": "2026-11-15 11:29:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【IEA's Birol says China’s clean-energy buildout supports global energy transition】IEA Executive Director Fatih Birol said at COP31 that balancing energy security with the green transition is a shared challenge. He said China’s clean-energy deployment and green-industrial advantages will help other countries accelerate low-carbon transitions. Birol added that rising geopolitical tensions are speeding global energy transitions, driven by climate goals as well as energy-security and economic-development concerns."
+    },
     {
       "id": "5215432",
       "time": "2026-11-15 11:21:23",
@@ -90344,22 +90366,6 @@
         "其他"
       ],
       "text": "【史文斌任福建省委委員、常委和省紀委書記】日前，中共中央批准：史文斌同志任福建省委委員、常委和省紀委書記。（新福建）"
-    },
-    {
-      "id": "5201233",
-      "time": "2026-11-08 11:30:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【拓斯達：在人形機器人領域達成多項合作】記者在拓斯達(300607)全球開放日活動上獲悉，拓斯達在人形機器人領域達成多項合作。公司與凱航科技簽署人形機器人採購協議，拓斯達人形機器人將助力凱航科技強化產線品質管控、打通資料鏈路。拓斯達旗下埃弗米與雷旺科技簽署五軸聯動數控機床採購協議，雙方將聚焦人形機器人零部件精密加工，助力人形機器人量產交付。"
-    },
-    {
-      "id": "5201232",
-      "time": "2026-11-08 11:28:59",
-      "tags": [
-        "行業"
-      ],
-      "text": "【崔東樹：今年1-10月的新品共129款，其中增程車型42款，較去年同期多26款】乘聯分會會長崔東樹發表乘用車新車的分級測算探討，其中提到，今年1-10月的新品共129款，其中增程車型42款，較去年同期多26款；混合動力車型10款，較同期多10款；狹義插混車型31款，較同期少6款；純電動車型68款，較同期多11款；常規燃油車9款，較同期少4款。這些新車有些是新車型，有些是改款改名字的新車型，更多的是新能源車型。近兩年的汽油車的數量較前期明顯減少，但今年很多混合動力新車推出，體現混合動力替代燃油車實現出口突破的新思路。"
     }
   ]
 }

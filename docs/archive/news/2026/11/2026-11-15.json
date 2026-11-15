@@ -1,7 +1,29 @@
 {
   "date": "2026-11-15",
-  "count": 312,
+  "count": 314,
   "items": [
+    {
+      "id": "mkt:01a1dd40-d751-7bbc-abe4-624b362e61ac",
+      "time": "2026-11-15 11:29:36",
+      "tags": [
+        "MKT News",
+        "LUV.O",
+        "Impact bearish"
+      ],
+      "text": "Dallas Love Field airport in Texas has suspended arrivals and departures after a possible bomb threat; local, state and federal law enforcement are responding. Inbound flights have been diverted to other Dallas-area airports."
+    },
+    {
+      "id": "mkt:01a1dd40-b751-7bbc-abe4-5f46a0ca68cf",
+      "time": "2026-11-15 11:29:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【IEA's Birol says China’s clean-energy buildout supports global energy transition】IEA Executive Director Fatih Birol said at COP31 that balancing energy security with the green transition is a shared challenge. He said China’s clean-energy deployment and green-industrial advantages will help other countries accelerate low-carbon transitions. Birol added that rising geopolitical tensions are speeding global energy transitions, driven by climate goals as well as energy-security and economic-development concerns."
+    },
     {
       "id": "5215432",
       "time": "2026-11-15 11:21:23",
