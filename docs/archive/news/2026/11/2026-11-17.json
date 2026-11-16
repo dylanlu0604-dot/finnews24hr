@@ -1,7 +1,42 @@
 {
   "date": "2026-11-17",
-  "count": 265,
+  "count": 269,
   "items": [
+    {
+      "id": "5218546",
+      "time": "2026-11-17 04:02:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行金融穩定報告：政府債券收益率上升以及估值仍然偏高，尤其是人工智慧相關企業，使市場容易受到回撥衝擊。"
+    },
+    {
+      "id": "mkt:01a1e5f3-9bd3-7bbc-ac05-45842848de31",
+      "time": "2026-11-17 04:01:49",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of New Zealand Financial Stability Report: Global risks have risen, but the financial system remains resilient."
+    },
+    {
+      "id": "5218545",
+      "time": "2026-11-17 04:01:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行金融穩定報告：儘管全球風險加劇，金融體系仍保持韌性。"
+    },
+    {
+      "id": "5218544",
+      "time": "2026-11-17 04:00:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亨廷頓·英格爾斯工業公司獲得為美國海軍增產“獅子魚”無人潛航器的合同。"
+    },
     {
       "id": "5218543",
       "time": "2026-11-17 03:51:11",
