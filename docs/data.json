@@ -1,7 +1,48 @@
 {
-  "updated": "2026-11-16 10:34:16",
-  "count": 9933,
+  "updated": "2026-11-16 10:38:07",
+  "count": 9929,
   "items": [
+    {
+      "id": "5216722",
+      "time": "2026-11-16 10:36:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌1%，現報3188.00元。"
+    },
+    {
+      "id": "5216721",
+      "time": "2026-11-16 10:35:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼要求礦業許可收益大部分歸國家 進一步收緊自然資源管控】印尼總統普拉博沃·蘇比安託表示，採礦許可產生的大部分收益應當歸國家所有，這是該國強化政府對自然資源管控的最新舉措。他週六在蘇拉威西省帕盧市的講話中稱：“即日起，所有采礦許可與證照帶來的收益，至少70%必須歸屬國家。必要時，國家可以接管相關股權。”普拉博沃並未說明該政策是否同時適用於新發放和已有的採礦許可。印尼政府通訊局暫未回應置評請求。總統此番表態，是其持續整合龐大大宗商品行業的最新動作。大宗商品出口是雅加達重要的外匯收入來源。印尼是全球最大的動力煤、鎳和棕櫚油出口國，同時也是銅、錫的主要生產國。"
+    },
+    {
+      "id": "mkt:01a1e235-33f9-7bbc-abed-c4c86f8295f8",
+      "time": "2026-11-16 10:34:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's planning agency expects exports to rise 20.4% in 2026."
+    },
+    {
+      "id": "5216720",
+      "time": "2026-11-16 10:34:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【方正證券：世界模型持續迭代 AI重塑遊戲製作與互動】方正證券釋出研報稱，從真人短劇到AI漫劇、AI真人短劇，再到AI互動影遊，每一輪內容形態創新的背後都是模型能力的躍遷;技術仍在快速演進，未來還將出現更多前所未見的娛樂體驗方式。該行建議沿模型/平臺、內容製作發行、IP內容儲備、遊戲公司四條主線佈局。"
+    },
+    {
+      "id": "mkt:01a1e234-278b-7bbc-abed-ba0eeab2be21",
+      "time": "2026-11-16 10:33:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's planning agency forecasts exports to rise 8.6% in 2027 and GDP growth of 2.5% in 2026."
+    },
     {
       "id": "mkt:01a1e233-c6df-7bbc-abed-b14181341793",
       "time": "2026-11-16 10:33:26",
@@ -90505,84 +90546,6 @@
         "國際"
       ],
       "text": "【印度面向消費者的企業選擇內部消化成本，以避免產品漲價】面對飆升的通脹，印度的消費巨頭們正越來越多地選擇內部消化高昂的成本，而不是將其轉嫁給財務吃緊的消費者。這表明，家庭購買力的下降已經開始擠壓企業的利潤空間。Westlife Foodworld Ltd. 是麥當勞在印度西部和南部快餐連鎖店的運營商。該公司執行長 Akshay Jatia 在接受採訪時表示，為了維持門店客流量，他們對超出常規年度漲幅的漲價“相當保守”。他說：“我們需要確保不會在那邊搬起石頭砸自己的腳。”Westlife 是至少 15 家對漲價持謹慎態度或維持原價的消費類企業之一。包括肯德基和必勝客運營商 Devyani International Ltd. 和 Sapphire Foods India Ltd.、領先的塗料製造商 Asian Paints Ltd. 以及零售商 V-Mart Retail Ltd. 在內的公司，均將需求前景的不均衡作為表達擔憂的原因。"
-    },
-    {
-      "id": "mkt:01a1be2a-60a1-7ee0-aacc-cff3a7462a02",
-      "time": "2026-11-09 10:36:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share military and defense electronics sector rallied; Chengchang Technology hit the daily price limit, while Aerospace Development, Huali Chuangtong, Shaanxi Huada, Leike Defense and Mengsheng Electronics also rose."
-    },
-    {
-      "id": "5202184",
-      "time": "2026-11-09 10:36:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銀河證券：彈性板塊貢獻收入增量 傳媒利潤端業績分化】中國銀河證券釋出研報稱，2025年以來，受到AI相關催化以及部分行業業績端的修復，行業年內漲幅明顯，但這一漲幅在2026年內已基本抹平。展望未來，傳媒行業的核心仍然是優質內容的生產創作，其處於傳媒產業鏈和價值鏈的中上游位置，始終是行業的稀缺資源。因此優質的內容製作公司的長期價值不改。該行認為，儘管前期市場風格更偏好硬體側AI基建，但隨著硬體側AI基建的不斷發展，最終將傳導至產業鏈下游板塊，業績驅動+AI賦能仍是傳媒網際網路行業增長的核心驅動力。"
-    },
-    {
-      "id": "5202182",
-      "time": "2026-11-09 10:36:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國3年期公司債收益率上升3個基點至4.34%。"
-    },
-    {
-      "id": "5202180",
-      "time": "2026-11-09 10:36:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【軍工電子板塊走高，鋮昌科技漲停】軍工電子板塊走高，鋮昌科技漲停，航天發展、華力創通、陝西華達、雷科防務、盟升電子等紛紛走高。相關ETF方面，軍工龍頭ETF富國（512710）漲1.95%，成交額1.6億元，軍工ETF易方達（512560）漲2.48%，成交額2453.93萬元。"
-    },
-    {
-      "id": "mkt:01a1be29-60be-7ee0-aacc-c0a22653449b",
-      "time": "2026-11-09 10:35:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Philippine GDP growth hits weakest since pandemic】Philippine GDP grew 2.1% YoY in Q3, the slowest pace since the COVID pandemic, the statistics office said Monday. The print missed a Wall Street Journal survey median of 2.7% and slowed from 2.3% in Q2. Seasonally adjusted QoQ growth was 0.1% in Q3 versus 0.6% in Q2. Over the past year growth has been muted after an energy shock tied to the US‑Iran war raised inflation, squeezed consumption and weighed on activity. An earlier corruption scandal that damaged public infrastructure also weakened growth. A softer Philippine peso has reduced household purchasing power and lifted import costs."
-    },
-    {
-      "id": "5202179",
-      "time": "2026-11-09 10:35:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外國企業對特定動態隨機存取儲存器(DRAM)裝置、NAND快閃記憶體裝置及其下游產品和元件提起337調查申請】近日，美國Netlist, Inc. of Irvine, California根據《美國1930年關稅法》第337節規定向美國國際貿易委員會提出申請，主張對美出口、在美進口及銷售的特定動態隨機存取儲存器(DRAM)裝置、NAND快閃記憶體裝置及其下游產品和元件（Certain Dynamic Random Access Memory (DRAM) Devices and NAND Flash Memory Devices, Products Containing the Same, And Components Thereof）違反了美國337條款。"
-    },
-    {
-      "id": "5202170",
-      "time": "2026-11-09 10:34:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟部長：將等到年底再考慮滯脹問題。"
-    },
-    {
-      "id": "5202169",
-      "time": "2026-11-09 10:34:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外國企業對特定動態隨機存取儲存器(DRAM)裝置、NAND快閃記憶體裝置及其下游產品和元件提起337調查申請】近日，美國Netlist, Inc. of Irvine, California根據《美國1930年關稅法》第337節規定向美國國際貿易委員會提出申請，主張對美出口、在美進口及銷售的特定動態隨機存取儲存器(DRAM)裝置、NAND快閃記憶體裝置及其下游產品和元件（Certain Dynamic Random Access Memory (DRAM) Devices and NAND Flash Memory Devices, Products Containing the Same, And Components Thereof）違反了美國337條款。"
-    },
-    {
-      "id": "5202167",
-      "time": "2026-11-09 10:34:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "據Mysteel資料顯示，今日MMLC電池級碳酸鋰（早盤）價格較昨日下跌850元/噸，中間價報92950元/噸。"
     }
   ]
 }
