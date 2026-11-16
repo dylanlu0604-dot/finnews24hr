@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-17 03:44:04",
+  "updated": "2026-11-17 03:47:50",
   "count": 10028,
   "items": [
+    {
+      "id": "mkt:01a1e5e6-857e-7bbc-ac05-38ec9817603e",
+      "time": "2026-11-17 03:47:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Microsoft says July bug exhausted server memory in global outage】Microsoft said a software bug that caused last week’s global outage had been present in its data centers since July and was triggered on Nov. 11 by a change to user traffic routing, disrupting Outlook, Teams and Copilot. It took about 15 hours to detect the issue and another 15 hours to investigate and deploy a fix. Teams traffic was routed to server systems shared with Outlook; combined with reduced capacity, the unexpected surge exhausted server memory. Automated traffic balancing then shifted requests to other servers, triggering cascading failures. Rolling back recent updates did not resolve the issue because the bug had been present for months. Microsoft said internal tests failed to reproduce real-world traffic and hardware conditions, and the bug was more disruptive on newer, more powerful hardware. The outage highlighted the risks of relying heavily on a single technology provider."
+    },
     {
       "id": "mkt:01a1e5e2-e503-7bbc-ac05-313148a2c1ae",
       "time": "2026-11-17 03:43:34",
@@ -91013,14 +91021,6 @@
         "市場"
       ],
       "text": "日元兌美元上漲0.5%，至157.68。"
-    },
-    {
-      "id": "5204165",
-      "time": "2026-11-10 03:45:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國最高法院撤銷了一項司法裁定，該裁定此前阻止美國總統特朗普政府在美國得克薩斯州大彎國家公園修建邊境屏障。"
     }
   ]
 }
