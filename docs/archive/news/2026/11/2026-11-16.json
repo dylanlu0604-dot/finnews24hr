@@ -1,7 +1,244 @@
 {
   "date": "2026-11-16",
-  "count": 404,
+  "count": 430,
   "items": [
+    {
+      "id": "mkt:01a1e1ff-c91d-7bbc-abeb-a7ff6b4bbb7a",
+      "time": "2026-11-16 09:36:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CHINA'S SHANGHAI COMPOSITE INDEX extended losses to 1.00%; ChiNext down 2.00%; Shenzhen Composite Index down 1.24%."
+    },
+    {
+      "id": "5216599",
+      "time": "2026-11-16 09:36:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【休閒食品板塊走弱，青島食品跌停】休閒食品板塊走弱，青島食品跌停，煌上煌、金健米業、南僑食品、桂發祥、良品鋪子、黑芝麻等跟跌。"
+    },
+    {
+      "id": "5216598",
+      "time": "2026-11-16 09:36:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊下挫，新華傳媒觸及跌停】 文化傳媒板塊下挫，新華傳媒觸及跌停，風語築、凡拓數創、中國科傳、返利科技跟跌。"
+    },
+    {
+      "id": "mkt:01a1e1ff-31bd-7bbc-abeb-98f6ebc25178",
+      "time": "2026-11-16 09:36:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share retail sector surged; Tianhong Shares hit the daily limit, Guangbai Shares notched a third consecutive limit-up, while Hualian Shares, Hongqi Chain and Liqun Shares climbed."
+    },
+    {
+      "id": "5216597",
+      "time": "2026-11-16 09:35:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【豬肉概念區域性活躍 金新農2連板】豬肉概念區域性活躍，金新農2連板，羅牛山、正邦科技、傲農生物跟漲。"
+    },
+    {
+      "id": "5216596",
+      "time": "2026-11-16 09:35:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售板塊異動拉昇 天虹股份直線漲停】早盤零售板塊異動拉昇，天虹股份直線漲停，此前廣百股份3連板，華聯股份、紅旗連鎖、利群股份等衝高。訊息面上，據報道，從國家發展改革委獲悉，預計到“十五五”末，我國流通業整體規模將持續擴大，社會消費品零售總額達到60萬億元左右。"
+    },
+    {
+      "id": "mkt:01a1e1ff-12d3-7bbc-abeb-947fb4527d44",
+      "time": "2026-11-16 09:35:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver futures 2702 weakened sharply, down 5.44% intraday to CNY11,404/kg, with trading value exceeding CNY136 billion; open interest rose by 27,100 contracts. SHFE platinum futures 2702 slipped 3.80% to CNY358.6/g, turnover about CNY1.20 billion; open interest increased by nearly 300 contracts."
+    },
+    {
+      "id": "5216595",
+      "time": "2026-11-16 09:35:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克：星艦V4長度將約為70米，增幅約40%】馬斯克：星艦V4長度將約為70米，增幅約40%，推進劑裝載量可提升逾60%。發動機數量將增至9臺，新增3臺猛禽真空發動機，且均為推力更高的V4版本發動機。"
+    },
+    {
+      "id": "mkt:01a1e1fe-9e26-7bbc-abeb-8c170193827e",
+      "time": "2026-11-16 09:35:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Retail cash fund yield snapshot — Tencent, WeChat, Alipay】Tencent Licaitong current + 7-day annualized yield ranged 0.6820%–1.4110%. WeChat Lingqiantong 7-day annualized yield ranged 0.8540%–1.0150%. Alipay Yu’e Bao 7-day annualized yield ranged 0.9010%–1.0170%."
+    },
+    {
+      "id": "mkt:01a1e1fe-2cb5-7bbc-abeb-8406c7a5d60f",
+      "time": "2026-11-16 09:34:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures fell as much as 3.0% intraday, trading at $47.65/oz."
+    },
+    {
+      "id": "mkt:01a1e1fe-1239-7bbc-abeb-7f0f7b0d9a2f",
+      "time": "2026-11-16 09:34:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 2.00% intraday to $47.70/oz."
+    },
+    {
+      "id": "mkt:01a1e1fe-0488-7bbc-abeb-706b143d72a3",
+      "time": "2026-11-16 09:34:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's National Bureau of Statistics said Beijing new home prices in October fell 0.1% MoM (prior -0.2%) and 2.6% YoY (prior -2.7%)."
+    },
+    {
+      "id": "5216594",
+      "time": "2026-11-16 09:34:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "光伏板塊集體調整，永臻股份、金辰股份跌停，亞瑪頓、晶盛機電、鈞達股份、協鑫整合跌幅居前。"
+    },
+    {
+      "id": "mkt:01a1e1fd-eb77-7bbc-abeb-6f905bfce814",
+      "time": "2026-11-16 09:34:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "China's Shanghai Composite Index fell below 3,600, down 0.95% intraday."
+    },
+    {
+      "id": "mkt:01a1e1fd-df0a-7bbc-abeb-670d79b2590b",
+      "time": "2026-11-16 09:34:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "National Bureau of Statistics: Guangzhou new-home prices in October were flat MoM (0.0%, prior +0.2%) and down 0.4% YoY (prior -1.1%)."
+    },
+    {
+      "id": "5216593",
+      "time": "2026-11-16 09:34:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報47.69美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1e1fd-d1cf-7bbc-abeb-5c4bdbebaa61",
+      "time": "2026-11-16 09:34:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share semiconductor sector slid; Liyang Chip tumbled more than 10%, with Suiyuan Technology, Helin Weina, Jiehuate, Puran and Muxi also declining."
+    },
+    {
+      "id": "5216592",
+      "time": "2026-11-16 09:34:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【滬指跌破3600點，現跌0.96%】 滬指跌破3600點，現跌0.96%，深證成指跌1.32%，創業板指跌1.88%。"
+    },
+    {
+      "id": "mkt:01a1e1fd-b27d-7bbc-abeb-501e85c6dcc2",
+      "time": "2026-11-16 09:34:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's National Bureau of Statistics: Shanghai new-build residential prices +0.2% MoM in Oct (Sep +0.2%), +2.7% YoY in Oct (Sep +2.8%)."
+    },
+    {
+      "id": "5216591",
+      "time": "2026-11-16 09:34:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【腦虎科技披露腦機介面連續生活任務驗證進展，全流程成功率達84%】 11月16日，腦虎科技披露，基於全植入、全無線腦機介面及AI系統，一名高位截癱臨床參與者在“模擬人生”試驗場開展出行、居家、社交及工作任務驗證。據公司披露，系統核心解碼時延低於50毫秒，出門、避障、前行等連續任務一次性完成率達84%，購物等新任務平均訓練時間由10.5小時縮短至2小時。"
+    },
+    {
+      "id": "mkt:01a1e1fd-71fa-7bbc-abeb-4f86eea68a7d",
+      "time": "2026-11-16 09:34:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's National Bureau of Statistics: Shenzhen new home prices in October +0.1% MoM (prev +0.3%), -0.2% YoY (prev -1.0%)."
+    },
+    {
+      "id": "5216590",
+      "time": "2026-11-16 09:33:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報47.65美元/盎司。"
+    },
+    {
+      "id": "5216589",
+      "time": "2026-11-16 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股汽車板塊短線走低】日盈電子跌9.01%，隆鑫通用、雙英集團、豪能股份、華域汽車、寧波高發、興瑞科技跟跌。"
+    },
+    {
+      "id": "5216588",
+      "time": "2026-11-16 09:32:52",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【半導體板塊走低，利揚晶片跌超10%】半導體板塊走低，利揚晶片跌超10%，燧原科技、和林微納、傑華特、普冉股份、沐曦股份跟跌。"
+    },
+    {
+      "id": "5216587",
+      "time": "2026-11-16 09:32:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧士康在江蘇成立電路科技子公司】企查查APP顯示，近日，江蘇喜珍電路科技有限公司成立，經營範圍包含電子元器件製造；電子元器件批發；電子專用材料研發；電子專用材料銷售等。企查查股權穿透顯示，該公司由奧士康全資持股。"
+    },
     {
       "id": "5216586",
       "time": "2026-11-16 09:32:24",
@@ -94,6 +331,15 @@
         "Hang Seng Index"
       ],
       "text": "FTSE China A50 index futures extend losses to 1%."
+    },
+    {
+      "id": "em:jjsj_zgsj:202611163931588690",
+      "time": "2026-11-16 09:31:10",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：10月一線城市商品住宅銷售價格環比總體上漲 二三線城市環比下降】國家統計局資料顯示，10月份，一線城市新建商品住宅銷售價格環比由上月上漲0.1%轉為持平。其中，上海和深圳分別上漲0.2%和0.1%，廣州持平，北京下降0.1%。二線城市新建商品住宅銷售價格環比由上月持平轉為下降0.1%。"
     },
     {
       "id": "5216582",
