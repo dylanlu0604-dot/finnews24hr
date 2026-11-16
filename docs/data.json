@@ -1,7 +1,91 @@
 {
-  "updated": "2026-11-16 10:07:22",
-  "count": 9939,
+  "updated": "2026-11-16 10:11:14",
+  "count": 9942,
   "items": [
+    {
+      "id": "5216684",
+      "time": "2026-11-16 10:10:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【中際旭創盤中創年內新低，現跌超8%】中際旭創盤中創年內新低，現跌超8%。"
+    },
+    {
+      "id": "mkt:01a1e21e-03c7-7bbc-abed-55ba21628608",
+      "time": "2026-11-16 10:09:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China's three major A‑share indexes marginally rebounded; the Shanghai Composite's loss narrowed to 0.6%, the Shenzhen Composite fell 1.62%, and the ChiNext Index fell 2.56%."
+    },
+    {
+      "id": "5216683",
+      "time": "2026-11-16 10:09:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股三大股指小幅反彈拉昇，上證綜指跌幅縮窄至0.6%，深證成指現跌1.62%，創業板指數跌2.56%。"
+    },
+    {
+      "id": "mkt:01a1e21d-ef96-7bbc-abed-4d38f6a4338e",
+      "time": "2026-11-16 10:09:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "【China NBS: Goods trade rises rapidly; trade structure continues to improve】China's National Bureau of Statistics reported October goods trade at RMB 4.87 tln, up 31.2% YoY; exports RMB 2.79 tln, +28.7%; imports RMB 2.08 tln, +34.7%. Jan–Oct goods trade totaled RMB 44.81 tln, +20.0% YoY; exports RMB 25.99 tln, +17.6%; imports RMB 18.82 tln, +23.6%. Jan–Oct general trade rose 13.2% YoY. Trade with Belt and Road countries grew 18.5%. Private-sector import‑export rose 20.1%. Mechanical and electrical product exports increased 25.2%."
+    },
+    {
+      "id": "mkt:01a1e21d-6d34-7bbc-abed-41987e22e081",
+      "time": "2026-11-16 10:09:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【National Bureau of Statistics: Services steady; modern services expand strongly】China's National Bureau of Statistics said the services production index rose 4.6% YoY in October and 4.7% YoY in Jan–Oct. By industry, leasing and business services increased 9.3% YoY, information transmission/software and IT services rose 9.2% YoY, and transport/warehousing/postal services gained 5.1% YoY. The October service business activity index was 50.0 and the business activity expectation index 55.2; railway transport, water transport, postal and internet software/IT services posted business activity indices above 55.0. Revenue at above-scale service enterprises rose 5.4% YoY in Jan–Sep."
+    },
+    {
+      "id": "5216682",
+      "time": "2026-11-16 10:07:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐亞經濟聯盟釋出對泰國和越南新充氣橡膠輪胎反傾銷終裁披露】2026年9月23日，歐亞經濟委員會內部市場保護司釋出對泰國和越南新充氣橡膠輪胎反傾銷終裁披露（參見第2026/514/AD44號公告），建議對涉案產品徵收為期五年的反傾銷稅，具體如下：泰國生產商Prinx Chengshan Tire (Thailand) Co., Ltd.、MAXXIS INTERNATIONAL (THAILAND) CO., LTD.、General Rubber (Thailand) Co., Ltd.、LLIT (Thailand) Co., Ltd.均為17.05%、泰國其他生產商/出口商為22.37%；越南生產商Jinyu (Vietnam) Tire Co., Ltd.為11.31%，Sailun (Vietnam) Co., Ltd.、ACTR Company Limited均為16.48%，Advance Tyre (Vietnam) Co., Ltd.為17.25%，Vietnam COFO Tires Company Limited、Danang Rubber Joint Stock Company、Haohua (Vietnam) Co., Ltd.均為14.99%，其他越南生產商/出口商為17.25%。涉案產品為輪輞直徑介於17.5英寸（含）～24.5英寸（含）的新充氣橡膠輪胎，用於卡車、公共汽車、無軌電車、翻斗車、拖車和半掛車。涉案產品的歐亞經濟聯盟稅號為4011201000和4011209000。2025年11月11日，歐亞經濟聯盟對原產於泰國和越南的新充氣橡膠輪胎啟動反傾銷調查。"
+    },
+    {
+      "id": "5216681",
+      "time": "2026-11-16 10:07:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【NTT Docomo稱日本行動通訊服務出現故障】NTT Docomo表示，其行動通訊服務週一在日本全國範圍出現故障，包括語音通話、資料通訊和簡訊服務。故障自當地時間上午10:02起持續；受影響的是5G獨立網路服務；公司目前正在調查故障原因。"
+    },
+    {
+      "id": "5216680",
+      "time": "2026-11-16 10:07:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：10月份，規上工業發電量7940億千瓦時，同比下降2.1%】國家統計局：規上工業電力生產有所下降。10月份，規上工業發電量7940億千瓦時，同比下降2.1%；日均發電256.1億千瓦時。1—10月份，規上工業發電量82904億千瓦時，同比增長1.8%。 分品種看，10月份，規上工業火電、水電降幅擴大，核電增速放緩，風電、太陽能發電增速加快。其中，規上工業火電同比下降7.3%，降幅比9月份擴大5.9個百分點；規上工業水電下降18.9%，降幅擴大0.8個百分點；規上工業核電增長17.5%，增速放緩4.0個百分點；規上工業風電增長33.7%，增速加快23.1個百分點；規上工業太陽能發電增長31.0%，增速加快11.5個百分點。"
+    },
     {
       "id": "mkt:01a1e21b-6668-7bbc-abed-3b5620d1218f",
       "time": "2026-11-16 10:06:48",
@@ -40,6 +124,14 @@
       "text": "東京制鋼12月H型鋼價格維持119000日元/噸不變。"
     },
     {
+      "id": "5216676",
+      "time": "2026-11-16 10:06:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中消協：網購服裝問題多 平臺擔責要切實】近年來，網購服裝已成為大眾重要的消費方式。但與此同時，虛假宣傳、質量不達標、退換貨困難、閉店失聯等消費糾紛持續高發，嚴重侵害消費者合法權益，破壞網購服裝市場健康的消費環境。據統計，全國消協智慧315平臺今年前三季度受理的網路服裝類投訴達26338件。中消協表示，電商平臺經營者作為連線供需的樞紐，絕不能僅僅做流量的“收割機”，更應成為規則的“守門人”。"
+    },
+    {
       "id": "em:jjsj_zgsj:202611163931608396",
       "time": "2026-11-16 10:05:42",
       "tags": [
@@ -74,12 +166,48 @@
       "text": "恒生指數漲超1%，現報23883.631點；恒生科技指數現漲1.001%。"
     },
     {
+      "id": "em:jjsj_zgsj:202611163931609527",
+      "time": "2026-11-16 10:05:05",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：10月規上工業原油加工量5830萬噸 同比下降8.1%】國家統計局資料顯示，10月份，規上工業原油加工量5830萬噸，同比下降8.1%，降幅比9月份收窄0.3個百分點；日均加工量188.1萬噸。1—10月份，規上工業原油加工量57190萬噸，同比下降6.9%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202611163931609380",
+      "time": "2026-11-16 10:04:25",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：10月規上工業天然氣產量222億立方米 同比增長0.8%】國家統計局資料顯示，10月份，規上工業天然氣產量222億立方米，同比增長0.8%，9月份為下降1.0%；日均產量7.2億立方米。1—10月份，規上工業天然氣產量2181億立方米，同比增長0.9%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202611163931609291",
+      "time": "2026-11-16 10:04:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：10月份規上工業發電量7940億千瓦時 同比下降2.1%】國家統計局資料顯示，規上工業電力生產有所下降。10月份，規上工業發電量7940億千瓦時，同比下降2.1%；日均發電256.1億千瓦時。1—10月份，規上工業發電量82904億千瓦時，同比增長1.8%。分品種看，10月份，規上工業火電、水電降幅擴大，核電增速放緩，風電、太陽能發電增速加快。"
+    },
+    {
       "id": "5216672",
       "time": "2026-11-16 10:03:50",
       "tags": [
         "市場"
       ],
       "text": "香港恒生指數上漲1%至23,877.84點。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202611163931609435",
+      "time": "2026-11-16 10:03:45",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：10月規上工業原油產量1845萬噸 同比增長2.3%】國家統計局資料顯示，10月份，規上工業原油產量1845萬噸，同比增長2.3%，增速比9月份加快0.1個百分點；日均產量59.5萬噸。1—10月份，規上工業原油產量18304萬噸，同比增長1.1%。"
     },
     {
       "id": "5216671",
@@ -90539,97 +90667,6 @@
         "國際"
       ],
       "text": "菲律賓經濟規劃負責人：向2027年目標邁進的復甦仍有可能實現。"
-    },
-    {
-      "id": "te:markets:599334",
-      "time": "2026-11-09 10:11:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Trades Near Multi-Month Low — The Australian dollar traded around $0.68 after tumbling 2.5% last week to a seven-month low, as a sharp selloff in global equities and rising bets of an imminent US rate hike boosted the greenback. Stronger-than-expected US jobs data and hawkish remarks from Federal Reserve officials lifted expectations of a December rate hike, boosting the greenback to its strongest level in nearly five months. Meanwhile, RBA Assistant Governor Sarah Hunter said there was limited evidence that AI had meaningfully lifted productivity or caused widespread job losses, though it could pose risks to financial stability. Last week, the Reserve Bank of Australia raised interest rates for a fifth time this year in a split 6–3 decision, but dropped its tightening bias. Swaps now imply an 80% probability that Australian rates have peaked, with 30 basis points of easing expected by the end of next year. Traders also await RBA board member Marnie Baker’s speech on Thursday for clues on the policy outlook."
-    },
-    {
-      "id": "5202034",
-      "time": "2026-11-09 10:10:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB概念震盪走強 超聲電子漲停】PCB概念震盪走強，超聲電子漲停，澳弘電子、廣合科技、南亞新材、金安國紀跟漲。訊息面上，Wind資料統計顯示，40家PCB及相關材料、裝置上市公司2026年前三季度合計實現營業收入2380.06億元，同比增長46.78%；歸母淨利潤353.29億元，同比增長102.03%。其中，38家營收增長，32家歸母淨利潤增速高於營收增速。"
-    },
-    {
-      "id": "5202033",
-      "time": "2026-11-09 10:10:06",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：印度未來數月或進一步加息，短債料將再落後長債】隨著流動性和貨幣環境趨緊，抑制了市場對利率敏感型債券的需求，印度短期債券的表現很可能將再次落後於長期債券。據IDFC First Bank和德意志銀行預測，印度央行在未來幾個月內可能進一步加息，幅度最高可達75個基點；此前，該行已於10月7日加息25個基點。與此同時，印度央行正在從銀行體系回籠流動性，過剩資金已較9月初的歷史高點有所減少。這種影響在債券市場已有所體現：本月初，長短債之間的收益率差曾一度收窄至5月以來的最低水平，隨後隨著原油價格下跌，該利差又再次擴大。Karur Vysya Bank財資主管VRC Reddy表示：“短債對即時的利率預期和流動性狀況更為敏感。鑑於當前的通脹走勢，未來仍有可能進一步加息，預計這類債券的表現將持續落後。”"
-    },
-    {
-      "id": "5202032",
-      "time": "2026-11-09 10:09:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟規劃負責人：投資表現依然疲軟。"
-    },
-    {
-      "id": "te:markets:599333",
-      "time": "2026-11-09 10:09:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Rebound at Start of New Week — The Hang Seng Index rose 0.6%, or 131 points, to around 24,612 on Monday, recovering part of Friday’s sharp decline as investor sentiment improved, with technology and AI-related stocks leading the gains. Regional sentiment strengthened following Friday’s rebound in US equities, while optimism surrounding China’s AI industry received a boost from DeepSeek, whose open-source AI agent application, DeepSeek Harness, reached 1.54 million daily active users by November 4. Meanwhile, China’s October inflation data showed producer-price growth accelerating, pointing to improving industrial price conditions, although consumer inflation eased. Investor appetite for Hong Kong listings was further highlighted by the strong debut of Chinese energy storage firm RelyEZ Energy Storage Technology, whose shares surged as much as 127% above their IPO price after raising HK$562.7 million. Notable movers included Tencent (0.9%), Xiaomi (0.7%), Z.AI Co. (1.1%), MiniMax (2.3%), and SMIC (1.5%)."
-    },
-    {
-      "id": "5202031",
-      "time": "2026-11-09 10:09:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣加權指數有望創下三個多月來最大單日漲幅。"
-    },
-    {
-      "id": "5202030",
-      "time": "2026-11-09 10:08:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟規劃負責人：融資條件收緊對投資構成了壓制。"
-    },
-    {
-      "id": "5202029",
-      "time": "2026-11-09 10:08:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟規劃負責人：，物價高企抑制了消費支出。"
-    },
-    {
-      "id": "5202028",
-      "time": "2026-11-09 10:07:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀 <XAG=> 上漲近 3%，至每盎司 53.41 美元。"
-    },
-    {
-      "id": "5202027",
-      "time": "2026-11-09 10:07:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【一汽大眾取消兩年“年終獎” 這項收入佔部分員工年薪近半】媒體從多位一汽大眾員工處獲悉，公司上週在內部口頭傳達，2025年度和2026年度的BD獎金將取消發放。BD在內部也被稱為“保單”，約佔全年總收入的40%至45%。由於其金額較高、按年度核定，員工通常將其視為年終獎。"
     }
   ]
 }

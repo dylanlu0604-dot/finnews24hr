@@ -1,7 +1,91 @@
 {
   "date": "2026-11-16",
-  "count": 567,
+  "count": 580,
   "items": [
+    {
+      "id": "5216684",
+      "time": "2026-11-16 10:10:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【中際旭創盤中創年內新低，現跌超8%】中際旭創盤中創年內新低，現跌超8%。"
+    },
+    {
+      "id": "mkt:01a1e21e-03c7-7bbc-abed-55ba21628608",
+      "time": "2026-11-16 10:09:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China's three major A‑share indexes marginally rebounded; the Shanghai Composite's loss narrowed to 0.6%, the Shenzhen Composite fell 1.62%, and the ChiNext Index fell 2.56%."
+    },
+    {
+      "id": "5216683",
+      "time": "2026-11-16 10:09:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股三大股指小幅反彈拉昇，上證綜指跌幅縮窄至0.6%，深證成指現跌1.62%，創業板指數跌2.56%。"
+    },
+    {
+      "id": "mkt:01a1e21d-ef96-7bbc-abed-4d38f6a4338e",
+      "time": "2026-11-16 10:09:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "【China NBS: Goods trade rises rapidly; trade structure continues to improve】China's National Bureau of Statistics reported October goods trade at RMB 4.87 tln, up 31.2% YoY; exports RMB 2.79 tln, +28.7%; imports RMB 2.08 tln, +34.7%. Jan–Oct goods trade totaled RMB 44.81 tln, +20.0% YoY; exports RMB 25.99 tln, +17.6%; imports RMB 18.82 tln, +23.6%. Jan–Oct general trade rose 13.2% YoY. Trade with Belt and Road countries grew 18.5%. Private-sector import‑export rose 20.1%. Mechanical and electrical product exports increased 25.2%."
+    },
+    {
+      "id": "mkt:01a1e21d-6d34-7bbc-abed-41987e22e081",
+      "time": "2026-11-16 10:09:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【National Bureau of Statistics: Services steady; modern services expand strongly】China's National Bureau of Statistics said the services production index rose 4.6% YoY in October and 4.7% YoY in Jan–Oct. By industry, leasing and business services increased 9.3% YoY, information transmission/software and IT services rose 9.2% YoY, and transport/warehousing/postal services gained 5.1% YoY. The October service business activity index was 50.0 and the business activity expectation index 55.2; railway transport, water transport, postal and internet software/IT services posted business activity indices above 55.0. Revenue at above-scale service enterprises rose 5.4% YoY in Jan–Sep."
+    },
+    {
+      "id": "5216682",
+      "time": "2026-11-16 10:07:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐亞經濟聯盟釋出對泰國和越南新充氣橡膠輪胎反傾銷終裁披露】2026年9月23日，歐亞經濟委員會內部市場保護司釋出對泰國和越南新充氣橡膠輪胎反傾銷終裁披露（參見第2026/514/AD44號公告），建議對涉案產品徵收為期五年的反傾銷稅，具體如下：泰國生產商Prinx Chengshan Tire (Thailand) Co., Ltd.、MAXXIS INTERNATIONAL (THAILAND) CO., LTD.、General Rubber (Thailand) Co., Ltd.、LLIT (Thailand) Co., Ltd.均為17.05%、泰國其他生產商/出口商為22.37%；越南生產商Jinyu (Vietnam) Tire Co., Ltd.為11.31%，Sailun (Vietnam) Co., Ltd.、ACTR Company Limited均為16.48%，Advance Tyre (Vietnam) Co., Ltd.為17.25%，Vietnam COFO Tires Company Limited、Danang Rubber Joint Stock Company、Haohua (Vietnam) Co., Ltd.均為14.99%，其他越南生產商/出口商為17.25%。涉案產品為輪輞直徑介於17.5英寸（含）～24.5英寸（含）的新充氣橡膠輪胎，用於卡車、公共汽車、無軌電車、翻斗車、拖車和半掛車。涉案產品的歐亞經濟聯盟稅號為4011201000和4011209000。2025年11月11日，歐亞經濟聯盟對原產於泰國和越南的新充氣橡膠輪胎啟動反傾銷調查。"
+    },
+    {
+      "id": "5216681",
+      "time": "2026-11-16 10:07:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【NTT Docomo稱日本行動通訊服務出現故障】NTT Docomo表示，其行動通訊服務週一在日本全國範圍出現故障，包括語音通話、資料通訊和簡訊服務。故障自當地時間上午10:02起持續；受影響的是5G獨立網路服務；公司目前正在調查故障原因。"
+    },
+    {
+      "id": "5216680",
+      "time": "2026-11-16 10:07:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：10月份，規上工業發電量7940億千瓦時，同比下降2.1%】國家統計局：規上工業電力生產有所下降。10月份，規上工業發電量7940億千瓦時，同比下降2.1%；日均發電256.1億千瓦時。1—10月份，規上工業發電量82904億千瓦時，同比增長1.8%。 分品種看，10月份，規上工業火電、水電降幅擴大，核電增速放緩，風電、太陽能發電增速加快。其中，規上工業火電同比下降7.3%，降幅比9月份擴大5.9個百分點；規上工業水電下降18.9%，降幅擴大0.8個百分點；規上工業核電增長17.5%，增速放緩4.0個百分點；規上工業風電增長33.7%，增速加快23.1個百分點；規上工業太陽能發電增長31.0%，增速加快11.5個百分點。"
+    },
     {
       "id": "mkt:01a1e21b-6668-7bbc-abed-3b5620d1218f",
       "time": "2026-11-16 10:06:48",
@@ -40,6 +124,14 @@
       "text": "東京制鋼12月H型鋼價格維持119000日元/噸不變。"
     },
     {
+      "id": "5216676",
+      "time": "2026-11-16 10:06:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中消協：網購服裝問題多 平臺擔責要切實】近年來，網購服裝已成為大眾重要的消費方式。但與此同時，虛假宣傳、質量不達標、退換貨困難、閉店失聯等消費糾紛持續高發，嚴重侵害消費者合法權益，破壞網購服裝市場健康的消費環境。據統計，全國消協智慧315平臺今年前三季度受理的網路服裝類投訴達26338件。中消協表示，電商平臺經營者作為連線供需的樞紐，絕不能僅僅做流量的“收割機”，更應成為規則的“守門人”。"
+    },
+    {
       "id": "em:jjsj_zgsj:202611163931608396",
       "time": "2026-11-16 10:05:42",
       "tags": [
@@ -74,12 +166,48 @@
       "text": "恒生指數漲超1%，現報23883.631點；恒生科技指數現漲1.001%。"
     },
     {
+      "id": "em:jjsj_zgsj:202611163931609527",
+      "time": "2026-11-16 10:05:05",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：10月規上工業原油加工量5830萬噸 同比下降8.1%】國家統計局資料顯示，10月份，規上工業原油加工量5830萬噸，同比下降8.1%，降幅比9月份收窄0.3個百分點；日均加工量188.1萬噸。1—10月份，規上工業原油加工量57190萬噸，同比下降6.9%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202611163931609380",
+      "time": "2026-11-16 10:04:25",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：10月規上工業天然氣產量222億立方米 同比增長0.8%】國家統計局資料顯示，10月份，規上工業天然氣產量222億立方米，同比增長0.8%，9月份為下降1.0%；日均產量7.2億立方米。1—10月份，規上工業天然氣產量2181億立方米，同比增長0.9%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202611163931609291",
+      "time": "2026-11-16 10:04:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：10月份規上工業發電量7940億千瓦時 同比下降2.1%】國家統計局資料顯示，規上工業電力生產有所下降。10月份，規上工業發電量7940億千瓦時，同比下降2.1%；日均發電256.1億千瓦時。1—10月份，規上工業發電量82904億千瓦時，同比增長1.8%。分品種看，10月份，規上工業火電、水電降幅擴大，核電增速放緩，風電、太陽能發電增速加快。"
+    },
+    {
       "id": "5216672",
       "time": "2026-11-16 10:03:50",
       "tags": [
         "市場"
       ],
       "text": "香港恒生指數上漲1%至23,877.84點。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202611163931609435",
+      "time": "2026-11-16 10:03:45",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：10月規上工業原油產量1845萬噸 同比增長2.3%】國家統計局資料顯示，10月份，規上工業原油產量1845萬噸，同比增長2.3%，增速比9月份加快0.1個百分點；日均產量59.5萬噸。1—10月份，規上工業原油產量18304萬噸，同比增長1.1%。"
     },
     {
       "id": "5216671",
