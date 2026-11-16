@@ -1,7 +1,48 @@
 {
-  "updated": "2026-11-17 03:40:22",
-  "count": 10029,
+  "updated": "2026-11-17 03:44:04",
+  "count": 10028,
   "items": [
+    {
+      "id": "mkt:01a1e5e2-e503-7bbc-ac05-313148a2c1ae",
+      "time": "2026-11-17 03:43:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed’s Hammack reiterates support for small, gradual rate hikes】Cleveland Fed President Beth Hammack said she favors small, steady rate hikes over several consecutive meetings to ensure restrictive policy filters through the economy and delivers disinflation toward the Fed’s 2% target. She prefers steady adjustments to large hikes. The Fed raised rates in September for the first time since 2023, then held them steady in October. Several policymakers have signaled a possible hike at the December meeting, while futures have priced in the possibility of another increase in January. One of the Fed’s most hawkish officials, Hammack is an FOMC voter this year."
+    },
+    {
+      "id": "mkt:01a1e5e2-d6d9-7bbc-ac05-2a058c784339",
+      "time": "2026-11-17 03:43:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $92.44 a barrel, down $3.40, or 3.55%."
+    },
+    {
+      "id": "5218538",
+      "time": "2026-11-17 03:42:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價為每桶92.44美元，下跌3.40美元，跌幅3.55%。"
+    },
+    {
+      "id": "5218537",
+      "time": "2026-11-17 03:40:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "力拓集團：此舉（重啟第四條電解鋁生產線）每年可為紐西蘭增加約1億紐西蘭元的出口收入。"
+    },
     {
       "id": "5218536",
       "time": "2026-11-17 03:38:38",
@@ -90980,49 +91021,6 @@
         "國際"
       ],
       "text": "美國最高法院撤銷了一項司法裁定，該裁定此前阻止美國總統特朗普政府在美國得克薩斯州大彎國家公園修建邊境屏障。"
-    },
-    {
-      "id": "5204164",
-      "time": "2026-11-10 03:43:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【報道：美伊核談判據報重啟】據阿拉比亞電視臺：阿拉伯訊息人士稱，卡達與巴基斯坦聯合提出的方案，推動美伊重啟實質性談判。報道稱，美方已經同意伊朗將鈾濃縮丰度上限設為 3.67%，德黑蘭方面接受該條件。 雙方還在磋商國際原子能機構核查人員重返伊朗的安排，達成降低伊朗鈾濃縮水平初步協議的可能性較高。"
-    },
-    {
-      "id": "5204163",
-      "time": "2026-11-10 03:42:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲3%，現報53.48美元/盎司。"
-    },
-    {
-      "id": "5204162",
-      "time": "2026-11-10 03:42:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲3%，現報53.53美元/盎司。"
-    },
-    {
-      "id": "5204161",
-      "time": "2026-11-10 03:42:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守91美元/桶，日內跌7.51%。"
-    },
-    {
-      "id": "5204160",
-      "time": "2026-11-10 03:40:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指漲3.01%，現報25318.057點；道指漲2.37%，現報52502.781點；標普500指數漲2.54%，現報7564.050點。"
     }
   ]
 }
