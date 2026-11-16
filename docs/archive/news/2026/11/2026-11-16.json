@@ -1,7 +1,83 @@
 {
   "date": "2026-11-16",
-  "count": 585,
+  "count": 592,
   "items": [
+    {
+      "id": "mkt:01a1e225-6f02-7bbc-abed-87bade63dc49",
+      "time": "2026-11-16 10:17:46",
+      "tags": [
+        "MKT News",
+        "010140.KS",
+        "Impact bullish"
+      ],
+      "text": "YONHAP reports Samsung Heavy Industries won a 342.4 billion won contract to build an LNG carrier."
+    },
+    {
+      "id": "5216689",
+      "time": "2026-11-16 10:17:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【戰火和燃油短缺加劇蘇丹電力危機】蘇丹武裝衝突對蘇丹能源供應體系造成巨大沖擊。目前，蘇丹許多地區每天停電時間長達十多個小時，給民眾日常生活、企業經營以及醫療、供水等公共服務帶來諸多困難。（央視新聞）"
+    },
+    {
+      "id": "5216688",
+      "time": "2026-11-16 10:15:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI漫劇概念區域性回暖 吉視傳媒3天2板】AI漫劇概念盤中區域性回暖，吉視傳媒走出3天2板，龍版傳媒、大晟文化、流金科技、果麥文化、文投控股、橫店影視跟漲。"
+    },
+    {
+      "id": "5216687",
+      "time": "2026-11-16 10:15:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平致信祝賀暨南大學建校120週年】中共中央總書記、國家主席、中央軍委主席習近平16日致信祝賀暨南大學建校120週年，向全體師生員工和廣大校友致以祝賀。（新華社）"
+    },
+    {
+      "id": "mkt:01a1e223-893e-7bbc-abed-7d99cdbccc9f",
+      "time": "2026-11-16 10:15:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Alphabet",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "【Ming-Chi Kuo: NVIDIA succession uncertainty boosts Google TPU orders into 2029】Tianfeng International Securities analyst Ming-Chi Kuo said on Monday that uncertainty around NVIDIA CEO succession is benefitting Google’s TPU business as OpenAI and ANTHROPIC place substantial new orders. Kuo’s industry survey shows Google TPU shipment visibility has extended into 2029, longer than NVIDIA GPUs and other AI-chip suppliers, which mostly show visibility from 2027 Q4 to 2028 Q2. From 2028 Kuo expects v9 TPU to be Google’s primary in-house compute solution; v8 series (8t/8i or design variants) orders appear to come from OpenAI and ANTHROPIC. He estimates OpenAI will need about 12.0 mln 8t chips (MediaTek design) in 2028–29 and ANTHROPIC about 14.0 mln 8i chips (Broadcom design), with demand rising year-on-year; OpenAI is buying outright while ANTHROPIC is using a mix of leasing and outright purchases."
+    },
+    {
+      "id": "mkt:01a1e223-2659-7bbc-abed-76c7931ff02d",
+      "time": "2026-11-16 10:15:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share battery sector surged intraday; Yema Battery hit the daily limit, Lingpai Technology and Shangshui Intelligent rose over 10%, while Zizhu Hi‑Tech, Shidai Wanheng, Lijia Technology, Fengyuan Co. and Longpan Technology also advanced."
+    },
+    {
+      "id": "mkt:01a1e222-b979-7bbc-abed-69e0cdd546b0",
+      "time": "2026-11-16 10:14:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Consumers Association: online clothing complaints high; platforms must assume concrete responsibility】China Consumers Association said its Smart 315 platform received 26,338 online clothing complaints in the first three quarters. The CCA urged e-commerce platforms to act as gatekeepers, ordering: require merchants to disclose truthful information; tighten oversight of livestream sellers to prevent deception or misleading conduct; eliminate unfair contract terms and guarantee seven‑day no‑reason returns; handle complaints promptly and, if merchants abscond, bear upfront compensation liability under law."
+    },
     {
       "id": "5216686",
       "time": "2026-11-16 10:14:23",

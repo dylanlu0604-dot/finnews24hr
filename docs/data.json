@@ -1,7 +1,83 @@
 {
-  "updated": "2026-11-16 10:15:04",
+  "updated": "2026-11-16 10:18:56",
   "count": 9931,
   "items": [
+    {
+      "id": "mkt:01a1e225-6f02-7bbc-abed-87bade63dc49",
+      "time": "2026-11-16 10:17:46",
+      "tags": [
+        "MKT News",
+        "010140.KS",
+        "Impact bullish"
+      ],
+      "text": "YONHAP reports Samsung Heavy Industries won a 342.4 billion won contract to build an LNG carrier."
+    },
+    {
+      "id": "5216689",
+      "time": "2026-11-16 10:17:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【戰火和燃油短缺加劇蘇丹電力危機】蘇丹武裝衝突對蘇丹能源供應體系造成巨大沖擊。目前，蘇丹許多地區每天停電時間長達十多個小時，給民眾日常生活、企業經營以及醫療、供水等公共服務帶來諸多困難。（央視新聞）"
+    },
+    {
+      "id": "5216688",
+      "time": "2026-11-16 10:15:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI漫劇概念區域性回暖 吉視傳媒3天2板】AI漫劇概念盤中區域性回暖，吉視傳媒走出3天2板，龍版傳媒、大晟文化、流金科技、果麥文化、文投控股、橫店影視跟漲。"
+    },
+    {
+      "id": "5216687",
+      "time": "2026-11-16 10:15:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平致信祝賀暨南大學建校120週年】中共中央總書記、國家主席、中央軍委主席習近平16日致信祝賀暨南大學建校120週年，向全體師生員工和廣大校友致以祝賀。（新華社）"
+    },
+    {
+      "id": "mkt:01a1e223-893e-7bbc-abed-7d99cdbccc9f",
+      "time": "2026-11-16 10:15:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Alphabet",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "【Ming-Chi Kuo: NVIDIA succession uncertainty boosts Google TPU orders into 2029】Tianfeng International Securities analyst Ming-Chi Kuo said on Monday that uncertainty around NVIDIA CEO succession is benefitting Google’s TPU business as OpenAI and ANTHROPIC place substantial new orders. Kuo’s industry survey shows Google TPU shipment visibility has extended into 2029, longer than NVIDIA GPUs and other AI-chip suppliers, which mostly show visibility from 2027 Q4 to 2028 Q2. From 2028 Kuo expects v9 TPU to be Google’s primary in-house compute solution; v8 series (8t/8i or design variants) orders appear to come from OpenAI and ANTHROPIC. He estimates OpenAI will need about 12.0 mln 8t chips (MediaTek design) in 2028–29 and ANTHROPIC about 14.0 mln 8i chips (Broadcom design), with demand rising year-on-year; OpenAI is buying outright while ANTHROPIC is using a mix of leasing and outright purchases."
+    },
+    {
+      "id": "mkt:01a1e223-2659-7bbc-abed-76c7931ff02d",
+      "time": "2026-11-16 10:15:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share battery sector surged intraday; Yema Battery hit the daily limit, Lingpai Technology and Shangshui Intelligent rose over 10%, while Zizhu Hi‑Tech, Shidai Wanheng, Lijia Technology, Fengyuan Co. and Longpan Technology also advanced."
+    },
+    {
+      "id": "mkt:01a1e222-b979-7bbc-abed-69e0cdd546b0",
+      "time": "2026-11-16 10:14:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Consumers Association: online clothing complaints high; platforms must assume concrete responsibility】China Consumers Association said its Smart 315 platform received 26,338 online clothing complaints in the first three quarters. The CCA urged e-commerce platforms to act as gatekeepers, ordering: require merchants to disclose truthful information; tighten oversight of livestream sellers to prevent deception or misleading conduct; eliminate unfair contract terms and guarantee seven‑day no‑reason returns; handle complaints promptly and, if merchants abscond, bear upfront compensation liability under law."
+    },
     {
       "id": "5216686",
       "time": "2026-11-16 10:14:23",
@@ -90516,67 +90592,6 @@
         "焦點"
       ],
       "text": "臺積電進一步擴大漲幅，目前上漲6%。"
-    },
-    {
-      "id": "5202084",
-      "time": "2026-11-09 10:18:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股指下跌0.6%，此前第三季度GDP資料不及預期。"
-    },
-    {
-      "id": "5202082",
-      "time": "2026-11-09 10:18:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華能石島灣成立第二核能公司，四家民企入股】國家企業信用資訊公示系統顯示，11月3日，華能石島灣(山東)第二核能有限公司在威海榮成成立，註冊資本1億元，法定代表人為張延旭，經營範圍涵蓋發電業務、輸電業務、供(配)電業務；建設工程施工等。據天眼查APP股權結構，公司共7名股東，國有資本合計持股75%，富海集團新能源控股有限公司、山東煉化能源集團有限公司、迪尚集團有限公司、尋山集團有限公司4家山東民企合計持股25%。中國華能集團全資子公司華能核電開發有限公司為控股股東，持股51%。新公司成立前，華能在石島灣已有兩家主要專案主體，分別負責高溫氣冷堆示範工程和壓水堆擴建工程。"
-    },
-    {
-      "id": "5202078",
-      "time": "2026-11-09 10:17:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國Kospi指數擴大漲幅；最新上漲1.7%，報5143.74點。"
-    },
-    {
-      "id": "5202074",
-      "time": "2026-11-09 10:17:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "三菱電機、NTT及其他企業就巨型衛星星座專案簽署協議。"
-    },
-    {
-      "id": "5202069",
-      "time": "2026-11-09 10:15:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：高市早苗出席《聯合國氣候變化框架公約》第31次締約方大會存在困難。"
-    },
-    {
-      "id": "te:markets:599338",
-      "time": "2026-11-09 10:15:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: New Zealand Dollar Increases by 0.61% — Top currency gainers are New Zealand Dollar (0.61%), South Korean Won (0.56%), Australian Dollar (0.45%) and Japanese Yen (0.16%). Meanwhile Chinese Yuan was little changed."
-    },
-    {
-      "id": "5202068",
-      "time": "2026-11-09 10:15:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "越南VN指數開盤小幅持平於1,725.36點。"
     }
   ]
 }
