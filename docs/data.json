@@ -1,7 +1,108 @@
 {
-  "updated": "2026-11-17 03:17:59",
-  "count": 9993,
+  "updated": "2026-11-17 03:21:47",
+  "count": 10004,
   "items": [
+    {
+      "id": "mkt:01a1e5ce-5d19-7bbc-ac04-b473e32b8f4e",
+      "time": "2026-11-17 03:21:09",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Hammack: We are indeed seeing inf pressures from technology investment."
+    },
+    {
+      "id": "5218508",
+      "time": "2026-11-17 03:21:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：科技投資確實帶來了通脹壓力。"
+    },
+    {
+      "id": "mkt:01a1e5ce-4e5a-7bbc-ac04-a8e92f7beede",
+      "time": "2026-11-17 03:21:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Minister Araghchi left Pakistan for Muscat, Oman, Tasnim reported."
+    },
+    {
+      "id": "5218507",
+      "time": "2026-11-17 03:20:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：目前確實能看到人工智慧帶來的通脹壓力。"
+    },
+    {
+      "id": "5218506",
+      "time": "2026-11-17 03:20:30",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通正抓緊解決影響客戶交易的“技術問題” 據悉無關網路安全】摩根大通表示，遇到的“技術問題”導致該行部分交易的處理時間比正常情況下更長。該行週一透過電子郵件發表宣告說，客戶仍然可以訪問自己的賬戶和資金。宣告還說，摩根大通正在努力盡快解決問題。知情人士透露，此次事件與網路安全問題無關。Downdetector週一記錄了超過3000起服務中斷報告。摩根大通下跌2.3%至338.24美元，年內漲幅收窄至近5%。"
+    },
+    {
+      "id": "5218505",
+      "time": "2026-11-17 03:19:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：人工智慧的影響範圍非常廣泛。"
+    },
+    {
+      "id": "mkt:01a1e5cc-7518-7bbc-ac04-a58a0c71d641",
+      "time": "2026-11-17 03:19:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Hammack: AI's impact is very broad."
+    },
+    {
+      "id": "mkt:01a1e5cc-749a-7bbc-ac04-9828c1f3bd58",
+      "time": "2026-11-17 03:19:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Hammack: I will continue to express my views."
+    },
+    {
+      "id": "5218504",
+      "time": "2026-11-17 03:18:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊週一晚間結束與巴基斯坦官員的會談後離開伊斯蘭堡前往馬斯喀特。巴方表示，正在等待華盛頓對伊朗有關重新開放霍爾木茲海峽提議的回應。"
+    },
+    {
+      "id": "5218503",
+      "time": "2026-11-17 03:18:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：將繼續表達觀點。"
+    },
+    {
+      "id": "5218502",
+      "time": "2026-11-17 03:17:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：勞動力市場可能正顯現出一些收緊跡象。"
+    },
     {
       "id": "mkt:01a1e5ca-01c5-7bbc-ac04-9776c3526acc",
       "time": "2026-11-17 03:16:23",
