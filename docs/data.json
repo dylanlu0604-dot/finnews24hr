@@ -1,7 +1,122 @@
 {
-  "updated": "2026-11-16 10:30:25",
-  "count": 9929,
+  "updated": "2026-11-16 10:34:16",
+  "count": 9933,
   "items": [
+    {
+      "id": "mkt:01a1e233-c6df-7bbc-abed-b14181341793",
+      "time": "2026-11-16 10:33:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand Q3 GDP grew 2.9% YoY and 0.3% QoQ."
+    },
+    {
+      "id": "mkt:01a1e233-b2f0-7bbc-abed-af8ec92e8d30",
+      "time": "2026-11-16 10:33:21",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【China State Railway Group: Jan–Oct railway fixed‑asset investment 677.3 bln yuan, +0.9% YoY】China State Railway Group said Jan–Oct railway fixed‑asset investment totaled 677.3 bln yuan, up 0.9% YoY, with a number of major projects accelerating. The group said it will fully implement the 15th Five‑Year Plan’s railway priorities and focus on raising investment quality and efficiency."
+    },
+    {
+      "id": "5216719",
+      "time": "2026-11-16 10:33:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里Qwen4正式釋出：效能升級，價效比更優，單任務平均費用大降6成】11月16日，阿里巴巴釋出全新一代基座大模型Qwen4-Max，總引數2.4T，具備原生視覺能力，支援百萬上下文。基於創新的模型架構和訓練最佳化，Qwen4-Max以更少的Token消耗實現了更高的效能，在智慧體和程式設計等關鍵能力項上持續進化：在權威的全球前端程式設計盲測CodeArena中，Qwen4位居第六；在Agents’ Last Exam（ALE）、Vals Index等智慧體能力及專業任務三方評測中，Qwen4均處於領先梯隊。Qwen4面向全領域的真實任務深度最佳化，可更好地呼叫專業工具處理長週期任務，推進AI在汽車製造、遊戲開發、金融投研及科學研究等專業領域的深入落地。"
+    },
+    {
+      "id": "5216718",
+      "time": "2026-11-16 10:33:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報89400元/噸，較上日16:30價格下跌2750元/噸。"
+    },
+    {
+      "id": "5216717",
+      "time": "2026-11-16 10:32:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國規劃機構預計2027年GDP增速為2.0%-3.0%。"
+    },
+    {
+      "id": "5216716",
+      "time": "2026-11-16 10:32:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國國家經濟和社會發展委員會：預計2026年泰國出口將增長20.4%。"
+    },
+    {
+      "id": "5216715",
+      "time": "2026-11-16 10:32:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國規劃機構：預計2026年泰國GDP增速為2.5%。"
+    },
+    {
+      "id": "5216714",
+      "time": "2026-11-16 10:32:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國規劃機構：預計2027年出口增長8.6%。"
+    },
+    {
+      "id": "5216713",
+      "time": "2026-11-16 10:32:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【1至10月全國鐵路完成固定資產投資6773億元】記者今天（16日）從國鐵集團獲悉，今年1至10月，全國鐵路完成固定資產投資6773億元，同比增長0.9%，一批重點建設專案加快推進。進入10月以來，天府新區至蒲江鐵路正式開通運營，與成都至雅安鐵路、成都至自貢至宜賓高速鐵路銜接，雅安至天府機場站最快80分鐘可達。淮北至宿州至蚌埠城際鐵路、阜陽至蒙城至宿州（淮北）鐵路、巢湖至馬鞍山城際鐵路啟動試執行，開通運營進入倒計時。下一步，國鐵集團將全面落實國家“十五五”規劃《綱要》確定的各項鐵路重點工程建設，持續提升鐵路投資質量和效益，助力經濟社會高質量發展。（央視新聞）"
+    },
+    {
+      "id": "5216712",
+      "time": "2026-11-16 10:31:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國第三季度政府支出同比下降1.6%。"
+    },
+    {
+      "id": "5216711",
+      "time": "2026-11-16 10:31:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數早盤收跌0.4%，報3924.08點。日經指數早盤收跌1.6%，報60182.50點。"
+    },
+    {
+      "id": "5216710",
+      "time": "2026-11-16 10:31:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數上漲1%，報1752.30點。"
+    },
+    {
+      "id": "5216709",
+      "time": "2026-11-16 10:31:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊持續拉昇，文投控股、橫店影視漲停】影視院線板塊持續拉昇，文投控股、橫店影視漲停，慈文傳媒、儒意電影、北京文化、華策影視、歡瑞世紀跟漲。"
+    },
+    {
+      "id": "5216708",
+      "time": "2026-11-16 10:30:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國3季度GDP同比增長2.9%; 預估為+3.1%。"
+    },
     {
       "id": "5216707",
       "time": "2026-11-16 10:29:03",
@@ -90468,100 +90583,6 @@
         "市場"
       ],
       "text": "據Mysteel資料顯示，今日MMLC電池級碳酸鋰（早盤）價格較昨日下跌850元/噸，中間價報92950元/噸。"
-    },
-    {
-      "id": "5202163",
-      "time": "2026-11-09 10:33:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【新任駐巴林大使劉軍抵巴履新】11月7日，新任駐巴林大使劉軍抵達巴林首都麥納麥履新。巴外交部禮賓司官員及使館主要外交官前往機場迎接。"
-    },
-    {
-      "id": "5202161",
-      "time": "2026-11-09 10:33:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【全球AI大模型周呼叫量榜單出爐，中國產品拿下前五中四席：DeepSeek連續三週領跑，騰訊混元Hy4釋出即躋身第四】OpenRouter最新資料測算，上週（11月2日至8日）全球AI大模型總呼叫量為210萬億Token，環比增長8.25%。其中，上榜的AI大模型中，中國AI大模型周呼叫量達116.18萬億Token，環比增長16.71%；同期美國AI大模型周量為13.98萬億Token，環比下滑32.4%。中國大模型周呼叫量連續二十八週超過美國，穩居全球首位。上週，全球呼叫量排名前五的AI大模型中，有四款中國大模型。其中，DeepSeek V4.1 Flash 1017連續三週位居第一，周呼叫量達56萬億Token，環比增長17%。（每經網）"
-    },
-    {
-      "id": "5202159",
-      "time": "2026-11-09 10:33:10",
-      "tags": [],
-      "text": "韓國綜合指數漲幅擴大至2％，盤初一度跌超1％。SK海力士漲超4％，三星電子漲逾3％。"
-    },
-    {
-      "id": "te:economy:599347",
-      "time": "2026-11-09 10:32:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "GDP Growth Rate",
-        "Importance 0"
-      ],
-      "text": "Philippines GDP Growth Near Standstill in Q3 — The Philippine economy expanded just 0.1% quarter-on-quarter in Q3 2026, moderating from 0.5% growth in Q2 and missing market expectations of a 0.9% expansion. The slowdown was largely driven by a sharp contraction in agriculture, forestry, and fishing (-7.7% vs. 3.3% in Q2), while services growth eased to 0.4% from 1.3%. These offset a rebound in industry, which expanded 1.5% after contracting 1.9% in the previous quarter, supported by recoveries in construction (6.9% vs. -9.5%) and mining and quarrying (11% vs. -10%). Within services, education recorded the steepest contraction, falling 6.8%, while financial and insurance activities and professional and business services both grew 1.5%. On the expenditure side, household consumption growth slowed to 0.4% from 0.7%, while government spending contracted 0.1% after rising 1.4%. Gross capital formation rebounded 3.6% following a 3.4% contraction, while exports growth nearly stalled at 0.1% from 1.9%."
-    },
-    {
-      "id": "5202152",
-      "time": "2026-11-09 10:31:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本TOPIX指數午盤收漲3.4%，至3834.83點。"
-    },
-    {
-      "id": "5202150",
-      "time": "2026-11-09 10:31:23",
-      "tags": [
-        "宏觀",
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【國務院關稅稅則委員會關於調整對原產於美國的進口商品加徵關稅措施的公告】為落實中美兩國元首華盛頓會晤達成的成果共識，根據《中華人民共和國關稅法》、《中華人民共和國海關法》、《中華人民共和國對外貿易法》等法律法規和國際法基本原則，經國務院批准，自2026年11月10日13時01分起，調整《國務院關稅稅則委員會關於對原產於美國的進口商品加徵關稅的公告》（稅委會公告2025年第4號）規定的加徵關稅措施，在2個月內繼續暫停實施24%的對美加徵關稅稅率，保留10%的對美加徵關稅稅率。"
-    },
-    {
-      "id": "mkt:01a1be24-ed25-7ee0-aacc-bf93e5c794b3",
-      "time": "2026-11-09 10:30:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China lithium carbonate most-active futures contract fell more than 2.0% intraday to 90,080 yuan/tonne."
-    },
-    {
-      "id": "5202144",
-      "time": "2026-11-09 10:30:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遼寧省農業農村廳黨組成員、副廳長冀登義接受審查調查】中央紀委國家監委網站11月9日通報，據遼寧省紀委監委訊息：遼寧省農業農村廳黨組成員、副廳長冀登義涉嫌嚴重違紀違法，目前正接受遼寧省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "5202143",
-      "time": "2026-11-09 10:30:38",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "韓國財政部：韓國以3.650%的收益率出售3年期國債。"
-    },
-    {
-      "id": "mkt:01a1be24-7f85-7ee0-aacc-b4bd95d51cf2",
-      "time": "2026-11-09 10:30:25",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "【Asian morning copper rises; macro headwinds cloud outlook】An analyst at Dongwu Futures said copper climbed in Asian morning trade but intensifying macro headwinds are clouding the outlook. After Democrats’ midterm sweep of Congress, investors are reassessing US tariff prospects, and rising concern that tougher regulation could curb an AI-related demand premium has added pressure. Copper concentrate supply remains tight and spot treatment charges (TCs) are low amid annual long-term contract talks; demand remains weak. Near term, despite longer-term supply support, copper is likely to stay volatile with a downside bias."
     }
   ]
 }
