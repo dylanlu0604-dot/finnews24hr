@@ -1,7 +1,174 @@
 {
-  "updated": "2026-11-17 03:21:47",
-  "count": 10004,
+  "updated": "2026-11-17 03:25:29",
+  "count": 10018,
   "items": [
+    {
+      "id": "mkt:01a1e5d1-ba61-7bbc-ac04-e9e991f306de",
+      "time": "2026-11-17 03:24:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Hammack: I would like to see us reach a restrictive policy stance."
+    },
+    {
+      "id": "mkt:01a1e5d1-b70b-7bbc-ac04-e3293dfb1bb8",
+      "time": "2026-11-17 03:24:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed official Hammack: Strong growth and expectations for Fed policy are driving interest rates higher."
+    },
+    {
+      "id": "5218517",
+      "time": "2026-11-17 03:24:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：2%的通脹率仍是美聯儲的合理目標。"
+    },
+    {
+      "id": "5218516",
+      "time": "2026-11-17 03:24:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：希望看到美國貨幣政策進入限制性立場。"
+    },
+    {
+      "id": "mkt:01a1e5d1-349f-7bbc-ac04-d9518415e2eb",
+      "time": "2026-11-17 03:24:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Hammack: The economy can withstand further restraint, but it is unclear how far the Fed needs to go."
+    },
+    {
+      "id": "mkt:01a1e5d1-2e72-7bbc-ac04-d04e75ced1b5",
+      "time": "2026-11-17 03:24:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Hammack: 2% inflation remains a reasonable goal for the Fed."
+    },
+    {
+      "id": "5218515",
+      "time": "2026-11-17 03:23:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：金融狀況仍未對經濟構成抑制。"
+    },
+    {
+      "id": "5218514",
+      "time": "2026-11-17 03:23:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：經濟能夠承受更多限制性政策，目前尚不清楚美聯儲需要採取多大力度的行動。"
+    },
+    {
+      "id": "5218513",
+      "time": "2026-11-17 03:23:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【麥格理警告：萬億級AI建設浪潮中 資料中心市場過熱】管理規模5030億美元的麥格理資產管理公司提示，儘管AI存在強勁的結構性需求，但資料中心估值飆升正在抬升投資風險。執行長Ben Way表示，投資者為佈局該板塊付出過高價格，強調理性估值、長期合約以及穩定租戶至關重要。麥格理此前已經退出多項大型資料中心投資，其中包括估值400億美元的Aligned Data Centers。Way預計，一場規模達數萬億美元的基礎設施投入超級週期將會到來，但他提醒，入場價格將是決定投資回報的關鍵。"
+    },
+    {
+      "id": "mkt:01a1e5d0-24ef-7bbc-ac04-cc2047dc94eb",
+      "time": "2026-11-17 03:23:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed's Hammack: Financial conditions are still not restraining the economy."
+    },
+    {
+      "id": "mkt:01a1e5cf-aaf8-7bbc-ac04-c1fe3470e7d9",
+      "time": "2026-11-17 03:22:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Hammack: Higher market borrowing costs are needed to restrain the economy."
+    },
+    {
+      "id": "5218511",
+      "time": "2026-11-17 03:22:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：需要提高市場借貸成本以抑制經濟。"
+    },
+    {
+      "id": "mkt:01a1e5cf-728d-7bbc-ac04-b8894225bcf3",
+      "time": "2026-11-17 03:22:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y"
+      ],
+      "text": "Fed's Hammack: AI investment will not pose a problem for government borrowing costs."
+    },
+    {
+      "id": "5218510",
+      "time": "2026-11-17 03:22:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：不認為人工智慧投資會給政府借貸成本帶來問題。"
+    },
+    {
+      "id": "5218509",
+      "time": "2026-11-17 03:21:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：不認為人工智慧發行貨幣會與政府形成競爭。"
+    },
     {
       "id": "mkt:01a1e5ce-5d19-7bbc-ac04-b473e32b8f4e",
       "time": "2026-11-17 03:21:09",
@@ -90745,14 +90912,6 @@
         "國際"
       ],
       "text": "愛爾蘭財政部長：已同意將尼古丁袋納入歐盟菸草稅框架的原則寫入法律。"
-    },
-    {
-      "id": "5204145",
-      "time": "2026-11-10 03:22:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：伊方“兩日計劃”仍有效 美國應認真考慮】伊朗外交部發言人巴加埃9日就地區局勢、伊美關係等舉行釋出會。巴加埃強調，伊朗提出的“兩日計劃”仍有效，該方案旨在恢復霍爾木茲海峽和波斯灣的安全，美國應認真考慮。伊朗外交部發言人 巴加埃表示，如果美國滿足伊朗提出的要求，該地區局勢有望在短短兩天內出現積極轉變，霍爾木茲海峽的安全也可能得以恢復。之所以稱該提議為最合乎邏輯的方案，是因為它不僅有望為恢復霍爾木茲海峽及波斯灣的安全鋪平道路，還能為後續的外交程序奠定基礎。針對美國國務卿魯比奧8日指責伊朗方面的要求“不僅令人無法接受，而且在某些情況下根本不切實際”。巴加埃表示，維護伊朗人民的權利和利益並不是“不合理的要求”。美國必須在啟動任何談判程序之前，停止非法制裁、海上封鎖以及在所有戰線上的戰爭。針對伊朗核問題，巴加埃表示，伊朗仍是《不擴散核武器條約》締約國，並沒有暫停履行自身義務。但美國和以色列襲擊伊朗核設施，使相關機構的監督無法正常實施。國際原子能機構必須追究美以責任。(央視新聞)"
     }
   ]
 }
