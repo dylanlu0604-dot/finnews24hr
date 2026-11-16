@@ -1,7 +1,112 @@
 {
-  "updated": "2026-11-17 03:29:10",
-  "count": 10016,
+  "updated": "2026-11-17 03:32:56",
+  "count": 10025,
   "items": [
+    {
+      "id": "mkt:01a1e5d8-4f28-7bbc-ac05-16677ea03538",
+      "time": "2026-11-17 03:32:00",
+      "tags": [
+        "MKT News",
+        "JPM.N"
+      ],
+      "text": "JP Morgan (JPM.N): Technical issues are causing some trades to take longer than usual to complete."
+    },
+    {
+      "id": "mkt:01a1e5d8-2e6c-7bbc-ac05-0bd8098af642",
+      "time": "2026-11-17 03:31:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "ASML.AS",
+        "005930.KS"
+      ],
+      "text": "【U.S. has no plans to exclude allied tech firms from supply chains, deputy secretary says】The U.S. has no intention of targeting technology companies headquartered in allied countries or using government intervention to broadly exclude them from U.S. supply chains, Deputy Secretary of State for Economic Affairs Jacob Helberg told Semafor. He named ASML, Samsung and SK Hynix as key partners. On the U.S.-led Pax Silica semiconductor and AI supply-chain initiative, Helberg said participants should compete on a level playing field and leverage their respective strengths. He said winning the AI race requires both maintaining a technological edge and expanding market share, but did not explicitly endorse three bipartisan bills under consideration to tighten AI chip export controls. Helberg called NVIDIA vital to U.S. technological leadership and said he hoped an ongoing investigation would establish the facts and reach an appropriate conclusion."
+    },
+    {
+      "id": "5218528",
+      "time": "2026-11-17 03:31:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "力拓集團：合同規定冬季供電量減少至25兆瓦，以保障紐西蘭能源安全。"
+    },
+    {
+      "id": "5218527",
+      "time": "2026-11-17 03:31:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "力拓集團：4號生產線將於2027年10月重啟，預計2027年12月全面投產。"
+    },
+    {
+      "id": "mkt:01a1e5d7-bbd6-7bbc-ac05-03e427167945",
+      "time": "2026-11-17 03:31:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude futures settled at $85.72/bbl, down $2.84, or 3.21%."
+    },
+    {
+      "id": "5218526",
+      "time": "2026-11-17 03:31:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "力拓集團：預計重啟後鋁產量將增加3萬噸/年。"
+    },
+    {
+      "id": "5218525",
+      "time": "2026-11-17 03:30:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價為每桶85.72美元，下跌2.84美元，跌幅3.21%。"
+    },
+    {
+      "id": "5218524",
+      "time": "2026-11-17 03:30:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "力拓簽署50兆瓦電力合同，支援紐西蘭第四條電解鋁生產線重啟。"
+    },
+    {
+      "id": "5218523",
+      "time": "2026-11-17 03:30:27",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通發言人：客戶仍可訪問其賬戶和資金。"
+    },
+    {
+      "id": "5218522",
+      "time": "2026-11-17 03:30:09",
+      "tags": [
+        "觀點",
+        "焦點"
+      ],
+      "text": "摩根大通發言人：由於技術問題，一些交易的完成時間比平時長。"
+    },
+    {
+      "id": "5218521",
+      "time": "2026-11-17 03:30:03",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【黃仁勳3月份曾將價值超100億美元的英偉達股票轉入家族信託】美國證交會檔案顯示，前英偉達執行長黃仁勳及其妻子在3月，把近6000萬股股票轉入一份不可撤銷家族信託，市值超過105億美元。這次轉讓是一項長達十年的遺產規劃方案的一部分：該信託最早在2016年注入約5100萬美元的英偉達股票。遺產律師表示，該架構可以讓這部分增值資產傳給繼承人，免於繳納聯邦遺產稅。這筆轉讓發生在黃仁勳辭職、英偉達股價近期下跌之前。"
+    },
     {
       "id": "mkt:01a1e5d5-59fb-7bbc-ac04-fb30778c2cc2",
       "time": "2026-11-17 03:28:46",
@@ -90886,22 +90991,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧：以色列顯然已經不再需要美國軍事援助。"
-    },
-    {
-      "id": "5204153",
-      "time": "2026-11-10 03:31:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：正就美國對以色列軍事援助的諒解備忘錄進行談判。"
-    },
-    {
-      "id": "5204152",
-      "time": "2026-11-10 03:31:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 12月原油期貨收報86.85美元/桶。NYMEX 12月汽油期貨收報2.6509美元/加侖，NYMEX 12月取暖油期貨收報4.2148美元/加侖。"
     }
   ]
 }
