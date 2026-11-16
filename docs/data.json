@@ -1,7 +1,162 @@
 {
-  "updated": "2026-11-17 03:06:47",
-  "count": 9973,
+  "updated": "2026-11-17 03:10:28",
+  "count": 9983,
   "items": [
+    {
+      "id": "mkt:01a1e5c3-f363-7bbc-ac04-346ed31eac2c",
+      "time": "2026-11-17 03:09:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Goldman Sachs: U.S. tariff uncertainty may keep platinum and palladium highly volatile and supply flows fragmented, but does not necessarily mean higher prices in 2027."
+    },
+    {
+      "id": "mkt:01a1e5c3-d232-7bbc-ac04-2b18e764270e",
+      "time": "2026-11-17 03:09:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs expects gold to outperform silver in 2027 absent another silver liquidity squeeze."
+    },
+    {
+      "id": "5218488",
+      "time": "2026-11-17 03:09:37",
+      "tags": [
+        "觀點",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國銀行、富國銀行和摩根大通等美國主要銀行證實，其網上服務大面積中斷已持續超過一小時。"
+    },
+    {
+      "id": "mkt:01a1e5c3-9bd0-7bbc-ac04-20262d9977f4",
+      "time": "2026-11-17 03:09:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Tiger Global Management LLC cut its Meta Platforms Class A shareholding by 20.4% to 2.2 million shares, an SEC filing showed."
+    },
+    {
+      "id": "5218487",
+      "time": "2026-11-17 03:08:59",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛：美國關稅不確定性可能導致鉑金和鈀金價格波動，供應分散，但並不意味著2027年價格會上漲。"
+    },
+    {
+      "id": "5218486",
+      "time": "2026-11-17 03:08:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "老虎環球基金將其在Block的持股削減20.1%，至370萬股A類股。"
+    },
+    {
+      "id": "mkt:01a1e5c2-c8b8-7bbc-ac04-1b96a1d527c1",
+      "time": "2026-11-17 03:08:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bearish"
+      ],
+      "text": "An SEC filing showed Tiger Global Management LLC cut its Alphabet Class A shareholding by 42.3% to 3.3 million shares."
+    },
+    {
+      "id": "5218485",
+      "time": "2026-11-17 03:08:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "老虎環球基金將其在Reddit的持股削減10.2%，至230萬股A類股。"
+    },
+    {
+      "id": "5218484",
+      "time": "2026-11-17 03:08:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，JDZG跌26.79%，DCX跌16.86%，愛奇藝跌16.71%，萬國資料跌13.02%，世紀互聯跌11.24%。"
+    },
+    {
+      "id": "mkt:01a1e5c2-6385-7bbc-ac04-152f746b6cc9",
+      "time": "2026-11-17 03:08:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "A SEC filing showed Tiger Global Management increased its NVIDIA position by 7.2% to 12 million shares."
+    },
+    {
+      "id": "5218483",
+      "time": "2026-11-17 03:08:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "老虎環球將其持有的臺積電股份削減35.8%，至310萬股美國存託憑證。"
+    },
+    {
+      "id": "5218482",
+      "time": "2026-11-17 03:07:47",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛預計，除非再次出現白銀流動性擠壓，否則2027年黃金錶現將優於白銀。"
+    },
+    {
+      "id": "5218481",
+      "time": "2026-11-17 03:06:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "Altimeter Capital執行長格斯特納表示，已為Anthropic的IPO申請50億美元配售額度。"
+    },
+    {
+      "id": "5218480",
+      "time": "2026-11-17 03:06:32",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "高盛：一旦美聯儲開始降息，預計西方黃金ETF需求將復甦，支撐金價在2028年底前強勁反彈至每盎司5600美元。"
+    },
+    {
+      "id": "5218479",
+      "time": "2026-11-17 03:06:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "老虎環球管理公司將其在亞馬遜的持股削減4.2%，至930萬股。"
+    },
     {
       "id": "5218478",
       "time": "2026-11-17 03:06:10",
@@ -90358,47 +90513,6 @@
         "國際"
       ],
       "text": "美國勞工統計局（BLS）披露CPI通脹資料時，將不會提供12個月CPI（同比）與核心CPI資料。"
-    },
-    {
-      "id": "5204132",
-      "time": "2026-11-10 03:10:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Fable 5.2的網路安全與生物安全防護措施與Fable 5.1同樣穩健。"
-    },
-    {
-      "id": "5204131",
-      "time": "2026-11-10 03:10:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Claude Fable 5.2與Mythos 5.2的每百萬輸入詞元收費8美元，每百萬輸出詞元收費40美元，低於此前的10美元和50美元。"
-    },
-    {
-      "id": "5204130",
-      "time": "2026-11-10 03:08:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Claude Fable 5.2和Mythos 5.2還提供可選快速模式，每百萬輸入詞元16美元，每百萬輸出詞元80美元。"
-    },
-    {
-      "id": "5204129",
-      "time": "2026-11-10 03:07:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部預測，2027/28年度美國玉米種植面積為9550萬英畝，產量為160.25億蒲式耳。\n2027/28年度美國大豆種植面積為8750萬英畝，大豆產量為46.35億蒲式耳。\n2027/28年度美國小麥種植面積為4400萬英畝，產量為17.92億蒲式耳。"
-    },
-    {
-      "id": "5204128",
-      "time": "2026-11-10 03:07:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國眾議院提出針對美國國防部長赫格塞斯的彈劾條款。"
     }
   ]
 }
