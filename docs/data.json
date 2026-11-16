@@ -1,7 +1,73 @@
 {
-  "updated": "2026-11-17 04:02:42",
-  "count": 10026,
+  "updated": "2026-11-17 04:06:24",
+  "count": 10032,
   "items": [
+    {
+      "id": "mkt:01a1e5f7-42c8-7bbc-ac05-6058f0349cf5",
+      "time": "2026-11-17 04:05:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Minister Araghchi has arrived in Muscat, Oman, IRNA reports."
+    },
+    {
+      "id": "mkt:01a1e5f5-cd6b-7bbc-ac05-5ff2207e4cd6",
+      "time": "2026-11-17 04:04:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "RBNZ Financial Stability Report: Global financial stability risks continue to rise, increasing the likelihood of a major shock to New Zealand."
+    },
+    {
+      "id": "5218549",
+      "time": "2026-11-17 04:03:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行金融穩定報告：全球金融穩定風險持續上升，增加了紐西蘭遭受重大沖擊的可能性。"
+    },
+    {
+      "id": "5218548",
+      "time": "2026-11-17 04:03:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "亨廷頓英格爾斯：五年期生產合同總潛在價值超過3.47億美元。"
+    },
+    {
+      "id": "mkt:01a1e5f4-6a2d-7bbc-ac05-5144fab6a956",
+      "time": "2026-11-17 04:02:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Financial Stability Report: Domestic financial stress has broadly eased from last year’s peak, but remains uneven."
+    },
+    {
+      "id": "mkt:01a1e5f4-6450-7bbc-ac05-4934c6dac941",
+      "time": "2026-11-17 04:02:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "The RBNZ’s Financial Stability Report says rising government bond yields and still-elevated valuations, particularly among AI-related firms, leave markets vulnerable to a correction."
+    },
+    {
+      "id": "5218547",
+      "time": "2026-11-17 04:02:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行金融穩定報告：國內金融壓力已從去年的峰值普遍緩解，但仍不均衡。"
+    },
     {
       "id": "5218546",
       "time": "2026-11-17 04:02:01",
@@ -90997,14 +91063,6 @@
         "國際"
       ],
       "text": "美國財政部最新雙週報告顯示，海外投資者對7年期美債的購買額升至61.82億美元，高於前一月的40.90億美元；5年期購買額升至83.08億美元，高於此前的73.70億美元，2年期購買額降至69.55億美元，低於此前的82.41億美元。投資基金方面，7年期美債購買額升至328.71億美元，高於此前的323.12億美元；5年期升至524.91億美元，高於此前的492.24億美元；2年期升至504.75億美元，高於此前的494.23億美元。"
-    },
-    {
-      "id": "5204177",
-      "time": "2026-11-10 04:05:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "據訊息人士稱，黃仁勳計劃參加Semafor舉辦的“矽谷與世界”活動。"
     }
   ]
 }
