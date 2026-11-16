@@ -1,7 +1,156 @@
 {
-  "updated": "2026-11-16 16:40:47",
-  "count": 9946,
+  "updated": "2026-11-16 16:44:31",
+  "count": 9963,
   "items": [
+    {
+      "id": "mkt:01a1e386-f411-7bbc-abf6-64ca00c0ddee",
+      "time": "2026-11-16 16:43:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Morgan Stanley bullish on Japanese equities, sees TOPIX at 4,800 by Dec 2027】Morgan Stanley strategists say Japanese equities could be supported by re-flation, corporate governance gains, a capex cycle and higher retail participation via Japan’s tax‑exempt individual investment schemes. With nominal GDP growth and listed companies’ ROE expected to improve in tandem, the firm projects TOPIX at 4,800 by December 2027; the index closed at 3,901.37 on Monday."
+    },
+    {
+      "id": "mkt:01a1e386-6bec-7bbc-abf6-5c4636c493e8",
+      "time": "2026-11-16 16:43:19",
+      "tags": [
+        "MKT News",
+        "06651.HK"
+      ],
+      "text": "Wuyi Vision (06651.HK) launched a plan to undertake an IPO of RMB-denominated ordinary shares and list on the Shenzhen Stock Exchange."
+    },
+    {
+      "id": "mkt:01a1e386-610c-7bbc-abf6-52fd4afff15a",
+      "time": "2026-11-16 16:43:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said it will never allow Hezbollah to harm Israeli civilians or soldiers. Under established protocols the IDF will remain deployed in the area, continue operations to eliminate threats, and firmly comply with the ceasefire agreement."
+    },
+    {
+      "id": "5217391",
+      "time": "2026-11-16 16:43:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海建工：子公司競得天津濱海新區一宗居住用地使用權】上海建工公告稱，公司下屬子公司天津華廈建設發展股份有限公司競得天津市濱海新區津濱生(掛)2026-2號地塊國有建設用地使用權，已取得掛牌地塊成交確認書。該地塊位於中新天津生態城臨海新城區域，土地面積14428.1平方米，規劃為居住用地，容積率1.5，建築面積不超過21642.1平方米，成交總價1.08億元，投資納入公司2026年度投資計劃額度內。本次拿地符合公司房產業務發展策略，有助於推動主營業務發展。"
+    },
+    {
+      "id": "5217390",
+      "time": "2026-11-16 16:43:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【復星醫藥：控股子公司藥品獲臨床試驗批准】復星醫藥公告稱，公司控股子公司成都星睿菁烜生物科技有限公司收到國家藥監局關於同意[18F]F-SR031注射液（SRT-003-1）用於實體瘤患者成纖維細胞活化蛋白陽性病灶正電子發射斷層掃描顯像的臨床試驗批准，擬於條件具備後在中國境內開展I期臨床研究。SRT-003-1系靶向FAP的放射性體內診斷藥物，截至2026年10月，集團針對該藥品累計研發投入約0.25億元（未經審計）。目前中國境內尚無靶向FAP的放射性診斷藥物獲批上市，該藥品後續研發及上市存在不確定性。"
+    },
+    {
+      "id": "mkt:01a1e386-2280-7bbc-abf6-4f463cb5abe4",
+      "time": "2026-11-16 16:43:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The Israel Defense Forces said Hezbollah continues terrorist activity, arms smuggling and personnel movements across multiple areas of Lebanon, breaching agreements and threatening Israeli national security."
+    },
+    {
+      "id": "5217389",
+      "time": "2026-11-16 16:42:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：週一夜間，以色列空軍在敘利亞與黎巴嫩邊境的賈恩塔地區打擊了一批武器。"
+    },
+    {
+      "id": "5217388",
+      "time": "2026-11-16 16:42:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林公共檢察院：巴林一家法院以與伊朗革命衛隊有關聯為由，判處被告15年至終身監禁。"
+    },
+    {
+      "id": "5217387",
+      "time": "2026-11-16 16:42:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "穆迪評級將日本菸草的評級展望從穩定調整為負面，同時確認其A2評級。"
+    },
+    {
+      "id": "5217386",
+      "time": "2026-11-16 16:42:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "北京五一視界數字孿生科技-啟動人民幣普通股首次公開發行並在深圳證券交易所上市的計劃。"
+    },
+    {
+      "id": "5217385",
+      "time": "2026-11-16 16:42:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超3.00%，現報3.496美元/百萬英熱。"
+    },
+    {
+      "id": "5217384",
+      "time": "2026-11-16 16:41:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立霸股份：擬登出255.01萬股回購股份並減少註冊資本】立霸股份公告稱，公司2026年第三次臨時股東會審議透過相關議案，將回購專用證券賬戶中2,550,096股（佔總股本0.96%）股份用途由員工持股計劃或股權激勵變更為登出並減少註冊資本。本次登出完成後，公司總股本將由266,327,839股減至263,777,743股，註冊資本相應減少。公司債權人自接到通知起30日內、未接到通知者自公告披露之日起45日內可申報債權，有權要求公司清償債務或提供相應擔保。"
+    },
+    {
+      "id": "5217383",
+      "time": "2026-11-16 16:41:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利國家銀行（NBH）的庫拉利表示，在加入ERM-2之前，該行不會重新審視通脹目標。"
+    },
+    {
+      "id": "5217382",
+      "time": "2026-11-16 16:40:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和而泰：非公開發行科創可交換債申請獲深交所受理】和而泰公告稱，公司收到深交所受理通知，深交所對公司2026年面向專業投資者非公開發行科技創新可交換公司債券的掛牌條件確認申請予以受理。本次非公開發行科技創新可交換公司債券尚需深交所稽核透過並出具無異議函，能否稽核透過尚存在不確定性，公司將根據事項進展及時履行資訊披露義務，敬請廣大投資者注意投資風險。"
+    },
+    {
+      "id": "mkt:01a1e384-18b0-7bbc-abf6-446b951a0e83",
+      "time": "2026-11-16 16:40:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China NEA publishes pilot list for high-quality geothermal development and utilization】China's National Energy Administration (NEA) Comprehensive Department has published a notice publicizing a proposed list of pilots for high-quality geothermal development and utilization. Under the NEA's organizing notice (Guoneng Zongtong Xin Neng [2026] No.55), applications were assessed by a third party and 47 pilots, including Beijing's Daxing district, are proposed for support."
+    },
+    {
+      "id": "5217381",
+      "time": "2026-11-16 16:40:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金開新能：補充說明與關聯方共同收購股權及煤電專案事項】金開新能公告稱，就此前披露的與關聯方共同收購貴陽能源集團赫章電力有限公司股權並投資建設威赫煤電專案的關聯交易事項補充說明。本次出資由股權收購對價、履行承債、補足實繳出資、共同增資四部分構成，標的專案資本金總額16.02億元，公司全資子公司金開貴州按60%持股比例對應出資9.61億元，若其他投資方縮減收購比例，金開貴州收購比例最高可提至100%，公司出資總額最高不超過16.02億元。其他收購方中城基金、國鑫海河基金將按相同機制參與交易。"
+    },
+    {
+      "id": "5217380",
+      "time": "2026-11-16 16:40:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【方大炭素新設檢測科技公司 含AI相關業務】企查查APP顯示，近日，蘭州方大炭材檢測科技有限公司成立，經營範圍包含：新興能源技術研發；人工智慧公共服務平臺技術諮詢服務；自然科學研究和試驗發展；貿易經紀等。企查查股權穿透顯示，該公司由方大炭素全資持股。"
+    },
     {
       "id": "5217379",
       "time": "2026-11-16 16:39:48",
