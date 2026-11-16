@@ -1,7 +1,84 @@
 {
-  "updated": "2026-11-17 03:14:14",
-  "count": 9990,
+  "updated": "2026-11-17 03:17:59",
+  "count": 9993,
   "items": [
+    {
+      "id": "mkt:01a1e5ca-01c5-7bbc-ac04-9776c3526acc",
+      "time": "2026-11-17 03:16:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Hammack: The labor market is broadly balanced but lacks dynamism."
+    },
+    {
+      "id": "5218501",
+      "time": "2026-11-17 03:15:58",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：就業市場大體保持平衡，但缺乏活力。"
+    },
+    {
+      "id": "5218500",
+      "time": "2026-11-17 03:15:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：我們看到勞動力市場總體處於平衡狀態。"
+    },
+    {
+      "id": "mkt:01a1e5c8-f3b6-7bbc-ac04-88de32e57c55",
+      "time": "2026-11-17 03:15:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Fed's Hammack: Concerned businesses are becoming more accepting of price increases."
+    },
+    {
+      "id": "mkt:01a1e5c8-5e9a-7bbc-ac04-830398b9022f",
+      "time": "2026-11-17 03:14:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Hammack: Businesses are passing through more price increases."
+    },
+    {
+      "id": "5218499",
+      "time": "2026-11-17 03:14:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：企業正在更多地轉嫁成本，以保護利潤率。"
+    },
+    {
+      "id": "5218498",
+      "time": "2026-11-17 03:13:47",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：擔心企業更能接受價格上漲。"
+    },
     {
       "id": "5218497",
       "time": "2026-11-17 03:13:30",
@@ -90575,43 +90652,6 @@
         "國際"
       ],
       "text": "【伊朗外交部：伊方“兩日計劃”仍有效 美國應認真考慮】伊朗外交部發言人巴加埃9日就地區局勢、伊美關係等舉行釋出會。巴加埃強調，伊朗提出的“兩日計劃”仍有效，該方案旨在恢復霍爾木茲海峽和波斯灣的安全，美國應認真考慮。伊朗外交部發言人 巴加埃表示，如果美國滿足伊朗提出的要求，該地區局勢有望在短短兩天內出現積極轉變，霍爾木茲海峽的安全也可能得以恢復。之所以稱該提議為最合乎邏輯的方案，是因為它不僅有望為恢復霍爾木茲海峽及波斯灣的安全鋪平道路，還能為後續的外交程序奠定基礎。針對美國國務卿魯比奧8日指責伊朗方面的要求“不僅令人無法接受，而且在某些情況下根本不切實際”。巴加埃表示，維護伊朗人民的權利和利益並不是“不合理的要求”。美國必須在啟動任何談判程序之前，停止非法制裁、海上封鎖以及在所有戰線上的戰爭。針對伊朗核問題，巴加埃表示，伊朗仍是《不擴散核武器條約》締約國，並沒有暫停履行自身義務。但美國和以色列襲擊伊朗核設施，使相關機構的監督無法正常實施。國際原子能機構必須追究美以責任。(央視新聞)"
-    },
-    {
-      "id": "5204144",
-      "time": "2026-11-10 03:16:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟經濟事務委員東布羅夫斯基斯：將繼續支援歐盟輪值主席國愛爾蘭就菸草稅達成協議。"
-    },
-    {
-      "id": "te:markets:599720",
-      "time": "2026-11-10 03:15:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "TE Grains Index Hits 12-week Low — TE Grains Index decreased to 264.21 Index Points, the lowest since August 2026. Over the past 4 weeks, TE Grains Index lost 7.42%, and in the last 12 months, it increased 13.19%."
-    },
-    {
-      "id": "5204143",
-      "time": "2026-11-10 03:14:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：需要更多談論人工智慧對經濟的擾亂。"
-    },
-    {
-      "id": "5204142",
-      "time": "2026-11-10 03:14:19",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "愛爾蘭財政部長：歐盟27個成員國中有26個同意有必要對菸草製品實行最低稅收。"
     }
   ]
 }

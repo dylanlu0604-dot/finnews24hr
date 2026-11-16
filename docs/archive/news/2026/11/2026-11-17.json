@@ -1,7 +1,84 @@
 {
   "date": "2026-11-17",
-  "count": 197,
+  "count": 204,
   "items": [
+    {
+      "id": "mkt:01a1e5ca-01c5-7bbc-ac04-9776c3526acc",
+      "time": "2026-11-17 03:16:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Hammack: The labor market is broadly balanced but lacks dynamism."
+    },
+    {
+      "id": "5218501",
+      "time": "2026-11-17 03:15:58",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：就業市場大體保持平衡，但缺乏活力。"
+    },
+    {
+      "id": "5218500",
+      "time": "2026-11-17 03:15:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：我們看到勞動力市場總體處於平衡狀態。"
+    },
+    {
+      "id": "mkt:01a1e5c8-f3b6-7bbc-ac04-88de32e57c55",
+      "time": "2026-11-17 03:15:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Fed's Hammack: Concerned businesses are becoming more accepting of price increases."
+    },
+    {
+      "id": "mkt:01a1e5c8-5e9a-7bbc-ac04-830398b9022f",
+      "time": "2026-11-17 03:14:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Hammack: Businesses are passing through more price increases."
+    },
+    {
+      "id": "5218499",
+      "time": "2026-11-17 03:14:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：企業正在更多地轉嫁成本，以保護利潤率。"
+    },
+    {
+      "id": "5218498",
+      "time": "2026-11-17 03:13:47",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：擔心企業更能接受價格上漲。"
+    },
     {
       "id": "5218497",
       "time": "2026-11-17 03:13:30",
