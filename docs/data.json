@@ -1,7 +1,115 @@
 {
-  "updated": "2026-11-16 09:55:57",
-  "count": 9897,
+  "updated": "2026-11-16 09:59:46",
+  "count": 9900,
   "items": [
+    {
+      "id": "5216650",
+      "time": "2026-11-16 09:58:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "宇樹科技大跌5.6%，股價最新報657元，總市值2657億元。"
+    },
+    {
+      "id": "mkt:01a1e213-f396-7bbc-abec-8754418aefcc",
+      "time": "2026-11-16 09:58:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "Shenzhen Composite Index fell as much as 2% intraday; China's Shanghai Composite Index was down 1.03% and the STAR 50 extended losses to about 4%. Stocks tied to lithography equipment, CPO, memory chips and broader semiconductor concepts led declines."
+    },
+    {
+      "id": "5216649",
+      "time": "2026-11-16 09:58:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創50指數跌幅擴大至4%】科創50指數跌幅擴大至4%，現報1227.67點。"
+    },
+    {
+      "id": "mkt:01a1e213-6154-7bbc-abec-7ca2c1a2ccbd",
+      "time": "2026-11-16 09:58:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China's lithium carbonate main futures contract fell more than 4.00% intraday to 87,900 yuan/ton."
+    },
+    {
+      "id": "mkt:01a1e213-1e74-7bbc-abec-7643031d140a",
+      "time": "2026-11-16 09:57:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump posted on social media a Department of Justice letter to Senator Elizabeth Warren asking her to preserve certain records."
+    },
+    {
+      "id": "5216647",
+      "time": "2026-11-16 09:57:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報87900.00元。"
+    },
+    {
+      "id": "5216646",
+      "time": "2026-11-16 09:57:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.00%，現報10748.980點；上證指數跌1.02%，現報3597.417點；創業板指跌3.08%，現報2351.408點。"
+    },
+    {
+      "id": "mkt:01a1e212-2820-7bbc-abec-6df5b8ee2464",
+      "time": "2026-11-16 09:56:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "ChiNext index fell 3% intraday; STAR 50 (Sci‑Tech Innovation Board 50) decline widened to 3.72%."
+    },
+    {
+      "id": "5216645",
+      "time": "2026-11-16 09:56:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普在Truth Social釋出司法部致參議員伊麗莎白·沃倫的一封信，信中要求她保留某些記錄。"
+    },
+    {
+      "id": "5216644",
+      "time": "2026-11-16 09:55:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌3.01%，現報2353.007點；上證指數跌0.96%，現報3599.561點；深證成指跌1.94%，現報10755.832點。"
+    },
+    {
+      "id": "5216643",
+      "time": "2026-11-16 09:55:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭板塊震盪拉昇 安泰集團逼近漲停】煤炭板塊震盪拉昇，安泰集團逼近漲停，鄭州煤電、兗礦能源、昊華能源、雲煤能源跟漲。"
+    },
     {
       "id": "5216642",
       "time": "2026-11-16 09:55:12",
@@ -90110,73 +90218,6 @@
         "Importance 2"
       ],
       "text": "Gold Advances on Softer Oil Prices — Gold climbed above $4,100 per ounce on Monday, extending last week’s gains as weaker oil prices eased inflationary pressures, although expectations of a more hawkish Federal Reserve capped further upside. Oil prices remained under pressure after President Donald Trump said it was “highly unlikely” he would authorize additional strikes on Iran if negotiations over its nuclear program and the reopening of the Strait of Hormuz make significant progress. Meanwhile, US data released on Friday showed that job growth accelerated in October, while the unemployment rate declined to 4.1%, highlighting the resilience of the labor market and strengthening expectations of a potential Fed rate hike in December. Markets are now pricing in an approximately 81% probability of a quarter-point rate increase before year-end, up from 71% ahead of the employment report. Investors are now turning their attention to key US inflation data due this week for further clues on the Fed’s monetary policy direction."
-    },
-    {
-      "id": "5202009",
-      "time": "2026-11-09 09:59:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中創新航等成立綠動科技公司 含電池製造業務】企查查APP顯示，近日，凱博綠動科技（江門）有限公司成立，經營範圍包含：儲能技術服務；電池製造；電池銷售；資訊系統整合服務；蓄電池租賃等。企查查股權穿透顯示，該公司由中創新航等共同持股。"
-    },
-    {
-      "id": "5202008",
-      "time": "2026-11-09 09:59:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "滙豐銀行將印度股票評級上調至“增持”。"
-    },
-    {
-      "id": "5202007",
-      "time": "2026-11-09 09:57:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "AKR Corporindo 從英國石油手中收購了 Aneka Petroindo 49.9% 的股權。"
-    },
-    {
-      "id": "5202006",
-      "time": "2026-11-09 09:57:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量1357億元。"
-    },
-    {
-      "id": "5202005",
-      "time": "2026-11-09 09:57:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【創新藥概念震盪反彈 萊美藥業漲超15%】創新藥概念盤中震盪反彈，萊美藥業漲超15%，昭衍新藥、美迪西、成都先導、榮昌生物、近岸蛋白漲幅靠前。訊息面上，百濟神州公告稱，預計2026年度營業收入將介於人民幣463億元至470億元之間，較此前預測的449億元至462億元有所上調。此前中國生物製藥公告與跨國藥企勃林格殷格翰（BI）簽署戰略選擇權及許可協議，總交易金額高達約70億美元，涵蓋6個臨床前腫瘤資產（ADC與TCE）。"
-    },
-    {
-      "id": "5202004",
-      "time": "2026-11-09 09:56:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以防長稱將先發制人消除威脅】以色列國防部長卡茨11月8日稱，以色列“對伊朗的任務尚未完成”。以防長稱將先發制人消除威脅卡茨說，伊朗正試圖“重啟獲取核武器的程序”，同時還在進行“其他嚴重威脅以色列安全的活動”。以方不能接受，並將“採取必要行動”。不過，卡茨並未提供任何證據證明上述威脅，也沒有說明將採取哪些具體行動。卡茨還稱，以色列將“先發制人”消除威脅。以色列軍隊不會從其佔領的加沙地帶、黎巴嫩和敘利亞部分地區撤軍，如果黎巴嫩真主黨與伊朗聯手襲擊以色列，將面臨“嚴厲打擊”。(CCTV國際時訊)"
-    },
-    {
-      "id": "5202003",
-      "time": "2026-11-09 09:56:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【王健林接任大連萬達商管集團董事長】企查查APP顯示，近日，大連萬達商業管理集團股份有限公司發生工商變更，陳洪濤卸任董事長，由王健林接任，同時公司多名主要人員發生職務變更。 該公司成立於2002年9月，法定代表人陳洪濤，註冊資本271.64億元，經營範圍包含建設工程設計、代理記賬、商業綜合體管理服務，非居住房地產租賃、企業管理諮詢等，由大連萬達集團股份有限公司、王健林等共同持股。"
-    },
-    {
-      "id": "5202002",
-      "time": "2026-11-09 09:56:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
     }
   ]
 }
