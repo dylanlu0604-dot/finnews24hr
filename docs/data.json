@@ -1,7 +1,79 @@
 {
-  "updated": "2026-11-17 03:03:04",
-  "count": 9970,
+  "updated": "2026-11-17 03:06:47",
+  "count": 9973,
   "items": [
+    {
+      "id": "5218478",
+      "time": "2026-11-17 03:06:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "老虎環球基金第三季度增持RACE、BSP、XNDU。"
+    },
+    {
+      "id": "5218477",
+      "time": "2026-11-17 03:05:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "老虎環球第三季度清倉中陽金融、Applied Digital、Cipher Mining和Core Scientific。"
+    },
+    {
+      "id": "5218476",
+      "time": "2026-11-17 03:05:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "老虎環球第三季度減持谷歌、臺積電、泛林集團、應用材料和Spotify。"
+    },
+    {
+      "id": "5218475",
+      "time": "2026-11-17 03:05:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "老虎環球管理有限責任公司減持Meta A類股20.4%，至220萬股。"
+    },
+    {
+      "id": "5218474",
+      "time": "2026-11-17 03:05:15",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "市場資訊：由於美聯儲繼續加息，預計黃金價格近期將面臨下行風險和高波動性。"
+    },
+    {
+      "id": "mkt:01a1e5bf-a059-7bbc-ac04-0d7f10fbb0b5",
+      "time": "2026-11-17 03:05:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Cleveland Fed President Beth Hammack, a 2026 FOMC voter, is due to speak in 10 minutes."
+    },
+    {
+      "id": "5218473",
+      "time": "2026-11-17 03:04:26",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "老虎環球管理公司向美國證券交易委員會提交的檔案顯示，其將所持英偉達股票增持7.2%，至1200萬股。"
+    },
+    {
+      "id": "5218472",
+      "time": "2026-11-17 03:03:41",
+      "tags": [
+        "央行",
+        "觀點"
+      ],
+      "text": "高盛預計，由於各國央行持續購金，到2027年底金價將逐步攀升至每盎司4650美元。"
+    },
     {
       "id": "5218471",
       "time": "2026-11-17 03:02:13",
@@ -90327,51 +90399,6 @@
         "國際"
       ],
       "text": "美國眾議院提出針對美國國防部長赫格塞斯的彈劾條款。"
-    },
-    {
-      "id": "te:markets:599719",
-      "time": "2026-11-10 03:06:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Wall Street Rebounds on Tech Dip Buying — US stock indices closed higher on Monday from last week’s rout as renewed dip buying drove the market toward its best day since April. The S&P 500 gained 2.3%, the Dow rallied 1,104 points, and the Nasdaq outperformed with a gain of 2.7%. Chipmakers rallied after Friday’s plunge, when Democrats took control of Congress and drove markets to speculate on lower returns for AI companies, compounding concerns that the sector’s growth was slowing. AMD (+13.3%) was upgraded to outperform at Oppenheimer. Broadcom surged 8.8%, Lam Research soared 10.4%, Micron jumped 6.2%, and Applied Materials climbed 11.4% ahead of its earnings this week. In contrast, Nvidia lost 4.3% after CEO Jensen Huang admitted to an affair with a suspected Chinese spy, potentially prompting Congress to tighten export controls on its chips. Among hyperscalers, Alphabet (+1.2%) is rolling out a broader array of AI chips. Meta jumped 5.1%, Microsoft rose 2.7%, and Amazon added 2.9%."
-    },
-    {
-      "id": "5204127",
-      "time": "2026-11-10 03:05:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：德國、英國和法國官員也在阿布扎比。"
-    },
-    {
-      "id": "5204126",
-      "time": "2026-11-10 03:04:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：烏克蘭問題是明日七國集團會談的議程之一。"
-    },
-    {
-      "id": "5204125",
-      "time": "2026-11-10 03:04:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國共和黨眾議員Thomas Massie：我將在美東時間下午3點30分左右、也就是宣讀彈劾條款後立即在眾議院三角地舉行新聞釋出會。"
-    },
-    {
-      "id": "5204124",
-      "time": "2026-11-10 03:03:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：符合條件的客戶還可透過AWS Marketplace獲取面向醫療健康的ChatGPT和麵向金融服務的ChatGPT。"
     }
   ]
 }
