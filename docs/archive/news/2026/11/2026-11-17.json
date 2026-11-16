@@ -1,7 +1,57 @@
 {
   "date": "2026-11-17",
-  "count": 245,
+  "count": 251,
   "items": [
+    {
+      "id": "5218533",
+      "time": "2026-11-17 03:36:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "嘉信理財和Robinhood股價下跌。"
+    },
+    {
+      "id": "5218532",
+      "time": "2026-11-17 03:35:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "Kalshi收購券商FB Securities。"
+    },
+    {
+      "id": "mkt:01a1e5da-f3ac-7bbc-ac05-19d100626aea",
+      "time": "2026-11-17 03:34:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal reported, citing people familiar with the matter, that prediction market Kalshi acquired New York-based boutique brokerage FB Securities in July and plans to launch stock trading within the next two months."
+    },
+    {
+      "id": "5218531",
+      "time": "2026-11-17 03:34:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Kalshi將在未來兩個月內推出股票和ETF交易。"
+    },
+    {
+      "id": "5218530",
+      "time": "2026-11-17 03:34:29",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "Kalshi收購一家證券公司，以拓展股票交易業務。"
+    },
+    {
+      "id": "5218529",
+      "time": "2026-11-17 03:34:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Kalshi計劃建立一個多資產金融交易所。"
+    },
     {
       "id": "mkt:01a1e5d8-4f28-7bbc-ac05-16677ea03538",
       "time": "2026-11-17 03:32:00",
