@@ -1,7 +1,260 @@
 {
-  "updated": "2026-11-16 09:37:11",
-  "count": 9869,
+  "updated": "2026-11-16 09:40:53",
+  "count": 9896,
   "items": [
+    {
+      "id": "mkt:01a1e203-583c-7bbc-abeb-eda81e1568e7",
+      "time": "2026-11-16 09:40:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-shares CPO sector extended losses; Zhongji Xuchuang, Xinyisheng and Robotec fell more than 5%, while Tian'an New Materials, Zhongshi Technology and Juguang Technology also slipped."
+    },
+    {
+      "id": "mkt:01a1e203-3bb0-7bbc-abeb-e4726d97ea85",
+      "time": "2026-11-16 09:40:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Preview: State Council press briefing on advancing recycled-resources recovery system on Nov 17】State Council Information Office will hold a press briefing at 3:00pm on Tuesday, Nov. 17, 2026. MOFCOM assistant minister Yuan Xiaoming, and officials from the Ministry of Ecology and Environment, Ministry of Housing and Urban‑Rural Development and the All‑China Federation of Supply and Marketing Cooperatives will brief on advancing the recycled‑resources recovery system and take questions."
+    },
+    {
+      "id": "5216617",
+      "time": "2026-11-16 09:40:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人板塊走低 永臻股份跌停】人形機器人板塊走低，永臻股份跌停，日盈電子、僑銀股份、飛亞達跟跌。"
+    },
+    {
+      "id": "5216616",
+      "time": "2026-11-16 09:40:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CPO板塊持續下挫】CPO板塊持續下挫，中際旭創、新易盛、羅博特科均跌超5%，天安新材、中石科技、炬光科技跟跌。"
+    },
+    {
+      "id": "5216615",
+      "time": "2026-11-16 09:40:03",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【預告：國新辦將於11月17日舉行新聞釋出會 介紹深入推進再生資源回收體系建設有關情況】國務院新聞辦公室將於2026年11月17日（星期二）下午3時舉行新聞釋出會，請商務部部長助理袁曉明和生態環境部、住房城鄉建設部、全國供銷合作總社有關負責人介紹深入推進再生資源回收體系建設有關情況，並答記者問。"
+    },
+    {
+      "id": "5216614",
+      "time": "2026-11-16 09:39:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌1%，現報904.00元。"
+    },
+    {
+      "id": "5216613",
+      "time": "2026-11-16 09:39:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.10%，成分股中，諾思蘭德跌7.99%，蘅東光跌7.21%，科力股份跌5.03%，並行科技跌3.48%。"
+    },
+    {
+      "id": "mkt:01a1e202-1d9f-7bbc-abeb-dd0f66809959",
+      "time": "2026-11-16 09:39:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "China's CSI 1000 index futures (IM) most-active contract fell 2.00% intraday to 6,167.0."
+    },
+    {
+      "id": "5216612",
+      "time": "2026-11-16 09:39:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數跌1.00%，現報3597.929點；深證成指跌1.49%，現報10804.990點；創業板指跌2.18%，現報2373.152點。"
+    },
+    {
+      "id": "mkt:01a1e201-df4e-7bbc-abeb-d0d377f674b9",
+      "time": "2026-11-16 09:38:55",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-share small-metals sector extended declines; Zhongxi Rare Metals hit limit-down. Shenghe Resources, Huayang New Materials, Orient Tantalum, Northern Rare Earth and Guocheng Mining also fell."
+    },
+    {
+      "id": "5216611",
+      "time": "2026-11-16 09:38:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【房屋租賃板塊走弱，深物業A跌停】房屋租賃板塊走弱，深物業A跌停，*ST皇庭、東易日盛、金螳螂、世聯行、*ST三六、我愛我家等跟跌。"
+    },
+    {
+      "id": "mkt:01a1e201-bbb9-7bbc-abeb-cd9714735abf",
+      "time": "2026-11-16 09:38:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "09926.HK",
+        "Impact bearish",
+        "09995.HK",
+        "01548.HK"
+      ],
+      "text": "Hong Kong-listed healthcare stocks fell: Kangfang Biologics (09926.HK) down 24.54%, Rongchang Biotech (09995.HK) down over 5%, and GenScript Biotech (01548.HK) down 3.88%."
+    },
+    {
+      "id": "5216610",
+      "time": "2026-11-16 09:38:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣東電網釋出最佳化營商環境12項舉措 3個案例入選國家能源局典型案例】《經濟參考報》11月16日刊發文章《廣東電網釋出最佳化營商環境12項舉措 3個案例入選國家能源局典型案例》。文章稱，11月9日，南方電網廣東電網釋出公司服務品牌、最佳化用電營商環境及支援算力產業高質量發展12項舉措，聚焦市場主體和人民群眾用電的“急難愁盼”，細化做好新形勢、新要求下最佳化用電營商環境工作，加快提升“獲得電力”服務水平。同日，國家能源局綜合司公佈《現代化用電營商環境“三個一批”建設典型案例清單》，全國共74個案例入選，廣東電網佔據3席。其中，佛山供電局入選“先進地區”典型案例，珠海橫琴供電局、潮州湘橋供電局分別入選“特色城鎮和鄉村”典型案例。"
+    },
+    {
+      "id": "5216609",
+      "time": "2026-11-16 09:38:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【小金屬板塊持續走低，中稀有色跌停】小金屬板塊持續走低，中稀有色跌停，盛和資源、華陽新材、東方鉭業、北方稀土、國城礦業等跟跌。"
+    },
+    {
+      "id": "5216608",
+      "time": "2026-11-16 09:38:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.02%，現報2377.095點；上證指數跌0.93%，現報3600.656點；深證成指跌1.37%，現報10818.691點。"
+    },
+    {
+      "id": "mkt:01a1e201-406b-7bbc-abeb-c55a89a03878",
+      "time": "2026-11-16 09:38:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000333.SZ",
+        "Impact bullish"
+      ],
+      "text": "On the A-share market, Midea Group's intraday share price hit a record high, trading up 0.81% at 91.28 yuan; market capitalization was 688.59 billion yuan."
+    },
+    {
+      "id": "5216607",
+      "time": "2026-11-16 09:38:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "mkt:01a1e201-2286-7bbc-abeb-bafa3b19c9be",
+      "time": "2026-11-16 09:38:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "CSI Convertible Bond Index opened 0.22% lower. Leading decliners: Huicheng CB -20.00%, Jizhi CB -1.95%, Aoshi CB -1.91%, Qianhong CB -1.83%, Guowei CB -1.75%. Top gainers: N Hangya CB +30.00%, Shengde CB +4.15%, Fengmao CB +2.85%, Paike CB +2.49%, Sanjiang CB +2.48%."
+    },
+    {
+      "id": "5216606",
+      "time": "2026-11-16 09:38:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【燃氣板塊重挫，東方環宇、洪通燃氣雙雙跌停】燃氣板塊重挫，東方環宇、洪通燃氣雙雙跌停，勝通能源、水發燃氣、長春燃氣、新疆火炬、國新能源跟跌。"
+    },
+    {
+      "id": "5216605",
+      "time": "2026-11-16 09:37:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【駐宋卡總領館提醒密切留意泰南邊境五府社會治安形勢】近期，泰南邊境五府社會治安不靖。11月9日以來，不明武裝分子在也拉府多地實施爆炸和縱火，宋卡府、沙敦府接連發生針對電線杆的炸彈襲擊，造成有學生受傷，部分公共基礎設施和民眾財產受損。對此，泰國總理阿努廷已緊急召見國家警察總長和國安委秘書長，部署維安措施。泰國內政部、泰國內部安全行動司令部第四軍區前線指揮部、宋卡府等採取系列舉措，提高安全響應等級，強化對重要部位、重大活動和重點公共基礎設施的安全防護。馬來西亞琉璃市州也提醒邊境商家與往來民眾提高警惕。駐宋卡總領館提醒在泰南邊境五府的中國公民和中資機構，密切留意本地社會治安形勢，遵從官方指導和要求，增強防範意識，遠離可疑人、事、物，確保個人人身安全。如遇緊急情況，請及時報警並向總領館尋求協助。"
+    },
+    {
+      "id": "mkt:01a1e200-d766-7bbc-abeb-b61edc8589ac",
+      "time": "2026-11-16 09:37:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Li Chenggang meets Atlantic Council president and CEO Kemp】MOFCOM said on the afternoon of Nov. 13 China’s minister-level international trade negotiator and Vice Minister of Commerce Li Chenggang met Atlantic Council president and CEO Kemp to discuss China–US economic and trade relations."
+    },
+    {
+      "id": "5216604",
+      "time": "2026-11-16 09:37:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西安投資控股有限公司原總經理趙泉接受審查調查】據西安市紀委監委訊息，西安投資控股有限公司原總經理趙泉涉嫌嚴重違紀違法，目前正接受西安市紀委監委駐市財政局紀檢監察組紀律審查和西安市閻良區監察委員會監察調查。"
+    },
+    {
+      "id": "5216603",
+      "time": "2026-11-16 09:37:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美的集團股價創歷史新高】美的集團盤中股價創歷史新高，現漲0.81%，報91.28元，總市值為6885.89億元。"
+    },
+    {
+      "id": "5216602",
+      "time": "2026-11-16 09:37:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創業板指跌逾2%，全市場下跌個股超5000只】11月16日上午，創業板指跌逾2%，上證指數跌0.97%，深證成指跌1.39%。滬深京三市下跌個股超5000只。"
+    },
+    {
+      "id": "5216601",
+      "time": "2026-11-16 09:36:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠城環保：控股股東、實控人張新功被監察機關留置】 惠城環保(300779)11月16日早間公告，公司近日收到公司控股股東、實控人、董事張新功家屬的通知，稱其近日收到相關監察機關的通知，張新功被實施留置。公司尚未知悉上述事項的進展及結論。"
+    },
+    {
+      "id": "mkt:01a1e200-0a65-7bbc-abeb-accfbaf97a15",
+      "time": "2026-11-16 09:36:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【NBS: October new‑home prices flat in first‑tier cities; second‑ and third‑tier cities fall MoM】China National Bureau of Statistics: October new‑home sales prices in first‑tier cities were flat MoM (from +0.1% in Sept). Shanghai +0.2%, Shenzhen +0.1%, Guangzhou 0.0%, Beijing -0.1%. Second‑tier new‑home prices -0.1% MoM (from 0.0%); third‑tier new‑home prices -0.2% MoM (unchanged). Among 70 major cities, 14 saw MoM increases in new‑home prices, down three from last month. First‑tier resale (second‑hand) prices +0.2% MoM (same as Sept): Shanghai +0.5%, Guangzhou +0.2%, Shenzhen +0.1%, Beijing 0.0%. Second‑tier resale -0.3% MoM, down 0.1ppt; third‑tier resale -0.3% MoM (unchanged). Seven of 70 cities recorded MoM gains in resale prices, down two from last month."
+    },
+    {
+      "id": "5216600",
+      "time": "2026-11-16 09:36:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【李成鋼會見美國大西洋理事會會長兼執行長坎普】據商務部訊息，11月13日下午，中華人民共和國國際貿易談判代表（正部長級）兼商務部副部長李成鋼會見美國大西洋理事會會長兼執行長坎普，雙方就中美經貿關係等議題進行交流。"
+    },
     {
       "id": "mkt:01a1e1ff-c91d-7bbc-abeb-a7ff6b4bbb7a",
       "time": "2026-11-16 09:36:39",
