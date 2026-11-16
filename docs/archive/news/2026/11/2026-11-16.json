@@ -1,7 +1,91 @@
 {
   "date": "2026-11-16",
-  "count": 477,
+  "count": 486,
   "items": [
+    {
+      "id": "5216637",
+      "time": "2026-11-16 09:51:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【白酒板塊走高，古井貢酒漲超5%】白酒板塊走高，古井貢酒漲超5%，皇臺酒業、順鑫農業、山西汾酒、金種子酒跟漲。"
+    },
+    {
+      "id": "5216636",
+      "time": "2026-11-16 09:51:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟大臣就7-9月國內生產總值表示：展望未來，預計就業和收入環境的改善將支撐經濟逐步復甦。"
+    },
+    {
+      "id": "5216635",
+      "time": "2026-11-16 09:51:08",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【亨通光電、東吳證券等新設未來股權投資基金】企查查APP顯示，近日，蘇州東吳未來股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由亨通光電、東吳證券全資子公司東吳創業投資有限公司等共同出資。"
+    },
+    {
+      "id": "5216634",
+      "time": "2026-11-16 09:50:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟大臣就7-9月GDP表示，有必要繼續密切關注中東局勢的影響。"
+    },
+    {
+      "id": "5216633",
+      "time": "2026-11-16 09:50:32",
+      "tags": [
+        "市場",
+        "觀點",
+        "焦點",
+        "國際"
+      ],
+      "text": "【摩根士丹利建議超配全球股票：風險資產估值已經回落】摩根士丹利建議最高超配全球股票，理由是AI資本開支週期並未中斷，將帶動經濟和盈利保持韌性，延續至明年。該行策略師唐詩韻等在11月15日的報告中表示，維持美股超配評級，同時將日本、歐洲股票上調至超配，新興市場維持標配。報告上調標普500指數目標價，對應潛在上漲空間15%。其他資產方面，摩根士丹利預計美元小幅走強，看好投資級企業債以及黃金。策略師在報告中寫道：“風險資產估值已經回落，我們選擇擁抱風險。在全球股票內部，行情主線正在從雲廠商向外擴散；2027年，AI落地應用企業的收益將越來越受關注。”"
+    },
+    {
+      "id": "mkt:01a1e20c-23a1-7bbc-abec-328fc95fdc60",
+      "time": "2026-11-16 09:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "Copper"
+      ],
+      "text": "China's October industrial value-added (enterprises above designated size) YoY and October total retail sales of consumer goods YoY due in ten minutes."
+    },
+    {
+      "id": "mkt:01a1e20b-35b7-7bbc-abec-2f54d3f4663c",
+      "time": "2026-11-16 09:49:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's prime minister TAKAICHI will hold bilateral meetings with the leaders of the Philippines, South Korea and Thailand."
+    },
+    {
+      "id": "mkt:01a1e20b-21ad-7bbc-abec-213216f454ee",
+      "time": "2026-11-16 09:49:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China brings longest CO2 trunk pipeline into service】China National Petroleum Corp (CNPC) said the Jilin Petrochemical–Jilin oilfield long-distance CO2 trunk pipeline has entered service. The 277.6 km pipeline is China’s largest CO2 trunk line by diameter, design pressure and capacity; it is designed for 14.5 MPa and can carry up to 3.3 mln t/yr of CO2. The line links capture at Jilin Petrochemical to enhanced oil recovery and storage operations at the Jilin oilfield, crossing Jilin, Changchun and Songyuan. CNPC said it will use the pipeline as the backbone for regional CCUS development. Upstream, Jilin Petrochemical’s 800,000 t/yr CO2 recovery project began full operation in October and will supply a stable feedstock for the pipeline."
+    },
+    {
+      "id": "5216632",
+      "time": "2026-11-16 09:48:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：將與菲律賓、韓國和泰國領導人舉行雙邊會晤。"
+    },
     {
       "id": "5216631",
       "time": "2026-11-16 09:47:46",
