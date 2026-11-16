@@ -1,7 +1,47 @@
 {
   "date": "2026-11-17",
-  "count": 230,
+  "count": 234,
   "items": [
+    {
+      "id": "mkt:01a1e5d5-59fb-7bbc-ac04-fb30778c2cc2",
+      "time": "2026-11-17 03:28:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News: U.S. Vice President Vance said he would not let Iran turn into a two-year U.S. military commitment."
+    },
+    {
+      "id": "mkt:01a1e5d4-7793-7bbc-ac04-f4378e04b38f",
+      "time": "2026-11-17 03:27:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Hammack: I do support consecutive rate hikes to help bring inflation down."
+    },
+    {
+      "id": "5218520",
+      "time": "2026-11-17 03:27:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：我確實喜歡連續加息以幫助降低通脹的想法。"
+    },
+    {
+      "id": "5218519",
+      "time": "2026-11-17 03:27:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：不會讓對伊朗的行動演變成一場長達兩年的任務。"
+    },
     {
       "id": "mkt:01a1e5d1-ba61-7bbc-ac04-e9e991f306de",
       "time": "2026-11-17 03:24:49",
