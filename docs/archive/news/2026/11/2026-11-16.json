@@ -1,7 +1,110 @@
 {
   "date": "2026-11-16",
-  "count": 638,
+  "count": 649,
   "items": [
+    {
+      "id": "5216736",
+      "time": "2026-11-16 10:45:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指<.PSI>下跌1.9%，至5488.75點，為2020年5月下旬以來最低水平。"
+    },
+    {
+      "id": "5216734",
+      "time": "2026-11-16 10:44:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守95美元/桶，日內跌0.88%。"
+    },
+    {
+      "id": "5216733",
+      "time": "2026-11-16 10:44:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克總統尼扎爾·阿米迪呼籲特朗普結束對伊戰爭，願充當美伊談判斡旋方】伊拉克總統尼扎爾·阿米迪呼籲美國總統唐納德·特朗普結束同伊朗的戰爭，迴歸競選之初著力化解國際衝突的主張，並表示伊拉克願意協助促成美伊談判。阿米迪稱：“特朗普先生是一位舉足輕重的人物。”“我希望他回到剛當選時的初心，也就是結束所有戰爭，無論是俄烏衝突，還是世界上其他任何戰事。”阿米迪表示，伊拉克和美國、伊朗長期保持聯絡，具備斡旋對話的有利條件。“我給美國和伊朗傳遞一句話：希望仍在。”他敦促雙方抓住外交視窗期，儘快達成協議。阿米迪警告，這場戰爭正在拖累包括伊拉克在內的中東各國經濟，結束衝突有助於恢復地區穩定、吸引外資。他同時希望特朗普訪問伊拉克，並稱巴格達同美國、伊朗的相互關係彼此獨立，互不繫結。"
+    },
+    {
+      "id": "mkt:01a1e23d-b0e6-7bbc-abed-da3fa6a5e04a",
+      "time": "2026-11-16 10:44:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share solid-state battery stocks rallied intraday, with Lingpai Technology hitting limit-up after Zizhu Hi-Tech earlier hit limit-up; Liwang, Wuhan Blue Power and Mengguli also rose."
+    },
+    {
+      "id": "mkt:01a1e23d-5300-7bbc-abed-d46037a21fb8",
+      "time": "2026-11-16 10:43:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's president said at least 70% of revenues from all mining licenses and permits must accrue to the state."
+    },
+    {
+      "id": "5216732",
+      "time": "2026-11-16 10:42:59",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【大摩分析師點評SpaceX星艦第15次試飛成功捕獲飛船】摩根士丹利分析師亞當·喬納斯針對SpaceX在X平臺釋出的星艦第15次試飛成功捕獲飛船一事發表觀點：“在我們看來，第15次試飛，對這家企業乃至整個航天事業而言，都是具備歷史意義的轉折點。如今上面級實現完整回收，SpaceX可以對42號飛船開展深度檢測，並依據檢測結果迭代後續航天器，這在過去完全無法做到。我們認為這也為助推器與飛船實現全面複用掃清道路；而全面複用，正是星艦有望實現每週甚至每日發射前，最後一項重大技術里程碑。成功捕獲飛船，實實在在降低了SpaceX三大業務板塊長期潛在市場規模（TAM）的不確定性風險。”"
+    },
+    {
+      "id": "5216731",
+      "time": "2026-11-16 10:42:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌6%，現報11336.00元。"
+    },
+    {
+      "id": "5216730",
+      "time": "2026-11-16 10:41:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達收緊對AI企業的資金支援，昔日“提款機”時代或將終結】黃仁勳在辭去英偉達執行長前的最後幾個月裡，已經開始為公司調整支援AI經濟的方式鋪路。如今，隨著一位對黃仁勳敲定的部分交易早已持謹慎態度的財務主管接掌公司，那些一直依賴英偉達支援的初創企業預計，公司將進一步收緊支援力度。就在上個月，數家新興雲端計算公司的執行長齊聚柏林，參加英偉達在歐洲舉辦的頂級人工智慧大會。這些公司購買英偉達晶片，再將計算能力出租給客戶。黃仁勳在一場令部分與會者感到意外的演講中明確表示：英偉達充當“無限提款機”的時代已經結束。許多曾依賴英偉達的企業如今感到憂心忡忡。瑞銀分析師蒂姆·阿庫裡在最近的一份報告中估計，如果英偉達收緊融資支援，可能會導致市場上減少500億美元甚至更多的資金；在利率不斷上升的背景下，這將使相關企業陷入缺乏資金支援的困境。"
+    },
+    {
+      "id": "mkt:01a1e23b-4d2b-7bbc-abed-cc9641e017a0",
+      "time": "2026-11-16 10:41:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "【NVIDIA to tighten funding for AI firms; 'unlimited ATM' era may be ending】In the months before stepping down as CEO, Jensen Huang began repositioning how NVIDIA supports the AI economy. With a new finance chief—reported to have been cautious about some deals Huang approved—now in charge, startups that relied on NVIDIA funding expect tighter support. At last month’s AI conference in Berlin Huang said the era of NVIDIA acting as an \"unlimited ATM\" is over. Several emerging cloud providers that buy NVIDIA chips and lease compute to customers are said to be unsettled. UBS analyst Tim Acuri estimates a NVIDIA pullback in financing could remove roughly $50bn or more of market funding; rising rates would exacerbate funding stress for those firms."
+    },
+    {
+      "id": "5216729",
+      "time": "2026-11-16 10:41:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家鐵路局約談首鋼集團有限公司礦業公司負責人】11月5日，國家鐵路局北京鐵路督察室根據《鐵路安全生產約談實施辦法（試行）》，就“10·21”首鋼集團有限公司礦業公司專用鐵路調車脫軌事故，約談了首鋼集團有限公司礦業公司負責人。國家鐵路局安全技術中心、中國鐵路北京局集團有限公司有關人員列席約談。北京鐵路督察室要求首鋼集團有限公司礦業公司強化國有企業責任擔當，狠抓事故資訊報送不及時、線路裝置管理不到位等問題，並舉一反三全面堵塞安全漏洞，確保鐵路運營安全穩定有序；接軌的國鐵車站持續強化專用鐵路的幫扶指導，加強業務支援和技術指導。"
+    },
+    {
+      "id": "5216728",
+      "time": "2026-11-16 10:41:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達機器人學習工程師戴士欽宣佈辭職：“黃仁勳離職讓我格外失望”】英偉達機器人學習工程師戴士欽（Darrell Dai）昨日發文，宣佈將離開公司。 戴士欽表示，他眼中的黃仁勳不只是英偉達 CEO，他欽佩黃仁勳投資那些一下子看不到明確前景的未來技術。在深度學習熱潮到來之前，黃仁勳就已投入 CUDA，並在人工智慧成為所有人關注焦點之前佈局 AI 領域。這些決策幫助英偉達建立如今支撐整個 AI 行業的基礎設施。"
+    },
     {
       "id": "5216727",
       "time": "2026-11-16 10:40:04",
