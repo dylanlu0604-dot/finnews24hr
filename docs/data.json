@@ -1,7 +1,119 @@
 {
-  "updated": "2026-11-16 09:52:07",
-  "count": 9896,
+  "updated": "2026-11-16 09:55:57",
+  "count": 9897,
   "items": [
+    {
+      "id": "5216642",
+      "time": "2026-11-16 09:55:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【郭明錤：英偉達換帥 谷歌TPU借OpenAI、Anthropic訂單擴大業務】天風國際證券知名分析師郭明錤週一發文稱，在英偉達CEO接班人選存在不確定性的情況下，谷歌的TPU晶片正藉助OpenAI、Anthropic的訂單開拓業務。 郭明錤在X上發文稱，根據他的最新產業調查，受益於OpenAI和Anthropic的強勁新訂單，谷歌TPU的出貨能見度已延伸至2029年，優於英偉達GPU及其他AI晶片供應商(多數訂單能見度為2027年第四季度至2028年第二季度)。出貨能見度指的是企業能夠明確看到或掌握未來多長時間的客戶訂單和出貨計劃。 他表示，從2028年起，v9 TPU將成為谷歌自建算力的主力方案；v8系列(8t/8i或其設計變體)的訂單可視為來自OpenAI和Anthropic。2028年至2029年，OpenAI需要約1200萬顆(由聯發科設計的8t)，Anthropic需要約1400萬顆(由博通設計的8i)，兩者的需求均呈逐年增長趨勢。OpenAI採用買斷方式，Anthropic則同時採用租賃和買斷方式。"
+    },
+    {
+      "id": "mkt:01a1e210-ab84-7bbc-abec-62791ecc5050",
+      "time": "2026-11-16 09:55:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000333.SZ",
+        "Impact bullish",
+        "600690.SH",
+        "000651.SZ"
+      ],
+      "text": "A-share home-appliance sector saw selective moves: Changhong Meiling and Vatti hit daily limit-up, Midea Group shares reached a record high, while Hisense Home Appliances, Haier Smart Home and Gree Electric rallied."
+    },
+    {
+      "id": "5216641",
+      "time": "2026-11-16 09:54:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【家電板塊區域性異動 華帝股份、長虹美菱雙雙漲停】早盤家電板塊區域性異動，長虹美菱、華帝股份漲停，美的集團股價創歷史新高，海信家電、海爾智家、格力電器等衝高。"
+    },
+    {
+      "id": "mkt:01a1e20f-9ffa-7bbc-abec-5dcabd1c8a9e",
+      "time": "2026-11-16 09:53:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's economy minister said private consumption has been hit by higher prices linked to heightened Middle East tensions and by recent natural disasters and severe weather."
+    },
+    {
+      "id": "mkt:01a1e20e-fb09-7bbc-abec-547c0ecf2365",
+      "time": "2026-11-16 09:53:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "DAX",
+        "XAUUSD"
+      ],
+      "text": "【Morgan Stanley recommends overweight global equities, cites ongoing AI capex cycle】Morgan Stanley recommends highest Overweight on global equities, saying the AI capex cycle remains intact and will support growth and corporate earnings into next year. In a Nov. 15 report the bank keeps US equities Overweight, upgrades Japan and Europe to Overweight and leaves emerging markets at Neutral. The firm raised its S&P 500 target, implying roughly 15% upside. Across asset classes it sees a slightly stronger dollar and favors investment-grade corporates and gold. Strategists note risk-asset valuations have retraced, prompting a pro-risk stance; market leadership is broadening beyond cloud vendors, and by 2027 earnings from AI application companies should become increasingly important."
+    },
+    {
+      "id": "5216639",
+      "time": "2026-11-16 09:52:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡與土耳其設立聯合經濟貿易委員會。"
+    },
+    {
+      "id": "5216638",
+      "time": "2026-11-16 09:52:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本經濟大臣就 7-9 月國內生產總值（GDP）表示：私人消費受到中東局勢引發的物價上漲以及自然災害和惡劣天氣的影響。"
+    },
+    {
+      "id": "mkt:01a1e20e-5bb7-7bbc-abec-4fe029eb2cf5",
+      "time": "2026-11-16 09:52:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's economy minister said employment and income conditions are expected to improve."
+    },
+    {
+      "id": "mkt:01a1e20e-1cce-7bbc-abec-40617f68c562",
+      "time": "2026-11-16 09:52:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's economy minister Minoru Kiuchi said officials must continue to closely monitor the impact of developments in the Middle East on Q3 (July-September) GDP."
+    },
+    {
+      "id": "mkt:01a1e20d-c049-7bbc-abec-3af2671d6926",
+      "time": "2026-11-16 09:51:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000596.SZ",
+        "Impact bullish",
+        "600809.SS"
+      ],
+      "text": "China A-share baijiu sector advances; Gujinggong rises more than 5%, with Huangtai Liquor, Shunxin Agriculture, Shanxi Fenjiu and Jinzhongzi also gaining."
+    },
     {
       "id": "5216637",
       "time": "2026-11-16 09:51:22",
@@ -90065,86 +90177,6 @@
         "焦點"
       ],
       "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "5202001",
-      "time": "2026-11-09 09:55:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【段永平回應是否仍持有騰訊】10月底以來恒生科技指數迎來反彈，騰訊控股罕見走出五連陽。有網友詢問知名投資人段永平是否仍持有騰訊，他回應稱：“拿著呢”。段永平同時表示，不加槓桿、不借錢炒股很重要，買好公司也很重要。 11月2日，在被問及騰訊和茅臺哪個更有吸引力時，段永平表示：“都有吸引力。茅臺生意更穩，騰訊的生意成長空間更大，但不確定性也更大。”值得一提的是，段永平此前曾表示，騰訊是一家很好的公司，“要惜賣”。不過，他也透露，自己的騰訊持股並未達到公司總股本的1%。 （上海證券報）"
-    },
-    {
-      "id": "5202000",
-      "time": "2026-11-09 09:54:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "檔案顯示，三井化學與日本政策投資銀行將支付1.84萬億日元收購JSR。"
-    },
-    {
-      "id": "5201999",
-      "time": "2026-11-09 09:53:56",
-      "tags": [
-        "資料",
-        "央行"
-      ],
-      "text": "【澳大利亞央行官員Hunter認為AI投資熱潮短期將加大通脹壓力】澳大利亞央行助理行長Sarah Hunter表示，人工智慧(AI)相關投資激增將進一步提振經濟中的需求。Hunter週一在一場討論AI潛在影響的演講中稱，AI是“我們這個時代最重大的技術發展之一”，並已開始重塑經濟。“短期來看，在當前經濟供給能力的背景下，總需求受到的正向衝擊將給通脹帶來一些上行壓力。”Hunter說。“有報告稱，資料中心建設正在導致一些原本就緊俏的建築業技術工種需求進一步上升。”Hunter在演講後的問答環節表示，建築成本上升是AI需求影響消費者價格指數(CPI)的一個渠道。Deloitte Access Economics的資料顯示，截至9月，澳大利亞的建設專案規模達到創紀錄的1.4萬億澳元，最終規模可能達到此前礦業投資熱潮的兩倍。澳大利亞央行和政府均指出，企業投資表現意外強勁。Hunter表示，AI專案面臨的風險“大體平衡”，監管政策可能發生的變化或限制部分專案推進。"
-    },
-    {
-      "id": "5201998",
-      "time": "2026-11-09 09:53:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "檔案顯示，三井化學將聯合日本政策投資銀行收購JSR公司。"
-    },
-    {
-      "id": "5201997",
-      "time": "2026-11-09 09:53:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳元上漲0.5%，至0.6892美元。"
-    },
-    {
-      "id": "te:economy:599324",
-      "time": "2026-11-09 09:53:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mozambique",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Mozambique Inflation at 6.32% in October — Mozambique’s annual inflation rate stood at 6.32% in October 2026, largely unchanged from 6.31% in September, which marked the lowest reading since April. The largest annual price increases came from transport and food and non-alcoholic beverages, which rose by 15.06% and 8.56%, respectively. On a monthly basis, consumer prices rose by 0.48%, following a 0.16% increase in the previous month, mainly driven by higher prices for fresh fish (2.8%), restaurant meals (0.9%), onions (5.7%), used light motor vehicles (5.4%), horse mackerel (1.4%), lettuce (9.8%), and tomatoes (1.6%). These gains, however, were partly offset by lower prices for charcoal (-1.9%) and pumpkin leaves (-4.4%). Meanwhile, average inflation from January to October 2026 was 5.5%."
-    },
-    {
-      "id": "5201994",
-      "time": "2026-11-09 09:52:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【燃氣板塊走高，勝通能源漲停】燃氣板塊走高，勝通能源漲停，美能能源、長春燃氣、天壕能源、凱添燃氣、國新能源等跟漲。相關ETF方面，油氣ETF匯添富（159309）漲2.06%，成交額938.59萬元，石油ETF華夏（159189）漲1.55%，成交額181.34萬元。"
-    },
-    {
-      "id": "5201993",
-      "time": "2026-11-09 09:52:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "新臺幣兌美元下跌0.5%至32.935。"
-    },
-    {
-      "id": "5201992",
-      "time": "2026-11-09 09:52:27",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【聯合國人居署中國辦公室在京揭牌】近日，聯合國人居署中國辦公室揭牌儀式在北京釣魚臺國賓館舉辦。聯合國副秘書長、聯合國人居署執行主任羅斯巴赫，住房城鄉建設部部長倪虹致辭並揭牌，聯合國人居大會主席、馬來西亞房屋及地方政府部部長倪可敏，聯合國駐華協調員傑思衡出席並致辭。（住建部）"
     }
   ]
 }

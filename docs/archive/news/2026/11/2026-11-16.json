@@ -1,7 +1,119 @@
 {
   "date": "2026-11-16",
-  "count": 486,
+  "count": 496,
   "items": [
+    {
+      "id": "5216642",
+      "time": "2026-11-16 09:55:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【郭明錤：英偉達換帥 谷歌TPU借OpenAI、Anthropic訂單擴大業務】天風國際證券知名分析師郭明錤週一發文稱，在英偉達CEO接班人選存在不確定性的情況下，谷歌的TPU晶片正藉助OpenAI、Anthropic的訂單開拓業務。 郭明錤在X上發文稱，根據他的最新產業調查，受益於OpenAI和Anthropic的強勁新訂單，谷歌TPU的出貨能見度已延伸至2029年，優於英偉達GPU及其他AI晶片供應商(多數訂單能見度為2027年第四季度至2028年第二季度)。出貨能見度指的是企業能夠明確看到或掌握未來多長時間的客戶訂單和出貨計劃。 他表示，從2028年起，v9 TPU將成為谷歌自建算力的主力方案；v8系列(8t/8i或其設計變體)的訂單可視為來自OpenAI和Anthropic。2028年至2029年，OpenAI需要約1200萬顆(由聯發科設計的8t)，Anthropic需要約1400萬顆(由博通設計的8i)，兩者的需求均呈逐年增長趨勢。OpenAI採用買斷方式，Anthropic則同時採用租賃和買斷方式。"
+    },
+    {
+      "id": "mkt:01a1e210-ab84-7bbc-abec-62791ecc5050",
+      "time": "2026-11-16 09:55:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000333.SZ",
+        "Impact bullish",
+        "600690.SH",
+        "000651.SZ"
+      ],
+      "text": "A-share home-appliance sector saw selective moves: Changhong Meiling and Vatti hit daily limit-up, Midea Group shares reached a record high, while Hisense Home Appliances, Haier Smart Home and Gree Electric rallied."
+    },
+    {
+      "id": "5216641",
+      "time": "2026-11-16 09:54:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【家電板塊區域性異動 華帝股份、長虹美菱雙雙漲停】早盤家電板塊區域性異動，長虹美菱、華帝股份漲停，美的集團股價創歷史新高，海信家電、海爾智家、格力電器等衝高。"
+    },
+    {
+      "id": "mkt:01a1e20f-9ffa-7bbc-abec-5dcabd1c8a9e",
+      "time": "2026-11-16 09:53:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's economy minister said private consumption has been hit by higher prices linked to heightened Middle East tensions and by recent natural disasters and severe weather."
+    },
+    {
+      "id": "mkt:01a1e20e-fb09-7bbc-abec-547c0ecf2365",
+      "time": "2026-11-16 09:53:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "DAX",
+        "XAUUSD"
+      ],
+      "text": "【Morgan Stanley recommends overweight global equities, cites ongoing AI capex cycle】Morgan Stanley recommends highest Overweight on global equities, saying the AI capex cycle remains intact and will support growth and corporate earnings into next year. In a Nov. 15 report the bank keeps US equities Overweight, upgrades Japan and Europe to Overweight and leaves emerging markets at Neutral. The firm raised its S&P 500 target, implying roughly 15% upside. Across asset classes it sees a slightly stronger dollar and favors investment-grade corporates and gold. Strategists note risk-asset valuations have retraced, prompting a pro-risk stance; market leadership is broadening beyond cloud vendors, and by 2027 earnings from AI application companies should become increasingly important."
+    },
+    {
+      "id": "5216639",
+      "time": "2026-11-16 09:52:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡與土耳其設立聯合經濟貿易委員會。"
+    },
+    {
+      "id": "5216638",
+      "time": "2026-11-16 09:52:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本經濟大臣就 7-9 月國內生產總值（GDP）表示：私人消費受到中東局勢引發的物價上漲以及自然災害和惡劣天氣的影響。"
+    },
+    {
+      "id": "mkt:01a1e20e-5bb7-7bbc-abec-4fe029eb2cf5",
+      "time": "2026-11-16 09:52:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's economy minister said employment and income conditions are expected to improve."
+    },
+    {
+      "id": "mkt:01a1e20e-1cce-7bbc-abec-40617f68c562",
+      "time": "2026-11-16 09:52:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's economy minister Minoru Kiuchi said officials must continue to closely monitor the impact of developments in the Middle East on Q3 (July-September) GDP."
+    },
+    {
+      "id": "mkt:01a1e20d-c049-7bbc-abec-3af2671d6926",
+      "time": "2026-11-16 09:51:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000596.SZ",
+        "Impact bullish",
+        "600809.SS"
+      ],
+      "text": "China A-share baijiu sector advances; Gujinggong rises more than 5%, with Huangtai Liquor, Shunxin Agriculture, Shanxi Fenjiu and Jinzhongzi also gaining."
+    },
     {
       "id": "5216637",
       "time": "2026-11-16 09:51:22",
