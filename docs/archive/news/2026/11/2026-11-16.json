@@ -1,7 +1,52 @@
 {
   "date": "2026-11-16",
-  "count": 580,
+  "count": 585,
   "items": [
+    {
+      "id": "5216686",
+      "time": "2026-11-16 10:14:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數下跌1.1%，至5532.54點。"
+    },
+    {
+      "id": "5216685",
+      "time": "2026-11-16 10:14:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電池板塊短線拉昇】電池板塊短線拉昇，野馬電池漲停, 領湃科技、尚水智慧漲超10%，紫竹高科、時代萬恆、力佳科技、豐元股份、龍蟠科技等跟漲。"
+    },
+    {
+      "id": "mkt:01a1e220-5482-7bbc-abed-6628dcf7dc5a",
+      "time": "2026-11-16 10:12:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index"
+      ],
+      "text": "Hong Kong major indexes rallied; HSI up 1.00%, Hang Seng Tech Index up 0.91%."
+    },
+    {
+      "id": "mkt:01a1e21f-4eab-7bbc-abed-5bac554ed1c2",
+      "time": "2026-11-16 10:11:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "03308.HK",
+        "Impact bearish"
+      ],
+      "text": "A-share Zhongji Xuchuang hit an intraday YTD low, trading down more than 8%; Hong Kong-listed Zhongji Xuchuang (03308.HK) down 5.78%."
+    },
     {
       "id": "5216684",
       "time": "2026-11-16 10:10:04",
@@ -10,6 +55,15 @@
         "焦點"
       ],
       "text": "【中際旭創盤中創年內新低，現跌超8%】中際旭創盤中創年內新低，現跌超8%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202611163931611264",
+      "time": "2026-11-16 10:10:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：10月份全國服務業生產指數同比增長4.6%】據國家統計局，10月份，全國服務業生產指數同比增長4.6%。分行業看，租賃和商務服務業，資訊傳輸、軟體和資訊科技服務業，交通運輸、倉儲和郵政業生產指數同比分別增長9.3%、9.2%、5.1%。"
     },
     {
       "id": "mkt:01a1e21e-03c7-7bbc-abed-55ba21628608",

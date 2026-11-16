@@ -1,7 +1,52 @@
 {
-  "updated": "2026-11-16 10:11:14",
-  "count": 9942,
+  "updated": "2026-11-16 10:15:04",
+  "count": 9931,
   "items": [
+    {
+      "id": "5216686",
+      "time": "2026-11-16 10:14:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數下跌1.1%，至5532.54點。"
+    },
+    {
+      "id": "5216685",
+      "time": "2026-11-16 10:14:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電池板塊短線拉昇】電池板塊短線拉昇，野馬電池漲停, 領湃科技、尚水智慧漲超10%，紫竹高科、時代萬恆、力佳科技、豐元股份、龍蟠科技等跟漲。"
+    },
+    {
+      "id": "mkt:01a1e220-5482-7bbc-abed-6628dcf7dc5a",
+      "time": "2026-11-16 10:12:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index"
+      ],
+      "text": "Hong Kong major indexes rallied; HSI up 1.00%, Hang Seng Tech Index up 0.91%."
+    },
+    {
+      "id": "mkt:01a1e21f-4eab-7bbc-abed-5bac554ed1c2",
+      "time": "2026-11-16 10:11:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "03308.HK",
+        "Impact bearish"
+      ],
+      "text": "A-share Zhongji Xuchuang hit an intraday YTD low, trading down more than 8%; Hong Kong-listed Zhongji Xuchuang (03308.HK) down 5.78%."
+    },
     {
       "id": "5216684",
       "time": "2026-11-16 10:10:04",
@@ -10,6 +55,15 @@
         "焦點"
       ],
       "text": "【中際旭創盤中創年內新低，現跌超8%】中際旭創盤中創年內新低，現跌超8%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202611163931611264",
+      "time": "2026-11-16 10:10:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：10月份全國服務業生產指數同比增長4.6%】據國家統計局，10月份，全國服務業生產指數同比增長4.6%。分行業看，租賃和商務服務業，資訊傳輸、軟體和資訊科技服務業，交通運輸、倉儲和郵政業生產指數同比分別增長9.3%、9.2%、5.1%。"
     },
     {
       "id": "mkt:01a1e21e-03c7-7bbc-abed-55ba21628608",
@@ -90523,150 +90577,6 @@
         "市場"
       ],
       "text": "越南VN指數開盤小幅持平於1,725.36點。"
-    },
-    {
-      "id": "mkt:01a1be16-2a62-7ee0-aacc-7b565996ebad",
-      "time": "2026-11-09 10:14:45",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share gaming sector strengthened; Dasheng Culture hit the daily limit, while Baotong Technology, Dianhun Network, Fuchun Co., Tom Cat and Caesar Culture also rose."
-    },
-    {
-      "id": "5202064",
-      "time": "2026-11-09 10:14:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【遊戲板塊走高，大晟文化漲停】遊戲板塊走高，大晟文化漲停，寶通科技、電魂網路、富春股份、湯姆貓、凱撒文化跟漲。"
-    },
-    {
-      "id": "te:markets:599336",
-      "time": "2026-11-09 10:14:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Holds Firm on Strong Jobs Report — The US dollar index slipped toward 102 on Monday but retained most of the previous session’s gains as stronger-than-expected jobs data bolstered bets for a Federal Reserve rate hike in December. Nonfarm payrolls rose by 165,000, more than double the 65,000 forecast, while the unemployment rate edged down to 4.1%, highlighting the resilience of the labor market. Markets are now pricing in an approximately 81% probability of a Fed rate increase in December, up from 71% before the employment report. In recent Fed commentary, San Francisco Fed President Mary Daly indicated that further rate hikes may still be necessary despite the recent tech stock selloff. Investors are now turning their attention to key US inflation data due this week for additional clues on the monetary policy outlook, with the CPI report scheduled for Tuesday and the PPI figures expected on Friday."
-    },
-    {
-      "id": "5202060",
-      "time": "2026-11-09 10:13:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中際旭創探底回升，盤中漲超5%】中際旭創探底回升，盤中漲超5%，現報470.96元。"
-    },
-    {
-      "id": "mkt:01a1be14-7555-7ee0-aacc-777c269ddfb6",
-      "time": "2026-11-09 10:12:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Philippine economic minister said the country needs to increase infrastructure spending while strengthening accountability."
-    },
-    {
-      "id": "5202050",
-      "time": "2026-11-09 10:12:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟規劃負責人：在加強問責制的同時，需要加大基礎設施支出。"
-    },
-    {
-      "id": "te:economy:599335",
-      "time": "2026-11-09 10:12:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "GDP Annual Growth Rate",
-        "Importance 2"
-      ],
-      "text": "Philippines GDP Growth Lowest Since 2009, Ex-Covid — The Philippines’ GDP expanded 2.1% year-on-year in Q3 2026, slowing from a revised 2.4% growth in Q2 and falling short of expectations for a 3% expansion. This marked the weakest economic growth since Q4 2009, excluding the COVID-19 pandemic, as subdued agricultural output and elevated energy costs continued to weigh on activity, while El Niño added to downside risks. Household consumption growth slowed to 2.4% from 2.9%, while government spending eased to 6.8% from 8.3%. Fixed investment continued to contract, although at a slower pace (-4.4% vs. -13.7%). Meanwhile, net trade contributed positively to GDP growth, as exports rose 8.6% (vs. 12.2%), while imports grew at a slower pace of 7.7% (vs. 6.2%). On the production side, agricultural output fell 0.4% (vs. 2%), while services growth slowed to 9% from 10.2%. In contrast, industrial growth accelerated to 5.4% from 3%. The latest reading puts growth further below the government’s already lowered full-year target of 3.5% to 4.5%."
-    },
-    {
-      "id": "5202049",
-      "time": "2026-11-09 10:12:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟規劃負責人：預測的政策、財政紀律和可信的機構對於重建信心至關重要。"
-    },
-    {
-      "id": "5202047",
-      "time": "2026-11-09 10:12:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中指研究院：前10月全國法拍房市場成交總金額同比增長19%】中指研究院最新統計，2026年1—10月，全國355城法拍市場累計掛拍各類法拍房源65.4萬件，同比增長31.6%；成交18.8萬件，同比增長34.6%；成交總金額2552.8億元，同比增長19.0%；成交折價率74.3%，成交均價5021元/㎡，同比上漲4.8%。"
-    },
-    {
-      "id": "mkt:01a1be13-f907-7ee0-aacc-68beb94c788c",
-      "time": "2026-11-09 10:12:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Philippines' economy minister says Q4 economic growth must reach 6.3% to meet the government's target. Energy shocks, El Nifio and implementation delays remain key risks."
-    },
-    {
-      "id": "mkt:01a1be13-f599-7ee0-aacc-649500286fef",
-      "time": "2026-11-09 10:12:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Philippines' economic minister said predictable policy, fiscal discipline and credible institutions are essential to rebuilding confidence."
-    },
-    {
-      "id": "5202039",
-      "time": "2026-11-09 10:12:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【拓璞數控等投資成立科技合夥企業】企查查APP顯示，近日，上海拓達方科技合夥企業（有限合夥）成立，經營範圍包含：智慧儀器儀表銷售；計算機系統服務；航空運輸裝置銷售；機械裝置租賃等。企查查股權穿透顯示，該公司由拓璞數控等共同出資。"
-    },
-    {
-      "id": "5202038",
-      "time": "2026-11-09 10:12:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟規劃負責人：能源衝擊、厄爾尼諾現象、實施延遲仍是風險。"
-    },
-    {
-      "id": "5202037",
-      "time": "2026-11-09 10:11:48",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【美國人工智慧建設遭遇電力瓶頸】隨著人工智慧（AI）技術逐漸落地並有效提高生產效率，美國近兩年掀起AI基礎設施建設熱潮，但電力供應已取代晶片成為制約行業發展的新瓶頸。行業企業正採取多種措施為資料中心快速供電，但同時帶來的溫室氣體排放增加等問題不容忽視。行業資料顯示，美國正在執行的資料中心已有數千個，但現有資料中心大多規模較小，而超大型雲端計算服務企業近期推動建設或正在規劃中的資料中心專案所需供電能力往往超過1吉瓦甚至10吉瓦，所在地現有電網短時間內無法應對。高盛集團預計，從2025年到2027年，美國資料中心電力需求將翻倍。美國能源部下屬勞倫斯伯克利國家實驗室在6月釋出的報告中預計，到2030年，資料中心用電量可能佔美國當年總用電量的11.8%，遠高於2023年的4.4%左右。（新華社）"
-    },
-    {
-      "id": "5202036",
-      "time": "2026-11-09 10:11:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟部長：第四季度經濟需增長6.3%才能達到目標。"
-    },
-    {
-      "id": "5202035",
-      "time": "2026-11-09 10:11:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟規劃負責人：向2027年目標邁進的復甦仍有可能實現。"
     }
   ]
 }
