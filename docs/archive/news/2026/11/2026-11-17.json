@@ -1,7 +1,39 @@
 {
   "date": "2026-11-17",
-  "count": 251,
+  "count": 255,
   "items": [
+    {
+      "id": "5218536",
+      "time": "2026-11-17 03:38:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：Diamondback的評級不受收購Double Eagle交易影響。"
+    },
+    {
+      "id": "5218535",
+      "time": "2026-11-17 03:37:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊已進入阿曼（領空）。"
+    },
+    {
+      "id": "mkt:01a1e5dc-f8c7-7bbc-ac05-22c6b8b1ecc4",
+      "time": "2026-11-17 03:37:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran is at the forefront of opposition to unilateralism and hegemony, Deputy Foreign Minister Kazem Gharibabadi said, IRNA reported."
+    },
+    {
+      "id": "5218534",
+      "time": "2026-11-17 03:36:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯：不會讓伊朗戰爭演變為長達兩年的軍事投入】美國副總統JD·萬斯談及伊朗戰事時表示：“我們不會讓這場戰爭變成一場持續十年、十五年的行動，坦白說，甚至兩年都不行。”他補充道：“我們不會永久駐紮在當地。”“我完全相信總統會帶領我們以理想結果結束這場衝突。”"
+    },
     {
       "id": "5218533",
       "time": "2026-11-17 03:36:08",
