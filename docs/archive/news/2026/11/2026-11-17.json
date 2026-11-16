@@ -1,7 +1,179 @@
 {
   "date": "2026-11-17",
-  "count": 181,
+  "count": 197,
   "items": [
+    {
+      "id": "5218497",
+      "time": "2026-11-17 03:13:30",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：通脹壓力似乎正在擴大。"
+    },
+    {
+      "id": "5218495",
+      "time": "2026-11-17 03:13:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：我的基準情形是傾向於以較小幅度調整。"
+    },
+    {
+      "id": "mkt:01a1e5c6-ca61-7bbc-ac04-7ab47269b818",
+      "time": "2026-11-17 03:12:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Hammack: Inflation pressures appear to be broadening."
+    },
+    {
+      "id": "mkt:01a1e5c6-c28b-7bbc-ac04-77f4658f1654",
+      "time": "2026-11-17 03:12:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Hammack: I favor adjusting in smaller steps to give the economy time to adapt to policy changes."
+    },
+    {
+      "id": "mkt:01a1e5c6-aede-7bbc-ac04-6d098c9f6394",
+      "time": "2026-11-17 03:12:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Hammack: We see inf expectations are reasonably anchored."
+    },
+    {
+      "id": "5218494",
+      "time": "2026-11-17 03:12:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：如果通脹心態固化，可能需要更大力度的行動。"
+    },
+    {
+      "id": "5218493",
+      "time": "2026-11-17 03:12:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微軟一個自7月起就未被發現的漏洞引發全球服務中斷】上週造成微軟辦公軟體癱瘓的漏洞，從7月起就潛伏在其資料中心，始終未被檢出。11月11日一次常規使用者流量路由調整觸發了系統故障，支撐Outlook、Teams等服務的關鍵伺服器發生宕機。微軟在發現故障後，耗時15小時定位問題並開始推送修復程式。此次中斷讓大量企業與政府客戶的業務陷入停滯。"
+    },
+    {
+      "id": "5218492",
+      "time": "2026-11-17 03:11:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：我一直傾向於以穩定的幅度調整政策。"
+    },
+    {
+      "id": "mkt:01a1e5c5-96b8-7bbc-ac04-60480a58736f",
+      "time": "2026-11-17 03:11:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Hammack: There is little conflict between the Fed's dual mandate, but inflation is moving in the wrong direction."
+    },
+    {
+      "id": "mkt:01a1e5c5-8493-7bbc-ac04-5be3d75d6d9f",
+      "time": "2026-11-17 03:11:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Hammack reiterated her preference for steady, gradual rate hikes."
+    },
+    {
+      "id": "mkt:01a1e5c5-4f07-7bbc-ac04-51500d9d2af5",
+      "time": "2026-11-17 03:11:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said the aircraft carrier Theodore Roosevelt is conducting a scheduled deployment in its area of responsibility."
+    },
+    {
+      "id": "5218491",
+      "time": "2026-11-17 03:11:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：目前美聯儲雙重使命之間沒有太大沖突。"
+    },
+    {
+      "id": "5218490",
+      "time": "2026-11-17 03:10:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "老虎環球基金報告持有法拉利602,700股股份。"
+    },
+    {
+      "id": "mkt:01a1e5c4-9c68-7bbc-ac04-4aa729f3f830",
+      "time": "2026-11-17 03:10:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Hammack: I approach every FOMC meeting with an open mind."
+    },
+    {
+      "id": "mkt:01a1e5c4-7f3a-7bbc-ac04-46a485bbb75d",
+      "time": "2026-11-17 03:10:22",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "An SEC filing shows Tiger Global Management LLC increased its Intel stake by 30.4% to 5.5 million shares."
+    },
+    {
+      "id": "mkt:01a1e5c4-7d8f-7bbc-ac04-3d6a598d2a9f",
+      "time": "2026-11-17 03:10:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "A SEC filing shows Tiger Global Management LLC cut its Amazon stake by 4.2% to 9.3 million shares."
+    },
     {
       "id": "mkt:01a1e5c3-f363-7bbc-ac04-346ed31eac2c",
       "time": "2026-11-17 03:09:46",
