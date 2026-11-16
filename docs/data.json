@@ -1,7 +1,437 @@
 {
-  "updated": "2026-11-16 09:59:46",
-  "count": 9900,
+  "updated": "2026-11-16 10:03:35",
+  "count": 9928,
   "items": [
+    {
+      "id": "mkt:01a1e217-cea2-7bbc-abed-3061b4885a8b",
+      "time": "2026-11-16 10:02:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "China October urban fixed-asset investment -2.93% MoM, prior +0.07%."
+    },
+    {
+      "id": "mkt:01a1e217-a6ca-7bbc-abed-29c434486be3",
+      "time": "2026-11-16 10:02:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Urban Fixed Asset Investment (MoM) (Oct) | actual -2.93% | previous 0.07%"
+    },
+    {
+      "id": "mkt:01a1e217-8ff0-7bbc-abed-20c10ef560bf",
+      "time": "2026-11-16 10:02:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "China's National Bureau of Statistics: In October, electricity generation by above-scale industrial enterprises totaled 794 bln kWh, down 2.1% YoY; daily average 25.61 bln kWh. Jan–Oct cumulative generation was 8.2904 tln kWh, up 1.8% YoY."
+    },
+    {
+      "id": "5216670",
+      "time": "2026-11-16 10:02:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指開盤下跌0.2%，報5335.44點。"
+    },
+    {
+      "id": "mkt:01a1e217-59ec-7bbc-abed-1c2ddb48db5a",
+      "time": "2026-11-16 10:02:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "Hang Seng Index"
+      ],
+      "text": "China National Bureau of Statistics: Retail sales of consumer goods totaled 41.6464 tln yuan in Jan–Oct, up 1.0% YoY; excluding autos 38.3811 tln yuan, up 2.8% YoY. In October, retail sales were 4.6463 tln yuan, up 0.4% YoY; ex-autos 4.3162 tln yuan, up 2.5% YoY."
+    },
+    {
+      "id": "5216669",
+      "time": "2026-11-16 10:02:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【實控人被監察機關留置，惠城環保今日一字跌停】11月16日，惠城環保開盤一字跌停。訊息面上，惠城環保今日早間公告，公司近日收到公司控股股東、實際控制人、董事張新功家屬的通知，稱其於近日收到相關監察機關的通知，張新功被實施留置。"
+    },
+    {
+      "id": "5216668",
+      "time": "2026-11-16 10:02:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達3.10%，成分股中，諾思蘭德跌11.16%，蘅東光跌10.08%，同惠電子跌5.46%，民士達跌5.43%。"
+    },
+    {
+      "id": "5216667",
+      "time": "2026-11-16 10:01:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紅棗連續主力合約日內跌4%，現報6195.00元。"
+    },
+    {
+      "id": "mkt:01a1e216-c62b-7bbc-abed-14db31b76785",
+      "time": "2026-11-16 10:01:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【NBS: Employment broadly stable; urban surveyed unemployment rate falls】China NBS: Average urban surveyed unemployment rate for January–October was 5.2%, unchanged from the year-earlier period. October urban surveyed unemployment was 5.1%, down 0.1 ppt MoM. Local-hukou urban unemployment 5.2%; non-local (migrant) urban unemployment 4.9%, with rural-registered migrant unemployment 4.8%. Urban surveyed unemployment in 31 major cities 5.1%, down 0.1 ppt MoM. Nationwide average weekly hours worked by enterprise employees 48.3 hours."
+    },
+    {
+      "id": "5216666",
+      "time": "2026-11-16 10:01:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量642億元。"
+    },
+    {
+      "id": "mkt:01a1e216-b93e-7bbc-abed-0a9dd21355a1",
+      "time": "2026-11-16 10:01:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Hang Seng Index"
+      ],
+      "text": "National Bureau of Statistics: Jan-Oct China real estate development investment totaled 5.72 tln yuan, down 21.6% YoY; residential investment 4.41 tln yuan, down 21.4% YoY."
+    },
+    {
+      "id": "5216665",
+      "time": "2026-11-16 10:01:40",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【國家統計局：居民消費價格溫和上漲，工業生產者價格同比漲幅擴大】10月份，全國居民消費價格（CPI）同比上漲0.7%，環比持平。分類別看，食品菸酒及在外餐飲價格同比下降1.6%，衣著價格上漲1.1%，居住價格下降0.3%，生活用品及服務價格上漲0.2%，交通通訊價格上漲5.5%，教育文化娛樂價格上漲1.5%，醫療保健價格上漲2.4%，其他用品及服務價格上漲1.8%。在食品菸酒及在外餐飲價格中，鮮菜價格下降16.9%，豬肉價格下降8.6%，鮮果價格下降3.8%，糧食價格下降0.5%。扣除食品和能源價格後的核心CPI同比上漲0.8%。1—10月份，全國居民消費價格同比上漲0.9%。 10月份，全國工業生產者出廠價格同比上漲5.7%，漲幅比上月擴大0.7個百分點；環比上漲0.7%。全國工業生產者購進價格同比上漲7.9%，環比上漲1.1%。1—10月份，全國工業生產者出廠價格和購進價格同比分別上漲2.7%、4.0%。"
+    },
+    {
+      "id": "mkt:01a1e216-a9cd-7bbc-abed-015987fe2f6b",
+      "time": "2026-11-16 10:01:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "China National Bureau of Statistics: Jan-Oct fixed-asset investment excluding rural households totaled 36.48 tln yuan, down 8.1% YoY. Investment in intellectual property products rose 9.2% YoY."
+    },
+    {
+      "id": "5216664",
+      "time": "2026-11-16 10:01:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：就業形勢總體穩定，城鎮調查失業率下降】1—10月份，全國城鎮調查失業率平均值為5.2%，與上年同期持平。10月份，全國城鎮調查失業率為5.1%，比上月下降0.1個百分點。本地戶籍勞動力調查失業率為5.2%；外來戶籍勞動力調查失業率為4.9%，其中外來農業戶籍勞動力調查失業率為4.8%。31個大城市城鎮調查失業率為5.1%，比上月下降0.1個百分點。全國企業就業人員周平均工作時間為48.3小時。"
+    },
+    {
+      "id": "mkt:01a1e216-78f7-7bbc-abec-f984bdfc9641",
+      "time": "2026-11-16 10:01:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China Oct total retail sales of consumer goods MoM +0.02%, prior +0.35%."
+    },
+    {
+      "id": "5216663",
+      "time": "2026-11-16 10:01:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：貨物進出口快速增長，貿易結構繼續最佳化】10月份，貨物進出口總額48683億元，同比增長31.2%。其中，出口27905億元，增長28.7%；進口20778億元，增長34.7%。1—10月份，貨物進出口總額448100億元，同比增長20.0%。其中，出口259866億元，增長17.6%；進口188234億元，增長23.6%。1—10月份，一般貿易進出口同比增長13.2%。對共建“一帶一路”國家進出口增長18.5%。民營企業進出口增長20.1%。機電產品出口增長25.2%。"
+    },
+    {
+      "id": "mkt:01a1e216-51b0-7bbc-abec-f1b0bae137c1",
+      "time": "2026-11-16 10:01:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Retail Sales (MoM) (Oct) | actual 0.02% | previous 0.35%"
+    },
+    {
+      "id": "5216662",
+      "time": "2026-11-16 10:01:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：固定資產投資下降，智慧財產權產品投資快速增長】1—10月份，全國固定資產投資（不含農戶）364824億元，同比下降8.1%；扣除房地產開發的固定資產投資下降5.1%。其中，智慧財產權產品投資同比增長9.2%。高技術產業投資同比增長4.0%，其中資訊服務業，航空、航天器及裝置製造業，電子及通訊裝置製造業投資分別增長20.5%、10.2%、6.6%。分產業看，第一產業投資同比下降6.1%，第二產業投資下降3.6%，第三產業投資下降10.9%。分領域看，基礎設施投資同比下降5.1%，製造業投資下降2.9%，房地產開發投資下降21.6%。民間投資同比下降11.4%；扣除房地產開發的民間投資下降7.8%。全國新建商品房銷售面積61358萬平方米，同比下降13.7%；新建商品房銷售額58550億元，下降14.3%。全國二手房交易網籤面積67971萬平方米，同比增長11.4%。10月份，固定資產投資（不含農戶）環比下降2.93%。"
+    },
+    {
+      "id": "mkt:01a1e216-4075-7bbc-abec-e88ecafa0468",
+      "time": "2026-11-16 10:01:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "National Bureau of Statistics: China’s industrial value‑added for enterprises above designated size rose 4.8% YoY in October (real), up 0.21% MoM. Jan‑Oct cumulative YoY growth was 5.3%."
+    },
+    {
+      "id": "5216661",
+      "time": "2026-11-16 10:01:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌2%，現報6246.00點。"
+    },
+    {
+      "id": "mkt:01a1e216-26ba-7bbc-abec-e5428e6eb541",
+      "time": "2026-11-16 10:01:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bearish",
+        "CNH",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "China National Bureau of Statistics: Jan–Oct fixed‑asset investment (excluding rural households) totaled 36.48 trillion yuan, down 8.1% YoY. Investment in intellectual property products rose 9.2% YoY."
+    },
+    {
+      "id": "5216660",
+      "time": "2026-11-16 10:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：市場銷售規模擴大，服務零售增長較快】1—10月份，社會消費商品和服務零售總額同比增長2.5%，其中服務零售額增長4.9%，商品零售額增長0.9%。在服務零售額中，通訊資訊服務類、旅遊諮詢租賃服務類、文體休閒服務類零售額較快增長。1—10月份，社會消費品零售總額416464億元，同比增長1.0%。1—10月份，全國網上商品和服務零售額169811億元，同比增長3.7%。其中，網上商品零售額107274億元，增長2.9%；網上服務零售額62537億元，增長5.0%。10月份，社會消費品零售總額46463億元，同比增長0.4%；環比增長0.02%。按經營單位所在地分，城鎮消費品零售額40098億元，同比增長0.2%；鄉村消費品零售額6365億元，增長1.5%。按消費型別分，商品零售額41228億元，同比增長0.3%；餐飲收入5235億元，增長0.7%。部分升級類商品銷售較快增長，限額以上單位通訊器材類、文化辦公用品類商品零售額同比分別增長6.5%、4.1%。"
+    },
+    {
+      "id": "mkt:01a1e216-1a80-7bbc-abec-d96dbf2ab1b6",
+      "time": "2026-11-16 10:01:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China industrial value added for enterprises above designated size rose 0.21% MoM in October, down from 0.61% in September."
+    },
+    {
+      "id": "5216659",
+      "time": "2026-11-16 10:00:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局： 服務業平穩增長，現代服務業增勢良好 】10月份，全國服務業生產指數同比增長4.6%。分行業看，租賃和商務服務業，資訊傳輸、軟體和資訊科技服務業，交通運輸、倉儲和郵政業生產指數同比分別增長9.3%、9.2%、5.1%。1—10月份，全國服務業生產指數同比增長4.7%。10月份，服務業商務活動指數為50.0%，服務業業務活動預期指數為55.2%。其中，鐵路運輸、水上運輸、郵政、網際網路軟體及資訊科技服務等行業商務活動指數位於55.0%以上較高景氣區間。1—9月份，規模以上服務業企業營業收入同比增長5.4%。"
+    },
+    {
+      "id": "mkt:01a1e215-e701-7bbc-abec-d31a8ced69cc",
+      "time": "2026-11-16 10:00:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Industrial Value Added of Enterprises Above Designated Size (MoM) (Oct) | actual 0.21% | previous 0.61%"
+    },
+    {
+      "id": "5216657",
+      "time": "2026-11-16 10:00:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家統計局城市司高階統計師楊彩芳解讀2026年10月份商品住宅銷售價格變動情況統計資料】10月份，全國規模以上工業增加值同比增長4.8%，環比增長0.21%。分三大門類看，採礦業增加值同比增長0.7%，製造業增長5.4%，電力、熱力、燃氣及水生產和供應業增長4.4%。裝備製造業增加值同比增長10.6%，高技術製造業增加值增長17.6%，分別快於全部規模以上工業增加值5.8和12.8個百分點。分經濟型別看，國有控股企業增加值同比增長2.1%；股份制企業增長5.2%，外商及港澳臺投資企業增長3.0%；私營企業增長3.2%。分產品看，3D列印裝置、鋰離子電池、工業機器人產品產量同比分別增長85.9%、30.0%、26.0%。1—10月份，全國規模以上工業增加值同比增長5.3%。10月份，製造業採購經理指數為49.3%，企業生產經營活動預期指數為53.4%。1—9月份，全國規模以上工業企業實現利潤總額60337億元，同比增長15.5%。"
+    },
+    {
+      "id": "5216656",
+      "time": "2026-11-16 10:00:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家統計局城市司高階統計師楊彩芳解讀2026年10月份商品住宅銷售價格變動情況統計資料】10月份，全國規模以上工業增加值同比增長4.8%，環比增長0.21%。分三大門類看，採礦業增加值同比增長0.7%，製造業增長5.4%，電力、熱力、燃氣及水生產和供應業增長4.4%。裝備製造業增加值同比增長10.6%，高技術製造業增加值增長17.6%，分別快於全部規模以上工業增加值5.8和12.8個百分點。分經濟型別看，國有控股企業增加值同比增長2.1%；股份制企業增長5.2%，外商及港澳臺投資企業增長3.0%；私營企業增長3.2%。分產品看，3D列印裝置、鋰離子電池、工業機器人產品產量同比分別增長85.9%、30.0%、26.0%。1—10月份，全國規模以上工業增加值同比增長5.3%。10月份，製造業採購經理指數為49.3%，企業生產經營活動預期指數為53.4%。1—9月份，全國規模以上工業企業實現利潤總額60337億元，同比增長15.5%。"
+    },
+    {
+      "id": "mkt:01a1e215-9ad9-7bbc-abec-ce6aacc1282a",
+      "time": "2026-11-16 10:00:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "【Calls grow in tech sector for Jensen Huang to return to NVIDIA; analysts divided】CNBC cites Seaport Research Partners senior analyst Jay Goldberg saying Jensen Huang could return to NVIDIA if he overcomes current legal challenges, noting Huang’s outsized influence in the AI industry and continued investor support. Yorkville Ives & Co. partner and senior managing director Dan Ives says Huang’s return is highly unlikely; he warns shareholder petitions and public pressure could increase disruption but would not alter interim CEO Kress’s immediate task of restoring stability and investor confidence. Despite leadership turmoil, NVIDIA’s AI-chip market position and long-term demand outlook remain intact. NVIDIA is due to report fiscal Q3 results on Tuesday; investors will be watching Kress and the leadership team for reassurance."
+    },
+    {
+      "id": "5216655",
+      "time": "2026-11-16 10:00:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月份國民經濟執行總體平穩、向新向優】國家統計局今日釋出10月份國民經濟執行情況。10月份國民經濟執行延續總體平穩、向新向優發展態勢，全國規模以上工業增加值同比增長4.8%，全國服務業生產指數同比增長4.6%。"
+    },
+    {
+      "id": "mkt:01a1e215-7c51-7bbc-abec-c73cd77754ee",
+      "time": "2026-11-16 10:00:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bearish",
+        "CNH",
+        "S&P500"
+      ],
+      "text": "China YTD through Oct urban fixed-asset investment YoY -8.1% (consensus -7.0%; prior -7.2%)."
+    },
+    {
+      "id": "mkt:01a1e215-680d-7bbc-abec-bbda4073a7e0",
+      "time": "2026-11-16 10:00:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "China industrial output of enterprises above designated size rose 4.8% YoY in October, below expectations of 5.3% and down from a 5.5% prior reading."
+    },
+    {
+      "id": "mkt:01a1e215-6427-7bbc-abec-b5157f11a29b",
+      "time": "2026-11-16 10:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China Oct social retail sales of consumer goods YoY +0.4% (expected +0.8%; Sep +1.1%)."
+    },
+    {
+      "id": "mkt:01a1e215-6078-7bbc-abec-a9b8076ba204",
+      "time": "2026-11-16 10:00:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "China October urban surveyed unemployment rate 5.1% (consensus 5.2%), prior 5.2%."
+    },
+    {
+      "id": "5216654",
+      "time": "2026-11-16 10:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國10月社會消費品零售總額同比 0.4%，預期0.80%，前值1.10%。"
+    },
+    {
+      "id": "5216653",
+      "time": "2026-11-16 10:00:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年10月份規模以上工業增加值增長4.8%】10月份，規模以上工業增加值同比實際增長4.8%（增加值增速均為扣除價格因素的實際增長率）。從環比看，10月份，規模以上工業增加值比上月增長0.21%。1—10月份，規模以上工業增加值同比增長5.3%。 分三大門類看，10月份，採礦業增加值同比增長0.7%，製造業增長5.4%，電力、熱力、燃氣及水生產和供應業增長4.4%。 分經濟型別看，10月份，國有控股企業增加值同比增長2.1%；股份制企業增長5.2%，外商及港澳臺投資企業增長3.0%；私營企業增長3.2%。"
+    },
+    {
+      "id": "mkt:01a1e215-2aa6-7bbc-abec-8bba3454bfba",
+      "time": "2026-11-16 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Urban Survey Unemployment Rate (Oct) | actual 5.1% | consensus 5.20% | previous 5.20%"
+    },
+    {
+      "id": "mkt:01a1e215-2ae9-7bbc-abec-a32ee7271398",
+      "time": "2026-11-16 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Retail Sales (YoY) (Oct) | actual 0.4% | consensus 0.80% | previous 1.10%"
+    },
+    {
+      "id": "mkt:01a1e215-2ad3-7bbc-abec-9ab4424ac020",
+      "time": "2026-11-16 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Urban Fixed Asset Investment YTD (YoY) (Oct) | actual -8.1% | consensus -7.00% | previous -7.20%"
+    },
+    {
+      "id": "mkt:01a1e215-2abe-7bbc-abec-94e6ab195f87",
+      "time": "2026-11-16 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Industrial Value Added of Enterprises Above Designated Size (YoY) (Oct) | actual 4.8% | consensus 5.30% | previous 5.50%"
+    },
+    {
+      "id": "5216651",
+      "time": "2026-11-16 09:59:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊總辦號召AI時代再創業：這是一個生死存亡的問題】11月16日，騰訊文化釋出《總辦號召 AI 時代再創業，“心態歸零”》一文，詳細覆盤了引發輿論熱議的騰訊司慶講話內容。騰訊文化表示，公司28歲生日這天，把一年一度的總辦LinkTime做成了一檔特別的播客——和總辦們坐在一起，聊了聊AI時代的機會、挑戰與選擇。“結束之後，陸續收到各種反饋，包括傳到離譜的一些外部猜測”。但面對技術變革的巨浪，沒有人是旁觀者。所有人都要做出選擇。如果不想被顛覆，真正重要的事只有一件：一起動起來。正如Pony和Martin在LinkTime裡談到的，能夠參與這場巨大的科技變革，並且站在前沿，這是我們的榮幸。我們的業務要站起應戰，組織也要適應新的變化快速變革。"
+    },
     {
       "id": "5216650",
       "time": "2026-11-16 09:58:48",
@@ -90106,118 +90536,6 @@
         "國際"
       ],
       "text": "菲律賓第三季度出口同比增長8.6%。"
-    },
-    {
-      "id": "5202017",
-      "time": "2026-11-09 10:03:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "三井化學將以1.64萬億日元過橋貸款為JSR的收購交易提供資金。"
-    },
-    {
-      "id": "5202016",
-      "time": "2026-11-09 10:03:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【文化傳媒板塊衝高，思美傳媒直線漲停】文化傳媒板塊衝高，思美傳媒直線漲停，凡拓數創漲超13%，崑崙萬維、東方明珠、引力傳媒跟漲。"
-    },
-    {
-      "id": "5202015",
-      "time": "2026-11-09 10:03:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾兌美元跌至18100。"
-    },
-    {
-      "id": "5202014",
-      "time": "2026-11-09 10:03:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓第三季度農業生產同比下降4.8%。"
-    },
-    {
-      "id": "5202013",
-      "time": "2026-11-09 10:02:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓第三季度服務業同比增長3.7%。"
-    },
-    {
-      "id": "5202012",
-      "time": "2026-11-09 10:02:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓第三季度GDP同比增長2.1% 預估為3.1%。"
-    },
-    {
-      "id": "5202011",
-      "time": "2026-11-09 10:01:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度尼西亞股市基準指數開盤上漲0.6%，報5082.17點。"
-    },
-    {
-      "id": "te:markets:599330",
-      "time": "2026-11-09 10:00:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Rises on Softer Oil Prices — Silver climbed above $53 per ounce on Monday, extending last week’s gains as weaker oil prices eased inflationary pressures, although expectations of a more hawkish Federal Reserve capped further upside. Oil prices remained under pressure after President Donald Trump said it was “highly unlikely” he would authorize additional strikes on Iran if negotiations over its nuclear program and the reopening of the Strait of Hormuz make significant progress. Meanwhile, US data released on Friday showed that job growth accelerated in October, while the unemployment rate declined to 4.1%, highlighting the resilience of the labor market and strengthening expectations of a potential Fed rate hike in December. Markets are now pricing in an approximately 81% probability of a quarter-point rate increase before year-end, up from 71% ahead of the employment report. Investors are now turning their attention to key US inflation data due this week for further clues on the Fed’s monetary policy direction."
-    },
-    {
-      "id": "te:markets:599329",
-      "time": "2026-11-09 10:00:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "China Construction Bank Shares Hit 8-year High — China Construction Bank shares increased to 10.59 HKD, the highest since October 2018. Over the past 4 weeks, China Construction Bank gained 9.76%, and in the last 12 months, it increased 30.01%."
-    },
-    {
-      "id": "5202010",
-      "time": "2026-11-09 10:00:25",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【福建檢察機關依法對尹建業涉嫌受賄案提起公訴】記者今天（9日）從最高人民檢察院獲悉，江西省政協原黨組成員、副主席尹建業涉嫌受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。最高人民檢察院依法以涉嫌受賄罪對尹建業作出逮捕決定，並指定由福建省漳州市人民檢察院審查起訴。近日，漳州市人民檢察院已向漳州市中級人民法院提起公訴。檢察機關在審查起訴階段，依法告知了被告人尹建業享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人尹建業利用擔任雲南省人民政府副秘書長，雲南省審計廳廳長，雲南省大理州委書記，雲南省人民政府副省長，江西省人民政府副省長，江西省委常委、政法委書記等職務上的便利以及職權或者地位形成的便利條件，為他人謀取利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪追究其刑事責任。（央視新聞）"
-    },
-    {
-      "id": "te:markets:599328",
-      "time": "2026-11-09 10:00:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Rise After Inflation Data — The Shanghai Composite rose 0.3% to 3,658 on Monday, while the Shenzhen Component added 0.9% to 11,272, extending gains from the previous week as investors assessed mixed inflation data. China’s annual consumer inflation rate eased to 0.7% in October 2026 from September’s three-month high of 0.9%, below the expected 0.8% and marking its lowest level since June. In contrast, producer prices rose to over four-year high of 5.7% from 5% in September and above the forecasted 5.3%, as higher commodity and energy prices continued to push up industrial costs. This growing divergence underscores persistent upstream cost pressures alongside sluggish domestic demand, indicating that higher industrial inputs have yet to pass through to consumers. Investors now await trade data due on Tuesday for further clues about the strength of external demand. Cambricon Technologies (3%), WuXi AppTec Co. (2.1%), Luxshare Precision Industry (2.1%), and Weichai Power (3%) were among the top performers."
-    },
-    {
-      "id": "te:markets:599327",
-      "time": "2026-11-09 09:59:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Advances on Softer Oil Prices — Gold climbed above $4,100 per ounce on Monday, extending last week’s gains as weaker oil prices eased inflationary pressures, although expectations of a more hawkish Federal Reserve capped further upside. Oil prices remained under pressure after President Donald Trump said it was “highly unlikely” he would authorize additional strikes on Iran if negotiations over its nuclear program and the reopening of the Strait of Hormuz make significant progress. Meanwhile, US data released on Friday showed that job growth accelerated in October, while the unemployment rate declined to 4.1%, highlighting the resilience of the labor market and strengthening expectations of a potential Fed rate hike in December. Markets are now pricing in an approximately 81% probability of a quarter-point rate increase before year-end, up from 71% ahead of the employment report. Investors are now turning their attention to key US inflation data due this week for further clues on the Fed’s monetary policy direction."
     }
   ]
 }
