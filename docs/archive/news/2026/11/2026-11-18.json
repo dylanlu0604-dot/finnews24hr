@@ -1,7 +1,65 @@
 {
   "date": "2026-11-18",
-  "count": 280,
+  "count": 286,
   "items": [
+    {
+      "id": "mkt:01a1eb14-b225-7bbc-ac2a-b5ef6993422f",
+      "time": "2026-11-18 03:56:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "Muddy Waters Research is short NVIDIA (NVDA.O)."
+    },
+    {
+      "id": "mkt:01a1eb13-e148-7bbc-ac2a-aeba4ec3172e",
+      "time": "2026-11-18 03:55:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The root cause of Friday’s router failure has not yet been determined, U.S. Transportation Secretary Duffy said."
+    },
+    {
+      "id": "5220887",
+      "time": "2026-11-18 03:54:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：週五故障路由器的根本原因仍未查明。"
+    },
+    {
+      "id": "mkt:01a1eb13-70fe-7bbc-ac2a-a69e9f1a1695",
+      "time": "2026-11-18 03:54:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NSA internal network disruption】The National Security Agency said on Nov. 17 that its internal network experienced a temporary slowdown during scheduled routine maintenance, affecting some internal systems. Critical mission capabilities remained fully operational."
+    },
+    {
+      "id": "5220886",
+      "time": "2026-11-18 03:54:04",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "Muddy Waters做空英偉達。"
+    },
+    {
+      "id": "5220885",
+      "time": "2026-11-18 03:53:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國安局內部網故障】美國國家安全域性於美國東部時間11月17日下午釋出宣告稱，該機構內部網路“在一次計劃內的例行維護期間出現‘臨時降速’”，部分內部系統受到影響，但“關鍵任務能力”保持全面正常執行。據美國媒體稍早前報道，美國國安局的機密內部通訊網路（NSANet）中斷執行，相關人員正在進行軟體更新和補丁修復。知情人士稱沒有證據表明此次故障由網路攻擊造成。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:01a1eb0f-3741-7bbc-ac2a-9e839008eb4a",
       "time": "2026-11-18 03:50:05",
