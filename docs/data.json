@@ -1,7 +1,106 @@
 {
-  "updated": "2026-11-17 11:28:53",
-  "count": 9894,
+  "updated": "2026-11-17 11:32:45",
+  "count": 9896,
   "items": [
+    {
+      "id": "5219061",
+      "time": "2026-11-17 11:31:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF午評：科創半導體裝置ETF領漲7.03%，影視ETF跌5.54%】ETF午間收盤漲跌不一，科創半導體裝置ETF（588710）領漲7.03%，半導體裝置ETF（159516）漲6.90%，半導體裝置ETF（159558）漲6.86%，國企紅利ETF（159515）領跌8.18%，影視ETF（159855）跌5.54%，影視ETF（516620）跌5.38%。"
+    },
+    {
+      "id": "5219060",
+      "time": "2026-11-17 11:31:32",
+      "tags": [
+        "公司",
+        "市場",
+        "A股"
+      ],
+      "text": "【午評：科創50指數低開高走漲超3%，光刻膠、半導體、光學光電子板塊漲幅居前】A股三大指數早盤漲跌不一，截至午盤，上證指數跌0.01%，深證成指漲0.69%，創業板指漲0.72%，北證50漲2.44%，科創50指數漲3.31%。全市場成交額3545億元，較上日縮量57億元，全市場超3500只個股上漲。板塊題材上，光刻膠、半導體、光學光電子、小家電、光刻機板塊漲幅居前；影視院線、文化傳媒、遊戲、煤炭開採加工、AI影片板塊跌幅居前。盤面上，光刻膠板塊低開高走表現強勢，聯合化學、怡達股份、西隴科學、江化微、格林達等多股觸及漲停，茂萊光學、寶麗迪、國風新材漲幅居前。小家電板塊表現活躍，小熊電器漲停，九陽股份盤中上演“地天板”，北鼎股份、石頭科技、科沃斯漲幅居前。光學光電子板塊亦表現活躍，芯瑞達、陽光照明、永新光學、波長光電觸及漲停，福晶科技、福光股份漲幅居前。影視院線板塊大幅下挫，橫店影視、文投控股觸及跌停，華策影視、慈文傳媒、華智數媒重挫。文化傳媒板塊亦表現低迷，龍版傳媒、湖北廣電觸及跌停，華數傳媒、凡拓數創、返利科技、新華傳媒均大跌。"
+    },
+    {
+      "id": "5219059",
+      "time": "2026-11-17 11:31:19",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【SMBC日興證券將日經225指數年終目標位下調至61000點，因人工智慧擔憂加劇】SMBC日興證券表示， 受美國中期選舉後人工智慧擔憂加劇導致估值承壓的影響，將日經225指數年底目標價從 72,000點下調至 61,000點。鑑於監管方面的不確定性，現在還不是“積極加大對人工智慧和半導體相關股票投資風險的時機”，該公司策略師們表示。 SMBC日興證券表示，總體上不看空日本股市，並繼續建議分散投資於具有盈利增長潛力的多個行業和股票。該券商還將日經指數2027年底的目標位從80,000點下調至67,000點。"
+    },
+    {
+      "id": "mkt:01a1e78f-212a-7bbc-ac0d-8be4e9b4923d",
+      "time": "2026-11-17 11:31:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bond futures morning-session close】China government bond futures: the most-active 2-year contract rose 0.01%, the 5-year rose 0.08%, the 10-year rose 0.14% and the 30-year rose 0.58%."
+    },
+    {
+      "id": "mkt:01a1e78f-1310-7bbc-ac0d-8000b2653894",
+      "time": "2026-11-17 11:31:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "Former Trump AI adviser David Sacks said it was “too premature” to reach a verdict on former NVIDIA CEO Jensen Huang, adding that the public should wait for a formal ruling by the courts."
+    },
+    {
+      "id": "mkt:01a1e78f-06ba-7bbc-ac0d-7c0e8d02978f",
+      "time": "2026-11-17 11:31:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China stock index futures at morning close】The front-month CSI 300 futures contract rose 0.21%, the FTSE China A50 contract fell 0.04%, the CSI 500 contract gained 1.23% and the CSI 1000 contract rose 0.95%."
+    },
+    {
+      "id": "mkt:01a1e78e-e3af-7bbc-ac0d-73f36cf21740",
+      "time": "2026-11-17 11:31:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "At the midday break, most actively traded domestic futures contracts were lower. Fuel oil fell more than 6%; SC crude and asphalt dropped more than 5%; low-sulfur fuel oil (LU) and synthetic rubber lost more than 4%; methanol and polypropylene fell nearly 4%. European-route container freight futures rose more than 2%, while pulp and eggs gained more than 1%."
+    },
+    {
+      "id": "5219058",
+      "time": "2026-11-17 11:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】燃料油連續跌6.40%，上海原油連續跌5.58%，瀝青連續跌5.36%，低硫燃料油連續跌4.61%，丁二烯橡膠連續跌4.17%。"
+    },
+    {
+      "id": "5219057",
+      "time": "2026-11-17 11:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲0.95%， 滬深300指數期貨連續漲0.21%， 中證500指數期貨連續漲1.23%， 上證50指數期貨連續跌0.04%。"
+    },
+    {
+      "id": "5219056",
+      "time": "2026-11-17 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約漲0.58%， 10年期主力合約漲0.14%， 5年期主力合約漲0.08%， 2年期主力合約漲0.01%。"
+    },
     {
       "id": "5219055",
       "time": "2026-11-17 11:28:20",
@@ -89624,82 +89723,6 @@
         "其他"
       ],
       "text": "【廣發證券：26Q3鋰電高景氣延續 儲能有望帶動需求預期修復】廣發證券釋出研究報告稱，26Q3鋰電產業鏈整體處於強現實、弱預期的狀態，該行看好，鋰電需求的悲觀預期逐步修復，頭部電池廠商迎來估值修復，此外，該行看好供給擴張相對剋制的銅箔、隔膜，以及受益於鈉電的鋁箔。"
-    },
-    {
-      "id": "5205176",
-      "time": "2026-11-10 11:32:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【瑪莎拉蒂將與尊界合作？Stellantis回應】11月9日，就有訊息稱瑪莎拉蒂與尊界的合作專案名為“瑪莎拉蒂Design”，該專案為華為、江淮和Stellantis的三方合作等，Stellantis方面回應稱，不對市場傳聞或猜測發表評論。“瑪莎拉蒂品牌的未來戰略及發展規劃將於今年12月在義大利摩德納舉辦的投資者日活動上正式公佈。在此之前，我們不對任何相關市場傳聞或猜測作進一步評論。” （藍鯨新聞）"
-    },
-    {
-      "id": "mkt:01a1c382-dbc2-7ee0-aaea-b9854ae32146",
-      "time": "2026-11-10 11:31:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Index futures morning session close】Morning session close: CSI 300 index futures (IF) most-active contract -0.02%; SSE 50 index futures (IH) -0.43%; CSI 500 index futures (IC) +0.66%; CSI 1000 index futures (IM) +0.90%."
-    },
-    {
-      "id": "mkt:01a1c382-a0d6-7ee0-aaea-b6b1749bcc66",
-      "time": "2026-11-10 11:31:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China government bond futures morning session close】2-year bond futures (TS) most-active contract down 0.01%, 5-year (TF) down 0.02%, 10-year (T) down 0.02%, 30-year (TL) down 0.12%."
-    },
-    {
-      "id": "5205170",
-      "time": "2026-11-10 11:31:04",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【午評：創業板指震盪半日漲1.49%，影視院線、文化傳媒板塊漲幅居前】A股三大指數早盤集體上漲，截至午盤，上證指數漲0.06%，深證成指漲0.76%，創業板指漲1.49%，北證50漲0.5%，科創50指數漲1.05%。全市場成交額9681億元，較上日縮量500億元，全市場超3800只個股上漲。板塊題材上，影視院線、文化傳媒、元件、人形機器人、CPO板塊漲幅居前；油氣開採及服務、保險、煤炭開採加工、港口航運、證金持股板塊跌幅居前。盤面上，影視院線板塊強勢上漲，金逸影視、上海電影、慈文傳媒、文投控股漲停，華策影視、華智數媒、百納千成漲幅居前。文化傳媒板塊表現活躍，縱橫通訊、掌閱科技、引力傳媒、風語築、天威視訊觸及漲停，龍版傳媒、中文線上、果麥文化漲幅居前。元件板塊亦表現活躍，協和電子、世運電路觸及漲停，澳弘電子、滬電股份、迅捷興漲幅居前。油氣開採及服務低開低走，中海油服、中國海油、中曼石油跌幅居前。煤炭開採加工板塊走勢低迷，晉控煤業、廣匯能源、新集能源跌幅居前。"
-    },
-    {
-      "id": "mkt:01a1c382-64c1-7ee0-aaea-acb74cfadd14",
-      "time": "2026-11-10 11:31:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "At the morning close, China’s main futures contracts were mostly lower. LPG fell more than 6%, fuel oil nearly 6%, SC crude and low-sulfur fuel oil (LU) declined over 5%, benzene dropped about 5%, and polypropylene (monthly-average and main contracts), asphalt and other polypropylene contracts lost over 4%. Advancers included Europe-route container freight, up over 3%; manganese-silicon, up nearly 2%; and platinum, live hogs, urea, ferrosilicon, caustic soda, Shanghai silver and logs, all up more than 1%."
-    },
-    {
-      "id": "5205168",
-      "time": "2026-11-10 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨早盤收盤】液化石油氣連續跌6.18%，燃料油連續跌5.88%，上海原油連續跌5.63%，低硫燃料油連續跌5.36%，純苯連續跌4.96%。"
-    },
-    {
-      "id": "5205167",
-      "time": "2026-11-10 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.12%， 10年期主力合約跌0.02%， 5年期主力合約跌0.02%， 2年期主力合約跌0.01%。"
-    },
-    {
-      "id": "5205166",
-      "time": "2026-11-10 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲0.90%， 滬深300指數期貨連續跌0.02%， 中證500指數期貨連續漲0.66%， 上證50指數期貨連續跌0.43%。"
     }
   ]
 }

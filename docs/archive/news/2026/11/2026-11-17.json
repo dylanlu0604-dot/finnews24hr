@@ -1,7 +1,106 @@
 {
   "date": "2026-11-17",
-  "count": 725,
+  "count": 735,
   "items": [
+    {
+      "id": "5219061",
+      "time": "2026-11-17 11:31:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF午評：科創半導體裝置ETF領漲7.03%，影視ETF跌5.54%】ETF午間收盤漲跌不一，科創半導體裝置ETF（588710）領漲7.03%，半導體裝置ETF（159516）漲6.90%，半導體裝置ETF（159558）漲6.86%，國企紅利ETF（159515）領跌8.18%，影視ETF（159855）跌5.54%，影視ETF（516620）跌5.38%。"
+    },
+    {
+      "id": "5219060",
+      "time": "2026-11-17 11:31:32",
+      "tags": [
+        "公司",
+        "市場",
+        "A股"
+      ],
+      "text": "【午評：科創50指數低開高走漲超3%，光刻膠、半導體、光學光電子板塊漲幅居前】A股三大指數早盤漲跌不一，截至午盤，上證指數跌0.01%，深證成指漲0.69%，創業板指漲0.72%，北證50漲2.44%，科創50指數漲3.31%。全市場成交額3545億元，較上日縮量57億元，全市場超3500只個股上漲。板塊題材上，光刻膠、半導體、光學光電子、小家電、光刻機板塊漲幅居前；影視院線、文化傳媒、遊戲、煤炭開採加工、AI影片板塊跌幅居前。盤面上，光刻膠板塊低開高走表現強勢，聯合化學、怡達股份、西隴科學、江化微、格林達等多股觸及漲停，茂萊光學、寶麗迪、國風新材漲幅居前。小家電板塊表現活躍，小熊電器漲停，九陽股份盤中上演“地天板”，北鼎股份、石頭科技、科沃斯漲幅居前。光學光電子板塊亦表現活躍，芯瑞達、陽光照明、永新光學、波長光電觸及漲停，福晶科技、福光股份漲幅居前。影視院線板塊大幅下挫，橫店影視、文投控股觸及跌停，華策影視、慈文傳媒、華智數媒重挫。文化傳媒板塊亦表現低迷，龍版傳媒、湖北廣電觸及跌停，華數傳媒、凡拓數創、返利科技、新華傳媒均大跌。"
+    },
+    {
+      "id": "mkt:01a1e78f-212a-7bbc-ac0d-8be4e9b4923d",
+      "time": "2026-11-17 11:31:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bond futures morning-session close】China government bond futures: the most-active 2-year contract rose 0.01%, the 5-year rose 0.08%, the 10-year rose 0.14% and the 30-year rose 0.58%."
+    },
+    {
+      "id": "5219059",
+      "time": "2026-11-17 11:31:19",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【SMBC日興證券將日經225指數年終目標位下調至61000點，因人工智慧擔憂加劇】SMBC日興證券表示， 受美國中期選舉後人工智慧擔憂加劇導致估值承壓的影響，將日經225指數年底目標價從 72,000點下調至 61,000點。鑑於監管方面的不確定性，現在還不是“積極加大對人工智慧和半導體相關股票投資風險的時機”，該公司策略師們表示。 SMBC日興證券表示，總體上不看空日本股市，並繼續建議分散投資於具有盈利增長潛力的多個行業和股票。該券商還將日經指數2027年底的目標位從80,000點下調至67,000點。"
+    },
+    {
+      "id": "mkt:01a1e78f-1310-7bbc-ac0d-8000b2653894",
+      "time": "2026-11-17 11:31:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "Former Trump AI adviser David Sacks said it was “too premature” to reach a verdict on former NVIDIA CEO Jensen Huang, adding that the public should wait for a formal ruling by the courts."
+    },
+    {
+      "id": "mkt:01a1e78f-06ba-7bbc-ac0d-7c0e8d02978f",
+      "time": "2026-11-17 11:31:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China stock index futures at morning close】The front-month CSI 300 futures contract rose 0.21%, the FTSE China A50 contract fell 0.04%, the CSI 500 contract gained 1.23% and the CSI 1000 contract rose 0.95%."
+    },
+    {
+      "id": "mkt:01a1e78e-e3af-7bbc-ac0d-73f36cf21740",
+      "time": "2026-11-17 11:31:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "At the midday break, most actively traded domestic futures contracts were lower. Fuel oil fell more than 6%; SC crude and asphalt dropped more than 5%; low-sulfur fuel oil (LU) and synthetic rubber lost more than 4%; methanol and polypropylene fell nearly 4%. European-route container freight futures rose more than 2%, while pulp and eggs gained more than 1%."
+    },
+    {
+      "id": "5219058",
+      "time": "2026-11-17 11:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】燃料油連續跌6.40%，上海原油連續跌5.58%，瀝青連續跌5.36%，低硫燃料油連續跌4.61%，丁二烯橡膠連續跌4.17%。"
+    },
+    {
+      "id": "5219057",
+      "time": "2026-11-17 11:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲0.95%， 滬深300指數期貨連續漲0.21%， 中證500指數期貨連續漲1.23%， 上證50指數期貨連續跌0.04%。"
+    },
+    {
+      "id": "5219056",
+      "time": "2026-11-17 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約漲0.58%， 10年期主力合約漲0.14%， 5年期主力合約漲0.08%， 2年期主力合約漲0.01%。"
+    },
     {
       "id": "5219055",
       "time": "2026-11-17 11:28:20",
