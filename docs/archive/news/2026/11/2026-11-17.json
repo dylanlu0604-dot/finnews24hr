@@ -1,7 +1,135 @@
 {
   "date": "2026-11-17",
-  "count": 665,
+  "count": 679,
   "items": [
+    {
+      "id": "mkt:01a1e777-5764-7bbc-ac0c-ef24f1043bdb",
+      "time": "2026-11-17 11:05:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SOXX.O",
+        "Impact bullish",
+        "SMH.O"
+      ],
+      "text": "【Several semiconductor equipment ETFs rise more than 4%】Several semiconductor equipment ETFs, including the GF, Guotai and E Fund Semiconductor Equipment ETFs, rise more than 4%."
+    },
+    {
+      "id": "5219025",
+      "time": "2026-11-17 11:05:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【電安全技術驗證體系升級 護航新能源汽車出海】從中國汽車技術研究中心獲悉，2027全球場景新能源汽車電安全技術驗證體系正式釋出，並上線了全球首個新能源汽車電安全國際官方網站。據瞭解，這一技術驗證體系已累計完成700多個驗證專案，覆蓋近200類工況，推動行業企業解決200餘項重大電安全相關問題。這次升級的2027全球驗證體系，共包含40個驗證專案，1000多個驗證場景，涵蓋歐洲、中東、東南亞及南亞、俄羅斯及中亞、拉美、澳新等新能源汽車重要出口區域。"
+    },
+    {
+      "id": "mkt:01a1e776-7dd2-7bbc-ac0c-e5dfa6b58cfb",
+      "time": "2026-11-17 11:04:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi-led coalition commander reshuffle】Saudi Arabia’s King Salman appointed Armed Forces Chief of Staff Fayez bin Hamed Al-Ruwaili as acting commander of the Saudi-led coalition, in addition to his current role, the Saudi Press Agency reported on Nov. 16. The outgoing commander was named military adviser to the defense minister. Saudi Arabia formed the coalition in March 2015 to support Yemen’s government against the Houthi movement."
+    },
+    {
+      "id": "5219024",
+      "time": "2026-11-17 11:04:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為申請註冊韜定律關聯商標】天眼查智慧財產權資訊顯示，近日，華為技術有限公司申請註冊“τCHIP”“τECO”“τEDA”商標，國際分類涉及科學儀器、材料加工等，當前狀態均為等待實質審查。該公司成立於1987年9月，法定代表人為趙明路，註冊資本約411.4億人民幣，經營範圍包括資訊系統設計、整合、執行維護等，由華為投資控股有限公司全資持股。"
+    },
+    {
+      "id": "5219023",
+      "time": "2026-11-17 11:03:51",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【多隻半導體裝置ETF漲超4%】半導體裝置ETF廣發、半導體裝置ETF國泰、半導體裝置ETF易方達等多隻半導體裝置ETF漲超4%。"
+    },
+    {
+      "id": "5219022",
+      "time": "2026-11-17 11:03:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【易方達在廣東成立前沿科技公司，註冊資本1億】天眼查App顯示，近日，易方達前沿科技（廣東）有限公司成立，法定代表人為嚴江鵬，註冊資本1億元人民幣，經營範圍包括人工智慧理論與演算法軟體開發、人工智慧通用應用系統、人工智慧應用軟體開發等。股東資訊顯示，該公司由易方達基金管理有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a1e775-d030-7bbc-ac0c-db6f6d3abb4b",
+      "time": "2026-11-17 11:03:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "000300.SS",
+        "Impact bullish",
+        "000001.SS"
+      ],
+      "text": "A-share semiconductor equipment stocks extended intraday gains. Dongfang Jiasheng hit the 10% limit-up, joining Guolin Technology, Bocheng Co., Shengjian Technology and Shanghai Highly, which had already reached limit-up. Huicheng Vacuum, Favored Technology, Wavelength Opto-Electronic and MLOptic rose more than 10%."
+    },
+    {
+      "id": "5219021",
+      "time": "2026-11-17 11:03:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【三大指數集體拉昇，創業板指、深證成指雙雙翻紅】A股三大指數集體拉昇，創業板指、深證成指雙雙翻紅，滬指現跌0.44%。"
+    },
+    {
+      "id": "5219020",
+      "time": "2026-11-17 11:03:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體裝置板塊漲勢擴大 東方嘉盛等多股漲停】半導體裝置板塊盤中漲勢擴大，東方嘉盛直線漲停，此前國林科技、柏誠股份、盛劍科技、海立股份漲停，匯成真空、菲沃泰、波長光電、茂萊光學均漲超10%。"
+    },
+    {
+      "id": "mkt:01a1e775-0a8f-7bbc-ac0c-d7c0d00e959f",
+      "time": "2026-11-17 11:02:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【CATL to expand electrification from land to sea and air, Robin Zeng says】CATL Chairman Robin Zeng said at the APEC Business Leaders’ Summit in Shenzhen on Nov. 17-18, 2026, that technological innovation is the company’s main growth driver. CATL is focused on improving battery energy density and safety for electric vehicles and extending electrification from land to sea and air. Zeng said advanced technology could significantly cut travel times between cities and support development across the Asia-Pacific, a region with many islands."
+    },
+    {
+      "id": "5219019",
+      "time": "2026-11-17 11:02:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡貿工部將於11月24日釋出第三季度經濟調查報告。"
+    },
+    {
+      "id": "5219018",
+      "time": "2026-11-17 11:02:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "泰國SET指數下跌1%，至1483.86點。"
+    },
+    {
+      "id": "5219017",
+      "time": "2026-11-17 11:02:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.04%，成分股中，錦華新材漲6.65%，並行科技漲5.56%，凱德石英漲4.81%，同惠電子漲4.54%。"
+    },
+    {
+      "id": "5219016",
+      "time": "2026-11-17 11:01:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上海銀行間同業拆放利率(Shibor)漲跌互現】隔夜shibor報1.3030%，下跌0.10個基點；7天shibor報1.4000%，上漲1.00個基點；14天shibor報1.4000%，上漲0.50個基點；1月shibor報1.3863%，上漲0.33個基點；3月shibor報1.4000%，與前一交易日持平。"
+    },
     {
       "id": "5219015",
       "time": "2026-11-17 11:01:43",
