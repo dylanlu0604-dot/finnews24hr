@@ -1,7 +1,65 @@
 {
   "date": "2026-11-17",
-  "count": 691,
+  "count": 697,
   "items": [
+    {
+      "id": "mkt:01a1e77e-96cb-7bbc-ac0d-233699d4baf2",
+      "time": "2026-11-17 11:13:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share component stocks rally, with Jingce Technology up more than 10%; Founder Technology, Shengyi Electronics, Shengye Electric, Guanghe Technology and Hongban Technology also advance."
+    },
+    {
+      "id": "5219036",
+      "time": "2026-11-17 11:12:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力拓集團執行長喬德：供應鏈韌性比以往任何時候都更加重要】11月17日—18日，2026年APEC工商領導人峰會在深圳舉行。在“亞太經濟新圖景與合作新機遇”工商對話上，力拓集團執行長喬德表示，隨著全球對銅、鋰等關鍵礦產需求激增以及專案開發難度增加，供應鏈韌性比以往任何時候都更加重要。如果缺乏整合的、協同運作的供應鏈，就難以滿足巨大的礦產資源需求，而且也會看到物價高企。以西芒杜鐵礦專案為例，他認為，該專案由幾內亞政府、力拓集團和中國公司共同推進，集中展現了跨經濟體的合作伙伴關係能夠如何增強全球供應鏈的韌性。"
+    },
+    {
+      "id": "5219035",
+      "time": "2026-11-17 11:12:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平會見巴布亞紐幾內亞總理馬拉佩】11月17日上午，國家主席習近平在深圳會見來華出席亞太經合組織第三十三次領導人非正式會議的巴布亞紐幾內亞總理馬拉佩。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1e77d-b2fb-7bbc-ac0d-1be82e6a2701",
+      "time": "2026-11-17 11:12:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Trump aides to meet European and Ukrainian officials on peace plan】A U.S. official told Axios that U.S. envoy Steve Witkoff and Trump's son-in-law Jared Kushner plan to meet Ukrainian and European officials this week to develop security guarantees for Ukraine and a postwar economic recovery plan. The meeting is scheduled for Thursday in Berlin, a week after Witkoff and Kushner urged Russia to propose a postwar security framework for Europe. They hope the parallel effort will help bring the conflict to an end."
+    },
+    {
+      "id": "5219034",
+      "time": "2026-11-17 11:11:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬斯克稱特斯拉最早12月啟動車主Robotaxi試運營】馬斯克近日在社交平臺上表示，特斯拉最早可能於12月啟動車主Robotaxi試運營，允許個人車主將自己的車輛投入特斯拉無人駕駛計程車網路接單賺錢。 事情的起因是一位奧斯汀的Uber司機在社交平臺上向馬斯克提問，表示自己寧願把Model Y放出去自動接送乘客，也不想親自花時間開車跑單。 馬斯克回覆稱“快了，如果一切順利，可能下個月開始試點”，並補充說管理一支車隊比自己開一輛車更有價值。 不過馬斯克並未透露試點的具體城市、參與條件以及車費分成方案等關鍵細節。"
+    },
+    {
+      "id": "mkt:01a1e77c-9525-7bbc-ac0d-16b38e468434",
+      "time": "2026-11-17 11:11:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "688256.SS",
+        "Impact bullish",
+        "SSE Composite",
+        "CSI300"
+      ],
+      "text": "China's STAR 50 Index gains 3%; Cambricon rises more than 5% intraday."
+    },
     {
       "id": "mkt:01a1e77a-73a0-7bbc-ac0d-0cb9e9b3aec3",
       "time": "2026-11-17 11:08:44",
