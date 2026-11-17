@@ -1,7 +1,80 @@
 {
   "date": "2026-11-18",
-  "count": 252,
+  "count": 260,
   "items": [
+    {
+      "id": "mkt:01a1eb06-7bc8-7bbc-ac2a-446564e2f57e",
+      "time": "2026-11-18 03:40:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Department of Justice said an Irish national was charged with damaging a U.S. military C-130H aircraft worth $60 million at Shannon Airport in Ireland."
+    },
+    {
+      "id": "5220872",
+      "time": "2026-11-18 03:40:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：需求明顯跑贏供給。"
+    },
+    {
+      "id": "mkt:01a1eb06-3d8f-7bbc-ac2a-3883b9307229",
+      "time": "2026-11-18 03:40:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senate Democratic Leader Schumer: I have enough votes in the leadership election."
+    },
+    {
+      "id": "5220868",
+      "time": "2026-11-18 03:39:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "華碩在SC26展示全棧AI基礎設施，涵蓋英特爾和AMD平臺。"
+    },
+    {
+      "id": "5220867",
+      "time": "2026-11-18 03:39:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西勞動部長：巴西總統盧拉將於週四簽署立法，推行更短的工作周。"
+    },
+    {
+      "id": "mkt:01a1eb04-a5d2-7bbc-ac2a-32c2d9afb918",
+      "time": "2026-11-18 03:38:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【U.S. official: U.S. military strikes missile launch site on Iran’s Qeshm Island】A U.S. military official said U.S. forces launched another round of airstrikes on Iran, with fighter jets hitting a missile launch site on Qeshm Island in retaliation for Iranian attacks on U.S. personnel and assets."
+    },
+    {
+      "id": "mkt:01a1eb03-372b-7bbc-ac2a-2a9468aad9d1",
+      "time": "2026-11-18 03:36:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Williams: I do not currently see AI posing financial stability risks."
+    },
+    {
+      "id": "mkt:01a1eb02-a05d-7bbc-ac2a-250556c85158",
+      "time": "2026-11-18 03:36:20",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Fed's Williams: Financing in the AI sector is becoming more opaque and complex."
+    },
     {
       "id": "mkt:01a1eb02-4c1e-7bbc-ac2a-1b24bbf42e0f",
       "time": "2026-11-18 03:35:58",
