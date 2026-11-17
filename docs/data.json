@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-18 04:04:21",
-  "count": 9693,
+  "updated": "2026-11-18 04:08:10",
+  "count": 9692,
   "items": [
+    {
+      "id": "5220892",
+      "time": "2026-11-18 04:07:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：必須確保L3Harris成為可靠的合作伙伴，並招募更優秀的人才。"
+    },
+    {
+      "id": "5220891",
+      "time": "2026-11-18 04:06:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：如果有人行為不當，應當追究其責任。我不會就週五的航班停飛事件道歉。我正在提出合理要求，將讓國會開展工作。"
+    },
     {
       "id": "5220890",
       "time": "2026-11-18 04:02:18",
@@ -87258,43 +87274,6 @@
         "MKT News"
       ],
       "text": "Financial Times reports the U.S. Commerce Department has delayed adding Megaspeed to its entity list."
-    },
-    {
-      "id": "5206874",
-      "time": "2026-11-11 04:07:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國推遲將Megaspeed列入貿易黑名單。"
-    },
-    {
-      "id": "mkt:01a1c712-2b4f-7bbc-ab92-2ca9882e4bb9",
-      "time": "2026-11-11 04:06:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact mixed",
-        "Nasdaq100",
-        "WTI"
-      ],
-      "text": "【FITCH: Democratic midterm wins have mixed impact on US AI, energy and healthcare sectors】FITCH says Democratic midterm victories would have uneven effects on US corporate credit; most sectors’ cash flows are expected to remain stable. Tighter approvals and higher costs in key data‑center states (Texas, Georgia, Ohio) could slow AI infrastructure investment and support the view that AI capex may peak around 2027; a construction slowdown would also ease longer‑term overcapacity risk. In energy, oil & gas firms may face stricter drilling and environmental reviews; power and industrials could see weaker demand from data‑center pullback, though grid upgrades and broader infrastructure spending provide offsetting support. Healthcare policy is unlikely to change materially in the near term; defense firms benefit from record order backlogs and bipartisan support, so major policy shifts are not expected."
-    },
-    {
-      "id": "mkt:01a1c70f-d062-7bbc-ab92-20dcf0f25707",
-      "time": "2026-11-11 04:04:24",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "NVIDIA (NVDA.O) extended losses to 7%, hitting a session low."
     }
   ]
 }
