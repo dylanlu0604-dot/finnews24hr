@@ -1,7 +1,33 @@
 {
   "date": "2026-11-17",
-  "count": 644,
+  "count": 647,
   "items": [
+    {
+      "id": "5219002",
+      "time": "2026-11-17 10:49:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "凱撒文化盤中漲停，上演“地天板”，現報4.8元，成交額11.62億元。"
+    },
+    {
+      "id": "5219001",
+      "time": "2026-11-17 10:47:45",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【大摩：星艦第15次飛行獲評A級屬歷史性拐點時刻，維持SpaceX“增持”評級】摩根士丹利發表研報指，SpaceX星艦第15次飛行整體獲評A級，屬公司及太空飛行的歷史性拐點時刻，對股價影響非常正面，惟市場首日未必充分反映。SpaceX成功以Mechazilla發射塔“筷子”捕捉Ship 42，為史上首次成功回收軌道上層級火箭(不計太空梭)，可對Ship 42進行深度檢查，並有助清除全面重用助推器及飛船的路徑，為每週甚至每日Starship飛行鋪路。該行認為，成功捕捉飛船已實質降低SpaceX三大業務分部較長遠總潛在市場的風險；較長遠(2028年及以後)各分部估算高度依賴Starship測試路徑成功，尤其是兩個階段的重複使用能力。該行維持SpaceX“增持”評級及目標價300美元。"
+    },
+    {
+      "id": "mkt:01a1e766-9f54-7bbc-ac0c-a3bc52a4d796",
+      "time": "2026-11-17 10:47:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Papua New Guinea's Marape arrives for meeting with China】Papua New Guinea Prime Minister James Marape arrived in Shenzhen on Nov. 17 ahead of a meeting with China."
+    },
     {
       "id": "5219000",
       "time": "2026-11-17 10:46:01",
