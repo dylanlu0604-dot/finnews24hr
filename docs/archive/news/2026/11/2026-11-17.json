@@ -1,7 +1,127 @@
 {
   "date": "2026-11-17",
-  "count": 581,
+  "count": 594,
   "items": [
+    {
+      "id": "mkt:01a1e752-b3bb-7bbc-ac0c-3c826ee42f31",
+      "time": "2026-11-17 10:25:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "The Taiwan dollar weakened by more than NT$0.124 in early trading, with USD/TWD breaking above 33."
+    },
+    {
+      "id": "5218962",
+      "time": "2026-11-17 10:24:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報91.51美元/桶。"
+    },
+    {
+      "id": "5218961",
+      "time": "2026-11-17 10:24:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元早盤一度跌破33關口，報33.010。"
+    },
+    {
+      "id": "mkt:01a1e751-eaf1-7bbc-ac0c-34de5906a84d",
+      "time": "2026-11-17 10:24:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share lithography-related stocks rebounded unevenly. Haili Co. hit the 10% daily limit, while Wavelength Opto-Electronic rose more than 11%; MLOptic, Fujian Forecam Optics, MEE, Fuguang and Yongxin Optics also gained."
+    },
+    {
+      "id": "5218960",
+      "time": "2026-11-17 10:23:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國土安全部長：伊朗構成威脅，但美國已做好準備。"
+    },
+    {
+      "id": "mkt:01a1e750-e130-7bbc-ac0c-293ca93620c6",
+      "time": "2026-11-17 10:23:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【GigaDevice: Custom memory business makes breakthroughs in edge AI and other areas】GigaDevice said at its third-quarter 2026 earnings briefing that its custom memory business is advancing steadily, with breakthroughs at key customers and in projects across edge AI and other areas. The business is expected to contribute meaningful revenue this year, with revenue growing rapidly in 2027."
+    },
+    {
+      "id": "5218959",
+      "time": "2026-11-17 10:23:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兆易創新：定製化儲存相關業務在端側AI等領域取得突破】兆易創新(603986)在2026年第三季度業績說明會上表示，公司定製化儲存相關業務有序推進，已取得不錯的進展，在端側AI等多個領域均有重點客戶和專案突破，今年該業務有望為公司貢獻一定體量的收入，2027年將實現營收的較快增長。"
+    },
+    {
+      "id": "5218958",
+      "time": "2026-11-17 10:22:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京高度評價俄朝戰鬥友誼】據俄羅斯衛星社11月17日報道，俄羅斯總統普京16日在克里姆林宮會見正在莫斯科訪問的朝鮮勞動黨中央政治局常委、黨中央委員會書記趙甬元。 普京表示，朝鮮人民軍部隊參與解放庫爾斯克州領土，成為兩國戰鬥友誼編年史的新篇章；俄羅斯永遠不會忘記與俄軍並肩作戰的朝鮮戰士的英雄主義。 普京還高度評價朝鮮工兵和工程建築部隊為讓庫爾斯克土地恢復和平生活所作貢獻，並請趙甬元向朝鮮國務委員長金正恩轉達最良好祝願。 普京在會見中表示：“我高度珍視我們之間形成的務實、友好關係，這無疑有助於我們解決和發展兩國關係。” （參考訊息）"
+    },
+    {
+      "id": "mkt:01a1e750-6eff-7bbc-ac0c-237457cb6470",
+      "time": "2026-11-17 10:22:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share humanoid robotics stocks fell, with Unitree Robotics earlier down more than 10%. Fulai New Materials, Swancor Advanced Materials and Zhenghe Industrial also declined."
+    },
+    {
+      "id": "mkt:01a1e74f-c124-7bbc-ac0c-1db75cb92cc4",
+      "time": "2026-11-17 10:22:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Homeland Security Secretary Mullin: U.S. security is not at risk, including the banking system."
+    },
+    {
+      "id": "mkt:01a1e74f-32fb-7bbc-ac0c-14460a6bfb47",
+      "time": "2026-11-17 10:21:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Consultations begin on outcome document for Shenzhen APEC leaders’ informal meeting】Consultations on the outcome document for the upcoming APEC leaders’ informal meeting in Shenzhen have begun, 2026 APEC Senior Officials’ Meeting Chair Chen Xu said at a briefing on the 2026 APEC Leaders’ Meeting Week on the 17th."
+    },
+    {
+      "id": "5218957",
+      "time": "2026-11-17 10:21:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳APEC領導人非正式會議成果檔案磋商工作已啟動】在17日舉行的2026年APEC領導人會議周新聞中心第五場吹風會上，2026年APEC高官會主席陳旭表示，深圳APEC領導人非正式會議即將舉行，會議成果檔案的磋商工作已經啟動。(新華社)"
+    },
+    {
+      "id": "5218956",
+      "time": "2026-11-17 10:21:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國土安全部部長談航班技術故障：未發現網路攻擊。"
+    },
     {
       "id": "mkt:01a1e74e-90b9-7bbc-ac0c-0e3e108c463f",
       "time": "2026-11-17 10:20:48",
