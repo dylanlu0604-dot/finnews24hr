@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-18 04:23:18",
-  "count": 9689,
+  "updated": "2026-11-18 04:27:07",
+  "count": 9682,
   "items": [
+    {
+      "id": "5220902",
+      "time": "2026-11-18 04:23:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿波羅執行長Rowan：AI基礎設施融資“不僅僅是一個美國故事”。創紀錄的AI開支將持續至2027年。不存在K形經濟。美國得州奧斯汀是我們的第二總部。"
+    },
     {
       "id": "5220900",
       "time": "2026-11-18 04:21:27",
@@ -87180,74 +87189,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：俄羅斯人真的以為他們佔領了頓巴斯一半的地區，而實際上那一半由我們控制。就是一半，不是一個村莊。他們確實在這麼說。他們怎麼能這麼說？我們計程車兵就在那裡。俄羅斯總統普京生活在另一個現實中。"
-    },
-    {
-      "id": "mkt:01a1c723-df0d-7bbc-ab92-85067800a877",
-      "time": "2026-11-11 04:26:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said he is ready to meet Russian President Putin."
-    },
-    {
-      "id": "5206882",
-      "time": "2026-11-11 04:26:18",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊致信聯合國秘書長、安理會主席和國際原子能機構總幹事，呼籲對美國國務院“令人遺憾且充滿敵意”的宣告作出明確回應並予以譴責。該宣告懸賞最高2000萬美元徵集伊朗核計劃相關資訊。"
-    },
-    {
-      "id": "mkt:01a1c723-dc8c-7bbc-ab92-7a33672681f9",
-      "time": "2026-11-11 04:26:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said Ukraine is ready to sit down to discuss territorial issues."
-    },
-    {
-      "id": "mkt:01a1c723-2c3c-7bbc-ab92-76d21525bbf3",
-      "time": "2026-11-11 04:25:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said he believes Russian President Putin is living in another reality."
-    },
-    {
-      "id": "mkt:01a1c722-59a8-7bbc-ab92-6c804eabafa5",
-      "time": "2026-11-11 04:24:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Senate Minority Leader Schumer said he is confident he will be elected Senate Majority Leader in the next Congress."
-    },
-    {
-      "id": "5206881",
-      "time": "2026-11-11 04:24:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院民主黨領袖舒默：有信心當選參議院多數黨領袖。"
-    },
-    {
-      "id": "5206880",
-      "time": "2026-11-11 04:23:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉散戶投資者連續第九個交易日拋售股票。"
-    },
-    {
-      "id": "mkt:01a1c721-465b-7bbc-ab92-64c07627574d",
-      "time": "2026-11-11 04:23:28",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Iranian foreign minister Araghchi said he has written to the United Nations and the International Atomic Energy Agency (IAEA) to protest the US offering a US$20m bounty for intelligence on Iran's nuclear program."
     }
   ]
 }
