@@ -1,7 +1,83 @@
 {
-  "updated": "2026-11-17 11:13:42",
-  "count": 9885,
+  "updated": "2026-11-17 11:17:30",
+  "count": 9887,
   "items": [
+    {
+      "id": "mkt:01a1e781-da83-7bbc-ac0d-3c2fd478d8a1",
+      "time": "2026-11-17 11:16:49",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【UK says Brexit costs have outweighed benefits】The UK will begin discussions with the EU after a summit later this week on options for the long-term relationship, the prime minister said on the 16th. Brexit has reduced the size of the UK economy by 4%, according to the Office for Budget Responsibility, while other estimates put the impact as high as 8% of GDP, he said. Current hard-Brexit arrangements are “not good enough.” The government is not seeking to reopen the debate over the 2016 referendum, but wants pragmatic changes to post-Brexit arrangements. Any new agreement must comply with Labour’s manifesto and red lines, improve on the Brexit deal in line with what voters expected in 2016, and materially improve life in regions long neglected, he said."
+    },
+    {
+      "id": "5219042",
+      "time": "2026-11-17 11:16:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海電運維與海康威視達成戰略合作】據海康威視公眾號，近日，福建船舶工業集團有限公司與福建海電運維科技股份有限公司（簡稱“海電運維”）一行到訪海康威視，海電運維與海康威視雙方舉行戰略合作簽約儀式，並圍繞海上風電智慧運維、智慧船舶、船廠安全生產等行業議題展開深度研討。此次戰略合作的達成，標誌著雙方將在船舶、風電行業的感知、大模型研發等領域建立常態化協作機制。"
+    },
+    {
+      "id": "5219041",
+      "time": "2026-11-17 11:16:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌3%，現報5055.00元。"
+    },
+    {
+      "id": "5219040",
+      "time": "2026-11-17 11:15:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度巴蒂集團正與亞馬遜Leo洽談在印度的合作事宜。"
+    },
+    {
+      "id": "mkt:01a1e780-b99b-7bbc-ac0d-37bc9cb68174",
+      "time": "2026-11-17 11:15:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【Musk says Tesla could begin Robotaxi pilot with owners’ cars as early as December】Tesla could begin a pilot as early as December allowing owners to put their cars into its driverless ride-hailing network, Musk said on social media. He said the pilot could start next month if all goes well, but gave no details on locations, eligibility or fare sharing."
+    },
+    {
+      "id": "5219039",
+      "time": "2026-11-17 11:15:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京津冀三地多項智慧財產權服務舉措落地雄安】今天（11月17日），京津冀三地智慧財產權部門在雄安新區簽署多項框架協議，推動專利技術、資本、人才等創新要素向雄安集聚，加速創新成果落地轉化。活動以“智慧財產權服務京津冀，助推產業高質量發展”為主題，智慧財產權服務北京（京津冀）國家科技創新中心建設、智慧財產權服務京津冀OPC、智慧財產權服務科技創新與產業創新深度融合等多項框架協議集中籤約。活動現場，還發布了北斗產業智慧財產權研究報告、商業航天和核酸藥產業專利導航成果、《中亞五國展會智慧財產權保護實務指南》。"
+    },
+    {
+      "id": "5219038",
+      "time": "2026-11-17 11:15:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亞太地區已成為全球最具活力的增長引擎】商務部國際司司長陳超介紹，APEC成立30多年來，區域貿易總額增長到2025年的約26萬億美元，增速顯著高於全球其他區域。根據有關報告，亞太地區經濟總量佔全球60.7%，2026年經濟增長率預計為3.4%，高於全球增長預期。（新華社）"
+    },
+    {
+      "id": "mkt:01a1e780-0a0a-7bbc-ac0d-289e58378f99",
+      "time": "2026-11-17 11:14:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's president meets Papua New Guinea's Marape】China's president met Papua New Guinea Prime Minister James Marape in Shenzhen on Nov. 17."
+    },
     {
       "id": "mkt:01a1e77e-96cb-7bbc-ac0d-233699d4baf2",
       "time": "2026-11-17 11:13:15",
@@ -9,6 +85,14 @@
         "MKT News"
       ],
       "text": "A-share component stocks rally, with Jingce Technology up more than 10%; Founder Technology, Shengyi Electronics, Shengye Electric, Guanghe Technology and Hongban Technology also advance."
+    },
+    {
+      "id": "5219037",
+      "time": "2026-11-17 11:13:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【納姆說英國“脫歐”失大於得】英國首相伯納姆16日表示，過去十年，英國“脫歐”失大於得，英國將在本週晚些時候舉行的英歐峰會後與歐盟啟動討論，探討雙方長期關係的不同選項。伯納姆說，英國預算責任辦公室認為，“脫歐”使英國經濟規模受到4%的負面衝擊，另一些機構則認為這一影響最高可達國內生產總值（GDP）的8%，現有“硬脫歐”安排對英國來說“不夠好”。伯納姆說，英國並非要再次爭論2016年“脫歐”公投相關問題，而是希望對“脫歐”後的安排作出務實調整。他同時表示，英國與歐盟達成的任何新協議都須滿足以下要求：一是符合工黨競選綱領和紅線；二是改善“脫歐”協議，使其更加接近英國民眾在2016年公投時期待獲得的結果；三是切實改善英國長期以來被忽視地區民眾的生活。（新華社）"
     },
     {
       "id": "5219036",
@@ -89545,75 +89629,6 @@
         "市場"
       ],
       "text": "【新加坡推出央行黃金託管服務，目前金庫容量高達500噸】新加坡已面向海外央行及官方機構推出黃金託管服務，旨在把握全球對黃金儲備多元化儲存的需求。新加坡金管局在週二的一份宣告中表示，黃金將存放在國家貨幣金庫內。該金庫目前容量高達500噸，並可根據需求增長進行擴容。新加坡金管局主席、同時擔任新加坡副總理的顏金勇表示：“新加坡無意取代其他黃金中心或黃金託管服務。隨著各國將黃金作為儲備資產的需求日益增長，我認為各國央行也在尋求替代方案，希望獲得更多選擇，以增強其黃金儲備的韌性。”宣告還指出，金管局將向部分在新加坡設有業務、且具備相關專業能力的貴金屬銀行提供黃金託管賬戶。"
-    },
-    {
-      "id": "te:economy:599813",
-      "time": "2026-11-10 11:17:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Indonesia Retail Sales Growth at 3-Month Low — Indonesia’s retail sales rose 0.6% year-on-year in September 2026, slowing from 1.3% growth in August and marking the weakest pace since June amid persistent price pressures and higher borrowing costs. Still, sales increased for a third consecutive month. Growth in food, beverages and tobacco eased (1.3% vs 2.6% in August), while declines persisted in fuel (-8.6% vs -5.7%), information and communication equipment (-10.8% vs -10.9%), recreational goods (-3.8% vs -0.3%) and household equipment (-6.0% vs -5.2%). In contrast, automotive parts sales accelerated (5.3% vs 3.9%), while clothing sales rebounded (2.7% vs -12.4%). On a monthly basis, retail sales dropped 3.1%, reversing August’s 0.8% increase and marking the steepest decline since April. Looking ahead, retail activity is expected to strengthen modestly in October, supported by continued government stimulus measures."
-    },
-    {
-      "id": "te:markets:599812",
-      "time": "2026-11-10 11:16:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Soybeans Hover Near 3-Month Low — Soybean futures traded around $11.8 per bushel, near their lowest level since mid-August as traders positioned ahead of the USDA's November WASDE report. The report is expected to provide fresh estimates for US soybean production and ending stocks, with prospects for a large domestic crop keeping supply concerns in focus. The US soybean harvest reached 92% completion as of November 8, one percentage point ahead of the five-year average, keeping seasonal supplies flowing into the market. Meanwhile, renewed hopes for stronger Chinese purchases provided some support following last week's call between US and Chinese trade officials, during which Washington urged Beijing to honor its agricultural purchasing commitments. China pledged to buy 25 million metric tons of US soybeans annually for three years, alongside an additional $17 billion in US agricultural products each year through 2028. The talks raised hopes for increased purchases ahead of a possible Trump-Xi meeting later this month."
-    },
-    {
-      "id": "em:jjsj_zgsj:202611103927177163",
-      "time": "2026-11-10 11:16:00",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【海關總署：前10個月我國出口機電產品16.81萬億元，同比增長25.2%】據海關統計，2026年前10個月，我國貨物貿易進出口總值44.81萬億元人民幣，同比（下同）增長20%。從重點商品看，出口方面，前10個月，我國出口機電產品16.81萬億元，增長25.2%；勞密產品3.45萬億元，增長2.4%；農產品6220.8億元，增長3.9%。進口方面，前10個月，我國進口機電產品8.17萬億元，增長35%；原油4億噸，減少15.1%；農產品1.29萬億元，增長4.6%。"
-    },
-    {
-      "id": "mkt:01a1c374-1604-7ee0-aaea-9c45d6149a64",
-      "time": "2026-11-10 11:15:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "【Singapore launches central-bank gold custody service; vault capacity 500 tonnes】Singapore has opened a central-bank gold custody service for foreign central banks and official institutions to meet rising demand for diversified reserve storage. The MAS said gold will be held in the national monetary vault, which currently has capacity of 500 tonnes and can be expanded as needed. The MAS chair and Singapore deputy prime minister said the move is not intended to replace other gold centres; central banks are seeking alternative custodial options to strengthen reserve resilience. MAS will offer custody accounts to selected precious-metals banks with operations and relevant expertise in Singapore."
-    },
-    {
-      "id": "5205103",
-      "time": "2026-11-10 11:15:16",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家發改委：幼兒園、小學、初中學齡人口已經達峰】11月10日，國家發展改革委社會發展司副司長黃瑋茹在新聞釋出會上表示，從全國層面看，目前幼兒園、小學、初中學齡人口已經達峰，高中和高等教育學齡人口還在持續增長，對資源配置提出了新的要求。第一，適應學齡人口總量下行趨勢，最佳化學前和義務教育資源配置。第二，適應學齡人口結構變化，多渠道增加普通高中和高等教育學位供給。第三，適應學齡人口區域分化，更好保障城鄉各類群體平等接受教育的權利。"
-    },
-    {
-      "id": "mkt:01a1c373-2245-7ee0-aaea-96acd78d6feb",
-      "time": "2026-11-10 11:14:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc recorded a magnitude 3.4 earthquake at 11:09 on Nov. 10 in Baxoi County, Chamdo, Tibet (30.17°N, 96.86°E); focal depth 10 km."
-    },
-    {
-      "id": "5205100",
-      "time": "2026-11-10 11:14:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內跌6%，現報6193.00元。"
     }
   ]
 }

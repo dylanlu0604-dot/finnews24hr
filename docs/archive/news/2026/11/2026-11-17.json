@@ -1,7 +1,83 @@
 {
   "date": "2026-11-17",
-  "count": 697,
+  "count": 706,
   "items": [
+    {
+      "id": "mkt:01a1e781-da83-7bbc-ac0d-3c2fd478d8a1",
+      "time": "2026-11-17 11:16:49",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【UK says Brexit costs have outweighed benefits】The UK will begin discussions with the EU after a summit later this week on options for the long-term relationship, the prime minister said on the 16th. Brexit has reduced the size of the UK economy by 4%, according to the Office for Budget Responsibility, while other estimates put the impact as high as 8% of GDP, he said. Current hard-Brexit arrangements are “not good enough.” The government is not seeking to reopen the debate over the 2016 referendum, but wants pragmatic changes to post-Brexit arrangements. Any new agreement must comply with Labour’s manifesto and red lines, improve on the Brexit deal in line with what voters expected in 2016, and materially improve life in regions long neglected, he said."
+    },
+    {
+      "id": "5219042",
+      "time": "2026-11-17 11:16:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海電運維與海康威視達成戰略合作】據海康威視公眾號，近日，福建船舶工業集團有限公司與福建海電運維科技股份有限公司（簡稱“海電運維”）一行到訪海康威視，海電運維與海康威視雙方舉行戰略合作簽約儀式，並圍繞海上風電智慧運維、智慧船舶、船廠安全生產等行業議題展開深度研討。此次戰略合作的達成，標誌著雙方將在船舶、風電行業的感知、大模型研發等領域建立常態化協作機制。"
+    },
+    {
+      "id": "5219041",
+      "time": "2026-11-17 11:16:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌3%，現報5055.00元。"
+    },
+    {
+      "id": "5219040",
+      "time": "2026-11-17 11:15:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度巴蒂集團正與亞馬遜Leo洽談在印度的合作事宜。"
+    },
+    {
+      "id": "mkt:01a1e780-b99b-7bbc-ac0d-37bc9cb68174",
+      "time": "2026-11-17 11:15:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【Musk says Tesla could begin Robotaxi pilot with owners’ cars as early as December】Tesla could begin a pilot as early as December allowing owners to put their cars into its driverless ride-hailing network, Musk said on social media. He said the pilot could start next month if all goes well, but gave no details on locations, eligibility or fare sharing."
+    },
+    {
+      "id": "5219039",
+      "time": "2026-11-17 11:15:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京津冀三地多項智慧財產權服務舉措落地雄安】今天（11月17日），京津冀三地智慧財產權部門在雄安新區簽署多項框架協議，推動專利技術、資本、人才等創新要素向雄安集聚，加速創新成果落地轉化。活動以“智慧財產權服務京津冀，助推產業高質量發展”為主題，智慧財產權服務北京（京津冀）國家科技創新中心建設、智慧財產權服務京津冀OPC、智慧財產權服務科技創新與產業創新深度融合等多項框架協議集中籤約。活動現場，還發布了北斗產業智慧財產權研究報告、商業航天和核酸藥產業專利導航成果、《中亞五國展會智慧財產權保護實務指南》。"
+    },
+    {
+      "id": "5219038",
+      "time": "2026-11-17 11:15:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亞太地區已成為全球最具活力的增長引擎】商務部國際司司長陳超介紹，APEC成立30多年來，區域貿易總額增長到2025年的約26萬億美元，增速顯著高於全球其他區域。根據有關報告，亞太地區經濟總量佔全球60.7%，2026年經濟增長率預計為3.4%，高於全球增長預期。（新華社）"
+    },
+    {
+      "id": "mkt:01a1e780-0a0a-7bbc-ac0d-289e58378f99",
+      "time": "2026-11-17 11:14:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's president meets Papua New Guinea's Marape】China's president met Papua New Guinea Prime Minister James Marape in Shenzhen on Nov. 17."
+    },
     {
       "id": "mkt:01a1e77e-96cb-7bbc-ac0d-233699d4baf2",
       "time": "2026-11-17 11:13:15",
@@ -9,6 +85,14 @@
         "MKT News"
       ],
       "text": "A-share component stocks rally, with Jingce Technology up more than 10%; Founder Technology, Shengyi Electronics, Shengye Electric, Guanghe Technology and Hongban Technology also advance."
+    },
+    {
+      "id": "5219037",
+      "time": "2026-11-17 11:13:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【納姆說英國“脫歐”失大於得】英國首相伯納姆16日表示，過去十年，英國“脫歐”失大於得，英國將在本週晚些時候舉行的英歐峰會後與歐盟啟動討論，探討雙方長期關係的不同選項。伯納姆說，英國預算責任辦公室認為，“脫歐”使英國經濟規模受到4%的負面衝擊，另一些機構則認為這一影響最高可達國內生產總值（GDP）的8%，現有“硬脫歐”安排對英國來說“不夠好”。伯納姆說，英國並非要再次爭論2016年“脫歐”公投相關問題，而是希望對“脫歐”後的安排作出務實調整。他同時表示，英國與歐盟達成的任何新協議都須滿足以下要求：一是符合工黨競選綱領和紅線；二是改善“脫歐”協議，使其更加接近英國民眾在2016年公投時期待獲得的結果；三是切實改善英國長期以來被忽視地區民眾的生活。（新華社）"
     },
     {
       "id": "5219036",
