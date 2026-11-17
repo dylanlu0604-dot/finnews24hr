@@ -1,7 +1,61 @@
 {
-  "updated": "2026-11-18 03:41:22",
-  "count": 9679,
+  "updated": "2026-11-18 03:45:13",
+  "count": 9682,
   "items": [
+    {
+      "id": "5220874",
+      "time": "2026-11-18 03:44:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX首席財務官表示，Anthropic將需要更多的算力。"
+    },
+    {
+      "id": "mkt:01a1eb07-4eb8-7bbc-ac2a-5c4c8cf1bc55",
+      "time": "2026-11-18 03:41:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Williams: Demand is clearly winning the race against supply."
+    },
+    {
+      "id": "mkt:01a1eb07-25d7-7bbc-ac2a-557b57f8a653",
+      "time": "2026-11-18 03:41:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Williams: Cybersecurity issues remain a concern."
+    },
+    {
+      "id": "5220873",
+      "time": "2026-11-18 03:41:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：網路安全問題仍是令人擔憂的領域。"
+    },
+    {
+      "id": "mkt:01a1eb07-133c-7bbc-ac2a-4e293f9b3c89",
+      "time": "2026-11-18 03:41:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish",
+        "AMD.O"
+      ],
+      "text": "ASUS showcases full-stack AI infrastructure at SC26, spanning Intel (INTC.O) and AMD (AMD.O) platforms."
+    },
     {
       "id": "mkt:01a1eb06-7bc8-7bbc-ac2a-446564e2f57e",
       "time": "2026-11-18 03:40:32",
@@ -87117,29 +87171,6 @@
         "NVDA.O"
       ],
       "text": "ABC News reports U.S. Republicans are seeking a closed-door briefing with NVIDIA (NVDA.O) CEO."
-    },
-    {
-      "id": "5206865",
-      "time": "2026-11-11 03:43:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國共和黨要求英偉達CEO黃仁勳參加閉門簡報會。"
-    },
-    {
-      "id": "mkt:01a1c6fc-548c-7bbc-ab91-e9cc4033ab3b",
-      "time": "2026-11-11 03:43:07",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish"
-      ],
-      "text": "ABC News reports U.S. House Republicans are considering subpoenaing NVIDIA (NVDA.O) CEO Jensen Huang."
     }
   ]
 }
