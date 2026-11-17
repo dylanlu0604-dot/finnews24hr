@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-18 04:30:52",
-  "count": 9666,
+  "updated": "2026-11-18 04:34:43",
+  "count": 9660,
   "items": [
+    {
+      "id": "5220906",
+      "time": "2026-11-18 04:33:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【法國內政部：14.6萬人參與新一輪示威遊行】法國巴黎、馬賽、里昂、斯特拉斯堡等地17日舉行新一輪示威遊行。據法國內政部通報，當天約14.6萬人參加，其中巴黎約2.8萬人；另據法國工會統計，全國共50萬人上街，巴黎17.5萬人。遊行整體平穩。今秋抗議浪潮自9月起，11月5日達峰值57.5萬人後有所回落，11月7日14.6萬人、14日10.6萬人、17日14.6萬人。據《世界報》報道，數百名防暴警察“因就醫”未參與17日維穩行動，依法不得罷工，“就醫”被視作替代做法。（新華社）"
+    },
+    {
+      "id": "mkt:01a1eb36-1fb1-7bbc-ac2a-e96c82d05b23",
+      "time": "2026-11-18 04:32:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Latvia’s parliament voted to approve the new government."
+    },
     {
       "id": "5220905",
       "time": "2026-11-18 04:29:39",
@@ -86927,95 +86945,6 @@
         "國際"
       ],
       "text": "美聯儲鮑曼：預計若干推升通脹的因素將在2027年減弱。"
-    },
-    {
-      "id": "5206900",
-      "time": "2026-11-11 04:33:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：關注人工智慧回報令人失望可能帶來的金融穩定風險。"
-    },
-    {
-      "id": "5206899",
-      "time": "2026-11-11 04:32:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：最新資料顯示價格壓力可能正在擴大。"
-    },
-    {
-      "id": "5206898",
-      "time": "2026-11-11 04:32:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：時間將幫助美聯儲更多地瞭解人工智慧相關需求勢頭的永續性。"
-    },
-    {
-      "id": "5206897",
-      "time": "2026-11-11 04:32:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：認為股市估值存在大幅回撥的風險。"
-    },
-    {
-      "id": "mkt:01a1c728-e107-7bbc-ab92-d8ae2f74b31e",
-      "time": "2026-11-11 04:31:47",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "Fed Governor Bowman said she sees risk of a sharp correction in equity valuations."
-    },
-    {
-      "id": "mkt:01a1c728-4254-7bbc-ab92-d3d58e53a73f",
-      "time": "2026-11-11 04:31:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Fed Governor Bowman said the labor market has improved, is not tight and has not exacerbated inflation."
-    },
-    {
-      "id": "mkt:01a1c728-3060-7bbc-ab92-c9bdbf1faeb5",
-      "time": "2026-11-11 04:31:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "CPI data suggest inflationary pressures may persist, Federal Reserve Governor Bowman said."
-    },
-    {
-      "id": "5206896",
-      "time": "2026-11-11 04:30:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：勞動力市場有所改善，但並未收緊，也未加劇通脹。"
     }
   ]
 }
