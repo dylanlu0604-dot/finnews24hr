@@ -1,7 +1,28 @@
 {
-  "updated": "2026-11-18 04:15:41",
-  "count": 9695,
+  "updated": "2026-11-18 04:19:28",
+  "count": 9693,
   "items": [
+    {
+      "id": "5220898",
+      "time": "2026-11-18 04:17:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿波羅執行長Rowan：AI基礎設施融資“不僅僅是一個美國故事”。"
+    },
+    {
+      "id": "mkt:01a1eb27-e633-7bbc-ac2a-d429aaabc5c3",
+      "time": "2026-11-18 04:17:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "LMT.O",
+        "Impact bullish"
+      ],
+      "text": "Zelenskiy said Ukraine needs 40 additional F-16s and urged Europe to provide Mirage fighters that can be deployed immediately, along with sufficient air munitions."
+    },
     {
       "id": "mkt:01a1eb23-6a75-7bbc-ac2a-ca0995c206b6",
       "time": "2026-11-18 04:12:09",
@@ -87262,42 +87283,6 @@
         "The Fed (FOMC)"
       ],
       "text": "Fed Governor Bowman to speak in 10 minutes."
-    },
-    {
-      "id": "5206876",
-      "time": "2026-11-11 04:18:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院民主黨領袖舒默：對專案許可法案仍存有一些顧慮。"
-    },
-    {
-      "id": "mkt:01a1c71c-55a8-7bbc-ab92-486e480ee46b",
-      "time": "2026-11-11 04:18:05",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Israel: Hamas must disarm and withdraw for Gaza demilitarization before reconstruction】The Israeli prime minister's office said Hamas must be disarmed, withdraw from Gaza governance and Gaza must be demilitarized before reconstruction can begin. Israel accused Hamas of diverting humanitarian supplies to build military facilities and said it has provided more than 91,000 tents and over 8,200 trucks of winter aid to Gaza. Israel urged mediators to press Hamas to disarm immediately."
-    },
-    {
-      "id": "mkt:01a1c71b-fd2f-7bbc-ab92-45baf637a3c5",
-      "time": "2026-11-11 04:17:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said we need to decide this month who will represent Europe in negotiations."
-    },
-    {
-      "id": "5206875",
-      "time": "2026-11-11 04:17:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：我們需要在本月決定誰將代表歐洲參與談判。"
     }
   ]
 }
