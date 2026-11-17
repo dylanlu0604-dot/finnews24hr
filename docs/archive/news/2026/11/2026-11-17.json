@@ -1,7 +1,41 @@
 {
   "date": "2026-11-17",
-  "count": 721,
+  "count": 725,
   "items": [
+    {
+      "id": "5219055",
+      "time": "2026-11-17 11:28:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破65000美元，日內漲0.28%。"
+    },
+    {
+      "id": "5219054",
+      "time": "2026-11-17 11:28:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國Kospi指數收窄跌幅；最新下跌0.8%，報5059.70點。"
+    },
+    {
+      "id": "mkt:01a1e78a-6328-7bbc-ac0d-68f0b8bb7ebe",
+      "time": "2026-11-17 11:26:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Joint Chiefs of Staff said several Russian military aircraft briefly entered its air defense identification zone early Tuesday local time, prompting the air force to scramble fighter jets."
+    },
+    {
+      "id": "5219053",
+      "time": "2026-11-17 11:25:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【葉門胡塞武裝：控制曼德海峽的目標已經達成】據共同社11月17日報道，葉門胡塞武裝政治局成員布海提16日向共同社表示，該組織已掌握連線紅海與亞丁灣的戰略要衝曼德海峽的主導權，並稱掌控該海峽的目標“已經達成”。他還表示，胡塞武裝“無意”向葉門南部城市亞丁發起進攻，亞丁是沙特支援的葉門政府所設的臨時首都。（參考訊息）"
+    },
     {
       "id": "5219052",
       "time": "2026-11-17 11:23:44",
