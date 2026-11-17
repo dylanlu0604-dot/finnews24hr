@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-18 04:19:28",
-  "count": 9693,
+  "updated": "2026-11-18 04:23:18",
+  "count": 9689,
   "items": [
+    {
+      "id": "5220900",
+      "time": "2026-11-18 04:21:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，AppLovin是正在洽談可能收購廣告科技公司Criteo的公司之一。"
+    },
     {
       "id": "5220898",
       "time": "2026-11-18 04:17:30",
@@ -87240,49 +87248,6 @@
         "DXY"
       ],
       "text": "Iranian foreign minister Araghchi said he has written to the United Nations and the International Atomic Energy Agency (IAEA) to protest the US offering a US$20m bounty for intelligence on Iran's nuclear program."
-    },
-    {
-      "id": "5206879",
-      "time": "2026-11-11 04:22:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國警方：一美軍士兵因涉嫌從事與俄相關間諜活動在英被捕】當地時間11月10日，英國反恐警察表示，一名41歲的美國陸軍士兵因涉嫌從事與俄羅斯有關的間諜活動，在英格蘭格洛斯特附近被捕。該男子涉嫌協助外國情報機構、獲取或洩露受保護資訊，目前被拘押在倫敦一處警察局。（央視新聞）"
-    },
-    {
-      "id": "5206878",
-      "time": "2026-11-11 04:21:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數10日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.56%，在匯市尾市收於102.230。截至紐約匯市尾市，1歐元兌換1.1166美元，低於前一交易日的1.1223美元；1英鎊兌換1.3348美元，低於前一交易日的1.3439美元。1美元兌換158.78日元，高於前一交易日的157.77日元；1美元兌換0.8250瑞士法郎，高於前一交易日的0.8192瑞士法郎；1美元兌換1.4182加元，高於前一交易日的1.4123加元；1美元兌換9.8742瑞典克朗，高於前一交易日的9.7987瑞典克朗。"
-    },
-    {
-      "id": "mkt:01a1c71e-8c13-7bbc-ab92-5c9c7edfbe7f",
-      "time": "2026-11-11 04:20:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said he hopes the U.S. Congress will act more decisively."
-    },
-    {
-      "id": "5206877",
-      "time": "2026-11-11 04:20:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我希望美國國會能更加果斷。"
-    },
-    {
-      "id": "mkt:01a1c71e-37f9-7bbc-ab92-55c7900e1b8d",
-      "time": "2026-11-11 04:20:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Governor Bowman to speak in 10 minutes."
     }
   ]
 }
