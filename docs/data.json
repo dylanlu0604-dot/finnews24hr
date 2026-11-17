@@ -1,7 +1,78 @@
 {
-  "updated": "2026-11-17 10:35:17",
-  "count": 9886,
+  "updated": "2026-11-17 10:39:14",
+  "count": 9888,
   "items": [
+    {
+      "id": "mkt:01a1e75e-bded-7bbc-ac0c-74aeb9cd544c",
+      "time": "2026-11-17 10:38:28",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs: The rally in Japanese equities may broaden to more sectors."
+    },
+    {
+      "id": "mkt:01a1e75e-a86b-7bbc-ac0c-6a3b6b35148d",
+      "time": "2026-11-17 10:38:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Nabep expands in Venezuela, to take over key crude upgrader】North American Blue Energy Partners (Nabep) is preparing to take over the Petrocedeño heavy crude upgrader, expanding its Venezuela operations. CEO Alejandro Betancourt said the company would take over the facility this month as part of its latest agreement with the United States, announced in August with the Pentagon and State Department. Nabep expects the upgrader to resume operations within 24 months. Its restart would ease a bottleneck to boosting output in Venezuela’s Orinoco oil belt, where Nabep’s extra-heavy crude currently must be blended with napatha for transport and export."
+    },
+    {
+      "id": "5218987",
+      "time": "2026-11-17 10:38:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國成功實現Q/V頻段最高碼速率無線通訊實驗驗證】中國科學院空天資訊創新研究院等單位近日在中國遙感衛星地面站麗江站，聯合開展面向新一代衛星網際網路低軌高通量衛星的高階體制高碼速率雙向通訊實驗，成功實現我國Q/V頻段最高碼速率無線通訊實驗驗證，關鍵指標達到國內領先、國際先進水平，將為我國6G通訊與衛星網際網路技術發展提供技術支撐。"
+    },
+    {
+      "id": "mkt:01a1e75e-1208-7bbc-ac0c-60c36600ba30",
+      "time": "2026-11-17 10:37:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rises 1.00% intraday to $47.44/oz."
+    },
+    {
+      "id": "5218986",
+      "time": "2026-11-17 10:37:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報47.44美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1e75d-3a76-7bbc-ac0c-5a111e57e4b4",
+      "time": "2026-11-17 10:36:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia’s benchmark stock index rose 1% to 5,374.61."
+    },
+    {
+      "id": "5218985",
+      "time": "2026-11-17 10:36:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數下跌1%，至5131.44點。"
+    },
+    {
+      "id": "5218984",
+      "time": "2026-11-17 10:36:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "ELEVRA LITHIUM：卡羅來納州鋰礦專案已獲得當地最終法定空氣許可。"
+    },
     {
       "id": "5218983",
       "time": "2026-11-17 10:34:37",
@@ -89612,60 +89683,6 @@
         "市場"
       ],
       "text": "【主力資金：中際旭創淨買入超12億】截至目前，今日主力資金淨流入123.98億；淨流入TMT、融資融券、轉融券標的等板塊，其中TMT板塊淨流入120.60億；淨流出大央企重組、央企改革、行業龍頭等板塊，其中大央企重組板塊淨流出18.95億。\n  \n個股方面，中際旭創淨買入12.77億元位居首位，新易盛、東山精密、掌閱科技主力資金淨流入居前；雲南鍺業淨賣出3.94億元位居首位，雪人集團、中國船舶、龍江交通淨流出額居前。"
-    },
-    {
-      "id": "te:economy:599786",
-      "time": "2026-11-10 10:39:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Exports YoY",
-        "Importance 1"
-      ],
-      "text": "China Exports Rise More Than Expected — China’s exports increased 35.2% year-on-year to $412.33 billion in October 2026, surpassing market forecasts of 33.5% growth but slightly below September's 36.3% surge. The country's exports continued to benefit from strong demand for chips and AI-related hardware, with exports of integrated circuits soaring 137.1%. Improved US-China relations also provided support after both sides agreed in September to extend the broader trade truce through January, alongside several other trade measures. Exports to the US rose 32.9%, while shipments to the EU increased 24.4%. Exports to ASEAN countries, China’s biggest trading partner by bloc, surged 46.3%. Meanwhile, the EU and China reached a deal last month to cut Chinese hybrid vehicle exports to the bloc by more than half over the coming years, with the restrictions set to take effect on December 1. President Xi Jinping and President Donald Trump are expected to hold their third meeting of the year next week at the APEC summit in Shenzhen."
-    },
-    {
-      "id": "5204923",
-      "time": "2026-11-10 10:38:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【算力晶片概念延續反彈 燧原科技漲近10%】算力晶片概念延續昨日反彈勢頭，燧原科技漲近10%，總市值重返2000億上方，品高股份、大勝達、芯原股份、禾盛新材、東芯股份、萬通發展跟漲。區。"
-    },
-    {
-      "id": "5204922",
-      "time": "2026-11-10 10:38:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【正元量子完成天使輪融資，推進千位元超導量子計算機研發】11月10日，介面新聞獲悉，超導量子計算公司正元量子宣佈完成天使輪融資，投資方包括深創投、浦東創投、德寧資本、湘江信成、深圳天使母基金等機構，多維資本擔任獨家財務顧問。本輪資金將主要用於千位元超導量子計算機研發，以及三維封裝、低溫互連和整合測控等關鍵技術驗證。"
-    },
-    {
-      "id": "5204918",
-      "time": "2026-11-10 10:37:58",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團CEO表示，上週人工智慧相關資產的重新定價“有點過頭了”。"
-    },
-    {
-      "id": "5204916",
-      "time": "2026-11-10 10:37:32",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團CEO：對算力的需求不會消失。"
-    },
-    {
-      "id": "5204909",
-      "time": "2026-11-10 10:35:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【2026年10月份北京工業生產者出廠價格同比下降1.7%】10月份，北京工業生產者出廠價格同比下降1.7%、環比下降0.8%；工業生產者購進價格同比上漲1.4%、環比上漲0.8%。"
     }
   ]
 }

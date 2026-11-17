@@ -1,7 +1,78 @@
 {
   "date": "2026-11-17",
-  "count": 617,
+  "count": 625,
   "items": [
+    {
+      "id": "mkt:01a1e75e-bded-7bbc-ac0c-74aeb9cd544c",
+      "time": "2026-11-17 10:38:28",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs: The rally in Japanese equities may broaden to more sectors."
+    },
+    {
+      "id": "mkt:01a1e75e-a86b-7bbc-ac0c-6a3b6b35148d",
+      "time": "2026-11-17 10:38:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Nabep expands in Venezuela, to take over key crude upgrader】North American Blue Energy Partners (Nabep) is preparing to take over the Petrocedeño heavy crude upgrader, expanding its Venezuela operations. CEO Alejandro Betancourt said the company would take over the facility this month as part of its latest agreement with the United States, announced in August with the Pentagon and State Department. Nabep expects the upgrader to resume operations within 24 months. Its restart would ease a bottleneck to boosting output in Venezuela’s Orinoco oil belt, where Nabep’s extra-heavy crude currently must be blended with napatha for transport and export."
+    },
+    {
+      "id": "5218987",
+      "time": "2026-11-17 10:38:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國成功實現Q/V頻段最高碼速率無線通訊實驗驗證】中國科學院空天資訊創新研究院等單位近日在中國遙感衛星地面站麗江站，聯合開展面向新一代衛星網際網路低軌高通量衛星的高階體制高碼速率雙向通訊實驗，成功實現我國Q/V頻段最高碼速率無線通訊實驗驗證，關鍵指標達到國內領先、國際先進水平，將為我國6G通訊與衛星網際網路技術發展提供技術支撐。"
+    },
+    {
+      "id": "mkt:01a1e75e-1208-7bbc-ac0c-60c36600ba30",
+      "time": "2026-11-17 10:37:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rises 1.00% intraday to $47.44/oz."
+    },
+    {
+      "id": "5218986",
+      "time": "2026-11-17 10:37:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報47.44美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1e75d-3a76-7bbc-ac0c-5a111e57e4b4",
+      "time": "2026-11-17 10:36:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia’s benchmark stock index rose 1% to 5,374.61."
+    },
+    {
+      "id": "5218985",
+      "time": "2026-11-17 10:36:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數下跌1%，至5131.44點。"
+    },
+    {
+      "id": "5218984",
+      "time": "2026-11-17 10:36:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "ELEVRA LITHIUM：卡羅來納州鋰礦專案已獲得當地最終法定空氣許可。"
+    },
     {
       "id": "5218983",
       "time": "2026-11-17 10:34:37",
