@@ -1,7 +1,55 @@
 {
   "date": "2026-11-18",
-  "count": 301,
+  "count": 306,
   "items": [
+    {
+      "id": "5220905",
+      "time": "2026-11-18 04:29:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞議會投票批准新政府就職。"
+    },
+    {
+      "id": "5220904",
+      "time": "2026-11-18 04:29:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "部分共和黨參議員表示，他們不會支援特朗普提出的為空中交通管制及機場撥款500億美元的請求。"
+    },
+    {
+      "id": "mkt:01a1eb33-0229-7bbc-ac2a-e19abeee041d",
+      "time": "2026-11-18 04:29:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Some Republican senators said they would not support President Trump’s request for $50 billion in funding for air traffic control and airports."
+    },
+    {
+      "id": "5220903",
+      "time": "2026-11-18 04:28:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西參議院推遲表決財政立法草案的修正案至週三。"
+    },
+    {
+      "id": "mkt:01a1eb31-fe8c-7bbc-ac2a-ddd7e8f80dc4",
+      "time": "2026-11-18 04:28:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Williams: The Fed's actions over the past few months have worked well."
+    },
     {
       "id": "5220902",
       "time": "2026-11-18 04:23:23",

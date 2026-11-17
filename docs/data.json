@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-18 04:27:07",
-  "count": 9682,
+  "updated": "2026-11-18 04:30:52",
+  "count": 9666,
   "items": [
+    {
+      "id": "5220905",
+      "time": "2026-11-18 04:29:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞議會投票批准新政府就職。"
+    },
+    {
+      "id": "5220904",
+      "time": "2026-11-18 04:29:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "部分共和黨參議員表示，他們不會支援特朗普提出的為空中交通管制及機場撥款500億美元的請求。"
+    },
+    {
+      "id": "mkt:01a1eb33-0229-7bbc-ac2a-e19abeee041d",
+      "time": "2026-11-18 04:29:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Some Republican senators said they would not support President Trump’s request for $50 billion in funding for air traffic control and airports."
+    },
+    {
+      "id": "5220903",
+      "time": "2026-11-18 04:28:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西參議院推遲表決財政立法草案的修正案至週三。"
+    },
+    {
+      "id": "mkt:01a1eb31-fe8c-7bbc-ac2a-ddd7e8f80dc4",
+      "time": "2026-11-18 04:28:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Williams: The Fed's actions over the past few months have worked well."
+    },
     {
       "id": "5220902",
       "time": "2026-11-18 04:23:23",
@@ -86968,227 +87016,6 @@
         "國際"
       ],
       "text": "美聯儲鮑曼：勞動力市場有所改善，但並未收緊，也未加劇通脹。"
-    },
-    {
-      "id": "5206895",
-      "time": "2026-11-11 04:30:50",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：CPI資料顯示通脹壓力可能持續存在。"
-    },
-    {
-      "id": "mkt:01a1c728-0134-7bbc-ab92-c08ed8be9a39",
-      "time": "2026-11-11 04:30:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "US10Y"
-      ],
-      "text": "Fed Governor Bowman said economic growth momentum has strengthened this year."
-    },
-    {
-      "id": "mkt:01a1c727-f789-7bbc-ab92-be2342ee9671",
-      "time": "2026-11-11 04:30:47",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed Governor Bowman said core PCE likely rose 3.3% in October, driven by energy prices and AI-related demand."
-    },
-    {
-      "id": "5206894",
-      "time": "2026-11-11 04:30:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：今年經濟增長勢頭增強。"
-    },
-    {
-      "id": "5206893",
-      "time": "2026-11-11 04:30:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：隨著衝擊消退，預計明年核心PCE將更接近2%。"
-    },
-    {
-      "id": "mkt:01a1c727-d692-7bbc-ab92-b1e6ec774ba0",
-      "time": "2026-11-11 04:30:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Fed Governor Bowman expects core PCE to be closer to 2% next year as shocks fade."
-    },
-    {
-      "id": "5206892",
-      "time": "2026-11-11 04:30:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：受能源價格和人工智慧相關需求推動，10月份核心PCE可能上升3.3%。"
-    },
-    {
-      "id": "mkt:01a1c727-c2a2-7bbc-ab92-af977d3f33ba",
-      "time": "2026-11-11 04:30:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Fed Governor Bowman said lowering inflation remains a priority."
-    },
-    {
-      "id": "mkt:01a1c727-bcdf-7bbc-ab92-a13ec8c0ac11",
-      "time": "2026-11-11 04:30:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed Governor Bowman said persistent inflation and strengthening labor-market conditions indicate \"there is still work to do.\""
-    },
-    {
-      "id": "5206891",
-      "time": "2026-11-11 04:30:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：降低通脹仍是首要任務。"
-    },
-    {
-      "id": "mkt:01a1c727-b04d-7bbc-ab92-9eeac18bca0b",
-      "time": "2026-11-11 04:30:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "Fed Governor Bowman said financial conditions have tightened and the Fed must weigh the costs of further policy tightening."
-    },
-    {
-      "id": "5206890",
-      "time": "2026-11-11 04:30:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：金融環境已收緊，美聯儲必須權衡進一步收緊政策的成本。"
-    },
-    {
-      "id": "5206889",
-      "time": "2026-11-11 04:30:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：通脹問題“仍有工作要做”。"
-    },
-    {
-      "id": "5206888",
-      "time": "2026-11-11 04:29:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【斯洛伐克和捷克總理公開反對默茨援烏要求】斯洛伐克總理菲佐和捷克總理巴比什10日在斯首都布拉迪斯拉發舉行的兩國政府聯合會議上，公開反對德國總理默茨要求歐盟所有成員國共同承擔烏克蘭2027年財政缺口的提議。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a1c726-e5dd-7bbc-ab92-9729653166fc",
-      "time": "2026-11-11 04:29:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lisa McClain elected chair of the U.S. House Republican Conference."
-    },
-    {
-      "id": "5206887",
-      "time": "2026-11-11 04:29:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：烏克蘭與俄羅斯討論了“1000換1000”或“1500換1500”交換戰俘的可能性。"
-    },
-    {
-      "id": "5206886",
-      "time": "2026-11-11 04:28:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國：莉薩·麥克萊恩當選眾議院共和黨會議主席。"
-    },
-    {
-      "id": "mkt:01a1c725-9e49-7bbc-ab92-8bd3f242173b",
-      "time": "2026-11-11 04:28:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine President Zelenskiy said Ukraine will seek a leaders' meeting, but it is unclear whether Russia is ready."
-    },
-    {
-      "id": "5206885",
-      "time": "2026-11-11 04:27:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我們將要求舉行領導人會議，但不確定俄羅斯是否準備好。"
-    },
-    {
-      "id": "5206884",
-      "time": "2026-11-11 04:27:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我們準備好坐下來談領土問題，我準備好與俄羅斯總統普京會面。"
-    },
-    {
-      "id": "5206883",
-      "time": "2026-11-11 04:27:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：俄羅斯人真的以為他們佔領了頓巴斯一半的地區，而實際上那一半由我們控制。就是一半，不是一個村莊。他們確實在這麼說。他們怎麼能這麼說？我們計程車兵就在那裡。俄羅斯總統普京生活在另一個現實中。"
     }
   ]
 }
