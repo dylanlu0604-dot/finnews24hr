@@ -1,7 +1,23 @@
 {
   "date": "2026-11-18",
-  "count": 279,
+  "count": 280,
   "items": [
+    {
+      "id": "mkt:01a1eb0f-3741-7bbc-ac2a-9e839008eb4a",
+      "time": "2026-11-18 03:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Williams: Inf Remains Stubbornly Elevated, but No Need for Aggressive Policy Action】New York Fed President Williams said the Fed has more work to do as the U.S. economy strengthens and the inf outlook deteriorates, but current conditions do not warrant aggressive policy action. Inf remains stubbornly elevated, with signs that tariff and energy shocks are feeding into broader inf data. Financial conditions remain supportive of growth, and markets are functioning well."
+    },
     {
       "id": "mkt:01a1eb0d-c406-7bbc-ac2a-90c32e345623",
       "time": "2026-11-18 03:48:30",
