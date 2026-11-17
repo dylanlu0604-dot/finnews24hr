@@ -1,7 +1,33 @@
 {
   "date": "2026-11-18",
-  "count": 308,
+  "count": 311,
   "items": [
+    {
+      "id": "5220908",
+      "time": "2026-11-18 04:37:13",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：Kalshi 執行長反對美國商品期貨交易委員會暫停提及市場的決定。"
+    },
+    {
+      "id": "mkt:01a1eb39-6d73-7bbc-ac2a-f9912b333d5d",
+      "time": "2026-11-18 04:36:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports Kalshi’s CEO opposes the CFTC’s decision to suspend some speech-related prediction contracts, which let users bet on words Trump will use in public remarks."
+    },
+    {
+      "id": "mkt:01a1eb38-8357-7bbc-ac2a-f560640189ad",
+      "time": "2026-11-18 04:35:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【France's Interior Ministry says 146,000 joined latest protests】Protests were held in Paris, Marseille, Lyon and Strasbourg on Nov. 17. The Interior Ministry said about 146,000 people took part nationwide, including 28,000 in Paris; unions put the national turnout at 500,000, including 175,000 in Paris. Demonstrations were largely peaceful. Turnout in the autumn protest wave, which began in September, peaked at 575,000 on Nov. 5 before falling to 146,000 on Nov. 7 and 106,000 on Nov. 14. Several hundred riot police reportedly called in sick and missed security duty on Nov. 17; police are barred from striking, and sick leave is seen as an alternative."
+    },
     {
       "id": "5220906",
       "time": "2026-11-18 04:33:06",
