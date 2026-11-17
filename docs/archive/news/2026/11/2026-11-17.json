@@ -1,7 +1,101 @@
 {
   "date": "2026-11-17",
-  "count": 1335,
+  "count": 1345,
   "items": [
+    {
+      "id": "5220080",
+      "time": "2026-11-17 20:05:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿波羅全球管理公司合夥人澤爾特稱，英偉達風波是人工智慧領域面臨的首次重大壓力測試。"
+    },
+    {
+      "id": "5220078",
+      "time": "2026-11-17 20:04:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "Viking Holdings盤前股價下跌3.4%，此前公佈的第三季度調整後每股收益不及預期。"
+    },
+    {
+      "id": "5220077",
+      "time": "2026-11-17 20:04:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兩名債券交易員達成一筆交易 二者都不是人類】紐約梅隆銀行與微軟利用各自的智慧體完成一筆美債交易，兩家公司稱這是同類交易中的首例。這些AI代理自行議價並敲定價格，再由人類審批放行這筆交易。這場機器間的討價還價，或許預示著行業籌備數十年的時代正式開啟。這筆創新交易證明，AI可以同時覆蓋演算法交易，以及原本由人類主導的傳統業務：和客戶協商交易條款。紐約梅隆銀行全球市場主管萊德·馬吉亞格貝在採訪中談及人工經紀商協商條款的交易模式時表示：“我們並不是說高接觸式人工交易將會消失。這項技術可以切入高接觸人工交易和電子交易之間的空白地帶。”"
+    },
+    {
+      "id": "5220076",
+      "time": "2026-11-17 20:03:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "FuboTV第四季度營收15億美元。"
+    },
+    {
+      "id": "5220075",
+      "time": "2026-11-17 20:02:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行：AFP掉期虧損未導致市場扭曲。"
+    },
+    {
+      "id": "5220074",
+      "time": "2026-11-17 20:02:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：10月短劇類APP活躍人數環比增超7%】易觀千帆17日釋出報告顯示，2026年10月短劇類App活躍人數3.63億，環比增長7.17%，比上月淨增2425.27萬。同期人均單日使用時長113.04分鐘，環比增長2.75%，增幅比9月的3.67%收窄；人均單日啟動次數4.96次，環比增長0.47%，6月以來連續五個月為正。單次開啟承載的時長22.80分鐘，比上月延長2.26%。易觀千帆表示，上述統計限於獨立App，不含短影片平臺內嵌的短劇內容與微信影片號、小程式形態。"
+    },
+    {
+      "id": "mkt:01a1e963-1ee6-7bbc-ac1c-6e95b3985715",
+      "time": "2026-11-17 20:02:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Ireland's privacy regulator has halted X from using data collected by its agents to train AI, Politico reports."
+    },
+    {
+      "id": "mkt:01a1e962-e28b-7bbc-ac1c-679a1569d5d7",
+      "time": "2026-11-17 20:02:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 0.09% to 832 yuan per gram at the start of Tuesday evening trading. Silver T+D gained 0.56% to 11,353 yuan per kg."
+    },
+    {
+      "id": "mkt:01a1e962-91e3-7bbc-ac1c-591d1819bdad",
+      "time": "2026-11-17 20:01:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ANT.O",
+        "Impact bullish"
+      ],
+      "text": "【Anthropic files amended S-1, keeps IPO price range unchanged】Anthropic filed an amended S-1 with no changes to the offering size or terms. The IPO price range remains $70-$78 per share. The company said it has been cleared to list its Class A common stock on the Nasdaq Global Select Market under the ticker ANT. Amazon will hold 23.8% of shares outstanding and 48.2% of outstanding Class N shares."
+    },
+    {
+      "id": "5220073",
+      "time": "2026-11-17 20:01:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "維京郵輪表示，2027航季68%的運力已售出。"
+    },
     {
       "id": "5220072",
       "time": "2026-11-17 20:01:12",
