@@ -1,7 +1,77 @@
 {
   "date": "2026-11-17",
-  "count": 714,
+  "count": 721,
   "items": [
+    {
+      "id": "5219052",
+      "time": "2026-11-17 11:23:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【越共中央總書記、國家主席蘇林抵達會見現場】11月17日上午，中共中央總書記、國家主席習近平將在深圳會見來華出席亞太經合組織第三十三次領導人非正式會議的越共中央總書記、國家主席蘇林。蘇林一行抵達會見現場。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1e787-ae9b-7bbc-ac0d-60985c92062e",
+      "time": "2026-11-17 11:23:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Barclays said forced selling by retail investors was the main driver of Monday’s plunge in Taiwan stocks and could continue, adding further pressure to the market."
+    },
+    {
+      "id": "mkt:01a1e787-8805-7bbc-ac0d-5cc5955db5c8",
+      "time": "2026-11-17 11:23:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA"
+      ],
+      "text": "【Tashan Technology unveils NVIDIA-collaboration wearable data-capture device using its tactile sensors】Tashan Technology unveiled DexUMI, a wearable device for dexterous-hand data collection developed with NVIDIA, at CoRL 2026 in Austin. The device uses Tashan’s tactile sensors for fingertip-to-palm sensing, making the company its sole tactile-sensor partner. NVIDIA scientist Jim Fan also presented the next-generation GR00T 2 robotics foundation model and related open-source plans."
+    },
+    {
+      "id": "mkt:01a1e786-ee8b-7bbc-ac0d-5150ca2012da",
+      "time": "2026-11-17 11:22:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold breaks above $3,880/oz, up 0.63% on the day."
+    },
+    {
+      "id": "5219051",
+      "time": "2026-11-17 11:22:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【他山科技：與英偉達合作的可穿戴數採裝置釋出 採用公司觸覺感測器】近日，2026年機器人學習大會CoRL 2026在美國得克薩斯州奧斯汀舉行。他山科技攜核心產品亮相，與英偉達合作的全新可穿戴數採裝置DexUMI釋出。會議上，英偉達科學家Jim Fan發表主題演講，介紹新一代機器人基礎模型GR00T 2及配套開源計劃。其中，用於靈巧手資料採集的可穿戴裝置DexUMI，從指尖到手掌的觸覺感知方案均採用他山科技觸覺感測器，他山科技成為該裝置唯一的觸覺感測器合作方。"
+    },
+    {
+      "id": "5219050",
+      "time": "2026-11-17 11:21:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國銀聯與Visa深化雙向互聯互通】11月16日，中國銀聯與Visa宣佈雙方將秉持開放合作、互利共贏、安全可控、合規穩健的原則，在三大領域展開深度合作，包括兩大全球支付網路“一點對接”互聯互通的網路對網路合作，共同最佳化境外人士來華支付服務，以及AI時代的智慧支付。基於全球兩大支付網路的互聯互通是本次合作的核心，按照方案，參與合作的數字錢包使用者，透過銀聯支付憑證可在銀聯和Visa全球非接受理網路完成支付，提升中國消費者境外支付便利性。"
+    },
+    {
+      "id": "5219049",
+      "time": "2026-11-17 11:21:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破3880美元/盎司，日內漲0.70%。"
+    },
     {
       "id": "5219048",
       "time": "2026-11-17 11:20:34",
