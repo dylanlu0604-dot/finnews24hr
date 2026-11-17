@@ -1,7 +1,47 @@
 {
   "date": "2026-11-18",
-  "count": 311,
+  "count": 316,
   "items": [
+    {
+      "id": "mkt:01a1eb42-1a0d-7bbc-ac2b-109eab3746ad",
+      "time": "2026-11-18 04:45:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Director of National Intelligence Clayton: Many organizations are patching or upgrading their systems following the technical outage."
+    },
+    {
+      "id": "mkt:01a1eb41-f016-7bbc-ac2b-0aae7d238a35",
+      "time": "2026-11-18 04:45:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Director of National Intelligence Clayton: I don't believe the technical outage was a cyberattack."
+    },
+    {
+      "id": "5220910",
+      "time": "2026-11-18 04:44:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家情報總監克萊頓就技術故障表示：不認為這是網路攻擊事件。"
+    },
+    {
+      "id": "mkt:01a1eb3f-c978-7bbc-ac2b-074686ada041",
+      "time": "2026-11-18 04:43:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Latvia forms new government】Latvia’s parliament approved the new cabinet on the 17th, with Andris Kulbergs of the United List reappointed as prime minister. The coalition, comprising the United List and the National Alliance, holds a narrow majority with 51 of 100 seats."
+    },
+    {
+      "id": "5220909",
+      "time": "2026-11-18 04:42:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【拉脫維亞新一屆政府成立】拉脫維亞議會17日批准新內閣成員名單，來自政黨聯盟“聯合名單”的安德里斯·庫爾貝格斯繼續擔任總理。拉脫維亞新一屆聯合政府由“聯合名單”和民族聯盟組成，兩黨在議會100個席位中合計佔有51席，擁有微弱多數。(新華社)"
+    },
     {
       "id": "5220908",
       "time": "2026-11-18 04:37:13",
