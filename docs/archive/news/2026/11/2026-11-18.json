@@ -1,7 +1,53 @@
 {
   "date": "2026-11-18",
-  "count": 286,
+  "count": 290,
   "items": [
+    {
+      "id": "5220890",
+      "time": "2026-11-18 04:02:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：法國政客勒龐提議，將退休年齡下調至最低60歲。"
+    },
+    {
+      "id": "mkt:01a1eb1a-3d16-7bbc-ac2a-c1ef1d18ab2f",
+      "time": "2026-11-18 04:02:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA shares are down 2.5%."
+    },
+    {
+      "id": "mkt:01a1eb19-db14-7bbc-ac2a-bd01d2a25a2f",
+      "time": "2026-11-18 04:01:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "The Dow extends losses to 2%; the S&P 500 falls 1.59% and the Nasdaq drops 1.46%."
+    },
+    {
+      "id": "5220889",
+      "time": "2026-11-18 04:01:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指跌2.01%，現報50569.578點；納指跌1.47%，現報24150.550點；標普500指數跌1.59%，現報7298.600點。"
+    },
     {
       "id": "mkt:01a1eb14-b225-7bbc-ac2a-b5ef6993422f",
       "time": "2026-11-18 03:56:04",
