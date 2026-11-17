@@ -1,7 +1,68 @@
 {
   "date": "2026-11-17",
-  "count": 625,
+  "count": 632,
   "items": [
+    {
+      "id": "5218992",
+      "time": "2026-11-17 10:41:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭元兌美元匯率跌至2020年以來最低水平。"
+    },
+    {
+      "id": "mkt:01a1e761-b56d-7bbc-ac0c-83b826f8c6c1",
+      "time": "2026-11-17 10:41:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Yangpu, Hong Kong ports establish partnership】The Hainan Yangpu Economic Development Zone Administrative Committee said a memorandum on port and shipping cooperation between Hainan and Hong Kong was signed on Nov. 16 at Hong Kong Maritime Week 2026 and the 2026 World Shipping Summit. The agreement establishes Yangpu and Hong Kong as partner ports and sets up regular consultations on export port selection, complementary shipping routes, green shipping corridors and talent exchanges. The cooperation aims to improve coordination between the ports, support the New International Land-Sea Trade Corridor and promote high-quality trade development in the RCEP region."
+    },
+    {
+      "id": "5218991",
+      "time": "2026-11-17 10:41:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力晶片概念震盪回落 翱捷科技跌超18%】算力晶片概念盤中震盪回落，翱捷科技跌超18%，沐曦股份跌超10%，摩爾執行緒、芯原股份、燧原科技、海光資訊跌幅靠前。"
+    },
+    {
+      "id": "5218990",
+      "time": "2026-11-17 10:40:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：長鑫科技淨賣出超7億】截至目前，今日主力資金淨流出132.54億；淨流入半導體產業、大基金二期、先進封裝等板塊，其中半導體產業板塊淨流入18.33億；淨流出轉融券標的、融資融券、深股通等板塊，其中轉融券標的板塊淨流出119.70億。\n  \n個股方面，有研新材淨買入11.73億元位居首位，華勝天成、寒武紀、中芯國際主力資金淨流入居前；長鑫科技淨賣出7.89億元位居首位，中際旭創、吉視傳媒、瀾起科技淨流出額居前。"
+    },
+    {
+      "id": "5218989",
+      "time": "2026-11-17 10:39:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【九陽股份上演“地天板”】九陽股份盤中漲停，上演“地天板”，現報31.52元，成交額31.66億元。"
+    },
+    {
+      "id": "5218988",
+      "time": "2026-11-17 10:39:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "九陽股份盤中漲停，上演“地天板”，現報31.52元，成交額31.88億元。"
+    },
+    {
+      "id": "mkt:01a1e75f-412b-7bbc-ac0c-7de9021ce868",
+      "time": "2026-11-17 10:39:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China validates highest-rate Q/V-band wireless communications experiment】The Chinese Academy of Sciences’ Aerospace Information Research Institute and other organizations conducted a high-order, high-data-rate two-way communications experiment at the Lijiang station of China’s Remote Sensing Satellite Ground Station, targeting next-generation low-Earth-orbit high-throughput satellites. The test achieved China’s highest wireless communications data rate in the Q/V bands, with key metrics rated domestically leading and internationally advanced, providing technical support for 6G and satellite internet development."
+    },
     {
       "id": "mkt:01a1e75e-bded-7bbc-ac0c-74aeb9cd544c",
       "time": "2026-11-17 10:38:28",
