@@ -1,7 +1,144 @@
 {
   "date": "2026-11-18",
-  "count": 265,
+  "count": 279,
   "items": [
+    {
+      "id": "mkt:01a1eb0d-c406-7bbc-ac2a-90c32e345623",
+      "time": "2026-11-18 03:48:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senate Majority Leader Thune: On the technical glitch, we all need to do more."
+    },
+    {
+      "id": "mkt:01a1eb0d-4daf-7bbc-ac2a-899ed9515174",
+      "time": "2026-11-18 03:47:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senate Majority Leader John Thune, commenting on recent technical system outages, said malicious actors were eager to disrupt the United States and urged heightened vigilance and preparedness."
+    },
+    {
+      "id": "5220882",
+      "time": "2026-11-18 03:47:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "參議院共和黨領袖圖恩：我們對美國交通部長達菲有信心。500億美元撥款請求並非僅用於滿足即時需求。"
+    },
+    {
+      "id": "5220881",
+      "time": "2026-11-18 03:46:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX首席財務官：公司可利用經營性現金流和債務進行融資。"
+    },
+    {
+      "id": "5220880",
+      "time": "2026-11-18 03:46:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX首席財務官：公司400億美元的債務融資交易今日已啟動公開承銷。"
+    },
+    {
+      "id": "5220878",
+      "time": "2026-11-18 03:46:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果發言人：正努力盡快讓剩餘系統重新上線。"
+    },
+    {
+      "id": "mkt:01a1eb0b-77ba-7bbc-ac2a-838069f0ccef",
+      "time": "2026-11-18 03:45:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "An Apple (AAPL.O) spokesperson said the company is working to bring the remaining systems back online as soon as possible."
+    },
+    {
+      "id": "mkt:01a1eb0b-4e3f-7bbc-ac2a-79059fe8bb44",
+      "time": "2026-11-18 03:45:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceX (SPCX.O) CFO: Anthropic will need more computing capacity."
+    },
+    {
+      "id": "5220877",
+      "time": "2026-11-18 03:45:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX首席財務官：明年或成最大AI基礎設施參與者。"
+    },
+    {
+      "id": "5220876",
+      "time": "2026-11-18 03:45:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果發言人：今晨內部更新導致部分服務中斷，目前我們的許多系統已恢復執行。"
+    },
+    {
+      "id": "mkt:01a1eb0a-d729-7bbc-ac2a-72fc1ce71e1f",
+      "time": "2026-11-18 03:45:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple spokesperson: Many of our systems are back online after an internal update disrupted some services earlier today."
+    },
+    {
+      "id": "5220875",
+      "time": "2026-11-18 03:45:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：美聯儲將及時把通脹率降至2%。"
+    },
+    {
+      "id": "mkt:01a1eb0a-87e4-7bbc-ac2a-69502c160f1c",
+      "time": "2026-11-18 03:44:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $93.14 a barrel, up 70 cents, or 0.76%."
+    },
+    {
+      "id": "mkt:01a1eb0a-80f2-7bbc-ac2a-66e201d970f9",
+      "time": "2026-11-18 03:44:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Williams: The Fed will bring inflation back to 2% in a timely manner."
+    },
     {
       "id": "5220874",
       "time": "2026-11-18 03:44:02",
