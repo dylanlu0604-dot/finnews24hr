@@ -1,7 +1,41 @@
 {
-  "updated": "2026-11-19 02:23:55",
-  "count": 9410,
+  "updated": "2026-11-19 02:28:31",
+  "count": 9412,
   "items": [
+    {
+      "id": "mkt:01a1efe7-b74c-7bbc-ac50-1572e18c9d46",
+      "time": "2026-11-19 02:25:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Fed Governor Barr is due to speak in 10 minutes."
+    },
+    {
+      "id": "mkt:01a1efe6-175d-7bbc-ac50-0953a78888ac",
+      "time": "2026-11-19 02:23:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Carney says US midterms have not changed Canada trade outlook; policy decisions are key】Canadian Prime Minister Mark Carney said US midterm elections had not changed Canada’s trade outlook. Only policy changes that are implemented and sustained could alter Canada’s view of the bilateral relationship, he said. Canada and the United States still have a range of trade differences, but could reach a very good trade deal, Carney said at the New York Times DealBook Summit on Wednesday."
+    },
+    {
+      "id": "mkt:01a1efe5-5ba0-7bbc-ac50-03bf261ac05d",
+      "time": "2026-11-19 02:22:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Hegseth: The oil deal with Venezuela makes the Strait of Hormuz “irrelevant.”"
+    },
     {
       "id": "mkt:01a1efe4-8d32-7bbc-ac4f-fa963760b2ba",
       "time": "2026-11-19 02:21:35",
@@ -84276,17 +84310,6 @@
         "其他"
       ],
       "text": "胡塞武裝：我方武裝部隊使用三枚翼式導彈成功打擊了沙烏地阿拉伯首都利雅得的哈立德國王國際機場。"
-    },
-    {
-      "id": "te:markets:600503",
-      "time": "2026-11-12 02:25:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Rises by 3.94% — Top commodity gainers are Cocoa (3.94%), Palm Oil (3.62%) and Rapeseed (2.37%). Biggest losers are Coffee (-0.85%) and Butter (-0.65%)."
     }
   ]
 }
