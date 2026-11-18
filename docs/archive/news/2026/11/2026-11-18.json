@@ -1,7 +1,49 @@
 {
   "date": "2026-11-18",
-  "count": 736,
+  "count": 741,
   "items": [
+    {
+      "id": "5221721",
+      "time": "2026-11-18 11:00:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：截至9月底，韓國家庭信貸同比增長3.3%，而截至6月底為增長3.6%。"
+    },
+    {
+      "id": "5221720",
+      "time": "2026-11-18 11:00:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：截至9月底，韓國家庭信貸環比增長0.5%，6月底為環比增長1.3%。"
+    },
+    {
+      "id": "mkt:01a1ec97-2172-7bbc-ac33-d5abf7a33407",
+      "time": "2026-11-18 10:58:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Commercial activity in quake-hit Venezuelan state recovers to more than 60%】Venezuela said on the 17th that commercial activity in La Guaira state, hardest hit by a major earthquake in June, had recovered to 64.5%. Employment had recovered to 68.2%, and essential transport services, including air and port operations, had returned to normal."
+    },
+    {
+      "id": "5221716",
+      "time": "2026-11-18 10:57:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利通電子：公司算力資源均透過合法合規商業渠道獲取】利通電子在互動平臺表示，公司秉持合規經營的理念，堅持供應鏈體系和渠道資源的多元化佈局，算力資源均透過合法合規商業渠道獲取。目前供應鏈穩定，各項算力業務有序推進。"
+    },
+    {
+      "id": "5221715",
+      "time": "2026-11-18 10:57:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉強震重災區商業活動已恢復超六成】委內瑞拉政府17日宣佈，該國6月強震重災區拉瓜伊拉州的商業活動現已恢復超六成。委內瑞拉新聞和通訊部網站當天釋出公報稱，該州已有64.5%的商業活動恢復運轉，就業恢復率已達68.2%，包括航空和港口在內的基本交通服務也已恢復正常。"
+    },
     {
       "id": "5221690",
       "time": "2026-11-18 10:55:47",
