@@ -1,7 +1,90 @@
 {
-  "updated": "2026-11-18 10:11:34",
-  "count": 9441,
+  "updated": "2026-11-18 10:15:24",
+  "count": 9444,
   "items": [
+    {
+      "id": "mkt:01a1ec6e-f5aa-7bbc-ac33-1b37407f28bb",
+      "time": "2026-11-18 10:14:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japanese Chief Cabinet Secretary Kihara: No comment on details of Japan-U.S. talks."
+    },
+    {
+      "id": "5221536",
+      "time": "2026-11-18 10:14:12",
+      "tags": [],
+      "text": "京東港股盤中跌超8％，創下三個多月來最大日內跌幅，此前釋出財報。摩根士丹利報告預計第四季度京東零售收入同比將基本持平。"
+    },
+    {
+      "id": "5221532",
+      "time": "2026-11-18 10:13:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量299億元。"
+    },
+    {
+      "id": "5221525",
+      "time": "2026-11-18 10:13:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "木原稔：不就日美磋商的細節置評。"
+    },
+    {
+      "id": "5221523",
+      "time": "2026-11-18 10:12:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【元件板塊短線拉昇，生益電子漲超10%】元件板塊短線拉昇，生益電子漲超10%，逸豪新材、南亞新材、滿坤科技、景旺電子、鵬鼎控股等跟漲。"
+    },
+    {
+      "id": "mkt:01a1ec6b-e318-7bbc-ac33-103462483504",
+      "time": "2026-11-18 10:10:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "【Rubio says recent U.S. tech outages are unrelated and not hostile acts】U.S. Secretary of State Rubio said there was no indication or evidence that a series of recent major U.S. technology outages were connected or caused by hostile actors. The incidents included an outage that grounded air traffic nationwide and a major Microsoft systems disruption. “These events are all separate and unrelated. We have not been subjected to a systematic attack. There is no connection between them,” Rubio said."
+    },
+    {
+      "id": "5221511",
+      "time": "2026-11-18 10:09:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：日俄領導人會晤一事尚未做出任何決定。"
+    },
+    {
+      "id": "mkt:01a1ec6a-2693-7bbc-ac33-0e622fcd7147",
+      "time": "2026-11-18 10:09:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share computing power leasing stocks are active, with Meili Cloud limit-up and Chengdi Xiangjiang, Dazhi Technology, Capitalonline Data Service and UCloud also rising."
+    },
+    {
+      "id": "5221507",
+      "time": "2026-11-18 10:08:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃概念表現活躍 美利雲漲停】算力租賃概念表現活躍，美利雲漲停，城地香江、大位科技、首都線上、優刻得跟漲。"
+    },
     {
       "id": "5221503",
       "time": "2026-11-18 10:07:24",
@@ -84669,57 +84752,6 @@
         "公司"
       ],
       "text": "【鼎龍股份跨界進軍光通訊產業 三款新材料力爭兩年內量產】武漢經開區今日官微訊息，鼎龍股份依託高階晶圓光刻膠的底層技術積澱，僅用一年進軍光通訊材料領域；自研光纖塗層、導熱凝膠、光學耦合膠三款產品現已送樣驗證，力爭兩年內實現商業化。目前，光通訊研發團隊已擴充至40多人，企業還專門在新建研發大樓預留整層空間，用於光通訊材料研發。按企業規劃，光通訊材料計劃2027年至2028年批次供貨，2029年形成規模營收。"
-    },
-    {
-      "id": "te:markets:600206",
-      "time": "2026-11-11 10:15:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Rises by 0.34% — Top currency gainers are South Korean Won (0.34%) and Australian Dollar (0.26%). Biggest losers are Indonesian Rupiah (-0.27%) and Japanese Yen (-0.11%). Meanwhile Chinese Yuan was little changed."
-    },
-    {
-      "id": "5207286",
-      "time": "2026-11-11 10:14:56",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【15分鐘內限次免費停！時隔21年上海全面調整道路停車收費政策】2026年11月11日，經上海市政府同意，上海市發展改革委、市交通委、市財政局聯合印發《關於最佳化我市道路停車收費政策的通知》，將於2026年11月18日起施行。這是自2005年上海出臺機動車管理實施意見以來，首次對道路停車收費進行全面調整，涉及短時免費停放、計費單位縮短、收費區域劃分、白天及夜間收費標準、居民按月停車等多個方面。其中，最受關注的變化是短時免費停放。根據新規，機動車在道路停車場單次停放15分鐘（含）以內，每日可享受2次或3次免費。與此同時，智慧道路停車場計費單位縮短至15分鐘，白天時段收費標準進行了結構性調整，長時間停放將設定階梯價格。（澎湃新聞）"
-    },
-    {
-      "id": "5207285",
-      "time": "2026-11-11 10:14:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華榮股份成立新能源科技公司 含電池業務】企查查APP顯示，近日，舟山市華三新能源科技有限公司成立，經營範圍包含：電池銷售；電池零配件生產；電池零配件銷售；電子元器件與機電元件裝置銷售等。企查查股權穿透顯示，該公司由華榮股份全資持股。"
-    },
-    {
-      "id": "5207284",
-      "time": "2026-11-11 10:13:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "5207283",
-      "time": "2026-11-11 10:12:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【知情人稱黃仁勳上班先道歉，試圖營造“一切如常”氛圍】據知情人士透露，英偉達CEO黃仁勳週一走進了公司位於加州聖克拉拉的總部，照常主持了與高層管理人員的晨會。 知情人士稱，黃仁勳在這場閉門會議開始時首先就最近的風波向員工表達了歉意。他沒有接受任何提問，而是很快將話題轉向業務和當天的主要議程。 週二，黃仁勳也來到辦公室開會。還有一週時間，英偉達就將釋出新一季財報。 英偉達內部人士表示，黃仁勳在試圖營造“一切如常”的氛圍，但公司內部的氣氛“低落”。"
-    },
-    {
-      "id": "5207282",
-      "time": "2026-11-11 10:11:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "木原稔：將密切關注美國中期選舉結果對經濟的影響。"
     }
   ]
 }

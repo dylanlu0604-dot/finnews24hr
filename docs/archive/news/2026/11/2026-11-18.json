@@ -1,7 +1,90 @@
 {
   "date": "2026-11-18",
-  "count": 653,
+  "count": 662,
   "items": [
+    {
+      "id": "mkt:01a1ec6e-f5aa-7bbc-ac33-1b37407f28bb",
+      "time": "2026-11-18 10:14:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japanese Chief Cabinet Secretary Kihara: No comment on details of Japan-U.S. talks."
+    },
+    {
+      "id": "5221536",
+      "time": "2026-11-18 10:14:12",
+      "tags": [],
+      "text": "京東港股盤中跌超8％，創下三個多月來最大日內跌幅，此前釋出財報。摩根士丹利報告預計第四季度京東零售收入同比將基本持平。"
+    },
+    {
+      "id": "5221532",
+      "time": "2026-11-18 10:13:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量299億元。"
+    },
+    {
+      "id": "5221525",
+      "time": "2026-11-18 10:13:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "木原稔：不就日美磋商的細節置評。"
+    },
+    {
+      "id": "5221523",
+      "time": "2026-11-18 10:12:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【元件板塊短線拉昇，生益電子漲超10%】元件板塊短線拉昇，生益電子漲超10%，逸豪新材、南亞新材、滿坤科技、景旺電子、鵬鼎控股等跟漲。"
+    },
+    {
+      "id": "mkt:01a1ec6b-e318-7bbc-ac33-103462483504",
+      "time": "2026-11-18 10:10:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "【Rubio says recent U.S. tech outages are unrelated and not hostile acts】U.S. Secretary of State Rubio said there was no indication or evidence that a series of recent major U.S. technology outages were connected or caused by hostile actors. The incidents included an outage that grounded air traffic nationwide and a major Microsoft systems disruption. “These events are all separate and unrelated. We have not been subjected to a systematic attack. There is no connection between them,” Rubio said."
+    },
+    {
+      "id": "5221511",
+      "time": "2026-11-18 10:09:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：日俄領導人會晤一事尚未做出任何決定。"
+    },
+    {
+      "id": "mkt:01a1ec6a-2693-7bbc-ac33-0e622fcd7147",
+      "time": "2026-11-18 10:09:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share computing power leasing stocks are active, with Meili Cloud limit-up and Chengdi Xiangjiang, Dazhi Technology, Capitalonline Data Service and UCloud also rising."
+    },
+    {
+      "id": "5221507",
+      "time": "2026-11-18 10:08:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃概念表現活躍 美利雲漲停】算力租賃概念表現活躍，美利雲漲停，城地香江、大位科技、首都線上、優刻得跟漲。"
+    },
     {
       "id": "5221503",
       "time": "2026-11-18 10:07:24",
