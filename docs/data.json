@@ -1,7 +1,104 @@
 {
-  "updated": "2026-11-19 02:36:47",
-  "count": 9417,
+  "updated": "2026-11-19 02:41:07",
+  "count": 9421,
   "items": [
+    {
+      "id": "mkt:01a1eff5-439b-7bbc-ac50-986e65c76c17",
+      "time": "2026-11-19 02:39:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed Governor Barr backs further rate hikes, says inf remains too high】Fed Governor Michael Barr said Wednesday he would likely support further monetary tightening if the economy evolves in line with his current outlook. He said inf remains too high and is straining U.S. households, while the economy remains strong, unemployment is low, consumer spending is solid and business investment is robust."
+    },
+    {
+      "id": "mkt:01a1eff5-32bc-7bbc-ac50-95c342983c32",
+      "time": "2026-11-19 02:39:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "BOC deputy governor: Large federal tax deductions will spur more investment."
+    },
+    {
+      "id": "mkt:01a1eff5-18f1-7bbc-ac50-8f25dad831ff",
+      "time": "2026-11-19 02:39:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC deputy governor: The central bank has been concerned about the spillover effects of rising energy costs over time."
+    },
+    {
+      "id": "mkt:01a1eff4-e0e4-7bbc-ac50-87b088d8c410",
+      "time": "2026-11-19 02:39:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "BOC deputy governor: Energy price inflation is spreading."
+    },
+    {
+      "id": "5223492",
+      "time": "2026-11-19 02:38:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行副行長格拉維爾：能源價格通脹正在蔓延。"
+    },
+    {
+      "id": "mkt:01a1eff3-0a3c-7bbc-ac50-7bf2c70299be",
+      "time": "2026-11-19 02:37:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "Kaplan Fox urges Nvidia investors who suffered significant losses to seek lead-plaintiff status in a class action by Jan. 8, 2027."
+    },
+    {
+      "id": "mkt:01a1eff2-2ad6-7bbc-ac50-766ea63cebdb",
+      "time": "2026-11-19 02:36:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Market sources: Arm CEO Haas had been in contact with a recruiting firm retained by NVIDIA."
+    },
+    {
+      "id": "mkt:01a1eff1-f235-7bbc-ac50-6e9cc5b3d357",
+      "time": "2026-11-19 02:36:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Daly: Fed still needs to raise rates, but should proceed cautiously and gradually】San Francisco Fed President Mary Daly said the Fed still needs to raise rates to ensure inflation moves gradually back to its 2% target, but should tighten cautiously and incrementally as it assesses the economy. Speaking in an online conversation at a St. Louis Fed conference on Wednesday, she said uncertainty remained high over the direction of U.S. tariff policy, the Iran war and investment in AI infrastructure. In that environment, it was important for the Fed to proceed carefully, assess economic data and listen to businesses and consumers."
+    },
     {
       "id": "5223490",
       "time": "2026-11-19 02:35:43",
@@ -84356,40 +84453,6 @@
         "國際"
       ],
       "text": "美國眾議院議員將推動就愛潑斯坦案相關檔案進行新一輪投票。"
-    },
-    {
-      "id": "5208830",
-      "time": "2026-11-12 02:40:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "野村探索出售Laser Digital加密業務部門。"
-    },
-    {
-      "id": "5208829",
-      "time": "2026-11-12 02:39:13",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行貨幣政策委員格林：適宜主動收緊貨幣政策。"
-    },
-    {
-      "id": "5208828",
-      "time": "2026-11-12 02:38:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行貨幣政策委員格林：薪資增速可能穩定在3.5%或以上。"
-    },
-    {
-      "id": "5208827",
-      "time": "2026-11-12 02:38:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國鋁業和力拓正與幾內亞就鋁土礦加工展開合作。"
     }
   ]
 }
