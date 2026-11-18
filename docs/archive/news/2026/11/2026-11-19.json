@@ -1,7 +1,65 @@
 {
   "date": "2026-11-19",
-  "count": 177,
+  "count": 182,
   "items": [
+    {
+      "id": "mkt:01a1effe-9a13-7bbc-ac50-b695292c02ac",
+      "time": "2026-11-19 02:50:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "The Federal Reserve will release minutes of its monetary policy meeting in 10 minutes."
+    },
+    {
+      "id": "mkt:01a1effa-104b-7bbc-ac50-ab65949a2788",
+      "time": "2026-11-19 02:45:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury yields pared losses after Fed Governor Barr spoke; the 10-year yield was last down 3.87 bps at 5.064%."
+    },
+    {
+      "id": "5223494",
+      "time": "2026-11-19 02:45:00",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾發表講話後，美國國債收益率收窄跌幅；10年期美債收益率最新下跌3.87個基點，報5.064%。"
+    },
+    {
+      "id": "mkt:01a1eff7-1bf0-7bbc-ac50-a3b7b18c2b2b",
+      "time": "2026-11-19 02:41:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【Ackman questions NVIDIA board’s rushed handling of Jensen Huang affair scandal】The Wall Street Journal reports that Bill Ackman is the latest prominent investor to criticize the NVIDIA board’s handling of former CEO Jensen Huang’s affair scandal. Ackman said the board acted hastily, leading to Huang’s departure without carefully considering what was in shareholders’ best interests. He said the episode appeared to reflect a series of major corporate governance failures, with board members panicked by media headlines and unable to withstand the pressure."
+    },
+    {
+      "id": "5223493",
+      "time": "2026-11-19 02:40:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "秘魯索爾匯率下跌 0.53%，收盤報 1 美元兌 3.432/3.433 索爾。"
+    },
     {
       "id": "mkt:01a1eff5-439b-7bbc-ac50-986e65c76c17",
       "time": "2026-11-19 02:39:50",
