@@ -1,7 +1,246 @@
 {
   "date": "2026-11-18",
-  "count": 1084,
+  "count": 1111,
   "items": [
+    {
+      "id": "mkt:01a1edfb-49a4-7bbc-ac40-e72e1bb236df",
+      "time": "2026-11-18 17:27:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MIIT Issues Development Guidelines for National SME Public Service Demonstration Bases】China’s Ministry of Industry and Information Technology issued guidelines for developing national SME public service demonstration bases, covering proposed, under-development and approved bases, as well as local industry authorities and industrial park managers. The guidelines aim to improve planning, operations and service capacity, and call for developing bases with strong industry focus, SME clusters, robust public services and replicable operating models."
+    },
+    {
+      "id": "mkt:01a1edfb-0fb4-7bbc-ac40-df4bfd25b9e3",
+      "time": "2026-11-18 17:26:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian central bank: There is room to cut rates."
+    },
+    {
+      "id": "5222703",
+      "time": "2026-11-18 17:26:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：有降息空間。"
+    },
+    {
+      "id": "5222702",
+      "time": "2026-11-18 17:26:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所三個月期鋁 <CMAL3> 下跌 3.1%，至每噸 2,844.50 美元。"
+    },
+    {
+      "id": "mkt:01a1edfa-4d37-7bbc-ac40-d69c171cdfce",
+      "time": "2026-11-18 17:26:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME three-month aluminum fell 3.1% to $2,844.50/mt."
+    },
+    {
+      "id": "mkt:01a1edfa-1a02-7bbc-ac40-c9b08e002b47",
+      "time": "2026-11-18 17:25:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Vice President Vujcic: We see no risk of repricing."
+    },
+    {
+      "id": "5222701",
+      "time": "2026-11-18 17:25:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "克里姆林宮表示，俄羅斯總統普京與美國總統特朗普將進行對話。"
+    },
+    {
+      "id": "5222700",
+      "time": "2026-11-18 17:25:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中興通訊：10億元科技創新可續期公司債券11月19日上市】中興通訊公告稱，公司2026年面向專業投資者公開發行科技創新可續期公司債券（第一期）將於2026年11月19日起在深圳證券交易所上市，面向專業投資者中的機構投資者交易。本期債券簡稱26中興YK01，程式碼525085，發行總額10億元，債券期限為3+N年，採用固定利率，主體及債項評級均為AAA。"
+    },
+    {
+      "id": "5222699",
+      "time": "2026-11-18 17:25:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Talkpool與德國增長最快的纖維網路運營商之一簽訂框架協議。"
+    },
+    {
+      "id": "mkt:01a1edf9-3aac-7bbc-ac40-c3eb7f3f4aa3",
+      "time": "2026-11-18 17:24:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Jordanian helicopter crashed, injuring five military officers, the Jordan News Agency reported."
+    },
+    {
+      "id": "5222698",
+      "time": "2026-11-18 17:24:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【平安西安高科產業園REIT：11月19日停牌1小時後復牌】平安西安高科產業園REIT公告稱，2026年11月18日其二級市場收盤價為2.498元/份，較前一交易日跌幅8.33%，連續3個交易日累計跌幅12.32%。為保護投資者利益，基金自2026年11月19日深交所開市起停牌1小時，當日上午10:30起復牌。截至公告發布日，基金投資的不動產專案經營穩定，投資運作正常，無應披露未披露的重大資訊。"
+    },
+    {
+      "id": "5222697",
+      "time": "2026-11-18 17:24:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外長：與歐盟外交與安全政策高階代表卡拉斯通話，感謝她促成富有成效的一週，包括歐盟對俄羅斯實施新制裁、向烏克蘭提供新一輪國防支援、宏觀金融穩定及韌性支援。"
+    },
+    {
+      "id": "mkt:01a1edf8-ccf8-7bbc-ac40-b8869edd3b7f",
+      "time": "2026-11-18 17:24:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB Vice President Vujcic: Hedge fund unwinding can have a very rapid impact on markets."
+    },
+    {
+      "id": "mkt:01a1edf8-661e-7bbc-ac40-b1d7ac78dcfd",
+      "time": "2026-11-18 17:24:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Vice President Vujcic: Hedge fund positioning can affect markets very quickly."
+    },
+    {
+      "id": "5222696",
+      "time": "2026-11-18 17:23:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦直升機墜毀事故造成五名軍官受傷。"
+    },
+    {
+      "id": "mkt:01a1edf8-3269-7bbc-ac40-adf78c273840",
+      "time": "2026-11-18 17:23:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB Vice President Vujcic: When spreads widened rapidly, hedge fund activity was behind the move, but it did not last long."
+    },
+    {
+      "id": "5222695",
+      "time": "2026-11-18 17:23:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天成自控：子公司獲乘用車座椅骨架專案定點】天成自控公告稱，公司全資子公司武漢天成自控汽車座椅有限公司近日收到國內某知名汽車企業的乘用車座椅骨架專案定點通知，被確定為該專案定點供應商。該專案預計2028年2月開始量產，生命週期6年，預計週期內配套乘用車總量為30萬輛。本次定點不構成實質性訂單，專案實際開展存在不確定性，對本年度經營業績不會構成重大影響。"
+    },
+    {
+      "id": "mkt:01a1edf7-df4c-7bbc-ac40-a7322a195e6e",
+      "time": "2026-11-18 17:23:27",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Vice President Vujcic: Hedge fund activity contributed in part to the rapid widening of spreads earlier this year."
+    },
+    {
+      "id": "5222694",
+      "time": "2026-11-18 17:23:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委武爾契奇：對沖基金平倉可能對市場造成快速影響。"
+    },
+    {
+      "id": "5222693",
+      "time": "2026-11-18 17:23:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其檢察官要求調查前銀行業監管機構負責人。"
+    },
+    {
+      "id": "5222692",
+      "time": "2026-11-18 17:23:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委武伊契奇：當利差迅速擴大時，我們看到對沖基金的活動是造成這種情況的原因，但並未持續太久。"
+    },
+    {
+      "id": "mkt:01a1edf7-9b8a-7bbc-ac40-9ee7ef025611",
+      "time": "2026-11-18 17:23:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Vice President Vujcic: We discussed whether to give funds access to the ECB’s balance sheet, but ultimately decided against it. The issue could come up again in the future."
+    },
+    {
+      "id": "5222691",
+      "time": "2026-11-18 17:23:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康德萊：控股股東上海康德萊控股累計增持1%股份，持股比例增至35.58%】康德萊公告，公司於2026年11月18日收到控股股東上海康德萊控股集團有限公司發來的告知函，上海康德萊控股於2026年6月10日至2026年11月18日期間，透過集中競價方式累計增持公司無限售流通股437.13萬股，持股比例由34.58%增加至35.58%，權益變動觸及1%刻度。本次權益變動為履行此前披露的股份增持計劃，不觸及要約收購，截至公告披露日該增持計劃尚未實施完畢。本次變動不會導致公司控制權發生變化。"
+    },
+    {
+      "id": "5222690",
+      "time": "2026-11-18 17:23:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫鋁日內跌超3.00%，現報2845.500美元/噸。"
+    },
+    {
+      "id": "5222689",
+      "time": "2026-11-18 17:22:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "劑泰科技：本公司擬啟動發行以人民幣計值的普通股及該等股份上市之相關工作。"
+    },
+    {
+      "id": "mkt:01a1edf7-4a61-7bbc-ac40-95659afe5f0e",
+      "time": "2026-11-18 17:22:48",
+      "tags": [
+        "MKT News",
+        "07666.HK"
+      ],
+      "text": "Jitai Technology (07666.HK) plans to begin preparations for issuing RMB-denominated ordinary shares and listing them."
+    },
+    {
+      "id": "5222688",
+      "time": "2026-11-18 17:22:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委武伊契奇：我們討論了向基金開放歐洲央行資產負債表，但決定不這麼做，此事可能重新討論。"
+    },
     {
       "id": "5222687",
       "time": "2026-11-18 17:22:12",

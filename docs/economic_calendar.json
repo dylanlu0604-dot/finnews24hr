@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-18 17:23:49",
+  "updated": "2026-11-18 17:27:52",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
   "count": 455,
   "history_summary": {
-    "cached": 443,
-    "fetched": 12,
+    "cached": 455,
+    "fetched": 0,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -4736,7 +4736,7 @@
                   "previous": "8595"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-18 17:23:42"
             },
             {
@@ -4794,7 +4794,7 @@
                   "previous": "3.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-18 17:23:42"
             },
             {
@@ -17528,7 +17528,7 @@
                   "previous": "8.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-18 17:23:42"
             },
             {
@@ -18694,7 +18694,7 @@
                   "previous": "46.45"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-18 17:23:42"
             },
             {
@@ -18984,7 +18984,7 @@
                   "previous": "-209"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-18 17:23:42"
             },
             {
@@ -19042,7 +19042,7 @@
                   "previous": "119.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-18 17:23:42"
             },
             {
@@ -19100,7 +19100,7 @@
                   "previous": "90.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-18 17:23:42"
             },
             {
@@ -19158,7 +19158,7 @@
                   "previous": "86.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-18 17:23:42"
             },
             {
@@ -19216,7 +19216,7 @@
                   "previous": "-38"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-18 17:23:42"
             },
             {
@@ -19274,7 +19274,7 @@
                   "previous": "9.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-18 17:23:42"
             },
             {
@@ -19332,7 +19332,7 @@
                   "previous": "-136.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-18 17:23:42"
             },
             {
@@ -19390,7 +19390,7 @@
                   "previous": "46.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-18 17:23:42"
             },
             {
@@ -31034,7 +31034,7 @@
           "previous": "8595"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-18 17:23:42"
     },
     {
@@ -31092,7 +31092,7 @@
           "previous": "3.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-18 17:23:42"
     },
     {
@@ -43788,7 +43788,7 @@
           "previous": "8.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-18 17:23:42"
     },
     {
@@ -44948,7 +44948,7 @@
           "previous": "46.45"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-18 17:23:42"
     },
     {
@@ -45238,7 +45238,7 @@
           "previous": "-209"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-18 17:23:42"
     },
     {
@@ -45296,7 +45296,7 @@
           "previous": "119.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-18 17:23:42"
     },
     {
@@ -45354,7 +45354,7 @@
           "previous": "90.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-18 17:23:42"
     },
     {
@@ -45412,7 +45412,7 @@
           "previous": "86.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-18 17:23:42"
     },
     {
@@ -45470,7 +45470,7 @@
           "previous": "-38"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-18 17:23:42"
     },
     {
@@ -45528,7 +45528,7 @@
           "previous": "9.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-18 17:23:42"
     },
     {
@@ -45586,7 +45586,7 @@
           "previous": "-136.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-18 17:23:42"
     },
     {
@@ -45644,7 +45644,7 @@
           "previous": "46.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-18 17:23:42"
     },
     {
