@@ -1,7 +1,46 @@
 {
   "date": "2026-11-18",
-  "count": 715,
+  "count": 719,
   "items": [
+    {
+      "id": "5221629",
+      "time": "2026-11-18 10:43:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【監管通報3起投顧執業登記造假案 透過虛假社保記錄用於湊足執業年限】中證協最新通報了2026年第二批自律處分典型案例，核心旨在督促行業及個人深刻汲取教訓，嚴防相關問題再發生。這次通報涉及3起案例，且全部指向投顧執業登記造假。按規定，證券投顧人員須有從事證券業務兩年以上經歷，但出現多名從業人員用虛假社保記錄編造工作經歷完成登記；協助環節同樣存在亂象。監管要求，券商、投顧公司應對從業經歷等關鍵材料逐項核驗，發現存疑應當啟動核查、留痕備查。監管將對稽核不嚴、合規監督不到位的機構，依據相關辦法採取措施。"
+    },
+    {
+      "id": "5221626",
+      "time": "2026-11-18 10:42:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "mkt:01a1ec88-c45f-7bbc-ac33-a49426c296cf",
+      "time": "2026-11-18 10:42:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell below $46/oz, down nearly 3% on the day."
+    },
+    {
+      "id": "mkt:01a1ec88-12e1-7bbc-ac33-991d2d6d1fc2",
+      "time": "2026-11-18 10:41:42",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【BOJ chief says food tax cut could boost growth】BOJ Governor Kazuo Ueda said a planned cut to Japan’s consumption tax on food could boost growth by increasing households’ purchasing power. Japan’s economy contracted in the three months through September, partly due to unusually severe weather that weighed on consumer spending. Prime Minister Sanae Takaichi plans to cut taxes on food purchases for two years from April to ease household cost pressures. Ueda said it was difficult to gauge the measure’s economic impact, including on underlying inflation, given the many uncertainties; its implications for BOJ policy remain unclear."
+    },
     {
       "id": "5221621",
       "time": "2026-11-18 10:41:35",

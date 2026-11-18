@@ -1,7 +1,46 @@
 {
-  "updated": "2026-11-18 10:42:06",
-  "count": 9490,
+  "updated": "2026-11-18 10:46:00",
+  "count": 9493,
   "items": [
+    {
+      "id": "5221629",
+      "time": "2026-11-18 10:43:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【監管通報3起投顧執業登記造假案 透過虛假社保記錄用於湊足執業年限】中證協最新通報了2026年第二批自律處分典型案例，核心旨在督促行業及個人深刻汲取教訓，嚴防相關問題再發生。這次通報涉及3起案例，且全部指向投顧執業登記造假。按規定，證券投顧人員須有從事證券業務兩年以上經歷，但出現多名從業人員用虛假社保記錄編造工作經歷完成登記；協助環節同樣存在亂象。監管要求，券商、投顧公司應對從業經歷等關鍵材料逐項核驗，發現存疑應當啟動核查、留痕備查。監管將對稽核不嚴、合規監督不到位的機構，依據相關辦法採取措施。"
+    },
+    {
+      "id": "5221626",
+      "time": "2026-11-18 10:42:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "mkt:01a1ec88-c45f-7bbc-ac33-a49426c296cf",
+      "time": "2026-11-18 10:42:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell below $46/oz, down nearly 3% on the day."
+    },
+    {
+      "id": "mkt:01a1ec88-12e1-7bbc-ac33-991d2d6d1fc2",
+      "time": "2026-11-18 10:41:42",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【BOJ chief says food tax cut could boost growth】BOJ Governor Kazuo Ueda said a planned cut to Japan’s consumption tax on food could boost growth by increasing households’ purchasing power. Japan’s economy contracted in the three months through September, partly due to unusually severe weather that weighed on consumer spending. Prime Minister Sanae Takaichi plans to cut taxes on food purchases for two years from April to ease household cost pressures. Ueda said it was difficult to gauge the measure’s economic impact, including on underlying inflation, given the many uncertainties; its implications for BOJ policy remain unclear."
+    },
     {
       "id": "5221621",
       "time": "2026-11-18 10:41:35",
@@ -85141,18 +85180,6 @@
         "Importance 1"
       ],
       "text": "Indonesian Stocks Slip Amid Political Uncertainty — Indonesian shares fell 0.2% to 5,115 in Wednesday morning trade, snapping a five-session winning streak as losses in basic materials and infrastructure weighed on sentiment. The market retreated from a near two-week high amid political uncertainty after VP Gibran Rakabuming Raka met President Prabowo and expressed his intention to resign, following two court rulings on his education credentials. Traders also assessed regulatory changes as the bourse expanded its high-share-holding-concentration watchlist from 83 to 383 stocks. Overnight, Wall Street ended mostly lower after strong U.S. inflation data lifted bets of further Fed rate hikes. In main trading partner China, trade surplus topped $1 trillion in the first ten months of 2026, supported by strong high-tech exports amid the AI hardware boom, helping offset weak domestic demand. Among notable laggards, Indo Tambangraya Megah fell 4.1%, followed by Merdeka Copper Gold (-3.6%), Archi Indonesia (-3.4%), and Indika Energy (-2.4%)."
-    },
-    {
-      "id": "te:markets:600220",
-      "time": "2026-11-11 10:43:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Retreat — The Hang Seng Index fell 0.6% to 24,410 on Wednesday, as profit-taking following recent gains, weakness in global technology stocks and concerns over higher US interest rates. US equities retreated overnight after hotter-than-expected consumer inflation and hawkish Federal Reserve comments reinforced expectations of a December rate hike. The Nasdaq Composite dropped 1%, while Nvidia tumbled 6.5% amid concerns over its market position and complications surrounding its Ohio data-center project. US-China AI competition and uncertainty over technology cooperation ahead of the November 18–19 Trump-Xi meeting added to sector concerns. Alibaba fell 2.87%, while recent losses in Meituan following a broker downgrade highlighted persistent competition in China’s internet sector. Technology, finance and biotech shares led local declines, with Tencent (-1.6%), Z.AI Co. (-2.7%), MiniMax (-4.0%), AIA (-0.3%) and Manycore Tech (-2.3%) among the notable laggards."
     }
   ]
 }
