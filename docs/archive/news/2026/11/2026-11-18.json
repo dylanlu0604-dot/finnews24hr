@@ -1,7 +1,117 @@
 {
   "date": "2026-11-18",
-  "count": 1346,
+  "count": 1358,
   "items": [
+    {
+      "id": "mkt:01a1ee34-d5e7-7bbc-ac42-de98c96b2c04",
+      "time": "2026-11-18 18:30:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India’s trade secretary said signing a trade agreement with the United States would take time."
+    },
+    {
+      "id": "mkt:01a1ee34-6340-7bbc-ac42-d57699c744b9",
+      "time": "2026-11-18 18:29:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India’s electronics exports could exceed $60 bln this fiscal year, the trade secretary said."
+    },
+    {
+      "id": "mkt:01a1ee34-443a-7bbc-ac42-c8ec3835600d",
+      "time": "2026-11-18 18:29:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "AI Revolution",
+        "China Tech Giants",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Suzhou Party chief meets Alibaba Qwen AI hardware head】Alibaba Group will increase investment in Suzhou and expand cooperation in cloud computing, digital consumption, smart wearables and AI-enabled tourism, Qwen AI hardware head Song Gang said during a meeting with Suzhou Party chief Fan Bo on Nov. 18. The plans build on the launch of two Qwen stores in the city."
+    },
+    {
+      "id": "5222887",
+      "time": "2026-11-18 18:29:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易秘書：印度電子產品出口在當前財年可能超過600億美元。"
+    },
+    {
+      "id": "mkt:01a1ee34-02c7-7bbc-ac42-c0c6fe6309d4",
+      "time": "2026-11-18 18:29:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iraq’s interior minister said authorities will pursue oil smugglers and crack down on illegal activity nationwide."
+    },
+    {
+      "id": "5222886",
+      "time": "2026-11-18 18:28:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度商務部長：印美貿易協定簽署尚需時日。"
+    },
+    {
+      "id": "5222885",
+      "time": "2026-11-18 18:28:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮昌生物：11月18日回購2.2萬股A股股份】榮昌生物公告稱，公司於2026年11月18日透過上海證券交易所以集中競價交易方式回購A股股份22,000股，佔事件前已發行股份（不含庫存股）的0.006%，回購價格區間為每股85.40元-85.80元，成交總金額為188.29萬元，回購股份擬用於員工股權激勵計劃。截至2026年11月18日，公司已發行股份（不含庫存股）總數為355,568,468股，庫存股份總數為327,776股，已發行股份總數為355,896,244股。"
+    },
+    {
+      "id": "5222884",
+      "time": "2026-11-18 18:28:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡與反對黨貝內特會面，進行安全形勢通報。"
+    },
+    {
+      "id": "5222883",
+      "time": "2026-11-18 18:27:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026“國際銅業協會日”中國論壇召開】由國際銅業協會主辦的2026“國際銅業協會日”中國論壇在上海召開。中國有色金屬工業協會黨委常委、副會長陳學森表示，人工智慧、算力中心、儲能、新能源、新型電網、高階裝備等領域正在重塑銅的需求結構，為行業開啟全新增長空間，也帶來新挑戰。就如何平衡資源供給、綠色生產與迴圈利用，協同上下游互利共贏，陳學森提出3點建議：一是堅持開放合作，築牢穩定產業鏈；二是堅持創新引領，深耕綠色低碳賽道；三是堅持協同研判，把握新需求機遇。他提到，中國有色金屬工業協會願繼續發揮橋樑紐帶作用，與國際銅業協會攜手搭建更多交流平臺，推動國內外銅產業在資源、市場、技術、標準、低碳、迴圈經濟、數字化轉型等方面深化合作。"
+    },
+    {
+      "id": "5222882",
+      "time": "2026-11-18 18:27:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西監管機構批准諾基亞與Aurelius的交易。"
+    },
+    {
+      "id": "5222881",
+      "time": "2026-11-18 18:26:49",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【新易盛：披露生產經營情況 已回購近8億元股份】新易盛公告稱，公司當前在手訂單充足，不存在需求預期下修或砍單情形，對今年四季度及明年訂單需求增長持積極預期；成都與泰國生產基地正快速擴產。800G和1.6T光模組為今年主力產品，1.6T已進入大規模放量階段；NPO產品預計2027年批次出貨、2028年大規模交付，CPO、OCS等領域已有技術儲備。截至2026年11月18日，公司累計回購股份421.63萬股，佔總股本0.3023%，成交總金額7.99億元，回購方案擬投入資金不低於8億元、不超過10億元。公司2025年度每10股派10元，分紅金額9.96億元。"
+    },
+    {
+      "id": "5222880",
+      "time": "2026-11-18 18:26:42",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【新易盛：目前不存在需求預期下修或砍單情形 公司對今年四季度及明年訂單需求增長持積極預期】新易盛釋出關於公司近期生產經營情況的公告，當前客戶對光模組的需求指引明確，在手訂單充足，目前不存在需求預期下修或砍單情形，公司對今年四季度及明年訂單需求增長持積極預期。生產佈局方面，公司成都與泰國生產基地均在快速增加產能，以滿足日益增長的訂單交付需求。"
+    },
     {
       "id": "mkt:01a1ee30-6dbd-7bbc-ac42-b9ee5da16970",
       "time": "2026-11-18 18:25:13",
