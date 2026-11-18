@@ -1,7 +1,150 @@
 {
   "date": "2026-11-18",
-  "count": 1181,
+  "count": 1197,
   "items": [
+    {
+      "id": "5222769",
+      "time": "2026-11-18 17:50:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華勝天成：股票交易異常波動 前三季淨虧損2.59億元】華勝天成公告稱，公司股票於2026年11月17日、11月18日連續兩個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經核查，公司目前生產經營活動正常，主營業務未發生重大變化，不存在應披露而未披露的重大資訊，董事、高管在異常波動期間未買賣公司股票。2026年前三季度公司歸屬於母公司所有者的淨虧損為2.59億元，存在業績虧損風險。2026年11月18日公司股票換手率為19.03%，遠高於同行業，股價存在短期漲幅較大後下跌的風險，敬請投資者理性投資、注意風險。"
+    },
+    {
+      "id": "5222768",
+      "time": "2026-11-18 17:50:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯訊儀器：擬1億元-1.5億元回購股份用於員工持股或股權激勵】聯訊儀器公告稱，公司擬透過集中競價交易方式回購股份，回購資金總額不低於1.00億元、不高於1.50億元，回購價格不超過1538.00元/股，預計回購股份數量為65020股至97529股，佔公司總股本的0.04%至0.06%。回購股份將用於員工持股計劃或股權激勵，回購期限為董事會審議透過回購方案之日起12個月內。公司董事、高管、控股股東、實控人、持股5%以上股東未來3個月及6個月內無減持計劃。"
+    },
+    {
+      "id": "5222767",
+      "time": "2026-11-18 17:50:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行撥款1.39億美元用於美元貸款操作。"
+    },
+    {
+      "id": "mkt:01a1ee10-3931-7bbc-ac41-8534aca868d2",
+      "time": "2026-11-18 17:50:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "Euro zone final October CPI figures (YoY and MoM) due in 10 minutes."
+    },
+    {
+      "id": "5222766",
+      "time": "2026-11-18 17:50:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府要求最高法院在2-3周後受理有關印度航空墜機事件的請願書。"
+    },
+    {
+      "id": "mkt:01a1ee0f-4067-7bbc-ac41-7b33ca4e6809",
+      "time": "2026-11-18 17:48:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "A Russian strike on central Odesa killed three people, the regional governor said."
+    },
+    {
+      "id": "5222765",
+      "time": "2026-11-18 17:48:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯襲擊烏克蘭敖德薩市中心，造成三人死亡。"
+    },
+    {
+      "id": "5222764",
+      "time": "2026-11-18 17:48:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【網宿科技：3億元投資上海三呆科技 持股4.7654%】網宿科技公告稱，公司此前擬以3億元認購Sandai開曼A+輪優先股，作為過渡安排向上海三呆科技提供3億元可轉債並取得對應認股權證。2026年11月17日，公司與相關方簽訂《重組框架協議》，Sand.ai集團將以上海三呆科技為最終控股主體，公司以可轉債形式支付的3億元投資款轉換為上海三呆科技股權，重組完成後持有其4.7654%股權（最終持股比例以剩餘A+輪優先股股東交割完成後的結果為準），原Sandai開曼認股權證終止。"
+    },
+    {
+      "id": "mkt:01a1ee0e-c06e-7bbc-ac41-763c557d8a2f",
+      "time": "2026-11-18 17:48:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Automotive Engineering wins contract for civilian unmanned rotorcraft production line】China Automotive Engineering said it won a contract to build an intelligent production line for Tongyu civil aviation rotorcraft for Anhui Tongyu Aviation Technology. It will oversee full integration and construction of the line, marking its first entry into production lines for civilian unmanned aircraft."
+    },
+    {
+      "id": "5222763",
+      "time": "2026-11-18 17:48:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府向最高法院表示，針對致260人遇難的印度航空墜機事件的調查已進入最後階段。"
+    },
+    {
+      "id": "5222762",
+      "time": "2026-11-18 17:48:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠譽上調四家中資中型銀行的評級】惠譽評級上調了中國民生銀行股份有限公司（民生銀行，BBB/穩定/bb-）、廣發銀行股份有限公司（BBB-/穩定/bb-）、平安銀行股份有限公司（BBB-/穩定/b+）和華夏銀行股份有限公司（BBB-/穩定/b+）的評級。"
+    },
+    {
+      "id": "5222761",
+      "time": "2026-11-18 17:48:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中汽工程中標民用航空無人旋翼機數智化產線專案】中汽工程訊息，近日，中汽工程成功中標安徽通域航空科技有限公司通域民用航空旋翼機數智化產線建設專案，全面負責該民用旋翼機整機數智化產線的整合建設。這是中汽工程首次在無人民用航空器產線領域實現“破局”。"
+    },
+    {
+      "id": "5222760",
+      "time": "2026-11-18 17:47:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智元王闖：長隆具身智慧樂園已部署近500臺機器人，年底預計達1000臺】在深圳近日舉行的APEC財經之夜活動上，智元合夥人、高階副總裁、遠征業務部總裁王闖表示，人形機器人會說話、會走路只是及格線，“會幹活才是真本事”。據其透露，智元與長隆共建的具身智慧主題樂園今年9月開園，目前已有近500臺機器人覆蓋100餘個崗位，預計年底達到1000臺規模。"
+    },
+    {
+      "id": "mkt:01a1ee0d-fe46-7bbc-ac41-6cb5928c37c5",
+      "time": "2026-11-18 17:47:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【AgiBot’s Wang Chuang: Nearly 500 robots deployed at Chimelong embodied AI park, with 1,000 expected by year-end】AgiBot partner, Senior Vice President and Expedition Business Unit President Wang Chuang said at an APEC Finance Night event in Shenzhen that speaking and walking are merely baseline capabilities for humanoid robots; the real test is whether they can work. Nearly 500 robots are now deployed across more than 100 roles at the embodied AI theme park jointly developed by AgiBot and Chimelong, which opened in September. The number is expected to reach 1,000 by year-end."
+    },
+    {
+      "id": "5222759",
+      "time": "2026-11-18 17:47:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：民主黨人調查霍華德·盧特尼克是否幫助坎託規避了英偉達的損失。"
+    },
+    {
+      "id": "5222758",
+      "time": "2026-11-18 17:47:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平和彭麗媛將為出席亞太經合組織第三十三次領導人非正式會議的來賓舉行歡迎宴會】11月18日晚，國家主席習近平和夫人彭麗媛將在深圳國際交流中心舉行宴會，歡迎出席亞太經合組織第三十三次領導人非正式會議的來賓。（CCTV國際時訊）"
+    },
     {
       "id": "5222757",
       "time": "2026-11-18 17:46:12",
