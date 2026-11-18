@@ -1,7 +1,83 @@
 {
-  "updated": "2026-11-18 18:22:47",
-  "count": 9488,
+  "updated": "2026-11-18 18:26:38",
+  "count": 9497,
   "items": [
+    {
+      "id": "mkt:01a1ee30-6dbd-7bbc-ac42-b9ee5da16970",
+      "time": "2026-11-18 18:25:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Intelligence assessment says Putin will keep fighting Ukraine despite planned Trump meeting】Western intelligence assessments indicate Russian President Vladimir Putin is not ready for substantive peace talks on Ukraine, despite plans to meet U.S. President Donald Trump on Thursday, The New York Times reported. Trump said Monday he planned to discuss nuclear weapons and Ukraine, calling the latter his “favorite topic.” The assessments suggest Putin wants to continue the war at least through the end of winter, seeking further gains in eastern Ukraine or to wear down Ukrainian resistance with sustained drone and missile attacks. He may press Trump to lift some Russia sanctions and could have the upper hand in talks on Ukraine."
+    },
+    {
+      "id": "mkt:01a1ee30-0023-7bbc-ac42-b77c1292da61",
+      "time": "2026-11-18 18:24:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS: Magnitude 5.2 earthquake strikes 86 km northwest of Ryotsu Port, Japan."
+    },
+    {
+      "id": "5222879",
+      "time": "2026-11-18 18:24:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍箭航天：朱雀三號遙二運載火箭回收的一子級9臺液氧甲烷發動機，已全部完成地面驗收和試車】在APEC財經之夜現場，藍箭航天空間科技股份有限公司副總裁張靜茹披露朱雀三號回收發動機試車新進展：朱雀三號遙二運載火箭回收的一子級9臺液氧甲烷發動機，經過分解、檢查、維修和重新裝配，已全部完成地面驗收和試車。張靜茹說，火箭回收的意義在於運力價格。價格便宜一分，太空經濟的邊界就拓寬一步，衛星可以鋪得更密，遙感資料更新得更快。當前天上已有計算衛星在軌工作，每一次擴容都要靠火箭送上去。面向亞太，衛星通訊、遙感和空間基礎設施合作正在開啟。（央視財經）"
+    },
+    {
+      "id": "mkt:01a1ee2f-b455-7bbc-ac42-ac109b8592e8",
+      "time": "2026-11-18 18:24:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【LandSpace: All nine recovered Zhuque-3 Y2 first-stage liquid oxygen-methane engines pass ground acceptance and testing】LandSpace Vice President Zhang Jingru said all nine liquid oxygen-methane engines recovered from the Zhuque-3 Y2 first stage have completed inspection, refurbishment, reassembly, ground acceptance and testing. She said lower launch costs could support denser satellite deployment and faster remote-sensing data updates, while satellite communications, remote sensing and space infrastructure cooperation is expanding across Asia-Pacific."
+    },
+    {
+      "id": "5222878",
+      "time": "2026-11-18 18:23:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：日本兩津港西北86公里處發生5.2級地震。"
+    },
+    {
+      "id": "5222877",
+      "time": "2026-11-18 18:23:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局：加強全國流域水風光一體化發展工作統籌】國家能源局印發《關於加快推動流域水風光一體化發展的指導意見》，其中指出，加強工作統籌。國家能源局加強全國流域水風光一體化發展工作統籌。各省級能源主管部門負責本省（區、市）範圍內流域水風光一體化發展工作，涉及主要河流、透過特高壓直流通道跨省跨區消納或規劃新增服務特定電源抽水蓄能的，在國家能源局指導下開展工作。國家能源局各派出機構和省級能源主管部門按照職責分工，加強服務和監管。"
+    },
+    {
+      "id": "5222876",
+      "time": "2026-11-18 18:23:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【約旦一架“黑鷹”直升機墜毀 5名軍人受傷】約旦武裝部隊18日發表宣告說，一架“黑鷹”直升機在軍事訓練中墜毀，造成5名軍人受傷。宣告說，傷者已被送往軍事醫院，其中一人傷勢嚴重。宣告未透露墜機原因及其他細節。（新華社）"
+    },
+    {
+      "id": "mkt:01a1ee2e-5b6f-7bbc-ac42-a7d309db1635",
+      "time": "2026-11-18 18:22:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India-U.S. trade deal is close to being finalized, India's trade secretary says."
+    },
+    {
+      "id": "5222875",
+      "time": "2026-11-18 18:22:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蒙古國議會委員會透過總統辭職請求 待議會全體表決】蒙古國國家大呼拉爾（議會）國家機構常設委員會18日審議並透過總統呼日勒蘇赫的辭職請求，同意將議案提交國家大呼拉爾全體會議進行公開投票表決。呼日勒蘇赫17日對外宣佈，鑑於近期針對其濫用職權、腐敗斂財的相關指控和輿論持續發酵，為澄清事實、恢復個人名譽，他決定辭去總統職務。按照蒙古國相關法律規定，總統提出辭職並不意味著即刻卸任。總統辭職申請首先提交國家大呼拉爾相關委員會稽核。委員會透過相關申請後，將議案提交國家大呼拉爾全體會議公開審議表決。國家大呼拉爾為一院制議會，共設126個席位，最終是否同意總統辭職，以全體會議投票結果為準。（新華社）"
+    },
     {
       "id": "5222874",
       "time": "2026-11-18 18:21:43",
