@@ -1,7 +1,178 @@
 {
-  "updated": "2026-11-18 17:58:59",
-  "count": 9389,
+  "updated": "2026-11-18 18:03:22",
+  "count": 9404,
   "items": [
+    {
+      "id": "5222806",
+      "time": "2026-11-18 18:02:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天壕能源：天壕轉債即將到期 12月21日起停止交易】天壕能源公告稱，公司發行的天壕轉債（債券程式碼123092）到期日為2026年12月23日，到期兌付價格為115元/張（含稅及最後一期利息），最後交易日為2026年12月18日，12月21日起停止交易。停止交易後至12月23日轉股期結束前，持有人仍可轉股，當前轉股價格為4.97元/股。截至2026年12月23日收市後未轉股的天壕轉債將被強制贖回，贖回完成後該轉債將在深交所摘牌。"
+    },
+    {
+      "id": "5222805",
+      "time": "2026-11-18 18:01:51",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "馬耳他10月協調CPI同比上漲2.3%。"
+    },
+    {
+      "id": "5222804",
+      "time": "2026-11-18 18:01:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國民營船企完成大型LNG船批次建造】11月18日上午，在江蘇海事局組織維護下，揚子鑫福船廠建造的17.5萬立方米大型LNG船“鑫福131”輪緩緩駛離碼頭，開啟出江試航。作為該系列收官船，此次試航標誌著我國民營船企批次建造大型LNG船取得階段性成果。（新華社）"
+    },
+    {
+      "id": "5222803",
+      "time": "2026-11-18 18:00:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "截至印度標準時間下午3:30，印度盧比<INR=IN>兌美元匯率基本持平，報93.44，而前一交易日收盤價為93.47。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202611183934072549",
+      "time": "2026-11-18 18:00:30",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "歐元區10月CPI同比增長4%，預期4%，前值4%。"
+    },
+    {
+      "id": "5222801",
+      "time": "2026-11-18 18:00:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度 NIFTY 50 指數<.NSEI>收跌 0.63%，回吐盤前 0.66% 的跌幅。"
+    },
+    {
+      "id": "5222800",
+      "time": "2026-11-18 18:00:25",
+      "tags": [
+        "資料",
+        "焦點"
+      ],
+      "text": "歐元區10月份核心CPI同比上升2.6%；預期為2.5%。\n歐元區10月份CPI環比上升0.5%；預期為0.4%。"
+    },
+    {
+      "id": "mkt:01a1ee19-73af-7bbc-ac41-ee4b9fe50cee",
+      "time": "2026-11-18 18:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Eurozone October CPI rose 4.0% YoY, in line with expectations and the previous reading."
+    },
+    {
+      "id": "mkt:01a1ee19-6e51-7bbc-ac41-e377b14a199c",
+      "time": "2026-11-18 18:00:06",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Euro zone October core CPI rose 0.3% MoM, in line with expectations and the previous reading."
+    },
+    {
+      "id": "mkt:01a1ee19-6c59-7bbc-ac41-d943c167139b",
+      "time": "2026-11-18 18:00:05",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Euro zone October final core CPI rose 2.2% YoY, in line with expectations and the previous reading."
+    },
+    {
+      "id": "mkt:01a1ee19-6ba2-7bbc-ac41-d0c47cb5823b",
+      "time": "2026-11-18 18:00:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Eurozone October CPI rose 0.5% MoM, versus 0.4% expected and 0.4% previously."
+    },
+    {
+      "id": "mkt:01a1ee19-5bb7-7bbc-ac41-cec31e321e71",
+      "time": "2026-11-18 18:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | CPI, final (MoM) (Oct) | actual 0.5% | consensus 0.4% | previous 0.40%"
+    },
+    {
+      "id": "mkt:01a1ee19-5ba0-7bbc-ac41-c7594ed969b9",
+      "time": "2026-11-18 18:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Final (MoM) (Oct) | actual 0.3% | consensus 0.3% | previous 0.3%"
+    },
+    {
+      "id": "mkt:01a1ee19-5b9c-7bbc-ac41-bdbc87899aa5",
+      "time": "2026-11-18 18:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | CPI Final (YoY) (Oct) | actual 4% | consensus 4.00% | previous 4.00%"
+    },
+    {
+      "id": "mkt:01a1ee19-5a8a-7bbc-ac41-b789eafa4860",
+      "time": "2026-11-18 18:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Final (YoY) (Oct) | actual 2.2% | consensus 2.2% | previous 2.2%"
+    },
+    {
+      "id": "mkt:01a1ee19-0d51-7bbc-ac41-ac56cc5d0f23",
+      "time": "2026-11-18 17:59:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhejiang Governor Liu Jie meets Temasek Chairman Teo Chee Hean】Zhejiang Governor Liu Jie met Temasek Chairman Teo Chee Hean in Hangzhou on the afternoon of the 18th. Liu called for deeper cooperation in advanced manufacturing, AI, green development and cross-border trade, and encouraged more high-quality companies to invest in Zhejiang. Teo said Temasek remains confident in China’s economic outlook and will continue to explore investment and cooperation opportunities in Zhejiang."
+    },
+    {
+      "id": "5222799",
+      "time": "2026-11-18 17:59:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克：預計SpaceX不會向OpenAI出售任何算力】馬斯克在X上表示，SpaceX預設未來對OpenAI的銷售額為零，如果OpenAI沒有看到自己的算力需求快速增長，那麼他們的產品可能存在某種問題。此前，OpenAI執行長奧爾特曼表示，晶片製造商對OpenAI的需求估計過高，認為OpenAI會買走他們所有的晶片，但OpenAI和Anthropic這些公司的需求有限，包括算力方面，OpenAI不可能需要所有晶片商的所有晶片。"
+    },
+    {
+      "id": "5222798",
+      "time": "2026-11-18 17:59:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗巴斯基民兵副司令加塞姆·戈雷希週三表示，伊朗武裝部隊已接到命令，擴大導彈射程，以應對新的威脅。他表示，最高領袖穆傑塔巴·哈梅內伊已釋出這一指令，伊朗導彈和航空航天部隊將著手執行。"
+    },
     {
       "id": "5222797",
       "time": "2026-11-18 17:58:26",
@@ -83999,37 +84170,6 @@
         "中國央行"
       ],
       "text": "【央行：繼續用好各類結構性貨幣政策工具 推動加強科技創新全鏈條全生命週期金融服務】央行釋出2026年第三季度中國貨幣政策執行報告，繼續用好各類結構性貨幣政策工具，不斷完善工具設計和管理，加大對做好金融“五篇大文章”、“六張網”建設等重點領域的支援力度。發揮科技創新和技術改造再貸款、債券市場“科技板”作用，強化科技金融資料共享，加快構建更高水平的區域科技金融生態，推動加強科技創新全鏈條全生命週期金融服務。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202611113928505411",
-      "time": "2026-11-11 18:01:12",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行三季度貨幣政策執行報告：完善工具箱 維護金融市場平穩執行】堅持實施好適度寬鬆的貨幣政策，為經濟穩定增長、高質量發展和金融市場平穩執行營造適宜的貨幣金融環境。增強政策前瞻性靈活性針對性，根據國內外經濟金融形勢和金融市場執行情況，綜合運用並適時調整貨幣政策工具，把握好政策實施的力度、節奏和時機，保持流動性充裕和社會融資條件相對寬鬆，引導社會融資規模、貨幣供應量增長同經濟增長、價格總水平預期目標相匹配。"
-    },
-    {
-      "id": "te:markets:600382",
-      "time": "2026-11-11 18:00:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Edges Up from 10-Week Low — Crude oil rose around 1% to near $87 a barrel on Wednesday, recovering from a 10-week low as tensions between the US and Iran remained elevated. Prices gained after Iran’s security chief said Tehran would not allow any enriched nuclear material to leave the country, underscoring a major obstacle to negotiations, as Washington insists nuclear issues must be addressed in initial talks to end the conflict. Despite US officials playing down the need for further military strikes, an Iranian security official denied that any negotiations were underway. Meanwhile, shipping risks in the Strait of Hormuz continued to support prices, with 37 vessels attacked in October, the highest monthly total since the war began. A tanker was also struck off Oman, while Iran’s Revolutionary Guards reported that two other tankers caught fire after hitting naval mines. On the supply side, the American Petroleum Institute reported a 9-million-barrel increase in US crude inventories last week."
-    },
-    {
-      "id": "te:markets:600380",
-      "time": "2026-11-11 17:59:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Brent Crude Edges Up Slightly — Brent crude rose around 1% to near $93 a barrel on Wednesday, recovering from a 10-week low as tensions between the US and Iran remained elevated. Prices gained after Iran’s security chief said Tehran would not allow any enriched nuclear material to leave the country, underscoring a major obstacle to negotiations, as Washington insists nuclear issues must be addressed in initial talks to end the conflict. Despite US officials playing down the need for further military strikes, an Iranian security official denied that any negotiations were underway. Meanwhile, shipping risks in the Strait of Hormuz continued to support prices, with 37 vessels attacked in October, the highest monthly total since the war began. A tanker was also struck off Oman, while Iran’s Revolutionary Guards reported that two other tankers caught fire after hitting naval mines. On the supply side, the American Petroleum Institute reported a 9-million-barrel increase in US crude inventories last week."
     }
   ]
 }

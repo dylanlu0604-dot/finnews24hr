@@ -1,7 +1,178 @@
 {
   "date": "2026-11-18",
-  "count": 1228,
+  "count": 1246,
   "items": [
+    {
+      "id": "5222806",
+      "time": "2026-11-18 18:02:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天壕能源：天壕轉債即將到期 12月21日起停止交易】天壕能源公告稱，公司發行的天壕轉債（債券程式碼123092）到期日為2026年12月23日，到期兌付價格為115元/張（含稅及最後一期利息），最後交易日為2026年12月18日，12月21日起停止交易。停止交易後至12月23日轉股期結束前，持有人仍可轉股，當前轉股價格為4.97元/股。截至2026年12月23日收市後未轉股的天壕轉債將被強制贖回，贖回完成後該轉債將在深交所摘牌。"
+    },
+    {
+      "id": "5222805",
+      "time": "2026-11-18 18:01:51",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "馬耳他10月協調CPI同比上漲2.3%。"
+    },
+    {
+      "id": "5222804",
+      "time": "2026-11-18 18:01:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國民營船企完成大型LNG船批次建造】11月18日上午，在江蘇海事局組織維護下，揚子鑫福船廠建造的17.5萬立方米大型LNG船“鑫福131”輪緩緩駛離碼頭，開啟出江試航。作為該系列收官船，此次試航標誌著我國民營船企批次建造大型LNG船取得階段性成果。（新華社）"
+    },
+    {
+      "id": "5222803",
+      "time": "2026-11-18 18:00:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "截至印度標準時間下午3:30，印度盧比<INR=IN>兌美元匯率基本持平，報93.44，而前一交易日收盤價為93.47。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202611183934072549",
+      "time": "2026-11-18 18:00:30",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "歐元區10月CPI同比增長4%，預期4%，前值4%。"
+    },
+    {
+      "id": "5222801",
+      "time": "2026-11-18 18:00:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度 NIFTY 50 指數<.NSEI>收跌 0.63%，回吐盤前 0.66% 的跌幅。"
+    },
+    {
+      "id": "5222800",
+      "time": "2026-11-18 18:00:25",
+      "tags": [
+        "資料",
+        "焦點"
+      ],
+      "text": "歐元區10月份核心CPI同比上升2.6%；預期為2.5%。\n歐元區10月份CPI環比上升0.5%；預期為0.4%。"
+    },
+    {
+      "id": "mkt:01a1ee19-73af-7bbc-ac41-ee4b9fe50cee",
+      "time": "2026-11-18 18:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Eurozone October CPI rose 4.0% YoY, in line with expectations and the previous reading."
+    },
+    {
+      "id": "mkt:01a1ee19-6e51-7bbc-ac41-e377b14a199c",
+      "time": "2026-11-18 18:00:06",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Euro zone October core CPI rose 0.3% MoM, in line with expectations and the previous reading."
+    },
+    {
+      "id": "mkt:01a1ee19-6c59-7bbc-ac41-d943c167139b",
+      "time": "2026-11-18 18:00:05",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Euro zone October final core CPI rose 2.2% YoY, in line with expectations and the previous reading."
+    },
+    {
+      "id": "mkt:01a1ee19-6ba2-7bbc-ac41-d0c47cb5823b",
+      "time": "2026-11-18 18:00:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Eurozone October CPI rose 0.5% MoM, versus 0.4% expected and 0.4% previously."
+    },
+    {
+      "id": "mkt:01a1ee19-5bb7-7bbc-ac41-cec31e321e71",
+      "time": "2026-11-18 18:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | CPI, final (MoM) (Oct) | actual 0.5% | consensus 0.4% | previous 0.40%"
+    },
+    {
+      "id": "mkt:01a1ee19-5ba0-7bbc-ac41-c7594ed969b9",
+      "time": "2026-11-18 18:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Final (MoM) (Oct) | actual 0.3% | consensus 0.3% | previous 0.3%"
+    },
+    {
+      "id": "mkt:01a1ee19-5b9c-7bbc-ac41-bdbc87899aa5",
+      "time": "2026-11-18 18:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | CPI Final (YoY) (Oct) | actual 4% | consensus 4.00% | previous 4.00%"
+    },
+    {
+      "id": "mkt:01a1ee19-5a8a-7bbc-ac41-b789eafa4860",
+      "time": "2026-11-18 18:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Final (YoY) (Oct) | actual 2.2% | consensus 2.2% | previous 2.2%"
+    },
+    {
+      "id": "mkt:01a1ee19-0d51-7bbc-ac41-ac56cc5d0f23",
+      "time": "2026-11-18 17:59:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhejiang Governor Liu Jie meets Temasek Chairman Teo Chee Hean】Zhejiang Governor Liu Jie met Temasek Chairman Teo Chee Hean in Hangzhou on the afternoon of the 18th. Liu called for deeper cooperation in advanced manufacturing, AI, green development and cross-border trade, and encouraged more high-quality companies to invest in Zhejiang. Teo said Temasek remains confident in China’s economic outlook and will continue to explore investment and cooperation opportunities in Zhejiang."
+    },
+    {
+      "id": "5222799",
+      "time": "2026-11-18 17:59:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克：預計SpaceX不會向OpenAI出售任何算力】馬斯克在X上表示，SpaceX預設未來對OpenAI的銷售額為零，如果OpenAI沒有看到自己的算力需求快速增長，那麼他們的產品可能存在某種問題。此前，OpenAI執行長奧爾特曼表示，晶片製造商對OpenAI的需求估計過高，認為OpenAI會買走他們所有的晶片，但OpenAI和Anthropic這些公司的需求有限，包括算力方面，OpenAI不可能需要所有晶片商的所有晶片。"
+    },
+    {
+      "id": "5222798",
+      "time": "2026-11-18 17:59:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗巴斯基民兵副司令加塞姆·戈雷希週三表示，伊朗武裝部隊已接到命令，擴大導彈射程，以應對新的威脅。他表示，最高領袖穆傑塔巴·哈梅內伊已釋出這一指令，伊朗導彈和航空航天部隊將著手執行。"
+    },
     {
       "id": "5222797",
       "time": "2026-11-18 17:58:26",
