@@ -1,7 +1,279 @@
 {
-  "updated": "2026-11-19 03:03:47",
-  "count": 9438,
+  "updated": "2026-11-19 03:08:04",
+  "count": 9459,
   "items": [
+    {
+      "id": "5223525",
+      "time": "2026-11-19 03:06:05",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：絕大多數官員認為通脹前景存在上行風險。"
+    },
+    {
+      "id": "5223524",
+      "time": "2026-11-19 03:05:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：許多官員指出勞動力市場出現溫和收緊的跡象。"
+    },
+    {
+      "id": "5223523",
+      "time": "2026-11-19 03:05:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：許多官員認為AI建設是通脹風險的重要來源。"
+    },
+    {
+      "id": "mkt:01a1f00c-d180-7bbc-ac51-2da7b33a8905",
+      "time": "2026-11-19 03:05:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Fed staff inf projections were similar to those prepared for the September meeting, while the growth outlook was slightly stronger."
+    },
+    {
+      "id": "5223522",
+      "time": "2026-11-19 03:05:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "兩年期美國國債收益率延續漲勢；最新上漲1.1個基點，至4.802%。"
+    },
+    {
+      "id": "5223521",
+      "time": "2026-11-19 03:05:14",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要公佈後，美國10年期國債收益率縮減跌幅；收益率最新下跌3.67個基點，報5.066%。"
+    },
+    {
+      "id": "5223520",
+      "time": "2026-11-19 03:05:09",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要公佈後，美股小幅下跌；標普500指數最新下跌0.01%。"
+    },
+    {
+      "id": "mkt:01a1f00c-3bd5-7bbc-ac51-2147a8eb70cc",
+      "time": "2026-11-19 03:04:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Some Fed officials worried broad price pressures could prolong the fight against inf."
+    },
+    {
+      "id": "mkt:01a1f00c-169f-7bbc-ac51-1f8736f20007",
+      "time": "2026-11-19 03:04:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed minutes: Participants discussed AI buildout issues, including financial stability risks and potential productivity gains."
+    },
+    {
+      "id": "mkt:01a1f00b-c44a-7bbc-ac51-132e7821f28f",
+      "time": "2026-11-19 03:04:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Several Fed officials said high inflation could make it necessary to discuss a larger rate hike in December."
+    },
+    {
+      "id": "mkt:01a1f00b-5a48-7bbc-ac51-09ba5e36bdf0",
+      "time": "2026-11-19 03:03:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed minutes: Several participants who supported leaving rates unchanged said it was a difficult decision."
+    },
+    {
+      "id": "5223519",
+      "time": "2026-11-19 03:03:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：工作人員的通脹預測與為9月會議準備的預測相似，經濟增長前景略強。"
+    },
+    {
+      "id": "5223518",
+      "time": "2026-11-19 03:03:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：“幾位”官員支援暫停加息，但認為這是“險勝”。"
+    },
+    {
+      "id": "mkt:01a1f00a-d45b-7bbc-ac51-06aa002a8dc1",
+      "time": "2026-11-19 03:03:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Many Fed officials said the October rate-hike pause allowed the C.BANK to gather more information."
+    },
+    {
+      "id": "mkt:01a1f00a-ca19-7bbc-ac50-fcc30e2a7a42",
+      "time": "2026-11-19 03:03:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Many participants stressed that, in communicating the decision to leave rates unchanged, it was important to make clear that this did not weaken their commitment to returning inf to the 2% target in a timely manner."
+    },
+    {
+      "id": "mkt:01a1f00a-bc41-7bbc-ac50-f1958d353f20",
+      "time": "2026-11-19 03:03:17",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Several participants who favored a rate hike said they could have supported holding rates steady if market participants clearly understood that further tightening remained possible."
+    },
+    {
+      "id": "5223517",
+      "time": "2026-11-19 03:03:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：“許多”官員表示，10月暫停加息讓委員會能夠積累更多資訊。"
+    },
+    {
+      "id": "mkt:01a1f00a-b4de-7bbc-ac50-eeb8c5942e64",
+      "time": "2026-11-19 03:03:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed minutes: Some participants favored a 25-bp rate hike at the October meeting, citing excessively high inf and little evidence that it was easing."
+    },
+    {
+      "id": "5223516",
+      "time": "2026-11-19 03:03:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：幾位支援利率不變的與會者表示，這是一個勢均力敵的決定。"
+    },
+    {
+      "id": "5223515",
+      "time": "2026-11-19 03:03:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：許多與會者強調，必須傳達不加息的決定並不意味著他們對及時將通脹率恢復到2%目標的承諾有所減弱。"
+    },
+    {
+      "id": "mkt:01a1f00a-799a-7bbc-ac50-e595b667dba0",
+      "time": "2026-11-19 03:03:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed minutes: Almost all officials expected further rate hikes after the October pause."
+    },
+    {
+      "id": "5223514",
+      "time": "2026-11-19 03:02:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：少數支援加息的與會者表示，如果市場參與者清楚地理解可能會進一步收緊政策，他們本可以支援維持利率不變。"
+    },
+    {
+      "id": "mkt:01a1f00a-6601-7bbc-ac50-dc9d7017aeca",
+      "time": "2026-11-19 03:02:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed minutes: “Some” officials favored a 25-bps rate hike in October."
+    },
+    {
+      "id": "5223513",
+      "time": "2026-11-19 03:02:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：部分與會者觀察到，通脹可能比預期更持久，因此有必要轉向更具限制性的政策立場。"
+    },
     {
       "id": "mkt:01a1f00a-54c6-7bbc-ac50-d69b6f42ffdd",
       "time": "2026-11-19 03:02:51",
@@ -84606,30 +84878,6 @@
         "市場"
       ],
       "text": "美元兌瑞郎觸及盤中高點，最新上漲0.98%，報0.83325瑞郎。"
-    },
-    {
-      "id": "5208843",
-      "time": "2026-11-12 03:05:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉在土耳其會見委內瑞拉代總統羅德里格斯。"
-    },
-    {
-      "id": "5208842",
-      "time": "2026-11-12 03:04:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門表示，塔伊夫、延布和哈米斯穆謝特的危險已經過去。"
-    },
-    {
-      "id": "5208841",
-      "time": "2026-11-12 03:04:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：俄羅斯的特使拒絕停火提議。"
     }
   ]
 }
